@@ -1,0 +1,41 @@
+# Sobriedad
+
+> Área: Moral
+> Última actualización: 2026-05-22
+
+## Definición
+
+La sobriedad es la virtud moral, parte subjetiva de la templanza, que modera el uso de las bebidas embriagantes y, en sentido más amplio, todo aquello que pueda turbar la razón o excitar desordenadamente los sentidos, conforme a la recta razón iluminada por la fe.
+
+## Desarrollo doctrinal
+
+La sobriedad es una virtud especial que tiene por objeto moderar, de acuerdo con la razón iluminada por la fe, el uso de las bebidas embriagantes y otros placeres que puedan embotar la mente. Se opone a la embriaguez, que es uno de los vicios más viles y repugnantes.
+
+## Perspectivas por fuente
+
+### Según el Catecismo (CEC)
+La templanza es llamada en el Nuevo Testamento «moderación» o «sobriedad» (CEC §1809). Debemos «vivir con moderación, justicia y piedad en el siglo presente» (Tt 2,12). La sobriedad del corazón es la vigilancia contra el ánimo posesivo y dominador; cuando Jesús insiste en la vigilancia, es siempre en relación a Él, a su Venida (CEC §2730). La sobriedad se opone a la embriaguez, que es una ofensa grave contra la virtud de la templanza.
+
+### Según Royo Marín (TPCr)
+La sobriedad, entendida en sentido general, significa la moderación y templanza en cualquier materia; en sentido propio y estricto, es una virtud especial que tiene por objeto moderar el uso de las bebidas embriagantes (TPCr, Tercera Parte, Libro II, Cap. II, n.456). Según Santo Tomás, aunque la sobriedad es conveniente a toda clase de personas, de un modo especial deben cultivarla: los jóvenes, por su inclinación a la sensualidad; las mujeres, por su debilidad mental; los ancianos, que deben dar ejemplo; los ministros de la Iglesia, que deben dedicarse a las cosas espirituales; y los gobernantes, que deben gobernar con sabiduría (n.456, citando II-II, 149, 4). La embriaguez voluntaria que llega a la pérdida total de los sentidos es pecado mortal (n.456, citando II-II, 150, 2). La concupiscencia no sabe dónde termina la necesidad; es preciso combatir con la sobriedad y la templanza, la abstinencia y el ayuno (TPCr, Tercera Parte, Libro I, Cap. II).
+
+## Distinciones importantes
+
+- La sobriedad en sentido estricto modera el uso de bebidas embriagantes
+- En sentido amplio, se extiende a toda moderación de los placeres que puedan embotar la razón
+- Se distingue de la abstinencia (que modera el uso de alimentos)
+- Es parte subjetiva de la templanza, junto con la castidad
+
+## Relaciones doctrinales
+
+Se relaciona con [[templanza]], [[abstinencia]], [[castidad]], [[modestia]], [[fortaleza]], [[vigilancia]], [[gula]]
+
+## Ver también
+
+[[templanza]], [[abstinencia]], [[modestia]]
+
+## Referencias
+
+- CEC §1809, §2730
+- TPCr, Tercera Parte, Libro II, Cap. II, n.456; Tercera Parte, Libro I, Cap. II
+- Santo Tomás, S.Th., II-II, q. 149-150

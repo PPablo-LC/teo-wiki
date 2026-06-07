@@ -1,0 +1,70 @@
+# Bienaventuranza
+
+> Área: Dogmática — Escatología
+> Última actualización: 2026-06-04
+
+## Definición
+
+La bienaventuranza eterna o visión beatífica es el fin último del hombre, que consiste en la posesión perfecta de Dios mismo, viéndole cara a cara y gozando de la felicidad plena e inagotable que solo Él puede dar. Es la participación en la vida íntima de la Santísima Trinidad.
+
+## Desarrollo doctrinal
+
+Dios ha puesto en el corazón del hombre un deseo natural de felicidad que solo Dios puede saciar. La bienaventuranza eterna consiste en la visión intuitiva de Dios, en la que el alma perfectamente purificada y glorificada contempla la esencia divina. Es un don gratuito de Dios y la corona del mérito alcanzado con la gracia.
+
+## Perspectivas por fuente
+
+### Según el Catecismo (CEC)
+
+Dios nos ha puesto en el mundo para conocerle, servirle y amarle, y así ir al Cielo. En esto consiste la felicidad del hombre: la bienaventuranza eterna (§1720-1724, §1726). Las bienaventuranzas evangélicas responden al deseo natural de felicidad: «Sólo Dios sacia» (§1718, §1725). El Cielo colmará todos los deseos de felicidad (§2548-2550, §2556-2557). La persona humana está destinada a la bienaventuranza eterna (§1703, §1710-1711).
+
+[CEC §1023-1028, §1703, §1718-1726, §2548-2557]
+
+### Según la Summa Theologiae (SmTh)
+
+**Bienaventuranza divina (Iª q.26):** Santo Tomás trata la bienaventuranza divina en SmTh Iª q.26. La bienaventuranza se atribuye propiamente a Dios (a.1): la bienaventuranza es el bien perfecto de la naturaleza intelectual, y Dios es el supremo Bien intelectual. Dios es bienaventurado no por adquisición sino por esencia (a.2): su bienaventuranza consiste en el perfecto gozo de sí mismo, en la intelección de su propia esencia. La bienaventuranza de Dios es única (a.3), pues su entendimiento y su esencia son uno; sin embargo, en cuanto a los diferentes aspectos de su perfección, se dice que Dios es bienaventurado de diversos modos. Ninguna criatura puede ser bienaventurada sino por participación de la bienaventuranza divina, que consiste en la visión de Dios. La bienaventuranza de Dios es eterna, inmutable e infinita.
+
+**Bienaventuranza de los ángeles (Iª q.62):** Santo Tomás aplica la doctrina de la bienaventuranza a los ángeles en Iª q.62. Distingue una doble bienaventuranza en el ángel: la natural (alcanzable con sus solas fuerzas, poseída desde la creación) y la sobrenatural (que excede la capacidad de todo entendimiento creado, q.12 a.4). Los ángeles necesitaron la [[gracia_santificante]] para ordenar su voluntad a la bienaventuranza sobrenatural (q.62 a.2). Fueron creados en gracia, merecieron la bienaventuranza con un solo acto de amor, y la alcanzaron inmediatamente (q.62 a.3-5). Recibieron la gracia y la gloria conforme a su perfección natural (q.62 a.6). Los ángeles bienaventurados no pueden pecar ni progresar en la bienaventuranza esencial, aunque puede crecer el premio accidental (q.62 a.8-9). Véase [[perfección_angélica_en_gracia_y_gloria]].
+
+**Tratado del fin último y la bienaventuranza del hombre (Ia-IIae q.1-5):** Santo Tomás dedica las primeras cinco cuestiones de la Prima Secundae a la bienaventuranza como fin último del hombre. Tras sentar la doctrina del fin último (q.1), procede a investigar la bienaventuranza del hombre.
+
+*En qué no consiste la bienaventuranza (q.2):* La bienaventuranza no puede consistir en riquezas (a.1), porque éstas son bienes útiles, no el bien perfecto que colma el deseo. Tampoco en honores (a.2), que son bienes exteriores dados por otros. No en la fama o la gloria (a.3), que pueden ser falsas y no aseguran la perfección. No en el poder (a.4), que es inestable y no depende de la virtud del que lo posee. No en los bienes del cuerpo (a.5), como la salud o la belleza, porque el cuerpo se ordena al alma. No en el placer (a.6), especialmente el deleite corporal, que es común a los brutos. Ni siquiera en los bienes del alma (a.7), porque el alma misma no es su fin último sino el principio que lo alcanza.
+
+*En qué consiste la bienaventuranza (q.3):* La bienaventuranza es algo increado (Dios mismo como objeto) y algo creado (la operación por la cual se le alcanza, a.1). Consiste en una operación del entendimiento, no de la voluntad (a.4), porque la bienaventuranza es la posesión del Bien perfecto, y la posesión intelectual —la visión— es más perfecta que la mera afección de la voluntad; el gozo de la voluntad es consecuencia de la visión, no su esencia. Es una operación del entendimiento especulativo (no práctico, a.5), pues consiste en contemplar; pero como perfecciona al hombre entero, participan también el querer, la memoria y los sentidos. Requiere la visión de la esencia divina (a.8), porque ningún bien creado puede colmar el deseo natural de conocer la causa primera.
+
+*Qué se requiere para la bienaventuranza (q.4):* La delectación (deleite) acompaña necesariamente a la bienaventuranza (a.1), como propiedad inseparable: la visión de Dios produce deleite en la voluntad. La visión es anterior en perfección al deleite (a.2), porque el amor procede del conocimiento. La comprehensión o aprehensión perfecta, es decir, la posesión estable, también se requiere (a.3). Se requiere la rectitud de la voluntad (a.4), porque sin ella no se puede alcanzar el último fin sobrenatural. El cuerpo contribuye a la bienaventuranza del alma (a.5, a.6): el alma separada puede ser bienaventurada, pero la perfección del alma no es completa sin el cuerpo, pues el alma es parte de la naturaleza humana. Se requieren bienes exteriores como disposición instrumental (a.7): en la bienaventuranza perfecta no son necesarios, pero en la imperfecta de esta vida sí. También se requiere la compañía de los amigos (a.8), para la bienaventuranza perfecta no esencialmente sino como bien accidental; en la imperfecta de esta vida, la amistad es necesaria.
+
+*Consecución de la bienaventuranza (q.5):* El hombre puede alcanzar la bienaventuranza (a.1) porque su deseo natural de felicidad no es vano. Un bienaventurado puede serlo más que otro (a.2), pues la bienaventuranza se recibe según la capacidad de cada uno, y la capacidad varía según la disposición y los méritos. Nadie puede ser bienaventurado en esta vida (a.3), porque la visión de Dios —esencia de la bienaventuranza— es imposible mientras vivamos en el cuerpo mortal sujeto a la fe y no a la visión. La bienaventuranza que se puede tener en esta vida es imperfecta. La bienaventuranza, una vez alcanzada, no puede perderse (a.4), porque el objeto que la causa —Dios— no falta y la operación que la constituye es ininterrumpible. El hombre puede alcanzar por sus solas fuerzas naturales la bienaventuranza imperfecta, proporcionada a su naturaleza (a.5, a.7) —como el conocimiento de Dios por la razón y la práctica de las virtudes morales—, pero no la bienaventuranza perfecta o sobrenatural (visión beatífica), que excede toda capacidad creada. Todo hombre desea naturalmente la bienaventuranza (a.8), porque el apetito del bien perfecto es connatural a la voluntad; pero no todos desean el objeto concreto en que la bienaventuranza consiste: la visión de Dios.
+
+[SmTh Ia-IIae q.1-5]
+
+### Según Royo Marín (TPCr)
+
+El fin de la vida cristiana es la visión beatífica, que constituye la perfección última del hombre. Todas las gracias, virtudes y dones del Espíritu Santo se ordenan a preparar al alma para la bienaventuranza eterna. En el cielo, el alma unida a Dios goza de una felicidad perfecta que consiste en la posesión del Bien infinito.
+
+[TPCr, Parte I, Cap. 1; Parte II, Cap. 2]
+
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+Las bienaventuranzas del sermón de la montaña (*Mt 5,3-12; Lc 6,20-26*) ofrecen el programa de la felicidad cristiana. Jesús no es un sabio que enseña la bienaventuranza, sino que la encarna: él mismo es el reino presente, el cumplimiento de las promesas. Dichosos los pobres, los que lloran, los perseguidos — inversión radical de los valores del mundo. En el AT, la bienaventuranza se identificaba con los bienes terrenos y la larga vida; Jesús la sitúa en el reino de los cielos, ya inaugurado en su persona. El Apocalipsis proclama bienaventurados a los que velan, a los invitados a las nupcias del Cordero y a los que mueren en el Señor (*Ap 14,13; 19,9; 22,7*) [VocTeoBib, «Bienaventuranza»].
+
+## Distinciones importantes
+
+- **Bienaventuranza eterna vs. bienaventuranzas evangélicas**: la primera es el fin; las segundas, el camino
+- **Bienaventuranza perfecta (sobrenatural) vs. imperfecta (natural)**: la perfecta es la visión beatífica, fin sobrenatural del hombre, que excede toda capacidad creada (Ia-IIae q.5 a.5); la imperfecta es la felicidad accesible en esta vida mediante el ejercicio de la razón y las virtudes morales, que es proporcionada a la naturaleza humana (Ia-IIae q.5 a.7)
+- **Visión beatífica vs. conocimiento natural de Dios**: la visión beatífica es intuitiva y directa; el conocimiento natural es discursivo y por analogía
+- **Bienaventuranza esencial vs. accidental**: la esencial consiste en la visión de Dios; la accidental, en los dones añadidos (amistad de los santos, gozos del cuerpo resucitado, etc.)
+
+## Relaciones doctrinales
+
+La bienaventuranza se relaciona con el [[cielo]], la [[visión_beatífica]], la [[gloria]], el [[fin_último]], la [[gracia_santificante]] y la [[comunión_de_los_santos]].
+
+## Ver también
+
+[[cielo]], [[gloria_de_Dios]], [[visión_beatífica]], [[bienaventuranzas]], [[filiación_divina]], [[fin_último]]
+
+## Referencias
+
+- [CEC §1023-1028, §1718-1726, §2548-2557]
+- [TPCr, Parte I, Cap. 1; Parte II, Cap. 2]
+- [SmTh Ia-IIae q.1-5; SmTh Iª q.12, q.26, q.62]
+- [VocTeoBib, «Bienaventuranza»]

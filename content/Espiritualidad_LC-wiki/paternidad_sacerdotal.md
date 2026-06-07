@@ -1,0 +1,49 @@
+# Paternidad sacerdotal
+
+> Área: Espiritualidad / Sacerdocio
+> Última actualización: 2026-05-25
+
+## Definición
+
+La paternidad sacerdotal es el don y la misión recibida por el presbítero, en virtud de su configuración con Cristo, de engendrar y acompañar espiritualmente a los fieles como un padre que engendra, sostiene y guía la vida sobrenatural. En la tradición de la Legión de Cristo, esta paternidad ha sido profundamente afectada por los abusos del fundador, y el Capítulo General LC-2026 invita a redescubrirla desde la paternidad de Dios Padre.
+
+## Desarrollo doctrinal
+
+El Capítulo General LC-2026 aborda la paternidad sacerdotal en la primera parte de su Comunicado (n. 59-61), reconociendo que la historia de la Legión «lleva consigo una carencia en la paternidad derivada de los abusos de su fundador» [LC-2026, n. 59]. Este hecho tiene consecuencias transversales en diversos aspectos de la vida legionaria: la relación con los superiores, con los directores espirituales, con las normas y el papel hacia las otras vocaciones del [[regnum_christi]].
+
+## Perspectivas por fuente
+
+### Según el Capítulo General LC-2026 (LC-2026)
+
+**La carencia de paternidad por los abusos del fundador.** El Capítulo reconoce con honestidad que «la historia de la Legión lleva consigo una carencia en la paternidad derivada de los abusos de su fundador» [LC-2026, n. 59]. Esta carencia afecta de manera transversal la relación con los superiores, los directores espirituales, las normas y el papel de los legionarios hacia las otras vocaciones del [[regnum_christi]].
+
+**Desarrollar la paternidad como don de Dios Padre.** Más allá de los hechos históricos, los padres capitulares sienten «la necesidad de desarrollar esta paternidad como don de Dios Padre y expresión de nuestro ministerio sacerdotal» [LC-2026, n. 59]. No se trata de una mera reconstrucción psicológica o institucional, sino de un don teologal que brota de la participación en la paternidad divina.
+
+**Aprender a ser hijos para ser padres.** La identidad sacerdotal se construye en las relaciones: «es aprendiendo a ser hijos como podemos llegar a ser padres» [LC-2026, n. 60]. Por eso, el Capítulo invita a desarrollar la [[espiritualidad]] cristocéntrica incorporando más conscientemente «una espiritualidad de la paternidad de Dios», recordando que «el mensaje que Cristo comunicó a sus apóstoles durante su vida en la tierra está centrado en la revelación del Padre» [LC-2026, n. 60].
+
+**Llamarse «padre» entre nosotros como signo.** El modo ordinario de tratarse entre legionarios llamándose «padre» es «un recordatorio continuo» de la paternidad redimida y sanadora [LC-2026, n. 61]. Este trato interpela a ser «un signo humilde del único Padre del Cielo (cf. Mt 23,9)».
+
+**Crisis de la paternidad en la cultura actual.** «En una cultura marcada tan fuertemente por la crisis de la paternidad, que a su vez empaña la imagen de Dios Padre, estamos llamados a hacer presente públicamente una paternidad redimida y sanadora» [LC-2026, n. 61]. Esta crisis cultural hace más urgente el testimonio de una paternidad sacerdotal auténtica.
+
+**Paternidad en el acompañamiento de los varones.** El Capítulo vincula la paternidad sacerdotal con el acompañamiento de los varones: «Desde la paternidad sacerdotal del legionario es un modo concreto de formar apóstoles, fortalecer familias y colaborar en la renovación evangelizadora de la sociedad» [LC-2026, n. 47, «La misión: Caritas Christi urget nos»].
+
+## Distinciones importantes
+
+- Paternidad espiritual vs. paternidad biológica: la primera engendra para la vida sobrenatural.
+- Paternidad sacerdotal como participación en la paternidad de Dios vs. paternidad humana: ambas son análogas pero la primera tiene su fuente en Dios.
+- Paternidad redimida y sanadora vs. paternidad herida: la gracia puede sanar la transmisión de heridas de una generación a otra.
+- Paternidad como servicio vs. paternidad como dominio: la primera imita al Padre celestial que da vida y libertad; la segunda controla y somete.
+
+## Relaciones doctrinales
+
+Se relaciona con [[sacerdocio]], [[cristo]], [[virgen_maría]], [[vida_consagrada]], [[consagración]], [[conversión]], [[familia]] y [[iglesia]].
+
+## Ver también
+
+[[sacerdocio]], [[cristo]], [[vida_consagrada]], [[consagración]], [[conversión]], [[familia]]
+
+## Referencias
+
+- [LC-2026, n. 59-61]
+- [LC-2026, n. 47 («La misión: Caritas Christi urget nos»)]
+- [LC-2026, n. 57 (Ratio institutionis CVV)]

@@ -1,0 +1,44 @@
+# Parabola del hijo prodigo
+
+> Area: Sagrada Escritura
+> Ultima actualización: 2026-06-03
+
+## Definición
+
+Parabola de Jesucristo narrada en Lc 15,11-32, tambien llamada del «Padre misericordioso». Relata la historia de un hijo que abandona la casa paterna, dilapida su herencia y, arrepentido, regresa al padre que lo acoge con amor y misericordia, celebrando un banquete de fiesta.
+
+## Desarrollo doctrinal
+
+La parabola del hijo prodigo es considerada la mas bella de las parabolas de la misericordia. Describe el proceso de la conversion: la fascinacion por una libertad ilusoria, el abandono de la casa paterna, la miseria extrema, la reflexion, el arrepentimiento, la decision de volver y la acogida generosa del padre. La parabola revela el amor misericordioso del Padre celestial, que respeta la libertad del hijo pero espera paciente su retorno y lo acoge sin condiciones. Es tambien una imagen del sacramento de la Penitencia y de la alegria del cielo por un pecador que se convierte.
+
+## Perspectivas por fuente
+
+### Según el Catecismo (CEC)
+
+El Catecismo cita la parabola repetidamente como descripcion del proceso de conversion y penitencia (§1439), como modelo de la oracion de peticion de perdon (§2839) y como expresion de la dignidad humana que recurre a la misericordia del Padre (§1700). La parabola aparece tambien en relacion con el ministerio sacerdotal en la confesion (§1465).
+
+### Según el análisis de conferencias para varones (notas)
+
+> **Nota**: Estas son fuentes complementarias de caracter testimonial y pastoral, no magisterial. Se incluyen por su valor edificante y por su convergencia con la doctrina católica.
+
+- Adam Farber (justice.md) presenta la parabola como caso de estudio de la comunicacion divina: tres personajes, dos modos de hablar (descriptivo y directivo). La lectura retorica enriquece la comprension de la parabola en clave pedagogica.
+- Adam Farber (fortitude_through_excellence_in_patience.md) aplica la parabola a la virtud de la paciencia: el Padre que espera paciente, respeta el libre albedrio y sale al encuentro del hijo arrepentido.
+
+## Distinciones importantes
+
+- Parabola del hijo prodigo vs parabola de la oveja perdida y la dracma perdida (Lc 15)
+- El hijo mayor como figura del fariseo o del justo que no comprende la misericordia
+
+## Relaciones doctrinales
+
+Se relaciona con [[misericordia_divina]], [[conversión]], [[penitencia]], [[sacramento_de_la_reconciliación]], [[perdón]], [[padre]], [[pecado]], [[arrepentimiento]]
+
+## Ver también
+
+[[misericordia_divina]], [[conversión]], [[penitencia]], [[sacramento_de_la_reconciliación]], [[parábola_del_siervo_sin_misericordia]]
+
+## Referencias
+
+- [CEC §1439, 1465, 1700, 2839]
+- [Nota: analizados/adam_farber_justice.md]
+- [Nota: analizados/adam_farber_fortitude_through_excellence_in_patience.md]

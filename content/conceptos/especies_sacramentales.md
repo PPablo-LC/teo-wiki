@@ -1,0 +1,43 @@
+# Especies sacramentales
+
+> Área: Dogmática / Sacramental
+> Última actualización: 2026-05-22
+
+## Definición
+
+Las especies sacramentales son las apariencias del pan y del vino que, después de la consagración en la Santa Misa, permanecen como signos sensibles bajo los cuales está realmente presente Jesucristo —Cuerpo, Sangre, Alma y Divinidad— en el sacramento de la [[eucaristía]]. Designan la realidad accidental que subsiste después de la [[transubstanciación]].
+
+## Desarrollo doctrinal
+
+Por la transubstanciación, toda la sustancia del pan y del vino se convierte en la sustancia del Cuerpo y de la Sangre de Cristo, permaneciendo únicamente las especies o accidentes del pan y del vino (color, sabor, peso, extensión). Bajo estas especies, Cristo está todo entero presente en cada una de ellas y en cada una de sus partes. La presencia eucarística dura mientras subsistan las especies sacramentales.
+
+## Perspectivas por fuente
+
+### Según el Catecismo (CEC)
+
+El CEC enseña que Cristo está presente «sobre todo, bajo las especies eucarísticas» (§1373). El modo de presencia de Cristo bajo las especies eucarísticas es singular; en el Santísimo Sacramento están «contenidos verdadera, real y substancialmente el Cuerpo y la Sangre junto con el alma y la divinidad de nuestro Señor Jesucristo, y, por consiguiente, Cristo entero» (§1374). La presencia eucarística comienza en el momento de la consagración y dura todo el tiempo que subsistan las especies eucarísticas (§1377). Cristo está todo entero presente en cada una de las especies y en cada una de sus partes (§1377).
+
+### Según Royo Marín (TPCr)
+
+Royo Marín explica que la presencia real de Cristo está vinculada a las especies sacramentales: «su presencia real, física, está vinculada de tal manera a las especies sacramentales, que, cuando ellas se alteran substancialmente, desaparece en absoluto». La acción de gracias después de la comunión debe prolongarse mientras permanecen las especies —aproximadamente media hora—, durante la cual Cristo permanece físicamente presente en el corazón del comulgante.
+
+[TPCr, Tercera Parte, Libro II, Cap. 1, Art. 5]
+
+## Distinciones importantes
+
+- **Sustancia vs. accidentes**: en la Eucaristía, la sustancia del pan y del vino se convierten en Cristo; solo los accidentes (especies) permanecen.
+- **Transubstanciación vs. consubstanciación**: la primera sostiene un cambio real de sustancia; la segunda (luterana) sostiene una coexistencia.
+- **Especies sacramentales y fracción del pan**: la fracción no divide a Cristo; Cristo está todo entero en cada parte.
+
+## Relaciones doctrinales
+
+Las especies sacramentales se relacionan con la [[eucaristía]], la [[transubstanciación]], la [[presencia_real]], la [[misa]] (donde se realiza la consagración) y la [[comunión]]. Su permanencia permite la [[adoración]] eucarística y la reserva del Santísimo Sacramento en el sagrario.
+
+## Ver también
+
+[[eucaristía]], [[transubstanciación]], [[presencia_real]], [[misa]], [[comunión]], [[adoración_eucarística]]
+
+## Referencias
+
+- [CEC §§1373-1377]
+- [TPCr, Tercera Parte, Libro II, Cap. 1, Art. 5]

@@ -1,0 +1,40 @@
+# Consentimiento matrimonial
+
+> Área: Derecho Canónico / Sacramental
+> Última actualización: 2026-05-26
+
+## Definición
+
+El consentimiento matrimonial es el acto de la voluntad por el cual el varón y la mujer se entregan y aceptan mutuamente en alianza irrevocable para constituir el matrimonio. Es la causa eficiente del matrimonio, que ningún poder humano puede suplir.
+
+## Perspectivas por fuente
+
+### Según el Código de Derecho Canónico (CIC)
+
+Se regula en los cc. 1055-1057 y 1095-1107 del Título VII (Del Matrimonio). El c. 1057 §1 establece que el matrimonio lo produce el consentimiento de las partes legítimamente manifestado entre personas jurídicamente hábiles, consentimiento que ningún poder humano puede suplir. El §2 define el consentimiento como «el acto de la voluntad por el cual el varón y la mujer se entregan y aceptan mutuamente en alianza irrevocable para constituir el matrimonio».
+
+El c. 1095 enumera las causas de incapacidad para prestar válido consentimiento: 1) quienes carecen de suficiente uso de razón; 2) quienes tienen grave defecto de discreción de juicio sobre los derechos y deberes esenciales del matrimonio; 3) quienes no pueden asumir las obligaciones esenciales por causas de naturaleza psíquica.
+
+El c. 1096 exige conocimiento mínimo de que el matrimonio es un consorcio permanente entre varón y mujer ordenado a la procreación. El c. 1097 establece que el error acerca de la persona hace inválido el matrimonio; el error acerca de una cualidad no lo dirime, salvo que se pretenda directa y principalmente. El c. 1098 introduce la figura del dolo como causa de nulidad: quien contrae engañado dolosamente sobre una cualidad que puede perturbar gravemente el consorcio conyugal, contrae inválidamente.
+
+El c. 1101 presume que el consentimiento interno está conforme con las palabras o signos empleados; pero si uno o ambos excluyen con acto positivo de voluntad el matrimonio mismo o un elemento esencial, contraen inválidamente. El c. 1103 declara inválido el matrimonio contraído por violencia o miedo grave.
+
+### Según el Comentario al CIC (Com-CIC-Eunsa)
+
+El comentario al c. 1095 (P.J. Viladrich) explica que el consentimiento matrimonial debe ser un acto de voluntad cualificado por la naturaleza matrimonial de su objeto, no bastando cualquier acto humano. La incapacidad consensual puede manifestarse en tres formas: falta de uso de razón, defecto grave de discreción de juicio, e incapacidad para asumir las obligaciones esenciales. Se trata de exigencias de derecho natural.
+
+El comentario al c. 1098 señala que se tipifica por vez primera el dolo como causa de nulidad, distinguiéndolo del error: en el dolo es un tercero quien elabora mediante engaño una falsa realidad. El comentario al c. 1103 distingue la violencia física (que opera sobre la expresión externa) del miedo o coacción moral (que vicia la génesis interna del consentimiento).
+
+## Relaciones doctrinales
+
+El consentimiento matrimonial es el elemento constitutivo del [[matrimonio]]. Se distingue de los [[impedimentos_dirimentes]], que inhabilitan a la persona para consentir válidamente, y de la forma canónica, que es el requisito externo de validez. Se relaciona con la [[convalidación_del_matrimonio]] cuando el consentimiento inicial fue nulo.
+
+## Ver también
+
+[[matrimonio]], [[impedimentos_dirimentes]], [[convalidación_del_matrimonio]], [[sanatio_in_radice]], [[forma_canónica]]
+
+## Referencias
+
+- CIC cc. 1055-1057
+- CIC cc. 1095-1107
+- Com-CIC-Eunsa, comentarios a los cc. 1095-1107 (P.J. Viladrich)

@@ -1,0 +1,43 @@
+# Educación católica
+
+> Área: Derecho Canónico
+> Última actualización: 2026-05-26
+
+## Definición
+
+La educación católica es el conjunto de medios e instituciones mediante los cuales la Iglesia, en cumplimiento de su misión divina, ayuda a los hombres a alcanzar la plenitud de la vida cristiana, procurando la formación integral de la persona humana en orden a su fin último y al bien común de la sociedad.
+
+## Perspectivas por fuente
+
+### Según el Código de Derecho Canónico (CIC)
+
+El Título III del Libro III (cc. 793-821) regula la educación católica. Los padres tienen la obligación y el derecho de educar a la prole y de elegir medios e instituciones para la educación católica de los hijos (c. 793). La Iglesia tiene el deber y derecho de educar, pues Dios le ha confiado la misión de ayudar a los hombres a llegar a la plenitud de la vida cristiana (c. 794). La verdadera educación debe procurar la formación integral de la persona humana, desarrollando armónicamente sus dotes físicas, morales e intelectuales (c. 795). Comprende tres ámbitos: las escuelas (cc. 796-806), las universidades católicas e institutos superiores (cc. 807-814), y las universidades y facultades eclesiásticas (cc. 815-821).
+
+### Según el Comentario al CIC (Com-CIC-Eunsa)
+
+Hay que distinguir la educación religiosa —que compete a la Iglesia en virtud de su misión divina— de la educación en materias profanas, que no es monopolio del Estado. Dentro de la educación hay que distinguir la enseñanza (aprendizaje sistemático de una rama del saber, con grados y títulos) de la formación (inculcar normas y hábitos de comportamiento). La formación religiosa es responsabilidad primaria de los padres respecto a los menores. La educación católica abarca tanto la enseñanza de la religión en centros propios y ajenos como el servicio de asistencia religiosa en los centros docentes.
+
+### Según el Concilio Vaticano II (ConcVatII)
+
+La Declaración «Gravissimum educationis» constituye la carta magna de la educación cristiana en el Concilio Vaticano II. Proclama que todos los hombres, «en cuanto participantes de la dignidad de la persona, tienen el derecho inalienable de una educación» que responda al propio fin y carácter (GE §1). La verdadera educación «se propone la formación de la persona humana en orden a su fin último y al bien de las varias sociedades» (GE §1).
+
+Los cristianos, «en cuanto han sido regenerados por el agua y el Espíritu Santo», tienen derecho a la educación cristiana, que busca «que los bautizados se hagan más conscientes cada día del don de la fe» mientras son iniciados gradualmente en el misterio de la salvación (GE §2). La Iglesia tiene el deber de anunciar a todos el camino de la salvación y de comunicar a los creyentes la vida de Cristo (GE §3). Entre los medios para la educación cristiana, el primero es la instrucción catequética (GE §4).
+
+Los padres son «los primeros y principales educadores» de sus hijos, con una obligación tan grave que «cuando falta, difícilmente puede suplirse» (GE §3). La familia cristiana es «la primera escuela de las virtudes sociales» (GE §3).
+
+### Según el Concilio Vaticano II (ConcVatII)
+
+GS 61: «La madre nutricia de esta educación es ante todo la familia: en ella los hijos, en un clima de amor, aprenden juntos con mayor facilidad la recta jerarquía de las cosas.» GS 62: «La Iglesia ha contribuido mucho al progreso de la cultura.» Los teólogos deben buscar «un modo más apropiado de comunicar la doctrina a los hombres de su época». «Hay que reconocer y emplear suficientemente en el trabajo pastoral no sólo los principios teológicos, sino también los descubrimientos de las ciencias profanas.» GS 43: Los laicos competentes «tienen la misión de cristianizar el mundo» y ser testigos de Cristo en medio de la sociedad humana.
+
+## Relaciones doctrinales
+
+La [[escuela_católica]] es un medio primordial para la educación católica. Se relaciona con el derecho de los padres (c. 793), la libertad de enseñanza (c. 797) y el derecho de la Iglesia a erigir universidades (c. 807).
+
+## Ver también
+
+[[escuela_católica]], [[magisterio_eclesiástico]]
+
+## Referencias
+
+- CIC cc. 793-821
+- Com-CIC-Eunsa, comentarios a los cc. 793-821

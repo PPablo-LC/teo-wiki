@@ -1,0 +1,53 @@
+# Verdad
+
+> Área: Filosofía / Doctrina Social / Moral
+> Última actualización: 2026-06-05
+
+## Definición
+
+La verdad es uno de los valores fundamentales de la vida social, inherente a la dignidad de la persona humana. La convivencia social es ordenada, fecunda y conforme a la dignidad de las personas cuando se funda en la verdad.
+
+## Desarrollo doctrinal
+
+Los hombres tienen la obligación de tender continuamente hacia la verdad, respetarla y atestiguarla responsablemente. Vivir en la verdad tiene un significado capital en las relaciones sociales. Las personas y los grupos sociales, cuanto más se esfuerzan por resolver los problemas sociales según la verdad, tanto más se alejan del arbitrio y se adecúan a las exigencias objetivas de la moralidad.
+
+## Perspectivas por fuente
+
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata la verdad en SmTh Iª q.16. La verdad está primariamente en el entendimiento (a.1), como adecuación entre el entendimiento y la cosa (*adaequatio rei et intellectus*); secundariamente está en las cosas, en cuanto se conforman al entendimiento divino. Propiamente, la verdad está en el entendimiento que compone y divide (a.2), no en los sentidos ni en la aprehensión de esencias simples. Lo verdadero y el ser se identifican realmente (a.3): la verdad es un trascendental convertible con el ser, añadiendo solo la relación al entendimiento. Lo verdadero es conceptualmente anterior al bien (a.4), pues el conocimiento precede al apetito. Dios es la verdad misma (a.5): su ser se conforma perfectamente con su entender, y Él es medida y causa de toda verdad creada. Hay una sola verdad divina y muchas verdades creadas (a.6), como muchas imágenes de un mismo rostro en diversos espejos. La verdad creada no es eterna (a.7): solo la verdad del entendimiento divino es eterna (que es el mismo Dios). La verdad del entendimiento divino es inmutable (a.8), pero la verdad de nuestro entendimiento es mudable.
+
+### Según el Compendio (CompDS)
+
+Los hombres tienen una especial obligación de tender continuamente hacia la verdad, respetarla y atestiguarla responsablemente [CompDS §198]. La convivencia de los seres humanos dentro de una comunidad es ordenada, fecunda y conforme a su dignidad cuando se funda en la verdad [CompDS §198]. Nuestro tiempo requiere una intensa actividad educativa y un compromiso correspondiente para que la búsqueda de la verdad sea promovida en todos los ámbitos y prevalezca sobre cualquier intento de relativizar sus exigencias [CompDS §198].
+
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+La verdad en el AT se expresa con la palabra *'emet*, que significa fidelidad, solidez, fiabilidad. Dios es «Dios de verdad» (Sal 31,6); su verdad permanece por siempre (Sal 117,2). La verdad de Dios se manifiesta en su fidelidad a la Alianza. El hombre debe «andar en verdad» (Sal 86,11) y «decir verdad» (Zac 8,16).
+
+En el NT, Jesús se proclama «la Verdad» (Jn 14,6). Él da testimonio de la verdad (Jn 18,37). El Espíritu Santo es el «Espíritu de verdad» (Jn 14,17), que guía a la verdad completa (Jn 16,13). Conocer la verdad libera al hombre (Jn 8,32).
+
+La verdad cristiana no es abstracta sino personal: Jesucristo mismo. La fe es adhesión a la Verdad revelada. Pablo exhorta a vivir la verdad en el amor (Ef 4,15). La Iglesia es «columna y fundamento de la verdad» (1 Tim 3,15). El diablo es «padre de la mentira» (Jn 8,44). El juicio final es la manifestación plena de la verdad.
+
+### Según Henri de Lubac (PoF)
+
+De Lubac reflexiona sobre la verdad con la agudeza de quien sabe que la inteligencia busca lo verdadero, no lo «inteligente»: «El amor a la verdad requiere atrevimiento» [PoF, cap. 9]. Las palabras se corrompen rápidamente; el pensamiento puede corromper el lenguaje, y el creyente que se aferra a una expresión pasada corre el riesgo de perder la sustancia de la fe: «Quien se atiene a una expresión del pasado, la mayoría de las veces solo conserva una expresión, y la sustancia se le escapa» [PoF, cap. 9]. El progreso del espíritu es renovación, no mera prolongación. La fidelidad es necesariamente creadora [PoF, cap. 9]. El reinado de la verdad puede convertirse en reinado de la hipocresía si la verdad no es vivida desde dentro [PoF, cap. 9].
+
+### Según la Encíclica Magnífica Humanitas (MH)
+
+León XIV propone la «verdad como bien común» en los §§132-138 de *Magnífica Humanitas*, en el contexto de la desinformación potenciada por la IA. Afirma que la verdad «tiene una dimensión racional, ya que requiere verificación, cotejo de fuentes y responsabilidad argumentativa; pero es aún más relacional: se construye a través de vínculos de confianza y prácticas compartidas» (§132). Advierte que quienes disponen de poder tecnológico pueden «convencer a un número significativo de personas acerca de cuál es la verdad sobre el ser humano, sobre el mundo, sobre el sentido de la existencia» (§133), lo que constituye «puro poder carente de verdad». Cita a Benedicto XVI sobre la «errónea convicción de ser el único autor de sí mismo» como raíz de la crisis de la verdad (§133). Afirma que «el desinterés por la verdad conduce lenta pero inexorablemente hacia el totalitarismo» (§134, citando a Hannah Arendt). Propone una «ecología de la comunicación» que establezca reglas transparentes, fortalezca organismos intermedios y promueva un periodismo serio (§137).
+
+## Relaciones doctrinales
+
+Se relaciona con [[libertad_humana]], [[justicia]], [[caridad]], [[conciencia_moral]], [[ley_natural]]
+
+## Ver también
+
+[[libertad_humana]], [[justicia]], [[caridad]], [[conciencia_moral]]
+
+## Referencias
+
+- [CompDS §197-198]
+- [CEC §2464-2487]
+- SmTh Iª q.16 (La verdad)
+- [Juan XXIII, Pacem in Terris]
