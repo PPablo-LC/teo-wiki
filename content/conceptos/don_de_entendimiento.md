@@ -39,6 +39,12 @@ El don de entendimiento actúa:
 
 ## Perspectivas por fuente
 
+### Según la Summa Theologiae (SmTh)
+
+El don de entendimiento perfecciona la fe iluminando el entendimiento para penetrar las verdades reveladas (II-II q.8). No consiste en ver la esencia divina —cosa propia de la visión beatífica— sino que es propio del estado de viador (q.8 a.1-2). Por el don de entendimiento el hombre contempla a Dios a través de las criaturas, juzgando rectamente de ellas en orden a Él (q.8 a.3). Es compatible con la fe, a la que perfecciona, y también con la ciencia humana (q.8 a.4-5). Puede darse incluso en quienes tienen fe informe, pues la fe informa puede ser iluminada por el don (q.8 a.6). Corresponde a la bienaventuranza de los limpios de corazón: «Bienaventurados los limpios de corazón, porque ellos verán a Dios» (Mt 5,8) (q.8 a.7). Se distingue del don de consejo, aunque ambos se complementan (q.8 a.8).
+
+Los preceptos de la ley sobre la ciencia y el entendimiento (q.16 a.2) incluyen la consecución (doctrina y disciplina), el uso (meditación) y la conservación (memoria) de estos dones.
+
 ### Según Royo Marín (TPCr)
 
 El don de entendimiento es la luz especial del Espíritu Santo que perfecciona nuestra fe.

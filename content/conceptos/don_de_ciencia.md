@@ -37,6 +37,12 @@ El objeto del don de ciencia es doble:
 
 ## Perspectivas por fuente
 
+### Según la Summa Theologiae (SmTh)
+
+El don de ciencia es un don del Espíritu Santo que perfecciona a la fe (II-II q.9 a.1). Su causa es la gracia santificante, que dispone al alma para recibir los dones (q.9 a.2). El don de ciencia tiene un aspecto especulativo —conocer las criaturas en orden a Dios como efectos de su Causa Primera— y un aspecto práctico —discernir qué conduce a Dios y qué aparta de Él (q.9 a.3). Corresponde a la bienaventuranza de los que lloran, porque el juicio recto sobre las criaturas lleva a despreciar las cosas temporales y a llorar por su pérdida (q.9 a.4).
+
+Los preceptos de la ley sobre la ciencia y el entendimiento (q.16 a.2) incluyen la consecución (doctrina y disciplina), el uso (meditación) y la conservación (memoria) de estos dones.
+
 ### Según Royo Marín (TPCr)
 
 El don de ciencia es esencial para la vida cristiana en el mundo.

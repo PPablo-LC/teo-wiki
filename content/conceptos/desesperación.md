@@ -1,7 +1,7 @@
 # Desesperación
 
 > Área: Moral
-> Última actualización: 2026-06-06
+> Última actualización: 2026-06-08
 
 ## Definición
 
@@ -32,6 +32,17 @@ La desesperación no mira al mal bajo razón de mal, sino que mira al bien que s
 **a.5-6 — Causas que afectan a la desesperación:** La experiencia, que es causa de esperanza cuando confirma la posibilidad, puede ser causa de desesperación cuando persuade de la imposibilidad. Los viejos son «difíciles para la esperanza» por la experiencia de las dificultades. La juventud y la inexperiencia son causas de esperanza, y por su ausencia puede darse la desesperación.
 
 **Distinción importante:** La desesperación como pasión del irascible (apetito sensitivo) debe distinguirse del pecado de desesperación contra la [[virtud_de_la_esperanza]]. La desesperación-pasión es un movimiento espontáneo del apetito sensitivo que puede darse incluso sin pecado. La desesperación como pecado es un acto deliberado de la voluntad que rechaza la salvación divina, oponiéndose directamente a la virtud teologal de la esperanza.
+
+**IIª-IIae q.20 — La desesperación:**
+
+**a.1 — La desesperación es pecado:** Es un movimiento apetitivo acorde con una falsa apreciación de Dios, que niega el perdón al penitente o la gracia santificante al pecador. Se opone directamente a la virtud de la esperanza.
+
+**a.2 — La desesperación puede darse sin infidelidad:** Puede haber fe recta en universal (creer que Dios perdona) y desesperación en el caso particular (no creerse perdonado), debido a un juicio particular viciado por hábito o pasión.
+
+**a.3 — La desesperación es pecado gravísimo:** Por su género, se opone directamente a una virtud teologal. Aunque la infidelidad y el odio a Dios son más graves en sí mismos, la desesperación entraña mayor peligro desde nuestra perspectiva, pues perdida la esperanza los hombres se lanzan sin freno al vicio.
+
+**a.4 — Nace principalmente de la acedia y también de la lujuria:** La acedia, tristeza que abate el espíritu, hace creer al hombre que nunca podrá aspirar al bien. La lujuria causa hastío de los bienes espirituales, llevando a no esperarlos como bienes arduos.
+
 ### Según Royo Marín (TPCr)
 
 «A la esperanza se oponen dos vicios: uno, por defecto, la desesperación, que considera imposible la salvación eterna, y proviene principalmente de la acidia (pereza espiritual) y de la lujuria; y otro por exceso, la presunción» (TPCr, Tercera Parte, Libro II, Cap. II).
@@ -63,3 +74,4 @@ Los remedios contra la desesperación: «la misericordia de Dios es incansable e
 - TPCr, Tercera Parte, Libro II, Cap. II, Art. 2 (La esperanza)
 - TPCr, Tercera Parte, Libro I, Cap. VI (Purificación pasiva)
 - SmTh Ia-IIae q.40 a.4; aa.5-6
+- SmTh IIª-IIae q.20 aa.1-4

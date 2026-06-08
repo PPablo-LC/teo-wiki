@@ -1,7 +1,7 @@
 # Presunción
 
 > Área: Moral
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-08
 
 ## Definición
 
@@ -16,6 +16,19 @@ La presunción puede revestir dos formas principales: la que considera la bienav
 ### Según el Catecismo (CEC)
 
 «La presunción es un pecado contra la esperanza. Puede ser de dos tipos: presunción de las propias capacidades (esperar salvarse sin la ayuda de lo alto) o presunción de la omnipotencia o de la misericordia divina (esperar obtener el perdón sin conversión y la gloria sin mérito)» (cf. CEC §2092). La presunción es uno de los pecados contra el Espíritu Santo.
+
+### Según la Summa Theologiae (SmTh)
+
+**IIª-IIae q.21 — La presunción:**
+
+**a.1 — Doble objeto de la presunción:** Hay presunción por exceso en la esperanza que puede fundarse en el propio poder (opuesta a la magnanimidad) o en el poder divino (esperar el perdón sin penitencia o la gloria sin mérito), siendo esta última especie de pecado contra el Espíritu Santo.
+
+**a.2 — La presunción es pecado:** Es un movimiento apetitivo acorde con una falsa apreciación —que Dios concede perdón a quienes perseveran en el pecado—. Es menos grave que la desesperación, pues más propio de Dios es perdonar que castigar.
+
+**a.3 — Se opone más directamente a la esperanza que al temor:** Por ser ambas del mismo género (movimiento hacia el bien esperado), la presunción se opone a la esperanza como lo desordenado a lo ordenado.
+
+**a.4 — Nace de la vanagloria y de la soberbia:** La presunción fundada en el propio poder procede de la vanagloria. La que se apoya desordenadamente en la misericordia divina procede de la soberbia.
+
 ### Según Royo Marín (TPCr)
 
 Santo Tomás distingue dos vicios contra la esperanza: por defecto, la desesperación; por exceso, la presunción. La presunción es herética cuando considera la bienaventuranza asequible por solas las fuerzas naturales. Es pecado contra el Espíritu Santo cuando se espera salvarse sin arrepentimiento.
@@ -47,3 +60,4 @@ La presunción se opone a la [[esperanza]] y al [[don_de_temor]]. Procede de la 
 - [CEC §2092]
 - [TPCr, Parte III, Libro II, Cap. II, n.351, 363, 371, 415]
 - [Santo Tomás, II-II, q.21, q.130]
+- SmTh IIª-IIae q.21 aa.1-4

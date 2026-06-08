@@ -20,8 +20,53 @@ De Lubac afirma la realidad sustancial y divina de la caridad: «Debemos creer e
 
 «El amor vence siempre, el amor vence siempre, como Cristo ha vencido, el amor ha vencido, el amor vence siempre, aunque en ocasiones, ante sucesos y situaciones concretas, pueda parecernos impotente» [JPII-JovCh]. Juan Pablo II presenta el amor como fuerza salvadora que supera toda aparente impotencia, recordando que «Cristo parecía impotente en la cruz» [JPII-JovCh]. Este amor vence incluso el odio y la violencia, que deben ser reconocidos como «engañosos, falsos, incompatibles con su seguimiento» [JPII-JovCh].
 
+### Según la Summa Theologiae (SmTh)
 
-## Relaciones doctrinales
+**IIª-IIae q.23 — La caridad en sí misma:**
+
+**a.1 — Caridad como amistad con Dios:** La caridad es amistad del hombre con Dios, fundada en la comunicación de la bienaventuranza eterna. No todo amor es amistad: se requiere benevolencia recíproca y comunicación. Como Dios nos comunica su bienaventuranza, se establece una verdadera amistad, aunque imperfecta en esta vida.
+
+**a.2 — La caridad es algo creado en el alma:** No es el mismo Espíritu Santo, sino un hábito infuso creado. Si fuera solo el Espíritu Santo moviendo exteriormente, el acto de amor no sería voluntario ni meritorio. Es necesario que la voluntad sea principio interior del acto mediante una forma habitual sobreañadida.
+
+**a.3 — La caridad es virtud:** Como la virtud consiste en adaptarse a la regla de los actos humanos (razón humana y Dios mismo), la caridad, que une al hombre con Dios, es virtud. Es hábito accidental que participa de la naturaleza divina, más noble que el alma.
+
+**a.4 — Virtud especial:** El bien divino, en cuanto objeto de la bienaventuranza, ofrece una razón especial de bien; por eso el amor de caridad es un amor especial y constituye una virtud especial, distinta de las demás.
+
+**a.5 — Virtud única:** Aunque ama a Dios y al prójimo, la caridad es una sola virtud porque Dios es el objeto principal y el prójimo es amado por Dios. La comunicación de la bienaventuranza eterna es única.
+
+**a.6 — La más excelente de las virtudes:** La caridad es superior a la fe y a la esperanza porque llega hasta Dios en sí mismo, no para recibir de Él otra cosa. La fe y la esperanza reciben de Dios conocimiento y posesión del bien; la caridad ama a Dios por sí mismo. Por eso es la más excelente de las virtudes teologales.
+
+**a.7 — No hay verdadera virtud sin caridad:** La virtud verdadera ordena al fin último del hombre, que es gozar de Dios. Sin caridad, puede haber actos buenos en sí mismos, pero no ordenados al fin último; por tanto, no hay virtud perfecta y verdadera en sentido absoluto.
+
+**a.8 — La caridad es forma de las virtudes:** En materia moral, la forma del acto se toma del fin. La caridad ordena los actos de todas las virtudes al fin último; por eso da forma a las demás virtudes, sin ser su forma esencial sino efectiva.
+
+**IIª-IIae q.24 — El sujeto de la caridad:**
+
+**a.1 — Radica en la voluntad:** La caridad tiene por objeto el bien divino, que es bien inteligible, no sensible. Por tanto, su sujeto no es el apetito sensitivo (concupiscible), sino el apetito intelectivo o voluntad.
+
+**a.2 — Causada por infusión:** La caridad rebasa la capacidad de la naturaleza humana, pues se funda en la comunicación sobrenatural de la bienaventuranza. No es natural ni adquirible por fuerzas naturales, sino infundida por el Espíritu Santo.
+
+**a.3 — Se infunde según la voluntad divina, no según la capacidad natural:** La medida de la caridad no depende de la condición de la naturaleza, sino exclusivamente de la gracia del Espíritu Santo, que distribuye sus dones como quiere.
+
+**a.4 — Puede aumentar:** En esta vida, la caridad puede crecer porque somos viadores que avanzamos hacia Dios. El acercamiento a Dios se realiza por el afecto, y la caridad es el vínculo de esa unión.
+
+**a.5 — Aumenta por intensificación, no por adición:** La caridad no crece añadiendo caridad a caridad (pues ya se extiende a todo lo amable), sino intensificándose más en el sujeto, de modo que el alma participe más de ella.
+
+**a.6 — No crece con cualquier acto:** No todo acto de caridad aumenta la caridad; los actos tíbios disponen al crecimiento, pero el aumento real se produce cuando, tras la disposición, el alma prorrumpe en acto más ferviente.
+
+**a.7 — Aumenta ilimitadamente:** No hay término al crecimiento de la caridad en esta vida: ni por parte de su forma (participación de la caridad infinita), ni del agente (Dios), ni del sujeto (pues la caridad misma dilata la capacidad).
+
+**a.8 — Puede ser perfecta en esta vida:** La perfección posible en esta vida consiste en poner todo el empeño en dedicarse a Dios, aunque no de manera actual y continua (eso es propio de la patria).
+
+**a.9 — Tres grados de caridad:** Incipiente (principiantes: evitar el pecado), aprovechada (proficientes: progresar en el bien), perfecta (perfectos: unirse a Dios y gozar de Él).
+
+**a.10 — No puede disminuir:** La caridad no disminuye por cesación de actos ni por pecados veniales. Solo se pierde totalmente por el pecado mortal, que es directamente contrario a ella.
+
+**a.11 — Puede perderse por pecado mortal:** En esta vida, la caridad no llena toda la potencialidad del sujeto ni ve a Dios en esencia; por eso es amisible. El pecado mortal, al apartar del fin último, destruye la caridad.
+
+**a.12 — Se pierde por un solo acto de pecado mortal:** Un solo pecado mortal hace al hombre digno de muerte eterna e incompatible con la caridad, que merece vida eterna. Luego la caridad se pierde por un solo acto mortal, no gradualmente.
+
+[SmTh IIa-IIae q.23-24]
 
 Ver artículo principal: [[virtud_de_la_caridad]]
 

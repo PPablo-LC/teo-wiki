@@ -1,7 +1,7 @@
 # Don de temor
 
 > Área: Ascética / Mística
-> Última actualización: 2026-05-21
+> Última actualización: 2026-06-08
 
 ## Definición
 
@@ -56,6 +56,34 @@ Este don produce la humildad:
 
 «El don de temor nos hace ver nuestra propia nada delante de la infinita majestad de Dios. Es el origen de la verdadera humildad. El hombre que tiene este don no se engaña a sí mismo, no se sobreestima, reconoce sinceramente sus limitaciones y depende totalmente de la gracia de Dios.»
 
+### Según la Summa Theologiae (SmTh)
+
+**IIª-IIae q.19 — El don de temor:**
+
+**a.1 — Dios puede ser temido:** No como mal en sí mismo, sino como fuente de pena justa y como aquel de quien podemos separarnos por el pecado (mal de culpa).
+
+**a.2 — División del temor en cuatro especies:** Según la relación con Dios: mundano (aparta de Dios), servil (teme la pena), filial (teme la ofensa) e inicial (participa del servil y del filial).
+
+**a.3 — El temor mundano es siempre malo:** Procede del amor mundano, por el que el hombre se apega al mundo como fin último.
+
+**a.4 — El temor servil es sustancialmente bueno:** Temer la pena es bueno en sí mismo. El servilismo (temer la pena como mal principal oponiéndose a la caridad) es accidental y malo.
+
+**a.5 — Temor servil y filial son específicamente distintos:** Se diferencian por el objeto: el servil teme la pena; el filial teme la culpa (separación de Dios).
+
+**a.6 — El servilismo no coexiste con la caridad, pero la sustancia del temor servil sí:** El temor de la pena como sustancia puede permanecer con la caridad.
+
+**a.7 — El temor es principio de la sabiduría:** El temor servil dispone externamente; el filial es el primer efecto de la sabiduría, moviendo a reverenciar a Dios.
+
+**a.8 — El temor inicial es temor filial imperfecto:** No difiere esencialmente del filial, sino solo por el estado de principiante en la caridad.
+
+**a.9 — El temor filial es don del Espíritu Santo:** Por él el alma se torna dócil a la moción del Espíritu Santo, sometiéndose a Dios sin resistencia.
+
+**a.10 — El temor filial crece al crecer la caridad; el temor de la pena disminuye:** Cuanto más se ama a Dios, más se teme ofenderle y menos se teme la pena.
+
+**a.11 — El temor filial permanece en la patria:** No como temor de pena, sino como temor reverencial y admirativo ante la majestad infinita de Dios.
+
+**a.12 — La pobreza de espíritu corresponde al don de temor:** Por la sumisión a Dios, el hombre deja de engreírse en sí mismo y de buscar grandeza fuera de Dios.
+
 ## Distinciones importantes
 
 - **Temor servil vs. temor filial**: el primero teme el castigo; el segundo teme ofender a Dios por amor
@@ -87,3 +115,4 @@ Este don produce la humildad:
 - Salmos 111,10
 - Concilio de Trento
 - Santo Tomás, S.Th., I-II, q. 68; II-II, q. 19
+- SmTh IIª-IIae q.19 aa.1-12
