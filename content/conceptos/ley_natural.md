@@ -13,13 +13,15 @@ La ley natural expresa el sentido moral original que permite al hombre discernir
 
 ## Perspectivas por fuente
 
-### Según el Compendio (CompDS)
-
-El ejercicio de la libertad implica referencia a una ley moral natural, universal, que precede y aúna todos los derechos y deberes [CompDS §140]. La ley natural «no es otra cosa que la luz de la inteligencia infundida en nosotros por Dios» [CompDS §140]. Es participación de la ley eterna, que se identifica con Dios mismo [CompDS §140]. Es universal, se extiende a todos los hombres y está expuesta en sus preceptos principales en el Decálogo [CompDS §140]. Es inmutable y subsiste bajo el flujo de ideas y costumbres; ni siquiera puede ser cancelada por la maldad humana [CompDS §141-142]. Es el fundamento moral indispensable para edificar la comunidad humana y elaborar la ley civil [CompDS §142]. Solo una libertad radicada en la naturaleza común puede justificar la moral pública [CompDS §142].
-
 ### Según el Catecismo (CEC)
 
 «La ley natural es inmutable y permanente a través de las variaciones de la historia; subsiste bajo el flujo de ideas y costumbres y sostiene su progreso» (§1958). Citando a San Agustín: «El robo está ciertamente sancionado por tu ley, Señor, y por la ley que está escrita en el corazón del hombre, y que la misma iniquidad no puede borrar» (§1958). Los diez mandamientos son una expresión privilegiada de la ley natural (§2070).
+
+### Según el Código de Derecho Canónico (CIC)
+El CIC reconoce el derecho divino (natural y positivo) como límite y fundamento del derecho eclesiástico en diversas disposiciones. Las leyes civiles a las que remite el derecho canónico deben observarse «en cuanto no sean contrarias al derecho divino» (c. 22). Ninguna costumbre puede alcanzar fuerza de ley si es contraria al derecho divino (c. 24 §1). Los derechos y obligaciones que son de ley divina natural o positiva no están sujetos a prescripción (c. 199, 1°). La ley natural constituye así un límite infranqueable para la legislación eclesiástica positiva y las costumbres canónicas, y sus derechos fundamentales son imprescriptibles.
+### Según el Compendio (CompDS)
+
+El ejercicio de la libertad implica referencia a una ley moral natural, universal, que precede y aúna todos los derechos y deberes [CompDS §140]. La ley natural «no es otra cosa que la luz de la inteligencia infundida en nosotros por Dios» [CompDS §140]. Es participación de la ley eterna, que se identifica con Dios mismo [CompDS §140]. Es universal, se extiende a todos los hombres y está expuesta en sus preceptos principales en el Decálogo [CompDS §140]. Es inmutable y subsiste bajo el flujo de ideas y costumbres; ni siquiera puede ser cancelada por la maldad humana [CompDS §141-142]. Es el fundamento moral indispensable para edificar la comunidad humana y elaborar la ley civil [CompDS §142]. Solo una libertad radicada en la naturaleza común puede justificar la moral pública [CompDS §142].
 
 ### Según el Compendio (CompDS)
 
@@ -29,8 +31,6 @@ Los diez mandamientos, que constituyen un camino de vida para una existencia lib
 
 La dinámica de la renovación social debe anclarse en los principios inmutables de la ley natural, impresa por Dios Creador en todas sus criaturas e iluminada escatológicamente por Jesucristo [CompDS §53].
 
-### Según el Código de Derecho Canónico (CIC)
-El CIC reconoce el derecho divino (natural y positivo) como límite y fundamento del derecho eclesiástico en diversas disposiciones. Las leyes civiles a las que remite el derecho canónico deben observarse «en cuanto no sean contrarias al derecho divino» (c. 22). Ninguna costumbre puede alcanzar fuerza de ley si es contraria al derecho divino (c. 24 §1). Los derechos y obligaciones que son de ley divina natural o positiva no están sujetos a prescripción (c. 199, 1°). La ley natural constituye así un límite infranqueable para la legislación eclesiástica positiva y las costumbres canónicas, y sus derechos fundamentales son imprescriptibles.
 
 ## Ver también
 

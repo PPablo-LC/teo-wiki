@@ -13,6 +13,9 @@ El Concilio Vaticano II emprendió la reforma litúrgica como un medio para acre
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La palabra "liturgia" significa originariamente "obra o quehacer público"; por la liturgia, Cristo continúa en su Iglesia la obra de nuestra redención (CEC 1069). La liturgia es el ejercicio de la función sacerdotal de Jesucristo; mediante signos sensibles se significa y realiza la santificación del hombre y el Cuerpo místico ejerce el culto público integral (CEC 1070). La liturgia, obra de Cristo, es también acción de su Iglesia: realiza y manifiesta la Iglesia como signo visible de la comunión entre Dios y los hombres (CEC 1071). La liturgia es cumbre y fuente de la actividad de la Iglesia, y lugar privilegiado de la catequesis del Pueblo de Dios (CEC 1074-1075). La liturgia es acción del "Cristo total" (*Christus totus*), en la que los que la celebran participan ya de la liturgia celestial (CEC 1136-1139).
 ### Según el Concilio Vaticano II
 
 **Sacrosanctum Concilium:** La constitución establece que la liturgia, por cuyo medio se ejerce la obra de nuestra redención, contribuye en sumo grado a que los fieles expresen en su vida el misterio de Cristo y la naturaleza auténtica de la Iglesia (SC 2). Cristo está siempre presente en su Iglesia, sobre todo en la acción litúrgica: en el sacrificio de la Misa, en los sacramentos, en su palabra y cuando la Iglesia ora (SC 7).
@@ -23,9 +26,6 @@ Las acciones litúrgicas no son acciones privadas, sino celebraciones de la Igle
 
 Para la Eucaristía en particular: revísese el ordinario de la Misa, simplificando los ritos, conservando la sustancia (SC 50). La homilía, parte de la misma liturgia, nunca debe omitirse en Misas dominicales sin causa grave (SC 52). Restablézcase la oración de los fieles (SC 53). La liturgia de la palabra y la eucarística constituyen un solo acto de culto (SC 56). Se amplía la facultad de concelebración (SC 57).
 
-### Según el Catecismo (CEC)
-
-La palabra "liturgia" significa originariamente "obra o quehacer público"; por la liturgia, Cristo continúa en su Iglesia la obra de nuestra redención (CEC 1069). La liturgia es el ejercicio de la función sacerdotal de Jesucristo; mediante signos sensibles se significa y realiza la santificación del hombre y el Cuerpo místico ejerce el culto público integral (CEC 1070). La liturgia, obra de Cristo, es también acción de su Iglesia: realiza y manifiesta la Iglesia como signo visible de la comunión entre Dios y los hombres (CEC 1071). La liturgia es cumbre y fuente de la actividad de la Iglesia, y lugar privilegiado de la catequesis del Pueblo de Dios (CEC 1074-1075). La liturgia es acción del "Cristo total" (*Christus totus*), en la que los que la celebran participan ya de la liturgia celestial (CEC 1136-1139).
 
 ## Distinciones importantes
 

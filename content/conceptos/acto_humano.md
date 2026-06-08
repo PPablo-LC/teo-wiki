@@ -17,10 +17,6 @@ Los actos humanos constituyen la materia de la moralidad. Para ser plenamente hu
 
 El acto humano es el acto propio del hombre, libre y consciente, que procede de su voluntad deliberada (CEC §1731). La [[libertad_humana]] hace al hombre responsable de sus actos: "Cuanto más bien haga el hombre, tanto más libre se vuelve" (CEC §1733). La imputabilidad de los actos humanos puede disminuirse por la ignorancia, el error, la violencia, el temor o las pasiones (CEC §1735-1740). Un acto bueno supone la bondad del objeto, del fin y de las circunstancias (CEC §1755-1756).
 
-### Según Royo Marín (TPCr)
-
-Los actos humanos se dividen en actos elícitos (los que proceden inmediatamente de la voluntad, como amar, desear) y actos imperados (los que la voluntad manda a otras facultades, como andar, hablar). Las condiciones para la moralidad de un acto humano son: el objeto, el fin y las circunstancias. La libertad es condición indispensable: donde no hay libertad no hay moralidad (TPCr, Parte I, Tratado de los actos humanos).
-
 ### Según la Summa Theologiae (SmTh)
 
 **Ia-IIae q.6 — Lo voluntario y lo involuntario:**
@@ -48,6 +44,10 @@ Las tres fuentes de la moralidad son el objeto, el fin y las circunstancias:
 **Ia-IIae q.21 — Consecuencias del acto humano:**
 
 El acto humano, por su bondad o malicia, tiene varias consecuencias: (a) recibe razón de rectitud o [[pecado]] (q.21 a.1); (b) es laudable o culpable (q.21 a.2), porque el acto está en nuestra potestad y procede de nuestra deliberación; (c) tiene razón de mérito o [[mérito|demérito]] (q.21 aa.3-4), tanto ante la sociedad humana como ante [[dios|Dios]].
+### Según Royo Marín (TPCr)
+
+Los actos humanos se dividen en actos elícitos (los que proceden inmediatamente de la voluntad, como amar, desear) y actos imperados (los que la voluntad manda a otras facultades, como andar, hablar). Las condiciones para la moralidad de un acto humano son: el objeto, el fin y las circunstancias. La libertad es condición indispensable: donde no hay libertad no hay moralidad (TPCr, Parte I, Tratado de los actos humanos).
+
 
 ## Distinciones importantes
 

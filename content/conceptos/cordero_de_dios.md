@@ -17,6 +17,10 @@ La designación de Cristo como Cordero de Dios articula toda la teología de la 
 
 El Bautista señala a Jesús como «el Cordero de Dios que quita el pecado del mundo» (Jn 1,29), revelando así la misión redentora de Cristo (CEC §523, §536, §608). La sangre del Cordero nos purifica del pecado (CEC §608). El Cordero pascual de la Antigua Alianza es figura de Cristo, el Cordero inmolado cuya sangre nos salva (CEC §1363-1364). El Agnus Dei en la Misa expresa la adoración de la asamblea ante Cristo presente en la Eucaristía (CEC §1370).
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+La imagen del Cordero de Dios tiene dos raíces principales en el AT. La primera es el siervo de Yahveh que «como cordero llevado al matadero» expía los pecados del pueblo (*Is 53,7*), texto al que se refiere Felipe en *Hch 8,31-35* y probablemente Juan Bautista en *Jn 1,29*. La segunda es el cordero pascual (*Ex 12,5*), cuya sangre liberó a los hebreos de Egipto; Pablo identifica a Cristo como «nuestra pascua, inmolado» (*1Cor 5,7*). En el Apocalipsis, el Cordero inmolado es también el León victorioso que comparte el trono de Dios y recibe la adoración celestial (*Ap 5,6-14; 7,17*), conduciendo a los fieles a las fuentes de agua viva [VocTeoBib, «Cordero de Dios»].
+
 ### Según la Sagrada Escritura
 
 - Ex 12,1-28: institución del cordero pascual, prefiguración de Cristo
@@ -26,10 +30,6 @@ El Bautista señala a Jesús como «el Cordero de Dios que quita el pecado del m
 - Ap 5,6-14: el Cordero inmolado recibe la adoración celestial
 - Ap 7,14: los elegidos lavan sus vestiduras en la sangre del Cordero
 - Jn 19,36: no se le quebrará hueso alguno, en referencia al cordero pascual
-
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-La imagen del Cordero de Dios tiene dos raíces principales en el AT. La primera es el siervo de Yahveh que «como cordero llevado al matadero» expía los pecados del pueblo (*Is 53,7*), texto al que se refiere Felipe en *Hch 8,31-35* y probablemente Juan Bautista en *Jn 1,29*. La segunda es el cordero pascual (*Ex 12,5*), cuya sangre liberó a los hebreos de Egipto; Pablo identifica a Cristo como «nuestra pascua, inmolado» (*1Cor 5,7*). En el Apocalipsis, el Cordero inmolado es también el León victorioso que comparte el trono de Dios y recibe la adoración celestial (*Ap 5,6-14; 7,17*), conduciendo a los fieles a las fuentes de agua viva [VocTeoBib, «Cordero de Dios»].
 
 ### Según la liturgia (Agnus Dei)
 

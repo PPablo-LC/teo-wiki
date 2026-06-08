@@ -13,6 +13,11 @@ El pecado venial constituye un obstáculo insuperable para la perfección cristi
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+«El pecado venial, por su parte, permite permanecer en la caridad, aunque la ofende y la hiere» (§1855). «El pecado venial se comete cuando, en materia leve, no se observa la medida prescrita por la ley moral, o cuando se desobedece a la ley moral en materia grave, pero sin pleno conocimiento o sin entero consentimiento» (§1862).
+
+«El pecado venial debilita la caridad; manifiesta un afecto desordenado a bienes creados; impide el progreso del alma en el ejercicio de las virtudes y la práctica del bien moral. Merece penas temporales. El pecado venial deliberado y no borrado por el arrepentimiento nos dispone poco a poco a cometer el pecado mortal» (§1863).
 ### Según Royo Marín (TPCr)
 
 Tres clases de pecado venial:
@@ -33,11 +38,6 @@ El pecado venial deliberado y habitual es incompatible con la perfección cristi
 
 [TPCr, Parte III, Libro I, Cap. I, n.207-210]
 
-### Según el Catecismo (CEC)
-
-«El pecado venial, por su parte, permite permanecer en la caridad, aunque la ofende y la hiere» (§1855). «El pecado venial se comete cuando, en materia leve, no se observa la medida prescrita por la ley moral, o cuando se desobedece a la ley moral en materia grave, pero sin pleno conocimiento o sin entero consentimiento» (§1862).
-
-«El pecado venial debilita la caridad; manifiesta un afecto desordenado a bienes creados; impide el progreso del alma en el ejercicio de las virtudes y la práctica del bien moral. Merece penas temporales. El pecado venial deliberado y no borrado por el arrepentimiento nos dispone poco a poco a cometer el pecado mortal» (§1863).
 
 ## Distinciones importantes
 

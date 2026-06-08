@@ -15,6 +15,9 @@ Cristo advirtió contra él: «Al que me confesare delante de los hombres, yo ta
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El testimonio cristiano exige vencer el respeto humano: «El testigo de Cristo no se avergüenza de confesar al Señor delante de los hombres» (§2472). El martirio es el testimonio supremo que vence totalmente el respeto humano (§2473). La libertad cristiana implica no someterse al juicio del mundo sino a la verdad de Cristo.
 ### Según Royo Marín (TPCr)
 
 El respeto humano es un obstáculo grave para la perfección cristiana. Impide la resistencia directa a las tentaciones cuando esta resistencia requiere una manifestación pública de fe o de virtud. Por respeto humano se omiten actos de piedad, se calla la verdad, se participa en conversaciones mundanas y se contemporiza con el pecado.
@@ -23,9 +26,6 @@ Es necesario vencer el respeto humano para practicar la resistencia directa a la
 
 [TPCr, Parte III, Libro I, n.220]
 
-### Según el Catecismo (CEC)
-
-El testimonio cristiano exige vencer el respeto humano: «El testigo de Cristo no se avergüenza de confesar al Señor delante de los hombres» (§2472). El martirio es el testimonio supremo que vence totalmente el respeto humano (§2473). La libertad cristiana implica no someterse al juicio del mundo sino a la verdad de Cristo.
 
 ## Distinciones importantes
 

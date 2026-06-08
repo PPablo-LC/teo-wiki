@@ -13,17 +13,17 @@ La liturgia de las horas consagra el curso entero del día y de la noche mediant
 
 ## Perspectivas por fuente
 
-### Según el Concilio Vaticano II (ConcVatII)
+### Según el Catecismo (CEC)
 
-*Sacrosanctum Concilium* 83-101 regula el Oficio divino o Liturgia de las Horas. Es la oración pública de la Iglesia, que prolonga la función sacerdotal de Cristo (SC 83). Consagra el curso entero del día y de la noche (SC 84). La recitación del Oficio es la voz de la Esposa que habla al Esposo, la oración de Cristo con su Cuerpo al Padre (SC 84). El Concilio ordena la reforma del Oficio: restablecer el curso tradicional de las Horas (SC 88), Laudes y Vísperas como las Horas principales (SC 89), y la distribución de los salmos en un período más largo (SC 91). Se recomienda que los laicos recen el Oficio divino (SC 100).
-
+La Liturgia de las Horas está destinada a ser «la oración de todo el pueblo de Dios» (CEC §1175). En ella, Cristo mismo «continúa ejerciendo su función sacerdotal por medio de su Iglesia» (CEC §1174). Los laicos son invitados a participar en ella (CEC §1175).
 ### Según el Código de Derecho Canónico (CIC)
 
 El CIC regula la liturgia de las horas en los cánones 1173-1175. La Iglesia, ejerciendo la función sacerdotal de Cristo, celebra la liturgia de las horas, por la que oyendo a Dios que habla a su pueblo y recordando el misterio de la salvación, le alaba sin cesar con el canto y la oración al mismo tiempo que ruega por la salvación de todo el mundo (c. 1173). La obligación de celebrar la liturgia de las horas vincula a los clérigos según la norma del canon 276 §2, 3; y a los miembros de los institutos de vida consagrada y sociedades de vida apostólica, conforme a sus constituciones (c. 1174 §1). Se invita encarecidamente también a los demás fieles a que participen en la liturgia de las horas (c. 1174 §2). Al celebrarla, se ha de procurar observar el curso natural de cada hora en la medida de lo posible (c. 1175).
 
-### Según el Catecismo (CEC)
+### Según el Concilio Vaticano II (ConcVatII)
 
-La Liturgia de las Horas está destinada a ser «la oración de todo el pueblo de Dios» (CEC §1175). En ella, Cristo mismo «continúa ejerciendo su función sacerdotal por medio de su Iglesia» (CEC §1174). Los laicos son invitados a participar en ella (CEC §1175).
+*Sacrosanctum Concilium* 83-101 regula el Oficio divino o Liturgia de las Horas. Es la oración pública de la Iglesia, que prolonga la función sacerdotal de Cristo (SC 83). Consagra el curso entero del día y de la noche (SC 84). La recitación del Oficio es la voz de la Esposa que habla al Esposo, la oración de Cristo con su Cuerpo al Padre (SC 84). El Concilio ordena la reforma del Oficio: restablecer el curso tradicional de las Horas (SC 88), Laudes y Vísperas como las Horas principales (SC 89), y la distribución de los salmos en un período más largo (SC 91). Se recomienda que los laicos recen el Oficio divino (SC 100).
+
 
 ## Ver también
 

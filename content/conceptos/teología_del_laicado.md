@@ -13,10 +13,6 @@ El Concilio Vaticano II representa un desarrollo decisivo en la teología del la
 
 ## Perspectivas por fuente
 
-### Según el Concilio Vaticano II
-
-[[lumen_gentium]] §30-38 trata de los laicos: «A los laicos corresponde, por propia vocación, buscar el Reino de Dios tratando y ordenando según Dios los asuntos temporales» (LG 31). [[apostolicam_actuositatem]] desarrolla el apostolado seglar. [[gaudium_et_spes]] §43 llama a los laicos a vivir su fe en las realidades cotidianas.
-
 ### Según el Catecismo (CEC)
 
 El CEC §897-913 expone la vocación de los laicos: participación en la función sacerdotal (ofrecer la propia vida), profética (evangelizar) y real (ordenar las realidades temporales). §900-903 detallan el apostolado laical.
@@ -24,6 +20,10 @@ El CEC §897-913 expone la vocación de los laicos: participación en la funció
 ### Según el Código de Derecho Canónico (CIC)
 
 Los cc. 224-231 recogen los derechos y deberes de los laicos: derecho a recibir bienes espirituales, a manifestar las propias necesidades, a fundar asociaciones, y el deber de extender el mensaje divino.
+### Según el Concilio Vaticano II
+
+[[lumen_gentium]] §30-38 trata de los laicos: «A los laicos corresponde, por propia vocación, buscar el Reino de Dios tratando y ordenando según Dios los asuntos temporales» (LG 31). [[apostolicam_actuositatem]] desarrolla el apostolado seglar. [[gaudium_et_spes]] §43 llama a los laicos a vivir su fe en las realidades cotidianas.
+
 
 ## Relaciones doctrinales
 

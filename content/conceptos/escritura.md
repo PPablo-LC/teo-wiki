@@ -36,6 +36,11 @@ La Sagrada Escritura debe ser como el alma de la sagrada teología (CEC 132; DV 
 - Unidad de ambos Testamentos: el NT está escondido en el AT, el AT se manifiesta en el NT (CEC §128-129).
 - La Sagrada Escritura debe ser el alma de la sagrada teología (CEC §132).
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+El VocTeoBib subraya que la Escritura es ante todo palabra divina fijada por escrito, expresión solemne e irrevocable de la palabra de Dios (Sal 119,89; Ap 22,18s). Los profetas confiaron sus oráculos a la escritura por mandato divino (Is 8,1; Jer 36,1-4), para que el testimonio sellado atestiguase la fidelidad de Dios cuando los acontecimientos se cumplieran. La fórmula «está escrito» afirma a la vez la santidad inaccesible de Dios, la certeza infalible de su mirada y la inquebrantable fidelidad de sus promesas.
+
+Cristo no dejó ningún escrito, pero consagró el valor de la Escritura hasta la última tilde (Mt 5,18) y definió su sentido: la Escritura permanece cumpliéndose, pues hay un Espíritu que vivifica y una letra que mata (2Cor 3,6). La nueva alianza ya no es de letra sino de espíritu; la ley está inscrita en los corazones (Jer 31,33). Sin embargo, el NT contiene aún escritos que la Iglesia reconoció con la misma autoridad del AT, pues sin ellos los libros judíos contendrían solo una letra muerta y una promesa incapaz de responder a la esperanza que suscita.
 ### Según el Concilio Vaticano II (Dei Verbum)
 
 - Dios eligió a hombres que utilizó usando de sus propias facultades y medios, de forma que obrando Él en ellos y por ellos, escribieron como verdaderos autores todo y solo lo que Él quería (DV 11).
@@ -50,11 +55,6 @@ La Sagrada Escritura debe ser como el alma de la sagrada teología (CEC 132; DV 
 - El estudio de la Sagrada Escritura ha de ser como el alma de la Sagrada Teología (DV 24).
 - "El desconocimiento de las Escrituras es desconocimiento de Cristo" (DV 25).
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-El VocTeoBib subraya que la Escritura es ante todo palabra divina fijada por escrito, expresión solemne e irrevocable de la palabra de Dios (Sal 119,89; Ap 22,18s). Los profetas confiaron sus oráculos a la escritura por mandato divino (Is 8,1; Jer 36,1-4), para que el testimonio sellado atestiguase la fidelidad de Dios cuando los acontecimientos se cumplieran. La fórmula «está escrito» afirma a la vez la santidad inaccesible de Dios, la certeza infalible de su mirada y la inquebrantable fidelidad de sus promesas.
-
-Cristo no dejó ningún escrito, pero consagró el valor de la Escritura hasta la última tilde (Mt 5,18) y definió su sentido: la Escritura permanece cumpliéndose, pues hay un Espíritu que vivifica y una letra que mata (2Cor 3,6). La nueva alianza ya no es de letra sino de espíritu; la ley está inscrita en los corazones (Jer 31,33). Sin embargo, el NT contiene aún escritos que la Iglesia reconoció con la misma autoridad del AT, pues sin ellos los libros judíos contendrían solo una letra muerta y una promesa incapaz de responder a la esperanza que suscita.
 
 ## Distinciones importantes
 

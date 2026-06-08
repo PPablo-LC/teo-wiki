@@ -15,6 +15,10 @@ En el Nuevo Testamento, la sangre de Cristo es el centro de la soteriología. «
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La sangre de Cristo, junto con el agua brotada de su costado traspasado, figura los sacramentos del Bautismo y la Eucaristía (CEC §1225). Por la consagración, el vino se convierte realmente en la Sangre de Cristo mediante la transubstanciación (§1376). La Sangre de Cristo, «derramada por muchos para el perdón de los pecados», produce la comunión eclesial, fortalece la caridad y purifica los pecados veniales (§1391-§1397). Se menciona también el «bautismo de sangre» del mártir (§1258).
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 La sangre ocupa un lugar central en el lenguaje bíblico. En el AT, la sangre es la vida misma devuelta a Dios, que es el único Señor de la vida. El rito de la aspersión de la sangre tenía valor expiatorio y consagratorio.
@@ -22,10 +26,6 @@ La sangre ocupa un lugar central en el lenguaje bíblico. En el AT, la sangre es
 En la tradición sacerdotal, la sangre es el medio de expiación por excelencia: «la vida de la carne está en la sangre, y yo os la he dado sobre el altar para expiar por vuestras vidas» (Lv 17,11). En el Éxodo, la sangre del cordero pascual marca las casas de los israelitas y los libra de la muerte.
 
 En el Nuevo Testamento, la sangre de Cristo es presentada por la carta a los Hebreos como el cumplimiento perfecto de los sacrificios del AT. La sangre de la Nueva Alianza es «derramada por muchos» (Mc 14,24). El cuarto evangelio subraya la realidad de la sangre de Cristo: del costado traspasado brotan sangre y agua (Jn 19,34). El Apocalipsis canta a Cristo que nos ha lavado con su sangre (Ap 1,5; 5,9). La sangre del Cordero es el arma victoriosa contra Satanás (Ap 12,11).
-
-### Según el Catecismo (CEC)
-
-La sangre de Cristo, junto con el agua brotada de su costado traspasado, figura los sacramentos del Bautismo y la Eucaristía (CEC §1225). Por la consagración, el vino se convierte realmente en la Sangre de Cristo mediante la transubstanciación (§1376). La Sangre de Cristo, «derramada por muchos para el perdón de los pecados», produce la comunión eclesial, fortalece la caridad y purifica los pecados veniales (§1391-§1397). Se menciona también el «bautismo de sangre» del mártir (§1258).
 
 ### Según Royo Marín (TPCr)
 

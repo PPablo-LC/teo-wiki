@@ -17,10 +17,6 @@ La intención es uno de los actos de la voluntad respecto al fin. Se distingue d
 
 La intención es una de las tres fuentes de la moralidad de los actos humanos, junto con el objeto y las circunstancias (CEC §1752). La intención indica el fin hacia el que tiende la voluntad al realizar una acción: "El fin no justifica los medios" (CEC §1753). Una intención buena (como ayudar al prójimo) no puede hacer bueno un acto intrínsecamente malo; el fin no puede justificar medios malos (CEC §1759-1761). La intención del fin último ordena toda la vida moral (CEC §1731, §1735).
 
-### Según Royo Marín (TPCr)
-
-La intención es el acto de la voluntad por el que nos proponemos un fin. Se distingue del simple querer porque implica ordenación de algo al fin. Es una de las tres fuentes de la moralidad. La rectitud de la intención es esencial para la bondad moral del acto: uno puede hacer el bien materialmente pero obrar mal si su intención es desordenada. La intención puede ser actual o virtual; esta última basta para que el acto sea meritorio (TPCr, Parte I, Tratado de los actos humanos).
-
 ### Según la Summa Theologiae (SmTh)
 
 **SmTh Ia-IIae q.12 — La intención, acto de la voluntad:**
@@ -34,6 +30,10 @@ La intención es el acto de la voluntad por el que nos proponemos un fin. Se dis
 **a.4 — La intención del fin y la voluntad de los medios son el mismo acto:** Como el movimiento que va por el medio al término es uno solo, así la intención del fin y la voluntad de los medios son un mismo acto de la voluntad. La razón los distingue: el fin es aquello por lo que se quiere; los medios, aquello que se quiere por el fin. Pero en la ejecución, el acto es uno: quien quiere la medicina para la salud quiere ambas cosas con un solo acto.
 
 **a.5 — La intención no conviene a los animales brutos:** La intención implica ordenar algo al fin, lo cual es propio de la razón. Los brutos se mueven hacia el fin por instinto natural, pero no ordenan ni dirigen sus actos al fin mediante un acto de la razón. Por eso tienen apetito del fin, pero no intención propiamente dicha.
+### Según Royo Marín (TPCr)
+
+La intención es el acto de la voluntad por el que nos proponemos un fin. Se distingue del simple querer porque implica ordenación de algo al fin. Es una de las tres fuentes de la moralidad. La rectitud de la intención es esencial para la bondad moral del acto: uno puede hacer el bien materialmente pero obrar mal si su intención es desordenada. La intención puede ser actual o virtual; esta última basta para que el acto sea meritorio (TPCr, Parte I, Tratado de los actos humanos).
+
 
 ## Distinciones importantes
 

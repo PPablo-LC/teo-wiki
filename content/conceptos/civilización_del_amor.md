@@ -13,10 +13,6 @@ La finalidad inmediata de la doctrina social es proponer los principios y valore
 
 ## Perspectivas por fuente
 
-### Según Juan Pablo II (JPII-JovCh)
-
-Juan Pablo II propone a los jóvenes chilenos la construcción de una «nueva civilización, que en solidaridad generosa y compartida tenéis que construir», teniendo a Cristo como «piedra angular de vuestras vidas y de la nueva civilización» [JPII-JovCh]. Esta civilización se funda en Cristo mismo, y su principio motor es el amor que «vence siempre, como Cristo ha vencido» [JPII-JovCh]. Los criterios de esta civilización son: la verdad, la justicia, la libertad y la paz; «no puede haber auténtico crecimiento humano en la paz, en la justicia, en la verdad, en la libertad, si Cristo no se hace presente con su fuerza salvadora» [JPII-JovCh].
-
 ### Según el Compendio (CompDS)
 
 La finalidad inmediata de la doctrina social es la de proponer los principios y valores que pueden afianzar una sociedad digna del hombre [CompDS §580]. El principio de la solidaridad está iluminado por el primado de la caridad «que es signo distintivo de los discípulos de Cristo (cf. Jn 13,35)» [CompDS §580]. Jesús «nos enseña que la ley fundamental de la perfección humana, y, por tanto, de la transformación del mundo, es el mandamiento nuevo del amor» (cf. Mt 22,40; Jn 15,12; Col 3,14; St 2,8) [CompDS §580].
@@ -24,6 +20,10 @@ La finalidad inmediata de la doctrina social es la de proponer los principios y 
 El amor debe estar presente y penetrar todas las relaciones sociales [CompDS §581]. Este amor puede ser llamado «caridad social» o «caridad política» y se debe extender a todo el género humano [CompDS §581]. Para plasmar una sociedad más humana, más digna de la persona, es necesario revalorizar el amor en la vida social, haciéndolo la norma constante y suprema de la acción. «Solo una humanidad en la que reine la “civilización del amor” podrá gozar de una paz auténtica y duradera» [CompDS §582].
 
 Solo la caridad puede cambiar completamente al hombre [CompDS §583]. La caridad presupone y trasciende la justicia: «representa el mayor mandamiento social. Respeta al otro y sus derechos. Exige la práctica de la justicia y es la única que nos hace capaces de ésta. Inspira una vida de entrega de sí mismo» [CompDS §583].
+
+### Según Juan Pablo II (JPII-JovCh)
+
+Juan Pablo II propone a los jóvenes chilenos la construcción de una «nueva civilización, que en solidaridad generosa y compartida tenéis que construir», teniendo a Cristo como «piedra angular de vuestras vidas y de la nueva civilización» [JPII-JovCh]. Esta civilización se funda en Cristo mismo, y su principio motor es el amor que «vence siempre, como Cristo ha vencido» [JPII-JovCh]. Los criterios de esta civilización son: la verdad, la justicia, la libertad y la paz; «no puede haber auténtico crecimiento humano en la paz, en la justicia, en la verdad, en la libertad, si Cristo no se hace presente con su fuerza salvadora» [JPII-JovCh].
 
 ### Según la Encíclica Magnífica Humanitas (MH)
 

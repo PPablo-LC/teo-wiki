@@ -21,12 +21,6 @@ Cristo es «el primogénito de toda criatura» (Col 1,15) y «el primogénito de
 
 Cristo es concebido por obra del Espíritu Santo, nuevo inicio de la humanidad redimida: «El Hijo de Dios, al encarnarse, se ha unido en cierto modo con todo hombre» — el Nuevo Adán asume la naturaleza humana íntegra para sanarla desde dentro (§504). Por su resurrección, Cristo constituye el primogénito de la nueva humanidad: «Cristo, el nuevo Adán, en la manifestación del misterio del Padre y de su amor, revela plenamente el hombre al propio hombre» (§655, citando GS 22).
 
-### Según Royo Marín (TPCr)
-
-Cristo, como Cabeza de la Iglesia, es el Nuevo Adán que restaura todo el género humano. La gracia de Cristo sobreabunda donde abundó el pecado. La humanidad de Cristo, por su unión hipostática, es instrumento de nuestra salvación. Por la incorporación a Cristo en el bautismo, el cristiano participa de la vida del Nuevo Adán.
-
-[TPCr, Parte I, Cristología]
-
 ### Según el Concilio Vaticano II (ConcVatII)
 
 GS 22 contiene la afirmación central: «Cristo, el nuevo Adán, en la misma revelación del misterio del Padre y de su amor, manifiesta plenamente el hombre al propio hombre y le descubre la sublimidad de su vocación.» El Hijo de Dios con su encarnación «se ha unido, en cierto modo, con todo hombre». Cristo es el Hombre perfecto que ha devuelto a la descendencia de Adán la semejanza divina deformada por el primer pecado. En Él «la naturaleza humana asumida, no absorbida, ha sido elevada también en nosotros a dignidad sin igual».
@@ -34,6 +28,12 @@ GS 22 contiene la afirmación central: «Cristo, el nuevo Adán, en la misma rev
 GS 38: Cristo, constituido Señor por su resurrección, «obra ya por la virtud de su Espíritu en el corazón del hombre, no sólo despertando el anhelo del siglo futuro, sino alentando, purificando y robusteciendo también con ese deseo aquellos generosos propósitos con los que la familia humana intenta hacer más llevadera su propia vida».
 
 GS 45: El Verbo de Dios se encarnó para que, «Hombre perfecto, salvará a todos y recapitulara todas las cosas».
+### Según Royo Marín (TPCr)
+
+Cristo, como Cabeza de la Iglesia, es el Nuevo Adán que restaura todo el género humano. La gracia de Cristo sobreabunda donde abundó el pecado. La humanidad de Cristo, por su unión hipostática, es instrumento de nuestra salvación. Por la incorporación a Cristo en el bautismo, el cristiano participa de la vida del Nuevo Adán.
+
+[TPCr, Parte I, Cristología]
+
 
 ## Distinciones importantes
 

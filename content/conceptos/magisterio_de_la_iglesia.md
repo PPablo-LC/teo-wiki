@@ -27,14 +27,6 @@ Todos los fieles tienen parte en la comprensión y transmisión de la verdad rev
 
 ## Perspectivas por fuente
 
-### Según Para Salvarte (PS)
-
-Loring expone el Magisterio en el marco de la Iglesia fundada por Cristo. La Iglesia es depositaria de la doctrina revelada y de todos los medios de salvación. Cristo la fundó sobre Pedro como fundamento, dándole una autoridad suprema, universal y plena: «Lo que ates en la Tierra quedará atado en el cielo» (Mt 16,19) [PS §37,10]. El poder de atar y desatar es poder de legislar, y las llaves del Reino son signo de transmisión de autoridad. La Iglesia es jerárquica, no democrática; el poder de los jerarcas no proviene de la comunidad de los fieles. La verdad revelada «no es el producto de una Iglesia democrática, sino que es un don que viene de “lo alto”, de Dios» [PS §37,10]. Los sucesores de San Pedro, los Papas, han sido siempre reconocidos como Jefes de la Iglesia. «Cristo está donde está Pedro; y hoy Pedro está en el Papa de Roma» [PS §37,10].
-
-### Según el Concilio Vaticano II (ConcVatII)
-
-*Dei Verbum* 10 define la relación entre el Magisterio y la palabra de Dios: la Tradición y la Escritura constituyen un solo depósito sagrado confiado a la Iglesia. El Magisterio no está sobre la palabra de Dios, sino a su servicio. La Tradición, la Escritura y el Magisterio «según el designio sapientísimo de Dios, están entrelazados y unidos de tal forma que no tiene consistencia el uno sin el otro, y que, juntos, cada uno a su modo, bajo la acción del Espíritu Santo, contribuyen eficazmente a la salvación de las almas» (DV 10).
-
 ### Según el Catecismo (CEC)
 
 El CEC enseña la unidad indisoluble de Tradición, Escritura y Magisterio: «Están unidos y ligados, de modo que ninguno puede subsistir sin los otros; los tres, cada uno según su carácter, y bajo la acción del único Espíritu Santo, contribuyen eficazmente a la salvación de las almas» (§95).
@@ -42,6 +34,14 @@ El CEC enseña la unidad indisoluble de Tradición, Escritura y Magisterio: «Es
 ### Según el Código de Derecho Canónico (CIC)
 
 El Libro III del CIC regula la función de enseñar de la Iglesia. El canon 747 establece que la Iglesia, a la que Cristo encomendó el [[depósito_de_la_fe]], tiene el deber y el derecho originario de predicar el Evangelio, utilizando incluso sus propios medios de comunicación social. El canon 749 regula la infalibilidad del magisterio del Sumo Pontífice y del Colegio de los Obispos. El canon 752 exige un asentimiento religioso (obsequium religiosum) a la doctrina del magisterio auténtico no definitivo. El canon 753 reconoce a los Obispos como doctores y maestros auténticos, cuyo magisterio requiere adhesión con asentimiento religioso. El canon 754 obliga a todos los fieles a observar las constituciones y decretos promulgados por la autoridad eclesiástica para proponer la doctrina y rechazar opiniones erróneas.
+### Según el Concilio Vaticano II (ConcVatII)
+
+*Dei Verbum* 10 define la relación entre el Magisterio y la palabra de Dios: la Tradición y la Escritura constituyen un solo depósito sagrado confiado a la Iglesia. El Magisterio no está sobre la palabra de Dios, sino a su servicio. La Tradición, la Escritura y el Magisterio «según el designio sapientísimo de Dios, están entrelazados y unidos de tal forma que no tiene consistencia el uno sin el otro, y que, juntos, cada uno a su modo, bajo la acción del Espíritu Santo, contribuyen eficazmente a la salvación de las almas» (DV 10).
+
+### Según Para Salvarte (PS)
+
+Loring expone el Magisterio en el marco de la Iglesia fundada por Cristo. La Iglesia es depositaria de la doctrina revelada y de todos los medios de salvación. Cristo la fundó sobre Pedro como fundamento, dándole una autoridad suprema, universal y plena: «Lo que ates en la Tierra quedará atado en el cielo» (Mt 16,19) [PS §37,10]. El poder de atar y desatar es poder de legislar, y las llaves del Reino son signo de transmisión de autoridad. La Iglesia es jerárquica, no democrática; el poder de los jerarcas no proviene de la comunidad de los fieles. La verdad revelada «no es el producto de una Iglesia democrática, sino que es un don que viene de “lo alto”, de Dios» [PS §37,10]. Los sucesores de San Pedro, los Papas, han sido siempre reconocidos como Jefes de la Iglesia. «Cristo está donde está Pedro; y hoy Pedro está en el Papa de Roma» [PS §37,10].
+
 
 ## Distinciones importantes
 

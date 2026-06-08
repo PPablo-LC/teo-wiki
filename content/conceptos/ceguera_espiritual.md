@@ -13,6 +13,9 @@ La ceguera espiritual procede principalmente de los pecados carnales, especialme
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Catecismo no usa el término «ceguera espiritual» explícitamente, pero enseña que el pecado oscurece la conciencia y endurece el corazón (Cf. §1432, §1865). La falta de fe y el apego al pecado impiden la percepción de las realidades divinas.
 ### Según Royo Marín (TPCr)
 
 Santo Tomás dedica toda una cuestión al estudio de los vicios contrarios al don de entendimiento. Son dos: la ceguera espiritual y el embotamiento del sentido espiritual. La primera es la privación total de la visión; la segunda, un debilitamiento notable. Ambas proceden de los pecados carnales (gula y lujuria). La lujuria produce la ceguera espiritual, que excluye casi por completo el conocimiento de los bienes espirituales.
@@ -21,9 +24,6 @@ Quienes padecen ceguera espiritual «quieren ir por el camino de las vacas, bien
 
 [TPCr, Parte III, Libro II, Cap. II, n.341]
 
-### Según el Catecismo (CEC)
-
-El Catecismo no usa el término «ceguera espiritual» explícitamente, pero enseña que el pecado oscurece la conciencia y endurece el corazón (Cf. §1432, §1865). La falta de fe y el apego al pecado impiden la percepción de las realidades divinas.
 
 ## Distinciones importantes
 

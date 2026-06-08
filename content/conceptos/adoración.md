@@ -19,15 +19,15 @@ La adoración se debe al único Dios verdadero (§2084-2086). Es el primer acto 
 
 [CEC §2096-2097, §2628, §1378-1380, §2084-2086, §2133-2135]
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+La adoración en la Biblia se expresa mediante gestos corporales —postración y ósculo— que traducen la reacción del hombre ante la proximidad de Dios: conciencia de su insignificancia, veneración trepidante y homenaje jubiloso. El AT la reserva exclusivamente a Yahveh, prohibiendo todo gesto de adoración a ídolos, astros o dioses extranjeros. La novedad del NT es que Jesucristo es reconocido como Señor y recibe la adoración debida a Dios (*Flp 2,9ss*). La adoración cristiana se realiza «en espíritu y en verdad» (*Jn 4,24*), no ligada ya a un lugar nacional, sino en el templo que es el cuerpo de Cristo resucitado [VocTeoBib, «Adoración»].
 ### Según Royo Marín (TPCr)
 
 La adoración es acto principal de la virtud de la religión. La religión es una virtud moral aneja a la justicia que inclina a dar a Dios el culto y honor debidos. El sacrificio de la Misa constituye el acto principal de la religión y del culto católico. La adoración perfecta es la del alma que se reconoce criatura y se entrega totalmente a Dios.
 
 [TPCr, Parte III, Libro II, Cap. II, n.427]
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-La adoración en la Biblia se expresa mediante gestos corporales —postración y ósculo— que traducen la reacción del hombre ante la proximidad de Dios: conciencia de su insignificancia, veneración trepidante y homenaje jubiloso. El AT la reserva exclusivamente a Yahveh, prohibiendo todo gesto de adoración a ídolos, astros o dioses extranjeros. La novedad del NT es que Jesucristo es reconocido como Señor y recibe la adoración debida a Dios (*Flp 2,9ss*). La adoración cristiana se realiza «en espíritu y en verdad» (*Jn 4,24*), no ligada ya a un lugar nacional, sino en el templo que es el cuerpo de Cristo resucitado [VocTeoBib, «Adoración»].
 
 ## Distinciones importantes
 

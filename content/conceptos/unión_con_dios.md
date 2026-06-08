@@ -15,6 +15,11 @@ La teología mística distingue varios grados de unión con Dios. En la vía pur
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La oración es el lugar de la unión con Dios. «La oración contemplativa es la unión de amor con Dios» (CEC §2709). La contemplación es «la escucha de la Palabra de Dios, la adhesión del corazón, la comunión de vida con Cristo» (CEC §2715). «La contemplación es la expresión más simple del misterio de la oración. Es un don, una gracia, que solo puede recibirse en la humildad y la pobreza de corazón» (CEC §2713).
+
+Dios llama a todos los fieles a la unión íntima con Él, cada uno según su estado y vocación. La unión con Dios no es solo para almas excepcionales sino que es la llamada universal a la santidad (CEC §2013-2014).
 ### Según Royo Marín (TPCr)
 
 Royo Marín desarrolla ampliamente la doctrina de la unión con Dios en la Tercera Parte, dedicada a la vía unitiva. Distingue:
@@ -29,11 +34,6 @@ La unión transformante se distingue esencialmente de la unión hipostática: es
 
 [TPCr, Parte III, Vía unitiva]
 
-### Según el Catecismo (CEC)
-
-La oración es el lugar de la unión con Dios. «La oración contemplativa es la unión de amor con Dios» (CEC §2709). La contemplación es «la escucha de la Palabra de Dios, la adhesión del corazón, la comunión de vida con Cristo» (CEC §2715). «La contemplación es la expresión más simple del misterio de la oración. Es un don, una gracia, que solo puede recibirse en la humildad y la pobreza de corazón» (CEC §2713).
-
-Dios llama a todos los fieles a la unión íntima con Él, cada uno según su estado y vocación. La unión con Dios no es solo para almas excepcionales sino que es la llamada universal a la santidad (CEC §2013-2014).
 
 ## Distinciones importantes
 

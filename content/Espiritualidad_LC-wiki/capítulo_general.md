@@ -13,6 +13,13 @@ El Capítulo General es una institución propia del derecho canónico particular
 
 ## Perspectivas por fuente
 
+### Según el Código de Derecho Canónico (CIC)
+
+El Capítulo General está regulado en los cc. 631-633 CIC:
+- **c. 631**: el Capítulo General, que representa a todo el instituto, es la suprema autoridad del mismo según las constituciones; le corresponde elegir al superior general, tratar los asuntos más importantes y dictar normas que todos deben observar
+- **c. 632**: para que las decisiones capitulares tengan fuerza, se requiere la aprobación de la Santa Sede cuando el derecho lo exija
+- **c. 633**: los capitulares deben ser elegidos según las normas de las constituciones
+
 ### Según el Capítulo General LC-2026
 
 El V Capítulo General ordinario de los Legionarios de Cristo se celebró del 20 de enero al 27 de febrero de 2026 en Roma, con sesenta legionarios participantes [LC-2026, n. 1]. Fue vivido «como un verdadero ejercicio sinodal: caminando y rezando juntos, escuchándonos, discerniendo bajo la guía del Espíritu» [LC-2026, n. 3].
@@ -24,13 +31,6 @@ El V Capítulo General ordinario de los Legionarios de Cristo se celebró del 20
 **Proceso preparatorio**: el Capítulo recibió 292 propuestas de las asambleas territoriales, 442 aportaciones individuales de legionarios, y aportaciones de personas externas [LC-2026, n. 14].
 
 **Elección del gobierno general**: los días 4 y 5 de febrero se eligió como director general al P. Carlos Gutiérrez López, y como consejeros generales a los padres Hernán Jiménez Barrera, Michael Brisson, Miguel Cavallé Puig, Robert Presutti, Adolfo Güémez Suárez y David Daly. El P. José Cárdenas Jiménez fue reelegido como administrador general [LC-2026, n. 7].
-
-### Según el Código de Derecho Canónico (CIC)
-
-El Capítulo General está regulado en los cc. 631-633 CIC:
-- **c. 631**: el Capítulo General, que representa a todo el instituto, es la suprema autoridad del mismo según las constituciones; le corresponde elegir al superior general, tratar los asuntos más importantes y dictar normas que todos deben observar
-- **c. 632**: para que las decisiones capitulares tengan fuerza, se requiere la aprobación de la Santa Sede cuando el derecho lo exija
-- **c. 633**: los capitulares deben ser elegidos según las normas de las constituciones
 
 ### Según el papa León XIV
 

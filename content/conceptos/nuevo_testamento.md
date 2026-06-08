@@ -23,13 +23,13 @@ El canon del Nuevo Testamento contiene también las cartas de San Pablo y otros 
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Nuevo Testamento tiene como objeto central Jesucristo, el Hijo de Dios encarnado (CEC §124). Los Evangelios son el corazón de todas las Escrituras «por ser el testimonio principal de la vida y doctrina de la Palabra hecha carne, nuestro Salvador» (CEC §125). El Nuevo Testamento está escondido en el Antiguo y el Antiguo se hace manifiesto en el Nuevo (CEC §128-129).
 ### Según el Concilio Vaticano II (ConcVatII)
 
 *Dei Verbum* dedica el capítulo V al Nuevo Testamento (DV 17-20). La palabra divina manifiesta su vigor de manera especial en los escritos del Nuevo Testamento (DV 17). Los Evangelios tienen origen apostólico e historicidad (DV 18-19). Los autores sagrados escribieron los Evangelios escogiendo, sintetizando y explicando lo transmitido, siempre comunicando la verdad sincera acerca de Jesús (DV 19).
 
-### Según el Catecismo (CEC)
-
-El Nuevo Testamento tiene como objeto central Jesucristo, el Hijo de Dios encarnado (CEC §124). Los Evangelios son el corazón de todas las Escrituras «por ser el testimonio principal de la vida y doctrina de la Palabra hecha carne, nuestro Salvador» (CEC §125). El Nuevo Testamento está escondido en el Antiguo y el Antiguo se hace manifiesto en el Nuevo (CEC §128-129).
 
 ## Distinciones importantes
 

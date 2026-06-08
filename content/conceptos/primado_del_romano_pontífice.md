@@ -13,6 +13,14 @@ El primado del Romano Pontífice se funda en la institución del primado de San 
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+CEC §880-887 presentan la doctrina del primado. El Papa, Obispo de Roma y Sucesor de Pedro, «es el principio y fundamento perpetuo y visible de unidad» de la Iglesia (§882). Recibió de Cristo «la potestad plena de apacentar, regir y gobernar la Iglesia universal» (§937). El ministerio petrino está al servicio de la comunión y la unidad de todos los fieles en la fe (§880-881). La infalibilidad pontificia es una expresión del primado en materia de enseñanza (§891).
+
+### Según el Código de Derecho Canónico (CIC)
+
+El c. 331 define la potestad del Romano Pontífice: en virtud de su oficio tiene potestad ordinaria, suprema, plena, inmediata y universal sobre toda la Iglesia, que puede ejercer siempre libremente. Es cabeza del Colegio Episcopal (c. 330). Su potestad no está sujeta a prescripción ni a revisión por ninguna otra autoridad (c. 333 §3). El Papa tiene la facultad de erigir Iglesias particulares, nombrar obispos, promulgar leyes para toda la Iglesia y dispensar de las mismas (cc. 333-334).
+
 ### Según el Concilio Vaticano II (ConcVatII)
 
 *Lumen Gentium* §22 enseña que el Romano Pontífice, como sucesor de Pedro, es el principio y fundamento perpetuo y visible de unidad de la Iglesia. El Colegio Episcopal ejerce su potestad sobre toda la Iglesia solo junto con el Romano Pontífice, nunca sin él. El Papa posee potestad plena, suprema y universal sobre la Iglesia, que puede ejercer libremente en todo tiempo.
@@ -20,14 +28,6 @@ El primado del Romano Pontífice se funda en la institución del primado de San 
 *Lumen Gentium* §23 desarrolla la comunión jerárquica de los obispos entre sí y con el Romano Pontífice, que es cabeza del Colegio Episcopal. Los obispos gobiernan sus Iglesias particulares en comunión con el sucesor de Pedro.
 
 *Christus Dominus* §2 y §8 afirman que los obispos, como sucesores de los Apóstoles, rigen las Iglesias particulares que se les confían con potestad propia, ordinaria e inmediata, en comunión con el Romano Pontífice. El Papa confirma a los obispos en su oficio y mantiene la comunión entre todas las Iglesias.
-
-### Según el Código de Derecho Canónico (CIC)
-
-El c. 331 define la potestad del Romano Pontífice: en virtud de su oficio tiene potestad ordinaria, suprema, plena, inmediata y universal sobre toda la Iglesia, que puede ejercer siempre libremente. Es cabeza del Colegio Episcopal (c. 330). Su potestad no está sujeta a prescripción ni a revisión por ninguna otra autoridad (c. 333 §3). El Papa tiene la facultad de erigir Iglesias particulares, nombrar obispos, promulgar leyes para toda la Iglesia y dispensar de las mismas (cc. 333-334).
-
-### Según el Catecismo (CEC)
-
-CEC §880-887 presentan la doctrina del primado. El Papa, Obispo de Roma y Sucesor de Pedro, «es el principio y fundamento perpetuo y visible de unidad» de la Iglesia (§882). Recibió de Cristo «la potestad plena de apacentar, regir y gobernar la Iglesia universal» (§937). El ministerio petrino está al servicio de la comunión y la unidad de todos los fieles en la fe (§880-881). La infalibilidad pontificia es una expresión del primado en materia de enseñanza (§891).
 
 ### Según el Concilio Vaticano I (Pastor Aeternus)
 

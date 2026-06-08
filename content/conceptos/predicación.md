@@ -13,12 +13,6 @@ La predicación es la forma primordial del ministerio de la palabra. Tiene como 
 
 ## Perspectivas por fuente
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-*Dei Verbum* 21-25 vincula la predicación con la Sagrada Escritura: «toda la predicación eclesiástica, como la misma religión cristiana, se nutra de la Sagrada Escritura y se rija por ella» (DV 21). Los clérigos, sacerdotes, diáconos y catequistas deben sumergirse en las Escrituras «para que ninguno de ellos resulte predicador vacío y superfluo de la palabra de Dios que no la escucha en su interior» (DV 25). El ministerio de la palabra —predicación pastoral, catequesis y homilía litúrgica— se nutre y vigoriza con la palabra de la Escritura (DV 24).
-
-*Sacrosanctum Concilium* 35 establece que el sermón es parte de la acción litúrgica y que las fuentes principales de la predicación serán la Sagrada Escritura y la Liturgia, «ya que es una proclamación de las maravillas obradas por Dios en la historia de la salvación o misterio de Cristo». SC 52 recomienda encarecidamente la homilía como parte de la Misa, donde se exponen los misterios de la fe y las normas de la vida cristiana. SC 9 recuerda que la Iglesia debe predicar el mensaje de salvación a los no creyentes y predicar la fe y la penitencia a los creyentes.
-
 ### Según el Código de Derecho Canónico (CIC)
 
 El Libro III dedica el Capítulo I del Título I a la predicación de la palabra de Dios (cc. 762-772).
@@ -30,6 +24,12 @@ La **homilía** (c. 767) es la forma de predicación que destaca entre todas, es
 El contenido de la predicación debe proponer lo necesario para creer y obrar (c. 768), así como la doctrina del magisterio sobre la persona humana, la familia, la sociedad y el orden temporal (c. 768 §2). Debe adaptarse a los oyentes y a las necesidades de cada época (c. 769).
 
 Para predicar por radio o televisión deben cumplirse las prescripciones de la Conferencia Episcopal (c. 772 §2).
+### Según el Concilio Vaticano II (ConcVatII)
+
+*Dei Verbum* 21-25 vincula la predicación con la Sagrada Escritura: «toda la predicación eclesiástica, como la misma religión cristiana, se nutra de la Sagrada Escritura y se rija por ella» (DV 21). Los clérigos, sacerdotes, diáconos y catequistas deben sumergirse en las Escrituras «para que ninguno de ellos resulte predicador vacío y superfluo de la palabra de Dios que no la escucha en su interior» (DV 25). El ministerio de la palabra —predicación pastoral, catequesis y homilía litúrgica— se nutre y vigoriza con la palabra de la Escritura (DV 24).
+
+*Sacrosanctum Concilium* 35 establece que el sermón es parte de la acción litúrgica y que las fuentes principales de la predicación serán la Sagrada Escritura y la Liturgia, «ya que es una proclamación de las maravillas obradas por Dios en la historia de la salvación o misterio de Cristo». SC 52 recomienda encarecidamente la homilía como parte de la Misa, donde se exponen los misterios de la fe y las normas de la vida cristiana. SC 9 recuerda que la Iglesia debe predicar el mensaje de salvación a los no creyentes y predicar la fe y la penitencia a los creyentes.
+
 
 ## Distinciones importantes
 

@@ -13,6 +13,9 @@ Santo Tomás trata la obstinación en el mal principalmente en la Ia Pars q.64 a
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Catecismo enseña que el [[infierno]] consiste en la privación eterna de la visión de Dios y que este estado «es la consecuencia de la libre elección del hombre que no se arrepiente ni quiere reconciliarse con Dios» (CEC §1033-1037). La enseñanza de la Iglesia afirma la existencia del infierno y su eternidad: «Morir en pecado mortal sin estar arrepentido ni acoger el amor misericordioso de Dios, significa permanecer separados de Él para siempre por nuestra propia y libre elección» (§1033). Esta doctrina es la aplicación al hombre de lo que en los ángeles se consumó instantáneamente: la obstinación en el mal tras la elección definitiva.
 ### Según la Summa Theologiae (SmTh)
 
 **Obstinación de los demonios (Iª q.64 a.2):** La voluntad de los demonios está obstinada en el mal. La causa de esta obstinación no se ha de buscar en la gravedad de la culpa, sino en la condición del estado natural. El Damasceno enseña que «lo que para los hombres es la muerte, esto es para los ángeles la caída»: todo pecado mortal humano es remisible antes de la muerte; después de la muerte, es irremisible y dura siempre.
@@ -23,9 +26,6 @@ Así, los ángeles buenos, adheridos a la justicia, están confirmados en el bie
 
 **Impecabilidad de los ángeles buenos (Iª q.62 a.8):** La confirmación en el bien de los ángeles santos es la contrapartida de la obstinación de los demonios. Los bienaventurados ven a Dios por esencia, y la esencia de Dios es la bondad misma. Por eso su voluntad está fijada en el bien: el libre albedrío puede elegir entre diversas cosas conservando su ordenación al fin (perfección de la libertad), pero no puede elegir apartándose del fin (defecto de libertad). El ángel que no puede pecar tiene más libertad que el hombre que sí puede.
 
-### Según el Catecismo (CEC)
-
-El Catecismo enseña que el [[infierno]] consiste en la privación eterna de la visión de Dios y que este estado «es la consecuencia de la libre elección del hombre que no se arrepiente ni quiere reconciliarse con Dios» (CEC §1033-1037). La enseñanza de la Iglesia afirma la existencia del infierno y su eternidad: «Morir en pecado mortal sin estar arrepentido ni acoger el amor misericordioso de Dios, significa permanecer separados de Él para siempre por nuestra propia y libre elección» (§1033). Esta doctrina es la aplicación al hombre de lo que en los ángeles se consumó instantáneamente: la obstinación en el mal tras la elección definitiva.
 
 ## Distinciones importantes
 

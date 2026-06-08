@@ -13,13 +13,13 @@ La conversión es primeramente una obra de la gracia de Dios que hace volver a �
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La primera obra de la gracia del Espíritu Santo es la conversión (CEC §1989). La llamada de Cristo a la conversión sigue resonando en la vida de los cristianos; esta segunda conversión es una tarea ininterrumpida (CEC §1428). La penitencia interior es una reorientación radical de toda la vida, un retorno, una conversión a Dios con todo el corazón (CEC §1431). La conversión es primeramente una obra de la gracia de Dios (CEC §1432). La penitencia interior se expresa en tres formas: el ayuno, la oración y la limosna (CEC §1434). La conversión se realiza en la vida cotidiana mediante gestos de reconciliación, atención a los pobres, ejercicio de la justicia (CEC §1435). La parábola del hijo pródigo describe maravillosamente el proceso de conversión (CEC §1439).
 ### Según Juan Pablo II (JPII-JovCh)
 
 «Nuestro mundo necesita una profunda mejoría, una honda resurrección espiritual» [JPII-JovCh]. Juan Pablo II describe la conversión como un vencer el pecado mediante el perdón de Dios, que es «una curación, es una resurrección» [JPII-JovCh]. Esta conversión ha de hacerse «con plena conciencia de vuestra responsabilidad» y arraigar en el corazón de cada uno [JPII-JovCh].
 
-### Según el Catecismo (CEC)
-
-La primera obra de la gracia del Espíritu Santo es la conversión (CEC §1989). La llamada de Cristo a la conversión sigue resonando en la vida de los cristianos; esta segunda conversión es una tarea ininterrumpida (CEC §1428). La penitencia interior es una reorientación radical de toda la vida, un retorno, una conversión a Dios con todo el corazón (CEC §1431). La conversión es primeramente una obra de la gracia de Dios (CEC §1432). La penitencia interior se expresa en tres formas: el ayuno, la oración y la limosna (CEC §1434). La conversión se realiza en la vida cotidiana mediante gestos de reconciliación, atención a los pobres, ejercicio de la justicia (CEC §1435). La parábola del hijo pródigo describe maravillosamente el proceso de conversión (CEC §1439).
 
 ## Distinciones importantes
 

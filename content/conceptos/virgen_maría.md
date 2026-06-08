@@ -21,6 +21,15 @@ Dios escogió desde toda la eternidad a una hija de Israel para ser Madre de su 
 
 María es verdaderamente Madre de Dios (*Theotokos*), porque aquel que concibió como hombre no es otro que el Hijo eterno del Padre (§495). Es «siempre Virgen» (*Aeiparthénon*): virgen antes del parto, en el parto y después del parto (§499, §510). Fue asunta en cuerpo y alma a la gloria del cielo (§966, §974). Es «nuestra madre en el orden de la gracia» (§968), invocada como Abogada, Auxiliadora, Socorro, Mediadora (§969). «La piedad de la Iglesia hacia la Santísima Virgen es un elemento intrínseco del culto cristiano» (§971). Es «la imagen y comienzo de la Iglesia que llegará a su plenitud en el siglo futuro» (§972).
 
+### Según el Concilio Vaticano II (ConcVatII)
+
+Lumen Gentium dedica el capítulo VIII a la Santísima Virgen María. María es «reconocida y venerada como verdadera Madre de Dios y del Redentor», redimida de modo eminente en previsión de los méritos de su Hijo [ConcVatII, LG §53]. Es «miembro excelentísimo y enteramente singular de la Iglesia y tipo y ejemplar acabadísimo de la misma en la fe y en la caridad» [ConcVatII, LG §53].
+
+En la economía de la salvación, María cooperó «a la salvación de los hombres con fe y obediencia libres» [ConcVatII, LG §56]. «Concibiendo a Cristo, engendrándolo, alimentándolo, presentándolo al Padre en el templo, padeciendo con su Hijo cuando moría en la cruz, cooperó en forma enteramente impar a la obra del Salvador» [ConcVatII, LG §61]. Por eso es «nuestra madre en el orden de la gracia» [ConcVatII, LG §61].
+
+La maternidad de María perdura sin cesar; asunta a los cielos, «con su múltiple intercesión continúa obteniéndonos los dones de la salvación eterna» [ConcVatII, LG §62]. Es invocada con los títulos de Abogada, Auxiliadora, Socorro, Mediadora [ConcVatII, LG §62].
+
+María es tipo de la Iglesia en el orden de la fe, de la caridad y de la unión perfecta con Cristo [ConcVatII, LG §63-64]. Es «signo de esperanza cierta y de consuelo para el Pueblo peregrinante de Dios» [ConcVatII, LG §68]. La Iglesia la venera con un culto especial, que se distingue esencialmente del culto de adoración tributado al Verbo encarnado [ConcVatII, LG §66].
 ### Según Royo Marín (TPCr)
 
 Royo Marín presenta a la Virgen María como el camino más perfecto para la configuración con Cristo. En la escuela de María, el alma aprende las virtudes que más la asemejan a Cristo: humildad, pureza, obediencia y caridad.
@@ -39,15 +48,6 @@ María es Madre de Dios (Theotókos), dogma definido en Éfeso (431), porque Jes
 
 Es «mediadora secundaria, subordinada a Cristo» [PS §30,1]. Debemos acudir a Ella en todas nuestras penas y tentaciones, pues «Dios todo se lo concede» [PS §30,1]. El rezo del Santo Rosario y el Escapulario del Carmen son devociones recomendadas, y la devoción a María es «prenda de salvación» [PS §30,5-30,6].
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-Lumen Gentium dedica el capítulo VIII a la Santísima Virgen María. María es «reconocida y venerada como verdadera Madre de Dios y del Redentor», redimida de modo eminente en previsión de los méritos de su Hijo [ConcVatII, LG §53]. Es «miembro excelentísimo y enteramente singular de la Iglesia y tipo y ejemplar acabadísimo de la misma en la fe y en la caridad» [ConcVatII, LG §53].
-
-En la economía de la salvación, María cooperó «a la salvación de los hombres con fe y obediencia libres» [ConcVatII, LG §56]. «Concibiendo a Cristo, engendrándolo, alimentándolo, presentándolo al Padre en el templo, padeciendo con su Hijo cuando moría en la cruz, cooperó en forma enteramente impar a la obra del Salvador» [ConcVatII, LG §61]. Por eso es «nuestra madre en el orden de la gracia» [ConcVatII, LG §61].
-
-La maternidad de María perdura sin cesar; asunta a los cielos, «con su múltiple intercesión continúa obteniéndonos los dones de la salvación eterna» [ConcVatII, LG §62]. Es invocada con los títulos de Abogada, Auxiliadora, Socorro, Mediadora [ConcVatII, LG §62].
-
-María es tipo de la Iglesia en el orden de la fe, de la caridad y de la unión perfecta con Cristo [ConcVatII, LG §63-64]. Es «signo de esperanza cierta y de consuelo para el Pueblo peregrinante de Dios» [ConcVatII, LG §68]. La Iglesia la venera con un culto especial, que se distingue esencialmente del culto de adoración tributado al Verbo encarnado [ConcVatII, LG §66].
 
 ## Distinciones importantes
 

@@ -17,13 +17,13 @@ El amor a los enemigos es mandato explícito de Cristo (Mt 5,43-48; Lc 6,27-35) 
 
 El amor a los enemigos es «requisito esencial de la Nueva Ley» (§1825). Cristo ruega por sus perseguidores (Lc 23,34; CEC §2608). La perfección cristiana consiste en amar a los enemigos (Mt 5,43-48; CEC §2262). La caridad cristiana no tiene límites: «no hay medida en el amor» (§1825).
 
+### Según Santo Tomás (SmTh)
+
+Se puede amar al enemigo de dos modos: en cuanto a la naturaleza humana, queriendo su bien eterno; en cuanto a su hostilidad, no se puede amar lo que es contrario al bien (II-II q.25 a.8-9). El amor a los enemigos es propio de la caridad perfecta (II-II q.25 a.9). La mansedumbre ayuda a remover el obstáculo que impide amar a los enemigos (II-II q.157). La paciencia es necesaria para soportar los males que otros hacen (II-II q.136).
 ### Según Royo Marín (TPCr)
 
 La perfección de la caridad se manifiesta principalmente en el amor a los enemigos. Para los perfectos, la unión con Dios por la caridad es tan intensa que nada externo —ni siquiera la injuria— puede perturbar la paz interior o disminuir la benevolencia hacia el ofensor. El perdón de las injurias y el amor a los enemigos son requisitos para la perfección cristiana (TPCr, Tercera Parte, Libro II, Cap. VI).
 
-### Según Santo Tomás (SmTh)
-
-Se puede amar al enemigo de dos modos: en cuanto a la naturaleza humana, queriendo su bien eterno; en cuanto a su hostilidad, no se puede amar lo que es contrario al bien (II-II q.25 a.8-9). El amor a los enemigos es propio de la caridad perfecta (II-II q.25 a.9). La mansedumbre ayuda a remover el obstáculo que impide amar a los enemigos (II-II q.157). La paciencia es necesaria para soportar los males que otros hacen (II-II q.136).
 
 ## Distinciones importantes
 

@@ -15,6 +15,10 @@ Jesús invierte la noción mundana del poder: el que quiera ser grande debe ser 
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+Jesús vino a «servir y dar su vida en rescate por muchos» (CEC §608, §786). El ministerio eclesial es esencialmente servicio (diaconía), a imagen de Cristo que tomó «forma de siervo» (§876-§879). El «servicio a Dios» es el culto litúrgico (§1069-§1070). El sello bautismal capacita para el servicio divino (§1273).
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 El NT usa dos palabras principales para servir: *diakonein* (servir, ministrar) y *douleuein* (servir como esclavo). La primera expresa el servicio humilde y concreto a las necesidades del prójimo; la segunda, el servicio radical a Dios.
@@ -22,10 +26,6 @@ El NT usa dos palabras principales para servir: *diakonein* (servir, ministrar) 
 Jesús redefine la autoridad como servicio. Contrasta el poder tiránico de los gobernantes paganos con el servicio de los discípulos (Mc 10,42-45). El servicio no es opcional: es la expresión necesaria del seguimiento. María, la madre de Jesús, se declara «esclava del Señor» (Lc 1,38). La Iglesia es servidora del Reino.
 
 Pablo se llama a sí mismo «siervo (doulos) de Jesucristo» (Rom 1,1). El servicio cristiano incluye la predicación, la caridad material y la intercesión. Los carismas son para el servicio mutuo (1 Pe 4,10). Cristo mismo es el servidor por excelencia: ha venido a servir, no a ser servido.
-
-### Según el Catecismo (CEC)
-
-Jesús vino a «servir y dar su vida en rescate por muchos» (CEC §608, §786). El ministerio eclesial es esencialmente servicio (diaconía), a imagen de Cristo que tomó «forma de siervo» (§876-§879). El «servicio a Dios» es el culto litúrgico (§1069-§1070). El sello bautismal capacita para el servicio divino (§1273).
 
 ### Según Royo Marín (TPCr)
 

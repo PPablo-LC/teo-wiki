@@ -15,6 +15,10 @@ En el NT, Jesús es el Cristo (= Mesías = Ungido). El Espíritu Santo desciende
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La unción es símbolo del Espíritu Santo; «Cristo» significa «Ungido» (CEC §695, §690). Jesús es constituido Cristo por el Espíritu Santo (§745). La unción del Espíritu Santo consagra a los bautizados como sacerdocio santo (§784). En la Confirmación, la unción con el santo crisma imprime el sello espiritual (§1293-§1296, §1300). La Unción de los enfermos es sacramento de curación (§1509-§1510).
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 La unción real tenía un carácter carismático: el espíritu de Yahvé invadía al ungido (1 Sam 10,6; 16,13). Después del exilio, la unción se concentra en el sumo sacerdote. El Salmo 133 canta la unción de Aarón como símbolo de la fraternidad.
@@ -22,10 +26,6 @@ La unción real tenía un carácter carismático: el espíritu de Yahvé invadí
 Isaías anuncia al Ungido por excelencia: «El Espíritu del Señor Yahvé está sobre mí, porque me ha ungido» (Is 61,1). Jesús aplica este texto a sí mismo en la sinagoga de Nazaret (Lc 4,16-21). Jesús es ungido por el Espíritu no con aceite material sino con la plenitud del Espíritu Santo.
 
 Los cristianos participan de la unción de Cristo: «El que nos confirma con vosotros en Cristo y el que nos ungió es Dios» (2 Cor 1,21). El crisma es símbolo del Espíritu Santo. La unción del Bautismo hace al cristiano partícipe del triple oficio de Cristo: sacerdote, profeta y rey.
-
-### Según el Catecismo (CEC)
-
-La unción es símbolo del Espíritu Santo; «Cristo» significa «Ungido» (CEC §695, §690). Jesús es constituido Cristo por el Espíritu Santo (§745). La unción del Espíritu Santo consagra a los bautizados como sacerdocio santo (§784). En la Confirmación, la unción con el santo crisma imprime el sello espiritual (§1293-§1296, §1300). La Unción de los enfermos es sacramento de curación (§1509-§1510).
 
 ### Según Royo Marín (TPCr)
 

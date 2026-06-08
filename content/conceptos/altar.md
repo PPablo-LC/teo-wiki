@@ -17,13 +17,13 @@ El altar es el lugar donde se ofrece el Santo Sacrificio de la Misa. Su forma de
 
 El CEC dedica los §§1182-1183 al altar. Señala que el altar es el centro de la acción de gracias que se consuma en la Eucaristía (CEC §1182). Es también la mesa del Señor y el centro de la asamblea eucarística. El altar es signo de Cristo, sacerdote, altar y cordero (CEC §1183, citando el Prefacio de la Dedicación de una Iglesia). La dedicación del altar es una celebración solemne que lo consagra definitivamente al culto divino.
 
-### Según el CIC
-
-Los cc. 1235-1239 regulan los requisitos canónicos del altar. Debe ser único en cada iglesia, significando que Cristo es la única piedra angular (c. 1235 §1). La mesa del altar fijo debe ser de piedra natural (c. 1236 §1). Debe colocarse separado de la pared para que pueda recorrerse alrededor (c. 1236 §3). Debe contener reliquias de mártires o santos (c. 1237 §2). La dedicación del altar fijo corresponde al obispo (c. 1238). Los altares móviles pueden ser bendecidos por el presbítero.
-
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 El altar en el AT es el lugar donde se invoca el nombre de Dios y se le ofrece culto; desde los patriarcas (Noé, Abraham) hasta el templo de Jerusalén. Originalmente de tierra o piedra sin labrar (*Ex 20,24-25*), con el tiempo el altar de bronce de los holocaustos y el altar de oro del incienso se integran en el ritual del templo. En el NT, la carta a los Hebreos presenta a Cristo como altar, sacerdote y víctima, desplazando el altar material hacia el cielo (*Heb 13,10*). La Iglesia primitiva conserva la mesa de la Cena como altar del sacrificio eucarístico [VocTeoBib, «Altar»].
+
+### Según el CIC
+
+Los cc. 1235-1239 regulan los requisitos canónicos del altar. Debe ser único en cada iglesia, significando que Cristo es la única piedra angular (c. 1235 §1). La mesa del altar fijo debe ser de piedra natural (c. 1236 §1). Debe colocarse separado de la pared para que pueda recorrerse alrededor (c. 1236 §3). Debe contener reliquias de mártires o santos (c. 1237 §2). La dedicación del altar fijo corresponde al obispo (c. 1238). Los altares móviles pueden ser bendecidos por el presbítero.
 
 ### Según el Comentario al CIC (Eunsa)
 

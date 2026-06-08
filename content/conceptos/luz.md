@@ -13,6 +13,10 @@ En la Escritura, la luz es atributo divino: Dios es luz y en Él no hay tiniebla
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+Cristo es la luz de los pueblos; la Iglesia no tiene otra luz que la de Cristo, comparable a la luna que refleja la luz del sol (§748). El Bautismo es llamado iluminación porque quien recibe al Verbo, "luz verdadera que ilumina a todo hombre", se convierte en "hijo de la luz" y en luz él mismo (§1216). La salvación viene de Dios, y la Iglesia es madre que engendra a la vida de la fe (§169). El Antiguo Testamento conserva un valor permanente porque prepara la venida de Cristo, luz plena (§121). El cristiano, por el Bautismo y los sacramentos, es llamado a una vida digna del Evangelio (§1692). "Todos los hombres, conforme a su dignidad, se ven impulsados a buscar la verdad" y tienen obligación de adherirse a ella (§2467).
+
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata la luz en Ia Pars q.67. La luz no es cuerpo, sino una cualidad activa consecuencia de la forma sustancial del sol o de cualquier cuerpo con luz propia (q.67 a.2-3). No es una forma sustancial, pues es visible (las formas sustanciales en cuanto tales no lo son), ni es un ser meramente intencional, pues produce efectos naturales como el calor (q.67 a.3).
@@ -20,10 +24,6 @@ Santo Tomás trata la luz en Ia Pars q.67. La luz no es cuerpo, sino una cualida
 El nombre *luz* se dice en sentido propio de lo corporal (como cualidad del primer cuerpo), pero se aplica por analogía a los seres espirituales para designar todo aquello que permite cualquier tipo de conocimiento —así, Dios es Luz, y los ángeles son luces por participación (q.67 a.1).
 
 La producción de la luz fue colocada en el primer día porque la luz es la forma del primer cuerpo y lo más universal (q.67 a.4). Agustín interpreta la luz del primer día como la formación de la naturaleza espiritual (los ángeles), mientras que otros Padres la entienden como luz corporal. En ambos casos, la luz inicia la obra de diversificación del mundo.
-
-### Según el Catecismo (CEC)
-
-Cristo es la luz de los pueblos; la Iglesia no tiene otra luz que la de Cristo, comparable a la luna que refleja la luz del sol (§748). El Bautismo es llamado iluminación porque quien recibe al Verbo, "luz verdadera que ilumina a todo hombre", se convierte en "hijo de la luz" y en luz él mismo (§1216). La salvación viene de Dios, y la Iglesia es madre que engendra a la vida de la fe (§169). El Antiguo Testamento conserva un valor permanente porque prepara la venida de Cristo, luz plena (§121). El cristiano, por el Bautismo y los sacramentos, es llamado a una vida digna del Evangelio (§1692). "Todos los hombres, conforme a su dignidad, se ven impulsados a buscar la verdad" y tienen obligación de adherirse a ella (§2467).
 
 ### Según la Sagrada Escritura
 

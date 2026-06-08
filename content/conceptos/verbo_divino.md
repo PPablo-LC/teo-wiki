@@ -13,13 +13,13 @@ En Dios, la Palabra se dice propiamente en sentido personal, no esencial. La pro
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+Los Apóstoles confiesan a Jesús como «el Verbo que en el principio estaba junto a Dios y que era Dios» (Jn 1,1; CEC §241). «Por Él fueron hechas todas las cosas» (Jn 1,3; CEC §241). El Verbo se encarnó para nuestra salvación: «Y el Verbo se hizo carne» (Jn 1,14; CEC §461). Cristo es la Palabra única y perfecta del Padre, por quien lo dice todo y no habrá otra palabra (CEC §102, §516).
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata el Verbo divino en SmTh Iª q.34. En Dios, la Palabra tomada en sentido propio es nombre personal, no esencial (a.1): significa lo concebido en el entendimiento, que procede del conocimiento del que concibe, y por eso indica origen y pertenece a la razón de los nombres personales. La Palabra es el nombre propio del Hijo (a.2), pues la persona que procede por emanación intelectual es llamada Hijo, y esta procesión es generación; por eso solo el Hijo es llamado propiamente Palabra. El nombre Palabra implica relación con la criatura (a.3), pues Dios, conociéndose con un solo acto, conoce toda criatura; la única Palabra divina es expresiva del Padre y de toda criatura, y con respecto a las criaturas es expresiva y operativa: «Lo dijo, y se hizo» (Sal 32,9).
 
-### Según el Catecismo (CEC)
-
-Los Apóstoles confiesan a Jesús como «el Verbo que en el principio estaba junto a Dios y que era Dios» (Jn 1,1; CEC §241). «Por Él fueron hechas todas las cosas» (Jn 1,3; CEC §241). El Verbo se encarnó para nuestra salvación: «Y el Verbo se hizo carne» (Jn 1,14; CEC §461). Cristo es la Palabra única y perfecta del Padre, por quien lo dice todo y no habrá otra palabra (CEC §102, §516).
 
 ## Distinciones importantes
 

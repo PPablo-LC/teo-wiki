@@ -26,13 +26,6 @@ El Catecismo no trata la presunción de inocencia con ese nombre, pero la enseñ
 - **Finalidad de la pena** (CEC §2266): la legítima autoridad pública tiene el derecho y el deber de aplicar penas proporcionadas, pero la pena presupone la determinación cierta de la culpabilidad mediante un proceso justo.
 - **Octavo mandamiento** (CEC §2464-2503): la verdad y el respeto a la fama del prójimo son exigencias de la justicia y la caridad.
 
-### Según la Doctrina Social de la Iglesia (CompDS)
-
-- La actividad de los encargados de la investigación penal debe tender «a la rigurosa búsqueda de la verdad» y ejercerse «con respeto pleno de la dignidad y de los derechos de la persona humana» (CompDS §404).
-- «No se puede aplicar una pena si antes no se ha probado el delito» (CompDS §404).
-- Los magistrados están obligados a la necesaria reserva para «no debilitar el principio de la presunción de inocencia» (CompDS §404).
-- La justicia exige dar a cada uno lo suyo; la presunción de inocencia es una expresión de la justicia conmutativa y distributiva (CompDS §201).
-
 ### Según el Derecho Canónico (CIC)
 
 El Código de Derecho Canónico recoge implícita y explícitamente el principio:
@@ -42,6 +35,13 @@ El Código de Derecho Canónico recoge implícita y explícitamente el principio
 - **CIC c. 1321 §1**: «Nadie puede ser castigado, a no ser que la violación externa de una ley o precepto que ha cometido le sea gravemente imputable por dolo o culpa» (principio de legalidad penal).
 - **CIC c. 1728**: En el juicio penal canónico se aplican, en lo que no impida la naturaleza del asunto, las normas del juicio contencioso ordinario, que garantizan el derecho de defensa y la igualdad de partes.
 - **CIC c. 1726**: Si en cualquier grado del proceso se llega a la evidencia de que el acusado no cometió el delito, el juez debe absolverlo expresamente, por exigencia del derecho a ser rehabilitado en la buena fama.
+### Según la Doctrina Social de la Iglesia (CompDS)
+
+- La actividad de los encargados de la investigación penal debe tender «a la rigurosa búsqueda de la verdad» y ejercerse «con respeto pleno de la dignidad y de los derechos de la persona humana» (CompDS §404).
+- «No se puede aplicar una pena si antes no se ha probado el delito» (CompDS §404).
+- Los magistrados están obligados a la necesaria reserva para «no debilitar el principio de la presunción de inocencia» (CompDS §404).
+- La justicia exige dar a cada uno lo suyo; la presunción de inocencia es una expresión de la justicia conmutativa y distributiva (CompDS §201).
+
 
 ## Distinciones importantes
 

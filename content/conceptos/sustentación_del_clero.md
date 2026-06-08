@@ -13,6 +13,10 @@ Los clérigos, por su dedicación al ministerio eclesiástico, tienen derecho a 
 
 ## Perspectivas por fuente
 
+### Según el Concilio Vaticano II (ConcVatII)
+
+*Presbyterorum Ordinis* establece que los presbíteros tienen derecho a una justa remuneración (PO §20-21). Los bienes eclesiásticos deben administrarse de modo que «todos los clérigos tengan lo suficiente para su congrua sustentación» (PO §20). Se recomienda que en cada diócesis o región se establezca un fondo común (PO §21). Las ofrendas de los fieles deben destinarse también a la sustentación del clero, especialmente la misa (PO §21).
+
 ### Según el CIC
 
 El c. 281 §1 establece que los clérigos tienen derecho a una remuneración congrua y proporcionada a su condición, teniendo en cuenta la naturaleza del oficio y las circunstancias de tiempo y lugar. La remuneración debe ser suficiente para proveer a sus necesidades y a la de aquellos a quienes deben ayudar (c. 281 §1). Los clérigos tienen también derecho a la previsión social (seguridad social), de modo que se provea adecuadamente a sus necesidades en caso de enfermedad, invalidez o vejez (c. 281 §2). Las diócesis deben establecer un fondo común para la sustentación de los clérigos (c. 1274 §1) y, cuando sea necesario, instituir un fondo de previsión social (c. 1274 §2).
@@ -20,10 +24,6 @@ El c. 281 §1 establece que los clérigos tienen derecho a una remuneración con
 El c. 1272 establece que los institutos de vida consagrada y sociedades de vida apostólica deben atender a la sustentación de sus miembros según sus propias constituciones. El c. 1273 señala que la Iglesia diocesana tiene personalidad jurídica para adquirir, poseer y administrar bienes destinados a la sustentación del clero.
 
 Los cc. 1309-1311 disponen que los fieles tienen el deber de contribuir a las necesidades de la Iglesia, y que corresponde al obispo diocesano regular las ofrendas y estipendios. Las ofrendas de los fieles para la misa y demás sacramentos constituyen un medio de sustentación (cc. 945-946).
-
-### Según el Concilio Vaticano II (ConcVatII)
-
-*Presbyterorum Ordinis* establece que los presbíteros tienen derecho a una justa remuneración (PO §20-21). Los bienes eclesiásticos deben administrarse de modo que «todos los clérigos tengan lo suficiente para su congrua sustentación» (PO §20). Se recomienda que en cada diócesis o región se establezca un fondo común (PO §21). Las ofrendas de los fieles deben destinarse también a la sustentación del clero, especialmente la misa (PO §21).
 
 ### Según el Comentario al CIC (Eunsa)
 

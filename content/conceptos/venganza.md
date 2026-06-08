@@ -15,6 +15,10 @@ En el NT, Jesús supera la ley del talión: «No resistáis al mal; antes bien, 
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC rechaza la venganza personal. La enseñanza sobre la legítima defensa y la pena de muerte no se fundamenta en la venganza sino en la protección del bien común (CEC §2267). La reconciliación y el perdón reemplazan la venganza; Cristo llama a amar a los enemigos (§2302).
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 La venganza en el AT tiene un carácter de justicia restaurativa. El vengador de la sangre estaba obligado a restablecer el orden violado por el homicidio. Las leyes del talión imponen proporcionalidad. La institución de las ciudades de refugio muestra la evolución hacia la limitación de la venganza privada.
@@ -22,10 +26,6 @@ La venganza en el AT tiene un carácter de justicia restaurativa. El vengador de
 Los Salmos imprecatorios piden la venganza de Dios contra los enemigos del justo (Sal 58; 109; 137). Los profetas anuncian el día de la venganza de Dios como liberación para los oprimidos y castigo para los opresores (Is 34,8; 61,2).
 
 En el NT, Jesús rechaza explícitamente la venganza personal. El amor al enemigo es la nueva ley del Reino. El perdón debe ser ilimitado (Mt 18,21-22). La justicia de Dios al final de los tiempos incluye la retribución, pero el discípulo no debe tomarla por su mano. La ley del talión es superada por la ley del amor. La legítima defensa es distinta de la venganza.
-
-### Según el Catecismo (CEC)
-
-El CEC rechaza la venganza personal. La enseñanza sobre la legítima defensa y la pena de muerte no se fundamenta en la venganza sino en la protección del bien común (CEC §2267). La reconciliación y el perdón reemplazan la venganza; Cristo llama a amar a los enemigos (§2302).
 
 ### Según Royo Marín (TPCr)
 

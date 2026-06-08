@@ -13,10 +13,6 @@ La idolatría es el pecado más grave contra la virtud de la [[religión]] porqu
 
 ## Perspectivas por fuente
 
-### Según Juan Pablo II (JPII-JovCh)
-
-«Optar por Jesús y rechazar las idolatrías del mundo, los ídolos que buscan seducir a la juventud» [JPII-JovCh]. Juan Pablo II advierte a los jóvenes contra los ídolos contemporáneos que buscan apartarlos de Cristo y proclama que «solo Dios es adorable, solo Dios» [JPII-JovCh].
-
 ### Según el Catecismo (CEC)
 
 El CEC §2112 define la idolatría como «la deificación de una criatura». El §2113 explica que el ídolo «no es nada en el mundo» (1 Co 8,4) y que las funciones de Dios son transferidas a los dioses falsos. La idolatría es contraria al Señorío de Dios y al honor que le es debido (§2130). Se opone directamente al primer mandamiento.
@@ -24,6 +20,10 @@ El CEC §2112 define la idolatría como «la deificación de una criatura». El 
 ### Según Royo Marín (TPCr)
 
 Royo Marín trata la idolatría como pecado contra la virtud de la religión, la más excelsa de las virtudes morales infusas. La idolatría, por su materia, es pecado mortal (*ex toto genere suo*) porque se dirige directamente contra Dios negándole la adoración exclusiva que le es debida.
+### Según Juan Pablo II (JPII-JovCh)
+
+«Optar por Jesús y rechazar las idolatrías del mundo, los ídolos que buscan seducir a la juventud» [JPII-JovCh]. Juan Pablo II advierte a los jóvenes contra los ídolos contemporáneos que buscan apartarlos de Cristo y proclama que «solo Dios es adorable, solo Dios» [JPII-JovCh].
+
 
 ## Relaciones doctrinales
 

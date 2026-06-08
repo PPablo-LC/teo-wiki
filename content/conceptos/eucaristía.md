@@ -104,6 +104,23 @@ Efectos del sacrificio de la misa:
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La Sagrada Eucaristía culmina la iniciación cristiana (§1322). Es «fuente y culmen de toda la vida cristiana» (§1324). «Los demás sacramentos, como también todos los ministerios eclesiales y las obras de apostolado, están unidos a la Eucaristía y a ella se ordenan» (§1324).
+
+Cristo está presente en el sacrificio de la misa, en la persona del ministro y, sobre todo, bajo las especies eucarísticas (§1373-1374). La transubstanciación es el cambio de toda la sustancia del pan y del vino en el Cuerpo y Sangre de Cristo, permaneciendo solo las especies o accidentes (§1376). La Eucaristía es el memorial de la Pascua de Cristo, que lo hace presente sacramentalmente. El sacrificio de Cristo y el sacrificio de la Eucaristía son un único sacrificio: «la misma víctima, que se ofrece ahora por ministerio de los sacerdotes, el mismo que entonces se ofreció en la cruz» (§1367).
+
+Efectos: aumento de la unión con Cristo, separación del pecado (borra veniales, preserva de mortales), unidad del Cuerpo Místico, y prenda de la gloria futura (§1391-1402).
+
+### Según el Código de Derecho Canónico (CIC)
+
+El CIC regula la santísima Eucaristía en los cánones 897-958. Es el sacramento más augusto, en el que se contiene, ofrece y recibe a Cristo; el Sacrificio eucarístico es el culmen y la fuente de todo el culto y de toda la vida cristiana (c. 897). Los fieles deben tributar la máxima veneración a la Eucaristía, recibirla frecuentemente y darle culto con suma adoración (c. 898). Solo el sacerdote válidamente ordenado es ministro capaz de confeccionar la Eucaristía (c. 900 §1). Los sacerdotes pueden concelebrar (c. 902). Se recomienda encarecidamente la celebración diaria (c. 904). No es lícito celebrar más de una vez al día, salvo excepciones (c. 905). Ministros ordinarios de la sagrada comunión: obispo, presbítero y diácono; extraordinario: el acólito u otro fiel designado (c. 910). El Viático debe administrarse a los fieles en peligro de muerte (c. 921). La materia del sacrificio es pan de trigo y vino de la vid (c. 924). La celebración eucarística debe hacerse en lugar sagrado y en altar dedicado o bendecido (c. 932). La Eucaristía debe reservarse en sagrario en lugar noble, adornado y seguro (c. 934-938). Ante el sagrario debe lucir constantemente una lámpara (c. 940). La exposición del Santísimo Sacramento puede hacerse con copón o custodia (c. 941). El sacerdote o diácono es ministro de la exposición y bendición eucarística (c. 943).
+
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+El VocTeoBib analiza la eucaristía desde cinco dimensiones. En primer lugar, como «acción de gracias» y «bendición» (eukharistein y eulogein), términos equivalentes en las comidas judías que Jesús usó en la Última Cena. Como sacramento de nutrición, la eucaristía realiza las figuras del Antiguo Testamento: el maná y las codornices del Éxodo, el agua de la roca de Horeb (Sal 78,20-29; 1Cor 10,3s) prefiguran el verdadero pan bajado del cielo que es Cristo (Jn 6,26-58).
+
+Como sacramento de sacrificio, la eucaristía hace presente la muerte redentora de Cristo, anunciada como una «nueva alianza» sellada con su sangre (Lc 22,20), comparable al sacrificio del Sinaí y al del Siervo de Yahveh que carga con los pecados de muchos (Is 53,12). La comunión en el cuerpo y la sangre del Señor realiza la participación en su sacrificio (1Cor 10,14-22). Por último, la eucaristía es sacramento escatológico: pone al creyente en contacto con Cristo resucitado y su estado eterno de víctima, permitiendo gustar ya los bienes del mundo nuevo (Heb 6,4s). La misa es un sacrificio idéntico al de la cruz, distinto solo en el modo de ofrecerse, que une las alabanzas de la Iglesia al único sacrifico perfecto de alabanza.
 ### Según el Concilio Vaticano II (ConcVatII)
 
 *Sacrosanctum Concilium* dedica el capítulo II a la Eucaristía (SC 47-58). Cristo instituyó el Sacrificio Eucarístico en la Última Cena para perpetuar por los siglos el Sacrificio de la Cruz y confiar a la Iglesia el Memorial de su Muerte y Resurrección (SC 47). Se recomienda que los fieles participen consciente, piadosa y activamente, no como extraños y mudos espectadores (SC 48). El Concilio ordena la revisión del Ordinario de la Misa, la ampliación de las lecturas bíblicas (SC 51), la homilía como parte de la liturgia (SC 52), la restauración de la oración de los fieles (SC 53), y el mayor uso de la lengua vernácula (SC 54). La concelebración se amplía como manifestación de la unidad del sacerdocio (SC 57). Las dos partes de la Misa —liturgia de la palabra y liturgia eucarística— constituyen un solo acto de culto (SC 56).
@@ -115,18 +132,6 @@ Lumen Gentium presenta la [[eucaristía]] como el sacrificio por el cual «la ob
 Participando realmente del Cuerpo del Señor en la fracción del pan eucarístico, «somos elevados a una comunión con El y entre nosotros» [ConcVatII, LG §7]. La Eucaristía es «fuente y cumbre de toda la vida cristiana»; ofrecen a Dios la Víctima divina y se ofrecen a sí mismos juntamente con ella [ConcVatII, LG §11].
 
 El Obispo, revestido de la plenitud del sacramento del orden, es el administrador de la gracia del supremo sacerdocio, sobre todo en la [[eucaristía]], que él mismo celebra o procura que sea celebrada, y mediante la cual la Iglesia vive y crece continuamente [ConcVatII, LG §26]. Los presbíteros ejercen su oficio sagrado sobre todo en el culto eucarístico, obrando en nombre de Cristo [ConcVatII, LG §28].
-
-### Según el Código de Derecho Canónico (CIC)
-
-El CIC regula la santísima Eucaristía en los cánones 897-958. Es el sacramento más augusto, en el que se contiene, ofrece y recibe a Cristo; el Sacrificio eucarístico es el culmen y la fuente de todo el culto y de toda la vida cristiana (c. 897). Los fieles deben tributar la máxima veneración a la Eucaristía, recibirla frecuentemente y darle culto con suma adoración (c. 898). Solo el sacerdote válidamente ordenado es ministro capaz de confeccionar la Eucaristía (c. 900 §1). Los sacerdotes pueden concelebrar (c. 902). Se recomienda encarecidamente la celebración diaria (c. 904). No es lícito celebrar más de una vez al día, salvo excepciones (c. 905). Ministros ordinarios de la sagrada comunión: obispo, presbítero y diácono; extraordinario: el acólito u otro fiel designado (c. 910). El Viático debe administrarse a los fieles en peligro de muerte (c. 921). La materia del sacrificio es pan de trigo y vino de la vid (c. 924). La celebración eucarística debe hacerse en lugar sagrado y en altar dedicado o bendecido (c. 932). La Eucaristía debe reservarse en sagrario en lugar noble, adornado y seguro (c. 934-938). Ante el sagrario debe lucir constantemente una lámpara (c. 940). La exposición del Santísimo Sacramento puede hacerse con copón o custodia (c. 941). El sacerdote o diácono es ministro de la exposición y bendición eucarística (c. 943).
-
-### Según el Catecismo (CEC)
-
-La Sagrada Eucaristía culmina la iniciación cristiana (§1322). Es «fuente y culmen de toda la vida cristiana» (§1324). «Los demás sacramentos, como también todos los ministerios eclesiales y las obras de apostolado, están unidos a la Eucaristía y a ella se ordenan» (§1324).
-
-Cristo está presente en el sacrificio de la misa, en la persona del ministro y, sobre todo, bajo las especies eucarísticas (§1373-1374). La transubstanciación es el cambio de toda la sustancia del pan y del vino en el Cuerpo y Sangre de Cristo, permaneciendo solo las especies o accidentes (§1376). La Eucaristía es el memorial de la Pascua de Cristo, que lo hace presente sacramentalmente. El sacrificio de Cristo y el sacrificio de la Eucaristía son un único sacrificio: «la misma víctima, que se ofrece ahora por ministerio de los sacerdotes, el mismo que entonces se ofreció en la cruz» (§1367).
-
-Efectos: aumento de la unión con Cristo, separación del pecado (borra veniales, preserva de mortales), unidad del Cuerpo Místico, y prenda de la gloria futura (§1391-1402).
 
 ### Según Royo Marín (TPCr)
 
@@ -142,11 +147,6 @@ La eucaristía realiza la unión transformante:
 
 PS expone la Eucaristía como la última prueba del amor de Dios a los hombres: después de la creación, revelación, encarnación y redención, Dios se ha quedado para siempre a nuestro lado en el sagrario [PS §10,45]. En la Eucaristía, las sustancias del pan y del vino se convierten en el Cuerpo y la Sangre de Cristo mediante la transubstanciación, permaneciendo solo los accidentes [PS §10,47,1]. La Misa es la renovación incruenta del sacrificio de la cruz, idéntico en su esencia, aunque diverso en el modo de ofrecerse [PS §10,50,1]. La Sagrada Comunión es el alimento del alma que fortalece contra el pecado y aumenta la gracia santificante [PS §10,51,1-2].
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-El VocTeoBib analiza la eucaristía desde cinco dimensiones. En primer lugar, como «acción de gracias» y «bendición» (eukharistein y eulogein), términos equivalentes en las comidas judías que Jesús usó en la Última Cena. Como sacramento de nutrición, la eucaristía realiza las figuras del Antiguo Testamento: el maná y las codornices del Éxodo, el agua de la roca de Horeb (Sal 78,20-29; 1Cor 10,3s) prefiguran el verdadero pan bajado del cielo que es Cristo (Jn 6,26-58).
-
-Como sacramento de sacrificio, la eucaristía hace presente la muerte redentora de Cristo, anunciada como una «nueva alianza» sellada con su sangre (Lc 22,20), comparable al sacrificio del Sinaí y al del Siervo de Yahveh que carga con los pecados de muchos (Is 53,12). La comunión en el cuerpo y la sangre del Señor realiza la participación en su sacrificio (1Cor 10,14-22). Por último, la eucaristía es sacramento escatológico: pone al creyente en contacto con Cristo resucitado y su estado eterno de víctima, permitiendo gustar ya los bienes del mundo nuevo (Heb 6,4s). La misa es un sacrificio idéntico al de la cruz, distinto solo en el modo de ofrecerse, que une las alabanzas de la Iglesia al único sacrifico perfecto de alabanza.
 
 ## Distinciones importantes
 

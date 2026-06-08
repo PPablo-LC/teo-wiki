@@ -9,13 +9,13 @@ Virtud y obligación jurídica del [[presbítero]] y de todo [[clérigos|clérig
 
 ## Perspectivas por fuente
 
+### Según Royo Marín (TPCr)
+
+Royo Marín trata la obediencia sacerdotal como virtud ascética esencial para la perfección sacerdotal. El sacerdote debe obediencia a su obispo no solo por precepto jurídico sino como participación en la obediencia de Cristo al Padre. La obediencia sacerdotal es libre, responsable y filial, no servil. Es medio de santificación y garantía de fecundidad apostólica.
 ### Según el CIC
 
 El c. 273 establece que «los clérigos están obligados a prestar reverencia y obediencia al Sumo Pontífice y al propio Ordinario». Esta obligación deriva del vínculo de incardinación (c. 265) y del sacramento del Orden, que incorpora al clérigo al presbiterio diocesano bajo la autoridad del Obispo.
 
-### Según Royo Marín (TPCr)
-
-Royo Marín trata la obediencia sacerdotal como virtud ascética esencial para la perfección sacerdotal. El sacerdote debe obediencia a su obispo no solo por precepto jurídico sino como participación en la obediencia de Cristo al Padre. La obediencia sacerdotal es libre, responsable y filial, no servil. Es medio de santificación y garantía de fecundidad apostólica.
 
 ## Distinciones importantes
 

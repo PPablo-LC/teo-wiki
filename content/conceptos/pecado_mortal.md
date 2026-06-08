@@ -15,6 +15,9 @@ El pecado mortal es como un derrumbamiento instantáneo de la vida sobrenatural,
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+«El pecado mortal es una violación grave de la ley de Dios que destruye la caridad en el corazón del hombre» (§1855). «Para que un pecado sea mortal se requiere que concurran tres condiciones: es pecado mortal todo aquel que tiene como objeto una materia grave y que, además, es cometido con pleno conocimiento y deliberado consentimiento» (§1857). «La pena eterna del pecado mortal no puede ser entendida separada de la impenitencia hasta la muerte» (§1861).
 ### Según Royo Marín (TPCr)
 
 Los efectos del pecado mortal son instantáneos y catastróficos: pérdida de la gracia santificante, de las virtudes infusas y dones del Espíritu Santo; pérdida de la inhabitación de la Santísima Trinidad; pérdida de todos los méritos adquiridos; mancha en el alma; esclavitud de Satanás; reato de pena eterna.
@@ -25,9 +28,6 @@ El pecado mortal puede perdonarse en el sacramento de la penitencia o por un act
 
 [TPCr, Parte III, Libro I, Cap. I, n.197-206]
 
-### Según el Catecismo (CEC)
-
-«El pecado mortal es una violación grave de la ley de Dios que destruye la caridad en el corazón del hombre» (§1855). «Para que un pecado sea mortal se requiere que concurran tres condiciones: es pecado mortal todo aquel que tiene como objeto una materia grave y que, además, es cometido con pleno conocimiento y deliberado consentimiento» (§1857). «La pena eterna del pecado mortal no puede ser entendida separada de la impenitencia hasta la muerte» (§1861).
 
 ## Distinciones importantes
 

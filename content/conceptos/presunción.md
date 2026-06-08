@@ -13,6 +13,9 @@ La presunción puede revestir dos formas principales: la que considera la bienav
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+«La presunción es un pecado contra la esperanza. Puede ser de dos tipos: presunción de las propias capacidades (esperar salvarse sin la ayuda de lo alto) o presunción de la omnipotencia o de la misericordia divina (esperar obtener el perdón sin conversión y la gloria sin mérito)» (cf. CEC §2092). La presunción es uno de los pecados contra el Espíritu Santo.
 ### Según Royo Marín (TPCr)
 
 Santo Tomás distingue dos vicios contra la esperanza: por defecto, la desesperación; por exceso, la presunción. La presunción es herética cuando considera la bienaventuranza asequible por solas las fuerzas naturales. Es pecado contra el Espíritu Santo cuando se espera salvarse sin arrepentimiento.
@@ -23,9 +26,6 @@ La presunción también se opone a la magnanimidad (por exceso), inclinando a ac
 
 [TPCr, Parte III, Libro II, Cap. II, n.351, 363, 371, 415]
 
-### Según el Catecismo (CEC)
-
-«La presunción es un pecado contra la esperanza. Puede ser de dos tipos: presunción de las propias capacidades (esperar salvarse sin la ayuda de lo alto) o presunción de la omnipotencia o de la misericordia divina (esperar obtener el perdón sin conversión y la gloria sin mérito)» (cf. CEC §2092). La presunción es uno de los pecados contra el Espíritu Santo.
 
 ## Distinciones importantes
 

@@ -15,17 +15,17 @@ El hombre debe obedecer siempre el juicio cierto de su conciencia. Sin embargo, 
 
 ## Perspectivas por fuente
 
-### Según el Compendio (CompDS)
+### Según el Catecismo (CEC)
 
-La verdad sobre el bien y el mal se reconoce en modo práctico y concreto en el juicio de la conciencia, que lleva a asumir la responsabilidad del bien cumplido o del mal cometido [CompDS §139]. En el juicio práctico de la conciencia se manifiesta el vínculo de la libertad con la verdad: la conciencia se expresa con actos de «juicio» que reflejan la verdad sobre el bien, no como «decisiones» arbitrarias [CompDS §139]. La madurez de estos juicios se demuestra no con la liberación de la conciencia de la verdad objetiva, sino con una apremiante búsqueda de la verdad y dejándose guiar por ella en el obrar [CompDS §139].
+La conciencia moral es «el núcleo más secreto y el sagrario del hombre, en el que está solo con Dios, cuya voz resuena en lo más íntimo de ella» (§1776, citando GS 16). Es el primer vicario de Cristo, la mensajera de Dios (J.H. Newman, §1778).
 
 ### Según el Código de Derecho Canónico (CIC)
 
 El CIC regula la imputabilidad moral en los cc. 1321-1330, que establecen los criterios para determinar cuándo una infracción es atribuible a la conciencia del sujeto. La imputabilidad grave por dolo o culpa es requisito para la imposición de penas (c. 1321 §1). El que obra deliberadamente (dolo) es plenamente responsable; el que obra por omisión de la debida diligencia (culpa) tiene responsabilidad atenuada (c. 1321 §2). La ignorancia sin culpa exime de pena (c. 1323, 2º), mientras que la ignorancia crasa, supina o afectada no se toma en cuenta (c. 1325). El miedo grave, la violencia, el caso fortuito y la legítima defensa son causas que excluyen o atenúan la imputabilidad (cc. 1323-1324). Estos principios canónicos reflejan la doctrina moral sobre la conciencia: el juicio de la conciencia debe estar informado por la ley divina y natural, y el sujeto responde moralmente en la medida de su conocimiento y libertad.
 
-### Según el Catecismo (CEC)
+### Según el Compendio (CompDS)
 
-La conciencia moral es «el núcleo más secreto y el sagrario del hombre, en el que está solo con Dios, cuya voz resuena en lo más íntimo de ella» (§1776, citando GS 16). Es el primer vicario de Cristo, la mensajera de Dios (J.H. Newman, §1778).
+La verdad sobre el bien y el mal se reconoce en modo práctico y concreto en el juicio de la conciencia, que lleva a asumir la responsabilidad del bien cumplido o del mal cometido [CompDS §139]. En el juicio práctico de la conciencia se manifiesta el vínculo de la libertad con la verdad: la conciencia se expresa con actos de «juicio» que reflejan la verdad sobre el bien, no como «decisiones» arbitrarias [CompDS §139]. La madurez de estos juicios se demuestra no con la liberación de la conciencia de la verdad objetiva, sino con una apremiante búsqueda de la verdad y dejándose guiar por ella en el obrar [CompDS §139].
 
 ### Según el Concilio Vaticano II (ConcVatII)
 

@@ -13,6 +13,9 @@ Cristo instituyó este sacramento cuando, después de su Resurrección, dio a lo
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+Se denomina sacramento de conversión porque realiza sacramentalmente la llamada de Jesús a la conversión; sacramento del perdón porque por la absolución sacramental el sacerdote concede «el perdón y la paz»; sacramento de reconciliación porque otorga al pecador el amor de Dios que reconcilia (CEC §1423-1424). La reconciliación con la Iglesia es inseparable de la reconciliación con Dios (CEC §1445). Los actos del penitente son: contrición, confesión y satisfacción (CEC §1450-1460). La confesión individual e íntegra de los pecados graves seguida de la absolución es el único medio ordinario para la reconciliación con Dios y con la Iglesia (CEC §1497). El sigilo sacramental es inviolable (CEC §2490).
+
 ### Según el Código de Derecho Canónico (CIC)
 
 El CIC regula este sacramento en los cánones 959-997 bajo el título «Del sacramento de la penitencia». La confesión individual e íntegra y la absolución constituyen el único modo ordinario de reconciliación con Dios y con la Iglesia para quien está en pecado grave (c. 960). La absolución general requiere peligro de muerte o necesidad grave (c. 961). El confesor debe tener facultad para absolver, además de la potestad de orden (c. 966). El sigilo sacramental es inviolable (c. 983). El penitente debe confesar según su especie y número todos los pecados graves cometidos después del bautismo (c. 988). La confesión anual de los pecados graves es obligatoria (c. 989). Todo fiel tiene derecho a confesarse con el confesor que prefiera (c. 991). En peligro de muerte, cualquier sacerdote, aun sin facultad, absuelve válida y lícitamente (c. 976). Las indulgencias se regulan en los cánones 992-997 como parte de este título.
@@ -20,9 +23,6 @@ El CIC regula este sacramento en los cánones 959-997 bajo el título «Del sacr
 ### Según el Concilio Vaticano II (ConcVatII)
 
 Lumen Gentium presenta el sacramento de la [[penitencia]] (reconciliación) en LG §11: «Quienes se acercan al sacramento de la penitencia obtienen de la misericordia de Dios el perdón de la ofensa hecha a El y al mismo tiempo se reconcilian con la Iglesia, a la que hirieron pecando, y que colabora a su conversión con la caridad, con el ejemplo y las oraciones» [ConcVatII, LG §11].
-
-### Según el Catecismo (CEC)
-Se denomina sacramento de conversión porque realiza sacramentalmente la llamada de Jesús a la conversión; sacramento del perdón porque por la absolución sacramental el sacerdote concede «el perdón y la paz»; sacramento de reconciliación porque otorga al pecador el amor de Dios que reconcilia (CEC §1423-1424). La reconciliación con la Iglesia es inseparable de la reconciliación con Dios (CEC §1445). Los actos del penitente son: contrición, confesión y satisfacción (CEC §1450-1460). La confesión individual e íntegra de los pecados graves seguida de la absolución es el único medio ordinario para la reconciliación con Dios y con la Iglesia (CEC §1497). El sigilo sacramental es inviolable (CEC §2490).
 
 ### Según Royo Marín (TPCr)
 La materia próxima del sacramento de la penitencia son los actos del penitente: contrición, confesión y satisfacción (TPCr, Tercera Parte, Libro II, Cap. I, n.521). La contrición es la disposición fundamental para recibir el fruto del sacramento. La satisfacción sacramental tiene valor vindicativo, remisivo de la pena temporal y medicinal (n.546). El valor satisfactorio de las obras impuestas como penitencia sacramental es mayor que si se realizan por propia iniciativa, pues forman parte completiva del sacramento y reciben su fuerza del poder de las llaves.

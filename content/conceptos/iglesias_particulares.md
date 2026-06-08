@@ -13,6 +13,13 @@ Cada Iglesia particular es católica por su comunión con la Iglesia de Roma y c
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+CEC §833 explica que las Iglesias particulares son comunidades de fieles cristianos en comunión en la fe y en los sacramentos con su obispo ordenado en la sucesión apostólica. La Iglesia de Roma, que preside en la caridad, es la cabeza de las Iglesias particulares, que forman la Iglesia católica. Cada Iglesia particular debe estar en comunión con la Iglesia de Roma para ser verdaderamente católica.
+### Según el Código de Derecho Canónico (CIC)
+
+Los cc. 368-374 definen las Iglesias particulares. El c. 368 enumera los tipos: diócesis, prelatura territorial, abadía territorial, vicariato apostólico, prefectura apostólica y administración apostólica erigida de manera estable. La diócesis es la Iglesia particular por excelencia. La erección, modificación o supresión de Iglesias particulares corresponde a la suprema autoridad de la Iglesia (c. 373). Como regla general se delimitan territorialmente (c. 372 §1), aunque pueden erigirse por razón del rito u otra causa (c. 372 §2).
+
 ### Según el Concilio Vaticano II (ConcVatII)
 
 *Lumen Gentium* §23 enseña que las Iglesias particulares están formadas a imagen de la Iglesia universal, y en ellas y a partir de ellas existe la Iglesia católica, una y única. Cada obispo rige su Iglesia particular como vicario y legado de Cristo (LG §27), y todas las Iglesias particulares están en comunión entre sí bajo el Romano Pontífice.
@@ -21,13 +28,6 @@ Cada Iglesia particular es católica por su comunión con la Iglesia de Roma y c
 
 *Lumen Gentium* §26 afirma que en cada Iglesia particular, sobre todo en la celebración de la Eucaristía presidida por el obispo, se manifiesta plenamente la Iglesia de Cristo.
 
-### Según el Código de Derecho Canónico (CIC)
-
-Los cc. 368-374 definen las Iglesias particulares. El c. 368 enumera los tipos: diócesis, prelatura territorial, abadía territorial, vicariato apostólico, prefectura apostólica y administración apostólica erigida de manera estable. La diócesis es la Iglesia particular por excelencia. La erección, modificación o supresión de Iglesias particulares corresponde a la suprema autoridad de la Iglesia (c. 373). Como regla general se delimitan territorialmente (c. 372 §1), aunque pueden erigirse por razón del rito u otra causa (c. 372 §2).
-
-### Según el Catecismo (CEC)
-
-CEC §833 explica que las Iglesias particulares son comunidades de fieles cristianos en comunión en la fe y en los sacramentos con su obispo ordenado en la sucesión apostólica. La Iglesia de Roma, que preside en la caridad, es la cabeza de las Iglesias particulares, que forman la Iglesia católica. Cada Iglesia particular debe estar en comunión con la Iglesia de Roma para ser verdaderamente católica.
 
 ## Distinciones importantes
 

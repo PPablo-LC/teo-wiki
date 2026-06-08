@@ -23,6 +23,11 @@ La autoridad política debe garantizar la vida ordenada y recta de la comunidad,
 
 El sujeto de la autoridad política es el pueblo, considerado en su totalidad como titular de la soberanía [CompDS §395]. La autoridad debe dejarse guiar por la ley moral: toda su dignidad deriva de ejercitarla en el ámbito del orden moral «que tiene a Dios como primer principio y último fin» [CompDS §396]. La autoridad debe emitir leyes justas, es decir, conformes a la dignidad de la persona humana y a los dictámenes de la recta razón [CompDS §398].
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+El principio paulino «toda autoridad viene de Dios» (*Rm 13,1*) hunde sus raíces en el AT: todo poder procede de Dios, desde el dominio del hombre sobre la creación (*Gen 1,28*) hasta la autoridad de los padres y los gobernantes. Sin embargo, la autoridad no es absoluta: está limitada por la ley divina y sometida al juicio de Dios cuando se pervierte. Jesús introduce una novedad radical: la autoridad se ejerce como servicio, no como dominio (*Mc 10,42-45*). Los apóstoles ejercen su autoridad en la Iglesia como servidores, no como señores (*1Pe 5,2-3*), y la relación con las autoridades civiles es de lealtad crítica, obedeciendo a Dios antes que a los hombres (*Act 5,29*) [VocTeoBib, «Autoridad»].
+
+**Autoridad que fomenta subsidiariedad**: «un buen gobierno, en lugar de concentrarlo todo en sí mismo, fomenta la subsidiariedad y la participación responsable de todos los miembros de la comunidad» [LC-2026, Discurso del Santo Padre, n. 7]. El superior debe gobernar con claridad en lo esencial y libertad en lo accidental, fomentando la corresponsabilidad sin diluir su responsabilidad [LC-2026, documento temático n. 15].
 ### Según Henri de Lubac (PoF)
 
 De Lubac ofrece una reflexión sobre la autoridad eclesiástica desde la perspectiva teológica: «La autoridad es una pedagogía. Y toda verdadera pedagogía tiende a suprimirse, por lo menos a atenuarse, en la medida de lo posible. Lo que no significa en modo alguno que no deba ejercerse; sería más bien la causa de que deba ejercerse más [PoF, cap. 2]». La autoridad está al servicio de la fe y la caridad, no de sí misma. La verdadera obediencia es «principio de libertad, no abdicación», y se extiende al juicio mismo —no solo a la ejecución— porque la obediencia plena es la del entendimiento y la voluntad: «Actuar[la] en el propio juicio, que es la obediencia del entendimiento y la voluntad, la única que da su plenitud al mérito» [PoF, cap. 2].
@@ -39,11 +44,6 @@ El Capítulo General 2026 de los Legionarios de Cristo dedicó un documento tem�
 
 **Marco normativo**: el ejercicio de la autoridad se inscribe en un ordenamiento jurídico jerarquizado: (1) ley divina, (2) Derecho Canónico universal, (3) Constituciones, (4) normas secundarias, (5) mandatos particulares del superior. Un mandato solo es legítimo si es conforme a todas las normas de rango superior [LC-2026, documento temático n. 28].
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-El principio paulino «toda autoridad viene de Dios» (*Rm 13,1*) hunde sus raíces en el AT: todo poder procede de Dios, desde el dominio del hombre sobre la creación (*Gen 1,28*) hasta la autoridad de los padres y los gobernantes. Sin embargo, la autoridad no es absoluta: está limitada por la ley divina y sometida al juicio de Dios cuando se pervierte. Jesús introduce una novedad radical: la autoridad se ejerce como servicio, no como dominio (*Mc 10,42-45*). Los apóstoles ejercen su autoridad en la Iglesia como servidores, no como señores (*1Pe 5,2-3*), y la relación con las autoridades civiles es de lealtad crítica, obedeciendo a Dios antes que a los hombres (*Act 5,29*) [VocTeoBib, «Autoridad»].
-
-**Autoridad que fomenta subsidiariedad**: «un buen gobierno, en lugar de concentrarlo todo en sí mismo, fomenta la subsidiariedad y la participación responsable de todos los miembros de la comunidad» [LC-2026, Discurso del Santo Padre, n. 7]. El superior debe gobernar con claridad en lo esencial y libertad en lo accidental, fomentando la corresponsabilidad sin diluir su responsabilidad [LC-2026, documento temático n. 15].
 
 ## Relaciones doctrinales
 

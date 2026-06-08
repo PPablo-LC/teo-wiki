@@ -17,6 +17,15 @@ Dios creó al ser humano como hombre y mujer (Gn 1,27). El dinamismo de reciproc
 
 El hombre y la mujer tienen la misma dignidad y son de igual valor, no solo porque ambos son imagen de Dios, sino porque el dinamismo de reciprocidad que anima el «nosotros» de la pareja humana es imagen de Dios [CompDS §111]. En la relación de comunión recíproca, el hombre y la mujer se realizan profundamente a sí mismos reencontrándose como personas a través del don sincero de sí mismos [CompDS §111]. «Masculino» y «femenino» diferencian a dos individuos de igual dignidad, pero que no poseen una igualdad estática; esta diversidad en la igualdad es enriquecedora [CompDS §146]. La mujer es complemento del hombre y el hombre lo es de la mujer; se completan mutuamente no solo física y psíquicamente, sino también ontológicamente [CompDS §147]. Solo gracias a la dualidad de lo «masculino» y lo «femenino» se realiza plenamente lo «humano» [CompDS §147].
 
+### Según el Concilio Vaticano II (ConcVatII)
+
+GS 12: «Dios no creó al hombre en solitario. Desde el principio los hizo hombre y mujer (Gen 1,27). Esta sociedad de hombre y mujer es la expresión primera de la comunión de personas humanas. El hombre es, en efecto, por su íntima naturaleza, un ser social, y no puede vivir ni desplegar sus cualidades sin relacionarse con los demás.»
+
+GS 49: El amor conyugal, que une a varón y mujer, es «eminentemente humano, ya que va de persona a persona con el afecto de la voluntad, abarca el bien de toda la persona». El reconocimiento de la igual dignidad personal del hombre y de la mujer en el mutuo y pleno amor es necesario para la unidad del matrimonio.
+
+GS 29: «Toda forma de discriminación en los derechos fundamentales de la persona, ya sea social o cultural, por motivos de sexo, raza, color, condición social, lengua o religión, debe ser vencida y eliminada por ser contraria al plan divino.»
+
+GS 60: Debe procurarse que las mujeres puedan «asumir con plenitud su papel según su propia naturaleza» y «todos deben contribuir a que se reconozca y promueva la propia y necesaria participación de la mujer en la vida cultural.»
 ### Según la Summa Theologiae (SmTh)
 
 **Iª q.92 — Origen de la mujer:**
@@ -29,15 +38,6 @@ El hombre y la mujer tienen la misma dignidad y son de igual valor, no solo porq
 
 **a.4 — Hecha directamente por Dios:** Solo Dios, Autor de la naturaleza, pudo formar a la mujer de la costilla del varón, pues la generación natural procede de materia determinada (semen), no de otra materia (q.92 a.4).
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-GS 12: «Dios no creó al hombre en solitario. Desde el principio los hizo hombre y mujer (Gen 1,27). Esta sociedad de hombre y mujer es la expresión primera de la comunión de personas humanas. El hombre es, en efecto, por su íntima naturaleza, un ser social, y no puede vivir ni desplegar sus cualidades sin relacionarse con los demás.»
-
-GS 49: El amor conyugal, que une a varón y mujer, es «eminentemente humano, ya que va de persona a persona con el afecto de la voluntad, abarca el bien de toda la persona». El reconocimiento de la igual dignidad personal del hombre y de la mujer en el mutuo y pleno amor es necesario para la unidad del matrimonio.
-
-GS 29: «Toda forma de discriminación en los derechos fundamentales de la persona, ya sea social o cultural, por motivos de sexo, raza, color, condición social, lengua o religión, debe ser vencida y eliminada por ser contraria al plan divino.»
-
-GS 60: Debe procurarse que las mujeres puedan «asumir con plenitud su papel según su propia naturaleza» y «todos deben contribuir a que se reconozca y promueva la propia y necesaria participación de la mujer en la vida cultural.»
 
 ## Distinciones importantes
 

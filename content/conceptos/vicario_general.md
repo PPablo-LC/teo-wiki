@@ -13,6 +13,9 @@ El Vicario general es la figura central de la curia diocesana, constituyendo el 
 
 ## Perspectivas por fuente
 
+### Según el Concilio Vaticano II (ConcVatII)
+
+*Christus Dominus* (CD §27) establece que el Obispo debe tener colaboradores en el gobierno de la diócesis, y que el Vicario general es el principal de ellos. La figura del Vicario general se integra en la estructura de la curia diocesana como instrumento de unidad y eficacia pastoral (CD §27).
 ### Según el CIC
 
 El c. 475 §1 establece que en cada diócesis debe constituirse un Vicario general, designado libremente por el Obispo diocesano. Debe ser sacerdote idóneo, de al menos treinta años, doctor o licenciado en derecho canónico o al menos perito en la materia (c. 478). Si es conveniente, pueden nombrarse varios Vicarios generales (c. 475 §2). El Vicario general posee potestad ordinaria vicaria para toda la diócesis en todos los asuntos que corresponden a la potestad ejecutiva del Obispo, excepto los que el Obispo se haya reservado (c. 479 §1).
@@ -25,9 +28,6 @@ El Vicario general debe ser oído en los asuntos importantes de la diócesis (c.
 
 El Comentario Exegético destaca que la potestad del Vicario general es ordinaria vicaria, es decir, unida establemente al oficio y ejercida en nombre propio pero en dependencia del Obispo. No es un simple delegado, ya que su potestad no se recibe caso por caso sino por el oficio mismo. La obligación de informar al Obispo no es una condición de validez de sus actos, salvo que el derecho o el Obispo lo establezcan expresamente.
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-*Christus Dominus* (CD §27) establece que el Obispo debe tener colaboradores en el gobierno de la diócesis, y que el Vicario general es el principal de ellos. La figura del Vicario general se integra en la estructura de la curia diocesana como instrumento de unidad y eficacia pastoral (CD §27).
 
 ## Distinciones importantes
 

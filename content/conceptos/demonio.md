@@ -21,18 +21,6 @@ El Catecismo trata del demonio en el contexto de la caída de los ángeles (§39
 
 La Iglesia enseña que este pecado fue causado por el orgullo: los ángeles fueron creados buenos pero algunos se rebelaron (§393). La Escritura habla de esta caída: «No perdonó a los ángeles que pecaron, sino que los precipitó en los abismos tenebrosos» (2 Pe 2,4). El poder de Satanás no es infinito: «no puede impedir la edificación del Reino de Dios» (§395).
 
-### Según Para Salvarte (PS)
-
-Loring dedica la sección 6,2-6,3 al mundo invisible. Los demonios son ángeles caídos que se rebelaron contra Dios por soberbia y fueron condenados al infierno [PS §06,2]. La existencia de Satanás «es dogma de fe», definido en el Concilio Lateranense IV: «el diablo y demás demonios fueron creados por Dios buenos, mas ellos, por sí mismos, se hicieron malos» [PS §06,3]. El demonio es «un ser inteligente, no humano, que induce a los hombres al mal» [PS §06,3]. Su poder no es infinito: «no es más que una criatura» y «no puede impedir la edificación del Reino de Dios» [PS §06,3]. El demonio nos tienta por envidia, pues nosotros podemos salvarnos y él no. Se le vence con la ayuda de Dios, la gracia, los sacramentos y la oración [PS §06,3]. Loring advierte contra el espiritismo y la ouija como prácticas donde se manifiesta la influencia diabólica [PS §06,3].
-
-### Según Royo Marín (TPCr)
-
-Royo Marín dedica un capítulo al demonio en la Tercera Parte, Libro I (Aspecto Negativo de la Vida Cristiana), Capítulo 3. El demonio es una de las tres grandes enemigas del alma: mundo, demonio y carne. Actúa como tentador externo, sugiriendo pensamientos y moviendo las pasiones. Su acción se ejerce principalmente por la tentación, la obsesión y, en casos extraordinarios, la posesión.
-
-El demonio tiene poder sobre la imaginación y los sentidos, pero no puede influir directamente sobre la voluntad humana. Su poder está sometido a la permisión divina. La resistencia al demonio se realiza mediante la gracia, los sacramentos, la oración y el uso de los sacramentales.
-
-[TPCr, Parte III, Libro I, Cap. 3]
-
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 El VocTeoBib traza el desarrollo de la revelación sobre los demonios desde el AT hasta el NT. En el AT, la demonología se fue esclareciendo lentamente: inicialmente utiliza elementos del folklore popular (sátiros, Lilit, Azazel) sin ponerlos en relación con Satán; tras el exilio se establece una separación más clara entre el mundo angélico y el diabólico. Los demonios son identificados con los dioses paganos a los que Israel se prostituía.
@@ -54,6 +42,18 @@ Dios no es causa del mal de culpa (Iª q.49 a.2), lo cual significa que el pecad
 **Orden entre los demonios (q.109):** Aunque los demonios están privados de la gracia, conservan el orden de la naturaleza. Hay orden entre ellos según los grados de su naturaleza angélica, que permanece íntegra (q.109 a.1). Existe prelacía entre los demonios: los superiores naturalmente rigen a los inferiores, pues la misma disposición natural exige que haya entre ellos alguna prelacía (q.109 a.2). No hay iluminación propiamente dicha entre los demonios, porque no intentan llevarse unos a otros a Dios, aunque pueden manifestarse su pensamiento a modo de locución (q.109 a.3). Los ángeles buenos tienen prelacía sobre los demonios: las criaturas que gozan de Dios (los bienaventurados) son superiores a las que están privadas de Él, y el poder de la divina justicia a la que están unidos los ángeles buenos es más fuerte que toda virtud natural de los demonios (q.109 a.4).
 
 **Tentación del demonio (q.114):** Los hombres son combatidos por los demonios por envidia y soberbia; pero el orden del combate viene de Dios, que sabe usar ordenadamente los males para el bien (q.114 a.1). Tentar es propio del diablo en el sentido de que tienta siempre para dañar, precipitando al pecado —a diferencia de Dios (que tienta para probar) y de la carne (que tienta como instrumento)— (q.114 a.2). El demonio tienta explorando la condición interior del hombre, de la que solo Dios tiene conocimiento perfecto, para instigar a cada uno en el vicio al que es más propenso. No todos los pecados provienen directamente de la tentación del demonio: algunos brotan del libre albedrío y de la corrupción de la carne (q.114 a.3). Sin embargo, el demonio es causa indirecta de todos los pecados por haber instigado al primer hombre, de cuyo pecado se siguió la tendencia a todos los pecados. Los demonios no pueden hacer verdaderos milagros (que sobrepasan toda la naturaleza creada), pero pueden hacer cosas que admiran a los hombres por sobrepasar su poder y conocimiento (q.114 a.4). Los demonios superados no siempre insisten en tentar; a veces se retiran por permisión divina o por temor a ser nuevamente derrotados, aunque pueden volver más tarde (q.114 a.5).
+### Según Royo Marín (TPCr)
+
+Royo Marín dedica un capítulo al demonio en la Tercera Parte, Libro I (Aspecto Negativo de la Vida Cristiana), Capítulo 3. El demonio es una de las tres grandes enemigas del alma: mundo, demonio y carne. Actúa como tentador externo, sugiriendo pensamientos y moviendo las pasiones. Su acción se ejerce principalmente por la tentación, la obsesión y, en casos extraordinarios, la posesión.
+
+El demonio tiene poder sobre la imaginación y los sentidos, pero no puede influir directamente sobre la voluntad humana. Su poder está sometido a la permisión divina. La resistencia al demonio se realiza mediante la gracia, los sacramentos, la oración y el uso de los sacramentales.
+
+[TPCr, Parte III, Libro I, Cap. 3]
+
+### Según Para Salvarte (PS)
+
+Loring dedica la sección 6,2-6,3 al mundo invisible. Los demonios son ángeles caídos que se rebelaron contra Dios por soberbia y fueron condenados al infierno [PS §06,2]. La existencia de Satanás «es dogma de fe», definido en el Concilio Lateranense IV: «el diablo y demás demonios fueron creados por Dios buenos, mas ellos, por sí mismos, se hicieron malos» [PS §06,3]. El demonio es «un ser inteligente, no humano, que induce a los hombres al mal» [PS §06,3]. Su poder no es infinito: «no es más que una criatura» y «no puede impedir la edificación del Reino de Dios» [PS §06,3]. El demonio nos tienta por envidia, pues nosotros podemos salvarnos y él no. Se le vence con la ayuda de Dios, la gracia, los sacramentos y la oración [PS §06,3]. Loring advierte contra el espiritismo y la ouija como prácticas donde se manifiesta la influencia diabólica [PS §06,3].
+
 
 ## Distinciones importantes
 

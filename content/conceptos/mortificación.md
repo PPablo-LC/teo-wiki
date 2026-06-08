@@ -17,6 +17,9 @@ La mortificación no es un fin en sí misma, sino un medio para alcanzar la libe
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC §2015 enseña que la vía de la perfección pasa por la cruz. No hay santidad sin renuncia y sin combate espiritual. La mortificación forma parte de la lucha ascética necesaria para crecer en la gracia.
 ### Según Royo Marín (TPCr)
 
 Los principales aspectos de la mortificación según TPCr (n.225-252):
@@ -31,9 +34,6 @@ Los principales aspectos de la mortificación según TPCr (n.225-252):
 
 La mortificación voluntaria (n.232, 3º) es más perfecta que la mera aceptación pasiva de las cruces que Dios envía, pues toma la iniciativa y sale al paso del dolor.
 
-### Según el Catecismo (CEC)
-
-El CEC §2015 enseña que la vía de la perfección pasa por la cruz. No hay santidad sin renuncia y sin combate espiritual. La mortificación forma parte de la lucha ascética necesaria para crecer en la gracia.
 
 ## Distinciones importantes
 

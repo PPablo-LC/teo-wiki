@@ -53,6 +53,16 @@ Son cuatro los efectos principales:
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La Confirmación, junto con el Bautismo y la Eucaristía, constituye el conjunto de los «sacramentos de la iniciación cristiana» (§1285). Es necesaria para la plenitud de la gracia bautismal. El rito esencial es la unción del santo crisma en la frente con las palabras: «Recibe por esta señal el don del Espíritu Santo» (§1300). En las Iglesias orientales: «Sello del don del Espíritu Santo» (§1300).
+
+Efectos: nos introduce más profundamente en la filiación divina, nos une más firmemente a Cristo, aumenta en nosotros los dones del Espíritu Santo, hace más perfecto nuestro vínculo con la Iglesia, y nos concede una fuerza especial para difundir y defender la fe como verdaderos testigos de Cristo (§1303). Imprime carácter indeleble, perfeccionando el sacerdocio común de los fieles recibido en el Bautismo (§1304-1305). El ministro originario es el obispo; en Oriente, el presbítero que bautiza puede administrarla con crisma consagrado por el obispo (§1312-1313).
+
+### Según el Código de Derecho Canónico (CIC)
+
+El CIC regula la confirmación en los cánones 879-896. Imprime carácter, enriquece con el don del Espíritu Santo, vincula más perfectamente a la Iglesia y obliga a ser testigo de Cristo (c. 879). Se administra por la unción con el crisma en la frente con imposición de la mano y las palabras prescritas (c. 880 §1). El crisma debe ser consagrado por el Obispo (c. 880 §2). Conviene celebrarla en una iglesia y dentro de la Misa (c. 881). Ministro ordinario: el Obispo; también el presbítero con facultad por derecho universal o concesión peculiar (c. 882). Gozan ipso iure de facultad de confirmar quienes se equiparan al Obispo diocesano, el presbítero que bautiza a quien ha sobrepasado la infancia, y el párroco o cualquier presbítero en peligro de muerte (c. 883). El Obispo diocesano debe administrarla por sí mismo o procurar que otro Obispo lo haga (c. 884 §1). Puede recibirla todo bautizado aún no confirmado (c. 889 §1). Fuera de peligro de muerte, se requiere instrucción, buena disposición y renovación de las promesas bautismales (c. 889 §2). Debe administrarse en torno a la edad de la discreción (c. 891). El padrino debe cumplir las condiciones del c. 874 (c. 893). La confirmación se anota en el libro de confirmaciones y se notifica al párroco del bautismo (c. 895).
+
 ### Según el Concilio Vaticano II (ConcVatII)
 
 Lumen Gentium enseña en LG §11 que por el sacramento de la [[confirmación]] los fieles «se vinculan más estrechamente a la Iglesia, se enriquecen con una fuerza especial del Espíritu Santo, y con ello quedan obligados más estrictamente a difundir y defender la fe, como verdaderos testigos de Cristo, por la palabra juntamente con las obras» [ConcVatII, LG §11].
@@ -62,16 +72,6 @@ El apostolado de los laicos es participación en la misión salvífica de la Igl
 ### Según el Concilio Vaticano II (ConcVatII)
 
 *Sacrosanctum Concilium* 71 ordena la revisión del rito de la confirmación para que aparezca más claramente la íntima relación de este sacramento con toda la iniciación cristiana. Dispone que la renovación de las promesas del bautismo preceda a la celebración del sacramento, y que la confirmación puede administrarse dentro de la Misa según las circunstancias.
-
-### Según el Código de Derecho Canónico (CIC)
-
-El CIC regula la confirmación en los cánones 879-896. Imprime carácter, enriquece con el don del Espíritu Santo, vincula más perfectamente a la Iglesia y obliga a ser testigo de Cristo (c. 879). Se administra por la unción con el crisma en la frente con imposición de la mano y las palabras prescritas (c. 880 §1). El crisma debe ser consagrado por el Obispo (c. 880 §2). Conviene celebrarla en una iglesia y dentro de la Misa (c. 881). Ministro ordinario: el Obispo; también el presbítero con facultad por derecho universal o concesión peculiar (c. 882). Gozan ipso iure de facultad de confirmar quienes se equiparan al Obispo diocesano, el presbítero que bautiza a quien ha sobrepasado la infancia, y el párroco o cualquier presbítero en peligro de muerte (c. 883). El Obispo diocesano debe administrarla por sí mismo o procurar que otro Obispo lo haga (c. 884 §1). Puede recibirla todo bautizado aún no confirmado (c. 889 §1). Fuera de peligro de muerte, se requiere instrucción, buena disposición y renovación de las promesas bautismales (c. 889 §2). Debe administrarse en torno a la edad de la discreción (c. 891). El padrino debe cumplir las condiciones del c. 874 (c. 893). La confirmación se anota en el libro de confirmaciones y se notifica al párroco del bautismo (c. 895).
-
-### Según el Catecismo (CEC)
-
-La Confirmación, junto con el Bautismo y la Eucaristía, constituye el conjunto de los «sacramentos de la iniciación cristiana» (§1285). Es necesaria para la plenitud de la gracia bautismal. El rito esencial es la unción del santo crisma en la frente con las palabras: «Recibe por esta señal el don del Espíritu Santo» (§1300). En las Iglesias orientales: «Sello del don del Espíritu Santo» (§1300).
-
-Efectos: nos introduce más profundamente en la filiación divina, nos une más firmemente a Cristo, aumenta en nosotros los dones del Espíritu Santo, hace más perfecto nuestro vínculo con la Iglesia, y nos concede una fuerza especial para difundir y defender la fe como verdaderos testigos de Cristo (§1303). Imprime carácter indeleble, perfeccionando el sacerdocio común de los fieles recibido en el Bautismo (§1304-1305). El ministro originario es el obispo; en Oriente, el presbítero que bautiza puede administrarla con crisma consagrado por el obispo (§1312-1313).
 
 ### Según Royo Marín (TPCr)
 

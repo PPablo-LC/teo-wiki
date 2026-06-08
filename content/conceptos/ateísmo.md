@@ -13,6 +13,9 @@ El Concilio Vaticano II ofrece el análisis más completo del ateísmo moderno. 
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Catecismo dedica los artículos §2123-2126 al ateísmo. Distingue el ateísmo práctico (que limita la vida a la utilidad inmediata), el ateísmo teórico (que niega o cuestiona la existencia de Dios) y el ateísmo como fenómeno político (que combate la religión). «Los creyentes pueden tener también parte en el ateísmo si, por descuido en la educación religiosa, exposición inadecuada de la doctrina o defectos en su vida religiosa, moral y social, velan más bien que revelan el genuino rostro de Dios» (§2126, citando GS 19).
 ### Según el Concilio Vaticano II (ConcVatII)
 
 GS 19: «La razón más alta de la dignidad humana consiste en la vocación del hombre a la unión con Dios». El ateísmo es examinado en sus formas diversas: negación expresa, agnosticismo metodológico, exaltación del hombre que vacía la fe en Dios, protesta contra el mal, y apego excesivo a los bienes terrenos.
@@ -21,9 +24,6 @@ GS 20: El ateísmo sistemático lleva el afán de autonomía humana hasta negar 
 
 GS 21: La Iglesia reprueba estas doctrinas pero quiere conocer sus causas. Afirma que el reconocimiento de Dios no se opone a la dignidad humana. La esperanza escatológica no merma las tareas temporales. El remedio del ateísmo está en la exposición adecuada de la doctrina y en la integridad de vida de la Iglesia. La Iglesia reconoce que todos los hombres, creyentes y no creyentes, deben colaborar en la edificación del mundo.
 
-### Según el Catecismo (CEC)
-
-El Catecismo dedica los artículos §2123-2126 al ateísmo. Distingue el ateísmo práctico (que limita la vida a la utilidad inmediata), el ateísmo teórico (que niega o cuestiona la existencia de Dios) y el ateísmo como fenómeno político (que combate la religión). «Los creyentes pueden tener también parte en el ateísmo si, por descuido en la educación religiosa, exposición inadecuada de la doctrina o defectos en su vida religiosa, moral y social, velan más bien que revelan el genuino rostro de Dios» (§2126, citando GS 19).
 
 ## Distinciones importantes
 

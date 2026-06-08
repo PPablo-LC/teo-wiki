@@ -15,6 +15,10 @@ En el NT, Cristo es el vencedor. Su muerte y resurrección constituyen la victor
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La victoria de Jesús sobre el Tentador en el desierto es anticipo de la victoria de la Pasión (CEC §539). Cristo vence a la muerte y al pecado; la Iglesia entrará en la gloria del Reino mediante una última Pascua (§677). La virtud de la fortaleza capacita para vencer el temor, incluso a la muerte (§1808). La victoria definitiva es de Dios sobre el mal en el Juicio final.
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 El AT proclama las victorias de Yahvé. El cántico de Moisés después del paso del Mar Rojo es la primera gran profesión de la victoria de Dios (Éx 15). Los salmos reales celebran al Rey victorioso (Sal 2; 110). Los profetas anuncian la victoria escatológica de Dios sobre todas las naciones.
@@ -22,10 +26,6 @@ El AT proclama las victorias de Yahvé. El cántico de Moisés después del paso
 En el NT, la victoria de Cristo es paradójica: se realiza mediante la cruz. Su muerte aparente derrota es la victoria real sobre el pecado y la muerte. La resurrección es la manifestación de esta victoria. Pablo proclama: «¿Dónde está, muerte, tu victoria?» (1 Cor 15,55). Cristo ha despojado a los principados, triunfando sobre ellos en la cruz (Col 2,15).
 
 El Apocalipsis describe la victoria de Cristo y de los suyos. Los que han vencido a la bestia cantan el cántico de Moisés y del Cordero (Ap 15,2-4). Se promete al vencedor el maná escondido, el nombre nuevo y el compartir el trono de Cristo (Ap 2-3). La victoria cristiana es por la fe: «Esta es la victoria que vence al mundo: nuestra fe» (1 Jn 5,4).
-
-### Según el Catecismo (CEC)
-
-La victoria de Jesús sobre el Tentador en el desierto es anticipo de la victoria de la Pasión (CEC §539). Cristo vence a la muerte y al pecado; la Iglesia entrará en la gloria del Reino mediante una última Pascua (§677). La virtud de la fortaleza capacita para vencer el temor, incluso a la muerte (§1808). La victoria definitiva es de Dios sobre el mal en el Juicio final.
 
 ### Según Royo Marín (TPCr)
 

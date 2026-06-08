@@ -17,13 +17,13 @@ El amor al prójimo es inseparable del amor a Dios y constituye con él el manda
 
 El amor al prójimo es mandamiento nuevo de Cristo (§1823). Es inseparable del amor a Dios: quien dice amar a Dios y aborrece a su hermano es mentiroso (1 Jn 4,20; CEC §1825). El juicio final se basará en las obras de misericordia (Mt 25,31-46; CEC §1826). Las obras de misericordia corporales y espirituales son expresiones concretas del amor al prójimo (§2447). La bienaventuranza de los misericordiosos (§1820). La justicia y solidaridad son exigencias del amor al prójimo (§1878, §1907-1912). Cristo se identifica con los pobres y pequeños (§2449).
 
-### Según Royo Marín (TPCr)
-
-La caridad con el prójimo brota de la caridad con Dios como su efecto natural. No es posible amar verdaderamente a Dios sin amar al prójimo. La corrección fraterna y la limosna son obras de misericordia exigidas por la caridad. Hay un orden en el amor: Dios primero, luego uno mismo y luego el prójimo (TPCr, Tercera Parte, Libro II, Cap. V-VI).
-
 ### Según Santo Tomás (SmTh)
 
 El orden de la caridad (II-II q.26) establece que debemos amar a Dios sobre todas las cosas, al prójimo como a nosotros mismos, según su grado de unión con Dios. Los grados de proximidad determinan la intensidad del amor: padres, hijos, cónyuge, etc. La caridad bien ordenada no desea bienes iguales para todos sino según la justicia (II-II q.26 a.6). El amor al prójimo incluye también a los enemigos (II-II q.25 a.8-9).
+
+### Según Royo Marín (TPCr)
+
+La caridad con el prójimo brota de la caridad con Dios como su efecto natural. No es posible amar verdaderamente a Dios sin amar al prójimo. La corrección fraterna y la limosna son obras de misericordia exigidas por la caridad. Hay un orden en el amor: Dios primero, luego uno mismo y luego el prójimo (TPCr, Tercera Parte, Libro II, Cap. V-VI).
 
 ### Según la doctrina de Para Salvarte (PS)
 

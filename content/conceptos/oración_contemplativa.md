@@ -32,15 +32,15 @@ Royo Marín dedica los números 514-555 al estudio de la contemplación infusa. 
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Catecismo enseña que la contemplación es «la expresión más simple del misterio de la oración», «mirada de fe fijada en Jesús», «escucha de la Palabra de Dios», «silencio lleno de presencia» (§2716). La oración contemplativa es «comunión de amor» que «lleva a la unión con el Dios vivo» (§2718). El Catecismo cita a San Juan de la Cruz: «La contemplación no es otra cosa que una infusión secreta, pacífica y amorosa de Dios que, si le dan lugar, inflama al alma en espíritu de amor» (§2718).
 ### Según Royo Marín (TPCr)
 
 La contemplación infusa requiere necesariamente la gracia habitual o santificante (n.520), la gracia actual (n.521-522) y el hábito de las virtudes infusas y los dones del Espíritu Santo (n.523). Los dones de entendimiento y sabiduría causan la llamada visión mística, irreductible a las categorías de visión de esta vida terrena. No requiere nuevas especies infusas sino que se sirve de las mismas especies sobrenaturales que proporciona la fe, iluminadas por la luz infusa de los dones intelectuales (n.531).
 
 La contemplación no es propia de los principiantes sino de los perfectos, aunque pueden darse actos transitorios de contemplación infusa en los comienzos de la vida espiritual por disposición especial de Dios (n.529).
 
-### Según el Catecismo (CEC)
-
-El Catecismo enseña que la contemplación es «la expresión más simple del misterio de la oración», «mirada de fe fijada en Jesús», «escucha de la Palabra de Dios», «silencio lleno de presencia» (§2716). La oración contemplativa es «comunión de amor» que «lleva a la unión con el Dios vivo» (§2718). El Catecismo cita a San Juan de la Cruz: «La contemplación no es otra cosa que una infusión secreta, pacífica y amorosa de Dios que, si le dan lugar, inflama al alma en espíritu de amor» (§2718).
 
 ## Distinciones importantes
 

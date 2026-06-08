@@ -21,14 +21,6 @@ El Catecismo enseña que «la Iglesia es santa porque Cristo, el Hijo de Dios, l
 
 Todos los fieles están llamados a la plenitud de la vida cristiana y a la perfección de la caridad (§826-828). «Los santos han sido siempre la fuente y el origen de renovación en las circunstancias más difíciles de la historia de la Iglesia» (§828). La Iglesia canoniza a los santos para proponerlos como modelos e intercesores.
 
-### Según Royo Marín (TPCr)
-
-Royo Marín dedica toda su obra a la perfección cristiana o santidad. La santidad consiste formalmente en la caridad: «La perfección cristiana consiste esencial y formalmente en la caridad» (Parte II, Cap. 2). Todas las demás virtudes y medios están ordenados a la caridad.
-
-Distingue grados de santidad: incipiente (principiantes, vía purgativa), progresante (adelantados, vía iluminativa) y perfecta (perfectos, vía unitiva). La unión transformante o matrimonio espiritual es la cumbre de la santidad en esta vida, según la doctrina de los grandes místicos.
-
-[TPCr, Parte II, Cap. 2]
-
 ### Según el Compendio (CompDS)
 
 «Es la vida de santidad, que resplandece en tantos miembros del pueblo de Dios frecuentemente humildes y escondidos a los ojos de los hombres, la que constituye el camino más simple y fascinante en el que se nos concede percibir inmediatamente la belleza de la verdad, la fuerza liberadora del amor de Dios, el valor de la fidelidad incondicionada a todas las exigencias de la ley del Señor, incluso en las circunstancias más difíciles» [CompDS §530]. La acción pastoral de la Iglesia sirve también de la obra de las personas consagradas, cuyo testimonio luminoso constituye para todos una llamada a vivir los valores de la santidad y del servicio generoso al prójimo [CompDS §540].
@@ -40,6 +32,14 @@ Lumen Gentium dedica el capítulo V a la «Universal vocación a la santidad en 
 El Señor Jesús predicó a todos sus discípulos «la santidad de vida, de la que El es iniciador y consumador»: «Sed, pues, vosotros perfectos, como vuestro Padre celestial es perfecto» [ConcVatII, LG §40, citando Mt 5,48]. Los fieles, justificados en Cristo y hechos por el [[bautismo]] verdaderos hijos de Dios y partícipes de la divina naturaleza, «son realmente santos» y deben conservar y perfeccionar en su vida la santificación recibida [ConcVatII, LG §40].
 
 «Es, pues, completamente claro que todos los fieles, de cualquier estado o condición, están llamados a la plenitud de la vida cristiana y a la perfección de la caridad» [ConcVatII, LG §40]. Esta santidad se cultiva en los múltiples géneros de vida y ocupaciones, cada uno según los dones y funciones que le son propios: pastores, presbíteros, esposos y padres cristianos, trabajadores, enfermos [ConcVatII, LG §41]. «El primero y más imprescindible don es la caridad», que rige todos los medios de santificación [ConcVatII, LG §42].
+### Según Royo Marín (TPCr)
+
+Royo Marín dedica toda su obra a la perfección cristiana o santidad. La santidad consiste formalmente en la caridad: «La perfección cristiana consiste esencial y formalmente en la caridad» (Parte II, Cap. 2). Todas las demás virtudes y medios están ordenados a la caridad.
+
+Distingue grados de santidad: incipiente (principiantes, vía purgativa), progresante (adelantados, vía iluminativa) y perfecta (perfectos, vía unitiva). La unión transformante o matrimonio espiritual es la cumbre de la santidad en esta vida, según la doctrina de los grandes místicos.
+
+[TPCr, Parte II, Cap. 2]
+
 
 ## Distinciones importantes
 

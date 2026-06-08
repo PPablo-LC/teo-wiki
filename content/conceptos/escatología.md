@@ -17,10 +17,6 @@ La escatología cristiana se fundamenta en la fe en la resurrección de Cristo, 
 
 El Credo cristiano culmina en la proclamación de la resurrección de los muertos y la vida eterna (CEC §988). La muerte es consecuencia del pecado, pero para los que mueren en la gracia de Cristo es participación en su muerte y entrada en la vida eterna (CEC §1006-1014). La Iglesia cree en la resurrección de la carne (CEC §988-1004). El cielo es la bienaventuranza eterna de los que mueren en la gracia y amistad de Dios (CEC §1023-1026). El purgatorio es la purificación final de los elegidos (CEC §1030-1032). El infierno es la condenación eterna de los que mueren en pecado mortal sin arrepentirse (CEC §1033-1037). El juicio final revelará la justicia de Dios (CEC §1038-1041). Al final, Dios será todo en todos (CEC §1042-1050).
 
-### Según Para Salvarte (PS)
-
-Loring dedica el capítulo 15 de su obra al más allá. Tras la muerte, el alma se separa del cuerpo y es juzgada inmediatamente por Dios en el juicio particular [PS §98]. «La muerte fija irrevocablemente a las almas»; después no hay posibilidad de cambiar el destino merecido [PS §98,1]. El destino puede ser el cielo —felicidad eterna con Dios—, el purgatorio —purificación para quienes mueren en gracia pero imperfectamente purificados—, o el infierno —condenación eterna de quienes mueren en pecado mortal sin arrepentimiento— [PS §98-100]. Loring insiste en que la existencia del infierno es dogma de fe, definido en el Concilio IV de Letrán, y que Cristo habla quince veces del infierno en el Evangelio [PS §99,1]. El cielo es «el conjunto de todos los bienes sin mezcla de mal alguno» y su felicidad será proporcional a los méritos contraídos en esta vida [PS §100-100,1].
-
 ### Según el Concilio Vaticano II (ConcVatII)
 
 **Gaudium et Spes (GS):**
@@ -42,6 +38,10 @@ LG §48: La Iglesia peregrina «lleva en sus sacramentos e instituciones, perten
 LG §49: Hasta la venida del Señor, «de sus discípulos, unos peregrinan en la tierra; otros, ya difuntos, se purifican; otros, finalmente, gozan de la gloria, contemplando claramente a Dios mismo, Uno y Trino». Todos constituyen una misma Iglesia y mutuamente se unen en Cristo. La unión de los viadores con los difuntos se robustece con la comunicación de bienes espirituales.
 
 LG §50-51: Los bienaventurados, más íntimamente unidos a Cristo, «consolidan más eficazmente a toda la Iglesia en la santidad» y no cesan de interceder por nosotros. El verdadero culto a los santos consiste en la intensidad de un amor activo.
+### Según Para Salvarte (PS)
+
+Loring dedica el capítulo 15 de su obra al más allá. Tras la muerte, el alma se separa del cuerpo y es juzgada inmediatamente por Dios en el juicio particular [PS §98]. «La muerte fija irrevocablemente a las almas»; después no hay posibilidad de cambiar el destino merecido [PS §98,1]. El destino puede ser el cielo —felicidad eterna con Dios—, el purgatorio —purificación para quienes mueren en gracia pero imperfectamente purificados—, o el infierno —condenación eterna de quienes mueren en pecado mortal sin arrepentimiento— [PS §98-100]. Loring insiste en que la existencia del infierno es dogma de fe, definido en el Concilio IV de Letrán, y que Cristo habla quince veces del infierno en el Evangelio [PS §99,1]. El cielo es «el conjunto de todos los bienes sin mezcla de mal alguno» y su felicidad será proporcional a los méritos contraídos en esta vida [PS §100-100,1].
+
 
 ## Distinciones importantes
 

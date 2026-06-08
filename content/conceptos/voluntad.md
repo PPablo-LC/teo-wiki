@@ -21,10 +21,6 @@ La libertad es el poder, radicado en la voluntad, de obrar o no obrar, de hacer 
 
 «El libre albedrío es una propiedad de la voluntad humana» (§1731). La voluntad tiende naturalmente al bien, pero puede elegir el mal cuando el entendimiento le presenta un bien aparente. La gracia sana y eleva la voluntad, capacitándola para querer el bien sobrenatural.
 
-### Según Royo Marín (TPCr)
-
-La voluntad es una de las potencias del alma donde reside la virtud de la justicia. La conformidad con la voluntad de Dios es uno de los grandes resortes psicológicos para el adelantamiento en la vida espiritual, junto con la energía de carácter, el deseo ardiente de la perfección y la fidelidad a la gracia.
-
 ### Según la Summa Theologiae (SmTh)
 
 **Iª q.82 — La voluntad:**
@@ -78,6 +74,10 @@ Santo Tomás trata los actos específicos de la voluntad: **q.11 — La fruició
 **q.19 a.9 — Conformidad con la voluntad divina:** La voluntad humana es buena en cuanto se conforma con la voluntad divina, tanto en el objeto querido (voluntad de beneplácito) como en la causa formal de querer (querer lo que Dios quiere porque Dios lo quiere).
 
 [TPCr, Parte III, Libro II, Cap. IV, n.613]
+### Según Royo Marín (TPCr)
+
+La voluntad es una de las potencias del alma donde reside la virtud de la justicia. La conformidad con la voluntad de Dios es uno de los grandes resortes psicológicos para el adelantamiento en la vida espiritual, junto con la energía de carácter, el deseo ardiente de la perfección y la fidelidad a la gracia.
+
 
 ## Distinciones importantes
 

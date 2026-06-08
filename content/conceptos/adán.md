@@ -19,15 +19,15 @@ Adán fue creado en estado de santidad y justicia original (§375). La gracia de
 
 [CEC §375-384, §399-421, §504-505]
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+El término «Adán» en la Biblia tiene un sentido eminentemente colectivo: designa al hombre en general, al ser humano, más que al primer individuo. Los relatos de *Gen 2-3* (yahvista) y *Gen 1* (sacerdotal) condensan una experiencia secular sobre la condición humana: el hombre, creado bueno a imagen de Dios, cayó por soberbia. Pablo desarrolla la teología del nuevo Adán en *Rom 5,12-21* y *1Cor 15,45-49*: así como por Adán entró el pecado y la muerte, por Cristo sobreabundó la gracia y la vida. El cristiano, por su fe, debe despojarse del hombre viejo (Adán) y revestirse de Cristo, el hombre nuevo [VocTeoBib, «Adán»].
 ### Según Royo Marín (TPCr)
 
 Adán fue creado en gracia, que se transmitiría a sus descendientes. Por su pecado manchó con el pecado original a todos los hombres, haciéndoles perder la gracia y el derecho a la vida eterna. Jesucristo es quien ha restablecido el plan divino de salvación destruido por el pecado de Adán. Cristo es la causa meritoria de la gracia: ningún hombre podría satisfacer condignamente por el pecado de Adán, solo un Dios hecho hombre podía hacerlo.
 
 [TPCr, Parte I, Cap. 1 (n.1-3), Parte II, Cap. 1]
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-El término «Adán» en la Biblia tiene un sentido eminentemente colectivo: designa al hombre en general, al ser humano, más que al primer individuo. Los relatos de *Gen 2-3* (yahvista) y *Gen 1* (sacerdotal) condensan una experiencia secular sobre la condición humana: el hombre, creado bueno a imagen de Dios, cayó por soberbia. Pablo desarrolla la teología del nuevo Adán en *Rom 5,12-21* y *1Cor 15,45-49*: así como por Adán entró el pecado y la muerte, por Cristo sobreabundó la gracia y la vida. El cristiano, por su fe, debe despojarse del hombre viejo (Adán) y revestirse de Cristo, el hombre nuevo [VocTeoBib, «Adán»].
 
 ## Distinciones importantes
 

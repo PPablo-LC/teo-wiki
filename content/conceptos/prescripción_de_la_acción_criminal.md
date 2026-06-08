@@ -13,6 +13,11 @@ El derecho penal canónico general establece plazos de prescripción de 3 años 
 
 ## Perspectivas por fuente
 
+### Según el Código de Derecho Canónico (CIC)
+
+El can. 1362 §1 establece la regla general: la acción criminal se extingue por prescripción a los 3 años, salvo:
+- 5 años para delitos reservados a la Congregación para la Doctrina de la Fe (antes de SST-2010), delitos de falsedad, y delitos castigados en can. 1364-1365, 1368, 1370-1379, 1382, 1388, 1395, 1398
+- El can. 1362 §2: la prescripción corre desde el día de la comisión del delito, o si es permanente o habitual, desde el día en que cesa
 ### Según las Normae de gravioribus delictis (SST-2010)
 
 El **art. 7** regula la prescripción en tres disposiciones:
@@ -25,11 +30,6 @@ El **art. 7** regula la prescripción en tres disposiciones:
 
 La Breve Relación (n.2) señala que la ampliación del plazo de prescripción de la acción criminal a 20 años se concedió siguiendo las facultades otorgadas por Juan Pablo II y confirmadas por Benedicto XVI. Salvando siempre el derecho de la CDF de poder derogar la prescripción para casos singulares.
 
-### Según el Código de Derecho Canónico (CIC)
-
-El can. 1362 §1 establece la regla general: la acción criminal se extingue por prescripción a los 3 años, salvo:
-- 5 años para delitos reservados a la Congregación para la Doctrina de la Fe (antes de SST-2010), delitos de falsedad, y delitos castigados en can. 1364-1365, 1368, 1370-1379, 1382, 1388, 1395, 1398
-- El can. 1362 §2: la prescripción corre desde el día de la comisión del delito, o si es permanente o habitual, desde el día en que cesa
 
 ## Distinciones importantes
 

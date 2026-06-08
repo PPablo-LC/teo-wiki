@@ -17,12 +17,6 @@ El plan del Catecismo se inspira en la gran tradición de los catecismos, articu
 
 ## Perspectivas por fuente
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-*Dei Verbum* 24 establece que el ministerio de la palabra —la predicación pastoral, la catequesis y toda instrucción cristiana— se nutre saludablemente y se vigoriza santamente con la palabra de la Escritura. El estudio de la Sagrada Escritura ha de ser el alma de la Sagrada Teología, que es el fundamento de toda catequesis.
-
-*Sacrosanctum Concilium* 35 ordena que se inculque por todos los medios la catequesis más directamente litúrgica, de modo que los fieles comprendan la íntima conexión entre la palabra y el rito. Se prevén breves moniciones dentro de los ritos mismos (SC 35 §3). SC 56 exhorta a los pastores a instruir cuidadosamente a los fieles acerca de la participación en toda la Misa. SC 64-71 vincula la catequesis con el catecumenado y la iniciación cristiana.
-
 ### Según el Catecismo (CEC)
 
 El CEC dedica todo el prólogo a la catequesis. Citando al Catecismo Romano, establece el principio pastoral fundamental: «Toda la finalidad de la doctrina y de la enseñanza debe ser puesta en el amor que no acaba» (§25).
@@ -42,6 +36,12 @@ El Capítulo II del Título I del Libro III (cc. 773-780) regula la formación c
 **Medios** (c. 779): la formación catequética debe emplear todos los medios, material didáctico e instrumentos de comunicación social más eficaces.
 
 **Formación de catequistas** (c. 780): los Ordinarios deben cuidar que los catequistas se preparen debidamente y reciban formación permanente.
+### Según el Concilio Vaticano II (ConcVatII)
+
+*Dei Verbum* 24 establece que el ministerio de la palabra —la predicación pastoral, la catequesis y toda instrucción cristiana— se nutre saludablemente y se vigoriza santamente con la palabra de la Escritura. El estudio de la Sagrada Escritura ha de ser el alma de la Sagrada Teología, que es el fundamento de toda catequesis.
+
+*Sacrosanctum Concilium* 35 ordena que se inculque por todos los medios la catequesis más directamente litúrgica, de modo que los fieles comprendan la íntima conexión entre la palabra y el rito. Se prevén breves moniciones dentro de los ritos mismos (SC 35 §3). SC 56 exhorta a los pastores a instruir cuidadosamente a los fieles acerca de la participación en toda la Misa. SC 64-71 vincula la catequesis con el catecumenado y la iniciación cristiana.
+
 
 ## Analizado para
 

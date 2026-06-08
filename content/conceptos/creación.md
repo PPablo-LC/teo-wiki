@@ -17,10 +17,6 @@ Dios crea libremente «de la nada» (ex nihilo) —verdad revelada que no tiene 
 
 Dios creó el mundo para manifestar y comunicar su gloria (§293-294). La creación es obra de la Santísima Trinidad (§290-292). Dios crea de la nada (§296-298): sin materia preexistente ni ayuda alguna. La creación es ordenada y buena (§299). Dios transciende la creación y está presente en ella (§300): «En él vivimos, nos movemos y existimos». Dios mantiene y conduce la creación (§301): no abandona su criatura, sino que la mantiene en el ser y la lleva a su término.
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-La creación en el AT se expresa en dos relatos complementarios. El más antiguo (*Gen 2,4-25*) describe a Dios como artesano modelando al hombre del polvo y plantando el jardín del Edén. El relato sacerdotal (*Gen 1*) presenta una visión grandiosa: Dios crea con su palabra un mundo ordenado y bueno, culminando en el hombre creado a imagen divina. La originalidad de Israel frente a los mitos mesopotámicos es radical: no hay combate divino, ni teogonía; Dios crea libremente de la nada (*2Mac 7,28*). La sabiduría personificada asiste a la creación como maestra de obras (*Prov 8,22-31*). La creación es el primer acto del designio de salvación y prefigura la nueva creación en Cristo [VocTeoBib, «Creación»].
-
 ### Según el Compendio (CompDS)
 
 La reflexión profética y sapiencial alcanza la fuente misma del proyecto de Dios sobre la humanidad al formular el principio de la creación de todas las cosas por Dios [CompDS §26]. Afirmar que Dios es Creador significa captar el horizonte original del actuar gratuito y misericordioso del Señor en favor del hombre. Dios libremente da el ser y la vida a todo lo que existe.
@@ -28,6 +24,10 @@ La reflexión profética y sapiencial alcanza la fuente misma del proyecto de Di
 El hombre y la mujer, creados a [[imagen_de_dios]], están llamados a ser el signo visible y el instrumento eficaz de la gratuidad divina, como cultivadores y guardianes de los bienes de la creación [CompDS §26]. El sentido mismo de la creación se expresa en el actuar gratuito de Dios Creador, aunque esté oscurecido y distorsionado por la experiencia del [[pecado_original]] [CompDS §27].
 
 La creación del hombre y de la mujer a imagen de Dios es un acto libre y gratuito de Dios [CompDS §36]. A ellos, como cima de la creación, el Creador les confía la tarea de ordenar la naturaleza creada según su designio [CompDS §36].
+
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+La creación en el AT se expresa en dos relatos complementarios. El más antiguo (*Gen 2,4-25*) describe a Dios como artesano modelando al hombre del polvo y plantando el jardín del Edén. El relato sacerdotal (*Gen 1*) presenta una visión grandiosa: Dios crea con su palabra un mundo ordenado y bueno, culminando en el hombre creado a imagen divina. La originalidad de Israel frente a los mitos mesopotámicos es radical: no hay combate divino, ni teogonía; Dios crea libremente de la nada (*2Mac 7,28*). La sabiduría personificada asiste a la creación como maestra de obras (*Prov 8,22-31*). La creación es el primer acto del designio de salvación y prefigura la nueva creación en Cristo [VocTeoBib, «Creación»].
 
 ### Según la Summa Theologiae (SmTh)
 

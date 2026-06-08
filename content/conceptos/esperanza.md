@@ -9,10 +9,6 @@ La esperanza es la segunda de las virtudes teologales, virtud infusa sobrenatura
 
 ## Perspectivas por fuente
 
-### Según Juan Pablo II (JPII-JovCh)
-
-Juan Pablo II anima a los jóvenes a estar «dispuestos a dar razón de vuestra esperanza» [JPII-JovCh]. La esperanza cristiana se funda en la fe en Cristo vivo, de modo que «un optimismo cristiano probará desde modo el terreno al pesimismo exterio y os dará confianza en el Señor» [JPII-JovCh]. Esta esperanza no es ingenua: nace de la experiencia de fe que descubre a Cristo como aquel que «no solo da la vida, sino que es la vida misma» [JPII-JovCh].
-
 ### Según el Compendio (CompDS)
 
 La Iglesia enseña al hombre que Dios le ofrece la posibilidad real de superar el mal y de alcanzar el bien. El Señor ha redimido al hombre, lo ha rescatado a caro precio (cf. 1 Co 6,20) [CompDS §578]. El sentido y el fundamento del compromiso cristiano en el mundo derivan de esta certeza, capaz de encender la esperanza, a pesar del pecado que marca profundamente la historia humana: la promesa divina garantiza que el mundo no permanece encerrado en sí mismo, sino abierto al Reino de Dios [CompDS §578].
@@ -34,6 +30,10 @@ La esperanza cristiana confiere una fuerte determinación al compromiso en campo
 **a.6 — Juventud y embriaguez:** Los jóvenes tienen buena esperanza por tres razones: tienen mucho futuro y poco pasado; el calor natural les ensancha el corazón; la inexperiencia les hace juzgar posible lo que no han intentado.
 
 **Distinción importante:** Esta esperanza como pasión del irascible (apetito sensitivo) es realmente distinta de la [[virtud_de_la_esperanza]] como virtud teologal, que reside en la voluntad (apetito intelectivo) y tiene por objeto la bienaventuranza eterna confiando en el auxilio divino. La esperanza-pasión es común a hombres y animales; la esperanza-virtud es exclusivamente sobrenatural.
+### Según Juan Pablo II (JPII-JovCh)
+
+Juan Pablo II anima a los jóvenes a estar «dispuestos a dar razón de vuestra esperanza» [JPII-JovCh]. La esperanza cristiana se funda en la fe en Cristo vivo, de modo que «un optimismo cristiano probará desde modo el terreno al pesimismo exterio y os dará confianza en el Señor» [JPII-JovCh]. Esta esperanza no es ingenua: nace de la experiencia de fe que descubre a Cristo como aquel que «no solo da la vida, sino que es la vida misma» [JPII-JovCh].
+
 
 ## Relaciones doctrinales
 

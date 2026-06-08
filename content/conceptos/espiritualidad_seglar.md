@@ -15,6 +15,10 @@ El carácter secular es propio y peculiar de los laicos. Mientras que los cléri
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC §897-913 describe la vocación de los laicos a la santidad en medio del mundo. §898: «Los laicos tienen como vocación propia el buscar el reino de Dios ocupándose de las realidades temporales y ordenándolas según Dios.» §900: participan de la función sacerdotal ofreciendo la propia vida como sacrificio espiritual. §901: «Todas sus obras, sus oraciones e iniciativas apostólicas, la vida conyugal y familiar, el trabajo cotidiano [...] se convierten en sacrificios espirituales.»
+
 ### Según el Concilio Vaticano II (ConcVatII)
 
 **Lumen Gentium §31:** «El carácter secular es propio y peculiar de los laicos. [...] A los laicos corresponde, por propia vocación, tratar de obtener el reino de Dios gestionando los asuntos temporales y ordenándolos según Dios. Viven en el siglo, es decir, en todos y cada uno de los deberes y ocupaciones del mundo, y en las condiciones ordinarias de la vida familiar y social, con las que su existencia está como entretejida. Allí están llamados por Dios, para que, desempeñando su propia profesión guiados por el espíritu evangélico, contribuyan a la santificación del mundo como desde dentro, a modo de fermento.»
@@ -22,10 +26,6 @@ El carácter secular es propio y peculiar de los laicos. Mientras que los cléri
 **Apostolicam Actuositatem §4:** Los laicos santifican el mundo mediante el ejercicio fiel de su profesión, el testimonio de una vida cristiana y la acción apostólica. «Dondequiera que viven, tienen la obligación de manifestar a los hombres, con el ejemplo de su vida y el testimonio de su palabra, el espíritu de las bienaventuranzas.»
 
 **Lumen Gentium §34:** Todas las obras, oraciones, iniciativas apostólicas, la vida conyugal y familiar, el trabajo cotidiano, el descanso y las pruebas de la vida, si son hechos en el Espíritu, se convierten en «sacrificios espirituales, aceptables a Dios por Jesucristo».
-
-### Según el Catecismo (CEC)
-
-El CEC §897-913 describe la vocación de los laicos a la santidad en medio del mundo. §898: «Los laicos tienen como vocación propia el buscar el reino de Dios ocupándose de las realidades temporales y ordenándolas según Dios.» §900: participan de la función sacerdotal ofreciendo la propia vida como sacrificio espiritual. §901: «Todas sus obras, sus oraciones e iniciativas apostólicas, la vida conyugal y familiar, el trabajo cotidiano [...] se convierten en sacrificios espirituales.»
 
 ### Según el V Capítulo General LC-2026 (LC-2026)
 

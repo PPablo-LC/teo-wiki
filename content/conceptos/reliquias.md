@@ -15,13 +15,13 @@ La Iglesia distingue entre el culto de latría (debido solo a Dios), el culto de
 
 ## Perspectivas por fuente
 
-### Según el Código de Derecho Canónico (CIC)
-
-El CIC regula las reliquias en los cánones 1186-1190. La Iglesia recomienda la veneración de los Santos (c. 1186). Solo es lícito venerar con culto público a los siervos de Dios incluidos por la autoridad de la Iglesia en el catálogo de los Santos o Beatos (c. 1187). Está terminantemente prohibido vender reliquias sagradas (c. 1190 §1). Las reliquias insignes y aquellas que gozan de gran veneración del pueblo no pueden en modo alguno enajenarse válidamente o trasladarse a perpetuidad sin licencia de la Sede Apostólica (c. 1190 §2). Debe observarse la antigua tradición de colocar bajo el altar fijo reliquias de Mártires o de otros Santos, según las normas litúrgicas (c. 1237 §2).
-
 ### Según el Catecismo (CEC)
 
 El Catecismo incluye las reliquias en el contexto del culto cristiano (§1674-1675). La Iglesia venera las reliquias de los santos como parte de las expresiones de la piedad popular. «La veneración de las imágenes, de las reliquias y de los santos es una expresión legítima de la piedad cristiana» (§1674).
+
+### Según el Código de Derecho Canónico (CIC)
+
+El CIC regula las reliquias en los cánones 1186-1190. La Iglesia recomienda la veneración de los Santos (c. 1186). Solo es lícito venerar con culto público a los siervos de Dios incluidos por la autoridad de la Iglesia en el catálogo de los Santos o Beatos (c. 1187). Está terminantemente prohibido vender reliquias sagradas (c. 1190 §1). Las reliquias insignes y aquellas que gozan de gran veneración del pueblo no pueden en modo alguno enajenarse válidamente o trasladarse a perpetuidad sin licencia de la Sede Apostólica (c. 1190 §2). Debe observarse la antigua tradición de colocar bajo el altar fijo reliquias de Mártires o de otros Santos, según las normas litúrgicas (c. 1237 §2).
 
 ### Según Royo Marín (TPCr)
 

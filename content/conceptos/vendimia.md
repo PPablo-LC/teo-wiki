@@ -15,6 +15,10 @@ En el NT, Jesús usa la imagen de la viña y los viñadores (Mc 12,1-12 par.). E
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La vendimia aparece mencionada en las medidas jurídicas del Antiguo Testamento: el derecho de rebusca después de la vendimia como expresión de la caridad con los pobres (CEC §2449). No hay un desarrollo teológico independiente del término.
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 La vid y la vendimia son símbolos ambivalentes. Por un lado, la vendimia es fiesta y bendición (Is 16,10; Jer 48,33). La alegría del vino nuevo simboliza la alegría mesiánica. En el Cantar, la esposa es una viña fecunda (Ct 2,15).
@@ -22,10 +26,6 @@ La vid y la vendimia son símbolos ambivalentes. Por un lado, la vendimia es fie
 Por otro lado, la vendimia es juicio. Isaías 5 canta la viña del amado que no dio fruto; Israel es la viña que produjo uvas silvestres. Joel ve a los pueblos cortados como la vendimia echada al lagar. El Apocalipsis desarrolla esta imagen: el ángel siega la vid de la tierra y la echa en el gran lagar de la ira de Dios (Ap 14,19-20).
 
 La vid es también símbolo de Cristo y de la Iglesia. Jesús es la vid verdadera (Jn 15,1-5). Los sarmientos son los discípulos, llamados a dar fruto abundante. El vino de la Eucaristía es el fruto de la vid que se convierte en sangre de Cristo. La alegría de la vendimia es signo del banquete escatológico del Reino.
-
-### Según el Catecismo (CEC)
-
-La vendimia aparece mencionada en las medidas jurídicas del Antiguo Testamento: el derecho de rebusca después de la vendimia como expresión de la caridad con los pobres (CEC §2449). No hay un desarrollo teológico independiente del término.
 
 ### Según Royo Marín (TPCr)
 

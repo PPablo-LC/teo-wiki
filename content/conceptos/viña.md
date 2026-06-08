@@ -15,6 +15,10 @@ Jesús retoma la imagen en la parábola de los viñadores homicidas (Mc 12,1-12 
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La viña es mencionada como «fruto de la vid» del cual proviene el vino para la Eucaristía (CEC §1333). Las parábolas de la viña (trabajadores, viña del Señor) no reciben un desarrollo doctrinal específico en el CEC, aunque la imagen de Israel como viña del Señor subyace al lenguaje eucarístico.
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 Is 5 es el canto de la viña, una de las más bellas alegorías del AT. La viña recibe todos los cuidados del viñador, pero produce uvas amargas. El juicio es la destrucción de la viña. Pero los profetas anuncian la restauración mesiánica: Israel será plantada de nuevo como viña fecunda (Am 9,14-15).
@@ -22,10 +26,6 @@ Is 5 es el canto de la viña, una de las más bellas alegorías del AT. La viña
 En los evangelios, la parábola de los viñadores muestra el rechazo de los profetas y del Hijo. La viña es dada a otros. Jesús se presenta como la vid verdadera: la unión del sarmiento con la vid produce fruto abundante; separado de la vid, el sarmiento se seca.
 
 La vid y la viña conectan también con la Eucaristía: el vino nuevo del Reino (Mt 26,29). En el Apocalipsis, la vendimia es el juicio, pero la alegría de las bodas del Cordero incluye el vino de la fiesta. La viña representa la fecundidad del pueblo de Dios unido a Cristo.
-
-### Según el Catecismo (CEC)
-
-La viña es mencionada como «fruto de la vid» del cual proviene el vino para la Eucaristía (CEC §1333). Las parábolas de la viña (trabajadores, viña del Señor) no reciben un desarrollo doctrinal específico en el CEC, aunque la imagen de Israel como viña del Señor subyace al lenguaje eucarístico.
 
 ### Según Royo Marín (TPCr)
 

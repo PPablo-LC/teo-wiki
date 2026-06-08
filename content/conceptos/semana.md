@@ -15,6 +15,10 @@ La Semana Santa es la celebración anual de los misterios centrales de la redenc
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El domingo, «primer día de la semana», es el día de la Resurrección de Cristo y fundamento de la celebración dominical (CEC §1163, §1166). La Semana Santa es llamada en Oriente «la gran semana» (§1169). El domingo se distingue del sábado y lo sucede cronológicamente cada semana (§2175), recogiendo el ritmo semanal para celebrar al Creador y Redentor (§2176).
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 La semana bíblica tiene su fundamento en la creación (Gén 1). El esquema de siete días no tiene paralelo en las culturas vecinas, donde los ciclos eran lunares o estacionales. La semana israelita es creación teológica: Dios trabaja seis días y descansa el séptimo, estableciendo el ritmo del tiempo humano.
@@ -22,10 +26,6 @@ La semana bíblica tiene su fundamento en la creación (Gén 1). El esquema de s
 En la semana de la creación, cada día es una obra de Dios. El séptimo día es la culminación, el día de la bendición divina. El calendario de los jubileos amplía el esquema semanal a ciclos de siete años y siete veces siete años.
 
 En el NT, la semana se reorganiza en torno al primer día, el de la resurrección. La comunidad cristiana se reúne para la fracción del pan «el primer día de la semana» (Hch 20,7). Pablo organiza la colecta por semanas (1 Cor 16,2). El domingo es «el día del Señor» (Ap 1,10), memorial semanal de la Pascua. La Semana Santa es ya prefigurada por la semana de la pasión en los evangelios, que narran con precisión los días que van de la entrada en Jerusalén a la resurrección.
-
-### Según el Catecismo (CEC)
-
-El domingo, «primer día de la semana», es el día de la Resurrección de Cristo y fundamento de la celebración dominical (CEC §1163, §1166). La Semana Santa es llamada en Oriente «la gran semana» (§1169). El domingo se distingue del sábado y lo sucede cronológicamente cada semana (§2175), recogiendo el ritmo semanal para celebrar al Creador y Redentor (§2176).
 
 ### Según Royo Marín (TPCr)
 

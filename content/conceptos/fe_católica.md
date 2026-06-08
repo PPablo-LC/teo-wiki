@@ -21,6 +21,9 @@ El Catecismo enseña que la fe católica es la fe de la Iglesia, que es anterior
 
 La Iglesia católica es la depositaria de la fe: «Creemos todo lo que está contenido en la Palabra de Dios, escrita o transmitida, y es propuesto por la Iglesia como divinamente revelado, ya sea por un juicio solemne o por el magisterio ordinario y universal» (§830-831). La fe católica es «sobrenatural, eclesial y razonable» (§156-159).
 
+### Según el Código de Derecho Canónico (CIC)
+
+El canon 750 define el objeto de la fe divina y católica: «Se ha de creer con fe divina y católica todo aquello que se contiene en la palabra de Dios escrita o transmitida por tradición, es decir, en el único depósito de la fe encomendado a la Iglesia, y que además es propuesto como revelado por Dios, ya sea por el magisterio solemne de la Iglesia, ya por su magisterio ordinario y universal, que se manifiesta en la común adhesión de los fieles bajo la guía del sagrado magisterio». El canon 751 tipifica como herejía la negación pertinaz de una verdad que ha de creerse con fe divina y católica. El canon 748 §1 afirma que todos los hombres están obligados a buscar la verdad sobre Dios y, una vez conocida, tienen el deber y el derecho de abrazarla y observarla.
 ### Según Royo Marín (TPCr)
 
 Royo Marín trata la fe teologal como la primera de las virtudes infusas y fundamento de la vida cristiana. La fe católica es la adhesión a la Revelación divina custodiada por la Iglesia. Sin la fe es imposible agradar a Dios (Hb 11,6). La fe es necesaria para la salvación y para la perfección cristiana.
@@ -29,9 +32,6 @@ La fe católica se distingue de la fe humana por su motivo formal: la autoridad 
 
 [TPCr, Parte II, Cap. 2]
 
-### Según el Código de Derecho Canónico (CIC)
-
-El canon 750 define el objeto de la fe divina y católica: «Se ha de creer con fe divina y católica todo aquello que se contiene en la palabra de Dios escrita o transmitida por tradición, es decir, en el único depósito de la fe encomendado a la Iglesia, y que además es propuesto como revelado por Dios, ya sea por el magisterio solemne de la Iglesia, ya por su magisterio ordinario y universal, que se manifiesta en la común adhesión de los fieles bajo la guía del sagrado magisterio». El canon 751 tipifica como herejía la negación pertinaz de una verdad que ha de creerse con fe divina y católica. El canon 748 §1 afirma que todos los hombres están obligados a buscar la verdad sobre Dios y, una vez conocida, tienen el deber y el derecho de abrazarla y observarla.
 
 ## Distinciones importantes
 

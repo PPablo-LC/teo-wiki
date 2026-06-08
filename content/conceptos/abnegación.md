@@ -17,15 +17,15 @@ El amor propio se infiltra sutilmente hasta en las cosas más santas, por lo que
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC §2015 enseña que el camino de la perfección pasa por la cruz. No hay santidad sin renuncia y combate espiritual. La abnegación es condición del seguimiento de Cristo.
 ### Según Royo Marín (TPCr)
 
 En la sección dedicada a la purificación de la voluntad (n.262), Royo Marín explica que poco importaría desprenderse de los lazos de las criaturas exteriores si el espíritu no logra desembarazarse también del propio yo, que constituye el mayor obstáculo para volar libremente a Dios. La abnegación supone la muerte total al propio egoísmo.
 
 El don de sabiduría produce como efecto más impresionante la muerte total al propio yo, amando a Dios con amor purísimo por sola su infinita bondad. El alma llega a preferir los tormentos eternos si con ello pudiera amar y glorificar más a Dios (n.409). San Ignacio de Loyola trata de la abnegación al hablar de los tres grados de humildad.
 
-### Según el Catecismo (CEC)
-
-El CEC §2015 enseña que el camino de la perfección pasa por la cruz. No hay santidad sin renuncia y combate espiritual. La abnegación es condición del seguimiento de Cristo.
 
 ## Distinciones importantes
 

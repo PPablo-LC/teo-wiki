@@ -13,6 +13,9 @@ La provincia eclesiástica es una circunscripción territorial intermedia entre 
 
 ## Perspectivas por fuente
 
+### Según el Concilio Vaticano II (ConcVatII)
+
+*Christus Dominus* establece que las provincias eclesiásticas deben ser reorganizadas según las necesidades pastorales actuales (CD §39-40). Se recomienda que las diócesis se agrupen en provincias eclesiásticas donde la diversidad de circunstancias lo aconseje (CD §40).
 ### Según el CIC
 
 El c. 431 §1 establece que las diócesis del mismo territorio pueden agruparse en provincias eclesiásticas, decretada por la autoridad suprema de la Iglesia. La provincia eclesiástica es presidida por el arzobispo metropolitano (c. 431 §2). Compete al metropolitano convocar el concilio provincial (c. 432, 439-440), velar por la observancia de la fe y disciplina eclesiásticas (c. 436 §1), visitar las diócesis sufragáneas si el obispo diocesano lo ha descuidado (c. 436 §2), y designar el administrador diocesano en los casos previstos (c. 436 §1, 3º).
@@ -23,9 +26,6 @@ La erección, modificación o supresión de provincias eclesiásticas correspond
 
 El Comentario señala que la provincia eclesiástica no constituye una persona jurídica sino una circunscripción territorial con finalidad pastoral y de coordinación. La potestad del metropolitano no es una potestad de régimen ordinaria sobre las diócesis sufragáneas, sino una potestad de vigilancia limitada. La figura del concilio provincial es el instrumento principal para la actuación colegial de la provincia.
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-*Christus Dominus* establece que las provincias eclesiásticas deben ser reorganizadas según las necesidades pastorales actuales (CD §39-40). Se recomienda que las diócesis se agrupen en provincias eclesiásticas donde la diversidad de circunstancias lo aconseje (CD §40).
 
 ## Distinciones importantes
 

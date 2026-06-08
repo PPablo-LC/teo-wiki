@@ -13,13 +13,13 @@ El ecumenismo espiritual precede a cualquier diálogo teológico o institucional
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El ecumenismo espiritual abarca el cambio de mentalidad, la santidad de vida, la oración común y la colaboración fraterna. «El deseo de recuperar la unidad de todos los cristianos es un don de Cristo y una llamada del Espíritu Santo» [CEC §820].
 ### Según el Concilio Vaticano II
 
 El Decreto *Unitatis Redintegratio* dedica el capítulo II al ecumenismo espiritual: «Esta conversión del corazón y esta santidad de vida, unidas con las oraciones públicas y privadas por la unidad de los cristianos, deben considerarse como el alma de todo el movimiento ecuménico» (UR 8). El ecumenismo espiritual incluye la oración común por la unidad, el conocimiento mutuo, la colaboración práctica y el examen de conciencia sobre la propia fidelidad al Evangelio.
 
-### Según el Catecismo (CEC)
-
-El ecumenismo espiritual abarca el cambio de mentalidad, la santidad de vida, la oración común y la colaboración fraterna. «El deseo de recuperar la unidad de todos los cristianos es un don de Cristo y una llamada del Espíritu Santo» [CEC §820].
 
 ## Distinciones importantes
 

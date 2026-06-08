@@ -61,9 +61,13 @@ Son los efectos principales:
 
 ## Perspectivas por fuente
 
-### Según el Concilio Vaticano II (ConcVatII)
+### Según el Catecismo (CEC)
 
-*Sacrosanctum Concilium* 72 ordena la revisión del rito y las fórmulas de la penitencia «de manera que expresen más claramente la naturaleza y efecto del sacramento». SC 109-110, al tratar del tiempo cuaresmal, subraya la penitencia como preparación para el misterio pascual, y señala que la penitencia no debe ser solo interna e individual, sino también externa y social.
+El sacramento de la Penitencia y de la Reconciliación fue instituido por Cristo para perdonar los pecados cometidos después del Bautismo (§1422, §1446). El CEC distingue cinco nombres: sacramento de conversión, de la penitencia, de la confesión, del perdón, y de reconciliación (§1423-1424).
+
+Actos del penitente: contrición (dolor del alma), confesión de los pecados al sacerdote, y satisfacción (§1450-1460). La contrición perfecta brota del amor de Dios; perdona las faltas veniales y obtiene el perdón de los pecados mortales si comprende la firme resolución de recurrir a la confesión sacramental (§1452). La contrición imperfecta (atrición) dispone a obtener el perdón en el sacramento (§1453).
+
+Los obispos y presbíteros tienen el poder de perdonar los pecados en nombre de Cristo (§1461). El secreto sacramental (sigilo) es absoluto (§1467). La indulgencia es la remisión ante Dios de la pena temporal por los pecados, que el fiel obtiene por mediación de la Iglesia, la cual distribuye el tesoro de las satisfacciones de Cristo y de los santos (§1471-1479).
 
 ### Según el Código de Derecho Canónico (CIC)
 
@@ -73,13 +77,9 @@ El CIC regula el sacramento de la penitencia en los cánones 959-997. En él, lo
 
 Además del sacramento (regulado en cc. 959-997), el CIC trata la penitencia como remedio penal en el Libro VI. Las sanciones penales en la Iglesia incluyen penas medicinales o censuras, penas expiatorias, y también remedios penales y penitencias (c. 1312 §3). Estos últimos se emplean para prevenir delitos o para aplicarse en lugar de una pena o para aumentarla. La penitencia, que puede imponerse en el fuero externo, consiste en tener que hacer una obra de religión, de piedad o de caridad (c. 1340 §1). Nunca se imponga una penitencia pública por una transgresión oculta (c. 1340 §2). El Ordinario puede añadir penitencias al remedio penal de la amonestación o de la reprensión (c. 1340 §3). Cuando el delito ha sido cometido con imputabilidad disminuida (uso imperfecto de razón, miedo, pasión, etc.), el juez debe atenuar la pena o emplear una penitencia en su lugar (c. 1324 §1). Si el reo se ha enmendado, el juez puede abstenerse de imponer la pena e imponer una penitencia (c. 1344, 2º). El confesor que remite una censura puede imponer una penitencia conveniente (c. 1357 §2, c. 1358 §2).
 
-### Según el Catecismo (CEC)
+### Según el Concilio Vaticano II (ConcVatII)
 
-El sacramento de la Penitencia y de la Reconciliación fue instituido por Cristo para perdonar los pecados cometidos después del Bautismo (§1422, §1446). El CEC distingue cinco nombres: sacramento de conversión, de la penitencia, de la confesión, del perdón, y de reconciliación (§1423-1424).
-
-Actos del penitente: contrición (dolor del alma), confesión de los pecados al sacerdote, y satisfacción (§1450-1460). La contrición perfecta brota del amor de Dios; perdona las faltas veniales y obtiene el perdón de los pecados mortales si comprende la firme resolución de recurrir a la confesión sacramental (§1452). La contrición imperfecta (atrición) dispone a obtener el perdón en el sacramento (§1453).
-
-Los obispos y presbíteros tienen el poder de perdonar los pecados en nombre de Cristo (§1461). El secreto sacramental (sigilo) es absoluto (§1467). La indulgencia es la remisión ante Dios de la pena temporal por los pecados, que el fiel obtiene por mediación de la Iglesia, la cual distribuye el tesoro de las satisfacciones de Cristo y de los santos (§1471-1479).
+*Sacrosanctum Concilium* 72 ordena la revisión del rito y las fórmulas de la penitencia «de manera que expresen más claramente la naturaleza y efecto del sacramento». SC 109-110, al tratar del tiempo cuaresmal, subraya la penitencia como preparación para el misterio pascual, y señala que la penitencia no debe ser solo interna e individual, sino también externa y social.
 
 ### Según Royo Marín (TPCr)
 

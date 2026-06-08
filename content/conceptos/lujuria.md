@@ -13,6 +13,9 @@ La lujuria es el vicio más vil y degradante de todos cuantos se pueden cometer,
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+«La lujuria es un deseo o un goce desordenados del placer venéreo. El placer sexual es moralmente desordenado cuando es buscado por sí mismo, separado de las finalidades de procreación y de unión» (§2351). Es uno de los siete pecados capitales (§1866). Entre los pecados gravemente contrarios a la castidad se citan la masturbación, la fornicación, la pornografía y las prácticas homosexuales (§2396).
 ### Según Royo Marín (TPCr)
 
 La lujuria es el más brutal y peligroso de los apetitos del sentido del tacto. Subvierte por completo los sentidos y aparta los ojos del alma del cielo. El desorden en esta materia es siempre mortal. «No solamente compromete la perfección, sino que se renuncia a la salvación».
@@ -25,9 +28,6 @@ En la lucha contra la lujuria, Royo Marín recomienda la resistencia indirecta (
 
 [TPCr, Parte III, Libro I, n.225-227; Parte III, Libro II, Cap. II, n.341, 457]
 
-### Según el Catecismo (CEC)
-
-«La lujuria es un deseo o un goce desordenados del placer venéreo. El placer sexual es moralmente desordenado cuando es buscado por sí mismo, separado de las finalidades de procreación y de unión» (§2351). Es uno de los siete pecados capitales (§1866). Entre los pecados gravemente contrarios a la castidad se citan la masturbación, la fornicación, la pornografía y las prácticas homosexuales (§2396).
 
 ## Distinciones importantes
 

@@ -15,6 +15,16 @@ La gracia santificante es el germen de la gloria: la vida eterna comienza en est
 
 ## Perspectivas por fuente
 
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás enseña que los ángeles fueron creados en gracia santificante desde el primer momento de su existencia (Iª q.62 a.3). La gracia santificante es, respecto a la bienaventuranza, lo que la razón seminal respecto a su efecto natural; por eso en 1 Jn 3,9 la gracia es llamada «simiente de Dios». La inclinación de la gracia no impone necesidad, sino que quien la posee puede no usarla y pecar (el modo de la naturaleza intelectual es tender libremente). Sin la gracia habitual no hay mérito alguno; los ángeles merecieron la bienaventuranza por un acto informado por la gracia (q.62 a.4). La gracia imperfecta es principio del merecer; la gracia consumada, principio del gozar (q.62 a.5). Véase [[perfección_angélica_en_gracia_y_gloria]].
+
+**Iª q.95 a.1 — El primer hombre fue creado en gracia:** La rectitud del estado primitivo —en que la razón estaba sometida a Dios, las potencias inferiores a la razón, y el cuerpo al alma— exigía la gracia como don sobrenatural. La sumisión de la razón a Dios no era natural sino por la gracia, pues de ser natural hubiera permanecido tras el pecado. «Una vez destituida el alma de la gracia divina, se avergonzaron de la desnudez de su cuerpo, pues sintieron en su carne un movimiento de desobediencia» (q.95 a.1).
+
+**Iª q.95 a.4 — Obras más meritorias en el estado de inocencia:** Considerada la raíz de la caridad y la gracia, las obras del primer hombre fueron más meritorias que las posteriores al pecado, por ser la gracia más abundante al no oponérsele obstáculo natural alguno. También en cantidad absoluta eran más meritorias por ser el hombre más virtuoso. Solo en cantidad proporcional (dificultad) son mayores las obras tras el pecado (q.95 a.4).
+
+[TPCr, Parte II, Cap. 1]
+
 ### Según Royo Marín (TPCr)
 
 Royo Marín dedica todo el capítulo primero de la Segunda Parte a la gracia santificante como fundamento del organismo sobrenatural. La gracia santificante es una participación real y formal de la naturaleza divina, que constituye al alma en estado de justificación y amistad con Dios.
@@ -26,16 +36,6 @@ Royo Marín distingue:
 - **Gracia actual**: el auxilio transitorio que Dios da para obrar actos sobrenaturales.
 
 La gracia santificante es «raíz y fuente» de todas las virtudes infusas y dones del Espíritu Santo, que son como las facultades operativas que proceden de ella.
-
-### Según la Summa Theologiae (SmTh)
-
-Santo Tomás enseña que los ángeles fueron creados en gracia santificante desde el primer momento de su existencia (Iª q.62 a.3). La gracia santificante es, respecto a la bienaventuranza, lo que la razón seminal respecto a su efecto natural; por eso en 1 Jn 3,9 la gracia es llamada «simiente de Dios». La inclinación de la gracia no impone necesidad, sino que quien la posee puede no usarla y pecar (el modo de la naturaleza intelectual es tender libremente). Sin la gracia habitual no hay mérito alguno; los ángeles merecieron la bienaventuranza por un acto informado por la gracia (q.62 a.4). La gracia imperfecta es principio del merecer; la gracia consumada, principio del gozar (q.62 a.5). Véase [[perfección_angélica_en_gracia_y_gloria]].
-
-**Iª q.95 a.1 — El primer hombre fue creado en gracia:** La rectitud del estado primitivo —en que la razón estaba sometida a Dios, las potencias inferiores a la razón, y el cuerpo al alma— exigía la gracia como don sobrenatural. La sumisión de la razón a Dios no era natural sino por la gracia, pues de ser natural hubiera permanecido tras el pecado. «Una vez destituida el alma de la gracia divina, se avergonzaron de la desnudez de su cuerpo, pues sintieron en su carne un movimiento de desobediencia» (q.95 a.1).
-
-**Iª q.95 a.4 — Obras más meritorias en el estado de inocencia:** Considerada la raíz de la caridad y la gracia, las obras del primer hombre fueron más meritorias que las posteriores al pecado, por ser la gracia más abundante al no oponérsele obstáculo natural alguno. También en cantidad absoluta eran más meritorias por ser el hombre más virtuoso. Solo en cantidad proporcional (dificultad) son mayores las obras tras el pecado (q.95 a.4).
-
-[TPCr, Parte II, Cap. 1]
 
 ### Según Para Salvarte (PS)
 

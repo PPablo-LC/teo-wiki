@@ -27,13 +27,13 @@ La definición contiene tres elementos esenciales:
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC §2014-2016 trata de la perfección de la caridad y la unión con Dios. La inhabitación de la Santísima Trinidad en el alma justa (§260) es la base teológica de la unión transformante.
 ### Según Royo Marín (TPCr)
 
 La unión transformante es el término de la noche del espíritu. San Juan de la Cruz afirma que este estado nunca acaece sin que el alma esté confirmada en gracia, al menos con certeza moral (n.593). Santa Teresa, más cauta, habla con reservas sobre esta confirmación.
 
-### Según el Catecismo (CEC)
-
-El CEC §2014-2016 trata de la perfección de la caridad y la unión con Dios. La inhabitación de la Santísima Trinidad en el alma justa (§260) es la base teológica de la unión transformante.
 
 ## Distinciones importantes
 

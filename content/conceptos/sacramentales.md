@@ -15,15 +15,15 @@ Entre los sacramentales se incluyen: las bendiciones (de personas, lugares, obje
 
 ## Perspectivas por fuente
 
-### Según el Código de Derecho Canónico (CIC)
-
-El CIC regula los sacramentales en los cánones 1166-1172. Los sacramentales son signos sagrados por los que, a imitación en cierto modo de los sacramentos, se significan y obtienen por intercesión de la Iglesia efectos principalmente espirituales (c. 1166). Solo la Sede Apostólica puede establecer nuevos sacramentales, interpretar auténticamente los existentes y suprimir o modificar alguno (c. 1167 §1). Es ministro de los sacramentales el clérigo provisto de la debida potestad; pero algunos pueden ser administrados también por laicos con las debidas cualidades, según los libros litúrgicos (c. 1168). Las consagraciones y dedicaciones solo pueden realizarlas válidamente quienes gozan del carácter episcopal, y aquellos presbíteros a quienes lo permita el derecho (c. 1169 §1). Cualquier presbítero puede impartir bendiciones, salvo las reservadas al Romano Pontífice o a los Obispos; el diácono solo las que el derecho le permite expresamente (c. 1169 §2-3). Las bendiciones se han de impartir principalmente a los católicos, pero pueden darse también a catecúmenos y no católicos (c. 1170). Las cosas sagradas destinadas al culto por dedicación o bendición deben tratarse con reverencia (c. 1171). Sin licencia peculiar y expresa del Ordinario del lugar, nadie puede realizar legítimamente exorcismos sobre los posesos (c. 1172 §1).
-
 ### Según el Catecismo (CEC)
 
 El Catecismo dedica los artículos §1667-1679 a los sacramentales. La Iglesia los ha instituido «para la santificación de ciertos ministerios de la Iglesia, de ciertos estados de vida, de circunstancias muy variadas de la vida cristiana, así como del uso de cosas útiles al hombre» (§1668).
 
 Los sacramentales «no confieren la gracia del Espíritu Santo a la manera de los sacramentos, pero por la oración de la Iglesia disponen a recibir la gracia» (§1670). El Catecismo menciona entre ellos: «bendiciones, consagraciones, exorcismos, objetos bendecidos, agua bendita, etc.» (§1677-1679).
+
+### Según el Código de Derecho Canónico (CIC)
+
+El CIC regula los sacramentales en los cánones 1166-1172. Los sacramentales son signos sagrados por los que, a imitación en cierto modo de los sacramentos, se significan y obtienen por intercesión de la Iglesia efectos principalmente espirituales (c. 1166). Solo la Sede Apostólica puede establecer nuevos sacramentales, interpretar auténticamente los existentes y suprimir o modificar alguno (c. 1167 §1). Es ministro de los sacramentales el clérigo provisto de la debida potestad; pero algunos pueden ser administrados también por laicos con las debidas cualidades, según los libros litúrgicos (c. 1168). Las consagraciones y dedicaciones solo pueden realizarlas válidamente quienes gozan del carácter episcopal, y aquellos presbíteros a quienes lo permita el derecho (c. 1169 §1). Cualquier presbítero puede impartir bendiciones, salvo las reservadas al Romano Pontífice o a los Obispos; el diácono solo las que el derecho le permite expresamente (c. 1169 §2-3). Las bendiciones se han de impartir principalmente a los católicos, pero pueden darse también a catecúmenos y no católicos (c. 1170). Las cosas sagradas destinadas al culto por dedicación o bendición deben tratarse con reverencia (c. 1171). Sin licencia peculiar y expresa del Ordinario del lugar, nadie puede realizar legítimamente exorcismos sobre los posesos (c. 1172 §1).
 
 ### Según Royo Marín (TPCr)
 

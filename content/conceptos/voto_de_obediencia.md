@@ -13,6 +13,18 @@ La obediencia religiosa es un verdadero holocausto ofrecido a Dios. Por la pobre
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La obediencia es uno de los consejos evangélicos que caracterizan la vida consagrada (§915). Jesús es el modelo perfecto de obediencia: «Se hizo obediente hasta la muerte y muerte de cruz» (Flp 2,8). En la vida religiosa, el voto de obediencia es una participación en la obediencia redentora de Cristo.
+
+### Según el Código de Derecho Canónico (CIC)
+
+El voto de obediencia, regulado en el c. 601, obliga al religioso a someter la propia voluntad a los superiores legítimos, que hacen las veces de Dios, según la regla y constituciones del instituto. La obediencia religiosa no se extiende a lo que es manifiestamente contrario a la ley divina o a la regla (c. 590 §2, 601). Los superiores deben usar su autoridad con espíritu de servicio, respetando la dignidad de los súbditos (c. 618). Los súbditos deben obedecer con prontitud y humildad, sin perjuicio del derecho de manifestar sus necesidades (c. 618). La obediencia al Romano Pontífice obliga a todos los fieles, incluidos los religiosos (c. 273, 590 §1).
+
+### Según el Concilio Vaticano II (ConcVatII)
+
+El Decreto *Perfectae Caritatis* enseña que los religiosos, por la profesión de la obediencia, ofrecen a Dios, como sacrificio de sí mismos, la consagración completa de su propia voluntad, y mediante ella se unen de manera más constante y segura a la divina voluntad salvífica [ConcVatII, PC §14]. Siguiendo el ejemplo de Jesucristo, que «aprendió por sus padecimientos la obediencia», los religiosos, movidos por el Espíritu Santo, se someten en fe a los Superiores, que hacen las veces de Dios [ConcVatII, PC §14]. Esta obediencia religiosa no mengua en manera alguna la dignidad de la persona humana, sino que la lleva a la madurez, dilatando la libertad de los hijos de Dios [ConcVatII, PC §14]. Los Superiores deben ejercer su autoridad en espíritu de servicio, respetando la persona humana y dejando la debida libertad en lo referente al sacramento de la penitencia y a la dirección de conciencia [ConcVatII, PC §14].
+
 ### Según Royo Marín (TPCr)
 
 La obediencia es una virtud menos perfecta que las teologales, incluso inferior a la religión, que está más cerca de Dios. Pero por parte de lo que se sacrifica o inmola ante Dios, es la primera y más excelente de todas las virtudes morales.
@@ -24,18 +36,6 @@ El voto de obediencia es preferible y más excelente que el estado religioso que
 La obediencia se extiende a todo lo que el superior mande según la regla y constituciones, pero no a lo que sea manifiestamente contrario a la ley de Dios o a la regla.
 
 [TPCr, Parte III, Libro III, n.728-732; Parte III, Libro II, Cap. II, n.417]
-
-### Según el Código de Derecho Canónico (CIC)
-
-El voto de obediencia, regulado en el c. 601, obliga al religioso a someter la propia voluntad a los superiores legítimos, que hacen las veces de Dios, según la regla y constituciones del instituto. La obediencia religiosa no se extiende a lo que es manifiestamente contrario a la ley divina o a la regla (c. 590 §2, 601). Los superiores deben usar su autoridad con espíritu de servicio, respetando la dignidad de los súbditos (c. 618). Los súbditos deben obedecer con prontitud y humildad, sin perjuicio del derecho de manifestar sus necesidades (c. 618). La obediencia al Romano Pontífice obliga a todos los fieles, incluidos los religiosos (c. 273, 590 §1).
-
-### Según el Concilio Vaticano II (ConcVatII)
-
-El Decreto *Perfectae Caritatis* enseña que los religiosos, por la profesión de la obediencia, ofrecen a Dios, como sacrificio de sí mismos, la consagración completa de su propia voluntad, y mediante ella se unen de manera más constante y segura a la divina voluntad salvífica [ConcVatII, PC §14]. Siguiendo el ejemplo de Jesucristo, que «aprendió por sus padecimientos la obediencia», los religiosos, movidos por el Espíritu Santo, se someten en fe a los Superiores, que hacen las veces de Dios [ConcVatII, PC §14]. Esta obediencia religiosa no mengua en manera alguna la dignidad de la persona humana, sino que la lleva a la madurez, dilatando la libertad de los hijos de Dios [ConcVatII, PC §14]. Los Superiores deben ejercer su autoridad en espíritu de servicio, respetando la persona humana y dejando la debida libertad en lo referente al sacramento de la penitencia y a la dirección de conciencia [ConcVatII, PC §14].
-
-### Según el Catecismo (CEC)
-
-La obediencia es uno de los consejos evangélicos que caracterizan la vida consagrada (§915). Jesús es el modelo perfecto de obediencia: «Se hizo obediente hasta la muerte y muerte de cruz» (Flp 2,8). En la vida religiosa, el voto de obediencia es una participación en la obediencia redentora de Cristo.
 
 ### Según el Capítulo General LC-2026
 

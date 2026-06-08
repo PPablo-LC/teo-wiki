@@ -13,10 +13,6 @@ Los santuarios son centros de peregrinación donde la Iglesia manifiesta su pied
 
 ## Perspectivas por fuente
 
-### Según el CIC
-
-El c. 1230 define el santuario como «una iglesia u otro lugar sagrado al que los fieles acuden en peregrinación por un motivo particular de piedad, con la aprobación del Ordinario del lugar». Los santuarios pueden ser diocesanos, nacionales o internacionales (c. 1231). Corresponde al Obispo diocesano erigir los santuarios diocesanos; la Conferencia Episcopal, los nacionales; y la Santa Sede, los internacionales (c. 1231). En los santuarios se deben ofrecer con generosidad los medios de salvación mediante la predicación de la Palabra, el fomento de la vida litúrgica y la administración de los sacramentos (c. 1234 §1). Los santuarios pueden poseer tesoros de arte e historia que deben ser conservados como patrimonio cultural eclesial (c. 1234 §2). Los rectores de los santuarios están sujetos al Ordinario del lugar (c. 1232-1233).
-
 ### Según el Catecismo (CEC)
 
 Los santuarios son los lugares donde la piedad popular se expresa con especial intensidad (CEC §1674). Las peregrinaciones a los santuarios «evocan nuestro caminar hacia el cielo» (CEC §2691). Las advocaciones marianas, especialmente en los santuarios dedicados a la Virgen, manifiestan la dimensión peregrinante del Pueblo de Dios y la devoción a María como Madre y modelo de la Iglesia (CEC §972). Las peregrinaciones constituyen un elemento propio de la piedad popular que la Iglesia valora y fomenta (CEC §1674-1676).
@@ -24,6 +20,10 @@ Los santuarios son los lugares donde la piedad popular se expresa con especial i
 ### Según el Concilio Vaticano II (ConcVatII)
 
 *Sacrosanctum Concilium* menciona la importancia de las peregrinaciones como expresión de la piedad cristiana (SC §124). Los santuarios deben ser lugares donde la liturgia se celebre dignamente y se fomente la participación activa de los fieles (SC §124).
+### Según el CIC
+
+El c. 1230 define el santuario como «una iglesia u otro lugar sagrado al que los fieles acuden en peregrinación por un motivo particular de piedad, con la aprobación del Ordinario del lugar». Los santuarios pueden ser diocesanos, nacionales o internacionales (c. 1231). Corresponde al Obispo diocesano erigir los santuarios diocesanos; la Conferencia Episcopal, los nacionales; y la Santa Sede, los internacionales (c. 1231). En los santuarios se deben ofrecer con generosidad los medios de salvación mediante la predicación de la Palabra, el fomento de la vida litúrgica y la administración de los sacramentos (c. 1234 §1). Los santuarios pueden poseer tesoros de arte e historia que deben ser conservados como patrimonio cultural eclesial (c. 1234 §2). Los rectores de los santuarios están sujetos al Ordinario del lugar (c. 1232-1233).
+
 
 ## Distinciones importantes
 

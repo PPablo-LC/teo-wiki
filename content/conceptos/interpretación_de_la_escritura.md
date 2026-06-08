@@ -24,13 +24,13 @@ Según una antigua tradición, se distinguen dos sentidos: el literal y el espir
 
 ## Perspectivas por fuente
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-*Dei Verbum* 12 establece las reglas fundamentales para la interpretación de la Escritura. Hay que atender a los géneros literarios, investigar la intención del hagiógrafo según su tiempo y cultura, y la Escritura debe leerse e interpretarse «con el mismo Espíritu con que se escribió». Para ello hay que atender al contenido y a la unidad de toda la Sagrada Escritura, a la Tradición viva de toda la Iglesia y a la analogía de la fe. Todo lo referente a la interpretación de la Sagrada Escritura está sometido en última instancia a la Iglesia, que tiene el mandato divino de conservar e interpretar la palabra de Dios.
-
 ### Según el Catecismo (CEC)
 
 El CEC subraya que la interpretación de la Escritura queda sometida al juicio definitivo de la Iglesia, que recibió de Dios el encargo de conservar e interpretar la Palabra de Dios (§119). Cita a San Agustín: «No creería en el Evangelio si no me moviera a ello la autoridad de la Iglesia católica».
+
+### Según el Concilio Vaticano II (ConcVatII)
+
+*Dei Verbum* 12 establece las reglas fundamentales para la interpretación de la Escritura. Hay que atender a los géneros literarios, investigar la intención del hagiógrafo según su tiempo y cultura, y la Escritura debe leerse e interpretarse «con el mismo Espíritu con que se escribió». Para ello hay que atender al contenido y a la unidad de toda la Sagrada Escritura, a la Tradición viva de toda la Iglesia y a la analogía de la fe. Todo lo referente a la interpretación de la Sagrada Escritura está sometido en última instancia a la Iglesia, que tiene el mandato divino de conservar e interpretar la palabra de Dios.
 
 ### Según Raymond Brown (HEB)
 

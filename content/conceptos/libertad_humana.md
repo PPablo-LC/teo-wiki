@@ -17,13 +17,13 @@ Cristo, por su Cruz, obtuvo la salvación y nos libertó «para ser libres» (§
 
 ## Perspectivas por fuente
 
-### Según el Compendio (CompDS)
-
-El hombre puede dirigirse hacia el bien solo en la libertad, que Dios le ha dado como signo eminente de su imagen [CompDS §135]. La libertad no se opone a la dependencia creatural del hombre respecto a Dios; el poder de determinar el bien y el mal pertenece solo a Dios [CompDS §136]. El recto ejercicio de la libertad exige condiciones económicas, sociales, jurídicas, políticas y culturales; al apartarse de la ley moral, el hombre encadena su propia libertad [CompDS §137]. En el ejercicio de la libertad, el hombre realiza actos moralmente buenos cuando obedece a la verdad [CompDS §138]. La libertad del hombre necesita ser liberada; Cristo, con su misterio pascual, libera al hombre del amor desordenado de sí mismo y revela que la libertad se realiza en el don de sí mismo [CompDS §143].
-
 ### Según el Catecismo (CEC)
 
 «La gracia de Cristo no se opone de ninguna manera a nuestra libertad cuando ésta corresponde al sentido de la verdad y del bien que Dios ha puesto en el corazón del hombre» (§1742). Es falso concebir al hombre como «individuo autosuficiente que busca la satisfacción de su interés propio» (§1740, citando a Juan Pablo II).
+
+### Según el Compendio (CompDS)
+
+El hombre puede dirigirse hacia el bien solo en la libertad, que Dios le ha dado como signo eminente de su imagen [CompDS §135]. La libertad no se opone a la dependencia creatural del hombre respecto a Dios; el poder de determinar el bien y el mal pertenece solo a Dios [CompDS §136]. El recto ejercicio de la libertad exige condiciones económicas, sociales, jurídicas, políticas y culturales; al apartarse de la ley moral, el hombre encadena su propia libertad [CompDS §137]. En el ejercicio de la libertad, el hombre realiza actos moralmente buenos cuando obedece a la verdad [CompDS §138]. La libertad del hombre necesita ser liberada; Cristo, con su misterio pascual, libera al hombre del amor desordenado de sí mismo y revela que la libertad se realiza en el don de sí mismo [CompDS §143].
 
 ### Según el Compendio (CompDS)
 

@@ -15,6 +15,17 @@ Los consejos remueven los principales obstáculos para la perfección de la cari
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+«Los consejos evangélicos están propuestos en su multiplicidad a todos los discípulos de Cristo. La perfección de la caridad a la cual son llamados todos los fieles implica, para quienes asumen libremente el llamamiento a la vida consagrada, la obligación de practicar la castidad en el celibato por el Reino, la pobreza y la obediencia» (§915). «La profesión de estos consejos en un estado de vida estable reconocido por la Iglesia es lo que caracteriza la vida consagrada a Dios» (§916).
+### Según el Código de Derecho Canónico (CIC)
+
+Los consejos evangélicos —castidad consagrada a Dios, pobreza y obediencia— practicados mediante votos u otros vínculos sagrados, constituyen la base de la vida consagrada (c. 573 §1, 599-601). La castidad consagrada es signo del mundo futuro y fuente de fecundidad espiritual (c. 599). La pobreza voluntaria implica vida pobre y dependencia del superior (c. 600). La obediencia somete la voluntad al superior legítimo en conformidad con la regla (c. 601). No todo fiel está obligado a practicar los consejos mediante votos, pero la Iglesia los propone como camino de perfección de la caridad (c. 575).
+
+### Según el Concilio Vaticano II (ConcVatII)
+
+El Decreto *Perfectae Caritatis* enseña que la prosecución de la caridad perfecta por la práctica de los [[consejos_evangélicos]] tiene su origen en la doctrina y en los ejemplos del Divino Maestro y se presenta como preclaro signo del Reino de los cielos [ConcVatII, PC §1]. Los consejos evangélicos —[[voto_de_castidad|castidad]], [[voto_de_pobreza|pobreza]] y [[voto_de_obediencia|obediencia]]— constituyen la base de la vida consagrada [ConcVatII, PC §1]. Quienes los profesan se consagran de modo particular al Señor, siguiendo a Cristo, que fue virgen, pobre y obediente (PC §1). La renovación de la vida religiosa debe tener como regla suprema el seguimiento de Cristo según el Evangelio [ConcVatII, PC §2a]. *Lumen Gentium* enseña que los consejos evangélicos, «aunque diferentes en cada Instituto, contribuyen mucho a la santidad de los hijos de Dios» [ConcVatII, LG §43].
+
 ### Según Royo Marín (TPCr)
 
 Los consejos evangélicos son aquellos que no nos obligan a todos. Nadie está estrictamente obligado a abrazar la vida religiosa, donde se practican de manera oficial. Pero es preciso distinguir entre la práctica efectiva (pobreza, castidad y obediencia con votos) y la práctica afectiva (el espíritu de los consejos), que obliga absolutamente a todos.
@@ -25,17 +36,6 @@ La práctica de los consejos evangélicos constituye un verdadero holocausto ofr
 
 [TPCr, Parte II, n.171; Parte III, Libro III, n.728]
 
-### Según el Código de Derecho Canónico (CIC)
-
-Los consejos evangélicos —castidad consagrada a Dios, pobreza y obediencia— practicados mediante votos u otros vínculos sagrados, constituyen la base de la vida consagrada (c. 573 §1, 599-601). La castidad consagrada es signo del mundo futuro y fuente de fecundidad espiritual (c. 599). La pobreza voluntaria implica vida pobre y dependencia del superior (c. 600). La obediencia somete la voluntad al superior legítimo en conformidad con la regla (c. 601). No todo fiel está obligado a practicar los consejos mediante votos, pero la Iglesia los propone como camino de perfección de la caridad (c. 575).
-
-### Según el Concilio Vaticano II (ConcVatII)
-
-El Decreto *Perfectae Caritatis* enseña que la prosecución de la caridad perfecta por la práctica de los [[consejos_evangélicos]] tiene su origen en la doctrina y en los ejemplos del Divino Maestro y se presenta como preclaro signo del Reino de los cielos [ConcVatII, PC §1]. Los consejos evangélicos —[[voto_de_castidad|castidad]], [[voto_de_pobreza|pobreza]] y [[voto_de_obediencia|obediencia]]— constituyen la base de la vida consagrada [ConcVatII, PC §1]. Quienes los profesan se consagran de modo particular al Señor, siguiendo a Cristo, que fue virgen, pobre y obediente (PC §1). La renovación de la vida religiosa debe tener como regla suprema el seguimiento de Cristo según el Evangelio [ConcVatII, PC §2a]. *Lumen Gentium* enseña que los consejos evangélicos, «aunque diferentes en cada Instituto, contribuyen mucho a la santidad de los hijos de Dios» [ConcVatII, LG §43].
-
-### Según el Catecismo (CEC)
-
-«Los consejos evangélicos están propuestos en su multiplicidad a todos los discípulos de Cristo. La perfección de la caridad a la cual son llamados todos los fieles implica, para quienes asumen libremente el llamamiento a la vida consagrada, la obligación de practicar la castidad en el celibato por el Reino, la pobreza y la obediencia» (§915). «La profesión de estos consejos en un estado de vida estable reconocido por la Iglesia es lo que caracteriza la vida consagrada a Dios» (§916).
 
 ## Distinciones importantes
 

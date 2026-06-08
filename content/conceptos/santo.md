@@ -15,6 +15,10 @@ En el Nuevo Testamento, los cristianos son llamados «santos» (Rom 1,7; 1 Cor 1
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+Dios es Santo y la Iglesia es el «Pueblo santo de Dios» (CEC §84, §93, §171). La «comunión de los santos» expresa la unión espiritual entre la Iglesia celestial y la peregrinante (§946-§962). Los santos del Antiguo Testamento son venerados en todas las tradiciones litúrgicas (§61). La liturgia celestial muestra la asamblea de los santos, los mártires y la Virgen María (§1138). La vocación universal a la santidad se funda en el Bautismo (§823-§829).
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 Dios es el Santo por excelencia. El triple «santo» del Serafín en Is 6,3 expresa la plenitud infinita de la santidad divina. Oseas llama a Dios «el Santo en medio de ti» (Os 11,9). La santidad de Dios se manifiesta en su justicia salvadora y en su amor fiel.
@@ -22,10 +26,6 @@ Dios es el Santo por excelencia. El triple «santo» del Serafín en Is 6,3 expr
 Las cosas santas lo son por su relación con Dios: el templo, el altar, el sábado, la tierra prometida. El pueblo es santo por la Alianza: «Vosotros me seréis un reino de sacerdotes y una nación santa» (Éx 19,6). Los profetas denuncian la ilusión de una santidad puramente exterior sin justicia interior.
 
 En el NT, Jesús es el Santo de Dios (Mc 1,24; Jn 6,69). Los cristianos son santificados en Cristo Jesús (1 Cor 1,2). La santidad se realiza por la inhabitación del Espíritu Santo, que hace del cuerpo del cristiano un templo santo (1 Cor 6,19). El pueblo de Dios es «linaje escogido, sacerdocio real, nación santa» (1 Pe 2,9). La santidad no es privilegio de algunos, sino vocación universal: «Sed santos en toda vuestra conducta» (1 Pe 1,15).
-
-### Según el Catecismo (CEC)
-
-Dios es Santo y la Iglesia es el «Pueblo santo de Dios» (CEC §84, §93, §171). La «comunión de los santos» expresa la unión espiritual entre la Iglesia celestial y la peregrinante (§946-§962). Los santos del Antiguo Testamento son venerados en todas las tradiciones litúrgicas (§61). La liturgia celestial muestra la asamblea de los santos, los mártires y la Virgen María (§1138). La vocación universal a la santidad se funda en el Bautismo (§823-§829).
 
 ### Según Royo Marín (TPCr)
 

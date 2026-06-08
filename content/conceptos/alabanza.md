@@ -17,13 +17,13 @@ La alabanza es la forma más desinteresada de oración, pues no pide bienes ni p
 
 La alabanza es «la forma de oración que reconoce de la manera más inmediata que Dios es Dios. Le canta por Él mismo, le da gloria no por lo que hace sino por lo que Él es» (CEC §2639). La alabanza participa de la bienaventuranza de los corazones puros que le ven aun antes de llegar a la visión beatífica (CEC §2640). Los salmos son el libro de la alabanza por excelencia (CEC §2641). El Apocalipsis presenta la liturgia celestial como alabanza perpetua (CEC §2642-2643).
 
-### Según Royo Marín (TPCr)
-
-TPCr trata la alabanza como parte de la oración vocal y de la virtud de la religión. La alabanza es un acto de la virtud de la religión que reconoce la excelencia divina. Se distingue de la acción de gracias en que esta agradece los beneficios recibidos, mientras que la alabanza glorifica a Dios por lo que Él es.
-
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 La alabanza en el AT está indisolublemente unida a la acción de gracias, como muestra la fórmula típica *halelu-Yah* («alabad a Yahveh») en los Salmos y los relatos de acción de gracias. La originalidad del NT está en que Jesucristo es el objeto de la alabanza: la Iglesia primitiva alaba a Dios por las obras realizadas en su Hijo. La alabanza cristiana es esencialmente trinitaria y eclesial, culmina en la liturgia y se expresa también en el canto de los salmos y la predicación de la Palabra [VocTeoBib, «Alabanza»].
+
+### Según Royo Marín (TPCr)
+
+TPCr trata la alabanza como parte de la oración vocal y de la virtud de la religión. La alabanza es un acto de la virtud de la religión que reconoce la excelencia divina. Se distingue de la acción de gracias en que esta agradece los beneficios recibidos, mientras que la alabanza glorifica a Dios por lo que Él es.
 
 ### Según el Regnum Christi / Legión de Cristo (LC-CARISMAS-2023)
 

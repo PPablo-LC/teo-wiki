@@ -38,6 +38,11 @@ A la templanza: [[castidad]], [[humildad]], [[mansedumbre]], [[modestia]], [[abs
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+«Las virtudes humanas son actitudes firmes, disposiciones estables, perfecciones habituales del entendimiento y de la voluntad que regulan nuestros actos, ordenan nuestras pasiones y guían nuestra conducta según la razón y la fe» (§1804). «Las virtudes humanas se adquieren mediante la educación, mediante actos deliberados y mediante una perseverancia siempre renovada en el esfuerzo» (§1803).
+
+Las virtudes teologales son el fundamento de la vida moral cristiana (§1813): «Infundidas por Dios en el alma de los fieles para hacerlos capaces de obrar como hijos suyos y merecer la vida eterna» (§1813).
 ### Según Royo Marín (TPCr)
 
 Las virtudes infusas, junto con los dones del Espíritu Santo, constituyen el organismo sobrenatural del alma. Las virtudes morales infusas perfeccionan el orden de los medios hacia el fin sobrenatural, regulando las pasiones y acciones humanas según la recta razón iluminada por la fe.
@@ -46,11 +51,6 @@ Las virtudes infusas crecen con el aumento de la gracia santificante y se pierde
 
 [TPCr, Parte II, Cap. 2]
 
-### Según el Catecismo (CEC)
-
-«Las virtudes humanas son actitudes firmes, disposiciones estables, perfecciones habituales del entendimiento y de la voluntad que regulan nuestros actos, ordenan nuestras pasiones y guían nuestra conducta según la razón y la fe» (§1804). «Las virtudes humanas se adquieren mediante la educación, mediante actos deliberados y mediante una perseverancia siempre renovada en el esfuerzo» (§1803).
-
-Las virtudes teologales son el fundamento de la vida moral cristiana (§1813): «Infundidas por Dios en el alma de los fieles para hacerlos capaces de obrar como hijos suyos y merecer la vida eterna» (§1813).
 
 ## Ver también
 

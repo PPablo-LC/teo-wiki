@@ -17,13 +17,13 @@ El amor a Dios es el mandamiento primero y principal (Dt 6,5; Mt 22,37-38; CEC �
 
 El amor a Dios es el primer mandamiento: «Amarás al Señor tu Dios con todo tu corazón, con toda tu alma, con toda tu mente» (§2083, §1822). Los diez mandamientos se resumen en el amor a Dios y al prójimo (§2055). La caridad es la virtud teologal por la que amamos a Dios sobre todas las cosas (§1822). La caridad es superior a la fe y la esperanza (§1827). «Dios es Amor» (1 Jn 4,8) y el amor procede de Dios (§221, §733). El Espíritu Santo difunde la caridad en nuestros corazones (§1825, §733).
 
-### Según Royo Marín (TPCr)
-
-La caridad es amor de amistad con Dios y constituye la esencia de la perfección cristiana. Hay tres grados de caridad: incipiente (principiantes), progresante (proficientes) y perfecta (perfectos), que corresponden a las tres vías: purgativa, iluminativa y unitiva. La caridad perfecta se caracteriza por el deseo intenso de la unión con Dios. Cuanto más se ama a Dios, más se participa de su vida divina (TPCr, Tercera Parte, Libro II).
-
 ### Según Santo Tomás (SmTh)
 
 La caridad es amistad del hombre con Dios (II-II q.23 a.1). El objeto de la caridad es Dios (II-II q.25 a.1-2). La caridad es la más excelente de las virtudes (I-II q.62 a.2). La ley nueva es principalmente la gracia del Espíritu Santo que se infunde en los corazones para amar a Dios.
+
+### Según Royo Marín (TPCr)
+
+La caridad es amor de amistad con Dios y constituye la esencia de la perfección cristiana. Hay tres grados de caridad: incipiente (principiantes), progresante (proficientes) y perfecta (perfectos), que corresponden a las tres vías: purgativa, iluminativa y unitiva. La caridad perfecta se caracteriza por el deseo intenso de la unión con Dios. Cuanto más se ama a Dios, más se participa de su vida divina (TPCr, Tercera Parte, Libro II).
 
 ### Según la doctrina de Para Salvarte (PS)
 

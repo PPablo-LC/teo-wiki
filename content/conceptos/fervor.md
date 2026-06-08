@@ -37,15 +37,15 @@ El fervor no debe confundirse con la devoción sensible o los consuelos espiritu
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC §2732 enseña que el combate de la oración requiere «vigilancia y fervor» para superar las dificultades. La perseverancia en la oración es signo de fervor. El CEC §1434-1435 menciona el fervor como disposición para la penitencia y la renovación espiritual.
 ### Según Royo Marín (TPCr)
 
 Royo Marín dedica un capítulo entero a la tibieza y mediocridad (n.258-290), que son la ausencia de fervor. El fervor de la caridad crece con la pureza del corazón y la fidelidad a la gracia. «Si estos religiosos procuraran la pureza del corazón, el fervor de la caridad crecería en ellos más y más» (cita al P. Lallemant, n.290).
 
 Las almas fervorosas son las que corresponden a las cuartas moradas de Santa Teresa: firmeza en evitar el pecado, comunión diaria con fervorosa preparación, fidelidad a la oración a pesar de las arideces (n.192). El fervor es el motor que impulsa al alma desde la vía purgativa hasta la vía unitiva.
 
-### Según el Catecismo (CEC)
-
-El CEC §2732 enseña que el combate de la oración requiere «vigilancia y fervor» para superar las dificultades. La perseverancia en la oración es signo de fervor. El CEC §1434-1435 menciona el fervor como disposición para la penitencia y la renovación espiritual.
 
 ## Distinciones importantes
 

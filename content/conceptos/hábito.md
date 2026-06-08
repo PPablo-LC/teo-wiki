@@ -17,10 +17,6 @@ El hábito es una cualidad del alma que modifica establemente las potencias oper
 
 El CEC define las virtudes como «disposiciones permanentes del alma» (§1804) y señala que las virtudes humanas son hábitos adquiridos, mientras que las virtudes teologales y los dones del Espíritu Santo son hábitos infusos (§1833). La gracia santificante dispone al alma para recibir estos hábitos sobrenaturales.
 
-### Según Royo Marín (TPCr)
-
-Royo Marín dedica la Parte 2 al organismo sobrenatural, donde expone la doctrina tomista del hábito. El hábito se distingue de la potencia y del acto: la potencia es la capacidad de obrar; el hábito es la disposición que perfecciona esa capacidad; el acto es el ejercicio de la misma. Las virtudes infusas son hábitos sobrenaturales que se reciben con la [[gracia_santificante]] y que perfeccionan las facultades del alma para obrar actos sobrenaturalmente meritorios.
-
 ### Según la Summa Theologiae (SmTh)
 
 **Naturaleza del hábito (Iª-IIae q.49):** Santo Tomás sitúa los hábitos como principios intrínsecos de los actos humanos, tras el tratado de los actos y las pasiones (prólogo q.49). El hábito es una cualidad (a.1): no es el predicamento «hábito» (que media entre el que tiene y lo tenido), sino una cualidad en cuanto disposición por la cual el sujeto está bien o mal dispuesto en sí mismo o en orden a otra cosa. Pertenece a la primera especie de cualidad (a.2): las demás especies (potencia, cualidad pasible, figura) se distinguen porque en el hábito se considera el bien y el mal por orden a la naturaleza como fin. El hábito importa orden al acto (a.3): es acto primero respecto de la operación como acto segundo, pues la naturaleza del sujeto se ordena a la operación como a su fin. El hábito es necesario (a.4): se requiere cuando el sujeto está en potencia para muchas cosas, puede ser determinado de diversos modos, y concurren muchos elementos que deben conmensurarse. En Dios, acto puro, no hay hábitos; en los cuerpos celestes, determinados a un único movimiento, tampoco; en el hombre, cuya alma puede obrar de diversos modos, los hábitos son necesarios.
@@ -36,6 +32,10 @@ Royo Marín dedica la Parte 2 al organismo sobrenatural, donde expone la doctrin
 **Distinción de los hábitos (Iª-IIae q.54):** Pueden existir varios hábitos en una misma potencia (a.1), porque la potencia pasiva puede ser determinada a diversos actos específicos por diversos objetos. Los hábitos se distinguen específicamente por los objetos (a.2), según la razón formal del objeto y los principios activos; el fin en las virtudes cumple la función del principio en las demostraciones. También se distinguen por el bien y el mal (a.3): el hábito bueno dispone para el acto conveniente a la naturaleza del agente (conforme a la razón); el malo, para el acto disconveniente. Un mismo hábito no está constituido por muchos hábitos (a.4): es una cualidad simple que se extiende a muchos objetos bajo una razón común unitaria (la razón formal de objeto, o una naturaleza común, o un principio común).
 
 [SmTh Iª-IIae q.49-54]
+### Según Royo Marín (TPCr)
+
+Royo Marín dedica la Parte 2 al organismo sobrenatural, donde expone la doctrina tomista del hábito. El hábito se distingue de la potencia y del acto: la potencia es la capacidad de obrar; el hábito es la disposición que perfecciona esa capacidad; el acto es el ejercicio de la misma. Las virtudes infusas son hábitos sobrenaturales que se reciben con la [[gracia_santificante]] y que perfeccionan las facultades del alma para obrar actos sobrenaturalmente meritorios.
+
 
 ## Distinciones importantes
 

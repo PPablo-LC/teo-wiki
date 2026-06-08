@@ -17,15 +17,15 @@ El misterio pascual de Cristo constituye el cumplimiento de las profecías del A
 
 El Catecismo dedica una sección extensa al misterio pascual (§571-664). La pasión de Cristo es el sacrificio de la Nueva Alianza (§613-618). La resurrección es el acontecimiento central de la fe, obra de la Trinidad (§638-658). La ascensión significa la entrada de la humanidad de Cristo en la gloria divina (§659-664). El año litúrgico celebra el misterio pascual, particularmente el domingo y la Pascua anual (§1067, §1168-1173). La Eucaristía hace presente el sacrificio pascual de Cristo (§1362-1372).
 
-### Según Royo Marín (TPCr)
-
-Royo Marín trata el misterio pascual como fundamento de la vida cristiana y de la perfección. La participación en la muerte y resurrección de Cristo mediante el Bautismo es el principio de la vida sobrenatural. La unión con Cristo crucificado y resucitado es el modelo de toda perfección cristiana. La ascensión de Cristo abre el cielo a los justos y es prenda de nuestra propia glorificación.
-
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 El VocTeoBib traza el desarrollo de la pascua desde sus orígenes nómadas y domésticos en Israel, pasando por su asociación con el éxodo (donde *pesah* significa el «paso» de Yahveh que salvó a los primogénitos israelitas *Ex 12,13.23-27*), hasta su fusión con la fiesta de los ázimos y su centralización en el templo bajo el Deuteronomio. La pascua israelita se convierte así en memorial de la liberación de Egipto y en fiesta de esperanza mesiánica.
 
 En el NT, Jesús da cumplimiento a la pascua judía: los Sinópticos presentan la Última Cena como una comida pascual en la que Jesús instituye la Eucaristía, describiendo su muerte como el sacrificio del nuevo cordero pascual *Mc 14,22-24 p*. Juan subraya la identificación de Jesús con el cordero pascual haciendo coincidir su muerte en la cruz con la inmolación del cordero en el templo *Jn 19,36*. La pascua cristiana se celebra semanalmente el domingo —día del Señor— y anualmente como la solemnidad central, reemplazando la comida pascual judía por el ayuno y la vigilia pascual en que se lee el Éxodo con nueva profundidad *1Pe 1,13-21*. Finalmente, la pascua tiene una dimensión escatológica: es el banquete celestial hacia el que camina la Iglesia, cuando Cristo cumplirá la pascua en el reino del Padre *Lc 22,16*.
+### Según Royo Marín (TPCr)
+
+Royo Marín trata el misterio pascual como fundamento de la vida cristiana y de la perfección. La participación en la muerte y resurrección de Cristo mediante el Bautismo es el principio de la vida sobrenatural. La unión con Cristo crucificado y resucitado es el modelo de toda perfección cristiana. La ascensión de Cristo abre el cielo a los justos y es prenda de nuestra propia glorificación.
+
 
 ## Distinciones importantes
 

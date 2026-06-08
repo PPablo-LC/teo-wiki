@@ -9,6 +9,9 @@ Por institución divina, entre los fieles hay en la Iglesia ministros sagrados q
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+Por institución divina, entre los fieles hay ministros sagrados, que en el derecho se denominan clérigos; los demás se llaman laicos (CEC §934). Los obispos y los presbíteros reciben la misión y la facultad de actuar *in persona Christi Capitis* (CEC §875).
 ### Según el Código de Derecho Canónico (CIC)
 
 **Formación.** La Iglesia tiene el deber y el derecho propio y exclusivo de formar a los destinados a los ministerios sagrados (c. 232). En cada diócesis debe haber un seminario mayor cuando sea posible (c. 237). La formación espiritual y doctrinal debe tener como meta que los alumnos consigan el espíritu del Evangelio y una estrecha relación con Cristo (c. 244). Los estudios filosóficos y teológicos deben durar al menos seis años (c. 250).
@@ -19,9 +22,6 @@ Por institución divina, entre los fieles hay en la Iglesia ministros sagrados q
 
 **Pérdida del estado clerical.** La ordenación válida nunca se anula (c. 290). Se pierde el estado clerical por declaración de invalidez de la ordenación, por pena de dimisión o por rescripto de la Sede Apostólica (c. 290).
 
-### Según el Catecismo (CEC)
-
-Por institución divina, entre los fieles hay ministros sagrados, que en el derecho se denominan clérigos; los demás se llaman laicos (CEC §934). Los obispos y los presbíteros reciben la misión y la facultad de actuar *in persona Christi Capitis* (CEC §875).
 
 ## Relaciones doctrinales
 

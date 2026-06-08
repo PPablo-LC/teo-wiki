@@ -15,6 +15,10 @@ En el NT, Jesús habla de la tierra buena que da fruto (Mc 4,8). Los mansos here
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La tierra es creación de Dios y testigo de su gloria (CEC §28, §32). El hombre debe someterla y dominarla como mayordomo de Dios (§307). La esperanza escatológica es la de «cielos nuevos y tierra nueva» (§1042-§1050). La voluntad de Dios debe hacerse «en la tierra como en el cielo» (§2822-§2827), expresando el deseo de que el mundo entero se conforme al designio divino.
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 En el AT, la tierra de Canaán es prometida a Abraham (Gén 12,7). La conquista es obra de Dios. La tierra es el espacio de la bendición: lluvia, cosechas, paz. Los pobres son los verdaderos herederos de la tierra (Sal 37,11). Los profetas denuncian la acumulación de tierras: «¡Ay de los que añaden casa a casa, campo a campo!» (Is 5,8).
@@ -22,10 +26,6 @@ En el AT, la tierra de Canaán es prometida a Abraham (Gén 12,7). La conquista 
 La tierra también gime bajo el pecado (Gén 3,17-18; Rom 8,22). La redención incluye la liberación de la creación entera. La tierra nueva (Is 65,17; 66,22) es la creación restaurada.
 
 En el NT, la bienaventuranza de los mansos (Mt 5,5) retoma el Sal 37. La tierra es el escenario de la misión: toda la tierra debe ser evangelizada (Mc 16,15). El polvo de la tierra recuerda el origen del hombre (Gén 2,7). La resurrección de la carne implica también la transformación de la tierra.
-
-### Según el Catecismo (CEC)
-
-La tierra es creación de Dios y testigo de su gloria (CEC §28, §32). El hombre debe someterla y dominarla como mayordomo de Dios (§307). La esperanza escatológica es la de «cielos nuevos y tierra nueva» (§1042-§1050). La voluntad de Dios debe hacerse «en la tierra como en el cielo» (§2822-§2827), expresando el deseo de que el mundo entero se conforme al designio divino.
 
 ### Según Royo Marín (TPCr)
 

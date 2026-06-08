@@ -15,13 +15,13 @@ La bienaventuranza de los pobres de espíritu (Mt 5,3) se relaciona directamente
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC §2544-2547 trata del desapego de las riquezas y la pobreza de corazón. «Bienaventurados los pobres de espíritu» (Mt 5,3). El desapego de los bienes terrenos es necesario para entrar en el Reino de los cielos.
 ### Según Royo Marín (TPCr)
 
 En el estudio del don de temor (n.356) y del desprendimiento (n.261), Royo Marín expone cómo el desapego de las criaturas es condición indispensable para la unión transformante. Los santos, iluminados por el don de ciencia, tienen una visión profunda de la necesidad del desapego absoluto. Para un alma iluminada por este don, la creación es un libro abierto donde descubre sin esfuerzo la nada de las criaturas y el todo del Creador.
 
-### Según el Catecismo (CEC)
-
-El CEC §2544-2547 trata del desapego de las riquezas y la pobreza de corazón. «Bienaventurados los pobres de espíritu» (Mt 5,3). El desapego de los bienes terrenos es necesario para entrar en el Reino de los cielos.
 
 ## Distinciones importantes
 

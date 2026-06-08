@@ -17,13 +17,13 @@ El ministerio ordenado hunde sus raíces en la institución del Colegio Apostól
 
 El CEC §874-896 expone el ministerio ordenado como institución de Cristo al servicio de la comunión eclesial. El ministerio ordenado se distingue del sacerdocio común de los fieles porque confiere un carácter sagrado que configura al ministro con Cristo Cabeza (CEC §1554). Se realiza en tres grados: episcopal, presbiteral y diaconal (CEC §1554-1557). El obispo recibe la plenitud del Orden (CEC §1556); el presbítero es colaborador del obispo (CEC §1562); el diácono está ordenado para el servicio (CEC §1569-1571).
 
+### Según el Concilio Vaticano II (ConcVatII)
+
+*Lumen Gentium* §18-29 desarrolla la constitución jerárquica de la Iglesia. Los obispos son sucesores de los Apóstoles (LG §20), los presbíteros son colaboradores del orden episcopal (LG §28), los diáconos reciben la imposición de manos no para el sacerdocio sino para el servicio (LG §29). *Presbyterorum Ordinis* expone el ministerio y vida de los presbíteros. *Christus Dominus* desarrolla el oficio pastoral de los obispos.
 ### Según el CIC
 
 Los cc. 1008-1054 regulan la ordenación. El c. 1008 define que «mediante el sacramento del Orden, por institución divina, algunos de entre los fieles quedan constituidos ministros sagrados». El c. 1009 §1 distingue los tres grados: episcopado, presbiterado y diaconado. Los cc. 1010-1023 tratan de las condiciones para la ordenación. Los cc. 1024-1054 regulan los ritos, el ministro, el sujeto y los impedimentos.
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-*Lumen Gentium* §18-29 desarrolla la constitución jerárquica de la Iglesia. Los obispos son sucesores de los Apóstoles (LG §20), los presbíteros son colaboradores del orden episcopal (LG §28), los diáconos reciben la imposición de manos no para el sacerdocio sino para el servicio (LG §29). *Presbyterorum Ordinis* expone el ministerio y vida de los presbíteros. *Christus Dominus* desarrolla el oficio pastoral de los obispos.
 
 ## Distinciones importantes
 

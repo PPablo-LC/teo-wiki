@@ -21,10 +21,6 @@ El Catecismo dedica una sección extensa al sacramento del Orden (§1536-1600). 
 
 El sacramento del Orden comprende tres grados: episcopado, presbiterado y diaconado (c. 1009 §1). Los cánones 1008-1054 (no incluidos en el Libro II aquí procesado) regulan la ordenación y los derechos y obligaciones de los ministros sagrados. Solo el varón bautizado puede recibir válidamente la ordenación (c. 1024). Para ser ordenado presbítero se requieren los estudios y la formación establecidos (cc. 1032-1034). El presbítero tiene la facultad de celebrar la Eucaristía y administrar los sacramentos dentro de su competencia (cc. 900, 965, 968).
 
-### Según Royo Marín (TPCr)
-
-Royo Marín trata el sacerdocio en el contexto del estado de perfección (Parte III, Libro III). El sacerdote está especialmente obligado a tender a la perfección cristiana por la excelsa dignidad de sus funciones. Santo Tomás afirma que el sacerdote necesita una santidad más alta que el simple religioso no sacerdote. La gracia sacramental del orden confiere una fuerza especial para ejercer las funciones ministeriales y el derecho a los auxilios actuales necesarios (Parte III, Libro II, Cap. 1).
-
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 El AT distingue varias formas de sacerdocio: el de Melquisedec (Gén 14,18), el de Jetró (Éx 18,12) y el sacerdocio levítico instituido en el Sinaí. Aarón y sus hijos son consagrados para el servicio del santuario (Éx 28-29). El sacerdote enseña la Ley, ofrece sacrificios e intercede por el pueblo.
@@ -32,6 +28,10 @@ El AT distingue varias formas de sacerdocio: el de Melquisedec (Gén 14,18), el 
 Los profetas critican un sacerdocio formalista: «No me ofrezcas tus dones vanos» (Is 1,13). Jeremías anuncia una nueva alianza donde ya no hará falta enseñar porque todos conocerán a Dios (Jer 31,31-34).
 
 En el NT, Cristo es el único sumo sacerdote según el orden de Melquisedec (Heb 5-7). Su sacerdocio es perfecto y eterno. El sacerdocio ministerial participa del único sacerdocio de Cristo. La carta a los Hebreos desarrolla extensamente la teología del sacerdocio de Cristo, superior al levítico, ofreciendo un solo sacrificio perfecto. Los bautizados participan del sacerdocio real (1 Pe 2,9).
+### Según Royo Marín (TPCr)
+
+Royo Marín trata el sacerdocio en el contexto del estado de perfección (Parte III, Libro III). El sacerdote está especialmente obligado a tender a la perfección cristiana por la excelsa dignidad de sus funciones. Santo Tomás afirma que el sacerdote necesita una santidad más alta que el simple religioso no sacerdote. La gracia sacramental del orden confiere una fuerza especial para ejercer las funciones ministeriales y el derecho a los auxilios actuales necesarios (Parte III, Libro II, Cap. 1).
+
 
 ## Distinciones importantes
 

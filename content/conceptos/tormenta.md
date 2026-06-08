@@ -15,6 +15,10 @@ Los profetas usan la tormenta como imagen del juicio divino: el día de Yahvé v
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+No hay un desarrollo doctrinal específico sobre la tormenta en el CEC. Las tempestades aparecen solo en alusiones bíblicas incidentales (la tempestad calmada por Jesús, Mc 4,35-41) sin parágrafos dedicados. Su significado teológico se deriva del contexto evangélico: manifestación del poder divino de Cristo sobre la naturaleza.
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 La tormenta es uno de los modos de la teofanía en el AT. Yahvé viene envuelto en nubes y tempestad (Sal 18,8-16; Nah 1,3-4). El trueno es la «voz de Yahvé» (Sal 29). Dios cabalga sobre las nubes (Sal 68,5). La tormenta manifiesta su poder creador y su dominio sobre el caos.
@@ -22,10 +26,6 @@ La tormenta es uno de los modos de la teofanía en el AT. Yahvé viene envuelto 
 El relato de Jonás muestra la tempestad como instrumento divino (Jon 1,4-16). El mar encrespado simboliza las fuerzas hostiles que solo Dios puede dominar.
 
 En el NT, Jesús calma la tempestad, mostrando que en Él se cumple el señorío de Dios sobre el caos. Los discípulos preguntan: «¿Quién es este, que hasta el viento y el mar le obedecen?» (Mc 4,41). La tempestad calmada es símbolo del poder de Cristo sobre las fuerzas del mal y sobre las pruebas de la Iglesia.
-
-### Según el Catecismo (CEC)
-
-No hay un desarrollo doctrinal específico sobre la tormenta en el CEC. Las tempestades aparecen solo en alusiones bíblicas incidentales (la tempestad calmada por Jesús, Mc 4,35-41) sin parágrafos dedicados. Su significado teológico se deriva del contexto evangélico: manifestación del poder divino de Cristo sobre la naturaleza.
 
 ### Según Royo Marín (TPCr)
 

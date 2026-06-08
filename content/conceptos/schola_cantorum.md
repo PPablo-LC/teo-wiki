@@ -13,6 +13,9 @@ La schola cantorum tiene su origen en la Schola Cantorum Romana fundada por el p
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Catecismo no menciona explícitamente la schola cantorum, pero afirma que «el canto y la música cumplen su función de signos de manera tanto más significativa cuanto más estrechamente están vinculadas a la acción litúrgica» (CEC §1157). La tradición musical de la Iglesia es un tesoro de valor inestimable (CEC §1156). La schola cantorum es el custodio histórico de esa tradición.
 ### Según el Concilio Vaticano II (Sacrosanctum Concilium)
 
 SC 112-114 establece que la música sagrada es tanto más santa cuanto más vinculada está a la acción litúrgica. SC 115 prescribe conservar y fomentar el tesoro de la música sacra, fomentando las scholas cantorum, sobre todo en las iglesias catedrales. SC 116 reconoce el canto gregoriano como el canto propio de la liturgia romana, que ocupa el primer lugar en las celebraciones. La schola cantorum es el instrumento natural para la ejecución del repertorio gregoriano.
@@ -21,9 +24,6 @@ SC 112-114 establece que la música sagrada es tanto más santa cuanto más vinc
 
 Musicam Sacram §19-21 distingue tres formas de participación en la Misa cantada: la asamblea, la schola y el celebrante. La schola cantorum conserva su propio ministerio litúrgico: ejecuta las partes del propio (introito, gradual, aleluya, ofertorio, comunión) que requieren mayor especialización, mientras la asamblea canta las partes del ordinario (Kyrie, Gloria, Credo, Sanctus, Agnus Dei). La schola no sustituye la participación del pueblo sino que la jerarquiza y la enriquece.
 
-### Según el Catecismo (CEC)
-
-El Catecismo no menciona explícitamente la schola cantorum, pero afirma que «el canto y la música cumplen su función de signos de manera tanto más significativa cuanto más estrechamente están vinculadas a la acción litúrgica» (CEC §1157). La tradición musical de la Iglesia es un tesoro de valor inestimable (CEC §1156). La schola cantorum es el custodio histórico de esa tradición.
 
 ## Distinciones importantes
 

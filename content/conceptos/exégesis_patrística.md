@@ -13,13 +13,13 @@ Los Padres de la Iglesia leyeron la Sagrada Escritura como un libro unitario cuy
 
 ## Perspectivas por fuente
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-*Dei Verbum* 23 recomienda el estudio de los Santos Padres, tanto de Oriente como de Occidente, como medio para la más profunda inteligencia de las Sagradas Escrituras. La Iglesia, enseñada por el Espíritu Santo, se esfuerza en acercarse a la más profunda inteligencia de las Escrituras, y para ello fomenta el estudio patrístico y de las Sagradas Liturgias. El Concilio anima a los exegetas católicos a trabajar bajo la vigilancia del Sagrado Magisterio (DV 23). DV 8, al tratar de la Tradición, señala que las enseñanzas de los Santos Padres testifican la presencia viva de la Tradición apostólica.
-
 ### Según el Catecismo (CEC)
 
 El CEC enseña que «toda la Escritura divina es un libro, y este libro es Cristo» (§102), recogiendo la tradición patrística. La Iglesia recomienda la lectura asidua de la Escritura, acompañada de oración (§2653-2654). El sentido literal es «el significado por las palabras de la Escritura y descubierto por la exégesis que sigue las reglas de la justa interpretación» (§116). El Catecismo mismo se apoya con frecuencia en la autoridad de los Padres de la Iglesia.
+
+### Según el Concilio Vaticano II (ConcVatII)
+
+*Dei Verbum* 23 recomienda el estudio de los Santos Padres, tanto de Oriente como de Occidente, como medio para la más profunda inteligencia de las Sagradas Escrituras. La Iglesia, enseñada por el Espíritu Santo, se esfuerza en acercarse a la más profunda inteligencia de las Escrituras, y para ello fomenta el estudio patrístico y de las Sagradas Liturgias. El Concilio anima a los exegetas católicos a trabajar bajo la vigilancia del Sagrado Magisterio (DV 23). DV 8, al tratar de la Tradición, señala que las enseñanzas de los Santos Padres testifican la presencia viva de la Tradición apostólica.
 
 ### Según Royo Marín (TPCr)
 

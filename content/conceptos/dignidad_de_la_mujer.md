@@ -17,14 +17,6 @@ La Iglesia enseña que la mujer posee la misma dignidad personal que el hombre p
 
 Dios creó al hombre y a la mujer «con una perfecta igualdad en tanto que personas humanas» y «con la misma dignidad, imagen de Dios» (CEC 369). La dignidad personal es igual para ambos: «Creando al hombre "varón y mujer", Dios da la dignidad personal de igual modo al hombre y a la mujer» (CEC 2334). La poligamia es contraria a «la igual dignidad personal que hay que reconocer a la mujer y el varón en el mutuo y pleno amor» (CEC 1645). La prostitución y la fornicación atentan contra la dignidad de la persona (CEC 2353, 2355).
 
-### Según Royo Marín (TPCr)
-
-La estima de los talentos naturales y adquiridos sobre la piedad es una gran desgracia en la religión. La devoción es preferible a todas las virtudes morales, y la religión sigue inmediatamente en orden de dignidad a las virtudes teologales.
-
-### Según Jorge Loring (PS)
-
-El cristianismo contribuyó directamente a devolver a la mujer toda su dignidad y derechos de igualdad con el hombre. «La Iglesia ha defendido siempre la dignidad de la mujer siguiendo el ejemplo de Cristo». Varón y mujer tienen la misma dignidad como persona humana, pero son distintos corporal y psíquicamente para poder complementarse. La formación de la mujer de la costilla del varón expresa que su dignidad es igual a la de este.
-
 ### Según la Doctrina Social de la Iglesia (DSI)
 
 «El hombre y la mujer tienen la misma dignidad y son de igual valor, no solo porque ambos, en su diversidad, son imagen de Dios, sino porque el dinamismo de reciprocidad que anima el "nosotros" de la pareja humana es imagen de Dios» (DSI 111). «Dios no hace acepción de personas» porque todos los hombres tienen la misma dignidad (DSI 144). La diversidad en la igualdad es enriquecedora e indispensable para una armónica convivencia humana (DSI 146).
@@ -42,6 +34,14 @@ El cristianismo contribuyó directamente a devolver a la mujer toda su dignidad 
 **a.3 — Formada de la costilla:** Ni de la cabeza (para no dominar al varón), ni de los pies (para no ser despreciada), sino del costado (q.92 a.3).
 
 **a.4 — Hecha directamente por Dios:** Solo Dios podía formar a la mujer de la costilla del varón, pues la generación natural exige materia determinada (semen) (q.92 a.4).
+
+### Según Royo Marín (TPCr)
+
+La estima de los talentos naturales y adquiridos sobre la piedad es una gran desgracia en la religión. La devoción es preferible a todas las virtudes morales, y la religión sigue inmediatamente en orden de dignidad a las virtudes teologales.
+
+### Según Jorge Loring (PS)
+
+El cristianismo contribuyó directamente a devolver a la mujer toda su dignidad y derechos de igualdad con el hombre. «La Iglesia ha defendido siempre la dignidad de la mujer siguiendo el ejemplo de Cristo». Varón y mujer tienen la misma dignidad como persona humana, pero son distintos corporal y psíquicamente para poder complementarse. La formación de la mujer de la costilla del varón expresa que su dignidad es igual a la de este.
 
 ### Según el análisis de conferencias para varones (notas)
 

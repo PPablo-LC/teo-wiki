@@ -17,13 +17,13 @@ El Concilio Vaticano II (Lumen Gentium 30-38) recuperó la teología del laicado
 
 El CEC dedica los §§897-913 a los fieles laicos. Subraya que todos los laicos tienen el derecho y el deber de trabajar para que el mensaje divino de salvación sea conocido por todos los hombres (CEC §900). Participan del sacerdocio común de los fieles (CEC §901) y pueden cooperar en la liturgia (CEC §902). Han de impregnar el orden temporal de espíritu cristiano (CEC §909). Cristo les confía la misión de anunciar el Evangelio con el testimonio de su vida y con la palabra (CEC §905). Se destaca su papel en la formación de la conciencia cristiana (CEC §912-913).
 
+### Según Royo Marín (TPCr)
+
+Royo Marín no trata directamente del estatuto teológico de los laicos, pero su doctrina sobre la perfección cristiana —a la que todos están llamados— presupone la igualdad fundamental de todos los bautizados en orden a la santidad, independientemente de su estado clerical o religioso.
 ### Según el CIC
 
 Los cc. 224-231 tratan las obligaciones y derechos de los laicos. El c. 225 establece el deber de trabajar para que el mensaje divino llegue a todos. El c. 226 regula sus deberes familiares. El c. 227 reconoce su libertad en los asuntos temporales. Los cc. 228-229 tratan su capacidad para asumir oficios eclesiásticos y recibir formación teológica. El c. 230 regula los ministerios laicales instituidos (lector, acólito) y la participación litúrgica.
 
-### Según Royo Marín (TPCr)
-
-Royo Marín no trata directamente del estatuto teológico de los laicos, pero su doctrina sobre la perfección cristiana —a la que todos están llamados— presupone la igualdad fundamental de todos los bautizados en orden a la santidad, independientemente de su estado clerical o religioso.
 
 ## Distinciones importantes
 

@@ -15,13 +15,13 @@ Todas las criaturas poseen una cierta semejanza con Dios, muy especialmente el h
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC recoge la doctrina del Concilio de Letrán IV (1215): «Entre el Creador y la criatura no se puede señalar una semejanza tal que la desemejanza entre ellos no sea mayor todavía» (§43). Este principio de la «analogía del ser» (analogia entis) implica que nuestras palabras humanas captan realmente a Dios mismo, sin poder expresarlo en su infinita simplicidad. El CEC cita a Santo Tomás: «Nosotros no podemos captar de Dios lo que Él es, sino solamente lo que no es, y cómo los otros seres se sitúan con relación a Él» (§43).
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata los nombres divinos en SmTh Iª q.13, donde establece la doctrina de la analogía como vía media entre la univocidad y la equivocidad. Los nombres que decimos de Dios y de las criaturas no son unívocos (no significan lo mismo según la misma razón) ni puramente equívocos (no significan cosas completamente distintas), sino análogos (a.5). Santo Tomás distingue dos tipos de analogía: la de atribución (una perfección se dice de muchos en relación a un término principal) y la de proporcionalidad (una relación semejante entre términos). En la analogía de atribución, la perfección se dice primero de Dios (por esencia) y secundariamente de las criaturas (por participación, a.6). Esta doctrina es fundamental para todo el lenguaje teológico.
 
-### Según el Catecismo (CEC)
-
-El CEC recoge la doctrina del Concilio de Letrán IV (1215): «Entre el Creador y la criatura no se puede señalar una semejanza tal que la desemejanza entre ellos no sea mayor todavía» (§43). Este principio de la «analogía del ser» (analogia entis) implica que nuestras palabras humanas captan realmente a Dios mismo, sin poder expresarlo en su infinita simplicidad. El CEC cita a Santo Tomás: «Nosotros no podemos captar de Dios lo que Él es, sino solamente lo que no es, y cómo los otros seres se sitúan con relación a Él» (§43).
 
 ## Ver también
 

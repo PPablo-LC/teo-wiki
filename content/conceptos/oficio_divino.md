@@ -19,13 +19,13 @@ Las Horas principales son Laudes (oración matutina) y Vísperas (oración vespe
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La Liturgia de las Horas está destinada a ser la oración de todo el pueblo de Dios (CEC §1175). Cristo mismo continúa ejerciendo su función sacerdotal por medio de su Iglesia (CEC §1174).
 ### Según el Concilio Vaticano II (ConcVatII)
 
 *Sacrosanctum Concilium* 83-101 regula el Oficio divino. Lo presenta como obra de Cristo y de la Iglesia (SC 83), que consagra el curso del día y de la noche (SC 84). Es la voz de la Esposa que habla al Esposo, la oración de Cristo con su Cuerpo al Padre (SC 84). Se ordena la reforma del Oficio: restablecer el curso tradicional de las Horas (SC 88), Laudes y Vísperas como Horas principales (SC 89), distribución de salmos en período más largo (SC 91). Se recomienda la participación de los laicos (SC 100).
 
-### Según el Catecismo (CEC)
-
-La Liturgia de las Horas está destinada a ser la oración de todo el pueblo de Dios (CEC §1175). Cristo mismo continúa ejerciendo su función sacerdotal por medio de su Iglesia (CEC §1174).
 
 ## Distinciones importantes
 

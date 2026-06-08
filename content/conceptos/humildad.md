@@ -17,6 +17,9 @@ Los santos, a medida que crecen en perfección, perciben con mayor claridad el a
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La humildad es la base de la oración: «La oración es la elevación del alma a Dios... ¿Desde dónde hablamos cuando oramos? ¿Desde la altura de nuestro orgullo o desde lo más profundo de un corazón humilde y contrito? El que se humilla es ensalzado. La humildad es la base de la oración» (§2559). La adoración es «la acción de humillar el espíritu ante el Rey de la gloria» (§2628).
 ### Según Royo Marín (TPCr)
 
 La humildad reside en el apetito irascible (no en el concupiscible como la templanza), porque se refiere a un bien arduo: la propia excelencia. Coincide con la templanza en el modo formal de moderar o reprimir.
@@ -27,9 +30,6 @@ La humildad no es la mayor de las virtudes (sobre ella están las teologales), p
 
 Grados de humildad según la Regla de San Benito (doce grados): temor de Dios, renuncia a la propia voluntad, obediencia al superior, paciencia en las dificultades, confesión de los propios defectos, contentarse con lo más vil, reconocerse el más vil de todos, no apartarse de la regla común, callar hasta que pregunten, no ser pronto a la risa, hablar con mesura y gravedad, humildad exterior.
 
-### Según el Catecismo (CEC)
-
-La humildad es la base de la oración: «La oración es la elevación del alma a Dios... ¿Desde dónde hablamos cuando oramos? ¿Desde la altura de nuestro orgullo o desde lo más profundo de un corazón humilde y contrito? El que se humilla es ensalzado. La humildad es la base de la oración» (§2559). La adoración es «la acción de humillar el espíritu ante el Rey de la gloria» (§2628).
 
 ## Distinciones importantes
 

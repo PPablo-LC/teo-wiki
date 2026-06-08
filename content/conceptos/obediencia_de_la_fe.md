@@ -19,13 +19,13 @@ La Virgen María realiza de la manera más perfecta la obediencia de la fe. Acog
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC dedica un artículo completo a la «obediencia de la fe» (§143-149). La palabra «obedecer» (ob-audire) significa someterse a la palabra escuchada. La fe no es solo un acto intelectual, sino una entrega total de la persona a Dios.
 ### Según el Concilio Vaticano II (ConcVatII)
 
 *Dei Verbum* 5 es la fuente conciliar de la expresión «obediencia de la fe». El Concilio enseña que, cuando Dios revela, hay que prestarle la obediencia de la fe, por la que el hombre se confía libre y totalmente a Dios, prestando «a Dios revelador el homenaje del entendimiento y de la voluntad» y asintiendo voluntariamente a la revelación. Para ello es necesaria la gracia que previene y ayuda, los auxilios internos del Espíritu Santo, que mueve el corazón y lo convierte a Dios, abre los ojos de la mente y da la suavidad en el aceptar y creer la verdad.
 
-### Según el Catecismo (CEC)
-
-El CEC dedica un artículo completo a la «obediencia de la fe» (§143-149). La palabra «obedecer» (ob-audire) significa someterse a la palabra escuchada. La fe no es solo un acto intelectual, sino una entrega total de la persona a Dios.
 
 ## Distinciones importantes
 

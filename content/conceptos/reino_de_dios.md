@@ -23,14 +23,6 @@ El Reino pertenece a los pobres y a los pequeños: «Bienaventurados los pobres 
 
 La oración del Padrenuestro es la oración del Reino: «Venga a nosotros tu Reino» (§2816-2821). El Reino será consumado en la gloria cuando Cristo entregue el Reino a Dios Padre (1 Co 15,24).
 
-### Según Royo Marín (TPCr)
-
-Royo Marín aborda el Reino de Dios como el fin último de la vida cristiana. La perfección cristiana consiste en la instauración plena del Reino de Dios en el alma, es decir, en el reinado de la caridad. El Reino de Dios se realiza progresivamente en el alma fiel mediante la práctica de las virtudes y la unión con Dios.
-
-El Reino de Dios es interior (Lc 17,21): está en el alma en gracia. La vida cristiana es la expansión del Reino en el corazón del hombre hasta que Dios sea todo en todos.
-
-[TPCr, Parte II — El Organismo Sobrenatural]
-
 ### Según el Compendio (CompDS)
 
 La misión de la Iglesia es anunciar y comunicar la salvación realizada en Jesucristo, que Él llama «Reino de Dios» [CompDS §49]. El fin de la salvación, el Reino de Dios, incluye a todos los hombres y se realizará plenamente más allá de la historia, en Dios. La Iglesia ha recibido la misión de anunciar el Reino de Cristo e instaurarlo en todos los pueblos, constituyendo en la tierra el germen y el principio de ese Reino [CompDS §49].
@@ -48,6 +40,14 @@ Lumen Gentium presenta el [[reino_de_dios]] como estrechamente unido al misterio
 La Iglesia «recibe la misión de anunciar el reino de Cristo y de Dios e instaurarlo en todos los pueblos, y constituye en la tierra el germen y el principio de ese reino» [ConcVatII, LG §5]. «Mientras ella paulatinamente va creciendo, anhela simultáneamente el reino consumado y con todas sus fuerzas espera y ansía unirse con su Rey en la gloria» [ConcVatII, LG §5].
 
 El Pueblo de Dios tiene como fin «dilatar más y más el [[reino_de_dios]], incoado por el mismo Dios en la tierra, hasta que al final de los tiempos El mismo también lo consume» [ConcVatII, LG §9]. Cristo desea dilatar su reino también por medio de los fieles laicos: «reino de verdad y de vida, reino de santidad y de gracia, reino de justicia, de amor y de paz» [ConcVatII, LG §36].
+### Según Royo Marín (TPCr)
+
+Royo Marín aborda el Reino de Dios como el fin último de la vida cristiana. La perfección cristiana consiste en la instauración plena del Reino de Dios en el alma, es decir, en el reinado de la caridad. El Reino de Dios se realiza progresivamente en el alma fiel mediante la práctica de las virtudes y la unión con Dios.
+
+El Reino de Dios es interior (Lc 17,21): está en el alma en gracia. La vida cristiana es la expansión del Reino en el corazón del hombre hasta que Dios sea todo en todos.
+
+[TPCr, Parte II — El Organismo Sobrenatural]
+
 
 ## Distinciones importantes
 

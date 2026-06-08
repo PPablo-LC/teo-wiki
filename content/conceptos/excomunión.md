@@ -13,6 +13,9 @@ La excomunión es una pena medicinal (censura) cuyo fin no es principalmente pun
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La excomunión es la pena eclesiástica más grave, que tiende a hacer tomar conciencia al delincuente de la gravedad de su falta (CEC §1463).
 ### Según el Código de Derecho Canónico (CIC)
 
 El CIC regula la excomunión en los cc. 1331 y 1364-1369. Al excomulgado se le prohibe: tener cualquier participación ministerial en la celebración del Sacrificio Eucarístico o en otras ceremonias de culto; celebrar los sacramentos o sacramentales y recibir los sacramentos; desempeñar oficios, ministerios o cargos eclesiásticos, o realizar actos de régimen (c. 1331 §1). Cuando la excomunión ha sido impuesta o declarada, el reo realiza inválidamente los actos de régimen, no puede obtener válidamente una dignidad u oficio, y no hace suyos los frutos de los oficios que tenga (c. 1331 §2). Incurren en excomunión latae sententiae: el apóstata, hereje o cismático (c. 1364 §1); quien arroja por tierra las especies consagradas (c. 1367); quien atenta físicamente contra el Romano Pontífice (c. 1370 §1); el sacerdote que absuelve al cómplice (c. 1378 §1); el Obispo que consagra a otro sin mandato pontificio (c. 1382); el confesor que viola directamente el sigilo sacramental (c. 1388 §1); quien procura el aborto (c. 1398). El legislador no debe establecer la excomunión si no es con máxima moderación y solo contra los delitos más graves (c. 1318).
@@ -31,9 +34,6 @@ Las *Normae de gravioribus delictis* (SST-2010) establecen en el **art. 5** la e
 
 Este delito fue introducido como *delictum gravius* en la reforma de 2010, según quedó establecido en el decreto de la CDF del 19 de diciembre de 2007 (Breve Relación, n.13). Se trata de una de las pocas excomuniones *latae sententiae* reservadas a la Sede Apostólica en el derecho penal canónico vigente, junto con la del can. 1388 §1 (violación del [[sigilo_sacramental]]) y el can. 1370 §1 (atentado físico contra el Romano Pontífice).
 
-### Según el Catecismo (CEC)
-
-La excomunión es la pena eclesiástica más grave, que tiende a hacer tomar conciencia al delincuente de la gravedad de su falta (CEC §1463).
 
 ## Distinciones importantes
 

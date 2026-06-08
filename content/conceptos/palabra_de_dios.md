@@ -23,13 +23,13 @@ La Sagrada Escritura es la palabra de Dios en cuanto se consigna por escrito baj
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+«La palabra de Dios es viva y eficaz» (CEC §128, Hb 4,12). La Iglesia ha venerado siempre las Sagradas Escrituras al igual que el Cuerpo del Señor (CEC §103). «Es tan grande el poder y la fuerza de la Palabra de Dios, que constituye sustento y vigor para la Iglesia» (CEC §131).
 ### Según el Concilio Vaticano II (ConcVatII)
 
 *Dei Verbum* comienza declarando que el Concilio escucha religiosamente la palabra de Dios y la proclama confiadamente (DV 1). Jesucristo, Verbo encarnado, completa la revelación y es mediador y plenitud de toda la revelación (DV 2). La palabra de Dios se transmite por la Tradición y la Escritura (DV 7-10). La palabra de Dios es viva y eficaz (DV 21). «El desconocimiento de las Escrituras es desconocimiento de Cristo» (DV 25).
 
-### Según el Catecismo (CEC)
-
-«La palabra de Dios es viva y eficaz» (CEC §128, Hb 4,12). La Iglesia ha venerado siempre las Sagradas Escrituras al igual que el Cuerpo del Señor (CEC §103). «Es tan grande el poder y la fuerza de la Palabra de Dios, que constituye sustento y vigor para la Iglesia» (CEC §131).
 
 ## Distinciones importantes
 

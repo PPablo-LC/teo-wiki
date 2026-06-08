@@ -23,6 +23,9 @@ Los Evangelios según Mateo, Marcos y Lucas se llaman sinópticos por su semejan
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+«Los Evangelios son el corazón de todas las Escrituras "por ser el testimonio principal de la vida y doctrina de la Palabra hecha carne, nuestro Salvador"» (CEC §125). La formación de los Evangelios se dio en tres etapas: la vida y enseñanza de Jesús, la predicación apostólica oral, y la redacción por los evangelistas (CEC §126).
 ### Según el Concilio Vaticano II (ConcVatII)
 
 *Dei Verbum* 18-19 enseña que los Evangelios tienen origen apostólico y que la Iglesia «firme y constantemente ha creído y cree que los cuatro referidos Evangelios, cuya historicidad afirma sin vacilar, comunican fielmente lo que Jesús hizo y enseñó realmente». Este texto conciliar es la declaración más autorizada sobre el carácter histórico de los Evangelios.
@@ -31,9 +34,6 @@ Los Evangelios según Mateo, Marcos y Lucas se llaman sinópticos por su semejan
 
 Loring ofrece una extensa apologética de los Evangelios. Los cuatro Evangelios fueron escritos por «testigos oculares» o por quienes estuvieron en contacto con ellos. San Mateo y San Juan fueron apóstoles; San Marcos transmitió la predicación de San Pedro; San Lucas «investigó cuidadosamente todo desde los orígenes» [PS §32,3]. Fueron escritos entre los años 40 y 100, cuando aún vivían testigos presenciales que podían contradecir cualquier inexactitud. «Si los evangelistas hubieran dicho lo que no es verdad, sus Evangelios hubieran sido rechazados por aquella generación que era testigo de los hechos» [PS §32,3]. La historicidad de los Evangelios «es para los católicos una verdad de fe divina y católica» [PS §32,3], y además «la genuinidad y autenticidad de los Evangelios se remonta al siglo II» [PS §32,3].
 
-### Según el Catecismo (CEC)
-
-«Los Evangelios son el corazón de todas las Escrituras "por ser el testimonio principal de la vida y doctrina de la Palabra hecha carne, nuestro Salvador"» (CEC §125). La formación de los Evangelios se dio en tres etapas: la vida y enseñanza de Jesús, la predicación apostólica oral, y la redacción por los evangelistas (CEC §126).
 
 ## Distinciones importantes
 

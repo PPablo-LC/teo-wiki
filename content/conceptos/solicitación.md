@@ -13,6 +13,12 @@ La solicitación es uno de los delitos más antiguos en la disciplina canónica 
 
 ## Perspectivas por fuente
 
+### Según el Código de Derecho Canónico (CIC)
+
+El **c. 1387 CIC** establece: «El sacerdote que, durante la confesión, o con ocasión o pretexto de la misma, solicita al penitente a un pecado contra el sexto mandamiento del Decálogo, debe ser castigado, según la gravedad del delito, con suspensión, prohibiciones o privaciones; y, en los casos más graves, debe ser expulsado del estado clerical.»
+
+Este canon prevé una escala de penas graduales: suspensión, prohibiciones y privaciones, llegando hasta la [[dimisión_del_estado_clerical]] en los casos más graves. La pena no es *latae sententiae*, sino que debe ser impuesta (*ferendae sententiae*) por la autoridad competente.
+
 ### Según la tradición canónica previa (Crimen sollicitationis, 1962)
 
 La Instrucción *Crimen sollicitationis*, emanada del Santo Oficio, estableció un modo de proceder uniforme para todos los Ordinarios en los casos de solicitación. Atribuía competencia exclusiva al Santo Oficio, que podía ejercerla administrativa o judicialmente. La Instrucción constituía ley particular, emanada de la autoridad del Sumo Pontífice, y tuvo fuerza vinculante hasta la promulgación de las SST.
@@ -26,12 +32,6 @@ El *Motu Proprio* de Juan Pablo II incluyó la solicitación entre los *delicta 
 La reforma de 2010 tipificó la solicitación en el **Art. 4 §1 n.4** con la siguiente redacción: «La solicitación a un pecado contra el sexto mandamiento del Decálogo durante la confesión o con ocasión o con pretexto de ella, de la que se trata en el can. 1387 del CIC y en el can. 1458 del CCEO, si tal solicitación se dirige a pecar con el mismo confesor.»
 
 La precisión final —«si tal solicitación se dirige a pecar con el mismo confesor»— delimita el ámbito del delito reservado. La solicitación a pecar con un tercero no estaría comprendida en la reserva al DDF.
-
-### Según el Código de Derecho Canónico (CIC)
-
-El **c. 1387 CIC** establece: «El sacerdote que, durante la confesión, o con ocasión o pretexto de la misma, solicita al penitente a un pecado contra el sexto mandamiento del Decálogo, debe ser castigado, según la gravedad del delito, con suspensión, prohibiciones o privaciones; y, en los casos más graves, debe ser expulsado del estado clerical.»
-
-Este canon prevé una escala de penas graduales: suspensión, prohibiciones y privaciones, llegando hasta la [[dimisión_del_estado_clerical]] en los casos más graves. La pena no es *latae sententiae*, sino que debe ser impuesta (*ferendae sententiae*) por la autoridad competente.
 
 ### Según la reforma de Pascite Gregem Dei (PGD, 2021)
 

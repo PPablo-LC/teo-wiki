@@ -17,15 +17,15 @@ El alma tiene conciencia de que las tres Personas divinas inhabitan permanenteme
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC §260-261, sobre la inhabitación de la Trinidad en el alma justa, proporciona el fundamento teológico. El §2014-2016, sobre la perfección de la caridad, es la base moral.
 ### Según Royo Marín (TPCr)
 
 El matrimonio espiritual es el noveno grado de oración de la clasificación general (n.591). Sus notas esenciales son: transformación total en el Amado, mutua entrega indisoluble, y unión permanente de amor. Los efectos principales son paz imperturbable, ausencia de éxtasis violentos, olvido de sí mismo y deseo de padecer.
 
 San Juan de la Cruz piensa que este estado nunca acaece sin que el alma esté confirmada en gracia, aunque con certeza moral, no absoluta (n.593). Santa Teresa es más cauta en este punto.
 
-### Según el Catecismo (CEC)
-
-El CEC §260-261, sobre la inhabitación de la Trinidad en el alma justa, proporciona el fundamento teológico. El §2014-2016, sobre la perfección de la caridad, es la base moral.
 
 ## Distinciones importantes
 

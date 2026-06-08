@@ -9,13 +9,13 @@ El Romano Pontífice, el Papa, es el Obispo de Roma y Sucesor de San Pedro, Cabe
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Papa, Obispo de Roma y Sucesor de Pedro, «es el principio y fundamento perpetuo y visible de la unidad de la Iglesia» (§882, citando LG 23). Recibió de Cristo la potestad plena de apacentar, regir y gobernar la Iglesia universal (§937). El ministerio petrino garantiza la unidad de todos los fieles en la fe y la comunión (§880-887). La infalibilidad pontificia se ejerce cuando el Papa, como Pastor supremo, proclama *ex cathedra* una doctrina sobre fe o costumbres (§891).
 ### Según el Código de Derecho Canónico (CIC)
 
 Los cc. 331-335 definen la potestad del Romano Pontífice. El Obispo de Roma, en quien permanece el oficio concedido por el Señor a Pedro, es Cabeza del Colegio Episcopal y posee potestad plena y suprema sobre la Iglesia universal, que puede ejercer libremente (c. 331). El Papa es elegido válidamente por el Colegio de Cardenales según derecho (c. 332 §1). Su renuncia debe ser libre y manifestarse formalmente (c. 332 §2). El oficio del Romano Pontífice no está sujeto a prescripción ni a potestad humana alguna (c. 333 §3). El Papa tiene potestad para establecer y modificar circunscripciones eclesiásticas, erigir diócesis, designar obispos y promulgar leyes para toda la Iglesia (c. 333, 334). Las decisiones del Romano Pontífice no requieren confirmación de ninguna otra autoridad (c. 333 §2).
 
-### Según el Catecismo (CEC)
-
-El Papa, Obispo de Roma y Sucesor de Pedro, «es el principio y fundamento perpetuo y visible de la unidad de la Iglesia» (§882, citando LG 23). Recibió de Cristo la potestad plena de apacentar, regir y gobernar la Iglesia universal (§937). El ministerio petrino garantiza la unidad de todos los fieles en la fe y la comunión (§880-887). La infalibilidad pontificia se ejerce cuando el Papa, como Pastor supremo, proclama *ex cathedra* una doctrina sobre fe o costumbres (§891).
 
 ## Relaciones doctrinales
 

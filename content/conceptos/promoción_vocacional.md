@@ -9,13 +9,13 @@ Conjunto de acciones y cuidados pastorales mediante los cuales la Iglesia foment
 
 ## Perspectivas por fuente
 
-### Según el Código de Derecho Canónico (CIC)
-
-La Iglesia tiene el deber y el derecho propio y exclusivo de promover y cuidar la formación de quienes se destinan a las sagradas órdenes (c. 232). Corresponde a toda la comunidad cristiana fomentar las vocaciones sacerdotales (c. 233 SS1), especialmente a los obispos, presbíteros, familias y educadores. Los seminarios mayores son erigidos por el obispo diocesano para la formación de los candidatos al presbiterado (c. 237). Solo pueden ser admitidos al seminario mayor quienes tengan la debida idoneidad, determinada por el derecho particular (c. 241). El obispo diocesano debe promover con solicitud las vocaciones sacerdotales (c. 385).
-
 ### Según el Catecismo (CEC)
 
 El ministerio eclesial de carácter institucional es ejercido en nombre de Cristo Cabeza por los obispos y los presbíteros, que reciben el sacramento del Orden (CEC §1536). El sacramento del Orden confiere una consagración y configuración con Cristo Sacerdote, capacitando para actuar en su persona (CEC §1548). La vocación al ministerio ordenado es un don de Dios que la Iglesia debe reconocer y acoger, no un derecho del candidato (CEC §1578). Corresponde a la Iglesia la responsabilidad de discernir la idoneidad de quienes aspiran al sacerdocio (CEC §1579).
+
+### Según el Código de Derecho Canónico (CIC)
+
+La Iglesia tiene el deber y el derecho propio y exclusivo de promover y cuidar la formación de quienes se destinan a las sagradas órdenes (c. 232). Corresponde a toda la comunidad cristiana fomentar las vocaciones sacerdotales (c. 233 SS1), especialmente a los obispos, presbíteros, familias y educadores. Los seminarios mayores son erigidos por el obispo diocesano para la formación de los candidatos al presbiterado (c. 237). Solo pueden ser admitidos al seminario mayor quienes tengan la debida idoneidad, determinada por el derecho particular (c. 241). El obispo diocesano debe promover con solicitud las vocaciones sacerdotales (c. 385).
 
 ### Según el Concilio Vaticano II (ConcVatII)
 

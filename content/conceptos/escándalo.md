@@ -17,10 +17,6 @@ El escándalo es una forma grave de cooperación al mal. Cristo lo condenó en t
 
 El CEC §2284 define el escándalo como «la actitud o el comportamiento que induce a otro a hacer el mal». §2285 distingue la gravedad según la autoridad del que escandaliza. §2286 menciona el escándalo social: leyes injustas, estructuras de pecado, comunicación social que promueve el mal. §2287 llama escándalo a quien constituye a otro en situación de pecado.
 
-### Según Royo Marín (TPCr)
-
-Royo Marín, al tratar el pecado, incluye el escándalo como pecado contra la caridad fraterna. Distingue entre escándalo activo (el que da ocasión) y pasivo (el que se escandaliza). El escándalo farisaico (escandalizarse por el bien) es pecado de malicia.
-
 ### Según el Código de Derecho Canónico (CIC)
 
 Los cc. 1328-1329 tratan la cooperación al delito y el escándalo como circunstancia agravante en la determinación de las penas canónicas.
@@ -38,6 +34,10 @@ El escándalo del abuso en la Iglesia está vinculado al [[clericalismo]], que e
 El VocTeoBib distingue dos polos del escándalo: Cristo como escándalo para el hombre, y el hombre como escándalo para su hermano. Cristo mismo es «piedra de escándalo» (Is 8,14) que pone a prueba la fe de Israel; su encarnación, cruz y ascensión constituyen un triple misterio ante el que los oyentes tropiezan —unos para levantarse, otros para endurecerse (Jn 6,66). Pablo afrontó este escándalo en ambos mundos: Cristo crucificado es «escándalo para los judíos y locura para los paganos» (1Cor 1,23), superable solo por el Espíritu.
 
 En el segundo polo, el hombre que abusa de su poder sobre el débil para apartarlo de la alianza es gravemente culpable: «¡Ay del que escandalizare a uno de estos pequeñuelos!» (Mt 18,6). Jesús exige la renuncia radical a todo lo que pueda ser ocasión de caída (Mt 5,29s). Pablo añade la dimensión eclesial: la libertad cristiana no debe ser ocasión de caída para los débiles (1Cor 8,9; Rom 14,13-15), pues la fe solo es auténtica si sostiene la fe de los hermanos.
+### Según Royo Marín (TPCr)
+
+Royo Marín, al tratar el pecado, incluye el escándalo como pecado contra la caridad fraterna. Distingue entre escándalo activo (el que da ocasión) y pasivo (el que se escandaliza). El escándalo farisaico (escandalizarse por el bien) es pecado de malicia.
+
 
 ## Relaciones doctrinales
 

@@ -15,6 +15,10 @@ Pedro habla de velar con sobriedad (1 Pe 5,8). Pablo exhorta a «velar y orar» 
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El tiempo presente es «tiempo de espera y de vigilia» (CEC §672), esperando la manifestación gloriosa de Cristo. Velar forma parte del lenguaje escatológico de la vigilancia cristiana ante la venida del Señor.
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 Las exhortaciones a velar son frecuentes en los evangelios y en la literatura apostólica. Jesús recomienda la vigilancia ante la venida inesperada del Hijo del hombre (Mt 24,42-44). El buen siervo está alerta (Lc 12,35-40). La vigilancia se expresa en la fidelidad cotidiana.
@@ -22,10 +26,6 @@ Las exhortaciones a velar son frecuentes en los evangelios y en la literatura ap
 La oración es inseparable de la vigilancia (Lc 21,36). En Getsemaní, Jesús pide a los discípulos: «Velad y orad para no caer en tentación» (Mc 14,38). Los discípulos duermen mientras Jesús ora, mostrando la debilidad humana.
 
 En el NT, la vigilancia es virtud escatológica. La noche avanza, el día está cerca: es hora de despertar del sueño (Rom 13,11-12). Velar no es ansiedad sino esperanza activa. El que vela recibe la corona de la vida (Ap 3,3). El Señor ciñe su cintura y sirve a los que velan (Lc 12,37). La vigilancia cristiana se distingue de la curiosidad apocalíptica: no se trata de calcular fechas sino de estar siempre preparados.
-
-### Según el Catecismo (CEC)
-
-El tiempo presente es «tiempo de espera y de vigilia» (CEC §672), esperando la manifestación gloriosa de Cristo. Velar forma parte del lenguaje escatológico de la vigilancia cristiana ante la venida del Señor.
 
 ### Según Royo Marín (TPCr)
 

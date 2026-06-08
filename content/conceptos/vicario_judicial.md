@@ -13,6 +13,9 @@ El vicario judicial, también llamado oficial (*officialis*), es el titular del 
 
 ## Perspectivas por fuente
 
+### Según el Concilio Vaticano II (ConcVatII)
+
+*Christus Dominus* (CD §27) alienta la organización de tribunales diocesanos para la recta administración de justicia. El Concilio no reguló directamente la figura del vicario judicial, pero su impulso a la reforma del derecho canónico llevó a la consolidación de la figura en el CIC de 1983 con la debida separación de funciones.
 ### Según el CIC
 
 El c. 1419 §1 establece que el Obispo diocesano tiene la potestad judicial en la diócesis y la ejerce personalmente o por medio del vicario judicial y de otros jueces. El vicario judicial constituye con otros jueces un solo tribunal (c. 1420 §1). Debe ser sacerdote de integra fama, doctor o licenciado en derecho canónico, de al menos treinta años de edad (c. 1420 §3). No puede ser removido del oficio sino por causa legítima (c. 1422).
@@ -25,9 +28,6 @@ El c. 1424 señala que el vicario judicial debe conocer las causas colegialmente
 
 El Comentario Exegético destaca que la separación de la potestad ejecutiva y judicial en la diócesis responde a una exigencia de buena administración de justicia. El vicario judicial no es un delegado del Obispo sino que posee potestad ordinaria para la función judicial. La colegialidad del tribunal garantiza la ponderación de las decisiones, especialmente en causas matrimoniales.
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-*Christus Dominus* (CD §27) alienta la organización de tribunales diocesanos para la recta administración de justicia. El Concilio no reguló directamente la figura del vicario judicial, pero su impulso a la reforma del derecho canónico llevó a la consolidación de la figura en el CIC de 1983 con la debida separación de funciones.
 
 ## Distinciones importantes
 

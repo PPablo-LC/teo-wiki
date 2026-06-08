@@ -15,6 +15,10 @@ En el Nuevo Testamento, los sueños son vehículos de revelación en el evangeli
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El sueño aparece en el contexto del descenso de Cristo a los infiernos: «un gran silencio… el Rey duerme… ha despertado a los que dormían desde antiguo» (CEC §635), refiriéndose a los justos del Antiguo Testamento que esperaban la redención.
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 Los sueños son en el AT un medio ordinario de revelación. Dios se comunica con los profetas en visiones y sueños (Núm 12,6). José, Daniel y otros reciben sabiduría interpretando sueños. El libro de Daniel desarrolla la interpretación de sueños como revelación de los designios divinos (Dan 2; 4; 7).
@@ -22,10 +26,6 @@ Los sueños son en el AT un medio ordinario de revelación. Dios se comunica con
 La ambivalencia del sueño es notable: por un lado es vehículo de revelación divina; por otro, puede ser ilusión y falsa profecía. La sabiduría popular dice que «en los muchos sueños hay vanidad» (Ecl 5,6). Pero los sueños de los patriarcas son auténticas teofanías.
 
 En el NT, los sueños de José (Mt 1-2) son el medio por el que Dios dirige la historia de la salvación. Pablo usa el sueño como metáfora de la muerte (1 Tes 4,13-14): los cristianos «dormimos» en Cristo. La resurrección es el despertar. La vigilancia del alma se expresa con la imagen de no dormir: «Velad, no sea que durmiendo venga el Señor» (Mc 13,36).
-
-### Según el Catecismo (CEC)
-
-El sueño aparece en el contexto del descenso de Cristo a los infiernos: «un gran silencio… el Rey duerme… ha despertado a los que dormían desde antiguo» (CEC §635), refiriéndose a los justos del Antiguo Testamento que esperaban la redención.
 
 ### Según Royo Marín (TPCr)
 

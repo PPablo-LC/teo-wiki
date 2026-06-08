@@ -15,6 +15,9 @@ Los patriarcas orientales, a diferencia de los patriarcas latinos (cuyo título 
 
 ## Perspectivas por fuente
 
+### Según el Código de Derecho Canónico (CIC)
+
+El CIC reconoce la figura del patriarca oriental fundamentalmente en el ámbito de las relaciones interrituales. El c. 1 CIC establece que el CIC rige para la Iglesia latina, pero remite al CCEO en lo relativo a las Iglesias orientales. Los patriarcas orientales ejercen su potestad sobre los fieles de su propio rito incluso fuera del territorio patriarcal, según las normas del derecho (CCEO cc. 78-83).
 ### Según el Concilio Vaticano II (ConcVatII)
 
 **Orientalium Ecclesiarum §§7-11:** «Desde los tiempos más remotos vige en la Iglesia la institución patriarcal, ya reconocida desde los primeros concilios ecuménicos» (OE §7). «Aunque cronológicamente unos sean posteriores a otros, los Patriarcas de las Iglesias orientales son todos iguales en la dignidad patriarcal, aunque se guarde entre ellos la precedencia de honor legítimamente establecida» (OE §8). Los patriarcas con sus sínodos constituyen «la última apelación para cualquier clase de asuntos de su patriarcado, sin excluir el derecho de erigir nuevas diócesis y de nombrar Obispos de su rito dentro de los límites de su territorio patriarcal, salvo el derecho inalienable del Romano Pontífice de intervenir en cada uno de los casos» (OE §9). El Concilio desea que «donde haga falta se erijan nuevos patriarcados, cuya constitución se reserva al Concilio ecuménico o al Romano Pontífice» (OE §11).
@@ -27,9 +30,6 @@ Los patriarcas orientales, a diferencia de los patriarcas latinos (cuyo título 
 
 El CCEO regula la figura del patriarca oriental en los cc. 55-150. El patriarca es «un obispo que tiene potestad sobre todos los obispos, clérigos y fieles de su propia Iglesia, a tenor del derecho, salva la potestad del Romano Pontífice» (CCEO c. 56). Su potestad es ordinaria, propia y personal. Debe promover la disciplina común, velar por la fe, fomentar la unidad de la Iglesia patriarcal y mantener la comunión con el Romano Pontífice. Es elegido por el sínodo patriarcal de obispos de su Iglesia. El sínodo patriarcal —que él preside— tiene potestad legislativa, judicial y de gobierno en la Iglesia patriarcal, siempre en comunión con la Sede Apostólica.
 
-### Según el Código de Derecho Canónico (CIC)
-
-El CIC reconoce la figura del patriarca oriental fundamentalmente en el ámbito de las relaciones interrituales. El c. 1 CIC establece que el CIC rige para la Iglesia latina, pero remite al CCEO en lo relativo a las Iglesias orientales. Los patriarcas orientales ejercen su potestad sobre los fieles de su propio rito incluso fuera del territorio patriarcal, según las normas del derecho (CCEO cc. 78-83).
 
 ## Distinciones importantes
 

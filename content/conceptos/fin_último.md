@@ -17,10 +17,6 @@ Todo agente obra por un fin, y en el orden moral el fin último del hombre deter
 
 El CEC enseña que las bienaventuranzas, al prometer el Reino, ordenan al hombre hacia su fin último (§1723). La bienaventuranza eterna es el fin para el cual Dios ha creado al hombre (§1726). La contemplación de Dios en la gloria es la bienaventuranza prometida, a la que aspiramos ya desde esta vida por la fe y la esperanza (§§2548-2550).
 
-### Según Royo Marín (TPCr)
-
-Royo Marín trata el fin último en la Parte 1 como fundamento de la vida espiritual. El hombre ha sido creado para conocer, amar y servir a Dios en esta vida y gozar de Él eternamente en la otra. La [[perfección_cristiana]] consiste precisamente en la orientación plena de toda la vida hacia Dios como fin último, que se realiza por la caridad. La vida espiritual es el camino hacia ese fin, que empieza en la tierra y se consuma en el cielo.
-
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás inaugura la Prima Secundae con el tratado del fin último (Ia-IIae q.1-5), fundamento de toda la teología moral.
@@ -42,6 +38,10 @@ Santo Tomás inaugura la Prima Secundae con el tratado del fin último (Ia-IIae 
 [SmTh Ia-IIae q.1 a.1-8]
 
 **La bienaventuranza como fin último (Ia-IIae q.2-5):** Véase [[bienaventuranza]] para el desarrollo completo de las cuestiones 2-5: dónde no consiste la bienaventuranza (q.2), qué es la bienaventuranza como operación del entendimiento (q.3), qué se requiere para ella —delectación, comprehensión, rectitud de voluntad, cuerpo, bienes exteriores, amistad— (q.4), y su consecución —imposible por solas fuerzas naturales, requiere la acción de Dios— (q.5).
+### Según Royo Marín (TPCr)
+
+Royo Marín trata el fin último en la Parte 1 como fundamento de la vida espiritual. El hombre ha sido creado para conocer, amar y servir a Dios en esta vida y gozar de Él eternamente en la otra. La [[perfección_cristiana]] consiste precisamente en la orientación plena de toda la vida hacia Dios como fin último, que se realiza por la caridad. La vida espiritual es el camino hacia ese fin, que empieza en la tierra y se consuma en el cielo.
+
 
 ## Distinciones importantes
 

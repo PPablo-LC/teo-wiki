@@ -13,13 +13,13 @@ Dios está presente en todas las cosas como el agente está presente en aquello 
 
 ## Perspectivas por fuente
 
-### Según la Summa Theologiae (SmTh)
-
-Santo Tomás trata la presencia de Dios en las cosas en SmTh Iª q.8. Dios está en todas las cosas (a.1): no por división de su esencia ni por contacto local, sino como el agente está presente en su efecto. Puesto que Dios es el ser mismo subsistente y da el ser a todas las cosas, está presente íntimamente en todo lo que existe, conservándolo en el ser. Dios está en todas partes (a.2): no como los cuerpos (circunscritivamente) ni como los ángeles (definitivamente), sino de modo que todo lugar le está inmediatamente presente. Dios está en todas las cosas por esencia, presencia y potencia (a.3): por esencia en cuanto que les da el ser; por presencia en cuanto que todo lo ve; por potencia en cuanto que todo obra en todas. Estar en todas partes es propio de Dios (a.4): ninguna criatura puede estar en todo lugar del mismo modo, pues toda criatura tiene el ser limitado.
-
 ### Según el Catecismo (CEC)
 
 «Dios está presente en todas sus criaturas» (CEC §300). «Nada está oculto a sus ojos» (CEC §302). La omnipresencia divina es fundamento de la confianza y de la oración: «Dondequiera que estemos, podemos invocar a Dios» (CEC §2566). Dios está presente en el mundo como Creador y Señor, y de modo especial en la Iglesia y en los sacramentos.
+
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata la presencia de Dios en las cosas en SmTh Iª q.8. Dios está en todas las cosas (a.1): no por división de su esencia ni por contacto local, sino como el agente está presente en su efecto. Puesto que Dios es el ser mismo subsistente y da el ser a todas las cosas, está presente íntimamente en todo lo que existe, conservándolo en el ser. Dios está en todas partes (a.2): no como los cuerpos (circunscritivamente) ni como los ángeles (definitivamente), sino de modo que todo lugar le está inmediatamente presente. Dios está en todas las cosas por esencia, presencia y potencia (a.3): por esencia en cuanto que les da el ser; por presencia en cuanto que todo lo ve; por potencia en cuanto que todo obra en todas. Estar en todas partes es propio de Dios (a.4): ninguna criatura puede estar en todo lugar del mismo modo, pues toda criatura tiene el ser limitado.
 
 ### Según Royo Marín (TPCr)
 

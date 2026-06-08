@@ -13,13 +13,13 @@ Dios es infinito porque es el *ipsum esse subsistens*, el ser mismo subsistente.
 
 ## Perspectivas por fuente
 
-### Según la Summa Theologiae (SmTh)
-
-Santo Tomás trata la infinitud de Dios en SmTh Iª q.7. Dios es infinito (a.1): no es infinito como lo es la materia (que es infinita por privación de forma), sino como lo es la forma no recibida en materia. Dios es el acto puro subsistente, no limitado por ningún receptáculo; por tanto, es infinito. Solo Dios es infinito por esencia (a.2): ninguna criatura puede ser esencialmente infinita, pues toda criatura tiene el ser recibido y limitado por su esencia. Algunas criaturas pueden tener cierta infinitud relativa (como la duración de un ángel), pero no absoluta. No puede haber un cuerpo infinito en acto (a.3), porque todo cuerpo tiene cantidad determinada y limitada. Tampoco puede haber una multitud infinita en acto (a.4), aunque sí en potencia (como la serie de números).
-
 ### Según el Catecismo (CEC)
 
 El CEC afirma que Dios es «la plenitud del Ser y de toda perfección, sin origen y sin fin» (§213). «Dios es infinitamente más grande que todas sus obras» (§42). «Dios es la verdad misma» y su «sabiduría es infinita» (§215, §216). La Iglesia confiesa que Dios es «inmenso e inmutable, incomprensible, todopoderoso e inefable» (§201).
+
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata la infinitud de Dios en SmTh Iª q.7. Dios es infinito (a.1): no es infinito como lo es la materia (que es infinita por privación de forma), sino como lo es la forma no recibida en materia. Dios es el acto puro subsistente, no limitado por ningún receptáculo; por tanto, es infinito. Solo Dios es infinito por esencia (a.2): ninguna criatura puede ser esencialmente infinita, pues toda criatura tiene el ser recibido y limitado por su esencia. Algunas criaturas pueden tener cierta infinitud relativa (como la duración de un ángel), pero no absoluta. No puede haber un cuerpo infinito en acto (a.3), porque todo cuerpo tiene cantidad determinada y limitada. Tampoco puede haber una multitud infinita en acto (a.4), aunque sí en potencia (como la serie de números).
 
 ### Según Royo Marín (TPCr)
 

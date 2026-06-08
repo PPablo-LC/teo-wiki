@@ -13,13 +13,13 @@ El cuidado pastoral se funda en el mandato de Cristo a Pedro: «Apacienta mis ov
 
 ## Perspectivas por fuente
 
-### Según el Concilio Vaticano II (LG, CD, PO)
-
-Los obispos, como vicarios de Cristo, pastorean la Iglesia que se les ha confiado (LG 27). El ministerio pastoral debe ejercerse como servicio, no como poder (LG 24). Los presbíteros son cooperadores del orden episcopal (PO 2). La santidad del pastor es condición para la eficacia de su ministerio (PO 12-13). Cristo es el modelo de todo cuidado pastoral: el Buen Pastor que da la vida (PO 14).
-
 ### Según el Catecismo (CEC)
 
 Los obispos y presbíteros participan del sacerdocio de Cristo y ejercen el cuidado pastoral en nombre de Cristo Cabeza (§874-896, §1548-1565). El cuidado pastoral incluye enseñar, santificar y regir (§893-896). Los pastores deben ser servidores, no señores (§876). Los fieles tienen derecho a recibir de los pastores los sacramentos y la doctrina (§2135).
+
+### Según el Concilio Vaticano II (LG, CD, PO)
+
+Los obispos, como vicarios de Cristo, pastorean la Iglesia que se les ha confiado (LG 27). El ministerio pastoral debe ejercerse como servicio, no como poder (LG 24). Los presbíteros son cooperadores del orden episcopal (PO 2). La santidad del pastor es condición para la eficacia de su ministerio (PO 12-13). Cristo es el modelo de todo cuidado pastoral: el Buen Pastor que da la vida (PO 14).
 
 ### Según Santo Tomás (SmTh)
 

@@ -13,6 +13,9 @@ La vanidad es considerada hija de la soberbia y engendra a su vez otros vicios. 
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La vanidad no está enumerada explícitamente como pecado capital, pero se relaciona con el orgullo y la soberbia de la vida (1 Jn 2,16; CEC §2514). El Catecismo enseña que los comportamientos de soberbia y egoísmo que obstaculizan la fraternidad solo cesan con la caridad (§1931).
 ### Según Royo Marín (TPCr)
 
 La vanidad o vanagloria es una de las pasiones hijas de la soberbia. El don de temor combate las pasiones que juntamente con la vanagloria son hijas de la soberbia: la jactancia, la presunción, la hipocresía, la pertinacia, la discordia, la réplica airada y la desobediencia.
@@ -23,9 +26,6 @@ San Juan de la Cruz enseña que la vanidad es uno de los daños del gozo: «Del 
 
 [TPCr, Parte III, Libro II, Cap. II, n.351, 371; Parte III, Libro I, n.231]
 
-### Según el Catecismo (CEC)
-
-La vanidad no está enumerada explícitamente como pecado capital, pero se relaciona con el orgullo y la soberbia de la vida (1 Jn 2,16; CEC §2514). El Catecismo enseña que los comportamientos de soberbia y egoísmo que obstaculizan la fraternidad solo cesan con la caridad (§1931).
 
 ## Distinciones importantes
 

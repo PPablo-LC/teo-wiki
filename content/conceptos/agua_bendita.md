@@ -15,13 +15,13 @@ Los ritos de bendición del agua incluyen el pequeño exorcismo, por el cual se 
 
 ## Perspectivas por fuente
 
-### Según el Código de Derecho Canónico (CIC)
-
-El CIC regula el agua bendita dentro del marco de los sacramentales (cc. 1166-1172) y de las bendiciones (c. 1169). Cualquier presbítero puede impartir bendiciones, incluyendo la bendición del agua (c. 1169 §2). Las cosas sagradas destinadas al culto mediante bendición —como el agua bendita— deben tratarse con reverencia (c. 1171). Además, el canon 853 establece que, fuera del caso de necesidad, el agua empleada para administrar el bautismo debe estar bendecida según las prescripciones de los libros litúrgicos.
-
 ### Según el Catecismo (CEC)
 
 El Catecismo menciona el agua bendita en el contexto de los sacramentales (§1668). «La Iglesia ha instituido los sacramentales, que son signos sagrados por medio de los cuales [...] se santifican las diversas circunstancias de la vida». El agua bendita es uno de los sacramentales más conocidos y utilizados.
+
+### Según el Código de Derecho Canónico (CIC)
+
+El CIC regula el agua bendita dentro del marco de los sacramentales (cc. 1166-1172) y de las bendiciones (c. 1169). Cualquier presbítero puede impartir bendiciones, incluyendo la bendición del agua (c. 1169 §2). Las cosas sagradas destinadas al culto mediante bendición —como el agua bendita— deben tratarse con reverencia (c. 1171). Además, el canon 853 establece que, fuera del caso de necesidad, el agua empleada para administrar el bautismo debe estar bendecida según las prescripciones de los libros litúrgicos.
 
 ### Según Royo Marín (TPCr)
 

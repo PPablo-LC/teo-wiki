@@ -21,6 +21,10 @@ Antes del pecado original, el cuerpo gozaba del don preternatural de la integrid
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+«Se debe considerar al alma como la forma del cuerpo» (CEC §365). La unidad del alma y el cuerpo es tan profunda que el hombre es *corpore et anima unus* (CEC §382). El alma espiritual es el principio de unidad del ser humano (§364-365).
+
 ### Según la Summa Theologiae (SmTh)
 
 **Iª q.76 — Unión del alma con el cuerpo:**
@@ -36,10 +40,6 @@ Antes del pecado original, el cuerpo gozaba del don preternatural de la integrid
 **a.5 — El alma y el ángel no son de la misma especie:** A diferencia del ángel, que es forma subsistente sin materia, el alma humana es forma subsistente ordenada a un cuerpo.
 
 **a.6 — La unión alma-cuerpo es natural y propia:** El alma se une al cuerpo no accidentalmente, sino como forma substancial, por la exigencia misma de su naturaleza.
-
-### Según el Catecismo (CEC)
-
-«Se debe considerar al alma como la forma del cuerpo» (CEC §365). La unidad del alma y el cuerpo es tan profunda que el hombre es *corpore et anima unus* (CEC §382). El alma espiritual es el principio de unidad del ser humano (§364-365).
 
 ### Según Royo Marín (TPCr)
 

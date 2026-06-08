@@ -13,17 +13,13 @@ La existencia de los ángeles es verdad de fe, atestiguada por la Escritura y la
 
 ## Perspectivas por fuente
 
-### Según Para Salvarte (PS)
+### Según el Catecismo (CEC)
 
-Loring explica que «además de este mundo visible, hay también un mundo invisible»: los espíritus puros llamados ángeles [PS §06,2]. Son «criaturas puramente espirituales, tienen inteligencia y voluntad: son criaturas personales». Su existencia es dogma de fe, definido por el Concilio IV de Letrán [PS §06,2]. La Escritura testimonia su existencia en innumerables pasajes; conocemos los nombres de Miguel, Rafael y Gabriel. Se distribuyen en jerarquías: Querubines y Serafines en el AT, Ángeles y Arcángeles en el Evangelio, Tronos, Dominaciones y Potestades en San Pablo [PS §06,2]. Dios da a cada hombre un Ángel de la Guarda para su defensa y protección, según la interpretación unánime de los Santos Padres [PS §06,2]. Algunos ángeles sucumbieron por rebelión contra Dios y se convirtieron en demonios [PS §06,2].
+«El nombre de ángel indica su oficio, no su naturaleza. Si preguntas por su naturaleza, te diré que es un espíritu; si preguntas por lo que hace, te diré que es un ángel» (§329, San Agustín). En la vida de la Iglesia, la Iglesia se une a los ángeles en la liturgia e invoca su asistencia (§334-336).
 
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 El AT utiliza principalmente *mal'ak* (mensajero) para designar a los ángeles, que son enviados por Dios para asistir a los hombres en momentos decisivos (Gedeón, Tobías, Daniel). En el NT, los ángeles rodean el nacimiento, la tentación, la agonía y la resurrección de Jesús, y estarán presentes en la Parusía (*Mt 25,31*). La carta a los Hebreos los presenta como «espíritus servidores, enviados para servicio de los que han de heredar la salvación» (*Heb 1,14*). El Apocalipsis revela la liturgia celestial presidida por los ángeles y la lucha del arcángel Miguel contra el dragón [VocTeoBib, «Ángeles»].
-
-### Según el Catecismo (CEC)
-
-«El nombre de ángel indica su oficio, no su naturaleza. Si preguntas por su naturaleza, te diré que es un espíritu; si preguntas por lo que hace, te diré que es un ángel» (§329, San Agustín). En la vida de la Iglesia, la Iglesia se une a los ángeles en la liturgia e invoca su asistencia (§334-336).
 
 ### Según la Summa Theologiae (SmTh)
 
@@ -58,6 +54,10 @@ Santo Tomás trata la naturaleza, el conocimiento y la voluntad de los ángeles 
 **Misión de los ángeles (q.112):** Algunos ángeles son enviados en ministerio para ejecutar el gobierno divino sobre las criaturas corporales (q.112 a.1). No todos los ángeles son enviados a ministerios exteriores: los de la primera jerarquía (Serafines, Querubines, Tronos) y las Dominaciones nunca son enviados, pues su función es contemplar a Dios y disponer, no ejecutar (q.112 a.2). Los ángeles que sirven también asisten ante Dios en cuanto ven la esencia divina, pero en sentido propio solo asisten (son iluminados inmediatamente por Dios) los de la primera jerarquía (q.112 a.3).
 
 **Ángeles custodios (q.113):** Los hombres están custodiados por los ángeles para ser dirigidos y movidos hacia el bien (q.113 a.1). A cada hombre le corresponde un ángel custodio distinto, conforme a la providencia particular de Dios sobre cada alma racional (q.113 a.2). La guarda particular de cada hombre pertenece al ínfimo orden de ángeles (los llamados propiamente Ángeles), mientras que la guarda colectiva de naciones y reinos pertenece a órdenes superiores (q.113 a.3). Todo hombre —justo o pecador, fiel o infiel— tiene un ángel custodio mientras vive en este mundo (q.113 a.4), asignado desde el momento de nacer (q.113 a.5). El ángel custodio nunca abandona totalmente al hombre, aunque permite tribulaciones y pecados según el orden de la divina Providencia (q.113 a.6). No se duele del mal del custodiado porque su voluntad está conforme a la justicia divina (q.113 a.7). Las aparentes discrepancias entre ángeles por la custodia (Dan 10) no son oposición de voluntades sino consulta sobre méritos contrarios (q.113 a.8).
+### Según Para Salvarte (PS)
+
+Loring explica que «además de este mundo visible, hay también un mundo invisible»: los espíritus puros llamados ángeles [PS §06,2]. Son «criaturas puramente espirituales, tienen inteligencia y voluntad: son criaturas personales». Su existencia es dogma de fe, definido por el Concilio IV de Letrán [PS §06,2]. La Escritura testimonia su existencia en innumerables pasajes; conocemos los nombres de Miguel, Rafael y Gabriel. Se distribuyen en jerarquías: Querubines y Serafines en el AT, Ángeles y Arcángeles en el Evangelio, Tronos, Dominaciones y Potestades en San Pablo [PS §06,2]. Dios da a cada hombre un Ángel de la Guarda para su defensa y protección, según la interpretación unánime de los Santos Padres [PS §06,2]. Algunos ángeles sucumbieron por rebelión contra Dios y se convirtieron en demonios [PS §06,2].
+
 
 ## Ver también
 

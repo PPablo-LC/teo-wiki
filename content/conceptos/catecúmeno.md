@@ -13,13 +13,13 @@ La Iglesia presta especial atención a los catecúmenos, invitándolos a llevar 
 
 ## Perspectivas por fuente
 
+### Según el Código de Derecho Canónico (CIC)
+
+El canon 206 establece la condición especial de los catecúmenos: de una manera especial se relacionan con la Iglesia, movidos por el Espíritu Santo, solicitan ser incorporados a ella, están unidos a la Iglesia por el deseo y la vida de fe, esperanza y caridad. La Iglesia los acoge ya como suyos, les presta especial atención, los invita a la vida evangélica, los inicia en los ritos sagrados y les concede prerrogativas propias de los cristianos.
 ### Según el Concilio Vaticano II (ConcVatII)
 
 *Sacrosanctum Concilium* 64 ordena la restauración del catecumenado de adultos dividido en distintas etapas, cuya práctica dependerá del juicio del Ordinario del lugar. El tiempo del catecumenado, establecido para la conveniente instrucción, debe ser santificado con sagrados ritos que se celebrarán en tiempos sucesivos. SC 65 añade que en las misiones pueden admitirse elementos de iniciación propios de cada pueblo, en cuanto puedan acomodarse al rito cristiano.
 
-### Según el Código de Derecho Canónico (CIC)
-
-El canon 206 establece la condición especial de los catecúmenos: de una manera especial se relacionan con la Iglesia, movidos por el Espíritu Santo, solicitan ser incorporados a ella, están unidos a la Iglesia por el deseo y la vida de fe, esperanza y caridad. La Iglesia los acoge ya como suyos, les presta especial atención, los invita a la vida evangélica, los inicia en los ritos sagrados y les concede prerrogativas propias de los cristianos.
 
 ## Distinciones importantes
 

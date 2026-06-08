@@ -15,6 +15,10 @@ En el NT, Zacarías bendice a Dios porque «ha visitado y redimido a su pueblo»
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+Cristo «quiere visitar a los que viven en tinieblas y en sombra de muerte» en el descenso a los infiernos (CEC §635, §724). La visita de Dios a su pueblo se realiza en la Encarnación y en la obra redentora de Cristo.
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 El verbo *paqad* en el AT expresa la atención de Dios a su pueblo. Se usa tanto para la bendición (Dios visita a Sara, Gén 21,1) como para el juicio (Dios visita la iniquidad, Ex 20,5). La visita de Dios es el momento decisivo que determina la suerte del pueblo.
@@ -22,10 +26,6 @@ El verbo *paqad* en el AT expresa la atención de Dios a su pueblo. Se usa tanto
 En los profetas, la «visita» adquiere un sentido escatológico. El día de la visita de Dios será día de juicio y de salvación. Jeremías habla del «tiempo de la visita» (Jer 8,12). El libro de la Sabiduría habla de la visita de los justos en la hora de su muerte (Sab 3,7-9).
 
 En el NT, el verbo *episkeptomai* tiene un sentido de misericordia: visitar al necesitado. Jesús visita a su pueblo (Lc 1,68; 7,16). La Iglesia continúa la visita de Cristo visitando a los que sufren. La visita de Dios se actualiza en la liturgia y en el servicio a los pobres. Los carismas son para la edificación de la Iglesia en el tiempo de la visita.
-
-### Según el Catecismo (CEC)
-
-Cristo «quiere visitar a los que viven en tinieblas y en sombra de muerte» en el descenso a los infiernos (CEC §635, §724). La visita de Dios a su pueblo se realiza en la Encarnación y en la obra redentora de Cristo.
 
 ### Según Royo Marín (TPCr)
 

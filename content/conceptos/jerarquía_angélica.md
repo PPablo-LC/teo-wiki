@@ -17,10 +17,6 @@ Los ángeles son criaturas espirituales, personales e inmortales, superiores en 
 
 El CEC habla de la existencia y naturaleza de los ángeles (§328-336). Son criaturas personales e inmortales (§330). Cristo es el centro del mundo angélico (§331). Los ángeles están presentes en la vida de Cristo y de la Iglesia (§333-336). No desarrolla expresamente la clasificación de los nueve coros, pero reconoce la diversidad de funciones.
 
-### Según Royo Marín (TPCr)
-
-Royo Marín trata la jerarquía angélica en el contexto de la perfección cristiana y la configuración con Cristo. Señala que la dignidad del sacerdocio supera incluso a las jerarquías angélicas (TPCr, Tercera Parte, Libro III). Los ángeles son presentados como modelos de adoración y servicio a Dios, y como protectores de las almas en su camino hacia la perfección.
-
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás fundamenta la jerarquía angélica en la distinción específica de los ángeles (SmTh Iª q.50 a.4). Al ser formas subsistentes sin materia, cada ángel constituye una especie única, y dichas especies se ordenan según grados de perfección creciente. Esta diversidad específica es la base ontológica de la jerarquía.
@@ -38,6 +34,10 @@ El orden jerárquico se refleja también en el conocimiento mutuo: todo ángel c
 **Lenguaje de los ángeles (q.107):** Los ángeles se comunican entre sí ordenando voluntariamente su concepto mental para que sea conocido por otro (q.107 a.1). No necesitan lenguaje sensible (voz, gestos) porque no tienen el obstáculo del cuerpo. Los ángeles inferiores pueden hablar a los superiores manifestándoles lo que depende de su voluntad creada, aunque no pueden iluminarlos (q.107 a.2). Los ángeles hablan a Dios alabándole y consultando la voluntad divina (q.107 a.3). La distancia local no impide el lenguaje angélico, porque es operación intelectual (q.107 a.4). Un ángel puede dirigir su concepto a otro sin que lo conozcan los demás (q.107 a.5).
 
 **Misión de los ángeles (q.112):** Algunos ángeles son enviados en ministerio para ejecutar el gobierno divino (q.112 a.1). Los ángeles de la primera jerarquía (Serafines, Querubines, Tronos) y las Dominaciones nunca son enviados a ministerios exteriores: los primeros contemplan inmediatamente a Dios; las Dominaciones disponen y ordenan lo que otros deben ejecutar (q.112 a.2). Los enviados también asisten ante Dios en cuanto ven la esencia divina, pero en sentido propio solo asisten (son iluminados inmediatamente por Dios) los de la primera jerarquía (q.112 a.3). Los cinco órdenes inferiores (Principados, Arcángeles, Ángeles, Virtudes, Potestades) son los enviados en ministerio exterior (q.112 a.4).
+### Según Royo Marín (TPCr)
+
+Royo Marín trata la jerarquía angélica en el contexto de la perfección cristiana y la configuración con Cristo. Señala que la dignidad del sacerdocio supera incluso a las jerarquías angélicas (TPCr, Tercera Parte, Libro III). Los ángeles son presentados como modelos de adoración y servicio a Dios, y como protectores de las almas en su camino hacia la perfección.
+
 
 ## Distinciones importantes
 

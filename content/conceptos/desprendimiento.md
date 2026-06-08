@@ -17,15 +17,15 @@ El desprendimiento no aniquila las tendencias naturales, sino que las orienta ha
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC §2544-2547 vincula el desprendimiento con la bienaventuranza de la pobreza de espíritu. La renuncia a los bienes terrenos es condición para la libertad de los hijos de Dios.
 ### Según Royo Marín (TPCr)
 
 En los proficientes, el desprendimiento de todas las cosas de la tierra llega más lejos que en los principiantes (n.351). Ante la soberana hermosura de Dios, el alma renuncia de buen grado a todo lo terreno: cosas exteriores (desprendimiento total, amor a la pobreza), placeres y diversiones, aplausos y honores, venciendo la triple concupiscencia.
 
 El don de ciencia produce en los santos esa visión profunda sobre la necesidad del desprendimiento absoluto. Para un alma iluminada por este don, la creación es un libro abierto donde descubre sin esfuerzo la nada de las criaturas y el todo del Creador.
 
-### Según el Catecismo (CEC)
-
-El CEC §2544-2547 vincula el desprendimiento con la bienaventuranza de la pobreza de espíritu. La renuncia a los bienes terrenos es condición para la libertad de los hijos de Dios.
 
 ## Distinciones importantes
 

@@ -21,13 +21,13 @@ La fraternidad cristiana se funda en la paternidad de Dios y en la hermandad uni
 
 La fraternidad es uno de los principios permanentes de la DSI (DSI 157-159). Implica el destino universal de los bienes y la solidaridad. «La civilización del amor» es el ideal de fraternidad universal. La fraternidad exige superar las desigualdades y construir un orden social más justo (DSI 192, 449). El principio de solidaridad es expresión concreta de la fraternidad.
 
-### Según Jorge Loring (PS)
-
-«Todos los hombres somos hermanos porque tenemos un mismo Padre Dios y un mismo Redentor Jesucristo». El amor al prójimo es mandamiento principal de la ley de Dios. La fraternidad cristiana se practica especialmente con los más necesitados.
-
 ### Según Royo Marín (TPCr)
 
 La caridad fraterna es una parte esencial de la perfección cristiana. El amor al prójimo por amor de Dios es mandato divino y signo del verdadero discípulo de Cristo. La corrección fraterna es una obra de misericordia necesaria.
+
+### Según Jorge Loring (PS)
+
+«Todos los hombres somos hermanos porque tenemos un mismo Padre Dios y un mismo Redentor Jesucristo». El amor al prójimo es mandamiento principal de la ley de Dios. La fraternidad cristiana se practica especialmente con los más necesitados.
 
 ### Según el análisis de conferencias (notas)
 

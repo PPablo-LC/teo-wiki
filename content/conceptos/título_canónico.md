@@ -13,6 +13,9 @@ El título canónico responde a la necesidad de que todo clérigo tenga una adsc
 
 ## Perspectivas por fuente
 
+### Según el Concilio Vaticano II (ConcVatII)
+
+*Presbyterorum Ordinis* recomienda que los candidatos al presbiterado sean formados para servir a la Iglesia universal, pero ordenados para una Iglesia particular con título de servicio a la misma (PO §10). *Christus Dominus* y *Optatam Totius* refuerzan la necesidad de que la ordenación se vincule a la Iglesia particular o al instituto religioso correspondiente.
 ### Según el CIC
 
 El c. 1009 §1 establece que las órdenes sagradas son el episcopado, el presbiterado y el diaconado. Para ser ordenado válidamente, el candidato debe poseer título canónico (c. 1010). El c. 1016 establece que el título canónico para presbíteros es: la incardinación en una diócesis (título de servicio de la diócesis), la pertenencia a un instituto religioso o sociedad de vida apostólica (título de pobreza o título de la mesa común), o un título establecido por la Conferencia Episcopal. Para los diáconos, el c. 1016 §2 establece que el título es la incardinación en una diócesis (título de servicio) o la pertenencia a un instituto religioso.
@@ -23,9 +26,6 @@ El c. 1025 §1 exige que el obispo propio del candidato o el superior mayor reli
 
 El Comentario Exegético distingue entre el título canónico como requisito de validez y como requisito de licitud. La función del título canónico es triple: garantizar la sustentación del ordenado, asegurar su adscripción a una comunidad eclesial, y evitar la existencia de clérigos vagos o sin sujeción. El título de servicio de la diócesis ha reemplazado al antiguo título de beneficio, reflejando la superación del sistema beneficial.
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-*Presbyterorum Ordinis* recomienda que los candidatos al presbiterado sean formados para servir a la Iglesia universal, pero ordenados para una Iglesia particular con título de servicio a la misma (PO §10). *Christus Dominus* y *Optatam Totius* refuerzan la necesidad de que la ordenación se vincule a la Iglesia particular o al instituto religioso correspondiente.
 
 ## Distinciones importantes
 

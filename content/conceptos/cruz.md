@@ -21,6 +21,9 @@ El Catecismo enseña que «la muerte de Cristo es a la vez el sacrificio pascual
 
 La cruz revela el amor extremo de Dios: «Tanto amó Dios al mundo que dio a su Hijo único» (Jn 3,16). Jesús entrega su vida en la cruz como rescate por todos (§622). En la cruz, Cristo carga con nuestros pecados y muere por nosotros.
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+La cruz es «escándalo para los judíos y locura para los gentiles» (*1Cor 1,23*), pero para los creyentes es «sabiduría y poder de Dios». Pablo desarrolla la teología de la cruz como cumplimiento del designio divino: Cristo, «hecho maldición por nosotros» (*Gal 3,13*) al ser colgado del madero, nos redimió de la maldición de la ley. Para Juan, la cruz es ya glorificación: Jesús es «elevado» como la serpiente de bronce (*Jn 3,14*), y de su costado brotan sangre y agua (*Jn 19,34*). El cristiano debe cargar con su cruz y seguir a Cristo (*Mt 16,24*), crucificando la carne con sus pasiones (*Gal 5,24*). La cruz es el único título de gloria del cristiano (*Gal 6,14*) [VocTeoBib, «Cruz»].
 ### Según Royo Marín (TPCr)
 
 Royo Marín presenta la cruz como el medio principal de la perfección cristiana. La aceptación amorosa de la cruz es necesaria para la santidad. No hay santidad sin cruz. La cruz es la prueba del amor y el camino más seguro para alcanzar la unión con Dios.
@@ -29,9 +32,6 @@ La mortificación cristiana, la aceptación de los sufrimientos y la paciencia e
 
 [TPCr, Parte III, Libro I — Aspecto Negativo de la Vida Cristiana]
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-La cruz es «escándalo para los judíos y locura para los gentiles» (*1Cor 1,23*), pero para los creyentes es «sabiduría y poder de Dios». Pablo desarrolla la teología de la cruz como cumplimiento del designio divino: Cristo, «hecho maldición por nosotros» (*Gal 3,13*) al ser colgado del madero, nos redimió de la maldición de la ley. Para Juan, la cruz es ya glorificación: Jesús es «elevado» como la serpiente de bronce (*Jn 3,14*), y de su costado brotan sangre y agua (*Jn 19,34*). El cristiano debe cargar con su cruz y seguir a Cristo (*Mt 16,24*), crucificando la carne con sus pasiones (*Gal 5,24*). La cruz es el único título de gloria del cristiano (*Gal 6,14*) [VocTeoBib, «Cruz»].
 
 ## Distinciones importantes
 

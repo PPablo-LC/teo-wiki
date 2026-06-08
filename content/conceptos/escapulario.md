@@ -13,13 +13,13 @@ El escapulario tiene su origen en la tradición carmelitana; el más venerado es
 
 ## Perspectivas por fuente
 
-### Según el Código de Derecho Canónico (CIC)
-
-El CIC no menciona el escapulario directamente, pero lo encuadra dentro de la categoría de los sacramentales (cc. 1166-1172). Como sacramental, su confección y administración deben ajustarse a los ritos y fórmulas aprobados por la autoridad de la Iglesia (c. 1167 §2). Las bendiciones de escapularios pueden ser impartidas por cualquier presbítero (c. 1169 §2). Las cosas sagradas destinadas al culto mediante bendición deben tratarse con reverencia y no emplearse para uso profano (c. 1171).
-
 ### Según el Catecismo (CEC)
 
 El CEC no menciona expresamente el escapulario, pero trata de los sacramentales en general (§§1667-1679), que son signos sagrados instituidos por la Iglesia que disponen a recibir el efecto principal de los sacramentos. Entre las expresiones de religiosidad popular menciona las medallas, procesiones, peregrinaciones y el rosario (§1674).
+
+### Según el Código de Derecho Canónico (CIC)
+
+El CIC no menciona el escapulario directamente, pero lo encuadra dentro de la categoría de los sacramentales (cc. 1166-1172). Como sacramental, su confección y administración deben ajustarse a los ritos y fórmulas aprobados por la autoridad de la Iglesia (c. 1167 §2). Las bendiciones de escapularios pueden ser impartidas por cualquier presbítero (c. 1169 §2). Las cosas sagradas destinadas al culto mediante bendición deben tratarse con reverencia y no emplearse para uso profano (c. 1171).
 
 ### Según Royo Marín (TPCr)
 

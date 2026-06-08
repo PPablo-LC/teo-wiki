@@ -23,13 +23,13 @@ En el círculo del año se desarrolla todo el misterio de Cristo: Adviento, Navi
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El año litúrgico es el despliegue del misterio de Cristo en la Iglesia (CEC §1163-1173). El domingo, «día del Señor», es el día primordial de la asamblea litúrgica (CEC §1166-1167).
 ### Según el Concilio Vaticano II (ConcVatII)
 
 SC 102-111 reforma el año litúrgico, ordenando que se revise de manera que se mantenga su índole primitiva para alimentar la piedad de los fieles en la celebración de los misterios de la redención, especialmente el misterio pascual (SC 107). La Cuaresma debe preparar a los fieles para celebrar el misterio pascual mediante la penitencia y el recuerdo del bautismo (SC 109). La penitencia cuaresmal debe ser interna e individual, pero también externa y social (SC 110).
 
-### Según el Catecismo (CEC)
-
-El año litúrgico es el despliegue del misterio de Cristo en la Iglesia (CEC §1163-1173). El domingo, «día del Señor», es el día primordial de la asamblea litúrgica (CEC §1166-1167).
 
 ## Distinciones importantes
 

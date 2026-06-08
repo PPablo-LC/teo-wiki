@@ -17,17 +17,17 @@ Vigilancia espiritual y ascética sobre los propios pensamientos, afectos y dese
 
 Jesús enseña que del corazón del hombre salen los malos pensamientos: homicidios, adulterios, fornicaciones, robos, falsos testimonios, blasfemias (Mt 15,19; CEC §2517). La pureza de corazón es necesaria para ver a Dios (Mt 5,8; CEC §2518). El combate espiritual requiere la vigilancia del corazón contra las tentaciones (§2849-2850). La acedia o pereza espiritual es una forma de falta de vigilancia del corazón que debe combatirse (§2733).
 
-### Según los Padres del Desierto
+### Según Santo Tomás (SmTh)
 
-Los Padres del desierto enseñaban la «custodia de la mente» (nepsis) como vigilancia incesante sobre los pensamientos (logismoi). Evagrio Póntico clasificó ocho pensamientos principales que deben ser vigilados. San Juan Casiano transmitió esta doctrina a Occidente. La lucha contra la acedia («demonio del mediodía») requiere perseverancia y trabajo manual.
+La vigilancia espiritual es un acto de la prudencia que previene contra las tentaciones. El don de consejo ayuda a discernir los movimientos interiores. Los frutos del Espíritu Santo —paz, paciencia, longanimidad— son señales de un corazón bien custodiado (I-II q.70). La virtud de la templanza y la castidad requieren vigilancia del corazón (II-II q.141-155).
 
 ### Según Royo Marín (TPCr)
 
 La custodia del corazón corresponde a la vía purgativa, primera etapa de la vida espiritual. Consiste en la purificación activa de los sentidos internos y externos, rechazando las tentaciones desde sus primeros movimientos. La mortificación de los sentidos es necesaria para avanzar hacia la vía iluminativa (TPCr, Primera Parte).
 
-### Según Santo Tomás (SmTh)
+### Según los Padres del Desierto
 
-La vigilancia espiritual es un acto de la prudencia que previene contra las tentaciones. El don de consejo ayuda a discernir los movimientos interiores. Los frutos del Espíritu Santo —paz, paciencia, longanimidad— son señales de un corazón bien custodiado (I-II q.70). La virtud de la templanza y la castidad requieren vigilancia del corazón (II-II q.141-155).
+Los Padres del desierto enseñaban la «custodia de la mente» (nepsis) como vigilancia incesante sobre los pensamientos (logismoi). Evagrio Póntico clasificó ocho pensamientos principales que deben ser vigilados. San Juan Casiano transmitió esta doctrina a Occidente. La lucha contra la acedia («demonio del mediodía») requiere perseverancia y trabajo manual.
 
 ### Según las notas de formación (Tim Barry)
 

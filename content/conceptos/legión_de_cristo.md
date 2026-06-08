@@ -13,6 +13,9 @@ La Congregación fue fundada en la Ciudad de México en 1941. Tras un proceso de
 
 ## Perspectivas por fuente
 
+### Según el Derecho Canónico (CIC)
+
+Las Constituciones de la Legión (CLC-2020) fueron aprobadas por la Santa Sede y constituyen su derecho propio. La Congregación pertenece constitutivamente al Regnum Christi y forma parte de la Federación Regnum Christi [CLC-2020, 7]. Su gobierno, formación y disciplina se rigen por el derecho común (CIC cc. 573-746) y por su derecho particular (CLC-2020, NC, CVV).
 ### Según el Capítulo General LC-2026 (LC-2026)
 
 El carisma legionario fue codificado en las Constituciones: los legionarios buscan que Cristo reine y dan gloria a Dios viviendo un cristocentrismo real [LC-2026, n. 40]. La misión de la Legión es «formar apóstoles, líderes cristianos al servicio de la Iglesia» [LC-2026, n. 126], con especial atención al acompañamiento personal.
@@ -21,9 +24,6 @@ El Capítulo afirma que «el núcleo del carisma permanece vivo, no dependiendo 
 
 El Papa León XIV, en su discurso al Capítulo (19 de febrero de 2026), recordó que los legionarios «no son dueños del carisma, sino sus custodios y servidores» y los llamó a una «fidelidad creativa» en la vivencia del carisma [LC-2026, n. 3-5].
 
-### Según el Derecho Canónico (CIC)
-
-Las Constituciones de la Legión (CLC-2020) fueron aprobadas por la Santa Sede y constituyen su derecho propio. La Congregación pertenece constitutivamente al Regnum Christi y forma parte de la Federación Regnum Christi [CLC-2020, 7]. Su gobierno, formación y disciplina se rigen por el derecho común (CIC cc. 573-746) y por su derecho particular (CLC-2020, NC, CVV).
 
 ## Relaciones doctrinales
 

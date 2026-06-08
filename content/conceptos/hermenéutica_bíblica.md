@@ -13,10 +13,19 @@ La interpretación de la Escritura debe realizarse según el Espíritu que la in
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC dedica una sección a la interpretación de la Escritura (§§109-119). Los criterios de interpretación son: atención al contenido y a la unidad de toda la Escritura, lectura en la Tradición viva de la Iglesia, y atención a la analogía de la fe (§112-114). El sentido literal es el fundamento de los sentidos espirituales (alegórico, moral, anagógico) (§115-119). La Sagrada Escritura debe ser leída con la ayuda del Espíritu Santo y en comunión con la Iglesia.
+
 ### Según el Concilio Vaticano II (ConcVatII)
 
 *Dei Verbum* 12 es el texto fundacional de la hermenéutica bíblica católica contemporánea. Establece el principio de que la Escritura debe interpretarse «con el mismo Espíritu con que se escribió». Señala tres criterios hermenéuticos: 1) atender al contenido y a la unidad de toda la Escritura; 2) leer en la Tradición viva de toda la Iglesia; 3) la analogía de la fe. Reconoce la diversidad de géneros literarios como clave para descubrir la intención del hagiógrafo. La interpretación última corresponde a la Iglesia, que tiene el ministerio divino de conservar e interpretar la palabra de Dios (DV 12).
 
+### Según Royo Marín (TPCr)
+
+Royo Marín no trata sistemáticamente la hermenéutica bíblica, pero hace referencia a la exégesis de los Santos Padres, especialmente en la interpretación de Isaías 11,2-3 (los siete dones). Cita a San Gregorio Magno y su exégesis alegórica de los siete hijos de Job. Menciona también la exégesis científica moderna.
+
+[TPCr, Segunda Parte, Cap. 1 (los dones); referencias dispersas]
 ### Según Raymond Brown (HEB)
 
 Brown define la hermenéutica como el término griego *herméneia* que abarcaba tres aspectos del proceso interpretativo: la interpretación por medio del lenguaje, la traducción de un idioma a otro, y la interpretación mediante el comentario y la explicación (HEB §3). En la concepción moderna, la hermenéutica se distingue de la exégesis «como la teoría de la práctica»: «la exégesis viene a ser la aplicación práctica de las normas teóricas que proporciona la hermenéutica» (HEB §3).
@@ -27,15 +36,6 @@ Brown distingue tres reacciones ante la exégesis supraliteral en la actualidad:
 
 [HEB §3-8, §32-79]
 
-### Según el Catecismo (CEC)
-
-El CEC dedica una sección a la interpretación de la Escritura (§§109-119). Los criterios de interpretación son: atención al contenido y a la unidad de toda la Escritura, lectura en la Tradición viva de la Iglesia, y atención a la analogía de la fe (§112-114). El sentido literal es el fundamento de los sentidos espirituales (alegórico, moral, anagógico) (§115-119). La Sagrada Escritura debe ser leída con la ayuda del Espíritu Santo y en comunión con la Iglesia.
-
-### Según Royo Marín (TPCr)
-
-Royo Marín no trata sistemáticamente la hermenéutica bíblica, pero hace referencia a la exégesis de los Santos Padres, especialmente en la interpretación de Isaías 11,2-3 (los siete dones). Cita a San Gregorio Magno y su exégesis alegórica de los siete hijos de Job. Menciona también la exégesis científica moderna.
-
-[TPCr, Segunda Parte, Cap. 1 (los dones); referencias dispersas]
 
 ## Distinciones importantes
 

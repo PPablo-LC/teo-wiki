@@ -13,6 +13,9 @@ El concepto abarca cualquier forma de comunicación que ponga en conocimiento de
 
 ## Perspectivas por fuente
 
+### Según el Código de Derecho Canónico (CIC)
+
+El c. 1717 §1 CIC establece que «siempre que el Ordinario tenga noticia de un delito, al menos verosímil, debe investigar con cautela». La *notitia* debe ser *saltem verisimilis* (al menos verosímil) para que proceda la investigación previa. Si falta manifiestamente la verosimilitud, no es necesario dar curso a la *notitia*.
 ### Según el Vademécum del DDF (VAD)
 
 El Vademécum (nn. 9-15) desarrolla exhaustivamente el concepto:
@@ -35,9 +38,6 @@ El Vademécum (nn. 9-15) desarrolla exhaustivamente el concepto:
 
 **Deber de vigilancia del Ordinario (n. 15):** El ejercicio del deber de vigilancia no prevé continuos controles de investigación sobre los clérigos, pero tampoco permite que el Ordinario se exima de estar informado sobre su conducta, sobre todo si ha tenido conocimiento de sospechas, comportamientos escandalosos o conductas que perturban el orden.
 
-### Según el Código de Derecho Canónico (CIC)
-
-El c. 1717 §1 CIC establece que «siempre que el Ordinario tenga noticia de un delito, al menos verosímil, debe investigar con cautela». La *notitia* debe ser *saltem verisimilis* (al menos verosímil) para que proceda la investigación previa. Si falta manifiestamente la verosimilitud, no es necesario dar curso a la *notitia*.
 
 ## Distinciones importantes
 

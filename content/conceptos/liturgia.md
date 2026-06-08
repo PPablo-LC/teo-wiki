@@ -21,17 +21,17 @@ La Iglesia celebra el misterio pascual cada domingo y a lo largo del año litúr
 
 ## Perspectivas por fuente
 
-### Según el Concilio Vaticano II (ConcVatII)
+### Según el Catecismo (CEC)
 
-La Constitución *Sacrosanctum Concilium* es la carta magna de la liturgia en el Concilio Vaticano II. SC 5-6 presentan la obra de la salvación realizada en Cristo y su continuación en la Iglesia por medio de la liturgia. La liturgia es considerada como «el ejercicio del sacerdocio de Jesucristo» (SC 7). En ella, los signos sensibles significan y realizan la santificación del hombre. Cristo está presente en la liturgia: en el sacrificio de la Misa, en los sacramentos, en su Palabra y cuando la Iglesia suplica y canta (SC 7). La liturgia es «la cumbre a la cual tiende la actividad de la Iglesia y al mismo tiempo la fuente de donde mana toda su fuerza» (SC 10). La participación plena, consciente y activa de todos los fieles es la meta de la reforma litúrgica (SC 14).
-
+El misterio pascual de Cristo se celebra, no se repite; son las celebraciones las que se repiten; en cada una de ellas tiene lugar la efusión del Espíritu Santo que actualiza el único Misterio (§1104). La Epíclesis y la Anámnesis son el centro de toda celebración sacramental (§1105-1106). La diversidad litúrgica manifiesta la catolicidad de la Iglesia (§1200-1209).
 ### Según el Código de Derecho Canónico (CIC)
 
 El CIC trata la sagrada liturgia en los cánones 834-839. La Iglesia cumple la función de santificar de modo peculiar a través de la sagrada liturgia, que es el ejercicio de la función sacerdotal de Jesucristo, en la cual se significa la santificación por signos sensibles y se ejerce el culto público a Dios por el Cuerpo místico (c. 834 §1). Ejercen esta función en primer término los Obispos, como principales dispensadores de los misterios de Dios y moderadores de la vida litúrgica (c. 835 §1); también los presbíteros, como ministros de Cristo (c. 835 §2); y los demás fieles participan activamente según su modo propio (c. 835 §4). Las acciones litúrgicas no son acciones privadas sino celebraciones de la Iglesia, «sacramento de unidad» (c. 837). La ordenación de la sagrada liturgia depende exclusivamente de la autoridad de la Iglesia: la Sede Apostólica para la Iglesia universal, las Conferencias Episcopales para las traducciones, y el Obispo diocesano dentro de su competencia (c. 838).
 
-### Según el Catecismo (CEC)
+### Según el Concilio Vaticano II (ConcVatII)
 
-El misterio pascual de Cristo se celebra, no se repite; son las celebraciones las que se repiten; en cada una de ellas tiene lugar la efusión del Espíritu Santo que actualiza el único Misterio (§1104). La Epíclesis y la Anámnesis son el centro de toda celebración sacramental (§1105-1106). La diversidad litúrgica manifiesta la catolicidad de la Iglesia (§1200-1209).
+La Constitución *Sacrosanctum Concilium* es la carta magna de la liturgia en el Concilio Vaticano II. SC 5-6 presentan la obra de la salvación realizada en Cristo y su continuación en la Iglesia por medio de la liturgia. La liturgia es considerada como «el ejercicio del sacerdocio de Jesucristo» (SC 7). En ella, los signos sensibles significan y realizan la santificación del hombre. Cristo está presente en la liturgia: en el sacrificio de la Misa, en los sacramentos, en su Palabra y cuando la Iglesia suplica y canta (SC 7). La liturgia es «la cumbre a la cual tiende la actividad de la Iglesia y al mismo tiempo la fuente de donde mana toda su fuerza» (SC 10). La participación plena, consciente y activa de todos los fieles es la meta de la reforma litúrgica (SC 14).
+
 
 ## Ver también
 

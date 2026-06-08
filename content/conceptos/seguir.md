@@ -15,6 +15,10 @@ El seguimiento implica renuncia: «Si alguno quiere venir en pos de mí, niégue
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+Seguir a Cristo es la llamada fundamental del discípulo: «tomar su cruz y seguirle» (CEC §618). La vida cristiana consiste en seguir el ejemplo de Cristo (§520, §1709), seguir la voz de la conciencia (§1778-§1779) y seguir los impulsos del Espíritu Santo mediante sus dones (§1830). El seguimiento implica también el camino de la cruz hasta la muerte y la resurrección (§677, §1816).
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 El seguimiento de Cristo es un tema central de la cristología neotestamentaria. En los sinópticos, el verbo *akolouthein* (seguir) designa la relación del discípulo con Jesús. Implica un movimiento físico y espiritual: ir detrás de Jesús, compartir su destino. La llamada de los primeros discípulos es paradigmática (Mc 1,16-20 par.): respuesta inmediata sin condiciones.
@@ -22,10 +26,6 @@ El seguimiento de Cristo es un tema central de la cristología neotestamentaria.
 El seguimiento tiene una dimensión comunitaria: los Doce son constituidos por Jesús para que «estén con él» (Mc 3,14). Tras la resurrección, el seguimiento se expresa en la confesión de fe y en el martirio. Jesús anuncia a Pedro su muerte: «Sígueme» (Jn 21,19). Pablo usa el lenguaje de la imitación: «Sed imitadores de mí, como yo lo soy de Cristo» (1 Cor 11,1).
 
 El seguimiento cristiano no es opcional para quien recibe la llamada: es exigencia que compromete toda la existencia. Implica odiar la propia vida en este mundo para guardarla para la vida eterna (Jn 12,25). La cruz no es accidental al seguimiento sino constitutiva de él.
-
-### Según el Catecismo (CEC)
-
-Seguir a Cristo es la llamada fundamental del discípulo: «tomar su cruz y seguirle» (CEC §618). La vida cristiana consiste en seguir el ejemplo de Cristo (§520, §1709), seguir la voz de la conciencia (§1778-§1779) y seguir los impulsos del Espíritu Santo mediante sus dones (§1830). El seguimiento implica también el camino de la cruz hasta la muerte y la resurrección (§677, §1816).
 
 ### Según Royo Marín (TPCr)
 

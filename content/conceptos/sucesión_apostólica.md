@@ -23,12 +23,6 @@ La Tradición apostólica transmitió íntegramente la Palabra de Dios confiada 
 
 Los obispos son sucesores de los Apóstoles por institución divina (c. 375 §1). Son constituidos por el Espíritu Santo para que sucedan a los Apóstoles como pastores de la Iglesia (c. 375 §1). La ordenación episcopal confiere la plenitud del sacramento del Orden (c. 1009 §2). Para ser válidamente ordenado obispo se requiere que el candidato sea sacerdote y que conste la idoneidad (c. 378 §1). La elección del obispo requiere confirmación del Romano Pontífice (c. 377 §1). El Colegio Episcopal sucede al Colegio Apostólico bajo la autoridad del Romano Pontífice (cc. 330, 336). La misión de los obispos incluye el munus docendi, santificandi y regendi (c. 375 §2).
 
-### Según Royo Marín (TPCr)
-
-Los obispos son los sucesores legítimos de los Apóstoles, a quienes Cristo encomendó perpetuar las funciones apostólicas. La jerarquía de orden, constituida por obispos, presbíteros y diáconos, se transmite por la sucesión apostólica a través del sacramento del Orden. El apostolado corresponde propiamente al Romano Pontífice y a los obispos.
-
-[TPCr, Tercera Parte, Libro II, Cap. I; Tercera Parte, Libro III]
-
 ### Según el Concilio Vaticano II (ConcVatII)
 
 Lumen Gentium enseña la [[sucesión_apostólica]] en LG §18-20. Jesucristo edificó la santa Iglesia enviando a sus Apóstoles y quiso que los sucesores de aquéllos, los Obispos, fuesen los pastores en su Iglesia hasta la consumación de los siglos [ConcVatII, LG §18].
@@ -38,6 +32,12 @@ Los Apóstoles, instituidos a modo de colegio estable al frente del cual puso a 
 «Los Obispos, pues, recibieron el ministerio de la comunidad con sus colaboradores, los presbíteros y diáconos, presidiendo en nombre de Dios la grey» [ConcVatII, LG §20]. El sagrado Sínodo enseña que los Obispos han sucedido por institución divina a los Apóstoles como pastores de la Iglesia, de modo que quien los escucha, escucha a Cristo, y quien los desprecia, desprecia a Cristo [ConcVatII, LG §20].
 
 La transmisión del oficio apostólico se realiza mediante la imposición de las manos, por la cual los Apóstoles transmitieron a sus colaboradores el don espiritual que ha llegado hasta nosotros en la consagración episcopal [ConcVatII, LG §21].
+### Según Royo Marín (TPCr)
+
+Los obispos son los sucesores legítimos de los Apóstoles, a quienes Cristo encomendó perpetuar las funciones apostólicas. La jerarquía de orden, constituida por obispos, presbíteros y diáconos, se transmite por la sucesión apostólica a través del sacramento del Orden. El apostolado corresponde propiamente al Romano Pontífice y a los obispos.
+
+[TPCr, Tercera Parte, Libro II, Cap. I; Tercera Parte, Libro III]
+
 
 ## Distinciones importantes
 

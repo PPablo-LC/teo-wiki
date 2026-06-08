@@ -13,6 +13,10 @@ El Espíritu Santo es revelado como persona divina distinta del Padre y del Hijo
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El misterio de la Santísima Trinidad es el misterio central de la fe cristiana (CEC §234). El Espíritu Santo es "Señor y dador de vida", procede del Padre y del Hijo (CEC §245-246). La tradición latina confiesa que el Espíritu procede del Padre y del Hijo (Filioque) (CEC §246). Las personas divinas son realmente distintas pero inseparables en su obrar (CEC §253-267). El Espíritu Santo prepara a los hombres, los previene por su gracia, los atrae hacia Cristo, les manifiesta al Señor resucitado y les hace presente el misterio de Cristo sobre todo en la Eucaristía (CEC §737). El día de Pentecostés revela plenamente la Santísima Trinidad (CEC §732).
+
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata la persona del Espíritu Santo en SmTh Iª q.36 (nombre y procesión), q.37 (Amor) y q.38 (Don).
@@ -22,10 +26,6 @@ Santo Tomás trata la persona del Espíritu Santo en SmTh Iª q.36 (nombre y pro
 **El Espíritu Santo como Amor (q.37):** Amor es nombre propio del Espíritu Santo (a.1), pues así como la Palabra es el nombre propio del Hijo, el Amor es el nombre propio de la persona que procede por la voluntad. El Padre y el Hijo se aman por el Espíritu Santo (a.2), tomando *amar* en sentido nocional (como *espirar amor*), no esencial: así como el árbol florece por las flores, así el Padre ama al Hijo por el Amor procedente.
 
 **El Espíritu Santo como Don (q.38):** Don es nombre personal (a.1), pues implica aptitud para ser dado, y en Dios lo que se da por origen es la persona misma. Don es nombre propio del Espíritu Santo (a.2), pues procede como Amor, y el amor es el primer don por el que todos los dones se dan gratuitamente; por eso el Espíritu Santo procede como primer Don.
-
-### Según el Catecismo (CEC)
-
-El misterio de la Santísima Trinidad es el misterio central de la fe cristiana (CEC §234). El Espíritu Santo es "Señor y dador de vida", procede del Padre y del Hijo (CEC §245-246). La tradición latina confiesa que el Espíritu procede del Padre y del Hijo (Filioque) (CEC §246). Las personas divinas son realmente distintas pero inseparables en su obrar (CEC §253-267). El Espíritu Santo prepara a los hombres, los previene por su gracia, los atrae hacia Cristo, les manifiesta al Señor resucitado y les hace presente el misterio de Cristo sobre todo en la Eucaristía (CEC §737). El día de Pentecostés revela plenamente la Santísima Trinidad (CEC §732).
 
 ### Según Royo Marín (TPCr)
 

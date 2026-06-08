@@ -21,10 +21,6 @@ El Catecismo trata la concupiscencia en el contexto del pecado original (§405-4
 
 En la enseñanza moral, el Catecismo dedica los artículos §2514-2516 a la concupiscencia como una de las fuentes del pecado: «La concupiscencia procede de la triple concupiscencia: concupiscencia de la carne, concupiscencia de los ojos y soberbia de la vida (1 Jn 2,16)» (§2514).
 
-### Según Royo Marín (TPCr)
-
-Royo Marín dedica un capítulo a la concupiscencia (Parte III, Libro I, Cap. 4) como una de las tres enemigas del alma (junto al demonio y el mundo). La concupiscencia es la inclinación interna al mal que proviene de la herida del pecado original.
-
 ### Según la Summa Theologiae (SmTh)
 
 **Iª q.80 — Apetito sensitivo (concupiscible e irascible):**
@@ -60,6 +56,10 @@ El remedio contra la concupiscencia es la mortificación cristiana y la práctic
 **Relación con la distinción antecedente/consiguiente:** Aunque Santo Tomás desarrolla esta distinción en otras cuestiones (cf. Ia-IIae q.77 a.6), se deduce de su doctrina sobre el apetito sensitivo: la concupiscencia antecedente precede al juicio de la razón y puede atenuar la responsabilidad; la consiguiente sigue al acto de la voluntad deliberada y procede de él.
 
 [TPCr, Parte III, Libro I, Cap. 4]
+### Según Royo Marín (TPCr)
+
+Royo Marín dedica un capítulo a la concupiscencia (Parte III, Libro I, Cap. 4) como una de las tres enemigas del alma (junto al demonio y el mundo). La concupiscencia es la inclinación interna al mal que proviene de la herida del pecado original.
+
 
 ## Distinciones importantes
 

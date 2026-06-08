@@ -25,6 +25,9 @@ Los usuarios deben imponerse moderación y disciplina respecto a los *mass-media
 
 La mentira es una verdadera violencia hecha a los demás, atenta contra su capacidad de conocer, socava la confianza entre los hombres y rompe el tejido de las relaciones sociales (§2486). Toda falta contra la justicia y la verdad entraña el deber de reparación (§2487).
 
+### Según el Concilio Vaticano II (Inter Mirifica)
+
+Los medios de comunicación social deben usarse «al servicio del bien común» y la información debe ser «verdadera e íntegra, salvadas la justicia y la caridad». La autoridad civil tiene el deber de defender y asegurar la verdadera y justa libertad en el uso de estos medios.
 ### Según la Encíclica Magnífica Humanitas (MH)
 
 La verdad es un bien común y no una propiedad de quienes tienen poder o visibilidad (§137). La desinformación encuentra en la IA un potente multiplicador; la posibilidad de manipular contenidos expone a los ciudadanos a perspectivas parciales o engañosas (§132).
@@ -33,9 +36,6 @@ La búsqueda de la verdad es elemento esencial para la democracia. El desinteré
 
 Se requiere una **ecología de la comunicación** que incluya: normas públicas transparentes, fortalecimiento de organismos intermedios, periodismo serio, formación crítica en escuelas y familias, y la integración de saberes en la universidad (§137). Las comunidades cristianas deben comprometerse con una comunicación transparente y la búsqueda honesta de los hechos (§138).
 
-### Según el Concilio Vaticano II (Inter Mirifica)
-
-Los medios de comunicación social deben usarse «al servicio del bien común» y la información debe ser «verdadera e íntegra, salvadas la justicia y la caridad». La autoridad civil tiene el deber de defender y asegurar la verdadera y justa libertad en el uso de estos medios.
 
 ## Distinciones importantes
 

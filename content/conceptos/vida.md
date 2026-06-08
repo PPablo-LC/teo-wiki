@@ -15,6 +15,10 @@ Jesús se proclama «la Resurrección y la Vida» (Jn 11,25) y «el Camino, la V
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La vida humana es sagrada porque el hombre fue creado a imagen de Dios (CEC §355-§384, §2258). Cristo es la Vida; la Eucaristía es pan de vida eterna (§1391-§1398). La vida cristiana es participación en la vida divina por la gracia (§1703-§1709). La vida eterna es la bienaventuranza del cielo (§1007-§1014). El quinto mandamiento prohíbe el homicidio y protege la vida humana (§2258-§2283).
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 El AT distingue entre la vida biológica (soplo) y la vida como bendición. La vida larga y fecunda es promesa de la Alianza. La sabiduría da vida al que la posee (Prov 3,18). Ezequiel ve los huesos secos que recobran la vida (Ez 37).
@@ -22,10 +26,6 @@ El AT distingue entre la vida biológica (soplo) y la vida como bendición. La v
 En el NT, la vida es la realidad mesiánica por excelencia. Jesús es la Vida: la vida estaba en Él (Jn 1,4). La vida eterna comienza ya en la fe. El que come la carne y bebe la sangre de Cristo tiene vida eterna (Jn 6,54). Pablo contrapone la vida según la carne (muerte) a la vida según el Espíritu (vida y paz) (Rom 8,6).
 
 La vida eterna es el conocimiento de Dios y de su enviado. Es participación en la misma vida divina. El Apocalipsis muestra el árbol de la vida en la nueva Jerusalén (Ap 22,2). El agua de la vida brota del trono de Dios (Ap 22,1). La muerte definitiva es la segunda muerte (Ap 21,8). El cristiano vive ya la vida del Resucitado.
-
-### Según el Catecismo (CEC)
-
-La vida humana es sagrada porque el hombre fue creado a imagen de Dios (CEC §355-§384, §2258). Cristo es la Vida; la Eucaristía es pan de vida eterna (§1391-§1398). La vida cristiana es participación en la vida divina por la gracia (§1703-§1709). La vida eterna es la bienaventuranza del cielo (§1007-§1014). El quinto mandamiento prohíbe el homicidio y protege la vida humana (§2258-§2283).
 
 ### Según Royo Marín (TPCr)
 

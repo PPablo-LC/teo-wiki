@@ -25,6 +25,10 @@ La castidad «debe calificar a las personas según los diferentes estados de vid
 
 Ofensas contra la castidad: lujuria (§2351), masturbación (§2352), fornicación (§2353), pornografía (§2354), prostitución (§2355), violación (§2356), actos homosexuales (§2357-2359).
 
+### Según el Compendio (CompDS)
+
+La persona homosexual debe ser respetada en su dignidad y llamada a seguir el plan de Dios con un esfuerzo especial en el ejercicio de la castidad [CompDS §228]. La castidad se presenta como virtud necesaria ante la tendencia a relativizar y banalizar la experiencia del amor y de la sexualidad en la sociedad actual [CompDS §223].
+
 ### Según Royo Marín (TPCr)
 
 La castidad es «la virtud sobrenatural moderativa del apetito genésico. Es una virtud verdaderamente angélica, por cuanto hace al hombre semejante a los ángeles; pero es una virtud delicada y difícil, a cuya práctica perfecta no se llega ordinariamente sino a base de una continua vigilancia y de una severa austeridad». Es parte subjetiva de la templanza, junto con la virginidad.
@@ -34,10 +38,6 @@ A la castidad se opone la lujuria en todas sus especies, «que es el vicio más 
 El don de temor actúa sobre la castidad «llevándola hasta la delicadeza más exquisita». Los frutos del Espíritu Santo que pertenecen al don de temor incluyen la continencia y la castidad.
 
 [TPCr, Parte III, Libro II, Cap. II, n.457]
-
-### Según el Compendio (CompDS)
-
-La persona homosexual debe ser respetada en su dignidad y llamada a seguir el plan de Dios con un esfuerzo especial en el ejercicio de la castidad [CompDS §228]. La castidad se presenta como virtud necesaria ante la tendencia a relativizar y banalizar la experiencia del amor y de la sexualidad en la sociedad actual [CompDS §223].
 
 ### Según Para Salvarte (PS)
 

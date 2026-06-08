@@ -15,6 +15,12 @@ Esta vida comienza en el bautismo como un germen o semilla que debe crecer. Se a
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La gracia es «el favor, el auxilio gratuito que Dios nos da para responder a su llamada: llegar a ser hijos de Dios, partícipes de la naturaleza divina, de la vida eterna» (CEC §1996). La gracia santificante «es un don habitual, una disposición estable y sobrenatural que perfecciona al alma para hacerla capaz de vivir con Dios, de obrar por su amor» (CEC §1999).
+
+«La santidad de la Iglesia es la fuente de la santificación de sus miembros» (CEC §2012). «Todos los fieles, de cualquier estado o condición, están llamados a la plenitud de la vida cristiana y a la perfección de la caridad» (CEC §2013). El progreso espiritual tiende a la unión cada vez más íntima con Cristo y la Santísima Trinidad (CEC §2014).
+
 ### Según Royo Marín (TPCr)
 
 Royo Marín dedica la Segunda Parte de su obra al organismo sobrenatural. La vida sobrenatural es la vida del alma en gracia, constituida por un conjunto orgánico de elementos sobrenaturales: la gracia santificante como principio vital, las virtudes infusas como facultades operativas, los dones del Espíritu Santo como disposiciones para la moción divina, y los frutos y bienaventuranzas como actos perfectos.
@@ -22,12 +28,6 @@ Royo Marín dedica la Segunda Parte de su obra al organismo sobrenatural. La vid
 La gracia santificante es la raíz y el fundamento de toda la vida sobrenatural. Sin ella, el alma está muerta sobrenaturalmente, aunque conserve todas sus capacidades naturales. Con ella, el alma vive una vida nueva, divina, que la capacita para obrar actos meritorios de vida eterna. La vida sobrenatural es dinámica: puede crecer por las buenas obras y los sacramentos, y puede perderse por el pecado mortal.
 
 [TPCr, Parte II, Organismo sobrenatural]
-
-### Según el Catecismo (CEC)
-
-La gracia es «el favor, el auxilio gratuito que Dios nos da para responder a su llamada: llegar a ser hijos de Dios, partícipes de la naturaleza divina, de la vida eterna» (CEC §1996). La gracia santificante «es un don habitual, una disposición estable y sobrenatural que perfecciona al alma para hacerla capaz de vivir con Dios, de obrar por su amor» (CEC §1999).
-
-«La santidad de la Iglesia es la fuente de la santificación de sus miembros» (CEC §2012). «Todos los fieles, de cualquier estado o condición, están llamados a la plenitud de la vida cristiana y a la perfección de la caridad» (CEC §2013). El progreso espiritual tiende a la unión cada vez más íntima con Cristo y la Santísima Trinidad (CEC §2014).
 
 ### Según Para Salvarte (PS)
 

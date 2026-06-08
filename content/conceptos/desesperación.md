@@ -21,12 +21,6 @@ En la vida espiritual, la desesperación puede ser también una tentación permi
 
 «La enfermedad puede conducir a la angustia, al repliegue sobre sí mismo, a veces incluso a la desesperación y a la rebelión contra Dios» (§1501).
 
-### Según Royo Marín (TPCr)
-
-«A la esperanza se oponen dos vicios: uno, por defecto, la desesperación, que considera imposible la salvación eterna, y proviene principalmente de la acidia (pereza espiritual) y de la lujuria; y otro por exceso, la presunción» (TPCr, Tercera Parte, Libro II, Cap. II).
-
-Los remedios contra la desesperación: «la misericordia de Dios es incansable en perdonar al pecador arrepentido, que la violencia de nuestros enemigos jamás podrá superar al auxilio omnipotente de Dios y que, si es cierto que por nosotros mismos nada podemos, con la gracia de Dios seremos capaces de todo» (TPCr, Tercera Parte, Libro II, Cap. II).
-
 ### Según la Summa Theologiae (SmTh)
 
 **Ia-IIae q.40 a.4 — La desesperación como pasión del irascible:**
@@ -38,6 +32,12 @@ La desesperación no mira al mal bajo razón de mal, sino que mira al bien que s
 **a.5-6 — Causas que afectan a la desesperación:** La experiencia, que es causa de esperanza cuando confirma la posibilidad, puede ser causa de desesperación cuando persuade de la imposibilidad. Los viejos son «difíciles para la esperanza» por la experiencia de las dificultades. La juventud y la inexperiencia son causas de esperanza, y por su ausencia puede darse la desesperación.
 
 **Distinción importante:** La desesperación como pasión del irascible (apetito sensitivo) debe distinguirse del pecado de desesperación contra la [[virtud_de_la_esperanza]]. La desesperación-pasión es un movimiento espontáneo del apetito sensitivo que puede darse incluso sin pecado. La desesperación como pecado es un acto deliberado de la voluntad que rechaza la salvación divina, oponiéndose directamente a la virtud teologal de la esperanza.
+### Según Royo Marín (TPCr)
+
+«A la esperanza se oponen dos vicios: uno, por defecto, la desesperación, que considera imposible la salvación eterna, y proviene principalmente de la acidia (pereza espiritual) y de la lujuria; y otro por exceso, la presunción» (TPCr, Tercera Parte, Libro II, Cap. II).
+
+Los remedios contra la desesperación: «la misericordia de Dios es incansable en perdonar al pecador arrepentido, que la violencia de nuestros enemigos jamás podrá superar al auxilio omnipotente de Dios y que, si es cierto que por nosotros mismos nada podemos, con la gracia de Dios seremos capaces de todo» (TPCr, Tercera Parte, Libro II, Cap. II).
+
 
 ## Distinciones importantes
 

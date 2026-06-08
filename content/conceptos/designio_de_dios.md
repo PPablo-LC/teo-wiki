@@ -27,10 +27,6 @@ Cristo es el centro del mundo de los ángeles: «Anuncian la redención y sirven
 
 «Desde el primer instante de su Encarnación el Hijo acepta el designio divino de salvación en su misión redentora» (§606).
 
-### Según Royo Marín (TPCr)
-
-Royo Marín trata del designio de Dios sobre la perfección cristiana como vocación universal a la santidad: «El concilio Vaticano II ha proclamado con insistencia y claridad meridiana la doctrina de la vocación universal a la santidad y, por consiguiente, la obligación que incumbe a todos los cristianos de tender eficazmente a conseguirla» (TPCr, Segunda Parte, Cap. II).
-
 ### Según el Compendio (CompDS)
 
 El designio de amor de Dios sobre la historia es el fundamento de toda la [[doctrina_social_de_la_iglesia]]. La [[alianza]] del Sinaí y el [[decálogo]] están íntimamente unidos a la praxis de justicia y solidaridad que debe regular el desarrollo de la sociedad israelita [CompDS §23]. La creación, el pecado de los orígenes y la promesa de redención manifiestan el designio divino que culmina en Jesucristo [CompDS §26-§28].
@@ -44,6 +40,10 @@ La Iglesia tiene la misión de anunciar el [[reino_de_dios]], que es la comunió
 El VocTeoBib presenta el designio de Dios como el hilo conductor que da unidad e inteligibilidad a toda la historia sagrada y a las Escrituras. Oculto durante largos siglos, esbozado en el AT, no se manifestó plenamente sino en Cristo (Ef 3,1-12). En el AT, las confesiones de fe cultuales (Dt 26,5-10), la inteligencia profética de los acontecimientos (Am 3,7), las síntesis históricas deuteronomistas y la reflexión sapiencial (Sab 10-19) revelan progresivamente un plan divino de salvación que culmina en un reino escatológico, donde participarán todas las naciones (Is 2,1-4).
 
 Pablo es presentado como el «teólogo del designio de Dios»: toda su teología es un anuncio del designio en su integridad (Act 20,27). En Rom 8,28ss y Ef 1,3-14 desarrolla las etapas del plan divino —predestinación, vocación, justificación, glorificación— y en Rom 9-11 aborda el caso paradójico de Israel, cuyo endurecimiento provisional forma parte del designio para incluir a todos en la misericordia. El designio de Dios, que comenzó con la elección de un pueblo, culmina en Cristo reconciliando a judíos y paganos en la única Iglesia (Ef 2,14-22) y se consumará cuando Dios sea todo en todos (1Cor 15,28).
+### Según Royo Marín (TPCr)
+
+Royo Marín trata del designio de Dios sobre la perfección cristiana como vocación universal a la santidad: «El concilio Vaticano II ha proclamado con insistencia y claridad meridiana la doctrina de la vocación universal a la santidad y, por consiguiente, la obligación que incumbe a todos los cristianos de tender eficazmente a conseguirla» (TPCr, Segunda Parte, Cap. II).
+
 
 ## Distinciones importantes
 

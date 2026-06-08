@@ -13,6 +13,11 @@ La dimisión del estado clerical está prevista en el c. 1336 §5 CIC como una d
 
 ## Perspectivas por fuente
 
+### Según el Código de Derecho Canónico (CIC)
+
+El c. 1336 §5 CIC enumera la expulsión del estado clerical como pena expiatoria perpetua. El c. 1342 §2 CIC establece la prohibición general de imponer penas perpetuas por decreto extrajudicial, pero el art. 19 §2 SST dispone una excepción para los delitos reservados, requiriendo mandato previo del DDF.
+
+El c. 290 CIC establece que una vez recibida válidamente la ordenación sagrada, el clérigo nunca pierde el carácter sagrado, pero cesan los derechos y obligaciones propios del estado clerical mediante: 1) sentencia o decreto que declare la nulidad de la ordenación; 2) dispensa concedida por la Sede Apostólica; 3) pena expiatoria de dimisión del estado clerical.
 ### Según el Vademécum del DDF (VAD) y SST
 
 **Art. 26 SST (nn. 85-86 VAD):** El DDF tiene el derecho, en cualquier etapa y grado del procedimiento, de presentar directamente al Sumo Pontífice los casos gravísimos en vista de la dimisión del estado clerical o la deposición junto con la dispensa de la ley del celibato. Los requisitos son: a) que conste de modo manifiesto la comisión del delito; b) que se haya dado al reo la posibilidad de defenderse. La decisión del Romano Pontífice es inapelable (n. 143).
@@ -21,11 +26,6 @@ La dimisión del estado clerical está prevista en el c. 1336 §5 CIC como una d
 
 **Dispensa como alternativa (n. 157):** Desde que se tiene la [[notitia_criminis]], el acusado tiene derecho a solicitar la dispensa de todas las obligaciones que derivan de la Sagrada Ordenación, incluido el celibato. Esta solicitud se dirige al Santo Padre y se entrega al DDF acompañada del *votum* del Ordinario. Si el Papa acepta, se envía el rescripto de dispensa. Esta vía no es una pena, sino una gracia.
 
-### Según el Código de Derecho Canónico (CIC)
-
-El c. 1336 §5 CIC enumera la expulsión del estado clerical como pena expiatoria perpetua. El c. 1342 §2 CIC establece la prohibición general de imponer penas perpetuas por decreto extrajudicial, pero el art. 19 §2 SST dispone una excepción para los delitos reservados, requiriendo mandato previo del DDF.
-
-El c. 290 CIC establece que una vez recibida válidamente la ordenación sagrada, el clérigo nunca pierde el carácter sagrado, pero cesan los derechos y obligaciones propios del estado clerical mediante: 1) sentencia o decreto que declare la nulidad de la ordenación; 2) dispensa concedida por la Sede Apostólica; 3) pena expiatoria de dimisión del estado clerical.
 
 ## Distinciones importantes
 

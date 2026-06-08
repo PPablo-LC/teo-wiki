@@ -9,6 +9,9 @@ La diócesis es una porción del pueblo de Dios cuyo cuidado pastoral se encomie
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La Iglesia particular, que es la diócesis, es una comunidad de fieles cristianos en comunión en la fe y en los sacramentos con su obispo ordenado en la sucesión apostólica. Estas Iglesias particulares están formadas a imagen de la Iglesia Universal; en ellas y a partir de ellas existe la Iglesia católica, una y única (CEC §833).
 ### Según el Código de Derecho Canónico (CIC)
 
 La diócesis es la Iglesia particular por excelencia (c. 368), a la que se asimilan la prelatura territorial, la abadía territorial, el vicariato apostólico, la prefectura apostólica y la administración apostólica erigida de manera estable.
@@ -19,9 +22,6 @@ Toda diócesis debe dividirse en partes distintas o parroquias (c. 374 §1). Var
 
 Al Obispo diocesano compete en la diócesis toda la potestad ordinaria, propia e inmediata requerida para su función pastoral, excepto las causas reservadas a la autoridad suprema (c. 381 §1). El Obispo representa a la diócesis en todos los negocios jurídicos (c. 393).
 
-### Según el Catecismo (CEC)
-
-La Iglesia particular, que es la diócesis, es una comunidad de fieles cristianos en comunión en la fe y en los sacramentos con su obispo ordenado en la sucesión apostólica. Estas Iglesias particulares están formadas a imagen de la Iglesia Universal; en ellas y a partir de ellas existe la Iglesia católica, una y única (CEC §833).
 
 ## Relaciones doctrinales
 

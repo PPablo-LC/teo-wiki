@@ -20,15 +20,15 @@ La distinción fundamental es entre la voluntad de Dios significada (manifestada
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC §2823 enseña: «"Hágase tu voluntad en la tierra como en el cielo". La voluntad del Padre es que todos los hombres se salven (1 Tim 2,4). Jesús vino para cumplir perfectamente la voluntad del Padre. Nosotros pedimos ser asociados a esta obediencia». La conformidad con la voluntad divina es esencial a la vida cristiana y a la oración.
 ### Según Royo Marín (TPCr)
 
 «La santidad consiste en la perfecta conformidad de la voluntad humana con la divina» (n.37). Toda la vida cristiana se ordena a lograr esta conformidad, que es la esencia de la caridad perfecta. «El cumplimiento de la voluntad de Dios es el único medio directo e inmediato de glorificar a Dios y de santificar nuestra alma. Nadie se santificará ni podrá glorificar a Dios más que cumpliendo exacta y rigurosamente su divina y adorable voluntad» (n.448).
 
 La oración dominical enseña a pedir «hágase tu voluntad en la tierra como en el cielo», subordinando así todos los deseos humanos al querer divino.
 
-### Según el Catecismo (CEC)
-
-El CEC §2823 enseña: «"Hágase tu voluntad en la tierra como en el cielo". La voluntad del Padre es que todos los hombres se salven (1 Tim 2,4). Jesús vino para cumplir perfectamente la voluntad del Padre. Nosotros pedimos ser asociados a esta obediencia». La conformidad con la voluntad divina es esencial a la vida cristiana y a la oración.
 
 ## Distinciones importantes
 

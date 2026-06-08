@@ -21,13 +21,13 @@ Los consejos evangélicos están propuestos a todos los discípulos de Cristo. L
 
 La vida consagrada, mediante profesión de los consejos evangélicos, es una forma estable de vivir en la Iglesia reconocida por su autoridad (c. 573 §1). Los institutos de vida consagrada son erigidos por autoridad competente de la Iglesia (c. 573 §2). La vida consagrada comprende los institutos religiosos (cc. 607-709) y los institutos seculares (cc. 710-730), así como los ermitaños (c. 603) y las vírgenes consagradas (c. 604). Los institutos de vida consagrada, por su carácter de signo eclesial, están sujetos a la autoridad de la Santa Sede y del Obispo diocesano (c. 574). Los consejos evangélicos son la castidad consagrada a Dios, la pobreza y la obediencia (c. 599-601). El Noviciado es requisito para la admisión a la profesión temporal (c. 646-653).
 
-### Según Royo Marín (TPCr)
-
-El estado religioso constituye un verdadero estado de perfección, por el cual los religiosos se consagran totalmente al servicio de Dios, ofreciéndose a Él en holocausto. Su fin propio es llegar a la perfección de la caridad. Consiste esencialmente en los tres votos de pobreza, castidad y obediencia. La vida común es necesaria para la forma canónica del estado religioso. El religioso está obligado a tender a la perfección de la caridad (TPCr, Parte III, Libro III).
-
 ### Según el Concilio Vaticano II (ConcVatII)
 
 El Decreto *Perfectae Caritatis* está dedicado enteramente a la renovación de la vida religiosa. La vida consagrada por la profesión de los [[consejos_evangélicos]] tiene su origen en la doctrina y ejemplos del Divino Maestro y se presenta como preclaro signo del Reino de los cielos [ConcVatII, PC §1]. Quienes profesan los consejos evangélicos se consagran de modo particular al Señor, siguiendo a Cristo, virgen, pobre y obediente hasta la muerte de Cruz [ConcVatII, PC §1]. La adecuada renovación comprende el continuo retorno a las fuentes de toda vida cristiana y a la inspiración originaria de los Institutos, y la acomodación a las cambiadas condiciones de los tiempos [ConcVatII, PC §2]. Los miembros de cada Instituto, por la profesión de los consejos evangélicos, han respondido al llamamiento divino para vivir únicamente para Dios, en una especial consagración que radica íntimamente en el [[bautismo]] y lo realiza más plenamente [ConcVatII, PC §5].
+
+### Según Royo Marín (TPCr)
+
+El estado religioso constituye un verdadero estado de perfección, por el cual los religiosos se consagran totalmente al servicio de Dios, ofreciéndose a Él en holocausto. Su fin propio es llegar a la perfección de la caridad. Consiste esencialmente en los tres votos de pobreza, castidad y obediencia. La vida común es necesaria para la forma canónica del estado religioso. El religioso está obligado a tender a la perfección de la caridad (TPCr, Parte III, Libro III).
 
 ### Según el Capítulo General LC-2026
 

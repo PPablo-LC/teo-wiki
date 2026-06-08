@@ -63,10 +63,6 @@ Son tres los efectos principales:
 
 ## Perspectivas por fuente
 
-### Según el Código de Derecho Canónico (CIC)
-
-El CIC regula el sacramento del orden en los cánones 1008-1054. Mediante el orden, los ministros sagrados quedan constituidos con carácter indeleble para apacentar el pueblo de Dios, desempeñando en la persona de Cristo Cabeza las funciones de enseñar, santificar y regir (c. 1008). Los órdenes son el episcopado, el presbiterado y el diaconado (c. 1009 §1). Es ministro de la ordenación el Obispo consagrado (c. 1012). La ordenación episcopal requiere mandato pontificio (c. 1013) y al menos dos Obispos consagrantes (c. 1014). Solo el varón bautizado recibe válidamente la ordenación (c. 1024). Para la ordenación lícita se requieren las debidas cualidades, que no afecte irregularidad o impedimento, y los documentos requeridos (c. 1025). El presbiterado requiere veinticinco años cumplidos y suficiente madurez (c. 1031 §1). Los aspirantes deben ser formados con preparación esmerada (c. 1027) y hacer ejercicios espirituales al menos cinco días (c. 1039). Se requiere la confirmación previa (c. 1033). Quienes han recibido las órdenes sagradas atentan inválidamente el matrimonio (c. 1087).
-
 ### Según el Catecismo (CEC)
 
 El Orden es el sacramento gracias al cual la misión confiada por Cristo a sus Apóstoles sigue siendo ejercida en la Iglesia hasta el fin de los tiempos (§1536). Comprende tres grados: episcopado, presbiterado y diaconado.
@@ -74,6 +70,10 @@ El Orden es el sacramento gracias al cual la misión confiada por Cristo a sus A
 Sacerdocio común y ministerial: «el sacerdocio ministerial o jerárquico de los obispos y de los presbíteros, y el sacerdocio común de todos los fieles, aunque su diferencia es esencial y no solo en grado, están ordenados el uno al otro; ambos participan, cada uno a su manera, del único sacerdocio de Cristo» (§1547).
 
 El sacerdote, en virtud del sacramento del Orden, actúa *in persona Christi Capitis* (§1548). El sacramento confiere un carácter espiritual indeleble que no puede ser reiterado ni conferido para un tiempo determinado (§1582). Solo el varón bautizado recibe válidamente la sagrada ordenación (§1577). En la Iglesia latina, el presbiterado se confiere ordinariamente a candidatos que abrazan el celibato (§1579, §1599).
+
+### Según el Código de Derecho Canónico (CIC)
+
+El CIC regula el sacramento del orden en los cánones 1008-1054. Mediante el orden, los ministros sagrados quedan constituidos con carácter indeleble para apacentar el pueblo de Dios, desempeñando en la persona de Cristo Cabeza las funciones de enseñar, santificar y regir (c. 1008). Los órdenes son el episcopado, el presbiterado y el diaconado (c. 1009 §1). Es ministro de la ordenación el Obispo consagrado (c. 1012). La ordenación episcopal requiere mandato pontificio (c. 1013) y al menos dos Obispos consagrantes (c. 1014). Solo el varón bautizado recibe válidamente la ordenación (c. 1024). Para la ordenación lícita se requieren las debidas cualidades, que no afecte irregularidad o impedimento, y los documentos requeridos (c. 1025). El presbiterado requiere veinticinco años cumplidos y suficiente madurez (c. 1031 §1). Los aspirantes deben ser formados con preparación esmerada (c. 1027) y hacer ejercicios espirituales al menos cinco días (c. 1039). Se requiere la confirmación previa (c. 1033). Quienes han recibido las órdenes sagradas atentan inválidamente el matrimonio (c. 1087).
 
 ### Según Royo Marín (TPCr)
 

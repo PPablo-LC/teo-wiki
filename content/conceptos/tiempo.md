@@ -15,6 +15,10 @@ En el NT, Cristo es la «plenitud de los tiempos» (Gál 4,4). El tiempo se divi
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El tiempo es creación de Dios, que «determinó con exactitud el tiempo y los límites» (CEC §28). Vivimos en un tiempo de espera y vigilia hasta la Parusía (§672). La vida presente es tiempo limitado que debe ser aprovechado para la salvación (§1007). La liturgia santifica el tiempo mediante el año litúrgico (§1163-§1165). La economía de la salvación actúa en el marco del tiempo, anticipando el Reino (§1168).
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 El AT distingue dos conceptos de tiempo: *chronos* (sucesión cronológica, duración) y *kairós* (tiempo oportuno, momento decisivo, tiempo de salvación). Los profetas anuncian un *kairós* de intervención divina. La sabiduría enseña que «todo tiene su tiempo» (Ecl 3,1-8), pero bajo Dios que es Señor de la historia.
@@ -30,10 +34,6 @@ Santo Tomás trata el tiempo en Ia Pars q.66 a.4 y q.46 a.3. El tiempo fue cread
 El tiempo está dividido en día y noche desde el primer día (q.67 a.4 ad 3): el movimiento general del cielo, que causa el día y la noche, fue instituido el primer día. Las distinciones especiales de días, estaciones y años —debidas a los movimientos propios de los astros— comenzaron el cuarto día (q.70 a.2 ad 3).
 
 Para San Agustín, los siete días de la creación no indican sucesión temporal, sino orden natural conocido por la mente angélica (q.74 a.2). Para la mayoría de los Padres, fueron siete días con sucesión temporal real. Ambas opiniones confluyen en que el tiempo es criatura de Dios, que tiene un principio —«al principio del tiempo»— y está ordenado a la manifestación de la gloria divina.
-
-### Según el Catecismo (CEC)
-
-El tiempo es creación de Dios, que «determinó con exactitud el tiempo y los límites» (CEC §28). Vivimos en un tiempo de espera y vigilia hasta la Parusía (§672). La vida presente es tiempo limitado que debe ser aprovechado para la salvación (§1007). La liturgia santifica el tiempo mediante el año litúrgico (§1163-§1165). La economía de la salvación actúa en el marco del tiempo, anticipando el Reino (§1168).
 
 ### Según Royo Marín (TPCr)
 

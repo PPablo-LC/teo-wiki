@@ -25,6 +25,13 @@ La comunión con los santos es la comunión de bienes espirituales entre los mie
 
 El bien común, que los hombres buscan formando la comunidad social, es garantía del bien personal, familiar y asociativo. El con-vivir en la red de nexos que aúna individuos, familias y grupos intermedios asegura una mejor calidad de vida [CompDS §61]. El hombre es un ser abierto a la relación con los demás en la sociedad, llamado a la comunión de las personas [CompDS §63]. La Iglesia es el sacramento del amor de Dios y de la esperanza, que activa y sostiene todo proyecto de auténtica liberación y promoción humana [CompDS §60].
 
+### Según el Compendio (CompDS)
+
+Dios es Trinidad: Padre, Hijo y Espíritu Santo, realmente distintos y realmente uno, porque son comunión infinita de amor [CompDS §31]. El amor gratuito de Dios por la humanidad se revela como amor fontal del Padre, comunicación gratuita que el Hijo hace de este amor, y fecundidad siempre nueva del amor divino que el Espíritu Santo infunde en los corazones.
+
+El supremo modelo de unidad, reflejo de la vida íntima de Dios Uno en tres personas, es lo que los cristianos expresan con la palabra «comunión» [CompDS §33]. La persona humana está llamada a descubrir en la comunión de amor que es Dios el origen y la meta de su existencia y de la historia [CompDS §34].
+
+La Iglesia es en Cristo como un sacramento, signo e instrumento de la unión íntima con Dios y de la unidad de todo el género humano [CompDS §49]. Las comunidades eclesiales se proponen como lugares de comunión, de testimonio y de misión, y como fermento de redención y de transformación de las relaciones sociales [CompDS §52].
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 La palabra «comunión» (*koinonía*) expresa la participación en los bienes divinos y la solidaridad entre los creyentes. Pablo la usa para designar la participación en el cuerpo y la sangre de Cristo (*1Cor 10,16*), la comunión del Espíritu Santo (*2Cor 13,13*) y la colecta por los santos (*Rm 15,26*). En los Hechos, la comunidad primitiva es descrita como una fraternidad que persevera en la enseñanza de los apóstoles y en la fracción del pan (*Hch 2,42*). La comunión eclesial se funda en la comunión trinitaria y se expresa en la Eucaristía [VocTeoBib, «Comunión»].
@@ -33,13 +40,6 @@ La palabra «comunión» (*koinonía*) expresa la participación en los bienes d
 
 «La Eucaristía fortalece la unidad del Cuerpo Místico: "la Eucaristía hace a la Iglesia"» (TPCr, Tercera Parte, Libro II, Cap. I). La comunión frecuente, incluso diaria, es medio indispensable para el progreso en la perfección cristiana.
 
-### Según el Compendio (CompDS)
-
-Dios es Trinidad: Padre, Hijo y Espíritu Santo, realmente distintos y realmente uno, porque son comunión infinita de amor [CompDS §31]. El amor gratuito de Dios por la humanidad se revela como amor fontal del Padre, comunicación gratuita que el Hijo hace de este amor, y fecundidad siempre nueva del amor divino que el Espíritu Santo infunde en los corazones.
-
-El supremo modelo de unidad, reflejo de la vida íntima de Dios Uno en tres personas, es lo que los cristianos expresan con la palabra «comunión» [CompDS §33]. La persona humana está llamada a descubrir en la comunión de amor que es Dios el origen y la meta de su existencia y de la historia [CompDS §34].
-
-La Iglesia es en Cristo como un sacramento, signo e instrumento de la unión íntima con Dios y de la unidad de todo el género humano [CompDS §49]. Las comunidades eclesiales se proponen como lugares de comunión, de testimonio y de misión, y como fermento de redención y de transformación de las relaciones sociales [CompDS §52].
 
 ## Distinciones importantes
 

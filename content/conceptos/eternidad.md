@@ -13,13 +13,13 @@ La eternidad es el modo de duración propio de Dios. Mientras el tiempo mide el 
 
 ## Perspectivas por fuente
 
-### Según la Summa Theologiae (SmTh)
-
-Santo Tomás trata la eternidad en SmTh Iª q.10. Define la eternidad con Boecio como «posesión total, simultánea y completa de la vida interminable» (a.1): total porque nada le falta, simultánea porque carece de sucesión, completa porque es perfecta. Dios es eterno (a.2): al ser inmutable, no tiene principio ni fin ni sucesión alguna. Ser eterno es propio de Dios (a.3): solo Dios es eterno por esencia; las criaturas participan de la eternidad por duración pero no son eternas en sentido propio, pues tienen principio. La eternidad difiere del tiempo (a.4): el tiempo es número del movimiento según el antes y el después; la eternidad es la medida de lo inmutable, que carece de toda sucesión. El evo es medio entre la eternidad y el tiempo (a.5): mide los seres que son inmutables en su ser pero mutables en sus operaciones (ángeles, almas). Hay un solo evo (a.6), como hay un solo tiempo para todos los movimientos.
-
 ### Según el Catecismo (CEC)
 
 Dios es eterno, sin principio ni fin (§202). «Antes que naciesen los montes, antes que engendraras la tierra y el orbe, desde siempre y para siempre tú eres Dios» (Sal 90,2; CEC §202). La eternidad divina es fundamento de la fidelidad de Dios: «Dios no es hombre para que mienta, ni hijo de Adán para que se arrepienta» (Nm 23,19; CEC §215). Su designio eterno se realiza en la historia (CEC §257).
+
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata la eternidad en SmTh Iª q.10. Define la eternidad con Boecio como «posesión total, simultánea y completa de la vida interminable» (a.1): total porque nada le falta, simultánea porque carece de sucesión, completa porque es perfecta. Dios es eterno (a.2): al ser inmutable, no tiene principio ni fin ni sucesión alguna. Ser eterno es propio de Dios (a.3): solo Dios es eterno por esencia; las criaturas participan de la eternidad por duración pero no son eternas en sentido propio, pues tienen principio. La eternidad difiere del tiempo (a.4): el tiempo es número del movimiento según el antes y el después; la eternidad es la medida de lo inmutable, que carece de toda sucesión. El evo es medio entre la eternidad y el tiempo (a.5): mide los seres que son inmutables en su ser pero mutables en sus operaciones (ángeles, almas). Hay un solo evo (a.6), como hay un solo tiempo para todos los movimientos.
 
 ### Según Royo Marín (TPCr)
 

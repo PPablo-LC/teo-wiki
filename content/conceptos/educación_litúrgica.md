@@ -13,6 +13,11 @@ El Concilio Vaticano II, al emprender la reforma litúrgica, reconoció que esta
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La liturgia introduce a los fieles en la vida nueva de la comunidad e implica una participación "consciente, activa y fructífera" de todos (CEC 1071). La liturgia debe ser precedida por la evangelización, la fe y la conversión; solo así puede dar sus frutos en la vida de los fieles (CEC 1072). La liturgia es también participación en la oración de Cristo, donde toda oración cristiana encuentra su fuente y su término (CEC 1073). "La liturgia es la cumbre a la que tiende la acción de la Iglesia y, al mismo tiempo, la fuente de donde mana toda su fuerza"; es el lugar privilegiado de la catequesis del Pueblo de Dios (CEC 1074). La catequesis litúrgica pretende introducir en el Misterio de Cristo —es mistagogia— procediendo de lo visible a lo invisible, del signo a lo significado (CEC 1075).
+
+Toda la comunidad celebra: "Las acciones litúrgicas no son acciones privadas, sino celebraciones de la Iglesia" (CEC 1140). La asamblea que celebra es la comunidad de los bautizados, consagrados como sacerdocio santo para ofrecer sacrificios espirituales (CEC 1141). El ministro ordenado actúa como representante de Cristo Cabeza (CEC 1142). Los acólitos, lectores, monitores y la *schola cantorum* desempeñan un auténtico ministerio litúrgico (CEC 1143). Toda la asamblea es "liturgo", cada cual según su función, en la unidad del Espíritu (CEC 1144).
 ### Según el Concilio Vaticano II
 
 **Sacrosanctum Concilium §§14-20:** El Concilio establece que la santa madre Iglesia desea ardientemente que todos los fieles lleguen a la participación plena, consciente y activa en las celebraciones litúrgicas, que es la fuente primaria y necesaria del espíritu verdaderamente cristiano (SC 14). Los pastores de almas deben aspirar a ella con diligencia, por medio de una educación adecuada.
@@ -27,11 +32,6 @@ Las transmisiones radiofónicas y televisivas de acciones sagradas se harán baj
 
 Además, en el capítulo sobre la Eucaristía, el Concilio exhorta a los pastores a instruir cuidadosamente a los fieles acerca de la participación en toda la Misa, sobre todo los domingos y fiestas de precepto (SC 56), y a promover la catequesis litúrgica (SC 35, §3).
 
-### Según el Catecismo (CEC)
-
-La liturgia introduce a los fieles en la vida nueva de la comunidad e implica una participación "consciente, activa y fructífera" de todos (CEC 1071). La liturgia debe ser precedida por la evangelización, la fe y la conversión; solo así puede dar sus frutos en la vida de los fieles (CEC 1072). La liturgia es también participación en la oración de Cristo, donde toda oración cristiana encuentra su fuente y su término (CEC 1073). "La liturgia es la cumbre a la que tiende la acción de la Iglesia y, al mismo tiempo, la fuente de donde mana toda su fuerza"; es el lugar privilegiado de la catequesis del Pueblo de Dios (CEC 1074). La catequesis litúrgica pretende introducir en el Misterio de Cristo —es mistagogia— procediendo de lo visible a lo invisible, del signo a lo significado (CEC 1075).
-
-Toda la comunidad celebra: "Las acciones litúrgicas no son acciones privadas, sino celebraciones de la Iglesia" (CEC 1140). La asamblea que celebra es la comunidad de los bautizados, consagrados como sacerdocio santo para ofrecer sacrificios espirituales (CEC 1141). El ministro ordenado actúa como representante de Cristo Cabeza (CEC 1142). Los acólitos, lectores, monitores y la *schola cantorum* desempeñan un auténtico ministerio litúrgico (CEC 1143). Toda la asamblea es "liturgo", cada cual según su función, en la unidad del Espíritu (CEC 1144).
 
 ## Distinciones importantes
 

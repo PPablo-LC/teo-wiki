@@ -13,13 +13,13 @@ La oración de unión es la cuarta morada del Castillo Interior de Santa Teresa,
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El progreso espiritual tiende a la unión cada vez más íntima con Cristo. Esta unión se llama "mística" porque participa del misterio de Cristo mediante los sacramentos y, en Él, del misterio de la Santísima Trinidad (CEC §2014).
 ### Según Royo Marín (TPCr)
 
 La oración de unión es un grado de oración mística en el que el alma se siente invadida de una manera inequívoca por lo sobrenatural. Se caracteriza por la imposibilidad absoluta de producir por propios esfuerzos la experiencia mística. El alma tiene conciencia clara de que la experiencia no ha sido producida por ella (TPCr, n.534-538). En la oración de unión, la certeza de que se está bajo la acción de Dios es firme y absoluta (TPCr, n.538). Junto con la oración de quietud y el éxtasis, constituye uno de los grados de oración contemplativa. Royo Marín la sitúa como el quinto grado de oración según la clasificación teresiana: oración de recogimiento infuso, oración de quietud, oración de unión, éxtasis y unión transformante (TPCr, Parte III, Libro II, Cap. III, n.564-572).
 
-### Según el Catecismo (CEC)
-
-El progreso espiritual tiende a la unión cada vez más íntima con Cristo. Esta unión se llama "mística" porque participa del misterio de Cristo mediante los sacramentos y, en Él, del misterio de la Santísima Trinidad (CEC §2014).
 
 ## Distinciones importantes
 

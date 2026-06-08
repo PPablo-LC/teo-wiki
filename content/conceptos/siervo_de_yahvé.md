@@ -15,15 +15,15 @@ Los primeros cristianos vieron en Jesús el cumplimiento de estos cantos. Felipe
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+Jesús es el Siervo doliente anunciado por los profetas, que carga con el pecado de las multitudes (CEC §601, §608). Se deja contar entre los pecadores y acepta el «bautismo» de su muerte sangrienta (§536). Por su obediencia hasta la muerte lleva a cabo la sustitución del Siervo que «se dio a sí mismo en expiación» (§615). Su muerte redentora cumple la profecía del Siervo de Isaías (§601, §623).
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 La identidad del Siervo ha sido debatida: ¿Israel personificado? ¿un profeta? ¿un rey? La tradición cristiana desde los apóstoles lo identifica con Cristo. La novedad del cuarto canto (Is 52,13-53,12) es la expiación vicaria: el Siervo sufre no por sus propios pecados sino por los del pueblo. «Él fue traspasado por nuestras rebeldías, molido por nuestras culpas» (Is 53,5). Su muerte es un sacrificio de reparación. Dios justifica al Siervo resucitándolo: verá la luz, será exaltado.
 
 El NT aplica a Jesús: su silencio ante los jueces (Is 53,7; Mt 26,63), su intercesión por los pecadores (Is 53,12; Lc 23,34), su sepultura con los ricos (Is 53,9; Mt 27,57-60). 1 Pe 2,21-25 cita directamente Is 53: Cristo sufrió por nosotros, llevó nuestros pecados en su cuerpo. La teología del Siervo es clave para entender la soteriología cristiana: la redención se realiza por la obediencia amorosa del Hijo que da su vida en rescate.
-
-### Según el Catecismo (CEC)
-
-Jesús es el Siervo doliente anunciado por los profetas, que carga con el pecado de las multitudes (CEC §601, §608). Se deja contar entre los pecadores y acepta el «bautismo» de su muerte sangrienta (§536). Por su obediencia hasta la muerte lleva a cabo la sustitución del Siervo que «se dio a sí mismo en expiación» (§615). Su muerte redentora cumple la profecía del Siervo de Isaías (§601, §623).
 
 ### Según Royo Marín (TPCr)
 

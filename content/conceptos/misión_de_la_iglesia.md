@@ -13,13 +13,16 @@ La misión de Cristo y del Espíritu Santo se convierte en la misión de la Igle
 
 ## Perspectivas por fuente
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-La Constitución *Lumen Gentium* define a la Iglesia como «sacramento universal de salvación» [ConcVatII, LG §1], noción retomada por *Ad Gentes*: la Iglesia es enviada por Dios a las gentes para ser el sacramento universal de la salvación [ConcVatII, AG §1]. La Iglesia peregrinante es misionera por su naturaleza, puesto que toma su origen de la misión del Hijo y del Espíritu Santo, según el designio de Dios Padre [ConcVatII, AG §2]. El Decreto *Ad Gentes* enseña que la misión de la Iglesia se realiza mediante la actividad por la cual, obediente al mandato de Cristo, se hace presente a todos los hombres y pueblos para conducirlos a la fe, la libertad y la paz de Cristo [ConcVatII, AG §5]. *Gaudium et Spes* señala que la misión propia que Cristo confió a su Iglesia es de orden religioso, pero de esta misión religiosa derivan funciones, luces y energías que pueden servir para establecer y consolidar la comunidad humana [ConcVatII, GS §42].
-
 ### Según el Catecismo (CEC)
 
 La misión de la Iglesia no se añade a la de Cristo y del Espíritu Santo, sino que es su sacramento (§738). Toda la obra de Cristo es misión conjunta e inseparable del Hijo y del Espíritu Santo; misión de la Iglesia (§727, §743). Origen, fundación y misión de la Iglesia (§758-769). La misión de la Iglesia reclama el esfuerzo por la unidad de los cristianos (§855). Todo laico es instrumento vivo de la misión de la Iglesia (§913). La sagrada liturgia debe ser precedida por la evangelización y seguida del compromiso en la misión de la Iglesia (§1072). Pertenece a la misión de la Iglesia emitir juicio moral incluso sobre el orden político cuando lo exijan los derechos fundamentales (§2246).
+
+### Según el Código de Derecho Canónico (CIC)
+
+El canon 747 §1 establece que la Iglesia, a la que Cristo encomendó el depósito de la fe, tiene el deber y el derecho originario, independiente de cualquier poder humano, de predicar el Evangelio a todas las gentes. El canon 747 §2 afirma que «compete siempre y en todo lugar a la Iglesia proclamar los principios morales, incluso los referentes al orden social». El Título II del Libro III (cc. 781-792) desarrolla la actividad misional, afirmando que «toda la Iglesia es misionera» (c. 781). El canon 786 define la actividad propiamente misional como aquella mediante la cual se implanta la Iglesia en pueblos o grupos donde aún no está enraizada.
+### Según el Concilio Vaticano II (ConcVatII)
+
+La Constitución *Lumen Gentium* define a la Iglesia como «sacramento universal de salvación» [ConcVatII, LG §1], noción retomada por *Ad Gentes*: la Iglesia es enviada por Dios a las gentes para ser el sacramento universal de la salvación [ConcVatII, AG §1]. La Iglesia peregrinante es misionera por su naturaleza, puesto que toma su origen de la misión del Hijo y del Espíritu Santo, según el designio de Dios Padre [ConcVatII, AG §2]. El Decreto *Ad Gentes* enseña que la misión de la Iglesia se realiza mediante la actividad por la cual, obediente al mandato de Cristo, se hace presente a todos los hombres y pueblos para conducirlos a la fe, la libertad y la paz de Cristo [ConcVatII, AG §5]. *Gaudium et Spes* señala que la misión propia que Cristo confió a su Iglesia es de orden religioso, pero de esta misión religiosa derivan funciones, luces y energías que pueden servir para establecer y consolidar la comunidad humana [ConcVatII, GS §42].
 
 ### Según Royo Marín (TPCr)
 
@@ -27,9 +30,6 @@ El apostolado corresponde propiamente al Romano Pontífice y a los obispos, suce
 
 [TPCr, Tercera Parte, Libro II, Cap. V, Art. 4]
 
-### Según el Código de Derecho Canónico (CIC)
-
-El canon 747 §1 establece que la Iglesia, a la que Cristo encomendó el depósito de la fe, tiene el deber y el derecho originario, independiente de cualquier poder humano, de predicar el Evangelio a todas las gentes. El canon 747 §2 afirma que «compete siempre y en todo lugar a la Iglesia proclamar los principios morales, incluso los referentes al orden social». El Título II del Libro III (cc. 781-792) desarrolla la actividad misional, afirmando que «toda la Iglesia es misionera» (c. 781). El canon 786 define la actividad propiamente misional como aquella mediante la cual se implanta la Iglesia en pueblos o grupos donde aún no está enraizada.
 
 ## Distinciones importantes
 

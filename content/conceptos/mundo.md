@@ -13,13 +13,13 @@ El mundo es uno de los tres enemigos del alma. No se refiere a la creación mate
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Catecismo enseña que el mundo fue creado por Dios y es bueno (§299), pero que por el pecado «todo entero yace en poder del maligno» (§409). Cristo vino para salvar al mundo, no para condenarlo (§219). El discernimiento cristiano debe distinguir entre el crecimiento del Reino de Dios y el progreso de la cultura, sin separarlos (§2820).
 ### Según Royo Marín (TPCr)
 
 Royo Marín dedica un capítulo a la lucha contra el mundo (Parte III, Libro I, Cap. 2). Define el mundo como «el ambiente anticristiano que se respira entre las gentes que viven totalmente olvidadas de Dios». Se manifiesta en cuatro formas: falsas máximas opuestas al Evangelio, costumbres y modas contrarias a la modestia, criterios erróneos sobre valores humanos, y escándalos y malos ejemplos. Los remedios son: huida de las ocasiones, avivar la fe, considerar la vanidad del mundo y pisotear el respeto humano.
 
-### Según el Catecismo (CEC)
-
-El Catecismo enseña que el mundo fue creado por Dios y es bueno (§299), pero que por el pecado «todo entero yace en poder del maligno» (§409). Cristo vino para salvar al mundo, no para condenarlo (§219). El discernimiento cristiano debe distinguir entre el crecimiento del Reino de Dios y el progreso de la cultura, sin separarlos (§2820).
 
 ## Distinciones importantes
 

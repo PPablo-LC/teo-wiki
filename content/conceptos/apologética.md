@@ -19,13 +19,13 @@ El Catecismo no trata la apologética como disciplina separada, pero enseña los
 
 [CEC §35-36, §39, §156]
 
+### Según Royo Marín (TPCr)
+
+Royo Marín no dedica un tratado específico a la apologética, pero establece los principios fundamentales de la credibilidad de la revelación en sus fuentes teológicas: la Sagrada Escritura, la Tradición y el Magisterio de la Iglesia son la base sobre la que se asienta toda la teología de la perfección cristiana.
 ### Según Para Salvarte (PS)
 
 Toda la obra de Loring es de carácter apologético. Su método consiste en ofrecer argumentos racionales, históricos y científicos para defender la fe católica. El orden del cosmos y las leyes de la naturaleza demuestran la existencia de un Creador inteligente [PS §1]. Los milagros contemporáneos documentados —Lourdes, Calanda— prueban el origen divino de la Religión Cristiana [PS §37,13]. La historicidad de los Evangelios, confirmada por fuentes paganas y por la ausencia de rectificaciones de los contemporáneos, muestra la fiabilidad del testimonio apostólico [PS §32,3]. Las profecías del Antiguo Testamento cumplidas en Cristo son un argumento sólido [PS §32,1]. La propagación de la Iglesia, la santidad de sus mártires y la multitud de conversiones ilustres —Newman, Chesterton, Planck— confirman su verdad [PS §37,14]. Para Loring, la fe católica «no es un sentimiento, sino una convicción fundada en hechos históricos y razones sólidas» [PS §1].
 
-### Según Royo Marín (TPCr)
-
-Royo Marín no dedica un tratado específico a la apologética, pero establece los principios fundamentales de la credibilidad de la revelación en sus fuentes teológicas: la Sagrada Escritura, la Tradición y el Magisterio de la Iglesia son la base sobre la que se asienta toda la teología de la perfección cristiana.
 
 ## Distinciones importantes
 

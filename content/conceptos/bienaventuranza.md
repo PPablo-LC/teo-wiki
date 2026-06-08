@@ -19,6 +19,9 @@ Dios nos ha puesto en el mundo para conocerle, servirle y amarle, y así ir al C
 
 [CEC §1023-1028, §1703, §1718-1726, §2548-2557]
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+Las bienaventuranzas del sermón de la montaña (*Mt 5,3-12; Lc 6,20-26*) ofrecen el programa de la felicidad cristiana. Jesús no es un sabio que enseña la bienaventuranza, sino que la encarna: él mismo es el reino presente, el cumplimiento de las promesas. Dichosos los pobres, los que lloran, los perseguidos — inversión radical de los valores del mundo. En el AT, la bienaventuranza se identificaba con los bienes terrenos y la larga vida; Jesús la sitúa en el reino de los cielos, ya inaugurado en su persona. El Apocalipsis proclama bienaventurados a los que velan, a los invitados a las nupcias del Cordero y a los que mueren en el Señor (*Ap 14,13; 19,9; 22,7*) [VocTeoBib, «Bienaventuranza»].
 ### Según la Summa Theologiae (SmTh)
 
 **Bienaventuranza divina (Iª q.26):** Santo Tomás trata la bienaventuranza divina en SmTh Iª q.26. La bienaventuranza se atribuye propiamente a Dios (a.1): la bienaventuranza es el bien perfecto de la naturaleza intelectual, y Dios es el supremo Bien intelectual. Dios es bienaventurado no por adquisición sino por esencia (a.2): su bienaventuranza consiste en el perfecto gozo de sí mismo, en la intelección de su propia esencia. La bienaventuranza de Dios es única (a.3), pues su entendimiento y su esencia son uno; sin embargo, en cuanto a los diferentes aspectos de su perfección, se dice que Dios es bienaventurado de diversos modos. Ninguna criatura puede ser bienaventurada sino por participación de la bienaventuranza divina, que consiste en la visión de Dios. La bienaventuranza de Dios es eterna, inmutable e infinita.
@@ -43,9 +46,6 @@ El fin de la vida cristiana es la visión beatífica, que constituye la perfecci
 
 [TPCr, Parte I, Cap. 1; Parte II, Cap. 2]
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-Las bienaventuranzas del sermón de la montaña (*Mt 5,3-12; Lc 6,20-26*) ofrecen el programa de la felicidad cristiana. Jesús no es un sabio que enseña la bienaventuranza, sino que la encarna: él mismo es el reino presente, el cumplimiento de las promesas. Dichosos los pobres, los que lloran, los perseguidos — inversión radical de los valores del mundo. En el AT, la bienaventuranza se identificaba con los bienes terrenos y la larga vida; Jesús la sitúa en el reino de los cielos, ya inaugurado en su persona. El Apocalipsis proclama bienaventurados a los que velan, a los invitados a las nupcias del Cordero y a los que mueren en el Señor (*Ap 14,13; 19,9; 22,7*) [VocTeoBib, «Bienaventuranza»].
 
 ## Distinciones importantes
 

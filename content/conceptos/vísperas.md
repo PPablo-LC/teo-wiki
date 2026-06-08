@@ -17,15 +17,15 @@ Las Vísperas son la hora vespertina de la oración oficial de la Iglesia. Su no
 
 La Liturgia de las Horas es la oración pública de la Iglesia, que santifica el tiempo y las horas del día con la alabanza divina (CEC §1174-1178). Las Vísperas y Laudes son las «dos horas mayores» del Oficio Divino (CEC §1175). La Liturgia de las Horas continúa la obra sacerdotal de Cristo, uniendo la oración de la Iglesia a la suya propia (CEC §1176). Los pastores de almas deben procurar que los fieles, especialmente los laicos, participen en la Liturgia de las Horas, particularmente en las Vísperas dominicales y festivas (CEC §1177). Donde no sea posible la celebración comunitaria, los fieles pueden rezar las Vísperas individualmente, uniéndose así a la oración de toda la Iglesia (CEC §1176).
 
+### Según el Código de Derecho Canónico (CIC)
+
+El c. 276 §2, 3º establece la obligación de los clérigos de celebrar la Liturgia de las Horas, incluidas las Vísperas. Los miembros de institutos de vida consagrada también están obligados a la oración litúrgica según sus constituciones (c. 663 §3). Se recomienda vivamente que los fieles participen en la Liturgia de las Horas, especialmente en las Vísperas dominicales (c. 1174-1175).
 ### Según la Constitución *Sacrosanctum Concilium* (SC)
 
 SC 89 establece que las Vísperas, como hora vespertina, deben ser celebradas de modo que constituyan la verdadera oración de la tarde. El oficio de Vísperas debe restaurarse de modo que se adapte a las condiciones del tiempo presente, permitiendo la participación activa de los fieles (SC 89). Los salmos de Vísperas deben distribuirse en un ciclo más amplio que el semanal para evitar repeticiones excesivas (SC 91). *Sacrosanctum Concilium* recomienda que las Vísperas se celebren comunitariamente, especialmente en las parroquias y en las catedrales (SC 99). Se debe fomentar que los fieles participen en la oración vespertina de la Iglesia (SC 100).
 
 La estructura de las Vísperas según la reforma litúrgica postconciliar comprende: himno, salmodia (dos salmos o partes de salmo y un cántico del Nuevo Testamento), lectura breve, responsorio, cántico evangélico (Magníficat, Lc 1,46-55), intercesiones, Padre Nuestro y oración conclusiva.
 
-### Según el Código de Derecho Canónico (CIC)
-
-El c. 276 §2, 3º establece la obligación de los clérigos de celebrar la Liturgia de las Horas, incluidas las Vísperas. Los miembros de institutos de vida consagrada también están obligados a la oración litúrgica según sus constituciones (c. 663 §3). Se recomienda vivamente que los fieles participen en la Liturgia de las Horas, especialmente en las Vísperas dominicales (c. 1174-1175).
 
 ## Distinciones importantes
 

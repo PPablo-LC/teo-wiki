@@ -19,13 +19,13 @@ Santo Tomás de Aquino enseñó que los nombres que decimos de Dios —bondad, s
 
 El CEC §43 recoge la doctrina del Concilio de Letrán IV (1215): «Entre el Creador y la criatura no se puede señalar una semejanza tal que la desemejanza entre ellos no sea mayor todavía». Este principio de la «analogía del ser» (*analogia entis*) implica que nuestras palabras humanas captan realmente a Dios mismo, sin poder expresarlo en su infinita simplicidad. El CEC cita a Santo Tomás: «Nosotros no podemos captar de Dios lo que Él es, sino solamente lo que no es, y cómo los otros seres se sitúan con relación a Él» (§43).
 
+### Según Dei Verbum (ConcVatII)
+
+DV §6 enseña que «Dios, por su bondad y sabiduría, se revela a Sí mismo y da a conocer el misterio de su voluntad». La capacidad de la razón para conocer a Dios mediante las cosas creadas, fundada en la analogía del ser, es presupuesto de la Revelación. La Revelación perfecciona el conocimiento analógico natural y lo eleva al orden sobrenatural.
 ### Según Royo Marín (TPCr)
 
 Royo Marín usa explícitamente la analogía del ser como método de la [[teología_natural]]: «Remontándose por la escala analógica del ser a través de las criaturas puede el entendimiento del hombre descubrir al Dios uno» (TPCr, Primera Parte, Cap. II, art. 1, n. 38). La analogía del ser permite predicar de Dios las perfecciones creadas —ser, verdad, bondad, unidad— en sentido eminente y purificado, reconociendo que Dios las posee en grado infinito y de modo completamente diverso del modo creado.
 
-### Según Dei Verbum (ConcVatII)
-
-DV §6 enseña que «Dios, por su bondad y sabiduría, se revela a Sí mismo y da a conocer el misterio de su voluntad». La capacidad de la razón para conocer a Dios mediante las cosas creadas, fundada en la analogía del ser, es presupuesto de la Revelación. La Revelación perfecciona el conocimiento analógico natural y lo eleva al orden sobrenatural.
 
 ## Distinciones importantes
 

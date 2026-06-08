@@ -15,6 +15,13 @@ La perfección cristiana es posible en esta vida, aunque nunca absoluta (solo Di
 
 ## Perspectivas por fuente
 
+### Según el Concilio Vaticano II (ConcVatII)
+
+Lumen Gentium dedica el capítulo V a la llamada universal a la santidad, que es la [[perfección_cristiana]]. «El divino Maestro y Modelo de toda perfección, el Señor Jesús, predicó a todos y cada uno de sus discípulos, cualquiera que fuese su condición, la santidad de vida, de la que El es iniciador y consumador» [ConcVatII, LG §40, citando Mt 5,48].
+
+«Es, pues, completamente claro que todos los fieles, de cualquier estado o condición, están llamados a la plenitud de la vida cristiana y a la perfección de la caridad» [ConcVatII, LG §40]. En el logro de esta perfección, los fieles deben empeñar las fuerzas recibidas según la medida de la donación de Cristo, siguiendo sus huellas y obedeciendo en todo a la voluntad del Padre [ConcVatII, LG §40].
+
+Cada uno debe caminar por el camino de la fe viva según los dones y funciones que le son propios: pastores, presbíteros, esposos y padres cristianos, trabajadores, enfermos y perseguidos [ConcVatII, LG §41]. «El primero y más imprescindible don es la caridad», que rige todos los medios de santificación, los informa y los conduce a su fin [ConcVatII, LG §42]. El martirio es estimado como don eximio y suprema prueba de amor [ConcVatII, LG §42]. Quedan invitados y obligados todos los fieles a buscar insistentemente la santidad y la perfección dentro del propio estado [ConcVatII, LG §42].
 ### Según Royo Marín (TPCr)
 
 Royo Marín dedica las páginas centrales de su obra a la perfección cristiana. Establece que la perfección consiste esencialmente en la caridad, siguiendo la doctrina tomista. La caridad es la forma de todas las virtudes y el vínculo de la perfección (Col 3,14).
@@ -28,13 +35,6 @@ La perfección cristiana no es privilegio de los religiosos o sacerdotes, sino v
 
 [TPCr, obra completa; especialmente Conclusiones de la Segunda Parte y Parte III-IV]
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-Lumen Gentium dedica el capítulo V a la llamada universal a la santidad, que es la [[perfección_cristiana]]. «El divino Maestro y Modelo de toda perfección, el Señor Jesús, predicó a todos y cada uno de sus discípulos, cualquiera que fuese su condición, la santidad de vida, de la que El es iniciador y consumador» [ConcVatII, LG §40, citando Mt 5,48].
-
-«Es, pues, completamente claro que todos los fieles, de cualquier estado o condición, están llamados a la plenitud de la vida cristiana y a la perfección de la caridad» [ConcVatII, LG §40]. En el logro de esta perfección, los fieles deben empeñar las fuerzas recibidas según la medida de la donación de Cristo, siguiendo sus huellas y obedeciendo en todo a la voluntad del Padre [ConcVatII, LG §40].
-
-Cada uno debe caminar por el camino de la fe viva según los dones y funciones que le son propios: pastores, presbíteros, esposos y padres cristianos, trabajadores, enfermos y perseguidos [ConcVatII, LG §41]. «El primero y más imprescindible don es la caridad», que rige todos los medios de santificación, los informa y los conduce a su fin [ConcVatII, LG §42]. El martirio es estimado como don eximio y suprema prueba de amor [ConcVatII, LG §42]. Quedan invitados y obligados todos los fieles a buscar insistentemente la santidad y la perfección dentro del propio estado [ConcVatII, LG §42].
 
 ## Distinciones importantes
 

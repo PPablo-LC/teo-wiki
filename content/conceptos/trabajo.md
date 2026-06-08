@@ -15,6 +15,10 @@ Jesús fue trabajador (carpintero, Mc 6,3). Pablo trabajaba manualmente (Hch 18,
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El trabajo es parte del orden creado: Dios trabajó seis días y descansó el séptimo, dando modelo a la acción humana (CEC §2171-§2172). El domingo es día de descanso que interrumpe los trabajos cotidianos (§2184-§2188). El trabajo es considerado un deber y un derecho: el hombre debe trabajar para sustentarse y contribuir al bien común (§2427-§2428). El sábado protesta contra las servidumbres del trabajo y el culto al dinero (§2172).
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 El trabajo en el AT no es una maldición en sí mismo, sino parte del designio original de Dios. La fatiga del trabajo es consecuencia del pecado, pero el trabajo mismo es cooperación con Dios. La sabiduría popular alaba la diligencia y condena la pereza (Prov 6,6-11; 10,4-5).
@@ -22,10 +26,6 @@ El trabajo en el AT no es una maldición en sí mismo, sino parte del designio o
 El descanso sabático no es ocio, sino consagración del tiempo a Dios. El año sabático y el jubileo (Lv 25) restauran el orden social. Los profetas denuncian la explotación de los trabajadores (Jer 22,13; Mal 3,5).
 
 En el NT, Jesús asume el trabajo humano siendo artesano. Pablo presenta el trabajo como medio de no ser carga para nadie y como servicio a la comunidad. El trabajo debe hacerse «de corazón, como para el Señor y no para los hombres» (Col 3,23). La pereza es condenada como desorden moral. El trabajo tiene valor escatológico: el fruto del trabajo permanece (Ap 14,13). La doctrina social de la Iglesia desarrolla el principio de la primacía del trabajo sobre el capital y del destino universal de los bienes.
-
-### Según el Catecismo (CEC)
-
-El trabajo es parte del orden creado: Dios trabajó seis días y descansó el séptimo, dando modelo a la acción humana (CEC §2171-§2172). El domingo es día de descanso que interrumpe los trabajos cotidianos (§2184-§2188). El trabajo es considerado un deber y un derecho: el hombre debe trabajar para sustentarse y contribuir al bien común (§2427-§2428). El sábado protesta contra las servidumbres del trabajo y el culto al dinero (§2172).
 
 ### Según Royo Marín (TPCr)
 

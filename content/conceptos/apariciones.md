@@ -17,13 +17,13 @@ Las apariciones de los ángeles son posibles porque el ángel está donde obra, 
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC §65-67, citando a San Juan de la Cruz, enseña que en Cristo se nos ha dado todo, y no debemos esperar nuevas revelaciones públicas. Las revelaciones privadas (incluidas las apariciones) no pertenecen al depósito de la fe.
 ### Según Royo Marín (TPCr)
 
 Las apariciones (n.783) son la forma más imperfecta de visiones. Para discernir su autenticidad, deben evaluarse por los frutos espirituales que producen: humildad, caridad, fortaleza. Las apariciones auténticas suelen ir acompañadas de gran paz y no dejan inquietud.
 
-### Según el Catecismo (CEC)
-
-El CEC §65-67, citando a San Juan de la Cruz, enseña que en Cristo se nos ha dado todo, y no debemos esperar nuevas revelaciones públicas. Las revelaciones privadas (incluidas las apariciones) no pertenecen al depósito de la fe.
 
 ## Distinciones importantes
 

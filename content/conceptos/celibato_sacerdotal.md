@@ -17,13 +17,13 @@ El celibato sacerdotal no es de derecho divino sino de disciplina eclesiástica,
 
 El CEC aborda el celibato sacerdotal en los §§1579-1580. Señala que en la Iglesia latina el celibato es "una señal de la nueva vida al servicio de la cual es consagrado el ministro de la Iglesia" (CEC §1579). Cristo mismo vivió célibe y recomendó el celibato por el Reino. Es "signo de un amor sin reservas" y "fuente de fecundidad espiritual" (CEC §1580). Los presbíteros casados de las Iglesias orientales son una excepción que confirma la regla latina, mostrando que la disciplina no afecta la validez sacramental.
 
-### Según el CIC
-
-Los cc. 277 y 1037 establecen la disciplina del celibato. El c. 277 §1 ordena que los clérigos están obligados a observar una continencia perfecta y perpetua por el Reino de los Cielos, y por tanto deben abrazar el celibato. El c. 1037 exige que el candidato al diaconado permanente (si es soltero) y al presbiterado dé testimonio público de su compromiso de celibato según el rito aprobado. La violación del celibato puede ser sancionada canónicamente.
-
 ### Según Royo Marín (TPCr)
 
 Royo Marín trata la castidad sacerdotal en TPCr Parte I (Ascética), dentro del contexto de la virtud de la castidad y su integración en la vida espiritual del clérigo. La castidad perfecta (celibato) es una de las exigencias de la perfección sacerdotal, que requiere el dominio de la concupiscencia y la entrega total al servicio de Dios y de las almas.
+
+### Según el CIC
+
+Los cc. 277 y 1037 establecen la disciplina del celibato. El c. 277 §1 ordena que los clérigos están obligados a observar una continencia perfecta y perpetua por el Reino de los Cielos, y por tanto deben abrazar el celibato. El c. 1037 exige que el candidato al diaconado permanente (si es soltero) y al presbiterado dé testimonio público de su compromiso de celibato según el rito aprobado. La violación del celibato puede ser sancionada canónicamente.
 
 ### Según la LC-2026
 

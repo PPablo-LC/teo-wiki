@@ -17,6 +17,9 @@ Cuando Jesús fue interrogado sobre cuál es el primer mandamiento, respondió c
 
 «El gran mandamiento de la ley de Dios» es amar a Dios con todo el corazón y al prójimo como a uno mismo (CEC 2055, 2083). Jesús hace de este doble mandamiento el resumen de toda la Ley (CEC 2055). El Decálogo se interpreta a la luz del gran mandamiento (CEC 2061). El amor a Dios y al prójimo son inseparables (CEC 1878). La caridad es el vínculo de la perfección (CEC 1827). «El que ama a Dios debe amar también a su hermano» (CEC 2844).
 
+### Según la Doctrina Social de la Iglesia (DSI)
+
+La DSI se fundamenta en el gran mandamiento: «El amor, ágape, se extiende más allá de las fronteras de la humanidad, y el amor por el prójimo no conoce límites» (DSI 32). El principio de solidaridad es aplicación social del mandamiento del amor al prójimo.
 ### Según Royo Marín (TPCr)
 
 La caridad es la reina de todas las virtudes. El gran mandamiento es la regla suprema de la perfección cristiana. «La perfección de la vida cristiana consiste formalmente en la caridad». El amor a Dios es el primer precepto; el amor al prójimo es consecuencia necesaria del amor a Dios. El religioso que practica los consejos evangélicos no hace más que buscar la perfección de la caridad.
@@ -31,9 +34,6 @@ La caridad es la reina de todas las virtudes. El gran mandamiento es la regla su
 
 Las notas de las conferencias de Auténtica desarrollan el gran mandamiento en el contexto de la vida cristiana ordinaria. El amor a Dios no es un sentimiento, sino una decisión de la voluntad que se manifiesta en la entrega cotidiana. El amor al prójimo es el camino concreto para amar a Dios.
 
-### Según la Doctrina Social de la Iglesia (DSI)
-
-La DSI se fundamenta en el gran mandamiento: «El amor, ágape, se extiende más allá de las fronteras de la humanidad, y el amor por el prójimo no conoce límites» (DSI 32). El principio de solidaridad es aplicación social del mandamiento del amor al prójimo.
 
 ## Distinciones importantes
 

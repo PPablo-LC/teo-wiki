@@ -13,6 +13,9 @@ La sinodalidad ha sido redescubierta con fuerza en el pontificado de Francisco y
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La Iglesia es Pueblo de Dios, donde todos los fieles participan del sacerdocio común de Cristo (CEC §871-887, §1267-1270). El Espíritu Santo distribuye sus dones para el bien común y edifica la Iglesia con la diversidad de carismas y ministerios (CEC §798-801, §951).
 ### Según el Capítulo General LC-2026
 
 El V Capítulo General ordinario de los Legionarios de Cristo (2026) fue vivido como «un verdadero ejercicio sinodal: caminando y rezando juntos, escuchándonos, discerniendo bajo la guía del Espíritu» [LC-2026, n. 3]. El método de las «conversaciones en el Espíritu», tomado del Sínodo 2021-2024 y del primer consistorio del papa León XIV, permitió una «escucha desarmada y un aprecio sincero por lo que Dios está haciendo en el corazón de nuestros hermanos» [LC-2026, n. 15].
@@ -21,9 +24,6 @@ El papa León XIV, en su discurso a los padres capitulares, afirmó que «la Igl
 
 El proceso sinodal del Capítulo incluyó la recepción de 292 propuestas de las asambleas territoriales y 442 aportaciones individuales de legionarios, así como aportaciones externas, cuya voz «enriqueció nuestro discernimiento» [LC-2026, n. 14].
 
-### Según el Catecismo (CEC)
-
-La Iglesia es Pueblo de Dios, donde todos los fieles participan del sacerdocio común de Cristo (CEC §871-887, §1267-1270). El Espíritu Santo distribuye sus dones para el bien común y edifica la Iglesia con la diversidad de carismas y ministerios (CEC §798-801, §951).
 
 ## Distinciones importantes
 

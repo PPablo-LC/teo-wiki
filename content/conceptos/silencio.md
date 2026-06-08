@@ -19,10 +19,6 @@ En la reciente legislación eclesial, el silencio adquiere una relevancia ética
 
 ## Perspectivas por fuente
 
-### Según Royo Marín (TPCr)
-
-El silencio es un medio ascético indispensable para la guarda del corazón y la unión con Dios. La mortificación de la lengua mediante el silencio evita pecados de murmuración, juicios temerarios y palabras ociosas. El silencio facilita el recogimiento interior y prepara el alma para la [[oración_contemplativa]] (TPCr, Segunda Parte, Cap. sobre mortificación). La tradición monástica valora el silencio como «custodia del corazón».
-
 ### Según el Catecismo (CEC)
 
 La contemplación es «silencio lleno de presencia» (§2716). El silencio sagrado debe guardarse en la liturgia «a su debido tiempo» (SC 30, CEC §2717). La vida de Cristo en Nazaret, transcurrida en el silencio de una existencia humilde, es modelo de la vida oculta (CEC §533). El silencio es también expresión del respeto ante el misterio de Dios (CEC §2147).
@@ -34,6 +30,10 @@ El silencio en la Biblia puede expresar la adoración ante el misterio de Dios (
 En el NT, Jesús guarda silencio ante sus acusadores como el Siervo de Yahvé (Is 53,7; Mt 26,63). Pablo habla del silencio de la mujer en las asambleas (1 Cor 14,34-35). En el Apocalipsis, hay silencio en el cielo como antesala del juicio (Ap 8,1).
 
 El silencio de Dios es también una experiencia del justo que clama sin respuesta aparente. El Salmo 22 comienza con el grito de abandono que Jesús hace suyo en la cruz. La tradición monástica ha visto en el silencio el clima de la escucha de Dios.
+
+### Según Royo Marín (TPCr)
+
+El silencio es un medio ascético indispensable para la guarda del corazón y la unión con Dios. La mortificación de la lengua mediante el silencio evita pecados de murmuración, juicios temerarios y palabras ociosas. El silencio facilita el recogimiento interior y prepara el alma para la [[oración_contemplativa]] (TPCr, Segunda Parte, Cap. sobre mortificación). La tradición monástica valora el silencio como «custodia del corazón».
 
 ### Según Vos estis lux mundi (VELM)
 

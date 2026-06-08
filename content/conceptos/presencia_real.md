@@ -13,13 +13,13 @@ Jesucristo está presente en la Eucaristía de modo verdadero, real y substancia
 
 ## Perspectivas por fuente
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-*Sacrosanctum Concilium* 7 enseña las diversas formas de la presencia de Cristo en la liturgia. Cristo está presente en el sacrificio de la Misa, sea en la persona del ministro, sea sobre todo bajo las especies eucarísticas. Está presente con su fuerza en los Sacramentos, de modo que cuando alguien bautiza, es Cristo quien bautiza. Está presente en su palabra, pues cuando se lee en la Iglesia la Sagrada Escritura, es Él quien habla. Está presente cuando la Iglesia suplica y canta salmos, conforme a su promesa: «Donde están dos o tres congregados en mi nombre, allí estoy Yo en medio de ellos» (SC 7).
-
 ### Según el Catecismo (CEC)
 
 Cristo está presente en la Eucaristía de manera única, verdadera, real y substancial, con su Cuerpo y Sangre, con su alma y su divinidad (CEC §1374). La presencia del Cuerpo y Sangre de Cristo en la Eucaristía no se obtiene por un cambio natural, sino por la transubstanciación, que es la conversión de toda la substancia del pan en el Cuerpo de Cristo y de toda la substancia del vino en su Sangre (CEC §1376). Cristo está realmente presente en las especies eucarísticas, y esta presencia permanece mientras las especies subsisten (CEC §1377). El culto eucarístico es el culto debido al mismo Dios, y merece ser adorado fuera de la Misa (CEC §1378).
+
+### Según el Concilio Vaticano II (ConcVatII)
+
+*Sacrosanctum Concilium* 7 enseña las diversas formas de la presencia de Cristo en la liturgia. Cristo está presente en el sacrificio de la Misa, sea en la persona del ministro, sea sobre todo bajo las especies eucarísticas. Está presente con su fuerza en los Sacramentos, de modo que cuando alguien bautiza, es Cristo quien bautiza. Está presente en su palabra, pues cuando se lee en la Iglesia la Sagrada Escritura, es Él quien habla. Está presente cuando la Iglesia suplica y canta salmos, conforme a su promesa: «Donde están dos o tres congregados en mi nombre, allí estoy Yo en medio de ellos» (SC 7).
 
 ### Según Royo Marín (TPCr)
 

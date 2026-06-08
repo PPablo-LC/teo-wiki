@@ -28,16 +28,6 @@ CEC §2302-2303: Trata el odio junto con la cólera en el contexto del quinto ma
 
 §2303: "El odio deliberado de una persona o grupo y el deseo de su muerte o destrucción son pecados graves contrarios a la caridad. El asesinato de un ser humano es intrínsecamente malvado".
 
-### Según Royo Marín (TPCr)
-
-TPCr trata el odio como pecado capital y como pecado contra la caridad. Es pecado mortal por su misma materia cuando hay deliberación y consentimiento pleno, porque se opone directamente al mandato fundamental de amar al prójimo.
-
-El odio puede ser:
-1. **Odio de Dios**: pecado más grave de todos, opuesto directamente a la caridad teologal
-2. **Odio del prójimo**: pecado contra la caridad hacia el hermano
-
-El odio es uno de los frutos de la [[soberbia]] y se relaciona con la [[envidia]] y la [[ira]]. La virtud opuesta es la caridad y la mansedumbre.
-
 ### Según la Summa Theologiae (SmTh)
 
 **Ia-IIae q.29 — El odio como pasión del concupiscible:**
@@ -51,6 +41,16 @@ El odio es uno de los frutos de la [[soberbia]] y se relaciona con la [[envidia]
 **a.4 — Nadie puede odiarse a sí mismo absolutamente:** Todo ser se ama naturalmente a sí mismo. Solo indirectamente puede uno odiarse, cuando desea para sí un bien relativo que es mal absoluto, o cuando se identifica con lo sensible y corporal más que con lo racional.
 
 **Distinción importante:** El odio como pasión del concupiscible (movimiento espontáneo del apetito sensitivo) debe distinguirse del odio como pecado (acto deliberado de la voluntad contrario a la [[caridad]]). La pasión del odio no es pecado en sí misma; solo cuando la voluntad la abraza deliberadamente se convierte en pecado mortal.
+### Según Royo Marín (TPCr)
+
+TPCr trata el odio como pecado capital y como pecado contra la caridad. Es pecado mortal por su misma materia cuando hay deliberación y consentimiento pleno, porque se opone directamente al mandato fundamental de amar al prójimo.
+
+El odio puede ser:
+1. **Odio de Dios**: pecado más grave de todos, opuesto directamente a la caridad teologal
+2. **Odio del prójimo**: pecado contra la caridad hacia el hermano
+
+El odio es uno de los frutos de la [[soberbia]] y se relaciona con la [[envidia]] y la [[ira]]. La virtud opuesta es la caridad y la mansedumbre.
+
 
 ## Distinciones importantes
 

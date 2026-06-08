@@ -13,17 +13,17 @@ La Misa es el memorial del sacrificio de Cristo, que se hace realmente presente 
 
 ## Perspectivas por fuente
 
-### Según el Concilio Vaticano II (ConcVatII)
+### Según el Catecismo (CEC)
 
-*Sacrosanctum Concilium* 47-56 desarrolla la reforma del Sacrificio Eucarístico. La Misa es el Sacrificio Eucarístico, Memorial de la Muerte y Resurrección del Señor, «sacramento de piedad, signo de unidad, vínculo de caridad, banquete pascual» (SC 47). Se ordena la revisión del Ordinario de la Misa para manifestar con mayor claridad el sentido de cada parte, simplificando los ritos pero conservando la sustancia (SC 50). Se amplían las lecturas bíblicas (SC 51). La homilía es parte de la Misa y nunca debe omitirse en domingos y fiestas (SC 52). Se restablece la oración de los fieles (SC 53). La liturgia de la palabra y la liturgia eucarística constituyen un solo acto de culto (SC 56).
+Cristo está presente en el sacrificio de la misa, no solo en la persona del ministro, sino también, sobre todo, bajo las especies eucarísticas (CEC §1088). La Epíclesis es la oración por el pleno efecto de la comunión de la asamblea con el Misterio de Cristo (CEC §1109). La celebración eucarística sigue una estructura fundamental que incluye los ritos iniciales, la liturgia de la Palabra, la liturgia eucarística (con el ofertorio, la plegaria eucarística y la comunión) y los ritos de conclusión (CEC §1345-1355).
 
 ### Según el Código de Derecho Canónico (CIC)
 
 El CIC regula la celebración eucarística en los cánones 897-958. La Misa es la celebración del Sacrificio eucarístico, memorial de la muerte y resurrección del Señor, en el que se perpetúa el Sacrificio de la cruz, culmen y fuente de todo el culto cristiano (c. 897). Solo el sacerdote válidamente ordenado es ministro capaz de confeccionar la Eucaristía (c. 900 §1). La celebración eucarística debe hacerse en lugar sagrado y en altar dedicado o bendecido (c. 932). El pan debe ser de trigo y hecho recientemente; el vino, natural del fruto de la vid (c. 924). La celebración puede hacerse todos los días y a cualquier hora (c. 931). El sacerdote puede aplicar la Misa por vivos y difuntos (c. 901). Se recomienda la celebración diaria (c. 904). No es lícito celebrar más de una vez al día, salvo excepciones por necesidad pastoral (c. 905). El sacerdote debe prepararse con oración y dar gracias después (c. 909). Los fieles deben participar en la Misa los domingos y fiestas de precepto (c. 1247).
 
-### Según el Catecismo (CEC)
+### Según el Concilio Vaticano II (ConcVatII)
 
-Cristo está presente en el sacrificio de la misa, no solo en la persona del ministro, sino también, sobre todo, bajo las especies eucarísticas (CEC §1088). La Epíclesis es la oración por el pleno efecto de la comunión de la asamblea con el Misterio de Cristo (CEC §1109). La celebración eucarística sigue una estructura fundamental que incluye los ritos iniciales, la liturgia de la Palabra, la liturgia eucarística (con el ofertorio, la plegaria eucarística y la comunión) y los ritos de conclusión (CEC §1345-1355).
+*Sacrosanctum Concilium* 47-56 desarrolla la reforma del Sacrificio Eucarístico. La Misa es el Sacrificio Eucarístico, Memorial de la Muerte y Resurrección del Señor, «sacramento de piedad, signo de unidad, vínculo de caridad, banquete pascual» (SC 47). Se ordena la revisión del Ordinario de la Misa para manifestar con mayor claridad el sentido de cada parte, simplificando los ritos pero conservando la sustancia (SC 50). Se amplían las lecturas bíblicas (SC 51). La homilía es parte de la Misa y nunca debe omitirse en domingos y fiestas (SC 52). Se restablece la oración de los fieles (SC 53). La liturgia de la palabra y la liturgia eucarística constituyen un solo acto de culto (SC 56).
 
 ### Según Royo Marín (TPCr)
 

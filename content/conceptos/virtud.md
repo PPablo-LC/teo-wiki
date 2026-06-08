@@ -14,9 +14,6 @@ La virtud es un hábito operativo bueno. Se distingue entre virtudes humanas (ad
 ### Según el Catecismo (CEC)
 «Todo cuanto hay de verdadero, de noble, de justo, de puro, de amable, de honorable, todo cuanto sea virtud y cosa digna de elogio, todo eso tenedlo en cuenta» (§1803). La virtud es una disposición habitual y firme a hacer el bien (§1833). Las virtudes humanas se adquieren mediante la educación y actos deliberados (§1804, §1839). Las virtudes teologales son infundidas por Dios (§1813). La caridad es «el vínculo de la perfección» y la forma de las virtudes (§1827). Con la ayuda de la gracia crecen en la virtud (§1700).
 
-### Según Royo Marín (TPCr)
-El Capítulo 1 de la Segunda Parte estudia el organismo sobrenatural: las virtudes infusas (teologales y morales) y los dones del Espíritu Santo. Las virtudes morales infusas son hábitos que disponen las potencias del alma para seguir el dictamen de la razón iluminada por la fe con relación a los medios conducentes al fin sobrenatural. La caridad es la forma de todas las virtudes: sin ella, las demás virtudes no pueden ordenarse al fin último sobrenatural.
-
 ### Según el Compendio (CompDS)
 
 Quienes tienen responsabilidades políticas deben ejercer el poder mediante el recurso a las virtudes que favorecen la práctica del poder con espíritu de servicio: paciencia, modestia, moderación, caridad, generosidad [CompDS §410]. Los nuevos estilos de vida para afrontar los graves problemas ecológicos deben estar presididos por la sobriedad, la templanza y la autodisciplina, tanto a nivel personal como social [CompDS §486]. La prudencia —virtud que dispone para discernir en cada circunstancia el verdadero bien y elegir los medios adecuados— capacita para tomar decisiones coherentes con realismo y sentido de responsabilidad [CompDS §547-548]. Esta virtud, propia de la razón práctica, ayuda a decidir con sensatez y valentía las acciones a realizar, convirtiéndose en medida de las demás virtudes [CompDS §548].
@@ -40,6 +37,9 @@ Quienes tienen responsabilidades políticas deben ejercer el poder mediante el r
 **Permanencia de las virtudes después de esta vida (Iª-IIae q.67):** Las virtudes morales permanecen en la gloria en cuanto a lo formal (el orden de la razón), pero no en cuanto a lo material (las pasiones y operaciones de esta vida) (a.1): la prudencia sin error, la fortaleza sin males, la templanza sin concupiscencias rebeldes, la justicia como sumisión a Dios. Las virtudes intelectuales permanecen en cuanto a las especies inteligibles (elemento formal) pero no en cuanto a los fantasmas (elemento material) (a.2). La fe no permanece en la gloria (a.3): la imperfección de no ver es esencial a la fe y es incompatible con la visión beatífica. La esperanza no permanece (a.4): importa movimiento hacia lo que no se posee, incompatible con la fruición de Dios. La caridad sí permanece (a.6): el amor no implica esencialmente imperfección; en la gloria la caridad se perfecciona y permanece numéricamente la misma.
 
 [SmTh Iª-IIae q.55-67]
+### Según Royo Marín (TPCr)
+El Capítulo 1 de la Segunda Parte estudia el organismo sobrenatural: las virtudes infusas (teologales y morales) y los dones del Espíritu Santo. Las virtudes morales infusas son hábitos que disponen las potencias del alma para seguir el dictamen de la razón iluminada por la fe con relación a los medios conducentes al fin sobrenatural. La caridad es la forma de todas las virtudes: sin ella, las demás virtudes no pueden ordenarse al fin último sobrenatural.
+
 
 ## Distinciones importantes
 - Virtud infusa (dada por Dios) ≠ virtud adquirida (por repetición de actos humanos)

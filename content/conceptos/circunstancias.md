@@ -17,10 +17,6 @@ Las circunstancias constituyen una de las tres fuentes de la moralidad junto con
 
 Las circunstancias son una de las tres fuentes de la moralidad de los actos humanos, junto con el objeto y la intención. Un acto es moralmente bueno cuando lo son simultáneamente su objeto, su fin y sus circunstancias. Las circunstancias pueden aumentar o disminuir la bondad o malicia de los actos, pero no pueden cambiar la maldad de los actos intrínsecamente malenos (CEC §1754-1756). La ignorancia de las circunstancias puede disminuir la imputabilidad del acto (CEC §1735-1736).
 
-### Según Royo Marín (TPCr)
-
-Las condiciones para la moralidad de un acto humano son el objeto, el fin y las circunstancias. Estas últimas son elementos accidentales que rodean al acto y pueden modificar su bondad o malicia. Las circunstancias principales son las que enumera la tradición: quién, qué, dónde, con qué medios, por qué, cómo y cuándo. Aunque son accidentes del acto, el teólogo debe considerarlas porque determinan la especie moral cuando afectan a un orden especial de la razón (TPCr, Parte I, Tratado de los actos humanos).
-
 ### Según la Summa Theologiae (SmTh)
 
 **SmTh Ia-IIae q.7 — Las circunstancias de los actos humanos:**
@@ -34,6 +30,10 @@ Las condiciones para la moralidad de un acto humano son el objeto, el fin y las 
 **a.4 — Circunstancias principales:** Entre todas, las más importantes son la sustancia del acto (quid) y el fin (cur). La razón es que la bondad del acto depende principalmente del objeto y del fin. Las demás circunstancias son como accidentes de estas dos principales.
 
 **Doctrina complementaria sobre circunstancias y especie moral (SmTh Ia-IIae q.18 a.10-11):** Una circunstancia puede cambiar la especie del acto moral cuando añade una deformidad de otro género. Por ejemplo, tomar lo ajeno es hurto; hacerlo en lugar sagrado añade la deformidad de sacrilegio, constituyendo una nueva especie. Pero las circunstancias que solo agravan sin añadir una deformidad de distinto género no constituyen especie nueva (SmTh Ia-IIae q.18 a.11). La ignorancia de circunstancias puede causar involuntariedad y excusar del pecado (SmTh Ia-IIae q.6 a.8).
+### Según Royo Marín (TPCr)
+
+Las condiciones para la moralidad de un acto humano son el objeto, el fin y las circunstancias. Estas últimas son elementos accidentales que rodean al acto y pueden modificar su bondad o malicia. Las circunstancias principales son las que enumera la tradición: quién, qué, dónde, con qué medios, por qué, cómo y cuándo. Aunque son accidentes del acto, el teólogo debe considerarlas porque determinan la especie moral cuando afectan a un orden especial de la razón (TPCr, Parte I, Tratado de los actos humanos).
+
 
 ## Distinciones importantes
 

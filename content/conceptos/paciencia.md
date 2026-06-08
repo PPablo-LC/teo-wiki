@@ -15,6 +15,9 @@ Por no practicar esta virtud, muchas almas pierden el mérito de sus trabajos, s
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La paciencia aparece entre los frutos del Espíritu Santo (§1832). Es virtud recomendada por San Pablo: «Soportaos unos a otros en la caridad, en toda humildad, dulzura y paciencia» (Ef 4,2). El amor de Dios «usa de paciencia, no queriendo que algunos perezcan» (2 Pe 3,9; §2822).
 ### Según Royo Marín (TPCr)
 
 Los principales motivos de la paciencia cristiana son:
@@ -35,9 +38,6 @@ La paciencia y la longanimidad son los frutos del don de fortaleza. Los santos n
 
 [TPCr, Parte III, Libro II, Cap. II, n.437-438]
 
-### Según el Catecismo (CEC)
-
-La paciencia aparece entre los frutos del Espíritu Santo (§1832). Es virtud recomendada por San Pablo: «Soportaos unos a otros en la caridad, en toda humildad, dulzura y paciencia» (Ef 4,2). El amor de Dios «usa de paciencia, no queriendo que algunos perezcan» (2 Pe 3,9; §2822).
 
 ## Distinciones importantes
 

@@ -17,13 +17,13 @@ La revelación de Dios como Padre recorre toda la Escritura. En el Antiguo Testa
 
 El Catecismo dedica una extensa sección a Dios Padre (CEC §232-267). Dios es llamado Padre en razón de la Creación (§238), de la Alianza con Israel (§239) y, sobre todo, por la revelación de Jesucristo (§240). Jesús revela que Dios es «Padre» en sentido propio: no solo como Creador, sino eternamente en relación a su Hijo único (§240). El Padre es «la fuente y el origen de toda la divinidad» (§245). «Dios, que 'habita una luz inaccesible' (1 Tm 6,16), es el Padre de los espíritus» (§277). La Creación es obra de la Trinidad, apropiada al Padre como primer principio (§277-278). El Padre es «el fin último de toda la economía de la salvación» (§294).
 
+### Según Royo Marín (TPCr)
+
+Royo Marín enseña que la gracia santificante nos hace hijos adoptivos de Dios Padre, «herederos de Dios y coherederos con Cristo» (Rm 8,16-17; TPCr §89). La inhabitación trinitaria prometida por Cristo —«mi Padre le amará, y vendremos a él, y en él haremos morada» (Jn 14,23)— se realiza en toda alma en gracia (TPCr §96). Toda la vida sobrenatural se ordena al Padre por el Hijo en el Espíritu Santo (TPCr, Segunda Parte, Cap. I).
 ### Según el Símbolo Niceno-Constantinopolitano
 
 «Creo en un solo Dios, Padre todopoderoso, Creador del cielo y de la tierra, de todo lo visible y lo invisible.» La fe de la Iglesia comienza confesando a Dios Padre como origen de todo, principio sin principio, de quien proceden el Hijo por generación eterna y el Espíritu Santo por espiración.
 
-### Según Royo Marín (TPCr)
-
-Royo Marín enseña que la gracia santificante nos hace hijos adoptivos de Dios Padre, «herederos de Dios y coherederos con Cristo» (Rm 8,16-17; TPCr §89). La inhabitación trinitaria prometida por Cristo —«mi Padre le amará, y vendremos a él, y en él haremos morada» (Jn 14,23)— se realiza en toda alma en gracia (TPCr §96). Toda la vida sobrenatural se ordena al Padre por el Hijo en el Espíritu Santo (TPCr, Segunda Parte, Cap. I).
 
 ## Distinciones importantes
 

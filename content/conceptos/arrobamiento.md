@@ -17,15 +17,15 @@ La definición del éxtasis místico comprende tres elementos: unión íntima de
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC §2710 habla de la contemplación como don gratuito de Dios. El arrobamiento es una manifestación extrema de la acción de Dios en el alma.
 ### Según Royo Marín (TPCr)
 
 El arrobamiento puede producirse con violencia (rapto) o suavemente (éxtasis). Sus causas pueden ser naturales (enajenación mental), diabólicas (con permisión divina) y sobrenaturales (éxtasis místico). El demonio puede imitar el éxtasis, pero no puede producir la unión íntima del alma con Dios.
 
 Santa Teresa describe largamente estos fenómenos en las Moradas sextas. San Juan de la Cruz también los describe en el Cántico espiritual.
 
-### Según el Catecismo (CEC)
-
-El CEC §2710 habla de la contemplación como don gratuito de Dios. El arrobamiento es una manifestación extrema de la acción de Dios en el alma.
 
 ## Distinciones importantes
 

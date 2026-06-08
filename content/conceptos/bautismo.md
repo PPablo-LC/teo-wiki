@@ -76,6 +76,22 @@ Son siete los efectos principales del bautismo:
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Bautismo es «el fundamento de toda la vida cristiana, el pórtico de la vida en el espíritu y la puerta que abre el acceso a los otros sacramentos» (§1213). El nombre significa «sumergir»; la inmersión en el agua simboliza sepultar al catecúmeno en la muerte de Cristo, de donde sale por la resurrección con Él como nueva criatura (§1214).
+
+Necesidad: el Bautismo es necesario para la salvación (§1257). Dios ha vinculado la salvación al Bautismo, pero Él no queda sometido a sus sacramentos. El Bautismo de sangre y el Bautismo de deseo producen los frutos del Bautismo sin ser sacramento (§1258-1259).
+
+La gracia bautismal comprende el perdón del pecado original y de todos los pecados personales, el nuevo nacimiento como hijo adoptivo del Padre, miembro de Cristo y templo del Espíritu Santo (§1262-1279). Imprime un carácter o sello espiritual indeleble (§1272-1274). El Bautismo incorpora a la Iglesia, Cuerpo de Cristo, y hace participar en el sacerdocio común de los fieles (§1267-1269).
+
+### Según el Código de Derecho Canónico (CIC)
+
+El CIC regula el bautismo en los cánones 849-878. Lo define como «puerta de los sacramentos», necesario para la salvación, que libera de los pecados, reengendra como hijos de Dios e incorpora a la Iglesia, configurando con Cristo por el carácter indeleble; se confiere válidamente solo mediante la ablución con agua verdadera acompañada de la debida forma verbal (c. 849). El bautismo se administra según el ritual aprobado (c. 850). El adulto debe ser admitido al catecumenado; los padres y padrinos han de ser instruidos (c. 851). El agua debe estar bendecida fuera del caso de necesidad (c. 853). Se administra por inmersión o infusión (c. 854). El lugar propio es una iglesia u oratorio (c. 857). Toda iglesia parroquial ha de tener pila bautismal (c. 858). Ministros ordinarios: Obispo, presbítero y diácono; en caso de necesidad, cualquier persona con la debida intención (c. 861). Los padres tienen obligación de bautizar a los hijos en las primeras semanas (c. 867). Para bautizar lícitamente a un niño se requiere consentimiento de los padres y esperanza fundada de educación católica (c. 868). Los padrinos deben ser católicos, confirmados, haber recibido la eucaristía y llevar una vida congruente con la fe (c. 874). El bautismo debe anotarse en el libro de bautismos (c. 877).
+
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+El bautismo (*baptisma*, «inmersión») en el NT tiene su prefiguración en las purificaciones y baños rituales del AT, así como en el bautismo de Juan, que era un bautismo de penitencia para preparación del Mesías. El bautismo cristiano, instituido por Jesús (*Mt 28,19*), es una inmersión en la muerte de Cristo para participar de su resurrección (*Rom 6,3-4*). Es el baño de regeneración por el Espíritu Santo (*Tit 3,5*), que incorpora al cuerpo de Cristo, la Iglesia (*1Cor 12,13*). La Iglesia primitiva lo administraba tras la predicación del kerigma y la fe del candidato (*Hch 2,38; 8,36-38*), y se completa con la imposición de manos para la recepción del Espíritu (*Hch 8,15-17*) [VocTeoBib, «Bautismo»].
+
 ### Según el Concilio Vaticano II (ConcVatII)
 
 Lumen Gentium enseña que por el [[bautismo]] «nos configuramos en Cristo»: «porque también todos nosotros hemos sido bautizados en un solo Espíritu» [ConcVatII, LG §7, citando 1 Co 12,13]. El bautismo representa y realiza el consorcio con la muerte y resurrección de Cristo: «Con El fuimos sepultados por el bautismo para participar de su muerte; mas, si hemos sido injertados en El por la semejanza de su muerte, también lo seremos por la de su resurrección» [ConcVatII, LG §7, citando Rm 6,4-5].
@@ -90,18 +106,6 @@ Los catecúmenos que, movidos por el Espíritu Santo, solicitan ser incorporados
 
 El Decreto «Unitatis redintegratio» enseña que «el bautismo, por tanto, constituye un poderoso vínculo sacramental de unidad entre todos los que con él se han regenerado» (UR §22). Por el bautismo, debidamente administrado, «el hombre se incorpora realmente a Cristo crucificado y glorioso y se regenera para el consorcio de la vida divina» (UR §22). Sin embargo, «el bautismo por sí mismo es tan sólo un principio y un comienzo, porque todo él se dirige a la consecución de la plenitud de la vida en Cristo» (UR §22). El bautismo se ordena a la profesión íntegra de la fe, a la plena incorporación en la Iglesia y a la comunión eucarística (UR §22).
 
-### Según el Código de Derecho Canónico (CIC)
-
-El CIC regula el bautismo en los cánones 849-878. Lo define como «puerta de los sacramentos», necesario para la salvación, que libera de los pecados, reengendra como hijos de Dios e incorpora a la Iglesia, configurando con Cristo por el carácter indeleble; se confiere válidamente solo mediante la ablución con agua verdadera acompañada de la debida forma verbal (c. 849). El bautismo se administra según el ritual aprobado (c. 850). El adulto debe ser admitido al catecumenado; los padres y padrinos han de ser instruidos (c. 851). El agua debe estar bendecida fuera del caso de necesidad (c. 853). Se administra por inmersión o infusión (c. 854). El lugar propio es una iglesia u oratorio (c. 857). Toda iglesia parroquial ha de tener pila bautismal (c. 858). Ministros ordinarios: Obispo, presbítero y diácono; en caso de necesidad, cualquier persona con la debida intención (c. 861). Los padres tienen obligación de bautizar a los hijos en las primeras semanas (c. 867). Para bautizar lícitamente a un niño se requiere consentimiento de los padres y esperanza fundada de educación católica (c. 868). Los padrinos deben ser católicos, confirmados, haber recibido la eucaristía y llevar una vida congruente con la fe (c. 874). El bautismo debe anotarse en el libro de bautismos (c. 877).
-
-### Según el Catecismo (CEC)
-
-El Bautismo es «el fundamento de toda la vida cristiana, el pórtico de la vida en el espíritu y la puerta que abre el acceso a los otros sacramentos» (§1213). El nombre significa «sumergir»; la inmersión en el agua simboliza sepultar al catecúmeno en la muerte de Cristo, de donde sale por la resurrección con Él como nueva criatura (§1214).
-
-Necesidad: el Bautismo es necesario para la salvación (§1257). Dios ha vinculado la salvación al Bautismo, pero Él no queda sometido a sus sacramentos. El Bautismo de sangre y el Bautismo de deseo producen los frutos del Bautismo sin ser sacramento (§1258-1259).
-
-La gracia bautismal comprende el perdón del pecado original y de todos los pecados personales, el nuevo nacimiento como hijo adoptivo del Padre, miembro de Cristo y templo del Espíritu Santo (§1262-1279). Imprime un carácter o sello espiritual indeleble (§1272-1274). El Bautismo incorpora a la Iglesia, Cuerpo de Cristo, y hace participar en el sacerdocio común de los fieles (§1267-1269).
-
 ### Según Royo Marín (TPCr)
 
 El bautismo es «el pórtico de entrada a la vida sobrenatural». Es el fundamento de toda la vida cristiana.
@@ -111,10 +115,6 @@ El bautismo es «el pórtico de entrada a la vida sobrenatural». Es el fundamen
 El carácter bautismal configura al hombre con Cristo sacerdote, de manera que todo fiel, aun el laico, participa de cierto modo en el sacerdocio de Jesucristo:
 
 «La verdad es que la Iglesia siempre ha enseñado que los fieles cristianos, aun los laicos o seglares, están adornados con cierta misteriosa dignidad sacerdotal, si bien en grado muy inferior e imperfecto con relación a los que han recibido el sacramento del orden. De tal suerte que no sólo los obispos y sacerdotes son sacerdotes de Dios, sino que los fieles lo son también por el carácter que imprimieron en sus almas el bautismo y la confirmación.»
-
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-El bautismo (*baptisma*, «inmersión») en el NT tiene su prefiguración en las purificaciones y baños rituales del AT, así como en el bautismo de Juan, que era un bautismo de penitencia para preparación del Mesías. El bautismo cristiano, instituido por Jesús (*Mt 28,19*), es una inmersión en la muerte de Cristo para participar de su resurrección (*Rom 6,3-4*). Es el baño de regeneración por el Espíritu Santo (*Tit 3,5*), que incorpora al cuerpo de Cristo, la Iglesia (*1Cor 12,13*). La Iglesia primitiva lo administraba tras la predicación del kerigma y la fe del candidato (*Hch 2,38; 8,36-38*), y se completa con la imposición de manos para la recepción del Espíritu (*Hch 8,15-17*) [VocTeoBib, «Bautismo»].
 
 ### Según Para Salvarte (PS)
 

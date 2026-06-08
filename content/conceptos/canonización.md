@@ -13,13 +13,13 @@ La canonización presupone la beatificación. Exige la comprobación rigurosa de
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Catecismo no trata directamente la canonización. Habla de la veneración de los santos y de la Comunión de los Santos (§956-958, §2683). La Iglesia propone a los santos como modelos e intercesores. La canonización es la declaración oficial de que un fiel ha alcanzado el cielo.
 ### Según el Código de Derecho Canónico (CIC)
 
 El CIC trata las causas de canonización en los cc. 1403 y 1407. Las causas de canonización de los Siervos de Dios se rigen por una ley pontificia peculiar (c. 1403 §1). A esas causas se aplican además las prescripciones del Código cuando esa ley haga remisión al derecho universal o se trate de normas que, por su misma naturaleza, rijan también esas causas (c. 1403 §2). En cuanto al fuero competente, la Primera Sede por nadie puede ser juzgada (c. 1404). El Romano Pontífice es juez supremo para todo el orbe católico (c. 1442). La Rota Romana es el tribunal ordinario para recibir apelaciones (c. 1443), pero las causas de canonización se tramitan ante la Congregación para las Causas de los Santos según su ley propia, no ante los tribunales ordinarios.
 
-### Según el Catecismo (CEC)
-
-El Catecismo no trata directamente la canonización. Habla de la veneración de los santos y de la Comunión de los Santos (§956-958, §2683). La Iglesia propone a los santos como modelos e intercesores. La canonización es la declaración oficial de que un fiel ha alcanzado el cielo.
 
 ## Distinciones importantes
 

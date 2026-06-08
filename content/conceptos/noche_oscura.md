@@ -17,15 +17,15 @@ La proposición fundamental es: «La plena purificación del alma no puede logra
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC §269-271, al hablar de la Revelación, cita a San Juan de la Cruz: «Porque en darnos, como nos dio a su Hijo, que es una Palabra suya, que no tiene otra, todo nos lo habló junto y de una vez en esta sola Palabra». El CEC §2715-2719 trata de la contemplación y las purificaciones pasivas implícitamente.
 ### Según Royo Marín (TPCr)
 
 Royo Marín se apoya constantemente en San Juan de la Cruz (Noche oscura, Subida, Llama). El pensamiento del Místico Doctor es clarísimo: los principiantes no pueden purificarse del todo, ni con mucho, por más que se ejerciten, hasta que Dios lo haga pasivamente por medio de la purgación de la noche oscura (n.264-265).
 
 La noche del sentido es común y necesaria para todos los que han de pasar de principiantes a aprovechados. La noche del espíritu es de muy pocos: los que han de alcanzar las cumbres del heroísmo y la santidad (n.273, 278).
 
-### Según el Catecismo (CEC)
-
-El CEC §269-271, al hablar de la Revelación, cita a San Juan de la Cruz: «Porque en darnos, como nos dio a su Hijo, que es una Palabra suya, que no tiene otra, todo nos lo habló junto y de una vez en esta sola Palabra». El CEC §2715-2719 trata de la contemplación y las purificaciones pasivas implícitamente.
 
 ## Distinciones importantes
 

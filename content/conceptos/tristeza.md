@@ -21,10 +21,6 @@ La acedia es la tristeza por el bien espiritual, que causa disgusto por las cosa
 
 El CEC §2540 trata de la tristeza como pasión del alma. El §2733 habla de la acedia como tentación en la oración: «La acedia es una forma de depresión espiritual debida al relajamiento de la vigilancia, a la falta de custodia del corazón».
 
-### Según Royo Marín (TPCr)
-
-TPCr trata la tristeza como uno de los pecados capitales. La acedia es el pecado capital que entristece por el bien espiritual y es causa de muchos otros pecados: malicia, rencor, pusilanimidad, desesperación. Se combate con la [[alegría]] espiritual, la [[esperanza]] y la [[perseverancia]].
-
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 En el AT, la tristeza es la aflicción del alma ante el sufrimiento, la enfermedad, la muerte o el pecado. Los Salmos expresan la tristeza del justo: «Mis lágrimas son mi pan día y noche» (Sal 42,4). Job experimenta una tristeza profunda pero no maldice a Dios. El Eclesiastés constata que «mucha sabiduría, mucho pesar» (Ecl 1,18).
@@ -44,6 +40,10 @@ Sus efectos: el dolor intenso priva de la facultad de aprender, pues atrae hacia
 Los remedios de la tristeza son: cualquier delectación, pues todo reposo del apetito mitiga la fatiga (q.38 a.1); el llanto y los gemidos, que desahogan el dolor interior y son deleitables por convenir al estado del que sufre (q.38 a.2); la compasión de los amigos, que alivia el peso de la tristeza y manifiesta el amor (q.38 a.3); la contemplación de la verdad, la mayor de las delectaciones (q.38 a.4); y remedios corporales como el sueño y los baños, que restablecen el debido estado del cuerpo (q.38 a.5).
 
 Sobre su bondad o malicia, toda tristeza es mala absolutamente, pero supuesta la presencia del mal, es bueno entristecerse (q.39 a.1). La tristeza por el pecado (tristeza según Dios) es un bien honesto y meritorio (q.39 a.2). La tristeza por bienes mundanos perdidos puede ser útil, pues hace huir del mal con más vehemencia (q.39 a.3). Ninguna tristeza es el sumo mal del hombre, pues siempre contiene algún bien (el juicio verdadero y el rechazo del mal) (q.39 a.4).
+### Según Royo Marín (TPCr)
+
+TPCr trata la tristeza como uno de los pecados capitales. La acedia es el pecado capital que entristece por el bien espiritual y es causa de muchos otros pecados: malicia, rencor, pusilanimidad, desesperación. Se combate con la [[alegría]] espiritual, la [[esperanza]] y la [[perseverancia]].
+
 
 ## Relaciones doctrinales
 

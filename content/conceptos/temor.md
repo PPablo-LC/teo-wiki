@@ -15,6 +15,10 @@ En el Nuevo Testamento, el temor de Dios se purifica: no es miedo del castigo, s
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El temor como pasión humana puede disminuir la imputabilidad de un acto (CEC §1735, §1746). La virtud de la fortaleza vence el temor, incluso a la muerte (§1808). El «temor de Dios» es uno de los siete dones del Espíritu Santo (§1831, §1845), que perfecciona la virtud de la esperanza y dispone a la obediencia filial a Dios.
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 El temor de Dios en el AT abarca un espectro amplio: desde el temor del pecador ante el juicio hasta la actitud del justo que reconoce la grandeza de Dios. El Deuteronomio insiste en temer a Dios como respuesta a su elección amorosa. Los profetas denuncian un temor meramente exterior.
@@ -22,14 +26,6 @@ El temor de Dios en el AT abarca un espectro amplio: desde el temor del pecador 
 La tradición sapiencial hace del temor de Dios el principio de la sabiduría (Prov 1,7; 9,10; Eclo 1,14). El justo teme a Dios no por miedo al castigo sino porque reconoce su grandeza y su amor. El temor filial no excluye el amor: lo presupone.
 
 En el NT, el temor de Dios convive con la confianza filial. La Iglesia primitiva «caminaba en el temor del Señor» (Hch 9,31). Pablo habla de trabajar «con temor y temblor» (Flp 2,12), pero también de la confianza del hijo que clama «¡Abba, Padre!» (Rom 8,15; Gál 4,6). El temor filial no es miedo servil. El don de temor, según la teología posterior, es uno de los siete dones del Espíritu Santo que perfecciona la virtud de la esperanza.
-
-### Según el Catecismo (CEC)
-
-El temor como pasión humana puede disminuir la imputabilidad de un acto (CEC §1735, §1746). La virtud de la fortaleza vence el temor, incluso a la muerte (§1808). El «temor de Dios» es uno de los siete dones del Espíritu Santo (§1831, §1845), que perfecciona la virtud de la esperanza y dispone a la obediencia filial a Dios.
-
-### Según Royo Marín (TPCr)
-
-La TPCr dedica una sección completa al don de temor (n. 353ss). «El don de temor es un hábito sobrenatural por el cual el justo, bajo el instinto del Espíritu Santo, adquiere docilidad especial para someterse totalmente a la divina voluntad por reverencia a la excelencia y majestad de Dios» (n. 333). Dios, como suprema Bondad, no puede ser temido sino amado; pero en cuanto puede infligir un mal en castigo de las culpas, debe ser temido (n. 335). Distingue temor mundano (pecaminoso), servil y filial o reverencial (propio del justo). El don de temor perfecciona la esperanza (n. 166, 331) y permanecerá en la patria como temor reverencial (n. 958).
 
 ### Según la Summa Theologiae (SmTh)
 
@@ -40,6 +36,10 @@ El objeto del temor es primariamente el mal —no el bien—, pero el bien puede
 La causa del temor es el amor: tememos perder lo que amamos (q.43 a.1). La impotencia o defecto de poder es causa disposicional del temor, pues quien carece de fuerza no puede rechazar fácilmente el mal (q.43 a.2).
 
 Los efectos del temor son: la contracción, pues el apetito se recoge ante la dificultad de resistir al mal (q.44 a.1); dispone al consejo, porque en las cosas difíciles el hombre busca deliberación (q.44 a.2); produce temblor en los miembros exteriores, especialmente en el corazón, la voz, los labios y las rodillas, por la retirada del calor al interior (q.44 a.3). En cuanto a la operación, el temor moderado ayuda a obrar con solicitud, pero si es intenso perturba la razón y la impide; por ello puede disminuir la imputabilidad del acto (q.44 a.4).
+### Según Royo Marín (TPCr)
+
+La TPCr dedica una sección completa al don de temor (n. 353ss). «El don de temor es un hábito sobrenatural por el cual el justo, bajo el instinto del Espíritu Santo, adquiere docilidad especial para someterse totalmente a la divina voluntad por reverencia a la excelencia y majestad de Dios» (n. 333). Dios, como suprema Bondad, no puede ser temido sino amado; pero en cuanto puede infligir un mal en castigo de las culpas, debe ser temido (n. 335). Distingue temor mundano (pecaminoso), servil y filial o reverencial (propio del justo). El don de temor perfecciona la esperanza (n. 166, 331) y permanecerá en la patria como temor reverencial (n. 958).
+
 
 ## Distinciones importantes
 

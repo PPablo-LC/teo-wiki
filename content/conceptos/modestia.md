@@ -15,6 +15,9 @@ Bajo la modestia se agrupan varias virtudes: la humildad (modera el apetito de e
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La modestia es fruto del Espíritu Santo (CEC §1832). La pureza exige el pudor, que «es parte integrante de la templanza. El pudor preserva la intimidad de la persona. Designa el rechazo a mostrar lo que debe permanecer velado. Está ordenado a la castidad, cuya delicadeza proclama. Ordena las miradas y los gestos en conformidad con la dignidad de las personas» (§2521-2524).
 ### Según Royo Marín (TPCr)
 
 La modestia modera cuatro tipos de movimientos:
@@ -31,9 +34,6 @@ El don de temor actúa sobre la modestia «suprimiendo en absoluto cualquier mov
 
 [TPCr, Parte III, Libro II, Cap. II, n.462, 471-473]
 
-### Según el Catecismo (CEC)
-
-La modestia es fruto del Espíritu Santo (CEC §1832). La pureza exige el pudor, que «es parte integrante de la templanza. El pudor preserva la intimidad de la persona. Designa el rechazo a mostrar lo que debe permanecer velado. Está ordenado a la castidad, cuya delicadeza proclama. Ordena las miradas y los gestos en conformidad con la dignidad de las personas» (§2521-2524).
 
 ## Relaciones doctrinales
 

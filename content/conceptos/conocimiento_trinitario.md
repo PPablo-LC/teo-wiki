@@ -13,15 +13,15 @@ La Trinidad de personas divinas es un misterio estrictamente sobrenatural, inacc
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+«La Trinidad es un misterio de fe en sentido estricto, uno de los misterios escondidos en Dios, que no pueden ser conocidos si no son revelados desde lo alto» (CEC §237). Dios ha dejado algunas analogías de su ser trinitario en la creación y en el Antiguo Testamento, pero la plena revelación se da mediante la Encarnación del Hijo y el envío del Espíritu Santo (CEC §236-242).
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata el conocimiento de las personas divinas en SmTh Iª q.32. La trinidad de personas no puede ser conocida por razón natural (a.1), pues las criaturas conducen al conocimiento de Dios solo como causa, y el poder creativo es común a toda la Trinidad. Quien pretenda demostrar la Trinidad por razón natural atenta contra la fe: mina su dignidad (pues es de cosas invisibles) y su utilidad (pues da argumentos risibles a los incrédulos). Los filósofos (platónicos, Aristóteles) no conocieron el misterio; solo alcanzaron atributos apropiados a las personas.
 
 Se ponen nociones en Dios (a.2), que son razones propias para conocer las personas, necesarias por la presencia de herejías y porque el Padre se relaciona con dos personas (Hijo y Espíritu Santo), requiriendo nombres abstractos para expresar la distinción. Son cinco las nociones (a.3): innascibilidad (el Padre no procede de nadie), paternidad (el Padre engendra al Hijo), filiación (el Hijo es engendrado), espiración común (el Padre y el Hijo espiran al Espíritu Santo), y procesión (el Espíritu Santo procede). De estas, cuatro son relaciones; tres son nociones personales (paternidad, filiación, procesión), que constituyen personas. Sobre las nociones se puede opinar de forma distinta (a.4) sin herejía, mientras no se derive algo contrario a la fe.
 
-### Según el Catecismo (CEC)
-
-«La Trinidad es un misterio de fe en sentido estricto, uno de los misterios escondidos en Dios, que no pueden ser conocidos si no son revelados desde lo alto» (CEC §237). Dios ha dejado algunas analogías de su ser trinitario en la creación y en el Antiguo Testamento, pero la plena revelación se da mediante la Encarnación del Hijo y el envío del Espíritu Santo (CEC §236-242).
 
 ## Distinciones importantes
 

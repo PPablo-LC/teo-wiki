@@ -13,17 +13,9 @@ La vocación cristiana tiene su fundamento en el amor gratuito de Dios, que llam
 
 ## Perspectivas por fuente
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-El Decreto *Optatam Totius* dedica su primer capítulo al fomento de las vocaciones sacerdotales. El deber de fomentar las vocaciones pertenece a toda la comunidad de los fieles, que debe procurarlo ante todo con una vida totalmente cristiana [ConcVatII, OT §2]. Las familias llenas de espíritu de fe, caridad y piedad son como el primer seminario; las parroquias, maestros y asociaciones católicas deben cultivar la vocación divina en los adolescentes [ConcVatII, OT §2]. Todos los sacerdotes deben mostrar gran celo apostólico por el fomento de las vocaciones, atrayendo a los jóvenes con su vida humilde, laboriosa y amable [ConcVatII, OT §2]. Los Obispos tienen el deber de impulsar a su grey y ayudar como padres a quienes vean llamados [ConcVatII, OT §2]. El Concilio recomienda los medios tradicionales: oración instante, penitencia cristiana y profunda formación de los fieles [ConcVatII, OT §2]. La obra de las vocaciones debe organizarse metódicamente en el ámbito diocesano, regional o nacional, sirviéndose de todos los medios útiles que ofrecen las ciencias psicológicas y sociológicas [ConcVatII, OT §2].
-
 ### Según el Catecismo (CEC)
 
 El Catecismo comienza afirmando que «Dios, infinitamente perfecto y bienaventurado en sí mismo, en un designio de pura bondad, creó al hombre libremente para hacerle partícipe de su vida bienaventurada» (§1-3). Todos están llamados a la santidad: «Sed perfectos como vuestro Padre celestial es perfecto» (§825-829). La vocación al matrimonio y a la virginidad son dos modos de vivir la vocación cristiana (§1533, §1600-1606, §1618-1620). La vocación del laico es santificar el mundo desde dentro (§1877-1880, §898-900). El discernimiento vocacional requiere libertad interior y docilidad al Espíritu Santo (§1730-1732).
-
-### Según Royo Marín (TPCr)
-
-Royo Marín estructura su Teología de la Perfección Cristiana en torno a la llamada universal a la santidad. Expone que todo fiel, cualquiera que sea su estado de vida, está llamado a la perfección cristiana, que consiste en la unión con Dios por la caridad. Dios da a cada alma las gracias necesarias para cumplir su vocación. Royo Marín distingue entre vocación común (a la santidad) y vocación específica (al estado de vida), y dedica atención particular a la vocación sacerdotal y religiosa.
 
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
@@ -32,6 +24,14 @@ En el AT, la vocación es la llamada de Dios a personas concretas para una misi�
 La llamada de Dios es soberana y gratuita. El llamado responde con fe y obediencia. La vocación profética es exigente e implica sufrimiento. Jonás intenta huir de su vocación (Jon 1,1-3). La vocación de Israel como pueblo elegido es servicio a las naciones.
 
 En el NT, la vocación se personaliza en el seguimiento de Cristo. Jesús llama a los discípulos (Mc 1,16-20). La llamada es radical e incondicional. Pablo es llamado en el camino de Damasco (Hch 9). La vocación cristiana es universal: todos están llamados a la santidad (Rom 1,6-7; 1 Cor 1,2). Los carismas son vocaciones particulares al servicio de la Iglesia (1 Cor 12). El discernimiento vocacional es don del Espíritu.
+
+### Según el Concilio Vaticano II (ConcVatII)
+
+El Decreto *Optatam Totius* dedica su primer capítulo al fomento de las vocaciones sacerdotales. El deber de fomentar las vocaciones pertenece a toda la comunidad de los fieles, que debe procurarlo ante todo con una vida totalmente cristiana [ConcVatII, OT §2]. Las familias llenas de espíritu de fe, caridad y piedad son como el primer seminario; las parroquias, maestros y asociaciones católicas deben cultivar la vocación divina en los adolescentes [ConcVatII, OT §2]. Todos los sacerdotes deben mostrar gran celo apostólico por el fomento de las vocaciones, atrayendo a los jóvenes con su vida humilde, laboriosa y amable [ConcVatII, OT §2]. Los Obispos tienen el deber de impulsar a su grey y ayudar como padres a quienes vean llamados [ConcVatII, OT §2]. El Concilio recomienda los medios tradicionales: oración instante, penitencia cristiana y profunda formación de los fieles [ConcVatII, OT §2]. La obra de las vocaciones debe organizarse metódicamente en el ámbito diocesano, regional o nacional, sirviéndose de todos los medios útiles que ofrecen las ciencias psicológicas y sociológicas [ConcVatII, OT §2].
+
+### Según Royo Marín (TPCr)
+
+Royo Marín estructura su Teología de la Perfección Cristiana en torno a la llamada universal a la santidad. Expone que todo fiel, cualquiera que sea su estado de vida, está llamado a la perfección cristiana, que consiste en la unión con Dios por la caridad. Dios da a cada alma las gracias necesarias para cumplir su vocación. Royo Marín distingue entre vocación común (a la santidad) y vocación específica (al estado de vida), y dedica atención particular a la vocación sacerdotal y religiosa.
 
 ### Según el Capítulo General LC-2026
 

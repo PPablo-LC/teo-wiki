@@ -13,10 +13,6 @@ El Antiguo Testamento fue escrito bajo la inspiración del Espíritu Santo y con
 
 ## Perspectivas por fuente
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-*Dei Verbum* dedica el capítulo IV al Antiguo Testamento (DV 14-16). Los libros del Antiguo Testamento, inspirados por Dios, conservan un valor perenne: «todo cuanto está escrito, para nuestra enseñanza fue escrito» (DV 14). La economía del Antiguo Testamento estaba ordenada a preparar y anunciar proféticamente la venida de Cristo (DV 15). Aunque contienen cosas imperfectas y adaptadas a su tiempo, demuestran la verdadera pedagogía divina (DV 15). Dios es inspirador y autor de ambos Testamentos: «el Nuevo Testamento está latente en el Antiguo y el Antiguo está patente en el Nuevo» (DV 16).
-
 ### Según el Catecismo (CEC)
 
 El Antiguo Testamento comprende 46 libros inspirados (§120, §138). No se puede prescindir de él porque la Antigua Alianza no ha sido revocada (§121). Su fin principal era preparar la venida de Cristo (§122). Los cristianos lo veneran como verdadera Palabra de Dios y la Iglesia ha rechazado el marcionismo que pretendía prescindir de él (§123). La lectura tipológica del Antiguo Testamento a la luz de Cristo manifiesta su contenido inagotable (§128-129, §140).
@@ -24,6 +20,10 @@ El Antiguo Testamento comprende 46 libros inspirados (§120, §138). No se puede
 Los salmos constituyen la obra maestra de la oración en el Antiguo Testamento (§2585-2589, §2596-2597).
 
 [CEC §120-123, §128-129, §138, §140, §2585-2589]
+
+### Según el Concilio Vaticano II (ConcVatII)
+
+*Dei Verbum* dedica el capítulo IV al Antiguo Testamento (DV 14-16). Los libros del Antiguo Testamento, inspirados por Dios, conservan un valor perenne: «todo cuanto está escrito, para nuestra enseñanza fue escrito» (DV 14). La economía del Antiguo Testamento estaba ordenada a preparar y anunciar proféticamente la venida de Cristo (DV 15). Aunque contienen cosas imperfectas y adaptadas a su tiempo, demuestran la verdadera pedagogía divina (DV 15). Dios es inspirador y autor de ambos Testamentos: «el Nuevo Testamento está latente en el Antiguo y el Antiguo está patente en el Nuevo» (DV 16).
 
 ### Según Royo Marín (TPCr)
 

@@ -13,11 +13,11 @@ Santo Tomás enseña que la sutileza es una propiedad del cuerpo glorioso que pr
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+No se menciona explícitamente la sutileza como dote del cuerpo glorioso, pero el CEC enseña la resurrección de la carne y la transformación del cuerpo humillado en cuerpo glorioso semejante al de Cristo resucitado (CEC §988-1004, §999). Cristo resucitado entraba en el cenáculo «estando cerradas las puertas» (Jn 20,19.26), lo que manifiesta la naturaleza gloriosa de su cuerpo.
 ### Según Royo Marín (TPCr)
 La sutileza del cuerpo glorioso no le confiere por sí misma el poder de penetrar los cuerpos; se requiere para ello un milagro de la omnipotencia divina (TPCr, Cuarta Parte, Cap. II, Conclusión 3ª). Esta compenetración sobrenatural se verifica por un verdadero milagro, no por una simple participación anticipada y transitoria de la sutileza del cuerpo glorioso (n.261). Los cuerpos son naturalmente impenetrables, de donde se deduce que el fenómeno de la sutileza es naturalmente imposible (Conclusión 1ª, n.252). Sin embargo, la no repugnancia del fenómeno puede demostrarse por la filosofía a la luz de la simple razón natural (Conclusión 2ª, n.259). La sutileza se estudia como uno de los fenómenos corporales extraordinarios y se relaciona con el cuerpo glorioso.
 
-### Según el Catecismo (CEC)
-No se menciona explícitamente la sutileza como dote del cuerpo glorioso, pero el CEC enseña la resurrección de la carne y la transformación del cuerpo humillado en cuerpo glorioso semejante al de Cristo resucitado (CEC §988-1004, §999). Cristo resucitado entraba en el cenáculo «estando cerradas las puertas» (Jn 20,19.26), lo que manifiesta la naturaleza gloriosa de su cuerpo.
 
 ## Distinciones importantes
 

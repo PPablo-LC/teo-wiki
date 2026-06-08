@@ -13,6 +13,18 @@ El voto de castidad se ordena a remover el obstáculo que los deleites de la car
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+«La castidad en el celibato por el Reino de los cielos» es una manera eminente de dedicarse más fácilmente a Dios solo con corazón indiviso (§2349). Los novicios y religiosos hacen voto de castidad como parte de su consagración (§915). La virginidad por el Reino de Dios y el matrimonio cristiano proceden del Señor y se apoyan mutuamente (§1620).
+
+### Según el Código de Derecho Canónico (CIC)
+
+El voto de castidad, regulado en el c. 599, es la consagración de la propia persona a Dios en la continencia perfecta, signo del mundo futuro y fuente de fecundidad espiritual en el mundo. El voto público de castidad constituye impedimento dirimente del matrimonio (c. 1088). Los que han emitido voto público de castidad no pueden contraer matrimonio válidamente (c. 1088). El voto de castidad en la vida religiosa es perpetuo (por lo general) y obliga bajo pecado grave en materia grave (c. 599, 654). La profesión religiosa implica necesariamente el voto de castidad (c. 573 §1, 599).
+
+### Según el Concilio Vaticano II (ConcVatII)
+
+El Decreto *Perfectae Caritatis* dedica un número completo a la castidad religiosa. La castidad «por el Reino de los cielos», que profesan los religiosos, debe ser estimada como un singular don de la gracia [ConcVatII, PC §12]. Ella libera de modo especial el corazón del hombre para que se inflame más en el [[caridad|amor a Dios y a todos los hombres]], y es signo peculiar de los bienes celestiales y medio aptísimo para que los religiosos se dediquen con alegría al servicio divino y a las obras de apostolado [ConcVatII, PC §12]. Los religiosos evocan ante todos los cristianos aquel maravilloso connubio por el que la Iglesia tiene a Cristo como único Esposo [ConcVatII, PC §12]. Es necesario que los religiosos se fíen de la palabra del Señor, pongan su confianza en el auxilio divino y practiquen la mortificación y la guarda de los sentidos [ConcVatII, PC §12]. No se presenten los candidatos a la continencia perfecta sino después de haber sido suficientemente probados y de haber logrado la debida madurez psicológica y afectiva [ConcVatII, PC §12].
+
 ### Según Royo Marín (TPCr)
 
 El estado religioso requiere indispensablemente el voto de castidad perfecta, porque es preciso renunciar a todo aquello que impide al hombre la entrega total al divino servicio. Los deleites de la carne y el cuidado de la familia constituyen un gran obstáculo para vacar exclusivamente al amor y servicio de Dios.
@@ -24,18 +36,6 @@ Solo en el amor a Dios, llevado hasta la obsesión, encontrará el religioso el 
 El voto de castidad es la entrega del propio cuerpo a Dios, formando parte del holocausto perfecto del estado religioso: pobreza (bienes exteriores), castidad (cuerpo), obediencia (alma).
 
 [TPCr, Parte III, Libro III, n.730]
-
-### Según el Código de Derecho Canónico (CIC)
-
-El voto de castidad, regulado en el c. 599, es la consagración de la propia persona a Dios en la continencia perfecta, signo del mundo futuro y fuente de fecundidad espiritual en el mundo. El voto público de castidad constituye impedimento dirimente del matrimonio (c. 1088). Los que han emitido voto público de castidad no pueden contraer matrimonio válidamente (c. 1088). El voto de castidad en la vida religiosa es perpetuo (por lo general) y obliga bajo pecado grave en materia grave (c. 599, 654). La profesión religiosa implica necesariamente el voto de castidad (c. 573 §1, 599).
-
-### Según el Concilio Vaticano II (ConcVatII)
-
-El Decreto *Perfectae Caritatis* dedica un número completo a la castidad religiosa. La castidad «por el Reino de los cielos», que profesan los religiosos, debe ser estimada como un singular don de la gracia [ConcVatII, PC §12]. Ella libera de modo especial el corazón del hombre para que se inflame más en el [[caridad|amor a Dios y a todos los hombres]], y es signo peculiar de los bienes celestiales y medio aptísimo para que los religiosos se dediquen con alegría al servicio divino y a las obras de apostolado [ConcVatII, PC §12]. Los religiosos evocan ante todos los cristianos aquel maravilloso connubio por el que la Iglesia tiene a Cristo como único Esposo [ConcVatII, PC §12]. Es necesario que los religiosos se fíen de la palabra del Señor, pongan su confianza en el auxilio divino y practiquen la mortificación y la guarda de los sentidos [ConcVatII, PC §12]. No se presenten los candidatos a la continencia perfecta sino después de haber sido suficientemente probados y de haber logrado la debida madurez psicológica y afectiva [ConcVatII, PC §12].
-
-### Según el Catecismo (CEC)
-
-«La castidad en el celibato por el Reino de los cielos» es una manera eminente de dedicarse más fácilmente a Dios solo con corazón indiviso (§2349). Los novicios y religiosos hacen voto de castidad como parte de su consagración (§915). La virginidad por el Reino de Dios y el matrimonio cristiano proceden del Señor y se apoyan mutuamente (§1620).
 
 ### Según las Constituciones Legionarias (CLC-2020)
 

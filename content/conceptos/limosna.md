@@ -13,13 +13,13 @@ La limosna es la ayuda material que se da al necesitado como obra de misericordi
 
 El CEC §1438 incluye la limosna entre las obras de penitencia propias del tiempo cuaresmal. El §2447 enumera la limosna entre las obras de misericordia corporales: «dar de comer al hambriento, dar de beber al sediento, vestir al desnudo, acoger al forastero, visitar a los enfermos y a los presos, enterrar a los muertos». El §2462 enseña que la limosna hecha a los pobres es un testimonio de caridad fraterna y una práctica de justicia que agrada a Dios.
 
+### Según el Código de Derecho Canónico (CIC)
+
+El c. 1286 recomienda la limosna a los clérigos y religiosos. El c. 222 §1 establece que los fieles tienen la obligación de ayudar a las necesidades de la Iglesia y de los pobres. Los bienes eclesiásticos deben destinarse, en parte, a las obras de caridad (c. 1254 §2).
 ### Según Royo Marín (TPCr)
 
 TPCr trata la limosna como medio de perfección y como satisfacción por los pecados. La limosna, unida a la oración y al ayuno, purifica el alma y dispone a la gracia. La limosna debe ser proporcionada a las posibilidades del donante y a las necesidades del receptor. Cristo prometió recompensa eterna a quienes practican la misericordia con los necesitados (Mt 25,31-46).
 
-### Según el Código de Derecho Canónico (CIC)
-
-El c. 1286 recomienda la limosna a los clérigos y religiosos. El c. 222 §1 establece que los fieles tienen la obligación de ayudar a las necesidades de la Iglesia y de los pobres. Los bienes eclesiásticos deben destinarse, en parte, a las obras de caridad (c. 1254 §2).
 
 ## Relaciones doctrinales
 

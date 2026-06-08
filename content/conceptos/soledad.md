@@ -15,6 +15,10 @@ La tradición monástica ha valorado la soledad (eremitismo) como medio de unió
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+Dios es único pero no solitario: la Trinidad expresa la comunión trinitaria (CEC §254). La soledad de Jesús en el desierto durante cuarenta días es tiempo de tentación y victoria sobre Satanás (§538). El «gran silencio y gran soledad» del Sábado Santo describen el descenso de Cristo a los infiernos (§635).
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 El AT presenta la soledad como experiencia ambivalente. Puede ser el lugar del encuentro con Dios (el desierto, la montaña) o del abandono (el salmista se siente solo entre los hombres pero no de Dios). El profeta Jeremías conoce la soledad radical de quien anuncia una palabra no aceptada (Jer 15,17). El Siervo de Yahvé está solo en su sufrimiento.
@@ -22,10 +26,6 @@ El AT presenta la soledad como experiencia ambivalente. Puede ser el lugar del e
 Jesús experimenta la soledad en momentos clave: las tentaciones en el desierto, la oración nocturna, Getsemaní, la cruz. Pero no está nunca solo en sentido último: «El Padre está conmigo» (Jn 16,32). La soledad de Cristo en la cruz es participación voluntaria en la condición de los pecadores abandonados, no ruptura con el Padre.
 
 En el NT, la soledad por el Reino es vocación (1 Cor 7,32-34). Pablo habla de la soledad del apóstol que entrega su vida por las iglesias. La soledad cristiana se vive en comunión con la Iglesia y en solidaridad con todos los abandonados del mundo.
-
-### Según el Catecismo (CEC)
-
-Dios es único pero no solitario: la Trinidad expresa la comunión trinitaria (CEC §254). La soledad de Jesús en el desierto durante cuarenta días es tiempo de tentación y victoria sobre Satanás (§538). El «gran silencio y gran soledad» del Sábado Santo describen el descenso de Cristo a los infiernos (§635).
 
 ### Según Royo Marín (TPCr)
 

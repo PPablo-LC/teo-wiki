@@ -23,6 +23,15 @@ El hombre ocupa un lugar único en la creación: está hecho a imagen de Dios, l
 
 **El hombre en el paraíso** (§374-379): Adán y Eva fueron constituidos en un estado «de santidad y de justicia original», con gracia que era participación de la vida divina.
 
+### Según el Concilio Vaticano II (ConcVatII)
+
+GS 12: El hombre ha sido creado «a imagen de Dios», con capacidad para conocer y amar a su Creador, constituido señor de la creación visible para usarla glorificando a Dios. «Dios no creó al hombre en solitario. Desde el principio los hizo hombre y mujer. Esta sociedad de hombre y mujer es la expresión primera de la comunión de personas humanas. El hombre es, en efecto, por su íntima naturaleza, un ser social.»
+
+GS 13: Creado en la justicia, el hombre abusó de su libertad por instigación del demonio. El pecado explica la división íntima del hombre. «Toda la vida humana, la individual y la colectiva, se presenta como lucha dramática entre el bien y el mal.»
+
+GS 14: «En la unidad de cuerpo y alma, el hombre, por su misma condición corporal, es una síntesis del universo material.» El alma humana es espiritual e inmortal; por su interioridad es superior al universo entero.
+
+GS 22: «El misterio del hombre sólo se esclarece en el misterio del Verbo encarnado.» Cristo, el nuevo Adán, «manifiesta plenamente el hombre al propio hombre y le descubre la sublimidad de su vocación».
 ### Según la Summa Theologiae (SmTh)
 
 **Iª q.75 a.4 — El alma no es el hombre:** El hombre no es solo alma ni solo cuerpo, sino el compuesto substancial de ambos. «El alma no es todo el hombre, sino la parte más noble del hombre».
@@ -57,15 +66,6 @@ De Lubac subraya que el hombre es un misterio insondable: «No sabemos lo que es
 
 La conciencia del pecado es el primer paso hacia la liberación: «Felix culpa» [PoF, cap. 10]. No es la sinceridad sino la Verdad la que libera al hombre (cf. Jn 8,32). De Lubac advierte contra la confusión entre *eros* y *ágape*: el amor humano y el amor divino no deben mezclarse indebidamente, aunque tampoco separarse absolutamente [PoF, cap. 10].
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-GS 12: El hombre ha sido creado «a imagen de Dios», con capacidad para conocer y amar a su Creador, constituido señor de la creación visible para usarla glorificando a Dios. «Dios no creó al hombre en solitario. Desde el principio los hizo hombre y mujer. Esta sociedad de hombre y mujer es la expresión primera de la comunión de personas humanas. El hombre es, en efecto, por su íntima naturaleza, un ser social.»
-
-GS 13: Creado en la justicia, el hombre abusó de su libertad por instigación del demonio. El pecado explica la división íntima del hombre. «Toda la vida humana, la individual y la colectiva, se presenta como lucha dramática entre el bien y el mal.»
-
-GS 14: «En la unidad de cuerpo y alma, el hombre, por su misma condición corporal, es una síntesis del universo material.» El alma humana es espiritual e inmortal; por su interioridad es superior al universo entero.
-
-GS 22: «El misterio del hombre sólo se esclarece en el misterio del Verbo encarnado.» Cristo, el nuevo Adán, «manifiesta plenamente el hombre al propio hombre y le descubre la sublimidad de su vocación».
 
 ## Ver también
 

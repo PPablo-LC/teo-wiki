@@ -19,13 +19,13 @@ Los fieles deben adherirse a las enseñanzas del Magisterio con obediencia relig
 
 El Romano Pontífice y los obispos son "maestros auténticos por estar dotados de la autoridad de Cristo" (§2034). El Magisterio ordinario y universal del Papa y de los obispos enseña la verdad que hay que creer (§2034). La infalibilidad reside en el Papa cuando habla ex cathedra y en el colegio episcopal unido a él (§891). La asistencia divina también se concede en el Magisterio ordinario (§892). El Magisterio está al servicio de la Palabra de Dios (§85-86).
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-*Dei Verbum* 10 enseña que el oficio de interpretar auténticamente la palabra de Dios escrita o transmitida ha sido confiado únicamente al Magisterio vivo de la Iglesia, cuya autoridad se ejerce en el nombre de Jesucristo. Este Magisterio no está sobre la palabra de Dios, sino que la sirve: «enseñando solamente lo que le ha sido confiado, por mandato divino y con la asistencia del Espíritu Santo la oye con piedad, la guarda con exactitud y la expone con fidelidad». La Tradición, la Escritura y el Magisterio están entrelazados y unidos de tal forma que no tiene consistencia el uno sin el otro (DV 10).
-
 ### Según el Compendio (CompDS)
 
 La doctrina social es expresión del ministerio de enseñanza de la Iglesia: el Magisterio promulga la enseñanza social como doctrina de la Iglesia [CompDS §79]. Compete a quienes están investidos del «munus docendi» en el campo de la fe y de la moral con la autoridad recibida de Cristo [CompDS §79]. En la doctrina social se pone en acto el Magisterio en todos sus componentes: el Magisterio universal del Papa y del Concilio, que determina la dirección y señala el desarrollo, y el Magisterio episcopal, que especifica y actualiza la enseñanza en las situaciones locales [CompDS §80]. Como parte de la enseñanza moral de la Iglesia, reviste la misma dignidad y autoridad, exigiendo la aceptación y adhesión de los fieles [CompDS §80].
+
+### Según el Concilio Vaticano II (ConcVatII)
+
+*Dei Verbum* 10 enseña que el oficio de interpretar auténticamente la palabra de Dios escrita o transmitida ha sido confiado únicamente al Magisterio vivo de la Iglesia, cuya autoridad se ejerce en el nombre de Jesucristo. Este Magisterio no está sobre la palabra de Dios, sino que la sirve: «enseñando solamente lo que le ha sido confiado, por mandato divino y con la asistencia del Espíritu Santo la oye con piedad, la guarda con exactitud y la expone con fidelidad». La Tradición, la Escritura y el Magisterio están entrelazados y unidos de tal forma que no tiene consistencia el uno sin el otro (DV 10).
 
 ### Según Royo Marín (TPCr)
 

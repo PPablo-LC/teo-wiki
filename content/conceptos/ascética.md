@@ -13,13 +13,13 @@ La ascética cristiana se distingue de la mística en que aquella se centra en e
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El progreso espiritual implica la ascesis y la mortificación que conducen gradualmente a vivir en la paz y el gozo de las bienaventuranzas (CEC §2015). No hay santidad sin renuncia y sin combate espiritual (CEC §2015).
 ### Según Royo Marín (TPCr)
 
 La teología ascética y mística es la ciencia de la perfección cristiana. La ascética comprende el estudio de los medios para llegar a la perfección desde el punto de vista del esfuerzo humano ayudado por la gracia: la lucha contra el pecado, la purificación activa, la meditación, la práctica de las virtudes. La oración de simplicidad señala el tránsito de la ascética a la mística (TPCr, Introducción General). La ascética incluye la vía purgativa (purificación activa) y la vía iluminativa (práctica de las virtudes), mientras la mística corresponde a la vía unitiva. Autores como Santo Tomás de Aquino, San Juan de la Cruz, Santa Teresa de Jesús y el P. Garrigou-Lagrange han desarrollado esta ciencia.
 
-### Según el Catecismo (CEC)
-
-El progreso espiritual implica la ascesis y la mortificación que conducen gradualmente a vivir en la paz y el gozo de las bienaventuranzas (CEC §2015). No hay santidad sin renuncia y sin combate espiritual (CEC §2015).
 
 ## Distinciones importantes
 

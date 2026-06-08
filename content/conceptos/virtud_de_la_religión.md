@@ -15,6 +15,11 @@ La religión es distinta de la virtud teologal de la caridad: la caridad ama a D
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El primer mandamiento (CEC §2135) se refiere a las virtudes de la religión: adoración, oración y sacrificio. «La adoración es la primera actitud del hombre que se reconoce criatura ante su Creador» (§2628). La virtud de la religión nos obliga a dar culto a Dios, a honrar su santo nombre y a no tener otros dioses delante de Él.
+
+La adoración de Dios tres veces santo «nos llena de humildad y da seguridad a nuestras súplicas» (§2628).
 ### Según Royo Marín (TPCr)
 
 La religión regula el culto debido a Dios. Pertenece al primer grupo de virtudes anejas a la justicia (las que fallan por defecto de igualdad entre lo que dan y lo que reciben, ya que el hombre nunca puede dar a Dios lo que strictamente le debe).
@@ -25,11 +30,6 @@ La oración tiene valor satisfactorio y meritorio como acto de religión. La san
 
 [TPCr, Parte III, Libro II, Cap. II, n.399, 401]
 
-### Según el Catecismo (CEC)
-
-El primer mandamiento (CEC §2135) se refiere a las virtudes de la religión: adoración, oración y sacrificio. «La adoración es la primera actitud del hombre que se reconoce criatura ante su Creador» (§2628). La virtud de la religión nos obliga a dar culto a Dios, a honrar su santo nombre y a no tener otros dioses delante de Él.
-
-La adoración de Dios tres veces santo «nos llena de humildad y da seguridad a nuestras súplicas» (§2628).
 
 ## Distinciones importantes
 

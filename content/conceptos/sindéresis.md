@@ -21,6 +21,9 @@ La tradición teológica medieval (Santo Tomás, San Buenaventura) distingue cla
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Catecismo no usa el término «sindéresis», pero enseña que la conciencia moral implica la percepción de los principios de la moralidad (sindéresis) y su aplicación a las circunstancias concretas (CEC §1780). «La conciencia es una ley de nuestro espíritu» (§1779).
 ### Según la Summa Theologiae (SmTh)
 
 **Iª q.79 aa.9-10 — Sindéresis y conciencia:**
@@ -31,9 +34,6 @@ La tradición teológica medieval (Santo Tomás, San Buenaventura) distingue cla
 
 **a.11 — La conciencia moral:** La conciencia puede errar, pero la sindéresis no. El error de la conciencia proviene de una mala aplicación de los principios o de la ignorancia.
 
-### Según el Catecismo (CEC)
-
-El Catecismo no usa el término «sindéresis», pero enseña que la conciencia moral implica la percepción de los principios de la moralidad (sindéresis) y su aplicación a las circunstancias concretas (CEC §1780). «La conciencia es una ley de nuestro espíritu» (§1779).
 
 ## Distinciones importantes
 

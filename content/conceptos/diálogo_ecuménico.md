@@ -13,6 +13,11 @@ El movimiento ecuménico nace por impulso del Espíritu Santo, que infunde en lo
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La Iglesia es una por su origen trinitario, por su Fundador Jesucristo y por el Espíritu Santo que es alma de la Iglesia (CEC 813). Los vínculos visibles de esta unidad son: la profesión de una sola fe, la celebración común del culto divino y la comunión en los sacramentos, y la sucesión apostólica (CEC 815). La Iglesia de Cristo subsiste en la Iglesia católica (CEC 816). Las rupturas de la unidad —herejía, apostasía, cisma— no se producen sin pecado (CEC 817).
+
+Los que nacen en comunidades separadas no son responsables del pecado de separación y son reconocidos como hermanos (CEC 818). Existen fuera de la Iglesia católica muchos elementos de santificación: la palabra de Dios escrita, la vida de la gracia, la fe, la esperanza y la caridad (CEC 819). El deseo de unidad es un don de Cristo y un llamamiento del Espíritu Santo (CEC 820). La respuesta a este llamamiento exige conversión permanente, oración, conocimiento mutuo, diálogo y cooperación (CEC 821).
 ### Según el Concilio Vaticano II
 
 **Unitatis Redintegratio:** El decreto establece que promover la restauración de la unidad entre todos los cristianos es uno de los fines principales del Concilio (UR 1). La única Iglesia de Cristo, aunque muchos elementos de santificación y verdad existen fuera de su estructura visible, subsiste en la Iglesia católica gobernada por el sucesor de Pedro y los obispos en comunión con él (UR 2-3). Los hermanos separados, justificados por la fe en el bautismo, son reconocidos como hermanos en el Señor (UR 3).
@@ -21,11 +26,6 @@ El ecumenismo auténtico requiere conversión interior del corazón (UR 7), orac
 
 El decreto distingue entre las Iglesias orientales, que poseen verdaderos sacramentos y sucesión apostólica (UR 14-18), y las comunidades eclesiales surgidas de la Reforma en Occidente (UR 19-24). Se recomienda la comunicación en las funciones sagradas con los orientales en circunstancias oportunas, mientras que con las comunidades occidentales ha de regirse por principios distintos debido a la carencia del sacramento del Orden.
 
-### Según el Catecismo (CEC)
-
-La Iglesia es una por su origen trinitario, por su Fundador Jesucristo y por el Espíritu Santo que es alma de la Iglesia (CEC 813). Los vínculos visibles de esta unidad son: la profesión de una sola fe, la celebración común del culto divino y la comunión en los sacramentos, y la sucesión apostólica (CEC 815). La Iglesia de Cristo subsiste en la Iglesia católica (CEC 816). Las rupturas de la unidad —herejía, apostasía, cisma— no se producen sin pecado (CEC 817).
-
-Los que nacen en comunidades separadas no son responsables del pecado de separación y son reconocidos como hermanos (CEC 818). Existen fuera de la Iglesia católica muchos elementos de santificación: la palabra de Dios escrita, la vida de la gracia, la fe, la esperanza y la caridad (CEC 819). El deseo de unidad es un don de Cristo y un llamamiento del Espíritu Santo (CEC 820). La respuesta a este llamamiento exige conversión permanente, oración, conocimiento mutuo, diálogo y cooperación (CEC 821).
 
 ## Distinciones importantes
 

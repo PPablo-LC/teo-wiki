@@ -15,13 +15,13 @@ San Pablo usa la metáfora del atleta: «Todo atleta se entrena con disciplina..
 
 ## Perspectivas por fuente
 
-### Según la Summa Theologiae
-
-El hábito virtuoso se genera por la repetición de actos (STh I-II, q.51, a.3). La virtud adquirida requiere entrenamiento; la virtud infusa requiere cooperación con la gracia mediante actos. El entrenamiento corporal (ejercicio físico) se ordena a la salud del cuerpo; el entrenamiento espiritual a la salud del alma. Ambos pueden integrarse: «la piedad para todo es provechosa, pues tiene promesa de la vida presente y de la futura» (1Tim 4,8, citado en el contexto de la templanza y la castidad).
-
 ### Según el Concilio Vaticano II
 
 *Optatam Totius* (Decreto sobre la formación sacerdotal) subraya la necesidad de formación espiritual integral, combinando doctrina, oración y vida virtuosa. La «formación» es un concepto comparable al entrenamiento: se trata de adquirir hábitos intelectuales, espirituales y pastorales mediante la práctica disciplinada.
+
+### Según la Summa Theologiae
+
+El hábito virtuoso se genera por la repetición de actos (STh I-II, q.51, a.3). La virtud adquirida requiere entrenamiento; la virtud infusa requiere cooperación con la gracia mediante actos. El entrenamiento corporal (ejercicio físico) se ordena a la salud del cuerpo; el entrenamiento espiritual a la salud del alma. Ambos pueden integrarse: «la piedad para todo es provechosa, pues tiene promesa de la vida presente y de la futura» (1Tim 4,8, citado en el contexto de la templanza y la castidad).
 
 ### Según el análisis de conferencias para varones (notas)
 

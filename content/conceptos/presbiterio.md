@@ -9,6 +9,11 @@ El presbiterio es el conjunto de los presbíteros de una diócesis, unidos entre
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+Los presbíteros, instituidos por la ordenación en el orden del presbiterado, están unidos todos entre sí por la íntima fraternidad del sacramento. Forman un único presbiterio especialmente en la diócesis a cuyo servicio se dedican bajo la dirección de su obispo (CEC §1568). Son cooperadores diligentes de los obispos y forman con su obispo un único presbiterio (CEC §1567).
+
+Todo obispo ejerce su ministerio en el seno del colegio episcopal; los presbíteros ejercen su ministerio en el seno del presbiterio de la diócesis, bajo la dirección de su obispo (CEC §877).
 ### Según el Código de Derecho Canónico (CIC)
 
 El consejo presbiteral es el grupo de sacerdotes que constituye como el senado del Obispo en representación del presbiterio. Su misión es ayudar al Obispo en el gobierno de la diócesis para proveer al bien pastoral de la porción del pueblo de Dios (c. 495 §1). Debe constituirse en cada diócesis.
@@ -19,11 +24,6 @@ El consejo presbiteral tiene solo voto consultivo; el Obispo debe oírlo en los 
 
 El colegio de consultores, formado por algunos sacerdotes del consejo presbiteral (entre seis y doce), ejerce las funciones determinadas por el derecho durante cinco años (c. 502 §1).
 
-### Según el Catecismo (CEC)
-
-Los presbíteros, instituidos por la ordenación en el orden del presbiterado, están unidos todos entre sí por la íntima fraternidad del sacramento. Forman un único presbiterio especialmente en la diócesis a cuyo servicio se dedican bajo la dirección de su obispo (CEC §1568). Son cooperadores diligentes de los obispos y forman con su obispo un único presbiterio (CEC §1567).
-
-Todo obispo ejerce su ministerio en el seno del colegio episcopal; los presbíteros ejercen su ministerio en el seno del presbiterio de la diócesis, bajo la dirección de su obispo (CEC §877).
 
 ## Relaciones doctrinales
 

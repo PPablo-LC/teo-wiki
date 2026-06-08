@@ -15,6 +15,10 @@ Por otro lado, la vida humana es descrita como sombra fugaz: «El hombre pasa cu
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La sombra es símbolo del Espíritu Santo que cubre a la Virgen María en la Anunciación. Se relaciona con la nube, símbolo inseparable del Espíritu Santo en las teofanías de la Transfiguración y la Ascensión, manifestando la presencia divina (CEC §697).
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 La imagen de la sombra en el AT expresa la protección divina bajo la metáfora de las alas. El salmista pide estar «a la sombra de tus alas» hasta que pase la calamidad (Sal 57,2). En el Cantar, la esposa desea la sombra del esposo (Ct 2,3). En el desierto, la nube de la presencia de Dios daba sombra a Israel.
@@ -22,10 +26,6 @@ La imagen de la sombra en el AT expresa la protección divina bajo la metáfora 
 La sombra puede ser también imagen negativa: «tierra de sombra de muerte» (Is 9,1) expresa la condición del que está lejos de Dios. Los justos que habitan en tinieblas ven una gran luz (Is 9,1; Mt 4,16). Job describe la vida como sombra (Job 8,9; 14,2).
 
 La carta a los Hebreos usa «sombra» para designar la relación entre el AT y el NT: la Ley es sombra de los bienes futuros (Heb 10,1), mientras que Cristo es la imagen misma de la realidad. El tabernáculo era copia y sombra de las realidades celestiales (Heb 8,5). En el NT, la sombra de Pedro tenía virtud curativa, simbolizando el poder de Cristo que obra a través de los apóstoles.
-
-### Según el Catecismo (CEC)
-
-La sombra es símbolo del Espíritu Santo que cubre a la Virgen María en la Anunciación. Se relaciona con la nube, símbolo inseparable del Espíritu Santo en las teofanías de la Transfiguración y la Ascensión, manifestando la presencia divina (CEC §697).
 
 ### Según Royo Marín (TPCr)
 

@@ -27,12 +27,6 @@ La doctrina social de la Iglesia desarrolla los principios de dignidad humana, b
 
 La justicia social representa un verdadero desarrollo de la justicia general, reguladora de las relaciones sociales según el criterio de la observancia de la ley [CompDS §201]. Es una exigencia vinculada con la cuestión social, que hoy se manifiesta con dimensión mundial, y concierne a los aspectos sociales, políticos, económicos y estructurales [CompDS §201]. La justicia, conforme a los criterios de utilidad y tener, es considerada de forma reducida; en la antropología cristiana adquiere un significado más pleno, pues lo «justo» no está determinado por la ley sino por la identidad profunda del ser humano [CompDS §202]. La justicia por sí sola no basta: debe abrirse al horizonte de la solidaridad y del amor, pues «puede llegar a negarse a sí misma si no se abre a la fuerza más profunda que es el amor» [CompDS §203]. La paz es fruto de la justicia y también de la solidaridad [CompDS §203].
 
-### Según Royo Marín (TPCr)
-
-«A veces se habla de justicia social, internacional, vindicativa, etc. No son especies distintas de las que señala Santo Tomás. La justicia social coincide en el fondo con la legal, aunque recibe cierta influencia de la distributiva». Los deberes de justicia social se inscriben en los principios del derecho de gentes y se rigen por las normas de la justicia legal, distributiva o conmutativa según los casos.
-
-[TPCr, Parte III, Libro II, Cap. II, n.403]
-
 ### Según el Compendio (CompDS)
 
 Los preceptos del año sabático y del año jubilar constituyen una doctrina social «in nuce» y muestran cómo los principios de la [[justicia_social]] y la [[solidaridad]] están inspirados por la gratuidad del evento de salvación realizado por Dios [CompDS §25]. Han de ser la referencia normativa a la que todas las generaciones deben conformarse.
@@ -40,6 +34,12 @@ Los preceptos del año sabático y del año jubilar constituyen una doctrina soc
 El amor cristiano impulsa a la denuncia, a la propuesta y al compromiso con proyección cultural y social [CompDS §6]. La humanidad reclama una mayor justicia al afrontar el vasto fenómeno de la globalización, y siente la necesidad de salvaguardar la identidad nacional sin perder de vista la unidad de la familia humana [CompDS §3].
 
 El Compendio propone un [[humanismo_integral]] y solidario fundado sobre la [[dignidad_humana]] y la [[libertad_humana]], que se actúa en la [[paz]], la justicia y la solidaridad [CompDS §19]. El amor recíproco entre los hombres, en la participación del amor infinito de Dios, es el auténtico fin histórico y trascendente de la humanidad [CompDS §55].
+
+### Según Royo Marín (TPCr)
+
+«A veces se habla de justicia social, internacional, vindicativa, etc. No son especies distintas de las que señala Santo Tomás. La justicia social coincide en el fondo con la legal, aunque recibe cierta influencia de la distributiva». Los deberes de justicia social se inscriben en los principios del derecho de gentes y se rigen por las normas de la justicia legal, distributiva o conmutativa según los casos.
+
+[TPCr, Parte III, Libro II, Cap. II, n.403]
 
 ### Según la Encíclica Magnífica Humanitas (MH)
 

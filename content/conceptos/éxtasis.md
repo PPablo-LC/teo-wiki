@@ -17,15 +17,15 @@ El éxtasis está íntimamente relacionado con los incendios de amor, pues la le
 
 ## Perspectivas por fuente
 
-### Según Royo Marín (TPCr)
-
-Royo Marín trata el éxtasis largamente en el lugar que le corresponde (n. 573ss) y lo retoma en la Cuarta Parte al estudiar los fenómenos de orden afectivo. Sigue a Santa Teresa (Moradas sextas c.4-6) y advierte que no debe confundirse con las gracias gratis dadas.
-
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata el éxtasis (*extasis*) como un efecto del amor. El éxtasis consiste en salir fuera de sí, y el amor lo produce de dos modos: según la potencia aprehensiva (la meditación intensa del amado aparta la mente de otras cosas) y según la potencia apetitiva (el afecto se dirige hacia otro saliendo de sí mismo). El amor de amistad produce éxtasis de modo absoluto, porque el amante sale de sí para buscar el bien del amigo; el amor de concupiscencia lo produce solo bajo cierto aspecto, porque busca el bien exterior para sí mismo, replegándose finalmente en sí (q.28 a.3).
 
 [SmTh Ia-IIae q.28 a.3]
+### Según Royo Marín (TPCr)
+
+Royo Marín trata el éxtasis largamente en el lugar que le corresponde (n. 573ss) y lo retoma en la Cuarta Parte al estudiar los fenómenos de orden afectivo. Sigue a Santa Teresa (Moradas sextas c.4-6) y advierte que no debe confundirse con las gracias gratis dadas.
+
 
 ## Distinciones importantes
 

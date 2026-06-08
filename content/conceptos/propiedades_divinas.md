@@ -13,6 +13,9 @@ Las personas divinas se distinguen y constituyen por las relaciones de origen. C
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+«Las Personas divinas son realmente distintas entre sí» (CEC §254). «Se distinguen por sus relaciones de origen» (§254). «La distinción real de las Personas entre sí reside únicamente en las relaciones que las refieren unas a otras» (§255). «En Dios todo es uno, excepto lo que comporta relaciones opuestas» (§255).
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata las propiedades divinas en SmTh Iª q.40 y su fundamento en q.32. Relación y persona son realmente lo mismo (q.40 a.1), pero se distinguen conceptualmente; la paternidad es el mismo Padre, la filiación es el Hijo, la procesión es el Espíritu Santo. Las propiedades no personales (espiración común) se identifican con las personas por otra razón de identidad: la espiración común está en el Padre y en el Hijo como una misma propiedad en dos personas.
@@ -25,9 +28,6 @@ Los actos nocionales presuponen las propiedades (q.40 a.4): en cuanto constituti
 
 Las nociones son cinco (q.32 a.3): innascibilidad, paternidad, filiación, espiración común y procesión. De estas, cuatro son relaciones; tres son propiedades personales constitutivas de personas (paternidad, filiación, procesión); la espiración común es noción pero no propiedad personal; la innascibilidad es noción pero no relación.
 
-### Según el Catecismo (CEC)
-
-«Las Personas divinas son realmente distintas entre sí» (CEC §254). «Se distinguen por sus relaciones de origen» (§254). «La distinción real de las Personas entre sí reside únicamente en las relaciones que las refieren unas a otras» (§255). «En Dios todo es uno, excepto lo que comporta relaciones opuestas» (§255).
 
 ## Distinciones importantes
 

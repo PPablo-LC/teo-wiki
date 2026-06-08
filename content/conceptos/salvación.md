@@ -17,10 +17,6 @@ La salvación tiene su origen en la iniciativa amorosa de Dios, que «quiere que
 
 El Verbo se encarnó para salvarnos reconciliándonos con Dios (§456-460). Cristo murió por nuestros pecados y resucitó para nuestra justificación (§661-682). La Iglesia es necesaria para la salvación, pues Cristo es el único mediador y la hace presente en el mundo (§816-819). Fuera de la Iglesia no hay salvación (extra Ecclesiam nulla salus) (§846-848). La salvación eterna es la visión beatífica de Dios, el cielo (§1019-1065). Dios ofrece a todos la posibilidad de salvarse, incluso a los que sin culpa propia no conocen el Evangelio (§847-848).
 
-### Según Royo Marín (TPCr)
-
-Royo Marín expone la salvación como el fin último de la vida cristiana y el término de la perfección. La gracia santificante es el principio de la salvación, que comienza en esta vida y se consuma en la gloria. La salvación exige la fe, la esperanza y la caridad, y se pierde por el pecado mortal. La predestinación a la salvación es un misterio de la sabiduría divina que no anula la libertad humana. La perseverancia final es un don de Dios que debe solicitarse con la oración.
-
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 En el AT, Yahvé es el único salvador de Israel. La salvación es liberación: de Egipto (Éx 14-15), de los enemigos, del exilio. Los profetas anuncian una salvación escatológica y universal. Isaías proclama: «Todos los confines de la tierra verán la salvación de nuestro Dios» (Is 52,10). La salvación incluye la restauración de Israel y la paz mesiánica.
@@ -28,6 +24,10 @@ En el AT, Yahvé es el único salvador de Israel. La salvación es liberación: 
 Jonás muestra la universalidad de la salvación de Dios, que alcanza incluso a Nínive. Los Salmos de acción de gracias celebran la salvación de Dios como liberación personal y comunitaria.
 
 En el NT, la salvación se realiza en Jesucristo. Su nombre significa «Yahvé salva» (Mt 1,21). La salvación es don gratuito de Dios (Ef 2,8-9). Se recibe por la fe y los sacramentos. La salvación es presente (ya estamos salvados) y futura (seremos salvados definitivamente). Jesús es «el Camino, la Verdad y la Vida» (Jn 14,6), el único mediador de salvación (Hch 4,12). Pablo desarrolla la justificación por la fe: el hombre es salvado por gracia, no por las obras de la Ley.
+### Según Royo Marín (TPCr)
+
+Royo Marín expone la salvación como el fin último de la vida cristiana y el término de la perfección. La gracia santificante es el principio de la salvación, que comienza en esta vida y se consuma en la gloria. La salvación exige la fe, la esperanza y la caridad, y se pierde por el pecado mortal. La predestinación a la salvación es un misterio de la sabiduría divina que no anula la libertad humana. La perseverancia final es un don de Dios que debe solicitarse con la oración.
+
 
 ## Distinciones importantes
 

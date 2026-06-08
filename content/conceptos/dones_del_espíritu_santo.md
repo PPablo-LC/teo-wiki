@@ -17,16 +17,6 @@ Los dones del Espíritu Santo son necesarios para la salvación y para la perfec
 
 ## Perspectivas por fuente
 
-### Según Royo Marín (TPCr)
-
-Royo Marín dedica el capítulo tercero de la Segunda Parte a los dones del Espíritu Santo, que constituyen el elemento capital de su doctrina sobre la perfección cristiana. Los dones son el principio formal de la vida mística: la actuación sobrehumana de los dones del Espíritu Santo es precisamente lo que define la mística.
-
-Los dones están en todas las almas en gracia, pero pueden estar como dormidos o actualizarse más o menos intensamente según la docilidad del alma al Espíritu Santo. La vida mística comienza precisamente cuando los dones pasan de estar en estado habitual (potencia próxima) a actuar de modo sobrehumano en el alma.
-
-Los dones más íntimos (sabiduría y entendimiento) producen el conocimiento experimental de Dios propio de la contemplación infusa, mientras que los demás dones tienen funciones más variadas: el don de consejo ilumina en las dudas, el de fortaleza robustece en las pruebas, etc.
-
-[TPCr, Parte II, Cap. 3]
-
 ### Según la Summa Theologiae (SmTh)
 
 **Naturaleza y distinción de las virtudes (Iª-IIae q.68 a.1):** Los dones del Espíritu Santo se distinguen de las virtudes. Las virtudes perfeccionan al hombre para obrar bien según la regla de la razón humana, mientras que los dones disponen al alma para ser movida por el Espíritu Santo como por un principio superior. La razón de don se toma no solo de que son infundidos por Dios, sino de que hacen al hombre prontamente móvil bajo la inspiración divina. Los dones perfeccionan al hombre para actos más elevados que los actos de las virtudes, pues el Espíritu Santo es motor más excelente que la razón humana.
@@ -46,6 +36,16 @@ Los dones más íntimos (sabiduría y entendimiento) producen el conocimiento ex
 **Comparación de los dones con las virtudes (q.68 a.8):** Las virtudes teológicas (fe, esperanza, caridad) son superiores a los dones, porque unen al alma con Dios, que es el motor. Pero los dones son superiores a las virtudes intelectuales y morales, porque perfeccionan las facultades del alma en relación con un motor más elevado (el Espíritu Santo), mientras que las virtudes perfeccionan en relación con la razón humana.
 
 [SmTh Iª-IIae q.68]
+### Según Royo Marín (TPCr)
+
+Royo Marín dedica el capítulo tercero de la Segunda Parte a los dones del Espíritu Santo, que constituyen el elemento capital de su doctrina sobre la perfección cristiana. Los dones son el principio formal de la vida mística: la actuación sobrehumana de los dones del Espíritu Santo es precisamente lo que define la mística.
+
+Los dones están en todas las almas en gracia, pero pueden estar como dormidos o actualizarse más o menos intensamente según la docilidad del alma al Espíritu Santo. La vida mística comienza precisamente cuando los dones pasan de estar en estado habitual (potencia próxima) a actuar de modo sobrehumano en el alma.
+
+Los dones más íntimos (sabiduría y entendimiento) producen el conocimiento experimental de Dios propio de la contemplación infusa, mientras que los demás dones tienen funciones más variadas: el don de consejo ilumina en las dudas, el de fortaleza robustece en las pruebas, etc.
+
+[TPCr, Parte II, Cap. 3]
+
 
 ## Distinciones importantes
 

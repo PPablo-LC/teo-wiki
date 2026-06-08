@@ -13,10 +13,6 @@ La adoración eucarística se fundamenta en la fe en la presencia real, verdader
 
 ## Perspectivas por fuente
 
-### Según el Código de Derecho Canónico (CIC)
-
-El CIC regula la reserva y veneración de la santísima Eucaristía en los cánones 934-944. La Eucaristía debe reservarse en la catedral, iglesias parroquiales y oratorios anejos a casas religiosas (c. 934). Puede reservarse en la capilla del Obispo y, con licencia, en otros lugares (c. 934 §2). La iglesia donde está reservada debe quedar abierta a los fieles al menos algunas horas al día para la oración ante el Santísimo Sacramento (c. 937). El sagrario debe estar en un lugar verdaderamente noble, destacado, convenientemente adornado y apropiado para la oración; debe ser inamovible, de materia sólida no transparente, y cerrado para evitar profanación (c. 938). Ante el sagrario debe lucir constantemente una lámpara especial (c. 940). La exposición del Santísimo Sacramento puede hacerse con copón o custodia (c. 941). Es aconsejable la exposición solemne anual (c. 942). Es ministro de la exposición y bendición eucarística el sacerdote o el diácono (c. 943). Las procesiones eucarísticas, sobre todo en la solemnidad del Corpus Christi, son testimonio público de veneración (c. 944).
-
 ### Según el Catecismo (CEC)
 
 El culto a la Eucaristía es exigido por la presencia real de Cristo: «La presencia del verdadero Cuerpo de Cristo y de la verdadera Sangre de Cristo en este sacramento, 'por la cual el hombre puede conocer al mismo Dios, hecho hombre, viéndolo humilde [...] en la Hostia'» (§1378). La Iglesia y el mundo tienen necesidad de este culto (§1378-1380). La visita al Santísimo Sacramento «es una prueba de gratitud, un signo de amor y un deber de adoración hacia Cristo nuestro Señor» (§1418).
@@ -24,6 +20,10 @@ El culto a la Eucaristía es exigido por la presencia real de Cristo: «La prese
 El himno Adoro te devote expresa la fe en la presencia de Cristo en la Eucaristía (§1381).
 
 [CEC §1378-1381, §1418]
+
+### Según el Código de Derecho Canónico (CIC)
+
+El CIC regula la reserva y veneración de la santísima Eucaristía en los cánones 934-944. La Eucaristía debe reservarse en la catedral, iglesias parroquiales y oratorios anejos a casas religiosas (c. 934). Puede reservarse en la capilla del Obispo y, con licencia, en otros lugares (c. 934 §2). La iglesia donde está reservada debe quedar abierta a los fieles al menos algunas horas al día para la oración ante el Santísimo Sacramento (c. 937). El sagrario debe estar en un lugar verdaderamente noble, destacado, convenientemente adornado y apropiado para la oración; debe ser inamovible, de materia sólida no transparente, y cerrado para evitar profanación (c. 938). Ante el sagrario debe lucir constantemente una lámpara especial (c. 940). La exposición del Santísimo Sacramento puede hacerse con copón o custodia (c. 941). Es aconsejable la exposición solemne anual (c. 942). Es ministro de la exposición y bendición eucarística el sacerdote o el diácono (c. 943). Las procesiones eucarísticas, sobre todo en la solemnidad del Corpus Christi, son testimonio público de veneración (c. 944).
 
 ### Según Royo Marín (TPCr)
 

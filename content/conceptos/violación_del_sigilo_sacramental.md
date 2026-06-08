@@ -13,6 +13,9 @@ La inviolabilidad absoluta del sigilo sacramental es uno de los principios más 
 
 ## Perspectivas por fuente
 
+### Según el Código de Derecho Canónico (CIC)
+
+El can. 1388 §1 establece que el confesor que viola directamente el sigilo sacramental incurre en [[excomunión]] *latae sententiae* reservada a la Sede Apostólica. El §2 dispone que el intérprete y los demás que hubieran tenido conocimiento de pecados por la confesión y los revelaren, deben ser castigados con una pena justa, no necesariamente la excomunión.
 ### Según las Normae de gravioribus delictis (SST-2010)
 
 **Art. 4 §1 n.5:** Se reserva a la CDF el delito más grave de violación directa e indirecta del sigilo sacramental, del que se trata en el can. 1388 §1 CIC y en el can. 1456 §1 CCEO. Tanto la violación directa como la indirecta quedan equiparadas en gravedad y reserva.
@@ -23,9 +26,6 @@ La inviolabilidad absoluta del sigilo sacramental es uno de los principios más 
 
 La Breve Relación (n.12) señala que en la reforma de 2010 se introdujeron los delitos de la violación indirecta del sigilo sacramental (art. 4 §1 n.5) y de la captación o divulgación maliciosa de la confesión sacramental (art. 4 §2), este último según el decreto de la CDF del 23 de febrero de 1988.
 
-### Según el Código de Derecho Canónico (CIC)
-
-El can. 1388 §1 establece que el confesor que viola directamente el sigilo sacramental incurre en [[excomunión]] *latae sententiae* reservada a la Sede Apostólica. El §2 dispone que el intérprete y los demás que hubieran tenido conocimiento de pecados por la confesión y los revelaren, deben ser castigados con una pena justa, no necesariamente la excomunión.
 
 ## Distinciones importantes
 

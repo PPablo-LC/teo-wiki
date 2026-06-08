@@ -9,13 +9,13 @@ El cementerio eclesiástico es el lugar sagrado destinado a la sepultura de los 
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC §2300-2301 enseña que los cuerpos de los difuntos deben ser tratados con respeto y caridad, en la fe de la resurrección de la carne. La sepultura de los muertos es una obra de misericordia corporal. La Iglesia permite la cremación cuando no implica una negación de la fe en la resurrección, pero recomienda la sepultura del cuerpo (CEC §2301). El cementerio es lugar de espera para la resurrección final.
 ### Según el Código de Derecho Canónico (CIC)
 
 Los cc. 1176-1185 regulan las exequias eclesiásticas y los lugares de sepultura. Deben tenerse cementerios propios, ya sean parroquiales o diocesanos, o al menos un lugar bendecido en los cementerios civiles para los fieles católicos (c. 1180). Los cementerios deben ser bendecidos según las normas litúrgicas (c. 1205). No pueden ser sepultados en cementerio católico los no bautizados, los condenados por sentencia por delito de apostasía, herejía o cisma, ni los pecadores públicos notorios a quienes no se les puedan conceder exequias eclesiásticas sin escándalo de los fieles, a no ser que antes de la muerte hubiesen dado alguna señal de arrepentimiento (c. 1184). En caso de duda, debe consultarse al Ordinario (c. 1184 §2). Los cementerios son [[lugar_sagrado|lugares sagrados]] y están sujetos a la potestad de la Iglesia.
 
-### Según el Catecismo (CEC)
-
-El CEC §2300-2301 enseña que los cuerpos de los difuntos deben ser tratados con respeto y caridad, en la fe de la resurrección de la carne. La sepultura de los muertos es una obra de misericordia corporal. La Iglesia permite la cremación cuando no implica una negación de la fe en la resurrección, pero recomienda la sepultura del cuerpo (CEC §2301). El cementerio es lugar de espera para la resurrección final.
 
 ## Distinciones importantes
 

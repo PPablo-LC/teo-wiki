@@ -13,6 +13,9 @@ El vicario episcopal es una figura de cooperación en el gobierno diocesano, ins
 
 ## Perspectivas por fuente
 
+### Según el Concilio Vaticano II (ConcVatII)
+
+*Christus Dominus* (CD §27) recomienda la institución de vicarios episcopales en las diócesis extensas o con gran número de fieles, para que el Obispo pueda atender mejor a las necesidades pastorales. El Concilio fomentó la creación de figuras que permitieran una descentralización efectiva del gobierno diocesano sin menoscabo de la autoridad del Obispo.
 ### Según el CIC
 
 El c. 475 §1 establece que el Obispo diocesano puede constituir uno o más vicarios episcopales que, en la parte del territorio, en el tipo de asuntos, para los fieles de un rito diverso o para un grupo de personas que designe, poseen la misma potestad ordinaria que el derecho concede al Vicario general. El vicario episcopal debe ser sacerdote idóneo, no necesariamente obispo (c. 477). Su nombramiento es libre por parte del Obispo diocesano (c. 477). Su potestad cesa al cesar el oficio del Obispo que lo nombró o por su propia remoción (c. 481).
@@ -23,9 +26,6 @@ El vicario episcopal tiene potestad ordinaria vicaria: actúa en lugar del Obisp
 
 El Comentario Exegético señala que la figura del vicario episcopal responde a la necesidad de adaptar el gobierno diocesano a las dimensiones y complejidad de la diócesis. El vicario episcopal no es un mero delegado sino que posee potestad ordinaria para las materias de su encargo. La diferencia con el Vicario general radica en que este extiende su competencia a toda la diócesis en toda clase de asuntos, mientras que el vicario episcopal tiene competencia limitada.
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-*Christus Dominus* (CD §27) recomienda la institución de vicarios episcopales en las diócesis extensas o con gran número de fieles, para que el Obispo pueda atender mejor a las necesidades pastorales. El Concilio fomentó la creación de figuras que permitieran una descentralización efectiva del gobierno diocesano sin menoscabo de la autoridad del Obispo.
 
 ## Distinciones importantes
 

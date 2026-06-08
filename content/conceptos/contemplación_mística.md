@@ -15,13 +15,13 @@ Trece son las características psicológicas de la contemplación mística (n.53
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC §2712-2719 describe la contemplación como don de Dios, pura gracia, que no puede ser producida por el esfuerzo humano. Es silencio, mirada de fe, unión con Cristo en la oración.
 ### Según Royo Marín (TPCr)
 
 La contemplación mística corresponde a la vía iluminativa y unitiva (n.531). Se da cuando los dones del Espíritu Santo actúan de manera predominante sobre las virtudes. En los proficientes, comienza con el recogimiento infuso y la quietud; en los perfectos, culmina en la unión transformativa.
 
-### Según el Catecismo (CEC)
-
-El CEC §2712-2719 describe la contemplación como don de Dios, pura gracia, que no puede ser producida por el esfuerzo humano. Es silencio, mirada de fe, unión con Cristo en la oración.
 
 ## Distinciones importantes
 

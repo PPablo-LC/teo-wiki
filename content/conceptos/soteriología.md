@@ -27,6 +27,9 @@ Por su obediencia hasta la muerte, Jesús reemplazó nuestra desobediencia: «Po
 
 **El destino final**: La muerte pone fin al tiempo de la aceptación o rechazo de la gracia (CEC §1021). Tras el juicio particular, cada hombre recibe su retribución eterna: la purificación (purgatorio), la entrada en el cielo (visión beatífica) o la condenación eterna (infierno) (CEC §1022-1037). Al fin de los tiempos, el Juicio final revelará la justicia de Dios (CEC §1038-1041) y sobrevendrán los cielos nuevos y la tierra nueva, donde Dios será todo en todos (CEC §1042-1060).
 
+### Según el Concilio Vaticano II
+
+**Lumen Gentium**: Cristo es el único Mediador y camino de salvación (LG §60). La Iglesia es necesaria para la salvación, pues en ella entran los hombres por el bautismo como por una puerta (LG §14). Sin embargo, quienes sin culpa desconocen el Evangelio pero buscan a Dios con sincero corazón pueden conseguir la salvación eterna (LG §16).
 ### Según Royo Marín (TPCr)
 
 **La necesidad de la redención**: Solo un Dios hecho hombre podía salvar el abismo infinito entre el pecado del hombre y la justicia divina (TPCr I, §61). Todas las acciones de Cristo, por la unión hipostática, tenían valor infinito.
@@ -37,9 +40,6 @@ Efectos de la gracia: (1) nos hace hijos adoptivos de Dios — una adopción int
 
 **El organismo sobrenatural**: La gracia santificante radica en la esencia del alma; las virtudes infusas y los dones del Espíritu Santo son las potencias sobrenaturales que permiten al alma obrar de modo connatural al orden de la gracia (TPCr II, §97-98).
 
-### Según el Concilio Vaticano II
-
-**Lumen Gentium**: Cristo es el único Mediador y camino de salvación (LG §60). La Iglesia es necesaria para la salvación, pues en ella entran los hombres por el bautismo como por una puerta (LG §14). Sin embargo, quienes sin culpa desconocen el Evangelio pero buscan a Dios con sincero corazón pueden conseguir la salvación eterna (LG §16).
 
 ## Distinciones importantes
 

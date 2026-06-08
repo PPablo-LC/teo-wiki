@@ -13,13 +13,13 @@ La abstinencia es una de las partes subjetivas de la templanza, encargada de mod
 
 ## Perspectivas por fuente
 
-### Según el Código de Derecho Canónico (CIC)
-
-El CIC regula la abstinencia en los cánones 1249-1253 sobre los días de penitencia. Son días penitenciales todos los viernes del año y el tiempo de cuaresma (c. 1250). Todos los viernes, a no ser que coincidan con una solemnidad, debe guardarse la abstinencia de carne, o de otro alimento que determine la Conferencia Episcopal (c. 1251). El ayuno y la abstinencia se guardarán el miércoles de Ceniza y el Viernes Santo (c. 1251). La ley de la abstinencia obliga a los que han cumplido catorce años (c. 1252). La Conferencia Episcopal puede determinar con más detalle el modo de observar la abstinencia, así como sustituirla en todo o en parte por otras formas de penitencia, como obras de caridad y prácticas de piedad (c. 1253).
-
 ### Según el Catecismo (CEC)
 
 El ayuno y la abstinencia se presentan como muestra de la penitencia interior del cristiano (§1434). La Iglesia prescribe la abstinencia en días determinados para ayudar a preparar las fiestas y contribuir al dominio de los instintos y la libertad de corazón (§2043). La conversión del corazón se expresa en obras de penitencia como el ayuno y la abstinencia (§1430, §2043).
+
+### Según el Código de Derecho Canónico (CIC)
+
+El CIC regula la abstinencia en los cánones 1249-1253 sobre los días de penitencia. Son días penitenciales todos los viernes del año y el tiempo de cuaresma (c. 1250). Todos los viernes, a no ser que coincidan con una solemnidad, debe guardarse la abstinencia de carne, o de otro alimento que determine la Conferencia Episcopal (c. 1251). El ayuno y la abstinencia se guardarán el miércoles de Ceniza y el Viernes Santo (c. 1251). La ley de la abstinencia obliga a los que han cumplido catorce años (c. 1252). La Conferencia Episcopal puede determinar con más detalle el modo de observar la abstinencia, así como sustituirla en todo o en parte por otras formas de penitencia, como obras de caridad y prácticas de piedad (c. 1253).
 
 ### Según Royo Marín (TPCr)
 

@@ -33,14 +33,6 @@ CEC §1667-1669: Tratan las procesiones en el contexto de la piedad popular.
 
 §1669: "Las procesiones y otras manifestaciones populares de piedad, cuando se celebran con verdadero espíritu de fe y de caridad, son medios aptos para alimentar la vida cristiana".
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-*Sacrosanctum Concilium* §98-100: Sobre las manifestaciones populares de piedad.
-
-§98: "La vida litúrgica se manifiesta también con gran variedad de piedades populares de los fieles. Tienen un lenguaje propio, una pedagogía, un dinamismo, un sentido religioso que las hace insustituibles para la vida cristiana".
-
-§100: "Estas piedades deben estar ordenadas de manera que se armonicen con la acción litúrgica, en cierto modo se inspiren en ella y lleven a los fieles a ella, ya que la liturgia por su naturaleza supera infinitamente a cualquiera de ellas".
-
 ### Según el Código de Derecho Canónico (CIC)
 
 CIC c. 944: Sobre las procesiones públicas.
@@ -50,6 +42,14 @@ c. 944: "§1. En las iglesias y oratorios se pueden celebrar procesiones litúrg
 §2. "Las procesiones que han de hacerse por las calles o por lugares públicos requieren la licencia previa del Obispo diocesano, quien debe velar por el decoro y el orden".
 
 §3. "Corresponde al Obispo diocesano establecer normas que reglamenten las procesiones públicas y determinar lo que es necesario para su celebración".
+### Según el Concilio Vaticano II (ConcVatII)
+
+*Sacrosanctum Concilium* §98-100: Sobre las manifestaciones populares de piedad.
+
+§98: "La vida litúrgica se manifiesta también con gran variedad de piedades populares de los fieles. Tienen un lenguaje propio, una pedagogía, un dinamismo, un sentido religioso que las hace insustituibles para la vida cristiana".
+
+§100: "Estas piedades deben estar ordenadas de manera que se armonicen con la acción litúrgica, en cierto modo se inspiren en ella y lleven a los fieles a ella, ya que la liturgia por su naturaleza supera infinitamente a cualquiera de ellas".
+
 
 ## Distinciones importantes
 

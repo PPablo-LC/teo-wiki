@@ -17,15 +17,15 @@ Mediante la consagración religiosa, el bautizado se compromete a vivir los cons
 
 Los consejos evangélicos, en la multiplicidad de formas de vida consagrada, manifiestan la santidad de la Iglesia y la llamada universal a la perfección (CEC §915). La profesión de los consejos evangélicos es una consagración de la persona a Dios que configura con Cristo (CEC §916). El religioso está llamado a la contemplación de las realidades divinas y al servicio de la Iglesia (CEC §917-918). La vida religiosa está ordenada a la santidad de sus miembros y a la gloria de Dios (CEC §930).
 
-### Según el CIC
-
-La consagración religiosa se expresa mediante votos públicos (c. 654). Los votos pueden ser temporales o perpetuos (c. 657). La profesión religiosa incorpora al instituto y confiere los derechos y deberes establecidos en las constituciones (c. 654). Los religiosos deben vivir en comunidad, observar la clausura cuando corresponda (c. 665), y dependen del Ordinario del lugar en lo referente al culto público y la cura de almas (c. 678). La salida del instituto requiere indulto pontificio si se trata de votos perpetuos en instituto de derecho pontificio (c. 691).
-
 ### Según Royo Marín (TPCr)
 
 Royo Marín dedica amplio espacio a los consejos evangélicos como medios para alcanzar la [[perfección_cristiana]]. La pobreza voluntaria libera el corazón de los bienes terrenos; la castidad consagrada une el alma a Dios con amor más puro; la obediencia religiosa configura con Cristo obediente hasta la muerte. La profesión religiosa, según Royo Marín, es un nuevo estado de perfección que compromete al religioso a tender a la santidad por los medios propios del instituto.
 
 [TPCr, Tercera Parte, Libro II, Cap. I-III]
+### Según el CIC
+
+La consagración religiosa se expresa mediante votos públicos (c. 654). Los votos pueden ser temporales o perpetuos (c. 657). La profesión religiosa incorpora al instituto y confiere los derechos y deberes establecidos en las constituciones (c. 654). Los religiosos deben vivir en comunidad, observar la clausura cuando corresponda (c. 665), y dependen del Ordinario del lugar en lo referente al culto público y la cura de almas (c. 678). La salida del instituto requiere indulto pontificio si se trata de votos perpetuos en instituto de derecho pontificio (c. 691).
+
 
 ## Distinciones importantes
 

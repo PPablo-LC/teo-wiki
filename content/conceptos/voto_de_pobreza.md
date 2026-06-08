@@ -13,13 +13,9 @@ La pobreza evangélica es señal distintiva del seguimiento de Cristo, que siend
 
 ## Perspectivas por fuente
 
-### Según Royo Marín (TPCr)
+### Según el Catecismo (CEC)
 
-El voto de pobreza suprime el primer obstáculo para que el afecto tienda totalmente a Dios: la codicia de los bienes materiales. Junto con la castidad y la obediencia, constituye la esencia del estado religioso. Por estos tres votos, el religioso ofrece a Dios un holocausto perfecto: bienes exteriores (pobreza), cuerpo (castidad) y alma (obediencia).
-
-La pobreza religiosa no es solo falta de propiedad, sino también desprendimiento efectivo del corazón. El religioso debe vivir como verdaderamente pobre, contento con lo necesario y dependiendo de la comunidad.
-
-[TPCr, Parte III, Libro III, n.728-729]
+«Los consejos evangélicos de la pobreza [...] son inseparables de los mandamientos» (§2053). La pobreza evangélica es imitación de Cristo que «siendo rico se hizo pobre por nosotros» (2 Co 8,9). La vida consagrada se caracteriza por la profesión pública de los consejos evangélicos de pobreza, castidad y obediencia (§944).
 
 ### Según el Código de Derecho Canónico (CIC)
 
@@ -29,9 +25,13 @@ El voto de pobreza religiosa, regulado en el c. 600, exige la renuncia al uso in
 
 El Decreto *Perfectae Caritatis* dedica un número completo a la pobreza religiosa. Los religiosos cultivan con diligencia y, si es preciso, expresan con formas nuevas la pobreza voluntaria abrazada por el seguimiento de Cristo, del que constituye un signo muy estimado, sobre todo hoy [ConcVatII, PC §13]. Por ella se participa en la pobreza de Cristo, «que siendo rico se hizo pobre por nosotros, a fin de enriquecernos con su pobreza» (2 Cor 8,9) [ConcVatII, PC §13]. No basta con someterse a los Superiores en el uso de los bienes, sino que es menester que los religiosos sean pobres en la realidad y en el espíritu, teniendo sus tesoros en el cielo [ConcVatII, PC §13]. Cada cual considérese sometido a la ley común del trabajo y abandónese a la Providencia del Padre [ConcVatII, PC §13]. Los Institutos esfuércense en dar testimonio colectivo de pobreza y contribuyan gustosamente con sus bienes a las necesidades de la Iglesia y al sustento de los pobres [ConcVatII, PC §13].
 
-### Según el Catecismo (CEC)
+### Según Royo Marín (TPCr)
 
-«Los consejos evangélicos de la pobreza [...] son inseparables de los mandamientos» (§2053). La pobreza evangélica es imitación de Cristo que «siendo rico se hizo pobre por nosotros» (2 Co 8,9). La vida consagrada se caracteriza por la profesión pública de los consejos evangélicos de pobreza, castidad y obediencia (§944).
+El voto de pobreza suprime el primer obstáculo para que el afecto tienda totalmente a Dios: la codicia de los bienes materiales. Junto con la castidad y la obediencia, constituye la esencia del estado religioso. Por estos tres votos, el religioso ofrece a Dios un holocausto perfecto: bienes exteriores (pobreza), cuerpo (castidad) y alma (obediencia).
+
+La pobreza religiosa no es solo falta de propiedad, sino también desprendimiento efectivo del corazón. El religioso debe vivir como verdaderamente pobre, contento con lo necesario y dependiendo de la comunidad.
+
+[TPCr, Parte III, Libro III, n.728-729]
 
 ### Según las Constituciones Legionarias (CLC-2020)
 

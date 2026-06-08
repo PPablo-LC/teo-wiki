@@ -23,12 +23,6 @@ Los grados de la sagrada jerarquía son tres (CEC §1554): episcopado, presbiter
 
 La jerarquía eclesiástica se compone de ministros sagrados: obispos (cc. 375-411), presbíteros (cc. 276-289) y diáconos (cc. 236, 288). Los obispos son sucesores de los Apóstoles por institución divina (c. 375 §1). El Romano Pontífice tiene potestad suprema sobre toda la Iglesia (c. 331). El Colegio Episcopal sucede al Colegio Apostólico (cc. 330, 336). Los obispos diocesanos tienen potestad ordinaria, propia e inmediata en sus diócesis (c. 381). Los presbíteros son cooperadores del orden episcopal (c. 275 §1). Los diáconos son ministros ordenados para el servicio (c. 1009 §3). La potestad de régimen (jurisdicción) se distingue de la potestad de orden (c. 129 §1). La jerarquía incluye también la potestad legislativa (c. 391 §1), ejecutiva y judicial (c. 391 §2), que se ejercen según el derecho.
 
-### Según Royo Marín (TPCr)
-
-La jerarquía de orden está formada por los obispos, presbíteros y ministros (al menos los diáconos), como consta por la definición del concilio de Trento. Los obispos son los sucesores legítimos de los Apóstoles y tienen la potestad de ordenar, confirmar y gobernar sus diócesis. El apostolado corresponde propiamente al Romano Pontífice y a los obispos.
-
-[TPCr, Tercera Parte, Libro II, Cap. I; Tercera Parte, Libro III]
-
 ### Según el Concilio Vaticano II (ConcVatII)
 
 Lumen Gentium dedica el capítulo III a la «Constitución jerárquica de la Iglesia y particularmente el [[episcopado]]». Cristo Señor instituyó en su Iglesia diversos ministerios, ordenados al bien de todo el Cuerpo. Los ministros que poseen la sacra potestad están al servicio de sus hermanos [ConcVatII, LG §18].
@@ -38,6 +32,12 @@ Jesucristo edificó la santa Iglesia enviando a sus Apóstoles y quiso que sus s
 Los Obispos han sucedido por institución divina a los Apóstoles [ConcVatII, LG §20]. En la consagración episcopal se confiere la plenitud del sacramento del orden [ConcVatII, LG §21]. El Colegio de los Obispos, junto con su Cabeza el Romano Pontífice y nunca sin ella, es sujeto de la suprema y plena potestad sobre la Iglesia universal [ConcVatII, LG §22].
 
 Los presbíteros, aunque no tienen la cumbre del pontificado, son verdaderos sacerdotes del Nuevo Testamento [ConcVatII, LG §28]. Los diáconos reciben la imposición de las manos «no en orden al sacerdocio, sino en orden al ministerio» [ConcVatII, LG §29]. Se podrá restablecer el diaconado como grado propio y permanente de la Jerarquía [ConcVatII, LG §29].
+### Según Royo Marín (TPCr)
+
+La jerarquía de orden está formada por los obispos, presbíteros y ministros (al menos los diáconos), como consta por la definición del concilio de Trento. Los obispos son los sucesores legítimos de los Apóstoles y tienen la potestad de ordenar, confirmar y gobernar sus diócesis. El apostolado corresponde propiamente al Romano Pontífice y a los obispos.
+
+[TPCr, Tercera Parte, Libro II, Cap. I; Tercera Parte, Libro III]
+
 
 ## Distinciones importantes
 

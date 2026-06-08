@@ -15,6 +15,9 @@ En el orden sobrenatural, la inteligencia es sanada por la gracia santificante, 
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El hombre, por su inteligencia, «participa de la luz del Entendimiento divino» y puede entender el orden establecido por el Creador (§1730). La inteligencia es la facultad que busca naturalmente la verdad, especialmente la verdad sobre Dios (§1827). La ley natural, inscrita por Dios en el corazón humano, es participada por la inteligencia que discierne el bien del mal (§1954-1955).
 ### Según Royo Marín (TPCr)
 
 La inteligencia, junto con la voluntad, es una de las dos grandes facultades espirituales del alma. En la vida espiritual, la inteligencia debe ser purificada de todo apego a las criaturas para poder elevarse a Dios. La fe es el principio del conocimiento sobrenatural, y los dones del Espíritu Santo perfeccionan la inteligencia para que obre al modo divino, no al modo humano.
@@ -26,9 +29,6 @@ Royo Marín distingue en el orden sobrenatural:
 
 [TPCr, Parte II, Organismo sobrenatural; Parte III, Vía iluminativa y unitiva]
 
-### Según el Catecismo (CEC)
-
-El hombre, por su inteligencia, «participa de la luz del Entendimiento divino» y puede entender el orden establecido por el Creador (§1730). La inteligencia es la facultad que busca naturalmente la verdad, especialmente la verdad sobre Dios (§1827). La ley natural, inscrita por Dios en el corazón humano, es participada por la inteligencia que discierne el bien del mal (§1954-1955).
 
 ## Distinciones importantes
 

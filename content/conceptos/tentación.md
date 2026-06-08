@@ -27,12 +27,6 @@ La conducta práctica comprende tres momentos:
 
 ## Perspectivas por fuente
 
-### Según Royo Marín (TPCr)
-
-Royo Marín enseña que la tentación vencida es fuente de grandes méritos. Dios nunca permite ser tentados sobre nuestras fuerzas (1 Cor 10,13). La tentación declarada al director espiritual está ya medio vencida.
-
-Cita abundantemente la Escritura (Ef 6,11-12; 1 Pe 5,8; St 1,12) y expone la doctrina de Santo Tomás sobre la distinción entre tentación diabólica y tentación de la concupiscencia.
-
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata la tentación del demonio en la Iª q.114 (sobre la insidia de los demonios).
@@ -46,6 +40,12 @@ Santo Tomás trata la tentación del demonio en la Iª q.114 (sobre la insidia d
 **Milagros aparentes de los demonios (q.114 a.4):** Los demonios no pueden hacer verdaderos milagros (que sobrepasan el orden de toda la naturaleza creada), pero pueden hacer cosas que admiran a los hombres sobrepasando su poder y conocimiento. Pueden realizar cambios corporales utilizando gérmenes naturales (como las serpientes de los magos de Faraón) o alterando la imaginación y los sentidos humanos.
 
 **Insistencia de los demonios (q.114 a.5):** Los demonios no siempre insisten en tentar después de ser vencidos. A veces se retiran por permisión divina o por temor a ser nuevamente derrotados, pero pueden volver más tarde (como el demonio que «volverá a su casa» de Mt 12,44).
+### Según Royo Marín (TPCr)
+
+Royo Marín enseña que la tentación vencida es fuente de grandes méritos. Dios nunca permite ser tentados sobre nuestras fuerzas (1 Cor 10,13). La tentación declarada al director espiritual está ya medio vencida.
+
+Cita abundantemente la Escritura (Ef 6,11-12; 1 Pe 5,8; St 1,12) y expone la doctrina de Santo Tomás sobre la distinción entre tentación diabólica y tentación de la concupiscencia.
+
 
 ## Distinciones importantes
 

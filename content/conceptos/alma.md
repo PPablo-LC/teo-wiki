@@ -17,10 +17,9 @@ El alma humana es espiritual, directamente creada por Dios (creacionismo), e inm
 
 «Alma» significa el principio espiritual en el hombre (CEC §363). El alma es la «forma» del cuerpo; gracias al alma espiritual, la materia que integra el cuerpo es un cuerpo humano y viviente (CEC §365). Cada alma espiritual es directamente creada por Dios y es inmortal (CEC §366). La unidad del alma y el cuerpo es tan profunda que el hombre es *corpore et anima unus* (CEC §382). La distinción entre alma y espíritu no introduce dualidad alguna en el alma (CEC §367). La dignidad del hombre exige que actúe según una elección libre y consciente, movido por convicción íntima y no por ciegos impulsos (CEC §1706).
 
-### Según Royo Marín (TPCr)
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
-El alma humana fue creada a imagen y semejanza de Dios, dotada de entendimiento y voluntad libres. El fin del alma es la visión beatífica de Dios. El alma en gracia es morada de la Santísima Trinidad (inhabitación trinitaria), lo que constituye el fundamento de toda la vida espiritual y el fin de la perfección cristiana (TPCr, Primera Parte, Caps. I-III).
-
+En el AT el término *néfesh* designa al ser viviente en su totalidad, no un «alma» separable del cuerpo; expresa la vida animada. *Rúaj* («espíritu») indica más bien el principio dinámico dado por Dios, particularmente en los profetas. La escatología veterotestamentaria espera la resurrección del cuerpo más que la inmortalidad del alma separada. Es en el NT donde, bajo la influencia del pensamiento helenístico y la revelación cristiana, el alma adquiere el sentido de principio inmortal que sobrevive a la muerte, aunque la antropología bíblica sigue viendo al hombre como una unidad corporal-espiritual que solo se perfecciona con la resurrección final [VocTeoBib, «Alma»].
 ### Según la Summa Theologiae (SmTh)
 
 **Iª q.75 — El alma en sí misma:**
@@ -71,9 +70,10 @@ El alma humana fue creada a imagen y semejanza de Dios, dotada de entendimiento 
 
 **a.3 — Las almas no fueron creadas simultáneamente:** Contra la opinión de que las almas humanas fueron creadas al principio con los ángeles, Santo Tomás afirma que es natural al alma unirse al cuerpo. Separada del cuerpo le es contranatural. Por tanto, las almas no son creadas antes que los cuerpos, sino en el momento de ser infundidas en ellos. Dios no obra empezando por cosas imperfectas y al margen de la naturaleza (q.118 a.3).
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+### Según Royo Marín (TPCr)
 
-En el AT el término *néfesh* designa al ser viviente en su totalidad, no un «alma» separable del cuerpo; expresa la vida animada. *Rúaj* («espíritu») indica más bien el principio dinámico dado por Dios, particularmente en los profetas. La escatología veterotestamentaria espera la resurrección del cuerpo más que la inmortalidad del alma separada. Es en el NT donde, bajo la influencia del pensamiento helenístico y la revelación cristiana, el alma adquiere el sentido de principio inmortal que sobrevive a la muerte, aunque la antropología bíblica sigue viendo al hombre como una unidad corporal-espiritual que solo se perfecciona con la resurrección final [VocTeoBib, «Alma»].
+El alma humana fue creada a imagen y semejanza de Dios, dotada de entendimiento y voluntad libres. El fin del alma es la visión beatífica de Dios. El alma en gracia es morada de la Santísima Trinidad (inhabitación trinitaria), lo que constituye el fundamento de toda la vida espiritual y el fin de la perfección cristiana (TPCr, Primera Parte, Caps. I-III).
+
 
 ## Relaciones doctrinales
 

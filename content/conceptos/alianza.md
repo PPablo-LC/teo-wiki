@@ -19,16 +19,6 @@ La alianza con Noé expresa el principio de la Economía divina con las naciones
 
 [CEC §56-62, §2060, §2063, §2077, §1612-1617, §1660-1662]
 
-### Según Royo Marín (TPCr)
-
-La alianza está presente en la Eucaristía, que renueva la alianza del Señor con los hombres. La verdadera amistad es «una alianza de dos almas que se unen para obrar el bien». La alianza matrimonial es imagen de la unión de Cristo con la Iglesia.
-
-[TPCr, Parte III, Libro II, Cap. III, n.330; Cap. IV-V, n.656]
-
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-El término hebreo *berith* («alianza») aparece más de 280 veces en el AT. Sus orígenes son complejos, pero en Israel recibe un significado original: es una iniciativa libre y gratuita de Dios, que establece una relación personal con su pueblo, acompañada de promesas y exigencias éticas. La novedad del NT está en que la nueva alianza es sellada con la sangre de Jesucristo, inaugurando una relación interior y universal: ya no escrita en tablas de piedra sino en el corazón por la acción del Espíritu Santo [VocTeoBib, «Alianza»].
-
 ### Según el Compendio (CompDS)
 
 La Alianza es el compromiso constante que acompaña la gratuidad del actuar divino. Dios la propone e Israel la asume en el Sinaí, donde la iniciativa divina se plasma junto con el [[decálogo]] de los mandamientos revelados por el Señor [CompDS §22]. Las «diez palabras» expresan las implicaciones de la pertenencia a Dios instituida por la Alianza.
@@ -36,6 +26,16 @@ La Alianza es el compromiso constante que acompaña la gratuidad del actuar divi
 Del Decálogo deriva un compromiso que regula las relaciones sociales dentro del pueblo de la Alianza, especialmente el llamado «derecho del pobre» [CompDS §23]. El don de la liberación, la tierra prometida, la Alianza del Sinaí y el Decálogo están unidos por una praxis de [[justicia_social]] y [[solidaridad]].
 
 La fidelidad a la Alianza representa el principio regulador de las cuestiones relativas a la pobreza y la injusticia social, invocado para transformar la vida del pueblo de la Alianza conforme al [[designio_de_dios]] [CompDS §24]. El año sabático y el año jubilar son expresiones concretas de esta fidelidad [CompDS §24-§25]. El Dios de la Alianza, cantado en el Magníficat de María, derriba a los poderosos y exalta a los humildes [CompDS §59].
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+El término hebreo *berith* («alianza») aparece más de 280 veces en el AT. Sus orígenes son complejos, pero en Israel recibe un significado original: es una iniciativa libre y gratuita de Dios, que establece una relación personal con su pueblo, acompañada de promesas y exigencias éticas. La novedad del NT está en que la nueva alianza es sellada con la sangre de Jesucristo, inaugurando una relación interior y universal: ya no escrita en tablas de piedra sino en el corazón por la acción del Espíritu Santo [VocTeoBib, «Alianza»].
+
+### Según Royo Marín (TPCr)
+
+La alianza está presente en la Eucaristía, que renueva la alianza del Señor con los hombres. La verdadera amistad es «una alianza de dos almas que se unen para obrar el bien». La alianza matrimonial es imagen de la unión de Cristo con la Iglesia.
+
+[TPCr, Parte III, Libro II, Cap. III, n.330; Cap. IV-V, n.656]
+
 
 ## Distinciones importantes
 

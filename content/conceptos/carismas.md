@@ -21,10 +21,6 @@ El Espíritu Santo actúa de múltiples maneras en la edificación del Cuerpo de
 
 Los fieles tienen el derecho de manifestar a los pastores sus necesidades espirituales y sus deseos (c. 212 §2), y tienen el derecho de manifestar su opinión sobre lo que pertenece al bien de la Iglesia (c. 212 §3). Los fieles laicos, en virtud del bautismo, tienen el derecho de ejercer el apostolado individual o asociadamente (c. 225 §1, 216). Los carismas deben ser discernidos y regulados por la autoridad eclesiástica competente, a la que corresponde juzgar sobre su autenticidad y ordenado ejercicio (c. 223 §2, 605). No hay carisma que dispense de la comunión con el Romano Pontífice y con los obispos (c. 212 §1, 223 §2).
 
-### Según Royo Marín (TPCr)
-
-Las gracias gratis dadas se ordenan principalmente a la utilidad de los demás. Algunas se ordenan al provecho del que las recibe (visiones, revelaciones, raptos, éxtasis). Santo Tomás las trata extensamente. La hierognosis (discernimiento de objetos sagrados) y otros fenómenos extraordinarios pueden ser gracias gratis dadas (TPCr, Cuarta Parte, Caps. I-II).
-
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 El término «carisma» (*kharisma*, «don gratuito») designa en el NT los dones del Espíritu Santo otorgados para el bien común de la Iglesia. Pablo los trata extensamente en *1Cor 12-14*: hay diversidad de carismas pero un mismo Espíritu (*1Cor 12,4-11*). Los enumera: sabiduría, ciencia, fe, curaciones, milagros, profecía, discernimiento de espíritus, lenguas e interpretación (*12,8-10*). Pero la vía más excelente es la caridad (*1Cor 13*), sin la cual los carismas no valen nada. La clasificación de *Ef 4,11* menciona apóstoles, profetas, evangelistas, pastores y doctores. El carisma fundamental es el Espíritu Santo mismo, fuente de todos los dones [VocTeoBib, «Carisma»].
@@ -36,6 +32,10 @@ Lumen Gentium trata los [[carismas]] en LG §12 y §4. El mismo Espíritu Santo 
 Los dones extraordinarios no deben pedirse temerariamente ni esperarse con presunción. El juicio de su autenticidad y de su ejercicio razonable «pertenece a quienes tienen la autoridad en la Iglesia, a los cuales compete ante todo no sofocar el Espíritu, sino probarlo todo y retener lo que es bueno» [ConcVatII, LG §12]. El Espíritu Santo provee y gobierna la Iglesia con diversos dones jerárquicos y carismáticos y la embellece con sus frutos [ConcVatII, LG §4].
 
 Los sagrados Pastores deben «reconocer sus servicios y carismas de tal suerte que todos, a su modo, cooperen unánimemente en la obra común» [ConcVatII, LG §30].
+
+### Según Royo Marín (TPCr)
+
+Las gracias gratis dadas se ordenan principalmente a la utilidad de los demás. Algunas se ordenan al provecho del que las recibe (visiones, revelaciones, raptos, éxtasis). Santo Tomás las trata extensamente. La hierognosis (discernimiento de objetos sagrados) y otros fenómenos extraordinarios pueden ser gracias gratis dadas (TPCr, Cuarta Parte, Caps. I-II).
 
 ### Según el Regnum Christi / Legión de Cristo (LC-CARISMAS-2023)
 

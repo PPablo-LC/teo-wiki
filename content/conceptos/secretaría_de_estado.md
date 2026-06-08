@@ -13,6 +13,13 @@ La Secretaría de Estado tiene su origen en el siglo XV como organismo que centr
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC menciona la función de servicio de la Curia Romana y la Secretaría de Estado en el contexto del ministerio petrino y la unidad de la Iglesia (CEC §882, §936-937), aunque no desarrolla una exposición específica de este dicasterio.
+### Según el Código de Derecho Canónico (CIC)
+
+El c. 360 establece que la Curia Romana, por la cual el Romano Pontífice suele tratar los asuntos de la Iglesia universal, cumple su función en su nombre y con su autoridad para el bien y servicio de las Iglesias. El c. 361 aclara que el nombre de Sede Apostólica o Santa Sede comprende no solo al Romano Pontífice, sino también la Secretaría de Estado y otras instituciones de la Curia Romana.
+
 ### Según *Pastor Bonus* (arts. 39-47)
 
 La constitución apostólica *Pastor Bonus* (1988) reguló la Curia Romana y dedicó los arts. 39-47 a la Secretaría de Estado. Esta se define como el dicasterio que presta ayuda al Sumo Pontífice en el gobierno de la Iglesia universal (art. 39). La Sección para los Asuntos Generales (art. 40-43) se ocupa de las cuestiones ordinarias del servicio papal, la redacción de documentos, la gestión de los actos administrativos y la coordinación de los dicasterios. La Sección para las Relaciones con los Estados (art. 44-47) gestiona las relaciones diplomáticas con los Estados, firma concordatos y tratados, y representa a la Santa Sede en organizaciones internacionales.
@@ -21,13 +28,6 @@ La constitución apostólica *Pastor Bonus* (1988) reguló la Curia Romana y ded
 
 La constitución apostólica *Praedicate Evangelium* (2022) de Francisco, que sustituyó a *Pastor Bonus*, mantiene la estructura fundamental de la Secretaría de Estado como servicio papal directo, pero simplifica sus funciones y enfatiza su carácter misionero y de servicio a la evangelización. La Secretaría de Estado continúa siendo la instancia que coordina los dicasterios y gestiona las relaciones diplomáticas, con un renovado énfasis en la sinodalidad y la transparencia.
 
-### Según el Código de Derecho Canónico (CIC)
-
-El c. 360 establece que la Curia Romana, por la cual el Romano Pontífice suele tratar los asuntos de la Iglesia universal, cumple su función en su nombre y con su autoridad para el bien y servicio de las Iglesias. El c. 361 aclara que el nombre de Sede Apostólica o Santa Sede comprende no solo al Romano Pontífice, sino también la Secretaría de Estado y otras instituciones de la Curia Romana.
-
-### Según el Catecismo (CEC)
-
-El CEC menciona la función de servicio de la Curia Romana y la Secretaría de Estado en el contexto del ministerio petrino y la unidad de la Iglesia (CEC §882, §936-937), aunque no desarrolla una exposición específica de este dicasterio.
 
 ## Distinciones importantes
 

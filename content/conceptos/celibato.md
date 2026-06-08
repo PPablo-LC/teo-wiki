@@ -13,10 +13,6 @@ El celibato por el Reino de los Cielos tiene su fundamento en la palabra de Cris
 
 ## Perspectivas por fuente
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-El Decreto *Presbyterorum Ordinis* dedica un extenso número al celibato sacerdotal. La perfecta y perpetua continencia por el Reino de los cielos, recomendada por Cristo, siempre ha sido tenida en gran aprecio por la Iglesia, especialmente para la vida sacerdotal [ConcVatII, PO §16]. El celibato tiene mucha conformidad con el sacerdocio, pues toda la misión del sacerdote se dedica al servicio de la nueva humanidad que Cristo suscita [ConcVatII, PO §16]. Los presbíteros, por la virginidad o celibato conservado por el Reino de los cielos, se consagran a Cristo de una forma nueva, se unen a Él más fácilmente con corazón indiviso y se dedican más libremente al servicio de Dios y de los hombres [ConcVatII, PO §16]. El [[celibato]] es emblema y estímulo de la caridad pastoral y fuente peculiar de fecundidad espiritual [ConcVatII, PO §16]. No es exigido por la naturaleza del sacerdocio (como muestra la tradición de las Iglesias orientales), pero es muy conforme a él y la Iglesia Latina lo ha impuesto por ley [ConcVatII, PO §16].
-
 ### Según el Catecismo (CEC)
 
 Los consejos evangélicos incluyen la práctica de la castidad en el celibato por el Reino, la pobreza y la obediencia. La profesión de estos consejos caracteriza la vida consagrada (§915). La castidad debe calificar a las personas según los diferentes estados de vida: a unas en la virginidad o en el celibato consagrado, manera eminente de dedicarse más fácilmente a Dios solo con corazón indiviso (§2349).
@@ -26,6 +22,10 @@ Los ministros ordenados de la Iglesia latina son ordinariamente elegidos entre h
 En las Iglesias orientales, los obispos son elegidos entre célibes; varones casados pueden ser ordenados diáconos y presbíteros (§1580).
 
 [CEC §915, §1579-1580, §1599, §2349]
+
+### Según el Concilio Vaticano II (ConcVatII)
+
+El Decreto *Presbyterorum Ordinis* dedica un extenso número al celibato sacerdotal. La perfecta y perpetua continencia por el Reino de los cielos, recomendada por Cristo, siempre ha sido tenida en gran aprecio por la Iglesia, especialmente para la vida sacerdotal [ConcVatII, PO §16]. El celibato tiene mucha conformidad con el sacerdocio, pues toda la misión del sacerdote se dedica al servicio de la nueva humanidad que Cristo suscita [ConcVatII, PO §16]. Los presbíteros, por la virginidad o celibato conservado por el Reino de los cielos, se consagran a Cristo de una forma nueva, se unen a Él más fácilmente con corazón indiviso y se dedican más libremente al servicio de Dios y de los hombres [ConcVatII, PO §16]. El [[celibato]] es emblema y estímulo de la caridad pastoral y fuente peculiar de fecundidad espiritual [ConcVatII, PO §16]. No es exigido por la naturaleza del sacerdocio (como muestra la tradición de las Iglesias orientales), pero es muy conforme a él y la Iglesia Latina lo ha impuesto por ley [ConcVatII, PO §16].
 
 ### Según Royo Marín (TPCr)
 

@@ -31,15 +31,15 @@ El recogimiento infuso, por el contrario, es una suave atracción divina que rec
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC enseña que el recogimiento interior es necesario para la contemplación (§2711). «Es preciso entrar en el propio cuarto para orar al Padre en secreto (Mt 6,6), más aún, orar sin tregua (1 Ts 5,17)». La oración contemplativa es entrega amorosa a la voluntad del Padre (§2712).
 ### Según Royo Marín (TPCr)
 
 En el recogimiento infuso, Dios «con su hermosura y claridad infinita, lo atrae y embelesa» al entendimiento (n.556). «Por de fuera, o sea, objetivamente; mientras por dentro, con su omnipotente virtud, lo posee, cautiva y conforta, enriqueciéndole con los preciosos dones de ciencia, consejo e inteligencia» (Arintero, citado por Royo Marín, n.556).
 
 Santa Teresa advierte que no se debe suspender el discurso «hasta sentir claramente la invitación del Señor» (n.558). Si el Rey aún no nos ha oído ni nos ve, «no nos hemos de estar bobos» (Moradas cuartas 3, 4-5).
 
-### Según el Catecismo (CEC)
-
-El CEC enseña que el recogimiento interior es necesario para la contemplación (§2711). «Es preciso entrar en el propio cuarto para orar al Padre en secreto (Mt 6,6), más aún, orar sin tregua (1 Ts 5,17)». La oración contemplativa es entrega amorosa a la voluntad del Padre (§2712).
 
 ## Distinciones importantes
 

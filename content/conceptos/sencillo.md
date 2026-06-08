@@ -15,6 +15,10 @@ En el Nuevo Testamento, Jesús alaba la simplicidad del corazón en las bienaven
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La sencillez de corazón caracterizaba a la comunidad primitiva que «partían el pan con alegría y sencillez de corazón» (CEC §1342). San Pablo exhorta a dar «con sencillez» (§2004). La invocación del santo Nombre de Jesús es calificada como «el camino más sencillo de la oración continua» (§2667-§2668).
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 La simplicidad bíblica no es ingenuidad ni simpleza intelectual, sino integridad del corazón que se orienta enteramente a Dios. En el AT, los términos *tam* y *yashar* designan al hombre recto, simple, sin doblez. El salmista afirma: «Yo, en mi integridad he andado» (Sal 26,1).
@@ -22,10 +26,6 @@ La simplicidad bíblica no es ingenuidad ni simpleza intelectual, sino integrida
 La simplicidad se opone a la sabiduría astuta del mundo. El justo no necesita doblez porque confía en Dios. Jesús alaba al niño como modelo de simplicidad: «Dejad que los niños vengan a mí… porque de los tales es el Reino de los Cielos» (Mt 19,14). La simplicidad del niño es confianza sin reservas.
 
 Pablo recomienda la simplicidad respecto a Cristo: «Temo que, como la serpiente engañó a Eva con su astucia, se corrompan vuestros sentidos y se aparten de la simplicidad que es en Cristo» (2 Cor 11,3). La limpieza de corazón permite ver a Dios: no el ojo corporal, sino el ojo del alma purificado por la gracia.
-
-### Según el Catecismo (CEC)
-
-La sencillez de corazón caracterizaba a la comunidad primitiva que «partían el pan con alegría y sencillez de corazón» (CEC §1342). San Pablo exhorta a dar «con sencillez» (§2004). La invocación del santo Nombre de Jesús es calificada como «el camino más sencillo de la oración continua» (§2667-§2668).
 
 ### Según Royo Marín (TPCr)
 

@@ -33,10 +33,6 @@ El CIC recoge el principio del destino universal de los bienes al establecer que
 
 El principio del destino universal de los bienes tiene su raíz en Dios mismo: «Dios ha destinado la tierra y cuanto ella contiene para uso de todos los hombres y pueblos» [CompDS §171]. Es el «primer principio de todo el ordenamiento ético-social» [CompDS §172]. Es un derecho natural, originario, inherente a toda persona, prioritario respecto a cualquier ordenamiento jurídico [CompDS §172]. Todos los demás derechos, incluidos los de propiedad y comercio libre, están subordinados a este principio [CompDS §172]. No se opone al derecho de propiedad privada, sino que indica la necesidad de reglamentarlo: la propiedad privada es un instrumento para el destino universal de los bienes, un medio y no un fin [CompDS §177]. De ahí deriva la función social de la propiedad [CompDS §178]. El principio exige también una extensión a los nuevos bienes del progreso económico y tecnológico [CompDS §179].
 
-### Según Royo Marín (TPCr)
-
-Royo Marín no trata directamente este principio, pero su doctrina sobre el desprendimiento y la pobreza de espíritu se armoniza con la doctrina social de la Iglesia. La perfección cristiana exige el uso recto de los bienes temporales y la práctica de la [[virtud_de_la_templanza]].
-
 ### Según el Compendio (CompDS)
 
 El derecho a la propiedad privada está subordinado al principio del destino universal de los bienes y no debe constituir impedimento al trabajo y desarrollo de otros [CompDS §282]. La propiedad privada y pública deben garantizar una economía al servicio del hombre que ponga en práctica este principio [CompDS §283]. Los nuevos conocimientos y tecnologías, como forma particular de propiedad, tienen también un destino universal y deben insertarse en un contexto de normas jurídicas que garanticen su uso según criterios de justicia [CompDS §283]. Las riquezas, aunque poseídas legítimamente, conservan siempre un destino universal; toda forma de acumulación indebida es inmoral [CompDS §328]. El principio del destino universal de los bienes se aplica también al comercio internacional [CompDS §364] y a la solidaridad entre generaciones, haciendo moralmente ilícito descargar los costos actuales sobre las futuras generaciones [CompDS §367].
@@ -46,6 +42,10 @@ El derecho a la propiedad privada está subordinado al principio del destino uni
 GS 69: «Dios ha destinado la tierra y cuanto ella contiene para uso de todos los hombres y pueblos. En consecuencia, los bienes creados deben llegar a todos en forma equitativa bajo la égida de la justicia y con la compañía de la caridad.» El hombre, al usar los bienes que posee, «no debe tener las cosas exteriores que legítimamente posee como exclusivamente suyas, sino también como comunes, en el sentido de que no le aprovechen a él solamente, sino también a los demás». «Quien se halla en situación de necesidad extrema tiene derecho a tomar de la riqueza ajena lo necesario para sí.» El Concilio urge a particulares y autoridades a comunicar sus bienes, ayudando a los pobres «a que puedan ayudarse y desarrollarse por sí mismos».
 
 GS 71: «La misma propiedad privada tiene también, por su misma naturaleza, una índole social, cuyo fundamento reside en el destino común de los bienes.»
+
+### Según Royo Marín (TPCr)
+
+Royo Marín no trata directamente este principio, pero su doctrina sobre el desprendimiento y la pobreza de espíritu se armoniza con la doctrina social de la Iglesia. La perfección cristiana exige el uso recto de los bienes temporales y la práctica de la [[virtud_de_la_templanza]].
 
 ### Según la Encíclica Magnífica Humanitas (MH)
 

@@ -16,9 +16,6 @@ Es justo ofrecer a Dios sacrificios en señal de adoración y de gratitud, de s�
 ### Según el Catecismo (CEC)
 «Verdadero sacrificio es toda obra que se hace con el fin de unirnos a Dios en santa compañía» (CEC §2099, citando a San Agustín). El sacrificio exterior debe ser expresión del sacrificio espiritual: «Mi sacrificio es un espíritu contrito» (CEC §2100). El único sacrificio perfecto es el que ofreció Cristo en la cruz en ofrenda total al amor del Padre y por nuestra salvación. El sacrificio eucarístico es el memorial que hace presente el único sacrificio de Cristo (CEC §1362-1367). Todos los fieles, unidos a Cristo, ofrecen sacrificios espirituales agradables a Dios (CEC §901). La vida cristiana tiene su fuente y su cumbre en el sacrificio eucarístico (CEC §2031).
 
-### Según Royo Marín (TPCr)
-Jesucristo es la causa meritoria de la gracia, y su mérito está íntimamente ligado a su sacrificio redentor. La imposibilidad del linaje humano de satisfacer condignamente el pecado de Adán solo pudo ser superada por un Dios hecho hombre que ofreciera a la justicia divina una satisfacción plena (TPCr, Primera Parte, Cap. VII, n.57). La santa misa contiene las riquezas infinitas del sacrificio de Cristo, ofreciéndose al Padre como adoración, reparación, petición y acción de gracias (TPCr, Tercera Parte, Libro II, Cap. I). La mejor manera de dar gracias consiste en identificarse por el amor con Cristo y ofrecerle al Padre con todas sus infinitas riquezas.
-
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 El sacrificio en el AT incluye varias formas: holocausto, sacrificio de comunión, sacrificio por el pecado, sacrificio de reparación (Lv 1-7). La sangre de la víctima derramada sobre el altar expía los pecados (Lv 17,11). El rito más solemne es el del Yom Kippur, cuando el sumo sacerdote entra en el Santo de los Santos (Lv 16).
@@ -26,6 +23,9 @@ El sacrificio en el AT incluye varias formas: holocausto, sacrificio de comunió
 Los profetas denuncian el culto sacrificial sin justicia interior: «Aborrezco, desprecio vuestras fiestas… corra el juicio como las aguas» (Am 5,21-24). Oseas dice: «Misericordia quiero, no sacrificio» (Os 6,6). Los Salmos enseñan que el sacrificio agradable a Dios es el espíritu contrito (Sal 51,19).
 
 En el NT, el único sacrificio perfecto y definitivo es el de Cristo en la cruz (Heb 9-10). La carta a los Hebreos muestra cómo el sacrificio de Cristo supera infinitamente los sacrificios del AT: no necesita repetirse. La Eucaristía hace presente este sacrificio de modo incruento. El culto espiritual del cristiano es ofrecerse a sí mismo como «hostia viva, santa, agradable a Dios» (Rom 12,1).
+### Según Royo Marín (TPCr)
+Jesucristo es la causa meritoria de la gracia, y su mérito está íntimamente ligado a su sacrificio redentor. La imposibilidad del linaje humano de satisfacer condignamente el pecado de Adán solo pudo ser superada por un Dios hecho hombre que ofreciera a la justicia divina una satisfacción plena (TPCr, Primera Parte, Cap. VII, n.57). La santa misa contiene las riquezas infinitas del sacrificio de Cristo, ofreciéndose al Padre como adoración, reparación, petición y acción de gracias (TPCr, Tercera Parte, Libro II, Cap. I). La mejor manera de dar gracias consiste en identificarse por el amor con Cristo y ofrecerle al Padre con todas sus infinitas riquezas.
+
 
 ## Distinciones importantes
 

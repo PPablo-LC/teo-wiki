@@ -17,13 +17,13 @@ Toda la Iglesia es misionera por naturaleza (*Lumen Gentium* §1; *Ad Gentes* §
 
 El CEC §850-856 expone la misión como «manifestación del designio de Dios» (§850). Cristo es el modelo y fundamento de toda misión (§851). La Iglesia es misionera por su propia naturaleza (§852). Todos los fieles tienen responsabilidad misionera (§853). El testimonio de vida cristiana y el diálogo con las culturas son parte de la misión (§854-856).
 
+### Según el Concilio Vaticano II (ConcVatII)
+
+El Decreto *Ad Gentes* §1-6 desarrolla los principios doctrinales de la misión: la Iglesia es enviada por Dios a las naciones para ser sacramento universal de salvación (AG §1). La actividad misionera no es opcional sino que brota de la naturaleza misma de la Iglesia (AG §6). *Lumen Gentium* §17 establece que la Iglesia «es por su naturaleza misionera».
 ### Según Royo Marín (TPCr)
 
 Royo Marín, al tratar el apostolado, lo sitúa como exigencia de la [[caridad]] y de la incorporación a Cristo. El apostolado es participación en la misión salvífica de la Iglesia. Todo cristiano está llamado a cooperar en la extensión del Reino de Dios según su estado y condición. La perfección cristiana incluye necesariamente la dimensión apostólica.
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-El Decreto *Ad Gentes* §1-6 desarrolla los principios doctrinales de la misión: la Iglesia es enviada por Dios a las naciones para ser sacramento universal de salvación (AG §1). La actividad misionera no es opcional sino que brota de la naturaleza misma de la Iglesia (AG §6). *Lumen Gentium* §17 establece que la Iglesia «es por su naturaleza misionera».
 
 ## Distinciones importantes
 

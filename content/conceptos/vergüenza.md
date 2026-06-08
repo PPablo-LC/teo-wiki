@@ -15,6 +15,10 @@ En el NT, Jesús advierte: «El que se avergüence de mí y de mis palabras en e
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La vergüenza del pecado original es cubierta por la gracia del Bautismo, descrito como «vestidura, porque cubre nuestra vergüenza» (CEC §1216). Los confirmados reciben la fuerza para «no sentir jamás vergüenza de la cruz» y confesar valientemente a Cristo (§1304).
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 La vergüenza en el AT expresa la experiencia del pecado y del juicio. El salmista pide no ser avergonzado porque confía en Dios (Sal 25,2-3; 31,1). Los enemigos del justo serán cubiertos de vergüenza (Sal 35,26). La destrucción de Jerusalén trae vergüenza a Israel (Ez 16,52-54).
@@ -22,10 +26,6 @@ La vergüenza en el AT expresa la experiencia del pecado y del juicio. El salmis
 Los profetas prometen que la vergüenza de Sión se trocará en gloria (Is 54,4). La restauración mesiánica quita el oprobio del pueblo. En el NT, la cruz es «escándalo para los judíos y locura para los gentiles» (1 Cor 1,23), pero Pablo se gloría en la cruz. La vergüenza por el pecado es saludable cuando lleva al arrepentimiento.
 
 El cristiano no debe avergonzarse de dar testimonio del Señor (2 Tim 1,8). Pedro se avergonzó de Cristo durante la pasión, pero fue restaurado (Mc 14,66-72; Jn 21,15-17). La confianza filial excluye la vergüenza servil (Rom 8,15). En el juicio final, unos resucitarán para vergüenza eterna (Dan 12,2).
-
-### Según el Catecismo (CEC)
-
-La vergüenza del pecado original es cubierta por la gracia del Bautismo, descrito como «vestidura, porque cubre nuestra vergüenza» (CEC §1216). Los confirmados reciben la fuerza para «no sentir jamás vergüenza de la cruz» y confesar valientemente a Cristo (§1304).
 
 ### Según Royo Marín (TPCr)
 

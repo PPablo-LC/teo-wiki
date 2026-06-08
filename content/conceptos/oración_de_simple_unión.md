@@ -24,15 +24,15 @@ Santa Teresa la describe en las Moradas Quintas: «Acá no hay dormir de las pot
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC §2014 enseña que «el progreso espiritual tiende a la unión cada vez más íntima con Cristo. Esta unión se llama 'mística' porque participa del misterio de Cristo mediante los sacramentos y, en Él, del misterio de la Santísima Trinidad». La oración de unión es la realización eminente de esta vocación universal a la santidad.
 ### Según Royo Marín (TPCr)
 
 En la oración de simple unión, todas las potencias interiores quedan cautivas; solo quedan libres —aunque imperfectamente— los sentidos corporales exteriores, que quedarán cautivos también al sobrevenir la unión extática. Esta diferencia (aparte del grado de intensidad de la luz contemplativa) es lo que distingue la unión simple de la unión extática (n.564).
 
 La conducta práctica (n.572) consiste en secundar dócilmente la acción divina, sin adelantarse ni retrasarse; humillarse profundamente; no desear ni pedir estos dones; huir de las ocasiones de pecado.
 
-### Según el Catecismo (CEC)
-
-El CEC §2014 enseña que «el progreso espiritual tiende a la unión cada vez más íntima con Cristo. Esta unión se llama 'mística' porque participa del misterio de Cristo mediante los sacramentos y, en Él, del misterio de la Santísima Trinidad». La oración de unión es la realización eminente de esta vocación universal a la santidad.
 
 ## Distinciones importantes
 

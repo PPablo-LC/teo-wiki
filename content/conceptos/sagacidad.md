@@ -13,11 +13,11 @@ Según Santo Tomás, la prudencia tiene ocho partes integrales para su perfecto 
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+No se menciona explícitamente la sagacidad como término técnico, pero la doctrina de la prudencia en el CEC (§1806) incluye implícitamente la necesidad de considerar las circunstancias para aplicar rectamente los principios morales.
 ### Según Royo Marín (TPCr)
 La sagacidad es una de las cinco partes integrales de la prudencia en cuanto virtud intelectual o cognoscitiva (TPCr, Tercera Parte, Libro II, Cap. II, n.431). Las partes integrales de la prudencia son: memoria de lo pasado, inteligencia de lo presente, docilidad, sagacidad y razón para el aspecto cognoscitivo; y providencia, circunspección y cautela para el aspecto práctico. En la vida espiritual, se requiere una gran sagacidad sobrenatural para distinguir el oro del oropel, es decir, para discernir entre las verdaderas mociones divinas y aquellas que se mezclan con elementos puramente humanos o diabólicos (TPCr, Tercera Parte, Libro II, Caps. IV-V). La precipitación en el juzgar es defecto opuesto a la sagacidad: se omite el escalón de la sagacidad en la consideración de las posibles eventualidades antes de emitir un juicio.
 
-### Según el Catecismo (CEC)
-No se menciona explícitamente la sagacidad como término técnico, pero la doctrina de la prudencia en el CEC (§1806) incluye implícitamente la necesidad de considerar las circunstancias para aplicar rectamente los principios morales.
 
 ## Distinciones importantes
 

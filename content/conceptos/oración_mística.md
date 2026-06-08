@@ -28,13 +28,13 @@ Presencia de Dios sentida, invasión de lo sobrenatural, pasividad del alma, con
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC §2014 habla del camino de la perfección. La oración mística es el desarrollo normal de la gracia bautismal.
 ### Según Royo Marín (TPCr)
 
 Nadie puede determinar con sus esfuerzos la especie de unión mística; depende enteramente de Dios (n.537). Ordinariamente no se puede interrumpir la experiencia mística por un simple querer interior (n.539). La oración mística puede durar varias horas, con fluctuaciones de intensidad; a veces no más que un instante (toque místico).
 
-### Según el Catecismo (CEC)
-
-El CEC §2014 habla del camino de la perfección. La oración mística es el desarrollo normal de la gracia bautismal.
 
 ## Distinciones importantes
 

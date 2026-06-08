@@ -17,13 +17,13 @@ La comunidad cristiana no es una mera asociación humana sino el Cuerpo Místico
 
 La Iglesia es «comunidad de fe, esperanza y caridad» (§1878). La comunión se realiza en primer lugar en la liturgia y la Palabra. La Eucaristía es fuente y cumbre de la vida comunitaria (§1324, §1407). La comunidad cristiana es «lugar de comunión fraterna» (§1886). Las comunidades eclesiales se estructuran jerárquicamente para el bien de la comunión (§874-879). La familia es «comunidad doméstica» (§2204-2207). La participación en la vida social es exigencia de la caridad (§1913-1918). El principio de subsidiariedad regula la relación entre comunidad y personas (§1883, §1894).
 
+### Según la Doctrina Social de la Iglesia (DSI)
+
+El principio de solidaridad: todos los hombres son responsables unos de otros. El principio de subsidiariedad: las comunidades superiores no deben absorber a las inferiores. La comunidad política debe servir al bien común. La caridad social impulsa la construcción de una sociedad más justa.
 ### Según Royo Marín (TPCr)
 
 La vida en gracia une a todos los miembros de la Iglesia en la comunión de los santos. La caridad fraterna es señal de la verdadera comunidad cristiana. La perfección cristiana no se alcanza en el aislamiento sino en la comunión eclesial (TPCr, Tercera Parte, Libro II).
 
-### Según la Doctrina Social de la Iglesia (DSI)
-
-El principio de solidaridad: todos los hombres son responsables unos de otros. El principio de subsidiariedad: las comunidades superiores no deben absorber a las inferiores. La comunidad política debe servir al bien común. La caridad social impulsa la construcción de una sociedad más justa.
 
 ## Distinciones importantes
 

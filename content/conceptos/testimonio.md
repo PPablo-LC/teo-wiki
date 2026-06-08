@@ -19,10 +19,9 @@ El testimonio cristiano se distingue del testimonio judicial o forense, aunque c
 
 El CEC §2472 establece que «el deber de los cristianos de tomar parte en la vida de la Iglesia los impulsa a actuar como testigos del Evangelio y a las obligaciones que se derivan de aceptar el testimonio». El octavo mandamiento exige la veracidad y el testimonio de la fe (§2464). El martirio es el supremo testimonio de la verdad de la fe (§2473-2474). El cristiano debe profesar su fe sin ambigüedad incluso cuando el silencio constituiría una negación tácita de la verdad.
 
-### Según Royo Marín (TPCr)
+### Según el Código de Derecho Canónico (CIC)
 
-Royo Marín sitúa el testimonio en el contexto de la virtud de la religión y la veracidad. La confesión externa de la fe es obligatoria cuando está en juego el honor de Dios o la salvación del prójimo. El testimonio de vida es parte esencial del apostolado cristiano, que brota de la unión vital con Cristo. La perfección cristiana exige la prontitud para dar testimonio incluso hasta el martirio.
-
+Los cc. 1548-1549 regulan el testimonio judicial en el ámbito canónico. El c. 1548 establece el deber de decir la verdad y la obligación de testificar cuando es requerido por la autoridad legítima. El c. 1549 determina quiénes están exentos de testificar (clérigos por lo que saben por confesión, entre otros). El testimonio falso en sede judicial constituye delito.
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 El testimonio en el AT se expresa con la palabra *'edut*. Los mandamientos de la Ley son el «testimonio» de la Alianza. El tabernáculo es el «tabernáculo del testimonio» (Éx 38,21). Los profetas son testigos de Dios ante el pueblo. El justo da testimonio de la justicia de Dios con su vida.
@@ -31,13 +30,14 @@ En el NT, los apóstoles son testigos de la resurrección (Hch 1,22). El martiri
 
 La palabra «mártir» adquiere en el NT el sentido de testigo que sella con la sangre su fe. El Apocalipsis presenta a los mártires como los que han vencido por la sangre del Cordero y la palabra de su testimonio (Ap 12,11). El testimonio cristiano incluye la confesión de la fe, la predicación y la coherencia de vida.
 
+### Según Royo Marín (TPCr)
+
+Royo Marín sitúa el testimonio en el contexto de la virtud de la religión y la veracidad. La confesión externa de la fe es obligatoria cuando está en juego el honor de Dios o la salvación del prójimo. El testimonio de vida es parte esencial del apostolado cristiano, que brota de la unión vital con Cristo. La perfección cristiana exige la prontitud para dar testimonio incluso hasta el martirio.
+
 ### Según Henri de Lubac (PoF)
 
 De Lubac distingue radicalmente el testimonio de la propaganda y la popularización: «El testimonio es lo opuesto a la propaganda y a la popularización» [PoF, cap. 3]. El problema esencial del apostolado no es lo que el apóstol *hace* sino lo que el apóstol *es*; de la plenitud del corazón habla el que testimonia, dirigiéndose a personas concretas, no a «el público». El testimonio irradia y atrae por sí mismo, no por técnicas de comunicación. El diálogo con el no creyente debe comenzar como diálogo consigo mismo [PoF, cap. 3].
 
-### Según el Código de Derecho Canónico (CIC)
-
-Los cc. 1548-1549 regulan el testimonio judicial en el ámbito canónico. El c. 1548 establece el deber de decir la verdad y la obligación de testificar cuando es requerido por la autoridad legítima. El c. 1549 determina quiénes están exentos de testificar (clérigos por lo que saben por confesión, entre otros). El testimonio falso en sede judicial constituye delito.
 
 ## Distinciones importantes
 

@@ -17,13 +17,13 @@ La Iglesia enseña que la vida humana es sagrada desde su concepción hasta su m
 
 «La vida humana es sagrada porque desde su inicio es fruto de la acción creadora de Dios y permanece siempre en una especial relación con el Creador» (CEC 2258). Dios es el Señor de la vida: «A nadie debe el hombre permitirse matar a un ser humano inocente. El derecho a la vida es inherente a la persona humana desde el primer instante de su existencia» (CEC 2270). El embrión debe ser tratado como persona desde la concepción (CEC 2274).
 
-### Según Jorge Loring (PS)
-
-La procreación humana es una participación especial de los padres en la obra creadora de Dios. «Solo Dios puede dar el alma espiritual, que no puede salir de la materia. El alma es creada por Dios». La vida del hombre no es solo corpórea, sino que el alma es inmortal. El hijo es fruto del amor de los padres, pero el alma es creada directamente por Dios.
-
 ### Según la Doctrina Social de la Iglesia (DSI)
 
 DSI 113 enseña que «Dios creó al ser humano a su imagen y semejanza (Gn 1, 26-27)», y que la persona humana goza de una «dignidad trascendente por estar creada a imagen y semejanza de Dios». Esta dignidad incluye su origen en el acto creador de Dios, que cada nacimiento renueva. El derecho a la vida está en la base de todos los demás derechos humanos.
+
+### Según Jorge Loring (PS)
+
+La procreación humana es una participación especial de los padres en la obra creadora de Dios. «Solo Dios puede dar el alma espiritual, que no puede salir de la materia. El alma es creada por Dios». La vida del hombre no es solo corpórea, sino que el alma es inmortal. El hijo es fruto del amor de los padres, pero el alma es creada directamente por Dios.
 
 ### Según el análisis de conferencias (notas)
 

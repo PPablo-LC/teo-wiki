@@ -13,13 +13,13 @@ La circuminsesión expresa la unidad de la naturaleza divina y la distinción de
 
 ## Perspectivas por fuente
 
-### Según la Summa Theologiae (SmTh)
-
-Santo Tomás trata la inhabitación mutua de las personas divinas en SmTh Iª q.42 a.5. El Hijo está en el Padre y el Padre en el Hijo según tres aspectos: (1) en cuanto a la esencia, porque el Padre comunica su esencia al Hijo, y donde está la esencia están ambos; (2) en cuanto a las relaciones, porque cada uno de los opuestos relativos entra en el concepto del otro; (3) en cuanto al origen, porque la procesión de la Palabra inteligible no es hacia el exterior sino que permanece en el que la pronuncia. Lo mismo se aplica al Espíritu Santo. La igualdad entre las personas (q.42 a.1) es presupuesto de la circuminsesión: al tener la misma cantidad virtual (perfección de naturaleza) y la misma esencia, las personas pueden estar mutuamente presentes unas en otras. El orden de naturaleza (q.42 a.3) no implica prioridad temporal sino solo orden de origen, compatible con la mutua inhabitación.
-
 ### Según el Catecismo (CEC)
 
 Las Personas divinas son relativas unas a otras: «No se trata de una división de la unidad divina, sino de una comunión mutua» [CEC §255]. «A causa de esta unidad, el Padre está todo en el Hijo, todo en el Espíritu Santo; el Hijo está todo en el Padre, todo en el Espíritu Santo; el Espíritu Santo está todo en el Padre, todo en el Hijo» [CEC §255]. La circuminsesión es el fundamento de la inhabitación de la Trinidad en el alma del justo [CEC §260].
+
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata la inhabitación mutua de las personas divinas en SmTh Iª q.42 a.5. El Hijo está en el Padre y el Padre en el Hijo según tres aspectos: (1) en cuanto a la esencia, porque el Padre comunica su esencia al Hijo, y donde está la esencia están ambos; (2) en cuanto a las relaciones, porque cada uno de los opuestos relativos entra en el concepto del otro; (3) en cuanto al origen, porque la procesión de la Palabra inteligible no es hacia el exterior sino que permanece en el que la pronuncia. Lo mismo se aplica al Espíritu Santo. La igualdad entre las personas (q.42 a.1) es presupuesto de la circuminsesión: al tener la misma cantidad virtual (perfección de naturaleza) y la misma esencia, las personas pueden estar mutuamente presentes unas en otras. El orden de naturaleza (q.42 a.3) no implica prioridad temporal sino solo orden de origen, compatible con la mutua inhabitación.
 
 ### Según Royo Marín (TPCr)
 

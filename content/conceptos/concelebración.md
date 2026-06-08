@@ -23,13 +23,13 @@ Cada sacerdote conserva la facultad de celebrar individualmente, pero no al mism
 
 ## Perspectivas por fuente
 
+### Según el Código de Derecho Canónico (CIC)
+
+El canon 902 establece que los sacerdotes pueden concelebrar la Eucaristía, quedando a salvo su facultad de celebrarla individualmente. La concelebración se recomienda especialmente cuando la necesidad pastoral no exija la celebración individual.
 ### Según el Concilio Vaticano II (ConcVatII)
 
 SC 57-58 regula la concelebración como manifestación de la unidad del sacerdocio. La facultad de concelebrar se amplía respecto a la disciplina anterior, pero se mantiene la libertad de celebrar individualmente.
 
-### Según el Código de Derecho Canónico (CIC)
-
-El canon 902 establece que los sacerdotes pueden concelebrar la Eucaristía, quedando a salvo su facultad de celebrarla individualmente. La concelebración se recomienda especialmente cuando la necesidad pastoral no exija la celebración individual.
 
 ## Distinciones importantes
 

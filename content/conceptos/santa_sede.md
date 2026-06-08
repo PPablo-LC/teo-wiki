@@ -9,6 +9,9 @@ La Santa Sede o Sede Apostólica es el órgano supremo de gobierno de la Iglesia
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Sumo Pontífice, obispo de Roma y sucesor de san Pedro, es el principio y fundamento perpetuo y visible de unidad de los obispos y de los fieles (CEC §882). Tiene en la Iglesia, en virtud de su función de Vicario de Cristo y Pastor de toda la Iglesia, la potestad plena, suprema y universal, que puede ejercer siempre con entera libertad (CEC §882). Goza de la infalibilidad cuando, como Pastor y Maestro supremo, proclama por un acto definitivo la doctrina en cuestiones de fe y moral (CEC §891).
 ### Según el Código de Derecho Canónico (CIC)
 
 El Romano Pontífice, en quien permanece la función encomendada singularmente a Pedro, es cabeza del Colegio de los Obispos, Vicario de Cristo y Pastor de la Iglesia universal en la tierra; tiene potestad ordinaria, suprema, plena, inmediata y universal, que puede ejercer siempre libremente (c. 331). En virtud de su oficio tiene la primacía de potestad ordinaria sobre todas las Iglesias particulares y sus agrupaciones (c. 333 §1).
@@ -17,9 +20,6 @@ El nombre de Sede Apostólica o Santa Sede comprende no solo al Romano Pontífic
 
 Así como San Pedro y los Apóstoles constituyen un Colegio, de igual modo están unidos el Romano Pontífice y los Obispos (c. 330). No cabe apelación ni recurso contra una sentencia o decreto del Romano Pontífice (c. 333 §3).
 
-### Según el Catecismo (CEC)
-
-El Sumo Pontífice, obispo de Roma y sucesor de san Pedro, es el principio y fundamento perpetuo y visible de unidad de los obispos y de los fieles (CEC §882). Tiene en la Iglesia, en virtud de su función de Vicario de Cristo y Pastor de toda la Iglesia, la potestad plena, suprema y universal, que puede ejercer siempre con entera libertad (CEC §882). Goza de la infalibilidad cuando, como Pastor y Maestro supremo, proclama por un acto definitivo la doctrina en cuestiones de fe y moral (CEC §891).
 
 ## Relaciones doctrinales
 

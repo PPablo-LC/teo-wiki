@@ -17,12 +17,6 @@ El gozo cristiano no depende de las circunstancias exteriores, sino de la inhabi
 
 El CEC menciona la alegría como consecuencia de la fe en la Providencia divina (§301). La bienaventuranza cristiana es la felicidad del hombre que consiste en conocer, servir y amar a Dios (§1720-1724). Los frutos del Espíritu Santo son primicias de la gloria eterna (§1832). David es presentado como modelo de oración: su alabanza es confianza cordial y gozosa (§2579). El Magníficat de María es cántico de acción de gracias y de gozo espiritual (§2619-2622).
 
-### Según Royo Marín (TPCr)
-
-Royo Marín trata el gozo principalmente como fruto del Espíritu Santo. La contemplación infusa produce un gozo inefable, «una elevación y una suspensión del espíritu en Dios que es un anticipo de las dulces alegrías eternas». El gozo espiritual es señal de que la gracia actúa en el alma. Los santos experimentan un gozo profundo incluso en medio del dolor, porque su alegría no está en las criaturas sino en Dios. Las alimas que viven la presencia de Dios gozan de una paz y un gozo estables.
-
-[TPCr, Tercera Parte, Libro II, Cap. 3; referencias sobre el gozo espiritual]
-
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás distingue el gozo (*gaudium*) de la delectación (*delectatio*): el gozo es la delectación espiritual que sigue a la razón, mientras que la delectación puede ser también corporal (q.31 a.3). El gozo reside en el apetito intelectivo (la voluntad), no en el apetito sensitivo, y no implica mutación corporal (q.31 a.4). Es el reposo en el bien poseído, pasión del concupiscible.
@@ -30,6 +24,12 @@ Santo Tomás distingue el gozo (*gaudium*) de la delectación (*delectatio*): el
 En cuanto a su moralidad, no toda delectación es buena ni toda es mala: la bondad o malicia del gozo depende de su objeto y de su conformidad con la razón (q.34 a.1). El gozo por el bien honesto y espiritual es bueno; la delectación en lo contrario a la razón es mala (q.34 a.2). La delectación en el bien perfecto (Dios) es lo óptimo entre los bienes humanos (q.34 a.3).
 
 [SmTh Ia-IIae q.31, q.34]
+### Según Royo Marín (TPCr)
+
+Royo Marín trata el gozo principalmente como fruto del Espíritu Santo. La contemplación infusa produce un gozo inefable, «una elevación y una suspensión del espíritu en Dios que es un anticipo de las dulces alegrías eternas». El gozo espiritual es señal de que la gracia actúa en el alma. Los santos experimentan un gozo profundo incluso en medio del dolor, porque su alegría no está en las criaturas sino en Dios. Las alimas que viven la presencia de Dios gozan de una paz y un gozo estables.
+
+[TPCr, Tercera Parte, Libro II, Cap. 3; referencias sobre el gozo espiritual]
+
 
 ## Distinciones importantes
 

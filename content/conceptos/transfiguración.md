@@ -15,6 +15,10 @@ El relato evoca el Sinaí: la nube, la voz divina, el monte. La presencia de Moi
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La Transfiguración es una visión anticipada del Reino y de la gloria divina de Cristo, que confirma la confesión de Pedro y muestra que para entrar en la gloria es necesario pasar por la Cruz (CEC §554-§555). Es «sacramento de la segunda regeneración», nuestra propia resurrección (§556). En ella se manifiesta la Trinidad: el Padre en la voz, el Hijo en el hombre, el Espíritu Santo en la nube luminosa (§555, §697). Fortalece la fe de los apóstoles ante la Pasión (§568).
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 La Transfiguración es una epifanía del Reino de Dios presente en Jesús. Pedro propone hacer tres tiendas, evocando la Fiesta de los Tabernáculos, que tenía carácter mesiánico. Marcos sitúa la Transfiguración seis días después de la confesión de Pedro y del primer anuncio de la pasión (Mc 8,27-9,1).
@@ -22,10 +26,6 @@ La Transfiguración es una epifanía del Reino de Dios presente en Jesús. Pedro
 La nube luminosa que cubre el monte es la Shekiná, la presencia de Dios. La voz del Padre confirma a Jesús como Hijo amado, eco del Bautismo. El mandato «escuchadle» remite a Dt 18,15: el profeta escatológico a quien hay que oír.
 
 La Transfiguración anticipa la parusía. Pedro la recordará en su segunda carta como confirmación de la potencia y venida de Cristo (2 Pe 1,16-18). El rostro de Jesús resplandece «como el sol» (Mt 17,2), imagen de la gloria divina. Juan se refiere a la gloria del Verbo encarnado (Jn 1,14), que los discípulos contemplaron.
-
-### Según el Catecismo (CEC)
-
-La Transfiguración es una visión anticipada del Reino y de la gloria divina de Cristo, que confirma la confesión de Pedro y muestra que para entrar en la gloria es necesario pasar por la Cruz (CEC §554-§555). Es «sacramento de la segunda regeneración», nuestra propia resurrección (§556). En ella se manifiesta la Trinidad: el Padre en la voz, el Hijo en el hombre, el Espíritu Santo en la nube luminosa (§555, §697). Fortalece la fe de los apóstoles ante la Pasión (§568).
 
 ### Según Royo Marín (TPCr)
 

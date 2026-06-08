@@ -9,12 +9,6 @@ Las virtudes teologales son las tres virtudes infusas que tienen a Dios mismo co
 
 ## Perspectivas por fuente
 
-### Según Para Salvarte (PS)
-
-El P. Jorge Loring enseña que la gracia santificante nos concede las virtudes teologales y morales. Define las virtudes teologales de modo sencillo y directo: la fe es «aceptar todo lo que Dios ha revelado»; la esperanza es «confiar en que Dios me ayudará a salvar mi alma»; la caridad es «amar a Dios y al prójimo como a mí mismo» (PS §09,42,1).
-
-Estas tres virtudes tienen a Dios mismo por objeto y son infundidas con la gracia santificante. Constituyen el fundamento de toda la vida moral sobrenatural y el principio que anima todas las demás virtudes.
-
 ### Según la Summa Theologiae (SmTh)
 
 **Naturaleza de las virtudes teologales (Iª-IIae q.62):** Las virtudes teologales son aquellas que tienen a Dios mismo como objeto (a.1): el fin último sobrenatural excede la capacidad de la naturaleza humana, por lo que el hombre necesita principios sobrenaturales para tender a él. Estas virtudes son superiores a las virtudes intelectuales y morales porque su objeto es Dios mismo. Se llaman teologales no solo porque tienen a Dios por objeto, sino porque son infundidas directamente por Él y solo por la revelación divina podemos conocerlas.
@@ -30,6 +24,12 @@ Estas tres virtudes tienen a Dios mismo por objeto y son infundidas con la graci
 **Conexión de las virtudes teologales con las morales (q.62 a.3; q.63 a.3):** Las virtudes teologales son el fundamento de toda la vida moral sobrenatural. Junto con ellas se infunden también las virtudes morales infusas, que están a las teologales como las adquiridas están a los principios naturales de la razón.
 
 [SmTh Iª-IIae q.62]
+### Según Para Salvarte (PS)
+
+El P. Jorge Loring enseña que la gracia santificante nos concede las virtudes teologales y morales. Define las virtudes teologales de modo sencillo y directo: la fe es «aceptar todo lo que Dios ha revelado»; la esperanza es «confiar en que Dios me ayudará a salvar mi alma»; la caridad es «amar a Dios y al prójimo como a mí mismo» (PS §09,42,1).
+
+Estas tres virtudes tienen a Dios mismo por objeto y son infundidas con la gracia santificante. Constituyen el fundamento de toda la vida moral sobrenatural y el principio que anima todas las demás virtudes.
+
 
 ## Relaciones doctrinales
 

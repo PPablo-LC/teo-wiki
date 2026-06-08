@@ -13,13 +13,13 @@ La incorruptibilidad de los cuerpos de los santos es un fenómeno extraordinario
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Catecismo afirma que «se siembra en el sepulcro un cuerpo corruptible, resucita un cuerpo incorruptible» (§1017), citando 1 Cor 15,42. La incorrupción del cuerpo de Cristo se debe a que «la virtud divina preservó de la corrupción al cuerpo de Cristo» (§627).
 ### Según Royo Marín (TPCr)
 
 Royo Marín trata los fenómenos corporales de los santos en la Parte IV, Capítulo 2. Explica la incorruptibilidad como una especie de incorruptibilidad anticipada de los cuerpos gloriosos. Los suaves aromas que exhalan los santos son una consecuencia espontánea del estado de divinización del alma o una comunicación anticipada de las perfecciones del cuerpo glorioso. La luminosidad comprobada en algunos santos es una especie de irradiación exterior de la intensa sobrenaturalización del alma.
 
-### Según el Catecismo (CEC)
-
-El Catecismo afirma que «se siembra en el sepulcro un cuerpo corruptible, resucita un cuerpo incorruptible» (§1017), citando 1 Cor 15,42. La incorrupción del cuerpo de Cristo se debe a que «la virtud divina preservó de la corrupción al cuerpo de Cristo» (§627).
 
 ## Distinciones importantes
 

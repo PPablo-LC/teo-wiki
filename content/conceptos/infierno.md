@@ -19,13 +19,13 @@ La pena principal del infierno es la "pena de daño": la separación eterna de D
 
 El CEC dedica un artículo al infierno (§1033-1037). Afirma la existencia y eternidad del infierno (§1035). Las afirmaciones sobre el infierno son un llamamiento apremiante a la conversión (§1036). La pena principal consiste en la separación eterna de Dios (§1035, §1057). Cristo descendió a los infiernos para liberar a los justos que le habían precedido, no para destruir el infierno de la condenación (§631-637).
 
+### Según Royo Marín (TPCr)
+
+Royo Marín trata el infierno en el contexto de la lucha contra el pecado. Un solo pecado mortal merece el infierno eterno, demostrando así la gravedad infinita del pecado (TPCr, Tercera Parte, Libro I, Cap. I). La consideración del infierno y sus penas es un motivo útil para la lucha ascética y la perseverancia. Los santos, sin embargo, aman a Dios con un amor tan puro que incluso preferirían estar en el infierno si allí pudieran amarle más (TPCr, Tercera Parte, Libro II, Cap. II).
 ### Según Para Salvarte (PS)
 
 Loring enseña que el infierno «es el conjunto de todos los males sin mezcla de bien alguno» [PS §99]. Su existencia es dogma de fe, definido en el Concilio IV de Letrán. Cristo habla quince veces del infierno en el Evangelio y catorce veces menciona el fuego. La pena principal es la «pena de daño» —la privación eterna de Dios— que San Juan Crisóstomo considera mil veces peor que el fuego [PS §99,1]. El infierno no es un castigo arbitrario de Dios, sino la consecuencia de la libertad humana que rechaza a Dios: «El infierno es el respeto de Dios por tu última voluntad» [PS §99,3]. Dios no predestina a nadie al infierno, pero el hombre puede libremente elegirlo. El infierno es eterno porque la muerte fija irrevocablemente el estado del alma, y sin arrepentimiento no es posible la reparación [PS §99,1-99,2].
 
-### Según Royo Marín (TPCr)
-
-Royo Marín trata el infierno en el contexto de la lucha contra el pecado. Un solo pecado mortal merece el infierno eterno, demostrando así la gravedad infinita del pecado (TPCr, Tercera Parte, Libro I, Cap. I). La consideración del infierno y sus penas es un motivo útil para la lucha ascética y la perseverancia. Los santos, sin embargo, aman a Dios con un amor tan puro que incluso preferirían estar en el infierno si allí pudieran amarle más (TPCr, Tercera Parte, Libro II, Cap. II).
 
 ## Distinciones importantes
 

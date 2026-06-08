@@ -13,13 +13,13 @@ La unidad es una propiedad trascendental del ser: todo ser es uno en cuanto indi
 
 ## Perspectivas por fuente
 
-### Según la Summa Theologiae (SmTh)
-
-Santo Tomás trata la unidad de Dios en SmTh Iª q.11. El uno no añade nada al ser, sino solo la negación de división: uno significa «ser indiviso» (a.1). Hay oposición entre uno y múltiple (a.2): la multitud se opone a la unidad como la división a la indivisión, pero la multitud participa de la unidad en cuanto que cada múltiplo es uno en sí mismo. Dios es uno (a.3) por tres razones: por su simplicidad (carece de composición), por la infinitud de su perfección (que no puede ser comunicada a muchos), y por la unidad del mundo (todo converge a un solo orden). Dios es uno en grado sumo (a.4): es la unidad misma, no solo uno por participación. La unidad divina es el principio de toda unidad creada.
-
 ### Según el Catecismo (CEC)
 
 «Dios, nuestro Salvador, es único» (CEC §200). La Iglesia cree en un solo Dios, Creador del cielo y de la tierra, todopoderoso (§198-201). La fe en un solo Dios es el fundamento de la fe cristiana: «Escucha, Israel: el Señor nuestro Dios es el único Señor» (Dt 6,4; CEC §201). Dios se ha revelado como el único viviente, inmenso, inmutable e inefable (§201).
+
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata la unidad de Dios en SmTh Iª q.11. El uno no añade nada al ser, sino solo la negación de división: uno significa «ser indiviso» (a.1). Hay oposición entre uno y múltiple (a.2): la multitud se opone a la unidad como la división a la indivisión, pero la multitud participa de la unidad en cuanto que cada múltiplo es uno en sí mismo. Dios es uno (a.3) por tres razones: por su simplicidad (carece de composición), por la infinitud de su perfección (que no puede ser comunicada a muchos), y por la unidad del mundo (todo converge a un solo orden). Dios es uno en grado sumo (a.4): es la unidad misma, no solo uno por participación. La unidad divina es el principio de toda unidad creada.
 
 ### Según Royo Marín (TPCr)
 

@@ -98,19 +98,19 @@ De aquí se sigue que los fieles cristianos, aun los laicos o seglares, están a
 
 ## Perspectivas por fuente
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-*Sacrosanctum Concilium* dedica el capítulo III a los sacramentos y sacramentales (SC 59-82). Los sacramentos están ordenados a la santificación de los hombres, a la edificación del Cuerpo de Cristo y a dar culto a Dios (SC 59). No solo suponen la fe, sino que la alimentan, robustecen y expresan (SC 59). La liturgia de los sacramentos hace que casi todos los actos de la vida sean santificados por la gracia divina que emana del misterio pascual (SC 61). El Concilio ordena la restauración del catecumenado de adultos (SC 64), la revisión de los ritos del bautismo (SC 66-70), confirmación (SC 71), penitencia (SC 72), unción de enfermos (SC 73-75), orden (SC 76), matrimonio (SC 77-78), y sacramentales (SC 79).
-
-### Según el Código de Derecho Canónico (CIC)
-
-El CIC regula los sacramentos en los cánones 840-848 como principios comunes. Son «acciones de Cristo y de la Iglesia», signos y medios que expresan y fortalecen la fe, rinden culto a Dios y realizan la santificación, contribuyendo a la comunión eclesiástica (c. 840). La autoridad suprema de la Iglesia define lo requerido para su validez; la autoridad competente establece lo relativo a su celebración lícita (c. 841). Nadie que no haya recibido el bautismo puede ser admitido válidamente a los demás sacramentos (c. 842 §1). Bautismo, confirmación y eucaristía están íntimamente unidos como necesarios para la plena iniciación cristiana (c. 842 §2). Los ministros sagrados no pueden negar los sacramentos a quienes los pidan oportunamente (c. 843 §1). En caso de necesidad, los fieles pueden recibir penitencia, eucaristía y unción de ministros no católicos cuyos sacramentos sean válidos (c. 844). Bautismo, confirmación y orden imprimen carácter indeleble y no pueden reiterarse (c. 845). La celebración debe ajustarse a los libros litúrgicos aprobados (c. 846). El ministro no debe pedir nada por la administración de los sacramentos (c. 848).
-
 ### Según el Catecismo (CEC)
 
 Los sacramentos son «signos eficaces de la gracia, instituidos por Cristo y confiados a la Iglesia por los cuales nos es dispensada la vida divina» (§1131). Son siete: Bautismo, Confirmación, Eucaristía, Penitencia, Unción de los enfermos, Orden sacerdotal y Matrimonio (§1113). Corresponden a todas las etapas de la vida del cristiano: «dan nacimiento y crecimiento, curación y misión a la vida de fe de los cristianos» (§1210). La Eucaristía ocupa un lugar único como «sacramento de los sacramentos»: «todos los otros sacramentos están ordenados a éste como a su fin» (§1211).
 
 Los sacramentos obran en virtud de la obra salvífica de Cristo (*ex opere operato*). Siempre que un sacramento es celebrado conforme a la intención de la Iglesia, el poder de Cristo y de su Espíritu actúa en él, independientemente de la santidad personal del ministro (§1128). El Bautismo, la Confirmación y el Orden sacerdotal confieren un carácter o «sello» indeleble (§1121). «La Iglesia afirma que para los creyentes los sacramentos de la Nueva Alianza son necesarios para la salvación» (§1129).
+
+### Según el Código de Derecho Canónico (CIC)
+
+El CIC regula los sacramentos en los cánones 840-848 como principios comunes. Son «acciones de Cristo y de la Iglesia», signos y medios que expresan y fortalecen la fe, rinden culto a Dios y realizan la santificación, contribuyendo a la comunión eclesiástica (c. 840). La autoridad suprema de la Iglesia define lo requerido para su validez; la autoridad competente establece lo relativo a su celebración lícita (c. 841). Nadie que no haya recibido el bautismo puede ser admitido válidamente a los demás sacramentos (c. 842 §1). Bautismo, confirmación y eucaristía están íntimamente unidos como necesarios para la plena iniciación cristiana (c. 842 §2). Los ministros sagrados no pueden negar los sacramentos a quienes los pidan oportunamente (c. 843 §1). En caso de necesidad, los fieles pueden recibir penitencia, eucaristía y unción de ministros no católicos cuyos sacramentos sean válidos (c. 844). Bautismo, confirmación y orden imprimen carácter indeleble y no pueden reiterarse (c. 845). La celebración debe ajustarse a los libros litúrgicos aprobados (c. 846). El ministro no debe pedir nada por la administración de los sacramentos (c. 848).
+
+### Según el Concilio Vaticano II (ConcVatII)
+
+*Sacrosanctum Concilium* dedica el capítulo III a los sacramentos y sacramentales (SC 59-82). Los sacramentos están ordenados a la santificación de los hombres, a la edificación del Cuerpo de Cristo y a dar culto a Dios (SC 59). No solo suponen la fe, sino que la alimentan, robustecen y expresan (SC 59). La liturgia de los sacramentos hace que casi todos los actos de la vida sean santificados por la gracia divina que emana del misterio pascual (SC 61). El Concilio ordena la restauración del catecumenado de adultos (SC 64), la revisión de los ritos del bautismo (SC 66-70), confirmación (SC 71), penitencia (SC 72), unción de enfermos (SC 73-75), orden (SC 76), matrimonio (SC 77-78), y sacramentales (SC 79).
 
 ### Según el Concilio Vaticano II (ConcVatII)
 

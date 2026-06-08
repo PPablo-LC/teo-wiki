@@ -9,6 +9,9 @@ La parroquia es una determinada comunidad de fieles constituida de modo estable 
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La parroquia es el lugar donde todos los fieles pueden reunirse para la celebración dominical de la Eucaristía. Inicia al pueblo cristiano en la expresión ordinaria de la vida litúrgica, le congrega en esta celebración, le enseña la doctrina salvífica de Cristo y practica la caridad del Señor en obras buenas y fraternas (CEC §2179).
 ### Según el Código de Derecho Canónico (CIC)
 
 Corresponde exclusivamente al Obispo diocesano erigir, suprimir o cambiar las parroquias, previa audiencia del consejo presbiteral (c. 515 §2). La parroquia legítimamente erigida tiene personalidad jurídica (c. 515 §3). Como regla general la parroquia es territorial, aunque pueden constituirse parroquias personales en razón del rito, lengua, nacionalidad u otra razón (c. 518).
@@ -19,9 +22,6 @@ Funciones propias del párroco incluyen: administrar el bautismo, la confirmaci�
 
 En cada parroquia deben llevarse los libros parroquiales (bautizados, matrimonios, difuntos) (c. 535). Debe haber un consejo de asuntos económicos (c. 537) y, si el Obispo lo juzga oportuno, un consejo pastoral (c. 536).
 
-### Según el Catecismo (CEC)
-
-La parroquia es el lugar donde todos los fieles pueden reunirse para la celebración dominical de la Eucaristía. Inicia al pueblo cristiano en la expresión ordinaria de la vida litúrgica, le congrega en esta celebración, le enseña la doctrina salvífica de Cristo y practica la caridad del Señor en obras buenas y fraternas (CEC §2179).
 
 ## Relaciones doctrinales
 

@@ -23,6 +23,13 @@ El CEC dedica un artículo completo al tema (CEC §355-361). El ser humano, por 
 
 La persona humana es criatura de Dios creada a su imagen: «Creó, pues, Dios al ser humano a imagen suya, a imagen de Dios le creó, macho y hembra los creó» (Gn 1,27) [CompDS §108]. Por haber sido hecho a imagen de Dios, el ser humano tiene la dignidad de persona; no es solamente algo, sino alguien [CompDS §108]. Es capaz de conocerse, poseerse y darse libremente y entrar en comunión con otras personas [CompDS §108]. La semejanza con Dios revela que la esencia y existencia del hombre están constitutivamente relacionadas con Él del modo más profundo [CompDS §109]. Solo el hombre es «capaz de Dios» («homo est Dei capax») [CompDS §109]. La relación entre Dios y el hombre se refleja en la dimensión relacional y social de la naturaleza humana [CompDS §110]. El hombre y la mujer tienen la misma dignidad y son de igual valor porque ambos son imagen de Dios [CompDS §111].
 
+### Según el Compendio (CompDS)
+
+El hombre y la mujer, creados a imagen y semejanza de Dios, están llamados a ser el signo visible y el instrumento eficaz de la gratuidad divina en el jardín en que Dios los ha puesto como cultivadores y guardianes de los bienes de la creación [CompDS §26].
+
+La revelación en Cristo del misterio de Dios como Amor trinitario ilumina la dignidad y la libertad personal del hombre y de la mujer. Ser persona a imagen y semejanza de Dios comporta existir en relación al otro «yo», porque Dios mismo, uno y trino, es comunión del Padre, del Hijo y del Espíritu Santo [CompDS §34].
+
+Las páginas del Génesis que describen la creación del hombre y de la mujer a imagen de Dios enseñan que ellos, precisamente en su complementariedad y reciprocidad, son imagen del Amor trinitario en el universo creado [CompDS §36]. Esta visión hunde sus raíces en Dios y está iluminada por la realización de su designio de salvación [CompDS §37].
 ### Según la Summa Theologiae (SmTh)
 
 **Iª q.93 — El fin del origen del hombre: hecho a imagen de Dios**
@@ -45,21 +52,14 @@ La persona humana es criatura de Dios creada a su imagen: «Creó, pues, Dios al
 
 **a.9 — Distinción entre imagen y semejanza:** La semejanza puede entenderse de dos modos: como predisposición a la imagen (más común, incluyendo también las potencias inferiores y el cuerpo) y como perfección de la imagen (la semejanza de virtud, que significa la expresión y perfección de la imagen). Lo «a imagen» designa lo intelectual, libre y dueño de sí; lo «a semejanza» designa la semejanza de virtud (q.93 a.9).
 
-### Según Juan Pablo II (JPII-JovCh)
-
-El discurso a los jóvenes chilenos se abre con el reconocimiento de la «dignidad propia del hombre creado a imagen y semejanza de Dios» [JPII-JovCh]. Sobre este fundamento antropológico, Juan Pablo II exhorta a «luchar con denuedo contra las fuerzas del mal [...] por la dignidad del hombre, por la dignidad del amor, por una vida noble de hijos de Dios» [JPII-JovCh]. La imagen divina en el hombre es el fundamento tanto de la dignidad personal como de la exigencia de justicia y solidaridad en la construcción de una nueva civilización.
-
 ### Según Royo Marín (TPCr)
 
 Royo Marín distingue tres niveles de imagen de Dios: las criaturas irracionales tienen una simple semejanza o vestigio; las criaturas racionales, dotadas de inteligencia, se llaman imagen natural de Dios; las almas en gracia, unidas a Dios por amor de amistad, son propiamente imagen sobrenatural de Dios (TPCr, Segunda Parte, Cap. I, Art. 1). Esta imagen sobrenatural exige una verdadera participación física y formal de la naturaleza misma de Dios, que es la [[gracia_santificante]].
 
-### Según el Compendio (CompDS)
+### Según Juan Pablo II (JPII-JovCh)
 
-El hombre y la mujer, creados a imagen y semejanza de Dios, están llamados a ser el signo visible y el instrumento eficaz de la gratuidad divina en el jardín en que Dios los ha puesto como cultivadores y guardianes de los bienes de la creación [CompDS §26].
+El discurso a los jóvenes chilenos se abre con el reconocimiento de la «dignidad propia del hombre creado a imagen y semejanza de Dios» [JPII-JovCh]. Sobre este fundamento antropológico, Juan Pablo II exhorta a «luchar con denuedo contra las fuerzas del mal [...] por la dignidad del hombre, por la dignidad del amor, por una vida noble de hijos de Dios» [JPII-JovCh]. La imagen divina en el hombre es el fundamento tanto de la dignidad personal como de la exigencia de justicia y solidaridad en la construcción de una nueva civilización.
 
-La revelación en Cristo del misterio de Dios como Amor trinitario ilumina la dignidad y la libertad personal del hombre y de la mujer. Ser persona a imagen y semejanza de Dios comporta existir en relación al otro «yo», porque Dios mismo, uno y trino, es comunión del Padre, del Hijo y del Espíritu Santo [CompDS §34].
-
-Las páginas del Génesis que describen la creación del hombre y de la mujer a imagen de Dios enseñan que ellos, precisamente en su complementariedad y reciprocidad, son imagen del Amor trinitario en el universo creado [CompDS §36]. Esta visión hunde sus raíces en Dios y está iluminada por la realización de su designio de salvación [CompDS §37].
 
 ## Distinciones importantes
 

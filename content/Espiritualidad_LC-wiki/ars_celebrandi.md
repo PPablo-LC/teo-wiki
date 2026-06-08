@@ -13,6 +13,10 @@ El ars celebrandi no es un mero formalismo estético, sino una expresión de la 
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La liturgia es la cumbre a la que tiende la acción de la Iglesia y la fuente de donde mana toda su fuerza (CEC §1074). La celebración litúrgica implica signos y símbolos, palabras y acciones, canto y música (CEC §1145-1162). La participación activa, consciente y fructuosa es un derecho y un deber del pueblo fiel (CEC §1141).
+
 ### Según el Capítulo General LC-2026
 
 El Capítulo General 2026 dedicó una atención especial a la vida litúrgica, constatando un número significativo de aportaciones y propuestas que manifestaban preocupación por este ámbito [LC-2026, n. 67].
@@ -28,10 +32,6 @@ El Capítulo General 2026 dedicó una atención especial a la vida litúrgica, c
 **La propia vida como liturgia**: la vivencia profunda de la celebración litúrgica lleva a «hacer de la propia vida una perenne liturgia» (CLC-2020 53), expresión de la entrega completa de sí mismo [LC-2026, n. 69].
 
 **Participación activa**: se invita a los legionarios a renovar su «participación activa, consciente y fervorosa en la liturgia» (CLC-2020 49) [LC-2026, n. 68].
-
-### Según el Catecismo (CEC)
-
-La liturgia es la cumbre a la que tiende la acción de la Iglesia y la fuente de donde mana toda su fuerza (CEC §1074). La celebración litúrgica implica signos y símbolos, palabras y acciones, canto y música (CEC §1145-1162). La participación activa, consciente y fructuosa es un derecho y un deber del pueblo fiel (CEC §1141).
 
 ### Según la Iglesia (Magisterio litúrgico)
 

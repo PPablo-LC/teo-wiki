@@ -13,6 +13,9 @@ Santo Tomás define el milagro propiamente dicho como aquello que se efectúa fu
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+Jesús realizó milagros como signos de la llegada del Reino de Dios (CEC §547-550). Los milagros son obras mesiánicas que manifiestan que el Padre ha enviado al Hijo, corroboran su misión divina y nos invitan a creer en Él. Los milagros de Cristo son también invitación a la fe: «Si no hacéis las obras de mi Padre, no me creáis; pero si las hago, aunque no me creáis a mí, creed a las obras» (Jn 10,37-38). La Iglesia, por la intercesión de los santos y en nombre de Cristo, puede obrar milagros que manifiestan la santidad de Dios y confirman la verdad de la fe (§2003, §668, §1507).
 ### Según la Summa Theologiae (SmTh)
 
 **Dios puede obrar fuera del orden natural (q.105 a.6):** Dios, como causa primera, no está sujeto al orden de las causas segundas, y por tanto puede obrar fuera del orden natural establecido. No obra contra la naturaleza (pues el orden natural procede de Él), sino contra el curso ordinario de la naturaleza. El orden de la justicia (que se refiere a Dios como causa primera) no puede ser violado, pero el orden natural (que depende de causas segundas) sí puede ser superado por Dios.
@@ -25,9 +28,6 @@ Santo Tomás define el milagro propiamente dicho como aquello que se efectúa fu
 
 **Milagros aparentes de los demonios (q.114 a.4):** Los demonios no pueden hacer verdaderos milagros en sentido estricto, pues sobrepasar el orden de toda la naturaleza creada es propio solo de Dios. Pueden, sin embargo, hacer cosas que admiran a los hombres por sobrepasar su poder y conocimiento, como los magos de Faraón que hicieron verdaderas serpientes y ranas usando gérmenes naturales (q.114 a.4 ad 2). Pueden también alterar la imaginación y los sentidos humanos para hacer parecer real lo que no lo es, o formar cuerpos de aire para aparecer visiblemente. No pueden, empero, realizar cambios corporales que superen toda virtud natural, como convertir el cuerpo humano en bestia o resucitar un muerto.
 
-### Según el Catecismo (CEC)
-
-Jesús realizó milagros como signos de la llegada del Reino de Dios (CEC §547-550). Los milagros son obras mesiánicas que manifiestan que el Padre ha enviado al Hijo, corroboran su misión divina y nos invitan a creer en Él. Los milagros de Cristo son también invitación a la fe: «Si no hacéis las obras de mi Padre, no me creáis; pero si las hago, aunque no me creáis a mí, creed a las obras» (Jn 10,37-38). La Iglesia, por la intercesión de los santos y en nombre de Cristo, puede obrar milagros que manifiestan la santidad de Dios y confirman la verdad de la fe (§2003, §668, §1507).
 
 ## Distinciones importantes
 

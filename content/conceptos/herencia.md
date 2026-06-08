@@ -13,6 +13,9 @@ Dios ha puesto al hombre en el mundo para conocerle, servirle y amarle, y así a
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Nuevo Testamento caracteriza la bienaventuranza como la llegada del Reino de Dios, la visión de Dios, la entrada en el gozo del Señor (§1720). Dios nos ha puesto en el mundo para conocerle, servirle y amarle, y así ir al cielo; la bienaventuranza nos hace participar de la naturaleza divina y de la vida eterna (§1721). Esta bienaventuranza es sobrenatural, fruto del don gratuito de Dios (§1722). La verdadera dicha no reside en la riqueza ni en el poder sino solo en Dios (§1723). El Decálogo y el Sermón de la Montaña describen los caminos que conducen al Reino (§1724). Cristo murió por todos, y el Espíritu Santo ofrece a todos la posibilidad de asociarse al misterio pascual para alcanzar la herencia de la vida eterna (§1260).
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 El VocTeoBib desarrolla la noción de herencia más allá del sentido jurídico, designando la posesión estable y permanente de un bien que permite al hombre desarrollar su personalidad sin estar a merced de otro. En el AT la herencia está ligada a la [[alianza]]: Israel es la herencia de Yahveh, la tierra prometida es la herencia de Israel, y la tierra es también herencia de Yahveh mismo. Esta triple relación expresa la intimidad entre Dios y su pueblo, una pertenencia especial que separa a Israel de lo profano.
@@ -21,9 +24,6 @@ El tema se desarrolla en dos direcciones: escatológica y espiritualizada. La co
 
 En el NT, Cristo es el heredero único, concentrando en sí la descendencia de Abraham. Su muerte y resurrección hacen pasar a los hombres del estado de esclavos al de hijos, y por tanto de herederos. Los creyentes, hijos adoptivos por el Espíritu, son coherederos con Cristo. La herencia prometida no es ya la tierra de Canaán sino la [[vida eterna]], el [[reino de Dios]], la [[salvación]]; el Espíritu Santo constituye sus arras en espera de la posesión perfecta en la parusía.
 
-### Según el Catecismo (CEC)
-
-El Nuevo Testamento caracteriza la bienaventuranza como la llegada del Reino de Dios, la visión de Dios, la entrada en el gozo del Señor (§1720). Dios nos ha puesto en el mundo para conocerle, servirle y amarle, y así ir al cielo; la bienaventuranza nos hace participar de la naturaleza divina y de la vida eterna (§1721). Esta bienaventuranza es sobrenatural, fruto del don gratuito de Dios (§1722). La verdadera dicha no reside en la riqueza ni en el poder sino solo en Dios (§1723). El Decálogo y el Sermón de la Montaña describen los caminos que conducen al Reino (§1724). Cristo murió por todos, y el Espíritu Santo ofrece a todos la posibilidad de asociarse al misterio pascual para alcanzar la herencia de la vida eterna (§1260).
 
 ## Distinciones importantes
 

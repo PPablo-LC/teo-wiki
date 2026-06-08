@@ -23,15 +23,15 @@ El Romano Pontífice es infalible «cuando proclama por un acto definitivo la do
 
 El Magisterio «ejerce la autoridad que Cristo le confirió cuando define dogmas, o cuando propone, de forma más autorizada, una enseñanza sobre la fe» (CEC §2035). El fiel debe adherirse a estas enseñanzas con el asentimiento de la fe cuando son infalibles, y con asentimiento religioso cuando son del magisterio ordinario no definitivo.
 
+### Según el Código de Derecho Canónico (CIC)
+
+El canon 749 regula la infalibilidad en tres parágrafos: el Romano Pontífice goza de infalibilidad cuando, como Supremo Pastor y Doctor de todos los fieles, proclama por un acto definitivo la doctrina que debe sostenerse en materia de fe y costumbres (§1). El Colegio de los Obispos también tiene infalibilidad cuando ejercen el magisterio reunidos en Concilio Ecuménico o cuando dispersos por el mundo, manteniendo la comunión entre sí y con el sucesor de Pedro, concuerdan en que una opinión debe sostenerse como definitiva (§2). El canon 750 establece que ha de creerse con fe divina y católica todo lo contenido en la palabra de Dios escrita o transmitida por tradición y propuesto como revelado por Dios, ya sea por el magisterio solemne o por el magisterio ordinario y universal. El canon 750 concluye que «todos están obligados a evitar cualquier doctrina contraria».
 ### Según Royo Marín (TPCr)
 
 El Papa posee la infalibilidad no como persona privada, sino como Pastor y Doctor supremo de todos los cristianos cuando habla *ex cathedra*. Esta infalibilidad se extiende a las definiciones sobre fe y costumbres y a aquellas verdades que son necesarias para guardar y exponer el depósito de la fe. El objeto de la infalibilidad incluye los dogmas definidos y también aquellas verdades que tienen conexión necesaria con la Revelación.
 
 [TPCr, Parte I, Eclesiología]
 
-### Según el Código de Derecho Canónico (CIC)
-
-El canon 749 regula la infalibilidad en tres parágrafos: el Romano Pontífice goza de infalibilidad cuando, como Supremo Pastor y Doctor de todos los fieles, proclama por un acto definitivo la doctrina que debe sostenerse en materia de fe y costumbres (§1). El Colegio de los Obispos también tiene infalibilidad cuando ejercen el magisterio reunidos en Concilio Ecuménico o cuando dispersos por el mundo, manteniendo la comunión entre sí y con el sucesor de Pedro, concuerdan en que una opinión debe sostenerse como definitiva (§2). El canon 750 establece que ha de creerse con fe divina y católica todo lo contenido en la palabra de Dios escrita o transmitida por tradición y propuesto como revelado por Dios, ya sea por el magisterio solemne o por el magisterio ordinario y universal. El canon 750 concluye que «todos están obligados a evitar cualquier doctrina contraria».
 
 ## Distinciones importantes
 

@@ -13,6 +13,9 @@ La misión divina implica dos aspectos: la relación del enviado con quien enví
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+«La misión del Hijo y del Espíritu Santo es el designio del Padre» (CEC §257-258). «Toda la economía divina es obra común de las tres Personas» (§258). El envío del Hijo y la efusión del Espíritu Santo son inseparables (§743). La misión visible del Hijo prepara y manifiesta la misión invisible del Espíritu (§689). La inhabitación de la Trinidad en el alma justa es fruto de las misiones divinas (§260).
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata las misiones divinas en SmTh Iª q.43. A la persona divina le corresponde ser enviada (a.1) en cuanto implica relación de origen con quien envía y un nuevo modo de estar en la criatura. No implica inferioridad, pues el origen en Dios es de igualdad, ni separación local.
@@ -29,9 +32,6 @@ La misión visible del Espíritu Santo (a.7) se realiza por medio de criaturas v
 
 La persona divina es enviada solo por aquella de quien procede eternamente (a.8), si «enviar» se refiere al principio de la persona; si se refiere al principio del efecto, toda la Trinidad envía.
 
-### Según el Catecismo (CEC)
-
-«La misión del Hijo y del Espíritu Santo es el designio del Padre» (CEC §257-258). «Toda la economía divina es obra común de las tres Personas» (§258). El envío del Hijo y la efusión del Espíritu Santo son inseparables (§743). La misión visible del Hijo prepara y manifiesta la misión invisible del Espíritu (§689). La inhabitación de la Trinidad en el alma justa es fruto de las misiones divinas (§260).
 
 ## Distinciones importantes
 

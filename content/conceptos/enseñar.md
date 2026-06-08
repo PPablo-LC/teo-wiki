@@ -13,6 +13,11 @@ El VocTeoBib muestra que la enseñanza religiosa comienza en el marco familiar (
 
 ## Perspectivas por fuente
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+En el AT la enseñanza se realizaba de diversas maneras: el padre de familia transmitía la catequesis elemental (Dt 6,7; Ex 12,26); los sacerdotes enseñaban la ley (Dt 17,10s); los profetas recibían la palabra directamente de Dios; los sabios eran esencialmente docentes (Ecl 12,9), alimentados con la ley y los profetas. Pero más allá de todos ellos, el único maestro verdadero es Yahveh, que enseña a los hombres sus caminos (Sal 25,9). Los profetas anunciaron que Dios mismo sería el doctor por excelencia en los últimos tiempos (Is 30,20s; Jer 31,33s).
+
+En el NT, Cristo es el Doctor. Enseña con autoridad singular (Mt 7,29), su doctrina no es de él sino del Padre (Jn 7,16s), y aceptar su enseñanza requiere una gracia interior (Jn 6,44s). Después de Pentecostés, los apóstoles enseñan en nombre de Jesús (Act 4,18). El Espíritu suscita en la Iglesia otros docentes (1Cor 12,8.29), los didáskaloi, y se constituye un cuerpo de doctrina que es regla de fe (Rom 6,17). La conservación del depósito auténtico es preocupación esencial de los pastores.
 ### Según la Summa Theologiae (SmTh)
 
 **Iª q.117 a.1 — Un hombre puede enseñar a otro:** El maestro causa ciencia en el discípulo haciéndole pasar de la potencia al acto, como el médico sana cooperando con la naturaleza. El entendimiento agente es la luz interior infundida por Dios, principio de todo conocimiento. El maestro contribuye de dos maneras: (1) suministrando medios o ayudas (proposiciones menos universales, ejemplos palpables, cosas opuestas) para que el discípulo deduzca lo desconocido de lo conocido; (2) fortaleciendo el entendimiento mostrando la conexión de los principios con las conclusiones —la demostración es «un silogismo que causa ciencia»—. El maestro ejerce un ministerio externo; la causa principal es la luz interior del entendimiento, que procede de Dios (q.117 a.1).
@@ -23,11 +28,6 @@ El VocTeoBib muestra que la enseñanza religiosa comienza en el marco familiar (
 
 **a.4 — El alma separada no puede mover cuerpos localmente:** El alma separada no vivifica ningún cuerpo; al cesar la unión vital, ningún cuerpo obedece al alma en movimiento local. Solo los ángeles, como sustancias espirituales no determinadas a cuerpo alguno, pueden mover diversos cuerpos. El alma, por su naturaleza, está determinada a mover el cuerpo del que es forma (q.117 a.4).
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-En el AT la enseñanza se realizaba de diversas maneras: el padre de familia transmitía la catequesis elemental (Dt 6,7; Ex 12,26); los sacerdotes enseñaban la ley (Dt 17,10s); los profetas recibían la palabra directamente de Dios; los sabios eran esencialmente docentes (Ecl 12,9), alimentados con la ley y los profetas. Pero más allá de todos ellos, el único maestro verdadero es Yahveh, que enseña a los hombres sus caminos (Sal 25,9). Los profetas anunciaron que Dios mismo sería el doctor por excelencia en los últimos tiempos (Is 30,20s; Jer 31,33s).
-
-En el NT, Cristo es el Doctor. Enseña con autoridad singular (Mt 7,29), su doctrina no es de él sino del Padre (Jn 7,16s), y aceptar su enseñanza requiere una gracia interior (Jn 6,44s). Después de Pentecostés, los apóstoles enseñan en nombre de Jesús (Act 4,18). El Espíritu suscita en la Iglesia otros docentes (1Cor 12,8.29), los didáskaloi, y se constituye un cuerpo de doctrina que es regla de fe (Rom 6,17). La conservación del depósito auténtico es preocupación esencial de los pastores.
 
 ## Distinciones importantes
 

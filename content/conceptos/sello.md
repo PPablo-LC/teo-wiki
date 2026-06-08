@@ -15,6 +15,10 @@ En el Nuevo Testamento, Dios marca a los creyentes con el «sello del Espíritu 
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El sello (sphragis) es símbolo de la unción del Espíritu Santo y expresa el carácter indeleble que imprimen los sacramentos del Bautismo, Confirmación y Orden (CEC §698, §1121). El Bautismo imprime un sello espiritual indeleble de pertenencia a Cristo (§1272-§1274). La Confirmación marca con el sello del Espíritu Santo (§1295-§1296, §1304). El Orden sacerdotal marca con un sello que configura con Cristo (§1570).
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 En el AT, el sello expresa la pertenencia a Dios. La circuncisión es descrita como un sello (Rom 4,11). Pablo retoma la metáfora del sello para el Bautismo cristiano: sellados por el Espíritu Santo prometido (Ef 1,13-14). El sello tiene carácter escatológico: es arras y prenda de la gloria futura.
@@ -22,10 +26,6 @@ En el AT, el sello expresa la pertenencia a Dios. La circuncisión es descrita c
 La Confirmación es tradicionalmente llamada el «sacramento del sello» que confirma el don del Espíritu recibido en el Bautismo. El carácter sacramental es indeleble, como un sello imborrable. El Amor no puede ser roto ni borrado: «Pomme como un sello sobre tu corazón» (Ct 8,6) expresa la inviolabilidad de la Alianza.
 
 En el Apocalipsis, el sello protege contra el juicio destructor (Ap 9,4). Los que tienen el sello son de Dios y están librados del exterminio. El sello es también signo de pertenencia a Cristo en oposición a la marca de la bestia.
-
-### Según el Catecismo (CEC)
-
-El sello (sphragis) es símbolo de la unción del Espíritu Santo y expresa el carácter indeleble que imprimen los sacramentos del Bautismo, Confirmación y Orden (CEC §698, §1121). El Bautismo imprime un sello espiritual indeleble de pertenencia a Cristo (§1272-§1274). La Confirmación marca con el sello del Espíritu Santo (§1295-§1296, §1304). El Orden sacerdotal marca con un sello que configura con Cristo (§1570).
 
 ### Según Royo Marín (TPCr)
 

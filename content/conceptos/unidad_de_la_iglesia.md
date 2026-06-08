@@ -17,12 +17,6 @@ La Iglesia es una porque su origen es el Dios Trino, que es unidad perfecta; su 
 
 «La Iglesia es una por su fuente: el Dios Trino» (CEC §813). Jesucristo fundó una sola Iglesia (CEC §814). La unidad está sellada por el Espíritu Santo (CEC §815). Los vínculos de la unidad son: la profesión de una misma fe, la celebración común del culto divino, y la sucesión apostólica con el Papa y los obispos (CEC §815). El Concilio Vaticano II reconoce que existen «elementos de santificación y de verdad» fuera de la Iglesia católica (CEC §819). El ecumenismo trabaja por restaurar la unidad visible entre todos los cristianos (CEC §820-822). La Iglesia es una como nota esencial de su identidad (CEC §866). El Bautismo incorpora a la unidad de la Iglesia (CEC §1271).
 
-### Según Royo Marín (TPCr)
-
-La unidad de la Iglesia se funda en la unidad de la fe, del culto y del gobierno bajo una misma cabeza visible: el Romano Pontífice. La unidad del Cuerpo Místico de Cristo exige la comunión con el Papa y los obispos, sucesores de los Apóstoles. La fidelidad a la autoridad eclesiástica es garantía de unidad.
-
-[TPCr, Tercera Parte, Libro II, Cap. I]
-
 ### Según el Concilio Vaticano II (ConcVatII)
 
 El Decreto «Unitatis redintegratio» expone la doctrina de la unidad de la Iglesia como fundamento del ecumenismo. Cristo instituyó la Eucaristía como sacramento «por medio del cual se significa y se realiza la unidad de la Iglesia» (UR §2). El Espíritu Santo, que habita en los creyentes, «efectúa esa admirable unión de los fieles y los congrega tan íntimamente a todos en Cristo, que El mismo es el principio de la unidad de la Iglesia» (UR §2).
@@ -30,6 +24,12 @@ El Decreto «Unitatis redintegratio» expone la doctrina de la unidad de la Igle
 La unidad se realiza en la comunión de la Iglesia mediante «la profesión de una sola fe, en la común celebración del culto divino, y en la concordia fraterna de la familia de Dios» (UR §2). Cristo encomendó a Pedro «las llaves del reino de los cielos» para que confirmara a los fieles en la fe y los apacentara «en la perfecta unidad» (UR §2). «El modelo supremo y el principio de este misterio es la unidad de un solo Dios en la Trinidad de personas: Padre, Hijo y Espíritu Santo» (UR §2).
 
 La unidad no es uniformidad: se debe guardar «la debida libertad, tanto en las diversas formas de vida espiritual y de disciplina como en la diversidad de ritos litúrgicos, e incluso en la elaboración teológica de la verdad revelada» (UR §4). Las divisiones «impiden que la Iglesia lleve a efecto su propia plenitud de catolicidad» (UR §4).
+
+### Según Royo Marín (TPCr)
+
+La unidad de la Iglesia se funda en la unidad de la fe, del culto y del gobierno bajo una misma cabeza visible: el Romano Pontífice. La unidad del Cuerpo Místico de Cristo exige la comunión con el Papa y los obispos, sucesores de los Apóstoles. La fidelidad a la autoridad eclesiástica es garantía de unidad.
+
+[TPCr, Tercera Parte, Libro II, Cap. I]
 
 ### Según Para Salvarte (PS)
 

@@ -13,6 +13,9 @@ El órgano ocupa un lugar privilegiado en la liturgia latina por su tradición c
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC enseña que «el canto y la música cumplen su función de signos de manera tanto más significativa cuanto más estrechamente están vinculadas a la acción litúrgica» (CEC §1157). «La Iglesia reconoce el órgano de tubos como el instrumento musical tradicional cuyo sonido puede aportar un esplendor notable a las ceremonias eclesiásticas» (CEC §1156-1158, recogiendo SC §120).
 ### Según Sacrosanctum Concilium (SC §120)
 
 «Téngase en gran estima en la Iglesia latina el órgano de tubos, como instrumento musical tradicional, cuyo sonido puede aportar un esplendor notable a las ceremonias eclesiásticas y elevar las almas a Dios» (SC §120). La Constitución sobre la Sagrada Liturgia recomienda conservar y fomentar el patrimonio del órgano, permitiendo su uso en la liturgia siempre que esté al servicio de la acción sagrada.
@@ -21,9 +24,6 @@ El órgano ocupa un lugar privilegiado en la liturgia latina por su tradición c
 
 La instrucción Musicam Sacram (1967) regula el uso del órgano en la liturgia reformada postconciliar. El órgano puede usarse en la misa, en la liturgia de las horas y en otras celebraciones. Puede sonar solo al inicio de la celebración, durante las procesiones, en las ofrendas y al final. Debe guardarse silencio instrumental en los tiempos penitenciales —Adviento y Cuaresma—, aunque con algunas excepciones (Gaudete, Laetare). Las improvisaciones al órgano deben adaptarse al carácter del tiempo litúrgico y al texto que se canta.
 
-### Según el Catecismo (CEC)
-
-El CEC enseña que «el canto y la música cumplen su función de signos de manera tanto más significativa cuanto más estrechamente están vinculadas a la acción litúrgica» (CEC §1157). «La Iglesia reconoce el órgano de tubos como el instrumento musical tradicional cuyo sonido puede aportar un esplendor notable a las ceremonias eclesiásticas» (CEC §1156-1158, recogiendo SC §120).
 
 ## Distinciones importantes
 

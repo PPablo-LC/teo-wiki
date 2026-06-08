@@ -13,13 +13,13 @@ Royo Marín expone la excelsa dignidad de la oración litúrgica siguiendo a Dom
 
 ## Perspectivas por fuente
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-*Sacrosanctum Concilium* 83-84 presenta el Oficio divino como la oración pública de la Iglesia. Cristo Jesús, Sumo Sacerdote, introdujo en la tierra aquel himno que se canta perpetuamente en las moradas celestiales, y asocia a la Iglesia a este canto de alabanza (SC 83). La función sacerdotal de Cristo se prolonga a través de la Iglesia, que alaba al Señor e intercede por todo el mundo no solo celebrando la Eucaristía, sino también recitando el Oficio divino (SC 83). El Oficio divino consagra el curso entero del día y de la noche (SC 84). SC 10 afirma que la liturgia es la cumbre a la cual tiende la actividad de la Iglesia y la fuente de donde mana toda su fuerza.
-
 ### Según el Catecismo (CEC)
 
 El Catecismo presenta la liturgia como una de las fuentes de la oración: «La misión de Cristo y del Espíritu Santo que, en la liturgia sacramental de la Iglesia, anuncia, actualiza y comunica el Misterio de la salvación, se continúa en el corazón que ora» (§2655). «La Eucaristía contiene y expresa todas las formas de oración: es la "ofrenda pura" de todo el Cuerpo de Cristo» (§2643). La Liturgia de las Horas es «la oración pública de la Iglesia» en la cual los fieles ejercen el sacerdocio real de los bautizados (§1174). «El que canta ora dos veces» (§1156). El Padre Nuestro es parte integrante de las Horas del Oficio divino y de los sacramentos (§2768).
+
+### Según el Concilio Vaticano II (ConcVatII)
+
+*Sacrosanctum Concilium* 83-84 presenta el Oficio divino como la oración pública de la Iglesia. Cristo Jesús, Sumo Sacerdote, introdujo en la tierra aquel himno que se canta perpetuamente en las moradas celestiales, y asocia a la Iglesia a este canto de alabanza (SC 83). La función sacerdotal de Cristo se prolonga a través de la Iglesia, que alaba al Señor e intercede por todo el mundo no solo celebrando la Eucaristía, sino también recitando el Oficio divino (SC 83). El Oficio divino consagra el curso entero del día y de la noche (SC 84). SC 10 afirma que la liturgia es la cumbre a la cual tiende la actividad de la Iglesia y la fuente de donde mana toda su fuerza.
 
 ### Según Royo Marín (TPCr)
 

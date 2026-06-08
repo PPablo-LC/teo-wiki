@@ -27,6 +27,15 @@ La virtud de la templanza ordena el uso de los bienes corporales según la recta
 
 Mediante su corporeidad, el hombre unifica en sí mismo los elementos del mundo material, «el cual alcanza por medio del hombre su más alta cima y alza la voz para la libre alabanza del Creador» [CompDS §128]. No es lícito despreciar la vida corporal; el hombre debe tener por bueno y honrar a su propio cuerpo, como criatura de Dios que ha de resucitar en el último día [CompDS §128]. La dimensión corporal, a causa de la herida del pecado, hace experimentar las rebeliones del cuerpo y las inclinaciones perversas del corazón, sobre las que debe vigilar [CompDS §128]. El hombre tiene dos características: es un ser material, vinculado a este mundo mediante su cuerpo, y un ser espiritual, abierto a la trascendencia [CompDS §129].
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+Mientras el AT usa un solo término (*basar*) para carne y cuerpo, el NT distingue *sarx* (carne) y *soma* (cuerpo). Pablo desarrolla una teología del cuerpo que le confiere una dignidad incomparable: «el cuerpo es para el Señor, y el Señor para el cuerpo» (*1Cor 6,13*). El cuerpo es miembro de Cristo y templo del Espíritu Santo (*1Cor 6,15.19*). A diferencia de la carne, que está sujeta al pecado, el cuerpo está destinado a la resurrección (*1Cor 6,14; 15,44*). El cristiano debe ofrecer su cuerpo como «sacrificio vivo, santo, agradable a Dios» (*Rom 12,1*) y, en el bautismo, muere con Cristo para vivir en novedad de vida [VocTeoBib, «Cuerpo»].
+
+### Según el Concilio Vaticano II (ConcVatII)
+
+GS 14: «En la unidad de cuerpo y alma, el hombre, por su misma condición corporal, es una síntesis del universo material, el cual alcanza por medio del hombre su más alta cima y alza la voz para la libre alabanza del Creador.» El hombre «no debe, por tanto, despreciar la vida corporal, sino que, por el contrario, debe tener por bueno y honrar a su propio cuerpo, como criatura de Dios que ha de resucitar en el último día». Herido por el pecado, experimenta la rebelión del cuerpo. «La propia [[dignidad_humana]] pide, pues, que glorifique a Dios en su cuerpo y no permita que lo esclavicen las inclinaciones depravadas de su corazón.» Por su interioridad espiritual, el hombre es superior al universo entero.
+
+GS 22: El Hijo de Dios se encarnó: trabajó con manos de hombre, pensó con inteligencia de hombre, obró con voluntad de hombre, amó con corazón de hombre. «Si el Espíritu de Aquel que resucitó a Jesús de entre los muertos habita en vosotros, el que resucitó a Cristo Jesús de entre los muertos dará también vida a vuestros cuerpos mortales» (citando Rom 8,11).
 ### Según la Summa Theologiae (SmTh)
 
 **Iª q.75 — El alma como forma del cuerpo:** El alma es el acto primero del cuerpo orgánico (q.75 a.1). El cuerpo no es animado por sí mismo, sino por el alma, que le da el ser y la vida.
@@ -59,21 +68,12 @@ Mediante su corporeidad, el hombre unifica en sí mismo los elementos del mundo 
 
 **a.2 — El semen está hecho del sobrante del alimento:** El semen no procede de la sustancia ya asimilada de los miembros (que está determinada a ser una parte específica), sino del alimento antes de convertirse en sustancia de ningún miembro. La virtud nutritiva suministra a la generativa: lo transformado por la primera lo utiliza la segunda como semen. La semejanza entre progenitor y engendrado no se debe a la materia sino a la forma del agente (q.119 a.2).
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-Mientras el AT usa un solo término (*basar*) para carne y cuerpo, el NT distingue *sarx* (carne) y *soma* (cuerpo). Pablo desarrolla una teología del cuerpo que le confiere una dignidad incomparable: «el cuerpo es para el Señor, y el Señor para el cuerpo» (*1Cor 6,13*). El cuerpo es miembro de Cristo y templo del Espíritu Santo (*1Cor 6,15.19*). A diferencia de la carne, que está sujeta al pecado, el cuerpo está destinado a la resurrección (*1Cor 6,14; 15,44*). El cristiano debe ofrecer su cuerpo como «sacrificio vivo, santo, agradable a Dios» (*Rom 12,1*) y, en el bautismo, muere con Cristo para vivir en novedad de vida [VocTeoBib, «Cuerpo»].
-
 ### Según Royo Marín (TPCr)
 
 Royo Marín dedica amplio espacio a la mortificación corporal como medio necesario para la purificación del alma: la lucha contra «la sed insaciable de gozar» y el «horror al sufrimiento» (TPCr, Tercera Parte, Libro I, Cap. IV).
 
 Trata también de los fenómenos corporales extraordinarios: estigmatización, lágrimas y sudor de sangre, bilocación, levitación, sutileza, luces o resplandores, perfume sobrenatural (TPCr, Cuarta Parte, Cap. II).
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-GS 14: «En la unidad de cuerpo y alma, el hombre, por su misma condición corporal, es una síntesis del universo material, el cual alcanza por medio del hombre su más alta cima y alza la voz para la libre alabanza del Creador.» El hombre «no debe, por tanto, despreciar la vida corporal, sino que, por el contrario, debe tener por bueno y honrar a su propio cuerpo, como criatura de Dios que ha de resucitar en el último día». Herido por el pecado, experimenta la rebelión del cuerpo. «La propia [[dignidad_humana]] pide, pues, que glorifique a Dios en su cuerpo y no permita que lo esclavicen las inclinaciones depravadas de su corazón.» Por su interioridad espiritual, el hombre es superior al universo entero.
-
-GS 22: El Hijo de Dios se encarnó: trabajó con manos de hombre, pensó con inteligencia de hombre, obró con voluntad de hombre, amó con corazón de hombre. «Si el Espíritu de Aquel que resucitó a Jesús de entre los muertos habita en vosotros, el que resucitó a Cristo Jesús de entre los muertos dará también vida a vuestros cuerpos mortales» (citando Rom 8,11).
 
 ## Distinciones importantes
 

@@ -17,13 +17,13 @@ La Asunción es el corolario de la [[inmaculada_concepción]]: María, por ser l
 
 «La Virgen Inmaculada, preservada libre de toda mancha de pecado original, terminado el curso de su vida en la tierra, fue llevada en cuerpo y alma a la gloria del cielo, y exaltada por el Señor como Reina del universo, para así parecerse más plenamente a su Hijo» (CEC §966; cf. §974). La Asunción es participación anticipada en la resurrección de Cristo (CEC §974-975).
 
+### Según Royo Marín (TPCr)
+
+TPCr trata la Asunción en el contexto de los privilegios de la Virgen María. Como Madre de Dios y siempre Virgen, María fue asunta al cielo en cuerpo y alma por su íntima unión con Cristo redentor. Es una consecuencia de su maternidad divina y de su inmunidad del pecado original.
 ### Según Para Salvarte (PS)
 
 Loring recoge la definición solemne de Pío XII (Munificentissimus Deus, 1-XI-1950): «La Inmaculada Madre de Dios, siempre Virgen María, cumpliendo el curso de su vida terrena, fue asunta en cuerpo y alma a la gloria celeste» [PS §29,1]. Explica que «Asunción» (del latín assŭmi, «ser llevada») tiene significado pasivo, distinguiéndose de la Ascensión de Cristo que fue activa. La Asunción tiene dos significados: uno negativo —el cuerpo de María no sufrió la corrupción del sepulcro— y otro positivo —la glorificación de su cuerpo, que supone una resurrección anticipada— [PS §29,1]. La Iglesia profesó esta fe desde los primeros siglos, como consta en la liturgia y en los Padres y Doctores de la Iglesia [PS §30,4].
 
-### Según Royo Marín (TPCr)
-
-TPCr trata la Asunción en el contexto de los privilegios de la Virgen María. Como Madre de Dios y siempre Virgen, María fue asunta al cielo en cuerpo y alma por su íntima unión con Cristo redentor. Es una consecuencia de su maternidad divina y de su inmunidad del pecado original.
 
 ## Relaciones doctrinales
 

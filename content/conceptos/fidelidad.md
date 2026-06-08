@@ -13,6 +13,13 @@ La fidelidad a la gracia es un elemento capital en el camino de la perfección c
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La fidelidad expresa la constancia en el mantenimiento de la palabra dada. «Dios es fiel. El sacramento del Matrimonio hace entrar al hombre y la mujer en el misterio de la fidelidad de Cristo para con su Iglesia. Por la castidad conyugal dan testimonio de este misterio ante el mundo» (§2365). La fidelidad a las promesas bautismales es exigencia fundamental de la vida cristiana.
+
+### Según el Compendio (CompDS)
+
+El Señor se hace garante del amor y de la fidelidad conyugales [CompDS §210]. El matrimonio tiene como rasgos característicos la unidad, la indisolubilidad y la fidelidad que exige la donación recíproca y definitiva [CompDS §217]. La verdad del amor y de la sexualidad conyugal se encuentra en la entrega plena y total de las personas con las características de la unidad y de la fidelidad [CompDS §223]. Las parejas que conservan los bienes de la estabilidad y de la indisolubilidad cumplen el cometido de ser un «signo» de la incansable fidelidad con que Dios ama a los hombres [CompDS §225]. La persona homosexual debe ser respetada en su dignidad, sin que ello signifique legitimación de comportamientos contrarios a la ley moral [CompDS §228].
 ### Según Royo Marín (TPCr)
 
 La fidelidad a la gracia es uno de los resortes psicológicos más importantes para el adelantamiento en la vida espiritual. Exige:
@@ -26,13 +33,6 @@ Hay una estrecha conexión entre la fidelidad a la gracia y la docilidad al Esp�
 
 [TPCr, Parte III, Libro II, Cap. IV, Art. 6, n.635-638]
 
-### Según el Catecismo (CEC)
-
-La fidelidad expresa la constancia en el mantenimiento de la palabra dada. «Dios es fiel. El sacramento del Matrimonio hace entrar al hombre y la mujer en el misterio de la fidelidad de Cristo para con su Iglesia. Por la castidad conyugal dan testimonio de este misterio ante el mundo» (§2365). La fidelidad a las promesas bautismales es exigencia fundamental de la vida cristiana.
-
-### Según el Compendio (CompDS)
-
-El Señor se hace garante del amor y de la fidelidad conyugales [CompDS §210]. El matrimonio tiene como rasgos característicos la unidad, la indisolubilidad y la fidelidad que exige la donación recíproca y definitiva [CompDS §217]. La verdad del amor y de la sexualidad conyugal se encuentra en la entrega plena y total de las personas con las características de la unidad y de la fidelidad [CompDS §223]. Las parejas que conservan los bienes de la estabilidad y de la indisolubilidad cumplen el cometido de ser un «signo» de la incansable fidelidad con que Dios ama a los hombres [CompDS §225]. La persona homosexual debe ser respetada en su dignidad, sin que ello signifique legitimación de comportamientos contrarios a la ley moral [CompDS §228].
 
 ## Distinciones importantes
 

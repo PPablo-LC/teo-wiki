@@ -15,6 +15,10 @@ En el Nuevo Testamento, Juan Bautista anuncia a Cristo como el que siega con el 
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La siega aparece en el contexto del Reino de Dios: la semilla germina y crece «hasta el tiempo de la siega» (CEC §543). También se menciona en las leyes del Antiguo Testamento sobre el derecho de rebusca después de la siega como medida de caridad con los pobres (§2449).
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 La siega pertenece al simbolismo escatológico de la Biblia. En el AT, Joel invoca la hoz porque la vendimia de las naciones está madura (Jl 4,13). La siega es la intervención divina que pone fin al mal y recompensa a los justos. Isaías desarrolla la alegoría de la viña: Dios siega los frutos de su pueblo (Is 5).
@@ -22,10 +26,6 @@ La siega pertenece al simbolismo escatológico de la Biblia. En el AT, Joel invo
 En los evangelios, la siega escatológica se combina con el envío misionero. Jesús dice: «Alzad vuestros ojos y ved los campos, porque ya están blancos para la siega» (Jn 4,35). La mies es la humanidad que debe ser recogida para el Reino. Los obreros son los discípulos enviados a la misión.
 
 El Apocalipsis retoma la imagen de la siega como juicio. El Hijo del hombre siega con hoz afilada la tierra, y la vendimia es pisada en el lagar de la ira de Dios (Ap 14,14-20). La siega escatológica es también la culminación del trabajo misionero de la Iglesia. Pablo dice: «El que planta y el que riega son una misma cosa, aunque cada uno recibirá su salario según su trabajo» (1 Cor 3,8).
-
-### Según el Catecismo (CEC)
-
-La siega aparece en el contexto del Reino de Dios: la semilla germina y crece «hasta el tiempo de la siega» (CEC §543). También se menciona en las leyes del Antiguo Testamento sobre el derecho de rebusca después de la siega como medida de caridad con los pobres (§2449).
 
 ### Según Royo Marín (TPCr)
 

@@ -25,15 +25,15 @@ El valor formativo de la doctrina social debe estar más presente en la activida
 
 No menos relevante debe ser el compromiso de emplear la doctrina social en la formación de los presbíteros y de los candidatos al sacerdocio [CompDS §533]. La doctrina social debe entrar como parte integrante en el camino formativo del fiel laico; la experiencia demuestra que el trabajo de formación es posible, normalmente, en los grupos eclesiales de laicos [CompDS §549].
 
+### Según el Concilio Vaticano II (ConcVatII)
+
+El Decreto *Optatam Totius* establece las normas para la formación sacerdotal. La formación espiritual ha de ir íntimamente unida con la doctrinal y la pastoral, de forma que los alumnos aprendan a vivir en continua comunicación con el Padre por su Hijo en el Espíritu Santo [ConcVatII, OT §8]. Acostúmbrense a unirse a Cristo Sacerdote como amigos en íntimo consorcio de vida, viviendo el misterio pascual [ConcVatII, OT §8]. La formación intelectual debe fundamentarse en la filosofía perenne y en la teología, cuyo centro es la Sagrada Escritura [ConcVatII, OT §13-16]. Los superiores y profesores han de elegirse entre los mejores y prepararse diligentemente con doctrina sólida y formación pedagógica [ConcVatII, OT §5]. Todos los sacerdotes deben considerar el Seminario como el corazón de la diócesis [ConcVatII, OT §5].
 ### Según el Capítulo General LC-2026
 
 El V Capítulo General ordinario de los Legionarios de Cristo (2026) evalúa la **formación inicial** legionaria, constatando buenos frutos: nuevas generaciones que viven un encuentro auténtico con el Señor, el deseo de [[santidad]], un gran sentido de fraternidad y amor por la Legión (n. 105). La formación es sólida y bien orientada, sostenida por la *Ratio institutionis* «Christus vita vestra» (2017) y la *Ratio studiorum* «Sapientia Christi» (2020), que han dado el marco de referencia al proceso formativo (n. 111). Se subraya la necesidad de una **formación intelectual sólida** para que el legionario pueda evangelizar la cultura y el pensamiento, dando razón de su fe (1 P 3,15) y dialogando con el mundo (n. 112). Esta formación intelectual no es mero intelectualismo, sino que está orientada a comunicar a Cristo y su mensaje (n. 112). El Capítulo recomienda desarrollar una **escuela de formadores legionarios** que capacite a los formadores de acuerdo con el carisma y la misión propios (n. 115). Los formadores, de un modo eminente, hacen presente el misterio de Cristo que reúne en torno a sí a los apóstoles, les revela el amor de su corazón, los forma y los envía (n. 117). La **configuración con Cristo** es el horizonte unificador de toda la formación: Cristo es el centro del que todo brota y hacia el que converge toda la vida del legionario.
 
 [LC-2026, n. 104-118]
 
-### Según el Concilio Vaticano II (ConcVatII)
-
-El Decreto *Optatam Totius* establece las normas para la formación sacerdotal. La formación espiritual ha de ir íntimamente unida con la doctrinal y la pastoral, de forma que los alumnos aprendan a vivir en continua comunicación con el Padre por su Hijo en el Espíritu Santo [ConcVatII, OT §8]. Acostúmbrense a unirse a Cristo Sacerdote como amigos en íntimo consorcio de vida, viviendo el misterio pascual [ConcVatII, OT §8]. La formación intelectual debe fundamentarse en la filosofía perenne y en la teología, cuyo centro es la Sagrada Escritura [ConcVatII, OT §13-16]. Los superiores y profesores han de elegirse entre los mejores y prepararse diligentemente con doctrina sólida y formación pedagógica [ConcVatII, OT §5]. Todos los sacerdotes deben considerar el Seminario como el corazón de la diócesis [ConcVatII, OT §5].
 
 ## Relaciones doctrinales
 

@@ -15,6 +15,9 @@ La perseverancia en la vida espiritual requiere constancia en los medios ordinar
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El don de la perseverancia final es una gracia particular que acompañó a Santa Teresa del Niño Jesús y a tantos santos. La oración del Padre Nuestro pide la perseverancia: «No nos dejes caer en la tentación» es una súplica para obtener la perseverancia final. La Iglesia ora por todos los fieles para que reciban este don.
 ### Según Royo Marín (TPCr)
 
 Nadie puede merecer para sí la perseverancia final, pues es un efecto infalible de la predestinación a la gloria, que es totalmente gratuita. Sin embargo, puede impetrarse por la oración, especialmente mediante la oración perseverante que obtiene infaliblemente lo que pide si se dan las condiciones debidas.
@@ -25,9 +28,6 @@ El don de fortaleza produce la paciencia y la longanimidad; la longanimidad es l
 
 [TPCr, Parte I, Cap. I; Parte III, Libro II, Cap. IV, n.613]
 
-### Según el Catecismo (CEC)
-
-El don de la perseverancia final es una gracia particular que acompañó a Santa Teresa del Niño Jesús y a tantos santos. La oración del Padre Nuestro pide la perseverancia: «No nos dejes caer en la tentación» es una súplica para obtener la perseverancia final. La Iglesia ora por todos los fieles para que reciban este don.
 
 ## Distinciones importantes
 

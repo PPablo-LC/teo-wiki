@@ -13,6 +13,9 @@ La gula es considerada un pecado capital porque engendra otros pecados y vicios.
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La gula es enumerada entre los siete pecados capitales: «Son llamados capitales porque generan otros pecados, otros vicios. Son la soberbia, la avaricia, la envidia, la ira, la lujuria, la gula, la pereza» (§1866). La templanza modera la atracción de los placeres y procura el equilibrio en el uso de los bienes creados (§1809).
 ### Según Royo Marín (TPCr)
 
 Royó Marín dedica amplio espacio a la mortificación del gusto, citando extensamente a San Juan de la Cruz. Los efectos desastrosos de la gula incluyen:
@@ -28,9 +31,6 @@ La gula produce embotamiento del sentido espiritual (a diferencia de la lujuria 
 
 [TPCr, Parte III, Libro I, n.241; Parte III, Libro II, Cap. II, n.341]
 
-### Según el Catecismo (CEC)
-
-La gula es enumerada entre los siete pecados capitales: «Son llamados capitales porque generan otros pecados, otros vicios. Son la soberbia, la avaricia, la envidia, la ira, la lujuria, la gula, la pereza» (§1866). La templanza modera la atracción de los placeres y procura el equilibrio en el uso de los bienes creados (§1809).
 
 ## Distinciones importantes
 

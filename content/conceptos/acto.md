@@ -15,17 +15,17 @@ En el orden sobrenatural, la gracia santificante es un acto habitual y permanent
 
 ## Perspectivas por fuente
 
+### Según Santo Tomás (STh I, q.77)
+
+Santo Tomás trata de las facultades del alma en general. La esencia del alma no es inmediatamente operativa; requiere facultades o potencias que son los principios inmediatos de la operación. Estas potencias se distinguen realmente de la esencia del alma y entre sí. El alma intelectiva es forma del cuerpo y contiene virtualmente las potencias inferiores (sensitivas y vegetativas). La potencia se define por su acto, y el acto por su objeto.
+
+[Santo Tomás, Suma Teológica I, q.77]
 ### Según Royo Marín (TPCr)
 
 La filosofía perenne —asumida por la teología— se funda en las nociones de acto y potencia como principios constitutivos del ente finito. El alma humana es potencia respecto de la gracia santificante, que es su acto sobrenatural. Las potencias del alma son actos primeros (facultades) respecto de las operaciones (actos segundos). La distinción real entre esencia y existencia en las criaturas se explica por la composición de potencia (esencia) y acto (existencia).
 
 [TPCr, Parte I, Principios filosóficos]
 
-### Según Santo Tomás (STh I, q.77)
-
-Santo Tomás trata de las facultades del alma en general. La esencia del alma no es inmediatamente operativa; requiere facultades o potencias que son los principios inmediatos de la operación. Estas potencias se distinguen realmente de la esencia del alma y entre sí. El alma intelectiva es forma del cuerpo y contiene virtualmente las potencias inferiores (sensitivas y vegetativas). La potencia se define por su acto, y el acto por su objeto.
-
-[Santo Tomás, Suma Teológica I, q.77]
 
 ## Distinciones importantes
 

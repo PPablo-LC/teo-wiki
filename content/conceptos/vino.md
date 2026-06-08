@@ -15,6 +15,10 @@ Jesús realiza su primer signo convirtiendo el agua en vino en Caná (Jn 2,1-11)
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El vino, junto con el pan, es signo sacramental de la Eucaristía; se convierte por las palabras de Cristo y la invocación del Espíritu Santo en la Sangre de Cristo (CEC §1333, §1376). Está prefigurado en el sacrificio de Melquisedec (§1333) y en el milagro de Caná (§1335). La transubstanciación convierte toda la substancia del vino en la Sangre de Cristo (§1412-§1413).
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 El vino en el AT es parte esencial de la cultura israelita. Forma parte de las ofrendas del templo. El vino fuerte es imagen de la sabiduría divina (Prov 9,2-5). La embriaguez es condenada (Prov 23,29-35; Is 5,22). El vino de la ira de Dios expresa el juicio divino (Sal 75,9; Jer 25,15-16).
@@ -22,10 +26,6 @@ El vino en el AT es parte esencial de la cultura israelita. Forma parte de las o
 Los profetas anuncian el vino nuevo del tiempo mesiánico (Am 9,14; Jl 4,18). La alegría del vino nuevo es la alegría del Reino. En Jn 2, el vino nuevo de Caná supera al vino viejo, simbolizando la superación de la antigua alianza.
 
 En la Eucaristía, el vino es la materia del sacramento. Jesús toma «el fruto de la vid» y lo identifica con su sangre derramada. Pablo habla de no embriagarse con vino sino del Espíritu (Ef 5,18). El vino debe usarse con moderación; el obispo no debe ser dado al vino (1 Tim 3,3). En las comidas de comunidad, el vino se bendice y se comparte. El vino escatológico es el que Cristo beberá nuevo con los suyos en el Reino.
-
-### Según el Catecismo (CEC)
-
-El vino, junto con el pan, es signo sacramental de la Eucaristía; se convierte por las palabras de Cristo y la invocación del Espíritu Santo en la Sangre de Cristo (CEC §1333, §1376). Está prefigurado en el sacrificio de Melquisedec (§1333) y en el milagro de Caná (§1335). La transubstanciación convierte toda la substancia del vino en la Sangre de Cristo (§1412-§1413).
 
 ### Según Royo Marín (TPCr)
 

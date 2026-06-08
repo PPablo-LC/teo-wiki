@@ -20,12 +20,12 @@ La doctrina de la Iglesia ha elaborado el principio llamado de subsidiariedad (C
 
 La subsidiaridad es una de las directrices más constantes y características de la doctrina social, presente desde la «Rerum novarum» [CompDS §185]. Fue formulada por Pío XI en la «Quadragesimo anno»: no es justo quitar a las comunidades menores lo que ellas pueden hacer para dárselo a una sociedad mayor [CompDS §186]. Todas las sociedades de orden superior deben ponerse en actitud de ayuda («subsidium») respecto a las menores [CompDS §186]. Protege a las personas de los abusos de las instancias sociales superiores [CompDS §187]. Se opone al centralismo, la burocratización, el asistencialismo y la presencia excesiva del Estado [CompDS §187]. El Estado puede ejercer función de suplencia solo en circunstancias excepcionales y sin prolongarse más allá de lo necesario [CompDS §188].
 
-### Según Royo Marín (TPCr)
-No se encuentra un tratamiento específico del principio de subsidiariedad en TPCr, pues pertenece más propiamente a la doctrina social de la Iglesia que al tratado de la perfección cristiana.
-
 ### Según el Compendio (CompDS)
 
 La familia tiene prioridad sobre la sociedad y el Estado; las autoridades públicas deben atenerse al principio de subsidiariedad, no sustrayendo a la familia las tareas que puede desempeñar sola [CompDS §214]. La sociedad y el Estado deben honrar y promover la familia según el principio de subsidiariedad [CompDS §252]. La acción del Estado en ámbito económico debe conformarse al principio de subsidiariedad y al de solidaridad, estableciendo límites a la autonomía de las partes para defender a la más débil [CompDS §351]. El respeto del principio de subsidiariedad debe impulsar a las autoridades a buscar condiciones favorables al desarrollo de la iniciativa individual, absteniéndose de intervenciones indebidas [CompDS §354]. El Estado debe respetar la naturaleza de las organizaciones privadas sin fines de lucro aplicando el principio de subsidiariedad, que postula el respeto de la autónoma responsabilidad del sujeto «subsidiado» [CompDS §357].
+
+### Según Royo Marín (TPCr)
+No se encuentra un tratamiento específico del principio de subsidiariedad en TPCr, pues pertenece más propiamente a la doctrina social de la Iglesia que al tratado de la perfección cristiana.
 
 ### Según la Encíclica Magnífica Humanitas (MH)
 

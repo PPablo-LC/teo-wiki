@@ -13,6 +13,9 @@ Las medidas cautelares se fundamentan en el c. 1722 CIC (y c. 1473 CCEO) y en el
 
 ## Perspectivas por fuente
 
+### Según el Código de Derecho Canónico (CIC)
+
+El c. 1722 CIC establece: «Para evitar escándalos, defender la libertad de los testigos y garantizar el curso de la justicia, puede el Ordinario, oído el promotor de justicia y citado el acusado, en cualquier grado del proceso, apartar a este del ejercicio del ministerio sagrado o de un oficio o cargo eclesiástico, imponerle o prohibirle la residencia en un lugar o territorio, o también prohibirle que reciba públicamente la santísima Eucaristía».
 ### Según el Vademécum del DDF (VAD)
 
 **Elenco taxativo (nn. 58-59):** Las medidas cautelares enumeradas en los cc. 1722 CIC y 1473 CCEO son:
@@ -27,9 +30,6 @@ Las medidas cautelares se fundamentan en el c. 1722 CIC (y c. 1473 CCEO) y en el
 
 **Imposición (n. 64):** Se imponen mediante un precepto singular legítimamente notificado (cc. 49 y ss., 1319 CIC). Si se decide modificar o revocar las medidas, debe hacerse mediante el correspondiente decreto.
 
-### Según el Código de Derecho Canónico (CIC)
-
-El c. 1722 CIC establece: «Para evitar escándalos, defender la libertad de los testigos y garantizar el curso de la justicia, puede el Ordinario, oído el promotor de justicia y citado el acusado, en cualquier grado del proceso, apartar a este del ejercicio del ministerio sagrado o de un oficio o cargo eclesiástico, imponerle o prohibirle la residencia en un lugar o territorio, o también prohibirle que reciba públicamente la santísima Eucaristía».
 
 ## Distinciones importantes
 

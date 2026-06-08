@@ -13,6 +13,10 @@ El Concilio Vaticano II, en la Declaración «Dignitatis humanae», comprometió
 
 ## Perspectivas por fuente
 
+### Según el Código de Derecho Canónico (CIC)
+
+El canon 748 establece los principios de la libertad religiosa en dos parágrafos. El §1 afirma que «todos los hombres están obligados a buscar la verdad en aquello que se refiere a Dios y a su Iglesia y, una vez conocida, tienen, por ley divina, el deber y el derecho de abrazarla y observarla». El §2 establece la protección de la conciencia: «A nadie le es lícito jamás coaccionar a los hombres a abrazar la fe católica contra su propia conciencia». Este canon reconoce simultáneamente la obligación moral de buscar la verdad y el derecho a no ser coaccionado contra la propia conciencia.
+
 ### Según el Compendio (CompDS)
 
 El Concilio Vaticano II ha comprometido a la Iglesia Católica en la promoción de la libertad religiosa [CompDS §421]. La Declaración «Dignitatis humanae» precisa que se pretende proclamar «el derecho de la persona y de las comunidades a la libertad social y civil en materia religiosa» [CompDS §421]. La dignidad de la persona y la naturaleza misma de la búsqueda de Dios exigen para todos los hombres la inmunidad frente a cualquier coacción en el campo religioso [CompDS §421].
@@ -20,10 +24,6 @@ El Concilio Vaticano II ha comprometido a la Iglesia Católica en la promoción 
 La libertad de conciencia y de religión «corresponde al hombre individual y socialmente considerado» [CompDS §422]. El derecho a la libertad religiosa debe ser reconocido en el ordenamiento jurídico y sancionado como derecho civil, aunque no es de por sí un derecho ilimitado: los justos límites deben ser determinados según las exigencias del bien común y ratificados por la autoridad civil mediante normas jurídicas conformes al orden moral objetivo [CompDS §422].
 
 En razón de sus vínculos históricos y culturales con una Nación, una comunidad religiosa puede recibir un especial reconocimiento por parte del Estado, pero dicho reconocimiento no debe generar discriminación respecto a otros grupos religiosos [CompDS §423]. El deber de respetar la libertad religiosa impone a la comunidad política que garantice a la Iglesia el necesario espacio de acción [CompDS §424].
-
-### Según el Código de Derecho Canónico (CIC)
-
-El canon 748 establece los principios de la libertad religiosa en dos parágrafos. El §1 afirma que «todos los hombres están obligados a buscar la verdad en aquello que se refiere a Dios y a su Iglesia y, una vez conocida, tienen, por ley divina, el deber y el derecho de abrazarla y observarla». El §2 establece la protección de la conciencia: «A nadie le es lícito jamás coaccionar a los hombres a abrazar la fe católica contra su propia conciencia». Este canon reconoce simultáneamente la obligación moral de buscar la verdad y el derecho a no ser coaccionado contra la propia conciencia.
 
 ### Según el Concilio Vaticano II (ConcVatII)
 

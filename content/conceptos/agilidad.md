@@ -24,13 +24,13 @@ También puede darse el fenómeno por vía preternatural: el demonio, que como e
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC §999-1001 trata de la resurrección de los muertos y las cualidades del cuerpo glorioso. La agilidad es una de las propiedades del cuerpo resucitado.
 ### Según Royo Marín (TPCr)
 
 Poquísimos santos han gozado de esta gracia (n.847). Se clasifica entre las gracias gratis dadas de tipo milagroso, no entre los epifenómenos producidos por redundancia de la sobrenaturalización del alma.
 
-### Según el Catecismo (CEC)
-
-El CEC §999-1001 trata de la resurrección de los muertos y las cualidades del cuerpo glorioso. La agilidad es una de las propiedades del cuerpo resucitado.
 
 ## Distinciones importantes
 

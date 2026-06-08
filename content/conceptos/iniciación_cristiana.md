@@ -13,17 +13,17 @@ La iniciación cristiana comienza con la entrada en el catecumenado, continúa c
 
 ## Perspectivas por fuente
 
-### Según el Concilio Vaticano II (ConcVatII)
+### Según el Catecismo (CEC)
 
-*Sacrosanctum Concilium* 64-71 reforma los ritos de iniciación cristiana. Ordena la restauración del catecumenado de adultos en etapas (SC 64). El bautismo de adultos debe revisarse teniendo en cuenta el catecumenado (SC 66). El bautismo de niños debe adaptarse a su condición (SC 67). La confirmación debe revisarse para que aparezca más claramente su íntima relación con toda la iniciación cristiana (SC 71). SC 6 enseña que por el bautismo los hombres son injertados en el misterio pascual, y que la Iglesia nunca ha dejado de reunirse para celebrar la Eucaristía.
-
+Los sacramentos de la iniciación cristiana —Bautismo, Confirmación y Eucaristía— constituyen los fundamentos de la vida cristiana (CEC §1212). La iniciación cristiana se realiza mediante estos tres sacramentos que «dan nacimiento y crecimiento, curación y misión a la vida de fe de los cristianos» (CEC §1210).
 ### Según el Código de Derecho Canónico (CIC)
 
 El CIC establece que los sacramentos del bautismo, de la confirmación y de la santísima Eucaristía están tan íntimamente unidos entre sí, que todos son necesarios para la plena iniciación cristiana (c. 842 §2). El adulto que desee recibir el bautismo ha de ser admitido al catecumenado y, en la medida de lo posible, ser llevado por pasos sucesivos a la iniciación sacramental, según el ritual de iniciación adaptado por la Conferencia Episcopal (c. 851, 1). A no ser que obste una causa grave, el adulto que es bautizado debe ser confirmado inmediatamente después del bautismo y participar en la celebración eucarística, recibiendo también la comunión (c. 866).
 
-### Según el Catecismo (CEC)
+### Según el Concilio Vaticano II (ConcVatII)
 
-Los sacramentos de la iniciación cristiana —Bautismo, Confirmación y Eucaristía— constituyen los fundamentos de la vida cristiana (CEC §1212). La iniciación cristiana se realiza mediante estos tres sacramentos que «dan nacimiento y crecimiento, curación y misión a la vida de fe de los cristianos» (CEC §1210).
+*Sacrosanctum Concilium* 64-71 reforma los ritos de iniciación cristiana. Ordena la restauración del catecumenado de adultos en etapas (SC 64). El bautismo de adultos debe revisarse teniendo en cuenta el catecumenado (SC 66). El bautismo de niños debe adaptarse a su condición (SC 67). La confirmación debe revisarse para que aparezca más claramente su íntima relación con toda la iniciación cristiana (SC 71). SC 6 enseña que por el bautismo los hombres son injertados en el misterio pascual, y que la Iglesia nunca ha dejado de reunirse para celebrar la Eucaristía.
+
 
 ## Ver también
 

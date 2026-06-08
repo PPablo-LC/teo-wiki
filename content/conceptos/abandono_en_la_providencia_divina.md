@@ -25,15 +25,15 @@ El abandono en la providencia supone:
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC enseña que la providencia divina es «la disposición con que Dios conduce a sus criaturas hacia la perfección última» (§302). Dios, «que cuida de todas las cosas, dispone todo con suavidad» (Sab 8,1). La confianza en la providencia divina es una de las disposiciones fundamentales de la oración cristiana (§2834-2837).
 ### Según Royo Marín (TPCr)
 
 La santidad consiste en la perfecta conformidad de la voluntad humana con la divina (n.37). El abandono en la providencia es la actitud de quien se fía enteramente de Dios como Padre amoroso. Royo Marín cita extensamente el Evangelio: «No andéis preocupados por vuestra vida... mirad las aves del cielo... mirad los lirios del campo... vuestro Padre celestial sabe que tenéis necesidad de todo ello» (Mt 6,25-32; n.450-451).
 
 El alma abandonada pide al Señor «el pan nuestro de cada día» con la disposición de quien confía en la providencia para las necesidades cotidianas, sin afanes ni angustias (n.497).
 
-### Según el Catecismo (CEC)
-
-El CEC enseña que la providencia divina es «la disposición con que Dios conduce a sus criaturas hacia la perfección última» (§302). Dios, «que cuida de todas las cosas, dispone todo con suavidad» (Sab 8,1). La confianza en la providencia divina es una de las disposiciones fundamentales de la oración cristiana (§2834-2837).
 
 ## Distinciones importantes
 

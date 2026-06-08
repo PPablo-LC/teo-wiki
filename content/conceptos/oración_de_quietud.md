@@ -28,15 +28,15 @@ El sueño de las potencias, fenómeno contemplativo en que se produce la unión 
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC §2715 recoge la expresión del santo Cura de Ars: «Yo le miro y él me mira», que refleja la esencia de la oración de quietud.
 ### Según Royo Marín (TPCr)
 
 La quietud tiende de suyo al silencio y reposo contemplativo. Sin embargo, como el entendimiento y las potencias orgánicas están libres, pueden ocuparse en obras de la vida activa, comenzando a juntarse Marta y María (n.559).
 
 La conducta práctica del alma (n.563): no forzar la quietud, secundar inmediatamente la acción de Dios, no turbarse por el alboroto de la memoria, huir de las ocasiones de ofender a Dios.
 
-### Según el Catecismo (CEC)
-
-El CEC §2715 recoge la expresión del santo Cura de Ars: «Yo le miro y él me mira», que refleja la esencia de la oración de quietud.
 
 ## Distinciones importantes
 

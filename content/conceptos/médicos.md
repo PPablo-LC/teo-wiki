@@ -23,13 +23,6 @@ La doctrina social de la Iglesia y el magisterio han desarrollado principios fun
 
 El Catecismo aborda la ética médica en múltiples lugares: las curaciones milagrosas de Cristo (CEC §547-550), el respeto a la integridad corporal (§2288-2291), el cuidado de los enfermos y ancianos (§2276-2279), la prohibición de la eutanasia (§2276-2279), y el respeto a la vida humana naciente (§2270-2275). La atención médica se enmarca dentro del mandamiento «No matarás» y del deber de socorrer al prójimo.
 
-### Según la Summa Theologiae
-
-Santo Tomás trata a los médicos en el contexto de:
-- La obligación moral de buscar atención médica (STh I-II, q.39: «los médicos del cuerpo son instrumentos de la Providencia»).
-- La cooperación al suicidio y la eutanasia (STh II-II, q.64, a.5).
-- El arte médica como hábito operativo bueno ordenado al bien de la salud (STh I-II, q.57, a.3).
-
 ### Según el Código de Derecho Canónico (CIC)
 
 El CIC 1983 regula aspectos de la actividad médica en relación con los sacramentos, especialmente la unción de los enfermos (cc. 998-1007), la atención a los fieles enfermos, y el deber de los médicos católicos de actuar conforme a la doctrina de la Iglesia.
@@ -37,6 +30,13 @@ El CIC 1983 regula aspectos de la actividad médica en relación con los sacrame
 ### Según la Doctrina Social de la Iglesia (DSI)
 
 El *Compendio de la Doctrina Social de la Iglesia* trata la salud como derecho fundamental (§225-233), la atención sanitaria como servicio público, la objeción de conciencia de los profesionales de la salud, y la medicina como servicio al bien común.
+### Según la Summa Theologiae
+
+Santo Tomás trata a los médicos en el contexto de:
+- La obligación moral de buscar atención médica (STh I-II, q.39: «los médicos del cuerpo son instrumentos de la Providencia»).
+- La cooperación al suicidio y la eutanasia (STh II-II, q.64, a.5).
+- El arte médica como hábito operativo bueno ordenado al bien de la salud (STh I-II, q.57, a.3).
+
 
 ## Distinciones importantes
 

@@ -17,10 +17,6 @@ La solidaridad se manifiesta en la distribución de bienes, la remuneración del
 
 El Catecismo dedica un artículo a la solidaridad humana (§1939-1942) y otro a la justicia y solidaridad entre las naciones (§2437-2442). Define el principio de solidaridad como «una exigencia directa de la fraternidad humana y cristiana» (§1939). La solidaridad se manifiesta en la distribución de bienes y la remuneración del trabajo. Es una virtud eminentemente cristiana que va más allá de los bienes materiales y se extiende a los bienes espirituales (§1948). El pecado daña la solidaridad humana (§1849, §1872).
 
-### Según Royo Marín (TPCr)
-
-Royo Marín trata la solidaridad sobrenatural como fundamento dogmático del ofrecimiento como víctima de expiación (Parte III, Libro I, Cap. 5). La solidaridad entre todos los miembros del Cuerpo Místico de Cristo —actuales o en potencia— hace que Dios acepte el dolor ofrecido por un alma en gracia por la salvación de otras almas. Esta solidaridad es establecida por Dios y constituye el fundamento del apostolado del dolor.
-
 ### Según el Compendio (CompDS)
 
 La Iglesia camina junto a toda la humanidad, «dando una elocuente demostración de la solidaridad, del respeto y del amor por la familia humana» [CompDS §18]. El amor, que es capaz de transformar radicalmente las relaciones humanas, tiene por delante un vasto trabajo al que la Iglesia contribuye con su doctrina social [CompDS §5].
@@ -42,6 +38,10 @@ GS 83: Para edificar la paz se requiere desarraigar las causas de discordia: las
 GS 88: «Es deber del Pueblo de Dios […] socorrer, en la medida de sus fuerzas, las miserias de nuestro tiempo y hacerlo […] no sólo con los bienes superfluos, sino también con los necesarios.»
 
 GS 90: Las asociaciones católicas internacionales contribuyen «a la formación de una conciencia de la genuina solidaridad y responsabilidad universales».
+
+### Según Royo Marín (TPCr)
+
+Royo Marín trata la solidaridad sobrenatural como fundamento dogmático del ofrecimiento como víctima de expiación (Parte III, Libro I, Cap. 5). La solidaridad entre todos los miembros del Cuerpo Místico de Cristo —actuales o en potencia— hace que Dios acepte el dolor ofrecido por un alma en gracia por la salvación de otras almas. Esta solidaridad es establecida por Dios y constituye el fundamento del apostolado del dolor.
 
 ### Según Juan Pablo II (JPII-JovCh)
 

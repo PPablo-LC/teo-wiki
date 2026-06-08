@@ -17,13 +17,13 @@ La mistagogia tiene su origen en la Iglesia primitiva, cuando los Padres de la I
 
 El CEC §1075 define la mistagogia como la modalidad de catequesis litúrgica que «pretende introducir en el Misterio de Cristo (es "mistagogia"), procediendo de lo visible a lo invisible, del signo a lo significado, de los "sacramentos" a los "misterios"». Corresponde a los catecismos locales y regionales hacer esta catequesis, mientras que el Catecismo universal enseña lo fundamental y común a toda la Iglesia sobre la liturgia como misterio y celebración.
 
-### Según el Rito de la Iniciación Cristiana de Adultos (RICA)
-
-El RICA (1972) restaura la mistagogia como etapa del [[catecumenado]]. Después de la celebración de los sacramentos de iniciación (bautismo, confirmación y eucaristía) en la Vigilia Pascual, el tiempo de mistagogia acompaña al [[neófito]] en su primera integración plena en la vida de la Iglesia. Este período se extiende a lo largo del tiempo pascual e incluye la participación en la Misa dominical con la comunidad, la reflexión sobre los ritos vividos y la profundización en el sentido de los sacramentos recibidos. Es un tiempo de «iluminación» progresiva donde la experiencia litúrgica ilumina la inteligencia de la fe.
-
 ### Según Sacrosanctum Concilium (ConcVatII)
 
 La Constitución sobre la Sagrada Liturgia no usa explícitamente el término «mistagogia», pero su espíritu es profundamente mistagógico. SC §33 afirma que la liturgia contiene una gran instrucción para el pueblo fiel: en ella Dios habla a su pueblo y Cristo sigue anunciando el Evangelio. SC §48 exhorta a que los fieles comprendan bien los ritos y oraciones para participar consciente, piadosa y activamente. SC §56 recomienda a los pastores instruir cuidadosamente a los fieles acerca de la participación en toda la Misa. La reforma litúrgica conciliar parte del principio de que los signos visibles han sido escogidos para significar realidades divinas invisibles —principio mistagógico fundamental.
+
+### Según el Rito de la Iniciación Cristiana de Adultos (RICA)
+
+El RICA (1972) restaura la mistagogia como etapa del [[catecumenado]]. Después de la celebración de los sacramentos de iniciación (bautismo, confirmación y eucaristía) en la Vigilia Pascual, el tiempo de mistagogia acompaña al [[neófito]] en su primera integración plena en la vida de la Iglesia. Este período se extiende a lo largo del tiempo pascual e incluye la participación en la Misa dominical con la comunidad, la reflexión sobre los ritos vividos y la profundización en el sentido de los sacramentos recibidos. Es un tiempo de «iluminación» progresiva donde la experiencia litúrgica ilumina la inteligencia de la fe.
 
 ### Según los Padres de la Iglesia
 

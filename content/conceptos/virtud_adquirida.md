@@ -13,6 +13,9 @@ Las virtudes adquiridas se distinguen de las virtudes infusas en su origen: las 
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+Las virtudes humanas son «actitudes firmes, disposiciones estables, perfecciones habituales del entendimiento y de la voluntad que regulan nuestros actos» (CEC §1804). La virtud es «una disposición habitual y firme a hacer el bien» (CEC §1804). Las virtudes humanas se adquieren mediante la educación y actos deliberados (CEC §1810). La caridad es la forma de todas las virtudes, las anima y vivifica (CEC §1839). Las virtudes humanas adquiridas pueden ser elevadas por la gracia.
 ### Según Royo Marín (TPCr)
 
 Royo Marín explica que las virtudes adquiridas se obtienen por la repetición de actos humanos buenos. Se distinguen de las virtudes infusas en que estas son infundidas por Dios y pertenecen al orden sobrenatural. Las virtudes adquiridas pueden existir sin las infusas, pero en el orden de la gracia, las virtudes infusas presuponen las disposiciones naturales que las adquiridas proporcionan.
@@ -21,9 +24,6 @@ Las virtudes adquiridas no bastan para la salvación, porque no pueden producir 
 
 [TPCr, Segunda Parte, Cap. 2]
 
-### Según el Catecismo (CEC)
-
-Las virtudes humanas son «actitudes firmes, disposiciones estables, perfecciones habituales del entendimiento y de la voluntad que regulan nuestros actos» (CEC §1804). La virtud es «una disposición habitual y firme a hacer el bien» (CEC §1804). Las virtudes humanas se adquieren mediante la educación y actos deliberados (CEC §1810). La caridad es la forma de todas las virtudes, las anima y vivifica (CEC §1839). Las virtudes humanas adquiridas pueden ser elevadas por la gracia.
 
 ## Distinciones importantes
 

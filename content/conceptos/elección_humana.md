@@ -17,10 +17,6 @@ La elección es el acto central de la voluntad respecto a los medios, distinto d
 
 La libertad humana incluye la capacidad de elegir entre diversos bienes. "Mediante la elección, el hombre se determina a sí mismo" (CEC §1731). La elección del mal es un abuso de la libertad que conduce a la esclavitud del pecado (CEC §1733). Dios respeta la libertad humana y llama al hombre a elegir el bien (CEC §1742). Las pasiones pueden inclinar la voluntad en la elección, pero no la determinan necesariamente (CEC §1767-1768). La gracia sana la libertad para elegir el bien sobrenatural (CEC §1742).
 
-### Según Royo Marín (TPCr)
-
-La elección es el acto propio del libre albedrío, que consiste en escoger los medios aptos para alcanzar el fin propuesto. Presupone el conocimiento intelectual del fin, la deliberación sobre los medios y el juicio práctico de la razón. La elección recae sobre lo que está en nuestro poder y es posible. En el orden sobrenatural, la elección del bien verdadero requiere la ayuda de la gracia actual (TPCr, Parte I, Tratado de los actos humanos).
-
 ### Según la Summa Theologiae (SmTh)
 
 **SmTh Ia-IIae q.13 — La elección, acto de la voluntad acerca de los medios:**
@@ -40,6 +36,10 @@ La elección es el acto propio del libre albedrío, que consiste en escoger los 
 **Relación con el consejo (SmTh Ia-IIae q.14):** La elección presupone el consejo (consilium), que es la deliberación de la razón sobre los medios posibles para alcanzar el fin. El consejo es un acto de la razón que investiga y compara, y la elección es el acto de la voluntad que sigue a esa investigación (q.14 a.1-2). No se delibera sobre el fin, sino solo sobre los medios.
 
 **Relación con el consentimiento (SmTh Ia-IIae q.15):** El consentimiento es la aprobación de la voluntad a algo propuesto por la razón. La elección añade al consentimiento la preferencia de una cosa sobre otra. Si solo hay un medio que agrada, consentimiento y elección se identifican en la realidad aunque se distinguen por la razón (q.15 a.3 ad 3).
+### Según Royo Marín (TPCr)
+
+La elección es el acto propio del libre albedrío, que consiste en escoger los medios aptos para alcanzar el fin propuesto. Presupone el conocimiento intelectual del fin, la deliberación sobre los medios y el juicio práctico de la razón. La elección recae sobre lo que está en nuestro poder y es posible. En el orden sobrenatural, la elección del bien verdadero requiere la ayuda de la gracia actual (TPCr, Parte I, Tratado de los actos humanos).
+
 
 ## Distinciones importantes
 

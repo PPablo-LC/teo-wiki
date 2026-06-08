@@ -15,6 +15,12 @@ El Concilio Vaticano II enseña que el sacerdocio común de los fieles y el sace
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC §897-913 desarrolla la vocación de los laicos como partícipes de la función sacerdotal, profética y real de Cristo. La participación sacerdotal consiste en ofrecer la propia vida como sacrificio espiritual y en la recepción de los sacramentos.
+
+«Toda la comunidad de los creyentes es, como tal, sacerdotal» (CEC §1546). Los fieles ejercen su sacerdocio bautismal participando en la misión de Cristo, Sacerdote, Profeta y Rey. Por el bautismo son «linaje elegido, sacerdocio real, nación santa» (CEC §1268). La Iglesia celebra los sacramentos como comunidad sacerdotal estructurada por el sacerdocio bautismal y el de los ministros ordenados (CEC §1132).
+
 ### Según el Concilio Vaticano II (ConcVatII)
 
 **Lumen Gentium §10:** «Cristo Señor, Pontífice tomado de entre los hombres, de su nuevo pueblo hizo un reino y sacerdotes para Dios, su Padre». Los bautizados, por la regeneración y la unción del Espíritu Santo, son consagrados como casa espiritual y sacerdocio santo para ofrecer sacrificios espirituales y anunciar el poder de Dios. «El sacerdocio común de los fieles y el sacerdocio ministerial o jerárquico, aunque diferentes esencialmente y no sólo en grado, se ordenan, sin embargo, el uno al otro, pues ambos participan a su manera del único sacerdocio de Cristo.»
@@ -24,12 +30,6 @@ El Concilio Vaticano II enseña que el sacerdocio común de los fieles y el sace
 **Lumen Gentium §34:** Los laicos, en cuanto consagrados a Cristo y ungidos por el Espíritu Santo, son partícipes del oficio sacerdotal de Cristo. Todas sus obras, oraciones, vida familiar, trabajo y pruebas se convierten en «sacrificios espirituales, aceptables a Dios por Jesucristo», que en la Eucaristía se ofrecen al Padre junto con la oblación del Cuerpo del Señor.
 
 **Sacrosanctum Concilium §14:** El pueblo cristiano, «linaje escogido, sacerdocio real, nación santa, pueblo adquirido», tiene derecho y obligación a la participación plena, consciente y activa en las celebraciones litúrgicas en virtud del bautismo.
-
-### Según el Catecismo (CEC)
-
-El CEC §897-913 desarrolla la vocación de los laicos como partícipes de la función sacerdotal, profética y real de Cristo. La participación sacerdotal consiste en ofrecer la propia vida como sacrificio espiritual y en la recepción de los sacramentos.
-
-«Toda la comunidad de los creyentes es, como tal, sacerdotal» (CEC §1546). Los fieles ejercen su sacerdocio bautismal participando en la misión de Cristo, Sacerdote, Profeta y Rey. Por el bautismo son «linaje elegido, sacerdocio real, nación santa» (CEC §1268). La Iglesia celebra los sacramentos como comunidad sacerdotal estructurada por el sacerdocio bautismal y el de los ministros ordenados (CEC §1132).
 
 ### Según Royo Marín (TPCr)
 

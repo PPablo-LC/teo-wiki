@@ -19,13 +19,13 @@ El reconocimiento de los géneros literarios permite al intérprete comprender l
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+Para descubrir la intención de los autores sagrados hay que atender a los géneros literarios (CEC §110). La verdad se expresa de maneras diversas en textos históricos, proféticos, poéticos, etc. (CEC §110).
 ### Según el Concilio Vaticano II (ConcVatII)
 
 *Dei Verbum* 12 introdujo el reconocimiento de los géneros literarios como elemento clave de la hermenéutica católica. La verdad se expresa de maneras diversas según el género: histórico, profético, poético, etc. Esta atención a los géneros literarios es parte del deber de los exegetas de trabajar según las reglas de la interpretación para entender y exponer plenamente el sentido de la Sagrada Escritura.
 
-### Según el Catecismo (CEC)
-
-Para descubrir la intención de los autores sagrados hay que atender a los géneros literarios (CEC §110). La verdad se expresa de maneras diversas en textos históricos, proféticos, poéticos, etc. (CEC §110).
 
 ## Distinciones importantes
 

@@ -13,10 +13,6 @@ Los hombres tienen la obligación de tender continuamente hacia la verdad, respe
 
 ## Perspectivas por fuente
 
-### Según la Summa Theologiae (SmTh)
-
-Santo Tomás trata la verdad en SmTh Iª q.16. La verdad está primariamente en el entendimiento (a.1), como adecuación entre el entendimiento y la cosa (*adaequatio rei et intellectus*); secundariamente está en las cosas, en cuanto se conforman al entendimiento divino. Propiamente, la verdad está en el entendimiento que compone y divide (a.2), no en los sentidos ni en la aprehensión de esencias simples. Lo verdadero y el ser se identifican realmente (a.3): la verdad es un trascendental convertible con el ser, añadiendo solo la relación al entendimiento. Lo verdadero es conceptualmente anterior al bien (a.4), pues el conocimiento precede al apetito. Dios es la verdad misma (a.5): su ser se conforma perfectamente con su entender, y Él es medida y causa de toda verdad creada. Hay una sola verdad divina y muchas verdades creadas (a.6), como muchas imágenes de un mismo rostro en diversos espejos. La verdad creada no es eterna (a.7): solo la verdad del entendimiento divino es eterna (que es el mismo Dios). La verdad del entendimiento divino es inmutable (a.8), pero la verdad de nuestro entendimiento es mudable.
-
 ### Según el Compendio (CompDS)
 
 Los hombres tienen una especial obligación de tender continuamente hacia la verdad, respetarla y atestiguarla responsablemente [CompDS §198]. La convivencia de los seres humanos dentro de una comunidad es ordenada, fecunda y conforme a su dignidad cuando se funda en la verdad [CompDS §198]. Nuestro tiempo requiere una intensa actividad educativa y un compromiso correspondiente para que la búsqueda de la verdad sea promovida en todos los ámbitos y prevalezca sobre cualquier intento de relativizar sus exigencias [CompDS §198].
@@ -28,6 +24,10 @@ La verdad en el AT se expresa con la palabra *'emet*, que significa fidelidad, s
 En el NT, Jesús se proclama «la Verdad» (Jn 14,6). Él da testimonio de la verdad (Jn 18,37). El Espíritu Santo es el «Espíritu de verdad» (Jn 14,17), que guía a la verdad completa (Jn 16,13). Conocer la verdad libera al hombre (Jn 8,32).
 
 La verdad cristiana no es abstracta sino personal: Jesucristo mismo. La fe es adhesión a la Verdad revelada. Pablo exhorta a vivir la verdad en el amor (Ef 4,15). La Iglesia es «columna y fundamento de la verdad» (1 Tim 3,15). El diablo es «padre de la mentira» (Jn 8,44). El juicio final es la manifestación plena de la verdad.
+
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata la verdad en SmTh Iª q.16. La verdad está primariamente en el entendimiento (a.1), como adecuación entre el entendimiento y la cosa (*adaequatio rei et intellectus*); secundariamente está en las cosas, en cuanto se conforman al entendimiento divino. Propiamente, la verdad está en el entendimiento que compone y divide (a.2), no en los sentidos ni en la aprehensión de esencias simples. Lo verdadero y el ser se identifican realmente (a.3): la verdad es un trascendental convertible con el ser, añadiendo solo la relación al entendimiento. Lo verdadero es conceptualmente anterior al bien (a.4), pues el conocimiento precede al apetito. Dios es la verdad misma (a.5): su ser se conforma perfectamente con su entender, y Él es medida y causa de toda verdad creada. Hay una sola verdad divina y muchas verdades creadas (a.6), como muchas imágenes de un mismo rostro en diversos espejos. La verdad creada no es eterna (a.7): solo la verdad del entendimiento divino es eterna (que es el mismo Dios). La verdad del entendimiento divino es inmutable (a.8), pero la verdad de nuestro entendimiento es mudable.
 
 ### Según Henri de Lubac (PoF)
 

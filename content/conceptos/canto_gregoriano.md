@@ -17,13 +17,13 @@ El canto gregoriano debe su nombre tradicionalmente al papa [[san_gregorio_magno
 
 El canto gregoriano es «un canto particularmente adaptado a las exigencias de la liturgia» (CEC §1156). «El canto y la música cumplen su función de signos de manera tanto más significativa cuanto más estrechamente están vinculadas a la acción litúrgica» (CEC §1157). La tradición musical de la Iglesia universal ha desarrollado el canto gregoriano, que es «el canto propio de la liturgia romana; el que, en igualdad de condiciones, ocupa el primer lugar en las celebraciones litúrgicas» (CEC §1160, citando SC 112-116).
 
+### Según el Concilio Vaticano II (Sacrosanctum Concilium)
+
+SC 112 afirma que la música sagrada es «tanto más santa cuanto más estrechamente esté vinculada a la acción litúrgica». SC 116 declara: «La Iglesia reconoce el canto gregoriano como el canto propio de la liturgia romana; en igualdad de condiciones, ocupa el primer lugar en las celebraciones litúrgicas». SC 114 recomienda conservar y fomentar el tesoro de la música sagrada.
 ### Según el CIC
 
 El c. 934 §1 establece que los libros litúrgicos según los ritos aprobados deben emplearse en la celebración de la liturgia, lo que incluye los libros de canto gregoriano (Graduale Romanum, Antiphonale Romanum). El c. 838 atribuye a la Sede Apostólica la ordenación de la sagrada liturgia y la aprobación de los libros litúrgicos. Aunque el CIC no menciona explícitamente el canto gregoriano, la legislación litúrgica universal lo presupone como forma musical privilegiada.
 
-### Según el Concilio Vaticano II (Sacrosanctum Concilium)
-
-SC 112 afirma que la música sagrada es «tanto más santa cuanto más estrechamente esté vinculada a la acción litúrgica». SC 116 declara: «La Iglesia reconoce el canto gregoriano como el canto propio de la liturgia romana; en igualdad de condiciones, ocupa el primer lugar en las celebraciones litúrgicas». SC 114 recomienda conservar y fomentar el tesoro de la música sagrada.
 
 ## Distinciones importantes
 

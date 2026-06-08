@@ -15,15 +15,15 @@ El exorcismo solemne presupone la existencia de posesión diabólica y requiere 
 
 ## Perspectivas por fuente
 
-### Según el Código de Derecho Canónico (CIC)
-
-El CIC regula el exorcismo en el canon 1172 dentro del título de los sacramentales. Sin licencia peculiar y expresa del Ordinario del lugar, nadie puede realizar legítimamente exorcismos sobre los posesos (c. 1172 §1). El Ordinario del lugar concederá esta licencia solamente a un presbítero piadoso, docto, prudente y con integridad de vida (c. 1172 §2). Esta disposición subraya la gravedad del exorcismo solemne y la necesidad de que el ministro reúna cualidades morales e intelectuales excepcionales, así como la sujeción a la autoridad eclesiástica para su ejercicio.
-
 ### Según el Catecismo (CEC)
 
 El Catecismo dedica el artículo §1673 al exorcismo: «Cuando la Iglesia pide públicamente y con autoridad, en nombre de Jesucristo, que una persona o un objeto sea protegido contra el poder del Maligno y sustraído a su dominio, se habla de exorcismo». «Jesús realizó exorcismos que anunciaban que su Reino sería más fuerte que el demonio» (§1673).
 
 El exorcismo solemne solo puede ser realizado por un sacerdote con permiso del obispo, con prudencia y observando las reglas establecidas por la Iglesia (§1673).
+
+### Según el Código de Derecho Canónico (CIC)
+
+El CIC regula el exorcismo en el canon 1172 dentro del título de los sacramentales. Sin licencia peculiar y expresa del Ordinario del lugar, nadie puede realizar legítimamente exorcismos sobre los posesos (c. 1172 §1). El Ordinario del lugar concederá esta licencia solamente a un presbítero piadoso, docto, prudente y con integridad de vida (c. 1172 §2). Esta disposición subraya la gravedad del exorcismo solemne y la necesidad de que el ministro reúna cualidades morales e intelectuales excepcionales, así como la sujeción a la autoridad eclesiástica para su ejercicio.
 
 ### Según Royo Marín (TPCr)
 

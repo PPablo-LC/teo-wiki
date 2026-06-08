@@ -15,16 +15,6 @@ En el orden sobrenatural, el entendimiento es elevado por la virtud de la fe, qu
 
 ## Perspectivas por fuente
 
-### Según Royo Marín (TPCr)
-
-El entendimiento humano puede ser obstaculizado por los pecados, especialmente los carnales. «Nada hay que impida tanto los vuelos del entendimiento —aun naturalmente hablando— como la vehemente aplicación a las cosas corporales». La lujuria produce ceguera espiritual, que excluye casi por completo el conocimiento de los bienes espirituales; la gula produce embotamiento del sentido espiritual.
-
-Para la perfección cristiana, el alma ha de caminar en pura fe para llegar a la purificación del entendimiento. «La purificación del corazón es efecto de la fe», porque la criatura racional se hace impura si se sujeta a las criaturas temporales por amor; de esta impureza se purifica cuando tiende a Dios, cuyo primer movimiento proviene de la fe.
-
-El don de entendimiento hace al alma apta para una penetrante intuición de las verdades reveladas (modo sobrehumano), distinguiéndose de la fe que las conoce al modo humano. Los vicios contrarios a este don son la ceguera espiritual y el embotamiento del sentido espiritual, que proceden de la gula y la lujuria.
-
-[TPCr, Parte III, Libro II, Cap. II, n.334-341; Parte III, Libro I, n.275]
-
 ### Según el Catecismo (CEC)
 
 La inteligencia humana participa de la luz del Entendimiento divino y puede entender lo que Dios nos dice por su creación (§299). «La fe es un acto del entendimiento que asiente a la verdad divina por imperio de la voluntad movida por Dios mediante la gracia» (§155). El entendimiento busca naturalmente a Dios (§30).
@@ -48,6 +38,16 @@ La inteligencia humana participa de la luz del Entendimiento divino y puede ente
 **a.9 — La sindéresis:** Hábito natural de los primeros principios del orden práctico. Pertenece a la razón práctica y no puede perderse.
 
 **a.10 — La conciencia (conscientia):** No es una potencia, sino un acto de aplicación del conocimiento al acto particular: testifica, obliga y acusa.
+### Según Royo Marín (TPCr)
+
+El entendimiento humano puede ser obstaculizado por los pecados, especialmente los carnales. «Nada hay que impida tanto los vuelos del entendimiento —aun naturalmente hablando— como la vehemente aplicación a las cosas corporales». La lujuria produce ceguera espiritual, que excluye casi por completo el conocimiento de los bienes espirituales; la gula produce embotamiento del sentido espiritual.
+
+Para la perfección cristiana, el alma ha de caminar en pura fe para llegar a la purificación del entendimiento. «La purificación del corazón es efecto de la fe», porque la criatura racional se hace impura si se sujeta a las criaturas temporales por amor; de esta impureza se purifica cuando tiende a Dios, cuyo primer movimiento proviene de la fe.
+
+El don de entendimiento hace al alma apta para una penetrante intuición de las verdades reveladas (modo sobrehumano), distinguiéndose de la fe que las conoce al modo humano. Los vicios contrarios a este don son la ceguera espiritual y el embotamiento del sentido espiritual, que proceden de la gula y la lujuria.
+
+[TPCr, Parte III, Libro II, Cap. II, n.334-341; Parte III, Libro I, n.275]
+
 
 ## Distinciones importantes
 

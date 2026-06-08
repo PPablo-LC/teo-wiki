@@ -21,15 +21,15 @@ Desde el principio, junto con el pan y el vino para la Eucaristía, los cristian
 
 El CEC §2100 enseña que «el sacrificio exterior, para ser auténtico, debe ser expresión del sacrificio espiritual». Las ofrendas espirituales del cristiano —sus obras, oraciones y fatigas— unidas al sacrificio de Cristo, se convierten en sacrificios espirituales agradables a Dios (CEC §901).
 
+### Según el Código de Derecho Canónico (CIC)
+
+El CIC regula las ofrendas de Misas en los cc. 945-958. Todo sacerdote que celebra o concelebra la Misa puede recibir una ofrenda para que la aplique por una determinada intención (c. 945 §1). Los fieles que ofrecen una ofrenda para la aplicación de la Misa contribuyen al bien de la Iglesia y participan de su solicitud por sustentar a sus ministros (c. 946). En materia de ofrendas de Misas debe evitarse hasta la más pequeña apariencia de negociación (c. 947).
 ### Según Royo Marín (TPCr)
 
 Royo Marín, al tratar la virtud de la religión, distingue las ofrendas u oblaciones como uno de los actos externos de dicha virtud (TPCr, Tercera Parte, Libro II, Cap. II, n.398). Ofrenda en general es la entrega o donación espontánea de una cosa para el culto divino. Distingue dos clases: la ofrenda inmediata y propiamente dicha (algo ofrecido en honor de Dios, para el culto o para el sostenimiento de sus ministros o de los pobres) y la ofrenda mediata o impropiamente dicha (ofrecida al sacerdote para su propio sustento, como los estipendios de misas).
 
 La vida espiritual, según Royo Marín, implica la oblación continua de sí mismo a Dios por la caridad. La mejor manera de dar gracias consiste en identificarse por el amor con Cristo y ofrecerle al Padre con todas sus infinitas riquezas (TPCr, Tercera Parte, Libro II, Cap. I, n.322). El sacerdote, al celebrar la [[misa]], debe ofrecerse a sí mismo juntamente con Cristo, pidiendo al Padre que lo convierta en «pan para ser comido por sus hermanos» (TPCr, Tercera Parte, Libro II, Cap. I, n.322).
 
-### Según el Código de Derecho Canónico (CIC)
-
-El CIC regula las ofrendas de Misas en los cc. 945-958. Todo sacerdote que celebra o concelebra la Misa puede recibir una ofrenda para que la aplique por una determinada intención (c. 945 §1). Los fieles que ofrecen una ofrenda para la aplicación de la Misa contribuyen al bien de la Iglesia y participan de su solicitud por sustentar a sus ministros (c. 946). En materia de ofrendas de Misas debe evitarse hasta la más pequeña apariencia de negociación (c. 947).
 
 ## Distinciones importantes
 

@@ -17,12 +17,6 @@ Frente a Dios no hay mérito en sentido de derecho estricto, porque todo lo hemo
 
 El término mérito designa la retribución debida por una obra buena (§2006). Frente a Dios no hay mérito por parte del hombre en sentido de derecho estricto (§2007). El mérito del hombre proviene de que Dios ha dispuesto asociar al hombre a la obra de su gracia (§2008). La adopción filial nos confiere un verdadero mérito según la justicia gratuita de Dios (§2009). Nadie puede merecer la gracia primera (§2010). La caridad es en nosotros la fuente principal de todo mérito (§2011, §2026).
 
-### Según Royo Marín (TPCr)
-
-Sin la gracia santificante, las obras más heroicas no tienen valor en orden a la vida eterna. El mérito sobrenatural supone la posesión de la vida sobrenatural. El mérito de condigno perfecto (estricta justicia) es exclusivo de Jesucristo; el mérito de condigno imperfecto (justicia proporcional) es posible para el justo, porque Dios prometió recompensar los actos meritorios. La gracia actual es absolutamente necesaria para todo acto meritório.
-
-[TPCr, Segunda Parte, Cap. 1, Art. 1; TPCr, Tercera Parte, Libro II, Cap. I]
-
 ### Según la Summa Theologiae (SmTh)
 
 **Ia-IIae q.21 — La bondad y malicia de los actos humanos externos y sus consecuencias:**
@@ -37,6 +31,12 @@ Sin la gracia santificante, las obras más heroicas no tienen valor en orden a l
 1. Porque Dios es el [[fin_último]] del hombre: todo acto ordenado a Dios como fin es meritorio ante Él.
 2. Porque Dios es el gobernador del universo: como gobernante supremo, Dios retribuye las obras buenas y malas.
 Así, todo acto humano bueno o malo tiene razón de mérito o demérito ante Dios, no solo en el orden social sino en el orden moral absoluto.
+### Según Royo Marín (TPCr)
+
+Sin la gracia santificante, las obras más heroicas no tienen valor en orden a la vida eterna. El mérito sobrenatural supone la posesión de la vida sobrenatural. El mérito de condigno perfecto (estricta justicia) es exclusivo de Jesucristo; el mérito de condigno imperfecto (justicia proporcional) es posible para el justo, porque Dios prometió recompensar los actos meritorios. La gracia actual es absolutamente necesaria para todo acto meritório.
+
+[TPCr, Segunda Parte, Cap. 1, Art. 1; TPCr, Tercera Parte, Libro II, Cap. I]
+
 
 ## Distinciones importantes
 

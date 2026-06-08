@@ -17,10 +17,6 @@ La tradición de la Iglesia enumera doce frutos del Espíritu Santo: caridad, go
 
 Los frutos del Espíritu son perfecciones que forma en nosotros el Espíritu Santo como primicias de la gloria eterna. La tradición de la Iglesia enumera doce: "caridad, gozo, paz, paciencia, longanimidad, bondad, benignidad, mansedumbre, fidelidad, modestia, continencia, castidad" (CEC §1832).
 
-### Según Royo Marín (TPCr)
-
-Cada don del Espíritu Santo produce frutos propios. Al don de entendimiento corresponden como fruto la fides (certeza de la fe) y el gaudium (gozo espiritual). Al don de sabiduría corresponden la caridad, el gozo espiritual y la paz. Al don de ciencia corresponden la certeza de la fe (fides) y el gozo espiritual (gaudium). Al don de piedad corresponden la bondad y la benignidad, e indirectamente la mansedumbre. Al don de temor corresponden la modestia, la continencia y la castidad (TPCr, Parte III, Libro II, Cap. II).
-
 ### Según la Summa Theologiae (SmTh)
 
 **Naturaleza de los frutos (Iª-IIae q.70 a.1):** Los frutos del Espíritu Santo son actos humanos —no hábitos— producidos por el Espíritu Santo como por una simiente divina. Se llaman frutos porque son operaciones últimas y deleitables que proceden del hombre en cuanto movido por el Espíritu Santo. Así como la operación que procede de la razón se llama fruto de la razón, la operación que procede del Espíritu Santo se llama fruto del Espíritu Santo. Los nombres de las virtudes se toman aquí en sentido de actos (caridad = acto de amar; fe = acto de creer), no como hábitos.
@@ -30,6 +26,10 @@ Cada don del Espíritu Santo produce frutos propios. Al don de entendimiento cor
 **Número de los frutos (q.70 a.3):** San Pablo enumera doce frutos (caridad, gozo, paz, paciencia, longanimidad, bondad, benignidad, mansedumbre, fidelidad, modestia, continencia, castidad), y la enumeración es adecuada. El proceso del Espíritu Santo en el hombre se ordena según tres relaciones: la mente en sí misma (respecto del bien: caridad, gozo, paz; respecto del mal: paciencia, longanimidad), la mente respecto del prójimo (bondad, benignidad, mansedumbre, fidelidad), y la mente respecto de las cosas inferiores (modestia, continencia, castidad). Todos los actos de las virtudes y los dones pueden reducirse a estos frutos.
 
 [SmTh Iª-IIae q.70]
+### Según Royo Marín (TPCr)
+
+Cada don del Espíritu Santo produce frutos propios. Al don de entendimiento corresponden como fruto la fides (certeza de la fe) y el gaudium (gozo espiritual). Al don de sabiduría corresponden la caridad, el gozo espiritual y la paz. Al don de ciencia corresponden la certeza de la fe (fides) y el gozo espiritual (gaudium). Al don de piedad corresponden la bondad y la benignidad, e indirectamente la mansedumbre. Al don de temor corresponden la modestia, la continencia y la castidad (TPCr, Parte III, Libro II, Cap. II).
+
 
 ## Distinciones importantes
 

@@ -15,12 +15,6 @@ Este enfoque se fundamenta en el principio de que todas las criaturas están int
 
 ## Perspectivas por fuente
 
-### Según Laudato Si' (LS)
-
-LS §10-16 sienta el principio fundamental: «Todo está conectado» (§16). El capítulo cuarto (LS §137-162) desarrolla explícitamente la noción de ecología integral. Distingue la ecología ambiental (§138-142), que considera el carácter único de cada criatura y su interconexión en un orden establecido por Dios; la ecología económica y social (§140-142), donde las cuestiones ambientales están inseparablemente unidas a las humanas y sociales; la ecología cultural (§143-146), que protege el patrimonio cultural de los pueblos, especialmente de los más débiles; y la ecología de la vida cotidiana (§147-155), que abarca el espacio urbano, la vivienda, el trabajo y las relaciones humanas concretas.
-
-LS §156-162 presenta el principio del bien común como eje integrador: la ecología integral está al servicio de un desarrollo integral de la persona y de los pueblos, orientado al bien común y a la justicia entre las generaciones.
-
 ### Según el Catecismo (CEC)
 
 Aunque el CEC no usa el término «ecología integral», sus enseñanzas sobre la creación, el destino universal de los bienes y la responsabilidad del hombre ante Dios fundamentan esta doctrina. CEC §339-344 enseña la interdependencia de todas las criaturas queridas por Dios. La correcta relación del hombre con la creación se funda en su relación con Dios (CEC §2415-2418).
@@ -28,6 +22,12 @@ Aunque el CEC no usa el término «ecología integral», sus enseñanzas sobre l
 ### Según el Compendio de Doctrina Social (CompDS)
 
 El CompDS §451-487 desarrolla la responsabilidad del hombre sobre la creación. La relación del hombre con el mundo es constitutiva de su identidad (CompDS §452). El destino universal de los bienes (CompDS §466-467) y la responsabilidad intergeneracional (CompDS §467) son pilares de la ecología integral. La crisis ecológica tiene su origen en la pretensión del hombre de ejercer un dominio absoluto sobre las cosas (CompDS §460).
+### Según Laudato Si' (LS)
+
+LS §10-16 sienta el principio fundamental: «Todo está conectado» (§16). El capítulo cuarto (LS §137-162) desarrolla explícitamente la noción de ecología integral. Distingue la ecología ambiental (§138-142), que considera el carácter único de cada criatura y su interconexión en un orden establecido por Dios; la ecología económica y social (§140-142), donde las cuestiones ambientales están inseparablemente unidas a las humanas y sociales; la ecología cultural (§143-146), que protege el patrimonio cultural de los pueblos, especialmente de los más débiles; y la ecología de la vida cotidiana (§147-155), que abarca el espacio urbano, la vivienda, el trabajo y las relaciones humanas concretas.
+
+LS §156-162 presenta el principio del bien común como eje integrador: la ecología integral está al servicio de un desarrollo integral de la persona y de los pueblos, orientado al bien común y a la justicia entre las generaciones.
+
 
 ## Distinciones importantes
 

@@ -21,15 +21,15 @@ El fundamento teológico de la aceptación es la fe en la providencia divina y l
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El CEC §2826 enseña que la oración de Jesús en Getsemaní nos muestra la aceptación filial de la voluntad del Padre: «No se haga mi voluntad sino la tuya». Esta oración es el modelo de toda aceptación cristiana. La aceptación de la voluntad de Dios nos hace semejantes a Cristo, que «se hizo obediente hasta la muerte, y muerte de cruz» (Flp 2,8).
 ### Según Royo Marín (TPCr)
 
 Royo Marín enseña que la oración debe hacerse siempre con plena subordinación a la voluntad de Dios. Las cosas temporales «han de pedirse siempre condicionalmente —al menos con la condición implícita en nuestra sumisión habitual a Dios—, a saber: si son conformes a la voluntad de Dios y convenientes para la salvación» (n.477).
 
 El alma principiante comienza por la aceptación de la voluntad divina en lo que le cuesta, y de ahí asciende gradualmente a la conformidad plena. La señal de que se ha dado este paso es la paz interior que permanece incluso en medio de las contradicciones.
 
-### Según el Catecismo (CEC)
-
-El CEC §2826 enseña que la oración de Jesús en Getsemaní nos muestra la aceptación filial de la voluntad del Padre: «No se haga mi voluntad sino la tuya». Esta oración es el modelo de toda aceptación cristiana. La aceptación de la voluntad de Dios nos hace semejantes a Cristo, que «se hizo obediente hasta la muerte, y muerte de cruz» (Flp 2,8).
 
 ## Distinciones importantes
 

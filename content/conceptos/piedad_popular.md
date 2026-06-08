@@ -13,13 +13,13 @@ La piedad popular es una expresión legítima de la fe cristiana que, cuando est
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+La piedad medieval de Occidente desarrolló la oración del Rosario como sustitución popular de la Oración de las Horas (CEC §2678). La catequesis es el momento en que se puede purificar y educar la piedad popular (CEC §2688). La memorización de las oraciones fundamentales ofrece una base indispensable para la vida de oración (CEC §2688). Los ejercicios de piedad y las devociones populares se recomiendan siempre que estén de acuerdo con la liturgia (CEC §1674-1676). La piedad popular debe ser evangelizada y orientada hacia Cristo.
 ### Según el Concilio Vaticano II (ConcVatII)
 
 *Sacrosanctum Concilium* 13 recomienda encarecidamente los ejercicios piadosos del pueblo cristiano, con tal que sean conformes a las leyes y normas de la Iglesia. Reconoce la dignidad especial de las prácticas religiosas de las Iglesias particulares celebradas por mandato de los Obispos. Estos ejercicios deben organizarse teniendo en cuenta los tiempos litúrgicos, de modo que vayan de acuerdo con la sagrada Liturgia, en cierto modo deriven de ella y a ella conduzcan al pueblo, «ya que la liturgia, por su naturaleza, está muy por encima de ellos» (SC 13).
 
-### Según el Catecismo (CEC)
-
-La piedad medieval de Occidente desarrolló la oración del Rosario como sustitución popular de la Oración de las Horas (CEC §2678). La catequesis es el momento en que se puede purificar y educar la piedad popular (CEC §2688). La memorización de las oraciones fundamentales ofrece una base indispensable para la vida de oración (CEC §2688). Los ejercicios de piedad y las devociones populares se recomiendan siempre que estén de acuerdo con la liturgia (CEC §1674-1676). La piedad popular debe ser evangelizada y orientada hacia Cristo.
 
 ## Distinciones importantes
 

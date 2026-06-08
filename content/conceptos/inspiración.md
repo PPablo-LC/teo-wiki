@@ -19,13 +19,13 @@ Todo lo que los autores inspirados afirman debe tenerse como afirmado por el Esp
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+Dios es el autor de la Sagrada Escritura. Los libros inspirados enseñan la verdad sin error (CEC §105-107). Dios se valió de autores humanos que usaban de todas sus facultades; obrando Dios en ellos y por ellos, como verdaderos autores, pusieron por escrito todo y solo lo que Dios quería (CEC §106).
 ### Según el Concilio Vaticano II (ConcVatII)
 
 *Dei Verbum* 11 trata la inspiración divina de la Sagrada Escritura. La Iglesia tiene por santos y canónicos los libros enteros del Antiguo y Nuevo Testamento «porque, escritos bajo la inspiración del Espíritu Santo, tienen a Dios como autor». Los hagiógrafos escribieron como verdaderos autores, usando sus propias facultades y medios. La inspiración garantiza que la Escritura enseña la verdad salvífica sin error.
 
-### Según el Catecismo (CEC)
-
-Dios es el autor de la Sagrada Escritura. Los libros inspirados enseñan la verdad sin error (CEC §105-107). Dios se valió de autores humanos que usaban de todas sus facultades; obrando Dios en ellos y por ellos, como verdaderos autores, pusieron por escrito todo y solo lo que Dios quería (CEC §106).
 
 ## Distinciones importantes
 
