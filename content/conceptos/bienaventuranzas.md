@@ -19,6 +19,17 @@ Las bienaventuranzas colocan al hombre ante opciones morales decisivas: le ense�
 
 Las bienaventuranzas «son promesas paradójicas que sostienen la esperanza en las tribulaciones; anuncian a los discípulos las bendiciones y las recompensas ya incoadas; quedan inauguradas en la vida de la Virgen María y de todos los santos» (§1717). Las bienaventuranzas, junto con el [[decálogo]] y la catequesis apostólica, describen los caminos que conducen al Reino de los cielos (§1724).
 
+### Según la Summa Theologiae (SmTh)
+
+**Distinción de las bienaventuranzas respecto de las virtudes y los dones (Iª-IIae q.69 a.1):** Las bienaventuranzas no son hábitos distintos de las virtudes y los dones, sino que son los actos mismos de las virtudes y los dones considerados en cuanto que poseen la perfección de la bienaventuranza incoada. La bienaventuranza es el fin último; se dice que uno ya tiene el fin por la esperanza de conseguirlo cuando se mueve convenientemente hacia él. Las obras de las virtudes, y principalmente las de los dones, mueven y acercan al hombre a la bienaventuranza eterna. San Ambrosio atribuye las bienaventuranzas a las virtudes cardinales; San Agustín, a los dones del Espíritu Santo —ambos las atribuyen como los actos se atribuyen a los hábitos.
+
+**Los premios de las bienaventuranzas en esta vida (q.69 a.2):** Los premios de las bienaventuranzas pertenecen tanto a esta vida como a la futura. En cuanto esperanza de la bienaventuranza futura, pueden entenderse como preparación (mérito) o como incoación imperfecta de la bienaventuranza en los varones santos. En sentido perfecto, los premios corresponden a la vida futura; pero ya en esta vida comienzan a disfrutarse de algún modo: el reino de los cielos como principio de sabiduría perfecta; la posesión de la tierra como descanso del deseo en la herencia eterna; el consuelo por la participación del Espíritu Santo; la saciedad por el alimento de hacer la voluntad del Padre; la misericordia de Dios; la visión de Dios por el ojo purificado; la filiación divina por la semejanza con Dios.
+
+**Número de las bienaventuranzas (q.69 a.3):** La enumeración es la más conveniente. Las tres primeras (pobres de espíritu, mansos, los que lloran) retiran al hombre de los obstáculos de la felicidad voluptuosa (riquezas y honores; pasiones del irascible; pasiones del concupiscible). Las dos siguientes (hambrientos y sedientos de justicia, misericordiosos) corresponden a las obras de la vida activa con el prójimo. Las dos últimas (limpios de corazón, pacíficos) disponen para la vida contemplativa. La octava bienaventuranza (perseguidos por la justicia) es confirmación y manifestación de todas las anteriores.
+
+**Adecuación de los premios (q.69 a.4):** Los premios están asignados convenientemente según la correspondencia con los méritos. A los pobres de espíritu, el reino de los cielos (excelencia y abundancia en Dios). A los mansos, la posesión de la tierra de los vivientes (seguridad y estabilidad). A los que lloran, el consuelo (por la participación del Espíritu Santo). A los hambrientos de justicia, la saciedad. A los misericordiosos, la misericordia. A los limpios de corazón, la visión de Dios. A los pacíficos, la filiación divina.
+
+[SmTh Iª-IIae q.69]
 
 ## Analizado para
 
