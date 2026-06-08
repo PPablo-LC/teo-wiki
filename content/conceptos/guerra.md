@@ -1,38 +1,44 @@
 # Guerra
 
 > Área: Moral
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-08
 
 ## Definición
 
-La guerra es un conflicto armado entre naciones o grupos organizados. La doctrina católica, sin negar la posibilidad de una guerra justa en condiciones muy estrictas, afirma que la guerra es un flagelo que debe evitarse y que la paz es un imperativo moral fundado en la ley natural y en el Evangelio.
+La guerra es un conflicto armado entre comunidades políticas. No toda guerra es pecado: la guerra justa requiere tres condiciones: autoridad legítima del príncipe, causa justa y recta intención. Fuera de estas condiciones, la guerra es ilícita.
+
+## Desarrollo doctrinal
+
+La doctrina tomista de la guerra justa establece que los príncipes tienen la obligación de defender el bien público con la espada contra los enemigos externos, del mismo modo que castigan a los malhechores internos. La guerra debe buscar la paz como fin último. Los clérigos tienen prohibido combatir personalmente por la incompatibilidad de su oficio con el derramamiento de sangre.
 
 ## Perspectivas por fuente
 
-### Según el Catecismo (CEC)
+### Según la Summa Theologiae (SmTh)
 
-El CEC §2263-2267 trata de la legítima defensa y de la guerra. Reconoce el derecho a la legítima defensa personal y colectiva, pero establece condiciones rigurosas para la guerra justa (§2309): que el daño causado por el agresor sea duradero, grave y cierto; que hayan fracasado todos los medios pacíficos; que existan probabilidades serias de éxito; y que no se produzcan males mayores que el mal que se pretende evitar. El §2267, tras la reforma de 2018, afirma que la pena de muerte es inadmisible.
+**IIª-IIae q.40 — La guerra:**
 
-Los §2307-2317 condenan la carrera de armamentos y llaman al desarme. «La carrera de armamentos es una de las heridas más graves de la humanidad» (§2315). La guerra no todo lo permite entre los contendientes: el derecho internacional humanitario debe ser respetado (§2312-2314). La obediencia a la autoridad legítima no exime de la objeción de conciencia cuando las órdenes son intrínsecamente malas (§2313).
+**a.1 — Condiciones de la guerra justa:** (1) Autoridad del príncipe (no la persona privada). (2) Causa justa (los atacados lo merecen por alguna culpa). (3) Recta intención (promover el bien o evitar el mal, no por codicia o crueldad). La guerra justa no se opone a la paz, sino a la mala paz.
 
-### Según Royo Marín (TPCr)
+**a.2 — Los clérigos no pueden combatir:** Por la incompatibilidad entre las armas materiales y el ministerio espiritual (contemplación, oración, servicio del altar). Pueden estar presentes para auxilios espirituales, pero no para combatir personalmente.
 
-TPCr trata la guerra en el contexto de la virtud de la justicia y de la caridad. La guerra defensiva es lícita si se cumplen las condiciones clásicas de la guerra justa (autoridad legítima, causa justa, recta intención, proporcionalidad). La guerra ofensiva es siempre ilícita. Toda guerra debe respetar el principio de proporcionalidad y la inmunidad de los no combatientes.
+**a.3 — Es lícito usar estratagemas en guerra justa:** Consiste en ocultar los propios planes, no en mentir o faltar a la palabra dada. Los pactos deben cumplirse incluso con el enemigo.
 
-### Según la Encíclica Magnífica Humanitas (MH)
+**a.4 — Es lícito combatir en día festivo si la necesidad lo exige:** La defensa del bien público prevalece sobre la observancia festiva.
 
-León XIV analiza la guerra en el contexto de la IA y la cultura digital en los §§182-209 de *Magnífica Humanitas*. Describe la «cultura del poder» donde «la disponibilidad de medios y la capacidad de dominar tienden a dictar la agenda y los criterios de decisión» (§188). Denuncia que «asistimos a un verdadero cambio de paradigma: la preocupante rehabilitación de la guerra como instrumento de política internacional» (§190). Alerta sobre los sistemas de armas autónomos con IA: «la creciente facilidad con la que se pueden emplear los sistemas de armas con autonomía operativa hace que la guerra sea más "viable" y menos sujeta al control humano» (§197). Afirma que «no existe algoritmo que pueda hacer que la guerra sea moralmente aceptable» (§198). Exige que la decisión de emplear fuerza letal «debe permanecer bajo un control humano efectivo, consciente y responsable» (§200).
+## Distinciones importantes
+
+- **Guerra justa vs. guerra injusta:** La primera tiene autoridad, causa y intención rectas; la segunda carece de alguna de estas condiciones.
+- **Guerra vs. riña:** La guerra se hace por autoridad pública; la riña, por afecto privado.
+- **Guerra vs. sedición:** La guerra es contra enemigos externos; la sedición, dentro de la misma comunidad.
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[guerra_justa]], la [[paz]], la [[autoridad_civil]], el [[desarme]], la [[prevención_de_conflictos]] y la [[objeción_de_conciencia]].
+Se relaciona con la [[paz_cristiana]] (fin de toda guerra justa), con la [[justicia]] (que exige causa justa), con la [[caridad]] (que ordena la intención), y con la [[riña]] y la [[sedición]] (otros conflictos con los que se distingue).
 
 ## Ver también
 
-[[guerra_justa]], [[paz]], [[desarme]], [[prevención_de_conflictos]], [[autoridad_civil]], [[objeción_de_conciencia]]
+[[paz_cristiana]], [[sedición]], [[riña]], [[discordia]], [[cisma]]
 
 ## Referencias
 
-- CEC §2263-2267, §2307-2317
-- TPCr, Tratado de la justicia
-- ConcVatII, *Gaudium et Spes* 77-82
+- [SmTh II-II q.40 a.1-4]

@@ -41,6 +41,20 @@ CEC §2302-2303: Trata el odio junto con la cólera en el contexto del quinto ma
 **a.4 — Nadie puede odiarse a sí mismo absolutamente:** Todo ser se ama naturalmente a sí mismo. Solo indirectamente puede uno odiarse, cuando desea para sí un bien relativo que es mal absoluto, o cuando se identifica con lo sensible y corporal más que con lo racional.
 
 **Distinción importante:** El odio como pasión del concupiscible (movimiento espontáneo del apetito sensitivo) debe distinguirse del odio como pecado (acto deliberado de la voluntad contrario a la [[caridad]]). La pasión del odio no es pecado en sí misma; solo cuando la voluntad la abraza deliberadamente se convierte en pecado mortal.
+
+**IIª-IIae q.34 — El odio, vicio opuesto al amor de caridad:**
+
+**a.1 — Solo se puede odiar a Dios por sus efectos que contrarían la voluntad desordenada:** Dios en sí mismo (bondad suma) no puede ser odiado. Pero en cuanto autor de castigos y prohibiciones, puede ser odiado por quien tiene voluntad depravada.
+
+**a.2 — El odio a Dios es el más grave de los pecados:** La aversión voluntaria de Dios, esencial al pecado, está implicada directa y formalmente en el odio a Dios. En los demás pecados, la aversión es solo indirecta.
+
+**a.3 — No todo odio al prójimo es pecado:** Es lícito odiar en el hermano el pecado y el defecto de justicia divina. Pero odiar en él la naturaleza o la gracia es siempre pecado.
+
+**a.4 — El odio es el mayor pecado contra el prójimo por parte del que peca (desorden de la voluntad), no por el daño infligido:** Por el desorden interior, el odio supera a los pecados exteriores. Por el daño causado, los pecados exteriores (homicidio, hurto) son mayores.
+
+**a.5 — El odio no es pecado capital:** Lo primero en la construcción de la virtud (amor) es lo último en la destrucción (odio). El odio presupone la corrupción ya consumada de la naturaleza.
+
+**a.6 — El odio nace de la envidia:** La envidia (tristeza del bien ajeno) hace odioso el bien del prójimo. La ira también puede causar odio, pero como disposición, no formalmente.
 ### Según Royo Marín (TPCr)
 
 TPCr trata el odio como pecado capital y como pecado contra la caridad. Es pecado mortal por su misma materia cuando hay deliberación y consentimiento pleno, porque se opone directamente al mandato fundamental de amar al prójimo.

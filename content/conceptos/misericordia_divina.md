@@ -49,3 +49,15 @@ Se relaciona con [[redención]], [[conversión]], [[penitencia]], [[pecado]], [[
 
 - [CEC §1261, §1431, §1490, §1846-1848, §1987-1995, §2839-2845]
 - [TPCr, Primera Parte, Cap. 3]
+
+### Según la Summa Theologiae (SmTh)
+
+**IIª-IIae q.30 — La misericordia como efecto de la caridad:**
+
+**a.1 — El mal (miseria) es el motivo propio de la misericordia:** La misericordia es compasión por la miseria ajena. La miseria consiste en sufrir lo que no se quiere. Los males que arruinan y contristan son el objeto propio de la misericordia.
+
+**a.2 — La razón de ser misericordioso es la unión afectiva (por amor) o la posibilidad de padecer lo mismo:** El amor hace considerar el mal ajeno como propio. Los que se creen felices e invulnerables tienen menos misericordia.
+
+**a.3 — La misericordia es virtud:** En cuanto movimiento del apetito intelectivo regido por la razón, la misericordia es virtud. Implica una razón especial de bien (la miseria del prójimo), distinta del gozo y la paz que no añaden nada nuevo al objeto de la caridad.
+
+**a.4 — La misericordia es la mayor de las virtudes en sí misma, pero no en relación al sujeto:** En sí misma, la misericordia es lo más grande (propio de Dios socorrer deficiencias). Para el hombre, que tiene a Dios sobre sí, la caridad que une a Dios es superior. Pero entre las virtudes que miran al prójimo, la misericordia es la más excelente.

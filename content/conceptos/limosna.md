@@ -1,37 +1,56 @@
 # Limosna
 
-> Área: Moral / Ascética
-> Última actualización: 2026-05-26
+> Área: Moral
+> Última actualización: 2026-06-08
 
 ## Definición
 
-La limosna es la ayuda material que se da al necesitado como obra de misericordia corporal. En la tradición cristiana es expresión concreta de la caridad, medio de penitencia y satisfacción por los pecados, y uno de los bienes obligados de la vida cristiana juntamente con la oración y el ayuno.
+La limosna es la obra por la que, movidos por compasión, se da algo al indigente por amor de Dios. Es acto de misericordia imperado por la caridad. Comprende tanto ayudas corporales (dar de comer, de beber, vestir, etc.) como espirituales (enseñar, aconsejar, consolar, corregir, etc.).
+
+## Desarrollo doctrinal
+
+La limosna es preceptiva en caso de necesidad extrema del prójimo y cuando se tiene algo superfluo. Fuera de esas condiciones, es de consejo. Debe hacerse con lo adquirido lícitamente y en la medida justa, atendiendo al orden de la caridad: los más allegados tienen prioridad, salvo que haya mayor necesidad en otros o mayor utilidad común.
 
 ## Perspectivas por fuente
 
-### Según el Catecismo (CEC)
+### Según la Summa Theologiae (SmTh)
 
-El CEC §1438 incluye la limosna entre las obras de penitencia propias del tiempo cuaresmal. El §2447 enumera la limosna entre las obras de misericordia corporales: «dar de comer al hambriento, dar de beber al sediento, vestir al desnudo, acoger al forastero, visitar a los enfermos y a los presos, enterrar a los muertos». El §2462 enseña que la limosna hecha a los pobres es un testimonio de caridad fraterna y una práctica de justicia que agrada a Dios.
+**IIª-IIae q.32 — La limosna, especie de beneficencia:**
 
-### Según el Código de Derecho Canónico (CIC)
+**a.1 — Dar limosna es acto de caridad mediante la misericordia:** El motivo que impulsa a dar limosna es acudir al auxilio del necesitado por compasión. La misericordia es efecto de la caridad, y por eso la limosna es acto de caridad.
 
-El c. 1286 recomienda la limosna a los clérigos y religiosos. El c. 222 §1 establece que los fieles tienen la obligación de ayudar a las necesidades de la Iglesia y de los pobres. Los bienes eclesiásticos deben destinarse, en parte, a las obras de caridad (c. 1254 §2).
-### Según Royo Marín (TPCr)
+**a.2 — Las obras de misericordia se dividen en corporales y espirituales:** Corporales: dar de comer, beber, vestir, posada, visitar enfermos, redimir cautivos, enterrar muertos. Espirituales: enseñar, aconsejar, consolar, corregir, perdonar, soportar, orar.
 
-TPCr trata la limosna como medio de perfección y como satisfacción por los pecados. La limosna, unida a la oración y al ayuno, purifica el alma y dispone a la gracia. La limosna debe ser proporcionada a las posibilidades del donante y a las necesidades del receptor. Cristo prometió recompensa eterna a quienes practican la misericordia con los necesitados (Mt 25,31-46).
+**a.3 — En sí mismas, las limosnas espirituales son superiores a las corporales:** El don espiritual vale más que el corporal, el alma es más noble que el cuerpo, y las acciones espirituales son más nobles que las corporales.
 
+**a.4 — La limosna corporal, hecha por amor de Dios, tiene efecto espiritual:** Merece fruto espiritual por la caridad del dador y mueve al receptor a orar.
+
+**a.5 — La limosna es de precepto en caso de necesidad extrema y con lo superfluo:** Fuera de eso, es de consejo. Precepto afirmativo: obliga cuando concurren las circunstancias debidas.
+
+**a.6 — No se debe dar limosna de lo estrictamente necesario para la vida propia y de los allegados:** Salvo en caso de necesidad extrema de persona cualificada de quien depende el bien común.
+
+**a.7 — No se debe dar limosna con lo ilícitamente adquirido que deba restituirse:** Lo adquirido por hurto, rapiña o usura debe restituirse, no darse en limosna.
+
+**a.8 — Quien está bajo potestad ajena debe dar limosna solo dentro de los límites del permiso del superior:** Salvo en necesidad extrema.
+
+**a.9 — En igualdad de condiciones, se debe dar limosna con preferencia a los más allegados:** Pero se debe preferir al más santo o más útil para el bien común si la necesidad es mayor.
+
+**a.10 — La limosna debe ser abundante en proporción a lo que se tiene, pero no debe sobreabundar superfluamente en quien la recibe.**
+
+## Distinciones importantes
+
+- **Limosna de precepto vs. de consejo:** La primera obliga en necesidad extrema con lo superfluo; la segunda es voluntaria.
+- **Limosna corporal vs. espiritual:** La espiritual es superior en sí misma; la corporal puede ser preferible en caso de necesidad urgente.
+- **Lo superfluo vs. lo necesario:** Lo necesario incluye la condición y el estado de la persona y los suyos.
 
 ## Relaciones doctrinales
 
-La limosna es obra de [[misericordia]], expresión de la [[caridad]] y medio de [[penitencia]]. Se relaciona con la [[justicia]], la [[pobreza]], los [[bienes_eclesiásticos]] y la [[perfección_cristiana]].
+Se relaciona con la [[beneficencia]] (de la que es especie), con la [[misericordia_divina]] (virtud que la elicita), con la [[virtud_de_la_caridad]] (que la impera), con la [[corrección_fraterna]] (limosna espiritual), y con el [[orden_de_la_caridad]] (que regula su distribución).
 
 ## Ver también
 
-[[penitencia]], [[caridad]], [[misericordia]], [[bienes_eclesiásticos]], [[pobreza]], [[ayuno]], [[oración]]
+[[beneficencia]], [[misericordia_divina]], [[corrección_fraterna]], [[orden_de_la_caridad]], [[virtud_de_la_caridad]]
 
 ## Referencias
 
-- CEC §1438, §2447, §2462
-- TPCr, Tratado de los medios de perfección
-- CIC cc. 222, 1254, 1286
-- Mt 25,31-46
+- [SmTh II-II q.32 a.1-10]

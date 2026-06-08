@@ -66,7 +66,61 @@ De Lubac afirma la realidad sustancial y divina de la caridad: «Debemos creer e
 
 **a.12 — Se pierde por un solo acto de pecado mortal:** Un solo pecado mortal hace al hombre digno de muerte eterna e incompatible con la caridad, que merece vida eterna. Luego la caridad se pierde por un solo acto mortal, no gradualmente.
 
-[SmTh IIa-IIae q.23-24]
+**IIª-IIae q.25 — El objeto de la caridad:**
+
+**a.1 — El amor de caridad se extiende a Dios y al prójimo:** La razón formal del amor al prójimo es Dios, pues lo que debemos amar en el prójimo es que exista en Dios. Por eso el mismo hábito de caridad abarca el amor a Dios y al prójimo.
+
+**a.2 — La caridad misma debe ser amada:** La caridad es el bien que deseamos para todos los que amamos por caridad; por eso la amamos como bien común de la amistad.
+
+**a.3 — Las criaturas irracionales no se aman por caridad (como amigas):** No pueden ser amadas con amistad de caridad porque carecen de capacidad para la bienaventuranza eterna. Pero se las puede amar como bienes que deseamos para otros, para honor de Dios y utilidad de los hombres.
+
+**a.4 — El hombre debe amarse a sí mismo por caridad:** El amor a sí mismo es forma y raíz de la amistad, pues la caridad incluye al hombre mismo como perteneciente a Dios.
+
+**a.5 — El cuerpo debe ser amado por caridad:** En cuanto a su naturaleza (no en su corrupción), el cuerpo puede ser amado con caridad porque puede ser usado en servicio de Dios y participa de la bienaventuranza por redundancia.
+
+**a.6 — Los pecadores deben ser amados por caridad:** Por su naturaleza, capaz de bienaventuranza, deben ser amados; por su culpa, deben ser odiados. Amarles en caridad es amarlos por Dios.
+
+**a.7 — Los pecadores no se aman verdaderamente a sí mismos:** Aman el hombre exterior (sensible), no el interior (racional). Los buenos, en cambio, se aman verdaderamente según el hombre interior.
+
+**a.8 — La caridad obliga a amar a los enemigos:** En sentido universal (como prójimos) es de precepto. En sentido particular (movimiento especial hacia un enemigo concreto) pertenece a la perfección, salvo caso de necesidad.
+
+**a.9 — Dar señales de amor a los enemigos:** Los beneficios comunes (orar por todos, etc.) son de precepto; los beneficios particulares fuera de necesidad pertenecen a la perfección.
+
+**a.10 — Los ángeles deben ser amados por caridad:** La amistad de caridad se funda en la comunicación de la bienaventuranza eterna, de la que participan hombres y ángeles.
+
+**a.11 — Los demonios no deben ser amados por caridad:** Están condenados eternamente; no podemos quererles el bien de la vida eterna. Su naturaleza puede amarse solo en cuanto conservada para gloria de Dios.
+
+**a.12 — Cuatro cosas deben amarse por caridad:** Dios (principio de la bienaventuranza), nosotros mismos (participantes), el prójimo (asociado), nuestro cuerpo (redundancia).
+
+**IIª-IIae q.26 — El orden de la caridad:**
+
+**a.1 — Hay orden en la caridad:** El amor de caridad tiende a Dios como principio de la bienaventuranza; por eso hay anterioridad y posterioridad entre las cosas amadas según su relación a ese principio.
+
+**a.2 — Dios debe ser amado más que el prójimo:** Dios es amado como causa de la bienaventuranza; el prójimo, como copartícipe. La causa es más amable que el efecto.
+
+**a.3 — Dios debe ser amado más que a sí mismo:** Dios es el bien común de todos; la parte ama el bien del todo más que su bien particular.
+
+**a.4 — El hombre debe amarse a sí mismo más que al prójimo:** Después de Dios, el hombre se ama a sí mismo por ser partícipe del bien divino; el prójimo es amado como asociado. La unidad es superior a la unión.
+
+**a.5 — El prójimo debe ser amado más que el propio cuerpo:** El consorcio en la bienaventuranza (motivo del amor al prójimo) es más poderoso que la redundancia de la bienaventuranza en el cuerpo.
+
+**a.6 — Un prójimo debe ser amado más que otro:** Incluso afectivamente, la intensidad debe ser mayor según la cercanía al principio del amor. No todos tienen la misma relación con Dios.
+
+**a.7 — Los más allegados deben ser amados más intensamente, los mejores más excelentemente:** Por parte del objeto (especificación), los mejores merecen mayor bien; por parte del sujeto (intensidad), los más allegados reciben amor más intenso.
+
+**a.8 — Los consanguíneos deben ser más amados (en lo natural):** La unión de origen natural es la más estable; pero en lo civil, los conciudadanos; en lo bélico, los compañeros.
+
+**a.9 — El padre más que el hijo (por parte del objeto), el hijo más que el padre (por parte del sujeto):** El padre es principio más excelente (más semejante a Dios); el hijo está más unido al que ama.
+
+**a.10 — El padre más que la madre absolutamente:** El padre es principio activo más excelente que la madre, que lo es pasivo y material.
+
+**a.11 — Los padres más que la esposa (por el bien), la esposa más que los padres (por la unión):** A los padres se les debe mayor respeto; a la esposa, mayor intensidad por la unión conyugal.
+
+**a.12 — El bienhechor más que el beneficiado (por el bien), el beneficiado más que el bienhechor (por la unión):** El bienhechor es principio del bien; el beneficiado es obra del bienhechor, amado como propio.
+
+**a.13 — El orden de la caridad permanece en la patria:** En cuanto a la intensidad, cada uno se amará más a sí mismo; en cuanto al bien deseado, se amará más al mejor.
+
+[SmTh IIa-IIae q.23-26]
 
 Ver artículo principal: [[virtud_de_la_caridad]]
 

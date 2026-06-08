@@ -21,6 +21,18 @@ La paz de Cristo es, ante todo, la reconciliación con el Padre, que se realiza 
 
 En el centro del «Evangelio de paz» (Ef 6,15) se encuentra el misterio de la Cruz, porque la paz es inseparable del sacrificio de Cristo. Jesús crucificado ha anulado la división, instaurando la paz y la reconciliación «por medio de la cruz, dando en sí mismo muerte a la Enemistad» (Ef 2,16) [CompDS §493].
 
+### Según la Summa Theologiae (SmTh)
+
+**IIª-IIae q.29 — La paz como efecto de la caridad:**
+
+**a.1 — La paz no es lo mismo que concordia:** La concordia es unión de voluntades de diferentes personas. La paz añade la unión de los apetitos del mismo sujeto (apetito sensitivo con racional), es decir, la «tranquilidad del orden».
+
+**a.2 — Todas las cosas apetecen la paz:** Todo ser desea alcanzar lo que apetece sin tropiezos. Incluso quienes guerrea buscan una paz más perfecta que la que tienen.
+
+**a.3 — La paz es efecto propio de la caridad:** La caridad produce la doble unión de la paz: ordena los apetitos propios hacia Dios (amor a Dios con todo el corazón) y une con el prójimo (amor al prójimo como a sí mismo). La justicia solo elimina obstáculos; la caridad causa la paz directamente.
+
+**a.4 — La paz no es virtud distinta de la caridad, sino su efecto:** Así como el fuego calienta, licúa y dilata por una sola fuerza, la caridad produce amor, gozo y paz como efectos suyos. La paz es acto de caridad, no virtud separada.
+
 ## Relaciones doctrinales
 
 Se relaciona con [[paz]], [[reconciliación]], [[perdón]], [[jesucristo]], [[redención]], [[justicia_y_paz]]

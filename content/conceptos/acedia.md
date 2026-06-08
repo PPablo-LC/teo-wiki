@@ -41,3 +41,15 @@ Se vincula con la [[pereza]], la [[tibieza]], el [[desaliento]] y la [[tristeza]
 
 - [CEC §2733]
 - [TPCr, Parte I, Pecados capitales]
+
+### Según la Summa Theologiae (SmTh)
+
+**IIª-IIae q.35 — La acidia, vicio opuesto al gozo de la caridad:**
+
+**a.1 — La acidia es pecado:** Es tristeza del bien espiritual en cuanto bien divino. El bien espiritual es un bien real; entristecerse de él es malo en sí mismo. Es pecado mortal por su género, aunque los movimientos en la sensualidad sin consentimiento de la razón son veniales.
+
+**a.2 — La acidia es vicio especial:** No es tristeza de cualquier bien espiritual (eso sería común a todo vicio), sino tristeza del bien divino mismo, del que se goza la caridad. Por eso es vicio especial opuesto a la caridad.
+
+**a.3 — Es pecado mortal por su género:** Se opone esencialmente a la caridad, cuyo efecto propio es el gozo de Dios. Consumado con consentimiento de la razón, es mortal. Los movimientos imperfectos en la sensualidad son veniales.
+
+**a.4 — La acidia es pecado capital:** Del mismo modo que por el deleite se hacen muchas cosas, por la tristeza también. La acidia, como tristeza del bien divino, lleva a huir de lo que contrista (desesperación, pusilanimidad, indolencia) y a buscar placeres ilícitos (divagación de la mente). Sus hijas son: malicia, rencor, pusilanimidad, desesperación, indolencia hacia los mandamientos, divagación de la mente por lo ilícito.

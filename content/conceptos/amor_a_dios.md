@@ -21,6 +21,44 @@ El amor a Dios es el primer mandamiento: «Amarás al Señor tu Dios con todo tu
 
 La caridad es amistad del hombre con Dios (II-II q.23 a.1). El objeto de la caridad es Dios (II-II q.25 a.1-2). La caridad es la más excelente de las virtudes (I-II q.62 a.2). La ley nueva es principalmente la gracia del Espíritu Santo que se infunde en los corazones para amar a Dios.
 
+**IIª-IIae q.27 — El acto principal de la caridad es el amor:**
+
+**a.1 — A la caridad le pertenece más amar que ser amado:** El acto propio de la caridad es amar; ser amado le compete por otro. Así como el amigo es más alabado por amar que por ser amado, así la caridad consiste esencialmente en amar.
+
+**a.2 — El amor de caridad no es lo mismo que benevolencia:** La benevolencia es simple acto de voluntad por el que queremos el bien para otro; el amor de caridad añade una unión afectiva con el amado.
+
+**a.3 — Dios debe ser amado por sí mismo:** Dios es fin último, no ordenado a otro; su sustancia es su bondad. No se le ama por otro como causa final, formal o eficiente, sino solo disposicionalmente (por beneficios o premios).
+
+**a.4 — Dios puede ser amado inmediatamente en esta vida:** El amor, acto de la potencia apetitiva, tiende primero a Dios incluso en esta vida, y de Él va hacia las criaturas. La caridad une inmediatamente a Dios.
+
+**a.5 — Dios debe ser amado totalmente:** En cuanto al objeto (todo lo que hay en Él) y en cuanto al sujeto (con todo el corazón), sí; pero no proporcionalmente, pues la bondad infinita de Dios excede toda capacidad creada.
+
+**a.6 — El amor a Dios no tiene medida:** Dios es el fin último; en el fin no hay medida, sino que el fin mismo es la medida. Cuanto más se ama a Dios, mejor es el amor.
+
+**a.7 — Es más meritorio amar al amigo (por el objeto) y al enemigo (por el motivo):** Por parte del prójimo, amar al amigo es mejor (más digno y más unido). Por parte del motivo (Dios), amar al enemigo arguye mayor fuerza de caridad.
+
+**a.8 — Es más meritorio amar a Dios que al prójimo:** El amor de Dios merece la recompensa suprema (gozar de Dios). El amor del prójimo es meritorio en cuanto que implica el amor de Dios.
+
+**IIª-IIae q.44 — Los preceptos de la caridad:**
+
+**a.1 — Deben darse preceptos sobre la caridad:** La caridad es el fin de la vida espiritual. Todo cuanto afecta a la vida espiritual se ordena a ella como a su fin, por lo que debe ser objeto de precepto.
+
+**a.2 — Son dos preceptos: amor a Dios y amor al prójimo:** El amor de Dios es el fin; el amor al prójimo se ordena a ese fin. Por eso se dan explícitamente dos preceptos.
+
+**a.3 — Dos preceptos son suficientes:** La caridad es amistad, y la amistad supone al menos dos. El amor a Dios (fin) y al prójimo (por Dios) bastan.
+
+**a.4 — «Con todo el corazón» significa la totalidad del hábito:** No como acto continuo (propio de la patria), sino como disposición habitual que no admite nada contrario al amor de Dios.
+
+**a.5 — Las expresiones «corazón», «alma», «mente», «fuerzas» indican la sujeción total a Dios:** Corazón (voluntad), mente (entendimiento), alma (apetito inferior), fuerzas (acción exterior).
+
+**a.6 — El precepto se cumple imperfectamente en esta vida y perfectamente en la patria:** En esta vida se cumple sin apartarse del orden hacia el fin; en la patria se cumplirá plenamente cuando Dios sea todo en todos.
+
+**a.7 — «Amar al prójimo como a sí mismo» expresa el motivo y el modo:** El motivo es la proximidad por la imagen de Dios y la capacidad de la gloria. El modo es amar por Dios (santo), en el bien (justo), queriendo el bien para él (verdadero).
+
+**a.8 — El orden de la caridad cae bajo precepto:** El orden pertenece a la esencia del acto virtuoso. Por eso debe amarse más a Dios que al prójimo, al prójimo que al cuerpo, y entre los prójimos, a los más allegados y mejores.
+
+[SmTh II-II q.23-27, q.44]
+
 ### Según Royo Marín (TPCr)
 
 La caridad es amor de amistad con Dios y constituye la esencia de la perfección cristiana. Hay tres grados de caridad: incipiente (principiantes), progresante (proficientes) y perfecta (perfectos), que corresponden a las tres vías: purgativa, iluminativa y unitiva. La caridad perfecta se caracteriza por el deseo intenso de la unión con Dios. Cuanto más se ama a Dios, más se participa de su vida divina (TPCr, Tercera Parte, Libro II).

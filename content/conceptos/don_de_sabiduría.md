@@ -44,6 +44,22 @@ Es importante distinguir:
 
 ## Perspectivas por fuente
 
+### Según la Summa Theologiae (SmTh)
+
+**IIª-IIae q.45 — El don de sabiduría:**
+
+**a.1 — La sabiduría es don del Espíritu Santo:** Al sabio le compete considerar la causa suprema (Dios) y juzgar y ordenar todo según ella. El hombre alcanza este juicio por el Espíritu Santo, que escudriña las profundidades de Dios.
+
+**a.2 — La sabiduría don radica en el entendimiento como sujeto, pero tiene su causa en la voluntad (caridad):** Su esencia es juzgar rectamente (entendimiento), pero procede de la connaturalidad con las cosas divinas causada por la caridad.
+
+**a.3 — La sabiduría es especulativa y práctica:** Contempla las razones divinas y dirige las acciones humanas conforme a ellas. La razón superior, destinada a la sabiduría, examina las razones supremas y las consulta para juzgar lo humano.
+
+**a.4 — La sabiduría don no coexiste con el pecado mortal:** Presupone la caridad, que es incompatible con el pecado mortal. La sabiduría adquirida por estudio, en cambio, puede darse sin gracia.
+
+**a.5 — La sabiduría don se da en todos los que tienen gracia santificante:** En grado suficiente para la salvación, mediante el juicio recto de lo divino necesario. En grado eminente (para enseñar a otros) es gracia gratis data.
+
+**a.6 — La séptima bienaventuranza («bienaventurados los pacíficos») corresponde al don de sabiduría:** Hacer la paz es ordenar las cosas a su debido fin, propio de la sabiduría. El premio («serán llamados hijos de Dios») es la participación en la Sabiduría engendrada (el Hijo).
+
 ### Según Royo Marín (TPCr)
 
 El don de sabiduría es «el don de los contemplativos y de los perfectos».

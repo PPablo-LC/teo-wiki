@@ -19,6 +19,16 @@ En Ia-IIae q.36 a.1, Santo Tomás trata la envidia (*invidia*) como una especie 
 
 [SmTh Ia-IIae q.36 a.1]
 
+**IIª-IIae q.36 — La envidia, vicio opuesto al gozo de la caridad:**
+
+**a.1 — La envidia es tristeza del bien ajeno:** No cualquier tristeza del bien ajeno (como la del temor o la némesis), sino la que nace de considerar el bien ajeno como disminución de la propia excelencia.
+
+**a.2 — La envidia es siempre pecado:** Entristecerse del bien del prójimo porque él lo posee y nosotros no (celo, que puede ser bueno) no es envidia. La envidia propiamente dicha (tristeza porque el otro tiene bienes que nosotros no tenemos) es siempre mala.
+
+**a.3 — La envidia es pecado mortal por su género:** Se opone directamente a la caridad, que goza del bien del prójimo. Los primeros movimientos en la sensualidad sin consentimiento de la razón son veniales.
+
+**a.4 — La envidia es pecado capital:** Nace de la vanagloria. Sus hijas son: odio, murmuración, detracción (difamación), alegría por la adversidad del prójimo y aflicción por su prosperidad.
+
 ## Perspectivas por fuente
 
 ### Según el Catecismo (CEC)
@@ -49,4 +59,4 @@ La envidia se opone a la [[virtud_de_la_caridad]] y al gozo espiritual. Es hija 
 
 - [CEC §§2538-2541]
 - [TPCr, Tercera Parte, Libro II, Cap. 2 (n.367)]
-- [SmTh Ia-IIae q.36 a.1]
+- [SmTh Ia-IIae q.36 a.1; II-II q.36]

@@ -23,7 +23,17 @@ Santo Tomás distingue el gozo (*gaudium*) de la delectación (*delectatio*): el
 
 En cuanto a su moralidad, no toda delectación es buena ni toda es mala: la bondad o malicia del gozo depende de su objeto y de su conformidad con la razón (q.34 a.1). El gozo por el bien honesto y espiritual es bueno; la delectación en lo contrario a la razón es mala (q.34 a.2). La delectación en el bien perfecto (Dios) es lo óptimo entre los bienes humanos (q.34 a.3).
 
-[SmTh Ia-IIae q.31, q.34]
+**IIª-IIae q.28 — El gozo como efecto de la caridad:**
+
+**a.1 — El gozo es efecto de la caridad:** La caridad es el amor de Dios, cuyo bien es inmutable. El gozo espiritual que tiene a Dios por objeto está causado por la caridad, pues la presencia del bien amado causa gozo.
+
+**a.2 — El gozo espiritual de la caridad admite tristeza accidental pero no esencial:** El gozo principal (por el bien divino en sí mismo) no tolera mezcla de tristeza. El gozo por el bien divino participado por nosotros admite tristeza por los obstáculos que impiden esa participación.
+
+**a.3 — El gozo espiritual será pleno en la patria; en esta vida es imperfecto:** Por parte del objeto, solo Dios puede tener gozo completo de sí mismo. Por parte del sujeto, en la bienaventuranza perfecta no quedará nada por desear; en esta vida, el deseo no tiene sosiego.
+
+**a.4 — El gozo no es virtud distinta de la caridad, sino su acto y efecto:** El amor es el primer movimiento de la potencia apetitiva; del amor se siguen el deseo y el gozo. El gozo es acto de la caridad, no virtud separada. Por eso se cuenta entre los frutos del Espíritu Santo.
+
+[SmTh Ia-IIae q.31, q.34; II-II q.28]
 ### Según Royo Marín (TPCr)
 
 Royo Marín trata el gozo principalmente como fruto del Espíritu Santo. La contemplación infusa produce un gozo inefable, «una elevación y una suspensión del espíritu en Dios que es un anticipo de las dulces alegrías eternas». El gozo espiritual es señal de que la gracia actúa en el alma. Los santos experimentan un gozo profundo incluso en medio del dolor, porque su alegría no está en las criaturas sino en Dios. Las alimas que viven la presencia de Dios gozan de una paz y un gozo estables.
@@ -49,4 +59,4 @@ El gozo se relaciona con los [[frutos_del_espíritu_santo]] (segundo fruto), con
 
 - [CEC §301; §1832; §2579]
 - [TPCr, Tercera Parte, Libro II, Cap. 3]
-- [SmTh Ia-IIae q.31, q.34]
+- [SmTh Ia-IIae q.31, q.34; II-II q.28]
