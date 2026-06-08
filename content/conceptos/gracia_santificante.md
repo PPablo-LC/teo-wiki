@@ -1,7 +1,7 @@
 # Gracia Santificante
 
 > Área: Dogmática
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-08
 
 ## Definición
 
@@ -22,6 +22,10 @@ Santo Tomás enseña que los ángeles fueron creados en gracia santificante desd
 **Iª q.95 a.1 — El primer hombre fue creado en gracia:** La rectitud del estado primitivo —en que la razón estaba sometida a Dios, las potencias inferiores a la razón, y el cuerpo al alma— exigía la gracia como don sobrenatural. La sumisión de la razón a Dios no era natural sino por la gracia, pues de ser natural hubiera permanecido tras el pecado. «Una vez destituida el alma de la gracia divina, se avergonzaron de la desnudez de su cuerpo, pues sintieron en su carne un movimiento de desobediencia» (q.95 a.1).
 
 **Iª q.95 a.4 — Obras más meritorias en el estado de inocencia:** Considerada la raíz de la caridad y la gracia, las obras del primer hombre fueron más meritorias que las posteriores al pecado, por ser la gracia más abundante al no oponérsele obstáculo natural alguno. También en cantidad absoluta eran más meritorias por ser el hombre más virtuoso. Solo en cantidad proporcional (dificultad) son mayores las obras tras el pecado (q.95 a.4).
+
+**Ia-IIae q.110 — Esencia de la gracia santificante:** Por la gracia santificante el hombre participa de la naturaleza divina. La gracia no es solo el amor eterno de Dios, sino que pone algo real en el alma: un efecto creado por el amor divino (q.110 a.1). Este efecto es una cualidad del alma, un don habitual infundido por Dios, que dispone al alma para ser movida con suavidad y prontitud hacia el bien sobrenatural (q.110 a.2). La gracia se distingue de las virtudes infusas: así como la luz natural de la razón se distingue de las virtudes adquiridas, así la luz de la gracia —por la que participamos de la naturaleza divina— es cosa distinta de las virtudes infusas que de ella proceden (q.110 a.3). La gracia santificante reside en la esencia del alma, no en las potencias; de ella fluyen las virtudes infusas a las potencias como de la esencia brotan las potencias mismas (q.110 a.4).
+
+**Ia-IIae q.112 — Causa de la gracia:** Solo Dios puede causar la gracia santificante, que es participación de la naturaleza divina y sobrepasa toda facultad creada (q.112 a.1). Para recibirla se requiere preparación del sujeto, pero esta preparación es ya obra de la moción divina (q.112 a.2). La gracia no se da por necesidad a quien se prepara, sino según la voluntad divina (q.112 a.3). Por razón del sujeto, la gracia admite grados: unos participan más perfectamente de la luz divina que otros, según la disposición preparada por Dios (q.112 a.4). Con certeza solo por revelación especial se sabe que se posee la gracia; por conjetura, mediante signos como el gozo en Dios y la ausencia de pecado mortal (q.112 a.5).
 
 [TPCr, Parte II, Cap. 1]
 

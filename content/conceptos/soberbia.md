@@ -1,7 +1,7 @@
 # Soberbia
 
 > Área: Moral
-> Última actualización: 2026-06-02
+> Última actualización: 2026-06-08
 
 ## Definición
 
@@ -30,7 +30,11 @@ En el NT, la soberbia de los fariseos es denunciada por Jesús (Lc 18,9-14). El 
 
 Santo Tomás trata la soberbia como primer pecado de los ángeles en Iª q.63. El primer pecado del ángel no pudo ser más que el de soberbia, pues la naturaleza espiritual no tiende a bienes corporales, y no someterse a la regla del superior en lo debido es precisamente la soberbia (q.63 a.2). El ángel pecó apeteciendo ser como Dios por semejanza: deseó obtener la bienaventuranza por la capacidad de su naturaleza, desviando su apetito de la bienaventuranza sobrenatural que proviene de la gracia (q.63 a.3). No pecó por ignorancia o pasión (como el hombre), sino por defecto en la elección: se inclinó al propio bien sin someterse a la regla de la voluntad divina (q.63 a.1). De la soberbia se siguió la envidia: el ángel se dolió del bien del hombre y de la grandeza divina (q.63 a.2). Véase [[pecado_de_los_ángeles]].
 
-[SmTh Iª q.63 a.1-3; SmTh II-II q.162]
+**Ia-IIae q.84 a.2 — La soberbia como principio de todo pecado:**
+
+En el orden de la intención, el fin es el principio. El hombre busca en todos los bienes temporales su propia excelencia. Por eso la soberbia, apetito desordenado de la propia excelencia, es el principio de todo pecado en cuanto el hombre, por ella, desprecia la sujeción a Dios. Mientras la avaricia es raíz (da la facultad material para pecar), la soberbia es principio (da el motivo formal: el amor desordenado de sí mismo). La soberbia no es un vicio capital más, sino la «reina de todos los vicios», que se encuentra en todos los pecados.
+
+[SmTh Iª q.63 a.1-3; SmTh Ia-IIae q.84 a.2; SmTh II-II q.162]
 
 ### Según Royo Marín (TPCr)
 

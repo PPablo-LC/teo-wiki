@@ -31,6 +31,21 @@ Los diez mandamientos, que constituyen un camino de vida para una existencia lib
 
 La dinámica de la renovación social debe anclarse en los principios inmutables de la ley natural, impresa por Dios Creador en todas sus criaturas e iluminada escatológicamente por Jesucristo [CompDS §53].
 
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata la ley natural en la cuestión 94 de la Ia-IIae, cuyos seis artículos constituyen el tratamiento clásico de la materia.
+
+**Naturaleza de la ley natural.** La ley natural no es un hábito en sentido propio y esencial, sino un producto de la razón, como lo es la proposición en el orden especulativo (q.94 a.1). Puede llamarse hábito solo impropiamente, en cuanto los preceptos de la ley natural están en la razón de manera habitual, del mismo modo que los principios indemostrables del entendimiento especulativo son el objeto del hábito de los primeros principios, no el hábito mismo.
+
+**Preceptos de la ley natural.** El primer precepto es: «El bien ha de hacerse y buscarse; el mal ha de evitarse» (q.94 a.2). Sobre este se fundan todos los demás, en la medida en que la razón práctica aprehende naturalmente como bien aquello a lo que el hombre tiene inclinación natural. El orden de los preceptos sigue el orden de las inclinaciones naturales: 1) inclinación común a todas las sustancias (conservación del ser); 2) inclinación común a los animales (conjunción de sexos, educación de los hijos); 3) inclinación propia de la naturaleza racional (buscar la verdad acerca de Dios, vivir en sociedad). Todos los preceptos constituyen una sola ley natural en cuanto se reducen a un único primer precepto.
+
+**Actos de las virtudes y ley natural.** Los actos de todas las virtudes caen bajo la ley natural si se consideran en cuanto virtuosos, pues la forma propia del hombre es el alma racional y todo hombre se inclina naturalmente a obrar según la razón (q.94 a.3). Considerados en su especie, no todos son de ley natural, pues muchos actos virtuosos son conclusión del proceso racional que busca lo más útil para vivir bien.
+
+**Universalidad.** En cuanto a los primeros principios universales, la ley natural es la misma para todos los hombres, tanto en contenido como en grado de conocimiento (q.94 a.4). En cuanto a los preceptos particulares (conclusiones próximas), es la misma en la mayoría de los casos, pero pueden ocurrir excepciones por impedimentos especiales (pasión, mala costumbre, torcida disposición natural).
+
+**Mutabilidad.** La ley natural es completamente inmutable por vía de sustracción en sus primeros principios (q.94 a.5). En los preceptos secundarios (conclusiones próximas) es inmutable en la mayoría de los casos, pero puede cambiar en algunos casos particulares por motivos especiales. Por vía de adición —añadiendo disposiciones útiles— sí puede cambiar, tanto por la ley divina como por las leyes humanas.
+
+**Abolición.** La ley natural no puede ser abolida en el corazón humano en cuanto a sus principios más comunes considerados en universal (q.94 a.6). Puede ser abolida en algún caso concreto cuando la razón se ve impedida por la concupiscencia o la pasión. Los preceptos secundarios pueden ser borrados por malas persuasiones o por costumbres depravadas y hábitos corrompidos.
 
 ## Ver también
 

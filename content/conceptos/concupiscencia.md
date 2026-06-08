@@ -1,7 +1,7 @@
 # Concupiscencia
 
 > Área: Moral
-> Última actualización: 2026-06-06
+> Última actualización: 2026-06-08
 
 ## Definición
 
@@ -43,6 +43,12 @@ En la enseñanza moral, el Catecismo dedica los artículos §2514-2516 a la conc
 
 El remedio contra la concupiscencia es la mortificación cristiana y la práctica de las virtudes. La concupiscencia puede ser vencida con la gracia divina y el esfuerzo ascético. No es pecado consentir a sus primeros movimientos, sino solo cuando la voluntad los abraza deliberadamente.
 
+**Ia-IIae q.82 a.3 — La concupiscencia como elemento material del pecado original:**
+
+En el pecado original, la concupiscencia constituye el elemento material (la conversión desordenada a los bienes mudables), mientras que la privación de la justicia original es el elemento formal (la aversión de Dios). La concupiscencia, como desorden del apetito sensitivo, es la transmisión de la inclinación desordenada que queda en la naturaleza humana después de la pérdida del don de integridad.
+
+**Ia-IIae q.84 a.1 — La codicia como raíz de todos los pecados:** La concupiscencia desordenada de los bienes temporales (especialmente las riquezas) es llamada «raíz de todos los males» (1 Tim 6,10). La avaricia es raíz en cuanto constituye la disposición para todos los pecados: por las riquezas el hombre adquiere la facultad de cometer cualquier pecado. En este sentido, la concupiscencia de los ojos (riquezas) es el fundamento que hace posibles los demás pecados.
+
 **Ia-IIae q.30 — La concupiscencia como pasión del concupiscible:**
 
 **a.1 — Reside en el apetito sensitivo:** Propiamente hablando, la concupiscencia es el apetito del bien deleitable según el sentido. Reside en la potencia concupiscible, que de ella toma el nombre. Cuando se habla de «concupiscencia de la sabiduría» es por semejanza o por redundancia del apetito superior en el inferior.
@@ -83,3 +89,5 @@ La concupiscencia es consecuencia del [[pecado_original]] y pérdida del don pre
 - [TPCr, Parte III, Libro I, Cap. 4]
 - SmTh Iª q.80 aa.1-3; q.81 aa.1-3; q.83 a.4
 - SmTh Ia-IIae q.30 aa.1-4
+- SmTh Ia-IIae q.82 a.3
+- SmTh Ia-IIae q.84 a.1

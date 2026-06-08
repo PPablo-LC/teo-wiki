@@ -23,6 +23,16 @@ La Ley evangélica lleva a plenitud los mandamientos de la Ley (§1968). "Revela
 
 Royo Marín desarrolla ampliamente la doctrina de la Ley nueva como la ley de la gracia que perfecciona la vida cristiana. La Ley nueva es la ley del amor, que se realiza por la presencia del Espíritu Santo en el alma. Los [[consejos_evangélicos]] forman parte de la Ley nueva como medios para alcanzar más perfectamente la caridad (TPCr, Primera Parte, Cap. I; Tercera Parte, Libro III).
 
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata la ley nueva (evangélica) en las cuestiones 106–108 de la Ia-IIae.
+
+**Naturaleza de la ley nueva** (q.106). La ley nueva es principalmente la gracia del Espíritu Santo, que se da por la fe en Cristo (a.1). Secundariamente, contiene los documentos de la fe y los preceptos morales (escritos en el Evangelio) como elementos dispositivos para recibir la gracia y ordenados a su uso. La ley nueva justifica (a.2), no por la letra escrita, sino por la gracia interior del Espíritu Santo. No debió ser dada desde el principio del mundo (a.3), sino después de la ley antigua, cuando Cristo redimió al género humano. Durará hasta el fin del mundo (a.4), pues ningún estado de la vida presente puede ser más perfecto que el estado de la ley nueva, que introduce inmediatamente en el último fin.
+
+**Comparación con la ley antigua** (q.107). La ley nueva se distingue de la antigua no por el fin (ambas ordenan a Dios, a.1), sino como lo perfecto se distingue de lo imperfecto. La antigua era ley de temor, con promesas temporales; la nueva es ley de amor, con promesas espirituales y eternas. La ley nueva da cumplimiento a la antigua (a.2): la justifica por la gracia de Cristo, declara su verdadero sentido, añade consejos de perfección y consuma lo que la antigua figuraba. La ley nueva está contenida en la antigua como lo perfecto en lo imperfecto (a.3). No es más gravosa (a.4), porque la gracia hace llevadero lo que la letra mandaba imposibilitando.
+
+**Contenido de la ley nueva** (q.108). La ley nueva prescribe los actos exteriores necesarios para recibir la gracia (sacramentos) y los necesarios para el recto uso de la gracia (preceptos morales; a.1). Las demás determinaciones exteriores (ritos, ceremonias, preceptos judiciales) se dejan a la libertad de los fieles (a.2). Instruye sobre los actos interiores (a.3), ordenando los afectos del corazón. Añade [[consejos_evangélicos]] a los preceptos (a.4), como medios de perfección para quienes quieren alcanzar más plenamente la caridad.
+
 ## Distinciones importantes
 
 - Ley antigua: ley exterior, escrita en tablas de piedra, pedagoga hacia Cristo

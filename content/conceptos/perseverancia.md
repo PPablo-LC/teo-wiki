@@ -1,7 +1,7 @@
 # Perseverancia
 
 > Área: Moral / Ascética
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-08
 
 ## Definición
 
@@ -18,6 +18,12 @@ La perseverancia en la vida espiritual requiere constancia en los medios ordinar
 ### Según el Catecismo (CEC)
 
 El don de la perseverancia final es una gracia particular que acompañó a Santa Teresa del Niño Jesús y a tantos santos. La oración del Padre Nuestro pide la perseverancia: «No nos dejes caer en la tentación» es una súplica para obtener la perseverancia final. La Iglesia ora por todos los fieles para que reciban este don.
+### Según la Summa Theologiae (SmTh)
+
+**Ia-IIae q.114 a.9 — La perseverancia no puede merecerse:** Santo Tomás distingue dos modos de perseverancia. La perseverancia como hábito (firmeza en la virtud frente a las pruebas) y como propósito de perseverar hasta el fin se infunden junto con la gracia santificante. Pero la perseverancia como continuación efectiva en el bien hasta la muerte no puede merecerse, porque depende solo de la moción divina que es principio de todo mérito, no su término. Puede, sin embargo, impetrarse por la oración (q.114 a.9). La perseverancia de la gloria (la impecabilidad del estado beatífico) sí es término del mérito, porque constituye la consumación del movimiento de la gracia.
+
+**Ia-IIae q.109 a.10 — Necesidad del auxilio divino para perseverar:** El hombre en estado de gracia no necesita otra gracia habitual para perseverar, pero sí el auxilio divino que lo dirija y proteja contra las tentaciones. Por eso pedimos «no nos dejes caer en la tentación» (q.109 a.10).
+
 ### Según Royo Marín (TPCr)
 
 Nadie puede merecer para sí la perseverancia final, pues es un efecto infalible de la predestinación a la gloria, que es totalmente gratuita. Sin embargo, puede impetrarse por la oración, especialmente mediante la oración perseverante que obtiene infaliblemente lo que pide si se dan las condiciones debidas.
@@ -58,4 +64,4 @@ La perseverancia se relaciona con la [[fortaleza]] y el [[don_de_fortaleza]]. Su
 
 - [CEC §2849-2854]
 - [TPCr, Parte I; Parte III, Libro II, Cap. IV, n.613]
-- [Santo Tomás, I-II, q.114, a.9]
+- SmTh Ia-IIae q.109 a.10; q.114 a.9

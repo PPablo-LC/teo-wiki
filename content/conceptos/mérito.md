@@ -1,7 +1,7 @@
 # Mérito
 
 > Área: Dogmática / Moral
-> Última actualización: 2026-06-05
+> Última actualización: 2026-06-08
 
 ## Definición
 
@@ -31,6 +31,25 @@ El término mérito designa la retribución debida por una obra buena (§2006). 
 1. Porque Dios es el [[fin_último]] del hombre: todo acto ordenado a Dios como fin es meritorio ante Él.
 2. Porque Dios es el gobernador del universo: como gobernante supremo, Dios retribuye las obras buenas y malas.
 Así, todo acto humano bueno o malo tiene razón de mérito o demérito ante Dios, no solo en el orden social sino en el orden moral absoluto.
+
+**Ia-IIae q.114 — El mérito como efecto de la gracia cooperante:**
+
+**q.114 a.1 — Fundamento del mérito:** El hombre puede merecer ante Dios en virtud de la ordenación divina preestablecida: Dios dispuso recompensar las obras del hombre según cierta igualdad proporcional. No hay justicia estricta entre Dios y el hombre por la distancia infinita, pero sí una justicia basada en la ordenación divina (q.114 a.1).
+
+**q.114 a.2 — Necesidad de la gracia para merecer la vida eterna:** Sin la gracia, ni en estado de naturaleza íntegra ni en el de caída se puede merecer la vida eterna, porque este fin sobrepasa toda proporción con la naturaleza creada (q.114 a.2).
+
+**q.114 a.3 — Mérito de condigno:** La obra meritoria, considerada en cuanto procede de la gracia del Espíritu Santo, merece la vida eterna de condigno. El valor del mérito se determina por la virtud del Espíritu Santo que mueve y por la dignidad de la gracia, que nos hace hijos adoptivos y herederos (q.114 a.3).
+
+**q.114 a.4 — La caridad como principio del mérito:** La caridad es el principal principio del mérito porque ordena al hombre al fin último (gozar de Dios) y hace los actos más voluntarios. Las demás virtudes merecen solo en cuanto son imperadas por la caridad (q.114 a.4).
+
+**q.114 a.5-6 — Mérito de la primera gracia:** Nadie puede merecer para sí la primera gracia (ni de condigno ni de congruo), pues es principio de todo mérito y el concepto de gracia se opone al de recompensa (q.114 a.5). Solo Cristo puede merecer la primera gracia para otro de condigno; el justo puede merecerla para otro de congruo (q.114 a.6).
+
+**q.114 a.7-8 — Reparación y aumento:** Nadie puede merecer la propia reparación después de la caída, pues el pecado interrumpe la moción de la gracia (q.114 a.7). El aumento de la gracia sí puede merecerse, porque la moción divina se extiende a todo el desarrollo progresivo hacia la vida eterna (q.114 a.8).
+
+**q.114 a.9 — Perseverancia:** La perseverancia final (hasta la muerte) no puede merecerse, porque depende solo de la moción divina gratuita; la perseverancia de la gloria (impecabilidad) sí es término del mérito (q.114 a.9).
+
+**q.114 a.10 — Bienes temporales:** Los bienes temporales no son objeto de mérito absoluto, sino solo relativo, en cuanto son útiles para la vida eterna (q.114 a.10).
+
 ### Según Royo Marín (TPCr)
 
 Sin la gracia santificante, las obras más heroicas no tienen valor en orden a la vida eterna. El mérito sobrenatural supone la posesión de la vida sobrenatural. El mérito de condigno perfecto (estricta justicia) es exclusivo de Jesucristo; el mérito de condigno imperfecto (justicia proporcional) es posible para el justo, porque Dios prometió recompensar los actos meritorios. La gracia actual es absolutamente necesaria para todo acto meritório.

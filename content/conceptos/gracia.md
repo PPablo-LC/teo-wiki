@@ -1,7 +1,7 @@
 # Gracia
 
 > Área: Dogmática
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-08
 
 ## Definición
 
@@ -20,6 +20,28 @@ La gracia es el favor, el auxilio gratuito que Dios nos da para responder a su l
 ### Según Royo Marín (TPCr)
 
 La gracia santificante es el principio formal de toda la vida sobrenatural, una cualidad sobrenatural inherente al alma que da una participación física y formal, aunque análoga y accidental, de la naturaleza misma de Dios (TPCr, II Parte). La más mínima participación de la gracia santificante supera el bien natural de todo el universo. La gracia reside en la esencia del alma. Las gracias actuales son intervenciones divinas que acompañan la vida cristiana. El organismo sobrenatural comprende: la gracia santificante (en la esencia), las virtudes infusas y los dones del Espíritu Santo (en las potencias), y los actos de esas virtudes y dones (TPCr, II Parte, Cap. 1).
+
+### Según la Summa Theologiae (SmTh)
+
+**Ia-IIae q.109 — Necesidad de la gracia:** El hombre necesita el auxilio divino de un doble modo: como primer motor que impulse toda operación, y como don habitual sobreañadido para obrar el bien sobrenatural. En el estado de naturaleza íntegra (Adán antes del pecado), el hombre podía con sus solas fuerzas naturales obrar el bien proporcionado a su naturaleza, pero no el bien sobrenatural. En el estado de naturaleza caída, necesita la gracia para ser curado y para obrar el bien meritorio (q.109 a.2). Para conocer verdades que sobrepasan la razón natural, necesita la luz de la gracia (q.109 a.1). El hombre puede con sus solas fuerzas naturales amar a Dios sobre todas las cosas en cuanto principio del bien natural, pero no en cuanto objeto de bienaventuranza, que requiere la caridad infusa (q.109 a.3). Para cumplir los preceptos según el modo debido (por caridad), se requiere la gracia (q.109 a.4). La vida eterna sobrepasa toda proporción con la naturaleza humana, y por tanto nadie puede merecerla sin la gracia (q.109 a.5). El hombre no puede prepararse para la gracia sin la moción divina (q.109 a.6). No puede levantarse del pecado sin la gracia habitual y la moción interior divina (q.109 a.7). En el estado de naturaleza caída, el hombre no puede evitar todo pecado mortal sin la gracia habitual (q.109 a.8). Aun el justo necesita el auxilio divino como moción actual para obrar rectamente (q.109 a.9). La perseverancia final hasta la muerte requiere un auxilio divino gratuito (q.109 a.10).
+
+**Ia-IIae q.110 a.1-2 — Esencia de la gracia:** La gracia no es solo el amor eterno de Dios (gracia de predestinación), sino que pone algo real en el alma: un efecto creado por el amor divino. Es una cualidad del alma, un don habitual infundido por Dios, que dispone al alma para ser movida por Él con suavidad y prontitud hacia el bien sobrenatural (q.110 a.2).
+
+**Ia-IIae q.110 a.3 — Gracia y virtud:** La gracia se distingue de la virtud infusa. La gracia es la luz por la que participamos de la naturaleza divina; las virtudes infusas son hábitos operativos que proceden de esa luz y a ella se ordenan. La gracia es principio y raíz de las virtudes infusas (q.110 a.3).
+
+**Ia-IIae q.110 a.4 — Sujeto de la gracia:** La gracia reside en la esencia del alma, no en las potencias. De la gracia, como de una raíz, fluyen las virtudes infusas a las potencias del alma, del mismo modo que de la esencia del alma brotan las potencias como principios de operación (q.110 a.4).
+
+**Ia-IIae q.111 — Divisiones de la gracia:**
+- *Santificante vs. gratis data*: la gracia santificante une al hombre con Dios; la gracia gratis data capacita para cooperar a la conversión de otros (q.111 a.1).
+- *Operante vs. cooperante*: la gracia se llama operante cuando Dios mueve la voluntad sin que esta se mueva a sí misma (como al comenzar a querer el bien); cooperante cuando la voluntad ya movida coopera con Dios (q.111 a.2).
+- *Preveniente vs. subsiguiente*: según los cinco efectos de la gracia en nosotros: sanar, querer el bien, realizarlo eficazmente, perseverar y alcanzar la gloria. Un mismo efecto es preveniente respecto del siguiente y subsiguiente respecto del anterior (q.111 a.3).
+- Las gracias gratisdatas (carismas) incluyen: fe eminente, palabras de sabiduría y ciencia, don de curaciones, milagros, profecía, discernimiento de espíritus, lenguas e interpretación (q.111 a.4). La gracia santificante es superior a la gratis data porque aquella une inmediatamente al último fin, mientras que esta solo dispone para él (q.111 a.5).
+
+**Ia-IIae q.112 — Causa de la gracia:** Solo Dios puede causar la gracia, pues sobrepasa toda facultad creada y es participación de la naturaleza divina (q.112 a.1). Para recibir la gracia habitual se requiere preparación por parte del hombre, pero esta preparación proviene de la moción divina (q.112 a.2). La gracia no se da necesariamente a quien se prepara, sino que depende de la voluntad divina (q.112 a.3). La gracia admite grados según la participación del sujeto, cuya raíz última está en Dios (q.112 a.4). Con certeza solo por revelación especial se puede saber que se posee la gracia; por conjetura, mediante indicios como el gozo en Dios y el menosprecio del mundo (q.112 a.5).
+
+**Ia-IIae q.113 — Justificación del pecador (efecto de la gracia operante):** La justificación es la remisión de los pecados mediante la infusión de la gracia (q.113 a.1-2). Requiere un acto del libre albedrío: movimiento de fe hacia Dios y detestación del pecado (q.113 a.3-5). Los cuatro elementos concurrentes son: infusión de la gracia, movimiento del libre albedrío hacia Dios, movimiento contra el pecado y remisión de la culpa, todos simultáneos en el tiempo (q.113 a.6-8). La justificación del pecador es la mayor obra de Dios por el bien que produce (q.113 a.9). Ordinariamente no es milagrosa, pues el alma es capaz de gracia; pero puede serlo por el modo súbito y extraordinario (q.113 a.10).
+
+**Ia-IIae q.114 — Mérito (efecto de la gracia cooperante):** El hombre puede merecer ante Dios en virtud de la ordenación divina que establece una retribución proporcionada a sus obras (q.114 a.1). Sin la gracia, ni en el estado de naturaleza íntegra ni en el de naturaleza caída se puede merecer la vida eterna (q.114 a.2). Con la gracia, las obras merecen la vida eterna de condigno, en cuanto proceden del Espíritu Santo (q.114 a.3). La caridad es el principal principio del mérito (q.114 a.4). Nadie puede merecer para sí la primera gracia (q.114 a.5); pero puede merecer para otro de congruo (q.114 a.6). Nadie puede merecer la reparación después del pecado (q.114 a.7). Se puede merecer el aumento de la gracia (q.114 a.8). La perseverancia de esta vida no puede merecerse, pues depende solo de la moción divina; la perseverancia de la gloria sí (q.114 a.9). Los bienes temporales no son objeto de mérito absoluto, sino relativo, en cuanto ayudan a la vida eterna (q.114 a.10).
 
 ## Distinciones importantes
 

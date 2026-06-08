@@ -13,6 +13,40 @@ Dios creó al hombre en santidad y justicia original. Tentado por el diablo, el 
 
 ## Perspectivas por fuente
 
+### Según la Summa Theologiae (SmTh)
+
+**Ia-IIae q.81 — Transmisión del pecado original:**
+
+**a.1 — Se transmite por generación:** Todos los hombres descendientes de Adán pueden considerarse como un solo hombre en cuanto convienen en la naturaleza recibida del primer padre. El desorden de este hombre nacido de Adán es voluntario con la voluntad del primer padre, que mueve a todos los que proceden de él por origen, como la voluntad del alma mueve a los miembros del cuerpo. De ahí que el pecado se llame *original* (derivado del origen) y *pecado de la naturaleza*.
+
+**a.2 — Solo el primer pecado de Adán se transmite:** Los pecados actuales del primer padre o de otros antepasados no se transmiten, porque son puramente personales y no corrompen la naturaleza en lo esencial. Solo la justicia original (don gratuito a toda la naturaleza humana en Adán) fue perdida por el primer pecado, y solo ese desorden se transmite.
+
+**a.3 — A todos los hombres excepto Cristo:** Todo el que recibe la moción de Adán por la generación contrae el pecado original. Excepción: Cristo, concebido por obra del Espíritu Santo.
+
+**a.5 — Por el padre, no por la madre:** El principio activo en la generación proviene del padre; la madre suministra la materia. Por tanto, si Eva hubiese pecado sin Adán, los hijos no habrían contraído el pecado original.
+
+**Ia-IIae q.82 — Esencia del pecado original:**
+
+**a.1 — Es un hábito (disposición):** No en el sentido de hábito operativo (que inclina a la potencia a obrar), sino como disposición desordenada de la naturaleza compuesta, a semejanza de la enfermedad. Es un hábito corrompido: incluye privación (de la justicia original) y disposición positiva desordenada.
+
+**a.2 — Es uno en cada persona:** Específicamente uno por la causa (privación de la justicia original); numéricamente uno por el sujeto.
+
+**a.3 — Formal y materialmente:** Formalmente es la privación de la justicia original (aversión de Dios como principio del desorden). Materialmente es la concupiscencia (conversión desordenada a los bienes mudables).
+
+**a.4 — Es igual en todos:** La privación de la justicia original es total y no admite más y menos. La relación con el primer padre es idéntica en todos. Las diferencias en la proclividad a la concupiscencia provienen de la diversa complexión corporal, no del pecado original en sí.
+
+**Ia-IIae q.83 — Sujeto del pecado original:**
+
+**a.1 — En el alma, no en el cuerpo:** El cuerpo no puede ser sujeto de culpa. El pecado original es transmitido como culpa solo en cuanto llega al alma; al cuerpo llega como pena.
+
+**a.2 — Primariamente en la esencia del alma:** El origen (generación) alcanza al alma como forma del cuerpo, lo cual le conviene por su esencia, no por sus potencias.
+
+**a.3 — Inclina primariamente a la voluntad:** En cuanto inclinación al acto, el pecado original se refiere primariamente a la voluntad, que es la potencia que tiene la inclinación primera a pecar.
+
+**a.4 — Potencias especialmente infectadas:** La generativa, la concupiscible y el tacto están especialmente infectadas por su relación con el acto de la generación, por el cual se transmite el pecado original.
+
+**q.85 a.3 — Las cuatro heridas:** Por el pecado original, la naturaleza humana quedó con cuatro heridas: ignorancia (razón), malicia (voluntad), debilidad (irascible), concupiscencia (concupiscible).
+
 ### Según el Catecismo (CEC)
 
 **La caída de los ángeles** (§391-395): Detrás de la desobediencia del hombre se halla Satán, ángel caído.
@@ -59,3 +93,5 @@ Loring subraya que «la realidad del pecado original es dogma de fe», definido 
 - [CEC §402-406, transmisión y consecuencias]
 - [CEC §410-411, Protoevangelio]
 - [PS §09,43]
+- SmTh Ia-IIae q.81-83
+- SmTh Ia-IIae q.85 a.3 (cuatro heridas)

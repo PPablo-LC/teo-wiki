@@ -29,6 +29,10 @@ Los consejos evangélicos son inseparables de los mandamientos; forman parte de 
 
 [TPCr, Parte II, n.171]
 
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata la ley evangélica como ley nueva en las cuestiones 106–108 de la Ia-IIae (ver [[ley_nueva#Según la Summa Theologiae (SmTh)]] para el desarrollo completo). La ley evangélica es principalmente la gracia del Espíritu Santo infundida en el corazón del creyente (q.106 a.1), que justifica por la fe en Cristo (a.2). En comparación con la [[ley_mosaica]], es ley de amor y no de temor (q.107 a.1), y da cumplimiento a la antigua perfeccionando sus preceptos y añadiendo los consejos (q.107 a.2). En su contenido (q.108), no añade nuevas determinaciones ceremoniales o judiciales, sino que se limita a los sacramentos y preceptos morales, dejando lo demás a la libertad cristiana (q.108 a.1-2). Incluye los consejos evangélicos como invitación a la perfección (q.108 a.4).
+
 ## Distinciones importantes
 
 - **Ley evangélica vs. ley antigua**: la antigua era exterior y preparatoria; la nueva es interior y perfecta

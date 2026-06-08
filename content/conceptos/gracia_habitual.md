@@ -1,7 +1,7 @@
 # Gracia habitual
 
 > Área: Dogmática
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-08
 
 ## Definición
 
@@ -18,6 +18,16 @@ El Concilio de Trento enseñó que la gracia habitual es inherente al alma como 
 ### Según el Catecismo (CEC)
 
 El CEC enseña que «la gracia santificante es un don habitual, una disposición estable y sobrenatural que perfecciona al alma para hacerla capaz de vivir con Dios, de obrar por su amor» (§2000). Se debe distinguir entre la gracia habitual —disposición permanente— y las gracias actuales —intervenciones divinas transitorias— (§2000). Los carismas, gracias especiales del Espíritu Santo, están ordenados a la gracia santificante y se distinguen de la gracia habitual, que es permanente (§2024).
+
+### Según la Summa Theologiae (SmTh)
+
+**Ia-IIae q.110 a.2 — La gracia habitual es una cualidad:** Santo Tomás enseña que Dios infunde en el alma un don habitual, una cualidad sobrenatural, para que el hombre sea movido con suavidad y prontitud hacia el bien sobrenatural eterno. Así como en el orden natural Dios provee a las criaturas de formas y virtudes que son principio de sus actos, con mayor razón en el orden sobrenatural infunde formas habituales que hacen connaturales y fáciles los actos sobrenaturales (q.110 a.2).
+
+**Ia-IIae q.110 a.4 — Sujeto en la esencia del alma:** La gracia habitual tiene por sujeto la esencia del alma, no las potencias. De la gracia fluyen las virtudes infusas a las potencias, así como de la esencia del alma brotan las potencias mismas. Por la gracia habitual participamos de la naturaleza divina mediante una nueva generación espiritual (q.110 a.4).
+
+**Ia-IIae q.112 a.1 — Solo Dios causa la gracia habitual:** La gracia habitual sobrepasa toda facultad creada, pues es participación de la naturaleza divina. Solo Dios puede causarla, como solo el fuego puede quemar. Ni los ángeles ni los hombres ni los sacramentos (como causa principal) pueden producir la gracia; estos obran solo como causas instrumentales (q.112 a.1).
+
+**Ia-IIae q.112 a.4 — Grados de la gracia habitual:** Por razón del sujeto, la gracia habitual admite grados: unos participan más perfectamente de la luz divina que otros. La raíz de esta diversidad está en Dios, que reparte sus dones para la belleza y perfección de la Iglesia (q.112 a.4).
 
 ### Según Royo Marín (TPCr)
 

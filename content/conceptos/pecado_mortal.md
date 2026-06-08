@@ -15,6 +15,20 @@ El pecado mortal es como un derrumbamiento instantáneo de la vida sobrenatural,
 
 ## Perspectivas por fuente
 
+### Según la Summa Theologiae (SmTh)
+
+**Ia-IIae q.72 a.5 — Distinción del pecado mortal y venial:** El pecado mortal es el que se opone a la caridad y aparta del fin último. La distinción entre mortal y venial no es solo de grado, sino de género: el mortal destruye el principio de la vida espiritual (el orden al último fin). Santo Tomás lo compara con una enfermedad incurable (que destruye el principio vital), mientras el venial es curable.
+
+**Ia-IIae q.87 a.3 — Pena eterna:** El pecado mortal acarrea reato de pena eterna porque destruye el principio del orden por el cual la voluntad está sometida a Dios (el fin último). El desorden es de suyo irreparable, aunque Dios pueda repararlo. La pena es eterna en duración, pero no infinita en cantidad: la pena de daño (pérdida de Dios) es infinita; la pena de sentido es finita.
+
+**Ia-IIae q.88 — Pecado mortal y venial:**
+
+**a.1 — Se dividen adecuadamente:** Como reparable (venial) e irreparable (mortal). La división es de un análogo en diverso grado: la noción perfecta de pecado conviene al mortal; el venial se dice pecado según una razón imperfecta.
+
+**a.2 — Difieren por su género:** Hay pecados mortales por su género (los que de suyo se oponen a la caridad, como blasfemia, homicidio, adulterio) y pecados veniales por su género (palabra ociosa, risa excesiva). Un pecado mortal por su género puede resultar venial por imperfección del acto (movimiento repentino).
+
+**a.5 — Circunstancias que cambian venial en mortal:** Solo cuando la circunstancia añade una deformidad de otro género, constituyendo una nueva especie de pecado (p. ej., el hurto se convierte en sacrilegio si es de cosa sagrada).
+
 ### Según el Catecismo (CEC)
 
 «El pecado mortal es una violación grave de la ley de Dios que destruye la caridad en el corazón del hombre» (§1855). «Para que un pecado sea mortal se requiere que concurran tres condiciones: es pecado mortal todo aquel que tiene como objeto una materia grave y que, además, es cometido con pleno conocimiento y deliberado consentimiento» (§1857). «La pena eterna del pecado mortal no puede ser entendida separada de la impenitencia hasta la muerte» (§1861).
@@ -48,4 +62,4 @@ El pecado mortal se opone directamente a la [[caridad]] y a la [[gracia_santific
 
 - [CEC §1854-1864]
 - [TPCr, Parte III, Libro I, Cap. I, n.197-206]
-- [Santo Tomás, I-II, q.72, q.87-89]
+- SmTh Ia-IIae q.72 a.5; q.87 a.3; q.88 aa.1-2, 5

@@ -23,6 +23,20 @@ La Ley antigua es el primer estado de la Ley revelada, cuyas prescripciones mora
 
 Royo Marín trata la Ley mosaica en el contexto del plan divino de salvación y su cumplimiento en Cristo. La Ley antigua fue el marco de la Alianza de Dios con Israel, preparando el camino para la Nueva Alianza en Cristo. Los preceptos del Decálogo, como ley natural promulgada, siguen vigentes en su contenido moral (TPCr, Primera Parte, Cap. I).
 
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata la ley antigua en las cuestiones 98–105 de la Ia-IIae, que cubren su naturaleza, sus preceptos y su duración.
+
+**Naturaleza de la ley antigua** (q.98). La ley antigua fue buena —«santa, justa y buena» dice el Apóstol (Rom 7,12)— pero imperfecta (a.1), pues no confería la gracia necesaria para cumplir sus preceptos; preparaba para Cristo, que traería la gracia y la verdad. Procede de Dios (a.2), fue dada por mediación de los ángeles (a.3), solo al pueblo judío (a.4), obligaba a todos los que pertenecían a la comunidad judía (a.5) y fue dada en tiempo conveniente: después de la ley natural, cuando la razón humana necesitaba ser instruida (a.6).
+
+**Tres géneros de preceptos** (q.99). Los preceptos de la ley antigua se dividen en: morales (que ordenan las costumbres según la razón, q.100), ceremoniales (que ordenan el culto divino, q.101–103) y judiciales (que ordenan las relaciones con el prójimo, q.104–105). Todos se ordenan a la caridad como fin último (q.99 a.1 ad 2).
+
+**Preceptos morales** (q.100). Todos los preceptos morales son de [[ley_natural]] en diverso grado: unos son evidentes a la razón natural (ej. el Decálogo), otros requieren la deliberación de los sabios, y otros necesitan la revelación divina (a.1). La ley divina prescribe actos de todas las virtudes (a.2), a diferencia de la ley humana que solo prescribe actos de justicia. Los preceptos del Decálogo son los primeros principios de la ley moral, a los que se reducen todos los demás (a.3). Los preceptos del Decálogo son indisponsables (a.8).
+
+**Preceptos ceremoniales** (q.101–103). Se ordenan al culto de Dios (q.101 a.1). Son figurativos de Cristo (a.2). Se distinguen en: sacrificios, cosas sagradas, sacramentos y observancias (q.102). Cesaron con la venida de Cristo (q.103 a.3), pues cumplida la realidad figurada, cesa la figura.
+
+**Preceptos judiciales** (q.104–105). Ordenan las relaciones con el prójimo (q.104 a.1). Cesaron como obligatorios con la venida de Cristo (a.3), pero no como «letra muerta» (pueden estudiarse por su sabiduría). Las razones de los preceptos judiciales se explican en q.105.
+
 ## Distinciones importantes
 
 - Ley ceremonial: preceptos sobre el culto, abrogados por Cristo

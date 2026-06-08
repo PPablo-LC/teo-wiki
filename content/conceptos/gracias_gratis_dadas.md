@@ -1,7 +1,7 @@
 # Gracias gratis dadas
 
 > Área: Dogmática
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-08
 
 ## Definición
 
@@ -20,6 +20,14 @@ El Catecismo enseña que la gracia comprende también los dones que el Espíritu
 ### Según Royo Marín (TPCr)
 
 Royo Marín trata las gracias gratis dadas en la Segunda Parte, al hablar del organismo sobrenatural. Las distingue de las gracias santificantes. Señala que ciertos fenómenos como la estigmatización participan tanto de lo gratuito como de lo santificante, ocupando un término medio. La comunicación anticipada de las dotes del cuerpo glorioso (como la agilidad) habría que clasificarla entre las gracias gratis dadas de tipo milagroso (Parte IV, Cap. 2).
+
+### Según la Summa Theologiae (SmTh)
+
+**Ia-IIae q.111 a.1 — División de la gracia en santificante y gratis data:** Hay dos clases de gracia: la que une al hombre con Dios (gracia santificante) y la que capacita a un hombre para cooperar en la conversión de otros (gracia gratis data). Esta última sobrepasa la capacidad natural y los méritos de quien la recibe, pero no santifica al sujeto en sí mismo, sino que lo ordena a la utilidad del prójimo (q.111 a.1).
+
+**q.111 a.4 — Enumeración de las gracias gratisdatas:** Santo Tomás enumera nueve dones siguiendo 1 Cor 12,8-10: palabra de sabiduría, palabra de ciencia, fe (eminente), don de curaciones, operación de milagros, profecía, discernimiento de espíritus, diversidad de lenguas e interpretación de lenguas. Estas gracias capacitan al hombre para instruir a otros en las verdades divinas: conocimiento pleno (sabiduría y ciencia), confirmación del poder divino (milagros, curaciones, profecía) y expresión adecuada (lenguas e interpretación) (q.111 a.4).
+
+**q.111 a.5 — Superioridad de la gracia santificante:** La gracia santificante es mucho más excelente que la gracia gratis data, porque aquella une inmediatamente al hombre con el último fin (Dios), mientras que esta solo dispone para él. La gracia santificante se ordena al bien común trascendente (Dios), mientras que la gratis data se ordena al bien común eclesial (q.111 a.5).
 
 ## Distinciones importantes
 

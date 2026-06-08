@@ -1,7 +1,7 @@
 # Justificación
 
 > Área: Dogmática
-> Última actualización: 2026-06-02
+> Última actualización: 2026-06-08
 
 ## Definición
 
@@ -24,6 +24,26 @@ La justificación es la obra más excelente del amor de Dios, que «manifiesta u
 El AT plantea la justificación del hombre ante Dios como una hipótesis irrealizable y a la vez como la situación para la que el hombre ha sido creado. Dios es justo, y nadie puede disputar con Él (Sal 143,2). Sin embargo, el justo Job —aunque sabe que «el hombre no puede tener razón contra Dios» (Job 9,2)— no renuncia a que Dios reconozca su justicia. Abraham es justificado por la fe (Gen 15,6), estableciendo el paradigma que Pablo desarrollará.
 
 El legalismo judío, en el que Pablo fue educado como fariseo, creía que observar íntegramente la ley bastaba para ser justificado. El error está en la ilusión de lograrlo por propios recursos. Jesucristo es «el justo» que cumplió toda justicia hasta el fin. Su muerte, que pareció de un reprobado, halló su justificación en la resurrección. Pero la resurrección tiene por fin «nuestra justificación» (Rom 4,25). La gracia de Dios en Cristo nos hace capaces de adoptar la actitud exacta que Dios espera, de tratarle como merece, de ser realmente justificados delante de Él. La justificación se efectúa en nosotros por la fe, desposeyéndonos de nuestro apego a nosotros mismos y ligándonos a Cristo. Creer es «reconocer el amor que Dios nos tiene» y confesar que «Dios es Amor» (1Jn 4,16).
+
+### Según la Summa Theologiae (SmTh)
+
+**Ia-IIae q.113 — La justificación del pecador como efecto de la gracia operante:**
+
+**q.113 a.1 — Definición:** La justificación del pecador es una transformación por la que el alma pasa del estado de injusticia (pecado) al estado de justicia (recta ordenación de las disposiciones interiores: la parte superior sometida a Dios y las inferiores a la razón).
+
+**q.113 a.2 — Infusión de la gracia:** La remisión de la culpa implica necesariamente la infusión de la gracia, porque el perdón divino restablece el efecto del amor de Dios en el alma, que es la gracia santificante.
+
+**q.113 a.3-5 — Concurso del libre albedrío:** La justificación requiere un acto del libre albedrío porque Dios mueve al hombre según su naturaleza racional. Se requiere: (a) movimiento de fe hacia Dios (la primera conversión a Dios es obra de la fe); (b) movimiento de detestación del pecado, alejándose del punto de partida y acercándose al término.
+
+**q.113 a.6 — Cuatro elementos:** En la justificación concurren cuatro elementos simultáneos en el tiempo: infusión de la gracia, movimiento del libre albedrío hacia Dios por la fe, movimiento del libre albedrío contra el pecado, y remisión de la culpa. En orden de naturaleza, el primero es la infusión de la gracia, el último la remisión de la culpa.
+
+**q.113 a.7 — Instantaneidad:** La justificación se produce instantáneamente, no de modo sucesivo, porque la virtud divina es infinita y puede disponer al alma para recibir la gracia en un instante.
+
+**q.113 a.8 — Orden natural:** Los cuatro elementos se producen en este orden de naturaleza: 1º infusión de la gracia (causada por Dios), 2º movimiento hacia Dios, 3º movimiento contra el pecado (porque se detesta el pecado por ser contrario a Dios), 4º remisión de la culpa (término final).
+
+**q.113 a.9 — Mayor obra de Dios:** La justificación del pecador es la mayor obra de Dios por el bien que produce (la participación divina), superando a la creación, aunque la creación es mayor en el modo de obrar (de la nada).
+
+**q.113 a.10 — ¿Milagro?:** La justificación no es milagrosa en sentido estricto, porque el alma es capaz de la gracia por haber sido hecha a imagen de Dios. Sin embargo, cuando se produce de modo súbito y extraordinario (como en San Pablo), puede llamarse milagrosa por el modo.
 
 ## Ver también
 

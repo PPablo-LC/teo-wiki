@@ -13,6 +13,28 @@ El pecado venial constituye un obstáculo insuperable para la perfección cristi
 
 ## Perspectivas por fuente
 
+### Según la Summa Theologiae (SmTh)
+
+**Ia-IIae q.88 — Pecado venial en relación con el mortal:**
+
+**a.1 — División adecuada:** El pecado venial se divide frente al mortal como lo reparable frente a lo irreparable. El venial no destruye el orden al último fin, por lo que es reparable por principio intrínseco. No va *contra* la ley, sino *fuera* de la ley (obra al margen del modo que la ley pretende).
+
+**a.2 — Diferencia genérica:** Hay pecados veniales por su género: aquellos que contienen cierto desorden pero no son contrarios al amor de Dios y del prójimo (palabra ociosa, risa excesiva). Un pecado mortal por su género puede resultar venial por imperfección del acto (no deliberado, repentino).
+
+**a.3 — Disposición para el mortal:** El pecado venial dispone al mortal de dos modos: directamente (aumentando el hábito y la inclinación al pecado) y quitando obstáculos (acostumbrando a la voluntad a no someterse en lo menor). Mil pecados veniales no equivalen a un pecado mortal.
+
+**a.4 — Puede devenir mortal:** No el mismo acto numéricamente, pero sí un acto que era venial por su género puede devenir mortal si se pone en él el fin último o se ordena a un pecado mortal como fin.
+
+**a.5 — Circunstancias:** Solo pueden cambiar un venial en mortal cuando añaden una deformidad de otro género (constituyendo nueva especie: p. ej., la palabra ociosa se hace mortal si causa escándalo grave).
+
+**Ia-IIae q.89 — El pecado venial en sí mismo:**
+
+**a.1 — No produce mancha propiamente dicha:** El pecado venial impide el fulgor actual de las virtudes (el acto), pero no el fulgor habitual (el hábito de la caridad). La mancha implica detrimento permanente del esplendor habitual, por lo que el venial, propiamente, no la produce.
+
+**a.3 — En el estado de inocencia no podía haber pecado venial:** Antes del pecado mortal, el hombre no podía pecar venialmente porque la firmeza infalible del orden impedía todo desorden que no comenzase por no someterse a Dios (lo cual es pecado mortal).
+
+**a.4 — Los ángeles no pueden pecar venialmente:** El entendimiento angélico no es discursivo; por su misma naturaleza, no atienden a los medios sino en cuanto están bajo el orden del fin. Por tanto, no puede darse en ellos desorden acerca de los medios sin desorden acerca del fin.
+
 ### Según el Catecismo (CEC)
 
 «El pecado venial, por su parte, permite permanecer en la caridad, aunque la ofende y la hiere» (§1855). «El pecado venial se comete cuando, en materia leve, no se observa la medida prescrita por la ley moral, o cuando se desobedece a la ley moral en materia grave, pero sin pleno conocimiento o sin entero consentimiento» (§1862).
@@ -58,4 +80,4 @@ El pecado venial se distingue del [[pecado_mortal]] y de la [[imperfección]]. S
 
 - [CEC §1854-1864]
 - [TPCr, Parte III, Libro I, Cap. I, n.207-210]
-- [Santo Tomás, I-II, q.72, q.87-89]
+- SmTh Ia-IIae q.88 aa.1-5; q.89 aa.1-4

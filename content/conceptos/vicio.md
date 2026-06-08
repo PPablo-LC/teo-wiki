@@ -11,6 +11,18 @@ El vicio se engendra por la repetición de actos pecaminosos. El pecado crea una
 
 ## Perspectivas por fuente
 
+### Según la Summa Theologiae (SmTh)
+
+**Ia-IIae q.71 — Vicios y pecados en sí mismos:**
+
+**a.1 — El vicio es contrario a la virtud:** A la virtud se opone el vicio en cuanto a la esencia misma de la virtud, que es una disposición conveniente a la naturaleza. El vicio, por el contrario, es la disposición indebida del sujeto: «vicio de cada cosa parece ser no estar dispuesta según lo que conviene a su naturaleza». El pecado se opone a la virtud en cuanto al acto; la malicia, en cuanto a la bondad.
+
+**a.2 — El vicio es contra la naturaleza:** La naturaleza del hombre es el alma racional. Todo lo que es contra el orden de la razón es contra la naturaleza del hombre en cuanto hombre. El vicio, por ser contra el orden de la razón, es contra la naturaleza. La ley eterna se relaciona con el orden de la razón humana como el arte con su obra; por eso la misma razón formal hay en que el vicio sea contra la razón y contra la ley eterna.
+
+**a.3 — El vicio (hábito) es menos grave que el acto vicioso:** Aunque el hábito sea más duradero, el acto es superior en malicia. El hábito se dice bueno o malo por la bondad o malicia del acto. El acto es causa final del hábito, y el fin es superior en razón de bondad y malicia.
+
+**Q.84 a.3-4 — Vicios capitales:** Se llaman vicios capitales aquellos de los que nacen otros, principalmente como causa final. Son siete: vanagloria, envidia, ira, acedia, avaricia, gula y lujuria. La soberbia es la reina de todos los vicios; la avaricia es la raíz.
+
 ### Según el Catecismo (CEC)
 La reiteración de pecados, incluso veniales, engendra vicios entre los cuales se distinguen los pecados capitales (§1876). Los vicios pueden catalogarse según las virtudes a que se oponen o referirse a los pecados capitales: soberbia, avaricia, envidia, ira, lujuria, gula, pereza (§1866). Las emociones y los sentimientos pueden ser asumidos por las virtudes o pervertidos en los vicios (§1774). El pecado crea facilidad para el pecado, engendra el vicio por la repetición de actos (§1865).
 
@@ -31,3 +43,4 @@ Se relaciona con [[pecado]], [[conversión]], [[virtud]], [[soberbia]], [[lujuri
 ## Referencias
 - [CEC §1865-1866; §1876]
 - [TPCr, Segunda Parte, Cap. I – Cuadros sinópticos de vicios opuestos; Tercera Parte, Libro I]
+- SmTh Ia-IIae q.71 aa.1-3; q.84 aa.3-4
