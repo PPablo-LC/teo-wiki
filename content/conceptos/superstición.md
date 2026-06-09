@@ -25,11 +25,9 @@ TPCr trata la superstición como pecado contra la virtud de la religión. Se opo
 
 Santo Tomás trata la superstición como vicio opuesto a la religión por exceso (IIa-IIae q.92). La superstición da culto divino a quien no se debe o del modo que no se debe (q.92 a.1). Es pecado contra la religión porque, teniendo apariencia de culto, corrompe el verdadero honor debido a Dios.
 
-La superstición tiene varias especies. La primera es la idolatría, que tributa culto divino a las criaturas (q.94). La segunda es la adivinación, que pretende conocer el futuro por pacto con los demonios (q.95). La tercera son las observancias supersticiosas (q.96), que incluyen prácticas mágicas, amuletos, presagios y otras vanas observancias.
+La superstición tiene varias especies: la [[idolatría]] (q.94), la [[adivinación]] (q.95), las [[observancias_supersticiosas]] (q.96), y la [[superstición_en_el_culto]] al verdadero Dios (q.93).
 
-La superstición en el culto al verdadero Dios (q.93) ocurre cuando se introduce en el culto divino algo desproporcionado o indebido. Aunque el destinatario sea Dios, el modo de tributarle culto puede ser supersticioso si se emplean prácticas no autorizadas o desordenadas.
-
-[SmTh IIa-IIae q.92-93, 96]
+[SmTh IIa-IIae q.92-100]
 
 ## Relaciones doctrinales
 
@@ -37,7 +35,7 @@ Se relaciona con la [[idolatría]], la [[virtud_de_la_religión]], el [[primer_m
 
 ## Ver también
 
-[[idolatría]], [[virtud_de_la_religión]], [[primer_mandamiento]], [[piedad_popular]], [[adoración]], [[magia]]
+[[idolatría]], [[superstición_en_el_culto]], [[observancias_supersticiosas]], [[virtud_de_la_religión]], [[primer_mandamiento]], [[piedad_popular]], [[adoración]], [[magia]]
 
 ## Referencias
 
