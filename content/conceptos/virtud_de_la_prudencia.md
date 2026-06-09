@@ -1,7 +1,7 @@
 # Virtud de la prudencia
 
 > Área: Moral
-> Última actualización: 2026-05-21
+> Última actualización: 2026-06-09
 
 ## Definición
 
@@ -10,56 +10,61 @@ La prudencia es la primera y principal de las [[virtudes_cardinales]], virtud in
 ## Desarrollo doctrinal
 
 ### Definición de Santo Tomás
-«La prudencia es el recto conocimiento de lo que se debe hacer y de lo que se debe evitar» (recta ratio agibilium).
+«La prudencia es la recta razón en el obrar» (recta ratio agibilium). Radica en el entendimiento práctico, no en la voluntad (SmTh IIa-IIae q.47 a.1). Su acto principal es imperar o mandar (a.8), aunque presupone el consejo (eubulia) y el juicio recto (synesis, gnome).
 
-Es la virtud que aplica los principios morales generales a los casos concretos y particulares, conociendo rectamente no sólo el fin (que corresponde a las virtudes morales que inclinan la voluntad al bien), sino también los medios adecuados para alcanzarlo.
+Es la virtud que aplica los principios morales generales a los casos concretos y particulares. La prudencia no impone el fin a las virtudes morales —eso pertenece a la sindéresis, que conoce naturalmente los fines— sino que dispone los medios para alcanzar el fin (a.6). Determina el justo medio de las virtudes morales señalando cómo y con qué medios se alcanza el medio racional (a.7).
 
-### Partes de la prudencia
-Santo Tomás distingue ocho partes integrales de la prudencia:
+### La prudencia como virtud especial
+La prudencia es virtud especial (a.5): se distingue de las demás virtudes intelectuales por su objeto (cosas contingentes operables, no factibles como el arte ni necesarias como la ciencia). Se distingue de las virtudes morales porque radica en el entendimiento mientras ellas radican en la voluntad o el apetito.
 
-1. **Memoria**: recordar el pasado para aprender de la experiencia
-2. **Inteligencia**: comprender los principios universales y los casos particulares
-3. **Docilidad**: disposición para aprender de los demás y aceptar los consejos
-4. **Solercia**: sagacidad para encontrar rápidamente los medios adecuados
-5. **Razonamiento**: capacidad para discurrir y comparar
-6. **Providencia**: previsión del futuro y de las consecuencias
-7. **Circunspección**: consideración de todas las circunstancias
-8. **Precaución**: huida de los peligros y obstáculos
+### Partes de la prudencia (q.48)
+Santo Tomás distingue tres géneros de partes en la prudencia:
 
-### Virtudes anejas
-Hay virtudes que están íntimamente relacionadas con la prudencia:
+**Partes integrales** (q.49): elementos necesarios para el acto perfecto de la prudencia. Ocho en total:
+1. **Memoria** (a.1): conocimiento del pasado por experiencia
+2. **Inteligencia** o entendimiento (a.2): recta estimación de los principios y del fin particular
+3. **[[docilidad]]** (a.3): disposición a aprender de los demás, especialmente de los ancianos y expertos
+4. **[[sagacidad]]** (a.4): habilidad para hallar rápidamente el medio adecuado por propia invención
+5. **Razón** (a.5): buen uso del discurso racional para comparar y deducir
+6. **Previsión** o providencia (a.6): ordenación de los medios al fin futuro, parte principal de la prudencia
+7. **[[circunspección]]** (a.7): consideración de las circunstancias que rodean la acción
+8. **[[precaución]]** (a.8): evitación de los obstáculos y peligros que pueden impedir el bien
 
-1. **Eubulia**: virtud por la que se delibera bien sobre los medios
-2. **Sinéresis**: hábito natural de los primeros principios prácticos (hacer el bien, evitar el mal)
-3. **Gnome**: juicio recto en casos excepcionales, siguiendo principios superiores a las leyes humanas
+**Partes subjetivas** (q.50): especies de prudencia según el ámbito de gobierno:
+1. **Prudencia gubernativa** (regnativa, a.1): gobierno de la comunidad perfecta (ciudad o reino)
+2. **Prudencia política** (a.2): propia del súbdito, para regirse en la obediencia al príncipe
+3. **Prudencia económica** (a.3): gobierno de la familia
+4. **Prudencia militar** (a.4): defensa del bien común contra los ataques externos
 
-### Necesidad
-La prudencia es absolutamente necesaria para la vida moral perfecta. Sin prudencia:
-- No hay virtud moral verdadera
-- Los actos buenos se hacen sin orden ni medida
-- Se cae fácilmente en excesos o defectos
-- Los medios elegidos no conducen al fin propuesto
+**Partes potenciales** o virtudes anejas (q.51):
+1. **[[eubulia]]** (a.1-2): virtud del buen consejo, que perfecciona el acto de deliberar o indagar los medios
+2. **[[synesis]]** (a.3): virtud del juicio recto según las reglas comunes de la ley
+3. **[[gnome]]** (a.4): virtud del juicio recto según principios superiores, para casos excepcionales donde no basta la ley común
 
-San Pablo la enumera entre los frutos del Espíritu:
+La prudencia misma tiene como acto principal el imperio (mandar), al cual se ordenan como virtudes secundarias la eubulia (consejo) y la synesis/gnome (juicio).
 
-«Mas el fruto del Espíritu es... prudencia...» (Gálatas 5,22).
+### La prudencia y el bien común (q.47 a.10-12)
+La prudencia abarca no solo el bien particular, sino también el bien común de la multitud. Se distinguen tres especies según el fin: prudencia individual (bien propio), económica (bien de la familia) y política (bien de la ciudad o nación). La prudencia del gobernante es arquitectónica; la del súbdito, ejecutiva.
 
-### Pecados opuestos
-Los pecados directamente opuestos a la prudencia son:
+### La prudencia en los pecadores y en los buenos (q.47 a.13-14)
+Hay tres tipos de prudencia: la falsa (ordenar medios a un fin malo, como la prudencia de la carne), la verdadera imperfecta (cuando falta el acto principal del imperio o se limita a un fin particular) y la verdadera y perfecta (que aconseja, juzga e impera rectamente para el fin bueno de toda la vida). Esta última solo se da en los justos. La prudencia imperfecta es común a buenos y malos.
 
-1. **Por defecto**:
-   - **Imprudencia**: falta de rectitud en el conocimiento práctico
-   - **Precipitación**: actuar sin deliberar ni considerar las circunstancias
-   - **Negligencia**: falta de solicitud por el bien que se debe hacer
-   - **Inconstancia**: falta de firmeza en ejecutar lo deliberado
+Todos los que están en gracia poseen la prudencia infusa, que les basta para las cosas necesarias para la salvación (a.14).
 
-2. **Por exceso o abuso**:
-   - **Prudencia de la carne**: ordenar todos los actos al bienestar corporal o a los bienes terrenos como fin último
-   - **Astucia**: usar medios malos o engañosos para alcanzar un fin, aunque sea bueno
-   - **Simulación y hipocresía**: fingir virtudes que no se tienen
-   - **Codicia excesiva**: afán desordenado de adquirir bienes temporales
+### Preceptos sobre la prudencia (q.56)
+No hay precepto directo sobre la prudencia en el Decálogo, porque esta versa sobre los medios, no sobre el fin. Los preceptos del Decálogo se refieren principalmente a la justicia. La enseñanza evangélica, en cambio, instruye sobre la prudencia como doctrina de perfección («Sed prudentes como serpientes», Mt 10,16).
 
 ## Perspectivas por fuente
+
+### Según la Summa Theologiae (SmTh)
+
+**Naturaleza de la prudencia (q.47):** La prudencia radica en el entendimiento práctico, no en la voluntad (a.1). Conoce no solo los universales, sino también los singulares, pues debe aplicar el conocimiento a la acción concreta (a.3). Su acto principal es imperar (a.8), precedido del consejo y del juicio. La diligencia o solicitud pertenece a la prudencia como acto de imperio rápido y sagaz (a.9).
+
+**Relación con las virtudes morales (q.47 a.6-7):** La prudencia no impone el fin —eso lo hace la sindéresis— sino que dispone los medios y determina el justo medio de las virtudes morales. Es más noble que las virtudes morales y las mueve como la razón mueve al apetito.
+
+**El don de consejo (q.52):** El don de consejo perfecciona la prudencia haciendo al alma apta para ser movida por el Espíritu Santo en la indagación del consejo. Mientras que la prudencia dirige según lo que la razón puede conocer, el don de consejo recibe dirección de Dios, que comprende todos los singulares y contingencias que la razón humana no puede abarcar. Le corresponde la bienaventuranza de los misericordiosos (q.52 a.4).
+
+**[[imprudencia]] y vicios opuestos (q.53-55):** La imprudencia incluye por defecto la precipitación (defecto en el consejo), la inconsideración (defecto en el juicio) y la inconstancia (defecto en el imperio). La [[negligencia]] es falta de solicitud debida en el acto de imperio (q.54). Entre los vicios semejantes a la prudencia están la prudencia de la carne (ordenar todo al bien carnal como fin último), la [[astucia]] (usar medios fingidos y aparentes), el engaño (ejecución verbal de la astucia) y el fraude (ejecución por hechos). Todos ellos nacen principalmente de la avaricia (q.55 a.8).
 
 ### Según Royo Marín (TPCr)
 
@@ -74,9 +79,11 @@ La prudencia como virtud infusa:
 ## Distinciones importantes
 
 - **Prudencia infusa vs. prudencia adquirida**: la primera es sobrenatural y ordena a Dios; la segunda es natural y ordena al bien temporal
-- **Prudencia vs. sinéresis**: la sinéresis conoce los primeros principios; la prudencia los aplica a casos concretos
-- **Prudencia vs. astucia**: la prudencia usa medios buenos para un fin bueno; la astucia usa medios malos
-- **Prudencia como virtud cardinal vs. don de consejo**: la prudencia es virtud; el consejo es don del Espíritu de orden más elevado
+- **Prudencia vs. sindéresis**: la sindéresis conoce los primeros principios prácticos (los fines); la prudencia los aplica a casos concretos (los medios)
+- **Prudencia vs. astucia**: la prudencia usa medios buenos para un fin bueno; la astucia usa medios malos o fingidos, incluso para un fin bueno
+- **Prudencia como virtud cardinal vs. don de consejo**: la prudencia es virtud que discurre racionalmente; el consejo es don del Espíritu que ilumina directamente por moción divina
+- **Eubulia vs. synesis vs. gnome**: la eubulia aconseja bien, la synesis juzga según la ley común, la gnome juzga según principios superiores en casos excepcionales
+- **Previsión vs. circunspección vs. precaución**: la previsión mira al futuro, la circunspección atiende a las circunstancias presentes, la precaución evita los obstáculos
 
 ## Relaciones doctrinales
 
@@ -86,6 +93,7 @@ La prudencia como virtud infusa:
 - Perfeccionada por el [[don_de_consejo]]
 - Se relaciona con todas las demás virtudes morales
 - Ayuda por el [[don_de_ciencia]]
+- Los vicios opuestos son: [[imprudencia]], [[negligencia]], [[astucia]], [[prudencia_de_la_carne]]
 
 
 ## Analizado para
@@ -107,12 +115,24 @@ La prudencia como virtud infusa:
 - [[don_de_consejo]]
 - [[don_de_ciencia]]
 - [[justicia]], [[fortaleza]], [[templanza]]
+- [[eubulia]], [[synesis]], [[gnome]]
+- [[imprudencia]], [[negligencia]], [[astucia]]
+- [[circunspección]], [[precaución]], [[sagacidad]], [[docilidad]]
 
 ## Referencias
 
+- SmTh IIa-IIae q.47 (naturaleza de la prudencia)
+- SmTh IIa-IIae q.48 (partes de la prudencia)
+- SmTh IIa-IIae q.49 (partes integrales)
+- SmTh IIa-IIae q.50 (partes subjetivas)
+- SmTh IIa-IIae q.51 (partes potenciales: eubulia, synesis, gnome)
+- SmTh IIa-IIae q.52 (don de consejo)
+- SmTh IIa-IIae q.53 (imprudencia)
+- SmTh IIa-IIae q.54 (negligencia)
+- SmTh IIa-IIae q.55 (astucia, engaño, fraude)
+- SmTh IIa-IIae q.56 (preceptos de la prudencia)
 - TPCr, Tercera Parte, Libro I, Cap. V
 - Isaías 11,2-3
 - Proverbios
 - Gálatas 5,22
 - Concilio de Trento
-- Santo Tomás, S.Th., I-II, q. 57-61; II-II, q. 47-56

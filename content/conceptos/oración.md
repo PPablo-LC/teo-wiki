@@ -27,6 +27,18 @@ La oración es necesaria con necesidad de precepto (divino, natural y eclesiást
 
 Las principales dificultades de la oración son las distracciones y las sequedades o arideces. Las distracciones pueden tener causas independientes de la voluntad (temperamento, salud, dirección inadecuada, demonio) o voluntarias (falta de preparación, disipación habitual). Las arideces pueden deberse a causas naturales, a la tibieza, o ser una prueba purificadora de Dios (n.482).
 
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás dedica la cuestión 83 de la IIa-IIae a la oración. La oración es un acto de la razón práctica (no de la voluntad) que consiste en elevar la mente a Dios. En cuanto acto de la virtud de la religión, la oración es propiamente una petición dirigida a Dios (q.83 a.1). Es acto de la razón que expresa un deseo de la voluntad.
+
+La oración de petición tiene valor meritorio e impetratorio: mueve a Dios por la caridad con que se hace, no porque modifique la voluntad divina (q.83 a.2). Dios dispuso conceder ciertos bienes solo mediante la oración (q.83 a.2). Para orar bien se requieren devoción, fe, esperanza y caridad (q.83 a.3).
+
+La oración debe dirigirse solo a Dios (q.83 a.4). Podemos pedir la intercesión de los santos (q.83 a.4 ad 2). Cristo enseñó la oración dominical (q.83 a.9-10). La oración vocal, aunque es un acto del cuerpo, redunda en bien del alma avivando la devoción interior (q.83 a.12).
+
+La oración común (litúrgica) tiene eficacia especial porque une las fuerzas de toda la Iglesia (q.83 a.13). El rezo del Oficio Divino obliga a los clérigos como acto público de la Iglesia (q.83 a.14).
+
+[SmTh IIa-IIae q.83]
+
 ## Distinciones importantes
 
 - Oración en sentido amplio: cualquier movimiento del alma hacia Dios por cualquier virtud infusa.

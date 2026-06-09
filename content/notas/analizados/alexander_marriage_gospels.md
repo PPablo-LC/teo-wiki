@@ -14,7 +14,7 @@ La Dra. Irene Alexander explora el matrimonio a través de los Evangelios, prese
 
 - **[[matrimonio]] / [[sacramento_del_matrimonio]]**: la tesis central —el matrimonio como analogía maestra de la salvación— converge plenamente con la doctrina del matrimonio como sacramento que significa y participa el misterio de Cristo y la Iglesia. La tipología Caná-Cruz es convergente con la enseñanza de la CEC §1615 (la gracia del matrimonio es fruto de la Cruz) y con la teología paulina de Efesios 5.
 - **[[virgen_maría]]**: la presentación de María como Nueva Eva que expresa deseo sin control y que intercede en Caná converge con la mariología tradicional (CEC §494; LG §56-61).
-- **[[Eva]]**: el análisis de la Caída como ruptura de la unidad conyugal —Eva duda de Dios y de Adán— converge con la doctrina del pecado original y la tipología Eva-María (CEC §411; San Ireneo).
+- **[[eva]]**: el análisis de la Caída como ruptura de la unidad conyugal —Eva duda de Dios y de Adán— converge con la doctrina del pecado original y la tipología Eva-María (CEC §411; San Ireneo).
 - **[[complementariedad]]**: la lectura de Efesios 5 como invitación a valorar la perspectiva del cónyuge («someterse» mutuamente) converge con la doctrina de la complementariedad ontológica entre varón y mujer (CompDS §147).
 - **[[celibato]]**: los «eunucos por el Reino» (Mt 19,12) como vocación al celibato convergen con la enseñanza de la CEC §1579 y la tradición de la Iglesia latina.
 - **[[nueva_alianza]]**: la conexión entre las Bodas de Caná y la Cruz como inauguración de la Nueva Alianza converge con la doctrina del sacrificio de la Nueva Alianza (CEC §613).
@@ -35,7 +35,7 @@ No se detectan tensiones doctrinales. La Dra. Alexander opera dentro de la más 
 
 ## Ver también
 
-[[matrimonio]], [[sacramento_del_matrimonio]], [[virgen_maría]], [[Eva]], [[complementariedad]], [[celibato]], [[nueva_alianza]], [[eucaristía]], [[vida_consagrada]], [[san_josé]], [[mariología]], [[bautismo]]
+[[matrimonio]], [[sacramento_del_matrimonio]], [[virgen_maría]], [[eva]], [[complementariedad]], [[celibato]], [[nueva_alianza]], [[eucaristía]], [[vida_consagrada]], [[san_josé]], [[mariología]], [[bautismo]]
 
 ## Referencias internas
 

@@ -42,7 +42,7 @@ El Catecismo se refiere al Magníficat como el cántico de la Madre del Señor q
 
 ## Relaciones doctrinales
 
-Se conecta con [[liturgia_de_las_horas]], [[laudes]], [[vísperas]], [[completas]], [[magníficat]], [[bautista]], [[virgen_maría]], [[alabanza]] y [[oración_litúrgica]].
+Se conecta con [[liturgia_de_las_horas]], [[laudes]], [[vísperas]], [[completas]], [[magníficat]], [[juan_bautista]], [[virgen_maría]], [[alabanza]] y [[oración_litúrgica]].
 
 ## Ver también
 

@@ -43,11 +43,11 @@ El rito del Agnus Dei fue introducido en la liturgia romana por el papa Sergio I
 
 ## Relaciones doctrinales
 
-El título Cordero de Dios conecta la cristología, la soteriología y la liturgia. Se vincula con [[bautista]] (que lo proclama), [[eucaristía]] (donde se invoca), [[sacrificio_eucarístico]] (actualización del único sacrificio), [[expiación]] (quita el pecado), [[redención]] (obra del Cordero), [[pasión_de_cristo]] (su inmolación), [[misterio_pascual]] (tránsito de la muerte a la vida), [[eucaristía]] (banquete del Cordero) y [[víctima_de_expiación]].
+El título Cordero de Dios conecta la cristología, la soteriología y la liturgia. Se vincula con [[juan_bautista]] (que lo proclama), [[eucaristía]] (donde se invoca), [[sacrificio_eucarístico]] (actualización del único sacrificio), [[expiación]] (quita el pecado), [[redención]] (obra del Cordero), [[pasión_de_cristo]] (su inmolación), [[misterio_pascual]] (tránsito de la muerte a la vida), [[eucaristía]] (banquete del Cordero) y [[víctima_de_expiación]].
 
 ## Ver también
 
-[[bautista]], [[eucaristía]], [[sacrificio]], [[expiación]], [[redención]], [[pasión_de_cristo]], [[misterio_pascual]], [[víctima_de_expiación]]
+[[juan_bautista]], [[eucaristía]], [[sacrificio]], [[expiación]], [[redención]], [[pasión_de_cristo]], [[misterio_pascual]], [[víctima_de_expiación]]
 
 ## Referencias
 

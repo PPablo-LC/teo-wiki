@@ -37,7 +37,7 @@ Adán fue creado en gracia, que se transmitiría a sus descendientes. Por su pec
 
 ## Relaciones doctrinales
 
-Adán se relaciona con [[pecado_original]], [[cristo]] como nuevo Adán, [[redención]], [[gracia_santificante]], [[concupiscencia]], [[Eva]] y [[caída_original]].
+Adán se relaciona con [[pecado_original]], [[cristo]] como nuevo Adán, [[redención]], [[gracia_santificante]], [[concupiscencia]], [[eva]] y [[caída_original]].
 
 ## Ver también
 

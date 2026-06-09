@@ -20,6 +20,15 @@ Jesús propone la perfección del juramento en el Sermón de la Montaña, invita
 
 El CIC regula el juramento en los cánones 1199-1204. El juramento, es decir, la invocación del Nombre de Dios como testigo de la verdad, solo puede prestarse con verdad, con sensatez y con justicia (c. 1199 §1). El juramento que los cánones exigen o admiten no puede prestarse válidamente por medio de un procurador (c. 1199 §2). Quien jura libremente que hará algo adquiere la obligación de religión de cumplirlo (c. 1200 §1). El juramento arrancado por dolo, violencia o miedo grave es nulo ipso iure (c. 1200 §2). El juramento promisorio sigue la naturaleza y las condiciones del acto al cual va unido (c. 1201 §1). Si se corrobora con juramento un acto que redunda en daño de otros, perjuicio del bien público o de la salvación eterna, el acto no adquiere firmeza (c. 1201 §2). La obligación del juramento promisorio cesa por condonación, cambio sustancial de la materia, faltar la causa final, o dispensa (c. 1202-1203). El juramento se ha de interpretar estrictamente (c. 1204).
 
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata el juramento en la cuestión 89 de la IIa-IIae. Jurar es invocar a Dios como testigo de la verdad (q.89 a.1). El juramento es acto de la virtud de religión porque honra a Dios reconociendo su omnisciencia y su autoridad suprema (q.89 a.4).
+
+El juramento es lícito cuando se hace con verdad, juicio y justicia (q.89 a.2). La verdad exige que lo que se jura sea verdadero; el juicio, que se jure con necesidad y prudencia; la justicia, que lo prometido sea lícito. Jurar sin estas condiciones es pecado (q.89 a.3).
+
+Jurar por las criaturas (cielo, tierra, templo) es lícito en cuanto que en ellas resplandece Dios, pero el juramento perfecto se hace invocando a Dios directamente (q.89 a.6). Cristo prohibió el juramento en el Sermón de la Montaña (Mt 5,34) para apartar a los discípulos de la ligereza en jurar, no para prohibir absolutamente el juramento hecho con las debidas condiciones (q.89 a.2 ad 1).
+
+[SmTh IIa-IIae q.89]
 
 ## Ver también
 

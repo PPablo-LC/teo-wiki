@@ -28,6 +28,15 @@ La adoración es acto principal de la virtud de la religión. La religión es un
 
 [TPCr, Parte III, Libro II, Cap. II, n.427]
 
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás dedica la cuestión 84 de la IIa-IIae a la adoración externa (latría). La adoración exterior es necesaria porque el alma, unida al cuerpo, necesita expresar sensiblemente su reverencia interior a Dios (q.84 a.1). Los gestos corporales de adoración (inclinación, postración, genuflexión) son actos de la virtud de religión en cuanto que significan la sumisión interior del alma a Dios.
+
+La adoración debe tribuirse a Dios como Señor supremo. La adoración de latría se distingue de la dulía (veneración debida a los santos y ángeles) y de la hiperdulía (debida a la Virgen María). Se ha de adorar a Dios en espíritu y en verdad (Jn 4,24), pero los signos exteriores ayudan a fomentar la devoción interior (q.84 a.2).
+
+La adoración en lugar determinado (templo) es conveniente porque la unidad del lugar sagrado simboliza la unidad de la fe y fomenta la oración común (q.84 a.3).
+
+[SmTh IIa-IIae q.84]
 
 ## Distinciones importantes
 

@@ -1,7 +1,7 @@
 # Don de consejo
 
 > Área: Ascética / Mística
-> Última actualización: 2026-05-21
+> Última actualización: 2026-06-09
 
 ## Definición
 
@@ -45,7 +45,21 @@ El don de consejo es especialmente necesario:
 - En situaciones extraordinarias donde la prudencia humana no alcanza
 - Para evitar el error y el engaño del espíritu malo
 
+### El don de consejo en el cielo (q.52 a.3)
+El don de consejo permanece en el cielo. Aunque en la bienaventuranza cesa la duda, los bienaventurados siguen siendo movidos por Dios para conocer las cosas que no pertenecen a la esencia de la bienaventuranza sino al gobierno de las cosas según la providencia divina. El consejo no implica ya indagación con duda, sino simple conversión del alma hacia Dios. Los bienaventurados continúan teniendo actos ordenados al fin (alabanza a Dios, ministerio angélico, oraciones de los santos).
+
+### Bienaventuranza correspondiente (q.52 a.4)
+Al don de consejo corresponde la quinta bienaventuranza: «Bienaventurados los misericordiosos, porque ellos alcanzarán misericordia» (Mt 5,7). El consejo se ocupa de las cosas útiles para el fin, y entre ellas la misericordia es la más útil, pues «la piedad es útil para todo» (1 Tim 4,8). El don de consejo dirige de manera especial las obras de misericordia.
+
 ## Perspectivas por fuente
+
+### Según la Summa Theologiae (SmTh)
+
+El don de consejo es uno de los siete dones del Espíritu Santo, disposición que hace al alma apta para ser movida por el Espíritu Santo (q.52 a.1). Mientras que la prudencia o la eubulia dirigen al hombre según lo que la razón puede conocer, el don de consejo dirige al hombre por el consejo recibido de Dios, que comprende todos los singulares y contingencias que la razón humana no puede abarcar (a.1 ad 1).
+
+Corresponde directamente a la prudencia, no al don de ciencia ni al de sabiduría, porque tiene el mismo objeto que ella: los medios para el fin (q.52 a.2). La prudencia es perfeccionada por el don de consejo como el principio inferior es ayudado y perfeccionado por el superior: la razón divina es la regla suprema de toda rectitud humana (a.2).
+
+En los dones del Espíritu Santo, la inteligencia humana se comporta no como motor sino como movida. Por eso el don correspondiente a la prudencia se llama consejo (que expresa mejor la moción recibida) y no juicio o precepto, que serían propios del que mueve (q.52 a.2 ad 1).
 
 ### Según Royo Marín (TPCr)
 

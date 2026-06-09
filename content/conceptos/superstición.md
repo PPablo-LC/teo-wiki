@@ -21,6 +21,16 @@ El CEC §2110-2117 trata la superstición como violación del primer mandamiento
 
 TPCr trata la superstición como pecado contra la virtud de la religión. Se opone directamente al acto de religión porque tributa culto a quien no es Dios o se tributa de modo indebido. Es pecado mortal por su materia, aunque la imputabilidad puede mitigarse por ignorancia.
 
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata la superstición como vicio opuesto a la religión por exceso (IIa-IIae q.92). La superstición da culto divino a quien no se debe o del modo que no se debe (q.92 a.1). Es pecado contra la religión porque, teniendo apariencia de culto, corrompe el verdadero honor debido a Dios.
+
+La superstición tiene varias especies. La primera es la idolatría, que tributa culto divino a las criaturas (q.94). La segunda es la adivinación, que pretende conocer el futuro por pacto con los demonios (q.95). La tercera son las observancias supersticiosas (q.96), que incluyen prácticas mágicas, amuletos, presagios y otras vanas observancias.
+
+La superstición en el culto al verdadero Dios (q.93) ocurre cuando se introduce en el culto divino algo desproporcionado o indebido. Aunque el destinatario sea Dios, el modo de tributarle culto puede ser supersticioso si se emplean prácticas no autorizadas o desordenadas.
+
+[SmTh IIa-IIae q.92-93, 96]
+
 ## Relaciones doctrinales
 
 Se relaciona con la [[idolatría]], la [[virtud_de_la_religión]], el [[primer_mandamiento]], la [[piedad_popular]] (como opuesta a superstición), la [[adoración]] y el culto verdadero.

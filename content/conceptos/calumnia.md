@@ -13,6 +13,16 @@ La calumnia es la imputación falsa de una falta o delito a otro, atentando cont
 
 El CEC §2476-2479 trata de la calumnia en el contexto del octavo mandamiento. «El respeto de la reputación y el honor de las personas prohíbe toda actitud y toda palabra de maledicencia o de calumnia» (§2479). La calumnia es condenable porque «atenta contra la virtud de la justicia y la caridad» (§2475). Se impone la reparación de la fama dañada y, si la calumnia ha causado un daño material, la compensación del perjuicio (§2487). La gravedad de la calumnia se mide por el daño causado a la persona y por la entidad de la falta imputada falsamente. El CEC §2477 recuerda que «toda persona tiene derecho a no ser difamada ni calumniada».
 
+### Según la Summa Theologiae (SmTh)
+
+La calumnia se trata en el contexto de las injusticias judiciales (Q68) y del falso testimonio (Q70). Santo Tomás considera la acusación falsa como una forma de calumnia que atenta contra la justicia del juicio (q.68 a.1).
+
+El acusador falso o calumniador está obligado a restituir la fama y los daños causados (q.68 a.4). Si varios se confabulan para acusar falsamente (sindicato), todos son responsables solidarios.
+
+El falso testimonio (q.70 a.1) es pecado mortal por su género, pues atenta contra la justicia del juicio. El falso testigo está obligado a restituir los daños causados (q.70 a.4).
+
+La calumnia extrajudicial se considera dentro de la detracción (q.73): imputar faltas falsas a otro en su ausencia es más grave que la mera detracción, porque añade la mentira a la lesión de la fama.
+
 ### Según Royo Marín (TPCr)
 
 TPCr trata la calumnia como pecado contra la justicia y la caridad. Es pecado mortal por su materia cuando causa daño grave a la fama del prójimo, aunque puede ser venial por su materia si el daño es leve. La reparación de la fama —que puede hacerse mediante la retractación pública o privada— es obligatoria bajo pena de pecado mortal, pues la fama es un bien espiritual necesario para la convivencia humana. Si la calumnia ha causado además un daño material (pérdida de empleo, etc.), el calumniador debe restituir también el equivalente económico.

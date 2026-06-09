@@ -21,6 +21,19 @@ El sacrilegio es una profanación de lo sagrado gravemente contrario a la virtud
 
 El sacrilegio es pecado mortal *ex genere suo* por su materia: siempre es grave por la ofensa que infiere a Dios en las cosas que le son dedicadas. Sin embargo, puede ser venial por imperfección del acto (falta de advertencia o consentimiento pleno). El sacrilegio eucarístico es el más grave de todos por la excelencia del Sacramento [TPCr, Parte III, Libro II, Cap. 1].
 
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata el sacrilegio en la cuestión 99 de la IIa-IIae. El sacrilegio es la violación o tratamiento irreverente de una cosa sagrada (q.99 a.1). Es pecado contra la virtud de la religión, pues atenta contra el honor debido a Dios en lo que le está especialmente consagrado (q.99 a.1 resp.).
+
+Las especies de sacrilegio se distinguen según el objeto profanado (q.99 a.2-3):
+- **Sacrilegio personal**: violencia contra personas consagradas a Dios (clérigos, religiosos) o violación del fuero eclesiástico
+- **Sacrilegio local**: violación de lugares sagrados (iglesias, cementerios) mediante actos profanos o delictivos
+- **Sacrilegio real**: tratamiento indigno de cosas sagradas (sacramentos, vasos sagrados, imágenes, reliquias)
+
+El sacrilegio es pecado mortal por su materia (q.99 a.1 ad 2), aunque la gravedad específica depende de la santidad de la realidad profanada. El sacrilegio eucarístico es el más grave, por la excelencia del Sacramento.
+
+[SmTh IIa-IIae q.99]
+
 ## Distinciones importantes
 
 - Sacrilegio personal vs. local vs. real: según el objeto profanado (persona, lugar, cosa)

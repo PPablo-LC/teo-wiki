@@ -24,6 +24,17 @@ Royo Marín trata la idolatría como pecado contra la virtud de la religión, la
 
 «Optar por Jesús y rechazar las idolatrías del mundo, los ídolos que buscan seducir a la juventud» [JPII-JovCh]. Juan Pablo II advierte a los jóvenes contra los ídolos contemporáneos que buscan apartarlos de Cristo y proclama que «solo Dios es adorable, solo Dios» [JPII-JovCh].
 
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata la idolatría en la cuestión 94 de la IIa-IIae. La idolatría es una especie de superstición que tributa culto divino a cualquier criatura (q.94 a.1). Pertenece a la superstición porque extralimita indebidamente el culto divino, dándolo a quien no se debe (q.94 a.1 resp.).
+
+La idolatría es pecado grave (q.94 a.2). Por su género, es pecado mortal porque atenta directamente contra el honor exclusivo debido a Dios (q.94 a.2). Incluso la idolatría exterior sin adhesión interior es pecado de falsedad (q.94 a.2). Es el más grave de los pecados cuanto a la materia (q.94 a.3), pues en lo que está de su parte introduce un nuevo dios con menoscabo de la autoridad divina.
+
+Las causas de la idolatría (q.94 a.4) son: dispositivamente, el desorden afectivo del hombre (amor excesivo a criaturas, ignorancia del verdadero Dios) y consumativamente, los demonios, que se presentan como dignos de culto a los hombres ignorantes mediante respuestas y milagros aparentes.
+
+Santo Tomás distingue tres tipos históricos de idolatría: la teología mítica (poetas), la física (filósofos) y la civil (pontífices), explicando las diversas opiniones sobre los dioses (q.94 a.1 resp.).
+
+[SmTh IIa-IIae q.94]
 
 ## Relaciones doctrinales
 

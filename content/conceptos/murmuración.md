@@ -23,6 +23,16 @@ CEC §2477-2479: Trata la murmuración junto con la calumnia en el contexto del 
 
 §2479: "Detraer (o murmurar) a alguien con palabras verdaderas pero injustamente reveladas, sin causa suficiente, atenta contra la justicia y la caridad".
 
+### Según la Summa Theologiae (SmTh)
+
+**La detracción (Q73):** Santo Tomás define la detracción o murmuración como «la denigración de la fama del prójimo mediante palabras dichas en su ausencia, revelando sus faltas ocultas» (q.73 a.1). Es pecado contra la justicia, pues la fama es un bien del prójimo.
+
+Es pecado mortal por su género (q.73 a.2), pero puede ser venial por parvidad de materia. Es más grave que la contumelia porque daña la fama en la estimación de terceros, que es más difícil de reparar (q.73 a.3).
+
+La reparación de la fama es obligatoria (q.73 a.4): debe hacerse todo lo posible por restaurar la buena fama del prójimo.
+
+**La susurración (Q74):** Es una especie agravada de detracción que busca romper la amistad entre dos personas, sembrando discordia. Es más grave que la detracción simple (q.74 a.1).
+
 ### Según Royo Marín (TPCr)
 
 TPCr trata la murmuración como pecado grave contra la justicia. Distinge entre:

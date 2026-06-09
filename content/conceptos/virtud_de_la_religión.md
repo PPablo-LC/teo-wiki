@@ -30,6 +30,15 @@ La oración tiene valor satisfactorio y meritorio como acto de religión. La san
 
 [TPCr, Parte III, Libro II, Cap. II, n.399, 401]
 
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata la religión como parte potencial de la justicia (IIa-IIae q.80-81). La religión es una virtud moral que ordena al hombre a dar el culto debido a Dios, aunque no puede establecer con Él la igualdad que exige la justicia estricta. Es la más excelente de las virtudes morales anejas a la justicia.
+
+La religión es virtud especial (q.81 a.3) con objeto propio: el honor y culto debidos a Dios. Produce actos interiores (devoción, oración) y exteriores (adoración, sacrificio, ofrendas, votos, juramentos). Sus actos se ordenan a significar la reverencia interior (q.81 a.7). La religión es virtud moral, no teologal, porque su objeto no es Dios en sí mismo sino el culto que se le tributa (q.81 a.5).
+
+Las partes cuasi integrales de la justicia (q.79) —hacer el bien y evitar el mal, con sus vicios opuestos de transgresión y omisión— se aplican también a la religión en cuanto virtud aneja a la justicia.
+
+[SmTh IIa-IIae q.79-81]
 
 ## Distinciones importantes
 
@@ -49,10 +58,10 @@ La religión es parte potencial de la [[justicia]]. Se relaciona con la [[oraci�
 - [[tim_barry_the_strength_of_meekness]]
 
 ## Ver también
-[[justicia]], [[oración]], [[adoración]], [[sacrificio]], [[voto]], [[piedad]], [[estado_religioso]]
+[[justicia]], [[oración]], [[adoración]], [[sacrificio]], [[voto]], [[devoción]], [[juramento]], [[diezmos]], [[oblaciones_y_primicias]], [[alabanza_divina]], [[piedad]], [[estado_religioso]]
 
 ## Referencias
 
 - [CEC §2135, §2095-2097, §2628]
 - [TPCr, Parte III, Libro II, Cap. II, n.399-401]
-- [Santo Tomás, II-II, q.80-100]
+- [SmTh IIa-IIae q.79-100]

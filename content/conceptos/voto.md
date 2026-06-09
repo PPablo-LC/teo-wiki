@@ -23,6 +23,15 @@ El CIC regula el voto en los cc. 1191-1198. Define el voto como «la promesa del
 ### Según Royo Marín (TPCr)
 El voto es una promesa deliberada y libre hecha a Dios de un bien posible y mejor que su contrario. Hecho con las debidas condiciones, es un acto excelente de religión que aumenta el mérito de las buenas obras al ordenarlas al culto y honor de Dios. Su transgresión voluntaria es pecado contra la religión. Si los votos quebrantados son los de una persona consagrada públicamente a Dios, constituye sacrilegio. Los votos privados no son firmes sin la aprobación del superior religioso. El voto de obediencia al director espiritual debe desaconsejarse en general por los inconvenientes que trae.
 
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata el voto en la cuestión 88 de la IIa-IIae. El voto es una promesa hecha a Dios (q.88 a.1). Como promesa, requiere deliberación y libertad; como hecha a Dios, es acto de la virtud de religión. El voto se distingue del simple propósito por la promesa formal a Dios (q.88 a.1 ad 1).
+
+La materia del voto debe ser un bien posible y mejor que su contrario (q.88 a.2). No se puede prometer a Dios un mal ni algo indiferente. El voto de los consejos evangélicos (pobreza, castidad, obediencia) es especialmente meritorio porque consagra a Dios lo más excelente (q.88 a.5-6).
+
+La obligación del voto surge de la fidelidad debida a Dios. Quebrantar un voto es pecado mortal por su materia (q.88 a.3). Sin embargo, la dispensa del voto es posible por autoridad competente cuando hay justa causa (q.88 a.12). Los votos se dividen en personales (prometer una acción), reales (prometer una cosa) y mixtos. La solemnidad del voto (q.88 a.7) es una determinación de la Iglesia.
+
+[SmTh IIa-IIae q.88]
 
 ## Distinciones importantes
 - Voto (promesa a Dios) ≠ propósito (resolución firme, sin promesa a Dios)

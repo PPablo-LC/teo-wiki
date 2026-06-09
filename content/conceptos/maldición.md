@@ -13,6 +13,21 @@ La maldición recorre la historia de la salvación desde el Génesis hasta el Ap
 
 ## Perspectivas por fuente
 
+### Según la Summa Theologiae (SmTh)
+
+**La maldición (Q76):** Santo Tomás trata la maldición como pecado contra la justicia y la caridad. Maldición es la imprecación de un mal contra alguien, invocando sobre él un daño (q.76 a.1).
+
+Clases de maldición:
+1. Maldición por deseo de venganza o por odio: es pecado mortal, porque se desea un mal al prójimo contra la caridad y la justicia
+2. Maldición condicional: «maldito sea si hace tal cosa» —puede ser lícita si la condición es justa (a.1 ad 1)
+3. Maldición imprecatoria de la justicia divina: «maldito sea el que hace tal maldad» —puede usarse en sentido de desear que se cumpla la justicia de Dios, no de desear el mal a la persona (a.1 ad 2)
+
+La maldición que procede del odio es pecado mortal por su materia (q.76 a.2), porque atenta contra la caridad fraterna. Puede ser venial por ligereza de ánimo o por falta de reflexión (a.2 ad 2).
+
+La maldición de las criaturas irracionales (q.76 a.3): maldecir a las criaturas irracionales no es pecado en sí mismo, pero puede serlo si se hace por desprecio al Creador o con deseo de mal a otros.
+
+No debe confundirse la maldición bíblica (como en los Salmos imprecatorios, que expresan el deseo de que se cumpla la justicia divina) con la maldición fruto del odio o la ira (que es siempre ilícita, a.1 ad 3).
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 El vocabulario hebreo de la maldición es rico: expresa la ira (*z'm*), la humillación ('*rr*), el desprecio (*qll*), la execración (*qbb*) y el juramento ('*lh*). La maldición comporta dos términos ligados: la causa o condición que acarrea el efecto. No puede maldecirse a la ligera; se requiere cierto derecho sobre el ser profundo de la persona: el de la autoridad paterna, el de la injusticia sufrida, el de Dios.

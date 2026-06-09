@@ -26,6 +26,15 @@ En el NT, el único sacrificio perfecto y definitivo es el de Cristo en la cruz 
 ### Según Royo Marín (TPCr)
 Jesucristo es la causa meritoria de la gracia, y su mérito está íntimamente ligado a su sacrificio redentor. La imposibilidad del linaje humano de satisfacer condignamente el pecado de Adán solo pudo ser superada por un Dios hecho hombre que ofreciera a la justicia divina una satisfacción plena (TPCr, Primera Parte, Cap. VII, n.57). La santa misa contiene las riquezas infinitas del sacrificio de Cristo, ofreciéndose al Padre como adoración, reparación, petición y acción de gracias (TPCr, Tercera Parte, Libro II, Cap. I). La mejor manera de dar gracias consiste en identificarse por el amor con Cristo y ofrecerle al Padre con todas sus infinitas riquezas.
 
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata el sacrificio en la cuestión 85 de la IIa-IIae. El sacrificio es un acto de la virtud de religión, porque se ofrece a Dios en reconocimiento de su supremo dominio sobre todas las cosas (q.85 a.1). Por ley natural, el hombre está obligado a ofrecer a Dios algún signo exterior de su sumisión interior, y el sacrificio es el más expresivo de estos signos (q.85 a.1).
+
+El sacrificio debe ofrecerse solo a Dios, no a ninguna criatura (q.85 a.2). Es el acto principal de la virtud de religión porque expresa de modo eminente la total dependencia del hombre respecto a Dios y la ordenación de todo a Él como fin último (q.85 a.3).
+
+Todo sacrificio visible es signo del sacrificio invisible del corazón, por el cual el hombre se ofrece a sí mismo a Dios (q.85 a.4). La oblación exterior es necesaria para significar y excitar el sacrificio interior. Santo Tomás distingue tres elementos del sacrificio: la ofrenda, la inmolación (o transformación de la víctima) y la participación en lo ofrecido.
+
+[SmTh IIa-IIae q.85]
 
 ## Distinciones importantes
 
