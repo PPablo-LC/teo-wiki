@@ -21,6 +21,14 @@ A diferencia de los discípulos de los doctores judíos, que podían independiza
 
 [VocTeoBib, «Discípulo»]
 
+### Según Ensayo-instituyo-a-los-doce (RC-Inst_12)
+
+El ensayo ilumina el discipulado en su dimensión comunitaria y apostólica. El discípulo no es solo un individuo que sigue a un maestro, sino alguien que es llamado por Cristo a formar parte de una comunidad de apóstoles. «Mientras la llamada es personal, el seguimiento del Maestro es comunitario» [RC-Inst_12, Parte I, §II, «Para que estuvieran con Él»].
+
+El discípulo escucha las enseñanzas de Jesús, las pone por obra (cf. Mc 3,31-35) y es enviado a transmitirlas (cf. Lc 9,2). El discipulado «configura un grupo en torno a Cristo al servicio del Reino, un grupo que ha asumido el estilo de vida, proyecto y destino de Cristo, y que se ha dejado plasmar por las enseñanzas de Jesús» [RC-Inst_12, Parte I, §II, «Para que estuvieran con Él»].
+
+El discípulo, al ser enviado, se convierte en apóstol. La comunidad de apóstoles es la forma madura del discipulado: aquel que ha estado con Cristo y ha aprendido de Él es enviado a hacer nuevos discípulos. Este dinamismo de discipulado-apostolado genera nuevas comunidades de creyentes que perpetúan la misión [RC-Inst_12, Parte II, §II, Comunidades de apóstoles que forman nuevas comunidades].
+
 ## Distinciones importantes
 
 - Discípulo de Jesús ≠ discípulo de un rabino judío: la relación es personal (con una persona) y no meramente doctrinal.

@@ -37,9 +37,9 @@ Los sagrados Pastores deben «reconocer sus servicios y carismas de tal suerte q
 
 Las gracias gratis dadas se ordenan principalmente a la utilidad de los demás. Algunas se ordenan al provecho del que las recibe (visiones, revelaciones, raptos, éxtasis). Santo Tomás las trata extensamente. La hierognosis (discernimiento de objetos sagrados) y otros fenómenos extraordinarios pueden ser gracias gratis dadas (TPCr, Cuarta Parte, Caps. I-II).
 
-### Según el Regnum Christi / Legión de Cristo (LC-CARISMAS-2023)
+### Según el Regnum Christi / Legión de Cristo (RC-Carismas-2023)
 
-El documento «Consideraciones sobre los carismas, la sanación y la vida en el Espíritu» (2023) desarrolla la doctrina de los carismas en el contexto del Regnum Christi. Recoge la enseñanza de LG 12 sobre los carismas ordinarios y extraordinarios, recordando que «deben ser recibidos con gratitud y consuelo» pero «no deben pedirse temerariamente». Los carismas son «gracias del Espíritu Santo, que tienen directa o indirectamente una utilidad eclesial; los carismas están ordenados a la edificación de la Iglesia, al bien de los hombres y a las necesidades del mundo» (CEC 799). La diversidad de carismas en el Cuerpo Místico «no es una anomalía que debe evitarse» sino «una necesidad benéfica» que hace posible las diversas funciones vitales [Iuvenescit Ecclesia, 4]. El documento presenta los criterios de discernimiento de Juan Pablo II (Audiencia General, 24 de junio de 1992): conformidad con la fe, fruto del Espíritu, armonía con la autoridad, edificación de la comunidad. Los carismas auténticos no entran en contradicción con el carisma fundacional del grupo al que pertenece la persona, pues «el líquido se adapta a la forma de la botella que lo contiene» [LC-CARISMAS-2023, 3.1, 4.1-4.2].
+El documento «Consideraciones sobre los carismas, la sanación y la vida en el Espíritu» (2023) desarrolla la doctrina de los carismas en el contexto del Regnum Christi. Recoge la enseñanza de LG 12 sobre los carismas ordinarios y extraordinarios, recordando que «deben ser recibidos con gratitud y consuelo» pero «no deben pedirse temerariamente». Los carismas son «gracias del Espíritu Santo, que tienen directa o indirectamente una utilidad eclesial; los carismas están ordenados a la edificación de la Iglesia, al bien de los hombres y a las necesidades del mundo» (CEC 799). La diversidad de carismas en el Cuerpo Místico «no es una anomalía que debe evitarse» sino «una necesidad benéfica» que hace posible las diversas funciones vitales [Iuvenescit Ecclesia, 4]. El documento presenta los criterios de discernimiento de Juan Pablo II (Audiencia General, 24 de junio de 1992): conformidad con la fe, fruto del Espíritu, armonía con la autoridad, edificación de la comunidad. Los carismas auténticos no entran en contradicción con el carisma fundacional del grupo al que pertenece la persona, pues «el líquido se adapta a la forma de la botella que lo contiene» [RC-Carismas-2023, 3.1, 4.1-4.2].
 
 ## Distinciones importantes
 
@@ -60,4 +60,4 @@ El documento «Consideraciones sobre los carismas, la sanación y la vida en el 
 - 1 Corintios 12-14
 - CIC cc. 212 §2-3, 216, 223 §2, 225 §1, 605
 - [VocTeoBib, «Carisma»]
-- [LC-CARISMAS-2023, 3.1, 4.1-4.2]
+- [RC-Carismas-2023, 3.1, 4.1-4.2]

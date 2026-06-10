@@ -17,13 +17,13 @@ La santificación del mundo no consiste en retirarse del mundo sino en vivificar
 
 El CEC §897-913 desarrolla la vocación de los laicos a la santificación del mundo: «Por su misma vocación, es propio de los laicos buscar el Reino de Dios ocupándose de las realidades temporales y ordenándolas según Dios» (§898).
 
-### Según el Concilio Vaticano II (LC-2026)
+### Según el Concilio Vaticano II (CapGral-2026)
 
 El Concilio Vaticano II, especialmente en [[lumen_gentium]] §31 y [[gaudium_et_spes]] §43, enseña que es propia de los laicos la búsqueda del Reino de Dios gestionando las realidades temporales y ordenándolas según Dios. La [[evangelización]] del mundo es deber de todo bautizado.
 
-### Según el Capítulo General LC-2026
+### Según el Capítulo General CapGral-2026
 
-El V Capítulo General de los Legionarios de Cristo (LC-2026) llama a formar apóstoles que, desde el [[carisma_legionario]], encarnen la misión de instaurar el Reino de Cristo en la sociedad. Los laicos del [[regnum_christi]] están llamados a ser fermento del Evangelio en sus ambientes profesionales, familiares y sociales.
+El V Capítulo General de los Legionarios de Cristo (CapGral-2026) llama a formar apóstoles que, desde el [[carisma_legionario]], encarnen la misión de instaurar el Reino de Cristo en la sociedad. Los laicos del [[regnum_christi]] están llamados a ser fermento del Evangelio en sus ambientes profesionales, familiares y sociales.
 
 ## Relaciones doctrinales
 
@@ -37,4 +37,4 @@ Se relaciona con la [[consagración_del_mundo]], la [[doctrina_social_de_la_igle
 
 - CEC §897-913
 - LG 31, 36; GS 43
-- LC-2026, Tercera Parte (misión y laicado)
+- CapGral-2026, Tercera Parte (misión y laicado)

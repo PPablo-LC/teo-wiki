@@ -17,9 +17,9 @@ El cristocentrismo es un principio fundamental de la teología católica, que en
 
 El cristocentrismo constituye «la característica fundamental y específica del espíritu legionario» (CLC-2020 8). Los legionarios se esfuerzan para que Jesucristo sea el criterio, el centro y el modelo de toda su vida religiosa, sacerdotal y apostólica, buscando conocerlo, amarlo y experimentarlo íntimamente, sobre todo en el Evangelio, la Eucaristía y la cruz.
 
-### Según el Capítulo General LC-2026
+### Según el Capítulo General CapGral-2026
 
-El Capítulo General de 2026 reafirma el cristocentrismo como «la característica fundamental y específica de la espiritualidad legionaria» [LC-2026, n. 54], expresado en la fórmula de las Constituciones: «centrar toda su existencia en Cristo por medio de un amor real, personal, viril y apasionado a Él» (CLC-2020 3).
+El Capítulo General de 2026 reafirma el cristocentrismo como «la característica fundamental y específica de la espiritualidad legionaria» [CapGral-2026, n. 54], expresado en la fórmula de las Constituciones: «centrar toda su existencia en Cristo por medio de un amor real, personal, viril y apasionado a Él» (CLC-2020 3).
 
 ## Distinciones importantes
 
@@ -41,5 +41,5 @@ Se relaciona con [[cristocentrismo_legionario]], [[jesucristo]], [[vicario_de_cr
 ## Referencias
 
 - [CLC-2020 3, 8]
-- [LC-2026, n. 50, 54]
+- [CapGral-2026, n. 50, 54]
 - [ConcVatII, *Lumen Gentium*]

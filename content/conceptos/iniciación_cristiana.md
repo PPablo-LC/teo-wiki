@@ -1,7 +1,7 @@
 # Iniciación cristiana
 
 > Área: Sacramental
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -25,6 +25,10 @@ El CIC establece que los sacramentos del bautismo, de la confirmación y de la s
 *Sacrosanctum Concilium* 64-71 reforma los ritos de iniciación cristiana. Ordena la restauración del catecumenado de adultos en etapas (SC 64). El bautismo de adultos debe revisarse teniendo en cuenta el catecumenado (SC 66). El bautismo de niños debe adaptarse a su condición (SC 67). La confirmación debe revisarse para que aparezca más claramente su íntima relación con toda la iniciación cristiana (SC 71). SC 6 enseña que por el bautismo los hombres son injertados en el misterio pascual, y que la Iglesia nunca ha dejado de reunirse para celebrar la Eucaristía.
 
 
+### Según León XIV (L_XIV-ClerRom)
+
+El Papa, refiriéndose a la «relación entre iniciación cristiana y evangelización», señala la necesidad de «un claro cambio de rumbo». La pastoral ordinaria se estructura según un modelo que presupone la transmisión de la fe por el ambiente circundante —la sociedad y la familia— pero «los cambios culturales y antropológicos nos dicen que ya no es así». Urge, por tanto, revisar la iniciación cristiana, «a menudo estructurada según ritmos escolares», para «experimentar otras modalidades de transmisión de la fe, también fuera de los caminos clásicos, para intentar involucrar de manera nueva a los chicos, a los jóvenes y a las familias». Esta revisión no es opcional sino consecuencia del diagnóstico de una «creciente erosión de la práctica religiosa» y de que «parte de nuestro pueblo bautizado no experimenta su pertenencia a la Iglesia» (EG 63) [L_XIV-ClerRom, 19.02.2026].
+
 ## Ver también
 
 [[bautismo]], [[confirmación]], [[eucaristía]], [[catecumenado]], [[padrinos]]
@@ -33,3 +37,4 @@ El CIC establece que los sacramentos del bautismo, de la confirmación y de la s
 
 - CIC cc. 842, 851, 866
 - CEC §1210-1212
+- [L_XIV-ClerRom, 19.02.2026]

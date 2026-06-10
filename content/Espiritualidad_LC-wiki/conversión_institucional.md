@@ -27,9 +27,9 @@ La Legión de Cristo ha vivido un proceso singular de conversión institucional 
 
 **Compromiso de enmienda.** El documento establece diez medidas concretas (CR 11) que incluyen: investigación de cada denuncia, solicitud de levantamiento de prescripción, estructuras de reparación, publicación de nombres de condenados, prohibición de ministerio público a condenados, exclusión de casas de formación, investigación canónica de negligencias, capacitación continua, purificación de la memoria y fomento de la oración penitencial [CRPS-2020, CR 11].
 
-### Según el Capítulo General LC-2026
+### Según el Capítulo General CapGral-2026
 
-El Capítulo General reconoce con humildad que los esfuerzos por aplicar «Proteger y sanar» no estuvieron exentos de errores: la atención a las víctimas no siempre llegó con la prontitud o sensibilidad que merecían, y el deseo de transparencia no siempre supo armonizarse con el derecho universal de la Iglesia [LC-2026, n. 142]. El Capítulo pide sinceramente perdón y renueva su compromiso de aprender de estos hechos, mostrando que la conversión institucional es un proceso permanente.
+El Capítulo General reconoce con humildad que los esfuerzos por aplicar «Proteger y sanar» no estuvieron exentos de errores: la atención a las víctimas no siempre llegó con la prontitud o sensibilidad que merecían, y el deseo de transparencia no siempre supo armonizarse con el derecho universal de la Iglesia [CapGral-2026, n. 142]. El Capítulo pide sinceramente perdón y renueva su compromiso de aprender de estos hechos, mostrando que la conversión institucional es un proceso permanente.
 
 ## Distinciones importantes
 
@@ -47,5 +47,5 @@ Se relaciona con [[reconciliación_institucional]], [[proteger_y_sanar]], [[abus
 
 ## Referencias
 
-- [LC-2026, n. 140-144]
+- [CapGral-2026, n. 140-144]
 - [CLC-2020, proceso de revisión 2010-2014]

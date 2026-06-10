@@ -17,21 +17,21 @@ El ars celebrandi no es un mero formalismo estético, sino una expresión de la 
 
 La liturgia es la cumbre a la que tiende la acción de la Iglesia y la fuente de donde mana toda su fuerza (CEC §1074). La celebración litúrgica implica signos y símbolos, palabras y acciones, canto y música (CEC §1145-1162). La participación activa, consciente y fructuosa es un derecho y un deber del pueblo fiel (CEC §1141).
 
-### Según el Capítulo General LC-2026
+### Según el Capítulo General CapGral-2026
 
-El Capítulo General 2026 dedicó una atención especial a la vida litúrgica, constatando un número significativo de aportaciones y propuestas que manifestaban preocupación por este ámbito [LC-2026, n. 67].
+El Capítulo General 2026 dedicó una atención especial a la vida litúrgica, constatando un número significativo de aportaciones y propuestas que manifestaban preocupación por este ámbito [CapGral-2026, n. 67].
 
-**Liturgia como fuente de identidad**: en la Legión, «vivir la liturgia al paso de la Iglesia, con sobriedad, unción y sentido de lo sagrado, ha sido un rasgo distintivo de nuestra identidad y amor a Cristo» [LC-2026, n. 67].
+**Liturgia como fuente de identidad**: en la Legión, «vivir la liturgia al paso de la Iglesia, con sobriedad, unción y sentido de lo sagrado, ha sido un rasgo distintivo de nuestra identidad y amor a Cristo» [CapGral-2026, n. 67].
 
-**Sobriedad, unción y sentido de lo sagrado**: la celebración litúrgica legionaria evita «acentos particularistas» y formas novedosas, buscando permanecer «fieles al modo de celebrar de la Iglesia, en una expresión sobria y fervorosa que custodie la fe y la haga visible» [LC-2026, n. 67].
+**Sobriedad, unción y sentido de lo sagrado**: la celebración litúrgica legionaria evita «acentos particularistas» y formas novedosas, buscando permanecer «fieles al modo de celebrar de la Iglesia, en una expresión sobria y fervorosa que custodie la fe y la haga visible» [CapGral-2026, n. 67].
 
-**Fidelidad al Magisterio**: «al subrayar la importancia del ars celebrandi, la Iglesia pone de relieve el valor de las normas litúrgicas, que no son formalismos externos, sino garantía de la fe celebrada por el pueblo de Dios» [LC-2026, n. 68].
+**Fidelidad al Magisterio**: «al subrayar la importancia del ars celebrandi, la Iglesia pone de relieve el valor de las normas litúrgicas, que no son formalismos externos, sino garantía de la fe celebrada por el pueblo de Dios» [CapGral-2026, n. 68].
 
-**La belleza como fuerza de atracción**: «no es acertado pensar que el descuido de las normas, la banalización de los cantos o la simplificación indebida de la liturgia la harán más accesible o fecunda para el Pueblo de Dios. Por el contrario, la belleza, vivida con sencillez y autenticidad, tiene una fuerza de atracción propia, y lo sagrado, cuando es custodiado con fidelidad, habla profundamente al corazón del hombre sediento de Dios» [LC-2026, n. 69].
+**La belleza como fuerza de atracción**: «no es acertado pensar que el descuido de las normas, la banalización de los cantos o la simplificación indebida de la liturgia la harán más accesible o fecunda para el Pueblo de Dios. Por el contrario, la belleza, vivida con sencillez y autenticidad, tiene una fuerza de atracción propia, y lo sagrado, cuando es custodiado con fidelidad, habla profundamente al corazón del hombre sediento de Dios» [CapGral-2026, n. 69].
 
-**La propia vida como liturgia**: la vivencia profunda de la celebración litúrgica lleva a «hacer de la propia vida una perenne liturgia» (CLC-2020 53), expresión de la entrega completa de sí mismo [LC-2026, n. 69].
+**La propia vida como liturgia**: la vivencia profunda de la celebración litúrgica lleva a «hacer de la propia vida una perenne liturgia» (CLC-2020 53), expresión de la entrega completa de sí mismo [CapGral-2026, n. 69].
 
-**Participación activa**: se invita a los legionarios a renovar su «participación activa, consciente y fervorosa en la liturgia» (CLC-2020 49) [LC-2026, n. 68].
+**Participación activa**: se invita a los legionarios a renovar su «participación activa, consciente y fervorosa en la liturgia» (CLC-2020 49) [CapGral-2026, n. 68].
 
 ### Según la Iglesia (Magisterio litúrgico)
 
@@ -53,7 +53,7 @@ Se relaciona con [[identidad_legionaria]], [[liturgia]], [[eucaristía]], [[sace
 
 ## Referencias
 
-- [LC-2026, n. 67-69]
+- [CapGral-2026, n. 67-69]
 - [CLC-2020 49, 53]
 - [CEC §1074, §1141, §1145-1162]
 - [SC 112-113; Sacramentum caritatis 38-42]

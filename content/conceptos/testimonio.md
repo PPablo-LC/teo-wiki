@@ -1,7 +1,7 @@
 # Testimonio
 
 > Área: Moral / Ascética
-> Última actualización: 2026-06-05
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -54,8 +54,13 @@ Se relaciona con [[testimonio_cristiano]] como su forma específica de testimoni
 
 [[testimonio_cristiano]], [[virtud_de_la_verdad]], [[martirio]], [[apostolado]], [[octavo_mandamiento]], [[prueba]], [[juez]], [[limosna]]
 
+### Según León XIV (L_XIV-ClerRom)
+
+León XIV presenta el testimonio del sacerdote como la forma fundamental de evangelización. Frente a los jóvenes, «el sacerdote joven puede ofrecer a los jóvenes un modelo de vida, que ser amigo de Jesús realmente puede llenar sus vidas». Este testimonio no es una técnica de comunicación sino una irradiación de la propia experiencia de fe: el sacerdote debe poder ofrecer «no solo un ejemplo, sino una experiencia de vida que podría cambiar la vida de los jóvenes». El Papa advierte que, en la era digital, es fácil caer en el engaño de querer ser protagonistas: «"Tengo muchos seguidores, muchos likes, porque ven lo que digo..." No eres tú: si no estamos transmitiendo el mensaje de Jesucristo, tal vez nos estemos equivocando». El testimonio auténtico requiere una vida arraigada en el Señor, porque solo así se puede ofrecer «algo que no es nuestro» [L_XIV-ClerRom, 19.02.2026].
+
 ## Referencias
 
 - [CEC §2464-2474]
 - [TPCr, virtud de la religión y apostolado]
+- [L_XIV-ClerRom, 19.02.2026]
 - [CIC cann. 1548-1549]

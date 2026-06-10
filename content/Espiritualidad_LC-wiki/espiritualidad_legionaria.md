@@ -28,9 +28,15 @@ Los Estatutos de la Federación Regnum Christi (EFRC 6-30) articulan los fundame
 - **Virtudes teologales, humanas y sociales**: se edifican la vida interior y apostólica sobre la fe luminosa, la esperanza firme y la caridad universal; se cultivan la humildad, sinceridad, prudencia y responsabilidad (EFRC 24-26).
 - **Comunión**: «fomentamos el espíritu de cuerpo y la unión de corazones, ideales, propósitos y esfuerzos» (EFRC 27).
 
-### Según el Capítulo General LC-2026
+### Según el Capítulo General CapGral-2026
 
-El Capítulo General de 2026 profundizó en la identidad legionaria (LC-2026, n. 56-71), ofreciendo un compendio del legionario transformado por el carisma, y reafirmando el cristocentrismo, la militia Christi, la paternidad sacerdotal, el sentido de Iglesia, el ars celebrandi y las tradiciones y costumbres propias como elementos constitutivos de la espiritualidad legionaria.
+El Capítulo General de 2026 profundizó en la identidad legionaria (CapGral-2026, n. 56-71), ofreciendo un compendio del legionario transformado por el carisma, y reafirmando el cristocentrismo, la militia Christi, la paternidad sacerdotal, el sentido de Iglesia, el ars celebrandi y las tradiciones y costumbres propias como elementos constitutivos de la espiritualidad legionaria.
+
+### Según Ensayo-instituyo-a-los-doce (RC-Inst_12)
+
+El ensayo añade un elemento que hasta ahora no aparecía explícitamente en la exposición de la espiritualidad legionaria: la comunidad de apóstoles como elemento definitorio de la espiritualidad del Regnum Christi. «El Regnum Christi es una comunidad de apóstoles que forma comunidades de apóstoles. Esta identidad, que define y configura nuestra espiritualidad y misión, hunde sus raíces en el Evangelio» [RC-Inst_12, Introducción].
+
+La espiritualidad legionaria no es solo cristocéntrica individualmente: es una espiritualidad que se vive en comunidad, donde Cristo es centro, criterio y modelo de la vida comunitaria. La comunidad de apóstoles se caracteriza por ser convocada por Cristo, reunida en torno a Él, configurada con Él y enviada en misión [RC-Inst_12, Parte II, §I]. La oración comunitaria, la vida eucarística compartida y el discernimiento común son expresiones de esta espiritualidad comunitaria. «Sin oración comunitaria no hay verdadera comunidad de apóstoles» [RC-Inst_12, Parte II, §I, Comunidades donde Cristo es centro, criterio y modelo].
 
 ## Distinciones importantes
 
@@ -49,5 +55,5 @@ Se relaciona con [[identidad_legionaria]], [[cristocentrismo_legionario]], [[mil
 ## Referencias
 
 - [CLC-2020 8-17]
-- [LC-2026, n. 50-71]
+- [CapGral-2026, n. 50-71]
 - [FRC-2019, EFRC 6-30]

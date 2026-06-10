@@ -25,9 +25,9 @@ La alabanza en el AT está indisolublemente unida a la acción de gracias, como 
 
 TPCr trata la alabanza como parte de la oración vocal y de la virtud de la religión. La alabanza es un acto de la virtud de la religión que reconoce la excelencia divina. Se distingue de la acción de gracias en que esta agradece los beneficios recibidos, mientras que la alabanza glorifica a Dios por lo que Él es.
 
-### Según el Regnum Christi / Legión de Cristo (LC-CARISMAS-2023)
+### Según el Regnum Christi / Legión de Cristo (RC-Carismas-2023)
 
-El documento «Consideraciones sobre los carismas, la sanación y la vida en el Espíritu» (2023) aborda la oración de alabanza (*worship*) como una forma de oración no discursiva ni ritualista, sino emotiva y experiencial, que se sirve de la música, las luces e imágenes. Originada en la música evangélica estadounidense (siglo XX), vinculada al movimiento neopentecostal, puede ser una buena preparación o un modo de dar continuidad a la Liturgia de la Iglesia. La alabanza es «la forma de orar que reconoce de la manera más directa que Dios es Dios»; mediante ella, «el Espíritu se une a nuestro espíritu para dar testimonio de que somos hijos de Dios» (Rm 8,16; CEC 2639). Quien entra por un camino de alabanza experimenta la sed de hacer más oración personal, se abre a recibir más dones del Señor y al impulso de anunciar el kerygma. La música, cuando es movida por amor a Dios y favorecida por la unción del Espíritu, se convierte en riqueza para la comunidad: «quien canta bien, ora dos veces» (San Agustín, Comentario al Salmo 72,1) [LC-CARISMAS-2023, 3.4.1].
+El documento «Consideraciones sobre los carismas, la sanación y la vida en el Espíritu» (2023) aborda la oración de alabanza (*worship*) como una forma de oración no discursiva ni ritualista, sino emotiva y experiencial, que se sirve de la música, las luces e imágenes. Originada en la música evangélica estadounidense (siglo XX), vinculada al movimiento neopentecostal, puede ser una buena preparación o un modo de dar continuidad a la Liturgia de la Iglesia. La alabanza es «la forma de orar que reconoce de la manera más directa que Dios es Dios»; mediante ella, «el Espíritu se une a nuestro espíritu para dar testimonio de que somos hijos de Dios» (Rm 8,16; CEC 2639). Quien entra por un camino de alabanza experimenta la sed de hacer más oración personal, se abre a recibir más dones del Señor y al impulso de anunciar el kerygma. La música, cuando es movida por amor a Dios y favorecida por la unción del Espíritu, se convierte en riqueza para la comunidad: «quien canta bien, ora dos veces» (San Agustín, Comentario al Salmo 72,1) [RC-Carismas-2023, 3.4.1].
 
 ## Relaciones doctrinales
 
@@ -42,4 +42,4 @@ La alabanza se relaciona con la [[oración]] como su forma más pura, con la [[a
 - CEC §2638-2643
 - TPCr, Tratado de la oración
 - [VocTeoBib, «Alabanza»]
-- [LC-CARISMAS-2023, 3.4.1]
+- [RC-Carismas-2023, 3.4.1]

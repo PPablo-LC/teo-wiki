@@ -1,7 +1,7 @@
 # Conversión
 
 > Área: Moral / Ascética
-> Última actualización: 2026-05-29
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -46,6 +46,10 @@ Esta conversión institucional exige:
 
 El Papa subraya que el escándalo del abuso debe convertirse en «una oportunidad de purificación» (PMI), mirando al ejemplo de Edith Stein —Santa Teresa Benedicta de la Cruz—, con la certeza de que «en la noche más oscura surgen los más grandes profetas y santos» (PMI).
 
+### Según León XIV (L_XIV-ClerRom)
+
+León XIV enmarca su encuentro con el clero romano al inicio de la Cuaresma, «tiempo de conversión y de alegría». Sitúa la conversión como un proceso de «reavivar el don de Dios» (2 Tim 1,6), retomando la imagen del Papa Francisco de «soplar sobre el fuego para reavivar su llama». Advierte que «la llama de este fuego no conserva siempre la misma vitalidad y necesita ser alimentada», especialmente ante «el cansancio y el peso de la rutina, o el desánimo por la creciente indiferencia hacia la fe y la práctica religiosa». La conversión cuaresmal del sacerdote incluye la vuelta a la oración —«no solo la rutina de recitar lo más rápido posible el breviario»—, el estudio permanente y la renovación de la fraternidad presbiteral [L_XIV-ClerRom, 19.02.2026].
+
 ## Analizado para
 
 - [[auténtica_día_2_lidera_tu_vida_con_dios]] — convergencia en el proceso de sanación interior (herida → mentira → renuncia → verdad) como aplicación concreta de la conversión continua; aporta sistematización práctica no desarrollada en la base doctrinal
@@ -58,5 +62,6 @@ El Papa subraya que el escándalo del abuso debe convertirse en «una oportunida
 
 - CEC §1427-1439
 - CEC §1846-1848
+- [L_XIV-ClerRom, 19.02.2026]
 - CEC §1989
 - PMI (Discurso conclusivo del Encuentro sobre la Protección de los Menores en la Iglesia, 24 febrero 2019)

@@ -37,15 +37,15 @@ La obediencia se extiende a todo lo que el superior mande según la regla y cons
 
 [TPCr, Parte III, Libro III, n.728-732; Parte III, Libro II, Cap. II, n.417]
 
-### Según el Capítulo General LC-2026
+### Según el Capítulo General CapGral-2026
 
 El Capítulo General 2026 de los Legionarios de Cristo aborda la obediencia religiosa desde la perspectiva del derecho propio de la Legión —Constituciones (CLC-2020), Normas complementarias (NC) y «Christus vita vestra» (CVV)—, ofreciendo una reflexión espiritual sobre el voto de obediencia en el contexto actual de renovación.
 
-Las Constituciones invitan a una obediencia «sobrenatural, pronta, alegre, perseverante y heroica», vivida «con plena consciencia y amor, aunando con sencillez la dependencia y la iniciativa responsable» [LC-2026, documento temático n. 9]. Esta obediencia es una auténtica oblación de la propia voluntad a ejemplo de Cristo.
+Las Constituciones invitan a una obediencia «sobrenatural, pronta, alegre, perseverante y heroica», vivida «con plena consciencia y amor, aunando con sencillez la dependencia y la iniciativa responsable» [CapGral-2026, documento temático n. 9]. Esta obediencia es una auténtica oblación de la propia voluntad a ejemplo de Cristo.
 
-El discernimiento personal es presupuesto de la obediencia auténtica: «En la vida consagrada, cada uno debe buscar con sinceridad la voluntad del Padre, porque, de otra forma, perdería sentido este género de vida» [LC-2026, documento temático n. 11]. Sin embargo, cuando surgen dificultades ante un mandato legítimo, las Constituciones ofrecen una guía: «preséntele con humildad y respeto las propias dificultades y manténgase abierto para aceptar con fe la decisión del superior» [LC-2026, documento temático n. 11].
+El discernimiento personal es presupuesto de la obediencia auténtica: «En la vida consagrada, cada uno debe buscar con sinceridad la voluntad del Padre, porque, de otra forma, perdería sentido este género de vida» [CapGral-2026, documento temático n. 11]. Sin embargo, cuando surgen dificultades ante un mandato legítimo, las Constituciones ofrecen una guía: «preséntele con humildad y respeto las propias dificultades y manténgase abierto para aceptar con fe la decisión del superior» [CapGral-2026, documento temático n. 11].
 
-El Capítulo invita a los miembros de las comunidades a «una obediencia sobrenatural, libre, activa y madura, que integra el discernimiento en la búsqueda personal y comunitaria de la voluntad de Dios» [LC-2026, n. 98].
+El Capítulo invita a los miembros de las comunidades a «una obediencia sobrenatural, libre, activa y madura, que integra el discernimiento en la búsqueda personal y comunitaria de la voluntad de Dios» [CapGral-2026, n. 98].
 
 ## Distinciones importantes
 

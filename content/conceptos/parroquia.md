@@ -1,7 +1,7 @@
 # Parroquia
 
 > Área: Derecho Canónico
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -23,6 +23,10 @@ Funciones propias del párroco incluyen: administrar el bautismo, la confirmaci�
 En cada parroquia deben llevarse los libros parroquiales (bautizados, matrimonios, difuntos) (c. 535). Debe haber un consejo de asuntos económicos (c. 537) y, si el Obispo lo juzga oportuno, un consejo pastoral (c. 536).
 
 
+### Según León XIV (L_XIV-ClerRom)
+
+León XIV advierte que «la sola parroquia no es suficiente para iniciar procesos de evangelización capaces de llegar a quienes no pueden vivir una participación adecuada». En contextos urbanos como Roma, caracterizados por «movilidad constante, nuevas formas de habitar el territorio, tejidos relacionales y familiares cada vez más plurales», es necesario «vencer la tentación de la autorreferencialidad, que genera sobrecarga y dispersión, para trabajar cada vez más juntos, especialmente entre parroquias vecinas, poniendo en común los carismas y las potencialidades». Esta coordinación, lejos de ser un mero expediente pastoral, expresa la comunión presbiteral y permite responder al cambio del modelo de pertenencia: de la estabilidad territorial a la movilidad. El Papa subraya la necesidad de «aprender a trabajar juntos, en comunión» como condición para dar el primado a la evangelización [L_XIV-ClerRom, 19.02.2026].
+
 ## Relaciones doctrinales
 
 La parroquia es la comunidad eclesial fundamental dentro de la [[diócesis]], bajo la autoridad del [[obispo_diocesano]]. Su pastor es el [[párroco]], asistido por los [[vicario_parroquial|vicarios parroquiales]]. Se integra territorialmente en [[arciprestazgo]]s.
@@ -35,3 +39,4 @@ La parroquia es la comunidad eclesial fundamental dentro de la [[diócesis]], ba
 
 - CIC cc. 515-552
 - CEC §2179
+- [L_XIV-ClerRom, 19.02.2026]

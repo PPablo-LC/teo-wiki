@@ -9,9 +9,9 @@ El carisma de la Congregación de los Legionarios de Cristo es un don del Espír
 
 ## Desarrollo doctrinal
 
-El carisma legionario ha recorrido un camino de purificación profunda. La intervención de la Iglesia fue un acto de discernimiento y cuidado pastoral que buscó purificar, custodiar y confirmar un carisma necesitado de revisión. El núcleo del carisma permanece vivo, no dependiendo de formas históricas concretas ni de modelos cerrados, sino de una configuración cada vez más transparente con Jesucristo [LC-2026, n. 36-40].
+El carisma legionario ha recorrido un camino de purificación profunda. La intervención de la Iglesia fue un acto de discernimiento y cuidado pastoral que buscó purificar, custodiar y confirmar un carisma necesitado de revisión. El núcleo del carisma permanece vivo, no dependiendo de formas históricas concretas ni de modelos cerrados, sino de una configuración cada vez más transparente con Jesucristo [CapGral-2026, n. 36-40].
 
-La etapa actual no se comprende si se reduce a una crisis moral, jurídica o estructural. Lo que se vio afectado fue el relato interior que durante décadas dio cohesión, dirección y sentido compartido a la vida legionaria. Los hechos ligados al fundador afectaron la comprensión de la autoridad, de la obediencia, de la mediación espiritual y del modo de transmitir el carisma [LC-2026, n. 36].
+La etapa actual no se comprende si se reduce a una crisis moral, jurídica o estructural. Lo que se vio afectado fue el relato interior que durante décadas dio cohesión, dirección y sentido compartido a la vida legionaria. Los hechos ligados al fundador afectaron la comprensión de la autoridad, de la obediencia, de la mediación espiritual y del modo de transmitir el carisma [CapGral-2026, n. 36].
 
 ## Perspectivas por fuente
 
@@ -41,23 +41,31 @@ La CVV-2020 explicita que el carisma comprende «una espiritualidad, una vida en
 
 El papa León XIV, en su discurso a los participantes en el Capítulo General (19 de febrero de 2026), desarrolla una teología del carisma aplicada a los Legionarios de Cristo:
 
-El carisma es un don del Espíritu Santo. Cada instituto y cada uno de sus miembros están llamados a encarnarlo personalmente y en comunidad, en un continuo proceso de profundización de la propia identidad que los sitúa y define dentro de la Iglesia y de la sociedad. Este camino constituye una aportación valiosa para la Iglesia y, de modo particular, para la familia espiritual del [[regnum_christi]] [LC-2026, n. 3].
+El carisma es un don del Espíritu Santo. Cada instituto y cada uno de sus miembros están llamados a encarnarlo personalmente y en comunidad, en un continuo proceso de profundización de la propia identidad que los sitúa y define dentro de la Iglesia y de la sociedad. Este camino constituye una aportación valiosa para la Iglesia y, de modo particular, para la familia espiritual del [[regnum_christi]] [CapGral-2026, n. 3].
 
-La diversidad de formas, estilos y acentos en la vivencia del carisma no debilita la unidad, sino que la enriquece, como «el poliedro, que refleja la confluencia de todas las parcialidades que en él conservan su originalidad» [LC-2026, n. 4].
+La diversidad de formas, estilos y acentos en la vivencia del carisma no debilita la unidad, sino que la enriquece, como «el poliedro, que refleja la confluencia de todas las parcialidades que en él conservan su originalidad» [CapGral-2026, n. 4].
 
-El carisma es un don del Espíritu Santo; es Él quien distribuye sus dones (cf. 1 Co 12,11), y lo hace para la renovación y edificación de la Iglesia. Como dice san Pablo, *en cada uno se manifiesta para el bien común* (1 Co 12,7) [LC-2026, n. 5].
+El carisma es un don del Espíritu Santo; es Él quien distribuye sus dones (cf. 1 Co 12,11), y lo hace para la renovación y edificación de la Iglesia. Como dice san Pablo, *en cada uno se manifiesta para el bien común* (1 Co 12,7) [CapGral-2026, n. 5].
 
-**No son dueños del carisma, sino sus custodios y servidores.** Están llamados a entregar su vida para que este don siga siendo fecundo en la Iglesia y en el mundo. El Capítulo invita a preguntarse cómo vivir hoy, con fidelidad creativa, la intuición carismática que dio origen a la familia religiosa [LC-2026, n. 5].
+**No son dueños del carisma, sino sus custodios y servidores.** Están llamados a entregar su vida para que este don siga siendo fecundo en la Iglesia y en el mundo. El Capítulo invita a preguntarse cómo vivir hoy, con fidelidad creativa, la intuición carismática que dio origen a la familia religiosa [CapGral-2026, n. 5].
 
 ### Según el Prefacio del Comunicado Capitular
 
-El núcleo del carisma permanece vivo. No depende de formas históricas concretas ni de modelos cerrados, sino de una configuración cada vez más transparente con Jesucristo, *que no ha venido a ser servido, sino a servir* (Mc 10,45). El carisma quedó codificado en las Constituciones: buscan que Cristo reine y dan gloria a Dios viviendo un cristocentrismo real [LC-2026, n. 40].
+El núcleo del carisma permanece vivo. No depende de formas históricas concretas ni de modelos cerrados, sino de una configuración cada vez más transparente con Jesucristo, *que no ha venido a ser servido, sino a servir* (Mc 10,45). El carisma quedó codificado en las Constituciones: buscan que Cristo reine y dan gloria a Dios viviendo un cristocentrismo real [CapGral-2026, n. 40].
 
-La purificación del carisma no es un paréntesis sino una etapa constitutiva de la fecundidad futura. Los signos de esta reconfiguración incluyen: una conciencia más clara de corresponsabilidad eclesial, la búsqueda de formas de gobierno y autoridad más evangélicas, una atención más explícita a las personas, una revisión más realista de la formación y la aceptación humilde de los propios límites [LC-2026, n. 42].
+La purificación del carisma no es un paréntesis sino una etapa constitutiva de la fecundidad futura. Los signos de esta reconfiguración incluyen: una conciencia más clara de corresponsabilidad eclesial, la búsqueda de formas de gobierno y autoridad más evangélicas, una atención más explícita a las personas, una revisión más realista de la formación y la aceptación humilde de los propios límites [CapGral-2026, n. 42].
 
-En este momento emerge con fuerza en muchos legionarios el anhelo de un horizonte apostólico y testimonial claro, exigente y entusiasmante, que dé sentido a la entrega personal y proyecte fecundidad evangélica. El horizonte es el de una Legión más pascual: más centrada en Cristo, más fraterna, más eclesial y más disponible para la misión [LC-2026, n. 44].
+En este momento emerge con fuerza en muchos legionarios el anhelo de un horizonte apostólico y testimonial claro, exigente y entusiasmante, que dé sentido a la entrega personal y proyecte fecundidad evangélica. El horizonte es el de una Legión más pascual: más centrada en Cristo, más fraterna, más eclesial y más disponible para la misión [CapGral-2026, n. 44].
 
-El carisma se ofrece al servicio de la Iglesia, no es autorreferencial. La purificación dispone a servir mejor a la Iglesia, a los fieles y a quienes más necesitan esperanza [LC-2026, n. 43].
+El carisma se ofrece al servicio de la Iglesia, no es autorreferencial. La purificación dispone a servir mejor a la Iglesia, a los fieles y a quienes más necesitan esperanza [CapGral-2026, n. 43].
+
+### Según Ensayo-instituyo-a-los-doce (RC-Inst_12)
+
+El ensayo ilumina una dimensión del carisma legionario que hasta ahora no había sido explicitada: la comunidad de apóstoles como rasgo identitario del Regnum Christi. El carisma no es solo una espiritualidad individual ni un conjunto de principios, sino que configura comunidades concretas que viven la llamada de Cristo a estar con Él y ser enviadas.
+
+«El Regnum Christi es una comunidad de apóstoles que forma comunidades de apóstoles. Esta identidad, que define y configura nuestra espiritualidad y misión, hunde sus raíces en el Evangelio y en la experiencia de las primeras comunidades cristianas» [RC-Inst_12, Introducción]. La comunidad de apóstoles no es un añadido organizativo, sino que pertenece «a su mismo designio de salvación» [RC-Inst_12, Parte I, §II, «Llamó a los que quiso»].
+
+El carisma del Regnum Christi incluye constitutivamente esta dimensión comunitaria: formar comunidades que, centradas en Cristo, son enviadas en misión y engendran nuevas comunidades. La comunidad es a la vez «familia espiritual y cuerpo apostólico» [RC-Inst_12, Parte II, §III, Familia espiritual y cuerpo apostólico].
 
 ## Distinciones importantes
 
@@ -77,7 +85,7 @@ Se relaciona con [[espíritu_santo]], [[iglesia]], [[vida_consagrada]], [[cristo
 
 ## Referencias
 
-- [LC-2026, nn. 1-5 (discurso del Papa), 36-40 (prefacio)]
+- [CapGral-2026, nn. 1-5 (discurso del Papa), 36-40 (prefacio)]
 - [León XIV, Discurso a los participantes en el Capítulo General de los Legionarios de Cristo, 19 de febrero de 2026]
 - [CLC-2020, 1, 2, 8, 14]
 - [CVV-2020, 46, 60, 610]

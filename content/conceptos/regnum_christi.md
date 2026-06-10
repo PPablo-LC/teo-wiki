@@ -13,9 +13,9 @@ El Regnum Christi es concebido canónicamente como una [[federación_regnum_chri
 
 ## Perspectivas por fuente
 
-### Según el Capítulo General LC-2026
+### Según el Capítulo General CapGral-2026
 
-El V Capítulo General (LC-2026) afirma que el Regnum Christi es «un don divino para encontrarnos con Cristo, crecer en la amistad e intimidad con Él y ser su apóstol en comunión con los demás». La Federación es instrumento al servicio de esta familia espiritual. El Capítulo reconoce la coexistencia de visiones diversas dentro del Regnum Christi y llama a profundizar en la identidad propia de cada vocación dentro del carisma común, así como a fortalecer la comunión y la corresponsabilidad.
+El V Capítulo General (CapGral-2026) afirma que el Regnum Christi es «un don divino para encontrarnos con Cristo, crecer en la amistad e intimidad con Él y ser su apóstol en comunión con los demás». La Federación es instrumento al servicio de esta familia espiritual. El Capítulo reconoce la coexistencia de visiones diversas dentro del Regnum Christi y llama a profundizar en la identidad propia de cada vocación dentro del carisma común, así como a fortalecer la comunión y la corresponsabilidad.
 
 ## Relaciones doctrinales
 
@@ -27,6 +27,6 @@ Se relaciona con la [[legión_de_cristo]], el [[carisma_legionario]], los [[cris
 
 ## Referencias
 
-- LC-2026, Tercera Parte (Legión en la Federación Regnum Christi)
-- LC-2026, Mensaje a los miembros del Regnum Christi
+- CapGral-2026, Tercera Parte (Legión en la Federación Regnum Christi)
+- CapGral-2026, Mensaje a los miembros del Regnum Christi
 - Estatutos de la Federación Regnum Christi (EFRC)

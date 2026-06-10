@@ -1,7 +1,7 @@
 # Vulnerabilidad
 
 > Area: Moral
-> Ultima actualización: 2026-06-03
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -21,6 +21,14 @@ La vulnerabilidad humana es consecuencia de la condicion de criatura (contingenc
 - Adam Farber (fortitude_through_excellence_in_patience.md) conecta la vulnerabilidad con la paciencia como virtud que sostiene en la debilidad.
 - Varias notas mencionan la vulnerabilidad como parte del camino de sanacion y recuperacion.
 
+### Según los Ejercicios Espirituales 2026 a la Curia Romana (EjEsp2026)
+
+Mons. Erik Varden aborda la vulnerabilidad desde el prólogo y el capítulo 11 de los ejercicios. En el prólogo, el P. Álvaro Piñero presenta la vulnerabilidad como «una puerta a la gracia»: al contemplar las heridas de la Pasión de Cristo, descubrimos que nuestro propio sufrimiento, unido al suyo, puede transfigurarse. La gloria de Dios se esconde precisamente en la tribulación.
+
+En el capítulo 11, Varden ofrece un diagnóstico de dos tendencias contemporáneas respecto a las heridas: la exhibición de las heridas como marcadores de identidad (que puede encerrar en la ira y la amargura) y el maquillaje u ocultación de las heridas (visible en las controversias sobre el aborto, la eutanasia y la eugenesia). Ambas son desafiadas por la Cruz, que permite asumir la realidad de las heridas a la vez que afirma su no-definitividad: pueden ser curadas y convertirse en fuentes de sanación.
+
+La Cruz «nos permite lamentarnos sin ira. Nos abre a la compasión». Las heridas de Cristo, tras su resurrección, «no fueron eliminadas, sino hechas gloriosas». También las heridas del mundo pueden serlo, cuando el aceite y el vino de Cristo se derraman sobre ellas.
+
 ## Distinciones importantes
 
 - Vulnerabilidad como condicion natural (contingencia) vs como consecuencia del pecado (herida)
@@ -39,3 +47,4 @@ Se relaciona con [[humildad]], [[debilidad]], [[confianza]], [[surrender_espirit
 
 - [Nota: analizados/brian_cochran_my_personal_emmaus.md]
 - [Nota: analizados/adam_farber_fortitude_through_excellence_in_patience.md]
+- [EjEsp2026, prólogo; cap. 11]

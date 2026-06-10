@@ -23,6 +23,14 @@ La comunidad formativa se edifica cada día bajo la acción del Espíritu Santo,
 
 **El proyecto comunitario** orienta a todos los miembros en una misma dirección, integrando la oración común, la caridad fraterna, el compromiso en la misión, la formación permanente, el descanso y el sostenimiento de la comunidad [CVV-2017, 460; CCG2014, 75]. En los reglamentos se ordena la vida comunitaria y se precisan los instrumentos formativos; en el proyecto de formación integral se visualizan las metas comunitarias de modo progresivo [CVV-2017, 468].
 
+### Según Ensayo-instituyo-a-los-doce (RC-Inst_12)
+
+El ensayo presenta la comunidad como escuela de fe donde se aprende a vivir como discípulo misionero. La comunidad no solo forma en la etapa inicial, sino que es el ámbito permanente donde el apóstol se forma, se fortalece en la comunión y renueva sus fuerzas para la misión. «Por un lado, es el hogar donde los apóstoles se encuentran con el Maestro en la oración, se forman, se fortalecen en la comunión y renuevan sus fuerzas. Y, al mismo tiempo, ante el mundo, la comunidad de apóstoles es faro, ciudad sobre la montaña que no se puede esconder para anunciar la Buena Nueva» [RC-Inst_12, Parte II, §II, Comunidades evangelizadoras].
+
+Las comunidades de apóstoles tienen una dimensión formativa inherente: «están llamadas no solo a vivir su fe de forma activa, sino a ser fermento que genera nueva vida apostólica», engendrando nuevas comunidades y formando formadores. «Cada apóstol se convierte en formador de otros apóstoles, respondiendo al mandato del Señor de hacer discípulos a todas las naciones» [RC-Inst_12, Parte II, §II, Comunidades de apóstoles que forman nuevas comunidades de apóstoles].
+
+El equipo, comunidad fundamental del Regnum Christi, es descrito como «una comunidad de apóstoles, un conjunto de miembros unidos en fraternidad cristiana para ayudarse mutuamente en su camino de santificación, en su formación y en su trabajo apostólico, a ejemplo de las primeras comunidades cristianas» [RC-Inst_12, Parte II, §III, El equipo].
+
 ## Distinciones importantes
 
 - Comunidad formativa vs. comunidad de apostolado: la primera está orientada a la formación inicial; la segunda a la vida y misión del sacerdote en formación permanente

@@ -13,17 +13,17 @@ El V Capítulo General ordinario de la Legión de Cristo (2026), en su documento
 
 ## Perspectivas por fuente
 
-### Según el Capítulo General LC-2026
+### Según el Capítulo General CapGral-2026
 
-**Distinción entre mal uso y abuso.** El mal uso de la autoridad refleja carencias de virtud o errores en su ejercicio, sin constituir necesariamente una violación grave de la ley. Incluye desviaciones como el autoritarismo (rigidez excesiva sin diálogo), el personalismo (gobierno según preferencias subjetivas), el paternalismo (que impide el crecimiento en autonomía) y la cerrazón a la escucha. Por negligencia, se manifiesta en pasividad en el gobierno, discernimiento sin ejecución, omisión de la corrección fraterna y resignación a la mediocridad [LC-2026, n. 27].
+**Distinción entre mal uso y abuso.** El mal uso de la autoridad refleja carencias de virtud o errores en su ejercicio, sin constituir necesariamente una violación grave de la ley. Incluye desviaciones como el autoritarismo (rigidez excesiva sin diálogo), el personalismo (gobierno según preferencias subjetivas), el paternalismo (que impide el crecimiento en autonomía) y la cerrazón a la escucha. Por negligencia, se manifiesta en pasividad en el gobierno, discernimiento sin ejecución, omisión de la corrección fraterna y resignación a la mediocridad [CapGral-2026, n. 27].
 
-El abuso de autoridad, en cambio, constituye una realidad cualitativamente distinta, pues implica una seria violación de la ley que viola derechos fundamentales de los fieles, lesiona la dignidad de las personas y traiciona la naturaleza ministerial de la autoridad religiosa [LC-2026, n. 31].
+El abuso de autoridad, en cambio, constituye una realidad cualitativamente distinta, pues implica una seria violación de la ley que viola derechos fundamentales de los fieles, lesiona la dignidad de las personas y traiciona la naturaleza ministerial de la autoridad religiosa [CapGral-2026, n. 31].
 
-**Abuso espiritual y de conciencia.** La reflexión eclesial reciente ha comenzado a prestar atención al «abuso espiritual» o «abuso de conciencia». El Dicasterio para la Doctrina de la Fe, en su documento *Falso misticismo y abuso espiritual* (22 de noviembre de 2024), ha constituido un grupo de trabajo junto con el Dicasterio para los Textos Legislativos para analizar su posible tipificación canónica, señalando que «debe considerarse de especial gravedad moral la utilización de supuestas experiencias sobrenaturales o de elementos místicos reconocidos como medio o pretexto para ejercer dominio sobre las personas o cometer abusos» [LC-2026, n. 32]. Dado que la reflexión se encuentra en curso y que la propia historia de la Legión hace particularmente sensible a estas realidades, se recomienda permanecer atentos a los avances de la Iglesia.
+**Abuso espiritual y de conciencia.** La reflexión eclesial reciente ha comenzado a prestar atención al «abuso espiritual» o «abuso de conciencia». El Dicasterio para la Doctrina de la Fe, en su documento *Falso misticismo y abuso espiritual* (22 de noviembre de 2024), ha constituido un grupo de trabajo junto con el Dicasterio para los Textos Legislativos para analizar su posible tipificación canónica, señalando que «debe considerarse de especial gravedad moral la utilización de supuestas experiencias sobrenaturales o de elementos místicos reconocidos como medio o pretexto para ejercer dominio sobre las personas o cometer abusos» [CapGral-2026, n. 32]. Dado que la reflexión se encuentra en curso y que la propia historia de la Legión hace particularmente sensible a estas realidades, se recomienda permanecer atentos a los avances de la Iglesia.
 
-**Marco normativo.** Para discernir la legitimidad del ejercicio de la autoridad, se establece un ordenamiento jerarquizado [LC-2026, n. 28]: (1) ley divina (natural y positiva); (2) Derecho Canónico universal; (3) Constituciones; (4) normas secundarias (*Ratio institutionis*, *Ratio studiorum*, Normas complementarias, reglamentos); (5) mandatos particulares del superior. Un mandato solo es legítimo si es conforme a todas las normas de rango superior. Son ejemplos de mandatos ilegítimos y abusivos [LC-2026, n. 29]: mandar algo pecaminoso o inmoral, exigir revelar el contenido de la dirección espiritual o confesión, prohibir confesarse con un sacerdote de libre elección, o disponer de bienes sin las autorizaciones requeridas.
+**Marco normativo.** Para discernir la legitimidad del ejercicio de la autoridad, se establece un ordenamiento jerarquizado [CapGral-2026, n. 28]: (1) ley divina (natural y positiva); (2) Derecho Canónico universal; (3) Constituciones; (4) normas secundarias (*Ratio institutionis*, *Ratio studiorum*, Normas complementarias, reglamentos); (5) mandatos particulares del superior. Un mandato solo es legítimo si es conforme a todas las normas de rango superior. Son ejemplos de mandatos ilegítimos y abusivos [CapGral-2026, n. 29]: mandar algo pecaminoso o inmoral, exigir revelar el contenido de la dirección espiritual o confesión, prohibir confesarse con un sacerdote de libre elección, o disponer de bienes sin las autorizaciones requeridas.
 
-**Recomendaciones al gobierno.** El Capítulo recomienda al gobierno entrante [LC-2026, n. 33]:
+**Recomendaciones al gobierno.** El Capítulo recomienda al gobierno entrante [CapGral-2026, n. 33]:
 - completar el estudio sobre el abuso de autoridad y el abuso espiritual con revisión canónica y consultas pertinentes;
 - desarrollar mecanismos concretos para la atención de abusos;
 - promover la formación en estos ámbitos.
@@ -51,7 +51,7 @@ Se relaciona con [[autoridad]], [[obediencia]], [[obediencia_de_la_fe]], [[conci
 
 ## Referencias
 
-- [LC-2026, Comunicado temático «El ejercicio evangélico de la autoridad y la obediencia», n. 26-35]
-- [LC-2026, n. 33 y 34]
+- [CapGral-2026, Comunicado temático «El ejercicio evangélico de la autoridad y la obediencia», n. 26-35]
+- [CapGral-2026, n. 33 y 34]
 - [Dicasterio para la Doctrina de la Fe, *Falso misticismo y abuso espiritual* (22 de noviembre de 2024)]
 - [CIC, c. 1378]

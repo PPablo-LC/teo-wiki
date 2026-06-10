@@ -23,13 +23,13 @@ El discernimiento ordinario se funda en la sindéresis —el hábito de los prim
 
 [TPCr, Tercera Parte, Libro II, Cap. IV]
 
-### Según el Capítulo General LC-2026
+### Según el Capítulo General CapGral-2026
 
 El V Capítulo General ordinario de los Legionarios de Cristo (2026) aborda el discernimiento en el contexto de la autoridad y la obediencia. El **discernimiento personal** se presenta como presupuesto de la obediencia religiosa: en la vida consagrada, cada uno debe buscar con sinceridad la [[voluntad_de_dios]], pues de otra forma perdería sentido este género de vida (n. 11). El religioso no es un receptor pasivo, sino un buscador activo de la voluntad de Dios. Para ser auténtico, este discernimiento requiere una conciencia rectamente formada y libertad interior respecto de los apegos desordenados, incluso de los propios deseos más santos (n. 11). Cuando surgen dificultades ante un mandato legítimo, el religioso debe presentar con humildad y respeto sus dificultades y mantenerse abierto para aceptar con fe la decisión del superior (n. 11).
 
 El Capítulo desarrolla también el **discernimiento comunitario**, expresión particularmente importante de la complementariedad entre autoridad y obediencia (n. 16). La [[vida_común|vida fraterna]] es el lugar privilegiado para discernir y acoger la [[voluntad_de_dios]] y caminar juntos en unión de espíritu y de corazón. La búsqueda de la voluntad de Dios se lleva a cabo en un contexto de diálogo —auténticas **conversaciones en el Espíritu**— donde el superior y la comunidad trabajan juntos para llegar a decisiones que reflejen una verdadera cooperación con el plan divino (n. 16). Las actitudes esenciales para este discernimiento son: buscar únicamente la voluntad de Dios; apertura al otro, reconociendo en cada hermano la capacidad de conocer la verdad; libertad interior de prejuicios y apegos; y el firme propósito de mantener la unidad (n. 16). El discernimiento comunitario no es una consulta democrática ni sustituye la autoridad, a la cual está reservada la decisión final (n. 17). Cuando el proceso culmina en una decisión concreta, la comunidad no puede estar en continuo estado de discernimiento: tras el discernimiento viene la obediencia, es decir, poner en ejecución lo decidido (n. 18).
 
-[LC-2026, n. 11, 16-18]
+[CapGral-2026, n. 11, 16-18]
 
 ## Distinciones importantes
 

@@ -1,7 +1,7 @@
 # Envidia
 
 > Área: Moral
-> Última actualización: 2026-06-06
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -51,6 +51,10 @@ Royo Marín trata la envidia entre los pecados opuestos a la caridad (n.367): «
 
 La envidia se opone a la [[virtud_de_la_caridad]] y al gozo espiritual. Es hija de la [[soberbia]] y madre del [[odio]], la [[murmuración]] y la [[calumnia]]. Se relaciona con el [[demonio]] (que introdujo la muerte por envidia) y con los [[pecados_capitales]].
 
+### Según León XIV (L_XIV-ClerRom)
+
+León XIV dedica una atención especial a la *invidia clericalis* —la envidia entre clérigos—, que describe como «una de las pandemias del clero a nivel universal». Se manifiesta cuando «un sacerdote, al ver que otro ha sido llamado a ser párroco de una parroquia más grande, más bonita, llamado a ser vicario, llamado no sé... entonces se rompen las relaciones; y no solo eso, sino también con chismes, críticas, comentarios». El Papa la identifica como una fuerza destructiva que impide «construir vínculos, puentes de amistad, de fraternidad sacerdotal». Como antídoto, propone la iniciativa personal para crear lazos de amistad y fraternidad, advirtiendo que «no sé qué es peor: si ser enemigo o ser indiferente hacia el otro» [L_XIV-ClerRom, 19.02.2026].
+
 ## Ver también
 
 [[virtud_de_la_caridad]], [[soberbia]], [[odio]], [[calumnia]], [[pecados_capitales]], [[murmuración]], [[pecado_de_los_ángeles]]
@@ -58,5 +62,6 @@ La envidia se opone a la [[virtud_de_la_caridad]] y al gozo espiritual. Es hija 
 ## Referencias
 
 - [CEC §§2538-2541]
+- [L_XIV-ClerRom, 19.02.2026]
 - [TPCr, Tercera Parte, Libro II, Cap. 2 (n.367)]
 - [SmTh Ia-IIae q.36 a.1; II-II q.36]

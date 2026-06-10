@@ -29,25 +29,25 @@ El V Capítulo General ordinario de la Legión de Cristo (2026) ha actualizado �
 
 **Armonización con el derecho universal.** El documento se inscribe en el marco del Código de Derecho Canónico, el Motu Proprio *Vos estis lux mundi* (2019) y las normas de la Santa Sede sobre protección de menores [CRPS-2020, PS 1-2, 18, 24 y passim].
 
-### Según el Capítulo General LC-2026
+### Según el Capítulo General CapGral-2026
 
-**Cultura de la tutela.** El Capítulo constata que en los seis años transcurridos desde la promulgación del documento se ha arraigado y crecido una cultura de la tutela en las comunidades e instituciones de la Legión. Se han registrado mejoras en los protocolos de prevención y atención a víctimas, se han presentado informes anuales y se ha contado con la colaboración de personas expertas e independientes [LC-2026, n. 140].
+**Cultura de la tutela.** El Capítulo constata que en los seis años transcurridos desde la promulgación del documento se ha arraigado y crecido una cultura de la tutela en las comunidades e instituciones de la Legión. Se han registrado mejoras en los protocolos de prevención y atención a víctimas, se han presentado informes anuales y se ha contado con la colaboración de personas expertas e independientes [CapGral-2026, n. 140].
 
-**Reconocimiento de errores.** El Capítulo reconoce con humildad que el documento y su aplicación no han estado exentos de errores [LC-2026, n. 142]:
+**Reconocimiento de errores.** El Capítulo reconoce con humildad que el documento y su aplicación no han estado exentos de errores [CapGral-2026, n. 142]:
 - La atención a las víctimas no siempre llegó con la prontitud o sensibilidad que merecían, causando dolor.
 - El deseo de transparencia y reparación no siempre supo armonizarse con el derecho universal de la Iglesia, particularmente en la presunción de inocencia y la buena fama de los acusados.
 - Algunos hermanos hallados culpables se sintieron solos y abandonados durante sus procesos judiciales y el cumplimiento de penas.
 El Capítulo pide sinceramente perdón y renueva su compromiso de aprender de estos hechos.
 
-**Armonización con el derecho canónico universal.** Las enmiendas incorporan [LC-2026, n. 143]:
+**Armonización con el derecho canónico universal.** Las enmiendas incorporan [CapGral-2026, n. 143]:
 - La reforma del Libro VI del Código de Derecho Canónico.
 - La publicación y actualización del Vademécum del Dicasterio para la Doctrina de la Fe sobre casos de abuso sexual a menores.
 - Las revisiones de las cartas apostólicas *Sacramentorum sanctitatis tutela* y *Vos estis lux mundi*.
 - Las Orientaciones del Dicasterio para los Textos Legislativos sobre la tutela de la buena fama y los derechos de las personas acusadas.
 
-**Delegación al Director General.** El Capítulo ha encargado al Director General la promulgación de la versión actualizada de «Proteger y sanar», que pasa a ser en adelante un documento de su competencia. Se busca darle flexibilidad para adaptarse ágilmente a la evolución de la normativa canónica y civil, sin necesidad de esperar a un Capítulo General [LC-2026, n. 144].
+**Delegación al Director General.** El Capítulo ha encargado al Director General la promulgación de la versión actualizada de «Proteger y sanar», que pasa a ser en adelante un documento de su competencia. Se busca darle flexibilidad para adaptarse ágilmente a la evolución de la normativa canónica y civil, sin necesidad de esperar a un Capítulo General [CapGral-2026, n. 144].
 
-**Procesos justos.** El documento mantiene intactos sus principios fundamentales: prevención, acogida a las víctimas y búsqueda de la justicia para todos, incorporando las garantías procesales y el respeto debido a la dignidad de todas las personas implicadas [LC-2026, n. 143].
+**Procesos justos.** El documento mantiene intactos sus principios fundamentales: prevención, acogida a las víctimas y búsqueda de la justicia para todos, incorporando las garantías procesales y el respeto debido a la dignidad de todas las personas implicadas [CapGral-2026, n. 143].
 
 ## Distinciones importantes
 
@@ -69,7 +69,7 @@ Se relaciona con [[abuso_de_autoridad]], [[abuso_espiritual]], [[justicia]], [[c
 - [CRPS-2020, documento original «Proteger y sanar»]
 - [CRPS-2020, «Conversión y reparación»]
 - [CRPS-2020, Informe 1941-2019]
-- [LC-2026, n. 139-144]
+- [CapGral-2026, n. 139-144]
 - [CIC, Libro VI]
 - [Vademécum, Dicasterio para la Doctrina de la Fe]
 - [Motu proprio *Vos estis lux mundi*]

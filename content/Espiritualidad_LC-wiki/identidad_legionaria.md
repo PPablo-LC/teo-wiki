@@ -9,7 +9,7 @@ La identidad legionaria es el conjunto de rasgos espirituales, carismáticos, sa
 
 ## Desarrollo doctrinal
 
-La identidad del legionario de Cristo no es una construcción abstracta, sino una configuración real con Jesucristo que se verifica en la vida cotidiana: en el lugar central de la Eucaristía, en el silencio que permite escuchar la Palabra, en la voluntad de abrazar la cruz, en la atención al hermano. El Capítulo General 2026 constató una «sed de autenticidad, un deseo de vivir más plenamente nuestra identidad» [LC-2026, n. 56], y propuso un compendio de los rasgos del legionario cuando se deja transformar por el carisma.
+La identidad del legionario de Cristo no es una construcción abstracta, sino una configuración real con Jesucristo que se verifica en la vida cotidiana: en el lugar central de la Eucaristía, en el silencio que permite escuchar la Palabra, en la voluntad de abrazar la cruz, en la atención al hermano. El Capítulo General 2026 constató una «sed de autenticidad, un deseo de vivir más plenamente nuestra identidad» [CapGral-2026, n. 56], y propuso un compendio de los rasgos del legionario cuando se deja transformar por el carisma.
 
 ## Perspectivas por fuente
 
@@ -35,25 +35,25 @@ Jesús mismo, ante la pregunta «¿Quién eres tú?» (Jn 8,25), responde: «Lo 
 
 La experiencia de la misericordia es fundacional para la identidad: «Señor, apártate de mí, que soy un hombre pecador» (Lc 5,8). Una vocación, para ser auténtica, debe partir de un encuentro con Cristo Redentor, que nos busca en nuestra debilidad y nos salva [CVV-2020, 69].
 
-### Según el Capítulo General LC-2026
+### Según el Capítulo General CapGral-2026
 
-El Capítulo General 2026 dedicó una sección completa a la identidad legionaria [LC-2026, n. 56-71], articulando los siguientes elementos:
+El Capítulo General 2026 dedicó una sección completa a la identidad legionaria [CapGral-2026, n. 56-71], articulando los siguientes elementos:
 
-**Cristocentrismo**: «reconocemos que Cristo es el centro del que todo brota y hacia el que converge toda nuestra vida» [LC-2026, n. 50]. El cristocentrismo es «la característica fundamental y específica de la espiritualidad legionaria» [LC-2026, n. 54], expresada en las Constituciones: «centrar toda su existencia en Cristo por medio de un amor real, personal, viril y apasionado a Él» (CLC-2020 3).
+**Cristocentrismo**: «reconocemos que Cristo es el centro del que todo brota y hacia el que converge toda nuestra vida» [CapGral-2026, n. 50]. El cristocentrismo es «la característica fundamental y específica de la espiritualidad legionaria» [CapGral-2026, n. 54], expresada en las Constituciones: «centrar toda su existencia en Cristo por medio de un amor real, personal, viril y apasionado a Él» (CLC-2020 3).
 
-**Militia Christi**: la militancia es un elemento identitario que, aunque puede ser percibido con sospecha en algunos ambientes, tiene una fundamentación teológica y carismática que el Capítulo considera necesario desarrollar [LC-2026, n. 58].
+**Militia Christi**: la militancia es un elemento identitario que, aunque puede ser percibido con sospecha en algunos ambientes, tiene una fundamentación teológica y carismática que el Capítulo considera necesario desarrollar [CapGral-2026, n. 58].
 
-**Paternidad sacerdotal**: el Capítulo reconoce que la historia de la Legión «lleva consigo una carencia en la paternidad derivada de los abusos de su fundador» y llama a desarrollar esta paternidad «como don de Dios Padre y expresión de nuestro ministerio sacerdotal» [LC-2026, n. 59-61].
+**Paternidad sacerdotal**: el Capítulo reconoce que la historia de la Legión «lleva consigo una carencia en la paternidad derivada de los abusos de su fundador» y llama a desarrollar esta paternidad «como don de Dios Padre y expresión de nuestro ministerio sacerdotal» [CapGral-2026, n. 59-61].
 
-**Sentido de Iglesia**: «El legionario camina al paso de la Iglesia» [LC-2026, n. 71], con una conciencia clara de corresponsabilidad eclesial.
+**Sentido de Iglesia**: «El legionario camina al paso de la Iglesia» [CapGral-2026, n. 71], con una conciencia clara de corresponsabilidad eclesial.
 
-**Ars celebrandi**: la liturgia, vivida «con sobriedad, unción y sentido de lo sagrado», es un rasgo distintivo de la identidad legionaria [LC-2026, n. 67-69].
+**Ars celebrandi**: la liturgia, vivida «con sobriedad, unción y sentido de lo sagrado», es un rasgo distintivo de la identidad legionaria [CapGral-2026, n. 67-69].
 
-**Tradiciones y costumbres**: forman parte de un proceso vivo y se transmiten de forma natural entre los legionarios, sin codificación exhaustiva [LC-2026, n. 66].
+**Tradiciones y costumbres**: forman parte de un proceso vivo y se transmiten de forma natural entre los legionarios, sin codificación exhaustiva [CapGral-2026, n. 66].
 
-**«Aire de familia»**: la identidad legionaria, su fisonomía interior y la comunión espiritual se expresan en formas externas: presentación personal, estilo de las casas, fiestas, etc. [LC-2026, n. 64].
+**«Aire de familia»**: la identidad legionaria, su fisonomía interior y la comunión espiritual se expresan en formas externas: presentación personal, estilo de las casas, fiestas, etc. [CapGral-2026, n. 64].
 
-**Compendio del legionario**: el Capítulo propone un texto que resume los rasgos del legionario transformado por el carisma: «Cristo reina en el legionario que: vive como hijo amado del Padre; hace de la Eucaristía el centro de su día; encuentra en Él su modelo de hombre y pastor; irradia la caridad de su Sagrado Corazón; mira a los otros con los ojos de Jesús; refleja su humildad y misericordia; es hermano de sus hermanos; ora y se entrega con militancia; se levanta cuando ha caído; permanece disponible como soldado raso; forma apóstoles, líderes cristianos; camina al paso de la Iglesia; fomenta el espíritu de cuerpo y la comunión; aprovecha el tiempo a la luz de la eternidad; acompaña a María al pie de la Cruz; da la vida para hacer presente su Reino» [LC-2026, n. 71].
+**Compendio del legionario**: el Capítulo propone un texto que resume los rasgos del legionario transformado por el carisma: «Cristo reina en el legionario que: vive como hijo amado del Padre; hace de la Eucaristía el centro de su día; encuentra en Él su modelo de hombre y pastor; irradia la caridad de su Sagrado Corazón; mira a los otros con los ojos de Jesús; refleja su humildad y misericordia; es hermano de sus hermanos; ora y se entrega con militancia; se levanta cuando ha caído; permanece disponible como soldado raso; forma apóstoles, líderes cristianos; camina al paso de la Iglesia; fomenta el espíritu de cuerpo y la comunión; aprovecha el tiempo a la luz de la eternidad; acompaña a María al pie de la Cruz; da la vida para hacer presente su Reino» [CapGral-2026, n. 71].
 
 ### Según las Constituciones Legionarias (CLC-2020)
 
@@ -75,7 +75,7 @@ Se relaciona con [[cristocentrismo]], [[militia_christi]], [[ars_celebrandi]], [
 
 ## Referencias
 
-- [LC-2026, n. 50-71]
+- [CapGral-2026, n. 50-71]
 - [CLC-2020 3, 4, 8, 10]
 - [CVV-2017, 57-109]
 - [CVV-2020, 58-62 (Vocación e identidad)]

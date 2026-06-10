@@ -25,15 +25,15 @@ La configuración con Cristo se realiza de modo especial a través de los consej
 
 El Capítulo I de la CVV (nn. 1-56) está enteramente dedicado a los fundamentos cristocéntricos, estructurado en: el origen de la formación en el amor de Dios, el encuentro con Cristo (conocerlo, seguirlo, permanecer, servir), la configuración con Cristo pobre, casto y obediente, y la respuesta del hombre.
 
-### Según el Capítulo General LC-2026
+### Según el Capítulo General CapGral-2026
 
-El cristocentrismo es presentado como el hilo conductor de todo el Comunicado Capitular: «Cristo, centro, criterio y modelo de nuestra vida y misión» [LC-2026, n. 13]. Sin Él en el centro, nada tiene sentido; con Él, todo cobra vida [LC-2026, n. 49].
+El cristocentrismo es presentado como el hilo conductor de todo el Comunicado Capitular: «Cristo, centro, criterio y modelo de nuestra vida y misión» [CapGral-2026, n. 13]. Sin Él en el centro, nada tiene sentido; con Él, todo cobra vida [CapGral-2026, n. 49].
 
-Cristo es el centro del que todo brota y hacia el que converge toda la vida del legionario. Las palabras de Cristo *sin mí no podéis hacer nada* (Jn 15,5) son más que una advertencia: son una invitación a permanecer en la fuente de toda fecundidad [LC-2026, n. 50].
+Cristo es el centro del que todo brota y hacia el que converge toda la vida del legionario. Las palabras de Cristo *sin mí no podéis hacer nada* (Jn 15,5) son más que una advertencia: son una invitación a permanecer en la fuente de toda fecundidad [CapGral-2026, n. 50].
 
-Como los discípulos de Emaús (Lc 24,13-35), los legionarios han experimentado momentos de desconcierto y cansancio durante el camino de renovación. El Señor se ha acercado, ha caminado con ellos, les ha abierto las Escrituras y ha hecho arder su corazón. Como Tomás, que tocó el costado abierto del Resucitado, han sido invitados a reconocer: *¡Señor mío y Dios mío!* (Jn 20,28). Cristo no es una idea que se acepta, sino una Persona viva que busca, salva y envía [LC-2026, n. 51].
+Como los discípulos de Emaús (Lc 24,13-35), los legionarios han experimentado momentos de desconcierto y cansancio durante el camino de renovación. El Señor se ha acercado, ha caminado con ellos, les ha abierto las Escrituras y ha hecho arder su corazón. Como Tomás, que tocó el costado abierto del Resucitado, han sido invitados a reconocer: *¡Señor mío y Dios mío!* (Jn 20,28). Cristo no es una idea que se acepta, sino una Persona viva que busca, salva y envía [CapGral-2026, n. 51].
 
-Volver a Cristo significa permitirle retomar la iniciativa. Cuando Cristo ocupa el primer lugar, todo lo demás encuentra su sitio: la oración se convierte en encuentro fecundo; la vida fraterna se purifica del egoísmo; el apostolado recobra su frescura original [LC-2026, n. 52].
+Volver a Cristo significa permitirle retomar la iniciativa. Cuando Cristo ocupa el primer lugar, todo lo demás encuentra su sitio: la oración se convierte en encuentro fecundo; la vida fraterna se purifica del egoísmo; el apostolado recobra su frescura original [CapGral-2026, n. 52].
 
 El cristocentrismo se verifica en:
 - La relevancia que la [[eucaristía]] tiene en la vida del legionario
@@ -41,11 +41,17 @@ El cristocentrismo se verifica en:
 - La voluntad de abrazar la cruz con el Señor
 - El cuidado con que se sale al encuentro de Cristo en el hermano
 - Los [[consejos_evangélicos]], que configuran con Cristo pobre, casto y obediente
-- Las decisiones que reflejan que Él es el criterio último del querer y el obrar [LC-2026, n. 53]
+- Las decisiones que reflejan que Él es el criterio último del querer y el obrar [CapGral-2026, n. 53]
 
-En san Juan se contempla al discípulo que cree en el amor de Jesús, reclina la cabeza sobre el pecho del Señor (cf. Jn 13,23) y descubre en el costado traspasado la fuente de la vida (cf. Jn 19,34). En san Pablo se ve al apóstol configurado desde dentro por el Señor: *No soy yo el que vive, es Cristo quien vive en mí* (Ga 2,20). En ambos se armonizan la contemplación y el envío, la intimidad con el Señor y la audacia misionera. En esa misma escuela se sitúan los legionarios, llamados a que Cristo sea realmente su vida: *Christus vita vestra* (Col 3,4), lema que da nombre a la *Ratio institutionis* de la Congregación [LC-2026, n. 54].
+En san Juan se contempla al discípulo que cree en el amor de Jesús, reclina la cabeza sobre el pecho del Señor (cf. Jn 13,23) y descubre en el costado traspasado la fuente de la vida (cf. Jn 19,34). En san Pablo se ve al apóstol configurado desde dentro por el Señor: *No soy yo el que vive, es Cristo quien vive en mí* (Ga 2,20). En ambos se armonizan la contemplación y el envío, la intimidad con el Señor y la audacia misionera. En esa misma escuela se sitúan los legionarios, llamados a que Cristo sea realmente su vida: *Christus vita vestra* (Col 3,4), lema que da nombre a la *Ratio institutionis* de la Congregación [CapGral-2026, n. 54].
 
-El cristocentrismo es la clave que unifica identidad, formación, misión y comunión [LC-2026, n. 55]. El Capítulo ofrece un documento temático sobre el cristocentrismo como meditación sobre «el corazón que late en todas las páginas de este Comunicado» [LC-2026, n. 55].
+El cristocentrismo es la clave que unifica identidad, formación, misión y comunión [CapGral-2026, n. 55]. El Capítulo ofrece un documento temático sobre el cristocentrismo como meditación sobre «el corazón que late en todas las páginas de este Comunicado» [CapGral-2026, n. 55].
+
+### Según Ensayo-instituyo-a-los-doce (RC-Inst_12)
+
+El ensayo desarrolla el cristocentrismo en dimensión comunitaria: Cristo no es solo centro de la vida individual del legionario, sino también centro, criterio y modelo de la comunidad. La comunidad de apóstoles se reúne en torno a Cristo, se alimenta de su Palabra y de la Eucaristía, y se configura con su estilo de vida. «Toda comunidad de apóstoles está llamada a seguir a Jesús, adoptar sus criterios y su estilo de vida» [RC-Inst_12, Parte II, §I, Comunidades donde Cristo es centro, criterio y modelo].
+
+Las comunidades del Regnum Christi «no sean simplemente grupos humanos con intereses comunes, ni ONGs ni clubes sociales. Lo que nos une es el don de un carisma común, que genera una comunidad en la que compartimos un espíritu y una misión» [RC-Inst_12, Parte II, §I, Comunidades donde Jesucristo toma la iniciativa]. La centralidad de Cristo se verifica en la vida eucarística, el sacramento de la reconciliación, el «Encuentro con Cristo» y la oración comunitaria. «Sin oración comunitaria no hay verdadera comunidad de apóstoles» [RC-Inst_12, Parte II, §I, Comunidades donde Cristo es centro, criterio y modelo].
 
 ## Distinciones importantes
 
@@ -65,7 +71,7 @@ Se relaciona con [[cristo]], [[consejos_evangélicos]], [[eucaristía]], [[vida_
 ## Referencias
 
 - [CVV-2017, 1-56 (Capítulo I: Fundamentos cristocéntricos)]
-- [LC-2026, n. 13, 49-55]
+- [CapGral-2026, n. 13, 49-55]
 - [CLC-2020, 3, 8, 53]
 - [CVV, 99, 107]
 - [Jn 15,5; Lc 24,13-35; Jn 20,28; Ga 2,20; Col 3,4]

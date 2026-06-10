@@ -20,9 +20,9 @@ La sanacion ocupa un lugar central en el ministerio de Jesucristo, que curo a nu
 - Brian Coghlan (healing.md) desarrolla extensamente la doctrina de la sanacion interior, distinguiendo entre curacion fisica, liberacion espiritual y sanacion de heridas emocionales. Cita las 7 peticiones del Padrenuestro como base de la sanacion integral.
 - Adam Farber (fortitude_through_excellence_in_patience.md) conecta la sanacion con la paciencia sobrenatural.
 
-### Según el Regnum Christi / Legión de Cristo (LC-CARISMAS-2023)
+### Según el Regnum Christi / Legión de Cristo (RC-Carismas-2023)
 
-El documento «Consideraciones sobre los carismas, la sanación y la vida en el Espíritu» (2023) dedica una sección al don de sanación, que define como uno de los signos del Reino: «Los ciegos ven, y los cojos andan; los leprosos son limpiados, y los sordos oyen; los muertos son resucitados, y a los pobres es anunciado el evangelio» (Mt 11,5). Citando a Benedicto XVI, «curar es una dimensión fundamental de la misión apostólica, de la fe cristiana en general», hasta el punto de definir el cristianismo como «religión terapéutica». La oración de sanación y la intercesión por quienes sufren es una obra de misericordia corporal y espiritual, que expresa la fe en la presencia viva de Cristo médico (CEC 1506-1510). Diversos itinerarios de sanación avivan el don del bautismo y se sirven de los sacramentales y la oración de intercesión. Se distingue claramente entre sanación interior y terapia psicológica: ambas pueden complementarse, pero respetando sus campos de acción y límites propios. El documento advierte que algunas heridas son tan profundas que requieren también ayuda psicológica profesional [LC-CARISMAS-2023, 3.5.3].
+El documento «Consideraciones sobre los carismas, la sanación y la vida en el Espíritu» (2023) dedica una sección al don de sanación, que define como uno de los signos del Reino: «Los ciegos ven, y los cojos andan; los leprosos son limpiados, y los sordos oyen; los muertos son resucitados, y a los pobres es anunciado el evangelio» (Mt 11,5). Citando a Benedicto XVI, «curar es una dimensión fundamental de la misión apostólica, de la fe cristiana en general», hasta el punto de definir el cristianismo como «religión terapéutica». La oración de sanación y la intercesión por quienes sufren es una obra de misericordia corporal y espiritual, que expresa la fe en la presencia viva de Cristo médico (CEC 1506-1510). Diversos itinerarios de sanación avivan el don del bautismo y se sirven de los sacramentales y la oración de intercesión. Se distingue claramente entre sanación interior y terapia psicológica: ambas pueden complementarse, pero respetando sus campos de acción y límites propios. El documento advierte que algunas heridas son tan profundas que requieren también ayuda psicológica profesional [RC-Carismas-2023, 3.5.3].
 
 ## Distinciones importantes
 
@@ -42,4 +42,4 @@ Se relaciona con [[milagro]], [[sanación_interior]], [[liberación]], [[miseric
 
 - [Nota: analizados/brian_coghlan_healing.md]
 - [Nota: analizados/adam_farber_fortitude_through_excellence_in_patience.md]
-- [LC-CARISMAS-2023, 3.5.3]
+- [RC-Carismas-2023, 3.5.3]

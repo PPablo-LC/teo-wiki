@@ -1,7 +1,7 @@
 # Soledad
 
 > Área: Ascética / Mística
-> Última actualización: 2026-06-02
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -42,6 +42,10 @@ La soledad es condición necesaria para el trato íntimo con Dios. En la vía un
 
 Se relaciona con [[desierto]], [[retiro_espiritual]], [[vida_eremítica]], [[noche_oscura]], [[abandono_en_dios]], [[oración_contemplativa]], [[vocación]].
 
+### Según León XIV (L_XIV-ClerRom)
+
+León XIV aborda la soledad sacerdotal como uno de los riesgos más graves del ministerio contemporáneo. Advierte a los presbíteros jóvenes que «se corre el riesgo de agotar pronto las propias energías, de acumular frustración y de caer en la soledad». Los sacerdotes ancianos también la padecen: «después de tanta gente, tanta soledad». El Papa propone como remedio la iniciativa personal para crear vínculos fraternos: «no tengamos miedo de llamar a la puerta del otro, de tomar la iniciativa». Recomienda formar grupos de fraternidad que se reúnan periódicamente en persona —«no a través de una pantalla»— para orar, estudiar y compartir la vida. Subraya que la soledad del sacerdote contrasta con la experiencia de quienes han cultivado amistades profundas durante su vida ministerial [L_XIV-ClerRom, 19.02.2026].
+
 ## Ver también
 
 [[desierto]], [[retiro_espiritual]], [[vida_eremítica]], [[noche_oscura]], [[abandono_en_dios]]
@@ -50,3 +54,4 @@ Se relaciona con [[desierto]], [[retiro_espiritual]], [[vida_eremítica]], [[noc
 
 - VocTeoBib, artículo «Soledad», Xavier León-Dufour (ed.)
 - Mc 1,35; Lc 6,12; Mc 15,34; Jn 16,32; Os 2,16
+- [L_XIV-ClerRom, 19.02.2026]

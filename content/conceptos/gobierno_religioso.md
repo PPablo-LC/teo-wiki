@@ -17,9 +17,9 @@ El gobierno en la vida consagrada se fundamenta en la autoridad como servicio (M
 
 Los cc. 617-633 CIC establecen el marco general del gobierno religioso: los superiores desempeñan su cargo según las normas del derecho universal y las constituciones (c. 617); el Capítulo General es la suprema autoridad del instituto (c. 631); el gobierno se organiza en niveles general, provincial y local (c. 620-630).
 
-### Según el Capítulo General LC-2026
+### Según el Capítulo General CapGral-2026
 
-El Capítulo General de 2026 abordó el gobierno religioso desde la distinción entre ejercicio legítimo de la autoridad, mal uso y abuso, llamando a un estilo de gobierno evangélico basado en la escucha, el discernimiento comunitario y la corresponsabilidad [LC-2026, n. 26-35].
+El Capítulo General de 2026 abordó el gobierno religioso desde la distinción entre ejercicio legítimo de la autoridad, mal uso y abuso, llamando a un estilo de gobierno evangélico basado en la escucha, el discernimiento comunitario y la corresponsabilidad [CapGral-2026, n. 26-35].
 
 ## Distinciones importantes
 
@@ -38,4 +38,4 @@ Se relaciona con [[autoridad]], [[obediencia]], [[capítulo_general]], [[vida_co
 ## Referencias
 
 - [CIC cc. 617-633]
-- [LC-2026, Documento temático, n. 26-35]
+- [CapGral-2026, Documento temático, n. 26-35]

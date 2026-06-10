@@ -34,9 +34,9 @@ Además del exorcismo solemne, existen exorcismos simples incluidos en la bendic
 [TPCr, Parte III, Libro I, Cap. 3]
 [TPCr, Parte III, Libro II, Caps. IV-V]
 
-### Según el Regnum Christi / Legión de Cristo (LC-CARISMAS-2023)
+### Según el Regnum Christi / Legión de Cristo (RC-Carismas-2023)
 
-El documento «Consideraciones sobre los carismas, la sanación y la vida en el Espíritu» (2023) trata el exorcismo y la oración de liberación en el contexto de la acción del enemigo. Distingue entre acción ordinaria del demonio (tentación, esclavitud espiritual por pecado repetitivo, adicciones, pensamientos obsesivos, relaciones de codependencia) y acción extraordinaria (posesión demoniaca, obsesión, vejación, infestación). El exorcismo es «la expulsión de demonios de una persona poseída mediante la autoridad espiritual que Jesús confió a su Iglesia, realizada únicamente por un obispo o un sacerdote autorizado» (CEC 1673). La oración de liberación, en cambio, consiste en interceder para liberar a una persona de la influencia demoníaca con el poder del nombre de Jesús, sin usar un ritual específico. Los bautizados pueden pronunciar oraciones deprecativas (que suplican a Dios por intercesión de la Virgen o los santos), evitando fórmulas imprecativas que se dirigen directamente a los malos espíritus. El documento advierte contra la práctica de la «sanación del árbol genealógico», que contradice la doctrina del bautismo sobre el perdón pleno de los pecados (CEC 978) y ha sido prohibida por varias diócesis y comisiones doctrinales [LC-CARISMAS-2023, 3.6, 3.6.3].
+El documento «Consideraciones sobre los carismas, la sanación y la vida en el Espíritu» (2023) trata el exorcismo y la oración de liberación en el contexto de la acción del enemigo. Distingue entre acción ordinaria del demonio (tentación, esclavitud espiritual por pecado repetitivo, adicciones, pensamientos obsesivos, relaciones de codependencia) y acción extraordinaria (posesión demoniaca, obsesión, vejación, infestación). El exorcismo es «la expulsión de demonios de una persona poseída mediante la autoridad espiritual que Jesús confió a su Iglesia, realizada únicamente por un obispo o un sacerdote autorizado» (CEC 1673). La oración de liberación, en cambio, consiste en interceder para liberar a una persona de la influencia demoníaca con el poder del nombre de Jesús, sin usar un ritual específico. Los bautizados pueden pronunciar oraciones deprecativas (que suplican a Dios por intercesión de la Virgen o los santos), evitando fórmulas imprecativas que se dirigen directamente a los malos espíritus. El documento advierte contra la práctica de la «sanación del árbol genealógico», que contradice la doctrina del bautismo sobre el perdón pleno de los pecados (CEC 978) y ha sido prohibida por varias diócesis y comisiones doctrinales [RC-Carismas-2023, 3.6, 3.6.3].
 
 ## Distinciones importantes
 
@@ -58,4 +58,4 @@ El exorcismo se relaciona con la lucha contra el [[demonio]] y [[satanás]], el 
 - [CEC §1673]
 - [TPCr, Parte III, Libro I, Cap. 3]
 - [TPCr, Parte III, Libro II, Caps. IV-V]
-- [LC-CARISMAS-2023, 3.6, 3.6.3]
+- [RC-Carismas-2023, 3.6, 3.6.3]

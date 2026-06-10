@@ -1,7 +1,7 @@
 # Humildad
 
 > Área: Moral / Ascética
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -55,6 +55,10 @@ La humildad se opone directamente a la [[soberbia]], primer pecado capital. Es r
 - [[sean_glass_call_to_fortitude]]
 - [[tim_barry_the_strength_of_meekness]]
 
+### Según León XIV (L_XIV-ClerRom)
+
+León XIV une la humildad a la gratitud como virtudes esenciales del sacerdote. Exhorta a la «humildad: la actitud de querer reconocer que no soy yo, es el Señor quien me ha dado la vida, es el Señor quien nos acompaña y nos lleva en sus brazos, incluso en esos momentos en los que soy más débil». La humildad es presentada como antídoto contra la autorreferencialidad y el clericalismo, y como fundamento para una vida de oración auténtica: «con esta actitud de amor, de servicio, de humildad, de escucha, podemos descubrir verdaderamente qué podemos hacer para responder a esta comunidad a la que estamos llamados a servir» [L_XIV-ClerRom, 19.02.2026].
+
 ## Ver también
 [[soberbia]], [[don_de_temor]], [[mansedumbre]], [[virgen_maría]], [[perfección_cristiana]], [[virtud_de_la_religión]]
 
@@ -64,3 +68,4 @@ La humildad se opone directamente a la [[soberbia]], primer pecado capital. Es r
 - [TPCr, Parte III, Libro II, Cap. II, n.463-467]
 - [Santo Tomás, II-II, q.161-162]
 - [Santa Teresa, Moradas, Camino de Perfección]
+- [L_XIV-ClerRom, 19.02.2026]

@@ -13,13 +13,13 @@ El método de la conversación en el Espíritu no es una técnica de dinámica d
 
 ## Perspectivas por fuente
 
-### Según el Capítulo General LC-2026
+### Según el Capítulo General CapGral-2026
 
-El Capítulo General profundizó en los informes recibidos a través de las «conversaciones en el Espíritu» en grupos pequeños, método utilizado en el Sínodo 2021-2024 y en el primer consistorio del papa León XIV [LC-2026, n. 15]. Esta dinámica produjo «conversaciones muy profundas, una escucha desarmada y un aprecio sincero por lo que Dios está haciendo en el corazón de nuestros hermanos» [LC-2026, n. 15].
+El Capítulo General profundizó en los informes recibidos a través de las «conversaciones en el Espíritu» en grupos pequeños, método utilizado en el Sínodo 2021-2024 y en el primer consistorio del papa León XIV [CapGral-2026, n. 15]. Esta dinámica produjo «conversaciones muy profundas, una escucha desarmada y un aprecio sincero por lo que Dios está haciendo en el corazón de nuestros hermanos» [CapGral-2026, n. 15].
 
-Las actitudes necesarias para este proceso, señaladas por el papa León XIV, incluyen: «humildad para escuchar, libertad interior para expresarse con sinceridad y apertura para aceptar el discernimiento conjunto» [LC-2026, Discurso del Santo Padre, n. 11].
+Las actitudes necesarias para este proceso, señaladas por el papa León XIV, incluyen: «humildad para escuchar, libertad interior para expresarse con sinceridad y apertura para aceptar el discernimiento conjunto» [CapGral-2026, Discurso del Santo Padre, n. 11].
 
-El documento temático sobre la autoridad y la obediencia precisa que las actitudes esenciales para el discernimiento comunitario incluyen: buscar únicamente la voluntad de Dios; apertura al otro, reconociendo en cada hermano la capacidad de conocer la verdad; libertad interior de prejuicios y apegos; y el firme propósito de mantener la unidad sea cual sea la decisión final [LC-2026, Documento temático, n. 16].
+El documento temático sobre la autoridad y la obediencia precisa que las actitudes esenciales para el discernimiento comunitario incluyen: buscar únicamente la voluntad de Dios; apertura al otro, reconociendo en cada hermano la capacidad de conocer la verdad; libertad interior de prejuicios y apegos; y el firme propósito de mantener la unidad sea cual sea la decisión final [CapGral-2026, Documento temático, n. 16].
 
 ### Según el Magisterio reciente
 
@@ -41,7 +41,7 @@ Se relaciona con [[sinodalidad]], [[discernimiento]], [[capítulo_general]], [[e
 
 ## Referencias
 
-- [LC-2026, n. 15]
-- [LC-2026, Discurso del Santo Padre León XIV, n. 11]
-- [LC-2026, Documento temático, n. 16]
+- [CapGral-2026, n. 15]
+- [CapGral-2026, Discurso del Santo Padre León XIV, n. 11]
+- [CapGral-2026, Documento temático, n. 16]
 - [Sínodo 2021-2024, Instrumentum laboris]

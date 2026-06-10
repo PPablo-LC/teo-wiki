@@ -29,19 +29,19 @@ El Decreto *Perfectae Caritatis* está dedicado enteramente a la renovación de 
 
 El estado religioso constituye un verdadero estado de perfección, por el cual los religiosos se consagran totalmente al servicio de Dios, ofreciéndose a Él en holocausto. Su fin propio es llegar a la perfección de la caridad. Consiste esencialmente en los tres votos de pobreza, castidad y obediencia. La vida común es necesaria para la forma canónica del estado religioso. El religioso está obligado a tender a la perfección de la caridad (TPCr, Parte III, Libro III).
 
-### Según el Capítulo General LC-2026
+### Según el Capítulo General CapGral-2026
 
-El V Capítulo General ordinario de los Legionarios de Cristo (2026) se sitúa dentro de la vida consagrada como «un tiempo de gracia, ya que constituye un momento privilegiado de discernimiento comunitario y de escucha al Espíritu Santo» [LC-2026, Discurso del Santo Padre, n. 1].
+El V Capítulo General ordinario de los Legionarios de Cristo (2026) se sitúa dentro de la vida consagrada como «un tiempo de gracia, ya que constituye un momento privilegiado de discernimiento comunitario y de escucha al Espíritu Santo» [CapGral-2026, Discurso del Santo Padre, n. 1].
 
-**El Capítulo General como tiempo de gracia**: el papa León XIV afirmó que el Capítulo es «la ocasión para que ustedes se reconozcan herederos de un carisma que, a través de diversos caminos y expresiones históricas —a veces dolorosas y no exentas de crisis— ha dado origen a la Congregación» [LC-2026, Discurso del Santo Padre, n. 2].
+**El Capítulo General como tiempo de gracia**: el papa León XIV afirmó que el Capítulo es «la ocasión para que ustedes se reconozcan herederos de un carisma que, a través de diversos caminos y expresiones históricas —a veces dolorosas y no exentas de crisis— ha dado origen a la Congregación» [CapGral-2026, Discurso del Santo Padre, n. 2].
 
-**La autoridad como servicio**: la autoridad en la vida religiosa «no se entiende como dominio, sino como servicio espiritual y fraterno a quienes comparten la misma vocación» [LC-2026, Discurso del Santo Padre, n. 6]. Entre sus tareas fundamentales se encuentra «promover la fidelidad al carisma» [LC-2026, Discurso del Santo Padre, n. 7].
+**La autoridad como servicio**: la autoridad en la vida religiosa «no se entiende como dominio, sino como servicio espiritual y fraterno a quienes comparten la misma vocación» [CapGral-2026, Discurso del Santo Padre, n. 6]. Entre sus tareas fundamentales se encuentra «promover la fidelidad al carisma» [CapGral-2026, Discurso del Santo Padre, n. 7].
 
-**El carisma como don a custodiar**: «no son dueños del carisma, sino sus custodios y servidores» [LC-2026, Discurso del Santo Padre, n. 5]. El carisma es «un don del Espíritu Santo» que debe ser «recibido con gratitud» y vivido en «un continuo proceso de profundización de la propia identidad» [LC-2026, Discurso del Santo Padre, n. 3].
+**El carisma como don a custodiar**: «no son dueños del carisma, sino sus custodios y servidores» [CapGral-2026, Discurso del Santo Padre, n. 5]. El carisma es «un don del Espíritu Santo» que debe ser «recibido con gratitud» y vivido en «un continuo proceso de profundización de la propia identidad» [CapGral-2026, Discurso del Santo Padre, n. 3].
 
-**La sinodalidad en la vida consagrada**: «la Iglesia vive hoy una intensa llamada a la sinodalidad, es decir, a caminar, escuchar y discernir juntos. El Capítulo General es, por su propia naturaleza, un ejercicio sinodal» [LC-2026, Discurso del Santo Padre, n. 12]. La vida consagrada está llamada a ser «experta en comunión», creando «espacios donde el Evangelio se traduce en fraternidad concreta» [LC-2026, Discurso del Santo Padre, n. 8].
+**La sinodalidad en la vida consagrada**: «la Iglesia vive hoy una intensa llamada a la sinodalidad, es decir, a caminar, escuchar y discernir juntos. El Capítulo General es, por su propia naturaleza, un ejercicio sinodal» [CapGral-2026, Discurso del Santo Padre, n. 12]. La vida consagrada está llamada a ser «experta en comunión», creando «espacios donde el Evangelio se traduce en fraternidad concreta» [CapGral-2026, Discurso del Santo Padre, n. 8].
 
-**La vida fraterna**: «la vida consagrada, llamada a ser experta en comunión, crea espacios donde el Evangelio se traduce en fraternidad concreta» [LC-2026, n. 84], siendo la vida fraterna un don que santifica y un signo profético para la Iglesia.
+**La vida fraterna**: «la vida consagrada, llamada a ser experta en comunión, crea espacios donde el Evangelio se traduce en fraternidad concreta» [CapGral-2026, n. 84], siendo la vida fraterna un don que santifica y un signo profético para la Iglesia.
 
 ## Distinciones importantes
 

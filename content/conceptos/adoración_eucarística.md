@@ -1,7 +1,7 @@
 # Adoración eucarística
 
 > Área: Dogmática — Litúrgica
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -31,6 +31,10 @@ La Eucaristía como sacramento permanece mientras las especies eucarísticas sub
 
 [TPCr, Parte III, Libro II, Cap. I, Art. 5, n.312-322]
 
+### Según León XIV (DC-Convivium)
+
+León XIV sitúa el altar y el sagrario en el centro de la catedral y del ministerio sacerdotal: «En el altar, por vuestras manos, se actualiza el sacrificio de Cristo en la más alta acción confiada a manos humanas; en el sagrario, permanece Aquel que habéis ofrecido, confiado de nuevo a vuestro cuidado.» El Papa exhorta a los sacerdotes a ser adoradores: «Sed adoradores, hombres de profunda oración y enseñad a vuestro pueblo a hacer lo mismo.» La adoración eucarística es el centro que da sentido al ministerio sacerdotal y de donde brota toda la vida pastoral. La Eucaristía nutre la relación viva del sacerdote con Cristo y lo configura como *alter Christus* [DC-Convivium, 09.02.2026].
+
 ## Distinciones importantes
 
 - **Adoración eucarística vs. comunión**: una es culto de presencia, la otra es recepción sacramental
@@ -53,3 +57,4 @@ La adoración eucarística es expresión máxima de la [[virtud_de_la_religión]
 
 - [CEC §1378-1381, §1418]
 - [TPCr, Parte III, Libro II, Cap. I, Art. 5]
+- [DC-Convivium, 09.02.2026]

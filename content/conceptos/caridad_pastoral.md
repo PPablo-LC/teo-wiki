@@ -1,7 +1,7 @@
 # Caridad pastoral
 
 > Área: Teología Pastoral / Moral
-> Última actualización: 2026-05-29
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -28,6 +28,10 @@ El MPPM de 26 marzo 2019 establece que «la tutela de los menores y de las perso
 ### Según el Discurso sobre Protección de Menores (PMI)
 
 El Papa Francisco, en su discurso conclusivo del Encuentro sobre la Protección de los Menores en la Iglesia (24 febrero 2019), afirmó que la Iglesia debe combatir el abuso «con la máxima seriedad», sin ocultar ningún caso. Subrayó que la caridad pastoral incluye la **purificación genuina** y la **acusación de sí mismos** como individuos e institución, así como el **acompañamiento de los que han sufrido abusos**, proporcionando todo el apoyo necesario. La escucha —«perder tiempo» en escuchar— es una forma eminente de caridad pastoral que sana a la persona herida y sana a los pastores de su egoísmo y alejamiento.
+
+### Según León XIV (DC-Convivium)
+
+León XIV describe la caridad pastoral como don sincero de sí, servicio concreto a las personas confiadas y disponibilidad generosa. El sacerdote debe ser un «varón configurado con Cristo, capaz de sostener su ministerio desde una relación viva con Él, nutrida por la Eucaristía y expresada en una caridad pastoral marcada por el don sincero de sí». La fraternidad presbiteral es expresión de esta caridad: «la experiencia concreta de saberse en casa, responsables unos de otros, atentos a la vida del hermano y dispuestos a sostenernos mutuamente». La caridad pastoral se concreta también en la presencia fiel y la escucha, resistiendo al individualismo que «empobrece el corazón y debilita la misión» [DC-Convivium, 09.02.2026].
 
 ## Distinciones importantes
 
@@ -59,3 +63,4 @@ El Papa Francisco, en su discurso conclusivo del Encuentro sobre la Protección 
 - Discurso conclusivo del Encuentro sobre la Protección de los Menores en la Iglesia, 24 febrero 2019 (PMI)
 - Constitución Apostólica *Pascite Gregem Dei*, 23 mayo 2021 (PGD)
 - Conc. Ecum. Vat. II, Const. *Lumen Gentium*, 27
+- [DC-Convivium, 09.02.2026]

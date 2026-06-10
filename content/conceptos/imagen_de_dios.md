@@ -56,6 +56,14 @@ Las páginas del Génesis que describen la creación del hombre y de la mujer a 
 
 Royo Marín distingue tres niveles de imagen de Dios: las criaturas irracionales tienen una simple semejanza o vestigio; las criaturas racionales, dotadas de inteligencia, se llaman imagen natural de Dios; las almas en gracia, unidas a Dios por amor de amistad, son propiamente imagen sobrenatural de Dios (TPCr, Segunda Parte, Cap. I, Art. 1). Esta imagen sobrenatural exige una verdadera participación física y formal de la naturaleza misma de Dios, que es la [[gracia_santificante]].
 
+### Según los Ejercicios Espirituales 2026 a la Curia Romana (EjEsp2026)
+
+Mons. Erik Varden desarrolla la imagen de Dios en el capítulo 7, siguiendo a San Agustín y San Bernardo. La imagen de Dios nunca se pierde del todo en el ser humano; puede quedar sepultada bajo capas de oscuridad, pero siempre puede ser rescatada y hecha resplandeciente.
+
+Agustín enseñaba que llevamos la imagen de la gloria en una «forma oscura». Tras esta vida, la forma se revelará explícita y luminosa, apta para presentarse ante Dios. Cualquier deformidad infligida por una libertad mal empleada será entonces reformada, de modo que la forma aparecerá en su belleza original: *forma formosa*.
+
+La Iglesia recuerda a los hombres y mujeres la gloria que vive secretamente en ellos, mostrando que la mediocridad y la desesperación actuales no tienen por qué ser definitivas, y que el plan de Dios para nosotros es infinitamente hermoso.
+
 ### Según Juan Pablo II (JPII-JovCh)
 
 El discurso a los jóvenes chilenos se abre con el reconocimiento de la «dignidad propia del hombre creado a imagen y semejanza de Dios» [JPII-JovCh]. Sobre este fundamento antropológico, Juan Pablo II exhorta a «luchar con denuedo contra las fuerzas del mal [...] por la dignidad del hombre, por la dignidad del amor, por una vida noble de hijos de Dios» [JPII-JovCh]. La imagen divina en el hombre es el fundamento tanto de la dignidad personal como de la exigencia de justicia y solidaridad en la construcción de una nueva civilización.

@@ -19,6 +19,10 @@ De Lubac desarrolla el concepto de fidelidad creativa a lo largo de varias refle
 
 La fidelidad creativa exige una continua «vuelta a las fuentes» (ressourcement): redescubrir el cristianismo en su plenitud retornando a sus orígenes —la Escritura, los Padres, la liturgia— para desde allí responder a los problemas del presente [PoF, cap. 5]. No se trata de restaurar el pasado sino de hacerlo presente de un modo nuevo: «la fidelidad es necesariamente creadora» [PoF, cap. 9].
 
+### Según León XIV (L_XIV-ClerRom)
+
+León XIV recoge implícitamente esta noción al afirmar que «el don, como sabemos, es también una invitación a vivir una responsabilidad creativa». El Papa rechaza la idea de que los pastores sean «ejecutores pasivos de una pastoral ya definida» y, por el contrario, subraya que «con nuestra creatividad y nuestros carismas, estamos llamados a colaborar con la obra de Dios». La fidelidad al don recibido no es una repetición muerta sino una reavivación constante: «Te recuerdo que reavives el don de Dios que está en ti» (2 Tim 1,6). La creatividad pastoral no es innovación caprichosa sino colaboración responsable con la obra divina, enraizada en la Tradición viva de la Iglesia [L_XIV-ClerRom, 19.02.2026].
+
 ## Distinciones importantes
 
 - Fidelidad creativa vs. tradicionalismo: el tradicionalismo repite fórmulas sin asimilarlas vitalmente; la fidelidad creativa las hace vivir de nuevo

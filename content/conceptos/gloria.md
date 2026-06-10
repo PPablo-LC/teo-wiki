@@ -1,7 +1,7 @@
 # Gloria
 
 > Área: Dogmática / Escatología
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -22,6 +22,19 @@ Los que mueren en gracia de Dios y están purificados entran en la intimidad div
 Royo Marín enseña que la gracia habitual es el germen de la gloria. La perfección cristiana en esta vida es una participación incipiente de la gloria que se consumará en el cielo. El dolor bien soportado aumenta el grado de gloria para toda la eternidad. El don de temor permanecerá en el cielo en su aspecto reverencial, aunque cesará el temor de ofender a Dios por la impecabilidad del bienaventurado. La contemplación mística es un anticipo de la gloria eterna.
 
 [TPCr, Segunda Parte, Cap. 1; referencias dispersas]
+
+### Según los Ejercicios Espirituales 2026 a la Curia Romana (EjEsp2026)
+
+Mons. Erik Varden desarrolla el concepto de «[[gloria_oculta]]» como hilo conductor de los ejercicios (capítulo 7). La gloria de Dios no es solo una realidad escatológica futura, sino que es perceptible ya en esta vida de forma velada. San Agustín enseñaba que llevamos la imagen de la gloria en una «forma oscura» que, tras esta vida, se revelará explícita y luminosa: *forma formosa*.
+
+La gloria oculta se manifiesta en tres ámbitos:
+1. **En los santos**: pruebas de que incluso la enfermedad y la degradación pueden ser medios que la [[providencia_divina]] utiliza para un propósito glorioso.
+2. **En los sacramentos**: especialmente en la [[eucaristía]], la más espléndida y velada de todas.
+3. **En la tribulación**: siguiendo a San Bernardo, «la gloria se esconde ahora en la tribulación; la eternidad se esconde en el tiempo».
+
+Bernardo distingue entre la esperanza en el nombre (*spes in nomine*) y la realidad en la faz (*res in facie est*): «Nuestra esperanza está en el nombre del Señor; la realidad esperada será revelada cara a cara».
+
+Cualquier deformidad infligida por una libertad mal empleada será entonces reformada, de modo que la forma aparecerá en su belleza original.
 
 ## Distinciones importantes
 
@@ -46,3 +59,4 @@ La gloria se relaciona con la [[gracia_santificante]] (semilla de gloria), con e
 
 - [CEC §1023-1028; §1832; §1402-1405]
 - [TPCr, Segunda Parte, Cap. 1]
+- [EjEsp2026, cap. 7: «Yo lo Glorificaré»]

@@ -1,7 +1,7 @@
 # Celibato sacerdotal
 
 > Área: Ascética / Derecho Canónico
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -25,9 +25,13 @@ Royo Marín trata la castidad sacerdotal en TPCr Parte I (Ascética), dentro del
 
 Los cc. 277 y 1037 establecen la disciplina del celibato. El c. 277 §1 ordena que los clérigos están obligados a observar una continencia perfecta y perpetua por el Reino de los Cielos, y por tanto deben abrazar el celibato. El c. 1037 exige que el candidato al diaconado permanente (si es soltero) y al presbiterado dé testimonio público de su compromiso de celibato según el rito aprobado. La violación del celibato puede ser sancionada canónicamente.
 
-### Según la LC-2026
+### Según la CapGral-2026
 
-El V Capítulo General de los Legionarios de Cristo (LC-2026) considera el celibato como parte del carisma legionario. Para los legionarios, el celibato no es solo disciplina sino expresión del amor radical a Cristo y del abandono total a la misión. La castidad consagrada se vive en comunidad como testimonio profético del Reino y como condición para la disponibilidad misionera.
+El V Capítulo General de los Legionarios de Cristo (CapGral-2026) considera el celibato como parte del carisma legionario. Para los legionarios, el celibato no es solo disciplina sino expresión del amor radical a Cristo y del abandono total a la misión. La castidad consagrada se vive en comunidad como testimonio profético del Reino y como condición para la disponibilidad misionera.
+
+### Según León XIV (DC-Convivium)
+
+León XIV sitúa el celibato, junto con la pobreza y la obediencia, en el umbral de la catedral: «El umbral marca un paso, una separación necesaria. Antes de entrar, algo queda fuera. También el sacerdocio se vive así: estando en el mundo, pero sin ser del mundo (cf. Jn 17,14). En este cruce se sitúan el celibato, la pobreza y la obediencia; no como negación de la vida, sino como la forma concreta que permite al sacerdote pertenecer enteramente a Dios sin dejar de caminar entre los hombres.» El celibato no es una mera renuncia sino una forma positiva de pertenencia total a Dios que configura la vida sacerdotal en el umbral entre el mundo y lo sagrado [DC-Convivium, 09.02.2026].
 
 ## Distinciones importantes
 
@@ -48,5 +52,6 @@ El celibato sacerdotal está íntimamente unido a la identidad del [[presbítero
 - [CEC §§1579-1580]
 - [CIC cc. 277, 1037]
 - [TPCr, Parte I (castidad sacerdotal)]
-- [LC-2026, V Capítulo General (carisma legionario)]
+- [CapGral-2026, V Capítulo General (carisma legionario)]
 - [Concilio Vaticano II, Presbyterorum Ordinis 16]
+- [DC-Convivium, 09.02.2026]

@@ -9,20 +9,20 @@ La Legión de Cristo (Congregación de los Legionarios de Cristo) es un institut
 
 ## Desarrollo doctrinal
 
-La Congregación fue fundada en la Ciudad de México en 1941. Tras un proceso de revisión y purificación profunda iniciado por la Santa Sede en 2010, la Legión renovó sus Constituciones (aprobadas en 2014, promulgadas en 2020) y emprendió un camino de renovación espiritual e institucional. El V Capítulo General ordinario de 2026 (LC-2026), bajo el pontificado de León XIV, confirmó la vitalidad del carisma y trazó el horizonte de una Legión más pascual: más centrada en Cristo, más fraterna, más eclesial y más disponible para la misión.
+La Congregación fue fundada en la Ciudad de México en 1941. Tras un proceso de revisión y purificación profunda iniciado por la Santa Sede en 2010, la Legión renovó sus Constituciones (aprobadas en 2014, promulgadas en 2020) y emprendió un camino de renovación espiritual e institucional. El V Capítulo General ordinario de 2026 (CapGral-2026), bajo el pontificado de León XIV, confirmó la vitalidad del carisma y trazó el horizonte de una Legión más pascual: más centrada en Cristo, más fraterna, más eclesial y más disponible para la misión.
 
 ## Perspectivas por fuente
 
 ### Según el Derecho Canónico (CIC)
 
 Las Constituciones de la Legión (CLC-2020) fueron aprobadas por la Santa Sede y constituyen su derecho propio. La Congregación pertenece constitutivamente al Regnum Christi y forma parte de la Federación Regnum Christi [CLC-2020, 7]. Su gobierno, formación y disciplina se rigen por el derecho común (CIC cc. 573-746) y por su derecho particular (CLC-2020, NC, CVV).
-### Según el Capítulo General LC-2026 (LC-2026)
+### Según el Capítulo General CapGral-2026 (CapGral-2026)
 
-El carisma legionario fue codificado en las Constituciones: los legionarios buscan que Cristo reine y dan gloria a Dios viviendo un cristocentrismo real [LC-2026, n. 40]. La misión de la Legión es «formar apóstoles, líderes cristianos al servicio de la Iglesia» [LC-2026, n. 126], con especial atención al acompañamiento personal.
+El carisma legionario fue codificado en las Constituciones: los legionarios buscan que Cristo reine y dan gloria a Dios viviendo un cristocentrismo real [CapGral-2026, n. 40]. La misión de la Legión es «formar apóstoles, líderes cristianos al servicio de la Iglesia» [CapGral-2026, n. 126], con especial atención al acompañamiento personal.
 
-El Capítulo afirma que «el núcleo del carisma permanece vivo, no dependiendo de formas históricas concretas ni de modelos cerrados, sino de una configuración cada vez más transparente con Jesucristo» [LC-2026, n. 40]. La purificación del carisma no fue un paréntesis sino una etapa constitutiva de la fecundidad futura [LC-2026, n. 42].
+El Capítulo afirma que «el núcleo del carisma permanece vivo, no dependiendo de formas históricas concretas ni de modelos cerrados, sino de una configuración cada vez más transparente con Jesucristo» [CapGral-2026, n. 40]. La purificación del carisma no fue un paréntesis sino una etapa constitutiva de la fecundidad futura [CapGral-2026, n. 42].
 
-El Papa León XIV, en su discurso al Capítulo (19 de febrero de 2026), recordó que los legionarios «no son dueños del carisma, sino sus custodios y servidores» y los llamó a una «fidelidad creativa» en la vivencia del carisma [LC-2026, n. 3-5].
+El Papa León XIV, en su discurso al Capítulo (19 de febrero de 2026), recordó que los legionarios «no son dueños del carisma, sino sus custodios y servidores» y los llamó a una «fidelidad creativa» en la vivencia del carisma [CapGral-2026, n. 3-5].
 
 
 ## Relaciones doctrinales
@@ -40,7 +40,7 @@ La Legión de Cristo se relaciona con la [[vida_consagrada]], el [[carisma_legio
 
 ## Referencias
 
-- [LC-2026, nn. 36-44 (Prefacio), 119-126 (Tercera Parte)]
+- [CapGral-2026, nn. 36-44 (Prefacio), 119-126 (Tercera Parte)]
 - [CLC-2020 1, 2, 4, 7, 8]
 - [CIC cc. 573-746]
 - [León XIV, Discurso a los participantes en el Capítulo General, 19-II-2026]

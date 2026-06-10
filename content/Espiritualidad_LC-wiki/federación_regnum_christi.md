@@ -9,7 +9,7 @@ La Federación Regnum Christi es la configuración canónica mediante la cual se
 
 ## Desarrollo doctrinal
 
-El Capítulo General LC-2026 dedica una sección sustancial del Comunicado Capitular (n. 119-123) y un documento temático completo («La Legión de Cristo en la Federación Regnum Christi») a la situación de la Federación tras su primer sexenio de vigencia desde la aprobación de sus Estatutos. El Capítulo ofrece un diagnóstico realista de los desafíos y propone líneas de acción para la renovación.
+El Capítulo General CapGral-2026 dedica una sección sustancial del Comunicado Capitular (n. 119-123) y un documento temático completo («La Legión de Cristo en la Federación Regnum Christi») a la situación de la Federación tras su primer sexenio de vigencia desde la aprobación de sus Estatutos. El Capítulo ofrece un diagnóstico realista de los desafíos y propone líneas de acción para la renovación.
 
 ## Perspectivas por fuente
 
@@ -27,19 +27,27 @@ El Capítulo General LC-2026 dedica una sección sustancial del Comunicado Capit
 
 **ECYD.** La Federación dirige una organización llamada ECYD para la evangelización de adolescentes (EFRC 47). Las instituciones federadas y los fieles asociados deben promover su crecimiento.
 
-### Según el Capítulo General LC-2026 (LC-2026)
+### Según el Capítulo General CapGral-2026 (CapGral-2026)
 
-**La Federación como instrumento al servicio de la comunión misionera.** «La Federación no es un fin en sí mismo, sino un instrumento jurídico al servicio de la comunión misionera de diversas vocaciones nacidas de un mismo carisma» [LC-2026, n. 122]. Los Estatutos de la Federación reconocen el patrimonio carismático común y la identidad propia de cada vocación [LC-2026, n. 14 del documento temático].
+**La Federación como instrumento al servicio de la comunión misionera.** «La Federación no es un fin en sí mismo, sino un instrumento jurídico al servicio de la comunión misionera de diversas vocaciones nacidas de un mismo carisma» [CapGral-2026, n. 122]. Los Estatutos de la Federación reconocen el patrimonio carismático común y la identidad propia de cada vocación [CapGral-2026, n. 14 del documento temático].
 
-**Las cuatro vocaciones.** La Federación integra cuatro vocaciones: los legionarios de Cristo (congregación religiosa clerical), las consagradas del Regnum Christi (sociedad de vida apostólica), los laicos consagrados del Regnum Christi (asociación privada de fieles) y los miembros laicos del Regnum Christi (fieles asociados) [LC-2026, n. 119]. La Legión de Cristo «pertenece constitutivamente a esta familia espiritual y cuerpo apostólico» [LC-2026, n. 119].
+**Las cuatro vocaciones.** La Federación integra cuatro vocaciones: los legionarios de Cristo (congregación religiosa clerical), las consagradas del Regnum Christi (sociedad de vida apostólica), los laicos consagrados del Regnum Christi (asociación privada de fieles) y los miembros laicos del Regnum Christi (fieles asociados) [CapGral-2026, n. 119]. La Legión de Cristo «pertenece constitutivamente a esta familia espiritual y cuerpo apostólico» [CapGral-2026, n. 119].
 
-**Obras Comunes.** Las Obras Comunes son obras poseídas en régimen de copropiedad por las tres instituciones federadas, que participan en la vida y misión del Regnum Christi. Aunque no son gobernadas por los colegios directivos de la Federación, los directores generales o territoriales que configuran los órganos de la Federación forman parte de sus órganos de gobierno [LC-2026, nota en n. 10 del documento temático].
+**Obras Comunes.** Las Obras Comunes son obras poseídas en régimen de copropiedad por las tres instituciones federadas, que participan en la vida y misión del Regnum Christi. Aunque no son gobernadas por los colegios directivos de la Federación, los directores generales o territoriales que configuran los órganos de la Federación forman parte de sus órganos de gobierno [CapGral-2026, nota en n. 10 del documento temático].
 
-**Tensiones entre autonomía y unidad.** El Capítulo ha identificado tres causas de fondo de las dificultades [LC-2026, n. 121]: visiones distintas sobre cómo articular el carisma común y la identidad propia de cada vocación; tensiones entre autonomía y unidad; y desconfianzas mutuas que necesitan ser sanadas. El Papa [[león_xiv]] recordó que «la diversidad de formas no debilita la unidad, sino que la enriquece» [LC-2026, n. 121]. Se afirma que «ejercer una sana autonomía no es un atentado contra la comunión, sino su presupuesto» [LC-2026, n. 18 del documento temático].
+**Tensiones entre autonomía y unidad.** El Capítulo ha identificado tres causas de fondo de las dificultades [CapGral-2026, n. 121]: visiones distintas sobre cómo articular el carisma común y la identidad propia de cada vocación; tensiones entre autonomía y unidad; y desconfianzas mutuas que necesitan ser sanadas. El Papa [[león_xiv]] recordó que «la diversidad de formas no debilita la unidad, sino que la enriquece» [CapGral-2026, n. 121]. Se afirma que «ejercer una sana autonomía no es un atentado contra la comunión, sino su presupuesto» [CapGral-2026, n. 18 del documento temático].
 
-**El camino recorrido desde la aprobación de los Estatutos.** La aprobación de los Estatutos de la Federación y la puesta en marcha de las Obras Comunes han conllevado cambios significativos en el gobierno de la actividad apostólica y en la autocomprensión de la Congregación [LC-2026, n. 120]. Han sido años de aprendizaje, de frutos reales y de dificultades: desafección de algunos legionarios, sensación de ser frenados, falta de claridad sobre quién gobierna el apostolado, conflictos en nombramientos [LC-2026, n. 120]. El Capítulo reconoce también dificultades con origen en los propios legionarios: insuficiente conocimiento de los Estatutos, dificultad para integrarse en dinámicas de gobierno colegial, comunicación deficiente [LC-2026, n. 120].
+**El camino recorrido desde la aprobación de los Estatutos.** La aprobación de los Estatutos de la Federación y la puesta en marcha de las Obras Comunes han conllevado cambios significativos en el gobierno de la actividad apostólica y en la autocomprensión de la Congregación [CapGral-2026, n. 120]. Han sido años de aprendizaje, de frutos reales y de dificultades: desafección de algunos legionarios, sensación de ser frenados, falta de claridad sobre quién gobierna el apostolado, conflictos en nombramientos [CapGral-2026, n. 120]. El Capítulo reconoce también dificultades con origen en los propios legionarios: insuficiente conocimiento de los Estatutos, dificultad para integrarse en dinámicas de gobierno colegial, comunicación deficiente [CapGral-2026, n. 120].
 
-**Líneas de acción.** El Capítulo propone: afirmar el don del Regnum Christi como don del Espíritu Santo a la Iglesia [LC-2026, n. 35]; vivir la identidad del legionario en el Regnum Christi sin diluir las diferencias [LC-2026, n. 39]; ejercer la subsidiariedad y la autonomía de gobierno al servicio de la identidad propia y de la misión común [LC-2026, n. 44]; y reconstruir la confianza mutua mediante el diálogo y el acercamiento entre las vocaciones [LC-2026, n. 33].
+**Líneas de acción.** El Capítulo propone: afirmar el don del Regnum Christi como don del Espíritu Santo a la Iglesia [CapGral-2026, n. 35]; vivir la identidad del legionario en el Regnum Christi sin diluir las diferencias [CapGral-2026, n. 39]; ejercer la subsidiariedad y la autonomía de gobierno al servicio de la identidad propia y de la misión común [CapGral-2026, n. 44]; y reconstruir la confianza mutua mediante el diálogo y el acercamiento entre las vocaciones [CapGral-2026, n. 33].
+
+### Según Ensayo-instituyo-a-los-doce (RC-Inst_12)
+
+El ensayo presenta las comunidades de apóstoles como expresión concreta de la Federación Regnum Christi. La localidad, la sección, el equipo y las redes son formas concretas de comunidad de apóstoles que actualizan el carisma común en un territorio. La localidad es definida como «comunidad de apóstoles y una unidad operativa de la Federación al servicio de la evangelización, que abarca una zona geográfica» (EFRC, n. 54, 1) [RC-Inst_12, Parte II, §III, La localidad].
+
+La sección es «una comunidad de pequeñas comunidades de apóstoles que son los equipos» y el equipo es «la comunidad fundamental que surge en el Regnum Christi», «una comunidad de apóstoles, un conjunto de miembros unidos en fraternidad cristiana para ayudarse mutuamente en su camino de santificación, en su formación y en su trabajo apostólico, a ejemplo de las primeras comunidades cristianas» [RC-Inst_12, Parte II, §III, El equipo].
+
+La Federación, como instrumento jurídico, sirve a esta realidad carismática: ser una comunidad de apóstoles que forma comunidades de apóstoles. La dimensión organizativa (localidades, secciones, equipos) está al servicio de la identidad carismática de ser comunidad de apóstoles en misión.
 
 ## Distinciones importantes
 
@@ -59,6 +67,6 @@ Se relaciona con [[iglesia]], [[vida_consagrada]], [[consagración]], [[sacerdoc
 
 ## Referencias
 
-- [LC-2026, n. 119-123]
-- [LC-2026, «La Legión de Cristo en la Federación Regnum Christi», n. 1-52]
-- [LC-2026, n. 35-47]
+- [CapGral-2026, n. 119-123]
+- [CapGral-2026, «La Legión de Cristo en la Federación Regnum Christi», n. 1-52]
+- [CapGral-2026, n. 35-47]

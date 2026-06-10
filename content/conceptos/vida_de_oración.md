@@ -1,7 +1,7 @@
 # Vida de oración
 
 > Área: Ascética / Mística
-> Última actualización: 2026-05-20
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -29,6 +29,10 @@ San Buenaventura: «Si quieres subir a la alteza de la contemplación y gozar de
 
 La vida de oración no se identifica exclusivamente con la oración mental; comprende también la oración vocal, litúrgica y las prácticas que mantienen el espíritu de oración a lo largo del día. La influencia de la oración ha de dejarse sentir a todo lo largo del día, embalsamando todas las horas y ocupaciones (n.502).
 
+### Según León XIV (L_XIV-ClerRom)
+
+León XIV dedica un énfasis particular a la vida de oración del sacerdote como raíz de todo el ministerio. Exhorta a cultivar «el tiempo de estar con el Señor, de escuchar la Palabra de Dios, con la oración de los Salmos, esta alabanza al Señor». Advierte contra el riesgo de reducir la oración a la rutina: «no solo la rutina de recitar lo más rápido posible el breviario, que también llevo en el celular». La oración auténtica incluye «la capacidad de entrar en diálogo, de escuchar de verdad y de expresar las dificultades que llevo en el corazón: "¿Por qué, Señor?, ¿qué quieres de mí?, ¿qué puedo hacer?"». Sin esta vida de oración, dice el Papa, ningún esfuerzo pastoral puede ser fructífero, porque «con esta experiencia de una vida auténticamente arraigada en el Señor, podemos ofrecer algo que no es nuestro» [L_XIV-ClerRom, 19.02.2026].
+
 ## Relaciones doctrinales
 
 Se relaciona íntimamente con todos los [[grados_de_oración]], la [[meditación]], la [[contemplación]] y la [[oración_litúrgica]]. Es presupuesto necesario para la santidad y condición para la [[fidelidad_a_la_gracia]].
@@ -46,3 +50,4 @@ Se relaciona íntimamente con todos los [[grados_de_oración]], la [[meditación
 ## Referencias
 
 - TPCr, Tercera Parte, Libro II, Cap. III, n.475-502
+- [L_XIV-ClerRom, 19.02.2026]

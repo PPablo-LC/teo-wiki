@@ -1,7 +1,7 @@
 # León XIV
 
 > Área: Personas / Papas
-> Última actualización: 2026-05-25
+> Última actualización: 2026-06-10
 
 ## Contexto histórico
 
@@ -14,6 +14,7 @@ Primer papa nacido en Estados Unidos, primer pontífice de la Orden de San Agust
 - *Dilexi te*, exhortación apostólica (30 de octubre de 2025)
 - *Magnifica Humanitas*, primera encíclica (15 de mayo de 2026), sobre la custodia de la persona humana en el tiempo de la inteligencia artificial — constituye su enseñanza más extensa y el primer análisis magisterial completo del transhumanismo, la IA y el paradigma tecnocrático
 - Mensaje para la 100.ª Jornada Mundial de las Misiones (18 de enero de 2026)
+- Carta al Presbiterio de la Arquidiócesis de Madrid «Convivium» (9 de febrero de 2026), sobre la identidad sacerdotal, la secularización y la fraternidad presbiteral
 
 ## Perspectivas por fuente
 
@@ -50,9 +51,63 @@ La *Magnífica Humanitas*, primera encíclica de León XIV (15 mayo 2026), const
 - Desarrolla una **reflexión sobre la guerra y la IA**, denunciando la «cultura del poder» y relanzando la «civilización del amor» (§§182-227)
 - Concluye con un **itinerario espiritual** centrado en la Encarnación, la Eucaristía y el Magníficat como claves para vivir cristianamente la era digital (§§229-245)
 
+### Según la Carta a los sacerdotes de Madrid «Convivium» (DC-Convivium)
+
+León XIV escribió una carta al presbiterio de Madrid con ocasión de la Asamblea Presbiteral «Convivium» (9-10 de febrero de 2026), fechada el 28 de enero de 2026, memoria de santo Tomás de Aquino. En ella desarrolla:
+
+1. **Diagnóstico del tiempo presente**: procesos avanzados de secularización, pérdida de referencias comunes, cambio cultural profundo. Sin embargo, también constata una nueva inquietud religiosa, especialmente entre los jóvenes, que abre posibilidades para la evangelización.
+
+2. **Identidad sacerdotal**: el sacerdote como *alter Christus*, configurado con Cristo, no definido por tareas o resultados sino por una relación viva con Él nutrida por la Eucaristía.
+
+3. **Imagen de la catedral**: la fachada (visibilidad que remite a Dios), el umbral (separación necesaria: celibato, pobreza, obediencia), las columnas (fundamento apostólico), el presbiterio (sacramentos: el sacerdote es cauce, no fuente), las capillas (diversidad de carismas), el altar y el sagrario (centro de todo, adoración).
+
+4. **Fraternidad presbiteral**: la catedral como hogar común, experiencia de saberse en casa, responsables unos de otros, resistencia al individualismo.
+
+5. **Espiritualidad sacerdotal**: los consejos evangélicos (celibato, pobreza, obediencia) como forma de pertenencia total a Dios; la necesidad de la confesión y los sacramentos para el propio sacerdote; la adoración eucarística como centro del ministerio.
+
+### Según el Discurso al clero romano (L_XIV-ClerRom)
+
+En su encuentro con los presbíteros de Roma (19 de febrero de 2026), León XIV desarrolla los siguientes ejes:
+
+1. **Primacía de la evangelización**: Urge volver al anuncio como prioridad, frente a un modelo de pastoral centrado en la administración sacramental que presupone una fe transmitida por el ambiente, lo cual ya no es real. Advierte contra la «sacramentalización sin otras formas de evangelización» (EG 63).
+
+2. **Revisión de la iniciación cristiana**: La estructura escolar de la iniciación cristiana necesita ser revisada para experimentar modalidades que involucren de manera nueva a niños, jóvenes y familias.
+
+3. **Colaboración entre parroquias**: La sola parroquia no basta; es necesario trabajar juntos entre parroquias vecinas, superando la autorreferencialidad y poniendo en común carismas y recursos.
+
+4. **Fraternidad presbiteral y *invidia clericalis***: Denuncia la «invidia clericalis» como una pandemia del clero y propone como remedio la iniciativa personal para crear grupos de fraternidad que se reúnan periódicamente para orar, estudiar y compartir la vida.
+
+5. **Juventud y soledad digital**: Diagnostica el aislamiento de los jóvenes a causa del smartphone y la falta de contacto humano, y propone salir a su encuentro con propuestas de amistad y comunión que lleven gradualmente al encuentro con Jesús.
+
+6. **Vida de oración del sacerdote**: Exhorta a una oración auténtica que vaya más allá de la rutina del breviario, cultivando el diálogo personal con el Señor.
+
+7. **Inteligencia artificial y homilía**: Advierte contra la tentación de preparar homilías con IA, porque «la IA nunca podrá compartir la fe».
+
+8. **Estudio permanente**: El estudio en la vida del sacerdote debe ser continuo; deplora a quienes no han vuelto a abrir un libro desde el seminario.
+
+9. **Inculturación**: La primera condición para evangelizar la cultura posmoderna es conocer profundamente la comunidad a la que se sirve, sin trasplantar soluciones de un contexto a otro.
+
+10. **Gratitud y humildad**: La gratitud por la vocación y la humildad de reconocer que todo viene de Dios son actitudes fundamentales del presbítero.
+
+11. **Sacerdotes ancianos**: Reconoce su soledad, valora su oración como ministerio y exhorta a los jóvenes a visitarlos y acompañarlos.
+
+12. **Acompañamiento espiritual para sacerdotes**: Recomienda tener un confesor o guía espiritual para los momentos de dificultad.
+
+13. **Cercanía a los que sufren**: Invita a los sacerdotes a visitar personalmente a los enfermos, sin delegar completamente en los laicos.
+
+La carta «Convivium» concluye con el consejo de san Juan de Ávila: «Sed vosotros todo suyo».
+
+### Según los Ejercicios Espirituales 2026 (EjEsp2026)
+
+León XIV participó en los Ejercicios Espirituales de Cuaresma predicados por Mons. Erik Varden en la Capilla Paulina (23-28 de febrero de 2026). En sus palabras finales (epílogo), el Papa agradeció a Varden el acompañamiento espiritual, destacando las meditaciones sobre la libertad, la verdad y la esperanza.
+
+Evocó la inscripción de la Capilla Paulina —«Para mí la vida es Cristo, y la muerte, una ganancia» (Flp 1,21)— y las palabras de Pablo a los Filipenses. Dirigió a los presentes la invitación: «Comportaos de una manera digna del Evangelio de Cristo» (Flp 1,27).
+
+Mencionó explícitamente al Cardenal John Henry Newman y su poema *El sueño de Geroncio*, como prisma para contemplar el miedo a la muerte. También agradeció al coro por la música, señalando que «la música nos ayuda de una manera que las palabras no pueden alcanzar, elevando nuestro espíritu hacia el Señor».
+
 ## Ver también
 
-[[legión_de_cristo]], [[john_connor]], [[carlos_gutiérrez]]
+[[legión_de_cristo]], [[john_connor]], [[carlos_gutiérrez]], [[erik_varden]], [[john_henry_newman]]
 
 ## Referencias
 
@@ -60,3 +115,6 @@ La *Magnífica Humanitas*, primera encíclica de León XIV (15 mayo 2026), const
 - [LC‑2026, Comunicado Capitular, nn. 11, 41, 93, 154‑156]
 - [LC‑2026, n. 92 (Dilexi te)]
 - [LC‑2026, n. 77 (Mensaje Jornada Mundial de las Misiones 2026)]
+- [DC-Convivium, 09.02.2026]
+- [L_XIV-ClerRom, 19.02.2026]
+- [EjEsp2026, epílogo]

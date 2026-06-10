@@ -35,13 +35,13 @@ La obediencia es una de las partes de la virtud de la observancia, que regula el
 
 [TPCr, Tercera Parte, Libro II, Cap. II, B (virtud de la justicia)]; TPCr, Tercera Parte, Libro III
 
-### Según el Capítulo General LC-2026
+### Según el Capítulo General CapGral-2026
 
-El Capítulo General 2026 de los Legionarios de Cristo, en su documento temático sobre el ejercicio evangélico de la autoridad y la obediencia, propone una obediencia «sobrenatural, pronta, alegre, perseverante y heroica», «vivida con plena consciencia y amor, aunando con sencillez la dependencia y la iniciativa responsable» [LC-2026, documento temático n. 9]. Esta obediencia tiene la dimensión de una oblación de la propia voluntad a ejemplo de Cristo, una entrega que no empobrece, sino que enriquece.
+El Capítulo General 2026 de los Legionarios de Cristo, en su documento temático sobre el ejercicio evangélico de la autoridad y la obediencia, propone una obediencia «sobrenatural, pronta, alegre, perseverante y heroica», «vivida con plena consciencia y amor, aunando con sencillez la dependencia y la iniciativa responsable» [CapGral-2026, documento temático n. 9]. Esta obediencia tiene la dimensión de una oblación de la propia voluntad a ejemplo de Cristo, una entrega que no empobrece, sino que enriquece.
 
-Cristo es presentado como el modelo perfecto de obediencia: «filial, libre y redentora» [LC-2026, documento temático n. 5]. La obediencia de Cristo en Getsemaní —«no se haga como yo quiero, sino como quieres tú» (Mt 26,39)— muestra que la obediencia auténtica no es sumisión pasiva, sino un acto supremo de libertad que lleva a la madurez dilatando la libertad de los hijos de Dios.
+Cristo es presentado como el modelo perfecto de obediencia: «filial, libre y redentora» [CapGral-2026, documento temático n. 5]. La obediencia de Cristo en Getsemaní —«no se haga como yo quiero, sino como quieres tú» (Mt 26,39)— muestra que la obediencia auténtica no es sumisión pasiva, sino un acto supremo de libertad que lleva a la madurez dilatando la libertad de los hijos de Dios.
 
-La obediencia propuesta es «filial: activa, libre y madura» [LC-2026, documento temático n. 10], en la que el religioso participa de modo positivo, integrando el discernimiento personal con la aceptación de una voluntad que trasciende la propia. Las Constituciones invitan a tener «una relación confiada con los superiores, y obedecer con reverencia sus mandatos aunque sean difíciles o desagradables, ejercitándose en la oblación de sí» [LC-2026, documento temático n. 9].
+La obediencia propuesta es «filial: activa, libre y madura» [CapGral-2026, documento temático n. 10], en la que el religioso participa de modo positivo, integrando el discernimiento personal con la aceptación de una voluntad que trasciende la propia. Las Constituciones invitan a tener «una relación confiada con los superiores, y obedecer con reverencia sus mandatos aunque sean difíciles o desagradables, ejercitándose en la oblación de sí» [CapGral-2026, documento temático n. 9].
 
 ## Distinciones importantes
 

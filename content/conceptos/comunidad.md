@@ -1,7 +1,7 @@
 # Comunidad
 
 > Área: Eclesiología
-> Última actualización: 2026-06-03
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -40,9 +40,14 @@ Se relaciona con [[iglesia]], [[cuerpo_místico]], [[comunión_de_los_santos]], 
 
 [[iglesia]], [[cuerpo_místico]], [[comunión_de_los_santos]], [[caridad]], [[amor_al_prójimo]], [[familia]]
 
+### Según León XIV (L_XIV-ClerRom)
+
+León XIV aplica la noción de comunidad al presbiterio y a la colaboración pastoral. Subraya la necesidad de «aprender a trabajar juntos, en comunión» y de «vencer la tentación de la autorreferencialidad, que genera sobrecarga y dispersión». Propone una comunidad de trabajo entre parroquias vecinas que «pongan en común los carismas y las potencialidades, programando juntos y evitando la superposición de iniciativas». Esta coordinación expresa la comunión presbiteral y permite responder a los desafíos de una sociedad marcada por la movilidad, donde «la sola parroquia no es suficiente». La comunidad eclesial se manifensa así no solo en la celebración compartida sino también en la acción pastoral coordinada [L_XIV-ClerRom, 19.02.2026].
+
 ## Referencias
 
 - [CEC §751-780, §1878-1886, §1907-1918, §2204-2207]
 - [TPCr, Tercera Parte, Libro II]
 - [LG 48; GS 24-32]
 - [DSI, Principios de Solidaridad y Subsidiariedad]
+- [L_XIV-ClerRom, 19.02.2026]

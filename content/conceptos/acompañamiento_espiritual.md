@@ -1,7 +1,7 @@
 # Acompañamiento espiritual
 
 > Área: Espiritualidad / Ascética
-> Última actualización: 2026-05-29
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -13,9 +13,13 @@ El acompañamiento espiritual tiene raíces en la tradición monástica y patrí
 
 ## Perspectivas por fuente
 
-### Según el Capítulo General LC-2026
+### Según el Capítulo General CapGral-2026
 
-El Capítulo General de 2026, en su documento sobre promoción vocacional, subraya el valor del acompañamiento como cooperación con la acción divina, formando en la escucha, el discernimiento y la oración. Propone pasar de una lógica de reclutamiento a un acompañamiento respetuoso de cada joven desde su realidad concreta [LC-2026, n. 101].
+El Capítulo General de 2026, en su documento sobre promoción vocacional, subraya el valor del acompañamiento como cooperación con la acción divina, formando en la escucha, el discernimiento y la oración. Propone pasar de una lógica de reclutamiento a un acompañamiento respetuoso de cada joven desde su realidad concreta [CapGral-2026, n. 101].
+
+### Según León XIV (L_XIV-ClerRom)
+
+León XIV recomienda vivamente a los presbíteros la práctica del acompañamiento espiritual para ellos mismos: «no tengamos miedo de continuar con la hermosa práctica del acompañamiento espiritual, de tener a alguien en su vida que los conozca». Distingue entre el amigo y «un buen confesor, puede ser un sacerdote, una persona de gran sabiduría espiritual, que podrá acompañarlos y ayudarlos en los momentos de gran dificultad». Subraya que «todos somos humanos, todos pasamos por momentos difíciles, por dolores de todo tipo, pero tener a alguien de confianza que realmente pueda acompañarnos muy de cerca, en el corazón, en el espíritu, es también un gran don». El acompañamiento es presentado no como un lujo espiritual sino como una necesidad para la perseverancia y la salud del ministerio [L_XIV-ClerRom, 19.02.2026].
 
 ## Distinciones importantes
 
@@ -42,6 +46,7 @@ Se relaciona con [[dirección_espiritual]], [[discernimiento]], [[discernimiento
 
 ## Referencias
 
-- [LC-2026, Documento temático «Una renovada visión vocacional», n. 8-11]
+- [CapGral-2026, Documento temático «Una renovada visión vocacional», n. 8-11]
 - [ConcVatII, *Optatam Totius*]
 - [*Pastores dabo vobis*]
+- [L_XIV-ClerRom, 19.02.2026]

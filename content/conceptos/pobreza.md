@@ -33,11 +33,11 @@ El trabajo debe ser honrado como instrumento eficaz contra la pobreza, pero no d
 
 La pobreza de espíritu es la primera bienaventuranza, relacionada con el don de temor (TPCr, Tercera Parte, Libro II, cap. II). El voto de pobreza es uno de los tres consejos evangélicos esenciales al estado religioso (TPCr, Tercera Parte, Libro III). Por el voto de pobreza el religioso se obliga a vivir pobremente a imitación de Cristo pobre (TPCr, Tercera Parte, Libro III). La práctica afectiva de los consejos (espíritu de pobreza) obliga a todos los cristianos (TPCr, Segunda Parte). En el camino de perfección, el alma debe llegar a la santa indiferencia entre riqueza y pobreza (TPCr, Tercera Parte, Libro II, caps. IV-V).
 
-### Según el Capítulo General LC-2026
+### Según el Capítulo General CapGral-2026
 
 El V Capítulo General ordinario de los Legionarios de Cristo (2026) constata una preocupación generalizada de que en la vivencia del [[voto_de_pobreza]] no se ha progresado a la par de otros aspectos de la renovación (n. 86). Las Constituciones invitan a cada legionario a vivir sin reservas este voto, que produce frutos: mantiene el alma abierta hacia Dios y hacia los hombres, crea un clima espiritual propicio a la docilidad interior, la oración, el diálogo y la colaboración, alimenta la esperanza, engendra justicia y misericordia, aumenta el amor y dona serenidad y alegría (n. 85). El Capítulo invita a los legionarios a emprender una **autoevaluación creativa**, no solo para valorar cómo se ha vivido la pobreza, sino para discernir nuevos caminos en el seguimiento de Cristo pobre, abiertos a las novedades del Espíritu Santo (n. 89). Exhorta a **reavivar el don de Dios** (2 Tm 1,6) —como la brasa bajo las cenizas— soplando sobre el fuego interior para que la intuición primera de la consagración se mantenga viva y ardiente (n. 90). Entre los elementos de crecimiento se destacan: la decisión personal e indelegable de vivir pobre por amor a Cristo; la elaboración y revisión del proyecto comunitario para discernir juntos el testimonio de pobreza; la vivencia transparente de la bolsa común; el **contacto con situaciones de pobreza real** adaptadas a cada contexto; la práctica de rendir cuentas al superior; la **administración transparente** del presupuesto comunitario; y la certeza de que las necesidades personales están cubiertas por la Congregación (n. 92).
 
-[LC-2026, n. 85-92]
+[CapGral-2026, n. 85-92]
 
 ## Distinciones importantes
 

@@ -17,9 +17,9 @@ El voto propio de no buscar cargos de gobierno es una expresión singular del de
 
 El voto propio se regula en el CLC-2020 37: «El legionario, al profesar los consejos evangélicos, emite un voto propio, a saber, que no obrará para alcanzar o conservar, ni para sí ni para otros, puestos de gobierno o cargos en la Congregación.» Este voto, vivido por amor a Jesucristo, promueve el desprendimiento de sí, la disponibilidad total al servicio del Reino de Cristo, y la armonía, la paz y el progreso de las comunidades y de toda la Congregación (CLC-2020 37 §2).
 
-### Según el Capítulo General LC-2026
+### Según el Capítulo General CapGral-2026
 
-El Capítulo General de 2026, al tratar de la autoridad evangélica, recoge este voto propio como salvaguarda contra la ambición y el personalismo en el gobierno, y lo presenta como expresión de la libertad interior del legionario que sirve sin buscar su propio interés [LC-2026, Documento temático sobre autoridad y obediencia].
+El Capítulo General de 2026, al tratar de la autoridad evangélica, recoge este voto propio como salvaguarda contra la ambición y el personalismo en el gobierno, y lo presenta como expresión de la libertad interior del legionario que sirve sin buscar su propio interés [CapGral-2026, Documento temático sobre autoridad y obediencia].
 
 ## Distinciones importantes
 
@@ -38,4 +38,4 @@ Se relaciona con [[consejos_evangélicos]], [[voto_de_obediencia]], [[voto_de_po
 ## Referencias
 
 - [CLC-2020 37]
-- [LC-2026, Documento temático «El ejercicio evangélico de la autoridad y la obediencia»]
+- [CapGral-2026, Documento temático «El ejercicio evangélico de la autoridad y la obediencia»]

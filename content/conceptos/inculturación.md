@@ -1,7 +1,7 @@
 # Inculturación
 
 > Área: Eclesiología / Misiología
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -35,6 +35,10 @@ El CEC §854 afirma que la misión de la Iglesia consiste en "hacer entrar a tod
 
 La inculturación es dimensión esencial de la [[evangelización]] y de la [[misión]] de la [[iglesia]]. Se relaciona con la [[cultura]] y con la unidad de la fe en la diversidad de expresiones culturales.
 
+### Según León XIV (L_XIV-ClerRom)
+
+En su respuesta a la pregunta sobre la «progresiva marginación de lo religioso» en la cultura posmoderna, León XIV aborda la inculturación desde una perspectiva concreta y pastoral. El desafío es «cómo podemos hacer incisivos en esta cultura posmoderna sin volver a esquemas del pasado que resultarían un poco anacrónicos». El Papa responde que la primera condición para la inculturación es el conocimiento profundo de la comunidad a la que se sirve: «si quieres amar a alguien, primero tienes que conocerlo. Si quiere amar y servir a una comunidad, es muy importante conocerla». Advierte contra la tentación de trasplantar soluciones de un contexto a otro sin mediación: «si me cambian de una parroquia a otra, pensar: "Esto funcionó allí, sigamos haciendo lo mismo"». La inculturación requiere, además, una vida de oración auténtica que permita al sacerdote ofrecer «su fe, su experiencia de haber conocido y amado a Jesucristo y su Evangelio» desde dentro de la cultura concreta [L_XIV-ClerRom, 19.02.2026].
+
 ## Ver también
 
 [[evangelización]], [[misión]], [[cultura]], [[liturgia]], [[unitatis_redintegratio]]
@@ -45,3 +49,4 @@ La inculturación es dimensión esencial de la [[evangelización]] y de la [[mis
 - ConcVatII, SC §37-40
 - ConcVatII, AG §15, 22
 - ConcVatII, GS §58
+- [L_XIV-ClerRom, 19.02.2026]

@@ -24,6 +24,14 @@ La cruz revela el amor extremo de Dios: «Tanto amó Dios al mundo que dio a su 
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 La cruz es «escándalo para los judíos y locura para los gentiles» (*1Cor 1,23*), pero para los creyentes es «sabiduría y poder de Dios». Pablo desarrolla la teología de la cruz como cumplimiento del designio divino: Cristo, «hecho maldición por nosotros» (*Gal 3,13*) al ser colgado del madero, nos redimió de la maldición de la ley. Para Juan, la cruz es ya glorificación: Jesús es «elevado» como la serpiente de bronce (*Jn 3,14*), y de su costado brotan sangre y agua (*Jn 19,34*). El cristiano debe cargar con su cruz y seguir a Cristo (*Mt 16,24*), crucificando la carne con sus pasiones (*Gal 5,24*). La cruz es el único título de gloria del cristiano (*Gal 6,14*) [VocTeoBib, «Cruz»].
+### Según los Ejercicios Espirituales 2026 a la Curia Romana (EjEsp2026)
+
+Mons. Erik Varden desarrolla la teología de la cruz en los capítulos 7 y 11. En el capítulo 7, la cruz es presentada como el lugar de la «[[gloria_oculta]]»: Juan ofrece un relato descarnado de la kénosis de Jesús, que se desarrolla en dos niveles —el del amor divino triturado en el lagar de la Cruz, y la traición de las lealtades humanas—, pero Juan insiste en que esta escena de desamparo manifiesta la gloria de Cristo.
+
+En el capítulo 11, la cruz es el símbolo dado por Dios que nos interpreta a nosotros, no nosotros a él. La reverencia por las heridas de Cristo definió la sensibilidad cristiana durante siglos: la devoción a las reliquias de la Pasión, el Vía Crucis, el culto al Sagrado Corazón. La Cruz permite asumir la realidad a la vez que afirma la no-definitividad de las heridas, que pueden ser curadas y convertirse en fuentes de sanación.
+
+La Cruz es «a la vez símbolo y memorial de un acontecimiento». Es el emblema de la libertad cristiana: el Hijo de Dios «se despojó a sí mismo» (Flp 2,7). La Pasión de Cristo nos permite lamentarnos sin ira, abriéndonos a la compasión. Las heridas de Cristo, tras su resurrección, «no fueron eliminadas, sino hechas gloriosas». También las heridas del mundo pueden serlo.
+
 ### Según Royo Marín (TPCr)
 
 Royo Marín presenta la cruz como el medio principal de la perfección cristiana. La aceptación amorosa de la cruz es necesaria para la santidad. No hay santidad sin cruz. La cruz es la prueba del amor y el camino más seguro para alcanzar la unión con Dios.

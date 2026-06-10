@@ -1,7 +1,7 @@
 # Homilía
 
 > Área: Liturgia / Pastoral
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -26,6 +26,10 @@ El canon 767 regula la homilía en cuatro parágrafos:
 *Sacrosanctum Concilium* 35 establece que el sermón es parte de la acción litúrgica, y que las fuentes principales de la predicación serán la Sagrada Escritura y la Liturgia. SC 52 recomienda encarecidamente la homilía como parte de la misma Liturgia, en la cual se exponen durante el ciclo del año litúrgico, a partir de los textos sagrados, los misterios de la fe y las normas de la vida cristiana. En las Misas de domingos y fiestas de precepto con asistencia del pueblo, nunca se omita la homilía si no es por causa grave.
 
 
+### Según León XIV (L_XIV-ClerRom)
+
+León XIV aborda la homilía en el contexto de la inteligencia artificial. Exhorta a los sacerdotes a no delegar en la IA la preparación de las homilías, porque la homilía no es una producción textual sino un acto de «compartir la fe». El Papa subraya que «la IA nunca podrá compartir la fe». La homilía auténtica requiere el ejercicio de la propia inteligencia —«el cerebro necesita ser utilizado»— y, sobre todo, una vida de oración que permita al sacerdote ofrecer «algo que no es nuestro». La homilía debe ser «inculturada» en el lugar y la comunidad concreta donde se sirve, pues «la gente quiere ver su fe, su experiencia de haber conocido y amado a Jesucristo y su Evangelio» [L_XIV-ClerRom, 19.02.2026].
+
 ## Relaciones doctrinales
 
 Se relaciona con la [[predicación]], el [[ministerio_de_la_palabra]], la [[liturgia_eucarística]], la [[catequesis]] y la [[sagrada_escritura]].
@@ -37,3 +41,4 @@ Se relaciona con la [[predicación]], el [[ministerio_de_la_palabra]], la [[litu
 ## Referencias
 
 - [CIC c. 767]
+- [L_XIV-ClerRom, 19.02.2026]

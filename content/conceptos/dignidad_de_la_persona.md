@@ -13,9 +13,9 @@ La doctrina católica sobre la dignidad de la persona se fundamenta en la creaci
 
 ## Perspectivas por fuente
 
-### Según el Capítulo General LC-2026
+### Según el Capítulo General CapGral-2026
 
-El Capítulo General de 2026, en el marco de «Proteger y sanar», afirma que la atención a las víctimas y la búsqueda de la justicia deben respetar la dignidad de todas las personas implicadas. Reconoce que el deseo de transparencia no siempre supo armonizarse con la presunción de inocencia y la buena fama de los acusados, señalando la necesidad de armonizar la protección de los vulnerables con el respeto a la dignidad de cada persona [LC-2026, n. 142-143].
+El Capítulo General de 2026, en el marco de «Proteger y sanar», afirma que la atención a las víctimas y la búsqueda de la justicia deben respetar la dignidad de todas las personas implicadas. Reconoce que el deseo de transparencia no siempre supo armonizarse con la presunción de inocencia y la buena fama de los acusados, señalando la necesidad de armonizar la protección de los vulnerables con el respeto a la dignidad de cada persona [CapGral-2026, n. 142-143].
 
 ## Distinciones importantes
 
@@ -40,5 +40,5 @@ Se relaciona con [[dignidad_humana]], [[persona_humana]], [[imagen_de_dios]], [[
 ## Referencias
 
 - [ConcVatII, *Gaudium et Spes* 12-22]
-- [LC-2026, n. 142-143]
+- [CapGral-2026, n. 142-143]
 - [CIC, c. 220 (buena fama)]

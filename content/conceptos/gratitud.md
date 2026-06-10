@@ -46,7 +46,12 @@ La gratitud se relaciona con la [[virtud_de_la_justicia]] (dar a cada uno lo deb
 
 [[virtud_de_la_justicia]], [[oración]], [[eucaristía]], [[piedad]], [[humildad]], [[acciones_de_gracias]]
 
+### Según León XIV (L_XIV-ClerRom)
+
+León XIV presenta la gratitud como la actitud fundamental de la vida sacerdotal: «empezando por la gratitud por haber sido llamados a ser sacerdotes. Muchas veces olvidamos lo grande que es nuestra vocación». Invita a vivir con un espíritu de gratitud desde el primer día del sacerdocio porque ese espíritu sostiene al presbítero incluso en la ancianidad, la enfermedad y la soledad. El contraste es revelador: quienes viven con amargura desde jóvenes difícilmente encuentran consuelo al final; quienes viven con gratitud saben aceptar la cruz cuando llega, porque «lo hace con el mismo espíritu de oración y sacrificio que quiso tener el día de su ordenación sacerdotal». La gratitud es presentada como el fundamento para dar testimonio del valor de la vida frente a la cultura de la muerte: «debemos ser los primeros testigos de que la vida tiene un gran valor» [L_XIV-ClerRom, 19.02.2026].
+
 ## Referencias
 
 - [CEC §1418; §2215; §2220; §2637-2638]
 - [TPCr, Tercera Parte, Libro II, Cap. 2]
+- [L_XIV-ClerRom, 19.02.2026]

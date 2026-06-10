@@ -13,9 +13,9 @@ La tradición espiritual católica ha subrayado la primacía de la escucha en la
 
 ## Perspectivas por fuente
 
-### Según el Capítulo General LC-2026
+### Según el Capítulo General CapGral-2026
 
-El Capítulo General de 2026 destaca la escucha como actitud esencial del discernimiento, citando al papa León XIV: «humildad para escuchar, libertad interior para expresarse con sinceridad y apertura para aceptar el discernimiento conjunto» [LC-2026, Discurso del Santo Padre, n. 11]. La conversación en el Espíritu se basa en la escucha desarmada y la capacidad de reconocer la voz de Dios a través del hermano.
+El Capítulo General de 2026 destaca la escucha como actitud esencial del discernimiento, citando al papa León XIV: «humildad para escuchar, libertad interior para expresarse con sinceridad y apertura para aceptar el discernimiento conjunto» [CapGral-2026, Discurso del Santo Padre, n. 11]. La conversación en el Espíritu se basa en la escucha desarmada y la capacidad de reconocer la voz de Dios a través del hermano.
 
 ### Según Vos estis lux mundi (VELM)
 
@@ -47,6 +47,6 @@ Se relaciona con [[conversación_en_el_espíritu]], [[discernimiento]], [[discer
 
 ## Referencias
 
-- [LC-2026, Discurso del Santo Padre León XIV, n. 11]
-- [LC-2026, Documento temático, n. 16]
+- [CapGral-2026, Discurso del Santo Padre León XIV, n. 11]
+- [CapGral-2026, Documento temático, n. 16]
 - [Sínodo 2021-2024, *Instrumentum laboris*]

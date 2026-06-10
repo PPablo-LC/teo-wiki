@@ -24,6 +24,13 @@ El Decreto *Ad Gentes* §1-6 desarrolla los principios doctrinales de la misión
 
 Royo Marín, al tratar el apostolado, lo sitúa como exigencia de la [[caridad]] y de la incorporación a Cristo. El apostolado es participación en la misión salvífica de la Iglesia. Todo cristiano está llamado a cooperar en la extensión del Reino de Dios según su estado y condición. La perfección cristiana incluye necesariamente la dimensión apostólica.
 
+### Según Ensayo-instituyo-a-los-doce (RC-Inst_12)
+
+El ensayo profundiza la misión desde la perspectiva del envío constitutivo de la comunidad cristiana. La misión no es una actividad que la comunidad decide emprender, sino que pertenece a su esencia: la comunidad es convocada por Cristo para ser enviada. «La comunidad creada por Jesús tiene un carácter misionero. El grupo es en sí mismo un signo cuya sola existencia está proclamando el Reino» [RC-Inst_12, Parte I, §II, «Instituyó Doce»].
+
+El envío apostólico tiene su fundamento en la misión de Cristo mismo, «el Apóstol del Padre», y se prolonga en la comunidad. Los apóstoles predican la conversión, expulsan demonios y curan enfermos: «estos tres elementos constitutivos de la misión de Jesús manifiestan la llegada del Reino, y ahora los apóstoles los realizan también» [RC-Inst_12, Parte I, §II, «Para enviarlos a predicar»].
+
+La comunidad es enviada a hacer discípulos a todos los pueblos (Mt 28,19), pero también a ser testigo del Reino a través de la fraternidad y el servicio. La comunión fraterna es en sí misma apostólica: «Que sean uno en nosotros para que el mundo crea» (Jn 17,21) [RC-Inst_12, Parte II, §II, Comunidades evangelizadoras].
 
 ## Distinciones importantes
 

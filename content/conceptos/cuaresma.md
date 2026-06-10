@@ -25,6 +25,10 @@ Los cc. 1249-1251 establecen los días de penitencia obligatoria: todos los vier
 
 La Constitución Sacrosanctum Concilium §109-110 prescribe que la Cuaresma debe tener un carácter bautismal y penitencial: se prepare a los fieles con la escucha más frecuente de la Palabra de Dios y con la oración.
 
+### Según León XIV (L_XIV-ClerRom)
+
+León XIV se dirige al clero romano «al inicio de este camino cuaresmal», subrayando que la Cuaresma «no es un acto de penitencia: es, al menos para mí, una gran alegría». La Cuaresma es presentada como tiempo para «reavivar el don de Dios» (2 Tim 1,6), donde el fuego de la fe necesita ser alimentado ante el cansancio, la rutina y la indiferencia. El Papa concluye su discurso deseando «un buen camino cuaresmal, que es tiempo de conversión y de alegría para todos», vinculando la Cuaresma no solo a la penitencia sino también al gozo de la renovación espiritual y de la fraternidad presbiteral [L_XIV-ClerRom, 19.02.2026].
+
 ## Relaciones doctrinales
 
 La Cuaresma es camino hacia el [[triduo_pascual]] y culmina en la celebración de la [[pascua]]. Su práctica penitencial se ordena a la [[conversión]] y al sacramento de la [[penitencia]].

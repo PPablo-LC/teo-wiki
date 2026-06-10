@@ -13,9 +13,9 @@ La Federación fue establecida como parte de la reestructuración aprobada por l
 
 ## Perspectivas por fuente
 
-### Según el Capítulo General LC-2026
+### Según el Capítulo General CapGral-2026
 
-El V Capítulo General de la Legión de Cristo (2026) confirmó el camino de la Federación como expresión de la unidad del carisma en diversas vocaciones. La Federación integra a [[cristianos_laicos]], consagrados y consagradas, y religiosos legionarios, manteniendo la autonomía jurídica de cada rama pero bajo una misma cabeza y un mismo carisma. El Capítulo General de la Legión tiene autoridad sobre las Constituciones de la Legión como miembro constitutivo de la Federación [LC-2026].
+El V Capítulo General de la Legión de Cristo (2026) confirmó el camino de la Federación como expresión de la unidad del carisma en diversas vocaciones. La Federación integra a [[cristianos_laicos]], consagrados y consagradas, y religiosos legionarios, manteniendo la autonomía jurídica de cada rama pero bajo una misma cabeza y un mismo carisma. El Capítulo General de la Legión tiene autoridad sobre las Constituciones de la Legión como miembro constitutivo de la Federación [CapGral-2026].
 
 ## Relaciones doctrinales
 
@@ -28,4 +28,4 @@ La Federación expresa la comunión entre [[vida_consagrada]] y [[cristianos_lai
 ## Referencias
 
 - CLC-2020 7
-- [LC-2026, nn. 119-126]
+- [CapGral-2026, nn. 119-126]

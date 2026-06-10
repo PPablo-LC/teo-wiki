@@ -1,7 +1,7 @@
 # Ancianos
 
 > Área: Moral / Doctrina Social
-> Última actualización: 2026-05-25
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -25,6 +25,11 @@ Se relaciona con [[familia]], [[solidaridad]], [[dignidad_humana]]
 
 [[familia]], [[solidaridad]], [[dignidad_humana]]
 
+### Según León XIV (L_XIV-ClerRom)
+
+León XIV dedica una atención particular a los presbíteros ancianos, abordando su soledad, enfermedad y el sentido de su ministerio en esa etapa. Reconoce que «muchos sienten soledad después de una vida totalmente dedicada al Evangelio y a la Iglesia: después de tanta gente, tanta soledad». El Papa ofrece tres claves: primero, la gratitud vivida durante toda la vida prepara para aceptar la vejez y la enfermedad con espíritu de oración; segundo, los sacerdotes mayores tienen un ministerio propio —«aunque estén enfermos en cama, si han vivido una vida verdaderamente de servicio y sacrificio, saben muy bien que su oración también puede ser un gran servicio, un gran don»—; tercero, exhorta a los sacerdotes más jóvenes a la cercanía activa: «seguramente todos conocemos a algún anciano, algún enfermo, sacerdote... Llámemoslos, vayamos a visitarlos». Advierte contra la tentación de delegar completamente en los laicos la visita a los enfermos, pues «eso no significa que el sacerdote pueda quedarse en casa viendo internet, mientras los demás están visitando» [L_XIV-ClerRom, 19.02.2026].
+
 ## Referencias
 
 - [CompDS §222]
+- [L_XIV-ClerRom, 19.02.2026]

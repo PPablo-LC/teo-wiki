@@ -27,7 +27,7 @@ El CEC §897-913 describe la vocación de los laicos a la santidad en medio del 
 
 **Lumen Gentium §34:** Todas las obras, oraciones, iniciativas apostólicas, la vida conyugal y familiar, el trabajo cotidiano, el descanso y las pruebas de la vida, si son hechos en el Espíritu, se convierten en «sacrificios espirituales, aceptables a Dios por Jesucristo».
 
-### Según el V Capítulo General LC-2026 (LC-2026)
+### Según el V Capítulo General CapGral-2026 (CapGral-2026)
 
 El Capítulo General de los Legionarios de Cristo (2026) reconoce y valora explícitamente la espiritualidad de los laicos consagrados y miembros laicos del Regnum Christi. Destaca «el don de su consagración laical, su proximidad a las personas en las realidades concretas de la vida, su misión de promover y custodiar la comunión» como «signo elocuente de que el Reino de Cristo se hace presente en quien ama con gratuidad» (Mensajes, n.133). Subraya que los laicos consagrados tienen «una gracia insustituible» en la familia espiritual del Regnum Christi (Mensajes, n.151), y que la formación de apóstoles supone «suscitar fieles que asuman su vocación bautismal con responsabilidad y liderazgo» (Comunicados temáticos, n.48), invitándolos a participar activamente en la misión desde sus ambientes y realidades concretas.
 
@@ -58,4 +58,4 @@ Se relaciona con la [[teología_del_laicado]], el [[apostolado_seglar]], la [[sa
 - [ConcVatII, LG §30-38, §40]
 - [ConcVatII, AA §2-4]
 - [CEC §897-913, §940-943]
-- [LC-2026, Mensajes, n.133, 151; Comunicados temáticos, n.48]
+- [CapGral-2026, Mensajes, n.133, 151; Comunicados temáticos, n.48]

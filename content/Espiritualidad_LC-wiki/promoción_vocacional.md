@@ -17,18 +17,18 @@ El V Capítulo General ordinario de la Legión de Cristo (2026) ha presentado un
 
 ## Perspectivas por fuente
 
-### Según el Capítulo General LC-2026
+### Según el Capítulo General CapGral-2026
 
-**La llamada de Jesús resuena hoy.** Aunque la cultura actual exalte la autonomía individual, los jóvenes siguen sedientos de trascendencia. El concepto «vocación» debe ser anunciado como lo que realmente es: un designio personal de amor de Dios para cada persona concreta [LC-2026, n. 100].
+**La llamada de Jesús resuena hoy.** Aunque la cultura actual exalte la autonomía individual, los jóvenes siguen sedientos de trascendencia. El concepto «vocación» debe ser anunciado como lo que realmente es: un designio personal de amor de Dios para cada persona concreta [CapGral-2026, n. 100].
 
-**Cambio de paradigma.** El Capítulo reconoce que el contexto sociocultural ha cambiado: los procesos de discernimiento son más complejos, los jóvenes tienen dificultades para comprometerse, la fe en las familias ha disminuido y la secularización avanza. Se propone pasar [LC-2026, n. 101]:
+**Cambio de paradigma.** El Capítulo reconoce que el contexto sociocultural ha cambiado: los procesos de discernimiento son más complejos, los jóvenes tienen dificultades para comprometerse, la fe en las familias ha disminuido y la secularización avanza. Se propone pasar [CapGral-2026, n. 101]:
 - de una «pastoral de la emergencia» a una expresión estable de la maternidad de la Iglesia;
 - de una promoción centrada en ciertos perfiles a una propuesta amplia para todos;
 - de la lógica del reclutamiento a un acompañamiento respetuoso;
 - de iniciativas aisladas a una acción coral sostenida por toda la comunidad eclesial;
 - del cansancio a un renovado impulso creativo, humilde y valiente.
 
-**Principios.** La respuesta actual al desafío vocacional se sostiene sobre estos principios [LC-2026, Comunicado temático «Una renovada visión vocacional», n. 8]:
+**Principios.** La respuesta actual al desafío vocacional se sostiene sobre estos principios [CapGral-2026, Comunicado temático «Una renovada visión vocacional», n. 8]:
 - Primacía de la gracia: toda vocación nace del Corazón de Dios; el Espíritu Santo es el principal agente vocacional.
 - Testimonio de santidad de vida y lógica de la atracción: una vida entregada y coherente se convierte en anuncio silencioso que mueve el corazón.
 - La persona al centro: cada joven es único, acompañado desde su realidad concreta.
@@ -38,11 +38,11 @@ El V Capítulo General ordinario de la Legión de Cristo (2026) ha presentado un
 - Amor por el Regnum Christi y la Iglesia.
 - Lección de la historia institucional.
 
-**Ambientes vocacionales.** La vocación germina naturalmente en ambientes donde se vive la amistad con Cristo [LC-2026, n. 9]: la familia (semillero de la fe), los colegios y universidades, el ECYD y el Regnum Christi (especialmente los Cursillos de verano y el programa de Colaboradores), los centros vocacionales, las parroquias y capellanías, los apostolados vocacionales propios y el mundo digital.
+**Ambientes vocacionales.** La vocación germina naturalmente en ambientes donde se vive la amistad con Cristo [CapGral-2026, n. 9]: la familia (semillero de la fe), los colegios y universidades, el ECYD y el Regnum Christi (especialmente los Cursillos de verano y el programa de Colaboradores), los centros vocacionales, las parroquias y capellanías, los apostolados vocacionales propios y el mundo digital.
 
-**Agentes.** El anuncio vocacional es una tarea compartida que involucra a todos [LC-2026, n. 10]: cada legionario (desde su sacerdocio y entrega, es padre de vocaciones), las comunidades legionarias vibrantes (espacios abiertos donde el carisma se vive con autenticidad), los legionarios en pastoral juvenil y familiar, los promotores por mística, los laicos, y el promotor vocacional a tiempo completo.
+**Agentes.** El anuncio vocacional es una tarea compartida que involucra a todos [CapGral-2026, n. 10]: cada legionario (desde su sacerdocio y entrega, es padre de vocaciones), las comunidades legionarias vibrantes (espacios abiertos donde el carisma se vive con autenticidad), los legionarios en pastoral juvenil y familiar, los promotores por mística, los laicos, y el promotor vocacional a tiempo completo.
 
-**Medios.** La acción vocacional se nutre de la oración y adoración por las vocaciones, la predicación del «Evangelio de la vocación», los talleres de oración y ejercicios espirituales, la dirección espiritual, las visitas a centros formativos (especialmente Roma), las convivencias vocacionales y las experiencias de gran entrega y generosidad [LC-2026, n. 11].
+**Medios.** La acción vocacional se nutre de la oración y adoración por las vocaciones, la predicación del «Evangelio de la vocación», los talleres de oración y ejercicios espirituales, la dirección espiritual, las visitas a centros formativos (especialmente Roma), las convivencias vocacionales y las experiencias de gran entrega y generosidad [CapGral-2026, n. 11].
 
 ## Distinciones importantes
 
@@ -61,5 +61,5 @@ Se relaciona con [[formación_legionaria]], [[formación]], [[vocación]], [[dis
 
 ## Referencias
 
-- [LC-2026, n. 99-103]
-- [LC-2026, Comunicado temático «Una renovada visión vocacional», n. 1-16]
+- [CapGral-2026, n. 99-103]
+- [CapGral-2026, Comunicado temático «Una renovada visión vocacional», n. 1-16]

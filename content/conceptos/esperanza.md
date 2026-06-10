@@ -1,7 +1,7 @@
 # Esperanza
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-06-08
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -64,6 +64,14 @@ La esperanza cristiana confiere una fuerte determinación al compromiso en campo
 **a.1 — Se dan preceptos sobre la esperanza:** Los mandamientos sobre la esperanza son preámbulos de la ley, pues sin esperanza del premio el hombre no observaría los preceptos. Se propusieron a modo de promesa en la ley, pero en la Escritura ulterior aparecen también como amonestaciones y preceptos.
 
 **a.2 — Se dan preceptos sobre el temor:** El temor servil se induce mediante las amenazas de pena en la ley. El temor filial, como género de amor de Dios, se prescribe en preceptos que son principios comunes de toda la ley.
+
+### Según los Ejercicios Espirituales 2026 a la Curia Romana (EjEsp2026)
+
+Mons. Erik Varden dedica la meditación final (capítulo 11) a comunicar la [[esperanza]] cristiana en un tiempo marcado por el dolor sordo de los jóvenes y la desorientación cultural. La esperanza cristiana no es optimismo ingenuo, sino la certeza de que Cristo crucificado y resucitado es el futuro del género humano.
+
+Varden diagnostica cuatro falacias que la Cruz desmantela: la falacia política de la perfectibilidad humana; la falacia antropológica que divide vidas «dignas» e «indignas»; la falacia cultural que atribuye a las heridas un poder determinista; y la falacia psicológica que se rinde a la desesperanza. La respuesta es la Pasión de Cristo, que permite lamentarse sin ira y abre a la [[compasión]].
+
+Retoma a San Bernardo: «la gloria se esconde ahora en la tribulación; la eternidad se esconde en el tiempo». La esperanza se funda en la Benevolencia transformadora que ha saturado el sufrimiento humano hasta las profundidades del infierno, de modo que ninguna desolación es definitiva.
 
 ### Según Juan Pablo II (JPII-JovCh)
 

@@ -22,6 +22,14 @@ De Lubac presenta la fe como rendición del espíritu («surrender») que no abd
 
 La ortodoxia es «lo más necesario y lo menos suficiente» [PoF, cap. 15]: es necesaria porque sin ella la fe se disuelve, pero insuficiente porque la realidad de Dios desborda siempre nuestras formulaciones. La crítica de la fe debe hacerse desde dentro de la fe y en nombre de la fe; «cualquier crítica que procediera de una pretendida sobrevolación entre la incredulidad y la fe» sería falsedad [PoF, cap. 15]. La fe auténtica rechaza la hipocresía y la imitación fraudulenta, y por sí misma se purifica y se levanta de nuevo [PoF, cap. 15].
 
+### Según la Nota doctrinal «Cor ad cor loquitur» (NotaEmocionesFe)
+
+La fe implica a toda la existencia humana, pues es la entrega del hombre «entero» a Dios como respuesta obediente y libre a la revelación (Rom 1,5; 16,26) [n. 1]. Junto a los aspectos fiduciales (confianza en Dios) se dan en la fe elementos cognoscitivos (adhesión a Dios, confesión de fe) y también emociones y sentimientos (gozo espiritual, amor o paz, entre otros) [n. 1]. Dios toma la iniciativa y adelanta su gracia para que, con el auxilio interior del Espíritu Santo, el corazón del ser humano se oriente hacia Dios (n. 1; cf. DV 5).
+
+La fe no se reduce al asentimiento teórico a determinados dogmas, sino que es un acto por el que toda la persona se entrega libremente a Dios, que se nos revela y se nos entrega en Cristo (n. 24; cf. CEC §170). No se comienza a ser cristiano por una decisión ética o una gran idea, sino por el encuentro con una Persona (n. 24; cf. Deus caritas est 1). El encuentro con Cristo conlleva la aceptación de la verdad de su persona y su mensaje: no hay encuentro sin profesión de fe (n. 27).
+
+La vivencia emocional de la fe se ha de asentar en la verdad objetiva del kerigma, cuyo contenido se encuentra en la Palabra de Dios transmitida e interpretada por la Iglesia (n. 28). Esto invita a apostar por una formación integral y continua que incluya todas las dimensiones de la persona (intelectual, afectiva, relacional y espiritual) (n. 28).
+
 ### Según Juan Pablo II (JPII-JovCh)
 
 Juan Pablo II llama a los jóvenes a estar «animados por la fe en el Señor a dar razón de vuestra esperanza» (cf. 1 Pe 3,15) [JPII-JovCh]. La fe es presentada no como un conjunto de doctrinas abstractas sino como experiencia viva de Cristo: «experiencia de fe, experiencia de Cristo vivo» [JPII-JovCh]. El acto de fe consiste en mirar a Cristo, descubrir en Él el Rostro mismo de Dios, apostar siempre por la gracia y por la vida [JPII-JovCh].
@@ -71,3 +79,4 @@ Ver artículo principal: [[virtud_de_la_fe]]
 - CEC §1814-1816
 - TPCr, Tercera Parte, Libro I, Cap. II
 - [CompDS §577]
+- [NotaEmocionesFe, nn. 1, 24, 27-28]

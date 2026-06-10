@@ -23,6 +23,12 @@ La santidad no consiste en la realización de obras extraordinarias, sino en la 
 
 Royo Marín expone extensamente la doctrina de la vocación universal a la santidad, citando el Concilio Vaticano II (TPCr, Segunda Parte, Cap. II). "Es, pues, completamente claro que todos los fieles, de cualquier estado o condición, están llamados a la plenitud de la vida cristiana y a la perfección de la caridad" (citando LG 40). Sin embargo, distingue entre el llamamiento remoto y suficiente (para todos) y la predestinación próxima y eficaz (TPCr, Segunda Parte, Cap. II). El grado de santidad a que cada uno llegue depende de su fidelidad a la gracia y de la generosidad en la correspondencia al llamamiento divino.
 
+### Según los Ejercicios Espirituales 2026 a la Curia Romana (EjEsp2026)
+
+Mons. Erik Varden recoge la llamada universal a la santidad en el capítulo 5, calificándola como «la nota más fuerte que tocó el Concilio Vaticano II», que «resonó espléndidamente como un gong a lo largo de sus deliberaciones». La pretensión cristiana de la verdad se vuelve convincente cuando su esplendor se hace personalmente evidente con amor sacrificial en la santidad.
+
+Cita al Cardenal Schuster en su lecho de muerte: «Parece que la gente ya no se deja convencer por nuestra predicación, pero ante la presencia de la santidad, todavía creen, todavía se arrodillan y rezan». La santidad es la forma más eficaz de comunicar la verdad del Evangelio.
+
 ## Distinciones importantes
 
 - Llamamiento remoto y suficiente: para todos los bautizados, mediante la gracia suficiente

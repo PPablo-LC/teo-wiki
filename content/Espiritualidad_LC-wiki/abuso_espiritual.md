@@ -13,9 +13,9 @@ La reflexión eclesial reciente ha comenzado a prestar atención al abuso espiri
 
 ## Perspectivas por fuente
 
-### Según el Capítulo General LC-2026
+### Según el Capítulo General CapGral-2026
 
-El V Capítulo General de la Legión de Cristo (2026) aborda el abuso espiritual en su documento temático sobre autoridad y obediencia [LC-2026, n. 32]. Señala que la propia historia de la Legión hace particularmente sensible a esta realidad y recomienda permanecer atentos a los avances de la Iglesia en esta materia. El Capítulo recomienda al gobierno entrante completar el estudio sobre el abuso de autoridad y el abuso espiritual con revisión canónica y consultas pertinentes, así como desarrollar mecanismos concretos para la atención de estos abusos.
+El V Capítulo General de la Legión de Cristo (2026) aborda el abuso espiritual en su documento temático sobre autoridad y obediencia [CapGral-2026, n. 32]. Señala que la propia historia de la Legión hace particularmente sensible a esta realidad y recomienda permanecer atentos a los avances de la Iglesia en esta materia. El Capítulo recomienda al gobierno entrante completar el estudio sobre el abuso de autoridad y el abuso espiritual con revisión canónica y consultas pertinentes, así como desarrollar mecanismos concretos para la atención de estos abusos.
 
 ## Distinciones importantes
 
@@ -33,5 +33,5 @@ Se relaciona con [[abuso_de_autoridad]], [[autoridad]], [[obediencia]], [[direcc
 
 ## Referencias
 
-- [LC-2026, Documento temático «El ejercicio evangélico de la autoridad y la obediencia», n. 32-33]
+- [CapGral-2026, Documento temático «El ejercicio evangélico de la autoridad y la obediencia», n. 32-33]
 - [Dicasterio para la Doctrina de la Fe, *Falso misticismo y abuso espiritual* (22 de noviembre de 2024)]

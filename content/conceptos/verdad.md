@@ -1,7 +1,7 @@
 # Verdad
 
 > Área: Filosofía / Doctrina Social / Moral
-> Última actualización: 2026-06-05
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -33,6 +33,14 @@ Santo Tomás trata la verdad en SmTh Iª q.16. La verdad está primariamente en 
 
 De Lubac reflexiona sobre la verdad con la agudeza de quien sabe que la inteligencia busca lo verdadero, no lo «inteligente»: «El amor a la verdad requiere atrevimiento» [PoF, cap. 9]. Las palabras se corrompen rápidamente; el pensamiento puede corromper el lenguaje, y el creyente que se aferra a una expresión pasada corre el riesgo de perder la sustancia de la fe: «Quien se atiene a una expresión del pasado, la mayoría de las veces solo conserva una expresión, y la sustancia se le escapa» [PoF, cap. 9]. El progreso del espíritu es renovación, no mera prolongación. La fidelidad es necesariamente creadora [PoF, cap. 9]. El reinado de la verdad puede convertirse en reinado de la hipocresía si la verdad no es vivida desde dentro [PoF, cap. 9].
 
+### Según los Ejercicios Espirituales 2026 a la Curia Romana (EjEsp2026)
+
+Mons. Erik Varden aborda el esplendor de la verdad en el capítulo 5, a partir de la llamada de Cristo a la [[perfección_cristiana]]: «Sed perfectos, como vuestro Padre celestial es perfecto» (Mt 5,48). Esta perfección no consiste en estar libre de fallas, sino en volverse «apto para el propósito»: transformado en amor para ver a los demás como Dios los ve.
+
+Varden, siguiendo a San Bernardo, afirma que la Iglesia debe hablar su propia lengua —la de las Escrituras y la liturgia, la de sus padres y madres, poetas y santos del pasado y del presente— para ser original y fresca, expresando verdades antiguas de formas nuevas. La pretensión cristiana de la verdad se vuelve convincente cuando su esplendor se hace personalmente evidente con amor sacrificial en la [[santidad]], purificada de las tentaciones de contemporizar.
+
+Cita al Cardenal Schuster: «Parece que la gente ya no se deja convencer por nuestra predicación, pero ante la presencia de la santidad, todavía creen, todavía se arrodillan y rezan». La [[llamada_universal_a_la_santidad]] fue «la nota más fuerte que tocó el Concilio Vaticano II».
+
 ### Según la Encíclica Magnífica Humanitas (MH)
 
 León XIV propone la «verdad como bien común» en los §§132-138 de *Magnífica Humanitas*, en el contexto de la desinformación potenciada por la IA. Afirma que la verdad «tiene una dimensión racional, ya que requiere verificación, cotejo de fuentes y responsabilidad argumentativa; pero es aún más relacional: se construye a través de vínculos de confianza y prácticas compartidas» (§132). Advierte que quienes disponen de poder tecnológico pueden «convencer a un número significativo de personas acerca de cuál es la verdad sobre el ser humano, sobre el mundo, sobre el sentido de la existencia» (§133), lo que constituye «puro poder carente de verdad». Cita a Benedicto XVI sobre la «errónea convicción de ser el único autor de sí mismo» como raíz de la crisis de la verdad (§133). Afirma que «el desinterés por la verdad conduce lenta pero inexorablemente hacia el totalitarismo» (§134, citando a Hannah Arendt). Propone una «ecología de la comunicación» que establezca reglas transparentes, fortalezca organismos intermedios y promueva un periodismo serio (§137).
@@ -51,3 +59,4 @@ Se relaciona con [[libertad_humana]], [[justicia]], [[caridad]], [[conciencia_mo
 - [CEC §2464-2487]
 - SmTh Iª q.16 (La verdad)
 - [Juan XXIII, Pacem in Terris]
+- [EjEsp2026, cap. 5: «El esplendor de la Verdad»]

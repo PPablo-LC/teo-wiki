@@ -1,7 +1,7 @@
 # Presbítero
 
 > Área: Sacramental / Eclesiología
-> Última actualización: 2026-05-25
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -29,6 +29,14 @@ El Decreto *Presbyterorum Ordinis* está dedicado al ministerio y vida de los [[
 
 El Pontifical Romano prescribe al presbítero: ofrecer, bendecir, presidir, predicar y bautizar (TPCr, Tercera Parte, Libro III). El sacerdote debe vivir para su misa y de su misa, pues la celebración del santo sacrificio es su función primaria (TPCr, Tercera Parte, Libro III). La espiritualidad sacerdotal es específica y distinta de la religiosa (TPCr, Tercera Parte, Libro III). Los presbíteros con los obispos forman la jerarquía de orden en la Iglesia (TPCr, Tercera Parte, Libro II, cap. I).
 
+### Según León XIV (DC-Convivium)
+
+León XIV llama a los presbíteros a ser «varones configurados con Cristo», cuyo ministerio se sostiene desde una relación viva con Él nutrida por la Eucaristía. El presbítero debe ser *alter Christus*, no definido por la multiplicación de tareas o la presión de los resultados, sino por el don sincero de sí. Mediante la imagen de la catedral, el Papa describe al presbítero como fachada (visible y remitente a Dios), umbral (separación necesaria por el celibato, pobreza y obediencia), columna (fundado en la Tradición apostólica y el Magisterio), y ministro del altar y el sagrario. Su vida está llamada a ser «visible, coherente y reconocible» [DC-Convivium, 09.02.2026].
+
+### Según León XIV (L_XIV-ClerRom)
+
+En su diálogo con los presbíteros romanos, León XIV desarrolla la identidad del presbítero como amigo de Jesús que ofrece testimonio de una vida transformada por esa amistad. El sacerdote joven puede ofrecer a los jóvenes «un modelo de vida, que ser amigo de Jesús realmente puede llenar sus vidas», pero para ello debe vivir él mismo esa amistad. El Papa exhorta a los presbíteros a la fidelidad cotidiana en la relación con el Señor y a trabajar con entusiasmo «aun cuando ahora no vean los frutos del apostolado». Les advierte contra el riesgo de agotar las energías, acumular frustración y caer en la soledad, invitándolos a no encerrarse nunca en sí mismos y a confrontarse con hermanos de confianza. Subraya la importancia del estudio permanente —«el estudio en nuestra vida debe ser permanente, continuo»— y de la vida de oración como raíz de todo el ministerio [L_XIV-ClerRom, 19.02.2026].
+
 ## Distinciones importantes
 
 - Presbítero (sacerdote de segundo grado) vs. obispo (plenitud del sacerdocio)
@@ -47,3 +55,5 @@ El Pontifical Romano prescribe al presbítero: ofrecer, bendecir, presidir, pred
 - CEC §875, §1411, §1461-1462, §1516
 - TPCr, Tercera Parte, Libro III
 - CIC cc. 273, 276-289
+- [DC-Convivium, 09.02.2026]
+- [L_XIV-ClerRom, 19.02.2026]

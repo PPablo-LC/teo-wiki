@@ -40,6 +40,14 @@ Santo Tomás trata la tentación del demonio en la Iª q.114 (sobre la insidia d
 **Milagros aparentes de los demonios (q.114 a.4):** Los demonios no pueden hacer verdaderos milagros (que sobrepasan el orden de toda la naturaleza creada), pero pueden hacer cosas que admiran a los hombres sobrepasando su poder y conocimiento. Pueden realizar cambios corporales utilizando gérmenes naturales (como las serpientes de los magos de Faraón) o alterando la imaginación y los sentidos humanos.
 
 **Insistencia de los demonios (q.114 a.5):** Los demonios no siempre insisten en tentar después de ser vencidos. A veces se retiran por permisión divina o por temor a ser nuevamente derrotados, pero pueden volver más tarde (como el demonio que «volverá a su casa» de Mt 12,44).
+### Según los Ejercicios Espirituales 2026 a la Curia Romana (EjEsp2026)
+
+Mons. Erik Varden retoma la enseñanza de San Bernardo sobre la tentación en los capítulos 1 y 5: «Os advierto: nadie vive en la tierra sin tentación; si alguien se ve aliviado de una, que espere con seguridad otra». Debemos cultivar el justo equilibrio entre la confianza en la ayuda de Dios y la desconfianza hacia nuestra fragilidad, temiendo las tentaciones mientras aceptamos su inevitabilidad.
+
+Dios nos somete a las tentaciones porque son útiles: al resistir las flechas del Padre de la Mentira, nuestro compromiso con la verdad se fortalece. Habiéndonos apartado de la falsedad que debilita, estamos en forma para fortalecer a nuestros hermanos.
+
+La tentación de Cristo en el desierto (capítulo 8) es el marco desde el cual Satanás cita el Salmo 90 para desafiar a Jesús: «A sus ángeles te encomendará». Bernardo distingue entre la «izquierda» (naturaleza carnal) y la «derecha» (naturaleza espiritual): las bajas son más numerosas a la derecha porque es allí donde se usan las armas más letales en el campo de batalla espiritual.
+
 ### Según Royo Marín (TPCr)
 
 Royo Marín enseña que la tentación vencida es fuente de grandes méritos. Dios nunca permite ser tentados sobre nuestras fuerzas (1 Cor 10,13). La tentación declarada al director espiritual está ya medio vencida.

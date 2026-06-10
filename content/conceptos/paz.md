@@ -17,6 +17,14 @@ La paz cristiana no es mera ausencia de conflicto, sino fruto de la justicia y p
 
 El Catecismo enseña que Jesucristo es «nuestra paz» (Ef 2,14) y que por la sangre de su cruz «dio muerte al odio en su carne» (§2305). La paz terrenal es imagen y fruto de la paz de Cristo. La paz del mundo depende en buena medida de la solidaridad internacional (§1941). El perdón es condición fundamental de la reconciliación y «da testimonio de que, en nuestro mundo, el amor es más fuerte que el pecado» (§2844).
 
+### Según los Ejercicios Espirituales 2026 a la Curia Romana (EjEsp2026)
+
+Mons. Erik Varden aborda la paz cristiana en el capítulo 1 de los ejercicios. La paz que Cristo da —«que el mundo no puede dar» (Jn 14,27)— es el sello distintivo de la sinceridad cristiana. Varden insiste en que la paz cristiana no es una promesa de comodidad, sino la condición para una sociedad transformada.
+
+Frente a la instrumentalización del Evangelio en las guerras culturales, la Iglesia debe articular la radicalidad de la paz cristiana, enseñando los términos del auténtico [[combate_espiritual]]. La paz cuaresmal no resta nada a la llamada a combatir los vicios y las pasiones nocivas: su lenguaje es «Sí, sí», «No, no». La Iglesia ofrece al comenzar la batalla de cada Cuaresma una melodía pacífica —el Tracto gregoriano del Salmo 90 (*Qui habitat*)— como banda sonora para este tiempo litúrgico.
+
+Citando a San Juan Clímaco: «No hay mayor obstáculo para la presencia del Espíritu en nosotros que la [[ira]]».
+
 ### Según el Compendio (CompDS)
 
 La Iglesia está convencida de que de la herencia común de las enseñanzas sociales derivan estímulos para una colaboración cada vez más estrecha en la promoción de la justicia y de la paz [CompDS §12]. El Compendio propone un [[humanismo_integral]] y solidario fundado en la dignidad y la libertad de toda [[persona_humana]], que se actúa en la paz, la [[justicia_social]] y la [[solidaridad]] [CompDS §19].

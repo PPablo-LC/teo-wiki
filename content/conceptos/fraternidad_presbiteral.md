@@ -1,0 +1,43 @@
+# Fraternidad presbiteral
+
+> Área: Eclesiología / Espiritualidad sacerdotal
+> Última actualización: 2026-06-10
+
+## Definición
+
+Vínculo de comunión entre los presbíteros de una diócesis que, bajo la autoridad del obispo, forman un único presbiterio. Es expresión de la [[caridad_pastoral]] vivida como experiencia de saberse en casa, responsables unos de otros, atentos a la vida del hermano y dispuestos al sostén mutuo.
+
+## Desarrollo doctrinal
+
+La fraternidad presbiteral hunde sus raíces en el sacramento del Orden, que incorpora a los presbíteros al único presbiterio de la diócesis presidido por el obispo. León XIV, en su carta a los sacerdotes de Madrid con motivo del Convivium, la desarrolla mediante la imagen de la catedral como hogar común donde todos tienen lugar y donde nadie debería sentirse expuesto o solo en el ejercicio del ministerio.
+
+## Perspectivas por fuente
+
+### Según León XIV (DC-Convivium)
+
+El Papa describe la fraternidad presbiteral como «la experiencia concreta de saberse en casa, responsables unos de otros, atentos a la vida del hermano y dispuestos a sostenernos mutuamente». Mediante la imagen de la catedral como hogar común, subraya que la Iglesia está llamada a ser «una casa que acoge, que protege y que no abandona» especialmente para con sus sacerdotes. Exhorta a resistir unidos al individualismo: «¡resistid juntos al individualismo que empobrece el corazón y debilita la misión!» [DC-Convivium, 09.02.2026].
+
+### Según León XIV (L_XIV-ClerRom)
+
+En su diálogo con el clero romano, León XIV aborda la fraternidad presbiteral con gran concreción. Dedica una atención especial a la *invidia clericalis*, que describe como una de las «pandemias del clero a nivel universal»: la tristeza y el resentimiento cuando un hermano es llamado a una parroquia más grande, a un puesto de mayor responsabilidad, rompiendo relaciones, generando «chismes, críticas, comentarios». Advierte que la indiferencia es peor que la enemistad abierta: «no sé qué es peor: si ser enemigo o ser indiferente hacia el otro».
+
+Como antídoto, propone la iniciativa personal para crear vínculos: «no tengamos miedo de llamar a la puerta del otro, de tomar la iniciativa». Narra el ejemplo de un grupo de sacerdotes de Chicago que desde su ordenación pactaron reunirse mensualmente para orar, estudiar y compartir la vida, manteniendo el encuentro hasta la ancianidad. Recomienda el estudio permanente como contenido de estos encuentros: «cuando escucho a alguien decirme —'no he vuelto a abrir un libro desde que salí del seminario'— ¡qué tristeza! Y qué triste es para sus fieles». Subraya que estos encuentros deben ser presenciales: «no a través de una pantalla... también puede tener su valor, pero en persona» [L_XIV-ClerRom, 19.02.2026].
+
+## Distinciones importantes
+
+- Fraternidad presbiteral vs. simple compañerismo: la fraternidad se funda en el sacramento del Orden y en la misión compartida
+- La fraternidad no es uniformidad: las diversas capillas y carismas particulares están todos orientados al mismo centro
+- Se opone al individualismo sacerdotal, que el Papa identifica como empobrecimiento del corazón y debilitamiento de la misión
+
+## Relaciones doctrinales
+
+Se relaciona con [[presbítero]], [[presbiterio]], [[caridad_pastoral]], [[obispo]], [[colegio_apostólico]], [[unidad_de_la_iglesia]].
+
+## Ver también
+
+[[presbítero]], [[caridad_pastoral]], [[presbiterio]], [[obispo]], [[iglesia]]
+
+## Referencias
+
+- [DC-Convivium, 09.02.2026]
+- [L_XIV-ClerRom, 19.02.2026]

@@ -21,9 +21,9 @@ En la vida de Jesús, impuso las manos a los niños como signo de bendición, co
 
 En la Iglesia naciente, la imposición de manos transmite dones divinos, principalmente el don del Espíritu Santo. Pedro y Juan la usaron para confirmar a los samaritanos; Pablo para comunicar el Espíritu a los efesios. Es signo visible portador de una potente realidad divina. Finalmente, transmite un poder espiritual para funciones precisas: institución de los siete, envío de Pablo y Bernabé, ordenación de Timoteo. La Iglesia continúa imponiendo las manos portando los dones del Espíritu.
 
-### Según el Regnum Christi / Legión de Cristo (LC-CARISMAS-2023)
+### Según el Regnum Christi / Legión de Cristo (RC-Carismas-2023)
 
-El documento «Consideraciones sobre los carismas, la sanación y la vida en el Espíritu» (2023) trata la imposición de manos como gesto de intercesión no sacramental para implorar la unción del Espíritu sobre una persona. Puede servir para pedir la gracia de la sanación (Lc 4,40; Mc 16,18), el envío a la misión (Hch 13,3), la bendición (Mc 10,16) o una efusión particular del Espíritu (Hch 8,17). Se distingue explícitamente de la imposición de manos sacramental del sacerdote en el bautismo o del obispo en la confirmación. Expresa una plegaria para que el Espíritu, ya presente en la persona por la gracia santificante, actúe con fuerza en su vida. Por disposiciones de varias diócesis, se recomienda reservar a los presbíteros la imposición sobre la cabeza, e invitar a los fieles laicos a apoyar la mano en la espalda o el hombro para evitar que parezca un gesto sacramental ligado al Orden [LC-CARISMAS-2023, 3.4.3].
+El documento «Consideraciones sobre los carismas, la sanación y la vida en el Espíritu» (2023) trata la imposición de manos como gesto de intercesión no sacramental para implorar la unción del Espíritu sobre una persona. Puede servir para pedir la gracia de la sanación (Lc 4,40; Mc 16,18), el envío a la misión (Hch 13,3), la bendición (Mc 10,16) o una efusión particular del Espíritu (Hch 8,17). Se distingue explícitamente de la imposición de manos sacramental del sacerdote en el bautismo o del obispo en la confirmación. Expresa una plegaria para que el Espíritu, ya presente en la persona por la gracia santificante, actúe con fuerza en su vida. Por disposiciones de varias diócesis, se recomienda reservar a los presbíteros la imposición sobre la cabeza, e invitar a los fieles laicos a apoyar la mano en la espalda o el hombro para evitar que parezca un gesto sacramental ligado al Orden [RC-Carismas-2023, 3.4.3].
 
 ## Distinciones importantes
 
@@ -41,4 +41,4 @@ El documento «Consideraciones sobre los carismas, la sanación y la vida en el 
 ## Referencias
 
 - VocTeoBib, «Imposición de manos»
-- [LC-CARISMAS-2023, 3.4.3]
+- [RC-Carismas-2023, 3.4.3]

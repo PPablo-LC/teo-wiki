@@ -9,7 +9,7 @@ La militia Christi (milicia de Cristo) es un rasgo característico de la espirit
 
 ## Desarrollo doctrinal
 
-El Capítulo General LC-2026 aborda la militia Christi desde una necesaria fundamentación teológica y carismática, reconociendo que, aunque es un elemento identitario sentido como propio por los legionarios, es percibido con cierta sospecha en algunos ambientes dentro y fuera de la Iglesia debido a determinadas asociaciones conceptuales [LC-2026, n. 58]. Por ello, el Capítulo propone una comprensión evangélica y cristocéntrica de esta militancia.
+El Capítulo General CapGral-2026 aborda la militia Christi desde una necesaria fundamentación teológica y carismática, reconociendo que, aunque es un elemento identitario sentido como propio por los legionarios, es percibido con cierta sospecha en algunos ambientes dentro y fuera de la Iglesia debido a determinadas asociaciones conceptuales [CapGral-2026, n. 58]. Por ello, el Capítulo propone una comprensión evangélica y cristocéntrica de esta militancia.
 
 ## Perspectivas por fuente
 
@@ -27,17 +27,17 @@ La militia Christi se manifiesta en tres dimensiones interrelacionadas:
 
 CVV-2017 vincula la militia Christi con la figura del «buen soldado de Jesucristo» de la tradición paulina (2 Tm 2,3-4), que no se enreda en las cosas del mundo para agradar a quien lo alistó. Esta imagen subraya la radicalidad de la entrega y la total disponibilidad para la misión.
 
-### Según el Capítulo General LC-2026
+### Según el Capítulo General CapGral-2026
 
-**Fundamentación teológica necesaria.** El Capítulo reconoce que «es evidente que una fundamentación teológica y carismática de este rasgo cristiano se hace necesaria» [LC-2026, n. 58]. Esta fundamentación se desarrolla desde la urgencia apostólica de san Pablo: «Caritas Christi urget nos» (2 Co 5,14). La militia Christi expresa «un corazón magnánimo, atento a los signos de los tiempos, firme en la oración y creativo en la evangelización» [LC-2026, n. 2 de «La misión: Caritas Christi urget nos»].
+**Fundamentación teológica necesaria.** El Capítulo reconoce que «es evidente que una fundamentación teológica y carismática de este rasgo cristiano se hace necesaria» [CapGral-2026, n. 58]. Esta fundamentación se desarrolla desde la urgencia apostólica de san Pablo: «Caritas Christi urget nos» (2 Co 5,14). La militia Christi expresa «un corazón magnánimo, atento a los signos de los tiempos, firme en la oración y creativo en la evangelización» [CapGral-2026, n. 2 de «La misión: Caritas Christi urget nos»].
 
-**Percepción actual y sospechas.** Muchas asambleas territoriales pidieron reflexionar sobre el valor de la militancia «por ser un elemento que sentimos nos identifica, pero que, al menos como nombre, es percibido con cierta sospecha en algunos ambientes dentro y fuera de la Iglesia debido a determinadas asociaciones conceptuales» [LC-2026, n. 58]. El Capítulo responde no eliminando el término, sino profundizando en su sentido evangélico.
+**Percepción actual y sospechas.** Muchas asambleas territoriales pidieron reflexionar sobre el valor de la militancia «por ser un elemento que sentimos nos identifica, pero que, al menos como nombre, es percibido con cierta sospecha en algunos ambientes dentro y fuera de la Iglesia debido a determinadas asociaciones conceptuales» [CapGral-2026, n. 58]. El Capítulo responde no eliminando el término, sino profundizando en su sentido evangélico.
 
-**Relación con el cristocentrismo.** La militia Christi se entiende solamente desde el [[cristocentrismo_legionario]], que es «la característica fundamental y específica de la espiritualidad legionaria» [LC-2026, n. 54]. «Cuando Cristo ocupa realmente el primer lugar, todo lo demás encuentra su sitio» [LC-2026, n. 52]. La militancia brota del permanecer en Cristo (Jn 15,4) y se expresa como celo apostólico y entrega generosa.
+**Relación con el cristocentrismo.** La militia Christi se entiende solamente desde el [[cristocentrismo_legionario]], que es «la característica fundamental y específica de la espiritualidad legionaria» [CapGral-2026, n. 54]. «Cuando Cristo ocupa realmente el primer lugar, todo lo demás encuentra su sitio» [CapGral-2026, n. 52]. La militancia brota del permanecer en Cristo (Jn 15,4) y se expresa como celo apostólico y entrega generosa.
 
-**Discreción e interioridad de la militancia.** En el mensaje a los legionarios, los padres capitulares afirman: «Esta alegría se expresa en la militia Christi: un corazón entregado, atento a las necesidades de la Iglesia y de los hermanos, dispuesto a ir más allá, a trabajar con celo y creatividad, a dar testimonio con pasión y generosidad». Y precisan: «Esta militancia, discreta e interior, se transforma en deseo de perseverar en la Legión: permanecer fieles en el tiempo, renovar cada día el propio "sí", sostener la vida fraterna y la misión compartida, incluso en la prueba» [LC-2026, Homilías y mensajes].
+**Discreción e interioridad de la militancia.** En el mensaje a los legionarios, los padres capitulares afirman: «Esta alegría se expresa en la militia Christi: un corazón entregado, atento a las necesidades de la Iglesia y de los hermanos, dispuesto a ir más allá, a trabajar con celo y creatividad, a dar testimonio con pasión y generosidad». Y precisan: «Esta militancia, discreta e interior, se transforma en deseo de perseverar en la Legión: permanecer fieles en el tiempo, renovar cada día el propio "sí", sostener la vida fraterna y la misión compartida, incluso en la prueba» [CapGral-2026, Homilías y mensajes].
 
-**Deseo de perseverancia y entrega.** La militia Christi no es activismo ni triunfalismo. Es una perseverancia que «no es nada más aguantar: es permanecer por amor» [LC-2026, Homilía conclusiva]. Se concreta en la disponibilidad del que vive «como soldado raso» [LC-2026, n. 71, Compendio], sin buscar protagonismo, pero con total entrega a la misión recibida.
+**Deseo de perseverancia y entrega.** La militia Christi no es activismo ni triunfalismo. Es una perseverancia que «no es nada más aguantar: es permanecer por amor» [CapGral-2026, Homilía conclusiva]. Se concreta en la disponibilidad del que vive «como soldado raso» [CapGral-2026, n. 71, Compendio], sin buscar protagonismo, pero con total entrega a la misión recibida.
 
 ## Distinciones importantes
 
@@ -64,9 +64,9 @@ Se relaciona con [[cristocentrismo_legionario]], [[cristo]], [[espíritu_santo]]
 ## Referencias
 
 - [CVV-2017, 108-109]
-- [LC-2026, n. 58]
-- [LC-2026, «La misión: Caritas Christi urget nos», n. 2]
-- [LC-2026, Homilías y mensajes, Mensaje a los legionarios]
-- [LC-2026, Homilía conclusiva]
-- [LC-2026, n. 71, Compendio]
+- [CapGral-2026, n. 58]
+- [CapGral-2026, «La misión: Caritas Christi urget nos», n. 2]
+- [CapGral-2026, Homilías y mensajes, Mensaje a los legionarios]
+- [CapGral-2026, Homilía conclusiva]
+- [CapGral-2026, n. 71, Compendio]
 - [2 Tm 2,3-4]

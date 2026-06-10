@@ -33,11 +33,11 @@ El Decreto *Optatam Totius* dedica su primer capítulo al fomento de las vocacio
 
 Royo Marín estructura su Teología de la Perfección Cristiana en torno a la llamada universal a la santidad. Expone que todo fiel, cualquiera que sea su estado de vida, está llamado a la perfección cristiana, que consiste en la unión con Dios por la caridad. Dios da a cada alma las gracias necesarias para cumplir su vocación. Royo Marín distingue entre vocación común (a la santidad) y vocación específica (al estado de vida), y dedica atención particular a la vocación sacerdotal y religiosa.
 
-### Según el Capítulo General LC-2026
+### Según el Capítulo General CapGral-2026
 
 El V Capítulo General ordinario de los Legionarios de Cristo (2026) presenta una visión renovada de la promoción vocacional. La llamada de Jesús —«Venid en pos de mí» (Mt 4,19)— resuena hoy (n. 100). El concepto «vocación», a menudo reducido a una simple elección funcional, debe ser anunciado como lo que realmente es: un **designio personal de amor** de Dios para cada persona concreta (n. 100). El **Dueño de la mies sigue llamando**, aun en contextos cambiantes (n. 100). Se afirma la **primacía de la gracia**: toda vocación nace del Corazón de Dios y de su iniciativa amorosa; el Espíritu Santo es el principal agente vocacional (n. 8a del documento temático). Dios llama, nosotros colaboramos. El **testimonio de santidad de vida** y la **lógica de la atracción** son fundamentales: una vida entregada y coherente, orientada a configurarse con Cristo, se convierte en anuncio silencioso que mueve el corazón y despierta preguntas profundas (n. 8b). Se subraya el valor del **acompañamiento vocacional** como cooperación con la acción divina: acompañar para que el joven descubra por sí mismo la belleza y las exigencias de su vocación específica (n. 8d). La vocación germina en **ambientes vocacionales** donde se vive y contagia la amistad con Cristo: la familia, los colegios y universidades, el ECYD y el Regnum Christi, los centros vocacionales, las parroquias y el mundo digital (n. 9). El Capítulo invita a custodiar y reavivar el fuego recibido como don de Dios, confiando en que el nuevo sexenio se distinga por un anuncio vocacional renovado (n. 102).
 
-[LC-2026, n. 100-103 y documento temático vocacional]
+[CapGral-2026, n. 100-103 y documento temático vocacional]
 
 ## Distinciones importantes
 

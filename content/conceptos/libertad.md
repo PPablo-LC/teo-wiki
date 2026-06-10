@@ -1,7 +1,7 @@
 # Libertad
 
 > Área: Moral Fundamental / Antropología Teológica
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -20,6 +20,12 @@ La libertad no es licencia para hacer cualquier cosa, sino capacidad para elegir
 ### Según Royo Marín (TPCr)
 
 TPCr trata la libertad en el contexto del acto humano y en la vida espiritual. La libertad es condición indispensable del mérito. El progreso espiritual no disminuye la libertad sino que la perfecciona, y la libertad de los hijos de Dios es el término de la vida cristiana perfecta.
+
+### Según los Ejercicios Espirituales 2026 a la Curia Romana (EjEsp2026)
+
+Mons. Erik Varden desarrolla una comprensión radicalmente cristiana de la libertad en el capítulo 4, inspirada en San Bernardo. La verdadera libertad no consiste en imponer la propia voluntad, sino en el «sí» del Hijo al Padre. No es tomar el mundo por la fuerza, sino amarlo con un amor crucificado.
+
+Frente al discurso público contemporáneo, donde la libertad se ha vuelto controvertida y es instrumentalizada por diversas causas políticas, Bernardo —comentando el Salmo 90 («Él me libró de la red del cazador y de la palabra amarga»)— enseña que la libertad cristiana no pide tolerar la injusticia, sino que permite ver que a veces la causa de la justicia se sirve mejor sufriendo por ella, negándose a responder a la fuerza con la fuerza. El emblema de la libertad sigue siendo el Hijo de Dios, que «se despojó a sí mismo» (Flp 2,7).
 
 ### Según la Encíclica Magnífica Humanitas (MH)
 
@@ -41,3 +47,4 @@ La libertad se relaciona con el [[libre_albedrío]] (su fundamento ontológico),
 
 - CEC §1730-1748, §1804
 - TPCr, Tratado de la libertad
+- [EjEsp2026, cap. 4: «Llegar a ser Libre»]

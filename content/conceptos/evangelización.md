@@ -1,7 +1,7 @@
 # Evangelización
 
 > Área: Doctrina Social / Eclesiología
-> Última actualización: 2026-05-25
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -25,6 +25,10 @@ La doctrina social es parte integrante del ministerio de evangelización de la I
 
 El Decreto *Ad Gentes* enseña que la actividad misional es la evangelización e implantación de la Iglesia en los pueblos o grupos en que todavía no ha arraigado [ConcVatII, AG §6]. Cristo fue enviado por el Padre para evangelizar a los pobres, y la Iglesia debe caminar por el mismo camino: el de la pobreza, la obediencia, el servicio y la inmolación de sí mismo hasta la muerte [ConcVatII, AG §5]. El medio principal de la implantación de la Iglesia es la predicación del Evangelio de Jesucristo [ConcVatII, AG §6]. La Constitución *Dei Verbum* enseña que la Iglesia tiene la obligación de anunciar el Evangelio a toda criatura, y que este Evangelio, prometido por los Profetas y completado por Cristo, es fuente de toda verdad salvadora [ConcVatII, DV §7]. La [[evangelización]] ha de adaptarse a los conceptos y lengua de cada pueblo (ConcVatII, GS §44).
 
+### Según León XIV (L_XIV-ClerRom)
+
+León XIV, en su encuentro con el clero romano, sitúa la evangelización como la prioridad absoluta de la pastoral parroquial. El Papa diagnostica que la pastoral ordinaria «está estructurada según un modelo clásico que se preocupa ante todo por garantizar la administración de los sacramentos», pero este modelo «presupone que la fe es transmitida también por el ambiente circundante», lo cual «ya no es así». Cita *Evangelii gaudium* 63 para advertir contra una «sacramentalización sin otras formas de evangelización». La urgencia es «volver a anunciar el Evangelio: esta es la prioridad». El anuncio del kerigma debe ser el eje vertebrador de toda la acción pastoral, no un añadido a una estructura sacramental que ya no se sostiene por sí misma. La pregunta de san Pablo —«¿Cómo creerán en aquel de quien no han oído hablar? ¿Y cómo oirán sin que alguien les anuncie?» (Rom 10,14)— ilumina el desafío de una Iglesia en contextos de secularización avanzada [L_XIV-ClerRom, 19.02.2026].
+
 ## Relaciones doctrinales
 
 Se relaciona con [[doctrina_social_de_la_iglesia]], [[misión_de_la_iglesia]], [[nueva_evangelización]], [[promoción_humana]], [[justicia_social]], [[reino_de_dios]]
@@ -44,3 +48,4 @@ Se relaciona con [[doctrina_social_de_la_iglesia]], [[misión_de_la_iglesia]], [
 - [CompDS §60-71]
 - [Pablo VI, Evangelii Nuntiandi]
 - [CEC §2419-2425]
+- [L_XIV-ClerRom, 19.02.2026]

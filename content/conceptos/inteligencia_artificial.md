@@ -1,7 +1,7 @@
 # Inteligencia artificial
 
 > Área: Moral / Doctrina Social
-> Última actualización: 2026-05-29
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -60,6 +60,10 @@ Establece tres criterios de discernimiento (§199): responsabilidad personal ide
 - La [[verdad]] como bien común se ve amenazada por la manipulación informativa mediada por IA (MH §132-137)
 - El [[trabajo_humano]] es transformado radicalmente por la automatización y la IA (MH §150-156)
 
+### Según León XIV (L_XIV-ClerRom)
+
+En su encuentro con el clero romano, León XIV aborda la IA desde la perspectiva de la predicación. Exhorta a los sacerdotes: «les invito a resistir la tentación de preparar las homilías con inteligencia artificial». Advierte que «al igual que todos los músculos del cuerpo, si no los utilizamos, si no los movemos, mueren; el cerebro necesita ser utilizado». Pero la razón más profunda no es solo intelectual sino teológica: «para hacer una verdadera homilía, que es compartir la fe, ¡la IA nunca podrá compartir la fe!». La homilía no es un texto que se produce sino una experiencia que se comparte desde la propia vida de fe, y eso es algo que ningún sistema artificial puede suplir [L_XIV-ClerRom, 19.02.2026].
+
 ## Ver también
 
 [[dignidad_humana]], [[bien_común]], [[destino_universal_de_los_bienes]], [[subsidiariedad]], [[paradigma_tecnocrático]], [[transhumanismo]], [[posthumanismo]], [[verdad]], [[trabajo_humano]], [[doctrina_social_de_la_iglesia]]
@@ -68,3 +72,4 @@ Establece tres criterios de discernimiento (§199): responsabilidad personal ide
 
 - [MH §97-111]
 - [MH §197-200]
+- [L_XIV-ClerRom, 19.02.2026]
