@@ -1,7 +1,7 @@
 # Gratitud
 
 > Área: Moral
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -16,6 +16,14 @@ La gratitud es una virtud eminentemente cristiana, pues el hombre es ante todo c
 ### Según el Catecismo (CEC)
 
 El CEC dedica una entrada en el índice temático a la gratitud, remitiendo a las acciones de gracias (§§1418; 2215; 2220). La Visita al Santísimo es «una prueba de gratitud, un signo de amor y un deber de adoración hacia el Señor» (§1418). La piedad filial se fundamenta en la gratitud hacia los padres (§2215). Especial gratitud se debe a aquellos de quienes se ha recibido el don de la fe (§2220). La oración de acción de gracias es una forma fundamental de oración: «En todo dad gracias» (§2637-2638; §2648).
+
+### Según la Summa Theologiae (SmTh)
+
+El agradecimiento o gratitud (q.106) es una virtud especial distinta de la religión, la piedad y la observancia, pues considera una deuda particular hacia cualquier bienhechor por beneficios privados. Su objeto formal es la gratuidad del beneficio, por lo que la recompensa se mide más por el afecto del bienhechor que por el efecto del beneficio (q.106 a.5). La gratitud tiende a recompensar con algo más de lo recibido (q.106 a.6), pues la deuda de gratitud procede de la caridad, que cuanto más se paga más se debe (Rom 13,8). No debe ser inmediata en cuanto al don (para esperar el momento oportuno), pero sí en cuanto al afecto (q.106 a.4). El inocente debe mayor gratitud a Dios por la cantidad del don; el penitente, por la mayor gratuidad —lo que es más gratuito para su persona— (q.106 a.2).
+
+Las deudas se ordenan jerárquicamente: a Dios (religión), a los padres (piedad), a los superiores en dignidad (observancia), y a cualquier bienhechor (gratitud). La gratitud no es deuda legal sino moral, fundada en la honestidad (q.106 a.1).
+
+[SmTh IIa-IIae q.106 a.1-6]
 
 ### Según Royo Marín (TPCr)
 

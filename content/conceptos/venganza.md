@@ -1,7 +1,7 @@
 # Venganza
 
 > Área: Moral
-> Última actualización: 2026-06-02
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -26,6 +26,14 @@ La venganza en el AT tiene un carácter de justicia restaurativa. El vengador de
 Los Salmos imprecatorios piden la venganza de Dios contra los enemigos del justo (Sal 58; 109; 137). Los profetas anuncian el día de la venganza de Dios como liberación para los oprimidos y castigo para los opresores (Is 34,8; 61,2).
 
 En el NT, Jesús rechaza explícitamente la venganza personal. El amor al enemigo es la nueva ley del Reino. El perdón debe ser ilimitado (Mt 18,21-22). La justicia de Dios al final de los tiempos incluye la retribución, pero el discípulo no debe tomarla por su mano. La ley del talión es superada por la ley del amor. La legítima defensa es distinta de la venganza.
+
+### Según la Summa Theologiae (SmTh)
+
+La venganza (q.108) es una virtud especial, parte de la justicia, por la que, defendiéndose o vengándose, se rechaza la violencia o injuria. Tiene su fundamento en la inclinación natural a rechazar lo nocivo (apetito irascible). Es lícita cuando el vengador intenta principalmente un bien: la enmienda del pecador, la tranquilidad de los demás, la conservación de la justicia y el honor de Dios; es ilícita cuando lo que se intenta es el mal del otro y se goza en él, pues eso es odio contrario a la caridad (q.108 a.1). Debe ejercerse por quien tiene jurisdicción legítima, no usurpando lo que es de Dios (q.108 a.1 ad 1).
+
+Se le oponen dos vicios: por exceso, la crueldad (sevicia: extralimitarse en el castigo); por defecto, la remisión excesiva en aplicar el castigo merecido (q.108 a.2). Las penas deben privar al hombre de aquello que más estima: vida, integridad corporal, libertad o bienes exteriores (q.108 a.3). La venganza como castigo solo debe ejercerse sobre quien peca voluntariamente; como medicina, puede aplicarse incluso sin culpa, pero nunca sin causa (q.108 a.4).
+
+[SmTh IIa-IIae q.108 a.1-4]
 
 ### Según Royo Marín (TPCr)
 

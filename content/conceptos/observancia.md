@@ -1,7 +1,7 @@
 # Observancia
 
 > Área: Moral / Ascética
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -16,6 +16,12 @@ La virtud de la observancia se funda en el orden establecido por Dios, que ha qu
 ### Según el Catecismo (CEC)
 
 La Ley nueva es ley de libertad que nos libera de las observancias rituales y jurídicas de la Ley antigua (§1972). La observancia del cuarto mandamiento procura frutos espirituales y temporales (§2200). La autoridad del Magisterio se extiende a los preceptos específicos de la ley natural, cuya observancia es necesaria para la salvación (§2036). Los consejos evangélicos son inseparables de los mandamientos y su observancia es camino de perfección (§2053).
+
+### Según la Summa Theologiae (SmTh)
+
+La observancia (q.102) es una virtud especial, parte potencial de la justicia, por la que se honra y sirve a las personas constituidas en dignidad. Se distingue de la piedad porque el padre es principio de generación y educación, mientras que la persona constituida en dignidad lo es solo de gobierno en ciertos aspectos (príncipe, jefe militar, maestro). A los superiores se les debe honor (por su excelencia) y culto (por su oficio de gobierno, que consiste en sumisión y obediencia). La deuda puede ser legal (cuando hay subordinación directa) o moral (por urbanidad, aunque no se sea súbdito). La piedad es virtud superior a la observancia, pues los padres están más íntimamente unidos a nosotros por generación y educación que los gobernantes por el gobierno exterior (q.102 a.3).
+
+[SmTh IIa-IIae q.102 a.1-3]
 
 ### Según Royo Marín (TPCr)
 

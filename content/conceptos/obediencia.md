@@ -1,7 +1,7 @@
 # Obediencia
 
 > Área: Moral / Ascética
-> Última actualización: 2026-05-25
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -20,6 +20,14 @@ La obediencia de María: su fiat es el modelo de toda respuesta del alma a Dios 
 ### Según el Código de Derecho Canónico (CIC)
 
 El voto de obediencia, como consejo evangélico, somete la voluntad al superior legítimo en conformidad con la regla y constituciones (c. 601). Todos los clérigos tienen obligación de obediencia y reverencia al Romano Pontífice y al Ordinario propio (c. 273). Los fieles tienen el deber de obedecer a los pastores sagrados como representantes de Cristo (c. 212 §1). En la vida religiosa, los súbditos deben obedecer con prontitud y humildad (c. 618). Los superiores deben usar su autoridad con espíritu de servicio (c. 618). El Romano Pontífice es la suprema autoridad a quien todos deben obediencia (c. 331).
+
+### Según la Summa Theologiae (SmTh)
+
+La obediencia (q.104) es una virtud moral especial, parte de la justicia, cuyo objeto propio es el mandato del superior. El orden natural establecido por Dios requiere que los súbditos obedezcan a los superiores, así como los seres naturales inferiores se someten a la moción de los superiores (q.104 a.1). No es virtud teologal (su objeto no es Dios directamente, sino el mandato del superior), sino moral, y guarda el justo medio entre el exceso (rehusar la obediencia debida) y el defecto (por parte del superior a quien no se obedece). Es la más importante de las virtudes morales porque renuncia por Dios al bien más alto del alma: la propia voluntad (q.104 a.3). Sin embargo, las virtudes teologales la superan por unir directamente con Dios.
+
+Dios debe ser obedecido en todo (q.104 a.4), pues es el primer motor de todas las voluntades. A los superiores humanos se les debe obediencia en las materias en que el súbdito depende de ellos (actos exteriores corporales), pero no en los actos interiores de la voluntad (solo a Dios) ni en lo que toca a la naturaleza corporal (matrimonio, virginidad) (q.104 a.5). Si el superior manda algo contra Dios, hay que obedecer a Dios antes que a los hombres. Los cristianos no quedan exentos por la fe de la obediencia al poder secular (q.104 a.6), pues la gracia libera del alma, no del cuerpo; sin embargo, si el poder es usurpado o manda cosas injustas, no hay obligación de obedecer.
+
+[SmTh IIa-IIae q.104 a.1-6]
 
 ### Según Royo Marín (TPCr)
 

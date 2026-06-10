@@ -1,7 +1,7 @@
 # Piedad
 
 > Área: Ascética / Moral
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -20,6 +20,12 @@ El don de piedad es uno de los siete dones del Espíritu Santo (CEC §1831; 1845
 ### Según Royo Marín (TPCr)
 
 El don de piedad es el quinto de los siete dones del Espíritu Santo. Perfecciona la virtud de la religión y nos hace sentir hacia Dios una confianza filial y amorosa. Por él vemos a Dios como Padre y nos relacionamos con Él con la ternura de hijos (TPCr, Tercera Parte, Libro II, cap. II). Existen dos métodos de vida mariana: la santa esclavitud mariana y la piedad filial mariana, que tiende a identificarnos con Cristo para amar a María con el corazón mismo de Jesús (TPCr, Primera Parte). La piedad profunda es condición necesaria para la oración vocal bien hecha (TPCr, Tercera Parte, Libro II, cap. III). La purificación pasiva libera del buscarse a sí mismo en la piedad (TPCr, Tercera Parte, Libro I).
+
+### Según la Summa Theologiae (SmTh)
+
+La piedad (q.101) es una virtud especial, parte potencial de la justicia, por la que se da culto y honor a los padres y a la patria como principios próximos de nuestro ser, después de Dios. Se extiende a los consanguíneos (en cuanto proceden de los mismos padres) y a los conciudadanos (en cuanto amigos de la patria). La deuda de piedad incluye tanto reverencia (honor) como atenciones (sustento en caso de necesidad). Los deberes de piedad para con los padres no deben omitirse por motivos de religión a menos que el cuidado de ellos aparte del culto divino; en tal caso, la piedad de la religión se antepone (q.101 a.4). Quien ya ha profesado en religión no debe abandonar el claustro para socorrer a sus padres, salvo que la regla lo permita.
+
+[SmTh IIa-IIae q.101 a.1-4]
 
 ## Distinciones importantes
 
