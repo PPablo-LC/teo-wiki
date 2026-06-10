@@ -53,6 +53,18 @@ Los actos del don de piedad son:
 
 ## Perspectivas por fuente
 
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata el don de piedad en la q.121 en dos artículos.
+
+**La piedad como don** (q.121 a.1): La piedad es un don del Espíritu Santo, distinto de la virtud de la piedad. Mientras que por la virtud de la piedad rendimos honor y culto a nuestro padre carnal, por el don de piedad lo hacemos con Dios como Padre, bajo la moción del Espíritu Santo que nos impulsa a tener un afecto filial para con Dios (Rom 8,15: «Habéis recibido el Espíritu de adopción filial por el que clamamos: ¡Abba! ¡Padre!»).
+
+El don de piedad es superior a la virtud de la [[religión]]: rendir culto a Dios como Padre es más excelente que rendírselo como Creador y Señor (q.121 a.1 ad 2). Por el don de piedad no solo se honra a Dios, sino también a todos los hombres en cuanto pertenecen a Dios, y por ello hace obras de misericordia con los necesitados. En el cielo, aunque cesen las obras de misericordia, permanecerá el acto principal de reverenciar a Dios con afecto filial (q.121 a.1 ad 3).
+
+**Bienaventuranza correspondiente** (q.121 a.2): La segunda bienaventuranza («Bienaventurados los mansos») corresponde al don de piedad. San Agustín la atribuye así siguiendo la razón de orden. Atendiendo al objeto, también corresponderían al don de piedad la cuarta y quinta bienaventuranzas («Bienaventurados los misericordiosos», «Bienaventurados los limpios de corazón»), pero la mansedumbre guarda una coincidencia especial con la piedad en cuanto quita los obstáculos para sus actos. Los frutos de bondad y benignidad se atribuyen directamente al don de piedad; la mansedumbre solo indirectamente (q.121 a.2 ad 3).
+
+[SmTh IIa-IIae, q.121, a.1-2]
+
 ### Según Royo Marín (TPCr)
 
 El don de piedad es «el don de la dulzura filial hacia Dios y de misericordia hacia el prójimo».

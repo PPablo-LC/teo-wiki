@@ -19,6 +19,18 @@ La afabilidad aparece como fruto del Espíritu Santo en la enumeración de San P
 
 [CEC §736]
 
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata la amistad o afabilidad como virtud especial (q.114 a.1) y como parte de la justicia (q.114 a.2).
+
+La afabilidad es virtud especial porque existe una razón especial de bien en el orden debido entre el hombre y sus semejantes en la vida ordinaria, tanto en palabras como en obras. No se trata de la amistad perfecta fundada en la virtud y el afecto interior —que pertenece a la [[caridad]]—, sino de una cierta semejanza de amistad que consiste en guardar las normas de decoro en el trato cotidiano (q.114 a.1).
+
+Entre todos los hombres reina una cierta amistad general natural, que se manifiesta en signos externos de palabra y obra incluso con extraños y desconocidos, sin que haya en ello simulación (q.114 a.1 ad 2). El hombre afable busca hacer la vida agradable a quienes conviven con él, con una alegría honesta, no lasciva; pero cuando es necesario para evitar un mal o corregir al prójimo, no tiene reparo en contristar a aquellos con quienes convive (q.114 a.1 ad 3).
+
+Como parte de la justicia, la afabilidad se adjunta a ella como virtud aneja. Coincide con la justicia en que ambas dicen relación de alteridad, pero se aparta porque en la amistad no existe una plena razón de deuda legal, sino solo un deber de honestidad que obliga más al que la posee que al otro (q.114 a.2). El hombre está obligado por un cierto deber natural de honestidad a convivir afablemente con los demás, pues «nadie puede convivir todo un día con una persona triste o desagradable» (q.114 a.2 ad 1).
+
+[SmTh IIa-IIae, q.114, a.1-2]
+
 ### Según Royo Marín (TPCr)
 
 La afabilidad o amistad es una virtud, parte potencial de la justicia, que se distingue de la caridad y de la beneficencia. La bondad del corazón se manifiesta principalmente en la afabilidad, virtud exquisita que ordena la convivencia humana. El hombre afable procede con sumo tacto y delicadeza, no hiere a nadie, es profundamente compasivo, agradecido y practica las virtudes que señala San Pablo en 1 Cor 13.
