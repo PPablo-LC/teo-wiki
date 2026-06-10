@@ -1,7 +1,7 @@
 # Jactancia
 
 > Área: Moral / Ascética
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -12,6 +12,16 @@ La jactancia es el vicio por el cual una persona se atribuye excelencias que no 
 La jactancia procede de la vanagloria, que es un vicio capital del que derivan otros muchos pecados. Consiste en una falta contra la verdad porque no se conforma con lo que realmente se es. Es una manifestación de la soberbia, que es la raíz de todos los pecados.
 
 ## Perspectivas por fuente
+
+### Según la Summa Theologiae (SmTh)
+
+La jactancia (q.112) es una **mentira por exceso**, consistente en que el hombre se ensalce a sí mismo con palabras por encima de lo que es. Pertenece a la virtud de la verdad como vicio opuesto por exceso (con la ironía como opuesto por defecto), conforme al Filósofo en IV Ethic. (q.112 a.1).
+
+Según su causa, procede de la **soberbia** (como causa interna motivadora) o de la **vanagloria** (como fin), aunque no siempre: a veces la jactancia nace de la mera costumbre de alabarse o de la vanidad (q.112 a.1 ad 2). También puede tener por fin el **lucro** (como los que fingen ser médicos o maestros para obtener ganancia) (q.112 a.1 ad 3).
+
+En cuanto a su gravedad (q.112 a.2): considerada en sí misma como mentira, es pecado mortal cuando lo jactado va contra la gloria de Dios (como el rey de Tiro que se creía Dios) o contra el amor del prójimo (como el fariseo que despreciaba al publicano); en otros casos puede ser venial. Considerada por su causa, si procede de soberbia o vanagloria que sea pecado mortal, también lo será la jactancia; si procede de deseo de lucro con perjuicio del prójimo, también es mortal (q.112 a.2).
+
+[SmTh IIa-IIae q.112 a.1-2]
 
 ### Según el Catecismo (CEC)
 
@@ -39,3 +49,4 @@ Se relaciona con la [[soberbia]] (raíz), la [[vanidad]], la [[virtud_de_la_verd
 
 - [CEC §2481]
 - [TPCr, Tercera Parte, Libro II, Cap. II]
+- SmTh IIa-IIae q.112 a.1-2

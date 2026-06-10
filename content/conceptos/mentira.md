@@ -13,6 +13,18 @@ La mentira es contraria a la octava palabra del Decálogo: "No darás falso test
 
 ## Perspectivas por fuente
 
+### Según la Summa Theologiae (SmTh)
+
+La mentira (q.110) es el vicio directamente opuesto a la virtud de la verdad. Su esencia formal es la **voluntad de decir lo falso**, no la mera falsedad material ni siquiera la intención de engañar —aunque esta última sea su complemento habitual (q.110 a.1). Se opone directa y formalmente a la verdad (q.110 a.1).
+
+La división esencial de la mentira atiende a su oposición a la verdad: **jactancia** (por exceso, sobrepasando la verdad) e **ironía** (por defecto, quedándose corta) (q.110 a.2). Por razón de su culpabilidad según el fin, se divide en: **perniciosa** (con intención de dañar), **jocosa** (por diversión) y **oficiosa** (por utilidad) (q.110 a.2). Una división más completa, según San Agustín, reconoce ocho especies (q.110 a.2 ad 2).
+
+Toda mentira es **pecado** por su objeto intrínsecamente malo: las palabras son signos naturales de las ideas, y es antinatural significar con palabras lo que no se piensa (q.110 a.3). No es lícito mentir ni para salvar una vida, pues no se debe usar un medio desordenado para impedir un mal; sí es lícito ocultar prudentemente la verdad con cierto disimulo (q.110 a.3 ad 4).
+
+La mentira es **pecado mortal** cuando se opone a la caridad: por sí misma, si versa sobre cosas divinas (contra la fe y religión) o sobre materias cuyo conocimiento es necesario para el bien del prójimo; por el fin intentado, si se dice para injuriar a Dios o dañar al prójimo; ocasionalmente, por escándalo (q.110 a.4). La mentira jocosa y oficiosa no son de suyo mortales (q.110 a.4).
+
+[SmTh IIa-IIae q.110 a.1-4]
+
 ### Según el Catecismo (CEC)
 
 CEC §2475-2487: Trata extensamente la mentira en el contexto del [[octavo_mandamiento]].
@@ -53,4 +65,4 @@ La mentira atenta contra la [[verdad]], la [[justicia]], y la [[caridad]]. Se re
 
 - CEC §2475-2487
 - TPCr, Tratado de los pecados contra la verdad
-- Santo Tomás de Aquino, *Summa Theologiae* II-II, q. 110
+- SmTh IIa-IIae q.110 a.1-4

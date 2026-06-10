@@ -1,7 +1,7 @@
 # Hipocresía
 
 > Área: Moral
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -12,6 +12,16 @@ La hipocresía es el vicio que consiste en fingir cualidades, virtudes o sentimi
 La hipocresía es una forma de mentira cometida no con palabras sino con obras o con la apariencia externa. Cristo condenó severamente la hipocresía de los fariseos, que aparentaban una piedad que no tenían (Mt 23). Es un pecado especialmente grave en quienes tienen responsabilidad de guiar a otros, pues el escándalo que produce puede apartar a las almas del camino de la virtud.
 
 ## Perspectivas por fuente
+
+### Según la Summa Theologiae (SmTh)
+
+La hipocresía (q.111 a.2) es una **especie de simulación** (no son términos sinónimos): la simulación es el género, la hipocresía es la simulación de una persona que finge ser lo que no es, especialmente en cuanto a la santidad o virtud. El nombre proviene de los actores teatrales (hipócritas) que representaban personajes distintos de sí mismos (q.111 a.2).
+
+Se opone **directamente** a la virtud de la verdad por su objeto propio (fingir una dignidad o santidad que no se tiene). Indirectamente puede oponerse a otras virtudes según el fin remoto —como la vanagloria o el lucro—, pero no se especifica por esos fines, sino por el fin próximo de manifestarse uno distinto de como es (q.111 a.3).
+
+En cuanto a su gravedad (q.111 a.4), si el hipócrita no se preocupa de tener la santidad y solo aparenta tenerla, es **pecado mortal** (privación total de la santidad). Si simula una santidad que perdió por pecado, la gravedad depende del fin: si el fin se opone a la caridad (sembrar falsas doctrinas, obtener dignidades indignamente) es mortal; si no, es venial. Guardar hábito religioso sin la perfección correspondiente no es necesariamente hipocresía si se tomó con recta intención (q.111 a.2 ad 2).
+
+[SmTh IIa-IIae q.111 a.2-4]
 
 ### Según el Catecismo (CEC)
 
@@ -41,3 +51,4 @@ La hipocresía se opone a la [[veracidad]] y a la [[virtud_de_la_justicia]]. Es 
 
 - [CEC §2468; §2475; §2505]
 - [TPCr, Tercera Parte, Libro II, Cap. 2 (n.367; n.371; n.462)]
+- SmTh IIa-IIae q.111 a.2-4
