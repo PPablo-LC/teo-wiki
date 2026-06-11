@@ -1,7 +1,7 @@
 # Estudiosidad
 
 > Área: Moral
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-11
 
 ## Definición
 
@@ -31,6 +31,18 @@ Royo Marín dedica una sección a la estudiosidad (n.470, basado en S.Th., II-II
 - **Estudiosidad vs. negligencia**: la primera aplica el esfuerzo debido; la segunda omite el estudio necesario.
 - **Ciencia que hincha vs. ciencia que edifica**: la ciencia sin caridad lleva a la soberbia; la ciencia con caridad edifica (1 Cor 8,1).
 
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás dedica la cuestión 166 a la estudiosidad y la 167 a la curiosidad.
+
+**Objeto de la estudiosidad (q.166 a.1):** La estudiosidad tiene por materia propia el conocimiento. El estudio implica una aplicación intensa de la mente a algún objeto, y la mente no se aplica a algo sin conocerlo. El conocimiento es lo primero que la mente considera; todo lo demás viene después bajo la dirección del conocimiento. Por eso, así como la fortaleza tiene por materia los peligros de muerte y la templanza los deleites del tacto, la estudiosidad tiene por objeto propio el conocimiento.
+
+**La estudiosidad como parte de la templanza (q.166 a.2):** La estudiosidad es parte potencial de la templanza. Así como el hombre desea naturalmente los deleites del alimento y del placer venéreo, así también desea naturalmente conocer (Aristóteles, *Metaph.* I: «todos los hombres, por naturaleza, desean saber»). La moderación de este apetito es propia de la estudiosidad. Pertenece a la modestia como virtud adjunta (q.160 a.2).
+
+En cuanto al conocimiento, hay en el hombre una inclinación doble y opuesta:
+- Por parte del alma, tiende a desear conocer las cosas — la estudiosidad refrena este apetito (como la templanza), para no desear el conocimiento inmoderadamente.
+- Por parte del cuerpo, tiende a evitar el trabajo de buscar la ciencia — la estudiosidad estimula a vencer este obstáculo (de ahí su nombre, tomado de la aplicación del alma).
+
 ## Relaciones doctrinales
 
 La estudiosidad es parte potencial de la [[virtud_de_la_templanza]]. Se opone a la [[curiosidad]] y a la [[negligencia]]. Se relaciona con la [[humildad]] (reconocer los límites del propio saber), con la [[sabiduría]] (fin último del conocimiento) y con la [[lectura_espiritual]] (medio de adquirir ciencia útil para la santificación).
@@ -42,4 +54,4 @@ La estudiosidad es parte potencial de la [[virtud_de_la_templanza]]. Se opone a 
 ## Referencias
 
 - [TPCr, Tercera Parte, Libro II, Cap. 2 (n.470)]
-- [Santo Tomás, S.Th., II-II, qq. 166-167]
+- [SmTh II-II, q.166 a.1-2]

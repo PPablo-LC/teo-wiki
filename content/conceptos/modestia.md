@@ -39,6 +39,8 @@ El don de temor actúa sobre la modestia «suprimiendo en absoluto cualquier mov
 
 #### Q160: La modestia
 
+
+
 **La modestia como parte de la templanza (a.1):** La modestia es parte de la templanza. Así como la magnificencia (grandes gastos) necesita complementarse con la liberalidad (gastos medianos), la templanza (materias difíciles: placeres del tacto) necesita complementarse con la modestia (materias menos difíciles). Cicerón considera la modestia parte de la templanza. El nombre de modestia deriva de *modo*: aunque todas las virtudes requieren modo, se atribuye especialmente a la virtud que impone el modo en las materias más pequeñas.
 
 **Materia de la modestia (a.2):** La modestia se ocupa de cuatro tipos de objetos:
@@ -49,16 +51,24 @@ El don de temor actúa sobre la modestia «suprimiendo en absoluto cualquier mov
 
 Santo Tomás sigue aquí a Cicerón, quien apartó de la modestia tanto la clemencia como la templanza, dejando a la modestia todos los demás objetos que han de ser moderados. No es una sola virtud, sino que bajo ella se comprenden varias virtudes específicas (humildad, estudiosidad, eutrapelia, modestia corporal y en el ornato).
 
+#### Q168: La modestia en los movimientos del cuerpo
+
+**Virtud en los movimientos corporales (q.168 a.1):** Los movimientos externos del cuerpo pueden ser ordenados por la razón, pues los miembros se mueven con su imperio. Por tanto, una virtud moral se ocupa de ordenarlos según dos aspectos:
+1. **Conveniencia de la persona** (ornato): lo que conviene a cada sexo, edad y persona.
+2. **Conveniencia respecto de personas externas, negocios o lugares** (buen orden): acomodar los gestos a las circunstancias.
+
+Los movimientos externos son signos de la disposición interior (Eclo 19,27). San Ambrosio: «el movimiento del cuerpo es una voz del alma». La moderación de estos movimientos se reduce en último término a dos virtudes: la **amistad o afabilidad** (ordenarse hacia otros en los actos exteriores) y la **verdad** (mostrarse en palabras y acciones como se es interiormente).
+
 ## Relaciones doctrinales
 
 La modestia es parte de la [[templanza]] como virtud potencial. Se relaciona con la [[humildad]] (que modera el apetito de excelencia), la [[castidad]] y el [[pudor]]. Es fruto del Espíritu Santo, relacionado con el [[don_de_temor]].
 
 ## Ver también
 
-[[templanza]], [[humildad]], [[castidad]], [[pudor]], [[don_de_temor]], [[eutrapelia]], [[estudiosidad]], [[clemencia]], [[mansedumbre]]
+[[templanza]], [[humildad]], [[castidad]], [[pudor]], [[don_de_temor]], [[eutrapelia]], [[estudiosidad]], [[clemencia]], [[mansedumbre]], [[ornato]]
 
 ## Referencias
 
 - [CEC §1832, §2521-2524]
 - [TPCr, Parte III, Libro II, Cap. II, n.462, 471-473]
-- [Santo Tomás, II-II, q.160, 166-169]
+- [SmTh II-II, q.160, 166-169]

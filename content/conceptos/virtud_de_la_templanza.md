@@ -99,6 +99,8 @@ Santo Tomás dedica las cuestiones 141-143 a la templanza, sus vicios opuestos y
 
 **Partes de la templanza (q.143):** Tres clases de partes. Partes integrales: la vergüenza (que rehúye la torpeza) y la honestidad (que ama la belleza de la templanza). Partes subjetivas (especies): la abstinencia (comida), la sobriedad (bebida), la castidad (placeres venéreos) y el pudor (placeres concomitantes). Partes potenciales (virtudes anejas): la continencia, la humildad, la mansedumbre y clemencia, y la modestia.
 
+**Preceptos de la templanza (q.170):** Entre los preceptos del decálogo, el que más directamente se ordena a la templanza es la prohibición del adulterio (a.1), porque el adulterio es el vicio de la templanza que más se opone al amor al prójimo (usurpa la mujer ajena). La gula y otras especies de lujuria no se oponen tan directamente al amor al prójimo. No hay preceptos afirmativos de templanza en el decálogo porque su uso cambia con los tiempos y costumbres. En cuanto a las virtudes anejas (humildad, mansedumbre, modestia), no tienen preceptos directos en el decálogo, pero sus efectos (ira que lleva al homicidio, soberbia que lleva a quebrantar los preceptos) quedan prohibidos indirectamente (a.2).
+
 ## Distinciones importantes
 
 - **Templanza vs. continencia**: la templanza es hábito que modera la pasión; la continencia es resistencia a la pasión cuando es vehemente

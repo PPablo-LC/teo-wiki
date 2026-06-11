@@ -1,7 +1,7 @@
 # Curiosidad
 
 > Área: Moral / Ascética
-> Última actualización: 2026-05-29
+> Última actualización: 2026-06-11
 
 ## Definición
 
@@ -22,7 +22,19 @@ Royo Marín, siguiendo a Santo Tomás, dedica el número 470 de TPCr a la estudi
 
 ### Según Santo Tomás (SmTh II-II, q.167)
 
-Santo Tomás distingue cuatro modos en que el deseo de saber puede ser vicioso: 1) por el objeto, cuando se busca saber lo que no es lícito (ciencias ocultas, artes adivinatorias) o lo que es vano e inútil; 2) por el fin, cuando se busca el conocimiento por vanagloria, soberbia o para pecar; 3) por el medio, cuando se emplean medios deshonestos; 4) por la intensidad desordenada, cuando el estudio excesivo aparta de obligaciones más graves. La curiosidad es pecado venial por su género, pero puede llegar a ser mortal por la materia o por el fin.
+**Curiosidad intelectual (q.167 a.1):** El conocimiento de la verdad es esencialmente bueno, pero puede ser accidentalmente malo por lo que de él se sigue (soberbia, uso para pecar). El deseo de conocer puede ser perverso por cuatro modos:
+1. **Por el objeto**: estudio de lo inútil que aparta de lo necesario (clérigos que leen comedias en vez de los evangelios).
+2. **Por el medio**: aprender de quien no debe (consultar a demonios — curiosidad supersticiosa).
+3. **Por el fin**: conocer las criaturas sin ordenarlo al conocimiento de Dios.
+4. **Por la medida**: aplicar el ingenio más allá de su capacidad, cayendo en errores (Eclo 3,22: «atente a lo que está a tu alcance»).
+
+**Curiosidad sensitiva (q.167 a.2):** La curiosidad también se ocupa del conocimiento sensible (la «concupiscencia de los ojos» de 1 Jn 2,16). Puede ser viciosa de dos modos:
+1. Cuando el conocimiento sensible no se ordena a nada útil y aparta de consideraciones más importantes (asistir a espectáculos por mera curiosidad, como Alipio en las Confesiones de San Agustín).
+2. Cuando se ordena a algo malo (mirar a una mujer para desearla, investigar la vida ajena para difamarla).
+
+El presenciar espectáculos viciosos hace propenso a la lascivia o la crueldad. Investigar los actos del prójimo para menospreciarlo o difamarlo es vicioso; hacerlo por caridad o para imitar lo bueno es loable.
+
+La curiosidad es pecado venial por su género, pero puede llegar a ser mortal por la materia o por el fin.
 
 
 ## Distinciones importantes
@@ -38,7 +50,7 @@ Se opone a la [[estudiosidad]] (virtud) y se relaciona con la [[virtud_de_la_tem
 
 ## Ver también
 
-[[estudiosidad]], [[virtud_de_la_templanza]], [[soberbia]], [[vanagloria]], [[vicio]], [[vida_de_oración]], [[recogimiento_interior]]
+[[estudiosidad]], [[virtud_de_la_templanza]], [[soberbia]], [[vanagloria]], [[vicio]], [[vida_de_oración]], [[recogimiento_interior]], [[ornato]]
 
 ## Referencias
 
