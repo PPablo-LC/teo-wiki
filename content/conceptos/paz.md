@@ -1,7 +1,7 @@
 # Paz
 
 > Área: Moral
-> Última actualización: 2026-06-02
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -75,3 +75,4 @@ Se relaciona con [[frutos_del_espíritu_santo]], [[caridad]], [[don_de_sabidurí
 
 - CEC §2305, §1941, §2844
 - TPCr, Parte II; Parte III, Libro II, Cap. 2
+- [EjEsp2026, cap. 1: «Entrar en la Cuaresma»]

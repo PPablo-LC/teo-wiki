@@ -1,7 +1,7 @@
 # Perfección Cristiana
 
 > Área: Ascética / Mística
-> Última actualización: 2026-05-21
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -76,3 +76,4 @@ La perfección cristiana es el fin de todo el [[organismo_sobrenatural]] y la pl
 ## Referencias
 
 - [TPCr, obra completa; Parte II, Caps. 1-4; Parte III-IV]
+- [EjEsp2026, cap. 5: «El esplendor de la Verdad»]

@@ -1,7 +1,7 @@
 # Imagen de Dios
 
 > Área: Dogmática / Antropología teológica
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -92,3 +92,4 @@ Se relaciona con la [[creación]] del hombre, el [[pecado_original]] que la desf
 - [CEC §355-361, §362-368, §369-370, §381, §396-399, §705, §1701]
 - [TPCr, Segunda Parte, Cap. I, Art. 1]
 - SmTh Iª q.93 aa.1-9
+- [EjEsp2026, cap. 7: «Yo lo Glorificaré»]

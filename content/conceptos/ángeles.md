@@ -1,7 +1,7 @@
 # Ángeles
 
 > Área: Dogmática
-> Última actualización: 2026-06-03
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -96,3 +96,4 @@ Loring explica que «además de este mundo visible, hay también un mundo invisi
 - [SmTh Iª q.111, acción sobre los hombres]
 - [SmTh Iª q.112, misión de los ángeles]
 - [SmTh Iª q.113, ángeles custodios]
+- [EjEsp2026, cap. 8: «Los Ángeles de Dios»]

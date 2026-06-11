@@ -1,7 +1,7 @@
 # San Bernardo de Claraval
 
 > Área: Persona
-> Última actualización: 2026-05-20
+> Última actualización: 2026-06-10
 
 ## Contexto histórico
 Bernardo de Claraval (1090-1153), religioso cisterciense, Doctor Melifluo de la Iglesia. Nacido en Fontaine-lès-Dijon (Borgoña), fue el gran reformador del Cister y uno de los personajes más influyentes del siglo XII. Fundó la abadía de Claraval, que llegó a tener 160 casas filiales.

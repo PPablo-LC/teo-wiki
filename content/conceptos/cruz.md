@@ -1,7 +1,7 @@
 # Cruz
 
 > Área: Cristología / Soteriología
-> Última actualización: 2026-06-02
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -61,3 +61,4 @@ La cruz es el acto consumativo de la [[redención]] y el sacrificio de la [[alia
 - [CEC §616-623]
 - [TPCr, Parte III, Libro I]
 - [VocTeoBib, «Cruz»]
+- [EjEsp2026, cap. 7, 11]

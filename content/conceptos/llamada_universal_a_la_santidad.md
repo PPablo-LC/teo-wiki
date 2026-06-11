@@ -1,7 +1,7 @@
 # Llamada universal a la santidad
 
 > Área: Dogmática / Espiritualidad
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -55,3 +55,4 @@ Se relaciona con la [[santidad]], la [[perfección_cristiana]], la [[vocación]]
 - [CEC §2013, §2015, §826, §1968]
 - [TPCr, Segunda Parte, Cap. II; Tercera Parte]
 - [Concilio Vaticano II, Lumen Gentium, Cap. V]
+- [EjEsp2026, cap. 5: «El esplendor de la Verdad»]

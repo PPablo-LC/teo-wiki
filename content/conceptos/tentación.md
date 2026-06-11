@@ -1,7 +1,7 @@
 # Tentación
 
 > Área: Ascética y Moral
-> Última actualización: 2026-05-20
+> Última actualización: 2026-06-10
 
 ## Definición
 
@@ -76,3 +76,4 @@ Dios no tienta al mal (St 1,13); permite la tentación para mayor bien del alma.
 
 - TPCr, Tercera Parte, Libro I, Cap. III, Art. 1, n.210-213
 - SmTh Iª q.114, sobre la insidia de los demonios
+- [EjEsp2026, cap. 1, 5, 8]

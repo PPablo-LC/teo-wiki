@@ -97,3 +97,4 @@ Ver artículo principal: [[virtud_de_la_esperanza]]
 - [CompDS §578-§579]
 - SmTh Ia-IIae q.40 aa.1-6
 - SmTh IIª-IIae q.17 aa.1-8; q.18 aa.1-4; q.22 aa.1-2
+- [EjEsp2026, cap. 11: «Comunicar Esperanza»]
