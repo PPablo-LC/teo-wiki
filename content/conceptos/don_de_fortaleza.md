@@ -1,7 +1,7 @@
 # Don de fortaleza
 
 > Área: Ascética / Mística
-> Última actualización: 2026-05-21
+> Última actualización: 2026-06-11
 
 ## Definición
 
@@ -41,7 +41,17 @@ Los actos principales son:
 
 ## Perspectivas por fuente
 
-### Según Royo Marín (TPCr)
+### Según la Summa Theologiae (SmTh)
+
+**IIª-IIae q.139 — El don de fortaleza:**
+
+**a.1 — El don de fortaleza perfecciona la virtud de la fortaleza:** El don de fortaleza es uno de los siete dones del Espíritu Santo (Is 11,2-3) que perfecciona la virtud de la fortaleza. Mientras que la virtud de la fortaleza inclina al hombre a obrar firmemente según la razón, el don de fortaleza lo dispone a ser movido por el Espíritu Santo con una fuerza superior, capaz de superar los límites naturales. La virtud obra según el modo humano; el don obra según el modo divino.
+
+**a.2 — Los actos del don de fortaleza:** El don de fortaleza produce dos actos principales: la paciencia (soportar los males con ánimo sereno e incluso gozoso) y la longanimidad (esperar con ánimo firme un bien lejano sin desfallecer). La paciencia del don es superior a la paciencia virtuosa porque incluye alegría sobrenatural en el sufrimiento. La longanimidad difiere de la perseverancia en que esta se refiere a la duración del tiempo, mientras que la longanimidad se refiere a la espera de un bien cuya consecución se demora.
+
+**a.3 — El don de fortaleza se relaciona con la bienaventuranza de los perseguidos:** El don de fortaleza tiene como bienaventuranza correspondiente: «Bienaventurados los que padecen persecución por la justicia, porque de ellos es el reino de los cielos» (Mt 5,10). Esta bienaventuranza es propia de quienes, movidos por el don de fortaleza, soportan persecuciones y sufrimientos por Cristo con ánimo invencible.
+
+**a.4 — El don de fortaleza tiene como fruto la paciencia y la longanimidad:** Los frutos del don de fortaleza son la paciencia (soportar el mal presente sin tristeza) y la longanimidad (esperar con ánimo firme el bien futuro). Ambos frutos son perfecciones del don que se manifiestan en la vida del justo movido por el Espíritu Santo.
 
 El don de fortaleza es «la fuerza del Espíritu Santo que supera todos los límites humanos».
 
@@ -100,4 +110,4 @@ La alegría en el sufrimiento:
 - II Corintios 12,7-10
 - Filipenses 4,13
 - Concilio de Trento
-- Santo Tomás, S.Th., I-II, q. 68; II-II, q. 139
+- SmTh Ia-IIae q.68; IIª-IIae q.139 aa.1-4

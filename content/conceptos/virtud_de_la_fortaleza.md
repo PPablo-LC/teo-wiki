@@ -1,7 +1,7 @@
 # Virtud de la fortaleza
 
 > Área: Moral
-> Última actualización: 2026-05-21
+> Última actualización: 2026-06-11
 
 ## Definición
 
@@ -72,7 +72,30 @@ Los pecados directamente opuestos a la fortaleza son:
 
 ## Perspectivas por fuente
 
-### Según Royo Marín (TPCr)
+### Según la Summa Theologiae (SmTh)
+
+**IIª-IIae q.123 — La virtud de la fortaleza:**
+
+**a.1 — La fortaleza es virtud:** La fortaleza es virtud porque hace firme a la voluntad en el bien de la razón frente a las pasiones del irascible, principalmente el temor y la audacia. Tiene el carácter de virtud en cuanto que modera dichas pasiones según la regla de la razón.
+
+**a.2 — Acto principal: resistir antes que atacar:** La fortaleza tiene dos actos: atacar (emprender lo arduo) y resistir (soportar el mal). El acto principal y más difícil es resistir, porque es más difícil mantenerse firme frente a un mal presente que emprender la lucha contra un mal futuro. Por eso el mártir, que resiste hasta la muerte, manifiesta la fortaleza perfecta.
+
+**a.3 — Materia propia: los peligros de muerte:** La materia principal de la fortaleza son los peligros de muerte en la guerra o en cualquier conflicto por el bien de la virtud. Se extiende secundariamente a todos los males y peligros graves que la vida presenta.
+
+**a.4 — Fortaleza natural vs. sobrenatural:** Puede haber fortaleza natural como hábito adquirido, pero la fortaleza perfecta como virtud infusa es un don de Dios que inclina a la firmeza en el bien por motivos sobrenaturales.
+
+**a.5 — La fortaleza trata sobre el temor y la audacia:** La fortaleza modera principalmente el temor (impidiendo que huya del bien) y la audacia (impidiendo que ataque temerariamente). Así, modera ambas pasiones: frena el temor excesivo y modera la audacia desordenada.
+
+**a.6 — El fin de la fortaleza es el bien de la virtud:** El fin del fuerte no es la muerte misma ni el peligro, sino el bien de la virtud por el cual afronta el peligro. Por eso la fortaleza es virtud, porque ordena el acto al bien de la razón.
+
+**q.128 — Partes de la fortaleza:** Santo Tomás enumera las partes de la fortaleza siguiendo la división de Tulio (Cicerón):
+- **Partes integrales**: magnanimidad, magnificencia, paciencia, perseverancia
+- **Partes subjetivas**: fortaleza militar, fortaleza civil
+- **Partes potenciales** (virtudes anejas): magnanimidad (hacia los grandes honores), magnificencia (hacia los grandes gastos), paciencia (ante los males presentes), perseverancia (ante los bienes futuros y difíciles)
+
+La fortaleza en sentido estricto tiene como materia los peligros de muerte; las virtudes anejas versan sobre materias menos graves pero afines.
+
+**q.140 — Efectos de la fortaleza:** Los efectos propios de la fortaleza son la paz (tranquilidad del ánimo ante los peligros) y la seguridad (firmeza de ánimo para no temer los males). La paz del fuerte no es ausencia de conflicto, sino serenidad interior fundada en la confianza en Dios y en la rectitud de la propia causa. La seguridad es la firmeza de ánimo que procede de la virtud, por la cual el fuerte no se deja perturbar por las amenazas. Ambos efectos son frutos de la virtud de la fortaleza y del don de fortaleza.
 
 La fortaleza es «la virtud que hace que la voluntad sea firme en el bien contra todos los temores y dificultades».
 
@@ -133,4 +156,4 @@ La fortaleza sobrenatural:
 - I Corintios 9,24-27
 - Hebreos 11,32-12,3
 - Concilio de Trento
-- Santo Tomás, S.Th., II-II, q. 123-140
+- SmTh IIª-IIae q.123 aa.1-6; q.128 aa.1-2

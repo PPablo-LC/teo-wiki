@@ -1,7 +1,7 @@
 # Magnificencia
 
 > Área: Moral
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-11
 
 ## Definición
 
@@ -15,7 +15,17 @@ Los vicios opuestos son la tacañería o mezquindad (por defecto) y el derroche 
 
 ## Perspectivas por fuente
 
-### Según el Catecismo (CEC)
+### Según la Summa Theologiae (SmTh)
+
+**IIª-IIae q.134 — La magnificencia:**
+
+**a.1 — La magnificencia es virtud aneja a la fortaleza:** La magnificencia es una virtud distinta de la magnanimidad. Mientras que la magnanimidad tiende a lo grande en cualquier género de virtud, la magnificencia se refiere específicamente a la ejecución de obras materiales grandes y costosas. Es una virtud especial porque tiene un objeto propio: hacer grandes gastos para realizar dignamente una obra. Pertenece a la fortaleza como virtud aneja porque requiere firmeza de ánimo para no desistir ante la magnitud de la obra o del gasto.
+
+**a.2 — La magnificencia versa sobre grandes gastos:** La materia propia de la magnificencia son los grandes gastos ordenados a un gran fin. El magnífico realiza obras espléndidas con grandes sumas, especialmente cuando se destinan al culto de Dios o al bien común. No teme el gasto cuando la obra lo requiere. Santo Tomás menciona como ejemplo la construcción de templos, hospitales y monumentos públicos (a.2 ad 2).
+
+**a.3 — Los vicios opuestos a la magnificencia:** Se le oponen dos vicios: la mezquindad (parvificencia) por defecto, que consiste en gastar menos de lo que la obra requiere, y el derroche (banausia) por exceso, que consiste en gastar desordenadamente en obras que no lo merecen o más de lo necesario. La magnificencia es el justo medio entre ambos extremos.
+
+**a.4 — La magnificencia es parte de la fortaleza:** La magnificencia se enumera entre las partes potenciales de la fortaleza porque ayuda a la fortaleza principal en la ejecución de grandes obras, que requieren firmeza para superar las dificultades del gasto y del esfuerzo material. Es la virtud propia de quienes tienen capacidad de realizar obras grandes para la gloria de Dios y el bien común.
 
 El CEC no trata la magnificencia como virtud específica, pero el espíritu de la magnificencia se refleja en la enseñanza sobre el destino universal de los bienes y la obligación de los ricos de usar sus riquezas para el bien común y el culto divino.
 
@@ -43,3 +53,4 @@ Se relaciona con la [[fortaleza]] (virtud principal), la [[magnanimidad]], la [[
 
 - [CEC §2402-2406]
 - [TPCr, Tercera Parte, Libro II, Cap. II]
+- SmTh IIª-IIae q.134 aa.1-4

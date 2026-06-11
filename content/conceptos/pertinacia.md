@@ -1,7 +1,7 @@
 # Pertinacia
 
 > Área: Moral
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-11
 
 ## Definición
 
@@ -13,9 +13,15 @@ La pertinacia es el vicio opuesto a la perseverancia y a la constancia por exces
 
 ## Perspectivas por fuente
 
-### Según el Catecismo (CEC)
+### Según la Summa Theologiae (SmTh)
 
-No se encuentra una entrada directa sobre la pertinacia en el índice temático del CEC.
+**IIª-IIae q.138 — Vicios opuestos a la perseverancia:**
+
+**a.1 — La molicie o blandura:** La molicie (blandura) es el vicio por el cual el alma cede ante las dificultades y se aparta del bien por no soportar el esfuerzo o la molestia. Se opone a la perseverancia por defecto, pues mientras el perseverante se mantiene firme en el bien a pesar de las incomodidades, el muelle (blando) abandona por no querer sufrir. Santo Tomás la relaciona con el exceso de amor a los placeres, que hace al alma incapaz de soportar trabajos.
+
+**a.2 — La pertinacia o terquedad:** La pertinacia es el vicio opuesto a la perseverancia por exceso: es la obstinación en el propio parecer cuando la razón dicta ceder. El pertinaz se niega a cambiar de opinión o de conducta incluso cuando hay razones suficientes para hacerlo. Se distingue de la perseverancia virtuosa en que esta se mantiene firme en el bien, mientras que la pertinacia se aferra obstinadamente al propio juicio contra la razón.
+
+La pertinacia es hija de la vanagloria, porque el terco prefiere mantener su posición antes que reconocer su error, por miedo a perder la reputación o la apariencia de sabiduría (q.132 a.5).
 
 ### Según Royo Marín (TPCr)
 
@@ -34,4 +40,5 @@ La pertinacia o terquedad (138,2) se opone a la perseverancia y constancia por e
 
 ## Referencias
 
-- TPCr, Tercera Parte, Libro II, cap. II (STh. II-II, 138,2; 132,5)
+- TPCr, Tercera Parte, Libro II, cap. II
+- SmTh IIª-IIae q.138 aa.1-2; q.132 a.5

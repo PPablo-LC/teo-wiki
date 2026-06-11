@@ -1,7 +1,7 @@
 # Presunción
 
 > Área: Moral
-> Última actualización: 2026-06-08
+> Última actualización: 2026-06-11
 
 ## Definición
 
@@ -19,7 +19,7 @@ La presunción puede revestir dos formas principales: la que considera la bienav
 
 ### Según la Summa Theologiae (SmTh)
 
-**IIª-IIae q.21 — La presunción:**
+**IIª-IIae q.21 — La presunción como pecado contra la esperanza:**
 
 **a.1 — Doble objeto de la presunción:** Hay presunción por exceso en la esperanza que puede fundarse en el propio poder (opuesta a la magnanimidad) o en el poder divino (esperar el perdón sin penitencia o la gloria sin mérito), siendo esta última especie de pecado contra el Espíritu Santo.
 
@@ -28,6 +28,12 @@ La presunción puede revestir dos formas principales: la que considera la bienav
 **a.3 — Se opone más directamente a la esperanza que al temor:** Por ser ambas del mismo género (movimiento hacia el bien esperado), la presunción se opone a la esperanza como lo desordenado a lo ordenado.
 
 **a.4 — Nace de la vanagloria y de la soberbia:** La presunción fundada en el propio poder procede de la vanagloria. La que se apoya desordenadamente en la misericordia divina procede de la soberbia.
+
+**IIª-IIae q.130 — La presunción como vicio opuesto a la magnanimidad:**
+
+**a.1 — La presunción es pecado por exceso contra la magnanimidad:** La presunción, en cuanto vicio opuesto a la magnanimidad, es el apetito desordenado de obras grandes que superan las propias fuerzas. Mientras que el magnánimo tiende a lo grande según la recta razón, el presuntuoso intenta lo que excede su capacidad. Se opone a la magnanimidad del mismo modo que la pusilanimidad, pero por exceso, mientras que la pusilanimidad se opone por defecto.
+
+**a.2 — La presunción nace de la vanagloria:** La presunción procede del deseo desordenado de gloria: el presuntuoso busca el honor y la alabanza que acompañan a las grandes obras sin tener la virtud proporcionada. Santo Tomás la vincula con la vanagloria como su raíz, pues el apetito de gloria mueve al hombre a emprender lo que supera sus fuerzas.
 
 ### Según Royo Marín (TPCr)
 
@@ -60,4 +66,4 @@ La presunción se opone a la [[esperanza]] y al [[don_de_temor]]. Procede de la 
 - [CEC §2092]
 - [TPCr, Parte III, Libro II, Cap. II, n.351, 363, 371, 415]
 - [Santo Tomás, II-II, q.21, q.130]
-- SmTh IIª-IIae q.21 aa.1-4
+- SmTh IIª-IIae q.21 aa.1-4; q.130 aa.1-2

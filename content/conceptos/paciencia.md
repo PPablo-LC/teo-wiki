@@ -1,7 +1,7 @@
 # Paciencia
 
 > Área: Moral
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-11
 
 ## Definición
 
@@ -14,6 +14,20 @@ Es una de las virtudes más necesarias en la vida cristiana, porque siendo innum
 Por no practicar esta virtud, muchas almas pierden el mérito de sus trabajos, sufren mucho más al faltarles la conformidad con la voluntad de Dios y no dan un paso firme en el camino de la santificación.
 
 ## Perspectivas por fuente
+
+### Según la Summa Theologiae (SmTh)
+
+**IIª-IIae q.136 — La paciencia:**
+
+**a.1 — La paciencia es una virtud aneja a la fortaleza:** La paciencia es una virtud moral que inclina a soportar con ánimo sereno los males presentes, sin dejarse abatir por la tristeza. Es parte integral de la fortaleza porque su acto (soportar) es el acto principal de la fortaleza, aunque en materia menos grave (no necesariamente peligro de muerte). Santo Tomás la define como la virtud que conserva el bien de la razón frente a la tristeza causada por los males.
+
+**a.2 — La paciencia es una virtud especial:** La paciencia es una virtud distinta de la fortaleza y de la longanimidad. Se distingue de la fortaleza en que esta se ocupa de los peligros de muerte, mientras que la paciencia se ocupa de todos los males y sufrimientos. Se distingue de la longanimidad en que la paciencia soporta el mal presente, mientras que la longanimidad espera con ánimo firme un bien que tarda.
+
+**a.3 — La paciencia puede poseerse sin gracia santificante:** En sentido natural, puede haber paciencia adquirida sin gracia, pero la paciencia perfecta que soporta los males por amor de Dios y con alegría sobrenatural es fruto de la gracia santificante y del [[don_de_fortaleza]]. La paciencia de los filósofos paganos era imperfecta comparada con la cristiana.
+
+**a.4 — La paciencia es inseparable de la caridad:** La paciencia perfecta procede de la caridad, que hace al alma fuerte para soportarlo todo por amor de Dios. San Agustín dice que la paciencia de los justos es la caridad que todo lo soporta. Sin caridad, la paciencia puede ser natural, pero no meritoria para la vida eterna.
+
+**a.5 — La paciencia es la raíz y guardiana de todas las virtudes:** Santo Tomás, siguiendo a San Gregorio Magno, enseña que la paciencia guarda las demás virtudes porque sin ella ninguna virtud se mantiene firmemente ante las adversidades. Por eso llama a la paciencia «raíz y custodia de todas las virtudes».
 
 ### Según el Catecismo (CEC)
 

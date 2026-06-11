@@ -1,7 +1,7 @@
 # Martirio
 
 > Área: Moral / Ascética
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-11
 
 ## Definición
 
@@ -21,7 +21,19 @@ El Catecismo enseña que «el martirio es el supremo testimonio de la verdad de 
 
 «La Iglesia considera con gran reverencia el martirio como un don excepcional y la prueba del más grande amor. Pocos son los llamados a él, pero todos deben estar dispuestos a confesar a Cristo ante los hombres» (§2474).
 
-### Según Royo Marín (TPCr)
+### Según la Summa Theologiae (SmTh)
+
+**IIª-IIae q.124 — El martirio:**
+
+**a.1 — El martirio es acto de fortaleza:** Aunque el martirio procede principalmente de la caridad (que ordena al hombre a Dios como fin último), es formalmente acto de la virtud de la fortaleza, que es la que ejecuta el acto de resistir hasta la muerte. La caridad mueve a la fortaleza como virtud principal, pero el acto mismo de sufrir la muerte es propio de la fortaleza, del mismo modo que la intención del fin pertenece a la virtud principal y la ejecución a la virtud instrumental.
+
+**a.2 — El martirio es el acto más perfecto de la fe:** El martirio es el acto más perfecto de la fe porque el mártil da testimonio de ella hasta la muerte. Pero la perfección del martirio requiere la caridad, que informa la confesión de la fe. La fe es la raíz del martirio, pues el mártir muere por la verdad de la fe.
+
+**a.3 — El martirio es el acto más perfecto de la caridad:** Aunque el martirio es formalmente acto de fortaleza, materialmente es acto de caridad, porque se soporta la muerte por amor a Dios. El martirio es la máxima manifestación de la caridad, pues nadie tiene mayor amor que el que da la vida por sus amigos (Jn 15,13).
+
+**a.4 — La muerte por Cristo hace mártir:** Para que haya verdadero martirio se requiere: a) la muerte real (no basta el deseo), b) por causa de la fe o de alguna verdad moral inseparable de ella, c) soportada con paciencia y fortaleza. El mero deseo de martirio no constituye martirio, pero es meritorio.
+
+**a.5 — El martirio es meritorio por sí mismo:** El martirio es acto de perfecta caridad y, por tanto, meritorio. En el martirio se ofrece a Dios el sacrificio supremo de la propia vida, por lo que alcanza el perdón de todos los pecados y la vida eterna.
 
 Royo Marín incluye el martirio entre los actos más perfectos de la virtud de la fortaleza. El martirio es el acto supremo de la caridad y del testimonio cristiano. Quien muere por Cristo alcanza inmediatamente la vida eterna, porque el martirio, junto con la caridad perfecta que lo anima, remite toda pena temporal.
 
@@ -48,3 +60,4 @@ El martirio es el acto supremo de la [[fortaleza]] y la [[caridad]]. Se relacion
 
 - [CEC §2473-2474]
 - [TPCr, Parte III, Libro II, Cap. 2]
+- SmTh IIª-IIae q.124 aa.1-5

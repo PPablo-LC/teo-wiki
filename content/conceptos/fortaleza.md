@@ -1,7 +1,7 @@
 # Fortaleza
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-11
 
 ## Definición
 
@@ -23,3 +23,4 @@ Ver artículo principal: [[virtud_de_la_fortaleza]]
 
 - CEC §1808-1809
 - TPCr, Tercera Parte, Libro I, Cap. VI
+- SmTh IIª-IIae q.123-140
