@@ -1,7 +1,7 @@
 # Virginidad
 
 > Área: Moral / Ascética
-> Última actualización: 2026-06-02
+> Última actualización: 2026-06-11
 
 ## Definición
 
@@ -29,6 +29,21 @@ La Virgen María es el modelo perfecto de virginidad: es la «Virgen» por excel
 
 El P. Jorge Loring aborda la virginidad desde dos perspectivas complementarias. Por un lado, afirma que «el mejor regalo de bodas que espera una persona es la virginidad de su pareja» (PS §12,68,13), destacando el valor de la virginidad como don de uno mismo en el matrimonio. Por otro lado, enseña que la virginidad perpetua por el Reino de los cielos es un estado más excelente, que permite consagrarse enteramente al servicio de Dios, siguiendo el ejemplo de Cristo, que fue célibe, y de la Virgen María, que fue «virgen antes del parto, en el parto y después del parto» (PS §05,30,3). El celibato sacerdotal tiene su fundamento en que «Cristo fue célibe, y el sacerdote es alter Christus» (PS §13,97,6).
 
+### Según la Summa Theologiae (SmTh)
+
+#### Q152: La virginidad
+
+**Esencia de la virginidad (a.1):** La virginidad no consiste primariamente en la integridad física (el himen intacto), sino en la integridad de la mente y la carne: la mente que rechaza libre y permanentemente todo placer venéreo, y la carne que no ha experimentado la corrupción del acto venéreo. Sin embargo, la integridad física es un signo natural de la virginidad, y violarla contra la voluntad no destruye la virginidad espiritual.
+
+**Licitud del estado virginal (a.2):** La virginidad es lícita y virtuosa. No es un desprecio de la creación (como pensaban los maniqueos), sino que ordena la vida según el fin último: quien no se casa para dedicarse más libremente a Dios obra rectamente. El matrimonio es bueno, pero la virginidad es mejor, como dice San Pablo (1 Cor 7).
+
+**La virginidad como virtud (a.3):** La virginidad tiene razón de virtud por el fin que la mueve: la entrega total a Dios. La materia de esta virtud es la abstinencia de todo placer venéreo, no por el bien del cuerpo, sino por el bien del alma: para adherirse a Dios sin división. Por eso la virginidad es una virtud especial aneja a la castidad, más perfecta que la castidad conyugal.
+
+**Excelencia comparativa (a.4):** La virginidad es más excelente que el matrimonio. La razón es doble:
+1. Por el bien del alma: quien se abstiene de los placeres venéreos completamente puede dedicarse sin división al servicio de Dios.
+2. Por el bien del cuerpo: la integridad virginal es figura de la incorrupción futura.
+Sin embargo, la virginidad no es la más excelente de todas las virtudes: la caridad, la fe, la humildad y la paciencia en el martirio la superan. La virginidad sin caridad es como lámpara sin aceite.
+
 ## Distinciones importantes
 
 - Virginidad ≠ castidad: la castidad es virtud para todos; la virginidad es estado de vida
@@ -38,7 +53,7 @@ El P. Jorge Loring aborda la virginidad desde dos perspectivas complementarias. 
 
 ## Relaciones doctrinales
 
-[[castidad]], [[vida_consagrada]], [[matrimonio]], [[consejos_evangélicos]], [[celibato]], [[jorge_loring]]
+[[castidad]], [[vida_consagrada]], [[matrimonio]], [[consejos_evangélicos]], [[celibato]], [[jorge_loring]], [[continencia]]
 
 ## Referencias
 

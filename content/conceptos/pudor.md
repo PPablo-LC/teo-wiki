@@ -1,7 +1,7 @@
 # Pudor
 
 > Área: Moral
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-11
 
 ## Definición
 
@@ -28,9 +28,20 @@ Antiguamente la esposa cubría su cabeza con un velo en señal de pudor y de sum
 - El pudor varía culturalmente pero su fundamento es universal
 - Se ordena a la castidad y a la dignidad de la persona
 
+### Según la Summa Theologiae (SmTh)
+
+#### Q151 a.4: El pudor como parte de la castidad
+
+El pudor (*pudicitia*) no es una virtud distinta de la castidad, sino la castidad misma en cuanto se refiere al orden debido en los actos venéreos. Santo Tomás distingue:
+
+- La **vergüenza** (*verecundia*) es el temor a la deshonra o al oprobio por una acción torpe. Es una pasión, no una virtud.
+- La **decencia sexual** (*pudicitia*) es la castidad misma en cuanto ordena los actos venéreos según la recta razón, evitando no solo el pecado sino también la apariencia de torpeza.
+
+El pudor es como el "timbre" que anuncia la castidad: quien es casto interiormente manifiesta pudor exteriormente en sus palabras, vestido y gestos. Por eso se dice que el pudor es una parte de la castidad (como parte potencial o integral), no una virtud separada.
+
 ## Relaciones doctrinales
 
-[[templanza]], [[modestia]], [[virtud_de_la_templanza]], [[pureza]], [[castidad]]
+[[templanza]], [[modestia]], [[virtud_de_la_templanza]], [[pureza]], [[castidad]], [[continencia]]
 
 ## Referencias
 

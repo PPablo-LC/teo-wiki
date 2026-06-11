@@ -1,7 +1,7 @@
 # Castidad
 
 > Área: Moral
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-11
 
 ## Definición
 
@@ -45,6 +45,23 @@ El P. Jorge Loring dedica gran parte del capítulo 12 a la pureza y la castidad 
 
 Loring distingue entre amor y lujuria: «En el amor valoro a la persona por sus cualidades, y esto me lleva a sacrificarme por el bien de ella; en la lujuria busco a la persona por las gratificaciones que me proporciona». La castidad protege el verdadero amor, que es generoso y no egoísta. Quien de soltero no ha aprendido a dominar sus impulsos, difícilmente lo logrará después de casado (PS §12,68,13-14).
 
+### Según la Summa Theologiae (SmTh)
+
+#### Q151: La castidad
+
+**Naturaleza de la castidad (a.1):** La castidad es una virtud. Su nombre deriva del hecho de que la razón reprueba (*castigat*) los actos venéreos que se apartan de la recta razón. Pertenece a la templanza como virtud especial, pues su materia son los actos venéreos, que requieren especial moderación por su intensidad y porque el uso de la razón queda parcialmente impedido durante ellos.
+
+**Virtud general y especial (a.2):** La castidad puede entenderse de dos modos:
+- Como virtud general: en cuanto que todo acto virtuoso requiere cierta honestidad que aparta de la torpeza.
+- Como virtud especial: en cuanto modera los actos venéreos, que tienen su propia especie de torpeza (la incontinencia venérea). Tomás sigue aquí a San Agustín, quien identifica la castidad con la honestidad aplicada a la materia venérea.
+
+**Distinción de la abstinencia (a.3):** La castidad es distinta de la abstinencia. Aunque ambas pertenecen a la templanza, difieren en la materia: la abstinencia modera el placer del gusto (comida y bebida), mientras que la castidad modera el placer venéreo (tacto). Son dos virtudes específicamente distintas, pero unidas en la templanza como su género próximo.
+
+**Relación con el pudor (a.4):** Existe una relación intrínseca entre castidad y pudor (*pudicitia*):
+- El pudor es una parte de la castidad — no una virtud distinta, sino la castidad en cuanto produce vergüenza por lo torpe.
+- El pudor propiamente dicho (*verecundia*) es el temor a la deshonra. La *pudicitia* (pudor en sentido de decencia sexual) es la castidad misma en cuanto se aplica al acto venéreo con el debido orden.
+- Por eso se dice que el pudor es como el "timbre" de la castidad: la castidad da el orden interior, y el pudor lo manifiesta exteriormente.
+
 ## Distinciones importantes
 
 - **Castidad virginal**: abstención perpetua de toda delectación venérea por motivos sobrenaturales
@@ -64,7 +81,7 @@ La [[templanza]] es la virtud cardinal de la que la castidad es parte subjetiva.
 - [[tim_barry_mortification_maketh_man]]
 
 ## Ver también
-[[templanza]], [[lujuria]], [[voto_de_castidad]], [[matrimonio]], [[pureza_de_corazón]], [[virginidad]], [[jorge_loring]]
+[[templanza]], [[lujuria]], [[voto_de_castidad]], [[matrimonio]], [[pureza_de_corazón]], [[virginidad]], [[jorge_loring]], [[continencia]], [[incontinencia]], [[pudor]]
 
 ## Referencias
 
