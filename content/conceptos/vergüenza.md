@@ -1,7 +1,7 @@
 # Vergüenza
 
 > Área: Moral
-> Última actualización: 2026-06-02
+> Última actualización: 2026-06-11
 
 ## Definición
 
@@ -30,6 +30,12 @@ El cristiano no debe avergonzarse de dar testimonio del Señor (2 Tim 1,8). Pedr
 ### Según Royo Marín (TPCr)
 
 La TPCr trata la vergüenza en varios contextos. Es parte integral de la virtud de la templanza: la «vergüenza (o temor al oprobio)» es una de sus partes integrales (n. 429). Como consecuencia del pecado, «la vergüenza y el remordimiento» — inmediatamente después del pecado «se deja oír, inflexible y terrible, la voz de la conciencia» (n. 455). Los placeres desordenados de la comida y la generación son «la vergüenza del hombre» (n. 686-690). Las almas enamoradas de María «sienten el rubor y la vergüenza de andar siempre buscando sus comodidades» (n. 788).
+
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata la vergüenza en la cuestión 144 como parte integral de la templanza. Define la vergüenza como «el temor a un acto torpe», precisamente el temor al vituperio u oprobio que merece la culpa (a.2). No es una virtud en sentido propio —le falta la perfección del hábito electivo, pues es una pasión, no un hábito— pero es digna de alabanza como disposición a la virtud (a.1).
+
+El hombre se avergüenza más ante las personas allegadas, cuyo testimonio valora más por el conocimiento que tienen de sus hechos y por el posible daño que pueden causarle (a.3). En los hombres virtuosos no suele darse la vergüenza actual porque evitan lo torpe, pero está en ellos como disposición: si hicieran algo torpe, se avergonzarían (a.4).
 
 ## Distinciones importantes
 

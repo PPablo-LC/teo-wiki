@@ -1,7 +1,7 @@
 # Gula
 
 > Área: Moral
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-11
 
 ## Definición
 
@@ -16,6 +16,12 @@ La gula es considerada un pecado capital porque engendra otros pecados y vicios.
 ### Según el Catecismo (CEC)
 
 La gula es enumerada entre los siete pecados capitales: «Son llamados capitales porque generan otros pecados, otros vicios. Son la soberbia, la avaricia, la envidia, la ira, la lujuria, la gula, la pereza» (§1866). La templanza modera la atracción de los placeres y procura el equilibrio en el uso de los bienes creados (§1809).
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata la gula en la cuestión 148 como vicio opuesto a la abstinencia. La gula es pecado cuando el apetito de comer o beber es desordenado, apartándose del orden de la razón (a.1). Puede ser pecado mortal cuando aparta del fin último —cuando el hombre está dispuesto a obrar contra los preceptos divinos por conseguir el deleite— y venial cuando el desorden se da solo en los medios (a.2). No es el pecado más grave, pues su materia es la sustentación del cuerpo, aunque de él se derivan muchos otros (a.3).
+
+Distingue cinco especies de gula según San Gregorio: adelantar la hora, exigir manjares exquisitos, preparación excesivamente esmerada, exceso en la cantidad y voracidad (a.4). Es vicio capital porque el deleite de la comida es un fin muy apetecible que lleva a otros pecados (a.5). Sus hijas son: la alegría necia, la bufonería, la inmundicia, la locuacidad y la ceguera mental (a.6).
+
 ### Según Royo Marín (TPCr)
 
 Royó Marín dedica amplio espacio a la mortificación del gusto, citando extensamente a San Juan de la Cruz. Los efectos desastrosos de la gula incluyen:

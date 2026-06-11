@@ -1,7 +1,7 @@
 # Virtud de la templanza
 
 > Área: Moral
-> Última actualización: 2026-05-21
+> Última actualización: 2026-06-11
 
 ## Definición
 
@@ -84,6 +84,20 @@ La templanza y la castidad:
 La excelencia de la virginidad:
 
 «La virginidad perpetua por el reino de los cielos es más excelente que el matrimonio, aunque ambos son estados buenos y santos cuando se viven según el espíritu de Cristo. La virginidad se ordena más directamente a la contemplación de las cosas divinas y a la unión íntima con Dios, sin las preocupaciones y distracciones propias del estado matrimonial.»
+
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás dedica las cuestiones 141-143 a la templanza, sus vicios opuestos y sus partes.
+
+**Naturaleza de la templanza (q.141):** La templanza es virtud porque inclina al hombre al bien, que consiste en vivir conforme a la razón (a.1). Es virtud especial por antonomasia, pues pone freno al deseo de lo que más fuertemente atrae al hombre (a.2). Se ocupa principalmente de los deseos y placeres del apetito concupiscible (a.3), específicamente de los placeres del tacto relativos a la conservación del individuo (comida y bebida) y de la especie (placeres sexuales) (a.4). Los placeres del gusto, olfato y vista le corresponden solo secundariamente (a.5).
+
+**Norma de la templanza (q.141 a.6):** La norma de la templanza son las necesidades de la vida presente, no solo lo necesario absoluto para sobrevivir, sino lo necesario para vivir adecuadamente según salud, bienestar, honestidad y estado social.
+
+**Virtud cardinal (q.141 a.7-8):** Es virtud cardinal porque la moderación es especialmente digna de elogio sobre los deleites más connaturales y difíciles de refrenar. Sin embargo, no es la más excelente de las virtudes: la justicia y la fortaleza miran más al bien común, superior al bien individual.
+
+**Vicios opuestos (q.142):** Se oponen a la templanza dos vicios: por exceso, la intemperancia; por defecto, la insensibilidad. La insensibilidad es vicio cuando rechaza los placeres necesarios para la conservación de la naturaleza (a.1), aunque la abstinencia por un fin laudable —salud, oficio, penitencia o contemplación— no es viciosa. La intemperancia es el vicio más vergonzoso: opone al hombre a su excelencia racional asemejándolo a los brutos y oscurece el brillo de la razón (a.4). Es más grave que la timidez, pues es más voluntaria y su materia menos necesaria (a.3).
+
+**Partes de la templanza (q.143):** Tres clases de partes. Partes integrales: la vergüenza (que rehúye la torpeza) y la honestidad (que ama la belleza de la templanza). Partes subjetivas (especies): la abstinencia (comida), la sobriedad (bebida), la castidad (placeres venéreos) y el pudor (placeres concomitantes). Partes potenciales (virtudes anejas): la continencia, la humildad, la mansedumbre y clemencia, y la modestia.
 
 ## Distinciones importantes
 

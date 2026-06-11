@@ -1,7 +1,7 @@
 # Abstinencia
 
 > Área: Moral — Ascética
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-11
 
 ## Definición
 
@@ -20,6 +20,10 @@ El ayuno y la abstinencia se presentan como muestra de la penitencia interior de
 ### Según el Código de Derecho Canónico (CIC)
 
 El CIC regula la abstinencia en los cánones 1249-1253 sobre los días de penitencia. Son días penitenciales todos los viernes del año y el tiempo de cuaresma (c. 1250). Todos los viernes, a no ser que coincidan con una solemnidad, debe guardarse la abstinencia de carne, o de otro alimento que determine la Conferencia Episcopal (c. 1251). El ayuno y la abstinencia se guardarán el miércoles de Ceniza y el Viernes Santo (c. 1251). La ley de la abstinencia obliga a los que han cumplido catorce años (c. 1252). La Conferencia Episcopal puede determinar con más detalle el modo de observar la abstinencia, así como sustituirla en todo o en parte por otras formas de penitencia, como obras de caridad y prácticas de piedad (c. 1253).
+
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata la abstinencia en la cuestión 146 como parte subjetiva de la templanza. La abstinencia es virtud cuando la privación de alimento está regulada por la razón; en sí misma, la mera sustracción de alimento es indiferente (a.1). Es virtud especial porque los placeres de la comida pueden apartar al hombre del bien de la razón de un modo particular, tanto por la fuerza del placer como por la necesidad del alimento para la vida (a.2).
 
 ### Según Royo Marín (TPCr)
 

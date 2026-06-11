@@ -1,7 +1,7 @@
 # Ayuno
 
 > Área: Ascética
-> Última actualización: 2026-06-02
+> Última actualización: 2026-06-11
 
 ## Definición
 
@@ -24,6 +24,12 @@ El CIC regula los días de penitencia en los cánones 1249-1253. Todos los fiele
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 El ayuno en la Biblia es siempre un gesto religioso que traduce la humildad y la dependencia total de Dios: «humillar el alma» (*Lev 16,29*). Acompaña la oración de petición, el luto y la penitencia. Jesús ayunó cuarenta días en el desierto (*Mt 4,1-4*) y enseñó que el ayuno debe hacerse en secreto, solo ante Dios (*Mt 6,16-18*). La Iglesia primitiva conservó la práctica del ayuno (*Act 13,2-3; 14,22*). El verdadero ayuno cristiano es expresión del deseo del esposo ausente y espera de su retorno (*Mc 2,19-20*) [VocTeoBib, «Ayuno»].
+
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata el ayuno en la cuestión 147 como acto propio de la abstinencia. El ayuno es acto de virtud cuando se ordena racionalmente a un bien honesto, cumpliendo tres fines: frenar la concupiscencia, elevar la mente a la contemplación y satisfacer por los pecados (a.1). Es acto propio de la abstinencia, pues ambas tienen por materia la comida (a.2).
+
+El ayuno puede ser objeto de precepto eclesiástico, pues la Iglesia puede determinar su tiempo y modo para el bien común espiritual (a.3). No todos están obligados en las mismas circunstancias: niños, enfermos, peregrinos y trabajadores pueden quedar dispensados (a.4). La Iglesia estableció la Cuaresma, las Cuatro Témporas y las vigilias como días de ayuno (a.5). Quienes ayunan deben hacer una sola comida al día (a.6), tomarla hacia la hora nona (a.7), y abstenerse de carne, huevos y lacticinios, pues estos alimentos excitan especialmente la concupiscencia (a.8).
 
 ### Según Royo Marín (TPCr)
 
