@@ -1,7 +1,7 @@
 # Soberbia
 
 > Área: Moral
-> Última actualización: 2026-06-08
+> Última actualización: 2026-06-11
 
 ## Definición
 
@@ -28,13 +28,39 @@ Los sabios enseñan que «antes de la ruina está la soberbia» (Prov 16,18) y q
 En el NT, la soberbia de los fariseos es denunciada por Jesús (Lc 18,9-14). El publicano humilde es justificado, no el fariseo soberbio. María proclama que Dios «dispersa a los soberbios en el pensamiento de su corazón» (Lc 1,51). Santiago cita Prov 3,34: «Dios resiste a los soberbios y da gracia a los humildes» (Sant 4,6). El vicio opuesto a la soberbia es la humildad, condición para entrar en el Reino.
 ### Según la Summa Theologiae (SmTh)
 
+**Iª q.63 — La soberbia de los ángeles:**
+
 Santo Tomás trata la soberbia como primer pecado de los ángeles en Iª q.63. El primer pecado del ángel no pudo ser más que el de soberbia, pues la naturaleza espiritual no tiende a bienes corporales, y no someterse a la regla del superior en lo debido es precisamente la soberbia (q.63 a.2). El ángel pecó apeteciendo ser como Dios por semejanza: deseó obtener la bienaventuranza por la capacidad de su naturaleza, desviando su apetito de la bienaventuranza sobrenatural que proviene de la gracia (q.63 a.3). No pecó por ignorancia o pasión (como el hombre), sino por defecto en la elección: se inclinó al propio bien sin someterse a la regla de la voluntad divina (q.63 a.1). De la soberbia se siguió la envidia: el ángel se dolió del bien del hombre y de la grandeza divina (q.63 a.2). Véase [[pecado_de_los_ángeles]].
 
 **Ia-IIae q.84 a.2 — La soberbia como principio de todo pecado:**
 
 En el orden de la intención, el fin es el principio. El hombre busca en todos los bienes temporales su propia excelencia. Por eso la soberbia, apetito desordenado de la propia excelencia, es el principio de todo pecado en cuanto el hombre, por ella, desprecia la sujeción a Dios. Mientras la avaricia es raíz (da la facultad material para pecar), la soberbia es principio (da el motivo formal: el amor desordenado de sí mismo). La soberbia no es un vicio capital más, sino la «reina de todos los vicios», que se encuentra en todos los pecados.
 
-[SmTh Iª q.63 a.1-3; SmTh Ia-IIae q.84 a.2; SmTh II-II q.162]
+**IIa-IIae Q162 — La soberbia en general:**
+
+**La soberbia como pecado (a.1):** La soberbia es pecado. Su nombre deriva de que alguien aspira a algo que está *sobre* sus posibilidades, apartándose de la recta razón. No es pecado desear la semejanza con Dios en sí misma, sino desearla desordenadamente, es decir, por encima de la medida debida.
+
+**Pecado especial y general (a.2):** La soberbia es un pecado especial por su objeto propio (deseo desordenado de la propia excelencia). Pero tiene una cierta generalidad porque de ella pueden nacer todos los pecados: directamente (todos los pecados pueden ordenarse al fin de la propia excelencia) o indirectamente (removiendo el obstáculo del temor de Dios).
+
+**Sujeto de la soberbia (a.3):** La soberbia reside en el apetito irascible (en sentido amplio, incluyendo el apetito intelectual). La soberbia busca lo arduo: la propia excelencia. Por eso corresponde al irascible.
+
+**Cuatro especies según San Gregorio (a.4):**
+1. Creer que el bien que se posee procede de sí mismo (atribuirse el bien propio).
+2. Creer que los dones gratuitos de Dios han sido merecidos (atribuirse el mérito).
+3. Jactarse de poseer lo que no se tiene (fingir bienes ajenos).
+4. Despreciar a los demás y querer brillar solo (buscar la excelencia comparativa).
+
+**Pecado mortal (a.5):** La soberbia, en sí misma, es pecado mortal porque implica el no someterse a Dios, que es apartarse de Él. Pero los primeros movimientos de soberbia no consentidos por la razón pueden ser veniales.
+
+**El pecado más grave (a.6):** Por parte de la aversión (el aspecto formal del pecado), la soberbia es el pecado más grave: mientras otros pecados se apartan de Dios por ignorancia, flaqueza o deseo de otro bien, la soberbia se aparta porque no quiere someterse a Dios. Boecio dice: «Aunque todos los vicios rehuyen a Dios, solo la soberbia se opone a Él».
+
+**Primero de todos los pecados (a.7):** La soberbia es el principio de todo pecado porque la aversión de Dios (que es la razón formal del pecado) pertenece esencialmente a la soberbia y, por participación, a los demás pecados.
+
+**Soberbia como reina de los vicios (a.8):** San Gregorio no incluye la soberbia entre los vicios capitales, sino que la considera «reina y madre de todos los vicios». Ella entrega el corazón a los siete vicios capitales como capitanes de un ejército.
+
+**Q163 — El pecado del primer hombre fue de soberbia (a.1):** El primer pecado de Adán fue de soberbia. Al buscar un bien espiritual por encima de su medida (la semejanza con Dios en el conocimiento y el poder), despreció la sujeción debida a Dios. La desobediencia al precepto divino fue causada por la soberbia. Eva pecó más gravemente que Adán (a.4): su soberbia fue mayor porque creyó que Dios les había prohibido el árbol por envidia; además, indujo al varón al pecado.
+
+[SmTh Iª q.63 a.1-3; SmTh Ia-IIae q.84 a.2; SmTh II-II q.162 a.1-8; SmTh II-II q.163 a.1-4]
 
 ### Según Royo Marín (TPCr)
 
@@ -63,7 +89,7 @@ La soberbia es el vicio opuesto a la [[humildad]]. Es la raíz de todos los peca
 - [[joe_mcinerny_humble_greatness]]
 
 ## Ver también
-[[humildad]], [[vanidad]], [[presunción]], [[pecado_capital]], [[don_de_temor]], [[orgullo]], [[ángeles]], [[pecado_de_los_ángeles]]
+[[humildad]], [[vanidad]], [[presunción]], [[pecado_capital]], [[don_de_temor]], [[orgullo]], [[ángeles]], [[pecado_de_los_ángeles]], [[pecado_original]]
 
 ## Referencias
 

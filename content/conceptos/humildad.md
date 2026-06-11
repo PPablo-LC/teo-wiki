@@ -1,7 +1,7 @@
 # Humildad
 
 > Área: Moral / Ascética
-> Última actualización: 2026-06-10
+> Última actualización: 2026-06-11
 
 ## Definición
 
@@ -20,6 +20,26 @@ Los santos, a medida que crecen en perfección, perciben con mayor claridad el a
 ### Según el Catecismo (CEC)
 
 La humildad es la base de la oración: «La oración es la elevación del alma a Dios... ¿Desde dónde hablamos cuando oramos? ¿Desde la altura de nuestro orgullo o desde lo más profundo de un corazón humilde y contrito? El que se humilla es ensalzado. La humildad es la base de la oración» (§2559). La adoración es «la acción de humillar el espíritu ante el Rey de la gloria» (§2628).
+### Según la Summa Theologiae (SmTh)
+
+#### Q161: La humildad
+
+**La humildad como virtud (a.1):** La humildad es una virtud. Así como la magnanimidad fortalece el ánimo contra la desesperación para desear cosas grandes según la razón, la humildad refrena y modera el apetito para que no aspire desmedidamente a las cosas excelsas. Ambas son necesarias sobre el apetito del bien arduo. La humildad no se opone a la magnanimidad, sino que coinciden en conformarse a la recta razón.
+
+**Sujeto de la humildad (a.2):** La humildad reside esencialmente en el apetito (irascible), no en el entendimiento. El conocimiento de los propios defectos pertenece a la humildad como regla directiva del apetito, pero su acto principal es la moderación del apetito de excelencia. Consiste principalmente en la sujeción del hombre a Dios, por lo que se acerca a la virtud de la religión.
+
+**Sumisión a todos (a.3):** Por humildad, el hombre debe someterse a todo prójimo en lo que hay de Dios en él. En lo que es suyo (defectos), debe considerar a los demás superiores. Pero no está obligado a someter lo que hay de Dios en él a lo humano del prójimo, ni a preferir necesariamente los dones ajenos a los propios. La humildad verdadera no exige fingimiento.
+
+**Parte de la modestia (a.4):** La humildad es parte de la modestia y de la templanza. El modo de la templanza es el freno o represión del ímpetu de alguna pasión. La humildad reprime el movimiento de esperanza desordenada que tiende a las cosas grandes. Por eso, al igual que la mansedumbre reprime la ira, la humildad reprime la presunción, y ambas son partes de la templanza.
+
+**Excelencia de la humildad (a.5):** La humildad no es la más excelente de las virtudes. Las virtudes teologales (fe, esperanza, caridad) la superan, así como las intelectuales y la justicia. Sin embargo, después de estas, la humildad es la más excelente porque dispone universalmente al hombre a someterse al orden de la razón. Es como el cimiento del edificio espiritual porque elimina la soberbia, que es el principal obstáculo para la gracia.
+
+**Grados de humildad (a.6):** Santo Tomás sistematiza los doce grados de la Regla de San Benito en cuatro categorías:
+1. **Raíz**: temor de Dios y recuerdo de sus mandamientos.
+2. **Apetito**: no seguir la propia voluntad, someterse al superior, paciencia en lo áspero.
+3. **Juicio**: confesar los pecados, considerarse indigno, tener a los demás por mejores.
+4. **Signos externos**: observar la regla común, hablar poco, no reírse desordenadamente, bajar los ojos.
+
 ### Según Royo Marín (TPCr)
 
 La humildad reside en el apetito irascible (no en el concupiscible como la templanza), porque se refiere a un bien arduo: la propia excelencia. Coincide con la templanza en el modo formal de moderar o reprimir.
@@ -60,7 +80,7 @@ La humildad se opone directamente a la [[soberbia]], primer pecado capital. Es r
 León XIV une la humildad a la gratitud como virtudes esenciales del sacerdote. Exhorta a la «humildad: la actitud de querer reconocer que no soy yo, es el Señor quien me ha dado la vida, es el Señor quien nos acompaña y nos lleva en sus brazos, incluso en esos momentos en los que soy más débil». La humildad es presentada como antídoto contra la autorreferencialidad y el clericalismo, y como fundamento para una vida de oración auténtica: «con esta actitud de amor, de servicio, de humildad, de escucha, podemos descubrir verdaderamente qué podemos hacer para responder a esta comunidad a la que estamos llamados a servir» [L_XIV-ClerRom, 19.02.2026].
 
 ## Ver también
-[[soberbia]], [[don_de_temor]], [[mansedumbre]], [[virgen_maría]], [[perfección_cristiana]], [[virtud_de_la_religión]]
+[[soberbia]], [[don_de_temor]], [[mansedumbre]], [[virgen_maría]], [[perfección_cristiana]], [[virtud_de_la_religión]], [[modestia]], [[magnanimidad]]
 
 ## Referencias
 

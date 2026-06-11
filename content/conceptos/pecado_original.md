@@ -1,7 +1,7 @@
 # Pecado original
 
 > Área: Dogmática
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-11
 
 ## Definición
 
@@ -16,6 +16,58 @@ Dios creó al hombre en santidad y justicia original. Tentado por el diablo, el 
 ### Según la Summa Theologiae (SmTh)
 
 **Ia-IIae q.81 — Transmisión del pecado original:**
+
+**a.1 — Se transmite por generación:** Todos los hombres descendientes de Adán pueden considerarse como un solo hombre en cuanto convienen en la naturaleza recibida del primer padre. El desorden de este hombre nacido de Adán es voluntario con la voluntad del primer padre, que mueve a todos los que proceden de él por origen, como la voluntad del alma mueve a los miembros del cuerpo. De ahí que el pecado se llame *original* (derivado del origen) y *pecado de la naturaleza*.
+
+**a.2 — Solo el primer pecado de Adán se transmite:** Los pecados actuales del primer padre o de otros antepasados no se transmiten, porque son puramente personales y no corrompen la naturaleza en lo esencial. Solo la justicia original (don gratuito a toda la naturaleza humana en Adán) fue perdida por el primer pecado, y solo ese desorden se transmite.
+
+**a.3 — A todos los hombres excepto Cristo:** Todo el que recibe la moción de Adán por la generación contrae el pecado original. Excepción: Cristo, concebido por obra del Espíritu Santo.
+
+**a.5 — Por el padre, no por la madre:** El principio activo en la generación proviene del padre; la madre suministra la materia. Por tanto, si Eva hubiese pecado sin Adán, los hijos no habrían contraído el pecado original.
+
+**Ia-IIae q.82 — Esencia del pecado original:**
+
+**a.1 — Es un hábito (disposición):** No en el sentido de hábito operativo (que inclina a la potencia a obrar), sino como disposición desordenada de la naturaleza compuesta, a semejanza de la enfermedad. Es un hábito corrompido: incluye privación (de la justicia original) y disposición positiva desordenada.
+
+**a.2 — Es uno en cada persona:** Específicamente uno por la causa (privación de la justicia original); numéricamente uno por el sujeto.
+
+**a.3 — Formal y materialmente:** Formalmente es la privación de la justicia original (aversión de Dios como principio del desorden). Materialmente es la concupiscencia (conversión desordenada a los bienes mudables).
+
+**a.4 — Es igual en todos:** La privación de la justicia original es total y no admite más y menos. La relación con el primer padre es idéntica en todos. Las diferencias en la proclividad a la concupiscencia provienen de la diversa complexión corporal, no del pecado original en sí.
+
+**Ia-IIae q.83 — Sujeto del pecado original:**
+
+**a.1 — En el alma, no en el cuerpo:** El cuerpo no puede ser sujeto de culpa. El pecado original es transmitido como culpa solo en cuanto llega al alma; al cuerpo llega como pena.
+
+**a.2 — Primariamente en la esencia del alma:** El origen (generación) alcanza al alma como forma del cuerpo, lo cual le conviene por su esencia, no por sus potencias.
+
+**a.3 — Inclina primariamente a la voluntad:** En cuanto inclinación al acto, el pecado original se refiere primariamente a la voluntad, que es la potencia que tiene la inclinación primera a pecar.
+
+**a.4 — Potencias especialmente infectadas:** La generativa, la concupiscible y el tacto están especialmente infectadas por su relación con el acto de la generación, por el cual se transmite el pecado original.
+
+**q.85 a.3 — Las cuatro heridas:** Por el pecado original, la naturaleza humana quedó con cuatro heridas: ignorancia (razón), malicia (voluntad), debilidad (irascible), concupiscencia (concupiscible).
+
+**IIa-IIae Q163 — El pecado del primer hombre:**
+
+**Fue de soberbia (a.1):** El primer pecado de Adán fue de soberbia. El hombre, en estado de inocencia, no podía tener el primer desorden en bienes sensibles (no había rebelión de la carne). Tuvo que ser en un bien espiritual, apetecido por encima de su medida: la semejanza desordenada con Dios. La desobediencia fue causada por la soberbia, no al revés.
+
+**Deseo de semejanza divina (a.2):** El primer hombre pecó deseando ser semejante a Dios de un modo desordenado: quería determinar por sí mismo lo bueno y lo malo (ciencia del bien y del mal) y alcanzar la bienaventuranza por su propio poder. No pecó deseando la semejanza de naturaleza (que ya poseía por creación), sino la semejanza en el conocimiento y el poder operativo.
+
+**Más grave por circunstancias (a.3):** El pecado de los primeros padres fue gravísimo por la condición de las personas (estado de inocencia, facilidad para no pecar), pero no fue el más grave por especie de pecado (blasfemia e infidelidad son mayores).
+
+**Eva pecó más gravemente que Adán (a.4):** La mujer pecó más por tres razones: mayor engreimiento (creyó que Dios prohibía el árbol por envidia), indujo al varón al pecado, y pecó contra Dios y contra el prójimo.
+
+**IIa-IIae Q164 — La pena del primer pecado:**
+
+**La muerte como pena (a.1):** La muerte y todos los defectos corporales son pena del pecado original. En el estado de inocencia, Dios concedió al hombre el privilegio de que el cuerpo estuviera totalmente sujeto al alma. Al pecar, la mente se apartó de Dios y se perdió ese privilegio, resultando la muerte, la enfermedad y la rebelión carnal. La muerte es natural por la condición de la materia (cuerpo compuesto de elementos opuestos), pero era un privilegio divino el que no ocurriera.
+
+**Penalidades particulares (a.2):** Las penas concretas narradas en Génesis 3 responden a una triple afectación: pérdida del paraíso y prohibición del árbol de la vida; penas en el cuerpo (dolor en el parto, sumisión de la mujer al varón, esterilidad de la tierra, trabajo con sudor); penas en el alma (confusión por la rebelión carnal, remordimiento, temor de la muerte).
+
+**IIa-IIae Q165 — La tentación de los primeros padres:**
+
+**Conveniencia de la tentación (a.1):** Fue conveniente que el hombre fuera tentado por el diablo. La divina Providencia dispone todo conforme a la naturaleza: el hombre podía ser ayudado u obstaculizado por otras criaturas. Un favor especial de la gracia le permitía resistir la tentación, dejándolo sometido a su propio albedrío.
+
+**Modo de la tentación (a.2):** El diablo tentó de dos modos: contra el entendimiento (prometiendo la semejanza con Dios mediante la ciencia) y contra los sentidos (usando la serpiente como instrumento externo, tentando a Eva primero por ser más débil, y luego usando a Eva para tentar a Adán). No pudo tentar mediante sugestión interior porque no tenía poder sobre el hombre en orden al pecado.
 
 **a.1 — Se transmite por generación:** Todos los hombres descendientes de Adán pueden considerarse como un solo hombre en cuanto convienen en la naturaleza recibida del primer padre. El desorden de este hombre nacido de Adán es voluntario con la voluntad del primer padre, que mueve a todos los que proceden de él por origen, como la voluntad del alma mueve a los miembros del cuerpo. De ahí que el pecado se llame *original* (derivado del origen) y *pecado de la naturaleza*.
 
@@ -84,7 +136,7 @@ Loring subraya que «la realidad del pecado original es dogma de fe», definido 
 - [[tim_barry_mortification_maketh_man]]
 
 ## Ver también
-[[creación]], [[hombre]], [[redención]], [[bautismo]], [[gracia_santificante]], [[jesucristo]], [[ángeles]], [[jorge_loring]]
+[[creación]], [[hombre]], [[redención]], [[bautismo]], [[gracia_santificante]], [[jesucristo]], [[ángeles]], [[jorge_loring]], [[soberbia]], [[tentación]]
 
 ## Referencias
 

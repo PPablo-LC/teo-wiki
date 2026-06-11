@@ -1,7 +1,7 @@
 # Ira
 
 > Área: Moral / Ascética
-> Última actualización: 2026-06-06
+> Última actualización: 2026-06-11
 
 ## Definición
 
@@ -21,7 +21,27 @@ La cólera y el odio son pecados contra la caridad (§2302-2303). Jesús enseña
 
 ### Según la Summa Theologiae (SmTh)
 
+**Ia-IIae Q46-48 — La ira como pasión:**
+
 Santo Tomás trata la ira como pasión del apetito irascible (q.46 a.1,3). Su objeto es doble: la venganza, que desea como un bien, y aquel de quien se venga, considerado como nocivo (q.46 a.2). La ira es una pasión compuesta, que incluye tristeza por la ofensa recibida y esperanza de la venganza (q.46 a.1). Se da con la razón en cuanto ésta denuncia la injuria, pero no la obedece plenamente, pues la conmoción del calor la hace impetuosa (q.46 a.4). Es más natural al hombre que la concupiscencia en cuanto racional, porque castigar es más humano (q.46 a.5). Es menos grave que el odio, pues desea el mal bajo razón de justicia vindicativa, mientras el odio quiere el mal absoluto (q.46 a.6). Se refiere a aquellos con quienes cabe justicia o injusticia (q.46 a.7). Sus especies son: la cólera (ira que se enciende rápidamente), la manía (ira que permanece largo tiempo en la memoria), y el furor (ira que no descansa hasta castigar) (q.46 a.8).
+
+**IIa-IIae Q158 — La ira como vicio:**
+
+**Licitud de la ira (a.1):** La ira no es siempre pecado. Según la recta razón, puede ser laudable (ira por celo de la justicia). Los estoicos erraron al condenar toda ira; los peripatéticos enseñan que la ira es buena cuando sigue a la razón y se modera por ella. La ira por celo es buena; la ira por vicio es mala.
+
+**La ira como pecado (a.2):** La ira es pecado cuando se aparta del orden de la razón, ya sea por el objeto (deseo de venganza injusta) o por el modo (excesiva intensidad). La ira por celo que desea la venganza según la justicia es laudable. La que se aparta de la razón en objeto o modo es pecaminosa.
+
+**Pecado mortal o venial (a.3):** La ira puede ser mortal por parte del objeto (cuando se desea una venganza gravemente injusta, opuesta a la caridad). Puede ser venial por imperfección del acto (movimiento precedente al juicio de la razón) o por la pequeñez de la venganza deseada. Por el modo, la ira desordenada no es en sí misma mortal, pero puede serlo cuando lleva a apartarse del amor a Dios o al prójimo.
+
+**Gravedad comparativa (a.4):** La ira no es el pecado más grave. El odio es peor que la envidia, y ésta peor que la ira. La ira desea el mal bajo razón de justa venganza, mientras que el odio desea el mal absoluto. La concupiscencia es peor que la ira porque busca un bien inferior.
+
+**Especies de ira (a.5):** El Filósofo distingue tres especies de iracundos: los *agudos* (se airan con facilidad y por cualquier motivo), los *amargos* (guardan la ira largo tiempo en la memoria y no se les pasa hasta que desaparece la tristeza), y los *difíciles* (no deponen la ira hasta castigar).
+
+**La ira como vicio capital (a.6):** La ira es vicio capital porque tiene un fin muy apetecible (la venganza bajo razón de bien) y su ímpetu arrastra la mente a ejecutar todo lo ordenado. San Gregorio la incluye entre los siete vicios capitales.
+
+**Hijas de la ira (a.7):** Seis hijas: *indignación* (considerar indigna la injuria recibida), *hinchazón de espíritu* (llenar el alma de pensamientos de venganza), *clamor* (locución desordenada y confusa), *injuria* (palabras injuriosas contra el prójimo), *blasfemia* (palabras injuriosas contra Dios), *querella* (daños cometidos contra el prójimo bajo el influjo de la ira).
+
+**Vicio opuesto por defecto (a.8):** Existe también un vicio por falta de ira, cuando el hombre no se airas teniendo motivo justo. La paciencia irracional alimenta la negligencia e invita al mal. La falta de ira puede ser signo de falta de juicio recto.
 
 La causa de la ira es el menosprecio o desdén recibido (q.47 a.2), que se manifiesta como desprecio, impedimento a la propia voluntad, o contumelia (q.47 a.1-2). La excelencia de quien se irrita dispone a airarse más fácilmente, pues el desprecio es más indigno (q.47 a.3). La pequeñez o defecto de aquel contra quien uno se irrita también aumenta la ira, porque es más indigno ser despreciado por un inferior (q.47 a.4).
 
@@ -47,7 +67,7 @@ Se relaciona con las [[pasiones]], la [[mansedumbre]] (virtud opuesta), la [[pac
 - [[tim_barry_the_strength_of_meekness]]
 
 ## Ver también
-[[pasiones]], [[mansedumbre]], [[paciencia]], [[pecado_capital]], [[soberbia]]
+[[pasiones]], [[mansedumbre]], [[paciencia]], [[pecado_capital]], [[soberbia]], [[clemencia]], [[crueldad]]
 
 ## Referencias
 

@@ -1,7 +1,7 @@
 # Mansedumbre
 
 > Área: Moral
-> Última actualización: 2026-06-02
+> Última actualización: 2026-06-11
 
 ## Definición
 
@@ -26,6 +26,18 @@ La mansedumbre es presentida ya en el AT como atributo divino: la bondad clement
 Moisés es el modelo veterotestamentario de la verdadera mansedumbre, que no es debilidad sino humilde sumisión a Dios fundada en la fe en su amor *Num 12,3* *Eclo 45,4*. Esta mansedumbre humilde caracteriza al Resto de Israel *Sof 3,12* y al rey mesiánico que dará paz a las naciones *Zac 9,9s*. Los mansos son guiados por Dios *Sal 25,9*, sostenidos *Sal 147,6*, salvados *Sal 76,10* y reciben la tierra en herencia *Sal 37,11*, palabra que Jesús retoma en la bienaventuranza *Mt 5,4*.
 
 La mansedumbre es fruto del Espíritu *Gal 5,23* y signo de la sabiduría de lo alto *Sant 3,13.17*. En su doble aspecto de suavidad tranquila (*prautes*) y moderación indulgente (*epieikeia*), caracteriza a Cristo mismo *2Cor 10,1*, a sus discípulos *Gal 6,1* *Col 3,12* *Ef 4,2* y a sus pastores *1Tim 6,11*. El verdadero cristiano muestra a todos una mansedumbre serena incluso en la persecución *Tit 3,2* *Flp 4,5*, dando testimonio de que el yugo del Señor es suave *Mt 11,30*.
+### Según la Summa Theologiae (SmTh)
+
+#### Q157: La clemencia y la mansedumbre
+
+**Distinción entre clemencia y mansedumbre (a.1):** No son la misma virtud. La mansedumbre modera la pasión interior de la ira, mientras que la clemencia modera el castigo exterior (la acción de imponer penas). Sin embargo, concurren al mismo efecto: la mansedumbre, al refrenar el ímpetu de la ira, facilita que la clemencia pueda disminuir las penas según la recta razón.
+
+**La mansedumbre como virtud (a.2):** La mansedumbre es una verdadera virtud moral. Sujeto el apetito a la razón moderando la ira conforme a la recta razón. No se opone a la severidad, sino que ambas siguen la razón: la severidad es inflexible cuando la razón lo exige; la mansedumbre modera cuando conviene.
+
+**Parte de la templanza (a.3):** La mansedumbre es parte de la templanza porque participa de su modo formal: el freno. La templanza frena las concupiscencias del tacto; la mansedumbre frena el ímpetu de la ira. Por eso Cicerón la considera parte de la templanza.
+
+**Excelencia (a.4):** Entre las virtudes que resisten a los afectos depravados, la mansedumbre tiene especial excelencia porque la ira —que ella modera— impide el libre juicio de la verdad. Por eso dice la Escritura que Dios se complace en la fe y en la mansedumbre. Sin embargo, no es superior a las virtudes teologales.
+
 ### Según Royo Marín (TPCr)
 
 La mansedumbre modera la ira de tal forma que no se levante sino cuando sea necesario y en la medida en que lo sea. Esto no significa que haya que renunciar siempre a la ira: en ocasiones se impone, y renunciar a ella sería faltar a la justicia o a la caridad. El mismo Cristo arrojó con el látigo a los profanadores del templo (Jn 2,15) y lanzó invectivas contra los fariseos (Mt 23).
@@ -55,7 +67,7 @@ La mansedumbre se relaciona con la [[humildad]] (Cristo las une: «manso y humil
 - [[tim_barry_the_strength_of_meekness]]
 
 ## Ver también
-[[humildad]], [[paciencia]], [[templanza]], [[ira]], [[don_de_temor]], [[don_de_piedad]], [[bienaventuranzas]]
+[[humildad]], [[paciencia]], [[templanza]], [[ira]], [[don_de_temor]], [[don_de_piedad]], [[bienaventuranzas]], [[clemencia]]
 
 ## Referencias
 

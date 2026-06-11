@@ -1,7 +1,7 @@
 # Modestia
 
 > Área: Moral
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-11
 
 ## Definición
 
@@ -35,13 +35,27 @@ El don de temor actúa sobre la modestia «suprimiendo en absoluto cualquier mov
 [TPCr, Parte III, Libro II, Cap. II, n.462, 471-473]
 
 
+### Según la Summa Theologiae (SmTh)
+
+#### Q160: La modestia
+
+**La modestia como parte de la templanza (a.1):** La modestia es parte de la templanza. Así como la magnificencia (grandes gastos) necesita complementarse con la liberalidad (gastos medianos), la templanza (materias difíciles: placeres del tacto) necesita complementarse con la modestia (materias menos difíciles). Cicerón considera la modestia parte de la templanza. El nombre de modestia deriva de *modo*: aunque todas las virtudes requieren modo, se atribuye especialmente a la virtud que impone el modo en las materias más pequeñas.
+
+**Materia de la modestia (a.2):** La modestia se ocupa de cuatro tipos de objetos:
+1. **El movimiento del ánimo hacia la excelencia** — moderado por la humildad.
+2. **El deseo de las cosas del conocimiento** — moderado por la estudiosidad.
+3. **Los movimientos y acciones corporales** — moderados por la decencia y honestidad en lo serio y por la eutrapelia en el juego.
+4. **El ornato externo** — vestidos y objetos similares, moderados por la modestia en el vestir.
+
+Santo Tomás sigue aquí a Cicerón, quien apartó de la modestia tanto la clemencia como la templanza, dejando a la modestia todos los demás objetos que han de ser moderados. No es una sola virtud, sino que bajo ella se comprenden varias virtudes específicas (humildad, estudiosidad, eutrapelia, modestia corporal y en el ornato).
+
 ## Relaciones doctrinales
 
 La modestia es parte de la [[templanza]] como virtud potencial. Se relaciona con la [[humildad]] (que modera el apetito de excelencia), la [[castidad]] y el [[pudor]]. Es fruto del Espíritu Santo, relacionado con el [[don_de_temor]].
 
 ## Ver también
 
-[[templanza]], [[humildad]], [[castidad]], [[pudor]], [[don_de_temor]], [[eutrapelia]], [[estudiosidad]]
+[[templanza]], [[humildad]], [[castidad]], [[pudor]], [[don_de_temor]], [[eutrapelia]], [[estudiosidad]], [[clemencia]], [[mansedumbre]]
 
 ## Referencias
 
