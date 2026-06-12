@@ -21,6 +21,12 @@ El CEC §522 enseña que la venida del Hijo de Dios es el centro del designio di
 
 La profecía mesiánica es profecía de predestinación: anuncia lo que Dios ha determinado realizar en Cristo. Se distingue de la profecía de conminación (anuncio condicional) y de presciencia (previsión de lo que sucederá sin predestinación).
 
+### Según la Summa Theologiae (SmTh)
+
+**División de la profecía (q.174 a.1):** Santo Tomás distingue tres especies de profecía según su objeto en el conocimiento divino. La profecía *de predestinación* se refiere a lo que Dios ha determinado hacer infaliblemente (como las profecías mesiánicas). La profecía *de presciencia* se refiere a lo que Dios prevé que sucederá por libre albedrío humano. La profecía *de conminación* anuncia lo que sucedería según el orden de las causas, pero condicionado a la respuesta humana.
+
+Las profecías mesiánicas pertenecen al primer género: son profecías de predestinación, cuyo cumplimiento es infalible porque Dios mismo las realiza. En Cristo se cumplen todas las profecías del Antiguo Testamento, no solo literalmente sino en sentido pleno.
+
 ## Relaciones doctrinales
 
 Se relaciona con la [[profecía]] como carisma, con el [[cumplimiento_de_las_profecías]] en Cristo, con la [[tipología]] que conecta ambos Testamentos y con la [[revelación_divina]] que culmina en el Verbo encarnado.

@@ -19,13 +19,15 @@ El éxtasis está íntimamente relacionado con los incendios de amor, pues la le
 
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás trata el éxtasis (*extasis*) como un efecto del amor. El éxtasis consiste en salir fuera de sí, y el amor lo produce de dos modos: según la potencia aprehensiva (la meditación intensa del amado aparta la mente de otras cosas) y según la potencia apetitiva (el afecto se dirige hacia otro saliendo de sí mismo). El amor de amistad produce éxtasis de modo absoluto, porque el amante sale de sí para buscar el bien del amigo; el amor de concupiscencia lo produce solo bajo cierto aspecto, porque busca el bien exterior para sí mismo, replegándose finalmente en sí (q.28 a.3).
+**Éxtasis como efecto del amor (Ia-IIae q.28 a.3):** Santo Tomás trata el éxtasis (*extasis*) como un efecto del amor. El éxtasis consiste en salir fuera de sí, y el amor lo produce de dos modos: según la potencia aprehensiva (la meditación intensa del amado aparta la mente de otras cosas) y según la potencia apetitiva (el afecto se dirige hacia otro saliendo de sí mismo). El amor de amistad produce éxtasis de modo absoluto, porque el amante sale de sí para buscar el bien del amigo; el amor de concupiscencia lo produce solo bajo cierto aspecto, porque busca el bien exterior para sí mismo, replegándose finalmente en sí (q.28 a.3).
 
 [SmTh Ia-IIae q.28 a.3]
+
+**Rapto y éxtasis (IIa-IIae q.175):** Santo Tomás distingue el éxtasis del rapto en la cuestión 175. El éxtasis es una «salida de sí mismo» que puede pertenecer tanto a la facultad apetitiva (por amor intenso) como a la cognoscitiva (por contemplación elevada). El rapto añade al éxtasis el elemento de violencia: es una elevación del alma hecha por Dios *con abstracción de los sentidos y sin la intención propia del que es arrebatado* (q.175 a.1). Así, el rapto es un éxtasis violento, mientras que el éxtasis en sí mismo puede ser suave. El rapto pertenece principalmente a la facultad cognoscitiva como término, aunque puede tener su causa en la facultad apetitiva (amor intenso que causa la enajenación) (q.175 a.2). El ejemplo supremo de rapto es el de San Pablo al tercer cielo (2 Cor 12,2). [SmTh IIa-IIae q.175 a.1-6]
+
 ### Según Royo Marín (TPCr)
 
 Royo Marín trata el éxtasis largamente en el lugar que le corresponde (n. 573ss) y lo retoma en la Cuarta Parte al estudiar los fenómenos de orden afectivo. Sigue a Santa Teresa (Moradas sextas c.4-6) y advierte que no debe confundirse con las gracias gratis dadas.
-
 
 ## Distinciones importantes
 

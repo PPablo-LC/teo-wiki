@@ -23,11 +23,29 @@ Royo Marín trata las gracias gratis dadas en la Segunda Parte, al hablar del or
 
 ### Según la Summa Theologiae (SmTh)
 
+**Marco general desde el prólogo de la IIa-IIae q.171:** Santo Tomás organiza las gracias gratis dadas en tres categorías según su función: las que pertenecen al **conocimiento** (profecía, sabiduría, ciencia, discernimiento de espíritus), las que pertenecen a la **locución** (don de lenguas, gracia de la palabra: sabiduría y ciencia en la elocución) y las que pertenecen a la **operación** (don de milagros, gracia de curaciones) (IIa-IIae q.171 prólogo). Esta triple división sigue la enumeración de 1 Cor 12: «diversidad de gracias, diversidad de operaciones, diversidad de ministerios».
+
 **Ia-IIae q.111 a.1 — División de la gracia en santificante y gratis data:** Hay dos clases de gracia: la que une al hombre con Dios (gracia santificante) y la que capacita a un hombre para cooperar en la conversión de otros (gracia gratis data). Esta última sobrepasa la capacidad natural y los méritos de quien la recibe, pero no santifica al sujeto en sí mismo, sino que lo ordena a la utilidad del prójimo (q.111 a.1).
 
 **q.111 a.4 — Enumeración de las gracias gratisdatas:** Santo Tomás enumera nueve dones siguiendo 1 Cor 12,8-10: palabra de sabiduría, palabra de ciencia, fe (eminente), don de curaciones, operación de milagros, profecía, discernimiento de espíritus, diversidad de lenguas e interpretación de lenguas. Estas gracias capacitan al hombre para instruir a otros en las verdades divinas: conocimiento pleno (sabiduría y ciencia), confirmación del poder divino (milagros, curaciones, profecía) y expresión adecuada (lenguas e interpretación) (q.111 a.4).
 
-**q.111 a.5 — Superioridad de la gracia santificante:** La gracia santificante es mucho más excelente que la gracia gratis data, porque aquella une inmediatamente al hombre con el último fin (Dios), mientras que esta solo dispone para él. La gracia santificante se ordena al bien común trascendente (Dios), mientras que la gratis data se ordena al bien común eclesial (q.111 a.5).
+**q.111 a.5 — Superioridad de la gracia santificante:** La gracia santificante es mucho más excelente que la gracia gratis data, porque aquella une inmediatamente al hombre con el último fin (Dios), mientras que esta solo dispone para él.
+
+**Desarrollo en IIa-IIae q.171-178:** Santo Tomás desarrolla cada una de las gracias gratis dadas en las cuestiones 171-178 de la Secunda Secundae:
+
+1. **Gracias de conocimiento** (q.171-175):
+   - **Profecía** (q.171-174): luz intelectual transeúnte para conocer verdades sobrenaturales; es la principal de las gracias gratis dadas de conocimiento.
+   - **Rapto** (q.175): elevación violenta del alma a las cosas divinas con abstracción de los sentidos; grado supremo de revelación profética en esta vida.
+
+2. **Gracias de locución** (q.176-177):
+   - **Don de lenguas** (q.176): capacidad de hablar lenguas no aprendidas para predicar a todas las gentes — inferior a la profecía porque comunica signos vocales, no la verdad inteligible misma.
+   - **Gracia de la palabra** (q.177): elocución eficaz que enseña, deleita y emociona para edificación de la Iglesia; incluye la palabra de sabiduría y la palabra de ciencia.
+
+3. **Gracias de operación** (q.178):
+   - **Don de milagros** (q.178): moción divina transitoria para ser instrumento de milagros que confirman la verdad predicada.
+   - **Gracia de curaciones** (q.178 a.1 ad 4): especie particular del don de milagros que otorga la salud corporal.
+
+Todas estas gracias se ordenan a la edificación de la Iglesia y están subordinadas a la caridad y a la gracia santificante. La gracia santificante se ordena al bien común trascendente (Dios), mientras que la gratis data se ordena al bien común eclesial (q.111 a.5).
 
 ## Distinciones importantes
 

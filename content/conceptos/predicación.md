@@ -31,6 +31,14 @@ Para predicar por radio o televisión deben cumplirse las prescripciones de la C
 *Sacrosanctum Concilium* 35 establece que el sermón es parte de la acción litúrgica y que las fuentes principales de la predicación serán la Sagrada Escritura y la Liturgia, «ya que es una proclamación de las maravillas obradas por Dios en la historia de la salvación o misterio de Cristo». SC 52 recomienda encarecidamente la homilía como parte de la Misa, donde se exponen los misterios de la fe y las normas de la vida cristiana. SC 9 recuerda que la Iglesia debe predicar el mensaje de salvación a los no creyentes y predicar la fe y la penitencia a los creyentes.
 
 
+### Según la Summa Theologiae (SmTh)
+
+**Q177 — La gracia de la palabra (elocución):** Existe una gracia gratis dada que consiste en la elocución o palabra eficaz, distinta del don de lenguas (q.177 a.1). Mientras que el don de lenguas capacita para hablar de modo que se sea comprendido por muchos, la gracia de la palabra capacita para hablar *con eficacia*, y esto bajo tres aspectos: para *enseñar* (instruir el entendimiento), para *deleitar* (mover el afecto a oír con gusto la palabra de Dios) y para *emocionar* (mover a amar y cumplir lo enseñado). El Espíritu Santo utiliza la lengua humana como instrumento, mientras Él mismo completa interiormente la obra en los oyentes.
+
+Esta gracia perfecciona el arte retórico natural, haciéndolo sobrepasar sus límites naturales mediante la acción del Espíritu Santo (q.177 a.1 ad 1). No depende de la elocuencia humana, sino de la manifestación del Espíritu (cf. 1 Cor 2,4). La gracia de la palabra de sabiduría y de ciencia se concede para utilidad de los demás, y a veces es sustraída por culpa del oyente o del que habla (q.177 a.1 ad 3).
+
+En cuanto a las mujeres (q.177 a.2), la gracia de la palabra pública en la Iglesia no les compete por tres razones: por la condición del sexo femenino sujeto al masculino (no son prelados), por evitar ocasión de liviandad, y porque generalmente no alcanzan la perfección de sabiduría para la enseñanza pública. Sin embargo, las mujeres pueden ejercer la palabra de modo privado, enseñando familiarmente a pocos (como la madre a sus hijos).
+
 ## Distinciones importantes
 
 - **Predicación ordinaria**: homilía dominical y festiva

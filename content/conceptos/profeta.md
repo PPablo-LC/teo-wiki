@@ -23,6 +23,14 @@ Tercera: frente a los valores admitidos. El profeta denuncia las transgresiones 
 
 Cuarta: profecía y nueva economía. Su mensaje está orientado al futuro: anuncian un juicio inminente pero también una salvación que desborda las instituciones caducas. Tras el exilio, anuncian la nueva alianza (Jer 31,31-34; Ez 36). En el NT, Jesús desborda el profetismo: es el Hijo, la Palabra hecha carne. La Iglesia apostólica recibe el carisma profético, subordinado a la autoridad y al servicio de la comunidad (1Cor 14).
 
+### Según la Summa Theologiae (SmTh)
+
+**Q171-Q174 — El profeta según Santo Tomás:** El profeta (del gr. *phanos*, «aparición») es llamado vidente porque ve cosas lejanas al conocimiento humano (q.171 a.1). Su esencia consiste en recibir una luz divina transeúnte (no un hábito permanente) que le permite conocer sobrenaturalmente verdades ocultas (q.171 a.2). El profeta no puede usar el don cuando quiere, sino cuando Dios le ilumina (q.171 a.2).
+
+El profeta tiene certeza absoluta de lo que recibe por revelación divina expresa, pero puede confundir el instinto divino con su propio pensamiento en casos de revelación imperfecta (q.171 a.5). La misión del profeta incluye tres aspectos: conocimiento de la verdad revelada, anuncio para edificación de los demás, y confirmación mediante milagros (q.171 a.1).
+
+La revelación profética se transmite ordinariamente por ministerio de los ángeles (q.172 a.2). No se requiere santidad personal para recibir el don de profecía — Dios puede inspirar incluso a pecadores — aunque ordinariamente lo concede a los santos (q.172 a.4). Los falsos profetas son aquellos que hablan en nombre propio sin ser enviados por Dios (q.171 a.3 ad 3).
+
 ## Distinciones importantes
 
 - Profeta verdadero vs. falso profeta (el que habla en nombre propio sin ser enviado)

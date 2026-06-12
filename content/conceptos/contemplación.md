@@ -30,6 +30,19 @@ Señala trece características psicológicas de la contemplación infusa (n.533-
 
 La contemplación no requiere nuevas especies infusas; bastan las verdades de la fe iluminadas por los dones intelectivos (n.531).
 
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata la contemplación en el contexto de la [[vida_contemplativa]] (II-II, q.180). Define la contemplación como la simple intuición de la verdad, que es el acto terminal y perfectivo de la vida contemplativa. Se distingue del [[pensamiento]] (observación de múltiples cosas) y de la [[meditación]] (discurso de la razón que pasa de los principios a la verdad). La contemplación misma pertenece a la simple intuición de la verdad — «la intuición penetrante y libre del objeto» (q.180 a.3).
+
+La contemplación pertenece esencialmente al entendimiento, pero es movida por la voluntad, pues el amor de Dios impulsa a la contemplación de su belleza. El deleite de la contemplación procede tanto de la operación misma (connatural al hombre) como del objeto amado (Dios). Este deleite supera a todo deleite humano (q.180 a.7).
+
+Siguiendo a Dionisio, Santo Tomás distingue tres movimientos en la operación contemplativa del alma (q.180 a.6):
+- **Circular**: el alma se recoge de las cosas exteriores, concentra sus fuerzas y se une a Dios con uniformidad
+- **Recto**: pasa de las cosas sensibles externas al conocimiento inteligible
+- **Oblicuo**: usa de la revelación divina valiéndose del raciocinio, combinando ambos movimientos
+
+La contemplación de la verdad divina es el elemento principal de la vida contemplativa; la de los efectos divinos (criaturas) pertenece de modo secundario como medio de elevación a Dios (q.180 a.4). En la vida presente, la contemplación no puede alcanzar la visión de la esencia divina mientras se usen los sentidos corporales; solo en el [[rapto]] es posible excepcionalmente (q.180 a.5).
+
 ## Distinciones importantes
 
 - Contemplación natural (sensible, imaginativa, intelectual) vs. sobrenatural o infusa.
