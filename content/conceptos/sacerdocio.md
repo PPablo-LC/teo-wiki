@@ -1,7 +1,7 @@
 # Sacerdocio
 
 > Área: Sacramental / Eclesiología
-> Última actualización: 2026-06-10
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -40,6 +40,24 @@ León XIV desarrolla el sacerdocio mediante la imagen de la catedral. El sacerdo
 
 En su encuentro con el clero romano, el Papa desarrolla el sacerdocio desde la imagen de la amistad con Jesús: el sacerdote es amigo de Cristo, no siervo (Jn 15,15). Esta amistad no es un título honorífico sino una relación viva que debe alimentarse cotidianamente en la oración. El sacerdote está llamado a ofrecer a los jóvenes «un modelo de vida, que ser amigo de Jesús realmente puede llenar sus vidas». Para ello, el mismo sacerdote debe vivir «una vida de amistad con Jesús, para ofrecer a estos jóvenes no solo un ejemplo, sino una experiencia de vida que podría cambiar la vida de los jóvenes». El Papa advierte contra la tentación de querer ser protagonistas: «No es porque yo soy que ofrezco lo que soy, esto es un engaño muchas veces en Internet, en TikTok, y queremos ser nosotros mismos... si no estamos transmitiendo el mensaje de Jesucristo, tal vez nos estemos equivocando» [L_XIV-ClerRom, 19.02.2026].
 
+### Según la Summa Theologiae (SmTh)
+
+*Nota: Este artículo trata del sacramento del Orden y el sacerdocio ministerial. Lo que sigue expone el sacerdocio de Cristo mismo (IIIª q.22), que es el fundamento y la fuente de todo sacerdocio ministerial.*
+
+**IIIª q.22 — Sacerdocio de Cristo:**
+
+**a.1 — Cristo es sacerdote:** El oficio propio del sacerdote es ser mediador entre Dios y el pueblo: entrega al pueblo las cosas divinas y ofrece a Dios las oraciones y sacrificios del pueblo. Esto compete principalmente a Cristo, pues por Él nos fueron conferidos los dones divinos (2 Pe 1,4) y Él reconcilió al género humano con Dios (Col 1,19-20). Cristo es sacerdote de modo supremo, y los demás sacerdotes actúan en representación suya (2 Cor 2,10). Cristo es la fuente de todo sacerdocio.
+
+**a.2 — Cristo sacerdote y víctima:** Cristo, en cuanto hombre, no solo fue sacerdote sino también víctima perfecta. El sacrificio es necesario para la remisión del pecado, para la conservación de la gracia y para la unión perfecta con Dios en la gloria. Todos estos beneficios se verifican por la humanidad de Cristo: (1) fueron borrados nuestros pecados (Rom 4,25); (2) recibimos la gracia que nos salva (Heb 5,9); (3) logramos la perfección de la gloria (Heb 10,19). Por eso Cristo fue a la vez víctima por el pecado, hostia pacífica y holocausto. No se mató a sí mismo, sino que se ofreció voluntariamente a la muerte (Is 53,7).
+
+**a.3 — Efecto del sacerdocio: expiación de los pecados:** Para la purificación perfecta se requieren dos cosas: borrar la mancha de la culpa (por la gracia) y destruir el reato de la pena (por la satisfacción). El sacerdocio de Cristo produce ambos efectos: por Él se nos otorga la gracia que vuelve el corazón a Dios (Rom 3,24-25), y Él satisfizo plenamente por nosotros (Is 53,4).
+
+**a.4 — El efecto del sacerdocio no se extiende a Cristo mismo sino solo a los demás:** El sacerdote es mediador entre Dios y el pueblo. Quien necesita mediador está sujeto al efecto del sacerdocio. Pero Cristo «se acerca a Dios por sí mismo» (Heb 7,25), es la fuente de todo sacerdocio, y como el primer agente en un género no recibe lo que da. Cristo no necesitó del efecto de su sacerdocio porque no tuvo pecado, aunque sí ofreció oración por sí mismo según la pasibilidad de su carne.
+
+**a.5 — Sacerdocio eterno:** En el sacrificio se consideran dos cosas: la oblación y la consumación del mismo. El fin del sacrificio de Cristo son los bienes eternos (Heb 9,11). Por eso su sacerdocio es eterno. Aunque ya no se repita la pasión y muerte, la virtud de aquella víctima permanece para siempre: «Con una sola oblación perfeccionó para siempre a los santificados» (Heb 10,14).
+
+**a.6 — Según el orden de Melquisedec:** El sacerdocio levítico era figura del de Cristo, pero imperfecta (no purificaba los pecados ni era eterno). La excelencia del sacerdocio de Cristo fue prefigurada por Melquisedec, que recibió los diezmos de Abrahán (Gén 14,20). Respecto a la participación del sacrificio (pan y vino), Melquisedec prefigura más claramente que el sacerdocio levítico la comunión eucarística del verdadero sacrificio de Cristo.
+
 ## Distinciones importantes
 - El sacerdocio común de los fieles se recibe en el Bautismo; el sacerdocio ministerial se recibe en el Orden.
 - Solo el sacerdocio ministerial puede celebrar la Eucaristía y perdonar los pecados.
@@ -61,3 +79,4 @@ Se relaciona con [[orden_sacerdotal]], [[obispo]], [[presbítero]], [[diácono]]
 - CIC cc. 1008-1054 (Libro III)
 - [DC-Convivium, 09.02.2026]
 - [L_XIV-ClerRom, 19.02.2026]
+- SmTh IIIª q.22 aa.1-6

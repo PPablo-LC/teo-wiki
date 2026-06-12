@@ -1,7 +1,7 @@
 # Oración
 
 > Área: Ascética / Mística
-> Última actualización: 2026-05-20
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -39,6 +39,16 @@ La oración común (litúrgica) tiene eficacia especial porque une las fuerzas d
 
 [SmTh IIa-IIae q.83]
 
+**IIIª q.21 — Oración de Cristo:**
+
+**a.1 — Cristo oró en cuanto hombre, no en cuanto Dios:** La oración es exposición de la propia voluntad ante Dios para que la satisfaga. Si en Cristo sólo existiese la voluntad divina, no le competería orar, porque la voluntad divina cumple por sí misma lo que desea. Mas por haber en Cristo una voluntad humana, y no ser esta capaz de realizar lo que quiere sino mediante la voluntad divina, a Cristo en cuanto hombre le compete orar. Cristo siendo Dios y hombre quiso orar para enseñarnos a orar y para demostrar que venía del Padre.
+
+**a.2 — Oración según el apetito sensible:** Puede entenderse de dos modos: (1) como acto de la sensibilidad —imposible, porque el movimiento sensitivo no puede ascender a Dios, y la oración es acto de la razón—; (2) en cuanto la razón, al orar, expone a Dios los deseos del apetito sensitivo. En este segundo sentido Cristo oró «con su sensibilidad», como cuando pidió: «Pase de mí este cáliz» (Mt 26,39), para enseñarnos que asumió verdadera naturaleza humana, que es lícito querer algo que Dios no quiere, y que debemos subordinar nuestros deseos a la voluntad divina.
+
+**a.3 — Cristo oró por sí y por otros:** Cristo oró por sí mismo de dos modos: expresando los deseos de su sensibilidad o voluntad natural (ej: que se alejase el cáliz), y exponiendo los deseos de su voluntad deliberada (ej: la gloria de la resurrección). Lo hizo para reconocer al Padre como autor de todo bien y para darnos ejemplo. La oración por sí mismo era también en cierto modo por todos, pues su gloria redunda en nuestra justificación.
+
+**a.4 — Toda oración suya fue escuchada:** Con la voluntad racional, Cristo no quiso nada fuera de lo que sabía que el Padre quería; por eso toda su oración fue escuchada. La petición «Pase de mí este cáliz» manifestaba su voluntad natural y el impulso de su sensibilidad, no su voluntad racional absoluta. Por eso fue escuchado en cuanto al deseo racional, que siempre estaba conforme con Dios.
+
 ## Distinciones importantes
 
 - Oración en sentido amplio: cualquier movimiento del alma hacia Dios por cualquier virtud infusa.
@@ -64,3 +74,4 @@ Se relaciona con la [[vida_de_oración]], los [[grados_de_oración]], la [[medit
 ## Referencias
 
 - TPCr, Tercera Parte, Libro II, Cap. III, Secc. I, n.475-483
+- SmTh IIIª q.21 aa.1-4

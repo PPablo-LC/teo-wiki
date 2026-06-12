@@ -1,7 +1,7 @@
 # Libre Albedrío
 
 > Área: Antropología
-> Última actualización: 2026-06-05
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -35,6 +35,9 @@ Cuanto más hace el hombre el bien, más libre se hace. No hay verdadera liberta
 
 **q.13 a.6 — El hombre elige libremente, no por necesidad:** La [[razón|razón]] puede aprehender como bien tanto el querer como el no querer, tanto esto como aquello, porque todo bien particular es deficiente en bondad. Solo el bien perfecto (la bienaventuranza) es querido necesariamente. La elección, siendo de bienes particulares, es libre. De ahí que el [[libre_albedrío]] sea verdaderamente libre.
 
+**IIIª q.18 a.4 — El libre albedrío en Cristo:**
+Cristo tuvo verdadero libre albedrío, cuyo acto propio es la elección (electio). A diferencia del hombre caído, Cristo no podía pecar (confirmado en el bien por la gracia de la unión hipostática), pero ello no suprimió su libertad. La elección en Cristo no implicaba duda ni ignorancia: su razón juzgaba con certeza y su voluntad elegía libremente entre diversos bienes particulares. Su libre albedrío estaba determinado al bien en general, mas no a este o aquel bien concreto, lo cual es el fundamento de la elección libre. Es el libre albedrío propio de los bienaventurados (liberum arbitrium confirmatum in bono). La impecabilidad de Cristo no anuló su libertad, sino que la perfeccionó.
+
 ## Distinciones importantes
 
 - Libre albedrío no es licencia para hacer cualquier cosa
@@ -52,3 +55,4 @@ Cuanto más hace el hombre el bien, más libre se hace. No hay verdadera liberta
 - CEC §1749-1754
 - SmTh Iª q.83 aa.1-4
 - SmTh Ia-IIae q.13 aa.3-6
+- SmTh IIIa q.18 a.4

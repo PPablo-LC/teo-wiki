@@ -1,7 +1,7 @@
 # Unión Hipostática
 
 > Área: Dogmática / Cristología
-> Última actualización: 2026-06-12
+> Última actualización: 2026-06-12 (enriquecido con SmTh IIIª q.16-17)
 
 ## Definición
 Unión de la naturaleza humana y la naturaleza divina en la única Persona del Verbo (Hijo de Dios), en Jesucristo. Las dos naturalezas, sin mezcla ni confusión, subsisten en una sola hipóstasis o persona divina.
@@ -52,6 +52,44 @@ El Concilio de Calcedonia confesó que «no hay más que una sola hipóstasis [o
 
 **a.6 — Nacido de Virgen:** Convenía que Cristo naciese de una Virgen para que su nacimiento fuese digno del Hijo de Dios, y para que su concepción fuese virginal, sin concupiscencia.
 
+**IIIª q.16 — Comunicación de idiomas (consecuencias de la unión):**
+
+**a.1 — «Dios es hombre» es verdadera:** La proposición «Dios es hombre» es verdadera y propia, porque el nombre «Dios» puede designar a la persona del Hijo, y esa persona es el supuesto de la naturaleza humana. Las dos naturalezas, aunque infinitamente distantes, coexisten en un único supuesto.
+
+**a.2 — «El hombre es Dios» es verdadera:** Por la misma razón, «el hombre es Dios» es verdadera: el término «hombre» puede significar la hipóstasis de la naturaleza humana, que es la persona del Hijo de Dios.
+
+**a.3 — No debe llamarse a Cristo «hombre dominico»:** Cristo no debe llamarse «hombre dominico» (derivado de «Señor»), porque Él es el Señor mismo. Usar un término derivado disminuiría la verdad de la unión. Su carne sí puede llamarse «carne dominica», y su pasión «pasión dominica».
+
+**a.4 — Lo propio de cada naturaleza se predica de la Persona:** Los atributos propios de la naturaleza humana (pasión, muerte) pueden predicarse de Dios, y los de la divina (omnipotencia, eternidad) del hombre, en razón de la unidad de persona. Pero debe distinguirse el modo: lo divino se atribuye a Cristo según la naturaleza divina, lo humano según la humana.
+
+**a.5 — No se predican en abstracto de la otra naturaleza:** Los atributos de una naturaleza no pueden predicarse de la otra naturaleza en abstracto (no decimos que la divinidad es pasible ni que la humanidad es omnipotente). Pero sí se predican de los nombres concretos (Dios, Hijo de Dios, hombre, Cristo) que significan la hipóstasis común.
+
+**a.6 — «Dios se hizo hombre» es verdadera:** El ser hombre se predica de Dios en el tiempo, no por cambio en Dios, sino por la asunción de la naturaleza humana. Es un hacerse relativo, no absoluto.
+
+**a.7 — «El hombre fue hecho Dios» es falsa en sentido propio:** En sentido propio, esta proposición es falsa, porque el supuesto de la naturaleza humana (la persona del Verbo) es eterno y no comenzó a ser Dios. Solo sería verdadera en el sentido de que «ha sucedido que el hombre sea Dios», pero no como un hacerse del supuesto.
+
+**a.8 — «Cristo es una criatura» debe decirse con precisión:** No debe decirse absolutamente que Cristo es criatura, para evitar el error arriano. Debe precisarse: «en cuanto hombre». Así como decimos que Cristo padeció y murió sin precisión (pues nadie duda que eso pertenece a su humanidad), pero no decimos sin más que es criatura.
+
+**a.9 — «Este hombre ha comenzado a existir» debe precisarse:** Referido a Cristo, esta proposición es falsa en sentido absoluto, porque «este hombre» designa al supuesto eterno. Debe precisarse: «en cuanto a su humanidad».
+
+**a.10 — «Cristo, en cuanto hombre, es una criatura»:** Verdadera si «hombre» se toma por la naturaleza (la humanidad es creada); falsa si se toma por el supuesto (el supuesto es increado). La reduplicación «en cuanto hombre» se refiere más propiamente a la naturaleza, por lo que la proposición es más admisible que rechazable.
+
+**a.11 — «Cristo, en cuanto hombre, es Dios»:** Falsa si «hombre» se toma por la naturaleza (la naturaleza humana no es divina); verdadera si se toma por el supuesto (la persona del Verbo es Dios). Sin embargo, como la reduplicación se refiere más propiamente a la naturaleza, la proposición antes debe rechazarse que admitirse.
+
+**a.12 — «Cristo, en cuanto hombre, es persona»:** Verdadera si «hombre» significa el supuesto (la persona del Verbo). Si se toma por la naturaleza, la naturaleza humana de Cristo no tiene personalidad propia, porque no subsiste por sí misma separadamente de la naturaleza divina.
+
+**IIIª q.17 — Unidad de Cristo en cuanto al ser:**
+
+**a.1 — Cristo es un solo ser, no dos:** Aunque en Cristo hay dos naturalezas, hay un único supuesto o hipóstasis. La dualidad es de naturalezas, no de supuestos. Por eso Cristo es uno no solo en género masculino (una persona), sino también en género neutro (una sola cosa). Decir que Cristo es «dos seres» equivaldría a poner dos supuestos, error nestoriano.
+
+**a.2 — En Cristo hay una sola existencia (unum esse):** La existencia compete a la hipóstasis como a lo que tiene ser, y a la naturaleza como aquello por lo que algo tiene ser. Dado que la naturaleza humana está unida al Verbo hipostática y no accidentalmente, no se añade un nuevo ser personal al asumir la humanidad, sino solo una nueva relación del ser personal preexistente del Verbo con la naturaleza humana. El ser eterno del Hijo de Dios se hace el ser del hombre Cristo Jesús.
+
+**IIIª q.20 — Sumisión de Cristo al Padre:**
+
+**a.1 — Triple sumisión de Cristo en cuanto hombre:** A quien posee una naturaleza le conviene lo propio de ella. La naturaleza humana tiene respecto de Dios una triple sumisión: (1) según el grado de bondad —la naturaleza divina es la bondad por esencia, la creada participa de ella—, de ahí que Cristo diga «solo Dios es bueno» (Mt 19,17) y que el Padre sea mayor que Cristo según la humanidad; (2) según el poder de Dios —toda criatura está sometida a las disposiciones de la providencia divina—, sumisión de servidumbre que Cristo asumió al tomar «la forma de siervo» (Flp 2,7); (3) según la obediencia —por propia voluntad obedece los mandatos divinos—, como Él mismo declara: «Yo hago siempre lo que es de su agrado» (Jn 8,29), cumpliéndose que «se hizo obediente al Padre hasta la muerte» (Flp 2,8).
+
+**a.2 — Cristo no está sometido a sí mismo:** El ser señor o siervo se atribuye a la persona por razón de una determinada naturaleza. Si se entendiese como dos personas distintas (una que domina y otra que sirve), sería herejía nestoriana. Pero entendido en relación a la diversidad de naturalezas en una sola persona, puede decirse que Cristo, en cuanto Dios, preside y domina con el Padre; en cuanto hombre, está sometido. Por eso Agustín afirma que el Hijo es «inferior a sí mismo» por razón de su naturaleza humana, no por diversidad de personas. Las cosas que convienen a Cristo por razón de su persona eterna se predican de Él absolutamente; las que le convienen por su naturaleza humana, con la oportuna limitación.
+
 ### Según Royo Marín (TPCr)
 La unión hipostática es propia y exclusiva de Cristo. No cabe imaginar una unión más íntima con Dios fuera de la personal o hipostática. La gracia santificante nos une íntimamente con Dios, pero no como la unión hipostática. La maternidad divina de María, en virtud del orden hipostático, supera inmensamente al orden de la gracia y la gloria.
 
@@ -69,4 +107,4 @@ Se relaciona con [[encarnación]], [[jesucristo]], [[trinidad]], [[virgen_maría
 
 - [CEC §468-470; §252; §476]
 - [TPCr, Primera Parte, Cap. 1 y 3]
-- SmTh IIIª q.2 aa.1-12; q.3 aa.1-8; q.4 aa.1-6
+- SmTh IIIª q.2 aa.1-12; q.3 aa.1-8; q.4 aa.1-6; q.16 aa.1-12; q.17 aa.1-2; q.20 aa.1-2; q.16 aa.1-12; q.17 aa.1-2

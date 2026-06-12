@@ -1,7 +1,7 @@
 # Mérito
 
 > Área: Dogmática / Moral
-> Última actualización: 2026-06-08
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -57,6 +57,14 @@ Sin la gracia santificante, las obras más heroicas no tienen valor en orden a l
 [TPCr, Segunda Parte, Cap. 1, Art. 1; TPCr, Tercera Parte, Libro II, Cap. I]
 
 
+**IIIª q.19 — La operación de Cristo y su mérito:**
+
+**q.19 a.3 — Cristo mereció para sí mismo:**
+Poseer un bien por el propio esfuerzo (mérito) es más noble que recibirlo sin mérito. Cristo, por su obediencia hasta la muerte, mereció para sí la gloria del cuerpo (resurrección, ascensión) y las cosas atinentes a su excelencia exterior (veneración, exaltación). No mereció, sin embargo, la gracia, la ciencia, la bienaventuranza del alma ni la divinidad, porque carecer de ellas hubiera sido una imperfección mayor que el aumento de dignidad por el mérito. Como viador a la vez que bienaventurado, Cristo podía merecer en virtud de la caridad propia del estado viador.
+
+**q.19 a.4 — Cristo mereció para nosotros:**
+Cristo tuvo la gracia no solo como hombre particular, sino como cabeza de toda la Iglesia. Por ser cabeza del Cuerpo Místico, su mérito se extiende a todos sus miembros: así como el pecado de Adán se propagó a todos por generación carnal, el mérito de Cristo se comunica a todos por la regeneración espiritual (bautismo), por la cual somos incorporados a Cristo. El mérito de Cristo es de condigno perfecto y es la fuente de toda gracia y salvación para los hombres.
+
 ## Distinciones importantes
 
 - Mérito de condigno (exige igualdad perfecta entre acto y recompensa, solo Cristo) vs. mérito de congruo (conveniente, no estrictamente debido).
@@ -76,3 +84,4 @@ Se relaciona con [[gracia_santificante]], [[gracias_actuales]], [[justificación
 - [CEC §2006-2011, §2025-2027]
 - [TPCr, Segunda Parte, Cap. 1, Art. 1]
 - SmTh Ia-IIae q.21 aa.1-4
+- SmTh IIIa q.19 aa.3-4
