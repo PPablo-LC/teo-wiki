@@ -99,7 +99,7 @@ note: 'SmTh IIa-IIae Q141–Q170 (Templanza): 4 sub-lotes completos — 5 artíc
 
 ## Documentos
 
-  [[sacramentorum_sanctitatis_tutela]] (SST), [[normae_de_gravioribus_delictis]] (SST-2010), [[vos_estis_lux_mundi]] (VELM), [[como_una_madre_amorosa]] (CAM), [[pascite_gregem_dei]] (PGD), [[vademécum_del_ddf]] (Vademécum), [[una_fidelidad_que_genera_futuro]] (UFGF), [[ejercicios_espirituales_2026]] (EjEsp2026)
+  [[catecismo_de_la_iglesia_católica]] (CEC), [[código_de_derecho_canónico]] (CIC), [[compendio_de_doctrina_social_de_la_iglesia]] (CompDS/DSI), [[concilio_vaticano_ii]] (ConcVatII), [[summa_theologiae]] (SmTh), [[teología_de_la_perfección_cristiana]] (TPCr), [[vocabulario_de_teología_bíblica]] (VocTeoBib), [[sacramentorum_sanctitatis_tutela]] (SST), [[normae_de_gravioribus_delictis]] (SST-2010), [[vos_estis_lux_mundi]] (VELM), [[como_una_madre_amorosa]] (CAM), [[pascite_gregem_dei]] (PGD), [[vademécum_del_ddf]] (Vademécum), [[una_fidelidad_que_genera_futuro]] (UFGF), [[ejercicios_espirituales_2026]] (EjEsp2026)
 
 
 
