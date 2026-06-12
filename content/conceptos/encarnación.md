@@ -45,6 +45,42 @@ El Catecismo recorre las herejías que la Iglesia hubo de enfrentar: docetismo, 
 
 **IIIª q.6 — Orden de la asunción:** La naturaleza humana fue asumida mediante la mediación del alma, que es lo más inmediato al Verbo en el orden de la unión. Cristo fue predestinado para ser Hijo de Dios en cuanto hombre, y es Hijo natural (no adoptivo), por la unión hipostática.
 
+#### IIIª q.31 — Materia de la concepción
+
+**a.1 — La carne de Cristo fue tomada de Adán.** Cristo tomó la naturaleza humana para purificarla de la corrupción. Era conveniente que tomase carne de la naturaleza derivada de Adán para que esa misma naturaleza quedase curada mediante la asunción (q.31 a.1). Su cuerpo estuvo en Adán en cuanto a la sustancia corporal, pero no por vía seminal, y por eso no contrajo el pecado original (a.1 ad 3).
+
+**a.2 — Tomó carne de la estirpe de David.** Cristo es llamado hijo de Abrahán y David porque a ellos se hizo especialmente la promesa. María era del linaje de David, por lo que Cristo, según la carne, es hijo de David (q.31 a.2).
+
+**a.4 — Conveniencia de nacer de mujer.** Fue convenientísimo que Cristo tomase carne de una mujer: para ennoblecer ambos sexos, para consolidar la verdad de la encarnación, y para completar la diversidad de la generación humana (q.31 a.4).
+
+**a.5 — Concebido de la purísima sangre de la Virgen.** El cuerpo de Cristo fue formado de la casta y purísima sangre de la Virgen, no por vía seminal (el semen femenino es imperfecto y se emite con concupiscencia), sino por la virtud sobrenatural del Espíritu Santo (q.31 a.5).
+
+**a.6 — No existió en Adán en forma concreta.** El cuerpo de Cristo no existió en Adán como una porción determinada de materia, sino por razón del origen, es decir, mediante el cuerpo de su madre, que descendía de Adán (q.31 a.6).
+
+**a.7 — La carne no estuvo inficionada por el pecado en los patriarcas.** Cristo no estuvo en Adán por vía seminal ni por ley de concupiscencia, por lo que la infección del pecado no se transmitió a su carne. La carne de Cristo fue purificada antes de la asunción —no había en los patriarcas porción alguna exenta de pecado de la que luego se formase el cuerpo de Cristo—, sino que el Espíritu Santo purificó la materia asumida (q.31 a.7).
+
+**a.8 — Cristo no pagó el diezmo en Abrahán.** A diferencia de Leví y los demás descendientes de Abrahán por vía seminal, Cristo no estuvo en Abrahán como quien necesita curación, sino como medicina de la herida. No descendió por vía seminal, sino conforme a la sustancia corporal, y por eso no pagó el diezmo (q.31 a.8).
+
+#### IIIª q.32 — Principio activo de la concepción
+
+**a.1 — El Espíritu Santo como agente de la concepción.** La concepción del cuerpo de Cristo es obra de toda la Trinidad, pero se atribuye apropiadamente al Espíritu Santo por tres razones: por convenir a la causa (el amor divino), a la naturaleza asumida (pura gracia), y al término (santidad y filiación divina). El Padre tiene la autoridad, el Hijo asume la carne, y el Espíritu Santo forma el cuerpo asumido (q.32 a.1).
+
+**a.2 — Cristo fue concebido del Espíritu Santo.** Puede decirse con verdad que Cristo fue concebido del Espíritu Santo: la preposición «de» indica la eficiencia del Espíritu Santo respecto del cuerpo asumido, y la consustancialidad respecto de la Persona del Hijo (q.32 a.2).
+
+**a.3 — El Espíritu Santo no es padre de Cristo según la carne.** La filiación perfecta requiere semejanza específica entre engendrador y engendrado. Cristo es Hijo del Padre por generación eterna según la razón perfecta de filiación; el Espíritu Santo obra como principio activo eficiente, no como principio generador según semejanza específica (q.32 a.3).
+
+**a.4 — La Virgen no actuó como principio activo.** La Santísima Virgen no hizo nada activamente en la concepción de Cristo, sino que solo suministró la materia. Toda la virtud activa en la generación está de parte del varón; la hembra solo tiene virtud pasiva. María preparó la materia, pero la formación del cuerpo fue obra exclusiva del Espíritu Santo (q.32 a.4).
+
+#### IIIª q.33 — Modo y orden de la concepción
+
+**a.1 — Cuerpo perfectamente formado en el primer instante.** La formación del cuerpo de Cristo se realizó en un instante por dos razones: por el poder infinito del Espíritu Santo, y porque era conveniente que el Verbo asumiese un cuerpo ya formado (q.33 a.1).
+
+**a.2 — Animado en el primer instante.** El cuerpo de Cristo fue animado por el alma racional en el primer instante de su concepción, porque el Verbo asumió el cuerpo mediante el alma. No hubo un alma vegetativa o sensitiva previa; desde el instante inicial hubo un cuerpo perfectamente dispuesto y un alma racional infundida (q.33 a.2).
+
+**a.3 — Asumido por el Verbo en el primer instante.** No hubo intervalo entre la concepción y la asunción. La carne de Cristo no fue primero concebida y luego asumida, sino que fue concebida al ser asumida y asumida al ser concebida. De lo contrario, habría tenido una hipóstasis propia distinta del Verbo (q.33 a.3).
+
+**a.4 — Concepción sobrenatural y milagrosa.** En cuanto a la materia, la concepción fue natural; en cuanto al principio activo (el Espíritu Santo), fue milagrosa y sobrenatural. Se califica absolutamente de milagrosa, porque el ser se juzga más por la forma (el agente) que por la materia (q.33 a.4).
+
 ### Según Royo Marín (TPCr)
 
 La Encarnación es el fundamento de toda la vida cristiana. El Verbo encarnado es el modelo perfecto de la santidad humana. Cristo, por su Encarnación, se ha unido en cierto modo a todo hombre, elevando la naturaleza humana al orden sobrenatural. La humanidad de Cristo es el instrumento de nuestra salvación y el canal por el cual nos llegan las gracias divinas.
@@ -82,4 +118,4 @@ La Encarnación es el fundamento de la [[redención]], la causa de la [[gracia_s
 - [CEC §503, §606]
 - [TPCr, Parte I, Cap. 3]
 - [PS §25-30]
-- SmTh IIIª q.1 aa.1-6; q.4 a.1; q.5 aa.1-4; q.6 aa.1-5
+- SmTh IIIª q.1 aa.1-6; q.4 a.1; q.5 aa.1-4; q.6 aa.1-5; q.31 aa.1-8; q.32 aa.1-4; q.33 aa.1-4
