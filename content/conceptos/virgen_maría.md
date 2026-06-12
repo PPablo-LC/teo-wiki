@@ -30,6 +30,28 @@ En la economía de la salvación, María cooperó «a la salvación de los hombr
 La maternidad de María perdura sin cesar; asunta a los cielos, «con su múltiple intercesión continúa obteniéndonos los dones de la salvación eterna» [ConcVatII, LG §62]. Es invocada con los títulos de Abogada, Auxiliadora, Socorro, Mediadora [ConcVatII, LG §62].
 
 María es tipo de la Iglesia en el orden de la fe, de la caridad y de la unión perfecta con Cristo [ConcVatII, LG §63-64]. Es «signo de esperanza cierta y de consuelo para el Pueblo peregrinante de Dios» [ConcVatII, LG §68]. La Iglesia la venera con un culto especial, que se distingue esencialmente del culto de adoración tributado al Verbo encarnado [ConcVatII, LG §66].
+### Según la Summa Theologiae (SmTh)
+
+Tomás de Aquino dedica cuatro cuestiones de la IIIª Pars a la preparación de la Encarnación por parte de la Madre: su santificación, su virginidad, sus desposorios y la anunciación.
+
+#### IIIª q.27 — Santificación de la Virgen María
+
+La Virgen María fue santificada en el seno materno, después de la animación (infusión del alma racional), porque antes de la animación no habría tenido pecado original del que ser purificada, y así no habría necesitado la redención de Cristo (a.1-2). Quedó exenta del *fomes* del pecado (concupiscencia desordenada) no por supresión radical, sino porque fue ligado por la gracia y la providencia divina, de modo que nunca prorrumpió en acto desordenado (a.3). No cometió pecado actual alguno, ni mortal ni venial, en toda su vida (a.4). Alcanzó una plenitud de gracia superior a todos los santos por su proximidad a Cristo, principio de la gracia, en una triple perfección: dispositiva (santificación), formal (concepción del Hijo) y final (gloria) (a.5). Este modo de santificación en el seno materno no fue exclusivo de María: también Jeremías y Juan Bautista fueron santificados así, pero con gracia inferior (a.6).
+
+#### IIIª q.28 — Virginidad de María
+
+Concibió siendo virgen para salvaguardar la dignidad del Padre, la propiedad del Verbo, la inocencia de la humanidad de Cristo y el fin sobrenatural de la Encarnación (a.1). Dio a luz virgen: el parto fue milagroso, Cristo salió del seno cerrado sin violar la virginidad (a.2). Permaneció virgen perpetuamente después del parto, sin relación conyugal ni otros hijos; los «hermanos del Señor» son primos o parientes (a.3). Hizo voto de virginidad: primero condicionado, y luego absoluto junto con José, antes de la anunciación (a.4).
+
+#### IIIª q.29 — Desposorios de María
+
+Fue conveniente que Cristo naciese de una virgen desposada: por Cristo mismo (evitar ilegitimidad, genealogía por varón, ocultar al demonio, tener custodio), por la Madre (evitar lapidación e infamia, obtener ayuda de José) y por nosotros (testigo fiel de la virginidad, firmeza de la fe, honra de la virginidad y el matrimonio) (a.1). El matrimonio fue verdadero en su primera perfección (unión indivisible de almas por consentimiento mutuo), aunque no consumado carnalmente (a.2).
+
+#### IIIª q.30 — Anunciación
+
+Fue conveniente anunciarle la concepción: para que su mente fuese instruida antes de concebir corporalmente, para que fuese testigo del misterio, para ofrecer libremente su obediencia y para manifestar el consentimiento de la naturaleza humana (a.1). El anuncio fue por el arcángel Gabriel, según la disposición divina de que las cosas celestiales lleguen a los hombres por ministerio angélico (a.2). El ángel se apareció en forma corpórea visible para dar mayor certeza (a.3). La anunciación siguió un orden perfectísimo: salutación que atrae la atención, instrucción sobre el misterio e inducción al consentimiento (a.4).
+
+[SmTh, IIIª, q.27-30]
+
 ### Según Royo Marín (TPCr)
 
 Royo Marín presenta a la Virgen María como el camino más perfecto para la configuración con Cristo. En la escuela de María, el alma aprende las virtudes que más la asemejan a Cristo: humildad, pureza, obediencia y caridad.

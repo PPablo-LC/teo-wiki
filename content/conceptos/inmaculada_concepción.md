@@ -17,6 +17,16 @@ La Inmaculada Concepción no significa que María fue concebida sin concurso de 
 
 «Para ser la Madre del Salvador, María fue dotada por Dios con dones a la medida de una misión tan importante» (CEC §490). «María fue preservada inmune de toda mancha de pecado original» (CEC §491). La Inmaculada Concepción significa que «María fue redimida desde su concepción, de un modo más eminente, por los méritos de Cristo» (§492). El CEC la relaciona con la plenitud de gracia del saludo del ángel («llena de eres de gracia», Lc 1,28) y con la victoria sobre la serpiente de Gn 3,15 (§493).
 
+### Según la Summa Theologiae (SmTh)
+
+#### Perspectiva de Santo Tomás (IIIª q.27)
+
+Santo Tomás sostiene que la Virgen María fue santificada *después* de la animación, es decir, tras la infusión del alma racional en el seno materno (IIIª q.27 a.2). Esto implica que, por un brevísimo instante, su alma estuvo sujeta al [[pecado_original]] antes de ser purificada por la gracia santificante. Tomás argumenta que, de haber sido santificada antes de la animación, no habría incurrido en la mancha del pecado original y, por tanto, no habría necesitado la redención de Cristo, lo cual es inadmisible porque Cristo es «el Salvador de todos los hombres» (1 Tim 4,10).
+
+Esta posición entra en tensión con el dogma de la Inmaculada Concepción definido por Pío IX en 1854 (*Ineffabilis Deus*), que declara que María fue preservada inmune de toda mancha de pecado original *desde el primer instante de su concepción*. Duns Escoto (†1308) resolvió la dificultad desarrollando la teoría de la **redención preventiva**: María fue redimida de modo más eminente al ser preservada de caer en el pecado original, en previsión de los méritos de Cristo, en lugar de ser purificada después de haber contraído la mancha. Tomás no pudo beneficiarse de este desarrollo teológico posterior, pero sentó las bases al afirmar la absoluta necesidad de la redención de Cristo para María y la grandeza singular de su gracia.
+
+[SmTh, IIIª, q.27, a.1-2]
+
 ### Según Royo Marín (TPCr)
 
 TPCr trata la Inmaculada Concepción como el primero y más fundamental de los privilegios de María, del cual derivan los demás (asunción, virginidad perpetua, exención de toda concupiscencia). Es una redención más sublime: mientras los demás son redimidos del pecado, María fue redimida preventivamente, siendo preservada de caer en él.
