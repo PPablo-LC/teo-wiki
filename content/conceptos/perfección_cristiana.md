@@ -22,6 +22,16 @@ Lumen Gentium dedica el capítulo V a la llamada universal a la santidad, que es
 «Es, pues, completamente claro que todos los fieles, de cualquier estado o condición, están llamados a la plenitud de la vida cristiana y a la perfección de la caridad» [ConcVatII, LG §40]. En el logro de esta perfección, los fieles deben empeñar las fuerzas recibidas según la medida de la donación de Cristo, siguiendo sus huellas y obedeciendo en todo a la voluntad del Padre [ConcVatII, LG §40].
 
 Cada uno debe caminar por el camino de la fe viva según los dones y funciones que le son propios: pastores, presbíteros, esposos y padres cristianos, trabajadores, enfermos y perseguidos [ConcVatII, LG §41]. «El primero y más imprescindible don es la caridad», que rige todos los medios de santificación, los informa y los conduce a su fin [ConcVatII, LG §42]. El martirio es estimado como don eximio y suprema prueba de amor [ConcVatII, LG §42]. Quedan invitados y obligados todos los fieles a buscar insistentemente la santidad y la perfección dentro del propio estado [ConcVatII, LG §42].
+### Según la Summa Theologiae (SmTh)
+
+**Perfección esencial en la caridad (Q184 a.1):** La perfección cristiana consiste principalmente en la caridad, porque una cosa es perfecta cuando alcanza su fin propio, y la caridad une al alma con Dios, fin último de la mente humana. La perfección esencial de la vida cristiana se mide por la caridad; las demás virtudes perfeccionan de modo relativo o instrumental.
+
+**Triple perfección (Q184 a.2):** Primera, perfección **absoluta**: amar a Dios tanto como es digno de ser amado —exclusiva de Dios. Segunda, perfección por **totalidad del que ama**: dirigirse siempre a Dios con todo el afecto actualmente —propia del cielo. Tercera, perfección **posible en esta vida**: excluir todo lo que se opone a la caridad. De esta hay dos grados: el que excluye el pecado mortal (necesario para salvarse) y el que excluye incluso los impedimentos para dirigirse totalmente a Dios (sin este puede haber caridad, como en principiantes y avanzados). También en el amor al prójimo existe una perfección necesaria (sin la cual no hay caridad) y otra perfectiva (extensión a enemigos, intensidad hasta dar la vida, comunicación de bienes espirituales).
+
+**Mandamientos y consejos (Q184 a.3):** Esencialmente, la perfección consiste en los **mandamientos** —amar a Dios con todo el corazón y al prójimo como a sí mismo—, porque el fin del precepto es la caridad (1 Tim 1,5). Instrumentalmente, la perfección consiste en los **consejos**, que apartan los obstáculos al acto de caridad que no se oponen a ella pero la dificultan (matrimonio, negocios temporales). Los consejos no son la perfección misma, sino instrumentos para alcanzarla: «los ayunos, las vigilias, la meditación de las Escrituras, la pobreza y la privación de todos los bienes no son perfección, sino instrumentos de la misma» (abad Moisés).
+
+[SmTh IIa-IIae Q184 a.1-3]
+
 ### Según los Ejercicios Espirituales 2026 a la Curia Romana (EjEsp2026)
 
 Mons. Erik Varden aborda la perfección cristiana en el capítulo 5, partiendo de la llamada de Cristo: «Sed perfectos, como vuestro Padre celestial es perfecto» (Mt 5,48). Esta perfección no consiste en estar libre de fallas, sino en volverse «apto para el propósito» —transformado en amor para ver a los demás como Dios los ve.

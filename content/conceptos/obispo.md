@@ -32,6 +32,26 @@ Lumen Gentium dedica el capítulo III a la constitución jerárquica de la Igles
 Los Obispos han sucedido por institución divina a los Apóstoles como pastores de la Iglesia; quien los escucha, escucha a Cristo, y quien los desprecia, desprecia a Cristo [ConcVatII, LG §20]. En la consagración episcopal se confiere la plenitud del sacramento del orden, llamada sumo sacerdocio, junto con los oficios de santificar, enseñar y regir, que no pueden ejercerse sino en comunión jerárquica con la Cabeza y los miembros del Colegio [ConcVatII, LG §21].
 
 Los Obispos rigen como vicarios y legados de Cristo las Iglesias particulares con potestad propia, ordinaria e inmediata [ConcVatII, LG §27]. Ejercen su poder pastoral sobre la porción del Pueblo de Dios a ellos encomendada, y en cuanto miembros del Colegio episcopal están obligados a tener solicitud por la Iglesia universal [ConcVatII, LG §23]. Los Obispos son los maestros auténticos de la fe, dotados de la autoridad de Cristo [ConcVatII, LG §25].
+### Según la Summa Theologiae (SmTh)
+
+**Deseo del episcopado (Q185 a.1):** Desear el episcopado puede considerarse de tres modos. Primero, por los bienes anejos (honor, riquezas) —es ilícito, efecto de codicia y ambición. Segundo, por la excelencia de grado —es presunción. Tercero, por la utilidad del prójimo— es loable y virtuoso si procede de auténtica caridad, como Isaías que se ofreció para la predicación. En la Iglesia primitiva, cuando el episcopado implicaba sufrimientos, era más fácil desearlo por la obra buena. Siempre es lícito desear ser digno del episcopado sin desear el honor.
+
+**Rechazo del episcopado (Q185 a.2):** Rechazar absolutamente el episcopado contra la voluntad del superior puede ser ilícito por dos motivos: contra el amor al prójimo (la necesidad de la caridad acepta el justo trabajo) y contra la humildad (someterse al mandato del superior). Sin embargo, si hay impedimento legítimo (irregularidad, falta de ciencia, defecto corporal) debe exponerse al superior. Si el impedimento puede ser dispensado por el superior, debe obedecerse.
+
+**Elección del obispo (Q185 a.3):** No se exige elegir al mejor absolutamente hablando por grado de caridad, sino al que mejor convenga para el gobierno de la Iglesia: capaz de instruir, defender y gobernar pacíficamente. Elegir por acepción de personas es pecado grave.
+
+**Abandono del cargo (Q185 a.4):** El obispo no puede abandonar su cargo para entrar en religión mientras pueda contribuir al bien espiritual de sus súbditos, pues se obligó a buscar no solo su salvación sino la de otros. Pero si hay impedimento (defecto personal, falta de los súbditos, escándalo grave) y no puede procurar la salvación de los demás, puede —con autorización del Papa— entrar en religión para cuidar de la propia salvación.
+
+**Ausencia por persecución (Q185 a.5):** Si la presencia del obispo es necesaria para la salvación de los súbditos, no debe abandonarlos ni por peligro personal. Pero si otro puede encargarse de la salud espiritual de los súbditos, puede ausentarse para evitar el peligro o por utilidad de la Iglesia. Huye como mercenario quien antepone el bien temporal a la salud espiritual del prójimo.
+
+**Propiedades personales (Q185 a.6):** Los obispos no están obligados a vivir sin nada propio, porque no se comprometen a ello al ser ordenados ni es necesario para el oficio pastoral. La pobreza voluntaria es de consejo, no de precepto. Pueden poseer bienes propios, aunque deben estar dispuestos a abandonarlos si fuere necesario por el honor de Dios y la salvación del rebaño.
+
+**Bienes eclesiásticos y pobres (Q185 a.7):** Los bienes eclesiásticos deben emplearse en el culto divino, las necesidades de los ministros y la ayuda a los pobres. Sobre los bienes propios, el obispo tiene dominio completo y no está obligado a darlos sino por caridad. Sobre los bienes eclesiásticos es dispensador, y debe administrarlos con fidelidad: si retiene lo destinado a pobres, ministros o culto, peca mortalmente y debe restituir.
+
+**Observancias regulares (Q185 a.8):** Los religiosos promovidos al episcopado siguen obligados a las observancias regulares que no impiden el ministerio episcopal (castidad, pobreza, hábito religioso). Quedan dispensados de las que se oponen al oficio pastoral (soledad, silencio, abstinencias graves que incapaciten corporalmente). Las demás pueden ser dispensadas según las circunstancias por razón de la persona o del cargo.
+
+[SmTh IIa-IIae Q185 a.1-8]
+
 ### Según Royo Marín (TPCr)
 
 El apostolado corresponde propiamente al Romano Pontífice y a los obispos, sucesores legítimos de los Apóstoles, a quienes Cristo encomendó perpetuar las funciones apostólicas. El obispo tiene la potestad de ordenar, confirmar y gobernar su diócesis.

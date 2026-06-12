@@ -13,6 +13,12 @@ Santo Tomás distingue tres grados de caridad: incipientes (principiantes), prof
 
 ## Perspectivas por fuente
 
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás enseña que los perfectos corresponden al **fin** de la vida espiritual, en el que se alcanza la verdadera libertad del pecado unida a la servidumbre de la justicia (Q183 a.4). En ellos la caridad ha llegado a tal grado que su preocupación principal es unirse a Dios y gozar de Él, deseando «morir para estar con Cristo» (Flp 1,23). Esta perfección, sin embargo, no es absoluta (reservada a Dios), sino relativa a esta vida: excluye todo lo que se opone a la caridad, aunque no la continuidad del acto actual de amor (Q184 a.2).
+
+[SmTh IIa-IIae Q183 a.4; Q184 a.2]
+
 ### Según Royo Marín (TPCr)
 
 Royo Marín desarrolla ampliamente los tres estados de la vida espiritual (Parte III, Libro I). Los perfectos corresponden a la vía unitiva, en la que el alma experimenta la unión plena, la unión extática y la unión transformativa (matrimonio espiritual). Características: paz y quietud imperturbables, ausencia de éxtasis violentos (por la mayor fortaleza del alma), transformación en Dios, libertad de espíritu, y confirmación en gracia (al menos moralmente). Cita a San Juan de la Cruz: en este estado «no solamente se le acaban al alma sus ansias vehementes y querellas de amor, mas, quedando adornada de los bienes que digo, comiénzale un estado de paz y deleite y de suavidad de amor».
