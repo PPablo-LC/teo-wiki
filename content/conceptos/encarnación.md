@@ -1,7 +1,7 @@
 # Encarnación
 
 > Área: Cristología
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -24,6 +24,26 @@ El Catecismo dedica el artículo 3 del Símbolo de la fe a la Encarnación (§46
 El Catecismo recorre las herejías que la Iglesia hubo de enfrentar: docetismo, arrianismo, nestorianismo, monofisismo, monotelismo (§465-469). La unión hipostática significa que la naturaleza humana de Cristo pertenece propiamente a la Persona divina del Hijo de Dios que la ha asumido (§470).
 
 «La Encarnación es, pues, el misterio de la admirable unión de la naturaleza divina y de la naturaleza humana en la única Persona del Verbo» (§483).
+
+### Según la Summa Theologiae (SmTh)
+
+**IIIª q.1 — Conveniencia de la Encarnación:**
+
+**a.1 — ¿Conviene a Dios encarnarse?** Sí, porque es propio de la bondad comunicarse a las criaturas, y la máxima comunicación de Dios a la criatura consiste en unirse a ella hipostáticamente. Lejos de ser indigno de Dios, la Encarnación manifiesta sumamente su bondad.
+
+**a.2 — ¿Era necesaria la Encarnación para restaurar al hombre?** No fue absolutamente necesaria (Dios pudo restaurar de otro modo, por su omnipotencia), pero fue *más conveniente*. La Encarnación restaura más plenamente: da satisfacción abundante por el pecado, eleva al hombre a un bien mayor, manifiesta más la dignidad de la naturaleza humana, y quita toda desesperación mostrando cuánto ama Dios al hombre.
+
+**a.3 — ¿Se habría encarnado el Hijo si el hombre no hubiera pecado?** La opinión más probable (y la que sigue Santo Tomás) es que no. La Escritura asigna siempre la Encarnación a la redención del pecado. Aunque Dios en potencia absoluta pudo encarnarse sin pecado, el orden de su sabiduría dispuso la Encarnación para remediar la caída.
+
+**a.4-5 — Oportunidad de la Encarnación:** No desde el principio del mundo, porque convenía que el hombre fuese preparado gradualmente bajo la ley natural y la ley escrita. Se realizó en la plenitud de los tiempos, cuando el mundo estaba más necesitado, para que nadie dudase de la fe en Cristo.
+
+**a.6 — Pertenece a las tres Personas:** La Encarnación es obra común de la Trinidad en cuanto a la operación divina, aunque solo el Hijo asume la naturaleza humana. Lo que la Trinidad hace juntamente se atribuye apropiadamente al Hijo.
+
+**IIIª q.4 a.1 — Naturaleza humana caída:** El Verbo asumió la naturaleza humana en la condición de caída, no en estado de gloria, porque vino a satisfacer por el pecado y a restaurar al hombre caído.
+
+**IIIª q.5 — Partes de la naturaleza humana:** Cristo asumió verdadero cuerpo (no aparente), cuerpo carnal (no celeste), alma racional y entendimiento humano. Asumió todo lo que pertenece a la naturaleza humana íntegra.
+
+**IIIª q.6 — Orden de la asunción:** La naturaleza humana fue asumida mediante la mediación del alma, que es lo más inmediato al Verbo en el orden de la unión. Cristo fue predestinado para ser Hijo de Dios en cuanto hombre, y es Hijo natural (no adoptivo), por la unión hipostática.
 
 ### Según Royo Marín (TPCr)
 
@@ -62,3 +82,4 @@ La Encarnación es el fundamento de la [[redención]], la causa de la [[gracia_s
 - [CEC §503, §606]
 - [TPCr, Parte I, Cap. 3]
 - [PS §25-30]
+- SmTh IIIª q.1 aa.1-6; q.4 a.1; q.5 aa.1-4; q.6 aa.1-5
