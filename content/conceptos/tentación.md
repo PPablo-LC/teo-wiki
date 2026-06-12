@@ -40,6 +40,17 @@ Santo Tomás trata la tentación del demonio en la Iª q.114 (sobre la insidia d
 **Milagros aparentes de los demonios (q.114 a.4):** Los demonios no pueden hacer verdaderos milagros (que sobrepasan el orden de toda la naturaleza creada), pero pueden hacer cosas que admiran a los hombres sobrepasando su poder y conocimiento. Pueden realizar cambios corporales utilizando gérmenes naturales (como las serpientes de los magos de Faraón) o alterando la imaginación y los sentidos humanos.
 
 **Insistencia de los demonios (q.114 a.5):** Los demonios no siempre insisten en tentar después de ser vencidos. A veces se retiran por permisión divina o por temor a ser nuevamente derrotados, pero pueden volver más tarde (como el demonio que «volverá a su casa» de Mt 12,44).
+
+#### Tentación de Cristo (IIIª q.41)
+
+**Conveniencia (q.41 a.1):** Cristo quiso ser tentado por cuatro razones: para proporcionarnos auxilio contra las tentaciones, para nuestra precaución (que nadie se tenga por seguro), para enseñarnos el modo de vencerlas con su ejemplo, y para infundir confianza en su misericordia (Heb 4,15). Cristo fue tentado solo por el enemigo, no por la carne, porque la tentación carnal implica concupiscencia y pecado.
+
+**Lugar (q.41 a.2):** Cristo se retiró al desierto deliberadamente para provocar al diablo, como a un campo de batalla. También lo hizo misteriosamente para liberar del destierro a Adán, y ejemplarmente para mostrar que el diablo envidia a los que tienden a la perfección.
+
+**Tiempo (q.41 a.3):** Cristo quiso ser tentado después del ayuno: para enseñar que necesitamos el ayuno contra las tentaciones, para mostrar que el diablo ataca incluso a los que ayunan, y porque el hambre dio audacia al diablo, siendo vencido por la carne y no por Dios.
+
+**Orden de las tentaciones (q.41 a.4):** El diablo siguió un orden ascendente: primero por la gula (convertir las piedras en pan), luego por la vanagloria (precipitarse del templo), y finalmente por la codicia y la idolatría (adorarlo a cambio de los reinos del mundo). Cristo rechazó cada tentación con testimonios de la ley, no con poder propio, venciendo al diablo con la justicia y no con el imperio. Cristo nos enseña a soportar con magnanimidad las injurias propias, pero a no tolerar las injurias contra Dios.
+
 ### Según los Ejercicios Espirituales 2026 a la Curia Romana (EjEsp2026)
 
 Mons. Erik Varden retoma la enseñanza de San Bernardo sobre la tentación en los capítulos 1 y 5: «Os advierto: nadie vive en la tierra sin tentación; si alguien se ve aliviado de una, que espere con seguridad otra». Debemos cultivar el justo equilibrio entre la confianza en la ayuda de Dios y la desconfianza hacia nuestra fragilidad, temiendo las tentaciones mientras aceptamos su inevitabilidad.
@@ -76,4 +87,5 @@ Dios no tienta al mal (St 1,13); permite la tentación para mayor bien del alma.
 
 - TPCr, Tercera Parte, Libro I, Cap. III, Art. 1, n.210-213
 - SmTh Iª q.114, sobre la insidia de los demonios
+- SmTh IIIª q.41, sobre la tentación de Cristo
 - [EjEsp2026, cap. 1, 5, 8]

@@ -21,6 +21,14 @@ El bautismo de Juan era un «bautismo de penitencia», figura del Bautismo crist
 
 Royo Marín distingue el bautismo de Juan del Bautismo sacramental. Aquel era solo «un bautismo de penitencia que disponía para recibir al Mesías» (n. 389), mientras que el Bautismo cristiano borra el pecado original e imprime carácter. El bautismo de Juan no confería gracia santificante.
 
+### Según la Summa Theologiae (SmTh)
+
+#### IIIª q.38 — Sobre el bautismo de Juan
+
+El bautismo de Juan fue conveniente por cuatro razones: para que Cristo fuese bautizado por Juan y así consagrar el bautismo; para que Cristo fuese manifestado a Israel; para acostumbrar a los hombres al bautismo de Cristo; y para mover a penitencia y preparar a los hombres para recibir dignamente el bautismo de Cristo (IIIª q.38 a.1).
+
+El rito del bautismo de Juan provenía de Dios por revelación del Espíritu Santo, pero su efecto (la purificación meramente externa) era humano — no confería la gracia ni el Espíritu Santo (a.2). El bautismo de Juan no confería gracia santificante, sino que era solo preparatorio: disponía para la fe en Cristo, acostumbraba al rito bautismal, y preparaba mediante la penitencia para recibir el efecto del bautismo de Cristo (a.3). Otros, además de Cristo, debían recibirlo para que no se juzgase superior al bautismo cristiano y para ser preparados para este (a.4). No cesó inmediatamente después del bautismo de Cristo, sino que continuó hasta el encarcelamiento de Juan, para evitar escándalos y seguir preparando al pueblo (a.5). Quienes recibieron el bautismo de Juan debían ser bautizados con el bautismo de Cristo, pues aquel no confería gracia ni imprimía carácter, y solo bautizaba con agua, no con el Espíritu (a.6).
+
 ## Distinciones importantes
 
 - Bautismo de Juan (preparatorio, sin gracia) vs. Bautismo cristiano (sacramental, con gracia)
@@ -36,3 +44,4 @@ Se relaciona con [[juan_bautista]], [[bautismo]], [[conversión]], [[penitencia]
 - CEC §523, §535-§537, §1213
 - TPCr, Tercera Parte, Libro II, Cap. I (Los sacramentos)
 - Mt 3; Mc 1,1-11; Lc 3,1-22; Jn 1,19-34
+- SmTh IIIª q.38 a.1-6

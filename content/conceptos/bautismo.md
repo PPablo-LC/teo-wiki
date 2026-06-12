@@ -120,6 +120,14 @@ El carácter bautismal configura al hombre con Cristo sacerdote, de manera que t
 
 PS enseña que el bautismo lava el pecado original e infunde en el alma la gracia santificante, haciéndonos miembros de la Iglesia, hijos de Dios y herederos del cielo [PS §13,96,1]. Es la puerta para entrar en la Iglesia; sin él no puede recibirse válidamente ningún otro sacramento [PS §13,97,2]. La materia del bautismo es el agua natural; la forma, las palabras «Yo te bautizo en el nombre del Padre y del Hijo y del Espíritu Santo» [PS §13,97,2]. El bautismo se recibe una sola vez porque imprime carácter indeleble [PS §13,97,2]. Los niños deben bautizarse cuanto antes, pues privarles del bautismo puede ser pecado grave [PS §13,97,2]. Existe el bautismo de deseo para quienes, sin conocer la Iglesia, buscan sinceramente a Dios y cumplen su voluntad [PS §13,97,2].
 
+### Según la Summa Theologiae (SmTh)
+
+#### IIIª q.39 — Sobre el bautizo de Cristo
+
+Cristo fue bautizado no para ser purificado, sino para purificar las aguas, santificándolas con el contacto de su carne purísima; para sumergir en el agua al viejo Adán; y para dar ejemplo de cumplir toda justicia (IIIª q.39 a.1). Fue bautizado con el bautismo de Juan — no con el suyo propio — porque no necesitaba bautismo espiritual (estaba lleno del Espíritu Santo desde su concepción), y para aprobar el bautismo de Juan (a.2). Fue bautizado a los treinta años, edad de la madurez, cuando comenzaba a enseñar y predicar, significando que el bautismo engendra varones perfectos (a.3). Recibió el bautismo en el Jordán, porque la travesía del Jordán prefiguraba la entrada en el reino de Dios, efecto propio del bautismo de Cristo (a.4).
+
+En el bautismo de Cristo se manifestaron los elementos que pertenecen a la eficacia del bautismo cristiano: se abrieron los cielos para mostrar que la virtud celestial santifica el bautismo, que por la fe se contemplan las realidades celestiales, y que por el bautismo se abre la entrada del reino (a.5). El Espíritu Santo descendió en forma de paloma, significando la sencillez, los siete dones del Espíritu Santo, la reconciliación y la unidad de la Iglesia (a.6). La paloma fue un animal verdadero, no fantástico, pues el Espíritu de Verdad no podía servirse de ficción (a.7). Se oyó la voz del Padre dando testimonio del Hijo, para manifestar el misterio de la Trinidad, en cuyo nombre se administra el bautismo cristiano (a.8).
+
 ## Distinciones importantes
 
 - **Bautismo de agua vs. bautismo de deseo vs. bautismo de sangre**
@@ -155,3 +163,4 @@ PS enseña que el bautismo lava el pecado original e infunde en el alma la graci
 - Concilio de Trento
 - Santo Tomás, S.Th., III, 63, 3 ad 2; III, 63, 5 ad 3
 - [VocTeoBib, «Bautismo»]
+- SmTh IIIª q.39 a.1-8

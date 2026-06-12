@@ -19,6 +19,14 @@ La circuncisión era practicada por numerosos pueblos antiguos como rito de entr
 
 Jesús fue circuncidado (Lc 2,21), pero su Evangelio debía anunciarse a todas las naciones. El concilio de Jerusalén (Hch 15) sancionó la libertad respecto a la circuncisión. Pablo mostró que ligar la salvación a la circuncisión anula la cruz de Cristo (Gal 5,11s). La verdadera circuncisión es espiritual, interior, no hecha por mano de hombre (Col 2,11), y se identifica con el bautismo.
 
+### Según la Summa Theologiae (SmTh)
+
+#### IIIª q.37 — Sobre la circuncisión de Cristo y otras observancias legales
+
+Cristo se sometió voluntariamente a la circuncisión y a las demás observancias de la ley por siete motivos: para demostrar la verdad de su carne (contra las herejías docetas); para dar por buena la circuncisión instituida por Dios; para mostrar que era descendiente de Abrahán; para quitar a los judíos todo pretexto de rechazo; para recomendarnos la virtud de la obediencia; para no desdeñar el remedio con que se purificaba la carne de pecado, siendo él «en semejanza de carne de pecado»; y para cargar sobre sí el peso de la ley y librar a los demás de ella (IIIª q.37 a.1).
+
+Respecto del nombre, se le impuso el nombre de Jesús (Salvador) en la circuncisión, nombre acorde con su misión de salvar a todos los hombres (a.2). Cristo fue ofrecido en el templo como primogénito, cumpliendo los dos preceptos legales: la presentación al Señor y el sacrificio de un par de tórtolas o dos pichones (a.3). La Virgen María, aunque no necesitaba purificación, se sometió voluntariamente a la ley para conformarse con la humildad de su Hijo y dar ejemplo de obediencia (a.4).
+
 ## Distinciones importantes
 
 - **Circuncisión física vs. circuncisión del corazón**: el rito externo sin disposición interior carece de valor.
@@ -36,3 +44,4 @@ Jesús fue circuncidado (Lc 2,21), pero su Evangelio debía anunciarse a todas l
 ## Referencias
 
 - VocTeoBib, «Circuncisión»
+- SmTh IIIª q.37 a.1-4

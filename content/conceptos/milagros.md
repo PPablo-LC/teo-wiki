@@ -1,7 +1,7 @@
 # Milagros
 
 > Área: Teología Fundamental
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -16,6 +16,16 @@ El milagro es un signo de la presencia y del poder de Dios en la historia. En [[
 ### Según el Catecismo (CEC)
 
 Jesús realizó milagros como signos mesiánicos que acreditan su misión divina (CEC §547-550). La fe puede ser probada por los milagros como «signos seguros» de la revelación (§156). La Iglesia reconoce los milagros como dones carismáticos del [[espíritu_santo]] que edifican la comunidad (§2003). Los milagros en la vida de los santos confirman la acción divina (§2681).
+
+### Según la Summa Theologiae (SmTh)
+
+#### IIIª q.43 — Milagros de Cristo en general
+
+Cristo debió hacer milagros para confirmar su doctrina y manifestar la presencia de Dios en Él (IIIª q.43 a.1). Los hizo con poder divino propio, pues la naturaleza humana obraba como instrumento de la divinidad (IIIª q.43 a.2). Comenzó a hacer milagros al inicio de su vida pública, en las bodas de Caná, porque no convenía hacerlos antes de predicar ni antes de la edad perfecta (IIIª q.43 a.3). Los milagros fueron suficientes para mostrar su divinidad por la calidad de las obras, por el modo —con poder propio, no orando— y por la doctrina que confirmaban (IIIª q.43 a.4).
+
+#### IIIª q.44 — Clases de milagros en particular
+
+Cristo realizó milagros sobre las sustancias espirituales expulsando demonios, para mostrar que con su poder divino arrojaba al príncipe de este mundo (IIIª q.44 a.1). Hizo milagros sobre los cuerpos celestes, como el oscurecimiento del sol en la pasión, para probar que solo Dios puede mudar el orden inmutable de los cielos (IIIª q.44 a.2). Sobre los hombres realizó curaciones milagrosas como signo de que era el Salvador universal, perdonando los pecados y curando los cuerpos (IIIª q.44 a.3). Sobre las criaturas irracionales —vientos, mar, panes, peces— mostró que toda criatura está sometida a su poder divino (IIIª q.44 a.4).
 
 ### Según Royo Marín (TPCr)
 
@@ -42,5 +52,6 @@ Los milagros son [[motivos_de_credibilidad]] que sostienen la [[fe]] racional, c
 ## Referencias
 
 - CEC §156, §547-550, §2003, §2681
+- SmTh IIIª q.43 a.1-4; q.44 a.1-4
 - TPCr, Tratado de la fe (motivos de credibilidad)
 - [PS §37,13]

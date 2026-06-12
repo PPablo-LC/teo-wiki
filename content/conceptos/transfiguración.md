@@ -1,7 +1,7 @@
 # Transfiguración
 
 > Área: Cristología
-> Última actualización: 2026-06-02
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -26,6 +26,10 @@ La Transfiguración es una epifanía del Reino de Dios presente en Jesús. Pedro
 La nube luminosa que cubre el monte es la Shekiná, la presencia de Dios. La voz del Padre confirma a Jesús como Hijo amado, eco del Bautismo. El mandato «escuchadle» remite a Dt 18,15: el profeta escatológico a quien hay que oír.
 
 La Transfiguración anticipa la parusía. Pedro la recordará en su segunda carta como confirmación de la potencia y venida de Cristo (2 Pe 1,16-18). El rostro de Jesús resplandece «como el sol» (Mt 17,2), imagen de la gloria divina. Juan se refiere a la gloria del Verbo encarnado (Jn 1,14), que los discípulos contemplaron.
+
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata la Transfiguración en la IIIª q.45. Fue conveniente porque Cristo, tras anunciar su pasión, quiso mostrar a los discípulos la gloria del fin para que soportasen con ánimo las adversidades (IIIª q.45 a.1). La claridad que apareció fue verdadera claridad de la gloria en cuanto a la esencia, pero no permanente sino transeúnte, a modo de milagro (IIIª q.45 a.2). Los testigos fueron Moisés y Elías (la Ley y los Profetas) y tres discípulos (Pedro, Santiago y Juan), para que «por la declaración de dos o tres testigos sea firme este hecho» (IIIª q.45 a.3). La voz del Padre —«Este es mi Hijo amado; escuchadle»— confirmó la filiación natural de Cristo, pues la Transfiguración es sacramento de la segunda regeneración, así como el Bautismo lo es de la primera (IIIª q.45 a.4).
 
 ### Según Royo Marín (TPCr)
 
@@ -53,4 +57,5 @@ Se relaciona con [[gloria_de_dios]], [[resurrección_de_cristo]], [[teofanía]],
 ## Referencias
 
 - VocTeoBib, artículo «Transfiguración», Xavier León-Dufour (ed.)
+- SmTh IIIª q.45 a.1-4
 - Mc 9,2-10 par.; 2 Pe 1,16-18; Jn 1,14
