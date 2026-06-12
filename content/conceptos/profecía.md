@@ -1,7 +1,7 @@
 # Profecía
 
 > Área: Dogmática / Mística
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -41,6 +41,10 @@ La profecía no es hábito sino luz transeúnte (n.758). Se distingue de la visi
 
 **Q174 — División de la profecía:** La profecía se divide, según su objeto, en tres especies: de predestinación (lo que Dios hará infaliblemente), de presciencia (lo que Dios prevé que sucederá por libre albedrío) y de conminación (anuncio condicional según el orden de las causas) (q.174 a.1). La profecía que posee solo visión intelectual (sin imágenes) es más excelente que la que requiere visión imaginaria, porque se aproxima más a la visión beatífica (q.174 a.2). No todos los profetas reciben el mismo grado de revelación; Moisés fue el más insigne, por la familiaridad inmediata con Dios (q.174 a.4). Quien goza de la visión beatífica no necesita ya la profecía, porque la visión perfecta reemplaza el conocimiento imperfecto (q.174 a.5). La profecía creció en perfección con el tiempo, siendo los profetas más cercanos a Cristo los que recibieron revelaciones más claras (q.174 a.6).
 
+**Cristo tuvo profecía (IIIª q.7 a.8):**
+
+Cristo fue simultáneamente viador y bienaventurado (comprehensor). Como viador, podía conocer y anunciar cosas que estaban lejanas al conocimiento de los demás viadores, y en ese sentido tuvo profecía. La profecía no contradice la bienaventuranza como lo hacen la fe y la esperanza, porque la profecía es un conocimiento revelado que no exige imperfección en el sujeto, sino que es una gracia gratis dada para la utilidad de los demás. Cristo tuvo conocimiento pleno en la parte intelectiva (visión beatífica), pero en la imaginación recibía imágenes de modo profético para manifestar las verdades divinas a los hombres.
+
 ## Distinciones importantes
 
 - Profecía estrictamente dicha (futuros contingentes) vs. revelación de cosas pasadas u ocultas
@@ -59,4 +63,5 @@ Se relaciona con las [[visiones]], las [[apariciones]], las [[locuciones]], el [
 
 - TPCr, Cuarta Parte, Cap. I, n.758-762
 - Santo Tomás, Summa Theologiae II-II, q.171-174
+- SmTh IIIª q.7 a.8
 - CEC §67, §891-892, §904-905, §2004

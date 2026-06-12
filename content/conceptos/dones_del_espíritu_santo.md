@@ -1,7 +1,7 @@
 # Dones del Espíritu Santo
 
 > Área: Dogmática / Mística
-> Última actualización: 2026-05-21
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -36,6 +36,13 @@ Los dones del Espíritu Santo son necesarios para la salvación y para la perfec
 **Comparación de los dones con las virtudes (q.68 a.8):** Las virtudes teológicas (fe, esperanza, caridad) son superiores a los dones, porque unen al alma con Dios, que es el motor. Pero los dones son superiores a las virtudes intelectuales y morales, porque perfeccionan las facultades del alma en relación con un motor más elevado (el Espíritu Santo), mientras que las virtudes perfeccionan en relación con la razón humana.
 
 [SmTh Iª-IIae q.68]
+
+**Cristo poseyó los dones (IIIª q.7 a.5):**
+
+Los dones del Espíritu Santo son perfecciones que hacen al alma dócil para ser movida por el Espíritu Santo. El alma de Cristo fue movida por el Espíritu Santo en grado perfectísimo, pues la humanidad de Cristo fue el instrumento perfecto de la divinidad. Por tanto, Cristo tuvo todos los [[dones_del_espíritu_santo]] en grado excelentísimo, sin medida. Las virtudes, incluso las teologales, necesitan la ayuda de los dones para ser movidas por el Espíritu Santo, y en Cristo esta moción fue plenísima. Cristo da los dones como Dios (en cuanto creador y fuente de toda gracia) y los recibe como hombre (en cuanto su alma humana es perfeccionada por el Espíritu Santo).
+
+[SmTh IIIª q.7 a.5]
+
 ### Según Royo Marín (TPCr)
 
 Royo Marín dedica el capítulo tercero de la Segunda Parte a los dones del Espíritu Santo, que constituyen el elemento capital de su doctrina sobre la perfección cristiana. Los dones son el principio formal de la vida mística: la actuación sobrehumana de los dones del Espíritu Santo es precisamente lo que define la mística.
@@ -67,3 +74,4 @@ Los dones del Espíritu Santo son la clave de la [[naturaleza_de_la_mística]] (
 ## Referencias
 
 - [TPCr, Parte II, Cap. 3]
+- SmTh IIIª q.7 a.5

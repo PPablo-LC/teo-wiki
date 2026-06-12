@@ -1,7 +1,7 @@
 # Temor
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-06-11
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -78,3 +78,4 @@ Se relaciona con [[don_de_temor]], [[sabiduría]], [[espíritu_santo]], [[dones_
 - VocTeoBib, artículo «Temor», Xavier León-Dufour (ed.)
 - Prov 1,7; 9,10; Eclo 1,14; Rom 8,15; Flp 2,12; 1 Jn 4,18
 - SmTh Ia-IIae q.41-44; IIª-IIae q.125 aa.1-4
+- SmTh IIIª q.15 a.7

@@ -1,7 +1,7 @@
 # Carismas
 
 > Área: Dogmática
-> Última actualización: 2026-06-05
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -33,6 +33,14 @@ Los dones extraordinarios no deben pedirse temerariamente ni esperarse con presu
 
 Los sagrados Pastores deben «reconocer sus servicios y carismas de tal suerte que todos, a su modo, cooperen unánimemente en la obra común» [ConcVatII, LG §30].
 
+### Según la Summa Theologiae (SmTh)
+
+**Cristo poseyó todos los carismas (IIIª q.7 a.7):**
+
+Cristo poseyó todos los carismas (gracias gratis dadas) en grado eminentísimo, pues Él es el primero y principal maestro de la [[virtud_de_la_fe|fe]]. Los carismas se ordenan a la manifestación de la fe, y Cristo, como cabeza de la Iglesia, tuvo la plenitud de toda gracia (cf. [[gracia_santificante]] y gracia carismática). No necesitó el don de lenguas en acto porque predicó solamente a los judíos, pero conoció todas las lenguas en el Verbo. Mientras que los demás santos reciben los carismas divididos (a uno sabiduría, a otro ciencia, etc.), Cristo los poseyó todos simultáneamente en grado perfectísimo, como fuente de toda gracia para su Cuerpo Místico.
+
+[SmTh IIIª q.7 a.7]
+
 ### Según Royo Marín (TPCr)
 
 Las gracias gratis dadas se ordenan principalmente a la utilidad de los demás. Algunas se ordenan al provecho del que las recibe (visiones, revelaciones, raptos, éxtasis). Santo Tomás las trata extensamente. La hierognosis (discernimiento de objetos sagrados) y otros fenómenos extraordinarios pueden ser gracias gratis dadas (TPCr, Cuarta Parte, Caps. I-II).
@@ -60,4 +68,5 @@ El documento «Consideraciones sobre los carismas, la sanación y la vida en el 
 - 1 Corintios 12-14
 - CIC cc. 212 §2-3, 216, 223 §2, 225 §1, 605
 - [VocTeoBib, «Carisma»]
+- SmTh IIIª q.7 a.7
 - [RC-Carismas-2023, 3.1, 4.1-4.2]

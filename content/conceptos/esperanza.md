@@ -1,7 +1,7 @@
 # Esperanza
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-06-10
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -65,6 +65,10 @@ La esperanza cristiana confiere una fuerte determinación al compromiso en campo
 
 **a.2 — Se dan preceptos sobre el temor:** El temor servil se induce mediante las amenazas de pena en la ley. El temor filial, como género de amor de Dios, se prescribe en preceptos que son principios comunes de toda la ley.
 
+**Cristo no tuvo esperanza como virtud teologal (IIIª q.7 a.4):**
+
+Cristo desde el primer instante de su concepción gozó de la fruición plena de la divinidad en [[visión_beatífica]]. Por tanto, no tuvo la [[virtud_de_la_esperanza]] como virtud teologal, pues el objeto de la esperanza es un bien futuro y arduo que aún no se posee. Sin embargo, Cristo sí tuvo esperanza respecto de aquellas cosas que aún no había alcanzado, como la inmortalidad y la gloria del cuerpo (la resurrección y la ascensión a los cielos). La gloria del cuerpo no pertenece a la bienaventuranza principal, que consiste en la visión de Dios, y por eso podía esperarla incluso mientras gozaba de la visión beatífica.
+
 ### Según los Ejercicios Espirituales 2026 a la Curia Romana (EjEsp2026)
 
 Mons. Erik Varden dedica la meditación final (capítulo 11) a comunicar la [[esperanza]] cristiana en un tiempo marcado por el dolor sordo de los jóvenes y la desorientación cultural. La esperanza cristiana no es optimismo ingenuo, sino la certeza de que Cristo crucificado y resucitado es el futuro del género humano.
@@ -97,4 +101,5 @@ Ver artículo principal: [[virtud_de_la_esperanza]]
 - [CompDS §578-§579]
 - SmTh Ia-IIae q.40 aa.1-6
 - SmTh IIª-IIae q.17 aa.1-8; q.18 aa.1-4; q.22 aa.1-2
+- SmTh IIIª q.7 a.4
 - [EjEsp2026, cap. 11: «Comunicar Esperanza»]

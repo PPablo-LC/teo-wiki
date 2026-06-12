@@ -1,7 +1,7 @@
 # Tristeza
 
 > Área: Moral / Ascética
-> Última actualización: 2026-06-06
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -40,6 +40,10 @@ Sus efectos: el dolor intenso priva de la facultad de aprender, pues atrae hacia
 Los remedios de la tristeza son: cualquier delectación, pues todo reposo del apetito mitiga la fatiga (q.38 a.1); el llanto y los gemidos, que desahogan el dolor interior y son deleitables por convenir al estado del que sufre (q.38 a.2); la compasión de los amigos, que alivia el peso de la tristeza y manifiesta el amor (q.38 a.3); la contemplación de la verdad, la mayor de las delectaciones (q.38 a.4); y remedios corporales como el sueño y los baños, que restablecen el debido estado del cuerpo (q.38 a.5).
 
 Sobre su bondad o malicia, toda tristeza es mala absolutamente, pero supuesta la presencia del mal, es bueno entristecerse (q.39 a.1). La tristeza por el pecado (tristeza según Dios) es un bien honesto y meritorio (q.39 a.2). La tristeza por bienes mundanos perdidos puede ser útil, pues hace huir del mal con más vehemencia (q.39 a.3). Ninguna tristeza es el sumo mal del hombre, pues siempre contiene algún bien (el juicio verdadero y el rechazo del mal) (q.39 a.4).
+
+**IIIª q.15 a.6 — La tristeza en Cristo:**
+
+Cristo tuvo verdadera tristeza en el apetito sensitivo, distinta del dolor sensible (pues la tristeza es por mal aprehendido interiormente, mientras el dolor sensible lo es por lesión corporal). En Mt 26,37 «comenzó a entristecerse»: su tristeza fue propasión (comenzó en el apetito sensitivo pero no dominó la razón), no pasión perfecta. Cristo se entristeció por su pasión y muerte, y por el pecado de los discípulos y del pueblo judío. La tristeza fue voluntaria *ratione finis* (por razón del fin: la redención), aunque involuntaria en sí misma.
 ### Según Royo Marín (TPCr)
 
 TPCr trata la tristeza como uno de los pecados capitales. La acedia es el pecado capital que entristece por el bien espiritual y es causa de muchos otros pecados: malicia, rencor, pusilanimidad, desesperación. Se combate con la [[alegría]] espiritual, la [[esperanza]] y la [[perseverancia]].
@@ -58,3 +62,4 @@ Se relaciona con la [[acedia]], la [[pereza]], el [[desaliento]], la [[alegría]
 - CEC §2540, §2733
 - TPCr, Tratado de los pecados capitales
 - SmTh Ia-IIae q.35-39
+- SmTh IIIª q.15 a.6

@@ -1,7 +1,7 @@
 # Ira
 
 > Área: Moral / Ascética
-> Última actualización: 2026-06-11
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -46,6 +46,10 @@ Santo Tomás trata la ira como pasión del apetito irascible (q.46 a.1,3). Su ob
 La causa de la ira es el menosprecio o desdén recibido (q.47 a.2), que se manifiesta como desprecio, impedimento a la propia voluntad, o contumelia (q.47 a.1-2). La excelencia de quien se irrita dispone a airarse más fácilmente, pues el desprecio es más indigno (q.47 a.3). La pequeñez o defecto de aquel contra quien uno se irrita también aumenta la ira, porque es más indigno ser despreciado por un inferior (q.47 a.4).
 
 Sus efectos: la esperanza y el pensamiento de la venganza causan delectación, pues remedian la tristeza de la ofensa (q.48 a.1). Produce un gran ardor o efervescencia de la sangre junto al corazón, que se manifiesta en palpitaciones, temblor, enrojecimiento del rostro y torvedad de los ojos (q.48 a.2). Impide manifiestamente el juicio de la razón, pues la perturbación corporal se extiende a los órganos de los sentidos internos (q.48 a.3). Puede causar mutismo, bien porque la razón refrena la lengua, bien porque la perturbación extrema impide el movimiento de la lengua (q.48 a.4).
+
+**IIIª q.15 a.9 — La ira en Cristo:**
+
+Cristo tuvo ira por celo (ira según la razón). La ira es efecto de la tristeza y deseo de venganza; en Cristo, el deseo de venganza era según la justicia y por tanto laudable. No tuvo ira por pecado (venganza desordenada), sino ira por celo de la casa de Dios (Jn 2,17). La ira moderada por la razón no se opone a la mansedumbre, sino que es compatible con ella. En Cristo, las pasiones inferiores no estorbaban los actos de la razón por la acción moderadora del poder divino.
 ### Según Royo Marín (TPCr)
 
 La represión de la ira desordenada es un efecto del don de temor, que actúa sobre la mansedumbre (TPCr, Tercera Parte, Libro II, Cap. II). La ira es uno de los frutos de la soberbia y uno de los grandes obstáculos para la perfección. La impaciencia, que se manifiesta con ira, quejas y murmuraciones, se opone a la virtud de la paciencia (TPCr, Tercera Parte, Libro II, Cap. II). La lucha contra la cólera requiere mortificación de las pasiones.
@@ -74,3 +78,4 @@ Se relaciona con las [[pasiones]], la [[mansedumbre]] (virtud opuesta), la [[pac
 - [CEC §2302-2303, §210]
 - [TPCr, Tercera Parte, Libro II, Cap. II]
 - SmTh Ia-IIae q.46-48
+- SmTh IIIª q.15 a.9

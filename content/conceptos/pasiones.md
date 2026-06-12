@@ -1,7 +1,7 @@
 # Pasiones
 
 > Área: Moral
-> Última actualización: 2026-06-06
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -34,6 +34,10 @@ En el orden sobrenatural, la gracia puede ordenar las pasiones y convertirlas en
 **Ia-IIae q.24 — Bondad moral de las pasiones:** Las pasiones pueden ser moralmente buenas o malas en cuanto están sometidas a la razón y a la voluntad (q.24 a.1). No todas las pasiones son malas (q.24 a.2). La pasión puede aumentar o disminuir la bondad del acto humano (q.24 a.3).
 
 **Ia-IIae q.25 — Orden de las pasiones:** El amor es la primera de las pasiones, seguida del deseo y luego del gozo. Las pasiones irascibles se sitúan entre las concupiscibles de movimiento y las de reposo (q.25 aa.1-4).
+
+**IIIª q.14 a.2 — Necesidad natural vs. de coacción en los defectos de Cristo:** Cristo asumió los defectos corporales (hambre, sed, muerte) no por coacción sino por necesidad natural consecuente a la naturaleza humana asumida. Asumió voluntariamente las debilidades de la carne para satisfacer por el pecado, para manifestar la verdad de su humanidad y para darnos ejemplo de paciencia (q.14 a.1). No asumió defectos incompatibles con la perfección de [[ciencia_de_cristo|ciencia]] y [[gracia_habitual|gracia]] (q.14 a.4), como la lepra u otros males particulares, sino solo los comunes a toda la naturaleza humana.
+
+**IIIª q.15 a.4 — Pasibilidad del alma de Cristo:** El alma de Cristo fue pasible (a.4): padeció por pasión corporal (indirectamente por lesión del cuerpo) y por pasión anímica (afecciones del apetito sensitivo). Las pasiones de Cristo se distinguieron de las nuestras en tres aspectos: en el objeto (nunca tendieron a lo ilícito), en el principio (seguían el imperio de la razón) y en el efecto (no arrastraban a la razón). Jerónimo distingue propasión (comienza en el apetito sensitivo pero no domina la razón) de pasión perfecta (domina la razón); en Cristo hubo propasión, no pasión perfecta. Cristo no tuvo *fomes* del pecado (q.15 a.2) porque la virtud moral sometía perfectamente el apetito sensitivo a la razón.
 
 ### Según Royo Marín (TPCr)
 
@@ -72,3 +76,5 @@ Las pasiones se relacionan con la [[templanza]] (las concupiscibles) y la [[fort
 - [TPCr, Parte III, Libro I, Cap. II-III]
 - SmTh Ia-IIae q.22-25
 - SmTh Iª q.95 aa.2-3
+- SmTh IIIª q.14 aa.1-4
+- SmTh IIIª q.15 aa.2,4

@@ -1,7 +1,7 @@
 # Don de temor
 
 > Área: Ascética / Mística
-> Última actualización: 2026-06-08
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -84,6 +84,10 @@ Este don produce la humildad:
 
 **a.12 — La pobreza de espíritu corresponde al don de temor:** Por la sumisión a Dios, el hombre deja de engreírse en sí mismo y de buscar grandeza fuera de Dios.
 
+**Cristo tuvo el don de temor (IIIª q.7 a.6):**
+
+Cristo tuvo el [[don_de_temor]], pero no como temor de separación de Dios o de castigo (temor servil), sino como temor reverencial (temor filial) ante la infinita superioridad de la divinidad. Su alma humana se movía hacia Dios con afecto reverencial y sumiso, reconociendo la excelsa majestad divina. La carta a los Hebreos (5,7) dice que Cristo fue «escuchado por su reverencial temor». El don de temor se refiere al bien (la superioridad divina), no al mal. La [[caridad]] perfecta echa fuera el temor servil (que teme la pena), pero no el temor filial, que es compatible con la caridad perfectísima de Cristo.
+
 ## Distinciones importantes
 
 - **Temor servil vs. temor filial**: el primero teme el castigo; el segundo teme ofender a Dios por amor
@@ -114,5 +118,6 @@ Este don produce la humildad:
 - Proverbios 1,7; 9,10
 - Salmos 111,10
 - Concilio de Trento
-- Santo Tomás, S.Th., I-II, q. 68; II-II, q. 19
+- Santo Tomás, S.Th., I-II, q. 68; II-II, q. 19; III, q. 7 a. 6
 - SmTh IIª-IIae q.19 aa.1-12
+- SmTh IIIª q.7 a.6

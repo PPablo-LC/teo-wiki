@@ -1,7 +1,7 @@
 # Ignorancia
 
 > Área: Moral
-> Última actualización: 2026-06-08
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -32,6 +32,10 @@ La ignorancia afectada (querida para pecar más libremente) agrava el pecado; la
 
 **a.4 — La ignorancia puede disminuir el pecado:** Solo la ignorancia que es causa del pecado (no la concomitante) y que no excusa totalmente puede disminuirlo. Cuando es voluntaria indirectamente (por negligencia), disminuye la voluntariedad y, con ella, el pecado. Cuando es voluntaria directamente (ignorancia afectada), lo agrava.
 
+**IIIª q.15 a.3 — Cristo no tuvo ignorancia:**
+
+Cristo no tuvo ignorancia alguna porque poseyó la plenitud de [[ciencia_de_cristo]] (q.9-12). La ignorancia se opone a la ciencia; así como no hubo *fomes* del pecado en Cristo por plenitud de gracia y virtud, no hubo ignorancia por plenitud de ciencia. La naturaleza humana en sí misma es, según Damasceno, «ignorante y servil», pero en Cristo recibió plenitud de ciencia por la unión hipostática con la persona divina. Cristo no conoció el pecado por experiencia (no pecó), pero sí por conocimiento especulativo. Lc 2,52 («crecía en sabiduría») se refiere a la ciencia experimental, no a la ciencia infusa.
+
 ### Según el Catecismo (CEC)
 
 La ignorancia invencible del pecado puede atenuar o incluso eximir de la imputabilidad de una falta grave (CEC §1860). La imputabilidad de una falta puede quedar disminuida por la ignorancia, la inadvertencia, la violencia, el miedo, los afectos desordenados y otros factores psíquicos o sociales (CEC §1859-1860).
@@ -58,5 +62,6 @@ La ignorancia se relaciona con [[pecado]], [[conciencia]], [[imputabilidad]], [[
 ## Referencias
 
 - SmTh Ia-IIae q.76 aa.1-4
+- SmTh IIIª q.15 a.3
 - CEC §1859-1860
 - CIC cc.1323, 1325

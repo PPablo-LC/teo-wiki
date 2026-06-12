@@ -1,7 +1,7 @@
 # Fe
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-06-05
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -61,6 +61,10 @@ La fe produce temor: el temor servil (temor al castigo) y el temor filial (temor
 **VIII. Preceptos de la fe (q.15, q.16)**
 La fe se presupone a los preceptos de la ley, pues la primera sumisión del hombre a Dios es por la fe (q.16 a.1). Los preceptos prohibitivos vedan los defectos particulares que corrompen la fe (q.16 a.1 ad 3). La ciencia y el entendimiento se adquieren por la doctrina y la disciplina, se usan por la meditación y se conservan por la memoria; todo ello está prescrito en la ley (q.16 a.2).
 
+**IX. Cristo no tuvo fe (IIIª q.7 a.3):**
+
+Cristo no tuvo la [[virtud_de_la_fe]] porque desde el primer instante de su concepción vio la esencia divina en [[visión_beatífica]]. El objeto de la fe es lo no visto (Heb 11,1), y Cristo, como bienaventurado, veía a Dios cara a cara. Las virtudes morales se dieron en Cristo de modo perfectísimo, pero la fe no pudo darse en Él porque incluye esencialmente el defecto de no ver lo que se cree. Sin embargo, Cristo tuvo obediencia plenísima al Padre, más excelente que el mérito de la fe, pues su mérito fue el de su propia vida y pasión. La fe es propia de los viadores; Cristo fue simultáneamente viador y bienaventurado, pero en cuanto a la parte intelectiva superior gozaba de la visión beatífica, que excluye la fe.
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[virtud_de_la_fe]]
@@ -80,3 +84,4 @@ Ver artículo principal: [[virtud_de_la_fe]]
 - TPCr, Tercera Parte, Libro I, Cap. II
 - [CompDS §577]
 - [NotaEmocionesFe, nn. 1, 24, 27-28]
+- SmTh IIIª q.7 a.3
