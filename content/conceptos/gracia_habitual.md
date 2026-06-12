@@ -29,6 +29,26 @@ El CEC enseña que «la gracia santificante es un don habitual, una disposición
 
 **Ia-IIae q.112 a.4 — Grados de la gracia habitual:** Por razón del sujeto, la gracia habitual admite grados: unos participan más perfectamente de la luz divina que otros. La raíz de esta diversidad está en Dios, que reparte sus dones para la belleza y perfección de la Iglesia (q.112 a.4).
 
+### Según la Summa Theologiae (SmTh) — IIIª Pars (Cristo)
+
+**IIIª q.7 a.1 — Gracia habitual en el alma de Cristo:** Cristo tuvo gracia habitual por tres motivos: 1) por su unión con el Verbo, que es la fuente de la gracia; 2) por la nobleza de su alma humana, que debía contactar con Dios mediante conocimiento y amor; 3) por su relación como mediador entre Dios y los hombres (cf. 1 Tim 2,5; Jn 1,16).
+
+**IIIª q.7 a.2 — Virtudes en Cristo:** Cristo tuvo todas las virtudes, porque así como la gracia se relaciona con la esencia del alma, las virtudes se relacionan con sus potencias. Al ser perfectísima su gracia, de ella proceden virtudes para todas las potencias.
+
+**IIIª q.7 a.3-4 — Fe y esperanza:** Cristo no tuvo la virtud de la fe (veía la esencia divina) ni la virtud teologal de la esperanza (poseía la fruición plena de Dios desde el primer instante), aunque sí tuvo esperanza respecto de la glorificación de su cuerpo.
+
+**IIIª q.7 a.5-6 — Dones y temor:** Cristo poseyó todos los dones del Espíritu Santo, incluido el don de temor (temor reverencial a la superioridad divina, no temor servil).
+
+**IIIª q.7 a.7-8 — Carismas y profecía:** Cristo tuvo todos los carismas (gracias gratis dadas) en grado eminentísimo como primer y principal maestro de la fe. Tuvo el don de profecía en cuanto viador, pues conocía y anunciaba cosas lejanas al conocimiento humano.
+
+**IIIª q.7 a.9-10 — Plenitud de gracia:** Cristo poseyó la plenitud de gracia en dos sentidos: por cantidad intensiva (grado sumo) y por eficacia (para todas las operaciones). Esta plenitud en sentido absoluto es propia de Cristo; en sentido relativo (según la condición de cada sujeto) puede comunicarse a otros.
+
+**IIIª q.7 a.11 — Gracia finita e infinita:** La gracia habitual de Cristo es creada y finita en su ser (por ser recibida en un alma creada), pero infinita por su virtualidad (se extiende a todo lo que pertenece al concepto de gracia, como principio universal de justificación).
+
+**IIIª q.7 a.12 — La gracia de Cristo no pudo aumentar:** Por la unión personal con el Verbo, la gracia habitual de Cristo alcanzó el grado supremo posible para una criatura racional, no pudiendo aumentar ni por parte de la forma ni del sujeto.
+
+**IIIª q.7 a.13 — Relación con la gracia de unión:** La gracia habitual es consecuencia de la gracia de unión: el alma de Cristo, por estar unida personalmente al Verbo, recibe la máxima influencia de gracia.
+
 ### Según Royo Marín (TPCr)
 
 Royo Marín distingue entre gracia increada (Dios mismo inhabitante) y gracia creada (la gracia habitual o santificante). Esta última es la que formalmente nos santifica y nos hace hijos de Dios por adopción. «En este sentido es para nosotros de mayor precio y valor que la misma inhabitación trinitaria, ya que ésta, aunque de suyo vale infinitamente más por tratarse de una realidad increada, no nos santifica formalmente» (n.83, 91).
