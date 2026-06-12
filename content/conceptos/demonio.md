@@ -1,7 +1,7 @@
 # Demonio
 
 > Área: Dogmática (Angelología)
-> Última actualización: 2026-06-03
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -42,6 +42,9 @@ Dios no es causa del mal de culpa (Iª q.49 a.2), lo cual significa que el pecad
 **Orden entre los demonios (q.109):** Aunque los demonios están privados de la gracia, conservan el orden de la naturaleza. Hay orden entre ellos según los grados de su naturaleza angélica, que permanece íntegra (q.109 a.1). Existe prelacía entre los demonios: los superiores naturalmente rigen a los inferiores, pues la misma disposición natural exige que haya entre ellos alguna prelacía (q.109 a.2). No hay iluminación propiamente dicha entre los demonios, porque no intentan llevarse unos a otros a Dios, aunque pueden manifestarse su pensamiento a modo de locución (q.109 a.3). Los ángeles buenos tienen prelacía sobre los demonios: las criaturas que gozan de Dios (los bienaventurados) son superiores a las que están privadas de Él, y el poder de la divina justicia a la que están unidos los ángeles buenos es más fuerte que toda virtud natural de los demonios (q.109 a.4).
 
 **Tentación del demonio (q.114):** Los hombres son combatidos por los demonios por envidia y soberbia; pero el orden del combate viene de Dios, que sabe usar ordenadamente los males para el bien (q.114 a.1). Tentar es propio del diablo en el sentido de que tienta siempre para dañar, precipitando al pecado —a diferencia de Dios (que tienta para probar) y de la carne (que tienta como instrumento)— (q.114 a.2). El demonio tienta explorando la condición interior del hombre, de la que solo Dios tiene conocimiento perfecto, para instigar a cada uno en el vicio al que es más propenso. No todos los pecados provienen directamente de la tentación del demonio: algunos brotan del libre albedrío y de la corrupción de la carne (q.114 a.3). Sin embargo, el demonio es causa indirecta de todos los pecados por haber instigado al primer hombre, de cuyo pecado se siguió la tendencia a todos los pecados. Los demonios no pueden hacer verdaderos milagros (que sobrepasan toda la naturaleza creada), pero pueden hacer cosas que admiran a los hombres por sobrepasar su poder y conocimiento (q.114 a.4). Los demonios superados no siempre insisten en tentar; a veces se retiran por permisión divina o por temor a ser nuevamente derrotados, aunque pueden volver más tarde (q.114 a.5).
+
+**El diablo cabeza de los malos (IIIª q.8 a.7):** El diablo es cabeza de todos los malos, pero a diferencia de Cristo —que es cabeza por influjo interior de la gracia— el diablo lo es solo por gobierno exterior. Es "rey de todos los hijos de la soberbia" (Job 41,25). Su fin es apartar a la criatura racional de Dios. Así como Cristo es modelo al que tienden los buenos, el diablo es el modelo que imitan los malos (Sab 2,24-25). No todos los pecados provienen directamente de la sugestión del demonio, pero el primer pecado del diablo —el de [[soberbia]]— fue propuesto a todos como señal y ejemplo a seguir. Todos los pecados coinciden formalmente en ser separación de Dios, y esa separación tuvo su primer ejemplar en el pecado del diablo.
+
 ### Según Royo Marín (TPCr)
 
 Royo Marín dedica un capítulo al demonio en la Tercera Parte, Libro I (Aspecto Negativo de la Vida Cristiana), Capítulo 3. El demonio es una de las tres grandes enemigas del alma: mundo, demonio y carne. Actúa como tentador externo, sugiriendo pensamientos y moviendo las pasiones. Su acción se ejerce principalmente por la tentación, la obsesión y, en casos extraordinarios, la posesión.
@@ -80,3 +83,4 @@ El demonio es el adversario de Cristo y de la [[iglesia]]. Su acción se opone a
 - [SmTh Iª q.64, pena de los demonios]
 - [SmTh Iª q.109, orden de los ángeles malos]
 - [SmTh Iª q.114, insidia de los demonios]
+- [SmTh IIIª q.8 a.7, el diablo cabeza de los malos]

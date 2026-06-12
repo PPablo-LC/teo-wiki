@@ -1,7 +1,7 @@
 # Ángeles
 
 > Área: Dogmática
-> Última actualización: 2026-06-10
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -54,6 +54,9 @@ Santo Tomás trata la naturaleza, el conocimiento y la voluntad de los ángeles 
 **Misión de los ángeles (q.112):** Algunos ángeles son enviados en ministerio para ejecutar el gobierno divino sobre las criaturas corporales (q.112 a.1). No todos los ángeles son enviados a ministerios exteriores: los de la primera jerarquía (Serafines, Querubines, Tronos) y las Dominaciones nunca son enviados, pues su función es contemplar a Dios y disponer, no ejecutar (q.112 a.2). Los ángeles que sirven también asisten ante Dios en cuanto ven la esencia divina, pero en sentido propio solo asisten (son iluminados inmediatamente por Dios) los de la primera jerarquía (q.112 a.3).
 
 **Ángeles custodios (q.113):** Los hombres están custodiados por los ángeles para ser dirigidos y movidos hacia el bien (q.113 a.1). A cada hombre le corresponde un ángel custodio distinto, conforme a la providencia particular de Dios sobre cada alma racional (q.113 a.2). La guarda particular de cada hombre pertenece al ínfimo orden de ángeles (los llamados propiamente Ángeles), mientras que la guarda colectiva de naciones y reinos pertenece a órdenes superiores (q.113 a.3). Todo hombre —justo o pecador, fiel o infiel— tiene un ángel custodio mientras vive en este mundo (q.113 a.4), asignado desde el momento de nacer (q.113 a.5). El ángel custodio nunca abandona totalmente al hombre, aunque permite tribulaciones y pecados según el orden de la divina Providencia (q.113 a.6). No se duele del mal del custodiado porque su voluntad está conforme a la justicia divina (q.113 a.7). Las aparentes discrepancias entre ángeles por la custodia (Dan 10) no son oposición de voluntades sino consulta sobre méritos contrarios (q.113 a.8).
+
+**Cristo cabeza de los ángeles (IIIª q.8 a.4):** Cristo, en cuanto hombre, es cabeza también de los ángeles. Aunque los ángeles no son miembros del [[cuerpo_místico]] en el mismo sentido que los hombres, se ordenan con ellos al mismo fin sobrenatural: la [[bienaventuranza]] divina. Por eso Cristo es cabeza de los ángeles en cuanto que de Él reciben la plenitud de la gracia y la manifestación de los misterios divinos. La Escritura dice que Cristo es "cabeza de todo principado y potestad" (Col 2,10). Cristo está más cerca de Dios que los ángeles y participa de sus dones más perfectamente. No es cabeza de los ángeles por influjo sobre sus cuerpos (pues no tienen), sino por su unión personal con Dios y por la plenitud de gracia que de Él reciben en el conocimiento y amor de la divinidad.
+
 ### Según los Ejercicios Espirituales 2026 a la Curia Romana (EjEsp2026)
 
 Mons. Erik Varden dedica el capítulo 8 a los ángeles, a partir de la tentación de Cristo en el desierto, donde Satanás cita el Salmo 90 sobre los ángeles. Los ángeles no están para complacernos en nuestros caprichos, sino que son custodios de la santidad. Una oración popular contemporánea de Bernardo, atribuida a Reginaldo de Canterbury, pide al ángel de la guarda que nos «ilumine, guarde, rija y gobierne».
@@ -96,4 +99,5 @@ Loring explica que «además de este mundo visible, hay también un mundo invisi
 - [SmTh Iª q.111, acción sobre los hombres]
 - [SmTh Iª q.112, misión de los ángeles]
 - [SmTh Iª q.113, ángeles custodios]
+- [SmTh IIIª q.8 a.4, Cristo cabeza de los ángeles]
 - [EjEsp2026, cap. 8: «Los Ángeles de Dios»]

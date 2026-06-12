@@ -48,6 +48,10 @@ Los efectos del temor son: la contracción, pues el apetito se recoge ante la di
 **a.3 — El temor excesivo atenúa el pecado:** El temor intenso disminuye la imputabilidad del pecado porque perturba la razón. Sin embargo, el temor que procede de la afección desordenada a los bienes temporales no excusa totalmente.
 
 **a.4 — El temor servil es bueno en cuanto inclina a evitar el pecado:** El temor servil (miedo al castigo) es bueno en su efecto (aparta del pecado), pero no es perfecto porque no procede del amor a Dios. El temor filial, en cambio, es perfecto porque evita el pecado por reverencia a Dios.
+
+**IIIª q.15 a.7 — El temor en Cristo:**
+
+Cristo tuvo temor como propasión (no pasión perfecta), pues en el apetito sensitivo rehuyó la lesión corporal, pero la razón permanecía plenamente sometida a la voluntad divina. No tuvo temor por incertidumbre del futuro, ya que poseía la plenitud de [[ciencia_de_cristo]] y conocía todo lo que había de suceder. Mc 14,33: «comenzó a sentir temor y angustia». Asumió voluntariamente el temor para demostrar la verdad de su naturaleza humana; aunque podía evitar los males por su poder divino, eran inevitables para la debilidad de su carne.
 ### Según Royo Marín (TPCr)
 
 La TPCr dedica una sección completa al don de temor (n. 353ss). «El don de temor es un hábito sobrenatural por el cual el justo, bajo el instinto del Espíritu Santo, adquiere docilidad especial para someterse totalmente a la divina voluntad por reverencia a la excelencia y majestad de Dios» (n. 333). Dios, como suprema Bondad, no puede ser temido sino amado; pero en cuanto puede infligir un mal en castigo de las culpas, debe ser temido (n. 335). Distingue temor mundano (pecaminoso), servil y filial o reverencial (propio del justo). El don de temor perfecciona la esperanza (n. 166, 331) y permanecerá en la patria como temor reverencial (n. 958).

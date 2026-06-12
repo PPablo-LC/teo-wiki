@@ -1,7 +1,7 @@
 # Iglesia Cuerpo Místico
 
 > Área: Eclesiología / Dogmática
-> Última actualización: 2026-05-21
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -33,6 +33,20 @@ La perfección cristiana, aunque es personal, tiene una dimensión eclesial inso
 
 [TPCr, Parte I, Cap. 6]
 
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás dedica la cuestión 8 de la IIIª Pars a la [[gracia_capital]] de Cristo, fundamento de su ser cabeza sobre el [[cuerpo_místico]].
+
+**IIIª q.8 — La gracia de Cristo como cabeza de la Iglesia**
+
+Cristo es cabeza de la Iglesia por tres propiedades: orden (su gracia es más elevada que la de todos los demás), perfección (posee la plenitud de todas las gracias) y poder (hace correr la gracia por todos los miembros) (a.1). La humanidad de Cristo influye en los hombres principalmente en el alma y secundariamente en el cuerpo, por lo que su gracia capital se comunica a todo el cuerpo eclesial (a.2).
+
+Cristo es cabeza de todos los hombres, pero en diversos grados: los unidos por la gloria (bienaventurados), por la caridad (justos en la tierra), por la fe (Iglesia militante) y en potencia (infieles que pueden recibir la gracia) (a.3).
+
+La gracia personal de Cristo es esencialmente la misma que su gracia capital: una misma plenitud de gracia recibida por el alma de Cristo en cuanto hombre (a.5). Solo Cristo comunica el influjo interior de la gracia; el Papa, los obispos y demás prelados son cabezas solo por gobierno exterior, no como fuente de vida sobrenatural (a.6).
+
+Tomás compara la relación entre el Espíritu Santo y Cristo con la del corazón y la cabeza en el cuerpo humano: la cabeza tiene superioridad visible y gobierno exterior, mientras que el corazón tiene un influjo oculto y vital (a.1 ad 3). Así, Cristo es cabeza que comunica la gracia visiblemente en su humanidad, mientras que el Espíritu Santo es el corazón que la infunde invisiblemente desde dentro.
+
 ## Distinciones importantes
 
 - **Cuerpo físico de Cristo**: su humanidad individual, nacida de María.
@@ -51,3 +65,4 @@ La Iglesia es la familia de Dios donde se realiza la [[configuración_con_cristo
 ## Referencias
 
 - [TPCr, Parte I, Cap. 6]
+- [SmTh IIIª q.8, la gracia capital de Cristo]
