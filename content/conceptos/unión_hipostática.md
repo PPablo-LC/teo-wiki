@@ -107,4 +107,4 @@ Se relaciona con [[encarnación]], [[jesucristo]], [[trinidad]], [[virgen_maría
 
 - [CEC §468-470; §252; §476]
 - [TPCr, Primera Parte, Cap. 1 y 3]
-- SmTh IIIª q.2 aa.1-12; q.3 aa.1-8; q.4 aa.1-6; q.16 aa.1-12; q.17 aa.1-2; q.20 aa.1-2; q.16 aa.1-12; q.17 aa.1-2
+- SmTh IIIª q.2 aa.1-12; q.3 aa.1-8; q.4 aa.1-6; q.16 aa.1-12; q.17 aa.1-2; q.20 aa.1-2

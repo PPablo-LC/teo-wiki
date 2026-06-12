@@ -1,7 +1,7 @@
 # Adoración
 
 > Área: Moral — Dogmática
-> Última actualización: 2026-06-02
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -38,6 +38,22 @@ La adoración en lugar determinado (templo) es conveniente porque la unidad del 
 
 [SmTh IIa-IIae q.84]
 
+#### Adoración de Cristo (IIIª q.25)
+
+En la IIIª q.25, Santo Tomás aplica la doctrina de la adoración a Cristo en relación con nosotros.
+
+**Una sola adoración a Cristo (q.25 a.1).** En Cristo hay una sola persona con naturaleza divina y humana, una sola hipóstasis y un solo supuesto. Por tanto, hay una sola adoración por parte del sujeto adorado. Por parte de la causa que mueve a honrarle, pueden distinguirse varios motivos (por ejemplo, su sabiduría increada y su sabiduría creada), pero la adoración es numéricamente una. Así lo definió el V Concilio: anatema a quien adore a Cristo con dos adoraciones.
+
+**La humanidad de Cristo se adora con latría (q.25 a.2).** La adoración se tributa propiamente a la hipóstasis subsistente. Adorar la carne de Cristo es adorar al Verbo de Dios encarnado. Por la unión hipostática, el cuerpo de Cristo se adora con latría. Considerada la humanidad de Cristo por las gracias que la perfeccionan, se le debe dulía. Así, la misma persona de Cristo es adorada con latría por su divinidad y con dulía por su humanidad.
+
+**La imagen de Cristo recibe latría (q.25 a.3).** El movimiento del alma hacia la imagen en cuanto imagen es uno y el mismo que hacia la realidad representada. Por tanto, la imagen de Cristo debe ser adorada con la misma adoración que Cristo, es decir, con latría. No se adora la materia (madera o pintura), sino a Cristo representado. Así lo enseña Basilio: "El honor de la imagen llega al prototipo."
+
+**La cruz de Cristo se adora con latría (q.25 a.4).** La cruz en que Cristo fue crucificado debe ser venerada con latría por dos motivos: por representar la figura de Cristo extendido en ella, y por el contacto con sus miembros y su sangre. Las réplicas o imágenes de la cruz en cualquier materia se veneran como imágenes de Cristo, también con latría. Los clavos, la lanza y otros instrumentos de la pasión se veneran por el contacto, pero no tienen la misma dignidad representativa que la cruz.
+
+**La Virgen María recibe hiperdulía, no latría (q.25 a.5).** La Santísima Virgen es una pura criatura racional, por lo que no se le debe culto de latría, que es exclusivo de Dios. Se le debe veneración de dulía, de forma más eminente que a los demás santos por ser Madre de Dios, por lo que se llama hiperdulía.
+
+**Veneración de las reliquias (q.25 a.6).** Las reliquias de los santos deben ser veneradas, no con latría, sino con el honor debido a quienes fueron miembros de Cristo, templos del Espíritu Santo e intercesores nuestros. No se adora el cuerpo insensible por sí mismo, sino por causa del alma que estuvo unida a él y por Dios, cuyos ministros fueron.
+
 ## Distinciones importantes
 
 - **Adoración (latría) vs. veneración (dulía)**: la adoración se debe solo a Dios; a los santos y ángeles se les da culto de dulía
@@ -57,4 +73,5 @@ La adoración pertenece a la [[virtud_de_la_religión]], que es parte de la [[ju
 - [CEC §2084-2086, §2096-2097, §2628]
 - [TPCr, Parte III, Libro II, Cap. II, n.399-401, 427]
 - [Santo Tomás, II-II, q.81-100]
+- SmTh IIIª q.25 a.1-6
 - [VocTeoBib, «Adoración»]

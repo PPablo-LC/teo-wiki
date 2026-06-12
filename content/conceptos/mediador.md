@@ -1,7 +1,7 @@
 # Mediador
 
 > Área: Bíblica, Cristología
-> Última actualización: 2026-06-02
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -21,6 +21,16 @@ Segundo, el mediador de la Nueva Alianza. Jesús es el único mediador por ser v
 
 Tercero, la relación del único mediador con su Iglesia. Cristo no suprime las mediaciones humanas sino que las integra: los apóstoles y sus sucesores prolongan su mediación visible. María tiene una misión particular, asociada eminente pero subordinadamente a la de su Hijo. Los ángeles continúan su función como «ángeles del Hijo del hombre». La paradoja culmina en que Dios, siendo Amor, quiso compartir con los hombres su naturaleza divina a través de la comunión de hombres con hombres.
 
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata a Cristo como mediador en la IIIª q.26.
+
+**Cristo, único mediador perfecto (q.26 a.1).** La misión propia del mediador es unir a aquellos entre los que ejerce la mediación, porque los extremos se juntan en el medio. Solo Cristo une perfectamente a los hombres con Dios, reconciliando al género humano por su muerte (2 Cor 5,19; 1 Tim 2,5-6). Los profetas y sacerdotes de la ley antigua fueron mediadores dispositivos y ministeriales, que prefiguraban al verdadero y perfecto mediador. Los sacerdotes de la ley nueva son mediadores en cuanto ministros del verdadero mediador, administrando los sacramentos de la salvación.
+
+Los ángeles buenos no pueden llamarse propiamente mediadores: tienen de común con Dios la bienaventuranza y la inmortalidad, y nada de esto en común con los hombres miserables y mortales, por lo que están más cerca de Dios que de los hombres. Los demonios tienen de común con Dios la inmortalidad y con los hombres la miseria, pero su mediación separa en vez de unir: son "mal mediador, que separa a los amigos." Cristo, en cambio, tuvo de común con Dios la bienaventuranza y con los hombres la mortalidad, y por su mediación convierte a los muertos en inmortales y a los miserables en bienaventurados. El Espíritu Santo no es mediador porque es enteramente igual a Dios.
+
+**Cristo es mediador en cuanto hombre (q.26 a.2).** En el mediador se consideran dos cosas: su cualidad de medio y la misión de unir. En cuanto Dios, Cristo no difiere del Padre ni del Espíritu Santo en naturaleza ni en potestad de dominio, por lo que no puede ser medio. En cuanto hombre, dista de Dios por naturaleza y es superior a los demás hombres por su dignidad en el campo de la gracia y de la gloria. También en cuanto hombre le compete unir a los hombres con Dios, transmitiéndoles sus preceptos y dones, y satisfaciendo y abogando por ellos ante Dios. Por eso es llamado con toda verdad mediador en cuanto hombre.
+
 ## Distinciones importantes
 
 - Mediadores de la antigua alianza (figuras preparatorias) vs. único mediador de la nueva alianza (Cristo)
@@ -39,3 +49,4 @@ Tercero, la relación del único mediador con su Iglesia. Cristo no suprime las 
 ## Referencias
 
 - [VocTeoBib, «Mediador»]
+- SmTh IIIª q.26 a.1-2
