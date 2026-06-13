@@ -1,4 +1,4 @@
-# Ensenanza de Cristo
+# Enseñanza de Cristo
 
 > Area: Cristologia
 > Ultima actualizacion: 2026-06-12
