@@ -42,7 +42,7 @@ configuration:
         textHighlight: "#b3aa0288"
 plugins:
   - source: github:quartz-community/created-modified-date
-    enabled: false
+    enabled: true
     options:
       defaultDateType: modified
       priority:
@@ -51,7 +51,7 @@ plugins:
         - filesystem
     order: 10
   - source: github:quartz-community/syntax-highlighting
-    enabled: false
+    enabled: true
     options:
       theme:
         light: github-light
@@ -59,7 +59,7 @@ plugins:
       keepBackground: false
     order: 20
   - source: github:quartz-community/obsidian-flavored-markdown
-    enabled: false
+    enabled: true
     options:
       comments: true
       highlight: true
@@ -75,93 +75,93 @@ plugins:
       enableCheckbox: true
     order: 30
   - source: github:quartz-community/github-flavored-markdown
-    enabled: false
+    enabled: true
     order: 40
   - source: github:quartz-community/table-of-contents
-    enabled: false
+    enabled: true
     order: 50
     layout:
       position: right
       priority: 30
   - source: github:quartz-community/crawl-links
-    enabled: false
+    enabled: true
     options:
       markdownLinkResolution: shortest
     order: 60
   - source: github:quartz-community/description
-    enabled: false
+    enabled: true
     order: 70
   - source: github:quartz-community/latex
-    enabled: false
+    enabled: true
     options:
       renderEngine: katex
     order: 80
   - source: github:quartz-community/citations
-    enabled: false
+    enabled: true
     order: 85
   - source: github:quartz-community/hard-line-breaks
-    enabled: false
+    enabled: true
     order: 90
   - source: github:quartz-community/ox-hugo
-    enabled: false
+    enabled: true
     order: 91
   - source: github:quartz-community/roam
-    enabled: false
+    enabled: true
     order: 92
   - source: github:quartz-community/remove-draft
-    enabled: false
+    enabled: true
   - source: github:quartz-community/explicit-publish
-    enabled: false
+    enabled: true
   - source: github:quartz-community/unlisted-pages
-    enabled: false
+    enabled: true
     options: {}
     order: 45
   - source: github:quartz-community/encrypted-pages
-    enabled: false
+    enabled: true
     options:
       iterations: 600000
       passwordField: password
       unlistWhenEncrypted: false
       outputPath: static/encryptedContentIndex.json
   - source: github:quartz-community/stacked-pages
-    enabled: false
+    enabled: true
     layout:
       position: afterBody
       priority: 50
       display: all
   - source: github:quartz-community/alias-redirects
-    enabled: false
+    enabled: true
   - source: github:quartz-community/content-index
-    enabled: false
+    enabled: true
     options:
       enableSiteMap: true
       enableRSS: true
   - source: github:quartz-community/favicon
-    enabled: false
+    enabled: true
   - source: github:quartz-community/og-image
-    enabled: false
+    enabled: true
   - source: github:quartz-community/cname
-    enabled: false
+    enabled: true
   - source: github:quartz-community/canvas-page
-    enabled: false
+    enabled: true
   - source: github:quartz-community/content-page
-    enabled: false
+    enabled: true
   - source: github:quartz-community/folder-page
-    enabled: false
+    enabled: true
   - source: github:quartz-community/tag-page
-    enabled: false
+    enabled: true
   - source: github:quartz-community/explorer
-    enabled: false
+    enabled: true
     layout:
       position: left
       priority: 50
   - source: github:quartz-community/graph
-    enabled: false
+    enabled: true
     layout:
       position: right
       priority: 10
   - source: github:quartz-community/search
-    enabled: false
+    enabled: true
     layout:
       position: left
       priority: 20
@@ -169,50 +169,50 @@ plugins:
       groupOptions:
         grow: true
   - source: github:quartz-community/backlinks
-    enabled: false
+    enabled: true
     layout:
       position: right
       priority: 50
   - source: github:quartz-community/article-title
-    enabled: false
+    enabled: true
     layout:
       position: beforeBody
       priority: 10
   - source: github:quartz-community/content-meta
-    enabled: false
+    enabled: true
     layout:
       position: beforeBody
       priority: 20
   - source: github:quartz-community/tag-list
-    enabled: false
+    enabled: true
     layout:
       position: beforeBody
       priority: 30
   - source: github:quartz-community/page-title
-    enabled: false
+    enabled: true
     layout:
       position: left
       priority: 10
   - source: github:quartz-community/darkmode
-    enabled: false
+    enabled: true
     layout:
       position: left
       priority: 30
       group: toolbar
   - source: github:quartz-community/reader-mode
-    enabled: false
+    enabled: true
     layout:
       position: left
       priority: 35
       group: toolbar
   - source: github:quartz-community/breadcrumbs
-    enabled: false
+    enabled: true
     layout:
       position: beforeBody
       priority: 5
       condition: not-index
   - source: github:quartz-community/comments
-    enabled: false
+    enabled: true
     options:
       provider: giscus
       options: {}
@@ -220,15 +220,15 @@ plugins:
       position: afterBody
       priority: 10
   - source: github:quartz-community/footer
-    enabled: false
+    enabled: true
     options:
       links:
         GitHub: https://github.com/jackyzha0/quartz
         Discord Community: https://discord.gg/cRFFHYye7t
   - source: github:quartz-community/recent-notes
-    enabled: false
+    enabled: true
   - source: github:quartz-community/spacer
-    enabled: false
+    enabled: true
     options: {}
     order: 25
     layout:
@@ -236,11 +236,11 @@ plugins:
       priority: 25
       display: mobile-only
   - source: github:quartz-community/bases-page
-    enabled: false
+    enabled: true
     options: {}
     order: 50
   - source: github:quartz-community/note-properties
-    enabled: false
+    enabled: true
     options:
       includeAll: false
       includedProperties:
@@ -260,11 +260,11 @@ plugins:
       name: quartz-themes
       repo: github:saberzero1/quartz-themes
       subdir: plugin
-    enabled: false
+    enabled: true
     options:
       theme: default
   - source: github:quartz-community/obsidian-plugin-excalidraw
-    enabled: false
+    enabled: true
     options:
       enableInteraction: true
       darkMode: auto
