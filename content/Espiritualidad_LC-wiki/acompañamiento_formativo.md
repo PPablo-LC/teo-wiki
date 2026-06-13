@@ -13,9 +13,9 @@ El acompañamiento formativo se distingue de la dirección espiritual, aunque se
 
 ## Perspectivas por fuente
 
-### Según la Ratio studiorum (SC-RS-2021)
+### Según la Ratio studiorum (Sap_Chr-2021)
 
-Como aplicación del principio de formación personalizada, los novicios y religiosos han de ser acompañados en todas las etapas de su formación inicial, también en el campo académico [SC-RS-2021, §142]. El acompañamiento académico puede tomar diversas formas:
+Como aplicación del principio de formación personalizada, los novicios y religiosos han de ser acompañados en todas las etapas de su formación inicial, también en el campo académico [Sap_Chr-2021, §142]. El acompañamiento académico puede tomar diversas formas:
 
 a. **Orientación académica** (§144): por parte de un auxiliar de estudios o de un profesor, como acompañamiento regular para introducir en la metodología del estudio, dar seguimiento al trabajo intelectual, ayudar en la programación personal, fomentar el hábito de estudio y promover la asimilación de las materias.
 
@@ -23,7 +23,7 @@ b. **Tutoría** (§145): acompañamiento para trabajar en ciertas materias o hab
 
 c. **Mentoría** (§146): seguimiento personalizado que ofrece un experto al estudiante que desea profundizar en un área de interés o de especialización. El mentor debe enseñar, ayudar a profundizar, proponer metas, escuchar las reflexiones del dirigido y guiar en la investigación y producción científicas.
 
-El prefecto de estudios de la casa de formación ayuda al rector en todo lo relativo a la formación intelectual y académica, siguiendo de cerca el desempeño académico de los novicios o religiosos de modo personalizado [SC-RS-2021, §174].
+El prefecto de estudios de la casa de formación ayuda al rector en todo lo relativo a la formación intelectual y académica, siguiendo de cerca el desempeño académico de los novicios o religiosos de modo personalizado [Sap_Chr-2021, §174].
 
 ### Según la Ratio Institutionis (CVV-2017)
 
@@ -33,9 +33,9 @@ En el acompañamiento, el formando ha de ir progresivamente asumiendo su propia 
 
 Los superiores mayores deben crear las condiciones para que la comunidad ofrezca espacios de formación y acompañamiento que garanticen un camino personalizado [CVV-2017, 430]. El encuentro comunitario de los miércoles es uno de esos espacios, en el que se comparten los temas de dirección espiritual y acompañamiento formativo, buscando la edificación de todos [CVV-2017, 431].
 
-### Según el plan de formación de centros vocacionales (HSSE-2018)
+### Según el plan de formación de centros vocacionales (Habl_Sñr-2018)
 
-El diálogo de formación es un encuentro del alumno con el formador en el que se le ofrece un momento propicio para tratar temas sobre su formación integral. Este diálogo personal ayuda a los alumnos a desentrañar la bondad de toda la propuesta formativa, asimilar los principios y estimular el deseo de asumir el protagonismo en su propia formación [HSSE-2018, §56]. La materia del diálogo debe abarcar las cuatro dimensiones de la formación. El formador, junto con el alumno, establece objetivos claros según la madurez y etapa de formación del joven [HSSE-2018, §57]. En el ámbito del diálogo de formación, el alumno, junto con el formador, discierne y considera la posibilidad de su vocación sacerdotal y religiosa [HSSE-2018, §58].
+El diálogo de formación es un encuentro del alumno con el formador en el que se le ofrece un momento propicio para tratar temas sobre su formación integral. Este diálogo personal ayuda a los alumnos a desentrañar la bondad de toda la propuesta formativa, asimilar los principios y estimular el deseo de asumir el protagonismo en su propia formación [Habl_Sñr-2018, §56]. La materia del diálogo debe abarcar las cuatro dimensiones de la formación. El formador, junto con el alumno, establece objetivos claros según la madurez y etapa de formación del joven [Habl_Sñr-2018, §57]. En el ámbito del diálogo de formación, el alumno, junto con el formador, discierne y considera la posibilidad de su vocación sacerdotal y religiosa [Habl_Sñr-2018, §58].
 
 ## Distinciones importantes
 
@@ -55,5 +55,5 @@ Se relaciona con [[formación_legionaria]], [[dirección_espiritual]], [[discern
 
 - [CVV-2017, 420-431, 471-473]
 - [CLC, 13-18]
-- [HSSE-2018, §56-58]
-- [SC-RS-2021, §142-147, 174]
+- [Habl_Sñr-2018, §56-58]
+- [Sap_Chr-2021, §142-147, 174]

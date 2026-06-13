@@ -13,13 +13,13 @@ La comunidad no puede verse exclusivamente en función de objetivos formativos, 
 
 ## Perspectivas por fuente
 
-### Según la Ratio studiorum (SC-RS-2021)
+### Según la Ratio studiorum (Sap_Chr-2021)
 
-El alumno es «el primer responsable de su formación intelectual» y debe asumirla «con una sana ambición, consciente de que todos los esfuerzos en este campo redundarán en la fecundidad de su ministerio» [SC-RS-2021, §186]. Con la ayuda de sus formadores, ha de custodiar y aprovechar sus tiempos de estudio y de lectura personal.
+El alumno es «el primer responsable de su formación intelectual» y debe asumirla «con una sana ambición, consciente de que todos los esfuerzos en este campo redundarán en la fecundidad de su ministerio» [Sap_Chr-2021, §186]. Con la ayuda de sus formadores, ha de custodiar y aprovechar sus tiempos de estudio y de lectura personal.
 
-La formación intelectual del legionario ha de tener un enfoque apostólico, orientada a comunicar a Cristo y su mensaje [SC-RS-2021, §187]. Los alumnos han de discernir con responsabilidad e inteligencia sus áreas de interés, considerando tanto sus capacidades personales como la misión y las necesidades de la Congregación [SC-RS-2021, §188].
+La formación intelectual del legionario ha de tener un enfoque apostólico, orientada a comunicar a Cristo y su mensaje [Sap_Chr-2021, §187]. Los alumnos han de discernir con responsabilidad e inteligencia sus áreas de interés, considerando tanto sus capacidades personales como la misión y las necesidades de la Congregación [Sap_Chr-2021, §188].
 
-La formación intelectual se realiza en el contexto de una comunidad académica de alumnos y profesores, y de los alumnos entre sí. Por ello, se fomentan los encuentros personales, los grupos de estudio e investigación y el diálogo entre las diversas disciplinas [SC-RS-2021, §189].
+La formación intelectual se realiza en el contexto de una comunidad académica de alumnos y profesores, y de los alumnos entre sí. Por ello, se fomentan los encuentros personales, los grupos de estudio e investigación y el diálogo entre las diversas disciplinas [Sap_Chr-2021, §189].
 
 ### Según la Ratio Institutionis (CVV-2017)
 
@@ -39,11 +39,11 @@ Las comunidades de apóstoles tienen una dimensión formativa inherente: «está
 
 El equipo, comunidad fundamental del Regnum Christi, es descrito como «una comunidad de apóstoles, un conjunto de miembros unidos en fraternidad cristiana para ayudarse mutuamente en su camino de santificación, en su formación y en su trabajo apostólico, a ejemplo de las primeras comunidades cristianas» [RC-Inst_12, Parte II, §III, El equipo].
 
-### Según el plan de formación de centros vocacionales (HSSE-2018)
+### Según el plan de formación de centros vocacionales (Habl_Sñr-2018)
 
-La identidad del centro vocacional coincide con la del seminario menor: una comunidad formativa en la que los adolescentes, en un ambiente de armonía con su edad y de auténtica libertad interior, con la ayuda de probados y competentes formadores y el apoyo de su familia, puedan madurar vocacionalmente [HSSE-2018, §7]. El equipo de formadores es la comunidad legionaria que, colaborando con la acción del Espíritu Santo, acompaña y dirige el proceso formativo de los alumnos en nombre de la Iglesia, de la Legión y de sus familias. Inspiran a los alumnos con el testimonio de su vida religiosa vivida con espontaneidad, sencillez, fidelidad y alegría [HSSE-2018, §40].
+La identidad del centro vocacional coincide con la del seminario menor: una comunidad formativa en la que los adolescentes, en un ambiente de armonía con su edad y de auténtica libertad interior, con la ayuda de probados y competentes formadores y el apoyo de su familia, puedan madurar vocacionalmente [Habl_Sñr-2018, §7]. El equipo de formadores es la comunidad legionaria que, colaborando con la acción del Espíritu Santo, acompaña y dirige el proceso formativo de los alumnos en nombre de la Iglesia, de la Legión y de sus familias. Inspiran a los alumnos con el testimonio de su vida religiosa vivida con espontaneidad, sencillez, fidelidad y alegría [Habl_Sñr-2018, §40].
 
-El equipo de formadores está compuesto por el rector, el vicerrector, el director espiritual y los asistentes de apostólicos y de precandidatos, apoyados por un coordinador según el número de alumnos [HSSE-2018, §42]. La comunidad educativa la conforman todas las personas que colaboran en la formación: profesores, especialistas, personal administrativo y miembros del Regnum Christi de la localidad [HSSE-2018, §53]. La presencia de la mujer dentro de la comunidad educativa tiene un valor formativo importante, pues enriquece a los alumnos gracias al contacto con el genio femenino [HSSE-2018, §54].
+El equipo de formadores está compuesto por el rector, el vicerrector, el director espiritual y los asistentes de apostólicos y de precandidatos, apoyados por un coordinador según el número de alumnos [Habl_Sñr-2018, §42]. La comunidad educativa la conforman todas las personas que colaboran en la formación: profesores, especialistas, personal administrativo y miembros del Regnum Christi de la localidad [Habl_Sñr-2018, §53]. La presencia de la mujer dentro de la comunidad educativa tiene un valor formativo importante, pues enriquece a los alumnos gracias al contacto con el genio femenino [Habl_Sñr-2018, §54].
 
 ## Distinciones importantes
 
@@ -63,5 +63,5 @@ Se relaciona con [[formación_legionaria]], [[vida_fraterna_religiosa]], [[acomp
 
 - [CVV-2017, 459-478]
 - [PoI, 26-27; PDV, 42, 60; CLC, 41]
-- [HSSE-2018, §7, §40-54]
-- [SC-RS-2021, §186-189]
+- [Habl_Sñr-2018, §7, §40-54]
+- [Sap_Chr-2021, §186-189]

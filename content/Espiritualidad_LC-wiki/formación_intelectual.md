@@ -13,9 +13,9 @@ La formación intelectual en la Legión de Cristo está orientada por el cristoc
 
 ## Perspectivas por fuente
 
-### Según la Ratio studiorum (SC-RS-2021)
+### Según la Ratio studiorum (Sap_Chr-2021)
 
-La formación intelectual y académica del legionario es presentada en la *Ratio studiorum* como una dimensión esencial de la formación integral, guiada por los siguientes principios [SC-RS-2021, Cap. 2]:
+La formación intelectual y académica del legionario es presentada en la *Ratio studiorum* como una dimensión esencial de la formación integral, guiada por los siguientes principios [Sap_Chr-2021, Cap. 2]:
 
 **Principios que emanan de la vocación, identidad y misión** (§38-39):
 - Iluminada por la fe: toda la formación ha de estar iluminada desde lo alto por el ejercicio de las virtudes teologales [§38b]
@@ -51,5 +51,5 @@ Se relaciona con [[formación_legionaria]], [[perfil_intelectual_legionario]], [
 
 ## Referencias
 
-- [SC-RS-2021, §37-46 (Capítulo 2)]
+- [Sap_Chr-2021, §37-46 (Capítulo 2)]
 - [CLC 96-102; PDV 69; CVV 339-342, 386-391, 616-634, 717]

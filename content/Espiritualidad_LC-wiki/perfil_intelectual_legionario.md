@@ -13,11 +13,11 @@ El perfil intelectual se organiza en torno a la meta unificadora de la asimilaci
 
 ## Perspectivas por fuente
 
-### Según la Ratio studiorum (SC-RS-2021)
+### Según la Ratio studiorum (Sap_Chr-2021)
 
-La meta que unifica la formación intelectual y académica del legionario es «la asimilación de "la mente de Cristo" (1 Co 2,16) y el desarrollo de las propias facultades intelectuales que le permitan ser un sacerdote formador de apóstoles, líderes cristianos al servicio de la Iglesia» [SC-RS-2021, §15].
+La meta que unifica la formación intelectual y académica del legionario es «la asimilación de "la mente de Cristo" (1 Co 2,16) y el desarrollo de las propias facultades intelectuales que le permitan ser un sacerdote formador de apóstoles, líderes cristianos al servicio de la Iglesia» [Sap_Chr-2021, §15].
 
-El perfil se describe mediante cinco grupos de infinitivos [SC-RS-2021, §17]:
+El perfil se describe mediante cinco grupos de infinitivos [Sap_Chr-2021, §17]:
 
 1. **Conocer** (§18-19): profundo conocedor de Dios, del hombre, del mundo y de sí mismo, en una visión de fe. Incluye una amplia base cultural, los contenidos fundamentales de la filosofía y la teología católica, el conocimiento cordial de la vida espiritual, el conocimiento de la Legión de Cristo y del Regnum Christi, y un conocimiento actualizado de la situación eclesial, cultural y social.
 
@@ -44,6 +44,6 @@ Se relaciona con [[formación_intelectual]], [[sapientia_christi]], [[ratio_stud
 
 ## Referencias
 
-- [SC-RS-2021, §14-36 (Capítulo 1)]
+- [Sap_Chr-2021, §14-36 (Capítulo 1)]
 - [1 Co 2,16]
 - [CLC 96-102]

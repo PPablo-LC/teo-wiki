@@ -13,15 +13,15 @@ La evangelización de la cultura implica «los criterios de juicio, los valores 
 
 ## Perspectivas por fuente
 
-### Según la Ratio studiorum (SC-RS-2021)
+### Según la Ratio studiorum (Sap_Chr-2021)
 
-En el contexto de su misión específica, la Legión da especial importancia a la evangelización de la cultura. La búsqueda «que Cristo reine… en la sociedad» pasa necesariamente por la evangelización de la cultura, pues «evangelizar significa para la Iglesia llevar la Buena Nueva a todos los ambientes de la humanidad y, con su influjo, transformar desde dentro, renovar la misma humanidad» [SC-RS-2021, §4, citando EN 18].
+En el contexto de su misión específica, la Legión da especial importancia a la evangelización de la cultura. La búsqueda «que Cristo reine… en la sociedad» pasa necesariamente por la evangelización de la cultura, pues «evangelizar significa para la Iglesia llevar la Buena Nueva a todos los ambientes de la humanidad y, con su influjo, transformar desde dentro, renovar la misma humanidad» [Sap_Chr-2021, §4, citando EN 18].
 
-La Legión tiene un campo de trabajo en la evangelización de quienes participan en la creación y transmisión de la cultura en diversos ámbitos: la familia, la educación, los medios de comunicación, el mundo artístico, literario y musical, la religión, la política y la jurisprudencia, el mundo económico y empresarial [SC-RS-2021, §4].
+La Legión tiene un campo de trabajo en la evangelización de quienes participan en la creación y transmisión de la cultura en diversos ámbitos: la familia, la educación, los medios de comunicación, el mundo artístico, literario y musical, la religión, la política y la jurisprudencia, el mundo económico y empresarial [Sap_Chr-2021, §4].
 
-Para ello, se requiere que el legionario aúne a la santidad y al ardiente celo apostólico «una formación intelectual elevada que le permita comprender y dialogar con la cultura que está llamado a evangelizar» [SC-RS-2021, §4].
+Para ello, se requiere que el legionario aúne a la santidad y al ardiente celo apostólico «una formación intelectual elevada que le permita comprender y dialogar con la cultura que está llamado a evangelizar» [Sap_Chr-2021, §4].
 
-El apostolado intelectual se orienta a entrar en diálogo con las corrientes actuales de pensamiento, sobre todo las que más marcan el derrotero cultural, a través de la docencia, la investigación, la publicación y otras formas de difusión [SC-RS-2021, §34]. Las universidades y centros culturales son vistos como instrumentos de evangelización de especial relevancia [SC-RS-2021, §35].
+El apostolado intelectual se orienta a entrar en diálogo con las corrientes actuales de pensamiento, sobre todo las que más marcan el derrotero cultural, a través de la docencia, la investigación, la publicación y otras formas de difusión [Sap_Chr-2021, §34]. Las universidades y centros culturales son vistos como instrumentos de evangelización de especial relevancia [Sap_Chr-2021, §35].
 
 ## Distinciones importantes
 
@@ -38,5 +38,5 @@ Se relaciona con [[cristocentrismo_legionario]], [[misión]], [[formación_intel
 
 ## Referencias
 
-- [SC-RS-2021, §4, 34-36]
+- [Sap_Chr-2021, §4, 34-36]
 - [EN 18-19; CLC 2 §1, 4; EFRC 33]

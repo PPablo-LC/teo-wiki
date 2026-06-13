@@ -13,13 +13,13 @@ La *Ratio studiorum* se titula «Sapientia Christi» (Sabiduría de Cristo), exp
 
 ## Perspectivas por fuente
 
-### Según SC-RS-2021
+### Según Sap_Chr-2021
 
-La *Ratio studiorum* es «parte del derecho secundario propio de la Legión de Cristo» que explicita las Constituciones en materia de formación intelectual y académica [SC-RS-2021, §1, 13]. Su propósito es describir el perfil intelectual del legionario, presentar los principios más importantes que guían su formación intelectual y académica, y ofrecer indicaciones y normas sobre las etapas, los agentes de formación, las casas de formación, el acompañamiento y la evaluación [SC-RS-2021, §1].
+La *Ratio studiorum* es «parte del derecho secundario propio de la Legión de Cristo» que explicita las Constituciones en materia de formación intelectual y académica [Sap_Chr-2021, §1, 13]. Su propósito es describir el perfil intelectual del legionario, presentar los principios más importantes que guían su formación intelectual y académica, y ofrecer indicaciones y normas sobre las etapas, los agentes de formación, las casas de formación, el acompañamiento y la evaluación [Sap_Chr-2021, §1].
 
-El documento sigue y aplica las disposiciones de la Iglesia acerca de la preparación académica para la recepción de las órdenes sagradas [SC-RS-2021, §13]. Se articula con la *Ratio institutionis* «Christus vita vestra» (CVV), que proporciona el marco formativo general [SC-RS-2021, §9].
+El documento sigue y aplica las disposiciones de la Iglesia acerca de la preparación académica para la recepción de las órdenes sagradas [Sap_Chr-2021, §13]. Se articula con la *Ratio institutionis* «Christus vita vestra» (CVV), que proporciona el marco formativo general [Sap_Chr-2021, §9].
 
-Las etapas cubiertas por la *Ratio studiorum* son: centros vocacionales (estudios preuniversitarios), noviciado, humanidades, filosofía, prácticas apostólicas, teología, y formación permanente y especialización [SC-RS-2021, §47].
+Las etapas cubiertas por la *Ratio studiorum* son: centros vocacionales (estudios preuniversitarios), noviciado, humanidades, filosofía, prácticas apostólicas, teología, y formación permanente y especialización [Sap_Chr-2021, §47].
 
 ## Distinciones importantes
 
@@ -36,5 +36,5 @@ Se relaciona con [[formación_legionaria]], [[formación_intelectual]], [[cristo
 
 ## Referencias
 
-- [SC-RS-2021, §1, 13]
+- [Sap_Chr-2021, §1, 13]
 - [CLC 96-102]

@@ -13,11 +13,11 @@ La autoformación implica ante todo la búsqueda activa de la voluntad de Dios a
 
 ## Perspectivas por fuente
 
-### Según la Ratio studiorum (SC-RS-2021)
+### Según la Ratio studiorum (Sap_Chr-2021)
 
-En el ámbito intelectual, el principio de autoformación adquiere una relevancia particular. Cada religioso, por convicción y con la ayuda de sus formadores, toma el liderazgo en su propia formación, pues «toda formación, incluida la sacerdotal, es en definitiva una autoformación» [SC-RS-2021, §41c, citando PDV 69].
+En el ámbito intelectual, el principio de autoformación adquiere una relevancia particular. Cada religioso, por convicción y con la ayuda de sus formadores, toma el liderazgo en su propia formación, pues «toda formación, incluida la sacerdotal, es en definitiva una autoformación» [Sap_Chr-2021, §41c, citando PDV 69].
 
-Este principio se aplica de modo particular al área académica, ya que «la adquisición de hábitos mentales y de conocimientos depende principalmente del interés y esfuerzo personales» [SC-RS-2021, §41c]. Por su parte, los formadores han de saber intervenir con acierto y prudencia para fomentar y guiar la autoformación, exigiendo resultados concretos según los objetivos fijados en los programas generales y en los programas personales [SC-RS-2021, §41c].
+Este principio se aplica de modo particular al área académica, ya que «la adquisición de hábitos mentales y de conocimientos depende principalmente del interés y esfuerzo personales» [Sap_Chr-2021, §41c]. Por su parte, los formadores han de saber intervenir con acierto y prudencia para fomentar y guiar la autoformación, exigiendo resultados concretos según los objetivos fijados en los programas generales y en los programas personales [Sap_Chr-2021, §41c].
 
 ### Según la Ratio Institutionis (CVV-2017)
 
@@ -52,4 +52,4 @@ Se relaciona con [[formación_legionaria]], [[discernimiento_de_espíritus]], [[
 - [CVV-2017, 386-391]
 - [Flp 2,13; Rom 12,2]
 - [CLC, 55; PoI, 19]
-- [SC-RS-2021, §41c]
+- [Sap_Chr-2021, §41c]

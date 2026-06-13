@@ -17,19 +17,19 @@ La espiritualidad del centro vocacional se fundamenta en el cristocentrismo, el 
 
 ## Perspectivas por fuente
 
-### Según el plan de formación de centros vocacionales (HSSE-2018)
+### Según el plan de formación de centros vocacionales (Habl_Sñr-2018)
 
-**Identidad.** La identidad del centro vocacional coincide con la del seminario menor: una comunidad formativa en la que los adolescentes, en un ambiente de armonía con su edad y de auténtica libertad interior, con la ayuda de probados y competentes formadores y el apoyo de su familia, puedan madurar vocacionalmente [HSSE-2018, §7]. Los alumnos son acogidos como parte de la familia legionaria y entran en relación con el Movimiento Regnum Christi, viviendo su carisma según su propia edad [HSSE-2018, §8]. El centro vocacional constituye una comunidad de vida cristiana, fuertemente irradiadora de vida cristiana, inserta en la Iglesia local [HSSE-2018, §9].
+**Identidad.** La identidad del centro vocacional coincide con la del seminario menor: una comunidad formativa en la que los adolescentes, en un ambiente de armonía con su edad y de auténtica libertad interior, con la ayuda de probados y competentes formadores y el apoyo de su familia, puedan madurar vocacionalmente [Habl_Sñr-2018, §7]. Los alumnos son acogidos como parte de la familia legionaria y entran en relación con el Movimiento Regnum Christi, viviendo su carisma según su propia edad [Habl_Sñr-2018, §8]. El centro vocacional constituye una comunidad de vida cristiana, fuertemente irradiadora de vida cristiana, inserta en la Iglesia local [Habl_Sñr-2018, §9].
 
-**Finalidad.** Ayudar a los adolescentes y jóvenes con inquietudes vocacionales a adquirir madurez humana y cristiana suficiente para hacer un discernimiento vocacional adecuado y tomar una decisión informada, firme, responsable y libre acerca de su ingreso en la Legión [HSSE-2018, §10].
+**Finalidad.** Ayudar a los adolescentes y jóvenes con inquietudes vocacionales a adquirir madurez humana y cristiana suficiente para hacer un discernimiento vocacional adecuado y tomar una decisión informada, firme, responsable y libre acerca de su ingreso en la Legión [Habl_Sñr-2018, §10].
 
-**Espiritualidad.** El cristocentrismo es el elemento fundamental: los formadores presentan a los alumnos una experiencia viva de la persona de Jesucristo, que quiere compartir su vida con cada uno y ser su mejor Amigo [HSSE-2018, §14]. Cristo es invitado a reinar en los corazones, en el de todos los hombres y en el mundo entero (Reino de Cristo) [HSSE-2018, §15]. La caridad es la virtud más característica del centro vocacional, manifestada en la servicialidad, bondad y sencillez en el trato [HSSE-2018, §16]. Los alumnos buscan vivir los cinco amores de la Legión y del Regnum Christi [HSSE-2018, §17].
+**Espiritualidad.** El cristocentrismo es el elemento fundamental: los formadores presentan a los alumnos una experiencia viva de la persona de Jesucristo, que quiere compartir su vida con cada uno y ser su mejor Amigo [Habl_Sñr-2018, §14]. Cristo es invitado a reinar en los corazones, en el de todos los hombres y en el mundo entero (Reino de Cristo) [Habl_Sñr-2018, §15]. La caridad es la virtud más característica del centro vocacional, manifestada en la servicialidad, bondad y sencillez en el trato [Habl_Sñr-2018, §16]. Los alumnos buscan vivir los cinco amores de la Legión y del Regnum Christi [Habl_Sñr-2018, §17].
 
-**Patronos.** Los centros vocacionales están dedicados al Sagrado Corazón de Jesús y a la Inmaculada Concepción. Reconocen como patronos a san Juan Evangelista, san Pablo, san José y san Miguel Arcángel [HSSE-2018, §18].
+**Patronos.** Los centros vocacionales están dedicados al Sagrado Corazón de Jesús y a la Inmaculada Concepción. Reconocen como patronos a san Juan Evangelista, san Pablo, san José y san Miguel Arcángel [Habl_Sñr-2018, §18].
 
-**Perfil de egreso.** Al final de los años de formación, el joven debería ser, de acuerdo con la madurez propia de esa edad: un joven íntegramente formado, un cristiano convencido, un discípulo fiel y un apóstol ardiente [HSSE-2018, §13].
+**Perfil de egreso.** Al final de los años de formación, el joven debería ser, de acuerdo con la madurez propia de esa edad: un joven íntegramente formado, un cristiano convencido, un discípulo fiel y un apóstol ardiente [Habl_Sñr-2018, §13].
 
-**Equipo de formadores.** Compuesto por el rector, el vicerrector, el director espiritual y los asistentes de apostólicos y de precandidatos, apoyados por un coordinador según el número de alumnos [HSSE-2018, §42]. El rector es un sacerdote legionario que se distingue por su prudencia, sabiduría y equilibrio [HSSE-2018, §43]. El director espiritual tiene la misión principal de ser padre espiritual [HSSE-2018, §47].
+**Equipo de formadores.** Compuesto por el rector, el vicerrector, el director espiritual y los asistentes de apostólicos y de precandidatos, apoyados por un coordinador según el número de alumnos [Habl_Sñr-2018, §42]. El rector es un sacerdote legionario que se distingue por su prudencia, sabiduría y equilibrio [Habl_Sñr-2018, §43]. El director espiritual tiene la misión principal de ser padre espiritual [Habl_Sñr-2018, §47].
 
 ## Distinciones importantes
 
@@ -48,10 +48,10 @@ Se relaciona con [[comunidad_formativa]], [[discernimiento_vocacional]], [[forma
 
 ## Referencias
 
-- [HSSE-2018, §7-18 (Capítulo I: Identidad y fin del centro vocacional)]
-- [HSSE-2018, §20-35 (Capítulo III: El modelo formativo)]
-- [HSSE-2018, §36-55 (Agentes de la formación)]
-- [HSSE-2018, §63-100 (Capítulo IV: Dimensiones de la formación)]
-- [HSSE-2018, §111-136 (Vida en el centro vocacional por edades)]
-- [HSSE-2018, §137-142 (Egreso del centro vocacional)]
+- [Habl_Sñr-2018, §7-18 (Capítulo I: Identidad y fin del centro vocacional)]
+- [Habl_Sñr-2018, §20-35 (Capítulo III: El modelo formativo)]
+- [Habl_Sñr-2018, §36-55 (Agentes de la formación)]
+- [Habl_Sñr-2018, §63-100 (Capítulo IV: Dimensiones de la formación)]
+- [Habl_Sñr-2018, §111-136 (Vida en el centro vocacional por edades)]
+- [Habl_Sñr-2018, §137-142 (Egreso del centro vocacional)]
 - [CIC, cc. 234-235; OT, 3; DVP, 60-62]

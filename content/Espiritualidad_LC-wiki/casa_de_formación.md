@@ -13,15 +13,15 @@ La casa de formación ofrece «la posibilidad de revivir la experiencia formativ
 
 ## Perspectivas por fuente
 
-### Según la Ratio studiorum (SC-RS-2021)
+### Según la Ratio studiorum (Sap_Chr-2021)
 
-La casa de formación es «sobre todo una comunidad educativa en camino» que ofrece «la posibilidad de revivir la experiencia formativa que el Señor dedicó a los Doce» [SC-RS-2021, §156, citando PDV 60]. Está totalmente orientada a la formación integral de los religiosos y futuros sacerdotes: todo en ella es formación.
+La casa de formación es «sobre todo una comunidad educativa en camino» que ofrece «la posibilidad de revivir la experiencia formativa que el Señor dedicó a los Doce» [Sap_Chr-2021, §156, citando PDV 60]. Está totalmente orientada a la formación integral de los religiosos y futuros sacerdotes: todo en ella es formación.
 
-Para favorecer el aprovechamiento académico de los religiosos, en las casas de formación debe reinar un ambiente de silencio habitual y una vida disciplinar que propicien el estudio [SC-RS-2021, §157]. Los superiores han de vigilar para que otras responsabilidades o actividades ajenas a la formación académica no aparten a los religiosos del estudio.
+Para favorecer el aprovechamiento académico de los religiosos, en las casas de formación debe reinar un ambiente de silencio habitual y una vida disciplinar que propicien el estudio [Sap_Chr-2021, §157]. Los superiores han de vigilar para que otras responsabilidades o actividades ajenas a la formación académica no aparten a los religiosos del estudio.
 
-Las casas de formación han de contar con los medios que contribuyan a la formación intelectual: aulas adecuadas, bibliotecas apropiadas, medios pedagógicos actualizados [SC-RS-2021, §158]. Deben estar situadas en lugares que ofrezcan la posibilidad de un profesorado selecto y competente [SC-RS-2021, §159].
+Las casas de formación han de contar con los medios que contribuyan a la formación intelectual: aulas adecuadas, bibliotecas apropiadas, medios pedagógicos actualizados [Sap_Chr-2021, §158]. Deben estar situadas en lugares que ofrezcan la posibilidad de un profesorado selecto y competente [Sap_Chr-2021, §159].
 
-De acuerdo con el principio de formación internacional e intercultural, se ha de procurar que en las casas de formación, a partir de la etapa de humanidades, haya siempre religiosos de diversas nacionalidades, y que los religiosos cursen al menos una etapa de la formación en otro país distinto del propio [SC-RS-2021, §160].
+De acuerdo con el principio de formación internacional e intercultural, se ha de procurar que en las casas de formación, a partir de la etapa de humanidades, haya siempre religiosos de diversas nacionalidades, y que los religiosos cursen al menos una etapa de la formación en otro país distinto del propio [Sap_Chr-2021, §160].
 
 ### Según la Ratio Institutionis (CVV-2017)
 
@@ -51,4 +51,4 @@ Se relaciona con [[comunidad_formativa]], [[formación_legionaria]], [[vida_frat
 
 - [CVV-2017, 464-478]
 - [PDV, 42, 60; CLC, 41; FES, 1]
-- [SC-RS-2021, §154-160]
+- [Sap_Chr-2021, §154-160]

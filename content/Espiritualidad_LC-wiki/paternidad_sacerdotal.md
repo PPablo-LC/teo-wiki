@@ -27,9 +27,9 @@ El Capítulo General CapGral-2026 aborda la paternidad sacerdotal en la primera 
 
 **Paternidad en el acompañamiento de los varones.** El Capítulo vincula la paternidad sacerdotal con el acompañamiento de los varones: «Desde la paternidad sacerdotal del legionario es un modo concreto de formar apóstoles, fortalecer familias y colaborar en la renovación evangelizadora de la sociedad» [CapGral-2026, n. 47, «La misión: Caritas Christi urget nos»].
 
-### Según el plan de formación de centros vocacionales (HSSE-2018)
+### Según el plan de formación de centros vocacionales (Habl_Sñr-2018)
 
-El equipo de formadores del centro vocacional debe ser «buenos padres espirituales, hombres de Dios, maestros, amigos y hermanos, que saben acoger, escuchar, comprender y salir al encuentro siempre que sea necesario» [HSSE-2018, §40]. El director espiritual de los centros vocacionales tiene la misión principal de ser padre espiritual, que apoya al rector tomando la responsabilidad de dirigir todo lo que atañe a la formación espiritual, litúrgica y religiosa de los alumnos [HSSE-2018, §47]. El rector del centro vocacional, por su parte, es un sacerdote legionario que se distingue por su prudencia, sabiduría y equilibrio, llamado a ser un padre para la comunidad formativa [HSSE-2018, §43].
+El equipo de formadores del centro vocacional debe ser «buenos padres espirituales, hombres de Dios, maestros, amigos y hermanos, que saben acoger, escuchar, comprender y salir al encuentro siempre que sea necesario» [Habl_Sñr-2018, §40]. El director espiritual de los centros vocacionales tiene la misión principal de ser padre espiritual, que apoya al rector tomando la responsabilidad de dirigir todo lo que atañe a la formación espiritual, litúrgica y religiosa de los alumnos [Habl_Sñr-2018, §47]. El rector del centro vocacional, por su parte, es un sacerdote legionario que se distingue por su prudencia, sabiduría y equilibrio, llamado a ser un padre para la comunidad formativa [Habl_Sñr-2018, §43].
 
 ## Distinciones importantes
 
@@ -51,4 +51,4 @@ Se relaciona con [[sacerdocio]], [[cristo]], [[virgen_maría]], [[vida_consagrad
 - [CapGral-2026, n. 59-61]
 - [CapGral-2026, n. 47 («La misión: Caritas Christi urget nos»)]
 - [CapGral-2026, n. 57 (Ratio institutionis CVV)]
-- [HSSE-2018, §40, §43, §47]
+- [Habl_Sñr-2018, §40, §43, §47]

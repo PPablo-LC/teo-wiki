@@ -1,4 +1,4 @@
-# Plan de formación de los centros vocacionales — HSSE-2018
+# Plan de formación de los centros vocacionales — Habl_Sñr-2018
 
 > Área: Documentos — Espiritualidad Legionaria
 > Última actualización: 2026-06-12
@@ -7,7 +7,7 @@
 
 - **Título completo**: Habla, Señor, que tu siervo escucha — Identidad y plan general de formación de los centros vocacionales en la Legión de Cristo
 - **Institución**: Legión de Cristo
-- **Código**: HSSE-2018
+- **Código**: Habl_Sñr-2018
 - **Año**: 2018
 - **Estructura**: Ocho capítulos: I. Identidad y fin del centro vocacional; II. Espiritualidad del centro vocacional; III. El modelo formativo; IV. Dimensiones de la formación; V. Etapas de la formación; VI. Algunos medios de formación y tradiciones del centro vocacional; VII. Ambientes seguros; VIII. Normas generales
 
@@ -21,4 +21,4 @@ Fuente primaria sobre la identidad y el plan formativo de los centros vocacional
 
 ## Referencias
 
-- [HSSE-2018, Identidad y plan general de formación de los centros vocacionales]
+- [Habl_Sñr-2018, Identidad y plan general de formación de los centros vocacionales]

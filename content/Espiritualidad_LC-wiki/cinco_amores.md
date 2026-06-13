@@ -13,9 +13,9 @@ Los cinco amores resumen el itinerario espiritual del legionario y del miembro d
 
 ## Perspectivas por fuente
 
-### Según el plan de formación de centros vocacionales (HSSE-2018)
+### Según el plan de formación de centros vocacionales (Habl_Sñr-2018)
 
-Los alumnos del centro vocacional buscan vivir los cinco amores que la Legión y el Movimiento proponen a sus miembros, como respuesta al amor de Dios en sus vidas [HSSE-2018, §17]:
+Los alumnos del centro vocacional buscan vivir los cinco amores que la Legión y el Movimiento proponen a sus miembros, como respuesta al amor de Dios en sus vidas [Habl_Sñr-2018, §17]:
 
 1. **Amor a Cristo**: amor personal, real, viril y apasionado a Jesucristo, centro de toda la espiritualidad legionaria. Se expresa en la búsqueda constante de Cristo en la Eucaristía y en el prójimo, en el conocimiento del Evangelio y en el dejarse comprometer por su amor misericordioso.
 
@@ -47,5 +47,5 @@ Se relaciona con [[cristocentrismo_legionario]], [[espiritualidad_legionaria]], 
 
 ## Referencias
 
-- [HSSE-2018, §17]
+- [Habl_Sñr-2018, §17]
 - [CLC-2020, 8-17]

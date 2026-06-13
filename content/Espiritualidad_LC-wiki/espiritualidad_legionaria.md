@@ -38,9 +38,9 @@ El ensayo añade un elemento que hasta ahora no aparecía explícitamente en la 
 
 La espiritualidad legionaria no es solo cristocéntrica individualmente: es una espiritualidad que se vive en comunidad, donde Cristo es centro, criterio y modelo de la vida comunitaria. La comunidad de apóstoles se caracteriza por ser convocada por Cristo, reunida en torno a Él, configurada con Él y enviada en misión [RC-Inst_12, Parte II, §I]. La oración comunitaria, la vida eucarística compartida y el discernimiento común son expresiones de esta espiritualidad comunitaria. «Sin oración comunitaria no hay verdadera comunidad de apóstoles» [RC-Inst_12, Parte II, §I, Comunidades donde Cristo es centro, criterio y modelo].
 
-### Según el plan de formación de centros vocacionales (HSSE-2018)
+### Según el plan de formación de centros vocacionales (Habl_Sñr-2018)
 
-Los centros vocacionales proponen a los alumnos la vivencia de los cinco amores de la Legión y del Regnum Christi como respuesta al amor de Dios: el amor a Cristo, el amor filial a la Santísima Virgen María, el amor a la Iglesia y al papa, el amor a los hombres, y el amor a la Legión de Cristo y a la familia del Regnum Christi, que en el centro vocacional se traduce de modo especial en el amor a la propia comunidad [HSSE-2018, §17]. Estos cinco amores constituyen una síntesis orgánica de la espiritualidad legionaria, ofreciendo a los adolescentes un camino concreto de configuración con Cristo y de respuesta amorosa a Dios.
+Los centros vocacionales proponen a los alumnos la vivencia de los cinco amores de la Legión y del Regnum Christi como respuesta al amor de Dios: el amor a Cristo, el amor filial a la Santísima Virgen María, el amor a la Iglesia y al papa, el amor a los hombres, y el amor a la Legión de Cristo y a la familia del Regnum Christi, que en el centro vocacional se traduce de modo especial en el amor a la propia comunidad [Habl_Sñr-2018, §17]. Estos cinco amores constituyen una síntesis orgánica de la espiritualidad legionaria, ofreciendo a los adolescentes un camino concreto de configuración con Cristo y de respuesta amorosa a Dios.
 
 ## Distinciones importantes
 
@@ -61,4 +61,4 @@ Se relaciona con [[identidad_legionaria]], [[cristocentrismo_legionario]], [[mil
 - [CLC-2020 8-17]
 - [CapGral-2026, n. 50-71]
 - [FRC-2019, EFRC 6-30]
-- [HSSE-2018, §17]
+- [Habl_Sñr-2018, §17]

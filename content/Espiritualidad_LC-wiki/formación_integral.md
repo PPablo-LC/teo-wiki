@@ -21,9 +21,9 @@ La formación integral consiste en desarrollar e integrar todos los dones natura
 
 La formación experiencial facilita la formación integral porque una experiencia vital integra inteligencia, voluntad y afectos, y actúa convicciones, actitudes y comportamientos [CVV-2017, 359].
 
-### Según el plan de formación de centros vocacionales (HSSE-2018)
+### Según el plan de formación de centros vocacionales (Habl_Sñr-2018)
 
-La formación integral del alumno del centro vocacional implica el desarrollo integrado y armónico de todas las facultades del ser humano, abarcando las cuatro dimensiones: humana, espiritual, intelectual y apostólica. Estas dimensiones no se consideran como elementos independientes o capítulos sucesivos, pues todas están simultáneamente presentes en armonía y unidad [HSSE-2018, §63]. La formación es también integradora, considerando la totalidad del misterio de la persona: sus dones naturales y sobrenaturales, su historia, sus límites y heridas, contribuyendo a una unidad de vida que tiene como centro unificador a Cristo [HSSE-2018, §35]. Por tratarse de la formación de adolescentes, la dimensión humana adquiere una relevancia especial: la formación humana es prioritaria, pues el proceso formativo tiene como base y se da a partir de las propias facultades humanas y de la propia personalidad [HSSE-2018, §64].
+La formación integral del alumno del centro vocacional implica el desarrollo integrado y armónico de todas las facultades del ser humano, abarcando las cuatro dimensiones: humana, espiritual, intelectual y apostólica. Estas dimensiones no se consideran como elementos independientes o capítulos sucesivos, pues todas están simultáneamente presentes en armonía y unidad [Habl_Sñr-2018, §63]. La formación es también integradora, considerando la totalidad del misterio de la persona: sus dones naturales y sobrenaturales, su historia, sus límites y heridas, contribuyendo a una unidad de vida que tiene como centro unificador a Cristo [Habl_Sñr-2018, §35]. Por tratarse de la formación de adolescentes, la dimensión humana adquiere una relevancia especial: la formación humana es prioritaria, pues el proceso formativo tiene como base y se da a partir de las propias facultades humanas y de la propia personalidad [Habl_Sñr-2018, §64].
 
 ## Distinciones importantes
 
@@ -47,4 +47,4 @@ Se relaciona con [[formación_legionaria]], [[formación_experiencial]], [[forma
 
 - [CVV-2017, 334-342]
 - [DCE, 17; VC, 65; PC, 18]
-- [HSSE-2018, §35, §63-64]
+- [Habl_Sñr-2018, §35, §63-64]

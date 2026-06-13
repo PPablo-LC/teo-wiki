@@ -13,13 +13,13 @@ El título «Sapientia Christi» se sitúa en continuidad con «Christus vita ve
 
 ## Perspectivas por fuente
 
-### Según la Ratio studiorum (SC-RS-2021)
+### Según la Ratio studiorum (Sap_Chr-2021)
 
-El título «Sapientia Christi» presenta desde el primer momento el hilo conductor del texto: así como el ideal de la formación integral del legionario es asimilar en la vida la vida de Cristo (*Christus vita vestra*), la dimensión intelectual tiene también a Cristo como criterio, centro y modelo [SC-RS-2021, §2, cf. Carta de promulgación].
+El título «Sapientia Christi» presenta desde el primer momento el hilo conductor del texto: así como el ideal de la formación integral del legionario es asimilar en la vida la vida de Cristo (*Christus vita vestra*), la dimensión intelectual tiene también a Cristo como criterio, centro y modelo [Sap_Chr-2021, §2, cf. Carta de promulgación].
 
-Jesucristo es presentado como la Palabra (Jn 1,1), el camino, la verdad y la vida (Jn 14,6), la Sabiduría divina que sale a nuestro encuentro [SC-RS-2021, §2]. La formación intelectual y académica del legionario busca ante todo la asimilación de «la mente de Cristo» (1 Co 2,16), para así poder hacer presente el misterio de Cristo que forma sus apóstoles [SC-RS-2021, §2].
+Jesucristo es presentado como la Palabra (Jn 1,1), el camino, la verdad y la vida (Jn 14,6), la Sabiduría divina que sale a nuestro encuentro [Sap_Chr-2021, §2]. La formación intelectual y académica del legionario busca ante todo la asimilación de «la mente de Cristo» (1 Co 2,16), para así poder hacer presente el misterio de Cristo que forma sus apóstoles [Sap_Chr-2021, §2].
 
-La meta unificadora de la formación intelectual es expresamente la asimilación de la mente de Cristo y el desarrollo de las propias facultades intelectuales para ser un sacerdote formador de apóstoles [SC-RS-2021, §15].
+La meta unificadora de la formación intelectual es expresamente la asimilación de la mente de Cristo y el desarrollo de las propias facultades intelectuales para ser un sacerdote formador de apóstoles [Sap_Chr-2021, §15].
 
 ## Distinciones importantes
 
@@ -36,6 +36,6 @@ Se relaciona con [[cristocentrismo_legionario]], [[perfil_intelectual_legionario
 
 ## Referencias
 
-- [SC-RS-2021, §2, 15]
+- [Sap_Chr-2021, §2, 15]
 - [1 Co 1,24; 1 Co 2,16; Jn 14,6]
 - [Carta de promulgación, Prot. DG-LC 1650-2021]

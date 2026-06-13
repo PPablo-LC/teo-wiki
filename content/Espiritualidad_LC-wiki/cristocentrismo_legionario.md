@@ -47,13 +47,13 @@ En san Juan se contempla al discípulo que cree en el amor de Jesús, reclina la
 
 El cristocentrismo es la clave que unifica identidad, formación, misión y comunión [CapGral-2026, n. 55]. El Capítulo ofrece un documento temático sobre el cristocentrismo como meditación sobre «el corazón que late en todas las páginas de este Comunicado» [CapGral-2026, n. 55].
 
-### Según la Ratio studiorum (SC-RS-2021)
+### Según la Ratio studiorum (Sap_Chr-2021)
 
-El cristocentrismo constituye la característica fundamental y específica del espíritu legionario y, por tanto, también guía e inspira los principios y criterios de la formación intelectual y académica del legionario [SC-RS-2021, §2]. Jesucristo es la Palabra (Jn 1,1), el camino, la verdad y la vida (Jn 14,6), la Sabiduría divina que sale a nuestro encuentro para mostrarnos el camino al Padre y ofrecernos el Espíritu que nos guiará a la verdad completa (Jn 14,16).
+El cristocentrismo constituye la característica fundamental y específica del espíritu legionario y, por tanto, también guía e inspira los principios y criterios de la formación intelectual y académica del legionario [Sap_Chr-2021, §2]. Jesucristo es la Palabra (Jn 1,1), el camino, la verdad y la vida (Jn 14,6), la Sabiduría divina que sale a nuestro encuentro para mostrarnos el camino al Padre y ofrecernos el Espíritu que nos guiará a la verdad completa (Jn 14,16).
 
-La formación intelectual y académica del legionario busca ante todo la asimilación de «la mente de Cristo» (1 Co 2,16), para así poder hacer presente el misterio de Cristo que forma sus apóstoles [SC-RS-2021, §2]. El conocimiento de Jesucristo, el amor a Él y el deseo de llevar a otros a encontrarlo dan sentido y dirigen la labor de los legionarios que se dedican al estudio, la investigación, la predicación y la enseñanza.
+La formación intelectual y académica del legionario busca ante todo la asimilación de «la mente de Cristo» (1 Co 2,16), para así poder hacer presente el misterio de Cristo que forma sus apóstoles [Sap_Chr-2021, §2]. El conocimiento de Jesucristo, el amor a Él y el deseo de llevar a otros a encontrarlo dan sentido y dirigen la labor de los legionarios que se dedican al estudio, la investigación, la predicación y la enseñanza.
 
-De acuerdo con la identidad carismática de la Legión de Cristo, el cristocentrismo ha de servir como una clave general para el estudio de la teología y la preparación para el apostolado [SC-RS-2021, §124]. El título mismo de la *Ratio studiorum* —«Sapientia Christi»— expresa que la dimensión intelectual tiene a Cristo como criterio, centro y modelo.
+De acuerdo con la identidad carismática de la Legión de Cristo, el cristocentrismo ha de servir como una clave general para el estudio de la teología y la preparación para el apostolado [Sap_Chr-2021, §124]. El título mismo de la *Ratio studiorum* —«Sapientia Christi»— expresa que la dimensión intelectual tiene a Cristo como criterio, centro y modelo.
 
 ### Según Ensayo-instituyo-a-los-doce (RC-Inst_12)
 
@@ -61,9 +61,9 @@ El ensayo desarrolla el cristocentrismo en dimensión comunitaria: Cristo no es 
 
 Las comunidades del Regnum Christi «no sean simplemente grupos humanos con intereses comunes, ni ONGs ni clubes sociales. Lo que nos une es el don de un carisma común, que genera una comunidad en la que compartimos un espíritu y una misión» [RC-Inst_12, Parte II, §I, Comunidades donde Jesucristo toma la iniciativa]. La centralidad de Cristo se verifica en la vida eucarística, el sacramento de la reconciliación, el «Encuentro con Cristo» y la oración comunitaria. «Sin oración comunitaria no hay verdadera comunidad de apóstoles» [RC-Inst_12, Parte II, §I, Comunidades donde Cristo es centro, criterio y modelo].
 
-### Según el plan de formación de centros vocacionales (HSSE-2018)
+### Según el plan de formación de centros vocacionales (Habl_Sñr-2018)
 
-En los centros vocacionales, el cristocentrismo es el elemento fundamental de la espiritualidad. Los formadores presentan a los alumnos una experiencia viva de la persona de Jesucristo, que quiere compartir su vida con cada uno de ellos y ser su mejor Amigo [HSSE-2018, §14]. Los alumnos son animados a buscarle constantemente en la Eucaristía y en el prójimo, a conocerle cada vez más en el Evangelio, y a dejarse comprometer por su amor que les acogerá siempre como son, con misericordia y bondad. Jesucristo invita a los alumnos a una amistad más cercana con Él, a buscar que Cristo reine en sus corazones, en el de todos los hombres y en el mundo entero (Reino de Cristo) [HSSE-2018, §15]. Como respuesta al amor de Dios, los alumnos viven los cinco amores de la Legión y del Regnum Christi: amor a Cristo, amor filial a la Santísima Virgen María, amor a la Iglesia y al papa, amor a los hombres, y amor a la Legión de Cristo y al Regnum Christi [HSSE-2018, §17].
+En los centros vocacionales, el cristocentrismo es el elemento fundamental de la espiritualidad. Los formadores presentan a los alumnos una experiencia viva de la persona de Jesucristo, que quiere compartir su vida con cada uno de ellos y ser su mejor Amigo [Habl_Sñr-2018, §14]. Los alumnos son animados a buscarle constantemente en la Eucaristía y en el prójimo, a conocerle cada vez más en el Evangelio, y a dejarse comprometer por su amor que les acogerá siempre como son, con misericordia y bondad. Jesucristo invita a los alumnos a una amistad más cercana con Él, a buscar que Cristo reine en sus corazones, en el de todos los hombres y en el mundo entero (Reino de Cristo) [Habl_Sñr-2018, §15]. Como respuesta al amor de Dios, los alumnos viven los cinco amores de la Legión y del Regnum Christi: amor a Cristo, amor filial a la Santísima Virgen María, amor a la Iglesia y al papa, amor a los hombres, y amor a la Legión de Cristo y al Regnum Christi [Habl_Sñr-2018, §17].
 
 ## Distinciones importantes
 
@@ -87,4 +87,4 @@ Se relaciona con [[cristo]], [[consejos_evangélicos]], [[eucaristía]], [[vida_
 - [CLC-2020, 3, 8, 53]
 - [CVV, 99, 107]
 - [Jn 15,5; Lc 24,13-35; Jn 20,28; Ga 2,20; Col 3,4]
-- [HSSE-2018, §14-17]
+- [Habl_Sñr-2018, §14-17]
