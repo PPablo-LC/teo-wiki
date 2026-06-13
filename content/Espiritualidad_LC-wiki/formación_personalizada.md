@@ -1,7 +1,7 @@
 # Formación personalizada
 
 > Área: Ascética / Formación
-> Última actualización: 2026-05-31
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -15,6 +15,12 @@ La formación personalizada reconoce que cada persona es amada por Dios de modo 
 
 Cada formando recorre un camino de fe único que implica el desarrollo de sus talentos, la asimilación del carisma, el trabajo de su carácter y la aplicación a la misión. En la práctica, la personalización exige que los formadores conozcan a cada formando, se interesen por sus necesidades y le ofrezcan orientación y apoyo individualizados mediante el diálogo personal frecuente, la dirección espiritual, el estudio de su proceso de formación y la adecuación de los medios formativos [CVV-2017, 333].
 
+### Según el plan de formación de centros vocacionales (HSSE-2018)
+
+El desarrollo de una formación personalizada se fundamenta en el amor y el respeto a cada persona individual por parte de Dios, del instituto, de la comunidad y de los formadores [HSSE-2018, §23]. Cada formador ha de renovarse en la experiencia de ser amado por Dios y convertirse en signo del amor que Dios tiene hacia cada una de las personas a él encomendadas. Los formadores deben conocer a los alumnos, sus historias, sus logros, fracasos y posibles heridas, conocer a sus familias y su entorno social. A partir de este conocimiento podrán acompañar el proceso formativo de cada uno. «La formación, o es personalizada, o no es formación» [HSSE-2018, §23].
+
+La formación personalizada implica por parte de los formadores una preparación específica, penetración psicológica, una gran apertura, capacidad de iniciativa, de renovarse constantemente, y también de lanzarse e innovar, con la debida dependencia del director competente [HSSE-2018, §25].
+
 ## Distinciones importantes
 
 - Formación personalizada vs. formación uniforme: la primera atiende a la individualidad; la segunda aplica el mismo programa a todos sin distinción
@@ -27,8 +33,9 @@ Se relaciona con [[formación_legionaria]], [[formación_integral]], [[acompaña
 
 ## Ver también
 
-[[formación_legionaria]], [[formación_integral]], [[acompañamiento_formativo]], [[discernimiento]]
+[[formación_legionaria]], [[formación_integral]], [[acompañamiento_formativo]], [[discernimiento]], [[centro_vocacional]]
 
 ## Referencias
 
 - [CVV-2017, 331-333]
+- [HSSE-2018, §23-25]

@@ -1,7 +1,7 @@
 # Comunidad formativa
 
 > Área: Ascética / Formación / Vida fraterna
-> Última actualización: 2026-05-31
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -12,6 +12,14 @@ La comunidad formativa es el ambiente en el que se lleva a cabo la formación in
 La comunidad no puede verse exclusivamente en función de objetivos formativos, pues tiene un valor en sí misma: «Una comunidad será lo que los miembros hagan de ella, tiene sus exigencias propias y antes de que uno se sirva de ella como medio de formación, merece ser amada y servida por lo que ella es en la vida religiosa tal como la Iglesia la concibe» [CVV-2017, 461]. La comunidad es el ámbito de pertenencia del que Dios se sirve para labrar la santidad de los religiosos mediante el olvido de sí mismos y el sacrificio en la entrega a los demás.
 
 ## Perspectivas por fuente
+
+### Según la Ratio studiorum (SC-RS-2021)
+
+El alumno es «el primer responsable de su formación intelectual» y debe asumirla «con una sana ambición, consciente de que todos los esfuerzos en este campo redundarán en la fecundidad de su ministerio» [SC-RS-2021, §186]. Con la ayuda de sus formadores, ha de custodiar y aprovechar sus tiempos de estudio y de lectura personal.
+
+La formación intelectual del legionario ha de tener un enfoque apostólico, orientada a comunicar a Cristo y su mensaje [SC-RS-2021, §187]. Los alumnos han de discernir con responsabilidad e inteligencia sus áreas de interés, considerando tanto sus capacidades personales como la misión y las necesidades de la Congregación [SC-RS-2021, §188].
+
+La formación intelectual se realiza en el contexto de una comunidad académica de alumnos y profesores, y de los alumnos entre sí. Por ello, se fomentan los encuentros personales, los grupos de estudio e investigación y el diálogo entre las diversas disciplinas [SC-RS-2021, §189].
 
 ### Según la Ratio Institutionis (CVV-2017)
 
@@ -31,6 +39,12 @@ Las comunidades de apóstoles tienen una dimensión formativa inherente: «está
 
 El equipo, comunidad fundamental del Regnum Christi, es descrito como «una comunidad de apóstoles, un conjunto de miembros unidos en fraternidad cristiana para ayudarse mutuamente en su camino de santificación, en su formación y en su trabajo apostólico, a ejemplo de las primeras comunidades cristianas» [RC-Inst_12, Parte II, §III, El equipo].
 
+### Según el plan de formación de centros vocacionales (HSSE-2018)
+
+La identidad del centro vocacional coincide con la del seminario menor: una comunidad formativa en la que los adolescentes, en un ambiente de armonía con su edad y de auténtica libertad interior, con la ayuda de probados y competentes formadores y el apoyo de su familia, puedan madurar vocacionalmente [HSSE-2018, §7]. El equipo de formadores es la comunidad legionaria que, colaborando con la acción del Espíritu Santo, acompaña y dirige el proceso formativo de los alumnos en nombre de la Iglesia, de la Legión y de sus familias. Inspiran a los alumnos con el testimonio de su vida religiosa vivida con espontaneidad, sencillez, fidelidad y alegría [HSSE-2018, §40].
+
+El equipo de formadores está compuesto por el rector, el vicerrector, el director espiritual y los asistentes de apostólicos y de precandidatos, apoyados por un coordinador según el número de alumnos [HSSE-2018, §42]. La comunidad educativa la conforman todas las personas que colaboran en la formación: profesores, especialistas, personal administrativo y miembros del Regnum Christi de la localidad [HSSE-2018, §53]. La presencia de la mujer dentro de la comunidad educativa tiene un valor formativo importante, pues enriquece a los alumnos gracias al contacto con el genio femenino [HSSE-2018, §54].
+
 ## Distinciones importantes
 
 - Comunidad formativa vs. comunidad de apostolado: la primera está orientada a la formación inicial; la segunda a la vida y misión del sacerdote en formación permanente
@@ -43,9 +57,11 @@ Se relaciona con [[formación_legionaria]], [[vida_fraterna_religiosa]], [[acomp
 
 ## Ver también
 
-[[formación_legionaria]], [[vida_fraterna_religiosa]], [[acompañamiento_formativo]], [[proyecto_comunitario]]
+[[formación_legionaria]], [[vida_fraterna_religiosa]], [[acompañamiento_formativo]], [[proyecto_comunitario]], [[centro_vocacional]], [[ratio_studiorum]], [[formación_intelectual]]
 
 ## Referencias
 
 - [CVV-2017, 459-478]
 - [PoI, 26-27; PDV, 42, 60; CLC, 41]
+- [HSSE-2018, §7, §40-54]
+- [SC-RS-2021, §186-189]

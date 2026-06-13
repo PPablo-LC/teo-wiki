@@ -1,7 +1,7 @@
 # Formación en relación
 
 > Área: Ascética / Formación
-> Última actualización: 2026-05-31
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -27,6 +27,10 @@ La formación en relación busca siempre los encuentros: con los formadores, con
 
 **Valor de la diversidad.** Los formadores han de ayudar al formando a descubrir el valor y la belleza de la diversidad, y cómo el encuentro con el otro es el lugar donde se nos desvela quiénes somos. Para un legionario es especialmente relevante la relación con los demás miembros del Regnum Christi, consagrados, consagradas y laicos, así como la participación en la vida de la Iglesia local [CVV-2017, 366].
 
+### Según el plan de formación de centros vocacionales (HSSE-2018)
+
+La formación en comunión es una necesidad de la persona que tiende fundamentalmente a ir más allá de sí mismo para entrar en relación con los demás [HSSE-2018, §28]. La formación no se puede concebir sino en relación con Dios, consigo mismo y con los demás: una formación en y para la comunión [HSSE-2018, §28]. Una formación carente de esta dimensión de comunión puede lastimar profundamente a la persona en su capacidad de relacionarse sanamente [HSSE-2018, §29]. La formación en relación implica reconocer y valorar con naturalidad los vínculos de amistad y aprecio, percibir los propios límites y los de los demás, guardar el debido respeto y mantener manifestaciones legítimas de afecto [HSSE-2018, §29].
+
 ## Distinciones importantes
 
 - Formación en relación vs. individualismo formativo: la primera reconoce que la persona crece en comunión; el segundo centra todo en el progreso individual
@@ -39,9 +43,10 @@ Se relaciona con [[formación_legionaria]], [[formación_experiencial]], [[comun
 
 ## Ver también
 
-[[formación_legionaria]], [[formación_experiencial]], [[comunidad_formativa]], [[acompañamiento_formativo]]
+[[formación_legionaria]], [[formación_experiencial]], [[comunidad_formativa]], [[acompañamiento_formativo]], [[centro_vocacional]]
 
 ## Referencias
 
 - [CVV-2017, 362-366]
 - [DVP, 50; Comisión Teológica Internacional, *Comunión y servicio* (2004), 4]
+- [HSSE-2018, §28-29]

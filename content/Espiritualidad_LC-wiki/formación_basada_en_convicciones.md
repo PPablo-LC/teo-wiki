@@ -1,7 +1,7 @@
 # Formación basada en convicciones
 
 > Área: Ascética / Formación
-> Última actualización: 2026-05-31
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -23,6 +23,10 @@ La formación basada en convicciones exige que el formador: presente las razones
 
 **Para el formador.** El formador debe presentar las razones del carisma y de las decisiones de gobierno, consciente de que las convicciones mueven a seguimiento libre y maduro. El respeto de la libertad del otro es esencial para el crecimiento de la persona, y todo lo que se parezca a manipulación desnaturaliza la formación. El uso de la autoridad debe estar al servicio de hacer madurar al formando, no de suplantar su responsabilidad personal. Se buscarán convicciones compartidas en comunidad sobre todo en lo sustancial, respetando la diversidad en lo accidental [CVV-2017, 352-355].
 
+### Según el plan de formación de centros vocacionales (HSSE-2018)
+
+El amor ha de ser la motivación principal del proceso formativo, que lleva al alumno del centro vocacional a reconocer su mayor bien en el proyecto de amor que Dios tiene para él [HSSE-2018, §30]. La principal motivación en nuestra vida es la seguridad de sabernos amados por Dios (cf. 1 Jn 4, 19) y capaces de corresponder a ese amor desde nuestra pobreza [HSSE-2018, §31]. El amor a Cristo en la vida del adolescente madura, dejando atrás la fe y las motivaciones del niño para dar el salto a la fe y a los motivos más profundos del joven. Por esto la formación del centro vocacional es una formación motivada por amor, que busca que el alumno actúe desde convicciones interiores y no desde la presión externa [HSSE-2018, §31].
+
 ## Distinciones importantes
 
 - Convicción vs. conocimiento: la convicción configura el modo de pensar, sentir y obrar; el conocimiento puede quedar en la superficie
@@ -35,9 +39,10 @@ Se relaciona con [[formación_legionaria]], [[formación_experiencial]], [[autof
 
 ## Ver también
 
-[[formación_legionaria]], [[formación_experiencial]], [[autoformación]], [[cristocentrismo_legionario]]
+[[formación_legionaria]], [[formación_experiencial]], [[autoformación]], [[cristocentrismo_legionario]], [[centro_vocacional]]
 
 ## Referencias
 
 - [CVV-2017, 348-355]
 - [CLC, 8, 9]
+- [HSSE-2018, §30-31]

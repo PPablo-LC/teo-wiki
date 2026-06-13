@@ -1,7 +1,7 @@
 # Discernimiento vocacional
 
 > Área: Ascética / Espiritualidad / Formación
-> Última actualización: 2026-05-31
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -19,6 +19,10 @@ El acompañante vocacional, que puede ser un legionario o un adulto —hombre o 
 
 Se recomienda vivamente que el discernimiento vocacional se realice en el Centro de Estudios de la Legión de Cristo que exista en el lugar de origen, o donde sea posible, para que el candidato pueda ir verificando su vocación en el contexto de la vida legionaria. Quien no pueda acudir a un Centro de Estudios antes de ingresar al noviciado hará un esfuerzo especial en el noviciado para sanear esa carencia [CVV-2017, 400-401].
 
+### Según el plan de formación de centros vocacionales (HSSE-2018)
+
+La finalidad específica del centro vocacional es ayudar a los adolescentes con inquietudes vocacionales a adquirir madurez humana y cristiana suficiente para realizar un discernimiento vocacional adecuado y tomar una decisión informada, firme, responsable y libre acerca de su ingreso en la Legión [HSSE-2018, §10]. La decisión madura del joven implica un proceso de discernimiento de tres etapas o fases fundamentales [HSSE-2018, §12]. En la última etapa (15-18 años), el discernimiento debe hacerse más profundo y concreto, concluyendo en una decisión libre, personal y responsable de entrar al noviciado o seguir otro camino. El padre espiritual debe iniciar al alumno en el discernimiento espiritual y acompañarlo con especial dedicación para que goce de las disposiciones suficientes que le permitan tomar sus decisiones con prudencia y apertura a la voluntad de Dios [HSSE-2018, §136].
+
 ## Distinciones importantes
 
 - Discernimiento vocacional (previo al ingreso) vs. acompañamiento formativo (durante la formación inicial y permanente)
@@ -32,9 +36,10 @@ Se relaciona con [[discernimiento_de_espíritus]], [[vocación]], [[vida_consagr
 
 ## Ver también
 
-[[discernimiento_de_espíritus]], [[vocación]], [[vida_consagrada]], [[formación_legionaria]]
+[[discernimiento_de_espíritus]], [[vocación]], [[vida_consagrada]], [[formación_legionaria]], [[centro_vocacional]]
 
 ## Referencias
 
 - [CVV-2017, 393-401 (Capítulo VII)]
 - [CIC, cc. 597-598; PC, 4]
+- [HSSE-2018, §10-12, §136]

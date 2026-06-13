@@ -1,7 +1,7 @@
 # Formación gradual
 
 > Área: Ascética / Formación
-> Última actualización: 2026-05-31
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -19,6 +19,10 @@ La formación gradual es una característica del proceso formativo legionario se
 
 **Engarce con la formación permanente.** La formación inicial debe engarzarse con la formación permanente, creando en el sujeto la disponibilidad para dejarse formar cada uno de los días de su vida. Ninguna fase de la vida puede considerarse tan segura como para excluir toda oportunidad de ser asistida [CVV-2017, 372-373].
 
+### Según el plan de formación de centros vocacionales (HSSE-2018)
+
+La formación es un proceso gradual que va arraigando poco a poco en la persona, ofreciendo conocimientos, asentando convicciones y afianzando actitudes y comportamientos [HSSE-2018, §26]. Cada etapa del camino formativo tiene características propias y ha de considerar objetivos adaptados a la edad de los alumnos y al momento del proceso formativo en que se encuentren, respetando el compromiso de la persona y el ritmo de su caminar personal con Dios [HSSE-2018, §26]. Para los centros vocacionales, la gradualidad se concreta en tres etapas adaptadas a las fases de la adolescencia: de 12 a 13 años (siembra de valores, influencia del grupo), de 13 a 15 años (cambios fisiológicos, rebeldía, grandes ideales) y de 15 a 18 años (maduración progresiva, discernimiento vocacional más profundo) [HSSE-2018, §111-136].
+
 ## Distinciones importantes
 
 - Formación gradual vs. formación apresurada: la primera respeta los ritmos de maduración; la segunda pretende resultados inmediatos
@@ -31,9 +35,10 @@ Se relaciona con [[formación_legionaria]], [[formación_permanente]], [[formaci
 
 ## Ver también
 
-[[formación_legionaria]], [[formación_permanente]], [[formación_personalizada]], [[autoformación]]
+[[formación_legionaria]], [[formación_permanente]], [[formación_personalizada]], [[autoformación]], [[centro_vocacional]]
 
 ## Referencias
 
 - [CVV-2017, 367-374]
 - [Prov 2,1-5; Mt 7,27]
+- [HSSE-2018, §26-27, §111-136]

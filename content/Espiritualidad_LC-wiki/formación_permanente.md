@@ -13,6 +13,12 @@ La formación permanente se opone al estancamiento y a las vidas a mitad de cami
 
 ## Perspectivas por fuente
 
+### Según la Ratio studiorum (SC-RS-2021)
+
+Dado que la formación es un proceso que abarca toda la vida, la formación académica debe ser constante. Por lo mismo, es importante que los legionarios adquieran el hábito de buscar la actualización continua en su formación intelectual, tanto en la adquisición de contenidos como en el desarrollo de habilidades intelectuales [SC-RS-2021, §45].
+
+Este principio de capacitación permanente se aplica también a los profesores, de quienes se busca que estén siempre dispuestos a recorrer la senda de la actualización continua en sus campos de competencia y en los métodos pedagógicos [SC-RS-2021, §183].
+
 ### Según la Ratio Institutionis (CVV-2017)
 
 Ninguna fase de la vida puede considerarse tan segura y fervorosa como para excluir toda oportunidad de ser asistida y poder tener mayores garantías de perseverancia en la fidelidad, ni existe edad en la que se pueda dar por concluida la completa madurez de la persona [CVV-2017, 372].
@@ -35,9 +41,10 @@ Se relaciona con [[formación_legionaria]], [[autoformación]], [[conversión]],
 
 ## Ver también
 
-[[formación_legionaria]], [[autoformación]], [[conversión]], [[discernimiento]]
+[[formación_legionaria]], [[autoformación]], [[conversión]], [[discernimiento]], [[ratio_studiorum]], [[formación_intelectual]]
 
 ## Referencias
 
 - [CVV-2017, 371-374]
 - [VC, 69; Flp 3,12-14]
+- [SC-RS-2021, §45, 183]

@@ -13,6 +13,14 @@ El V Capítulo General ordinario de la Legión de Cristo (2026), bajo el lema «
 
 ## Perspectivas por fuente
 
+### Según la Ratio studiorum (SC-RS-2021)
+
+La *Ratio studiorum* «Sapientia Christi» (SC-RS-2021) constituye, junto con la *Ratio institutionis* «Christus vita vestra», el marco normativo de la formación legionaria en su dimensión intelectual. Como parte del derecho secundario propio de la Legión, explicita las Constituciones (CLC 96-102) en cuanto se refieren a la formación intelectual y académica –inicial y permanente– de los miembros de la Congregación [SC-RS-2021, §1, 13].
+
+Las etapas de formación intelectual cubiertas por la *Ratio studiorum* son: centros vocacionales (estudios preuniversitarios), noviciado, humanidades, filosofía, prácticas apostólicas, teología, y formación permanente y especialización [SC-RS-2021, §47]. Cada etapa tiene objetivos específicos, principios formativos y programas propios, articulados entre sí para garantizar la continuidad del proceso formativo.
+
+La formación intelectual se entiende como parte integrante de la formación integral, en armonía con las demás dimensiones formativas [SC-RS-2021, §41a]. El perfil intelectual del legionario (Cap. 1) y los principios de formación intelectual (Cap. 2) ofrecen el marco de referencia para la articulación de la dimensión intelectual con el conjunto de la formación legionaria.
+
 ### Según la Ratio Institutionis (CVV-2017)
 
 La CVV-2017, titulada «Christus Vita Vestra» (Col 3,4), es el documento fundacional de la formación legionaria. Define la formación como la libre y amorosa respuesta del legionario a la llamada de Dios que invita a identificarse con Él según la palabra de Cristo: *Sed perfectos, como vuestro Padre celestial es perfecto* (Mt 5,48) [CVV-2017, 8]. La formación es esencialmente una relación vital, personal y transformante con el Señor [CVV-2017, 12].
@@ -56,7 +64,7 @@ Se relaciona con [[formación]] (concepto general), [[sacerdocio]], [[vida_consa
 
 ## Ver también
 
-[[formación]], [[sacerdocio]], [[discernimiento]], [[promoción_vocacional]]
+[[formación]], [[sacerdocio]], [[discernimiento]], [[promoción_vocacional]], [[ratio_studiorum]], [[perfil_intelectual_legionario]]
 
 ## Referencias
 
@@ -64,3 +72,4 @@ Se relaciona con [[formación]] (concepto general), [[sacerdocio]], [[vida_consa
 - [CapGral-2026, n. 104-118]
 - [CapGral-2026, n. 99] (horizonte unificador de la formación)
 - [CapGral-2026, Comunicado temático «La misión: Caritas Christi urget nos», n. 55-57]
+- [SC-RS-2021, §1, 13, 47]

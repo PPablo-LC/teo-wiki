@@ -1,7 +1,7 @@
 # Promoción vocacional
 
 > Área: Espiritualidad / Pastoral
-> Última actualización: 2026-05-25
+> Última actualización: 2026-06-12
 
 ### Según el Concilio Vaticano II (ConcVatII)
 
@@ -44,6 +44,10 @@ El V Capítulo General ordinario de la Legión de Cristo (2026) ha presentado un
 
 **Medios.** La acción vocacional se nutre de la oración y adoración por las vocaciones, la predicación del «Evangelio de la vocación», los talleres de oración y ejercicios espirituales, la dirección espiritual, las visitas a centros formativos (especialmente Roma), las convivencias vocacionales y las experiencias de gran entrega y generosidad [CapGral-2026, n. 11].
 
+### Según el plan de formación de centros vocacionales (HSSE-2018)
+
+Los promotores vocacionales tienen la importante misión de identificar las semillas vocacionales que el Señor ha sembrado en el corazón de los adolescentes y de acompañarlos en sus inquietudes y búsqueda del camino para responder a esta invitación personal de Dios. Desempeñan su misión en colaboración cercana con el rector del centro vocacional [HSSE-2018, §55]. El rector del centro vocacional, junto con los promotores vocacionales, define un plan de acompañamiento previo al ingreso del alumno al centro vocacional, que haya durado al menos un año [HSSE-2018, §101].
+
 ## Distinciones importantes
 
 - Vocación (designio personal de amor de Dios) vs. elección funcional (visión reducida secularizada)
@@ -57,9 +61,10 @@ Se relaciona con [[formación_legionaria]], [[formación]], [[vocación]], [[dis
 
 ## Ver también
 
-[[formación_legionaria]], [[discernimiento]], [[vocación]], [[familia]]
+[[formación_legionaria]], [[discernimiento]], [[vocación]], [[familia]], [[centro_vocacional]]
 
 ## Referencias
 
 - [CapGral-2026, n. 99-103]
 - [CapGral-2026, Comunicado temático «Una renovada visión vocacional», n. 1-16]
+- [HSSE-2018, §55, §101]

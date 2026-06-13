@@ -1,7 +1,7 @@
 # Formación experiencial
 
 > Área: Ascética / Formación
-> Última actualización: 2026-05-31
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -21,6 +21,12 @@ La formación experiencial facilita la formación integral porque una experienci
 
 El formador ha de presentar todo lo que desee enseñar —amor a Cristo pobre, casto y obediente, amor al prójimo— como valores por interiorizar y experiencias por vivir. No basta estudiar cómo es la pobreza de Cristo si no se experimenta dicha pobreza. Ha de acompañar al formando haciéndole entrar en sí mismo para acoger las lecciones de los sucesos alegres o tristes, hasta que este dinamismo se convierta en un hábito [CVV-2017, 361].
 
+### Según el plan de formación de centros vocacionales (HSSE-2018)
+
+Uno de los principios fundamentales de la formación en el centro vocacional es la experiencia viva, que favorece el aprendizaje, ayuda a forjar convicciones y permite conocer con realismo las propias fortalezas y limitaciones. En el proceso formativo se aprende aquello que se ha experimentado personalmente [HSSE-2018, §32]. Este conocimiento a partir de la experiencia personal permite verificar hasta qué punto se han interiorizado los valores formativos y las convicciones. Para favorecer la formación experiencial es necesario que los formadores confíen en los alumnos y gocen de su confianza, y que les ofrezcan espacios para ejercitarse en la libertad y la responsabilidad [HSSE-2018, §32].
+
+La formación experiencial exige de los formadores evitar dos extremos: el permisivismo que no educa y el exceso de exigencia que puede dañar. El principio de la exigencia formativa no está reñido con la bondad y el respeto en la forma de llevarse a cabo: «fortiter in re, suaviter in forma» [HSSE-2018, §33].
+
 ## Distinciones importantes
 
 - Formación experiencial vs. formación teórica: la primera añade la dimensión vital; la segunda se queda en principios abstractos
@@ -33,8 +39,9 @@ Se relaciona con [[formación_legionaria]], [[formación_integral]], [[formació
 
 ## Ver también
 
-[[formación_legionaria]], [[formación_integral]], [[acompañamiento_formativo]], [[discernimiento]]
+[[formación_legionaria]], [[formación_integral]], [[acompañamiento_formativo]], [[discernimiento]], [[centro_vocacional]]
 
 ## Referencias
 
 - [CVV-2017, 356-361]
+- [HSSE-2018, §32-33]

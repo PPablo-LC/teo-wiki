@@ -4,7 +4,7 @@ tags:
   - index
 title: Wiki Index
 updated: '2026-06-12'
-note: 'SmTh IIIª Q53–Q59 (sub-lote 2d): sesión_a_la_diestra creado; resurrección_de_cristo, ascensión_de_cristo, juicio_final enriquecidos con IIIª Pars. Tertia Pars completada hasta Q59.'
+note: 'SC-RS-2021 incorporado: 1 artículo descriptivo, 6 conceptos nuevos, 7 artículos enriquecidos con perspectiva de la Ratio studiorum.'
 ---
 
 # Wiki Index
@@ -108,10 +108,10 @@ note: 'SmTh IIIª Q53–Q59 (sub-lote 2d): sesión_a_la_diestra creado; resurrec
 ## Espiritualidad Legionaria
 
 ### Conceptos
-  [[abuso_de_autoridad]], [[abuso_espiritual]], [[acompañamiento_a_víctimas]], [[acompañamiento_formativo]], [[ars_celebrandi]], [[autoformación]], [[autoridad_evangélica]], [[benedicencia]], [[capítulo_general]], [[carisma_legionario]], [[casa_de_formación]], [[comunidad_de_apóstoles]], [[comunidad_formativa]], [[constituciones_legionarios_de_cristo]], [[conversación_en_el_espíritu]], [[conversión_institucional]], [[cristocentrismo_legionario]], [[discernimiento_comunitario]], [[discernimiento_vocacional]], [[ecyd]], [[elección]], [[envío_apostólico]], [[espiritualidad_legionaria]], [[federación_regnum_christi]], [[fieles_asociados_regnum_christi]], [[formación_basada_en_convicciones]], [[formación_en_relación]], [[formación_experiencial]], [[formación_gradual]], [[formación_integral]], [[formación_legionaria]], [[formación_permanente]], [[formación_personalizada]], [[identidad_legionaria]], [[informe_1941_2019]], [[justicia_restaurativa]], [[militia_christi]], [[normas_complementarias]], [[obediencia_filial]], [[paternidad_sacerdotal]], [[promoción_vocacional]], [[proteger_y_sanar]], [[proyecto_comunitario]], [[ratio_institutionis]], [[reconciliación_institucional]], [[sinodalidad]], [[vida_en_el_espíritu]], [[vida_fraterna_religiosa]], [[voto_propio]]
+  [[abuso_de_autoridad]], [[abuso_espiritual]], [[acompañamiento_a_víctimas]], [[acompañamiento_formativo]], [[ars_celebrandi]], [[autoformación]], [[autoridad_evangélica]], [[benedicencia]], [[capítulo_general]], [[carisma_legionario]], [[casa_de_formación]], [[comunidad_de_apóstoles]], [[comunidad_formativa]], [[constituciones_legionarios_de_cristo]], [[conversación_en_el_espíritu]], [[conversión_institucional]], [[cristocentrismo_legionario]], [[discernimiento_comunitario]], [[discernimiento_vocacional]], [[ecyd]], [[elección]], [[envío_apostólico]], [[espiritualidad_legionaria]], [[evangelización_de_la_cultura]], [[excelencia_académica]], [[federación_regnum_christi]], [[fieles_asociados_regnum_christi]], [[formación_basada_en_convicciones]], [[formación_en_relación]], [[formación_experiencial]], [[formación_gradual]], [[formación_integral]], [[formación_intelectual]], [[formación_legionaria]], [[formación_permanente]], [[formación_personalizada]], [[identidad_legionaria]], [[informe_1941_2019]], [[justicia_restaurativa]], [[militia_christi]], [[normas_complementarias]], [[obediencia_filial]], [[paternidad_sacerdotal]], [[perfil_intelectual_legionario]], [[promoción_vocacional]], [[proteger_y_sanar]], [[proyecto_comunitario]], [[ratio_institutionis]], [[ratio_studiorum]], [[reconciliación_institucional]], [[sapientia_christi]], [[sinodalidad]], [[vida_en_el_espíritu]], [[vida_fraterna_religiosa]], [[voto_propio]]
 
 ### Documentos
-  [[v_capítulo_general_legionarios_de_cristo]] (CapGral-2026), [[conversión_reparación_proteger_y_sanar]] (CRPS-2020), [[estatutos_federación_regnum_christi]] (FRC-2019), [[ratio_institutionis_christus_vita_vestra]] (CVV-2020), [[consideraciones_sobre_carismas_sanación]] (RC-Carismas-2023), [[instituyo_a_los_doce]] (RC-Inst_12)
+  [[v_capítulo_general_legionarios_de_cristo]] (CapGral-2026), [[conversión_reparación_proteger_y_sanar]] (CRPS-2020), [[estatutos_federación_regnum_christi]] (FRC-2019), [[ratio_institutionis_christus_vita_vestra]] (CVV-2020), [[consideraciones_sobre_carismas_sanación]] (RC-Carismas-2023), [[instituyo_a_los_doce]] (RC-Inst_12), [[sapientia_christi_ratio_studiorum]] (SC-RS-2021)
 
 ---
 
