@@ -1,7 +1,7 @@
 # Formación legionaria
 
 > Área: Espiritualidad / Vida consagrada
-> Última actualización: 2026-05-25
+> Última actualización: 2026-06-13
 
 ## Definición
 
@@ -32,6 +32,20 @@ La CVV-2017, titulada «Christus Vita Vestra» (Col 3,4), es el documento fundac
 **Agentes formativos.** El principal formador es Dios mismo [CVV-2017, 382]; le siguen el propio legionario (autoformación) [CVV-2017, 386-391], la Iglesia, la Virgen María, los formadores (superiores, instructores, rectores, asistentes, directores espirituales, confesores, profesores) [CVV-2017, 392-470], la comunidad y el mentor [CVV-2017, 471-478].
 
 **Etapas.** La CVV-2017 estructura la formación en tres grandes etapas: discernimiento vocacional (cap. 7), formación inicial (cap. 8: noviciado, humanidades, filosofía, teología, prácticas apostólicas) y formación permanente (cap. 9). La formación inicial se concibe como un camino gradual que debe engarzarse con la formación permanente, creando disponibilidad para dejarse formar cada día [CVV-2017, 373].
+
+### Según el Capítulo General Extraordinario (CapExt-2014)
+
+El Capítulo General Extraordinario de 2014 trató la formación del legionario como uno de los temas más relevantes, considerándola indispensable para afrontar la nueva etapa de la congregación [CapExt-2014, Formación, nn. 1-38].
+
+**Análisis de la situación.** Se valoró el interés de la Legión por la formación integral de sus miembros, con frutos constatables en amor a la Iglesia, obediencia, abnegación y celo apostólico. Pero se constataron deficiencias: acompañamiento vocacional insuficiente, no distinción ordinaria entre superior y director espiritual, exceso de normativa sin gradualidad, activismo y descuido de la vida espiritual y comunitaria [CapExt-2014, Formación, nn. 3-6].
+
+**Formación a la luz del carisma.** El objetivo de la Ratio institutionis es ayudar a alcanzar la medida de la plenitud de Cristo según el carisma del Regnum Christi. Se debe tener presente la identidad del legionario: un sacerdote religioso que centra toda su existencia en Cristo (cf. CLC3) [CapExt-2014, Formación, nn. 7-8].
+
+**Aspectos de la formación integral.** Se destacan: actitud de crecimiento constante, relación formativa como acompañamiento basado en la confianza mutua, personalización del proceso formativo, sólida vida espiritual, formación humana (madurez afectiva, responsabilidad, presentación personal), formación apostólica (conciencia de que la misión orienta el proceso formativo), formación intelectual sólida y selecta, y formación permanente que no concluye con la ordenación [CapExt-2014, Formación, nn. 9-26].
+
+**Itinerario formativo.** Se consideró favorable que la primera profesión y la renovación de votos se hagan por cuatro años cada una, para propiciar mejor maduración y coordinar la formación religiosa con las etapas académicas [CapExt-2014, Formación, nn. 27-31].
+
+**Encargos.** Se pide elaborar la Ratio institutionis en un plazo de tres años, con una comisión presidida por el director general; elaborar un plan de formación específica de superiores, formadores y directores espirituales; renovar los centros vocacionales; hacer un plan de acompañamiento durante los primeros años de sacerdocio; evaluar el programa de humanidades; analizar la dinámica formativa en noviciados pequeños; y crear una comisión para el uso de la psicología en la formación [CapExt-2014, Formación, nn. 32-38].
 
 ### Según el Capítulo General CapGral-2026
 
@@ -66,10 +80,26 @@ Se relaciona con [[formación]] (concepto general), [[sacerdocio]], [[vida_consa
 
 [[formación]], [[sacerdocio]], [[discernimiento]], [[promoción_vocacional]], [[ratio_studiorum]], [[perfil_intelectual_legionario]]
 
+### Según el Capítulo General CapGral-2020
+
+El Capítulo General de 2020 dedica la sección «La formación inicial: Nos revela el amor de su Corazón y nos forma» [CapGral-2020, §§62-72] a la formación legionaria.
+
+**Santidad como meta (§§62-63).** La formación tiene como objetivo principal la identificación con Jesucristo. «En la Legión deseamos luchar con pasión por la santidad» [CapGral-2020, §62]. Los profundos cambios socioculturales y el proceso de renovación institucional han exigido adaptaciones, manteniendo la continuidad en lo esencial.
+
+**Con la mirada en la misión (§64).** «Toda la formación del legionario ha de tener un enfoque apostólico, orientada a comunicar a Cristo y su mensaje» (CLC 100). La mirada se dirige a la Iglesia y al mundo a quienes se está llamado a servir.
+
+**Ratio institutionis (§§65-66).** La CVV, aprobada por este Capítulo, ofrece una guía segura y un camino pedagógico. Su implementación es un proceso que requiere tiempo, atención y evaluación constante.
+
+**Enfoque pedagógico (§§67-69).** Se propone una pedagogía basada en la interiorización de la identidad, la personalización del ideal legionario y el arte del discernimiento espiritual. Se subraya la importancia de las relaciones y la vida en comunidad como lugar de crecimiento en la madurez afectiva.
+
+**Itinerario formativo (§§70-72).** Se considera acertada la opción de que la profesión perpetua se haga ordinariamente en la casa de formación. Se prefiere favorecer la estabilidad, pidiendo al gobierno general que siga evaluando los frutos de las opciones tomadas.
+
 ## Referencias
 
+- [CapExt-2014, Formación, nn. 1-38]
 - [CVV-2017, 1-6 (Introducción), 8, 12, 330-380, 381-478]
 - [CapGral-2026, n. 104-118]
 - [CapGral-2026, n. 99] (horizonte unificador de la formación)
 - [CapGral-2026, Comunicado temático «La misión: Caritas Christi urget nos», n. 55-57]
+- [CapGral-2020, §§62-72]
 - [Sap_Chr-2021, §1, 13, 47]

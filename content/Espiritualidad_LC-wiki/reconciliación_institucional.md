@@ -13,6 +13,14 @@ El V Capítulo General ordinario de la Legión de Cristo (2026) ha dedicado una 
 
 ## Perspectivas por fuente
 
+### Según las Asambleas Generales (Asambleas-RC-2018)
+
+La Asamblea General del Regnum Christi de 2018 abordó la reconciliación como exigencia del camino de reestructuración del Movimiento. En su mensaje final, afirmó que «hemos descubierto la necesidad de mantener juntos comunión y reconciliación», reconociendo que «también entre nosotros se han dado heridas que requieren un sincero y humilde proceso de reconciliación». La Asamblea propuso que la comisión de espiritualidad de la Federación preparara un subsidio sobre la reconciliación, ofreciendo instrumentos y cauces para avanzar en este proceso [Asambleas-RC-2018, archivo 20, §4].
+
+**Reconciliación entre las ramas.** Las Consagradas señalaron que, aunque el clima de diálogo inter-ramas ha mejorado notablemente respecto a momentos anteriores, «algunos legionarios se han sentido incómodos durante este proceso». Reconocieron también que «algunas consagradas hemos podido juzgar prematuramente o malinterpretar las reacciones de los legionarios» y pidieron perdón por ello. «Reconocemos que la Legión ha pasado por un camino doloroso y que como Consagradas del Regnum Christi no siempre hemos acompañado esa difícil travesía» [Asambleas-RC-2018, archivo 24, §20-22].
+
+**Reconciliación con los alejados.** La Asamblea expresó el deseo de que la Federación, sus instituciones y sus miembros tendieran puentes de reconciliación hacia quienes, por diversas razones, se han alejado. Se pidió a la comisión de espiritualidad que elaborara una propuesta concreta para implementar este deseo, que fue aprobado explícitamente por la Asamblea [Asambleas-RC-2018, archivo 24, §24].
+
 ### Según el Capítulo General CapGral-2026
 
 **La reconciliación como parte de la espiritualidad cristocéntrica.** Reconciliarse con quienes se ha herido —consciente o inconscientemente— es parte esencial de la espiritualidad cristocéntrica del legionario. Dios Padre, rechazado por el hombre, tomó la iniciativa de enviar a su Hijo. A Cristo no lo desalentaron nuestros rechazos; mantuvo siempre su mano tendida. Por tanto, también el legionario tiene el deber de tomar la iniciativa con militancia [CapGral-2026, n. 136].

@@ -1,7 +1,7 @@
 # Federación Regnum Christi
 
 > Área: Eclesiología / Derecho canónico
-> Última actualización: 2026-05-31
+> Última actualización: 2026-06-13
 
 ## Definición
 
@@ -65,8 +65,45 @@ Se relaciona con [[iglesia]], [[vida_consagrada]], [[consagración]], [[sacerdoc
 
 [[vida_consagrada]], [[consagración]], [[sacerdocio]], [[asociaciones]], [[iglesia]], [[cuerpo_místico]]
 
+### Según el Capítulo General Extraordinario (CapExt-2018)
+
+El Capítulo General Extraordinario de 2018 fue el punto culminante del proceso de búsqueda de la configuración canónica del Regnum Christi. En su primera sesión (abril 2018) los padres capitulares establecieron que la Legión de Cristo «no es una realidad exterior y ajena al Regnum Christi» y que «ambas realidades son inseparables» [CapExt-2018, n. 12]. Se identificaron cuatro valores fundamentales a custodiar: la unión y comunión entre todos los miembros del Regnum Christi; la búsqueda de lo que mejor favorezca la misión común; la identidad, autonomía y riqueza de las tres ramas consagradas; y la valoración e impulso de los miembros laicos [CapExt-2018, n. 21].
+
+**Opción por la Federación.** Se evaluaron dos opciones canónicas —una federación de las tres ramas consagradas, o una relación entre ellas por medio de convenios— alcanzando un consenso amplio por la federación [CapExt-2018, n. 24]. La federación se concibió no como un nuevo gran organismo sino como «un instrumento canónico de comunión y de servicio» [CapExt-2018, n. 25], principalmente de coordinación de esfuerzos, con fines centrados en custodiar el carisma común, promover la misión, preservar la unidad, coordinar la atención a los laicos y tener un papel subsidiario [CapExt-2018, n. 29].
+
+**Resultado final.** En la segunda sesión (noviembre 2018) el Capítulo reconoció «como designio de Dios» que la Legión, las Consagradas, los Laicos Consagrados y los fieles asociados vivan en profunda comunión, y aprobó la propuesta de que la Legión forme parte de una federación con las dos sociedades de vida apostólica constituidas canónicamente el 25 de noviembre de 2018 [CapExt-2018, n. 14]. La Federación no equivale al Movimiento Regnum Christi en todos sus aspectos: el Regnum Christi es la realidad espiritual-carismática (familia espiritual y cuerpo apostólico); la Federación es su expresión jurídica — dos aspectos de un único Regnum Christi [CapExt-2018, n. 15].
+
+**Gobierno colegial.** Se optó por órganos de presidencia colegiados (Colegios Directivos) formados por los directores de las tres ramas, presididos por oficio por el director general o territorial de la Legión de Cristo [CapExt-2018, nn. 31, 38(b)]. La localidad fue definida como el lugar privilegiado de la misión común [CapExt-2018, n. 28].
+
+**Valores que promueve.** Los Estatutos finalmente aprobados (efectivos en 2019) concretan los cuatro valores identificados en la primera sesión [CapExt-2018, n. 23], que pasan a ser explicitados en las finalidades del número 4 de los Estatutos: unidad carismática, misión común, autonomía de las ramas y corresponsabilidad de los laicos.
+
+### Según las Asambleas Generales (Asambleas-RC-2018)
+
+La Asamblea General del Regnum Christi de 2018, celebrada en dos fases (abril y noviembre-diciembre), fue el órgano que aprobó los *Estatutos de la Federación Regnum Christi* y el *Reglamento de los Fieles Asociados*. En su mensaje final, recogió los frutos del camino recorrido: «Los *Estatutos* suponen un real avance en la autocomprensión del Regnum Christi», asumiendo «la colegialidad en su gobierno» y poniendo de manifiesto «el espíritu de comunión y la complementariedad que, respetando la autonomía propia de los entes federados, se pone al servicio de la misión común» [Asambleas-RC-2018, archivo 13, §7-9].
+
+El P. Gianfranco Ghirlanda, en su intervención, definió la labor de la Asamblea como culminación de un camino de «búsqueda de la figura jurídica más apta para tutelar la autonomía y la unidad de cada rama», añadiendo que las fórmulas jurídicas «siempre son limitadas en su capacidad de expresar las realidades espirituales» pero «son necesarias justamente para mantener en vida el carisma a lo largo del tiempo» [Asambleas-RC-2018, archivo 10, §1]. La Congregación para los Institutos de Vida Consagrada «quiere que el trabajo iniciado se complete» y «no está dispuesta a que esto se aplace más y más» [Asambleas-RC-2018, archivo 10, §1].
+
+**Testimonio de la Legión.** Ghirlanda subrayó que la Legión de Cristo fue «la primera expresión histórica del carisma» y que, precisamente por ello, tiene una función de testimonio particular que no es «ejercicio del poder, sino un servicio de testimonio». Esta función no puede realizarse aisladamente, sino «siempre junto con las dos Sociedades de Vida Apostólica y con los otros fieles asociados», en una «especie de circularidad, donde los legionarios testifican y presentan a otros lo que los otros ya viven y tienen que vivir» [Asambleas-RC-2018, archivo 10, §2].
+
+**Gobierno colegial.** Las Consagradas confirmaron la conveniencia del gobierno colegial de las tres ramas, «por ser la forma que mejor representa la corresponsabilidad y la autonomía de las diversas vocaciones y por ser signo de la comunión que todos buscamos». Se decidió que el presidente del Colegio Directivo General fuera el director general de la Legión de Cristo, mientras que para el territorial se dejó abierta la posibilidad de que otro miembro del Colegio presidiera si las circunstancias lo aconsejaban [Asambleas-RC-2018, archivo 24, §13-16].
+
+**Voto de los laicos.** Los laicos participaron con voto consultivo en los órganos de la Federación y con voto deliberativo en lo concerniente a su propio *Reglamento* y códigos secundarios. En la Asamblea se decidió aumentar a dos el número de miembros laicos en el Colegio Directivo General y Territorial [Asambleas-RC-2018, archivo 24, §17].
+
+### Según el Capítulo General CapGral-2020
+
+El comunicado capitular de 2020 dedica una sección a la pertenencia de la Legión a la Federación Regnum Christi [CapGral-2020, §§87-88].
+
+**Pertenencia constitutiva.** La Legión de Cristo, la Sociedad de Vida Apostólica «Consagradas del Regnum Christi» y la Sociedad de Vida Apostólica «Laicos Consagrados del Regnum Christi» se han vinculado entre sí a través de la Federación Regnum Christi, con el fin de cuidar, profundizar y promover el carisma común, favorecer la colaboración apostólica y gozar de una estructura canónica común.
+
+**Orientación práctica.** Se establece que los colegios directivos deben enfocarse en el ámbito estratégico y de gobierno, evitando cargarse de tareas operativas. La dirección ordinaria se lleva a cabo mediante la oportuna asignación y delegación de responsabilidades.
+
+**Visión de Ghirlanda.** En su conferencia, Ghirlanda señala que la constitución de la Federación «implicó un verdadero cambio de mentalidad» [CapGral-2020, Ghirlanda, §31]. Destaca que, a pesar de las tensiones y discusiones, en la votación del Estatuto de la Federación 59 miembros del Capítulo expresaron su *placet* con solo una abstención, lo cual «manifestó la madurez del Capítulo, por lo tanto, de la Legión, porque en el momento de la votación, después de tantas dudas y discusiones, fue capaz de recuperar la unidad, evidentemente dejándose guiar por el Espíritu» [CapGral-2020, Ghirlanda, §37].
+
 ## Referencias
 
+- [CapExt-2018, nn. 12, 14-16, 21, 24-25, 28-29, 31, 38]
 - [CapGral-2026, n. 119-123]
 - [CapGral-2026, «La Legión de Cristo en la Federación Regnum Christi», n. 1-52]
 - [CapGral-2026, n. 35-47]
+- [CapGral-2020, §§87-88]
+- [CapGral-2020, Ghirlanda, §§31, 37]

@@ -1,7 +1,7 @@
 # Discernimiento comunitario
 
 > Área: Espiritualidad / Vida consagrada
-> Última actualización: 2026-05-25
+> Última actualización: 2026-06-13
 
 ## Definición
 
@@ -34,6 +34,24 @@ El santo padre León XIV señaló las actitudes esenciales para el discernimient
 **Conversaciones en el Espíritu.** El método utilizado para el discernimiento en grupos pequeños durante el Capítulo fue el de las «conversaciones en el Espíritu», también usado en el Sínodo 2021-2024 y en el primer consistorio del papa León XIV. Esta dinámica permitió conversaciones profundas, escucha desarmada y aprecio sincero por lo que Dios está haciendo en el corazón de los hermanos [CapGral-2026, n. 15].
 
 **El proyecto comunitario** es un medio privilegiado de discernimiento en grupo. A través de él la comunidad discierne sobre la vida comunitaria y fraterna, incluyendo el reglamento y el horario [CapGral-2026, n. 22].
+
+### Según las Asambleas Generales (Asambleas-RC-2018)
+
+La Asamblea General del Regnum Christi de 2018 fue, en sí misma, un ejercicio de discernimiento comunitario a escala del Movimiento. El P. Gianfranco Ghirlanda S.J., en su intervención, situó la dinámica asamblearia en el marco del discernimiento ignaciano, advirtiendo que, tras la decisión aprobada, vendría la tentación de la desolación. Citando los Ejercicios Espirituales de San Ignacio (EE 317-326), enseñó que es propio del enemigo hacer «dudar, entristecer, poner obstáculos, inquietar con falsas razones» para mover a la persona a abandonar lo decidido en tiempo de consolación. Por ello, «una vez que la asamblea o quien tiene la autoridad ha decidido, uno no debe permitir que se vuelva a poner en discusión lo aprobado» [Asambleas-RC-2018, archivo 10, §4].
+
+**Discernimiento y desolación.** Ghirlanda distinguió el valor formativo de la desolación (que enseña la humildad y la dependencia de Dios) de la tentación deliberada del enemigo, que busca que se abandonen los propósitos. «Si el enemigo nos hace desistir, incluso con argumentos espirituales, ha ganado la partida.» Recomendó la comunicación con el acompañante espiritual como remedio, advirtiendo que «quien comunica su desolación al acompañante, o a la autoridad, ha vencido ya la tentación» [Asambleas-RC-2018, archivo 10, §4].
+
+**Testimonio de la Asamblea.** La primera sesión de la Asamblea (abril 2018) transcurrió «en un clima de trabajo sereno, de colaboración en el diálogo y de oración», mientras que la segunda sesión fue «un verdadero momento de gracia, donde se escuchó la voz del Espíritu y se vivió hondamente la comunión eclesial». El discernimiento de los grupos mixtos (legionarios, consagradas, laicos) fue «muy valioso, pues permitió una sana complementariedad al considerar los diversos aspectos de la realidad del Regnum Christi desde diferentes perspectivas» [Asambleas-RC-2018, archivo 24, §5-7].
+
+### Según el Capítulo General CapGral-2020
+
+El Capítulo General de 2020 aborda el discernimiento en el contexto de la identidad legionaria, reconociendo que existen posturas diversificadas entre los legionarios sobre diversos aspectos de la vida y misión. Ante esta diversidad, «el discernimiento espiritual, individual y comunitario, se presenta como un camino válido para afrontar estas situaciones, y otras semejantes en la vida espiritual y apostólica» [CapGral-2020, §44].
+
+**Discernimiento como apertura a Dios.** El discernimiento presupone una radical apertura a Dios, pues «solo quien está dispuesto a escuchar tiene la libertad para renunciar a su propio punto de vista parcial o insuficiente, a sus costumbres, a sus esquemas» [CapGral-2020, §45, citando a GE 172].
+
+**Naturaleza del discernimiento.** «El discernimiento no es principalmente una decisión prudencial que examina ventajas y desventajas de las opciones presentadas, sino un escuchar la voz de Dios que nos llama a elegir lo que más nos lleva al fin de nuestra vida consagrada, a la luz del Evangelio, del derecho propio y de los signos de los tiempos» [CapGral-2020, §45].
+
+**Discernimiento comunitario y autoridad.** «Cuando se trata de un discernimiento comunitario es importante recordar que este concluye con una decisión de la autoridad: "El discernimiento comunitario no sustituye la naturaleza y el papel de la autoridad, a la cual está reservada la decisión final; ahora bien, la autoridad no puede ignorar que la comunidad es el lugar privilegiado para reconocer y acoger la voluntad de Dios"» [CapGral-2020, §46, citando la Instrucción *El servicio de la autoridad y la obediencia*, 20e].
 
 ## Distinciones importantes
 

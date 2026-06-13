@@ -3,8 +3,8 @@ tags:
   - meta
   - index
 title: Wiki Index
-updated: '2026-06-12'
-note: 'Habl_Sñr-2018 y Sap_Chr-2021 incorporados: 2 artículos descriptivos, 8 conceptos nuevos, 20 artículos enriquecidos con perspectiva de centros vocacionales y Ratio studiorum.'
+updated: '2026-06-13'
+note: 'CapExt-2018 incorporado: 1 artículo descriptivo (capítulo_general_extraordinario_2018), 1 concepto nuevo (colegio_directivo), 5 artículos enriquecidos con perspectiva del Capítulo Extraordinario de 2018 sobre la configuración canónica del Regnum Christi.'
 ---
 
 # Wiki Index
@@ -108,10 +108,10 @@ note: 'Habl_Sñr-2018 y Sap_Chr-2021 incorporados: 2 artículos descriptivos, 8 
 ## Espiritualidad Legionaria
 
 ### Conceptos
-  [[abuso_de_autoridad]], [[abuso_espiritual]], [[acompañamiento_a_víctimas]], [[acompañamiento_formativo]], [[ars_celebrandi]], [[autoformación]], [[autoridad_evangélica]], [[benedicencia]], [[capítulo_general]], [[carisma_legionario]], [[casa_de_formación]], [[centro_vocacional]], [[cinco_amores]], [[comunidad_de_apóstoles]], [[comunidad_formativa]], [[constituciones_legionarios_de_cristo]], [[conversación_en_el_espíritu]], [[conversión_institucional]], [[cristocentrismo_legionario]], [[discernimiento_comunitario]], [[discernimiento_vocacional]], [[ecyd]], [[elección]], [[envío_apostólico]], [[espiritualidad_legionaria]], [[evangelización_de_la_cultura]], [[excelencia_académica]], [[federación_regnum_christi]], [[fieles_asociados_regnum_christi]], [[formación_basada_en_convicciones]], [[formación_en_relación]], [[formación_experiencial]], [[formación_gradual]], [[formación_integral]], [[formación_intelectual]], [[formación_legionaria]], [[formación_permanente]], [[formación_personalizada]], [[identidad_legionaria]], [[informe_1941_2019]], [[justicia_restaurativa]], [[militia_christi]], [[normas_complementarias]], [[obediencia_filial]], [[paternidad_sacerdotal]], [[perfil_intelectual_legionario]], [[promoción_vocacional]], [[proteger_y_sanar]], [[proyecto_comunitario]], [[ratio_institutionis]], [[ratio_studiorum]], [[reconciliación_institucional]], [[sapientia_christi]], [[sinodalidad]], [[vida_en_el_espíritu]], [[vida_fraterna_religiosa]], [[voto_propio]]
+  [[abuso_de_autoridad]], [[abuso_espiritual]], [[acompañamiento_a_víctimas]], [[acompañamiento_formativo]], [[ars_celebrandi]], [[autoformación]], [[autoridad_evangélica]], [[benedicencia]], [[capítulo_general]], [[carisma_legionario]], [[casa_de_formación]], [[centro_vocacional]], [[cinco_amores]], [[colegio_directivo]], [[comunidad_de_apóstoles]], [[comunidad_formativa]], [[constituciones_legionarios_de_cristo]], [[conversación_en_el_espíritu]], [[conversión_institucional]], [[cristocentrismo_legionario]], [[discernimiento_comunitario]], [[discernimiento_vocacional]], [[ecyd]], [[elección]], [[envío_apostólico]], [[espiritualidad_legionaria]], [[evangelización_de_la_cultura]], [[excelencia_académica]], [[federación_regnum_christi]], [[fieles_asociados_regnum_christi]], [[formación_basada_en_convicciones]], [[formación_en_relación]], [[formación_experiencial]], [[formación_gradual]], [[formación_integral]], [[formación_intelectual]], [[formación_legionaria]], [[formación_permanente]], [[formación_personalizada]], [[identidad_legionaria]], [[informe_1941_2019]], [[justicia_restaurativa]], [[militia_christi]], [[normas_complementarias]], [[obediencia_filial]], [[paternidad_sacerdotal]], [[perfil_intelectual_legionario]], [[promoción_vocacional]], [[proteger_y_sanar]], [[proyecto_comunitario]], [[ratio_institutionis]], [[ratio_studiorum]], [[reconciliación_institucional]], [[sapientia_christi]], [[sinodalidad]], [[vida_en_el_espíritu]], [[vida_fraterna_religiosa]], [[voto_propio]]
 
 ### Documentos
-  [[v_capítulo_general_legionarios_de_cristo]] (CapGral-2026), [[conversión_reparación_proteger_y_sanar]] (CRPS-2020), [[estatutos_federación_regnum_christi]] (FRC-2019), [[ratio_institutionis_christus_vita_vestra]] (CVV-2020), [[consideraciones_sobre_carismas_sanación]] (RC-Carismas-2023), [[instituyo_a_los_doce]] (RC-Inst_12), [[plan_formación_centros_vocacionales]] (Habl_Sñr-2018), [[sapientia_christi_ratio_studiorum]] (Sap_Chr-2021)
+  [[v_capítulo_general_legionarios_de_cristo]] (CapGral-2026), [[conversión_reparación_proteger_y_sanar]] (CRPS-2020), [[estatutos_federación_regnum_christi]] (FRC-2019), [[ratio_institutionis_christus_vita_vestra]] (CVV-2020), [[consideraciones_sobre_carismas_sanación]] (RC-Carismas-2023), [[instituyo_a_los_doce]] (RC-Inst_12), [[plan_formación_centros_vocacionales]] (Habl_Sñr-2018), [[sapientia_christi_ratio_studiorum]] (Sap_Chr-2021), [[capítulo_general_extraordinario_2018]] (CapExt-2018)
 
 ---
 
@@ -181,6 +181,7 @@ note: 'Habl_Sñr-2018 y Sap_Chr-2021 incorporados: 2 artículos descriptivos, 8 
 | NotaEmocionesFe | Nota doctrinal «Cor ad cor loquitur» sobre emociones y fe (CEE, 2026) | Activo |
 | Habl_Sñr-2018 | Habla, Señor, que tu siervo escucha — Centros vocacionales (Legión de Cristo, 2018) | Activo |
 | Sap_Chr-2021 | Sapientia Christi — Ratio studiorum (Legión de Cristo, 2021) | Activo |
+| CapExt-2018 | Capítulo General Extraordinario de los Legionarios de Cristo (2018) | Activo |
 | EjEsp2026 | Iluminados por una gloria oculta — Ejercicios Espirituales 2026 a la Curia Romana (Mons. Erik Varden) | Activo |
 
 

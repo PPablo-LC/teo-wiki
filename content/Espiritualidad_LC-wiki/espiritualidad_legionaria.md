@@ -1,7 +1,7 @@
 # Espiritualidad legionaria
 
 > Área: Espiritualidad / Vida Consagrada
-> Última actualización: 2026-06-12
+> Última actualización: 2026-06-13
 
 ## Definición
 
@@ -56,9 +56,23 @@ Se relaciona con [[identidad_legionaria]], [[cristocentrismo_legionario]], [[mil
 
 [[identidad_legionaria]], [[cristocentrismo_legionario]], [[vida_consagrada]], [[regnum_christi]], [[centro_vocacional]], [[cinco_amores]]
 
+### Según el Capítulo General CapGral-2020
+
+El comunicado capitular de 2020 ofrece una sección sobre las «Actitudes del apóstol» [CapGral-2020, §76] que enriquece la espiritualidad legionaria con seis actitudes fundamentales para la misión:
+
+a. privilegiar y custodiar la intimidad con Dios: la entrega apostólica es fruto de la experiencia del amor de Dios, y el legionario tiene en Cristo Eucaristía el manantial que nutre su vocación misionera;
+b. estar en constante actitud de salida, soñando «con una opción misionera capaz de transformarlo todo» (EG 27);
+c. hacer la ofrenda total de sí mismo: el apóstol se realiza en el servicio, la donación personal y la entrega sin límites;
+d. ser contemplativo y evangelizador: el dinamismo interno de la vida legionaria tiene su origen en el amor de Cristo, donde oración, comunidad y apostolado se nutren mutuamente;
+e. tener líneas claras de acción: visión, valores comunes y prioridades apostólicas que todos hagan propias;
+f. asumir que todo legionario, independientemente de su actividad concreta, colabora en la misión del Regnum Christi.
+
+El Capítulo también desarrolla la misión de la Legión en la Iglesia (§§77-84), articulando las preguntas fundamentales: por qué existe la Legión (dar gloria a Dios y buscar que Cristo reine), cómo logra su propósito (formar apóstoles haciendo presente el misterio de Cristo que reúne, revela, forma y envía), y qué acciones lleva a cabo (promover la vocación bautismal, establecer instituciones, ejercer el ministerio pastoral). Esta articulación complementa la espiritualidad legionaria con una clara orientación misionera.
+
 ## Referencias
 
 - [CLC-2020 8-17]
 - [CapGral-2026, n. 50-71]
+- [CapGral-2020, §76 (actitudes del apóstol), §§77-84 (misión de la Legión)]
 - [FRC-2019, EFRC 6-30]
 - [Habl_Sñr-2018, §17]

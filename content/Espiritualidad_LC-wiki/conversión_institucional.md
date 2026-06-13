@@ -1,7 +1,7 @@
 # Conversión institucional
 
 > Área: Eclesiología / Espiritualidad
-> Última actualización: 2026-05-31
+> Última actualización: 2026-06-13
 
 ## Definición
 
@@ -45,7 +45,19 @@ Se relaciona con [[reconciliación_institucional]], [[proteger_y_sanar]], [[abus
 
 [[reconciliación_institucional]], [[proteger_y_sanar]], [[abuso_de_autoridad]], [[verdad]]
 
+### Según el Capítulo General CapGral-2020 (Comunicado completo)
+
+El comunicado capitular de 2020 ofrece el contexto completo del que surgieron los documentos «Conversión y reparación» y «Proteger y sanar» [CapGral-2020, §§16-22]. El Capítulo dedicó el primer lugar y todo el tiempo necesario a estas cuestiones apremiantes.
+
+**Escucha a sobrevivientes (§§17-18).** Dos sobrevivientes de abuso sexual compartieron sus experiencias en el aula capitular, y el P. Hans Zollner S.J. expuso recomendaciones sobre cómo afrontar el fenómeno de los abusos.
+
+**Examen de conciencia institucional (§§19-21).** Se emitió el comunicado *Conversión y reparación* pidiendo perdón a las víctimas. Se emanó *Proteger y sanar* como código de ambientes seguros. Se constató con tristeza también abusos de poder y de conciencia, pidiendo al gobierno general analizar esta realidad y proponer medidas.
+
+**Discurso del Papa Francisco.** El Santo Padre, en su discurso al Capítulo, invitó a los legionarios a «continuar en el camino de renovación, cosechando y consolidando los frutos madurados en estos años», marcando el marco pontificio de la conversión institucional.
+
 ## Referencias
 
 - [CapGral-2026, n. 140-144]
+- [CapGral-2020, §§16-22]
+- [CapGral-2020, Discurso del Papa Francisco]
 - [CLC-2020, proceso de revisión 2010-2014]

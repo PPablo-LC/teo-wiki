@@ -1,7 +1,7 @@
 # Cristocentrismo legionario
 
 > Área: Espiritualidad
-> Última actualización: 2026-06-12
+> Última actualización: 2026-06-13
 
 ## Definición
 
@@ -80,10 +80,21 @@ Se relaciona con [[cristo]], [[consejos_evangélicos]], [[eucaristía]], [[vida_
 
 [[cristo]], [[carisma_legionario]], [[vida_fraterna_religiosa]], [[consejos_evangélicos]], [[vida_consagrada]], [[centro_vocacional]], [[cinco_amores]], [[perfil_intelectual_legionario]], [[sapientia_christi]], [[ratio_studiorum]]
 
+### Según el Capítulo General CapGral-2020
+
+El Comunicado Capitular de 2020 dedica su sección inicial de la Parte 2 al cristocentrismo como fundamento de toda la vida legionaria [CapGral-2020, §§34-35].
+
+**Clave de bóveda del carisma.** El cristocentrismo es «la característica fundamental y específica del espíritu legionario» [CapGral-2020, §35, citando CLC 8]. Debe ser el objetivo de todos los esfuerzos diarios: criterio, centro y modelo en todo. Cuando este anhelo se hace realidad, no solo se transforma la vida del legionario sino que es capaz de irradiarlo.
+
+**Principio unificador.** Jesucristo es el principio unificador que concentra todos los esfuerzos. Bajo la luz de Cristo «se esclarece el misterio del hombre y se hallan las soluciones que respondan a los principales problemas de nuestra época» [CapGral-2020, §34, citando GS 10].
+
+**Conocerlo, amarlo y anunciarlo.** «Conocerlo, amarlo y anunciarlo es nuestra ilusión más grande y el objetivo prioritario de nuestra vida. Es así como "hacemos presente el misterio de Cristo"» [CapGral-2020, §35, citando CLC 4].
+
 ## Referencias
 
 - [CVV-2017, 1-56 (Capítulo I: Fundamentos cristocéntricos)]
 - [CapGral-2026, n. 13, 49-55]
+- [CapGral-2020, §§34-35]
 - [CLC-2020, 3, 8, 53]
 - [CVV, 99, 107]
 - [Jn 15,5; Lc 24,13-35; Jn 20,28; Ga 2,20; Col 3,4]

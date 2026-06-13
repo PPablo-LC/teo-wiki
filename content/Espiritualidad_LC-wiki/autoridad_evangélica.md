@@ -1,7 +1,7 @@
 # Autoridad evangélica
 
 > Área: Espiritualidad / Vida consagrada
-> Última actualización: 2026-05-25
+> Última actualización: 2026-06-13
 
 ## Definición
 
@@ -16,6 +16,30 @@ La autoridad está «al servicio de la animación de la vida común, centrándol
 El Papa [[león_xiv]] llamó a la autoridad «arte del acompañamiento, para aprender a quitarse las sandalias ante la tierra sagrada del otro con una mirada respetuosa y llena de compasión pero que al mismo tiempo sane, libere y aliente a madurar en la vida cristiana» [CapGral-2026, n. 20].
 
 ## Perspectivas por fuente
+
+### Según el Capítulo General Extraordinario (CapExt-2014)
+
+El Capítulo General Extraordinario de 2014 abordó el gobierno, la autoridad y la obediencia como temas centrales del proceso de renovación [CapExt-2014, Gobierno, nn. 1-40].
+
+**Problemas detectados.** Los principales problemas en el gobierno de la Congregación han sido: excesiva centralización, autoridad difusa y fragmentada, carencias en el funcionamiento de los consejos, falta de suficiente renovación en los cargos de gobierno, poco recurso a las consultas, y tendencia a multiplicar las normas. Algunos religiosos no han tenido presente en su obediencia el ejemplo de Jesucristo [CapExt-2014, Gobierno, n. 2].
+
+**Autoridad religiosa como servicio.** Los superiores reciben su autoridad de Dios mediante el ministerio de la Iglesia (c. 618 CIC). Se debe ejercer con espíritu de servicio, respeto a la persona, diálogo, para el bien del instituto y de la Iglesia. La autoridad moral que nace del testimonio de vida facilita el ejercicio de la autoridad canónica [CapExt-2014, Gobierno, nn. 3-5].
+
+**Autoridad personal.** Se fortalecen los tres niveles canónicos de gobierno (general, territorial, local), cada uno con su propio superior con competencias determinadas. Las delegaciones deben hacerse por escrito, con criterio y medida [CapExt-2014, Gobierno, nn. 6-7].
+
+**El consejo del superior.** El consejo no es un organismo de gobierno, sino de colaboración. Debe dar su consentimiento o parecer, ayudar al superior a discernir la voluntad de Dios, asesorarle. Los consejeros deben exponer con libertad su parecer [CapExt-2014, Gobierno, nn. 8-9].
+
+**Participación y corresponsabilidad.** Las asambleas y consultas son formas institucionales de corresponsabilidad. Su finalidad no es democratizar el gobierno, sino iluminar a los superiores. La consulta al religioso previa a un nombramiento fomenta un clima de respeto y diálogo [CapExt-2014, Gobierno, nn. 10-12].
+
+**Rendición de cuentas.** La planeación, organización y rendición de cuentas son útiles para el objetivo evangelizador. Cuando se involucra y corresponsabiliza a los religiosos, se comprometen más. El haber insistido demasiado en resultados numéricos ha generado resistencia en algunos [CapExt-2014, Gobierno, nn. 13-14].
+
+**Normativa.** Las Constituciones contienen las normas fundamentales, buscando armonizar elementos espirituales y jurídicos. Los códigos secundarios recogen la normativa más particular y pueden ser adaptados según tiempos y lugares [CapExt-2014, Gobierno, nn. 15-16].
+
+**Expansión y consolidación.** Se han seguido criterios como fortalecer la vida religiosa, asignar personas a lugares adecuados, revertir la dispersión geográfica y mantener centros vocacionales con vocaciones de sus propios territorios. Se tomaron medidas como fusiones de territorios y cierre de centros [CapExt-2014, Gobierno, nn. 17-18].
+
+**Recomendaciones.** Se invita a recuperar la confianza entre súbditos y superiores, ejercer la propia autoridad sin remitir problemas a instancias superiores, y fomentar la participación de todos mediante reuniones comunitarias, consultas y proyectos compartidos [CapExt-2014, Gobierno, nn. 19-24].
+
+**Encargos.** El Capítulo encarga al nuevo gobierno la elaboración de códigos secundarios, la renovación de superiores, la descentralización, el establecimiento de criterios de expansión, la organización de archivos, la institucionalización de ambientes seguros, la definición del coordinador local de apostolado y la mejora de la comunicación institucional [CapExt-2014, Gobierno, nn. 25-39].
 
 ### Según el Capítulo General CapGral-2026 (CapGral-2026)
 
@@ -61,9 +85,23 @@ Se relaciona con [[obediencia_filial]], [[obediencia]], [[vida_consagrada]], [[c
 ## Ver también
 [[obediencia_filial]], [[obediencia]], [[vida_consagrada]], [[cristo]], [[discernimiento]], [[conversión]]
 
+### Según el Capítulo General CapGral-2020 (Conferencia del P. Ghirlanda)
+
+La conferencia de Ghirlanda al Capítulo de 2020 ofrece una reflexión sobre el ejercicio de la autoridad a partir de la experiencia del gobierno general 2014-2020.
+
+**Unidad y uniformidad.** Uno de los desafíos identificados es «seguir trabajando para traer unidad a la Legión evitando en todas las maneras posibles de caer en la uniformidad que la ha caracterizada en el pasado» [CapGral-2020, Ghirlanda, §57]. La uniformidad da seguridad pero empobrece [CapGral-2020, Ghirlanda, §73].
+
+**Descentralización.** La Legión estaba totalmente centralizada. La descentralización no debe distorsionarse en una autonomía mal entendida: «en la Iglesia hablamos de autonomía 'justa' en el sentido de que la autonomía debe incluirse en el sistema canónico de la Iglesia y, por lo tanto, no puede oponerse a la dependencia» [CapGral-2020, Ghirlanda, §69].
+
+**Capacidad crítica y crítica.** Ghirlanda distingue entre crítica destructiva y capacidad crítica (evaluación objetiva de la realidad). «La capacidad crítica es lo que necesita ser desarrollado en cada persona. Evidentemente, su ejercicio requiere una gran madurez en las personas» [CapGral-2020, Ghirlanda, §65]. La lealtad al expresar el propio punto de vista a los superiores solo puede construir la comunión.
+
+**Ejercicio de la libertad.** Basar la unidad en la uniformidad del pensamiento le quita a la persona el ejercicio de su libertad responsable. La reacción a esto puede conducir al subjetivismo e individualismo. El desafío es conducir a un equilibrio entre la referencia a las Constituciones y la determinación personal, donde la unidad se enriquece por la peculiaridad personal en referencia al mismo carisma [CapGral-2020, Ghirlanda, §73].
+
 ## Referencias
 
+- [CapExt-2014, Gobierno, autoridad y obediencia, nn. 1-40]
 - [CapGral-2026, n. 93-98]
 - [CapGral-2026, «El ejercicio evangélico de la autoridad y la obediencia», n. 1-38]
 - [CapGral-2026, n. 20-24]
 - [CapGral-2026, n. 26-32]
+- [CapGral-2020, Ghirlanda, §§57, 65, 69, 73]

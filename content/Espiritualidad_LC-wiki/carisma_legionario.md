@@ -1,7 +1,7 @@
 # Carisma legionario
 
 > Área: Espiritualidad / Eclesiología
-> Última actualización: 2026-05-25
+> Última actualización: 2026-06-13
 
 ## Definición
 
@@ -59,6 +59,24 @@ En este momento emerge con fuerza en muchos legionarios el anhelo de un horizont
 
 El carisma se ofrece al servicio de la Iglesia, no es autorreferencial. La purificación dispone a servir mejor a la Iglesia, a los fieles y a quienes más necesitan esperanza [CapGral-2026, n. 43].
 
+### Según el Capítulo General Extraordinario (CapExt-2014)
+
+El Capítulo General Extraordinario de 2014 ofreció una reflexión sobre la identidad carismática de la Legión en el contexto de la crisis provocada por los hechos del fundador [CapExt-2014, Identidad carismática, nn. 1-13].
+
+**Fundamento carismático avalado por la Iglesia.** La existencia de la Legión como congregación religiosa en la Iglesia, la aprobación del Sucesor de Pedro y el juicio sustancialmente positivo del Papa constituyen fundamentos innegables. «Cuando la Iglesia reconoce una forma de vida consagrada o un Instituto, garantiza que en su carisma espiritual y apostólico se dan todos los requisitos objetivos para alcanzar la perfección evangélica personal y comunitaria» [CapExt-2014, Identidad carismática, n. 2].
+
+**El plan de Dios y el papel limitado del fundador.** La Legión de Cristo y sus rasgos esenciales no tienen su origen último en la persona del fundador; son un don de Dios que la Iglesia ha acogido, aprobado y hecho propio. «Al hablar de nuestro carisma fundacional no debemos mirar sólo el impulso inicial de Dios o cómo el fundador ha acogido esta gracia en su vida, sino reconocemos que estamos delante de un carisma ya configurado e institucionalizado en la Iglesia» [CapExt-2014, Identidad carismática, n. 3].
+
+**Cristocentrismo.** La renovación del estilo de vida siempre debe partir de Cristo, de su Espíritu, de su palabra, de su Iglesia, de sus sacramentos y de la entrega total a Él y a los hombres. La contemplación del Corazón traspasado de Cristo es la fuente de la vocación legionaria [CapExt-2014, Identidad carismática, n. 5].
+
+**Manera peculiar de seguir a Cristo.** Los legionarios están llamados a hacer particularmente presente el misterio de Cristo Señor que reúne en torno a sí a los apóstoles, les revela el amor de su corazón, los forma y los envía para colaborar en la instauración de su Reino (CLC4) [CapExt-2014, Identidad carismática, n. 6].
+
+**Consejos evangélicos.** Queremos vivir como una comunidad de sacerdotes religiosos que hacen que Cristo virgen, pobre y obediente, reine en nosotros. Por la pobreza, Cristo es nuestro único tesoro; por la castidad, Cristo es el amor supremo; por la obediencia, participamos en la obediencia salvífica de Cristo [CapExt-2014, Identidad carismática, n. 9].
+
+**Caridad de Cristo, alma del apostolado.** Todo el apostolado pretende hacer presente el Reino de Cristo por la irradiación y atracción del mismo Señor Jesús. La caridad es dar la vida por los demás (CLC3). La caridad de Cristo ayuda a formar un corazón de buen pastor [CapExt-2014, Identidad carismática, n. 10].
+
+**Contemplativos y evangelizadores.** El carisma es contemplativo y evangelizador (CLC13). Se busca que las personas se encuentren con Cristo y que Él las haga apóstoles [CapExt-2014, Identidad carismática, n. 11].
+
 ### Según Ensayo-instituyo-a-los-doce (RC-Inst_12)
 
 El ensayo ilumina una dimensión del carisma legionario que hasta ahora no había sido explicitada: la comunidad de apóstoles como rasgo identitario del Regnum Christi. El carisma no es solo una espiritualidad individual ni un conjunto de principios, sino que configura comunidades concretas que viven la llamada de Cristo a estar con Él y ser enviadas.
@@ -66,6 +84,16 @@ El ensayo ilumina una dimensión del carisma legionario que hasta ahora no habí
 «El Regnum Christi es una comunidad de apóstoles que forma comunidades de apóstoles. Esta identidad, que define y configura nuestra espiritualidad y misión, hunde sus raíces en el Evangelio y en la experiencia de las primeras comunidades cristianas» [RC-Inst_12, Introducción]. La comunidad de apóstoles no es un añadido organizativo, sino que pertenece «a su mismo designio de salvación» [RC-Inst_12, Parte I, §II, «Llamó a los que quiso»].
 
 El carisma del Regnum Christi incluye constitutivamente esta dimensión comunitaria: formar comunidades que, centradas en Cristo, son enviadas en misión y engendran nuevas comunidades. La comunidad es a la vez «familia espiritual y cuerpo apostólico» [RC-Inst_12, Parte II, §III, Familia espiritual y cuerpo apostólico].
+
+### Según las Asambleas Generales (Asambleas-RC-2018)
+
+El P. Gianfranco Ghirlanda S.J., en su intervención ante la Asamblea General de 2018, desarrolló una comprensión del carisma del Regnum Christi como compartido por todas las vocaciones. Subrayó que la Legión de Cristo, por ser la «primera expresión histórica del carisma», tiene una «función de testimonio» que no es «ejercicio del poder, sino un servicio de testimonio». Esta función solo puede realizarse en comunión con las demás ramas: «no puede darse sola: es siempre junto con las dos Sociedades de Vida Apostólica y con los otros fieles asociados» [Asambleas-RC-2018, archivo 10, §2].
+
+**Circularidad del carisma.** Ghirlanda describió una «especie de circularidad, donde los legionarios testifican y presentan a otros lo que los otros ya viven y tienen que vivir». En esta dinámica, el carisma no pertenece exclusivamente a una rama, sino que se realiza en la interacción entre todas ellas. La Legión no es dueña del carisma, sino «la memoria histórica viva del carisma», mientras que las consagradas y los laicos lo encarnan desde su propia vocación [Asambleas-RC-2018, archivo 10, §2].
+
+**Carisma y formas jurídicas.** Ghirlanda advirtió que las formas jurídicas «siempre son limitadas en su capacidad de expresar las realidades espirituales», pero que son «necesarias justamente para mantener en vida el carisma a lo largo del tiempo». La aprobación de los Estatutos de la Federación no es un fin en sí mismo, sino un instrumento para custodiar y transmitir el carisma común [Asambleas-RC-2018, archivo 10, §1].
+
+**Aportación de las Consagradas.** Las Consagradas, en su comunicación, expresaron que el camino de la Asamblea les ha permitido «una toma de conciencia de nuestra identidad y de nuestro lugar en el Regnum Christi», reconociendo que «el Regnum Christi, en sus cuatro vocaciones, somos uno» [Asambleas-RC-2018, archivo 22, §10]. Destacaron la circularidad en la misión: «La Legión necesita de las Consagradas y de los Laicos Consagrados para la misión, y las Consagradas y los Laicos Consagrados necesitan de la Legión» [Asambleas-RC-2018, archivo 24, §12].
 
 ## Distinciones importantes
 
@@ -83,9 +111,21 @@ Se relaciona con [[espíritu_santo]], [[iglesia]], [[vida_consagrada]], [[cristo
 
 [[cristocentrismo_legionario]], [[vida_consagrada]], [[espíritu_santo]], [[iglesia]], [[regnum_christi]]
 
+### Según el Capítulo General CapGral-2020 (Conferencia del P. Ghirlanda)
+
+La conferencia del P. Gianfranco Ghirlanda S.J. al Capítulo General de 2020 [CapGral-2020, Ghirlanda] ofrece una reflexión fundamental sobre la relación entre el carisma y el fundador.
+
+**El carisma pertenece al Espíritu.** Ghirlanda afirma que durante el proceso de renovación «la Legión se dio cuenta de que el carisma, como alma de la Legión, es un don del Espíritu hecho a la Iglesia. Ha entrado en la perspectiva correcta de que P. Maciel ha sido un instrumento del Espíritu para que este don sea participado por los demás» [CapGral-2020, Ghirlanda, §101]. El carisma pertenece al Espíritu, que continúa alimentándolo en la Iglesia a través de los miembros de la Legión.
+
+**Distancia del fundador.** Esta adquisición «fue de importancia fundamental porque permitió a la Legión aclararse a sí misma, en primer lugar, su identidad, tratando de redescubrirla no en referencia a la persona de P. Maciel, sino en relación con lo que durante más de setenta años ha vivido y desea seguir viviendo» [CapGral-2020, Ghirlanda, §101]. Esto permitió distanciarse de P. Maciel, considerándolo fundador histórico pero no fundador espiritual ni modelo espiritual. Ghirlanda advierte: «Sería realmente una desgracia, una causa de verdaderas divisiones en la Legión, el nostálgico regreso a la figura de P. Maciel para buscar en él y en sus escritos la delineación del carisma y la espiritualidad de la Legión» [CapGral-2020, Ghirlanda, §105].
+
+**Camino de humildad.** El Informe 1941-2019 sobre abusos fue una manifestación de madurez y coraje. Así como una persona adquiere madurez espiritual aceptando sus errores, «así también una institución» [CapGral-2020, Ghirlanda, §45]. Admitir esto abre el camino a la verdadera santidad, basada en la humildad y la confianza en la misericordia de Dios.
+
 ## Referencias
 
+- [CapExt-2014, Identidad carismática, nn. 1-13]
 - [CapGral-2026, nn. 1-5 (discurso del Papa), 36-40 (prefacio)]
+- [CapGral-2020, Ghirlanda, §§45, 101-105]
 - [León XIV, Discurso a los participantes en el Capítulo General de los Legionarios de Cristo, 19 de febrero de 2026]
 - [CLC-2020, 1, 2, 8, 14]
 - [CVV-2020, 46, 60, 610]

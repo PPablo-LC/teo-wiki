@@ -31,6 +31,16 @@ El clericalismo es presentado como:
 
 El Papa vincula explícitamente el clericalismo con el [[abuso_sexual_de_menores|abuso sexual]] al señalar que el abuso es siempre «resultado de un abuso de poder, una explotación de la inferioridad y vulnerabilidad del abusado, que posibilita la manipulación de su conciencia y de su debilidad psicológica y física» (PMI). El clericalismo, al exaltar desmesuradamente la figura del clérigo, crea las condiciones para que dicho abuso de poder no encuentre resistencia ni control.
 
+### Según las Asambleas Generales (Asambleas-RC-2018)
+
+El P. Gianfranco Ghirlanda S.J., en su intervención ante la Asamblea General del Regnum Christi de 2018, desarrolló una articulación del clericalismo que lo distingue de otras formas de abuso de autoridad. Citando al Papa Francisco, definió el clericalismo como «la corrupción del sacerdocio», aplicando además el principio agustiniano de que «la corrupción de lo mejor es lo peor» (*corruptio optimi pessima*). «Es una verdadera plaga», afirmó, y añadió que, por la misma lógica, también los laicos y consagrados que ejercen autoridad pueden caer en formas análogas de abuso: «si esto vale para el clero, esto vale también para las consagradas que mandan, para los laicos asociados que en nombre de la Federación asumen responsabilidades de dirección» [Asambleas-RC-2018, archivo 10, §3].
+
+Ghirlanda estableció una distinción terminológica precisa:
+- **Clericalismo**: corrupción propia del clero, que pervirtiendo el ministerio ordenado lo convierte en poder y privilegio en lugar de servicio
+- **Despotismo**: corrupción de quienes ejercen autoridad sin ser clérigos (consagradas, laicos) [Asambleas-RC-2018, archivo 10, §3]
+
+Ambas formas de abuso de autoridad comparten la misma raíz: la confusión entre el servicio y el poder, y la resistencia a la rendición de cuentas y a la sinodalidad. La Asamblea, al aplicar esta distinción a la realidad del Regnum Christi, reconoció que el clericalismo en la Legión y el despotismo en otras ramas son dos caras de un mismo problema que la Federación debe abordar institucionalmente.
+
 ## Necesidad de conversión
 
 La superación del clericalismo requiere:
