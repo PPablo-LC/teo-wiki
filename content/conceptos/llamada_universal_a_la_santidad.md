@@ -1,7 +1,7 @@
 # Llamada universal a la santidad
 
 > Área: Dogmática / Espiritualidad
-> Última actualización: 2026-06-10
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -28,6 +28,10 @@ Royo Marín expone extensamente la doctrina de la vocación universal a la santi
 Mons. Erik Varden recoge la llamada universal a la santidad en el capítulo 5, calificándola como «la nota más fuerte que tocó el Concilio Vaticano II», que «resonó espléndidamente como un gong a lo largo de sus deliberaciones». La pretensión cristiana de la verdad se vuelve convincente cuando su esplendor se hace personalmente evidente con amor sacrificial en la santidad.
 
 Cita al Cardenal Schuster en su lecho de muerte: «Parece que la gente ya no se deja convencer por nuestra predicación, pero ante la presencia de la santidad, todavía creen, todavía se arrodillan y rezan». La santidad es la forma más eficaz de comunicar la verdad del Evangelio.
+
+### Según León XIV (JorSant-2026)
+
+León XIV aplica la llamada universal a la santidad al estado sacerdotal en su mensaje por la Jornada de Santificación Sacerdotal. Partiendo de Lv 19,2 —«Sean santos, porque yo, el Señor su Dios, soy santo»— afirma que la santidad sacerdotal «no es una opción entre tantas ni un ideal abstracto; tiene que ver con la identidad misma de cada persona que quiere participar en la vida del Resucitado». El Papa reconoce la paradoja: el sacerdote está llamado a participar de la santidad de Dios, pero lleva «este tesoro en vasijas de barro» (2 Co 4,7). El camino es la unión del corazón imperfecto con el Corazón traspasado de Jesús, de modo que «ya no vivimos nosotros, sino que Cristo vive en nosotros» (Ga 2,20) [JorSant-2026, 12.06.2026].
 
 ## Distinciones importantes
 
@@ -56,3 +60,4 @@ Se relaciona con la [[santidad]], la [[perfección_cristiana]], la [[vocación]]
 - [TPCr, Segunda Parte, Cap. II; Tercera Parte]
 - [Concilio Vaticano II, Lumen Gentium, Cap. V]
 - [EjEsp2026, cap. 5: «El esplendor de la Verdad»]
+- [JorSant-2026, 12.06.2026]

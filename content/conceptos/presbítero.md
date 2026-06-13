@@ -1,7 +1,7 @@
 # Presbítero
 
 > Área: Sacramental / Eclesiología
-> Última actualización: 2026-06-10
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -33,6 +33,10 @@ El Pontifical Romano prescribe al presbítero: ofrecer, bendecir, presidir, pred
 
 León XIV llama a los presbíteros a ser «varones configurados con Cristo», cuyo ministerio se sostiene desde una relación viva con Él nutrida por la Eucaristía. El presbítero debe ser *alter Christus*, no definido por la multiplicación de tareas o la presión de los resultados, sino por el don sincero de sí. Mediante la imagen de la catedral, el Papa describe al presbítero como fachada (visible y remitente a Dios), umbral (separación necesaria por el celibato, pobreza y obediencia), columna (fundado en la Tradición apostólica y el Magisterio), y ministro del altar y el sagrario. Su vida está llamada a ser «visible, coherente y reconocible» [DC-Convivium, 09.02.2026].
 
+### Según León XIV (JorSant-2026)
+
+En su mensaje por la Jornada de Santificación Sacerdotal, León XIV se dirige a los presbíteros como «pastores según el corazón de Dios» (Jr 3,15), recordándoles que han sido «configurados con Cristo» en la Ordenación. Les exhorta a reavivar el don de la gracia «por medio de la celebración cotidiana de la Eucaristía, de la oración, de la meditación de la Palabra de Dios y del servicio humilde a los hermanos». Subraya la paradoja de su condición: «llevamos este tesoro en vasijas de barro» (2 Co 4,7), llamados a la santidad pero marcados por la fragilidad humana. La santidad del presbítero se manifiesta como cercanía humilde y valiente, como capacidad de mantener abierta la puerta del redil para que muchos puedan entrar y encontrar alimento y descanso (cf. Jn 10,9). Les recuerda la frase del santo Cura de Ars, que «el sacerdocio es el amor del corazón de Jesús», y les encomienda a la Virgen María, Madre de los sacerdotes [JorSant-2026, 12.06.2026].
+
 ### Según León XIV (L_XIV-ClerRom)
 
 En su diálogo con los presbíteros romanos, León XIV desarrolla la identidad del presbítero como amigo de Jesús que ofrece testimonio de una vida transformada por esa amistad. El sacerdote joven puede ofrecer a los jóvenes «un modelo de vida, que ser amigo de Jesús realmente puede llenar sus vidas», pero para ello debe vivir él mismo esa amistad. El Papa exhorta a los presbíteros a la fidelidad cotidiana en la relación con el Señor y a trabajar con entusiasmo «aun cuando ahora no vean los frutos del apostolado». Les advierte contra el riesgo de agotar las energías, acumular frustración y caer en la soledad, invitándolos a no encerrarse nunca en sí mismos y a confrontarse con hermanos de confianza. Subraya la importancia del estudio permanente —«el estudio en nuestra vida debe ser permanente, continuo»— y de la vida de oración como raíz de todo el ministerio [L_XIV-ClerRom, 19.02.2026].
@@ -57,3 +61,4 @@ En su diálogo con los presbíteros romanos, León XIV desarrolla la identidad d
 - CIC cc. 273, 276-289
 - [DC-Convivium, 09.02.2026]
 - [L_XIV-ClerRom, 19.02.2026]
+- [JorSant-2026, 12.06.2026]

@@ -1,7 +1,7 @@
 # Caridad pastoral
 
 > Área: Teología Pastoral / Moral
-> Última actualización: 2026-06-10
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -28,6 +28,10 @@ El MPPM de 26 marzo 2019 establece que «la tutela de los menores y de las perso
 ### Según el Discurso sobre Protección de Menores (PMI)
 
 El Papa Francisco, en su discurso conclusivo del Encuentro sobre la Protección de los Menores en la Iglesia (24 febrero 2019), afirmó que la Iglesia debe combatir el abuso «con la máxima seriedad», sin ocultar ningún caso. Subrayó que la caridad pastoral incluye la **purificación genuina** y la **acusación de sí mismos** como individuos e institución, así como el **acompañamiento de los que han sufrido abusos**, proporcionando todo el apoyo necesario. La escucha —«perder tiempo» en escuchar— es una forma eminente de caridad pastoral que sana a la persona herida y sana a los pastores de su egoísmo y alejamiento.
+
+### Según León XIV (JorSant-2026)
+
+En su mensaje para la Jornada de Santificación Sacerdotal, León XIV presenta la caridad pastoral desde la promesa de Jr 3,15: «Les daré pastores según mi corazón, que los apacentarán con ciencia y prudencia». El mundo necesita «pastores que no ofrezcan sólo palabras o programas, sino el testimonio vivo de un corazón reconciliado, difundiendo el buen olor de la santidad de Cristo». El Papa describe al sacerdote como «constructores de paz, testigos de la ternura del Buen Pastor, que sabe reunir al que está extraviado y sanar al que está herido». El celo pastoral no es agitación, sino «el desbordamiento de un amor que 'es éxtasis, es salida, es donación, es encuentro'» (Dilexit nos, 28). La caridad pastoral se concreta en la cercanía humilde y valiente, en «el ser de todos y para todos, manteniendo abierta la puerta del redil para que muchos puedan entrar y encontrar alimento y descanso» (cf. Jn 10,9) [JorSant-2026, 12.06.2026].
 
 ### Según León XIV (DC-Convivium)
 
@@ -63,4 +67,5 @@ León XIV describe la caridad pastoral como don sincero de sí, servicio concret
 - Discurso conclusivo del Encuentro sobre la Protección de los Menores en la Iglesia, 24 febrero 2019 (PMI)
 - Constitución Apostólica *Pascite Gregem Dei*, 23 mayo 2021 (PGD)
 - Conc. Ecum. Vat. II, Const. *Lumen Gentium*, 27
+- [JorSant-2026, 12.06.2026]
 - [DC-Convivium, 09.02.2026]

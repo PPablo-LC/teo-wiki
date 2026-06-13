@@ -1,7 +1,7 @@
 # Santidad
 
 > Área: Dogmática / Ascética
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -32,6 +32,12 @@ Lumen Gentium dedica el capítulo V a la «Universal vocación a la santidad en 
 El Señor Jesús predicó a todos sus discípulos «la santidad de vida, de la que El es iniciador y consumador»: «Sed, pues, vosotros perfectos, como vuestro Padre celestial es perfecto» [ConcVatII, LG §40, citando Mt 5,48]. Los fieles, justificados en Cristo y hechos por el [[bautismo]] verdaderos hijos de Dios y partícipes de la divina naturaleza, «son realmente santos» y deben conservar y perfeccionar en su vida la santificación recibida [ConcVatII, LG §40].
 
 «Es, pues, completamente claro que todos los fieles, de cualquier estado o condición, están llamados a la plenitud de la vida cristiana y a la perfección de la caridad» [ConcVatII, LG §40]. Esta santidad se cultiva en los múltiples géneros de vida y ocupaciones, cada uno según los dones y funciones que le son propios: pastores, presbíteros, esposos y padres cristianos, trabajadores, enfermos [ConcVatII, LG §41]. «El primero y más imprescindible don es la caridad», que rige todos los medios de santificación [ConcVatII, LG §42].
+### Según León XIV (JorSant-2026)
+
+En su mensaje a los sacerdotes para la Jornada por la Santificación Sacerdotal, León XIV desarrolla la santidad desde la llamada bíblica «Sean santos, porque yo, el Señor su Dios, soy santo» (Lv 19,2; 1 P 1,16). Afirma que la santidad «no es una opción entre tantas ni un ideal abstracto; tiene que ver con la identidad misma de cada persona que quiere participar en la vida del Resucitado». Dios invita a participar de su misma santidad dejándose modelar según su Corazón.
+
+El Papa presenta la gran paradoja de la vida sacerdotal: «estamos llamados a participar de la misma santidad de Dios, pero llevamos este tesoro en vasijas de barro» (2 Co 4,7). La santidad no se alcanza con esfuerzos aislados, sino que es «correspondencia a la gracia que nos precede, nos sostiene y nos transfigura». En la vida del sacerdote, «la oración, el ministerio, las relaciones, el cansancio, las alegrías y los fracasos, incluso el tiempo aparentemente perdido o el amor que parece malgastado, todo se vuelve un lugar privilegiado de la revelación de Dios» [JorSant-2026, 12.06.2026].
+
 ### Según Royo Marín (TPCr)
 
 Royo Marín dedica toda su obra a la perfección cristiana o santidad. La santidad consiste formalmente en la caridad: «La perfección cristiana consiste esencial y formalmente en la caridad» (Parte II, Cap. 2). Todas las demás virtudes y medios están ordenados a la caridad.
@@ -65,3 +71,4 @@ La santidad se funda en la [[gracia_santificante]], se expresa en las [[virtudes
 
 - [CEC §823-829]
 - [TPCr, Parte II, Cap. 2]
+- [JorSant-2026, 12.06.2026]

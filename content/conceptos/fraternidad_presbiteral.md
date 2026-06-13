@@ -1,7 +1,7 @@
 # Fraternidad presbiteral
 
 > Área: Eclesiología / Espiritualidad sacerdotal
-> Última actualización: 2026-06-10
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -16,6 +16,10 @@ La fraternidad presbiteral hunde sus raíces en el sacramento del Orden, que inc
 ### Según León XIV (DC-Convivium)
 
 El Papa describe la fraternidad presbiteral como «la experiencia concreta de saberse en casa, responsables unos de otros, atentos a la vida del hermano y dispuestos a sostenernos mutuamente». Mediante la imagen de la catedral como hogar común, subraya que la Iglesia está llamada a ser «una casa que acoge, que protege y que no abandona» especialmente para con sus sacerdotes. Exhorta a resistir unidos al individualismo: «¡resistid juntos al individualismo que empobrece el corazón y debilita la misión!» [DC-Convivium, 09.02.2026].
+
+### Según León XIV (JorSant-2026)
+
+En su mensaje para la Jornada por la Santificación Sacerdotal (2026), León XIV exhorta a los presbíteros al cuidado mutuo: «Cuiden la fraternidad sacerdotal: búsquense, escúchense, sosténganse». Advierte con claridad que «el sacerdote que se aísla, lentamente se apaga; el sacerdote que camina con los hermanos crece». Cita a san Agustín como fundamento patrístico: «¿Cómo evitaremos estar en tinieblas? Amando a los hermanos. ¿En qué se prueba que amamos la fraternidad? En que no rasgamos la unidad, en que mantenemos la caridad» (*Homilía sobre la Segunda Carta de San Juan a los Partos* II, 3) [JorSant-2026, 12.06.2026].
 
 ### Según León XIV (L_XIV-ClerRom)
 
@@ -41,3 +45,4 @@ Se relaciona con [[presbítero]], [[presbiterio]], [[caridad_pastoral]], [[obisp
 
 - [DC-Convivium, 09.02.2026]
 - [L_XIV-ClerRom, 19.02.2026]
+- [JorSant-2026, 12.06.2026]

@@ -1,7 +1,7 @@
 # León XIV
 
 > Área: Personas / Papas
-> Última actualización: 2026-06-10
+> Última actualización: 2026-06-12
 
 ## Contexto histórico
 
@@ -15,6 +15,7 @@ Primer papa nacido en Estados Unidos, primer pontífice de la Orden de San Agust
 - *Magnifica Humanitas*, primera encíclica (15 de mayo de 2026), sobre la custodia de la persona humana en el tiempo de la inteligencia artificial — constituye su enseñanza más extensa y el primer análisis magisterial completo del transhumanismo, la IA y el paradigma tecnocrático
 - Mensaje para la 100.ª Jornada Mundial de las Misiones (18 de enero de 2026)
 - Carta al Presbiterio de la Arquidiócesis de Madrid «Convivium» (9 de febrero de 2026), sobre la identidad sacerdotal, la secularización y la fraternidad presbiteral
+- Mensaje para la Jornada por la Santificación Sacerdotal (12 de junio de 2026), sobre la santidad sacerdotal y el Sagrado Corazón de Jesús
 
 ## Perspectivas por fuente
 
@@ -50,6 +51,24 @@ La *Magnífica Humanitas*, primera encíclica de León XIV (15 mayo 2026), const
 - Aplica la **DSI a la vida interna de la Iglesia** (sinodalidad, transparencia, corresponsabilidad) como examen de conciencia (§§86-89)
 - Desarrolla una **reflexión sobre la guerra y la IA**, denunciando la «cultura del poder» y relanzando la «civilización del amor» (§§182-227)
 - Concluye con un **itinerario espiritual** centrado en la Encarnación, la Eucaristía y el Magníficat como claves para vivir cristianamente la era digital (§§229-245)
+
+### Según el Mensaje para la Jornada de Santificación Sacerdotal (JorSant-2026)
+
+León XIV dirige un mensaje a los presbíteros del mundo en la Solemnidad del Sagrado Corazón de Jesús (12 de junio de 2026), desarrollando los siguientes ejes:
+
+1. **Llamada a la santidad**: «Sean santos, porque yo, el Señor su Dios, soy santo» (Lv 19,2). La santidad no es un ideal abstracto, sino que «tiene que ver con la identidad misma de cada persona que quiere participar en la vida del Resucitado».
+
+2. **Paradoja sacerdotal**: el sacerdote es llamado a participar de la santidad de Dios, pero lleva «este tesoro en vasijas de barro» (2 Co 4,7). La respuesta a esta tensión se halla en el costado abierto de Cristo.
+
+3. **Sagrado Corazón como fuente de santidad**: el Corazón traspasado de Jesús es «la imagen por excelencia del amor de Dios: un amor omnipotente precisamente porque es capaz de hacerse vulnerable, de cambiar el dolor en gracia, el sufrimiento en esperanza». Es el «lugar» en el que la santidad se muestra como proximidad y ternura.
+
+4. **Camino de unión**: la unión del corazón del sacerdote con el Corazón de Cristo se realiza sacramentalmente en la Eucaristía cotidiana, la oración, la meditación de la Palabra y el servicio humilde.
+
+5. **Fraternidad sacerdotal**: exhorta al cuidado mutuo —«búsquense, escúchense, sosténganse»— citando a san Agustín y advirtiendo que «el sacerdote que se aísla, lentamente se apaga; el sacerdote que camina con los hermanos crece».
+
+6. **El sacerdocio como amor del Corazón de Jesús**: recupera la célebre expresión del santo Cura de Ars, citada por Benedicto XVI en la carta del Año Sacerdotal.
+
+7. **María, Madre de los sacerdotes**: encomienda a todos los presbíteros a la Virgen María.
 
 ### Según la Carta a los sacerdotes de Madrid «Convivium» (DC-Convivium)
 
@@ -117,4 +136,5 @@ Mencionó explícitamente al Cardenal John Henry Newman y su poema *El sueño de
 - [LC‑2026, n. 77 (Mensaje Jornada Mundial de las Misiones 2026)]
 - [DC-Convivium, 09.02.2026]
 - [L_XIV-ClerRom, 19.02.2026]
+- [JorSant-2026, 12.06.2026]
 - [EjEsp2026, epílogo]

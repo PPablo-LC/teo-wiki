@@ -1,7 +1,7 @@
 # Configuración con Cristo
 
 > Área: Ascética / Dogmática
-> Última actualización: 2026-05-21
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -28,6 +28,10 @@ La configuración con Cristo es inseparable de la devoción a la Santísima Virg
 
 [TPCr, Parte I, Cap. 4]
 
+### Según León XIV (JorSant-2026)
+
+León XIV, en su mensaje a los sacerdotes para la Jornada de Santificación Sacerdotal, recuerda que «en la Ordenación hemos sido configurados con Cristo». Esta configuración no es estática: «es necesario reavivar siempre en nosotros el don de la gracia por medio de la celebración cotidiana de la Eucaristía, de la oración, de la meditación de la Palabra de Dios y del servicio humilde». El fin de esta configuración es llegar a la identificación paulina: «Ya no vivimos nosotros, sino que Cristo vive en nosotros» (Ga 2,20), que el Papa presenta como meta del camino de santidad sacerdotal [JorSant-2026, 12.06.2026].
+
 ## Distinciones importantes
 
 - **Imitación de Cristo**: ejercicio ascético de reproducir las virtudes de Cristo por esfuerzo propio.
@@ -49,3 +53,4 @@ La configuración con Cristo es el medio para alcanzar la [[perfección_cristian
 ## Referencias
 
 - [TPCr, Parte I, Cap. 4]
+- [JorSant-2026, 12.06.2026]

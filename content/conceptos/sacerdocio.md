@@ -32,6 +32,10 @@ En el NT, Cristo es el único sumo sacerdote según el orden de Melquisedec (Heb
 
 Royo Marín trata el sacerdocio en el contexto del estado de perfección (Parte III, Libro III). El sacerdote está especialmente obligado a tender a la perfección cristiana por la excelsa dignidad de sus funciones. Santo Tomás afirma que el sacerdote necesita una santidad más alta que el simple religioso no sacerdote. La gracia sacramental del orden confiere una fuerza especial para ejercer las funciones ministeriales y el derecho a los auxilios actuales necesarios (Parte III, Libro II, Cap. 1).
 
+### Según León XIV (JorSant-2026)
+
+León XIV, en su mensaje por la Jornada de Santificación Sacerdotal (2026), desarrolla el sacerdocio desde la paradoja paulina del tesoro en vasijas de barro (2 Co 4,7). El sacerdote está llamado a participar de la santidad de Dios, pero es frágil y limitado. La respuesta a esta tensión se halla «en el costado abierto del Señor Jesús». El sacerdote encuentra su camino de santidad en la unión de su corazón imperfecto con el Corazón traspasado de Jesús, de modo que «ya no vivimos nosotros, sino que Cristo vive en nosotros» (Ga 2,20). Recuerda la célebre expresión del santo Cura de Ars —«el sacerdocio es el amor del corazón de Jesús»— citada por Benedicto XVI en la carta de convocación del Año Sacerdotal [JorSant-2026, 12.06.2026].
+
 ### Según León XIV (DC-Convivium)
 
 León XIV desarrolla el sacerdocio mediante la imagen de la catedral. El sacerdote, como la fachada, no vive para exhibirse ni para esconderse; su vida «está llamada a ser visible, coherente y reconocible», remitiendo siempre a Dios sin usurpar su lugar. El umbral marca una separación necesaria: estar en el mundo sin ser del mundo (Jn 17,14). Allí se sitúan el celibato, la pobreza y la obediencia, «no como negación de la vida, sino como la forma concreta que permite al sacerdote pertenecer enteramente a Dios sin dejar de caminar entre los hombres». Las columnas son el fundamento apostólico recibido en la Tradición y el Magisterio. El sacerdote «no es nunca fin en sí mismo». En el altar se actualiza el sacrificio de Cristo; en el sagrario permanece Aquel que se ha ofrecido. El sacerdote vive como *alter Christus*, configurado con Cristo, desde una relación viva con Él nutrida por la Eucaristía [DC-Convivium, 09.02.2026].
@@ -79,4 +83,5 @@ Se relaciona con [[orden_sacerdotal]], [[obispo]], [[presbítero]], [[diácono]]
 - CIC cc. 1008-1054 (Libro III)
 - [DC-Convivium, 09.02.2026]
 - [L_XIV-ClerRom, 19.02.2026]
+- [JorSant-2026, 12.06.2026]
 - SmTh IIIª q.22 aa.1-6

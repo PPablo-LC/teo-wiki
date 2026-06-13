@@ -1,7 +1,7 @@
 # Sagrado Corazón de Jesús
 
 > Área: Dogmática / Espiritualidad
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -25,6 +25,14 @@ Los Nueve Primeros Viernes de mes, prometidos a Santa Margarita María, son un m
 
 Loring recomienda tener una imagen del Sagrado Corazón en casa y consagrar la familia al Sagrado Corazón, pues Él ha prometido bendecir las casas donde su imagen sea expuesta y honrada [PS §34,3].
 
+### Según León XIV (JorSant-2026)
+
+León XIV, en su mensaje a los sacerdotes con motivo de la Jornada por la Santificación Sacerdotal (Solemnidad del Sagrado Corazón, 2026), presenta el Corazón traspasado de Jesús como fuente inagotable de paz y unidad para todo el género humano. El Sagrado Corazón es «la imagen por excelencia del amor de Dios: un amor omnipotente precisamente porque es capaz de hacerse vulnerable, de cambiar el dolor en gracia, el sufrimiento en esperanza».
+
+El Papa desarrolla una teología de la santidad desde el costado abierto del Crucificado: «El apóstol Juan nos hace contemplar el costado abierto del Crucificado (Jn 19,34), donde Dios nos muestra definitivamente cómo Él es santo: no en la distancia inaccesible de una perfección separada, sino en un amor que se entrega hasta hacerse herir y que puede, por tanto, ser manantial de misericordia y de vida». Ese Corazón bendito es «el 'lugar' en el que la santidad se muestra como proximidad y ternura».
+
+La respuesta a la santidad no está tanto en el esfuerzo ascético, sino «en la adhesión confiada al amor revelado en el Corazón traspasado de Jesús». La unión del corazón del sacerdote con el Corazón de Cristo no es experiencia reservada a unos pocos, sino un camino sacramental y eucarístico que se realiza en lo cotidiano [JorSant-2026, 12.06.2026].
+
 ## Relaciones doctrinales
 
 La devoción al Sagrado Corazón se relaciona con el [[amor]] divino manifestado en la [[redención]], la [[eucaristía]] como permanencia del amor de Cristo, la [[reparación]] por los pecados, y la [[vida_espiritual]] como respuesta al amor de Dios. Se vincula también con el [[apostolado]] del Apostolado de la Oración.
@@ -41,3 +49,4 @@ La devoción al Sagrado Corazón se relaciona con el [[amor]] divino manifestado
 
 - [PS §34]
 - [CEC §477]
+- [JorSant-2026, 12.06.2026]
