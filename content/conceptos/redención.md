@@ -27,9 +27,31 @@ La muerte redentora de Cristo no fue fruto del azar sino del determinado designi
 
 **IIIª q.1 a.3 — Motivo principal:** La Encarnación fue ordenada principalmente a redimir al hombre del pecado, según el testimonio de la Escritura («el Hijo del hombre vino a buscar y salvar lo que se había perdido», Lc 19,10). Si el hombre no hubiera pecado, el Hijo no se habría encarnado.
 
-**IIIª q.48 — Cristo satisfizo por nuestros pecados:** Cristo, en cuanto Dios, dio valor infinito a su satisfacción; en cuanto hombre, padeció como cabeza de la humanidad, ofreciendo la reparación en nombre de todos los hombres. Su pasión fue satisfacción superabundante por todos los pecados del mundo.
+**IIIª q.48 a.1 (Mérito de la pasión):** Cristo, como cabeza de la Iglesia, mereció con su pasión la salvación para todos sus miembros (q.48 a.1 in corpore).
+
+**IIIª q.48 a.2 (Satisfacción):** Cristo ofreció una satisfacción suficiente y superabundante por todos los pecados del mundo, fundada en la grandeza de su caridad, la dignidad de su vida divino-humana y la universalidad de su pasión (q.48 a.2 in corpore).
+
+**IIIª q.48 a.4 (Redención propiamente dicha):** El hombre estaba encadenado por doble esclavitud: la del pecado (Jn 8,34) y la del reato de la pena. La pasión de Cristo fue satisfacción suficiente y superabundante que sirvió como precio de liberación de ambas. Cristo no pagó precio al diablo sino a Dios, pues la redención se debía a Dios, no al diablo. La satisfacción que alguien ofrece se llama precio con que se redime del pecado (Dan 4,24). El hombre, por el pecado, había ofendido a Dios y se había sometido al diablo; por la pasión, Cristo satisfizo a Dios, y en cuanto al diablo, fue justo que perdiese su dominio porque había excedido su poder al matar a Cristo inocente (q.48 a.4 in corpore et ad 2).
+
+**IIIª q.48 a.5 (Instrumentalidad de la humanidad de Cristo en la redención):** Ser redentor inmediato es propio de Cristo en cuanto hombre. Para redimir se requieren dos cosas: el acto de la redención y el pago del precio. Ambos pertenecen inmediatamente a Cristo en cuanto hombre; a toda la Trinidad como causa primera y remota (q.48 a.5 in corpore). Los sufrimientos de los santos son provechosos a modo de exhortación y ejemplo, no de redención (q.48 a.5 ad 3).
+
+**IIIª q.48 a.6 (Eficiencia instrumental):** La humanidad de Cristo es instrumento de la divinidad. Por eso todas sus acciones y sufrimientos obran instrumentalmente la salvación humana en virtud de la divinidad. La pasión de Cristo, aunque corporal, tiene poder espiritual por su unión con la divinidad, y alcanza eficacia por contacto espiritual: la fe y los sacramentos (q.48 a.6 in corpore et ad 2).
 
 **IIIª q.6 a.4 — Predestinación de Cristo:** Cristo fue predestinado para ser Hijo de Dios y para ser redentor del género humano. Su predestinación es la misma que la nuestra en cuanto a la gracia, pero diversa en cuanto al término (Él es el predestinado por excelencia).
+
+**IIIª q.49 — Efectos de la pasión**
+
+**q.49 a.1 (Liberación del pecado):** La pasión causa la remisión de los pecados de tres modos: 1) excitando a la caridad; 2) por vía de redención, como cabeza respecto a los miembros; 3) por vía de eficiencia instrumental. Es causa universal, aplicada mediante los sacramentos (q.49 a.1 in corpore).
+
+**q.49 a.2 (Liberación del poder del diablo):** Por la remisión de los pecados, por la reconciliación con Dios, y porque el diablo excedió su poder al matar a Cristo inocente (q.49 a.2 in corpore).
+
+**q.49 a.3 (Liberación de la pena):** Directamente, como satisfacción suficiente y superabundante. Indirectamente, como causa de la remisión del pecado. Los bautizados quedan libres de toda pena satisfactoria; los que pecan después deben configurarse con Cristo paciente (q.49 a.3 in corpore et ad 2).
+
+**q.49 a.4 (Reconciliación con Dios):** Quitando el pecado y como sacrificio gratísimo a Dios (q.49 a.4 in corpore).
+
+**q.49 a.5 (Apertura del cielo):** La pasión nos abrió las puertas del cielo al librarnos del pecado original y de los pecados personales (q.49 a.5 in corpore).
+
+**q.49 a.6 (Exaltación de Cristo):** Cristo mereció por su pasión ser exaltado en cuatro aspectos: resurrección gloriosa, ascensión al cielo, sesión a la derecha del Padre con manifestación de su divinidad, y potestad de juzgar (q.49 a.6 in corpore).
 
 ### Según Para Salvarte (PS)
 
@@ -49,4 +71,4 @@ Para Salvarte presenta la Redención como el rescate del género humano por la s
 - [CEC §599-605, designio divino]
 - [CEC §606-618, ofrenda y sacrificio]
 - [PS §33-34]
-- SmTh IIIª q.1 aa.1-3; q.48 aa.1-6; q.6 a.4
+- SmTh IIIª q.1 aa.1-3; q.48 aa.1-6; q.49 aa.1-6; q.6 a.4
