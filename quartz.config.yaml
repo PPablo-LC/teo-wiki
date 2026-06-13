@@ -97,21 +97,21 @@ plugins:
       renderEngine: katex
     order: 80
   - source: github:quartz-community/citations
-    enabled: true
+    enabled: false
     order: 85
   - source: github:quartz-community/hard-line-breaks
     enabled: true
     order: 90
   - source: github:quartz-community/ox-hugo
-    enabled: true
+    enabled: false
     order: 91
   - source: github:quartz-community/roam
-    enabled: true
+    enabled: false
     order: 92
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
-    enabled: true
+    enabled: false
   - source: github:quartz-community/unlisted-pages
     enabled: true
     options: {}
@@ -124,7 +124,7 @@ plugins:
       unlistWhenEncrypted: false
       outputPath: static/encryptedContentIndex.json
   - source: github:quartz-community/stacked-pages
-    enabled: true
+    enabled: false
     layout:
       position: afterBody
       priority: 50
@@ -184,7 +184,7 @@ plugins:
       position: beforeBody
       priority: 20
   - source: github:quartz-community/tag-list
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 30
@@ -212,7 +212,7 @@ plugins:
       priority: 5
       condition: not-index
   - source: github:quartz-community/comments
-    enabled: true
+    enabled: false
     options:
       provider: giscus
       options: {}
@@ -226,7 +226,7 @@ plugins:
         GitHub: https://github.com/jackyzha0/quartz
         Discord Community: https://discord.gg/cRFFHYye7t
   - source: github:quartz-community/recent-notes
-    enabled: true
+    enabled: false
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
