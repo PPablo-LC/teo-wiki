@@ -1,7 +1,7 @@
 # Ascensión de Cristo
 
 > Área: Cristología / Liturgia
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -16,6 +16,18 @@ La Ascensión concluye la obra de la [[redención]] y es el punto de partida de 
 ### Según el Catecismo (CEC)
 
 La Ascensión marca la entrada definitiva de la humanidad de Cristo en el dominio celeste de Dios (CEC §659). Cristo, Cabeza de la Iglesia, precede a los suyos en el Reino del Padre (CEC §660). Sentado a la derecha del Padre, ejerce su sacerdocio eterno como único Mediador (CEC §662-663). La Ascensión abre a los hombres el acceso a la comunión trinitaria (CEC §665). La ausencia visible de Cristo es misterio de su presencia invisible y prepara la venida del Espíritu Santo (CEC §666-667). El CEC cita Hb 9,24: «Cristo entró en el cielo mismo, para presentarse ahora ante Dios por nosotros».
+
+### Según la Summa Theologiae (SmTh)
+
+Tomás de Aquino dedica la cuestión 57 de la IIIª Pars a la ascensión de Cristo, en seis artículos.
+
+**Conveniencia de la ascensión (q.57 a.1).** Cristo resucitado inició una vida inmortal e incorruptible, por lo que era conveniente que no permaneciera en la tierra —lugar de generación y corrupción— sino que subiera al cielo, lugar de incorrupción. Se difirió cuarenta días (a.1 ad 4) para confirmar la verdad de su resurrección. La ascensión nos fue útil para la fe (las cosas que no se ven), para la esperanza (Cristo nos precedió al cielo), y para la caridad (elevando nuestro afecto hacia los bienes celestes y preparando la venida del Espíritu Santo).
+
+**Medio de la ascensión: propio poder (a.2-3).** En cuanto a la condición del que asciende, la ascensión compete a Cristo según la naturaleza humana, no según la divina, pues es movimiento local. En cuanto a la causa, ascendió por virtud divina. Ascendió por su propio poder (a.3): por la virtud divina como causa primera, y por la virtud de su alma glorificada, que mueve el cuerpo glorioso donde el espíritu quiere.
+
+**Lugar de la ascensión (a.4-5).** Ascendió por encima de todos los cielos corpóreos (a.4): el cuerpo de Cristo, por su gloria, supera en dignidad a todos los cuerpos naturales. Ascendió también por encima de toda criatura espiritual (a.5): no por condición de su naturaleza corporal, sino por la dignidad de la unión hipostática, que excede a toda sustancia espiritual.
+
+**Causa de nuestra salvación (a.6).** La ascensión es causa de nuestra salvación de dos modos. Por parte nuestra: polarizando nuestro espíritu en Cristo (fe, esperanza, caridad, reverencia). Por parte de Cristo: (1) preparándonos el camino al cielo como cabeza que precede a los miembros; (2) intercediendo por nosotros al presentar su humanidad glorificada ante el Padre; (3) enviando los dones divinos desde el cielo, especialmente el Espíritu Santo. La ascensión causa nuestra salvación no a modo de mérito sino por vía de eficiencia.
 
 ### Según Royo Marín (TPCr)
 

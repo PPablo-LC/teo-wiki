@@ -1,7 +1,7 @@
 # Resurrección de Cristo
 
 > Área: Cristología / Dogmática
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-12
 
 ## Definición
 
@@ -16,6 +16,48 @@ La Resurrección de Cristo es un acontecimiento real históricamente comprobado 
 ### Según el Catecismo (CEC)
 
 La Resurrección de Cristo es un acontecimiento real con manifestaciones históricamente comprobadas (CEC §639). No fue un retorno a la vida terrena ordinaria, como las resurrecciones anteriores de Jesús, sino el paso a la vida gloriosa más allá del tiempo y del espacio (CEC §646). Es obra de las tres Personas divinas (CEC §648). Es cumplimiento de las promesas del Antiguo Testamento (CEC §652). Confirma la divinidad de Jesús (CEC §653). Es principio y fuente de nuestra resurrección futura (CEC §655). Cristo resucitado establece con sus discípulos relaciones directas mediante el tacto y la comida (CEC §645). La Resurrección está estrechamente unida al misterio de la Encarnación (CEC §654).
+
+### Según la Summa Theologiae (SmTh)
+
+#### IIIª q.53 — La resurrección de Cristo
+
+**IIIª q.53 a.1 — Necesidad de la resurrección.** Cristo debió resucitar por cinco motivos: (1) para recomendación de la justicia divina, que exalta a los humildes (Lc 1,52); (2) para instrucción de nuestra fe, confirmando su divinidad (1 Cor 15,14); (3) para levantar nuestra esperanza, pues siendo Él nuestra cabeza, esperamos que también nosotros resucitaremos (1 Cor 15,12); (4) para instrucción de la vida de los fieles, llamados a andar en vida nueva (Rom 6,4); (5) para complemento de nuestra salvación, pues resucitó para nuestra justificación (Rom 4,25).
+
+**IIIª q.53 a.2 — Tiempo de la resurrección (tercer día).** Fue conveniente que resucitase al tercer día: no inmediatamente (para evitar duda sobre la realidad de su muerte) ni al fin del mundo (para confirmar la fe en su divinidad). El intervalo del tercer día basta para verificar la muerte real. Místicamente significa la perfección del ternario (principio, medio y fin), la destrucción de nuestras dos muertes (cuerpo y alma), y el comienzo de la tercera era, la de la gracia.
+
+**IIIª q.53 a.3 — Cristo, primero en resucitar.** Distingue dos modos de resurrección: la imperfecta (vuelta a la vida mortal, como Lázaro) y la perfecta (vida inmortal). Cristo es el primero en resurrección perfecta, pues resucitó para no morir jamás (Rom 6,9). Los que resucitaron antes (Elías, Eliseo, el mismo Cristo antes de la pasión) lo hicieron a vida mortal.
+
+**IIIª q.53 a.4 — Cristo resucitó por su propio poder.** La divinidad nunca se separó ni del alma ni del cuerpo de Cristo. Según el poder de la divinidad, tanto el cuerpo reasumió el alma como el alma reasumió el cuerpo (cf. Jn 10,17-18). Considerados según su naturaleza creada, necesitaron ser reunidos por Dios.
+
+#### IIIª q.54 — Cualidades del resucitado
+
+**IIIª q.54 a.1 — Verdadero cuerpo.** Cristo tuvo verdadero cuerpo, no fantástico (Lc 24,39: «Palpad y ved»). Entró con las puertas cerradas no por propiedad natural del cuerpo glorioso sino por el poder de la divinidad unida (milagro). Desaparecía de la vista por su voluntad, no por corrupción. Se apareció en otra figura no por cambio de naturaleza sino por la gloria recibida.
+
+**IIIª q.54 a.2 — Cuerpo glorioso.** Tres motivos: (a) su resurrección es ejemplar y causa de la nuestra (1 Cor 15,43); (b) mereció la gloria por la humillación de la pasión (Jn 12,27-28); (c) el alma de Cristo, gloriosa desde la concepción, comunicó la gloria al cuerpo en la resurrección. Propiedades: incorruptible (la gloria del alma impide la corrupción), palpable (conservó las cualidades tangibles), comió por poder no por necesidad (Agustín: «no porque tuviese necesidad de alimentos, sino por el poder que para esto tenía»).
+
+**IIIª q.54 a.3 — Integridad del cuerpo.** Resucitó con toda la integridad del cuerpo humano: carne, huesos, sangre y todas las partes (Lc 24,39). Sin disminución alguna, porque de otro modo la resurrección no sería perfecta. La sangre que fluyó del costado resucitó con Él; las reliquias de sangre provienen de imágenes milagrosas. Se condena el error de Eutiques, que sostenía un cuerpo impalpable y más sutil que el viento.
+
+**IIIª q.54 a.4 — Las cicatrices.** Conservó las cicatrices por cinco razones: (1) gloria de Cristo, como trofeo de su victoria (Beda: «llevar siempre los honores del triunfo»); (2) confirmación de la fe de los discípulos; (3) para mostrar al Padre, al interceder, la clase de muerte que sufrió; (4) para que los redimidos reconozcan su misericordia; (5) para condenación de los réprobos en el juicio (Agustín: «He aquí el hombre a quien crucificasteis»). Las heridas no implican corrupción sino especial hermosura. Permanecerán eternamente en su cuerpo glorioso.
+
+#### IIIª q.55 — Manifestaciones de la resurrección
+
+**IIIª q.55 a.1 — A quiénes se manifestó.** No a todo el pueblo, sino a testigos escogidos (Act 10,40-41). Las cosas de la gloria futura exceden el conocimiento común y se revelan por testimonio jerárquico. Las mujeres fueron las primeras: la que trajo la muerte fue la primera en anunciar la resurrección.
+
+**IIIª q.55 a.2 — No vieron el acto mismo de resucitar.** Los discípulos no vieron a Cristo resucitar porque el acto mismo trasciende el conocimiento humano (vuelta del alma de los infiernos y salida del cuerpo del sepulcro cerrado). Fue revelado por los ángeles. Vieron a Cristo ya resucitado.
+
+**IIIª q.55 a.3 — No vivió continuamente con ellos.** Se apareció varias veces durante 40 días (Act 1,3), pero no continuamente, para mostrar que no resucitó a vida igual a la mortal sino a vida gloriosa. Las apariciones bastan para probar la verdad de la resurrección; la presencia continua habría inducido a error.
+
+**IIIª q.55 a.4 — Otra figura.** Se apareció bajo otra figura a los de ánimo tibio (discípulos de Emaús, Mc 16,12), acomodándose a su disposición interior. Gregorio: «se les manifestó en el cuerpo tal como estaba en su mente». No fue engaño sino figura significativa (Agustín: «no todo lo que fingimos es mentira»).
+
+**IIIª q.55 a.5 — Argumentos.** No usó argumentos racionales demostrativos (que anularían el mérito de la fe), sino señales evidentes (tekmerion) para manifestar la verdad: autoridad de la Escritura (Lc 24,44ss), las llagas, comer y beber, hablar. Tomás vio las llagas y creyó la divinidad — «vio una cosa y creyó otra».
+
+**IIIª q.55 a.6 — Suficiencia de los argumentos.** Fueron suficientes para probar la resurrección verdadera y gloriosa. Por parte del cuerpo: verdadero (palpable), humano (figura vista), numéricamente el mismo (llagas). Por parte del alma: vida nutritiva (comió), sensitiva (vio, oyó), intelectiva (habló, explicó las Escrituras). También la divinidad (milagro de los peces, ascensión). Y la gloria: entró con puertas cerradas, desapareció de su vista.
+
+#### IIIª q.56 — Causalidad de la resurrección
+
+**IIIª q.56 a.1 — Causa de la resurrección de los cuerpos.** Cristo es «primicias de los que duermen» (1 Cor 15,20). Su resurrección es causa de la nuestra de dos modos: (a) causa eficiente instrumental — la humanidad de Cristo resucitado es instrumento de la divinidad, y la virtud divina, que da vida a los muertos, alcanza todos los lugares y tiempos; (b) causa ejemplar — debemos configurarnos con su cuerpo glorioso (Flp 3,21). Como eficiente, se extiende a buenos y malos (todos resucitarán); como ejemplar, solo a los buenos (los configurados con Cristo).
+
+**IIIª q.56 a.2 — Causa de la resurrección de las almas.** También es causa de la justificación (resurrección del alma). Por virtud divina, la resurrección de Cristo obra la vida del alma por la gracia. Por ejemplaridad: «así como Cristo resucitó de entre los muertos, así también nosotros andemos en una vida nueva» (Rom 6,4). La pasión es causa de la remisión de la culpa (morir al pecado); la resurrección, de la novedad de vida (vivir para Dios). Cristo no justifica a todos (solo a los que creen), pero resucitará a todos los cuerpos para juicio o premio.
 
 ### Según Royo Marín (TPCr)
 
@@ -40,6 +82,10 @@ Para Salvarte llama a la Resurrección «el dogma fundamental del cristianismo»
 
 - CEC §638-655
 - CEC §645-648, §652-655
+- SmTh IIIª q.53 a.1-4
+- SmTh IIIª q.54 a.1-4
+- SmTh IIIª q.55 a.1-6
+- SmTh IIIª q.56 a.1-2
 - TPCr, Tercera Parte, Libro II, cap. I
 - TPCr, Primera Parte
 - [PS §35]
