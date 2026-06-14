@@ -1,7 +1,7 @@
 # Sacramentos
 
 > Área: Sacramental
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-14
 
 ## Definición
 
@@ -119,6 +119,22 @@ Lumen Gentium presenta los [[sacramentos]] como medios por los cuales la vida de
 Los fieles, incorporados a la Iglesia por el [[bautismo]], quedan destinados por el carácter al culto de la religión cristiana. Por la [[confirmación]] se vinculan más estrechamente a la Iglesia y se enriquecen con una fuerza especial del Espíritu Santo. El sacrificio eucarístico es «fuente y cumbre de toda la vida cristiana» [ConcVatII, LG §11]. La [[penitencia]] reconcilia con Dios y con la Iglesia. La [[unción_de_los_enfermos]] encomienda los enfermos al Señor. El [[sacramento_del_orden]] sella a los que son destinados a apacentar la Iglesia. El [[matrimonio]] significa y participa el misterio de unidad entre Cristo y la Iglesia [ConcVatII, LG §11].
 
 Los Obispos, administradores de la gracia del supremo sacerdocio, regulan la administración legítima y fructuosa de los sacramentos [ConcVatII, LG §26].
+
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás dedica las cuestiones 60–65 de la IIIa Pars a los sacramentos en general.
+
+**Definición (q.60):** El sacramento es un signo de una realidad sagrada que santifica a los hombres (q.60 a.2). Es signo conmemorativo de la pasión de Cristo, manifestativo de la gracia y profético de la gloria futura (q.60 a.3). Requiere cosas sensibles determinadas por institución divina (q.60 a.4-5). Las palabras, que actúan como forma respecto de la materia sensible, determinan la significación sacramental (q.60 a.6-7).
+
+**Necesidad (q.61):** Los sacramentos son necesarios para la salvación por la condición del hombre, por su estado caído y para evitar la superstición (q.61 a.1). No eran necesarios en el estado de inocencia (q.61 a.2); fueron necesarios antes de Cristo como signos de fe en el Salvador futuro (q.61 a.3); después de Cristo lo son como signos de la gracia presente (q.61 a.4).
+
+**Efectos (q.62–63):** Los sacramentos causan la gracia como causas instrumentales: no por virtud propia, sino en cuanto movidos por Dios como agente principal (q.62 a.1). La gracia sacramental añade a la gracia común de las virtudes y dones un auxilio divino para la finalidad específica de cada sacramento (q.62 a.2). Los sacramentos de la nueva ley reciben su virtud especialmente de la pasión de Cristo (q.62 a.5). Los sacramentos de la antigua ley no causaban la gracia por sí mismos, sino que significaban la fe que justificaba (q.62 a.6).
+
+Tres sacramentos —bautismo, confirmación y orden— imprimen carácter, que es una participación del sacerdocio de Cristo, un sello espiritual e indeleble que depura al culto divino (q.63 a.1, 3, 5). El carácter es una potestad espiritual instrumental que reside en la potencia cognoscitiva del alma (q.63 a.2, 4).
+
+**Causas (q.64):** Sólo Dios produce el efecto interior del sacramento como causa principal; el ministro actúa como instrumento (q.64 a.1). Sólo Dios puede instituir sacramentos (q.64 a.2). Cristo, en cuanto hombre, tiene sobre los sacramentos un poder de excelencia fundado en el mérito de su pasión, la invocación de su nombre, la institución y la capacidad de producir su efecto sin el rito externo (q.64 a.3). Los malos ministros pueden conferir válidamente los sacramentos porque actúan como instrumentos, aunque pecan al administrarlos indignamente (q.64 a.5-6). Se requiere la intención del ministro para determinar la acción sacramental (q.64 a.8), pero no se requiere su fe ni su rectitud moral (q.64 a.9-10).
+
+**Número (q.65):** Los sacramentos son siete, en analogía con la vida corporal: bautismo (generación espiritual), confirmación (crecimiento), eucaristía (nutrición), penitencia (curación), unción de los enfermos (restauración), orden (gobierno de la comunidad) y matrimonio (procreación) (q.65 a.1). La eucaristía es el más importante de todos porque contiene realmente a Cristo (q.65 a.3). Tres sacramentos son absolutamente necesarios: bautismo (para el individuo), penitencia (supuesto el pecado mortal) y orden (para la Iglesia) (q.65 a.4).
 
 ### Según Royo Marín (TPCr)
 

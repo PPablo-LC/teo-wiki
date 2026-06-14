@@ -1,7 +1,7 @@
 # Carácter Sacramental
 
 > Área: Sacramental
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-14
 
 ## Definición
 
@@ -28,6 +28,18 @@ Royo Marín expone la doctrina del carácter sacramental en la Tercera Parte, Li
 El carácter sacramental dispone al alma para recibir las gracias actuales correspondientes al estado cristiano. Aunque el pecado mortal destruye la gracia santificante, el carácter permanece como título para recibir de nuevo la gracia mediante la penitencia.
 
 [TPCr, Parte III, Libro II, Cap. 1]
+
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás dedica la cuestión 63 de la IIIa Pars al carácter como segundo efecto de los sacramentos.
+
+Los sacramentos de la nueva ley, además de remediar el pecado, deputan a los fieles al culto divino, y para ello imprimen un carácter o sello espiritual en el alma (III, q.63 a.1). Este carácter es una potestad espiritual instrumental que capacita al alma para recibir o transmitir las cosas pertenecientes al culto de Dios (III, q.63 a.2). No es un hábito (porque es indiferente al bien o al mal), sino una potencia que se reduce a la segunda especie de la categoría cualidad (III, q.63 a.2).
+
+El carácter sacramental es específicamente el carácter de Cristo, una participación de su sacerdocio eterno. Los fieles son configurados con Cristo Sacerdote por estos caracteres (III, q.63 a.3). Reside en la potencia cognoscitiva del alma, donde reside la fe, porque el culto divino es una profesión de fe manifestada exteriormente (III, q.63 a.4 ad 3).
+
+El carácter es indeleble porque es una participación del sacerdocio eterno de Cristo, y porque el entendimiento, que es su sujeto, es perpetuo e incorruptible (III, q.63 a.5). Permanece en los bienaventurados para su gloria y en los condenados para su ignominia (III, q.63 a.5 ad 3).
+
+Sólo tres sacramentos imprimen carácter: bautismo (deputa a recibir los demás sacramentos), confirmación (dispone para el culto divino) y orden (capacita para administrar los sacramentos). La eucaristía, aunque es el mayor sacramento, no imprime carácter porque no depura a una función ulterior, sino que es el fin y consumación de todos los sacramentos (III, q.63 a.6).
 
 ## Distinciones importantes
 
