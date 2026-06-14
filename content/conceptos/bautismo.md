@@ -128,6 +128,30 @@ Cristo fue bautizado no para ser purificado, sino para purificar las aguas, sant
 
 En el bautismo de Cristo se manifestaron los elementos que pertenecen a la eficacia del bautismo cristiano: se abrieron los cielos para mostrar que la virtud celestial santifica el bautismo, que por la fe se contemplan las realidades celestiales, y que por el bautismo se abre la entrada del reino (a.5). El Espíritu Santo descendió en forma de paloma, significando la sencillez, los siete dones del Espíritu Santo, la reconciliación y la unidad de la Iglesia (a.6). La paloma fue un animal verdadero, no fantástico, pues el Espíritu de Verdad no podía servirse de ficción (a.7). Se oyó la voz del Padre dando testimonio del Hijo, para manifestar el misterio de la Trinidad, en cuyo nombre se administra el bautismo cristiano (a.8).
 
+#### IIIª q.66 — El sacramento del bautismo en sí mismo
+
+El bautismo no consiste en el agua, sino en la ablución: el *sacramentum tantum* es la ablución exterior; la *res et sacramentum* es el carácter bautismal; la *res tantum* es la justificación interior (q.66 a.1). Fue instituido en el bautismo de Cristo, cuando las aguas recibieron poder santificante; la obligación de recibirlo se impuso después de la pasión y resurrección (a.2). La materia propia es el agua natural, por su conveniencia para purificar, mitigar la concupiscencia, significar la sepultura de Cristo y por ser común y abundante (a.3). Se requiere agua verdadera —no alterada hasta perder su naturaleza— (a.4). La forma es: *Yo te bautizo en el nombre del Padre y del Hijo y del Espíritu Santo*, pues debe mencionarse al ministro y a la Trinidad, causa principal (a.5); no vale bautizar solo en nombre de Cristo (a.6). La inmersión no es indispensable: basta la aspersión o infusión (a.7). La triple inmersión no es necesaria para la validez —una sola significa la unidad divina y la única muerte de Cristo— aunque la disciplina eclesiástica ha variado (a.8). El bautismo no se reitera: es regeneración espiritual única, imprime carácter indeleble y configura con la única muerte de Cristo (a.9).
+
+#### IIIª q.67 — Los ministros del bautismo
+
+El diácono bautiza asistiendo a los superiores; en caso de necesidad puede hacerlo (q.67 a.1). Bautizar es oficio propio del presbítero, no exclusivo del obispo (a.2). Un laico puede bautizar en caso de necesidad; fuera de ella peca, pero el bautismo es válido (a.3). También una mujer puede bautizar en caso de necesidad (a.4). Un no bautizado —judío o pagano— puede hacerlo válidamente con la forma y materia debidas (a.5). El padrino asume función de instructor y tutor espiritual del bautizado (a.7-8).
+
+#### IIIª q.68 — Los sujetos del bautismo
+
+Todos están obligados al bautismo, pues sin él no hay salvación (q.68 a.1). Quien desea el bautismo pero muere antes se salva por el *baptismus flaminis* (a.2). Los niños deben bautizarse sin demora; en los adultos conviene diferirlo para instrucción y prueba, salvo peligro de muerte (a.3). Los pecadores arrepentidos deben ser bautizados, no quienes persisten en pecar (a.4). No se imponen obras satisfactorias al bautizado, pues la pasión de Cristo es satisfacción suficiente (a.5). No se requiere confesión exterior antes del bautismo —basta la interior y la renuncia general a Satanás— (a.6). Se requiere intención en el adulto (a.7). La fe verdadera se requiere para la gracia, no para la validez del carácter (a.8). Los niños se bautizan en la fe de la Iglesia (a.9). Los hijos de infieles sin uso de razón no deben bautizarse contra la voluntad de sus padres (a.10). Los fetos no pueden ser bautizados (a.11). Los dementes de nacimiento se bautizan como los niños (a.12).
+
+#### IIIª q.69 — Los efectos del bautismo
+
+El bautismo borra todos los pecados —original y actuales— (q.69 a.1). Libra de toda pena, por incorporación a la pasión de Cristo (a.2). No suprime las penalidades presentes (muerte, hambre, sed), que son de la naturaleza y solo desaparecerán en la resurrección; son útiles para el combate espiritual (a.3). Confiere la gracia santificante y las virtudes infusas, pues de Cristo Cabeza fluye a sus miembros la plenitud de gracia (a.4). Incorpora a Cristo, ilumina con el conocimiento de la verdad y fecunda para las buenas obras (a.5). Los niños reciben gracia y virtudes en hábito (a.6). Abre la puerta del reino de los cielos (a.7). El efecto esencial (gracia) se recibe según la disposición del sujeto; los efectos accidentales (milagros) según la providencia divina (a.8). La simulación impide el efecto, pero desaparecida por la penitencia, el bautismo produce su efecto (a.9-10).
+
+#### IIIª q.70 — La circuncisión como preparación
+
+La circuncisión fue preparación y figura del bautismo: era profesión de fe en el Cristo futuro (q.70 a.1). Fue instituida en tiempo de Abrahán, cuando la fe había disminuido (a.2). Se hacía en el miembro genital para significar la fe en el Cristo que había de nacer de Abrahán, como remedio del pecado original transmitido por generación y para mitigar la concupiscencia; se cumplía al octavo día (a.3). Confería la gracia santificante por la fe en la pasión futura de Cristo —no por virtud propia como el bautismo—, borrando el pecado original y justificando, aunque sin imprimir carácter ni dar gracia tan abundante como el bautismo (a.4).
+
+#### IIIª q.71 — La catequesis y el exorcismo
+
+La instrucción catequética debe preceder al bautismo por ser este *sacramento de la fe* (q.71 a.1). El exorcismo precede al bautismo para expulsar el poder del demonio (a.2). Estos ritos no son meros signos: producen un efecto real removiendo los obstáculos que impiden recibir la gracia bautismal; son sacramentales, no sacramentos (a.3). La catequesis y el exorcismo pertenecen principalmente al sacerdote (a.4).
+
 ## Distinciones importantes
 
 - **Bautismo de agua vs. bautismo de deseo vs. bautismo de sangre**
@@ -164,3 +188,4 @@ En el bautismo de Cristo se manifestaron los elementos que pertenecen a la efica
 - Santo Tomás, S.Th., III, 63, 3 ad 2; III, 63, 5 ad 3
 - [VocTeoBib, «Bautismo»]
 - SmTh IIIª q.39 a.1-8
+- SmTh IIIª q.66 a.1-12; q.67 a.1-8; q.68 a.1-12; q.69 a.1-10; q.70 a.1-4; q.71 a.1-4

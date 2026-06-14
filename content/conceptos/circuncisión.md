@@ -27,6 +27,10 @@ Cristo se sometió voluntariamente a la circuncisión y a las demás observancia
 
 Respecto del nombre, se le impuso el nombre de Jesús (Salvador) en la circuncisión, nombre acorde con su misión de salvar a todos los hombres (a.2). Cristo fue ofrecido en el templo como primogénito, cumpliendo los dos preceptos legales: la presentación al Señor y el sacrificio de un par de tórtolas o dos pichones (a.3). La Virgen María, aunque no necesitaba purificación, se sometió voluntariamente a la ley para conformarse con la humildad de su Hijo y dar ejemplo de obediencia (a.4).
 
+#### IIIª q.70 — La circuncisión como preparación del bautismo
+
+La circuncisión fue preparación y figura del bautismo: era profesión de fe en el Cristo futuro, por la que los antiguos quedaban incorporados al pueblo de Dios (q.70 a.1). Fue instituida en tiempo de Abrahán, cuando la fe había disminuido y era necesario un signo de distinción (a.2). Se hacía en el miembro genital para significar la fe en el Cristo que había de nacer del semen de Abrahán, como remedio del pecado original que se transmite por generación y para mitigar la concupiscencia; se cumplía al octavo día por misterio de la resurrección y por la delicadeza del niño (a.3). Confería la gracia santificante por la fe en la pasión futura de Cristo —no por virtud propia como el bautismo—, borrando el pecado original y justificando, aunque sin imprimir carácter ni dar gracia tan abundante como el bautismo (a.4).
+
 ## Distinciones importantes
 
 - **Circuncisión física vs. circuncisión del corazón**: el rito externo sin disposición interior carece de valor.
