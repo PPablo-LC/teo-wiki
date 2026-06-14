@@ -17,6 +17,10 @@ La comunión eclesial es el principio constitutivo de la Iglesia como [[pueblo_d
 
 La Iglesia es esencialmente comunión (CEC §787-795). La [[comunión_de_los_santos]] expresa esta realidad: comunión en las cosas santas (fe, sacramentos, carismas) y comunión entre las personas santas (CEC §946-953). La Iglesia particular está constituida como porción del [[pueblo_de_dios]] en comunión con el [[obispo_diocesano]] (CEC §815-816).
 
+### Según el Regnum Christi — Comisión Central (RC-MovEcles-2014)
+
+El documento sitúa la [[eclesiología_de_la_comunión]] como fundamento teológico de los [[movimientos_eclesiales]]. «Sólo en la eclesiología de la comunión se entienden, desarrollan y nacen estas nuevas realidades asociativas» [RC-MovEcles-2014, A]. Los criterios de eclesialidad de Christifideles laici 30 desarrollan las exigencias concretas de la comunión eclesial para los movimientos: filial relación con el Papa, comunión con el Obispo, mutua estima entre todas las formas de apostolado, leal disponibilidad para acoger las enseñanzas doctrinales y las orientaciones pastorales. La comunión eclesial exige también el reconocimiento de la legítima pluralidad de las diversas formas asociativas y la disponibilidad a la recíproca colaboración [RC-MovEcles-2014, C].
+
 ## Relaciones doctrinales
 
 La comunión eclesial es el fundamento de la [[sucesión_apostólica]] y de la colegialidad episcopal. Se distingue de la mera asociación por su origen sobrenatural en la [[trinidad]].

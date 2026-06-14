@@ -25,6 +25,12 @@ En 2007 inició el proceso de reforma del Libro VI del [[derecho_canónico]] sob
 
 ## Perspectivas por fuente
 
+### Según el Regnum Christi — Comisión Central (RC-MovEcles-2014)
+
+El documento recoge el magisterio de Benedicto XVI sobre los [[movimientos_eclesiales]]. Antes de su pontificado, como cardenal Ratzinger, pronunció en 1998 la conferencia «Los movimientos eclesiales y su colocación teológica», donde estableció la **co-esencialidad de las dimensiones institucional y carismática** de la Iglesia y la apostolicidad como colocación teológica de los movimientos. Como Papa, afirmó que «los movimientos eclesiales y las nuevas comunidades son una de las más importantes novedades suscitadas por el Espíritu Santo en la Iglesia, por la actuación del Concilio Vaticano II» (Discurso a un seminario de estudio para obispos, 2008). Convocó el II Congreso Mundial de Movimientos Eclesiales en Pentecostés de 2006 con el lema «La belleza de ser cristianos y la alegría de comunicarlo». En su discurso a los obispos alemanes (2006) pidió «salir al encuentro de los movimientos con mucho amor», respetando sus carismas específicos y alegrándose de que «surjan formas comunitarias de fe en las que la palabra de Dios se convierte en vida» [RC-MovEcles-2014, A, B.1, D].
+
+### Según SST-2010
+
 ### Según SST-2010
 
 La reforma de 2010 significó un punto de inflexión en la respuesta de la Iglesia al abuso sexual de menores. Por primera vez se tipificó autónomamente el delito de pornografía infantil (art. 6 §1 n. 2), se fijó la edad del menor en 18 años, y se estableció que los delitos contra el sexto mandamiento con menores prescriben a los 20 años, con facultad de la [[dicasterio_para_la_doctrina_de_la_fe]] para derogar la prescripción en casos singulares (art. 7 §1).

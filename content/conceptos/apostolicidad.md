@@ -21,6 +21,10 @@ El CEC expone la apostolicidad en los §§857-865. La Iglesia es apostólica por
 
 El CIC no trata explícitamente la apostolicidad como nota teológica, pero la presupone en toda su estructura. El c. 330 establece que el primado del Romano Pontífice sobre la Iglesia universal es la garantía de la unidad en la sucesión apostólica. Los cc. 375-411 sobre los obispos desarrollan la función de los sucesores de los Apóstoles.
 
+### Según el Regnum Christi — Comisión Central (RC-MovEcles-2014)
+
+El documento establece que «la correcta colocación teológica de los movimientos en la Iglesia se ha de individuar en la apostolicidad» (Ryłko, 2006). Los [[movimientos_eclesiales]] contribuyen a «asegurar la continuación de la misión de Jesús de hacer discípulos a todas las naciones y de llevar el Evangelio a los confines de la Tierra». De esta apostolicidad «surge el vínculo particular que une a los movimientos con el ministerio del Sucesor de Pedro». Ratzinger (1998) desarrolla la reciprocidad entre el ministerio petrino y los movimientos: «el Papa tiene necesidad de estos servicios misioneros de los movimientos, y éstos tienen necesidad de él, y en la reciprocidad de los dos tipos de misión [la del ministerio petrino y la de los movimientos] se realiza la sinfonía de la vida eclesial» [RC-MovEcles-2014, B.1].
+
 ## Distinciones importantes
 
 - **Apostolicidad de origen vs. apostolicidad de transmisión**: la primera es el hecho de haber sido fundada sobre los Apóstoles; la segunda es la continuidad ininterrumpida en el tiempo mediante la sucesión ministerial.

@@ -33,6 +33,10 @@ El Capítulo Extraordinario de 2018 ofreció la definición más completa hasta 
 
 El V Capítulo General (CapGral-2026) afirma que el Regnum Christi es «un don divino para encontrarnos con Cristo, crecer en la amistad e intimidad con Él y ser su apóstol en comunión con los demás». La Federación es instrumento al servicio de esta familia espiritual. El Capítulo reconoce la coexistencia de visiones diversas dentro del Regnum Christi y llama a profundizar en la identidad propia de cada vocación dentro del carisma común, así como a fortalecer la comunión y la corresponsabilidad.
 
+### Según el Regnum Christi — Comisión Central (RC-MovEcles-2014)
+
+El documento «Los carismas y las nuevas realidades eclesiales» fue preparado por la Comisión Central para la revisión de los Estatutos del Regnum Christi precisamente para ayudar a los miembros del Regnum Christi a comprenderse a sí mismos como movimiento eclesial dentro del marco teológico y canónico de los movimientos. El documento afirma que los movimientos «enraízan su propia esencia en la [[eclesiología_de_la_comunión]]» y que el florecimiento de estas realidades constituye «una nueva época asociativa de los fieles laicos» (Christifideles laici 29). El Regnum Christi es presentado implícitamente como una de estas realidades: un movimiento que integra diversas vocaciones en torno a un carisma común, con un itinerario de fe, un impulso misionero y una vinculación particular con el Sucesor de Pedro [RC-MovEcles-2014, A-D].
+
 ## Relaciones doctrinales
 
 Se relaciona con la [[legión_de_cristo]], el [[carisma_legionario]], los [[cristianos_laicos]] que participan del carisma, el [[reinado_de_cristo]] que da nombre al movimiento, y la [[federación_regnum_christi]] que le da estructura canónica.

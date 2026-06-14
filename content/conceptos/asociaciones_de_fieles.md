@@ -23,6 +23,10 @@ Lumen Gentium reconoce el derecho de asociación de los fieles en el contexto de
 
 Los laicos pueden ser llamados de diversos modos a una colaboración más inmediata con el apostolado de la Jerarquía, siguiendo el ejemplo de aquellos hombres y mujeres que ayudaban al apóstol Pablo en la evangelización [ConcVatII, LG §33]. Poseen aptitud de ser asumidos por la Jerarquía para ciertos cargos eclesiásticos con finalidad espiritual [ConcVatII, LG §33].
 
+### Según el Regnum Christi — Comisión Central (RC-MovEcles-2014)
+
+El documento aborda la colocación canónica de los [[movimientos_eclesiales]] y las nuevas comunidades. No existe una definición jurídica de «movimiento» en el derecho canónico; los movimientos se configuran frecuentemente como asociaciones de fieles (cc. 298-329) o como asociaciones internacionales de fieles en dependencia de la Santa Sede. Las «nuevas comunidades» (Comunidad de Emmanuel, Shalom, Canção Nova) se distinguen por su fuerte sentido de comunidad, reuniendo a sacerdotes, hombres y mujeres laicos célibes o casados que comparten un estilo de vida. Existen también «nuevas formas de vida consagrada» (CIC 605) caracterizadas por la asunción de los consejos evangélicos con un cierto vínculo sagrado, con ramas sacerdotales, laicales masculinas y femeninas bajo un único carisma y gobierno. Todas estas realidades se distinguen del «asociacionismo tradicional» (Acción Católica, asociaciones gremiales, de género o profesionales) [RC-MovEcles-2014, B.3].
+
 ## Distinciones importantes
 
 - Asociaciones públicas (erigidas por autoridad) vs. privadas (acuerdo privado entre fieles)

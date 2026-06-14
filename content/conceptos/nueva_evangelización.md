@@ -17,6 +17,10 @@ La nueva evangelización no se reduce a alcanzar al hombre en la sociedad como d
 
 Con su enseñanza social, la Iglesia quiere anunciar y actualizar el Evangelio en la compleja red de las relaciones sociales, fecundando y fermentando la sociedad misma con el Evangelio [CompDS §62]. La sociedad con sus dimensiones política, económica, laboral, jurídica y cultural no constituye un ámbito meramente secular y marginal al mensaje de salvación [CompDS §62]. La Iglesia no puede recorrer otra vía: con su doctrina social y la acción eficaz que de ella deriva, no diluye su misión, sino que es fiel a Cristo y se revela como «sacramento universal de salvación» [CompDS §65].
 
+### Según el Regnum Christi — Comisión Central (RC-MovEcles-2014)
+
+El documento relaciona el surgimiento de los [[movimientos_eclesiales]] con el impulso de la nueva evangelización. Juan Pablo II llamó a los movimientos «sujetos de una nueva evangelización» (Christifideles laici 30). Benedicto XVI afirmó que los movimientos deben comprometerse a iluminar «la oscuridad de un mundo trastornado por los mensajes contradictorios de las ideologías» (Mensaje al II Congreso Mundial de Movimientos Eclesiales, 2006). El celo misionero y evangelizador es uno de los rasgos distintivos comunes de todas estas realidades asociativas, incluso en referencia explícita a la «nueva evangelización» [RC-MovEcles-2014, C-D].
+
 ## Relaciones doctrinales
 
 Se relaciona con [[evangelización]], [[doctrina_social_de_la_iglesia]], [[misión_de_la_iglesia]], [[reino_de_dios]], [[concilio_vaticano_ii]]

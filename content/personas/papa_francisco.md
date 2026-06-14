@@ -31,6 +31,12 @@ Francisco ha impulsado la reforma más profunda de la normativa canónica e inst
 
 ## Perspectivas por fuente
 
+### Según el Regnum Christi — Comisión Central (RC-MovEcles-2014)
+
+El documento recoge la cercanía del Papa Francisco a los [[movimientos_eclesiales]]. Como cardenal Bergoglio presidió la comisión que redactó las conclusiones de Aparecida (2007), donde se afirma que «los nuevos movimientos y comunidades son un don del Espíritu Santo para la Iglesia» (Documento de Aparecida, 311). Ya como Papa, en Pentecostés de 2013, llamó a los movimientos «don y riqueza para la Iglesia» y les pidió: «¡Lleven siempre la fuerza del Evangelio! ¡Tengan siempre el gozo y la pasión por la comunión en la Iglesia!». En Evangelii gaudium 130, Francisco desarrolla la teología de los carismas en relación con los movimientos: «son dones para renovar y edificar la Iglesia. No son un patrimonio cerrado, entregado a un grupo para que lo custodie; más bien son regalos del Espíritu integrados en el cuerpo eclesial, atraídos hacia el centro que es Cristo». La eclesialidad como signo de autenticidad de un carisma: «Un signo claro de la autenticidad de un carisma es su eclesialidad, su capacidad para integrarse armónicamente en la vida del santo Pueblo fiel de Dios para el bien de todos». La [[alegría_de_evangelizar]] es identificada como motor de la [[conversión_misionera]] y de la reforma de la Iglesia «en salida» [RC-MovEcles-2014, D].
+
+### Según el Vademécum del DDF
+
 ### Según el Vademécum del DDF
 
 El [[vademécum_del_ddf]] (2022) fue promulgado durante su pontificado como instrumento práctico para unificar la praxis procesal en los casos de abuso, desarrollando la legislación de SST, VELM y PGD.
