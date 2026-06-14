@@ -31,6 +31,14 @@ El canon 902 establece que los sacerdotes pueden concelebrar la Eucaristía, que
 SC 57-58 regula la concelebración como manifestación de la unidad del sacerdocio. La facultad de concelebrar se amplía respecto a la disciplina anterior, pero se mantiene la libertad de celebrar individualmente.
 
 
+### Según la Guía de Liturgia (GLit-2024)
+
+La Guía de Liturgia de la Legión de Cristo ofrece indicaciones detalladas para la concelebración. La concelebración eucarística manifiesta apropiadamente «la unidad del sacerdocio, del sacrificio y de todo el pueblo de Dios» [GLit-2024, n. 119, citando OGMR 199]. Los domingos y días festivos, en la medida de lo posible y sin detrimento de responsabilidades pastorales, se recomienda que los sacerdotes concelebren con la comunidad [GLit-2024, n. 119].
+
+Las concelebraciones deben realizarse con decoro y armonía, reflejando la profunda fe y amor con que los sacerdotes realizan la acción sagrada. Es oportuno que los concelebrantes procuren hacer los gestos con estilo uniforme [GLit-2024, n. 120]. Es conveniente que los concelebrantes utilicen casulla y estola, que en la medida de lo posible ha de ser de un mismo estilo [GLit-2024, n. 122].
+
+Para la plegaria eucarística, los concelebrantes dicen en voz baja las partes que les corresponde decir conjuntamente, mientras el celebrante principal las dice en voz alta [GLit-2024, n. 129]. La doxología la cantan o dicen todos en voz alta.
+
 ## Distinciones importantes
 
 - **Concelebración vs. celebración individual**: la concelebración manifiesta la unidad del sacerdocio

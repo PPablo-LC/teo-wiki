@@ -33,6 +33,10 @@ El CIC trata la sagrada liturgia en los cánones 834-839. La Iglesia cumple la f
 La Constitución *Sacrosanctum Concilium* es la carta magna de la liturgia en el Concilio Vaticano II. SC 5-6 presentan la obra de la salvación realizada en Cristo y su continuación en la Iglesia por medio de la liturgia. La liturgia es considerada como «el ejercicio del sacerdocio de Jesucristo» (SC 7). En ella, los signos sensibles significan y realizan la santificación del hombre. Cristo está presente en la liturgia: en el sacrificio de la Misa, en los sacramentos, en su Palabra y cuando la Iglesia suplica y canta (SC 7). La liturgia es «la cumbre a la cual tiende la actividad de la Iglesia y al mismo tiempo la fuente de donde mana toda su fuerza» (SC 10). La participación plena, consciente y activa de todos los fieles es la meta de la reforma litúrgica (SC 14).
 
 
+### Según la Guía de Liturgia (GLit-2024)
+
+La Guía de Liturgia de la Legión de Cristo recoge que la oración en común ha de considerarse la base de toda vida comunitaria, partiendo de la contemplación del Misterio de Dios [GLit-2024, n. 5, citando VFC 12]. De modo particular, «la comunidad se construye a partir de la Liturgia, sobre todo de la celebración de la Eucaristía y de los otros sacramentos» [GLit-2024, n. 6, citando VFC 14]. La liturgia pone en contacto con las grandes obras de Dios que «se hacen luminosas y generan alabanza, gratitud, alegría, unión de corazones, apoyo en las dificultades comunes de la convivencia diaria y fortalecimiento recíproco en la fe» [GLit-2024, n. 6, citando VFC 14].
+
 ## Ver también
 
 [[sacramentos]], [[eucaristía]], [[oración_litúrgica]], [[iglesia_cuerpo_místico]], [[sacramentales]]

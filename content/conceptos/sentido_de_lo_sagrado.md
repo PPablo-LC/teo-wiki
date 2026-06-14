@@ -25,6 +25,12 @@ La Liturgia es «acción» del «Cristo total» (CEC §1136). El Apocalipsis rev
 
 La sagrada liturgia es el ejercicio del sacerdocio de Jesucristo, en la que la santificación del hombre es significada mediante signos sensibles y realizada de manera propia de cada uno (SC §7). Cristo está presente en la liturgia en la persona del ministro, bajo las especies eucarísticas, en su Palabra y cuando la Iglesia suplica y canta salmos. La liturgia es cumbre a la que tiende la acción de la Iglesia y fuente de donde mana toda su fuerza (SC §10). La Iglesia desea que todos los fieles sean llevados a la participación plena, consciente y activa en las celebraciones litúrgicas (SC §14). El Concilio ordena conservar el carácter sagrado de los ritos, velando porque los signos litúrgicos manifiesten las realidades sagradas que significan (SC §21, §33).
 
+### Según la Guía de Liturgia (GLit-2024)
+
+La Guía de Liturgia de la Legión de Cristo sitúa el sentido de lo sagrado como primer rasgo del espíritu y estilo legionario en la liturgia. «Desde el inicio de la formación, aprendemos a valorar el sentido sagrado de la liturgia» [GLit-2024, n. 9, citando CCG2014, 94], que tuvo su origen en los gestos y palabras del mismo Jesucristo y fue transmitida fielmente por los Apóstoles y sus sucesores.
+
+Conscientes de la sacralidad de la liturgia e iluminados por la fe, los ministros sagrados deben «comprender y cumplir todo lo que forma parte de su ministerio sacerdotal, por voluntad de Cristo y de su Iglesia» [GLit-2024, n. 10, citando DC 8]. La misma actitud de profundo respeto y actuación del ministro sagrado ayuda a las almas a acercarse al misterio de Cristo [GLit-2024, n. 10, citando CLC 51, 1.º].
+
 ## Distinciones importantes
 
 - Sentido de lo sagrado vs. sentimentalismo religioso (el primero es teologal, el segundo meramente psicológico)

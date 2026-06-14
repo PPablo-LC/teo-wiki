@@ -21,6 +21,14 @@ El año litúrgico despliega todo el misterio de Cristo desde la Encarnación ha
 
 No hay un tratamiento específico del calendario litúrgico en la TPCr. Las referencias al año litúrgico se limitan a la obligación de oír Misa los domingos y fiestas de precepto (n. 588).
 
+### Según la Guía de Liturgia (GLit-2024)
+
+La Guía de Liturgia de la Legión de Cristo regula el calendario litúrgico en el capítulo III. La Legión de Cristo tiene su calendario propio aprobado por la Santa Sede, según el cual la fiesta de la Bienaventurada Virgen María de los Dolores es elevada al grado de solemnidad, por estar la Legión dedicada a ella [GLit-2024, n. 27, citando CLC 7]. Por lo demás, se ha de seguir el calendario universal de la Iglesia.
+
+El calendario propio, junto con el universal, debe seguirse en todas las casas religiosas y templos encomendados a la Congregación. Fuera de estas ocasiones se debe seguir el calendario de la Iglesia local [GLit-2024, n. 27].
+
+Como manifestación concreta de veneración por los patronos, en la Legión se celebran de un modo particular las memorias de la Virgen María inscritas en el calendario universal, San José obrero, Santa Inés mártir (patrona del ECYD) y San José Sánchez del Río mártir (patrono del ECYD) [GLit-2024, n. 31].
+
 ## Distinciones importantes
 
 - Calendario romano general vs. calendarios particulares (diocesanos, religiosos)

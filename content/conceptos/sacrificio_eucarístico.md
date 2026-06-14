@@ -23,6 +23,12 @@ El CIC trata del Sacrificio eucarístico en los cánones 897-958. Lo define como
 ### Según Royo Marín (TPCr)
 La santa misa contiene las riquezas infinitas del sacrificio de Cristo. La mejor manera de dar gracias consiste en identificarse por el amor con el mismo Cristo y ofrecerle al Padre con todas sus infinitas riquezas como oblación por las cuatro finalidades del sacrificio: adoración, reparación, petición y acción de gracias (TPCr, Tercera Parte, Libro II, Cap. I). Los santos tenían la santa misa en grandísimo aprecio: era el centro de su vida, la fuente de su espiritualidad (n.310). Por medio del ministerio de los presbíteros se realiza a la perfección el sacrificio espiritual de los fieles en unión con el sacrificio de Cristo.
 
+### Según la Guía de Liturgia (GLit-2024)
+
+La Guía de Liturgia de la Legión de Cristo comienza su tratamiento del culto eucarístico citando el canon 897 del CIC, que define el sacrificio eucarístico como «memorial de la muerte y resurrección del Señor, en el cual se perpetúa a lo largo de los siglos el Sacrificio de la cruz» y «culmen y fuente de todo el culto y de toda la vida cristiana» [GLit-2024, n. 93].
+
+La santa misa, «el centro de la vida cristiana y el culmen de la acción por la que Dios santifica al mundo en Cristo, y del culto que los hombres ofrecen al Padre», merece ser celebrada con todo el respeto y veneración de que se es capaz [GLit-2024, n. 70, citando CLC 51].
+
 ## Distinciones importantes
 
 - El sacrificio de la Misa es el mismo que el de la cruz, pero ofrecido de modo incruento

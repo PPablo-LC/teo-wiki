@@ -30,6 +30,12 @@ El canon 767 regula la homilía en cuatro parágrafos:
 
 León XIV aborda la homilía en el contexto de la inteligencia artificial. Exhorta a los sacerdotes a no delegar en la IA la preparación de las homilías, porque la homilía no es una producción textual sino un acto de «compartir la fe». El Papa subraya que «la IA nunca podrá compartir la fe». La homilía auténtica requiere el ejercicio de la propia inteligencia —«el cerebro necesita ser utilizado»— y, sobre todo, una vida de oración que permita al sacerdote ofrecer «algo que no es nuestro». La homilía debe ser «inculturada» en el lugar y la comunidad concreta donde se sirve, pues «la gente quiere ver su fe, su experiencia de haber conocido y amado a Jesucristo y su Evangelio» [L_XIV-ClerRom, 19.02.2026].
 
+### Según la Guía de Liturgia (GLit-2024)
+
+La Guía de Liturgia de la Legión de Cristo recoge que la homilía es propiamente parte de la acción litúrgica [GLit-2024, n. 48, citando OGMR 65]. Es «una intensa y feliz experiencia del Espíritu, un reconfortante encuentro con la Palabra, una fuente constante de renovación y de crecimiento» [GLit-2024, n. 48, citando EG 135].
+
+Se recomienda tener homilía no solo en la misa dominical y los días de precepto, sino también los demás días de fiesta [GLit-2024, n. 48]. En cuanto a la duración, la homilía ha de ser breve, «ni demasiado larga ni demasiado corta» [GLit-2024, n. 48, citando OLM 24 y EG 135-159].
+
 ## Relaciones doctrinales
 
 Se relaciona con la [[predicación]], el [[ministerio_de_la_palabra]], la [[liturgia_eucarística]], la [[catequesis]] y la [[sagrada_escritura]].

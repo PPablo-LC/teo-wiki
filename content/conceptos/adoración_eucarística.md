@@ -35,6 +35,18 @@ La Eucaristía como sacramento permanece mientras las especies eucarísticas sub
 
 León XIV sitúa el altar y el sagrario en el centro de la catedral y del ministerio sacerdotal: «En el altar, por vuestras manos, se actualiza el sacrificio de Cristo en la más alta acción confiada a manos humanas; en el sagrario, permanece Aquel que habéis ofrecido, confiado de nuevo a vuestro cuidado.» El Papa exhorta a los sacerdotes a ser adoradores: «Sed adoradores, hombres de profunda oración y enseñad a vuestro pueblo a hacer lo mismo.» La adoración eucarística es el centro que da sentido al ministerio sacerdotal y de donde brota toda la vida pastoral. La Eucaristía nutre la relación viva del sacerdote con Cristo y lo configura como *alter Christus* [DC-Convivium, 09.02.2026].
 
+### Según la Guía de Liturgia (GLit-2024)
+
+La Guía de Liturgia de la Legión de Cristo regula extensamente el culto eucarístico fuera de la misa. La adoración diaria del Santísimo Sacramento, que concluye con la bendición eucarística, permite a los legionarios expresar al Señor su amor y adoración, individual y comunitariamente, y los invita a la unión de espíritu con Él [GLit-2024, n. 165, citando CE 82].
+
+**Exposición y bendición**: habitualmente se expone el Santísimo en una custodia, con cuatro o seis velas e incienso [GLit-2024, n. 166]. La bendición se imparte con alba, estola blanca y capa pluvial. Se utiliza la oración *Deus, qui nobis sub sacramento* y se recitan las *Laudes divinæ*. Al retirarse se canta *Christe Rex noster, adveniat regnum tuum* [GLit-2024, n. 174-175].
+
+**Adoración prolongada**: los días en que después de la misa se tenga adoración prolongada, la hostia para la adoración se consagra en esa misma misa [GLit-2024, n. 178]. Durante el día los miembros se van turnando para adorar a Jesucristo presente en el Sacramento [GLit-2024, n. 180].
+
+**Exposición breve con adoración comunitaria**: ordinariamente los legionarios tienen exposición breve con adoración comunitaria todos los días [GLit-2024, n. 182, citando CLC 52]. Se dedica tiempo a la oración común y a la oración prolongada en silencio.
+
+**Hora eucarística**: tradicionalmente se tiene cada jueves durante la noche, buscando acompañar a Jesucristo en Getsemaní en la adoración y contemplación, abiertos a reparar faltas y pecados [GLit-2024, n. 183-186].
+
 ## Distinciones importantes
 
 - **Adoración eucarística vs. comunión**: una es culto de presencia, la otra es recepción sacramental

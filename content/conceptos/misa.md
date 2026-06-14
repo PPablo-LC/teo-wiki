@@ -29,6 +29,14 @@ El CIC regula la celebración eucarística en los cánones 897-958. La Misa es l
 
 Los sacramentos, y especialmente la Eucaristía, son medios esenciales para la santificación. La Santa Misa es el acto central del culto cristiano. Por medio de la comunión eucarística, el alma se une íntimamente a Cristo, fuente de toda gracia y santidad (TPCr, Parte III, Libro II, Cap. I).
 
+### Según la Guía de Liturgia (GLit-2024)
+
+La Guía de Liturgia de la Legión de Cristo recoge la misa como centro de la vida cristiana y culmen de la acción por la que Dios santifica al mundo en Cristo [GLit-2024, n. 70, citando CLC 51]. Ofrece indicaciones pormenorizadas para cada parte de la misa: desde la preparación en silencio hasta los ritos conclusivos [GLit-2024, n. 87-118].
+
+En la Legión la misa de comunidad se tiene habitualmente en lengua vernácula. Dos veces por semana y en algunas fiestas señaladas se celebra en latín [GLit-2024, n. 74]. Se recomienda el uso de las diversas plegarias eucarísticas según un esquema que distingue solemnidades, domingos, días feriales y ocasiones especiales [GLit-2024, n. 103].
+
+Las misas solemnes se celebran en 25 días señalados que incluyen las grandes solemnidades del año litúrgico, las fiestas de la Congregación (Aniversario de la fundación, Decretum laudis, Virgen de los Dolores) y las misas de profesiones y ordenaciones [GLit-2024, n. 151].
+
 ## Distinciones importantes
 
 - La Misa no es una "repetición" del Calvario sino su actualización sacramental

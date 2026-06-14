@@ -27,6 +27,16 @@ En las misiones, puede admitirse la música de los diversos pueblos en el culto 
 
 La *Sacrosanctum Concilium* dedica el capítulo VI a la música sagrada (SC 112-121). La música sacra es «tanto más santa cuanto más íntimamente esté unida a la acción litúrgica» (SC 112). Se conserva y fomenta el tesoro de la música sacra (SC 114). El canto gregoriano debe ocupar el lugar principal (SC 116). La Schola Cantorum desempeña un auténtico ministerio litúrgico (SC 29). El órgano de tubos debe ser tenido en gran estima en la liturgia latina (SC 120). Se ha de promover la participación activa del pueblo en el canto (SC 118).
 
+### Según la Guía de Liturgia (GLit-2024)
+
+La Guía de Liturgia de la Legión de Cristo dedica una atención particular a la música litúrgica. El canto y la música sagrada son propiamente liturgia; deben integrarse en la celebración sin limitarse a ser un embellecimiento del culto ni una mera añadidura [GLit-2024, n. 54, citando MS 5].
+
+Se introduce el criterio de «solemnización progresiva» [GLit-2024, n. 56, citando OGLH 38], que admite varios grados entre la celebración más sencilla y la forma más solemne. Este principio es aplicable, además del canto, a otros elementos como el número de ministros y el uso de incienso.
+
+En cuanto a la selección de los cantos, hay que guiarse por un recto sentido litúrgico que pide dar preferencia a las partes más importantes y por el principio de solemnización progresiva [GLit-2024, n. 64]. Los cantos procesionales (entrada, ofertorio, comunión) deben corresponder a la liturgia del día y favorecer la participación espiritual [GLit-2024, n. 65].
+
+Los cantos destinados al uso litúrgico deben ser sagrados, distinguiéndose «de la música destinada, por ejemplo, a la diversión, a la evasión o incluso a la religiosidad amplia y genéricamente entendida» [GLit-2024, n. 60]. Los textos de los cantos deben estar de acuerdo con la doctrina católica y tomarse principalmente de la Sagrada Escritura y de las fuentes litúrgicas [GLit-2024, n. 60, citando SC 121].
+
 ## Distinciones importantes
 
 - **Música sacra vs. música profana**: la primera está destinada al culto divino

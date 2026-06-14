@@ -23,6 +23,12 @@ En la reciente legislación eclesial, el silencio adquiere una relevancia ética
 
 La contemplación es «silencio lleno de presencia» (§2716). El silencio sagrado debe guardarse en la liturgia «a su debido tiempo» (SC 30, CEC §2717). La vida de Cristo en Nazaret, transcurrida en el silencio de una existencia humilde, es modelo de la vida oculta (CEC §533). El silencio es también expresión del respeto ante el misterio de Dios (CEC §2147).
 
+### Según la Guía de Liturgia (GLit-2024)
+
+La Guía de Liturgia de la Legión de Cristo afirma que el silencio forma parte de la celebración y está implicado en el principio de participación activa de los fieles, «quienes se asocian al sacerdote en la fe y con el silencio» [GLit-2024, n. 51, citando RS 54 y OGMR 45]. El recogimiento con que se vive la celebración, así como dar toda su importancia a los momentos de silencio que prevén los libros litúrgicos —siempre en armonía con el resto de la celebración—, es parte del estilo con el que se vive la liturgia en la Legión [GLit-2024, n. 51].
+
+En la misa se guardan momentos de silencio en diversos momentos: después de la invitación al acto penitencial [GLit-2024, n. 91], después del *oremus* que precede a la colecta [GLit-2024, n. 94], después de la homilía [GLit-2024, n. 96], después de la comunión [GLit-2024, n. 114], y mientras el celebrante y ministros se preparan para la celebración [GLit-2024, n. 87].
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 El silencio en la Biblia puede expresar la adoración ante el misterio de Dios (Hab 2,20; Sof 1,7), la espera confiada del justo (Sal 62,2), o la ausencia de Dios que prueba al creyente (Sal 22,2-3). Sab 18,14 describe el silencio que envolvía todas las cosas cuando la Palabra de Dios saltó del cielo.

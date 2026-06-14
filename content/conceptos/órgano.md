@@ -25,6 +25,14 @@ El CEC enseña que «el canto y la música cumplen su función de signos de mane
 La instrucción Musicam Sacram (1967) regula el uso del órgano en la liturgia reformada postconciliar. El órgano puede usarse en la misa, en la liturgia de las horas y en otras celebraciones. Puede sonar solo al inicio de la celebración, durante las procesiones, en las ofrendas y al final. Debe guardarse silencio instrumental en los tiempos penitenciales —Adviento y Cuaresma—, aunque con algunas excepciones (Gaudete, Laetare). Las improvisaciones al órgano deben adaptarse al carácter del tiempo litúrgico y al texto que se canta.
 
 
+### Según la Guía de Liturgia (GLit-2024)
+
+La Guía de Liturgia de la Legión de Cristo indica que en las casas de la Legión ha de preferirse el uso del órgano como instrumento musical litúrgico, según la tradición propia de la Iglesia latina [GLit-2024, n. 67, citando SC 120 y OGMR 313]. Para el uso de otros instrumentos, siempre que sean apropiados a la dignidad y nobleza de la liturgia y aprobados por la conferencia episcopal, el rector o superior puede autorizar su uso ocasional [GLit-2024, n. 67].
+
+Se puede usar el órgano para sostener el canto en lengua vernácula y, en caso de necesidad, también el canto gregoriano y para ejecutar algunos interludios de música sagrada [GLit-2024, n. 68].
+
+Por el espíritu de penitencia y austeridad que caracteriza la Cuaresma, el uso de los instrumentos musicales durante este tiempo debe limitarse al acompañamiento del canto, excluyendo las solemnidades, fiestas y el domingo *Laetare* [GLit-2024, n. 69, citando OGMR 313]. Su uso está prohibido durante el Triduo Sacro, a partir del *Gloria* de la misa vespertina del Jueves Santo hasta el *Gloria* de la Vigilia Pascual [GLit-2024, n. 69].
+
 ## Distinciones importantes
 
 - **Órgano de tubos vs. órgano electrónico**: el primero es el instrumento tradicional y más estimado; el segundo puede admitirse como sustituto cuando no haya órgano de tubos, con las debidas cautelas

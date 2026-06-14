@@ -30,6 +30,10 @@ El año litúrgico es el despliegue del misterio de Cristo en la Iglesia (CEC §
 
 SC 102-111 reforma el año litúrgico, ordenando que se revise de manera que se mantenga su índole primitiva para alimentar la piedad de los fieles en la celebración de los misterios de la redención, especialmente el misterio pascual (SC 107). La Cuaresma debe preparar a los fieles para celebrar el misterio pascual mediante la penitencia y el recuerdo del bautismo (SC 109). La penitencia cuaresmal debe ser interna e individual, pero también externa y social (SC 110).
 
+### Según la Guía de Liturgia (GLit-2024)
+
+La Guía de Liturgia de la Legión de Cristo recoge la cita de SC 102 como fundamento: «La santa madre Iglesia considera deber suyo celebrar con un sagrado recuerdo en días determinados a través del año la obra salvífica de su divino Esposo» [GLit-2024, n. 17]. La Legión tiene su calendario propio aprobado, con la solemnidad de la Virgen de los Dolores como fiesta principal [GLit-2024, n. 27]. A lo largo del año, la Guía prescribe las misas votivas del Sagrado Corazón los viernes primeros de mes y todos los viernes de junio [GLit-2024, n. 35], la memoria de Santa María en sábado [GLit-2024, n. 36], y las misas por diversas intenciones [GLit-2024, n. 37-42].
+
 
 ## Distinciones importantes
 

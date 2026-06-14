@@ -33,6 +33,16 @@ El Capítulo General 2026 dedicó una atención especial a la vida litúrgica, c
 
 **Participación activa**: se invita a los legionarios a renovar su «participación activa, consciente y fervorosa en la liturgia» (CLC-2020 49) [CapGral-2026, n. 68].
 
+### Según la Guía de Liturgia (GLit-2024)
+
+La Guía de Liturgia y Oración en Común de la Legión de Cristo (2ª ed., 2024) desarrolla el ars celebrandi como expresión del amor a la Iglesia. Los legionarios expresan su amor a la Iglesia mediante el ars celebrandi, que proviene de la obediencia fiel a las normas litúrgicas en su plenitud [GLit-2024, n. 12, citando SCa 38]. «El sacerdote que celebra fielmente la misa según las normas litúrgicas y la comunidad que se adecua a ellas, demuestran de manera silenciosa pero elocuente su amor por la Iglesia» [GLit-2024, n. 12, citando EE 52].
+
+La fidelidad a las normas litúrgicas es expresión de quien acoge con dócil gratitud un don inefable [GLit-2024, n. 12, citando SCa 40]. El legionario procura conocer los libros litúrgicos y aplicarlos con esmero.
+
+La Guía vincula el ars celebrandi con la sobriedad conforme a la tradición romana: la sencillez de los gestos y la sobriedad de los signos, realizados en el orden y en los tiempos previstos, comunican y atraen más que la artificiosidad de añadiduras inoportunas [GLit-2024, n. 13, citando SCa 40]. La liturgia, y particularmente la Eucaristía, celebrada con dignidad, devoción, sobriedad y sencillez, permite que la comunidad advierta «la grandeza del misterio que se realiza» [GLit-2024, n. 13, citando CCG2014, 94].
+
+El legionario evita improvisar en la liturgia y usa de las intervenciones libres previstas en las rúbricas con moderación [GLit-2024, n. 15].
+
 ### Según la Iglesia (Magisterio litúrgico)
 
 El ars celebrandi es fruto de la fidelidad a las normas litúrgicas y de la unción espiritual que brota de la vida interior. La belleza de la liturgia no es un adorno, sino un elemento constitutivo de la acción sagrada, que manifiesta la gloria de Dios (SC 112-113; Benedicto XVI, Sacramentum caritatis 38-42).

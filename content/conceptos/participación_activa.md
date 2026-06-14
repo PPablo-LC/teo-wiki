@@ -23,6 +23,14 @@ Se fomentan las aclamaciones del pueblo, las respuestas, la salmodia, las antíf
 
 La participación activa es el principio rector de la reforma litúrgica del Concilio Vaticano II. SC 14 la define como «plena y activa participación de todo el pueblo» y la llama «la fuente primaria y necesaria de donde han de beber los fieles el espíritu verdaderamente cristiano». Se requiere educación litúrgica del clero (SC 15-18) y de los fieles (SC 19) para lograr esta participación. En la Eucaristía, los fieles no deben asistir «como extraños y mudos espectadores» (SC 48).
 
+### Según la Guía de Liturgia (GLit-2024)
+
+La Guía de Liturgia de la Legión de Cristo recoge el principio de participación activa como fundamento de la vida litúrgica legionaria. El legionario nutre su vida espiritual y su caridad apostólica acogiendo «la acción salvífica de Dios a través de una participación activa, consciente y fervorosa en la liturgia, fuente primaria e indispensable del genuino espíritu cristiano» [GLit-2024, n. 7, citando CLC 49 §1 y SC 11].
+
+Precisa que participación activa no quiere decir «una simple actividad externa durante la celebración», sino que «se ha de comprender en términos más sustanciales, partiendo de una mayor toma de conciencia del misterio que se celebra y de su relación con la vida cotidiana» [GLit-2024, n. 8, citando SCa 52 y SC 48]. La participación activa se considera un verdadero ejercicio del sacerdocio real de los fieles [GLit-2024, n. 8, citando OGMR 5].
+
+El silencio también forma parte de la participación activa: «quienes se asocian al sacerdote en la fe y con el silencio» [GLit-2024, n. 51, citando RS 54].
+
 ## Relaciones doctrinales
 
 Se relaciona con la [[liturgia]], la [[renovación_litúrgica]], el [[sacerdocio_común]] de los fieles, y la [[educación_litúrgica]].

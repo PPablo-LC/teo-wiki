@@ -147,6 +147,13 @@ La eucaristía realiza la unión transformante:
 
 PS expone la Eucaristía como la última prueba del amor de Dios a los hombres: después de la creación, revelación, encarnación y redención, Dios se ha quedado para siempre a nuestro lado en el sagrario [PS §10,45]. En la Eucaristía, las sustancias del pan y del vino se convierten en el Cuerpo y la Sangre de Cristo mediante la transubstanciación, permaneciendo solo los accidentes [PS §10,47,1]. La Misa es la renovación incruenta del sacrificio de la cruz, idéntico en su esencia, aunque diverso en el modo de ofrecerse [PS §10,50,1]. La Sagrada Comunión es el alimento del alma que fortalece contra el pecado y aumenta la gracia santificante [PS §10,51,1-2].
 
+### Según la Guía de Liturgia (GLit-2024)
+
+La Guía de Liturgia de la Legión de Cristo afirma que la santa misa es «el centro de la vida cristiana y el culmen de la acción por la que Dios santifica al mundo en Cristo, y del culto que los hombres ofrecen al Padre» [GLit-2024, n. 70, citando CLC 51]. Merece ser celebrada con todo el respeto y veneración de que se es capaz.
+
+La Guía recoge la definición del CIC: «El sacrificio eucarístico, memorial de la muerte y resurrección del Señor, en el cual se perpetúa a lo largo de los siglos el Sacrificio de la cruz, es el culmen y la fuente de todo el culto y de toda la vida cristiana, por el que se significa y realiza la unidad del pueblo de Dios y se lleva a término la edificación del cuerpo de Cristo» [GLit-2024, c. 897].
+
+Ofrece indicaciones detalladas para las diversas partes de la misa: ritos iniciales, liturgia de la Palabra, liturgia eucarística y ritos conclusivos, así como para las diversas formas de celebrar (concelebración, misa con un solo ministro, misas en ocasiones especiales). Recomienda el uso de las diversas plegarias eucarísticas según las circunstancias [GLit-2024, n. 103].
 
 ## Distinciones importantes
 

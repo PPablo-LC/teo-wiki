@@ -25,6 +25,14 @@ SC 112 afirma que la música sagrada es «tanto más santa cuanto más estrecham
 El c. 934 §1 establece que los libros litúrgicos según los ritos aprobados deben emplearse en la celebración de la liturgia, lo que incluye los libros de canto gregoriano (Graduale Romanum, Antiphonale Romanum). El c. 838 atribuye a la Sede Apostólica la ordenación de la sagrada liturgia y la aprobación de los libros litúrgicos. Aunque el CIC no menciona explícitamente el canto gregoriano, la legislación litúrgica universal lo presupone como forma musical privilegiada.
 
 
+### Según la Guía de Liturgia (GLit-2024)
+
+La Guía de Liturgia de la Legión de Cristo afirma que el canto gregoriano es el canto propio de la liturgia romana [GLit-2024, n. 57, citando SC 116]. Por ello, en la Legión se busca darle un lugar relevante, aprendiendo bien su espíritu y técnica para ejecutarlo de manera correcta y bella [GLit-2024, n. 57, citando SCa 62].
+
+Se deben conocer las principales melodías gregorianas: partes invariables de la misa, secuencias, himnos, etc., y usarlas habitualmente en las celebraciones en latín y, cuando sea oportuno, también en otras celebraciones en lengua vernácula [GLit-2024, n. 58].
+
+En las casas de formación se han de cantar en latín las vísperas solemnes indicadas, así como los oficios de laudes y lecturas del Viernes y Sábado Santos [GLit-2024, n. 195]. Para la exposición y bendición eucarísticas se utiliza habitualmente canto gregoriano, especialmente el *Tantum ergo* [GLit-2024, n. 170].
+
 ## Distinciones importantes
 
 - Canto gregoriano (monódico, modal, latino) vs. polifonía sacra (varias voces simultáneas)
