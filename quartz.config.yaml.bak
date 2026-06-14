@@ -136,7 +136,6 @@ plugins:
     options:
       enableSiteMap: true
       enableRSS: true
-      maxContentLength: 2000
   - source: github:quartz-community/favicon
     enabled: true
   - source: github:quartz-community/og-image
