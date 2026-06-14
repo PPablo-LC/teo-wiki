@@ -87,6 +87,28 @@ La confirmación configura con Cristo confirmado en el Jordán:
 
 PS presenta la confirmación como el sacramento que fortalece la gracia recibida en el bautismo [PS §13,97,3]. Se administra mediante la unción del santo crisma en la frente con la mano del ministro y las palabras prescritas, concediendo el Espíritu Santo para creer firmemente, ser testigos de Cristo y defender intrépidamente la fe [PS §13,97,3]. La confirmación imprime en el alma el carácter de soldado de Jesucristo y vigoriza para el combate cristiano [PS §13,97,3]. De ordinario lo administra el Obispo, aunque puede delegar en un sacerdote [PS §13,97,3]. No es absolutamente necesaria para la salvación, pero quien la desprecia comete pecado mortal [PS §13,97,3].
 
+### Según la Summa Theologiae (SmTh)
+
+#### IIIª q.72 — El sacramento de la confirmación
+
+La confirmación es verdadero sacramento de la Nueva Ley (a.1). Así como en la vida natural hay dos plenitudes —la primera infancia (nacimiento) y la plenitud corporal (adultez)—, así en la vida espiritual el [[bautismo]] da la primera vida espiritual y la confirmación da la plenitud y robustez espiritual para el combate contra los enemigos de la fe. El bautizado es como un niño; el confirmado, como un soldado adulto de Cristo.
+
+La **materia** del sacramento es el [[crisma]], óleo de oliva mezclado con bálsamo consagrado por el obispo (a.2). El aceite de oliva significa la plenitud del Espíritu Santo, de quien Cristo es ungido; el bálsamo significa el buen olor que los confirmados deben difundir, edificando a los demás con el ejemplo. La consagración previa del crisma por el obispo antes de su uso en el sacramento es necesaria (a.3) porque la [[unción]] de la confirmación no se hace en la cabeza (como en el bautismo al crismar), sino en la frente, como signo de que no se teme manifestar la fe.
+
+La **forma** es: «Yo te signo con la señal de la cruz y te confirmo con el crisma de la salud, en el nombre del Padre y del Hijo y del Espíritu Santo» (a.4).
+
+La confirmación imprime [[carácter_sacramental]] (a.5). El carácter del bautismo confiere la potestad para recibir los demás sacramentos; el carácter de la confirmación confiere la potestad para el combate espiritual y la confesión pública de la fe. Este carácter presupone el carácter bautismal (a.6), como el crecimiento presupone el nacimiento, de modo que la confirmación se recibe después del bautismo.
+
+La confirmación confiere gracia santificante y la plenitud del Espíritu Santo para el fortalecimiento espiritual (a.7). Su efecto propio no es la remisión de pecados (no es necesario para la salvación como el bautismo), sino una cierta plenitud de gracia para obrar valerosamente.
+
+Debe administrarse a todos los bautizados (a.8). Aunque la edad de la discreción es la más conveniente para recibirla (por la disposición interior), puede administrarse también a niños, pues la edad corporal no condiciona la recepción del Espíritu. Se administra en la **frente** (a.9), en la parte más visible del cuerpo, para significar que el confirmado no se avergüenza de confesar a Cristo.
+
+Requiere **padrino** (a.10) porque el confirmado, como soldado de Cristo que se prepara para el combate espiritual, necesita quien le instruya en la lucha y tenga cuidado de él. La adopción espiritual que supone la confirmación origina impedimento matrimonial entre padrino y ahijado.
+
+El **ministro propio** es el obispo (a.11). Aunque el bautismo (nacimiento espiritual) puede ser conferido por cualquier sacerdote, la confirmación (perfección y consumación del bautismo) compete al supremo artífice. Como el grado supremo de la jerarquía eclesiástica, el obispo confirma imbuyendo el carácter del soldado de Cristo.
+
+El **rito de la Iglesia** es el adecuado (a.12). Las disposiciones de la Iglesia sobre el tiempo (Jueves Santo para la consagración del crisma, tiempo pascual para la confirmación solemne, posibilidad de administrarla en ayunas o no) están regidas por la sabiduría de Cristo, que está en medio de los suyos (Mt 18,20).
+
 ## Distinciones importantes
 
 - **Bautismo vs. confirmación**: bautismo da nacimiento, confirmación da mayoría de edad espiritual
@@ -124,3 +146,4 @@ PS presenta la confirmación como el sacramento que fortalece la gracia recibida
 - Juan 20,22
 - Hechos de los Apóstoles 2
 - Santo Tomás, S.Th., III, 63, 3 ad 2
+- SmTh, IIIª q.72 (arts. 1-12)
