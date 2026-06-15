@@ -1,7 +1,7 @@
 # Carácter Sacramental
 
 > Área: Sacramental
-> Última actualización: 2026-06-14
+> Última actualización: 2026-06-15
 
 ## Definición
 
@@ -41,6 +41,10 @@ El carácter es indeleble porque es una participación del sacerdocio eterno de 
 
 Sólo tres sacramentos imprimen carácter: bautismo (deputa a recibir los demás sacramentos), confirmación (dispone para el culto divino) y orden (capacita para administrar los sacramentos). La eucaristía, aunque es el mayor sacramento, no imprime carácter porque no depura a una función ulterior, sino que es el fin y consumación de todos los sacramentos (III, q.63 a.6).
 
+En el Suplemento (q.35 a.2), Santo Tomás precisa que el carácter se imprime en todos los órdenes (no solo en el presbiterado), pues cada orden confiere una potestad espiritual distinta que permanece indeleblemente. El carácter de Orden presupone necesariamente el carácter bautismal (q.35 a.3); la Confirmación se requiere solo por congruencia (q.35 a.4). El carácter de un orden inferior no presupone necesariamente el del orden superior para la validez, pues las potestades son distintas (q.35 a.5).
+
+El carácter sacerdotal se imprime en el momento de la entrega del cáliz durante la ordenación, porque ese gesto significa la concesión del poder de consagrar el Cuerpo de Cristo (q.37 a.5). La imposición de manos y la unción preparan al ordenado, pero el carácter se confiere con la entrega del instrumento propio del acto principal de cada orden.
+
 ## Distinciones importantes
 
 - **Carácter** ≠ **gracia santificante**: la gracia santificante se pierde con el pecado mortal; el carácter permanece indeleble.
@@ -60,3 +64,4 @@ El carácter sacramental es la base de la participación activa en el [[sacerdoc
 - [CEC §1121]
 - [CEC §1272-1274, §1296-1305]
 - [TPCr, Parte III, Libro II, Cap. 1]
+- [SmTh, Suppl. q.35 a.2-5; q.37 a.5]

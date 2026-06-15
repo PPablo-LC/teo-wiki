@@ -1,7 +1,7 @@
 # Orden sacerdotal
 
 > Área: Sacramental
-> Última actualización: 2026-05-21
+> Última actualización: 2026-06-15
 
 ## Definición
 
@@ -88,6 +88,24 @@ Sobre los grados del sacerdocio:
 - **Obispo**: plenitud del sacerdocio, sucesor de los apóstoles
 - **Presbítero**: colaborador del obispo, participa de su sacerdocio
 - **Diácono**: servidor de la comunidad
+
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata el sacramento del Orden en la IIIa Pars, q.63-64 (sobre el carácter), y más extensamente en el Suplemento, q.34-40.
+
+**Naturaleza del Orden (Suppl. q.34).** Debe haber Orden en la Iglesia para que las cosas últimas sean reducidas a su perfección por las intermedias, a imitación del orden divino (q.34 a.1). El Orden es verdadero sacramento, pues confiere una consagración espiritual mediante signos visibles (q.34 a.3). Su forma expresa tanto la concesión del poder (mediante el modo imperativo: «Recibe...») como el uso de ese poder (q.34 a.4). El poder del Orden reside principalmente en el ministro que lo confiere (el obispo), y la materia (imposición de manos, entrega de cáliz, etc.) se emplea para manifestar el poder conferido (q.34 a.5).
+
+**Efecto del Orden (Suppl. q.35).** El Orden confiere gracia santificante para que el ordenado pueda ejercer dignamente su ministerio (q.35 a.1). Imprime carácter sacramental en todos los órdenes, no solo en el presbiterado —aunque esta es la opinión más común (q.35 a.2). El carácter de Orden presupone necesariamente el carácter bautismal (q.35 a.3); la Confirmación se requiere por congruencia, no por necesidad para la validez (q.35 a.4). Un orden no presupone necesariamente otro para la validez, pues las potestades son distintas (q.35 a.5).
+
+**Cualidades requeridas (Suppl. q.36).** Se requiere bondad de vida como precepto, aunque no para la validez del sacramento (q.36 a.1). Se requiere conocimiento suficiente de la Sagrada Escritura según el grado del orden (q.36 a.2). Las órdenes no se obtienen por mérito de santidad personal, sino por la recepción del sacramento (q.36 a.3). Quien ordena a indignos comete pecado mortal (q.36 a.4). Quien ejerce el orden en pecado mortal peca mortalmente cada vez (q.36 a.5).
+
+**Distinción de los órdenes (Suppl. q.37).** La multiplicidad de órdenes fue introducida para manifestar la sabiduría de Dios, socorrer la flaqueza humana, y dar más amplio camino de perfección (q.37 a.1). Los órdenes son siete, constituyendo un todo potencial: la plenitud reside en el sacerdocio, y los demás participan de él (q.37 a.2). Los órdenes sagrados son tres (presbiterado, diaconado, subdiaconado) por ejercer acto sobre materia consagrada (q.37 a.3). El carácter sacerdotal se imprime al entregar el cáliz, que significa el poder de consagrar el Cuerpo de Cristo (q.37 a.5).
+
+**Ministro del Orden (Suppl. q.38).** Solo el obispo puede conferir el sacramento del Orden (q.38 a.1). Los herejes separados de la Iglesia conservan la potestad de orden recibida por consagración, pues el poder episcopal, aunque no es carácter propiamente dicho (pues no ordena directamente a Dios sino al Cuerpo Místico), permanece indeleblemente (q.38 a.2). Sin embargo, quienes reciben órdenes de herejes no tienen el ejercicio lícito.
+
+**Impedimentos (Suppl. q.39).** El sexo femenino es impedimento para la validez del sacramento, pues la mujer no puede significar la eminencia de grado que el Orden confiere (q.39 a.1). Los niños y quienes carecen de uso de razón pueden recibir válidamente las órdenes menores —porque no requieren acto del recipiente— pero no las mayores (q.39 a.2). La esclavitud es impedimento para la licitud, no para la validez (q.39 a.3). El homicidio —incluso por legítima defensa— produce irregularidad (q.39 a.4). La ilegitimidad de nacimiento y los defectos corporales notables son impedimentos para la licitud (q.39 a.5-6).
+
+**Potestad episcopal (Suppl. q.40).** Sobre el sacerdocio debe haber una potestad episcopal, pues el sacerdote depende de una potestad humana superior en sus actos secundarios (jurisdicción, ordenación), aunque no en el principal (consagrar) (q.40 a.4). El episcopado no es un Orden como sacramento (pues no imprime carácter distinto del sacerdotal), pero sí es un orden como oficio jerárquico (q.40 a.5). Sobre todos los obispos está el Romano Pontífice, que posee la potestad suprema para la unidad de toda la Iglesia (q.40 a.6).
 
 ## Distinciones importantes
 

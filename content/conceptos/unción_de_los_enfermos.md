@@ -1,7 +1,7 @@
 # Unción de los enfermos
 
 > Área: Sacramental
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-15
 
 ## Definición
 
@@ -31,10 +31,21 @@ El CIC regula la unción de los enfermos en los cánones 998-1007. Se administra
 
 *Sacrosanctum Concilium* 73 indica que la «extremaunción», que también y mejor puede llamarse «unción de enfermos», no es solo el sacramento de quienes se encuentran en los últimos momentos de su vida; el tiempo oportuno para recibirlo comienza cuando el cristiano empieza a estar en peligro de muerte por enfermedad o vejez. SC 74 ordena redactar un rito continuado que incluya confesión, unción y viático. SC 75 manda adaptar el número de las unciones y revisar las oraciones.
 
-### Según el Concilio Vaticano II (ConcVatII)
-
 Lumen Gentium menciona la [[unción_de_los_enfermos]] en LG §11: «Con la unción de los enfermos y la oración de los presbíteros, toda la Iglesia encomienda los enfermos al Señor paciente y glorificado, para que los alivie y los salve, e incluso les exhorta a que, asociándose voluntariamente a la pasión y muerte de Cristo, contribuyan así al bien del Pueblo de Dios» [ConcVatII, LG §11, citando St 5,14-16].
 
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata la Extremaunción en el Suplemento, cuestiones 29-33, al ser esta la última parte de la Tertia Pars dedicada a los sacramentos.
+
+**Naturaleza e institución (Suppl. q.29).** La Extremaunción es verdadero sacramento instituido por Cristo (q.29 a.1-3). Es un solo sacramento aunque comprenda múltiples unciones, pues todas ellas se ordenan a un solo efecto perfectivo (q.29 a.2). Su materia propia es el aceite de oliva (q.29 a.4), que debe ser consagrado por el obispo (q.29 a.5-6). Tiene forma sacramental propia, expresada en modo deprecatorio: «Por esta santa unción y su piadosísima misericordia, el Señor te perdone cuanto pecaste por la vista...» (q.29 a.7-9). Santo Tomás explica que la forma deprecatoria es adecuada porque el recipiendiario está desfallecido y necesita ser ayudado por la oración, y porque el efecto del sacramento no siempre se sigue (a diferencia del carácter en Bautismo y Confirmación) (q.29 a.8).
+
+**Efectos (Suppl. q.30).** El efecto principal es la curación espiritual de las reliquias del pecado, y consiguientemente el perdón de los pecados si los hubiere (q.30 a.1). La salud corporal es efecto secundario que no siempre se produce, sino solo cuando es conveniente para la salud espiritual (q.30 a.2). Este sacramento NO imprime carácter sacramental, pues no depura a ningún oficio sagrado sino que es meramente remedial (q.30 a.3).
+
+**Ministro (Suppl. q.31).** Solo el sacerdote puede administrar válidamente este sacramento (q.31 a.1-2). No es necesario que sea el obispo, pues no se requiere un perfeccionamiento jerárquico sino un remedio accesible a todos los fieles (q.31 a.3). Santo Tomás distingue que el presbítero puede usar la materia ya consagrada por el obispo.
+
+**Sujeto (Suppl. q.32).** Debe administrarse solo a enfermos que están en peligro de muerte (q.32 a.1-2). No debe darse a dementes ni a niños que no tengan uso de razón (q.32 a.3-4). Las unciones se aplican a los cinco sentidos (por ser las raíces del pecado), y también a los lomos y los pies según algunas costumbres (q.32 a.5-7). Si falta algún miembro, se unge lo más cerca posible (q.32 a.7).
+
+**Repetición (Suppl. q.33).** Puede repetirse, pues su efecto —la salud del alma y del cuerpo— puede perderse (q.33 a.1). Durante la misma enfermedad solo se reitera si el enfermo sale del peligro y vuelve a caer en él (q.33 a.2).
 
 ## Analizado para
 
@@ -47,3 +58,4 @@ Lumen Gentium menciona la [[unción_de_los_enfermos]] en LG §11: «Con la unci�
 
 - [CEC §1499-1532]
 - [St 5,14-15]
+- [SmTh, Suppl. q.29-33]

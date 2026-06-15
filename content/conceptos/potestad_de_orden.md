@@ -1,7 +1,7 @@
 # Potestad de orden
 
 > Área: Derecho Canónico / Sacramentos
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-15
 
 ## Definición
 
@@ -58,6 +58,14 @@ El CIC distingue netamente entre:
 
 Ambas potestades pueden coincidir en la misma persona (ej: un obispo tiene ambas), pero son distintas por su origen y naturaleza.
 
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata la potestad de orden en el Suplemento (q.34-40). Define el Orden como «un sello de la Iglesia por el cual se confiere el poder espiritual al ordenado» (q.34 a.2). La potestad de orden es una potencia activa, distinta de la potencia pasiva que confiere el Bautismo (q.34 a.2 ad 3). Su eficacia reside principalmente en el ministro que confiere el sacramento (el obispo), no en la materia (q.34 a.5).
+
+Solo el obispo puede conferir la potestad de orden (q.38 a.1). Los herejes separados de la Iglesia retienen esta potestad por haberla recibido mediante consagración indeleble, aunque sin ejercicio lícito (q.38 a.2).
+
+Sobre la potestad sacerdotal debe haber una potestad episcopal, pues el sacerdote depende de la potestad del obispo en sus actos secundarios (jurisdicción y gobierno), aunque no en el principal (consagrar la Eucaristía) (q.40 a.4). El episcopado como oficio jerárquico confiere una potestad superior a la del presbítero, pero no imprime un carácter sacramental distinto (q.40 a.5). Por encima de todos los obispos está la potestad del Romano Pontífice, necesaria para la unidad de la Iglesia (q.40 a.6).
+
 ## Distinciones importantes
 
 - **Potestad de orden**: potestad sacramental, indeleble, para celebrar sacramentos
@@ -79,3 +87,4 @@ La potestad de orden se relaciona con el [[orden_sacerdotal]], la [[potestad_de_
 - CEC §1536-1538, §1546-1547
 - CIC cc. 1008-1010
 - Com-CIC-Eunsa, Libro IV
+- [SmTh, Suppl. q.34 a.2-5; q.38 a.1-2; q.40 a.4-6]
