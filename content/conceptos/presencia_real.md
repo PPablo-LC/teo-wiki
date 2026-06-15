@@ -1,7 +1,7 @@
 # Presencia Real
 
 > Área: Eucaristía
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-15
 
 ## Definición
 
@@ -28,6 +28,18 @@ Los sacramentos, en especial la Eucaristía, son canales de la gracia divina. La
 ### Según Para Salvarte (PS)
 
 PS afirma que Jesucristo está ahora glorioso en el cielo y en el sagrario [PS §10,45]. En la Eucaristía permanecen el olor, color y sabor del pan y del vino, pero su sustancia se ha convertido en el Cuerpo y la Sangre de Cristo mediante la transubstanciación, conversión milagrosa y singular distinta de las conversiones naturales [PS §10,47,1]. Cristo está presente en todas las Hostias consagradas, entero en cada una de ellas, y su presencia es inextensa: todo en cada parte [PS §10,49,2]. La presencia real está confirmada por milagros eucarísticos como los de Lanciano y Casia, donde las especies se convirtieron en carne y sangre humana verificada científicamente [PS §10,49,3].
+
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata el misterio de la presencia real de Cristo en la eucaristía principalmente en las cuestiones 75 y 76.
+
+**La presencia real (Q75 a.1):** El Cuerpo de Cristo está verdaderamente en la eucaristía, no solo como en signo o figura. Está presente por el poder de la consagración, de modo que toda la sustancia del pan se convierte en el Cuerpo de Cristo, y toda la sustancia del vino en su Sangre. Esta presencia se da bajo las especies sacramentales.
+
+**Totalidad de Cristo (Q75 a.8 a 3m):** Bajo cada especie y en cada parte de ella está Cristo entero (Cuerpo, Sangre, Alma y Divinidad). Por concomitancia natural, donde está el Cuerpo está también la Sangre y el Alma y la Divinidad, pues Cristo está indiviso.
+
+**Modo de la presencia (Q76 a.1-4):** El Cuerpo de Cristo está en la eucaristía no localmente (extenso) sino sacramentalmente: por virtud de la conversión. No ocupa lugar según sus propias dimensiones, sino que está presente según el modo de la sustancia. Cristo entero está presente en todo el sacramento y en cada parte de él.
+
+**Presencia inseparable (Q76 a.6-8):** Donde está el Cuerpo de Cristo bajo las especies del pan, está también su Sangre por concomitancia; y donde está la Sangre bajo el vino, está también el Cuerpo. Sin embargo, por razón de la consagración, bajo el pan está el Cuerpo por conversión directa y la Sangre por concomitancia; bajo el vino está la Sangre por conversión directa y el Cuerpo por concomitancia.
 
 ## Distinciones importantes
 

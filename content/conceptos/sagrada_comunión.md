@@ -1,7 +1,7 @@
 # Sagrada comunión
 
 > Área: Sacramental
-> Última actualización: 2026-05-25
+> Última actualización: 2026-06-15
 
 ## Definición
 
@@ -24,6 +24,22 @@ La Guía de Liturgia de la Legión de Cristo indica que, en la Legión, se suele
 El canto de comunión «debe expresar, por la unión de las voces, la unión espiritual de quienes comulgan, manifestar el gozo del corazón y esclarecer mejor la índole comunitaria de la procesión para recibir la Eucaristía» [GLit-2024, n. 112, citando OGMR 86]. Se empieza a cantar cuando el sacerdote comulga el Cuerpo de Cristo y se concluye cuando el sacerdote regresa a la sede. Normalmente la comunidad permanece de pie mientras ejecuta el canto de comunión [GLit-2024, n. 112].
 
 El signo de la paz se reserva normalmente a los domingos, días festivos y concelebraciones [GLit-2024, n. 106]. En los días festivos, se puede distribuir la comunión bajo las dos especies, normalmente por intinción, asegurando todo respeto y veneración [GLit-2024, n. 149].
+
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata la recepción de la eucaristía en las cuestiones 79 (efectos) y 80 (recepción).
+
+**Efectos del sacramento (Q79 a.1-4):** La eucaristía confiere la gracia santificante, remite los pecados veniales, preserva de los pecados mortales futuros, y aumenta la caridad. Este sacramento no causa la gracia _ex opere operato_ como un hábito nuevo, sino que intensifica la unión con Cristo.
+
+**La remisión de la pena (Q79 a.5):** La eucaristía, como sacrificio, tiene eficacia propiciatoria y satisface por las penas temporales debidas al pecado, aunque no perdona el pecado mortal directamente (para eso está la penitencia).
+
+**Preservación del pecado futuro (Q79 a.6):** La eucaristía preserva del pecado futuro por el fervor de la caridad que aumenta, y por ser antídoto espiritual contra la concupiscencia.
+
+**Frecuencia de la comunión (Q80 a.10):** La comunión frecuente, incluso diaria, es laudable en quienes están en estado de gracia y tienen recta intención. Los que están en pecado mortal deben primero confesarse. Cristo no mandó comulgar diariamente, pero lo dejó al arbitrio de la devoción de cada uno.
+
+**Recepción bajo una especie (Q80 a.12):** Bajo una sola especie se recibe a Cristo entero. Por tanto, los fieles que comulgan solo bajo la especie del pan reciben todo el sacramento. La comunión bajo las dos especies no es necesaria para la salvación, aunque es más expresiva del misterio.
+
+**Disposiciones para comulgar (Q80 a.1-9):** Para recibir dignamente la comunión se requiere: estado de gracia (sin pecado mortal), intención recta (devoción, no vanidad), ayuno corporal (Q80 a.8), y discernimiento del Cuerpo del Señor. Quien comulga indignamente recibe el sacramento pero no su gracia, y comete sacrilegio.
 
 ## Ver también
 

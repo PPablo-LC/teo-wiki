@@ -1,7 +1,7 @@
 # Comunión
 
 > Área: Sacramental / Eclesiología
-> Última actualización: 2026-06-02
+> Última actualización: 2026-06-15
 
 ## Definición
 
@@ -40,6 +40,9 @@ La palabra «comunión» (*koinonía*) expresa la participación en los bienes d
 
 «La Eucaristía fortalece la unidad del Cuerpo Místico: "la Eucaristía hace a la Iglesia"» (TPCr, Tercera Parte, Libro II, Cap. I). La comunión frecuente, incluso diaria, es medio indispensable para el progreso en la perfección cristiana.
 
+### Según la Summa Theologiae (SmTh)
+
+**Dos modos de recibir a Cristo (Q80 a.1):** Santo Tomás distingue entre comulgar sacramentalmente (recibir el Cuerpo de Cristo bajo las especies) y comulgar espiritualmente (unirse a Cristo por el deseo). La comunión sacramental presupone la espiritual, pero no al revés: alguien puede desear la comunión sin recibirla sacramentalmente, beneficiándose espiritualmente.
 
 ## Distinciones importantes
 

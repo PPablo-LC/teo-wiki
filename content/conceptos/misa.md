@@ -1,7 +1,7 @@
 # Misa
 
 > Área: Sacramental / Liturgia
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-15
 
 ## Definición
 
@@ -36,6 +36,24 @@ La Guía de Liturgia de la Legión de Cristo recoge la misa como centro de la vi
 En la Legión la misa de comunidad se tiene habitualmente en lengua vernácula. Dos veces por semana y en algunas fiestas señaladas se celebra en latín [GLit-2024, n. 74]. Se recomienda el uso de las diversas plegarias eucarísticas según un esquema que distingue solemnidades, domingos, días feriales y ocasiones especiales [GLit-2024, n. 103].
 
 Las misas solemnes se celebran en 25 días señalados que incluyen las grandes solemnidades del año litúrgico, las fiestas de la Congregación (Aniversario de la fundación, Decretum laudis, Virgen de los Dolores) y las misas de profesiones y ordenaciones [GLit-2024, n. 151].
+
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás dedica la cuestión 83 al rito de la misa, el acto de celebrar el sacrificio eucarístico.
+
+**Cristo como oferente principal (Q83 a.1):** El sacerdote ministerial ofrece el sacrificio en nombre de Cristo, pero Cristo mismo es el principal oferente. La misa es un verdadero sacrificio porque en ella se representa la pasión de Cristo mediante la consagración separada del Cuerpo y de la Sangre.
+
+**La doble consagración (Q83 a.2):** La consagración se hace sobre dos materias (pan y vino) para significar la separación del Cuerpo y la Sangre que ocurrió en la cruz, y porque el sacramento ha de constar de alimento y bebida, como símbolo de la perfecta refección espiritual.
+
+**Tiempo de la celebración (Q83 a.3):** La misa puede celebrarse a cualquier hora del día, aunque por reverencia y por tradición se celebra principalmente por la mañana. Solo en Navidad y Pascua se permite a medianoche.
+
+**Lugar de la celebración (Q83 a.4):** La misa debe celebrarse en lugar sagrado (iglesia u oratorio dedicado o bendecido) y sobre altar consagrado, por reverencia al sacramento y para que los fieles puedan congregarse.
+
+**Las palabras de la consagración (Q83 a.5):** Las palabras de Cristo (Hoc est enim corpus meum) son esenciales para la validez del sacramento. Las demás oraciones del canon son ceremoniales y no pertenecen a la esencia del sacramento.
+
+**Las ceremonias de la misa (Q83 a.6):** Las ceremonias de la misa (signos, genuflexiones, incienso, velas, etc.) no son superfluas sino convenientes: significan la reverencia debida a tan gran misterio, instruyen al pueblo fiel sobre la fe, y excitan la devoción interior.
+
+**Los defectos en la celebración (Q83 a.7-9):** La misa puede tener defectos por parte del ministro (falta de intención, indignidad moral), por parte de la materia (pan corrompido, vino avinagrado), o por parte del rito (omisión de palabras esenciales). La falta de intención interna de consagrar invalida el sacramento, pero la mera distracción no la impide.
 
 ## Distinciones importantes
 

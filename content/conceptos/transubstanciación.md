@@ -1,7 +1,7 @@
 # Transubstanciación
 
 > Área: Sacramental / Eucaristía
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-15
 
 ## Definición
 
@@ -28,6 +28,24 @@ Royo Marín expone la doctrina de la transubstanciación en el contexto del sacr
 La presencia real de Cristo en la Eucaristía es el fundamento del culto de adoración que la Iglesia tributa a este sacramento. La transubstanciación es un misterio de fe que solo puede ser conocido por la revelación divina.
 
 [TPCr, Parte III, Libro II, Cap. 1]
+
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás dedica la cuestión 75 al estudio de la transubstanciación.
+
+**Presencia real y conversión (Q75 a.1):** Cristo está verdaderamente presente en la eucaristía bajo las especies del pan y del vino después de la consagración. Esto se prueba por la autoridad de la Escritura, la fe de la Iglesia, y la razón teológica: la perfección del amor de Cristo que quiso permanecer con los suyos.
+
+**La conversión sustancial (Q75 a.2):** El cambio que ocurre en la eucaristía es una conversión de toda la sustancia del pan en el Cuerpo de Cristo, y de toda la sustancia del vino en su Sangre. Santo Tomás demuestra que no se trata de una consustanciación (que ambas sustancias coexistan) sino de una transubstanciación propia.
+
+**Posibilidad de la transubstanciación (Q75 a.3):** No es imposible que un cuerpo esté sacramentalmente bajo las especies del pan. El modo de presencia sacramental se distingue del modo natural: el cuerpo de Cristo no está localmente (según la dimensión) sino por conversión de la sustancia.
+
+**La aniquilación (Q75 a.4):** La transubstanciación no implica aniquilación del pan, sino conversión de su sustancia en el Cuerpo de Cristo. Si hubiese aniquilación, el Cuerpo de Cristo comenzaría a estar donde antes estaba el pan, lo cual no es correcto.
+
+**La permanencia de los accidentes (Q75 a.5):** Los accidentes del pan y del vino (color, sabor, olor, cantidad) permanecen después de la consagración sin sujeto, sostenidos milagrosamente por Dios, para que el sacramento sea perceptible a los sentidos y no cause horror.
+
+**La instantaneidad (Q75 a.7):** La transubstanciación se realiza en un instante, no en un proceso sucesivo, porque es obra del poder divino infinito. No hay un tiempo intermedio en que el pan se esté convirtiendo en el Cuerpo de Cristo.
+
+**La forma de las palabras (Q75 a.8):** La proposición «Esto es mi Cuerpo» es verdadera porque el pronombre «esto» se refiere a la sustancia que, antes de la consagración, era pan y después es el Cuerpo de Cristo. Las palabras no presuponen la realidad significada sino que la realizan.
 
 ## Distinciones importantes
 

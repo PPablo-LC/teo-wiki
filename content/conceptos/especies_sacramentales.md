@@ -1,7 +1,7 @@
 # Especies sacramentales
 
 > Área: Dogmática / Sacramental
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-15
 
 ## Definición
 
@@ -22,6 +22,20 @@ El CEC enseña que Cristo está presente «sobre todo, bajo las especies eucarí
 Royo Marín explica que la presencia real de Cristo está vinculada a las especies sacramentales: «su presencia real, física, está vinculada de tal manera a las especies sacramentales, que, cuando ellas se alteran substancialmente, desaparece en absoluto». La acción de gracias después de la comunión debe prolongarse mientras permanecen las especies —aproximadamente media hora—, durante la cual Cristo permanece físicamente presente en el corazón del comulgante.
 
 [TPCr, Tercera Parte, Libro II, Cap. 1, Art. 5]
+
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás dedica la cuestión 77 a los accidentes que permanecen en la eucaristía después de la consagración.
+
+**Accidentes sin sujeto (Q77 a.1):** Los accidentes del pan y del vino (color, sabor, olor, cantidad, peso) permanecen después de la consagración sin inherir en ningún sujeto. Dios los sostiene milagrosamente para que el sacramento sea perceptible a los sentidos.
+
+**La cantidad dimensiva (Q77 a.2):** La cantidad dimensiva (extensión) es el primer accidente que permanece y es el sujeto de los demás accidentes sensibles. Sobre ella se fundan las demás cualidades que afectan a los sentidos.
+
+**La fracción del pan (Q77 a.7-8):** Cuando se parte la hostia consagrada, no se parte el Cuerpo de Cristo sino solo las especies sacramentales. Cristo permanece entero en cada parte de la hostia partida, porque su presencia no está sujeta a la extensión material sino a la conversión sustancial.
+
+**La corrupción de las especies (Q77 a.4):** Si las especies sacramentales se corrompen (el pan se enmohece, el vino se agria), entonces Cristo deja de estar presente, porque el signo sacramental ha cesado. Cristo no abandona el sacramento por indignidad del lugar sino por corrupción de la materia.
+
+**Alimentos y bebidas que se añaden (Q77 a.6):** Si se añade algo extraño a las especies (otro alimento o bebida), se mezcla con los accidentes. La presencia de Cristo no se extiende a ello, pero podría impedir la validez de la consagración si altera la naturaleza de la materia.
 
 ## Distinciones importantes
 

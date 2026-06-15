@@ -1,7 +1,7 @@
 # Ayuno eucarístico
 
 > Área: Liturgia / Derecho Canónico
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-15
 
 ## Definición
 
@@ -24,6 +24,10 @@ El c. 919 §1 prescribe: «Quien vaya a recibir la santísima Eucaristía, debe 
 ### Según el Comentario al CIC (Eunsa)
 
 El Comentario Eunsa señala que el ayuno de una hora es el mínimo de reverencia corporal exigido por el derecho vigente, que debe interpretarse como disposición ascética y no como mero cumplimiento legal. La disciplina actual es más benigna que la histórica, pero la Iglesia anima a los fieles a practicar formas más generosas de preparación eucarística por devoción personal.
+
+### Según la Summa Theologiae (SmTh)
+
+**Ayuno corporal antes de la comunión (Q80 a.8):** Santo Tomás enseña que, por reverencia al sacramento, es conveniente que el cuerpo del comulgante esté limpio de alimentos carnales antes de recibir a Cristo. Sin embargo, el ayuno no es indispensable para la gracia del sacramento: quien comulga sin ayuno (por necesidad o por justa causa) no peca. La Iglesia prescribe el ayuno como disposición corporal y ascética, no como condición absoluta para la validez o fruto espiritual de la comunión.
 
 ## Distinciones importantes
 

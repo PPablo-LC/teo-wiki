@@ -1,7 +1,7 @@
 # Sacrificio eucarístico
 
 > Área: Sacramental / Dogmática
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-15
 
 ## Definición
 
@@ -28,6 +28,16 @@ La santa misa contiene las riquezas infinitas del sacrificio de Cristo. La mejor
 La Guía de Liturgia de la Legión de Cristo comienza su tratamiento del culto eucarístico citando el canon 897 del CIC, que define el sacrificio eucarístico como «memorial de la muerte y resurrección del Señor, en el cual se perpetúa a lo largo de los siglos el Sacrificio de la cruz» y «culmen y fuente de todo el culto y de toda la vida cristiana» [GLit-2024, n. 93].
 
 La santa misa, «el centro de la vida cristiana y el culmen de la acción por la que Dios santifica al mundo en Cristo, y del culto que los hombres ofrecen al Padre», merece ser celebrada con todo el respeto y veneración de que se es capaz [GLit-2024, n. 70, citando CLC 51].
+
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás desarrolla la dimensión sacrificial de la eucaristía en las cuestiones 79 y 83.
+
+**Efectos del sacramento como sacrificio (Q79 a.5):** El sacrificio de la misa es propiciatorio por los pecados y satisface por las penas debidas al pecado. No es un nuevo sacrificio distinto del de la cruz, sino su aplicación sacramental. Produce la remisión de la culpa, aunque en diverso grado según la disposición del sujeto.
+
+**Sufragio por los difuntos (Q79 a.7):** El sacrificio de la misa aprovecha a los difuntos, no como sacramento (pues ellos ya no pueden recibirlo) sino como sacrificio de sufragio. Les aplica los frutos de la pasión de Cristo para alivio de sus penas en el purgatorio, en la medida en que Dios dispone según su justicia y misericordia.
+
+**Inmolación de Cristo en la misa (Q83 a.1):** En la misa, Cristo es inmolado de modo incruento. Aunque murió una sola vez en la cruz, en cada misa se actualiza sacramentalmente su muerte. La inmolación consiste en la consagración separada del Cuerpo y de la Sangre, que representa la muerte del Señor.
 
 ## Distinciones importantes
 

@@ -1,7 +1,7 @@
 # Eucaristía
 
 > Área: Sacramental
-> Última actualización: 2026-06-02
+> Última actualización: 2026-06-15
 
 ## Definición
 
@@ -158,6 +158,22 @@ Ofrece indicaciones detalladas para las diversas partes de la misa: ritos inicia
 ### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
 
 León XIV predicó la Misa de Corpus Christi en la Plaza de Cibeles (Madrid) y la Misa en la Sagrada Familia (Barcelona), presentando la Eucaristía como misterio no solo contemplado sino vivido: «La Eucaristía no es un rito para ser contemplado, sino un misterio para ser vivido» [L_XIV-ViajeEspaña-2026, 04 — Misa de Corpus Christi]. Vinculó la procesión del Corpus a la misión cristiana: «No se trata únicamente de sacar la custodia, sino de dejarnos sacar nosotros mismos del egoísmo, de la indiferencia» [L_XIV-ViajeEspaña-2026, 04 — Misa de Corpus Christi]. La adoración eucarística es «escuela de caridad»: quien contempla a Cristo eucarístico «sale transformado para amar» [L_XIV-ViajeEspaña-2026, 04 — Misa de Corpus Christi]. En Barcelona definió cada Eucaristía como «una Pascua: paso de la muerte a la vida, del egoísmo al amor, de la esclavitud a la libertad» [L_XIV-ViajeEspaña-2026, 14 — Misa en la Sagrada Familia]. En Tenerife vinculó la Eucaristía con el dinamismo misionero [L_XIV-ViajeEspaña-2026, 23 — Misa en Tenerife]. Consistentemente presentó la Eucaristía como el centro de la vida cristiana e inseparable de la caridad.
+
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás dedica al sacramento de la eucaristía un tratado completo que abarca las cuestiones 73 a 83 de la IIIa Pars. A continuación se presentan los contenidos de la cuestión 73 (naturaleza del sacramento). Las cuestiones siguientes (Q74–Q83) se desarrollan en los artículos especializados: [[materia_de_la_eucaristía]] (Q74), [[transubstanciación]] (Q75), [[presencia_real]] (Q75–Q76), [[especies_sacramentales]] (Q77), [[forma_de_la_eucaristía]] (Q78), [[sagrada_comunión]] (Q79–Q80), [[ministro_de_la_eucaristía]] (Q82) y [[misa]] (Q83).
+
+**Naturaleza del sacramento (Q73 a.1):** La eucaristía es sacramento por dos razones: por significar la gracia que obra (unión con Cristo y entre los fieles) y porque opera lo que significa (la presencia real de Cristo).
+
+**Unidad del sacramento (Q73 a.2):** La eucaristía es un solo sacramento, pues aunque se consagran dos especies, significan un solo cuerpo místico del cual Cristo es cabeza. El pan significa el cuerpo, el vino la unidad de la cabeza y los miembros.
+
+**Necesidad del sacramento (Q73 a.3):** La eucaristía es necesaria _secundum aliquid_ (relativamente): como alimento espiritual para la vida del alma, aunque no con la necesidad absoluta del bautismo.
+
+**Nombre del sacramento (Q73 a.4):** Recibe varios nombres: «Eucaristía» (acción de gracias), «Sinaxis» (comunión), «Cena del Señor», «Sacrificio», «Comunión». Cada nombre expresa un aspecto del misterio.
+
+**Institución del sacramento (Q73 a.5):** Cristo instituyó la eucaristía en la Última Cena, antes de la pasión, para que quedase como memorial perpetuo de su muerte. El tiempo de la institución fue convenientísimo por ser la culminación de la antigua alianza y el comienzo de la nueva.
+
+**Prefiguraciones del Antiguo Testamento (Q73 a.6):** La eucaristía fue prefigurada por el sacrificio de Melquisedec (pan y vino), por el maná en el desierto, y por el pan de la proposición en el templo.
 
 ## Distinciones importantes
 
