@@ -1,7 +1,7 @@
 # Penitencia
 
 > Área: Sacramental
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-15
 
 ## Definición
 
@@ -81,6 +81,54 @@ Además del sacramento (regulado en cc. 959-997), el CIC trata la penitencia com
 
 *Sacrosanctum Concilium* 72 ordena la revisión del rito y las fórmulas de la penitencia «de manera que expresen más claramente la naturaleza y efecto del sacramento». SC 109-110, al tratar del tiempo cuaresmal, subraya la penitencia como preparación para el misterio pascual, y señala que la penitencia no debe ser solo interna e individual, sino también externa y social.
 
+### Según la Summa Theologiae (SmTh)
+
+**IIIª q.84 — La penitencia como sacramento:**
+
+a.1 — La penitencia es verdadero sacramento: los actos exteriores sensibles del penitente son la materia, y las palabras del sacerdote que absuelve son la forma.
+
+a.2 — Materia próxima: los actos del penitente (contrición, confesión, satisfacción). Materia remota: los pecados, no para conservarlos sino para destruirlos. Objeto propio y principal: los pecados mortales actuales.
+
+a.3 — Forma: «Yo te absuelvo». El sacerdote absuelve ministerialmente en virtud de la pasión de Cristo y del poder de las llaves (Mt 16,19). La forma indicativa no solo declara, sino que efectúa la absolución.
+
+a.4 — No requiere imposición de manos, porque la penitencia no comunica plenitud de gracia (como la confirmación), sino la remisión de los pecados.
+
+a.5 — Necesaria para la salvación no absolutamente, sino para quien ha cometido pecado mortal: es medicina para el enfermo.
+
+a.6 — Es la «segunda tabla después del naufragio» (San Jerónimo). Los tres primeros sacramentos (bautismo, confirmación, eucaristía) son la nave íntegra; la penitencia, la tabla para quien naufraga.
+
+a.7 — Instituida por Cristo en dos momentos: determinó la materia (los actos del penitente) al exhortar a la penitencia (Mt 4,17); determinó el oficio de los ministros (Mt 16,19) y la eficacia (Lc 24,47).
+
+a.8 — La penitencia interior (dolor del pecado) debe durar toda la vida; la exterior (confesión, satisfacción), un tiempo proporcionado al pecado.
+
+a.9 — Debe ser continua en sentido habitual (disposición permanente de aborrecer el pecado), no actualmente (no se puede estar siempre en acto de arrepentimiento).
+
+a.10 — Puede reiterarse, a diferencia del bautismo. La facilidad del perdón no es incentivo para pecar, porque la verdadera penitencia implica dolor y propósito de enmienda.
+
+**IIIª q.85 — La penitencia como virtud:**
+
+a.1 — La penitencia es virtud en cuanto acto de la voluntad con elección recta: dolerse del pecado con intención de eliminarlo. Como pasión del apetito sensitivo no es virtud, sino pasión.
+
+a.2 — Virtud especial: el empeño de destruir el pecado pasado en cuanto ofensa de Dios constituye un acto laudable específicamente distinto.
+
+a.3 — Especie de justicia: justicia relativa del hombre para con Dios, por la que el pecador ofrece compensación como siervo a su señor, hijo a su padre, esposa a su esposo.
+
+a.4 — Sujeto: la voluntad (apetito racional). Como pasión reside en el apetito concupiscible.
+
+a.5 — Origen en el temor servil (primer movimiento afectivo) y en el temor filial (principio próximo). El acto de penitencia procede de la moción divina, la fe, el temor servil, la esperanza, la caridad y el temor filial.
+
+a.6 — No es la primera virtud absolutamente: las teologales son anteriores por naturaleza. Su acto es cronológicamente el primero en la justificación del pecador.
+
+**IIIª q.90 — Las partes de la penitencia:**
+
+a.1 — La penitencia tiene partes porque los actos humanos que constituyen su materia son múltiples.
+
+a.2 — Tres partes: contrición (voluntad de reparar), confesión (sometimiento al sacerdote, lugarteniente de Dios), satisfacción (reparación según su arbitrio).
+
+a.3 — Son partes integrales (no subjetivas ni potenciales): el todo no está presente en cada parte, sino en todas colectivamente.
+
+a.4 — División según la virtud: penitencia anterior al bautismo (regeneración), penitencia de pecados mortales (reforma de la vida), penitencia de pecados veniales (perfeccionamiento).
+
 ### Según Royo Marín (TPCr)
 
 La penitencia es «el sacramento de la segunda tabla». Es el medio ordinario para recuperar la gracia perdida por el pecado.
@@ -110,6 +158,8 @@ Sobre la contrición:
 - [[pecado_venial]]
 - [[eucaristía]]
 - [[indulgencias]]
+- [[retorno_de_los_pecados]]
+- [[confesión]]
 
 ## Referencias
 
@@ -117,4 +167,4 @@ Sobre la contrición:
 - Mateo 16,18-19; 18,18
 - Juan 20,22-23
 - Concilio de Trento, D 895-923
-- Santo Tomás, S.Th., Suppl., q. 1-30
+- SmTh IIIª q.84-90

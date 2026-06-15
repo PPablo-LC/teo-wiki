@@ -1,7 +1,7 @@
 # Pecado venial
 
 > Área: Moral
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-15
 
 ## Definición
 
@@ -34,6 +34,16 @@ El pecado venial constituye un obstáculo insuperable para la perfección cristi
 **a.3 — En el estado de inocencia no podía haber pecado venial:** Antes del pecado mortal, el hombre no podía pecar venialmente porque la firmeza infalible del orden impedía todo desorden que no comenzase por no someterse a Dios (lo cual es pecado mortal).
 
 **a.4 — Los ángeles no pueden pecar venialmente:** El entendimiento angélico no es discursivo; por su misma naturaleza, no atienden a los medios sino en cuanto están bajo el orden del fin. Por tanto, no puede darse en ellos desorden acerca de los medios sin desorden acerca del fin.
+
+**IIIª q.87 — Remisión de los pecados veniales:**
+
+a.1 — El pecado venial se perdona con penitencia, pero no requiere una penitencia tan perfecta como el mortal. Basta un desagrado virtual: tener tal afecto a Dios que desagrade todo lo que entibia este afecto. No se requiere detestar actualmente cada pecado venial en particular.
+
+a.2 — No se requiere nueva infusión de gracia habitual; basta un acto procedente de la gracia o de la caridad. La gracia ya presente es suficiente para remover el desorden del venial.
+
+a.3 — Los pecados veniales se perdonan con la eucaristía, la extremaunción y todos los sacramentos de la nueva ley (que infunden gracia); también con la confesión general, los golpes de pecho y la oración dominical (que incluyen detestación); y con la bendición episcopal, el agua bendita, la oración en una iglesia consagrada y otras prácticas piadosas (que excitan el fervor hacia Dios). No siempre eliminan todo el débito de la pena.
+
+a.4 — El pecado venial no puede ser perdonado mientras el alma está en pecado mortal, porque quien carece de la gracia no puede ejercer el acto de caridad necesario para su remisión.
 
 ### Según el Catecismo (CEC)
 
@@ -80,4 +90,4 @@ El pecado venial se distingue del [[pecado_mortal]] y de la [[imperfección]]. S
 
 - [CEC §1854-1864]
 - [TPCr, Parte III, Libro I, Cap. I, n.207-210]
-- SmTh Ia-IIae q.88 aa.1-5; q.89 aa.1-4
+- SmTh Ia-IIae q.88 aa.1-5; q.89 aa.1-4; IIIª q.87 aa.1-4

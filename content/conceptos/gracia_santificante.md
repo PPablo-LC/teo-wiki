@@ -1,7 +1,7 @@
 # Gracia Santificante
 
 > Área: Dogmática
-> Última actualización: 2026-06-08
+> Última actualización: 2026-06-15
 
 ## Definición
 
@@ -26,6 +26,20 @@ Santo Tomás enseña que los ángeles fueron creados en gracia santificante desd
 **Ia-IIae q.110 — Esencia de la gracia santificante:** Por la gracia santificante el hombre participa de la naturaleza divina. La gracia no es solo el amor eterno de Dios, sino que pone algo real en el alma: un efecto creado por el amor divino (q.110 a.1). Este efecto es una cualidad del alma, un don habitual infundido por Dios, que dispone al alma para ser movida con suavidad y prontitud hacia el bien sobrenatural (q.110 a.2). La gracia se distingue de las virtudes infusas: así como la luz natural de la razón se distingue de las virtudes adquiridas, así la luz de la gracia —por la que participamos de la naturaleza divina— es cosa distinta de las virtudes infusas que de ella proceden (q.110 a.3). La gracia santificante reside en la esencia del alma, no en las potencias; de ella fluyen las virtudes infusas a las potencias como de la esencia brotan las potencias mismas (q.110 a.4).
 
 **Ia-IIae q.112 — Causa de la gracia:** Solo Dios puede causar la gracia santificante, que es participación de la naturaleza divina y sobrepasa toda facultad creada (q.112 a.1). Para recibirla se requiere preparación del sujeto, pero esta preparación es ya obra de la moción divina (q.112 a.2). La gracia no se da por necesidad a quien se prepara, sino según la voluntad divina (q.112 a.3). Por razón del sujeto, la gracia admite grados: unos participan más perfectamente de la luz divina que otros, según la disposición preparada por Dios (q.112 a.4). Con certeza solo por revelación especial se sabe que se posee la gracia; por conjetura, mediante signos como el gozo en Dios y la ausencia de pecado mortal (q.112 a.5).
+
+**IIIª q.89 — Recuperación de las virtudes por la penitencia:**
+
+a.1 — Por la penitencia se recuperan todas las virtudes infusas, porque con ella se infunde la gracia, de la cual fluyen todas las virtudes como de la esencia del alma fluyen las potencias.
+
+a.2 — Las virtudes se recuperan en mayor, igual o menor grado según la intensidad del movimiento del penitente en la justificación. La caída puede redundar en bien si torna al hombre más humilde y precavido.
+
+a.3 — La penitencia restituye la dignidad principal (ser hijo de Dios por la gracia), pero no la inocencia o la virginidad espiritual. El penitente puede alcanzar algo mejor: mayor humildad y amor, como el hijo pródigo recibe la mejor túnica, el anillo y las sandalias.
+
+a.4 — Las obras hechas con caridad quedan amortiguadas por el pecado mortal posterior: pierden su eficacia para conducir a la vida eterna, aunque permanecen en la aceptación divina.
+
+a.5 — Reviven por la penitencia: eliminado el impedimento del pecado, las obras recuperan su eficacia meritoria para la vida eterna.
+
+a.6 — Las obras muertas (hechas sin caridad, aunque buenas en sí mismas) no reviven, porque nunca procedieron del principio vital de la gracia. Pueden recibir remuneración temporal o mitigación del juicio.
 
 [TPCr, Parte II, Cap. 1]
 
@@ -73,4 +87,4 @@ La gracia santificante es el alma de todo el [[organismo_sobrenatural]], del que
 
 - [TPCr, Parte II, Cap. 1]
 - [PS §09,41-42]
-- SmTh Iª q.62 a.3-5; q.95 aa.1, 4
+- SmTh Iª q.62 a.3-5; q.95 aa.1, 4; IIIª q.89 aa.1-6

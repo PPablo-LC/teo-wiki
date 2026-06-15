@@ -1,7 +1,7 @@
 # Perdón de los pecados
 
 > Área: Sacramental
-> Última actualización: 2026-05-29
+> Última actualización: 2026-06-15
 
 ## Definición
 
@@ -31,6 +31,22 @@ Los efectos espirituales del sacramento son: la reconciliación con Dios, la rec
 
 La Constitución *Lumen Gentium* enseña que la Iglesia, «santa al mismo tiempo que necesitada de purificación constante, busca sin cesar la penitencia y la renovación» (LG §8). La Constitución *Sacrosanctum Concilium* destaca el carácter comunitario de la celebración penitencial (SC §27).
 
+### Según la Summa Theologiae (SmTh)
+
+**IIIª q.86 — La remisión de los pecados mortales por la penitencia:**
+
+a.1 — Todos los pecados mortales pueden ser perdonados por la penitencia en esta vida. No hay pecado del que uno no pueda arrepentirse —el libre albedrío del viador es flexible al bien y al mal—, ni pecado que la verdadera penitencia no pueda borrar, por la infinita misericordia de Dios y la eficacia universal de la pasión de Cristo.
+
+a.2 — El pecado mortal no puede ser perdonado sin la penitencia como virtud (cambio actual de la voluntad). Puede ser perdonado sin el sacramento (Dios no ha vinculado su poder a los sacramentos), pero nunca sin la virtud de la penitencia, porque la ofensa consiste en que la voluntad se aparta de Dios y es necesario que retorne a Él.
+
+a.3 — No pueden perdonarse unos pecados mortales y otros no: todos se perdonan o ninguno. La gracia, que es una, no puede coexistir con ningún pecado mortal, y el verdadero penitente detesta todo pecado en cuanto ofensa de Dios (q.86 a.3).
+
+a.4 — Perdonada la culpa, permanece el débito de la pena temporal. La aversión a Dios (elemento formal) desaparece con la gracia, pero la conversión desordenada a los bienes creados (elemento material) exige satisfacción.
+
+a.5 — Permanecen secuelas (reliquiae) del pecado: disposiciones causadas por los actos precedentes, debilitadas pero no eliminadas, que son removidas gradualmente por la gracia cooperante.
+
+a.6 — La remisión de la culpa es efecto de la penitencia principalmente como sacramento (por el poder de las llaves) y secundariamente como virtud (por los actos del penitente subordinados a las llaves).
+
 ## Distinciones importantes
 
 - **Pena eterna** vs. **pena temporal**: el pecado mortal conlleva la privación de la comunión con Dios (pena eterna); todo pecado entraña también un apego desordenado que requiere purificación (pena temporal). La absolución remite la pena eterna; las indulgencias remiten total o parcialmente la pena temporal (CEC §1471-1473).
@@ -39,14 +55,15 @@ La Constitución *Lumen Gentium* enseña que la Iglesia, «santa al mismo tiempo
 
 ## Relaciones doctrinales
 
-Se relaciona con [[penitencia]], [[confesión]], [[conversión]], [[reconciliación]], [[bautismo]], [[contrición]], [[absolución]], [[indulgencias]], [[comunión_de_los_santos]], [[satisfacción]], [[sigilo_sacramental]].
+Se relaciona con [[penitencia]], [[retorno_de_los_pecados]], [[confesión]], [[conversión]], [[reconciliación]], [[bautismo]], [[contrición]], [[absolución]], [[indulgencias]], [[comunión_de_los_santos]], [[satisfacción]], [[sigilo_sacramental]].
 
 ## Ver también
 
-[[penitencia]], [[confesión]], [[conversión]], [[reconciliación]], [[contrición]], [[absolución]], [[bautismo]], [[indulgencias]]
+[[penitencia]], [[retorno_de_los_pecados]], [[confesión]], [[conversión]], [[reconciliación]], [[contrición]], [[absolución]], [[bautismo]], [[indulgencias]]
 
 ## Referencias
 
 - [CEC §976-987]
 - [CEC §1422-1498]
 - [CEC §1471-1473]
+- SmTh IIIª q.86 aa.1-6
