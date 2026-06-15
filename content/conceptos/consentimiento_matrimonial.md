@@ -1,7 +1,7 @@
 # Consentimiento matrimonial
 
 > Área: Derecho Canónico / Sacramental
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-15
 
 ## Definición
 
@@ -25,6 +25,16 @@ El comentario al c. 1095 (P.J. Viladrich) explica que el consentimiento matrimon
 
 El comentario al c. 1098 señala que se tipifica por vez primera el dolo como causa de nulidad, distinguiéndolo del error: en el dolo es un tercero quien elabora mediante engaño una falsa realidad. El comentario al c. 1103 distingue la violencia física (que opera sobre la expresión externa) del miedo o coacción moral (que vicia la génesis interna del consentimiento).
 
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata el consentimiento matrimonial en el Suplemento (q.45-48). Es la causa eficiente del matrimonio, que produce el vínculo conyugal (q.45 a.1). Debe expresarse con palabras o signos equivalentes —señales que manifiestan el consentimiento interno— (q.45 a.2). Las palabras en tiempo de futuro (desponsalia) hacen esponsales, no matrimonio; solo las palabras en tiempo de presente expresan el consentimiento actual que hace el matrimonio (q.45 a.3). El consentimiento interno es necesario para la validez: si externamente se pronuncian palabras de consentimiento pero internamente no hay voluntad de casarse, no hay verdadero matrimonio (q.45 a.4). El consentimiento secreto, aunque verdadero internamente, es válido pero ilícito si se omite la forma canónica establecida por la Iglesia (q.45 a.5).
+
+El juramento añadido a palabra de futuro no hace matrimonio (q.46 a.1). La cópula subsiguiente a esponsales, si falta el consentimiento interno, no hace matrimonio en el fuero interno; pero en el fuero externo la Iglesia lo presume mientras no se pruebe lo contrario (q.46 a.2).
+
+El matrimonio contraído por miedo grave que quebranta la libertad interior es inválido, porque el matrimonio requiere amor perpetuo y libre (q.47 a.1-4). El consentimiento condicional puede valer según la naturaleza de la condición; si es condición de presente (verificable), el matrimonio vale; si es de futuro, debe distinguirse (q.47 a.5). Ninguno puede ser obligado por sus padres a casarse contra su voluntad (q.47 a.6).
+
+El objeto del consentimiento no es primariamente la cópula carnal, sino la potestad mutua sobre los cuerpos para los actos ordenados a la generación (q.48 a.1). Quien contrae por motivo torpe (p. ej., avaricia) peca en la intención pero el matrimonio es válido (q.48 a.2).
+
 ## Relaciones doctrinales
 
 El consentimiento matrimonial es el elemento constitutivo del [[matrimonio]]. Se distingue de los [[impedimentos_dirimentes]], que inhabilitan a la persona para consentir válidamente, y de la forma canónica, que es el requisito externo de validez. Se relaciona con la [[convalidación_del_matrimonio]] cuando el consentimiento inicial fue nulo.
@@ -38,3 +48,4 @@ El consentimiento matrimonial es el elemento constitutivo del [[matrimonio]]. Se
 - CIC cc. 1055-1057
 - CIC cc. 1095-1107
 - Com-CIC-Eunsa, comentarios a los cc. 1095-1107 (P.J. Viladrich)
+- SmTh, Suppl., q. 45-48

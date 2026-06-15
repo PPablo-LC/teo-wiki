@@ -1,7 +1,7 @@
 # Matrimonio
 
 > Área: Sacramental
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-15
 
 ## Definición
 
@@ -108,6 +108,28 @@ Sobre la gracia sacramental:
 El P. Jorge Loring trata el matrimonio como sacramento en el capítulo 13 de *Para Salvarte*. El matrimonio es «un sacramento en el cual, contraído según las leyes de la Iglesia, por el mutuo consentimiento de los contrayentes expresado legítimamente con libertad y sinceridad, se les concede la gracia para santificar su unión conyugal y para cumplir bien los deberes matrimoniales» (PS §13,97,7). Sus propiedades esenciales son la unidad y la indisolubilidad: «uno con una y para siempre». El vínculo conyugal dura mientras viva cualquiera de los cónyuges.
 
 En el capítulo 12, Loring desarrolla extensamente la preparación al matrimonio mediante el noviazgo. El amor verdadero es generoso y busca el bien de la persona amada, no la propia satisfacción. «El amor, al contrario que el dinero, cuanto más se da, más se tiene». El matrimonio requiere amor espiritual, no mera atracción carnal: «cuanto más pongas de carnal en tu cariño, menos sitio dejas para lo espiritual». La pureza en el noviazgo es garantía de felicidad futura: «Fieles hasta la muerte y puros hasta el altar» (PS §12,68,13-14).
+
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás trata el matrimonio en el Suplemento (q.41-68). Las nueve primeras cuestiones (q.41-49) constituyen la introducción teológica sobre la naturaleza, consentimiento y bienes del matrimonio.
+
+**El matrimonio como institución natural (Suppl. q.41).** El matrimonio es de derecho natural por inclinación de la naturaleza racional, no por necesidad absoluta (q.41 a.1). Su fin principal es el bien de la prole (generación y educación); su fin secundario, la mutua ayuda doméstica (q.41 a.1). El precepto de casarse no obliga a cada individuo, pues el bien de la comunidad se satisface con que algunos se dediquen a la vida contemplativa (q.41 a.2). El acto conyugal no es pecaminoso si está ordenado según la recta razón, pues el matrimonio restaura la honestidad del acto (q.41 a.3-4).
+
+**El matrimonio como sacramento (Suppl. q.42).** Es verdadero sacramento de la Nueva Ley (q.42 a.1). Fue instituido antes del pecado como oficio de naturaleza (para la generación), bajo la ley natural como remedio, bajo la ley mosaica respecto a las inhabilitaciones personales, y en la Nueva Ley como sacramento que significa el misterio de Cristo y la Iglesia (q.42 a.2). Confiere gracia santificante a los contrayentes (q.42 a.3). La cópula carnal no pertenece a la integridad del sacramento; el matrimonio existe ya por el consentimiento, antes de la consumación (q.42 a.4).
+
+**Los esponsales (Suppl. q.43).** Los esponsales son la promesa de matrimonio futuro (q.43 a.1). Requieren el uso de razón, que se da a partir de los siete años (q.43 a.2). Pueden cancelarse por impedimento sobrevenido o por mutuo disenso (q.43 a.3).
+
+**Definición (Suppl. q.44).** El matrimonio es una unión o relación que constituye el vínculo conyugal (q.44 a.1). Se define como «la unión marital del varón y la mujer que implica convivencia en sociedad indivisa» (q.44 a.3).
+
+**El consentimiento matrimonial (Suppl. q.45-48).** El consentimiento es la causa eficiente del matrimonio (q.45 a.1). Debe expresarse con palabras o signos equivalentes (q.45 a.2). Las palabras de futuro no hacen el matrimonio sino los esponsales; las palabras de presente hacen el matrimonio inmediatamente (q.45 a.3). El consentimiento interno es necesario para la validez; sin él, las palabras externas no producen verdadero matrimonio (q.45 a.4). El consentimiento secreto, aunque verdadero, es válido pero ilícito si falta la forma canónica (q.45 a.5).
+
+El juramento añadido a palabras de futuro no hace el matrimonio (q.46 a.1). La cópula carnal subsiguiente a esponsales no hace el matrimonio en el fuero interno si falta el consentimiento, pero en el fuero externo la Iglesia lo presume (q.46 a.2).
+
+El consentimiento forzado o por miedo grave invalida el matrimonio, pues este requiere un amor libre y perpetuo (q.47 a.1-4). El consentimiento condicional puede valer según la naturaleza de la condición (q.47 a.5). Nadie puede ser obligado por sus padres a casarse contra su voluntad (q.47 a.6).
+
+El objeto del consentimiento no es la cópula carnal explícitamente, sino la potestad mutua sobre los cuerpos ordenada a la generación (q.48 a.1). El matrimonio contraído por un motivo torpe (p. ej., por avaricia) es válido, aunque el contrayente peca en su intención (q.48 a.2).
+
+**Los bienes del matrimonio (Suppl. q.49).** Tres bienes excusan y rectifican el matrimonio: la «prole» (generación y educación de los hijos), la «fe» (fidelidad conyugal), y el «sacramento» (indisolubilidad) (q.49 a.1-2). De estos, el más principal es el sacramento (la indisolubilidad), por ser signo de la unión indisoluble de Cristo con la Iglesia (q.49 a.3).
 
 ## Distinciones importantes
 

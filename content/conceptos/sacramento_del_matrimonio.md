@@ -1,7 +1,7 @@
 # Sacramento del matrimonio
 
 > Área: Sacramental / Doctrina Social
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-15
 
 ## Definición
 
@@ -24,6 +24,11 @@ Los bautizados viven la realidad humana y original del matrimonio en la forma so
 
 *Sacrosanctum Concilium* 77-78 regula la celebración del matrimonio. El rito debe revisarse y enriquecerse para que exprese la gracia del sacramento e inculque los deberes de los esposos con mayor claridad. Las costumbres laudables y ceremonias propias de cada lugar deben conservarse (SC 77). El matrimonio debe celebrarse habitualmente dentro de la Misa, después del Evangelio y la homilía, antes de la oración de los fieles (SC 78). La oración por la esposa debe revisarse para inculcar la igualdad de ambos esposos en la obligación de mutua fidelidad (SC 78).
 
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás enseña en el Suplemento (q.42) que el matrimonio es verdadero sacramento de la Nueva Ley (q.42 a.1). Fue instituido en diversos estadios: antes del pecado como oficio de naturaleza para la generación; bajo la ley natural como remedio contra la concupiscencia; bajo la ley mosaica respecto a las inhabilitaciones personales; y en la Nueva Ley, como sacramento que significa el misterio de la unión de Cristo con la Iglesia (q.42 a.2). En cuanto sacramento, confiere gracia santificante (q.42 a.3). La cópula carnal no pertenece a la integridad del sacramento, pues el matrimonio se perfecciona por el consentimiento (q.42 a.4).
+
+Los tres bienes del matrimonio (Suppl. q.49) son la prole (fin primario), la fe o fidelidad, y el sacramento o indisolubilidad. Este último es el más principal, por ser imagen de la unión indisoluble de Cristo con la Iglesia (q.49 a.3). La forma del sacramento son las palabras del consentimiento; la bendición sacerdotal es un sacramental (q.42 a.1 ad 1).
 
 ## Relaciones doctrinales
 
