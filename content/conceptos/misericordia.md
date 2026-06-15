@@ -29,6 +29,10 @@ El alma que busca la perfección debe practicar las obras de misericordia como e
 
 [TPCr, Parte II — El Organismo Sobrenatural]
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+La misericordia fue un tema transversal en todo el viaje. León XIV la proclamó como el corazón del Evangelio: «La misericordia es el nombre de Dios» [L_XIV-ViajeEspaña-2026, 10 — Visita a la prisión Brians 1]. En la prisión de Brians 1 unió justicia y misericordia: «La justicia sin misericordia es cruel; la misericordia sin justicia es falsa» [L_XIV-ViajeEspaña-2026, 10 — Visita a la prisión Brians 1]. En las Misas de Canarias la misericordia divina fue presentada como fuente de la caridad cristiana y respuesta al amor de Dios manifestado en el Corazón de Cristo [L_XIV-ViajeEspaña-2026, 18 — Misa en Gran Canaria; 23 — Misa en Tenerife].
+
 ## Distinciones importantes
 
 - **Misericordia** ≠ **justicia**: la misericordia no se opone a la justicia, sino que la perfecciona y la trasciende.

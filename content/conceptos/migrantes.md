@@ -35,6 +35,10 @@ GS 84: Las instituciones internacionales deben ayudar a los emigrantes y a sus f
 
 León XIV aborda la condición de los migrantes en el §81 de *Magnífica Humanitas*, como «un examen decisivo para la justicia social hoy». Retoma la enseñanza de Francisco: los migrantes son «una imagen viva del Pueblo de Dios en camino» y «personas con dignidad, recursos y sueños, que tienen derecho a ser tratadas con respeto». Defiende dos compromisos: «proteger el derecho a la esperanza de quien está obligado a partir, garantizándole vías seguras y legales, condiciones de acogida dignas y procesos reales de integración», y «promover también el derecho a permanecer en la propia tierra en paz y seguridad, afrontando las causas profundas que obligan a migrar, incluidas las causas vinculadas a las injusticias económicas y a la crisis climática». Concluye que «cuando estos derechos son respetados, las migraciones pueden ser una ocasión de encuentro y enriquecimiento mutuo entre los pueblos».
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+El encuentro con migrantes en Arguineguín fue uno de los momentos culminantes del viaje. León XIV afirmó: «Cada barca que llega no trae sólo migrantes; trae consigo una pregunta: ¿qué mundo hemos construido, si tantos hermanos tienen que arriesgar la muerte para buscar vida?» [L_XIV-ViajeEspaña-2026, 16-Arguineguín]. Llamó a acoger con dignidad, denunció las mafias de trata de personas y subrayó el derecho a no migrar. En Tenerife, presentó la integración como camino bidireccional: «quien llega debe respetar las leyes y la cultura del país que lo acoge, pero la sociedad que acoge debe abrirse al don de la diversidad» [L_XIV-ViajeEspaña-2026, 22-Tenerife]. Presentó la cuestión migratoria como «un espejo de nuestra humanidad»: el trato a los migrantes refleja la salud moral de una sociedad [L_XIV-ViajeEspaña-2026, 16-Arguineguín].
+
 ## Distinciones importantes
 
 - Derecho a emigrar ≠ derecho a inmigrar sin condiciones: el Estado tiene derecho a regular

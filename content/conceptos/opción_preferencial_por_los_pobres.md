@@ -25,6 +25,10 @@ La Constitución *Gaudium et Spes* expresa una constante preocupación por los p
 
 León XIV retoma la opción preferencial por los pobres en el §78 de *Magnífica Humanitas*, enmarcándola dentro de la justicia social. Citando a Juan Pablo II y Francisco, afirma que «la justicia social exige una mirada cuyo punto de partida sean los últimos» y que dicha opción «debe marcar las decisiones personales y sociales» (§78). Denuncia la «cultura del "descarte"» que «provoca cada vez más formas nuevas de exclusión» (§78). Aplica este principio al contexto digital: exige «mirar a las personas y a los pueblos comenzando por los que son más vulnerables: los pobres, los migrantes, los refugiados, los desplazados internos, las víctimas de la violencia, las personas que viven en periferias urbanas o existenciales» (§78). También señala que la opción por los pobres debe aplicarse a la transición tecnológica: «las piedras desechadas —los pobres, los enfermos, los migrantes, los pequeños— se convertirán en piedras angulares» (§16). La justicia social en la era digital requiere que «se impida el surgimiento de nuevas formas de exclusión» para aquellos a quienes «se les niega o dificulta el acceso a las tecnologías básicas» (§80).
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+León XIV encarnó la opción preferencial por los pobres a lo largo de todo su viaje apostólico a España. En la visita al Centro de Atención a Inmigrantes (CEDIA, 2 de junio), proclamó: «Los pobres son los predilectos de Dios» [L_XIV-ViajeEspaña-2026, CEDIA 02 — discurso]. Toda la visita al CEDIA fue una ilustración viva de esta opción. A lo largo del viaje, los pobres, migrantes, presos y ancianos fueron presentados como aquellos a quienes la Iglesia debe prestar atención prioritaria. El lema implícito del viaje fue «una Iglesia pobre para los pobres» [L_XIV-ViajeEspaña-2026, diversos discursos].
+
 ## Distinciones importantes
 
 - **Opción preferencial** ≠ **exclusión de los demás**: es primacía, no exclusión

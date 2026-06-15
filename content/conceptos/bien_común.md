@@ -37,6 +37,10 @@ GS 75: Todos los ciudadanos tienen el derecho y el deber de votar con libertad p
 
 León XIV dedica una reflexión sistemática al bien común en los §§59-64 de *Magnífica Humanitas*, describiéndolo como «la forma social de la dignidad que se reconoce a cada uno» (§59). Subraya que «el todo es más que las partes» (§61) y que el bien común no se reduce a la suma de bienes individuales, sino que es un *plus* que resulta de la interacción y la influencia recíproca entre acciones, iniciativas y decisiones. Afirma que la búsqueda del bien común «es lo que da vida a un pueblo, entendido no como una mera suma de individuos, sino como una realidad viva» (§62). Extiende el principio al ámbito internacional, donde el «bien común global» requiere «formas de cooperación y de instituciones internacionales más eficaces, capaces de cuidar el bien común global sin anular la legítima pluralidad de los pueblos y de los estados» (§64). En la era digital, el bien común exige «desenmascarar esta nueva asimetría epistémica, económica y política, nombrando los nuevos monopolios de la IA» (§109).
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+León XIV presentó el bien común como principio rector de la acción política: «La política está al servicio del bien común, no de intereses particulares» [L_XIV-ViajeEspaña-2026, 06-Parlamento; 01-Autoridades]. Lo vinculó al destino universal de los bienes, a la solidaridad y a la opción preferencial por los pobres como criterios irrenunciables de la vida pública [L_XIV-ViajeEspaña-2026, 06-Parlamento].
+
 
 ## Analizado para
 

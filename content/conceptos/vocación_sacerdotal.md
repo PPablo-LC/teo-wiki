@@ -1,0 +1,50 @@
+# Vocación sacerdotal
+
+> Área: Teología espiritual / Eclesiología
+> Última actualización: 2026-06-14
+
+## Definición
+
+Llamada de Dios a un bautizado para configurarse con Jesucristo, Cabeza y Pastor de la Iglesia, mediante el sacramento del Orden en el grado del presbiterado, capacitándolo para actuar *in persona Christi Capitis* al servicio del Pueblo de Dios.
+
+## Desarrollo doctrinal
+
+La vocación sacerdotal es un don gratuito de Dios que se inscribe en la vocación universal a la santidad. Juan Pablo II enseña que el presbítero es llamado no solo en cuanto bautizado, sino también y específicamente en cuanto presbítero, «con un nuevo título y con modalidades originales que derivan del sacramento del Orden» (PDV 19). Esta vocación específica consiste en la configuración con Jesucristo, Cabeza y Pastor, y en la participación de su caridad pastoral.
+
+## Perspectivas por fuente
+
+### Según el Catecismo (CEC)
+
+El Catecismo enseña que el sacramento del Orden es conferido por la imposición de manos y la oración consecratoria (CEC 1538). Solo los varones bautizados pueden recibir válidamente la ordenación (CEC 1577). Nadie tiene derecho a recibir el sacramento del Orden, pues es un don gratuito de Dios (CEC 1578). El candidato debe ser llamado por Dios, tener recta intención, poseer las cualidades requeridas y estar destinado al ministerio por la autoridad eclesiástica (CEC 1598). La Iglesia reconoce como requisitos la idoneidad moral, espiritual y física, así como la debida formación (CEC 1598-1599).
+
+### Según el Concilio Vaticano II (ConcVatII)
+
+*Optatum Totius* establece que la formación de los candidatos al sacerdocio debe tener como fin formar verdaderos pastores de almas a ejemplo de Cristo (OT §4). Investíguese cuidadosamente la rectitud de intención, libertad e idoneidad de los candidatos (OT §6). *Presbyterorum Ordinis* afirma que los presbíteros, por la ordenación sagrada, quedan marcados con un carácter especial que los configura con Cristo Sacerdote (PO 2).
+
+### Según Juan Pablo II (PDV)
+
+La vocación sacerdotal tiene como fuente la Santísima Trinidad (PDV 12). El presbítero es insertado sacramentalmente en la comunión con el Obispo y con los otros presbíteros, al servicio del Pueblo de Dios (PDV 12). La identidad sacerdotal es esencialmente relacional: se define por la relación con Cristo, con la Iglesia, con el Obispo y con el presbiterio (PDV 12-17).
+
+La vocación sacerdotal debe ser discernida en la comunidad cristiana. La familia, la parroquia, los movimientos y asociaciones constituyen los ambientes donde nace y madura la vocación (PDV 34-41). El seminario es el lugar del discernimiento y la formación.
+
+La respuesta a la vocación exige una opción libre y responsable, que implica abandonar la propia voluntad para seguir a Cristo, Buen Pastor. La vocación sacerdotal es, por su naturaleza, una vocación a la santidad específica: a vivir el radicalismo evangélico mediante los consejos de obediencia, castidad y pobreza según el estilo propio del presbítero (PDV 27-30).
+
+## Distinciones importantes
+
+- Vocación universal a la santidad (recibida en el Bautismo) vs. vocación específica al presbiterado (recibida por el sacramento del Orden)
+- Vocación sacerdotal vs. vocación a la vida consagrada religiosa: el presbítero diocesano no profesa los consejos evangélicos por votos, pero está llamado a vivirlos según el estilo propio del ministerio ordenado
+- Vocación interior (llamada de Dios al corazón) vs. vocación eclesial (reconocimiento y confirmación por la autoridad de la Iglesia)
+
+## Relaciones doctrinales
+
+[[vocación]], [[identidad_sacerdotal]], [[espiritualidad_sacerdotal]], [[discernimiento_vocacional]], [[sacerdocio_ordenado]], [[presbítero]], [[pastoral_vocacional]], [[caridad_pastoral]]
+
+## Ver también
+
+[[formación_sacerdotal]], [[seminario]], [[celibato_sacerdotal]], [[obediencia_apostólica]], [[pecado_original]]
+
+## Referencias
+
+- [PDV §12, §19, §27-30, §34-41]
+- [CEC §1578-1579, §1598-1599]
+- [ConcVatII, OT §4-6; PO §2]

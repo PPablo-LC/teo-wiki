@@ -1,7 +1,7 @@
 # Configuración con Cristo
 
 > Área: Ascética / Dogmática
-> Última actualización: 2026-06-12
+> Última actualización: 2026-06-14
 
 ## Definición
 
@@ -27,6 +27,12 @@ Distingue varios aspectos de la configuración:
 La configuración con Cristo es inseparable de la devoción a la Santísima Virgen, que es el molde en que el cristiano se configura con Cristo, y de la vida eclesial, pues solo en la Iglesia y por los sacramentos se realiza esta configuración.
 
 [TPCr, Parte I, Cap. 4]
+
+### Según Juan Pablo II (PDV)
+
+*Pastores dabo vobis* desarrolla la configuración del presbítero con Jesucristo, Cabeza y Pastor, como efecto propio del sacramento del Orden. Mediante la consagración sacramental, «el sacerdote se configura con Jesucristo, en cuanto Cabeza y Pastor de la Iglesia, y recibe como don una "potestad espiritual", que es participación de la autoridad con la cual Jesucristo, mediante su Espíritu, guía la Iglesia» (PDV 21). Esta configuración define la vida espiritual del sacerdote: «queda caracterizada, plasmada y definida por aquellas actitudes y comportamientos que son propios de Jesucristo, Cabeza y Pastor de la Iglesia y que se compendian en su caridad pastoral» (PDV 21).
+
+La configuración con Cristo no es solo ontológica sino también operativa: «Conforma tu vida con el misterio de la cruz del Señor», exhorta la Iglesia al presbítero en el rito de la ordenación (PDV 24). El sacerdote debe cultivar la conciencia de ser «instrumento vivo» de Cristo (PDV 25), llamado a revivir la autoridad y el servicio de Jesucristo, Cabeza y Pastor. La configuración con Cristo incluye la dimensión esponsal: el presbítero está llamado a ser «imagen viva de Jesucristo Esposo de la Iglesia» (PDV 22).
 
 ### Según León XIV (JorSant-2026)
 

@@ -1,7 +1,7 @@
 # Dirección espiritual
 
 > Área: Ascética / Mística
-> Última actualización: 2026-05-20
+> Última actualización: 2026-06-14
 
 ## Definición
 
@@ -12,6 +12,10 @@ La dirección espiritual es el arte de conducir las almas progresivamente desde 
 Royo Marín dedica el artículo 5 del capítulo V al estudio completo de la dirección espiritual (n.670-705). Distingue tres partes: el director, el dirigido y las relaciones entre ambos. La dirección espiritual es moralmente necesaria para alcanzar la perfección cristiana, según el testimonio de la Tradición, la autoridad de la Iglesia y la misma psicología humana (n.672).
 
 ## Perspectivas por fuente
+
+### Según Juan Pablo II (PDV)
+
+*Pastores dabo vobis* presenta la dirección espiritual como medio indispensable de la formación espiritual de los candidatos al sacerdocio (PDV 50). Es «necesaria para que el candidato pueda conocer la verdad sobre sí mismo, descubrir sus talentos y sus límites, y madurar en el camino de la santidad» (PDV 50). La dirección espiritual debe ser ejercida por sacerdotes experimentados (PDV 50) y debe integrarse armónicamente con los demás medios de formación: la vida de oración, los sacramentos, la vida comunitaria y la formación intelectual.
 
 ### Según Royo Marín (TPCr)
 

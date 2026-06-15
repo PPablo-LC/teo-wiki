@@ -155,6 +155,10 @@ La Guía recoge la definición del CIC: «El sacrificio eucarístico, memorial d
 
 Ofrece indicaciones detalladas para las diversas partes de la misa: ritos iniciales, liturgia de la Palabra, liturgia eucarística y ritos conclusivos, así como para las diversas formas de celebrar (concelebración, misa con un solo ministro, misas en ocasiones especiales). Recomienda el uso de las diversas plegarias eucarísticas según las circunstancias [GLit-2024, n. 103].
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+León XIV predicó la Misa de Corpus Christi en la Plaza de Cibeles (Madrid) y la Misa en la Sagrada Familia (Barcelona), presentando la Eucaristía como misterio no solo contemplado sino vivido: «La Eucaristía no es un rito para ser contemplado, sino un misterio para ser vivido» [L_XIV-ViajeEspaña-2026, 04 — Misa de Corpus Christi]. Vinculó la procesión del Corpus a la misión cristiana: «No se trata únicamente de sacar la custodia, sino de dejarnos sacar nosotros mismos del egoísmo, de la indiferencia» [L_XIV-ViajeEspaña-2026, 04 — Misa de Corpus Christi]. La adoración eucarística es «escuela de caridad»: quien contempla a Cristo eucarístico «sale transformado para amar» [L_XIV-ViajeEspaña-2026, 04 — Misa de Corpus Christi]. En Barcelona definió cada Eucaristía como «una Pascua: paso de la muerte a la vida, del egoísmo al amor, de la esclavitud a la libertad» [L_XIV-ViajeEspaña-2026, 14 — Misa en la Sagrada Familia]. En Tenerife vinculó la Eucaristía con el dinamismo misionero [L_XIV-ViajeEspaña-2026, 23 — Misa en Tenerife]. Consistentemente presentó la Eucaristía como el centro de la vida cristiana e inseparable de la caridad.
+
 ## Distinciones importantes
 
 - **Transubstanciación**: cambio de sustancia, permaneciendo los accidentes

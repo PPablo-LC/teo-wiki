@@ -16,6 +16,7 @@ Primer papa nacido en Estados Unidos, primer pontífice de la Orden de San Agust
 - Mensaje para la 100.ª Jornada Mundial de las Misiones (18 de enero de 2026)
 - Carta al Presbiterio de la Arquidiócesis de Madrid «Convivium» (9 de febrero de 2026), sobre la identidad sacerdotal, la secularización y la fraternidad presbiteral
 - Mensaje para la Jornada por la Santificación Sacerdotal (12 de junio de 2026), sobre la santidad sacerdotal y el Sagrado Corazón de Jesús
+- Viaje Apostólico a España (6-12 de junio de 2026), primera visita apostólica, 23 intervenciones en Madrid, Barcelona, Montserrat, Gran Canaria y Tenerife
 
 ## Perspectivas por fuente
 
@@ -116,6 +117,53 @@ En su encuentro con los presbíteros de Roma (19 de febrero de 2026), León XIV 
 
 La carta «Convivium» concluye con el consejo de san Juan de Ávila: «Sed vosotros todo suyo».
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+León XIV realizó su primer viaje apostólico a España del 6 al 12 de junio de 2026,
+con 23 intervenciones en Madrid, Barcelona, Montserrat, Gran Canaria y Tenerife.
+Los ejes doctrinales del viaje fueron:
+
+1. **Dignidad humana inviolable**: En el Parlamento, afirmó que la dignidad humana
+«precede a toda concesión del Estado y no puede quedar subordinada a consensos
+sociales mudables», defendiendo la vida desde la concepción hasta la muerte natural
+y advirtiendo que «si la vida deja de ser reconocida como un valor fundamental,
+¿qué futuro pueden tener nuestras sociedades?».
+
+2. **Migración como cuestión moral**: En Arguineguín (Gran Canaria) y Tenerife,
+desarrolló una teología de la acogida: «Cada barca que llega no trae sólo migrantes;
+trae consigo una pregunta: ¿qué mundo hemos construido, si tantos hermanos tienen
+que arriesgar la muerte para buscar vida?». Subrayó el derecho a no tener que migrar
+y denunció a las mafias de tráfico de personas.
+
+3. **Eucaristía y transformación social**: En la homilía del Corpus Christi, vinculó
+la procesión eucarística con la caridad: «No se trata únicamente de sacar la custodia,
+sino de dejarnos sacar nosotros mismos del egoísmo, de la indiferencia». En Gran
+Canaria y Tenerife, desarrolló la devoción al Sagrado Corazón como fuente de la
+caridad cristiana.
+
+4. **Cultura del encuentro vs polarización**: Ante las autoridades, invitó a
+«abandonar las narrativas divisivas y polarizantes» y a pasar «de las simplificaciones
+estériles a la apreciación fecunda de la complejidad». Citó a Francisco (EG 231) sobre
+la realidad superior a la idea.
+
+5. **Jóvenes como protagonistas del cambio**: En las vigilias de Madrid y Barcelona,
+llamó a los jóvenes a «ser sal de la tierra y luz del mundo», a cultivar el silencio
+para discernir la voz de Dios, y les confió la misión: «sed humanos: hombres y mujeres
+de carne y hueso». Animó al matrimonio y a la vocación sacerdotal.
+
+6. **Escuela de Salamanca y derecho internacional**: En el Parlamento, recuperó la
+figura de Francisco de Vitoria y la Escuela de Salamanca como fundamento del derecho
+internacional y de la conciencia de que «la autoridad lleva siempre consigo una
+responsabilidad».
+
+7. **Caridad y gratuidad**: A los voluntarios, propuso «la levadura de la gratuidad»
+como rasgo esencial del estilo cristiano. En el CEDIA, subrayó que la caridad «no
+admite demoras» y que cada encuentro con el necesitado es un *kairós*.
+
+8. **Arte y evangelización**: En la Sagrada Familia, destacó a Gaudí como arquitecto
+de fe y la belleza como «eminente canal de evangelización» en «este tiempo de la
+imagen».
+
 ### Según los Ejercicios Espirituales 2026 (EjEsp2026)
 
 León XIV participó en los Ejercicios Espirituales de Cuaresma predicados por Mons. Erik Varden en la Capilla Paulina (23-28 de febrero de 2026). En sus palabras finales (epílogo), el Papa agradeció a Varden el acompañamiento espiritual, destacando las meditaciones sobre la libertad, la verdad y la esperanza.
@@ -126,7 +174,7 @@ Mencionó explícitamente al Cardenal John Henry Newman y su poema *El sueño de
 
 ## Ver también
 
-[[legión_de_cristo]], [[john_connor]], [[carlos_gutiérrez]], [[erik_varden]], [[john_henry_newman]]
+[[legión_de_cristo]], [[john_connor]], [[carlos_gutiérrez]], [[erik_varden]], [[john_henry_newman]], [[viaje_apostólico_españa_2026]]
 
 ## Referencias
 
@@ -137,4 +185,5 @@ Mencionó explícitamente al Cardenal John Henry Newman y su poema *El sueño de
 - [DC-Convivium, 09.02.2026]
 - [L_XIV-ClerRom, 19.02.2026]
 - [JorSant-2026, 12.06.2026]
+- [L_XIV-ViajeEspaña-2026, 01-23]
 - [EjEsp2026, epílogo]

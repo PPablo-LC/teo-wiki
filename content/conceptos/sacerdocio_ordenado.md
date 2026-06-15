@@ -1,7 +1,7 @@
 # Sacerdocio ordenado
 
 > Área: Sacramental
-> Última actualización: 2026-06-12
+> Última actualización: 2026-06-14
 
 ## Definición
 
@@ -22,6 +22,10 @@ El Orden es el sacramento del ministerio apostólico, que comprende tres grados 
 
 **Lumen Gentium, cap. III:** El Concilio enseña que los obispos, por institución divina, han sucedido a los Apóstoles como pastores de la Iglesia (LG 20). La consagración episcopal confiere la plenitud del sacramento del Orden, junto con los oficios de santificar, enseñar y regir, que no pueden ejercerse sino en comunión jerárquica con la Cabeza del Colegio episcopal (LG 21). Los obispos rigen las Iglesias particulares como vicarios de Cristo con potestad propia, ordinaria e inmediata (LG 27). El Colegio episcopal, con su Cabeza el Romano Pontífice, es sujeto de la suprema y plena potestad sobre la Iglesia universal (LG 22).
 **Presbyterorum Ordinis:** El decreto desarrolla la naturaleza del presbiterado. Los presbíteros, por la ordenación sagrada, quedan marcados con un carácter especial que los configura con Cristo Sacerdote, para obrar en nombre de Cristo Cabeza (PO 2). Son cooperadores del orden episcopal y forman un presbiterio con su obispo (PO 7-8). Su triple función consiste en anunciar la palabra de Dios, administrar los sacramentos —sobre todo la Eucaristía— y apacentar al Pueblo de Dios (PO 4-6). La Eucaristía es fuente y cima de toda evangelización y centro de la congregación que preside el presbítero (PO 5). La unión de los presbíteros con los obispos es necesaria para la renovación de la Iglesia y el diálogo con el mundo (PO 12).
+
+### Según Juan Pablo II (PDV)
+
+*Pastores dabo vobis* describe al presbítero como una «imagen viva y transparente de Cristo sacerdote» (PDV 12). La identidad del presbítero no se puede definir si no es bajo el multiforme conjunto de relaciones que brotan de la Santísima Trinidad y se prolongan en la comunión de la Iglesia (PDV 12). Los presbíteros son «una representación sacramental de Jesucristo, Cabeza y Pastor», que proclaman con autoridad su palabra, renuevan sus gestos de perdón y de ofrecimiento de la salvación, y ejercen el cuidado amoroso del rebaño (PDV 15). El sacerdote está «no solo en la Iglesia, sino también al frente de la Iglesia» como representación sacramental de Cristo, Cabeza y Pastor (PDV 16). El ministerio ordenado tiene una radical «forma comunitaria» y puede ser ejercido solo como «una tarea colectiva» en comunión con el Obispo y el presbiterio (PDV 17).
 
 ### Según León XIV (JorSant-2026)
 

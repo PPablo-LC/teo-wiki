@@ -33,6 +33,10 @@ El Papa desarrolla una teología de la santidad desde el costado abierto del Cru
 
 La respuesta a la santidad no está tanto en el esfuerzo ascético, sino «en la adhesión confiada al amor revelado en el Corazón traspasado de Jesús». La unión del corazón del sacerdote con el Corazón de Cristo no es experiencia reservada a unos pocos, sino un camino sacramental y eucarístico que se realiza en lo cotidiano [JorSant-2026, 12.06.2026].
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+León XIV predicó extensamente sobre el Sagrado Corazón en las Misas de Gran Canaria y Tenerife. En Gran Canaria afirmó: «El Sagrado Corazón de Jesús es el símbolo del amor infinito de Dios por la humanidad» [L_XIV-ViajeEspaña-2026, 18 — Misa en el Estadio de Gran Canaria]. Vinculó la devoción al Corazón de Cristo con la dimensión reparadora y la misericordia: «En un mundo que necesita amor, el Corazón de Cristo es la fuente inagotable» [L_XIV-ViajeEspaña-2026, 18 — Misa en el Estadio de Gran Canaria]. En Tenerife presentó la devoción al Sagrado Corazón como «escuela de amor» para el mundo de hoy: «El Corazón de Cristo no es un símbolo de un pasado devocional; es la fuente de la caridad cristiana» [L_XIV-ViajeEspaña-2026, 23 — Misa en Tenerife].
+
 ## Relaciones doctrinales
 
 La devoción al Sagrado Corazón se relaciona con el [[amor]] divino manifestado en la [[redención]], la [[eucaristía]] como permanencia del amor de Cristo, la [[reparación]] por los pecados, y la [[vida_espiritual]] como respuesta al amor de Dios. Se vincula también con el [[apostolado]] del Apostolado de la Oración.

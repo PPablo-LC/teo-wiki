@@ -31,6 +31,10 @@ El Capítulo desarrolla también el **discernimiento comunitario**, expresión p
 
 [CapGral-2026, n. 11, 16-18]
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+León XIV realizó una extensa pedagogía del discernimiento vocacional durante el viaje apostólico a España. En la Vigilia de oración con jóvenes en Madrid (3 de junio), desarrolló una enseñanza articulada: «El discernimiento no es un ejercicio intelectual; es un arte espiritual que se aprende en la escuela del silencio, de la escucha de la Palabra, del consejo y del acompañamiento espiritual» [L_XIV-ViajeEspaña-2026, Vigil Madrid 03 — discurso a los jóvenes]. Propuso tres pasos concretos: «mirar hacia dentro (conocerse a uno mismo), mirar a Cristo (conocerse a Él), y mirar al mundo para ver dónde hace falta el Reino» [L_XIV-ViajeEspaña-2026, Vigil Madrid 03 — discurso a los jóvenes]. Exhortó a los jóvenes a no tener miedo de preguntarse qué quiere Dios de ellos [L_XIV-ViajeEspaña-2026, Vigil Madrid 03 — discurso a los jóvenes].
+
 ## Distinciones importantes
 
 - Discernimiento moral (bien/mal) vs. discernimiento espiritual (origen de mociones)

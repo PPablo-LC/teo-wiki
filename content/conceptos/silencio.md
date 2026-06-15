@@ -49,6 +49,10 @@ El art. 4 §3 dispone que «al que presenta un informe, a la persona que afirma 
 
 El [[vademécum_del_ddf]] recuerda que «ya en esta fase se tiene la obligación de observar el secreto de oficio. Sin embargo, se recuerda que no se puede imponer ningún vínculo de silencio respecto a los hechos a quien realiza la denuncia, ni a la persona que afirma haber sido ofendida, ni a los testigos» (n. 30).
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+León XIV dedicó una atención particular al silencio durante su viaje apostólico a España. En la Vigilia de oración con jóvenes en Madrid (3 de junio), hizo una fuerte exhortación al silencio como condición para el discernimiento vocacional: «No tengáis miedo del silencio. El mundo os grita, os acosa con ruidos, imágenes, mensajes. Pero la voz de Dios se escucha en el silencio» [L_XIV-ViajeEspaña-2026, Vigil Madrid 03 — discurso a los jóvenes]. Invitó a los jóvenes a cultivar el silencio interior para escuchar la llamada de Dios. En el encuentro con los obispos españoles, el silencio en la oración y la adoración fue presentado como condición necesaria para la sinodalidad. El retorno al silencio fue propuesto como antídoto espiritual frente a la cultura digital y la saturación de estímulos [L_XIV-ViajeEspaña-2026, varios discursos].
+
 ## Distinciones importantes
 
 - Silencio espiritual (ascético) ≠ silencio cómplice (moral): el primero es virtud, el segundo es vicio.

@@ -62,6 +62,10 @@ En su encuentro con el clero romano, el Papa desarrolla el sacerdocio desde la i
 
 **a.6 — Según el orden de Melquisedec:** El sacerdocio levítico era figura del de Cristo, pero imperfecta (no purificaba los pecados ni era eterno). La excelencia del sacerdocio de Cristo fue prefigurada por Melquisedec, que recibió los diezmos de Abrahán (Gén 14,20). Respecto a la participación del sacrificio (pan y vino), Melquisedec prefigura más claramente que el sacerdocio levítico la comunión eucarística del verdadero sacrificio de Cristo.
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+León XIV, en su encuentro con los obispos españoles, presentó al sacerdote como «no un funcionario de lo sagrado, sino un testigo del Misterio» [L_XIV-ViajeEspaña-2026, 07 — Encuentro con Obispos]. Subrayó la necesidad de formación permanente, paternidad espiritual y cercanía al pueblo, retomando la imagen de Francisco: «Un sacerdote sin olor a oveja no es pastor» [L_XIV-ViajeEspaña-2026, 07 — Encuentro con Obispos]. Vinculó el sacerdocio a la Eucaristía: el sacerdote es «hombre de la Eucaristía», configurado con Cristo para servir a la Iglesia [L_XIV-ViajeEspaña-2026, 07 — Encuentro con Obispos].
+
 ## Distinciones importantes
 - El sacerdocio común de los fieles se recibe en el Bautismo; el sacerdocio ministerial se recibe en el Orden.
 - Solo el sacerdocio ministerial puede celebrar la Eucaristía y perdonar los pecados.

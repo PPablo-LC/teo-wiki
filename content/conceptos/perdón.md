@@ -24,6 +24,9 @@ La Iglesia enseña que una verdadera paz es posible solo mediante el perdón y l
 
 La contrición perfecta obtiene el perdón de los pecados incluso antes de la confesión sacramental, pero con la obligación de recurrir a ella. La contrición imperfecta dispone a obtener el perdón en el sacramento. El confesor es servidor del perdón de Dios. La absolución sacramental perdona las penas eternas, pero no siempre las temporales (TPCr, Tercera Parte, Libro II, cap. I). El valor satisfactorio de las obras impuestas como penitencia sacramental recibe su fuerza del poder de las llaves (TPCr, Tercera Parte, Libro II, cap. I).
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+León XIV, en su visita a la prisión de Brians 1 (Barcelona), proclamó que «el perdón es posible porque Dios nos ha perdonado primero» [L_XIV-ViajeEspaña-2026, 10 — Visita a la prisión Brians 1]. Dijo a los presos: «no sois vuestro error; sois hijos de Dios» [L_XIV-ViajeEspaña-2026, 10 — Visita a la prisión Brians 1]. Presentó el sacramento de la reconciliación como «abrazo del Padre» [L_XIV-ViajeEspaña-2026, 10 — Visita a la prisión Brians 1]. En la Vigilia de Barcelona exhortó a los jóvenes: «Aprended a perdonar. El rencor envenena el alma; el perdón la libera» [L_XIV-ViajeEspaña-2026, 11 — Vigilia de Barcelona].
 
 ## Distinciones importantes
 

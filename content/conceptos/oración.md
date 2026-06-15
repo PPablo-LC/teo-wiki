@@ -49,6 +49,10 @@ La oración común (litúrgica) tiene eficacia especial porque une las fuerzas d
 
 **a.4 — Toda oración suya fue escuchada:** Con la voluntad racional, Cristo no quiso nada fuera de lo que sabía que el Padre quería; por eso toda su oración fue escuchada. La petición «Pase de mí este cáliz» manifestaba su voluntad natural y el impulso de su sensibilidad, no su voluntad racional absoluta. Por eso fue escuchado en cuanto al deseo racional, que siempre estaba conforme con Dios.
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+León XIV presentó la oración como «encuentro personal con Cristo» durante la Vigilia de oración con jóvenes en Madrid (3 de junio), enseñando que la oración no es recitar fórmulas sino «estar con Quien sabemos que nos ama» [L_XIV-ViajeEspaña-2026, Vigil Madrid 03 — discurso a los jóvenes]. En la solemnidad del Corpus Christi (4 de junio), vinculó la adoración eucarística con la escuela de la oración. A lo largo del viaje, el rezo del rosario en Montserrat con jóvenes, la oración litúrgica, la oración personal y la oración contemplativa fueron presentados como formas de un mismo movimiento del alma hacia Dios [L_XIV-ViajeEspaña-2026, diversos actos].
+
 ## Distinciones importantes
 
 - Oración en sentido amplio: cualquier movimiento del alma hacia Dios por cualquier virtud infusa.

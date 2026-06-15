@@ -56,6 +56,10 @@ Juan Pablo II llama a los jóvenes a reconocer como «engañosas, falsas, incomp
 
 León XIV desarrolla una extensa reflexión sobre la paz en el capítulo quinto de *Magnífica Humanitas* (§§182-227), confrontando la «cultura del poder» con la «civilización del amor». Denuncia la normalización de la guerra como instrumento de política internacional (§§189-192) y la pérdida de la memoria histórica que facilita «la reescritura selectiva o distorsionada del pasado» (§191). Cita a san Pablo VI: «¡Nunca más la guerra, nunca más la guerra!» (§189). Retoma la enseñanza de Francisco sobre la superación de la teoría de la «guerra justa» (§192). Afirma que «la paz no es una esperanza ingenua ni sólo una ausencia de guerra: es fruto, siempre posible, de la justicia y la caridad» (§205). Propone cinco vías: desarmar las palabras, construir la paz en la justicia, asumir la mirada de las víctimas, cultivar un sano realismo y relanzar el diálogo y el multilateralismo (§§213-227). Concluye que «la paz comienza por cada uno de nosotros, por el modo en el que miramos a los demás, escuchamos a los demás, hablamos de los demás» (§214).
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+León XIV realizó un fuerte llamamiento por la paz en su discurso ante las Cortes: «La guerra es siempre una derrota de la humanidad» [L_XIV-ViajeEspaña-2026, 06-Parlamento]. Rechazó el rearme y la «lógica belicista que asola el mundo», presentando la paz como responsabilidad colectiva [L_XIV-ViajeEspaña-2026, 06-Parlamento]. Ante las autoridades, propuso abandonar las «narrativas polarizantes» y apostar por el diálogo, la reconciliación y la cultura del encuentro como caminos para la paz [L_XIV-ViajeEspaña-2026, 01-Autoridades].
+
 
 ## Distinciones importantes
 

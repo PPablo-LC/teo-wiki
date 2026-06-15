@@ -21,6 +21,14 @@ El perdón recíproco no debe anular las exigencias de la justicia, ni mucho men
 
 La reconciliación con el Padre se realiza mediante la misión apostólica confiada por Jesús a sus discípulos y comienza con un anuncio de paz: «En la casa en que entréis, decid primero: “Paz a esta casa”» (Lc 10,5-6) [CompDS §492]. Jesús crucificado ha anulado la división, instaurando la paz y la reconciliación precisamente «por medio de la cruz, dando en sí mismo muerte a la Enemistad» (Ef 2,16) [CompDS §493].
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+León XIV hizo de la reconciliación un tema transversal del viaje. En el discurso ante las Autoridades (6 de junio), llamó a «abandonar las narrativas divisivas y polarizantes» y a construir puentes de encuentro. En el Parlamento (8 de junio), vinculó la reconciliación con la vida política: «hoy nuestra sociedad está necesitada de reconciliación, de proyectos que unan, de encuentro que transforme».
+
+La expresión más concreta de la reconciliación fue la visita al Centro Penitenciario Brians 1 (10 de junio): «Donde hay un preso, hay un hermano. La justicia sin misericordia es cruel; la misericordia sin justicia es falsa.» El Papa subrayó que la reconciliación no anula la justicia sino que la perfecciona. La prisión debe ser «lugar de rehabilitación y esperanza, no solo de castigo».
+
+En la Vigilia de Barcelona (9 de junio), llamó a los jóvenes a ser «artesanos de reconciliación» en sus familias, escuelas y ambientes, y les recordó que «Dios nunca se cansa de perdonar; somos nosotros los que nos cansamos de pedir perdón».
+
 ## Relaciones doctrinales
 
 Se relaciona con [[perdón]], [[paz]], [[justicia]], [[verdad]], [[paz_cristiana]], [[guerra]]

@@ -43,6 +43,10 @@ GS 52: «La familia es escuela del más rico humanismo.» Requiere clima de ben�
 
 León XIV aborda la familia en los §§165-169 de *Magnífica Humanitas*, describiéndola como «un bien social primario» y «la primera sociedad natural, dotada de derechos originales, es la célula fundamental e insustituible de toda organización comunitaria» (§165). Advierte que la familia «es, sin embargo, un bien social frágil, que se ve afectado de forma inmediata por las transformaciones económicas y tecnológicas que están cambiando el mundo laboral» (§166). Denuncia el impacto devastador del desempleo y la precariedad en el tejido familiar: «a largo plazo esto socava los cimientos mismos de la convivencia» (§166). Subraya la responsabilidad pública de sostener a las familias con políticas laborales que favorezcan «la continuidad y la calidad del empleo», «ritmos humanos» que equilibren trabajo, servicios y descanso, e inversión en formación accesible (§169).
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+León XIV definió la familia como «célula fundamental de la sociedad» en su discurso ante las Cortes, defendiendo la familia fundada en el matrimonio entre un hombre y una mujer como lugar primordial de educación en valores y transmisión de la fe [L_XIV-ViajeEspaña-2026, 06-Parlamento]. Afirmó: «La familia no es un modelo del pasado; es el futuro de toda sociedad que quiera perdurar» [L_XIV-ViajeEspaña-2026, 06-Parlamento]. En diversos encuentros con comunidades cristianas, se refirió a la familia como [[iglesia_doméstica]] [L_XIV-ViajeEspaña-2026].
+
 ## Relaciones doctrinales
 
 Se relaciona con [[matrimonio]], [[iglesia_doméstica]], [[santuario_de_la_vida]], [[bien_común]], [[subsidiariedad]], [[educación_de_los_hijos]]

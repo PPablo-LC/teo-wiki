@@ -1,7 +1,7 @@
 # Formación intelectual
 
 > Área: Formación
-> Última actualización: 2026-06-12
+> Última actualización: 2026-06-14
 
 ## Definición
 
@@ -12,6 +12,10 @@ La formación intelectual del legionario de Cristo es la dimensión de la formac
 La formación intelectual en la Legión de Cristo está orientada por el cristocentrismo, iluminada por la fe, fiel a la Iglesia, actualizada y abierta, y configurada según la especificidad de la vocación legionaria. Se fundamenta en una visión antropológica cristiana que busca la formación integral, personalizada y la autoformación. Pedagógicamente, se rige por los principios de excelencia académica, acompañamiento, evaluación continua y capacitación permanente.
 
 ## Perspectivas por fuente
+
+### Según Juan Pablo II (PDV)
+
+*Pastores dabo vobis* dedica los nn. 55-58 a la formación intelectual del candidato al presbiterado. La formación intelectual es una dimensión esencial de la formación sacerdotal, pues «el sacerdote está llamado a ser ministro de la Palabra de Dios, y para ello debe tener un conocimiento profundo y orgánico de la Revelación» (PDV 55). La Sagrada Escritura debe ser «el alma de la teología» (PDV 56). La formación filosófica es necesaria para que el candidato adquiera una sólida formación del pensamiento y capacidad de diálogo con el mundo contemporáneo (PDV 57). El estudio de la teología debe hacerse «a la luz del Magisterio de la Iglesia y en fidelidad al depósito de la fe» (PDV 55). La formación intelectual no es un fin en sí mismo, sino que está ordenada a la pastoral y a la predicación del Evangelio (PDV 59).
 
 ### Según la Ratio studiorum (Sap_Chr-2021)
 

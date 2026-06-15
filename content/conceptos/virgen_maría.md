@@ -70,6 +70,9 @@ María es Madre de Dios (Theotókos), dogma definido en Éfeso (431), porque Jes
 
 Es «mediadora secundaria, subordinada a Cristo» [PS §30,1]. Debemos acudir a Ella en todas nuestras penas y tentaciones, pues «Dios todo se lo concede» [PS §30,1]. El rezo del Santo Rosario y el Escapulario del Carmen son devociones recomendadas, y la devoción a María es «prenda de salvación» [PS §30,5-30,6].
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+León XIV manifestó su devoción mariana en la Oración a la Virgen de la Almudena (Madrid), donde encomendó a su intercesión «el pueblo de Madrid, sus familias, sus jóvenes, sus ancianos, sus enfermos» y pidió por la paz [L_XIV-ViajeEspaña-2026, 08 — Oración a la Virgen de la Almudena]. En Montserrat rezó el rosario con los jóvenes ante la «Moreneta», a quien veneró como «Madre de la Iglesia» [L_XIV-ViajeEspaña-2026, 12 — Rosario en Montserrat]. Allí afirmó: «María nos enseña a acoger, a esperar contra toda esperanza, a estar al pie de la cruz» [L_XIV-ViajeEspaña-2026, 12 — Rosario en Montserrat]. A lo largo del viaje presentó a María como modelo de fe y de la Iglesia.
 
 ## Distinciones importantes
 

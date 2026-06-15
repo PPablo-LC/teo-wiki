@@ -1,7 +1,7 @@
 # Formación permanente
 
 > Área: Ascética / Formación
-> Última actualización: 2026-05-31
+> Última actualización: 2026-06-14
 
 ## Definición
 
@@ -12,6 +12,12 @@ La formación permanente es el compromiso de formación que comprende la vida en
 La formación permanente se opone al estancamiento y a las vidas a mitad de camino. En la vida espiritual no avanzar es retroceder. Se opone también a la rigidez del que se atrinchera en sus esquemas o en el «yo soy así» y no se deja interpelar por nada ni por nadie. Dios nunca deja de salir al encuentro y de sorprender con dones y retos inesperados que acercan a Él [CVV-2017, 372].
 
 ## Perspectivas por fuente
+
+### Según Juan Pablo II (PDV)
+
+*Pastores dabo vobis* dedica el capítulo VI (nn. 70-81) enteramente a la formación permanente de los sacerdotes. La formación permanente es «una exigencia intrínseca del don de la vocación sacerdotal» (PDV 70) y «continuación del proceso de formación» que comenzó en el seminario. Se funda en la naturaleza misma del sacerdocio ministerial, que es un don que debe ser constantemente reavivado: «Te recomiendo que reavives el carisma de Dios que está en ti» (2 Tim 1,6; cf. PDV 70).
+
+Los contenidos de la formación permanente (PDV 72-76) incluyen la actualización doctrinal, la vida espiritual, la práctica pastoral y la fraternidad sacerdotal. Los medios (PDV 77-79) son la oración, el estudio, el intercambio fraterno, los ejercicios espirituales, los congresos sacerdotales. Los agentes principales son el mismo sacerdote, el Obispo, el presbiterio, las comunidades eclesiales y la familia (PDV 80-81).
 
 ### Según la Ratio studiorum (Sap_Chr-2021)
 

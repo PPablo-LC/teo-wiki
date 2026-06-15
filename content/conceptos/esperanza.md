@@ -82,6 +82,10 @@ Retoma a San Bernardo: «la gloria se esconde ahora en la tribulación; la etern
 Juan Pablo II anima a los jóvenes a estar «dispuestos a dar razón de vuestra esperanza» [JPII-JovCh]. La esperanza cristiana se funda en la fe en Cristo vivo, de modo que «un optimismo cristiano probará desde modo el terreno al pesimismo exterio y os dará confianza en el Señor» [JPII-JovCh]. Esta esperanza no es ingenua: nace de la experiencia de fe que descubre a Cristo como aquel que «no solo da la vida, sino que es la vida misma» [JPII-JovCh].
 
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+La esperanza fue un tema constante a lo largo del viaje apostólico de León XIV a España. En diversos discursos afirmó: «En un mundo que parece haber perdido la esperanza, los cristianos estamos llamados a ser testigos de la esperanza que no defrauda» [L_XIV-ViajeEspaña-2026, varios discursos]. En la Vigilia de Madrid (3 de junio) dijo a los jóvenes: «Vosotros, jóvenes, sois la esperanza de la Iglesia y del mundo» [L_XIV-ViajeEspaña-2026, Vigil Madrid 03 — discurso a los jóvenes]. En la visita a la prisión, proclamó: «La esperanza es lo último que se pierde, pero nosotros creemos que la esperanza cristiana no defrauda porque está fundada en Cristo resucitado» [L_XIV-ViajeEspaña-2026, visita a la prisión — discurso a los presos].
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[virtud_de_la_esperanza]]

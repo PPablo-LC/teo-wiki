@@ -1,7 +1,7 @@
 # Celibato sacerdotal
 
 > Área: Ascética / Derecho Canónico
-> Última actualización: 2026-06-10
+> Última actualización: 2026-06-14
 
 ## Definición
 
@@ -24,6 +24,14 @@ Royo Marín trata la castidad sacerdotal en TPCr Parte I (Ascética), dentro del
 ### Según el CIC
 
 Los cc. 277 y 1037 establecen la disciplina del celibato. El c. 277 §1 ordena que los clérigos están obligados a observar una continencia perfecta y perpetua por el Reino de los Cielos, y por tanto deben abrazar el celibato. El c. 1037 exige que el candidato al diaconado permanente (si es soltero) y al presbiterado dé testimonio público de su compromiso de celibato según el rito aprobado. La violación del celibato puede ser sancionada canónicamente.
+
+### Según Juan Pablo II (PDV)
+
+*Pastores dabo vobis* dedica el n. 29 al celibato sacerdotal. Recogiendo la doctrina del Concilio y del Sínodo, Juan Pablo II reafirma «con fuerza cuanto la Iglesia Latina y algunos ritos orientales determinan, a saber, que el sacerdocio se confiera solamente a aquellos hombres que han recibido de Dios el don de la vocación a la castidad célibe» (PDV 29). El Sínodo «no quiere dejar ninguna duda en la mente de nadie sobre la firme voluntad de la Iglesia de mantener la ley que exige el celibato libremente escogido y perpetuo para los candidatos a la ordenación sacerdotal en el rito latino» (PDV 29).
+
+La motivación teológica del celibato se funda en la relación que tiene con la ordenación sagrada, que configura al sacerdote con Jesucristo, Cabeza y Esposo de la Iglesia (PDV 29). «La Iglesia, como Esposa de Jesucristo, desea ser amada por el sacerdote de modo total y exclusivo como Jesucristo, Cabeza y Esposo, la ha amado» (PDV 29). Por esto el celibato es un don de sí mismo «en y con Cristo a su Iglesia» (PDV 29).
+
+El celibato debe ser considerado y vivido como un aspecto de una orientación positiva: él, dejando padre y madre, sigue a Jesús, buen Pastor, en una comunión apostólica al servicio del Pueblo de Dios. «El celibato ha de ser acogido con libre y amorosa decisión, que debe ser continuamente renovada, como don inestimable de Dios, como estímulo de la caridad pastoral, como participación singular en la paternidad de Dios y en la fecundidad de la Iglesia, como testimonio ante el mundo del Reino escatológico» (PDV 29). Para vivirlo es absolutamente necesaria la oración humilde y confiada, unida a los sacramentos y al esfuerzo ascético (PDV 29).
 
 ### Según la CapGral-2026
 

@@ -29,6 +29,10 @@ GS 75: La educación cívica y política es particularmente necesaria para el pu
 
 León XIV desarrolla una visión de la educación para la era digital en los §§139-147 de *Magnífica Humanitas*. Afirma que «toda tecnología educa a quien la utiliza» y que «educar en el uso de la IA implica, por tanto, educar para decidir cuándo y para qué *no* utilizarla» (§140). Propone tres grandes retos: sociopolítico (desigualdad en el acceso), pedagógico (actualización de planes de estudio) y sapiencial (riesgo de «saber muchas cosas» sin poder dar sentido a la vida) (§§144-146). Promueve una «higiene de la atención» con «ritmos que incluyan silencio, estudio reflexivo, lectura, análisis ponderado» (§146). Llama a una «alianza educativa renovada» entre familias, escuelas, comunidades cristianas e instituciones públicas, con objetivos como educar «en la sobriedad y en el sentido de los límites», «en el reconocimiento del derecho del otro» y «en el sentido de la trascendencia y del bien común» (§147).
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+León XIV subrayó en su discurso ante las Cortes que «la educación integral de la persona es el mejor antídoto contra la pobreza, la exclusión y la violencia» [L_XIV-ViajeEspaña-2026, 06-Parlamento]. Defendió el derecho de los padres a elegir la educación de sus hijos según sus propias convicciones, e insistió en que la educación debe formar no solo profesionales, sino «personas de bien, ciudadanos libres y responsables» [L_XIV-ViajeEspaña-2026, 06-Parlamento].
+
 ## Relaciones doctrinales
 
 Se relaciona con [[educación_católica]], [[cultura]], [[familia]], [[escuela_católica]], [[formación]], [[verdad]]

@@ -124,6 +124,9 @@ De Lubac afirma la realidad sustancial y divina de la caridad: «Debemos creer e
 
 Ver artículo principal: [[virtud_de_la_caridad]]
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+León XIV dio un testimonio elocuente de la caridad cristiana en el centro CEDIA 24 Horas (Madrid), donde lavó los pies de los voluntarios y sirvió comida a los necesitados. Allí afirmó: «La caridad no admite demoras» [L_XIV-ViajeEspaña-2026, 02 — CEDIA 24 Horas]. «Cada vez que acogemos a un necesitado, es Cristo quien llama a nuestra puerta» [L_XIV-ViajeEspaña-2026, 02 — CEDIA 24 Horas]. En el encuentro con voluntarios en IFEMA distinguió la caridad cristiana de la mera filantropía: «La caridad cristiana no es filantropía o asistencialismo; nace del encuentro con Cristo» [L_XIV-ViajeEspaña-2026, 09 — Encuentro con Voluntarios]. En la prisión de Brians 1 subrayó su dimensión social: «La justicia sin misericordia es cruel; la misericordia sin justicia es falsa» [L_XIV-ViajeEspaña-2026, 10 — Visita a la prisión Brians 1]. En Barcelona presentó la caridad como «profecía de un mundo nuevo» [L_XIV-ViajeEspaña-2026, 13 — Encuentro con realidades caritativas en Barcelona]. La caridad fue presentada como inseparable de la justicia y de la verdad.
 
 ## Analizado para
 

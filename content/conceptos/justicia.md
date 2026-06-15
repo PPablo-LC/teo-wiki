@@ -25,6 +25,10 @@ La justicia es la virtud que reside en la voluntad, por la que se da a cada uno 
 Juan Pablo II llama a los jóvenes a no permanecer indiferentes ante la injusticia: «Cristo os pide que no permanezcamos indiferentes ante la injusticia, que nos comprometamos responsablemente en la construcción de una sociedad más cristiana, una sociedad mejor» [JPII-JovCh]. La lucha contra las fuerzas del mal en todas sus formas se ordena a la dignidad del hombre y a una vida noble de hijos de Dios [JPII-JovCh]. Las propuestas de solución a los problemas sociales deben ser «no solo compatibles con vuestra fe sino exigidas por ella» [JPII-JovCh].
 
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+León XIV trató la justicia en su discurso ante el Parlamento español como fundamento de la paz: «Sin justicia no hay paz duradera» [L_XIV-ViajeEspaña-2026, Parlamento — discurso]. Vinculó la justicia con la caridad, afirmando que «la justicia abre el camino a la caridad; la caridad perfecciona la justicia» [L_XIV-ViajeEspaña-2026, Parlamento — discurso]. En la visita a la prisión, señaló que la justicia sin misericordia es incompleta [L_XIV-ViajeEspaña-2026, visita a prisión]. En su discurso sobre los migrantes, reclamó la justicia como abordaje de las causas profundas de la migración forzada [L_XIV-ViajeEspaña-2026, CEDIA 02].
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[virtud_de_la_justicia]]

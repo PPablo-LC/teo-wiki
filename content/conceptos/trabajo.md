@@ -31,6 +31,10 @@ En el NT, Jesús asume el trabajo humano siendo artesano. Pablo presenta el trab
 
 El trabajo corporal es mencionado como forma de mortificación positiva: «el cilicio, la disciplina, el frío, el calor, el trabajo corporal, largos ratos de rodillas» (TPCr, n. 1063). La mortificación corporal, incluido el trabajo, tiene finalidad reparadora y de propia inmolación. No hay un tratado específico del trabajo como concepto teológico autónomo; aparece como medio ascético.
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+León XIV abordó el trabajo como parte de la vocación humana en el encuentro en el Movistar Arena (5 de junio): «El trabajo no es solo un medio de subsistencia; es participación en la obra creadora de Dios» [L_XIV-ViajeEspaña-2026, Movistar Arena 05 — discurso]. Se dirigió a empresarios y trabajadores sobre la dignidad del trabajo, el salario justo y la integración de la fe y el trabajo [L_XIV-ViajeEspaña-2026, Movistar Arena 05 — discurso]. En la Sagrada Familia (14 de junio), presentó la obra de Gaudí como ejemplo de trabajo ofrecido a Dios [L_XIV-ViajeEspaña-2026, Sagrada Familia 14 — discurso].
+
 ## Distinciones importantes
 
 - Trabajo creador (Gén 2,15) vs. trabajo fatigoso (Gén 3,17-19)

@@ -17,6 +17,10 @@ La presencia de los ancianos en la familia supone un gran valor. Son ejemplo de 
 
 El amor se expresa mediante la atención esmerada de los ancianos que viven en la familia; su presencia supone un gran valor [CompDS §222]. Son un ejemplo de vinculación entre generaciones, un recurso para el bienestar de la familia y de toda la sociedad [CompDS §222]. Los ancianos constituyen una importante escuela de vida, capaces de transmitir valores y tradiciones y de favorecer el crecimiento de los más jóvenes [CompDS §222]. Si se hallan en situación de sufrimiento y dependencia, necesitan ser tratados con amor [CompDS §222].
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+León XIV se refirió a los ancianos en varios momentos del viaje. En el discurso ante las Autoridades (Palacio Real), mencionó el deber de cuidar a los mayores frente a la «cultura del descarte» que tiende a marginarlos. En la Oración a la Virgen de la Almudena, encomendó a los ancianos de Madrid a la protección de María. En el encuentro con la Comunidad Diocesana (Bernabéu), subrayó que los ancianos son «la memoria viva de la Iglesia y de la sociedad», y que una comunidad que no honra a sus mayores pierde sus raíces. La visita a realidades de caridad (CEDIA, Sant Agustí) incluyó el acompañamiento a personas mayores en situación de vulnerabilidad.
+
 ## Relaciones doctrinales
 
 Se relaciona con [[familia]], [[solidaridad]], [[dignidad_humana]]

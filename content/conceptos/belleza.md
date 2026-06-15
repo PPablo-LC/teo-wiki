@@ -17,6 +17,10 @@ La belleza es uno de los nombres trascendentales del ser, junto con la unidad, l
 
 Dios es la fuente de toda belleza (CEC §41). El arte sacro debe ser bello, expresión de la verdad y la bondad divinas, y no mero funcionalismo estético (CEC §2500-2501). Las imágenes sagradas son un medio privilegiado para la catequesis y la evangelización, pues «la belleza de las imágenes conmueve el alma y la eleva a Dios» (CEC §2513).
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+León XIV destacó la belleza como vehículo de evangelización durante su visita a la Sagrada Familia de Barcelona (14 de junio): «La belleza es un eminente canal de evangelización» [L_XIV-ViajeEspaña-2026, Sagrada Familia 14 — discurso]. Describió la arquitectura de Gaudí como «teología en piedra» y afirmó que «la fe cristiana no solo es verdad y bondad, también es belleza» [L_XIV-ViajeEspaña-2026, Sagrada Familia 14 — discurso]. En el encuentro en el Movistar Arena (5 de junio), presentó la belleza como camino hacia la trascendencia [L_XIV-ViajeEspaña-2026, Movistar Arena 05 — discurso].
+
 ## Relaciones doctrinales
 
 La belleza se relaciona con el [[arte_sacro]], con [[dios]] como fuente de toda belleza, con la [[gloria]] divina, y con la [[cultura]] como expresión de la creatividad humana elevada por la gracia.

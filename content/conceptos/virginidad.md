@@ -1,7 +1,7 @@
 # Virginidad
 
 > Área: Moral / Ascética
-> Última actualización: 2026-06-11
+> Última actualización: 2026-06-14
 
 ## Definición
 
@@ -28,6 +28,10 @@ La Virgen María es el modelo perfecto de virginidad: es la «Virgen» por excel
 ### Según Para Salvarte (PS)
 
 El P. Jorge Loring aborda la virginidad desde dos perspectivas complementarias. Por un lado, afirma que «el mejor regalo de bodas que espera una persona es la virginidad de su pareja» (PS §12,68,13), destacando el valor de la virginidad como don de uno mismo en el matrimonio. Por otro lado, enseña que la virginidad perpetua por el Reino de los cielos es un estado más excelente, que permite consagrarse enteramente al servicio de Dios, siguiendo el ejemplo de Cristo, que fue célibe, y de la Virgen María, que fue «virgen antes del parto, en el parto y después del parto» (PS §05,30,3). El celibato sacerdotal tiene su fundamento en que «Cristo fue célibe, y el sacerdote es alter Christus» (PS §13,97,6).
+
+### Según Juan Pablo II (PDV)
+
+*Pastores dabo vobis* trata la virginidad en el contexto de la castidad célibe del sacerdote (PDV 29). La virginidad realiza, en la renuncia al matrimonio, «el significado esponsalicio del cuerpo mediante una comunión y una donación personal a Jesucristo y a su Iglesia, que prefiguran y anticipan la comunión y la donación perfectas y definitivas del más allá» (PDV 29). La virginidad es espera, incluso corporal, de las bodas escatológicas de Cristo con la Iglesia (cf. *Familiaris consortio* 16). En la virginidad la castidad mantiene su significado original: el de una sexualidad humana vivida como auténtica manifestación y precioso servicio al amor de comunión y de donación interpersonal (PDV 29).
 
 ### Según la Summa Theologiae (SmTh)
 

@@ -39,6 +39,10 @@ El V Capítulo General ordinario de los Legionarios de Cristo (2026) constata un
 
 [CapGral-2026, n. 85-92]
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+León XIV abordó la pobreza desde el servicio y el encuentro personal con los pobres durante su viaje a España. En la visita al CEDIA (2 de junio), el servicio a los inmigrantes fue presentado como expresión concreta del amor cristiano [L_XIV-ViajeEspaña-2026, CEDIA 02]. En el encuentro con voluntarios, subrayó que «la pobreza no es un dato estadístico; tiene rostro, tiene nombre, tiene historia» [L_XIV-ViajeEspaña-2026, encuentro con voluntarios — discurso]. La pobreza fue presentada no como una realidad abstracta sino como encuentro personal con Cristo sufriente en los pobres.
+
 ## Distinciones importantes
 
 - Pobreza efectiva (material, mediante voto) vs. pobreza afectiva (espíritu de desprendimiento)

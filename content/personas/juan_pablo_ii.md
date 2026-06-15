@@ -1,7 +1,7 @@
 # Juan Pablo II
 
 > Área: Personajes — Papas
-> Última actualización: 2026-06-13
+> Última actualización: 2026-06-14
 
 ## Contexto histórico
 
@@ -16,6 +16,10 @@ Su pontificado se caracterizó por un magisterio extensísimo: 14 encíclicas, n
 ### Según el Regnum Christi — Comisión Central (RC-MovEcles-2014)
 
 Juan Pablo II es una de las figuras centrales del documento. Se le cita extensamente por su promoción de los [[movimientos_eclesiales]]. En Christifideles laici 29 habló de una «nueva época asociativa de los fieles laicos» caracterizada por el surgimiento de «movimientos y asociaciones nuevas, con fisonomías y finalidades específicas». En el Congreso Mundial de Movimientos Eclesiales (Pentecostés 1998) afirmó que los movimientos son «la respuesta, suscitada por el Espíritu Santo, a este dramático desafío del fin del milenio». Definió los movimientos como «realidad eclesial concreta en la que participan principalmente laicos, un itinerario de fe y de testimonio cristiano que basa su método pedagógico en un carisma preciso» [RC-MovEcles-2014, B.2]. En Ecclesia in Europa 16 dijo que los movimientos «son una gran ayuda para difundir vivacidad y alegría en la Iglesia» [RC-MovEcles-2014, D]. También afirmó que la Iglesia ha sido enriquecida «con la gracia de dones siempre nuevos» que le permiten «hacerse presente en formas nuevas y adecuadas a la sed de verdad, de belleza y de justicia» [RC-MovEcles-2014, B.1].
+
+### Según Pastores dabo vobis (PDV)
+
+Tras el Sínodo de los Obispos de 1990 sobre la formación de los sacerdotes, Juan Pablo II promulgó la Exhortación Apostólica Postsinodal *Pastores dabo vobis* (25 de marzo de 1992), una de sus obras magisteriales más importantes sobre el ministerio sacerdotal. El documento constituye la síntesis más completa de su pontificado sobre la identidad, espiritualidad y formación del presbítero, articulada en torno a cuatro dimensiones formativas (humana, espiritual, intelectual y pastoral), la caridad pastoral como principio unificador de la vida sacerdotal, la formación permanente y la pastoral vocacional. PDV ha sido una fuente de referencia constante para el magisterio posterior y para la renovación de la formación sacerdotal en todo el mundo.
 
 ### Según SST (Sacramentorum Sanctitatis Tutela)
 

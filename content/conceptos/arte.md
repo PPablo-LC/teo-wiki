@@ -21,6 +21,10 @@ El arte, especialmente el arte sagrado, encuentra su origen en Dios, belleza sup
 
 La Iglesia siempre ha cultivado las artes y las admite al servicio del culto, pero cuidando que no se aparten de la verdad revelada (SC 122-124). La nobleza del arte sagrado debe ser verdadera belleza, no mera suntuosidad (SC 124). La arquitectura de las iglesias debe favorecer la participación activa de los fieles (SC 124).
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+León XIV, en la Misa en la Sagrada Familia de Barcelona, presentó a Gaudí como «arquitecto de fe» y la basílica como «catequesis en piedra» [L_XIV-ViajeEspaña-2026, 14 — Misa en la Sagrada Familia]. Afirmó que «la belleza es un eminente canal de evangelización en este tiempo de la imagen» [L_XIV-ViajeEspaña-2026, 14 — Misa en la Sagrada Familia]. En el Encuentro con la cultura en el Movistar Arena presentó el arte como expresión del anhelo humano de trascendencia [L_XIV-ViajeEspaña-2026, 05 — Encuentro con la cultura].
+
 ## Relaciones doctrinales
 
 Se vincula con la [[belleza]] divina, la [[liturgia]], el [[templo]] como casa de Dios y la [[música_sacra]] como arte al servicio del culto.

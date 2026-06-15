@@ -17,6 +17,10 @@ El voto propio de no buscar cargos de gobierno es una expresión singular del de
 
 El voto propio se regula en el CLC-2020 37: «El legionario, al profesar los consejos evangélicos, emite un voto propio, a saber, que no obrará para alcanzar o conservar, ni para sí ni para otros, puestos de gobierno o cargos en la Congregación.» Este voto, vivido por amor a Jesucristo, promueve el desprendimiento de sí, la disponibilidad total al servicio del Reino de Cristo, y la armonía, la paz y el progreso de las comunidades y de toda la Congregación (CLC-2020 37 §2).
 
+### Según el Ritual LC (RitLC-2024)
+
+El Ritual de la Congregación (2ª ed., 2024) incorpora la fórmula del voto propio en todas las formas de profesión religiosa legionaria: primera profesión, profesión perpetua, renovación de votos y renovación por devoción. La fórmula es idéntica en todos los casos: «Además, prometo y hago voto a Dios omnipotente, de no obrar para alcanzar o conservar, ni para mí ni para otros, puestos de gobierno o cargos en la Congregación.» Esta cláusula sigue inmediatamente a la promesa de los tres consejos evangélicos, subrayando su carácter de cuarto voto que completa la consagración religiosa legionaria.
+
 ### Según el Capítulo General CapGral-2026
 
 El Capítulo General de 2026, al tratar de la autoridad evangélica, recoge este voto propio como salvaguarda contra la ambición y el personalismo en el gobierno, y lo presenta como expresión de la libertad interior del legionario que sirve sin buscar su propio interés [CapGral-2026, Documento temático sobre autoridad y obediencia].
@@ -39,3 +43,4 @@ Se relaciona con [[consejos_evangélicos]], [[voto_de_obediencia]], [[voto_de_po
 
 - [CLC-2020 37]
 - [CapGral-2026, Documento temático «El ejercicio evangélico de la autoridad y la obediencia»]
+- [RitLC-2024, Cap. II (fórmula de profesión en todas sus formas)]

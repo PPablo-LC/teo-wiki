@@ -1,7 +1,7 @@
 # Caridad pastoral
 
 > Área: Teología Pastoral / Moral
-> Última actualización: 2026-06-12
+> Última actualización: 2026-06-14
 
 ## Definición
 
@@ -28,6 +28,19 @@ El MPPM de 26 marzo 2019 establece que «la tutela de los menores y de las perso
 ### Según el Discurso sobre Protección de Menores (PMI)
 
 El Papa Francisco, en su discurso conclusivo del Encuentro sobre la Protección de los Menores en la Iglesia (24 febrero 2019), afirmó que la Iglesia debe combatir el abuso «con la máxima seriedad», sin ocultar ningún caso. Subrayó que la caridad pastoral incluye la **purificación genuina** y la **acusación de sí mismos** como individuos e institución, así como el **acompañamiento de los que han sufrido abusos**, proporcionando todo el apoyo necesario. La escucha —«perder tiempo» en escuchar— es una forma eminente de caridad pastoral que sana a la persona herida y sana a los pastores de su egoísmo y alejamiento.
+
+### Según Juan Pablo II (PDV)
+
+*Pastores dabo vobis* dedica una atención central a la caridad pastoral como principio interior de la vida espiritual del presbítero (PDV 21-23). La caridad pastoral es «participación de la misma caridad pastoral de Jesucristo: don gratuito del Espíritu Santo y, al mismo tiempo, deber y llamada a la respuesta libre y responsable del presbítero» (PDV 23). Su contenido esencial es la «donación de sí, la total donación de sí a la Iglesia, compartiendo el don de Cristo y a su imagen» (PDV 23). La caridad pastoral «no es solo aquello que hacemos, sino la donación de nosotros mismos lo que muestra el amor de Cristo por su grey» (PDV 23).
+
+Esta caridad pastoral:
+- Tiene como destinataria la Iglesia, cuerpo y esposa de Jesucristo (PDV 23)
+- Se refiere primariamente a Jesucristo: solo amando a Cristo la caridad se hace fuente, criterio y medida del amor del sacerdote a la Iglesia (PDV 23)
+- Encuentra su expresión plena y su alimento supremo en la **Eucaristía**, que es «centro y raíz de toda la vida del presbítero» (PDV 23)
+- Constituye el «principio interior y dinámico capaz de unificar las múltiples y diversas actividades del sacerdote», dando unidad a su vida y acción (PDV 23)
+- Exige una relación personal con el presbiterio, unido en y con el Obispo (PDV 23)
+
+La caridad pastoral está íntimamente unida a la configuración del presbítero con Jesucristo, Cabeza y Pastor, y con la imagen de Jesucristo como Esposo de la Iglesia (PDV 22). El sacerdote «está llamado a ser imagen viva de Jesucristo Esposo de la Iglesia» (PDV 22), y su vida debe estar iluminada por este rasgo esponsal.
 
 ### Según León XIV (JorSant-2026)
 

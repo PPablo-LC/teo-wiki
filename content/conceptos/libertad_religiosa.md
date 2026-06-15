@@ -35,6 +35,10 @@ La libertad religiosa corresponde también a las comunidades religiosas (DH §4)
 
 El fundamento revelado de esta doctrina se encuentra en la libertad del acto de fe: «el hombre, al creer, debe responder voluntariamente a Dios» (DH §10). Cristo mismo no impuso la verdad por la fuerza (DH §11), y la Iglesia sigue su camino reconociendo y promoviendo la libertad religiosa (DH §12). La libertad de la Iglesia es un principio fundamental en las relaciones entre la Iglesia y los poderes públicos (DH §13).
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+León XIV defendió explícitamente la libertad religiosa en su discurso ante las Cortes como «primer derecho humano», por tocar la dimensión más profunda de la persona —la relación con Dios— [L_XIV-ViajeEspaña-2026, 06-Parlamento]. Advirtió que «la libertad religiosa no puede ser reducida a la mera libertad de culto; incluye el derecho de las comunidades religiosas a contribuir al debate público y a la construcción de la sociedad» [L_XIV-ViajeEspaña-2026, 06-Parlamento]. Presentó a la Iglesia como deseosa de «no privilegios, sino el espacio para anunciar el Evangelio y servir a todos, especialmente a los más pobres» [L_XIV-ViajeEspaña-2026, 06-Parlamento].
+
 ## Relaciones doctrinales
 
 Se relaciona con [[iglesia_y_estado]], [[conciencia_moral]], [[dignidad_humana]], [[derechos_humanos]], [[laicidad_positiva]], [[estado]]

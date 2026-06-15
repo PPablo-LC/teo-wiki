@@ -1,7 +1,7 @@
 # Acompañamiento espiritual
 
 > Área: Espiritualidad / Ascética
-> Última actualización: 2026-06-10
+> Última actualización: 2026-06-14
 
 ## Definición
 
@@ -10,6 +10,8 @@ El acompañamiento espiritual es la ayuda que un cristiano experimentado presta 
 ## Desarrollo doctrinal
 
 El acompañamiento espiritual tiene raíces en la tradición monástica y patrística, y ha sido desarrollado por los grandes maestros espirituales (san Juan de la Cruz, santa Teresa de Jesús, san Francisco de Sales). El Concilio Vaticano II y el magisterio postconciliar lo han revalorizado como medio privilegiado para la formación de la conciencia y el discernimiento vocacional.
+
+Juan Pablo II presenta la dirección espiritual como medio indispensable para la formación espiritual de los candidatos al sacerdocio, «para que el candidato pueda conocer la verdad sobre sí mismo, descubrir sus talentos y sus límites, y madurar en el camino de la santidad» (PDV 50).
 
 ## Perspectivas por fuente
 

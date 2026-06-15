@@ -45,6 +45,10 @@ Cita al Cardenal Schuster: «Parece que la gente ya no se deja convencer por nue
 
 León XIV propone la «verdad como bien común» en los §§132-138 de *Magnífica Humanitas*, en el contexto de la desinformación potenciada por la IA. Afirma que la verdad «tiene una dimensión racional, ya que requiere verificación, cotejo de fuentes y responsabilidad argumentativa; pero es aún más relacional: se construye a través de vínculos de confianza y prácticas compartidas» (§132). Advierte que quienes disponen de poder tecnológico pueden «convencer a un número significativo de personas acerca de cuál es la verdad sobre el ser humano, sobre el mundo, sobre el sentido de la existencia» (§133), lo que constituye «puro poder carente de verdad». Cita a Benedicto XVI sobre la «errónea convicción de ser el único autor de sí mismo» como raíz de la crisis de la verdad (§133). Afirma que «el desinterés por la verdad conduce lenta pero inexorablemente hacia el totalitarismo» (§134, citando a Hannah Arendt). Propone una «ecología de la comunicación» que establezca reglas transparentes, fortalezca organismos intermedios y promueva un periodismo serio (§137).
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+León XIV abordó la verdad en su discurso ante el Parlamento español. Afirmó con claridad: «La verdad libera; la mentira esclaviza» [L_XIV-ViajeEspaña-2026, Parlamento — discurso]. Subrayó la necesidad de la verdad en la vida pública, el periodismo y la política, llamando a los gobernantes a ser «hombres y mujeres de verdad» [L_XIV-ViajeEspaña-2026, Parlamento — discurso]. Estableció una distinción fundamental entre verdad e imposición: «La verdad cristiana se propone, no se impone» [L_XIV-ViajeEspaña-2026, Parlamento — discurso]. Vinculó la verdad con la caridad: «No hay caridad sin verdad» [L_XIV-ViajeEspaña-2026, Parlamento — discurso].
+
 ## Relaciones doctrinales
 
 Se relaciona con [[libertad_humana]], [[justicia]], [[caridad]], [[conciencia_moral]], [[ley_natural]]

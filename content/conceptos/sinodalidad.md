@@ -17,6 +17,14 @@ El Sínodo de los Obispos es la asamblea de Obispos elegidos de las distintas re
 
 La Iglesia es el Pueblo de Dios congregado por Cristo, donde todos los fieles participan del sacerdocio común de Cristo y están llamados a la santidad (LG 9-10). El colegio episcopal, en comunión con el Romano Pontífice, expresa la colegialidad apostólica que perpetúa el misterio de la Iglesia (LG 22-23). Todos los fieles, por el bautismo, participan de la función profética, sacerdotal y real de Cristo, y la sinodalidad es la forma concreta de vivir esta corresponsabilidad eclesial bajo la guía de los pastores.
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+León XIV desarrolló su visión de la sinodalidad en el encuentro con los Obispos de España (8 de junio, Conferencia Episcopal). La Iglesia es «comunión en la diversidad» y «sinfonía de carismas», no una uniformidad que borre las diferencias. Afirmó que la sinodalidad no es un mero procedimiento eclesial sino «un camino espiritual, un modo de ser Iglesia que escucha al Espíritu Santo, que discierne juntos, que camina unida en la misión». Subrayó que el pueblo de Dios camina «no detrás de los pastores, sino con los pastores», en corresponsabilidad bautismal.
+
+El Papa vinculó la sinodalidad con la misión: «Una Iglesia sinodal es una Iglesia en salida, una Iglesia que no se mira a sí misma sino que se pone al servicio del Reino». Y recordó que la sinodalidad auténtica exige oración, silencio escucha y discernimiento comunitario.
+
+En el encuentro con la Comunidad Diocesana (Bernabéu), aplicó la sinodalidad a la vida parroquial: todos los bautizados —laicos, consagrados, sacerdotes— son corresponsables de la misión.
+
 ## Distinciones importantes
 
 - Sinodalidad no equivale a democracia; es un proceso espiritual de discernimiento comunitario guiado por el Espíritu Santo

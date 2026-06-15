@@ -29,6 +29,10 @@ La única Iglesia de Cristo «subsiste en la Iglesia católica, gobernada por el
 
 PS presenta a la Iglesia Católica como la única fundada por Cristo-Dios para continuar su misión salvadora hasta el fin del mundo [PS §07,1]. Su perpetuidad es un auténtico milagro histórico: doce pescadores ignorantes transformaron al poderoso Imperio Romano, a pesar de diez sangrientas persecuciones que duraron 249 años y produjeron más de 100.000 mártires [PS §07,1]. La Iglesia posee cuatro notas señaladas por el Primer Concilio de Constantinopla (381): unidad, santidad, catolicidad y apostolicidad, como señales distintivas exclusivas de la verdadera Iglesia de Cristo [PS §07,3]. Es una en doctrina, gobierno y sacramentos; santa en su doctrina, moral y medios de santificación; universal sin fronteras; y apostólica, con el Papa como legítimo sucesor de San Pedro [PS §07,6-9].
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+León XIV desarrolló en su encuentro con los obispos españoles una visión de la Iglesia como «comunión en la diversidad»: la Iglesia es «una sinfonía de carismas, no una uniformidad» [L_XIV-ViajeEspaña-2026, 07 — Encuentro con Obispos]. Subrayó la sinodalidad, la colegialidad y la necesidad de una Iglesia «en salida». En la Comunidad Diocesana en el Estadio Bernabéu presentó a la Iglesia como «casa de todos, donde quepan todos» [L_XIV-ViajeEspaña-2026, 08 — Comunidad Diocesana]. Insistió en la Iglesia como madre, no como juez: «La Iglesia no está para condenar, sino para acompañar, curar heridas, ofrecer esperanza» [L_XIV-ViajeEspaña-2026, 08 — Comunidad Diocesana]. Retomó la imagen de la Iglesia como «hospital de campaña» presente en el magisterio de Francisco.
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[iglesia_cuerpo_místico]]

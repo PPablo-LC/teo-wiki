@@ -31,6 +31,10 @@ La vida eterna es el conocimiento de Dios y de su enviado. Es participación en 
 
 Cristo es nuestra Vida de tres maneras: como causa meritoria (nos mereció la gracia), como causa eficiente (la vida brota de Él) y como fuente de vida sobrenatural (nos la comunica) (TPCr, n. 56-68). La vida sobrenatural es «una participación misteriosa, pero realísima y formal, de su propia naturaleza divina» (n. 156). La gracia santificante es «vida eterna comenzada» (n. 172). La vida cristiana es esencialmente dinámica y perfectible, cuyo fin último es la gloria de Dios y cuyo fin próximo es la propia santificación (n. 36-37).
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+León XIV defendió explícitamente la vida desde la concepción hasta la muerte natural en su discurso ante las Cortes: «La vida humana es sagrada e inviolable... Si la vida deja de ser reconocida como un valor fundamental, ¿qué futuro pueden tener nuestras sociedades?» [L_XIV-ViajeEspaña-2026, 06-Parlamento]. Advirtió que los ordenamientos jurídicos que no protegen la vida en su inicio y su fin crean una «cultura del descarte» que termina amenazando todos los derechos humanos [L_XIV-ViajeEspaña-2026, 06-Parlamento].
+
 ## Distinciones importantes
 
 - Vida biológica (creación) vs. vida eterna (gracia)

@@ -1,7 +1,7 @@
 # Celibato
 
 > Área: Moral — Eclesiología
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-14
 
 ## Definición
 
@@ -22,6 +22,12 @@ Los ministros ordenados de la Iglesia latina son ordinariamente elegidos entre h
 En las Iglesias orientales, los obispos son elegidos entre célibes; varones casados pueden ser ordenados diáconos y presbíteros (§1580).
 
 [CEC §915, §1579-1580, §1599, §2349]
+
+### Según Juan Pablo II (PDV)
+
+*Pastores dabo vobis* recoge la enseñanza del Sínodo sobre el celibato sacerdotal (PDV 29). La perfecta continencia por el Reino de los cielos ha sido siempre tenida en la más alta estima por la Iglesia como «señal y estímulo de la caridad y como un manantial extraordinario de espiritual fecundidad en el mundo» (PDV 29, citando LG 42). El celibato es carisma: el Sínodo «reafirma nuevamente y con fuerza cuanto la Iglesia Latina y algunos ritos orientales determinan, a saber, que el sacerdocio se confiera solamente a aquellos hombres que han recibido de Dios el don de la vocación a la castidad célibe» (PDV 29).
+
+El celibato ha de ser presentado y explicado en su plena riqueza bíblica, teológica y espiritual, como «precioso don dado por Dios a su Iglesia y como signo del Reino que no es de este mundo, signo también del amor de Dios a este mundo, y del amor indiviso del sacerdote a Dios y al Pueblo de Dios» (PDV 29).
 
 ### Según el Concilio Vaticano II (ConcVatII)
 

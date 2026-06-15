@@ -31,6 +31,10 @@ Frente al discurso público contemporáneo, donde la libertad se ha vuelto contr
 
 León XIV aborda la custodia de la libertad frente a la dependencia y la mercantilización en los §§170-172 de *Magnífica Humanitas*. Denuncia las «formas más sutiles de dependencia vinculadas a la economía digital de la atención, donde las plataformas y los servicios están diseñados para captar el tiempo y la mirada de los usuarios, explotando sus fragilidades y debilitando la libertad interior» (§170). Advierte contra el control social mediante «la recopilación masiva de datos y el uso de sistemas algorítmicos» que permiten «perfilar, prever y orientar los comportamientos, a menudo sin que las personas tengan plena conciencia de ello» (§171). Afirma que «la libertad, en la era digital, no es sólo una cuestión interior; es también un asunto público, que exige normas claras, transparencia, vías de recurso y límites proporcionados al uso de tecnologías invasivas» (§171). La raíz del problema es «una mentalidad tecnocrática y posthumanista, que tiende a considerar a la persona como un objeto manipulable o un recurso para optimizar» (§172).
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+En su discurso ante el Parlamento español, León XIV ofreció una definición de la libertad que retoma la tradición clásica: «La libertad no es hacer lo que se quiere, sino querer lo que se debe» [L_XIV-ViajeEspaña-2026, Parlamento — discurso]. Presentó la libertad como orientada al bien, no como elección arbitraria. Defendió la libertad religiosa como la primera libertad, por tocar la relación fundamental del hombre con Dios [L_XIV-ViajeEspaña-2026, Parlamento — discurso].
+
 ## Relaciones doctrinales
 
 La libertad se relaciona con el [[libre_albedrío]] (su fundamento ontológico), con el [[acto_humano]] (su ejercicio), con la [[gracia]] (su elevación), con la [[libertad_humana]] (su dimensión natural) y con la [[conciencia_moral]] (su regla próxima).

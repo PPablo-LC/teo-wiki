@@ -1,7 +1,7 @@
 # Nueva evangelización
 
 > Área: Doctrina Social / Eclesiología
-> Última actualización: 2026-05-25
+> Última actualización: 2026-06-14
 
 ## Definición
 
@@ -20,6 +20,12 @@ Con su enseñanza social, la Iglesia quiere anunciar y actualizar el Evangelio e
 ### Según el Regnum Christi — Comisión Central (RC-MovEcles-2014)
 
 El documento relaciona el surgimiento de los [[movimientos_eclesiales]] con el impulso de la nueva evangelización. Juan Pablo II llamó a los movimientos «sujetos de una nueva evangelización» (Christifideles laici 30). Benedicto XVI afirmó que los movimientos deben comprometerse a iluminar «la oscuridad de un mundo trastornado por los mensajes contradictorios de las ideologías» (Mensaje al II Congreso Mundial de Movimientos Eclesiales, 2006). El celo misionero y evangelizador es uno de los rasgos distintivos comunes de todas estas realidades asociativas, incluso en referencia explícita a la «nueva evangelización» [RC-MovEcles-2014, C-D].
+
+### Según Juan Pablo II (PDV)
+
+*Pastores dabo vobis* sitúa la formación de los sacerdotes en el marco de la nueva evangelización. La urgencia de una nueva verificación de los contenidos y métodos de la formación sacerdotal viene dada por «la absoluta necesidad de que la nueva evangelización tenga en los sacerdotes sus primeros "nuevos evangelizadores"» (PDV 2). La nueva evangelización requiere «sacerdotes radical e integralmente inmersos en el misterio de Cristo y capaces de realizar un nuevo estilo de vida pastoral, marcado por la profunda comunión con el Papa, con los Obispos y entre sí, y por una colaboración fecunda con los fieles laicos» (PDV 18).
+
+La formación sacerdotal debe preparar a los sacerdotes para ser evangelizadores en un mundo secularizado, capaces de anunciar el Evangelio con «nuevo ardor, nuevos métodos y nuevas expresiones» (PDV 18). La nueva evangelización exige sacerdotes que sean «hombres de comunión y de diálogo», enraizados en la verdad y en la caridad de Cristo, abiertos al diálogo ecuménico e interreligioso y comprometidos con la promoción de la justicia y la paz (PDV 18).
 
 ## Relaciones doctrinales
 

@@ -25,6 +25,10 @@ La Iglesia es «la familia de Dios», y la familia cristiana es su imagen más i
 
 Royo Marín, al tratar de la vida de oración, señala la importancia del ejemplo de la Sagrada Familia. En Nazaret, Jesús, María y José vivieron en un clima de recogimiento y oración continua. La vida laboral de San José y la vida contemplativa de la Virgen María ofrecen al cristiano el modelo de cómo santificar las ocupaciones cotidianas. La Sagrada Familia es el hogar donde Cristo creció en «sabiduría, edad y gracia» (Lc 2,52) y donde María «conservaba todas estas cosas en su corazón» (Lc 2,51).
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+León XIV, en la Misa en la Basílica de la Sagrada Familia (Barcelona), vinculó la Sagrada Familia de Nazaret con el templo de Gaudí. Afirmó: «La Sagrada Familia de Nazaret es el icono de toda familia cristiana» [L_XIV-ViajeEspaña-2026, 14 — Misa en la Sagrada Familia]. Presentó a la familia como «escuela de amor, de trabajo, de fe» [L_XIV-ViajeEspaña-2026, 14 — Misa en la Sagrada Familia]. A imagen de la basílica, «la familia se construye día a día, piedra sobre piedra» [L_XIV-ViajeEspaña-2026, 14 — Misa en la Sagrada Familia].
+
 ## Distinciones importantes
 
 - La Sagrada Familia es «familia» por naturaleza — no es una comunidad religiosa ni una institución eclesiástica — pero es modelo de toda familia cristiana

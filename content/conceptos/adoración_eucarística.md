@@ -47,6 +47,10 @@ La Guía de Liturgia de la Legión de Cristo regula extensamente el culto eucar�
 
 **Hora eucarística**: tradicionalmente se tiene cada jueves durante la noche, buscando acompañar a Jesucristo en Getsemaní en la adoración y contemplación, abiertos a reparar faltas y pecados [GLit-2024, n. 183-186].
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+León XIV dedicó una atención particular a la adoración eucarística durante el viaje apostólico a España. En la solemnidad del Corpus Christi (4 de junio), enseñó: «Adorar no es pasar tiempo delante del Santísimo; es dejarse transformar por la presencia de Aquel que es Amor» [L_XIV-ViajeEspaña-2026, Corpus Christi 04 — homilía]. Presentó la custodia como «faro que ilumina la ciudad» [L_XIV-ViajeEspaña-2026, Corpus Christi 04 — homilía]. Exhortó a que las parroquias sean «escuelas de adoración» que formen creyentes capaces de contemplación [L_XIV-ViajeEspaña-2026, Corpus Christi 04 — homilía].
+
 ## Distinciones importantes
 
 - **Adoración eucarística vs. comunión**: una es culto de presencia, la otra es recepción sacramental

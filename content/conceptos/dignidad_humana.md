@@ -57,6 +57,10 @@ Las Líneas Guía del Vicariato Vaticano recogen que «la salvaguardia de los me
 
 El abuso sexual, particularmente cuando es cometido por consagrados, constituye una violación radical de la dignidad humana porque convierte a la persona —creada como fin en sí misma— en instrumento de satisfacción, contradiciendo el mandato de Cristo de acoger a los pequeños (Mt 18,5). La respuesta de la Iglesia incluye el [[acompañamiento_de_víctimas]], la [[protección_de_menores_en_la_iglesia]] y un camino de [[conversión]] institucional para eliminar el [[clericalismo]] que el Papa identifica como «terreno fértil para todos estos desastres» (PMI).
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+León XIV dedicó un amplio desarrollo a la dignidad humana en su discurso ante las Cortes. Afirmó que «la dignidad humana precede a toda concesión del Estado y no puede quedar subordinada a consensos sociales mudables», arraigándola en la creación del hombre a imagen de Dios, lo que la hace inviolable e inalienable [L_XIV-ViajeEspaña-2026, 06-Parlamento]. Vinculó explícitamente la defensa de la vida desde la concepción hasta la muerte natural con la dignidad, y denunció la «cultura del descarte» que descarta a no nacidos, ancianos, pobres y migrantes [L_XIV-ViajeEspaña-2026, 06-Parlamento]. En su discurso ante las autoridades, invocó «la dignidad inviolable de toda persona humana» como fundamento ético compartido de la sociedad [L_XIV-ViajeEspaña-2026, 01-Autoridades]. La dignidad del migrante (Arguineguín), del preso (Brians 1) y del anciano y enfermo fueron también objeto de su magisterio durante el viaje [L_XIV-ViajeEspaña-2026, 16-Arguineguín; 08-Brians1].
+
 ## Distinciones importantes
 
 - **Dignidad natural**: la que posee todo ser humano por haber sido creado a imagen de Dios

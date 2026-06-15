@@ -25,6 +25,10 @@ La doctrina tomista de la guerra justa establece que los príncipes tienen la ob
 
 **a.4 — Es lícito combatir en día festivo si la necesidad lo exige:** La defensa del bien público prevalece sobre la observancia festiva.
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+León XIV denunció en su discurso ante las Cortes la normalización de la guerra: «Vivimos tiempos en que la guerra ha vuelto a ser considerada un instrumento viable para resolver las controversias internacionales. No podemos aceptarlo. La guerra es siempre una derrota de la humanidad» [L_XIV-ViajeEspaña-2026, 06-Parlamento]. Exhortó al desarme, al fortalecimiento de las instituciones internacionales y a la reflexión ética sobre el comercio de armas [L_XIV-ViajeEspaña-2026, 06-Parlamento].
+
 ## Distinciones importantes
 
 - **Guerra justa vs. guerra injusta:** La primera tiene autoridad, causa y intención rectas; la segunda carece de alguna de estas condiciones.

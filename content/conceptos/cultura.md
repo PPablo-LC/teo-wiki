@@ -29,6 +29,10 @@ GS 59: La cultura debe estar subordinada a la perfección integral de la persona
 
 GS 60-62: El derecho personal a la cultura, la educación para la cultura íntegra del hombre, y el acuerdo entre la cultura humana y la educación cristiana.
 
+### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
+
+En el Encuentro con el mundo de la cultura, el arte, la economía y el deporte (Movistar Arena, Madrid), León XIV propuso «tejer redes» entre las diversas esferas sociales y llamó a una «nueva síntesis entre fe, cultura y sociedad» [L_XIV-ViajeEspaña-2026, 05 — Encuentro con la cultura]. Afirmó: «La cultura es el ámbito donde el hombre despliega su creatividad y busca el sentido de la vida» [L_XIV-ViajeEspaña-2026, 05 — Encuentro con la cultura]. Subrayó que la Iglesia no teme a la cultura porque «todo lo humano es de Cristo» [L_XIV-ViajeEspaña-2026, 05 — Encuentro con la cultura].
+
 ## Relaciones doctrinales
 
 Se relaciona con [[educación]], [[educación_católica]], [[humanismo_integral]], [[autonomía_de_las_realidades_terrenas]], [[ciencia]], [[arte]]

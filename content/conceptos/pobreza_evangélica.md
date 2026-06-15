@@ -1,7 +1,7 @@
 # Pobreza evangélica
 
 > Área: Ascética
-> Última actualización: 2026-05-25
+> Última actualización: 2026-06-14
 
 ## Definición
 
@@ -16,6 +16,12 @@ La pobreza evangélica se distingue de la mera pobreza material o miseria; es un
 ### Según el Catecismo (CEC)
 
 «Bienaventurados los pobres de espíritu porque de ellos es el Reino de los cielos» (CEC §544, §2544). Todos los cristianos han de vivir la pobreza de espíritu, que es la humildad voluntaria y la renuncia interior al apego desordenado de las riquezas (CEC §2545-2547). Cristo, siendo rico, se hizo pobre por nosotros para enriquecernos con su pobreza (CEC §544). La Iglesia sigue el camino de la pobreza como su Esposo (CEC §852-853). Los consejos evangélicos incluyen la pobreza como medio de caridad perfecta (CEC §915, §944).
+
+### Según Juan Pablo II (PDV)
+
+*Pastores dabo vobis* dedica el n. 30 a la pobreza evangélica del sacerdote. La pobreza es presentada como «sumisión de todos los bienes al Bien supremo de Dios y de su Reino» (PDV 30). La pobreza del sacerdote, en virtud de su configuración sacramental con Cristo, Cabeza y Pastor, tiene características «pastorales» precisas: los sacerdotes, siguiendo el ejemplo de Cristo que siendo rico se hizo pobre por amor (2 Cor 8,9), deben considerar a los pobres y a los más débiles como confiados a ellos de un modo especial y testimoniar la pobreza con una vida sencilla y austera, renunciando generosamente a lo superfluo (PDV 30; cf. OT 9; CIC c. 282).
+
+La pobreza asegura al sacerdote su disponibilidad a ser enviado donde su trabajo sea más útil y urgente, aunque comporte sacrificio personal. Es condición para la docilidad al Espíritu. El sacerdote debe ofrecer el testimonio de una total transparencia en la administración de los bienes de la comunidad. La libertad interior que la pobreza evangélica custodia prepara al sacerdote para estar al lado de los más débiles, promover la opción preferencial por los pobres y ser signo profético en las sociedades de consumo (PDV 30).
 
 ### Según Royo Marín (TPCr)
 
