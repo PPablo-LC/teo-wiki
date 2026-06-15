@@ -13,6 +13,48 @@ La excomunión es una pena medicinal (censura) cuyo fin no es principalmente pun
 
 ## Perspectivas por fuente
 
+### Según la Summa Theologiae (SmTh) — Suplemento
+
+**Suppl. q.21 — Definición, conveniencia y causa de la excomunión:**
+
+a.1 — Definición adecuada: «Separación de la comunión de la Iglesia en cuanto al fruto y los sufragios generales». La excomunión mayor priva de los sacramentos («fruto») y de la comunión con los fieles («sufragios»). La excomunión menor priva solo de la participación en los sacramentos.
+
+a.2 — La Iglesia debe excomulgar: imita el juicio de Dios separando al hombre de los fielles para su corrección, no para su condenación. Da a Satanás mayor poder sobre el excomulgado, pero medicinalmente.
+
+a.3 — Solo debe excomulgarse por pecado mortal (contra la caridad), y solo a los obstinados que rehúsan comparecer, desobedecen la sentencia o rechazan las advertencias. La excomunión es la pena más grave y debe reservarse para los obstinados.
+
+a.4 — Si la sentencia es nula (falta forma o causa), no produce efecto. Si es válida pero injusta (por odio del juez), surte efecto; el afectado debe someterse humildemente y buscar la absolución o apelación. El desprecio de una sentencia injusta es pecado mortal.
+
+**Suppl. q.22 — Sujetos activos y pasivos de la excomunión:**
+
+a.1 — No cualquier sacerdote puede excomulgar. La excomunión pertenece al fuero judicial externo, no al fuero interno de la confesión. Solo los obispos y prelados superiores (con jurisdicción en el tribunal contencioso) pueden excomulgar por autoridad ordinaria.
+
+a.2 — Quienes no son sacerdotes pueden excomulgar si tienen jurisdicción en tribunal contencioso (archidiáconos, legados, obispos electos), pues la excomunión requiere jurisdicción, no orden.
+
+a.3 — Un excomulgado o suspendido no puede excomulgar a otro: aunque la jurisdicción no se pierde, se pierde su uso.
+
+a.4 — Nadie puede excomulgarse a sí mismo, ni a su igual, ni a su superior. La jurisdicción coloca a uno sobre sus súbditos.
+
+a.5 — No puede excomulgarse a una corporación, porque los actos (y los pecados) pertenecen a individuos. El entredicho sí puede imponerse a una comunidad.
+
+a.6 — Un ya excomulgado puede ser excomulgado de nuevo, pues el carácter bautismal es indeleble y el bautizado permanece sujeto al juicio de la Iglesia.
+
+**Suppl. q.23 — Comunicación con excomulgados:**
+
+a.1 — Bajo excomunión mayor, no es lícito comunicar en materias corporales, con excepciones: (1) asuntos de salvación, (2) familiares y dependientes, (3) necesidad (asistir en peligro), (4) ignorancia del hecho, (5) viajeros. Bajo excomunión menor, solo la comunión sacramental está prohibida.
+
+a.2 — Quien se comunica con un excomulgado incurre en excomunión mayor si la sentencia tenía cláusula extensiva; si no, comunicar en el crimen incurre en excomunión mayor, y en otras materias, en menor.
+
+a.3 — No siempre es pecado mortal comunicar con un excomulgado: solo cuando la comunicación es en un hecho criminal, en acto de culto divino, o por desprecio de la Iglesia.
+
+**Suppl. q.24 — Absolución de la excomunión:**
+
+a.1 — De la excomunión menor puede absolver cualquier sacerdote que pueda absolver pecados. De la mayor, solo el juez que la pronunció o su superior. En peligro de muerte, cualquier sacerdote puede absolver de cualquier excomunión. Los casos reservados al Papa requieren su autoridad.
+
+a.2 — Nadie puede ser absuelto contra su voluntad; la pena (a diferencia de la culpa) no necesita ser voluntaria.
+
+a.3 — Puede uno ser absuelto de una excomunión sin serlo de todas, porque las excomuniones no están conectadas como los pecados. Si varias fueron pronunciadas por el mismo juez, la absolución de una se entiende por todas, salvo disposición contraria.
+
 ### Según el Catecismo (CEC)
 
 La excomunión es la pena eclesiástica más grave, que tiende a hacer tomar conciencia al delincuente de la gravedad de su falta (CEC §1463).
@@ -52,3 +94,4 @@ Este delito fue introducido como *delictum gravius* en la reforma de 2010, segú
 - CIC c. 1318
 - CEC §1463
 - Com-CIC-Eunsa, comentarios a cc. 1312, 1331, 1318; capítulo II del Libro VI
+- SmTh Suppl. q.21-24

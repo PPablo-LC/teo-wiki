@@ -129,6 +129,24 @@ a.3 — Son partes integrales (no subjetivas ni potenciales): el todo no está p
 
 a.4 — División según la virtud: penitencia anterior al bautismo (regeneración), penitencia de pecados mortales (reforma de la vida), penitencia de pecados veniales (perfeccionamiento).
 
+**Suplemento (Suppl. q.16, q.28):**
+
+**Suppl. q.16 — Sujetos del sacramento de la penitencia:**
+
+a.1 — El hábito de la penitencia puede existir en el inocente aunque no pase al acto respecto de pecados mortales (el inocente puede pecar, la materia está potencialmente disponible). Puede pasar al acto respecto de pecados veniales.
+
+a.2 — En los bienaventurados, el hábito de la penitencia permanece pero con un acto distinto: no dolor por el pecado, sino acción de gracias a Dios por la misericordia de haber perdonado los pecados. Las virtudes cardinales permanecen en el cielo en cuanto a sus actos dirigidos a su fin.
+
+a.3 — La pasión de arrepentimiento (dolor por el pecado) puede estar en los demonios (Sab 5,3), pero la virtud de la penitencia no puede estar ni en ángeles buenos (nunca pecaron) ni en malos (pecaron irremisiblemente).
+
+**Suppl. q.28 — Rito solemne de la penitencia:**
+
+a.1 — La penitencia debe solemnizarse (hacerse pública) por cuatro razones: (1) el pecado público necesita remedio público, (2) los crímenes gravísimos merecen máxima confusión, (3) para escarmiento de otros, (4) como ejemplo de arrepentimiento para evitar la desesperación. La penitencia solemne no viola el sigilo sacramental: el sacerdote no divulga el pecado, aunque la gente pueda sospechar; la penitencia se impone en secreto pero se ejecuta públicamente.
+
+a.2 — La penitencia solemne no debe repetirse: (1) para evitar el desprecio por la frecuencia, (2) porque significa la expulsión de Adán del paraíso (una sola vez), (3) porque la solemnización implica una profesión de continua penitencia. Si el pecador cae de nuevo, debe hacer penitencia privada, pero no con la misma solemnidad.
+
+a.3 — La penitencia solemne puede imponerse tanto a hombres como a mujeres. No debe imponerse a clérigos por temor al escándalo y desprecio de las órdenes. Está reservada al obispo y solo para crímenes que perturban toda la ciudad. La penitencia pública no solemne (ej. peregrinación) puede imponerla un simple sacerdote y puede repetirse.
+
 ### Según Royo Marín (TPCr)
 
 La penitencia es «el sacramento de la segunda tabla». Es el medio ordinario para recuperar la gracia perdida por el pecado.
@@ -168,3 +186,4 @@ Sobre la contrición:
 - Juan 20,22-23
 - Concilio de Trento, D 895-923
 - SmTh IIIª q.84-90
+- SmTh Suppl. q.16, q.28

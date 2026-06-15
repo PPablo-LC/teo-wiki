@@ -15,6 +15,36 @@ Se distingue entre indulgencia plenaria (remisión total de la pena temporal) e 
 
 ## Perspectivas por fuente
 
+### Según la Summa Theologiae (SmTh) — Suplemento
+
+**Suppl. q.25 — Las indulgencias:**
+
+a.1 — Las indulgencias valen tanto en el tribunal de la Iglesia como en el juicio de Dios. Su eficacia proviene de la unidad del Cuerpo Místico: los méritos superabundantes de Cristo y de los santos constituyen el tesoro de la Iglesia. El Papa, como rector de toda la Iglesia, puede distribuir este bien común a los individuos.
+
+a.2 — Las indulgencias son tan eficaces como se afirma, siempre que: (1) el concedente tenga autoridad, (2) el receptor tenga caridad, (3) la causa sea piadosa (honor de Dios, provecho del prójimo). La cantidad de remisión se mide por la abundancia de los méritos de la Iglesia (superabundantes), no por la devoción del receptor.
+
+a.3 — La indulgencia puede concederse por ayuda temporal en cuanto subordinada a fines espirituales (edificar iglesias, puentes, limosna). No es simonía porque lo espiritual no se intercambia por un bien temporal sino por un fin espiritual (el honor de Dios).
+
+**Suppl. q.26 — Quiénes pueden conceder indulgencias:**
+
+a.1 — La distribución del tesoro común de la Iglesia pertenece a quien preside toda la Iglesia (el Papa). Los obispos pueden concederlas dentro de límites fijados por el Papa. Los párrocos no pueden, pues presiden solo una parte.
+
+a.2 — Un diácono o no-sacerdote puede conceder indulgencias si tiene jurisdicción (legados, prelados), porque la concesión de indulgencias sigue a la jurisdicción, no a las órdenes sagradas (a diferencia de la absolución sacramental).
+
+a.3 — El Papa tiene plenitud de poder; los obispos comparten su solicitud; por eso conceden indulgencias sujetándose a la ordenación del Papa, mientras que el Papa puede concederlas como quiera, con causa lícita.
+
+a.4 — Las indulgencias pueden ser concedidas por quien está en pecado mortal, porque la concesión pertenece a la jurisdicción, no a la santidad personal. El prelado remite la pena no por sus propios méritos sino por los méritos del tesoro de la Iglesia.
+
+**Suppl. q.27 — A quiénes aprovechan las indulgencias:**
+
+a.1 — No aprovechan a quien está en pecado mortal para la remisión de la pena, porque la indulgencia presupone la culpa ya remitida. Se requiere verdadera contrición y confesión. Pueden aplicarse méritos al pecador para adquirir gracia (por congruo), pero este no es el propósito de las indulgencias.
+
+a.2 — Aprovechan a los religiosos tanto como a los seglares, si tienen caridad y cumplen las condiciones. Las indulgencias no socavan la disciplina religiosa; los religiosos merecen más para la vida eterna observando su regla que ganando indulgencias.
+
+a.3 — No aprovechan a quien no cumple las condiciones (dar limosna, visitar una iglesia). La voluntad del pobre se toma por el hecho en cuanto al premio esencial, pero no para los premios accidentales como la remisión de la pena.
+
+a.4 — Quien concede la indulgencia no puede aplicársela a sí mismo privativamente, pero puede aprovecharse de las indulgencias concedidas a otros, porque la causa (honor de Dios, bien de la Iglesia) se extiende también a él.
+
 ### Según el Catecismo (CEC)
 
 El Catecismo trata las indulgencias en el contexto del sacramento de la Penitencia (§1471-1479). «La indulgencia es la remisión ante Dios de la pena temporal por los pecados, ya perdonados en cuanto a la culpa» (§1471).
@@ -49,3 +79,4 @@ Las indulgencias se relacionan con el sacramento de la [[penitencia]], la [[comu
 
 - [CEC §1471-1479]
 - [TPCr, Parte III, Libro II, Cap. 1]
+- SmTh Suppl. q.25-27

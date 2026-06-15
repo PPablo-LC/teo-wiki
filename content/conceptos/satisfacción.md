@@ -26,6 +26,42 @@ Muchos pecados causan daño al prójimo; es preciso hacer lo posible para repara
 
 **IIIª q.48 a.4 (Redención como satisfacción):** La satisfacción de Cristo es llamada redención porque fue como un precio mediante el cual fuimos liberados de la esclavitud del pecado y del reato de la pena. Cristo satisfizo dando lo más grande, Él mismo.
 
+**Suplemento (Suppl. q.12-15):**
+
+**Suppl. q.12 — Naturaleza de la satisfacción:**
+
+a.1 — La satisfacción es formalmente acto de virtud, porque su nombre mismo implica igualdad de proporción (el «medio»), que es el elemento formal de toda virtud moral.
+
+a.2 — Es formalmente acto de justicia (el adverbio «satis» denota igualdad de proporción). Pertenece a la justicia vindicativa, que compensa una injuria pasada. Es elicitada por la justicia pero imperada por la caridad.
+
+a.3 — La definición de Anselmo («dar a Dios el honor debido») y la del Pseudo-Agustín («erradicar las causas de los pecados y no dar entrada a sus sugestiones») son ambas válidas: la justicia no solo remueve la desigualdad pasada sino que también salvaguarda la igualdad futura, pues las penas son medicinales.
+
+**Suppl. q.13 — Posibilidad de la satisfacción:**
+
+a.1 — El hombre no puede satisfacer a Dios con igualdad cuantitativa (ofensa infinita vs. acto finito), pero sí con igualdad proporcional: como la deuda respecto a Dios se compara con Dios, así lo que el hombre puede hacer se compara consigo mismo. La gracia vivifica esta satisfacción, haciéndola aceptable por el mérito de Cristo.
+
+a.2 — En cuanto pago de la deuda, un hombre puede satisfacer por otro si está en caridad, por la unidad del Cuerpo Místico («todos uno en Cristo»). Pero en cuanto remedio contra el pecado futuro, nadie puede satisfacer por otro (el ayuno de uno no doma la carne de otro).
+
+**Suppl. q.14 — Cualidad de la satisfacción:**
+
+a.1 — No se puede satisfacer por un pecado mortal si se retiene otro, porque la satisfacción requiere el restablecimiento de la amistad con Dios, y todo pecado mortal impide la caridad.
+
+a.2 — Las obras hechas sin caridad no son aceptables a Dios; por tanto, si se pierde la caridad después de la contrición, las obras de satisfacción hechas sin caridad no valen.
+
+a.3 — Las obras hechas sin caridad no pueden ser vivificadas por la caridad posterior (la caridad no puede hacer retroactivamente que una obra proceda de ella). Sin embargo, dejan efectos corporales (ayuno, limosna) que pueden ser aceptables en su resultado; las obras interiores deben repetirse.
+
+a.4 — Por mérito de congruo (no de condigno), las obras sin caridad pueden disponer a la gracia, habituar al bien y adquirir bienes temporales.
+
+a.5 — No mitigan la pena del infierno (requiere remoción de la culpa), pero pueden impedir el demérito de la pena (evitan pecado de omisión, disponen a mejores opciones).
+
+**Suppl. q.15 — Medios de la satisfacción:**
+
+a.1 — La satisfacción requiere obras que sean a la vez buenas (para honrar a Dios) y penales (para privar al pecador de algo). Las obras penales también preservan del pecado futuro.
+
+a.2 — Los azotes de la vida presente son satisfactorios si el que sufre los acepta voluntariamente para purificar sus pecados. Si se rechazan con impaciencia, quedan como meramente vindicativos.
+
+a.3 — Las obras de satisfacción se enumeran adecuadamente en tres: ayuno (contra la concupiscencia de la carne), limosna (contra la concupiscencia de los ojos) y oración (contra la soberbia de la vida), correspondiendo a los tres bienes (corporales, externos, espirituales) y a las tres raíces del pecado (1 Jn 2,16).
+
 ### Según Royo Marín (TPCr)
 La satisfacción infinita de Cristo es el fundamento de la redención. La humanidad era impotente para satisfacer condignamente el pecado de Adán; solo un Dios hecho hombre podía ofrecer una satisfacción plena (TPCr, Primera Parte, Cap. VII, n.57). La satisfacción sacramental, además de la finalidad vindicativa para restablecer el orden conculcado, tiene doble valor: remisivo de la pena temporal (ex opere operato) y medicinal, preservando del pecado futuro (TPCr, Tercera Parte, Libro II, Cap. I, n.546). El valor satisfactorio de las obras impuestas como penitencia sacramental es mucho mayor que si se realizan por propia iniciativa, pues forman parte completiva del sacramento y reciben su fuerza del poder de las llaves (n.548).
 
@@ -49,3 +85,4 @@ Se relaciona con [[penitencia]], [[sacramento_de_la_reconciliación]], [[redenci
 - CEC §616, §1459-1460, §1494
 - TPCr, Primera Parte, Cap. VII, n.57; Tercera Parte, Libro II, Cap. I, n.546-548
 - SmTh IIIª q.48 a.2; q.49 aa.3-4
+- SmTh Suppl. q.12-15
