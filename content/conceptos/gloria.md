@@ -1,7 +1,7 @@
 # Gloria
 
 > Área: Dogmática / Escatología
-> Última actualización: 2026-06-10
+> Última actualización: 2026-06-16
 
 ## Definición
 
@@ -43,9 +43,13 @@ Cualquier deformidad infligida por una libertad mal empleada será entonces refo
 - **Gloria del alma**: comienza inmediatamente después de la muerte del justo purificado.
 - **Gloria del cuerpo**: sobreviene en la resurrección final con las dotes de impasibilidad, claridad, agilidad y sutileza.
 
+### Según la Summa Theologiae (SmTh, Suppl.)
+
+En las cuestiones del Suplemento sobre la resurrección (q.79-85), Santo Tomás desarrolla la gloria del cuerpo resucitado. Todos resucitarán en la edad perfecta —la juventud, alrededor de los treinta años— (q.79 a.1). El cuerpo glorioso participa de la gloria del alma mediante cuatro dotes: impasibilidad (q.80), que lo libra de todo dolor; sutileza (q.81), que lo somete plenamente al espíritu; agilidad (q.82), que le permite moverse con la velocidad del pensamiento; y claridad (q.85), que irradia exteriormente la gloria interior del alma. La gloria del cuerpo es accidental respecto de la gloria esencial del alma (visión beatífica), pero es una verdadera participación corpórea de la bienaventuranza.
+
 ## Relaciones doctrinales
 
-La gloria se relaciona con la [[gracia_santificante]] (semilla de gloria), con el [[cielo]] (estado de gloria), con la [[visión_beatífica]] (acto esencial de la gloria), con la [[resurrección_de_la_carne]] (gloria del cuerpo), con la [[gloria_de_Dios]] (fin objetivo) y con la [[perfección_cristiana]] (anticipo de la gloria).
+La gloria se relaciona con la [[gracia_santificante]] (semilla de gloria), con el [[cielo]] (estado de gloria), con la [[visión_beatífica]] (acto esencial de la gloria), con la [[resurrección_de_la_carne]] (gloria del cuerpo), con la [[gloria_de_Dios]] (fin objetivo), con la [[perfección_cristiana]] (anticipo de la gloria) y con las [[dotes]] del cuerpo glorioso (impasibilidad, sutileza, agilidad, claridad).
 
 
 ## Analizado para
@@ -53,7 +57,7 @@ La gloria se relaciona con la [[gracia_santificante]] (semilla de gloria), con e
 - [[primeros_pasos_en_la_vida_espiritual]]
 
 ## Ver también
-[[gloria_de_Dios]], [[gracia_santificante]], [[cielo]], [[visión_beatífica]], [[resurrección_de_la_carne]], [[bienaventuranzas]]
+[[gloria_de_Dios]], [[gracia_santificante]], [[cielo]], [[visión_beatífica]], [[resurrección_de_la_carne]], [[bienaventuranzas]], [[dotes]], [[cuerpos_gloriosos]]
 
 ## Referencias
 

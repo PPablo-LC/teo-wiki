@@ -1,7 +1,7 @@
 # Sutileza
 
 > Área: Escatología / Dogmática
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-16
 
 ## Definición
 
@@ -12,6 +12,10 @@ La sutileza es una de las cuatro cualidades del cuerpo glorioso de los resucitad
 Santo Tomás enseña que la sutileza es una propiedad del cuerpo glorioso que procede de la plenitud del espíritu. Sin embargo, la capacidad de penetrar los cuerpos no es una consecuencia necesaria de la sutileza del cuerpo glorioso, sino que requiere un milagro especial de la omnipotencia divina. Incluso el cuerpo de Cristo resucitado, siendo glorioso, necesitó un milagro para penetrar las puertas cerradas del cenáculo.
 
 ## Perspectivas por fuente
+
+### Según la Summa Theologiae (SmTh, Suppl.)
+
+Santo Tomás trata la sutileza del cuerpo glorioso en Suppl. q.81. La sutileza es la plena sumisión del cuerpo al espíritu, por la cual el cuerpo glorioso no ofrece resistencia al alma (q.81 a.1). Esta sumisión procede de la gloria del alma, que redunda en el cuerpo perfeccionándolo. Sin embargo, la capacidad de penetrar otros cuerpos no es una consecuencia necesaria de la sutileza, sino que requiere un milagro especial de la omnipotencia divina (q.81 a.2). Incluso el cuerpo de Cristo resucitado, siendo glorioso, necesitó un milagro para entrar en el cenáculo con las puertas cerradas (Jn 20,19; q.81 a.2 ad 2). No todos los cuerpos gloriosos tendrán el mismo grado de sutileza, sino que variará según el grado de gloria (q.81 a.3).
 
 ### Según el Catecismo (CEC)
 No se menciona explícitamente la sutileza como dote del cuerpo glorioso, pero el CEC enseña la resurrección de la carne y la transformación del cuerpo humillado en cuerpo glorioso semejante al de Cristo resucitado (CEC §988-1004, §999). Cristo resucitado entraba en el cenáculo «estando cerradas las puertas» (Jn 20,19.26), lo que manifiesta la naturaleza gloriosa de su cuerpo.
@@ -38,5 +42,5 @@ Se relaciona con [[resurrección_de_la_carne]], [[cuerpo_glorioso]], [[agilidad]
 
 - TPCr, Cuarta Parte, Cap. II (Fenómenos corporales)
 - CEC §999, §1004
-- Santo Tomás, S.Th., III, q. 83-85
+- SmTh, Suppl. q.81 a.1-3
 - Jn 20,19.26

@@ -1,7 +1,7 @@
 # Agilidad
 
 > Área: Mística / Escatología
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-16
 
 ## Definición
 
@@ -27,6 +27,10 @@ También puede darse el fenómeno por vía preternatural: el demonio, que como e
 ### Según el Catecismo (CEC)
 
 El CEC §999-1001 trata de la resurrección de los muertos y las cualidades del cuerpo glorioso. La agilidad es una de las propiedades del cuerpo resucitado.
+### Según la Summa Theologiae (SmTh, Suppl.)
+
+Santo Tomás trata la agilidad del cuerpo glorioso en Suppl. q.82. La agilidad es la capacidad del cuerpo glorioso de moverse con la velocidad del pensamiento, sin impedimento material (q.82 a.1). Esta cualidad procede de la plena sumisión de la materia al alma glorificada: así como el alma se mueve instantáneamente hacia donde quiere, el cuerpo obedece sin demora. La agilidad supone la sutileza, pues un cuerpo que obedece perfectamente al alma no ofrece resistencia al movimiento. Sin embargo, la agilidad es distinta de la sutileza: la sutileza mira a la sumisión del cuerpo al espíritu en el orden del ser; la agilidad, en el orden del movimiento local.
+
 ### Según Royo Marín (TPCr)
 
 Poquísimos santos han gozado de esta gracia (n.847). Se clasifica entre las gracias gratis dadas de tipo milagroso, no entre los epifenómenos producidos por redundancia de la sobrenaturalización del alma.

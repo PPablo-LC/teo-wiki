@@ -1,7 +1,7 @@
 # Premio eterno
 
 > Area: Escatologia
-> Ultima actualización: 2026-06-03
+> Ultima actualización: 2026-06-16
 
 ## Definición
 
@@ -12,6 +12,10 @@ La recompensa sobrenatural que Dios concede a los justos por sus meritos adquiri
 El premio eterno es la bienaventuranza prometida por Cristo a los que le siguen fielmente. La teologia distingue entre el premio esencial (la vision beatifica de Dios) y el premio accidental (la gloria que resulta de las buenas obras). El merito de condigno establece que, por la bondad de Dios y su promesa, las buenas obras del justo merecen verdaderamente el aumento de la gracia y la vida eterna. Sin embargo, este merito procede siempre de la gracia divina que obra en el alma.
 
 ## Perspectivas por fuente
+
+### Según la Summa Theologiae (SmTh, Suppl.)
+
+En el Suplemento (q.84), Santo Tomás desarrolla las dotes del alma bienaventurada como disposiciones para el premio eterno. La visión (ver a Dios cara a cara), la comprensión o posesión (tenerlo firme e inamisiblemente) y la fruición (gozarlo con deleite perfecto) son las tres dotes del alma que constituyen el contenido esencial del premio eterno. A estas se añaden las cuatro dotes corporales (impasibilidad, sutileza, agilidad, claridad) como premio accidental que recae sobre el cuerpo resucitado. El premio eterno es, por tanto, la comunicación perfecta de Dios al alma (premio esencial) y la participación del cuerpo en esa gloria (premio accidental).
 
 ### Según el Catecismo (CEC)
 
@@ -39,7 +43,7 @@ Se relaciona con [[gloria]], [[visión_beatífica]], [[cielo]], [[mérito]], [[b
 
 ## Ver también
 
-[[recompensa_celestial]], [[gloria]], [[visión_beatífica]], [[cielo]], [[mérito]], [[vida_eterna]]
+[[recompensa_celestial]], [[gloria]], [[visión_beatífica]], [[cielo]], [[mérito]], [[vida_eterna]], [[dotes]], [[cuerpos_gloriosos]]
 
 ## Referencias
 
