@@ -1,7 +1,7 @@
 # Comunión de los Santos
 
 > Área: Dogmática
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-16
 
 ## Definición
 
@@ -16,6 +16,12 @@ La comunión de los santos es una explicitación del artículo sobre la Iglesia.
 ### Según el Catecismo (CEC)
 
 La expresión tiene dos significados relacionados: "comunión en las cosas santas [sancta]" y "comunión entre las personas santas [sancti]" (CEC §948). La comunión de los sacramentos une a todos los fieles y los liga a Jesucristo, siendo la Eucaristía la que lleva esta comunión a su culminación (CEC §950). La comunión de la caridad hace que el menor de nuestros actos hecho con caridad repercuta en beneficio de todos (CEC §953). La comunión incluye también los carismas que el Espíritu Santo reparte para la edificación de la Iglesia (CEC §951). Esta comunión abarca a los fieles de la tierra, del purgatorio y del cielo (CEC §962).
+
+### Según la Summa Theologiae (SmTh)
+
+**Fundamento de los sufragios (Suppl. q.71 a.1).** La comunión de los santos —artículo de fe— es el fundamento de los sufragios: todos los que están unidos por la caridad se benefician mutuamente de las obras de los demás. La caridad no se limita a los vivos sino que se extiende también a los muertos que murieron en caridad, porque "la caridad nunca deja de existir" (1 Cor 13,8). Por ello, los sufragios de los vivos aprovechan a los difuntos (Suppl. q.71 a.2).
+
+**Intercesión de los santos (Suppl. q.72 a.1-3).** Los santos en el cielo interceden por nosotros, pues conocen nuestras oraciones en el Verbo.
 
 ## Distinciones importantes
 
@@ -41,3 +47,4 @@ La expresión tiene dos significados relacionados: "comunión en las cosas santa
 
 - CEC §946-962
 - CEC §1474-1477
+- SmTh, Suppl. q.71 a.1-2, q.72 a.1-3

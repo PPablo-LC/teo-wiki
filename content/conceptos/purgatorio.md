@@ -21,8 +21,11 @@ Aquellos que mueren en la gracia y amistad de Dios, pero imperfectamente purific
 
 Las almas del purgatorio están confirmadas en gracia y unidas a Dios de manera definitiva. La Iglesia ofrece sufragios por ellas, especialmente el santo sacrificio de la Misa. Se puede hacer oblación del valor satisfactorio e impetratorio de las propias obras en favor de las almas del purgatorio. Santa Catalina de Génova escribió un precioso Tratado del purgatorio. La purificación en el purgatorio es análoga a las purificaciones pasivas en la tierra, pero después de la muerte.
 ### Según Para Salvarte (PS)
-
 Loring trata el purgatorio en el contexto del juicio particular: las almas de los que mueren en gracia de Dios pero necesitan purificación van al cielo «después de sufrir la purificación, los que la necesiten» [PS §98]. Explica que «el cielo comienza ya para las almas justas (si no tienen nada de qué purificarse previamente) inmediatamente después de la muerte» [PS §98,1], mientras que quienes necesitan purificación la reciben antes de entrar en la gloria. El purgatorio no es un segundo juicio ni un estado sin esperanza: las almas del purgatorio están ciertas de su salvación, pues mueren en gracia y amistad de Dios [PS §98].
+
+### Según la Summa Theologiae (SmTh)
+
+El purgatorio es uno de los cinco estados de las almas después de la muerte: el estado donde las almas son detenidas de recibir su recompensa final por un defecto de la persona (pecados personales que necesitan purificación) [SmTh, Suppl. q.69 a.7 co-ad]. El alma separada puede padecer el fuego corpóreo como instrumento de la justicia divina; el fuego detiene al alma y esta lo aprehende como dañino [SmTh, Suppl. q.70 a.3]. Los sufragios (oraciones, limosnas, sacrificio del altar) aprovechan sin duda a quienes están en el purgatorio, porque la pena del purgatorio está destinada a suplir la satisfacción no completada en vida, y las obras de uno pueden valer para la satisfacción de otro [SmTh, Suppl. q.71 a.6].
 
 
 ## Distinciones importantes

@@ -19,6 +19,10 @@ El juicio particular se distingue del Juicio final, que será público y univers
 
 "Cada hombre, después de morir, recibe en su alma inmortal su retribución eterna en un juicio particular que refiere su vida a Cristo" (§1022). Este juicio puede resultar en una purificación (purgatorio), la entrada inmediata en la bienaventuranza del cielo, o la condenación inmediata (§1022). "Al morir cada hombre recibe en su alma inmortal su retribución eterna en un juicio particular por Cristo, juez de vivos y de muertos" (§1051).
 
+### Según la Summa Theologiae (SmTh)
+
+Santo Tomás enseña que las almas son conducidas al cielo o al infierno inmediatamente después de la muerte, a no ser que algún impedimento las retenga (como una deuda de pecado venial que necesite purgarse). Esto constituye el fundamento de la doctrina del juicio particular. El alma recibe su premio o castigo en el acto, del mismo modo que un cuerpo es llevado a su lugar por la gravedad o la levedad a no ser que haya un obstáculo. Así lo atestiguan las Sagradas Escrituras y los Santos Padres; la opinión contraria es herética [SmTh, Suppl. q.69 a.2]. La gloria del alma se otorga inmediatamente, mientras que la gloria del cuerpo se difiere hasta la resurrección [SmTh, Suppl. q.69 a.2]. Asimismo, se distinguen cinco moradas o estados del alma después de la muerte según las diversas condiciones de las almas [SmTh, Suppl. q.69 a.7].
+
 ### Según Royo Marín (TPCr)
 
 Royo Marín presupone la doctrina del juicio particular en su enseñanza sobre la muerte y el destino eterno. Las almas que han alcanzado la perfección mediante las purificaciones pasivas pasan directamente a la gloria sin necesidad de purgatorio (TPCr, Tercera Parte, Libro I, Cap. VI). El juicio particular determina si el alma necesita todavía purificación antes de la visión beatífica.

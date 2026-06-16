@@ -33,6 +33,10 @@ Tomás de Aquino dedica la cuestión 59 de la IIIª Pars a la potestad judicial 
 
 **Extensión del juicio a los ángeles (a.6).** Los ángeles están sometidos al poder judicial de Cristo también en cuanto hombre: (1) por la proximidad a Dios de su alma, más llena de la verdad del Verbo que cualquier ángel; (2) por el mérito de la pasión, que lo exaltó sobre todos (Flp 2,10); (3) por su función de cabeza sobre los hombres, a cuyo servicio están los ángeles.
 
+**Señales previas (Suppl. q.73 a.1-3).** Precederán al Juicio señales en el sol, la luna y las estrellas, y las virtudes de los cielos serán conmovidas. El día del Juicio está oculto, pero las señales manifiestan su proximidad.
+
+**Fuego de la conflagración final (Suppl. q.74 a.1-9).** El fuego de la conflagración final purificará el mundo y precederá al Juicio. Este fuego ejecutará la sentencia divina, envolviendo a los malos.
+
 ### Según Royo Marín (TPCr)
 
 El Juicio final manifestará los torrentes de bendiciones derramadas sobre el mundo por el sacerdocio de Cristo (TPCr, Tercera Parte, Libro III). La consideración del Juicio final es un motivo para la perseverancia y la fidelidad. Los santos, que ya han sido juzgados en el juicio particular, aguardan la manifestación plena de la justicia de Dios en el Juicio final.
@@ -54,4 +58,5 @@ Se relaciona con el [[juicio_particular]], la [[resurrección_de_la_carne]], la 
 ## Referencias
 
 - [CEC §1038-1041, §678-682]
+- [SmTh, Suppl. q.73 a.1-3, q.74 a.1-9]
 - [TPCr, Tercera Parte, Libro III]

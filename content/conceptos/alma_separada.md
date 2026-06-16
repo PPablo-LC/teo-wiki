@@ -42,4 +42,4 @@ El estado del alma separada se sitúa entre la [[muerte]] y la [[resurrección_d
 ## Referencias
 
 - SmTh, Suppl. q.70 aa.1-3
-- SmTh Iª q.89, sobre el conocimiento del alma separada (<280 caracteres)
+- SmTh Iª q.89, sobre el conocimiento del alma separada

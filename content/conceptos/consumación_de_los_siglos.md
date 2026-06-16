@@ -29,6 +29,10 @@ El universo visible también está destinado a ser transformado (CEC §1046-1047
 
 La Constitución pastoral Gaudium et Spes §39 enseña que «la espera de una tierra nueva no debe amortiguar, sino más bien avivar la preocupación de perfeccionar esta tierra». La caridad y sus frutos, que ayudaron a edificar el Reino en esta vida, serán encontrados de nuevo en el Reino consumado. En la tierra está ya presente en germen el Reino, pero su plena manifestación tendrá lugar en la consumación.
 
+### Según la Summa Theologiae (SmTh)
+
+La consumación de los siglos será precedida por [[signos_del_juicio]], aunque su naturaleza exacta es incierta y los signos mencionados en el Evangelio pueden referirse a múltiples acontecimientos (Supl. q.73 a.1). Las virtudes de los cielos —los ángeles— serán conmovidas en la consumación (Supl. q.73 a.3). El mundo será purificado como parte de la consumación final, pues fue creado por amor al hombre (Supl. q.74 a.1). El fuego de la [[conflagración_final]] precede al [[juicio_final]] en cuanto a la purificación, pero lo sigue en cuanto a la absorción de los malos (Supl. q.74 a.7). Tras el juicio, el mundo renovado y purificado por el fuego será la morada apropiada para los elegidos, mientras que todo lo grosero y vil será arrojado al infierno (Supl. q.74 a.9).
+
 ## Distinciones importantes
 
 - Parusía (segunda venida de Cristo en gloria) vs. primera venida en humildad
