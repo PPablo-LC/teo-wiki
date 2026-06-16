@@ -29,6 +29,8 @@ Después del juicio final, los justos reinarán para siempre con Cristo, glorifi
 
 **Preparación para la renovación (Suppl. q.74 a.8).** El fuego prepara la renovación de todas las criaturas, que ocurre al mismo tiempo que la glorificación de los cuerpos de los santos.
 
+**Renovación del mundo después del Juicio (Suppl. q.91 a.1-5).** El mundo será renovado (a.1), pues fue hecho para el hombre; cuando el hombre sea glorificado, el mundo debe ser renovado. El movimiento de los cuerpos celestes cesará (a.2), porque cumplido el número de los elegidos ya no será necesario el movimiento que sirve a la generación y corrupción. El brillo de los cuerpos celestes aumentará (a.3), participando de la claridad de los bienaventurados. Los elementos serán renovados por la adición de claridad (a.4): el fuego rodeará la tierra como un cielo, habitáculo de los santos. Las plantas y los animales no permanecerán (a.5), porque fueron hechos para la vida del hombre en su estado de corrupción y no tienen parte en la incorrupción final.
+
 ## Distinciones importantes
 
 - No es una destrucción del cosmos, sino su transformación
@@ -46,7 +48,7 @@ Se conecta con la [[parusía]] de Cristo, la [[resurrección_de_la_carne]], el [
 ## Referencias
 
 - [CEC §1042-1050]
-- [SmTh, Suppl. q.74 a.1-2, a.4-5, a.8]
+- [SmTh, Suppl. q.74 a.1-2, a.4-5, a.8; q.91 a.1-5]
 - [Is 65,17]
 - [2 Pe 3,13]
 - [Ap 21,1]

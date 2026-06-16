@@ -1,7 +1,7 @@
 # Juicio final
 
 > Área: Escatología
-> Última actualización: 2026-06-12
+> Última actualización: 2026-06-16
 
 ## Definición
 
@@ -37,6 +37,14 @@ Tomás de Aquino dedica la cuestión 59 de la IIIª Pars a la potestad judicial 
 
 **Fuego de la conflagración final (Suppl. q.74 a.1-9).** El fuego de la conflagración final purificará el mundo y precederá al Juicio. Este fuego ejecutará la sentencia divina, envolviendo a los malos.
 
+**Conocimiento de los méritos y deméritos en el Juicio (Suppl. q.87 a.1-3).** Después de la resurrección, todos conocerán todos sus pecados por el poder divino, pues la conciencia misma será como un libro abierto (a.1). Cada uno podrá leer todo lo que hay en la conciencia ajena, de modo que todos los pecados serán manifiestos a todos (a.2). Todos los méritos y deméritos serán vistos como en un solo golpe de vista o con maravillosa rapidez (a.3).
+
+**El Juicio general (Suppl. q.88 a.1-4).** La necesidad del juicio general se funda en que no se puede dar un juicio definitivo sobre una cosa mudable antes de su consumación; muchas cosas que deben ser juzgadas perviven después de la muerte: la memoria de los hombres, los hijos, los efectos de las obras, el cuerpo y los bienes temporales (a.1). El juicio se realizará mentalmente, no de palabra (a.2). El tiempo del Juicio es desconocido (a.3). El lugar del Juicio será el valle de Josafat o el Monte de los Olivos (a.4).
+
+**Quiénes juzgan y son juzgados (Suppl. q.89 a.1-8).** Algunos hombres juzgarán con Cristo como asesores y aprobadores del juicio (a.1). La potestad judicial corresponde a los perfectos, y especialmente a los pobres voluntarios (a.2). Los ángeles no juzgarán, porque el juicio es propio de los hombres en cuanto Cristo es cabeza de la Iglesia (a.3). Los demonios ejecutarán la sentencia divina (a.4). Todos los hombres comparecerán en el juicio (a.5). Los buenos serán juzgados para manifestación de sus méritos (a.6). Los malos serán juzgados para su condenación (a.7). Los ángeles buenos y malos serán juzgados solo indirectamente (a.8).
+
+**Forma del Juez (Suppl. q.90 a.1-3).** Cristo juzgará bajo la forma de su humanidad (a.1). Aparecerá en su humanidad glorificada (a.2). La divinidad no podrá ser vista sin gozo por los malos, por lo que no la verán (a.3).
+
 ### Según Royo Marín (TPCr)
 
 El Juicio final manifestará los torrentes de bendiciones derramadas sobre el mundo por el sacerdocio de Cristo (TPCr, Tercera Parte, Libro III). La consideración del Juicio final es un motivo para la perseverancia y la fidelidad. Los santos, que ya han sido juzgados en el juicio particular, aguardan la manifestación plena de la justicia de Dios en el Juicio final.
@@ -53,10 +61,10 @@ Se relaciona con el [[juicio_particular]], la [[resurrección_de_la_carne]], la 
 
 ## Ver también
 
-[[juicio_particular]], [[resurrección_de_la_carne]], [[justicia_divina]], [[escatología]], [[conversión]]
+[[juicio_particular]], [[resurrección_de_la_carne]], [[justicia_divina]], [[escatología]], [[conversión]], [[cristo_juez]], [[valle_de_Josafat]]
 
 ## Referencias
 
 - [CEC §1038-1041, §678-682]
-- [SmTh, Suppl. q.73 a.1-3, q.74 a.1-9]
+- [SmTh, Suppl. q.73 a.1-3, q.74 a.1-9, q.87 a.1-3, q.88 a.1-4, q.89 a.1-8, q.90 a.1-3]
 - [TPCr, Tercera Parte, Libro III]

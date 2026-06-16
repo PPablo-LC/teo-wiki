@@ -1,7 +1,7 @@
 # Consumación de los siglos
 
 > Área: Escatología
-> Última actualización: 2026-05-29
+> Última actualización: 2026-06-16
 
 ## Definición
 
@@ -33,6 +33,8 @@ La Constitución pastoral Gaudium et Spes §39 enseña que «la espera de una ti
 
 La consumación de los siglos será precedida por [[signos_del_juicio]], aunque su naturaleza exacta es incierta y los signos mencionados en el Evangelio pueden referirse a múltiples acontecimientos (Supl. q.73 a.1). Las virtudes de los cielos —los ángeles— serán conmovidas en la consumación (Supl. q.73 a.3). El mundo será purificado como parte de la consumación final, pues fue creado por amor al hombre (Supl. q.74 a.1). El fuego de la [[conflagración_final]] precede al [[juicio_final]] en cuanto a la purificación, pero lo sigue en cuanto a la absorción de los malos (Supl. q.74 a.7). Tras el juicio, el mundo renovado y purificado por el fuego será la morada apropiada para los elegidos, mientras que todo lo grosero y vil será arrojado al infierno (Supl. q.74 a.9).
 
+**Renovación del cosmos (Supl. q.91 a.1-5).** El mundo será renovado (a.1), pues fue hecho para el hombre. El movimiento de los cuerpos celestes cesará (a.2), porque cumplido el número de los elegidos cesa la generación. El brillo de los cuerpos celestes aumentará (a.3). Los elementos serán renovados por la adición de claridad (a.4). Las plantas y los animales no permanecerán (a.5), porque no son susceptibles de incorrupción.
+
 ## Distinciones importantes
 
 - Parusía (segunda venida de Cristo en gloria) vs. primera venida en humildad
@@ -50,3 +52,4 @@ La consumación de los siglos será precedida por [[signos_del_juicio]], aunque 
 - CEC §673-679, §1042-1050
 - Gaudium et Spes §39
 - 1 Co 15,28; Ap 21,1-4; 2 Pe 3,13
+- Supl. q.73 a.1-3; Supl. q.74 a.1-2, a.4-5, a.7, a.9; Supl. q.91 a.1-5

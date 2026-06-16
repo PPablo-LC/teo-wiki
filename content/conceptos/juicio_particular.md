@@ -1,7 +1,7 @@
 # Juicio particular
 
 > Área: Escatología
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-16
 
 ## Definición
 
@@ -22,6 +22,8 @@ El juicio particular se distingue del Juicio final, que será público y univers
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás enseña que las almas son conducidas al cielo o al infierno inmediatamente después de la muerte, a no ser que algún impedimento las retenga (como una deuda de pecado venial que necesite purgarse). Esto constituye el fundamento de la doctrina del juicio particular. El alma recibe su premio o castigo en el acto, del mismo modo que un cuerpo es llevado a su lugar por la gravedad o la levedad a no ser que haya un obstáculo. Así lo atestiguan las Sagradas Escrituras y los Santos Padres; la opinión contraria es herética [SmTh, Suppl. q.69 a.2]. La gloria del alma se otorga inmediatamente, mientras que la gloria del cuerpo se difiere hasta la resurrección [SmTh, Suppl. q.69 a.2]. Asimismo, se distinguen cinco moradas o estados del alma después de la muerte según las diversas condiciones de las almas [SmTh, Suppl. q.69 a.7].
+
+**Necesidad del juicio general (Suppl. q.88 a.1).** Santo Tomás explica que, además del juicio particular, es necesario un juicio general. El juicio particular juzga al hombre como individuo; el juicio general lo juzga como parte del género humano. Tras la muerte perviven cosas que deben ser juzgadas: la memoria de los hombres, los hijos, los efectos de las obras, el cuerpo y los bienes temporales. La sentencia del juicio particular no se ejecuta plenamente hasta el juicio general, pues los buenos recibirán aumento de premio (la gloria del cuerpo y la consumación del número de los santos), y los malos aumento de tormento (el suplicio del cuerpo). Además, en el juicio particular nadie conoce el destino de los demás; el juicio general manifestará la justicia divina a todos.
 
 ### Según Royo Marín (TPCr)
 
@@ -52,5 +54,6 @@ Se relaciona con el [[juicio_final]], la [[muerte]], el [[cielo]], el [[purgator
 ## Referencias
 
 - [CEC §1021-1022, §1051]
+- [SmTh, Suppl. q.69 a.2, a.7; q.88 a.1]
 - [TPCr, Tercera Parte, Libro I, Cap. VI]
 - [PS §98]
