@@ -33,6 +33,10 @@ La obligación del voto surge de la fidelidad debida a Dios. Quebrantar un voto 
 
 [SmTh IIa-IIae q.88]
 
+Además, en el Suplemento (q.53) Santo Tomás trata el voto como impedimento matrimonial. El voto simple de castidad impide la **licitud** del matrimonio pero no lo invalida: aunque es pecado contraer después del voto simple, el matrimonio es válido porque el contrayente aún retiene poder sobre su propio cuerpo (q.53 a.1). El voto solemne de castidad, en cambio, **dirime** el matrimonio: quien ha hecho voto solemne ha perdido el poder sobre su cuerpo al consagrarlo a Dios, y no puede entregarlo a un cónyuge (q.53 a.2). Si ya contrajo matrimonio antes del voto solemne, este no disuelve el vínculo, pero quien hace voto solemne después de casado necesita el consentimiento del cónyuge.
+
+[SmTh, Suppl., q.53]
+
 ## Distinciones importantes
 - Voto (promesa a Dios) ≠ propósito (resolución firme, sin promesa a Dios)
 - Voto público (recibido por la Iglesia) ≠ voto privado (sin recepción eclesiástica)
@@ -49,3 +53,4 @@ Se relaciona con [[virtud_de_la_religión]], [[votos]], [[voto_de_pobreza]], [[v
 - [CEC §2101-2103; §2147]
 - [TPCr, Tercera Parte, Libro II, Cap. 2 – El voto (88); Cap. 4-5 – Voto de obediencia al director]
 - [CIC cc. 1191-1198]
+- SmTh IIa-IIae q.88; Suppl., q.53

@@ -41,6 +41,10 @@ El V Capítulo General de los Legionarios de Cristo (CapGral-2026) considera el 
 
 León XIV sitúa el celibato, junto con la pobreza y la obediencia, en el umbral de la catedral: «El umbral marca un paso, una separación necesaria. Antes de entrar, algo queda fuera. También el sacerdocio se vive así: estando en el mundo, pero sin ser del mundo (cf. Jn 17,14). En este cruce se sitúan el celibato, la pobreza y la obediencia; no como negación de la vida, sino como la forma concreta que permite al sacerdote pertenecer enteramente a Dios sin dejar de caminar entre los hombres.» El celibato no es una mera renuncia sino una forma positiva de pertenencia total a Dios que configura la vida sacerdotal en el umbral entre el mundo y lo sagrado [DC-Convivium, 09.02.2026].
 
+### Según Don y Misterio (DyM)
+
+Juan Pablo II aborda el [[celibato_sacerdotal]] a través del testimonio de San Juan María Vianney, cuyo celibato fue una entrega total a Cristo y a las almas. El Papa lo presenta como un don que permite al sacerdote estar plenamente disponible para la [[cura_animarum]] [DyM, V]. El celibato se inscribe en la lógica del [[admirabile_commercium]]: el sacerdote ofrece a Cristo su humanidad y recibe a cambio la capacidad de ser instrumento de salvación [DyM, VIII].
+
 ## Distinciones importantes
 
 - **Celibato sacerdotal vs. castidad conyugal**: aquel es renuncia al matrimonio por el Reino; esta es virtud dentro del matrimonio. Ambas son caminos de santidad, ordenados a fines distintos.

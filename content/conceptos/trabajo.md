@@ -35,6 +35,10 @@ El trabajo corporal es mencionado como forma de mortificación positiva: «el ci
 
 León XIV abordó el trabajo como parte de la vocación humana en el encuentro en el Movistar Arena (5 de junio): «El trabajo no es solo un medio de subsistencia; es participación en la obra creadora de Dios» [L_XIV-ViajeEspaña-2026, Movistar Arena 05 — discurso]. Se dirigió a empresarios y trabajadores sobre la dignidad del trabajo, el salario justo y la integración de la fe y el trabajo [L_XIV-ViajeEspaña-2026, Movistar Arena 05 — discurso]. En la Sagrada Familia (14 de junio), presentó la obra de Gaudí como ejemplo de trabajo ofrecido a Dios [L_XIV-ViajeEspaña-2026, Sagrada Familia 14 — discurso].
 
+### Según Don y Misterio (DyM)
+
+Juan Pablo II describe su experiencia del [[trabajo]] manual en la cantera de Solvay y en la fábrica de potasa durante la ocupación nazi [DyM, II]. Esta experiencia lo marcó profundamente: «apenas si tenía conciencia de que estaba viviendo un momento histórico importantísimo para la Iglesia, pero sentía que formaba parte de ello» [DyM, II]. El trabajo no fue para él solo un medio de subsistencia, sino ocasión de encuentro con Cristo en el sufrimiento y escuela de humanidad.
+
 ## Distinciones importantes
 
 - Trabajo creador (Gén 2,15) vs. trabajo fatigoso (Gén 3,17-19)

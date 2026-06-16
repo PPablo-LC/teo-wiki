@@ -29,6 +29,10 @@ La vocación sacerdotal debe ser discernida en la comunidad cristiana. La famili
 
 La respuesta a la vocación exige una opción libre y responsable, que implica abandonar la propia voluntad para seguir a Cristo, Buen Pastor. La vocación sacerdotal es, por su naturaleza, una vocación a la santidad específica: a vivir el radicalismo evangélico mediante los consejos de obediencia, castidad y pobreza según el estilo propio del presbítero (PDV 27-30).
 
+### Según Don y Misterio (DyM)
+
+Juan Pablo II describe su propia [[vocación_sacerdotal]] como un misterio que comenzó en la infancia en Wadowice, maduró durante la guerra y la ocupación nazi, y se definió en el seminario clandestino de Cracovia [DyM, I-II]. La vocación es un [[admirabile_commercium]]: «un "maravilloso intercambio" entre Dios y el hombre» [DyM, VIII]. El Papa testimonia que en el momento de la ordenación, durante la postración, comprendió que la vocación significa «acoger en la propia vida —como Pedro— la Cruz de Cristo y hacerse con el Apóstol "suelo" para los hermanos» [DyM, IV]. Identifica influencias decisivas: su familia, Jan Tyranowski, los carmelitas, San Juan María Vianney y la experiencia del martirio de sacerdotes polacos durante la guerra [DyM, III].
+
 ## Distinciones importantes
 
 - Vocación universal a la santidad (recibida en el Bautismo) vs. vocación específica al presbiterado (recibida por el sacramento del Orden)

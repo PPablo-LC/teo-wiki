@@ -61,6 +61,10 @@ Para Salvarte presenta la Redención como el rescate del género humano por la s
 
 - [[auténtica_día_2_lidera_tu_vida_con_dios]] — convergencia en la sanación por la sangre de Cristo (imagen de la cruz de la unidad) como aplicación de la redención objetiva a la sanación interior
 
+### Según Don y Misterio (DyM)
+
+Juan Pablo II relaciona la [[redención]] con su propia vocación sacerdotal: «la Cruz de Cristo ha sido siempre mi punto de referencia. Diría más: el centro de mi vida sacerdotal» [DyM, VIII]. La Eucaristía renueva el sacrificio redentor de Cristo. El sacerdote, al celebrarla, se sumerge en el [[mysterium_fidei]] —el misterio pascual de Cristo—, quedando envuelto por el poder del Espíritu Santo [DyM, VIII].
+
 ## Ver también
 
 [[jesucristo]], [[pecado_original]], [[eucaristía]], [[bautismo]], [[gracia_santificante]], [[iglesia_cuerpo_místico]], [[jorge_loring]]

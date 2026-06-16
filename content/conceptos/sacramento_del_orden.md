@@ -37,6 +37,10 @@ Aquellos de entre los fieles «que están sellados con el orden sagrado son dest
 ### Según Royo Marín (TPCr)
 El sacramento del orden puede definirse como «un sacramento instituido por Nuestro Señor Jesucristo por el que se confiere la potestad espiritual y la gracia necesaria para el recto desempeño de los ministerios eclesiásticos» (TPCr, Tercera Parte, Libro II, Cap. I, n.325). Sus efectos principales son la gracia y el carácter sacramental (n.326). La gracia sacramental propia confiere una fuerza especial para ejercer las funciones ministeriales. El carácter segregue al sacerdote del resto de los fieles y le configura plenamente con Cristo Sacerdote. El sacramento del orden es de mayor dignidad después de la Eucaristía. Es necesario para perpetuar en la Iglesia la jerarquía sagrada (n.327). El ministro ordinario es el obispo consagrado; el sujeto receptor es únicamente el varón bautizado.
 
+### Según Don y Misterio (DyM)
+
+Juan Pablo II describe el [[sacramento_del_orden]] como «don y misterio» que configura al sacerdote con Cristo Cabeza y Pastor. En la ceremonia, la postración —«yacer por tierra en forma de Cruz»— significa «acoger en la propia vida la Cruz de Cristo» [DyM, IV]. La imposición de manos y la oración consecratoria confieren el poder de actuar *[[in_persona_christi]]*, especialmente en la Eucaristía [DyM, VIII]. El sacramento no es meramente funcional sino ontológico: transforma el ser del sacerdote para siempre [DyM, VII].
+
 ## Distinciones importantes
 
 - Solo el obispo consagrado puede administrar válidamente el sacramento del Orden

@@ -74,6 +74,10 @@ Es «mediadora secundaria, subordinada a Cristo» [PS §30,1]. Debemos acudir a 
 
 León XIV manifestó su devoción mariana en la Oración a la Virgen de la Almudena (Madrid), donde encomendó a su intercesión «el pueblo de Madrid, sus familias, sus jóvenes, sus ancianos, sus enfermos» y pidió por la paz [L_XIV-ViajeEspaña-2026, 08 — Oración a la Virgen de la Almudena]. En Montserrat rezó el rosario con los jóvenes ante la «Moreneta», a quien veneró como «Madre de la Iglesia» [L_XIV-ViajeEspaña-2026, 12 — Rosario en Montserrat]. Allí afirmó: «María nos enseña a acoger, a esperar contra toda esperanza, a estar al pie de la cruz» [L_XIV-ViajeEspaña-2026, 12 — Rosario en Montserrat]. A lo largo del viaje presentó a María como modelo de fe y de la Iglesia.
 
+### Según Don y Misterio (DyM)
+
+La [[virgen_maría]] ocupa un lugar central en la vida sacerdotal de Juan Pablo II, quien asumió el lema *Totus Tuus* desde su ordenación episcopal, tomado del Tratado de la Verdadera Devoción de San Luis María Grignion de Montfort [DyM, VI]. El Papa identifica a María como «la Madre de mi sacerdocio» [DyM, VI]. La devoción mariana no es un complemento sino dimensión constitutiva de la [[espiritualidad_sacerdotal]]: María acompaña al sacerdote como estuvo al pie de la Cruz y en el Cenáculo [DyM, VI].
+
 ## Distinciones importantes
 
 - **Maternidad divina**: María es Madre de Dios (Theotókos), verdadera Madre de Jesús, que es verdadero Dios y verdadero hombre.

@@ -35,6 +35,10 @@ León XIV, en su mensaje para la Jornada por la Santificación Sacerdotal, sitú
 
 León XIV recuerda que el sacerdote no es la fuente de la gracia sino el cauce: «vosotros no sois la fuente, sino el cauce, y que también necesitáis beber de esa agua». Por eso exhorta a los sacerdotes a no dejar de confesarse y de volver siempre a la misericordia que anuncian. La gracia se revela en los sacramentos como la fuerza más real y eficaz del ministerio sacerdotal: en la pila bautismal nace el Pueblo de Dios, en el confesionario es continuamente regenerado. El sacerdote debe celebrar los sacramentos con dignidad y fe, siendo consciente de que lo que en ellos se produce es la verdadera fuerza que edifica la Iglesia y el fin último al que se ordena todo el ministerio [DC-Convivium, 09.02.2026].
 
+### Según Don y Misterio (DyM)
+
+Juan Pablo II presenta el [[sacerdocio_ordenado]] como un «don y misterio» que sumerge al hombre en el [[mysterium_fidei]] [DyM, VIII]. El sacerdote es «administrador de los misterios de Dios» (1 Co 4,1), que actúa *[[in_persona_christi]]* en la Eucaristía y los demás sacramentos. La ordenación es un [[admirabile_commercium]]: el hombre ofrece su humanidad a Cristo para que Él la use como instrumento de salvación [DyM, VIII]. El sacerdote está llamado a la [[santidad]] como condición para la [[cura_animarum]] [DyM, IX].
+
 ## Distinciones importantes
 
 - **Sacerdocio ministerial vs. sacerdocio común de los fieles:** son esencialmente distintos, no solo en grado; el ministerial confiere un poder sagrado y un carácter indeleble, mientras que el común se realiza en la gracia bautismal.

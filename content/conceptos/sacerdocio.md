@@ -66,6 +66,10 @@ En su encuentro con el clero romano, el Papa desarrolla el sacerdocio desde la i
 
 León XIV, en su encuentro con los obispos españoles, presentó al sacerdote como «no un funcionario de lo sagrado, sino un testigo del Misterio» [L_XIV-ViajeEspaña-2026, 07 — Encuentro con Obispos]. Subrayó la necesidad de formación permanente, paternidad espiritual y cercanía al pueblo, retomando la imagen de Francisco: «Un sacerdote sin olor a oveja no es pastor» [L_XIV-ViajeEspaña-2026, 07 — Encuentro con Obispos]. Vinculó el sacerdocio a la Eucaristía: el sacerdote es «hombre de la Eucaristía», configurado con Cristo para servir a la Iglesia [L_XIV-ViajeEspaña-2026, 07 — Encuentro con Obispos].
 
+### Según Don y Misterio (DyM)
+
+Juan Pablo II presenta el sacerdocio como «administrador de los misterios de Dios» (1 Co 4,1), centrado en la [[eucaristía]]. El sacerdote «actúa verdaderamente *in persona Christi*» en la consagración, renovando el sacrificio de Cristo con la fuerza del Espíritu Santo [DyM, VIII]. La vocación sacerdotal es un [[admirabile_commercium]]: «un "maravilloso intercambio" entre Dios y el hombre» en que «este ofrece a Cristo su humanidad para que Él pueda servirse de ella como instrumento de salvación» [DyM, VIII]. El sacerdocio es indisociable de la Eucaristía: «No hay Eucaristía sin sacerdocio, como no hay sacerdocio sin Eucaristía» [DyM, VIII].
+
 ## Distinciones importantes
 - El sacerdocio común de los fieles se recibe en el Bautismo; el sacerdocio ministerial se recibe en el Orden.
 - Solo el sacerdocio ministerial puede celebrar la Eucaristía y perdonar los pecados.

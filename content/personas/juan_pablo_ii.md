@@ -21,6 +21,10 @@ Juan Pablo II es una de las figuras centrales del documento. Se le cita extensam
 
 Tras el Sínodo de los Obispos de 1990 sobre la formación de los sacerdotes, Juan Pablo II promulgó la Exhortación Apostólica Postsinodal *Pastores dabo vobis* (25 de marzo de 1992), una de sus obras magisteriales más importantes sobre el ministerio sacerdotal. El documento constituye la síntesis más completa de su pontificado sobre la identidad, espiritualidad y formación del presbítero, articulada en torno a cuatro dimensiones formativas (humana, espiritual, intelectual y pastoral), la caridad pastoral como principio unificador de la vida sacerdotal, la formación permanente y la pastoral vocacional. PDV ha sido una fuente de referencia constante para el magisterio posterior y para la renovación de la formación sacerdotal en todo el mundo.
 
+### Según Don y Misterio (DyM)
+
+Juan Pablo II narra en esta autobiografía sacerdotal los hitos de su vocación y ministerio: la infancia en Wadowice, el seminario clandestino durante la guerra, la ordenación (1946), los estudios en Roma, el ministerio pastoral en Cracovia, el episcopado y el pontificado. Describe su espiritualidad centrada en la [[eucaristía]], la devoción mariana *Totus Tuus* y el servicio en el confesionario [DyM, I-X]. El Papa se presenta como «ministro de la misericordia» y «administrador de los misterios de Dios» [DyM, IX]. La clave de lectura de la obra es el [[admirabile_commercium]]: «un "maravilloso intercambio" entre Dios y el hombre» en que el sacerdote ofrece a Cristo su humanidad para que Él la use como instrumento de salvación [DyM, VIII].
+
 ### Según SST (Sacramentorum Sanctitatis Tutela)
 
 Juan Pablo II promulgó la Carta Apostólica *Motu Proprio data* «Sacramentorum Sanctitatis Tutela» (30 abril 2001), por la que se promulgan las *Normae de gravioribus delictis* reservados a la Congregación para la Doctrina de la Fe. Fuente primaria del derecho penal canónico sustantivo y procesal sobre delitos contra la fe, la Eucaristía, la Penitencia, la moral y la atentada ordenación sagrada.

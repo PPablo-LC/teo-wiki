@@ -27,6 +27,10 @@ El documento relaciona el surgimiento de los [[movimientos_eclesiales]] con el i
 
 La formación sacerdotal debe preparar a los sacerdotes para ser evangelizadores en un mundo secularizado, capaces de anunciar el Evangelio con «nuevo ardor, nuevos métodos y nuevas expresiones» (PDV 18). La nueva evangelización exige sacerdotes que sean «hombres de comunión y de diálogo», enraizados en la verdad y en la caridad de Cristo, abiertos al diálogo ecuménico e interreligioso y comprometidos con la promoción de la justicia y la paz (PDV 18).
 
+### Según Don y Misterio (DyM)
+
+Juan Pablo II no usa explícitamente el término «nueva evangelización» en DyM, pero toda su autobiografía sacerdotal es testimonio de su fundamento: el sacerdote «hombre de la Palabra» debe «conjugar la evangelización con la inteligencia de la fe» para anunciar a los hombres de hoy la verdad sobre Dios y el hombre [DyM, IX]. El Papa relaciona el anuncio con el diálogo con la filosofía y la cultura contemporánea, tarea que él mismo emprendió integrando tomismo y fenomenología [DyM, IX].
+
 ## Relaciones doctrinales
 
 Se relaciona con [[evangelización]], [[doctrina_social_de_la_iglesia]], [[misión_de_la_iglesia]], [[reino_de_dios]], [[concilio_vaticano_ii]]

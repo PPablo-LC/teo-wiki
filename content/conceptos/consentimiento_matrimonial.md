@@ -35,6 +35,8 @@ El matrimonio contraído por miedo grave que quebranta la libertad interior es i
 
 El objeto del consentimiento no es primariamente la cópula carnal, sino la potestad mutua sobre los cuerpos para los actos ordenados a la generación (q.48 a.1). Quien contrae por motivo torpe (p. ej., avaricia) peca en la intención pero el matrimonio es válido (q.48 a.2).
 
+El error acerca del consentimiento se trata en q.51. El error, por su naturaleza, vicia el consentimiento porque este presupone un acto del intelecto: si el error impide el conocimiento, se sigue un defecto en el consentimiento y por tanto en el matrimonio (q.51 a.1). Sin embargo, no cualquier error lo invalida. Solo el error acerca de la **persona** (creer casarse con una persona cuando es otra) y el error acerca de la **condición** de servidumbre (creer libre a quien es esclavo) son impedimentos dirimentes, porque afectan a lo esencial del matrimonio: las dos personas que se unen y la potestad mutua sobre los cuerpos (q.51 a.2). El error acerca de cualidades accidentales (riqueza, belleza, rango) no invalida el matrimonio, a menos que el error sobre el rango equivalga a error sobre la persona.
+
 ## Relaciones doctrinales
 
 El consentimiento matrimonial es el elemento constitutivo del [[matrimonio]]. Se distingue de los [[impedimentos_dirimentes]], que inhabilitan a la persona para consentir válidamente, y de la forma canónica, que es el requisito externo de validez. Se relaciona con la [[convalidación_del_matrimonio]] cuando el consentimiento inicial fue nulo.

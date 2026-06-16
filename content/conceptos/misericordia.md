@@ -33,6 +33,10 @@ El alma que busca la perfección debe practicar las obras de misericordia como e
 
 La misericordia fue un tema transversal en todo el viaje. León XIV la proclamó como el corazón del Evangelio: «La misericordia es el nombre de Dios» [L_XIV-ViajeEspaña-2026, 10 — Visita a la prisión Brians 1]. En la prisión de Brians 1 unió justicia y misericordia: «La justicia sin misericordia es cruel; la misericordia sin justicia es falsa» [L_XIV-ViajeEspaña-2026, 10 — Visita a la prisión Brians 1]. En las Misas de Canarias la misericordia divina fue presentada como fuente de la caridad cristiana y respuesta al amor de Dios manifestado en el Corazón de Cristo [L_XIV-ViajeEspaña-2026, 18 — Misa en Gran Canaria; 23 — Misa en Tenerife].
 
+### Según Don y Misterio (DyM)
+
+Juan Pablo II se presenta a sí mismo como «ministro de la misericordia», dedicado al sacramento de la [[penitencia]] con disponibilidad total [DyM, IX]. La [[misericordia]] es el rasgo del sacerdote que, como el buen pastor, está siempre dispuesto a acoger a los pecadores. Su experiencia en el confesionario y su devoción a la Divina Misericordia (Santa Faustina) son referencias constantes [DyM, IX].
+
 ## Distinciones importantes
 
 - **Misericordia** ≠ **justicia**: la misericordia no se opone a la justicia, sino que la perfecciona y la trasciende.

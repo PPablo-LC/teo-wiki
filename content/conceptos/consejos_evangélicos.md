@@ -37,6 +37,10 @@ La práctica de los consejos evangélicos constituye un verdadero holocausto ofr
 [TPCr, Parte II, n.171; Parte III, Libro III, n.728]
 
 
+### Según Don y Misterio (DyM)
+
+Juan Pablo II aborda los [[consejos_evangélicos]] especialmente en el [[celibato_sacerdotal]] como don que permite la plena disponibilidad para la [[cura_animarum]] [DyM, V]. La castidad sacerdotal, vivida por los santos como San Juan María Vianney, es testimonio profético del Reino y configuración con Cristo [DyM, V].
+
 ## Distinciones importantes
 
 - **Consejos vs. mandamientos**: los mandamientos obligan bajo pecado; los consejos son invitaciones a mayor perfección

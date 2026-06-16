@@ -38,6 +38,10 @@ La configuración con Cristo no es solo ontológica sino también operativa: «C
 
 León XIV, en su mensaje a los sacerdotes para la Jornada de Santificación Sacerdotal, recuerda que «en la Ordenación hemos sido configurados con Cristo». Esta configuración no es estática: «es necesario reavivar siempre en nosotros el don de la gracia por medio de la celebración cotidiana de la Eucaristía, de la oración, de la meditación de la Palabra de Dios y del servicio humilde». El fin de esta configuración es llegar a la identificación paulina: «Ya no vivimos nosotros, sino que Cristo vive en nosotros» (Ga 2,20), que el Papa presenta como meta del camino de santidad sacerdotal [JorSant-2026, 12.06.2026].
 
+### Según Don y Misterio (DyM)
+
+La configuración con Cristo se realiza en el sacramento del Orden, que «configura» al sacerdote con Cristo Cabeza y Pastor. Juan Pablo II describe la postración del ordenando —«yacer por tierra en forma de Cruz»— como gesto que significa «acoger en la propia vida —como Pedro— la Cruz de Cristo y hacerse con el Apóstol "suelo" para los hermanos» [DyM, IV]. La [[configuración_con_cristo]] es el fundamento de la actuación *[[in_persona_christi]]* en la Eucaristía: el sacerdote queda «como envuelto por el poder del Espíritu Santo y las palabras que dice adquieren la misma eficacia que las pronunciadas por Cristo durante la Última Cena» [DyM, VIII]. El [[admirabile_commercium]] expresa esta configuración como un intercambio de donación personal.
+
 ## Distinciones importantes
 
 - **Imitación de Cristo**: ejercicio ascético de reproducir las virtudes de Cristo por esfuerzo propio.

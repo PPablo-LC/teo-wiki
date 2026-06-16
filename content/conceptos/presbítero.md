@@ -47,6 +47,10 @@ En su mensaje por la Jornada de Santificación Sacerdotal, León XIV se dirige a
 
 En su diálogo con los presbíteros romanos, León XIV desarrolla la identidad del presbítero como amigo de Jesús que ofrece testimonio de una vida transformada por esa amistad. El sacerdote joven puede ofrecer a los jóvenes «un modelo de vida, que ser amigo de Jesús realmente puede llenar sus vidas», pero para ello debe vivir él mismo esa amistad. El Papa exhorta a los presbíteros a la fidelidad cotidiana en la relación con el Señor y a trabajar con entusiasmo «aun cuando ahora no vean los frutos del apostolado». Les advierte contra el riesgo de agotar las energías, acumular frustración y caer en la soledad, invitándolos a no encerrarse nunca en sí mismos y a confrontarse con hermanos de confianza. Subraya la importancia del estudio permanente —«el estudio en nuestra vida debe ser permanente, continuo»— y de la vida de oración como raíz de todo el ministerio [L_XIV-ClerRom, 19.02.2026].
 
+### Según Don y Misterio (DyM)
+
+Juan Pablo II describe al [[presbítero]] como «administrador de los misterios de Dios» (1 Co 4,1), cuya identidad se define por su relación con la Eucaristía y el [[in_persona_christi]] [DyM, VIII]. El presbítero está llamado a ser «hombre de la Palabra», dedicado al estudio teológico y al diálogo con el pensamiento contemporáneo [DyM, IX]. Su ministerio se ejerce en el presbiterio diocesano: «me siento unido a todos los sacerdotes que, desde el principio del mundo, han servido a Cristo como levitas del Nuevo Testamento y dispensadores de sus misterios» [DyM, VII]. La [[cura_animarum]] exige estar disponible para todos, especialmente pobres, marginados y emigrantes, siendo «un verdadero padre» [DyM, IX].
+
 ## Distinciones importantes
 
 - Presbítero (sacerdote de segundo grado) vs. obispo (plenitud del sacerdocio)

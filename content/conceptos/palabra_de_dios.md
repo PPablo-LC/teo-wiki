@@ -31,6 +31,10 @@ La Sagrada Escritura es la palabra de Dios en cuanto se consigna por escrito baj
 *Dei Verbum* comienza declarando que el Concilio escucha religiosamente la palabra de Dios y la proclama confiadamente (DV 1). Jesucristo, Verbo encarnado, completa la revelación y es mediador y plenitud de toda la revelación (DV 2). La palabra de Dios se transmite por la Tradición y la Escritura (DV 7-10). La palabra de Dios es viva y eficaz (DV 21). «El desconocimiento de las Escrituras es desconocimiento de Cristo» (DV 25).
 
 
+### Según Don y Misterio (DyM)
+
+Juan Pablo II describe al sacerdote como «hombre de la Palabra» [DyM, IX]. La [[palabra_de_dios]] es fundamento de la predicación y de la catequesis. El Papa testimonia que una de sus ocupaciones habituales como sacerdote era el estudio teológico, pues la inteligencia de la fe es necesaria para anunciar el Evangelio al hombre contemporáneo [DyM, IX].
+
 ## Distinciones importantes
 
 - **Palabra de Dios increada**: el Verbo eterno, segunda Persona de la Trinidad

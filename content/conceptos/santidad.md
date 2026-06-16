@@ -47,6 +47,10 @@ Distingue grados de santidad: incipiente (principiantes, vía purgativa), progre
 [TPCr, Parte II, Cap. 2]
 
 
+### Según Don y Misterio (DyM)
+
+Juan Pablo II afirma que la [[santidad]] sacerdotal es el fundamento de toda pastoral eficaz: «solo desde el terreno de la santidad sacerdotal puede desarrollarse una pastoral eficaz, una verdadera *cura animarum*» [DyM, IX]. El testimonio de sacerdotes santos —especialmente San Juan María Vianney— marcó su propia vida [DyM, V]. La santidad del sacerdote brota de la Eucaristía, la oración, la vida mariana y la fidelidad al ministerio. El Papa llama a los sacerdotes a ser «pupila del ojo» (*pupilla oculi*) de la Iglesia [DyM, X].
+
 ## Distinciones importantes
 
 - **Santidad ontológica**: la gracia santificante en el alma (santidad de estado).

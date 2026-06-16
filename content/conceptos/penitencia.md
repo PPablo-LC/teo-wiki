@@ -156,6 +156,10 @@ La penitencia es «el sacramento de la segunda tabla». Es el medio ordinario pa
 Sobre la contrición:
 «La contrición perfecta, aunque perdone de suyo el pecado, no dispensa de la obligación de confesarlo sacramentalmente. Y la atrición, aunque no perdone por sí sola, es disposición necesaria y suficiente para recibir válidamente el sacramento, siempre que vaya unida al propósito de enmendarse.»
 
+### Según Don y Misterio (DyM)
+
+Juan Pablo II describe el confesionario como lugar esencial del ministerio sacerdotal. El sacerdote realiza «una parte esencial de su misión en el confesionario, por medio de aquel voluntario "hacerse prisionero del confesionario"», siguiendo el ejemplo de San Juan María Vianney [DyM, V]. El Papa se presenta como «ministro de la misericordia», llamado a administrar el sacramento de la [[penitencia]] con disponibilidad total [DyM, IX].
+
 ## Distinciones importantes
 
 - **Contrición perfecta vs. atrición**: según el motivo del dolor del pecado

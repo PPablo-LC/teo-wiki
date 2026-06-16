@@ -41,6 +41,10 @@ Esta gracia perfecciona el arte retórico natural, haciéndolo sobrepasar sus l�
 
 En cuanto a las mujeres (q.177 a.2), la gracia de la palabra pública en la Iglesia no les compete por tres razones: por la condición del sexo femenino sujeto al masculino (no son prelados), por evitar ocasión de liviandad, y porque generalmente no alcanzan la perfección de sabiduría para la enseñanza pública. Sin embargo, las mujeres pueden ejercer la palabra de modo privado, enseñando familiarmente a pocos (como la madre a sus hijos).
 
+### Según Don y Misterio (DyM)
+
+Juan Pablo II describe la [[predicación]] como tarea del sacerdote «hombre de la Palabra», que debe «conjugar la evangelización con la inteligencia de la fe» [DyM, IX]. La predicación está centrada en el [[mysterium_fidei]]: el misterio de Cristo muerto y resucitado. El Papa testimonia que, desde el comienzo de su ministerio, buscó integrar teología y cultura para predicar de modo comprensible al hombre contemporáneo [DyM, IX].
+
 ## Distinciones importantes
 
 - **Predicación ordinaria**: homilía dominical y festiva

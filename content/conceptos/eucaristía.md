@@ -175,6 +175,10 @@ Santo Tomás dedica al sacramento de la eucaristía un tratado completo que abar
 
 **Prefiguraciones del Antiguo Testamento (Q73 a.6):** La eucaristía fue prefigurada por el sacrificio de Melquisedec (pan y vino), por el maná en el desierto, y por el pan de la proposición en el templo.
 
+### Según Don y Misterio (DyM)
+
+Juan Pablo II testimonia que la [[eucaristía]] es «el momento más importante y sagrado de la jornada y el centro de la vida» del sacerdote [DyM, VIII]. En la consagración, el sacerdote «actúa verdaderamente *in persona Christi*», renovando el sacrificio de Cristo con la fuerza del Espíritu Santo [DyM, VIII]. Tras la consagración, las palabras *Mysterium fidei* —«¡Misterio de la fe!»— se refieren a la Eucaristía, pero «en cierto modo, conciernen también al sacerdocio. No hay Eucaristía sin sacerdocio, como no hay sacerdocio sin Eucaristía» [DyM, VIII]. En la Eucaristía se consuma el [[admirabile_commercium]]: «Cristo devuelve al Padre todo lo que de Él proviene» [DyM, VIII]. Su primera Misa fue en la cripta de San Leonardo en Cracovia [DyM, IV].
+
 ## Distinciones importantes
 
 - **Transubstanciación**: cambio de sustancia, permaneciendo los accidentes
