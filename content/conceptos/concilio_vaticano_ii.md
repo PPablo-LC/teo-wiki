@@ -39,6 +39,10 @@ El corpus conciliar se articula en tres niveles jerárquicos:
 - [[presbyterorum_ordinis|Presbyterorum Ordinis]] — Sobre el ministerio y la vida de los presbíteros
 - [[unitatis_redintegratio|Unitatis Redintegratio]] — Sobre el ecumenismo
 
+### Según León XIV (UFGF)
+
+La Carta Apostólica *Una fidelidad que genera futuro* (2025) se sitúa explícitamente en la estela del Concilio Vaticano II, con motivo del LX aniversario de los decretos *Optatam totius* y *Presbyterorum ordinis*. León XIV presenta estos decretos como «textos nacidos de una única inspiración de la Iglesia» que constituyen «un hito fundamental de la reflexión acerca de la naturaleza y la misión del ministerio pastoral» (UFGF §2). Los define como «memoria viva» que debe ser constantemente actualizada, prolongando «la gran obra de actualización del Concilio» (UFGF §3-4). El documento se propone «reconsiderar juntos la identidad y la función del ministerio ordenado a la luz de lo que el Señor pide hoy a la Iglesia, prolongando la gran obra de actualización del Concilio Vaticano II» (UFGF §4), mostrando así la recepción viva del Concilio en el magisterio pontificio [UFGF, 22.12.2025].
+
 ## Distinciones importantes
 
 - Concilio dogmático-pastoral, no dogmático en sentido estricto como Trento o Vaticano I
@@ -57,3 +61,4 @@ El corpus conciliar se articula en tres niveles jerárquicos:
 
 - [ConcVatII] Todos los documentos del Concilio Vaticano II
 - CEC §1-25 (fuentes de la teología)
+- [UFGF, 22.12.2025]

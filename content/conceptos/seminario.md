@@ -36,6 +36,10 @@ La formación en el seminario debe ser única e integrada, articulando armónica
 
 El Decreto *Optatam Totius* está enteramente dedicado a la formación sacerdotal. Los Seminarios Mayores son necesarios para la formación sacerdotal; toda la educación de los alumnos debe tender a que se formen verdaderos pastores de almas a ejemplo de Cristo, Maestro, Sacerdote y Pastor [ConcVatII, OT §4]. Deben prepararse para el ministerio de la palabra, del culto y de la santificación, y para el ministerio pastoral [ConcVatII, OT §4]. La formación espiritual, intelectual y disciplinar han de ordenarse conjuntamente a la acción pastoral [ConcVatII, OT §4]. Investíguese cuidadosamente la rectitud de intención, libertad e idoneidad de los candidatos [ConcVatII, OT §6]. Los [[seminario|Seminarios Menores]] cultivan los gérmenes de la vocación mediante una formación religiosa peculiar y una dirección espiritual conveniente [ConcVatII, OT §3].
 
+### Según León XIV (UFGF)
+
+La Carta Apostólica *Una fidelidad que genera futuro* (2025) describe el seminario como «escuela de los afectos», donde los seminaristas deben realizar «un trabajo interior sobre las motivaciones que abarque todos los aspectos de la vida» (UFGF §12). León XIV invita a los seminaristas a que todo en ellos «sea asumido y transfigurado en la lógica del grano de trigo, con el fin de convertirse en personas y sacerdotes felices, "puentes" y no obstáculos para el encuentro con Cristo» (UFGF §12). Retomando a Benedicto XVI, subraya que el seminario debe preparar presbíteros «humanamente maduros y espiritualmente sólidos», personas en las que la dimensión humana y la espiritual estén bien integradas, capaces de asumir el compromiso del celibato y de anunciar de modo creíble el Evangelio (UFGF §12). La formación no se detiene en el seminario sino que continúa como formación permanente (UFGF §7-8) [UFGF, 22.12.2025].
+
 ## Distinciones importantes
 
 - Seminario mayor (formación filosófica y teológica) vs. seminario menor (formación humanística y religiosa previa)
@@ -51,3 +55,4 @@ El Decreto *Optatam Totius* está enteramente dedicado a la formación sacerdota
 - CIC cc. 232-264
 - CEC §1572-1573, §1596
 - Concilio Vaticano II, Optatam Totius
+- [UFGF, 22.12.2025]

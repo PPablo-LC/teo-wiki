@@ -34,6 +34,10 @@ Hay una estrecha conexión entre la fidelidad a la gracia y la docilidad al Esp�
 [TPCr, Parte III, Libro II, Cap. IV, Art. 6, n.635-638]
 
 
+### Según León XIV (UFGF)
+
+La Carta Apostólica *Una fidelidad que genera futuro* (2025) está estructurada en torno a la fidelidad como categoría teológica central para el ministerio ordenado. León XIV la presenta como «gracia de Dios y camino constante de conversión, para corresponder con alegría a la llamada del Señor Jesús» (UFGF §4). Desarrolla la fidelidad en cuatro movimientos: fidelidad y servicio (la vocación como encuentro con Cristo, la formación permanente, la *sequela Christi*), fidelidad y fraternidad (el don de la fraternidad presbiteral, la superación del individualismo, la vida en común), fidelidad y sinodalidad (las tres coordenadas de la identidad presbiteral, la conducción colegiada, la participación en el proceso sinodal), y fidelidad y misión (el *ser para* como esencia del ministerio, la caridad pastoral, la dimensión pascual). Concluye con una mirada al futuro: la fidelidad fecunda genera un «renovado Pentecostés vocacional» (UFGF §27) [UFGF, 22.12.2025].
+
 ## Distinciones importantes
 
 - **Fidelidad a la gracia**: respuesta generosa a las mociones e inspiraciones divinas
@@ -54,3 +58,4 @@ La fidelidad se relaciona con la [[veracidad]] y la [[justicia]]. La [[fidelidad
 - [CEC §2365]
 - [TPCr, Parte III, Libro II, Cap. IV, Art. 6, n.635-638]
 - [Santo Tomás, II-II, q.109-110]
+- [UFGF, 22.12.2025]

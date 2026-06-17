@@ -201,6 +201,10 @@ Juan Pablo II testimonia que la [[eucaristía]] es «el momento más importante 
 - Prenda de la gloria escatológica
 
 
+### Según León XIV (UFGF)
+
+La Carta Apostólica *Una fidelidad que genera futuro* (2025) presenta la Eucaristía como centro y raíz de toda la vida del presbítero. El sacerdote celebra el sacrificio de Cristo, «se nutre del misterio que celebra en la santa liturgia» y está llamado a «desaparecer para que permanezca Cristo» (UFGF §25). La Eucaristía es el lugar eminente donde el sacerdote renueva su «sí» al Señor, como Pedro en el lago de Galilea (UFGF §7). El documento concluye con una afirmación cumbre: «El sacerdocio es el amor del corazón de Jesús. Un amor tan fuerte que disipa las nubes de la rutina, el desánimo y la soledad, un amor total que se nos da en plenitud en la Eucaristía. Amor eucarístico, amor sacerdotal» (UFGF §29) [UFGF, 22.12.2025].
+
 ## Analizado para
 
 - [[ali_ghaffari_courage]]
@@ -227,3 +231,4 @@ Juan Pablo II testimonia que la [[eucaristía]] es «el momento más importante 
 - Santo Tomás, S.Th., III, 73-83
 - Himnos eucarísticos: Pange Lingua, Lauda Sion, Ave verum
 - [VocTeoBib, «Eucaristía»]
+- [UFGF, 22.12.2025]

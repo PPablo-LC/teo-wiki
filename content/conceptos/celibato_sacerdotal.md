@@ -37,6 +37,10 @@ El celibato debe ser considerado y vivido como un aspecto de una orientación po
 
 El V Capítulo General de los Legionarios de Cristo (CapGral-2026) considera el celibato como parte del carisma legionario. Para los legionarios, el celibato no es solo disciplina sino expresión del amor radical a Cristo y del abandono total a la misión. La castidad consagrada se vive en comunidad como testimonio profético del Reino y como condición para la disponibilidad misionera.
 
+### Según León XIV (UFGF)
+
+La Carta Apostólica *Una fidelidad que genera futuro* (2025) aborda el celibato en el contexto de la formación integral. Solo presbíteros y consagrados «humanamente maduros y espiritualmente sólidos —es decir, personas en las que la dimensión humana y la espiritual están bien integradas y que, por ello, son capaces de relaciones auténticas con todos— pueden asumir el compromiso del celibato y anunciar de modo creíble el Evangelio del Resucitado» (UFGF §12). El celibato es presentado como una consecuencia de la madurez afectiva y espiritual que el seminario debe cultivar [UFGF, 22.12.2025].
+
 ### Según León XIV (DC-Convivium)
 
 León XIV sitúa el celibato, junto con la pobreza y la obediencia, en el umbral de la catedral: «El umbral marca un paso, una separación necesaria. Antes de entrar, algo queda fuera. También el sacerdocio se vive así: estando en el mundo, pero sin ser del mundo (cf. Jn 17,14). En este cruce se sitúan el celibato, la pobreza y la obediencia; no como negación de la vida, sino como la forma concreta que permite al sacerdote pertenecer enteramente a Dios sin dejar de caminar entre los hombres.» El celibato no es una mera renuncia sino una forma positiva de pertenencia total a Dios que configura la vida sacerdotal en el umbral entre el mundo y lo sagrado [DC-Convivium, 09.02.2026].
@@ -67,3 +71,4 @@ El celibato sacerdotal está íntimamente unido a la identidad del [[presbítero
 - [CapGral-2026, V Capítulo General (carisma legionario)]
 - [Concilio Vaticano II, Presbyterorum Ordinis 16]
 - [DC-Convivium, 09.02.2026]
+- [UFGF, 22.12.2025]

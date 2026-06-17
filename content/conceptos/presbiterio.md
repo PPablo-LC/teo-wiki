@@ -25,6 +25,10 @@ El consejo presbiteral tiene solo voto consultivo; el Obispo debe oírlo en los 
 El colegio de consultores, formado por algunos sacerdotes del consejo presbiteral (entre seis y doce), ejerce las funciones determinadas por el derecho durante cinco años (c. 502 §1).
 
 
+### Según León XIV (UFGF)
+
+La Carta Apostólica *Una fidelidad que genera futuro* (2025) desarrolla la doctrina del presbiterio en su sección sobre «Fidelidad y fraternidad». Los presbíteros «están unidos todos entre sí por la íntima fraternidad sacramental, y forman un presbiterio especial en la diócesis a cuyo servicio se consagran bajo el obispo propio» (UFGF §14, citando PO 8). León XIV subraya que el Concilio se refirió a los presbíteros casi siempre en plural: «ningún pastor existe por sí solo» (UFGF §15). La comunión presbiteral no es un aplanamiento de individuos sino una valorización de los diferentes carismas, que el discernimiento del obispo debe armonizar (UFGF §18). San Ignacio de Antioquía ofrece la imagen del presbiterio como «cuerdas a la cítara» en armonía con el obispo (UFGF §19) [UFGF, 22.12.2025].
+
 ## Relaciones doctrinales
 
 El presbiterio es el cuerpo sacerdotal de la [[diócesis]] que asiste al [[obispo_diocesano]]. Su representación orgánica es el [[consejo_presbiteral]] y, dentro de este, el [[colegio_de_consultores]]. Se distingue del [[cabildo_de_canónigos]] en su función pastoral más amplia.
@@ -37,3 +41,4 @@ El presbiterio es el cuerpo sacerdotal de la [[diócesis]] que asiste al [[obisp
 
 - CIC cc. 495-501
 - CEC §877, §1567-1568, §1595
+- [UFGF, 22.12.2025]

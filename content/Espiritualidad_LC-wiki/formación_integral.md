@@ -36,6 +36,10 @@ La formación integral del alumno del centro vocacional implica el desarrollo in
 Se relaciona con [[formación_legionaria]], [[formación_experiencial]], [[formación_personalizada]], [[formación_basada_en_convicciones]], [[formación_en_relación]], [[formación_gradual]].
 
 
+### Según León XIV (UFGF)
+
+La Carta Apostólica *Una fidelidad que genera futuro* (2025) subraya la urgencia de una formación integral en los seminarios, especialmente ante la crisis de abusos, que exige «una formación integral que asegure el crecimiento y la madurez humana de los candidatos al presbiterado, junto con una rica y sólida vida espiritual» (UFGF §10). La formación ha de abarcar e integrar todas las dimensiones de la persona: humana, espiritual, intelectual y pastoral (UFGF §7). Solo presbíteros en quienes estas dimensiones están bien integradas pueden asumir el celibato y anunciar el Evangelio de modo creíble (UFGF §12) [UFGF, 22.12.2025].
+
 ## Analizado para
 
 - [[frassati_company]]

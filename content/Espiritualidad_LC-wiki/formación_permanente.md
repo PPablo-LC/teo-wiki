@@ -41,6 +41,10 @@ Además de la actitud personal de formación permanente, la Congregación ofrece
 - Formación permanente vs. estancamiento: la primera es apertura continua a la acción del Espíritu; el segundo es rigidez y autosuficiencia
 - Disponibilidad para formarse vs. presunción de estar ya formado
 
+### Según León XIV (UFGF)
+
+La Carta Apostólica *Una fidelidad que genera futuro* (2025) presenta la formación permanente como «memoria viva y actualización constante de la propia vocación en un camino compartido» (UFGF §8). Todos los presbíteros están llamados a cuidar siempre de la propia formación para mantener vivo el don de Dios recibido con el sacramento del Orden (UFGF §8, citando 2 Tm 1,6). La formación permanente no es esfuerzo intelectual o actualización pastoral, sino memoria viva de la propia vocación, constituyendo «un dinamismo de constante renovación humana, espiritual, intelectual y pastoral» (UFGF §7) [UFGF, 22.12.2025].
+
 ## Relaciones doctrinales
 
 Se relaciona con [[formación_legionaria]], [[autoformación]], [[conversión]], [[discernimiento]], [[espíritu_santo]], [[vida_consagrada]].

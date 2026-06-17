@@ -40,6 +40,10 @@ El Decreto *Optatam Totius* establece que la formación de los candidatos al sac
 
 Juan Pablo II describe su propia [[formación_sacerdotal]]: seminario clandestino en Cracovia durante la ocupación nazi, estudios en el Angelicum de Roma y un trienio en la Facultad de Teología de la Universidad Jagellónica [DyM, II, V]. Destaca la importancia de la formación filosófica y teológica, integrando aristotelismo-tomismo con fenomenología: «Sobre mi precedente formación aristotélico-tomista se injertaba así el método fenomenológico, lo cual me ha permitido emprender numerosos ensayos creativos en este campo» [DyM, IX]. La formación comprende cuatro dimensiones: humana, espiritual, intelectual y pastoral. Considera fundamental «aprender Roma» para adquirir una visión universal de la Iglesia [DyM, V].
 
+### Según León XIV (UFGF)
+
+La Carta Apostólica *Una fidelidad que genera futuro* (2025) desarrolla ampliamente la formación sacerdotal en su sección «Fidelidad y servicio» (UFGF §5-13). Retoma la enseñanza de *Optatam totius* sobre la formación permanente (OT §22) y la *Ratio Fundamentalis* sobre la configuración con Cristo (UFGF §9). León XIV describe el seminario como «escuela de los afectos», donde «no hay nada en ustedes que deba ser descartado, sino que todo debe ser asumido y transfigurado en la lógica del grano de trigo» (UFGF §12). Subraya la urgencia de una formación integral que asegure la madurez humana y la solidez espiritual, especialmente ante la crisis de abusos (UFGF §10). La formación permanente es presentada como «memoria viva y actualización constante de la propia vocación en un camino compartido» (UFGF §8). El abandono del ministerio por algunos sacerdotes exige, según el Papa, un renovado compromiso formativo que sea «un camino de familiaridad con el Señor que involucra a toda la persona: el corazón, la inteligencia, la libertad» (UFGF §11) [UFGF, 22.12.2025].
+
 ## Distinciones importantes
 
 - Formación inicial (seminario) vs. formación permanente (después de la ordenación)
@@ -54,3 +58,4 @@ Juan Pablo II describe su propia [[formación_sacerdotal]]: seminario clandestin
 - [ConcVatII, Optatam Totius]
 - [ConcVatII, Presbyterorum Ordinis §19-22]
 - [CEC §1579, §1596]
+- [UFGF, 22.12.2025]

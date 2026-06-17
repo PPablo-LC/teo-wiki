@@ -17,6 +17,10 @@ El Papa Francisco ha hecho de la conversión misionera uno de los ejes de su pon
 
 El documento sitúa la [[alegría_de_evangelizar]] como «motor de la conversión misionera y de la reforma de la Iglesia "en salida"» (RC-MovEcles-2014, D). Los [[movimientos_eclesiales]] son expresión de esta conversión misionera: su mismo dinamismo carismático los impulsa a una «dinámica de salida misionera» que el Papa Francisco describe en Evangelii gaudium.
 
+### Según León XIV (UFGF)
+
+La Carta Apostólica *Una fidelidad que genera futuro* (2025) llama a una «verdadera conversión misionera» que oriente a las comunidades cristianas «al servicio de la misión que los fieles llevan a cabo en la sociedad, en la vida familiar y laboral» (UFGF §26, citando el Documento final del Sínodo 2024, 59). La parroquia no debe estar «centrada en sí misma, sino orientada a la misión y llamada a apoyar el compromiso de tantas personas que, de diferentes maneras, viven y dan testimonio de su fe en su profesión y en las actividades sociales, culturales y políticas» (UFGF §26). Esta conversión requiere que sacerdotes y laicos, todos juntos, asuman un renovado impulso evangelizador [UFGF, 22.12.2025].
+
 ## Relaciones doctrinales
 
 Se relaciona con la [[nueva_evangelización]], los [[movimientos_eclesiales]], la [[alegría_de_evangelizar]], la [[misión_de_la_iglesia]], la [[reforma_de_la_iglesia]], la [[evangelización]] y la [[conversión]].
@@ -29,3 +33,4 @@ Se relaciona con la [[nueva_evangelización]], los [[movimientos_eclesiales]], l
 
 - Francisco, Evangelii gaudium, 24, 130
 - [RC-MovEcles-2014, D]
+- [UFGF, 22.12.2025]

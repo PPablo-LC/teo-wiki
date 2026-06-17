@@ -21,6 +21,10 @@ La Iglesia tiene el deber y el derecho propio y exclusivo de promover y cuidar l
 
 El Decreto *Optatam Totius* sobre la formación sacerdotal establece que la formación de los candidatos al sacerdocio debe ser integral: humana, espiritual, intelectual y pastoral. La promoción vocacional compete a todo el Pueblo de Dios, correspondiendo a los obispos el deber de seleccionar a los candidatos idóneos. Los seminarios son el lugar propio de la formación sacerdotal, donde los aspirantes viven en un clima de oración, estudio y fraternidad.
 
+### Según León XIV (UFGF)
+
+La Carta Apostólica *Una fidelidad que genera futuro* (2025) concluye con una sección sobre «Fidelidad y futuro» dedicada a la promoción vocacional. León XIV expresa el deseo de que el aniversario de OT y PO se traduzca en «un renovado Pentecostés vocacional en la Iglesia, suscitando santas, numerosas y perseverantes vocaciones al sacerdocio ministerial, para que nunca falten obreros para la mies del Señor» (UFGF §27). Llama a un compromiso profundo en la promoción vocacional y en la oración constante al Dueño de la mies (UFGF §27). La escasez de vocaciones exige revisar la capacidad generativa de las prácticas pastorales, haciendo a los jóvenes «propuestas fuertes y liberadoras», cultivando ambientes de pastoral juvenil donde puedan madurar las vocaciones (UFGF §28). La perspectiva vocacional debe estar presente en todos los ámbitos pastorales, particularmente en los juveniles y familiares (UFGF §28) [UFGF, 22.12.2025].
+
 ## Distinciones importantes
 
 - La promoción vocacional es distinta de la mera captación de candidatos; implica discernimiento espiritual y acompañamiento
@@ -41,3 +45,4 @@ La promoción vocacional está estrechamente vinculada a la doctrina de la [[voc
 - CIC cc. 232-233, 237, 241, 385
 - CEC §1536, 1548, 1578-1579
 - ConcVatII, *Optatam Totius* (passim)
+- [UFGF, 22.12.2025]

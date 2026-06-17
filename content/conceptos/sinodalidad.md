@@ -25,6 +25,10 @@ El Papa vinculó la sinodalidad con la misión: «Una Iglesia sinodal es una Igl
 
 En el encuentro con la Comunidad Diocesana (Bernabéu), aplicó la sinodalidad a la vida parroquial: todos los bautizados —laicos, consagrados, sacerdotes— son corresponsables de la misión.
 
+### Según León XIV (UFGF)
+
+La Carta Apostólica *Una fidelidad que genera futuro* dedica una sección a «Fidelidad y sinodalidad» (UFGF §20-22), retomando las tres coordenadas de la identidad presbiteral según *Presbyterorum ordinis*: relación con el obispo, fraternidad con los demás presbíteros y relación con los fieles laicos (UFGF §20). León XIV afirma que el impulso del proceso sinodal es «una fuerte invitación del Espíritu Santo a dar pasos decididos» hacia una mayor corresponsabilidad, y que el ministerio del presbítero debe superar el modelo de liderazgo exclusivo tendiendo hacia una «conducción cada vez más colegiada», en cooperación con todos los miembros del Pueblo de Dios (UFGF §22). El documento final de la XVI Asamblea sinodal es citado como referencia para la conversión de las relaciones y los procesos (UFGF §21). La formación inicial y permanente de los sacerdotes debe incluir la familiarización con el estilo sinodal [UFGF, 22.12.2025].
+
 ## Distinciones importantes
 
 - Sinodalidad no equivale a democracia; es un proceso espiritual de discernimiento comunitario guiado por el Espíritu Santo
@@ -44,3 +48,4 @@ La sinodalidad se manifiesta eminente y universalmente en el [[sínodo_de_los_ob
 
 - CIC cc. 342-348
 - ConcVatII, LG 22-23
+- [UFGF, 22.12.2025]

@@ -50,6 +50,10 @@ En su mensaje para la Jornada de Santificación Sacerdotal, León XIV presenta l
 
 León XIV describe la caridad pastoral como don sincero de sí, servicio concreto a las personas confiadas y disponibilidad generosa. El sacerdote debe ser un «varón configurado con Cristo, capaz de sostener su ministerio desde una relación viva con Él, nutrida por la Eucaristía y expresada en una caridad pastoral marcada por el don sincero de sí». La fraternidad presbiteral es expresión de esta caridad: «la experiencia concreta de saberse en casa, responsables unos de otros, atentos a la vida del hermano y dispuestos a sostenernos mutuamente». La caridad pastoral se concreta también en la presencia fiel y la escucha, resistiendo al individualismo que «empobrece el corazón y debilita la misión» [DC-Convivium, 09.02.2026].
 
+### Según León XIV (UFGF)
+
+La Carta Apostólica *Una fidelidad que genera futuro* (2025) retoma el paradigma de la caridad pastoral como principio unificador de la vida presbiteral, citando a san Juan Pablo II (PDV 23) y al Papa Francisco (EG 104). La caridad pastoral —«el amor del Buen Pastor»— es lo que permite al sacerdote discernir lo beneficioso de lo que es *proprium* del ministerio (UFGF §24). El documento advierte contra dos tentaciones que se oponen a la caridad pastoral: el *eficientismo* (medir el valor por el rendimiento) y el *quietismo* (repliegue por miedo al contexto), proponiendo en cambio un ministerio gozoso y apasionado que asuma la tarea de evangelizar todas las dimensiones de la sociedad (UFGF §24). La dimensión pascual del ministerio —darse sin reservas sin renunciar a la oración, al estudio y a la fraternidad— es el horizonte en el que la caridad pastoral se comprende y se vive (UFGF §25) [UFGF, 22.12.2025].
+
 ## Distinciones importantes
 
 - **Caridad pastoral vs. falsa misericordia**: la caridad pastoral incluye la corrección firme y la aplicación de penas; la falsa misericordia dilata indebidamente la acción disciplinaria, agravando el escándalo (PGD).
@@ -82,3 +86,4 @@ León XIV describe la caridad pastoral como don sincero de sí, servicio concret
 - Conc. Ecum. Vat. II, Const. *Lumen Gentium*, 27
 - [JorSant-2026, 12.06.2026]
 - [DC-Convivium, 09.02.2026]
+- [UFGF, 22.12.2025]

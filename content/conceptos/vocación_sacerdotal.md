@@ -33,6 +33,10 @@ La respuesta a la vocación exige una opción libre y responsable, que implica a
 
 Juan Pablo II describe su propia [[vocación_sacerdotal]] como un misterio que comenzó en la infancia en Wadowice, maduró durante la guerra y la ocupación nazi, y se definió en el seminario clandestino de Cracovia [DyM, I-II]. La vocación es un [[admirabile_commercium]]: «un "maravilloso intercambio" entre Dios y el hombre» [DyM, VIII]. El Papa testimonia que en el momento de la ordenación, durante la postración, comprendió que la vocación significa «acoger en la propia vida —como Pedro— la Cruz de Cristo y hacerse con el Apóstol "suelo" para los hermanos» [DyM, IV]. Identifica influencias decisivas: su familia, Jan Tyranowski, los carmelitas, San Juan María Vianney y la experiencia del martirio de sacerdotes polacos durante la guerra [DyM, III].
 
+### Según León XIV (UFGF)
+
+La Carta Apostólica *Una fidelidad que genera futuro* (2025) dedica su sección inicial a la vocación sacerdotal como encuentro personal con Cristo que «da un nuevo horizonte a la vida y, con ello, una orientación decisiva» (UFGF §5, citando *Deus caritas est* 1). La vocación no es constricción sino «propuesta amorosa de un proyecto de salvación y libertad» (UFGF §6). Toda vocación es un don del Padre que ha de ser «custodiado con fidelidad en una dinámica de conversión permanente» mediante la escucha de la Palabra, los sacramentos —en particular el Sacrificio Eucarístico—, la evangelización, la cercanía a los últimos y la fraternidad presbiteral (UFGF §7). El Papa exhorta a «custodiar y hacer crecer la vocación» en un camino nunca meramente individual, que nos compromete a cuidarnos unos a otros (UFGF §13). La vocación culmina en la misión: «la vocación sacerdotal se desarrolla entre las alegrías y las fatigas de un servicio humilde a los hermanos» (UFGF §23). El documento concluye deseando un «renovado Pentecostés vocacional» que suscite santas, numerosas y perseverantes vocaciones (UFGF §27) [UFGF, 22.12.2025].
+
 ## Distinciones importantes
 
 - Vocación universal a la santidad (recibida en el Bautismo) vs. vocación específica al presbiterado (recibida por el sacramento del Orden)
@@ -52,3 +56,4 @@ Juan Pablo II describe su propia [[vocación_sacerdotal]] como un misterio que c
 - [PDV §12, §19, §27-30, §34-41]
 - [CEC §1578-1579, §1598-1599]
 - [ConcVatII, OT §4-6; PO §2]
+- [UFGF, 22.12.2025]

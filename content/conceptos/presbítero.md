@@ -39,6 +39,10 @@ El Pontifical Romano prescribe al presbítero: ofrecer, bendecir, presidir, pred
 
 León XIV llama a los presbíteros a ser «varones configurados con Cristo», cuyo ministerio se sostiene desde una relación viva con Él nutrida por la Eucaristía. El presbítero debe ser *alter Christus*, no definido por la multiplicación de tareas o la presión de los resultados, sino por el don sincero de sí. Mediante la imagen de la catedral, el Papa describe al presbítero como fachada (visible y remitente a Dios), umbral (separación necesaria por el celibato, pobreza y obediencia), columna (fundado en la Tradición apostólica y el Magisterio), y ministro del altar y el sagrario. Su vida está llamada a ser «visible, coherente y reconocible» [DC-Convivium, 09.02.2026].
 
+### Según León XIV (UFGF)
+
+La Carta Apostólica *Una fidelidad que genera futuro* (2025) está enteramente dedicada al ministerio presbiteral con motivo del LX aniversario de *Optatam totius* y *Presbyterorum ordinis*. León XIV presenta a los presbíteros como «discípulos misioneros según su Corazón» (UFGF §3), llamados a vivir la fidelidad en cuatro dimensiones: servicio, fraternidad, sinodalidad y misión (UFGF §4). Recupera la enseñanza de *Presbyterorum ordinis* sobre las tres coordenadas de la identidad presbiteral: relación con el obispo —«colaboradores y consejeros necesarios»—, relación con los demás presbíteros y relación con los fieles laicos (UFGF §20). El presbítero, configurado con Cristo Cabeza y Pastor, debe superar el liderazgo exclusivo hacia una conducción colegiada (UFGF §22). Su identidad se constituye en torno al *ser para* y es inseparable de la misión: «quien pretende encontrar la identidad sacerdotal buceando introspectivamente en su interior quizá no encuentre otra cosa que señales que dicen "salida"» (UFGF §23, citando a Francisco). La caridad pastoral es el principio unificador de su vida (UFGF §24) [UFGF, 22.12.2025].
+
 ### Según León XIV (JorSant-2026)
 
 En su mensaje por la Jornada de Santificación Sacerdotal, León XIV se dirige a los presbíteros como «pastores según el corazón de Dios» (Jr 3,15), recordándoles que han sido «configurados con Cristo» en la Ordenación. Les exhorta a reavivar el don de la gracia «por medio de la celebración cotidiana de la Eucaristía, de la oración, de la meditación de la Palabra de Dios y del servicio humilde a los hermanos». Subraya la paradoja de su condición: «llevamos este tesoro en vasijas de barro» (2 Co 4,7), llamados a la santidad pero marcados por la fragilidad humana. La santidad del presbítero se manifiesta como cercanía humilde y valiente, como capacidad de mantener abierta la puerta del redil para que muchos puedan entrar y encontrar alimento y descanso (cf. Jn 10,9). Les recuerda la frase del santo Cura de Ars, que «el sacerdocio es el amor del corazón de Jesús», y les encomienda a la Virgen María, Madre de los sacerdotes [JorSant-2026, 12.06.2026].
@@ -72,3 +76,4 @@ Juan Pablo II describe al [[presbítero]] como «administrador de los misterios 
 - [DC-Convivium, 09.02.2026]
 - [L_XIV-ClerRom, 19.02.2026]
 - [JorSant-2026, 12.06.2026]
+- [UFGF, 22.12.2025]
