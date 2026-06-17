@@ -17,6 +17,14 @@ Las obras de misericordia son la concrecion practica del mandamiento del amor al
 
 El Catecismo define las obras de misericordia como «acciones caritativas mediante las cuales ayudamos a nuestro projimo en sus necesidades corporales y espirituales» (§2447). Señala que la limosna a los pobres es uno de los principales testimonios de la caridad fraterna y tambien una practica de justicia que agrada a Dios. Las obras de misericordia son tambien medio de satisfaccion por los pecados (§1460, 1473).
 
+### Según la Dives in Misericordia (DM)
+
+Juan Pablo II enseña que la Iglesia debe profesar, proclamar *y practicar* la misericordia. La bienaventuranza «Bienaventurados los misericordiosos, porque ellos alcanzarán misericordia» (Mt 5,7) es una llamada a la acción: «El hombre alcanza el amor misericordioso de Dios, su misericordia, en cuanto él mismo interiormente se transforma en el espíritu de tal amor hacia el prójimo» [DM §14].
+
+La misericordia auténtica «no es nunca un acto o un proceso unilateral». Incluso cuando una parte da y la otra recibe, «aquel que da, queda siempre beneficiado» [DM §14]. La misericordia cristiana se funda en el modelo de Cristo crucificado: «Basándonos en este desconcertante modelo, podemos con toda humildad manifestar misericordia a los demás, sabiendo que la recibe como demostrada a sí mismo» (cf. Mt 25,34-40) [DM §14].
+
+Cuando la misericordia es entendida «de manera unilateral, como bien hecho a los demás», no es aún auténtico acto de misericordia. «Solo entonces es realmente un acto de amor misericordioso: cuando, practicándola, nos convencemos profundamente de que al mismo tiempo la experimentamos por parte de quienes la aceptan de nosotros» [DM §14].
+
 ### Según Royo Marin (TPCr)
 
 Royo Marin relaciona las obras de misericordia con el don de piedad y la virtud de la caridad. La limosna (corporal y espiritual) es un acto de caridad preceptuado a todos. Las obras de misericordia espirituales son de suyo mas perfectas que las corporales.

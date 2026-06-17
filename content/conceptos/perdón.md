@@ -28,6 +28,14 @@ La contrición perfecta obtiene el perdón de los pecados incluso antes de la co
 
 León XIV, en su visita a la prisión de Brians 1 (Barcelona), proclamó que «el perdón es posible porque Dios nos ha perdonado primero» [L_XIV-ViajeEspaña-2026, 10 — Visita a la prisión Brians 1]. Dijo a los presos: «no sois vuestro error; sois hijos de Dios» [L_XIV-ViajeEspaña-2026, 10 — Visita a la prisión Brians 1]. Presentó el sacramento de la reconciliación como «abrazo del Padre» [L_XIV-ViajeEspaña-2026, 10 — Visita a la prisión Brians 1]. En la Vigilia de Barcelona exhortó a los jóvenes: «Aprended a perdonar. El rencor envenena el alma; el perdón la libera» [L_XIV-ViajeEspaña-2026, 11 — Vigilia de Barcelona].
 
+### Según la Dives in Misericordia (DM)
+
+El perdón es condición fundamental de la reconciliación y «atestigua que en el mundo está presente el amor más fuerte que el pecado» [DM §14]. Un mundo sin perdón «sería solamente un mundo de justicia fría e irrespetuosa, en nombre de la cual cada uno reivindicaría sus propios derechos respecto a los demás» [DM §14].
+
+Cristo enseña a perdonar siempre: a Pedro le indica la cifra simbólica de «setenta veces siete» (Mt 18,22), queriendo decir «que debería saber perdonar a todos y siempre» [DM §14]. El perdón no anula las exigencias objetivas de la justicia, sino que «la reparación del mal o del escándalo, el resarcimiento por la injuria, la satisfacción del ultraje son condición del perdón» [DM §14].
+
+La parábola del hijo pródigo muestra que «aquel que perdona y aquel que es perdonado se encuentran en un punto esencial, que es la dignidad, es decir, el valor esencial del hombre que no puede dejarse perder» [DM §14]. La Iglesia debe custodiar la autenticidad del perdón custodiando «la fuente, esto es, el misterio de la misericordia de Dios mismo, revelado en Jesucristo» [DM §14].
+
 ## Distinciones importantes
 
 - Perdón de la culpa vs. remisión de la pena temporal

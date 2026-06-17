@@ -27,6 +27,14 @@ La sección completa sobre el Misterio Pascual (CEC §571-664) abarca:
 
 **El Misterio Pascual en la liturgia** (§1067-1089): La liturgia actualiza el Misterio Pascual. La Eucaristía es su memorial, haciendo presente el único sacrificio de Cristo. El Domingo es el día del Señor, la Pascua semanal. El Año litúrgico despliega todo el Misterio de Cristo desde la Encarnación a la Parusía.
 
+### Según la Dives in Misericordia (DM)
+
+*Dives in Misericordia* presenta el misterio pascual como «el culmen de la revelación y actuación de la misericordia» [DM §7]. La cruz «emerge del núcleo mismo de aquel amor, del que el hombre, creado a imagen y semejanza de Dios, ha sido gratificado según el eterno designio divino» [DM §7].
+
+En la pasión y muerte de Cristo «se expresa la justicia absoluta, porque Cristo sufre la pasión y la cruz a causa de los pecados de la humanidad. Esto es incluso una "sobreabundancia" de la justicia, ya que los pecados del hombre son "compensados" por el sacrificio del Hombre-Dios» [DM §7]. Esta justicia «nace toda ella del amor: del amor del Padre y del Hijo, y fructifica toda ella en el amor» [DM §7].
+
+La cruz es «la inclinación más profunda de la Divinidad hacia el hombre» [DM §8], y la resurrección revela que «el amor es más fuerte que la muerte y más fuerte que el pecado» [DM §8]. Cristo resucitado es «la encarnación definitiva de la misericordia, su signo viviente: histórico-salvífico y a la vez escatológico» [DM §8]. El misterio pascual es «Cristo en el culmen de la revelación del inescrutable misterio de Dios» [DM §8].
+
 ### Según el Concilio Vaticano II (ConcVatII)
 
 *Sacrosanctum Concilium* 5-6 presenta el misterio pascual como el centro de la obra de Cristo: «Cristo la realizó principalmente por el misterio pascual de su bienaventurada pasión, resurrección de entre los muertos y gloriosa Ascensión» (SC 5). Por este misterio, «con su Muerte destruyó nuestra muerte y con su Resurrección restauró nuestra vida» (SC 5). Del costado de Cristo dormido en la cruz nació el sacramento admirable de la Iglesia entera (SC 5). Los Apóstoles fueron enviados a realizar la obra de salvación mediante el sacrificio y los sacramentos (SC 6). Por el bautismo, los hombres son injertados en el misterio pascual (SC 6). La Iglesia nunca ha dejado de reunirse para celebrar el misterio pascual (SC 6). SC 47 llama al sacrificio eucarístico «Memorial de su Muerte y Resurrección». SC 61 afirma que la gracia divina emana del misterio pascual. SC 104 subraya que las fiestas de los santos proclaman el misterio pascual cumplido en ellos. SC 106 establece el domingo como el día en que la Iglesia celebra el misterio pascual cada ocho días.

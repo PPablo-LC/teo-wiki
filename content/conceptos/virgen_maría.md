@@ -21,6 +21,16 @@ Dios escogió desde toda la eternidad a una hija de Israel para ser Madre de su 
 
 María es verdaderamente Madre de Dios (*Theotokos*), porque aquel que concibió como hombre no es otro que el Hijo eterno del Padre (§495). Es «siempre Virgen» (*Aeiparthénon*): virgen antes del parto, en el parto y después del parto (§499, §510). Fue asunta en cuerpo y alma a la gloria del cielo (§966, §974). Es «nuestra madre en el orden de la gracia» (§968), invocada como Abogada, Auxiliadora, Socorro, Mediadora (§969). «La piedad de la Iglesia hacia la Santísima Virgen es un elemento intrínseco del culto cristiano» (§971). Es «la imagen y comienzo de la Iglesia que llegará a su plenitud en el siglo futuro» (§972).
 
+### Según la Dives in Misericordia (DM)
+
+Juan Pablo II presenta a María como «Madre de la misericordia», título que encierra «un profundo significado teológico» [DM §9]. María es «la que de manera singular y excepcional ha experimentado —como nadie— la misericordia y, también de manera excepcional, ha hecho posible con el sacrificio de su corazón la propia participación en la revelación de la misericordia divina» [DM §9].
+
+Nadie como la Madre del Crucificado «ha experimentado el misterio de la cruz, el pasmoso encuentro de la trascendente justicia divina con el amor: el "beso" dado por la misericordia a la justicia». Nadie como ella «ha acogido de corazón ese misterio» [DM §9]. María «conoce más a fondo el misterio de la misericordia divina. Sabe su precio y sabe cuán alto es» [DM §9].
+
+Los títulos *Virgen de la misericordia*, *Madre de la divina misericordia* expresan «la preparación particular de su alma, de toda su personalidad» para hacer partícipes a los hombres de la misericordia «de generación en generación» [DM §9]. Por su participación en la misión mesiánica de su Hijo, María «ha sido llamada singularmente a acercar los hombres al amor que El había venido a revelar» [DM §9]. El corazón de María tiene «tacto singular» y «especial aptitud para llegar a todos aquellos que aceptan más fácilmente el amor misericordioso de parte de una madre» [DM §9].
+
+El Magníficat de María (Lc 1,50) tiene «un contenido profético que afecta no solo al pasado de Israel, sino también al futuro del Pueblo de Dios», proclamando la misericordia «de generación en generación» [DM §10].
+
 ### Según el Concilio Vaticano II (ConcVatII)
 
 Lumen Gentium dedica el capítulo VIII a la Santísima Virgen María. María es «reconocida y venerada como verdadera Madre de Dios y del Redentor», redimida de modo eminente en previsión de los méritos de su Hijo [ConcVatII, LG §53]. Es «miembro excelentísimo y enteramente singular de la Iglesia y tipo y ejemplar acabadísimo de la misma en la fe y en la caridad» [ConcVatII, LG §53].

@@ -61,6 +61,12 @@ Son los efectos principales:
 
 ## Perspectivas por fuente
 
+### Según la Dives in Misericordia (DM)
+
+La encíclica dedica especial atención al sacramento de la penitencia o reconciliación como lugar donde «cada hombre puede experimentar de manera singular la misericordia, es decir, el amor que es más fuerte que el pecado» [DM §13]. La penitencia, junto con la Eucaristía, es fuente permanente de la misericordia del Salvador que la Iglesia «deposita y dispensa» [DM §13].
+
+El perdón divino no tiene límites: «no hay pecado humano que prevalezca por encima de esta fuerza [de la misericordia] y ni siquiera que la limite. Por parte del hombre puede limitarla únicamente la falta de buena voluntad, la falta de prontitud en la conversión y en la penitencia» [DM §13]. La conversión a Dios que se realiza en la penitencia «consiste siempre en descubrir su misericordia» [DM §13].
+
 ### Según el Catecismo (CEC)
 
 El sacramento de la Penitencia y de la Reconciliación fue instituido por Cristo para perdonar los pecados cometidos después del Bautismo (§1422, §1446). El CEC distingue cinco nombres: sacramento de conversión, de la penitencia, de la confesión, del perdón, y de reconciliación (§1423-1424).

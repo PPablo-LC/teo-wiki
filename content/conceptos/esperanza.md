@@ -9,6 +9,12 @@ La esperanza es la segunda de las virtudes teologales, virtud infusa sobrenatura
 
 ## Perspectivas por fuente
 
+### Según la Dives in Misericordia (DM)
+
+La esperanza cristiana se funda en la misericordia de Dios. La resurrección de Cristo es la garantía de que «el amor es más fuerte que la muerte» [DM §8] y, por tanto, fundamento de la esperanza. La encíclica eleva una oración confiada para que «en esta etapa de la historia se revele una vez más aquel Amor que está en el Padre y que por obra del Hijo y del Espíritu Santo se haga presente en el mundo contemporáneo como más fuerte que el mal: más fuerte que el pecado y la muerte» [DM §15].
+
+La Iglesia implora la misericordia divina guiada por la [[fe]], la [[esperanza]] y la [[caridad]] «que Cristo ha injertado en nuestros corazones» [DM §15]. El grito de la Iglesia a la misericordia es expresión de esperanza: «Dios es fiel a sí mismo, a su paternidad y a su amor» [DM §15].
+
 ### Según el Compendio (CompDS)
 
 La Iglesia enseña al hombre que Dios le ofrece la posibilidad real de superar el mal y de alcanzar el bien. El Señor ha redimido al hombre, lo ha rescatado a caro precio (cf. 1 Co 6,20) [CompDS §578]. El sentido y el fundamento del compromiso cristiano en el mundo derivan de esta certeza, capaz de encender la esperanza, a pesar del pecado que marca profundamente la historia humana: la promesa divina garantiza que el mundo no permanece encerrado en sí mismo, sino abierto al Reino de Dios [CompDS §578].

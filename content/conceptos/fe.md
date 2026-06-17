@@ -9,6 +9,12 @@ La fe es la primera de las virtudes teologales, virtud infusa sobrenatural por l
 
 ## Perspectivas por fuente
 
+### Según la Dives in Misericordia (DM)
+
+La fe en la misericordia divina es central en la encíclica. «Creer en el Hijo crucificado significa "ver al Padre" (Jn 14,9), significa creer que el amor está presente en el mundo y que este amor es más fuerte que toda clase de mal, en que el hombre, la humanidad, el mundo están metidos. Creer en ese amor significa creer en la misericordia» [DM §7].
+
+La revelación y la fe «nos enseñan no tanto a meditar en abstracto el misterio de Dios, como "Padre de la misericordia", cuanto a recurrir a esta misma misericordia en el nombre de Cristo y en unión con Él» [DM §2]. La fe se expresa como confianza en el amor del Padre, que es más fuerte que el pecado. La Iglesia eleva sus súplicas «guiada por la fe, la esperanza, la caridad que Cristo ha injertado en nuestros corazones» [DM §15].
+
 ### Según el Compendio (CompDS)
 
 La fe en Dios y en Jesucristo ilumina los principios morales que son «el único e insustituible fundamento de estable tranquilidad en que se apoya el orden interno y externo de la vida privada y pública, que es el único que puede engendrar y salvaguardar la prosperidad de los Estados» [CompDS §577]. La vida social se debe ajustar al designio divino: «La dimensión teológica se hace necesaria para interpretar y resolver los actuales problemas de la convivencia humana» [CompDS §577].

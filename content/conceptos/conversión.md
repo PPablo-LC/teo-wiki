@@ -20,6 +20,11 @@ La primera obra de la gracia del Espíritu Santo es la conversión (CEC §1989).
 
 «Nuestro mundo necesita una profunda mejoría, una honda resurrección espiritual» [JPII-JovCh]. Juan Pablo II describe la conversión como un vencer el pecado mediante el perdón de Dios, que es «una curación, es una resurrección» [JPII-JovCh]. Esta conversión ha de hacerse «con plena conciencia de vuestra responsabilidad» y arraigar en el corazón de cada uno [JPII-JovCh].
 
+### Según la Dives in Misericordia (DM)
+
+La parábola del hijo pródigo expresa «de manera sencilla, pero profunda la realidad de la conversión» [DM §6]. La conversión es «la expresión más concreta de la obra del amor y de la presencia de la misericordia en el mundo humano» [DM §6]. No es un mero acto interior sino la decisión de volver a la casa del Padre —como el hijo pródigo— reconociendo la propia indignidad pero confiando en el amor paterno [DM §5].
+
+La conversión consiste en «descubrir la misericordia de Dios, es decir, ese amor que es paciente y benigno a medida del Creador y Padre» [DM §13]. Es siempre «fruto del "reencuentro" de este Padre, rico en misericordia». Quienes conocen a Dios así «no pueden vivir sino convirtiéndose sin cesar a Él. Viven pues *in statu conversionis*; es este estado el que traza la componente más profunda de la peregrinación de todo hombre por la tierra *in statu viatoris*» [DM §13].
 
 ## Distinciones importantes
 

@@ -20,6 +20,14 @@ Las pasiones son componentes naturales del corazón humano; el amor es la pasió
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 El AT dispone de varios términos para el amor: *ahab* indica el amor electivo y personal (amor de Dios por Israel, amor al prójimo); *dodim* el amor erótico-conyugal. El NT introduce el término decisivo *agapê* (caridad), casi ausente en la literatura helenística y reservado al amor que viene de Dios y que el cristiano debe practicar. *Phileô* (amor de amistad) es menos frecuente. La carta *1Jn* resume la revelación: «Dios es amor» (*1Jn 4,8.16*), fundamento de la moral cristiana [VocTeoBib, «Amor»].
+### Según la Dives in Misericordia (DM)
+
+La encíclica distingue implícitamente entre el amor en sentido general y el amor misericordioso (*agapé*) que «es capaz de inclinarse hacia todo hijo pródigo, toda miseria humana y singularmente hacia toda miseria moral o pecado» [DM §6]. Cristo revela que «en el mundo en que vivimos está presente el amor, el amor operante, el amor que se dirige al hombre y abraza todo lo que forma su humanidad» [DM §3].
+
+Dios «que es amor» (1 Jn 4,16) no puede revelarse sino como misericordia, porque existe el pecado en el mundo [DM §13]. La misericordia es «como su segundo nombre y a la vez el modo específico de su revelación y actuación respecto a la realidad del mal presente en el mundo» [DM §7]. El amor es más fuerte que la muerte, más fuerte que el pecado: esto es lo que revela el misterio pascual [DM §8].
+
+El amor misericordioso tiene «la forma interior del amor que en el Nuevo Testamento se llama *agapé*» [DM §6]. Se caracteriza por ser «paciente y benigno» (1 Cor 13,4), no interesado, no se irrita, todo lo espera, todo lo tolera [DM §6]. Es la fuente de la que brota la verdadera justicia: «el amor condiciona a la justicia y en definitiva la justicia es servidora de la caridad» [DM §4].
+
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata el amor divino en SmTh Iª q.20. En Dios hay amor (a.1), pues el amor es la primera moción de la voluntad hacia el bien, y en Dios hay voluntad perfecta. Dios ama todas las cosas existentes (a.2), pues todas participan de su bondad; las ama con amor particular según su dignidad (a.3), dando a cada una el bien que le corresponde. Dios ama más a las criaturas más nobles (a.4), y ama a los buenos más que a los malos —a estos los ama en cuanto existen pero no en cuanto son malos. Dios no ama por necesidad (a.2 ad 3), sino libremente, y su amor es la causa de la bondad de las cosas (a.2): no porque algo sea bueno lo amamos nosotros, sino que porque Dios lo ama, es bueno. El amor divino es eterno e inmutable, precediendo a cualquier bondad creada.

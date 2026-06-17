@@ -15,6 +15,14 @@ El mal de culpa es mayor que el mal de pena, porque la culpa hace malo al que la
 
 ## Perspectivas por fuente
 
+### Según la Dives in Misericordia (DM)
+
+La encíclica aborda el mal desde la perspectiva de la misericordia divina como respuesta. El mal se manifiesta en múltiples formas: mal físico (sufrimiento, enfermedad, hambre), mal moral (pecado, injusticia, opresión) y mal escatológico (muerte) [DM §7–8, §10–11]. Cristo «ha sido ungido para evangelizar a los pobres, sanar a los quebrantados de corazón, proclamar libertad a los cautivos» precisamente porque el mal está presente en el mundo [DM §3].
+
+La respuesta de Dios al mal no es la aniquilación sino la misericordia: «el amor —que es más fuerte que la muerte, más fuerte que el pecado y que todo mal— eleva al hombre de las caídas graves y lo libera de las más grandes amenazas» [DM §15]. La cruz es «la inclinación más profunda de la Divinidad hacia el hombre y todo lo que el hombre… llama su infeliz destino. La cruz es como un toque del amor eterno sobre las heridas más dolorosas de la existencia terrena del hombre» [DM §8].
+
+La misericordia «se manifiesta en su aspecto verdadero y propio cuando revalida, promueve y extrae el bien de todas las formas de mal existentes en el mundo y en el hombre» [DM §6]. No se deja «vencer por el mal», sino que «vence con el bien al mal» (Rom 12,21) [DM §6].
+
 ### Según la Summa Theologiae (SmTh)
 
 El mal no es una naturaleza, sino privación del bien (SmTh Iª q.48 a.1). Se encuentra en las cosas porque la perfección del universo requiere seres que pueden fallar (Iª q.48 a.2). El mal está en el bien como en su sujeto: todo ser en acto es un bien, y la privación se da en él (Iª q.48 a.3). El mal no puede corromper totalmente el bien, pues siempre permanece el sujeto —la sustancia— en su raíz (Iª q.48 a.4).

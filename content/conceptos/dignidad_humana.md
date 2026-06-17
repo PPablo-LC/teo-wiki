@@ -27,6 +27,14 @@ La [[libertad_humana]] es «un componente esencial de la dignidad humana. El hom
 
 «El honor es el testimonio social dado a la dignidad humana y cada uno posee un derecho natural al honor de su nombre, a su reputación y a su respeto» (§2479).
 
+### Según la Dives in Misericordia (DM)
+
+La dignidad humana es un tema recurrente en la encíclica. Juan Pablo II afirma que «la manifestación del hombre en la plena dignidad de su naturaleza no puede tener lugar sin la referencia —no solo conceptual, sino también íntegramente existencial— a Dios» [DM §1]. Cristo «manifiesta plenamente el hombre al propio hombre y le descubre la sublimidad de su vocación» [DM §1, citando GS 22].
+
+La parábola del hijo pródigo revela que la misericordia «tiene la forma interior del amor que es capaz de inclinarse hacia todo hijo pródigo, toda miseria humana y singularmente hacia toda miseria moral o pecado». El que es objeto de misericordia «no se siente humillado, sino como hallado de nuevo y "revalorizado"» [DM §6]. La alegría del padre indica «un bien inviolado: un hijo, por más que sea pródigo, no deja de ser hijo real de su padre» [DM §6].
+
+La relación de misericordia se funda sobre «la común experiencia de aquel bien que es el hombre, sobre la común experiencia de la dignidad que le es propia» [DM §6]. Esta experiencia hace que el hijo pródigo comience a verse a sí mismo con verdad (auténtica humildad), y para el padre el hijo se convierte en un bien particular [DM §6].
+
 ### Según el Compendio (CompDS)
 
 La Iglesia ve en cada hombre la imagen viva de Dios mismo, que encuentra su plena razón de ser en Cristo [CompDS §105]. La inviolable dignidad de la persona humana es el principio del que se desarrolla toda la doctrina social [CompDS §107]. Una sociedad justa puede realizarse solo en el respeto de la dignidad trascendente de la persona humana, que es el fin último de la sociedad [CompDS §132]. La persona no puede ser instrumentalizada para fines ajenos a su propio desarrollo, que solo puede realizar plenamente en Dios [CompDS §133]. «Dios no hace acepción de personas» (Hch 10,34): todos los hombres tienen la misma dignidad de criaturas a su imagen y semejanza [CompDS §144]. La Encarnación del Hijo de Dios manifiesta la igualdad de todas las personas en cuanto a dignidad [CompDS §144]. Solo el reconocimiento de la dignidad humana hace posible el crecimiento común y personal de todos [CompDS §145].

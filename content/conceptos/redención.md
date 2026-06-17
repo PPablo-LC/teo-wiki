@@ -21,6 +21,12 @@ La muerte redentora de Cristo no fue fruto del azar sino del determinado designi
 
 **Nuestra participación** (§618): Cristo asocia a su sacrificio redentor a los que son sus primeros beneficiarios. «No hay otra escala del paraíso fuera de la Cruz» (Santa Teresa de Jesús).
 
+### Según la Dives in Misericordia (DM)
+
+La redención es presentada como revelación de la misericordia en su plenitud. «La dimensión divina de la redención» consiste en que «la justicia divina, revelada en la cruz de Cristo, es "a medida" de Dios, porque nace del amor y se completa en el amor, generando frutos de salvación» [DM §7]. La redención «no se actúa solamente haciendo justicia del pecado, sino restituyendo al amor su fuerza creadora en el interior del hombre, gracias a la cual él tiene acceso de nuevo a la plenitud de vida y de santidad, que viene de Dios» [DM §7].
+
+El misterio pascual es «el culmen de esta revelación y actuación de la misericordia, que es capaz de justificar al hombre, de restablecer la justicia en el sentido del orden salvífico querido por Dios desde el principio para el hombre» [DM §7]. La muerte de Cristo es «sobreabundancia de la justicia», porque los pecados del hombre son «compensados» por el sacrificio del Hombre-Dios [DM §7].
+
 ### Según la Summa Theologiae (SmTh)
 
 **IIIª q.1 a.2 — Necesidad de la Encarnación para la redención:** No fue absolutamente necesaria (Dios omnipotente pudo redimir de otro modo), pero fue sumamente conveniente. La Encarnación redentora satisface más plenamente: da satisfacción por el pecado proporcionada a la ofensa (Dios mismo satisface como hombre), eleva al hombre a un bien mayor que el perdido, manifiesta la misericordia y la justicia divinas, y quita toda desesperación. La sangre de Cristo, por ser de la Persona del Verbo, tiene valor infinito.

@@ -9,6 +9,12 @@ La caridad es la más excelente de las virtudes teologales, virtud infusa sobren
 
 ## Perspectivas por fuente
 
+### Según la Dives in Misericordia (DM)
+
+La caridad es el fundamento de toda la enseñanza de la encíclica. Dios «que es amor» (1 Jn 4,16) se revela como misericordia: «La misericordia en sí misma, en cuanto perfección de Dios infinito, es también infinita» [DM §13]. La caridad «es paciente, es benigna, no es interesada, no se irrita, no se alegra de la injusticia, se complace en la verdad, todo lo espera, todo lo tolera y no pasa jamás» (1 Cor 13,4-8) [DM §6].
+
+La relación entre amor y justicia es clave: «el amor condiciona a la justicia y en definitiva la justicia es servidora de la caridad. La primacía y la superioridad del amor respecto a la justicia se manifiestan precisamente a través de la misericordia» [DM §4]. La caridad es «amor misericordioso», que por su esencia «es amor creador» [DM §14]. Es la única capaz de «restituir el hombre a sí mismo» [DM §14].
+
 ### Según el Compendio (CompDS)
 
 La caridad es el criterio supremo y universal de toda la ética social [CompDS §204]. De todas las vías para afrontar las formas siempre nuevas de la cuestión social, la «más excelente» es la trazada por la caridad [CompDS §204]. Los valores de verdad, justicia y libertad nacen y se desarrollan de la fuente interior de la caridad [CompDS §205]. La caridad presupone y trasciende la justicia: la justicia «ha de complementarse con la caridad» [CompDS §206]. Ninguna legislación ni sistema de reglas logrará persuadir a vivir en la unidad y la paz; solo la caridad, como «forma virtutum», puede animar la actuación social para edificar la paz [CompDS §207]. La caridad se convierte en caridad social y política: nos hace amar el bien común y buscar efectivamente el bien de todas las personas en su dimensión social [CompDS §207-208].

@@ -24,6 +24,13 @@ La justicia es la virtud que reside en la voluntad, por la que se da a cada uno 
 
 Juan Pablo II llama a los jóvenes a no permanecer indiferentes ante la injusticia: «Cristo os pide que no permanezcamos indiferentes ante la injusticia, que nos comprometamos responsablemente en la construcción de una sociedad más cristiana, una sociedad mejor» [JPII-JovCh]. La lucha contra las fuerzas del mal en todas sus formas se ordena a la dignidad del hombre y a una vida noble de hijos de Dios [JPII-JovCh]. Las propuestas de solución a los problemas sociales deben ser «no solo compatibles con vuestra fe sino exigidas por ella» [JPII-JovCh].
 
+### Según la Dives in Misericordia (DM)
+
+La relación entre justicia y misericordia es uno de los ejes teológicos de la encíclica. Juan Pablo II enseña que «la misericordia se contrapone en cierto sentido a la justicia divina y se revela en multitud de casos no solo más poderosa, sino también más profunda que ella» [DM §4]. El amor es primario y fundamental; «la justicia es servidora de la caridad» [DM §4].
+
+La encíclica advierte que la justicia por sí sola no basta: «*summum ius, summa iniuria*» —el exceso de justicia puede llevar a la máxima injusticia [DM §12]. Cuando la justicia se aparta del amor, puede degenerar en rencor, odio y crueldad. Por eso la justicia debe experimentar «una notable "corrección" por parte del amor» [DM §14].
+
+«La auténtica misericordia es, por decirlo así, la fuente más profunda de la justicia» [DM §14]. La misericordia restituye al hombre a sí mismo y encarna la «igualdad» más profunda entre los hombres —la que se funda en la dignidad de la persona—, mientras que la justicia se limita al ámbito de los bienes objetivos y extrínsecos [DM §14]. En la parábola del hijo pródigo, esta relación entre justicia y amor misericordioso se muestra con toda claridad: el amor transforma la justicia en misericordia cuando hay que superar la norma precisa de la justicia [DM §5].
 
 ### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
 

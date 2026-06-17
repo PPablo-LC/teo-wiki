@@ -19,6 +19,14 @@ El método de los signos de los tiempos implica: atención a la realidad histór
 
 GS 4 presenta el fundamento de este deber eclesial: «es deber permanente de la Iglesia escrutar a fondo los signos de la época e interpretarlos a la luz del Evangelio». GS 11 añade la dimensión pneumática: el Pueblo de Dios, movido por el Espíritu «que llena el universo», procura discernir los signos de la presencia o de los planes de Dios. La fe todo lo ilumina con nueva luz y manifiesta el plan divino sobre la vocación del hombre.
 
+### Según la Dives in Misericordia (DM)
+
+El capítulo VI de la encíclica (n. 10–12) es un extenso análisis de los signos de los tiempos contemporáneos. Juan Pablo II describe una generación que, a pesar del progreso científico y técnico, vive amenazada por conflictos atómicos, opresión política, tortura, hambre estructural y desigualdad creciente [DM §10–11].
+
+La encíclica diagnostica «el ocaso de tantos valores fundamentales»: respeto a la vida desde la concepción, matrimonio indisoluble, estabilidad familiar, verdad en las relaciones humanas, sentido del bien común. La desacralización se transforma en «deshumanización» [DM §11]. Ante este panorama, «la Iglesia comparte la inquietud de tantos hombres contemporáneos» [DM §11].
+
+La respuesta a estos signos de los tiempos no es la justicia sola, que puede degenerar en venganza, sino el amor misericordioso. La Iglesia debe elevar «un grito a la misericordia de Dios ante las múltiples formas de mal que pesan sobre la humanidad» [DM §15].
+
 ## Relaciones doctrinales
 
 Se relaciona con la [[teología_de_la_historia]], el [[discernimiento]], la [[profecía]], la [[misión_de_la_iglesia]] y la [[revelación_continua]].

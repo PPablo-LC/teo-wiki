@@ -13,6 +13,12 @@ El Pueblo de Dios tiene su origen en la vocación de Abraham y la elección de I
 
 ## Perspectivas por fuente
 
+### Según la Dives in Misericordia (DM)
+
+El Pueblo de Dios de la Antigua Alianza hizo «una experiencia peculiar de la misericordia de Dios» a lo largo de su historia plurisecular; esta experiencia «era social y comunitaria, como también individual e interior» [DM §4]. El Antiguo Testamento proclama la misericordia del Señor y anima a los hombres a recurrir a ella. «El pueblo de la Antigua Alianza conoció esta miseria desde los tiempos del éxodo» y, ante el pecado del becerro de oro, «triunfó el Señor mismo, manifestándose solemnemente a Moisés como "Dios de ternura y de gracia, lento a la ira y rico en misericordia y fidelidad" (Ex 34,6)» [DM §4].
+
+La Iglesia, nuevo Pueblo de Dios, debe «dar testimonio de la misericordia de Dios en toda su misión» [DM §13], profesándola como «verdad salvífica de fe» y tratando de «introducirla y encarnarla en la vida» de los fieles y de todos los hombres de buena voluntad [DM §13]. Vivir «*in statu conversionis*» es «la componente más profunda de la peregrinación de todo hombre por la tierra *in statu viatoris*» [DM §13].
+
 ### Según el Catecismo (CEC)
 
 La palabra "Iglesia" significa "convocación": designa la asamblea de aquellos a quienes Dios convoca para formar el Pueblo de Dios (CEC §777). Las características del Pueblo de Dios: es el Pueblo de Dios, el sacerdocio real, la nación santa (CEC §782). Todo el Pueblo de Dios participa de las funciones de Cristo: sacerdote, profeta y rey (CEC §783-786). Se entra en el Pueblo de Dios por la fe y el Bautismo (CEC §804). Todos los hombres están invitados al Pueblo de Dios (CEC §836). El Pueblo de Dios es uno y único, y ha de extenderse por todo el mundo (CEC §831). La Iglesia es "el Pueblo santo de Dios" (CEC §823).

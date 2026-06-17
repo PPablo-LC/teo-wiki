@@ -104,6 +104,12 @@ Efectos del sacrificio de la misa:
 
 ## Perspectivas por fuente
 
+### Según la Dives in Misericordia (DM)
+
+La Eucaristía es uno de los sacramentos mediante los cuales la Iglesia dispensa la misericordia del Salvador. En ella «nos acerca siempre a aquel amor que es más fuerte que la muerte: en efecto, "cada vez que comemos de este pan o bebemos de este cáliz", no solo anunciamos la muerte del Redentor, sino que además proclamamos su resurrección, mientras esperamos su venida en la gloria» [DM §13].
+
+El rito eucarístico «atestigua el amor inagotable en virtud del cual desea siempre Él unirse e identificarse con nosotros, saliendo al encuentro de todos los corazones humanos» [DM §13]. Junto con el sacramento de la penitencia, la Eucaristía es fuente de la misericordia divina para la Iglesia [DM §13].
+
 ### Según el Catecismo (CEC)
 
 La Sagrada Eucaristía culmina la iniciación cristiana (§1322). Es «fuente y culmen de toda la vida cristiana» (§1324). «Los demás sacramentos, como también todos los ministerios eclesiales y las obras de apostolado, están unidos a la Eucaristía y a ella se ordenan» (§1324).

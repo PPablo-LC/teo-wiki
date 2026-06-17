@@ -17,6 +17,16 @@ La parabola del hijo prodigo es considerada la mas bella de las parabolas de la 
 
 El Catecismo cita la parabola repetidamente como descripcion del proceso de conversion y penitencia (§1439), como modelo de la oracion de peticion de perdon (§2839) y como expresion de la dignidad humana que recurre a la misericordia del Padre (§1700). La parabola aparece tambien en relacion con el ministerio sacerdotal en la confesion (§1465).
 
+### Según la Dives in Misericordia (DM)
+
+*Dives in Misericordia* dedica el capítulo IV (n. 5–6) a la parábola del hijo pródigo como analogía central para comprender la misericordia divina. La palabra «misericordia» no aparece en el texto de la parábola, pero «la relación de la justicia con el amor, que se manifiesta como misericordia, está inscrita con gran precisión en su contenido» [DM §5].
+
+El padre es fiel a su paternidad, fiel al amor (*hesed*). Su fidelidad se expresa no solo en la prontitud en acoger al hijo, sino «con aquella alegría, con aquel aire festivo tan generoso respecto al disipador después de su vuelta» [DM §6]. La fidelidad del padre «está totalmente centrada en la humanidad del hijo perdido, en su dignidad» [DM §6].
+
+La parábola revela que la misericordia «no se puede valorar "desde fuera"». No es una relación de desigualdad que difame a quien la recibe, sino que se funda en «la común experiencia de aquel bien que es el hombre, sobre la común experiencia de la dignidad que le es propia» [DM §6]. El hijo pródigo, al verse a sí mismo con verdad, alcanza la auténtica humildad.
+
+La parábola expresa «la realidad de la conversión» como «la expresión más concreta de la obra del amor y de la presencia de la misericordia en el mundo humano» [DM §6]. La misericordia se manifiesta en su aspecto verdadero «cuando revalida, promueve y extrae el bien de todas las formas de mal existentes en el mundo y en el hombre» [DM §6].
+
 ### Según el análisis de conferencias para varones (notas)
 
 > **Nota**: Estas son fuentes complementarias de caracter testimonial y pastoral, no magisterial. Se incluyen por su valor edificante y por su convergencia con la doctrina católica.

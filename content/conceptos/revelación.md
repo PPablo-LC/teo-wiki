@@ -23,6 +23,14 @@ El canon 747 §1 establece que Cristo encomendó a la Iglesia el [[depósito_de_
 
 *Dei Verbum* 2-6 desarrolla la revelación en sí misma. Dios invisible, movido por su amor, habla a los hombres como amigos (DV 2). La revelación culmina en Jesucristo, mediador y plenitud de toda revelación (DV 2). La respuesta a la revelación es la obediencia de la fe (DV 5). Para profesar esta fe se requiere la gracia de Dios y los auxilios internos del Espíritu Santo, que mueve el corazón, lo convierte a Dios y abre los ojos de la mente (DV 5). La revelación divina comunica los bienes divinos que superan la comprensión de la inteligencia humana (DV 6).
 
+### Según la Dives in Misericordia (DM)
+
+*Dives in Misericordia* desarrolla la revelación de la misericordia como culminación de toda la revelación divina. Cristo es no solo quien revela la misericordia, sino quien «la encarna y personifica. Él mismo es, en cierto sentido, la misericordia» [DM §2]. «A quien la ve y la encuentra en él, Dios se hace concretamente "visible" como Padre "rico en misericordia"» [DM §2].
+
+La revelación de la misericordia es progresiva: el Antiguo Testamento prepara el terreno con los términos [[hesed]] y [[rahamim]] [DM §4, nota 52]; Cristo confiere «un significado definitivo a toda la tradición veterotestamentaria de la misericordia divina» [DM §2]. El misterio pascual es «el culmen de esta revelación y actuación de la misericordia» [DM §7].
+
+«La revelación y la fe nos enseñan no tanto a meditar en abstracto el misterio de Dios, como "Padre de la misericordia", cuanto a recurrir a esta misma misericordia en el nombre de Cristo y en unión con Él» [DM §2]. La revelación de la misericordia tiene una finalidad práctica: «hacer presente al Padre en cuanto amor y misericordia» es la prueba fundamental de la misión mesiánica de Cristo [DM §3].
+
 ### Según Royo Marín (TPCr)
 La razón humana abandonada a sí misma no hubiera podido sospechar el misterio de la vida íntima de Dios. Solo por divina revelación puede el hombre asomarse a ese abismo sin fondo (TPCr, Primera Parte, Cap. III, n.38). La revelación es progresiva: en el Antiguo Testamento Dios aparece como Creador y Legislador, pero el misterio de su vida íntima permanece oculto hasta la venida de Cristo. La revelación es fuente de toda la teología sobrenatural y contiene tanto la Sagrada Escritura como la Tradición, conservadas por el Magisterio de la Iglesia.
 

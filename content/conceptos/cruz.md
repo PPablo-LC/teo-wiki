@@ -24,6 +24,14 @@ La cruz revela el amor extremo de Dios: «Tanto amó Dios al mundo que dio a su 
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 La cruz es «escándalo para los judíos y locura para los gentiles» (*1Cor 1,23*), pero para los creyentes es «sabiduría y poder de Dios». Pablo desarrolla la teología de la cruz como cumplimiento del designio divino: Cristo, «hecho maldición por nosotros» (*Gal 3,13*) al ser colgado del madero, nos redimió de la maldición de la ley. Para Juan, la cruz es ya glorificación: Jesús es «elevado» como la serpiente de bronce (*Jn 3,14*), y de su costado brotan sangre y agua (*Jn 19,34*). El cristiano debe cargar con su cruz y seguir a Cristo (*Mt 16,24*), crucificando la carne con sus pasiones (*Gal 5,24*). La cruz es el único título de gloria del cristiano (*Gal 6,14*) [VocTeoBib, «Cruz»].
+### Según la Dives in Misericordia (DM)
+
+La cruz es el núcleo de la revelación de la misericordia en *Dives in Misericordia*. «La dimensión divina de la redención no se actúa solamente haciendo justicia del pecado, sino restituyendo al amor su fuerza creadora en el interior del hombre» [DM §7]. En la cruz se expresa la justicia absoluta —«al que no conoció pecado, Dios le hizo pecado por nosotros» (2 Cor 5,21)—, pero «tal justicia, que es propiamente justicia "a medida" de Dios, nace toda ella del amor: del amor del Padre y del Hijo, y fructifica toda ella en el amor» [DM §7].
+
+La cruz es «la inclinación más profunda de la Divinidad hacia el hombre y todo lo que el hombre —de modo especial en los momentos difíciles y dolorosos— llama su infeliz destino» [DM §8]. Es «como un toque del amor eterno sobre las heridas más dolorosas de la existencia terrena del hombre» [DM §8].
+
+La cruz habla y «no cesa nunca de decir que Dios-Padre, que es absolutamente fiel a su eterno amor por el hombre, ya que "tanto amó al mundo… que le dio a su Hijo unigénito"» [DM §7]. Creer en el Hijo crucificado significa «creer en la misericordia» [DM §7]. Cristo crucificado es «el Verbo que no pasa», «el que está a la puerta y llama al corazón de todo hombre, sin coartar su libertad» [DM §8].
+
 ### Según los Ejercicios Espirituales 2026 a la Curia Romana (EjEsp2026)
 
 Mons. Erik Varden desarrolla la teología de la cruz en los capítulos 7 y 11. En el capítulo 7, la cruz es presentada como el lugar de la «[[gloria_oculta]]»: Juan ofrece un relato descarnado de la kénosis de Jesús, que se desarrolla en dos niveles —el del amor divino triturado en el lagar de la Cruz, y la traición de las lealtades humanas—, pero Juan insiste en que esta escena de desamparo manifiesta la gloria de Cristo.

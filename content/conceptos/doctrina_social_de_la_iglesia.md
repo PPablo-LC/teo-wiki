@@ -13,6 +13,12 @@ La doctrina social de la Iglesia se desarrolló en el siglo XIX con el encuentro
 
 ## Perspectivas por fuente
 
+### Según la Dives in Misericordia (DM)
+
+La encíclica formula principios que pertenecen al núcleo de la doctrina social católica. La justicia social, que la Iglesia promueve, debe ser «corregida» por el amor misericordioso: «la auténtica misericordia es, por decirlo así, la fuente más profunda de la justicia» [DM §14]. La advertencia de Juan Pablo II es directa: los programas basados en la justicia «sufren deformaciones» cuando otras fuerzas negativas (rencor, odio, crueldad) toman la delantera [DM §12].
+
+La encíclica denuncia la desigualdad creciente: «el estado de desigualdad entre hombres y pueblos no solo perdura, sino que va en aumento» [DM §11]. Señala un «mecanismo defectuoso en la base de la economía contemporánea y de la civilización materialista, que no permite a la familia humana alejarse de situaciones tan radicalmente injustas» [DM §11]. La solución no es meramente económica, sino que requiere la civilización del amor, donde el amor misericordioso plasme las relaciones sociales [DM §14].
+
 ### Según el Catecismo (CEC)
 
 El cuarto mandamiento constituye uno de los fundamentos de la doctrina social de la Iglesia (CEC §2198). La doctrina social se desarrolló en el siglo XIX ante la nueva sociedad industrial, y da testimonio del valor permanente de la enseñanza de la Iglesia y del sentido verdadero de su Tradición (CEC §2421). Contiene un cuerpo de doctrina que se articula a medida que la Iglesia interpreta los acontecimientos a la luz de la palabra revelada (CEC §2422). Propone principios de reflexión, criterios de juicio y orientaciones para la acción (CEC §2423). Los aspectos temporales del bien común se ordenan al fin último del hombre (CEC §2419-2425).

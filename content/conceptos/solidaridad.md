@@ -13,6 +13,12 @@ La solidaridad se manifiesta en la distribución de bienes, la remuneración del
 
 ## Perspectivas por fuente
 
+### Según la Dives in Misericordia (DM)
+
+La solidaridad se funda en la conciencia de ser «deudores unos de otros», que va pareja con «la llamada a la solidaridad fraterna que san Pablo ha expresado en la invitación concisa a soportarnos "mutuamente con amor" (Ef 4,2)» [DM §14]. La encíclica denuncia que, mientras existen personas y sociedades «bien acomodadas y saciadas», hay «áreas enteras de miseria, de deficiencia y de subdesarrollo»; «el estado de desigualdad entre hombres y pueblos no solo perdura, sino que va en aumento» [DM §11].
+
+La solidaridad auténtica no puede fundarse solo en la justicia, sino que requiere el «amor misericordioso» que «es sumamente indispensable entre aquellos que están más cercanos: entre los esposos, entre padres e hijos, entre amigos; es también indispensable en la educación y en la pastoral» [DM §14].
+
 ### Según el Catecismo (CEC)
 
 El Catecismo dedica un artículo a la solidaridad humana (§1939-1942) y otro a la justicia y solidaridad entre las naciones (§2437-2442). Define el principio de solidaridad como «una exigencia directa de la fraternidad humana y cristiana» (§1939). La solidaridad se manifiesta en la distribución de bienes y la remuneración del trabajo. Es una virtud eminentemente cristiana que va más allá de los bienes materiales y se extiende a los bienes espirituales (§1948). El pecado daña la solidaridad humana (§1849, §1872).

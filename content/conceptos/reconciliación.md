@@ -13,6 +13,12 @@ La reconciliación implica el perdón recíproco, que no debe anular las exigenc
 
 ## Perspectivas por fuente
 
+### Según la Dives in Misericordia (DM)
+
+La reconciliación con Dios es fruto de la misericordia divina manifestada en Cristo. El sacramento de la penitencia es «el que allana el camino a cada uno, incluso cuando se siente bajo el peso de grandes culpas» [DM §13]. La Iglesia considera propio deber «custodiar la autenticidad del perdón», condición fundamental de la reconciliación «no solo en la relación de Dios con el hombre, sino también en las recíprocas relaciones entre los hombres» [DM §14].
+
+El perdón como condición de la reconciliación atestigua «que en el mundo está presente el amor más fuerte que el pecado» [DM §14]. Un mundo sin perdón sería solo «un mundo de justicia fría e irrespetuosa» donde los egoísmos transformarían la convivencia en «un sistema de opresión de los más débiles por parte de los más fuertes» [DM §14].
+
 ### Según el Compendio (CompDS)
 
 La Iglesia enseña que una verdadera paz es posible solo mediante el perdón y la reconciliación [CompDS §517]. No es fácil perdonar a la vista de las consecuencias de la guerra y de los conflictos, porque la violencia deja siempre como herencia una pesada carga de dolor, que solo puede aliviarse mediante una reflexión profunda, leal, valiente y común entre los contendientes, capaz de afrontar las dificultades del presente con una actitud purificada por el arrepentimiento [CompDS §517].
