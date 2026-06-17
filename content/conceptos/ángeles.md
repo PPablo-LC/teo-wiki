@@ -59,6 +59,10 @@ Santo Tomás trata la naturaleza, el conocimiento y la voluntad de los ángeles 
 
 **Los ángeles no juzgarán en el Juicio final (Suppl. q.89 a.3).** Los ángeles no juzgarán con Cristo en el Juicio final. El juicio se asigna al Hijo del hombre porque aparecerá visible a todos en su naturaleza humana; los asesores del juez deben tener también la naturaleza humana para ser visibles a buenos y malos. Por eso no es conveniente que los ángeles juzguen. Los ángeles asistirán a Cristo no como jueces, sino como testigos de las obras de los hombres, pues bajo su custodia los hombres obraron bien o mal.
 
+**Los ángeles y las dotes (Suppl. q.95 a.4):** Los ángeles reciben las mismas dotes del alma que los hombres bienaventurados (visión, comprensión, fruición). Sin embargo, la noción de «dote» —adorno nupcial del alma desposada con Cristo— les conviene menos propiamente que a los hombres, porque entre Cristo y los ángeles no hay conformidad de naturaleza específica: Cristo asumió la naturaleza humana, no la angélica. Los ángeles son más bien compañeros del Esposo que la Esposa.
+
+**Los ángeles y las aureolas (Suppl. q.96 a.9):** Los ángeles tienen aureola (premio accidental por obras de especial perfección) menos propiamente que los hombres, por dos razones: no tienen cuerpo ni concupiscencia interna que vencer (por lo que no les corresponde la aureola de virginidad), y su lucha no es del mismo tipo que la del hombre viador. Sin embargo, en sentido amplio, puede decirse que los ángeles tienen aureola por su victoria sobre el demonio y su fidelidad perfecta a Dios.
+
 ### Según los Ejercicios Espirituales 2026 a la Curia Romana (EjEsp2026)
 
 Mons. Erik Varden dedica el capítulo 8 a los ángeles, a partir de la tentación de Cristo en el desierto, donde Satanás cita el Salmo 90 sobre los ángeles. Los ángeles no están para complacernos en nuestros caprichos, sino que son custodios de la santidad. Una oración popular contemporánea de Bernardo, atribuida a Reginaldo de Canterbury, pide al ángel de la guarda que nos «ilumine, guarde, rija y gobierne».

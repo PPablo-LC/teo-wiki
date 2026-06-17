@@ -47,6 +47,8 @@ Cualquier deformidad infligida por una libertad mal empleada será entonces refo
 
 En las cuestiones del Suplemento sobre la resurrección (q.79-85), Santo Tomás desarrolla la gloria del cuerpo resucitado. Todos resucitarán en la edad perfecta —la juventud, alrededor de los treinta años— (q.79 a.1). El cuerpo glorioso participa de la gloria del alma mediante cuatro dotes: impasibilidad (q.80), que lo libra de todo dolor; sutileza (q.81), que lo somete plenamente al espíritu; agilidad (q.82), que le permite moverse con la velocidad del pensamiento; y claridad (q.85), que irradia exteriormente la gloria interior del alma. La gloria del cuerpo es accidental respecto de la gloria esencial del alma (visión beatífica), pero es una verdadera participación corpórea de la bienaventuranza.
 
+En la cuestión 93 del Suplemento, Santo Tomás añade que la gloria de los santos será mayor después del juicio final que antes (q.93 a.1). Esta mayor gloria no es solo extensiva (por la adición de la gloria del cuerpo), sino también intensiva: el alma unida al cuerpo glorioso posee un ser más perfecto y, por tanto, una operación beatífica más perfecta.
+
 ## Relaciones doctrinales
 
 La gloria se relaciona con la [[gracia_santificante]] (semilla de gloria), con el [[cielo]] (estado de gloria), con la [[visión_beatífica]] (acto esencial de la gloria), con la [[resurrección_de_la_carne]] (gloria del cuerpo), con la [[gloria_de_Dios]] (fin objetivo), con la [[perfección_cristiana]] (anticipo de la gloria) y con las [[dotes]] del cuerpo glorioso (impasibilidad, sutileza, agilidad, claridad).

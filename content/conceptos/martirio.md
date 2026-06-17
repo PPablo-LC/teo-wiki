@@ -35,6 +35,8 @@ El Catecismo enseña que «el martirio es el supremo testimonio de la verdad de 
 
 **a.5 — El martirio es meritorio por sí mismo:** El martirio es acto de perfecta caridad y, por tanto, meritorio. En el martirio se ofrece a Dios el sacrificio supremo de la propia vida, por lo que alcanza el perdón de todos los pecados y la vida eterna.
 
+**Suplemento (Suppl., q.96 a.6):** El martirio merece una aureola (premio accidental especial) en el cielo, por ser la más perfecta victoria sobre el asalto externo, tanto por la grandeza del dolor (la muerte) como por la nobleza de la causa (Cristo). La aureola del martirio se debe a quienes sufren realmente la muerte por Cristo (a.6 ad 3); el mero deseo de martirio, aunque puede merecer igual o mayor premio esencial, no da derecho a la aureola.
+
 Royo Marín incluye el martirio entre los actos más perfectos de la virtud de la fortaleza. El martirio es el acto supremo de la caridad y del testimonio cristiano. Quien muere por Cristo alcanza inmediatamente la vida eterna, porque el martirio, junto con la caridad perfecta que lo anima, remite toda pena temporal.
 
 El martirio es el más excelente de los actos de la virtud de la religión, pues tributa a Dios el testimonio supremo de la fe y del amor.

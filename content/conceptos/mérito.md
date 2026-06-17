@@ -50,6 +50,8 @@ Así, todo acto humano bueno o malo tiene razón de mérito o demérito ante Dio
 
 **q.114 a.10 — Bienes temporales:** Los bienes temporales no son objeto de mérito absoluto, sino solo relativo, en cuanto son útiles para la vida eterna (q.114 a.10).
 
+**Suplemento (Suppl., q.93):** La caridad de la vía es el principio remoto que distingue los grados de premio eterno o «moradas» en el cielo (q.93 a.3). Las obras son meritorias no por su sustancia sino por la caridad que las informa; de ahí que la diversidad de méritos se remonte a la diversidad de caridad, y así la caridad de la vía distingue las moradas a modo de mérito. El aumento del mérito no diversifica la esencia del premio (visión de Dios), sino su grado de participación.
+
 ### Según Royo Marín (TPCr)
 
 Sin la gracia santificante, las obras más heroicas no tienen valor en orden a la vida eterna. El mérito sobrenatural supone la posesión de la vida sobrenatural. El mérito de condigno perfecto (estricta justicia) es exclusivo de Jesucristo; el mérito de condigno imperfecto (justicia proporcional) es posible para el justo, porque Dios prometió recompensar los actos meritorios. La gracia actual es absolutamente necesaria para todo acto meritório.

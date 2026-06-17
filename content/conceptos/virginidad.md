@@ -48,6 +48,8 @@ El P. Jorge Loring aborda la virginidad desde dos perspectivas complementarias. 
 2. Por el bien del cuerpo: la integridad virginal es figura de la incorrupción futura.
 Sin embargo, la virginidad no es la más excelente de todas las virtudes: la caridad, la fe, la humildad y la paciencia en el martirio la superan. La virginidad sin caridad es como lámpara sin aceite.
 
+**Suplemento (Suppl., q.96 a.5):** La virginidad merece una aureola (premio accidental especial) en el cielo, por ser una victoria señalada sobre la concupiscencia de la carne. La aureola se debe no a la mera integridad física, sino al propósito virtuoso de observar perpetua virginidad por el Reino de los cielos, esté o no confirmado por voto (q.96 a.5). La Santísima Virgen María posee la aureola de virginidad en grado eminente, aunque no experimentó el conflicto interior de la concupiscencia (q.96 a.5 ad 2). La aureola de los vírgenes es la mayor de las tres aureolas (virginidad, martirio, doctrina), porque la victoria sobre la concupiscencia interna es perpetua y universal (q.96 a.12).
+
 ## Distinciones importantes
 
 - Virginidad ≠ castidad: la castidad es virtud para todos; la virginidad es estado de vida

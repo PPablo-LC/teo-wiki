@@ -41,9 +41,13 @@ Entre los Doctores de la Iglesia se cuentan:
 - **Doctor de la Iglesia** vs. **Doctor en teología**: el título académico se obtiene por estudio; el título eclesiástico es un reconocimiento del Magisterio por la eminencia doctrinal y la santidad.
 - **Magisterio** de los Doctores vs. **Magisterio auténtico**: la enseñanza de los Doctores no constituye Magisterio infalible, pero goza de especial autoridad por su fidelidad al depósito de la fe.
 
+### Según la Summa Theologiae (SmTh, Suppl.)
+
+Santo Tomás asigna a los doctores una aureola (premio accidental especial) en el cielo (Suppl. q.96 a.7), por la victoria sobre el error mediante la enseñanza y predicación de la verdad divina. La aureola de los doctores no se reduce a la excelencia de la enseñanza, sino que requiere el ejercicio habitual de predicar y enseñar como obra de perfección, iluminando a otros con la sabiduría divina (q.96 a.7). Es una de las tres aureolas, junto con la de los vírgenes y la de los mártires (q.96 a.11).
+
 ## Relaciones doctrinales
 
-Se relaciona con [[magisterio_de_la_iglesia]], [[tradición_apostólica]], [[santos]], [[teología]], [[padres_de_la_iglesia]], [[santidad]], [[depósito_de_la_fe]].
+Se relaciona con [[magisterio_de_la_iglesia]], [[tradición_apostólica]], [[santos]], [[teología]], [[padres_de_la_iglesia]], [[santidad]], [[depósito_de_la_fe]], [[aureolas]].
 
 ## Ver también
 

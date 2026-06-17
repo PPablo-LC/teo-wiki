@@ -122,6 +122,8 @@ De Lubac afirma la realidad sustancial y divina de la caridad: «Debemos creer e
 
 [SmTh IIa-IIae q.23-26]
 
+**Suplemento (Suppl., q.93):** La caridad es el principio distintivo de los grados de bienaventuranza o «moradas» en el cielo (q.93 a.3). La caridad de la patria (gloria) dispone próximamente la capacidad del bienaventurado para la visión divina, y la caridad de la vía (mérito) distingue las moradas a modo de principio remoto.
+
 Ver artículo principal: [[virtud_de_la_caridad]]
 
 ### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)

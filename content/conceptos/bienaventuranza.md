@@ -40,6 +40,16 @@ Las bienaventuranzas del sermón de la montaña (*Mt 5,3-12; Lc 6,20-26*) ofrece
 
 [SmTh Ia-IIae q.1-5]
 
+**Suplemento (Suppl., q.93):** En el Suplemento, Santo Tomás completa la doctrina sobre la bienaventuranza de los santos tratando su estado después del juicio final. La bienaventuranza de los santos será mayor después del juicio que antes (q.93 a.1), no solo en extensión —por la gloria del cuerpo añadida—, sino también en intensidad: el alma unida a un cuerpo glorioso, totalmente sometido al espíritu, tiene un ser más perfecto y, por consiguiente, una operación más perfecta en que la bienaventuranza consiste. Los grados de bienaventuranza se denominan propiamente «moradas» (q.93 a.2; cf. Jn 14,2): la unidad de la bienaventuranza es por parte del objeto (Dios), y la pluralidad de moradas por parte de los bienaventurados. Dichas moradas se distinguen según los diversos grados de caridad (q.93 a.3): la caridad de la patria dispone próximamente para el grado de visión beatífica, y la caridad de la vía distingue las moradas a modo de mérito remoto.
+
+[SmTh Ia-IIae q.1-5; Suppl. q.93]
+
+**Suplemento (Suppl., q.94):** Los bienaventurados ven las penas de los condenados (q.94 a.1), no para su aflicción sino para la perfección de su propia bienaventuranza: el conocimiento de la justicia retributiva de Dios realza el gozo de la propia salvación. Los santos no se compadecen de los condenados (q.94 a.2), porque la misericordia presupone la posibilidad de remediar el mal, y en los condenados ya no cabe redención. Se regocijan indirectamente en el castigo de los malos (q.94 a.3), en cuanto ven en él la ordenación de la justicia divina y la propia liberación.
+
+**Suplemento (Suppl., q.95):** Santo Tomás distingue las dotes de la bienaventuranza misma (q.95 a.2): la bienaventuranza es la operación perfecta por la que el alma se une a Dios, mientras que las dotes son hábitos o disposiciones ordenados a esa operación. Así, la visión en cuanto acto es bienaventuranza; en cuanto hábito (claridad de gloria), es dote.
+
+[SmTh Ia-IIae q.1-5; Suppl. q.93-95]
+
 ### Según Royo Marín (TPCr)
 
 El fin de la vida cristiana es la visión beatífica, que constituye la perfección última del hombre. Todas las gracias, virtudes y dones del Espíritu Santo se ordenan a preparar al alma para la bienaventuranza eterna. En el cielo, el alma unida a Dios goza de una felicidad perfecta que consiste en la posesión del Bien infinito.
