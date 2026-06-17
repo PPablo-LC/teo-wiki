@@ -1,7 +1,7 @@
 # Teología
 
 > Área: Dogmática
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-17
 
 ## Definición
 
@@ -22,7 +22,29 @@ Aunque la razón humana pueda conocer la existencia de Dios, para entrar en su i
 
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás de Aquino dedica la primera cuestión de la Summa a la naturaleza de la doctrina sagrada (*sacra doctrina*). Establece que es necesaria para la salvación humana, pues el fin del hombre —Dios— excede la capacidad de la sola razón (SmTh Iª q.1 a.1). Es ciencia (*scientia*) porque deduce conclusiones a partir de principios revelados por Dios, no por evidencia natural sino por la luz de una ciencia superior, la ciencia divina (SmTh Iª q.1 a.2). Es una ciencia única que considera todo desde el aspecto formal de lo revelable por Dios, tratando de Dios como sujeto principal y de las criaturas en cuanto referidas a Él (SmTh Iª q.1 a.3 y a.7). Es más especulativa que práctica, pues su fin último es la contemplación de Dios (SmTh Iª q.1 a.4). Es la suprema sabiduría (*sapientia*) porque juzga desde la causa más alta, Dios mismo (SmTh Iª q.1 a.6). Utiliza la razón humana no para probar la fe sino para explicarla y defenderla, sirviéndose de la filosofía como sierva (*ancilla theologiae*), pues la gracia no suprime la naturaleza sino que la perfecciona (SmTh Iª q.1 a.8 ad 2). Finalmente, la Sagrada Escritura admite cuatro sentidos: literal, alegórico, moral y anagógico, todos fundados en el sentido literal (SmTh Iª q.1 a.10).
+Santo Tomás dedica la primera cuestión de la Summa a la naturaleza de la doctrina sagrada (*sacra doctrina*).
+
+**Iª q.1 — La doctrina sagrada:**
+
+a.1 — Es necesaria para la salvación humana una doctrina basada en la revelación divina, además de las ciencias filosóficas. El fin del hombre —Dios— excede la capacidad de la sola razón; por eso fue necesario que el hombre conociera por revelación lo que no podía alcanzar por su sola razón. Aun lo que de Dios puede comprender la razón necesita la revelación, porque con sola la razón sería conocido por pocos, tras mucho análisis y con errores (SmTh Iª q.1 a.1).
+
+a.2 — La doctrina sagrada es ciencia (*scientia*), no del primer tipo (que parte de principios evidentes por la luz natural), sino del segundo: deduce conclusiones a partir de principios evidentes por la luz de una ciencia superior, la ciencia de Dios y de los santos. Así como la música acepta principios del matemático, la doctrina sagrada acepta los principios que por revelación le da Dios (SmTh Iª q.1 a.2).
+
+a.3 — Es una ciencia única, no múltiple. Su unidad viene del aspecto formal: todo lo que considera lo hace en cuanto revelable por Dios. Trata de Dios como objetivo principal y de las criaturas en cuanto referidas a Él como principio y fin. Es como una imagen de la ciencia divina, que es una, simple y lo abarca todo (SmTh Iª q.1 a.3).
+
+a.4 — Es más especulativa que práctica. Aunque abarca lo práctico (como Dios se conoce a sí mismo y su obrar con la misma ciencia), trata principalmente de lo divino, y cuando trata de lo humano lo hace en cuanto el hombre se encamina al conocimiento perfecto de Dios, en que consiste la felicidad eterna (SmTh Iª q.1 a.4).
+
+a.5 — Es superior a todas las demás ciencias, tanto especulativas como prácticas. En las especulativas, la supera en certeza (fundada en la luz divina infalible, no en la razón falible) y en dignidad de materia (lo que sobrepasa la razón). En las prácticas, porque su fin es la felicidad eterna, fin último de todo otro fin (SmTh Iª q.1 a.5).
+
+a.6 — Es sabiduría (*sapientia*) en grado sumo. Al sabio le corresponde dirigir y juzgar desde la causa más alta. La doctrina sagrada tiene como punto de referencia la causa suprema del universo, Dios mismo, y no solo por lo que de Él se conoce por lo creado, sino por lo que solo Él sabe de sí y comunica por revelación (SmTh Iª q.1 a.6).
+
+a.7 — Dios es el sujeto de esta ciencia. Todo lo que trata la doctrina sagrada lo hace teniendo a Dios como punto de mira: o bien se trata de Dios mismo, o de algo referido a Él como principio y fin. Aunque no podamos decir de Dios *qué es*, tomamos sus efectos (de naturaleza o gracia) como sustituto de la definición (SmTh Iª q.1 a.7).
+
+a.8 — Es argumentativa. No argumenta para probar sus principios (los artículos de fe), sino que a partir de ellos argumenta para probar otras cosas. Discute con quien niega sus principios si este acepta algo de la revelación; si lo niega todo, resuelve sus objeciones. Usa la razón humana no para probar la fe (eso suprimiría el mérito), sino para explicarla y defenderla, sirviéndose de la filosofía como sierva (*ancilla theologiae*), porque la gracia no suprime la naturaleza sino que la perfecciona (SmTh Iª q.1 a.8).
+
+a.9 — La Escritura debe usar metáforas e imágenes tomadas de lo material, porque es propio del hombre llegar a lo inteligible por lo sensible, y porque la Escritura se dirige a todos, sabios e ignorantes. Las imágenes no ocultan la verdad, sino que elevan a ella. Es preferible usar imágenes de cuerpos viles que de nobles, para evitar el error de tomarlas como propiedades, y porque así lo divino queda oculto a ojos indignos (SmTh Iª q.1 a.9).
+
+a.10 — La Escritura tiene varios sentidos: el literal (significado de las palabras) y el espiritual, que se divide en alegórico (la Antigua Ley figura la Nueva), moral (lo ocurrido en Cristo es signo de lo que debemos hacer) y anagógico (figura de la gloria eterna). El sentido literal es el fundamento de los demás; solo de él puede partir el argumento (SmTh Iª q.1 a.10).
 
 
 ## Distinciones importantes
