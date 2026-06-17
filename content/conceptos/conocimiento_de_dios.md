@@ -1,7 +1,7 @@
 # Conocimiento de Dios
 
 > Área: Dogmática
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-17
 
 ## Definición
 
@@ -25,7 +25,35 @@ Vías de acceso al conocimiento de Dios: el mundo creado (§31-35), la persona h
 
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás trata en SmTh Iª q.12 cómo el entendimiento creado puede conocer a Dios. El entendimiento creado puede ver la esencia de Dios (a.1), pues la felicidad última del hombre consiste en esa visión, y el deseo natural de conocer la causa primera no puede quedar frustrado. La esencia divina no es vista por ninguna especie creada (a.2): Dios se une al entendimiento como forma inteligible, sin mediación de representación creada. El ojo corporal no puede ver la esencia de Dios (a.3). Ningún entendimiento creado puede ver a Dios por sus solas fuerzas naturales (a.4): se requiere la gracia. Para ver a Dios se necesita el *lumen gloriae*, una luz creada que eleva el entendimiento (a.5). Los bienaventurados ven a Dios con diversa intensidad según su grado de caridad (a.6). Nadie puede comprehender la esencia divina (a.7), pues lo infinito no puede ser abarcado por lo finito. En la esencia divina, los bienaventurados conocen todas las cosas (a.8), pero no simultáneamente en acto (a.10). En esta vida, ningún hombre puede ver a Dios en su esencia (a.11). Podemos conocer a Dios por razón natural a partir de las criaturas (a.12), y además por revelación y gracia (a.13).
+Santo Tomás trata en la cuestión 12 de la Ia Pars cómo el entendimiento creado puede conocer a Dios.
+
+**Iª q.12 — Cómo conocemos a Dios:**
+
+a.1 — El entendimiento creado puede ver la esencia de Dios. La felicidad última del hombre consiste en esa visión, y el deseo natural de conocer la causa primera no puede quedar frustrado. Dios, siendo acto puro, es cognoscible en sumo grado en sí mismo, aunque sobrepasa la capacidad del entendimiento creado. El deseo natural de ver la causa no quedaría satisfecho si la criatura racional no alcanzara la causa primera (SmTh Iª q.12 a.1).
+
+a.2 — La esencia divina no es vista a través de ninguna especie creada. Por parte del entendimiento, se requiere el *lumen gloriae* (semejanza participada). Por parte de lo visto, la esencia divina misma se une al entendimiento como forma inteligible, sin mediación de semejanza creada que la represente. Ninguna especie creada puede representar la esencia infinita de Dios (SmTh Iª q.12 a.2).
+
+a.3 — El ojo corporal no puede ver la esencia de Dios. Toda facultad sensitiva es acto de un órgano corporal y no puede trascender lo corpóreo. Las visiones bíblicas («vi a Dios») son visiones imaginarias o intelectuales, no sensibles de la esencia (SmTh Iª q.12 a.3).
+
+a.4 — Ningún entendimiento creado puede ver a Dios por sus solas fuerzas naturales. El modo de conocimiento se ajusta a la naturaleza del que conoce. Conocer al *ipsum esse subsistens* es connatural solo al entendimiento divino; todo entendimiento creado —angélico o humano— requiere la gracia para ser elevado a la visión de Dios (SmTh Iª q.12 a.4).
+
+a.5 — Para ver a Dios se necesita el *lumen gloriae*, una luz creada que eleva y capacita el entendimiento creado para la visión divina. No es una especie intermedia en la que Dios sea visto, sino una perfección del entendimiento bajo la cual Dios es visto inmediatamente. Hace al entendimiento «deiforme» (SmTh Iª q.12 a.5).
+
+a.6 — Los bienaventurados ven a Dios con diversa intensidad, según su grado de caridad y la participación del *lumen gloriae*. No hay desigualdad por parte del objeto (Dios es el mismo para todos), sino por parte del sujeto: quien más ama, más capacitado está para la visión (SmTh Iª q.12 a.6).
+
+a.7 — Nadie puede comprehender la esencia divina. Comprehender es conocer algo tan perfectamente como es cognoscible. Dios, siendo infinito, es infinitamente cognoscible; ningún entendimiento finito puede abarcarlo infinitamente. Hay comprehensión en sentido amplio (posesión segura del objeto alcanzado), que sí tienen los bienaventurados (SmTh Iª q.12 a.7).
+
+a.8 — Los bienaventurados no conocen en Dios todo lo que Dios hace o puede hacer, porque eso requeriría comprehender todo el poder divino. Sin embargo, conocen en Dios más o menos cosas según la perfección de su visión. El deseo natural de saber queda colmado porque conocen a Dios mismo, que es fuente de todo ser (SmTh Iª q.12 a.8).
+
+a.9 — Lo que los bienaventurados ven en Dios no lo ven a través de especies intermedias, sino por la misma esencia divina presente al entendimiento. Las semejanzas que permanecen después de la visión (como en San Pablo tras el éxtasis) son formadas por el entendimiento a partir de la visión misma (SmTh Iª q.12 a.9).
+
+a.10 — Los bienaventurados ven simultáneamente todo lo que ven en Dios, no con sucesión. Porque todas las cosas se ven en una sola especie, la esencia divina misma, y lo que se ve bajo una sola especie se ve simultáneamente (SmTh Iª q.12 a.10).
+
+a.11 — En esta vida ningún hombre puede ver a Dios en esencia de modo permanente, porque el alma, unida al cuerpo, conoce naturalmente a partir de lo sensible. Excepcionalmente, como en el éxtasis de Moisés y San Pablo, Dios eleva sobrenaturalmente el alma separándola de los sentidos para una visión transitoria (SmTh Iª q.12 a.11).
+
+a.12 — Podemos conocer a Dios por la razón natural a partir de las criaturas. No podemos conocer *qué* es Dios (su esencia), pero podemos conocer *que* existe, su relación de causa con las criaturas, y lo que no es (vía de negación). Este conocimiento es común a buenos y malos (SmTh Iª q.12 a.12).
+
+a.13 — El conocimiento por gracia es más perfecto que el natural. La luz natural del entendimiento es fortalecida por la luz de la gracia, y las imágenes divinamente formadas en la imaginación (visiones proféticas) expresan mejor las cosas divinas. Por la fe conocemos misterios (como la Trinidad) que la razón natural no alcanza (SmTh Iª q.12 a.13).
 
 La perfección cristiana supone un conocimiento cada vez más profundo de Dios, que no es meramente especulativo sino experimental y amoroso, obra de los dones de entendimiento, ciencia y sabiduría. «Las luces de la fe van informando toda la vida cada vez con mayor intensidad» hasta llegar a «contemplar todas las cosas a través de ella». «Contemplar todas las cosas de este modo equivale a contemplarlas, en cierta medida, como las contempla el mismo Dios» (TPCr, Tercera Parte, Libro I, Cap. VI).
 

@@ -1,7 +1,7 @@
 # Eternidad
 
 > Área: Dogmática / Teología Natural
-> Última actualización: 2026-06-02
+> Última actualización: 2026-06-17
 
 ## Definición
 
@@ -19,7 +19,21 @@ Dios es eterno, sin principio ni fin (§202). «Antes que naciesen los montes, a
 
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás trata la eternidad en SmTh Iª q.10. Define la eternidad con Boecio como «posesión total, simultánea y completa de la vida interminable» (a.1): total porque nada le falta, simultánea porque carece de sucesión, completa porque es perfecta. Dios es eterno (a.2): al ser inmutable, no tiene principio ni fin ni sucesión alguna. Ser eterno es propio de Dios (a.3): solo Dios es eterno por esencia; las criaturas participan de la eternidad por duración pero no son eternas en sentido propio, pues tienen principio. La eternidad difiere del tiempo (a.4): el tiempo es número del movimiento según el antes y el después; la eternidad es la medida de lo inmutable, que carece de toda sucesión. El evo es medio entre la eternidad y el tiempo (a.5): mide los seres que son inmutables en su ser pero mutables en sus operaciones (ángeles, almas). Hay un solo evo (a.6), como hay un solo tiempo para todos los movimientos.
+Santo Tomás trata la eternidad en la cuestión 10 de la Ia Pars.
+
+**Iª q.10 — Sobre la eternidad de Dios:**
+
+a.1 — La eternidad se define correctamente como «la posesión total, simultánea y completa de la vida interminable» (Boecio). «Interminable» indica carencia de principio y fin; «total» porque nada le falta (no porque tenga partes); «simultánea» porque carece de sucesión; «completa» para excluir el «ahora» del tiempo que es incompleto; «posesión» para designar la inmutabilidad e indefectibilidad. Se conoce la eternidad por contraposición al tiempo: en lo inmutable no hay antes ni después (SmTh Iª q.10 a.1).
+
+a.2 — Dios es eterno. La eternidad se deriva de la inmutabilidad; Dios es lo más inmutable, luego le corresponde en grado máximo ser eterno. No solo es eterno, sino que es su misma eternidad, porque Dios es su mismo ser uniforme (SmTh Iª q.10 a.2).
+
+a.3 — Ser eterno es propio de Dios. Solo Dios es eterno por esencia, porque solo Él es completamente inmutable. Las criaturas participan de la eternidad en la medida en que participan de su inmutabilidad: los ángeles y santos que gozan de la Palabra tienen «vida eterna»; el fuego del infierno es llamado eterno solo como interminable; las verdades necesarias son eternas en el entendimiento divino (SmTh Iª q.10 a.3).
+
+a.4 — La eternidad difiere del tiempo esencialmente, no solo por carecer de principio y fin (diferencia accidental). La diferencia esencial es que la eternidad es totalidad simultánea, mientras que el tiempo tiene sucesión (antes y después). El tiempo mide el movimiento; la eternidad mide el ser permanente. Incluso si el tiempo fuera perpetuo, se distinguiría de la eternidad por la sucesión (SmTh Iª q.10 a.4).
+
+a.5 — El evo (*aevum*) es medio entre la eternidad y el tiempo. Mide los seres que son inmutables en su ser sustancial pero mutables en sus operaciones (ángeles, almas, cuerpos celestes). El evo no tiene antes ni después en sí mismo, pero le son aplicables; el tiempo tiene antes y después; la eternidad no tiene antes ni después ni le son aplicables (SmTh Iª q.10 a.5).
+
+a.6 — Hay un solo evo, como hay un solo tiempo. Aunque haya múltiples seres perpetuos, todos se miden por el primer ser perpetuo, que es el más simple. Como el tiempo recibe su unidad del primer movimiento, el evo recibe su unidad del primer ser perpetuo (SmTh Iª q.10 a.6).
 
 ### Según Royo Marín (TPCr)
 

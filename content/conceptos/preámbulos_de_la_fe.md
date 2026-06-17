@@ -1,7 +1,7 @@
 # Preámbulos de la fe
 
 > Área: Dogmática / Filosofía
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-17
 
 ## Definición
 
@@ -19,7 +19,21 @@ Dios, principio y fin de todo, puede ser conocido con certeza por la luz natural
 
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás trata la existencia de Dios como preámbulo de la fe en SmTh Iª q.2. Allí establece que la proposición «Dios existe» no es evidente *para nosotros* (a.1), pero sí demostrable a partir de sus efectos (a.2). Distingue dos tipos de demostración: *propter quid* (por la causa) y *quia* (por el efecto). La existencia de Dios se demuestra por la vía del efecto, pues los efectos divinos son más evidentes para nosotros. Presenta las célebres **cinco vías** (a.3): 1) el movimiento, que exige un primer motor inmóvil; 2) la causalidad eficiente, que exige una causa primera incausada; 3) lo contingente, que exige un ser necesario por sí mismo; 4) los grados de perfección, que exigen un máximo que sea causa de toda perfección; 5) el orden del universo, que exige una inteligencia ordenadora. Estas vías no son artículos de fe sino «preámbulos a los artículos de fe» (*praeambula fidei*), cognoscibles por la razón natural, aunque por la debilidad del entendimiento humano la revelación divina también las comunica para que todos tengan acceso seguro a ellas (SmTh Iª q.2 a.2 ad 1).
+Santo Tomás trata la existencia de Dios como preámbulo de la fe en la cuestión 2 de la Primera Parte.
+
+**Iª q.2 — Sobre la existencia de Dios:**
+
+a.1 — La proposición «Dios existe» es evidente en sí misma (pues en Dios sujeto y predicado se identifican: Dios es su mismo ser), pero no es evidente *para nosotros* porque desconocemos la esencia divina. Por tanto, necesita demostración a partir de los efectos. Responde a tres objeciones: (1) el conocimiento innato de Dios es confuso y genérico, como quien sabe que alguien viene pero no quién es; (2) la definición anselmiana de «lo más grande que pueda pensarse» presupone lo que se quiere probar, pues solo quien ya admite que Dios existe acepta que tal realidad exista extramentalmente; (3) que la verdad en general existe es evidente por sí mismo, pero la existencia de la Verdad absoluta (Dios) no es evidente para nosotros (SmTh Iª q.2 a.1).
+
+a.2 — La existencia de Dios es demostrable, no por demostración *propter quid* (desde la causa al efecto), sino *quia* (desde el efecto a la causa): a partir de los efectos, que son más evidentes para nosotros, llegamos a conocer la causa. Distingue entre artículos de fe y preámbulos de la fe: la existencia de Dios no es artículo de fe sino preámbulo, pues «la fe presupone el conocimiento natural, como la gracia presupone la naturaleza» (ad 1). Aunque los efectos no son proporcionados a la causa divina, de ellos puede probarse *que* la causa existe, aunque no *qué* es (SmTh Iª q.2 a.2).
+
+a.3 — Las célebres **cinco vías** demuestran que Dios existe:
+1. *Del movimiento*: todo lo que se mueve es movido por otro, y no cabe proceso infinito; luego hay un primer motor inmóvil.
+2. *De la causa eficiente*: hay un orden de causas eficientes sin posibilidad de regreso infinito; luego hay una causa primera incausada.
+3. *De lo contingente y necesario*: los seres contingentes pueden no existir; si todo fuera contingente, nada existiría ahora; luego hay un ser necesario por sí mismo.
+4. *De los grados de perfección*: las cosas tienen más o menos ser, bondad, verdad; ello presupone un máximo que es causa de toda perfección.
+5. *Del orden del universo*: los seres sin conocimiento obran por un fin; ello exige una inteligencia ordenadora suprema.
+Responde a la objeción clásica del mal (ad 1): Dios, por ser sumamente bueno, no permitiría el mal si no pudiera sacar de él un bien. También responde que tanto la naturaleza como la acción humana requieren reducirse a un primer principio inmutable (ad 2) (SmTh Iª q.2 a.3).
 
 ## Distinciones importantes
 

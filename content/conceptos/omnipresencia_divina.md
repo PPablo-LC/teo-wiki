@@ -1,7 +1,7 @@
 # Omnipresencia divina
 
 > Área: Dogmática / Teología Natural
-> Última actualización: 2026-06-02
+> Última actualización: 2026-06-17
 
 ## Definición
 
@@ -19,7 +19,17 @@ Dios está presente en todas las cosas como el agente está presente en aquello 
 
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás trata la presencia de Dios en las cosas en SmTh Iª q.8. Dios está en todas las cosas (a.1): no por división de su esencia ni por contacto local, sino como el agente está presente en su efecto. Puesto que Dios es el ser mismo subsistente y da el ser a todas las cosas, está presente íntimamente en todo lo que existe, conservándolo en el ser. Dios está en todas partes (a.2): no como los cuerpos (circunscritivamente) ni como los ángeles (definitivamente), sino de modo que todo lugar le está inmediatamente presente. Dios está en todas las cosas por esencia, presencia y potencia (a.3): por esencia en cuanto que les da el ser; por presencia en cuanto que todo lo ve; por potencia en cuanto que todo obra en todas. Estar en todas partes es propio de Dios (a.4): ninguna criatura puede estar en todo lugar del mismo modo, pues toda criatura tiene el ser limitado.
+Santo Tomás trata la presencia de Dios en las cosas en la cuestión 8 de la Ia Pars.
+
+**Iª q.8 — Sobre la presencia de Dios en las cosas:**
+
+a.1 — Dios está en todas las cosas, no dividiendo su esencia ni por contacto local, sino como el agente está presente en su efecto. Como Dios da el ser a todo y lo conserva en el ser, está presente íntimamente en lo más íntimo de cada cosa, pues el ser es lo más formal e íntimo de todo lo que existe. Responde a cuatro objeciones: Dios está sobre todo por excelencia de naturaleza, mas en todo como causa; las cosas están en Dios como contenido (no al revés); la omnipotencia divina obra directamente en todo; en los demonios Dios está en cuanto a su naturaleza pero no en cuanto a su culpa (SmTh Iª q.8 a.1).
+
+a.2 — Dios está en todas partes. No como los cuerpos (circunscritivamente, por extensión ni como los ángeles (definitivamente, por contacto de poder a un lugar), sino repletivamente: llena todos los lugares dando ser a las cosas colocadas que los llenan. Lo incorporal está en un lugar no por dimensión de volumen sino por acción de poder. Dios, como sustancia incorporal indivisible, está totalmente en cada lugar y simultáneamente en todos (SmTh Iª q.8 a.2).
+
+a.3 — Dios está en todas las cosas por esencia, presencia y potencia. Por esencia, como causa del ser de todo; por presencia, como aquello que todo lo ve y tiene a la vista; por potencia, como aquello que todo lo obra. Distingue estos modos para refutar tres errores: maniqueos (negaban poder de Dios sobre lo corporal), epicúreos (negaban providencia sobre lo terreno), y quienes negaban la creación inmediata de todo (SmTh Iª q.8 a.3).
+
+a.4 — Estar en todas partes es propio de Dios ante todo y sobre todo. Ante todo: porque está totalmente, no por partes. Sobre todo: porque, supuestos todos los lugares posibles, necesariamente estaría en todos, pues nada puede existir sin Él. Ninguna criatura puede estar de este modo: ni lo universal (que no tiene el mismo ser en todas partes), ni la materia prima, ni el alma, ni un supuesto cuerpo infinito (SmTh Iª q.8 a.4).
 
 ### Según Royo Marín (TPCr)
 

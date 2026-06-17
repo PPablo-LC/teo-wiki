@@ -1,7 +1,7 @@
 # Unidad de Dios
 
 > Área: Dogmática / Teología Natural
-> Última actualización: 2026-06-02
+> Última actualización: 2026-06-17
 
 ## Definición
 
@@ -19,7 +19,17 @@ La unidad es una propiedad trascendental del ser: todo ser es uno en cuanto indi
 
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás trata la unidad de Dios en SmTh Iª q.11. El uno no añade nada al ser, sino solo la negación de división: uno significa «ser indiviso» (a.1). Hay oposición entre uno y múltiple (a.2): la multitud se opone a la unidad como la división a la indivisión, pero la multitud participa de la unidad en cuanto que cada múltiplo es uno en sí mismo. Dios es uno (a.3) por tres razones: por su simplicidad (carece de composición), por la infinitud de su perfección (que no puede ser comunicada a muchos), y por la unidad del mundo (todo converge a un solo orden). Dios es uno en grado sumo (a.4): es la unidad misma, no solo uno por participación. La unidad divina es el principio de toda unidad creada.
+Santo Tomás trata la unidad de Dios en la cuestión 11 de la Ia Pars.
+
+**Iª q.11 — Sobre la unidad de Dios:**
+
+a.1 — El uno no añade nada al ser, sino solo la negación de división: uno significa «ser indiviso». Todo ser, simple o compuesto, es uno en cuanto indiviso. El uno que es idéntico al ser nada añade; el uno como principio numérico (género de la cantidad) sí añade algo, pero no es ese el sentido en que se dice que Dios es uno. Confundir ambos llevó a los errores de Pitágoras (los números como sustancias) y de Avicena (el uno como añadido) (SmTh Iª q.11 a.1).
+
+a.2 — Hay oposición entre el uno y lo múltiple, pero de dos modos: el uno como principio numérico se opone a lo múltiple como la medida a lo medido; el uno idéntico al ser se opone a lo múltiple como lo indiviso a lo dividido (oposición por privación). La multitud participa siempre de la unidad: nada es múltiple sin ser de algún modo uno (SmTh Iª q.11 a.2).
+
+a.3 — Dios es uno. Tres demostraciones: (1) por su simplicidad: Dios es su propia naturaleza, luego es incomunicable a muchos, como lo individual; (2) por la infinitud de su perfección: si hubiera muchos dioses, tendrían que diferenciarse, y ninguno sería absolutamente perfecto; (3) por la unidad del mundo: la diversidad de seres converge en un solo orden, que requiere un solo ordenador primero (SmTh Iª q.11 a.3).
+
+a.4 — Dios es uno en grado sumo. Para ser máximamente uno se requiere ser máximamente ser y máximamente indiviso. Dios es el ser máximo (el *ipsum esse subsistens* sin determinación) y el más indiviso (absolutamente simple, sin división acto-potencia). Ni el punto ni la unidad numérica son uno en grado sumo, porque no son seres en grado sumo (SmTh Iª q.11 a.4).
 
 ### Según Royo Marín (TPCr)
 

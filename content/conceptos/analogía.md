@@ -1,7 +1,7 @@
 # Analogía
 
 > Área: Dogmática / Teología fundamental
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-17
 
 ## Definición
 
@@ -20,7 +20,13 @@ Todas las criaturas poseen una cierta semejanza con Dios, muy especialmente el h
 El CEC recoge la doctrina del Concilio de Letrán IV (1215): «Entre el Creador y la criatura no se puede señalar una semejanza tal que la desemejanza entre ellos no sea mayor todavía» (§43). Este principio de la «analogía del ser» (analogia entis) implica que nuestras palabras humanas captan realmente a Dios mismo, sin poder expresarlo en su infinita simplicidad. El CEC cita a Santo Tomás: «Nosotros no podemos captar de Dios lo que Él es, sino solamente lo que no es, y cómo los otros seres se sitúan con relación a Él» (§43).
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás trata los nombres divinos en SmTh Iª q.13, donde establece la doctrina de la analogía como vía media entre la univocidad y la equivocidad. Los nombres que decimos de Dios y de las criaturas no son unívocos (no significan lo mismo según la misma razón) ni puramente equívocos (no significan cosas completamente distintas), sino análogos (a.5). Santo Tomás distingue dos tipos de analogía: la de atribución (una perfección se dice de muchos en relación a un término principal) y la de proporcionalidad (una relación semejante entre términos). En la analogía de atribución, la perfección se dice primero de Dios (por esencia) y secundariamente de las criaturas (por participación, a.6). Esta doctrina es fundamental para todo el lenguaje teológico.
+Santo Tomás trata los nombres divinos en SmTh Iª q.13, donde establece la doctrina de la analogía como vía media entre la univocidad y la equivocidad.
+
+a.5 — Los nombres que decimos de Dios y de las criaturas no son unívocos (no significan lo mismo según la misma razón) ni puramente equívocos (no significan cosas completamente distintas), sino análogos. La analogía puede ser de atribución (una perfección se dice de muchos en relación a un término principal) o de proporcionalidad (una relación semejante entre términos). La razón de la analogía radical es que el efecto creado no alcanza la esencia divina ni la iguala, pero se le asemeja imperfectamente (SmTh Iª q.13 a.5).
+
+a.6 — En la analogía de atribución, la perfección se dice primero de Dios (por esencia) y secundariamente de las criaturas (por participación). Aunque nuestro conocimiento parta de las criaturas, el orden de la significación real es de Dios a la criatura. Dios es bueno esencialmente; la criatura es buena por participación de la bondad divina (SmTh Iª q.13 a.6).
+
+Esta doctrina es fundamental para todo el lenguaje teológico.
 
 
 ## Ver también

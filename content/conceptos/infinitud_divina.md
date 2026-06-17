@@ -1,7 +1,7 @@
 # Infinitud divina
 
 > Área: Dogmática / Teología Natural
-> Última actualización: 2026-06-02
+> Última actualización: 2026-06-17
 
 ## Definición
 
@@ -19,7 +19,17 @@ El CEC afirma que Dios es «la plenitud del Ser y de toda perfección, sin orige
 
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás trata la infinitud de Dios en SmTh Iª q.7. Dios es infinito (a.1): no es infinito como lo es la materia (que es infinita por privación de forma), sino como lo es la forma no recibida en materia. Dios es el acto puro subsistente, no limitado por ningún receptáculo; por tanto, es infinito. Solo Dios es infinito por esencia (a.2): ninguna criatura puede ser esencialmente infinita, pues toda criatura tiene el ser recibido y limitado por su esencia. Algunas criaturas pueden tener cierta infinitud relativa (como la duración de un ángel), pero no absoluta. No puede haber un cuerpo infinito en acto (a.3), porque todo cuerpo tiene cantidad determinada y limitada. Tampoco puede haber una multitud infinita en acto (a.4), aunque sí en potencia (como la serie de números).
+Santo Tomás trata la infinitud de Dios en la cuestión 7 de la Ia Pars.
+
+**Iª q.7 — Sobre la infinitud de Dios:**
+
+a.1 — Dios es infinito. No como la materia (infinita por privación de forma, imperfecta), sino como la forma no recibida en materia. Dios es el *ipsum esse subsistens*, no limitado por ningún receptáculo; por tanto, es infinito. El ser divino no es un ser contenido en algo sino que subsiste en sí mismo. La infinitud de la forma no determinada por materia contiene razón de lo perfecto (SmTh Iª q.7 a.1).
+
+a.2 — Solo Dios es infinito por esencia. Ninguna criatura puede ser esencialmente infinita, pues toda criatura tiene el ser recibido y limitado por su esencia. Las formas que subsisten sin materia (como los ángeles) son infinitas en cierto modo (no delimitadas por materia), pero no absolutamente: porque su ser es recibido y no es su propio ser. La materia prima no es ser en acto sino solo en potencia, luego tampoco es infinito absoluto (SmTh Iª q.7 a.2).
+
+a.3 — No puede haber un cuerpo infinito en acto, ni natural ni matemático. Todo cuerpo natural tiene forma sustancial determinada y, por tanto, cantidad determinada; un cuerpo infinito no podría tener movimiento natural. Un cuerpo matemático existente en acto tendría figura determinada, que es finita. Lo infinito no puede darse en la suma (adición) de magnitud, solo en la división (potencial) (SmTh Iª q.7 a.3).
+
+a.4 — No puede haber una multitud infinita en acto. Toda multitud pertenece a una especie de número, y ningún número es infinito. La multitud creada está comprendida en un número determinado por la intención del Creador. Sí es posible una multitud infinita en potencia (como la serie numérica por división continua) (SmTh Iª q.7 a.4).
 
 ### Según Royo Marín (TPCr)
 

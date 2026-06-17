@@ -1,7 +1,7 @@
 # Inmutabilidad divina
 
 > Área: Dogmática / Teología Natural
-> Última actualización: 2026-05-29
+> Última actualización: 2026-06-17
 
 ## Definición
 
@@ -19,7 +19,13 @@ Dios es «la plenitud del Ser y de toda perfección, sin principio ni fin» (CEC
 
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás dedica SmTh Iª q.9 a la inmutabilidad de Dios. Prueba que Dios es completamente inmutable por tres razones (a.1): 1) porque es acto puro sin mezcla de potencialidad, y todo lo que se muda está en potencia; 2) porque es absolutamente simple, y todo cambio implica composición (algo permanece y algo cambia); 3) porque es infinito y contiene toda la plenitud del ser, no pudiendo adquirir nada que antes no tuviera. Ser inmutable es propio de Dios (a.2): solo Dios es inmutable por esencia; toda criatura es mutable, pues participa del ser contingentemente. Las criaturas espirituales (ángeles, almas) tienen mutabilidad según el libre albedrío, aunque no según la naturaleza. Esta doctrina se completa con SmTh Iª q.10 sobre la eternidad divina.
+Santo Tomás dedica la cuestión 9 de la Ia Pars a la inmutabilidad de Dios.
+
+**Iª q.9 — Sobre la inmutabilidad de Dios:**
+
+a.1 — Dios es completamente inmutable. Tres razones: (1) es acto puro sin mezcla de potencia, y todo cambio implica potencia; (2) es absolutamente simple, y todo cambio implica composición (algo permanece y algo cambia); (3) es infinito y contiene toda la plenitud del ser, no pudiendo adquirir nada que antes no tuviera. Responde a las objeciones bíblicas: el «movimiento» que Agustín atribuye a Dios se refiere a operación (entender, amar), no a cambio de potencia a acto; la Sabiduría es llamada «móvil» metafóricamente por difundir su semejanza; el «acercarse» y «alejarse» de Dios son metáforas de la recepción o pérdida de su influjo (SmTh Iª q.9 a.1).
+
+a.2 — Ser inmutable es propio de Dios. Solo Dios es totalmente inmutable. Toda criatura es mutable al menos de algún modo: los cuerpos corruptibles, sustancialmente; los cuerpos celestes, localmente; las sustancias espirituales (ángeles), por ordenación al fin o por elección (libre albedrío); y todas las criaturas, por depender de la potencia divina que puede reducirlas a la nada. En Dios no se da ninguno de estos modos de mutabilidad (SmTh Iª q.9 a.2).
 
 ### Según Royo Marín (TPCr)
 

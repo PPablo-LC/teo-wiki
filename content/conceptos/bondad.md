@@ -1,7 +1,7 @@
 # Bondad
 
 > Área: Dogmática
-> Última actualización: 2026-06-05
+> Última actualización: 2026-06-17
 
 ## Definición
 
@@ -15,7 +15,31 @@ Dios es la bondad misma, sin mezcla de imperfección ni limitación alguna. Todo
 
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás trata el bien en general en SmTh Iª q.5, como propiedad trascendental del ser. El bien y el ser se identifican realmente, aunque el bien añade la razón de apetecible (a.1). El bien es anterior al ser en la razón de fin, pero el ser es anterior al bien absolutamente (a.2). Todo ser, en cuanto ser, es bueno (a.3), pues todo ser, en cuanto está en acto, tiene perfección y es apetecible. La razón de bien se reduce a la causa final (a.4): el bien es la causa final que mueve al agente. El bien consiste en modo, especie y orden (a.5). Se divide en honesto, útil y deleitable (a.6). La bondad de Dios se trata específicamente en SmTh Iª q.6: Dios es el sumo bien (a.2), el único bueno por esencia (a.3), y todas las cosas son buenas por la bondad divina (a.4) —no como si hubiera una bondad separada que informara a las criaturas, sino por emanación y participación.
+Santo Tomás trata el bien en general en la cuestión 5 de la Ia Pars, como propiedad trascendental del ser, y la bondad de Dios en la cuestión 6.
+
+**Iª q.5 — Sobre el bien en general:**
+
+a.1 — El bien y el ser se identifican realmente (pues todo ser, en cuanto perfecto, es apetecible), aunque difieren conceptualmente: el bien añade la razón de apetecible. La bondad de una cosa es su virtud de perfeccionar una buena operación, y no es idéntica a la sustancia (SmTh Iª q.5 a.1).
+
+a.2 — El bien no es anterior al ser conceptualmente; el ente es lo primero que capta el entendimiento. Sin embargo, el bien es anterior al ser en la razón de causa final, porque el fin (causa primaria) es lo primero en la intención del agente. Dionisio pone el bien antes que el ser al considerar a Dios como causa (SmTh Iª q.5 a.2).
+
+a.3 — Todo ser, en cuanto ser, es bueno. Todo ser en cuanto tal está en acto y tiene perfección; lo perfecto tiene razón de apetecible y de bien. El mal no es un ser sino privación del bien debido. La materia prima no es bien más que en potencia (SmTh Iª q.5 a.3).
+
+a.4 — El bien tiene razón de causa final. El bien es lo que todos apetecen, y esto tiene razón de fin. Lo bello, en cambio, se refiere al entendimiento (la vista agrada por la proporción) y pertenece a la causa formal. Pero el bien y lo bello se fundamentan en lo mismo: la forma (SmTh Iª q.5 a.4).
+
+a.5 — El concepto de bien consiste en modo, especie y orden. Algo es perfecto y bueno cuando tiene la forma (especie), lo que presupone la forma (modo: la disposición de los principios materiales y eficientes) y lo que se sigue de la forma (orden: tendencia al fin). Todo bien creado tiene estos tres (SmTh Iª q.5 a.5).
+
+a.6 — División del bien en honesto (apetecido por sí mismo como fin), deleitable (el reposo en la consecución del fin) y útil (apetecido como medio para el fin). Esta es la división del bien humano, pero considerando la razón universal del bien, esta división corresponde al bien en cuanto bien (SmTh Iª q.5 a.6).
+
+**Iª q.6 — Sobre la bondad de Dios:**
+
+a.1 — Ser bueno le corresponde señaladamente a Dios, porque es la primera causa efectiva de todo; el agente es apetecible en cuanto comunica su semejanza. Aunque no todos conocen a Dios explícitamente, todos apetecen su propia perfección, que es participación del ser divino (SmTh Iª q.6 a.1).
+
+a.2 — Dios es el sumo bien. Como causa equívoca (no unívoca), el bien está en Él de modo más sublime que en las criaturas. Al decir «sumo bien» no se añade composición en Dios, sino solo relación de razón: los demás bienes son deficientes comparados con Él (SmTh Iª q.6 a.2).
+
+a.3 — Solo Dios es bueno por esencia. En las criaturas la bondad se añade a la esencia; en Dios, su esencia es su mismo ser, y ningún accidente le adviene. Solo Dios tiene por esencia todo tipo de perfección (SmTh Iª q.6 a.3).
+
+a.4 — Todas las cosas son buenas por la bondad divina como por principio primero, ejemplar, efectivo y final de toda bondad; pero también cada cosa es buena por la bondad creada que formalmente posee, que es participación y semejanza de la bondad divina. Hay una sola bondad primera y muchas bondades participadas (SmTh Iª q.6 a.4).
 
 **Ia-IIae q.18 — Bondad y malicia de los actos humanos en general:**
 
