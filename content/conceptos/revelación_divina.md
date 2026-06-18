@@ -48,6 +48,10 @@ Loring define la Revelación como «la manifestación que Dios ha hecho a los ho
 
 Se relaciona con el [[deseo_de_dios]], el [[conocimiento_natural_de_dios]], la [[tradición_apostólica]], la [[sagrada_escritura]], el [[magisterio_de_la_iglesia]], y la [[virtud_de_la_fe]].
 
+## Analizado para
+
+- [[horn_hard_sayings_jesus]] — convergencia en la revelación divina como autocomunicación de Dios en Cristo; aporta hermenéutica de la revelación progresiva aplicada a pasajes difíciles de los Evangelios y la distinción entre revelación y su interpretación
+
 ## Ver también
 
 [[deseo_de_dios]], [[conocimiento_natural_de_dios]], [[tradición_apostólica]], [[sagrada_escritura]], [[magisterio_de_la_iglesia]], [[alianzas]], [[virtud_de_la_fe]], [[jorge_loring]]

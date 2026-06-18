@@ -31,6 +31,10 @@ En segundo lugar, el VocTeoBib subraya que solo Dios es bueno y que la experienc
 
 El bien y el mal se relacionan con el [[pecado_original]], la [[gracia]], la [[ley]], la [[redención]], la [[justificación]], la [[fe]] y la [[esperanza]]. El triunfo del bien es la [[victoria_de_cristo]] que culmina en la [[consumación_de_los_siglos]].
 
+## Analizado para
+
+- [[clarkson_gospels_human_suffering]] — convergencia en el problema del mal y la respuesta de Dios en Cristo; aporta la tesis de «la belleza como teodicea» y la metáfora del Kintsugi como imagen de cómo Dios transforma el mal en bien
+
 ## Ver también
 
 [[pecado_original]], [[gracia]], [[ley]], [[redención]], [[justificación]], [[libertad]], [[conciencia]], [[voluntad_de_dios]]

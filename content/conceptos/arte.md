@@ -29,6 +29,10 @@ León XIV, en la Misa en la Sagrada Familia de Barcelona, presentó a Gaudí com
 
 Se vincula con la [[belleza]] divina, la [[liturgia]], el [[templo]] como casa de Dios y la [[música_sacra]] como arte al servicio del culto.
 
+## Analizado para
+
+- [[clarkson_gospels_human_suffering]] — convergencia en el arte como expresión de la belleza divina; aporta la tesis de la «belleza como teodicea» y el ejemplo de Tolkien como «teodicea narrativa» que hace presente la verdad del sufrimiento redimido sin predicación explícita
+
 ## Ver también
 
 [[arte_sacro]], [[cultura]], [[liturgia]], [[templo]], [[música_sacra]], [[canto_gregoriano]], [[imágenes_sagradas]]

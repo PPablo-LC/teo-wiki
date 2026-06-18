@@ -27,6 +27,10 @@ San José es poderoso intercesor: «Dice Santa Teresa que nunca pidió una cosa 
 
 San José se relaciona con la [[virgen_maría]] como esposo, con [[jesucristo]] como padre legal, con la [[encarnación]] como custodio del Verbo encarnado, y con la [[sagrada_familia]]. Su papel en la genealogía davídica lo vincula a las [[profecías_mesiánicas]] y al cumplimiento de las Escrituras.
 
+## Analizado para
+
+- [[alexander_marriage_gospels]] — convergencia en San José como esposo virginal y custodio de la Sagrada Familia; aporta la caracterización del matrimonio de José y María como virginal pero profundamente íntimo (comunión de almas, proyecto de vida compartido, intimidad emocional)
+
 ## Ver también
 
 [[virgen_maría]], [[jesucristo]], [[encarnación]], [[concepción_virginal]]

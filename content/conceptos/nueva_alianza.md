@@ -28,6 +28,10 @@ Jesús presenta la Ley del Sinaí a la luz de la gracia de la Nueva Alianza (CEC
 
 [[alianza]], [[antigua_alianza]], [[redención]], [[eucaristía]], [[ley_nueva]], [[gracia]]
 
+## Analizado para
+
+- [[alexander_marriage_gospels]] — convergencia en la Nueva Alianza sellada con la sangre de Cristo; aporta la conexión tipológica entre las Bodas de Caná y la Cruz, donde el agua convertida en vino anticipa la sangre y el agua del costado de Cristo como signos de la Nueva Alianza
+
 ## Referencias
 
 - CEC §613, 1965

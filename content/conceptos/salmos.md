@@ -25,6 +25,10 @@ TPCr (tratado de la oración) se refiere a los Salmos como modelo de oración vo
 
 Se relaciona con el [[salterio]] (los 150 salmos), el [[oficio_divino]], la [[liturgia_de_las_horas]], la [[oración]], los [[laudes]], las [[vísperas]] y la [[salmódia]].
 
+## Analizado para
+
+- [[clarkson_gospels_human_suffering]] — convergencia en los Salmos como oración de lamento y alabanza; aporta el diagnóstico del lamento como práctica cristiana perdida y la recuperación del lenguaje de los Salmos de lamentación como respuesta auténtica al sufrimiento
+
 ## Ver también
 
 [[salterio]], [[oficio_divino]], [[liturgia_de_las_horas]], [[oración]], [[laudes]], [[vísperas]], [[sagrada_escritura]]

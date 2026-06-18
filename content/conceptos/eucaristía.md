@@ -211,6 +211,7 @@ La Carta Apostólica *Una fidelidad que genera futuro* (2025) presenta la Eucari
 - [[brian_cochran_my_personal_emmaus]]
 - [[john_wissler_leading_with_charity]]
 - [[primeros_pasos_en_la_vida_espiritual]]
+- [[alexander_marriage_gospels]] — convergencia en la Eucaristía como sacrificio de la Nueva Alianza; aporta la tipología de las Bodas de Caná donde el agua convertida en vino anticipa la sangre y el agua del costado de Cristo
 
 ## Ver también
 - [[sacramentos]]

@@ -54,6 +54,10 @@ Brown ofrece la historia más detallada de la exégesis patrística en este wiki
 
 La exégesis patrística se relaciona con la [[sagrada_escritura]], la [[tradición_apostólica]], la [[interpretación_de_la_escritura]], la [[tipología]], los [[dogmas]], la [[hermenéutica_bíblica]], los [[géneros_literarios_bíblicos]] y el [[sentido_pleno]]. Es fundamento de la teología patrística que alimenta la [[lectura_espiritual]] y la [[oración]].
 
+## Analizado para
+
+- [[horn_hard_sayings_jesus]] — convergencia en la interpretación de la Escritura según la Tradición viva; aporta aplicación de la exégesis patrística a la interpretación de semitismos hebreos (ej. «odiar» = «amar menos») y lenguaje apocalíptico como convención literaria
+
 ## Ver también
 
 [[sagrada_escritura]], [[interpretación_de_la_escritura]], [[tradición_apostólica]], [[tipología]], [[santos_padres]], [[patrística]], [[hermenéutica_bíblica]]

@@ -32,6 +32,10 @@ Aunque no trata explícitamente la analogía de la fe como principio hermenéuti
 
 La analogía de la fe se relaciona con el [[magisterio_de_la_iglesia]], la [[tradición_apostólica]], los [[dogmas]], la [[interpretación_de_la_escritura]] y la [[regla_de_fe]].
 
+## Analizado para
+
+- [[horn_hard_sayings_jesus]] — convergencia en la analogía de la fe como principio hermenéutico central; aporta aplicación práctica a seis pasajes difíciles de los Evangelios y clasificación tripartita de dificultades bíblicas
+
 ## Ver también
 
 [[magisterio_de_la_iglesia]], [[tradición_apostólica]], [[dogmas]], [[interpretación_de_la_escritura]], [[símbolos_de_la_fe]]

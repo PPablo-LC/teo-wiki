@@ -41,6 +41,10 @@ Royo Marín acude al Magisterio como fuente de autoridad para su doctrina, citan
 
 Se relaciona con la [[revelación_divina]], la [[tradición_apostólica]], la [[sagrada_escritura]], los [[dogmas]], la [[virtud_de_la_fe]], y el [[magisterio_de_la_iglesia]] (artículo ya existente con desarrollo más completo).
 
+## Analizado para
+
+- [[stewart_teaching_kids_gospels]] — convergencia en la autoridad del Magisterio como intérprete auténtico de la Escritura; aporta testimonio de una convertida cuya incorporación a la Iglesia Católica enriqueció su lectura de la Biblia mediante la interpretación magisterial y la tradición eclesial
+
 ## Ver también
 
 [[magisterio_de_la_iglesia]], [[revelación_divina]], [[tradición_apostólica]], [[sagrada_escritura]], [[dogmas]], [[virtud_de_la_fe]]

@@ -60,6 +60,10 @@ La mortificación cristiana, la aceptación de los sufrimientos y la paciencia e
 
 La cruz es el acto consumativo de la [[redención]] y el sacrificio de la [[alianzas|Nueva Alianza]]. Se relaciona con la [[pasión_de_cristo]], la [[eucaristía]] (que la hace presente sacramentalmente), la [[resurrección]] (que sigue a la cruz como victoria), y la [[perfección_cristiana]] (que pasa por la cruz). También con la [[encarnación]], pues el Verbo se encarnó para morir en la cruz.
 
+## Analizado para
+
+- [[clarkson_gospels_human_suffering]] — convergencia en la cruz como kenosis y poder transformante; aporta la contraposición entre el poder kenótico de Cristo y el poder mundano, la crítica de Nietzsche a la cruz, y la teodramática de Balthasar sobre el poder trinitario como autodonación
+
 ## Ver también
 
 [[redención]], [[pasión_de_cristo]], [[eucaristía]], [[resurrección]], [[perfección_cristiana]], [[alianzas]]

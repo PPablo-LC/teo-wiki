@@ -61,6 +61,7 @@ Se relaciona con la [[revelación_divina]] (contenido), la [[tradición_apostól
 
 - [[auténtica_día_1_enfrenta_tus_miedos]] — convergencia en tipología del Éxodo y lectura bíblica para el discernimiento personal
 - [[auténtica_día_3_aporta_al_mundo_con_tus_talentos]] — convergencia en uso de la parábola de las 10 vírgenes (Mt 25) como enseñanza espiritual
+- [[horn_hard_sayings_jesus]] — convergencia en la Escritura como norma de fe; aporta aplicación de la analogía de la fe a la interpretación de pasajes difíciles y la clasificación tripartita de dificultades bíblicas
 
 ## Ver también
 

@@ -35,6 +35,11 @@ Royo Marín no trata directamente la tipología bíblica como método exegético
 
 La tipología es clave para entender la unidad de las [[alianzas]], la [[hermenéutica_bíblica]] y los [[sentidos_de_la_escritura]]. Se relaciona con la [[exégesis_patrística]], la [[teología_de_la_historia]] y la [[profecía_mesiánica]].
 
+## Analizado para
+
+- [[horn_hard_sayings_jesus]] — convergencia en la tipología como hermenéutica bíblica; aporta aplicación de la tipología María-Nueva Eva y la conexión Eva-María en el protoevangelio (Gn 3,15)
+- [[stewart_teaching_kids_gospels]] — convergencia en el uso de la tipología en la catequesis familiar; aporta testimonio de cómo la tipología Abraham-Isaac y las conexiones del leccionario enriquecen la lectura familiar de la Escritura
+
 ## Ver también
 
 [[alianzas]], [[sentidos_de_la_escritura]], [[hermenéutica_bíblica]], [[exégesis_patrística]], [[teología_de_la_historia]], [[cumplimiento_de_las_profecías]]

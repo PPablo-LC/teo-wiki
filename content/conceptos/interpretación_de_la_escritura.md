@@ -47,6 +47,10 @@ Brown trata también la acomodación (HEB §80-81) —uso de la Escritura en sen
 
 [HEB §80-99]
 
+## Analizado para
+
+- [[horn_hard_sayings_jesus]] — convergencia en la analogía de la fe y la interpretación contextual de la Escritura; aporta clasificación tripartita de dificultades bíblicas (internas, externas, morales) y aplicación hermenéutica a seis pasajes difíciles de los Evangelios
+
 ## Ver también
 
 [[sagrada_escritura]], [[tradición_apostólica]], [[magisterio_de_la_iglesia]], [[tipología]], [[hermenéutica_bíblica]], [[sentido_pleno]], [[acomodación_bíblica]], [[géneros_literarios_bíblicos]]

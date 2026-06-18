@@ -61,6 +61,11 @@ María es el camino más corto y seguro para llegar a Cristo. San Luis María Gr
 [[redención]] — María cooperó con su Hijo en la obra de la redención
 [[escatología]] — La Asunción anticipa la resurrección de todos los justos
 
+## Analizado para
+
+- [[horn_hard_sayings_jesus]] — convergencia en la tipología María-Nueva Eva y el título «Mujer» como título mesiánico; aporta desarrollo tipológico Eva-María conectando Gn 3,15 con Jn 2,4 y Jn 19,26
+- [[alexander_marriage_gospels]] — convergencia en la maternidad divina y la intercesión de María; aporta perspectiva del «genio femenino» en Caná como modelo de comunicación del deseo sin control
+
 ## Ver también
 
 [[inmaculada_concepción]], [[asunción_de_maría]], [[maternidad_divina]], [[virginidad_de_maría]], [[mediación_de_maría]], [[corredención]]

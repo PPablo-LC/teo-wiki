@@ -38,6 +38,10 @@ El Capítulo 2 de la Primera Parte está dedicado a la Santísima Trinidad. La i
 ## Relaciones doctrinales
 Se relaciona con [[encarnación]], [[espíritu_santo]], [[visión_beatífica]], [[gracia_santificante]], [[unión_hipostática]], [[inhabitación_trinitaria]].
 
+## Analizado para
+
+- [[clarkson_gospels_human_suffering]] — convergencia en la Trinidad como comunión de amor; aporta la teodramática de Hans Urs von Balthasar sobre el poder en la Trinidad como relacional y autodonante, no coercitivo, aplicado al problema del mal
+
 ## Ver también
 [[teología]], [[dogmas]], [[teología_fundamental]], [[conocimiento_trinitario]], [[propiedades_divinas]], [[actos_nocionales]], [[misiones_divinas]]
 

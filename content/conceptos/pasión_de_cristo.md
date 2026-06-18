@@ -73,6 +73,8 @@ El Misterio Pascual de la cruz y de la resurrección de Cristo está en el centr
 ## Analizado para
 
 - [[auténtica_día_2_lidera_tu_vida_con_dios]] — convergencia en la meditación de Jesús en Getsemaní como modelo de vulnerabilidad y entrega al Padre en el contexto de oración de sanación
+- [[stewart_teaching_kids_gospels]] — convergencia en la centralidad de la Pasión en la fe cristiana; aporta orientación pedagógica sobre cómo enseñar la Pasión a los niños sin edulcorar el sufrimiento de Cristo
+- [[clarkson_gospels_human_suffering]] — convergencia en la Pasión como entrega voluntaria y revelación del amor kenótico de Dios; aporta la teodramática de Balthasar sobre el poder como autodonación trinitaria
 
 ## Relaciones doctrinales
 

@@ -54,6 +54,10 @@ El V Capítulo General ordinario de los Legionarios de Cristo (2026) se sitúa d
 
 [[consejos_evangélicos]], [[estado_religioso]], [[voto_de_pobreza]], [[voto_de_castidad]], [[voto_de_obediencia]], [[perfección_cristiana]]
 
+## Analizado para
+
+- [[alexander_marriage_gospels]] — convergencia en la vida consagrada como testimonio del Reino; aporta la complementariedad entre matrimonio y celibato como vocaciones que se iluminan mutuamente, donde el celibato testimonia que Dios solo basta
+
 ## Referencias
 
 - CEC §914-945

@@ -24,6 +24,10 @@ La teología dogmática es subsidiaria para la teología espiritual, tomando de 
 ## Relaciones doctrinales
 Se relaciona estrechamente con la [[fe]], la [[tradición_apostólica]], la [[revelación_pública]] y la [[obediencia_de_la_fe]].
 
+## Analizado para
+
+- [[pitre_did_jesus_claim_to_be_god]] — convergencia en los motivos de credibilidad; aporta aplicación renovada del trilema de C.S. Lewis ante el desafío de Ehrman y la distinción entre leyenda y biografía antigua
+
 ## Ver también
 [[apologética]], [[dogmas]], [[carácter_eclesial_de_la_fe]]
 

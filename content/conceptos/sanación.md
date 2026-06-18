@@ -34,6 +34,10 @@ El documento «Consideraciones sobre los carismas, la sanación y la vida en el 
 
 Se relaciona con [[milagro]], [[sanación_interior]], [[liberación]], [[misericordia]], [[oración_de_petición]], [[sufrimiento]], [[salvación]]
 
+## Analizado para
+
+- [[clarkson_gospels_human_suffering]] — convergencia en el ministerio de sanación de Jesús como signo de su identidad mesiánica; aporta el paralelo de Aragorn como rey escondido que se revela sanando, y la sanación integral (física, espiritual, relacional) como restauración de la persona
+
 ## Ver también
 
 [[sanación_interior]], [[milagro]], [[liberación]], [[misericordia]], [[uncion_de_los_enfermos]]

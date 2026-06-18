@@ -29,6 +29,10 @@ El santísimo rosario es la devoción mariana por excelencia: «riquísimo sarta
 
 Se relaciona con [[oración_vocal]], [[virgen_maría]], [[meditación]], [[piedad_popular]], [[contemplación]]
 
+## Analizado para
+
+- [[stewart_teaching_kids_gospels]] — convergencia en la práctica del rosario como oración contemplativa familiar; aporta estrategias pastorales para el rosario con niños pequeños, priorizando el amor a la práctica sobre la ejecución perfecta
+
 ## Ver también
 
 [[oración_vocal]], [[oración]], [[virgen_maría]], [[piedad_popular]]

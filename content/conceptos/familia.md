@@ -58,6 +58,7 @@ Se relaciona con [[matrimonio]], [[iglesia_doméstica]], [[santuario_de_la_vida]
 - [[joey_stevens_grit_perseverance]]
 - [[john_wissler_leading_with_charity]]
 - [[sean_glass_call_to_fortitude]]
+- [[stewart_teaching_kids_gospels]] — convergencia en la familia como iglesia doméstica; aporta testimonios contemporáneos y estrategias prácticas de lectura evangélica familiar, integrando la liturgia del día en la vida doméstica
 
 ## Ver también
 [[matrimonio]], [[iglesia_doméstica]], [[santuario_de_la_vida]], [[educación_de_los_hijos]], [[bien_común]], [[subsidiariedad]], [[solidaridad]]

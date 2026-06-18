@@ -21,6 +21,7 @@ Calcedonia confesó «un solo y mismo Cristo, Hijo único en dos naturalezas, si
 ## Analizado para
 
 - [[primeros_pasos_en_la_vida_espiritual]]
+- [[pitre_did_jesus_claim_to_be_god]] — convergencia en la divinidad de Jesucristo; aporta exégesis detallada del Evangelio de Marcos como testimonio de la autoconciencia divina de Jesús (Mc 2, Mc 6, Mc 9) y refutación de la teoría de la «leyenda» de Ehrman
 
 ## Ver también
 [[encarnación]], [[redención]], [[santísima_trinidad]], [[virgen_maría]], [[iglesia_cuerpo_místico]], [[configuración_con_cristo]]

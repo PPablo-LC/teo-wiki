@@ -29,6 +29,10 @@ El modo de leer es capital: no se trata de leer mucho, sino de asimilar bien lo 
 
 Se relaciona con la [[vida_de_oración]], la [[meditación]], la [[dirección_espiritual]] y el plan de vida.
 
+## Analizado para
+
+- [[stewart_teaching_kids_gospels]] — convergencia en la lectura espiritual de los Evangelios como práctica cotidiana; aporta testimonio contemporáneo de lectura familiar de las lecturas del día y el modelo de Santo Tomás Moro como inspiración histórica
+
 ## Ver también
 
 [[vida_de_oración]], [[meditación]], [[dirección_espiritual]]

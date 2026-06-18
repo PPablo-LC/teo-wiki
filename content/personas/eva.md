@@ -25,6 +25,10 @@ Tratado de la creación y del [[pecado_original]]: Eva participó plenamente en 
 
 La tipología Eva-María es constante en la Tradición: como Eva cooperó a la caída, María cooperó a la [[redención]]. El [[nuevo_adán]], [[jesucristo]], repara la desobediencia del primer Adán, y María repara la de Eva.
 
+## Analizado para
+
+- [[alexander_marriage_gospels]] — convergencia en Eva como tipo de María; aporta el análisis de la Caída como ataque a la unidad conyugal, donde el demonio siembra desconfianza entre Eva y Adán antes de la desobediencia
+
 ## Ver también
 
 [[adán]], [[pecado_original]], [[virgen_maría]], [[nuevo_adán]], [[redención]]

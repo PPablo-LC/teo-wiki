@@ -31,6 +31,10 @@ El poder político debe ejercerse dentro del orden moral y garantizar las condic
 
 [[autoridad]], [[bien_común]], [[obediencia]], [[estado]], [[doctrina_social_de_la_iglesia]], [[subsidiariedad]]
 
+## Analizado para
+
+- [[clarkson_gospels_human_suffering]] — convergencia en la distinción entre poder mundano (dominación) y poder cristiano (servicio); aporta la teología del poder kenótico de Cristo (Flp 2) frente al poder como dominación, y la teodramática de Balthasar sobre el poder trinitario como relación y autodonación
+
 ## Referencias
 
 - [CEC §§1897-1904]

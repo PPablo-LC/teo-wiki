@@ -45,6 +45,7 @@ Este concepto se vincula con [[encarnación]], [[humildad_de_cristo]], [[obedien
 ## Analizado para
 
 - [[clarkson_gospels_human_suffering]] — convergencia en la kenosis como poder relacional y autodonación; aporta conexión con el problema del mal y la teodramática de Balthasar
+- [[pitre_did_jesus_claim_to_be_god]] — convergencia en la revelación progresiva de la divinidad de Cristo; aporta exégesis de la auto-revelación kenótica de Jesús en el Evangelio de Marcos mediante alusiones implícitas al AT
 
 ## Ver también
 
