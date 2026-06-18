@@ -15,12 +15,6 @@ Jesús fue trabajador (carpintero, Mc 6,3). Pablo trabajaba manualmente (Hch 18,
 
 ## Perspectivas por fuente
 
-### Según la *Laborem Exercens* (LE)
-
-LE constituye el desarrollo más completo del magisterio sobre el trabajo humano. Define el trabajo como «una clave, quizá la clave esencial, de toda la cuestión social» (LE §3). Desarrolla la distinción entre sentido objetivo (técnica, instrumentos, transformación de la naturaleza) y subjetivo (el hombre como persona que trabaja). La dimensión subjetiva tiene preeminencia: «el primer fundamento del valor del trabajo es el hombre mismo, su sujeto» (LE §6). El hombre, mediante el trabajo, «no sólo transforma la naturaleza adaptándola a las propias necesidades, sino que se realiza a sí mismo como hombre, es más, en un cierto sentido "se hace más hombre"» (LE §9).
-
-LE establece el principio de la prioridad del trabajo sobre el capital (LE §12), denuncia el error del economismo (LE §13) y desarrolla la espiritualidad del trabajo como participación en la obra creadora, redentora y consumadora de Dios (LE §24–27). Jesucristo es presentado como «hombre del trabajo», carpintero en Nazaret, y el evangelio del trabajo abarca desde el Génesis hasta las enseñanzas de San Pablo (LE §25–26).
-
 ### Según el Catecismo (CEC)
 
 El trabajo es parte del orden creado: Dios trabajó seis días y descansó el séptimo, dando modelo a la acción humana (CEC §2171-§2172). El domingo es día de descanso que interrumpe los trabajos cotidianos (§2184-§2188). El trabajo es considerado un deber y un derecho: el hombre debe trabajar para sustentarse y contribuir al bien común (§2427-§2428). El sábado protesta contra las servidumbres del trabajo y el culto al dinero (§2172).
@@ -36,6 +30,12 @@ En el NT, Jesús asume el trabajo humano siendo artesano. Pablo presenta el trab
 ### Según Royo Marín (TPCr)
 
 El trabajo corporal es mencionado como forma de mortificación positiva: «el cilicio, la disciplina, el frío, el calor, el trabajo corporal, largos ratos de rodillas» (TPCr, n. 1063). La mortificación corporal, incluido el trabajo, tiene finalidad reparadora y de propia inmolación. No hay un tratado específico del trabajo como concepto teológico autónomo; aparece como medio ascético.
+
+### Según la *Laborem Exercens* (LE)
+
+LE constituye el desarrollo más completo del magisterio sobre el trabajo humano. Define el trabajo como «una clave, quizá la clave esencial, de toda la cuestión social» (LE §3). Desarrolla la distinción entre sentido objetivo (técnica, instrumentos, transformación de la naturaleza) y subjetivo (el hombre como persona que trabaja). La dimensión subjetiva tiene preeminencia: «el primer fundamento del valor del trabajo es el hombre mismo, su sujeto» (LE §6). El hombre, mediante el trabajo, «no sólo transforma la naturaleza adaptándola a las propias necesidades, sino que se realiza a sí mismo como hombre, es más, en un cierto sentido "se hace más hombre"» (LE §9).
+
+LE establece el principio de la prioridad del trabajo sobre el capital (LE §12), denuncia el error del economismo (LE §13) y desarrolla la espiritualidad del trabajo como participación en la obra creadora, redentora y consumadora de Dios (LE §24–27). Jesucristo es presentado como «hombre del trabajo», carpintero en Nazaret, y el evangelio del trabajo abarca desde el Génesis hasta las enseñanzas de San Pablo (LE §25–26).
 
 ### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
 

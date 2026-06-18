@@ -13,6 +13,10 @@ La remuneración es el instrumento más importante para practicar la justicia en
 
 ## Perspectivas por fuente
 
+### Según el Compendio (CompDS)
+
+El salario es el instrumento que permite al trabajador acceder a los bienes de la tierra [CompDS §302]. La remuneración del trabajo debe permitir al hombre y a su familia una vida digna en el plano material, social, cultural y espiritual [CompDS §302]. El simple acuerdo entre trabajador y patrono no basta para calificar de «justa» la remuneración; la justicia natural es anterior y superior a la libertad del contrato [CompDS §302]. El salario familiar es un salario suficiente que permita mantener y vivir dignamente a la familia, y debe permitir un cierto ahorro para la adquisición de alguna forma de propiedad [CompDS §250]. Comete una grave injusticia quien niega el salario o no lo da a su debido tiempo [CompDS §302].
+
 ### Según la *Laborem Exercens* (LE)
 
 LE dedica una atención central al salario justo, considerándolo «el problema-clave de la ética social» y «la verificación concreta de la justicia de todo el sistema socio-económico» (LE §19). La remuneración del trabajo es «la vía concreta, a través de la cual la gran mayoría de los hombres puede acceder a los bienes que están destinados al uso común» (LE §19).
@@ -22,10 +26,6 @@ LE introduce y desarrolla el concepto de **salario familiar**: una remuneración
 LE reivindica la **revalorización social de las funciones maternas**: la sociedad debe hacer posible que la madre se dedique al cuidado y educación de los hijos «sin obstaculizar su libertad, sin discriminación psicológica o práctica». El abandono obligado de estas tareas por una ganancia retribuida fuera de casa «es incorrecto desde el punto de vista del bien de la sociedad y de la familia» (LE §19).
 
 Además del salario, LE enumera otras prestaciones sociales: asistencia sanitaria (especialmente en accidentes de trabajo), derecho al descanso semanal (domingo) y vacaciones anuales, derecho a pensión y seguro de vejez, y derecho a ambientes de trabajo que no dañen la salud física ni la integridad moral (LE §19).
-
-### Según el Compendio (CompDS)
-
-El salario es el instrumento que permite al trabajador acceder a los bienes de la tierra [CompDS §302]. La remuneración del trabajo debe permitir al hombre y a su familia una vida digna en el plano material, social, cultural y espiritual [CompDS §302]. El simple acuerdo entre trabajador y patrono no basta para calificar de «justa» la remuneración; la justicia natural es anterior y superior a la libertad del contrato [CompDS §302]. El salario familiar es un salario suficiente que permita mantener y vivir dignamente a la familia, y debe permitir un cierto ahorro para la adquisición de alguna forma de propiedad [CompDS §250]. Comete una grave injusticia quien niega el salario o no lo da a su debido tiempo [CompDS §302].
 
 ## Relaciones doctrinales
 

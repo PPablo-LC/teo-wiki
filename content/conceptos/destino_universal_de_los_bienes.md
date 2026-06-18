@@ -15,12 +15,6 @@ La propiedad privada tiene una función social: el propietario es administrador 
 
 ## Perspectivas por fuente
 
-### Según la *Laborem Exercens* (LE)
-
-LE reafirma el principio del destino universal de los bienes como el marco en el que debe entenderse la propiedad privada. La tradición cristiana «siempre lo ha entendido en el contexto más amplio del derecho común de todos a usar los bienes de la entera creación: el derecho a la propiedad privada como subordinado al derecho al uso común, al destino universal de los bienes» (LE §14). El único título legítimo para la posesión de los medios de producción «es que sirvan al trabajo; consiguientemente que, sirviendo al trabajo, hagan posible la realización del primer principio de aquel orden, que es el destino universal de los bienes y el derecho a su uso común» (LE §14).
-
-El **salario justo** es presentado como la vía concreta mediante la cual la mayoría de los hombres accede a los bienes destinados al uso común —tanto los de la naturaleza como los que son fruto de la producción—, constituyendo «la verificación concreta de la justicia de todo el sistema socio-económico» (LE §19). La obligación de prestar subsidio a los desocupados brota «del principio fundamental del orden moral en este campo, esto es, del principio del uso común de los bienes o, para hablar de manera aún más sencilla, del derecho a la vida y a la subsistencia» (LE §18).
-
 ### Según el Catecismo (CEC)
 
 «El séptimo mandamiento prohíbe tomar o retener el bien del prójimo injustamente y perjudicar de cualquier manera al prójimo en sus bienes. Prescribe la justicia y la caridad en la gestión de los bienes terrenos y de los frutos del trabajo de los hombres. Con miras al bien común exige el respeto del destino universal de los bienes y del derecho de propiedad privada» (§2401).
@@ -39,8 +33,6 @@ El CIC recoge el principio del destino universal de los bienes al establecer que
 
 El principio del destino universal de los bienes tiene su raíz en Dios mismo: «Dios ha destinado la tierra y cuanto ella contiene para uso de todos los hombres y pueblos» [CompDS §171]. Es el «primer principio de todo el ordenamiento ético-social» [CompDS §172]. Es un derecho natural, originario, inherente a toda persona, prioritario respecto a cualquier ordenamiento jurídico [CompDS §172]. Todos los demás derechos, incluidos los de propiedad y comercio libre, están subordinados a este principio [CompDS §172]. No se opone al derecho de propiedad privada, sino que indica la necesidad de reglamentarlo: la propiedad privada es un instrumento para el destino universal de los bienes, un medio y no un fin [CompDS §177]. De ahí deriva la función social de la propiedad [CompDS §178]. El principio exige también una extensión a los nuevos bienes del progreso económico y tecnológico [CompDS §179].
 
-### Según el Compendio (CompDS)
-
 El derecho a la propiedad privada está subordinado al principio del destino universal de los bienes y no debe constituir impedimento al trabajo y desarrollo de otros [CompDS §282]. La propiedad privada y pública deben garantizar una economía al servicio del hombre que ponga en práctica este principio [CompDS §283]. Los nuevos conocimientos y tecnologías, como forma particular de propiedad, tienen también un destino universal y deben insertarse en un contexto de normas jurídicas que garanticen su uso según criterios de justicia [CompDS §283]. Las riquezas, aunque poseídas legítimamente, conservan siempre un destino universal; toda forma de acumulación indebida es inmoral [CompDS §328]. El principio del destino universal de los bienes se aplica también al comercio internacional [CompDS §364] y a la solidaridad entre generaciones, haciendo moralmente ilícito descargar los costos actuales sobre las futuras generaciones [CompDS §367].
 
 ### Según el Concilio Vaticano II (ConcVatII)
@@ -52,6 +44,12 @@ GS 71: «La misma propiedad privada tiene también, por su misma naturaleza, una
 ### Según Royo Marín (TPCr)
 
 Royo Marín no trata directamente este principio, pero su doctrina sobre el desprendimiento y la pobreza de espíritu se armoniza con la doctrina social de la Iglesia. La perfección cristiana exige el uso recto de los bienes temporales y la práctica de la [[virtud_de_la_templanza]].
+
+### Según la *Laborem Exercens* (LE)
+
+LE reafirma el principio del destino universal de los bienes como el marco en el que debe entenderse la propiedad privada. La tradición cristiana «siempre lo ha entendido en el contexto más amplio del derecho común de todos a usar los bienes de la entera creación: el derecho a la propiedad privada como subordinado al derecho al uso común, al destino universal de los bienes» (LE §14). El único título legítimo para la posesión de los medios de producción «es que sirvan al trabajo; consiguientemente que, sirviendo al trabajo, hagan posible la realización del primer principio de aquel orden, que es el destino universal de los bienes y el derecho a su uso común» (LE §14).
+
+El **salario justo** es presentado como la vía concreta mediante la cual la mayoría de los hombres accede a los bienes destinados al uso común —tanto los de la naturaleza como los que son fruto de la producción—, constituyendo «la verificación concreta de la justicia de todo el sistema socio-económico» (LE §19). La obligación de prestar subsidio a los desocupados brota «del principio fundamental del orden moral en este campo, esto es, del principio del uso común de los bienes o, para hablar de manera aún más sencilla, del derecho a la vida y a la subsistencia» (LE §18).
 
 ### Según la Encíclica Magnífica Humanitas (MH)
 

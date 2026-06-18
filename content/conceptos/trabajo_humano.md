@@ -17,12 +17,6 @@ El trabajo pertenece a la condición originaria del hombre y precede a su caída
 
 El trabajo pertenece a la condición originaria del hombre y precede a su caída; no es ni un castigo ni una maldición, pero se convierte en fatiga a causa del pecado [CompDS §255-256]. Jesús se hizo semejante a nosotros, dedicó la mayor parte de su vida al trabajo manual junto al banco del carpintero [CompDS §259]. El trabajo humano tiene una doble dimensión: objetiva y subjetiva; la dimensión subjetiva debe tener preeminencia sobre la objetiva porque es la del hombre mismo [CompDS §270-271]. El trabajo es para el hombre y no el hombre para el trabajo [CompDS §272]. El trabajo tiene una intrínseca dimensión social [CompDS §273]. El trabajo es también una obligación, un deber [CompDS §274]. El trabajo confirma la identidad del hombre creado a imagen de Dios [CompDS §275]. El trabajo es un derecho fundamental y un bien para el hombre [CompDS §287].
 
-### Según la *Laborem Exercens* (LE)
-
-La encíclica está íntegramente dedicada al trabajo humano, entendido como «clave, quizá la clave esencial, de toda la cuestión social» (LE §3). El trabajo es una dimensión fundamental de la existencia humana, que distingue al hombre del resto de las criaturas: solo el hombre es capaz de trabajar (LE Introducción). Desarrolla la distinción entre **sentido objetivo** (conjunto de actividades, técnicas e instrumentos para dominar la tierra) y **sentido subjetivo** (el hombre como persona que trabaja). La dimensión subjetiva tiene preeminencia sobre la objetiva: «el primer fundamento del valor del trabajo es el hombre mismo, su sujeto» (LE §6). El trabajo es para el hombre, no el hombre para el trabajo.
-
-LE establece el principio de la prioridad del trabajo sobre el capital: el trabajo es «causa eficiente primaria» y el capital «instrumento o causa instrumental» (LE §12). El trabajo tiene una dimensión trinitaria: participación en la obra del Creador (LE §25), en la cruz redentora de Cristo (LE §27) y anticipación de los nuevos cielos y tierra nueva. Toda la vida de Jesús es presentada como el «evangelio del trabajo» (LE §26). La fatiga del trabajo, unida a la cruz de Cristo, colabora en la redención (LE §27). El trabajo es también fundamento de la familia y de la nación (LE §10).
-
 ### Según el Concilio Vaticano II (ConcVatII)
 
 GS 34: La actividad humana individual y colectiva «responde a la voluntad de Dios». Creado a imagen de Dios, el hombre recibió el mandato de gobernar el mundo en justicia y santidad. Los hombres y mujeres que «procuran el sustento para sí y su familia, realizan su trabajo de forma que resulte provechoso y en servicio de la sociedad, con razón pueden pensar que con su trabajo desarrollan la obra del Creador».
@@ -32,6 +26,12 @@ GS 35: «La actividad humana, así como procede del hombre, así también se ord
 GS 67: «El trabajo humano, autónomo o dirigido, procede inmediatamente de la persona, la cual marca con su impronta la materia sobre la que trabaja y la somete a su voluntad.» Es para el trabajador y su familia el medio ordinario de subsistencia; por él el hombre se une a sus hermanos, puede practicar la verdadera caridad y cooperar al perfeccionamiento de la creación divina. «Con la oblación de su trabajo a Dios, los hombres se asocian a la propia obra redentora de Jesucristo, quien dio al trabajo una dignidad sobreeminente laborando con sus propias manos en Nazaret.» De aquí se deriva el deber y el derecho al trabajo.
 
 GS 68: Debe promoverse la activa participación de todos en la gestión de la empresa. «Entre los derechos fundamentales de la persona humana debe contarse el derecho de los obreros a fundar libremente asociaciones.»
+
+### Según la *Laborem Exercens* (LE)
+
+La encíclica está íntegramente dedicada al trabajo humano, entendido como «clave, quizá la clave esencial, de toda la cuestión social» (LE §3). El trabajo es una dimensión fundamental de la existencia humana, que distingue al hombre del resto de las criaturas: solo el hombre es capaz de trabajar (LE Introducción). Desarrolla la distinción entre **sentido objetivo** (conjunto de actividades, técnicas e instrumentos para dominar la tierra) y **sentido subjetivo** (el hombre como persona que trabaja). La dimensión subjetiva tiene preeminencia sobre la objetiva: «el primer fundamento del valor del trabajo es el hombre mismo, su sujeto» (LE §6). El trabajo es para el hombre, no el hombre para el trabajo.
+
+LE establece el principio de la prioridad del trabajo sobre el capital: el trabajo es «causa eficiente primaria» y el capital «instrumento o causa instrumental» (LE §12). El trabajo tiene una dimensión trinitaria: participación en la obra del Creador (LE §25), en la cruz redentora de Cristo (LE §27) y anticipación de los nuevos cielos y tierra nueva. Toda la vida de Jesús es presentada como el «evangelio del trabajo» (LE §26). La fatiga del trabajo, unida a la cruz de Cristo, colabora en la redención (LE §27). El trabajo es también fundamento de la familia y de la nación (LE §10).
 
 ### Según la Encíclica Magnífica Humanitas (MH)
 

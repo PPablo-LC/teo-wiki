@@ -13,20 +13,6 @@ La doctrina social de la Iglesia se desarrolló en el siglo XIX con el encuentro
 
 ## Perspectivas por fuente
 
-### Según la *Laborem Exercens* (LE)
-
-La *Laborem Exercens* constituye una pieza central de la doctrina social de la Iglesia. En continuidad con la tradición desde la *Rerum Novarum*, la encíclica se sitúa «en una línea de desarrollo orgánico de la acción y enseñanza social de la Iglesia» (LE §2). Juan Pablo II afirma que el trabajo humano es «la clave, quizá la clave esencial, de toda la cuestión social» (LE §3). La doctrina social de la Iglesia tiene su fuente en la Sagrada Escritura y pertenece desde el principio a la enseñanza de la Iglesia misma (LE §3).
-
-LE introduce conceptos fundamentales que pasan a formar parte del patrimonio de la DSI: la distinción entre dimensión objetiva y subjetiva del trabajo; la prioridad del trabajo sobre el capital; la denuncia del economismo como error materialista práctico; la distinción entre empresario directo e indirecto; la reivindicación del salario familiar; la legitimación de la huelga en condiciones determinadas; y el desarrollo de una espiritualidad del trabajo.
-
-La encíclica amplía el horizonte de la DSI a una dimensión mundial, analizando las relaciones entre países desarrollados y en vías de desarrollo, el papel de las empresas multinacionales y las organizaciones internacionales (especialmente la OIT), y aplicando la doctrina social a problemas específicos como el trabajo agrícola, la situación de los minusválidos y la emigración por trabajo.
-
-### Según la Dives in Misericordia (DM)
-
-La encíclica formula principios que pertenecen al núcleo de la doctrina social católica. La justicia social, que la Iglesia promueve, debe ser «corregida» por el amor misericordioso: «la auténtica misericordia es, por decirlo así, la fuente más profunda de la justicia» [DM §14]. La advertencia de Juan Pablo II es directa: los programas basados en la justicia «sufren deformaciones» cuando otras fuerzas negativas (rencor, odio, crueldad) toman la delantera [DM §12].
-
-La encíclica denuncia la desigualdad creciente: «el estado de desigualdad entre hombres y pueblos no solo perdura, sino que va en aumento» [DM §11]. Señala un «mecanismo defectuoso en la base de la economía contemporánea y de la civilización materialista, que no permite a la familia humana alejarse de situaciones tan radicalmente injustas» [DM §11]. La solución no es meramente económica, sino que requiere la civilización del amor, donde el amor misericordioso plasme las relaciones sociales [DM §14].
-
 ### Según el Catecismo (CEC)
 
 El cuarto mandamiento constituye uno de los fundamentos de la doctrina social de la Iglesia (CEC §2198). La doctrina social se desarrolló en el siglo XIX ante la nueva sociedad industrial, y da testimonio del valor permanente de la enseñanza de la Iglesia y del sentido verdadero de su Tradición (CEC §2421). Contiene un cuerpo de doctrina que se articula a medida que la Iglesia interpreta los acontecimientos a la luz de la palabra revelada (CEC §2422). Propone principios de reflexión, criterios de juicio y orientaciones para la acción (CEC §2423). Los aspectos temporales del bien común se ordenan al fin último del hombre (CEC §2419-2425).
@@ -42,6 +28,20 @@ La doctrina social es parte integrante del ministerio de evangelización de la I
 ### Según el Compendio (CompDS)
 
 El Compendio de Doctrina Social de la Iglesia, publicado por el Pontificio Consejo «Justicia y Paz», constituye una exposición orgánica y sistemática de la doctrina social. En él se articulan los principios fundamentales: dignidad de la persona humana, bien común, subsidiariedad, solidaridad y destino universal de los bienes. Sobre el trabajo, afirma su prioridad intrínseca sobre el capital y su doble dimensión objetiva y subjetiva [CompDS §270-277]. La economía debe tener una connotación moral, pues la actividad económica y el comportamiento moral se compenetran íntimamente [CompDS §330-332]. La doctrina social reconoce el papel del libre mercado pero lo sujeta a finalidades morales, previniendo contra la «idolatría» del mercado [CompDS §347-349]. La globalización ofrece oportunidades y riesgos, y debe orientarse a un desarrollo integral y solidario [CompDS §361-363]. La economía no debe absolutizarse sino subordinarse a la dimensión ética y religiosa [CompDS §375].
+
+### Según la Dives in Misericordia (DM)
+
+La encíclica formula principios que pertenecen al núcleo de la doctrina social católica. La justicia social, que la Iglesia promueve, debe ser «corregida» por el amor misericordioso: «la auténtica misericordia es, por decirlo así, la fuente más profunda de la justicia» [DM §14]. La advertencia de Juan Pablo II es directa: los programas basados en la justicia «sufren deformaciones» cuando otras fuerzas negativas (rencor, odio, crueldad) toman la delantera [DM §12].
+
+La encíclica denuncia la desigualdad creciente: «el estado de desigualdad entre hombres y pueblos no solo perdura, sino que va en aumento» [DM §11]. Señala un «mecanismo defectuoso en la base de la economía contemporánea y de la civilización materialista, que no permite a la familia humana alejarse de situaciones tan radicalmente injustas» [DM §11]. La solución no es meramente económica, sino que requiere la civilización del amor, donde el amor misericordioso plasme las relaciones sociales [DM §14].
+
+### Según la *Laborem Exercens* (LE)
+
+La *Laborem Exercens* constituye una pieza central de la doctrina social de la Iglesia. En continuidad con la tradición desde la *Rerum Novarum*, la encíclica se sitúa «en una línea de desarrollo orgánico de la acción y enseñanza social de la Iglesia» (LE §2). Juan Pablo II afirma que el trabajo humano es «la clave, quizá la clave esencial, de toda la cuestión social» (LE §3). La doctrina social de la Iglesia tiene su fuente en la Sagrada Escritura y pertenece desde el principio a la enseñanza de la Iglesia misma (LE §3).
+
+LE introduce conceptos fundamentales que pasan a formar parte del patrimonio de la DSI: la distinción entre dimensión objetiva y subjetiva del trabajo; la prioridad del trabajo sobre el capital; la denuncia del economismo como error materialista práctico; la distinción entre empresario directo e indirecto; la reivindicación del salario familiar; la legitimación de la huelga en condiciones determinadas; y el desarrollo de una espiritualidad del trabajo.
+
+La encíclica amplía el horizonte de la DSI a una dimensión mundial, analizando las relaciones entre países desarrollados y en vías de desarrollo, el papel de las empresas multinacionales y las organizaciones internacionales (especialmente la OIT), y aplicando la doctrina social a problemas específicos como el trabajo agrícola, la situación de los minusválidos y la emigración por trabajo.
 
 ### Según la Encíclica Magnífica Humanitas (MH)
 
