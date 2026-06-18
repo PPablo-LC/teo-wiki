@@ -29,6 +29,10 @@ Pentecostés inaugura el tiempo de la Iglesia, que recibe constantemente el Esp�
 El sacramento de la Confirmación equivale a un verdadero Pentecostés para cada uno de los bautizados, perpetuando en la Iglesia todos los beneficios de Pentecostés (TPCr, Tercera Parte, Libro II, cap. I). Los Apóstoles, cobardes en la Pasión, se presentan en Pentecostés con entereza sobrehumana por el don de fortaleza (TPCr, Tercera Parte, Libro II, cap. II). La glosolalia alcanzó su máximo exponente en la mañana de Pentecostés (TPCr, Cuarta Parte, cap. I).
 
 
+### Según la Redemptoris Mater (RM)
+
+[JPII, Redemptoris Mater §26]: María está presente en el Cenáculo después de la Ascensión, perseverando unánimemente en la oración con los Apóstoles, las mujeres y los hermanos de Jesús (Hch 1,14). Su presencia en Pentecostés no es casual: María, que concibió a Cristo por obra del Espíritu Santo, está ahora presente cuando el mismo Espíritu desciende sobre la Iglesia naciente [RM §26]. Su presencia en el cenáculo significa que la Iglesia nace bajo el signo de la maternidad de María: así como ella estuvo presente en el nacimiento temporal de Cristo, ahora lo está en el nacimiento de su Cuerpo Místico. La Iglesia, congregada en el cenáculo, recibe al Espíritu Santo teniendo a María como Madre y como modelo de docilidad al Espíritu [RM §26].
+
 ## Distinciones importantes
 
 - Pentecostés culmina el tiempo pascual (50 días después de Pascua)

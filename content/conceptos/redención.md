@@ -67,6 +67,10 @@ Para Salvarte presenta la Redención como el rescate del género humano por la s
 
 - [[auténtica_día_2_lidera_tu_vida_con_dios]] — convergencia en la sanación por la sangre de Cristo (imagen de la cruz de la unidad) como aplicación de la redención objetiva a la sanación interior
 
+### Según la Redemptoris Mater (RM)
+
+[JPII, Redemptoris Mater §11, §18-19, §22, §39-40]: María coopera de modo singular en la obra de la redención. El protoevangelio (Gn 3,15) anuncia la lucha contra la serpiente y la victoria final del linaje de la Mujer, que es Cristo; María es la nueva Eva asociada a esta victoria [RM §11]. En la Cruz, María se asocia al sacrificio redentor de su Hijo: «se condolió vehementemente con su Unigénito y se asoció con corazón maternal a su sacrificio, consintiendo con amor en la inmolación de la víctima engendrada por Ella misma» [RM §18, citando LG §58]. Su participación en la redención es única: «Cooperó por la fe y la obediencia a la generación de los hijos de Dios en la economía de la gracia» [RM §22, citando LG §62]. La maternidad de María en el orden de la gracia brota de su participación en el amor redentor del Hijo [RM §39-40].
+
 ### Según Don y Misterio (DyM)
 
 Juan Pablo II relaciona la [[redención]] con su propia vocación sacerdotal: «la Cruz de Cristo ha sido siempre mi punto de referencia. Diría más: el centro de mi vida sacerdotal» [DyM, VIII]. La Eucaristía renueva el sacrificio redentor de Cristo. El sacerdote, al celebrarla, se sumerge en el [[mysterium_fidei]] —el misterio pascual de Cristo—, quedando envuelto por el poder del Espíritu Santo [DyM, VIII].

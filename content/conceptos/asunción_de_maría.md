@@ -21,6 +21,10 @@ El dogma de la Asunción se funda en la singular participación de María en la 
 
 La Asunción es el coronamiento de todos los privilegios de María. Su cuerpo glorioso es un anticipo de la resurrección final de todos los justos. María es tipo y primicia de la Iglesia gloriosa [TPCr, Parte IV, Libro III, Cap. 3].
 
+### Según la Redemptoris Mater (RM)
+
+[JPII, Redemptoris Mater §41, §50]: María, elevada al cielo en cuerpo y alma, es Reina universal. Su Asunción es la consecuencia escatológica de su plenitud de gracia y de su participación en la obra redentora: «la Madre de Cristo está ya presente en el misterio de Cristo y de la Iglesia como Reina» [RM §41]. María es «signo de esperanza segura y de consuelo para el Pueblo de Dios peregrinante» [RM §50]: su Asunción anticipa la resurrección de todos los justos y constituye la prenda de la gloria futura de la Iglesia. La Iglesia peregrina contempla en María asunta al cielo la imagen de su propia consumación escatológica [RM §50].
+
 ## Distinciones importantes
 
 - Asunción vs. Ascensión: Cristo asciende por su propio poder; María es asunta por el poder de Dios

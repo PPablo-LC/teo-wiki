@@ -35,6 +35,10 @@ Sobre el [[judaísmo]], la Iglesia reconoce que «los comienzos de su fe y de su
 Royo Marín menciona a Santo Tomás de Aquino como «obra ecuménica» y «Doctor Común y Universal», cuya doctrina objetiva rebasa los moldes de una determinada escuela. No desarrolla un tratado sistemático sobre ecumenismo, pero su visión de la Iglesia como Cuerpo Místico de Cristo subraya la unidad fundamental de todos los miembros.
 
 
+### Según la Redemptoris Mater (RM)
+
+[JPII, Redemptoris Mater §29-34]: RM dedica una sección importante al ecumenismo, especialmente en relación con las Iglesias orientales que conservan una rica tradición mariológica. La Madre de Dios es «puente» y vínculo de unidad entre la Iglesia latina y las Iglesias orientales, que la veneran profundamente mediante la Theotókos, las diversas fiestas marianas y la rica tradición de la Dormición y la Asunción [RM §29-30]. El diálogo ecuménico debe reconocer que la piedad mariana, cuando está enraizada en la Escritura y la Tradición, puede ser un camino de unidad [RM §30]. La encíclica exhorta a profundizar en la doctrina mariológica desde una perspectiva ecuménica, para que la devoción a María, correctamente entendida y practicada, sea «una ayuda y no un obstáculo» para la unidad de los cristianos [RM §30-31]. El Concilio de Éfeso (431) que definió a María como Theotókos es recordado como un momento de unidad doctrinal que todas las Iglesias orientales comparten [RM §32-34].
+
 ## Distinciones importantes
 
 - **Ecumenismo espiritual**: oración, conversión y santidad como alma del movimiento ecuménico.

@@ -41,6 +41,10 @@ Los bautizados son consagrados como casa espiritual y [[sacerdocio_común]], par
 
 El Pueblo de Dios está presente en todas las razas, y su catolicidad hace que cada parte colabore con las demás y con toda la Iglesia [ConcVatII, LG §13]. La Iglesia peregrinante es necesaria para la salvación [ConcVatII, LG §14].
 
+## ### Según la Redemptoris Mater (RM)
+
+[JPII, Redemptoris Mater §25-28, §42-47]: María es tipo y modelo de la Iglesia como Pueblo de Dios peregrinante. La Iglesia peregrina, «en este mundo, camina entre las persecuciones del mundo y los consuelos de Dios» (LG §8), y en este caminar tiene a María como Madre y guía [RM §25-26]. El Pueblo de Dios, formado por los creyentes de todos los tiempos, se congrega en torno a la fe que María vivió de modo eminente [RM §27-28]. María es «Madre de la Iglesia» no solo porque engendró a Cristo Cabeza, sino también porque engendra espiritualmente a los miembros del Pueblo de Dios [RM §42-44]. Como Madre de la Iglesia, María camina con el Pueblo de Dios peregrinante hacia la patria celestial [RM §47].
+
 ## Distinciones importantes
 
 - No es un pueblo étnico ni político sino religioso y sobrenatural

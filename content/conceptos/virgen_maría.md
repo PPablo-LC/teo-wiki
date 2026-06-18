@@ -72,6 +72,10 @@ La Virgen María es también Madre de la Iglesia, y su protección maternal acom
 
 [TPCr, Parte I, Cap. 5]
 
+### Según la Redemptoris Mater (RM)
+
+[JPII, Redemptoris Mater §1-52]: La *Redemptoris Mater* es una mariología completa centrada en la «peregrinación de la fe» de María. María es presentada como la «llena de gracia» (*Kejaritoméne*), cuyo verdadero nombre revela su lugar en el misterio de Cristo [RM §8-11]. Su *fiat* en la Anunciación es la obediencia de la fe perfecta, comparable a la de Abraham [RM §13-14]. María es la nueva Eva que, por su fe, desata el nudo de la desobediencia de Eva [RM §19]. En Caná se manifiesta por primera vez su mediación materna como intercesión [RM §21]. En la Cruz, Jesús le entrega el discípulo amado como hijo y a ella como madre de la Iglesia [RM §23-24]. La encíclica subraya la única mediación de Cristo (1 Tm 2,5-6), de la cual la mediación de María es participada y subordinada [RM §38-41]. María es Madre de la Iglesia [RM §47], Reina universal [RM §41], tipo y modelo de la Iglesia [RM §42-44]. Es también imagen perfecta de la libertad y de la liberación [RM §37] y signo de esperanza segura para el Pueblo de Dios peregrinante [RM §50]. La encíclica dedica especial atención al Año Mariano [RM §48-50], a la espiritualidad mariana y a la consagración a María según San Luis María Grignion de Montfort [RM §48], a la iconografía mariana [RM §33] y al ecumenismo mariano con las Iglesias orientales [RM §29-34].
+
 ### Según Para Salvarte (PS)
 
 El P. Jorge Loring presenta a la Virgen María como «la más santa de todas las criaturas, llena de gracia y virtudes, concebida sin pecado original, que es Madre de Dios y Madre nuestra, y está en el cielo en cuerpo y alma» [PS §29]. María es «la criatura más excelsa salida de las manos de Dios» [PS §29,2]; Cristo pudo hacer a su Madre a su gusto, y así la dotó de todas las gracias y privilegios. Por encima de Ella sólo Dios; por debajo, todo lo que no sea Dios.

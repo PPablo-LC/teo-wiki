@@ -17,6 +17,10 @@ La virginidad de María manifiesta la iniciativa absoluta de Dios en la Encarnac
 
 ## Perspectivas por fuente
 
+### Según la Redemptoris Mater (RM)
+
+[JPII, Redemptoris Mater §1, §4, §7-11, §51]: La Encarnación es el misterio central de la fe, y María es la que lo hizo posible con su *fiat*. «Al llegar la plenitud de los tiempos, envió Dios a su Hijo, nacido de mujer» (Gál 4,4). Esta plenitud señala el momento en que el Espíritu Santo plasmó en el seno virginal de María la naturaleza humana de Cristo [RM §1]. El misterio de la Encarnación —la unión hipostática del Hijo de Dios con la naturaleza humana— se realiza y cumple precisamente en María, que por ello es «llena de gracia» [RM §9]. María «es Madre de Dios (*Theotókos*), ya que por obra del Espíritu Santo concibió en su seno virginal y dio al mundo a Jesucristo, el Hijo de Dios consubstancial al Padre» [RM §4, citando el Concilio de Éfeso]. La Encarnación constituye el cumplimiento sobreabundante de la promesa del protoevangelio (Gn 3,15) [RM §11]. En el centro del asombro de la fe ante la Encarnación se halla María, que ha sido la primera en experimentar la divinización del hombre mediante la «humanización» del Hijo [RM §51].
+
 ### Según el Catecismo (CEC)
 
 El Catecismo dedica el artículo 3 del Símbolo de la fe a la Encarnación (§461-483). Explica que el Hijo de Dios «se hizo verdaderamente hombre sin dejar de ser verdaderamente Dios» (§464). La Encarnación es obra común de las tres Personas divinas, aunque solo el Hijo asume la naturaleza humana (§258, §267).

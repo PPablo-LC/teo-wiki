@@ -19,6 +19,10 @@ La elección es la clave para comprender el designio de Dios sobre el hombre. En
 
 En el NT, Jesucristo es el Elegido por excelencia. Solo él merece plenamente este nombre: «desde antes de la creación del mundo» fue destinado a recapitular todas las cosas (Ef 1,4.10). La Iglesia, nuevo pueblo de Dios, tiene su origen en la elección de Cristo (Jn 15,16). Los cristianos son «los elegidos» (Rom 16,13; 1Pe 1,1), llamados de las tinieblas para constituir «una raza elegida, un pueblo santo» (1Pe 2,9). La elección es irrevocable: si bien hay un repudio posible en el juicio escatológico (Mt 25,12), este no anula la elección sino que expresa su seriedad divina.
 
+### Según la Redemptoris Mater (RM)
+
+[JPII, Redemptoris Mater §8-9]: María fue elegida por Dios desde la eternidad para ser Madre del Hijo. La encíclica cita Ef 1,4: Dios nos ha bendecido en Cristo «con toda clase de bendiciones espirituales, nos eligió en Él antes de la fundación del mundo para ser santos e inmaculados en su presencia». Esta elección se cumple en María de modo singular: ella es la «llena de gracia» precisamente por haber sido «elegida en Cristo para ser santa e inmaculada» [RM §8]. Su elección no se funda en méritos propios sino en la iniciativa divina: «el Padre la ha elegido como Madre de su Hijo en la Encarnación, y con ella ha preparado el don de la gracia inmerecida para todos los hombres» [RM §9].
+
 ## Distinciones importantes
 
 - Elección gratuita vs. mérito humano: la elección no se funda en cualidades del elegido sino en el amor de Dios

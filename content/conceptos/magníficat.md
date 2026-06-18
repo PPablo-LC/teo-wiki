@@ -17,6 +17,10 @@ El CEC §723 enseña que en el Magníficat María «profiere su cántico de alab
 
 TPCr trata el Magníficat en el contexto de la oración de la Virgen María y de la oración de la Iglesia. Es modelo de oración de alabanza y acción de gracias, que expresa las disposiciones del alma humilde que reconoce las maravillas de Dios. Las palabras del Magníficat (especialmente «ha mirado la humildad de su esclava») son clave para comprender la grandeza de María como Madre de Dios y modelo de toda vida cristiana.
 
+### Según la Redemptoris Mater (RM)
+
+[JPII, Redemptoris Mater §36-37]: El Magníficat es el cántico de la fe de María, que revela la conciencia que ella tiene de su lugar en el plan salvífico de Dios. En él, María proclama que «todas las generaciones la llamarán bienaventurada» (Lc 1,48), dando gracias a Dios «porque ha mirado la humildad de su esclava» [RM §36]. El Magníficat es también una proclamación profética de la justicia de Dios: «dispersa a los soberbios, derriba del trono a los poderosos y enaltece a los humildes; a los hambrientos los colma de bienes y a los ricos los despide vacíos» (Lc 1,51-53). María aparece así como modelo de la opción de Dios por los pobres y humildes [RM §37]. En el Magníficat resuena la verdadera libertad de los hijos de Dios: María es la «expresión perfecta de la libertad de la fe» y anuncia la liberación mesiánica [RM §37].
+
 ## Relaciones doctrinales
 
 El Magníficat es uno de los [[cántico_evangélico]] (junto con el Benedictus y el Nunc Dimittis). Se reza en las [[vísperas]] y expresa la [[oración]] de la Iglesia unida a [[virgen_maría]].

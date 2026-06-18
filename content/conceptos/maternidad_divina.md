@@ -23,6 +23,10 @@ Royo Marín enseña que así como en el orden natural el niño necesita padre y 
 
 [TPCr, Parte I, Cap. 4]
 
+### Según la Redemptoris Mater (RM)
+
+[JPII, Redemptoris Mater §4, §9, §38-39]: La maternidad divina de María fue confirmada solemnemente en el Concilio de Éfeso (431) como verdad de fe: María es la *Theotókos*, porque por obra del Espíritu Santo concibió en su seno virginal y dio al mundo a Jesucristo, el Hijo de Dios consubstancial al Padre. El dogma de la maternidad divina es para la Iglesia como un sello del dogma de la Encarnación [RM §4]. La plenitud de gracia de María se funda en su elección como Madre del Hijo de Dios: en el misterio de Cristo, María está presente ya «antes de la creación del mundo» como aquella que el Padre ha elegido como Madre de su Hijo en la Encarnación [RM §9]. La maternidad divina constituye la dimensión primera y fundamental de la mediación materna de María: desde el principio, supone una apertura total a la persona de Cristo, a toda su obra y misión [RM §39].
+
 ## Distinciones importantes
 
 - María es Madre de Dios en cuanto a la naturaleza humana de Cristo, no en cuanto a la divinidad: engendró al Hijo de Dios según la humanidad, no la divinidad.

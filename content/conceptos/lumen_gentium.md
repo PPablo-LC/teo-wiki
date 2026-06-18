@@ -11,10 +11,17 @@ Constitución dogmática *Lumen Gentium* del Concilio Vaticano II sobre la Igles
 
 La constitución consta de ocho capítulos: el misterio de la Iglesia (LG 1-8), el Pueblo de Dios (LG 9-17), la constitución jerárquica (LG 18-29), los laicos (LG 30-38), la vocación universal a la santidad (LG 39-42), los religiosos (LG 43-47), la índole escatológica (LG 48-51) y la Santísima Virgen María (LG 52-69). Su doctrina central es la Iglesia como [[pueblo_de_dios]], el [[subsistit_in]] de la Iglesia de Cristo en la Iglesia católica (LG 8), la [[colegialidad_episcopal]] (LG 22-23), el [[sacerdocio_común]] de los fieles (LG 10-11) y la [[llamada_universal_a_la_santidad]] (LG 39-42).
 
+## Perspectivas por fuente
+
+### Según la Redemptoris Mater (RM)
+
+[JPII, Redemptoris Mater §1-52]: *Lumen Gentium*, especialmente su capítulo VIII (*De Beata Virgine Maria Matre Dei in mysterio Christi et Ecclesiae*), es el fundamento conciliar de toda la *Redemptoris Mater*. La encíclica retoma el concepto de «peregrinación de la fe» de María (LG §58) como su hilo conductor. Desarrolla las afirmaciones de LG sobre la mediación materna de María (LG §60-62), su maternidad espiritual (LG §53-54) y su presencia en el misterio de Cristo y de la Iglesia (LG §52-53). La encíclica profundiza en la enseñanza de LG sobre María como tipo y modelo de la Iglesia [RM §42-44], como Madre de la Iglesia [RM §47] y como signo de esperanza segura para el Pueblo de Dios peregrinante (cf. LG §68-69) [RM §50].
+
 ## Relaciones doctrinales
 
-[[concilio_vaticano_ii]], [[subsistit_in]], [[colegialidad_episcopal]], [[sensus_fidei]], [[pueblo_de_dios]], [[sacerdocio_común]], [[llamada_universal_a_la_santidad]], [[virgen_maría]]
+## Ver también
 
 ## Referencias
 
 - [ConcVatII, Lumen Gentium, 21 de noviembre de 1964]
+- [JPII, Redemptoris Mater, 25 de marzo de 1987]

@@ -17,6 +17,10 @@ La maternidad espiritual de Maria se funda en su maternidad divina: al dar a luz
 
 El Catecismo afirma que «la maternidad espiritual de Maria se extiende a todos los hombres a los cuales Cristo vino a salvar» (§501). Maria «dio a luz al Hijo, al que Dios constituyo el Primogenito entre muchos hermanos, es decir, de los creyentes, a cuyo nacimiento y educacion colabora con amor de madre».
 
+### Según la Redemptoris Mater (RM)
+
+[JPII, Redemptoris Mater §20-24, §39-40, §42-45]: La maternidad espiritual de María brota de su maternidad divina y se revela progresivamente: en Caná como intercesión materna [RM §21]; en la Cruz como entrega del discípulo a María y de María al discípulo [RM §23-24]; en el cenáculo como presencia materna en la Iglesia naciente [RM §40]. Esta maternidad «en el orden de la gracia» perdura sin cesar hasta la consumación de todos los elegidos [RM §22, citando LG §62]. La maternidad espiritual de María tiene un carácter específicamente materno que la distingue de las demás criaturas que participan de la única mediación de Cristo [RM §38]. María coopera con materno amor a la generación y educación de los hijos e hijas de la Iglesia [RM §44]. La maternidad espiritual determina una relación única e irrepetible entre la madre y cada hijo: el Redentor confía su madre al discípulo y se la da como madre personalmente a cada hombre [RM §45].
+
 ### Según el análisis de conferencias para varones (notas)
 
 > **Nota**: Estas son fuentes complementarias de caracter testimonial y pastoral, no magisterial. Se incluyen por su valor edificante y por su convergencia con la doctrina católica.

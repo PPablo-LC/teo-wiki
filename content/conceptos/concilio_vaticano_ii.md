@@ -43,6 +43,10 @@ El corpus conciliar se articula en tres niveles jerárquicos:
 
 La Carta Apostólica *Una fidelidad que genera futuro* (2025) se sitúa explícitamente en la estela del Concilio Vaticano II, con motivo del LX aniversario de los decretos *Optatam totius* y *Presbyterorum ordinis*. León XIV presenta estos decretos como «textos nacidos de una única inspiración de la Iglesia» que constituyen «un hito fundamental de la reflexión acerca de la naturaleza y la misión del ministerio pastoral» (UFGF §2). Los define como «memoria viva» que debe ser constantemente actualizada, prolongando «la gran obra de actualización del Concilio» (UFGF §3-4). El documento se propone «reconsiderar juntos la identidad y la función del ministerio ordenado a la luz de lo que el Señor pide hoy a la Iglesia, prolongando la gran obra de actualización del Concilio Vaticano II» (UFGF §4), mostrando así la recepción viva del Concilio en el magisterio pontificio [UFGF, 22.12.2025].
 
+### Según la Redemptoris Mater (RM)
+
+[JPII, Redemptoris Mater §2-3, §25, §44]: La *Redemptoris Mater* es un documento postconciliar que se sitúa explícitamente en continuidad con el Concilio Vaticano II, particularmente con el capítulo VIII de *Lumen Gentium* dedicado a la Santísima Virgen. La encíclica retoma la enseñanza conciliar sobre la «peregrinación de la fe» de María (LG §58) y la desarrolla como hilo conductor [RM §2-3]. Recoge la definición de María como «Madre de la Iglesia», proclamada por Pablo VI en el Concilio [RM §47]. La encíclica prolonga y profundiza la eclesiología mariana del Concilio, presentando a María como tipo y modelo de la Iglesia peregrina [RM §25-26, §42-44].
+
 ## Distinciones importantes
 
 - Concilio dogmático-pastoral, no dogmático en sentido estricto como Trento o Vaticano I

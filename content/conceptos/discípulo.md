@@ -21,6 +21,10 @@ A diferencia de los discípulos de los doctores judíos, que podían independiza
 
 [VocTeoBib, «Discípulo»]
 
+### Según la Redemptoris Mater (RM)
+
+[JPII, Redemptoris Mater §23-24, §45]: En la Cruz, Jesús entrega su Madre al discípulo amado: «Mujer, he ahí a tu hijo», y al discípulo: «He ahí a tu Madre» (Jn 19,26-27). Con estas palabras, el discípulo es constituido hijo de María y, en él, todo discípulo de Cristo recibe a María como Madre espiritual [RM §23-24]. La relación entre el discípulo y María es una relación filial personal: «Cristo confía su Madre al discípulo y, al mismo tiempo, se la da como Madre. El discípulo la acoge "en su propio" (Jn 19,27): a partir de entonces es totalmente de ella» [RM §45]. El discípulo modelo de esta acogida es Juan, que representa a todos aquellos que están llamados a seguir a Cristo. En María, todo discípulo encuentra la Madre que engendra y forma espiritualmente a los hijos de la Iglesia [RM §44-45].
+
 ### Según Ensayo-instituyo-a-los-doce (RC-Inst_12)
 
 El ensayo ilumina el discipulado en su dimensión comunitaria y apostólica. El discípulo no es solo un individuo que sigue a un maestro, sino alguien que es llamado por Cristo a formar parte de una comunidad de apóstoles. «Mientras la llamada es personal, el seguimiento del Maestro es comunitario» [RC-Inst_12, Parte I, §II, «Para que estuvieran con Él»].

@@ -21,6 +21,10 @@ La intercesión es "una oración de petición que nos conforma muy de cerca con 
 
 La oración de intercesión se dirige a Dios directamente, pero se puede y debe orar a los santos y a la Santísima Virgen como intercesores (TPCr, Tercera Parte, Libro II, Cap. III). Cristo es el mediador de redención; los santos son mediadores de intercesión. La intercesión de los santos es siempre eficaz, y el poder de su intercesión depende del grado de méritos adquiridos. La intercesión de María es incomparablemente mayor que la de todos los ángeles y santos juntos (TPCr, Tercera Parte, Libro II, Cap. III).
 
+### Según la Redemptoris Mater (RM)
+
+[JPII, Redemptoris Mater §21, §39-40, §44]: La intercesión de María se manifiesta paradigmáticamente en las Bodas de Caná (Jn 2,1-12), donde su mediación materna se expresa como intercesión y solicitud por las necesidades de los hombres [RM §21]. La intercesión de María es permanente y universal: «la Santísima Virgen continúa obteniéndonos los dones de la salvación eterna con su múltiple intercesión» [RM §40, citando LG §62]. Esta intercesión materna no oscurece la única mediación de Cristo (1 Tm 2,5-6), sino que manifiesta su eficacia y fecundidad: Cristo es el único Mediador, y María participa de esta mediación de modo subordinado, materno y universal [RM §38-40]. La intercesión de María se extiende a todos los hombres, pues Ella es «Madre de la unidad de los creyentes» [RM §40].
+
 ## Distinciones importantes
 
 - Intercesión de Cristo: única mediación redentora

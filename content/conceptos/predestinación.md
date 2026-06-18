@@ -31,6 +31,10 @@ Su predestinación es ejemplar de la nuestra (a.3): en cuanto al acto divino, co
 
 La desigual distribución de las gracias depende de la voluntad libérrima de Dios y del misterio de nuestra predestinación en Cristo (TPCr, Segunda Parte). La predestinación es infrustrable por parte de la criatura, ya que es efecto de la voluntad consiguiente de Dios (TPCr, Segunda Parte). Hay que distinguir entre llamamiento (voluntad antecedente, universal) y predestinación (voluntad consiguiente, eficaz). Todos son llamados a la salvación, pero no todos están predestinados (TPCr, Segunda Parte). La perseverancia final es efecto infalible de la predestinación a la gloria (TPCr, Tercera Parte, Libro II, cap. I). El espíritu de oración es grandísima señal de predestinación (TPCr, Tercera Parte, Libro II, cap. III). El don de entendimiento permite entrever el misterio de la predestinación divina (TPCr, Tercera Parte, Libro II, cap. II). La palabra de sabiduría explica los misterios de la predestinación (TPCr, Cuarta Parte, cap. I).
 
+### Según la Redemptoris Mater (RM)
+
+[JPII, Redemptoris Mater §8]: La predestinación de María está íntimamente ligada a la de Cristo. Citando Ef 1,4-5, la encíclica afirma que «en Cristo nos eligió antes de la fundación del mundo para ser santos e inmaculados en su presencia, en el amor; nos predestinó a ser sus hijos adoptivos por Jesucristo». María es la realización más perfecta de esta predestinación: ella es la «llena de gracia» porque en ella la predestinación divina se ha cumplido de modo pleno y eminente. Su predestinación a la maternidad divina es la causa de su plenitud de gracia y de todos sus privilegios singulares [RM §8].
+
 ## Distinciones importantes
 
 - Llamamiento (voluntad antecedente, universal) vs. predestinación (voluntad consiguiente, eficaz)

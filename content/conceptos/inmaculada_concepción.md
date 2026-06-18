@@ -34,6 +34,11 @@ TPCr trata la Inmaculada Concepción como el primero y más fundamental de los p
 
 Loring explica que la Inmaculada Concepción significa que María fue preservada del pecado original desde el primer instante de su concepción en el seno de Santa Ana [PS §29, §30,1]. La Iglesia celebra esta fiesta desde el siglo VII. El pueblo español veneraba este dogma siglos antes de su definición, y Murillo pintó sus treinta cuadros de la Virgen Inmaculada trescientos años antes de la proclamación dogmática. Escoto lo resumió: «Potuit, decuit, ergo fecit» (pudo, convenía, luego lo hizo) [PS §30,1]. El dogma fue definido por Pío IX el 8 de diciembre de 1854. La redención de María fue «preventiva»: así como hay medicinas curativas y preventivas, Ella fue preservada de todo pecado en atención a que iba a ser Madre de Dios [PS §30,1].
 
+### Según la Redemptoris Mater (RM)
+
+[JPII, Redemptoris Mater §9-11]: María es «llena de gracia» (*Kejaritoméne*), nombre que revela su privilegio singular de haber sido preservada del pecado original desde el primer instante de su concepción. Su plenitud de gracia señala que «desde el principio» y «antes de la creación del mundo» (Ef 1,4) el Padre la eligió como Madre de su Hijo [RM §9]. El saludo del ángel la llama «llena de gracia» indicando la total ausencia de pecado: «María es la "llena de gracia", porque en ella habita y habitará el Hijo de Dios» [RM §10]. La gracia con que ha sido dotada desde el principio es la gracia santificante en su máxima perfección, que la hace totalmente apta para la maternidad divina [RM §10-11].
+
+[RM §11]: La Inmaculada Concepción está vinculada al protoevangelio (Gn 3,15): María es la Mujer cuya descendencia aplastará la cabeza de la serpiente. La victoria de Cristo sobre el pecado comienza con la preservación de su Madre de toda mancha de pecado. María es la nueva Eva, enteramente libre del pecado y asociada plenamente a la victoria de Cristo.
 
 ## Distinciones importantes
 

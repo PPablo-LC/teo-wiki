@@ -47,6 +47,10 @@ En virtud del principio del consorcio, Cristo asoció a su Madre a toda su misi�
 
 María es el camino más corto y seguro para llegar a Cristo. San Luis María Grignion de Montfort propone la consagración total a María como método de santificación, que consiste en hacerlo todo por María, con María, en María y para María, a fin de unirse por ella más íntimamente a Jesús (TPCr I, §74).
 
+### Según la Redemptoris Mater (RM)
+
+[JPII, Redemptoris Mater §1-52]: La encíclica desarrolla una mariología articulada en tres ejes: cristológico (María en el misterio de Cristo, §7-24), eclesiológico (María en el centro de la Iglesia peregrina, §25-37) y mediacional (la mediación materna de María, §38-50). Su hilo conductor es la «peregrinación de la fe» de María (LG §58). María es la «llena de gracia», elegida desde la eternidad como Madre del Hijo [RM §8-11]. Su fe es el modelo de toda respuesta creyente [RM §12-19]. En Caná y en la Cruz se revela su maternidad espiritual [RM §20-24]. María es Madre de la Iglesia [RM §47], nueva Eva [RM §19], Reina universal [RM §41], signo de esperanza segura [RM §50]. La encíclica subraya la subordinación de la mediación de María a la única mediación de Cristo (1 Tm 2,5-6) [RM §38-41].
+
 ## Distinciones importantes
 
 - **Maternidad divina vs. maternidad espiritual**: La maternidad divina es única y ontológica (María es Madre de Dios en sentido propio). La maternidad espiritual es su extensión en el orden de la gracia respecto de todos los hombres.

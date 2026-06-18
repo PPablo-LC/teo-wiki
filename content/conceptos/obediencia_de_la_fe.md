@@ -27,6 +27,10 @@ El CEC dedica un artículo completo a la «obediencia de la fe» (§143-149). La
 *Dei Verbum* 5 es la fuente conciliar de la expresión «obediencia de la fe». El Concilio enseña que, cuando Dios revela, hay que prestarle la obediencia de la fe, por la que el hombre se confía libre y totalmente a Dios, prestando «a Dios revelador el homenaje del entendimiento y de la voluntad» y asintiendo voluntariamente a la revelación. Para ello es necesaria la gracia que previene y ayuda, los auxilios internos del Espíritu Santo, que mueve el corazón y lo convierte a Dios, abre los ojos de la mente y da la suavidad en el aceptar y creer la verdad.
 
 
+### Según la Redemptoris Mater (RM)
+
+[JPII, Redemptoris Mater §13-14]: María realiza la obediencia de la fe de manera perfecta en la Anunciación: se abandona en Dios completamente, manifestando «la obediencia de la fe» a aquel que le hablaba a través de su mensajero y prestando «el homenaje del entendimiento y de la voluntad». Responde con todo su «yo» humano, femenino, y en esta respuesta de fe estaban contenidas una cooperación perfecta con la gracia y una disponibilidad perfecta a la acción del Espíritu Santo [RM §13]. La obediencia de la fe de María a lo largo de todo su camino tendrá analogías sorprendentes con la fe de Abraham [RM §14]. Especialmente junto a la Cruz, cuando todo parece un desmentido de las promesas divinas, María demuestra una obediencia de fe heroica, «abandonándose en Dios sin reservas» [RM §18].
+
 ## Distinciones importantes
 
 - **Obediencia de la fe vs. fe informada**: la primera enfatiza el acto de entrega; la segunda el estado habitual informado por la caridad.

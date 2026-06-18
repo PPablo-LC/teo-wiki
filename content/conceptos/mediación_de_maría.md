@@ -21,6 +21,10 @@ La mediación mariana se funda en su Maternidad Divina y en su cooperación en l
 
 María es Mediadora universal de todas las gracias: toda gracia que Dios concede a los hombres pasa por las manos de María. Esta doctrina, aunque no definida como dogma, es de la tradición constante de la Iglesia y tiene gran apoyo en los Padres y Doctores [TPCr, Parte IV, Libro III, Cap. 2].
 
+### Según la Redemptoris Mater (RM)
+
+[JPII, Redemptoris Mater §38-41]: La mediación de María está íntimamente unida a su maternidad y posee un carácter específicamente materno que la distingue de las demás criaturas que participan de la única mediación de Cristo, siendo también la suya una mediación participada [RM §38]. Todo el influjo salvífico de la Santísima Virgen dimana del divino beneplácito y de la superabundancia de los méritos de Cristo; se apoya en la mediación de Cristo, depende totalmente de ella y de la misma saca todo su poder [RM §38, citando LG §60]. La mediación de María es especial y excepcional, brota de su maternidad divina, y se manifiesta como intercesión (Caná), cooperación en la redención (Cruz) y mediación universal en la economía de la gracia [RM §39-40]. Con su múltiple intercesión continúa obteniéndonos los dones de la salvación eterna [RM §40, citando LG §62].
+
 ## Distinciones importantes
 
 - Mediación de María vs. mediación de Cristo: la primera es participada, subordinada y dependiente de la segunda

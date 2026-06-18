@@ -93,6 +93,10 @@ El Concilio de Calcedonia confesó que «no hay más que una sola hipóstasis [o
 ### Según Royo Marín (TPCr)
 La unión hipostática es propia y exclusiva de Cristo. No cabe imaginar una unión más íntima con Dios fuera de la personal o hipostática. La gracia santificante nos une íntimamente con Dios, pero no como la unión hipostática. La maternidad divina de María, en virtud del orden hipostático, supera inmensamente al orden de la gracia y la gloria.
 
+### Según la Redemptoris Mater (RM)
+
+[JPII, Redemptoris Mater §4, §9]: La unión hipostática —la unión de la naturaleza divina y humana en una sola Persona, el Verbo— se realiza en el seno de María por obra del Espíritu Santo. María es la *Theotókos* porque, en virtud de esta unión, el Hijo de Dios consubstancial al Padre tomó carne de Ella [RM §4]. La maternidad divina de María no sería posible sin la unión hipostática: «María es Madre de Dios porque por obra del Espíritu Santo concibió en su seno virginal y dio al mundo a Jesucristo, el Hijo de Dios consubstancial al Padre» [RM §4]. La plenitud de gracia de María (*Kejaritoméne*) se funda en su elección como Madre del Hijo de Dios en el misterio de la Encarnación [RM §9].
+
 ## Distinciones importantes
 - Unión hipostática ≠ inhabitación trinitaria: la primera es personal (Cristo), la segunda es por gracia (los justos)
 - Las dos naturalezas de Cristo permanecen íntegras y distintas después de la unión

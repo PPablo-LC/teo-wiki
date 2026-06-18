@@ -17,6 +17,10 @@ La Nueva Alianza es la alianza mesiánica predicha por los profetas (especialmen
 
 Jesús presenta la Ley del Sinaí a la luz de la gracia de la Nueva Alianza (CEC §577). La muerte de Cristo es a la vez el sacrificio pascual que lleva a cabo la redención definitiva y el sacrificio de la Nueva Alianza (CEC §613). El cáliz de la Nueva Alianza fue anticipado en la Cena y aceptado en Getsemaní (CEC §612). Jesús instituye a sus apóstoles sacerdotes de la Nueva Alianza (CEC §611). La Ley nueva es la gracia del Espíritu Santo dada a los fieles mediante la fe en Cristo (CEC §1965). El Señor confió todos los bienes de la Nueva Alianza a un único Colegio apostólico presidido por Pedro (CEC §816).
 
+### Según la Redemptoris Mater (RM)
+
+[JPII, Redemptoris Mater §1, §13-14, §27]: La fe de María en la Anunciación da comienzo a la Nueva Alianza. Como Abraham, «esperando contra toda esperanza, creyó», así María cree que por el poder del Altísimo se convertirá en la Madre del Hijo de Dios [RM §13-14]. La fe de María, que señala el comienzo de la nueva y eterna Alianza de Dios con la humanidad en Jesucristo, precede el testimonio apostólico de la Iglesia y permanece en el corazón de la Iglesia como un especial patrimonio de la revelación de Dios [RM §27]. El primer *fiat* de María (Lc 1,38) es el sí inaugural de la Nueva Alianza, que prefigura la condición de la Iglesia como esposa y madre [RM §1].
+
 ## Distinciones importantes
 
 - La Nueva Alianza no anula la Antigua sino que la cumple y perfecciona

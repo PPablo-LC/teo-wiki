@@ -35,6 +35,10 @@ La maternidad de María «perdura sin cesar» [DM §9, citando LG §62] y Ella, 
 
 Según DM, «el Magníficat mariano tiene un contenido profético que afecta no solo al pasado de Israel, sino también al futuro del Pueblo de Dios» [DM §10], y sus palabras —«su misericordia de generación en generación»— abarcan también a la generación contemporánea.
 
+### Según la Redemptoris Mater (RM)
+
+[JPII, Redemptoris Mater §4, §8-11, §38-41]: María es la *Theotókos*, Madre de Dios, porque por obra del Espíritu Santo concibió en su seno virginal y dio al mundo a Jesucristo, el Hijo de Dios consubstancial al Padre. El dogma de la maternidad divina, confirmado solemnemente en el Concilio de Éfeso (431), es para la Iglesia como un sello del dogma de la Encarnación [RM §4]. La plenitud de gracia de María (*Kejaritoméne*) se funda en su elección como Madre del Hijo de Dios: en el misterio de Cristo, María está presente ya «antes de la creación del mundo» como aquella que el Padre ha elegido como Madre de su Hijo en la Encarnación [RM §8-9]. La maternidad divina constituye la dimensión primera y fundamental de la mediación de María, que no oscurece la única mediación de Cristo sino que manifiesta su poder [RM §38-39].
+
 ## Distinciones importantes
 
 - **Theotokos** ≠ **Christotokos**: la herejía nestoriana negaba a María el título de Madre de Dios

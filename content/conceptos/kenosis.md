@@ -17,6 +17,10 @@ La kenosis no implica que Cristo dejara de ser Dios o perdiera los atributos div
 
 El Catecismo cita Flp 2,6-8 al tratar la humillación de Cristo: «Se despojó a sí mismo tomando la forma de siervo» (CEC 461). «Cristo, en su condición divina, no hizo alarde de su categoría de Dios; al contrario, se despojó de su grandeza» (CEC 527). La kenosis está unida a la obediencia de Cristo hasta la muerte (CEC 614). La humildad de la encarnación es parte del misterio de la redención (CEC 712).
 
+### Según la Redemptoris Mater (RM)
+
+[JPII, Redemptoris Mater §18]: María, a los pies de la Cruz, participa por medio de la fe en el desconcertante misterio del despojamiento de Cristo. Es «tal vez la más profunda "kénosis" de la fe en la historia de la humanidad». Jesús, «siendo de condición divina, no retuvo ávidamente el ser igual a Dios, sino que se despojó de sí mismo, tomando la condición de siervo» (Flp 2,5-8). En el Gólgota «se humilló a sí mismo, obedeciendo hasta la muerte y muerte de cruz». Por medio de la fe la Madre participa en la muerte del Hijo, en su muerte redentora. María está unida perfectamente a Cristo en su despojamiento [RM §18].
+
 ### Según Royo Marín (TPCr)
 
 La humildad de Cristo es el modelo supremo de toda humildad. «Cristo se anonadó a sí mismo, tomando la forma de siervo, hecho semejante a los hombres». La kenosis es la expresión máxima del amor y la humildad del Hijo de Dios. Los cristianos deben imitar esta humildad de Cristo.

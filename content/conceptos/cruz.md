@@ -40,6 +40,10 @@ En el capítulo 11, la cruz es el símbolo dado por Dios que nos interpreta a no
 
 La Cruz es «a la vez símbolo y memorial de un acontecimiento». Es el emblema de la libertad cristiana: el Hijo de Dios «se despojó a sí mismo» (Flp 2,7). La Pasión de Cristo nos permite lamentarnos sin ira, abriéndonos a la compasión. Las heridas de Cristo, tras su resurrección, «no fueron eliminadas, sino hechas gloriosas». También las heridas del mundo pueden serlo.
 
+### Según la Redemptoris Mater (RM)
+
+[JPII, Redemptoris Mater §18, §23-24, §39-40]: María está presente junto a la Cruz de su Hijo (Jn 19,25), donde se cumple la profecía de Simeón: «a ti misma una espada te atravesará el alma» (Lc 2,35). María se condolió vehementemente con su Unigénito y se asoció con corazón maternal a su sacrificio, consintiendo con amor en la inmolación de la víctima engendrada por Ella misma [RM §18, citando LG §58]. En la Cruz se realiza la entrega de María como madre al discípulo —y en él a todos los hombres— y del discípulo a María como hijo [RM §23-24]. La maternidad de María en el orden de la gracia ha surgido de su participación en el amor redentor del Hijo junto a la Cruz [RM §39-40].
+
 ### Según Royo Marín (TPCr)
 
 Royo Marín presenta la cruz como el medio principal de la perfección cristiana. La aceptación amorosa de la cruz es necesaria para la santidad. No hay santidad sin cruz. La cruz es la prueba del amor y el camino más seguro para alcanzar la unión con Dios.

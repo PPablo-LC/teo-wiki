@@ -19,6 +19,10 @@ Las Iglesias del Oriente, «durante muchos siglos siguieron su propio camino uni
 
 Los cristianos orientales celebran el culto litúrgico, sobre todo la Eucaristía, «fuente de la vida de la Iglesia y prenda de la gloria futura» (UR §15). Tienen verdaderos sacramentos y, «sobre todo por su sucesión apostólica, el sacerdocio y la Eucaristía, por los que se unen a nosotros con vínculos estrechísimos» (UR §15). El Concilio declara que tienen «el derecho y la obligación de regirse según sus propias ordenaciones» (UR §16). Su patrimonio espiritual, litúrgico, disciplinar y teológico «pertenece a la plena catolicidad y apostolicidad de la Iglesia» (UR §17).
 
+### Según la Redemptoris Mater (RM)
+
+[JPII, Redemptoris Mater §29-34]: La encíclica dedica especial atención a las Iglesias orientales por su riquísima tradición mariológica. La Madre de Dios es «un vínculo particular de unión» entre la Iglesia latina y las Iglesias orientales, que desde los primeros siglos celebran en la liturgia la memoria de la Virgen Santísima [RM §29]. La Theotókos es venerada por los orientales con un culto intenso, expresado en himnos, iconografía (la Hodigitria, la Odighitria que «señala el camino»), y las fiestas marianas como la Dormición [RM §29-30]. El Concilio de Éfeso (431), que definió el dogma de la maternidad divina, es patrimonio común de todas las Iglesias orientales y constituye una plataforma de unidad [RM §31]. La encíclica exhorta a que la tradición mariológica oriental sea conocida y valorada por toda la Iglesia, ya que puede enriquecer la comprensión del misterio de María y favorecer el camino ecuménico [RM §30-31].
+
 ## Relaciones doctrinales
 
 Se relaciona con [[ecumenismo]], [[unidad_de_la_iglesia]], [[patriarcas_orientales]], [[ritos_litúrgicos]], [[concilio_vaticano_ii]], [[unitatis_redintegratio]], [[orientalium_ecclesiarum]]
