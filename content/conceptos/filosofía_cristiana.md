@@ -23,6 +23,14 @@ Royo Marín, en su introducción, destaca que la teología se nutrió de la filo
 
 [TPCr, Materiales preliminares; Resumen histórico-bibliográfico]
 
+### Según la *Fides et Ratio* (FR)
+
+*Fides et Ratio* ofrece el tratamiento más completo del concepto de filosofía cristiana. Juan Pablo II distingue dos aspectos en la filosofía cristiana: uno subjetivo, que consiste en «la purificación de la razón por parte de la fe» —la fe libera la razón de la presunción, tentación típica de los filósofos (FR, Cap. VI, §76, refiriéndose a Pascal y Kierkegaard)—, y otro objetivo, que afecta a los contenidos: «la Revelación propone claramente algunas verdades que, aun no siendo por naturaleza inaccesibles a la razón, tal vez no hubieran sido nunca descubiertas por ella» (FR, Cap. VI, §76), como el concepto de un Dios personal, libre y creador, la realidad del pecado, o la concepción de la persona como ser espiritual.
+
+La encíclica aclara que con «filosofía cristiana» no se alude «a una filosofía oficial de la Iglesia, puesto que la fe como tal no es una filosofía». Se indica más bien «un modo de filosofar cristiano, una especulación filosófica concebida en unión vital con la fe» (FR, Cap. VI, §76). La filosofía cristiana abarca «todos los progresos importantes del pensamiento filosófico que no se hubieran realizado sin la aportación, directa o indirecta, de la fe cristiana» (FR, Cap. VI, §76).
+
+La encíclica subraya también el papel de la filosofía como *ancilla theologiae*: el título, aplicado desde la edad patrística, «no fue aplicado para indicar una sumisión servil o un papel puramente funcional de la filosofía en relación con la teología», sino para indicar «la necesidad de la relación entre las dos ciencias y la imposibilidad de su separación» (FR, Cap. VI, §77).
+
 ## Distinciones importantes
 
 - **Filosofía cristiana vs. teología**: la filosofía usa la razón natural; la teología se funda en la Revelación.

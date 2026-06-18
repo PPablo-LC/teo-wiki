@@ -46,6 +46,13 @@ a.9 — La Escritura debe usar metáforas e imágenes tomadas de lo material, po
 
 a.10 — La Escritura tiene varios sentidos: el literal (significado de las palabras) y el espiritual, que se divide en alegórico (la Antigua Ley figura la Nueva), moral (lo ocurrido en Cristo es signo de lo que debemos hacer) y anagógico (figura de la gloria eterna). El sentido literal es el fundamento de los demás; solo de él puede partir el argumento (SmTh Iª q.1 a.10).
 
+### Según la *Fides et Ratio* (FR)
+
+*Fides et Ratio* aborda la naturaleza de la teología y su relación con la filosofía. Juan Pablo II enseña que «la teología se organiza como ciencia de la fe a la luz de un doble principio metodológico: el *auditus fidei* y el *intellectus fidei*» (FR, Cap. VI, §65). Con el primero asume los contenidos de la Revelación; con el segundo responde a las exigencias del pensamiento mediante la reflexión especulativa.
+
+La teología dogmática «debe ser capaz de articular el sentido universal del misterio de Dios Uno y Trino y de la economía de la salvación tanto de forma narrativa, como sobre todo de forma argumentativa» (FR, Cap. VI, §66). «Sin la aportación de la filosofía no se podrían ilustrar contenidos teológicos como, por ejemplo, el lenguaje sobre Dios, las relaciones personales dentro de la Trinidad, la acción creadora de Dios en el mundo, la relación entre Dios y el hombre, y la identidad de Cristo que es verdadero Dios y verdadero hombre» (FR, Cap. VI, §66).
+
+La encíclica insiste en la necesidad de una teología con horizonte metafísico: «Una teología sin un horizonte metafísico no conseguiría ir más allá del análisis de la experiencia religiosa y no permitiría al *intellectus fidei* expresar con coherencia el valor universal y trascendente de la verdad revelada» (FR, Cap. VII, §83).
 
 ## Distinciones importantes
 

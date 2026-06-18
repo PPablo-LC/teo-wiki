@@ -43,6 +43,14 @@ Existe un orden o "jerarquía" de las verdades de la doctrina católica, puesto 
 - Tradición y Escritura constituyen un solo depósito sagrado de la palabra de Dios, confiado a la Iglesia (DV 10).
 - El Magisterio no está sobre la palabra de Dios sino que la sirve, y de este único depósito saca todo lo que propone como verdad revelada que se ha de creer (DV 10).
 
+### Según la *Fides et Ratio* (FR)
+
+*Fides et Ratio* enseña que la verdad revelada en Jesucristo «es anticipación, en nuestra historia, de la visión última y definitiva de Dios que está reservada a los que creen en Él o lo buscan con corazón sincero» (FR, Cap. I, §15). La verdad revelada «no es el fruto maduro o el punto culminante de un pensamiento elaborado por la razón. Por el contrario, ésta se presenta con la característica de la gratuidad, genera pensamiento y exige ser acogida como expresión de amor» (FR, Cap. I, §15).
+
+La encíclica subraya que «la verdad que la Revelación nos hace conocer no se confunde con la verdad alcanzada a través de la reflexión filosófica, ni una hace superflua la otra» (FR, Cap. I, §9, citando el Concilio Vaticano I). Existe un doble orden de conocimiento: el de la razón natural y el de la fe divina, distintos por su principio y por su objeto (FR, Cap. I, §9).
+
+La verdad revelada en Cristo tiene además un carácter personal: «Jesucristo, Palabra hecha carne, 'hombre enviado a los hombres', habla las palabras de Dios (Jn 3,34) y realiza la obra de la salvación que el Padre le encargó» (FR, Cap. I, §11, citando DV 4). Es «la verdadera estrella que orienta al hombre que avanza entre los condicionamientos de la mentalidad inmanentista y las estrecheces de una lógica tecnocrática» (FR, Cap. I, §15).
+
 ## Distinciones importantes
 
 - **Revelación pública vs. revelaciones privadas**: la Revelación pública concluyó con Cristo y es normativa para siempre; las revelaciones privadas no pertenecen al depósito de la fe y no pueden mejorarla ni corregirla.

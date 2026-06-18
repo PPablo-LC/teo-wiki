@@ -31,6 +31,16 @@ La doctrina social es expresión del ministerio de enseñanza de la Iglesia: el 
 
 Royo Marín acude al Magisterio como fuente de autoridad para su doctrina, citando encíclicas y documentos pontificios (especialmente la Mystici Corporis y la Mediator Dei). El Magisterio ordinario de la Iglesia propone como verdad de fe la existencia de los dones del Espíritu Santo en todos los fieles en gracia (TPCr, Segunda Parte, Cap. I). La dirección espiritual y la enseñanza teológica deben estar siempre en conformidad con el Magisterio de la Iglesia.
 
+### Según la *Fides et Ratio* (FR)
+
+*Fides et Ratio* dedica su Capítulo V a las intervenciones del Magisterio en cuestiones filosóficas. Juan Pablo II afirma que «la Iglesia no propone una filosofía propia ni canoniza una filosofía en particular con menoscabo de otras» (FR, Cap. V, §49). La razón de esta cautela es que «la filosofía, incluso cuando se relaciona con la teología, debe proceder según sus métodos y sus reglas» (FR, Cap. V, §49).
+
+Sin embargo, el Magisterio tiene el deber de intervenir «cuando tesis filosóficas discutibles amenazan la comprensión correcta del dato revelado y cuando se difunden teorías falsas y parciales que siembran graves errores, confundiendo la simplicidad y la pureza de la fe del pueblo de Dios» (FR, Cap. V, §49). «Corresponde al Magisterio indicar, ante todo, los presupuestos y conclusiones filosóficas que fueran incompatibles con la verdad revelada» (FR, Cap. V, §50).
+
+Juan Pablo II recuerda que la Iglesia tiene «el deber de indicar lo que en un sistema filosófico puede ser incompatible con su fe» (FR, Cap. V, §50). Cuando los obispos ejercen este discernimiento, tienen la misión de ser «'testigos de la verdad' en el cumplimiento de una diaconía humilde pero tenaz, que todos los filósofos deberían apreciar, en favor de la *recta ratio*» (FR, Cap. V, §50).
+
+Este discernimiento «no debe entenderse en primer término de forma negativa, como si la intención del Magisterio fuera eliminar o reducir cualquier posible mediación. Al contrario, sus intervenciones se dirigen en primer lugar a estimular, promover y animar el pensamiento filosófico» (FR, Cap. V, §51).
+
 ## Distinciones importantes
 
 - Magisterio solemne (extraordinario): definiciones ex cathedra del Papa y Concilios ecuménicos

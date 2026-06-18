@@ -33,6 +33,15 @@ El CEC, siguiendo la Constitución Dogmática *Dei Verbum* del Concilio Vaticano
 ### Según el Concilio Vaticano II (ConcVatII)
 
 La Constitución Dogmática *Dei Verbum* dedica su capítulo I a la revelación en sí misma (DV 2-6). Dios, por su sabiduría y bondad, dispuso revelarse a Sí mismo y dar a conocer el misterio de su voluntad (DV 2). La revelación se realiza «con hechos y palabras intrínsecamente conexos entre sí» (DV 2), de modo que las obras manifiestan y confirman la doctrina, y las palabras proclaman las obras. Dios preparó la revelación evangélica desde el origen, llamando a Abraham, instruyendo a Israel por los Patriarcas y Profetas (DV 3). Jesucristo, Verbo encarnado, completa la revelación con su presencia, palabras, obras, milagros, muerte, resurrección y el envío del Espíritu de verdad (DV 4). La economía cristiana, como alianza nueva y definitiva, no cesará ni hay que esperar otra revelación pública antes de la manifestación gloriosa de Cristo (DV 4).
+
+### Según la *Fides et Ratio* (FR)
+
+*Fides et Ratio* recoge la enseñanza de los dos Concilios Vaticanos sobre la revelación. Juan Pablo II enseña que «en la base de toda la reflexión que la Iglesia lleva a cabo está la conciencia de ser depositaria de un mensaje que tiene su origen en Dios mismo» (FR, Cap. I, §7). En el origen del ser del creyente hay «un encuentro, único en su género, en el que se manifiesta un misterio oculto en los siglos, pero ahora revelado» (FR, Cap. I, §7, citando DV 2).
+
+La encíclica subraya que la revelación de Dios «se inserta, pues, en el tiempo y la historia, más aún, la encarnación de Jesucristo tiene lugar en la 'plenitud de los tiempos'» (FR, Cap. I, §11, citando Ga 4,4). La verdad revelada en Cristo «no puede encerrarse en un restringido ámbito territorial y cultural, sino que se abre a todo hombre y mujer que quiera acogerla como palabra definitivamente válida para dar sentido a la existencia» (FR, Cap. I, §12).
+
+La revelación, sin embargo, «está llena de misterio» (FR, Cap. I, §13). El conocimiento que se tiene del rostro de Jesús «se caracteriza por el aspecto fragmentario y por el límite de nuestro entendimiento. Sólo la fe permite penetrar en el misterio, favoreciendo su comprensión coherente» (FR, Cap. I, §13). Juan Pablo II recuerda también que «la Revelación introduce en nuestra historia una verdad universal y última que induce a la mente del hombre a no pararse nunca» (FR, Cap. I, §14).
+
 ### Según Para Salvarte (PS)
 
 Loring define la Revelación como «la manifestación que Dios ha hecho a los hombres de Sí mismo y de aquellas otras verdades necesarias o convenientes para la salvación eterna» [PS §38,2]. La Revelación concluyó con los Apóstoles. La doctrina revelada se encuentra en la Sagrada Escritura y en la Tradición, pues «no todas las verdades de la fe están en la Biblia» [PS §38,2]. El principio protestante de «solo la Escritura» no es válido, porque ni siquiera esa doctrina está en la Biblia. La Revelación presupone hechos y palabras exteriores, pero «acontece fundamentalmente en el corazón del hombre», y tiene su expresión correlativa en la fe, que es igualmente don divino [PS §38,2].

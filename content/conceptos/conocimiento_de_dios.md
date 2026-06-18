@@ -59,7 +59,15 @@ La perfección cristiana supone un conocimiento cada vez más profundo de Dios, 
 
 ### Según Para Salvarte (PS)
 
-Para Salvarte dedica el capítulo 3 a mostrar que Dios es cognoscible con la razón a través de las criaturas (PS §03). Siguiendo a San Pablo —«lo invisible de Dios se conoce con la razón a través de las criaturas» (Rom 1,20)—, Loring argumenta que el orden del cosmos, la complejidad del ojo humano, los instintos animales y la constitución misma de la materia son «huellas» que revelan un Creador inteligente (PS §03,1). Rechaza el azar como explicación suficiente: «la razón suficiente de las leyes que rigen esta evolución es la inteligencia de Dios» (PS §03,1,14). El conocimiento de Dios, según Loring, no requiere fe sobrenatural, sino simple rectitud de razón al contemplar la naturaleza.
+Para Salvarte dedica el capítulo 3 a mostrar que Dios es cognoscible con la razón a través de las criaturas (PS §03). Siguiendo a San Pablo —«lo invisible de Dios se conoce con la razón a través de las criaturas» (Rom 1,20)—, Loring argumenta que el orden del cosmos, la complejidad del ojo humano, los instintos animales y la constitución misma de la materia son «huellas» que revelan un Creador inteligente (PS §03,1). Rechaza el azar como explicación suficiente: «la razón suficiente de las leyes que rigen esta evolución es la inteligencia de Dios» (PS §03,1,14). El conocimiento de Dios, según Loring, no requiere fe supernatural, sino simple rectitud de razón al contemplar la naturaleza.
+
+### Según la *Fides et Ratio* (FR)
+
+*Fides et Ratio* profundiza en el conocimiento de Dios desde la perspectiva de la filosofía y la Revelación. Juan Pablo II enseña que «en lo más profundo del corazón del hombre está el deseo y la nostalgia de Dios» (FR, Cap. III, §24). Existe un camino que el hombre puede recorrer: «inicia con la capacidad de la razón de levantarse más allá de lo contingente para ir hacia lo infinito» (FR, Cap. III, §24).
+
+La encíclica recoge la enseñanza del libro de la Sabiduría: «de la grandeza y hermosura de las criaturas, se llega, por analogía, a contemplar a su Autor» (FR, Cap. II, §19, citando Sb 13,5). Reconoce así «un primer paso de la Revelación divina, constituido por el maravilloso 'libro de la naturaleza', con cuya lectura, mediante los instrumentos propios de la razón humana, se puede llegar al conocimiento del Creador» (FR, Cap. II, §19).
+
+San Pablo, en Romanos 1,20, «expresa una profunda verdad: a través de la creación los 'ojos de la mente' pueden llegar a conocer a Dios» (FR, Cap. II, §22). Juan Pablo II afirma que «con terminología filosófica podríamos decir que en este importante texto paulino se afirma la capacidad metafísica del hombre» (FR, Cap. II, §22). Sin embargo, debido al pecado original «quedó mermada esta facilidad de acceso a Dios creador» (FR, Cap. II, §22).
 
 ## Distinciones importantes
 

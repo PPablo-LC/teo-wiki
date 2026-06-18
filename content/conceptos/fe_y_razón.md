@@ -33,6 +33,14 @@ La teología utiliza la razón para explicar, desarrollar y defender los misteri
 
 [TPCr, Introducción General]
 
+### Según la *Fides et Ratio* (FR)
+
+*Fides et Ratio* es la encíclica más sistemática del Magisterio sobre la relación entre fe y razón. Juan Pablo II afirma desde el inicio que «la fe y la razón son como las dos alas con las cuales el espíritu humano se eleva hacia la contemplación de la verdad» (FR, Introducción). La encíclica desarrolla la tesis de que la fe y la razón son dos órdenes de conocimiento distintos pero complementarios, que proceden de Dios como fuente común y por tanto no pueden contradecirse (FR, Cap. IV, §43, citando a santo Tomás).
+
+La razón posee una autonomía legítima dentro de su propio ámbito, pero «rechazar las aportaciones de verdad que derivan de la revelación divina significa cerrar el paso a un conocimiento más profundo de la verdad, dañando la misma filosofía» (FR, Cap. VI, §75). La fe, por su parte, «no teme la razón, sino que la busca y confía en ella. Como la gracia supone la naturaleza y la perfecciona, así la fe supone y perfecciona la razón» (FR, Cap. IV, §43).
+
+La separación entre fe y razón ha empobrecido a ambas: «La razón, privada de la aportación de la Revelación, ha recorrido caminos secundarios [...]. La fe, privada de la razón, ha subrayado el sentimiento y la experiencia, corriendo el riesgo de dejar de ser una propuesta universal» (FR, Cap. IV, §48).
+
 ## Distinciones importantes
 
 - **Preámbulos de la fe**: verdades racionales que preparan para la fe (existencia de Dios, inmortalidad del alma).
