@@ -1,7 +1,7 @@
 # Trabajo
 
 > Área: Moral / Doctrina Social
-> Última actualización: 2026-06-02
+> Última actualización: 2026-06-17
 
 ## Definición
 
@@ -14,6 +14,12 @@ En el AT, el trabajo es parte del plan creador de Dios: el hombre fue puesto en 
 Jesús fue trabajador (carpintero, Mc 6,3). Pablo trabajaba manualmente (Hch 18,3) y ordena: «El que no quiera trabajar, que no coma» (2 Tes 3,10). El trabajo es servicio a Dios y a la comunidad. La justicia social exige el salario justo (Sant 5,4).
 
 ## Perspectivas por fuente
+
+### Según la *Laborem Exercens* (LE)
+
+LE constituye el desarrollo más completo del magisterio sobre el trabajo humano. Define el trabajo como «una clave, quizá la clave esencial, de toda la cuestión social» (LE §3). Desarrolla la distinción entre sentido objetivo (técnica, instrumentos, transformación de la naturaleza) y subjetivo (el hombre como persona que trabaja). La dimensión subjetiva tiene preeminencia: «el primer fundamento del valor del trabajo es el hombre mismo, su sujeto» (LE §6). El hombre, mediante el trabajo, «no sólo transforma la naturaleza adaptándola a las propias necesidades, sino que se realiza a sí mismo como hombre, es más, en un cierto sentido "se hace más hombre"» (LE §9).
+
+LE establece el principio de la prioridad del trabajo sobre el capital (LE §12), denuncia el error del economismo (LE §13) y desarrolla la espiritualidad del trabajo como participación en la obra creadora, redentora y consumadora de Dios (LE §24–27). Jesucristo es presentado como «hombre del trabajo», carpintero en Nazaret, y el evangelio del trabajo abarca desde el Génesis hasta las enseñanzas de San Pablo (LE §25–26).
 
 ### Según el Catecismo (CEC)
 

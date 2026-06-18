@@ -1,7 +1,7 @@
 # Sindicatos
 
 > Área: Doctrina Social
-> Última actualización: 2026-05-25
+> Última actualización: 2026-06-17
 
 ## Definición
 
@@ -12,6 +12,16 @@ Asociaciones de trabajadores para la defensa de los intereses vitales de los hom
 Los sindicatos se han desarrollado sobre la base de la lucha de los trabajadores para la tutela de sus justos derechos. Son promotores de la lucha por la justicia social, entendida como defensa «en favor» del justo bien y no como lucha «contra» los demás. No tienen carácter de partidos políticos ni deben estar sometidos a ellos. Ante la globalización, están llamados a renovarse y ampliar su radio de acción solidaria.
 
 ## Perspectivas por fuente
+
+### Según la *Laborem Exercens* (LE)
+
+LE dedica una sección completa a la importancia de los sindicatos (LE §20). Reconoce el derecho de los trabajadores a asociarse: los sindicatos tienen como finalidad «la defensa de los intereses vitales de los hombres empleados en las diversas profesiones» (LE §20). Son «un elemento indispensable de la vida social, especialmente en las sociedades modernas industrializadas».
+
+LE distingue los sindicatos modernos de las corporaciones artesanas medievales: aquellos han crecido sobre la base de la lucha de los trabajadores «para la tutela de sus justos derechos frente a los empresarios y a los propietarios de los medios de producción» (LE §20).
+
+La doctrina social católica no considera los sindicatos como reflejo de la lucha de clases, sino como «un exponente de la lucha por la justicia social». Esta lucha «debe ser vista como una dedicación normal "en favor" del justo bien» y «no es una lucha "contra" los demás» (LE §20). Los sindicatos no tienen carácter de partidos políticos «que luchan por el poder y no deberían ni siquiera ser sometidos a las decisiones de los partidos políticos o tener vínculos demasiado estrechos con ellos» (LE §20).
+
+Los sindicatos tienen un empeño instructivo, educativo y de promoción de la autoeducación. Su objetivo debe ser que el trabajador pueda no solo «tener» más, sino ante todo «ser» más, realizando más plenamente su humanidad (LE §20). Las exigencias sindicales no pueden transformarse en «egoísmo de grupo o de clase» (LE §20). LE también reconoce la **huelga** como método legítimo en las debidas condiciones, pero advierte contra su abuso (LE §20).
 
 ### Según el Compendio (CompDS)
 

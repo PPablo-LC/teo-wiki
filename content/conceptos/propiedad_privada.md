@@ -1,7 +1,7 @@
 # Propiedad privada
 
 > Área: Moral / Doctrina Social
-> Última actualización: 2026-05-25
+> Última actualización: 2026-06-17
 
 ## Definición
 
@@ -12,6 +12,16 @@ Derecho legítimo a poseer bienes, subordinado al principio del destino universa
 La propiedad privada se adquiere sobre todo mediante el trabajo. Los medios de producción no pueden ser poseídos contra el trabajo ni para poseer. Su posesión se vuelve ilegítima cuando sirve para impedir el trabajo de otros u obtener ganancias que no son fruto de la expansión global del trabajo. La propiedad privada y pública deben garantizar una economía al servicio del hombre.
 
 ## Perspectivas por fuente
+
+### Según la *Laborem Exercens* (LE)
+
+LE aborda la propiedad privada en el contexto del conflicto entre trabajo y capital (LE §14). Reafirma la doctrina de la Iglesia: la tradición cristiana «no ha sostenido nunca este derecho como absoluto e intocable. Al contrario, siempre lo ha entendido en el contexto más amplio del derecho común de todos a usar los bienes de la entera creación: el derecho a la propiedad privada como subordinado al derecho al uso común, al destino universal de los bienes» (LE §14).
+
+LE especifica que la propiedad «se adquiere ante todo mediante el trabajo, para que ella sirva al trabajo». Los medios de producción «no pueden ser poseídos contra el trabajo, no pueden ser ni siquiera poseídos para poseer, porque el único título legítimo para su posesión —ya sea en la forma de la propiedad privada, ya sea en la de la propiedad pública o colectiva— es que sirvan al trabajo» (LE §14).
+
+La encíclica critica tanto el «rígido» capitalismo (que defiende el derecho exclusivo a la propiedad privada de los medios de producción como un dogma intocable) como el colectivismo (la simple substracción de los medios de producción de las manos de sus propietarios privados no es suficiente para socializarlos de modo satisfactorio). Propone formas de copropiedad y participación de los trabajadores en la gestión y beneficios (LE §14).
+
+El **argumento personalista** (LE §15) sostiene que la propiedad privada de los medios de producción se justifica porque permite al trabajador la conciencia de trabajar «en algo propio», siendo corresponsable y coartífice en el puesto de trabajo.
 
 ### Según el Código de Derecho Canónico (CIC)
 

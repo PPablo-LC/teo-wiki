@@ -1,7 +1,7 @@
 # Solidaridad
 
 > Área: Moral
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-17
 
 ## Definición
 
@@ -12,6 +12,12 @@ Virtud social, principio de la doctrina social de la Iglesia, que expresa la exi
 La solidaridad se manifiesta en la distribución de bienes, la remuneración del trabajo y el esfuerzo por un orden social más justo. Es una exigencia tanto de la justicia como de la caridad. En el plano sobrenatural, la solidaridad entre los miembros del Cuerpo Místico de Cristo hace que el bien o el mal de cada uno repercuta en todos.
 
 ## Perspectivas por fuente
+
+### Según la *Laborem Exercens* (LE)
+
+LE desarrolla la solidaridad en el ámbito del trabajo como un **movimiento de solidaridad de los hombres del trabajo** y de solidaridad con los hombres del trabajo. La llamada a la solidaridad surgió como reacción «contra la degradación del hombre como sujeto del trabajo, y contra la inaudita y concomitante explotación en el campo de las ganancias, de las condiciones de trabajo y de previdencia hacia la persona del trabajador» (LE §8). La Iglesia está vivamente comprometida en esta causa, considerándola «su misión, su servicio, como verificación de su fidelidad a Cristo, para poder ser verdaderamente la "Iglesia de los pobres"» (LE §8).
+
+LE afirma que la solidaridad de los trabajadores no debe ser «cerrazón al diálogo y a la colaboración con los demás» (LE §8). Los sindicatos son presentados como un factor constructivo de solidaridad, pero su solidaridad debe orientarse al bien común y no convertirse en egoísmo de grupo (LE §20). La encíclica llama también a la solidaridad con los trabajadores agrícolas, las personas minusválidas y los emigrantes (LE §21–23).
 
 ### Según la Dives in Misericordia (DM)
 

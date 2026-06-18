@@ -1,7 +1,7 @@
 # Destino universal de los bienes
 
 > Área: Moral
-> Última actualización: 2026-05-25
+> Última actualización: 2026-06-17
 
 ## Definición
 
@@ -14,6 +14,12 @@ Este principio, también llamado «destino universal de los bienes de la tierra�
 La propiedad privada tiene una función social: el propietario es administrador de los bienes de Dios y debe ponerlos al servicio del bien común. En caso de necesidad urgente y evidente, el indigente puede tomar de los bienes ajenos lo necesario para subsistir, pues el destino universal prevalece sobre el derecho de propiedad.
 
 ## Perspectivas por fuente
+
+### Según la *Laborem Exercens* (LE)
+
+LE reafirma el principio del destino universal de los bienes como el marco en el que debe entenderse la propiedad privada. La tradición cristiana «siempre lo ha entendido en el contexto más amplio del derecho común de todos a usar los bienes de la entera creación: el derecho a la propiedad privada como subordinado al derecho al uso común, al destino universal de los bienes» (LE §14). El único título legítimo para la posesión de los medios de producción «es que sirvan al trabajo; consiguientemente que, sirviendo al trabajo, hagan posible la realización del primer principio de aquel orden, que es el destino universal de los bienes y el derecho a su uso común» (LE §14).
+
+El **salario justo** es presentado como la vía concreta mediante la cual la mayoría de los hombres accede a los bienes destinados al uso común —tanto los de la naturaleza como los que son fruto de la producción—, constituyendo «la verificación concreta de la justicia de todo el sistema socio-económico» (LE §19). La obligación de prestar subsidio a los desocupados brota «del principio fundamental del orden moral en este campo, esto es, del principio del uso común de los bienes o, para hablar de manera aún más sencilla, del derecho a la vida y a la subsistencia» (LE §18).
 
 ### Según el Catecismo (CEC)
 

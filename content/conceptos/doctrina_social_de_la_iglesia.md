@@ -1,7 +1,7 @@
 # Doctrina Social de la Iglesia
 
 > Área: Moral
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-17
 
 ## Definición
 
@@ -12,6 +12,14 @@ Cuerpo de doctrina que articula la enseñanza de la Iglesia en materia económic
 La doctrina social de la Iglesia se desarrolló en el siglo XIX con el encuentro entre el Evangelio y la sociedad industrial moderna. A través de encíclicas sociales —desde la Rerum Novarum de León XIII hasta las encíclicas de los papas posteriores—, la Iglesia ha ido articulando una enseñanza coherente que abarca la dignidad de la persona humana, el bien común, la subsidiariedad, la solidaridad y el destino universal de los bienes.
 
 ## Perspectivas por fuente
+
+### Según la *Laborem Exercens* (LE)
+
+La *Laborem Exercens* constituye una pieza central de la doctrina social de la Iglesia. En continuidad con la tradición desde la *Rerum Novarum*, la encíclica se sitúa «en una línea de desarrollo orgánico de la acción y enseñanza social de la Iglesia» (LE §2). Juan Pablo II afirma que el trabajo humano es «la clave, quizá la clave esencial, de toda la cuestión social» (LE §3). La doctrina social de la Iglesia tiene su fuente en la Sagrada Escritura y pertenece desde el principio a la enseñanza de la Iglesia misma (LE §3).
+
+LE introduce conceptos fundamentales que pasan a formar parte del patrimonio de la DSI: la distinción entre dimensión objetiva y subjetiva del trabajo; la prioridad del trabajo sobre el capital; la denuncia del economismo como error materialista práctico; la distinción entre empresario directo e indirecto; la reivindicación del salario familiar; la legitimación de la huelga en condiciones determinadas; y el desarrollo de una espiritualidad del trabajo.
+
+La encíclica amplía el horizonte de la DSI a una dimensión mundial, analizando las relaciones entre países desarrollados y en vías de desarrollo, el papel de las empresas multinacionales y las organizaciones internacionales (especialmente la OIT), y aplicando la doctrina social a problemas específicos como el trabajo agrícola, la situación de los minusválidos y la emigración por trabajo.
 
 ### Según la Dives in Misericordia (DM)
 

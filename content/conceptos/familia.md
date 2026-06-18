@@ -1,7 +1,7 @@
 # Familia
 
 > Área: Doctrina Social
-> Última actualización: 2026-05-25
+> Última actualización: 2026-06-17
 
 ## Definición
 

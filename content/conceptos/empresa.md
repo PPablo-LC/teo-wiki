@@ -1,7 +1,7 @@
 # Empresa
 
 > Área: Doctrina Social
-> Última actualización: 2026-05-25
+> Última actualización: 2026-06-17
 
 ## Definición
 
@@ -12,6 +12,12 @@ Comunidad de personas y de capitales organizada para la producción de bienes y 
 La empresa tiene una función económica y una función social, creando oportunidades de encuentro, colaboración y valoración de las capacidades de las personas. No puede considerarse únicamente como una «sociedad de capitales», sino como una «sociedad de personas». La legítima búsqueda del beneficio debe armonizarse con la tutela de la dignidad de las personas que trabajan en ella.
 
 ## Perspectivas por fuente
+
+### Según la *Laborem Exercens* (LE)
+
+LE desarrolla una visión de la empresa desde el principio de la prioridad del trabajo sobre el capital. La empresa no es solo una sociedad de capitales: el trabajador desea «no sólo la debida remuneración por su trabajo, sino también que sea tomada en consideración, en el proceso mismo de producción, la posibilidad de que él, a la vez que trabaja incluso en una propiedad común, sea consciente de que está trabajando "en algo propio"» (LE §15). LE propone formas de copropiedad de los medios de trabajo, participación de los trabajadores en la gestión y en los beneficios, y el llamado «accionariado» del trabajo (LE §14). Denuncia la excesiva centralización burocrática donde «el trabajador se siente engranaje de un mecanismo movido desde arriba; se siente por una u otra razón un simple instrumento de producción, más que un verdadero sujeto de trabajo dotado de iniciativa propia» (LE §15).
+
+La encíclica introduce el concepto de **empresario indirecto**: el conjunto de factores e instituciones que condicionan la relación laboral más allá del empresario directo, incluyendo al Estado, las organizaciones internacionales y los sistemas económicos (LE §17). Esto amplía la responsabilidad ética más allá de la empresa individual.
 
 ### Según el Compendio (CompDS)
 
