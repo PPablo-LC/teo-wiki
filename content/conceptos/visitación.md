@@ -29,6 +29,12 @@ Se relaciona con la [[encarnación]], la [[virgen_maría]], el [[magníficat]], 
 
 [[virgen_maría]], [[magníficat]], [[misterios_del_rosario]], [[encarnación]], [[año_litúrgico]]
 
+### Según María, José y la vida oculta de Jesús (MJV)
+
+Juan Pablo II presenta la Visitación como el momento en que María se convierte en «la primera evangelista que difunde la buena nueva, comenzando los viajes misioneros del Hijo divino» [MJV, catequesis 1]. El verbo griego *anistemi* (levantarse, ponerse en movimiento) usado por Lucas para describir la salida de María «subraya el impulso vigoroso que lleva a María, bajo la inspiración del Espíritu Santo, a dar al mundo el Salvador» [MJV, catequesis 1].
+
+Isabel, «llena del Espíritu Santo», proclama a María «bendita entre las mujeres» y reconoce la dignidad mesiánica del Hijo de María: «¿De dónde a mí que la madre de mi Señor venga a mí?» (Lc 1,43) [MJV, catequesis 1]. La Visitación produce «un preludio de Pentecostés, confirmando una cooperación que, habiendo empezado con la Encarnación, está destinada a manifestarse en toda la obra de la salvación divina» [MJV, catequesis 1].
+
 ## Referencias
 
 - CEC §448, §523, §2679

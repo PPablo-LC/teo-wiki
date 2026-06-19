@@ -31,6 +31,14 @@ Royo Marín destaca la vida de Nazaret como escuela de perfección cristiana. En
 - **Santificación de lo ordinario**: Nazaret enseña que la santidad no requiere acciones extraordinarias, sino la perfección en el cumplimiento del deber de cada estado
 - **Nazaret como lugar geográfico vs. Nazaret como modelo espiritual**: más que un lugar histórico, Nazaret es un estilo de vida cristiano
 
+### Según María, José y la vida oculta de Jesús (MJV)
+
+Juan Pablo II presenta Nazaret como el lugar donde María y José cumplieron su misión educadora: «Jesús progresaba en sabiduría, en estatura y en gracia ante Dios y ante los hombres» (Lc 2,52) [MJV, catequesis 10]. La unión entre Jesús y María «supera con mucho la que normalmente existe entre una madre y un hijo, porque está arraigada en una particular condición sobrenatural y está reforzada por la especial conformidad de ambos con la voluntad divina» [MJV, catequesis 10].
+
+En Nazaret, María vivió la esperanza durante los treinta años de silencio: «Entre las paredes del hogar, la Virgen vive la esperanza de forma excelsa, sabe que no puede quedar defraudada, aunque no conoce los tiempos y los modos con que Dios realizará su promesa. En la oscuridad de la fe, y a falta de signos extraordinarios que anuncien el inicio de la misión mesiánica de su Hijo, ella espera, más allá de toda evidencia» [MJV, catequesis 10]. Nazaret es «ambiente de crecimiento en la fe y de la esperanza» y «lugar de un alto testimonio de la caridad» [MJV, catequesis 10].
+
+Juan Pablo II destaca la dignidad del trabajo doméstico: «Los muchos años que vivió María en la casa de Nazaret revelan sus enormes potencialidades de amor auténtico y, por consiguiente, de salvación. La sencillez de la vida de tantas amas de casa, que consideran como misión de servicio y de amor, encierra un valor extraordinario a los ojos del Señor» [MJV, catequesis 10].
+
 ## Relaciones doctrinales
 
 [[sagrada_familia]], [[iglesia_doméstica]], [[familia]], [[virgen_maría]], [[san_josé]], [[encarnación]], [[vida_cristiana]], [[trabajo_humano]], [[obediencia]], [[silencio]], [[recogimiento_interior]]

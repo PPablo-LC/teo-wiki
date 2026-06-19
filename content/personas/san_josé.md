@@ -27,6 +27,12 @@ San José es poderoso intercesor: «Dice Santa Teresa que nunca pidió una cosa 
 
 San José se relaciona con la [[virgen_maría]] como esposo, con [[jesucristo]] como padre legal, con la [[encarnación]] como custodio del Verbo encarnado, y con la [[sagrada_familia]]. Su papel en la genealogía davídica lo vincula a las [[profecías_mesiánicas]] y al cumplimiento de las Escrituras.
 
+### Según María, José y la vida oculta de Jesús (MJV)
+
+Juan Pablo II presenta a José como «hombre justo» (Mt 1,19) que cooperó con María para que la casa de Nazaret fuera un ambiente favorable al crecimiento del Salvador [MJV, catequesis 5]. José «le enseñó el duro trabajo de carpintero, permitiendo a Jesús insertarse en el mundo del trabajo y en la vida social» [MJV, catequesis 5]. Junto con María, José introdujo a Jesús «en los ritos y prescripciones de Moisés, en la oración al Dios de la alianza mediante el uso de los salmos y en la historia del pueblo de Israel» [MJV, catequesis 5].
+
+María y José son presentados como «modelos de todos los educadores. Los sostienen en las grandes dificultades que encuentra hoy la familia y les muestran el camino para lograr una formación profunda y eficaz de los hijos» [MJV, catequesis 5]. La experiencia educadora de la Sagrada Familia «constituye un punto de referencia seguro para los padres cristianos» [MJV, catequesis 5].
+
 ## Analizado para
 
 - [[alexander_marriage_gospels]] — convergencia en San José como esposo virginal y custodio de la Sagrada Familia; aporta la caracterización del matrimonio de José y María como virginal pero profundamente íntimo (comunión de almas, proyecto de vida compartido, intimidad emocional)

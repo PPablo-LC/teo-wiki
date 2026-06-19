@@ -39,6 +39,12 @@ El concilio se relaciona con la [[encarnación]] del Verbo, la [[unión_hipostá
 
 [[encarnación]], [[unión_hipostática]], [[virgen_maría]], [[jesucristo]], [[nestorianismo]], [[concilio_de_calcedonia]], [[cirilo_de_alejandría]]
 
+### Según María, José y la vida oculta de Jesús (MJV)
+
+Juan Pablo II presenta el Concilio de Éfeso como el momento en que la Iglesia definió solemnemente a María como *Theotókos* (Madre de Dios) contra la herejía de Nestorio [MJV, catequesis 4]. El Papa explica que «Nestorio puso en duda la legitimidad del título "Madre de Dios"» al pretender considerar a María «sólo como madre del hombre Jesús» [MJV, catequesis 4]. Lo que indujo a Nestorio al error fue «la dificultad que sentía para admitir la unidad de la persona de Cristo y su interpretación errónea de la distinción entre las dos naturalezas» [MJV, catequesis 4].
+
+El concilio «condenó sus tesis y al afirmar la subsistencia de la naturaleza divina y de la naturaleza humana en la única persona del Hijo, proclamó a María Madre de Dios» [MJV, catequesis 4]. Juan Pablo II señala que «cuando proclama a María "Madre de Dios", la Iglesia profesa con una única expresión su fe en el Hijo y en la Madre» [MJV, catequesis 4].
+
 ## Referencias
 
 - CEC §466-467, 495

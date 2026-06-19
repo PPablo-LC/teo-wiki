@@ -33,6 +33,12 @@ El Magníficat es uno de los [[cántico_evangélico]] (junto con el Benedictus y
 ## Ver también
 [[virgen_maría]], [[cántico_evangélico]], [[vísperas]], [[oración]], [[alabanza]], [[visitación]], [[isabel]]
 
+### Según María, José y la vida oculta de Jesús (MJV)
+
+Juan Pablo II dedica una catequesis completa al Magníficat [MJV, catequesis 2]. El Magníficat es «la respuesta de la Virgen al misterio de la Anunciación: el ángel la había invitado a alegrarse, ahora María expresa el júbilo de su espíritu en Dios, su Salvador» [MJV, catequesis 2]. Es «la primicia de las diversas expresiones de culto, transmitidas de generación en generación, con las que la Iglesia manifiesta su amor a la Virgen de Nazaret» [MJV, catequesis 2].
+
+La expresión *Magnificat* «celebra la grandeza de Dios, que con el anuncio del ángel revela su omnipotencia, superando las expectativas y las esperanzas del pueblo de la alianza» [MJV, catequesis 2]. María manifiesta «el sentimiento de su pequeñez»: «Proclama mi alma la grandeza del Señor» (Lc 1,46-48). Juan Pablo II subraya que «lo que atrae la benevolencia de Dios es sobre todo la humildad del corazón» [MJV, catequesis 2]. En el Magníficat, «Dios no sólo es el Poderoso, para el que nada es imposible, sino también el Misericordioso, capaz de ternura y fidelidad para con todo ser humano» [MJV, catequesis 2].
+
 ## Referencias
 
 - CEC §723, §2619, §2679

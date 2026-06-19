@@ -29,6 +29,12 @@ Royo Marín, al tratar de la vida de oración, señala la importancia del ejempl
 
 León XIV, en la Misa en la Basílica de la Sagrada Familia (Barcelona), vinculó la Sagrada Familia de Nazaret con el templo de Gaudí. Afirmó: «La Sagrada Familia de Nazaret es el icono de toda familia cristiana» [L_XIV-ViajeEspaña-2026, 14 — Misa en la Sagrada Familia]. Presentó a la familia como «escuela de amor, de trabajo, de fe» [L_XIV-ViajeEspaña-2026, 14 — Misa en la Sagrada Familia]. A imagen de la basílica, «la familia se construye día a día, piedra sobre piedra» [L_XIV-ViajeEspaña-2026, 14 — Misa en la Sagrada Familia].
 
+### Según María, José y la vida oculta de Jesús (MJV)
+
+Juan Pablo II presenta la Sagrada Familia como el lugar donde el Hijo de Dios creció «en sabiduría, en estatura y en gracia» (Lc 2,52), acompañado por María y José [MJV, catequesis 5.10]. María y José son presentados como «modelos de todos los educadores» [MJV, catequesis 5]: introdujeron a Jesús en los ritos de Moisés, en la oración del Dios de la alianza y en la historia de Israel. José le enseñó el trabajo de carpintero, permitiendo a Jesús insertarse en el mundo del trabajo y la vida social.
+
+La vida de la Sagrada Familia en Nazaret es presentada como «ambiente de crecimiento en la fe y de la esperanza» y «lugar de un alto testimonio de la caridad» [MJV, catequesis 10]. La unión entre Jesús y María «supera con mucho la que normalmente existe entre una madre y un hijo, porque está arraigada en una particular condición sobrenatural» [MJV, catequesis 10].
+
 ## Distinciones importantes
 
 - La Sagrada Familia es «familia» por naturaleza — no es una comunidad religiosa ni una institución eclesiástica — pero es modelo de toda familia cristiana

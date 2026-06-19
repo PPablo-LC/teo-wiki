@@ -92,6 +92,12 @@ León XIV manifestó su devoción mariana en la Oración a la Virgen de la Almud
 
 La [[virgen_maría]] ocupa un lugar central en la vida sacerdotal de Juan Pablo II, quien asumió el lema *Totus Tuus* desde su ordenación episcopal, tomado del Tratado de la Verdadera Devoción de San Luis María Grignion de Montfort [DyM, VI]. El Papa identifica a María como «la Madre de mi sacerdocio» [DyM, VI]. La devoción mariana no es un complemento sino dimensión constitutiva de la [[espiritualidad_sacerdotal]]: María acompaña al sacerdote como estuvo al pie de la Cruz y en el Cenáculo [DyM, VI].
 
+### Según María, José y la vida oculta de Jesús (MJV)
+
+Juan Pablo II profundiza en la figura de María como Madre de Dios y modelo de fe en las catequesis sobre la vida oculta [MJV, catequesis 1-10]. El Magnificat es presentado como «la primicia de las diversas expresiones de culto, transmitidas de generación en generación, con las que la Iglesia manifiesta su amor a la Virgen de Nazaret» [MJV, catequesis 2]. María es «la primera evangelista que difunde la buena nueva» [MJV, catequesis 1], modelo de quienes en la Iglesia se ponen en camino para llevar la luz de Cristo a los hombres.
+
+La vida de María en Nazaret es presentada como lugar de fe, esperanza y caridad: «En María la conciencia de que cumplía una misión que Dios le había encomendado atribuía un significado más alto a su vida diaria. Los sencillos y humildes quehaceres de cada día asumían, a sus ojos, un valor singular, pues los vivía como servicio a la misión de Cristo» [MJV, catequesis 10]. María «conservaba todas estas cosas en su corazón» (Lc 2,19.51), penetrando progresivamente en el misterio de su Hijo.
+
 ## Distinciones importantes
 
 - **Maternidad divina**: María es Madre de Dios (Theotókos), verdadera Madre de Jesús, que es verdadero Dios y verdadero hombre.
