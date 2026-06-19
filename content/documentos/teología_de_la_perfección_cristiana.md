@@ -13,12 +13,12 @@
 
 ## Estructura
 
-| Parte | Título | Contenido |
-|-------|--------|-----------|
-| I | Principios fundamentales de la vida cristiana | Fin del hombre, gracia, virtudes, dones |
-| II | El organismo sobrenatural y la perfección cristiana | Gracia santificante, virtudes infusas, dones del Espíritu Santo |
-| III | Desarrollo normal de la vida cristiana | Vía purgativa (aspecto negativo), vía iluminativa y unitiva (aspecto positivo): sacramentos, virtudes, oración, medios secundarios |
-| IV | Fenómenos místicos extraordinarios | Visiones, revelaciones, éxtasis, estigmas, milagros |
+| Parte | Título | Contenido (Libros / Capítulos) |
+|-------|--------|-------------------------------|
+| I | Principios fundamentales de la vida cristiana | 5 capítulos: Fin de la vida cristiana, Santísima Trinidad, Configuración con Cristo, Virgen María, Iglesia Cuerpo Místico |
+| II | El organismo sobrenatural y la perfección cristiana | Gracia santificante y potencias sobrenaturales (virtudes infusas, dones del Espíritu Santo), perfección cristiana, mística |
+| III | Desarrollo normal de la vida cristiana | Libro I (aspecto negativo): pecado, mundo, demonio, carne, purificaciones. Libro II (aspecto positivo): sacramentos, virtudes, oración, medios secundarios. Libro III: perfección en estados de vida |
+| IV | Fenómenos místicos extraordinarios | Causas (divina, natural, diabólica), fenómenos cognoscitivos y afectivos, fenómenos corporales |
 
 ## Contenido doctrinal principal
 
