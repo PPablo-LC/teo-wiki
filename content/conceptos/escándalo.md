@@ -43,6 +43,17 @@ Royo Marín, al tratar el pecado, incluye el escándalo como pecado contra la ca
 
 El escándalo es pecado contra la [[caridad]] y la [[justicia]], relacionado con los [[pecados_capitales]] y la [[conciencia_moral]].
 
+### Según la Summa Theologiae (SmTh)
+**IIª-IIae q.43 — El escándalo, vicio opuesto a la beneficencia:**
+**a.1 — Definición:** «Dicho o hecho menos recto que ofrece ocasión de ruina espiritual». «Menos recto» incluye tanto el pecado como la apariencia de mal.
+**a.2 — Doble escándalo:** activo (quien da ocasión) y pasivo (quien tropieza). El pasivo siempre es pecado en quien lo sufre; el activo siempre es pecado en quien lo provoca. El escándalo farisaico (por el bien ajeno) es pasivo sin activo.
+**a.3 — El escándalo activo en sí mismo (intención de inducir al pecado) es pecado especial:** Se opone directamente a la corrección fraterna. El escándalo activo accidental (sin intención de escandalizar) no es pecado especial.
+**a.4 — Puede ser mortal o venial según la materia:** El escándalo pasivo es mortal si lleva al pecado mortal, venial si solo al venial. El activo es mortal si se intenta inducir a pecado mortal o si la acción es mortal en sí misma.
+**a.5 — Los perfectos no sufren escándalo pasivo:** Quien está firmemente afianzado en Dios no se conmueve por las acciones desordenadas de otros. El escándalo es propio de los pequeños (los imperfectos).
+**a.6 — En los varones perfectos no cabe escándalo activo propiamente dicho:** Ordenan sus actos según la razón y evitan dar ocasión de caída. Si algo hacen imperfecto, es leve y no puede inducir razonablemente al pecado.
+**a.7 — No se deben abandonar los bienes espirituales necesarios para la salvación por el escándalo:** Los necesarios son irrenunciables. Los no necesarios deben ocultarse o diferirse ante el escándalo de los pusilánimes, pero no ante el farisaico.
+**a.8 — Los bienes temporales propios pueden abandonarse por el escándalo; los confiados (bienes de la Iglesia, del Estado) no deben abandonarse:** El abandono de los bienes comunes daría ocasión a los malos para la rapiña y los confirmaría en el pecado.
+
 ## Ver también
 
 [[pecado]], [[conciencia_moral]], [[seducción]], [[cooperación_al_mal]], [[pecado_mortal]], [[caridad]]
@@ -53,23 +64,13 @@ El escándalo es pecado contra la [[caridad]] y la [[justicia]], relacionado con
 - TPCr, tratado del pecado
 - CIC cc. 1328-1329
 
-### Según la Summa Theologiae (SmTh)
 
-**IIª-IIae q.43 — El escándalo, vicio opuesto a la beneficencia:**
 
-**a.1 — Definición:** «Dicho o hecho menos recto que ofrece ocasión de ruina espiritual». «Menos recto» incluye tanto el pecado como la apariencia de mal.
 
-**a.2 — Doble escándalo:** activo (quien da ocasión) y pasivo (quien tropieza). El pasivo siempre es pecado en quien lo sufre; el activo siempre es pecado en quien lo provoca. El escándalo farisaico (por el bien ajeno) es pasivo sin activo.
 
-**a.3 — El escándalo activo en sí mismo (intención de inducir al pecado) es pecado especial:** Se opone directamente a la corrección fraterna. El escándalo activo accidental (sin intención de escandalizar) no es pecado especial.
 
-**a.4 — Puede ser mortal o venial según la materia:** El escándalo pasivo es mortal si lleva al pecado mortal, venial si solo al venial. El activo es mortal si se intenta inducir a pecado mortal o si la acción es mortal en sí misma.
 
-**a.5 — Los perfectos no sufren escándalo pasivo:** Quien está firmemente afianzado en Dios no se conmueve por las acciones desordenadas de otros. El escándalo es propio de los pequeños (los imperfectos).
 
-**a.6 — En los varones perfectos no cabe escándalo activo propiamente dicho:** Ordenan sus actos según la razón y evitan dar ocasión de caída. Si algo hacen imperfecto, es leve y no puede inducir razonablemente al pecado.
 
-**a.7 — No se deben abandonar los bienes espirituales necesarios para la salvación por el escándalo:** Los necesarios son irrenunciables. Los no necesarios deben ocultarse o diferirse ante el escándalo de los pusilánimes, pero no ante el farisaico.
 
-**a.8 — Los bienes temporales propios pueden abandonarse por el escándalo; los confiados (bienes de la Iglesia, del Estado) no deben abandonarse:** El abandono de los bienes comunes daría ocasión a los malos para la rapiña y los confirmaría en el pecado.
 - [VocTeoBib, «Escándalo»]
