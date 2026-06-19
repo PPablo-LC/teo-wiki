@@ -25,3 +25,13 @@ La Segunda Parte aborda la [[familia]] y el [[matrimonio]] (GS 47-52), la [[cult
 
 - Concilio Vaticano II, Constitución Pastoral *Gaudium et Spes*, 7 diciembre 1965
 - GS §1-93
+
+### Según Memoria e Identidad (MI)
+
+Juan Pablo II presenta *Gaudium et Spes* como el documento que abrió la Iglesia al mundo moderno. «La Constitución *Gaudium et Spes* abrió la Iglesia a todo lo que se compendia en el concepto "mundo". [...] El mundo, que es como el teatro de la historia del género humano, lleva las marcas de su habilidad, de sus derrotas y victorias. Aunque mancillado por el pecado del hombre, ha sido liberado por Cristo crucificado y resucitado, y espera llegar a su pleno cumplimiento» [MI, cap. 19].
+
+La antropología de *Gaudium et Spes* se funda en la cristología: «Realmente, el misterio del hombre sólo se esclarece en el misterio del Verbo encarnado» (GS 22). «Cristo, el nuevo Adán, en la misma revelación del misterio del Padre y de su amor, manifiesta plenamente el hombre al propio hombre y le descubre la grandeza de su vocación» (GS 22) [MI, cap. 18].
+
+El «viraje antropológico» del Concilio «tiene un carácter profundamente cristológico. La antropología del Vaticano II está enraizada en la cristología y, por tanto, en la teología» [MI, cap. 18]. «Basándome en esta doctrina, he podido decir en la Encíclica *Redemptor hominis* que "el hombre es el camino de la Iglesia"» [MI, cap. 18].
+
+*Gaudium et Spes* subraya que la explicación del misterio del hombre «vale no sólo para los cristianos, sino también para todos los hombres de buena voluntad, en cuyo corazón actúa la gracia de modo invisible» (GS 22) [MI, cap. 18].

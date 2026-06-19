@@ -30,6 +30,15 @@ El apostolado corresponde propiamente al Romano Pontífice y a los obispos, suce
 
 [TPCr, Tercera Parte, Libro II, Cap. V, Art. 4]
 
+### Según Memoria e Identidad (MI)
+
+Juan Pablo II presenta la misión de la Iglesia como esencial a su naturaleza. «La Iglesia en Europa y en todos los continentes debe darse cuenta de que siempre y en todas partes es Iglesia misionera (*in statu missionis*). La misión pertenece de tal modo a su naturaleza, que nunca y en ninguna parte, ni siquiera en los países de sólida tradición cristiana, puede dejar de ser misionera» [MI, cap. 19].
+
+«La Iglesia debe ser incansable en esta misión recibida de Cristo. Debe ser humilde y valiente, como Cristo mismo y como sus Apóstoles. No puede desanimarse ni siquiera ante disidencias, protestas o cualquier tipo de acusación» [MI, cap. 19]. El deber de proclamar el Evangelio «surge del saber muy bien que, bajo el cielo, ningún otro nombre nos puede salvar, sino uno solo: el de Cristo» [MI, cap. 19].
+
+Cristo y la Iglesia son inseparables: «Cristo, en efecto, cuando es aceptado realmente, lleva siempre consigo la Iglesia, que es su Cuerpo místico. Cristo no existe sin la Encarnación, Cristo no existe sin la Iglesia» [MI, cap. 19].
+
+El Jubileo del año 2000 subrayó la dimensión universal de la misión: «Cristo pertenece a la historia universal de toda la humanidad y le da forma. Desde la eternidad hay un proyecto de elevar en Cristo al hombre y al mundo a una dimensión divina» [MI, cap. 19].
 
 ## Distinciones importantes
 
