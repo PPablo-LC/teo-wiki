@@ -45,6 +45,12 @@ El Pueblo de Dios está presente en todas las razas, y su catolicidad hace que c
 
 [JPII, Redemptoris Mater §25-28, §42-47]: María es tipo y modelo de la Iglesia como Pueblo de Dios peregrinante. La Iglesia peregrina, «en este mundo, camina entre las persecuciones del mundo y los consuelos de Dios» (LG §8), y en este caminar tiene a María como Madre y guía [RM §25-26]. El Pueblo de Dios, formado por los creyentes de todos los tiempos, se congrega en torno a la fe que María vivió de modo eminente [RM §27-28]. María es «Madre de la Iglesia» no solo porque engendró a Cristo Cabeza, sino también porque engendra espiritualmente a los miembros del Pueblo de Dios [RM §42-44]. Como Madre de la Iglesia, María camina con el Pueblo de Dios peregrinante hacia la patria celestial [RM §47].
 
+### Según Memoria e Identidad (MI)
+
+Juan Pablo II presenta al Pueblo de Dios como el «nuevo Israel» que integra a todas las naciones. «Israel es la única nación cuya historia está en gran parte escrita en la Sagrada Escritura. Es una historia que pertenece a la Revelación divina» [MI, cap. 13]. En la «plenitud de los tiempos», el Hijo de Dios se encarnó en una hija de Israel, y su «generar por el Espíritu Santo» da origen a la filiación adoptiva.
+
+«"Todos los hombres están invitados al nuevo Pueblo de Dios […] Por tanto, el Pueblo de Dios lo forman personas de toda las naciones." Esto significa que la historia de todas las naciones está llamada a entrar en la historia de la salvación» [MI, cap. 13]. La Iglesia, «el Pueblo de Dios fundado en la Nueva Alianza, es el nuevo Israel y se presenta con un carácter de universalidad: cada nación tiene en ella el mismo derecho de ciudadanía» [MI, cap. 13].
+
 ## Distinciones importantes
 
 - No es un pueblo étnico ni político sino religioso y sobrenatural

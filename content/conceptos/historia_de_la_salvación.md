@@ -28,6 +28,13 @@ La historia de la salvación culmina en la promesa de «cielos nuevos y tierra n
 
 *Dei Verbum* 2-4 presenta la revelación como un plan divino que se realiza en la historia: Dios dispuso revelarse a Sí mismo, plan que se realiza «con hechos y palabras intrínsecamente conexos entre sí» (DV 2). La preparación de la revelación evangélica comienza con la creación, sigue con la promesa de redención tras la caída, la llamada de Abraham y la instrucción de Israel por los Patriarcas, Moisés y los Profetas (DV 3). Culmina en Jesucristo, que completa la revelación y confirma con el testimonio divino que Dios vive con nosotros (DV 4). DV 14 desarrolla la historia de la salvación en el Antiguo Testamento: Dios se reveló con palabras y obras a su pueblo elegido, y la economía de la salvación preanunciada se conserva como verdadera palabra de Dios en los libros del Antiguo Testamento.
 
+### Según Memoria e Identidad (MI)
+
+Juan Pablo II sitúa la historia de las naciones dentro de la historia de la salvación. «La historia de todas las naciones está llamada a entrar en la historia de la salvación. En efecto, Cristo vino al mundo para traer la salvación a todos los hombres. La Iglesia, el Pueblo de Dios fundado en la Nueva Alianza, es el nuevo Israel y se presenta con un carácter de universalidad: cada nación tiene en ella el mismo derecho de ciudadanía» [MI, cap. 13].
+
+La historicidad del hombre se manifiesta en su capacidad de «objetivar la historia»: «El hombre no es un simple sujeto sometido al curso de los acontecimientos, sino que tiene la capacidad de reflexionar sobre la propia historia, de objetivarla describiéndola y enlazando entre sí los acontecimientos» [MI, cap. 14].
+
+La historia tiene una «peculiar connotación escatológica»: «la vida humana tiene sentido, como lo tiene también la historia de las naciones» [MI, cap. 14]. Aunque «serán los hombres y no las naciones quienes se presentarán ante el juicio de Dios, pero en el juicio sobre los hombres de alguna manera serán juzgadas también las naciones» [MI, cap. 14].
 
 ## Distinciones importantes
 
