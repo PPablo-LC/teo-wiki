@@ -43,6 +43,14 @@ Santo Tomás trata la trascendencia divina en el contexto de los atributos divin
 
 Royo Marín subraya la «trascendencia soberana» de Dios y la necesidad de que el alma reconozca esa infinita distancia para progresar en la vida espiritual. La santificación personal tiene por fin último la gloria de la Trinidad Beatísima, y esta verdad aparece dominando en los santos solo cuando el alma se ha consumado por el amor (TPCr, Parte I, principios fundamentales).
 
+### Según el Compendio (CompDS)
+
+El CompDS aborda la trascendencia desde la perspectiva de la persona humana: la persona trasciende el horizonte del universo creado, de la sociedad y de la historia porque su fin último es Dios mismo (§47). El hombre no puede darse a un proyecto solamente humano de la realidad, a un ideal abstracto ni a falsas utopías. En cuanto persona, puede darse a otra persona o a otras personas y, por último, a Dios, que es el autor de su ser y el único que puede acoger plenamente su donación (§47).
+
+« Se aliena el hombre que rechaza trascenderse a sí mismo y vivir la experiencia de la autodonación y de la formación de una auténtica comunidad humana, orientada a su destino último que es Dios. Está alienada una sociedad que, en sus formas de organización social, de producción y consumo, hace más difícil la realización de esta donación y la formación de esa solidaridad interhumana » (§47).
+
+La persona humana no puede ni debe ser instrumentalizada por las estructuras sociales, económicas y políticas, porque todo hombre posee la libertad de orientarse hacia su fin último. Toda realización cultural, social, económica y política debe considerarse siempre en su aspecto de realidad relativa y provisional, porque « la apariencia de este mundo pasa » (§48). Cualquier visión totalitaria de la sociedad y del Estado y cualquier ideología puramente intramundana del progreso son contrarias a la verdad integral de la persona humana y al designio de Dios sobre la historia (§48).
+
 ## Distinciones importantes
 
 La trascendencia divina no equivale a deísmo (Dios ausente del mundo) ni la inmanencia divina a panteísmo (Dios identificado con el mundo). Ambas verdades se mantienen simultáneamente: Dios es íntimo a cada criatura sin confundirse con ella, y la supera infinitamente sin estar ausente de ella.

@@ -13,6 +13,16 @@ La esperanza cristiana se funda en las promesas de Dios, cumplidas en Jesucristo
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+[§1817-1821]: La esperanza es la virtud teologal por la que deseamos y esperamos de Dios la vida eterna como nuestra felicidad, confiando en las promesas de Cristo y apoyándonos en la gracia del Espíritu Santo. La esperanza cristiana se funda en las promesas de Dios, cumplidas en Jesucristo. María es la «Estrella de la esperanza» que encarnó la esperanza perfecta.
+
+### Según el Compendio (CompDS)
+
+[§120-123]: La universalidad del pecado y de la salvación es el fundamento de la esperanza cristiana. Todos los hombres, marcados por el pecado, son destinatarios de la salvación universal ofrecida en Cristo. La esperanza cristiana nace de la certeza de que Dios quiere salvar a todos los hombres y de que su gracia es más fuerte que el pecado [§120-123]. Esta esperanza impulsa al compromiso por la transformación de las realidades sociales.
+
+[§578-579]: «La Iglesia enseña al hombre que Dios le ofrece la posibilidad real de superar el mal y de alcanzar el bien. El Señor ha redimido al hombre, lo ha rescatado a caro precio (cf. 1 Co 6,20)» [§578]. La esperanza cristiana «confiere una fuerte determinación al compromiso en campo social, infundiendo confianza en la posibilidad de construir un mundo mejor, sabiendo bien que no puede existir un "paraíso perdurable aquí en la tierra"» [§579]. Los cristianos deben manifestar esta esperanza «incluso a través de las estructuras de la vida secular, en una constante renovación» [§579, citando LG §35].
+
 ### Según la Redemptoris Mater (RM)
 
 [JPII, Redemptoris Mater §11, §41, §50]: María permanece como señal de esperanza segura en medio del mal y del pecado que marcan la historia del hombre [RM §11]. La verdad de la Asunción expresa la fe de la Iglesia según la cual María está íntimamente unida a Cristo en su primera venida y lo estará también a la espera de la segunda [RM §41]. El Concilio mira a María como a un «signo de esperanza segura y de consuelo para el pueblo de Dios peregrinante» [RM §50, citando LG §68].
