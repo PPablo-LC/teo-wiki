@@ -15,16 +15,6 @@ La tradición patrística, especialmente San Agustín, distingue entre el *amor 
 
 ## Perspectivas por fuente
 
-### Según Memoria e Identidad (MI)
-
-Juan Pablo II presenta el amor de Dios como la respuesta definitiva al *mysterium iniquitatis*. El pecado original es descrito como *amor sui usque ad contemptum Dei*: «amor de sí mismo hasta el desprecio de Dios» [MI, cap. 2]. La respuesta a este pecado es la actitud opuesta: *amor Dei usque ad contemptum sui* — «amor de Dios hasta el desprecio de sí mismo» [MI, cap. 2].
-
-Esta dimensión del amor se conecta con la misericordia divina: «Jesucristo, Dios se inclina sobre el hombre para tenderle la mano, para volver a levantarlo y ayudarle a reemprender el camino con renovado vigor» [MI, cap. 2]. El amor de Dios es la fuente de la que mana la justificación: «Cristo crucificado es quien justifica al hombre pecador cada vez que éste, apoyándose en la fe en su Redención, se arrepiente de sus pecados» [MI, cap. 5].
-
-### Según la Dives in Misericordia (DM)
-
-La encíclica presenta el amor de Dios como la dimensión profunda de la misericordia: «el amor —que es más fuerte que la muerte, más fuerte que el pecado y que todo mal— eleva al hombre de las caídas graves y lo libera de las más grandes amenazas» [DM §15]. La cruz es «la inclinación más profunda de la Divinidad hacia el hombre» [DM §8].
-
 ### Según el Catecismo (CEC)
 
 El Catecismo enseña que «Dios es amor» (1 Jn 4,8, §221) y que «el amor de Dios para con nosotros no consiste en que hayamos amado nosotros a Dios, sino en que él nos amó y envió a su Hijo en propiciación por nuestros pecados» (1 Jn 4,10, §219). El amor de Dios es la fuente de la [[gracia_santificante]] y de todos los dones espirituales.
@@ -34,6 +24,16 @@ El Catecismo enseña que «Dios es amor» (1 Jn 4,8, §221) y que «el amor de D
 **Iª q.20 a.1 — Dios ama a todos los seres:** El amor de Dios se extiende a todas las criaturas, pero de modo diverso: ama a los ángeles y hombres con amor de complacencia (por su bondad natural y sobrenatural), y a las demás criaturas con amor de voluntad (por su bondad natural).
 
 **Ia-IIae q.113 a.9 — Mayor obra de Dios:** La justificación del pecador es la mayor obra de Dios por el bien que produce (la participación divina), superando a la creación, aunque la creación es mayor en el modo de obrar (de la nada).
+
+### Según la Dives in Misericordia (DM)
+
+La encíclica presenta el amor de Dios como la dimensión profunda de la misericordia: «el amor —que es más fuerte que la muerte, más fuerte que el pecado y que todo mal— eleva al hombre de las caídas graves y lo libera de las más grandes amenazas» [DM §15]. La cruz es «la inclinación más profunda de la Divinidad hacia el hombre» [DM §8].
+
+### Según Memoria e Identidad (MI)
+
+Juan Pablo II presenta el amor de Dios como la respuesta definitiva al *mysterium iniquitatis*. El pecado original es descrito como *amor sui usque ad contemptum Dei*: «amor de sí mismo hasta el desprecio de Dios» [MI, cap. 2]. La respuesta a este pecado es la actitud opuesta: *amor Dei usque ad contemptum sui* — «amor de Dios hasta el desprecio de sí mismo» [MI, cap. 2].
+
+Esta dimensión del amor se conecta con la misericordia divina: «Jesucristo, Dios se inclina sobre el hombre para tenderle la mano, para volver a levantarlo y ayudarle a reemprender el camino con renovado vigor» [MI, cap. 2]. El amor de Dios es la fuente de la que mana la justificación: «Cristo crucificado es quien justifica al hombre pecador cada vez que éste, apoyándose en la fe en su Redención, se arrepiente de sus pecados» [MI, cap. 5].
 
 ## Distinciones importantes
 
@@ -52,8 +52,8 @@ El amor de Dios se relaciona con la [[misericordia]], la [[redención]], la [[gr
 
 ## Referencias
 
-- [MI, cap. 2]
-- [DM §7–8, §15]
 - [CEC §219-221]
 - SmTh Iª q.20 a.1
 - SmTh Ia-IIae q.113 a.9
+- [DM §7–8, §15]
+- [MI, cap. 2]

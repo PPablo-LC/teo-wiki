@@ -15,6 +15,14 @@ La raíz filosófica del mal se remonta a la ruptura cartesiana: el *cogito, erg
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+El Catecismo enseña que «todo el mal del mundo proviene de una libertad creada» (CEC §311). Dios permite el mal «respetando la libertad de sus criaturas» y «sabe sacar bienes de males» [CEC §309-312].
+
+### Según la Dives in Misericordia (DM)
+
+DM presenta el *mysterium iniquitatis* como la dimensión del mal que la misericordia de Dios vence. El mal se manifiesta en múltiples formas: mal físico, mal moral y mal escatológico [DM §7–8]. La cruz es «la inclinación más profunda de la Divinidad hacia el hombre» que vence definitivamente el mal [DM §8].
+
 ### Según Memoria e Identidad (MI)
 
 El *mysterium iniquitatis* se presenta como la coexistencia del bien y del mal en la historia humana, ilustrada con la parábola del trigo y la cizaña (Mt 13,24-30). El mal es «siempre la ausencia de un bien que un determinado ser debería tener», siguiendo la definición de Santo Tomás y San Agustín. Pero «nunca es ausencia absoluta del bien» [MI, cap. 1].
@@ -22,14 +30,6 @@ El *mysterium iniquitatis* se presenta como la coexistencia del bien y del mal e
 La naturaleza humana «no quedó destruida, no se volvió totalmente mala a pesar del pecado original. Ha conservado una capacidad para el bien» [MI, cap. 1]. Las ideologías del mal nacen del rechazo a Dios como Creador y fundamento de la distinción entre bien y mal: «simplemente porque se rechazó a Dios como Creador y, por ende, como fundamento para determinar lo que es bueno y lo que es malo» [MI, cap. 2].
 
 La respuesta al mal no es la aniquilación sino la misericordia divina: «la única verdad capaz de contrarrestar el mal de estas ideologías es que Dios es Misericordia, la verdad del Cristo misericordioso» [MI, cap. 2]. El límite al mal es el bien divino y humano que se ha manifestado en la historia, por medio de Cristo [MI, cap. 3].
-
-### Según la Dives in Misericordia (DM)
-
-DM presenta el *mysterium iniquitatis* como la dimensión del mal que la misericordia de Dios vence. El mal se manifiesta en múltiples formas: mal físico, mal moral y mal escatológico [DM §7–8]. La cruz es «la inclinación más profunda de la Divinidad hacia el hombre» que vence definitivamente el mal [DM §8].
-
-### Según el Catecismo (CEC)
-
-El Catecismo enseña que «todo el mal del mundo proviene de una libertad creada» (CIC §311). Dios permite el mal «respetando la libertad de sus criaturas» y «sabe sacar bienes de males» [CEC §309-312].
 
 ## Distinciones importantes
 
@@ -40,15 +40,15 @@ El Catecismo enseña que «todo el mal del mundo proviene de una libertad creada
 
 ## Relaciones doctrinales
 
-El *mysterium iniquitatis* se relaciona con el [[pecado_original]] (raíz del mal en la historia), la [[redención]] (límite divino al mal), la [[providencia_divina]] (Dios permite el mal para sacar bienes mayores), la [[libertad_humana]] (uso正确o o incorrecto de la libertad), y la [[misericordia]] (respuesta de Dios al mal).
+El *mysterium iniquitatis* se relaciona con el [[pecado_original]] (raíz del mal en la historia), la [[redención]] (límite divino al mal), la [[providencia_divina]] (Dios permite el mal para sacar bienes mayores), la [[libertad_humana]] (uso correcto o incorrecto de la libertad), y la [[misericordia]] (respuesta de Dios al mal).
 
 ## Ver también
 
-[[mal]], [[pecado_original]], [[redención]], [[providencia_divina]], [[libertad_humana]], [[misericordia]], [[ideologías_del_mal]]
+[[mal]], [[pecado_original]], [[redención]], [[providencia_divina]], [[libertad_humana]], [[misericordia]]
 
 ## Referencias
 
-- [MI, cap. 1–3]
-- [DM §6–8]
 - [CEC §309-312]
+- [DM §6–8]
+- [MI, cap. 1–3]
 - SmTh Iª q.48-49

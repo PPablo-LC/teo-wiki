@@ -26,6 +26,16 @@ Estos grados no son virtudes distintas sino diferentes modos de participación d
 
 [SmTh Iª-IIae q.61]
 
+### Según Memoria e Identidad (MI)
+
+Juan Pablo II presenta las virtudes cardinales como el camino de realización de la libertad humana en la verdad. «Santo Tomás utilizó la estructura del sistema aristotélico de las virtudes. El bien que tiene ante sí la libertad humana para cumplirlo es precisamente el bien de la virtud. Se trata sobre todo de las llamadas cuatro virtudes cardinales: prudencia, justicia, fortaleza y templanza» [MI, cap. 8].
+
+«La prudencia tiene una función de guía. La justicia regula el orden social. La fortaleza y la templanza, por su parte, armonizan el orden interior en el hombre, estableciendo el bien en relación con la impetuosidad y con la concupiscencia humanas» [MI, cap. 8].
+
+En el sistema de las virtudes cardinales «se insertan las otras virtudes, subordinadas a ellas de diversas maneras. Se puede decir que dicho sistema, del cual depende la autorrealización de la libertad humana en la verdad, es exhaustivo» [MI, cap. 8].
+
+La máxima de todas las virtudes es «el mandamiento del amor a Dios y al prójimo. En él, la libertad humana encuentra su más plena realización. La libertad es para el amor: su realización mediante el amor puede alcanzar incluso un grado heroico» [MI, cap. 8].
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[virtudes_infusas]]

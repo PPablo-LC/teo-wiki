@@ -39,6 +39,15 @@ GS 17: «La verdadera libertad es signo eminente de la imagen divina en el hombr
 
 GS 31: «La libertad humana con frecuencia se debilita cuando el hombre cae en extrema necesidad, de la misma manera que se envilece cuando el hombre, satisfecho por una vida demasiado fácil, se encierra como en una dorada soledad. Por el contrario, la libertad se vigoriza cuando el hombre acepta las inevitables obligaciones de la vida social.»
 
+### Según Memoria e Identidad (MI)
+
+Juan Pablo II sitúa la libertad como el tema central de la reflexión moral tras la caída de los sistemas totalitarios. «Después de la caída de los sistemas totalitarios, las sociedades se sintieron libres, pero casi simultáneamente surgió un problema de fondo: el del uso de la libertad» [MI, cap. 7].
+
+La libertad es «una categoría ética» que se realiza por medio de la verdad. «La respuesta se puede entrever ya en Aristóteles. Para él, la libertad es una propiedad de la voluntad que se realiza por medio de la verdad. Al hombre se le da como tarea que cumplir. No existe libertad sin la verdad» [MI, cap. 8].
+
+«La libertad es auténtica en la medida que realiza el verdadero bien. Sólo entonces ella misma es un bien. Si deja de estar vinculada con la verdad y comienza a considerar ésta como dependiente de la libertad, pone las premisas de unas consecuencias morales dañosas, de dimensiones a veces incalculables» [MI, cap. 8].
+
+«El Creador ha dado al hombre la libertad como don y tarea a la vez. Porque el hombre, mediante la libertad, está llamado a acoger y realizar el verdadero bien» [MI, cap. 8]. El abuso de la libertad provoca la reacción totalitaria: «el abuso de la libertad provoca una reacción que toma la forma de uno u otro sistema totalitario» [MI, cap. 8].
 
 ## Analizado para
 

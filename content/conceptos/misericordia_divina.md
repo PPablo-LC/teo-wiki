@@ -63,3 +63,11 @@ Se relaciona con [[redención]], [[conversión]], [[penitencia]], [[pecado]], [[
 **a.3 — La misericordia es virtud:** En cuanto movimiento del apetito intelectivo regido por la razón, la misericordia es virtud. Implica una razón especial de bien (la miseria del prójimo), distinta del gozo y la paz que no añaden nada nuevo al objeto de la caridad.
 
 **a.4 — La misericordia es la mayor de las virtudes en sí misma, pero no en relación al sujeto:** En sí misma, la misericordia es lo más grande (propio de Dios socorrer deficiencias). Para el hombre, que tiene a Dios sobre sí, la caridad que une a Dios es superior. Pero entre las virtudes que miran al prójimo, la misericordia es la más excelente.
+
+### Según Memoria e Identidad (MI)
+
+Juan Pablo II sitúa la misericordia divina como la respuesta definitiva al *mysterium iniquitatis* y como el núcleo de la revelación de Santa Faustina. «Los contemporáneos han entendido este mensaje. Lo han entendido a través del dramático cúmulo de mal que trajo consigo la Segunda Guerra Mundial y de las crueldades de los sistemas totalitarios. Es como si Cristo hubiera querido revelar que el límite impuesto al mal, cuyo causante y víctima resulta ser el hombre, es en definitiva la Divina Misericordia» [MI, cap. 10].
+
+«Ciertamente, en ella se incluye también la Justicia, pero ésta, por sí sola, no es la última palabra en la economía divina de la historia del mundo y en la historia del hombre. Dios sabe obtener siempre del mal algo bueno» [MI, cap. 10]. «Cristo crucificado y resucitado, como se apareció a sor Faustina, es la revelación suprema de esta verdad» [MI, cap. 10].
+
+El patrimonio espiritual de Santa Faustina «tuvo una gran importancia para la resistencia contra el mal practicado en aquellos sistemas inhumanos de entonces» [MI, cap. 10]. «¡El mal nunca consigue la victoria definitiva! El misterio pascual confirma que, a la postre, vence el bien; que la vida prevalece sobre la muerte y el amor triunfa sobre el odio» [MI, cap. 10].
