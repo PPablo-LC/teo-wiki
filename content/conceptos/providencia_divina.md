@@ -30,6 +30,12 @@ Dios guarda y gobierna por su providencia todo lo que creó (Sb 8,1). «Dios es 
 
 Santo Tomás trata la providencia en SmTh Iª q.22. La providencia es la razón del orden de las cosas hacia su fin (a.1), y reside en el entendimiento divino como razón ordenadora. Se distingue en dos actos: la *providencia* misma (la preordenación al fin) y el *gobierno* (la ejecución de dicha ordenación). La providencia se extiende a todas las cosas singulares y contingentes (a.2), pues Dios conoce cada cosa y ordena su bien; nada escapa a su providencia, aunque las cosas contingentes se realicen contingentemente. Dios provee inmediatamente de todas las cosas (a.3), pero mediatiza la ejecución a través de causas segundas: los seres inferiores son gobernados por los superiores. La providencia divina no excluye la contingencia ni el libre albedrío (a.4), sino que los establece: Dios, causa primera, obra de modo que las causas segundas actúen según su naturaleza —necesariamente las necesarias, contingentemente las contingentes.
 
+### Según Memoria e Identidad (MI)
+
+Juan Pablo II presenta la providencia divina como el límite que Dios impone al mal en la historia. La Divina Providencia concede tiempos determinados a las ideologías del mal y los detiene cuando llega el plazo: «Dios concedió al hitlerismo doce años de existencia y, cumplido este plazo, el sistema sucumbió. Por lo visto, éste fue el límite que la Divina Providencia impuso a semejante locura» [MI, cap. 3].
+
+La providencia se manifiesta también en el bien que surge de la experiencia del mal: «tras la experiencia punzante del mal, se llega a practicar un bien más grande» [MI, cap. 3]. San Pablo exhorta: «No te dejes vencer por el mal; antes bien, vence al mal con el bien» (Rm 12,21) [MI, cap. 3]. El límite impuesto al mal por el bien divino se ha incorporado a la historia «por medio de Cristo» [MI, cap. 3].
+
 
 ## Analizado para
 

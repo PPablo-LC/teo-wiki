@@ -52,6 +52,14 @@ La mortificación cristiana, la aceptación de los sufrimientos y la paciencia e
 
 [TPCr, Parte III, Libro I — Aspecto Negativo de la Vida Cristiana]
 
+### Según Memoria e Identidad (MI)
+
+Juan Pablo II presenta la cruz como el límite definitivo que Dios impone al mal. La presencia victoriosa de la cruz se revela con mayor impresionante en los momentos de mayor sufrimiento: «a los que están sometidos a una actuación sistemática del mal, no les queda nada más que Cristo y su cruz como fuente de autodefensa espiritual y como promesa de victoria» [MI, cap. 4].
+
+San Maximiliano Kolbe, con su sacrificio en Auschwitz, se convirtió en «un signo de victoria sobre el mal en el campo de exterminio». Santa Edith Stein, «incinerada en el crematorio en Birkenau, que compartió así el destino de muchos hijos e hijas de Israel», atestigua la presencia de la cruz en el corazón del drama histórico [MI, cap. 4].
+
+La cruz es «la inclinación más profunda de la Divinidad hacia el hombre» [MI, cap. 4, citando DM §8] y el lugar donde «la justicia divina, revelada en la cruz de Cristo, es "a medida" de Dios, porque nace del amor y se completa en el amor» [MI, cap. 4]. La cruz «suprimían sistemáticamente la presencia de la cruz» en los sistemas totalitarios, precisamente porque era la fuente de resistencia espiritual [MI, cap. 4].
+
 
 ## Distinciones importantes
 

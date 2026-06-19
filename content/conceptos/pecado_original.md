@@ -99,6 +99,14 @@ Dios creó al hombre en santidad y justicia original. Tentado por el diablo, el 
 
 **q.85 a.3 — Las cuatro heridas:** Por el pecado original, la naturaleza humana quedó con cuatro heridas: ignorancia (razón), malicia (voluntad), debilidad (irascible), concupiscencia (concupiscible).
 
+### Según Memoria e Identidad (MI)
+
+Juan Pablo II describe el pecado original con la fórmula agustiniana *amor sui usque ad contemptum Dei*: «amor de sí mismo hasta el desprecio de Dios» [MI, cap. 2]. El primer pecado fue de soberbia: «los primeros padres a la rebelión inicial y determinó la propagación en lo sucesivo del pecado a toda la historia del hombre» [MI, cap. 2].
+
+La dimensión original del pecado no podía tener un contrapeso adecuado más que en la actitud opuesta: *amor Dei usque ad contemptum sui* — «amor de Dios hasta el desprecio de sí mismo» [MI, cap. 2]. Esta fórmula expresa la actitud de Cristo en la Redención y la respuesta del creyente.
+
+La raíz del pecado original se conecta con la filosofía: «el hombre se había quedado solo; solo como creador de su propia historia y de su propia civilización; solo como quien decide por sí mismo lo que es bueno y lo que es malo» [MI, cap. 2]. Esta soledad del hombre sin Dios es la consecuencia del pecado original en la cultura moderna.
+
 ### Según el Catecismo (CEC)
 
 **La caída de los ángeles** (§391-395): Detrás de la desobediencia del hombre se halla Satán, ángel caído.

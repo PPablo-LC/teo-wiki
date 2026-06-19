@@ -23,6 +23,12 @@ Royo Marín divide la vía purgativa en tres grados que corresponden a las tres 
 
 La vía purgativa se caracteriza por la lucha contra los tres enemigos del alma: mundo, demonio y carne. Incluye la purificación activa de los sentidos, pasiones y potencias, así como las primeras purificaciones pasivas (noche del sentido). Es la etapa de la vida ascética, donde predomina la meditación discursiva y el esfuerzo personal con la ayuda de la gracia ordinaria.
 
+### Según Memoria e Identidad (MI)
+
+Juan Pablo II presenta la vía purgativa como la primera etapa del camino interior que Cristo indica al hombre tras la Redención. La observancia de los mandamientos tiene «un carácter predominantemente purificador» y equivale a la vía purificativa: «significa vencer el pecado, el mal moral en sus distintas formas. Y esto comporta una progresiva purificación interior» [MI, cap. 6].
+
+Esta etapa se ilustra con la conversación de Jesús con el joven rico: cuando el pregunta «¿qué tengo que hacer de bueno para obtener la vida eterna?», Jesús le recuerda los mandamientos, sobre todo los de la «segunda tabla» —el trato con el prójimo—, que se resumen en el mandamiento del amor [MI, cap. 6].
+
 ## Distinciones importantes
 
 La vía purgativa no es un mero período inicial que se abandona por completo al entrar en la iluminativa; aspectos de purificación permanecen en toda la vida espiritual. Sin embargo, marca el tránsito decisivo del alma que se decide a vivir cristianamente.

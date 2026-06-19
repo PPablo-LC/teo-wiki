@@ -45,6 +45,14 @@ Cristo, como Cabeza de la Iglesia, mereció la redención por su pasión y muert
 
 [TPCr, Parte I, Cristología]
 
+### Según Memoria e Identidad (MI)
+
+El misterio pascual es presentado como «el culmen de la revelación y actuación de la misericordia» [MI, cap. 4]. La cruz y la resurrección son las «palabras clave» del Concilio Vaticano II en *Gaudium et spes*: «si alguien pregunta cómo se puede superar aquella miseria, los cristianos proclamarán que todas las actividades del hombre… deben ser purificadas y llevadas a la perfección por la cruz y la Resurrección de Cristo» [MI, cap. 4, citando GS §38].
+
+La Redención como «límite divino impuesto al mal» se realiza en el misterio pascual: «el mal es vencido radicalmente por el bien, el odio por el amor, la muerte por la Resurrección» [MI, cap. 4]. El Concilio concibe la Redención como «el momento del misterio pascual que culmina en la Resurrección», reflejando una «dimensión ecuménica» que acentúa la espiritualidad de los Padres de Oriente [MI, cap. 4].
+
+La Resurrección pone de relieve que «sólo la medida del bien instaurado por Dios en la historia del hombre mediante el misterio de la Redención es capaz de satisfacer plenamente la verdad del ser humano» [MI, cap. 5]. El misterio pascual se convierte en «la medida definitiva de la existencia del hombre en el mundo creado por Dios» [MI, cap. 5].
+
 ## Distinciones importantes
 
 - **Misterio Pascual vs. solo Pasión**: el Misterio Pascual incluye también la Resurrección y Ascensión, no solo el sufrimiento y muerte

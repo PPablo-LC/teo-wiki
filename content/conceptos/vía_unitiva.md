@@ -23,6 +23,14 @@ En la vía unitiva, las virtudes son eminentes y heroicas (tercer grado de carid
 
 Se produce la purificación pasiva del espíritu (noche del espíritu) bajo el influjo del don de entendimiento. La oración infusa alcanza la unión simple, la unión completa (a veces extática) y la unión transformante, bajo el influjo del don de sabiduría.
 
+### Según Memoria e Identidad (MI)
+
+La vía unitiva es la etapa en la que «el alma experimenta una particular unión con Dios» mediante «la contemplación del Ser divino y en la experiencia de amor que surge en ella con creciente intensidad» [MI, cap. 6]. Se anticipa «en cierta medida, la condición del hombre en la eternidad, más allá del confín de la muerte y del sepulcro».
+
+Cristo enseña que «ya en esta vida se puede emprender el camino de unión con Dios» [MI, cap. 6]. En esta etapa, «los seres creados dejan de ser para él una amenaza» y «no solamente recuperan la propia luz, puesta en ellas por Dios, sino que, si puede decirse así, "facilitan el acceso" a Dios mismo» [MI, cap. 6].
+
+La *Lumen gentium* (n. 36) confirma que «Cristo entró en la gloria de su reino. A Él le están sometidas todas las cosas hasta que Él se someta al Padre junto con todo lo creado para que Dios sea todo en todo» [MI, cap. 6, citando LG §36]. La unión con Dios se realiza en esta vida siguiendo este mismo principio: «El hombre encuentra a Dios creador en todo, y está en contacto con Él en todo y a través de todo» [MI, cap. 6].
+
 ## Distinciones importantes
 
 La vía unitiva no es un estado de inacción. El alma cumple fidelísimamente los deberes de su estado, pero su vida interior está dominada por la unión continua con Dios. La paz es inalterable y la humildad profundísima.

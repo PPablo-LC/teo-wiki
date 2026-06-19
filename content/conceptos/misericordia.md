@@ -47,6 +47,14 @@ La relación entre justicia y misericordia es clave: la justicia se funda sobre 
 
 María es presentada como «Madre de la misericordia», quien «de manera singular y excepcional ha experimentado —como nadie— la misericordia» [DM §9]. La Iglesia debe profesar, proclamar y practicar la misericordia; los sacramentos de la [[eucaristía]] y la [[penitencia]] son las fuentes de las que saca la misericordia del Salvador [DM §13–14].
 
+### Según Memoria e Identidad (MI)
+
+Juan Pablo II presenta la misericordia como la respuesta definitiva de Dios al *mysterium iniquitatis*. Las revelaciones de Santa Faustina Kowalska, «centradas en el misterio de la Divina Misericordia, se refieren al período precedente a la Segunda Guerra Mundial. Precisamente el tiempo en que surgieron y se desarrollaron esas ideologías del mal como el nazismo y el comunismo» [MI, cap. 2].
+
+Sor Faustina se convirtió en «pregonera del mensaje, según el cual la única verdad capaz de contrarrestar el mal de estas ideologías es que Dios es Misericordia, la verdad del Cristo misericordioso» [MI, cap. 2]. En Jesucristo, «Dios se inclina sobre el hombre para tenderle la mano, para volver a levantarlo y ayudarle a reemprender el camino con renovado vigor» [MI, cap. 2].
+
+La misericordia se conecta con el límite al mal: «El límite impuesto al mal por el bien divino se ha incorporado a la historia del hombre, a la historia de Europa en particular, por medio de Cristo» [MI, cap. 3]. El perdón es la expresión de la misericordia: «¿qué significa perdonar, sino recurrir al bien, que es mayor que cualquier mal? Un bien que, en definitiva, tiene su fuente únicamente en Dios» [MI, cap. 3].
+
 ## Distinciones importantes
 
 - **Misericordia** ≠ **justicia**: la misericordia no se opone a la justicia, sino que la perfecciona y la trasciende.

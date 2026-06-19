@@ -75,6 +75,14 @@ Para Salvarte presenta la Redención como el rescate del género humano por la s
 
 Juan Pablo II relaciona la [[redención]] con su propia vocación sacerdotal: «la Cruz de Cristo ha sido siempre mi punto de referencia. Diría más: el centro de mi vida sacerdotal» [DyM, VIII]. La Eucaristía renueva el sacrificio redentor de Cristo. El sacerdote, al celebrarla, se sumerge en el [[mysterium_fidei]] —el misterio pascual de Cristo—, quedando envuelto por el poder del Espíritu Santo [DyM, VIII].
 
+### Según Memoria e Identidad (MI)
+
+La Redención es presentada como «el límite divino impuesto al mal»: «Quien puede poner un límite definitivo al mal es Dios mismo. Él es la Justicia misma» [MI, cap. 4]. El Concilio Vaticano II enseñó en *Gaudium et spes* que «el hombre se encuentra hasta tal punto incapaz de vencer eficazmente por sí mismo los ataques del mal, que cada uno se siente como atado con cadenas. Pero el mismo Señor vino para liberar y fortalecer al hombre» [MI, cap. 4, citando GS §13].
+
+La Resurrección es la confirmación de que «el bien instaurado por Dios en la historia del hombre mediante el misterio de la Redención es capaz de satisfacer plenamente la verdad del ser humano» [MI, cap. 5]. El misterio pascual se convierte en «la medida definitiva de la existencia del hombre en el mundo creado por Dios» [MI, cap. 5].
+
+La Redención concede al hombre «la victoria de Cristo sobre el mal, no sólo como un beneficio personal, sino también como tarea» [MI, cap. 6]. El hombre la asume emprendiendo el camino de la vida interior —vía purificativa, iluminativa y unitiva—, siguiendo el «sígueme» de Cristo [MI, cap. 6].
+
 ## Ver también
 
 [[jesucristo]], [[pecado_original]], [[eucaristía]], [[bautismo]], [[gracia_santificante]], [[iglesia_cuerpo_místico]], [[jorge_loring]]

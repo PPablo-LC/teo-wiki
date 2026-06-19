@@ -38,15 +38,24 @@ El bien es causa del mal solo accidentalmente (Iª q.49 a.1): el mal no tiene ca
 - **Causa deficiente vs. causa eficiente**: el mal no tiene causa eficiente directa; procede de un defecto en la acción o en la materia.
 - **Dualismo refutado**: la existencia del mal no exige un principio malo independiente, pues el mal es siempre parasitario del bien.
 
+### Según Memoria e Identidad (MI)
+
+Juan Pablo II sitúa la reflexión sobre el mal en el contexto histórico del siglo XX, conectando la definición tomista de *privatio boni* con la experiencia de las ideologías del mal. El mal se manifiesta en la coexistencia del «trigo» y la «cizaña» (Mt 13,24-30): «Si el mal existe al lado del bien, el bien, no obstante, persiste al lado del mal y, por decirlo así, crece en el mismo terreno, que es la naturaleza humana. En efecto, ésta no quedó destruida, no se volvió totalmente mala a pesar del pecado original» [MI, cap. 1].
+
+Las ideologías del mal —nazismo y comunismo— nacen del rechazo a Dios como Creador y fundamento de la distinción entre bien y mal: «simplemente porque se rechazó a Dios como Creador y, por ende, como fundamento para determinar lo que es bueno y lo que es malo» [MI, cap. 2]. La raíz filosófica se encuentra en la ruptura cartesiana: el *cogito, ergo sum* invirtió la primacía del *esse* sobre el *cogito*, haciendo del hombre el único criterio de verdad [MI, cap. 2].
+
+El mal no es omnipotente: la Divina Providencia impone límites a su desenfreno. «Dios concedió al hitlerismo doce años de existencia y, cumplido este plazo, el sistema sucumbió» [MI, cap. 3]. El límite impuesto al mal es el bien divino y humano que se ha manifestado en la historia, por medio de Cristo [MI, cap. 3].
+
 ## Relaciones doctrinales
 
-El mal como privación del bien se relaciona con la doctrina de la [[creación]] (todo lo creado es bueno), con el [[demonio]] (el ángel caído no es malo por naturaleza sino por libre elección), con el [[pecado_original]] (introducción del mal moral en la humanidad), con la [[gracia_santificante]] (remedio del mal de culpa), y con la [[providencia_divina]] (Dios permite el mal para sacar bienes mayores).
+El mal como privación del bien se relaciona con la doctrina de la [[creación]] (todo lo creado es bueno), con el [[demonio]] (el ángel caído no es malo por naturaleza sino por libre elección), con el [[pecado_original]] (introducción del mal moral en la humanidad), con la [[gracia_santificante]] (remedio del mal de culpa), con la [[providencia_divina]] (Dios permite el mal para sacar bienes mayores), y con el [[mysterium_iniquitatis]] (coexistencia del bien y del mal en la historia).
 
 ## Ver también
 
-[[demonio]], [[pecado_original]], [[concupiscencia]], [[tentación]], [[creación]], [[providencia_divina]], [[infierno]]
+[[demonio]], [[pecado_original]], [[concupiscencia]], [[tentación]], [[creación]], [[providencia_divina]], [[infierno]], [[mysterium_iniquitatis]]
 
 ## Referencias
 
 - SmTh Iª q.48 a.1-6
 - SmTh Iª q.49 a.1-3
+- [MI, cap. 1–3]

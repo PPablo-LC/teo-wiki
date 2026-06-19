@@ -25,6 +25,14 @@ El AT plantea la justificación del hombre ante Dios como una hipótesis irreali
 
 El legalismo judío, en el que Pablo fue educado como fariseo, creía que observar íntegramente la ley bastaba para ser justificado. El error está en la ilusión de lograrlo por propios recursos. Jesucristo es «el justo» que cumplió toda justicia hasta el fin. Su muerte, que pareció de un reprobado, halló su justificación en la resurrección. Pero la resurrección tiene por fin «nuestra justificación» (Rom 4,25). La gracia de Dios en Cristo nos hace capaces de adoptar la actitud exacta que Dios espera, de tratarle como merece, de ser realmente justificados delante de Él. La justificación se efectúa en nosotros por la fe, desposeyéndonos de nuestro apego a nosotros mismos y ligándonos a Cristo. Creer es «reconocer el amor que Dios nos tiene» y confesar que «Dios es Amor» (1Jn 4,16).
 
+### Según Memoria e Identidad (MI)
+
+Juan Pablo II conecta la justificación con la Redención y la respuesta del hombre a la gracia. San Pablo, educado como fariseo en las escuelas de la antigua alianza, critica la idea de que la fuente de la justificación sea la Ley: «la justificación tiene su fuente en la fe en Cristo» (cf. Ga 2,15-21) [MI, cap. 5].
+
+Cristo crucificado es quien justifica al pecador «cada vez que éste, apoyándose en la fe en su Redención, se arrepiente de sus pecados, se convierte y regresa a Dios como a su propio Padre» [MI, cap. 5]. Para ser justificados ante Dios «no bastan los esfuerzos humanos. Es necesario que actúe la gracia que proviene del sacrificio de Cristo» [MI, cap. 5].
+
+La Resurrección de Cristo pone de relieve que «sólo la medida del bien instaurado por Dios en la historia del hombre mediante el misterio de la Redención es capaz de satisfacer plenamente la verdad del ser humano» [MI, cap. 5].
+
 ### Según la Summa Theologiae (SmTh)
 
 **Ia-IIae q.113 — La justificación del pecador como efecto de la gracia operante:**

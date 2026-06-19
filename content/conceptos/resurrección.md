@@ -17,6 +17,14 @@ La Resurrección de Cristo es un acontecimiento histórico y trascendente, atest
 
 La Resurrección de Jesús es la verdad culminante de nuestra fe en Cristo, creída y vivida como verdad central por la primera comunidad cristiana (CEC §638). El sepulcro vacío y las apariciones constituyen los signos de la Resurrección (CEC §640-644). El cuerpo resucitado de Cristo es el mismo cuerpo crucificado, pero con propiedades gloriosas: no está situado en el espacio ni en el tiempo, pero puede hacerse presente donde quiere y cuando quiere (CEC §645). La Resurrección es a la vez un acontecimiento histórico y transcenden-te (CEC §656-658).
 
+### Según Memoria e Identidad (MI)
+
+La Resurrección es presentada como la confirmación de que «el bien instaurado por Dios en la historia del hombre mediante el misterio de la Redención es capaz de satisfacer plenamente la verdad del ser humano» [MI, cap. 5]. El misterio pascual se convierte en «la medida definitiva de la existencia del hombre en el mundo creado por Dios» [MI, cap. 5].
+
+En la Resurrección, Cristo «justificó», por así decir, «la obra de la creación y, especialmente, la creación del hombre, en el sentido de que reveló la "medida apropiada" del bien que Dios concibió en el inicio de la historia humana» [MI, cap. 5]. Esta medida «no es sólo la prevista por Él en la creación y empañada después por el hombre con el pecado. Es una medida superabundante, en que el designio original se realiza de una manera aún más plena» [MI, cap. 5].
+
+En Cristo resucitado, «el hombre está llamado a una vida nueva, la vida del hijo en el Hijo, expresión perfecta de la gloria de Dios: *gloria Dei vivens homo*, la gloria de Dios es el hombre viviente» [MI, cap. 5].
+
 ## Distinciones importantes
 
 - No es una reanimación (como la de Lázaro, que volvió a morir)
