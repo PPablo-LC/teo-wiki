@@ -1,7 +1,7 @@
 # San Juan Bautista
 
 > Área: Bíblica (Personajes)
-> Última actualización: 2026-06-09
+> Última actualización: 2026-06-19
 
 ## Definición
 
@@ -16,6 +16,8 @@ Juan Bautista es presentado por los cuatro evangelios como el cumplimiento de la
 ### Según el Catecismo (CEC)
 
 El Catecismo presenta a Juan Bautista como el precursor que prepara el camino del Señor (CEC §523), el último de los profetas (CEC §523), el testigo que señala a Jesús como el Cordero de Dios (CEC §608) y el primero en reconocer la presencia del Espíritu Santo sobre Jesús en el Jordán (CEC §535). Su predicación de conversión prepara para la recepción del Reino de Dios (CEC §1427).
+
+En el contexto de la misión conjunta del Hijo y del Espíritu Santo, Juan es presentado como el [[precursor]] lleno del Espíritu Santo desde el seno materno (CEC §717). La Visitación de María a Isabel se convierte en «visita de Dios a su pueblo». Juan es «Elías que debe venir», el fuego del Espíritu lo habita y le hace correr delante como precursor del Señor que viene; en él, el Espíritu Santo culmina la obra de preparar al Señor un pueblo bien dispuesto (CEC §718). Juan es «más que un profeta»: en él, el Espíritu Santo consuma el «hablar por los profetas» y termina el ciclo profético inaugurado por Elías; anuncia la consolación de Israel, es la «voz» del Consolador que llega, y viene como testigo para dar testimonio de la luz (CEC §719). Finalmente, con Juan Bautista, el Espíritu Santo inaugura, prefigurándolo, lo que realizará con Cristo: volver a dar al hombre la «semejanza» divina (CEC §720).
 
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
@@ -32,14 +34,14 @@ Su testimonio consiste en proclamarse mero precursor: no es digno de desatar las
 
 ## Relaciones doctrinales
 
-Se relaciona con [[elías]], [[jesucristo]], [[bautismo]], [[conversión]], [[mesías]], [[reino_de_dios]], [[testimonio]], [[luz]], [[cordero_de_dios]], [[profecía_mesiánica]], [[isabel]], [[evangelios]], [[prefiguraciones_de_cristo]], [[antiguo_testamento]].
+Se relaciona con [[elías]], [[jesucristo]], [[bautismo]], [[conversión]], [[mesías]], [[reino_de_dios]], [[testimonio]], [[luz]], [[cordero_de_dios]], [[profecía_mesiánica]], [[isabel]], [[evangelios]], [[prefiguraciones_de_cristo]], [[antiguo_testamento]], [[precursor]].
 
 ## Ver también
 
-[[elías]], [[bautismo_de_juan]], [[profeta]], [[testimonio]], [[cordero_de_dios]], [[evangelios]]
+[[elías]], [[bautismo_de_juan]], [[profeta]], [[testimonio]], [[cordero_de_dios]], [[evangelios]], [[precursor]]
 
 ## Referencias
 
-- [CEC §523, §535, §608, §1427]
+- [CEC §523, §535, §608, §717-730, §1427]
 - [VocTeoBib, «Juan Bautista»]
 - Lc 1,5-80; Mc 1,1-11; Jn 1,19-34

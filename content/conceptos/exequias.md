@@ -1,7 +1,7 @@
 # Exequias
 
 > Área: Liturgia
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-19
 
 ## Definición
 
@@ -15,7 +15,9 @@ Las exequias cristianas son acto de culto a Dios, no simple homenaje al difunto.
 
 ### Según el Catecismo (CEC)
 
-El CEC §1680-1690 expone la doctrina sobre las exequias. La Iglesia, como Madre, ofrece el sacrificio eucarístico por el difunto y pide por él, mientras el cuerpo recibe la bendición antes de la sepultura (§1683). El cuerpo del difunto es respetado como templo del [[espíritu_santo]] y destinado a la resurrección (§1684). La Iglesia prefiere la sepultura a la [[cremación]], aunque la permite si no implica negación de la fe (§1684, §2301).
+El CEC §1680-1690 expone la doctrina sobre las exequias cristianas. Las exequias son culminación pascual de la vida sacramental del cristiano: todos los sacramentos, especialmente los de la iniciación, tienen como fin la Pascua definitiva (§1680). La muerte del cristiano es participación en el Misterio Pascual de Cristo; el que muere en Cristo «sale de este cuerpo para vivir con el Señor» (§1681). El día de la muerte inaugura la plenitud del nuevo nacimiento comenzado en el Bautismo (§1682).
+
+La Iglesia, como Madre, ofrece el sacrificio eucarístico por el difunto y pide por él, mientras el cuerpo recibe la bendición antes de la sepultura (§1683). La celebración de las exequias comprende cuatro momentos principales: la acogida de la comunidad (§1687), la Liturgia de la Palabra (§1688), el Sacrificio eucarístico (§1689) y el adiós o recomendación del difunto a Dios (§1690). La homilía debe evitar el género del elogio fúnebre e iluminar el misterio de la muerte cristiana a la luz de Cristo resucitado (§1688). Los diferentes ritos expresan el carácter pascual de la muerte cristiana y se adaptan a las tradiciones locales (§1685). La Iglesia prefiere la sepultura a la [[cremación]], aunque la permite si no implica negación de la fe (§1684, §2301).
 
 ### Según el Código de Derecho Canónico (CIC)
 
