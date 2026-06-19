@@ -25,6 +25,16 @@ Si no existe un consenso general sobre los valores de la dignidad humana, el res
 
 GS 75: «Es plenamente conforme a la naturaleza humana que las instituciones jurídico-políticas, tanto nacionales como internacionales, procuren, cada vez más y mejor, a todos los ciudadanos, sin discriminación alguna, la posibilidad efectiva de participar libre y activamente en la discusión y en la decisión de las leyes, en el gobierno de la cosa pública, en la determinación de los fines y en la ejecución de la acción de gobierno.» Se reconoce así el valor de la participación política, base de la democracia. El Concilio señala que «la autoridad pública debe tratar con justicia a todos los ciudadanos sin discriminación alguna». También afirma el derecho y deber de votar libremente para promover el bien común.
 
+### Según Memoria e Identidad (MI)
+
+Juan Pablo II presenta la democracia como un sistema que responde mejor a la naturaleza racional y social del hombre, pero sin «canonizarlo». «La ética social católica apoya en principio la solución democrática, porque responde mejor a la naturaleza racional y social del hombre. Pero está lejos —conviene precisarlo— de "canonizar" este sistema» [MI, cap. 22].
+
+La democracia se funda en la ley natural: «La ley establecida por el hombre, por los parlamentos o por cualquier otra entidad legislativa, no puede contradecir la ley natural, es decir, en definitiva, la ley eterna de Dios» [MI, cap. 22]. Santo Tomás definió la ley como «*Lex est quaedam rationis ordinatio ad bonum commune, ab eo qui curam communitatis habet promulgata*» [MI, cap. 22].
+
+El atentado contra la democracia más grave fue la «Ermächtigungsgesetz» que dio plenos poderes a Hitler: «Un parlamento legalmente elegido permitió el acceso de Hitler al poder [...] Los crímenes nazis tuvieron su Nuremberg, donde los responsables fueron juzgados y castigados por la justicia humana» [MI, cap. 22].
+
+«Las leyes abortistas» son un ejemplo de cómo «un parlamento [...] comete una grave injuria para con un ser humano inocente [...] han de ser conscientes de que se extralimitan en sus competencias y se ponen en patente contradicción con la ley de Dios y con la ley natural» [MI, cap. 22].
+
 ## Relaciones doctrinales
 
 Se relaciona con [[estado]], [[participación]], [[bien_común]], [[derechos_humanos]], [[sociedad_civil]], [[partidos_políticos]], [[ciudadanía]]

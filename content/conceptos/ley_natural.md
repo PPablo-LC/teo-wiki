@@ -57,3 +57,13 @@ Santo Tomás trata la ley natural en la cuestión 94 de la Ia-IIae, cuyos seis a
 - [CEC §2070-2071]
 - [Santo Tomás, S.Th. I-II, q. 90-97]
 - [CIC cc. 22, 24 §1, 199, 1°]
+
+### Según Memoria e Identidad (MI)
+
+Juan Pablo II presenta la ley natural como el fundamento de toda legislación humana, especialmente en el sistema democrático. «La ley establecida por el hombre, por los parlamentos o por cualquier otra entidad legislativa, no puede contradecir la ley natural, es decir, en definitiva, la ley eterna de Dios» [MI, cap. 22].
+
+Santo Tomás definió la ley: «*Lex est quaedam rationis ordinatio ad bonum commune, ab eo qui curam communitatis habet promulgata*» [MI, cap. 22]. «En cuanto "ordenamiento de la razón", la ley se funda en la verdad del ser: la verdad de Dios, la verdad del hombre, la verdad de la realidad creada en su conjunto. Dicha verdad es la base de la ley natural» [MI, cap. 22].
+
+La ley natural está grabada en el corazón del hombre: «Los mandamientos esculpidos en las dos tablas que recibió Moisés en el Sinaí están grabados al mismo tiempo en el corazón del hombre. Lo enseña Pablo en la Carta a los Romanos: "Muestran tener la realidad de esa ley escrita en su corazón, atestiguándolo su conciencia"» (Rm 2,15) [MI, cap. 22].
+
+La ley natural tiene valor vinculante incluso para quienes no aceptan la Revelación: «La ley divina del Decálogo tiene valor vinculante como ley natural también para los que no aceptan la Revelación: no matar, no fornicar, no robar, no dar falso testimonio, honra a tu padre y a tu madre…» [MI, cap. 22].
