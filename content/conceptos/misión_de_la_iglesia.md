@@ -50,10 +50,11 @@ El Jubileo del año 2000 subrayó la dimensión universal de la misión: «Crist
 
 Se relaciona con [[iglesia_cuerpo_místico]], [[jesucristo]], [[apostolado]], [[evangelización]], [[sacramentos]], [[magisterio_de_la_iglesia]] y [[reino_de_dios]].
 
+
+- [CEC §727-738, §758-769, §849-856, §1072]
+
 ## Ver también
 
 [[iglesia_cuerpo_místico]], [[apostolado]], [[evangelización]], [[reino_de_dios]]
 
 ## Referencias
-
-- [CEC §727-738, §758-769, §849-856, §1072]

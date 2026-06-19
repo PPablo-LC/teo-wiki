@@ -83,14 +83,15 @@ La Resurrección es la confirmación de que «el bien instaurado por Dios en la 
 
 La Redención concede al hombre «la victoria de Cristo sobre el mal, no sólo como un beneficio personal, sino también como tarea» [MI, cap. 6]. El hombre la asume emprendiendo el camino de la vida interior —vía purificativa, iluminativa y unitiva—, siguiendo el «sígueme» de Cristo [MI, cap. 6].
 
-## Ver también
-
-[[jesucristo]], [[pecado_original]], [[eucaristía]], [[bautismo]], [[gracia_santificante]], [[iglesia_cuerpo_místico]], [[jorge_loring]]
-
-## Referencias
 
 - [CEC §571-623]
 - [CEC §599-605, designio divino]
 - [CEC §606-618, ofrenda y sacrificio]
 - [PS §33-34]
 - SmTh IIIª q.1 aa.1-3; q.48 aa.1-6; q.49 aa.1-6; q.6 a.4
+
+## Ver también
+
+[[jesucristo]], [[pecado_original]], [[eucaristía]], [[bautismo]], [[gracia_santificante]], [[iglesia_cuerpo_místico]], [[jorge_loring]]
+
+## Referencias

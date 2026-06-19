@@ -48,10 +48,11 @@ Ver artículo principal: [[virtudes_infusas]]
 - [[john_wissler_virtuous_leadership]]
 - [[primeros_pasos_en_la_vida_espiritual]]
 
+
+- CEC §1805-1809
+- TPCr, Tercera Parte, Libro I, Cap. VI
+
 ## Ver también
 [[virtudes_infusas]], [[virtud_de_la_prudencia]], [[virtud_de_la_justicia]], [[virtud_de_la_fortaleza]], [[virtud_de_la_templanza]]
 
 ## Referencias
-
-- CEC §1805-1809
-- TPCr, Tercera Parte, Libro I, Cap. VI

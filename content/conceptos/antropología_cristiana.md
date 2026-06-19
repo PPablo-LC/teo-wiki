@@ -44,11 +44,6 @@ La encíclica concluye que «la grandeza del hombre jamás consistirá» en cree
 
 Se relaciona con [[imagen_de_dios]], [[persona_humana]], [[dignidad_humana]], [[creación_del_hombre]], [[alma_espiritual]], [[libertad]], [[redención]], [[fe_y_razón]], [[verdad]]
 
-## Ver también
-
-[[imagen_de_dios]], [[persona_humana]], [[dignidad_humana]], [[alma_espiritual]], [[libertad]], [[redención]], [[pecado_original]], [[vocación_del_hombre]]
-
-## Referencias
 
 - FR, Introducción, §1; Cap. I, §12, §15; Cap. III, §28, §31-32; Cap. VII, §80, §83; Conclusión, §107
 - CEC §355-421, §1701-1715
@@ -63,3 +58,9 @@ Juan Pablo II profundiza en la antropología cristiana desde la perspectiva del 
 «La dignidad propia del hombre no se basa únicamente en el hecho mismo de ser hombre, sino, sobre todo, en que Dios se hizo verdadero hombre en Jesucristo. En efecto, acto seguido leemos: "Pues él mismo, el Hijo de Dios, con su encarnación, se ha unido, en cierto modo, con todo hombre"» (GS 22) [MI, cap. 18].
 
 El misterio del Verbo encarnado ayuda a comprender «el misterio del hombre también en su dimensión histórica. Porque Cristo es el "último Adán", como dice san Pablo» (1 Co 15,45) [MI, cap. 18]. «Al margen del Evangelio, el hombre se queda en un dramático interrogante sin respuesta. Porque la respuesta apropiada a la pregunta sobre el hombre es Cristo, el *Redemptor hominis*» [MI, cap. 18].
+
+## Ver también
+
+[[imagen_de_dios]], [[persona_humana]], [[dignidad_humana]], [[alma_espiritual]], [[libertad]], [[redención]], [[pecado_original]], [[vocación_del_hombre]]
+
+## Referencias

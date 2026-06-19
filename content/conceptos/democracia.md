@@ -39,10 +39,11 @@ El atentado contra la democracia más grave fue la «Ermächtigungsgesetz» que 
 
 Se relaciona con [[estado]], [[participación]], [[bien_común]], [[derechos_humanos]], [[sociedad_civil]], [[partidos_políticos]], [[ciudadanía]]
 
+
+- [CompDS §406-416]
+
 ## Ver también
 
 [[estado]], [[participación]], [[bien_común]], [[sociedad_civil]]
 
 ## Referencias
-
-- [CompDS §406-416]

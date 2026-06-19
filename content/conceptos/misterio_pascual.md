@@ -70,11 +70,12 @@ El Misterio Pascual es el núcleo de la [[redención]] y se relaciona con la [[p
 - [[john_wissler_leading_with_charity]]
 - [[sean_glass_call_to_fortitude]]
 
-## Ver también
-[[pasión_de_cristo]], [[redención]], [[resurrección_de_cristo]], [[ascensión]], [[eucaristía]], [[triduo_pascual]], [[sacerdocio_de_cristo]], [[nuevo_adán]]
-
-## Referencias
 
 - [CEC §571-664, pasión, muerte, resurrección, ascensión]
 - [CEC §1067-1089, el Misterio Pascual en la liturgia]
 - [TPCr, Parte I, Cristología]
+
+## Ver también
+[[pasión_de_cristo]], [[redención]], [[resurrección_de_cristo]], [[ascensión]], [[eucaristía]], [[triduo_pascual]], [[sacerdocio_de_cristo]], [[nuevo_adán]]
+
+## Referencias

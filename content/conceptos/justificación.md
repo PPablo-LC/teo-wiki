@@ -53,12 +53,13 @@ La Resurrección de Cristo pone de relieve que «sólo la medida del bien instau
 
 **q.113 a.10 — ¿Milagro?:** La justificación no es milagrosa en sentido estricto, porque el alma es capaz de la gracia por haber sido hecha a imagen de Dios. Sin embargo, cuando se produce de modo súbito y extraordinario (como en San Pablo), puede llamarse milagrosa por el modo.
 
+
+- [CEC §1987-2029]
+- [Concilio de Trento, DS 1520-1583]
+- [Rm 3,21-31; 5,1-11; 8,28-30]
+
 ## Ver también
 
 [[gracia_santificante]], [[gracias_actuales]], [[virtudes_infusas]], [[bautismo]], [[perfección_cristiana]], [[pecado]]
 
 ## Referencias
-
-- [CEC §1987-2029]
-- [Concilio de Trento, DS 1520-1583]
-- [Rm 3,21-31; 5,1-11; 8,28-30]

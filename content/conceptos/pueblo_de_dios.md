@@ -51,6 +51,11 @@ Juan Pablo II presenta al Pueblo de Dios como el «nuevo Israel» que integra a 
 
 «"Todos los hombres están invitados al nuevo Pueblo de Dios […] Por tanto, el Pueblo de Dios lo forman personas de toda las naciones." Esto significa que la historia de todas las naciones está llamada a entrar en la historia de la salvación» [MI, cap. 13]. La Iglesia, «el Pueblo de Dios fundado en la Nueva Alianza, es el nuevo Israel y se presenta con un carácter de universalidad: cada nación tiene en ella el mismo derecho de ciudadanía» [MI, cap. 13].
 
+
+- CEC §781-786
+- CEC §804, 823, 831, 836
+- CIC cc. 204-208
+
 ## Distinciones importantes
 
 - No es un pueblo étnico ni político sino religioso y sobrenatural
@@ -63,7 +68,3 @@ Juan Pablo II presenta al Pueblo de Dios como el «nuevo Israel» que integra a 
 [[iglesia_cuerpo_místico]], [[cristo]], [[sacerdocio_bautismal]], [[sacerdocio]], [[reinado_de_cristo]]
 
 ## Referencias
-
-- CEC §781-786
-- CEC §804, 823, 831, 836
-- CIC cc. 204-208

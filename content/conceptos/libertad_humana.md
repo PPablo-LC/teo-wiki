@@ -53,11 +53,12 @@ La libertad es «una categoría ética» que se realiza por medio de la verdad. 
 
 - [[jeff_lacour_true_freedom_through_prayer]]
 
-## Ver también
-[[actos_humanos]], [[conciencia_moral]], [[ley_natural]], [[gracia_santificante]], [[pecado]], [[virtudes]]
-
-## Referencias
 
 - [CEC §1730-1748]
 - [GS 17]
 - [Santo Tomás, S.Th. I, q. 83; I-II, q. 13]
+
+## Ver también
+[[actos_humanos]], [[conciencia_moral]], [[ley_natural]], [[gracia_santificante]], [[pecado]], [[virtudes]]
+
+## Referencias

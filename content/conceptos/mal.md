@@ -50,12 +50,13 @@ El mal no es omnipotente: la Divina Providencia impone límites a su desenfreno.
 
 El mal como privación del bien se relaciona con la doctrina de la [[creación]] (todo lo creado es bueno), con el [[demonio]] (el ángel caído no es malo por naturaleza sino por libre elección), con el [[pecado_original]] (introducción del mal moral en la humanidad), con la [[gracia_santificante]] (remedio del mal de culpa), con la [[providencia_divina]] (Dios permite el mal para sacar bienes mayores), y con el [[mysterium_iniquitatis]] (coexistencia del bien y del mal en la historia).
 
+
+- SmTh Iª q.48 a.1-6
+- SmTh Iª q.49 a.1-3
+- [MI, cap. 1–3]
+
 ## Ver también
 
 [[demonio]], [[pecado_original]], [[concupiscencia]], [[tentación]], [[creación]], [[providencia_divina]], [[infierno]], [[mysterium_iniquitatis]]
 
 ## Referencias
-
-- SmTh Iª q.48 a.1-6
-- SmTh Iª q.49 a.1-3
-- [MI, cap. 1–3]

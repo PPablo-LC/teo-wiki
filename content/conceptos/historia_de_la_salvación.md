@@ -36,6 +36,10 @@ La historicidad del hombre se manifiesta en su capacidad de «objetivar la histo
 
 La historia tiene una «peculiar connotación escatológica»: «la vida humana tiene sentido, como lo tiene también la historia de las naciones» [MI, cap. 14]. Aunque «serán los hombres y no las naciones quienes se presentarán ante el juicio de Dios, pero en el juicio sobre los hombres de alguna manera serán juzgadas también las naciones» [MI, cap. 14].
 
+
+- CEC §54-73
+- CEC §288-305
+
 ## Distinciones importantes
 
 - No es una historia sagrada paralela a la historia profana: toda la historia es historia de salvación
@@ -48,6 +52,3 @@ La historia tiene una «peculiar connotación escatológica»: «la vida humana 
 [[revelación]], [[alianza]], [[cristo]], [[iglesia_cuerpo_místico]], [[designio_de_dios]], [[escatología]]
 
 ## Referencias
-
-- CEC §54-73
-- CEC §288-305

@@ -76,13 +76,14 @@ La cruz es el acto consumativo de la [[redención]] y el sacrificio de la [[alia
 
 - [[clarkson_gospels_human_suffering]] — convergencia en la cruz como kenosis y poder transformante; aporta la contraposición entre el poder kenótico de Cristo y el poder mundano, la crítica de Nietzsche a la cruz, y la teodramática de Balthasar sobre el poder trinitario como autodonación
 
-## Ver también
-
-[[redención]], [[pasión_de_cristo]], [[eucaristía]], [[resurrección]], [[perfección_cristiana]], [[alianzas]]
-
-## Referencias
 
 - [CEC §616-623]
 - [TPCr, Parte III, Libro I]
 - [VocTeoBib, «Cruz»]
 - [EjEsp2026, cap. 7, 11]
+
+## Ver también
+
+[[redención]], [[pasión_de_cristo]], [[eucaristía]], [[resurrección]], [[perfección_cristiana]], [[alianzas]]
+
+## Referencias

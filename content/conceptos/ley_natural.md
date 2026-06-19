@@ -47,11 +47,6 @@ Santo Tomás trata la ley natural en la cuestión 94 de la Ia-IIae, cuyos seis a
 
 **Abolición.** La ley natural no puede ser abolida en el corazón humano en cuanto a sus principios más comunes considerados en universal (q.94 a.6). Puede ser abolida en algún caso concreto cuando la razón se ve impedida por la concupiscencia o la pasión. Los preceptos secundarios pueden ser borrados por malas persuasiones o por costumbres depravadas y hábitos corrompidos.
 
-## Ver también
-
-[[conciencia_moral]], [[decálogo]], [[ley_evangélica]], [[virtud_de_la_prudencia]]
-
-## Referencias
 
 - [CEC §1954-1960]
 - [CEC §2070-2071]
@@ -67,3 +62,9 @@ Santo Tomás definió la ley: «*Lex est quaedam rationis ordinatio ad bonum com
 La ley natural está grabada en el corazón del hombre: «Los mandamientos esculpidos en las dos tablas que recibió Moisés en el Sinaí están grabados al mismo tiempo en el corazón del hombre. Lo enseña Pablo en la Carta a los Romanos: "Muestran tener la realidad de esa ley escrita en su corazón, atestiguándolo su conciencia"» (Rm 2,15) [MI, cap. 22].
 
 La ley natural tiene valor vinculante incluso para quienes no aceptan la Revelación: «La ley divina del Decálogo tiene valor vinculante como ley natural también para los que no aceptan la Revelación: no matar, no fornicar, no robar, no dar falso testimonio, honra a tu padre y a tu madre…» [MI, cap. 22].
+
+## Ver también
+
+[[conciencia_moral]], [[decálogo]], [[ley_evangélica]], [[virtud_de_la_prudencia]]
+
+## Referencias

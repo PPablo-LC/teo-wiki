@@ -29,11 +29,6 @@ Pablo transmite la tradición apostólica: «Os he transmitido lo que recibí de
 
 Se relaciona con la [[tradición_apostólica]], la [[sagrada_escritura]], el [[magisterio_de_la_iglesia]], el [[depósito_de_la_fe]], la [[revelación_divina]], la [[sucesión_apostólica]] y la [[patrística]].
 
-## Ver también
-
-[[tradición_apostólica]], [[sagrada_escritura]], [[magisterio_de_la_iglesia]], [[depósito_de_la_fe]], [[revelación_divina]], [[dei_verbum]]
-
-## Referencias
 
 - DV 7-10
 - CEC §74-100, §113
@@ -45,3 +40,9 @@ Juan Pablo II presenta la Tradición como la función activa de la memoria de la
 Cristo prometió al Espíritu Santo: «Él "será quien os lo enseñe todo y os vaya recordando todo lo que os he dicho"» (Jn 14,26) [MI, cap. 24]. «Así pues, cuando la Iglesia celebra la Eucaristía, que es el "memorial" del Señor, lo hace con la ayuda del Espíritu Santo, que, día a día, despierta y orienta su memoria» [MI, cap. 24].
 
 «La memoria de esta identidad esencial que Cristo ha dado a su Iglesia es más fuerte que todas las divisiones introducidas por los hombres» [MI, cap. 24]. Las palabras de la institución de la Eucaristía —«Haced esto en recuerdo mío»— son «unívocas; palabras que no admiten divisiones ni escisiones» [MI, cap. 24].
+
+## Ver también
+
+[[tradición_apostólica]], [[sagrada_escritura]], [[magisterio_de_la_iglesia]], [[depósito_de_la_fe]], [[revelación_divina]], [[dei_verbum]]
+
+## Referencias

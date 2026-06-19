@@ -143,10 +143,6 @@ Loring subraya que «la realidad del pecado original es dogma de fe», definido 
 - [[sean_glass_call_to_fortitude]]
 - [[tim_barry_mortification_maketh_man]]
 
-## Ver también
-[[creación]], [[hombre]], [[redención]], [[bautismo]], [[gracia_santificante]], [[jesucristo]], [[ángeles]], [[jorge_loring]], [[soberbia]], [[tentación]]
-
-## Referencias
 
 - [CEC §385-421]
 - [CEC §396-400, primer pecado]
@@ -155,3 +151,8 @@ Loring subraya que «la realidad del pecado original es dogma de fe», definido 
 - [PS §09,43]
 - SmTh Ia-IIae q.81-83
 - SmTh Ia-IIae q.85 a.3 (cuatro heridas)
+
+## Ver también
+[[creación]], [[hombre]], [[redención]], [[bautismo]], [[gracia_santificante]], [[jesucristo]], [[ángeles]], [[jorge_loring]], [[soberbia]], [[tentación]]
+
+## Referencias

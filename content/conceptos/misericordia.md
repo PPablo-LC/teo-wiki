@@ -76,11 +76,12 @@ La misericordia se relaciona con la [[justicia_divina]], la [[penitencia]], el [
 - [[john_wissler_leading_with_charity]]
 - [[john_wissler_virtuous_leadership]]
 
-## Ver también
-[[justicia_divina]], [[penitencia]], [[conversión]], [[caridad]], [[sacramento_de_la_reconciliación]], [[perdón]]
-
-## Referencias
 
 - [CEC §1846-1848]
 - [CEC §210-211]
 - [TPCr, Parte II]
+
+## Ver también
+[[justicia_divina]], [[penitencia]], [[conversión]], [[caridad]], [[sacramento_de_la_reconciliación]], [[perdón]]
+
+## Referencias

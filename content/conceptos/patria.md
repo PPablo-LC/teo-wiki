@@ -37,11 +37,12 @@ El Evangelio ha dado «un significado nuevo al concepto de patria. En su acepci�
 
 [[cielo]], [[jerusalén]], [[peregrinación]], [[reino_de_dios]], [[tierra_prometida]], [[exilio]]
 
+
+- [VocTeoBib, «Patria»]
+- Gen 12; Flp 3,20; Gal 4,26; Ef 2,19; Heb 11,13-16; Heb 13,14
+
 ## Ver también
 
 [[cielo]], [[jerusalén]], [[peregrinación]], [[tierra_prometida]]
 
 ## Referencias
-
-- [VocTeoBib, «Patria»]
-- Gen 12; Flp 3,20; Gal 4,26; Ef 2,19; Heb 11,13-16; Heb 13,14

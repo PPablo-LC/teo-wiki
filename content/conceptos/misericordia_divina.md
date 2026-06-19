@@ -44,10 +44,6 @@ Se relaciona con [[redención]], [[conversión]], [[penitencia]], [[pecado]], [[
 
 - [[adam_farber_fortitude_through_excellence_in_patience]]
 
-## Ver también
-[[redención]], [[conversión]], [[penitencia]], [[esperanza]], [[misericordia]]
-
-## Referencias
 
 - [CEC §1261, §1431, §1490, §1846-1848, §1987-1995, §2839-2845]
 - [TPCr, Primera Parte, Cap. 3]
@@ -71,3 +67,8 @@ Juan Pablo II sitúa la misericordia divina como la respuesta definitiva al *mys
 «Ciertamente, en ella se incluye también la Justicia, pero ésta, por sí sola, no es la última palabra en la economía divina de la historia del mundo y en la historia del hombre. Dios sabe obtener siempre del mal algo bueno» [MI, cap. 10]. «Cristo crucificado y resucitado, como se apareció a sor Faustina, es la revelación suprema de esta verdad» [MI, cap. 10].
 
 El patrimonio espiritual de Santa Faustina «tuvo una gran importancia para la resistencia contra el mal practicado en aquellos sistemas inhumanos de entonces» [MI, cap. 10]. «¡El mal nunca consigue la victoria definitiva! El misterio pascual confirma que, a la postre, vence el bien; que la vida prevalece sobre la muerte y el amor triunfa sobre el odio» [MI, cap. 10].
+
+## Ver también
+[[redención]], [[conversión]], [[penitencia]], [[esperanza]], [[misericordia]]
+
+## Referencias
