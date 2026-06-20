@@ -21,16 +21,36 @@ En el contexto de una cultura que deforma o pierde el verdadero significado de l
 
 La educación sexual, derecho y deber de los padres, debe basarse en una cultura sexual verdadera y plenamente personal, y realizarse bajo su dirección solícita, rechazando un sistema de información sexual separado de los principios morales (FC §37).
 
+### Según la Teología del Cuerpo (TdC)
+
+Juan Pablo II aborda la sexualidad humana en el marco de la teología del cuerpo, distinguiendo entre corporeidad y sexualidad: «Aunque el cuerpo humano, en su constitución normal, lleva en sí los signos del sexo y sea, por su naturaleza, masculino o femenino, sin embargo, el hecho de que el hombre sea 'cuerpo' pertenece a la estructura del sujeto personal más profundamente que el hecho de que en su constitución somática sea también varón o mujer» (TdC 07.11.1979).
+
+La teología del cuerpo es también «teología del sexo, o mejor, teología de la masculinidad y de la feminidad» (TdC 14.11.1979).
+
+Tras el pecado original, «la esfera de la sexualidad humana pone particularmente en evidencia el desequilibrio que brota de la concupiscencia del cuerpo. El hombre de la concupiscencia experimenta una específica fractura de la integridad personal del propio cuerpo, especialmente en lo que determina su sexualidad» (TdC 28.05.1980).
+
+La diferencia sexual, que en el principio era el substrato de la comunión de personas, tras el pecado es «bruscamente sentida como elemento de recíproca contraposición de personas». «El pudor sexual atestigua la pérdida de la certeza originaria de que el cuerpo humano, a través de su masculinidad y feminidad, sea el substrato de la comunión de las personas» (TdC 04.06.1980).
+
+El significado esponsalicio del cuerpo revela un valor y una belleza que sobrepasan la «dimensión simplemente física de la 'sexualidad'» (TdC 16.01.1980).
+
+La concupiscencia reduce a la mujer «al único valor del sexo»: «La feminidad deja de ser así para la masculinidad sobre todo sujeto; deja de ser un lenguaje específico del espíritu; pierde el carácter de signo» (TdC 17.09.1980).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[amor_conyugal]], [[matrimonio]], [[castidad]], [[educación_sexual]], [[significado_esponsal_del_cuerpo]], [[anticoncepción]], [[paternidad_responsable]]
 
 ## Ver también
 
-[[amor_conyugal]], [[matrimonio]], [[castidad]], [[paternidad_responsable]]
+[[amor_conyugal]], [[matrimonio]], [[castidad]], [[paternidad_responsable]], [[teología_del_cuerpo]]
 
 ## Referencias
 
 - [FC §11]
 - [FC §32]
 - [FC §37]
+- [TdC 07.11.1979]
+- [TdC 14.11.1979]
+- [TdC 16.01.1980]
+- [TdC 28.05.1980]
+- [TdC 04.06.1980]
+- [TdC 17.09.1980]

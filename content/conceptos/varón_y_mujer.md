@@ -38,6 +38,17 @@ GS 60: Debe procurarse que las mujeres puedan «asumir con plenitud su papel seg
 
 **a.4 — Hecha directamente por Dios:** Solo Dios, Autor de la naturaleza, pudo formar a la mujer de la costilla del varón, pues la generación natural procede de materia determinada (semen), no de otra materia (q.92 a.4).
 
+### Según la Teología del Cuerpo (TdC)
+
+Juan Pablo II, en su catequesis sobre la teología del cuerpo, parte del texto de Gn 1,27: «Dios creó al hombre a imagen suya… varón y hembra los creó», y de Gn 2,24: «Por eso dejará el hombre a su padre y a su madre; y se unirá a su mujer, y vendrán a ser los dos una sola carne» (TdC 05.09.1979).
+
+Del segundo relato de la creación (Gn 2) se desprende que el hombre ('adam') es creado primero y la mujer de su costilla. A la vista de la mujer, el hombre exclama por primera vez 'is (varón) en relación a 'issah (mujer): «Esto sí que es ya hueso de mis huesos y carne de mi carne» (Gn 2,23) (TdC 19.09.1979).
+
+La corporeidad y la sexualidad no se identifican completamente: «Aunque el cuerpo humano, en su constitución normal, lleva en sí los signos del sexo y sea, por su naturaleza, masculino o femenino, sin embargo, el hecho de que el hombre sea 'cuerpo' pertenece a la estructura del sujeto personal más profundamente que el hecho de que en su constitución somática sea también varón o mujer» (TdC 07.11.1979).
+
+La unidad de ambos denota la identidad de la naturaleza humana; la dualidad manifiesta la masculinidad y la feminidad. «La presencia del elemento femenino junto al masculino y al mismo tiempo que él, tiene el significado de un enriquecimiento para el hombre en toda la perspectiva de la historia, comprendida también la historia de la salvación» (TdC 21.11.1979). «La feminidad, en cierto sentido, se encuentra a sí misma frente a la masculinidad, mientras que la masculinidad se confirma a través de la feminidad» (TdC 21.11.1979).
+
+La concupiscencia altera la relación varón-mujer: «él te dominará» (Gn 3,16) indica una infracción de la comunión original (TdC 18.06.1980).
 
 ## Distinciones importantes
 
@@ -64,3 +75,8 @@ Se relaciona con [[imagen_de_dios]], [[complementariedad]], [[igualdad]], [[dign
 - [CEC §369-373, §2331-2336]
 - [Juan Pablo II, Mulieris Dignitatem]
 - SmTh Iª q.92 aa.1-4
+- [TdC 05.09.1979]
+- [TdC 19.09.1979]
+- [TdC 07.11.1979]
+- [TdC 21.11.1979]
+- [TdC 18.06.1980]

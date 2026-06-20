@@ -17,6 +17,20 @@ La pureza de corazón es un don de Dios y una tarea que requiere combate espirit
 
 "Bienaventurados los limpios de corazón porque ellos verán a Dios" (CEC §2518). Los corazones limpios designan a los que han ajustado su inteligencia y voluntad a la santidad de Dios en la caridad, la castidad y la ortodoxia de la fe (CEC §2518). A los limpios de corazón se les promete ver a Dios cara a cara; ya desde ahora esta pureza permite ver según Dios (CEC §2519). El combate por la pureza incluye la pureza de intención, la pureza de la mirada, el rechazo de toda complacencia en pensamientos impuros (CEC §2520). La pureza exige el pudor, parte integrante de la templanza (CEC §2521). La pureza cristiana exige una purificación del clima social (CEC §2525). La pureza del corazón nos alcanzará el ver a Dios (CEC §2531). La purificación del corazón es imposible sin oración, castidad y pureza de intención (CEC §2532).
 
+### Según la Teología del Cuerpo (TdC)
+
+Juan Pablo II dedica la Parte II de su catequesis sobre la teología del cuerpo a la «purificación del corazón», partiendo de Mt 5,27-28: «Todo el que mira a una mujer deseándola, ya adulteró con ella en su corazón». Esta enunciación constituye, junto con Mt 19,3-9, una clave de la teología del cuerpo (TdC 16.04.1980).
+
+Cristo apela al hombre interior. El «corazón» es «la dimensión de la humanidad con la que está vinculado directamente el sentido del significado del cuerpo y el orden de este sentido» (TdC 23.04.1980).
+
+La verdad universal sobre el hombre «histórico» a la que apunta Mt 5,27-28 se expresa en la doctrina bíblica de la triple concupiscencia (1 Jn 2,16-17): concupiscencia de la carne, concupiscencia de los ojos y orgullo de la vida, que no vienen del Padre sino del mundo, como fruto de la ruptura de la Alianza (TdC 30.04.1980).
+
+Las palabras de Cristo «sobre todo son una llamada». Cristo «no invita al hombre a retornar al estado de la inocencia originaria... sino que lo llama a encontrar —sobre el fundamento de los significados perennes y, por así decir, indestructibles de lo que es 'humano'— las formas vivas del 'hombre nuevo'» (TdC 03.12.1980).
+
+La pureza de corazón «es, en todo caso, reminiscencia de la soledad originaria, de la que fue liberado el hombre-varón mediante la apertura al otro ser humano, a la mujer. La pureza de corazón se explica, en fin de cuentas, con la relación hacia el otro sujeto, que es originaria y perennemente 'conllamado'» (TdC 03.12.1980).
+
+Conclusión: «La pureza es exigencia del amor. Es la dimensión de su verdad interior en el 'corazón' del hombre» (TdC 03.12.1980).
+
 ## Distinciones importantes
 
 - Pureza de corazón no es solo pureza sexual, aunque la incluye
@@ -26,7 +40,7 @@ La pureza de corazón es un don de Dios y una tarea que requiere combate espirit
 
 ## Relaciones doctrinales
 
-[[bienaventuranzas]], [[castidad]], [[templanza]], [[pudor]], [[visión_de_dios]], [[ascética]]
+[[bienaventuranzas]], [[castidad]], [[templanza]], [[pudor]], [[visión_de_dios]], [[ascética]], [[teología_del_cuerpo]]
 
 
 ## Analizado para
@@ -36,3 +50,7 @@ La pureza de corazón es un don de Dios y una tarea que requiere combate espirit
 ## Referencias
 - CEC §2517-2527
 - CEC §2531-2533
+- [TdC 16.04.1980]
+- [TdC 23.04.1980]
+- [TdC 30.04.1980]
+- [TdC 03.12.1980]

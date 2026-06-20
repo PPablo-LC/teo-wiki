@@ -33,6 +33,22 @@ El amor conyugal es esencialmente don: a la vez que conduce a los esposos al rec
 
 El principio interior, la fuerza permanente y la meta última de la comunidad familiar es el amor: sin el amor la familia no puede vivir, crecer y perfeccionarse como comunidad de personas (FC §18). La donación física total sería un engaño si no fuese signo y fruto de una donación en la que está presente toda la persona, incluso en su dimensión temporal (FC §11).
 
+### Según la Teología del Cuerpo (TdC)
+
+El amor conyugal encuentra su fundamento en el significado esponsalicio del cuerpo. Gn 2,24 («vendrán a ser los dos una sola carne») expresa la unión de las personas mediante el don recíproco: «El cuerpo que expresa la persona» se manifiesta en la reciprocidad de la masculinidad y feminidad (TdC 09.01.1980).
+
+«El cuerpo humano, con su sexo, y con su masculinidad y feminidad... incluye desde 'el principio' el atributo 'esponsalicio', es decir, la capacidad de expresar el amor: ese amor precisamente en el que el hombre-persona se convierte en don y —mediante este don— realiza el sentido mismo de su ser y existir» (TdC 16.01.1980).
+
+En la donación mutua de la inocencia original, dar y aceptar se interpenetran de modo que «el mismo dar se convierte en aceptar, y el aceptar se convierte en dar» (TdC 06.02.1980). Lo opuesto a esta aceptación del otro como don sería la reducción del otro a «objeto para mí mismo» (TdC 06.02.1980).
+
+Tras el pecado original, la relación de don recíproco se cambió en una relación de recíproca apropiación. Los términos «mío… mía» en el lenguaje del amor «indican la reciprocidad de la donación, expresan el equilibrio del don», no la posesión (TdC 30.07.1980).
+
+«La concupiscencia, de por sí, no es capaz de promover la unión como comunión de personas. Ella sola no une, sino que se adueña. La relación del don se transforma en la relación de apropiación» (TdC 23.07.1980).
+
+Cristo llama al corazón humano a un nuevo ethos: en la esfera del amor, «el 'eros' y el 'ethos' no divergen entre sí, no se contraponen mutuamente, sino que están llamados a encontrarse en el corazón humano y a fructificar en este encuentro» (TdC 05.11.1980).
+
+La pureza de corazón, a la que Cristo llama en el Sermón de la Montaña, es exigencia del amor y dimensión de su verdad interior en el corazón del hombre (TdC 03.12.1980).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[matrimonio]], [[sacramento_del_matrimonio]], [[fidelidad]], [[indisolubilidad]], [[procreación]], [[castidad]]
@@ -47,3 +63,10 @@ Se relaciona con [[matrimonio]], [[sacramento_del_matrimonio]], [[fidelidad]], [
 - [CompDS §223, §225]
 - [CompDS §230]
 - [FC §11, §13, §14, §18]
+- [TdC 09.01.1980]
+- [TdC 16.01.1980]
+- [TdC 06.02.1980]
+- [TdC 30.07.1980]
+- [TdC 23.07.1980]
+- [TdC 05.11.1980]
+- [TdC 03.12.1980]

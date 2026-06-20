@@ -74,6 +74,23 @@ Royo Marín dedica amplio espacio a la mortificación corporal como medio necesa
 
 Trata también de los fenómenos corporales extraordinarios: estigmatización, lágrimas y sudor de sangre, bilocación, levitación, sutileza, luces o resplandores, perfume sobrenatural (TPCr, Cuarta Parte, Cap. II).
 
+### Según la Teología del Cuerpo (TdC)
+
+Juan Pablo II desarrolla el significado del cuerpo humano a partir de las páginas del Génesis. El cuerpo pertenece al mundo visible: el hombre «es cuerpo entre los cuerpos» y tiene «simultáneamente el conocimiento y la conciencia del sentido del propio cuerpo... sobre la base de la experiencia de la soledad originaria» (TdC 24.10.1979).
+
+«El hombre es sujeto no sólo por su autoconciencia y autodeterminación, sino también a base del propio cuerpo. La estructura de este cuerpo es tal, que le permite ser el autor de una actividad puramente humana. En esta actividad el cuerpo expresa la persona» (TdC 31.10.1979).
+
+El cuerpo revela al hombre. «'Carne de mi carne' (Gn 2,23) contiene ya todo lo que sobre la estructura del cuerpo como organismo, sobre su vitalidad, sobre su particular fisiología sexual, etc., podrá decir acaso la ciencia humana» y encierra «una referencia a aquello por lo que el cuerpo es auténticamente humano, y por lo tanto a lo que determina al hombre como persona, es decir, como ser que incluso en toda su corporeidad es 'semejante' a Dios» (TdC 14.11.1979).
+
+«El cuerpo, y sólo él, es capaz de hacer visible lo que es invisible: lo espiritual y lo divino. Ha sido creado para transferir a la realidad visible del mundo el misterio escondido desde la eternidad en Dios» (TdC 20.02.1980).
+
+El cuerpo humano incluye desde el principio el atributo esponsalicio: la capacidad de expresar el amor en el que la persona se convierte en don (TdC 16.01.1980).
+
+Tras el pecado original, el cuerpo humano pierde la certeza originaria de ser imagen de Dios: «se derrumba la aceptación originaria del cuerpo como signo de la persona en el mundo visible» (TdC 14.05.1980). Aparece una fractura constitutiva en la persona: «Siento otra ley en mis miembros que repugna a la ley de mi mente» (Rm 7,22-23) (TdC 28.05.1980).
+
+El cuerpo humano tiene carácter nupcial: es «capaz de expresar el amor con que el hombre-persona se hace don» (TdC 23.07.1980).
+
+Mediante la templanza y el dominio de sí, el hombre «realiza la gradual experiencia de la propia dignidad» y «atestigua el propio autodominio» (TdC 03.12.1980).
 
 ## Distinciones importantes
 
@@ -104,3 +121,12 @@ Trata también de los fenómenos corporales extraordinarios: estigmatización, l
 - TPCr, Cuarta Parte, Cap. II (Fenómenos corporales)
 - [VocTeoBib, «Cuerpo»]
 - SmTh Iª q.75 a.1; q.76 aa.1-2, 4-5; q.90 a.2; q.91 aa.1, 3; q.115 aa.1-2; q.119 aa.1-2
+- [TdC 24.10.1979]
+- [TdC 31.10.1979]
+- [TdC 14.11.1979]
+- [TdC 16.01.1980]
+- [TdC 20.02.1980]
+- [TdC 14.05.1980]
+- [TdC 28.05.1980]
+- [TdC 23.07.1980]
+- [TdC 03.12.1980]

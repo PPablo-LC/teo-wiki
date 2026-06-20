@@ -68,6 +68,17 @@ La Iglesia recuerda a los hombres y mujeres la gloria que vive secretamente en e
 
 El discurso a los jóvenes chilenos se abre con el reconocimiento de la «dignidad propia del hombre creado a imagen y semejanza de Dios» [JPII-JovCh]. Sobre este fundamento antropológico, Juan Pablo II exhorta a «luchar con denuedo contra las fuerzas del mal [...] por la dignidad del hombre, por la dignidad del amor, por una vida noble de hijos de Dios» [JPII-JovCh]. La imagen divina en el hombre es el fundamento tanto de la dignidad personal como de la exigencia de justicia y solidaridad en la construcción de una nueva civilización.
 
+### Según la Teología del Cuerpo (TdC)
+
+Juan Pablo II profundiza el concepto de imagen de Dios a la luz de la teología del cuerpo. Del primer relato de la creación (Gn 1,26-27) se desprende que el hombre es definido por su relación con Dios: «La definición del hombre sobre la base de su relación con Dios ('a imagen de Dios lo creó') incluye al mismo tiempo la afirmación de la imposibilidad absoluta de reducir el hombre al 'mundo'» (TdC 12.09.1979).
+
+El segundo relato revela al hombre como «sujeto de la Alianza», constituido como persona «a medida de 'partner del Absoluto'», pues debe discernir y elegir entre el bien y el mal (TdC 24.10.1979). «El hombre está solo; esto quiere decir que él, a través de la propia humanidad, a través de lo que él es, queda constituido al mismo tiempo en una relación única, exclusiva e irrepetible con Dios mismo» (TdC 24.10.1979).
+
+La imagen de Dios alcanza su plenitud en la comunión interpersonal: «El hombre se convierte en imagen de Dios no tanto en el momento de la soledad, cuanto en el momento de la comunión. Efectivamente, él es 'desde el principio' no sólo imagen en la que se refleja la soledad de una Persona que rige al mundo, sino también y esencialmente, imagen de una inescrutable comunión divina de Personas» (TdC 14.11.1979).
+
+El segundo relato prepara para «comprender el concepto trinitario de la 'imagen de Dios'» (TdC 14.11.1979).
+
+Tras el pecado original, el cuerpo humano, que llevaba en sí el signo de la imagen de Dios, pierde la certeza originaria de esa imagen. «Se derrumba la aceptación originaria del cuerpo como signo de la persona» (TdC 14.05.1980). La triple concupiscencia «no corresponde a la plenitud de la 'imagen de Dios' sino a los daños, deficiencias y limitaciones que aparecieron con el pecado» (TdC 14.05.1980).
 
 ## Distinciones importantes
 
@@ -85,7 +96,7 @@ Se relaciona con la [[creación]] del hombre, el [[pecado_original]] que la desf
 - [[jeff_lacour_true_freedom_through_prayer]]
 
 ## Ver también
-[[hombre]], [[creación]], [[alma_espiritual]], [[persona_humana]], [[justicia_original]], [[configuración_con_cristo]], [[imagen_del_hijo]]
+[[hombre]], [[creación]], [[alma_espiritual]], [[persona_humana]], [[justicia_original]], [[configuración_con_cristo]], [[imagen_del_hijo]], [[teología_del_cuerpo]]
 
 ## Referencias
 
@@ -93,3 +104,7 @@ Se relaciona con la [[creación]] del hombre, el [[pecado_original]] que la desf
 - [TPCr, Segunda Parte, Cap. I, Art. 1]
 - SmTh Iª q.93 aa.1-9
 - [EjEsp2026, cap. 7: «Yo lo Glorificaré»]
+- [TdC 12.09.1979]
+- [TdC 24.10.1979]
+- [TdC 14.11.1979]
+- [TdC 14.05.1980]

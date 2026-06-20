@@ -141,6 +141,24 @@ El P. Jorge Loring trata el matrimonio como sacramento en el capítulo 13 de *Pa
 
 En el capítulo 12, Loring desarrolla extensamente la preparación al matrimonio mediante el noviazgo. El amor verdadero es generoso y busca el bien de la persona amada, no la propia satisfacción. «El amor, al contrario que el dinero, cuanto más se da, más se tiene». El matrimonio requiere amor espiritual, no mera atracción carnal: «cuanto más pongas de carnal en tu cariño, menos sitio dejas para lo espiritual». La pureza en el noviazgo es garantía de felicidad futura: «Fieles hasta la muerte y puros hasta el altar» (PS §12,68,13-14).
 
+### Según la Teología del Cuerpo (TdC)
+
+Juan Pablo II, en sus catequesis sobre la teología del cuerpo, desarrolla el significado del matrimonio a partir del «principio» (Gn 1-2), al que Cristo se remite en Mt 19,3-9. Gn 2,24 enuncia «el principio de la unidad e indisolubilidad del matrimonio como el contenido mismo de la Palabra de Dios, expresada en la revelación más antigua» (TdC 05.09.1979).
+
+El varón y la mujer, antes de ser esposos, surgen del misterio de la creación «sobre todo como hermano y hermana en la misma humanidad» (TdC 13.02.1980).
+
+En la dimensión original se constituye un «sacramento primordial»: un signo que transmite eficazmente en el mundo visible el misterio invisible escondido en Dios desde la eternidad. «El cuerpo, y sólo él, es capaz de hacer visible lo que es invisible: lo espiritual y lo divino. Ha sido creado para transferir a la realidad visible del mundo el misterio escondido desde la eternidad en Dios» (TdC 20.02.1980).
+
+Cristo responde sobre la indisolubilidad: «Por tanto, lo que Dios unió no lo separe el hombre». La Encarnación y la redención «se han convertido en la fuente definitiva de la sacramentalidad del matrimonio» (TdC 02.04.1980).
+
+La respuesta de Cristo evoca la «visión integral del hombre» (cf. Humanae vitae 7), sin la cual no se puede dar una respuesta adecuada sobre el matrimonio y la procreación (TdC 02.04.1980).
+
+Cristo no abroga la ley sino que le da cumplimiento. Critica la interpretación casuística que había sometido el designio del Legislador «a las diversas debilidades y a los límites de la voluntad humana, derivada precisamente de la triple concupiscencia» (TdC 13.08.1980).
+
+La monogamia aparece como «la única y justa analogía del monoteísmo entendido en las categorías de la Alianza» (TdC 20.08.1980).
+
+El adulterio es «radical falsificación del signo» de la unión conyugal, «pecado del cuerpo» que se identifica solo respecto a la relación de las personas (TdC 27.08.1980).
+
 ## Distinciones importantes
 
 - **Matrimonio como contrato natural vs. como sacramento**: entre bautizados, el contrato válido es ipso facto sacramento
@@ -182,3 +200,10 @@ En el capítulo 12, Loring desarrolla extensamente la preparación al matrimonio
 - Santo Tomás, S.Th., Suppl., q. 41-68
 - [PS §12,68,13-14; §13,97,7]
 - [FC §11, §13, §16]
+- [TdC 05.09.1979]
+- [TdC 13.02.1980]
+- [TdC 20.02.1980]
+- [TdC 02.04.1980]
+- [TdC 13.08.1980]
+- [TdC 20.08.1980]
+- [TdC 27.08.1980]
