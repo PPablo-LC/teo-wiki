@@ -33,6 +33,10 @@ Entre los sacramentales más importantes menciona el agua bendita, el pan bendit
 
 [TPCr, Parte III, Libro II, Caps. IV-V — Medios Secundarios]
 
+### Según San Juan Pablo II (EA)
+
+Entre las expresiones de la piedad popular en América se menciona «el uso de sacramentales (agua, aceite, cirios…)», que ofrecen «oportunidad para que los fieles encuentren a Cristo viviente» [EA §16].
+
 ## Distinciones importantes
 
 - **Sacramentos** ↔ **Sacramentales**: los sacramentos fueron instituidos por Cristo y producen la gracia *ex opere operato*; los sacramentales fueron instituidos por la Iglesia y obtienen la gracia *ex opere operantis Ecclesiae*.

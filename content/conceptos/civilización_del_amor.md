@@ -35,6 +35,10 @@ El «amor misericordioso» es indispensable para plasmar las relaciones mutuas e
 
 León XIV retoma y actualiza la expresión «civilización del amor» de Pablo VI en el capítulo quinto de *Magnífica Humanitas* (§§186, 210-227). La presenta como la alternativa a la «cultura del poder» que domina la era digital. Define la civilización del amor como un proyecto que consiste en «traducir la caridad en estructuras de justicia, en dar cuerpo institucional a la fraternidad y en considerar al otro —ya sea persona o pueblo— como un aliado necesario para la construcción del bien común» (§186). Afirma que «el proyecto de la civilización del amor asume aquí la tarea decisiva de transformar esta interdependencia padecida en una solidaridad deseada y elegida» (§187). Propone cinco vías concretas para construirla: desarmar las palabras, construir la paz en la justicia, asumir la mirada de las víctimas, cultivar un sano realismo y relanzar el diálogo y el multilateralismo (§§213-227). Cita a J.R.R. Tolkien: «No nos atañe a nosotros dominar todas las mareas del mundo, sino hacer lo que está en nuestras manos por el bien de los días que nos ha tocado vivir» (§213). La civilización del amor «no nace de un gesto único y espectacular, sino de una suma de fidelidades pequeñas y tenaces» (§213).
 
+### Según San Juan Pablo II (EA)
+
+La gracia divina prepara a los cristianos «a ser agentes de la transformación del mundo, instaurando en él una nueva civilización, que mi predecesor Pablo VI llamó justamente "civilización del amor"» [EA §10, citando a Pablo VI].
+
 ## Relaciones doctrinales
 
 Se relaciona con [[caridad]], [[caridad_política]], [[amor]], [[justicia]], [[paz]], [[bien_común]], [[solidaridad]], [[humanismo_integral]]

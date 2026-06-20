@@ -47,6 +47,13 @@ La *Redemptor Hominis* enseña que el sentido esencial del Estado como comunidad
 
 La encíclica subraya que la prioridad de la persona sobre las cosas y la superioridad del espíritu sobre la materia constituyen el sentido esencial del dominio del hombre sobre el mundo [RH §16]. El desarrollo debe entenderse como «desarrollo de las personas y no solamente de la multiplicación de las cosas»; se trata de «ser más» y no solo de «tener más» [RH §16].
 
+### Según San Juan Pablo II (EA)
+
+El bien común es un horizonte constante en *Ecclesia in America*. Convertirse al Evangelio significa revisar «especialmente todo lo que pertenece al orden social y a la obtención del bien común» [EA §27]. Los fieles laicos han de actuar en la vida pública «orientándola al bien común» [EA §44].
+
+A nivel internacional, se debe buscar «el bien común nacional e internacional, la distribución equitativa de los bienes y la promoción integral de los pueblos» [EA §52]. El orden económico debe regirse no solo por el criterio del lucro, sino también por «la búsqueda del bien común nacional e internacional» [EA §52]. La economía globalizada debe ser analizada «ante las exigencias del bien común internacional» [EA §55].
+
+Los derechos fundamentales de la persona humana «están inscritos en su misma naturaleza, son queridos por Dios y, por tanto, exigen su observancia y aceptación universal»; las leyes deben expresar principios y valores morales «conformes con una sana antropología y que tengan presente el bien común» [EA §19].
 
 ## Analizado para
 

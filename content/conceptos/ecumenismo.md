@@ -47,6 +47,16 @@ La encíclica advierte que no se ve otra posibilidad de cumplir la misión unive
 
 Frente a quienes quisieran disuadir a la Iglesia de la búsqueda de la unidad, el Papa pregunta: «¿Nos es lícito no hacerlo?» [RH §6]. Esta misma actitud de diálogo y estima se aplica a las religiones no cristianas, cuyas creencias «son efecto también del Espíritu de verdad, que actúa más allá de los confines visibles del Cuerpo Místico» [RH §6].
 
+### Según San Juan Pablo II (EA)
+
+La presencia de otras confesiones cristianas en América «hace especialmente urgente el compromiso ecuménico, para buscar la unidad entre todos los creyentes en Cristo» [EA §14]. Entre la Iglesia católica y las otras Iglesias existe un esfuerzo de comunión que «tiene su raíz en el Bautismo administrado en cada una de ellas» y se alimenta «mediante la oración, el diálogo y la acción común» [EA §49].
+
+Los Padres sinodales expresan una voluntad especial de «cooperación al diálogo ya comenzado con la Iglesia ortodoxa, con la que tenemos en común muchos elementos de fe, de vida sacramental y de piedad» [EA §49].
+
+Se propone «que los cristianos católicos, Pastores y fieles, fomenten el encuentro de los cristianos de las diversas confesiones, en la cooperación, en nombre del Evangelio, para responder al clamor de los pobres, con la promoción de la justicia, la oración común por la unidad y la participación en la Palabra de Dios y la experiencia de la fe en Cristo vivo» [EA §49].
+
+Es necesario distinguir entre las comunidades cristianas (con las que es posible el diálogo ecuménico) y «las sectas, cultos y otros movimientos pseudoreligiosos» [EA §49].
+
 ## Distinciones importantes
 
 - **Ecumenismo espiritual**: oración, conversión y santidad como alma del movimiento ecuménico.

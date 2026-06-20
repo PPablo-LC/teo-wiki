@@ -21,6 +21,12 @@ Sin embargo, el Papa advierte que este diagnóstico no agota la realidad. En el 
 
 El Papa diagnostica procesos avanzados de secularización caracterizados por: la pérdida de referencias comunes, la incapacidad de comprensión del lenguaje cristiano, la instrumentalización y banalización de la fe, y la prescindencia de toda referencia trascendente en la convivencia social. Sin embargo, este proceso corre paralelo a un nuevo despertar de la inquietud religiosa, especialmente entre los jóvenes, que abre posibilidades para un nuevo anuncio. El Papa concluye que «no es momento de repliegue ni de resignación, sino de presencia fiel y de disponibilidad generosa» [DC-Convivium, 09.02.2026].
 
+### Según San Juan Pablo II (EA)
+
+La nueva evangelización debe diversificarse según dos situaciones: la de los países «muy afectados por el secularismo» y la de aquellos donde «todavía se conservan muy vivas las tradiciones de piedad y de religiosidad popular cristiana» [EA §6]. Ambas situaciones están presentes «en grado diverso, en diferentes países o, quizás mejor, en diversos ambientes concretos dentro de los países del Continente americano» [EA §6].
+
+La piedad popular, bien orientada, ofrece «una respuesta válida a los actuales desafíos de la secularización» [EA §16]. Los daños derivados de la difusión del secularismo en los ambientes dirigentes «muestran la urgencia de una evangelización de los mismos» [EA §67].
+
 ## Distinciones importantes
 
 - Secularización (pérdida de referencias cristianas compartidas) vs. secularismo (ideología que niega explícitamente la trascendencia)

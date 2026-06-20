@@ -31,6 +31,12 @@ No se encuentra un tratamiento específico del principio de subsidiariedad en TP
 
 León XIV retoma el principio de subsidiariedad en los §§68-72 de *Magnífica Humanitas* aplicándolo al contexto digital. Recuerda que la subsidiariedad «no justifica el desinterés del Estado, sino que orienta su acción; la intervención pública se requiere precisamente para permitir que todos los sujetos sociales desarrollen su misión sin ser aplastados» (§69). La gran novedad de su enseñanza consiste en aplicar la subsidiariedad a los grandes actores tecnológicos: «Aquí el nivel superior no es el Estado, sino todo gran actor económico y tecnológico que ejerce un poder fáctico sobre las condiciones de la vida común» (§71). Exige que los procesos digitales «no se impongan desde lo alto de modo opaco y unilateral, sino que estén orientados al bien común mediante la transparencia, la responsabilidad y formas reales de participación» (§71). También aplica la subsidiariedad a la vida eclesial: «se convierte en un criterio de gobierno y de vida pastoral, que reconoce y sostiene la responsabilidad de los fieles y de los cuerpos intermedios eclesiales, valorando carismas y competencias» (§87). Advierte que subsidiariedad sin solidaridad «termina por transformarse en la simple protección de intereses particulares» (§73).
 
+### Según San Juan Pablo II (EA)
+
+La visión moral de la Iglesia sobre la economía globalizada «se apoya en las tres piedras angulares fundamentales de la dignidad humana, la solidaridad y la subsidiariedad» [EA §55].
+
+En el campo de la educación, el Estado tiene la obligación de «garantizar a todos la educación y la obligación de respetar y defender la libertad de enseñanza». «Debe denunciarse el monopolio del Estado como una forma de totalitarismo que vulnera los derechos fundamentales que debe defender, especialmente el derecho de los padres de familia a la educación religiosa de sus hijos» [EA §71].
+
 ## Distinciones importantes
 
 - Se distingue del colectivismo, que absorbe las iniciativas particulares

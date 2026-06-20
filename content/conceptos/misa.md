@@ -55,6 +55,12 @@ Santo Tomás dedica la cuestión 83 al rito de la misa, el acto de celebrar el s
 
 **Los defectos en la celebración (Q83 a.7-9):** La misa puede tener defectos por parte del ministro (falta de intención, indignidad moral), por parte de la materia (pan corrompido, vino avinagrado), o por parte del rito (omisión de palabras esenciales). La falta de intención interna de consagrar invalida el sacramento, pero la mera distracción no la impide.
 
+### Según San Juan Pablo II (EA)
+
+Los pastores deben «dar a la celebración eucarística dominical una nueva fuerza, como fuente y culminación de la vida de la Iglesia, prenda de su comunión en el Cuerpo de Cristo e invitación a la solidaridad» [EA §35]. Los fieles deben ser conscientes de que la Eucaristía es «un inmenso don» y participar activa y dignamente en ella, «al menos los domingos y días festivos» [EA §35].
+
+Se han de promover «todos los esfuerzos de los sacerdotes para hacer más fácil esa participación y posibilitarla en las comunidades lejanas» [EA §35]. «La participación plena en ella, consciente y activa, aunque es esencialmente distinta del oficio del sacerdote ordenado, es una actuación del sacerdocio común recibido en el Bautismo» [EA §35].
+
 ## Distinciones importantes
 
 - La Misa no es una "repetición" del Calvario sino su actualización sacramental

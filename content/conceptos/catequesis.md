@@ -47,6 +47,14 @@ El Capítulo II del Título I del Libro III (cc. 773-780) regula la formación c
 
 La *Redemptor Hominis* sitúa la catequesis en el marco de la participación de toda la Iglesia en la misión profética de Cristo (RH §19). Juan Pablo II recuerda que el Sínodo de los Obispos de 1977 dedicó una atención especial a la catequesis en el mundo contemporáneo, cuyos frutos habrían de concretarse en un documento pontificio (RH §19). La catequesis constituye «una forma perenne y al mismo tiempo fundamental de la actividad de la Iglesia, en la que se manifiesta su carisma profético: testimonio y enseñanza van unidos» (RH §19). El Papa subraya la contribución de sacerdotes, religiosos, religiosas y laicos en la actividad catequística, y señala la catequesis familiar —«la catequesis de los padres a sus propios hijos»— como la forma fundamental de catequesis, que atestigua la participación universal de todo el Pueblo de Dios en el oficio profético de Cristo (RH §19). Los especialistas en las distintas ciencias, letras, medicina, derecho, arte y técnica participan también de esta misión mediante una actitud honesta respecto a la verdad en sus respectivos campos, educando a los otros en la verdad y madurando en el amor y la justicia (RH §19).
 
+### Según San Juan Pablo II (EA)
+
+«La catequesis es un proceso de formación en la fe, la esperanza y la caridad que informa la mente y toca el corazón, llevando a la persona a abrazar a Cristo de modo pleno y completo. Introduce más plenamente al creyente en la experiencia de la vida cristiana que incluye la celebración litúrgica del misterio de la redención y el servicio cristiano a los otros» [EA §69].
+
+La catequesis es «una dimensión esencial de la nueva evangelización» [EA §69]. Juan Pablo II recomienda vivamente el uso del *Catecismo de la Iglesia Católica* y del *Directorio general para la Catequesis* «en la preparación y revisión de todos los programas parroquiales y diocesanos para la catequesis, teniendo ante los ojos que la situación religiosa de los jóvenes y de los adultos requiere una catequesis más kerigmática y más orgánica en su presentación de los contenidos de la fe» [EA §69].
+
+Es necesario reconocer y alentar la valiosa misión de los catequistas: «Su fe y su testimonio de vida son partes integrantes de la catequesis» [EA §69]. En América, donde la cuestión social es relevante, «el crecimiento en la comprensión de la fe y su manifestación práctica en la vida social están en íntima correlación» [EA §69].
+
 ## Analizado para
 
 - [[stewart_teaching_kids_gospels]] — convergencia en la catequesis familiar; aporta metodología práctica de lectura diaria de los Evangelios en familia

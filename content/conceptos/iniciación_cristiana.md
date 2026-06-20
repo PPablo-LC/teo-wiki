@@ -29,6 +29,14 @@ El CIC establece que los sacramentos del bautismo, de la confirmación y de la s
 
 El Papa, refiriéndose a la «relación entre iniciación cristiana y evangelización», señala la necesidad de «un claro cambio de rumbo». La pastoral ordinaria se estructura según un modelo que presupone la transmisión de la fe por el ambiente circundante —la sociedad y la familia— pero «los cambios culturales y antropológicos nos dicen que ya no es así». Urge, por tanto, revisar la iniciación cristiana, «a menudo estructurada según ritmos escolares», para «experimentar otras modalidades de transmisión de la fe, también fuera de los caminos clásicos, para intentar involucrar de manera nueva a los chicos, a los jóvenes y a las familias». Esta revisión no es opcional sino consecuencia del diagnóstico de una «creciente erosión de la práctica religiosa» y de que «parte de nuestro pueblo bautizado no experimenta su pertenencia a la Iglesia» (EG 63) [L_XIV-ClerRom, 19.02.2026].
 
+### Según San Juan Pablo II (EA)
+
+«La comunión de vida en la Iglesia se obtiene por los sacramentos de la iniciación cristiana: Bautismo, Confirmación y Eucaristía» [EA §34]. El Bautismo es «la puerta de la vida espiritual: pues por él nos hacemos miembros de Cristo, y del cuerpo de la Iglesia» [EA §34, citando el Concilio de Florencia].
+
+Los bautizados, al recibir la Confirmación, «se vinculan más estrechamente a la Iglesia, se enriquecen con una fuerza especial del Espíritu Santo, y con ello quedan obligados más estrictamente a difundir y defender la fe, como verdaderos testigos de Cristo» [EA §34, citando LG 11]. El proceso de la iniciación cristiana «se perfecciona y culmina con la recepción de la Eucaristía, por la cual el bautizado se inserta plenamente en el Cuerpo de Cristo» [EA §34].
+
+«Estos sacramentos son una excelente oportunidad para una buena evangelización y catequesis, cuando su preparación se hace por agentes dotados de fe y competencia» [EA §34]. Aunque se ha avanzado mucho en la preparación, «son muchos los que los reciben sin la suficiente formación» [EA §34].
+
 ## Ver también
 
 [[bautismo]], [[confirmación]], [[eucaristía]], [[catecumenado]], [[padrinos]]

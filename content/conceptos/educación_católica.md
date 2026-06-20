@@ -29,6 +29,16 @@ GS 61: «La madre nutricia de esta educación es ante todo la familia: en ella l
 Hay que distinguir la educación religiosa —que compete a la Iglesia en virtud de su misión divina— de la educación en materias profanas, que no es monopolio del Estado. Dentro de la educación hay que distinguir la enseñanza (aprendizaje sistemático de una rama del saber, con grados y títulos) de la formación (inculcar normas y hábitos de comportamiento). La formación religiosa es responsabilidad primaria de los padres respecto a los menores. La educación católica abarca tanto la enseñanza de la religión en centros propios y ajenos como el servicio de asistencia religiosa en los centros docentes.
 
 
+### Según San Juan Pablo II (EA)
+
+«El mundo de la educación es un campo privilegiado para promover la inculturación del Evangelio» [EA §71]. Los centros educativos católicos «sólo podrán desarrollar una acción de verdadera evangelización si en todos sus niveles, incluido el universitario, se mantiene con nitidez su orientación católica» [EA §71].
+
+«Es esencial que la Universidad Católica sea, a la vez, verdadera y realmente ambas cosas: Universidad y Católica. […] La índole católica es un elemento constitutivo de la Universidad en cuanto institución y no una mera decisión de los individuos que dirigen la Universidad en un tiempo concreto» [EA §71].
+
+Las escuelas católicas deben «proveer una formación integral de la persona humana» [EA §71]. Es indispensable que continúen «impartiendo la educación católica a los pobres y a los marginados en la sociedad» [EA §71]. «Nunca será posible liberar a los indigentes de su pobreza si antes no se los libera de la miseria debida a la carencia de una educación digna» [EA §71].
+
+La Iglesia necesita «un espacio de libertad en el campo de la enseñanza». Los padres tienen el derecho fundamental de decidir sobre la educación de sus hijos. «Debe denunciarse el monopolio del Estado como una forma de totalitarismo» [EA §71].
+
 ## Relaciones doctrinales
 
 La [[escuela_católica]] es un medio primordial para la educación católica. Se relaciona con el derecho de los padres (c. 793), la libertad de enseñanza (c. 797) y el derecho de la Iglesia a erigir universidades (c. 807).

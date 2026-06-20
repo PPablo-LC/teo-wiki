@@ -25,6 +25,16 @@ El CEC §854 afirma que la misión de la Iglesia consiste en "hacer entrar a tod
 
 *Gaudium et Spes* §58: "La Iglesia, por el hecho de habitar en naciones diversas y por la vocación universal de cada una de sus comunidades, manifiesta con claridad esta pluralidad de origen y al mismo tiempo su unidad en el designio divino".
 
+### Según San Juan Pablo II (EA)
+
+«El rostro mestizo de la Virgen de Guadalupe fue ya desde el inicio en el Continente un símbolo de la inculturación de la evangelización, de la cual ha sido la estrella y guía» [EA §70]. La evangelización de América reconoce en Guadalupe «un gran ejemplo de evangelización perfectamente inculturada» [EA §11].
+
+La inculturación es necesaria para que el Evangelio sea anunciado «en el lenguaje y la cultura de aquellos que lo oyen» [EA §70]. La piedad popular, que en América «es expresión de la inculturación de la fe católica» y ha asumido «formas religiosas autóctonas», puede ofrecer «indicaciones válidas para una mayor inculturación del Evangelio» [EA §16].
+
+Es especialmente importante entre las poblaciones indígenas, para que «las semillas del Verbo» presentes en sus culturas lleguen a su plenitud en Cristo [EA §16, citando Propositio 18]. La Iglesia debe acercarse a los americanos de origen africano «a partir de su cultura, considerando seriamente las riquezas espirituales y humanas de esta cultura que marca su modo de celebrar el culto, su sentido de alegría y de solidaridad, su lengua y sus tradiciones» [EA §16, citando Propositio 19].
+
+Para la evangelización de la cultura es necesario «un esfuerzo lúcido, serio y ordenado» [EA §70]. Con el uso correcto de los medios de comunicación social «se puede llevar a cabo una verdadera inculturación del Evangelio» [EA §72].
+
 ## Distinciones importantes
 
 - **Adaptación**: ajustes externos de la predicación y los ritos a una cultura

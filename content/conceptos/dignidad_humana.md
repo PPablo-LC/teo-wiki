@@ -81,6 +81,14 @@ El abuso sexual, particularmente cuando es cometido por consagrados, constituye 
 
 León XIV dedicó un amplio desarrollo a la dignidad humana en su discurso ante las Cortes. Afirmó que «la dignidad humana precede a toda concesión del Estado y no puede quedar subordinada a consensos sociales mudables», arraigándola en la creación del hombre a imagen de Dios, lo que la hace inviolable e inalienable [L_XIV-ViajeEspaña-2026, 06-Parlamento]. Vinculó explícitamente la defensa de la vida desde la concepción hasta la muerte natural con la dignidad, y denunció la «cultura del descarte» que descarta a no nacidos, ancianos, pobres y migrantes [L_XIV-ViajeEspaña-2026, 06-Parlamento]. En su discurso ante las autoridades, invocó «la dignidad inviolable de toda persona humana» como fundamento ético compartido de la sociedad [L_XIV-ViajeEspaña-2026, 01-Autoridades]. La dignidad del migrante (Arguineguín), del preso (Brians 1) y del anciano y enfermo fueron también objeto de su magisterio durante el viaje [L_XIV-ViajeEspaña-2026, 16-Arguineguín; 08-Brians1].
 
+### Según San Juan Pablo II (EA)
+
+«Conviene recordar que el fundamento sobre el que se basan todos los derechos humanos es la dignidad de la persona» [EA §57]. «La mayor obra divina, el hombre, es imagen y semejanza de Dios. Jesús asumió nuestra naturaleza menos el pecado; promovió y defendió la dignidad de toda persona humana sin excepción alguna; murió por la libertad de todos» [EA §57].
+
+«De la dignidad del hombre en cuanto hijo de Dios nacen los derechos humanos y las obligaciones» [EA §57]. «Todo atropello a la dignidad del hombre es atropello al mismo Dios, de quien es imagen» [EA §57]. Esta dignidad es común a todos los hombres sin excepción, «ya que todos han sido creados a imagen de Dios (cf. Gn 1, 26)» [EA §57].
+
+La respuesta de Jesús a la pregunta «¿Quién es mi prójimo?» exige de cada uno «una actitud de respeto por la dignidad del otro y de cuidado solícito hacia él, aunque se trate de un extranjero o un enemigo» [EA §57].
+
 ## Distinciones importantes
 
 - **Dignidad natural**: la que posee todo ser humano por haber sido creado a imagen de Dios

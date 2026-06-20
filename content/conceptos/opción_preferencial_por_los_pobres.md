@@ -29,6 +29,16 @@ León XIV retoma la opción preferencial por los pobres en el §78 de *Magnífic
 
 León XIV encarnó la opción preferencial por los pobres a lo largo de todo su viaje apostólico a España. En la visita al Centro de Atención a Inmigrantes (CEDIA, 2 de junio), proclamó: «Los pobres son los predilectos de Dios» [L_XIV-ViajeEspaña-2026, CEDIA 02 — discurso]. Toda la visita al CEDIA fue una ilustración viva de esta opción. A lo largo del viaje, los pobres, migrantes, presos y ancianos fueron presentados como aquellos a quienes la Iglesia debe prestar atención prioritaria. El lema implícito del viaje fue «una Iglesia pobre para los pobres» [L_XIV-ViajeEspaña-2026, diversos discursos].
 
+### Según San Juan Pablo II (EA)
+
+«La atención a los más necesitados surge de la opción de amar de manera preferencial a los pobres. Se trata de un amor que no es exclusivo y no puede ser pues interpretado como signo de particularismo o de sectarismo» [EA §58]. Amando a los pobres, «el cristiano imita las actitudes del Señor, que en su vida terrena se dedicó con sentimientos de compasión a las necesidades de las personas espiritual y materialmente indigentes» [EA §58].
+
+La Iglesia debe «encarnar en sus iniciativas pastorales la solidaridad de la Iglesia universal hacia los pobres y marginados de todo género. Su actitud debe incluir la asistencia, promoción, liberación y aceptación fraterna. La Iglesia pretende que no haya en absoluto marginados» [EA §58].
+
+La Iglesia debe «vivir con los pobres y participar de sus dolores […] testificar por su estilo de vida que sus prioridades, sus palabras y sus acciones, y ella misma está en comunión y solidaridad con ellos» [EA §58].
+
+Los pobres han de ser «los primeros destinatarios de la evangelización, a semejanza de Jesús» [EA §67]. Sin embargo, el amor preferencial no es excluyente: el haber descuidado la atención pastoral de los ambientes dirigentes ha causado el alejamiento de la Iglesia de no pocos de ellos [EA §67].
+
 ## Distinciones importantes
 
 - **Opción preferencial** ≠ **exclusión de los demás**: es primacía, no exclusión

@@ -17,6 +17,10 @@ La peregrinación cristiana es imagen de la vida humana como camino hacia Dios. 
 
 El CEC §1674 menciona la peregrinación como expresión de la [[piedad_popular]] que la Iglesia valora y promueve. El §2691 señala que los [[santuario|santuarios]] son «lugares particulares para la peregrinación», donde los fieles acuden a beber en la fuente de la oración.
 
+### Según San Juan Pablo II (EA)
+
+Entre las expresiones de la piedad popular en América se cuentan «las peregrinaciones a los santuarios de Cristo, de la Santísima Virgen y de los santos», que ofrecen «oportunidad para que los fieles encuentren a Cristo viviente» [EA §16].
+
 ## Relaciones doctrinales
 
 Se relaciona con el [[santuario]], la [[romería]] (peregrinación local), la [[piedad_popular]], el [[año_jubilar]], la [[conversión]], la [[penitencia]] y las [[advocaciones_marianas]].

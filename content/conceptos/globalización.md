@@ -29,6 +29,16 @@ GS 26: La interdependencia cada vez más estrecha hace que el [[bien_común]] se
 
 GS 63: «La economía moderna se caracteriza por una creciente dominación del hombre sobre la naturaleza, por la multiplicación e intensificación de las relaciones sociales y por la interdependencia entre ciudadanos, asociaciones y pueblos.»
 
+### Según San Juan Pablo II (EA)
+
+La globalización es «una característica del mundo actual» que, aunque «no siendo exclusivamente americano, es más perceptible y tiene mayores repercusiones en América» [EA §20]. «Se trata de un proceso que se impone debido a la mayor comunicación entre las diversas partes del mundo, llevando prácticamente a la superación de las distancias» [EA §20].
+
+Desde el punto de vista ético, «puede tener una valoración positiva o negativa» [EA §20]. Hay una globalización económica con ciertas consecuencias positivas (fomento de la eficiencia, incremento de la producción, fortalecimiento de la unidad de los pueblos), pero si se rige «por las meras leyes del mercado aplicadas según las conveniencias de los poderosos, lleva a consecuencias negativas»: atribución de valor absoluto a la economía, desempleo, deterioro de servicios públicos, destrucción del ambiente, aumento de las diferencias entre ricos y pobres, competencia injusta [EA §20].
+
+La globalización cultural producida por los medios de comunicación social impone «nuevas escalas de valores por doquier, a menudo arbitrarios y en el fondo materialistas» [EA §20].
+
+La visión moral de la Iglesia «se apoya en las tres piedras angulares fundamentales de la dignidad humana, la solidaridad y la subsidiariedad» [EA §55]. La Iglesia está llamada a promover «una verdadera cultura globalizada de la solidaridad» y a colaborar en la reducción de los efectos negativos de la globalización, como «el dominio de los más fuertes sobre los más débiles» y «la pérdida de los valores de las culturas locales» [EA §55].
+
 ## Relaciones doctrinales
 
 Se relaciona con [[capital_y_trabajo]], [[desarrollo_integral]], [[solidaridad]], [[bien_común]], [[economía]], [[mercado]]
