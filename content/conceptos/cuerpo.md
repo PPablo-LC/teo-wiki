@@ -92,6 +92,12 @@ El cuerpo humano tiene carácter nupcial: es «capaz de expresar el amor con que
 
 Mediante la templanza y el dominio de sí, el hombre «realiza la gradual experiencia de la propia dignidad» y «atestigua el propio autodominio» (TdC 03.12.1980).
 
+La redención del cuerpo (Rm 8,23) significa que «la fuerza originaria del misterio de la creación se convierte para cada uno de ellos en fuerza (esto es, gracia) del misterio de la redención» (TdC 29.10.1980).
+
+«Vuestro cuerpo es templo del Espíritu Santo» (1 Cor 6,19). Cristo ha impreso en el cuerpo una nueva dignidad, pues «ha sido admitido, con el alma, a la unión con la Persona del Verbo» (TdC 11.02.1981).
+
+En la resurrección, el cuerpo será «espiritualizado»: no desencarnación ni deshumanización, sino realización perfecta del compuesto psicosomático. «El cuerpo vuelve a perfecta unidad y armonía con el espíritu» (TdC 09.12.1981).
+
 ## Distinciones importantes
 
 - **Cuerpo natural**: sujeto a las condiciones de la vida presente

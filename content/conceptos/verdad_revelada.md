@@ -1,7 +1,7 @@
 # Verdad revelada
 
 > Área: Dogmática (Revelación)
-> Última actualización: 2026-05-29
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -43,6 +43,14 @@ Existe un orden o "jerarquía" de las verdades de la doctrina católica, puesto 
 - Tradición y Escritura constituyen un solo depósito sagrado de la palabra de Dios, confiado a la Iglesia (DV 10).
 - El Magisterio no está sobre la palabra de Dios sino que la sirve, y de este único depósito saca todo lo que propone como verdad revelada que se ha de creer (DV 10).
 
+### Según la *Redemptor Hominis* (RH)
+
+Juan Pablo II afirma que la verdad revelada no es propiedad de quien la transmite sino de Dios mismo. Cristo dijo: «La palabra que oís no es mía, sino del Padre, que me ha enviado» (Jn 14,24) [RH §4, §19]. Esta misma fidelidad a la fuente divina debe ser «una cualidad constitutiva de la fe de la Iglesia, ya sea cuando enseña, ya sea cuando la profesa» [RH §19].
+
+Jesucristo sale al encuentro del hombre de toda época con las palabras: «Conoceréis la verdad y la verdad os librará» (Jn 8,32) [RH §12]. La verdad es condición de la auténtica libertad: «Estas palabras encierran una exigencia fundamental y al mismo tiempo una advertencia: la exigencia de una relación honesta con respecto a la verdad, como condición de una auténtica libertad; y la advertencia de que se evite cualquier libertad aparente» [RH §12]. Cristo mismo afirmó ante Pilato: «Yo para esto he venido al mundo, para dar testimonio de la verdad» (Jn 18,37) [RH §12].
+
+La Iglesia «se presenta ante nosotros como sujeto social de la responsabilidad de la verdad divina» [RH §19]. Cristo prometió a la Iglesia la asistencia especial del Espíritu de verdad y dio el don de la infalibilidad a aquellos a quienes confió el mandato de transmitir y enseñar la verdad [RH §19]. Los teólogos, como servidores de la verdad divina, deben buscar «una comprensión siempre más penetrante de la misma» sin perder de vista su servicio a la Iglesia, colaborando estrechamente con el Magisterio [RH §19].
+
 ### Según la *Fides et Ratio* (FR)
 
 *Fides et Ratio* enseña que la verdad revelada en Jesucristo «es anticipación, en nuestra historia, de la visión última y definitiva de Dios que está reservada a los que creen en Él o lo buscan con corazón sincero» (FR, Cap. I, §15). La verdad revelada «no es el fruto maduro o el punto culminante de un pensamiento elaborado por la razón. Por el contrario, ésta se presenta con la característica de la gratuidad, genera pensamiento y exige ser acogida como expresión de amor» (FR, Cap. I, §15).
@@ -72,3 +80,4 @@ La verdad revelada se contiene en la [[sagrada_escritura]] y la [[tradición]], 
 - [CEC §50-73, §84-100]
 - [Dei Verbum, cap. I, §1-6; cap. II, §7-10]
 - [CEC §88-90]
+- [RH §4, §12, §19]

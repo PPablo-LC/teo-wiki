@@ -185,6 +185,14 @@ Santo Tomás dedica al sacramento de la eucaristía un tratado completo que abar
 
 Juan Pablo II testimonia que la [[eucaristía]] es «el momento más importante y sagrado de la jornada y el centro de la vida» del sacerdote [DyM, VIII]. En la consagración, el sacerdote «actúa verdaderamente *in persona Christi*», renovando el sacrificio de Cristo con la fuerza del Espíritu Santo [DyM, VIII]. Tras la consagración, las palabras *Mysterium fidei* —«¡Misterio de la fe!»— se refieren a la Eucaristía, pero «en cierto modo, conciernen también al sacerdocio. No hay Eucaristía sin sacerdocio, como no hay sacerdocio sin Eucaristía» [DyM, VIII]. En la Eucaristía se consuma el [[admirabile_commercium]]: «Cristo devuelve al Padre todo lo que de Él proviene» [DyM, VIII]. Su primera Misa fue en la cripta de San Leonardo en Cracovia [DyM, IV].
 
+### Según la *Redemptor Hominis* (RH)
+
+La Eucaristía es «fuente de vida y de santidad» [RH §7]. En el misterio de la Redención, la Iglesia participa de la fuerza de la acción redentora «en forma sacramental, sobre todo en la Eucaristía» [RH §20]. Es «el centro y el vértice de toda la vida sacramental, por medio de la cual cada cristiano recibe la fuerza salvífica de la Redención» [RH §20].
+
+La Eucaristía presenta tres dimensiones inseparables: «Sacramento-Sacrificio, Sacramento-Comunión, Sacramento-Presencia» [RH §20]. Como Sacramento-Sacrificio, renueva continuamente «el misterio del sacrificio que Él hizo de sí mismo al Padre sobre el altar de la Cruz» [RH §20]. Como Sacramento-Comunión, «es el Sacramento más perfecto» de la unión con Cristo, por quien «hemos sido comprados a precio» [RH §20]. Como Sacramento-Presencia, exige «una rigurosa observancia de las normas litúrgicas y de todo lo que atestigua el culto comunitario tributado a Dios mismo» [RH §20].
+
+La Eucaristía «construye la Iglesia, y la construye como auténtica comunidad del Pueblo de Dios» [RH §20]. «La Iglesia vive de la Eucaristía, vive de la plenitud de este Sacramento» [RH §20]. La Eucaristía y la Penitencia están íntimamente vinculadas: «Cristo, que invita al banquete eucarístico, es siempre el mismo Cristo que exhorta a la penitencia» [RH §20]. La Iglesia debe ser «la Iglesia de la Eucaristía y de la Penitencia» [RH §20].
+
 ## Distinciones importantes
 
 - **Transubstanciación**: cambio de sustancia, permaneciendo los accidentes

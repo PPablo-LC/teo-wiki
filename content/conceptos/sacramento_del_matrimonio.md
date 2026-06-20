@@ -1,49 +1,69 @@
-# Sacramento del matrimonio
+# Sacramento del Matrimonio
 
-> Área: Sacramental / Doctrina Social
-> Última actualización: 2026-06-15
+> Área: Sacramental
+> Última actualización: 2026-06-20
 
 ## Definición
 
-El matrimonio, por institución de Cristo, es el sacramento de la Nueva Alianza que eleva la realidad humana del amor conyugal a signo e instrumento de gracia, capacitando a los esposos para vivir su vocación laical y constituyendo a la familia como Iglesia doméstica.
+El sacramento del matrimonio es la realidad instituida por Dios desde la creación (sacramento primordial) y restaurada por Cristo en la economía de la redención, por la cual el consentimiento mutuo de los esposos, expresado en el lenguaje del cuerpo, constituye un signo visible y eficaz del amor nupcial de Cristo por la Iglesia.
 
 ## Desarrollo doctrinal
 
-La historia de la salvación está atravesada por el tema de la alianza esponsal, expresión significativa de la comunión de amor entre Dios y los hombres. Jesucristo es el Esposo que ama y se da como Salvador, revelando la verdad original del matrimonio y haciendo al hombre capaz de realizarla plenamente. Del amor esponsal de Cristo por la Iglesia brota la sacramentalidad del matrimonio.
+Juan Pablo II desarrolla el concepto del matrimonio como sacramento en dos niveles: como sacramento primordial inscrito en la creación del hombre como varón y mujer (Gén 2,24) y como sacramento de la redención, restaurado y elevado por Cristo, fundamentado en el "gran misterio" de Cristo y la Iglesia (Ef 5,32). El lenguaje del cuerpo, releído en la verdad, constituye el contenido constitutivo del signo sacramental.
+
+El matrimonio como sacramento primordial brota del misterio de la creación: Dios creó al hombre varón y mujer llamándolos a la comunión de personas mediante la donación recíproca. En el orden de la redención, Cristo eleva esta realidad a signo eficaz de su amor esponsal por la Iglesia. La redención del cuerpo es la base para comprender la dignidad del cuerpo humano, y el matrimonio se da al "hombre de la concupiscencia" como don (gracia) y como tarea (ethos).
+
+El lenguaje del cuerpo, perenne y siempre nuevo, constituye no solo el sustrato sino, en cierto sentido, el contenido de la comunión de personas. Dicho lenguaje, releído en la verdad, se convierte, mediante las palabras de los nuevos esposos, en la unión-comunión de personas. La estructura del signo sacramental permanece esencialmente la misma que "al principio": está determinada por el lenguaje del cuerpo en el que el varón y la mujer expresan el recíproco don de la masculinidad y la feminidad.
+
+La alianza conyugal es un acto profético: el cuerpo "habla" la verdad del amor, la fidelidad, la honestidad conyugal. Los profetas (Oseas, Ezequiel, Isaías) usaron este lenguaje del cuerpo para hablar de la Alianza. El Cantar de los Cantares y el libro de Tobías confirman la belleza y verdad del amor conyugal. En Ef 5, el "gran misterio" de Cristo y la Iglesia revela la dimensión definitiva del sacramento del matrimonio.
 
 ## Perspectivas por fuente
 
-### Según el Código de Derecho Canónico (CIC)
+### Según la Teología del Cuerpo (TdC)
 
-El CIC regula el matrimonio en los cánones 1055-1165. La alianza matrimonial, elevada por Cristo a sacramento entre bautizados, es un consorcio de toda la vida entre varón y mujer ordenado al bien de los cónyuges y a la generación y educación de la prole (c. 1055). Entre bautizados, todo contrato matrimonial válido es sacramento (c. 1055 §2). Las propiedades esenciales son la unidad y la indisolubilidad (c. 1056). El consentimiento matrimonial es el acto de la voluntad por el cual las partes se entregan y aceptan mutuamente en alianza irrevocable (c. 1057 §2). La forma canónica exige la presencia del Ordinario del lugar o párroco o sacerdote o diácono delegado, y dos testigos (c. 1108). El matrimonio debe celebrarse en la parroquia de uno de los contrayentes (c. 1115). Los cónyuges tienen iguales derechos y obligaciones (c. 1135). Los padres tienen el derecho primario y la obligación gravísima de educar a la prole (c. 1136).
+El matrimonio presenta un doble significado: como "sacramento primordial" (orden de la creación) y como "sacramento de la redención" (orden de la redención). El misterio de la creación y el misterio de la redención convergen en el matrimonio. "La Iglesia misma es el gran sacramento, el nuevo signo de la Alianza y de la gracia, que hunde sus raíces en la profundidad del sacramento de la redención, lo mismo que de la profundidad del sacramento de la creación brotó el matrimonio, signo primordial de la Alianza y de la gracia" (TdC 30.06.1982, aud 100).
 
-### Según el Compendio (CompDS)
+La redención del cuerpo es la base para comprender la dignidad del cuerpo humano, arraigada en la dignidad personal. El matrimonio se da al "hombre de la concupiscencia" como don (gracia) y como tarea (ethos). El matrimonio "es sacramento desde el principio y, al mismo tiempo, basándose en la histórica situación pecaminosa del hombre, es un sacramento que brota del misterio de la redención del cuerpo" (TdC 18.08.1982, aud 101).
 
-Los bautizados viven la realidad humana y original del matrimonio en la forma sobrenatural del sacramento, signo e instrumento de Gracia [CompDS §219]. La Gracia del matrimonio conforma el amor de los esposos con el Amor de Cristo por la Iglesia [CompDS §219]. El sacramento capacita y compromete a los esposos y padres cristianos a vivir su vocación de laicos y a buscar el Reino de Dios gestionando los asuntos temporales [CompDS §220]. La familia cristiana, unida a la Iglesia por el vínculo sacramental que la hace Iglesia doméstica, está llamada a ser signo de unidad para el mundo [CompDS §220]. La caridad conyugal brota de la caridad misma de Cristo ofrecida por medio del Sacramento [CompDS §220].
-### Según el Concilio Vaticano II (ConcVatII)
+El matrimonio "viene del Padre," no del "mundo." Es expresión eficaz del poder salvífico de Dios. Como sacramento de la redención, se da al "hombre de la concupiscencia" para vivir según el Espíritu (TdC 25.08.1982, aud 102).
 
-*Sacrosanctum Concilium* 77-78 regula la celebración del matrimonio. El rito debe revisarse y enriquecerse para que exprese la gracia del sacramento e inculque los deberes de los esposos con mayor claridad. Las costumbres laudables y ceremonias propias de cada lugar deben conservarse (SC 77). El matrimonio debe celebrarse habitualmente dentro de la Misa, después del Evangelio y la homilía, antes de la oración de los fieles (SC 78). La oración por la esposa debe revisarse para inculcar la igualdad de ambos esposos en la obligación de mutua fidelidad (SC 78).
+El signo sacramental se constituye en virtud de que las palabras de los esposos adquieren el mismo "lenguaje del cuerpo" que "al principio." El "lenguaje del cuerpo, releído en la verdad, constituye, mediante las palabras de los nuevos esposos, la unión-comunión de personas" (TdC 13.10.1982, aud 107).
 
-### Según la Summa Theologiae (SmTh)
+La estructura del signo sacramental permanece esencialmente la misma que "al principio." Está determinada por el "lenguaje del cuerpo" en que el varón y la mujer expresan el recíproco don de la masculinidad y la feminidad. Sin la consumación, el matrimonio no está constituido en su plena realidad (TdC 06.10.1982, aud 106).
 
-Santo Tomás enseña en el Suplemento (q.42) que el matrimonio es verdadero sacramento de la Nueva Ley (q.42 a.1). Fue instituido en diversos estadios: antes del pecado como oficio de naturaleza para la generación; bajo la ley natural como remedio contra la concupiscencia; bajo la ley mosaica respecto a las inhabilitaciones personales; y en la Nueva Ley, como sacramento que significa el misterio de la unión de Cristo con la Iglesia (q.42 a.2). En cuanto sacramento, confiere gracia santificante (q.42 a.3). La cópula carnal no pertenece a la integridad del sacramento, pues el matrimonio se perfecciona por el consentimiento (q.42 a.4).
+"El 'lenguaje del cuerpo' — perenne y siempre nuevo — no es solamente el 'substrato' sino que, en cierto sentido, constituye el contenido de la comunión de personas" (TdC 22.09.1982, aud 104).
 
-Los tres bienes del matrimonio (Suppl. q.49) son la prole (fin primario), la fe o fidelidad, y el sacramento o indisolubilidad. Este último es el más principal, por ser imagen de la unión indisoluble de Cristo con la Iglesia (q.49 a.3). La forma del sacramento son las palabras del consentimiento; la bendición sacerdotal es un sacramental (q.42 a.1 ad 1).
+La alianza conyugal es un acto profético. El cuerpo "habla" la verdad del amor, la fidelidad, la honestidad conyugal, o habla falsedad (adulterio). Los profetas (Oseas, Ezequiel, Isaías) usaron este "lenguaje del cuerpo" para hablar de la Alianza (TdC 29.09.1982, aud 105).
+
+El matrimonio es "sacramento según el significado generalmente conocido... es un signo visible. El cuerpo en su aspecto visible significa la 'visibilidad' del mundo y del hombre" (TdC 28.07.1982, aud 87).
+
+El Cantar de los Cantares y el libro de Tobías confirman la belleza y verdad del amor conyugal. En Ef 5, el "gran misterio" de Cristo y la Iglesia revela la dimensión definitiva del sacramento del matrimonio. "El lenguaje litúrgico, es decir, el lenguaje del sacramento y del 'mysterium', se convierte en su vida y coexistencia en 'lenguaje del cuerpo' en toda su profundidad, sencillez y belleza hasta ahora desconocida" (TdC 13.06.1984, aud 113).
+
+## Distinciones importantes
+
+- **Sacramento primordial vs. sacramento de la redención:** el primero brota del misterio de la creación; el segundo, del misterio de la redención, pero ambos convergen en Cristo
+- **Sacramento-signo visible vs. mysterium:** el misterio permanece oculto en Dios; el sacramento lo manifiesta visiblemente
+- **Palabra sacramental (consentimiento) vs. consumación:** sin la consumación, el matrimonio no está constituido en su plena realidad sacramental
 
 ## Relaciones doctrinales
 
-Se relaciona con [[matrimonio]], [[iglesia_doméstica]], [[amor_conyugal]], [[familia]], [[fidelidad]], [[indisolubilidad]]
-
-
-## Analizado para
-
-- [[brian_cochran_my_personal_emmaus]]
-- [[fr_michael_luxbacher_life_in_abundance]]
-- [[alexander_marriage_gospels]] — convergencia en la gracia sacramental del matrimonio; aporta tipología de Caná-Cruz y la teología del «agua en vino» como anticipación de la Eucaristía
+La teología del matrimonio como sacramento se conecta con la [[teología_nupcial]] de Juan Pablo II, que recorre toda la Escritura desde la creación hasta las bodas del Cordero. El [[matrimonio]] como realidad natural y sobrenatural se funda en el [[amor_conyugal]] como donación total y fiel. El [[lenguaje_del_cuerpo]] es el medio por el cual los esposos expresan y realizan el [[significado_esponsal_del_cuerpo]], que hunde sus raíces en el [[sacramento_primordial]] de la creación y es elevado por la [[redención_del_cuerpo]] operada por Cristo.
 
 ## Ver también
-[[matrimonio]], [[iglesia_doméstica]], [[amor_conyugal]], [[familia]], [[fidelidad]], [[indisolubilidad]], [[sacramentos]]
+
+[[matrimonio]], [[teología_nupcial]], [[amor_conyugal]], [[lenguaje_del_cuerpo]], [[significado_esponsal_del_cuerpo]], [[sacramento_primordial]], [[redención_del_cuerpo]], [[teología_del_cuerpo]]
 
 ## Referencias
 
-- [CompDS §219-220]
+- TdC 30.06.1982 (aud 100)
+- TdC 18.08.1982 (aud 101)
+- TdC 25.08.1982 (aud 102)
+- TdC 22.09.1982 (aud 104)
+- TdC 29.09.1982 (aud 105)
+- TdC 06.10.1982 (aud 106)
+- TdC 13.10.1982 (aud 107)
+- TdC 16.05.1984 (aud 109)
+- TdC 23.05.1984 (aud 110)
+- TdC 30.05.1984 (aud 111)
+- TdC 06.06.1984 (aud 112)
+- TdC 13.06.1984 (aud 113)

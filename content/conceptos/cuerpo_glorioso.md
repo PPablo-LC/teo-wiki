@@ -29,6 +29,20 @@ Las almas de los justos, al reunirse con sus cuerpos en la resurrección final, 
 
 [TPCr, Parte IV, Cap. 2]
 
+### Según la Teología del Cuerpo (TdC)
+
+Juan Pablo II desarrolla el cuerpo glorioso en la Parte III de su catequesis sobre la teología del cuerpo (audiencias sobre la resurrección de la carne).
+
+En la resurrección, los hombres recuperan sus cuerpos en la plenitud de la perfección propia de la imagen y semejanza de Dios, en su masculinidad y feminidad, pero «ni se casarán ni serán dadas en matrimonio» (Mc 12,25). Los cuerpos mantendrán su peculiaridad masculina o femenina, pero el sentido de ser varón o mujer se constituirá de modo diverso al de la existencia terrena (TdC 02.12.1981).
+
+La comparación con los ángeles indica una espiritualización no como desencarnación, sino como un nuevo modo de espiritualización de la naturaleza somática: una nueva sumisión del cuerpo al espíritu, un nuevo «sistema de fuerzas» dentro del hombre (TdC 02.12.1981).
+
+La espiritualización perfecta significa que el cuerpo vuelve a perfecta unidad y armonía con el espíritu; el espíritu no solo domina al cuerpo sino que lo impregna plenamente. No es «desencarnación» ni «deshumanización», sino realización perfecta del compuesto psicosomático (TdC 09.12.1981).
+
+La divinización será comunicación de Dios no solo al alma sino a toda la subjetividad psicosomática del hombre. El cuerpo participará de la experiencia escatológica de la verdad y del amor, revelando el nuevo significado del cuerpo (TdC 09.12.1981).
+
+Pablo describe el cuerpo resucitado como «incorruptible, glorioso, lleno de poder, espiritual» (1 Cor 15,42-44). El «cuerpo espiritual» (soma pneumatikón) significa la perfecta sensibilidad de los sentidos, su perfecta armonización con la actividad del espíritu humano en la verdad y en la libertad (TdC 10.02.1982).
+
 ## Distinciones importantes
 
 - **Resurrección** ≠ **reencarnación**: la resurrección es la reunión del mismo cuerpo con el alma inmortal; la reencarnación es una doctrina incompatible con la fe cristiana.
@@ -47,3 +61,6 @@ La resurrección del cuerpo glorioso es consecuencia de la [[resurrección_de_cr
 
 - [CEC §997-1004]
 - [TPCr, Parte IV, Cap. 2]
+- [TdC 02.12.1981]
+- [TdC 09.12.1981]
+- [TdC 10.02.1982]

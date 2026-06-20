@@ -29,6 +29,12 @@ El «ethos de la redención del cuerpo» (Rm 8,23) es el nuevo ethos que Cristo 
 
 «La pureza es exigencia del amor. Es la dimensión de su verdad interior en el "corazón" del hombre» (TdC 03.12.1980).
 
+En la conclusión de su catequesis (Parte VI), Juan Pablo II ofrece una definición sintética: la teología del cuerpo es «no tanto una teoría, cuanto más bien una específica, evangélica, cristiana pedagogía del cuerpo». Constituye «el núcleo esencial de la espiritualidad conyugal» (TdC 08.08.1984; TdC 03.10.1984).
+
+Se articula en torno a los tres textos clave de Cristo: el «principio» (Mt 19,8), la llamada al corazón contra la concupiscencia (Mt 5,28) y la resurrección de los cuerpos (Mt 22,30) (TdC 28.11.1984).
+
+La norma de la ley natural sobre la transmisión de la vida (HV) encuentra en la teología del cuerpo «no solamente una nueva expresión, sino también un fundamento más pleno antropológico y ético» (TdC 18.07.1984).
+
 ## Distinciones importantes
 
 - **Teología del cuerpo vs. antropología dualista:** el cuerpo no es algo añadido al espíritu sino que expresa la persona en su totalidad
@@ -46,6 +52,10 @@ Se relaciona con el amor humano, la vocación al don de sí, la imagen de Dios c
 
 ## Referencias
 
+- [TdC 18.07.1984]
+- [TdC 08.08.1984]
+- [TdC 03.10.1984]
+- [TdC 28.11.1984]
 - [TdC 12.09.1979]
 - [TdC 19.09.1979]
 - [TdC 14.11.1979]

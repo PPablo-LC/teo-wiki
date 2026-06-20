@@ -1,7 +1,7 @@
 # Imagen de Dios
 
 > Área: Dogmática / Antropología teológica
-> Última actualización: 2026-06-10
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -80,6 +80,14 @@ El segundo relato prepara para «comprender el concepto trinitario de la 'imagen
 
 Tras el pecado original, el cuerpo humano, que llevaba en sí el signo de la imagen de Dios, pierde la certeza originaria de esa imagen. «Se derrumba la aceptación originaria del cuerpo como signo de la persona» (TdC 14.05.1980). La triple concupiscencia «no corresponde a la plenitud de la 'imagen de Dios' sino a los daños, deficiencias y limitaciones que aparecieron con el pecado» (TdC 14.05.1980).
 
+### Según la *Redemptor Hominis* (RH)
+
+El hombre ha sido creado «a imagen y semejanza de Dios» (Gn 1,26) [RH §9]. Cristo, el nuevo Adán, en la misma revelación del misterio del Padre y de su amor, «manifiesta plenamente al propio hombre y le descubre la sublimidad de su vocación». Él, que es imagen de Dios invisible (Col 1,15), «es también el hombre perfecto, que ha devuelto a la descendencia de Adán la semejanza divina, deformada por el primer pecado» [RH §8, citando GS 22].
+
+La Encarnación restaura la imagen divina: «En la naturaleza humana asumida, no absorbida, ha sido elevada también en nosotros a dignidad sin igual» [RH §8, citando GS 22]. Todo hombre, en su única e irrepetible realidad humana, lleva intacta la imagen y semejanza con Dios mismo (Gn 1,27) [RH §13].
+
+La vocación cristiana, participando en la misión real de Cristo, consiste en la realización de una humanidad madura, que significa «pleno uso del don de la libertad, que hemos obtenido del Creador, en el momento en que Él ha llamado a la existencia al hombre hecho a su imagen y semejanza» [RH §21]. Esta imagen y semejanza se realiza plenamente en la donación sin reservas de toda la persona, en espíritu de amor nupcial a Cristo [RH §21].
+
 ## Distinciones importantes
 
 - Imagen natural: la inteligencia y voluntad libres que todo ser humano posee por naturaleza
@@ -108,3 +116,4 @@ Se relaciona con la [[creación]] del hombre, el [[pecado_original]] que la desf
 - [TdC 24.10.1979]
 - [TdC 14.11.1979]
 - [TdC 14.05.1980]
+- [RH §8-9, §13, §21]

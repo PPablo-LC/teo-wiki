@@ -39,6 +39,18 @@ El voto de castidad, que incluye el celibato, se refiere no solo a la abstinenci
 
 [TPCr, Parte III, Libro III, Art. 2, n.862; n.244]
 
+### Según la Teología del Cuerpo (TdC)
+
+Juan Pablo II desarrolla el celibato apostólico en la Parte IV de su catequesis sobre la teología del cuerpo. Cristo habla de «eunucos que a sí mismos se han hecho tales por amor al reino de los cielos» (Mt 19,12), indicando el carácter voluntario y sobrenatural de esta opción. No es mandamiento sino consejo: «No todos entienden esto, sino aquellos a quienes ha sido dado» (Mt 19,11) (TdC 17.03.1982).
+
+La expresión «por el reino de los cielos» tiene carácter objetivo: indica participación singular en la instauración del reino. Es una renuncia voluntaria al matrimonio y a la familia propia, posible contribución mayor a la realización del reino (TdC 21.04.1982).
+
+«Se transparenta y se trasluce el amor: el amor como disponibilidad del don exclusivo de sí por el reino de Dios». En la Tradición viva, el celibato adquiere significado de acto de amor esponsalicio: respuesta particular al amor del Esposo divino, donación de sí entendida como renuncia hecha sobre todo por amor (TdC 21.04.1982).
+
+El celibato confirma el significado esponsalicio del cuerpo: «ese 'para', presente 'desde el principio' en la base del matrimonio, puede estar también en base de la continencia 'por' el reino de los cielos», basado en la misma disposición fundamental de la persona que se realiza mediante el don sincero de sí (cf. GS 24) (TdC 28.04.1982).
+
+La renuncia al matrimonio es «una particular forma de afirmación del valor del significado nupcial del cuerpo» que sirve para confirmarlo «en toda su verdad y belleza personal» (TdC 05.05.1982).
+
 ## Distinciones importantes
 
 - **Celibato vs. castidad**: la castidad es virtud para todos; el celibato es un estado de vida que implica continencia perpetua
@@ -62,3 +74,7 @@ El celibato se relaciona con la [[castidad]], la [[virginidad]], el [[estado_rel
 - [CEC §915, §1579-1580, §1599, §2349]
 - [TPCr, Parte III, Libro III, n.862]
 - [PO 16; LG 42]
+- [TdC 17.03.1982]
+- [TdC 21.04.1982]
+- [TdC 28.04.1982]
+- [TdC 05.05.1982]

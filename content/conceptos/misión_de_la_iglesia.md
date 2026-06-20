@@ -40,6 +40,20 @@ Cristo y la Iglesia son inseparables: «Cristo, en efecto, cuando es aceptado re
 
 El Jubileo del año 2000 subrayó la dimensión universal de la misión: «Cristo pertenece a la historia universal de toda la humanidad y le da forma. Desde la eternidad hay un proyecto de elevar en Cristo al hombre y al mundo a una dimensión divina» [MI, cap. 19].
 
+### Según la *Redemptor Hominis* (RH)
+
+La misión de la Iglesia es revelar a Cristo al mundo: «Jesucristo es principio estable y centro permanente de la misión que Dios mismo ha confiado al hombre» [RH §11]. La Iglesia debe «ayudar a todo hombre para que se encuentre a sí mismo en él» [RH §11]. El cometido fundamental de la Iglesia en todas las épocas, y particularmente en la nuestra, es «dirigir la mirada del hombre, orientar la conciencia y la experiencia de toda la humanidad hacia el misterio de Cristo» [RH §10].
+
+La conciencia de la Iglesia debe ir unida a una apertura universal, que determina «el dinamismo apostólico, es decir, misionero de la Iglesia» y conduce al «diálogo de la salvación» [RH §4].
+
+La Iglesia es en Cristo «sacramento, o signo e instrumento de la íntima unión con Dios y de la unidad de todo el género humano» [RH §7]. Ella «permanece en la esfera del misterio de la Redención que ha llegado a ser precisamente el principio fundamental de su vida y de su misión» [RH §7].
+
+Cristo «se ha unido en cierto modo a todo hombre» [RH §13]. La Iglesia desea servir a este único fin: «que todo hombre pueda encontrar a Cristo, para que Cristo pueda recorrer con cada uno el camino de la vida» [RH §13].
+
+El hombre es el camino primero y fundamental de la Iglesia: «este hombre es el primer camino que la Iglesia debe recorrer en el cumplimiento de su misión, él es el camino primero y fundamental de la Iglesia, camino trazado por Cristo mismo» [RH §14].
+
+La Iglesia está solícita por la vocación del hombre en Cristo. Cristo, mediante la encarnación, se ha unido a todo hombre y de esta unión nace el «hombre nuevo» [RH §18]. La Iglesia, penetrando en este misterio, vive más profundamente su propia naturaleza y misión.
+
 ## Distinciones importantes
 
 - Misión de la Iglesia universal vs. misiones particulares (ad gentes).

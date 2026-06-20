@@ -21,6 +21,18 @@ La pureza de corazón es la condición previa para la contemplación de Dios (§
 
 Royo Marín sitúa la pureza como parte de la virtud de la templanza, una de las cuatro virtudes cardinales que deben practicar quienes aspiran a la perfección cristiana. La pureza es necesaria para avanzar en la vía purgativa y alcanzar la iluminativa. Las almas llamadas a la perfección deben custodiar la pureza del cuerpo y del espíritu, pues «los puros de corazón verán a Dios». La pureza angélica es propia de los que viven la virginidad consagrada.
 
+### Según la Teología del Cuerpo (TdC)
+
+Juan Pablo II, en la continuación de su catequesis sobre la teología del cuerpo, profundiza el significado de la pureza. Cristo enseña que «no es lo que entra por la boca lo que hace impuro al hombre, sino lo que sale del corazón» (Mt 15,11-18), estableciendo que la pureza en sentido moral es ante todo un concepto general, no específico: todo bien moral es pureza y todo mal moral es impureza (TdC 10.12.1980).
+
+La pureza brota del corazón, no de abluciones externas ni de prescripciones rituales. Cristo rompe con la pureza ritual del Antiguo Testamento: ninguna «inmundicia» somática o fisiológica entra de por sí en la definición de impureza moral (TdC 10.12.1980).
+
+San Pablo desarrolla la pureza en el marco de la tensión carne-Espíritu (Gál 5,16-17; Rm 8,5). La pureza de corazón se realiza en la «vida según el Espíritu» (TdC 10.12.1980).
+
+La pureza, según 1 Tes 4,3-5, es una virtud que consiste no solo en la abstención de la impureza sino también en el mantenimiento del cuerpo «en santidad y respeto». El «respeto» hacia lo corpóreo y sexual es fuerza espiritual esencial para la pureza (TdC 28.01.1981).
+
+La pureza tiene una función positiva: aliada con el don de la piedad (donum pietatis), sensibiliza al sujeto a la dignidad del cuerpo y realiza en él una plenitud de dignidad en las relaciones interpersonales, de modo que «Dios mismo es glorificado en él» (1 Cor 6,20) (TdC 18.03.1981).
+
 ## Distinciones importantes
 
 - **Pureza del cuerpo vs. pureza del espíritu**: la primera se refiere a la castidad externa; la segunda, a la rectitud de los pensamientos y deseos internos.
@@ -39,3 +51,6 @@ La pureza se relaciona con la [[templanza]], la [[castidad]], el [[celibato]], l
 
 - [CEC §2517-2527, §2531-2533]
 - [TPCr, Segunda Parte, Tratado de las virtudes, Cap. sobre la templanza]
+- [TdC 10.12.1980]
+- [TdC 28.01.1981]
+- [TdC 18.03.1981]

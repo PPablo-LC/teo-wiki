@@ -159,6 +159,22 @@ La monogamia aparece como «la única y justa analogía del monoteísmo entendid
 
 El adulterio es «radical falsificación del signo» de la unión conyugal, «pecado del cuerpo» que se identifica solo respecto a la relación de las personas (TdC 27.08.1980).
 
+La virginidad por el reino no se contrapone al matrimonio ni se basa en un juicio negativo sobre él. La superioridad de la virginidad como vocación excepcional no significa infravaloración del matrimonio; está dictada exclusivamente «por el reino de los cielos». Pablo explicita: «bien» (matrimonio) vs. «mejor» (continencia) (1 Cor 7,38) (TdC 07.04.1982).
+
+La continencia «por el reino» confirma el significado esponsalicio del cuerpo: «ese 'para', presente 'desde el principio' en la base del matrimonio, puede estar también en base de la continencia 'por' el reino de los cielos» (cf. GS 24) (TdC 28.04.1982).
+
+Sobre la abstinencia conyugal, Pablo enseña: «No os defraudéis uno al otro, a no ser de común acuerdo por algún tiempo, para daros a la oración» (1 Cor 7,5-6). La abstinencia voluntaria y periódica debe ser fruto del don de Dios propio de los esposos (TdC 12.05.1982).
+
+Juan Pablo II distingue dos niveles en la sacramentalidad del matrimonio: el matrimonio como «sacramento primordial» (inscrito en el misterio de la creación, Gén 2,24) y el matrimonio como «sacramento de la redención», restaurado por Cristo y fundamentado en el amor nupcial de Cristo y la Iglesia (Ef 5,32) (TdC 30.06.1982).
+
+El matrimonio como sacramento que brota del misterio de la redención es dado «al hombre de la concupiscencia» como don (gracia) y como tarea (ethos). «Es sacramento desde el principio mismo y, a la vez, basándose en el estado pecaminoso histórico del hombre, es sacramento que surge del misterio de la redención del cuerpo» (TdC 18.08.1982).
+
+La indisolubilidad se confirma sobre la base del misterio de la redención: «La redención se convierte, a la vez, en la base para comprender la dignidad particular del cuerpo humano, enraizada en la dignidad personal del hombre y de la mujer. La razón de esta dignidad está precisamente en la raíz de la indisolubilidad de la alianza conyugal» (TdC 18.08.1982).
+
+El matrimonio es «lugar de encuentro del eros con el ethos y de su recíproca compenetración en el corazón del hombre y de la mujer» (TdC 25.08.1982). Los esposos están llamados a vivir según el Espíritu (Rm 8), dominando la concupiscencia y redescubriendo «la verdadera libertad del don, unida a la conciencia del sentido nupcial del cuerpo» (TdC 25.08.1982).
+
+El amor conyugal, a imagen de Cristo que «amó a la Iglesia y se entregó por ella» (Ef 5,25), es la fuerza que salvaguarda la unidad indivisible de los dos significados del acto conyugal (TdC 10.10.1984).
+
 ## Distinciones importantes
 
 - **Matrimonio como contrato natural vs. como sacramento**: entre bautizados, el contrato válido es ipso facto sacramento
@@ -200,6 +216,10 @@ El adulterio es «radical falsificación del signo» de la unión conyugal, «pe
 - Santo Tomás, S.Th., Suppl., q. 41-68
 - [PS §12,68,13-14; §13,97,7]
 - [FC §11, §13, §16]
+- [TdC 30.06.1982]
+- [TdC 18.08.1982]
+- [TdC 25.08.1982]
+- [TdC 10.10.1984]
 - [TdC 05.09.1979]
 - [TdC 13.02.1980]
 - [TdC 20.02.1980]

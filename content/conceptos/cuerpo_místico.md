@@ -29,6 +29,16 @@ La Iglesia, sociedad provista de sus órganos jerárquicos, y el Cuerpo místico
 El Espíritu Santo es "lo que nuestro espíritu, es decir, nuestra alma, es para nuestros miembros, eso mismo es el Espíritu Santo para los miembros de Cristo, para el Cuerpo de Cristo que es la Iglesia". El Espíritu Santo es el principio de toda acción vital en todas las partes del cuerpo (TPCr, Parte I, Cap. 5).
 
 
+### Según la *Redemptor Hominis* (RH)
+
+Juan Pablo II proclama que la Iglesia es el Cuerpo de Cristo: «la Iglesia es su Cuerpo» [RH §7]. Cristo es «la cabeza», «aquel de quien todo procede y para quien somos nosotros» [RH §7]. La Iglesia permanece en la esfera del misterio de la Redención, que es «el principio fundamental de su vida y de su misión» [RH §7].
+
+Si el Cuerpo Místico es Pueblo de Dios, «esto significa que todo hombre está penetrado por aquel soplo de vida que proviene de Cristo» [RH §18]. La unión de Cristo con el hombre es «en sí misma un misterio, del que nace el "hombre nuevo", llamado a participar en la vida de Dios, creado nuevamente en Cristo, en la plenitud de la gracia y verdad» [RH §18]. Esta unión es «la fuerza que transforma interiormente al hombre, como principio de una vida nueva que no se desvanece y no pasa, sino que dura hasta la vida eterna» [RH §18].
+
+La Iglesia como Cuerpo Místico, organismo, unidad social, «percibe los mismos impulsos divinos, las luces y las fuerzas del Espíritu que provienen de Cristo crucificado y resucitado» [RH §18]. La Iglesia no tiene otra vida «fuera de aquella que le da su Esposo y Señor» [RH §18].
+
+La pertenencia al Cuerpo Místico «proviene de una llamada particular, unida a la acción salvífica de la gracia» [RH §21]. La comunidad del Pueblo de Dios es comunidad de discípulos que llevan «en sus almas el signo indeleble del ser cristiano» y que, en diversidad de formas, siguen a Cristo [RH §21].
+
 ## Distinciones importantes
 
 - Cuerpo "místico" no es "irreal" sino misterioso y sobrenatural

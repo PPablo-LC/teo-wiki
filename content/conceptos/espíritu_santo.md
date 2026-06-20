@@ -31,6 +31,14 @@ Santo Tomás trata la persona del Espíritu Santo en SmTh Iª q.36 (nombre y pro
 
 El Espíritu Santo es el alma del Cuerpo Místico de Cristo, principio de toda acción vital en todas las partes del cuerpo. Sus dones son el elemento dinámico de la vida sobrenatural, perfeccionando las virtudes infusas. El Espíritu Santo actúa en las almas mediante sus dones y mociones, conduciéndolas a la perfección cristiana. Es el autor principal de la santificación de las almas (TPCr, Parte I, Cap. 2).
 
+### Según la *Redemptor Hominis* (RH)
+
+Juan Pablo II inicia su pontificado «con plena confianza en el Espíritu de Verdad» [RH §3]. El Espíritu Santo es el «Espíritu de verdad y de Amor» [RH §2-3], que guía a la Iglesia «hacia la verdad completa» [RH §2, citando Jn 16,13]. La Iglesia es «iluminada y sostenida por el Espíritu Santo» y actúa en virtud de su asistencia [RH §3]. El Espíritu Santo ha sido prometido por Cristo y comunicado constantemente a la Iglesia [RH §18].
+
+La efusión del Espíritu Santo marca «un sello imborrable en el misterio de la Redención» [RH §9]. El Espíritu de verdad es también Espíritu de libertad: «El Espíritu, que sopla donde quiere» [RH §12, citando Jn 3,8], obra más allá de los confines visibles de la Iglesia. La Iglesia, en su solicitud por el hombre, invoca al Espíritu Santo con fervor creciente: «¡Ven, Espíritu Santo! ¡Ven! ¡Ven!» [RH §18, citando la secuencia de Pentecostés]. En los hombres se revelan «las fuerzas del Espíritu, los dones del Espíritu, los frutos del Espíritu Santo» [RH §18], que son la respuesta a los materialismos de la época.
+
+Cristo ha prometido a la Iglesia «la asistencia especial del Espíritu de verdad» para custodiar fielmente la verdad revelada, concediendo el don de la infalibilidad al magisterio y el sentido de la fe a todo el Pueblo de Dios [RH §19]. María, bajo la acción particular del Espíritu de Amor, dio la vida humana al Hijo de Dios, y en Pentecostés la Iglesia nació visiblemente [RH §22].
+
 ## Distinciones importantes
 
 - No es una "fuerza" impersonal sino una Persona divina

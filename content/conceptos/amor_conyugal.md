@@ -49,6 +49,16 @@ Cristo llama al corazón humano a un nuevo ethos: en la esfera del amor, «el 'e
 
 La pureza de corazón, a la que Cristo llama en el Sermón de la Montaña, es exigencia del amor y dimensión de su verdad interior en el corazón del hombre (TdC 03.12.1980).
 
+La Carta a los Efesios (5,22-33) revela que el amor redentor se transforma en amor nupcial: «Cristo, al entregarse a sí mismo por la Iglesia, con el mismo acto redentor se ha unido de una vez para siempre con ella, como el esposo con la esposa». El matrimonio participa de ambas dimensiones del amor: la redentora y la nupcial (TdC 01.09.1982).
+
+La consecuencia para los esposos: el amor «excluye todo género de sumisión en virtud de la cual la mujer se convertiría en sierva o esclava del marido». El amor hace del «yo» del otro el propio «yo» (TdC 01.09.1982).
+
+El Cantar de los Cantares revela el amor humano como fascinación recíproca: «experiencia particular de la belleza que se centra sobre lo que es visible, pero que envuelve simultáneamente a toda la persona» (TdC 16.05.1984). El amor es «fuerte como la muerte» (Cant 8,6): en el libro de Tobías, el amor de Tobías y Sara debe afrontar «la prueba de la vida y de la muerte», sostenido por la oración (TdC 06.06.1984).
+
+La verdad del amor va más allá del eros: «el amor que parece brotar de otra dimensión de la persona... ha sido llamado con el nombre de 'ágape' y el ágape lleva a plenitud al eros, purificándolo» (TdC 30.05.1984).
+
+En la Parte VI, el amor conyugal es descrito como «fuerza» y «capacidad de carácter moral, orientada activamente hacia la plenitud del bien». Es la fuerza que salvaguarda la unidad indivisible del significado unitivo y procreador del acto conyugal (TdC 10.10.1984).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[matrimonio]], [[sacramento_del_matrimonio]], [[fidelidad]], [[indisolubilidad]], [[procreación]], [[castidad]]
@@ -63,6 +73,11 @@ Se relaciona con [[matrimonio]], [[sacramento_del_matrimonio]], [[fidelidad]], [
 - [CompDS §223, §225]
 - [CompDS §230]
 - [FC §11, §13, §14, §18]
+- [TdC 01.09.1982]
+- [TdC 16.05.1984]
+- [TdC 30.05.1984]
+- [TdC 06.06.1984]
+- [TdC 10.10.1984]
 - [TdC 09.01.1980]
 - [TdC 16.01.1980]
 - [TdC 06.02.1980]

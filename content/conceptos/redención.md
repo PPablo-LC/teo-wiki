@@ -83,6 +83,15 @@ La Resurrección es la confirmación de que «el bien instaurado por Dios en la 
 
 La Redención concede al hombre «la victoria de Cristo sobre el mal, no sólo como un beneficio personal, sino también como tarea» [MI, cap. 6]. El hombre la asume emprendiendo el camino de la vida interior —vía purificativa, iluminativa y unitiva—, siguiendo el «sígueme» de Cristo [MI, cap. 6].
 
+### Según la *Redemptor Hominis* (RH)
+
+Cristo, Redentor del hombre, es «el centro del cosmos y de la historia» [RH §1]. La redención es creación renovada: en Jesucristo «el mundo visible, creado por Dios para el hombre [...] adquiere nuevamente el vínculo original con la misma fuente divina de la Sabiduría y del Amor» [RH §8]. Cristo, el nuevo Adán, «manifiesta plenamente al propio hombre y le descubre la sublimidad de su vocación» [RH §8, citando GS 22].
+
+La redención tiene una dimensión divina y otra humana. En su dimensión divina, «la redención del mundo —ese misterio tremendo del amor, en el que la creación es renovada— es en su raíz más profunda la plenitud de la justicia en un Corazón humano: en el Corazón del Hijo Primogénito» [RH §9]. La Cruz manifiesta la eterna paternidad de Dios y su amor, que «es siempre más grande que todo lo creado» porque «Dios es amor» [RH §9]. En su dimensión humana, «Cristo Redentor revela plenamente el hombre al mismo hombre» [RH §10]. El hombre debe «entrar en Él con todo su ser, debe "apropiarse" y asimilar toda la realidad de la Encarnación y de la Redención para encontrarse a sí mismo» [RH §10]. La Redención, cumplida en el misterio pascual, «ha vuelto a dar definitivamente al hombre la dignidad y el sentido de su existencia en el mundo» [RH §10].
+
+Cristo, mediante la encarnación, «se ha unido en cierto modo a todo hombre» [RH §13, citando GS 22]. La Eucaristía, en la que la Iglesia participa de la fuerza de la acción redentora, es «el centro y el vértice de toda la vida sacramental, por medio de la cual cada cristiano recibe la fuerza salvífica de la Redención» [RH §20].
+
+
 
 - [CEC §571-623]
 - [CEC §599-605, designio divino]

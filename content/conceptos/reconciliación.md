@@ -35,6 +35,14 @@ La expresión más concreta de la reconciliación fue la visita al Centro Penite
 
 En la Vigilia de Barcelona (9 de junio), llamó a los jóvenes a ser «artesanos de reconciliación» en sus familias, escuelas y ambientes, y les recordó que «Dios nunca se cansa de perdonar; somos nosotros los que nos cansamos de pedir perdón».
 
+### Según la *Redemptor Hominis* (RH)
+
+Jesucristo «se ha convertido en nuestra reconciliación ante el Padre» [RH §9]. Él solo «ha dado satisfacción al amor eterno del Padre, a la paternidad que desde el principio se manifestó en la creación del mundo» [RH §9]. La Cruz sobre el Calvario es «una nueva manifestación de la eterna paternidad de Dios, el cual se acerca de nuevo en Él a la humanidad, a todo hombre, dándole el tres veces santo "Espíritu de verdad"» [RH §9].
+
+El sacramento de la Penitencia es el lugar de la reconciliación sacramental. La Eucaristía es el Sacramento «en que se expresa más cabalmente nuestro nuevo ser», en el que Cristo «certifica» que cada uno de nosotros, «como partícipe del misterio de la Redención, tiene acceso a los frutos de la filial reconciliación con Dios, que Él mismo había realizado y siempre realiza entre nosotros mediante el ministerio de la Iglesia» [RH §20].
+
+La Iglesia, custodiando el sacramento de la Penitencia, «afirma expresamente su fe en el misterio de la Redención, como realidad viva y vivificante, que corresponde a la verdad interior del hombre, corresponde a la culpabilidad humana y también a los deseos de la conciencia» [RH §20]. Cristo dice por medio del ministro del Sacramento de la Reconciliación: «tus pecados te son perdonados»; «vete y no peques más» [RH §20].
+
 ## Relaciones doctrinales
 
 Se relaciona con [[perdón]], [[paz]], [[justicia]], [[verdad]], [[paz_cristiana]], [[guerra]]

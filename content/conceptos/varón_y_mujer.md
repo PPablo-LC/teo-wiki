@@ -50,6 +50,14 @@ La unidad de ambos denota la identidad de la naturaleza humana; la dualidad mani
 
 La concupiscencia altera la relación varón-mujer: «él te dominará» (Gn 3,16) indica una infracción de la comunión original (TdC 18.06.1980).
 
+En las catequesis sobre el sacramento del matrimonio (Parte V), Juan Pablo II desarrolla la relación varón-mujer a la luz de Ef 5,21-33. La unidad «una sola carne» no anula la individualidad de los sujetos: se trata de una «esencial bi-subjetividad» del marido y la mujer en el matrimonio (TdC 25.08.1982).
+
+La relación se caracteriza por la mutua sujeción «en el temor de Cristo». «El marido y la mujer están sujetos los unos a los otros, están mutuamente subordinados. La fuente de esta sumisión recíproca está en la pietas cristiana, y su expresión es el amor». El matrimonio excluye el dominio unilateral (TdC 11.08.1982).
+
+El Cantar de los Cantares revela la subjetividad del «yo» femenino en la relación personal con el hombre. El esposo llama a la esposa «hermana» y «novia», expresando de modo sencillo esta subjetividad. La mujer es «dueña del propio misterio» como «jardín cerrado» y «fuente sellada» (Cant 4,12): inviolabilidad interior que expresa la auténtica profundidad de la recíproca pertenencia de los esposos (TdC 23.05.1984).
+
+El varón acepta el desafío de «definirse y concebirse» en relación con ella, descubriendo la dimensión nupcial de su propia masculinidad (TdC 23.05.1984).
+
 ## Distinciones importantes
 
 - **Igualdad en dignidad**: ambos son imagen de Dios
@@ -75,6 +83,9 @@ Se relaciona con [[imagen_de_dios]], [[complementariedad]], [[igualdad]], [[dign
 - [CEC §369-373, §2331-2336]
 - [Juan Pablo II, Mulieris Dignitatem]
 - SmTh Iª q.92 aa.1-4
+- [TdC 11.08.1982]
+- [TdC 25.08.1982]
+- [TdC 23.05.1984]
 - [TdC 05.09.1979]
 - [TdC 19.09.1979]
 - [TdC 07.11.1979]

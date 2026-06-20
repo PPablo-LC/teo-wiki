@@ -39,6 +39,14 @@ El fundamento revelado de esta doctrina se encuentra en la libertad del acto de 
 
 León XIV defendió explícitamente la libertad religiosa en su discurso ante las Cortes como «primer derecho humano», por tocar la dimensión más profunda de la persona —la relación con Dios— [L_XIV-ViajeEspaña-2026, 06-Parlamento]. Advirtió que «la libertad religiosa no puede ser reducida a la mera libertad de culto; incluye el derecho de las comunidades religiosas a contribuir al debate público y a la construcción de la sociedad» [L_XIV-ViajeEspaña-2026, 06-Parlamento]. Presentó a la Iglesia como deseosa de «no privilegios, sino el espacio para anunciar el Evangelio y servir a todos, especialmente a los más pobres» [L_XIV-ViajeEspaña-2026, 06-Parlamento].
 
+### Según la *Redemptor Hominis* (RH)
+
+Juan Pablo II confirma que la Iglesia «da gran importancia a todo lo que el Concilio Vaticano II ha expuesto en la Declaración sobre la libertad religiosa». Cristo y los Apóstoles, al anunciar la verdad que no proviene de los hombres sino de Dios, «conservan una profunda estima por el hombre, por su entendimiento, su voluntad, su conciencia y su libertad» [RH §12]. De este modo, la misma dignidad de la persona humana se hace contenido del anuncio evangélico. La Iglesia, en virtud de su misión divina, se hace «custodia de esta libertad que es condición y base de la verdadera dignidad de la persona humana» [RH §12].
+
+La verdad y la libertad se vinculan intrínsecamente: «Conoceréis la verdad y la verdad os librará» [RH §12]. Cristo trae al hombre «la libertad basada sobre la verdad», liberándolo de lo que disminuye la libertad en sus mismas raíces: el alma, el corazón, la conciencia [RH §12].
+
+La libertad religiosa es un derecho fundamental de la persona: el Concilio Vaticano II elaboró la Declaración *Dignitatis humanae* en la que se expresa «no sólo la concepción teológica del problema, sino también la concepción desde el punto de vista del derecho natural» [RH §17]. La limitación de la libertad religiosa «ofende sobre todo a la dignidad misma del hombre, independientemente de la religión profesada o de la concepción que ellas tengan del mundo» [RH §17]. Juan Pablo II pide el respeto de este derecho no como un privilegio sino como «derecho fundamental», cuya actuación es «una de las verificaciones fundamentales del auténtico progreso del hombre en todo régimen, en toda sociedad sistema o ambiente» [RH §17].
+
 ## Relaciones doctrinales
 
 Se relaciona con [[iglesia_y_estado]], [[conciencia_moral]], [[dignidad_humana]], [[derechos_humanos]], [[laicidad_positiva]], [[estado]]

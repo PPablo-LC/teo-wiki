@@ -1,7 +1,7 @@
 # Amor de Dios
 
 > Área: Dogmática / Teología moral
-> Última actualización: 2026-06-18
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -28,6 +28,14 @@ El Catecismo enseña que «Dios es amor» (1 Jn 4,8, §221) y que «el amor de D
 ### Según la Dives in Misericordia (DM)
 
 La encíclica presenta el amor de Dios como la dimensión profunda de la misericordia: «el amor —que es más fuerte que la muerte, más fuerte que el pecado y que todo mal— eleva al hombre de las caídas graves y lo libera de las más grandes amenazas» [DM §15]. La cruz es «la inclinación más profunda de la Divinidad hacia el hombre» [DM §8].
+
+### Según la *Redemptor Hominis* (RH)
+
+La encíclica se abre con el anuncio joánico que condensa todo el misterio cristiano: «Tanto amó Dios al mundo, que le dio su unigénito Hijo, para que todo el que crea en Él no perezca, sino que tenga la vida eterna» [RH §1, citando Jn 3,16]. Este amor eterno del Padre se manifiesta en la historia mediante el Hijo, que el Padre dio para que el hombre tenga vida eterna [RH §22].
+
+Dios es amor (1 Jn 4,8) [RH §9]. La Redención revela que «el amor es siempre más grande que todo lo creado, el amor que es Él mismo, porque "Dios es amor"». Y sobre todo: «el amor es más grande que el pecado, que la debilidad, que la "vanidad de la creación", más fuerte que la muerte; es amor siempre dispuesto a aliviar y a perdonar, siempre dispuesto a ir al encuentro con el hijo pródigo» [RH §9].
+
+«El hombre no puede vivir sin amor. Él permanece para sí mismo un ser incomprensible, su vida está privada de sentido si no se le revela el amor, si no se encuentra con el amor, si no lo experimenta y lo hace propio, si no participa en él vivamente» [RH §10]. Cristo Redentor revela plenamente el hombre al mismo hombre, y esta revelación es precisamente la dimensión humana del misterio de la Redención [RH §10].
 
 ### Según Memoria e Identidad (MI)
 
@@ -57,3 +65,4 @@ El amor de Dios se relaciona con la [[misericordia]], la [[redención]], la [[gr
 - SmTh Ia-IIae q.113 a.9
 - [DM §7–8, §15]
 - [MI, cap. 2]
+- [RH §1, §9-10]

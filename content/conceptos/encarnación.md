@@ -1,7 +1,7 @@
 # Encarnación
 
 > Área: Cristología
-> Última actualización: 2026-06-12
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -20,6 +20,16 @@ La virginidad de María manifiesta la iniciativa absoluta de Dios en la Encarnac
 ### Según la Redemptoris Mater (RM)
 
 [JPII, Redemptoris Mater §1, §4, §7-11, §51]: La Encarnación es el misterio central de la fe, y María es la que lo hizo posible con su *fiat*. «Al llegar la plenitud de los tiempos, envió Dios a su Hijo, nacido de mujer» (Gál 4,4). Esta plenitud señala el momento en que el Espíritu Santo plasmó en el seno virginal de María la naturaleza humana de Cristo [RM §1]. El misterio de la Encarnación —la unión hipostática del Hijo de Dios con la naturaleza humana— se realiza y cumple precisamente en María, que por ello es «llena de gracia» [RM §9]. María «es Madre de Dios (*Theotókos*), ya que por obra del Espíritu Santo concibió en su seno virginal y dio al mundo a Jesucristo, el Hijo de Dios consubstancial al Padre» [RM §4, citando el Concilio de Éfeso]. La Encarnación constituye el cumplimiento sobreabundante de la promesa del protoevangelio (Gn 3,15) [RM §11]. En el centro del asombro de la fe ante la Encarnación se halla María, que ha sido la primera en experimentar la divinización del hombre mediante la «humanización» del Hijo [RM §51].
+
+### Según la *Redemptor Hominis* (RH)
+
+La encíclica inaugural de Juan Pablo II se abre precisamente con la verdad-clave de la fe cristiana: «Y el Verbo se hizo carne y habitó entre nosotros» (Jn 1,14) [RH §1]. La Encarnación es presentada como el acontecimiento que da al hombre la dimensión que Dios quiso darle desde el principio, de manera definitiva: «Dios ha entrado en la historia de la humanidad y en cuanto hombre se ha convertido en sujeto suyo» [RH §1].
+
+En Cristo, el mundo visible creado para el hombre —sujeto a la vanidad por el pecado— adquiere nuevamente el vínculo original con la fuente divina de la Sabiduría y del Amor [RH §8]. La Encarnación es el fundamento de la nueva creación: así como en Adán el vínculo quedó roto, «en el Hombre-Cristo ha quedado unido de nuevo» [RH §8].
+
+El Concilio Vaticano II enseña, y Juan Pablo II lo recoge, que «el Hijo de Dios, con su encarnación, se ha unido en cierto modo con todo hombre» [RH §8, citando GS 22]. Cristo ha penetrado de modo único e irrepetible en el misterio del hombre y ha entrado en su «corazón» [RH §8].
+
+El misterio de la Encarnación se formó bajo el corazón de la Virgen de Nazaret cuando pronunció su *fiat*: «desde aquel momento este corazón virginal y materno al mismo tiempo, bajo la acción particular del Espíritu Santo, sigue siempre la obra de su Hijo» [RH §22]. María fue «inserida en la historia de la salvación» desde el momento de la Anunciación [RH §22].
 
 ### Según el Catecismo (CEC)
 
@@ -123,3 +133,4 @@ La Encarnación es el fundamento de la [[redención]], la causa de la [[gracia_s
 - [TPCr, Parte I, Cap. 3]
 - [PS §25-30]
 - SmTh IIIª q.1 aa.1-6; q.4 a.1; q.5 aa.1-4; q.6 aa.1-5; q.31 aa.1-8; q.32 aa.1-4; q.33 aa.1-4
+- [RH §1, §8, §13, §22]

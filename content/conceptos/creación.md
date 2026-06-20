@@ -1,7 +1,7 @@
 # Creación
 
 > Área: Dogmática
-> Última actualización: 2026-06-02
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -47,6 +47,14 @@ Las criaturas corporales fueron hechas en razón de la bondad de Dios (Iª q.65 
 
 **Obra de los seis días (q.66-74):** La creación del mundo corporal se despliega en tres obras: la de *creación* (cielo y tierra en su principio), la de *diversificación* (separación de los elementos en los días 1-3), y la de *ornamentación* (población del mundo en los días 4-6). La materia prima fue creada no informe en el tiempo, sino con formas diversificadas desde el principio (q.66 a.1). Los cuerpos celestes y los terrestres no comparten la misma materia: la materia del cielo es incorruptible y la de los elementos corruptible (q.66 a.2). La luz, cualidad activa del primer cuerpo, fue creada el primer día (q.67). El firmamento fue formado el segundo día (q.68), la tierra fue separada de las aguas y produjo plantas el tercero (q.69), los astros luminosos el cuarto (q.70), los peces y aves el quinto (q.71), los animales terrestres el sexto (q.72). En el séptimo día Dios cesó de crear nuevas especies, descansando en Sí mismo (q.73).
 
+### Según la *Redemptor Hominis* (RH)
+
+Juan Pablo II recoge la verdad fundamental de la creación que testimonia el Génesis: «Y vio Dios ser bueno» [RH §8]. El bien tiene su fuente en la Sabiduría y en el Amor. En Jesucristo, el mundo visible, creado por Dios para el hombre —el mundo que, entrando el pecado, está sujeto a la vanidad (Rom 8,20)— «adquiere nuevamente el vínculo original con la misma fuente divina de la Sabiduría y del Amor» [RH §8]. «Así como en el hombre-Adán este vínculo quedó roto, así en el Hombre-Cristo ha quedado unido de nuevo» [RH §8].
+
+La creación entera «gime y siente dolores de parto» y «está esperando la manifestación de los hijos de Dios» (Rom 8,19-22) [RH §8]. El inmenso progreso del siglo XX, con sus conquistas científicas y técnicas, revela al mismo tiempo esa sumisión a la vanidad: la contaminación ambiental, los conflictos armados, las armas de destrucción masiva, la falta de respeto a la vida de los no nacidos [RH §8].
+
+El Dios de la creación se revela también como Dios de la redención, fiel a su amor al hombre y al mundo ya revelado el día de la creación [RH §9].
+
 ## Distinciones importantes
 
 - **Creación ≠ emanación**: Dios no «emana» el mundo de su substancia; lo crea libremente de la nada.
@@ -75,3 +83,4 @@ Las criaturas corporales fueron hechas en razón de la bondad de Dios (Iª q.65 
 - SmTh Iª q.65, creación de la criatura corporal
 - SmTh Iª q.66, materia prima y diversificación
 - SmTh Iª q.67-74, obra de los seis días
+- [RH §8-9]

@@ -1,7 +1,7 @@
 # Dignidad humana
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-05-29
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -34,6 +34,18 @@ La dignidad humana es un tema recurrente en la encíclica. Juan Pablo II afirma 
 La parábola del hijo pródigo revela que la misericordia «tiene la forma interior del amor que es capaz de inclinarse hacia todo hijo pródigo, toda miseria humana y singularmente hacia toda miseria moral o pecado». El que es objeto de misericordia «no se siente humillado, sino como hallado de nuevo y "revalorizado"» [DM §6]. La alegría del padre indica «un bien inviolado: un hijo, por más que sea pródigo, no deja de ser hijo real de su padre» [DM §6].
 
 La relación de misericordia se funda sobre «la común experiencia de aquel bien que es el hombre, sobre la común experiencia de la dignidad que le es propia» [DM §6]. Esta experiencia hace que el hijo pródigo comience a verse a sí mismo con verdad (auténtica humildad), y para el padre el hijo se convierte en un bien particular [DM §6].
+
+### Según la *Redemptor Hominis* (RH)
+
+El hombre ha sido creado por Dios a su imagen y semejanza, y en Jesucristo el mundo visible adquiere nuevamente el vínculo original con la fuente divina de la Sabiduría y del Amor [RH §8]. Cristo, el nuevo Adán, «manifiesta plenamente al propio hombre y le descubre la sublimidad de su vocación» [RH §8, citando GS 22].
+
+«El hombre no puede vivir sin amor. Él permanece para sí mismo un ser incomprensible, su vida está privada de sentido si no se le revela el amor, si no se encuentra con el amor, si no lo experimenta y lo hace propio» [RH §10]. En el misterio de la Redención, el hombre vuelve a encontrar «la grandeza, la dignidad y el valor propios de su humanidad»; es «confirmado» y en cierto modo «nuevamente creado» [RH §10]. De ahí surge el «profundo estupor respecto al valor y a la dignidad del hombre» que se llama Evangelio y cristianismo [RH §10].
+
+El hombre —todo hombre sin excepción alguna— ha sido redimido por Cristo [RH §14]. Por eso, el hombre es «el primer camino que la Iglesia debe recorrer en el cumplimiento de su misión, él es el camino primero y fundamental de la Iglesia» [RH §14].
+
+El mundo contemporáneo presenta múltiples amenazas a la dignidad humana: la explotación de la tierra, el progreso técnico sin desarrollo moral, la alienación del hombre por sus propios productos [RH §15]. La cuestión fundamental es si el progreso hace la vida «más humana» y «más digna del hombre» [RH §15]. La situación del hombre aparece «distante tanto de las exigencias objetivas del orden moral, como de las exigencias de la justicia o aún más del amor social» [RH §16]. La civilización consumística produce un exceso de bienes para unos mientras otros sufren hambre [RH §16]. Se impone la «prioridad de la ética sobre la técnica, el primado de la persona sobre las cosas, la superioridad del espíritu sobre la materia» [RH §16].
+
+Los derechos humanos son expresión de la dignidad de la persona. La Declaración Universal de los Derechos Humanos constituye un «magnífico esfuerzo» para definir los derechos inviolables del hombre, y la paz se reduce al respeto de estos derechos [RH §17]. La violación de los derechos humanos va acompañada de la violación de los derechos de las naciones [RH §17]. La libertad religiosa es un derecho fundamental cuyo respeto es «una de las verificaciones fundamentales del auténtico progreso del hombre» [RH §17].
 
 ### Según el Compendio (CompDS)
 
@@ -96,3 +108,4 @@ León XIV dedicó un amplio desarrollo a la dignidad humana en su discurso ante 
 - CEC §27; §356-358; §362-368; §1700-1715; §1730; §2278-2279; §2479
 - TPCr, Tercera Parte, Libro I, Cap. IV (La lucha contra la carne)
 - Concilio Vaticano II, Gaudium et Spes 12-22
+- [RH §8, §10, §13-17]

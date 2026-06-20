@@ -1,7 +1,7 @@
 # Persona Humana
 
 > Área: Antropología teológica
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -32,6 +32,18 @@ La persona humana es el centro de la atención en la familia, como fin y nunca c
 ### Según el Concilio Vaticano II (ConcVatII)
 
 La persona humana es «la única criatura en la tierra a la que Dios ha amado por sí misma» (GS 24). Creada a imagen de Dios (GS 12), posee alma espiritual inmortal y cuerpo material que debe ser honrado como criatura de Dios (GS 14). Por su interioridad, la persona es superior al universo entero; «entra dentro de su corazón, donde Dios le aguarda, escrutador de los corazones, y donde él personalmente, bajo la mirada de Dios, decide su propio destino» (GS 14). El hombre es un ser social por naturaleza: «no puede vivir ni desplegar sus cualidades sin relacionarse con los demás» (GS 12). «El principio, el sujeto y el fin de todas las instituciones sociales es y debe ser la persona humana» (GS 25). El misterio de la persona solo se esclarece en el misterio del Verbo encarnado (GS 22).
+### Según la *Redemptor Hominis* (RH)
+
+La persona humana ocupa el centro de la reflexión de la primera encíclica de Juan Pablo II. Cristo, con su encarnación, «se ha unido en cierto modo a todo hombre» [RH §13, citando GS 22]. La Iglesia divisa su cometido fundamental en «lograr que tal unión pueda actuarse y renovarse continuamente» [RH §13]. Jesucristo es «el camino principal de la Iglesia» que conduce de Cristo al hombre [RH §13].
+
+Se trata del hombre en toda su verdad, en su plena dimensión. No del hombre «abstracto» sino real, «concreto», «histórico». Se trata de «cada» hombre, porque cada uno ha sido comprendido en el misterio de la Redención y con cada uno se ha unido Cristo [RH §13].
+
+El hombre en su realidad singular (porque es «persona») tiene una historia propia de su vida y sobre todo una historia propia de su alma [RH §14]. El hombre en la plena verdad de su existencia, de su ser personal y a la vez comunitario y social —en el ámbito de la propia familia, de la sociedad, de la nación, de toda la humanidad— «es el primer camino que la Iglesia debe recorrer en el cumplimiento de su misión, él es el camino primero y fundamental de la Iglesia» [RH §14].
+
+La persona humana es sujeto de derechos inviolables. La Declaración de los Derechos Humanos debe servir como criterio esencial de todos los programas, sistemas y regímenes, cuyo fin fundamental debe ser el bien del hombre —«de la persona en la comunidad»— como factor fundamental del bien común [RH §17]. Se impone la «prioridad de la ética sobre la técnica, el primado de la persona sobre las cosas, la superioridad del espíritu sobre la materia» [RH §16]. El desarrollo debe ser de las personas y no solamente multiplicación de cosas; se trata de «ser más» y no solo de «tener más» [RH §16].
+
+La vocación cristiana consiste en participar en la misión real de Cristo, que se expresa en la disponibilidad a servir según su ejemplo: «no ha venido para ser servido, sino para servir» [RH §21, citando Mt 20,28]. Esta dignidad de la vocación se realiza en la donación sin reservas de toda la persona, en espíritu de amor a Cristo y, a través de Él, a todos los hombres [RH §21].
+
 ### Según Royo Marín (TPCr)
 
 Royo Marín estudia la persona humana en el contexto del organismo sobrenatural. La persona humana es el sujeto de la elevación sobrenatural: recibe la gracia santificante, las virtudes infusas y los dones del Espíritu Santo. El cuerpo y el alma son los dos principios constitutivos del ser humano.
@@ -59,3 +71,4 @@ La persona humana es el sujeto de la [[gracia_santificante]], de las [[virtudes_
 
 - [CEC §1700-1715]
 - [TPCr, Parte II]
+- [RH §13-17, §21]

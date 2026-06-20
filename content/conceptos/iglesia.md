@@ -33,6 +33,14 @@ PS presenta a la Iglesia Católica como la única fundada por Cristo-Dios para c
 
 León XIV desarrolló en su encuentro con los obispos españoles una visión de la Iglesia como «comunión en la diversidad»: la Iglesia es «una sinfonía de carismas, no una uniformidad» [L_XIV-ViajeEspaña-2026, 07 — Encuentro con Obispos]. Subrayó la sinodalidad, la colegialidad y la necesidad de una Iglesia «en salida». En la Comunidad Diocesana en el Estadio Bernabéu presentó a la Iglesia como «casa de todos, donde quepan todos» [L_XIV-ViajeEspaña-2026, 08 — Comunidad Diocesana]. Insistió en la Iglesia como madre, no como juez: «La Iglesia no está para condenar, sino para acompañar, curar heridas, ofrecer esperanza» [L_XIV-ViajeEspaña-2026, 08 — Comunidad Diocesana]. Retomó la imagen de la Iglesia como «hospital de campaña» presente en el magisterio de Francisco.
 
+### Según la *Redemptor Hominis* (RH)
+
+La Iglesia es «sacramento, o sea signo e instrumento de la unión íntima con Dios y de la unidad de todo el género humano» [RH §3, citando LG 1]. El Concilio Vaticano II formó la conciencia (autoconciencia) de la Iglesia, que se forma «en el diálogo» y se orienta hacia Cristo [RH §3-4]. La Iglesia, iluminada por el Espíritu Santo, «tiene una conciencia cada vez más profunda, sea respecto de su misterio divino, sea respecto de su misión humana» [RH §3].
+
+Cristo es el camino principal de la Iglesia: «Jesucristo es el camino principal de la Iglesia. Él mismo es nuestro camino "hacia la casa del Padre" y es también el camino hacia cada hombre» [RH §13]. El hombre «es el primer camino que la Iglesia debe recorrer en el cumplimiento de su misión, él es el camino primero y fundamental de la Iglesia, camino trazado por Cristo mismo» [RH §14].
+
+La Iglesia es el [[cuerpo_místico]] de Cristo [RH §7, §18, §21]. «Si este Cuerpo Místico es Pueblo de Dios [...] esto significa que todo hombre está penetrado por aquel soplo de vida que proviene de Cristo» [RH §18]. La Iglesia «no tiene otra vida fuera de aquella que le da su Esposo y Señor» [RH §18]. La Iglesia es «solícita por la vocación del hombre en Cristo» [RH §18], y es «responsable de la verdad» divina en virtud de la asistencia del Espíritu de verdad, que le ha concedido el don de la infalibilidad y el sentido de la fe a todo el Pueblo de Dios [RH §19]. La Iglesia vive de la Eucaristía, que la construye «como auténtica comunidad del Pueblo de Dios» [RH §20].
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[iglesia_cuerpo_místico]]

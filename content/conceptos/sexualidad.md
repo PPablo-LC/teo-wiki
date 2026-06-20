@@ -35,6 +35,12 @@ El significado esponsalicio del cuerpo revela un valor y una belleza que sobrepa
 
 La concupiscencia reduce a la mujer «al único valor del sexo»: «La feminidad deja de ser así para la masculinidad sobre todo sujeto; deja de ser un lenguaje específico del espíritu; pierde el carácter de signo» (TdC 17.09.1980).
 
+En la continuación de sus catequesis, Juan Pablo II integra la sexualidad en el marco del «lenguaje del cuerpo» y del amor esponsalicio. La sexualidad humana no se reduce a la reactividad biológica: el cuerpo humano, en su masculinidad y feminidad, es «el medio de expresión del hombre integral, de la persona» (TdC 22.08.1984).
+
+La distinción entre «excitación» (reacción corpórea, sexual) y «emoción» (referida a la persona en su totalidad) es clave para comprender el lenguaje del cuerpo. La excitación tiende al acto conyugal; la emoción, suscitada por la persona, tiende a otras manifestaciones de afecto sin implicar necesariamente el significado procreador (TdC 31.10.1984).
+
+La masculinidad y feminidad están interiormente ordenadas a la comunión de personas (communio personarum): este es su «significado nupcial» (TdC 07.11.1984). La castidad conyugal, como «vida según el Espíritu» (Gál 5,25), permite el desarrollo de las manifestaciones afectivas en su justa proporción y significado, vinculada al don del respeto (donum pietatis) (TdC 14.11.1984).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[amor_conyugal]], [[matrimonio]], [[castidad]], [[educación_sexual]], [[significado_esponsal_del_cuerpo]], [[anticoncepción]], [[paternidad_responsable]]
@@ -48,6 +54,10 @@ Se relaciona con [[amor_conyugal]], [[matrimonio]], [[castidad]], [[educación_s
 - [FC §11]
 - [FC §32]
 - [FC §37]
+- [TdC 22.08.1984]
+- [TdC 31.10.1984]
+- [TdC 07.11.1984]
+- [TdC 14.11.1984]
 - [TdC 07.11.1979]
 - [TdC 14.11.1979]
 - [TdC 16.01.1980]

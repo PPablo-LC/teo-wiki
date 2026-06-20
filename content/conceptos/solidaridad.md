@@ -63,6 +63,16 @@ Juan Pablo II convoca a los jóvenes a construir una «nueva civilización, que 
 
 León XIV profundiza el principio de solidaridad en los §§73-76 de *Magnífica Humanitas*, retomando la enseñanza de sus predecesores y aplicándola a la era digital. Define la solidaridad como «el reconocimiento concreto de que el destino de cada uno está ligado al destino de todos» (§73). Distingue entre la solidaridad como principio —«expresa el orden objetivo de las relaciones entre personas, grupos y pueblos»— y como virtud —«determinación firme y perseverante de trabajar por el bien común» (§75). Subraya el vínculo estrecho entre subsidiariedad y solidaridad: «Cuando la subsidiariedad no está acompañada de la solidaridad, termina por transformarse en la simple protección de intereses particulares; cuando la solidaridad no está sostenida por la subsidiariedad, degenera en asistencialismo que no promueve la responsabilidad» (§73). Extiende la solidaridad al ámbito digital: «como el ambiente natural, también el "ecosistema digital" puede ser cuidado o explotado, compartido o monopolizado» (§76). La solidaridad intergeneracional se aplica también a las infraestructuras digitales e informativas. Afirma con el Papa Francisco que la solidaridad es «un modo de hacer historia» que construye pueblos y no simples masas de individuos (§75).
 
+### Según la *Redemptor Hominis* (RH)
+
+Juan Pablo II presenta la solidaridad como el principio que debe inspirar la superación de las amenazas del progreso deshumanizador. El progreso técnico, no acompañado del desarrollo moral, «no puede menos de engendrar múltiples inquietudes» [RH §15]. La situación del hombre en el mundo contemporáneo aparece «distante tanto de las exigencias objetivas del orden moral, como de las exigencias de la justicia o aún más del amor social» [RH §16].
+
+El principio de solidaridad, «en sentido amplio, debe inspirar la búsqueda eficaz de instituciones y de mecanismos adecuados» para que los pueblos en vías de desarrollo puedan «no sólo colmar sus exigencias esenciales, sino también avanzar gradual y eficazmente» [RH §16]. El desarrollo económico debe ser programado y realizado «en una perspectiva de desarrollo universal y solidario de los hombres y de los pueblos» [RH §16].
+
+Juan Pablo II llama a una «verdadera conversión de las mentalidades y de los corazones» [RH §16], pues «no se avanzará en este camino difícil de las indispensables transformaciones de las estructuras de la vida económica, si no se realiza una verdadera conversión» [RH §16]. La libertad se confunde con frecuencia «con el instinto del interés —individual o colectivo—, o incluso con el instinto de lucha y de dominio» [RH §16]. Para una auténtica solidaridad, estas fuerzas deben ser «asumidas, orientadas y dominadas por las fuerzas más profundas que se encuentran en el hombre y que deciden la verdadera cultura de los pueblos» [RH §16].
+
+En la base de esta tarea está el «sentido de la responsabilidad moral, que debe asumir el hombre» [RH §16]. El contraste entre ricos y pobres representa «como el gigantesco desarrollo de la parábola bíblica del rico epulón y del pobre Lázaro» [RH §16].
+
 ## Distinciones importantes
 
 - Solidaridad no es mera filantropía: tiene su fundamento en la común filiación divina y en el Cuerpo Místico.

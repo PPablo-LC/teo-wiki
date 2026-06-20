@@ -50,6 +50,24 @@ Sin embargo, la virginidad no es la más excelente de todas las virtudes: la car
 
 **Suplemento (Suppl., q.96 a.5):** La virginidad merece una aureola (premio accidental especial) en el cielo, por ser una victoria señalada sobre la concupiscencia de la carne. La aureola se debe no a la mera integridad física, sino al propósito virtuoso de observar perpetua virginidad por el Reino de los cielos, esté o no confirmado por voto (q.96 a.5). La Santísima Virgen María posee la aureola de virginidad en grado eminente, aunque no experimentó el conflicto interior de la concupiscencia (q.96 a.5 ad 2). La aureola de los vírgenes es la mayor de las tres aureolas (virginidad, martirio, doctrina), porque la victoria sobre la concupiscencia interna es perpetua y universal (q.96 a.12).
 
+### Según la Teología del Cuerpo (TdC)
+
+Juan Pablo II dedica la Parte IV de sus catequesis a la virginidad cristiana, partiendo de Mt 19,11-12: «Hay eunucos que a sí mismos se han hecho tales por amor al reino de los cielos».
+
+La virginidad por el reino no se contrapone al matrimonio ni se basa en un juicio negativo sobre él. Es una «orientación carismática hacia aquel estado escatológico, en que los hombres no tomarán mujer ni marido» (Mc 12,25), pero con diferencia esencial: el «no casarse» escatológico será un estado, mientras que la continencia terrena es una excepción carismática (TdC 10.03.1982).
+
+«No todos entienden esto, sino aquellos a quienes ha sido dado» (Mt 19,11): no es mandamiento sino consejo, don y gracia particular (TdC 10.03.1982).
+
+La virginidad por el reino confirma el significado esponsalicio del cuerpo: «ese 'para', presente 'desde el principio' en la base del matrimonio, puede estar también en base de la continencia 'por' el reino de los cielos», fundado en la misma disposición del sujeto personal que se realiza mediante el don sincero de sí (TdC 28.04.1982, cf. GS 24).
+
+La renuncia al matrimonio es «una particular forma de afirmación del valor del significado nupcial del cuerpo» y sirve para confirmarlo «en toda su verdad y belleza personal» (TdC 05.05.1982).
+
+La continencia por el reino tiene un significado particular de fecundidad espiritual y sobrenatural que proviene del Espíritu Santo. María y José son los primeros testigos de esta fecundidad diversa de la carnal (TdC 24.03.1982).
+
+La superioridad de la virginidad como vocación excepcional no significa infravaloración del matrimonio ni apoya posiciones maniqueas; está dictada exclusivamente «por el reino de los cielos». Pablo explicita: «bien» (matrimonio) vs. «mejor» (continencia) (1 Cor 7,38) (TdC 07.04.1982).
+
+«El célibe se cuida de las cosas del Señor, de cómo agradar al Señor» (1 Cor 7,32). «Agradar a Dios» es síntesis teológica de la santidad (TdC 05.05.1982).
+
 ## Distinciones importantes
 
 - Virginidad ≠ castidad: la castidad es virtud para todos; la virginidad es estado de vida
@@ -66,3 +84,8 @@ Sin embargo, la virginidad no es la más excelente de todas las virtudes: la car
 - CEC §2348-2350
 - CEC §1618-1620
 - [PS §05,30,3; §12,68,13; §13,97,6]
+- [TdC 10.03.1982]
+- [TdC 24.03.1982]
+- [TdC 07.04.1982]
+- [TdC 28.04.1982]
+- [TdC 05.05.1982]

@@ -1,7 +1,7 @@
 # Misericordia
 
 > Área: Dogmática
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -47,6 +47,14 @@ La relación entre justicia y misericordia es clave: la justicia se funda sobre 
 
 María es presentada como «Madre de la misericordia», quien «de manera singular y excepcional ha experimentado —como nadie— la misericordia» [DM §9]. La Iglesia debe profesar, proclamar y practicar la misericordia; los sacramentos de la [[eucaristía]] y la [[penitencia]] son las fuentes de las que saca la misericordia del Salvador [DM §13–14].
 
+### Según la *Redemptor Hominis* (RH)
+
+En la primera encíclica de su pontificado, Juan Pablo II presenta la misericordia como la revelación del amor divino en la Redención. La Cruz sobre el Calvario es una nueva manifestación de la eterna paternidad de Dios, que se acerca a la humanidad dándole el Espíritu de verdad [RH §9].
+
+El Dios de la creación se revela como Dios de la redención, fiel a su amor al hombre y al mundo. Su amor «no retrocede ante nada de lo que en él mismo exige la justicia» [RH §9]. Dios «trató como pecado» a Aquel que estaba sin pecado para revelar «el amor que es siempre más grande que todo lo creado, el amor que es Él mismo, porque "Dios es amor"». «Y sobre todo el amor es más grande que el pecado, que la debilidad, que la "vanidad de la creación", más fuerte que la muerte; es amor siempre dispuesto a aliviar y a perdonar, siempre dispuesto a ir al encuentro con el hijo pródigo, siempre a la búsqueda de la "manifestación de los hijos de Dios"» [RH §9].
+
+«Esta revelación del amor es definida también misericordia, y tal revelación del amor y de la misericordia tiene en la historia del hombre una forma y un nombre: se llama Jesucristo» [RH §9].
+
 ### Según Memoria e Identidad (MI)
 
 Juan Pablo II presenta la misericordia como la respuesta definitiva de Dios al *mysterium iniquitatis*. Las revelaciones de Santa Faustina Kowalska, «centradas en el misterio de la Divina Misericordia, se refieren al período precedente a la Segunda Guerra Mundial. Precisamente el tiempo en que surgieron y se desarrollaron esas ideologías del mal como el nazismo y el comunismo» [MI, cap. 2].
@@ -80,6 +88,8 @@ La misericordia se relaciona con la [[justicia_divina]], la [[penitencia]], el [
 - [CEC §1846-1848]
 - [CEC §210-211]
 - [TPCr, Parte II]
+
+- [RH §9]
 
 ## Ver también
 [[justicia_divina]], [[penitencia]], [[conversión]], [[caridad]], [[sacramento_de_la_reconciliación]], [[perdón]]

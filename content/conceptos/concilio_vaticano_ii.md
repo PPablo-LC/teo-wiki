@@ -47,6 +47,12 @@ La Carta Apostólica *Una fidelidad que genera futuro* (2025) se sitúa explíci
 
 [JPII, Redemptoris Mater §2-3, §25, §44]: La *Redemptoris Mater* es un documento postconciliar que se sitúa explícitamente en continuidad con el Concilio Vaticano II, particularmente con el capítulo VIII de *Lumen Gentium* dedicado a la Santísima Virgen. La encíclica retoma la enseñanza conciliar sobre la «peregrinación de la fe» de María (LG §58) y la desarrolla como hilo conductor [RM §2-3]. Recoge la definición de María como «Madre de la Iglesia», proclamada por Pablo VI en el Concilio [RM §47]. La encíclica prolonga y profundiza la eclesiología mariana del Concilio, presentando a María como tipo y modelo de la Iglesia peregrina [RM §25-26, §42-44].
 
+### Según la *Redemptor Hominis* (RH)
+
+La *Redemptor Hominis*, primera encíclica de Juan Pablo II, presenta el Concilio Vaticano II como la herencia fundamental de su pontificado. El Concilio es «el acontecimiento eclesial más significativo del siglo XX» y constituye el impulso para la autoconciencia de la Iglesia [RH §3-5]. Juan Pablo II afirma que la obra del Concilio «ha llevado a cabo un trabajo inmenso para formar la conciencia plena y universal de la Iglesia» [RH §11].
+
+La aplicación de GS 22 sobre el hombre en Cristo es central en la encíclica: «En realidad el misterio del hombre sólo se esclarece en el misterio del Verbo encarnado», y Cristo «manifiesta plenamente al propio hombre y le descubre la sublimidad de su vocación» [RH §8, citando GS 22]. La encíclica retoma la Declaración *Dignitatis Humanae* sobre la libertad religiosa como expresión de la profunda estima de Cristo por el hombre, su entendimiento, su conciencia y su libertad [RH §12, §17]. Recoge la Declaración *Nostra Aetate* sobre las religiones no cristianas, reconociendo en ellas «otros tantos reflejos de una única verdad "como gérmenes del Verbo"» [RH §11]. Sobre *Dei Verbum*, la Iglesia es «sujeto social de la responsabilidad de la verdad divina», con la asistencia del Espíritu de verdad [RH §19]. La Constitución *Lumen Gentium* es la base para la eclesiología de la encíclica, particularmente en lo relativo a la Iglesia como Pueblo de Dios, Cuerpo Místico de Cristo [RH §21], y a la presencia maternal de María en la Iglesia, cuyo capítulo VIII sobre la Virgen María recibe un desarrollo particular [RH §22].
+
 ## Distinciones importantes
 
 - Concilio dogmático-pastoral, no dogmático en sentido estricto como Trento o Vaticano I

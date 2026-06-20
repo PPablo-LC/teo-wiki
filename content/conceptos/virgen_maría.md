@@ -98,6 +98,16 @@ Juan Pablo II profundiza en la figura de María como Madre de Dios y modelo de f
 
 La vida de María en Nazaret es presentada como lugar de fe, esperanza y caridad: «En María la conciencia de que cumplía una misión que Dios le había encomendado atribuía un significado más alto a su vida diaria. Los sencillos y humildes quehaceres de cada día asumían, a sus ojos, un valor singular, pues los vivía como servicio a la misión de Cristo» [MJV, catequesis 10]. María «conservaba todas estas cosas en su corazón» (Lc 2,19.51), penetrando progresivamente en el misterio de su Hijo.
 
+### Según la *Redemptor Hominis* (RH)
+
+Juan Pablo II concluye su primera encíclica dirigiéndose a María como «Madre de la Iglesia». Ella es «Madre de nuestra confianza» [RH §22]. María es Madre de la Iglesia «porque en virtud de la inefable elección del mismo Padre Eterno y bajo la acción particular del Espíritu de Amor, ella ha dado la vida humana al Hijo de Dios» [RH §22].
+
+Cristo quiso «extender la maternidad de su Madre —y extenderla de manera fácilmente accesible a todas las almas y corazones— confiando a ella desde lo alto de la Cruz a su discípulo predilecto como hijo» [RH §22]. María permaneció en el Cenáculo «recogida en oración y en espera junto con los Apóstoles hasta el día de Pentecostés, en que debía casi visiblemente nacer la Iglesia» [RH §22].
+
+El misterio de la Redención «se ha formado, podemos decirlo, bajo el corazón de la Virgen de Nazaret, cuando pronunció su "fiat"» [RH §22]. Desde aquel momento, su corazón virginal y materno «sigue siempre la obra de su Hijo y va hacia todos aquellos que Cristo ha abrazado y abraza continuamente en su amor inextinguible» [RH §22].
+
+Juan Pablo II afirma que «ningún otro sabrá introducirnos como María en la dimensión divina y humana de este misterio. Nadie como María ha sido introducido en él por Dios mismo» [RH §22]. El amor eterno del Padre, manifestado mediante el Hijo, «se acerca a cada uno de nosotros por medio de esta Madre y adquiere de tal modo signos más comprensibles y accesibles a cada hombre» [RH §22]. María debe encontrarse «en todas las vías de la vida cotidiana de la Iglesia» [RH §22].
+
 ## Distinciones importantes
 
 - **Maternidad divina**: María es Madre de Dios (Theotókos), verdadera Madre de Jesús, que es verdadero Dios y verdadero hombre.

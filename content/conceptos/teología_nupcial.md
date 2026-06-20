@@ -25,6 +25,14 @@ Juan Pablo II desarrolla el "significado esponsalicio del cuerpo" (significato s
 - "La concupiscencia lleva consigo la pérdida de esa libertad interior del don" que funda el significado nupcial (TdC 23.07.1980)
 - "El significado nupcial del cuerpo no se ha hecho totalmente extraño a ese corazón: no ha sido totalmente sofocado por parte de la concupiscencia, sino sólo habitualmente amenazado" (TdC 23.07.1980)
 
+En la Parte V de sus catequesis, Juan Pablo II desarrolla la teología nupcial a partir de Ef 5,22-33, el «coronamiento» de las palabras-clave de Cristo: el «principio» (Mt 19,4), el «corazón» (Mt 5,28) y la resurrección (Mt 22,30) (TdC 28.07.1982).
+
+La gran analogía nupcial tiene raíz veterotestamentaria: los Profetas (Oseas, Ezequiel, Isaías) presentan la Alianza de Dios con Israel como matrimonio. Yahvé es «Señor de Israel, pero se convirtió también en su Esposo»; el dominio divino adquiere «la dimensión nupcial», de modo que «lo absoluto del dominio resulta lo absoluto del amor». La ruptura de la Alianza no es solo infracción legal sino «infidelidad y traición» que «traspasa el corazón de Padre, de Esposo y de Señor» (TdC 29.09.1982).
+
+La analogía tiene dos funciones: «hacia arriba» ayuda a comprender el misterio del amor de Dios al hombre como don total e irrevocable; «hacia abajo» define el modo de comprender el matrimonio mismo, determinando su sacramentalidad. El matrimonio como «sacramento primordial» (Gén 2,24) se une con la elección eterna en Cristo (Ef 1,4): el signo visible transpone el plano eterno de amor a la dimensión histórica (TdC 29.09.1982; TdC 06.10.1982).
+
+La imagen paulina del «gran misterio» (Ef 5,32) habla también indirectamente de la «continencia por el reino de los cielos», donde las dimensiones nupcial y redentora del amor se unen de modo diverso que en el matrimonio (TdC 01.09.1982). «El significado nupcial del cuerpo en su masculinidad y feminidad... se une en la imagen de la Carta a los Efesios con el significado redentor, y de este modo queda confirmado y en cierto sentido 'nuevamente creado'» (TdC 01.09.1982).
+
 ## Distinciones importantes
 
 - Teología nupcial vs. teología del cuerpo: la teología nupcial es una dimensión de la teología del cuerpo centrada en el significado esponsalicio
@@ -42,5 +50,10 @@ Se relaciona con [[teología_del_cuerpo]], [[significado_esponsal_del_cuerpo]], 
 
 ## Referencias
 
+- [TdC 28.07.1982]
+- [TdC 11.08.1982]
+- [TdC 01.09.1982]
+- [TdC 29.09.1982]
+- [TdC 06.10.1982]
 - TdC 16.01.1980
 - TdC 23.07.1980

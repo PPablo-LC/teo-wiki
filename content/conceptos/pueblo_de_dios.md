@@ -56,6 +56,18 @@ Juan Pablo II presenta al Pueblo de Dios como el «nuevo Israel» que integra a 
 - CEC §804, 823, 831, 836
 - CIC cc. 204-208
 
+### Según la *Redemptor Hominis* (RH)
+
+Juan Pablo II comienza su encíclica situando al Pueblo de Dios en el horizonte del Jubileo: la Iglesia, el Pueblo de Dios «que se ha extendido —aunque de manera desigual— hasta los más lejanos confines de la tierra», se acerca al año 2000 como «año de un gran Jubileo» [RH §1]. El Espíritu ha dicho a la Iglesia mediante el Concilio Vaticano II lo que sirve para «una mayor cohesión de todo el Pueblo de Dios, consciente de su misión salvífica» [RH §3].
+
+La colegialidad episcopal y la corresponsabilidad de los laicos manifiestan la unidad del Pueblo de Dios en su apostolado. Los laicos «conscientes de su responsabilidad en la Iglesia, se han empeñado de buen grado en la colaboración con los Pastores» [RH §5].
+
+Si el Cuerpo Místico es Pueblo de Dios, «esto significa que todo hombre está penetrado por aquel soplo de vida que proviene de Cristo» [RH §18]. La Iglesia peregrina vive su vida impulsada por el Espíritu, y «no tiene otra vida fuera de aquella que le da su Esposo y Señor» [RH §18].
+
+Todo el Pueblo de Dios participa en la misión profética de Cristo. Cristo ha dotado a la Iglesia de la asistencia del Espíritu de verdad, ha dado el don de la infalibilidad a los Apóstoles y «dotó, además, a todo el Pueblo de Dios de un especial sentido de la fe» [RH §19]. La participación en la misión profética de Cristo «forja la vida de toda la Iglesia, en su dimensión fundamental» [RH §19].
+
+La Iglesia como Pueblo de Dios es también «Cuerpo Místico de Cristo» [RH §21]. La pertenencia a Él «proviene de una llamada particular, unida a la acción salvífica de la gracia». Es la comunidad de los discípulos, a cada uno de los cuales Cristo dice: «Sígueme» [RH §21]. El principio del «servicio real», según el ejemplo de Cristo que «no ha venido para ser servido, sino para servir», exige la fidelidad a la vocación recibida y lleva consigo «aquella solidaria responsabilidad por la Iglesia en la que el Concilio Vaticano II quiere educar a todos los cristianos» [RH §21].
+
 ## Distinciones importantes
 
 - No es un pueblo étnico ni político sino religioso y sobrenatural

@@ -31,6 +31,10 @@ La pureza de corazón «es, en todo caso, reminiscencia de la soledad originaria
 
 Conclusión: «La pureza es exigencia del amor. Es la dimensión de su verdad interior en el 'corazón' del hombre» (TdC 03.12.1980).
 
+La pureza, según 1 Tes 4,3-5, es una virtud que consiste no solo en la abstención de la impureza sino también en el mantenimiento del cuerpo «en santidad y respeto». El «respeto» hacia lo corpóreo y sexual es fuerza espiritual esencial para la pureza (TdC 28.01.1981).
+
+La pureza tiene una función positiva: aliada con el don de la piedad (donum pietatis), sensibiliza al sujeto a la dignidad del cuerpo y realiza en él una plenitud de dignidad en las relaciones interpersonales, de modo que «Dios mismo es glorificado en él» (1 Cor 6,20) (TdC 18.03.1981).
+
 ## Distinciones importantes
 
 - Pureza de corazón no es solo pureza sexual, aunque la incluye

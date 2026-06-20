@@ -62,6 +62,18 @@ Loring distingue entre amor y lujuria: «En el amor valoro a la persona por sus 
 - El pudor propiamente dicho (*verecundia*) es el temor a la deshonra. La *pudicitia* (pudor en sentido de decencia sexual) es la castidad misma en cuanto se aplica al acto venéreo con el debido orden.
 - Por eso se dice que el pudor es como el "timbre" de la castidad: la castidad da el orden interior, y el pudor lo manifiesta exteriormente.
 
+### Según la Teología del Cuerpo (TdC)
+
+Juan Pablo II inserta la castidad en el marco del ethos de la redención del cuerpo. El «ethos de la redención contiene en todo ámbito —y directamente en la esfera de la concupiscencia de la carne— el imperativo del dominio de sí, la necesidad de una inmediata continencia y de una templanza habitual» (TdC 03.12.1980).
+
+El «dominio de sí» (enkráteia), que en la tradición paulina corresponde a la castidad o templanza en la esfera sexual, es fruto del Espíritu Santo (Gál 5,22-23) (TdC 14.01.1981).
+
+La pureza, como virtud cristiana, es un camino eficaz para apartarse de la concupiscencia de la carne. «Vuestro cuerpo es templo del Espíritu Santo» (1 Cor 6,19): el pecado contra el cuerpo es «profanación del templo» (TdC 11.02.1981).
+
+La castidad no es mera abstención sino que tiene una función positiva: aliada con el don de la piedad, sensibiliza al sujeto a la dignidad del cuerpo. «Glorificad, pues, a Dios en vuestro cuerpo» (1 Cor 6,20) (TdC 18.03.1981).
+
+Cristo llama a esta pureza de corazón que es «exigencia del amor» y «la dimensión de su verdad interior en el corazón del hombre» (TdC 03.12.1980).
+
 ## Distinciones importantes
 
 - **Castidad virginal**: abstención perpetua de toda delectación venérea por motivos sobrenaturales
@@ -90,3 +102,7 @@ La [[templanza]] es la virtud cardinal de la que la castidad es parte subjetiva.
 - [TPCr, Parte III, Libro II, Cap. II, n.457]
 - [Santo Tomás, II-II, q.151-154]
 - [PS §12,68,13-14]
+- [TdC 03.12.1980]
+- [TdC 14.01.1981]
+- [TdC 11.02.1981]
+- [TdC 18.03.1981]
