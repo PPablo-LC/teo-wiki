@@ -21,6 +21,10 @@ Cristo es Señor: posee todo poder en los cielos y en la tierra. Está por encim
 
 Cristo es Rey y Señor del universo, y se hizo el servidor de todos. El pueblo de Dios realiza su dignidad regia viviendo conforme a la vocación de servir con Cristo (TPCr, referencias a la realeza de Cristo en la doctrina de los estados de perfección).
 
+### Según la *Redemptor Hominis* (RH)
+
+La *Redemptor Hominis* dedica una atención central al *munus regale* de Cristo. En el §16, Juan Pablo II afirma que el Concilio Vaticano II ha enseñado sobre «la "realeza" del hombre, es decir, sobre su vocación a participar en el ministerio regio — *munus regale* — de Cristo mismo». El sentido esencial de esta realeza y dominio del hombre sobre el mundo visible, asignado por el Creador, «consiste en la prioridad de la ética sobre la técnica, en el primado de la persona sobre las cosas, en la superioridad del espíritu sobre la materia» (RH §16). En el §21, desarrolla más ampliamente esta participación en la misión real de Cristo: «emerge un elemento: la participación en la misión real de Cristo, o sea el hecho de re-descubrir en sí y en los demás la particular dignidad de nuestra vocación, que puede definirse como "realeza"». Esta dignidad «se expresa en la disponibilidad a servir, según el ejemplo de Cristo, que "no ha venido para ser servido, sino para servir"» (RH §21). La paradoja cristiana se formula así: «a la luz de esta actitud de Cristo se puede verdaderamente "reinar" sólo "sirviendo", a la vez el "servir" exige tal madurez espiritual que es necesario definirla como el "reinar"» (RH §21). La participación en el *munus regale* de Cristo está íntimamente unida a todo el campo de la moral cristiana y humana (RH §21).
+
 ## Distinciones importantes
 
 - La realeza de Cristo no es política sino espiritual y universal

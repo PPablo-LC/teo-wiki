@@ -51,6 +51,12 @@ La Guía de Liturgia de la Legión de Cristo regula extensamente el culto eucar�
 
 León XIV dedicó una atención particular a la adoración eucarística durante el viaje apostólico a España. En la solemnidad del Corpus Christi (4 de junio), enseñó: «Adorar no es pasar tiempo delante del Santísimo; es dejarse transformar por la presencia de Aquel que es Amor» [L_XIV-ViajeEspaña-2026, Corpus Christi 04 — homilía]. Presentó la custodia como «faro que ilumina la ciudad» [L_XIV-ViajeEspaña-2026, Corpus Christi 04 — homilía]. Exhortó a que las parroquias sean «escuelas de adoración» que formen creyentes capaces de contemplación [L_XIV-ViajeEspaña-2026, Corpus Christi 04 — homilía].
 
+### Según la *Redemptor Hominis* (RH)
+
+La *Redemptor Hominis* establece el fundamento del culto eucarístico fuera de la Misa al afirmar que la Eucaristía es Sacramento-Presencia [RH §20]. De esta triple dimensión (sacrificio, comunión, presencia) deriva «el deber de una rigurosa observancia de las normas litúrgicas y de todo lo que atestigua el culto comunitario tributado a Dios mismo» [RH §20]. La adoración eucarística prolonga la comunión y expresa la gratitud por el don de Cristo, que «se entrega a nosotros con confianza ilimitada» sin tomar en consideración la indignidad humana [RH §20].
+
+El Papa advierte que la Eucaristía «no puede ser tratada sólo como una 'ocasión' para manifestar esta fraternidad», reafirmando la dimensión vertical del culto eucarístico más allá de su aspecto comunitario [RH §20].
+
 ## Distinciones importantes
 
 - **Adoración eucarística vs. comunión**: una es culto de presencia, la otra es recepción sacramental

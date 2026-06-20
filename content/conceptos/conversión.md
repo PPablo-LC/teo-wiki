@@ -59,6 +59,18 @@ León XIV enmarca su encuentro con el clero romano al inicio de la Cuaresma, «t
 
 León XIV, en la Vigilia de Barcelona, invitó a los jóvenes a la confesión sacramental con un tono penitencial y luminoso: «Dios nunca se cansa de perdonar; somos nosotros los que nos cansamos de pedir perdón» [L_XIV-ViajeEspaña-2026, 11 — Vigilia de Barcelona]. Presentó la conversión como un proceso permanente: «La conversión no es un momento, sino un camino» [L_XIV-ViajeEspaña-2026, 11 — Vigilia de Barcelona]. La dimensión penitencial del viaje se manifestó también en la visita a la prisión de Brians 1.
 
+### Según la *Redemptor Hominis* (RH)
+
+Juan Pablo II vincula la conversión (*metanoia*) con la Eucaristía y la Penitencia. La primera palabra del Evangelio era «arrepentíos y creed en el Evangelio» (*metanoeîte*) [RH §20]. La Eucaristía y la Penitencia toman «una dimensión doble, y al mismo tiempo íntimamente relacionada, de la auténtica vida según el espíritu del Evangelio» [RH §20].
+
+Cristo, que invita al banquete eucarístico, «es siempre el mismo Cristo que exhorta a la penitencia, que repite el "arrepentíos"» [RH §20]. Sin este constante y renovado esfuerzo por la conversión, la participación en la Eucaristía «estaría privada de su plena eficacia redentora» [RH §20].
+
+La conversión es «un acto interior de una especial profundidad, en el que el hombre no puede ser sustituido por los otros, no puede hacerse "reemplazar" por la comunidad» [RH §20]. Aunque la comunidad fraterna ayude al acto de conversión personal, «en definitiva, es necesario que en este acto se pronuncie el individuo mismo, con toda la profundidad de su conciencia, con todo el sentido de su culpabilidad y de su confianza en Dios» [RH §20].
+
+Juan Pablo II defiende la práctica de la confesión individual como expresión de la conversión personal: la Iglesia, «observando fielmente la praxis plurisecular del Sacramento de la Penitencia —la práctica de la confesión individual, unida al acto personal de dolor y al propósito de la enmienda y satisfacción— defiende el derecho particular del alma» [RH §20]. Es «el derecho a un encuentro del hombre más personal con Cristo crucificado que perdona», que es al mismo tiempo «el derecho de Cristo mismo hacia cada hombre redimido por Él» [RH §20].
+
+La Iglesia del nuevo Adviento «debe ser la Iglesia de la Eucaristía y de la Penitencia» [RH §20].
+
 ## Analizado para
 
 - [[auténtica_día_2_lidera_tu_vida_con_dios]] — convergencia en el proceso de sanación interior (herida → mentira → renuncia → verdad) como aplicación concreta de la conversión continua; aporta sistematización práctica no desarrollada en la base doctrinal

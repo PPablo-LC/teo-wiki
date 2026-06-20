@@ -25,6 +25,10 @@ El Catecismo ensena que Cristo asocia a los suyos a su servicio. Los laicos part
 - Christian Bobak (men_of_integrity.md) conecta el servicio con la integridad y el proposito eterno.
 - Brian Cochran (my_personal_emmaus.md) explora el servicio como camino de encuentro personal con Cristo.
 
+### Según la *Redemptor Hominis* (RH)
+
+La *Redemptor Hominis* eleva el servicio cristiano a la categoría de participación en el *munus regale* de Cristo (RH §21). Juan Pablo II enseña que «a la luz de esta actitud de Cristo se puede verdaderamente "reinar" sólo "sirviendo", a la vez el "servir" exige tal madurez espiritual que es necesario definirla como el "reinar"» (RH §21). La participación en la misión real de Cristo —su «función real» (*munus*)— está «íntimamente unida a todo el campo de la moral cristiana y a la vez humana» (RH §21). Cristo nos enseña que «el mejor uso de la libertad es la caridad que se realiza en la donación y en el servicio», y que para tal «libertad nos ha liberado Cristo» (RH §21, citando Gál 5,1). La Iglesia «sirve de veras a la humanidad, cuando tutela esta verdad con atención incansable, con amor ferviente, con empeño maduro y cuando en toda la propia comunidad, mediante la fidelidad de cada uno de los cristianos a la vocación, la transmite y la hace concreta en la vida humana» (RH §21). La fidelidad a la vocación personal es presentada como «perseverante disponibilidad al "servicio real"», que tiene un significado particular en las tareas que mayor influencia tienen en la vida del prójimo y de la sociedad (RH §21).
+
 ## Distinciones importantes
 
 - Servicio como carisma vs servicio como deber de estado

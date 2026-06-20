@@ -45,6 +45,12 @@ El Compendio propone un [[humanismo_integral]] y solidario fundado sobre la [[di
 
 León XIV dedica los §§77-81 de *Magnífica Humanitas* a la justicia social, con particular atención a su aplicación en la era digital. Afirma que «para la comunidad cristiana, la justicia social es una forma concreta de seguimiento de Jesús y de fidelidad a su Evangelio» (§77). Retoma la opción preferencial por los pobres y la cultura del descarte denunciada por Francisco (§78). Reconoce que las injusticias «no nacen sólo de decisiones equivocadas de los individuos, sino también de estructuras, mecanismos, sistemas económicos y culturales que producen desigualdad casi automáticamente» (§79). La novedad de su contribución consiste en aplicar la justicia social al entorno digital: «La difusión de redes globales, plataformas y sistemas de IA cambia el modo de informarse, de comunicar y de acceder a los servicios» (§80). Exige que «se impida el surgimiento de nuevas formas de exclusión y privación de la libertad: personas y pueblos a los que se les niega o dificulta el acceso a las tecnologías básicas, comunidades expuestas a vigilancia invasiva y grupos sociales perjudicados por algoritmos opacos» (§80). También aborda la justicia social en relación con los migrantes, refugiados y desplazados (§81).
 
+### Según la *Redemptor Hominis* (RH)
+
+La *Redemptor Hominis* denuncia una situación del hombre «distante tanto de las exigencias objetivas del orden moral, como de las exigencias de la justicia o aún más del amor social» [RH §16]. El principio de solidaridad en sentido amplio debe inspirar la búsqueda de instituciones y mecanismos adecuados para una repartición más amplia de las riquezas [RH §16].
+
+La encíclica enseña que el principio de los derechos del hombre «toca profundamente el sector de la justicia social y se convierte en medida para su verificación fundamental en la vida de los Organismos políticos» [RH §17]. Reafirma la prioridad del espíritu sobre la materia, el primado de la persona sobre las cosas, y la superioridad del ser sobre el tener como criterios esenciales del orden social [RH §16]. El desarrollo económico debe programarse «en una perspectiva de desarrollo universal y solidario de los hombres y de los pueblos» [RH §16, citando *Populorum progressio*].
+
 ## Distinciones importantes
 
 - **Justicia social vs. justicia conmutativa**: la conmutativa regula intercambios entre iguales; la social mira al bien común

@@ -43,6 +43,10 @@ El Capítulo II del Título I del Libro III (cc. 773-780) regula la formación c
 *Sacrosanctum Concilium* 35 ordena que se inculque por todos los medios la catequesis más directamente litúrgica, de modo que los fieles comprendan la íntima conexión entre la palabra y el rito. Se prevén breves moniciones dentro de los ritos mismos (SC 35 §3). SC 56 exhorta a los pastores a instruir cuidadosamente a los fieles acerca de la participación en toda la Misa. SC 64-71 vincula la catequesis con el catecumenado y la iniciación cristiana.
 
 
+### Según la *Redemptor Hominis* (RH)
+
+La *Redemptor Hominis* sitúa la catequesis en el marco de la participación de toda la Iglesia en la misión profética de Cristo (RH §19). Juan Pablo II recuerda que el Sínodo de los Obispos de 1977 dedicó una atención especial a la catequesis en el mundo contemporáneo, cuyos frutos habrían de concretarse en un documento pontificio (RH §19). La catequesis constituye «una forma perenne y al mismo tiempo fundamental de la actividad de la Iglesia, en la que se manifiesta su carisma profético: testimonio y enseñanza van unidos» (RH §19). El Papa subraya la contribución de sacerdotes, religiosos, religiosas y laicos en la actividad catequística, y señala la catequesis familiar —«la catequesis de los padres a sus propios hijos»— como la forma fundamental de catequesis, que atestigua la participación universal de todo el Pueblo de Dios en el oficio profético de Cristo (RH §19). Los especialistas en las distintas ciencias, letras, medicina, derecho, arte y técnica participan también de esta misión mediante una actitud honesta respecto a la verdad en sus respectivos campos, educando a los otros en la verdad y madurando en el amor y la justicia (RH §19).
+
 ## Analizado para
 
 - [[stewart_teaching_kids_gospels]] — convergencia en la catequesis familiar; aporta metodología práctica de lectura diaria de los Evangelios en familia

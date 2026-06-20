@@ -166,6 +166,14 @@ Sobre la contrición:
 
 Juan Pablo II describe el confesionario como lugar esencial del ministerio sacerdotal. El sacerdote realiza «una parte esencial de su misión en el confesionario, por medio de aquel voluntario "hacerse prisionero del confesionario"», siguiendo el ejemplo de San Juan María Vianney [DyM, V]. El Papa se presenta como «ministro de la misericordia», llamado a administrar el sacramento de la [[penitencia]] con disponibilidad total [DyM, IX].
 
+### Según la *Redemptor Hominis* (RH)
+
+La *Redemptor Hominis* establece una «estrecha unión entre la Eucaristía y la Penitencia» [RH §20]. Cristo que invita al banquete eucarístico es el mismo que exhorta a la penitencia, repitiendo el «arrepentíos» (*metanoeîte*). Sin este constante esfuerzo por la conversión, la participación en la Eucaristía estaría privada de su plena eficacia redentora [RH §20].
+
+La encíclica defiende la praxis plurisecular de la confesión individual como «derecho particular del alma» a un encuentro personal con Cristo crucificado que perdona. Aunque la comunidad fraterna ayude al acto de conversión personal, «en definitiva, es necesario que en este acto se pronuncie el individuo mismo, con toda la profundidad de su conciencia» [RH §20].
+
+La Iglesia, custodiando el sacramento de la Penitencia, afirma su fe en el misterio de la Redención como realidad viva que corresponde a la verdad interior del hombre. La Iglesia del nuevo Adviento debe ser «la Iglesia de la Eucaristía y de la Penitencia» [RH §20].
+
 ## Distinciones importantes
 
 - **Contrición perfecta vs. atrición**: según el motivo del dolor del pecado

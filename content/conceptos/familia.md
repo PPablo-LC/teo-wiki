@@ -55,6 +55,12 @@ La familia tiene cuatro cometidos fundamentales: 1) formación de una comunidad 
 
 La Iglesia defiende los derechos de la familia contra las usurpaciones de la sociedad y del Estado (FC §46). El futuro de la humanidad se fragua en la familia (FC §86).
 
+### Según la *Redemptor Hominis* (RH)
+
+La *Redemptor Hominis* enseña que «en la fidelidad a la propia vocación deben distinguirse los esposos, como exige la naturaleza indisoluble de la institución sacramental del matrimonio» [RH §21]. Los esposos deben «con todas sus fuerzas tratar de perseverar en la unión matrimonial, construyendo con el testimonio del amor la comunidad familiar y educando nuevas generaciones de hombres, capaces de consagrar también ellos toda su vida a la propia vocación» [RH §21].
+
+La familia es presentada como el ámbito donde se realiza el «servicio real» (*munus regale* de Cristo) a través de la entrega esponsal. La comunidad familiar es escuela de esa humanidad madura que consiste en el «pleno uso del don de la libertad» para la donación de sí mismo [RH §21].
+
 ## Relaciones doctrinales
 
 Se relaciona con [[matrimonio]], [[iglesia_doméstica]], [[santuario_de_la_vida]], [[bien_común]], [[subsidiariedad]], [[educación_de_los_hijos]]

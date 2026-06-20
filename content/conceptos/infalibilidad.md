@@ -33,6 +33,10 @@ El Papa posee la infalibilidad no como persona privada, sino como Pastor y Docto
 [TPCr, Parte I, Eclesiología]
 
 
+### Según la *Redemptor Hominis* (RH)
+
+La *Redemptor Hominis* sitúa la infalibilidad en el contexto de la misión profética de Cristo y la responsabilidad de la Iglesia por la verdad divina (RH §19). Juan Pablo II recuerda que Cristo, «para garantizar la fidelidad a la verdad divina, prometió a la Iglesia la asistencia especial del Espíritu de verdad, dio el don de la infalibilidad a aquellos a quienes ha confiado el mandato de transmitir esta verdad y de enseñarla» (RH §19). Esta enseñanza se apoya en el Concilio Vaticano I —que definió la infalibilidad pontificia en la constitución *Pastor Aeternus*— y el Concilio Vaticano II, que la reiteró y desarrolló en el contexto de la colegialidad episcopal (RH §19, remitiendo a los concilios). Juan Pablo II vincula la infalibilidad a la asistencia especial del Espíritu de Verdad prometida por Cristo a la Iglesia, destacando que el don se concede a quienes han recibido el mandato de transmitir y enseñar la verdad revelada. Al mismo tiempo, subraya que la Iglesia, cuando profesa y enseña la fe, debe estar «íntimamente unida a la verdad divina» y traducirla en conductas de *«rationabile obsequium»*, obsequio conforme con la razón (RH §19).
+
 ## Distinciones importantes
 
 - **Infalibilidad papal vs. impecabilidad**: el Papa puede pecar personalmente; la infalibilidad solo garantiza la verdad de sus enseñanzas en ciertas condiciones

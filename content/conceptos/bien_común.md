@@ -41,6 +41,12 @@ León XIV dedica una reflexión sistemática al bien común en los §§59-64 de 
 
 León XIV presentó el bien común como principio rector de la acción política: «La política está al servicio del bien común, no de intereses particulares» [L_XIV-ViajeEspaña-2026, 06-Parlamento; 01-Autoridades]. Lo vinculó al destino universal de los bienes, a la solidaridad y a la opción preferencial por los pobres como criterios irrenunciables de la vida pública [L_XIV-ViajeEspaña-2026, 06-Parlamento].
 
+### Según la *Redemptor Hominis* (RH)
+
+La *Redemptor Hominis* enseña que el sentido esencial del Estado como comunidad política consiste en que «la sociedad y quien la compone, el pueblo, es soberano de la propia suerte» [RH §17]. El deber fundamental del poder es la solicitud por el [[bien_común]] de la sociedad, y de aquí derivan sus derechos fundamentales. El bien común se realiza plenamente «sólo cuando todos los ciudadanos están seguros de sus derechos», pues sin esto se llega a la destrucción de la sociedad, a la oposición de los ciudadanos a la autoridad, o a situaciones de opresión, intimidación y terrorismo [RH §17].
+
+La encíclica subraya que la prioridad de la persona sobre las cosas y la superioridad del espíritu sobre la materia constituyen el sentido esencial del dominio del hombre sobre el mundo [RH §16]. El desarrollo debe entenderse como «desarrollo de las personas y no solamente de la multiplicación de las cosas»; se trata de «ser más» y no solo de «tener más» [RH §16].
+
 
 ## Analizado para
 

@@ -43,6 +43,14 @@ Cristo inició «una cultura totalmente nueva. Cultura significa cultivo. Cristo
 
 «La nación es, en efecto, la gran comunidad de los hombres que están unidos por diversos vínculos pero, sobre todo, precisamente por la cultura. La nación existe "por" y "para" la cultura» [MI, cap. 15]. La soberanía de la nación se manifiesta en su cultura: «Existe una soberanía fundamental de la sociedad que se manifiesta en la cultura de la nación. Se trata de la soberanía por la que, al mismo tiempo, el hombre es supremamente soberano» [MI, cap. 15].
 
+### Según la *Redemptor Hominis* (RH)
+
+La *Redemptor Hominis* sitúa la cultura en el contexto del progreso humano, advirtiendo que el desarrollo de la técnica y la civilización «exigen un desarrollo proporcional de la moral y de la ética», el cual «parece, por desgracia, haberse quedado atrás» [RH §15]. La pregunta fundamental es si el progreso «hace la vida del hombre sobre la tierra, en todos sus aspectos, 'más humana'» y si el hombre «se hace de veras mejor, es decir, más maduro espiritualmente, más consciente de la dignidad de su humanidad» [RH §15].
+
+La encíclica reconoce el valor de las diversas culturas como espacios de diálogo: la Iglesia se acerca a todas las culturas «con aquella estima, respeto y discernimiento que, desde los tiempos de los Apóstoles, distinguía la actitud misionera» [RH §12]. Al mismo tiempo, denuncia que una civilización con perfil puramente materialista «condena al hombre a tal esclavitud» [RH §16]. La verdadera cultura de los pueblos nace de las fuerzas más profundas del hombre, no de los instintos de dominio o interés [RH §16].
+
+Juan Pablo II afirma que la fe en Cristo revela al hombre su dignidad y el «sentido de su existencia» [RH §11]. Las religiones testimonian «la búsqueda de Dios y al mismo tiempo la búsqueda [...] del pleno sentido de la vida humana» [RH §11].
+
 ## Relaciones doctrinales
 
 Se relaciona con [[educación]], [[educación_católica]], [[humanismo_integral]], [[autonomía_de_las_realidades_terrenas]], [[ciencia]], [[arte]]

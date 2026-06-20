@@ -41,6 +41,12 @@ Santo Tomás trata el misterio de la presencia real de Cristo en la eucaristía 
 
 **Presencia inseparable (Q76 a.6-8):** Donde está el Cuerpo de Cristo bajo las especies del pan, está también su Sangre por concomitancia; y donde está la Sangre bajo el vino, está también el Cuerpo. Sin embargo, por razón de la consagración, bajo el pan está el Cuerpo por conversión directa y la Sangre por concomitancia; bajo el vino está la Sangre por conversión directa y el Cuerpo por concomitancia.
 
+### Según la *Redemptor Hominis* (RH)
+
+La *Redemptor Hominis* enseña que la Eucaristía es «al mismo tiempo Sacramento-Sacrificio, Sacramento-Comunión, Sacramento-Presencia» [RH §20]. Afirma que no es lícito quitar a este Sacramento «su dimensión plena y su significado esencial». Subraya la presencia real de Cristo en la Eucaristía, que es «recibido» realmente, y de la cual «el alma es llenada de gracias y es dada la prenda de la futura gloria» [RH §20].
+
+Juan Pablo II, citando a Pablo VI, recuerda que la Eucaristía contiene al mismo Cristo realmente presente, razón por la cual exige un culto de latría y la observancia rigurosa de las normas litúrgicas [RH §20].
+
 ## Distinciones importantes
 
 - Presencia real no es solo presencia simbólica ni espiritual

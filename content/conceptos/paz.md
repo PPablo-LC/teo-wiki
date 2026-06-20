@@ -60,6 +60,12 @@ León XIV desarrolla una extensa reflexión sobre la paz en el capítulo quinto 
 
 León XIV realizó un fuerte llamamiento por la paz en su discurso ante las Cortes: «La guerra es siempre una derrota de la humanidad» [L_XIV-ViajeEspaña-2026, 06-Parlamento]. Rechazó el rearme y la «lógica belicista que asola el mundo», presentando la paz como responsabilidad colectiva [L_XIV-ViajeEspaña-2026, 06-Parlamento]. Ante las autoridades, propuso abandonar las «narrativas polarizantes» y apostar por el diálogo, la reconciliación y la cultura del encuentro como caminos para la paz [L_XIV-ViajeEspaña-2026, 01-Autoridades].
 
+### Según la *Redemptor Hominis* (RH)
+
+La *Redemptor Hominis* afirma que la paz se reduce al respeto de los derechos inviolables del hombre: «*opus iustitiae pax*» (la paz es obra de la justicia) [RH §17, citando Is 32,17]. La guerra nace de la violación de estos derechos y lleva consigo aún más graves violaciones de los mismos. La paz es el fruto de la justicia, y el respeto de los derechos humanos constituye «la base misma de la paz social e internacional» [RH §17].
+
+Juan Pablo II vincula la paz con la superación de los regímenes totalitarios que «habían coartado los derechos de los ciudadanos, negándoles el reconocimiento debido de los inviolables derechos del hombre» [RH §17]. La paz verdadera exige la continua revisión de los sistemas y programas desde el punto de vista del bien del hombre y del [[bien_común]] [RH §17].
+
 
 ## Distinciones importantes
 

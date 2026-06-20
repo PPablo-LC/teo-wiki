@@ -29,6 +29,10 @@ El apostolado es efecto formal de la perfección: «Es imposible amar a Dios con
 La vida mixta (contemplación y apostolado) es la más perfecta. Pero el apostolado debe proceder de la plenitud de la contemplación: contemplari et contemplata aliis tradere (n.669). Sin vida interior, el apostolado es estéril.
 
 
+### Según la *Redemptor Hominis* (RH)
+
+La *Redemptor Hominis* aborda el apostolado desde la corresponsabilidad de todos los bautizados en la misión de la Iglesia. En el §5, Juan Pablo II constata que el espíritu de colaboración y corresponsabilidad se ha difundido entre los laicos, «confirmando no sólo las organizaciones de apostolado seglar ya existentes, sino también creando otras nuevas con perfil muchas veces distinto y con un dinamismo excepcional». Los laicos, «conscientes de su responsabilidad en la Iglesia, se han empeñado de buen grado en la colaboración con los Pastores, con los representantes de los Institutos de vida consagrada en el ámbito de los Sínodos diocesanos o de los Consejos pastorales en las parroquias y en las diócesis» (RH §5). En el §21, sitúa el apostolado en el marco de la participación en la misión real de Cristo: la vocación cristiana, que puede definirse como «realeza», se expresa en la disponibilidad a servir. La pertenencia a la Iglesia proviene de una llamada particular («Sígueme») y constituye una «comunidad de discípulos» donde cada uno sigue a Cristo de forma diversa (RH §21). El principio del «servicio real» —fidelidad a la vocación recibida— es la regla-clave de toda la praxis cristiana, incluyendo la praxis apostólica y pastoral (RH §21).
+
 ## Distinciones importantes
 
 - Apostolado como estado (Pontífice, obispos), como vida (sacerdotes con misión), como práctica (todo fiel).

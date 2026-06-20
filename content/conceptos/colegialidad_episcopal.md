@@ -23,6 +23,10 @@ La unión colegial se manifiesta también en las mutuas relaciones de cada Obisp
 
 La Nota Explicativa Previa aclara que el término «Colegio» no se entiende en sentido estrictamente jurídico sino como asamblea estable cuya estructura debe deducirse de la Revelación. La consagración episcopal da una participación ontológica de los ministerios sagrados, pero se requiere la determinación canónica para la potestad expedita [ConcVatII, Nota Explicativa Previa, 2].
 
+### Según la *Redemptor Hominis* (RH)
+
+La *Redemptor Hominis* dedica el §5 al principio de colegialidad recordado por el Concilio Vaticano II. Juan Pablo II enseña que Cristo mismo injertó este principio «en el Colegio apostólico de los Doce con Pedro a la cabeza» y que «renueva continuamente en el Colegio de los Obispos, que crece cada vez más en toda la tierra, permaneciendo unido con el Sucesor de San Pedro y bajo su guía» (RH §5). El Concilio no solo recordó este principio, sino que «lo ha vivificado inmensamente, entre otras cosas propiciando la institución de un organismo permanente que Pablo VI estableció al crear el Sínodo de los Obispos» (RH §5). Juan Pablo II subraya que «el principio de colegialidad se ha demostrado particularmente actual en el difícil período posconciliar, cuando la postura común y unánime del Colegio de los Obispos —la cual, sobre todo a través del Sínodo, ha manifestado su unión con el Sucesor de Pedro— contribuía a disipar dudas e indicaba al mismo tiempo los caminos justos para la renovación de la Iglesia» (RH §5). La encíclica recuerda también «el proceso de consolidación de las Conferencias Episcopales Nacionales en toda la Iglesia y de otras estructuras colegiales de carácter internacional o continental», así como la actividad de los diversos Sínodos locales y otras formas como la provincia eclesiástica (RH §5). Fue idea del Concilio, ejecutada por Pablo VI, que estas estructuras «pulsasen con plena conciencia de la propia identidad y a la vez de la propia originalidad, en la unidad universal de la Iglesia» (RH §5).
+
 ## Distinciones importantes
 
 - Colegialidad episcopal (con el Papa como cabeza) ≠ simple colegialidad moral o fraterna
