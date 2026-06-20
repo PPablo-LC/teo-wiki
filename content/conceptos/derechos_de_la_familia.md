@@ -1,7 +1,7 @@
 # Derechos de la familia
 
 > Área: Doctrina social
-> Última actualización: 2026-06-19
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -25,6 +25,14 @@ Un derecho fundamental es el salario familiar, suficiente para mantener y vivir 
 
 La sociedad y el Estado deben honrar, reconocer, respetar y promover a la familia según el principio de subsidiaridad [CompDS §252]. El servicio de la sociedad a la familia se concreta en el reconocimiento, respeto y promoción de los derechos de la familia, que requiere políticas familiares auténticas y eficaces [CompDS §253]. La prioridad de la familia sobre cualquier otra comunidad y sobre el Estado debe ser reconocida por las instituciones civiles, superando concepciones individualistas [CompDS §254].
 
+### Según la Familiaris Consortio (FC)
+
+La familia posee vínculos vitales y orgánicos con la sociedad, porque constituye su fundamento y alimento continuo mediante su función de servicio a la vida (FC §42). La familia es «célula primera y vital de la sociedad» (FC §42).
+
+El Estado debe reconocer que la familia es una «sociedad que goza de un derecho propio y primordial» y, por tanto, en sus relaciones con la familia está gravemente obligado a atenerse al principio de subsidiaridad (FC §45). El Estado no puede sustraer a las familias aquellas funciones que pueden realizar bien por sí solas, sino favorecer positivamente la iniciativa responsable de las familias (FC §45).
+
+Los Padres Sinodales han recordado, entre otros, los siguientes derechos de la familia: a existir y progresar como familia; a ejercer su responsabilidad en la transmisión de la vida y a educar a los hijos; a la intimidad de la vida conyugal y familiar; a la estabilidad del vínculo matrimonial; a creer y profesar su propia fe; a educar a sus hijos según sus tradiciones religiosas y culturales; a una vivienda adecuada; a la seguridad física, social, política y económica; a la representación ante las autoridades públicas; a asociarse con otras familias; a un justo tiempo libre; al derecho de los ancianos a una vida y a una muerte dignas; a emigrar como familia (FC §46).
+
 ## Distinciones importantes
 
 - Los derechos de la familia son originarios y anteriores al Estado, no derivados de concesión estatal
@@ -38,8 +46,9 @@ Se relaciona con [[familia]], [[matrimonio]], [[subsidiaridad]], [[bien_común]]
 
 ## Ver también
 
-[[familia]], [[matrimonio]], [[subsidiaridad]], [[educación]]
+[[familia]], [[matrimonio]], [[subsidiaridad]], [[educación]], [[familiaris_consortio]]
 
 ## Referencias
 
 - CompDS §214, §228-254
+- [FC §42, §45-46]

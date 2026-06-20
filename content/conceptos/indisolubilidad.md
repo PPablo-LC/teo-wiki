@@ -1,7 +1,7 @@
 # Indisolubilidad
 
 > Área: Moral / Sacramental
-> Última actualización: 2026-06-15
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -43,16 +43,23 @@ Santo Tomás trata la indisolubilidad en el Suplemento (q.67), las causas de sep
 
 **Disolución por vínculo no consumado y privilegio paulino.** El matrimonio rato y consumado no puede ser disuelto por ningún poder humano. El matrimonio no consumado entre bautizados puede disolverse por la profesión religiosa de uno de los cónyuges, porque la unión espiritual de la vida religiosa es una especie de muerte espiritual (q.61 a.2). El matrimonio entre no bautizados (matrimonio natural, no ratificado) puede disolverse en favor de la fe por el privilegio paulino (q.59 a.5).
 
+### Según la Familiaris Consortio (FC)
+
+La comunión conyugal se caracteriza no solo por su unidad, sino también por su indisolubilidad: «Esta unión íntima, en cuanto donación mutua de dos personas, lo mismo que el bien de los hijos, exigen la plena fidelidad de los cónyuges y reclaman su indisoluble unidad» (FC §20). Es deber fundamental de la Iglesia reafirmar con fuerza la doctrina de la indisolubilidad del matrimonio (FC §20).
+
+Enraizada en la donación personal y total de los cónyuges y exigida por el bien de los hijos, la indisolubilidad del matrimonio halla su verdad última en el designio que Dios ha manifestado en su Revelación: Él quiere y da la indisolubilidad del matrimonio como fruto, signo y exigencia del amor absolutamente fiel que Dios tiene al hombre y que el Señor Jesús vive hacia su Iglesia (FC §20). Cristo ofrece un «corazón nuevo» para que los cónyuges puedan compartir el amor pleno y definitivo de Cristo, nueva y eterna Alianza hecha carne (FC §20). Dar testimonio del inestimable valor de la indisolubilidad y fidelidad matrimonial es uno de los deberes más preciosos y urgentes de las parejas cristianas de nuestro tiempo (FC §20).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[matrimonio]], [[fidelidad]], [[divorcio]], [[amor_conyugal]], [[sacramento_del_matrimonio]]
 
 ## Ver también
 
-[[matrimonio]], [[fidelidad]], [[divorcio]], [[amor_conyugal]], [[sacramento_del_matrimonio]]
+[[matrimonio]], [[fidelidad]], [[divorcio]], [[amor_conyugal]], [[sacramento_del_matrimonio]], [[familiaris_consortio]]
 
 ## Referencias
 
 - [CompDS §217-218]
 - [CompDS §225]
 - SmTh, Suppl., q. 67 (bill of divorce), q. 62 (separation for fornication), q. 61 (dissolution by religious profession)
+- [FC §20]

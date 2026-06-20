@@ -1,7 +1,7 @@
 # Paternidad responsable
 
 > Área: Moral / Doctrina Social
-> Última actualización: 2026-05-25
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -23,6 +23,12 @@ GS 50: «Con responsabilidad humana y cristiana cumplirán los cónyuges su misi
 
 GS 87: «La decisión sobre el número de hijos depende del recto juicio de los padres, y de ningún modo puede someterse al criterio de la autoridad pública.»
 
+### Según la Familiaris Consortio (FC)
+
+El cometido fundamental de la familia es el servicio a la vida, el realizar a lo largo de la historia la bendición original del Creador, transmitiendo en la generación la imagen divina de hombre a hombre (FC §28). La fecundidad es el fruto y el signo del amor conyugal, el testimonio vivo de la entrega plena y recíproca de los esposos (FC §28). La fecundidad del amor conyugal no se reduce a la sola procreación de los hijos, sino que se amplía y se enriquece con todos los frutos de vida moral, espiritual y sobrenatural que el padre y la madre están llamados a dar a los hijos (FC §28).
+
+La Iglesia ha recibido la misión especial de custodiar y proteger la altísima dignidad del matrimonio y la gravísima responsabilidad de la transmisión de la vida humana (FC §29). Reafirma la inseparable conexión entre el significado unitivo y el significado procreador del acto conyugal (FC §32). La elección de los ritmos naturales comporta la aceptación del tiempo de la persona, del diálogo, del respeto recíproco, de la responsabilidad común, del dominio de sí mismo (FC §32). La llamada «ley de gradualidad» no puede identificarse con la «gradualidad de la ley»: todos los esposos están llamados a la santidad en el matrimonio (FC §34).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[procreación]], [[familia]], [[matrimonio]], [[anticoncepción]], [[amor_conyugal]]
@@ -35,8 +41,9 @@ Se relaciona con [[procreación]], [[familia]], [[matrimonio]], [[anticoncepció
 - [[strive_detox_from_porn]]
 
 ## Ver también
-[[procreación]], [[familia]], [[matrimonio]], [[anticoncepción]], [[amor_conyugal]]
+[[procreación]], [[familia]], [[matrimonio]], [[anticoncepción]], [[amor_conyugal]], [[familiaris_consortio]]
 
 ## Referencias
 
 - [CompDS §232-234]
+- [FC §28-29, §32, §34]

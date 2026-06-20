@@ -1,7 +1,7 @@
 # Dignidad de la mujer
 
 > Área: Antropología teológica / Moral
-> Última actualización: 2026-06-03
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -39,6 +39,16 @@ Dios creó al hombre y a la mujer «con una perfecta igualdad en tanto que perso
 
 La estima de los talentos naturales y adquiridos sobre la piedad es una gran desgracia en la religión. La devoción es preferible a todas las virtudes morales, y la religión sigue inmediatamente en orden de dignidad a las virtudes teologales.
 
+### Según la Familiaris Consortio (FC)
+
+El Sínodo ha querido reservar una atención privilegiada a la mujer, a sus derechos y deberes en la familia y en la sociedad (FC §22). Hay que resaltar ante todo la igual dignidad y responsabilidad de la mujer respecto al hombre; tal igualdad encuentra una forma singular de realización en la donación de uno mismo al otro y de ambos a los hijos, donación propia del matrimonio y de la familia (FC §22).
+
+Creando al hombre «varón y mujer», Dios da la dignidad personal de igual modo al hombre y a la mujer, enriqueciéndolos con los derechos inalienables y con las responsabilidades que son propias de la persona humana (FC §22). Dios manifiesta de la forma más elevada posible la dignidad de la mujer asumiendo Él mismo la carne humana de María Virgen, que la Iglesia honra como Madre de Dios (FC §22).
+
+La verdadera promoción de la mujer exige que sea claramente reconocido el valor de su función materna y familiar respecto a las demás funciones públicas (FC §23). La sociedad debe estructurarse de manera tal que las esposas y madres no sean de hecho obligadas a trabajar fuera de casa (FC §23). Se debe superar la mentalidad según la cual el honor de la mujer deriva más del trabajo exterior que de la actividad familiar (FC §23).
+
+Desgraciadamente el mensaje cristiano sobre la dignidad de la mujer halla oposición en la persistente mentalidad que considera al ser humano no como persona, sino como cosa, al servicio del interés egoísta y del solo placer; la primera víctima de tal mentalidad es la mujer (FC §24).
+
 ### Según Jorge Loring (PS)
 
 El cristianismo contribuyó directamente a devolver a la mujer toda su dignidad y derechos de igualdad con el hombre. «La Iglesia ha defendido siempre la dignidad de la mujer siguiendo el ejemplo de Cristo». Varón y mujer tienen la misma dignidad como persona humana, pero son distintos corporal y psíquicamente para poder complementarse. La formación de la mujer de la costilla del varón expresa que su dignidad es igual a la de este.
@@ -61,7 +71,7 @@ Este concepto se vincula con [[matrimonio]], [[varón_y_mujer]], [[familia]], [[
 
 ## Ver también
 
-[[matrimonio]], [[varón_y_mujer]], [[familia]], [[dignidad_humana]], [[bienaventuranzas]], [[teología_del_cuerpo]]
+[[matrimonio]], [[varón_y_mujer]], [[familia]], [[dignidad_humana]], [[bienaventuranzas]], [[teología_del_cuerpo]], [[familiaris_consortio]]
 
 ## Referencias
 
@@ -71,3 +81,4 @@ Este concepto se vincula con [[matrimonio]], [[varón_y_mujer]], [[familia]], [[
 - [DSI §111, §144-146]
 - SmTh Iª q.92 aa.1-4; q.102 a.3
 - [Juan Pablo II, Mulieris dignitatem]
+- [FC §22-24]

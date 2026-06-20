@@ -1,7 +1,7 @@
 # Procreación
 
 > Área: Moral / Doctrina Social
-> Última actualización: 2026-05-25
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -23,15 +23,24 @@ GS 50: «El matrimonio y el amor conyugal están ordenados por su propia natural
 
 GS 51: «La vida desde su concepción ha de ser salvaguardada con el máximo cuidado; el aborto y el infanticidio son crímenes abominables.»
 
+### Según la Familiaris Consortio (FC)
+
+Según el designio de Dios, el matrimonio es el fundamento de la comunidad más amplia de la familia, ya que la institución misma del matrimonio y el amor conyugal están ordenados a la procreación y educación de la prole, en la que encuentran su coronación (FC §14). El amor conyugal, a la vez que conduce a los esposos al recíproco «conocimiento» que les hace «una sola carne», no se agota dentro de la pareja, ya que los hace capaces de la máxima donación posible, por la cual se convierten en cooperadores de Dios en el don de la vida a una nueva persona humana (FC §14).
+
+Sin embargo, incluso cuando la procreación no es posible, no por esto pierde su valor la vida conyugal. La esterilidad física puede dar ocasión a los esposos para otros servicios importantes a la vida, como la adopción, las obras educativas, la ayuda a otras familias, a los niños pobres o minusválidos (FC §14).
+
+La Iglesia condena como ofensa grave a la dignidad humana todas aquellas actividades de los gobiernos que tratan de limitar la libertad de los esposos en la decisión sobre los hijos, así como la ayuda económica internacional condicionada a programas de anticoncepcionismo, esterilización y aborto procurado (FC §30).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[matrimonio]], [[paternidad_responsable]], [[familia]], [[anticoncepción]], [[clonación]], [[amor_conyugal]]
 
 ## Ver también
 
-[[matrimonio]], [[paternidad_responsable]], [[familia]], [[anticoncepción]], [[clonación]], [[amor_conyugal]]
+[[matrimonio]], [[paternidad_responsable]], [[familia]], [[anticoncepción]], [[clonación]], [[amor_conyugal]], [[familiaris_consortio]]
 
 ## Referencias
 
 - [CompDS §218]
 - [CompDS §230-237]
+- [FC §14, §30]

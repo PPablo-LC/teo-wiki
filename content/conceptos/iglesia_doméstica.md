@@ -1,7 +1,7 @@
 # Iglesia doméstica
 
 > Área: Eclesiología / Sacramental
-> Última actualización: 2026-05-25
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -27,6 +27,14 @@ Lumen Gentium menciona la [[iglesia_doméstica]] en LG §11 al tratar el [[matri
 
 Los esposos y padres cristianos, siguiendo su propio camino mediante la fidelidad en el amor, deben sostenerse mutuamente en la gracia e inculcar la doctrina cristiana a los hijos, contribuyendo así al establecimiento de la fraternidad en la caridad [ConcVatII, LG §41].
 
+### Según la Familiaris Consortio (FC)
+
+La familia cristiana está llamada a tomar parte viva y responsable en la misión de la Iglesia de manera propia y original, poniendo al servicio de la Iglesia y de la sociedad su propio ser y obrar, en cuanto comunidad íntima de vida y de amor (FC §50). Los cónyuges en cuanto pareja, y los padres e hijos en cuanto familia, han de vivir su servicio a la Iglesia y al mundo (FC §50).
+
+La familia cristiana, comunidad creyente y evangelizadora, vive su cometido profético acogiendo y anunciando la Palabra de Dios, haciéndose cada día más una comunidad creyente y evangelizadora (FC §51). En la medida en que acoge el Evangelio y madura en la fe, se hace comunidad evangelizadora: «La familia, al igual que la Iglesia, debe ser un espacio donde el Evangelio es transmitido y desde donde éste se irradia» (FC §52). La futura evangelización depende en gran parte de la Iglesia doméstica (FC §52).
+
+La familia cristiana es llamada a santificarse y a santificar a la comunidad eclesial y al mundo mediante el ejercicio de su cometido sacerdotal (FC §55). La plegaria familiar tiene características propias: es una oración hecha en común, marido y mujer juntos, padres e hijos juntos (FC §59). El Rosario en familia debe ser considerado como una de las más excelentes y eficaces oraciones comunes que la familia cristiana está invitada a rezar (FC §61).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[familia]], [[matrimonio]], [[sacramento_del_matrimonio]], [[iglesia]], [[misión_de_la_iglesia]]
@@ -39,10 +47,11 @@ Se relaciona con [[familia]], [[matrimonio]], [[sacramento_del_matrimonio]], [[i
 - [[stewart_teaching_kids_gospels]] — convergencia en el hogar como primera escuela de fe; aporta testimonios y prácticas de lectura evangélica en familia
 
 ## Ver también
-[[familia]], [[matrimonio]], [[sacramento_del_matrimonio]], [[iglesia]]
+[[familia]], [[matrimonio]], [[sacramento_del_matrimonio]], [[iglesia]], [[familiaris_consortio]]
 
 ## Referencias
 
 - [CompDS §220]
 - [CompDS §231]
 - [CIC cc. 226, 1063-1065]
+- [FC §50-52, §55, §59, §61]
