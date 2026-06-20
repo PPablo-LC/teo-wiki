@@ -24,6 +24,12 @@ GS 20: El ateísmo sistemático lleva el afán de autonomía humana hasta negar 
 
 GS 21: La Iglesia reprueba estas doctrinas pero quiere conocer sus causas. Afirma que el reconocimiento de Dios no se opone a la dignidad humana. La esperanza escatológica no merma las tareas temporales. El remedio del ateísmo está en la exposición adecuada de la doctrina y en la integridad de vida de la Iglesia. La Iglesia reconoce que todos los hombres, creyentes y no creyentes, deben colaborar en la edificación del mundo.
 
+### Según la *Redemptor Hominis* (RH)
+
+La *Redemptor Hominis* describe el ateísmo como un fenómeno característico de nuestro tiempo, distinguiendo especialmente el «ateísmo programado, organizado y estructurado en un sistema político» [RH §11]. Este ateísmo sistémico se manifiesta en regímenes que niegan a los creyentes el derecho de ciudadanía, tratándolos «como ciudadanos de 'categoría inferior'», o incluso privándoles totalmente de los derechos de ciudadanía [RH §17].
+
+La encíclica subraya que el fenómeno de la incredulidad, la arreligiosidad y el ateísmo «se comprende solamente en relación con el fenómeno de la religión y de la fe» [RH §17]. La limitación de la libertad religiosa ofende «a la dignidad misma del hombre, independientemente de la religión profesada o de la concepción que ellas tengan del mundo» [RH §17].
+
 
 ## Distinciones importantes
 

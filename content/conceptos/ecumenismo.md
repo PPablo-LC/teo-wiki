@@ -39,6 +39,14 @@ Royo Marín menciona a Santo Tomás de Aquino como «obra ecuménica» y «Docto
 
 [JPII, Redemptoris Mater §29-34]: RM dedica una sección importante al ecumenismo, especialmente en relación con las Iglesias orientales que conservan una rica tradición mariológica. La Madre de Dios es «puente» y vínculo de unidad entre la Iglesia latina y las Iglesias orientales, que la veneran profundamente mediante la Theotókos, las diversas fiestas marianas y la rica tradición de la Dormición y la Asunción [RM §29-30]. El diálogo ecuménico debe reconocer que la piedad mariana, cuando está enraizada en la Escritura y la Tradición, puede ser un camino de unidad [RM §30]. La encíclica exhorta a profundizar en la doctrina mariológica desde una perspectiva ecuménica, para que la devoción a María, correctamente entendida y practicada, sea «una ayuda y no un obstáculo» para la unidad de los cristianos [RM §30-31]. El Concilio de Éfeso (431) que definió a María como Theotókos es recordado como un momento de unidad doctrinal que todas las Iglesias orientales comparten [RM §32-34].
 
+### Según la *Redemptor Hominis* (RH)
+
+La *Redemptor Hominis* sitúa el ecumenismo en la estela de la oración de Cristo en el Cenáculo: «para que todos sean uno, como tú, Padre, estás en mí y yo en ti» (Jn 17,21) [RH §6]. Juan Pablo II recuerda el Decreto sobre ecumenismo del Concilio Vaticano II y los primeros pasos dados por Pablo VI, afirmando que «hemos trabajado con perseverancia, coherencia y valentía» junto con los representantes de otras Iglesias y Comunidades cristianas [RH §6].
+
+La encíclica advierte que no se ve otra posibilidad de cumplir la misión universal de la Iglesia «que la de buscar lealmente, con perseverancia, humildad y con valentía, las vías de acercamiento y de unión» [RH §6]. La verdadera actividad ecuménica significa «apertura, acercamiento, disponibilidad al diálogo, búsqueda común de la verdad en el pleno sentido evangélico y cristiano», pero de ningún modo renunciar a los tesoros de la verdad divina [RH §6].
+
+Frente a quienes quisieran disuadir a la Iglesia de la búsqueda de la unidad, el Papa pregunta: «¿Nos es lícito no hacerlo?» [RH §6]. Esta misma actitud de diálogo y estima se aplica a las religiones no cristianas, cuyas creencias «son efecto también del Espíritu de verdad, que actúa más allá de los confines visibles del Cuerpo Místico» [RH §6].
+
 ## Distinciones importantes
 
 - **Ecumenismo espiritual**: oración, conversión y santidad como alma del movimiento ecuménico.

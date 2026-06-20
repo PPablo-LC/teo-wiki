@@ -29,6 +29,14 @@ El Decreto *Ad Gentes* enseña que la actividad misional es la evangelización e
 
 León XIV, en su encuentro con el clero romano, sitúa la evangelización como la prioridad absoluta de la pastoral parroquial. El Papa diagnostica que la pastoral ordinaria «está estructurada según un modelo clásico que se preocupa ante todo por garantizar la administración de los sacramentos», pero este modelo «presupone que la fe es transmitida también por el ambiente circundante», lo cual «ya no es así». Cita *Evangelii gaudium* 63 para advertir contra una «sacramentalización sin otras formas de evangelización». La urgencia es «volver a anunciar el Evangelio: esta es la prioridad». El anuncio del kerigma debe ser el eje vertebrador de toda la acción pastoral, no un añadido a una estructura sacramental que ya no se sostiene por sí misma. La pregunta de san Pablo —«¿Cómo creerán en aquel de quien no han oído hablar? ¿Y cómo oirán sin que alguien les anuncie?» (Rom 10,14)— ilumina el desafío de una Iglesia en contextos de secularización avanzada [L_XIV-ClerRom, 19.02.2026].
 
+### Según la *Redemptor Hominis* (RH)
+
+La *Redemptor Hominis* retoma la *Evangelii Nuntiandi* de Pablo VI como «programa de renovación de carácter apostólico y también pastoral» [RH §5]. La encíclica sitúa la misión evangelizadora en el «diálogo de la salvación» (expresión tomada de la *Ecclesiam Suam*) que la Iglesia debe llevar a cabo en los diversos ámbitos [RH §4]. Este diálogo, que «antes de hacerse coloquio, debe dirigir la propia atención al 'otro'», es fundamental para la autoconciencia de la Iglesia [RH §11].
+
+La misión de la Iglesia consiste en «revelar a Cristo al mundo, ayudar a todo hombre para que se encuentre a sí mismo en él» [RH §11]. La evangelización del mundo contemporáneo debe confrontar el ateísmo programado y las ideologías que reducen al hombre, anunciando que Jesucristo es «principio estable y centro permanente de la misión que Dios mismo ha confiado al hombre» [RH §11]. La Iglesia debe anunciar «la palabra... a tiempo y a destiempo», sin disponer de otras armas que «las del espíritu, de la palabra y del amor» [RH §16].
+
+La actitud misionera comienza siempre con «un sentimiento de profunda estima frente a lo que 'en el hombre había'»; la misión «no es nunca una destrucción, sino una purificación y una nueva construcción» [RH §12].
+
 ## Relaciones doctrinales
 
 Se relaciona con [[doctrina_social_de_la_iglesia]], [[misión_de_la_iglesia]], [[nueva_evangelización]], [[promoción_humana]], [[justicia_social]], [[reino_de_dios]]
