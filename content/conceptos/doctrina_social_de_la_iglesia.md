@@ -47,6 +47,16 @@ La encíclica amplía el horizonte de la DSI a una dimensión mundial, analizand
 
 La *Magnífica Humanitas* de León XIV, publicada el 15 de mayo de 2026 en el 135° aniversario de *Rerum novarum*, se sitúa en continuidad con la tradición de la Doctrina social de la Iglesia y, al mismo tiempo, la desarrolla ante el desafío de la inteligencia artificial y la revolución digital. La encíclica recorre el desarrollo del Magisterio social desde León XIII hasta Francisco (§§28-44), mostrando que la DSI «no es un manual de principios y normas que hay que aplicar, sino un camino de discernimiento comunitario» (§27). Subraya que la DSI «se deja interpelar por los signos de los tiempos; se nutre de la contribución de las ciencias, las culturas y las experiencias humanas» (§27). León XIV ofrece una reinterpretación de los principios clásicos —bien común, destino universal de los bienes, subsidiariedad, solidaridad y justicia social— aplicándolos al contexto digital (§§46-85). La novedad de su contribución consiste en mostrar que la DSI debe confrontarse con el paradigma tecnocrático, el transhumanismo y la concentración de poder tecnológico como nuevas "res novae" de nuestro tiempo (§§4-6, 90-96). También aplica la DSI a la vida interna de la Iglesia, como examen de conciencia sobre sinodalidad, transparencia y corresponsabilidad (§§86-89). La encíclica propone una «teología de la comunión en la historia» como clave de lectura de toda la DSI (§27).
 
+### Según San Juan Pablo II (EA)
+
+Ante los graves problemas sociales que existen en América, «el católico sabe que puede encontrar en la doctrina social de la Iglesia la respuesta de la que partir para buscar soluciones concretas. Difundir esta doctrina constituye, pues, una verdadera prioridad pastoral» [EA §54]. Es importante que los agentes de evangelización «asimilen este tesoro que es la doctrina social de la Iglesia, e, iluminados por ella, se hagan capaces de leer la realidad actual y de buscar vías para la acción» [EA §54].
+
+Juan Pablo II propone la elaboración de «un compendio o síntesis autorizada de la doctrina social católica, incluso un "catecismo", que muestre la relación existente entre ella y la nueva evangelización» [EA §54], idea que se materializaría en el *Compendio de la Doctrina Social de la Iglesia* (2004).
+
+La visión moral de la Iglesia sobre la economía globalizada «se apoya en las tres piedras angulares fundamentales de la dignidad humana, la solidaridad y la subsidiariedad» [EA §55]. La economía globalizada debe ser analizada a la luz de los principios de la justicia social, respetando la opción preferencial por los pobres y el bien común internacional [EA §55].
+
+En la doctrina social ocupa un lugar importante el derecho a un trabajo digno: «es necesario valorar el trabajo como dimensión de realización y de dignidad de la persona humana» [EA §54].
+
 ## Distinciones importantes
 
 - No es una ideología política ni un sistema económico alternativo

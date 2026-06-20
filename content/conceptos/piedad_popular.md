@@ -29,6 +29,16 @@ La Guía de Liturgia de la Legión de Cristo dedica el capítulo VIII a la pieda
 
 **Viacrucis comunitario**: un crucífero encabeza la procesión con una cruz simple sin la figura de Cristo. El sacerdote o diácono que preside lleva sobrepelliz y estola morada [GLit-2024, n. 219-220]. El Viernes Santo, para dar mayor solemnidad, el superior del centro lleva la cruz y se revisten de sobrepelliz y estola roja, acompañados por dos ceroferarios [GLit-2024, n. 223].
 
+### Según San Juan Pablo II (EA)
+
+Una característica peculiar de América es «la existencia de una piedad popular profundamente enraizada en sus diversas naciones» [EA §16]. Está presente en todos los niveles y sectores sociales, revistiendo «una especial importancia como lugar de encuentro con Cristo para todos aquellos que con espíritu de pobreza y humildad de corazón buscan sinceramente a Dios» [EA §16].
+
+Las expresiones de esta piedad son numerosas: «las peregrinaciones a los santuarios de Cristo, de la Santísima Virgen y de los santos, la oración por las almas del purgatorio, el uso de sacramentales (agua, aceite, cirios...). Éstas y tantas otras expresiones de la piedad popular ofrecen oportunidad para que los fieles encuentren a Cristo viviente» [EA §16].
+
+Es urgente descubrir en las manifestaciones de la religiosidad popular «los verdaderos valores espirituales, para enriquecerlos con los elementos de la genuina doctrina católica, a fin de que esta religiosidad lleve a un compromiso sincero de conversión y a una experiencia concreta de caridad» [EA §16]. La piedad popular, bien orientada, contribuye «a acrecentar en los fieles la conciencia de pertenecer a la Iglesia, alimentando su fervor y ofreciendo así una respuesta válida a los actuales desafíos de la secularización» [EA §16].
+
+La piedad popular es «expresión de la inculturación de la fe católica» y puede ofrecer indicaciones válidas para una mayor inculturación del Evangelio, especialmente entre poblaciones indígenas y afroamericanas [EA §16].
+
 ## Distinciones importantes
 
 - Piedad popular ≠ liturgia: la liturgia es la oración oficial de la Iglesia, la piedad popular es espontánea

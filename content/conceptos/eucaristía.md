@@ -193,6 +193,16 @@ La Eucaristía presenta tres dimensiones inseparables: «Sacramento-Sacrificio, 
 
 La Eucaristía «construye la Iglesia, y la construye como auténtica comunidad del Pueblo de Dios» [RH §20]. «La Iglesia vive de la Eucaristía, vive de la plenitud de este Sacramento» [RH §20]. La Eucaristía y la Penitencia están íntimamente vinculadas: «Cristo, que invita al banquete eucarístico, es siempre el mismo Cristo que exhorta a la penitencia» [RH §20]. La Iglesia debe ser «la Iglesia de la Eucaristía y de la Penitencia» [RH §20].
 
+### Según San Juan Pablo II (EA)
+
+La Eucaristía es «el lugar privilegiado para el encuentro con Cristo vivo» [EA §35]. Los pastores deben «dar a la celebración eucarística dominical una nueva fuerza, como fuente y culminación de la vida de la Iglesia, prenda de su comunión en el Cuerpo de Cristo e invitación a la solidaridad como expresión del mandato del Señor» [EA §35].
+
+La realidad de la Eucaristía no se agota en ser el sacramento culminante de la iniciación cristiana: «continúa siendo el centro vivo permanente en torno al cual se congrega toda la comunidad eclesial» [EA §35]. Es simultáneamente «sacramento-sacrificio, sacramento-comunión, sacramento-presencia» [EA §35].
+
+Es necesario que los fieles sean conscientes de que la Eucaristía es «un inmenso don» y participen activa y dignamente en ella, al menos los domingos y días festivos [EA §35]. La escasez de sacerdotes hace patente «la urgencia de fomentar las vocaciones sacerdotales» [EA §35]. Se debe recordar «el lazo existente entre la Eucaristía y la caridad» [EA §35]; la participación en la Eucaristía debe llevar a una acción caritativa más intensa.
+
+Bajo las especies eucarísticas «Cristo todo entero está presente en su "realidad física" aún corporalmente» [EA §12, citando a Pablo VI, Mysterium fidei].
+
 ## Distinciones importantes
 
 - **Transubstanciación**: cambio de sustancia, permaneciendo los accidentes

@@ -43,6 +43,12 @@ El martirio es el más excelente de los actos de la virtud de la religión, pues
 
 [TPCr, Parte III, Libro II, Cap. II — Las Virtudes]
 
+### Según San Juan Pablo II (EA)
+
+«La historia de la evangelización de América reconoce numerosos mártires, varones y mujeres, tanto Obispos, como presbíteros, religiosos y laicos, que con su sangre regaron […] [estas] naciones. Ellos, como nube de testigos (cf. Hb 12, 1), nos estimulan para que asumamos hoy, sin temor y ardorosamente, la nueva evangelización» [EA §15].
+
+El máximo testimonio «es el martirio» [EA §26]. Es necesario que los ejemplos de entrega sin límites a la causa del Evangelio «sean no sólo preservados del olvido, sino más conocidos y difundidos entre los fieles del Continente» [EA §15].
+
 ## Distinciones importantes
 
 - **Martirio** ≠ **suicidio**: el mártir no busca la muerte, la acepta por amor a Cristo.

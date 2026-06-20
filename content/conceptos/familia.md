@@ -61,6 +61,16 @@ La *Redemptor Hominis* enseña que «en la fidelidad a la propia vocación deben
 
 La familia es presentada como el ámbito donde se realiza el «servicio real» (*munus regale* de Cristo) a través de la entrega esponsal. La comunidad familiar es escuela de esa humanidad madura que consiste en el «pleno uso del don de la libertad» para la donación de sí mismo [RH §21].
 
+### Según San Juan Pablo II (EA)
+
+La familia cristiana debe ser verdaderamente «iglesia doméstica» [EA §46, 76]. La Palabra leída asiduamente en la familia «la construye poco a poco como iglesia doméstica y la hace fecunda en humanismo y virtudes cristianas; allí se constituye la fuente de las vocaciones» [EA §46].
+
+Son muchas las insidias que amenazan la institución familiar: «el aumento de los divorcios, la difusión del aborto, del infanticidio y de la mentalidad contraceptiva» [EA §46]. Hay que subrayar «que el fundamento de la vida humana es la relación nupcial entre el marido y la esposa, la cual entre los cristianos es sacramental» [EA §46].
+
+Es urgente una amplia catequización sobre el ideal cristiano de la comunión conyugal y de la vida familiar, que incluya «una espiritualidad de la paternidad y la maternidad» [EA §46]. Los padres deben ser «para sus hijos los primeros predicadores de la fe, mediante la palabra y el ejemplo» [EA §46]. En la familia no puede faltar la oración en común: la participación en la Eucaristía, la Reconciliación, la oración cotidiana y obras concretas de caridad [EA §46].
+
+Juan Pablo II concluye la exhortación con una oración por las familias de América, pidiendo que «sean vivo testimonio de amor, de justicia y solidaridad; que sean escuela de respeto, de perdón y mutua ayuda; que sean fuente de vocaciones al sacerdocio, a la vida consagrada» [EA §76, Oración].
+
 ## Relaciones doctrinales
 
 Se relaciona con [[matrimonio]], [[iglesia_doméstica]], [[santuario_de_la_vida]], [[bien_común]], [[subsidiariedad]], [[educación_de_los_hijos]]

@@ -37,6 +37,16 @@ La misión de la Iglesia consiste en «revelar a Cristo al mundo, ayudar a todo 
 
 La actitud misionera comienza siempre con «un sentimiento de profunda estima frente a lo que 'en el hombre había'»; la misión «no es nunca una destrucción, sino una purificación y una nueva construcción» [RH §12].
 
+### Según San Juan Pablo II (EA)
+
+La Exhortación Apostólica *Ecclesia in America* sitúa la evangelización en el corazón de la identidad de la Iglesia: «evangelizar constituye, en efecto, la dicha y vocación propia de la Iglesia, su identidad más profunda» [EA §66, citando a Pablo VI, EN 14]. El deber de la evangelización es una urgencia de caridad para el discípulo de Cristo: «El amor de Cristo nos apremia» (2 Co 5, 14) [EA §1].
+
+La conmemoración de los quinientos años de la llegada del Evangelio a América y el Gran Jubileo del año 2000 son «ocasiones privilegiadas» para renovar el impulso evangelizador [EA §1]. El tema de la Asamblea Especial del Sínodo para América —«Encuentro con Jesucristo vivo, camino para la conversión, la comunión y la solidaridad en América»— expresa «la centralidad de la persona de Jesucristo resucitado, presente en la vida de la Iglesia, que invita a la conversión, a la comunión y a la solidaridad» [EA §3].
+
+La evangelización debe ser «nueva en su ardor, en sus métodos, en su expresión», como Juan Pablo II formulara ante el CELAM en Puerto Príncipe (Haití) [EA §6]. Esta nueva evangelización debe diversificarse según dos situaciones: países afectados por el secularismo y países donde «todavía se conservan muy vivas las tradiciones de piedad y de religiosidad popular cristiana» [EA §6].
+
+El encuentro con Cristo lleva necesariamente a evangelizar: «El primer impulso que surge de esta transformación es comunicar a los demás la riqueza adquirida en la experiencia de este encuentro» [EA §68]. «La Iglesia, que vive de la presencia permanente y misteriosa de su Señor resucitado, tiene como centro de su misión llevar a todos los hombres al encuentro con Jesucristo» [EA §68].
+
 ## Relaciones doctrinales
 
 Se relaciona con [[doctrina_social_de_la_iglesia]], [[misión_de_la_iglesia]], [[nueva_evangelización]], [[promoción_humana]], [[justicia_social]], [[reino_de_dios]]

@@ -31,6 +31,18 @@ La formación sacerdotal debe preparar a los sacerdotes para ser evangelizadores
 
 Juan Pablo II no usa explícitamente el término «nueva evangelización» en DyM, pero toda su autobiografía sacerdotal es testimonio de su fundamento: el sacerdote «hombre de la Palabra» debe «conjugar la evangelización con la inteligencia de la fe» para anunciar a los hombres de hoy la verdad sobre Dios y el hombre [DyM, IX]. El Papa relaciona el anuncio con el diálogo con la filosofía y la cultura contemporánea, tarea que él mismo emprendió integrando tomismo y fenomenología [DyM, IX].
 
+### Según San Juan Pablo II (EA)
+
+*Ecclesia in America* es una de las exposiciones más completas de la nueva evangelización aplicada a un continente. Juan Pablo II recuerda que el término fue acuñado por él mismo ante el CELAM en Puerto Príncipe (1983): «La conmemoración del medio milenio de evangelización tendrá su significación plena si es un compromiso vuestro como Obispos, junto con vuestro presbiterio y fieles; compromiso, no de reevangelización, pero sí de una evangelización nueva. Nueva en su ardor, en sus métodos, en su expresión» [EA §6].
+
+La nueva evangelización debe diversificarse según dos situaciones: la de los países muy afectados por el secularismo y la de aquellos donde «todavía se conservan muy vivas las tradiciones de piedad y de religiosidad popular cristiana» [EA §6].
+
+Toda la exhortación se inscribe «dentro del marco de la nueva evangelización» [EA §6]. El núcleo vital de la nueva evangelización «ha de ser el anuncio claro e inequívoco de la persona de Jesucristo, es decir, el anuncio de su nombre, de su doctrina, de su vida, de sus promesas y del Reino que Él nos ha conquistado a través de su misterio pascual» [EA §66].
+
+La nueva evangelización incluye dimensiones fundamentales: la catequesis como proceso de formación en la fe [EA §69]; la evangelización de la cultura, que pide «un esfuerzo lúcido, serio y ordenado» [EA §70]; la evangelización de los centros educativos [EA §71]; el uso de los medios de comunicación social [EA §72]; la respuesta al desafío de las sectas [EA §73]; y la misión *ad gentes* más allá del continente [EA §74].
+
+Los pobres han de ser los primeros destinatarios [EA §67], pero sin descuidar la evangelización de los dirigentes de la sociedad [EA §67].
+
 ## Relaciones doctrinales
 
 Se relaciona con [[evangelización]], [[doctrina_social_de_la_iglesia]], [[misión_de_la_iglesia]], [[reino_de_dios]], [[concilio_vaticano_ii]]

@@ -51,6 +51,16 @@ Distingue grados de santidad: incipiente (principiantes, vía purgativa), progre
 
 Juan Pablo II afirma que la [[santidad]] sacerdotal es el fundamento de toda pastoral eficaz: «solo desde el terreno de la santidad sacerdotal puede desarrollarse una pastoral eficaz, una verdadera *cura animarum*» [DyM, IX]. El testimonio de sacerdotes santos —especialmente San Juan María Vianney— marcó su propia vida [DyM, V]. La santidad del sacerdote brota de la Eucaristía, la oración, la vida mariana y la fidelidad al ministerio. El Papa llama a los sacerdotes a ser «pupila del ojo» (*pupilla oculi*) de la Iglesia [DyM, X].
 
+### Según San Juan Pablo II (EA)
+
+La Asamblea Especial del Sínodo para América «ha querido recordar con vigor a todos los cristianos la importancia de la doctrina de la vocación universal a la santidad en la Iglesia» [EA §30]. «La santidad es la meta del camino de conversión, pues ésta no es fin en sí misma, sino proceso hacia Dios, que es santo. Ser santos es imitar a Dios y glorificar su nombre en las obras que realizamos en nuestra vida (cf. Mt 5, 16)» [EA §30].
+
+Jesucristo es «el punto de referencia y el modelo a imitar: Él es el Santo de Dios […] el corazón de la santidad es el amor, que conduce incluso a dar la vida por los otros» [EA §30]. «Imitar la santidad de Dios, tal y como se ha manifestado en Jesucristo, su Hijo, no es otra cosa que prolongar su amor en la historia, especialmente con respecto a los pobres, enfermos e indigentes» [EA §30].
+
+Jesús se presenta como «el único camino que conduce a la santidad» (Jn 14, 6) [EA §31]. El conocimiento concreto de este itinerario se obtiene mediante la Palabra de Dios, por lo que la Iglesia en América «debe conceder una gran prioridad a la reflexión orante sobre la Sagrada Escritura, realizada por todos los fieles» [EA §31].
+
+La expresión y los mejores frutos de la identidad cristiana de América son sus santos. «América ha visto florecer los frutos de la santidad desde los comienzos de su evangelización», siendo santa Rosa de Lima «la primera flor de santidad en el Nuevo Mundo» [EA §15].
+
 ## Distinciones importantes
 
 - **Santidad ontológica**: la gracia santificante en el alma (santidad de estado).

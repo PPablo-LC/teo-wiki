@@ -26,6 +26,16 @@ La parábola del hijo pródigo expresa «de manera sencilla, pero profunda la re
 
 La conversión consiste en «descubrir la misericordia de Dios, es decir, ese amor que es paciente y benigno a medida del Creador y Padre» [DM §13]. Es siempre «fruto del "reencuentro" de este Padre, rico en misericordia». Quienes conocen a Dios así «no pueden vivir sino convirtiéndose sin cesar a Él. Viven pues *in statu conversionis*; es este estado el que traza la componente más profunda de la peregrinación de todo hombre por la tierra *in statu viatoris*» [DM §13].
 
+### Según San Juan Pablo II (EA)
+
+La conversión (*metanoia*) es el camino que sigue al encuentro con Jesucristo vivo. Juan Pablo II dedica el Capítulo III de *Ecclesia in America* a este tema. «El encuentro con Jesús vivo, mueve a la conversión» [EA §26]. La *metanoia* significa «cambio de mentalidad. No se trata sólo de un modo distinto de pensar a nivel intelectual, sino de la revisión del propio modo de actuar a la luz de los criterios evangélicos» [EA §26].
+
+La auténtica conversión debe prepararse y cultivarse con la lectura orante de la Sagrada Escritura y la recepción de los sacramentos de la Reconciliación y la Eucaristía [EA §26]. «La conversión conduce a la comunión fraterna […] mueve a la solidaridad […] Superar la división entre fe y vida es indispensable para que se pueda hablar seriamente de conversión» [EA §26].
+
+La conversión tiene una dimensión social: convertirse al Evangelio significa revisar «todos los ambientes y dimensiones de su vida, especialmente todo lo que pertenece al orden social y a la obtención del bien común» [EA §27]. Se debe fomentar «la solicitud por la obligación de participar en la acción política según el Evangelio» [EA §27].
+
+La conversión es permanente: «es un empeño que abarca toda la vida» [EA §28]. Se debe renovar constantemente «el encuentro con Jesucristo vivo», camino que «nos conduce a la conversión permanente» [EA §28]. La conversión exige de los pastores «una auténtica identificación con el estilo personal de Jesucristo, que nos lleva a la sencillez, a la pobreza, a la cercanía» [EA §28].
+
 ## Distinciones importantes
 
 - Conversión primera (Bautismo) vs. segunda conversión (penitencia continua)
