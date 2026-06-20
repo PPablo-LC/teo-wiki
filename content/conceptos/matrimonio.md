@@ -1,7 +1,7 @@
 # Matrimonio
 
 > Área: Sacramental
-> Última actualización: 2026-06-15
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -79,6 +79,16 @@ El CIC regula el matrimonio en los cánones 1055-1165. La alianza matrimonial en
 
 El CIC dedica los cc. 1671-1707 a las causas matrimoniales dentro del Libro VII sobre procesos. Las causas matrimoniales de los bautizados corresponden al juez eclesiástico por derecho propio (c. 1671). Para las causas de nulidad matrimonial son competentes: el tribunal del lugar donde se celebró el matrimonio, el del domicilio del demandado, el del domicilio de la parte actora si ambas residen en el territorio de la misma Conferencia Episcopal, y el tribunal donde han de recogerse la mayor parte de las pruebas (c. 1673). Están hábiles para impugnar el matrimonio los cónyuges y el promotor de justicia cuando la nulidad se ha divulgado (c. 1674). El juez debe emplear medios pastorales para inducir a los cónyuges a convalidar su matrimonio antes de aceptar la causa (c. 1676). La sentencia que declara la nulidad debe transmitirse de oficio al tribunal de apelación (c. 1682). Cuando la sentencia es confirmada en apelación, los cónyuges pueden contraer nuevas nupcias (c. 1684). Existe un proceso documental para casos donde consta la nulidad por documento cierto (cc. 1686-1688). La dispensa del matrimonio rato y no consumado solo puede concederla el Romano Pontífice (cc. 1697-1706). La separación personal de los cónyuges puede decidirse por decreto del Obispo diocesano o por sentencia del juez (c. 1692). Para la muerte presunta del cónyuge se requiere declaración del Obispo diocesano tras investigaciones que proporcionen certeza moral (c. 1707).
 
+### Según la Familiaris Consortio (FC)
+
+Dios ha creado al hombre a su imagen y semejanza, llamándolo a la existencia por amor y al mismo tiempo al amor (FC §11). El amor es la vocación fundamental e innata de todo ser humano (FC §11). La Revelación cristiana conoce dos modos específicos de realizar esta vocación: el Matrimonio y la Virginidad (FC §11).
+
+El único «lugar» que hace posible la donación total entre el hombre y la mujer es el matrimonio, el pacto de amor conyugal o elección consciente y libre, con la que el hombre y la mujer aceptan la comunidad íntima de vida y amor querida por Dios mismo (FC §11). La institución matrimonial no es una ingerencia indebida de la sociedad o de la autoridad, sino exigencia interior del pacto de amor conyugal (FC §11).
+
+Jesucristo revela la verdad original del matrimonio, la verdad del «principio» y, liberando al hombre de la dureza del corazón, lo hace capaz de realizarla plenamente (FC §13). El matrimonio de los bautizados se convierte así en el símbolo real de la nueva y eterna Alianza, sancionada con la sangre de Cristo (FC §13). En virtud de la sacramentalidad de su matrimonio, los esposos quedan vinculados uno a otro de la manera más profundamente indisoluble (FC §13).
+
+Los esposos cristianos tienen el derecho de esperar de las personas vírgenes el buen ejemplo y el testimonio de la fidelidad a su vocación hasta la muerte (FC §16).
+
 ### Según el Compendio (CompDS)
 
 La familia, fundada en el matrimonio entre un hombre y una mujer, es la primera sociedad natural, titular de derechos propios y originarios [CompDS §211]. El matrimonio tiene su fundamento en la libre voluntad de los cónyuges, respetando el significado y valores propios de esta institución que no depende del hombre sino de Dios mismo [CompDS §215]. Ningún poder puede abolir el derecho natural al matrimonio ni modificar sus características ni su finalidad [CompDS §216]. Sus rasgos característicos son: totalidad, unidad, indisolubilidad, fidelidad y fecundidad [CompDS §217]. El matrimonio, en su verdad objetiva, está ordenado a la procreación y educación de los hijos [CompDS §218]. Por institución de Cristo, los bautizados viven la realidad del matrimonio en la forma sobrenatural del sacramento [CompDS §219-220]. La Iglesia reafirma la complementariedad entre hombre y mujer, y rechaza la equiparación de las uniones homosexuales con el matrimonio [CompDS §224-228]. La indisolubilidad del matrimonio es un bien que debe ser protegido por la sociedad, y el divorcio es una «verdadera plaga social» [CompDS §225].
@@ -103,12 +113,6 @@ Sobre la indisolubilidad:
 Sobre la gracia sacramental:
 «El matrimonio da derecho a auxilios especiales. Los cónyuges cristianos no están abandonados a sus propias fuerzas en el cumplimiento de sus deberes. Tienen derecho a la gracia sacramental que les ayuda a amarse mutuamente, a ser fieles, a educar cristianamente a sus hijos, a soportar las dificultades, y a alcanzar juntos la santidad.»
 
-### Según Para Salvarte (PS)
-
-El P. Jorge Loring trata el matrimonio como sacramento en el capítulo 13 de *Para Salvarte*. El matrimonio es «un sacramento en el cual, contraído según las leyes de la Iglesia, por el mutuo consentimiento de los contrayentes expresado legítimamente con libertad y sinceridad, se les concede la gracia para santificar su unión conyugal y para cumplir bien los deberes matrimoniales» (PS §13,97,7). Sus propiedades esenciales son la unidad y la indisolubilidad: «uno con una y para siempre». El vínculo conyugal dura mientras viva cualquiera de los cónyuges.
-
-En el capítulo 12, Loring desarrolla extensamente la preparación al matrimonio mediante el noviazgo. El amor verdadero es generoso y busca el bien de la persona amada, no la propia satisfacción. «El amor, al contrario que el dinero, cuanto más se da, más se tiene». El matrimonio requiere amor espiritual, no mera atracción carnal: «cuanto más pongas de carnal en tu cariño, menos sitio dejas para lo espiritual». La pureza en el noviazgo es garantía de felicidad futura: «Fieles hasta la muerte y puros hasta el altar» (PS §12,68,13-14).
-
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata el matrimonio en el Suplemento (q.41-68). Las nueve primeras cuestiones (q.41-49) constituyen la introducción teológica sobre la naturaleza, consentimiento y bienes del matrimonio.
@@ -131,6 +135,12 @@ El objeto del consentimiento no es la cópula carnal explícitamente, sino la po
 
 **Los bienes del matrimonio (Suppl. q.49).** Tres bienes excusan y rectifican el matrimonio: la «prole» (generación y educación de los hijos), la «fe» (fidelidad conyugal), y el «sacramento» (indisolubilidad) (q.49 a.1-2). De estos, el más principal es el sacramento (la indisolubilidad), por ser signo de la unión indisoluble de Cristo con la Iglesia (q.49 a.3).
 
+### Según Para Salvarte (PS)
+
+El P. Jorge Loring trata el matrimonio como sacramento en el capítulo 13 de *Para Salvarte*. El matrimonio es «un sacramento en el cual, contraído según las leyes de la Iglesia, por el mutuo consentimiento de los contrayentes expresado legítimamente con libertad y sinceridad, se les concede la gracia para santificar su unión conyugal y para cumplir bien los deberes matrimoniales» (PS §13,97,7). Sus propiedades esenciales son la unidad y la indisolubilidad: «uno con una y para siempre». El vínculo conyugal dura mientras viva cualquiera de los cónyuges.
+
+En el capítulo 12, Loring desarrolla extensamente la preparación al matrimonio mediante el noviazgo. El amor verdadero es generoso y busca el bien de la persona amada, no la propia satisfacción. «El amor, al contrario que el dinero, cuanto más se da, más se tiene». El matrimonio requiere amor espiritual, no mera atracción carnal: «cuanto más pongas de carnal en tu cariño, menos sitio dejas para lo espiritual». La pureza en el noviazgo es garantía de felicidad futura: «Fieles hasta la muerte y puros hasta el altar» (PS §12,68,13-14).
+
 ## Distinciones importantes
 
 - **Matrimonio como contrato natural vs. como sacramento**: entre bautizados, el contrato válido es ipso facto sacramento
@@ -148,6 +158,7 @@ El objeto del consentimiento no es la cópula carnal explícitamente, sino la po
 
 - [[auténtica_día_2_lidera_tu_vida_con_dios]] — convergencia en aplicación de la teología del cuerpo al matrimonio (testimonio sobre el «nido vacío»)
 - [[alexander_marriage_gospels]] — convergencia en el matrimonio como sacramento y figura de Cristo y la Iglesia; aporta exégesis de las Bodas de Caná y conexión con la Cruz
+- [[familiaris_consortio]]
 
 ## Ver también
 
@@ -157,6 +168,7 @@ El objeto del consentimiento no es la cópula carnal explícitamente, sino la po
 - [[iglesia]]
 - [[castidad]]
 - [[jorge_loring]]
+- [[familiaris_consortio]]
 
 ## Referencias
 
@@ -169,3 +181,4 @@ El objeto del consentimiento no es la cópula carnal explícitamente, sino la po
 - Concilio Vaticano II, Gaudium et Spes
 - Santo Tomás, S.Th., Suppl., q. 41-68
 - [PS §12,68,13-14; §13,97,7]
+- [FC §11, §13, §16]

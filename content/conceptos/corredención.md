@@ -1,7 +1,7 @@
 # Corredención
 
 > Área: Dogmática / Mariología
-> Última actualización: 2026-05-31
+> Última actualización: 2026-06-19
 
 ## Definición
 
@@ -20,6 +20,10 @@ María, «asociada íntimamente a la obra de su Hijo», cooperó «de manera tot
 ### Según Royo Marín (TPCr)
 
 La cooperación de María en la redención es una doctrina cierta y común en la Iglesia. María es corredentora en sentido participado, no propio: no redime como causa principal, sino que coopera con Cristo aplicando los frutos de la redención. Su dolor al pie de la cruz tuvo un valor satisfactorio e imperatorio por disposición divina [TPCr, Parte IV, Libro III, Cap. 2].
+
+### Según Una Visita de Dios (UVD)
+
+Juan Pablo II extiende la dimensión corredentora del sufrimiento a todos los fieles: «Vuestros sufrimientos, acogidos y sostenidos por una fe inquebrantable, unidos a los de Cristo, adquieren un valor extraordinario para la vida de la Iglesia y el bien de la humanidad» [UVD]. El sufrimiento «capacita para la santidad, dado que encierra grandes posibilidades apostólicas y tiene un valor salvífico excepcional cuando va unido a los sacrificios de Cristo» [UVD].
 
 ## Distinciones importantes
 

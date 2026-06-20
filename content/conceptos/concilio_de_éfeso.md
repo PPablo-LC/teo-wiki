@@ -1,7 +1,7 @@
 # Concilio de Éfeso
 
 > Área: Dogmática (Historia de la Iglesia)
-> Última actualización: 2026-05-29
+> Última actualización: 2026-06-19
 
 ## Definición
 
@@ -19,11 +19,17 @@ El concilio confirmó la terminología de Nicea (325) sobre la consubstancialida
 
 ### Según el Catecismo (CEC)
 
-El CEC expone la doctrina de Éfeso al tratar la Encarnación y la maternidad divina de María. «La herejía nestoriana veía en Cristo una persona humana junto a la persona divina del Hijo de Dios. Frente a ella san Cirilo de Alejandría y el tercer Concilio Ecuménico reunido en Éfeso, en el año 431, confesaron que “el Verbo, al unirse en su persona a una carne animada por un alma racional, se hizo hombre”» (§466).
+El CEC expone la doctrina de Éfeso al tratar la Encarnación y la maternidad divina de María. «La herejía nestoriana veía en Cristo una persona humana junto a la persona divina del Hijo de Dios. Frente a ella san Cirilo de Alejandría y el tercer Concilio Ecuménico reunido en Éfeso, en el año 431, confesaron que "el Verbo, al unirse en su persona a una carne animada por un alma racional, se hizo hombre"» (§466).
 
 La consecuencia inmediata: «Por eso el concilio de Éfeso proclamó en el año 431 que María llegó a ser con toda verdad Madre de Dios mediante la concepción humana del Hijo de Dios en su seno» (§466). El CEC recoge la fórmula que la Iglesia confiesa: «María es verdaderamente Madre de Dios [Theotokos]» (§495).
 
 El concilio se inscribe en la lucha de la Iglesia por defender que «Jesucristo es verdadero Dios y verdadero hombre» (§464), refutando herejías que negaban la plenitud de la humanidad o la plenitud de la divinidad en Cristo.
+
+### Según María, José y la vida oculta de Jesús (MJV)
+
+Juan Pablo II presenta el Concilio de Éfeso como el momento en que la Iglesia definió solemnemente a María como *Theotókos* (Madre de Dios) contra la herejía de Nestorio [MJV, catequesis 4]. El Papa explica que «Nestorio puso en duda la legitimidad del título "Madre de Dios"» al pretender considerar a María «sólo como madre del hombre Jesús» [MJV, catequesis 4]. Lo que indujo a Nestorio al error fue «la dificultad que sentía para admitir la unidad de la persona de Cristo y su interpretación errónea de la distinción entre las dos naturalezas» [MJV, catequesis 4].
+
+El concilio «condenó sus tesis y al afirmar la subsistencia de la naturaleza divina y de la naturaleza humana en la única persona del Hijo, proclamó a María Madre de Dios» [MJV, catequesis 4]. Juan Pablo II señala que «cuando proclama a María "Madre de Dios", la Iglesia profesa con una única expresión su fe en el Hijo y en la Madre» [MJV, catequesis 4].
 
 ## Distinciones importantes
 
@@ -38,12 +44,6 @@ El concilio se relaciona con la [[encarnación]] del Verbo, la [[unión_hipostá
 ## Ver también
 
 [[encarnación]], [[unión_hipostática]], [[virgen_maría]], [[jesucristo]], [[nestorianismo]], [[concilio_de_calcedonia]], [[cirilo_de_alejandría]]
-
-### Según María, José y la vida oculta de Jesús (MJV)
-
-Juan Pablo II presenta el Concilio de Éfeso como el momento en que la Iglesia definió solemnemente a María como *Theotókos* (Madre de Dios) contra la herejía de Nestorio [MJV, catequesis 4]. El Papa explica que «Nestorio puso en duda la legitimidad del título "Madre de Dios"» al pretender considerar a María «sólo como madre del hombre Jesús» [MJV, catequesis 4]. Lo que indujo a Nestorio al error fue «la dificultad que sentía para admitir la unidad de la persona de Cristo y su interpretación errónea de la distinción entre las dos naturalezas» [MJV, catequesis 4].
-
-El concilio «condenó sus tesis y al afirmar la subsistencia de la naturaleza divina y de la naturaleza humana en la única persona del Hijo, proclamó a María Madre de Dios» [MJV, catequesis 4]. Juan Pablo II señala que «cuando proclama a María "Madre de Dios", la Iglesia profesa con una única expresión su fe en el Hijo y en la Madre» [MJV, catequesis 4].
 
 ## Referencias
 

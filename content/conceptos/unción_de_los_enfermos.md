@@ -47,6 +47,10 @@ Santo Tomás trata la Extremaunción en el Suplemento, cuestiones 29-33, al ser 
 
 **Repetición (Suppl. q.33).** Puede repetirse, pues su efecto —la salud del alma y del cuerpo— puede perderse (q.33 a.1). Durante la misma enfermedad solo se reitera si el enfermo sale del peligro y vuelve a caer en él (q.33 a.2).
 
+### Según Una Visita de Dios (UVD)
+
+Juan Pablo II presenta la Unción de Enfermos como sacramento que «sana cuerpo y alma»: «Un beso de Dios que sana el cuerpo y el alma» [UVD]. El Papa recuerda que «la Unción de Enfermos es un Sacramento que sana cuerpo y alma» [UVD], subrayando su doble dimensión física y espiritual. La Unción une al enfermo a la Pasión de Cristo y le da la fuerza para ofrecer su sufrimiento como participación en la obra redentora.
+
 ## Analizado para
 
 - [[jeff_lacour_true_freedom_through_prayer]]

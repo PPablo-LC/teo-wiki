@@ -1,7 +1,7 @@
 # Magníficat
 
 > Área: Sagrada Escritura / Mariología / Liturgia
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-19
 
 ## Definición
 
@@ -21,10 +21,15 @@ TPCr trata el Magníficat en el contexto de la oración de la Virgen María y de
 
 [JPII, Redemptoris Mater §36-37]: El Magníficat es el cántico de la fe de María, que revela la conciencia que ella tiene de su lugar en el plan salvífico de Dios. En él, María proclama que «todas las generaciones la llamarán bienaventurada» (Lc 1,48), dando gracias a Dios «porque ha mirado la humildad de su esclava» [RM §36]. El Magníficat es también una proclamación profética de la justicia de Dios: «dispersa a los soberbios, derriba del trono a los poderosos y enaltece a los humildes; a los hambrientos los colma de bienes y a los ricos los despide vacíos» (Lc 1,51-53). María aparece así como modelo de la opción de Dios por los pobres y humildes [RM §37]. En el Magníficat resuena la verdadera libertad de los hijos de Dios: María es la «expresión perfecta de la libertad de la fe» y anuncia la liberación mesiánica [RM §37].
 
+### Según María, José y la vida oculta de Jesús (MJV)
+
+Juan Pablo II dedica una catequesis completa al Magníficat [MJV, catequesis 2]. El Magníficat es «la respuesta de la Virgen al misterio de la Anunciación: el ángel la había invitado a alegrarse, ahora María expresa el júbilo de su espíritu en Dios, su Salvador» [MJV, catequesis 2]. Es «la primicia de las diversas expresiones de culto, transmitidas de generación en generación, con las que la Iglesia manifiesta su amor a la Virgen de Nazaret» [MJV, catequesis 2].
+
+La expresión *Magnificat* «celebra la grandeza de Dios, que con el anuncio del ángel revela su omnipotencia, superando las expectativas y las esperanzas del pueblo de la alianza» [MJV, catequesis 2]. María manifiesta «el sentimiento de su pequeñez»: «Proclama mi alma la grandeza del Señor» (Lc 1,46-48). Juan Pablo II subraya que «lo que atrae la benevolencia de Dios es sobre todo la humildad del corazón» [MJV, catequesis 2]. En el Magníficat, «Dios no sólo es el Poderoso, para el que nada es imposible, sino también el Misericordioso, capaz de ternura y fidelidad para con todo ser humano» [MJV, catequesis 2].
+
 ## Relaciones doctrinales
 
 El Magníficat es uno de los [[cántico_evangélico]] (junto con el Benedictus y el Nunc Dimittis). Se reza en las [[vísperas]] y expresa la [[oración]] de la Iglesia unida a [[virgen_maría]].
-
 
 ## Analizado para
 
@@ -32,12 +37,6 @@ El Magníficat es uno de los [[cántico_evangélico]] (junto con el Benedictus y
 
 ## Ver también
 [[virgen_maría]], [[cántico_evangélico]], [[vísperas]], [[oración]], [[alabanza]], [[visitación]], [[isabel]]
-
-### Según María, José y la vida oculta de Jesús (MJV)
-
-Juan Pablo II dedica una catequesis completa al Magníficat [MJV, catequesis 2]. El Magníficat es «la respuesta de la Virgen al misterio de la Anunciación: el ángel la había invitado a alegrarse, ahora María expresa el júbilo de su espíritu en Dios, su Salvador» [MJV, catequesis 2]. Es «la primicia de las diversas expresiones de culto, transmitidas de generación en generación, con las que la Iglesia manifiesta su amor a la Virgen de Nazaret» [MJV, catequesis 2].
-
-La expresión *Magnificat* «celebra la grandeza de Dios, que con el anuncio del ángel revela su omnipotencia, superando las expectativas y las esperanzas del pueblo de la alianza» [MJV, catequesis 2]. María manifiesta «el sentimiento de su pequeñez»: «Proclama mi alma la grandeza del Señor» (Lc 1,46-48). Juan Pablo II subraya que «lo que atrae la benevolencia de Dios es sobre todo la humildad del corazón» [MJV, catequesis 2]. En el Magníficat, «Dios no sólo es el Poderoso, para el que nada es imposible, sino también el Misericordioso, capaz de ternura y fidelidad para con todo ser humano» [MJV, catequesis 2].
 
 ## Referencias
 

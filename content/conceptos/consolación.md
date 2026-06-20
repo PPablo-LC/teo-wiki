@@ -1,7 +1,7 @@
 # Consolación
 
 > Área: Teología espiritual
-> Última actualización: 2026-06-02
+> Última actualización: 2026-06-19
 
 ## Definición
 
@@ -18,6 +18,12 @@ La consolación humana es limitada: ni los amigos ni las palabras pueden llenar 
 En la tristeza, la enfermedad, el luto y la persecución, el hombre necesita consolación. Pero la consolación humana es insuficiente: las palabras de Job fueron un peso más que un alivio (Job 16,2), y el hombre se queda solo con su dolor. Israel experimentó el abandono total en el exilio y pensó haber sido olvidada por Dios (Is 49,14). Pero Dios respondió: «Consolad, consolad a mi pueblo» (Is 40,1). Se revela como el verdadero Consolador, con la bondad de un pastor, el afecto de un padre, el ardor de un esposo, la ternura de una madre.
 
 Jesús se presenta como el Siervo esperado: «El Espíritu del Señor está sobre mí...» (Lc 4,18-21). Aporta consolación a los afligidos y pobres. No deja huérfanos a los suyos, sino que envía el Paráclito (Jn 14,16.26). Pablo descubre que la consolación brota de la desolación cuando se une al sufrimiento de Cristo (2Cor 1,8ss). Cristo es fuente de toda consolación (Flp 2,1), especialmente para los separados por la muerte (1Tes 4,18).
+
+### Según Una Visita de Dios (UVD)
+
+Juan Pablo II enseña que «sólo puede consolar el que ha sufrido el dolor y el desconsuelo» [UVD]. Cristo es el consolador por excelencia porque asumió todo el sufrimiento humano: «Él lo sabe! [...] Cristo nos enseña que la vida humana tiene sentido en cuanto que es un testimonio de la verdad y del amor» [UVD]. El Papa presenta la consolación como fruto de la unión con Cristo: «En la meditación de la pasión de Cristo encontraréis la fuerza para transformar el momentáneo peso de la enfermedad en una ofrenda santificante» [UVD].
+
+La Virgen María es presentada como «Consuelo de los afligidos»: «Junto al que sufre está siempre María Santísima» [UVD]. El acompañamiento al enfermo es obra de misericordia: «Acompañar al que sufre es amarle de verdad» [UVD]. El personal sanitario son «los "buenos samaritanos" de hoy» [UVD].
 
 ## Distinciones importantes
 

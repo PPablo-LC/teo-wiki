@@ -1,7 +1,7 @@
 # Familia
 
 > Área: Doctrina Social
-> Última actualización: 2026-06-17
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -47,6 +47,14 @@ León XIV aborda la familia en los §§165-169 de *Magnífica Humanitas*, descri
 
 León XIV definió la familia como «célula fundamental de la sociedad» en su discurso ante las Cortes, defendiendo la familia fundada en el matrimonio entre un hombre y una mujer como lugar primordial de educación en valores y transmisión de la fe [L_XIV-ViajeEspaña-2026, 06-Parlamento]. Afirmó: «La familia no es un modelo del pasado; es el futuro de toda sociedad que quiera perdurar» [L_XIV-ViajeEspaña-2026, 06-Parlamento]. En diversos encuentros con comunidades cristianas, se refirió a la familia como [[iglesia_doméstica]] [L_XIV-ViajeEspaña-2026].
 
+### Según la Familiaris Consortio (FC)
+
+La familia descubre en el designio de Dios Creador y Redentor no solo su «identidad», lo que «es», sino también su «misión», lo que puede y debe «hacer» (FC §17). Su primer cometido es vivir fielmente la realidad de la comunión con el empeño constante de desarrollar una auténtica comunidad de personas, fundada en el amor (FC §18). Es «célula primera y vital de la sociedad» (FC §42), lugar natural e instrumento más eficaz de humanización y de personalización de la sociedad (FC §43).
+
+La familia tiene cuatro cometidos fundamentales: 1) formación de una comunidad de personas; 2) servicio a la vida; 3) participación en el desarrollo de la sociedad; 4) participación en la vida y misión de la Iglesia (FC §17). El cometido social y político forma parte de la misión real o de servicio de los esposos cristianos (FC §47). La familia cristiana está llamada a ofrecer el testimonio de una entrega generosa a los problemas sociales, mediante la «opción preferencial» por los pobres y los marginados (FC §47).
+
+La Iglesia defiende los derechos de la familia contra las usurpaciones de la sociedad y del Estado (FC §46). El futuro de la humanidad se fragua en la familia (FC §86).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[matrimonio]], [[iglesia_doméstica]], [[santuario_de_la_vida]], [[bien_común]], [[subsidiariedad]], [[educación_de_los_hijos]]
@@ -59,9 +67,11 @@ Se relaciona con [[matrimonio]], [[iglesia_doméstica]], [[santuario_de_la_vida]
 - [[john_wissler_leading_with_charity]]
 - [[sean_glass_call_to_fortitude]]
 - [[stewart_teaching_kids_gospels]] — convergencia en la familia como iglesia doméstica; aporta testimonios contemporáneos y estrategias prácticas de lectura evangélica familiar, integrando la liturgia del día en la vida doméstica
+- [[familiaris_consortio]]
 
 ## Ver también
-[[matrimonio]], [[iglesia_doméstica]], [[santuario_de_la_vida]], [[educación_de_los_hijos]], [[bien_común]], [[subsidiariedad]], [[solidaridad]]
+
+[[matrimonio]], [[iglesia_doméstica]], [[santuario_de_la_vida]], [[educación_de_los_hijos]], [[bien_común]], [[subsidiariedad]], [[solidaridad]], [[familiaris_consortio]]
 
 ## Referencias
 
@@ -69,3 +79,4 @@ Se relaciona con [[matrimonio]], [[iglesia_doméstica]], [[santuario_de_la_vida]
 - [CompDS §230-242]
 - [CompDS §246-254]
 - [CIC cc. 226, 1135-1136]
+- [FC §17, §18, §42, §43, §46, §47, §86]

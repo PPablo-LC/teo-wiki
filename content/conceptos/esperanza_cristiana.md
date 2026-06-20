@@ -37,6 +37,12 @@ La esperanza cristiana se funda en las promesas de Dios, cumplidas en Jesucristo
 
 Se relaciona con [[virgen_maría]], [[fe]], [[caridad]], [[virtudes_teologales]], [[escatología]], [[iglesia_peregrina]], [[asunción_de_maría]].
 
+### Según Una Visita de Dios (UVD)
+
+Juan Pablo II presenta la esperanza como la respuesta fundamental al sufrimiento humano: «Jesús no vino a condenar el amor, sino a liberarlo de sus equívocos y falsificaciones» [UVD]. La esperanza cristiana se funda en la Resurrección: «¡La Resurrección es la fiesta cristiana!» [UVD]. El Papa afirma que «con Cristo el dolor se hizo puerta del Cielo» y que «como en el parto, del dolor nace la nueva vida» [UVD].
+
+La muerte no es el fin: «Con su muerte, Jesús revela que al final de la vida el hombre no está destinado a sumergirse en la oscuridad, en el vacío existencial, en la vorágine de la nada, sino que está invitado al encuentro con el Padre» [UVD]. El sufrimiento «puede ser el más fecundo» cuando se ofrece con Cristo, porque «Dios consuela más que los familiares y amigos» [UVD].
+
 ## Ver también
 
 [[virgen_maría]], [[virtudes_teologales]], [[escatología]], [[iglesia_peregrina]], [[asunción_de_maría]]
