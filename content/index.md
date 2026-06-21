@@ -12,368 +12,2239 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 ## Conceptos
 
 ### A
-  [[abandono_en_dios]], [[abandono_en_la_providencia_divina]], [[abnegación]], [[aborto]], [[absolución]], [[absolución_del_cómplice]], [[absolución_general]], [[abstinencia]], [[abstracción]]
-  [[abuso_espiritual]], [[abuso_sexual_de_menores]], [[acciones_de_gracias]], [[acciones_judiciales]], [[acción_católica]], [[acedia]], [[aceite]], [[acepción_de_personas]]
-  [[aceptación_de_la_voluntad_divina]], [[acomodación_bíblica]], [[acompañamiento_de_víctimas]], [[acompañamiento_espiritual]], [[acto]], [[acto_administrativo_canónico]], [[acto_humano]]
-  [[acto_jurídico_canónico]], [[acto_puro]], [[actos_humanos]], [[actos_nocionales]], [[ad_gentes]], [[adicciones]], [[adivinación]], [[administración]], [[administración_de_la_creación]]
-  [[administración_eclesiástica]], [[administrador_diocesano]], [[admirabile_commercium]], [[adopción_divina]], [[adopción_sobrenatural]], [[adoración]], [[adoración_eucarística]]
-  [[adquisición_de_bienes]], [[adulación]], [[adulto_vulnerable]], [[adviento]], [[advocaciones_eucarísticas]], [[advocaciones_marianas]], [[afabilidad]], [[afectividad]], [[afinidad]]
-  [[agilidad]], [[agua]], [[agua_bendita]], [[alabanza]], [[alabanza_divina]], [[alegría]], [[alegría_de_evangelizar]], [[alianza]], [[alianza_educativa]], [[alianzas]], [[alimento]], [[alma]]
-  [[alma_espiritual]], [[alma_separada]], [[almas_víctimas]], [[altar]], [[alter_christus]], [[ambición]], [[ambón]], [[amigo]], [[amistad_con_dios]], [[amonestación_canónica]], [[amor]]
-  [[amor_a_dios]], [[amor_a_los_enemigos]], [[amor_al_prójimo]], [[amor_conyugal]], [[amor_de_dios]], [[amor_humano]], [[amor_preferencial_por_los_pobres]], [[amor_propio]], [[amén]]
-  [[analogía]], [[analogía_de_la_fe]], [[analogía_del_ser]], [[ancianos]], [[animales]], [[anticoncepción]], [[anticristo]], [[antigua_alianza]], [[antiguo_testamento]], [[antisemitismo]]
-  [[antropología_cristiana]], [[anunciación]], [[apariciones]], [[apelación_canónica]], [[apetito]], [[aplicación_de_penas]], [[apocalipsis]], [[apologética]], [[apostasía]], [[apostolado]]
-  [[apostolado_de_los_laicos]], [[apostolado_seglar]], [[apostolicam_actuositatem]], [[apostolicidad]], [[apóstoles]], [[arca]], [[archivo]], [[arciprestazgo]], [[arrepentimiento]]
-  [[arrianismo]], [[arrobamiento]], [[arte]], [[arte_sacro]], [[ascensión]], [[ascensión_de_cristo]], [[ascética]], [[asociaciones]], [[asociaciones_de_fieles]], [[asociación_de_fieles]]
-  [[astros]], [[astucia]], [[asunción]], [[asunción_de_maría]], [[ateísmo]], [[atributos_divinos]], [[audacia]], [[aureolas]], [[autonomía_de_las_realidades_terrenas]]
-  [[autonomía_de_realidades_terrenas]], [[autoridad]], [[autoridad_civil]], [[autoridad_política]], [[avaricia]], [[avemaría]], [[ayuno]], [[ayuno_eucarístico]], [[año_jubilar]]
-  [[año_litúrgico]], [[año_mariano]]
+<div class="index-grid">
+
+- [[abandono_en_dios]]
+- [[abandono_en_la_providencia_divina]]
+- [[abnegación]]
+- [[aborto]]
+- [[absolución]]
+- [[absolución_del_cómplice]]
+- [[absolución_general]]
+- [[abstinencia]]
+- [[abstracción]]
+- [[abuso_espiritual]]
+- [[abuso_sexual_de_menores]]
+- [[acciones_de_gracias]]
+- [[acciones_judiciales]]
+- [[acción_católica]]
+- [[acedia]]
+- [[aceite]]
+- [[acepción_de_personas]]
+- [[aceptación_de_la_voluntad_divina]]
+- [[acomodación_bíblica]]
+- [[acompañamiento_de_víctimas]]
+- [[acompañamiento_espiritual]]
+- [[acto]]
+- [[acto_administrativo_canónico]]
+- [[acto_humano]]
+- [[acto_jurídico_canónico]]
+- [[acto_puro]]
+- [[actos_humanos]]
+- [[actos_nocionales]]
+- [[ad_gentes]]
+- [[adicciones]]
+- [[adivinación]]
+- [[administración]]
+- [[administración_de_la_creación]]
+- [[administración_eclesiástica]]
+- [[administrador_diocesano]]
+- [[admirabile_commercium]]
+- [[adopción_divina]]
+- [[adopción_sobrenatural]]
+- [[adoración]]
+- [[adoración_eucarística]]
+- [[adquisición_de_bienes]]
+- [[adulación]]
+- [[adulto_vulnerable]]
+- [[adviento]]
+- [[advocaciones_eucarísticas]]
+- [[advocaciones_marianas]]
+- [[afabilidad]]
+- [[afectividad]]
+- [[afinidad]]
+- [[agilidad]]
+- [[agua]]
+- [[agua_bendita]]
+- [[alabanza]]
+- [[alabanza_divina]]
+- [[alegría]]
+- [[alegría_de_evangelizar]]
+- [[alianza]]
+- [[alianza_educativa]]
+- [[alianzas]]
+- [[alimento]]
+- [[alma]]
+- [[alma_espiritual]]
+- [[alma_separada]]
+- [[almas_víctimas]]
+- [[altar]]
+- [[alter_christus]]
+- [[ambición]]
+- [[ambón]]
+- [[amigo]]
+- [[amistad_con_dios]]
+- [[amonestación_canónica]]
+- [[amor]]
+- [[amor_a_dios]]
+- [[amor_a_los_enemigos]]
+- [[amor_al_prójimo]]
+- [[amor_conyugal]]
+- [[amor_de_dios]]
+- [[amor_humano]]
+- [[amor_preferencial_por_los_pobres]]
+- [[amor_propio]]
+- [[amén]]
+- [[analogía]]
+- [[analogía_de_la_fe]]
+- [[analogía_del_ser]]
+- [[ancianos]]
+- [[animales]]
+- [[anticoncepción]]
+- [[anticristo]]
+- [[antigua_alianza]]
+- [[antiguo_testamento]]
+- [[antisemitismo]]
+- [[antropología_cristiana]]
+- [[anunciación]]
+- [[apariciones]]
+- [[apelación_canónica]]
+- [[apetito]]
+- [[aplicación_de_penas]]
+- [[apocalipsis]]
+- [[apologética]]
+- [[apostasía]]
+- [[apostolado]]
+- [[apostolado_de_los_laicos]]
+- [[apostolado_seglar]]
+- [[apostolicam_actuositatem]]
+- [[apostolicidad]]
+- [[apóstoles]]
+- [[arca]]
+- [[archivo]]
+- [[arciprestazgo]]
+- [[arrepentimiento]]
+- [[arrianismo]]
+- [[arrobamiento]]
+- [[arte]]
+- [[arte_sacro]]
+- [[ascensión]]
+- [[ascensión_de_cristo]]
+- [[ascética]]
+- [[asociaciones]]
+- [[asociaciones_de_fieles]]
+- [[asociación_de_fieles]]
+- [[astros]]
+- [[astucia]]
+- [[asunción]]
+- [[asunción_de_maría]]
+- [[ateísmo]]
+- [[atributos_divinos]]
+- [[audacia]]
+- [[aureolas]]
+- [[autonomía_de_las_realidades_terrenas]]
+- [[autonomía_de_realidades_terrenas]]
+- [[autoridad]]
+- [[autoridad_civil]]
+- [[autoridad_política]]
+- [[avaricia]]
+- [[avemaría]]
+- [[ayuno]]
+- [[ayuno_eucarístico]]
+- [[año_jubilar]]
+- [[año_litúrgico]]
+- [[año_mariano]]
+
+</div>
 
 ### B
-  [[babel]], [[baptisterio]], [[basílica]], [[bautismo]], [[bautismo_de_deseo]], [[bautismo_de_juan]], [[bautismo_de_sangre]], [[belleza]], [[bendición]], [[beneficencia]]
-  [[beneficio_eclesiástico]], [[bestia]], [[bien_común]], [[bien_común_mundial]], [[bien_y_mal]], [[bienaventuranza]], [[bienaventuranzas]], [[bienes_eclesiásticos]], [[bienes_temporales]]
-  [[bigamia]], [[bilocación]], [[blanco]], [[blasfemia]], [[bondad]], [[bonum_honestum]], [[brazo]], [[buen_samaritano]], [[burla]], [[buscar]]
+<div class="index-grid">
+
+- [[babel]]
+- [[baptisterio]]
+- [[basílica]]
+- [[bautismo]]
+- [[bautismo_de_deseo]]
+- [[bautismo_de_juan]]
+- [[bautismo_de_sangre]]
+- [[belleza]]
+- [[bendición]]
+- [[beneficencia]]
+- [[beneficio_eclesiástico]]
+- [[bestia]]
+- [[bien_común]]
+- [[bien_común_mundial]]
+- [[bien_y_mal]]
+- [[bienaventuranza]]
+- [[bienaventuranzas]]
+- [[bienes_eclesiásticos]]
+- [[bienes_temporales]]
+- [[bigamia]]
+- [[bilocación]]
+- [[blanco]]
+- [[blasfemia]]
+- [[bondad]]
+- [[bonum_honestum]]
+- [[brazo]]
+- [[buen_samaritano]]
+- [[burla]]
+- [[buscar]]
+
+</div>
 
 ### C
-  [[cabeza_de_la_iglesia]], [[cabildo_de_canónigos]], [[calamidad]], [[calendario_litúrgico]], [[calumnia]], [[camino]], [[camino_de_emaús]], [[canciller]], [[canonización]], [[canto_gregoriano]]
-  [[caná]], [[canónigo_penitenciario]], [[capilla]], [[capital_y_trabajo]], [[cardenales]], [[caridad]], [[caridad_pastoral]], [[caridad_política]], [[carismas]], [[carne]], [[carácter]]
-  [[carácter_eclesial_de_la_fe]], [[carácter_sacramental]], [[casa]], [[castidad]], [[castigos]], [[catecismo]], [[catecumenado]], [[catecúmeno]], [[catedral]], [[catequesis]]
-  [[catequesis_litúrgica]], [[catequesis_social]], [[catequista]], [[catequistas]], [[catolicidad]], [[caución]], [[causas_de_los_fenómenos_místicos]], [[cautividad]], [[caída_original]]
-  [[ceguera_de_la_mente]], [[ceguera_espiritual]], [[celibato]], [[celibato_sacerdotal]], [[celo]], [[cementerio]], [[censor_de_libros]], [[censura_eclesiástica]], [[censuras]]
-  [[christus_dominus]], [[cielo]], [[cielo_empíreo]], [[cielos_nuevos_y_tierra_nueva]], [[ciencia]], [[ciencia_de_cristo]], [[ciencia_y_fe]], [[circuminsesión]], [[circuncisión]]
-  [[circunspección]], [[circunstancias]], [[cirio_pascual]], [[cisma]], [[ciudadanía]], [[civilización_del_amor]], [[claridad]], [[clausura]], [[clemencia]], [[clericalismo]], [[clonación]]
-  [[clérigos]], [[coaching]], [[codicia]], [[colación_canónica]], [[colegialidad_episcopal]], [[colegio_apostólico]], [[colegio_cardenalicio]], [[colegio_de_consultores]], [[colegio_episcopal]]
-  [[combate_de_la_oración]], [[combate_espiritual]], [[comida]], [[como_una_madre_amorosa]], [[competencia_judicial]], [[complementariedad]], [[completas]], [[compromiso_social]]
-  [[comunicación]], [[comunicación_social]], [[comunicar_esperanza]], [[comunidad]], [[comunidad_internacional]], [[comunidad_política]], [[comunio_eclesiarum]], [[comunión]]
-  [[comunión_de_los_santos]], [[comunión_de_personas]], [[comunión_eclesial]], [[comunión_espiritual]], [[comunión_indigna]], [[concelebración]], [[concepción_virginal]], [[conciencia]]
-  [[conciencia_de_la_iglesia]], [[conciencia_moral]], [[concilio]], [[concilio_de_calcedonia]], [[concilio_de_nicea]], [[concilio_de_nicea_ii]], [[concilio_de_trento]], [[concilio_de_éfeso]]
-  [[concilio_ecuménico]], [[concilio_particular]], [[concilio_vaticano_i]], [[concilio_vaticano_ii]], [[concupiscencia]], [[conferencias_episcopales]], [[confesión]], [[confesión_de_la_fe]]
-  [[confesor]], [[confianza]], [[confianza_en_dios]], [[configuración_con_cristo]], [[confirmación]], [[conflagración_final]], [[conformidad_con_la_voluntad_de_dios]]
-  [[conformidad_con_la_voluntad_divina]], [[conjuro]], [[conocer]], [[conocimiento_angélico]], [[conocimiento_de_dios]], [[conocimiento_intelectual]], [[conocimiento_natural_de_dios]]
-  [[conocimiento_trinitario]], [[consagración]], [[consagración_a_maría]], [[consagración_del_mundo]], [[consagración_episcopal]], [[consagración_religiosa]], [[consanguinidad]]
-  [[consecuencialismo]], [[consejo]], [[consejo_de_asuntos_económicos]], [[consejo_presbiteral]], [[consejos_evangélicos]], [[consentimiento]], [[consentimiento_matrimonial]], [[conservación]]
-  [[consideración]], [[consolación]], [[constitución_dogmática]], [[consubstancial]], [[consubstancialidad]], [[consumación_de_los_siglos]], [[consumo]], [[contemplación]]
-  [[contemplación_de_la_pasión]], [[contemplación_infusa]], [[contemplación_mística]], [[contención]], [[continencia]], [[contrición]], [[contumacia]], [[contumelia]]
-  [[convalidación_del_matrimonio]], [[conversión]], [[conversión_misionera]], [[cooperación_al_mal]], [[copa]], [[corazón]], [[cordero_de_dios]], [[corpus_christi]], [[corrección_fraterna]]
-  [[corredención]], [[corresponsabilidad_laical]], [[cosa_juzgada]], [[costumbre_canónica]], [[creación]], [[crecimiento]], [[credibilidad]], [[cremación]], [[crisma]], [[cristianos_laicos]]
-  [[cristo]], [[cristo_juez]], [[cristo_maestro]], [[cristocentrismo]], [[cristología]], [[crucifixión]], [[crueldad]], [[crux]], [[cruz]], [[cuaresma]], [[cuarto_mandamiento]], [[cuerpo]]
-  [[cuerpo_glorioso]], [[cuerpo_místico]], [[cuerpos_celestes]], [[cuerpos_de_los_condenados]], [[cuerpos_gloriosos]], [[cuestión_obrera]], [[cuidado_pastoral]], [[cuidados]], [[culto]]
-  [[cultura]], [[cultura_de_la_vida]], [[cultura_del_encuentro]], [[cultura_del_poder]], [[cumplimiento_de_las_escrituras]], [[cumplimiento_de_las_profecías]], [[cumplir]], [[cura_animarum]]
-  [[cura_de_almas]], [[curia_diocesana]], [[curia_romana]], [[curiosidad]], [[custodia_del_corazón]], [[cántico_evangélico]], [[cómputo_del_tiempo]], [[cónclave]]
+<div class="index-grid">
+
+- [[cabeza_de_la_iglesia]]
+- [[cabildo_de_canónigos]]
+- [[calamidad]]
+- [[calendario_litúrgico]]
+- [[calumnia]]
+- [[camino]]
+- [[camino_de_emaús]]
+- [[canciller]]
+- [[canonización]]
+- [[canto_gregoriano]]
+- [[caná]]
+- [[canónigo_penitenciario]]
+- [[capilla]]
+- [[capital_y_trabajo]]
+- [[cardenales]]
+- [[caridad]]
+- [[caridad_pastoral]]
+- [[caridad_política]]
+- [[carismas]]
+- [[carne]]
+- [[carácter]]
+- [[carácter_eclesial_de_la_fe]]
+- [[carácter_sacramental]]
+- [[casa]]
+- [[castidad]]
+- [[castigos]]
+- [[catecismo]]
+- [[catecumenado]]
+- [[catecúmeno]]
+- [[catedral]]
+- [[catequesis]]
+- [[catequesis_litúrgica]]
+- [[catequesis_social]]
+- [[catequista]]
+- [[catequistas]]
+- [[catolicidad]]
+- [[caución]]
+- [[causas_de_los_fenómenos_místicos]]
+- [[cautividad]]
+- [[caída_original]]
+- [[ceguera_de_la_mente]]
+- [[ceguera_espiritual]]
+- [[celibato]]
+- [[celibato_sacerdotal]]
+- [[celo]]
+- [[cementerio]]
+- [[censor_de_libros]]
+- [[censura_eclesiástica]]
+- [[censuras]]
+- [[christus_dominus]]
+- [[cielo]]
+- [[cielo_empíreo]]
+- [[cielos_nuevos_y_tierra_nueva]]
+- [[ciencia]]
+- [[ciencia_de_cristo]]
+- [[ciencia_y_fe]]
+- [[circuminsesión]]
+- [[circuncisión]]
+- [[circunspección]]
+- [[circunstancias]]
+- [[cirio_pascual]]
+- [[cisma]]
+- [[ciudadanía]]
+- [[civilización_del_amor]]
+- [[claridad]]
+- [[clausura]]
+- [[clemencia]]
+- [[clericalismo]]
+- [[clonación]]
+- [[clérigos]]
+- [[coaching]]
+- [[codicia]]
+- [[colación_canónica]]
+- [[colegialidad_episcopal]]
+- [[colegio_apostólico]]
+- [[colegio_cardenalicio]]
+- [[colegio_de_consultores]]
+- [[colegio_episcopal]]
+- [[combate_de_la_oración]]
+- [[combate_espiritual]]
+- [[comida]]
+- [[como_una_madre_amorosa]]
+- [[competencia_judicial]]
+- [[complementariedad]]
+- [[completas]]
+- [[compromiso_social]]
+- [[comunicación]]
+- [[comunicación_social]]
+- [[comunicar_esperanza]]
+- [[comunidad]]
+- [[comunidad_internacional]]
+- [[comunidad_política]]
+- [[comunio_eclesiarum]]
+- [[comunión]]
+- [[comunión_de_los_santos]]
+- [[comunión_de_personas]]
+- [[comunión_eclesial]]
+- [[comunión_espiritual]]
+- [[comunión_indigna]]
+- [[concelebración]]
+- [[concepción_virginal]]
+- [[conciencia]]
+- [[conciencia_de_la_iglesia]]
+- [[conciencia_moral]]
+- [[concilio]]
+- [[concilio_de_calcedonia]]
+- [[concilio_de_nicea]]
+- [[concilio_de_nicea_ii]]
+- [[concilio_de_trento]]
+- [[concilio_de_éfeso]]
+- [[concilio_ecuménico]]
+- [[concilio_particular]]
+- [[concilio_vaticano_i]]
+- [[concilio_vaticano_ii]]
+- [[concupiscencia]]
+- [[conferencias_episcopales]]
+- [[confesión]]
+- [[confesión_de_la_fe]]
+- [[confesor]]
+- [[confianza]]
+- [[confianza_en_dios]]
+- [[configuración_con_cristo]]
+- [[confirmación]]
+- [[conflagración_final]]
+- [[conformidad_con_la_voluntad_de_dios]]
+- [[conformidad_con_la_voluntad_divina]]
+- [[conjuro]]
+- [[conocer]]
+- [[conocimiento_angélico]]
+- [[conocimiento_de_dios]]
+- [[conocimiento_intelectual]]
+- [[conocimiento_natural_de_dios]]
+- [[conocimiento_trinitario]]
+- [[consagración]]
+- [[consagración_a_maría]]
+- [[consagración_del_mundo]]
+- [[consagración_episcopal]]
+- [[consagración_religiosa]]
+- [[consanguinidad]]
+- [[consecuencialismo]]
+- [[consejo]]
+- [[consejo_de_asuntos_económicos]]
+- [[consejo_presbiteral]]
+- [[consejos_evangélicos]]
+- [[consentimiento]]
+- [[consentimiento_matrimonial]]
+- [[conservación]]
+- [[consideración]]
+- [[consolación]]
+- [[constitución_dogmática]]
+- [[consubstancial]]
+- [[consubstancialidad]]
+- [[consumación_de_los_siglos]]
+- [[consumo]]
+- [[contemplación]]
+- [[contemplación_de_la_pasión]]
+- [[contemplación_infusa]]
+- [[contemplación_mística]]
+- [[contención]]
+- [[continencia]]
+- [[contrición]]
+- [[contumacia]]
+- [[contumelia]]
+- [[convalidación_del_matrimonio]]
+- [[conversión]]
+- [[conversión_misionera]]
+- [[cooperación_al_mal]]
+- [[copa]]
+- [[corazón]]
+- [[cordero_de_dios]]
+- [[corpus_christi]]
+- [[corrección_fraterna]]
+- [[corredención]]
+- [[corresponsabilidad_laical]]
+- [[cosa_juzgada]]
+- [[costumbre_canónica]]
+- [[creación]]
+- [[crecimiento]]
+- [[credibilidad]]
+- [[cremación]]
+- [[crisma]]
+- [[cristianos_laicos]]
+- [[cristo]]
+- [[cristo_juez]]
+- [[cristo_maestro]]
+- [[cristocentrismo]]
+- [[cristología]]
+- [[crucifixión]]
+- [[crueldad]]
+- [[crux]]
+- [[cruz]]
+- [[cuaresma]]
+- [[cuarto_mandamiento]]
+- [[cuerpo]]
+- [[cuerpo_glorioso]]
+- [[cuerpo_místico]]
+- [[cuerpos_celestes]]
+- [[cuerpos_de_los_condenados]]
+- [[cuerpos_gloriosos]]
+- [[cuestión_obrera]]
+- [[cuidado_pastoral]]
+- [[cuidados]]
+- [[culto]]
+- [[cultura]]
+- [[cultura_de_la_vida]]
+- [[cultura_del_encuentro]]
+- [[cultura_del_poder]]
+- [[cumplimiento_de_las_escrituras]]
+- [[cumplimiento_de_las_profecías]]
+- [[cumplir]]
+- [[cura_animarum]]
+- [[cura_de_almas]]
+- [[curia_diocesana]]
+- [[curia_romana]]
+- [[curiosidad]]
+- [[custodia_del_corazón]]
+- [[cántico_evangélico]]
+- [[cómputo_del_tiempo]]
+- [[cónclave]]
+
+</div>
 
 ### D
-  [[deber]], [[decreto_general]], [[decreto_singular]], [[decálogo]], [[dedicación_de_una_iglesia]], [[dei_verbum]], [[delectación]], [[delectación_morosa]], [[delicta_graviora]], [[delito]]
-  [[delitos_canónicos]], [[delitos_contra_el_sexto_mandamiento]], [[demanda_canónica]], [[democracia]], [[demonio]], [[deposición]], [[depósito_de_la_fe]], [[derecho]], [[derecho_a_no_emigrar]]
-  [[derecho_canónico]], [[derecho_internacional]], [[derecho_penal_canónico]], [[derechos_de_la_familia]], [[derechos_de_los_fieles]], [[derechos_de_los_trabajadores]], [[derechos_humanos]]
-  [[derechos_y_deberes_de_los_fieles]], [[desaliento]], [[desapego]], [[desarme]], [[desarrollo_integral]], [[desarrollo_sostenible]], [[descanso]], [[descanso_festivo]]
-  [[descenso_a_los_infiernos]], [[desempleo]], [[deseo]], [[deseo_de_dios]], [[deseo_de_perfección]], [[desesperación]], [[desierto]], [[designación_episcopal]], [[designio_de_dios]]
-  [[desobediencia]], [[desolación_espiritual]], [[desposorio_espiritual]], [[desprendimiento]], [[destino_universal_de_los_bienes]], [[detracción]], [[deuda_externa]], [[devocionalismo]]
-  [[devociones]], [[devociones_marianas]], [[devociones_populares]], [[devoción]], [[diaconado]], [[diaconado_permanente]], [[dicasterio_para_la_doctrina_de_la_fe]], [[dicasterios_de_la_curia]]
-  [[diestra]], [[diezmos]], [[dignidad_de_la_mujer]], [[dignidad_de_la_persona]], [[dignidad_del_nacer]], [[dignidad_del_trabajo]], [[dignidad_humana]], [[dignidad_ontológica]]
-  [[dignitatis_humanae]], [[diluvio]], [[dimensión_vertical_de_la_historia]], [[dimisión_del_estado_clerical]], [[dimisorias]], [[dios]], [[dios_padre]], [[dirección_espiritual]]
-  [[discernimiento]], [[discernimiento_de_espíritus]], [[disciplina_espiritual]], [[disciplina_judicial]], [[discipulado]], [[discipulado_misionero]], [[discordia]], [[discípulo]]
-  [[disparidad_de_culto]], [[dispensa_canónica]], [[dispersión]], [[divinización]], [[divorciados_vueltos_a_casar]], [[divorcio]], [[diácono]], [[diálogo_de_la_salvación]], [[diálogo_ecuménico]]
-  [[diálogo_fe_y_ciencia]], [[diálogo_interreligioso]], [[diócesis]], [[docilidad]], [[doctores_de_la_iglesia]], [[doctrina_social_de_la_iglesia]], [[doctrina_social_naturaleza]]
-  [[documentos_eclesiásticos]], [[dogma]], [[dogmas]], [[dolor]], [[dolor_cristiano]], [[domicilio_canónico]], [[domingo]], [[domingo_de_resurrección]], [[dominio_sobre_la_creación]], [[don]]
-  [[don_de_ciencia]], [[don_de_consejo]], [[don_de_entendimiento]], [[don_de_fortaleza]], [[don_de_lenguas]], [[don_de_piedad]], [[don_de_sabiduría]], [[don_de_temor]], [[don_de_temor_de_dios]]
-  [[don_del_espíritu_santo]], [[dones_de_entendimiento]], [[dones_del_espíritu_santo]], [[dotes]], [[duda]], [[dulzura]], [[dulía]], [[débito_conyugal]], [[décimo_mandamiento]], [[día_del_señor]]
-  [[días_de_penitencia]], [[días_de_precepto]]
+<div class="index-grid">
+
+- [[deber]]
+- [[decreto_general]]
+- [[decreto_singular]]
+- [[decálogo]]
+- [[dedicación_de_una_iglesia]]
+- [[dei_verbum]]
+- [[delectación]]
+- [[delectación_morosa]]
+- [[delicta_graviora]]
+- [[delito]]
+- [[delitos_canónicos]]
+- [[delitos_contra_el_sexto_mandamiento]]
+- [[demanda_canónica]]
+- [[democracia]]
+- [[demonio]]
+- [[deposición]]
+- [[depósito_de_la_fe]]
+- [[derecho]]
+- [[derecho_a_no_emigrar]]
+- [[derecho_canónico]]
+- [[derecho_internacional]]
+- [[derecho_penal_canónico]]
+- [[derechos_de_la_familia]]
+- [[derechos_de_los_fieles]]
+- [[derechos_de_los_trabajadores]]
+- [[derechos_humanos]]
+- [[derechos_y_deberes_de_los_fieles]]
+- [[desaliento]]
+- [[desapego]]
+- [[desarme]]
+- [[desarrollo_integral]]
+- [[desarrollo_sostenible]]
+- [[descanso]]
+- [[descanso_festivo]]
+- [[descenso_a_los_infiernos]]
+- [[desempleo]]
+- [[deseo]]
+- [[deseo_de_dios]]
+- [[deseo_de_perfección]]
+- [[desesperación]]
+- [[desierto]]
+- [[designación_episcopal]]
+- [[designio_de_dios]]
+- [[desobediencia]]
+- [[desolación_espiritual]]
+- [[desposorio_espiritual]]
+- [[desprendimiento]]
+- [[destino_universal_de_los_bienes]]
+- [[detracción]]
+- [[deuda_externa]]
+- [[devocionalismo]]
+- [[devociones]]
+- [[devociones_marianas]]
+- [[devociones_populares]]
+- [[devoción]]
+- [[diaconado]]
+- [[diaconado_permanente]]
+- [[dicasterio_para_la_doctrina_de_la_fe]]
+- [[dicasterios_de_la_curia]]
+- [[diestra]]
+- [[diezmos]]
+- [[dignidad_de_la_mujer]]
+- [[dignidad_de_la_persona]]
+- [[dignidad_del_nacer]]
+- [[dignidad_del_trabajo]]
+- [[dignidad_humana]]
+- [[dignidad_ontológica]]
+- [[dignitatis_humanae]]
+- [[diluvio]]
+- [[dimensión_vertical_de_la_historia]]
+- [[dimisión_del_estado_clerical]]
+- [[dimisorias]]
+- [[dios]]
+- [[dios_padre]]
+- [[dirección_espiritual]]
+- [[discernimiento]]
+- [[discernimiento_de_espíritus]]
+- [[disciplina_espiritual]]
+- [[disciplina_judicial]]
+- [[discipulado]]
+- [[discipulado_misionero]]
+- [[discordia]]
+- [[discípulo]]
+- [[disparidad_de_culto]]
+- [[dispensa_canónica]]
+- [[dispersión]]
+- [[divinización]]
+- [[divorciados_vueltos_a_casar]]
+- [[divorcio]]
+- [[diácono]]
+- [[diálogo_de_la_salvación]]
+- [[diálogo_ecuménico]]
+- [[diálogo_fe_y_ciencia]]
+- [[diálogo_interreligioso]]
+- [[diócesis]]
+- [[docilidad]]
+- [[doctores_de_la_iglesia]]
+- [[doctrina_social_de_la_iglesia]]
+- [[doctrina_social_naturaleza]]
+- [[documentos_eclesiásticos]]
+- [[dogma]]
+- [[dogmas]]
+- [[dolor]]
+- [[dolor_cristiano]]
+- [[domicilio_canónico]]
+- [[domingo]]
+- [[domingo_de_resurrección]]
+- [[dominio_sobre_la_creación]]
+- [[don]]
+- [[don_de_ciencia]]
+- [[don_de_consejo]]
+- [[don_de_entendimiento]]
+- [[don_de_fortaleza]]
+- [[don_de_lenguas]]
+- [[don_de_piedad]]
+- [[don_de_sabiduría]]
+- [[don_de_temor]]
+- [[don_de_temor_de_dios]]
+- [[don_del_espíritu_santo]]
+- [[dones_de_entendimiento]]
+- [[dones_del_espíritu_santo]]
+- [[dotes]]
+- [[duda]]
+- [[dulzura]]
+- [[dulía]]
+- [[débito_conyugal]]
+- [[décimo_mandamiento]]
+- [[día_del_señor]]
+- [[días_de_penitencia]]
+- [[días_de_precepto]]
+
+</div>
 
 ### E
-  [[ecclesia_semper_reformanda]], [[eclesiología]], [[eclesiología_de_la_comunión]], [[ecología]], [[ecología_de_la_comunicación]], [[ecología_humana]], [[ecología_integral]], [[economismo]]
-  [[economía]], [[economía_de_mercado]], [[ecumenismo]], [[ecumenismo_espiritual]], [[ecónomo]], [[edificación_de_la_iglesia]], [[edificar]], [[educación]], [[educación_católica]]
-  [[educación_de_los_hijos]], [[educación_litúrgica]], [[egipto]], [[ejemplo]], [[eleccion_divina]], [[elección]], [[elección_canónica]], [[elección_humana]], [[elección_pontificia]]
-  [[elevación_sobrenatural]], [[embotamiento_del_sentido]], [[embotamiento_espiritual]], [[embriaguez]], [[emigración_por_trabajo]], [[emociones_y_fe]], [[emotivismo]], [[empresa]]
-  [[empresario]], [[enajenación_de_bienes]], [[encarnación]], [[encuentro_con_cristo]], [[endurecimiento]], [[enemigo]], [[enemigos_del_alma]], [[energúmeno]], [[enfermedad]]
-  [[enfermedad_y_curación]], [[enseñanza_de_cristo]], [[enseñar]], [[entendimiento]], [[entendimiento_agente]], [[entrada_en_jerusalén]], [[entrada_en_religión]], [[entredicho]], [[entrega]]
-  [[entrenamiento]], [[envidia]], [[epifanía]], [[epiqueya]], [[episcopado]], [[ermitaño]], [[error]], [[escapulario]], [[escatología]], [[esclavo]], [[escritura]], [[escrupulosidad]]
-  [[escucha]], [[escuchar]], [[escuela]], [[escuela_católica]], [[escuela_de_salamanca]], [[escándalo]], [[esencia_divina]], [[esencia_y_existencia]], [[especie_impresa]]
-  [[especies_inteligibles]], [[especies_sacramentales]], [[esperanza]], [[esperanza_cristiana]], [[esperanza_de_la_resurrección]], [[espiritualidad]], [[espiritualidad_del_trabajo]]
-  [[espiritualidad_mariana]], [[espiritualidad_sacerdotal]], [[espiritualidad_seglar]], [[esposa]], [[esposo]], [[espíritu]], [[espíritu_santo]], [[estado]], [[estado_de_bienestar]]
-  [[estado_de_perfección]], [[estado_intermedio]], [[estado_religioso]], [[estado_sacerdotal]], [[estado_seglar]], [[estado_teológico]], [[estatuto_canónico]], [[esterilidad]]
-  [[estigmatización]], [[estructuras_de_pecado]], [[estudiosidad]], [[eternidad]], [[eubulia]], [[eucaristía]], [[europa_cristiana]], [[eutrapelia]], [[evangelio]], [[evangelio_del_trabajo]]
-  [[evangelios]], [[evangelización]], [[evangelización_de_europa]], [[evangelización_de_la_cultura]], [[exaltación_de_cristo]], [[examen_de_conciencia]], [[excardinación]], [[excelencia]]
-  [[excomunión]], [[exequias]], [[exhortar]], [[exilio]], [[exorcismo]], [[expiación]], [[extra_ecclesiam_nulla_salus]], [[extranjero]], [[exégesis_patrística]]
+<div class="index-grid">
+
+- [[ecclesia_semper_reformanda]]
+- [[eclesiología]]
+- [[eclesiología_de_la_comunión]]
+- [[ecología]]
+- [[ecología_de_la_comunicación]]
+- [[ecología_humana]]
+- [[ecología_integral]]
+- [[economismo]]
+- [[economía]]
+- [[economía_de_mercado]]
+- [[ecumenismo]]
+- [[ecumenismo_espiritual]]
+- [[ecónomo]]
+- [[edificación_de_la_iglesia]]
+- [[edificar]]
+- [[educación]]
+- [[educación_católica]]
+- [[educación_de_los_hijos]]
+- [[educación_litúrgica]]
+- [[egipto]]
+- [[ejemplo]]
+- [[eleccion_divina]]
+- [[elección]]
+- [[elección_canónica]]
+- [[elección_humana]]
+- [[elección_pontificia]]
+- [[elevación_sobrenatural]]
+- [[embotamiento_del_sentido]]
+- [[embotamiento_espiritual]]
+- [[embriaguez]]
+- [[emigración_por_trabajo]]
+- [[emociones_y_fe]]
+- [[emotivismo]]
+- [[empresa]]
+- [[empresario]]
+- [[enajenación_de_bienes]]
+- [[encarnación]]
+- [[encuentro_con_cristo]]
+- [[endurecimiento]]
+- [[enemigo]]
+- [[enemigos_del_alma]]
+- [[energúmeno]]
+- [[enfermedad]]
+- [[enfermedad_y_curación]]
+- [[enseñanza_de_cristo]]
+- [[enseñar]]
+- [[entendimiento]]
+- [[entendimiento_agente]]
+- [[entrada_en_jerusalén]]
+- [[entrada_en_religión]]
+- [[entredicho]]
+- [[entrega]]
+- [[entrenamiento]]
+- [[envidia]]
+- [[epifanía]]
+- [[epiqueya]]
+- [[episcopado]]
+- [[ermitaño]]
+- [[error]]
+- [[escapulario]]
+- [[escatología]]
+- [[esclavo]]
+- [[escritura]]
+- [[escrupulosidad]]
+- [[escucha]]
+- [[escuchar]]
+- [[escuela]]
+- [[escuela_católica]]
+- [[escuela_de_salamanca]]
+- [[escándalo]]
+- [[esencia_divina]]
+- [[esencia_y_existencia]]
+- [[especie_impresa]]
+- [[especies_inteligibles]]
+- [[especies_sacramentales]]
+- [[esperanza]]
+- [[esperanza_cristiana]]
+- [[esperanza_de_la_resurrección]]
+- [[espiritualidad]]
+- [[espiritualidad_del_trabajo]]
+- [[espiritualidad_mariana]]
+- [[espiritualidad_sacerdotal]]
+- [[espiritualidad_seglar]]
+- [[esposa]]
+- [[esposo]]
+- [[espíritu]]
+- [[espíritu_santo]]
+- [[estado]]
+- [[estado_de_bienestar]]
+- [[estado_de_perfección]]
+- [[estado_intermedio]]
+- [[estado_religioso]]
+- [[estado_sacerdotal]]
+- [[estado_seglar]]
+- [[estado_teológico]]
+- [[estatuto_canónico]]
+- [[esterilidad]]
+- [[estigmatización]]
+- [[estructuras_de_pecado]]
+- [[estudiosidad]]
+- [[eternidad]]
+- [[eubulia]]
+- [[eucaristía]]
+- [[europa_cristiana]]
+- [[eutrapelia]]
+- [[evangelio]]
+- [[evangelio_del_trabajo]]
+- [[evangelios]]
+- [[evangelización]]
+- [[evangelización_de_europa]]
+- [[evangelización_de_la_cultura]]
+- [[exaltación_de_cristo]]
+- [[examen_de_conciencia]]
+- [[excardinación]]
+- [[excelencia]]
+- [[excomunión]]
+- [[exequias]]
+- [[exhortar]]
+- [[exilio]]
+- [[exorcismo]]
+- [[expiación]]
+- [[extra_ecclesiam_nulla_salus]]
+- [[extranjero]]
+- [[exégesis_patrística]]
+
+</div>
 
 ### F
-  [[falsedad]], [[falso_misticismo]], [[fama]], [[familia]], [[familia_de_las_naciones]], [[fariseos]], [[fe]], [[fe_católica]], [[fe_de_abraham]], [[fe_de_la_iglesia]], [[fe_de_maría]]
-  [[fe_en_dios]], [[fe_y_las_obras]], [[fe_y_razón]], [[fecundidad]], [[federación_regnum_christi]], [[feminidad]], [[fenómenos_místicos]], [[fenómenos_místicos_causa_divina]], [[fervor]]
-  [[fiat]], [[fidelidad]], [[fidelidad_a_la_gracia]], [[fidelidad_creativa]], [[fiel_cristiano]], [[fiestas]], [[figura]], [[filiación_divina]], [[filosofía_cristiana]]
-  [[fin_de_la_vida_cristiana]], [[fin_último]], [[fines_de_la_pena_canónica]], [[firmamento]], [[forma_canónica]], [[forma_de_la_eucaristía]], [[formación]], [[formación_cristiana]]
-  [[formación_espiritual]], [[formación_humana]], [[formación_pastoral]], [[formación_permanente]], [[formación_progresiva]], [[formación_sacerdotal]], [[fortaleza]], [[fraternidad]]
-  [[fraternidad_presbiteral]], [[fraternidad_universal]], [[fraude]], [[fruición]], [[fruto]], [[frutos_del_espíritu_santo]], [[fuego]], [[fuerza]], [[función_social_de_la_propiedad]]
-  [[fundación_pía]], [[funerales]]
+<div class="index-grid">
+
+- [[falsedad]]
+- [[falso_misticismo]]
+- [[fama]]
+- [[familia]]
+- [[familia_de_las_naciones]]
+- [[fariseos]]
+- [[fe]]
+- [[fe_católica]]
+- [[fe_de_abraham]]
+- [[fe_de_la_iglesia]]
+- [[fe_de_maría]]
+- [[fe_en_dios]]
+- [[fe_y_las_obras]]
+- [[fe_y_razón]]
+- [[fecundidad]]
+- [[federación_regnum_christi]]
+- [[feminidad]]
+- [[fenómenos_místicos]]
+- [[fenómenos_místicos_causa_divina]]
+- [[fervor]]
+- [[fiat]]
+- [[fidelidad]]
+- [[fidelidad_a_la_gracia]]
+- [[fidelidad_creativa]]
+- [[fiel_cristiano]]
+- [[fiestas]]
+- [[figura]]
+- [[filiación_divina]]
+- [[filosofía_cristiana]]
+- [[fin_de_la_vida_cristiana]]
+- [[fin_último]]
+- [[fines_de_la_pena_canónica]]
+- [[firmamento]]
+- [[forma_canónica]]
+- [[forma_de_la_eucaristía]]
+- [[formación]]
+- [[formación_cristiana]]
+- [[formación_espiritual]]
+- [[formación_humana]]
+- [[formación_pastoral]]
+- [[formación_permanente]]
+- [[formación_progresiva]]
+- [[formación_sacerdotal]]
+- [[fortaleza]]
+- [[fraternidad]]
+- [[fraternidad_presbiteral]]
+- [[fraternidad_universal]]
+- [[fraude]]
+- [[fruición]]
+- [[fruto]]
+- [[frutos_del_espíritu_santo]]
+- [[fuego]]
+- [[fuerza]]
+- [[función_social_de_la_propiedad]]
+- [[fundación_pía]]
+- [[funerales]]
+
+</div>
 
 ### G
-  [[gaudete_et_exsultate]], [[gaudium_et_spes]], [[generación]], [[gestos_y_posturas]], [[globalización]], [[gloria]], [[gloria_de_dios]], [[gloria_oculta]], [[gnome]], [[gobierno_divino]]
-  [[gobierno_religioso]], [[gozo]], [[gozo_espiritual]], [[gracia]], [[gracia_actual]], [[gracia_de_unión]], [[gracia_habitual]], [[gracia_sacramental]], [[gracia_santificante]]
-  [[gracias_actuales]], [[gracias_gratis_dadas]], [[grados_de_oración]], [[gran_mandamiento]], [[gratitud]], [[gratuidad]], [[gravissimum_educationis]], [[guardia_del_corazón]], [[guerra]]
-  [[guerra_justa]], [[gula]], [[gustar]], [[géneros_literarios]], [[géneros_literarios_bíblicos]]
+<div class="index-grid">
+
+- [[gaudete_et_exsultate]]
+- [[gaudium_et_spes]]
+- [[generación]]
+- [[gestos_y_posturas]]
+- [[globalización]]
+- [[gloria]]
+- [[gloria_de_dios]]
+- [[gloria_oculta]]
+- [[gnome]]
+- [[gobierno_divino]]
+- [[gobierno_religioso]]
+- [[gozo]]
+- [[gozo_espiritual]]
+- [[gracia]]
+- [[gracia_actual]]
+- [[gracia_de_unión]]
+- [[gracia_habitual]]
+- [[gracia_sacramental]]
+- [[gracia_santificante]]
+- [[gracias_actuales]]
+- [[gracias_gratis_dadas]]
+- [[grados_de_oración]]
+- [[gran_mandamiento]]
+- [[gratitud]]
+- [[gratuidad]]
+- [[gravissimum_educationis]]
+- [[guardia_del_corazón]]
+- [[guerra]]
+- [[guerra_justa]]
+- [[gula]]
+- [[gustar]]
+- [[géneros_literarios]]
+- [[géneros_literarios_bíblicos]]
+
+</div>
 
 ### H
-  [[hado]], [[hambre_y_sed]], [[hebreo]], [[heredero_del_reino]], [[herejía]], [[herencia]], [[hermano]], [[hermenéutica_bíblica]], [[hesed]], [[hierognosis]], [[hijo]], [[hijo_del_hombre]]
-  [[hijos_ilegítimos]], [[hiperdulía]], [[hipocresía]], [[hipócrita]], [[historia_de_la_salvación]], [[hombre]], [[hombre_nuevo]], [[homicidio]], [[homilía]], [[homoousios]]
-  [[honestidad_virtud]], [[hora]], [[hospitalidad]], [[huelga]], [[humanismo_integral]], [[humildad]], [[humildad_de_maría]], [[hurto]], [[hábito]]
+<div class="index-grid">
+
+- [[hado]]
+- [[hambre_y_sed]]
+- [[hebreo]]
+- [[heredero_del_reino]]
+- [[herejía]]
+- [[herencia]]
+- [[hermano]]
+- [[hermenéutica_bíblica]]
+- [[hesed]]
+- [[hierognosis]]
+- [[hijo]]
+- [[hijo_del_hombre]]
+- [[hijos_ilegítimos]]
+- [[hiperdulía]]
+- [[hipocresía]]
+- [[hipócrita]]
+- [[historia_de_la_salvación]]
+- [[hombre]]
+- [[hombre_nuevo]]
+- [[homicidio]]
+- [[homilía]]
+- [[homoousios]]
+- [[honestidad_virtud]]
+- [[hora]]
+- [[hospitalidad]]
+- [[huelga]]
+- [[humanismo_integral]]
+- [[humildad]]
+- [[humildad_de_maría]]
+- [[hurto]]
+- [[hábito]]
+
+</div>
 
 ### I
-  [[iconografía_mariana]], [[ideas_divinas]], [[identidad_cristiana]], [[identidad_nacional]], [[identidad_sacerdotal]], [[idolatría]], [[iglesia]], [[iglesia_al_servicio_del_mundo]]
-  [[iglesia_como_sacramento_universal_de_salvación]], [[iglesia_cuerpo_místico]], [[iglesia_doméstica]], [[iglesia_misionera]], [[iglesia_particular]], [[iglesia_peregrina]], [[iglesia_y_estado]]
-  [[iglesias_orientales]], [[iglesias_particulares]], [[ignorancia]], [[igualdad]], [[igualdad_fundamental]], [[imagen_de_dios]], [[imagen_del_hijo]], [[imitacion_de_cristo]], [[impassibilidad]]
-  [[impavidez]], [[impedimentos_dirimentes]], [[imperativo_categórico]], [[imperfección]], [[imperio]], [[imposición_de_manos]], [[impotencia]], [[imprimatur]], [[imprudencia]], [[imputabilidad]]
-  [[imputabilidad_canónica]], [[impío]], [[imágenes_sagradas]], [[in_persona_christi]], [[incardinación]], [[incendios_de_amor]], [[inconsideracion]], [[incontinencia]], [[incorrupción]]
-  [[incorruptibilidad]], [[incredulidad]], [[increencia]], [[inculturación]], [[indisolubilidad]], [[indulgencias]], [[inedia]], [[infalibilidad]], [[infancia_espiritual]], [[infierno]]
-  [[infinitud_divina]], [[ingratitud]], [[inhabitación_trinitaria]], [[iniciación_cristiana]], [[injusticia]], [[injusticias_judiciales]], [[inmaculada_concepción]], [[inmortalidad]]
-  [[inmutabilidad_divina]], [[inspiración]], [[inspiración_bíblica]], [[instancia_judicial]], [[instituto_de_vida_consagrada]], [[instituto_religioso]], [[instituto_secular]], [[instrucción]]
-  [[integridad]], [[intelecto_posible]], [[inteligencia]], [[inteligencia_artificial]], [[intemperancia]], [[intención]], [[inter_mirifica]], [[intercesión]], [[intercesión_de_los_santos]]
-  [[interpretación_de_la_escritura]], [[interpretación_de_la_ley]], [[introducción_a_la_teología_de_la_perfección]], [[investigación_previa_canónica]], [[ira]], [[ironía]], [[irreligión]]
-  [[islam]], [[israel]]
+<div class="index-grid">
+
+- [[iconografía_mariana]]
+- [[ideas_divinas]]
+- [[identidad_cristiana]]
+- [[identidad_nacional]]
+- [[identidad_sacerdotal]]
+- [[idolatría]]
+- [[iglesia]]
+- [[iglesia_al_servicio_del_mundo]]
+- [[iglesia_como_sacramento_universal_de_salvación]]
+- [[iglesia_cuerpo_místico]]
+- [[iglesia_doméstica]]
+- [[iglesia_misionera]]
+- [[iglesia_particular]]
+- [[iglesia_peregrina]]
+- [[iglesia_y_estado]]
+- [[iglesias_orientales]]
+- [[iglesias_particulares]]
+- [[ignorancia]]
+- [[igualdad]]
+- [[igualdad_fundamental]]
+- [[imagen_de_dios]]
+- [[imagen_del_hijo]]
+- [[imitacion_de_cristo]]
+- [[impassibilidad]]
+- [[impavidez]]
+- [[impedimentos_dirimentes]]
+- [[imperativo_categórico]]
+- [[imperfección]]
+- [[imperio]]
+- [[imposición_de_manos]]
+- [[impotencia]]
+- [[imprimatur]]
+- [[imprudencia]]
+- [[imputabilidad]]
+- [[imputabilidad_canónica]]
+- [[impío]]
+- [[imágenes_sagradas]]
+- [[in_persona_christi]]
+- [[incardinación]]
+- [[incendios_de_amor]]
+- [[inconsideracion]]
+- [[incontinencia]]
+- [[incorrupción]]
+- [[incorruptibilidad]]
+- [[incredulidad]]
+- [[increencia]]
+- [[inculturación]]
+- [[indisolubilidad]]
+- [[indulgencias]]
+- [[inedia]]
+- [[infalibilidad]]
+- [[infancia_espiritual]]
+- [[infierno]]
+- [[infinitud_divina]]
+- [[ingratitud]]
+- [[inhabitación_trinitaria]]
+- [[iniciación_cristiana]]
+- [[injusticia]]
+- [[injusticias_judiciales]]
+- [[inmaculada_concepción]]
+- [[inmortalidad]]
+- [[inmutabilidad_divina]]
+- [[inspiración]]
+- [[inspiración_bíblica]]
+- [[instancia_judicial]]
+- [[instituto_de_vida_consagrada]]
+- [[instituto_religioso]]
+- [[instituto_secular]]
+- [[instrucción]]
+- [[integridad]]
+- [[intelecto_posible]]
+- [[inteligencia]]
+- [[inteligencia_artificial]]
+- [[intemperancia]]
+- [[intención]]
+- [[inter_mirifica]]
+- [[intercesión]]
+- [[intercesión_de_los_santos]]
+- [[interpretación_de_la_escritura]]
+- [[interpretación_de_la_ley]]
+- [[introducción_a_la_teología_de_la_perfección]]
+- [[investigación_previa_canónica]]
+- [[ira]]
+- [[ironía]]
+- [[irreligión]]
+- [[islam]]
+- [[israel]]
+
+</div>
 
 ### J
-  [[jactancia]], [[jerarquía_angélica]], [[jerarquía_de_las_verdades]], [[jerarquía_eclesiástica]], [[jerusalén]], [[jesucristo]], [[jesucristo_redentor]], [[jesús]], [[job]], [[judaísmo]]
-  [[judío]], [[jueves_santo]], [[juez]], [[juez_eclesiástico]], [[juicio]], [[juicio_canónico]], [[juicio_final]], [[juicio_particular]], [[juramento]], [[justicia]], [[justicia_distributiva]]
-  [[justicia_divina]], [[justicia_eclesiástica]], [[justicia_internacional]], [[justicia_original]], [[justicia_social]], [[justicia_y_paz]], [[justificación]], [[juventud]], [[jóvenes]]
+<div class="index-grid">
+
+- [[jactancia]]
+- [[jerarquía_angélica]]
+- [[jerarquía_de_las_verdades]]
+- [[jerarquía_eclesiástica]]
+- [[jerusalén]]
+- [[jesucristo]]
+- [[jesucristo_redentor]]
+- [[jesús]]
+- [[job]]
+- [[judaísmo]]
+- [[judío]]
+- [[jueves_santo]]
+- [[juez]]
+- [[juez_eclesiástico]]
+- [[juicio]]
+- [[juicio_canónico]]
+- [[juicio_final]]
+- [[juicio_particular]]
+- [[juramento]]
+- [[justicia]]
+- [[justicia_distributiva]]
+- [[justicia_divina]]
+- [[justicia_eclesiástica]]
+- [[justicia_internacional]]
+- [[justicia_original]]
+- [[justicia_social]]
+- [[justicia_y_paz]]
+- [[justificación]]
+- [[juventud]]
+- [[jóvenes]]
+
+</div>
 
 ### K
-  [[kenosis]], [[koinonía]]
+<div class="index-grid">
+
+- [[kenosis]]
+- [[koinonía]]
+
+</div>
 
 ### L
-  [[labios]], [[laicado]], [[laicidad_positiva]], [[laicos]], [[laudes]], [[laudes_divinae]], [[leche]], [[lectura_espiritual]], [[legión_de_cristo]], [[lengua]], [[lengua_litúrgica]], [[lepra]]
-  [[levitación]], [[ley]], [[ley_divina]], [[ley_eclesiástica]], [[ley_eterna]], [[ley_evangélica]], [[ley_humana]], [[ley_justa]], [[ley_moral]], [[ley_mosaica]], [[ley_natural]], [[ley_nueva]]
-  [[ley_penal_canónica]], [[liberación_y_libertad]], [[liberalidad]], [[libertad]], [[libertad_cristiana]], [[libertad_humana]], [[libertad_religiosa]], [[libre_albedrío]], [[libro]]
-  [[libro_de_la_vida]], [[libros]], [[liderazgo]], [[liderazgo_cristiano]], [[limbo]], [[limosna]], [[litigio]], [[litiscontestación]], [[liturgia]], [[liturgia_de_la_palabra]]
-  [[liturgia_de_las_horas]], [[liturgia_eucarística]], [[llamada_universal_a_la_santidad]], [[llaves_del_reino]], [[llena_de_gracia]], [[locuciones]], [[locura]], [[lomos_y_riñones]]
-  [[longanimidad]], [[luces_o_resplandores]], [[lucha_contra_el_demonio]], [[lucha_contra_el_mundo]], [[lucha_contra_la_carne]], [[lucha_espiritual]], [[lugar_sagrado]], [[lugares_de_oración]]
-  [[lujuria]], [[lumen_gentium]], [[lumen_gloriae]], [[luz]], [[lágrimas_y_sudor_de_sangre]], [[lámpara]]
+<div class="index-grid">
+
+- [[labios]]
+- [[laicado]]
+- [[laicidad_positiva]]
+- [[laicos]]
+- [[laudes]]
+- [[laudes_divinae]]
+- [[leche]]
+- [[lectura_espiritual]]
+- [[legión_de_cristo]]
+- [[lengua]]
+- [[lengua_litúrgica]]
+- [[lepra]]
+- [[levitación]]
+- [[ley]]
+- [[ley_divina]]
+- [[ley_eclesiástica]]
+- [[ley_eterna]]
+- [[ley_evangélica]]
+- [[ley_humana]]
+- [[ley_justa]]
+- [[ley_moral]]
+- [[ley_mosaica]]
+- [[ley_natural]]
+- [[ley_nueva]]
+- [[ley_penal_canónica]]
+- [[liberación_y_libertad]]
+- [[liberalidad]]
+- [[libertad]]
+- [[libertad_cristiana]]
+- [[libertad_humana]]
+- [[libertad_religiosa]]
+- [[libre_albedrío]]
+- [[libro]]
+- [[libro_de_la_vida]]
+- [[libros]]
+- [[liderazgo]]
+- [[liderazgo_cristiano]]
+- [[limbo]]
+- [[limosna]]
+- [[litigio]]
+- [[litiscontestación]]
+- [[liturgia]]
+- [[liturgia_de_la_palabra]]
+- [[liturgia_de_las_horas]]
+- [[liturgia_eucarística]]
+- [[llamada_universal_a_la_santidad]]
+- [[llaves_del_reino]]
+- [[llena_de_gracia]]
+- [[locuciones]]
+- [[locura]]
+- [[lomos_y_riñones]]
+- [[longanimidad]]
+- [[luces_o_resplandores]]
+- [[lucha_contra_el_demonio]]
+- [[lucha_contra_el_mundo]]
+- [[lucha_contra_la_carne]]
+- [[lucha_espiritual]]
+- [[lugar_sagrado]]
+- [[lugares_de_oración]]
+- [[lujuria]]
+- [[lumen_gentium]]
+- [[lumen_gloriae]]
+- [[luz]]
+- [[lágrimas_y_sudor_de_sangre]]
+- [[lámpara]]
+
+</div>
 
 ### M
-  [[madre]], [[madre_de_dios]], [[madre_de_la_iglesia]], [[madurez_afectiva]], [[maestros_de_oración]], [[magia]], [[magisterio]], [[magisterio_de_la_iglesia]], [[magisterio_eclesiástico]]
-  [[magisterio_petrino]], [[magisterio_social]], [[magnanimidad]], [[magnificencia]], [[magníficat]], [[mal]], [[mal_intrínseco]], [[maldición]], [[malicia]], [[mancha_del_pecado]]
-  [[mandamientos]], [[mandamientos_de_la_iglesia]], [[mansedumbre]], [[maná]], [[mar]], [[mariología]], [[martirio]], [[maría_en_el_cenáculo]], [[materia_de_la_eucaristía]], [[materialismo]]
-  [[maternidad_de_la_iglesia]], [[maternidad_divina]], [[maternidad_espiritual]], [[matrimonio]], [[matrimonio_espiritual]], [[matrimonio_mixto]], [[matrimonio_sacramento]], [[mayoría_de_edad]]
-  [[medalla_milagrosa]], [[mediación_de_cristo]], [[mediación_de_maría]], [[mediación_participada]], [[mediador]], [[medidas_cautelares_canónicas]], [[medio_ambiente]], [[mediocridad_cristiana]]
-  [[medios_de_comunicación]], [[medios_de_comunicación_social]], [[medios_para_evitar_el_pecado]], [[meditación]], [[memoria]], [[memoria_espiritual]], [[memoria_maternal_de_la_iglesia]]
-  [[menor]], [[mentira]], [[mercado]], [[mesianismo]], [[mesías]], [[metropolitano]], [[mezquindad]], [[miedo]], [[migrantes]], [[milagro]], [[milagros]], [[ministerio_de_la_palabra]]
-  [[ministerio_episcopal]], [[ministerio_ordenado]], [[ministerio_petrino]], [[ministerios_eclesiales]], [[ministro_de_la_eucaristía]], [[misa]], [[misal_romano]], [[misericordia]]
-  [[misericordia_divina]], [[misionero]], [[misiones]], [[misiones_divinas]], [[misión]], [[misión_de_la_iglesia]], [[mistagogia]], [[misterio]], [[misterio_eucarístico]], [[misterio_pascual]]
-  [[misterios_del_rosario]], [[miércoles_de_ceniza]], [[modestia]], [[molicie]], [[montaña]], [[moral_económica]], [[moral_social]], [[moralidad]], [[mortificación]], [[motivos_de_credibilidad]]
-  [[motu_proprio]], [[movimientos_eclesiales]], [[muerte]], [[muerte_de_cristo]], [[mujer]], [[mundo]], [[murmuración]], [[mysterium_fidei]], [[mysterium_iniquitatis]], [[mártir]], [[médicos]]
-  [[mérito]], [[mística]], [[música_sacra]], [[música_sagrada]]
+<div class="index-grid">
+
+- [[madre]]
+- [[madre_de_dios]]
+- [[madre_de_la_iglesia]]
+- [[madurez_afectiva]]
+- [[maestros_de_oración]]
+- [[magia]]
+- [[magisterio]]
+- [[magisterio_de_la_iglesia]]
+- [[magisterio_eclesiástico]]
+- [[magisterio_petrino]]
+- [[magisterio_social]]
+- [[magnanimidad]]
+- [[magnificencia]]
+- [[magníficat]]
+- [[mal]]
+- [[mal_intrínseco]]
+- [[maldición]]
+- [[malicia]]
+- [[mancha_del_pecado]]
+- [[mandamientos]]
+- [[mandamientos_de_la_iglesia]]
+- [[mansedumbre]]
+- [[maná]]
+- [[mar]]
+- [[mariología]]
+- [[martirio]]
+- [[maría_en_el_cenáculo]]
+- [[materia_de_la_eucaristía]]
+- [[materialismo]]
+- [[maternidad_de_la_iglesia]]
+- [[maternidad_divina]]
+- [[maternidad_espiritual]]
+- [[matrimonio]]
+- [[matrimonio_espiritual]]
+- [[matrimonio_mixto]]
+- [[matrimonio_sacramento]]
+- [[mayoría_de_edad]]
+- [[medalla_milagrosa]]
+- [[mediación_de_cristo]]
+- [[mediación_de_maría]]
+- [[mediación_participada]]
+- [[mediador]]
+- [[medidas_cautelares_canónicas]]
+- [[medio_ambiente]]
+- [[mediocridad_cristiana]]
+- [[medios_de_comunicación]]
+- [[medios_de_comunicación_social]]
+- [[medios_para_evitar_el_pecado]]
+- [[meditación]]
+- [[memoria]]
+- [[memoria_espiritual]]
+- [[memoria_maternal_de_la_iglesia]]
+- [[menor]]
+- [[mentira]]
+- [[mercado]]
+- [[mesianismo]]
+- [[mesías]]
+- [[metropolitano]]
+- [[mezquindad]]
+- [[miedo]]
+- [[migrantes]]
+- [[milagro]]
+- [[milagros]]
+- [[ministerio_de_la_palabra]]
+- [[ministerio_episcopal]]
+- [[ministerio_ordenado]]
+- [[ministerio_petrino]]
+- [[ministerios_eclesiales]]
+- [[ministro_de_la_eucaristía]]
+- [[misa]]
+- [[misal_romano]]
+- [[misericordia]]
+- [[misericordia_divina]]
+- [[misionero]]
+- [[misiones]]
+- [[misiones_divinas]]
+- [[misión]]
+- [[misión_de_la_iglesia]]
+- [[mistagogia]]
+- [[misterio]]
+- [[misterio_eucarístico]]
+- [[misterio_pascual]]
+- [[misterios_del_rosario]]
+- [[miércoles_de_ceniza]]
+- [[modestia]]
+- [[molicie]]
+- [[montaña]]
+- [[moral_económica]]
+- [[moral_social]]
+- [[moralidad]]
+- [[mortificación]]
+- [[motivos_de_credibilidad]]
+- [[motu_proprio]]
+- [[movimientos_eclesiales]]
+- [[muerte]]
+- [[muerte_de_cristo]]
+- [[mujer]]
+- [[mundo]]
+- [[murmuración]]
+- [[mysterium_fidei]]
+- [[mysterium_iniquitatis]]
+- [[mártir]]
+- [[médicos]]
+- [[mérito]]
+- [[mística]]
+- [[música_sacra]]
+- [[música_sagrada]]
+
+</div>
 
 ### N
-  [[nacimiento_nuevo]], [[naciones]], [[nación]], [[natividad]], [[naturaleza_angélica]], [[naturaleza_de_la_mística]], [[naturaleza_divina]], [[naturaleza_humana]], [[naturaleza_y_gracia]]
-  [[navidad]], [[nazaret]], [[necedad]], [[negligencia]], [[negligencia_pastoral]], [[neo-gnosticismo]], [[neo-pelagianismo]], [[neófito]], [[niño]], [[noche_del_espíritu]], [[noche_del_sentido]]
-  [[noche_oscura]], [[nombre]], [[nombres_divinos]], [[normae_de_gravioribus_delictis]], [[nostra_aetate]], [[notario]], [[notas_de_la_iglesia]], [[notitia_criminis]], [[novísimos]], [[nube]]
-  [[nueva_alianza]], [[nueva_eva]], [[nueva_evangelización]], [[nueva_jerusalen]], [[nuevo]], [[nuevo_adán]], [[nuevo_testamento]], [[nulidad_matrimonial]], [[números]]
+<div class="index-grid">
+
+- [[nacimiento_nuevo]]
+- [[naciones]]
+- [[nación]]
+- [[natividad]]
+- [[naturaleza_angélica]]
+- [[naturaleza_de_la_mística]]
+- [[naturaleza_divina]]
+- [[naturaleza_humana]]
+- [[naturaleza_y_gracia]]
+- [[navidad]]
+- [[nazaret]]
+- [[necedad]]
+- [[negligencia]]
+- [[negligencia_pastoral]]
+- [[neo-gnosticismo]]
+- [[neo-pelagianismo]]
+- [[neófito]]
+- [[niño]]
+- [[noche_del_espíritu]]
+- [[noche_del_sentido]]
+- [[noche_oscura]]
+- [[nombre]]
+- [[nombres_divinos]]
+- [[normae_de_gravioribus_delictis]]
+- [[nostra_aetate]]
+- [[notario]]
+- [[notas_de_la_iglesia]]
+- [[notitia_criminis]]
+- [[novísimos]]
+- [[nube]]
+- [[nueva_alianza]]
+- [[nueva_eva]]
+- [[nueva_evangelización]]
+- [[nueva_jerusalen]]
+- [[nuevo]]
+- [[nuevo_adán]]
+- [[nuevo_testamento]]
+- [[nulidad_matrimonial]]
+- [[números]]
+
+</div>
 
 ### O
-  [[obediencia]], [[obediencia_a_cristo]], [[obediencia_de_la_fe]], [[obediencia_sacerdotal]], [[obispo]], [[obispo_auxiliar]], [[obispo_coadjutor]], [[obispo_diocesano]]
-  [[obispo_metropolitano]], [[objeción_de_conciencia]], [[oblaciones]], [[oblaciones_y_primicias]], [[oblación]], [[obra_de_los_seis_días]], [[obras]], [[obras_de_misericordia]], [[observancia]]
-  [[observancias_supersticiosas]], [[obsesión]], [[obsesión_diabólica]], [[obstinación]], [[obstinación_en_el_mal]], [[octavo_mandamiento]], [[odio]], [[oficio_divino]], [[oficio_eclesiástico]]
-  [[ofrenda]], [[olor_de_santidad]], [[omnipotencia]], [[omnipresencia_divina]], [[omnisciencia]], [[onu]], [[opción_fundamental]], [[opción_por_los_pobres]]
-  [[opción_preferencial_por_los_pobres]], [[opinión_pública]], [[optatam_totius]], [[oración]], [[oración_contemplativa]], [[oración_de_petición]], [[oración_de_quietud]]
-  [[oración_de_recogimiento]], [[oración_de_san_patricio]], [[oración_de_simple_unión]], [[oración_de_unión]], [[oración_litúrgica]], [[oración_mística]], [[oración_vocal]], [[oratorio]]
-  [[orden]], [[orden_angélico]], [[orden_de_la_caridad]], [[orden_sacerdotal]], [[orden_sacramental]], [[orden_sobrenatural]], [[ordenación_sacerdotal]], [[ordenes_sagradas]]
-  [[organismo_sobrenatural]], [[orgullo]], [[orientalium_ecclesiarum]], [[ornamentos_litúrgicos]], [[ornato]]
+<div class="index-grid">
+
+- [[obediencia]]
+- [[obediencia_a_cristo]]
+- [[obediencia_de_la_fe]]
+- [[obediencia_sacerdotal]]
+- [[obispo]]
+- [[obispo_auxiliar]]
+- [[obispo_coadjutor]]
+- [[obispo_diocesano]]
+- [[obispo_metropolitano]]
+- [[objeción_de_conciencia]]
+- [[oblaciones]]
+- [[oblaciones_y_primicias]]
+- [[oblación]]
+- [[obra_de_los_seis_días]]
+- [[obras]]
+- [[obras_de_misericordia]]
+- [[observancia]]
+- [[observancias_supersticiosas]]
+- [[obsesión]]
+- [[obsesión_diabólica]]
+- [[obstinación]]
+- [[obstinación_en_el_mal]]
+- [[octavo_mandamiento]]
+- [[odio]]
+- [[oficio_divino]]
+- [[oficio_eclesiástico]]
+- [[ofrenda]]
+- [[olor_de_santidad]]
+- [[omnipotencia]]
+- [[omnipresencia_divina]]
+- [[omnisciencia]]
+- [[onu]]
+- [[opción_fundamental]]
+- [[opción_por_los_pobres]]
+- [[opción_preferencial_por_los_pobres]]
+- [[opinión_pública]]
+- [[optatam_totius]]
+- [[oración]]
+- [[oración_contemplativa]]
+- [[oración_de_petición]]
+- [[oración_de_quietud]]
+- [[oración_de_recogimiento]]
+- [[oración_de_san_patricio]]
+- [[oración_de_simple_unión]]
+- [[oración_de_unión]]
+- [[oración_litúrgica]]
+- [[oración_mística]]
+- [[oración_vocal]]
+- [[oratorio]]
+- [[orden]]
+- [[orden_angélico]]
+- [[orden_de_la_caridad]]
+- [[orden_sacerdotal]]
+- [[orden_sacramental]]
+- [[orden_sobrenatural]]
+- [[ordenación_sacerdotal]]
+- [[ordenes_sagradas]]
+- [[organismo_sobrenatural]]
+- [[orgullo]]
+- [[orientalium_ecclesiarum]]
+- [[ornamentos_litúrgicos]]
+- [[ornato]]
+
+</div>
 
 ### P
-  [[paciencia]], [[padre_nuestro]], [[padrenuestro]], [[padres_de_la_iglesia]], [[padres_y_padre]], [[padrinos]], [[palabra_de_dios]], [[palabra_humana]], [[pan]], [[papa]]
-  [[paradigma_tecnocrático]], [[paradoja_teológica]], [[paraíso]], [[parentesco_espiritual]], [[parentesco_legal]], [[parroquia]], [[partes_en_juicio]], [[participación]]
-  [[participación_activa]], [[participación_social]], [[partidos_políticos]], [[parusía]], [[parábola]], [[parábola_del_hijo_pródigo]], [[parábola_del_siervo_sin_misericordia]], [[paráclito]]
-  [[pascite_gregem_dei]], [[pascua]], [[pasiones]], [[pasión_de_cristo]], [[pasión_de_nuestro_señor]], [[pastor_y_rebaño]], [[pastoral_familiar]], [[pastoral_social]], [[pastoral_vocacional]]
-  [[paternidad_responsable]], [[patria]], [[patriarcas_orientales]], [[patriotismo]], [[patrística]], [[paz]], [[paz_cristiana]], [[pecado]], [[pecado_capital]]
-  [[pecado_contra_el_espíritu_santo]], [[pecado_de_idolatría]], [[pecado_de_los_ángeles]], [[pecado_de_omisión]], [[pecado_mortal]], [[pecado_original]], [[pecado_social]], [[pecado_venial]]
-  [[pecados_capitales]], [[peligro_de_muerte]], [[pena_de_los_condenados]], [[pena_de_los_demonios]], [[pena_expiatoria]], [[penas_expiatorias]], [[penitencia]], [[penitencia_canónica]]
-  [[pensamiento]], [[pentecostés]], [[pequeños_pasos]], [[perdón]], [[perdón_de_los_pecados]], [[peregrinación]], [[peregrinación_de_la_fe]], [[pereza]], [[pereza_espiritual]]
-  [[perfecciones_divinas]], [[perfección_angélica_en_gracia_y_gloria]], [[perfección_cristiana]], [[perfección_y_mística]], [[perfectae_caritatis]], [[perfectos]], [[perfume_sobrenatural]]
-  [[perito_canónico]], [[perjurio]], [[permanecer]], [[persecución]], [[perseverancia]], [[perseverancia_final]], [[persona_del_espíritu_santo]], [[persona_del_hijo]], [[persona_del_padre]]
-  [[persona_divina]], [[persona_fisica]], [[persona_humana]], [[persona_jurídica]], [[persona_jurídica_canónica]], [[personalidad_jurídica_canónica]], [[personalismo]], [[personalismo_ético]]
-  [[personas_vulnerables]], [[pertinacia]], [[piedad]], [[piedad_popular]], [[piedra]], [[pila_bautismal]], [[plan_de_vida]], [[plantas]], [[plegaria_eucarística]], [[plenitud]]
-  [[plenitud_de_los_tiempos]], [[pobreza]], [[pobreza_de_espíritu]], [[pobreza_evangélica]], [[poder]], [[poder_de_las_llaves]], [[poligamia]], [[pontifical_romano]], [[pornografía]]
-  [[posesión_diabólica]], [[posthumanismo]], [[postulación]], [[potencia]], [[potencias_del_alma]], [[potestad_de_las_llaves]], [[potestad_de_orden]], [[potestad_de_régimen]]
-  [[praedicate_evangelium]], [[precaución]], [[precepto_dominical]], [[precepto_penal]], [[preceptos_de_justicia]], [[precipitacion]], [[predestinación]], [[predicación]], [[predicar]]
-  [[prefiguraciones_de_cristo]], [[prelatura_personal]], [[premio_eterno]], [[preparación_al_matrimonio]], [[presbiterio]], [[presbyterorum_ordinis]], [[presbítero]], [[presbíteros]]
-  [[prescripción_canónica]], [[prescripción_de_la_acción_criminal]], [[presencia_de_dios]], [[presencia_real]], [[presentación]], [[presunción]], [[presunción_de_inocencia]], [[preternatural]]
-  [[prevención_de_conflictos]], [[previsión]], [[preámbulos_de_la_fe]], [[primado_del_romano_pontífice]], [[primado_petrino]], [[primer_anuncio]], [[primer_mandamiento]], [[primera_comunión]]
-  [[primicias]], [[principiantes]], [[principio_de_precaución]], [[principios_de_la_doctrina_social]], [[privilegio]], [[privilegio_canónico]], [[procesiones_divinas]], [[procesión]]
-  [[proceso_canónico]], [[proceso_matrimonial]], [[proceso_penal_canónico]], [[procreación]], [[prodigalidad]], [[profecía]], [[profecía_mesiánica]], [[profecía_social]], [[profecías]]
-  [[profesión_de_fe]], [[profesión_de_la_fe]], [[profeta]], [[proficientes]], [[promesa]], [[promesas]], [[promoción_humana]], [[promoción_vocacional]], [[promulgación]], [[propiedad_privada]]
-  [[propiedades_divinas]], [[proporcionalidad]], [[protección_de_menores_en_la_iglesia]], [[protoevangelio]], [[providencia]], [[providencia_divina]], [[provincia_eclesiástica]]
-  [[provisión_canónica]], [[prudencia]], [[prueba]], [[prueba_testimonial]], [[pruebas_canónicas]], [[prójimo]], [[publicaciones]], [[pudor]], [[pueblo_de_dios]], [[pueblo_elegido]]
-  [[pueblos_indígenas]], [[puerta]], [[pureza]], [[pureza_de_corazón]], [[purgatorio]], [[purificaciones_pasivas]], [[purificación_activa]], [[purificación_de_la_iglesia]], [[pusilanimidad]]
-  [[párroco]], [[pérdida_del_estado_clerical]], [[pías_voluntades]]
+<div class="index-grid">
+
+- [[paciencia]]
+- [[padre_nuestro]]
+- [[padrenuestro]]
+- [[padres_de_la_iglesia]]
+- [[padres_y_padre]]
+- [[padrinos]]
+- [[palabra_de_dios]]
+- [[palabra_humana]]
+- [[pan]]
+- [[papa]]
+- [[paradigma_tecnocrático]]
+- [[paradoja_teológica]]
+- [[paraíso]]
+- [[parentesco_espiritual]]
+- [[parentesco_legal]]
+- [[parroquia]]
+- [[partes_en_juicio]]
+- [[participación]]
+- [[participación_activa]]
+- [[participación_social]]
+- [[partidos_políticos]]
+- [[parusía]]
+- [[parábola]]
+- [[parábola_del_hijo_pródigo]]
+- [[parábola_del_siervo_sin_misericordia]]
+- [[paráclito]]
+- [[pascite_gregem_dei]]
+- [[pascua]]
+- [[pasiones]]
+- [[pasión_de_cristo]]
+- [[pasión_de_nuestro_señor]]
+- [[pastor_y_rebaño]]
+- [[pastoral_familiar]]
+- [[pastoral_social]]
+- [[pastoral_vocacional]]
+- [[paternidad_responsable]]
+- [[patria]]
+- [[patriarcas_orientales]]
+- [[patriotismo]]
+- [[patrística]]
+- [[paz]]
+- [[paz_cristiana]]
+- [[pecado]]
+- [[pecado_capital]]
+- [[pecado_contra_el_espíritu_santo]]
+- [[pecado_de_idolatría]]
+- [[pecado_de_los_ángeles]]
+- [[pecado_de_omisión]]
+- [[pecado_mortal]]
+- [[pecado_original]]
+- [[pecado_social]]
+- [[pecado_venial]]
+- [[pecados_capitales]]
+- [[peligro_de_muerte]]
+- [[pena_de_los_condenados]]
+- [[pena_de_los_demonios]]
+- [[pena_expiatoria]]
+- [[penas_expiatorias]]
+- [[penitencia]]
+- [[penitencia_canónica]]
+- [[pensamiento]]
+- [[pentecostés]]
+- [[pequeños_pasos]]
+- [[perdón]]
+- [[perdón_de_los_pecados]]
+- [[peregrinación]]
+- [[peregrinación_de_la_fe]]
+- [[pereza]]
+- [[pereza_espiritual]]
+- [[perfecciones_divinas]]
+- [[perfección_angélica_en_gracia_y_gloria]]
+- [[perfección_cristiana]]
+- [[perfección_y_mística]]
+- [[perfectae_caritatis]]
+- [[perfectos]]
+- [[perfume_sobrenatural]]
+- [[perito_canónico]]
+- [[perjurio]]
+- [[permanecer]]
+- [[persecución]]
+- [[perseverancia]]
+- [[perseverancia_final]]
+- [[persona_del_espíritu_santo]]
+- [[persona_del_hijo]]
+- [[persona_del_padre]]
+- [[persona_divina]]
+- [[persona_fisica]]
+- [[persona_humana]]
+- [[persona_jurídica]]
+- [[persona_jurídica_canónica]]
+- [[personalidad_jurídica_canónica]]
+- [[personalismo]]
+- [[personalismo_ético]]
+- [[personas_vulnerables]]
+- [[pertinacia]]
+- [[piedad]]
+- [[piedad_popular]]
+- [[piedra]]
+- [[pila_bautismal]]
+- [[plan_de_vida]]
+- [[plantas]]
+- [[plegaria_eucarística]]
+- [[plenitud]]
+- [[plenitud_de_los_tiempos]]
+- [[pobreza]]
+- [[pobreza_de_espíritu]]
+- [[pobreza_evangélica]]
+- [[poder]]
+- [[poder_de_las_llaves]]
+- [[poligamia]]
+- [[pontifical_romano]]
+- [[pornografía]]
+- [[posesión_diabólica]]
+- [[posthumanismo]]
+- [[postulación]]
+- [[potencia]]
+- [[potencias_del_alma]]
+- [[potestad_de_las_llaves]]
+- [[potestad_de_orden]]
+- [[potestad_de_régimen]]
+- [[praedicate_evangelium]]
+- [[precaución]]
+- [[precepto_dominical]]
+- [[precepto_penal]]
+- [[preceptos_de_justicia]]
+- [[precipitacion]]
+- [[predestinación]]
+- [[predicación]]
+- [[predicar]]
+- [[prefiguraciones_de_cristo]]
+- [[prelatura_personal]]
+- [[premio_eterno]]
+- [[preparación_al_matrimonio]]
+- [[presbiterio]]
+- [[presbyterorum_ordinis]]
+- [[presbítero]]
+- [[presbíteros]]
+- [[prescripción_canónica]]
+- [[prescripción_de_la_acción_criminal]]
+- [[presencia_de_dios]]
+- [[presencia_real]]
+- [[presentación]]
+- [[presunción]]
+- [[presunción_de_inocencia]]
+- [[preternatural]]
+- [[prevención_de_conflictos]]
+- [[previsión]]
+- [[preámbulos_de_la_fe]]
+- [[primado_del_romano_pontífice]]
+- [[primado_petrino]]
+- [[primer_anuncio]]
+- [[primer_mandamiento]]
+- [[primera_comunión]]
+- [[primicias]]
+- [[principiantes]]
+- [[principio_de_precaución]]
+- [[principios_de_la_doctrina_social]]
+- [[privilegio]]
+- [[privilegio_canónico]]
+- [[procesiones_divinas]]
+- [[procesión]]
+- [[proceso_canónico]]
+- [[proceso_matrimonial]]
+- [[proceso_penal_canónico]]
+- [[procreación]]
+- [[prodigalidad]]
+- [[profecía]]
+- [[profecía_mesiánica]]
+- [[profecía_social]]
+- [[profecías]]
+- [[profesión_de_fe]]
+- [[profesión_de_la_fe]]
+- [[profeta]]
+- [[proficientes]]
+- [[promesa]]
+- [[promesas]]
+- [[promoción_humana]]
+- [[promoción_vocacional]]
+- [[promulgación]]
+- [[propiedad_privada]]
+- [[propiedades_divinas]]
+- [[proporcionalidad]]
+- [[protección_de_menores_en_la_iglesia]]
+- [[protoevangelio]]
+- [[providencia]]
+- [[providencia_divina]]
+- [[provincia_eclesiástica]]
+- [[provisión_canónica]]
+- [[prudencia]]
+- [[prueba]]
+- [[prueba_testimonial]]
+- [[pruebas_canónicas]]
+- [[prójimo]]
+- [[publicaciones]]
+- [[pudor]]
+- [[pueblo_de_dios]]
+- [[pueblo_elegido]]
+- [[pueblos_indígenas]]
+- [[puerta]]
+- [[pureza]]
+- [[pureza_de_corazón]]
+- [[purgatorio]]
+- [[purificaciones_pasivas]]
+- [[purificación_activa]]
+- [[purificación_de_la_iglesia]]
+- [[pusilanimidad]]
+- [[párroco]]
+- [[pérdida_del_estado_clerical]]
+- [[pías_voluntades]]
+
+</div>
 
 ### Q
-  [[querella_de_nulidad]], [[quietud]]
+<div class="index-grid">
+
+- [[querella_de_nulidad]]
+- [[quietud]]
+
+</div>
 
 ### R
-  [[rahamim]], [[rapto]], [[razonamiento]], [[razón]], [[razón_natural]], [[raíces_cristianas]], [[realeza_de_cristo]], [[recogimiento_infuso]], [[recogimiento_interior]]
-  [[recompensa_celestial]], [[reconciliación]], [[rectores_de_iglesias]], [[recurso_jerárquico]], [[redención]], [[redención_del_cuerpo]], [[referente_para_la_tutela_de_menores]]
-  [[reforma_litúrgica]], [[refugiados]], [[regla_de_fe]], [[regla_religiosa]], [[regnum_christi]], [[reina_universal]], [[reinado_de_cristo]], [[reinado_social_de_cristo]], [[reino_de_dios]]
-  [[relaciones_islam]], [[relaciones_judaísmo]], [[relaciones_trinitarias]], [[relación_iglesia_estado]], [[religiosidad_popular]], [[religión]], [[reliquias]], [[remedio_penal]]
-  [[remedios_penales]], [[remisión_de_pecados]], [[remisión_de_penas]], [[renovación_litúrgica]], [[renovación_social]], [[reparación]], [[reposo]], [[reputación]], [[rerum_novarum]]
-  [[rescripto]], [[respeto_humano]], [[responsabilidad]], [[restitución]], [[resto]], [[resurrección]], [[resurrección_de_cristo]], [[resurrección_de_jesucristo]], [[resurrección_de_la_carne]]
-  [[resurrección_de_los_muertos]], [[retorno_de_los_pecados]], [[retribución]], [[revelaciones]], [[revelación]], [[revelación_continua]], [[revelación_divina]], [[revelación_pública]], [[rey]]
-  [[riquezas]], [[risa]], [[rito_de_iniciación_cristiana_de_adultos]], [[ritos_litúrgicos]], [[ritual_romano]], [[riña]], [[roca]], [[rodilla]], [[romano_pontífice]], [[romería]], [[rosario]]
-  [[rostro]], [[rota_romana]]
+<div class="index-grid">
+
+- [[rahamim]]
+- [[rapto]]
+- [[razonamiento]]
+- [[razón]]
+- [[razón_natural]]
+- [[raíces_cristianas]]
+- [[realeza_de_cristo]]
+- [[recogimiento_infuso]]
+- [[recogimiento_interior]]
+- [[recompensa_celestial]]
+- [[reconciliación]]
+- [[rectores_de_iglesias]]
+- [[recurso_jerárquico]]
+- [[redención]]
+- [[redención_del_cuerpo]]
+- [[referente_para_la_tutela_de_menores]]
+- [[reforma_litúrgica]]
+- [[refugiados]]
+- [[regla_de_fe]]
+- [[regla_religiosa]]
+- [[regnum_christi]]
+- [[reina_universal]]
+- [[reinado_de_cristo]]
+- [[reinado_social_de_cristo]]
+- [[reino_de_dios]]
+- [[relaciones_islam]]
+- [[relaciones_judaísmo]]
+- [[relaciones_trinitarias]]
+- [[relación_iglesia_estado]]
+- [[religiosidad_popular]]
+- [[religión]]
+- [[reliquias]]
+- [[remedio_penal]]
+- [[remedios_penales]]
+- [[remisión_de_pecados]]
+- [[remisión_de_penas]]
+- [[renovación_litúrgica]]
+- [[renovación_social]]
+- [[reparación]]
+- [[reposo]]
+- [[reputación]]
+- [[rerum_novarum]]
+- [[rescripto]]
+- [[respeto_humano]]
+- [[responsabilidad]]
+- [[restitución]]
+- [[resto]]
+- [[resurrección]]
+- [[resurrección_de_cristo]]
+- [[resurrección_de_jesucristo]]
+- [[resurrección_de_la_carne]]
+- [[resurrección_de_los_muertos]]
+- [[retorno_de_los_pecados]]
+- [[retribución]]
+- [[revelaciones]]
+- [[revelación]]
+- [[revelación_continua]]
+- [[revelación_divina]]
+- [[revelación_pública]]
+- [[rey]]
+- [[riquezas]]
+- [[risa]]
+- [[rito_de_iniciación_cristiana_de_adultos]]
+- [[ritos_litúrgicos]]
+- [[ritual_romano]]
+- [[riña]]
+- [[roca]]
+- [[rodilla]]
+- [[romano_pontífice]]
+- [[romería]]
+- [[rosario]]
+- [[rostro]]
+- [[rota_romana]]
+
+</div>
 
 ### S
-  [[sabiduría]], [[sacerdocio]], [[sacerdocio_bautismal]], [[sacerdocio_común]], [[sacerdocio_común_de_los_fieles]], [[sacerdocio_de_cristo]], [[sacerdocio_ministerial]], [[sacerdocio_ordenado]]
-  [[sacramental]], [[sacramentales]], [[sacramento]], [[sacramento_de_la_reconciliación]], [[sacramento_de_muertos]], [[sacramento_de_vivos]], [[sacramento_del_altar]]
-  [[sacramento_del_matrimonio]], [[sacramento_del_orden]], [[sacramentorum_sanctitatis_tutela]], [[sacramentos]], [[sacrificio]], [[sacrificio_eucarístico]], [[sacrilegio]]
-  [[sacrosanctum_concilium]], [[sagacidad]], [[sagrada_comunión]], [[sagrada_escritura]], [[sagrada_familia]], [[sagrada_liturgia]], [[sagrado_corazón_de_jesús]], [[sagrario]], [[salario_justo]]
-  [[salmo_miserere]], [[salmos]], [[salmódia]], [[salterio]], [[salud_mental]], [[salvación]], [[salvación_de_los_no_cristianos]], [[salvación_integral]], [[sanación]], [[sanatio_in_radice]]
-  [[sanciones_canónicas]], [[sanciones_internacionales]], [[sangre]], [[santa_sede]], [[santidad]], [[santidad_de_la_iglesia]], [[santificación]], [[santificación_del_mundo]], [[santo]]
-  [[santo_oficio]], [[santos]], [[santos_padres]], [[santuario]], [[santuario_de_la_vida]], [[santísima_trinidad]], [[satanás]], [[satisfacción]], [[schola_cantorum]], [[secretaría_de_estado]]
-  [[secreto_de_oficio]], [[secreto_pontificio]], [[secreto_profesional]], [[sectas]], [[secularización]], [[sede_apostólica]], [[sede_vacante]], [[sedición]], [[seducción]]
-  [[seguimiento_de_cristo]], [[seguir]], [[seguir_a_cristo]], [[segunda_venida]], [[segundas_nupcias]], [[sello]], [[semana]], [[semana_social]], [[sembrar]], [[seminario]], [[sencillo]]
-  [[seno_de_abraham]], [[sensualidad]], [[sensus_fidei]], [[sentencia_canónica]], [[sentido_de_dios]], [[sentido_de_la_escritura]], [[sentido_de_la_fe]], [[sentido_de_la_vida]]
-  [[sentido_de_lo_sagrado]], [[sentido_del_dolor]], [[sentido_eclesial]], [[sentido_pleno]], [[sentidos_de_la_escritura]], [[sentidos_externos]], [[sentidos_internos]], [[sepultura_de_cristo]]
-  [[sequela_christi]], [[sermón_de_la_montaña]], [[servicio]], [[servir]], [[sesión_a_la_diestra]], [[sexto_mandamiento]], [[sexualidad]], [[señal_de_contradicción]], [[señor]], [[siega]]
-  [[siervo_de_yahvé]], [[siete_dones_del_espíritu_santo]], [[sigilo_sacramental]], [[signatura_apostólica]], [[significado_esponsal_del_cuerpo]], [[signos_de_los_tiempos]], [[signos_del_juicio]]
-  [[silencio]], [[simonía]], [[simplicidad_divina]], [[simulación]], [[sinai]], [[sinceridad]], [[sindicatos]], [[sindéresis]], [[sinodalidad]], [[soberbia]], [[soberbia_intelectual]]
-  [[sobrenatural]], [[sobriedad]], [[sociabilidad_humana]], [[socialización]], [[sociedad]], [[sociedad_civil]], [[sociedad_de_vida_apostólica]], [[soledad]], [[solicitación]], [[solidaridad]]
-  [[solidaridad_entre_los_pueblos]], [[sombra]], [[soteriología]], [[stabat_mater]], [[subsidiariedad]], [[subsistit_in]], [[sucesión_apostólica]], [[sueño]], [[sufragios]], [[sufrimiento]]
-  [[sufrimiento_cristiano]], [[sufrimiento_redentor]], [[superstición]], [[superstición_en_el_culto]], [[surrender_espiritual]], [[suspensión]], [[sustentación_del_clero]], [[sutileza]]
-  [[synesis]], [[sábado]], [[sábado_santo]], [[símbolo_de_la_fe]], [[símbolos_de_la_fe]], [[sínodo_de_los_obispos]], [[sínodo_diocesano]]
+<div class="index-grid">
+
+- [[sabiduría]]
+- [[sacerdocio]]
+- [[sacerdocio_bautismal]]
+- [[sacerdocio_común]]
+- [[sacerdocio_común_de_los_fieles]]
+- [[sacerdocio_de_cristo]]
+- [[sacerdocio_ministerial]]
+- [[sacerdocio_ordenado]]
+- [[sacramental]]
+- [[sacramentales]]
+- [[sacramento]]
+- [[sacramento_de_la_reconciliación]]
+- [[sacramento_de_muertos]]
+- [[sacramento_de_vivos]]
+- [[sacramento_del_altar]]
+- [[sacramento_del_matrimonio]]
+- [[sacramento_del_orden]]
+- [[sacramentorum_sanctitatis_tutela]]
+- [[sacramentos]]
+- [[sacrificio]]
+- [[sacrificio_eucarístico]]
+- [[sacrilegio]]
+- [[sacrosanctum_concilium]]
+- [[sagacidad]]
+- [[sagrada_comunión]]
+- [[sagrada_escritura]]
+- [[sagrada_familia]]
+- [[sagrada_liturgia]]
+- [[sagrado_corazón_de_jesús]]
+- [[sagrario]]
+- [[salario_justo]]
+- [[salmo_miserere]]
+- [[salmos]]
+- [[salmódia]]
+- [[salterio]]
+- [[salud_mental]]
+- [[salvación]]
+- [[salvación_de_los_no_cristianos]]
+- [[salvación_integral]]
+- [[sanación]]
+- [[sanatio_in_radice]]
+- [[sanciones_canónicas]]
+- [[sanciones_internacionales]]
+- [[sangre]]
+- [[santa_sede]]
+- [[santidad]]
+- [[santidad_de_la_iglesia]]
+- [[santificación]]
+- [[santificación_del_mundo]]
+- [[santo]]
+- [[santo_oficio]]
+- [[santos]]
+- [[santos_padres]]
+- [[santuario]]
+- [[santuario_de_la_vida]]
+- [[santísima_trinidad]]
+- [[satanás]]
+- [[satisfacción]]
+- [[schola_cantorum]]
+- [[secretaría_de_estado]]
+- [[secreto_de_oficio]]
+- [[secreto_pontificio]]
+- [[secreto_profesional]]
+- [[sectas]]
+- [[secularización]]
+- [[sede_apostólica]]
+- [[sede_vacante]]
+- [[sedición]]
+- [[seducción]]
+- [[seguimiento_de_cristo]]
+- [[seguir]]
+- [[seguir_a_cristo]]
+- [[segunda_venida]]
+- [[segundas_nupcias]]
+- [[sello]]
+- [[semana]]
+- [[semana_social]]
+- [[sembrar]]
+- [[seminario]]
+- [[sencillo]]
+- [[seno_de_abraham]]
+- [[sensualidad]]
+- [[sensus_fidei]]
+- [[sentencia_canónica]]
+- [[sentido_de_dios]]
+- [[sentido_de_la_escritura]]
+- [[sentido_de_la_fe]]
+- [[sentido_de_la_vida]]
+- [[sentido_de_lo_sagrado]]
+- [[sentido_del_dolor]]
+- [[sentido_eclesial]]
+- [[sentido_pleno]]
+- [[sentidos_de_la_escritura]]
+- [[sentidos_externos]]
+- [[sentidos_internos]]
+- [[sepultura_de_cristo]]
+- [[sequela_christi]]
+- [[sermón_de_la_montaña]]
+- [[servicio]]
+- [[servir]]
+- [[sesión_a_la_diestra]]
+- [[sexto_mandamiento]]
+- [[sexualidad]]
+- [[señal_de_contradicción]]
+- [[señor]]
+- [[siega]]
+- [[siervo_de_yahvé]]
+- [[siete_dones_del_espíritu_santo]]
+- [[sigilo_sacramental]]
+- [[signatura_apostólica]]
+- [[significado_esponsal_del_cuerpo]]
+- [[signos_de_los_tiempos]]
+- [[signos_del_juicio]]
+- [[silencio]]
+- [[simonía]]
+- [[simplicidad_divina]]
+- [[simulación]]
+- [[sinai]]
+- [[sinceridad]]
+- [[sindicatos]]
+- [[sindéresis]]
+- [[sinodalidad]]
+- [[soberbia]]
+- [[soberbia_intelectual]]
+- [[sobrenatural]]
+- [[sobriedad]]
+- [[sociabilidad_humana]]
+- [[socialización]]
+- [[sociedad]]
+- [[sociedad_civil]]
+- [[sociedad_de_vida_apostólica]]
+- [[soledad]]
+- [[solicitación]]
+- [[solidaridad]]
+- [[solidaridad_entre_los_pueblos]]
+- [[sombra]]
+- [[soteriología]]
+- [[stabat_mater]]
+- [[subsidiariedad]]
+- [[subsistit_in]]
+- [[sucesión_apostólica]]
+- [[sueño]]
+- [[sufragios]]
+- [[sufrimiento]]
+- [[sufrimiento_cristiano]]
+- [[sufrimiento_redentor]]
+- [[superstición]]
+- [[superstición_en_el_culto]]
+- [[surrender_espiritual]]
+- [[suspensión]]
+- [[sustentación_del_clero]]
+- [[sutileza]]
+- [[synesis]]
+- [[sábado]]
+- [[sábado_santo]]
+- [[símbolo_de_la_fe]]
+- [[símbolos_de_la_fe]]
+- [[sínodo_de_los_obispos]]
+- [[sínodo_diocesano]]
+
+</div>
 
 ### T
-  [[temor]], [[temor_de_dios]], [[temperamento]], [[templanza]], [[templo]], [[templo_de_Jerusalén]], [[templo_del_espíritu_santo]], [[tentación]], [[tentación_de_dios]], [[teofania]]
-  [[teofanía]], [[teologia_del_cuerpo]], [[teología]], [[teología_ascética_y_mística]], [[teología_de_la_historia]], [[teología_del_cuerpo]], [[teología_del_laicado]], [[teología_fundamental]]
-  [[teología_moral]], [[teología_natural]], [[teología_nupcial]], [[tesoro_de_la_iglesia]], [[testamento]], [[testimonio]], [[testimonio_apostólico]], [[testimonio_cristiano]], [[teólogo]]
-  [[tibieza]], [[tiempo]], [[tiempo_litúrgico]], [[tiempo_ordinario]], [[tierra]], [[tierra_prometida]], [[tipología]], [[toma_de_posesión]], [[tormenta]], [[trabajo]], [[trabajo_agrícola]]
-  [[trabajo_digno]], [[trabajo_humano]], [[trabajo_objetivo]], [[trabajo_subjetivo]], [[tradición]], [[tradición_apostólica]], [[transfiguración]], [[transhumanismo]], [[transubstanciación]]
-  [[trascendencia_divina]], [[tres_vías]], [[tribunal]], [[tribunal_eclesiástico]], [[tribunal_penal_internacional]], [[triduo_pascual]], [[trinidad]], [[tristeza]], [[título_canónico]]
+<div class="index-grid">
+
+- [[temor]]
+- [[temor_de_dios]]
+- [[temperamento]]
+- [[templanza]]
+- [[templo]]
+- [[templo_de_Jerusalén]]
+- [[templo_del_espíritu_santo]]
+- [[tentación]]
+- [[tentación_de_dios]]
+- [[teofania]]
+- [[teofanía]]
+- [[teologia_del_cuerpo]]
+- [[teología]]
+- [[teología_ascética_y_mística]]
+- [[teología_de_la_historia]]
+- [[teología_del_cuerpo]]
+- [[teología_del_laicado]]
+- [[teología_fundamental]]
+- [[teología_moral]]
+- [[teología_natural]]
+- [[teología_nupcial]]
+- [[tesoro_de_la_iglesia]]
+- [[testamento]]
+- [[testimonio]]
+- [[testimonio_apostólico]]
+- [[testimonio_cristiano]]
+- [[teólogo]]
+- [[tibieza]]
+- [[tiempo]]
+- [[tiempo_litúrgico]]
+- [[tiempo_ordinario]]
+- [[tierra]]
+- [[tierra_prometida]]
+- [[tipología]]
+- [[toma_de_posesión]]
+- [[tormenta]]
+- [[trabajo]]
+- [[trabajo_agrícola]]
+- [[trabajo_digno]]
+- [[trabajo_humano]]
+- [[trabajo_objetivo]]
+- [[trabajo_subjetivo]]
+- [[tradición]]
+- [[tradición_apostólica]]
+- [[transfiguración]]
+- [[transhumanismo]]
+- [[transubstanciación]]
+- [[trascendencia_divina]]
+- [[tres_vías]]
+- [[tribunal]]
+- [[tribunal_eclesiástico]]
+- [[tribunal_penal_internacional]]
+- [[triduo_pascual]]
+- [[trinidad]]
+- [[tristeza]]
+- [[título_canónico]]
+
+</div>
 
 ### U
-  [[una_fidelidad_que_genera_futuro]], [[unción]], [[unción_de_los_enfermos]], [[unidad]], [[unidad_alma_cuerpo]], [[unidad_de_dios]], [[unidad_de_la_iglesia]], [[unidad_del_género_humano]]
-  [[uniones_de_hecho]], [[unitatis_redintegratio]], [[universidad]], [[unión_alma-cuerpo]], [[unión_con_dios]], [[unión_extática]], [[unión_hipostática]], [[unión_transformante]], [[uso]]
-  [[usura]], [[utilitarismo]]
+<div class="index-grid">
+
+- [[una_fidelidad_que_genera_futuro]]
+- [[unción]]
+- [[unción_de_los_enfermos]]
+- [[unidad]]
+- [[unidad_alma_cuerpo]]
+- [[unidad_de_dios]]
+- [[unidad_de_la_iglesia]]
+- [[unidad_del_género_humano]]
+- [[uniones_de_hecho]]
+- [[unitatis_redintegratio]]
+- [[universidad]]
+- [[unión_alma-cuerpo]]
+- [[unión_con_dios]]
+- [[unión_extática]]
+- [[unión_hipostática]]
+- [[unión_transformante]]
+- [[uso]]
+- [[usura]]
+- [[utilitarismo]]
+
+</div>
 
 ### V
-  [[vademécum_del_ddf]], [[validez_canónica]], [[vanagloria]], [[vanidad]], [[varón_y_mujer]], [[vasos_sagrados]], [[velar]], [[vendimia]], [[veneración_de_imágenes]], [[venganza]], [[ver]]
-  [[veracidad]], [[verbo_divino]], [[verdad]], [[verdad_de_dios]], [[verdad_de_la_escritura]], [[verdad_revelada]], [[vergüenza]], [[vestido]], [[vicario_de_cristo]], [[vicario_episcopal]]
-  [[vicario_foráneo]], [[vicario_general]], [[vicario_judicial]], [[vicario_parroquial]], [[vicio]], [[victoria]], [[vid_verdadera]], [[vida]], [[vida_activa]], [[vida_común]]
-  [[vida_consagrada]], [[vida_contemplativa]], [[vida_cristiana]], [[vida_de_cristo]], [[vida_de_dios]], [[vida_de_oración]], [[vida_económica]], [[vida_espiritual]], [[vida_eterna]]
-  [[vida_fraterna_religiosa]], [[vida_humana]], [[vida_interior]], [[vida_oculta_de_cristo]], [[vida_oculta_de_jesús]], [[vida_sobrenatural]], [[viernes_santo]], [[vigilancia]], [[vigilia]]
-  [[vigilia_pascual]], [[vino]], [[violación_del_sigilo_sacramental]], [[virgen_maría]], [[virginidad]], [[virginidad_consagrada]], [[virginidad_de_maría]], [[virtud]], [[virtud_adquirida]]
-  [[virtud_de_la_caridad]], [[virtud_de_la_esperanza]], [[virtud_de_la_fe]], [[virtud_de_la_fortaleza]], [[virtud_de_la_justicia]], [[virtud_de_la_prudencia]], [[virtud_de_la_religión]]
-  [[virtud_de_la_templanza]], [[virtud_de_la_verdad]], [[virtud_infusa]], [[virtudes]], [[virtudes_cardinales]], [[virtudes_infusas]], [[virtudes_intelectuales]], [[virtudes_morales]]
-  [[virtudes_teologales]], [[visiones]], [[visita]], [[visitación]], [[visión_beatífica]], [[visión_de_dios]], [[viático]], [[viña]], [[vocabulario_de_teología_bíblica]], [[vocación]]
-  [[vocación_cristiana]], [[vocación_de_pedro]], [[vocación_episcopal]], [[vocación_laical]], [[vocación_sacerdotal]], [[voluntad]], [[voluntad_angélica]], [[voluntad_de_cristo]]
-  [[voluntad_de_dios]], [[voluntad_pía]], [[voluntariado]], [[vos_estis_lux_mundi]], [[voto]], [[voto_de_castidad]], [[voto_de_obediencia]], [[voto_de_pobreza]], [[votos]], [[vulnerabilidad]]
-  [[vía_crucis]], [[vía_iluminativa]], [[vía_purgativa]], [[vía_unitiva]], [[víctima]], [[víctima_de_expiación]], [[vírgenes_consagradas]], [[vísperas]]
+<div class="index-grid">
+
+- [[vademécum_del_ddf]]
+- [[validez_canónica]]
+- [[vanagloria]]
+- [[vanidad]]
+- [[varón_y_mujer]]
+- [[vasos_sagrados]]
+- [[velar]]
+- [[vendimia]]
+- [[veneración_de_imágenes]]
+- [[venganza]]
+- [[ver]]
+- [[veracidad]]
+- [[verbo_divino]]
+- [[verdad]]
+- [[verdad_de_dios]]
+- [[verdad_de_la_escritura]]
+- [[verdad_revelada]]
+- [[vergüenza]]
+- [[vestido]]
+- [[vicario_de_cristo]]
+- [[vicario_episcopal]]
+- [[vicario_foráneo]]
+- [[vicario_general]]
+- [[vicario_judicial]]
+- [[vicario_parroquial]]
+- [[vicio]]
+- [[victoria]]
+- [[vid_verdadera]]
+- [[vida]]
+- [[vida_activa]]
+- [[vida_común]]
+- [[vida_consagrada]]
+- [[vida_contemplativa]]
+- [[vida_cristiana]]
+- [[vida_de_cristo]]
+- [[vida_de_dios]]
+- [[vida_de_oración]]
+- [[vida_económica]]
+- [[vida_espiritual]]
+- [[vida_eterna]]
+- [[vida_fraterna_religiosa]]
+- [[vida_humana]]
+- [[vida_interior]]
+- [[vida_oculta_de_cristo]]
+- [[vida_oculta_de_jesús]]
+- [[vida_sobrenatural]]
+- [[viernes_santo]]
+- [[vigilancia]]
+- [[vigilia]]
+- [[vigilia_pascual]]
+- [[vino]]
+- [[violación_del_sigilo_sacramental]]
+- [[virgen_maría]]
+- [[virginidad]]
+- [[virginidad_consagrada]]
+- [[virginidad_de_maría]]
+- [[virtud]]
+- [[virtud_adquirida]]
+- [[virtud_de_la_caridad]]
+- [[virtud_de_la_esperanza]]
+- [[virtud_de_la_fe]]
+- [[virtud_de_la_fortaleza]]
+- [[virtud_de_la_justicia]]
+- [[virtud_de_la_prudencia]]
+- [[virtud_de_la_religión]]
+- [[virtud_de_la_templanza]]
+- [[virtud_de_la_verdad]]
+- [[virtud_infusa]]
+- [[virtudes]]
+- [[virtudes_cardinales]]
+- [[virtudes_infusas]]
+- [[virtudes_intelectuales]]
+- [[virtudes_morales]]
+- [[virtudes_teologales]]
+- [[visiones]]
+- [[visita]]
+- [[visitación]]
+- [[visión_beatífica]]
+- [[visión_de_dios]]
+- [[viático]]
+- [[viña]]
+- [[vocabulario_de_teología_bíblica]]
+- [[vocación]]
+- [[vocación_cristiana]]
+- [[vocación_de_pedro]]
+- [[vocación_episcopal]]
+- [[vocación_laical]]
+- [[vocación_sacerdotal]]
+- [[voluntad]]
+- [[voluntad_angélica]]
+- [[voluntad_de_cristo]]
+- [[voluntad_de_dios]]
+- [[voluntad_pía]]
+- [[voluntariado]]
+- [[vos_estis_lux_mundi]]
+- [[voto]]
+- [[voto_de_castidad]]
+- [[voto_de_obediencia]]
+- [[voto_de_pobreza]]
+- [[votos]]
+- [[vulnerabilidad]]
+- [[vía_crucis]]
+- [[vía_iluminativa]]
+- [[vía_purgativa]]
+- [[vía_unitiva]]
+- [[víctima]]
+- [[víctima_de_expiación]]
+- [[vírgenes_consagradas]]
+- [[vísperas]]
+
+</div>
 
 ### Á
-  [[ángel_custodio]], [[ángeles]], [[ángeles_custodios]], [[ánimas_del_purgatorio]], [[árbol]]
+<div class="index-grid">
+
+- [[ángel_custodio]]
+- [[ángeles]]
+- [[ángeles_custodios]]
+- [[ánimas_del_purgatorio]]
+- [[árbol]]
+
+</div>
 
 ### É
-  [[éxodo]], [[éxtasis]]
+<div class="index-grid">
+
+- [[éxodo]]
+- [[éxtasis]]
+
+</div>
 
 ### Í
-  [[ídolos]], [[índole_secular]]
+<div class="index-grid">
+
+- [[ídolos]]
+- [[índole_secular]]
+
+</div>
 
 ### Ó
-  [[órdenes_religiosas]], [[órgano]]
+<div class="index-grid">
+
+- [[órdenes_religiosas]]
+- [[órgano]]
+
+</div>
 
 ### Ú
-  [[única_mediación_de_cristo]]
+<div class="index-grid">
+
+- [[única_mediación_de_cristo]]
+
+</div>
 
 ---
 ## Personas
 
 ### A
-  [[abraham]], [[adán]], [[albino_menéndez-reigada]], [[antonio_royo_marín]]
+<div class="index-grid">
+
+- [[abraham]]
+- [[adán]]
+- [[albino_menéndez-reigada]]
+- [[antonio_royo_marín]]
+
+</div>
 
 ### B
-  [[benedicto_xvi]]
+<div class="index-grid">
+
+- [[benedicto_xvi]]
+
+</div>
 
 ### C
-  [[carlos_gutiérrez]], [[casiano]]
+<div class="index-grid">
+
+- [[carlos_gutiérrez]]
+- [[casiano]]
+
+</div>
 
 ### D
-  [[david]]
+<div class="index-grid">
+
+- [[david]]
+
+</div>
 
 ### E
-  [[elías]], [[erik_varden]], [[eva]]
+<div class="index-grid">
+
+- [[elías]]
+- [[erik_varden]]
+- [[eva]]
+
+</div>
 
 ### G
-  [[gaudí]], [[gianfranco_ghirlanda]]
+<div class="index-grid">
+
+- [[gaudí]]
+- [[gianfranco_ghirlanda]]
+
+</div>
 
 ### I
-  [[isabel]]
+<div class="index-grid">
+
+- [[isabel]]
+
+</div>
 
 ### J
-  [[john_connor]], [[john_henry_newman]], [[jorge_loring]], [[juan_bautista]], [[juan_pablo_ii]]
+<div class="index-grid">
+
+- [[john_connor]]
+- [[john_henry_newman]]
+- [[jorge_loring]]
+- [[juan_bautista]]
+- [[juan_pablo_ii]]
+
+</div>
 
 ### L
-  [[león_xiv]]
+<div class="index-grid">
+
+- [[león_xiv]]
+
+</div>
 
 ### M
-  [[maría_de_agreda]], [[mateo]], [[moisés]]
+<div class="index-grid">
+
+- [[maría_de_agreda]]
+- [[mateo]]
+- [[moisés]]
+
+</div>
 
 ### N
-  [[nehemías]], [[nicolás_de_flüe]]
+<div class="index-grid">
+
+- [[nehemías]]
+- [[nicolás_de_flüe]]
+
+</div>
 
 ### P
-  [[papa_francisco]], [[pseudo-dionisio_areopagita]]
+<div class="index-grid">
+
+- [[papa_francisco]]
+- [[pseudo-dionisio_areopagita]]
+
+</div>
 
 ### R
-  [[raymond_brown]], [[réginald_garrigou-lagrange]]
+<div class="index-grid">
+
+- [[raymond_brown]]
+- [[réginald_garrigou-lagrange]]
+
+</div>
 
 ### S
-  [[san_agustín]], [[san_alfonso_de_ligorio]], [[san_benito]], [[san_bernardo]], [[san_buenaventura]], [[san_francisco_de_asís]], [[san_francisco_de_sales]], [[san_gregorio_magno]]
-  [[san_ignacio_de_loyola]], [[san_josé]], [[san_josé_de_cupertino]], [[san_juan_clímaco]], [[san_juan_de_la_cruz]], [[san_juan_enrique_newman]], [[san_maximiliano_kolbe]], [[san_pablo]]
-  [[san_patricio]], [[san_pedro]], [[san_pedro_de_alcántara]], [[santa_catalina_de_siena]], [[santa_clara_de_asís]], [[santa_faustina_kowalska]], [[santa_gema_galgani]], [[santa_teresa_de_jesús]]
-  [[santo_tomás_de_aquino]]
+<div class="index-grid">
+
+- [[san_agustín]]
+- [[san_alfonso_de_ligorio]]
+- [[san_benito]]
+- [[san_bernardo]]
+- [[san_buenaventura]]
+- [[san_francisco_de_asís]]
+- [[san_francisco_de_sales]]
+- [[san_gregorio_magno]]
+- [[san_ignacio_de_loyola]]
+- [[san_josé]]
+- [[san_josé_de_cupertino]]
+- [[san_juan_clímaco]]
+- [[san_juan_de_la_cruz]]
+- [[san_juan_enrique_newman]]
+- [[san_maximiliano_kolbe]]
+- [[san_pablo]]
+- [[san_patricio]]
+- [[san_pedro]]
+- [[san_pedro_de_alcántara]]
+- [[santa_catalina_de_siena]]
+- [[santa_clara_de_asís]]
+- [[santa_faustina_kowalska]]
+- [[santa_gema_galgani]]
+- [[santa_teresa_de_jesús]]
+- [[santo_tomás_de_aquino]]
+
+</div>
 
 ### T
-  [[teresa_neumann]]
+<div class="index-grid">
+
+- [[teresa_neumann]]
+
+</div>
 
 ---
 ## Documentos
 
 ### C
-  [[carta_al_presbiterio_de_madrid]], [[catecismo_de_la_iglesia_católica]], [[comentarios_al_código_de_derecho_canónico]], [[como_una_madre_amorosa]]
-  [[compendio_de_doctrina_social_de_la_iglesia]], [[concilio_vaticano_ii]], [[código_de_derecho_canónico]]
+<div class="index-grid">
+
+- [[carta_al_presbiterio_de_madrid]]
+- [[catecismo_de_la_iglesia_católica]]
+- [[comentarios_al_código_de_derecho_canónico]]
+- [[como_una_madre_amorosa]]
+- [[compendio_de_doctrina_social_de_la_iglesia]]
+- [[concilio_vaticano_ii]]
+- [[código_de_derecho_canónico]]
+
+</div>
 
 ### D
-  [[discurso_a_los_jóvenes_chilenos]], [[discurso_al_clero_de_roma]], [[discurso_protección_menores_2019]], [[dives_in_misericordia]], [[don_y_misterio]]
+<div class="index-grid">
+
+- [[discurso_a_los_jóvenes_chilenos]]
+- [[discurso_al_clero_de_roma]]
+- [[discurso_protección_menores_2019]]
+- [[dives_in_misericordia]]
+- [[don_y_misterio]]
+
+</div>
 
 ### E
-  [[ecclesia_in_america]], [[ejercicios_espirituales_2026]]
+<div class="index-grid">
+
+- [[ecclesia_in_america]]
+- [[ejercicios_espirituales_2026]]
+
+</div>
 
 ### F
-  [[familiaris_consortio]], [[fides_et_ratio]]
+<div class="index-grid">
+
+- [[familiaris_consortio]]
+- [[fides_et_ratio]]
+
+</div>
 
 ### H
-  [[hermenéutica_y_biblia]]
+<div class="index-grid">
+
+- [[hermenéutica_y_biblia]]
+
+</div>
 
 ### L
-  [[laborem_exercens]], [[levantaos_vamos]], [[ley_protección_menores]], [[líneas_guía_protección_menores]]
+<div class="index-grid">
+
+- [[laborem_exercens]]
+- [[levantaos_vamos]]
+- [[ley_protección_menores]]
+- [[líneas_guía_protección_menores]]
+
+</div>
 
 ### M
-  [[magnífica_humanitas]], [[maría_josé_y_la_vida_oculta_de_jesús]], [[memoria_e_identidad]], [[mensaje_santificación_sacerdotal]], [[motu_proprio_protección_menores]]
+<div class="index-grid">
+
+- [[magnífica_humanitas]]
+- [[maría_josé_y_la_vida_oculta_de_jesús]]
+- [[memoria_e_identidad]]
+- [[mensaje_santificación_sacerdotal]]
+- [[motu_proprio_protección_menores]]
+
+</div>
 
 ### N
-  [[normae_de_gravioribus_delictis]], [[nota_doctrinal_emociones_fe]]
+<div class="index-grid">
+
+- [[normae_de_gravioribus_delictis]]
+- [[nota_doctrinal_emociones_fe]]
+
+</div>
 
 ### P
-  [[para_salvarte]], [[paradoxes_of_faith]], [[pascite_gregem_dei]], [[pastores_dabo_vobis]]
+<div class="index-grid">
+
+- [[para_salvarte]]
+- [[paradoxes_of_faith]]
+- [[pascite_gregem_dei]]
+- [[pastores_dabo_vobis]]
+
+</div>
 
 ### R
-  [[redemptor_hominis]], [[redemptoris_mater]]
+<div class="index-grid">
+
+- [[redemptor_hominis]]
+- [[redemptoris_mater]]
+
+</div>
 
 ### S
-  [[sacramentorum_sanctitatis_tutela]], [[summa_theologiae]]
+<div class="index-grid">
+
+- [[sacramentorum_sanctitatis_tutela]]
+- [[summa_theologiae]]
+
+</div>
 
 ### T
-  [[teología_de_la_perfección_cristiana]]
+<div class="index-grid">
+
+- [[teología_de_la_perfección_cristiana]]
+
+</div>
 
 ### U
-  [[una_fidelidad_que_genera_futuro]], [[una_visita_de_dios]]
+<div class="index-grid">
+
+- [[una_fidelidad_que_genera_futuro]]
+- [[una_visita_de_dios]]
+
+</div>
 
 ### V
-  [[vademécum_del_ddf]], [[veritatis_splendor]], [[viaje_apostólico_españa_2026]], [[vida_de_jesús]], [[vocabulario_de_teología_bíblica]], [[vos_estis_lux_mundi]]
+<div class="index-grid">
+
+- [[vademécum_del_ddf]]
+- [[veritatis_splendor]]
+- [[viaje_apostólico_españa_2026]]
+- [[vida_de_jesús]]
+- [[vocabulario_de_teología_bíblica]]
+- [[vos_estis_lux_mundi]]
+
+</div>
 
 ---
 ## Espiritualidad Legionaria
@@ -381,93 +2252,256 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 ### Conceptos
 
 ### A
-  [[abuso_de_autoridad]], [[abuso_espiritual]], [[acompañamiento_a_víctimas]], [[acompañamiento_formativo]], [[administración_y_voto_de_pobreza]], [[ars_celebrandi]]
-  [[asamblea_general_regnum_christi]], [[autoformación]], [[autoridad_evangélica]]
+<div class="index-grid">
+
+- [[abuso_de_autoridad]]
+- [[abuso_espiritual]]
+- [[acompañamiento_a_víctimas]]
+- [[acompañamiento_formativo]]
+- [[administración_y_voto_de_pobreza]]
+- [[ars_celebrandi]]
+- [[asamblea_general_regnum_christi]]
+- [[autoformación]]
+- [[autoridad_evangélica]]
+
+</div>
 
 ### B
-  [[benedicencia]]
+<div class="index-grid">
+
+- [[benedicencia]]
+
+</div>
 
 ### C
-  [[capítulo_general]], [[carisma_legionario]], [[casa_de_formación]], [[centro_vocacional]], [[cinco_amores]], [[colegio_directivo]], [[comunidad_de_apóstoles]], [[comunidad_formativa]]
-  [[consagración_legionaria]], [[constituciones_legionarios_de_cristo]], [[conversación_en_el_espíritu]], [[conversión_institucional]], [[cristocentrismo_legionario]]
+<div class="index-grid">
+
+- [[capítulo_general]]
+- [[carisma_legionario]]
+- [[casa_de_formación]]
+- [[centro_vocacional]]
+- [[cinco_amores]]
+- [[colegio_directivo]]
+- [[comunidad_de_apóstoles]]
+- [[comunidad_formativa]]
+- [[consagración_legionaria]]
+- [[constituciones_legionarios_de_cristo]]
+- [[conversación_en_el_espíritu]]
+- [[conversión_institucional]]
+- [[cristocentrismo_legionario]]
+
+</div>
 
 ### D
-  [[discernimiento_comunitario]], [[discernimiento_vocacional]]
+<div class="index-grid">
+
+- [[discernimiento_comunitario]]
+- [[discernimiento_vocacional]]
+
+</div>
 
 ### E
-  [[ecyd]], [[elección]], [[entrega_del_hábito_legionario]], [[envío_apostólico]], [[espiritualidad_legionaria]], [[evangelización_de_la_cultura]], [[excelencia_académica]]
-  [[exequias_legionarias]]
+<div class="index-grid">
+
+- [[ecyd]]
+- [[elección]]
+- [[entrega_del_hábito_legionario]]
+- [[envío_apostólico]]
+- [[espiritualidad_legionaria]]
+- [[evangelización_de_la_cultura]]
+- [[excelencia_académica]]
+- [[exequias_legionarias]]
+
+</div>
 
 ### F
-  [[federación_regnum_christi]], [[fieles_asociados_regnum_christi]], [[formación_basada_en_convicciones]], [[formación_en_relación]], [[formación_experiencial]], [[formación_gradual]]
-  [[formación_integral]], [[formación_intelectual]], [[formación_legionaria]], [[formación_permanente]], [[formación_personalizada]]
+<div class="index-grid">
+
+- [[federación_regnum_christi]]
+- [[fieles_asociados_regnum_christi]]
+- [[formación_basada_en_convicciones]]
+- [[formación_en_relación]]
+- [[formación_experiencial]]
+- [[formación_gradual]]
+- [[formación_integral]]
+- [[formación_intelectual]]
+- [[formación_legionaria]]
+- [[formación_permanente]]
+- [[formación_personalizada]]
+
+</div>
 
 ### H
-  [[himno_legionario]], [[hora_eucarística_legionaria]]
+<div class="index-grid">
+
+- [[himno_legionario]]
+- [[hora_eucarística_legionaria]]
+
+</div>
 
 ### I
-  [[identidad_legionaria]], [[informe_1941_2019]]
+<div class="index-grid">
+
+- [[identidad_legionaria]]
+- [[informe_1941_2019]]
+
+</div>
 
 ### J
-  [[justicia_restaurativa]]
+<div class="index-grid">
+
+- [[justicia_restaurativa]]
+
+</div>
 
 ### L
-  [[legión_en_regnum_christi]]
+<div class="index-grid">
+
+- [[legión_en_regnum_christi]]
+
+</div>
 
 ### M
-  [[militia_christi]]
+<div class="index-grid">
+
+- [[militia_christi]]
+
+</div>
 
 ### N
-  [[normas_complementarias]], [[novenas_legionarias]]
+<div class="index-grid">
+
+- [[normas_complementarias]]
+- [[novenas_legionarias]]
+
+</div>
 
 ### O
-  [[obediencia_filial]]
+<div class="index-grid">
+
+- [[obediencia_filial]]
+
+</div>
 
 ### P
-  [[paternidad_sacerdotal]], [[perfil_intelectual_legionario]], [[prefecto_de_capilla]], [[profesión_religiosa_legionaria]], [[promoción_vocacional]], [[proteger_y_sanar]]
-  [[proyecto_comunitario]]
+<div class="index-grid">
+
+- [[paternidad_sacerdotal]]
+- [[perfil_intelectual_legionario]]
+- [[prefecto_de_capilla]]
+- [[profesión_religiosa_legionaria]]
+- [[promoción_vocacional]]
+- [[proteger_y_sanar]]
+- [[proyecto_comunitario]]
+
+</div>
 
 ### R
-  [[ratio_institutionis]], [[ratio_studiorum]], [[reconciliación_institucional]], [[renovacion_promesas_bautismales_legionaria]], [[renovación_apostólica]]
+<div class="index-grid">
+
+- [[ratio_institutionis]]
+- [[ratio_studiorum]]
+- [[reconciliación_institucional]]
+- [[renovacion_promesas_bautismales_legionaria]]
+- [[renovación_apostólica]]
+
+</div>
 
 ### S
-  [[sapientia_christi]], [[sinodalidad]], [[solemnización_progresiva]]
+<div class="index-grid">
+
+- [[sapientia_christi]]
+- [[sinodalidad]]
+- [[solemnización_progresiva]]
+
+</div>
 
 ### V
-  [[vida_en_el_espíritu]], [[vida_fraterna_religiosa]], [[vida_litúrgica_y_oración]], [[voto_propio]]
+<div class="index-grid">
+
+- [[vida_en_el_espíritu]]
+- [[vida_fraterna_religiosa]]
+- [[vida_litúrgica_y_oración]]
+- [[voto_propio]]
+
+</div>
 
 ### Documentos
 
 ### A
-  [[asambleas_generales_regnum_christi_2018]]
+<div class="index-grid">
+
+- [[asambleas_generales_regnum_christi_2018]]
+
+</div>
 
 ### C
-  [[capítulo_general_2020_legionarios_de_cristo]], [[capítulo_general_extraordinario_2014]], [[capítulo_general_extraordinario_2018]], [[consideraciones_sobre_carismas_sanación]]
-  [[conversión_reparación_proteger_y_sanar]]
+<div class="index-grid">
+
+- [[capítulo_general_2020_legionarios_de_cristo]]
+- [[capítulo_general_extraordinario_2014]]
+- [[capítulo_general_extraordinario_2018]]
+- [[consideraciones_sobre_carismas_sanación]]
+- [[conversión_reparación_proteger_y_sanar]]
+
+</div>
 
 ### E
-  [[estatutos_federación_regnum_christi]]
+<div class="index-grid">
+
+- [[estatutos_federación_regnum_christi]]
+
+</div>
 
 ### G
-  [[guía_de_liturgia_y_oración_en_común]]
+<div class="index-grid">
+
+- [[guía_de_liturgia_y_oración_en_común]]
+
+</div>
 
 ### I
-  [[instituyo_a_los_doce]]
+<div class="index-grid">
+
+- [[instituyo_a_los_doce]]
+
+</div>
 
 ### L
-  [[los_carismas_y_las_nuevas_realidades_eclesiales]]
+<div class="index-grid">
+
+- [[los_carismas_y_las_nuevas_realidades_eclesiales]]
+
+</div>
 
 ### P
-  [[plan_formación_centros_vocacionales]]
+<div class="index-grid">
+
+- [[plan_formación_centros_vocacionales]]
+
+</div>
 
 ### R
-  [[ratio_institutionis_christus_vita_vestra]], [[ritual_de_la_congregación_de_los_legionarios_de_cristo]]
+<div class="index-grid">
+
+- [[ratio_institutionis_christus_vita_vestra]]
+- [[ritual_de_la_congregación_de_los_legionarios_de_cristo]]
+
+</div>
 
 ### S
-  [[sapientia_christi_ratio_studiorum]]
+<div class="index-grid">
+
+- [[sapientia_christi_ratio_studiorum]]
+
+</div>
 
 ### V
-  [[v_capítulo_general_legionarios_de_cristo]]
+<div class="index-grid">
+
+- [[v_capítulo_general_legionarios_de_cristo]]
+
+</div>
 
 ---
 ## Notas de análisis
@@ -477,36 +2511,93 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 ### Índices de carpeta
 
 ### A
-  [[adam_farber_fortitude_through_excellence_in_mercy]], [[adam_farber_fortitude_through_excellence_in_patience]], [[adam_farber_justice]], [[alan_baker_perseverance]]
-  [[alexander_marriage_gospels]], [[ali_ghaffari_courage]], [[auténtica_día_1_enfrenta_tus_miedos]], [[auténtica_día_2_lidera_tu_vida_con_dios]]
-  [[auténtica_día_3_aporta_al_mundo_con_tus_talentos]]
+<div class="index-grid">
+
+- [[adam_farber_fortitude_through_excellence_in_mercy]]
+- [[adam_farber_fortitude_through_excellence_in_patience]]
+- [[adam_farber_justice]]
+- [[alan_baker_perseverance]]
+- [[alexander_marriage_gospels]]
+- [[ali_ghaffari_courage]]
+- [[auténtica_día_1_enfrenta_tus_miedos]]
+- [[auténtica_día_2_lidera_tu_vida_con_dios]]
+- [[auténtica_día_3_aporta_al_mundo_con_tus_talentos]]
+
+</div>
 
 ### B
-  [[brian_cochran_my_personal_emmaus]]
+<div class="index-grid">
+
+- [[brian_cochran_my_personal_emmaus]]
+
+</div>
 
 ### C
-  [[christian_bobak_men_of_integrity]], [[clarkson_gospels_human_suffering]], [[closing_keynote_virtuous_leader]]
+<div class="index-grid">
+
+- [[christian_bobak_men_of_integrity]]
+- [[clarkson_gospels_human_suffering]]
+- [[closing_keynote_virtuous_leader]]
+
+</div>
 
 ### F
-  [[fr_michael_luxbacher_life_in_abundance]], [[frassati_company]]
+<div class="index-grid">
+
+- [[fr_michael_luxbacher_life_in_abundance]]
+- [[frassati_company]]
+
+</div>
 
 ### H
-  [[horn_hard_sayings_jesus]]
+<div class="index-grid">
+
+- [[horn_hard_sayings_jesus]]
+
+</div>
 
 ### J
-  [[jeff_lacour_true_freedom_through_prayer]], [[joe_mcinerny_humble_greatness]], [[joey_stevens_grit_perseverance]], [[john_wissler_leading_with_charity]], [[john_wissler_virtuous_leadership]]
+<div class="index-grid">
+
+- [[jeff_lacour_true_freedom_through_prayer]]
+- [[joe_mcinerny_humble_greatness]]
+- [[joey_stevens_grit_perseverance]]
+- [[john_wissler_leading_with_charity]]
+- [[john_wissler_virtuous_leadership]]
+
+</div>
 
 ### K
-  [[kathy_washeck_docility]], [[kevin_mulaney_prudence_decisions]]
+<div class="index-grid">
+
+- [[kathy_washeck_docility]]
+- [[kevin_mulaney_prudence_decisions]]
+
+</div>
 
 ### P
-  [[pitre_did_jesus_claim_to_be_god]]
+<div class="index-grid">
+
+- [[pitre_did_jesus_claim_to_be_god]]
+
+</div>
 
 ### S
-  [[sean_glass_call_to_fortitude]], [[stewart_teaching_kids_gospels]], [[strive_detox_from_porn]]
+<div class="index-grid">
+
+- [[sean_glass_call_to_fortitude]]
+- [[stewart_teaching_kids_gospels]]
+- [[strive_detox_from_porn]]
+
+</div>
 
 ### T
-  [[tim_barry_mortification_maketh_man]], [[tim_barry_the_strength_of_meekness]]
+<div class="index-grid">
+
+- [[tim_barry_mortification_maketh_man]]
+- [[tim_barry_the_strength_of_meekness]]
+
+</div>
 
 ---
 ## Notas de consulta
@@ -515,16 +2606,38 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 
 
 ### D
-  [[don_de_ciencia]], [[don_de_consejo]], [[don_de_entendimiento]], [[don_de_fortaleza]], [[don_de_piedad]], [[don_de_sabiduría]], [[don_de_temor_de_dios]]
+<div class="index-grid">
+
+- [[don_de_ciencia]]
+- [[don_de_consejo]]
+- [[don_de_entendimiento]]
+- [[don_de_fortaleza]]
+- [[don_de_piedad]]
+- [[don_de_sabiduría]]
+- [[don_de_temor_de_dios]]
+
+</div>
 
 ### P
-  [[primeros_pasos_en_la_vida_espiritual]]
+<div class="index-grid">
+
+- [[primeros_pasos_en_la_vida_espiritual]]
+
+</div>
 
 ### R
-  [[reporte_conceptos_huérfanos]]
+<div class="index-grid">
+
+- [[reporte_conceptos_huérfanos]]
+
+</div>
 
 ### T
-  [[templanza_y_castidad]]
+<div class="index-grid">
+
+- [[templanza_y_castidad]]
+
+</div>
 
 ---
 ## Fuentes activas
