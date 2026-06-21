@@ -4,7 +4,7 @@ tags:
   - index
 title: Wiki Index
 updated: '2026-06-20'
-note: 'VJ procesado completo (8 capítulos). JPII: 17/24 completados.'
+note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar-indice.py'
 ---
 
 # Wiki Index
@@ -279,7 +279,6 @@ note: 'VJ procesado completo (8 capítulos). JPII: 17/24 completados.'
   [[única_mediación_de_cristo]]
 
 ---
-
 ## Personas
 
 ### A
@@ -331,7 +330,6 @@ note: 'VJ procesado completo (8 capítulos). JPII: 17/24 completados.'
   [[teresa_neumann]]
 
 ---
-
 ## Documentos
 
 ### C
@@ -378,7 +376,6 @@ note: 'VJ procesado completo (8 capítulos). JPII: 17/24 completados.'
   [[vademécum_del_ddf]], [[veritatis_splendor]], [[viaje_apostólico_españa_2026]], [[vida_de_jesús]], [[vocabulario_de_teología_bíblica]], [[vos_estis_lux_mundi]]
 
 ---
-
 ## Espiritualidad Legionaria
 
 ### Conceptos
@@ -473,11 +470,9 @@ note: 'VJ procesado completo (8 capítulos). JPII: 17/24 completados.'
   [[v_capítulo_general_legionarios_de_cristo]]
 
 ---
-
 ## Notas de análisis
 
-> Ubicadas en `wiki/notas/analizados/`. Generadas a partir de
-> `raw/Para_analizar-raw/`.
+> Ubicadas en `wiki/notas/analizados/`.
 
 ### Índices de carpeta
 
@@ -514,10 +509,9 @@ note: 'VJ procesado completo (8 capítulos). JPII: 17/24 completados.'
   [[tim_barry_mortification_maketh_man]], [[tim_barry_the_strength_of_meekness]]
 
 ---
-
 ## Notas de consulta
 
-> Ubicadas en `wiki/notas/consultas/`. Generadas a partir de consultas directas.
+> Ubicadas en `wiki/notas/consultas/`.
 
 
 ### D
@@ -533,7 +527,6 @@ note: 'VJ procesado completo (8 capítulos). JPII: 17/24 completados.'
   [[templanza_y_castidad]]
 
 ---
-
 ## Fuentes activas
 
 | Código | Obra | Estado |
