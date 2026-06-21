@@ -12,7 +12,6 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 ## Conceptos
 
 ### A
-<div class="index-grid">
 
 - [[abandono_en_dios]]
 - [[abandono_en_la_providencia_divina]]
@@ -155,10 +154,7 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[año_litúrgico]]
 - [[año_mariano]]
 
-</div>
-
 ### B
-<div class="index-grid">
 
 - [[babel]]
 - [[baptisterio]]
@@ -190,10 +186,7 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[burla]]
 - [[buscar]]
 
-</div>
-
 ### C
-<div class="index-grid">
 
 - [[cabeza_de_la_iglesia]]
 - [[cabildo_de_canónigos]]
@@ -415,10 +408,7 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[cómputo_del_tiempo]]
 - [[cónclave]]
 
-</div>
-
 ### D
-<div class="index-grid">
 
 - [[deber]]
 - [[decreto_general]]
@@ -551,10 +541,7 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[días_de_penitencia]]
 - [[días_de_precepto]]
 
-</div>
-
 ### E
-<div class="index-grid">
 
 - [[ecclesia_semper_reformanda]]
 - [[eclesiología]]
@@ -681,10 +668,7 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[extranjero]]
 - [[exégesis_patrística]]
 
-</div>
-
 ### F
-<div class="index-grid">
 
 - [[falsedad]]
 - [[falso_misticismo]]
@@ -743,10 +727,7 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[fundación_pía]]
 - [[funerales]]
 
-</div>
-
 ### G
-<div class="index-grid">
 
 - [[gaudete_et_exsultate]]
 - [[gaudium_et_spes]]
@@ -782,10 +763,7 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[géneros_literarios]]
 - [[géneros_literarios_bíblicos]]
 
-</div>
-
 ### H
-<div class="index-grid">
 
 - [[hado]]
 - [[hambre_y_sed]]
@@ -819,10 +797,7 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[hurto]]
 - [[hábito]]
 
-</div>
-
 ### I
-<div class="index-grid">
 
 - [[iconografía_mariana]]
 - [[ideas_divinas]]
@@ -912,10 +887,7 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[islam]]
 - [[israel]]
 
-</div>
-
 ### J
-<div class="index-grid">
 
 - [[jactancia]]
 - [[jerarquía_angélica]]
@@ -948,18 +920,12 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[juventud]]
 - [[jóvenes]]
 
-</div>
-
 ### K
-<div class="index-grid">
 
 - [[kenosis]]
 - [[koinonía]]
 
-</div>
-
 ### L
-<div class="index-grid">
 
 - [[labios]]
 - [[laicado]]
@@ -1027,10 +993,7 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[lágrimas_y_sudor_de_sangre]]
 - [[lámpara]]
 
-</div>
-
 ### M
-<div class="index-grid">
 
 - [[madre]]
 - [[madre_de_dios]]
@@ -1140,10 +1103,7 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[música_sacra]]
 - [[música_sagrada]]
 
-</div>
-
 ### N
-<div class="index-grid">
 
 - [[nacimiento_nuevo]]
 - [[naciones]]
@@ -1185,10 +1145,7 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[nulidad_matrimonial]]
 - [[números]]
 
-</div>
-
 ### O
-<div class="index-grid">
 
 - [[obediencia]]
 - [[obediencia_a_cristo]]
@@ -1253,10 +1210,7 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[ornamentos_litúrgicos]]
 - [[ornato]]
 
-</div>
-
 ### P
-<div class="index-grid">
 
 - [[paciencia]]
 - [[padre_nuestro]]
@@ -1468,18 +1422,12 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[pérdida_del_estado_clerical]]
 - [[pías_voluntades]]
 
-</div>
-
 ### Q
-<div class="index-grid">
 
 - [[querella_de_nulidad]]
 - [[quietud]]
 
-</div>
-
 ### R
-<div class="index-grid">
 
 - [[rahamim]]
 - [[rapto]]
@@ -1555,10 +1503,7 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[rostro]]
 - [[rota_romana]]
 
-</div>
-
 ### S
-<div class="index-grid">
 
 - [[sabiduría]]
 - [[sacerdocio]]
@@ -1720,10 +1665,7 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[sínodo_de_los_obispos]]
 - [[sínodo_diocesano]]
 
-</div>
-
 ### T
-<div class="index-grid">
 
 - [[temor]]
 - [[temor_de_dios]]
@@ -1782,10 +1724,7 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[tristeza]]
 - [[título_canónico]]
 
-</div>
-
 ### U
-<div class="index-grid">
 
 - [[una_fidelidad_que_genera_futuro]]
 - [[unción]]
@@ -1807,10 +1746,7 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[usura]]
 - [[utilitarismo]]
 
-</div>
-
 ### V
-<div class="index-grid">
 
 - [[vademécum_del_ddf]]
 - [[validez_canónica]]
@@ -1922,10 +1858,7 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[vírgenes_consagradas]]
 - [[vísperas]]
 
-</div>
-
 ### Á
-<div class="index-grid">
 
 - [[ángel_custodio]]
 - [[ángeles]]
@@ -1933,100 +1866,64 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[ánimas_del_purgatorio]]
 - [[árbol]]
 
-</div>
-
 ### É
-<div class="index-grid">
 
 - [[éxodo]]
 - [[éxtasis]]
 
-</div>
-
 ### Í
-<div class="index-grid">
 
 - [[ídolos]]
 - [[índole_secular]]
 
-</div>
-
 ### Ó
-<div class="index-grid">
 
 - [[órdenes_religiosas]]
 - [[órgano]]
 
-</div>
-
 ### Ú
-<div class="index-grid">
 
 - [[única_mediación_de_cristo]]
-
-</div>
 
 ---
 ## Personas
 
 ### A
-<div class="index-grid">
 
 - [[abraham]]
 - [[adán]]
 - [[albino_menéndez-reigada]]
 - [[antonio_royo_marín]]
 
-</div>
-
 ### B
-<div class="index-grid">
 
 - [[benedicto_xvi]]
 
-</div>
-
 ### C
-<div class="index-grid">
 
 - [[carlos_gutiérrez]]
 - [[casiano]]
 
-</div>
-
 ### D
-<div class="index-grid">
 
 - [[david]]
 
-</div>
-
 ### E
-<div class="index-grid">
 
 - [[elías]]
 - [[erik_varden]]
 - [[eva]]
 
-</div>
-
 ### G
-<div class="index-grid">
 
 - [[gaudí]]
 - [[gianfranco_ghirlanda]]
 
-</div>
-
 ### I
-<div class="index-grid">
 
 - [[isabel]]
 
-</div>
-
 ### J
-<div class="index-grid">
 
 - [[john_connor]]
 - [[john_henry_newman]]
@@ -2034,50 +1931,32 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[juan_bautista]]
 - [[juan_pablo_ii]]
 
-</div>
-
 ### L
-<div class="index-grid">
 
 - [[león_xiv]]
 
-</div>
-
 ### M
-<div class="index-grid">
 
 - [[maría_de_agreda]]
 - [[mateo]]
 - [[moisés]]
 
-</div>
-
 ### N
-<div class="index-grid">
 
 - [[nehemías]]
 - [[nicolás_de_flüe]]
 
-</div>
-
 ### P
-<div class="index-grid">
 
 - [[papa_francisco]]
 - [[pseudo-dionisio_areopagita]]
 
-</div>
-
 ### R
-<div class="index-grid">
 
 - [[raymond_brown]]
 - [[réginald_garrigou-lagrange]]
 
-</div>
-
 ### S
-<div class="index-grid">
 
 - [[san_agustín]]
 - [[san_alfonso_de_ligorio]]
@@ -2105,20 +1984,14 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[santa_teresa_de_jesús]]
 - [[santo_tomás_de_aquino]]
 
-</div>
-
 ### T
-<div class="index-grid">
 
 - [[teresa_neumann]]
-
-</div>
 
 ---
 ## Documentos
 
 ### C
-<div class="index-grid">
 
 - [[carta_al_presbiterio_de_madrid]]
 - [[catecismo_de_la_iglesia_católica]]
@@ -2128,10 +2001,7 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[concilio_vaticano_ii]]
 - [[código_de_derecho_canónico]]
 
-</div>
-
 ### D
-<div class="index-grid">
 
 - [[discurso_a_los_jóvenes_chilenos]]
 - [[discurso_al_clero_de_roma]]
@@ -2139,43 +2009,28 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[dives_in_misericordia]]
 - [[don_y_misterio]]
 
-</div>
-
 ### E
-<div class="index-grid">
 
 - [[ecclesia_in_america]]
 - [[ejercicios_espirituales_2026]]
 
-</div>
-
 ### F
-<div class="index-grid">
 
 - [[familiaris_consortio]]
 - [[fides_et_ratio]]
 
-</div>
-
 ### H
-<div class="index-grid">
 
 - [[hermenéutica_y_biblia]]
 
-</div>
-
 ### L
-<div class="index-grid">
 
 - [[laborem_exercens]]
 - [[levantaos_vamos]]
 - [[ley_protección_menores]]
 - [[líneas_guía_protección_menores]]
 
-</div>
-
 ### M
-<div class="index-grid">
 
 - [[magnífica_humanitas]]
 - [[maría_josé_y_la_vida_oculta_de_jesús]]
@@ -2183,59 +2038,38 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[mensaje_santificación_sacerdotal]]
 - [[motu_proprio_protección_menores]]
 
-</div>
-
 ### N
-<div class="index-grid">
 
 - [[normae_de_gravioribus_delictis]]
 - [[nota_doctrinal_emociones_fe]]
 
-</div>
-
 ### P
-<div class="index-grid">
 
 - [[para_salvarte]]
 - [[paradoxes_of_faith]]
 - [[pascite_gregem_dei]]
 - [[pastores_dabo_vobis]]
 
-</div>
-
 ### R
-<div class="index-grid">
 
 - [[redemptor_hominis]]
 - [[redemptoris_mater]]
 
-</div>
-
 ### S
-<div class="index-grid">
 
 - [[sacramentorum_sanctitatis_tutela]]
 - [[summa_theologiae]]
 
-</div>
-
 ### T
-<div class="index-grid">
 
 - [[teología_de_la_perfección_cristiana]]
 
-</div>
-
 ### U
-<div class="index-grid">
 
 - [[una_fidelidad_que_genera_futuro]]
 - [[una_visita_de_dios]]
 
-</div>
-
 ### V
-<div class="index-grid">
 
 - [[vademécum_del_ddf]]
 - [[veritatis_splendor]]
@@ -2244,15 +2078,12 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[vocabulario_de_teología_bíblica]]
 - [[vos_estis_lux_mundi]]
 
-</div>
-
 ---
 ## Espiritualidad Legionaria
 
 ### Conceptos
 
 ### A
-<div class="index-grid">
 
 - [[abuso_de_autoridad]]
 - [[abuso_espiritual]]
@@ -2264,17 +2095,11 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[autoformación]]
 - [[autoridad_evangélica]]
 
-</div>
-
 ### B
-<div class="index-grid">
 
 - [[benedicencia]]
 
-</div>
-
 ### C
-<div class="index-grid">
 
 - [[capítulo_general]]
 - [[carisma_legionario]]
@@ -2290,18 +2115,12 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[conversión_institucional]]
 - [[cristocentrismo_legionario]]
 
-</div>
-
 ### D
-<div class="index-grid">
 
 - [[discernimiento_comunitario]]
 - [[discernimiento_vocacional]]
 
-</div>
-
 ### E
-<div class="index-grid">
 
 - [[ecyd]]
 - [[elección]]
@@ -2312,10 +2131,7 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[excelencia_académica]]
 - [[exequias_legionarias]]
 
-</div>
-
 ### F
-<div class="index-grid">
 
 - [[federación_regnum_christi]]
 - [[fieles_asociados_regnum_christi]]
@@ -2329,62 +2145,38 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[formación_permanente]]
 - [[formación_personalizada]]
 
-</div>
-
 ### H
-<div class="index-grid">
 
 - [[himno_legionario]]
 - [[hora_eucarística_legionaria]]
 
-</div>
-
 ### I
-<div class="index-grid">
 
 - [[identidad_legionaria]]
 - [[informe_1941_2019]]
 
-</div>
-
 ### J
-<div class="index-grid">
 
 - [[justicia_restaurativa]]
 
-</div>
-
 ### L
-<div class="index-grid">
 
 - [[legión_en_regnum_christi]]
 
-</div>
-
 ### M
-<div class="index-grid">
 
 - [[militia_christi]]
 
-</div>
-
 ### N
-<div class="index-grid">
 
 - [[normas_complementarias]]
 - [[novenas_legionarias]]
 
-</div>
-
 ### O
-<div class="index-grid">
 
 - [[obediencia_filial]]
 
-</div>
-
 ### P
-<div class="index-grid">
 
 - [[paternidad_sacerdotal]]
 - [[perfil_intelectual_legionario]]
@@ -2394,10 +2186,7 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[proteger_y_sanar]]
 - [[proyecto_comunitario]]
 
-</div>
-
 ### R
-<div class="index-grid">
 
 - [[ratio_institutionis]]
 - [[ratio_studiorum]]
@@ -2405,38 +2194,26 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[renovacion_promesas_bautismales_legionaria]]
 - [[renovación_apostólica]]
 
-</div>
-
 ### S
-<div class="index-grid">
 
 - [[sapientia_christi]]
 - [[sinodalidad]]
 - [[solemnización_progresiva]]
 
-</div>
-
 ### V
-<div class="index-grid">
 
 - [[vida_en_el_espíritu]]
 - [[vida_fraterna_religiosa]]
 - [[vida_litúrgica_y_oración]]
 - [[voto_propio]]
 
-</div>
-
 ### Documentos
 
 ### A
-<div class="index-grid">
 
 - [[asambleas_generales_regnum_christi_2018]]
 
-</div>
-
 ### C
-<div class="index-grid">
 
 - [[capítulo_general_2020_legionarios_de_cristo]]
 - [[capítulo_general_extraordinario_2014]]
@@ -2444,64 +2221,38 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[consideraciones_sobre_carismas_sanación]]
 - [[conversión_reparación_proteger_y_sanar]]
 
-</div>
-
 ### E
-<div class="index-grid">
 
 - [[estatutos_federación_regnum_christi]]
 
-</div>
-
 ### G
-<div class="index-grid">
 
 - [[guía_de_liturgia_y_oración_en_común]]
 
-</div>
-
 ### I
-<div class="index-grid">
 
 - [[instituyo_a_los_doce]]
 
-</div>
-
 ### L
-<div class="index-grid">
 
 - [[los_carismas_y_las_nuevas_realidades_eclesiales]]
 
-</div>
-
 ### P
-<div class="index-grid">
 
 - [[plan_formación_centros_vocacionales]]
 
-</div>
-
 ### R
-<div class="index-grid">
 
 - [[ratio_institutionis_christus_vita_vestra]]
 - [[ritual_de_la_congregación_de_los_legionarios_de_cristo]]
 
-</div>
-
 ### S
-<div class="index-grid">
 
 - [[sapientia_christi_ratio_studiorum]]
 
-</div>
-
 ### V
-<div class="index-grid">
 
 - [[v_capítulo_general_legionarios_de_cristo]]
-
-</div>
 
 ---
 ## Notas de análisis
@@ -2511,7 +2262,6 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 ### Índices de carpeta
 
 ### A
-<div class="index-grid">
 
 - [[adam_farber_fortitude_through_excellence_in_mercy]]
 - [[adam_farber_fortitude_through_excellence_in_patience]]
@@ -2523,41 +2273,26 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[auténtica_día_2_lidera_tu_vida_con_dios]]
 - [[auténtica_día_3_aporta_al_mundo_con_tus_talentos]]
 
-</div>
-
 ### B
-<div class="index-grid">
 
 - [[brian_cochran_my_personal_emmaus]]
 
-</div>
-
 ### C
-<div class="index-grid">
 
 - [[christian_bobak_men_of_integrity]]
 - [[clarkson_gospels_human_suffering]]
 - [[closing_keynote_virtuous_leader]]
 
-</div>
-
 ### F
-<div class="index-grid">
 
 - [[fr_michael_luxbacher_life_in_abundance]]
 - [[frassati_company]]
 
-</div>
-
 ### H
-<div class="index-grid">
 
 - [[horn_hard_sayings_jesus]]
 
-</div>
-
 ### J
-<div class="index-grid">
 
 - [[jeff_lacour_true_freedom_through_prayer]]
 - [[joe_mcinerny_humble_greatness]]
@@ -2565,39 +2300,25 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[john_wissler_leading_with_charity]]
 - [[john_wissler_virtuous_leadership]]
 
-</div>
-
 ### K
-<div class="index-grid">
 
 - [[kathy_washeck_docility]]
 - [[kevin_mulaney_prudence_decisions]]
 
-</div>
-
 ### P
-<div class="index-grid">
 
 - [[pitre_did_jesus_claim_to_be_god]]
 
-</div>
-
 ### S
-<div class="index-grid">
 
 - [[sean_glass_call_to_fortitude]]
 - [[stewart_teaching_kids_gospels]]
 - [[strive_detox_from_porn]]
 
-</div>
-
 ### T
-<div class="index-grid">
 
 - [[tim_barry_mortification_maketh_man]]
 - [[tim_barry_the_strength_of_meekness]]
-
-</div>
 
 ---
 ## Notas de consulta
@@ -2606,7 +2327,6 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 
 
 ### D
-<div class="index-grid">
 
 - [[don_de_ciencia]]
 - [[don_de_consejo]]
@@ -2616,28 +2336,17 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 - [[don_de_sabiduría]]
 - [[don_de_temor_de_dios]]
 
-</div>
-
 ### P
-<div class="index-grid">
 
 - [[primeros_pasos_en_la_vida_espiritual]]
 
-</div>
-
 ### R
-<div class="index-grid">
 
 - [[reporte_conceptos_huérfanos]]
 
-</div>
-
 ### T
-<div class="index-grid">
 
 - [[templanza_y_castidad]]
-
-</div>
 
 ---
 ## Fuentes activas
