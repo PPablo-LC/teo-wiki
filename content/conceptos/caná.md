@@ -17,6 +17,10 @@ Caná ocupa un lugar central en la mariología joánica. María, presente como M
 
 [JPII, Redemptoris Mater §21-22]: En Caná se delinea la nueva dimensión de la maternidad de María: la solicitud por los hombres, el ir al encuentro de sus necesidades. María se pone «en medio», hace de mediadora no como persona extraña sino en su papel de madre. Su mediación tiene carácter de intercesión: María «intercede» por los hombres [RM §21]. Las palabras a los criados —«Haced lo que él os diga»— presentan a la Madre de Cristo como portavoz de la voluntad del Hijo. En Caná, María aparece como la que cree en Jesús; su fe provoca la primera «señal» y contribuye a suscitar la fe de los discípulos [RM §21]. Caná es como una predicción de la mediación de María, orientada plenamente hacia Cristo y encaminada a la revelación de su poder salvífico [RM §22].
 
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) dedica amplio espacio a las bodas de Caná (Cap. III). Es la primera manifestación del poder de Jesús y la primera intervención de María en la vida pública. María, como experta y solícita ama de casa, se da cuenta de que falta el vino e interviene: «No tienen vino». María, que en la Anunciación había contribuido al prodigio de la concepción virginal creyendo antes de ver, aquí provoca el primer signo confiando en el poder de Jesús aún sin revelar. La respuesta de Jesús —«Mujer, ¿qué nos va a mí y a ti? Todavía no ha llegado mi hora»— expresa un rechazo aparente para probar la fe de su madre, poniendo la cooperación de María en el plano de la salvación. María se dirige a los sirvientes: «Haced lo que Él os diga», exhortación que conserva valor siempre actual. Jesús transforma el agua en vino, manifestando su gloria. En Caná se anuncia el paso de la antigua a la nueva alianza. Jesús reconoce la dignidad de la mujer y le brinda participar en su obra mesiánica.
+
 ## Distinciones importantes
 
 - Caná no es solo un milagro de providencia sino una revelación mesiánica

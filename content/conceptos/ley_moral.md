@@ -33,6 +33,10 @@ Santo Tomás desarrolla la doctrina de la ley en general en las cuestiones 90–
 
 **Preceptos morales de la ley antigua** (q.100). Todos los preceptos morales de la ley divina son de [[ley_natural]], aunque en diverso grado: unos son evidentes a la razón natural (ej. el Decálogo), otros requieren la deliberación de los sabios, y otros necesitan la revelación divina (q.100 a.1). La ley divina prescribe actos de todas las virtudes (a.2), a diferencia de la ley humana que solo prescribe actos de justicia. Los preceptos del Decálogo son los primeros principios de la ley moral (a.3).
 
+### Según la Veritatis Splendor (VS)
+
+La Veritatis Splendor (§72-78) enseña que las normas morales negativas («no matarás», «no cometerás adulterio», etc.) obligan siempre y en toda circunstancia, sin excepción. Las normas morales positivas («honra a tu padre y a tu madre», «ama a tu prójimo») expresan un deber general que admite gradaciones y excepciones. Esta distinción corresponde a la tradición constante de la Iglesia. Las normas morales universales y negativas tienen validez universal porque prohíben actos intrínsecamente malos, cuyo objeto es incapaz de ordenarse a Dios (§78). La encíclica reafirma la doctrina de la inmutabilidad de los mandamientos morales (§52-53): la ley natural no cambia en sus preceptos universales, aunque puede admitir determinaciones secundarias según las circunstancias (§53). La norma moral expresa la verdad del bien de la persona (§72).
+
 ## Relaciones doctrinales
 
 La ley moral se fundamenta en la [[ley_eterna]] y se concreta en la [[ley_natural]] (participación de la eterna en la razón), la [[ley_divina]] (revelada), la [[conciencia_moral]] (aplicación personal), y el [[acto_humano]] (objeto de la ley).

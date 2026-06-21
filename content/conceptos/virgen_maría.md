@@ -1,7 +1,7 @@
 # Virgen María
 
 > Área: Mariología / Ascética
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -108,6 +108,18 @@ El misterio de la Redención «se ha formado, podemos decirlo, bajo el corazón 
 
 Juan Pablo II afirma que «ningún otro sabrá introducirnos como María en la dimensión divina y humana de este misterio. Nadie como María ha sido introducido en él por Dios mismo» [RH §22]. El amor eterno del Padre, manifestado mediante el Hijo, «se acerca a cada uno de nosotros por medio de esta Madre y adquiere de tal modo signos más comprensibles y accesibles a cada hombre» [RH §22]. María debe encontrarse «en todas las vías de la vida cotidiana de la Iglesia» [RH §22].
 
+### Según la Veritatis Splendor (VS)
+
+La Veritatis Splendor (§118-120) presenta a la Virgen María como modelo de vida moral. María es Madre de misericordia porque Jesucristo, su Hijo, es enviado por el Padre como revelación de la misericordia de Dios (§118). María comparte nuestra condición humana pero con total transparencia a la gracia de Dios, sin haber conocido el pecado (§120). Vive y realiza la propia libertad entregándose a Dios y acogiendo en sí el don de Dios (§120). Acogiendo y meditando en su corazón acontecimientos que no siempre puede comprender, se convierte en modelo de quienes escuchan la palabra de Dios y la cumplen (cf. Lc 11, 28), mereciendo el título de «Sede de la Sabiduría» (§120). María invita a todo ser humano a acoger esta Sabiduría con la orden: «Haced lo que él os diga» (Jn 2, 5) (§120). No acepta que el hombre pecador sea engañado por quien pretende amarlo justificando su pecado, pues sabe que esto vaciaría de contenido el sacrificio de Cristo (§120).
+
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) presenta a María como la «llena de gracia» (*Kejaritomene*), nombre que manifiesta su verdadera identidad (Cap. I-II). María es memoria viviente: conserva todas las cosas en su corazón y las medita. Ella es la primera en pronunciar el nombre de Jesús y de ella lo aprenden todos. María es modelo de fe porque se atreve a creer en el proyecto «imposible» de Dios. Ella es la principal cooperadora de la iniciativa divina que ha abierto la historia a la esperanza. En su canto del Magníficat celebra la grandeza de Dios y revela los criterios de su acción misteriosa: enaltece a los humildes. María, junto con José, fue la educadora de Jesús, introduciéndolo en las tradiciones de Israel. De maestra del hijo, se convirtió en humilde discípula del divino Maestro. María aparece como modelo de todos los educadores y como la Madre que da a Jesús a los hombres.
+
+En la cruz, Jesús entrega a María como Madre a la humanidad: «Mujer, ahí tienes a tu hijo» y al discípulo: «Ahí tienes a tu madre» (Cap. VI). Este momento funda la maternidad espiritual de María sobre todos los discípulos. «Desde aquella hora el discípulo la acogió en su casa». María es constituida así Madre de la Iglesia. En su susurro de agonía, Cristo funda el culto mariano y da a su Madre como herencia materna a la humanidad redimida.
+
+[VJ, Cap. I-II, Cap. VI]
+
 ## Distinciones importantes
 
 - **Maternidad divina**: María es Madre de Dios (Theotókos), verdadera Madre de Jesús, que es verdadero Dios y verdadero hombre.
@@ -131,3 +143,4 @@ María es modelo de [[configuración_con_cristo]], ayuda para alcanzar la [[perf
 
 - [TPCr, Parte I, Cap. 5]
 - [PS §29-30]
+- [VJ, Cap. I-II, Cap. VI]

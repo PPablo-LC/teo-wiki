@@ -33,6 +33,10 @@ Los sacramentos de la iniciación cristiana (Bautismo, Confirmación, Eucaristí
 
 La vida consagrada, los fieles laicos, la familia como iglesia doméstica y los jóvenes son dimensiones esenciales de la comunión eclesial [EA §43-48]. La comunión se extiende también en sentido ecuménico con las otras Iglesias y Comunidades eclesiales [EA §49], con las comunidades judías [EA §50] y con las religiones no cristianas [EA §51].
 
+### Según la Veritatis Splendor (VS)
+
+La Veritatis Splendor (§26) enseña que la unidad de la Iglesia es herida no solo por los cristianos que rechazan la verdad de la fe, sino también por aquellos que desconocen las obligaciones morales a las que los llama el Evangelio (cf. 1 Co 5,9-13). La Iglesia es a la vez comunión de fe y de vida; su norma es «la fe que actúa por la caridad» (Ga 5,6). El disenso teológico es contrario a la comunión eclesial (§113). Promover y custodiar la fe y la vida moral en la unidad de la Iglesia es la misión confiada por Jesús a los Apóstoles y continuada por sus sucesores (§27).
+
 ## Relaciones doctrinales
 
 La comunión eclesial es el fundamento de la [[sucesión_apostólica]] y de la colegialidad episcopal. Se distingue de la mera asociación por su origen sobrenatural en la [[trinidad]].

@@ -1,7 +1,7 @@
 # Oración
 
 > Área: Ascética / Mística
-> Última actualización: 2026-06-12
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -26,6 +26,12 @@ El Catecismo distingue cinco formas principales de oración: bendición, petici�
 La oración es necesaria con necesidad de precepto (divino, natural y eclesiástico) y con necesidad de medio por institución divina para la salvación de los adultos (n.478). San Alfonso de Ligorio: «El que ora, se salva; y el que no ora, se condena».
 
 Las principales dificultades de la oración son las distracciones y las sequedades o arideces. Las distracciones pueden tener causas independientes de la voluntad (temperamento, salud, dirección inadecuada, demonio) o voluntarias (falta de preparación, disipación habitual). Las arideces pueden deberse a causas naturales, a la tibieza, o ser una prueba purificadora de Dios (n.482).
+
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) recoge la oración sacerdotal de Cristo en la Última Cena. Jesús ora por los Apóstoles y por todos los creyentes. Promete el Espíritu Santo hasta en cinco ocasiones: «No os dejaré huérfanos». Ora por la unidad: «que todos sean uno, como tú, Padre, en mí y yo en ti». La unidad es presentada como un tesoro en vasijas de barro. Ora también por la santificación y la protección del mal, y por las futuras generaciones de creyentes.
+
+[VJ, Cap. V]
 
 ### Según la Summa Theologiae (SmTh)
 
@@ -79,3 +85,4 @@ Se relaciona con la [[vida_de_oración]], los [[grados_de_oración]], la [[medit
 
 - TPCr, Tercera Parte, Libro II, Cap. III, Secc. I, n.475-483
 - SmTh IIIª q.21 aa.1-4
+- [VJ, Cap. V]

@@ -107,6 +107,10 @@ Royo Marín trata la Encarnación en la Primera Parte (Principios Fundamentales 
 
 Para Salvarte expone la Encarnación como el misterio por el cual «el Hijo Único del Padre, sin perder la naturaleza divina, asumió la naturaleza humana» (PS §25). Jesucristo es verdadero Dios y verdadero hombre en la unidad de su Persona divina (PS §26,1). Loring explica la distinción entre naturaleza (el «qué es») y persona (el «quién es»), clave para entender la unión hipostática, y recuerda las condenas del nestorianismo (Concilio de Éfeso, 431) y del monofisismo (Calcedonia, 451), así como la del arrianismo (Nicea, 325) (PS §26,1; §28,2). Dedica también amplio espacio a la mediación mariana: María es Madre de Dios porque dio a luz a Jesucristo, que es Dios (PS §30,1).
 
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) contempla la Encarnación como «primicia de la Redención: el Verbo encarnado ya está dispuesto para la obra» (Cap. I). La Encarnación es obra de la Trinidad: el amor del Padre, la acción del Espíritu Santo y la respuesta del Hijo. Jesucristo es el protagonista de toda la obra de la redención desde el primer momento de la Encarnación. En la Encarnación se revela la gloria de la Trinidad y su amor por nosotros: «Y el Verbo se hizo carne, y habitó entre nosotros, y hemos contemplado su gloria». El Verbo hecho carne se oculta en la insignificancia de la vida ordinaria, vistiéndose de nuestra fragilidad humana. La Encarnación permite que los hombres sean hechos hijos adoptivos de Dios en aquel que es Hijo de la Virgen y del Padre.
+
 ## Distinciones importantes
 
 - **Unión hipostática**: unión de las dos naturalezas (divina y humana) en una sola Persona (la del Verbo).

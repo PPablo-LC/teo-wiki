@@ -27,6 +27,10 @@ La fe en la concepción virginal ha encontrado oposición desde los primeros sig
 
 Royo Marín, tratando de la configuración con Jesucristo, recoge la doctrina tradicional sobre la concepción virginal como parte del misterio de la Encarnación del Verbo. La [[virgen_maría]] es Madre de Dios por haber concebido virginalmente al Hijo de Dios hecho hombre.
 
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) enseña que la concepción virginal, excluyendo una paternidad humana, afirma que el único padre de Jesús es el Padre celestial, y que en la generación temporal del Hijo se refleja la generación eterna. Aquel que nace de María ya es, en virtud de la generación eterna, Hijo de Dios; su generación virginal, obrada por la intervención del Altísimo, manifiesta que, también en su humanidad, es el Hijo de Dios (Cap. I). El Espíritu Santo, que en el misterio trinitario es la unidad del Padre y del Hijo, obrando la generación virginal de Jesús, une la humanidad a Dios. La generación virginal permite la extensión de la paternidad divina a los hombres, hechos hijos adoptivos de Dios.
+
 ## Distinciones importantes
 
 - **Concepción virginal vs. Inmaculada Concepción**: la concepción virginal se refiere al modo de la concepción de Jesús; la Inmaculada Concepción se refiere a la preservación de María del pecado original desde el primer instante de su concepción

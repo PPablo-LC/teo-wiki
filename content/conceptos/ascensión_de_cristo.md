@@ -1,7 +1,7 @@
 # Ascensión de Cristo
 
 > Área: Cristología / Liturgia
-> Última actualización: 2026-06-12
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -35,6 +35,12 @@ Royo Marín trata la Ascensión dentro de los misterios de la vida de Cristo. La
 
 [TPCr, Segunda Parte, Misterios de Cristo]
 
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) trata la Ascensión en el Capítulo VIII. Cristo, que «salió del Padre», «vuelve al Padre» [VJ, Cap. VIII]. Las palabras «os conviene que yo me vaya» revelan que la Ascensión es condición para el envío del Espíritu Santo. El hecho histórico se narra según Lucas: tuvo lugar en Betania, a los cuarenta días de la Resurrección, desde el monte de los Olivos [VJ, Cap. VIII].
+
+La Ascensión no es solo una despedida: es causa de nuestra ascensión, prenda y garantía de la exaltación de la naturaleza humana. Cristo, al elevarse al cielo, arrastra consigo a la humanidad que ha asumido, abriendo el camino a todos los hombres [VJ, Cap. VIII].
+
 ## Distinciones importantes
 
 - Ascensión (por propio poder) vs. asunción (por poder ajeno, ej. la Virgen María)
@@ -53,3 +59,4 @@ La Ascensión presupone la [[resurrección_de_cristo]] (condición previa), ante
 
 - CEC §659-667
 - TPCr, Segunda Parte, Misterios de Cristo
+- [VJ, Cap. VIII]

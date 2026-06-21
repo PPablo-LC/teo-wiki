@@ -17,6 +17,10 @@ Encarnado para nuestra salvación, Jesucristo es el centro de la fe cristiana. S
 
 Calcedonia confesó «un solo y mismo Cristo, Hijo único en dos naturalezas, sin confusión, sin cambio, sin división, sin separación» (§467). Jesús es «consubstancial con el Padre según la divinidad, y consubstancial con nosotros según la humanidad» (§467). Cristo posee un alma racional humana y dos voluntades, divina y humana, no opuestas sino cooperantes (§471-475). «El Hijo de Dios me amó y se entregó a sí mismo por mí» (§478, Corazón de Jesús).
 
+### Según la Veritatis Splendor (VS)
+
+La Veritatis Splendor comienza proclamando a Jesucristo como «luz verdadera que ilumina a todo hombre» (Jn 1,9) y respuesta decisiva a todos los interrogantes del hombre (§1-2). El diálogo de Jesús con el joven rico (Mt 19,16-21) constituye el fundamento bíblico de toda la encíclica. Jesús es el «Maestro bueno» que revela que solo Dios es Bueno, que enseña los mandamientos como camino de vida eterna, y que invita al seguimiento como camino de perfección. Cristo es el cumplimiento vivo de la Ley (§15), la Ley viviente y personal que da la gracia del Espíritu Santo. Él es contemporáneo a todo hombre en la Iglesia (§25). El crucificado responde al interrogante sobre libertad y normas morales (§85-87).
+
 
 ## Analizado para
 

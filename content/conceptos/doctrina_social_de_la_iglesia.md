@@ -51,7 +51,7 @@ La *Magnífica Humanitas* de León XIV, publicada el 15 de mayo de 2026 en el 13
 
 Ante los graves problemas sociales que existen en América, «el católico sabe que puede encontrar en la doctrina social de la Iglesia la respuesta de la que partir para buscar soluciones concretas. Difundir esta doctrina constituye, pues, una verdadera prioridad pastoral» [EA §54]. Es importante que los agentes de evangelización «asimilen este tesoro que es la doctrina social de la Iglesia, e, iluminados por ella, se hagan capaces de leer la realidad actual y de buscar vías para la acción» [EA §54].
 
-Juan Pablo II propone la elaboración de «un compendio o síntesis autorizada de la doctrina social católica, incluso un "catecismo", que muestre la relación existente entre ella y la nueva evangelización» [EA §54], idea que se materializaría en el *Compendio de la Doctrina Social de la Iglesia* (2004).
+Juan Pablo II propone la elaboración de «un compendio o síntesis autorizada de la doctrina social católica, incluso un "catecismo", que muestre la relación existente entre ella y la nueva evangelización» [EA §54].
 
 La visión moral de la Iglesia sobre la economía globalizada «se apoya en las tres piedras angulares fundamentales de la dignidad humana, la solidaridad y la subsidiariedad» [EA §55]. La economía globalizada debe ser analizada a la luz de los principios de la justicia social, respetando la opción preferencial por los pobres y el bien común internacional [EA §55].
 

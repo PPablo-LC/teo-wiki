@@ -1,7 +1,7 @@
 # Libertad religiosa
 
 > Área: Doctrina Social / Moral
-> Última actualización: 2026-05-25
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -46,6 +46,10 @@ Juan Pablo II confirma que la Iglesia «da gran importancia a todo lo que el Con
 La verdad y la libertad se vinculan intrínsecamente: «Conoceréis la verdad y la verdad os librará» [RH §12]. Cristo trae al hombre «la libertad basada sobre la verdad», liberándolo de lo que disminuye la libertad en sus mismas raíces: el alma, el corazón, la conciencia [RH §12].
 
 La libertad religiosa es un derecho fundamental de la persona: el Concilio Vaticano II elaboró la Declaración *Dignitatis humanae* en la que se expresa «no sólo la concepción teológica del problema, sino también la concepción desde el punto de vista del derecho natural» [RH §17]. La limitación de la libertad religiosa «ofende sobre todo a la dignidad misma del hombre, independientemente de la religión profesada o de la concepción que ellas tengan del mundo» [RH §17]. Juan Pablo II pide el respeto de este derecho no como un privilegio sino como «derecho fundamental», cuya actuación es «una de las verificaciones fundamentales del auténtico progreso del hombre en todo régimen, en toda sociedad sistema o ambiente» [RH §17].
+
+### Según la Veritatis Splendor (VS)
+
+La Veritatis Splendor (§31, §34) sitúa la libertad religiosa en el contexto de la dignidad de la persona humana y su relación con la verdad. El Concilio Vaticano II constató «una conciencia cada vez mayor de la dignidad de la persona humana», de donde surge la reivindicación del derecho a la libertad religiosa y al respeto de la conciencia en su camino hacia la verdad (§31, citando DH). La verdadera libertad es signo eminente de la imagen divina en el hombre. Si existe el derecho de ser respetados en el propio camino de búsqueda de la verdad, existe aún antes la obligación moral grave de buscar la verdad y seguirla una vez conocida (§34).
 
 ## Relaciones doctrinales
 

@@ -23,6 +23,10 @@ Juan Pablo II presenta la Visitación como el momento en que María se convierte
 
 Isabel, «llena del Espíritu Santo», proclama a María «bendita entre las mujeres» y reconoce la dignidad mesiánica del Hijo de María: «¿De dónde a mí que la madre de mi Señor venga a mí?» (Lc 1,43) [MJV, catequesis 1]. La Visitación produce «un preludio de Pentecostés, confirmando una cooperación que, habiendo empezado con la Encarnación, está destinada a manifestarse en toda la obra de la salvación divina» [MJV, catequesis 1].
 
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) contempla la Visitación como el encuentro de dos maternidades marcadas cada una por un prodigio (Cap. I). María se pone en camino «con presteza» para visitar a Isabel, movida por la necesidad del corazón y el deseo de servicio. La presencia de María lleva a la casa de Isabel al Cristo, que derrama el Espíritu Santo, produciendo un preludio de Pentecostés. La exclamación de Isabel —«Dichosa la que ha creído»— proclama que la fe de María es su principal título de grandeza. En la Visitación, María lleva los dones incomparables de la gracia, la alegría y la luz.
+
 ## Relaciones doctrinales
 
 Se relaciona con la [[encarnación]], la [[virgen_maría]], el [[magníficat]], Isabel (como modelo de acogida del Espíritu), la santificación de Juan Bautista, y los [[misterios_del_rosario]].

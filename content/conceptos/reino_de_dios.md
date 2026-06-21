@@ -48,6 +48,9 @@ El Reino de Dios es interior (Lc 17,21): está en el alma en gracia. La vida cri
 
 [TPCr, Parte II — El Organismo Sobrenatural]
 
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) expone el Reino de Dios como núcleo de la predicación de Jesús (Cap. III). Jesús proclama: «El tiempo se ha cumplido y el reino de Dios está cerca; convertíos y creed en el Evangelio». El Reino es la acción eficaz y misteriosa que Dios lleva a cabo en el universo y en las vicisitudes humanas. Vence las resistencias del mal con paciencia, no con prepotencia. Jesús compara el Reino con el grano de mostaza, la semilla más pequeña destinada a convertirse en árbol frondoso. El Reino es gracia, amor de Dios al mundo. Jesús nos invita a buscar activamente el Reino de Dios y su justicia. Entran en el Reino quienes eligen el camino de las bienaventuranzas, los pobres de espíritu, los que soportan con amor los sufrimientos, los puros de corazón. Todos los justos, incluso los que no conocen a Cristo, están llamados a edificar el Reino, colaborando con el Señor.
 
 ## Distinciones importantes
 

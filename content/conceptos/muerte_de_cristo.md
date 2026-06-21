@@ -1,7 +1,7 @@
 # Muerte de Cristo
 
 > Área: Dogmática / Cristología
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -41,6 +41,12 @@ La eficacia de las satisfacciones y méritos de Cristo es rigurosamente infinita
 
 [TPCr, Primera Parte, Cap. 3; TPCr, Tercera Parte, Libro II, Cap. I, Art. 5]
 
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) presenta la muerte de Cristo en la cruz como el cumplimiento de la voluntad del Padre: «Todo está cumplido». El abandono de Cristo —«Dios mío, Dios mío, ¿por qué me has abandonado?»— revela el silencio del Padre como la pena más dolorosa, manifestando la realidad del pecado como separación de Dios. En ese abandono, Cristo consuma su solidaridad con la humanidad pecadora. Su muerte es la victoria del amor divino sobre la muerte. La última palabra, «Padre, en tus manos pongo mi espíritu», expresa el abandono confiado en el Padre.
+
+[VJ, Cap. VI]
+
 ## Distinciones importantes
 
 - Muerte de Cristo en cuanto hombre (verdadera muerte real) vs. en cuanto Dios (solo en la carne asumida).
@@ -60,3 +66,4 @@ Se relaciona con [[redención]], [[pasión_de_cristo]], [[eucaristía]], [[obedi
 - [CEC §609-618, §1323, §1362-1367]
 - [SmTh IIIª q.50 a.1-6]
 - [TPCr, Primera Parte, Cap. 3]
+- [VJ, Cap. VI]

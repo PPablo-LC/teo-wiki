@@ -43,6 +43,12 @@ La gracia santificante es el principio formal de toda la vida sobrenatural, una 
 
 **Ia-IIae q.114 — Mérito (efecto de la gracia cooperante):** El hombre puede merecer ante Dios en virtud de la ordenación divina que establece una retribución proporcionada a sus obras (q.114 a.1). Sin la gracia, ni en el estado de naturaleza íntegra ni en el de naturaleza caída se puede merecer la vida eterna (q.114 a.2). Con la gracia, las obras merecen la vida eterna de condigno, en cuanto proceden del Espíritu Santo (q.114 a.3). La caridad es el principal principio del mérito (q.114 a.4). Nadie puede merecer para sí la primera gracia (q.114 a.5); pero puede merecer para otro de congruo (q.114 a.6). Nadie puede merecer la reparación después del pecado (q.114 a.7). Se puede merecer el aumento de la gracia (q.114 a.8). La perseverancia de esta vida no puede merecerse, pues depende solo de la moción divina; la perseverancia de la gloria sí (q.114 a.9). Los bienes temporales no son objeto de mérito absoluto, sino relativo, en cuanto ayudan a la vida eterna (q.114 a.10).
 
+### Según la Veritatis Splendor (VS)
+
+La Veritatis Splendor (§22-24) enseña que imitar y revivir el amor de Cristo no es posible para el hombre con sus solas fuerzas. Se hace capaz de este amor solo gracias a un don recibido: el Espíritu Santo, cuyo primer fruto es la caridad (Rm 5,5). La gracia no disminuye sino que refuerza la exigencia moral del amor. La Ley nueva es la gracia del Espíritu Santo dada mediante la fe en Cristo (siguiendo a santo Tomás) (§23-24). La observancia de la ley moral es siempre posible con la gracia, como definió el Concilio de Trento (§102-103). La misericordia de Dios comprende la debilidad humana sin comprometer la norma moral (§104).
+
+La encíclica añade (§118-119) que la misericordia de Dios, manifestada plenamente en Jesucristo, es más fuerte que cualquier pecado. El Espíritu Santo, que renueva la faz de la tierra, posibilita el milagro del cumplimiento perfecto del bien. Esta renovación, que capacita para hacer lo que es bueno, noble, bello y grato a Dios, es el colofón del don de la misericordia, que libera de la esclavitud del mal y da la fuerza para no volver a pecar (§118). La moral cristiana no es imposible de practicar porque consiste fundamentalmente en el seguimiento de Jesucristo, en el abandonarse a él, en dejarse transformar por su gracia y ser renovados por su misericordia, que se alcanzan en la comunión de su Iglesia (§119).
+
 ## Distinciones importantes
 
 - Gracia santificante (habitual) vs. gracias actuales

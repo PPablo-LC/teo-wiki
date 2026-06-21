@@ -1,7 +1,7 @@
 # Maternidad divina
 
 > Área: Mariología / Dogmática
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -33,6 +33,14 @@ Juan Pablo II dedica una catequesis completa a la maternidad divina [MJV, catequ
 
 La maternidad es «una relación entre persona y persona: una madre no es madre sólo del cuerpo o de la criatura física que sale de su seno, sino de la persona que engendra» [MJV, catequesis 4]. Cuando la Iglesia proclama a María «Madre de Dios», profesa «con una única expresión su fe en el Hijo y en la Madre» [MJV, catequesis 4].
 
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) subraya la maternidad divina de María: María es la única madre que puede decir, hablando de Jesús, «mi hijo», como lo dice el Padre: «Tú eres mi Hijo» (Cap. I). La casa de Nazaret fue testigo de la maternidad divina que se realizaba en la Virgen. María es la única que tiene experiencia inmediata de la maternidad que se realiza en ella. La maternidad divina de María pertenece al gran misterio de la Navidad, que María conservaba y meditaba en su corazón. Todos miran hacia ella: su maternidad divina se ha convertido en el gran patrimonio de la humanidad.
+
+Desde la cruz, la maternidad divina se extiende a la maternidad espiritual. Jesús dice a María: «Mujer, ahí tienes a tu hijo», y al discípulo: «Ahí tienes a tu madre» (Cap. VI). «Desde aquella hora el discípulo la acogió en su casa». La maternidad divina de María, que comenzó en Nazaret, se abre en el Calvario a toda la humanidad, haciéndola Madre de todos los redimidos.
+
+[VJ, Cap. I, Cap. VI]
+
 ## Distinciones importantes
 
 - María es Madre de Dios en cuanto a la naturaleza humana de Cristo, no en cuanto a la divinidad: engendró al Hijo de Dios según la humanidad, no la divinidad.
@@ -52,3 +60,4 @@ Se relaciona con [[virgen_maría]], [[jesucristo]], [[encarnación]], [[iglesia_
 - [CEC §488-495]
 - [CEC §963-970]
 - [TPCr, Parte I, Cap. 4]
+- [VJ, Cap. I, Cap. VI]

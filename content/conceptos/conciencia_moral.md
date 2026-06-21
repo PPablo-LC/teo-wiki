@@ -37,6 +37,10 @@ El Concilio vincula estrechamente la conciencia con la búsqueda de la verdad: l
 
 GS 16 contiene el tratamiento más conocido de la conciencia moral en el magisterio conciliar: «En lo más profundo de su conciencia descubre el hombre la existencia de una ley que él no se dicta a sí mismo, pero a la cual debe obedecer, y cuya voz resuena, cuando es necesario, en los oídos de su corazón, advirtiéndole que debe amar y practicar el bien y que debe evitar el mal». La conciencia es «el núcleo más secreto y el sagrario del hombre, en el que éste se siente a solas con Dios, cuya voz resuena en el recinto más íntimo de aquélla». La fidelidad a la conciencia une a los cristianos con los demás hombres para buscar la verdad. «No rara vez, sin embargo, ocurre que yerra la conciencia por ignorancia invencible, sin que ello suponga la pérdida de su dignidad.»
 
+### Según la Veritatis Splendor (VS)
+
+La Veritatis Splendor dedica toda la sección II del Capítulo II a la conciencia moral (§54-64). La conciencia es el «sagrario del hombre» donde Dios escribe su ley en el corazón. No es una instancia autónoma que fija el bien y el mal, sino el acto de la inteligencia que aplica el conocimiento universal del bien a una situación concreta. La conciencia es norma próxima de moralidad, pero está subordinada a la ley divina como norma universal. Existe el deber grave de formar la conciencia y de buscar la verdad (§60-64). La conciencia errónea por ignorancia invencible tiene dignidad, pero la conciencia errónea culpable es fruto del hábito del pecado (§62-63).
+
 ## Ver también
 
 [[ley_natural]], [[virtud_de_la_prudencia]], [[examen_de_conciencia]], [[actos_humanos]]

@@ -1,7 +1,7 @@
 # Pecado venial
 
 > Área: Moral
-> Última actualización: 2026-06-15
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -70,6 +70,9 @@ El pecado venial deliberado y habitual es incompatible con la perfección cristi
 
 [TPCr, Parte III, Libro I, Cap. I, n.207-210]
 
+### Según la Veritatis Splendor (VS)
+
+La Veritatis Splendor (§69) confirma la distinción tradicional entre pecados mortales y veniales según la enseñanza del Concilio de Trento y de la exhortación apostólica Reconciliatio et paenitentia. Mientras el pecado mortal separa al hombre de Dios y pierde la gracia santificante, el pecado venial no rompe la alianza con Dios ni priva de la gracia santificante, aunque debilita la vida moral y dispone al pecado más grave.
 
 ## Distinciones importantes
 

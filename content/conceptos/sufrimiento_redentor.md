@@ -1,7 +1,7 @@
 # Sufrimiento redentor
 
 > Área: Dogmática / Espiritualidad
-> Última actualización: 2026-06-18
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -31,6 +31,12 @@ El Catecismo enseña que «Jesucristo, Hijo de Dios, que en la cruz completó su
 
 El sufrimiento aceptado por amor es uno de los medios principales de unión con Dios. La mortificación, la aceptación de los sufrimientos y la paciencia en las adversidades son formas de participar en la cruz de Cristo.
 
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) presenta el sufrimiento redentor desde la oración en Getsemaní, donde Cristo revela su humanidad al pedir «Pase de mí este cáliz» y su solidaridad con la humanidad pecadora. «Triste está mi alma hasta la muerte». El sudor de sangre y la oración más insistente manifiestan al Hijo consustancial que asume la condición de siervo. En la cruz, el abandono —«Dios mío, Dios mío, ¿por qué me has abandonado?»— es la expresión de la solidaridad más profunda con el hombre pecador: el silencio del Padre es la pena más dolorosa. El sufrimiento de Cristo culmina en la victoria del amor divino sobre la muerte, con su entrega confiada: «Padre, en tus manos pongo mi espíritu».
+
+[VJ, Cap. VI]
+
 ## Distinciones importantes
 
 - **Sufrimiento redentor ≠ masoquismo**: no se busca el sufrimiento por sí mismo, sino que se acepta por amor.
@@ -51,3 +57,4 @@ El sufrimiento redentor se relaciona con [[cruz]], [[pasión_de_cristo]], [[mist
 - [MI, cap. 26]
 - [CEC §2633]
 - Col 1,24; Is 53,5
+- [VJ, Cap. VI]

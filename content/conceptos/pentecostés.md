@@ -1,7 +1,7 @@
 # Pentecostés
 
 > Área: Dogmática
-> Última actualización: 2026-06-02
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -28,6 +28,11 @@ Pentecostés inaugura el tiempo de la Iglesia, que recibe constantemente el Esp�
 
 El sacramento de la Confirmación equivale a un verdadero Pentecostés para cada uno de los bautizados, perpetuando en la Iglesia todos los beneficios de Pentecostés (TPCr, Tercera Parte, Libro II, cap. I). Los Apóstoles, cobardes en la Pasión, se presentan en Pentecostés con entereza sobrehumana por el don de fortaleza (TPCr, Tercera Parte, Libro II, cap. II). La glosolalia alcanzó su máximo exponente en la mañana de Pentecostés (TPCr, Cuarta Parte, cap. I).
 
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) describe Pentecostés en el Capítulo VIII como la consumación de la Pascua de Cristo. La fiesta judía de la siega —cincuenta días después de la Pascua— se convierte en la fiesta de la nueva alianza [VJ, Cap. VIII]. Los signos del viento impetuoso y las lenguas de fuego señalan la presencia del Espíritu Santo; los Apóstoles hablan en otras lenguas, manifestando la universalidad del cristianismo [VJ, Cap. VIII].
+
+JPII denomina a Pentecostés «Galilea de las naciones», subrayando que allí nace la Iglesia como universal. Pedro, lleno del Espíritu Santo, invita a la conversión y al bautismo. Nace así la adoración del Padre en espíritu y verdad, propia de la nueva alianza [VJ, Cap. VIII].
 
 ### Según la Redemptoris Mater (RM)
 
@@ -51,3 +56,4 @@ El sacramento de la Confirmación equivale a un verdadero Pentecostés para cada
 - TPCr, Tercera Parte, Libro II, cap. I
 - TPCr, Tercera Parte, Libro II, cap. II
 - [VocTeoBib, «Pentecostés»]
+- [VJ, Cap. VIII]

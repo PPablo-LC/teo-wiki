@@ -31,7 +31,11 @@ San José se relaciona con la [[virgen_maría]] como esposo, con [[jesucristo]] 
 
 Juan Pablo II presenta a José como «hombre justo» (Mt 1,19) que cooperó con María para que la casa de Nazaret fuera un ambiente favorable al crecimiento del Salvador [MJV, catequesis 5]. José «le enseñó el duro trabajo de carpintero, permitiendo a Jesús insertarse en el mundo del trabajo y en la vida social» [MJV, catequesis 5]. Junto con María, José introdujo a Jesús «en los ritos y prescripciones de Moisés, en la oración al Dios de la alianza mediante el uso de los salmos y en la historia del pueblo de Israel» [MJV, catequesis 5].
 
-María y José son presentados como «modelos de todos los educadores. Los sostienen en las grandes dificultades que encuentra hoy la familia y les muestran el camino para lograr una formación profunda y eficaz de los hijos» [MJV, catequesis 5]. La experiencia educadora de la Sagrada Familia «constituye un punto de referencia seguro para los padres cristianos» [MJV, catequesis 5].
+María y José son presentados como «modelos de todos los educadores. Los sostienen en las grandes dificultades que encuentra hoy la familia y les muestra el camino para lograr una formación profunda y eficaz de los hijos» [MJV, catequesis 5]. La experiencia educadora de la Sagrada Familia «constituye un punto de referencia seguro para los padres cristianos» [MJV, catequesis 5].
+
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) presenta a san José como el hombre justo, esposo de María, padre adoptivo del Hijo de Dios (Cap. II). José fue con María la noche de Belén, testigo privilegiado de la venida del Hijo de Dios al mundo. Fue testigo ocular del nacimiento en condiciones humanamente humillantes, primer anuncio del anonadamiento de Cristo. José, advertido por el ángel en sueños, salvó a Jesús de la crueldad de Herodes huyendo a Egipto. En Nazaret, José guió y sostuvo al Niño Jesús, introduciéndolo en las costumbres religiosas y enseñándole el oficio de carpintero. El trabajo de José durante treinta años junto a Jesús constituyó la trama del crecimiento del Salvador «en edad, sabiduría y gracia». José es promotor de la causa de la defensa de la vida humana desde la concepción. Toda la tradición ha visto en san José al Patrono y Protector de la comunidad de los creyentes. Su poderosa intercesión acompaña y protege el camino de la Iglesia en la historia.
 
 ## Analizado para
 

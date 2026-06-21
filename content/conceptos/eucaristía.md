@@ -1,7 +1,7 @@
 # Eucaristía
 
 > Área: Sacramental
-> Última actualización: 2026-06-15
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -149,6 +149,16 @@ La eucaristía realiza la unión transformante:
 
 «Como el alimento corporal se asimila y convierte en la naturaleza del que come, así la eucaristía transforma espiritualmente al hombre en Cristo. Es el sacramento de la unión más íntima con Dios por medio de la caridad.»
 
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) presenta la institución de la Eucaristía en la Última Cena, el Jueves Santo, como el «sacramento de la ocultación más profunda de Dios». Cristo ofrece su Cuerpo y Sangre bajo las especies de pan y vino. Con el mandato «Haced esto en conmemoración mía» instituye el sacerdocio. La Iglesia vive de la Eucaristía, «misterio de la fe». La presencia real es afirmada con fuerza: Cristo «no deja un símbolo, sino la realidad de Sí mismo». La Eucaristía es el «corazón de la Iglesia», «raíz y culmen de la vida cristiana». Se vincula con el discurso de Cafarnaún (Juan 6) y con el don del Espíritu Santo mediante la Eucaristía.
+
+[VJ, Cap. V]
+
+### Según la Veritatis Splendor (VS)
+
+La Veritatis Splendor (§21) presenta la Eucaristía como sacramento de la nueva alianza (1 Co 11,23-29), culmen de la asimilación a Cristo, fuente de vida eterna (Jn 6,51-58), principio y fuerza del don total de sí mismo. La Eucaristía es memorial de la muerte del Señor que la Iglesia celebra y vive hasta que él venga (1 Co 11,26). La participación eucarística es inseparable de la vida moral: el amor que se celebra en la Eucaristía debe vivirse en la existencia cotidiana.
+
 ### Según Para Salvarte (PS)
 
 PS expone la Eucaristía como la última prueba del amor de Dios a los hombres: después de la creación, revelación, encarnación y redención, Dios se ha quedado para siempre a nuestro lado en el sagrario [PS §10,45]. En la Eucaristía, las sustancias del pan y del vino se convierten en el Cuerpo y la Sangre de Cristo mediante la transubstanciación, permaneciendo solo los accidentes [PS §10,47,1]. La Misa es la renovación incruenta del sacrificio de la cruz, idéntico en su esencia, aunque diverso en el modo de ofrecerse [PS §10,50,1]. La Sagrada Comunión es el alimento del alma que fortalece contra el pecado y aumenta la gracia santificante [PS §10,51,1-2].
@@ -251,3 +261,4 @@ La Carta Apostólica *Una fidelidad que genera futuro* (2025) presenta la Eucari
 - Himnos eucarísticos: Pange Lingua, Lauda Sion, Ave verum
 - [VocTeoBib, «Eucaristía»]
 - [UFGF, 22.12.2025]
+- [VJ, Cap. V]

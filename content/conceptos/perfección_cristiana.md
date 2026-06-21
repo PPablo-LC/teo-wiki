@@ -53,6 +53,9 @@ La perfección cristiana no es privilegio de los religiosos o sacerdotes, sino v
 
 [TPCr, obra completa; especialmente Conclusiones de la Segunda Parte y Parte III-IV]
 
+### Según la Veritatis Splendor (VS)
+
+La Veritatis Splendor (§16-18) trata la perfección cristiana a partir de la invitación de Jesús al joven rico: «Si quieres ser perfecto» (Mt 19,21). Las bienaventuranzas son promesas que abren al hombre a la vida eterna y constituyen una especie de autorretrato de Cristo, invitaciones a su seguimiento y a la comunión de vida con él. La invitación a la perfección se dirige a todos, no solo a una élite (§18). La perfección exige madurez en el darse a sí mismo, a que está llamada la libertad del hombre. La libertad del hombre y la ley de Dios no se oponen sino que se reclaman mutuamente (§17).
 
 ## Distinciones importantes
 

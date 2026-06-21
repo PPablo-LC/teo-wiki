@@ -27,6 +27,9 @@ Los diez mandamientos constituyen un extraordinario camino de vida e indican las
 
 Los diez mandamientos «constituyen las reglas primordiales de toda vida social» [CompDS §22]. Del Decálogo deriva un compromiso que regula las relaciones sociales dentro del pueblo de la Alianza, especialmente el derecho del pobre [CompDS §23].
 
+### Según la Veritatis Splendor (VS)
+
+La Veritatis Splendor reafirma el Decálogo como camino de vida eterna enseñado por Jesús (§12). Los mandamientos constituyen la condición básica para el amor al prójimo y la primera etapa necesaria en el camino hacia la libertad (§13). Jesús confirma definitivamente el Decálogo y lo propone como camino y condición de salvación. El Decálogo se fundamenta en «Yo soy el Señor, tu Dios» (Ex 20,2-3), que revela a Dios como el único Bueno (§10-11). Los mandamientos de la «segunda tabla» tutelan la vida, el matrimonio, la propiedad, la veracidad y la buena fama (§13). La encíclica defiende la universalidad e inmutabilidad de los preceptos morales (§52-53).
 
 ## Analizado para
 

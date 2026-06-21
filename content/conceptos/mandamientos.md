@@ -27,6 +27,10 @@ Royo Marin enseña que la perfeccion cristiana consiste esencialmente en el cump
 
 La conferencia de Kevin Mulaney (prudence_decisions.md) presenta los mandamientos como ejemplo de prudencia divina —Dios encontrando a un mundo caido y dandole ley— y los conecta con el [[gran_mandamiento]] del amor como respuesta apropiada a la realidad.
 
+### Según la Veritatis Splendor (VS)
+
+La Veritatis Splendor (§12-14) enseña que Jesucristo confirma y propone los mandamientos como camino y condición de salvación: «Si quieres entrar en la vida, guarda los mandamientos» (Mt 19,17). Los mandamientos del Decálogo no son un límite mínimo sino una senda abierta para un camino moral de perfección cuyo impulso interior es el amor (§15). Los mandamientos están vinculados a una promesa: en la antigua alianza, la posesión de la tierra; en la nueva, el reino de los cielos y la vida eterna (§12). Las exigencias de los mandamientos son interiorizadas y radicalizadas por Jesús en el Sermón de la Montaña (§15).
+
 ## Distinciones importantes
 
 - Mandamientos divinos vs preceptos eclesiasticos

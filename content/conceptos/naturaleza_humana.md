@@ -1,7 +1,7 @@
 # Naturaleza humana
 
 > Área: Dogmática
-> Última actualización: 2026-06-12
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -62,6 +62,10 @@ El CEC enseña que el hombre ha sido creado a imagen de Dios (§§355-361), var�
 ### Según Royo Marín (TPCr)
 
 Royo Marín trata la naturaleza humana en la Parte 1 como presupuesto necesario de la vida espiritual. El hombre, compuesto de alma y cuerpo, ha sido elevado al orden sobrenatural por la gracia. La naturaleza humana, aunque herida por el pecado original, conserva sus facultades esenciales: entendimiento y voluntad. La [[perfección_cristiana]] consiste en el desarrollo pleno de la vida sobrenatural que perfecciona —sin destruir— la naturaleza humana.
+
+### Según la Veritatis Splendor (VS)
+
+La Veritatis Splendor (§46-50) aborda el debate sobre naturaleza y libertad en la teología moral contemporánea. Rechaza las concepciones que contraponen libertad y naturaleza, reduciendo la naturaleza a mero material biológico disponible para la libertad. Afirma la unidad del ser humano, cuyo alma racional es «per se et essentialiter» la forma del cuerpo (§48). La persona, incluido el cuerpo, está confiada enteramente a sí misma, y es en la unidad de alma y cuerpo donde ella es el sujeto de sus propios actos morales. Una doctrina que separe el acto moral de las dimensiones corpóreas de su ejercicio es contraria a la Escritura y la Tradición (§49). La «naturaleza de la persona humana» se refiere a la persona misma en la unidad de alma y cuerpo, en la unidad de sus inclinaciones espirituales y biológicas (§50).
 
 ## Distinciones importantes
 

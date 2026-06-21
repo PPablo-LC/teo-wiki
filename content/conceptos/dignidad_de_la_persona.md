@@ -17,6 +17,10 @@ La doctrina católica sobre la dignidad de la persona se fundamenta en la creaci
 
 El Capítulo General de 2026, en el marco de «Proteger y sanar», afirma que la atención a las víctimas y la búsqueda de la justicia deben respetar la dignidad de todas las personas implicadas. Reconoce que el deseo de transparencia no siempre supo armonizarse con la presunción de inocencia y la buena fama de los acusados, señalando la necesidad de armonizar la protección de los vulnerables con el respeto a la dignidad de cada persona [CapGral-2026, n. 142-143].
 
+### Según la Veritatis Splendor (VS)
+
+La Veritatis Splendor defiende la singular dignidad de la persona humana, única criatura en la tierra a la que Dios ha amado por sí misma (§13, citando GS 24). Los mandamientos tutelan el bien de la persona, imagen de Dios, a través de sus bienes particulares. La verdadera libertad es «signo eminente de la imagen divina en el hombre» (§34, citando GS 17). La persona humana, en la unidad inseparable de alma y cuerpo, es sujeto de actos morales (§48-49). La dignidad de la persona exige normas morales universales e inmutables que la protejan (§95-96).
+
 ## Distinciones importantes
 
 - Dignidad ontológica (inherente al ser humano por creación) vs. dignidad moral (adquirida por la virtud)

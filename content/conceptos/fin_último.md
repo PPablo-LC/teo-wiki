@@ -42,6 +42,9 @@ Santo Tomás inaugura la Prima Secundae con el tratado del fin último (Ia-IIae 
 
 Royo Marín trata el fin último en la Parte 1 como fundamento de la vida espiritual. El hombre ha sido creado para conocer, amar y servir a Dios en esta vida y gozar de Él eternamente en la otra. La [[perfección_cristiana]] consiste precisamente en la orientación plena de toda la vida hacia Dios como fin último, que se realiza por la caridad. La vida espiritual es el camino hacia ese fin, que empieza en la tierra y se consuma en el cielo.
 
+### Según la Veritatis Splendor (VS)
+
+La Veritatis Splendor (§10) enseña que el hombre, hecho a imagen del Creador, redimido por Cristo y santificado por el Espíritu Santo, tiene como fin último de su vida ser «alabanza de la gloria» de Dios (Ef 1,12). El obrar humano está ordenado a Dios como fin último (§72-73). La vida moral se presenta como respuesta debida a las iniciativas gratuitas del amor de Dios. El carácter teleológico de la vida moral significa que toda acción humana se ordena a Dios como bien supremo. Cristo es la respuesta a la pregunta sobre el bien, porque solo Dios es el Bien (§9, §72).
 
 ## Distinciones importantes
 

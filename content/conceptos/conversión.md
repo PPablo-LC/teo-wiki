@@ -1,7 +1,7 @@
 # Conversión
 
 > Área: Moral / Ascética
-> Última actualización: 2026-06-10
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -81,6 +81,14 @@ Juan Pablo II defiende la práctica de la confesión individual como expresión 
 
 La Iglesia del nuevo Adviento «debe ser la Iglesia de la Eucaristía y de la Penitencia» [RH §20].
 
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) presenta la conversión como respuesta al anuncio del Reino (Cap. III). Jesús comienza su predicación: «Convertíos y creed en el Evangelio». La parábola del hijo pródigo muestra que la conversión comienza con el reconocimiento de la dignidad perdida y la nostalgia de la casa paterna. La experiencia de la paternidad de Dios conlleva la aceptación de la fraternidad. También el hermano mayor tiene necesidad de convertirse: su egoísmo le endurece el corazón y le ciega. La Iglesia, siguiendo las huellas del Señor, tiene la misión de trabajar por la conversión de los corazones y por la reconciliación de los hombres con Dios y entre sí. La conversión implica una profunda transformación del corazón.
+
+Desde la cruz, la misericordia provoca la conversión más ejemplar: la del buen ladrón, que reconoce su culpa —«nosotros recibimos lo merecido»— y pide ser recordado en el Reino. Jesús responde: «Hoy estarás conmigo en el paraíso». La conversión del buen ladrón, en el momento mismo de la muerte, muestra que nunca es tarde para volverse a Dios.
+
+[VJ, Cap. III, Cap. VI]
+
 ## Analizado para
 
 - [[auténtica_día_2_lidera_tu_vida_con_dios]] — convergencia en el proceso de sanación interior (herida → mentira → renuncia → verdad) como aplicación concreta de la conversión continua; aporta sistematización práctica no desarrollada en la base doctrinal
@@ -96,3 +104,4 @@ La Iglesia del nuevo Adviento «debe ser la Iglesia de la Eucaristía y de la Pe
 - [L_XIV-ClerRom, 19.02.2026]
 - CEC §1989
 - PMI (Discurso conclusivo del Encuentro sobre la Protección de los Menores en la Iglesia, 24 febrero 2019)
+- [VJ, Cap. III, Cap. VI]

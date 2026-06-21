@@ -1,7 +1,7 @@
 # Redención
 
 > Área: Dogmática / Soteriología
-> Última actualización: 2026-06-12
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -59,6 +59,12 @@ El misterio pascual es «el culmen de esta revelación y actuación de la miseri
 
 **q.49 a.6 (Exaltación de Cristo):** Cristo mereció por su pasión ser exaltado en cuatro aspectos: resurrección gloriosa, ascensión al cielo, sesión a la derecha del Padre con manifestación de su divinidad, y potestad de juzgar (q.49 a.6 in corpore).
 
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) presenta la redención como la obra cumplida por Cristo desde Getsemaní hasta la cruz. La oración en el huerto, donde Cristo asume la condición de siervo y suda sangre, inicia el camino redentor. La condena por el Sanedrín y Pilato, la tortura y la crucifixión cumplen el Cuarto Poema del Siervo de Yahvé: Cristo es el «Varón de dolores». En la cruz, sus siete palabras revelan las dimensiones de la redención: perdón («Padre, perdónales»), promesa del paraíso al ladrón arrepentido, don de la Madre a la humanidad, solidaridad en el abandono («Dios mío, Dios mío»), sed de la humanidad nueva, cumplimiento de la voluntad del Padre («Todo está cumplido») y entrega confiada («Padre, en tus manos pongo mi espíritu»).
+
+[VJ, Cap. VI]
+
 ### Según Para Salvarte (PS)
 
 Para Salvarte presenta la Redención como el rescate del género humano por la sangre de Cristo: «Por los méritos de la Redención de Jesucristo se nos perdonan todos nuestros pecados y se nos abren las puertas del cielo» (PS §33,1). Loring subraya que la ofensa del pecado, por ser contra un Dios infinito, exigía un reparador infinito, de ahí la necesidad de la Encarnación y la Redención (PS §34,1). Cristo, en cuanto Dios, da valor infinito a sus acciones; en cuanto hombre, cabeza de la humanidad, ofrece a Dios la reparación en nuestro nombre (PS §34,1). Destaca también que la aplicación de la Redención requiere la cooperación libre del hombre: «Dios que te ha creado sin ti, no te salvará sin ti» (San Agustín, citado en PS §33,1).
@@ -98,6 +104,7 @@ Cristo, mediante la encarnación, «se ha unido en cierto modo a todo hombre» [
 - [CEC §606-618, ofrenda y sacrificio]
 - [PS §33-34]
 - SmTh IIIª q.1 aa.1-3; q.48 aa.1-6; q.49 aa.1-6; q.6 a.4
+- [VJ, Cap. VI]
 
 ## Ver también
 

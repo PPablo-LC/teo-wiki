@@ -27,6 +27,10 @@ La parábola revela que la misericordia «no se puede valorar "desde fuera"». N
 
 La parábola expresa «la realidad de la conversión» como «la expresión más concreta de la obra del amor y de la presencia de la misericordia en el mundo humano» [DM §6]. La misericordia se manifiesta en su aspecto verdadero «cuando revalida, promueve y extrae el bien de todas las formas de mal existentes en el mundo y en el hombre» [DM §6].
 
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) dedica una extensa meditación a la parábola del hijo pródigo (Cap. III). Es la «inefable historia del gran amor de un padre —Dios— que ofrece al hijo que vuelve a él el don de la reconciliación plena». La parábola debería llamarse «del padre misericordioso». El Padre misericordioso que abraza al hijo perdido es la imagen definitiva del Dios revelado por Cristo. La misericordia paterna supera la pura legalidad: el perdón no consiste solo en recibir al hijo, sino en acogerlo en la alegría de una comunión restablecida. El padre es fiel a su paternidad, fiel al amor que desde siempre sentía por su hijo. Sus manos sostienen, estrechan, dan fuerza, confortan, consuelan y acarician: son manos de padre y madre a la vez. La parábola toca toda clase de rupturas de alianza de amor, toda pérdida de gracia, todo pecado. También el hermano mayor necesita convertirse, porque su egoísmo le ciega y le cierra a los demás y a Dios.
+
 ### Según el análisis de conferencias para varones (notas)
 
 > **Nota**: Estas son fuentes complementarias de caracter testimonial y pastoral, no magisterial. Se incluyen por su valor edificante y por su convergencia con la doctrina católica.

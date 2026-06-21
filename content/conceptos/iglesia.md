@@ -1,7 +1,7 @@
 # Iglesia
 
 > Área: Eclesiología
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -24,6 +24,12 @@ Lumen Gentium presenta a la Iglesia como «sacramento, o sea signo e instrumento
 La naturaleza íntima de la Iglesia se manifiesta mediante imágenes bíblicas: redil, grey, labranza, viña, edificación de Dios, casa de Dios, templo santo, Jerusalén de arriba, Esposa inmaculada del Cordero [ConcVatII, LG §6]. La Iglesia es el [[cuerpo_místico]] de Cristo, cuya Cabeza es Cristo, que lo vivifica, une y mueve por el Espíritu Santo [ConcVatII, LG §7].
 
 La única Iglesia de Cristo «subsiste en la Iglesia católica, gobernada por el sucesor de Pedro y por los Obispos en comunión con él», si bien fuera de su estructura se encuentran muchos elementos de santidad y verdad [ConcVatII, LG §8]. La Iglesia es santa y necesitada de purificación, peregrina entre persecuciones y consuelos de Dios [ConcVatII, LG §8].
+
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) describe el nacimiento de la Iglesia en Pentecostés como «Galilea de las naciones» (Cap. VIII). Los signos del viento impetuoso y las lenguas de fuego sobre los Apóstoles manifiestan la acción del Espíritu Santo que constituye a la Iglesia como universal desde su origen [VJ, Cap. VIII].
+
+JPII, citando a San Ireneo, afirma: «Donde está la Iglesia, ahí está el Espíritu de Dios» [VJ, Cap. VIII]. La Iglesia no es una comunidad meramente humana: nace del Espíritu que escribe la nueva ley en los corazones y congrega a los pueblos en la adoración del Padre en espíritu y verdad. Pedro, como cabeza del Colegio Apostólico, invita a la conversión y al bautismo, dando inicio a la vida de la Iglesia como comunidad de salvación abierta a todos los pueblos [VJ, Cap. VIII].
 
 ### Según Para Salvarte (PS)
 
@@ -53,3 +59,4 @@ Ver artículo principal: [[iglesia_cuerpo_místico]]
 
 - CEC §748-975
 - PS §07-08
+- [VJ, Cap. VIII]

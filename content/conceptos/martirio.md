@@ -49,6 +49,10 @@ El martirio es el más excelente de los actos de la virtud de la religión, pues
 
 El máximo testimonio «es el martirio» [EA §26]. Es necesario que los ejemplos de entrega sin límites a la causa del Evangelio «sean no sólo preservados del olvido, sino más conocidos y difundidos entre los fieles del Continente» [EA §15].
 
+### Según la Veritatis Splendor (VS)
+
+La Veritatis Splendor (§90-94) presenta el martirio como el testimonio más elevado de la verdad moral. Los mártires de la Iglesia antigua y contemporánea dan su vida antes que realizar un acto intrínsecamente malo. El martirio manifiesta la santidad de la ley de Dios y la inviolabilidad de la dignidad personal. Citando las *Sátiras* de Juvenal («Summum crede nefas animam praeferre pudori / et propter vitam vivendi perdere causas»), la encíclica afirma que el martirio es un acto de suprema libertad (§90). Los mártires no se dejan vencer por el mal, sino que vencen el mal con el bien, entregándose a la misericordia de Dios (§93). El martirio es la confirmación más plena de que las normas morales negativas obligan siempre y sin excepción (§90-92). La sangre de los mártires hace fecunda la Iglesia y renueva la vida del pueblo de Dios (§93).
+
 ## Distinciones importantes
 
 - **Martirio** ≠ **suicidio**: el mártir no busca la muerte, la acepta por amor a Cristo.

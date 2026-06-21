@@ -52,6 +52,12 @@ La mortificación cristiana, la aceptación de los sufrimientos y la paciencia e
 
 [TPCr, Parte III, Libro I — Aspecto Negativo de la Vida Cristiana]
 
+### Según la Veritatis Splendor (VS)
+
+La Veritatis Splendor (§20, §85-87) presenta la cruz como la revelación viva del amor de Cristo al Padre y a los hombres. El acto supremo de la pasión y muerte en la cruz es la manifestación del amor «hasta el extremo» (Jn 13,1). Cristo crucificado responde al interrogante sobre la relación entre libertad y normas morales. La «ley del Espíritu que da la vida en Cristo Jesús» (Rm 8,2) libera de la ley del pecado y de la muerte. El seguimiento de Cristo implica tomar la propia cruz (Mt 16,24) como participación en su entrega total.
+
+Además (§84-89), la encíclica expone la relación entre la cruz y el seguimiento moral de Cristo. La cruz es la culminación de la verdad moral del Evangelio: Jesucristo confirma sus enseñanzas morales entregándose libremente a la muerte por nuestros pecados (§85). «Quien quiera salvar su vida, la perderá; pero quien pierda su vida por mí, la salvará» (Lc 9, 24) — esta es la paradoja de la cruz que ilumina toda la moral cristiana (§88). La ley nueva del Espíritu se convierte, por la cruz, en la ley de la Iglesia y de todo cristiano (§114). En la cruz, la verdad de la doctrina moral alcanza su culmen con la sangre de Cristo (§114).
+
 ### Según Memoria e Identidad (MI)
 
 Juan Pablo II presenta la cruz como el límite definitivo que Dios impone al mal. La presencia victoriosa de la cruz se revela con mayor impresionante en los momentos de mayor sufrimiento: «a los que están sometidos a una actuación sistemática del mal, no les queda nada más que Cristo y su cruz como fuente de autodefensa espiritual y como promesa de victoria» [MI, cap. 4].

@@ -69,6 +69,10 @@ Cristo nacio perfecto en gracia, con uso de libre albedrio, capacidad de merecer
 
 El Catecismo trata la Natividad en el contexto del misterio de la Encarnacion (CEC §525-526). Jesus nace en la humildad de un establo, de una familia pobre; los pastores son los primeros testigos del acontecimiento. La Epifania es la manifestacion de Jesus como Mesias de Israel, Hijo de Dios y Salvador del mundo, celebrada con la adoracion de los Magos venidos de Oriente (CEC §528). La estrella de los Magos manifiesta que Cristo ha venido para los gentiles (CEC §437, §528).
 
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) narra la Natividad con profundidad teológica (Cap. I). El nacimiento en Belén, en la pobreza del establo, revela las características del reino mesiánico: un reino sin honores ni poderes terrenos. María da a luz a su hijo primogénito, lo envuelve en pañales y lo acuesta en un pesebre — «una cuna improvisada que contrasta con la dignidad del Hijo del Altísimo». El Evangelio explica que «no había sitio para ellos en el alojamiento», anticipando los rechazos que Jesús sufriría. El nacimiento de Jesús es el centro del tiempo, la medida fundamental del tiempo humano. Cristo es el Alfa y la Omega, el Principio y el Fin. El Niño indefenso es a la vez el Poder que supera todo cuanto el hombre es.
+
 ## Distinciones importantes
 
 - **Nacimiento eterno vs. nacimiento temporal**: Cristo, como Verbo, nace eternamente del Padre sin principio ni fin; como hombre, nace temporalmente de Maria en un momento historico determinado.

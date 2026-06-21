@@ -1,7 +1,7 @@
 # Evangelización
 
 > Área: Doctrina Social / Eclesiología
-> Última actualización: 2026-06-10
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -24,6 +24,12 @@ La doctrina social es parte integrante del ministerio de evangelización de la I
 ### Según el Concilio Vaticano II (ConcVatII)
 
 El Decreto *Ad Gentes* enseña que la actividad misional es la evangelización e implantación de la Iglesia en los pueblos o grupos en que todavía no ha arraigado [ConcVatII, AG §6]. Cristo fue enviado por el Padre para evangelizar a los pobres, y la Iglesia debe caminar por el mismo camino: el de la pobreza, la obediencia, el servicio y la inmolación de sí mismo hasta la muerte [ConcVatII, AG §5]. El medio principal de la implantación de la Iglesia es la predicación del Evangelio de Jesucristo [ConcVatII, AG §6]. La Constitución *Dei Verbum* enseña que la Iglesia tiene la obligación de anunciar el Evangelio a toda criatura, y que este Evangelio, prometido por los Profetas y completado por Cristo, es fuente de toda verdad salvadora [ConcVatII, DV §7]. La [[evangelización]] ha de adaptarse a los conceptos y lengua de cada pueblo (ConcVatII, GS §44).
+
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) sitúa en Pentecostés el nacimiento de la misión universal de la Iglesia (Cap. VIII). Los Apóstoles, llenos del Espíritu Santo, hablan en otras lenguas —signo de que el Evangelio está destinado a todos los pueblos. JPII denomina a Pentecostés «Galilea de las naciones», lugar donde el cristianismo se manifiesta como universal desde su origen [VJ, Cap. VIII].
+
+Pedro, como primer heraldo, invita a la conversión y al bautismo, dando inicio a la predicación apostólica que se extenderá hasta los confines de la tierra. La superación de la dispersión de Babel en Pentecostés muestra que la evangelización no es imposición de una cultura sobre otra, sino don del Espíritu que hace comprensible el mensaje a toda lengua y nación [VJ, Cap. VIII].
 
 ### Según León XIV (L_XIV-ClerRom)
 
@@ -67,3 +73,4 @@ Se relaciona con [[doctrina_social_de_la_iglesia]], [[misión_de_la_iglesia]], [
 - [Pablo VI, Evangelii Nuntiandi]
 - [CEC §2419-2425]
 - [L_XIV-ClerRom, 19.02.2026]
+- [VJ, Cap. VIII]

@@ -1,7 +1,7 @@
 # Sacerdocio
 
 > Área: Sacramental / Eclesiología
-> Última actualización: 2026-06-12
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -31,6 +31,12 @@ En el NT, Cristo es el único sumo sacerdote según el orden de Melquisedec (Heb
 ### Según Royo Marín (TPCr)
 
 Royo Marín trata el sacerdocio en el contexto del estado de perfección (Parte III, Libro III). El sacerdote está especialmente obligado a tender a la perfección cristiana por la excelsa dignidad de sus funciones. Santo Tomás afirma que el sacerdote necesita una santidad más alta que el simple religioso no sacerdote. La gracia sacramental del orden confiere una fuerza especial para ejercer las funciones ministeriales y el derecho a los auxilios actuales necesarios (Parte III, Libro II, Cap. 1).
+
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) presenta la institución del sacerdocio ministerial en la Última Cena, cuando Cristo ordena a los Apóstoles: «Haced esto en conmemoración mía». Al instituir la Eucaristía, Cristo instituye el sacerdocio para que el sacrificio redentor se perpetúe en el tiempo. Jesús ora también por los Apóstoles en la oración sacerdotal, pidiendo al Padre que los santifique y los proteja del mal. El sacerdocio nace del corazón de la Eucaristía como servicio a la unidad y a la santificación del Pueblo de Dios.
+
+[VJ, Cap. V]
 
 ### Según León XIV (JorSant-2026)
 
@@ -93,3 +99,4 @@ Se relaciona con [[orden_sacerdotal]], [[obispo]], [[presbítero]], [[diácono]]
 - [L_XIV-ClerRom, 19.02.2026]
 - [JorSant-2026, 12.06.2026]
 - SmTh IIIª q.22 aa.1-6
+- [VJ, Cap. V]

@@ -35,6 +35,10 @@ Santo Tomás trata la Transfiguración en la IIIª q.45. Fue conveniente porque 
 
 La TPCr usa «transfiguración» para describir el efecto del éxtasis sobre el rostro del alma contemplativa: «la fisonomía del extático se ilumina de una belleza celestial, que traduce la admiración más profunda y el más ardiente amor. Es una verdadera transfiguración» (n. 1455). No se trata la Transfiguración de Cristo en el Tabor como misterio en sí mismo.
 
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) contempla la Transfiguración en el monte Tabor (Cap. IV). Jesús tomó a Pedro, Santiago y Juan y se transfiguró ante ellos: «el aspecto de su rostro cambió y sus vestidos brillaban de blancos». Los Apóstoles, arrebatados por la visión e invadidos por el miedo, expresan el deseo de prolongarla: «Maestro, ¡qué hermoso es estar aquí!». La voz del Padre confirma: «Este es mi Hijo amado, escuchadle». La Transfiguración preparó a los Apóstoles para las pruebas de Getsemaní, la Pasión y el Calvario: Jesús quería demostrarles el esplendor de la gloria que brilla en Él. La Transfiguración sitúa en primer plano a Dios Padre, presente junto al Hijo. Recuerda el sacrificio de Isaac: el Padre no escatimó a su propio Hijo sino que lo entregó para la salvación. Desde el Tabor hasta el Gólgota: el sacrificio de Cristo encierra la mayor fuerza de transformación del hombre y de la historia.
+
 ## Distinciones importantes
 
 - Transfiguración como anticipación de la resurrección vs. resurrección misma

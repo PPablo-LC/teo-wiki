@@ -1,7 +1,7 @@
 # Ley eterna
 
 > Área: Moral Fundamental
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -30,6 +30,10 @@ Santo Tomás trata la ley eterna en la cuestión 93 de la Ia-IIae. La define com
 **Derivación de toda ley.** Toda ley deriva de la ley eterna en la medida en que participa de la recta razón (q.93 a.3). Las leyes humanas justas derivan de ella como los planes de los gobernantes inferiores derivan del supremo gobernante. Las leyes inicuas, en cuanto se apartan de la razón, no son ley sino violencia; pero en cuanto emanan de un poder constituido, también guardan cierta semejanza con la ley y proceden de Dios, de quien proviene toda potestad.
 
 **Sujetos de la ley eterna.** Las cosas necesarias y eternas creadas están sujetas a la ley eterna en cuanto caen bajo el gobierno divino; la esencia divina misma no está sujeta, sino que es la ley eterna (q.93 a.4). Los seres físicos contingentes están sujetos de modo distinto: no por conocimiento del precepto, sino porque Dios imprime en ellos los principios de sus operaciones propias, siendo movidos por la divina providencia (q.93 a.5). Todas las cosas humanas están sujetas a la ley eterna de dos modos: por conocimiento (participación racional) y por acción-pasión (inclinación natural al bien). Los buenos están perfectamente sujetos, pues obran en conformidad con ella; los malos lo están defectuosamente en el orden activo, pero suficientemente en el orden pasivo, pues padecen lo que la ley eterna dispone sobre ellos (q.93 a.6).
+
+### Según la Veritatis Splendor (VS)
+
+La Veritatis Splendor (§43-44) recoge la doctrina clásica sobre la ley eterna de Dios. Citando a san Agustín, la define como «la razón o la voluntad de Dios que manda conservar el orden natural y prohíbe perturbarlo». Siguiendo a santo Tomás, la identifica con «la razón de la sabiduría divina, que mueve todas las cosas hacia su debido fin» (ST I-II, q.93, a.1). Dios provee a los hombres no desde fuera mediante leyes físicas inmutables, sino desde dentro mediante la razón, que conociendo con la luz natural la ley eterna puede indicar al hombre la dirección de su libre actuación (§43). La ley natural es la participación de la ley eterna en la criatura racional (§43, citando ST I-II, q.91, a.2). La ley eterna es conocida tanto por la razón natural como por la revelación sobrenatural (§72).
 
 ## Relaciones doctrinales
 

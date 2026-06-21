@@ -59,6 +59,12 @@ León XIV propone la «verdad como bien común» en los §§132-138 de *Magnífi
 
 León XIV abordó la verdad en su discurso ante el Parlamento español. Afirmó con claridad: «La verdad libera; la mentira esclaviza» [L_XIV-ViajeEspaña-2026, Parlamento — discurso]. Subrayó la necesidad de la verdad en la vida pública, el periodismo y la política, llamando a los gobernantes a ser «hombres y mujeres de verdad» [L_XIV-ViajeEspaña-2026, Parlamento — discurso]. Estableció una distinción fundamental entre verdad e imposición: «La verdad cristiana se propone, no se impone» [L_XIV-ViajeEspaña-2026, Parlamento — discurso]. Vinculó la verdad con la caridad: «No hay caridad sin verdad» [L_XIV-ViajeEspaña-2026, Parlamento — discurso].
 
+### Según la Veritatis Splendor (VS)
+
+La Veritatis Splendor sitúa la verdad en el centro de la vida moral. Jesucristo es «la luz verdadera que ilumina a todo hombre» (Jn 1, 9) y la respuesta decisiva a la pregunta moral del hombre. El relativismo y el escepticismo nacen de apartar la mirada del Dios vivo (VS §1-2). La encíclica defiende la verdad universal sobre el bien contra el subjetivismo moral: «Conoceréis la verdad y la verdad os hará libres» (Jn 8, 32), afirmando que la libertad depende fundamentalmente de la verdad (VS §34). La verdad sobre el bien es cognoscible por la razón humana mediante la ley natural, y el Magisterio tiene el deber de interpretarla auténticamente (VS §4-5, §27).
+
+La encíclica (VS §32-35, §84-89) presenta la verdad como fundamento de la libertad y de la vida moral. Jesucristo es la Verdad que libera (cf. Jn 8, 32). La libertad humana, herida por el pecado, necesita ser liberada por la verdad de Cristo. El martirio cristiano (§90-94) es el testimonio supremo de la verdad moral: los mártires dan su vida antes que cometer un acto intrínsecamente malo, mostrando que la fidelidad a la verdad moral vale más que la vida misma. «No es lícito hacer el mal para obtener un bien» (§56, 80). En el diálogo con el joven rico, Jesús responde desde la verdad de Dios y revela el camino de la vida eterna (§6-8). La conciencia moral es la aplicación de la verdad sobre el bien a una situación concreta (§59-61).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[libertad_humana]], [[justicia]], [[caridad]], [[conciencia_moral]], [[ley_natural]]

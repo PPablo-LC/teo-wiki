@@ -63,6 +63,10 @@ La ley natural está grabada en el corazón del hombre: «Los mandamientos escul
 
 La ley natural tiene valor vinculante incluso para quienes no aceptan la Revelación: «La ley divina del Decálogo tiene valor vinculante como ley natural también para los que no aceptan la Revelación: no matar, no fornicar, no robar, no dar falso testimonio, honra a tu padre y a tu madre…» [MI, cap. 22].
 
+### Según la Veritatis Splendor (VS)
+
+La Veritatis Splendor es la encíclica que con mayor profundidad reafirma la doctrina de la ley natural en el magisterio reciente. Sigue a santo Tomás definiendo la ley natural como «la luz de la inteligencia infundida en nosotros por Dios; gracias a ella conocemos lo que se debe hacer y lo que se debe evitar» (§12, citando a Sto. Tomás). La ley natural es participación de la ley eterna en la criatura racional (§42-44). Es universal e inmutable (§51-53), inscrita en el corazón del hombre (Rm 2,15). La encíclica rechaza las objeciones de fisicismo y naturalismo contra la ley natural (§46-47), afirmando que la ley natural se refiere a la naturaleza de la persona humana en su integralidad de alma y cuerpo (§48-50).
+
 ## Ver también
 
 [[conciencia_moral]], [[decálogo]], [[ley_evangélica]], [[virtud_de_la_prudencia]]

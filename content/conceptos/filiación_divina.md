@@ -21,6 +21,10 @@ El CEC enseña que la filiación divina se realiza por el bautismo (§536), que 
 
 Royo Marín trata la filiación divina en la Parte 1 como principio fundamental de la vida espiritual. La gracia santificante, al hacernos partícipes de la naturaleza divina, nos constituye verdaderamente hijos de Dios. Esta condición filial es el fundamento de la [[perfección_cristiana]], pues el cristiano está llamado a ser perfecto como su Padre celestial es perfecto. La filiación divina conlleva una relación especial con la Santísima Trinidad: el Padre nos adopta, el Hijo nos incorpora a sí mismo, y el Espíritu Santo habita en nosotros.
 
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) enseña que la filiación divina procede de Cristo y se hace realidad por el Espíritu Santo (Cap. I). «La prueba de que sois hijos es que Dios ha enviado a nuestros corazones el Espíritu de su Hijo que clama: ¡Abbá, Padre!» El Espíritu viene a enseñarnos que somos hijos y a hacer efectiva la filiación divina. «Cristiano» indica un nuevo modo de ser: existir a semejanza del Hijo de Dios. Como hijos en el Hijo participamos en la salvación, que no es solo liberación del mal sino plenitud del bien: del sumo bien de la filiación de Dios. El Hijo es quien con todo su ser dice a Dios: ¡Abbá, Padre! El hombre está llamado a ser partícipe de la vida de Dios, a conocer y a amar a su Creador y Padre, primero mediante las criaturas y después en la visión beatífica.
+
 ## Distinciones importantes
 
 - Filiación natural (propia del Verbo) vs. filiación adoptiva (propia del cristiano por gracia).

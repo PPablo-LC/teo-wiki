@@ -35,6 +35,10 @@ Juan Pablo II presenta la Sagrada Familia como el lugar donde el Hijo de Dios cr
 
 La vida de la Sagrada Familia en Nazaret es presentada como «ambiente de crecimiento en la fe y de la esperanza» y «lugar de un alto testimonio de la caridad» [MJV, catequesis 10]. La unión entre Jesús y María «supera con mucho la que normalmente existe entre una madre y un hijo, porque está arraigada en una particular condición sobrenatural» [MJV, catequesis 10].
 
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) presenta a la Sagrada Familia como modelo (Cap. I-II). La Sagrada Familia fue amenazada durante su estancia en Belén, obligada a huir a Egipto por la crueldad de Herodes. En Nazaret, la casa de la Sagrada Familia fue el primer templo, la primera iglesia. La familia de Nazaret vive su vida de fe, correspondiendo a una vocación sublime que vincula su existencia al misterio de Dios presente entre los hombres. Dedicándose a Él encuentran la motivación diaria para una solidaridad que ninguna dificultad resquebraja. El camino de José se consumió en la diaria fatiga de carpintero, junto al Hijo de Dios, que se hacía cada vez más su eficaz colaborador. La Sagrada Familia no es otra cosa que la familia humana en misión divina.
+
 ## Distinciones importantes
 
 - La Sagrada Familia es «familia» por naturaleza — no es una comunidad religiosa ni una institución eclesiástica — pero es modelo de toda familia cristiana

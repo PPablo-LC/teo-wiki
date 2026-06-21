@@ -17,6 +17,10 @@ La sociedad contemporánea experimenta una nueva necesidad de sentido. Los inten
 
 [§575-576]: «Siempre deseará el hombre saber, al menos confusamente, el sentido de su vida, de su acción y de su muerte» (GS §41) [§575]. Muchos fenómenos indican que en las naciones más ricas los hombres, insatisfechos con la mera posesión de bienes materiales, abandonan la utopía de un paraíso perdurable aquí en la tierra [§575]. A las preguntas sobre el sentido y el fin de la aventura humana, «la Iglesia responde con el anuncio del Evangelio de Cristo, que rescata la dignidad de la persona humana del vaivén de las opiniones» [§576]. La Iglesia sabe que «sólo Dios, al que ella sirve, responde a las aspiraciones más profundas del corazón humano, el cual nunca se sacia plenamente con solos los alimentos terrenos» (GS §41) [§576].
 
+### Según la Veritatis Splendor (VS)
+
+La Veritatis Splendor (§1-2) sitúa la pregunta por el sentido de la vida como el interrogante fundamental del hombre. La incansable búsqueda de la verdad absoluta permanece en lo más profundo del corazón humano aun después del pecado. La respuesta a esta pregunta solo puede encontrarse en Jesucristo, que «es el camino, la verdad y la vida» (Jn 14, 6). La encíclica recuerda que el desarrollo de la ciencia y la técnica no exime a la humanidad de plantearse los interrogantes religiosos fundamentales, sino que más bien la estimula a afrontar las luchas del corazón y de la conciencia moral. La cuestión moral es el camino por el que está abierto a todos el camino de la salvación (VS §3).
+
 ## Distinciones importantes
 
 - Sentido trascendente (Dios como respuesta última) vs. inmanentismo (sentido puramente terreno)

@@ -1,7 +1,7 @@
 # Providencia divina
 
 > Área: Dogmática
-> Última actualización: 2026-06-02
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -36,6 +36,9 @@ Juan Pablo II presenta la providencia divina como el límite que Dios impone al 
 
 La providencia se manifiesta también en el bien que surge de la experiencia del mal: «tras la experiencia punzante del mal, se llega a practicar un bien más grande» [MI, cap. 3]. San Pablo exhorta: «No te dejes vencer por el mal; antes bien, vence al mal con el bien» (Rm 12,21) [MI, cap. 3]. El límite impuesto al mal por el bien divino se ha incorporado a la historia «por medio de Cristo» [MI, cap. 3].
 
+### Según la Veritatis Splendor (VS)
+
+La Veritatis Splendor (§43) enseña que la sabiduría de Dios es providencia, amor solícito. Dios provee a los hombres de manera diversa respecto a los demás seres: no desde fuera, mediante leyes físicas inmutables, sino desde dentro, mediante la razón, que conociendo con la luz natural la ley eterna de Dios, es capaz de indicar al hombre la dirección de su libre actuación. Dios llama al hombre a participar de su providencia, queriendo por medio del hombre mismo, a través de su cuidado razonable y responsable, dirigir el mundo. La ley natural es la participación de la criatura racional en la divina Providencia.
 
 ## Analizado para
 

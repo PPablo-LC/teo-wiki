@@ -1,7 +1,7 @@
 # Resurrección de Cristo
 
 > Área: Cristología / Dogmática
-> Última actualización: 2026-06-12
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -63,6 +63,14 @@ La Resurrección de Cristo es un acontecimiento real con manifestaciones histór
 
 La Resurrección de Cristo es la base de nuestra fe y el fundamento de la vida cristiana. El cristiano, unido a Cristo por la gracia santificante, participa ya de su muerte y resurrección. La Pascua de Cristo se renueva sacramentalmente en la Eucaristía (TPCr, Tercera Parte, Libro II, cap. I). La vida cristiana consiste en morir al pecado y resucitar con Cristo a una vida nueva (TPCr, Primera Parte). Los sacramentos nos unen a la muerte y resurrección de Cristo (TPCr, Tercera Parte, Libro II, cap. I).
 
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) dedica el Capítulo VII íntegramente a la Resurrección como «realidad de fe incontestable». Afirma la historicidad del hecho: aconteció al tercer día, en Jerusalén, en el sepulcro de José de Arimatea [VJ, Cap. VII]. El sepulcro vacío es el primer signo, aunque no prueba directa; la piedra removida testimonia que la muerte fue derrotada. Las mujeres —María Magdalena y las otras— fueron las primeras testigos y mensajeras de la Resurrección [VJ, Cap. VII].
+
+JPII refuta la hipótesis de que la resurrección fue producto de la fe de los Apóstoles, afirmando que es dogma de la fe cristiana y clave de la historia del mundo: victoria de la vida sobre la muerte [VJ, Cap. VII]. El cuerpo resucitado es real («tocad y ved»), pero glorificado: espiritual, no sometido a las limitaciones del espacio y el tiempo. La resurrección del cuerpo es más que la mera inmortalidad del alma [VJ, Cap. VII].
+
+La incredulidad de Tomás provoca la confesión «Señor mío y Dios mío» y la bienaventuranza «dichosos los que no han visto y han creído» [VJ, Cap. VII]. A los discípulos de Emaús se les revela en la fracción del pan, suscitando el ruego «Quédate con nosotros, Señor» [VJ, Cap. VII]. JPII señala que, aunque no está registrado en los Evangelios, es legítimo pensar que la Virgen María fue la primera destinataria de una aparición del Resucitado [VJ, Cap. VII].
+
 ### Según Para Salvarte (PS)
 
 Para Salvarte llama a la Resurrección «el dogma fundamental del cristianismo» (PS §35,1). Loring defiende su historicidad con múltiples argumentos: el sepulcro vacío (atestiguado por los cuatro evangelistas), las apariciones a más de quinientos testigos (1 Cor 15,4-8), y la transformación radical de los Apóstoles, que dieron su vida por esta verdad (PS §35,2). Distingue la Resurrección de Cristo de las resurrecciones milagrosas anteriores (Lázaro, hijo de la viuda de Naín): Cristo resucita para no morir jamás, con un cuerpo glorioso con propiedades distintas al cuerpo material (PS §35,2). Aporta también la prueba de la Sábana Santa de Turín como confirmación física del acontecimiento (PS §35,2).
@@ -88,4 +96,5 @@ Para Salvarte llama a la Resurrección «el dogma fundamental del cristianismo»
 - SmTh IIIª q.56 a.1-2
 - TPCr, Tercera Parte, Libro II, cap. I
 - TPCr, Primera Parte
+- [VJ, Cap. VII]
 - [PS §35]

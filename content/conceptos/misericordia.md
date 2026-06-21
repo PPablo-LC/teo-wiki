@@ -63,6 +63,14 @@ Sor Faustina se convirtió en «pregonera del mensaje, según el cual la única 
 
 La misericordia se conecta con el límite al mal: «El límite impuesto al mal por el bien divino se ha incorporado a la historia del hombre, a la historia de Europa en particular, por medio de Cristo» [MI, cap. 3]. El perdón es la expresión de la misericordia: «¿qué significa perdonar, sino recurrir al bien, que es mayor que cualquier mal? Un bien que, en definitiva, tiene su fuente únicamente en Dios» [MI, cap. 3].
 
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) presenta la misericordia de Dios como el rostro del Padre revelado por Cristo (Cap. III). Al perdonar los pecados, Jesús muestra el rostro de Dios Padre misericordioso. Culmen de esta revelación es la parábola del padre misericordioso (hijo pródigo). El padre, al ver llegar de lejos al hijo, «conmoviéndose en sus entrañas», lo abraza con amor y quiere que todos festejen su regreso. La misericordia paterna supera la justicia humana: «Habrá más alegría en el cielo por un solo pecador que se convierta que por noventa y nueve justos que no tienen necesidad de conversión». El misterio de la vuelta a casa expresa el encuentro entre el Padre y la humanidad, entre la misericordia y la miseria, en un círculo de amor. Es la misericordia que resplandece sobre todo en el Gólgota, en el sacrificio de Cristo para el perdón de los pecados.
+
+Desde la cruz, la misericordia se manifiesta en las siete palabras. La primera es un perdón inmediato: «Padre, perdónales, porque no saben lo que hacen» —Cristo intercede como abogado por sus verdugos. La segunda palabra al buen ladrón —«Hoy estarás conmigo en el paraíso»— muestra que la misericordia divina alcanza al pecador arrepentido en el mismo momento de la muerte. Así, la cruz es la cátedra desde la cual Cristo revela plenamente la misericordia del Padre.
+
+[VJ, Cap. III, Cap. VI]
+
 ## Distinciones importantes
 
 - **Misericordia** ≠ **justicia**: la misericordia no se opone a la justicia, sino que la perfecciona y la trasciende.
@@ -95,3 +103,4 @@ La misericordia se relaciona con la [[justicia_divina]], la [[penitencia]], el [
 [[justicia_divina]], [[penitencia]], [[conversión]], [[caridad]], [[sacramento_de_la_reconciliación]], [[perdón]]
 
 ## Referencias
+- [VJ, Cap. III, Cap. VI]

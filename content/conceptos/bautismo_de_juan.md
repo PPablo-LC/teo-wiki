@@ -21,6 +21,10 @@ El bautismo de Juan era un «bautismo de penitencia», figura del Bautismo crist
 
 Royo Marín distingue el bautismo de Juan del Bautismo sacramental. Aquel era solo «un bautismo de penitencia que disponía para recibir al Mesías» (n. 389), mientras que el Bautismo cristiano borra el pecado original e imprime carácter. El bautismo de Juan no confería gracia santificante.
 
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) presenta a Juan Bautista como «el último de los Profetas del Antiguo Testamento, que da paso al Nuevo, señalando en Jesús al Mesías esperado» (Cap. III). Su bautismo de penitencia exige arrepentimiento de los pecados y sincera espera del Mesías. Predica la conversión: «Convertíos, porque se acerca el reino de los cielos». Juan reconoce la distancia infinita que hay entre él y Aquel que debe venir. Anuncia que Jesús «os bautizará con el Espíritu Santo y fuego»: el rito dará la gracia de Dios, el Espíritu Santo, entendido bíblicamente como fuego místico que quema el pecado e inserta en la vida divina. Juan proclama: «Este es el Cordero de Dios, que quita el pecado del mundo», verdad que se esclarecerá del todo a través de la cruz.
+
 ### Según la Summa Theologiae (SmTh)
 
 #### IIIª q.38 — Sobre el bautismo de Juan

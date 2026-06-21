@@ -19,6 +19,10 @@ Las bienaventuranzas están en el centro de la predicación de Jesús (CEC §171
 ### Según Royo Marín (TPCr)
 Cristo comienza su sermón ofreciendo a todos el ideal altísimo de las bienaventuranzas, que suponen una perfección eminente como coronamiento de todo el edificio de nuestra santificación (TPCr, Segunda Parte, Cap. VI, n.165). Las más celebradas concepciones de los genios de la humanidad palidecen ante un solo versículo del sermón de la Montaña (TPCr, Primera Parte, Cap. VII, n.56). Su moral sublime, iniciada en las divinas paradojas de las bienaventuranzas, será siempre el código divino de la más excelsa perfección y santidad. El alma que quiera encontrar el verdadero camino para ir a Dios no tiene más que abrir el Evangelio. Cristo reduce las bienaventuranzas a ocho en el sermón de la Montaña (TPCr, Segunda Parte, Cap. V, n.137).
 
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) presenta el Sermón de la Montaña como «el mapa de nuestro camino al Cielo» (Cap. III). Es la Carta Magna del Cristianismo. En las breves frases del Sermón, Jesús propuso la clave de la nueva era que había venido a proclamar: el nuevo espíritu tiene que ser amable, generoso, sencillo y sincero. Los discípulos del nuevo reino deben buscar la felicidad también entre la pobreza, las lágrimas y la opresión. El Sermón traza el mapa del viaje hacia la verdadera felicidad. Las ocho Bienaventuranzas son las señales de tránsito. Es un camino cuesta arriba, pero Jesús lo ha caminado antes que nosotros. Quien le sigue no camina en la oscuridad.
+
 ## Distinciones importantes
 
 - El sermón de la montaña no es solo un código moral, sino la revelación del rostro de Cristo

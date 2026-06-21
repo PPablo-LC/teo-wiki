@@ -1,43 +1,37 @@
 # Realeza de Cristo
 
 > Área: Cristología
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-20
 
 ## Definición
 
-El señorío universal de Jesucristo como Rey del universo y Cabeza de la Iglesia. Cristo ejerce su realeza no por el poder terreno, sino sirviendo y dando su vida como rescate por muchos. Su reino es el Reino de Dios, presente ya en misterio.
+La realeza de Cristo es el señorío universal de Jesucristo sobre todas las cosas, en virtud de su naturaleza divina y de su redención. Es un reino de verdad, de vida, de santidad y de gracia, de justicia, de amor y de paz, no de este mundo. Se manifiesta plenamente en la cruz y será consumada al final de los tiempos.
 
 ## Desarrollo doctrinal
 
-Cristo es Señor porque posee todo poder en los cielos y en la tierra, constituido por su Resurrección y Ascensión. Su realeza es universal y eterna. Se manifiesta de modo supremo en la Cruz (Regnavit a ligno Deus). Cristo es Cabeza de la Iglesia, Señor del cosmos y de la historia. Los cristianos participan de su realeza sirviendo a los demás. Su Reino está presente ya en la Iglesia, pero no consumado hasta la parusía.
+Jesús es Rey por derecho de naturaleza (como Hijo de Dios) y por derecho de conquista (mediante la redención). Su realeza fue anunciada por los profetas, proclamada por los ángeles en su nacimiento y aclamada por la multitud en la entrada en Jerusalén. Pilato le preguntó si era rey, y Jesús respondió: «Tú lo dices: soy rey. Yo para esto he nacido y para esto he venido al mundo: para dar testimonio de la verdad» (Jn 18,37). Su trono fue la cruz, su corona de espinas.
 
 ## Perspectivas por fuente
 
-### Según el Catecismo (CEC)
+### Según la Vida de Jesús (VJ)
 
-Cristo es Señor: posee todo poder en los cielos y en la tierra. Está por encima de todo principado, potestad, virtud, dominación (CEC §668). Como Señor, Cristo es la cabeza de la Iglesia que es su Cuerpo (CEC §669). El Reino de Cristo, presente ya en su Iglesia, no está todavía acabado con gran poder y gloria (CEC §671). La venida del Mesías glorioso se vincula al reconocimiento del Mesías por todo Israel (CEC §674). Cristo es Señor de la vida eterna; el pleno derecho de juzgar definitivamente pertenece a Cristo como Redentor del mundo (CEC §679). Jesús reveló el auténtico contenido de su realeza mesiánica como Siervo sufriente (CEC §440). El verdadero sentido de su realeza no se ha manifestado más que desde lo alto de la Cruz (CEC §440).
-
-### Según Royo Marín (TPCr)
-
-Cristo es Rey y Señor del universo, y se hizo el servidor de todos. El pueblo de Dios realiza su dignidad regia viviendo conforme a la vocación de servir con Cristo (TPCr, referencias a la realeza de Cristo en la doctrina de los estados de perfección).
-
-### Según la *Redemptor Hominis* (RH)
-
-La *Redemptor Hominis* dedica una atención central al *munus regale* de Cristo. En el §16, Juan Pablo II afirma que el Concilio Vaticano II ha enseñado sobre «la "realeza" del hombre, es decir, sobre su vocación a participar en el ministerio regio — *munus regale* — de Cristo mismo». El sentido esencial de esta realeza y dominio del hombre sobre el mundo visible, asignado por el Creador, «consiste en la prioridad de la ética sobre la técnica, en el primado de la persona sobre las cosas, en la superioridad del espíritu sobre la materia» (RH §16). En el §21, desarrolla más ampliamente esta participación en la misión real de Cristo: «emerge un elemento: la participación en la misión real de Cristo, o sea el hecho de re-descubrir en sí y en los demás la particular dignidad de nuestra vocación, que puede definirse como "realeza"». Esta dignidad «se expresa en la disponibilidad a servir, según el ejemplo de Cristo, que "no ha venido para ser servido, sino para servir"» (RH §21). La paradoja cristiana se formula así: «a la luz de esta actitud de Cristo se puede verdaderamente "reinar" sólo "sirviendo", a la vez el "servir" exige tal madurez espiritual que es necesario definirla como el "reinar"» (RH §21). La participación en el *munus regale* de Cristo está íntimamente unida a todo el campo de la moral cristiana y humana (RH §21).
+La Vida de Jesús (VJ) presenta la realeza de Cristo manifestada en la entrada en Jerusalén (Cap. IV). Jesús permite ser aclamado como rey montado en un borriquillo: «Mira que viene a ti tu rey, justo y salvador, humilde». Pero su realeza no es de este mundo: sabe que no recibirá una corona real sino una corona de espinas. La realeza de Cristo se revela plenamente en la cruz. La multitud lo aclama como Mesías, pero Jesús conoce hasta el fondo la verdad de su misión: su reino no tiene honores ni poderes terrenos (como ya mostró en el nacimiento en Belén). Solo Él conoce que el júbilo de la multitud lo introduce en el corazón del misterio de la salvación. El camino hacia el paraíso, donde seremos amados y amaremos para siempre, pasa por la cruz.
 
 ## Distinciones importantes
 
-- La realeza de Cristo no es política sino espiritual y universal
-- Se ejerce en el servicio, no en el dominio
-- Su Reino está presente (ya) pero no consumado (todavía no)
-- Los cristianos participan de su realeza por el servicio
+- Reino espiritual vs. reino temporal
+- Realeza manifestada en la humildad (Belén, entrada en Jerusalén, cruz) vs. realeza gloriosa (parusía)
+- Corona de espinas vs. corona real
 
 ## Relaciones doctrinales
 
-[[cristo]], [[reinado_social_de_cristo]], [[reino_de_dios]], [[iglesia_cuerpo_místico]], [[ascensión]]
+Se relaciona con [[entrada_en_jerusalén]], [[reino_de_dios]], [[pasión_de_cristo]], [[cristo_rey]], [[exaltación_de_cristo]], [[humildad_de_cristo]].
+
+## Ver también
+
+[[entrada_en_jerusalén]], [[reino_de_dios]], [[pasión_de_cristo]], [[cristo_rey]], [[exaltación_de_cristo]]
 
 ## Referencias
 
-- CEC §668-672
-- CEC §679
-- TPCr
+- Zac 9,9; Jn 18,33-38
+- [VJ, Cap. IV]

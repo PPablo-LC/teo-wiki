@@ -33,6 +33,10 @@ León XIV desarrolla una visión de la educación para la era digital en los §�
 
 León XIV subrayó en su discurso ante las Cortes que «la educación integral de la persona es el mejor antídoto contra la pobreza, la exclusión y la violencia» [L_XIV-ViajeEspaña-2026, 06-Parlamento]. Defendió el derecho de los padres a elegir la educación de sus hijos según sus propias convicciones, e insistió en que la educación debe formar no solo profesionales, sino «personas de bien, ciudadanos libres y responsables» [L_XIV-ViajeEspaña-2026, 06-Parlamento].
 
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) dedica una sección a María y José como educadores del Niño Jesús (Cap. II). María, junto con José, introdujo a Jesús en los ritos y prescripciones de Moisés, en la oración mediante los salmos y en la historia del pueblo de Israel. Jesús se hallaba sujeto a María y a José, recibiendo de María una verdadera educación que forjó su humanidad. Los dones especiales de María la hacían especialmente apta para su misión de madre y educadora. María garantizó las condiciones favorables para el crecimiento de Jesús. Como en Jesús no había pecado, la orientación de María fue siempre positiva, excluyendo correcciones. De maestra de su hijo, María se convirtió en humilde discípula del divino Maestro. María y José son modelos de todos los educadores, mostrando el camino para una formación profunda y eficaz de los hijos.
+
 ## Relaciones doctrinales
 
 Se relaciona con [[educación_católica]], [[cultura]], [[familia]], [[escuela_católica]], [[formación]], [[verdad]]

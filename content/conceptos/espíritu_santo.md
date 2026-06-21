@@ -1,7 +1,7 @@
 # Espíritu Santo
 
 > Área: Dogmática
-> Última actualización: 2026-06-03
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -31,6 +31,12 @@ Santo Tomás trata la persona del Espíritu Santo en SmTh Iª q.36 (nombre y pro
 
 El Espíritu Santo es el alma del Cuerpo Místico de Cristo, principio de toda acción vital en todas las partes del cuerpo. Sus dones son el elemento dinámico de la vida sobrenatural, perfeccionando las virtudes infusas. El Espíritu Santo actúa en las almas mediante sus dones y mociones, conduciéndolas a la perfección cristiana. Es el autor principal de la santificación de las almas (TPCr, Parte I, Cap. 2).
 
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) presenta al Espíritu Santo en el Capítulo VIII como el don de Cristo resucitado, enviado desde el Padre para constituir la nueva alianza. En Pentecostés, el Espíritu se manifiesta en viento impetuoso y lenguas de fuego, estableciendo la nueva ley —no escrita en tablas de piedra, sino en el corazón de los fieles [VJ, Cap. VIII].
+
+JPII, recogiendo a San Ireneo, afirma: «Donde está la Iglesia, ahí está el Espíritu de Dios» [VJ, Cap. VIII]. La relación entre el Espíritu Santo y la Iglesia es constitutiva: el Espíritu congrega, santifica y envía. La adoración del Padre en espíritu y verdad, anunciada por Cristo, se hace realidad en Pentecostés mediante la acción del Espíritu Santo [VJ, Cap. VIII].
+
 ### Según la *Redemptor Hominis* (RH)
 
 Juan Pablo II inicia su pontificado «con plena confianza en el Espíritu de Verdad» [RH §3]. El Espíritu Santo es el «Espíritu de verdad y de Amor» [RH §2-3], que guía a la Iglesia «hacia la verdad completa» [RH §2, citando Jn 16,13]. La Iglesia es «iluminada y sostenida por el Espíritu Santo» y actúa en virtud de su asistencia [RH §3]. El Espíritu Santo ha sido prometido por Cristo y comunicado constantemente a la Iglesia [RH §18].
@@ -56,3 +62,4 @@ Cristo ha prometido a la Iglesia «la asistencia especial del Espíritu de verda
 - TPCr, Parte I, Cap. 2
 - SmTh Iª q.36 (Persona del Espíritu Santo), q.37 (Amor), q.38 (Don)
 - Símbolo Niceno-Constantinopolitano
+- [VJ, Cap. VIII]

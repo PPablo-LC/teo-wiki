@@ -45,6 +45,10 @@ León XIV abordó el trabajo como parte de la vocación humana en el encuentro e
 
 Juan Pablo II describe su experiencia del [[trabajo]] manual en la cantera de Solvay y en la fábrica de potasa durante la ocupación nazi [DyM, II]. Esta experiencia lo marcó profundamente: «apenas si tenía conciencia de que estaba viviendo un momento histórico importantísimo para la Iglesia, pero sentía que formaba parte de ello» [DyM, II]. El trabajo no fue para él solo un medio de subsistencia, sino ocasión de encuentro con Cristo en el sufrimiento y escuela de humanidad.
 
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) dedica una extensa reflexión al trabajo (Cap. II). Jesús trabajó materialmente durante 30 años con san José en la modesta actividad de carpintero. El trabajo responde al designio y a la voluntad de Dios. Al elegir para sí como padre nutricio un carpintero, y hacerse Él mismo carpintero, Cristo ha enriquecido el trabajo humano con una dignidad inigualable. El cristianismo ha cambiado totalmente la valoración del trabajo manual: desde que el Hijo de Dios aceptó inclinarse sobre el banco de trabajo junto al carpintero José, el cansancio físico ha dejado de ser considerado algo innoble. Jesús, el Hijo de Dios hecho hombre de un trabajo manual, incorporó el trabajo a su obra de redención. La proclamación más exhaustiva del Evangelio del trabajo la hizo Jesús, sometido al duro esfuerzo. El trabajo es un bien del hombre que transforma la naturaleza y hace al hombre ser en cierto sentido más hombre.
+
 ## Distinciones importantes
 
 - Trabajo creador (Gén 2,15) vs. trabajo fatigoso (Gén 3,17-19)

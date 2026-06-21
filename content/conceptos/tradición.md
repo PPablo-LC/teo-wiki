@@ -41,6 +41,10 @@ Cristo prometió al Espíritu Santo: «Él "será quien os lo enseñe todo y os 
 
 «La memoria de esta identidad esencial que Cristo ha dado a su Iglesia es más fuerte que todas las divisiones introducidas por los hombres» [MI, cap. 24]. Las palabras de la institución de la Eucaristía —«Haced esto en recuerdo mío»— son «unívocas; palabras que no admiten divisiones ni escisiones» [MI, cap. 24].
 
+### Según la Veritatis Splendor (VS)
+
+La Veritatis Splendor (§27) reafirma la Tradición viva como el medio por el cual la Iglesia conserva y transmite a todas las edades lo que es y lo que cree. En la Tradición, la Iglesia acoge la Escritura, confiesa la verdad con los Padres y doctores, practica los preceptos en la vida de los santos, celebra la esperanza en la liturgia. Mediante la Tradición los cristianos reciben «la voz viva del Evangelio». El Magisterio, dentro de la Tradición y con la asistencia del Espíritu Santo, realiza la interpretación auténtica de la ley del Señor.
+
 ## Ver también
 
 [[tradición_apostólica]], [[sagrada_escritura]], [[magisterio_de_la_iglesia]], [[depósito_de_la_fe]], [[revelación_divina]], [[dei_verbum]]

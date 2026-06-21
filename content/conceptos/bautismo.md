@@ -1,7 +1,7 @@
 # Bautismo
 
 > Área: Sacramental
-> Última actualización: 2026-06-02
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -116,6 +116,16 @@ El carácter bautismal configura al hombre con Cristo sacerdote, de manera que t
 
 «La verdad es que la Iglesia siempre ha enseñado que los fieles cristianos, aun los laicos o seglares, están adornados con cierta misteriosa dignidad sacerdotal, si bien en grado muy inferior e imperfecto con relación a los que han recibido el sacramento del orden. De tal suerte que no sólo los obispos y sacerdotes son sacerdotes de Dios, sino que los fieles lo son también por el carácter que imprimieron en sus almas el bautismo y la confirmación.»
 
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) contempla el Bautismo de Jesús en el Jordán (Cap. III). Jesús se presenta entre la multitud penitente. Aparece la humildad de Jesús, subrayada por las palabras de Juan: «Soy yo quien debe ser bautizado por Ti, ¿y vienes Tú a mí?». Jesús responde: «Déjame hacer ahora, pues conviene que cumplamos toda justicia». En el momento del bautismo, cuando Jesús estaba en oración, se abrieron los cielos y el Espíritu Santo descendió sobre Él en forma de paloma. La voz del Padre: «Tú eres mi Hijo amado, en ti me complazco». El acontecimiento del Jordán constituye el comienzo de la misión pública de Jesús y de su revelación como Mesías, Hijo de Dios.
+
+En el Capítulo VIII, VJ muestra la conexión entre Pentecostés y el bautismo: Pedro, lleno del Espíritu Santo, invita a la multitud a la conversión y al bautismo, siguiendo el mandato de Cristo de bautizar «en el nombre del Padre y del Hijo y del Espíritu Santo» [VJ, Cap. VIII]. El bautismo cristiano nace así de Pentecostés: es el sacramento por el cual se recibe el Espíritu Santo, se entra en la nueva alianza y se pasa a formar parte del Pueblo de Dios universal [VJ, Cap. VIII].
+
+### Según la Veritatis Splendor (VS)
+
+La Veritatis Splendor (§21) enseña que el bautismo configura radicalmente al fiel con Cristo en el misterio pascual de muerte y resurrección, lo «reviste» de Cristo (Ga 3,27). El bautizado, muerto al pecado, recibe la vida nueva (Rm 6,3-11) y es llamado a caminar según el Espíritu. El cristiano, inserto en Cristo, se convierte en miembro de su Cuerpo que es la Iglesia (1 Co 12,13.27). El bautismo es la puerta de la vida moral cristiana: mediante él el creyente recibe el *munus propheticum, sacerdotale et regale* (§107), llamándolo a vivir la santidad.
+
 ### Según Para Salvarte (PS)
 
 PS enseña que el bautismo lava el pecado original e infunde en el alma la gracia santificante, haciéndonos miembros de la Iglesia, hijos de Dios y herederos del cielo [PS §13,96,1]. Es la puerta para entrar en la Iglesia; sin él no puede recibirse válidamente ningún otro sacramento [PS §13,97,2]. La materia del bautismo es el agua natural; la forma, las palabras «Yo te bautizo en el nombre del Padre y del Hijo y del Espíritu Santo» [PS §13,97,2]. El bautismo se recibe una sola vez porque imprime carácter indeleble [PS §13,97,2]. Los niños deben bautizarse cuanto antes, pues privarles del bautismo puede ser pecado grave [PS §13,97,2]. Existe el bautismo de deseo para quienes, sin conocer la Iglesia, buscan sinceramente a Dios y cumplen su voluntad [PS §13,97,2].
@@ -190,3 +200,4 @@ La instrucción catequética debe preceder al bautismo por ser este *sacramento 
 - [VocTeoBib, «Bautismo»]
 - SmTh IIIª q.39 a.1-8
 - SmTh IIIª q.66 a.1-12; q.67 a.1-8; q.68 a.1-12; q.69 a.1-10; q.70 a.1-4; q.71 a.1-4
+- [VJ, Cap. VIII]

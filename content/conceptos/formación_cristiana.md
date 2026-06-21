@@ -1,7 +1,7 @@
 # Formación cristiana
 
 > Área: Moral (Educación)
-> Última actualización: 2026-05-29
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -26,6 +26,10 @@ La transmisión de la fe es ante todo el anuncio de Jesucristo: «el que está l
 La Declaración *Gravissimum Educationis* establece que todos los hombres tienen el derecho inalienable a una educación que responda al propio fin, carácter y cultura (GE §1). La verdadera educación se propone la formación de la persona humana en orden a su fin último y al bien de las sociedades. La educación cristiana busca que los bautizados se hagan más conscientes del don de la fe, iniciándolos gradualmente en el conocimiento del misterio de la salvación (GE §2).
 
 Los padres son los primeros y principales educadores; la familia es la primera escuela de las virtudes sociales (GE §3). La Iglesia tiene el deber de anunciar a todos los hombres el camino de la salvación y de comunicar a los creyentes la vida de Cristo. El primer medio de educación es la instrucción catequética, que ilumina y robustece la fe, anima la vida con el espíritu de Cristo y lleva a una consciente y activa participación del misterio litúrgico (GE §4). La escuela católica busca crear un ambiente comunitario animado por el espíritu evangélico de libertad y de caridad (GE §8).
+
+### Según la Veritatis Splendor (VS)
+
+La Veritatis Splendor (§64) enseña que la formación de la conciencia es una tarea permanente. Requiere el conocimiento de la ley de Dios y, más aún, una «connaturalidad» entre el hombre y el verdadero bien, que se fundamenta y desarrolla en las actitudes virtuosas: la prudencia, las otras virtudes cardinales y, en primer lugar, las virtudes teologales de la fe, la esperanza y la caridad. La Iglesia y su Magisterio son una gran ayuda para la formación de la conciencia, pues la Iglesia pone «la verdad de Cristo» al servicio de la conciencia, ayudándola a no desviarse de la verdad sobre el bien del hombre.
 
 ## Distinciones importantes
 

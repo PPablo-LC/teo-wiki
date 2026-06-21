@@ -1,7 +1,7 @@
 # Nueva Alianza
 
 > Área: Teología bíblica
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -20,6 +20,12 @@ Jesús presenta la Ley del Sinaí a la luz de la gracia de la Nueva Alianza (CEC
 ### Según la Redemptoris Mater (RM)
 
 [JPII, Redemptoris Mater §1, §13-14, §27]: La fe de María en la Anunciación da comienzo a la Nueva Alianza. Como Abraham, «esperando contra toda esperanza, creyó», así María cree que por el poder del Altísimo se convertirá en la Madre del Hijo de Dios [RM §13-14]. La fe de María, que señala el comienzo de la nueva y eterna Alianza de Dios con la humanidad en Jesucristo, precede el testimonio apostólico de la Iglesia y permanece en el corazón de la Iglesia como un especial patrimonio de la revelación de Dios [RM §27]. El primer *fiat* de María (Lc 1,38) es el sí inaugural de la Nueva Alianza, que prefigura la condición de la Iglesia como esposa y madre [RM §1].
+
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) presenta la institución de la Eucaristía en la Última Cena como la Nueva Alianza sellada con la Sangre de Cristo. En el sacrificio eucarístico, Cristo ofrece su Cuerpo y su Sangre bajo las especies de pan y vino, instituyendo la nueva y eterna alianza. La Iglesia vive de esta alianza, celebrando el memorial del Señor.
+
+[VJ, Cap. V]
 
 ## Distinciones importantes
 
@@ -41,3 +47,4 @@ Jesús presenta la Ley del Sinaí a la luz de la gracia de la Nueva Alianza (CEC
 - CEC §613, 1965
 - Jeremías 31,31-34
 - Ezequiel 36,26-27
+- [VJ, Cap. V]

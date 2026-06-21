@@ -27,6 +27,10 @@ Juan Pablo II dedica una catequesis completa al Magníficat [MJV, catequesis 2].
 
 La expresión *Magnificat* «celebra la grandeza de Dios, que con el anuncio del ángel revela su omnipotencia, superando las expectativas y las esperanzas del pueblo de la alianza» [MJV, catequesis 2]. María manifiesta «el sentimiento de su pequeñez»: «Proclama mi alma la grandeza del Señor» (Lc 1,46-48). Juan Pablo II subraya que «lo que atrae la benevolencia de Dios es sobre todo la humildad del corazón» [MJV, catequesis 2]. En el Magníficat, «Dios no sólo es el Poderoso, para el que nada es imposible, sino también el Misericordioso, capaz de ternura y fidelidad para con todo ser humano» [MJV, catequesis 2].
 
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) dedica extensa meditación al Magníficat (Cap. I). María responde a las alabanzas de Isabel rezando: «Proclama mi alma la grandeza del Señor». El Magníficat es una inspirada profesión de fe, que expresa la elevación espiritual y poética de todo su ser hacia Dios. María, inspirándose en el Antiguo Testamento, celebra las maravillas que Dios realizó en ella. Con la expresión «Magníficat» se celebra la grandeza de Dios. El cántico es verdaderamente teológico porque revela la experiencia del rostro de Dios hecha por María: no solo es el Poderoso, sino también el Misericordioso. María nos lleva a descubrir los criterios de la misteriosa acción de Dios, que enaltece a los humildes. El Magníficat debe convertirse en el canto de cada día de nuestra vida.
+
 ## Relaciones doctrinales
 
 El Magníficat es uno de los [[cántico_evangélico]] (junto con el Benedictus y el Nunc Dimittis). Se reza en las [[vísperas]] y expresa la [[oración]] de la Iglesia unida a [[virgen_maría]].

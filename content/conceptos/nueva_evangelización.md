@@ -43,6 +43,10 @@ La nueva evangelización incluye dimensiones fundamentales: la catequesis como p
 
 Los pobres han de ser los primeros destinatarios [EA §67], pero sin descuidar la evangelización de los dirigentes de la sociedad [EA §67].
 
+### Según la Veritatis Splendor (VS)
+
+La Veritatis Splendor (§105-108) sitúa la enseñanza moral en el corazón de la nueva evangelización. La Iglesia no puede rebajar las exigencias morales del Evangelio para hacerlas más aceptables al mundo, pues esto vaciaría de contenido el sacrificio de Cristo (§107). La nueva evangelización requiere proclamar íntegramente la verdad moral, incluyendo los mandamientos y las normas morales más exigentes, pues solo la verdad libera al hombre y lo conduce a la salvación (§105). El seguimiento de Cristo implica asumir todas las consecuencias morales del Evangelio (§107-108). La Iglesia debe anunciar la doctrina moral con caridad pastoral, sin falsas condescendencias ni abandonos de la verdad (§106). Los pastores tienen el deber de enseñar la doctrina moral en su integridad como parte esencial de la nueva evangelización (§114-116).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[evangelización]], [[doctrina_social_de_la_iglesia]], [[misión_de_la_iglesia]], [[reino_de_dios]], [[concilio_vaticano_ii]]

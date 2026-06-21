@@ -37,6 +37,10 @@ LG §11: Los fieles laicos, en su camino de conversión, deben ser «instruidos 
 
 **Juan Pablo II**, Pastores dabo vobis: «La vocación sacerdotal es esencialmente una llamada a la santidad, que nace del sacramento del Orden. La santidad es intimidad con Dios, es imitación de Cristo, pobre, casto, humilde.»
 
+### Según la Veritatis Splendor (VS)
+
+La Veritatis Splendor (§19-21) enseña que seguir a Cristo no es una imitación exterior, sino que afecta al hombre en su interioridad más profunda. El discípulo se hace conforme a Cristo, que se hizo servidor de todos hasta el don de sí mismo en la cruz (Flp 2,5-8). Jesús pide que le sigan e imiten en el camino del amor que se da totalmente a los hermanos por amor de Dios: «Éste es el mandamiento mío: que os améis los unos a los otros como yo os he amado» (Jn 15,12). El «como» exige la imitación de Jesús, cuyo signo es el lavatorio de los pies (Jn 13,14-15).
+
 ## Distinciones importantes
 
 - La imitación de Cristo se distingue de la mera copia externa: implica una transformación interior por la gracia

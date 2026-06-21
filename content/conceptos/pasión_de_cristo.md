@@ -1,7 +1,7 @@
 # Pasión de Cristo
 
 > Área: Cristología / Soteriología
-> Última actualización: 2026-06-12
+> Última actualización: 2026-06-20
 
 ## Definición
 
@@ -63,6 +63,12 @@ El Misterio Pascual de la cruz y de la resurrección de Cristo está en el centr
 
 **q.48 a.6 (Por modo de eficiencia):** La humanidad de Cristo es instrumento de la divinidad; por tanto, su pasión causa eficientemente la salvación con poder divino, a modo de causa instrumental.
 
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) narra la Pasión desde la agonía en Getsemaní hasta la muerte en la cruz. En Getsemaní, Cristo ora al Padre con el «Abbá» y pide: «Pase de mí este cáliz», revelando su verdadera humanidad y su solidaridad con la humanidad pecadora. «Triste está mi alma hasta la muerte». Su sudor de sangre y su oración cada vez más insistente manifiestan al Hijo consustancial que asume condición de siervo. Es condenado por el Sanedrín y Pilato; su respuesta «Tú lo has dicho» a la pregunta del sumo sacerdote es una confesión mesiánica. Pilato cede ante la presión. Todos somos responsables de la muerte de Cristo por nuestros pecados: «La sangre de su Hijo Jesús nos purifica de todo pecado». Las siete palabras en la cruz muestran el cumplimiento de las profecías mesiánicas, especialmente el Cuarto Poema del Siervo de Yahvé (Isaías), el «Varón de dolores».
+
+[VJ, Cap. VI]
+
 ## Distinciones importantes
 
 - La Pasión no fue una fatalidad sino una entrega voluntaria
@@ -85,3 +91,4 @@ El Misterio Pascual de la cruz y de la resurrección de Cristo está en el centr
 - CEC §571-623
 - CEC §609-617
 - SmTh IIIª q.46 aa.1-8; q.47 aa.1-6; q.48 aa.1-6
+- [VJ, Cap. VI]

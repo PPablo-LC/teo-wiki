@@ -17,6 +17,10 @@ En la Presentación se encuentran el Antiguo y el Nuevo Testamento: Simeón y An
 
 El CEC §529 trata de la Presentación: «Jesús es presentado por María y José en el Templo. Simeón y Ana reconocen en el niño al Mesías esperado. Jesús es reconocido como la [[luz]] de las naciones». La fiesta manifiesta la obediencia de la Sagrada Familia a la ley y la manifestación de Cristo al pueblo de Israel.
 
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) contempla la Presentación en el Templo como el encuentro de la esperanza de Israel con el Mesías (Cap. II). María y José presentan al Niño cumpliendo la Ley. María, obligada por su pobreza a ofrecer tórtolas o pichones, entrega en realidad al verdadero Cordero que redimirá a la humanidad. Simeón, movido por el Espíritu, reconoce en Jesús al Mesías: «Ahora, Señor, puedes, según tu Palabra, dejar que tu siervo se vaya en paz». José y María estaban admirados de lo que se decía de Él. María entrega el Niño a Simeón: por voluntad de Dios, es la Madre quien da a Jesús a los hombres. También la profetisa Ana, que servía a Dios noche y día con ayunos y oraciones, alababa a Dios y hablaba del niño a todos los que esperaban la redención.
+
 ## Relaciones doctrinales
 
 Se relaciona con el [[año_litúrgico]], la [[virgen_maría]], el [[cántico_evangélico]] (Nunc dimittis), la [[luz]] de Cristo, los [[misterios_del_rosario]], la ley mosaica y la purificación ritual.

@@ -48,6 +48,9 @@ El acto humano, por su bondad o malicia, tiene varias consecuencias: (a) recibe 
 
 Los actos humanos se dividen en actos elícitos (los que proceden inmediatamente de la voluntad, como amar, desear) y actos imperados (los que la voluntad manda a otras facultades, como andar, hablar). Las condiciones para la moralidad de un acto humano son: el objeto, el fin y las circunstancias. La libertad es condición indispensable: donde no hay libertad no hay moralidad (TPCr, Parte I, Tratado de los actos humanos).
 
+### Según la Veritatis Splendor (VS)
+
+La Veritatis Splendor (§71-75) expone la doctrina de las fuentes de la moralidad de los actos humanos: objeto elegido, fin o intención, y circunstancias de la acción. El objeto moral determina la bondad o malicia de un acto humano (§71). «El fin no justifica los medios» (cf. §75). Existen actos que, por su objeto, son siempre gravemente ilícitos (*intrinsece malum*) con independencia de las circunstancias o las intenciones. La tradición de la Iglesia y el Catecismo (CEC §1753-1755) enseñan que hay acciones que nunca es lícito realizar, cualesquiera que sean las circunstancias (§76, §80). «La moralidad del acto humano depende sobre todo del objeto elegido racionalmente» (§72, citando CEC §1751). El objeto del acto es el bien hacia el que tiende la voluntad deliberadamente, y constituye el elemento primero de la fuente de la moralidad. El Concilio Vaticano II (GS §27) enumera actos intrínsecamente malos como toda violación de la integridad de la persona humana, los homicidios, el genocidio, el aborto, la eutanasia, etc. (§80). La razón del ser «intrínsecamente malo» de algunos actos reside en que su objeto elegido es incapaz de ordenarse a Dios y contradice la verdad sobre el bien de la persona (§78).
 
 ## Distinciones importantes
 
