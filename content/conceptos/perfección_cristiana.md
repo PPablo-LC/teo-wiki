@@ -53,6 +53,16 @@ La perfección cristiana no es privilegio de los religiosos o sacerdotes, sino v
 
 [TPCr, obra completa; especialmente Conclusiones de la Segunda Parte y Parte III-IV]
 
+### Según la Catequesis de Juan Pablo II (CrSJP)
+
+En la catequesis 32 (14 de octubre de 1987), Juan Pablo II aborda la perfección cristiana como conclusión del Sermón del Monte.
+
+Después de las seis antítesis, Jesús concluye: «Sed perfectos como perfecto es vuestro Padre celestial» (Mt 5,48). Él pide a sus seguidores la perfección del amor. La nueva Ley que Él ha traído tiene su síntesis en el amor. Este amor hará que el hombre supere la clásica contraposición amigo-enemigo, y tenderá a traducirse en las correspondientes formas de solidaridad social y política (CrSJP 32 §8).
+
+La perfección del amor consiste en amar a los enemigos y orar por los perseguidores, para ser hijos del Padre que hace salir el sol sobre malos y buenos (Mt 5,45). Jesús no solo propone una norma externa, sino que revela el camino para hacerse semejante a Dios en el amor universal.
+
+En la catequesis 34 (28 de octubre de 1987), Juan Pablo II añade que el seguimiento de Cristo exige una dedicación radical. Según Santo Tomás, la exigencia evangélica de renuncias heroicas compromete a todos «secundum praeparationem animi» (S.Th. II-II q.184 a.7 ad 1), como disponibilidad del espíritu para seguir a Cristo en cualquier momento (CrSJP 34 §5).
+
 ### Según la Veritatis Splendor (VS)
 
 La Veritatis Splendor (§16-18) trata la perfección cristiana a partir de la invitación de Jesús al joven rico: «Si quieres ser perfecto» (Mt 19,21). Las bienaventuranzas son promesas que abren al hombre a la vida eterna y constituyen una especie de autorretrato de Cristo, invitaciones a su seguimiento y a la comunión de vida con él. La invitación a la perfección se dirige a todos, no solo a una élite (§18). La perfección exige madurez en el darse a sí mismo, a que está llamada la libertad del hombre. La libertad del hombre y la ley de Dios no se oponen sino que se reclaman mutuamente (§17).

@@ -24,6 +24,15 @@ Se puede amar al enemigo de dos modos: en cuanto a la naturaleza humana, querien
 
 La perfección de la caridad se manifiesta principalmente en el amor a los enemigos. Para los perfectos, la unión con Dios por la caridad es tan intensa que nada externo —ni siquiera la injuria— puede perturbar la paz interior o disminuir la benevolencia hacia el ofensor. El perdón de las injurias y el amor a los enemigos son requisitos para la perfección cristiana (TPCr, Tercera Parte, Libro II, Cap. VI).
 
+### Según la Catequesis de Juan Pablo II (CrSJP)
+
+En la catequesis 32 (14 de octubre de 1987), Juan Pablo II trata el amor a los enemigos como la sexta antítesis del Sermón del Monte.
+
+Jesús dice: «Habéis oído que fue dicho: Amarás a tu prójimo y aborrecerás a tu enemigo. Pero yo os digo: Amad a vuestros enemigos y orad por los que os persiguen, para que seáis hijos de vuestro Padre, que está en los cielos, que hace salir el sol sobre malos y buenos y llueve sobre justos e injustos» (Mt 5,43-45) (CrSJP 32 §8).
+
+A la interpretación vulgar de la Ley antigua que identificaba al prójimo con el israelita piadoso, Jesús opone la interpretación auténtica del mandamiento de Dios y le añade la dimensión religiosa de la referencia al Padre celestial, clemente y misericordioso, que beneficia a todos y es el ejemplo supremo del amor universal (CrSJP 32 §8).
+
+Jesús concluye: «Sed perfectos como perfecto es vuestro Padre celestial» (Mt 5,48). Él pide a sus seguidores la perfección del amor. La nueva Ley tiene su síntesis en el amor. Este amor hará que el hombre supere la clásica contraposición amigo-enemigo (CrSJP 32 §8).
 
 ## Distinciones importantes
 

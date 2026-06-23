@@ -29,6 +29,10 @@ Juan Pablo II presenta la vía purgativa como la primera etapa del camino interi
 
 Esta etapa se ilustra con la conversación de Jesús con el joven rico: cuando el pregunta «¿qué tengo que hacer de bueno para obtener la vida eterna?», Jesús le recuerda los mandamientos, sobre todo los de la «segunda tabla» —el trato con el prójimo—, que se resumen en el mandamiento del amor [MI, cap. 6].
 
+### Según UDE (1994)
+
+Juan Pablo II se refiere a las vías purgativa, iluminativa y unitiva de la mística cristiana. San Juan de la Cruz: purificación activa y pasiva, noches del sentido y del espíritu. [UDE, Cap. XIV]
+
 ## Distinciones importantes
 
 La vía purgativa no es un mero período inicial que se abandona por completo al entrar en la iluminativa; aspectos de purificación permanecen en toda la vida espiritual. Sin embargo, marca el tránsito decisivo del alma que se decide a vivir cristianamente.

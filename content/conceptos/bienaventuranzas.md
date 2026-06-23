@@ -39,6 +39,10 @@ La Veritatis Splendor (§16) sitúa las bienaventuranzas en el horizonte de la r
 
 La Vida de Jesús (VJ) desarrolla las Bienaventuranzas como la «Carta Magna del Cristianismo» (Cap. III). Son «las señales de tránsito que nos indican el camino» hacia el Cielo. Las Bienaventuranzas no son una mera descripción del camino de la felicidad: «Jesús no se limitó a proclamar las Bienaventuranzas, ¡las vivió! Las Bienaventuranzas no son más que la descripción de un rostro, ¡su rostro!». Al mismo tiempo, describen lo que un cristiano debería ser: son el retrato del discípulo de Jesús, la fotografía de quienes han aceptado el Reino de Dios. La alegría que prometen es la misma alegría de Jesús: una alegría buscada en la obediencia al Padre y en la entrega de sí. La palabra clave en la enseñanza de Jesús es un anuncio de alegría: «Bienaventurados…» El hombre ha sido creado para la felicidad.
 
+### Según UDE (1994)
+
+Juan Pablo II afirma que el Evangelio es exigente. La «puerta estrecha» (Mt 7,14). La moral y el esplendor de la verdad (UDE, Cap. XXVII).
+
 ## Analizado para
 
 - [[adam_farber_fortitude_through_excellence_in_patience]]

@@ -1,7 +1,7 @@
 # Resurrección de la Carne
 
 > Área: Escatología
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-21
 
 ## Definición
 
@@ -32,6 +32,10 @@ La espiritualización perfecta significa que el cuerpo vuelve a perfecta unidad 
 La resurrección es el cumplimiento definitivo de la redención del cuerpo (Rm 8,23). Pablo en 1 Cor 15 desarrolla: «Se siembra en corrupción y se resucita en incorrupción... se siembra cuerpo animal y se levanta cuerpo espiritual» (1 Cor 15,42-44) (TdC 27.01.1982). El «cuerpo espiritual» significa la perfecta sensibilidad de los sentidos, su perfecta armonización con la actividad del espíritu humano en la verdad y en la libertad (TdC 10.02.1982).
 
 Pablo contrapone Adán (hombre terreno) y Cristo (hombre celestial): «Como llevamos la imagen del hombre terreno, llevaremos también la imagen del celestial» (1 Cor 15,49). El cuerpo humano lleva en sí la «potencialidad de la resurrección»: aspiración y capacidad de llegar a ser incorruptible, glorioso, lleno de poder, espiritual (TdC 03.02.1982).
+
+### Según CJeS (1987-1989)
+
+Juan Pablo II enseña que la Resurrección de Cristo es la garantía y la primicia de la resurrección de todos los hombres. Cristo es «las primicias de los que durmieron» (1 Cor 15,20-22): así como en Adán todos mueren, así en Cristo todos serán vivificados. El cuerpo resucitado es un cuerpo glorificado, espiritual y celestial (1 Cor 15,47-49), distinto del cuerpo terrenal. La Resurrección de Cristo no es un retorno a la vida mortal, sino el paso a la vida gloriosa. «Cristo vive en mí» (Gal 2,20): la vida cristiana en el Resucitado es ya participación en su victoria sobre la muerte y anticipo de la resurrección futura. La esperanza de la resurrección de la carne se funda en la Resurrección de Cristo: «El que cree en mí, aunque muera, vivirá» (Jn 6,54) (CJeS, cuarta parte: la Resurrección).
 
 ## Distinciones importantes
 

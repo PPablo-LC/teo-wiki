@@ -69,6 +69,10 @@ La Vida de Jesús (VJ) presenta la redención como la obra cumplida por Cristo d
 
 Para Salvarte presenta la Redención como el rescate del género humano por la sangre de Cristo: «Por los méritos de la Redención de Jesucristo se nos perdonan todos nuestros pecados y se nos abren las puertas del cielo» (PS §33,1). Loring subraya que la ofensa del pecado, por ser contra un Dios infinito, exigía un reparador infinito, de ahí la necesidad de la Encarnación y la Redención (PS §34,1). Cristo, en cuanto Dios, da valor infinito a sus acciones; en cuanto hombre, cabeza de la humanidad, ofrece a Dios la reparación en nuestro nombre (PS §34,1). Destaca también que la aplicación de la Redención requiere la cooperación libre del hombre: «Dios que te ha creado sin ti, no te salvará sin ti» (San Agustín, citado en PS §33,1).
 
+### Según UDE (1994)
+
+Juan Pablo II presenta la obra de la Redención como elevación de la creación a un nuevo nivel. Penetrada por la santificación redentora, incluso la divinización. La fuerza destructiva del pecado es vencida. «O felix culpa quae talem ac tantum meruit habere Redemptorem.» La vida indestructible revelada en la Resurrección «devora» la muerte. «¿Dónde está, oh muerte, tu victoria?» (1 Cor 15,55) (UDE, Cap. III).
+
 ## Analizado para
 
 - [[auténtica_día_2_lidera_tu_vida_con_dios]] — convergencia en la sanación por la sangre de Cristo (imagen de la cruz de la unidad) como aplicación de la redención objetiva a la sanación interior
@@ -97,7 +101,9 @@ La redención tiene una dimensión divina y otra humana. En su dimensión divina
 
 Cristo, mediante la encarnación, «se ha unido en cierto modo a todo hombre» [RH §13, citando GS 22]. La Eucaristía, en la que la Iglesia participa de la fuerza de la acción redentora, es «el centro y el vértice de toda la vida sacramental, por medio de la cual cada cristiano recibe la fuerza salvífica de la Redención» [RH §20].
 
+### Según CJeS (1987-1989)
 
+Juan Pablo II desarrolla la redención como liberación del pecado y del «padre de la mentira» (el diablo). El término *lutron*/*lutrosis* designa el rescate pagado por Cristo. La redención otorga la libertad de los hijos de Dios (Rom 8,21) y la libertad en la verdad (Jn 8,32.36). El agua viva (Jn 4,10-14; 7,37-38) y el costado traspasado del que brotan sangre y agua (Jn 19,34) simbolizan los dones de la redención: los sacramentos y el Espíritu Santo. La redención culmina en la reconciliación universal en Cristo (Ef 2,14-16), que derriba el muro de la enemistad y reconcilia a todos los hombres en un solo cuerpo por la cruz. Cristo, mediante su obediencia hasta la muerte (Flp 2,8), invierte la desobediencia de Adán, constituyéndose como el [[nuevo_adán]] de la humanidad redimida. El hombre está llamado a participar en la obra redentora (Col 1,24) completando en su carne lo que falta a las tribulaciones de Cristo (CJeS, segunda parte: salvación como liberación del pecado; tercera parte: valor redentivo de la Pasión).
 
 - [CEC §571-623]
 - [CEC §599-605, designio divino]

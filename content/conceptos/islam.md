@@ -27,6 +27,10 @@ El Concilio exhorta a cristianos y musulmanes a que, olvidando las desavenencias
 
 «El designio de salvación abarca también a los que reconocen al Creador, entre los cuales están en primer lugar los musulmanes, que, confesando adherirse a la fe de Abraham, adoran con nosotros a un Dios único, misericordioso, que juzgará a los hombres en el día postrero» (LG §16).
 
+### Según UDE (1994)
+
+Juan Pablo II reconoce al islam como religión monoteísta (remitiendo a *Nostra Aetate* n. 3), pero señala la reducción de la Revelación divina en el Corán y el abandono de la riqueza del AT y NT. Dios en el islam es presentado como Majestad, fuera del mundo; no es Emmanuel. Señala la ausencia de la redención y de la Cruz. Jesús es solo un profeta que prepara para Mahoma. La antropología islámica es diferente de la cristiana. Manifiesta respeto por la religiosidad musulmana: la fidelidad a la oración como modelo. Habla del diálogo: encuentros de Asís, Casablanca 1985. Señala el problema del fundamentalismo islámico: los derechos humanos y la libertad religiosa interpretados unilateralmente (UDE, Cap. XV).
+
 ## Distinciones importantes
 
 - **Concepción de Dios**: Musulmanes y cristianos adoran al mismo Dios único, pero difieren en la comprensión trinitaria de Dios (los musulmanes rechazan la Trinidad).

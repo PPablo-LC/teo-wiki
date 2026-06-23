@@ -9,9 +9,15 @@ Karol Józef Wojtyła (Wadowice, Polonia, 18 de mayo de 1920 — Ciudad del Vati
 
 ## Aportación teológica y pastoral
 
-Su pontificado se caracterizó por un magisterio extensísimo: 14 encíclicas, numerosas exhortaciones apostólicas (Christifideles laici, Familiaris consortio, Vita consecrata, Ecclesia in Europa, etc.), la promulgación del [[catecismo_de_la_iglesia_católica]] (CEC, 1992) y del [[código_de_derecho_canónico]] (CIC, 1983). Su teología del cuerpo, desarrollada en las catequesis de los miércoles (1979-1984), constituye una contribución original a la antropología teológica. Promovió la nueva evangelización, los movimientos eclesiales y el diálogo interreligioso (Jornada de Oración por la Paz en Asís, 1986).
+Su pontificado se caracterizó por un magisterio extensísimo. Sus primeras catequesis como Papa, en octubre-noviembre de 1978, retomaron el "testamento" de Juan Pablo I —el programa de las «siete lámparas de la vida cristiana»— completando con las virtudes cardinales lo que su predecesor había iniciado con las tres teologales: prudencia (25-X), justicia (8-XI), fortaleza (15-XI) y templanza (22-XI) [7_Lamps]. Estas primeras intervenciones fijaron el método pastoral-catequético —acogida del depositum fidei, diálogo directo con los fieles, mediación sapiencial de la tradición— que marcaría todo su pontificado [7_Lamps, JPII audiencias].
+
+A partir de ahí desarrolló 14 encíclicas y numerosas exhortaciones, entre ellas Christifideles laici, Familiaris consortio, Pastores dabo vobis, Ecclesia in Europa, etc.), la promulgación del [[catecismo_de_la_iglesia_católica]] (CEC, 1992) y del [[código_de_derecho_canónico]] (CIC, 1983). Su teología del cuerpo, desarrollada en las catequesis de los miércoles (1979-1984), constituye una contribución original a la antropología teológica. Promovió la nueva evangelización, los movimientos eclesiales y el diálogo interreligioso (Jornada de Oración por la Paz en Asís, 1986).
 
 ## Perspectivas por fuente
+
+### Según Las siete lámparas de la vida cristiana (7_Lamps)
+
+Las catequesis de octubre-noviembre de 1978 son el primer magisterio público de Juan Pablo II como Papa. Retoma el programa inacabado de Juan Pablo I —las «siete lámparas» (virtudes teologales y cardinales)— y completa las cuatro virtudes cardinales: prudencia (25-X-1978), justicia (8-XI-1978), fortaleza (15-XI-1978) y templanza (22-XI-1978). JPII presenta estas virtudes como «imagen y semejanza de la Providencia de Dios» en la vida del hombre, citando a Santo Tomás. Afirma que «el hombre que es imagen de Dios debe ser —en cierto modo— la providencia» en su propia vida, participando del designio salvífico de Dios [7_Lamps, JPII La prudencia]. De la fortaleza habla como virtud de decir «sí» o «no» cuando resulta costoso, citando el ejemplo de San Estanislao de Kostka: «Ad maiora natus sum: He nacido para cosas más grandes» [7_Lamps, JPII La fortaleza].
 
 ### Según el Regnum Christi — Comisión Central (RC-MovEcles-2014)
 
@@ -35,6 +41,10 @@ Juan Pablo II promulgó la Carta Apostólica *Motu Proprio data* «Sacramentorum
 
 ## Referencias
 
+- [7_Lamps, JPII La prudencia — Audiencia general, 25-X-1978]
+- [7_Lamps, JPII La justicia — Audiencia general, 8-XI-1978]
+- [7_Lamps, JPII La fortaleza — Audiencia general, 15-XI-1978]
+- [7_Lamps, JPII La templanza — Audiencia general, 22-XI-1978]
 - Juan Pablo II, Christifideles laici (1988)
 - Juan Pablo II, Ecclesia in Europa (2003)
 - Juan Pablo II, Mensaje al Congreso Mundial de Movimientos Eclesiales (27 mayo 1998)

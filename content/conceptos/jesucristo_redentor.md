@@ -1,7 +1,7 @@
 # Jesucristo Redentor
 
 > Área: Dogmática / Cristología / Soteriología
-> Última actualización: 2026-06-20
+> Última actualización: 2026-06-21
 
 ## Definición
 
@@ -32,6 +32,10 @@ La *Redemptor Hominis* se sitúa en la perspectiva del nuevo Adviento de la Igle
 **Unión de Cristo con el hombre** (RH §18): La unión de Cristo con el hombre es un misterio del que nace el «hombre nuevo», llamado a participar en la vida de Dios, creado nuevamente en Cristo, en la plenitud de la gracia y la verdad. Es la fuerza que transforma interiormente al hombre como principio de una vida nueva que dura hasta la vida eterna.
 
 **Presencia de María en el misterio** (RH §22): María es quien ha sido introducida por Dios mismo en la dimensión divina y humana del misterio de la Redención como ninguna otra criatura. Nadie como ella sabe introducirnos en este misterio.
+
+### Según CJeS (1987-1989)
+
+Juan Pablo II desarrolla a Cristo como Redentor en su sacrificio único y universal. Cristo es el único [[mediación_de_cristo|Mediador]] entre Dios y los hombres (1 Tim 2,5). Su muerte en la Cruz tiene valor sustitutivo y representativo, e infinito por la unión hipostática. La kenosis y la obediencia hasta la muerte (Flp 2,6-8) constituyen el acto redentor. La Resurrección confirma su divinidad y lo constituye Señor (*Kyrios*) con poder (Flp 2,9-11). A Él están sometidas todas las cosas. La recapitulación de todas las cosas en Cristo (Ef 1,10) es la culminación de la obra redentora: Cristo, como Cabeza de la Iglesia (Ef 1,22-23; Col 1,18-19) y Señor del cosmos y de la historia (Ef 1,21-22; *Gaudium et Spes* 45), reúne todas las cosas en sí mismo. La exaltación de Cristo como Kyrios, Rey y Juez universal (Mt 25,31-34) completa su obra redentora. Cristo intercede como abogado ante el Padre (Rom 8,34; Heb 7,25; 1 Jn 2,1) (CJeS, tercera parte: valor redentivo de la Pasión; cuarta parte: la Ascensión).
 
 ## Distinciones importantes
 

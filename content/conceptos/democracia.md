@@ -35,6 +35,12 @@ El atentado contra la democracia más grave fue la «Ermächtigungsgesetz» que 
 
 «Las leyes abortistas» son un ejemplo de cómo «un parlamento [...] comete una grave injuria para con un ser humano inocente [...] han de ser conscientes de que se extralimitan en sus competencias y se ponen en patente contradicción con la ley de Dios y con la ley natural» [MI, cap. 22].
 
+### Según UDE (1994)
+
+En la Introducción del libro, Vittorio Messori —planteando el enfoque que luego el Papa desarrollaría— sitúa la democracia y sus fundamentos morales en el contexto de los desafíos contemporáneos. Messori afirma que lo que interesa del Papa no es verlo «reducido a presidente de una especie de agencia mundial para la ética o para la paz o para el medio ambiente», sino descubrir «si todavía son firmes los fundamentos de la fe». La cuestión democrática aparece así subordinada a la cuestión de la verdad: antes que los problemas políticos y morales particulares está la fe en Jesucristo Resucitado.
+
+El Papa mismo responde en diversos capítulos sobre la necesidad de fundamentar la convivencia social en la verdad moral objetiva. Señala que los parlamentos democráticos pueden condenar a muerte al hombre aún no nacido mediante leyes emitidas regularmente, estableciendo un paralelo con los tribunales que condenaron a Cristo: la sentencia no se basa en la verdad sino «en la prepotencia, en una engañosa conjura» (UDE, Cap. XI). La democracia sin verdad moral se convierte en instrumento de opresión (UDE, Intro., Cap. XI, XXVII).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[estado]], [[participación]], [[bien_común]], [[derechos_humanos]], [[sociedad_civil]], [[partidos_políticos]], [[ciudadanía]]

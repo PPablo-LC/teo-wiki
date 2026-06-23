@@ -1,7 +1,7 @@
 # Filiación divina
 
 > Área: Dogmática
-> Última actualización: 2026-05-25
+> Última actualización: 2026-06-21
 
 ## Definición
 
@@ -24,6 +24,10 @@ Royo Marín trata la filiación divina en la Parte 1 como principio fundamental 
 ### Según la Vida de Jesús (VJ)
 
 La Vida de Jesús (VJ) enseña que la filiación divina procede de Cristo y se hace realidad por el Espíritu Santo (Cap. I). «La prueba de que sois hijos es que Dios ha enviado a nuestros corazones el Espíritu de su Hijo que clama: ¡Abbá, Padre!» El Espíritu viene a enseñarnos que somos hijos y a hacer efectiva la filiación divina. «Cristiano» indica un nuevo modo de ser: existir a semejanza del Hijo de Dios. Como hijos en el Hijo participamos en la salvación, que no es solo liberación del mal sino plenitud del bien: del sumo bien de la filiación de Dios. El Hijo es quien con todo su ser dice a Dios: ¡Abbá, Padre! El hombre está llamado a ser partícipe de la vida de Dios, a conocer y a amar a su Creador y Padre, primero mediante las criaturas y después en la visión beatífica.
+
+### Según CJeS (1987-1988)
+
+Juan Pablo II dedica la segunda parte de su ciclo cristológico a la filiación divina de Jesús. Jesús es Hijo de Dios en sentido propio, no metafórico ni adoptivo. Solamente Él puede dirigirse a Dios como Abba con plena conciencia de ser el Unigénito del Padre. La confesión de Pedro —«Tú eres el Mesías, el Hijo de Dios vivo» (Mt 16,16)— es el fundamento de la fe de la Iglesia. El testimonio del Padre en el Bautismo y en la Transfiguración confirma esta filiación única. Jesús es acusado de blasfemia por afirmarse Hijo de Dios en sentido propio (Jn 5,18; 10,33) y es condenado a muerte por esta declaración: el Sanedrín lo condena porque afirma ser el Hijo de Dios (Mc 14,61-64). La filiación divina de Jesús es consustancialidad con el Padre: «Yo y el Padre somos una sola cosa» (Jn 10,30; CJeS, segunda parte: catequesis sobre la filiación divina de Cristo). Jesús obtiene para nosotros la filiación adoptiva: somos «hijos en el Hijo». Él nos enseña a decir «Padre nuestro», distinguiendo su propio «mi Padre» del «Padre nuestro» de los discípulos (CJeS, catequesis sobre la filiación adoptiva).
 
 ## Distinciones importantes
 

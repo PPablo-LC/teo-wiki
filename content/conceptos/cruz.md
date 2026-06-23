@@ -1,7 +1,7 @@
 # Cruz
 
 > Área: Cristología / Soteriología
-> Última actualización: 2026-06-10
+> Última actualización: 2026-06-21
 
 ## Definición
 
@@ -66,6 +66,13 @@ San Maximiliano Kolbe, con su sacrificio en Auschwitz, se convirtió en «un sig
 
 La cruz es «la inclinación más profunda de la Divinidad hacia el hombre» [MI, cap. 4, citando DM §8] y el lugar donde «la justicia divina, revelada en la cruz de Cristo, es "a medida" de Dios, porque nace del amor y se completa en el amor» [MI, cap. 4]. La cruz «suprimían sistemáticamente la presencia de la cruz» en los sistemas totalitarios, precisamente porque era la fuente de resistencia espiritual [MI, cap. 4].
 
+### Según UDE (1994)
+
+Juan Pablo II cita el lema *Stat Crux dum volvitur orbis*: la Cruz en el centro de la historia de la salvación como respuesta al mal. Desarrolla el *scandalum Crucis*: la Cruz como necesaria para que Dios se «justifique» ante la historia del sufrimiento humano. Emmanuel, Dios-con-nosotros: Dios no es el Absoluto indiferente sino que comparte el sufrimiento humano. La omnipotencia se manifiesta como kénosis. Solidaridad de Dios con el que sufre (UDE, Cap. X-XI).
+
+### Según CJeS (1987-1989)
+
+Juan Pablo II presenta la Cruz como el designio eterno del amor de Dios: «Tanto amó Dios al mundo que dio a su Hijo único» (Jn 3,16; 1 Jn 4,10). La Cruz fue predestinada por Dios desde la eternidad (Hch 2,23; Lc 24,26.44). Cristo acepta libremente la kénosis y la obediencia hasta la muerte (Flp 2,6-8), en contraste con la desobediencia de Adán. El valor infinito del sacrificio de Cristo se funda en la unión hipostática: es «un Dios que sufre». La muerte de Cristo tiene valor sustitutivo (*substitutio*) y representativo: Cristo se solidariza con los pecadores para obtener su justificación y santificación. La misericordia divina se revela como superior a la justicia, manifestando un amor sobreabundante. Cristo es el único [[mediación_de_cristo|Mediador]] entre Dios y los hombres (1 Tim 2,5; Heb 9,15). La Cruz es también modelo para el [[sufrimiento_redentor|sufrimiento cristiano]]: el cristiano participa en la Cruz de Cristo (Col 1,24; Gal 2,20). La Cruz es «puente» (Santa Catalina de Siena) que une el cielo y la tierra (CJeS, tercera parte: valor redentivo de la Pasión).
 
 ## Distinciones importantes
 

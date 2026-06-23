@@ -1,7 +1,7 @@
 # Iglesia
 
 > Área: Eclesiología
-> Última actualización: 2026-06-20
+> Última actualización: 2026-06-21
 
 ## Definición
 
@@ -46,6 +46,16 @@ La Iglesia es «sacramento, o sea signo e instrumento de la unión íntima con D
 Cristo es el camino principal de la Iglesia: «Jesucristo es el camino principal de la Iglesia. Él mismo es nuestro camino "hacia la casa del Padre" y es también el camino hacia cada hombre» [RH §13]. El hombre «es el primer camino que la Iglesia debe recorrer en el cumplimiento de su misión, él es el camino primero y fundamental de la Iglesia, camino trazado por Cristo mismo» [RH §14].
 
 La Iglesia es el [[cuerpo_místico]] de Cristo [RH §7, §18, §21]. «Si este Cuerpo Místico es Pueblo de Dios [...] esto significa que todo hombre está penetrado por aquel soplo de vida que proviene de Cristo» [RH §18]. La Iglesia «no tiene otra vida fuera de aquella que le da su Esposo y Señor» [RH §18]. La Iglesia es «solícita por la vocación del hombre en Cristo» [RH §18], y es «responsable de la verdad» divina en virtud de la asistencia del Espíritu de verdad, que le ha concedido el don de la infalibilidad y el sentido de la fe a todo el Pueblo de Dios [RH §19]. La Iglesia vive de la Eucaristía, que la construye «como auténtica comunidad del Pueblo de Dios» [RH §20].
+
+### Según UDE (1994)
+
+Juan Pablo II presenta a la Iglesia como sacramento universal de salvación (LG 1). Unicidad de la mediación de Cristo (1 Tim 2,5; Hch 4,12) con la Iglesia como instrumento. La Iglesia como Cuerpo Místico de Cristo. Cristocentrismo y anti-eclesiocentrismo del Concilio. Catolicidad y comunión. «Extra ecclesiam nulla salus» interpretado según LG 14-16. *Subsistit in* (LG 8): la Iglesia de Cristo subsiste en la Iglesia católica. El diálogo de salvación (Pablo VI, *Ecclesiam suam*): círculos concéntricos (UDE, Cap. XXI).
+
+### Según CJeS (1987-1989)
+
+Juan Pablo II, en su ciclo cristológico, vincula la institución de la Iglesia con la realeza de Cristo y el Reino de Dios. Cristo instituye el Reino de Dios, y en ese contexto funda la Iglesia sobre Pedro, confiriéndole las llaves del Reino (Mt 16,18-19). El misterio pascual —pasión, muerte y resurrección de Cristo— es el fundamento de la Iglesia: del costado traspasado de Cristo nace la Iglesia, como Eva del costado de Adán. La promesa de Cristo —«las puertas del infierno no prevalecerán contra ella» (Mt 16,18)— asegura la indefectibilidad de la Iglesia hasta el fin de los tiempos (CJeS, cuarta parte: catequesis sobre la institución del Reino y el primado de Pedro). La Iglesia es la comunidad del Reino, llamada a continuar la misión de Cristo: «Id y haced discípulos a todas las naciones, bautizándolos en el nombre del Padre y del Hijo y del Espíritu Santo» (Mt 28,19-20).
+
+Juan Pablo II profundiza en la institución de los Doce Apóstoles, su elección y misión como fundamento de la Iglesia. El primado de Pedro es explícito: «Tú eres Pedro y sobre esta piedra edificaré mi Iglesia» (Mt 16,18) y «Apacienta mis ovejas» (Jn 21,17). La estructura ministerial y jerárquica de la Iglesia se funda en la sucesión apostólica. La Iglesia posee una estructura sacramental: el [[bautismo]] (Jn 3,5; Mt 28,19), la [[penitencia]] o reconciliación (Jn 20,22-23: «A quienes remitiereis los pecados, les son remitidos»), y la [[eucaristía]] (instituida en la Última Cena), fuente de unidad («un solo pan, un solo cuerpo», 1 Cor 10,17). Cristo da el mandamiento nuevo del amor fraterno. Todos los fieles están llamados a la [[santidad]] (cf. *Lumen Gentium* cap. V), mediante los [[consejos_evangélicos]] (castidad, pobreza, obediencia) y la santidad en la vida matrimonial y familiar. La caridad es el vínculo de la perfección. La permanencia en Cristo —la vid y los sarmientos (Jn 15)— es la condición de la vida cristiana (CJeS, segunda parte: venida del Reino y fundación de la Iglesia).
 
 ## Relaciones doctrinales
 

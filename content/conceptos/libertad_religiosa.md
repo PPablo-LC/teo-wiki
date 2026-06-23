@@ -51,6 +51,10 @@ La libertad religiosa es un derecho fundamental de la persona: el Concilio Vatic
 
 La Veritatis Splendor (§31, §34) sitúa la libertad religiosa en el contexto de la dignidad de la persona humana y su relación con la verdad. El Concilio Vaticano II constató «una conciencia cada vez mayor de la dignidad de la persona humana», de donde surge la reivindicación del derecho a la libertad religiosa y al respeto de la conciencia en su camino hacia la verdad (§31, citando DH). La verdadera libertad es signo eminente de la imagen divina en el hombre. Si existe el derecho de ser respetados en el propio camino de búsqueda de la verdad, existe aún antes la obligación moral grave de buscar la verdad y seguirla una vez conocida (§34).
 
+### Según UDE (1994)
+
+Juan Pablo II se remite a *Dignitatis humanae*: la libertad religiosa. La verdad debe buscarse de modo conforme a la dignidad de la persona. La conciencia es el «santuario del hombre» (GS 16). Debe ser siempre escuchada, incluso si es errónea por ignorancia invencible. Cita a Santo Tomás (I-II q.19 a.5): el acto de fe contra la conciencia es ilícito. Cita a Newman: la conciencia está por encima de la autoridad. Plantea la fe implícita: quien busca sinceramente a Dios, incluso sin conocer el Evangelio, puede salvarse (LG 16). Advertencia anti-pelagiana: la gracia es necesaria para la salvación. Sinergismo: colaboración del hombre con Dios (UDE, Cap. XXIX).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[iglesia_y_estado]], [[conciencia_moral]], [[dignidad_humana]], [[derechos_humanos]], [[laicidad_positiva]], [[estado]]

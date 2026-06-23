@@ -17,6 +17,10 @@ El CEC §880-887 enseña que Cristo constituyó a Pedro como fundamento visible 
 
 Los cc. 331-335 definen al Romano Pontífice como titular del «oficio supremo en la Iglesia» (c. 331). Goza de potestad ordinaria, suprema, plena, inmediata y universal (c. 331). Su elección se regula en c. 332. El c. 333 establece que no hay apelación contra su sentencia. El c. 334 señala que el Papa se sirve de la [[curia_romana]] para el gobierno de la Iglesia universal.
 
+### Según UDE (1994)
+
+Cristo edifica su Iglesia sobre Pedro. Pedro como roca. Apostolicidad de la Iglesia. La misión del Papa de «confirmar a los hermanos». Ministerio de unidad. [UDE, Cap. I, XXIII]
+
 ## Distinciones importantes
 
 - El ministerio petrino es personal, no colegial (aunque se ejerce en comunión con el [[colegio_episcopal]])

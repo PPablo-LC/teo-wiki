@@ -1,7 +1,7 @@
 # Bautismo
 
 > Área: Sacramental
-> Última actualización: 2026-06-20
+> Última actualización: 2026-06-21
 
 ## Definición
 
@@ -161,6 +161,12 @@ La circuncisión fue preparación y figura del bautismo: era profesión de fe en
 #### IIIª q.71 — La catequesis y el exorcismo
 
 La instrucción catequética debe preceder al bautismo por ser este *sacramento de la fe* (q.71 a.1). El exorcismo precede al bautismo para expulsar el poder del demonio (a.2). Estos ritos no son meros signos: producen un efecto real removiendo los obstáculos que impiden recibir la gracia bautismal; son sacramentales, no sacramentos (a.3). La catequesis y el exorcismo pertenecen principalmente al sacerdote (a.4).
+
+### Según CJeS (1987-1989)
+
+Juan Pablo II trata el bautismo de Jesús en el contexto de la acción del Espíritu Santo. Jesús, concebido por el Espíritu Santo, es ungido por el mismo Espíritu en el Jordán para su misión mesiánica. El Bautismo es la primera manifestación pública de la Trinidad: el Padre habla desde los cielos («Tú eres mi Hijo amado, en ti me complazco»), el Hijo recibe el bautismo, y el Espíritu Santo desciende en forma de paloma (CJeS, tercera parte: catequesis sobre el Bautismo de Jesús). Jesús es el que «bautiza en el Espíritu Santo» (Jn 1,33), inaugurando el bautismo cristiano. El bautismo de Jesús marca el inicio de su vida pública y de su misión mesiánica.
+
+En el contexto de la misión de la Iglesia, Juan Pablo II subraya el mandato bautismal de Cristo: «Id y haced discípulos a todas las naciones, bautizándolos en el nombre del Padre y del Hijo y del Espíritu Santo» (Mt 28,19). El bautismo es necesario para la salvación: «el que no naciere del agua y del Espíritu no puede entrar en el Reino de Dios» (Jn 3,5). El bautismo incorpora al creyente en la [[muerte]] y [[resurrección_de_cristo|resurrección]] de Cristo (Rom 6,3-4), haciendo de él una nueva criatura y miembro de la [[iglesia|Iglesia]] (CJeS, segunda parte: venida del Reino y fundación de la Iglesia; cuarta parte: la Resurrección).
 
 ## Distinciones importantes
 

@@ -1,7 +1,7 @@
 # Reconciliación
 
 > Área: Doctrina Social / Moral
-> Última actualización: 2026-05-25
+> Última actualización: 2026-06-21
 
 ## Definición
 
@@ -42,6 +42,14 @@ Jesucristo «se ha convertido en nuestra reconciliación ante el Padre» [RH §9
 El sacramento de la Penitencia es el lugar de la reconciliación sacramental. La Eucaristía es el Sacramento «en que se expresa más cabalmente nuestro nuevo ser», en el que Cristo «certifica» que cada uno de nosotros, «como partícipe del misterio de la Redención, tiene acceso a los frutos de la filial reconciliación con Dios, que Él mismo había realizado y siempre realiza entre nosotros mediante el ministerio de la Iglesia» [RH §20].
 
 La Iglesia, custodiando el sacramento de la Penitencia, «afirma expresamente su fe en el misterio de la Redención, como realidad viva y vivificante, que corresponde a la verdad interior del hombre, corresponde a la culpabilidad humana y también a los deseos de la conciencia» [RH §20]. Cristo dice por medio del ministro del Sacramento de la Reconciliación: «tus pecados te son perdonados»; «vete y no peques más» [RH §20].
+
+### Según UDE (1994)
+
+Juan Pablo II testimonia su oración pidiendo perdón. La integración en el grito profundo de Cristo Redentor (Hb 5,7). El sacramento de la Reconciliación como fuente de vida eterna (UDE, Cap. II, XII).
+
+### Según CJeS (1987-1989)
+
+Juan Pablo II vincula el sacramento de la Penitencia con la misión conferida por Cristo resucitado a los Apóstoles: «A quienes remitiereis los pecados, les son remitidos; y a quienes los retuviereis, les son retenidos» (Jn 20,22-23). Este poder de perdonar los pecados es un don del Espíritu Santo y constituye la base del sacramento de la Reconciliación. La reconciliación brota del perdón de Cristo desde la Cruz: «Padre, perdónalos, porque no saben lo que hacen» (Lc 23,34). Cristo es el [[cordero_de_dios]] que quita el pecado del mundo, y su sangre derramada es la fuente del perdón y la reconciliación del hombre con Dios (CJeS, segunda parte: salvación como liberación del pecado; cuarta parte: palabras de Cristo en la Cruz).
 
 ## Relaciones doctrinales
 

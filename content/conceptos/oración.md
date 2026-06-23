@@ -59,6 +59,10 @@ La oración común (litúrgica) tiene eficacia especial porque une las fuerzas d
 
 León XIV presentó la oración como «encuentro personal con Cristo» durante la Vigilia de oración con jóvenes en Madrid (3 de junio), enseñando que la oración no es recitar fórmulas sino «estar con Quien sabemos que nos ama» [L_XIV-ViajeEspaña-2026, Vigil Madrid 03 — discurso a los jóvenes]. En la solemnidad del Corpus Christi (4 de junio), vinculó la adoración eucarística con la escuela de la oración. A lo largo del viaje, el rezo del rosario en Montserrat con jóvenes, la oración litúrgica, la oración personal y la oración contemplativa fueron presentados como formas de un mismo movimiento del alma hacia Dios [L_XIV-ViajeEspaña-2026, diversos actos].
 
+### Según UDE (1994)
+
+El Espíritu Santo es el protagonista de la oración (Rm 8,26). El hombre como sacerdote de la creación. *Opus gloriae*. La oración como búsqueda de Dios y revelación de Dios. La geografía de la oración del Papa. Oración por los que sufren, por los difuntos. [UDE, Cap. II-III]
+
 ## Distinciones importantes
 
 - Oración en sentido amplio: cualquier movimiento del alma hacia Dios por cualquier virtud infusa.

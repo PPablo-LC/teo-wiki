@@ -17,6 +17,10 @@ La vida eterna es un don sobrenatural de Dios. Comienza ya en esta vida por la g
 ### Según Royo Marín (TPCr)
 La caridad es la única virtud orientada al premio esencial de la vida eterna, que consiste en la visión beatífica. La intensidad de esa visión dependerá exclusivamente del grado de caridad alcanzado en esta vida. La gracia santificante está orientada a la vida eterna, en la que encuentra su plena expansión y desarrollo. La vida cristiana, desarrollándose gradualmente, desemboca en la unión con Dios, preludio normal de la vida eterna.
 
+### Según UDE (1994)
+
+Visión beatífica «cara a cara» (1 Cor 13,12). Resurrección de los cuerpos. Juicio según las obras de caridad (Mt 25). La salvación como comunión con el Padre, el Hijo y el Espíritu Santo. La escatología ya comenzó con la venida de Cristo. [UDE, Cap. XII, XXVIII]
+
 ## Distinciones importantes
 - Vida eterna comenzada (por la gracia en esta vida) ≠ vida eterna consumada (en el cielo)
 - Vida eterna como don gratuito (no puede merecerse la gracia primera) ≠ vida eterna como premio (se puede merecer después de la justificación)

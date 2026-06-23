@@ -1,7 +1,7 @@
 # Imitación de Cristo
 
 > Área: Ascética
-> Última actualización: 2026-06-19
+> Última actualización: 2026-06-21
 
 ## Definición
 
@@ -40,6 +40,10 @@ LG §11: Los fieles laicos, en su camino de conversión, deben ser «instruidos 
 ### Según la Veritatis Splendor (VS)
 
 La Veritatis Splendor (§19-21) enseña que seguir a Cristo no es una imitación exterior, sino que afecta al hombre en su interioridad más profunda. El discípulo se hace conforme a Cristo, que se hizo servidor de todos hasta el don de sí mismo en la cruz (Flp 2,5-8). Jesús pide que le sigan e imiten en el camino del amor que se da totalmente a los hermanos por amor de Dios: «Éste es el mandamiento mío: que os améis los unos a los otros como yo os he amado» (Jn 15,12). El «como» exige la imitación de Jesús, cuyo signo es el lavatorio de los pies (Jn 13,14-15).
+
+### Según CJeS (1987-1989)
+
+Juan Pablo II presenta a Cristo como modelo de la nueva humanidad. La [[imitación_de_cristo|imitación de Cristo]] es la estructura fundamental del ethos evangélico. Seguir a Cristo implica tomar la propia cruz (Mt 16,24). Cristo es modelo eficiente: no solo da ejemplo, sino que comunica la gracia para seguirlo, obrando la configuración con Él. Cristo es modelo de amor filial, obediente y piadoso hacia el Padre: su obediencia hasta la muerte (Flp 2,8) y su oración en Getsemaní («Abba, Padre... no sea lo que yo quiero, sino lo que tú quieras», Mc 14,36) son el prototipo de la relación del hombre con Dios. La oración de Jesús —el [[padrenuestro]] y la oración sacerdotal (Jn 17)— es modelo de toda oración cristiana. El sacrificio de la Cruz es la culminación del amor (Jn 13,1; 15,13). El amor humilde y el servicio (el lavatorio de los pies, Mc 10,43-45) y el radicalismo evangélico de las bienaventuranzas son el camino del discípulo. Cristo es el [[nuevo_adán]] (recapitulación y contraste con Adán), y la participación del hombre en la obra redentora (Col 1,24) prolonga su imitación en el sufrimiento redentor (CJeS, segunda parte: salvación como liberación del pecado).
 
 ## Distinciones importantes
 

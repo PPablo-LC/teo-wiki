@@ -37,6 +37,10 @@ La Vida de Jesús (VJ) presenta el sufrimiento redentor desde la oración en Get
 
 [VJ, Cap. VI]
 
+### Según CJeS (1987-1989)
+
+Juan Pablo II desarrolla el sufrimiento cristiano como participación en la Cruz de Cristo (Col 1,24; Gal 2,20). El cristiano completa en su carne «lo que falta a las tribulaciones de Cristo» —no porque la Cruz sea insuficiente, sino porque Cristo asocia a los suyos a su obra redentora. La Cruz es «puente» (Santa Catalina de Siena) que une al cristiano con Dios y modelo para todos los que sufren. El sufrimiento cristiano no es solo castigo, sino que adquiere poder redentor cuando se une al amor de Cristo. El sufrimiento del Inocente —«el Santo que sufre»— revela el sentido pleno del dolor humano. El sufrimiento es una llamada a la caridad y al servicio, siguiendo el ejemplo del buen samaritano y la enseñanza del Juicio Final (Mt 25). La parábola del grano de trigo que muere para dar fruto (Jn 12,24) ilustra la fecundidad del sufrimiento aceptado por amor (CJeS, tercera parte: valor redentivo de la Pasión).
+
 ## Distinciones importantes
 
 - **Sufrimiento redentor ≠ masoquismo**: no se busca el sufrimiento por sí mismo, sino que se acepta por amor.

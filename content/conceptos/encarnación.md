@@ -1,7 +1,7 @@
 # Encarnación
 
 > Área: Cristología
-> Última actualización: 2026-06-20
+> Última actualización: 2026-06-21
 
 ## Definición
 
@@ -110,6 +110,14 @@ Para Salvarte expone la Encarnación como el misterio por el cual «el Hijo Úni
 ### Según la Vida de Jesús (VJ)
 
 La Vida de Jesús (VJ) contempla la Encarnación como «primicia de la Redención: el Verbo encarnado ya está dispuesto para la obra» (Cap. I). La Encarnación es obra de la Trinidad: el amor del Padre, la acción del Espíritu Santo y la respuesta del Hijo. Jesucristo es el protagonista de toda la obra de la redención desde el primer momento de la Encarnación. En la Encarnación se revela la gloria de la Trinidad y su amor por nosotros: «Y el Verbo se hizo carne, y habitó entre nosotros, y hemos contemplado su gloria». El Verbo hecho carne se oculta en la insignificancia de la vida ordinaria, vistiéndose de nuestra fragilidad humana. La Encarnación permite que los hombres sean hechos hijos adoptivos de Dios en aquel que es Hijo de la Virgen y del Padre.
+
+### Según UDE (1994)
+
+Juan Pablo II presenta a Cristo como el sacramento, signo tangible y visible del Dios invisible. El sacramento implica presencia. Dios no solo está con el hombre sino que se hizo hombre en Jesucristo. «¡No tengáis miedo de Dios que se ha hecho hombre!» La Encarnación como revelación de la dignidad humana (UDE, Cap. I, XXX).
+
+### Según CJeS (1987-1988)
+
+Juan Pablo II, en su ciclo cristológico, trata la encarnación como obra del Espíritu Santo: Jesús fue concebido por obra del Espíritu Santo y nació de la Virgen María (Lc 1,35). El *Fiat* de María en la Anunciación es el consentimiento humano que hace posible la encarnación. El Hijo de Dios, «engendrado, no creado, consubstancial al Padre», asume la naturaleza humana para nuestra salvación (CJeS, primera parte: identidad de Cristo). La encarnación es una nueva creación: así como en el principio el Espíritu aleteaba sobre las aguas, en la Anunciación el Espíritu Santo cubre con su sombra a María (Lc 1,35). El Verbo se hizo carne (Jn 1,14) para recapitular todas las cosas en Cristo (Ef 1,10). Cristo se solidariza con toda la humanidad, asumiendo la condición humana en todo menos en el pecado (CJeS, primera parte: identidad de Cristo).
 
 ## Distinciones importantes
 

@@ -41,6 +41,10 @@ GS 16 contiene el tratamiento más conocido de la conciencia moral en el magiste
 
 La Veritatis Splendor dedica toda la sección II del Capítulo II a la conciencia moral (§54-64). La conciencia es el «sagrario del hombre» donde Dios escribe su ley en el corazón. No es una instancia autónoma que fija el bien y el mal, sino el acto de la inteligencia que aplica el conocimiento universal del bien a una situación concreta. La conciencia es norma próxima de moralidad, pero está subordinada a la ley divina como norma universal. Existe el deber grave de formar la conciencia y de buscar la verdad (§60-64). La conciencia errónea por ignorancia invencible tiene dignidad, pero la conciencia errónea culpable es fruto del hábito del pecado (§62-63).
 
+### Según UDE (1994)
+
+La conciencia es el «santuario del hombre» (GS 16). Debe ser seguida incluso si es errónea por ignorancia invencible. Santo Tomás (I-II q.19 a.5). Newman: la conciencia está por encima de la autoridad. [UDE, Cap. XXIX]
+
 ## Ver también
 
 [[ley_natural]], [[virtud_de_la_prudencia]], [[examen_de_conciencia]], [[actos_humanos]]

@@ -41,6 +41,10 @@ Efectos de la gracia: (1) nos hace hijos adoptivos de Dios — una adopción int
 **El organismo sobrenatural**: La gracia santificante radica en la esencia del alma; las virtudes infusas y los dones del Espíritu Santo son las potencias sobrenaturales que permiten al alma obrar de modo connatural al orden de la gracia (TPCr II, §97-98).
 
 
+### Según UDE (1994)
+
+Centrada en Jn 3,16. El mundo no se basta a sí mismo. El Misterio Pascual como culminación. Historia y metafísica: la historia de la salvación como teología integral que responde al sentido de la existencia. [UDE, Cap. IX]
+
 ## Distinciones importantes
 
 - **Redención objetiva vs. subjetiva**: La redención objetiva es la obra de Cristo en sí misma, suficiente para todos los hombres. La subjetiva es la aplicación de sus frutos a cada alma mediante la fe y los sacramentos.

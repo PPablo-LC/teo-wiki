@@ -1,7 +1,7 @@
 # Maternidad espiritual
 
 > Area: Mariología
-> Ultima actualización: 2026-06-03
+> Ultima actualización: 2026-06-21
 
 ## Definición
 
@@ -26,6 +26,10 @@ El Catecismo afirma que «la maternidad espiritual de Maria se extiende a todos 
 > **Nota**: Estas son fuentes complementarias de caracter testimonial y pastoral, no magisterial. Se incluyen por su valor edificante y por su convergencia con la doctrina católica.
 
 La conferencia «Autentica día 2» amplia el concepto de maternidad espiritual al laicado femenino, afirmando que toda mujer esta llamada a «dar vida» mas alla de lo biologico, complementando la doctrina sobre la [[vocacion]] y la [[maternidad_espiritual]] en su aplicacion a la mujer seglar.
+
+### Según CJeS (1987-1989)
+
+Juan Pablo II desarrolla la maternidad espiritual de María en el contexto de las palabras de Cristo en la Cruz: «Mujer, he ahí a tu hijo» (Jn 19,26-27). Cristo confía el discípulo amado a María como hijo, y a María al discípulo como madre. En el discípulo amado —que representa a todos los creyentes—, María recibe la maternidad espiritual sobre toda la Iglesia. Esta maternidad en el orden de la gracia (cf. *Lumen Gentium* 61) perdura sin cesar hasta la consumación de todos los elegidos. María es constituida así Madre de la Iglesia, ejercitando su intercesión materna y su mediación subordinada a la única [[mediación_de_cristo|mediación de Cristo]] (CJeS, cuarta parte: palabras de Cristo en la Cruz).
 
 ## Distinciones importantes
 

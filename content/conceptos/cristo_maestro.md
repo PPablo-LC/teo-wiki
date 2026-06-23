@@ -1,7 +1,7 @@
 # Cristo Maestro
 
 > Área: Cristología / Teología fundamental
-> Última actualización: 2026-06-15
+> Última actualización: 2026-06-21
 
 ## Definición
 
@@ -38,6 +38,12 @@ Jesús es el Maestro por excelencia (CEC §561). Su enseñanza tiene autoridad �
 ### Según la Tradición apostólica (tradición_apostólica)
 
 El hecho de que Cristo no escribiera su doctrina es el fundamento de la Tradición apostólica como fuente de la revelación junto con la Escritura. Cristo no dijo a los Apóstoles «escribid», sino «predicad» (Mt 28,19-20; Mc 16,15). La transmisión viva de la enseñanza de Cristo por medio de la predicación apostólica y la sucesión episcopal es la Tradición, que conserva y transmite a todas las edades lo que Cristo enseñó (DV 7-10). Los Apóstoles enseñaron principalmente de palabra, como ellos mismos fueron enseñados por el Señor. La Escritura misma recoge solo una parte de la enseñanza de Cristo (Jn 21,25), y fue puesta por escrito bajo la inspiración del Espíritu Santo para conservar fielmente el núcleo de la predicación apostólica.
+
+### Según CJeS (1987-1989)
+
+Juan Pablo II presenta a Jesús como Maestro divino en su ciclo cristológico. Jesús enseña con autoridad propia (Mc 1,22), no como los escribas, porque Él es la Palabra misma de Dios hecha carne. Es el Legislador divino que interpreta la Ley con autoridad soberana: «Se ha dicho [...] pero yo os digo» —las seis antítesis del Sermón de la Montaña (Mt 5,21-48) en las que Jesús perfecciona la Ley mosaica, llevándola a su plenitud. Jesús enseña la nueva justicia del Reino, que supera la justicia de los escribas y fariseos. La perfección consiste en el amor: «Sed perfectos como vuestro Padre celestial es perfecto» (Mt 5,48). Es Señor del sábado (Mc 2,28). Sus palabras son eternas: «El cielo y la tierra pasarán, pero mis palabras no pasarán» (Mt 24,35; CJeS, cuarta parte: catequesis sobre Jesús Legislador divino).
+
+Juan Pablo II profundiza en la misión profética de Cristo como Maestro. Jesús cumple la Ley y los Profetas no aboliéndolos sino llevándolos a su plenitud. Su enseñanza con autoridad se manifiesta en las antítesis del Sermón de la Montaña: «Se ha dicho... pero yo os digo». Cristo es el «testigo fiel» de la verdad (Jn 18,37): «Para esto he nacido... para dar testimonio de la verdad». La verdad que Cristo revela es la verdad sobre Dios Padre: «Quien me ve a mí, ve al Padre» (Jn 14,9). La enseñanza de Cristo revela la unión íntima del Hijo con el Padre y su consustancialidad trinitaria. El amor exigente de Cristo —que combina la mansedumbre con el radicalismo evangélico— es parte integral de su magisterio: el seguimiento de Cristo implica la cruz. La verdad que Cristo anuncia interpela la libertad humana y la conciencia, en consonancia con la doctrina de la libertad religiosa ([[dignitatis_humanae]], [[dignidad_humana|Dignitatis Humanae]]) (CJeS, segunda parte: misión profética de Cristo).
 
 ## Distinciones importantes
 

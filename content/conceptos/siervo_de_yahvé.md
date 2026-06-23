@@ -1,7 +1,7 @@
 # Siervo de Yahvé
 
 > Área: Cristología / Escritura
-> Última actualización: 2026-06-02
+> Última actualización: 2026-06-21
 
 ## Definición
 
@@ -28,6 +28,10 @@ El NT aplica a Jesús: su silencio ante los jueces (Is 53,7; Mt 26,63), su inter
 ### Según Royo Marín (TPCr)
 
 Cristo «se anonadó tomando la forma de siervo» (Fil 2,7) (TPCr, n. 417). «Siervo de Dios» es la expresión usada para referirse a los santos y almas justas cuya beatificación se demanda (n. 1101). No hay un tratamiento específico del «Siervo de Yahvé» como figura profética; la referencia se inscribe en la cristología de la kenosis.
+
+### Según CJeS (1987-1988)
+
+Juan Pablo II dedica una catequesis a Jesús como Siervo de Yahvé. Los cantos del Siervo (Is 42,1-9; 49,1-6; 50,4-11; 52,13-53,12) encuentran su cumplimiento en Cristo. Jesús es el Siervo que no vino a ser servido sino a servir y dar su vida en rescate por muchos (Mc 10,45). Juan Bautista lo señala: «He aquí el Cordero de Dios, que quita el pecado del mundo» (Jn 1,29). El lavatorio de los pies (Jn 13,1-17) es la expresión más elocuente del servicio mesiánico de Jesús. La kenosis (Flp 2,6-8) —el despojamiento del Hijo que toma la forma de siervo— revela el amor humilde de Dios. Cristo, siendo de condición divina, se anonada a sí mismo y obedece hasta la muerte de cruz. La exaltación que sigue a la humillación muestra que el camino del Siervo es el camino de la gloria (CJeS, primera parte: catequesis sobre Jesús Siervo de Yahvé).
 
 ## Distinciones importantes
 

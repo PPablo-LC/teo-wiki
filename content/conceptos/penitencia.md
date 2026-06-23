@@ -174,6 +174,10 @@ La encíclica defiende la praxis plurisecular de la confesión individual como �
 
 La Iglesia, custodiando el sacramento de la Penitencia, afirma su fe en el misterio de la Redención como realidad viva que corresponde a la verdad interior del hombre. La Iglesia del nuevo Adviento debe ser «la Iglesia de la Eucaristía y de la Penitencia» [RH §20].
 
+### Según CJeS (1987-1989)
+
+Juan Pablo II vincula el sacramento de la Penitencia con el poder de las llaves conferido a los Apóstoles por Cristo resucitado: «A quienes remitiereis los pecados, les son remitidos; y a quienes los retuviereis, les son retenidos» (Jn 20,22-23). Este poder de perdonar los pecados, comunicado por el soplo del Espíritu Santo, constituye la base del sacramento de la Penitencia. La reconciliación brota del perdón de Cristo desde la Cruz: «Padre, perdónalos, porque no saben lo que hacen» (Lc 23,34). Cristo es el [[cordero_de_dios]] que quita el pecado del mundo, y su sangre derramada es la fuente del perdón sacramental y de la reconciliación del hombre con Dios (CJeS, segunda parte: venida del Reino y fundación de la Iglesia; cuarta parte: palabras de Cristo en la Cruz).
+
 ## Distinciones importantes
 
 - **Contrición perfecta vs. atrición**: según el motivo del dolor del pecado

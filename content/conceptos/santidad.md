@@ -61,6 +61,10 @@ Jesús se presenta como «el único camino que conduce a la santidad» (Jn 14, 6
 
 La expresión y los mejores frutos de la identidad cristiana de América son sus santos. «América ha visto florecer los frutos de la santidad desde los comienzos de su evangelización», siendo santa Rosa de Lima «la primera flor de santidad en el Nuevo Mundo» [EA §15].
 
+### Según CJeS (1987-1989)
+
+Juan Pablo II desarrolla la llamada universal a la santidad (cf. *Lumen Gentium*, cap. V) en el contexto de la institución de la Iglesia por Cristo. Todos los fieles, de cualquier estado o condición, están llamados a la plenitud de la vida cristiana y a la perfección de la caridad. Los [[consejos_evangélicos]] —castidad, pobreza, obediencia— son medios para alcanzar la santidad. La santidad en el matrimonio y la vida familiar es una vocación específica dentro del Pueblo de Dios. La caridad es el vínculo de la perfección que une todas las virtudes. La permanencia en Cristo —la vid y los sarmientos (Jn 15)— es la condición indispensable para dar fruto de santidad. Cristo mismo es el modelo de la santidad: su amor exigente, su mansedumbre y su radicalismo evangélico son el camino del seguimiento y de la cruz (CJeS, segunda parte: venida del Reino y fundación de la Iglesia).
+
 ## Distinciones importantes
 
 - **Santidad ontológica**: la gracia santificante en el alma (santidad de estado).

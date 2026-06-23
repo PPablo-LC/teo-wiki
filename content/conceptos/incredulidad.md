@@ -27,6 +27,20 @@ La incredulidad reside en el entendimiento como sujeto próximo —pues el disen
 
 **Tolerancia de ritos y bautismo de niños (q.10 a.11-12).** Los ritos de los infieles pueden ser tolerados para evitar males mayores (q.10 a.11). Los hijos de los infieles no deben ser bautizados contra la voluntad de sus padres, pues se les haría injuria y se iría contra la justicia natural (q.10 a.12).
 
+### Según la Catequesis de Juan Pablo II (CrSJP)
+
+En la catequesis 33 (21 de octubre de 1987), Juan Pablo II aborda la incredulidad como obstáculo a la acción salvífica de Cristo.
+
+Allí donde los hombres oponen una resistencia derivada del orgullo y la incredulidad, Jesús castiga esta actitud no admitiéndolos a los beneficios concedidos por su poder divino (CrSJP 33 §5).
+
+Es significativo el caso de los nazarenos: «Jesús les decía: ningún profeta es tenido en poco sino en su patria y entre sus parientes y en su familia. Y no pudo hacer allí ningún milagro fuera de que a algunos pocos dolientes les impuso las manos y los curó. Él se admiraba de su incredulidad» (Mc 6,4-6). Los milagros son signos del poder divino de Jesús. Cuando hay obstinada cerrazón al reconocimiento de ese poder, el milagro pierde su razón de ser (CrSJP 33 §5).
+
+Jesús responde a los discípulos que preguntan por qué no pudieron expulsar al demonio: «Por vuestra poca fe: porque en verdad os digo, que si tuvierais fe como un grano de mostaza, diríais a este monte: Vete de aquí allá, y se iría, y nada os sería imposible» (Mt 17,19-20) (CrSJP 33 §5).
+
+En el diálogo con Nicodemo, Jesús dice: «El que no cree, ya está juzgado, porque no creyó en el nombre del unigénito Hijo de Dios» (Jn 3,18). La incredulidad lleva consigo un juicio inmanente (CrSJP 33 §8).
+
+El padre del epiléptico clama: «¡Creo! Ayuda a mi incredulidad» (Mc 9,24), mostrando cómo la fe y la incredulidad pueden coexistir en el alma que lucha por creer (CrSJP 33 §4).
+
 ## Distinciones importantes
 
 - **Incredulidad negativa vs. positiva**: la primera es mera ausencia de fe (no es pecado si es invencible); la segunda es resistencia voluntaria (pecado grave)

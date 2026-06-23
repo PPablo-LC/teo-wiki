@@ -27,6 +27,12 @@ La potestad judicial de Cristo se funda en su doble condición de Creador y Rede
 
 Royo Marín enseña que Cristo, como cabeza de la Iglesia y redentor del género humano, recibió del Padre la potestad de juzgar a vivos y muertos. El Juicio final será la manifestación plena de su realeza y su victoria sobre el pecado y la muerte (TPCr, Tercera Parte, Libro III).
 
+### Según la Catequesis de Juan Pablo II (CrSJP)
+
+Juan Pablo II enseña que Jesucristo posee el poder divino de juzgar las obras y las conciencias humanas, poder definitivo y universal: «El Padre no juzga a nadie, sino que ha entregado al Hijo todo su poder de juzgar» (Jn 5, 22). Este poder está vinculado a la facultad de dar la vida: «Así como el Padre tiene la vida en sí mismo, así dio también al Hijo tener vida en sí mismo, y le dio poder de juzgar, por cuanto Él es el Hijo del hombre» (Jn 5, 26-27). El poder de juzgar ha sido vinculado a la misión de Cristo como Salvador, como Redentor del mundo; el juzgar pertenece a la obra de salvación como acto salvífico definitivo.
+
+El criterio del juicio es el amor: Cristo se identifica con el prójimo necesitado —«Cuantas veces hicisteis eso a uno de estos mis hermanos menores, a mí me lo hicisteis» (Mt 25, 40)— y cada uno será juzgado sobre todo por el amor. También por la fe: «A quien me confesare delante de los hombres, el Hijo del hombre le confesará delante de los ángeles de Dios» (Lc 12, 8). El juicio aparece así como «el último anillo del amor de Dios»: Dios juzga porque ama y en vistas al amor [CrSJP, Catequesis 30].
+
 ## Distinciones importantes
 
 - Cristo juzga como Dios por autoridad de creación; como hombre, por derecho de redención

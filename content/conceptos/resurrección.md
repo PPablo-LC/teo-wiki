@@ -25,6 +25,10 @@ En la Resurrección, Cristo «justificó», por así decir, «la obra de la crea
 
 En Cristo resucitado, «el hombre está llamado a una vida nueva, la vida del hijo en el Hijo, expresión perfecta de la gloria de Dios: *gloria Dei vivens homo*, la gloria de Dios es el hombre viviente» [MI, cap. 5].
 
+### Según UDE (1994)
+
+La Resurrección como victoria sobre la muerte. La Resurrección de Cristo como garantía de nuestra resurrección. «Si Cristo no ha resucitado, vana es nuestra predicación y vana es vuestra fe» (1 Cor 15,14). [UDE, Cap. VI, XII]
+
 ## Distinciones importantes
 
 - No es una reanimación (como la de Lázaro, que volvió a morir)

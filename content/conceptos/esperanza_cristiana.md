@@ -27,6 +27,10 @@ La esperanza cristiana se funda en las promesas de Dios, cumplidas en Jesucristo
 
 [JPII, Redemptoris Mater §11, §41, §50]: María permanece como señal de esperanza segura en medio del mal y del pecado que marcan la historia del hombre [RM §11]. La verdad de la Asunción expresa la fe de la Iglesia según la cual María está íntimamente unida a Cristo en su primera venida y lo estará también a la espera de la segunda [RM §41]. El Concilio mira a María como a un «signo de esperanza segura y de consuelo para el pueblo de Dios peregrinante» [RM §50, citando LG §68].
 
+### Según UDE (1994)
+
+El título mismo de la obra —*Cruzando el umbral de la esperanza*— señala la esperanza como tema central. Juan Pablo II presenta la fe cristiana como una invitación a la alegría y a la esperanza. El Evangelio es fundamentalmente buena noticia de salvación. La palabra más repetida en el libro junto a «esperanza» es «alegría». El Papa concluye afirmando que vale la pena descubrir que tenemos un Padre que nos ama (UDE, Intro., Cap. III, Cap. XXXV).
+
 ## Distinciones importantes
 
 - **Esperanza teologal** (virtud infusa) ≠ **optimismo natural** (actitud psicológica)

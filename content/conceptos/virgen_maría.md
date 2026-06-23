@@ -120,6 +120,14 @@ En la cruz, Jesús entrega a María como Madre a la humanidad: «Mujer, ahí tie
 
 [VJ, Cap. I-II, Cap. VI]
 
+### Según UDE (1994)
+
+Juan Pablo II explica su lema *Totus Tuus*, tomado de San Luis María Grignion de Montfort. Presenta a María como Nueva Eva desde la Anunciación hasta Pentecostés; Madre de Cristo = Madre de la Iglesia. Remite al Vaticano II, LG cap. VIII. Menciona los lugares marianos de su vida: Wadowice, Kalwaria Zebrzydowska, Jasna Góra. Presenta a María como modelo de fe (la Anunciación) (UDE, Cap. XXXII, XXIX).
+
+### Según CJeS (1987-1989)
+
+Juan Pablo II desarrolla la presencia de María al pie de la Cruz en el contexto de las palabras de Cristo: «Mujer, he ahí a tu hijo» (Jn 19,26-27). En este momento, Jesús confía el discípulo amado —y en él a todos los hombres— a María como Madre, y a María al discípulo como hijo. Esta escena funda la [[maternidad_espiritual]] de María sobre toda la Iglesia. María es constituida Madre de la Iglesia y Madre en el orden de la gracia (cf. *Lumen Gentium* 61). El culto mariano y el amor filial a María brotan de esta entreza de Cristo desde la Cruz. María está presente en el momento culminante de la redención, asociada al sacrificio de su Hijo (CJeS, cuarta parte: palabras de Cristo en la Cruz).
+
 ## Distinciones importantes
 
 - **Maternidad divina**: María es Madre de Dios (Theotókos), verdadera Madre de Jesús, que es verdadero Dios y verdadero hombre.

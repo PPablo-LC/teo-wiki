@@ -23,6 +23,10 @@ Royo Marín desarrolla la doctrina del organismo sobrenatural de manera sistemá
 
 [TPCr, Segunda Parte, Cap. 1; TPCr, Introducción]
 
+### Según la Catequesis de Juan Pablo II (CrSJP)
+
+Juan Pablo II, citando a San Agustín, presenta los milagros de Cristo como «obras divinas que enseñan a la mente humana a elevarse por encima de las cosas visibles, para comprender lo que Dios es» (CrSJP, cateq. 13-I-1988, n. 1). Los milagros demuestran la existencia del orden sobrenatural, objeto de la fe. El orden de la naturaleza no agota toda la realidad: existe un orden superior, sujeto al «Poder de lo alto» (Lc 24,49), que es Dios mismo. Este poder está por encima del orden natural y dirige el destino del hombre hacia el [[reino_de_dios]]. Los milagros son «signos» de este Reino, no en contraposición con las leyes naturales, sino como suspensión experimentable de su función ordinaria que indica la existencia de un poder superior que obra en la línea de las exigencias de la naturaleza misma, aunque por encima de su capacidad normal (CrSJP, cateq. 13-I-1988, nn. 2-3).
+
 ## Distinciones importantes
 
 - Orden natural (creación, razón) vs. orden sobrenatural (gracia, fe, gloria).

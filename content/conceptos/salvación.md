@@ -1,7 +1,7 @@
 # Salvación
 
 > Área: Dogmática — Cristología / Soteriología
-> Última actualización: 2026-06-02
+> Última actualización: 2026-06-21
 
 ## Definición
 
@@ -28,6 +28,13 @@ En el NT, la salvación se realiza en Jesucristo. Su nombre significa «Yahvé s
 
 Royo Marín expone la salvación como el fin último de la vida cristiana y el término de la perfección. La gracia santificante es el principio de la salvación, que comienza en esta vida y se consuma en la gloria. La salvación exige la fe, la esperanza y la caridad, y se pierde por el pecado mortal. La predestinación a la salvación es un misterio de la sabiduría divina que no anula la libertad humana. La perseverancia final es un don de Dios que debe solicitarse con la oración.
 
+### Según UDE (1994)
+
+Juan Pablo II define la salvación como liberación del mal radical y definitivo; la muerte deja de ser el mal definitivo mediante la Resurrección. La salvación solo viene de Dios; el mundo no puede salvarse. El nombre Jesús (Jeshua = «Dios salva»). La vida eterna: visión beatífica «cara a cara» (1 Cor 13,12), plenitud de verdad, bondad, belleza. Participación en la vida trinitaria. Resurrección de los cuerpos como victoria sobre la muerte. Dios quiere que todos se salven (1 Tim 2,4). Soteriología del amor: el amor tiene poder salvífico superior al puro conocimiento (1 Cor 13,13) (UDE, Cap. XII).
+
+### Según CJeS (1987-1989)
+
+Juan Pablo II presenta la salvación como liberación del pecado, el mal fundamental que rompe la alianza del hombre con Dios. El nombre de Jesús significa «Dios salva» (Yeshua, Mt 1,21). Cristo es el [[cordero_de_dios]] que quita el pecado del mundo (Jn 1,29; Is 53). Su muerte es «rescate por muchos» (*lutron*/[[redención|*lutrosis*]], Mc 10,45; Mt 20,28). La salvación libera de la esclavitud del pecado y del «padre de la mentira» (el diablo), para la libertad de los hijos de Dios (Rom 8,21) y la libertad en la verdad (Jn 8,32.36). Esta liberación es para la vida nueva en Cristo: «nueva creación» (2 Cor 5,17). El agua viva (Jn 4,10-14; 7,37-38) y el costado traspasado (sangre y agua, Jn 19,34) simbolizan la gracia salvadora que brota de Cristo. El corazón nuevo prometido por Jeremías y Ezequiel (Jer 31,33; Ez 36,26-27) significa la transformación interior obrada por la salvación (CJeS, segunda parte: salvación como liberación del pecado).
 
 ## Distinciones importantes
 

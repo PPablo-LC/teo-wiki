@@ -23,6 +23,10 @@ Al hacer partícipes a los Apóstoles de su propio poder de perdonar pecados, el
 
 La Constitución dogmática Lumen Gentium §22 enseña que el Colegio episcopal, junto con su Cabeza el Romano Pontífice, sucede al Colegio de los Apóstoles en la autoridad sobre la Iglesia. El Papa, como sucesor de Pedro, tiene potestad plena y suprema sobre la Iglesia universal (LG §22).
 
+### Según la Catequesis de Juan Pablo II (CrSJP)
+
+Juan Pablo II trata la concesión de las [[llaves_del_reino]] a Pedro en el contexto del poder soberano de Cristo sobre el Reino (CrSJP, cateq. 4-XI-1987, n. 6). Jesús dice a Simón Pedro: «Tú eres Pedro, y sobre esta piedra edificaré yo mi Iglesia, y las puertas del infierno no prevalecerán contra ella. Yo te daré las llaves del reino de los cielos, y cuanto atares en la tierra quedará atado en los cielos, y cuanto desatares en la tierra quedará desatado en los cielos» (Mt 16,18-19). Quien habla así, señala JPII, está convencido de poseer el Reino, de tener soberanía total sobre él, y de poder confiar sus «llaves» a un representante y vicario suyo, más aún de lo que haría un rey de la tierra con su lugarteniente o primer ministro. Pedro recibe así un poder especial en orden al Reino, como preparación al mandato definitivo de Cristo resucitado (Mt 28,18-20).
+
 ## Distinciones importantes
 
 - Llaves del Reino y poder de atar y desatar son expresiones equivalentes

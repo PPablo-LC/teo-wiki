@@ -1,7 +1,7 @@
 # Mesías
 
 > Área: Cristología
-> Última actualización: 2026-06-02
+> Última actualización: 2026-06-21
 
 ## Definición
 
@@ -20,6 +20,10 @@ En el AT, «ungido» se aplica ante todo al rey, consagrado por la unción *1Sa 
 Los profetas, severos con el Ungido reinante, orientaron la esperanza hacia el rey futuro. Después del exilio, los salmos regios se reinterpretan en clave escatológica. La esperanza judía es muy viva en la época del NT: «¿No es este el Mesías?» *Jn 4,29* *7,40ss*. Jesús mantiene una actitud reservada: acepta el título pero lo purifica, vinculándolo al Siervo doliente y al Hijo del hombre *Mc 8,31 p*.
 
 A la luz de la Pascua, la Iglesia atribuye a Jesús el título de Mesías-Cristo, despojado de todo equívoco. La resurrección lo entroniza en su gloria regia: «Dios ha hecho Señor y Cristo a este Jesús al que vosotros crucificasteis» *Act 2,36*. La palabra Cristo, unida al nombre de Jesús, recibe una prodigiosa ampliación: concentra en sí todos los otros títulos —Siervo, Cordero, Hijo del hombre, Sumo Sacerdote, Señor—, manifestando así la plenitud del misterio de Cristo.
+
+### Según CJeS (1987-1988)
+
+Juan Pablo II dedica las primeras catequesis a Jesús como Mesías («Cristo», ungido). El Mesías esperado por Israel es aquel en quien convergen las tres unciones del AT: la de rey, la de sacerdote y la de profeta. Jesús cumple las profecías mesiánicas: es hijo de David, ungido por el Espíritu Santo desde su concepción, y realiza las obras mesiánicas —curar, expulsar demonios, predicar la Buena Nueva a los pobres—. Sin embargo, Jesús purifica las expectativas mesiánicas de todo nacionalismo político: su mesianismo pasa por la cruz como Siervo sufriente (CJeS, primera parte: identidad de Cristo). La confesión de Pedro en Cesarea de Filipo —«Tú eres el Mesías»— es el punto culminante de la revelación de la identidad de Jesús. JPII une explícitamente el título Mesías (Cristo) a los otros títulos cristológicos: Hijo de Dios, Siervo de Yahvé, Hijo del hombre, Señor (CJeS, primera parte: identidad de Cristo).
 
 ## Distinciones importantes
 

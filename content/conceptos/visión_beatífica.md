@@ -29,6 +29,10 @@ Los bienaventurados ven también las penas de los condenados (q.94 a.1), y este 
 
 Santo Tomás distingue además entre la visión como acto (que es la bienaventuranza misma) y la visión como hábito (la claridad de gloria), que es una dote o disposición para la bienaventuranza (q.95 a.2, a.5). La visión, la comprensión y la fruición son las tres dotes del alma, correspondientes respectivamente a la fe, la esperanza y la caridad (q.95 a.5).
 
+### Según UDE (1994)
+
+Visión «cara a cara» de Dios (1 Cor 13,12). Participación en la vida trinitaria. Plenitud de verdad, bondad y belleza. [UDE, Cap. XII]
+
 ## Distinciones importantes
 - Visión beatífica (contemplación intuitiva de Dios en el cielo) ≠ contemplación infusa (oscura y por fe en esta vida)
 - Gloria esencial (visión beatífica en sí misma) ≠ gloria accidental (premios secundarios)

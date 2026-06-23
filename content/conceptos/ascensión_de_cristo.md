@@ -41,6 +41,10 @@ La Vida de Jesús (VJ) trata la Ascensión en el Capítulo VIII. Cristo, que «s
 
 La Ascensión no es solo una despedida: es causa de nuestra ascensión, prenda y garantía de la exaltación de la naturaleza humana. Cristo, al elevarse al cielo, arrastra consigo a la humanidad que ha asumido, abriendo el camino a todos los hombres [VJ, Cap. VIII].
 
+### Según CJeS (1987-1989)
+
+Juan Pablo II presenta la Ascensión como el misterio del retorno de Cristo al Padre, que cumple el designio de la Encarnación: «Bajó del cielo» y «subió al cielo» (Jn 3,13; 16,28). Existe una conexión profunda entre la Cruz y la Ascensión: el «ser elevado» en la Cruz y el «ser elevado» al cielo (Jn 3,14-15; 12,32) son dos aspectos de un mismo misterio. Cristo es el único [[mediación_de_cristo|Mediador]] y el Camino al Padre (Jn 14,6). «Subió al cielo y está sentado a la derecha del Padre» (Mc 16,19; Sal 110,1). La Ascensión es un acontecimiento histórico (monte de los Olivos, cuarenta días, la nube, Lc 24,50-51; Hch 1,3-11) pero con carácter metahistórico: la nube es signo de la presencia divina. La Ascensión prepara el envío del Espíritu Santo/Paráclito (Hch 2,33; Jn 16,7). Cristo es exaltado como Señor (*Kyrios*) sobre todo poder (Ef 1,21-22; Flp 2,9-11). Es Cabeza de la Iglesia ([[iglesia_cuerpo_místico|Cuerpo Místico]], Ef 1,22-23; Col 1,18-19). Es Señor del cosmos y de la historia (Ef 1,10; *Gaudium et Spes* 45). En Él se recapitulan todas las cosas (*recapitulatio*, Ef 1,10). Cristo es Rey y Juez universal (Mt 25,31-34; Jn 5,22.26-27). Es Señor de la vida eterna, fuente de juicio y de misericordia. Cristo intercede por nosotros en el cielo (Rom 8,34; Heb 7,25; 1 Jn 2,1). Permanece presente de modo invisible en la Iglesia, especialmente en la [[eucaristía|Eucaristía]]. La esperanza escatológica: «Este mismo Jesús... volverá» (Hch 1,11) (CJeS, cuarta parte: la Ascensión).
+
 ## Distinciones importantes
 
 - Ascensión (por propio poder) vs. asunción (por poder ajeno, ej. la Virgen María)

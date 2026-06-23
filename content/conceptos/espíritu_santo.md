@@ -1,7 +1,7 @@
 # Espíritu Santo
 
 > Área: Dogmática
-> Última actualización: 2026-06-20
+> Última actualización: 2026-06-21
 
 ## Definición
 
@@ -44,6 +44,14 @@ Juan Pablo II inicia su pontificado «con plena confianza en el Espíritu de Ver
 La efusión del Espíritu Santo marca «un sello imborrable en el misterio de la Redención» [RH §9]. El Espíritu de verdad es también Espíritu de libertad: «El Espíritu, que sopla donde quiere» [RH §12, citando Jn 3,8], obra más allá de los confines visibles de la Iglesia. La Iglesia, en su solicitud por el hombre, invoca al Espíritu Santo con fervor creciente: «¡Ven, Espíritu Santo! ¡Ven! ¡Ven!» [RH §18, citando la secuencia de Pentecostés]. En los hombres se revelan «las fuerzas del Espíritu, los dones del Espíritu, los frutos del Espíritu Santo» [RH §18], que son la respuesta a los materialismos de la época.
 
 Cristo ha prometido a la Iglesia «la asistencia especial del Espíritu de verdad» para custodiar fielmente la verdad revelada, concediendo el don de la infalibilidad al magisterio y el sentido de la fe a todo el Pueblo de Dios [RH §19]. María, bajo la acción particular del Espíritu de Amor, dio la vida humana al Hijo de Dios, y en Pentecostés la Iglesia nació visiblemente [RH §22].
+
+### Según UDE (1994)
+
+Juan Pablo II presenta al Espíritu Santo como protagonista de la oración: «El Espíritu viene en ayuda de nuestra debilidad, porque no sabemos pedir como conviene» (Rm 8,26). El Espíritu intercede con gemidos inefables. El Espíritu Santo como protagonista de la unidad ecuménica (UDE, Cap. II-III, XXII).
+
+### Según CJeS (1987-1988)
+
+Juan Pablo II dedica la tercera parte de su ciclo cristológico a la acción del Espíritu Santo en Cristo. Jesús es el Mesías ungido por el Espíritu Santo, según la profecía de Isaías (Is 61,1-2; Lc 4,18). Fue concebido por obra del Espíritu Santo. Toda su actividad pública se realiza en el poder del Espíritu: curaciones, exorcismos, predicación. Su resurrección es obra del Espíritu (Rom 1,4; 8,11). Jesús es quien trae el Espíritu Santo: promete el agua viva (Jn 7,37-39), anuncia el Paráclito (Jn 14-16), y después de la resurrección sopla sobre los Apóstoles diciendo: «Recibid el Espíritu Santo» (Jn 20,22), confiriéndoles el poder de perdonar los pecados. En Pentecostés, el Espíritu es derramado sobre la Iglesia (CJeS, tercera parte: catequesis sobre Jesús ungido por el Espíritu Santo).
 
 ## Distinciones importantes
 

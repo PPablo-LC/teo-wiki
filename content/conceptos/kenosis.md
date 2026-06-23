@@ -1,7 +1,7 @@
 # Kenosis
 
 > Área: Cristología
-> Última actualización: 2026-06-03
+> Última actualización: 2026-06-21
 
 ## Definición
 
@@ -34,6 +34,14 @@ La humildad de Cristo es el modelo supremo de toda humildad. «Cristo se anonad�
 > **Nota**: Fuente complementaria de carácter testimonial y pastoral, no magisterial.
 
 Las notas de las conferencias cuaresmales abordan la kenosis como el misterio central de la Pascua. El despojamiento de Cristo hasta la cruz es el camino de la exaltación: «se humilló a sí mismo, por lo cual Dios lo exaltó». La kenosis es también el camino del cristiano: la entrega total es la puerta de la gloria.
+
+### Según la Catequesis de Juan Pablo II (CrSJP)
+
+JPII profundiza en la kenosis en la catequesis 40 (17 de febrero de 1988). Citando Flp 2,6-8, explica que «se despojó de sí mismo» no significa que cesó de ser Dios —«sería un absurdo»— sino que, «siendo de condición divina», asumió una naturaleza humana privada de gloria, sometida al sufrimiento y a la muerte (CrSJP 40). Esta renuncia voluntaria se extendió incluso a los «privilegios» que habría podido gozar como hombre. El himno paulino describe la kenosis en su dimensión definitiva: «se humilló a sí mismo, obedeciendo hasta la muerte y muerte de cruz» (Flp 2,8). Desde el punto de vista humano, es el despojamiento mediante la pasión y la muerte infamante; desde el punto de vista divino, es la redención que realiza el amor misericordioso del Padre por medio del Hijo. La kenosis restablece la verdad del hombre universal: donde Adán «quiso ser como Dios», el Hijo «no retuvo ávidamente el ser igual a Dios», rehabilitando a todo hombre en su dignidad originaria (CrSJP 40).
+
+### Según CJeS (1987-1988)
+
+Juan Pablo II trata la kenosis en el contexto del Siervo de Yahvé y de la verdadera humanidad de Cristo. El himno cristológico de Flp 2,6-8 —«el cual, siendo de condición divina, no retuvo ávidamente el ser igual a Dios, sino que se despojó a sí mismo, tomando la condición de siervo»— expresa el misterio del amor humilde de Dios. Cristo se vacía de su gloria, no de su divinidad: la kenosis no es una reducción ontológica sino una manifestación de amor y de solidaridad con la humanidad (CJeS, primera parte: catequesis sobre el Siervo de Yahvé). Juan Pablo II subraya que la kenosis revaloriza la condición humana: al asumir la humanidad, Cristo eleva la naturaleza humana a una dignidad incomparable. El despojamiento llega hasta la muerte de cruz, pero es seguido de la exaltación: «Por lo cual Dios lo exaltó y le dio el nombre que está sobre todo nombre» (Flp 2,9; CJeS, sexta parte: catequesis sobre la verdadera humanidad de Cristo).
 
 ## Distinciones importantes
 

@@ -40,6 +40,10 @@ La historia tiene una «peculiar connotación escatológica»: «la vida humana 
 - CEC §54-73
 - CEC §288-305
 
+### Según UDE (1994)
+
+El sentido de la historia de la salvación. Crítica del racionalismo cartesiano. El inmanentismo y el subjetivismo moderno como alejamiento de Dios. La Ilustración y la Revolución francesa: sustitución del cristianismo por el culto a la Razón. El Dios deísta como sustituto del Dios Redentor. Consecuencia: vivir «etsi Deus non daretur». [UDE, Cap. VIII]
+
 ## Distinciones importantes
 
 - No es una historia sagrada paralela a la historia profana: toda la historia es historia de salvación

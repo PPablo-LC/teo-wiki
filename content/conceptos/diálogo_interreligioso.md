@@ -19,6 +19,10 @@ La Iglesia exhorta a sus hijos «a que, con prudencia y caridad, mediante el di�
 
 El Concilio afirma que «no podemos invocar a Dios, Padre de todos, si nos negamos a conducirnos fraternalmente con algunos hombres, creados a imagen de Dios» (NA §5). Por ello, reprueba «cualquier discriminación o vejación realizada por motivos de raza o color, de condición o religión» como ajena al espíritu de Cristo (NA §5).
 
+### Según UDE (1994)
+
+Juan Pablo II recuerda *Nostra Aetate* como fundamento conciliar del diálogo interreligioso. Afirma el respeto por lo que hay de verdadero y santo en las otras religiones. Desarrolla la doctrina de las *semina Verbi* presentes en todas las religiones. Señala el obstáculo del contra-testimonio de las sociedades occidentales «cristianas» (pone el ejemplo de Gandhi). Plantea la posibilidad de la fe implícita en Cristo como vía salvífica. Menciona los encuentros de Asís (UDE, Cap. XIII).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[ecumenismo]], [[relaciones_judaísmo]], [[relaciones_islam]], [[concilio_vaticano_ii]], [[nostra_aetate]], [[libertad_religiosa]]

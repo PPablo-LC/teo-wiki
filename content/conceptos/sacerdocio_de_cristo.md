@@ -1,7 +1,7 @@
 # Sacerdocio de Cristo
 
 > Área: Cristología / Sacramental
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-21
 
 ## Definición
 
@@ -16,6 +16,10 @@ Toda la liturgia de la Iglesia es participación en el sacerdocio de Cristo (CEC
 ### Según Royo Marín (TPCr)
 
 Royo Marín expone el sacerdocio de Cristo como fundamento del sacerdocio cristiano. Cristo, Sumo Sacerdote según el orden de Melquisedec, ofreció el sacrificio perfecto de la Nueva Alianza en la Cruz, cuyo memorial se perpetúa en la Eucaristía. El sacerdote ministerial participa del sacerdocio de Cristo y es constituido dispensador de los misterios de Dios (TPCr, Tercera Parte).
+
+### Según CJeS (1987-1988)
+
+Juan Pablo II dedica una catequesis a Cristo como Mesías-Sacerdote. La figura de Melquisedec —«rey de Salem, sacerdote de Dios Altísimo» (Gn 14,18)— prefigura a Cristo. Melquisedec ofrece pan y vino y bendice a Abrahán; en él se unen la realeza y el sacerdocio. El Salmo 110 (109),4 proclama: «Tú eres sacerdote eterno según el orden de Melquisedec». Cristo es Sumo Sacerdote no según el orden levítico (temporal y figurativo) sino según el orden de Melquisedec, eterno y universal (CJeS, catequesis sobre el Mesías-Sacerdote). La Carta a los Hebreos desarrolla esta doctrina: Cristo, Sumo Sacerdote de los bienes futuros, entra en el santuario no con sangre de machos cabríos sino con su propia sangre, obteniendo una redención eterna (Hb 9,11-12). Su sacrificio es único y perfecto, ofrecido una vez para siempre. En la Eucaristía, Cristo se ofrece «según el rito de Melquisedec» —bajo las especies de pan y vino—, perpetuando su único sacrificio sacerdotal (CJeS, catequesis sobre el Mesías-Sacerdote). El sacerdocio de Cristo es eterno: «Vive siempre para interceder por nosotros» (Hb 7,25).
 
 ## Relaciones doctrinales
 
@@ -34,3 +38,4 @@ El sacerdocio de Cristo es la fuente del [[sacerdocio]] ministerial y común, y 
 - CEC §1539-1545
 - CEC §1564
 - TPCr, Tercera Parte
+- CJeS (1987-1988), catequesis sobre el Mesías-Sacerdote

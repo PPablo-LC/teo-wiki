@@ -129,6 +129,10 @@ El P. Jorge Loring explica que «cuando nacemos a la vida natural, nacemos muert
 
 Loring subraya que «la realidad del pecado original es dogma de fe», definido por el Concilio de Trento, que «se transmite por generación, por herencia». No es un pecado personal nuestro, sino «contraído», no «cometido»; es un estado, no un acto. Por la solidaridad de Adán con toda la humanidad, su pecado nos privó de los dones extraordinarios que Dios había concedido para sus descendientes. Como ilustra Loring: «Si un monarca concede a una familia un título nobiliario con la condición de que el cabeza de familia no se haga indigno... ¿quién puede protestar si después de una ingratitud retira el título a toda la familia?» (PS §09,43,1-43,2).
 
+### Según UDE (1994)
+
+Juan Pablo II señala que la realidad del pecado original es rechazada por el pensamiento post-ilustrado. El mundo necesita ser convencido del pecado (Jn 16,8). El pecado original es una resistencia a la paternidad de Dios; tiende a abolir los «rayos de la paternidad» del misterio trinitario. [UDE, Cap. IX, XXXV]
+
 ## Distinciones importantes
 
 - Pecado original contraído ≠ pecado personal cometido.

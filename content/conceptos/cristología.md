@@ -1,7 +1,7 @@
 # Cristología
 
 > Área: Dogmática (Cristología)
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-21
 
 ## Definición
 
@@ -20,6 +20,10 @@ El CEC §430-682 desarrolla de modo sistemático el credo cristológico: «Creo 
 ### Según Royo Marín (TPCr)
 
 TPCr trata la cristología en el contexto de la perfección cristiana: Cristo es el modelo perfecto de toda santidad y el camino de unión con Dios. La contemplación de los misterios de Cristo —su vida oculta, su vida pública, su pasión y su vida gloriosa— es el medio principal de configuración con Él.
+
+### Según CJeS (1987-1988)
+
+El ciclo de catequesis «Catequesis sobre Jesús SS» constituye un curso completo de cristología impartido por Juan Pablo II en las audiencias de los miércoles (1987-1988). Sigue un método que integra Escritura, Tradición y Magisterio, recorriendo la identidad de Cristo (¿quién es?), su filiación divina, su unción por el Espíritu Santo, su autoridad divina, sus milagros como signos de su divinidad y su verdadera humanidad. Las catequesis se articulan en torno a la pregunta central de Jesús: «Y vosotros, ¿quién decís que soy yo?» (Mc 8,29), mostrando que la cristología no es una especulación abstracta sino el corazón de la fe cristiana. JPII aborda los títulos cristológicos —Mesías, Hijo de Dios, Hijo del hombre, Siervo de Yahvé, Verbo, Señor— y los desarrolla a la luz de la tradición patrística, de los concilios cristológicos (Nicea, Constantinopla, Éfeso, Calcedonia) y del magisterio contemporáneo (CJeS, primera parte: identidad de Cristo).
 
 ## Relaciones doctrinales
 

@@ -89,6 +89,14 @@ León XIV dedicó un amplio desarrollo a la dignidad humana en su discurso ante 
 
 La respuesta de Jesús a la pregunta «¿Quién es mi prójimo?» exige de cada uno «una actitud de respeto por la dignidad del otro y de cuidado solícito hacia él, aunque se trate de un extranjero o un enemigo» [EA §57].
 
+### Según UDE (1994)
+
+Juan Pablo II expone que la dignidad humana y los derechos están inscritos por el Creador en el orden de la creación (Rm 2,15); no son concesiones del Estado. El Evangelio es confirmación de los derechos humanos: la Encarnación revela la dignidad humana. Cita el «O felix culpa» del Exultet. Desarrolla la norma personalista (de *Amor y responsabilidad*): la persona es un ser cuyo único trato adecuado es el amor; exclusión del uso de la persona como objeto de placer. Critica y supera a Kant: el imperativo kantiano es negativo; el mandamiento del amor exige la afirmación positiva de la persona y la entrega sincera de sí. Cita GS 24: el hombre solo se encuentra a sí mismo mediante la entrega sincera de sí (UDE, Cap. XXX).
+
+### Según la Catequesis de Juan Pablo II (CrSJP)
+
+JPII desarrolla la relación entre la Encarnación y la dignidad humana en las catequesis 41-42. Cristo, «semejante a nosotros en todo excepto en el pecado», al compartir nuestra condición humana manifiesta la dignidad esencial de cada hombre (CrSJP 41). La Encarnación es una «revalorización» inefable del hombre y de la humanidad: Jesús comparte con cada hijo e hija del género humano la misma condición existencial, revelando así la dignidad esencial de todos (CrSJP 41). Citando GS 22, afirma que «Cristo, el nuevo Adán, manifiesta plenamente el hombre al propio hombre y le descubre la sublimidad de su vocación» (CrSJP 42). Puesto que el pecado no enriquece sino que disminuye al hombre, Cristo —que no conoció pecado— revela al hombre en su plenitud. La salvación del hombre caído es la respuesta fundamental al porqué de la Encarnación (CrSJP 42).
+
 ## Distinciones importantes
 
 - **Dignidad natural**: la que posee todo ser humano por haber sido creado a imagen de Dios

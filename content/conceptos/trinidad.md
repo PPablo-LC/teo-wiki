@@ -1,7 +1,7 @@
 # Trinidad
 
 > Área: Dogmática
-> Última actualización: 2026-06-03
+> Última actualización: 2026-06-21
 
 ## Definición
 Misterio central de la fe cristiana: un solo Dios en tres Personas distintas —Padre, Hijo y Espíritu Santo—, consubstanciales e indivisibles. Es el misterio de Dios en sí mismo, fuente de todos los otros misterios de la fe.
@@ -28,6 +28,14 @@ Santo Tomás trata la pluralidad de personas divinas en SmTh Iª q.30. Hay varia
 
 ### Según Royo Marín (TPCr)
 El Capítulo 2 de la Primera Parte está dedicado a la Santísima Trinidad. La inhabitación de la Trinidad en el alma del justo es una de las verdades más claramente reveladas. Las tres Personas habitan en el alma en gracia como en un templo. La vida cristiana consiste en intensificar la vida trinitaria hasta la unión transformante. Los místicos experimentales —Santa Teresa, San Juan de la Cruz, Sor Isabel de la Trinidad— describen experiencias trinitarias inefables, «a manera de pregusto y anticipo de la bienaventuranza eterna».
+
+### Según UDE (1994)
+
+El libro tiene una dimensión trinitaria constante. El Padre que ama, el Hijo que redime, el Espíritu Santo que es protagonista de la oración y la unidad. La revelación del Padre a través del Hijo en el Espíritu. La vida íntima de Dios revelada en Cristo (UDE, múltiples capítulos).
+
+### Según CJeS (1987-1988)
+
+Juan Pablo II muestra que Jesús revela la Trinidad. En la Anunciación se manifiestan las tres Personas: el Padre envía al Hijo, que es concebido por obra del Espíritu Santo en el seno de María (Lc 1,35; CJeS, primera parte). En el Bautismo de Jesús, la teofanía trinitaria es manifiesta: el Padre habla desde el cielo, el Hijo es bautizado, el Espíritu Santo desciende en forma de paloma (CJeS, tercera parte: catequesis sobre el Bautismo de Jesús). Jesús revela la intimidad del Padre: «Nadie conoce al Hijo sino el Padre, ni al Padre conoce nadie sino el Hijo, y aquel a quien el Hijo se lo quiera revelar» (Mt 11,27). «Yo y el Padre somos una sola cosa» (Jn 10,30). La oración sacerdotal (Jn 17) manifiesta la comunión trinitaria y la misión del Hijo. Jesús promete el Espíritu Santo, el Paráclito, que procede del Padre (Jn 14,16-17.26; 15,26; CJeS, tercera parte). La fórmula bautismal trinitaria (Mt 28,19) sella la revelación del Dios Trino (CJeS, tercera parte: catequesis sobre la revelación de la Trinidad).
 
 ## Distinciones importantes
 - Trinidad económica (revelada en las misiones divinas) ≠ Trinidad inmanente (Dios en sí mismo)

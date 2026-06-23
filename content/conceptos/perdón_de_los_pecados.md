@@ -1,7 +1,7 @@
 # Perdón de los pecados
 
 > Área: Sacramental
-> Última actualización: 2026-06-15
+> Última actualización: 2026-06-21
 
 ## Definición
 
@@ -46,6 +46,10 @@ a.4 — Perdonada la culpa, permanece el débito de la pena temporal. La aversi�
 a.5 — Permanecen secuelas (reliquiae) del pecado: disposiciones causadas por los actos precedentes, debilitadas pero no eliminadas, que son removidas gradualmente por la gracia cooperante.
 
 a.6 — La remisión de la culpa es efecto de la penitencia principalmente como sacramento (por el poder de las llaves) y secundariamente como virtud (por los actos del penitente subordinados a las llaves).
+
+### Según la Catequesis de Juan Pablo II (CrSJP)
+
+Juan Pablo II desarrolla el poder divino de Jesús para perdonar los pecados. Jesús perdona al paralítico: «Hijo, tus pecados te son perdonados» (Mc 2,5), provocando la reacción de los escribas («¿Quién puede perdonar pecados sino solo Dios?»), mostrando así que Jesús obra con poder divino. Perdona a la mujer pecadora en casa de Simón el fariseo (Lc 7,48) y a la mujer adúltera (Jn 8,10-11). La parábola de los dos deudores (Lc 7,41-43) enseña que el perdón gratuito de Dios suscita el amor agradecido. Después de la resurrección, Jesús confiere este poder a los Apóstoles: «Recibid el Espíritu Santo; a quienes perdonéis los pecados, les quedan perdonados» (Jn 20,22-23). El perdón de los pecados brota del sacrificio redentor de Cristo en la cruz (CrSJP, Catequesis 31).
 
 ## Distinciones importantes
 

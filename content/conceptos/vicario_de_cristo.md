@@ -31,6 +31,10 @@ El Romano Pontífice es el Vicario de Cristo en la tierra, cabeza visible de la 
 [TPCr, Tercera Parte, Libro II, Cap. I]
 
 
+### Según UDE (1994)
+
+El título en el contexto del Evangelio total. *Christianus alter Christus*. *In persona Christi*. *Servus servorum Dei* (San Gregorio Magno). Todo obispo es Vicarius Christi para su Iglesia. Dignidad de las personas consagradas: dimensión esponsal de la Iglesia. [UDE, Cap. I]
+
 ## Distinciones importantes
 
 - Vicario de Cristo (título del Papa como representante de Cristo) vs. [[vicario_de_dios]] (que se aplica en otros contextos al Papa o a los obispos como representantes de Dios en sentido análogo)

@@ -25,6 +25,10 @@ Cristo vendrá en gloria al final de la historia para juzgar a vivos y muertos (
 
 Royo Marín considera la exaltación de Cristo como el término de su misión redentora. La humanidad de Cristo recibe en la resurrección y ascensión la gloria que le corresponde por sus méritos. Cristo sube al cielo como Cabeza de la Iglesia, abriendo el camino a sus miembros. La contemplación de Cristo exaltado es, para Royo Marín, un grado superior de oración que sigue a la meditación de la Pasión: del dolor de la cruz se pasa a la alegría de la gloria.
 
+### Según la Catequesis de Juan Pablo II (CrSJP)
+
+JPII vincula la exaltación directamente con la kenosis en la catequesis 40. Comentando Flp 2,9 —«Por lo cual Dios le exaltó y le otorgó el nombre, que está sobre todo nombre»— explica que la humillación voluntaria de Cristo es seguida por la exaltación. Citando a San Atanasio, precisa que «esta expresión 'le exaltó' no pretende significar que haya sido exaltada la naturaleza del Verbo... sino la exaltación de la naturaleza humana» (CrSJP 40). Solo lo que es humilde es susceptible de ser ensalzado. Toda la naturaleza humana, humillada por el pecado, halla en la exaltación de Cristo-hombre la fuente de su nueva gloria (CrSJP 40).
+
 ## Distinciones importantes
 
 - Exaltación (por derecho propio, mérito de Cristo) vs. asunción (por gracia ajena, ej. la Virgen María)

@@ -23,6 +23,12 @@ La expresión tiene dos significados relacionados: "comunión en las cosas santa
 
 **Intercesión de los santos (Suppl. q.72 a.1-3).** Los santos en el cielo interceden por nosotros, pues conocen nuestras oraciones en el Verbo.
 
+### Según UDE (1994)
+
+Juan Pablo II aborda la comunión de los santos en los Capítulos XXIII-XXIV, en el contexto del ecumenismo y del Concilio Vaticano II. La Iglesia es comunión —una comunidad que trasciende las fronteras de la muerte. El Papa sitúa la comunión de los santos en el marco más amplio de la unidad de la Iglesia y la obra del Espíritu Santo.
+
+El Papa habla de la oración por los difuntos como expresión del vínculo viviente entre la Iglesia militante y la Iglesia purgante. La comunión de los santos es la expresión de la fe en Cristo, «que es la única fuente de vida y de santidad para todos». En el contexto de las religiones no cristianas, menciona que la veneración de los antepasados en las religiones animistas puede ser «una cierta preparación para la fe cristiana en la comunión de los santos, por la que todos los creyentes —vivos o muertos— forman una única comunidad, un único cuerpo» (UDE, Cap. XIII, XXIII-XXIV).
+
 ## Distinciones importantes
 
 - No es solo comunión entre santos canonizados, sino entre todos los bautizados en estado de gracia

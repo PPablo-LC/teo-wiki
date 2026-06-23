@@ -213,6 +213,14 @@ Es necesario que los fieles sean conscientes de que la Eucaristía es «un inmen
 
 Bajo las especies eucarísticas «Cristo todo entero está presente en su "realidad física" aún corporalmente» [EA §12, citando a Pablo VI, Mysterium fidei].
 
+### Según UDE (1994)
+
+Juan Pablo II afirma la presencia especial de Cristo en cada sacerdote que actúa *in persona Christi*. La Eucaristía como fuente de vida eterna (UDE, Cap. I, XII).
+
+### Según CJeS (1987-1989)
+
+Juan Pablo II trata la institución de la Eucaristía en la Última Cena como el sacramento de la Nueva Alianza, en el contexto de la institución de la Iglesia. La Eucaristía es fuente de unidad: «un solo pan, un solo cuerpo, somos muchos uno solo» (1 Cor 10,17). Cristo está presente en la Eucaristía de modo real y sustancial. El sacrificio de la Cruz se hace presente sacramentalmente en la Eucaristía. La sangre y el agua que brotan del costado traspasado de Cristo (Jn 19,34) simbolizan los sacramentos del [[bautismo]] y la Eucaristía, y el don del Espíritu Santo (CJeS, segunda parte: venida del Reino y fundación de la Iglesia; cuarta parte: palabras de Cristo en la Cruz).
+
 ## Distinciones importantes
 
 - **Transubstanciación**: cambio de sustancia, permaneciendo los accidentes

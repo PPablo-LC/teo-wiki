@@ -23,6 +23,18 @@ La Ley evangélica lleva a plenitud los mandamientos de la Ley (§1968). "Revela
 
 Royo Marín desarrolla ampliamente la doctrina de la Ley nueva como la ley de la gracia que perfecciona la vida cristiana. La Ley nueva es la ley del amor, que se realiza por la presencia del Espíritu Santo en el alma. Los [[consejos_evangélicos]] forman parte de la Ley nueva como medios para alcanzar más perfectamente la caridad (TPCr, Primera Parte, Cap. I; Tercera Parte, Libro III).
 
+### Según la Catequesis de Juan Pablo II (CrSJP)
+
+En la catequesis 32 (14 de octubre de 1987), Juan Pablo II desarrolla la Ley nueva en el contexto del Sermón del Monte.
+
+La nueva Ley tiene su síntesis en el amor. Jesús proclama una «justicia» superior a la de los escribas y fariseos (Mt 5,20), una observancia de la Ley animada por el nuevo espíritu evangélico de caridad y de sinceridad (CrSJP 32 §4).
+
+Jesús no vino a abrogar la Ley sino a consumarla (Mt 5,17). La plenitud de la Ley se manifiesta en el amor a Dios y al prójimo: «De estos dos preceptos penden la Ley y los Profetas» (Mt 22,40). Este cumplimiento corresponde al «espíritu» de la Ley, que Jesús recoge, sintetiza y propone con la autoridad de quien es Señor también de la Ley (CrSJP 32 §3).
+
+Las seis antítesis del Sermón del Monte muestran cómo Jesús lleva los mandamientos a su plenitud. Jesús concluye: «Sed perfectos como perfecto es vuestro Padre celestial» (Mt 5,48). La nueva Ley que Él ha traído tiene su síntesis en el amor, que hará superar la contraposición amigo-enemigo y se traducirá en formas de solidaridad social y política (CrSJP 32 §8).
+
+En la expresión «Habéis oído que se dijo… Pero yo os digo», repetida seis veces, resuena el eco de la autodefinición divina «Yo soy» (cf. Jn 8,58) (CrSJP 32 §9).
+
 ### Según la Veritatis Splendor (VS)
 
 La Veritatis Splendor (§23-24) desarrolla la ley nueva siguiendo a santo Tomás: la Ley nueva es la gracia del Espíritu Santo dada mediante la fe en Cristo (siguiendo ST I-II, q.106, a.1). La ley no se contenta con decir lo que se debe hacer, sino que otorga la fuerza para «obrar la verdad» (Jn 3,21). La ley del Espíritu que da la vida en Cristo Jesús libera de la ley del pecado y de la muerte (Rm 8,2). La ley nueva es ley interior, ley de libertad, ley de amor. La gracia del Espíritu Santo sana, cura y transforma el corazón del hombre.

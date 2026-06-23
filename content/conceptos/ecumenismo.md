@@ -57,6 +57,10 @@ Se propone «que los cristianos católicos, Pastores y fieles, fomenten el encue
 
 Es necesario distinguir entre las comunidades cristianas (con las que es posible el diálogo ecuménico) y «las sectas, cultos y otros movimientos pseudoreligiosos» [EA §49].
 
+### Según UDE (1994)
+
+Juan Pablo II expresa el esfuerzo por la reunificación según la oración de Cristo (Jn 17,21). Lo que nos une es más grande que lo que nos divide. Señala los decretos conciliares clave: *Unitatis redintegratio* y *Dignitatis humanae*. Menciona las siete Iglesias católicas orientales. La influencia de la I y II Guerra Mundial y el Holocausto en la conciencia ecuménica. El diálogo con los judíos como «hermanos mayores». El Espíritu Santo como protagonista de la unidad. El primer milenio: Iglesia indivisa; segundo milenio: divisiones; necesario recomponer hacia el tercer milenio. «El que comenzó la obra la llevará a cumplimiento» (Flp 1,6) (UDE, Cap. XXII-XXIII).
+
 ## Distinciones importantes
 
 - **Ecumenismo espiritual**: oración, conversión y santidad como alma del movimiento ecuménico.

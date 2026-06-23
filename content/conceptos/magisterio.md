@@ -51,6 +51,10 @@ Este discernimiento «no debe entenderse en primer término de forma negativa, c
 
 La *Redemptor Hominis* presenta a la Iglesia como «sujeto social de la responsabilidad de la verdad divina» (RH §19). Cristo mismo, para garantizar la fidelidad a la verdad divina, «prometió a la Iglesia la asistencia especial del Espíritu de verdad, dio el don de la infalibilidad a aquellos a quienes ha confiado el mandato de transmitir esta verdad y de enseñarla —como había definido ya claramente el Concilio Vaticano I y, después, repitió el Concilio Vaticano II— y dotó, además, a todo el Pueblo de Dios de un especial sentido de la fe» (RH §19). El Magisterio, confiado a los Obispos «unidos con el vínculo de la comunión jerárquica con el Sucesor de Pedro», ejerce su solicitud en la enseñanza y la pastoral (RH §19). La participación en la misión profética de Cristo «forja la vida de toda la Iglesia, en su dimensión fundamental», y compete de modo particular a los Pastores de la Iglesia, quienes enseñan y transmiten la doctrina de la fe y de la moral cristiana, contribuyendo a reunir al Pueblo de Dios en torno a Cristo y preparando a la participación en la Eucaristía y la vida sacramental (RH §19). Juan Pablo II insiste en que la fidelidad a la verdad divina debe ser «una cualidad constitutiva de la fe de la Iglesia, ya sea cuando enseña, ya sea cuando la profesa» (RH §19).
 
+### Según UDE (1994)
+
+Juan Pablo II comparte su experiencia personal del Vaticano II. Defiende el Concilio contra interpretaciones tendenciosas. El Catecismo de la Iglesia Católica (1992) como fruto postconciliar. El nuevo Código de Derecho Canónico. *Veritatis splendor*: el esplendor de la verdad comienza a penetrar las tinieblas. El Concilio como tarea para muchas generaciones (UDE, Cap. XXIV-XXV, XXVII).
+
 ## Distinciones importantes
 
 - Magisterio solemne (extraordinario): definiciones ex cathedra del Papa y Concilios ecuménicos

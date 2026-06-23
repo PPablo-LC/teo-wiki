@@ -1,7 +1,7 @@
 # Realeza de Cristo
 
 > Área: Cristología
-> Última actualización: 2026-06-20
+> Última actualización: 2026-06-21
 
 ## Definición
 
@@ -16,6 +16,10 @@ Jesús es Rey por derecho de naturaleza (como Hijo de Dios) y por derecho de con
 ### Según la Vida de Jesús (VJ)
 
 La Vida de Jesús (VJ) presenta la realeza de Cristo manifestada en la entrada en Jerusalén (Cap. IV). Jesús permite ser aclamado como rey montado en un borriquillo: «Mira que viene a ti tu rey, justo y salvador, humilde». Pero su realeza no es de este mundo: sabe que no recibirá una corona real sino una corona de espinas. La realeza de Cristo se revela plenamente en la cruz. La multitud lo aclama como Mesías, pero Jesús conoce hasta el fondo la verdad de su misión: su reino no tiene honores ni poderes terrenos (como ya mostró en el nacimiento en Belén). Solo Él conoce que el júbilo de la multitud lo introduce en el corazón del misterio de la salvación. El camino hacia el paraíso, donde seremos amados y amaremos para siempre, pasa por la cruz.
+
+### Según CJeS (1987-1988)
+
+Juan Pablo II, en su ciclo de catequesis cristológicas, desarrolla la realeza de Cristo a partir de la promesa davídica (2 Sm 7). El ángel Gabriel anuncia a María: «El Señor Dios le dará el trono de David, su padre, y reinará sobre la casa de Jacob por los siglos, y su reino no tendrá fin» (Lc 1,32-33; CJeS, catequesis sobre el Mesías-Rey). Jesús es aclamado como rey en su entrada en Jerusalén, montado en un asno, cumpliendo Zac 9,9 —realeza humilde que anticipa la cruz. Ante Pilato, Jesús afirma: «Tú lo dices: soy rey. [...] Mi reino no es de este mundo» (Jn 18,36-37). JPII subraya que el reino de Cristo es espiritual, no político: se funda en la verdad, no en el poder de las armas (CJeS, catequesis sobre el Mesías-Rey). El título INRI proclama su realeza universal; el buen ladrón la reconoce: «Acuérdate de mí cuando vengas con tu reino» (Lc 23,42). Cristo es Rey del universo, como proclama el prefacio de Cristo Rey. Su realeza se ejercita también en la Iglesia, fundada sobre Pedro con las llaves del Reino (Mt 16,18-19). El Reino de Dios, inaugurado por Cristo, está ya presente en la Iglesia pero espera su consumación escatológica (CJeS, catequesis sobre el Reino de Dios y sobre la institución del Reino).
 
 ## Distinciones importantes
 
@@ -33,5 +37,6 @@ Se relaciona con [[entrada_en_jerusalén]], [[reino_de_dios]], [[pasión_de_cris
 
 ## Referencias
 
-- Zac 9,9; Jn 18,33-38
+- Zac 9,9; Jn 18,33-38; Lc 1,32-33; 2 Sm 7
 - [VJ, Cap. IV]
+- CJeS (1987-1988), catequesis sobre el Mesías-Rey, el Reino de Dios y la institución del Reino

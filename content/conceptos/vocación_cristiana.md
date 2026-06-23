@@ -29,6 +29,20 @@ Cristo enseña que «el mejor uso de la libertad es la caridad que se realiza en
 
 El Catecismo comienza afirmando que «Dios, infinitamente perfecto y bienaventurado en sí mismo, en un designio de pura bondad, creó al hombre libremente para hacerle partícipe de su vida bienaventurada» (§1-3). Todos están llamados a la santidad (§825-829). La vocación del laico es santificar el mundo desde dentro (§898-900).
 
+### Según la Catequesis de Juan Pablo II (CrSJP)
+
+En la catequesis 34 (28 de octubre de 1987), Juan Pablo II desarrolla la vocación cristiana como seguimiento de Cristo.
+
+Jesús llama a seguirle personalmente. Esta llamada está en el centro mismo del Evangelio (CrSJP 34 §3). La vocación cristiana implica una dedicación radical: dejar padre, madre, esposa, hijos, campos por su causa y el Evangelio (Mt 19,29; Mc 10,29-30) (CrSJP 34 §4).
+
+«El que ama al padre o a la madre más que a mí, no es digno de mí; y el que no toma su cruz y sigue en pos de mí, no es digno de mí» (Mt 10,37-38). Lucas formula: «Si alguno viene a mí y no aborrece a su padre, su madre, su mujer, sus hermanos, sus hermanas y aun su propia vida, no puede ser mi discípulo» (Lc 14,26) (CrSJP 34 §5).
+
+Las formas concretas de seguir a Cristo están graduadas según las condiciones, misiones y carismas de las personas. Pero la exigencia de los consejos evangélicos de pobreza, castidad y renuncia de sí compromete a todos «secundum praeparationem animi» (S.Th. II-II q.184 a.7 ad 1), según la disponibilidad del espíritu (CrSJP 34 §5).
+
+Hay vocaciones particulares que dependen de una elección de Cristo: «Subió a un monte, y llamando a los que quiso, vinieron a Él, y designó a doce para que lo acompañaran» (Mc 3,13-14). Jesús dice: «No me habéis elegido vosotros a mí, sino yo os he elegido a vosotros» (Jn 15,16) (CrSJP 34 §6).
+
+La vocación a la fe y al amor cristiano es universal y obligatoria: fe en la Palabra de Jesús, amor a Dios sobre todas las cosas y al prójimo como a nosotros mismos (CrSJP 34 §6).
+
 ## Distinciones importantes
 
 - Vocación universal a la santidad (común a todos los bautizados) vs. vocación particular (a un estado de vida)

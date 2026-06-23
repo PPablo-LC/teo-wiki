@@ -27,6 +27,14 @@ El Concilio Vaticano II abrió la Iglesia a todo el mundo: «La Constitución *G
 
 La doctrina social reconoce la contribución de Europa a la humanidad mediante la evangelización, pero también los fallos de la colonización y la necesidad de reconocer los derechos de las naciones y los pueblos.
 
+### Según UDE (1994)
+
+La Introducción del libro (a cargo de Vittorio Messori) aborda las raíces cristianas de Europa. Messori sitúa el pontificado de Juan Pablo II en el contexto europeo, señalando la perplejidad de quienes ven la Europa cristiana como «un fenómeno histórico que había que relegar ya a los archivos». La referencia a Santiago de Compostela (1989) y a Jasna Góra (1991) muestra la vitalidad de las peregrinaciones como expresión de la identidad cristiana europea.
+
+El Papa mismo desarrolla la historia de la evangelización de Europa en el Capítulo XVIII: desde San Pablo en el areópago de Atenas, pasando por la primera evangelización de Europa, la misión de Cirilo y Metodio como apóstoles de los eslavos que pusieron «los fundamentos de las culturas eslavas», hasta el descubrimiento de América y la evangelización del Nuevo Mundo.
+
+Señala que la nueva evangelización tiene una urgencia especial en el «Viejo Mundo», especialmente en Europa, donde el modelo tradicional, cuantitativo, se transforma en un modelo nuevo, cualitativo (UDE, Cap. XVIII, XXVI).
+
 ## Distinciones importantes
 
 - **Europa cristiana ≠ Europa católica**: incluye las diversas tradiciones cristianas (latina, bizantina, protestante).

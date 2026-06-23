@@ -69,6 +69,10 @@ La Vida de Jesús (VJ) narra la Pasión desde la agonía en Getsemaní hasta la 
 
 [VJ, Cap. VI]
 
+### Según CJeS (1987-1989)
+
+Juan Pablo II examina las causas históricas de la muerte de Cristo: la envidia, el conflicto con el Sanedrín, el proceso ante Pilato y la condena. Jesús tenía plena conciencia mesiánica y vocación al sacrificio redentor, manifestada en los tres anuncios de la Pasión. La kénosis y la obediencia hasta la muerte (Flp 2,6-8) contrastan con la desobediencia de Adán. Las siete palabras de Cristo en la Cruz revelan las dimensiones de la Pasión: el perdón («Padre, perdónalos, porque no saben lo que hacen», Lc 23,34), la promesa del Paraíso al buen ladrón (Dismas: «Hoy estarás conmigo en el Paraíso», Lc 23,43), el don de María a la humanidad («Mujer, he ahí a tu hijo», Jn 19,26-27), el grito de abandono («Dios mío, Dios mío, ¿por qué me has abandonado?», Mc 15,34; Sal 22), la sed de conversión y humanidad nueva («Tengo sed», Jn 19,28), la consumación de la obra redentora («Todo está cumplido», Jn 19,30), y la entrega confiada («Padre, en tus manos encomiendo mi espíritu», Lc 23,46; Sal 31). La sangre y el agua del costado traspasado (Jn 19,34) simbolizan el Bautismo, la Eucaristía y el don del Espíritu Santo. Cristo es el [[cordero_pascual]] de la Nueva Alianza: «no le quebrarán hueso alguno» (Ex 12,46), y «mirarán al que traspasaron» (Zac 12,10) (CJeS, tercera parte: valor redentivo de la Pasión; cuarta parte: palabras de Cristo en la Cruz).
+
 ## Distinciones importantes
 
 - La Pasión no fue una fatalidad sino una entrega voluntaria

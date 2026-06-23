@@ -1,7 +1,7 @@
 # Verbo divino
 
 > Área: Dogmática (Trinidad)
-> Última actualización: 2026-06-03
+> Última actualización: 2026-06-21
 
 ## Definición
 
@@ -20,6 +20,9 @@ Los Apóstoles confiesan a Jesús como «el Verbo que en el principio estaba jun
 
 Santo Tomás trata el Verbo divino en SmTh Iª q.34. En Dios, la Palabra tomada en sentido propio es nombre personal, no esencial (a.1): significa lo concebido en el entendimiento, que procede del conocimiento del que concibe, y por eso indica origen y pertenece a la razón de los nombres personales. La Palabra es el nombre propio del Hijo (a.2), pues la persona que procede por emanación intelectual es llamada Hijo, y esta procesión es generación; por eso solo el Hijo es llamado propiamente Palabra. El nombre Palabra implica relación con la criatura (a.3), pues Dios, conociéndose con un solo acto, conoce toda criatura; la única Palabra divina es expresiva del Padre y de toda criatura, y con respecto a las criaturas es expresiva y operativa: «Lo dijo, y se hizo» (Sal 32,9).
 
+### Según CJeS (1987-1988)
+
+Juan Pablo II desarrolla ampliamente el prólogo de Juan (Jn 1,1-18) en su ciclo cristológico. El Verbo (Logos) es eterno: «En el principio existía el Verbo, y el Verbo estaba junto a Dios, y el Verbo era Dios» (Jn 1,1). Precede a toda la creación: «Todo fue hecho por Él, y sin Él no se hizo nada de cuanto ha sido hecho» (Jn 1,3). Es la vida y la luz de los hombres (Jn 1,4). En la plenitud de los tiempos, «el Verbo se hizo carne y habitó entre nosotros» (Jn 1,14). JPII relaciona el Logos joánico con la Sabiduría personificada del AT (hochma) y con la Palabra creadora de Dios (dabar): el Logos es la Palabra eterna del Padre, por quien fueron creadas todas las cosas y que ahora se hace hombre para nuestra salvación. La gloria del Unigénito —«lleno de gracia y de verdad» (Jn 1,14)— es la plenitud de la revelación de Dios en Cristo (CJeS, segunda parte: catequesis sobre el Verbo divino).
 
 ## Distinciones importantes
 

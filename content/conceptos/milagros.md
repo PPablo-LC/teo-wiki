@@ -1,7 +1,7 @@
 # Milagros
 
 > Área: Teología Fundamental
-> Última actualización: 2026-06-12
+> Última actualización: 2026-06-21
 
 ## Definición
 
@@ -34,6 +34,9 @@ TPCr trata los milagros como motivos de credibilidad de la revelación. Se disti
 
 Loring dedica una extensa sección a los milagros como prueba de la verdad de la Iglesia Católica [PS §37,13]. El Concilio Vaticano I afirma que los milagros son posibles, pueden ser conocidos con certeza, y con ellos se prueba legítimamente el origen divino de la Religión Cristiana. Presenta casos documentados de milagros contemporáneos: las curaciones de Lourdes, donde una Oficina de Comprobaciones Médicas —abierta a médicos de toda creencia— ha certificado curaciones científicamente inexplicables, instantáneas y duraderas. Narra el milagro de Miguel Juan Pellicer (el Cojo de Calanda), cuya pierna amputada le fue restituida por intercesión de la Virgen del Pilar, con acta notarial firmada por veinticinco testigos [PS §37,13]. Otro caso es la curación instantánea de Manuela Cortés, ciega irreversible, al invocar a la Virgen de Fátima. Concluye que «los milagros confirman nuestra fe en Cristo, en la Virgen y en la Iglesia Católica» [PS §37,13].
 
+### Según CJeS (1987-1988)
+
+Juan Pablo II dedica la quinta parte de su ciclo cristológico a los milagros de Cristo como manifestación de su poder divino. Los milagros son signos salvíficos que revelan la identidad de Jesús: tienen un significado más profundo que el mero prodigio exterior. San Agustín enseña que la curación del alma es más importante que la del cuerpo. Los exorcismos manifiestan la victoria de Cristo sobre el poder del mal. La resurrección de Lázaro, del hijo de la viuda de Naín y de la hija de Jairo muestran el poder de Cristo sobre la muerte. Los milagros sobre la naturaleza (tempestad calmada, pesca milagrosa, agua convertida en vino en Caná) revelan su señorío sobre la creación. La multiplicación de los panes prefigura la Eucaristía. Los milagros son también signos del amor misericordioso de Dios: Jesús nunca usa su poder para castigar, sino para sanar y salvar (CJeS, quinta parte: catequesis sobre los milagros de Cristo). El milagro suscita y fortalece la fe: «Tu fe te ha salvado» (Mc 5,34). La fe de María en la Anunciación y en Caná, la del centurión, la de Jairo —«no temas, solo cree»—, la del padre del epiléptico —«creo, ayuda a mi poca fe»—, la de la cananea —«mujer, grande es tu fe»— son modelos. La resurrección de Cristo es el signo definitivo, el signo de Jonás (CJeS, quinta parte: catequesis sobre el milagro como llamada a la fe).
 
 ## Distinciones importantes
 

@@ -49,6 +49,10 @@ Tomás de Aquino dedica la cuestión 59 de la IIIª Pars a la potestad judicial 
 
 El Juicio final manifestará los torrentes de bendiciones derramadas sobre el mundo por el sacerdocio de Cristo (TPCr, Tercera Parte, Libro III). La consideración del Juicio final es un motivo para la perseverancia y la fidelidad. Los santos, que ya han sido juzgados en el juicio particular, aguardan la manifestación plena de la justicia de Dios en el Juicio final.
 
+### Según UDE (1994)
+
+Según las obras de caridad (Mt 25). El juicio a través del amor. El infierno como misterio inescrutable. El Purgatorio como purificación por el Amor mismo. [UDE, Cap. XII, XXVIII]
+
 ## Distinciones importantes
 
 - Juicio particular: ocurre inmediatamente después de la muerte de cada persona

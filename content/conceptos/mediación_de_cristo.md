@@ -1,7 +1,7 @@
 # Mediación de Cristo
 
 > Área: Dogmática / Cristología
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-21
 
 ## Definición
 
@@ -22,6 +22,14 @@ Cristo Jesús es el único mediador entre Dios y los hombres (§1544-1545). Jesu
 Cristo es el único mediador de redención, pero nada impide que los santos sean mediadores de intercesión. La eficacia de sus satisfacciones y méritos es rigurosamente infinita e inagotable, y continúa en el cielo intercediendo sin cesar por nosotros.
 
 [TPCr, Parte I; TPCr, Tercera Parte, Libro II, Cap. III]
+
+### Según UDE (1994)
+
+Unicidad de la mediación de Cristo (1 Tim 2,5). Cristo es el único mediador entre Dios y los hombres. La Iglesia como instrumento de esta mediación. [UDE, Cap. XXI]
+
+### Según CJeS (1987-1989)
+
+Juan Pablo II afirma a Cristo como el único Mediador entre Dios y los hombres (1 Tim 2,5; Heb 9,15). El sacrificio de Cristo en la Cruz es el acto mediador por excelencia: su muerte tiene valor sustitutivo y representativo, ofreciendo a Dios una satisfacción superabundante por los pecados de todos los hombres. La mediación de Cristo se prolonga en su intercesión celestial: Cristo vive para interceder por nosotros (Rom 8,34; Heb 7,25; 1 Jn 2,1). Como [[jesucristo_redentor|Redentor]], Cristo es el único camino al Padre (Jn 14,6). Su mediación es única, universal y suficiente, y no excluye sino que funda formas participadas de mediación —como la [[maternidad_espiritual|materna]] de María y la intercesión de los santos—, las cuales reciben su eficacia de la única mediación de Cristo (CJeS, tercera parte: valor redentivo de la Pasión; cuarta parte: la Ascensión).
 
 ## Distinciones importantes
 

@@ -1,7 +1,7 @@
 # Evangelio
 
 > Área: Dogmática (Revelación)
-> Última actualización: 2026-05-29
+> Última actualización: 2026-06-21
 
 ## Definición
 
@@ -35,6 +35,10 @@ Los cuatro Evangelios tienen origen apostólico y la Iglesia afirma su historici
 - Los cuatro Evangelios tienen origen apostólico: los Apóstoles predicaron por mandato de Cristo y luego, bajo inspiración del Espíritu Santo, ellos y los varones apostólicos los transmitieron por escrito como fundamento de la fe (DV 18).
 - La Iglesia afirma sin vacilar la historicidad de los Evangelios: comunican fielmente lo que Jesús hizo y enseñó realmente (DV 19).
 - Describe las tres etapas de formación evangélica (DV 19): predicación apostólica post-ascensión, con la inteligencia creciente de los Apóstoles; selección, síntesis y explicación de los autores sagrados según la condición de las Iglesias; forma de proclamación que transmite la verdad sincera acerca de Jesús.
+
+### Según CJeS (1987-1989)
+
+Juan Pablo II desarrolla en su catequesis sobre la misión profética de Cristo que Jesús es el Evangelio mismo: la Buena Nueva es inseparable de su persona (cf. *Evangelii Nuntiandi*). Cristo es el «testigo fiel» de la verdad: «Para esto he nacido... para dar testimonio de la verdad» (Jn 18,37). El anuncio del [[reino_de_dios]] constituye el núcleo de su predicación profética; las parábolas del Reino (sembrador, grano de mostaza, levadura, cizaña, banquete de bodas) y las [[bienaventuranzas]] como programa del Evangelio son los contenidos fundamentales de esta proclamación. Cristo revela al Padre: «Quien me ve a mí, ve al Padre» (Jn 14,9), manifestando la unión trinitaria del Hijo con el Padre y su consustancialidad. Como [[cristo_maestro|Maestro]] divino, enseña con autoridad: «Se ha dicho... pero yo os digo», cumpliendo la Ley y los Profetas. La verdad proclamada por Cristo interpela la libertad humana y la conciencia, en consonancia con la doctrina de la [[dignidad_humana|Dignitatis Humanae]] (CJeS, segunda parte: misión profética de Cristo).
 
 ## Distinciones importantes
 

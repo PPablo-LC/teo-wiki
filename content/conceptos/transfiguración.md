@@ -1,7 +1,7 @@
 # Transfiguración
 
 > Área: Cristología
-> Última actualización: 2026-06-12
+> Última actualización: 2026-06-21
 
 ## Definición
 
@@ -38,6 +38,10 @@ La TPCr usa «transfiguración» para describir el efecto del éxtasis sobre el 
 ### Según la Vida de Jesús (VJ)
 
 La Vida de Jesús (VJ) contempla la Transfiguración en el monte Tabor (Cap. IV). Jesús tomó a Pedro, Santiago y Juan y se transfiguró ante ellos: «el aspecto de su rostro cambió y sus vestidos brillaban de blancos». Los Apóstoles, arrebatados por la visión e invadidos por el miedo, expresan el deseo de prolongarla: «Maestro, ¡qué hermoso es estar aquí!». La voz del Padre confirma: «Este es mi Hijo amado, escuchadle». La Transfiguración preparó a los Apóstoles para las pruebas de Getsemaní, la Pasión y el Calvario: Jesús quería demostrarles el esplendor de la gloria que brilla en Él. La Transfiguración sitúa en primer plano a Dios Padre, presente junto al Hijo. Recuerda el sacrificio de Isaac: el Padre no escatimó a su propio Hijo sino que lo entregó para la salvación. Desde el Tabor hasta el Gólgota: el sacrificio de Cristo encierra la mayor fuerza de transformación del hombre y de la historia.
+
+### Según CJeS (1987-1988)
+
+Juan Pablo II trata la Transfiguración en el contexto de la teofanía trinitaria. En el Tabor, el Padre da testimonio: «Este es mi Hijo amado, escuchadle» (Mc 9,7). La Transfiguración confirma la confesión de Pedro y prepara a los discípulos para la pasión. La gloria manifestada anticipa la resurrección y revela la divinidad de Cristo. Como en el Bautismo, la voz del Padre y la presencia del Espíritu (en la nube luminosa) manifiestan la Trinidad (CJeS, segunda parte: catequesis sobre el testimonio del Padre acerca del Hijo).
 
 ## Distinciones importantes
 

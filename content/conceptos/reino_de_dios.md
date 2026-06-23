@@ -1,7 +1,7 @@
 # Reino de Dios
 
 > Área: Dogmática
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-21
 
 ## Definición
 
@@ -51,6 +51,18 @@ El Reino de Dios es interior (Lc 17,21): está en el alma en gracia. La vida cri
 ### Según la Vida de Jesús (VJ)
 
 La Vida de Jesús (VJ) expone el Reino de Dios como núcleo de la predicación de Jesús (Cap. III). Jesús proclama: «El tiempo se ha cumplido y el reino de Dios está cerca; convertíos y creed en el Evangelio». El Reino es la acción eficaz y misteriosa que Dios lleva a cabo en el universo y en las vicisitudes humanas. Vence las resistencias del mal con paciencia, no con prepotencia. Jesús compara el Reino con el grano de mostaza, la semilla más pequeña destinada a convertirse en árbol frondoso. El Reino es gracia, amor de Dios al mundo. Jesús nos invita a buscar activamente el Reino de Dios y su justicia. Entran en el Reino quienes eligen el camino de las bienaventuranzas, los pobres de espíritu, los que soportan con amor los sufrimientos, los puros de corazón. Todos los justos, incluso los que no conocen a Cristo, están llamados a edificar el Reino, colaborando con el Señor.
+
+### Según la Catequesis de Juan Pablo II (CrSJP)
+
+En la catequesis del 4 de noviembre de 1987, JPII desarrolla la instauración del [[reino_de_dios]] por Jesucristo como realización de las promesas del Antiguo Testamento (Dn 2,44; Sal 46/47; Sal 144/145). Jesús proclama desde el comienzo: «Cumplido es el tiempo, y el reino de Dios está cercano» (Mc 1,15), dando una nueva dirección a la esperanza escatológica de Israel: el Reino comienza ya en la historia, aunque se proyecta hacia un cumplimiento final (CrSJP, cateq. 4-XI-1987, n. 3).
+
+Jesús no solo adoctrina sobre el Reino, sino que lo instaura con poder divino. Declara: «Me ha sido dado todo poder en el cielo y en la tierra» (Mt 28,18). Expulsa demonios «por el dedo de Dios» como señal de que el Reino ha llegado (Lc 11,20). Habla del Reino como realidad viva que fermenta toda la masa humana (parábola de la levadura, Mt 13,33). Transmite el Reino a los Apóstoles: «Yo dispongo del reino a favor vuestro, como mi Padre ha dispuesto de él a favor mío» (Lc 22,29), vinculándolo al poder de perdonar pecados y al [[misterio_pascual]] (CrSJP, cateq. 4-XI-1987, nn. 5-9).
+
+### Según CJeS (1987-1989)
+
+Juan Pablo II dedica varias catequesis al Reino de Dios. El Reino es el núcleo de la predicación de Jesús: «El tiempo se ha cumplido y el Reino de Dios está cerca; convertíos y creed en el Evangelio» (Mc 1,15). Jesús anuncia la Nueva Alianza prometida por Jeremías (Jer 31,31-34) y Ezequiel (Ez 34; 36). El Reino se explica mediante parábolas (sembrador, semilla de mostaza, cizaña, tesoro escondido, perla preciosa). Las bienaventuranzas son la magna carta del Reino (CJeS, primera parte: catequesis sobre el Reino de Dios). El Reino está ya presente en la persona y obra de Cristo, pero no ha alcanzado aún su plenitud: es un «ya» y un «todavía no». La conversión es la condición para entrar en el Reino. Cristo instituye la Iglesia como comunidad del Reino y confiere a Pedro las llaves del Reino (Mt 16,18-19). La Iglesia es el germen y el principio del Reino en la tierra (CJeS, cuarta parte: catequesis sobre la institución del Reino).
+
+Desde la perspectiva de la venida del Reino, Juan Pablo II subraya su realización en Cristo como cumplimiento de las promesas del AT (Daniel, Salmos). El Reino vence al poder del mal y del demonio: «si por el dedo de Dios expulso los demonios, es que el Reino de Dios ha llegado a vosotros» (Lc 11,20). Las parábolas del sembrador y de la semilla que crece por sí sola ilustran el crecimiento misterioso del Reino. Es un Reino trascendente y universal: «Mi Reino no es de este mundo» (Jn 18,36), como declara Jesús ante Pilato. Cristo es el [[buen_pastor]] que da la vida por las ovejas (CJeS, segunda parte: venida del Reino y fundación de la Iglesia).
 
 ## Distinciones importantes
 

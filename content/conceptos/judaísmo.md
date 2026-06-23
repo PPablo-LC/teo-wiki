@@ -39,6 +39,10 @@ La Iglesia deplora los odios, persecuciones y manifestaciones de antisemitismo d
 
 «En primer lugar, aquel pueblo que recibió los testamentos y las promesas y del que Cristo nació según la carne. Por causa de los padres es un pueblo amadísimo en razón de la elección, pues Dios no se arrepiente de sus dones y de su vocación» (LG §16).
 
+### Según UDE (1994)
+
+Juan Pablo II dedica un capítulo completo al judaísmo. Recuerda *Nostra Aetate* n. 4 y afirma que el judaísmo es la religión más cercana al cristianismo. Testimonia su experiencia personal: su infancia en Wadowice con su amigo Jerzy Kluger. Habla del Holocausto (Shoá) y de Auschwitz como símbolo del antisemitismo. Define a los judíos como «hermanos mayores en la fe» (expresión usada en la sinagoga de Roma). Afirma la elección divina de Israel y que la Nueva Alianza está enraizada en la Antigua (UDE, Cap. XVI).
+
 ## Distinciones importantes
 
 - **Antigua Alianza vs. Nueva Alianza**: La Antigua Alianza no ha sido revocada; la Nueva Alianza la cumple y perfecciona. Los dones de Dios son irrevocables (Rm 11,29).

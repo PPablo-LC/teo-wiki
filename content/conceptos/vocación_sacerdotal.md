@@ -29,6 +29,10 @@ La vocación sacerdotal debe ser discernida en la comunidad cristiana. La famili
 
 La respuesta a la vocación exige una opción libre y responsable, que implica abandonar la propia voluntad para seguir a Cristo, Buen Pastor. La vocación sacerdotal es, por su naturaleza, una vocación a la santidad específica: a vivir el radicalismo evangélico mediante los consejos de obediencia, castidad y pobreza según el estilo propio del presbítero (PDV 27-30).
 
+### Según La vocación explicada (7_Lamps/VocExpl)
+
+Juan Pablo II ofrece en esta catequesis juvenil su testimonio personal como modelo de discernimiento vocacional: «En cierto momento de mi vida me convencí de que Cristo me decía lo que había dicho a miles de jóvenes antes que a mí: "¡Ven y sígueme!". Sentí muy claramente que la voz que oía en mi corazón no era humana ni una ocurrencia mía. Cristo me llamaba para servirle como sacerdote» [VocExpl, §Vocación sacerdotal]. Describe la Eucaristía como centro y culmen de la vida sacerdotal: «Nada tiene para mí mayor sentido ni me da mayor alegría que celebrar la Misa todos los días. Ha sido así desde el mismo día de mi ordenación sacerdotal. Nada lo ha cambiado, ni siquiera el llegar a ser Papa» [VocExpl, §Vocación sacerdotal]. Presenta la triple dimensión del sacerdocio —llamado, consagrado, enviado— y el sacerdote como visible referencia a Cristo: «Nadie puede ver a Cristo, pero todos ven al sacerdote y por medio de él quieren ver al Señor» [VocExpl, §Vocación sacerdotal].
+
 ### Según Don y Misterio (DyM)
 
 Juan Pablo II describe su propia [[vocación_sacerdotal]] como un misterio que comenzó en la infancia en Wadowice, maduró durante la guerra y la ocupación nazi, y se definió en el seminario clandestino de Cracovia [DyM, I-II]. La vocación es un [[admirabile_commercium]]: «un "maravilloso intercambio" entre Dios y el hombre» [DyM, VIII]. El Papa testimonia que en el momento de la ordenación, durante la postración, comprendió que la vocación significa «acoger en la propia vida —como Pedro— la Cruz de Cristo y hacerse con el Apóstol "suelo" para los hermanos» [DyM, IV]. Identifica influencias decisivas: su familia, Jan Tyranowski, los carmelitas, San Juan María Vianney y la experiencia del martirio de sacerdotes polacos durante la guerra [DyM, III].
@@ -49,7 +53,7 @@ La Carta Apostólica *Una fidelidad que genera futuro* (2025) dedica su sección
 
 ## Ver también
 
-[[formación_sacerdotal]], [[seminario]], [[celibato_sacerdotal]], [[obediencia_apostólica]], [[pecado_original]]
+[[formación_sacerdotal]], [[seminario]], [[celibato_sacerdotal]], [[obediencia_apostólica]], [[pecado_original]], [[vocacion_explicada]]
 
 ## Referencias
 

@@ -1,7 +1,7 @@
 # Descenso a los infiernos
 
 > Área: Dogmática / Cristología
-> Última actualización: 2026-05-31
+> Última actualización: 2026-06-21
 
 ## Definición
 
@@ -42,6 +42,10 @@ Santo Tomás de Aquino trata el descenso de Cristo a los infiernos en la IIIª q
 ### Según Royo Marín (TPCr)
 
 El descenso al Limbo de los Padres (o seno de Abraham) fue el acto por el cual Cristo, en el intervalo entre su muerte y resurrección, comunicó la visión beatífica a las almas de los justos del Antiguo Testamento que esperaban la redención. Es un acto de su poder real y de su misericordia [TPCr, Parte IV, Libro I, Cap. 2].
+
+### Según CJeS (1987-1989)
+
+Juan Pablo II desarrolla el descenso de Cristo a los infiernos (*sheol*/Hades) como consecuencia de su muerte real: Cristo experimentó verdaderamente la muerte y su alma descendió a la morada de los muertos. El descenso extiende la redención a los justos del AT que esperaban la salvación. Cristo tiene las llaves de la Muerte y del Hades (Rev 1,17-18). El descenso libera a los justos del AT (1 Pe 3,19; 4,6; Heb 2,14-15). La causalidad redentora de Cristo tiene un carácter metahistórico: su muerte y resurrección producen efectos salvíficos que trascienden el tiempo cronológico y alcanzan a los justos de todas las épocas (CJeS, cuarta parte: palabras de Cristo en la Cruz — descenso a los infiernos).
 
 ## Distinciones importantes
 

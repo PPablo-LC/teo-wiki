@@ -1,7 +1,7 @@
 # Jesucristo
 
 > Área: Dogmática / Cristología
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-21
 
 ## Definición
 
@@ -21,6 +21,11 @@ Calcedonia confesó «un solo y mismo Cristo, Hijo único en dos naturalezas, si
 
 La Veritatis Splendor comienza proclamando a Jesucristo como «luz verdadera que ilumina a todo hombre» (Jn 1,9) y respuesta decisiva a todos los interrogantes del hombre (§1-2). El diálogo de Jesús con el joven rico (Mt 19,16-21) constituye el fundamento bíblico de toda la encíclica. Jesús es el «Maestro bueno» que revela que solo Dios es Bueno, que enseña los mandamientos como camino de vida eterna, y que invita al seguimiento como camino de perfección. Cristo es el cumplimiento vivo de la Ley (§15), la Ley viviente y personal que da la gracia del Espíritu Santo. Él es contemporáneo a todo hombre en la Iglesia (§25). El crucificado responde al interrogante sobre libertad y normas morales (§85-87).
 
+### Según CJeS (1987-1989)
+
+El ciclo de catequesis cristológicas de Juan Pablo II constituye un curso sistemático sobre la identidad de Jesucristo. Jesús pregunta: «Y vosotros, ¿quién decís que soy yo?» (Mc 8,29). Pedro confiesa: «Tú eres el Mesías, el Hijo de Dios vivo». JPII subraya que esta confesión es fruto de la revelación del Padre: «no te ha revelado esto ni la carne ni la sangre, sino mi Padre que está en los cielos» (Mt 16,17; CJeS, primera parte: identidad de Cristo). Jesús es verdadero Dios y verdadero hombre: «Yo y el Padre somos una sola cosa» (Jn 10,30). Es el «Yo soy» (Jn 8,58), aplicándose el nombre divino de Yahvé (Ex 3,14). Es el Camino, la Verdad y la Vida (Jn 14,6); quien le ve a Él ve al Padre (Jn 14,9). Los símbolos apostólico y niceno-constantinopolitano confiesan a Cristo como «Hijo unigénito de Dios, engendrado, no creado, consubstancial al Padre» (CJeS, segunda parte: Hijo de Dios). Juan Pablo II desarrolla la exclusividad de la filiación divina de Jesús: es Hijo en sentido propio, no metafórico; solo Él puede decir Abba con plena conciencia de ser el Unigénito del Padre (CJeS, catequesis sobre la filiación divina de Cristo).
+
+En la segunda parte del ciclo, JPII desarrolla a Jesús como el Evangelio mismo, cuya persona es inseparable del mensaje que proclama. El [[reino_de_dios]] es el núcleo de su predicación profética. Jesús es el «testigo fiel» de la verdad (Jn 18,37). Su sacrificio en la Cruz es el acto supremo de amor redentor. La [[resurrección_de_cristo|Resurrección]] confirma su divinidad y lo constituye Señor (*Kyrios*) con poder (Flp 2,9-11; Rom 1,3-4). Cristo resucitado es las primicias de los que durmieron (1 Cor 15,20-22), fundamento de la esperanza cristiana y fuente de la vida nueva del creyente (CJeS, segunda parte: misión profética de Cristo; tercera parte: valor redentivo de la Pasión; cuarta parte: la Resurrección).
 
 ## Analizado para
 
