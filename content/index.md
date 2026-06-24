@@ -3,8 +3,8 @@ tags:
   - meta
   - index
 title: Wiki Index
-updated: '2026-06-20'
-note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar-indice.py'
+updated: '2026-06-24'
+note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts/regenerar-indice.py'
 ---
 
 # Wiki Index
@@ -2585,7 +2585,10 @@ note: 'Wiki index — generado automáticamente. Regenerar con scripts/regenerar
 | LV | Levantaos, Vamos — Juan Pablo II | Activo |
 | VJ | Vida de Jesús — Juan Pablo II | Activo |
 
+---
 ## Análisis cultural
 
-- [[pinocho]] — *Le avventure di Pinocchio* (Carlo Collodi)
-- [[morir-con-cero]] — *Die with Zero* (Bill Perkins)
+> Ubicadas en `wiki/analisis_cultural/`.
+
+- [[morir-con-cero]] — *Morir con cero* (Bill Perkins)
+- [[pinocho]] — *Las aventuras de Pinocho* (Carlo Collodi)
