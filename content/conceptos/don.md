@@ -28,6 +28,10 @@ El don sin correspondencia es la novedad cristiana: en lugar de buscar la recipr
 - **Don recíproco vs. don sin correspondencia**: el AT conoce sobre todo la reciprocidad; el NT enseña a dar sin esperar retorno.
 - **Carisma vs. don**: todo carisma es un don, pero no todo don es un carisma; el don de la gracia santificante es el don más excelente.
 
+## Analizado en contexto cultural
+
+- [[morir-con-cero]] — tensión: la vida, el tiempo y los bienes no se presentan como don recibido de Dios, sino como recursos que el individuo gestiona autónomamente
+
 ## Relaciones doctrinales
 
 El don se vincula con la [[gracia]], el [[Espíritu Santo]], la [[caridad]], la [[limosna]], la [[Eucaristía]], la [[redención]], el [[sacrificio]], la [[misericordia]], la [[providencia]] y la [[acción de gracias]].

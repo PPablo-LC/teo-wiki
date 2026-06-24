@@ -1,7 +1,7 @@
 # Concupiscencia
 
 > Área: Moral
-> Última actualización: 2026-06-08
+> Última actualización: 2026-06-23
 
 ## Definición
 
@@ -66,6 +66,13 @@ En el pecado original, la concupiscencia constituye el elemento material (la con
 
 Royo Marín dedica un capítulo a la concupiscencia (Parte III, Libro I, Cap. 4) como una de las tres enemigas del alma (junto al demonio y el mundo). La concupiscencia es la inclinación interna al mal que proviene de la herida del pecado original.
 
+### Según Las siete lámparas de la vida cristiana (7_Lamps)
+
+Juan Pablo II, en su audiencia sobre la [[templanza]], aborda la concupiscencia de la carne como una pasión que debe ser dominada mediante la virtud de la templanza o sobriedad. La sitúa en el marco del «yo inferior» —el cuerpo y todo lo que le pertenece: necesidades, deseos y pasiones, sobre todo las de naturaleza sensual—, que necesita ser gobernado por el «yo superior» (la razón, la voluntad, el corazón).
+
+Quien se deja arrastrar por las pasiones —el alcohólico, el drogado— renuncia al uso de la razón y deja de «ser» plenamente hombre. La [[templanza]] es indispensable para que el hombre respete su propia dignidad.
+
+La concupiscencia no se vence sin una «humildad del cuerpo» y una «humildad del corazón», que son condición imprescindible para la armonía interior y para la belleza interior del hombre. Sin esta humildad, el esfuerzo ascético no logra su fin.
 
 ## Distinciones importantes
 
@@ -90,4 +97,5 @@ La concupiscencia es consecuencia del [[pecado_original]] y pérdida del don pre
 - SmTh Iª q.80 aa.1-3; q.81 aa.1-3; q.83 a.4
 - SmTh Ia-IIae q.30 aa.1-4
 - SmTh Ia-IIae q.82 a.3
+- [7_Lamps, JPII La templanza — Audiencia general, 22-XI-1978]
 - SmTh Ia-IIae q.84 a.1

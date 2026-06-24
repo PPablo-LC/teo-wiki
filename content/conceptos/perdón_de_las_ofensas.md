@@ -1,7 +1,7 @@
 # Perdón de las ofensas
 
 > Área: Moral / Espiritualidad
-> Última actualización: 2026-06-21
+> Última actualización: 2026-06-23
 
 ## Definición
 
@@ -13,9 +13,11 @@ El perdón de las ofensas es un mandamiento evangélico tan estricto que anteced
 
 ## Perspectivas por fuente
 
-### Según Juan Pablo I (7_Lamps)
+### Según Las siete lámparas de la vida cristiana (7_Lamps)
 
-Juan Pablo I presenta el perdón de las ofensas como un mandamiento concreto contenido en el amor al prójimo, dentro de su catequesis sobre la virtud de la caridad. A diferencia de las siete obras de misericordia, que son obras positivas, el perdón de las ofensas es a menudo más exigente: supone renunciar al resentimiento, superar la ofensa recibida y responder con bien donde cabría el odio. Lo enmarca como obediencia explícita a Cristo: «Otro mandamiento: perdón de las ofensas recibidas. A este perdón parece que el Señor casi da precedencia sobre el culto», citando *Mt* 5,23-24. Señala que JPI subraya que este perdón no es fácil ni sentimental: requiere una voluntad decidida de no clausurar el corazón, porque amar a Dios en serio conduce a amar también al prójimo difícil [7_Lamps, JPI La caridad].
+Juan Pablo I incluye el perdón de las ofensas en su oración de la caridad: «Dios mío, con todo el corazón y por encima de todo os amo a Vos, bien infinito y felicidad eterna nuestra; por amor vuestro amo al prójimo como a mí mismo y perdono las ofensas recibidas». El perdón de las ofensas es parte integrante de la caridad, inseparable del amor a Dios y al prójimo.
+
+Siguiendo a Cristo, Juan Pablo I subraya que el perdón tiene precedencia incluso sobre el culto: «Si vas, pues, a presentar una ofrenda ante el altar y allí te acuerdas que tu hermano tiene algo contra ti, deja allí tu ofrenda ante el altar, ve primero a reconciliarte con tu hermano y luego vuelve a presentar tu ofrenda» (Mt 5,23-24) [7_Lamps, JPI La caridad — Audiencia general, 27-IX-1978].
 
 ### Según la Dives in misericordia (DM)
 

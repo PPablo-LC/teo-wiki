@@ -1,7 +1,7 @@
 # Virtud de la justicia
 
 > Área: Moral
-> Última actualización: 2026-06-09
+> Última actualización: 2026-06-23
 
 ## Definición
 
@@ -122,6 +122,24 @@ La justicia y la caridad:
 
 «La justicia da a cada uno lo suyo. La caridad da más que lo suyo, da de lo propio por amor. La justicia es el mínimo de conducta en el orden social. La caridad es la plenitud. La justicia es necesaria para que haya orden en la sociedad. La caridad es necesaria para que haya amor y comunión verdadera. La justicia sin caridad es fría y mecánica. La caridad sin justicia es sentimental y no respeta los derechos.»
 
+### Según Las siete lámparas de la vida cristiana (7_Lamps)
+
+En la audiencia general del 8-XI-1978, Juan Pablo II presenta la justicia como la primera de las virtudes cardinales que completa las siete lámparas de la vida cristiana junto con la fe, esperanza y caridad.
+
+**La justicia es más grande que el hombre.** El mundo no es capaz de saciar al ser creado a imagen de Dios, y a través de este hambre de justicia el hombre se abre a Dios que «es la justicia misma». De ahí la bienaventuranza: «Bienaventurados los que tienen hambre y sed de justicia, porque ellos serán hartos» (Mt 5,6).
+
+**Justicia como principio fundamental.** La justicia es principio fundamental de la existencia y coexistencia de los hombres, de las comunidades humanas, las sociedades y los pueblos. Es también principio de la existencia de la Iglesia en cuanto Pueblo de Dios y principio de coexistencia entre la Iglesia y las estructuras sociales, en particular el Estado.
+
+**Formas de justicia.** A lo largo de los siglos la justicia ha recibido definiciones según las distintas relaciones: justicia conmutativa, distributiva, legal y social.
+
+**El sistema para el hombre.** No puede ser el hombre para el sistema, sino el sistema para el hombre. Los sistemas sociales, económicos, políticos y culturales deben ser sensibles al hombre y a su bien integral; deben ser capaces de reformarse según las exigencias de la verdad total acerca del hombre.
+
+**Derechos humanos.** El gran esfuerzo de nuestros tiempos que tiende a definir y consolidar los derechos del hombre en la vida de los pueblos y Estados es valorado desde esta perspectiva.
+
+**Amor y justicia.** Cristo nos ha dado el mandamiento del amor al prójimo. No puede existir amor sin justicia. El amor «rebasa» la justicia, pero al mismo tiempo encuentra su verificación en ella. Si se tambalea la justicia, también el amor corre peligro.
+
+**Virtud del corazón.** La justicia no es una ciencia teórica. Es virtud, es capacidad del espíritu humano, de la voluntad humana e, incluso, del corazón. Es necesario orar para ser justos y saber ser justos. «Con la medida con que midiereis se os medirá» (Mt 7,2).
+
 ## Distinciones importantes
 
 - **Justicia general vs. particular**: la primera al bien común; la segunda a las relaciones entre individuos
@@ -182,3 +200,4 @@ La justicia y la caridad:
 - Romanos 13,1-7
 - I Corintios 6,1-11
 - Concilio de Trento
+- [7_Lamps, JPII La justicia — Audiencia general, 8-XI-1978]

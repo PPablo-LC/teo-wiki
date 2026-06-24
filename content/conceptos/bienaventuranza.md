@@ -68,6 +68,10 @@ El fin de la vida cristiana es la visión beatífica, que constituye la perfecci
 
 La bienaventuranza se relaciona con el [[cielo]], la [[visión_beatífica]], la [[gloria]], el [[fin_último]], la [[gracia_santificante]] y la [[comunión_de_los_santos]].
 
+## Analizado en contexto cultural
+
+- [[morir-con-cero]] — convergencia en el deseo de felicidad y la crítica a postergar el disfrute; tensión por la definición de la felicidad como maximización de experiencias subjetivas en lugar de visión beatífica de Dios
+
 ## Ver también
 
 [[cielo]], [[gloria_de_Dios]], [[visión_beatífica]], [[bienaventuranzas]], [[filiación_divina]], [[fin_último]]

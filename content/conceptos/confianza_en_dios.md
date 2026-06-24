@@ -1,7 +1,7 @@
 # Confianza en Dios
 
 > Área: Ascética / Moral
-> Última actualización: 2026-06-02
+> Última actualización: 2026-06-23
 
 ## Definición
 
@@ -33,6 +33,14 @@ En el AT, la confianza en Dios (*bataj*) es la actitud fundamental del justo, qu
 
 La confianza en Dios se opone a la [[desesperación]] y a la presunción. «Contra la desesperación y el desaliento recordarán que la misericordia de Dios es incansable en perdonar al pecador arrepentido, que la violencia de nuestros enemigos jamás podrá superar al auxilio omnipotente de Dios y que, si es cierto que por nosotros mismos nada podemos, con la gracia de Dios seremos capaces de todo» (TPCr, Tercera Parte, Libro II, Cap. II).
 
+### Según Las siete lámparas de la vida cristiana (7_Lamps)
+
+Juan Pablo I describe la [[virtud_de_la_esperanza]] como un «clima de confianza y abandono» en que el cristiano viaja, pudiendo decir con el salmista: «Señor, tú eres mi roca, mi escudo, mi fortaleza, mi refugio». Esta confianza se funda en tres certezas: «Dios es omnipotente, Dios me ama inmensamente, Dios es fiel a las promesas». Es el Dios de la misericordia quien personalmente enciende la confianza en el alma [7_Lamps, JPI La esperanza — Audiencia general, 20-IX-1978].
+
+El modelo de esta confianza es [[Abraham]], «que creyó esperando contra toda esperanza» (Rom 4,18). Aun en la adversidad —cuando el justo puede sentirse tentado a preguntar «¿Por qué duermes, Señor?»— la confianza permanece, porque Dios no abandona a quien espera en Él [7_Lamps].
+
+La confianza filial se extiende incluso al pecador arrepentido. A una mujer desalentada por su pasado, el Papa le aconsejó, citando a [[San_Francisco_de_Sales]], que viera sus faltas como «nuestras queridas imperfecciones»: «Dios detesta las faltas, porque son faltas. Pero, por otra parte, ama, en cierto sentido, las faltas en cuanto le dan ocasión a Él de mostrar su misericordia y a nosotros de permanecer humildes» [7_Lamps].
+
 ## Distinciones importantes
 
 - **Confianza filial vs. presunción**: la confianza se apoya en la misericordia de Dios con humildad; la presunción espera la salvación sin méritos ni arrepentimiento
@@ -54,3 +62,4 @@ La confianza en Dios se opone a la [[desesperación]] y a la presunción. «Cont
 - CEC §227; §271; §303-305; §982-983; §2082; §2616; §2734-2741; §2828-2830
 - TPCr, Tercera Parte, Libro II, Cap. II, Art. 2
 - [VocTeoBib, «Confianza»]
+- [7_Lamps, JPI La esperanza — Audiencia general, 20-IX-1978]

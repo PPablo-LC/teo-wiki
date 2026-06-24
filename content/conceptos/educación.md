@@ -37,6 +37,10 @@ León XIV subrayó en su discurso ante las Cortes que «la educación integral d
 
 La Vida de Jesús (VJ) dedica una sección a María y José como educadores del Niño Jesús (Cap. II). María, junto con José, introdujo a Jesús en los ritos y prescripciones de Moisés, en la oración mediante los salmos y en la historia del pueblo de Israel. Jesús se hallaba sujeto a María y a José, recibiendo de María una verdadera educación que forjó su humanidad. Los dones especiales de María la hacían especialmente apta para su misión de madre y educadora. María garantizó las condiciones favorables para el crecimiento de Jesús. Como en Jesús no había pecado, la orientación de María fue siempre positiva, excluyendo correcciones. De maestra de su hijo, María se convirtió en humilde discípula del divino Maestro. María y José son modelos de todos los educadores, mostrando el camino para una formación profunda y eficaz de los hijos.
 
+### Según la Recopilación de mensajes a las mujeres (Muj)
+
+Juan Pablo II destaca la misión educadora de la mujer como fundamental para la sociedad. La educación no puede reducirse a una «árida transmisión de nociones», sino que debe buscar el crecimiento del hombre en todas sus dimensiones [Muj 32 §2]. La mujer tiene «una singular capacidad para mirar a la persona concreta, capta sus exigencias y necesidades con intuición particular, y sabe afrontar los problemas con gran participación» [Muj 32 §2]. El influjo educativo de la mujer comienza cuando el niño aún está en el seno materno, y su papel es igualmente importante en las demás fases del período formativo [Muj 32 §2]. La creciente presencia de mujeres educadoras en la escuela abre la perspectiva de un enriquecimiento del proceso educativo, ya que «cuando en los proyectos y en las instituciones formativas colaboran juntos hombres y mujeres, el plan integral de educación queda seguramente enriquecido» [Muj 32 §2].
+
 ## Relaciones doctrinales
 
 Se relaciona con [[educación_católica]], [[cultura]], [[familia]], [[escuela_católica]], [[formación]], [[verdad]]

@@ -1,7 +1,7 @@
 # Divinización
 
 > Área: Soteriología / Gracia
-> Última actualización: 2026-06-18
+> Última actualización: 2026-06-23
 
 ## Definición
 
@@ -16,6 +16,14 @@ La divinización del hombre es el fin último de la economía de la salvación. 
 ### Según la Redemptoris Mater (RM)
 
 [JPII, Redemptoris Mater §51]: Si Dios ha querido llamar eternamente al hombre a participar de la naturaleza divina (cf. 2 P 1,4), se puede afirmar que ha predispuesto la «divinización» del hombre según su condición histórica, de suerte que, después del pecado, está dispuesto a restablecer con gran precio el designio eterno de su amor mediante la «humanización» del Hijo, consubstancial a Él. Todo lo creado y, más directamente, el hombre no puede menos de quedar asombrado ante este don, del que ha llegado a ser partícipe en el Espíritu Santo: «Porque tanto amó Dios al mundo que dio a su Hijo único» (Jn 3,16). En el centro de este misterio se halla María [RM §51].
+
+### Según Las siete lámparas de la vida cristiana (7_Lamps)
+
+Juan Pablo II completa con su audiencia sobre la [[templanza]] el ciclo de las «siete lámparas» de la vida cristiana —las tres virtudes teologales y las cuatro cardinales—, ejecutando así el «testamento» de Juan Pablo I. Este ciclo constituye una carta de los principios fundamentales de la vida cristiana que ordenan al hombre hacia su fin último en Dios.
+
+Aunque JPII no emplea explícitamente el término «divinización» en esta audiencia, su enseñanza sobre la templanza apunta a la elevación sobrenatural del hombre. La virtud —dice— brota de la vida misma y la configura; no es algo abstracto sino que se encarna en el hombre concreto que vive virtuosamente. La templanza, al hacer al hombre dueño de sí («dominio del yo superior sobre el yo inferior»), lo dispone para la belleza interior y para participar de la vida divina. «El hombre debe ser hermoso sobre todo interiormente» —esta belleza interior es reflejo de la participación en la naturaleza divina, a la que el hombre está llamado desde la creación y que es restaurada por la gracia.
+
+La «humildad del cuerpo y del corazón» que exige la templanza es condición para la armonía interior que permite al hombre ordenarse a Dios, en quien se realiza plenamente la divinización.
 
 ## Distinciones importantes
 
@@ -35,4 +43,5 @@ Se relaciona con [[gracia_santificante]], [[encarnación]], [[admirabile_commerc
 
 - [JPII, Redemptoris Mater §51]
 - 2 P 1,4
+- [7_Lamps, JPII La templanza — Audiencia general, 22-XI-1978]
 - CEC §460

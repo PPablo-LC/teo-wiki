@@ -45,6 +45,10 @@ La Veritatis Splendor dedica toda la sección II del Capítulo II a la concienci
 
 La conciencia es el «santuario del hombre» (GS 16). Debe ser seguida incluso si es errónea por ignorancia invencible. Santo Tomás (I-II q.19 a.5). Newman: la conciencia está por encima de la autoridad. [UDE, Cap. XXIX]
 
+## Analizado en contexto cultural
+
+- [[pinocho]] — el Grillo Parlante como personificación de la conciencia moral; tensión entre conciencia natural y ley divina
+
 ## Ver también
 
 [[ley_natural]], [[virtud_de_la_prudencia]], [[examen_de_conciencia]], [[actos_humanos]]

@@ -23,6 +23,10 @@ El Compendio trata la promoción humana en el Capítulo II, dentro de la misión
 
 El desarrollo no puede reducirse a una cuestión técnica, sino que debe considerar el destino universal de los bienes, la solidaridad y el bien común. La promoción humana auténtica exige la conversión del corazón y el respeto a la verdad sobre el hombre (CompDS §68).
 
+### Según la Recopilación de mensajes a las mujeres (Muj)
+
+La contribución de la mujer a la promoción humana es un tema recurrente en los mensajes de Juan Pablo II con ocasión de la Conferencia de Pekín. El Papa afirma que la mujer ofrece una «contribución indispensable en todos los campos de la promoción humana y, sobre todo, en la defensa de la vida» [Muj 35 §2]. La mujer desempeña un papel privilegiado en las situaciones de sufrimiento, enfermedad, marginación y ancianidad, donde el ser humano se muestra particularmente frágil, convirtiéndose en «ángel de consuelo» [Muj 34 §1]. La Iglesia reconoce que «la contribución de la mujer al bienestar y al progreso de la sociedad es incalculable» y que las mujeres pueden hacer mucho más para salvar a la sociedad «del virus mortal de la degradación y la violencia» [Muj 15 §5]. El Papa exhorta a las mujeres a «ofrecer generosamente su contribución indispensable en todos los campos de la promoción humana», siguiendo el ejemplo de María, en quien la feminidad encuentra expresión plena [Muj 35 §2].
+
 ### Según el Concilio Vaticano II (ConcVatII)
 
 GS 35: «El hombre vale más por lo que es que por lo que tiene.» La actividad humana, aunque procede del hombre, se ordena al hombre: no solo transforma las cosas y la sociedad, sino que se perfecciona a sí mismo.

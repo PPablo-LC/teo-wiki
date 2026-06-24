@@ -1,7 +1,7 @@
 # Virtud de la esperanza
 
 > Área: Dogmática / Moral
-> Última actualización: 2026-05-21
+> Última actualización: 2026-06-23
 
 ## Definición
 
@@ -60,6 +60,16 @@ La esperanza se apoya en la misericordia de Dios:
 
 «La esperanza cristiana no se apoya en nuestras propias fuerzas, sino en la misericordia infinita de Dios y en sus promesas. Es una confianza filial en un Padre bueno que no nos abandonará. Santo Tomás dice que el acto propio de la esperanza es la confianza, no el miedo. Tememos a Dios como Señor justo, pero esperamos en Él como Padre misericordioso.»
 
+### Según Las siete lámparas de la vida cristiana (7_Lamps)
+
+Juan Pablo I presenta la esperanza como la segunda de las «siete lámparas de la santificación». La virtud es obligatoria para todo cristiano, pero no por ello dura o fea: quien la vive viaja en un «clima de confianza y abandono», pudiendo decir con el salmista: «Señor, tú eres mi roca, mi escudo, mi fortaleza, mi refugio» [7_Lamps, JPI La esperanza — Audiencia general, 20-IX-1978].
+
+El modelo de esta esperanza es [[Abraham]], de quien San Pablo dice: «Creyó esperando contra toda esperanza» (Rom 4,18). El cristiano espera firmemente porque se agarra a tres verdades: «Dios es omnipotente, Dios me ama inmensamente, Dios es fiel a las promesas». Es el Dios de la misericordia quien enciende la confianza; el cristiano no se siente solo ni abandonado, sino «comprometido en un destino de salvación, que desembocará un día en el [[Paraíso]]» [7_Lamps].
+
+Frente a quienes —como [[Nietzsche]]— tildan la esperanza de «virtud de los débiles» o de «alienación», el Papa cita *Gaudium et spes* 34: «El mensaje cristiano, lejos de apartar a los hombres de la tarea de edificar el mundo…, les compromete más bien a ello con una obligación más exigente». La esperanza cristiana no se identifica con la mera [[promoción_humana]]; «es un error afirmar que la liberación política, económica y social coincide con la [[salvación]] en Jesucristo; que el *Regnum Dei* se identifica con el *Regnum hominis*; que *Ubi Lenin, ibi Jerusalem*». La esperanza cristiana se abre a la [[eternidad]] [7_Lamps].
+
+El Papa evoca el episodio de una mujer pecadora arrepentida a quien aconsejó, citando a [[San_Francisco_de_Sales]], que considerara sus faltas como «nuestras queridas imperfecciones»: «Dios detesta las faltas, porque son faltas. Pero, por otra parte, ama, en cierto sentido, las faltas en cuanto le dan ocasión a Él de mostrar su misericordia y a nosotros de permanecer humildes» [7_Lamps].
+
 ## Distinciones importantes
 
 - **Esperanza vs. fe**: la fe cree las verdades reveladas; la esperanza desea y confía en alcanzar el bien prometido
@@ -94,3 +104,4 @@ La esperanza se apoya en la misericordia de Dios:
 - Romanos 8,24-25
 - Concilio de Trento
 - Santo Tomás, S.Th., II-II, q. 17-22
+- [7_Lamps, JPI La esperanza — Audiencia general, 20-IX-1978]

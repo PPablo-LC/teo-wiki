@@ -1,7 +1,7 @@
 # Don de consejo
 
 > Área: Ascética / Mística
-> Última actualización: 2026-06-09
+> Última actualización: 2026-06-23
 
 ## Definición
 
@@ -71,6 +71,18 @@ El don de consejo en la dirección espiritual:
 
 «Los directores espirituales necesitan especialmente este don. No basta con saber teología o tener experiencia humana. Para guiar las almas por el camino de la perfección es necesario discernir las inspiraciones del Espíritu Santo y distinguirlas de las mociones del espíritu malo o de los propios impulsos naturales. Sólo el don de consejo puede dar este discernimiento sobrenatural.»
 
+### Según Las siete lámparas de la vida cristiana (7_Lamps)
+
+Juan Pablo II, al tratar de la prudencia en su primera audiencia general (25-X-1978), vincula estrechamente esta virtud con el don de consejo del Espíritu Santo.
+
+**El don de consejo para el gobierno prudente:** Respondiendo a la pregunta de qué debe hacer el nuevo Papa para actuar prudentemente, el Pontífice afirma: «Debe orar y procurar tener el don del Espíritu Santo que se llama don de consejo». Ante la tarea de gobernar la Iglesia, no basta el estudio y la meditación; es necesario el don sobrenatural que ilumina la razón práctica con certeza divina.
+
+**El don de consejo necesario para ser Pastor prudente:** Juan Pablo II exhorta a los fieles a implorar este don para el Papa: «Cuantos desean que el nuevo Papa sea Pastor prudente de la Iglesia, imploren el don de consejo para él».
+
+**La Iglesia fortificada con los dones del Espíritu Santo:** La Iglesia debe participar eficazmente en el camino hacia el bien de todos, fortificándose con los dones del Espíritu Santo y, en particular, con el don de consejo, que muestra a cada uno la vía de la salvación eterna.
+
+**La Madre del Buen Consejo como intercesora:** El Papa invoca la intercesión especial de la Virgen María bajo la advocación de Madre del Buen Consejo, para obtener este don tanto para sí mismo como para todos los fieles que desean comportarse prudentemente.
+
 ## Distinciones importantes
 
 - **Don de consejo vs. prudencia**: la prudencia discurre; el don de consejo ilumina directamente
@@ -103,3 +115,4 @@ El don de consejo en la dirección espiritual:
 - Concilio de Trento
 - Santo Tomás, S.Th., I-II, q. 68; II-II, q. 52
 - San Juan de la Cruz
+- 7_Lamps, JPII La prudencia — Audiencia general, 25-X-1978

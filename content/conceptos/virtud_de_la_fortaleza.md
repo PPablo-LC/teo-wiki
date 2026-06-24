@@ -1,7 +1,7 @@
 # Virtud de la fortaleza
 
 > Área: Moral
-> Última actualización: 2026-06-11
+> Última actualización: 2026-06-23
 
 ## Definición
 
@@ -109,6 +109,22 @@ La fortaleza sobrenatural:
 
 «Hay una fortaleza natural, propia de personas de carácter fuerte. Pero hay también una fortaleza sobrenatural, infusa por Dios juntamente con la gracia, que permite soportar incluso con alegría los sufrimientos y las persecuciones por amor de Cristo. Esta fortaleza no es natural, sino un don de Dios que se manifiesta en los mártires y en los santos.»
 
+### Según Las siete lámparas de la vida cristiana (7_Lamps)
+
+En su audiencia general del 15-XI-1978, Juan Pablo II toma la palabra «¡Ánimo!» que el cardenal susurró a Juan Pablo I en el Cónclave como punto de partida para desarrollar la virtud de la fortaleza.
+
+Destaca que la fortaleza no se manifiesta solo en el campo de batalla, sino también **en tiempo de paz**: el «coraje cívico» del hombre que socorre en incendios o inundaciones, el ejemplo de San Carlos Borromeo durante la peste de Milán, y los testimonios silenciosos y cotidianos de personas anónimas.
+
+JPII exalta el heroísmo de quien sabe decir **«no»** cuando es costoso:
+- La madre de familia numerosa que rechaza el aborto («La nueva vida humana iniciada en ella es un valor demasiado grande, demasiado "sacro", para que pueda ceder ante semejantes presiones»).
+- El hombre que no reniega de sus principios ni de su honradez, aun con amenazas y halagos de por medio.
+
+Define la virtud siguiendo a Santo Tomás: el fuerte es quien está dispuesto a *aggredi pericula* (afrontar los peligros) y a *sustinere mala* (soportar las adversidades) por una causa justa, por la verdad, por la justicia. La fortaleza requiere siempre **superación del miedo**, del temor natural al peligro y al sufrimiento. Hay que traspasar la «barrera del miedo» para dar testimonio de la verdad y la justicia, aun a riesgo de persecución, prisión o pérdidas materiales.
+
+Pone como ejemplo a **San Estanislao de Kostka**, joven de complexión frágil que, movido por la fortaleza, eligió la pobreza siguiendo a Cristo contra la oposición de su familia, caminó de Viena a Roma para ingresar en los jesuitas, y vivió su lema «*Ad maiora natus sum*: He nacido para cosas más grandes».
+
+Finalmente, recuerda que cuando al hombre le faltan fuerzas para superarse por valores superiores, es necesario el **don de fortaleza**, el «don de lo alto» que hace de cada uno un hombre fuerte y le dice en lo íntimo: «¡Ánimo!».
+
 ## Distinciones importantes
 
 - **Fortaleza infusa vs. fortaleza natural**: la primera es sobrenatural y de orden divino; la segunda es natural y de orden humano
@@ -157,3 +173,4 @@ La fortaleza sobrenatural:
 - Hebreos 11,32-12,3
 - Concilio de Trento
 - SmTh IIª-IIae q.123 aa.1-6; q.128 aa.1-2
+- [7_Lamps, JPII La fortaleza — Audiencia general, 15-XI-1978]

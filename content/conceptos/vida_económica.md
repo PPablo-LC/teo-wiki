@@ -25,6 +25,10 @@ Se relaciona con [[economía]], [[mercado]], [[empresa]], [[bien_común]], [[des
 
 [[economía]], [[mercado]], [[empresa]], [[bien_común]], [[desarrollo_integral]], [[solidaridad]]
 
+## Analizado en contexto cultural
+
+- [[morir-con-cero]] — convergencia en el uso del dinero como medio para la vida, no como fin; tensión por la ausencia de dimensión social y de destino universal de los bienes
+
 ## Referencias
 
 - [CompDS §323-376]

@@ -38,6 +38,10 @@ GS 60: Debe procurarse que las mujeres puedan «asumir con plenitud su papel seg
 
 **a.4 — Hecha directamente por Dios:** Solo Dios, Autor de la naturaleza, pudo formar a la mujer de la costilla del varón, pues la generación natural procede de materia determinada (semen), no de otra materia (q.92 a.4).
 
+### Según la Recopilación de mensajes a las mujeres (Muj)
+
+Juan Pablo II, en su Mensaje para la Paz de 1995 y en los Ángelus de 1995, desarrolló la complementariedad y reciprocidad entre varón y mujer desde la perspectiva de la *Mulieris dignitatem*. La diferencia de sexos se interpreta «en clave profundamente unitaria: se trata de un único ser humano, que existe en dos modos distintos y complementarios, uno "masculino" y otro "femenino"» [Muj 29 §1]. La complementariedad se manifiesta en todos los ámbitos de la convivencia: varón y mujer son llamados no solo a existir «uno al lado del otro», sino «recíprocamente, el uno para el otro» [Muj 29 §2, citando Mulieris dignitatem 7]. La expresión más intensa de esta reciprocidad se realiza en el encuentro esponsal, donde la sexualidad «se convierte en lenguaje mediante el cual se expresa la unión profunda de las dos personas» [Muj 29 §2]. En la relación de reciprocidad, la mujer es «ayuda» para el hombre como el hombre es «ayuda» para la mujer: la ayuda no es unilateral [Muj 29 §1].
+
 ### Según la Teología del Cuerpo (TdC)
 
 Juan Pablo II, en su catequesis sobre la teología del cuerpo, parte del texto de Gn 1,27: «Dios creó al hombre a imagen suya… varón y hembra los creó», y de Gn 2,24: «Por eso dejará el hombre a su padre y a su madre; y se unirá a su mujer, y vendrán a ser los dos una sola carne» (TdC 05.09.1979).

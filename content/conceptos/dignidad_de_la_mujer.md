@@ -49,6 +49,10 @@ La verdadera promoción de la mujer exige que sea claramente reconocido el valor
 
 Desgraciadamente el mensaje cristiano sobre la dignidad de la mujer halla oposición en la persistente mentalidad que considera al ser humano no como persona, sino como cosa, al servicio del interés egoísta y del solo placer; la primera víctima de tal mentalidad es la mujer (FC §24).
 
+### Según la Recopilación de mensajes a las mujeres (Muj)
+
+Juan Pablo II, con ocasión de la IV Conferencia Mundial sobre la Mujer (Pekín 1995), desarrolló extensamente la doctrina sobre la dignidad de la mujer. El reconocimiento de la dignidad inherente e inalienable de la mujer es «fundamento y base del concepto de los derechos humanos universales» y se cimenta en «la verdad de la creación del ser humano a imagen y semejanza de Dios» [Muj 12 §2]. La igualdad de dignidad no significa identidad con el varón: «igualdad de dignidad no significa ser idéntica al hombre. Esto sólo empobrecería a la mujer y a toda la sociedad» [Muj 13 §3]. La mujer es «persona, o sea, criatura hecha a imagen y semejanza de Dios; criatura dotada de una subjetividad, que es fuente de autonomía responsable en la gestión de la propia vida» [Muj 27 §2]. El Papa denuncia las situaciones en que la mujer «viva, de hecho, si no jurídicamente, una condición de inferioridad» e insta a hacer madurar «por doquier una cultura de la igualdad, que será duradera y constructiva en la medida en que refleje el plan de Dios» [Muj 28 §1].
+
 ### Según Jorge Loring (PS)
 
 El cristianismo contribuyó directamente a devolver a la mujer toda su dignidad y derechos de igualdad con el hombre. «La Iglesia ha defendido siempre la dignidad de la mujer siguiendo el ejemplo de Cristo». Varón y mujer tienen la misma dignidad como persona humana, pero son distintos corporal y psíquicamente para poder complementarse. La formación de la mujer de la costilla del varón expresa que su dignidad es igual a la de este.

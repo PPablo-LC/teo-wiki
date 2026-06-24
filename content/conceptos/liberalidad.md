@@ -49,6 +49,10 @@ Royo Marín dedica un artículo a la liberalidad (TPCr, Tercera Parte, Libro II,
 
 Se relaciona con la [[magnanimidad]], la [[magnificencia]], la [[virtud_de_la_justicia]], el [[desprendimiento]], la [[pobreza_de_espíritu]], y la [[providencia_divina]].
 
+## Analizado en contexto cultural
+
+- [[morir-con-cero]] — convergencia en la generosidad de dar en vida y compartir bienes; tensión por la selectividad de la generosidad (solo círculo íntimo) y la ausencia de sacrificio y caridad universal
+
 ## Ver también
 
 [[magnanimidad]], [[magnificencia]], [[desprendimiento]], [[pobreza_de_espíritu]], [[justicia]]

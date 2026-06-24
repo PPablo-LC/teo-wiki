@@ -44,6 +44,10 @@ La Veritatis Splendor (§43) enseña que la sabiduría de Dios es providencia, a
 
 - [[kevin_mulaney_prudence_decisions]]
 
+## Analizado en contexto cultural
+
+- [[morir-con-cero]] — convergencia en la crítica a la ansiedad excesiva por el futuro; tensión por la confianza depositada en el cálculo actuarial y no en la Providencia divina
+
 ## Ver también
 [[creación]], [[gobierno_divino]], [[conservación]], [[milagro]], [[hado]], [[oración]], [[conformidad_con_la_voluntad_de_dios]], [[gloria_de_Dios]], [[hombre]]
 

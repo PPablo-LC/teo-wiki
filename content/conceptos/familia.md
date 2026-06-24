@@ -71,6 +71,10 @@ Es urgente una amplia catequización sobre el ideal cristiano de la comunión co
 
 Juan Pablo II concluye la exhortación con una oración por las familias de América, pidiendo que «sean vivo testimonio de amor, de justicia y solidaridad; que sean escuela de respeto, de perdón y mutua ayuda; que sean fuente de vocaciones al sacerdocio, a la vida consagrada» [EA §76, Oración].
 
+### Según la Recopilación de mensajes a las mujeres (Muj)
+
+La familia es «la primera y fundamental escuela de paz» [Muj 06 §7]. La madre desempeña un papel de primerísimo rango en la educación de los hijos, ofreciendo «aquel sentimiento de seguridad y confianza sin el cual le sería difícil desarrollar correctamente su propia identidad personal» [Muj 06 §6]. Los hijos tienen necesidad de la presencia y del cuidado de ambos padres; la calidad de la relación entre los esposos influye profundamente sobre la psicología del hijo [Muj 06 §6-7]. El Papa defiende la presencia de la madre en la familia, denunciando la falsa concepción según la cual el papel de la maternidad es opresivo para la mujer, y pide que se reconozca, aplauda y apoye con todos los medios posibles dicha presencia [Muj 13 §3]. La Sagrada Familia de Nazaret es presentada como modelo: María y José se ayudaban recíprocamente en la dirección de su familia y en el cuidado del niño Jesús [Muj 26 §1]. «María trabaja al lado de José, según un estilo personal y femenino» [Muj 26 §2]. José pudo trabajar cerca de su familia, enseñando al niño Jesús su mismo oficio de carpintero [Muj 26 §2].
+
 ## Relaciones doctrinales
 
 Se relaciona con [[matrimonio]], [[iglesia_doméstica]], [[santuario_de_la_vida]], [[bien_común]], [[subsidiariedad]], [[educación_de_los_hijos]]
@@ -84,6 +88,10 @@ Se relaciona con [[matrimonio]], [[iglesia_doméstica]], [[santuario_de_la_vida]
 - [[sean_glass_call_to_fortitude]]
 - [[stewart_teaching_kids_gospels]] — convergencia en la familia como iglesia doméstica; aporta testimonios contemporáneos y estrategias prácticas de lectura evangélica familiar, integrando la liturgia del día en la vida doméstica
 - [[familiaris_consortio]]
+
+## Analizado en contexto cultural
+
+- [[morir-con-cero]] — convergencia en la responsabilidad paterna de proveer a los hijos y dar en vida; tensión por la visión pragmática y funcional de la familia, sin dimensión de iglesia doméstica ni transmisión de la fe
 
 ## Ver también
 

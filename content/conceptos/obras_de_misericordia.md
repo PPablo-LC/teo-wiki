@@ -1,7 +1,7 @@
 # Obras de misericordia
 
 > Area: Moral
-> Ultima actualización: 2026-06-03
+> Última actualización: 2026-06-23
 
 ## Definición
 
@@ -28,6 +28,12 @@ Cuando la misericordia es entendida «de manera unilateral, como bien hecho a lo
 ### Según Royo Marin (TPCr)
 
 Royo Marin relaciona las obras de misericordia con el don de piedad y la virtud de la caridad. La limosna (corporal y espiritual) es un acto de caridad preceptuado a todos. Las obras de misericordia espirituales son de suyo mas perfectas que las corporales.
+
+### Según Las siete lámparas de la vida cristiana (7_Lamps)
+
+Juan Pablo I presenta las obras de misericordia como la concreción práctica del amor al prójimo. El catecismo —dice— concreta las palabras de Jesús (Mt 25) «en el doble elenco de las siete obras de misericordia corporales y las siete espirituales». Sin embargo, advierte que el elenco «no está completo y haría falta ponerlo al día».
+
+Actualiza la enseñanza a la dimensión social: «entre los hambrientos hoy no se trata ya sólo de este o aquel individuo; hay pueblos enteros». Citando la *Populorum Progressio* de Pablo VI, afirma que «los pueblos hambrientos interpelan a los que abundan en riquezas». La caridad debe unirse a la justicia: «la propiedad privada para nadie constituye un derecho incondicional y absoluto» y «toda carrera aniquiladora de armamentos resulta un escándalo intolerable» [7_Lamps, JPI La caridad — Audiencia general, 27-IX-1978].
 
 ### Según el análisis de conferencias para varones (notas)
 

@@ -30,6 +30,10 @@ Las riquezas son bienes fugaces y aparentes que se prestan a desviarnos de los c
 
 Se relaciona con [[pobreza_de_espíritu]], [[desprendimiento]], [[avaricia]], [[justicia_social]], [[bien_común]], [[virtud_de_la_religión]], [[consejos_evangélicos]], [[voto_de_pobreza]]
 
+## Analizado en contexto cultural
+
+- [[morir-con-cero]] — convergencia en la crítica a la acumulación sin propósito y el uso del dinero para experiencias; tensión por el individualismo hedonista y la ausencia de desprendimiento evangélico y caridad
+
 ## Ver también
 
 [[pobreza_de_espíritu]], [[desprendimiento]], [[riquezas]], [[bien_común]]

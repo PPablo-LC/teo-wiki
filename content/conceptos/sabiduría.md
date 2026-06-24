@@ -19,6 +19,10 @@ En el NT, Cristo es la Sabiduría de Dios (1 Cor 1,24.30). La sabiduría del mun
 
 Juan Pablo II dedica una catequesis a Jesús como Sabiduría de Dios. La tradición sapiencial del AT presenta la Sabiduría personificada como compañera de Dios en la creación (Prov 8,22-31), como reveladora de los caminos divinos (Sir 24) y como esplendor de la luz eterna (Sab 7,25-26). Jesús es la Sabiduría encarnada: es «más que Salomón» (Mt 12,42). Cristo es «sabiduría de Dios, justicia, santificación y redención» (1 Cor 1,30). Es la imagen del Dios invisible, primogénito de toda la creación (Col 1,15-17); en Él fueron creadas todas las cosas. La sabiduría de Dios, que en el AT habitaba en Israel, en la plenitud de los tiempos habita corporalmente en Cristo (CJeS, primera parte: catequesis sobre Jesús Sabiduría de Dios).
 
+## Analizado en contexto cultural
+
+- [[morir-con-cero]] — convergencia en la aplicación de la razón a la administración de la vida; tensión por la reducción de la sabiduría a optimización técnica, sin temor de Dios ni apertura al don del Espíritu Santo
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[don_de_sabiduría]]

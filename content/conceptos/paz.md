@@ -66,6 +66,9 @@ La *Redemptor Hominis* afirma que la paz se reduce al respeto de los derechos in
 
 Juan Pablo II vincula la paz con la superación de los regímenes totalitarios que «habían coartado los derechos de los ciudadanos, negándoles el reconocimiento debido de los inviolables derechos del hombre» [RH §17]. La paz verdadera exige la continua revisión de los sistemas y programas desde el punto de vista del bien del hombre y del [[bien_común]] [RH §17].
 
+### Según la Recopilación de mensajes a las mujeres (Muj)
+
+Juan Pablo II dedicó el Mensaje para la Jornada Mundial de la Paz de 1995 al tema «La mujer, educadora para la paz». En él, la paz se fundamenta en el reconocimiento de la dignidad de la persona humana, según el principio de la *Pacem in terris*: «todo ser humano es persona, esto es, naturaleza dotada de inteligencia y de libre albedrío» [Muj 03 §1]. La mujer es llamada de modo especial a ser educadora para la paz en la familia, la cultura, la sociedad y la política, especialmente en situaciones de conflicto y guerra [Muj 03–05]. La paz interior viene del saberse amados por Dios y de la voluntad de corresponder a su amor [Muj 06 §5]. La familia es «la primera y fundamental escuela de paz» [Muj 06 §7]. María, Reina de la Paz, es presentada como modelo de esta vocación femenina a la paz [Muj 08].
 
 ## Distinciones importantes
 

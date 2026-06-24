@@ -60,6 +60,10 @@ La Vida de Jesús (VJ) dedica una extensa reflexión al trabajo (Cap. II). Jesú
 
 Se relaciona con [[creación]], [[descanso_sabático]], [[justicia_social]], [[salario_justo]], [[doctrina_social_de_la_iglesia]], [[perfección_cristiana]], [[servicio]].
 
+## Analizado en contexto cultural
+
+- [[morir-con-cero]] — convergencia en la crítica al trabajo excesivo que impide vivir; tensión por la visión puramente instrumental del trabajo, sin dimensión vocacional ni de participación en la obra creadora de Dios
+
 ## Ver también
 
 [[creación]], [[descanso_sabático]], [[justicia_social]], [[doctrina_social_de_la_iglesia]], [[servicio]]

@@ -1,7 +1,7 @@
 # Virtud de la fe
 
 > Área: Dogmática / Moral
-> Última actualización: 2026-05-21
+> Última actualización: 2026-06-23
 
 ## Definición
 
@@ -73,6 +73,20 @@ La fe nos une a Dios por la inteligencia:
 Sobre la fe como virtud infusa:
 
 «La fe es una virtud infusa, sobrenatural y gratuita. No es un producto de nuestra razón natural, sino un don de Dios. Dios nos ilumina el entendimiento para asentir a las verdades reveladas, y mueve la voluntad para creerlas firmemente.»
+
+### Según Las siete lámparas de la vida cristiana (7_Lamps)
+
+Juan Pablo I, en su audiencia general del 13 de septiembre de 1978, desarrolló la primera de las «siete lámparas de la santificación» —las siete virtudes—, dedicándola a la [[virtud_de_la_fe]]. El Papa Albino Luciani ofrece una visión profundamente personal y experiencial de la fe.
+
+La fe es, ante todo, **rendirse a Dios transformando la propia vida**. JPI contrapone el poema de Trilussa (la fe como una ciega que guía) con la teología paulina: el gran director de escena es Dios. San Pablo, perseguidor, fue «aferrado» por Cristo en el camino de Damasco: «Dios me aferró; desde entonces no hago sino correr tras Él para ver si soy capaz de aferrarle yo también, imitándole y amándole cada vez más» (Flp 3,12). La fe no es mero asentimiento intelectual, sino una entrega que transforma enteramente la vida, como la de San Agustín, que tras la lucha interior respondió por fin al «empujón» del Señor.
+
+La fe es también **confianza personal en Dios**: no se trata solo de «creer las cosas que Dios ha revelado, sino creerle a Él, que merece nuestra fe». JPI ilustra esto con la analogía de su madre: cuando ella le preguntaba si creía en sus desvelos por curarlo de niño, la respuesta no versaba sobre los hechos, sino sobre la persona que merece fe. «Claro que te creo, creo lo que me dices, y sobre todo te creo a ti.» Análogamente, la fe cristiana es ante todo fe en una Persona que nos ha amado primero.
+
+**Fe e Iglesia son inseparables.** JPI recuerda la pregunta de San Pablo en Damasco: «¿Quién eres, Señor?» — «Soy ese Jesús a quien tú persigues». Pablo no perseguía a Jesús, sino a los cristianos; de ahí descubre que Jesús y la Iglesia son una misma cosa: «indivisible, inseparable». Cita a San Pablo: *Corpus Christi quod est Ecclesia* (1 Cor 12,27). No es posible tener fe y aceptar a Jesús sin aceptar la [[iglesia]].
+
+La Iglesia es **madre y maestra** (*Mater et Magistra*). Como madre, debe ser amada aun con sus defectos: «si mi madre se quedase coja, yo la querría todavía más». JPI ofrece la imagen del «jabón» de la Iglesia —evangelio, sacramentos, oración— como el medio para la santidad: «un jabón maravilloso capaz de hacernos santos a todos. No somos todos santos por no haber utilizado bastante este jabón».
+
+La fe, en suma, es para Juan Pablo I un sí generoso e inmediato al Señor, que transforma la vida, confía en la Persona de Dios, y se vive en y con la Iglesia.
 
 ## Distinciones importantes
 

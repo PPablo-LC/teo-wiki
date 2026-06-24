@@ -54,6 +54,10 @@ Se relaciona con [[eternidad]], [[kairós]], [[historia_de_la_salvación]], [[es
 
 [[eternidad]], [[kairós]], [[historia_de_la_salvación]], [[escatología]], [[tiempo_litúrgico]]
 
+## Analizado en contexto cultural
+
+- [[morir-con-cero]] — convergencia en la valoración del tiempo como recurso irrepetible y las estaciones de la vida; tensión por la reducción del tiempo a chronos cuantitativo, sin apertura al kairós
+
 ## Referencias
 
 - SmTh Iª q.66 a.4, creación del tiempo con la materia informe

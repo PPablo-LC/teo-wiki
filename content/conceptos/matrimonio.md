@@ -1,7 +1,7 @@
 # Matrimonio
 
 > Área: Sacramental
-> Última actualización: 2026-06-20
+> Última actualización: 2026-06-23
 
 ## Definición
 
@@ -174,6 +174,12 @@ La indisolubilidad se confirma sobre la base del misterio de la redención: «La
 El matrimonio es «lugar de encuentro del eros con el ethos y de su recíproca compenetración en el corazón del hombre y de la mujer» (TdC 25.08.1982). Los esposos están llamados a vivir según el Espíritu (Rm 8), dominando la concupiscencia y redescubriendo «la verdadera libertad del don, unida a la conciencia del sentido nupcial del cuerpo» (TdC 25.08.1982).
 
 El amor conyugal, a imagen de Cristo que «amó a la Iglesia y se entregó por ella» (Ef 5,25), es la fuerza que salvaguarda la unidad indivisible de los dos significados del acto conyugal (TdC 10.10.1984).
+
+### Según Las siete lámparas de la vida cristiana (7_Lamps)
+
+Juan Pablo I, en su audiencia general del 13 de septiembre de 1978, mencionó el [[matrimonio]] como «sacramento muy grande», en el contexto de la fe. Narra la anécdota de Federico Ozanam, insigne profesor de la Sorbona, que contrajo matrimonio con una señorita excelente. Su amigo Lacordaire exclamó: «¡Pobre Ozanam! ¡También él ha caído en la trampa!». Dos años después, Lacordaire fue recibido por Pío IX, quien le corrigió: «Venga, venga, padre; yo siempre había oído decir que Jesús instituyó siete sacramentos: ahora viene Ud., me revuelve las cartas y me dice que ha instituido seis sacramentos y una trampa. No, padre, el matrimonio no es una trampa, es un sacramento muy grande».
+
+La anécdota, incluida por JPI en su primera audiencia general, subraya la dignidad sacramental del matrimonio frente a la visión mundana que lo reduce a mero vínculo humano. El matrimonio es verdadero sacramento, instituido por Cristo, que confiere gracia a los esposos.
 
 ## Distinciones importantes
 

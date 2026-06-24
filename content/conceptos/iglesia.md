@@ -1,7 +1,7 @@
 # Iglesia
 
 > Área: Eclesiología
-> Última actualización: 2026-06-21
+> Última actualización: 2026-06-23
 
 ## Definición
 
@@ -56,6 +56,12 @@ Juan Pablo II presenta a la Iglesia como sacramento universal de salvación (LG 
 Juan Pablo II, en su ciclo cristológico, vincula la institución de la Iglesia con la realeza de Cristo y el Reino de Dios. Cristo instituye el Reino de Dios, y en ese contexto funda la Iglesia sobre Pedro, confiriéndole las llaves del Reino (Mt 16,18-19). El misterio pascual —pasión, muerte y resurrección de Cristo— es el fundamento de la Iglesia: del costado traspasado de Cristo nace la Iglesia, como Eva del costado de Adán. La promesa de Cristo —«las puertas del infierno no prevalecerán contra ella» (Mt 16,18)— asegura la indefectibilidad de la Iglesia hasta el fin de los tiempos (CJeS, cuarta parte: catequesis sobre la institución del Reino y el primado de Pedro). La Iglesia es la comunidad del Reino, llamada a continuar la misión de Cristo: «Id y haced discípulos a todas las naciones, bautizándolos en el nombre del Padre y del Hijo y del Espíritu Santo» (Mt 28,19-20).
 
 Juan Pablo II profundiza en la institución de los Doce Apóstoles, su elección y misión como fundamento de la Iglesia. El primado de Pedro es explícito: «Tú eres Pedro y sobre esta piedra edificaré mi Iglesia» (Mt 16,18) y «Apacienta mis ovejas» (Jn 21,17). La estructura ministerial y jerárquica de la Iglesia se funda en la sucesión apostólica. La Iglesia posee una estructura sacramental: el [[bautismo]] (Jn 3,5; Mt 28,19), la [[penitencia]] o reconciliación (Jn 20,22-23: «A quienes remitiereis los pecados, les son remitidos»), y la [[eucaristía]] (instituida en la Última Cena), fuente de unidad («un solo pan, un solo cuerpo», 1 Cor 10,17). Cristo da el mandamiento nuevo del amor fraterno. Todos los fieles están llamados a la [[santidad]] (cf. *Lumen Gentium* cap. V), mediante los [[consejos_evangélicos]] (castidad, pobreza, obediencia) y la santidad en la vida matrimonial y familiar. La caridad es el vínculo de la perfección. La permanencia en Cristo —la vid y los sarmientos (Jn 15)— es la condición de la vida cristiana (CJeS, segunda parte: venida del Reino y fundación de la Iglesia).
+
+### Según Las siete lámparas de la vida cristiana (7_Lamps)
+
+Juan Pablo I, en su audiencia general del 13 de septiembre de 1978, desarrolló la [[iglesia]] como inseparable de Cristo y de la fe. Retomando la enseñanza de San Pablo, afirma que Jesús y la Iglesia son una misma cosa: «indivisible, inseparable» (*Corpus Christi quod est Ecclesia*, 1 Cor 12,27). Perseguir a los cristianos es perseguir a Cristo mismo, como experimentó Pablo en Damasco. Por tanto, no es posible creer en Jesús sin aceptar la Iglesia.
+
+La Iglesia es **madre y maestra** (*Mater et Magistra*). Como madre, debe ser amada aun con sus defectos: «si mi madre se quedase coja, yo la querría todavía más». JPI ofrece la imagen del «jabón» de la Iglesia —evangelio, sacramentos, oración— como el medio para la santidad: «un jabón maravilloso capaz de hacernos santos a todos. No somos todos santos por no haber utilizado bastante este jabón». La Iglesia, aunque formada por pecadores, posee en Cristo los medios para santificarlos.
 
 ## Relaciones doctrinales
 

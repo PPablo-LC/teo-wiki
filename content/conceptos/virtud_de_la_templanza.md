@@ -1,7 +1,7 @@
 # Virtud de la templanza
 
 > Área: Moral
-> Última actualización: 2026-06-11
+> Última actualización: 2026-06-23
 
 ## Definición
 
@@ -101,6 +101,20 @@ Santo Tomás dedica las cuestiones 141-143 a la templanza, sus vicios opuestos y
 
 **Preceptos de la templanza (q.170):** Entre los preceptos del decálogo, el que más directamente se ordena a la templanza es la prohibición del adulterio (a.1), porque el adulterio es el vicio de la templanza que más se opone al amor al prójimo (usurpa la mujer ajena). La gula y otras especies de lujuria no se oponen tan directamente al amor al prójimo. No hay preceptos afirmativos de templanza en el decálogo porque su uso cambia con los tiempos y costumbres. En cuanto a las virtudes anejas (humildad, mansedumbre, modestia), no tienen preceptos directos en el decálogo, pero sus efectos (ira que lleva al homicidio, soberbia que lleva a quebrantar los preceptos) quedan prohibidos indirectamente (a.2).
 
+### Según Las siete lámparas de la vida cristiana (7_Lamps)
+
+Juan Pablo II, al cumplir el «testamento» de Juan Pablo I —que había propuesto hablar sobre las tres virtudes teologales y las cuatro cardinales—, dedica su audiencia a la templanza como cuarta virtud cardinal, completando así el ciclo de las «siete lámparas» de la vida cristiana.
+
+El Papa subraya que la virtud no es algo abstracto, sino que tiene «raíces» profundas en la vida misma del hombre concreto: «no hablamos tanto de la virtud cuanto del hombre que vive y actúa "virtuosamente"; hablamos del hombre prudente, justo, valiente, y por fin, hoy precisamente, hablamos del hombre "moderado" (o también "sobrio")».
+
+Afirma que la templanza condiciona indirectamente a todas las demás [[virtudes_cardinales]]: «no se puede ser hombre verdaderamente prudente, ni auténticamente justo, ni realmente fuerte, si no se posee asimismo la virtud de la templanza». A su vez, todas las otras virtudes son indispensables para que el hombre pueda ser moderado.
+
+Describe la templanza como el dominio del «yo superior» sobre el «yo inferior» —el cuerpo y sus necesidades, deseos y pasiones, sobre todo las de naturaleza sensual—. Este dominio no humilla al cuerpo sino que le da mayor valor, haciendo que los sentidos encuentren el puesto exacto que les corresponde en el ser humano. El hombre moderado «es el que es dueño de sí; aquel en que las pasiones no predominan sobre la razón, la voluntad e incluso el "corazón"». La templanza es indispensable para que el hombre «sea» plenamente hombre.
+
+JPII distingue la moral cristiana de la estoica: la sobriedad no exige hacerse insensible o indiferente. Basta mirar a Jesús para ver que la espontaneidad y el gozo legítimo son posibles. Sin embargo, esa espontaneidad madura solo se alcanza «a través de un trabajo sobre sí mismo y una "vigilancia" particular sobre todo su comportamiento».
+
+Finalmente, la templanza exige una «humildad específica» —la «humildad del cuerpo» y la «del corazón»— como condición imprescindible para la armonía interior y la belleza interior del hombre. «El hombre debe ser hermoso sobre todo interiormente. Sin esta belleza todos los esfuerzos encaminados al cuerpo no harán —ni de él, ni de ella— una persona verdaderamente hermosa.»
+
 ## Distinciones importantes
 
 - **Templanza vs. continencia**: la templanza es hábito que modera la pasión; la continencia es resistencia a la pasión cuando es vehemente
@@ -147,4 +161,5 @@ Santo Tomás dedica las cuestiones 141-143 a la templanza, sus vicios opuestos y
 - Colosenses 3,5-10
 - I Pedro 2,11
 - Concilio de Trento
+- [7_Lamps, JPII La templanza — Audiencia general, 22-XI-1978]
 - Santo Tomás, S.Th., II-II, q. 141-170

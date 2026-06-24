@@ -36,6 +36,10 @@ Objeto de la economía es la formación de la riqueza y su incremento progresivo
 
 Se relaciona con [[economía_de_mercado]], [[justicia_social]], [[solidaridad]], [[bien_común]], [[dignidad_humana]], [[destino_universal_de_los_bienes]], [[consumismo]]
 
+## Analizado en contexto cultural
+
+- [[morir-con-cero]] — convergencia en la crítica al consumismo y la idolatría del dinero; tensión por el individualismo hedonista que subordina la economía al propio disfrute y no al bien común
+
 ## Ver también
 
 [[economía_de_mercado]], [[justicia_social]], [[solidaridad]], [[bien_común]]

@@ -31,6 +31,10 @@ En el NT, Cristo es el heredero único, concentrando en sí la descendencia de A
 - La herencia de la fe se transmite dentro de la comunidad eclesial y familiar; no es posesión individual sino don recibido y comunicado.
 - La herencia del Reino no se adquiere por mérito propio sino que es don gratuito de Dios, aunque exige la cooperación libre del hombre.
 
+## Analizado en contexto cultural
+
+- [[morir-con-cero]] — convergencia en dar en vida («con mano caliente») y no póstumamente; tensión por la reducción de la herencia a lo material, ignorando el legado espiritual y de fe
+
 ## Relaciones doctrinales
 
 [[heredero_del_reino]], [[bienaventuranzas]], [[reino_de_dios]], [[vida_eterna]], [[filiación_divina]], [[bienes_temporales]]

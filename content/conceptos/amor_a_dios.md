@@ -1,7 +1,7 @@
 # Amor a Dios
 
 > Área: Dogmática / Moral
-> Última actualización: 2026-06-03
+> Última actualización: 2026-06-23
 
 ## Definición
 
@@ -66,6 +66,12 @@ La caridad es amor de amistad con Dios y constituye la esencia de la perfección
 ### Según la doctrina de Para Salvarte (PS)
 
 El primer mandamiento prescribe amar a Dios sobre todas las cosas. Quien ama a Dios guarda sus mandamientos. Amar a Dios es el fin del hombre. El pecado mortal aparta del amor de Dios (PS §4, §11).
+
+### Según Las siete lámparas de la vida cristiana (7_Lamps)
+
+Juan Pablo I, en su audiencia general del 27 de septiembre de 1978, desarrolló la segunda de las «siete lámparas de la santificación»: la caridad, que es el amor a Dios sobre todas las cosas. Inspirándose en el Evangelio, el Papa Luciani subraya que el amor a Dios exige la totalidad del corazón: «Amarás al Señor tu Dios con todo tu corazón, con toda tu alma, con toda tu mente» (Mt 22,37). Este mandamiento no admite medias tintas: Dios merece todo nuestro tiempo y todo nuestro corazón. JPI hablaba de un «totalitarismo» en religión que —lejos de ser opresivo— es perfectamente razonable, porque Dios, que es el Bien infinito, tiene derecho a la entrega total de la criatura.
+
+El amor a Dios se manifiesta también en el amor a la [[iglesia]], que es madre y maestra. Así como se ama a una madre enferma con más ímpetu, así debe amarse a la Iglesia aun con sus defectos. La caridad, en la enseñanza de Juan Pablo I, no es un sentimiento vago, sino la respuesta concreta y total al amor primero de Dios.
 
 ## Distinciones importantes
 

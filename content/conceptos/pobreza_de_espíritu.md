@@ -28,6 +28,10 @@ Con el don de temor se relaciona la primera bienaventuranza: "Bienaventurados lo
 - Se opone a la soberbia y a la autosuficiencia
 - Es condición para entrar en el Reino de los cielos
 
+## Analizado en contexto cultural
+
+- [[morir-con-cero]] — tensión: propone gastar todos los bienes en la propia experiencia, no desprenderse de ellos por amor a Dios y al prójimo; falta la dimensión de desapego interior
+
 ## Relaciones doctrinales
 
 [[bienaventuranzas]], [[humildad]], [[desapego]], [[riquezas]], [[perfección_cristiana]]

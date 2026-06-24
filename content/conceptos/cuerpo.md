@@ -111,6 +111,10 @@ En la resurrección, el cuerpo será «espiritualizado»: no desencarnación ni 
 - Templo del [[espíritu_santo]]
 - Objeto de la [[virtud_de_la_templanza]]
 
+## Analizado en contexto cultural
+
+- [[morir-con-cero]] — convergencia en la conciencia de la finitud corporal y las estaciones de la vida; tensión por la visión del cuerpo como instrumento de experiencia, no como templo del Espíritu Santo destinado a la resurrección
+
 ## Analizado para
 
 - [[auténtica_día_2_lidera_tu_vida_con_dios]] — convergencia en teología del cuerpo como marco de comprensión de la identidad femenina

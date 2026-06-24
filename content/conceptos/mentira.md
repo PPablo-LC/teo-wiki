@@ -53,6 +53,10 @@ La mentira es pecado mortal por su materia cuando causa un daño grave a la just
 - **Disimulación**: ocultar la verdad sin afirmar falsedad (puede ser lícito por justa causa)
 - **Reserva mental**: uso de expresiones que admiten doble sentido (licita solo por necesidad grave y con justa proporción)
 
+## Analizado en contexto cultural
+
+- [[pinocho]] — convergencia en el vínculo entre mentira y desfiguración interior (la nariz que crece)
+
 ## Relaciones doctrinales
 
 La mentira atenta contra la [[verdad]], la [[justicia]], y la [[caridad]]. Se relaciona con la [[calumnia]] y la [[murmuración]] en el contexto del [[octavo_mandamiento]].

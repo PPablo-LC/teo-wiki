@@ -1,7 +1,7 @@
 # Virtud de la caridad
 
 > Área: Dogmática / Moral / Mística
-> Última actualización: 2026-05-21
+> Última actualización: 2026-06-23
 
 ## Definición
 
@@ -78,6 +78,14 @@ La caridad como forma de las virtudes:
 El crecimiento de la caridad:
 
 «La caridad aumenta en el alma mientras estamos en esta vida. No tiene límite, porque Dios es infinito y siempre podemos amarle más. Aumenta por los actos de caridad, por los sacramentos (especialmente la eucaristía), por la oración y por la comunión de los santos. En el cielo llegará a su plenitud cuando veamos a Dios cara a cara.»
+
+### Según Las siete lámparas de la vida cristiana (7_Lamps)
+
+Juan Pablo I enseña que la caridad es «viajar con el corazón hacia Dios», inspirándose en la *Imitación de Cristo*: «el que ama *currit, volat, laetatur*: corre, vuela, disfruta». Define el amor a Dios como un viaje precioso, ejemplificado en los santos: San Vicente de Paúl, gigante de la caridad, y San Pedro Claver, que se firmaba «esclavo de los negros para siempre».
+
+Respecto al amor total a Dios, Juan Pablo I subraya el «todo» de Dt 6,5-9: «Amarás a Yavé, tu Dios, con todo tu corazón, con toda tu alma, con todas tus fuerzas». Afirma que «el totalitarismo en política es malo; en cambio, en religión nuestro totalitarismo respecto a Dios cuadra estupendamente». Sin embargo, advierte que no se debe decir «O Dios o el hombre»: se debe amar «a Dios y al hombre», pero a este último nunca más que a Dios, contra Dios ni igual que a Dios.
+
+El amor a Dios y el amor al prójimo son «hermanos gemelos» e inseparables. Solo amando a Dios en serio se llega a amar incluso a quienes no resultan simpáticos o han ofendido. El amor debe ser creciente: «Señor, que os ame cada vez más», pues Dios ha dicho «sed perfectos como perfecto es vuestro Padre celestial» (Mt 5,48) [7_Lamps, JPI La caridad — Audiencia general, 27-IX-1978].
 
 ## Distinciones importantes
 

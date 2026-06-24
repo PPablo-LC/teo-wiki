@@ -1,7 +1,7 @@
 # Don de fortaleza
 
 > Área: Ascética / Mística
-> Última actualización: 2026-06-11
+> Última actualización: 2026-06-23
 
 ## Definición
 
@@ -65,6 +65,14 @@ La alegría en el sufrimiento:
 
 «Una de las notas características del don de fortaleza es la alegría en medio del sufrimiento. Los apóstoles, después de ser azotados por orden del Sanedrín, «se fueron gozosos de la presencia del Consejo, porque habían sido juzgados dignos de padecer afrenta por el nombre de Jesús» (Hechos 5,41). Esta alegría en el sufrimiento no es natural; es fruto del don de fortaleza del Espíritu Santo.»
 
+### Según Las siete lámparas de la vida cristiana (7_Lamps)
+
+Juan Pablo II, en la audiencia general del 15-XI-1978 sobre la fortaleza, culmina su catequesis con una referencia al don de fortaleza:
+
+> «Pidamos este don del Espíritu Santo que se llama "don de fortaleza". Cuando al hombre le faltan fuerzas para "superarse" a sí mismo con miras a valores superiores como la verdad, la justicia, la vocación, la fidelidad conyugal, es necesario que este "don de lo alto" haga de cada uno de nosotros un hombre fuerte y que en el momento oportuno nos diga "en lo íntimo": ¡Ánimo!»
+
+JPII subraya que el don de fortaleza es necesario **cuando las fuerzas humanas no bastan** para superarse hacia esos valores superiores. Es un auxilio divino, un «don de lo alto», que transforma al hombre débil en hombre fuerte. Su acción íntima se manifiesta como una palabra interior de aliento: «¡Ánimo!», eco de la palabra que el cardenal susurró a Juan Pablo I en el Cónclave y que JPII recoge como lema de toda su catequesis.
+
 ## Distinciones importantes
 
 - **Don de fortaleza vs. virtud de la fortaleza**: la virtud da firmeza humana; el don da fuerza sobrehumana
@@ -111,3 +119,4 @@ La alegría en el sufrimiento:
 - Filipenses 4,13
 - Concilio de Trento
 - SmTh Ia-IIae q.68; IIª-IIae q.139 aa.1-4
+- [7_Lamps, JPII La fortaleza — Audiencia general, 15-XI-1978]

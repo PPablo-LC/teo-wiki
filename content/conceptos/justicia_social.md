@@ -1,7 +1,7 @@
 # Justicia social
 
 > Área: Moral
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-23
 
 ## Definición
 
@@ -51,6 +51,18 @@ La *Redemptor Hominis* denuncia una situación del hombre «distante tanto de la
 
 La encíclica enseña que el principio de los derechos del hombre «toca profundamente el sector de la justicia social y se convierte en medida para su verificación fundamental en la vida de los Organismos políticos» [RH §17]. Reafirma la prioridad del espíritu sobre la materia, el primado de la persona sobre las cosas, y la superioridad del ser sobre el tener como criterios esenciales del orden social [RH §16]. El desarrollo económico debe programarse «en una perspectiva de desarrollo universal y solidario de los hombres y de los pueblos» [RH §16, citando *Populorum progressio*].
 
+### Según Las siete lámparas de la vida cristiana (7_Lamps)
+
+Juan Pablo II menciona explícitamente la justicia social entre las formas de justicia (conmutativa, distributiva, legal y social) desarrolladas a lo largo de los siglos según las distintas relaciones humanas.
+
+**La lucha por la justicia social.** A través de los siglos es permanente el esfuerzo continuo y la lucha constante por organizar con justicia el conjunto de la vida social en sus aspectos varios.
+
+**El sistema para el hombre.** No puede ser el hombre para el sistema, sino el sistema para el hombre. Los sistemas sociales, económicos, políticos y culturales deben ser sensibles al hombre y a su bien integral; deben ser capaces de reformarse a sí mismos según las exigencias de la verdad total acerca del hombre.
+
+**Derechos humanos.** El gran esfuerzo de nuestros tiempos que tiende a definir y consolidar los derechos del hombre en la vida de la humanidad, de los pueblos y Estados, es un elemento clave de la justicia social contemporánea.
+
+**La Iglesia y el diálogo con el mundo.** La Iglesia de nuestro siglo sigue dialogando sin cesar en el vasto frente del mundo contemporáneo sobre las exigencias de la justicia, como lo atestiguan muchas Encíclicas de los Papas y la doctrina del Concilio Vaticano II.
+
 ## Distinciones importantes
 
 - **Justicia social vs. justicia conmutativa**: la conmutativa regula intercambios entre iguales; la social mira al bien común
@@ -80,3 +92,4 @@ La justicia social se fundamenta en la [[justicia]] cardinal y se relaciona con 
 - [TPCr, Parte III, Libro II, Cap. II, n.403]
 - [Santo Tomás, II-II, q.58-61]
 - [León XIII, Rerum Novarum; Pío XI, Quadragesimo Anno]
+- [7_Lamps, JPII La justicia — Audiencia general, 8-XI-1978]

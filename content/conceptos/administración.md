@@ -22,6 +22,10 @@ El CIC regula la administración de los bienes en los cc. 1273-1289. El Romano P
 - Administración ordinaria vs. administración extraordinaria (c. 1277)
 - Consejo económico: órgano consultivo y deliberativo según los casos
 
+## Analizado en contexto cultural
+
+- [[morir-con-cero]] — convergencia en la gestión responsable de los recursos; tensión por la ausencia del Dueño de los bienes (Dios) y de la rendición de cuentas a Él
+
 ## Ver también
 
 [[administración_eclesiástica]], [[consejo_de_asuntos_económicos]], [[bienes_eclesiásticos]], [[bienes_temporales]]

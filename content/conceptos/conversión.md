@@ -89,6 +89,10 @@ Desde la cruz, la misericordia provoca la conversión más ejemplar: la del buen
 
 [VJ, Cap. III, Cap. VI]
 
+## Analizado en contexto cultural
+
+- [[pinocho]] — convergencia en el itinerario de conversión (caída-arrepentimiento-restauración); tensión por la ausencia de dimensión sobrenatural y sacramental
+
 ## Analizado para
 
 - [[auténtica_día_2_lidera_tu_vida_con_dios]] — convergencia en el proceso de sanación interior (herida → mentira → renuncia → verdad) como aplicación concreta de la conversión continua; aporta sistematización práctica no desarrollada en la base doctrinal

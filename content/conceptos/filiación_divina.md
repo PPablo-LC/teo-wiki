@@ -44,6 +44,10 @@ Se relaciona con la [[gracia_santificante]], la [[inhabitación_trinitaria]], el
 
 - [[jeff_lacour_true_freedom_through_prayer]]
 
+## Analizado en contexto cultural
+
+- [[pinocho]] — convergencia en la paternidad creadora y sacrificial de Gepetto como figura de la filiación divina
+
 ## Ver también
 [[adopción_sobrenatural]], [[gracia_actual]], [[virtudes_infusas]]
 

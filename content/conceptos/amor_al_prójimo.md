@@ -1,7 +1,7 @@
 # Amor al prójimo
 
 > Área: Moral
-> Última actualización: 2026-06-03
+> Última actualización: 2026-06-23
 
 ## Definición
 
@@ -28,6 +28,12 @@ La caridad con el prójimo brota de la caridad con Dios como su efecto natural. 
 ### Según la doctrina de Para Salvarte (PS)
 
 El segundo mandamiento: amar al prójimo como a uno mismo. Todos los hombres son prójimo. Las obras de misericordia son obligatorias según las posibilidades (PS §5).
+
+### Según Las siete lámparas de la vida cristiana (7_Lamps)
+
+Juan Pablo I enseña que el amor a Dios y el amor al prójimo son «hermanos gemelos» e inseparables. Amar al prójimo no es solo cuestión de sentimiento, sino de obras: Jesús preguntará si dimos de comer al hambriento, si visitamos al enfermo (Mt 25,34ss). El catecismo concreta estas palabras en las siete obras de misericordia corporales y las siete espirituales.
+
+Juan Pablo I actualiza esta enseñanza a la dimensión social: «entre los hambrientos hoy no se trata ya sólo de este o aquel individuo; hay pueblos enteros». Citando la *Populorum Progressio* de Pablo VI, afirma que «con lastimera voz los pueblos hambrientos interpelan a los que abundan en riquezas». La caridad se une a la justicia: la propiedad privada no es derecho incondicional ni absoluto, y «toda carrera aniquiladora de armamentos resulta un escándalo intolerable» [7_Lamps, JPI La caridad — Audiencia general, 27-IX-1978].
 
 ## Distinciones importantes
 

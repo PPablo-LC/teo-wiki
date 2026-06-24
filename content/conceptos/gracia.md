@@ -62,6 +62,10 @@ La encíclica añade (§118-119) que la misericordia de Dios, manifestada plenam
 [[gracia_santificante]], [[gracias_actuales]], [[justificación]], [[virtudes_infusas]], [[dones_del_espíritu_santo]], [[mérito]]
 
 
+## Analizado en contexto cultural
+
+- [[pinocho]] — convergencia en la gratuidad del Hada Azul como figura de la gracia; tensión por el carácter mágico y no sobrenatural
+
 ## Analizado para
 
 - [[fr_michael_luxbacher_life_in_abundance]]

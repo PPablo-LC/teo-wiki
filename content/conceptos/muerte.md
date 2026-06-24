@@ -47,6 +47,10 @@ Se relaciona con [[pecado_original]], [[redención]], [[resurrección]], [[juici
 - [[christian_bobak_men_of_integrity]]
 - [[sean_glass_call_to_fortitude]]
 
+## Analizado en contexto cultural
+
+- [[morir-con-cero]] — convergencia en la conciencia de la finitud como motor de una vida plena; tensión por la ausencia de trascendencia (muerte como fin absoluto, no como paso a la vida eterna)
+
 ## Ver también
 [[resurrección]], [[juicio_final]], [[purgatorio]], [[cielo]], [[pecado_original]]
 

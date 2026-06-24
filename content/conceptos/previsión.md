@@ -32,6 +32,10 @@ La vigilancia se ha de manifestar en la previsión de asaltos inesperados del en
 
 [[virtud_de_la_prudencia]], [[providencia_divina]], [[vigilancia]], [[don_de_consejo]], [[tentación]]
 
+## Analizado en contexto cultural
+
+- [[morir-con-cero]] — convergencia en la planificación responsable de la vida; tensión por la reducción de la previsión a optimización financiera sin apertura a la providencia
+
 ## Referencias
 
 - CEC §2115, §2370

@@ -1,7 +1,7 @@
 # Virtud de la prudencia
 
 > Área: Moral
-> Última actualización: 2026-06-09
+> Última actualización: 2026-06-23
 
 ## Definición
 
@@ -76,6 +76,20 @@ La prudencia como virtud infusa:
 
 «Hay una prudencia natural o política, que se adquiere por la experiencia y el estudio, y sirve para la vida social. Pero hay también una prudencia sobrenatural o infusa, que Dios da juntamente con la gracia, y que nos enseña a ordenar todos nuestros actos a Dios como fin último. Esta prudencia sobrenatural es la que corresponde a la vida cristiana perfecta.»
 
+### Según Las siete lámparas de la vida cristiana (7_Lamps)
+
+Juan Pablo II, en su primera audiencia general (25-X-1978), retoma el esquema de las «siete lámparas» de la vida cristiana iniciado por Juan Pablo I y dedica su enseñanza a la virtud de la prudencia.
+
+**La prudencia como edificación de la vida según la conciencia recta:** Prudente no es —como frecuentemente se cree— el que sabe arreglárselas en la vida y sacar de ella el mayor provecho, sino quien acierta a edificar la vida toda según la voz de la conciencia recta y según las exigencias de la moral justa.
+
+**La prudencia como clave de la perfección humana:** La prudencia viene a ser la clave para que cada uno realice la tarea fundamental recibida de Dios: la perfección del hombre mismo. Dios ha dado a cada uno su humanidad; es necesario responder programándola como se debe.
+
+**La prudencia como imagen y semejanza de la Providencia divina:** El hombre, creado a imagen y semejanza de Dios, debe ser —como enseña Santo Tomás—, en cierto modo, la providencia, pero en la medida de su propia vida. Así como Dios realiza su designio en la historia —designio de salvación cuyo centro es Jesucristo, expresión plena de la Divina Providencia—, así el hombre debe participar en este caminar hacia la salvación, ayudando a otros a salvarse, pues ayudando a los demás, se salva a sí mismo.
+
+**Interpelación a los diversos estados de vida:** Juan Pablo II aplica la prudencia a cada estado: estudiantes (deberes de estudio, lecturas, diversiones, amistades), padres de familia (deberes conyugales y paternales), estadistas (bien verdadero de la sociedad, no intereses particulares), periodistas (valor y finalidad de su influencia en la opinión pública) y el mismo Papa (necesidad de aprender, meditar, orar y procurar el don de consejo).
+
+**Conexión con el don de consejo:** Para actuar prudentemente, especialmente quien gobierna, debe orar y procurar el don del Espíritu Santo llamado don de consejo. Cuantos desean que el nuevo Papa sea Pastor prudente, imploren el don de consejo para él, y también para sí mismos, por intercesión de la Madre del Buen Consejo.
+
 ## Distinciones importantes
 
 - **Prudencia infusa vs. prudencia adquirida**: la primera es sobrenatural y ordena a Dios; la segunda es natural y ordena al bien temporal
@@ -95,6 +109,10 @@ La prudencia como virtud infusa:
 - Ayuda por el [[don_de_ciencia]]
 - Los vicios opuestos son: [[imprudencia]], [[negligencia]], [[astucia]], [[prudencia_de_la_carne]]
 
+
+## Analizado en contexto cultural
+
+- [[morir-con-cero]] — convergencia parcial en la deliberación racional sobre medios y fines; tensión por la reducción de la prudencia a cálculo optimizador, desconectado del fin último y de la ley moral
 
 ## Analizado para
 
@@ -136,3 +154,4 @@ La prudencia como virtud infusa:
 - Proverbios
 - Gálatas 5,22
 - Concilio de Trento
+- 7_Lamps, JPII La prudencia — Audiencia general, 25-X-1978

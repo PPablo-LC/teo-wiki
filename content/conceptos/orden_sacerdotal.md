@@ -89,6 +89,10 @@ Sobre los grados del sacerdocio:
 - **Presbítero**: colaborador del obispo, participa de su sacerdocio
 - **Diácono**: servidor de la comunidad
 
+### Según la Recopilación de mensajes a las mujeres (Muj)
+
+La colección incluye la Carta Apostólica *Ordinatio Sacerdotalis* (22-V-1994) y la respuesta de la Congregación para la Doctrina de la Fe (28-X-1995). Juan Pablo II declara, en virtud de su ministerio de confirmar en la fe, que «la Iglesia no tiene en modo alguno la facultad de conferir la ordenación sacerdotal a las mujeres, y que este dictamen debe ser considerado como definitivo por todos los fieles de la Iglesia» [Muj 41 §1, Ordinatio Sacerdotalis 4]. La CDF respondió que esta doctrina pertenece al depósito de la fe, pues «basada en la Palabra de Dios escrita y constantemente conservada y aplicada en la Tradición de la Iglesia desde el principio, ha sido propuesta infaliblemente por el magisterio ordinario y universal» [Muj 40]. El Papa subraya que el hecho de que «ella [María] no recibiera la misión propia de los Apóstoles ni el sacerdocio ministerial muestra claramente que la no admisión de las mujeres a la ordenación sacerdotal no puede significar una menor dignidad ni una discriminación hacia ellas» [Muj 41 §3, Ordinatio Sacerdotalis 3]. La diversidad en la misión no supone menoscabo de la igualdad en la dignidad personal [Muj 41 §3].
+
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata el sacramento del Orden en la IIIa Pars, q.63-64 (sobre el carácter), y más extensamente en el Suplemento, q.34-40.

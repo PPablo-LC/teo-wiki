@@ -57,6 +57,10 @@ El CEC enseña que la alegría es fruto del Espíritu Santo (§§736, 1832) y qu
 - Alegría cristiana no excluye el sufrimiento: es compatible con la purificación y la cruz
 - Alegría vocacional (discernimiento y respuesta a la llamada) es una modalidad específica
 
+## Analizado en contexto cultural
+
+- [[morir-con-cero]] — convergencia en la búsqueda de la alegría a través de experiencias compartidas; tensión por la identificación de la alegría con satisfacción subjetiva, sin apertura al gozo sobrenatural que transfigura el sufrimiento
+
 ## Relaciones doctrinales
 
 Se relaciona con [[caridad]], [[vocación_cristiana]], [[vocación_sacerdotal]], [[generosidad]], [[fidelidad]], [[santidad]], [[gozo_espiritual]], [[esperanza_cristiana]]
