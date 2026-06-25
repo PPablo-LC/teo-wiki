@@ -1,6 +1,6 @@
 # Zaqueo
 
-> Área: Cristología / Sagrada Escritura
+> Área: Personas / Sagrada Escritura
 > Última actualización: 2026-06-22
 
 ## Definición

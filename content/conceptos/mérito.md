@@ -52,6 +52,10 @@ Así, todo acto humano bueno o malo tiene razón de mérito o demérito ante Dio
 
 **Suplemento (Suppl., q.93):** La caridad de la vía es el principio remoto que distingue los grados de premio eterno o «moradas» en el cielo (q.93 a.3). Las obras son meritorias no por su sustancia sino por la caridad que las informa; de ahí que la diversidad de méritos se remonte a la diversidad de caridad, y así la caridad de la vía distingue las moradas a modo de mérito. El aumento del mérito no diversifica la esencia del premio (visión de Dios), sino su grado de participación.
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El **II Concilio de Orange** (529) enseña la doctrina católica sobre el mérito en relación con la gracia. El canon 18 (D-191) afirma: «Se debe recompensa a las buenas obras, si se hacen; pero la gracia, que no se debe, precede para que se hagan». El canon 19 (D-192) declara que la naturaleza humana, aun en su estado de integridad original, no podía conservarse sin el auxilio del Creador; con mayor razón no puede reparar lo perdido sin la gracia. El epílogo doctrinal (D-199) resume que en toda obra buena no empezamos nosotros para ser luego ayudados, sino que Dios nos inspira primero sin merecimiento previo alguno. El canon 20 (D-193) concluye: «Muchos bienes hace Dios en el hombre, que no hace el hombre; ningún bien, empero, hace el hombre que no otorgue Dios que lo haga el hombre». Esta doctrina fue confirmada por Bonifacio II (D-200a–D-200b).
+
 ### Según Royo Marín (TPCr)
 
 Sin la gracia santificante, las obras más heroicas no tienen valor en orden a la vida eterna. El mérito sobrenatural supone la posesión de la vida sobrenatural. El mérito de condigno perfecto (estricta justicia) es exclusivo de Jesucristo; el mérito de condigno imperfecto (justicia proporcional) es posible para el justo, porque Dios prometió recompensar los actos meritorios. La gracia actual es absolutamente necesaria para todo acto meritório.

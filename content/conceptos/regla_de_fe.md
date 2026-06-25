@@ -27,6 +27,10 @@ DV 10 establece: «El oficio de interpretar auténticamente la palabra de Dios, 
 
 Royo Marín se refiere al magisterio eclesiástico como «regla próxima de fe». El Papa, los Concilios y los obispos en comunión con la Sede Apostólica constituyen la autoridad docente que propone infaliblemente las verdades reveladas. La teología se apoya en esta regla como norma última de certeza doctrinal, distinguiendo entre definiciones dogmáticas (infalibles) y enseñanzas del magisterio ordinario (que exigen asentimiento religioso).
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El Denzinger recoge el testimonio de los Padres de la Iglesia como testigos de la regla de fe. San Justino, San Ireneo, Hipólito, Tertuliano y Orígenes presentan, en sus escritos, elementos de la regla de fe que la Iglesia recibió de los Apóstoles (D-2). La fórmula antipriscilianista (D-19) se titula explícitamente «Regla de fe católica contra todas las herejías», estableciendo la fe trinitaria y cristológica como norma de la recta doctrina.
+
 ## Distinciones importantes
 
 - **Regla remota de fe** (Escritura y Tradición) vs. **regla próxima de fe** (Magisterio): la primera es la fuente material; la segunda es el intérprete autorizado

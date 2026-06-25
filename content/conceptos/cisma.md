@@ -35,6 +35,10 @@ El cisma atenta contra la unidad de la Iglesia, que se funda en la conexión de 
 
 Se opone a la unidad de la [[iglesia]] y a la [[virtud_de_la_caridad]]. Se relaciona con la [[herejía]] (de la que puede ser camino), con la [[discordia]] (de la que participa), y con la [[excomunión]] (su pena propia).
 
+## Denzinger
+
+D-44 (San Cornelio / San Cipriano): el cisma es condenado como ruptura de la unidad de la Iglesia, pues solo debe haber un obispo en la Iglesia Católica fundada sobre la unidad de Dios Trino.
+
 ## Ver también
 
 [[iglesia]], [[virtud_de_la_caridad]], [[discordia]], [[excomunión]], [[herejía]], [[sedición]]

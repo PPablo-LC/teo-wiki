@@ -38,6 +38,12 @@ Cuanto más hace el hombre el bien, más libre se hace. No hay verdadera liberta
 **IIIª q.18 a.4 — El libre albedrío en Cristo:**
 Cristo tuvo verdadero libre albedrío, cuyo acto propio es la elección (electio). A diferencia del hombre caído, Cristo no podía pecar (confirmado en el bien por la gracia de la unión hipostática), pero ello no suprimió su libertad. La elección en Cristo no implicaba duda ni ignorancia: su razón juzgaba con certeza y su voluntad elegía libremente entre diversos bienes particulares. Su libre albedrío estaba determinado al bien en general, mas no a este o aquel bien concreto, lo cual es el fundamento de la elección libre. Es el libre albedrío propio de los bienaventurados (liberum arbitrium confirmatum in bono). La impecabilidad de Cristo no anuló su libertad, sino que la perfeccionó.
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El Denzinger recoge la doctrina sobre el libre albedrío en varios documentos de los siglos V y VI. El Papa San Simplicio (D-156) afirma que el libre albedrío «existe, pero está herido por el pecado». El Concilio de Arles (475, D-160a) precisa que el libre albedrío está «atenuado y debilitado, no extinguido». El II Concilio de Orange (D-181) enseña que el libre albedrío fue «debilitado por el pecado original; nadie puede venir a Cristo sin la gracia». El mismo concilio afirma que el libre albedrío es «reparado por la gracia del bautismo» (D-186) y que «nadie puede amar a Dios como se debe sin gracia preveniente» (D-199). La gracia no destruye la libertad sino que la sana y la eleva, como resume el *Indiculus* de Celestino I: «Por este auxilio y don de Dios, no se quita el libre albedrío, sino que se libera» (D-141).
+
+El **Concilio de Quiersy** (853, D-317) enseña que el libre albedrío fue «perdido en el primer hombre» y solo es recuperado por Cristo, siendo prevenido y ayudado por la gracia divina para obrar el bien. El **III Concilio de Valence** (855, D-325) remite a los Padres, los concilios africanos y el II Concilio de Orange como regla de fe sobre el libre albedrío, confirmando la doctrina de la gracia preveniente y el libre albedrío sanado, no anulado.
+
 ## Distinciones importantes
 
 - Libre albedrío no es licencia para hacer cualquier cosa

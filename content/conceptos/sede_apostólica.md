@@ -11,6 +11,10 @@ La Sede Apostólica o Santa Sede es el órgano supremo de gobierno de la Iglesia
 
 Ver artículo principal: [[santa_sede]]
 
+## Denzinger
+
+D-100 (San Inocencio I): la Sede Apostólica es la fuente de la que manan los arroyos puros de la doctrina para todas las Iglesias; ningún asunto debe considerarse terminado hasta que llegue a noticia de esta Sede, para que su autoridad confirme lo justo.
+
 ## Ver también
 
 [[santa_sede]], [[romano_pontífice]], [[curia_romana]], [[iglesia_particular]]

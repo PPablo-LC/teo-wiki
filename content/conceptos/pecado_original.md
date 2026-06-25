@@ -133,6 +133,10 @@ Loring subraya que «la realidad del pecado original es dogma de fe», definido 
 
 Juan Pablo II señala que la realidad del pecado original es rechazada por el pensamiento post-ilustrado. El mundo necesita ser convencido del pecado (Jn 16,8). El pecado original es una resistencia a la paternidad de Dios; tiende a abolir los «rayos de la paternidad» del misterio trinitario. [UDE, Cap. IX, XXXV]
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El **II Concilio de Orange** (529) definió el pecado original contra los semipelagianos. El canon 1 (D-174) enseña que por el pecado de Adán «fue mudado a peor» todo el hombre, según el cuerpo y el alma, quedando la libertad del alma herida. El canon 2 (D-175) afirma que la prevaricación de Adán dañó no solo a él sino también a su descendencia: el pecado pasó a todo el género humano, y no solo la muerte corporal sino el pecado mismo como muerte del alma. Esta doctrina sigue a San Agustín y complementa la definición del Concilio de Arles (475, D-160a) sobre la transmisión del pecado original.
+
 ## Distinciones importantes
 
 - Pecado original contraído ≠ pecado personal cometido.

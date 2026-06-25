@@ -64,6 +64,10 @@ La Veritatis Splendor (§90-94) presenta el martirio como el testimonio más ele
 
 El martirio es el acto supremo de la [[fortaleza]] y la [[caridad]]. Se relaciona con la [[confesión_de_la_fe]], la [[persecución]], la [[santidad]] heroica, el [[bautismo_de_sangre]] y la [[comunión_de_los_santos]].
 
+## Denzinger
+
+D-92 (III Concilio de Cartago 397): se permite la lectura de las pasiones de los mártires en sus aniversarios, reconociendo así el valor del martirio como testimonio público de la fe y su lugar en la liturgia eclesial.
+
 ## Ver también
 
 [[fortaleza]], [[caridad]], [[confesión_de_la_fe]], [[persecución]], [[santidad]], [[bautismo_de_sangre]]

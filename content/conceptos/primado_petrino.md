@@ -27,6 +27,12 @@ Lumen Gentium, siguiendo las huellas del Concilio Vaticano I, enseña y declara 
 
 La potestad suprema sobre la Iglesia universal que posee el Colegio Episcopal se ejercita de modo solemne en el concilio ecuménico. «No hay concilio ecuménico si no es aprobado o, al menos, aceptado como tal por el sucesor de Pedro» [ConcVatII, LG §22]. El Romano Pontífice, Cabeza del Colegio episcopal, goza de la infalibilidad en razón de su oficio cuando, como supremo pastor y doctor, proclama de forma definitiva la doctrina de fe y costumbres [ConcVatII, LG §25].
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El **Papa Pelagio I** (557) defendió el primado en su carta a un obispo (D-230): «¿Hasta qué punto no habías leído que la Iglesia fue fundada por Cristo Dios nuestro sobre el príncipe de los Apóstoles, a fin de que las puertas del infierno no pudieran prevalecer contra ella? [...] ¿Dónde creías que estaba la Iglesia, fuera de aquel en quien —y en él solo— están todas las Sedes apostólicas?». Pelagio cita a San Cipriano para mostrar que «es una sola la Iglesia», y que quien se separa de la cátedra de Pedro no tiene esperanza de salvación.
+
+El **Papa Pelagio II** (585) escribió a los obispos cismáticos de Istria (D-246–247) defendiendo el mismo primado: «la fe de Pedro no podrá eternamente conmoverse o mudarse»; Cristo rogó por Pedro para que confirmara a los demás (Lc 22,31-32); a él le entregó las llaves del reino (Mt 16,19) y prometió que las puertas del infierno no prevalecerían (Mt 16,18). Citando a San Agustín, afirma que la Iglesia está constituida en aquellos que «por la sucesión de los obispos se demuestra que presiden en las Sedes Apostólicas», y quien se separa de su comunión está en cisma. Citando a San Cipriano: «El que no guarda la unidad de la Iglesia, ¿cree guardar la fe? El que abandona y resiste a la cátedra de Pedro, sobre la que está fundada la Iglesia, ¿confía estar en la Iglesia?».
+
 ## Distinciones importantes
 
 - Primado de jurisdicción ≠ primado de honor: el Papa tiene autoridad real sobre toda la Iglesia

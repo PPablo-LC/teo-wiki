@@ -9,6 +9,10 @@ El símbolo de la fe (del griego *symbolon*: señal, contraseña, credencial) es
 
 ## Desarrollo doctrinal
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El Denzinger recoge diversas fórmulas determinadas del Símbolo de la fe en distintas Iglesias antiguas, como las contenidas en el Psalterium Aethelstani, el Codex Laudianus y el Codex Swainson, así como los testimonios de Marcelo de Ancira, Prisciliano, Rufino, San Agustín y otros Padres (D-3). Estas fuentes atestiguan la fijación progresiva de la *regula fidei* en fórmulas concretas.
+
 Desde los tiempos apostólicos, la Iglesia ha resumido su fe en fórmulas breves y autorizadas destinadas a la profesión bautismal, la catequesis y la celebración litúrgica. Estas fórmulas, llamadas «símbolos de la fe», son hitos de la fe común de la Iglesia.
 
 El Concilio Vaticano I recordó que deben ser creídas con fe divina y católica «todas aquellas cosas que se contienen en la palabra de Dios escrita o transmitida, y que la Iglesia, ya sea por juicio solemne, ya por su magisterio ordinario y universal, propone para ser creídas como divinamente reveladas».

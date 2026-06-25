@@ -168,6 +168,10 @@ Juan Pablo II trata el bautismo de Jesús en el contexto de la acción del Espí
 
 En el contexto de la misión de la Iglesia, Juan Pablo II subraya el mandato bautismal de Cristo: «Id y haced discípulos a todas las naciones, bautizándolos en el nombre del Padre y del Hijo y del Espíritu Santo» (Mt 28,19). El bautismo es necesario para la salvación: «el que no naciere del agua y del Espíritu no puede entrar en el Reino de Dios» (Jn 3,5). El bautismo incorpora al creyente en la [[muerte]] y [[resurrección_de_cristo|resurrección]] de Cristo (Rom 6,3-4), haciendo de él una nueva criatura y miembro de la [[iglesia|Iglesia]] (CJeS, segunda parte: venida del Reino y fundación de la Iglesia; cuarta parte: la Resurrección).
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El **Papa San Gregorio I Magno** (601), en su carta a los obispos de Hiberia (D-249), recogió la tradición patrística sobre el bautismo de los herejes: quienes fueron bautizados en nombre de la Trinidad en la herejía, al volver a la Iglesia reciben solo la unción del crisma, la imposición de manos o la profesión de fe, porque el bautismo recibido alcanza fuerza de purificación al unirse a la Iglesia universal. Quienes no fueron bautizados en nombre de la Trinidad deben ser bautizados. Gregorio I añadió explícitamente que los nestorianos arrepentidos debían ser recibidos conservando sus órdenes sagradas.
+
 ## Distinciones importantes
 
 - **Bautismo de agua vs. bautismo de deseo vs. bautismo de sangre**

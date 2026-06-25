@@ -53,6 +53,10 @@ El Juicio final manifestará los torrentes de bendiciones derramadas sobre el mu
 
 Según las obras de caridad (Mt 25). El juicio a través del amor. El infierno como misterio inescrutable. El Purgatorio como purificación por el Amor mismo. [UDE, Cap. XII, XXVIII]
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El **Papa Pelagio I** (557), en su carta *Humani generis* al rey Childeberto (D-228a), profesó la fe de la Iglesia en los novísimos: «Todos los hombres, desde Adán hasta la consumación del tiempo, [...] confieso que entonces han de resucitar y presentarse ante el tribunal de Cristo, a fin de recibir cada uno lo propio de su cuerpo, según su comportamiento, ora bienes, ora males». Los justos recibirán «los premios de la vida eterna, es decir, que vivirán sin fin en la compañía de los ángeles, sin miedo alguno a la caída suya». Los inicuos, «que por albedrío de su propia voluntad permanecen vasos de ira aptos para la ruina», serán entregados «por justísimo juicio a las penas del fuego eterno e inextinguible, para que ardan sin fin».
+
 ## Distinciones importantes
 
 - Juicio particular: ocurre inmediatamente después de la muerte de cada persona

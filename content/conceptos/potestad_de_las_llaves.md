@@ -17,6 +17,12 @@ Cristo ha confiado a los Apóstoles «el poder de las llaves» (CEC §1442-1445)
 
 La potestad de las llaves es el [[poder_de_las_llaves]] mismo, término equivalente. Se ejerce mediante la [[absolución]] en el sacramento de la [[penitencia]] y presupone el [[orden_sacerdotal]]. Se distingue del poder de jurisdicción eclesiástica porque su objeto directo es la remisión de los pecados.
 
+## Denzinger
+
+D-43 (San Calixto I): el Romano Pontífice tiene potestad de perdonar los pecados de adulterio y fornicación a quienes hacen penitencia, manifestando así el poder de las llaves confiado a Pedro y a sus sucesores.
+
+D-109b (San Bonifacio I): «A ti te daré las llaves del reino de los cielos» (Mt 16,18). Nadie entra al reino sin la gracia de quien tiene las llaves; la Iglesia está fundada sobre Pedro y su gobierno pende de las decisiones de la Sede Apostólica.
+
 ## Ver también
 
 [[poder_de_las_llaves]], [[penitencia]], [[absolución]], [[orden_sacerdotal]]

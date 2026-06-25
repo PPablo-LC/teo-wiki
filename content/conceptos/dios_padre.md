@@ -20,6 +20,10 @@ El Catecismo dedica una extensa sección a Dios Padre (CEC §232-267). Dios es l
 ### Según Royo Marín (TPCr)
 
 Royo Marín enseña que la gracia santificante nos hace hijos adoptivos de Dios Padre, «herederos de Dios y coherederos con Cristo» (Rm 8,16-17; TPCr §89). La inhabitación trinitaria prometida por Cristo —«mi Padre le amará, y vendremos a él, y en él haremos morada» (Jn 14,23)— se realiza en toda alma en gracia (TPCr §96). Toda la vida sobrenatural se ordena al Padre por el Hijo en el Espíritu Santo (TPCr, Segunda Parte, Cap. I).
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El Denzinger recoge la forma romana del Símbolo Apostólico que profesa: «Creo en Dios Padre omnipotente» (D-4). La forma griega añade «Creo en Dios Padre omnipotente» (D-5). El texto según el Orden romano completa: «Creo en Dios Padre omnipotente, creador del cielo y de la tierra» (D-7). La exposición del Símbolo Niceno (D-13) desarrolla: «Creemos en un solo Dios, Padre omnipotente, hacedor de todas las cosas, de las visibles y de las invisibles».
+
 ### Según el Símbolo Niceno-Constantinopolitano
 
 «Creo en un solo Dios, Padre todopoderoso, Creador del cielo y de la tierra, de todo lo visible y lo invisible.» La fe de la Iglesia comienza confesando a Dios Padre como origen de todo, principio sin principio, de quien proceden el Hijo por generación eterna y el Espíritu Santo por espiración.

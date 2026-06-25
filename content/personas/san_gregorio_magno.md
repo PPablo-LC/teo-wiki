@@ -21,6 +21,14 @@ San Gregorio Magno, como [[romano_pontífice]], ejerció el primado petrino en u
 
 [[romano_pontífice]], [[patrística]], [[santos_padres]], [[magisterio]], [[san_agustín]], [[doctores_de_la_iglesia]]
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El Denzinger recoge tres intervenciones doctrinales de San Gregorio Magno:
+
+1. **Ciencia de Cristo (D-248)**: contra los agnoetas, enseña que Cristo sabe el día y la hora del juicio por su divinidad, no por su naturaleza humana. «Quien no sea nestoriano, no puede en modo alguno ser agnoeta».
+2. **Bautismo de herejes (D-249)**: los bautizados en nombre de la Trinidad en la herejía, al volver a la Iglesia, reciben solo crisma o imposición de manos; los nestorianos, además, conservan sus órdenes.
+3. **Unión hipostática (D-250)**: la carne no fue concebida primero y luego ungida; la concepción y la unción fueron simultáneas por obra del Espíritu Santo.
+
 ## Referencias
 
 - CEC §681, §1544, §1846, §2358

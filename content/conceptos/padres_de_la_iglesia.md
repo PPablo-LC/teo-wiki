@@ -21,6 +21,10 @@ La Tradición apostólica, transmitida por los Padres de la Iglesia, es una fuen
 
 *Dei Verbum* §7-10 enseña que los Apóstoles transmitieron lo que habían recibido de Cristo, y que los Padres de la Iglesia son testigos de esta Tradición viva. DV §8 afirma que la Tradición apostólica progresa en la Iglesia bajo la asistencia del Espíritu Santo, y que los Padres con su predicación y escritos contribuyen a este crecimiento. DV §23 recomienda el estudio de los Padres para la correcta interpretación de la Sagrada Escritura.
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El Denzinger recoge la autoridad de los Padres de la Iglesia en varios documentos. El Decreto Gelasiano (D-165) enumera a los Padres cuyos opúsculos recibe la Iglesia Romana: «Cecilio Cipriano, Gregorio Nacianceno, Basilio, Atanasio, Juan Crisóstomo, Teófilo, Cirilo Alejandrino, Hilario, Ambrosio, Agustín, Jerónimo y Próspero». El Papa San Celestino I recomienda la autoridad de San Agustín (D-128): «A Agustín, varón de santa memoria, por su vida y sus merecimientos, le tuvimos siempre en nuestra comunión». El Papa San Hormisdas (D-173a) remite a los escritos de Agustín para conocer la doctrina de la Iglesia sobre el libre albedrío y la gracia. San Gelasio I (D-161) afirma que «la pura verdad de la fe católica está formada de las sentencias concordes de todos los Padres».
+
 ### Según el Magisterio y la tradición teológica
 
 Los Padres de la Iglesia se clasifican en cuatro grandes grupos cronológicos y geográficos:

@@ -35,6 +35,10 @@ Por la ciencia infusa, Cristo conoció todo lo que el hombre puede conocer por l
 
 Cristo conoció por esta ciencia todo lo cognoscible por la luz del entendimiento agente (a.1). Hizo progresos en ella (a.2): no en cuanto al hábito (que aumentaba con la edad), sino en cuanto al efecto (realizaba obras más perfectas). No aprendió de los hombres (a.3), porque él es el maestro principal. No fue instruido por los ángeles (a.4); recibió la ciencia infusa inmediatamente de Dios.
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El **Papa San Gregorio I Magno** (600), en su carta a Eulogio de Alejandría (D-248), enseñó contra los agnoetas que Cristo sabe el día y la hora del juicio por su divinidad, no por su naturaleza humana. Adoptando la distinción entre Cristo como cabeza y como cuerpo (la Iglesia), explica que Mc 13,32 («ni el Hijo lo sabe») se refiere a Cristo en cuanto cabeza del cuerpo eclesial que ignora. Pero ofrece un sentido «más sutil»: el Unigénito encarnado, «en la naturaleza humana sabe el día y la hora del juicio; sin embargo, no lo sabe por la naturaleza humana». La ciencia del día y la hora la posee por el poder de su divinidad, pues «Dios hecho hombre» la sabe «por la razón de que el hombre es Dios». Concluye: «Quien no sea nestoriano, no puede en modo alguno ser agnoeta», pues la Sabiduría de Dios encarnada no puede ignorar nada.
+
 ## Distinciones importantes
 
 - **Ciencia beatífica** (visión de Dios) vs. **ciencia infusa** (conocimiento por especies infundidas) vs. **ciencia adquirida** (conocimiento por abstracción sensible)

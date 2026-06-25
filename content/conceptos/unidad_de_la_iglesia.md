@@ -50,6 +50,12 @@ PS subraya que Jesucristo fundó una sola Iglesia y habla de ella en singular: �
 
 [[iglesia]], [[iglesia_cuerpo_místico]], [[notas_de_la_iglesia]], [[ecumenismo]], [[comunión]], [[jorge_loring]]
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+D-44 (San Cornelio / San Cipriano): «Hay un solo Dios y un solo Señor Jesucristo, un solo Espíritu Santo, y solo debe haber un obispo en una Iglesia Católica». La unidad de la Iglesia se funda en la unidad de Dios y en la unidad del episcopado.
+
+El **Papa Pelagio II** (585), en su carta a los obispos cismáticos de Istria (D-247), citando a San Agustín y San Cipriano, enseñó que la Iglesia está constituida en aquellos que presiden en las Sedes Apostólicas por sucesión de obispos; quien se separa de su comunión y autoridad está en cisma. Citando a Cipriano: «El comienzo parte de la unidad, y a Pedro se le da el primado para demostrar que la Iglesia y la cátedra de Cristo es una sola». El pecado de cisma es peor que el de quienes sacrificaron a los ídolos: «Aun cuando ardieren entregados a las llamas de la hoguera; aun cuando arrojados a las fieras den su vida, no será aquella la corona de la fe, sino el castigo de la perfidia; ni muerte gloriosa, sino perdición desesperada».
+
 ## Referencias
 
 - CEC §813-822; §866; §1271

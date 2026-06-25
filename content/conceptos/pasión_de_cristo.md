@@ -80,6 +80,10 @@ Juan Pablo II examina las causas históricas de la muerte de Cristo: la envidia,
 - Todos los pecadores son los autores de la Pasión, no solo los contemporáneos de Cristo
 - La Pasión y la Resurrección son inseparables: forman el único Misterio Pascual
 
+## Denzinger
+
+D-72 (Concilio Romano 382): condena a quienes afirman que en la Pasión Dios sintió el dolor de la cruz y no lo sintió la carne junto con el alma de que se había vestido Cristo. La pasión es propia de la humanidad asumida por el Verbo, no de la divinidad.
+
 ## Analizado para
 
 - [[auténtica_día_2_lidera_tu_vida_con_dios]] — convergencia en la meditación de Jesús en Getsemaní como modelo de vulnerabilidad y entrega al Padre en el contexto de oración de sanación

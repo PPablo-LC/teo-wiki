@@ -27,6 +27,10 @@ La connotación esencial de los fieles laicos es la índole secular de su seguim
 
 Se relaciona con [[índole_secular]], [[bautismo]], [[confirmación]], [[eucaristía]], [[sacerdocio_común]], [[apostolado_seglar]], [[espiritualidad_del_laico]], [[caridad_política]], [[pastoral_social]], [[doctrina_social_de_la_iglesia]].
 
+## Denzinger
+
+D-42 (Clemente I): el hombre laico está ligado por preceptos laicos propios, pues a cada estado en la Iglesia —sumo sacerdote, sacerdotes, levitas, laicos— le corresponden funciones y ministerios distintos establecidos por ordenación del Señor.
+
 ## Ver también
 
 [[índole_secular]], [[apostolado_seglar]], [[espiritualidad_del_laico]], [[caridad_política]], [[doctrina_social_de_la_iglesia]]

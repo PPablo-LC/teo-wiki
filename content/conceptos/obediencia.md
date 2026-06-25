@@ -50,6 +50,10 @@ La obediencia propuesta es «filial: activa, libre y madura» [CapGral-2026, doc
 - Obediencia ciega (en materia no dudosa, propia de religiosos) vs. obediencia discreta.
 - Obediencia activa vs. obediencia pasiva (aceptación de la voluntad de Dios en lo que no se manda).
 
+## Denzinger
+
+D-41 (Clemente I): la Carta a los Corintios amonesta a la sedición y recuerda la obediencia debida a los presbíteros legítimamente constituidos, como ordenación divina para la paz de la Iglesia.
+
 ## Relaciones doctrinales
 
 Se relaciona con [[obediencia_de_la_fe]], [[consejos_evangélicos]], [[voto_de_obediencia]], [[humildad]], [[estado_religioso]] y [[cristo]].

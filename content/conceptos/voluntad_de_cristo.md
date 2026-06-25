@@ -22,6 +22,14 @@ La voluntad humana de Cristo tuvo libre albedrio, confirmado en el bien (no indi
 
 ## Perspectivas por fuente
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+La controversia monotelita ocupa un lugar central en el Denzinger. El **Papa Honorio I** (634) escribió a Sergio de Constantinopla confesando «una sola voluntad de nuestro Señor Jesucristo» (D-251) y rehusando definir una o dos operaciones (D-252). Su sucesor **Juan IV** (641) defendió que Honorio se refería a la ausencia de voluntades contrarias —como las que hay en los pecadores— y no a la negación de dos voluntades naturales (D-253).
+
+El **Concilio de Letrán** (649), bajo San Martín I, definió «dos voluntades del único y mismo Cristo Dios nuestro están coherentemente unidas, la divina y la humana» (D-263) y «dos operaciones, la divina y la humana, coherentemente unidas» (D-264). Condenó a quienes confiesan «una sola voluntad de Cristo Dios nuestro y una sola operación» (D-265-267). La operación teándrica debe entenderse como doble (D-268).
+
+El **III Concilio de Constantinopla** (680-681, VI ecuménico) definió solemnemente «dos voluntades naturales o quereres y dos operaciones naturales, sin división, sin conmutación, sin separación, sin confusión» en Cristo (D-291). Las dos voluntades no son contrarias, sino que «su voluntad humana sigue a su voluntad divina y omnipotente, sin oponérsele ni combatirla, antes bien, enteramente sometida a ella». Citando a San León Magno: «Obra una y otra forma con comunicación de la otra lo que es propio de ella» (D-292). El concilio condenó a Honorio I como hereje monotelita.
+
 ### Segun la Summa Theologiae (SmTh)
 
 **IIIa q.18 — La unidad de Cristo en cuanto a la voluntad:**

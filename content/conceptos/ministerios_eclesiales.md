@@ -29,6 +29,10 @@ El sacramento del Orden confiere la potestad espiritual y la gracia necesaria pa
 - Sacerdocio ministerial (jerárquico) vs. sacerdocio común de los fieles (bautismal).
 - Los tres grados del Orden: obispo, presbítero, diácono.
 
+## Denzinger
+
+D-42 (Clemente I): en la Iglesia hay diversidad de ministerios —sumo sacerdote, sacerdotes, levitas—, cada uno con su propia función, establecida por ordenación del Señor.
+
 ## Relaciones doctrinales
 
 Se relaciona con [[orden_sacerdotal]], [[sacerdocio]], [[obispo]], [[iglesia_cuerpo_místico]], [[eucaristía]] y [[apostolado]].

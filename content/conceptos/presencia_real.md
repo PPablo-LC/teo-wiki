@@ -25,6 +25,10 @@ Cristo está presente en la Eucaristía de manera única, verdadera, real y subs
 
 Los sacramentos, en especial la Eucaristía, son canales de la gracia divina. La comunión eucarística une íntimamente a Cristo, fuente de toda vida sobrenatural. La presencia real de Cristo en la Eucaristía es el fundamento del culto de adoración y de la práctica de las visitas al Santísimo Sacramento (TPCr, Parte III, Libro II, Cap. I).
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El Denzinger recoge en D-133 la afirmación de San León I Magno sobre la presencia real del Cuerpo y Sangre de Cristo en la Eucaristía. El Papa León, en su carta dogmática, enseña que Cristo, verdadero Dios y verdadero hombre, está realmente presente bajo las especies eucarísticas como memorial de su pasión. La definición de la presencia real fue solemnemente promulgada por el Concilio de Trento (Sesión XIII, D-874-888).
+
 ### Según Para Salvarte (PS)
 
 PS afirma que Jesucristo está ahora glorioso en el cielo y en el sagrario [PS §10,45]. En la Eucaristía permanecen el olor, color y sabor del pan y del vino, pero su sustancia se ha convertido en el Cuerpo y la Sangre de Cristo mediante la transubstanciación, conversión milagrosa y singular distinta de las conversiones naturales [PS §10,47,1]. Cristo está presente en todas las Hostias consagradas, entero en cada una de ellas, y su presencia es inextensa: todo en cada parte [PS §10,49,2]. La presencia real está confirmada por milagros eucarísticos como los de Lanciano y Casia, donde las especies se convirtieron en carne y sangre humana verificada científicamente [PS §10,49,3].

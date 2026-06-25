@@ -32,6 +32,9 @@ La fe católica se distingue de la fe humana por su motivo formal: la autoridad 
 
 [TPCr, Parte II, Cap. 2]
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El Denzinger recoge en D-153 la definición de la fe católica fundada en los cuatro primeros concilios ecuménicos (Nicea, Constantinopla I, Éfeso, Calcedonia). El Decreto Gelasiano (D-165) enumera los Padres de la Iglesia cuyos escritos constituyen la tradición de la fe católica. La fe católica es la regla de recta fe que se guarda en la Sede Apostólica, donde «se conservó siempre inmaculada la religión católica» (D-171, Fórmula de Hormisdas).
 
 ## Distinciones importantes
 

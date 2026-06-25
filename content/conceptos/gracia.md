@@ -49,6 +49,12 @@ La Veritatis Splendor (§22-24) enseña que imitar y revivir el amor de Cristo n
 
 La encíclica añade (§118-119) que la misericordia de Dios, manifestada plenamente en Jesucristo, es más fuerte que cualquier pecado. El Espíritu Santo, que renueva la faz de la tierra, posibilita el milagro del cumplimiento perfecto del bien. Esta renovación, que capacita para hacer lo que es bueno, noble, bello y grato a Dios, es el colofón del don de la misericordia, que libera de la esclavitud del mal y da la fuerza para no volver a pecar (§118). La moral cristiana no es imposible de practicar porque consiste fundamentalmente en el seguimiento de Jesucristo, en el abandonarse a él, en dejarse transformar por su gracia y ser renovados por su misericordia, que se alcanzan en la comunión de su Iglesia (§119).
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El **II Concilio de Orange** (529), confirmado por Bonifacio II (D-200a–D-200b), constituye la definición más completa de la doctrina católica sobre la gracia contra los semipelagianos. Establece que la gracia no se confiere por invocación humana, sino que la gracia misma hace que Dios sea invocado (D-176). El querer ser limpios del pecado se obra en nosotros por infusión del Espíritu Santo (D-177). El inicio de la fe y el afecto de credulidad son don de la gracia, no de la naturaleza (D-178). Sin la iluminación e inspiración del Espíritu Santo no podemos pensar ni elegir bien alguno para la salvación (D-180). El libre albedrío quedó debilitado por el pecado y no puede repararse sino por la gracia del bautismo (D-186). La gracia precede a todo mérito bueno: «la gracia, que no se debe, precede para que se hagan las buenas obras» (D-191). Nadie tiene de suyo sino mentira y pecado (D-195). Amar a Dios es en absoluto don de Dios (D-198). El epílogo doctrinal (D-199) resume que al bautismo no se llega por libre albedrío sino por la largueza de Cristo.
+
+El **Concilio de Quiersy** (853) afirma que el libre albedrío, perdido en Adán, es recuperado por Cristo y prevenido y ayudado por la gracia (D-317). Dios quiere que todos se salven (voluntad salvífica universal, D-318), y Cristo padeció por todos, aunque no todos son redimidos por incredulidad (D-319). El **III Concilio de Valence** (855, D-325) remite a los Padres, los concilios africanos y el II Concilio de Orange como regla de fe sobre la gracia y el libre albedrío, rechazando tanto el extremo predestinacionista como el racionalismo de Eriúgena.
+
 ## Distinciones importantes
 
 - Gracia santificante (habitual) vs. gracias actuales
