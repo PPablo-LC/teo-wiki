@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Trabajo humano
+tags: ["doctrina_social"]
+
+timestamp: 2026-06-17
+description: Dimensión fundamental de la existencia humana mediante la cual el hombre participa en la obra de la creación y de la redención, sometiendo y dominando la tierra.
+---
 # Trabajo humano
 
 > Área: Doctrina Social

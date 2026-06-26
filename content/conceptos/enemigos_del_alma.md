@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Enemigos del Alma
+tags: ["ascética"]
+
+timestamp: 2026-05-22
+description: Los tres obstáculos principales para la santificación del alma, tradicionalmente identificados como el mundo, el demonio y la carne.
+---
 # Enemigos del Alma
 
 > Área: Ascética

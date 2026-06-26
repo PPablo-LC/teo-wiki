@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Fe en Dios
+tags: ["dogmática"]
+
+timestamp: 2026-06-19
+description: La fe en Dios es la adhesión personal y total del hombre a Dios único, que implica reconocer su grandeza y majestad, vivir en acción de gracias, reconocer la unidad y dignidad de todos los hombres.
+---
 # Fe en Dios
 
 > Área: Dogmática

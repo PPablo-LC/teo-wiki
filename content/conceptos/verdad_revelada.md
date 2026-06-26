@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Verdad revelada
+tags: ["dogmática_(revelación)"]
+
+timestamp: 2026-06-20
+description: La verdad revelada es el conjunto de verdades que Dios ha comunicado al hombre mediante la Revelación divina, contenidas en la Sagrada Tradición y en la Sagrada Escritura.
+---
 # Verdad revelada
 
 > Área: Dogmática (Revelación)

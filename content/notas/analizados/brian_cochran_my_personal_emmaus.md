@@ -1,3 +1,9 @@
+---
+type: Análisis Doctrinal
+title: "Brian Cochran — My Personal Emmaus: Análisis doctrinal"
+timestamp: 2026-06-03
+description: Conferencia testimonial del coach financiero Brian Cochran en la Catholic Men's Conference 2022.
+---
 # Brian Cochran — My Personal Emmaus: Análisis doctrinal
 
 > Tipo: Análisis doctrinal

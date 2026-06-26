@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cuaresma
+tags: ["liturgia"]
+
+timestamp: 2026-05-26
+description: "Tiempo litúrgico de cuarenta días de preparación para la celebración del [[misterio_pascual]] ([[pascua]])."
+---
 # Cuaresma
 
 > Área: Liturgia

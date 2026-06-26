@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Neo-gnosticismo
+tags: ["dogmática", "moral"]
+
+timestamp: 2026-06-10
+description: Corriente de pensamiento que concibe la salvación como algo puramente interior, cerrando al sujeto en la inmanencia de su propia razón o sentimientos.
+---
 # Neo-gnosticismo
 
 > Área: Dogmática / Moral

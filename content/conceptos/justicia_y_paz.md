@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Justicia y paz
+tags: ["doctrina_social"]
+
+timestamp: 2026-05-25
+description: "Relación intrínseca entre la justicia y la paz en la doctrina social de la Iglesia: la paz es fruto de la justicia y de la caridad."
+---
 # Justicia y paz
 
 > Área: Doctrina Social

@@ -1,3 +1,8 @@
+---
+type: Concepto Teológico
+title: Voluntad de Cristo
+description: La voluntad de Cristo designa el principio apetitivo por el cual Cristo quiere y elige.
+---
 # Voluntad de Cristo
 
 > Area: Cristologia

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Visión de Dios
+tags: ["dogmática", "escatología"]
+
+timestamp: 2026-05-22
+description: Conocimiento inmediato y directo de la esencia divina, que constituye la bienaventuranza eterna.
+---
 # Visión de Dios
 
 > Área: Dogmática / Escatología

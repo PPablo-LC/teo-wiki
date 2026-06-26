@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Dei Verbum
+tags: ["dogmática", "documentos_conciliares"]
+
+timestamp: 2026-05-26
+description: "La *Dei Verbum* («Palabra de Dios») es la Constitución Dogmática sobre la Divina Revelación del Concilio Vaticano II, promulgada por el Papa Pablo VI el 18 de noviembre de 1965."
+---
 # Dei Verbum
 
 > Área: Dogmática / Documentos conciliares

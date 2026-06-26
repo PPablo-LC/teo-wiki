@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Eutanasia
+tags: ["moral"]
+
+timestamp: 2026-06-23
+description: "La eutanasia (del griego *eu-thanatos*, \"buena muerte\") es la acción u omisión que por su naturaleza y en la intención causa la muerte de un paciente para suprimir el dolor o el sufrimiento."
+---
 # Eutanasia
 
 > Área: Moral

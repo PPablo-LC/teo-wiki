@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Corrección fraterna
+tags: ["moral"]
+
+timestamp: 2026-06-08
+description: La corrección fraterna es el acto de caridad por el que se amonesta al hermano que peca para apartarlo del mal.
+---
 # Corrección fraterna
 
 > Área: Moral

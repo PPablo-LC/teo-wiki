@@ -1,3 +1,11 @@
+---
+type: Persona
+title: San Maximiliano Kolbe
+tags: ["hagiografía"]
+
+timestamp: 2026-06-03
+description: "San Maximiliano María Kolbe (1894-1941), franciscano conventual polaco, fundador de la Milicia de la Inmaculada (*Militia Immaculatae*)."
+---
 # San Maximiliano Kolbe
 
 > Área: Hagiografía

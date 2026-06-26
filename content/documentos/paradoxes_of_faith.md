@@ -1,3 +1,11 @@
+---
+type: Documento
+title: Paradoxes of Faith
+tags: ["documentos"]
+
+timestamp: 2026-06-11
+description: Obra compuesta por 15 reflexiones sobre la vida espiritual y el apostolado cristiano desde la categoría de la paradoja.
+---
 # Paradoxes of Faith
 
 > Área: Documentos

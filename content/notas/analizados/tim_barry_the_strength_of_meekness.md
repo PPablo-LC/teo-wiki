@@ -1,3 +1,9 @@
+---
+type: Análisis Doctrinal
+title: "Tim Barry — The Strength of Meekness: Análisis doctrinal"
+timestamp: 2026-06-03
+description: Conferencia del oficial de marina retirado Tim Barry en la Catholic Men's Conference 2022.
+---
 # Tim Barry — The Strength of Meekness: Análisis doctrinal
 
 > Tipo: Análisis doctrinal

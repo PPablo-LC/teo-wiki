@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Instituyo a los Doce
+tags: ["documentos_—_espiritualidad_legionaria"]
+
+timestamp: 2026-06-11
+description: Ensayo de reflexión sobre la identidad del Regnum Christi como comunidad de apóstoles.
+---
 # Instituyo a los Doce
 
 > Área: Documentos — Espiritualidad Legionaria

@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Estatutos de la Federación Regnum Christi
+tags: ["documentos_—_espiritualidad_legionaria"]
+
+timestamp: 2026-06-11
+description: Fuente primaria del derecho propio de la Federación Regnum Christi.
+---
 # Estatutos de la Federación Regnum Christi
 
 > Área: Documentos — Espiritualidad Legionaria

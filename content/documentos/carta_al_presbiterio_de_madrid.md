@@ -1,3 +1,11 @@
+---
+type: Documento
+title: Carta al Presbiterio de Madrid
+tags: ["documentos"]
+
+timestamp: 2026-06-11
+description: Carta pastoral a los sacerdotes de Madrid.
+---
 # Carta al Presbiterio de Madrid
 
 > Área: Documentos

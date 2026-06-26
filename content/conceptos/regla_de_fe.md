@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Regla de fe
+tags: ["dogmática"]
+
+timestamp: 2026-05-29
+description: "La regla de fe (*regula fidei*) es el criterio normativo por el cual la Iglesia mide y determina la autenticidad de la doctrina cristiana."
+---
 # Regla de fe
 
 > Área: Dogmática

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cuerpos de los condenados
+tags: ["escatología"]
+
+timestamp: 2026-06-16
+description: Los cuerpos de los condenados son los cuerpos humanos resucitados de los réprobos al fin de los tiempos, que, a diferencia de los cuerpos gloriosos de los bienaventurados.
+---
 # Cuerpos de los condenados
 
 > Área: Escatología

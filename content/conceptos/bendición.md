@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Bendición
+tags: ["liturgia", "sacramental"]
+
+timestamp: 2026-06-02
+description: La bendición es una alabanza a Dios y una súplica por su favor sobre personas, objetos o lugares, constituyendo la Iglesia un sacramental que dispone a los fieles a recibir la gracia sacramental.
+---
 # Bendición
 
 > Área: Liturgia / Sacramental

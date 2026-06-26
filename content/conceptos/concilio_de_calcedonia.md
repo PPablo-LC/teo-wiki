@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Concilio de Calcedonia
+tags: ["dogmática_(cristología)"]
+
+timestamp: 2026-05-26
+description: IV Concilio Ecuménico, celebrado en Calcedonia (Asia Menor) en el año 451. Es el concilio más numeroso de la antigüedad, con unos 520 padres conciliares.
+---
 # Concilio de Calcedonia
 
 > Área: Dogmática (Cristología)

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Filioque
+tags: ["dogmática_—_trinidad"]
+
+timestamp: 2026-06-24
+description: "El *Filioque* (latín: «y del Hijo») es la doctrina según la cual el Espíritu Santo procede del Padre y del Hijo como de un solo principio."
+---
 # Filioque
 
 > Área: Dogmática — Trinidad

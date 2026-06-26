@@ -1,3 +1,11 @@
+---
+type: Documento
+title: Teología de la Perfección Cristiana
+tags: ["documentos"]
+
+timestamp: 2026-06-11
+description: El manual de Royo Marín es la obra de referencia en lengua española para la teología ascética y mística.
+---
 # Teología de la Perfección Cristiana
 
 > Área: Documentos

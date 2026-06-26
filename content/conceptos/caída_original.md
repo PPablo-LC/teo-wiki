@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Caída original
+tags: ["dogmática"]
+
+timestamp: 2026-05-25
+description: La caída original es el acontecimiento narrado en Génesis 3 por el cual nuestros primeros padres, Adán y Eva, por instigación del demonio y mediante un acto de desobediencia.
+---
 # Caída original
 
 > Área: Dogmática

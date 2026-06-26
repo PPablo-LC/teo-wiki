@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Inmortalidad
+tags: ["dogmática", "antropología_teológica", "escatología"]
+
+timestamp: 2026-05-22
+description: La inmortalidad es la propiedad del alma espiritual creada por Dios de no perecer ni corromperse tras la separación del cuerpo.
+---
 # Inmortalidad
 
 > Área: Dogmática / Antropología teológica / Escatología

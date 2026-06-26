@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Elevación sobrenatural
+tags: ["dogmática"]
+
+timestamp: 2026-05-22
+description: La elevación sobrenatural es el acto gratuito por el cual Dios eleva al hombre —sin exigencia alguna de su naturaleza— al orden sobrenatural.
+---
 # Elevación sobrenatural
 
 > Área: Dogmática

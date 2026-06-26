@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Vida cristiana
+tags: ["moral", "dogmática"]
+
+timestamp: 2026-05-26
+description: "La vida cristiana es la vida nueva en Jesucristo, comunicada por el [[bautismo]] y alimentada por los [[sacramentos]]."
+---
 # Vida cristiana
 
 > Área: Moral / Dogmática

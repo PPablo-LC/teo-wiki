@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Órdenes sagradas
+tags: ["sacramental"]
+
+timestamp: 2026-06-19
+description: Las Órdenes sagradas es el sacramento por el cual los hombres son configurados con Cristo comopastores, maestros y sacerdotes.
+---
 # Órdenes sagradas
 
 > Área: Sacramental

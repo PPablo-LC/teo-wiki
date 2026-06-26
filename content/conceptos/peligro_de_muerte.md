@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Peligro de muerte
+tags: ["pastoral", "derecho_canónico"]
+
+timestamp: 2026-05-26
+description: El peligro de muerte es la situación concreta de una persona que corre riesgo cierto e inminente de perder la vida, ya sea por enfermedad, accidente, vejez avanzada u otra causa.
+---
 # Peligro de muerte
 
 > Área: Pastoral / Derecho Canónico

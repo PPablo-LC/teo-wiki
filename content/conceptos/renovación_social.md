@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Renovación social
+tags: ["moral_social", "doctrina_social"]
+
+timestamp: 2026-06-19
+description: La renovación social es la transformación profunda de la vida personal y social que brota de la fe en Cristo y de la aceptación de los principios morales fundados en Dios.
+---
 # Renovación social
 
 > Área: Moral social / Doctrina social

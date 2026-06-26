@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cultura
+tags: ["doctrina_social"]
+
+timestamp: 2026-05-26
+description: Todo aquello con lo que el hombre afina y desarrolla sus innumerables cualidades espirituales y corporales; procura someter el orbe terrestre con su conocimiento y trabajo.
+---
 # Cultura
 
 > Área: Doctrina Social

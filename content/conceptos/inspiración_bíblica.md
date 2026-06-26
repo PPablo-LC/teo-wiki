@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Inspiración bíblica
+tags: ["dogmática_(revelación)"]
+
+timestamp: 2026-05-29
+description: La inspiración bíblica es el carisma del Espíritu Santo por el cual Dios es el autor principal de la Sagrada Escritura, actuando en y por medio de autores humanos verdaderos (hagiógrafos).
+---
 # Inspiración bíblica
 
 > Área: Dogmática (Revelación)

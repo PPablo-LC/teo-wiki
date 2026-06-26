@@ -1,3 +1,11 @@
+---
+type: Persona
+title: Cirilo de Jerusalén
+tags: ["personas", "patrística"]
+
+timestamp: 2026-06-24
+description: "San Cirilo de Jerusalén († 386) fue obispo de Jerusalén y Padre de la Iglesia, reconocido por sus célebres *Catequesis* (c.)"
+---
 # Cirilo de Jerusalén
 
 > Área: Personas / Patrística

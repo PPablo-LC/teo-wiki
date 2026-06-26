@@ -1,3 +1,8 @@
+---
+type: Consulta
+title: Nota sobre el don de temor de Dios
+description: Síntesis de las fuentes CEC y TPCr
+---
 # Nota sobre el don de temor de Dios
 
 > Síntesis de las fuentes CEC y TPCr

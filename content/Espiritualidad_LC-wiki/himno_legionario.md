@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Himno legionario
+tags: ["espiritualidad_legionaria"]
+
+timestamp: 2026-06-14
+description: Himno oficial de la Congregación de los Legionarios de Cristo, con letra de José María Pemán y Pemartín (1897-1981) y música de Ernesto Halffter Escriche (1905-1989).
+---
 # Himno legionario
 
 > Área: Espiritualidad legionaria

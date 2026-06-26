@@ -1,3 +1,9 @@
+---
+type: Análisis Doctrinal
+title: "Christian Bobak — Men Of Integrity: Análisis doctrinal"
+timestamp: 2026-06-03
+description: Conferencia testimonial de Christian Bobak en la Catholic Men's Conference 2022, centrada en la integridad como «temperancia» —entendida como coherencia entre creencias y comportamiento.
+---
 # Christian Bobak — Men Of Integrity: Análisis doctrinal
 
 > Tipo: Análisis doctrinal

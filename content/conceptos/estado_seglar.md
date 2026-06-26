@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Estado Seglar
+tags: ["moral"]
+
+timestamp: 2026-05-20
+description: El Concilio Vaticano II define a los laicos como «los fieles cristianos que, en cuanto incorporados a Cristo por el bautismo.»
+---
 # Estado Seglar
 
 > Área: Moral

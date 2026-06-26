@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Adoración eucarística
+tags: ["dogmática_—_litúrgica"]
+
+timestamp: 2026-06-10
+description: Culto de latría dirigido a Jesucristo realmente presente en la Sagrada Eucaristía bajo las especies del pan y del vino.
+---
 # Adoración eucarística
 
 > Área: Dogmática — Litúrgica

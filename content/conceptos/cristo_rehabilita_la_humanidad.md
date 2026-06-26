@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cristo rehabilita la humanidad
+tags: ["cristología", "soteriología"]
+
+timestamp: 2026-06-22
+description: Mediante su «anonadamiento» (kenosis), Cristo restablece y repara la verdad del hombre universal, rehabilitando a todo ser humano en su dignidad originaria.
+---
 # Cristo rehabilita la humanidad
 
 > Área: Cristología / Soteriología

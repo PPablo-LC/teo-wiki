@@ -1,3 +1,11 @@
+---
+type: Análisis Cultural
+title: "Las aventuras de Pinocho: Análisis cultural"
+timestamp: 2026-06-23
+tags: ["literatura_infantil", "formación_moral", "redención", "paternidad", "mentira"]
+
+description: "*Le avventure di Pinocchio* es una novela del italiano Carlo Collodi (1826-1890), publicada originalmente por entregas en *Giornale per i bambini* (1881-1883)."
+---
 # Las aventuras de Pinocho: Análisis cultural
 
 > Tipo: Novela infantil / cuento de hadas

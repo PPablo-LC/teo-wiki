@@ -1,6 +1,14 @@
+---
+type: Concepto Teológico
+title: Job
+tags: ["teología_bíblica"]
+
+timestamp: 2026-06-19
+description: Job es un libro de la Biblia que trata el problema del sufrimiento inocente.
+---
 # Job
 
-> Área: Bíblico
+> Área: Teología bíblica
 > Última actualización: 2026-06-19
 
 ## Definición

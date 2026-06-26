@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Bien — Mal
+tags: ["dogmática_(moral", "teodicea)"]
+
+timestamp: 2026-06-02
+description: El bien y el mal son las dos categorías morales fundamentales que estructuran la existencia humana ante Dios.
+---
 # Bien — Mal
 
 > Área: Dogmática (Moral, Teodicea)

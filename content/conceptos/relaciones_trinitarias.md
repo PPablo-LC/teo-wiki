@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Relaciones trinitarias
+tags: ["dogmática_(trinidad)"]
+
+timestamp: 2026-06-02
+description: Las relaciones trinitarias son las referencias reales y subsistentes entre las Personas divinas, que constituyen su distinción sin dividir la unidad de la esencia.
+---
 # Relaciones trinitarias
 
 > Área: Dogmática (Trinidad)

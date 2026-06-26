@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Oración de Jesús
+tags: ["cristología", "espiritualidad"]
+
+timestamp: 2026-06-22
+description: La oración de Jesús es la expresión personal de su íntima unión con el Padre, en la cual el Hijo se dirige al Padre con toda su existencia humana.
+---
 # Oración de Jesús
 
 > Área: Cristología / Espiritualidad

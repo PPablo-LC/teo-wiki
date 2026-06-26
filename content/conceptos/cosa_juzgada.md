@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cosa juzgada
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: Cualidad de una sentencia judicial canónica que ha adquirido firmeza, haciéndose inapelable y ejecutiva. Una vez que causa cosa juzgada, la misma causa no puede ser rehecha entre las mismas partes.
+---
 # Cosa juzgada
 
 > Área: Derecho Canónico

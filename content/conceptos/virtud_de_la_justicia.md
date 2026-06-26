@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Virtud de la justicia
+tags: ["moral"]
+
+timestamp: 2026-06-23
+description: "La justicia es la segunda de las [[virtudes_cardinales]], virtud infusa que reside en la voluntad, por la que se da a cada uno lo suyo con voluntad constante y perpetua."
+---
 # Virtud de la justicia
 
 > Área: Moral

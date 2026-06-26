@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Censura eclesiástica
+tags: ["derecho_canónico"]
+
+timestamp: 2026-06-19
+description: La censura eclesiástica es el juicio previo o control posterior que la autoridad eclesiástica ejerce sobre los escritos y otros medios de comunicación social para preservar la integridad de las...
+---
 # Censura eclesiástica
 
 > Área: Derecho Canónico

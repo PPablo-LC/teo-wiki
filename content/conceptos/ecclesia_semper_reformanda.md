@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ecclesia semper reformanda
+tags: ["eclesiología"]
+
+timestamp: 2026-06-13
+description: Principio eclesiológico según el cual la Iglesia, peregrina en la tierra, está llamada a una continua reforma y renovación.
+---
 # Ecclesia semper reformanda
 
 > Área: Eclesiología

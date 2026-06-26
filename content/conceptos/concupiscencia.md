@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Concupiscencia
+tags: ["moral"]
+
+timestamp: 2026-06-23
+description: La concupiscencia es el movimiento o inclinación desordenada de los apetitos sensibles que, como consecuencia del pecado original, habita en el hombre y lo inclina al pecado.
+---
 # Concupiscencia
 
 > Área: Moral

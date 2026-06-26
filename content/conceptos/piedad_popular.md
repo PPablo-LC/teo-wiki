@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Piedad Popular
+tags: ["liturgia", "espiritualidad"]
+
+timestamp: 2026-05-26
+description: Manifestaciones del culto cristiano que, sin ser parte de la liturgia oficial, brotan espontáneamente de la fe del pueblo y son aprobadas por la Iglesia.
+---
 # Piedad Popular
 
 > Área: Liturgia / Espiritualidad

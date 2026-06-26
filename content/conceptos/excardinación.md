@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: excardinación
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: La excardinación es el acto jurídico por el cual un clérigo cesa de pertenecer a una diócesis particular, prelatura personal.
+---
 # excardinación
 
 > Área: Derecho Canónico

@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Casa de formación
+tags: ["formación", "vida_fraterna"]
+
+timestamp: 2026-05-31
+description: La casa de formación es la comunidad educativa en la que se desarrolla la formación inicial de los legionarios, totalmente orientada a la formación humana, espiritual.
+---
 # Casa de formación
 
 > Área: Formación / Vida fraterna

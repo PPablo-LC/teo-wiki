@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Orden sobrenatural
+tags: ["dogmática", "teología_fundamental"]
+
+timestamp: 2026-05-22
+description: El orden sobrenatural es el conjunto de realidades que superan las capacidades y exigencias de la naturaleza humana, comunicadas gratuitamente por Dios para la salvación.
+---
 # Orden sobrenatural
 
 > Área: Dogmática / Teología fundamental

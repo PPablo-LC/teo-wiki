@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Esperanza de la resurrección
+tags: ["escatología"]
+
+timestamp: 2026-06-03
+description: La esperanza de la resurrección es la virtud teologal por la cual el cristiano espera la resurrección de los muertos al final de los tiempos.
+---
 # Esperanza de la resurrección
 
 > Área: Escatología

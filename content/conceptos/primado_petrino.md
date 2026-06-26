@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Primado petrino
+tags: ["eclesiología"]
+
+timestamp: 2026-05-25
+description: El primado petrino es la prerrogativa de jurisdicción suprema y universal que Cristo otorgó al apóstol Pedro y, por sucesión, a los obispos de Roma (los Papas).
+---
 # Primado petrino
 
 > Área: Eclesiología

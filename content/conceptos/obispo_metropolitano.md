@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Obispo metropolitano
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: "El Obispo metropolitano —también llamado [[metropolitano]] o arzobispo metropolitano— es el Arzobispo que preside una [[provincia_eclesiástica]]."
+---
 # Obispo metropolitano
 
 > Área: Derecho Canónico

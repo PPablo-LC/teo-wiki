@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Kenosis
+tags: ["cristología"]
+
+timestamp: 2026-06-21
+description: La kenosis (del griego κένωσις.)
+---
 # Kenosis
 
 > Área: Cristología

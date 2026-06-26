@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ídolos
+tags: ["dogmática", "moral"]
+
+timestamp: 2026-06-02
+description: Realidades creadas a las que se rinde culto debido solo a Dios. La idolatría es la perversión fundamental que consiste en adorar a la criatura en lugar del Creador.
+---
 # Ídolos
 
 > Área: Dogmática / Moral

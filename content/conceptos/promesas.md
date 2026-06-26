@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Promesas
+tags: ["bíblica", "historia_de_la_salvación"]
+
+timestamp: 2026-06-02
+description: "Palabra clave del lenguaje del amor divino: Dios promete empeñando su poder y su fidelidad, suscitando en el hombre la fe capaz de esperar el don."
+---
 # Promesas
 
 > Área: Bíblica, Historia de la salvación

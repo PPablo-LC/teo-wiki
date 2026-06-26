@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Dispensa canónica
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-25
+description: Relajación de una ley meramente eclesiástica en un caso particular, concedida dentro de los límites de su competencia por quienes tienen potestad ejecutiva.
+---
 # Dispensa canónica
 
 > Área: Derecho Canónico

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Orden angélico
+tags: ["dogmática"]
+
+timestamp: 2026-05-22
+description: El orden angélico se refiere tanto a la naturaleza de los ángeles como criaturas espirituales dotadas de inteligencia y voluntad.
+---
 # Orden angélico
 
 > Área: Dogmática

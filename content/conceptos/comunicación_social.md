@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Comunicación social
+tags: ["derecho_canónico"]
+
+timestamp: 2026-06-19
+description: "La comunicación social, en el ordenamiento canónico, designa el conjunto de medios instrumentales (*instrumenta communicationis socialis*) —prensa, radio, televisión."
+---
 # Comunicación social
 
 > Área: Derecho Canónico

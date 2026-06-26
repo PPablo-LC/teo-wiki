@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Razón
+tags: ["dogmática", "filosofía"]
+
+timestamp: 2026-06-20
+description: "La razón (del latín *ratio*) es la facultad del hombre por la que conoce lo verdadero, discierne el bien del mal, y se eleva al conocimiento de Dios y de las realidades sobrenaturales."
+---
 # Razón
 
 > Área: Dogmática / Filosofía

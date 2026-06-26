@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Potencia
+tags: ["filosofía", "teología_fundamental"]
+
+timestamp: 2026-05-26
+description: "En sentido tomista, la potencia (potentia) es el principio o capacidad de recibir o realizar un [[acto]]."
+---
 # Potencia
 
 > Área: Filosofía / Teología Fundamental

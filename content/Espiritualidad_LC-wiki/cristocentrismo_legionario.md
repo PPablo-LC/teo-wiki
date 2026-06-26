@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Cristocentrismo legionario
+tags: ["espiritualidad"]
+
+timestamp: 2026-06-13
+description: El cristocentrismo legionario es la característica fundamental y específica de la espiritualidad de la Congregación de los Legionarios de Cristo.
+---
 # Cristocentrismo legionario
 
 > Área: Espiritualidad

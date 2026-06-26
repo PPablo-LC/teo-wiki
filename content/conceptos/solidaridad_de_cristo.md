@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Solidaridad de Cristo
+tags: ["cristología", "soteriología"]
+
+timestamp: 2026-06-22
+description: La solidaridad de Cristo es la comunión profunda de amor por la cual el Hijo de Dios, al hacerse hombre, asumió voluntariamente la condición humana en todo menos en el pecado.
+---
 # Solidaridad de Cristo
 
 > Área: Cristología / Soteriología

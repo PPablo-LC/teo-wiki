@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Pecado Capital
+tags: ["moral"]
+
+timestamp: 2026-05-22
+description: Vicio o pecado que es cabeza o fuente de otros pecados y vicios.
+---
 # Pecado Capital
 
 > Área: Moral

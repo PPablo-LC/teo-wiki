@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Unidad de la Iglesia
+tags: ["eclesiología"]
+
+timestamp: 2026-05-26
+description: La unidad de la Iglesia es la nota esencial por la cual la Iglesia es una en su fe, en su culto, en su gobierno y en la caridad, como Cuerpo Místico de Cristo.
+---
 # Unidad de la Iglesia
 
 > Área: Eclesiología

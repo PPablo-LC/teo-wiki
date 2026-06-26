@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Organismo Sobrenatural
+tags: ["dogmática"]
+
+timestamp: 2026-05-21
+description: El organismo sobrenatural es el conjunto de principios vitales sobrenaturales que Dios infunde en el alma para hacerla capaz de obrar actos meritorios de vida eterna.
+---
 # Organismo Sobrenatural
 
 > Área: Dogmática

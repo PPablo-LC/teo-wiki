@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Arciprestazgo
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: El arciprestazgo (o vicaría foránea) es la unión de varias parroquias dentro de una misma diócesis, constituida para fomentar la acción pastoral común y la coordinación entre los párrocos.
+---
 # Arciprestazgo
 
 > Área: Derecho Canónico

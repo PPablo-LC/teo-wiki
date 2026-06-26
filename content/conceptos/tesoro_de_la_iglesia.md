@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Tesoro de la Iglesia
+tags: ["dogmática", "sacramental"]
+
+timestamp: 2026-05-22
+description: Conjunto de bienes espirituales acumulados por los méritos de Cristo, de la Santísima Virgen María y de todos los santos.
+---
 # Tesoro de la Iglesia
 
 > Área: Dogmática / Sacramental

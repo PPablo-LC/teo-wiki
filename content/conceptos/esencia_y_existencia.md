@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: esencia_y_existencia
+tags: ["dogmática"]
+
+timestamp: 2026-05-29
+description: Distinción real (distinctio realis) entre esencia y existencia en todas las criaturas; en Dios, por el contrario, la esencia se identifica con la existencia.
+---
 # esencia_y_existencia
 
 > Área: Dogmática

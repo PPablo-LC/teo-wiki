@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Proficientes
+tags: ["ascética", "mística"]
+
+timestamp: 2026-05-22
+description: Estado espiritual intermedio del cristiano que ha progresado en la vida de perfección, correspondiente a la vía iluminativa.
+---
 # Proficientes
 
 > Área: Ascética / Mística

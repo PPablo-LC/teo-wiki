@@ -1,3 +1,11 @@
+---
+type: Persona
+title: Zaqueo
+tags: ["personas", "sagrada_escritura"]
+
+timestamp: 2026-06-22
+description: Zaqueo era el jefe de los publicanos (recaudadores de impuestos) de Jericó, mencionado en Lc 19,1-10.
+---
 # Zaqueo
 
 > Área: Personas / Sagrada Escritura

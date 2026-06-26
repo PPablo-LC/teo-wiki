@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Moral social
+tags: ["moral"]
+
+timestamp: 2026-05-26
+description: La moral social es la parte de la teología moral que estudia los principios éticos que deben regir la vida del hombre en sociedad, conforme a la ley divina y la dignidad de la persona humana.
+---
 # Moral social
 
 > Área: Moral

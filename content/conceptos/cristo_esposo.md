@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cristo Esposo
+tags: ["dogmática", "cristología"]
+
+timestamp: 2026-06-22
+description: Jesucristo es el Esposo de la Iglesia, su esposa mística.
+---
 # Cristo Esposo
 
 > Área: Dogmática / Cristología

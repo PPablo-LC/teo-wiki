@@ -1,3 +1,11 @@
+---
+type: Persona
+title: San Buenaventura
+tags: ["persona"]
+
+timestamp: 2026-05-20
+description: San Buenaventura de Bagnoregio (1221-1274), religioso franciscano, Doctor Seráfico de la Iglesia.
+---
 # San Buenaventura
 
 > Área: Persona

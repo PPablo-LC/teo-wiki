@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Clemencia
+tags: ["moral"]
+
+timestamp: 2026-06-11
+description: La clemencia es una virtud parte de la templanza que modera la imposición de castigos, inclinando al superior a disminuir las penas según la recta razón.
+---
 # Clemencia
 
 > Área: Moral

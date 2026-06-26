@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Exequias
+tags: ["liturgia"]
+
+timestamp: 2026-06-19
+description: Conjunto de celebraciones litúrgicas que la Iglesia ofrece por el difunto desde el momento de la muerte hasta la sepultura.
+---
 # Exequias
 
 > Área: Liturgia

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Vicario foráneo
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: "El vicario foráneo —también llamado arcipreste o decano— es el sacerdote designado por el [[obispo_diocesano]] para promocionar y coordinar la acción pastoral común en una porción determinada de la..."
+---
 # Vicario foráneo
 
 > Área: Derecho canónico

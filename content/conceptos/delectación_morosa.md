@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Delectación morosa
+tags: ["moral"]
+
+timestamp: 2026-06-08
+description: La delectación morosa es el entretenimiento deliberado de la razón en una delectación ilícita, sin determinarse a ponerla por obra.
+---
 # Delectación morosa
 
 > Área: Moral

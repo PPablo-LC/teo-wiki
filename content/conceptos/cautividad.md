@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cautividad
+tags: ["historia_de_la_salvación", "escatología"]
+
+timestamp: 2026-06-02
+description: Situación de opresión y privación de libertad —individual o colectiva— que en la Escritura adquiere un sentido teológico como prueba purificadora, castigo por la infidelidad a la alianza y.
+---
 # Cautividad
 
 > Área: Historia de la Salvación / Escatología

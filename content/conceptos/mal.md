@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Mal
+tags: ["dogmática"]
+
+timestamp: 2026-06-03
+description: "El mal no es una naturaleza o esencia positiva, sino la privación del bien que debe poseerse (*privatio boni*). No tiene ser en sí mismo, sino que existe en el bien como en su sujeto."
+---
 # Mal
 
 > Área: Dogmática

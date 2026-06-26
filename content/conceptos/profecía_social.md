@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Profecía social
+tags: ["doctrina_social"]
+
+timestamp: 2026-06-19
+description: La profecía social es la función de la doctrina social de la Iglesia que realiza una tarea de anuncio y denuncia.
+---
 # Profecía social
 
 > Área: Doctrina Social

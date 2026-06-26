@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Intemperancia
+tags: ["moral"]
+
+timestamp: 2026-06-19
+description: La intemperancia es un vicio capital que consiste en el uso desordenado de los bienes sensibles, especialmente en lo que se refiere a la comida, la bebida y el placer carnal.
+---
 # Intemperancia
 
 > Área: Moral

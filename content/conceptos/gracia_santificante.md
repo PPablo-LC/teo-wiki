@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Gracia Santificante
+tags: ["dogmática"]
+
+timestamp: 2026-06-15
+description: La gracia santificante es un don sobrenatural e inherente al alma, infundido por Dios, que la hace partícipe de la naturaleza divina, hija adoptiva de Dios.
+---
 # Gracia Santificante
 
 > Área: Dogmática

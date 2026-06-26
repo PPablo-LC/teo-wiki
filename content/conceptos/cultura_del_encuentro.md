@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cultura del encuentro
+tags: ["moral", "doctrina_social"]
+
+timestamp: 2026-06-14
+description: La cultura del encuentro es una categoría del magisterio pontificio reciente (Papa Francisco, León XIV) que designa el estilo de relación social fundado en el reconocimiento del otro.
+---
 # Cultura del encuentro
 
 > Área: Moral / Doctrina social

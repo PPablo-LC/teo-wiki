@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Instituto secular
+tags: ["derecho_canónico", "vida_consagrada"]
+
+timestamp: 2026-05-26
+description: El instituto secular es un instituto de vida consagrada en el que los fieles, viviendo en el mundo, profesan los consejos evangélicos (castidad.)
+---
 # Instituto secular
 
 > Área: Derecho Canónico / Vida Consagrada

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Secreto de oficio
+tags: ["derecho_canónico", "moral"]
+
+timestamp: 2026-05-29
+description: Obligación de confidencialidad que vincula a quienes, en razón de su cargo o función eclesiástica, tienen acceso a información sensible sobre la vida de los fieles o sobre causas canónicas.
+---
 # Secreto de oficio
 
 > Área: Derecho Canónico / Moral

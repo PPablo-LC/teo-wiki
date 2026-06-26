@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Diaconado permanente
+tags: ["sacramental", "eclesiología"]
+
+timestamp: 2026-06-17
+description: Grado del sacramento del Orden que configura a Cristo Siervo, conferido a varones que no son ordenados al presbiterado, pudiendo ser casados.
+---
 # Diaconado permanente
 
 > Área: Sacramental / Eclesiología

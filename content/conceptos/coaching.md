@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Coaching
+tags: ["moral", "formación"]
+
+timestamp: 2026-06-03
+description: Método de acompañamiento que busca potenciar las capacidades de una persona —mediante preguntas, escucha activa y retroalimentación— para que alcance metas específicas en el orden humano.
+---
 # Coaching
 
 > Área: Moral / Formación

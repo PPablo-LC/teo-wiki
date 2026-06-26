@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Peregrinación
+tags: ["espiritualidad", "liturgia"]
+
+timestamp: 2026-05-26
+description: "La peregrinación es un viaje devocional que un fiel realiza a un [[santuario]] u otro lugar sagrado, movido por la fe y el deseo de [[conversión]], penitencia o impetración de gracias."
+---
 # Peregrinación
 
 > Área: Espiritualidad / Liturgia

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Preexistencia de Cristo
+tags: ["cristología"]
+
+timestamp: 2026-06-22
+description: La existencia divina y eterna del Hijo de Dios antes de su Encarnación.
+---
 # Preexistencia de Cristo
 
 > Área: Cristología

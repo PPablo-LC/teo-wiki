@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Propiedad privada
+tags: ["moral", "doctrina_social"]
+
+timestamp: 2026-06-17
+description: Derecho legítimo a poseer bienes, subordinado al principio del destino universal de los bienes.
+---
 # Propiedad privada
 
 > Área: Moral / Doctrina Social

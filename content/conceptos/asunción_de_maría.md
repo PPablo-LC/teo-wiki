@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Asunción de María
+tags: ["dogmática", "mariología"]
+
+timestamp: 2026-05-31
+description: "La Asunción de María es el dogma de fe definido por el papa Pío XII el 1 de noviembre de 1950 (Constitución Apostólica *Munificentissimus Deus*) según el cual la Virgen María."
+---
 # Asunción de María
 
 > Área: Dogmática / Mariología

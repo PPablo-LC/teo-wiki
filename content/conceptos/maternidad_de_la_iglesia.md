@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Maternidad de la Iglesia
+tags: ["eclesiología"]
+
+timestamp: 2026-06-18
+description: La maternidad de la Iglesia es la capacidad de la Iglesia, como madre, de engendrar hijos para Dios mediante la predicación de la palabra y el bautismo, y de educarlos en la vida de la gracia.
+---
 # Maternidad de la Iglesia
 
 > Área: Eclesiología

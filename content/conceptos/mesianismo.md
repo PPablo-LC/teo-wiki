@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Mesianismo
+tags: ["dogmática", "cristología"]
+
+timestamp: 2026-05-22
+description: El mesianismo es la doctrina y expectativa referente al Mesías (Cristo, Ungido), el enviado de Dios esperado por Israel para realizar la salvación.
+---
 # Mesianismo
 
 > Área: Dogmática / Cristología

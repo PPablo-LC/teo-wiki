@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Espiritualidad del trabajo
+tags: ["ascética", "doctrina_social"]
+
+timestamp: 2026-06-17
+description: Dimensión de la vida cristiana que descubre en el trabajo humano un camino de santificación y participación en la obra creadora, redentora y consumadora de Dios.
+---
 # Espiritualidad del trabajo
 
 > Área: Ascética / Doctrina Social

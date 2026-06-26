@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Fe
+tags: ["moral", "dogmática"]
+
+timestamp: 2026-06-12
+description: La fe es la primera de las virtudes teologales, virtud infusa sobrenatural por la que creemos firmemente todas las verdades que Dios ha revelado y la Iglesia nos propone para creer.
+---
 # Fe
 
 > Área: Moral / Dogmática

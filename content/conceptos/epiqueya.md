@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Epiqueya
+tags: ["moral"]
+
+timestamp: 2026-06-10
+description: "La epiqueya (del griego *epi* + *dikaion*, «sobre lo justo».)"
+---
 # Epiqueya
 
 > Área: Moral

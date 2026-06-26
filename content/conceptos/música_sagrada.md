@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Música sagrada
+tags: ["liturgia"]
+
+timestamp: 2026-05-26
+description: La música sagrada es aquella creada para el culto divino, dotada de santidad y bondad de formas, que eleva el alma a Dios y dispone a los fieles para recibir la gracia sacramental.
+---
 # Música sagrada
 
 > Área: Liturgia

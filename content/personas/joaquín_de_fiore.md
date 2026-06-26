@@ -1,3 +1,11 @@
+---
+type: Persona
+title: Joaquín de Fiore
+tags: ["historia_—_heterodoxia"]
+
+timestamp: 2026-06-25
+description: Joaquín de Fiore fue un místico y exégeta cisterciense, fundador del monasterio de San Juan de Fiore en Calabria.
+---
 # Joaquín de Fiore
 
 > Área: Historia — Heterodoxia

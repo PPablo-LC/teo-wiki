@@ -1,3 +1,8 @@
+---
+type: Documento
+title: Las siete lámparas de la vida cristiana
+description: Las «siete lámparas de la vida cristiana» son las siete virtudes fundamentales —tres teologales (fe, esperanza, caridad) y cuatro cardinales (prudencia, justicia, fortaleza.)
+---
 # Las siete lámparas de la vida cristiana
 
 > Tipo: Catequesis de audiencias generales

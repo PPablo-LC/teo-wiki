@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Virtudes cardinales
+tags: ["moral", "dogmática"]
+
+timestamp: 2026-05-22
+description: "Las virtudes cardinales son las cuatro virtudes morales principales que constituyen los goznes (cardines) de la vida moral cristiana: prudencia, justicia, fortaleza y templanza."
+---
 # Virtudes cardinales
 
 > Área: Moral / Dogmática

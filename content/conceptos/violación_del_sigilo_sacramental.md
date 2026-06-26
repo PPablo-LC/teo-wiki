@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Violación del sigilo sacramental
+tags: ["derecho_canónico", "sacramental"]
+
+timestamp: 2026-05-29
+description: "La violación del [[sigilo_sacramental]] es el delito canónico consistente en la revelación no autorizada de lo conocido en la confesión sacramental."
+---
 # Violación del sigilo sacramental
 
 > Área: Derecho Canónico / Sacramental

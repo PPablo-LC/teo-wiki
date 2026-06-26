@@ -1,3 +1,11 @@
+---
+type: Documento
+title: Discurso a los Jóvenes Chilenos
+tags: ["documentos"]
+
+timestamp: 2026-06-11
+description: Juan Pablo II se dirige a la juventud chilena llamándolos a asumir su responsabilidad en la construcción de una nueva civilización fundada en Cristo.
+---
 # Discurso a los Jóvenes Chilenos
 
 > Área: Documentos

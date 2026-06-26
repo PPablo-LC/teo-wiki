@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sentidos internos
+tags: ["antropología"]
+
+timestamp: 2026-06-04
+description: Los sentidos internos son facultades sensitivas del alma que procesan, retienen, combinan y valoran las percepciones recibidas por los sentidos externos.
+---
 # Sentidos internos
 
 > Área: Antropología

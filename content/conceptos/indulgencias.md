@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Indulgencias
+tags: ["sacramental"]
+
+timestamp: 2026-05-22
+description: La indulgencia es la remisión ante Dios de la pena temporal debida por los pecados ya perdonados en cuanto a la culpa.
+---
 # Indulgencias
 
 > Área: Sacramental

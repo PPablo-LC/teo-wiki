@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Mística
+tags: ["mística", "teología_espiritual"]
+
+timestamp: 2026-05-22
+description: La mística es la experiencia espiritual de unión con Dios que trasciende el modo humano de conocer y amar, siendo obra del Espíritu Santo mediante los dones del Espíritu Santo.
+---
 # Mística
 
 > Área: Mística / Teología espiritual

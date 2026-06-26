@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Arrobamiento
+tags: ["mística"]
+
+timestamp: 2026-05-22
+description: El arrobamiento (también llamado rapto o éxtasis) es un grado de oración mística en que el alma, intensamente unida a Dios por la contemplación infusa.
+---
 # Arrobamiento
 
 > Área: Mística

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Virtud de la religión
+tags: ["moral"]
+
+timestamp: 2026-05-22
+description: La religión es una virtud moral aneja a la justicia que inclina al hombre a dar a Dios el culto y honor debidos en reconocimiento de su suprema excelencia y de la total dependencia de la criatura...
+---
 # Virtud de la religión
 
 > Área: Moral

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Prefiguraciones de Cristo
+tags: ["hermenéutica_bíblica"]
+
+timestamp: 2026-05-26
+description: Personas, instituciones, acontecimientos y ritos del Antiguo Testamento que, por disposición divina, prefiguran y anuncian a Jesucristo y su obra redentora en el Nuevo Testamento.
+---
 # Prefiguraciones de Cristo
 
 > Área: Hermenéutica Bíblica

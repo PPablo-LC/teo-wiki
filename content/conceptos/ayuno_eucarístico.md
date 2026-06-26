@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ayuno eucarístico
+tags: ["liturgia", "derecho_canónico"]
+
+timestamp: 2026-06-15
+description: "El ayuno eucarístico es la disciplina de abstinencia de alimentos y bebidas que la Iglesia prescribe como preparación corporal y espiritual para recibir la Sagrada [[comunión]]."
+---
 # Ayuno eucarístico
 
 > Área: Liturgia / Derecho Canónico

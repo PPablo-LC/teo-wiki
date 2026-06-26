@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Mancha del pecado
+tags: ["moral"]
+
+timestamp: 2026-06-08
+description: La mancha del pecado es la pérdida del esplendor del alma causada por el contacto desordenado con la criatura mediante el amor pecaminoso.
+---
 # Mancha del pecado
 
 > Área: Moral

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Abuso sexual de menores
+tags: ["moral", "derecho_canónico"]
+
+timestamp: 2026-05-29
+description: "Acto de violencia física, sexual o emocional cometido contra un menor o [[personas_vulnerables|persona vulnerable]], que constituye una gravísima violación del sexto mandamiento."
+---
 # Abuso sexual de menores
 
 > Área: Moral / Derecho Canónico

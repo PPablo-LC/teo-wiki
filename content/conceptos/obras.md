@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Obras
+tags: ["dogmática"]
+
+timestamp: 2026-06-02
+description: La palabra «obras» designa en la Escritura tanto la actividad de Dios (creación y salvación) como la del hombre.
+---
 # Obras
 
 > Área: Dogmática

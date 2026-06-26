@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Entendimiento
+tags: ["antropología"]
+
+timestamp: 2026-06-04
+description: El entendimiento (o inteligencia) es la facultad espiritual del alma humana por la que el hombre conoce la verdad, abstrae las esencias de las cosas sensibles y forma conceptos universales.
+---
 # Entendimiento
 
 > Área: Antropología

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Alimento
+tags: ["moral", "ascética", "eucaristía"]
+
+timestamp: 2026-06-02
+description: "La alimentación humana es presentada en la Escritura en tres niveles: el de la creación y la obediencia, el de la alianza y la fe, y el del Evangelio y la caridad."
+---
 # Alimento
 
 > Área: Moral / Ascética / Eucaristía

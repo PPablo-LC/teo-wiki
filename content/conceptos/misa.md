@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Misa
+tags: ["sacramental", "liturgia"]
+
+timestamp: 2026-06-15
+description: El sacrificio eucarístico, también llamado Santo Sacrificio de la Misa, en el que se hace presente el único sacrificio de Cristo en la cruz bajo las especies eucarísticas.
+---
 # Misa
 
 > Área: Sacramental / Liturgia

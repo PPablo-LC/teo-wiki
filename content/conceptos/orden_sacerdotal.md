@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Orden sacerdotal
+tags: ["sacramental"]
+
+timestamp: 2026-06-15
+description: "El orden sacerdotal es el sacramento que imprime el [[carácter_sacramental]] indeleble de mayor grado, configura a Cristo sacerdote, y capacita para ejercer el ministerio sagrado en la [[iglesia]]."
+---
 # Orden sacerdotal
 
 > Área: Sacramental

@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Normas complementarias (NC)
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-31
+description: "Las Normas complementarias (NC) son el conjunto de disposiciones que acompañan a las [[constituciones_legionarios_de_cristo|Constituciones de la Congregación de los Legionarios de Cristo]]."
+---
 # Normas complementarias (NC)
 
 > Área: Derecho canónico

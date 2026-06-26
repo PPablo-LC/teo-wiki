@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Advocaciones marianas
+tags: ["mariología", "piedad_popular"]
+
+timestamp: 2026-05-26
+description: "Títulos y denominaciones bajo los cuales la [[virgen_maría]] es invocada y venerada, tanto en la liturgia como en la [[piedad_popular]]."
+---
 # Advocaciones marianas
 
 > Área: Mariología / Piedad popular

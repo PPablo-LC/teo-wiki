@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Personalismo
+tags: ["filosofía", "antropología_teológica"]
+
+timestamp: 2026-06-15
+description: Corriente filosófica que afirma el valor absoluto y la centralidad de la persona humana, entendida como un ser único, irrepetible, dotado de dignidad intrínseca.
+---
 # Personalismo
 
 > Área: Filosofía / Antropología teológica

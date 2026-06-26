@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Encarnación revaloriza la humanidad
+tags: ["cristología", "antropología_teológica"]
+
+timestamp: 2026-06-22
+description: "La Encarnación del Hijo de Dios constituye una «revalorización» inefable del hombre y de la humanidad: al asumir la naturaleza humana, Cristo revela y eleva la dignidad esencial de todo ser humano."
+---
 # Encarnación revaloriza la humanidad
 
 > Área: Cristología / Antropología teológica

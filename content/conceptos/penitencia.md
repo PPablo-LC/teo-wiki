@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Penitencia
+tags: ["sacramental"]
+
+timestamp: 2026-06-15
+description: La penitencia es el sacramento instituido por Nuestro Señor Jesucristo para perdonar los pecados cometidos después del bautismo.
+---
 # Penitencia
 
 > Área: Sacramental

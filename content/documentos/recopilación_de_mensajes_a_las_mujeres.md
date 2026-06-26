@@ -1,3 +1,8 @@
+---
+type: Documento
+title: Recopilación de mensajes a las mujeres
+description: 41 secciones que recogen los mensajes y discursos de Juan Pablo II dirigidos a las mujeres o sobre la mujer.
+---
 # Recopilación de mensajes a las mujeres
 
 > Código: **Muj**

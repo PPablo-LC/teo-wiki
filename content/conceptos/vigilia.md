@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Vigilia
+tags: ["ascética"]
+
+timestamp: 2026-05-22
+description: Práctica ascética consistente en la privación voluntaria del sueño para dedicarse a la oración, la lectura espiritual o la penitencia.
+---
 # Vigilia
 
 > Área: Ascética

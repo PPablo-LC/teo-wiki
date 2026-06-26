@@ -1,3 +1,9 @@
+---
+type: Análisis Doctrinal
+title: "Ali Ghaffari — Courage: The Best Response to Fear: Análisis doctrinal"
+timestamp: 2026-06-03
+description: Conferencia del emprendedor Ali Ghaffari en la Catholic Men's Conference 2022.
+---
 # Ali Ghaffari — Courage: The Best Response to Fear: Análisis doctrinal
 
 > Tipo: Análisis doctrinal

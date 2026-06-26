@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Embotamiento espiritual
+tags: ["moral", "ascética"]
+
+timestamp: 2026-05-22
+description: "El embotamiento espiritual (hebetudo sensus) es un vicio opuesto al [[don_de_entendimiento]] que consiste en un debilitamiento notable del sentido espiritual."
+---
 # Embotamiento espiritual
 
 > Área: Moral / Ascética

@@ -1,3 +1,11 @@
+---
+type: Persona
+title: María de Jesús de Ágreda
+tags: ["persona", "hagiografía"]
+
+timestamp: 2026-05-22
+description: María Fernández Coronel (1602-1665), conocida como la Venerable María de Ágreda o Sor María de Jesús, fue una religiosa concepcionista franciscana española, nacida en Ágreda (Soria).
+---
 # María de Jesús de Ágreda
 
 > Área: Persona / Hagiografía

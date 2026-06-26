@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Imputabilidad
+tags: ["moral", "derecho_canónico"]
+
+timestamp: 2026-05-26
+description: Responsabilidad moral y jurídica de una persona por sus propios actos.
+---
 # Imputabilidad
 
 > Área: Moral / Derecho Canónico

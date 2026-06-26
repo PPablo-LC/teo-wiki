@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ley humana
+tags: ["moral", "derecho"]
+
+timestamp: 2026-05-26
+description: "La ley humana (o ley positiva humana) es la ordenación de la razón promulgada por la autoridad legítima para el [[bien_común]]."
+---
 # Ley humana
 
 > Área: Moral / Derecho

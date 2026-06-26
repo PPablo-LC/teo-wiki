@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Grados de oración
+tags: ["ascética", "mística"]
+
+timestamp: 2026-05-20
+description: Los grados de oración son las etapas sucesivas por las que el alma progresa en su vida de oración, desde las formas más elementales hasta la unión transformativa con Dios.
+---
 # Grados de oración
 
 > Área: Ascética / Mística

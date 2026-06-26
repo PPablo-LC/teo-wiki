@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Milagros en la Iglesia
+tags: ["eclesiología"]
+
+timestamp: 2026-06-22
+description: "Prolongación de los milagros de Cristo a través de los Apóstoles y de los santos a lo largo de la historia de la [[iglesia]]."
+---
 # Milagros en la Iglesia
 
 > Área: Eclesiología

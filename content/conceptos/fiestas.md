@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Fiestas
+tags: ["bíblica", "liturgia"]
+
+timestamp: 2026-06-02
+description: Celebraciones cultuales que ponen al hombre en contacto con Dios en el gozo.
+---
 # Fiestas
 
 > Área: Bíblica / Liturgia

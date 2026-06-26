@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Vestido
+tags: ["escritura", "simbología_bíblica"]
+
+timestamp: 2026-06-02
+description: El vestido en la Biblia es símbolo de la condición humana, de la dignidad personal y de la justicia delante de Dios.
+---
 # Vestido
 
 > Área: Escritura / Simbología bíblica

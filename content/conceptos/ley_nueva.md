@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ley nueva
+tags: ["dogmática", "moral"]
+
+timestamp: 2026-05-22
+description: La Ley nueva, también llamada Ley evangélica o Ley de Cristo, es la ley de la Nueva Alianza promulgada por Cristo en el Sermón del Monte.
+---
 # Ley nueva
 
 > Área: Dogmática / Moral

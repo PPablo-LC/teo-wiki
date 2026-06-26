@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Milagros de los santos
+tags: ["hagiografía", "teología_fundamental"]
+
+timestamp: 2026-06-22
+description: «Signos» milagrosos realizados a lo largo de la historia de la Iglesia por intercesión de los santos, documentados especialmente en los procesos de canonización.
+---
 # Milagros de los santos
 
 > Área: Hagiografía / Teología fundamental

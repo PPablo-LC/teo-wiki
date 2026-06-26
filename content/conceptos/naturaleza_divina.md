@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Naturaleza divina
+tags: ["dogmática", "teología_natural"]
+
+timestamp: 2026-05-26
+description: "Lo que [[dios]] es en sí mismo: la esencia divina, acto puro, infinito en perfección, simple, inmutable, eterno e incomprensible para toda inteligencia creada."
+---
 # Naturaleza divina
 
 > Área: Dogmática / Teología natural

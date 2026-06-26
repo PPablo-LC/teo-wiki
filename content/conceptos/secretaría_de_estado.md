@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Secretaría de Estado
+tags: ["derecho_canónico", "eclesiología"]
+
+timestamp: 2026-05-29
+description: "La Secretaría de Estado es el dicasterio más antiguo e importante de la [[curia_romana]], que asiste directamente al Romano Pontífice en el ejercicio de su suprema misión pastoral."
+---
 # Secretaría de Estado
 
 > Área: Derecho Canónico / Eclesiología

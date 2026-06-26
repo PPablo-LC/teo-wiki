@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Imprimatur
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: "El *imprimatur* es la licencia otorgada por la autoridad eclesiástica competente para la publicación de escritos relacionados con la fe o las costumbres, previo examen favorable del censor."
+---
 # Imprimatur
 
 > Área: Derecho Canónico

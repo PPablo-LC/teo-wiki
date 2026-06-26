@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Concilio
+tags: ["eclesiología"]
+
+timestamp: 2026-05-25
+description: Un concilio ecuménico es la reunión solemne de todos los obispos del mundo, bajo la autoridad del Romano Pontífice, para deliberar y definir sobre materias de fe, moral y disciplina eclesiástica.
+---
 # Concilio
 
 > Área: Eclesiología

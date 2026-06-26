@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Conversión institucional
+tags: ["eclesiología", "espiritualidad"]
+
+timestamp: 2026-06-13
+description: La conversión institucional es el proceso por el cual una institución eclesial reconoce sus errores históricos, se arrepiente de ellos, repara el daño causado y reforma sus estructuras.
+---
 # Conversión institucional
 
 > Área: Eclesiología / Espiritualidad

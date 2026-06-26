@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Incendios de Amor
+tags: ["mística"]
+
+timestamp: 2026-05-22
+description: Los incendios de amor son fenómenos místicos de orden predominantemente afectivo en los que el amor de Dios abrasa el alma con tal intensidad que produce manifestaciones sensibles extraordinarias.
+---
 # Incendios de Amor
 
 > Área: Mística

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Adopción Sobrenatural
+tags: ["dogmática"]
+
+timestamp: 2026-05-25
+description: La adopción sobrenatural es el acto por el cual Dios, por la gracia santificante, constituye al alma justa en hija adoptiva suya, partícipe de la naturaleza divina y heredera de la gloria eterna.
+---
 # Adopción Sobrenatural
 
 > Área: Dogmática

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Bestia
+tags: ["dogmática_(escatología", "antiguo_testamento)"]
+
+timestamp: 2026-06-02
+description: En la Sagrada Escritura, las bestias (animales feroces, monstruos, dragón, serpiente) constituyen una simbólica del mal y de las fuerzas adversarias al designio de Dios.
+---
 # Bestia
 
 > Área: Dogmática (Escatología, Antiguo Testamento)

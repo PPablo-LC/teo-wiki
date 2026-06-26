@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Rerum Novarum
+tags: ["doctrina_social"]
+
+timestamp: 2026-06-19
+description: La «Rerum Novarum» es la primera gran encíclica social de la Iglesia, promulgada por León XIII en 1891, que inauguró la moderna doctrina social católica.
+---
 # Rerum Novarum
 
 > Área: Doctrina social

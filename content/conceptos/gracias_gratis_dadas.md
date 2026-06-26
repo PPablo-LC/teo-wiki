@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Gracias gratis dadas
+tags: ["dogmática"]
+
+timestamp: 2026-06-08
+description: Dones gratuitos o carismas que el Espíritu Santo concede, no principalmente para la santificación del que los recibe, sino para la edificación de la Iglesia.
+---
 # Gracias gratis dadas
 
 > Área: Dogmática

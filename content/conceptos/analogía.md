@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Analogía
+tags: ["dogmática", "teología_fundamental"]
+
+timestamp: 2026-06-17
+description: La analogía es el modo propio del lenguaje teológico, por el cual podemos nombrar a Dios a partir de las perfecciones de las criaturas.
+---
 # Analogía
 
 > Área: Dogmática / Teología fundamental

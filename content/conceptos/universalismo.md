@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Universalismo
+tags: ["dogmática", "eclesiología", "escritura"]
+
+timestamp: 2026-06-23
+description: Perspectiva teológica según la cual el designio salvífico de Dios se extiende a todos los hombres y a todas las naciones, sin limitación de raza, pueblo o condición.
+---
 # Universalismo
 
 > Área: Dogmática / Eclesiología / Escritura

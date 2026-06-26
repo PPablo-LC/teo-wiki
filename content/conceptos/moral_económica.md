@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Moral económica
+tags: ["moral", "doctrina_social"]
+
+timestamp: 2026-06-19
+description: "La relación entre moral y economía es necesaria e intrínseca: la actividad económica y el comportamiento moral se compenetran íntimamente."
+---
 # Moral económica
 
 > Área: Moral / Doctrina social

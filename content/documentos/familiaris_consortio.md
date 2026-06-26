@@ -1,3 +1,8 @@
+---
+type: Documento
+title: Familiaris Consortio
+description: "*Familiaris Consortio* (FC) es la primera exhortación apostólica de San Juan Pablo II, publicada el 22 de noviembre de 1981, solemnidad de Jesucristo Rey del Universo."
+---
 # Familiaris Consortio
 
 > **Código:** FC

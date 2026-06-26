@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Participación social
+tags: ["moral", "doctrina_social"]
+
+timestamp: 2026-06-19
+description: Compromiso voluntario y generoso de la persona en los intercambios sociales, inherente a la dignidad humana.
+---
 # Participación social
 
 > Área: Moral / Doctrina Social

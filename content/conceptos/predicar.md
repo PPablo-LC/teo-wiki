@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Predicar
+tags: ["bíblica", "teología_de_la_predicación"]
+
+timestamp: 2026-06-02
+description: "Proclamación solemne (*kerygma*) del acontecimiento de la salvación: Jesús es Señor y Salvador."
+---
 # Predicar
 
 > Área: Bíblica, Teología de la predicación

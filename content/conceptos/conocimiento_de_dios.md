@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Conocimiento de Dios
+tags: ["dogmática"]
+
+timestamp: 2026-06-17
+description: El conocimiento de Dios es la captación intelectual por la cual el hombre, mediante la luz natural de la razón o mediante la luz sobrenatural de la fe, alcanza alguna cognición del Ser divino.
+---
 # Conocimiento de Dios
 
 > Área: Dogmática

@@ -1,3 +1,11 @@
+---
+type: Persona
+title: Abraham
+tags: ["dogmática", "historia_de_la_salvación"]
+
+timestamp: 2026-06-02
+description: Abraham es el patriarca de la fe, padre del pueblo de Israel y modelo de fe para todos los creyentes.
+---
 # Abraham
 
 > Área: Dogmática / Historia de la Salvación

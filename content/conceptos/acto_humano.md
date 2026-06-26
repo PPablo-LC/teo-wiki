@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Acto humano
+tags: ["teología_moral"]
+
+timestamp: 2026-06-05
+description: "El acto humano es aquel que procede de la [[voluntad]] libre e informada por el [[entendimiento]]."
+---
 # Acto humano
 
 > Área: Teología moral

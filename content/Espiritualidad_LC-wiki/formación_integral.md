@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Formación integral
+tags: ["ascética", "formación"]
+
+timestamp: 2026-06-12
+description: La formación integral es una característica del proceso formativo legionario según la cual la formación debe abarcar y armonizar todas las dimensiones de la persona.
+---
 # Formación integral
 
 > Área: Ascética / Formación

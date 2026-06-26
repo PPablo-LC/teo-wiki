@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Concelebración
+tags: ["liturgia", "sacramental"]
+
+timestamp: 2026-05-26
+description: La concelebración es la celebración de la Misa por varios sacerdotes simultáneamente, en la cual se manifiesta apropiadamente la unidad del sacerdocio y del sacrificio eucarístico.
+---
 # Concelebración
 
 > Área: Liturgia / Sacramental

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Las Tres Vías
+tags: ["ascética_y_mística"]
+
+timestamp: 2026-05-20
+description: Las tres vías —purgativa, iluminativa y unitiva— son la clasificación clásica de las etapas del desarrollo normal de la vida espiritual cristiana.
+---
 # Las Tres Vías
 
 > Área: Ascética y Mística

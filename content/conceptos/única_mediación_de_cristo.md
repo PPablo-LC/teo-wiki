@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Única mediación de Cristo
+tags: ["soteriología", "cristología"]
+
+timestamp: 2026-06-18
+description: La única mediación de Cristo es la verdad revelada de que Jesucristo es el único mediador entre Dios y los hombres (1 Tm 2,5-6).
+---
 # Única mediación de Cristo
 
 > Área: Soteriología / Cristología

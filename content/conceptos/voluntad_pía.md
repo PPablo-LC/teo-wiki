@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Voluntad pía
+tags: ["derecho_canónico"]
+
+timestamp: 2026-06-19
+description: La voluntad pía (o pía voluntad) es la disposición de bienes, tanto por acto inter vivos como mortis causa, que un fiel realiza en favor de causas pías, es decir, para fines religiosos.
+---
 # Voluntad pía
 
 > Área: Derecho Canónico

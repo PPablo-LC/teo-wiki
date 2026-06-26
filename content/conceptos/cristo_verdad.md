@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cristo Verdad
+tags: ["cristología"]
+
+timestamp: 2026-06-22
+description: "Cristo es la Verdad subsistente, el Verbo eterno del Padre que se hizo carne \"lleno de gracia y de verdad\" (Jn 1,14). Jesús declara: \"Yo soy el camino, la verdad y la vida\" (Jn 14,6), revelando que..."
+---
 # Cristo Verdad
 
 > Área: Cristología

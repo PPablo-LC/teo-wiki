@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Agua
+tags: ["sacramental", "at", "nt"]
+
+timestamp: 2026-06-02
+description: "El agua es en la Escritura un símbolo polivalente: poder de vida (fuente, lluvia, río) y poder de muerte (inundación, caos), e instrumento de purificación."
+---
 # Agua
 
 > Área: Sacramental / AT / NT

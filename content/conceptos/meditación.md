@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Meditación
+tags: ["ascética"]
+
+timestamp: 2026-05-20
+description: La meditación discursiva es la aplicación razonada de la mente a una verdad sobrenatural para convencernos de ella y movernos a amarla y practicarla con ayuda de la gracia.
+---
 # Meditación
 
 > Área: Ascética

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Inconstancia
+tags: ["moral_(ascética)"]
+
+timestamp: 2026-06-23
+description: "La inconstancia es el vicio contrario a la virtud de la [[perseverancia]], que consiste en la facilidad para abandonar el bien emprendido ante las dificultades."
+---
 # Inconstancia
 
 > Área: Moral (Ascética)

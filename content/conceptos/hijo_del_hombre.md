@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Hijo del hombre
+tags: ["dogmática_(cristología)"]
+
+timestamp: 2026-06-22
+description: Título empleado por Jesús para designarse a sí mismo en los evangelios, que sugiere veladamente su origen celestial, su misión sufriente y su gloria escatológica como juez universal.
+---
 # Hijo del hombre
 
 > Área: Dogmática (Cristología)

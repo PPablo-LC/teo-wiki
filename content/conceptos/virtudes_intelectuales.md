@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Virtudes intelectuales
+tags: ["moral", "dogmática"]
+
+timestamp: 2026-06-07
+description: Hábitos que perfeccionan el entendimiento para el conocimiento de la verdad (especulativas) o para la recta razón en el obrar o el hacer (prácticas).
+---
 # Virtudes intelectuales
 
 > Área: Moral / Dogmática

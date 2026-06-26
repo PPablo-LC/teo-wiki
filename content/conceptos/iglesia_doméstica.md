@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Iglesia doméstica
+tags: ["eclesiología", "sacramental"]
+
+timestamp: 2026-06-20
+description: La familia cristiana es llamada «Iglesia doméstica» o pequeña Iglesia, en cuanto que, íntimamente unida a la Iglesia por el vínculo sacramental del matrimonio.
+---
 # Iglesia doméstica
 
 > Área: Eclesiología / Sacramental

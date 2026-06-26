@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Acedia
+tags: ["ascética"]
+
+timestamp: 2026-05-26
+description: Pereza espiritual o tristeza que lleva al abandono de los deberes espirituales. Es uno de los [[pecados_capitales]] y se opone a la alegría que brota del servicio a Dios.
+---
 # Acedia
 
 > Área: Ascética

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Amor de Dios
+tags: ["dogmática", "teología_moral"]
+
+timestamp: 2026-06-20
+description: "El amor de Dios (*amor Dei*) es el amor con el cual Dios se ama a sí mismo infinitamente y se inclina hacia sus criaturas con amor de benevolencia."
+---
 # Amor de Dios
 
 > Área: Dogmática / Teología moral

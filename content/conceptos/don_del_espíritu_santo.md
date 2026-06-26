@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Don del Espíritu Santo
+tags: ["dogmática", "mística"]
+
+timestamp: 2026-05-22
+description: El don del Espíritu Santo es un hábito sobrenatural infundido por Dios en el alma junto con la gracia santificante.
+---
 # Don del Espíritu Santo
 
 > Área: Dogmática / Mística

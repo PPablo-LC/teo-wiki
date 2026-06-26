@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Motivos de credibilidad
+tags: ["teología_fundamental"]
+
+timestamp: 2026-05-26
+description: "Signos externos e internos que acompañan a la [[revelación]] divina y la hacen digna de ser aceptada como verdadera por la razón humana."
+---
 # Motivos de credibilidad
 
 > Área: Teología fundamental

@@ -1,3 +1,11 @@
+---
+type: Persona
+title: Bonifacio II (Papa)
+tags: ["patrística_—_papas"]
+
+timestamp: 2026-06-25
+description: Bonifacio II fue Papa de la Iglesia Católica desde 530 hasta 532. Nacido ostrogodo, fue el primer Papa de origen germánico.
+---
 # Bonifacio II (Papa)
 
 > Área: Patrística — Papas

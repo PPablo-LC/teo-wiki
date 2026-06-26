@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Evangelios
+tags: ["sagrada_escritura"]
+
+timestamp: 2026-05-26
+description: Los cuatro Evangelios (Mateo, Marcos, Lucas y Juan) son los escritos del Nuevo Testamento que ocupan el lugar preeminente entre todas las Escrituras.
+---
 # Evangelios
 
 > Área: Sagrada Escritura

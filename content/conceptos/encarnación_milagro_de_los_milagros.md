@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Encarnación, milagro de los milagros
+tags: ["cristología"]
+
+timestamp: 2026-06-22
+description: "La [[encarnación]] del Hijo de Dios es el «milagro de los milagros»."
+---
 # Encarnación, milagro de los milagros
 
 > Área: Cristología

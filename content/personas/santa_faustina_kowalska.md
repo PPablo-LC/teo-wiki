@@ -1,3 +1,11 @@
+---
+type: Persona
+title: Santa Faustina Kowalska
+tags: ["espiritualidad", "mística"]
+
+timestamp: 2026-06-18
+description: "**Santa María Faustina Kowalska** (1905-1938), religiosa polaca de la Congregación de las Hermanas de la Madre Misericordiosa."
+---
 # Santa Faustina Kowalska
 
 > Área: Espiritualidad / Mística

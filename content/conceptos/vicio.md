@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Vicio
+tags: ["moral"]
+
+timestamp: 2026-05-22
+description: Hábito malo o disposición permanente adquirida por la repetición de actos pecaminosos, que inclina al alma a obrar el mal con facilidad.
+---
 # Vicio
 
 > Área: Moral

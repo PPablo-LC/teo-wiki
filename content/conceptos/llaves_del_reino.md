@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Llaves del Reino
+tags: ["eclesiología"]
+
+timestamp: 2026-05-29
+description: Potestad de gobierno y absolución conferida por Jesucristo a Simón Pedro —y en él a sus sucesores— para gobernar la Iglesia como casa de Dios.
+---
 # Llaves del Reino
 
 > Área: Eclesiología

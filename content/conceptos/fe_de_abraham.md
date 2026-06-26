@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Fe de Abraham
+tags: ["teología_bíblica"]
+
+timestamp: 2026-06-18
+description: La fe de Abraham es el modelo bíblico de la obediencia de la fe (Hb 11,8).
+---
 # Fe de Abraham
 
 > Área: Teología bíblica

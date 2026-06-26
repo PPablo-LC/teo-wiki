@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cristo, objeto de fe
+tags: ["cristología", "dogmática"]
+
+timestamp: 2026-06-22
+description: Cristo se presenta a sí mismo como objeto de la fe que exige a sus discípulos. No pide solo fe en el Mesías como Enviado de Dios, sino fe en el Hijo que es de la misma naturaleza que el Padre.
+---
 # Cristo, objeto de fe
 
 > Área: Cristología / Dogmática

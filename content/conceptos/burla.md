@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Burla
+tags: ["moral"]
+
+timestamp: 2026-06-09
+description: "La burla o escarnio (derisio) es un pecado contra la [[virtud_de_la_justicia]] que consiste en hacer mofa de otro, despreciándolo y humillándolo mediante palabras."
+---
 # Burla
 
 > Área: Moral

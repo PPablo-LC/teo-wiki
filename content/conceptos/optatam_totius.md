@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Optatam Totius
+tags: ["teología_espiritual", "formación_sacerdotal"]
+
+timestamp: 2026-05-26
+description: Decreto del Concilio Vaticano II sobre la formación sacerdotal, promulgado el 28 de octubre de 1965.
+---
 # Optatam Totius
 
 > Área: Teología espiritual / Formación sacerdotal

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Voluntad de Dios
+tags: ["dogmática", "moral", "ascética"]
+
+timestamp: 2026-06-02
+description: La voluntad de Dios es el designio eterno y sapientísimo por el cual Dios quiere y ordena todas las cosas para su gloria y la salvación de los hombres.
+---
 # Voluntad de Dios
 
 > Área: Dogmática / Moral / Ascética

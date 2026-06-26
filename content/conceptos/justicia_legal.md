@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Justicia legal
+tags: ["moral"]
+
+timestamp: 2026-06-23
+description: La justicia legal es la virtud moral que ordena los actos de todas las demás virtudes al bien común de la sociedad. Se llama "legal" porque tiene por objeto la ley en cuanto ordenada al bien común.
+---
 # Justicia legal
 
 > Área: Moral

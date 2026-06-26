@@ -1,3 +1,11 @@
+---
+type: Persona
+title: Albino G. Menéndez-Reigada OP
+tags: ["persona"]
+
+timestamp: 2026-05-20
+description: "Albino González Menéndez-Reigada fue un religioso dominico español, que llegó a ser obispo. Prologó la primera edición de *Teología de la Perfección Cristiana* de Antonio Royo Marín OP."
+---
 # Albino G. Menéndez-Reigada OP
 
 > Área: Persona

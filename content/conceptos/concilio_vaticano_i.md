@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Concilio Vaticano I
+tags: ["dogmática", "eclesiología"]
+
+timestamp: 2026-05-25
+description: El Concilio Vaticano I (1869-1870) fue el vigésimo concilio ecuménico de la Iglesia Católica, convocado por el Papa Pío IX.
+---
 # Concilio Vaticano I
 
 > Área: Dogmática / Eclesiología

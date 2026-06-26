@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Abuso de autoridad
+tags: ["moral", "derecho_canónico"]
+
+timestamp: 2026-05-25
+description: El abuso de autoridad es el ejercicio ilegítimo de la autoridad o del cargo por parte de quien los posee legítimamente, que consiste en la violación grave de la ley divina.
+---
 # Abuso de autoridad
 
 > Área: Moral / Derecho canónico

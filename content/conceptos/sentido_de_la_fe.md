@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sentido de la Fe
+tags: ["eclesiología"]
+
+timestamp: 2026-05-26
+description: "El sentido de la fe (*sensus fidei*) es la capacidad sobrenatural del Pueblo de Dios para adherirse indefectiblemente a la fe recibida."
+---
 # Sentido de la Fe
 
 > Área: Eclesiología

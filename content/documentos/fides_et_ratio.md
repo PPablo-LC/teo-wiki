@@ -1,3 +1,9 @@
+---
+type: Documento
+title: Fides et Ratio
+timestamp: 2026-06-18
+description: "La Encíclica *Fides et Ratio* («Fe y Razón») fue promulgada por el Papa San Juan Pablo II el 14 de septiembre de 1998, fiesta de la Exaltación de la Santa Cruz, en el vigésimo año de su pontificado."
+---
 # Fides et Ratio
 
 > Código: **FR**

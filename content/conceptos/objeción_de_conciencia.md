@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Objeción de conciencia
+tags: ["moral", "doctrina_social"]
+
+timestamp: 2026-05-25
+description: Derecho y deber moral de negarse a cumplir prescripciones de las autoridades civiles cuando éstas son contrarias a las exigencias del orden moral.
+---
 # Objeción de conciencia
 
 > Área: Moral / Doctrina Social

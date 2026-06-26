@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Idolatría
+tags: ["moral"]
+
+timestamp: 2026-05-26
+description: Pecado contra el primer mandamiento del Decálogo que consiste en tributar a una criatura —ídolo, persona, poder, riqueza o cualquier realidad creada— la adoración debida solo a Dios.
+---
 # Idolatría
 
 > Área: Moral

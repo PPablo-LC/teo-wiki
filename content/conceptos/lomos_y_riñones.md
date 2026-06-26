@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Lomos y riñones
+tags: ["bíblica", "antropología_bíblica"]
+
+timestamp: 2026-06-02
+description: En la antropología bíblica, los lomos simbolizan la fuerza y la disposición para la acción (ceñir los lomos), mientras que los riñones representan las reacciones profundas.
+---
 # Lomos y riñones
 
 > Área: Bíblica, Antropología bíblica

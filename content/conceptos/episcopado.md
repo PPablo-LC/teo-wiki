@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Episcopado
+tags: ["eclesiología", "sacramental"]
+
+timestamp: 2026-05-25
+description: "El episcopado es el grado pleno del [[orden_sacerdotal]], recibido por el sacramento del Orden, que confiere al obispo la plenitud del sacerdocio, la misión de enseñar."
+---
 # Episcopado
 
 > Área: Eclesiología / Sacramental

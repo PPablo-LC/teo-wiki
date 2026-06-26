@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Autonomía de las realidades terrenas
+tags: ["doctrina_social"]
+
+timestamp: 2026-05-25
+description: Principio según el cual las realidades terrenas —la sociedad, la política, la economía, la cultura y las ciencias— gozan de leyes y valores propios que el hombre debe descubrir, emplear y ordenar.
+---
 # Autonomía de las realidades terrenas
 
 > Área: Doctrina Social

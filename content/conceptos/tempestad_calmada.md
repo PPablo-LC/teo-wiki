@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Tempestad calmada
+tags: ["cristología"]
+
+timestamp: 2026-06-22
+description: "Milagro en el que Jesús, durmiendo en la barca durante una tempestad en el lago de Genesaret, ordena al viento y al mar: «Calla, enmudece» (Mc 4,39), obteniendo una gran bonanza."
+---
 # Tempestad calmada
 
 > Área: Cristología

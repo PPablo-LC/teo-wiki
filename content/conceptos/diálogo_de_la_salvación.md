@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Diálogo de la salvación
+tags: ["eclesiología", "misionología"]
+
+timestamp: 2026-06-20
+description: El «diálogo de la salvación» es el método de la Iglesia para la evangelización y el encuentro con el mundo, las otras religiones y culturas.
+---
 # Diálogo de la salvación
 
 > Área: Eclesiología / Misionología

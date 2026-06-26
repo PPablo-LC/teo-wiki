@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cuerpo de Cristo
+tags: ["dogmática"]
+
+timestamp: 2026-06-23
+description: "«Cuerpo de Cristo» es una expresión con tres sentidos principales en el misterio de la salvación: (1) el cuerpo individual de Jesús, verdadero cuerpo humano asumido por el Verbo en la Encarnación."
+---
 # Cuerpo de Cristo
 
 > Área: Dogmática

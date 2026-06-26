@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Piedra
+tags: ["hermenéutica_bíblica", "cristología"]
+
+timestamp: 2026-06-02
+description: Imagen bíblica tomada del mundo material que, por su solidez y durabilidad, se aplica a Cristo como fundamento de la Iglesia, piedra angular y roca de salvación.
+---
 # Piedra
 
 > Área: Hermenéutica Bíblica / Cristología

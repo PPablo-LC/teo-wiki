@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Voto propio (Legión de Cristo)
+tags: ["vida_consagrada", "derecho_canónico"]
+
+timestamp: 2026-05-29
+description: El voto propio es un voto distintivo de los Legionarios de Cristo por el cual el religioso se compromete a no obrar para alcanzar o conservar, ni para sí ni para otros.
+---
 # Voto propio (Legión de Cristo)
 
 > Área: Vida Consagrada / Derecho Canónico

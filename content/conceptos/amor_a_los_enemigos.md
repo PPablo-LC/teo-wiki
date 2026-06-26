@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Amor a los enemigos
+tags: ["moral", "ascética"]
+
+timestamp: 2026-06-03
+description: Precepto evangélico que manda amar a quienes nos persiguen o nos han hecho mal, como expresión suprema de la caridad cristiana y de la perfección del amor al prójimo.
+---
 # Amor a los enemigos
 
 > Área: Moral / Ascética

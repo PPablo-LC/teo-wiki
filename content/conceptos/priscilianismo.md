@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Priscilianismo
+tags: ["historia_de_las_herejías"]
+
+timestamp: 2026-06-24
+description: El priscilianismo fue un movimiento herético del siglo IV en Hispania, fundado por Prisciliano († 385), que combinaba elementos gnósticos, maniqueos y astrológicos con una rigurosa práctica ascética.
+---
 # Priscilianismo
 
 > Área: Historia de las herejías

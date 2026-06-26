@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Prudencia de la Carne
+tags: ["moral", "ascética"]
+
+timestamp: 2026-06-23
+description: "Expresión bíblica tomada de Romanos 8,6 (*prudentia carnis* / φρόνημα σαρκός)."
+---
 # Prudencia de la Carne
 
 > Área: Moral / Ascética

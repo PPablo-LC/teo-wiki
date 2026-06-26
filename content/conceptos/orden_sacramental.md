@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Orden sacramental
+tags: ["sacramental"]
+
+timestamp: 2026-06-19
+description: El orden sacramental —llamado también sacramento del Orden— es el sacramento del ministerio apostólico, instituido por Cristo.
+---
 # Orden sacramental
 
 > Área: Sacramental

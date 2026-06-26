@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ritual Romano
+tags: ["liturgia"]
+
+timestamp: 2026-05-22
+description: Libro litúrgico oficial de la Iglesia latina que contiene los ritos para la administración de los sacramentos y sacramentales.
+---
 # Ritual Romano
 
 > Área: Liturgia

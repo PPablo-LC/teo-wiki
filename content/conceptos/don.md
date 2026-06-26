@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Don
+tags: ["teología_bíblica", "dogmática"]
+
+timestamp: 2026-06-19
+description: En el origen de todo don está la iniciativa divina. «Toda dádiva perfecta desciende del Padre de las luces» (Sant 1,17). Dios es quien tiene la iniciativa de la creación, de la salud y de la gracia.
+---
 # Don
 
 > Área: Teología Bíblica / Dogmática

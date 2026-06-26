@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Instancia judicial
+tags: ["derecho_canónico"]
+
+timestamp: 2026-06-19
+description: La instancia judicial es el conjunto de actos procesales comprendidos entre la citación y la sentencia definitiva u otro modo de conclusión del juicio establecido por el derecho.
+---
 # Instancia judicial
 
 > Área: Derecho Canónico

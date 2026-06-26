@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Consumo
+tags: ["doctrina_social"]
+
+timestamp: 2026-05-25
+description: Utilización de bienes y servicios por parte de los consumidores, que debe ejercitarse en el contexto de las exigencias morales de la justicia y la solidaridad.
+---
 # Consumo
 
 > Área: Doctrina Social

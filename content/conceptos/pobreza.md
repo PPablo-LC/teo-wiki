@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Pobreza
+tags: ["moral", "ascética"]
+
+timestamp: 2026-05-25
+description: Desprendimiento de los bienes terrenos por amor a Cristo, que constituye la primera bienaventuranza ("pobreza de espíritu") y uno de los consejos evangélicos.
+---
 # Pobreza
 
 > Área: Moral / Ascética

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Gaudium et Spes
+tags: ["documento_conciliar"]
+
+timestamp: 2026-05-26
+description: "Constitución Pastoral *Gaudium et Spes* («Los gozos y las esperanzas») sobre la Iglesia en el mundo actual, promulgada por el Concilio Vaticano II el 7 de diciembre de 1965."
+---
 # Gaudium et Spes
 
 > Área: Documento conciliar

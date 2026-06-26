@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Arte sacro
+tags: ["liturgia"]
+
+timestamp: 2026-05-26
+description: El arte sacro es aquella expresión artística destinada al culto divino, que tiene como fin la gloria de Dios y la edificación de los fieles.
+---
 # Arte sacro
 
 > Área: Liturgia

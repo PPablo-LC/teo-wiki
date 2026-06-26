@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Federación Regnum Christi
+tags: ["derecho_canónico", "vida_consagrada"]
+
+timestamp: 2026-05-26
+description: "La Federación Regnum Christi es la configuración jurídica que articula la unidad de la familia espiritual del Regnum Christi, integrada por la [[legión_de_cristo]] (instituto religioso clerical)."
+---
 # Federación Regnum Christi
 
 > Área: Derecho Canónico / Vida Consagrada

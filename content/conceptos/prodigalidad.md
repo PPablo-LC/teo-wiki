@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Prodigalidad
+tags: ["moral"]
+
+timestamp: 2026-06-10
+description: "Vicio opuesto a la [[liberalidad]] por exceso en el dar y por defecto en la adquisición y conservación de las riquezas."
+---
 # Prodigalidad
 
 > Área: Moral

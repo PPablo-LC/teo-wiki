@@ -1,3 +1,11 @@
+---
+type: Persona
+title: Moisés
+tags: ["sagrada_escritura"]
+
+timestamp: 2026-05-29
+description: Moisés es el gran profeta y legislador del Antiguo Testamento, elegido por Dios para liberar a Israel de la esclavitud de Egipto.
+---
 # Moisés
 
 > Área: Sagrada Escritura

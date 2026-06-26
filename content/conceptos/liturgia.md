@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Liturgia
+tags: ["dogmática", "sacramental"]
+
+timestamp: 2026-05-26
+description: "La liturgia es la obra de la Santísima Trinidad en favor de la Iglesia: el Padre es reconocido y adorado como la fuente de todas las bendiciones."
+---
 # Liturgia
 
 > Área: Dogmática / Sacramental

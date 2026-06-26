@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Recogimiento infuso
+tags: ["mística"]
+
+timestamp: 2026-05-22
+description: Primer grado de oración manifiestamente sobrenatural o mística, en el que Dios atrae suavemente las potencias del alma hacia el interior haciéndola capaz de concentrarse en Él sin esfuerzo discursivo.
+---
 # Recogimiento infuso
 
 > Área: Mística

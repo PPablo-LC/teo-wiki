@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Oficio divino
+tags: ["liturgia"]
+
+timestamp: 2026-05-26
+description: El Oficio divino, también llamado Liturgia de las Horas, es la oración pública de la Iglesia por la que se alaba a Dios sin cesar, consagrando el curso entero del día y de la noche.
+---
 # Oficio divino
 
 > Área: Liturgia

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Pescas milagrosas
+tags: ["cristología"]
+
+timestamp: 2026-06-22
+description: "Dos pescas extraordinarias realizadas por intervención de Jesús: al comienzo de su ministerio (Lc 5,4-10) y después de la resurrección (Jn 21,3-6)."
+---
 # Pescas milagrosas
 
 > Área: Cristología

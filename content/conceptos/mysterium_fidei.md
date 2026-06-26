@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Mysterium fidei
+tags: ["sacramental", "teología_espiritual"]
+
+timestamp: 2026-06-15
+description: Expresión latina que significa «misterio de la fe».
+---
 # Mysterium fidei
 
 > Área: Sacramental / Teología espiritual

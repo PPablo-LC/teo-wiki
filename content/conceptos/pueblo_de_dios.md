@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Pueblo de Dios
+tags: ["eclesiología"]
+
+timestamp: 2026-05-25
+description: "Categoría bíblica y teológica para designar a la Iglesia: el nuevo pueblo reunido por Dios, que ya no se define por descendencia carnal sino por la fe en Cristo y el Bautismo."
+---
 # Pueblo de Dios
 
 > Área: Eclesiología

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Conocer
+tags: ["teología_bíblica", "dogmática"]
+
+timestamp: 2026-06-19
+description: En la Escritura, conocer no es un acto meramente intelectual, sino una relación existencial y personal que implica experiencia concreta, compromiso real y comunión de vida.
+---
 # Conocer
 
 > Área: Teología Bíblica / Dogmática

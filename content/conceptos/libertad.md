@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Libertad
+tags: ["moral_fundamental", "antropología_teológica"]
+
+timestamp: 2026-06-10
+description: Facultad de la voluntad por la cual el hombre puede determinar sus propios actos hacia su fin último sin coacción externa ni necesidad interna.
+---
 # Libertad
 
 > Área: Moral Fundamental / Antropología Teológica

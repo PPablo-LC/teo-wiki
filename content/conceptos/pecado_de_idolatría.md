@@ -1,3 +1,8 @@
+---
+type: Concepto Teológico
+title: Pecado de idolatria
+description: El pecado de idolatria consiste en tributar a una criatura el culto de adoracion (latria) que es debido unicamente a Dios.
+---
 # Pecado de idolatria
 
 > Area: Moral

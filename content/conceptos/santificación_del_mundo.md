@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Santificación del mundo
+tags: ["moral", "eclesiología"]
+
+timestamp: 2026-05-26
+description: "La santificación del mundo es la misión confiada por Dios a los fieles cristianos —particularmente a los [[cristianos_laicos]]— de transformar las realidades temporales desde el Espíritu de Cristo."
+---
 # Santificación del mundo
 
 > Área: Moral / Eclesiología

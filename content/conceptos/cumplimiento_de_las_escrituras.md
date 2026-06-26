@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cumplimiento de las escrituras
+tags: ["dogmática"]
+
+timestamp: 2026-05-22
+description: El cumplimiento de las Escrituras (o cumplimiento de las profecías) es la verdad de fe según la cual Jesucristo, en su vida, muerte y resurrección.
+---
 # Cumplimiento de las escrituras
 
 > Área: Dogmática

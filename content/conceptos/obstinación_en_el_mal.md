@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Obstinación en el mal
+tags: ["dogmática_(angelología_—_escatología)"]
+
+timestamp: 2026-06-03
+description: "La obstinación en el mal es el estado de adhesión irrevocable e inmutable de la voluntad al pecado, que afecta a los [[demonio|demonios]] tras su caída y a los hombres condenados tras la muerte."
+---
 # Obstinación en el mal
 
 > Área: Dogmática (Angelología — Escatología)

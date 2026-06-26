@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Consanguinidad
+tags: ["derecho_canónico"]
+
+timestamp: 2026-06-15
+description: Vínculo natural contraído entre personas que descienden de un mismo tronco común por procreación carnal.
+---
 # Consanguinidad
 
 > Área: Derecho Canónico

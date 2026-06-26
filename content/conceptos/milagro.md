@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Milagro
+tags: ["dogmática"]
+
+timestamp: 2026-06-04
+description: "Milagro (del latín *miraculum*, «cosa admirable») es un hecho realizado por Dios fuera del orden de toda la naturaleza creada."
+---
 # Milagro
 
 > Área: Dogmática

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cuidado pastoral
+tags: ["pastoral", "eclesiología"]
+
+timestamp: 2026-06-03
+description: El conjunto de deberes, actividades y virtudes del pastor de almas (obispo, presbítero) ordenados al bien espiritual de los fieles, imitando a Cristo Buen Pastor que da la vida por sus ovejas.
+---
 # Cuidado pastoral
 
 > Área: Pastoral / Eclesiología

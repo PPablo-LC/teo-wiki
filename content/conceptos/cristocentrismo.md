@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cristocentrismo
+tags: ["dogmática", "espiritualidad"]
+
+timestamp: 2026-05-29
+description: El cristocentrismo es la orientación fundamental de la vida cristiana que pone a Jesucristo como centro, criterio y modelo de toda existencia.
+---
 # Cristocentrismo
 
 > Área: Dogmática / Espiritualidad

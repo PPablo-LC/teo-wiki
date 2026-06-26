@@ -1,3 +1,11 @@
+---
+type: Documento
+title: Líneas guía para la protección de menores
+tags: ["documentos"]
+
+timestamp: 2026-06-11
+description: Directrices para el Vicariato Vaticano que establecen.
+---
 # Líneas guía para la protección de menores
 
 > Área: Documentos

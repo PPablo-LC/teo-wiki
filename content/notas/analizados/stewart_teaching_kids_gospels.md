@@ -1,3 +1,9 @@
+---
+type: Análisis Doctrinal
+title: "Matt Nelson w/ Haley Stewart - Teaching Your Kids to Love the Gospels: Análisis doctrinal"
+timestamp: 2026-06-06
+description: Entrevista de Matt Nelson (Word on Fire Institute) a Haley Stewart, convertida del protestantismo al catolicismo.
+---
 # Matt Nelson w/ Haley Stewart - Teaching Your Kids to Love the Gospels: Análisis doctrinal
 
 > Tipo: Análisis doctrinal

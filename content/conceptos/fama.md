@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Fama
+tags: ["moral"]
+
+timestamp: 2026-05-26
+description: La fama es la buena reputación o buen nombre de una persona, esto es, la consideración social que los demás tienen de su honor, probidad y virtudes.
+---
 # Fama
 
 > Área: Moral

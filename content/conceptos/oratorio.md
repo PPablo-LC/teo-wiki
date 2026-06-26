@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Oratorio
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: En derecho canónico, el oratorio es un lugar sagrado destinado al culto divino, por voluntad del fundador y con aprobación de la autoridad eclesiástica competente.
+---
 # Oratorio
 
 > Área: Derecho Canónico

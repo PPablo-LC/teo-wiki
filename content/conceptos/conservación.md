@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Conservación
+tags: ["dogmática"]
+
+timestamp: 2026-06-04
+description: La conservación es el acto por el cual Dios mantiene continuamente a las criaturas en el ser, impidiendo que vuelvan a la nada de la que fueron sacadas.
+---
 # Conservación
 
 > Área: Dogmática

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Preternatural
+tags: ["dogmática"]
+
+timestamp: 2026-05-22
+description: "Lo preternatural (del latín *praeter naturam*.)"
+---
 # Preternatural
 
 > Área: Dogmática

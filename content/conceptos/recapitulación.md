@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Recapitulación
+tags: ["cristología", "soteriología"]
+
+timestamp: 2026-06-22
+description: "La recapitulación (del griego *anakephalaiosis*) es el acto por el cual Cristo, como nuevo Adán, reúne y resume en sí mismo toda la historia de la humanidad y toda la creación."
+---
 # Recapitulación
 
 > Área: Cristología / Soteriología

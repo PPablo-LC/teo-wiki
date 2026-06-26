@@ -1,3 +1,8 @@
+---
+type: Concepto Teológico
+title: Sexto mandamiento
+description: "El sexto mandamiento del Decalogo: «No cometeras adulterio» (Ex 20,14; Dt 5,18). Prohibe la violacion de la fidelidad conyugal y toda accion o pensamiento impuro voluntario."
+---
 # Sexto mandamiento
 
 > Area: Moral

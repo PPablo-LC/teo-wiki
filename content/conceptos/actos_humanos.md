@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Actos humanos
+tags: ["moral"]
+
+timestamp: 2026-06-05
+description: Los actos humanos son aquellos actos libremente realizados tras un juicio de conciencia, que son calificables moralmente como buenos o malos (CEC §1749).
+---
 # Actos humanos
 
 > Área: Moral

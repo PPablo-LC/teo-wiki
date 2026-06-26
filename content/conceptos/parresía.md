@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Parresía
+tags: ["teología_bíblica", "moral", "espiritualidad"]
+
+timestamp: 2026-06-23
+description: "La parresía (del griego *παρρησία*, «decirlo todo», «franqueza», «osadía») es la virtud o disposición espiritual de hablar con libertad, valor y confianza, especialmente ante autoridades u opresores."
+---
 # Parresía
 
 > Área: Teología Bíblica / Moral / Espiritualidad

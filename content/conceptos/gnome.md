@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Gnome
+tags: ["moral"]
+
+timestamp: 2026-06-09
+description: "La gnome (del griego *gnome* = perspicacia, sentencia) es la virtud del juicio recto según principios superiores."
+---
 # Gnome
 
 > Área: Moral

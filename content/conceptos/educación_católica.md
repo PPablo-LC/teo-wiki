@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Educación católica
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: La educación católica es el conjunto de medios e instituciones mediante los cuales la Iglesia, en cumplimiento de su misión divina, ayuda a los hombres a alcanzar la plenitud de la vida cristiana.
+---
 # Educación católica
 
 > Área: Derecho Canónico

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: María en el cenáculo
+tags: ["mariología", "eclesiología"]
+
+timestamp: 2026-06-18
+description: María en el cenáculo designa la presencia de la Virgen junto a los apóstoles durante la espera del Espíritu Santo entre la Ascensión y Pentecostés (Hch 1,12-14).
+---
 # María en el cenáculo
 
 > Área: Mariología / Eclesiología

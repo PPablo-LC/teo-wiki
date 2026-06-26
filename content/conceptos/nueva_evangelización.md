@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Nueva evangelización
+tags: ["doctrina_social", "eclesiología"]
+
+timestamp: 2026-06-14
+description: La nueva evangelización es el renovado impulso misionero de la Iglesia para anunciar el Evangelio en un mundo marcado por la secularización.
+---
 # Nueva evangelización
 
 > Área: Doctrina Social / Eclesiología

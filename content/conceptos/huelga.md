@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Huelga
+tags: ["doctrina_social"]
+
+timestamp: 2026-06-17
+description: Bloqueo del trabajo como método de presión ejercido por los trabajadores organizados para la defensa de sus justos derechos.
+---
 # Huelga
 
 > Área: Doctrina Social

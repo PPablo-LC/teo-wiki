@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Pastoral social
+tags: ["teología_pastoral", "doctrina_social"]
+
+timestamp: 2026-06-19
+description: La pastoral social es la expresión viva y concreta del ministerio de evangelización social de la Iglesia, dirigido a iluminar.
+---
 # Pastoral social
 
 > Área: Teología pastoral / Doctrina social

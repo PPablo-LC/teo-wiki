@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Teología del laicado
+tags: ["eclesiología"]
+
+timestamp: 2026-05-26
+description: "La teología del laicado es el estudio de la vocación, misión y espiritualidad propia de los [[cristianos_laicos]] en la Iglesia."
+---
 # Teología del laicado
 
 > Área: Eclesiología

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cuidados
+tags: ["moral", "teología_espiritual"]
+
+timestamp: 2026-06-02
+description: Solicitud activa e inteligente que el hombre debe poner en el cumplimiento de sus deberes —tanto materiales como espirituales—.
+---
 # Cuidados
 
 > Área: Moral / Teología espiritual

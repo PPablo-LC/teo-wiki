@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Administración de la creación
+tags: ["doctrina_social", "dogmática"]
+
+timestamp: 2026-05-25
+description: Responsabilidad del hombre, conferida por Dios, de custodiar y cultivar la creación como don del Creador, reconociendo su fisonomía propia y su destino anterior dados por Dios.
+---
 # Administración de la creación
 
 > Área: Doctrina Social / Dogmática

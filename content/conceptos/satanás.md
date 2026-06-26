@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Satanás
+tags: ["angelología"]
+
+timestamp: 2026-06-02
+description: "Satanás (del hebreo *satán*, «adversario») es el nombre propio del príncipe de los demonios, también llamado diablo."
+---
 # Satanás
 
 > Área: Angelología

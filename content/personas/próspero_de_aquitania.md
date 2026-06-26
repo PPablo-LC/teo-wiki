@@ -1,3 +1,11 @@
+---
+type: Persona
+title: San Próspero de Aquitania
+tags: ["patrística_—_teólogos"]
+
+timestamp: 2026-06-25
+description: San Próspero de Aquitania (ca. 390-463) fue un teólogo laico, discípulo y defensor de San Agustín en la controversia pelagiana y semipelagiana.
+---
 # San Próspero de Aquitania
 
 > Área: Patrística — Teólogos

@@ -1,3 +1,11 @@
+---
+type: Persona
+title: San Gregorio Magno
+tags: ["patrística", "eclesiología"]
+
+timestamp: 2026-05-26
+description: San Gregorio Magno (c. 540-604), Papa y Doctor de la Iglesia, fue el 64.º sucesor de San Pedro. Su pontificado marcó la consolidación de la autoridad papal en la Edad Media.
+---
 # San Gregorio Magno
 
 > Área: Patrística / Eclesiología

@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Benedicencia
+tags: ["ascética", "espiritualidad"]
+
+timestamp: 2026-05-31
+description: La benedicencia es una actitud propia del legionario de Cristo que consiste en mirar al mundo con los ojos de Cristo, iluminados por la fe.
+---
 # Benedicencia
 
 > Área: Ascética / Espiritualidad

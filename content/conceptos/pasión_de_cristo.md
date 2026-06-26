@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Pasión de Cristo
+tags: ["cristología", "soteriología"]
+
+timestamp: 2026-06-20
+description: Conjunto de sufrimientos voluntariamente aceptados por Jesucristo desde su agonía en Getsemaní hasta su muerte en la cruz, por los cuales mereció nuestra redención.
+---
 # Pasión de Cristo
 
 > Área: Cristología / Soteriología

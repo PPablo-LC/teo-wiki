@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Revelación
+tags: ["dogmática", "teología_fundamental"]
+
+timestamp: 2026-05-26
+description: La revelación es la comunicación que Dios hace de sí mismo y de su designio salvífico a los hombres.
+---
 # Revelación
 
 > Área: Dogmática / Teología fundamental

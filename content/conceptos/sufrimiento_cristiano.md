@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sufrimiento cristiano
+tags: ["espiritualidad", "moral"]
+
+timestamp: 2026-06-19
+description: El sufrimiento cristiano es la participación en las tribulaciones de Cristo, ofrecida libremente como acto de amor y reparación, que adquiere valor salvífico cuando se une al sacrificio de la Cruz.
+---
 # Sufrimiento cristiano
 
 > Área: Espiritualidad / Moral

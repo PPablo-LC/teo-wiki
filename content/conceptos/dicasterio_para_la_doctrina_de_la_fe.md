@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Dicasterio para la Doctrina de la Fe
+tags: ["eclesiología", "derecho_canónico"]
+
+timestamp: 2026-05-29
+description: "El Dicasterio para la Doctrina de la Fe (DDF) es el más antiguo de los dicasterios de la [[curia_romana]]."
+---
 # Dicasterio para la Doctrina de la Fe
 
 > Área: Eclesiología / Derecho Canónico

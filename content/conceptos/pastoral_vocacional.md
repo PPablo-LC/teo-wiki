@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Pastoral vocacional
+tags: ["teología_pastoral"]
+
+timestamp: 2026-06-14
+description: Conjunto de acciones y estrategias pastorales que la Iglesia realiza para promover, discernir y acompañar las vocaciones al ministerio ordenado y a la vida consagrada.
+---
 # Pastoral vocacional
 
 > Área: Teología pastoral

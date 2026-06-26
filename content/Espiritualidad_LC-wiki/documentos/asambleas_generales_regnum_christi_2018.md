@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Asambleas Generales del Regnum Christi y Capítulo General extraordinario LC 2018
+tags: ["espiritualidad", "derecho"]
+
+timestamp: 2026-06-13
+description: "La obra consta de 30 documentos que recogen el proceso de discernimiento y configuración canónica del Regnum Christi en 2018:"
+---
 # Asambleas Generales del Regnum Christi y Capítulo General extraordinario LC 2018
 
 > Área: Espiritualidad / Derecho

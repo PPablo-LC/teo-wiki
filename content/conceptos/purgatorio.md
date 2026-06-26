@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Purgatorio
+tags: ["escatología"]
+
+timestamp: 2026-05-26
+description: Estado de purificación final de los elegidos que mueren en la gracia y amistad de Dios, pero imperfectamente purificados, para alcanzar la santidad necesaria para entrar en la gloria del cielo.
+---
 # Purgatorio
 
 > Área: Escatología

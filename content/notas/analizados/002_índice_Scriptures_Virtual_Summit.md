@@ -1,3 +1,7 @@
+---
+type: Análisis Doctrinal
+title: "Índice: Scriptures Virtual Summit"
+---
 # Índice: Scriptures Virtual Summit
 
 | Archivo fuente | Nota de análisis |

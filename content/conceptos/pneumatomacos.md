@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Pneumatómacos
+tags: ["dogmática_(trinidad", "pneumatología)"]
+
+timestamp: 2026-06-24
+description: "Los pneumatómacos (del griego *pneuma* = espíritu y *machomai* = combatir, «combatientes del Espíritu») fueron un grupo herético del siglo IV que negaba la divinidad del Espíritu Santo."
+---
 # Pneumatómacos
 
 > Área: Dogmática (Trinidad / Pneumatología)

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ley justa
+tags: ["doctrina_social", "moral"]
+
+timestamp: 2026-05-25
+description: Ley humana que es conforme a la recta razón y, por tanto, deriva de la ley eterna.
+---
 # Ley justa
 
 > Área: Doctrina Social / Moral

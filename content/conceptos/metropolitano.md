@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Metropolitano
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: "El Metropolitano —o arzobispo metropolitano— es el Arzobispo que preside una [[provincia_eclesiástica]], con potestad de vigilancia sobre las diócesis sufragáneas."
+---
 # Metropolitano
 
 > Área: Derecho Canónico

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Mesías Sacerdote
+tags: ["cristología"]
+
+timestamp: 2026-06-22
+description: El Mesías Sacerdote es el Ungido de Dios constituido Sumo Sacerdote no según el orden levítico, sino según el orden de Melquisedec.
+---
 # Mesías Sacerdote
 
 > Área: Cristología

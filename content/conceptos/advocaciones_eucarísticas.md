@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Advocaciones eucarísticas
+tags: ["liturgia", "piedad_popular"]
+
+timestamp: 2026-05-26
+description: "Títulos y nombres bajo los cuales se venera a [[jesucristo]] presente en la [[eucaristía]], expresando diversos aspectos del misterio eucarístico."
+---
 # Advocaciones eucarísticas
 
 > Área: Liturgia / Piedad popular

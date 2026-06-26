@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Mediocridad cristiana
+tags: ["ascética", "moral"]
+
+timestamp: 2026-05-31
+description: La mediocridad cristiana es el estado espiritual de quien, habiendo recibido la gracia de la vocación cristiana y los medios de santificación, se conforma con un nivel mínimo de vida espiritual.
+---
 # Mediocridad cristiana
 
 > Área: Ascética / Moral

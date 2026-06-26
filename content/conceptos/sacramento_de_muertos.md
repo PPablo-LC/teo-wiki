@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sacramento de muertos
+tags: ["sacramental"]
+
+timestamp: 2026-05-22
+description: "Denominación tradicional de aquellos sacramentos que tienen como fin principal devolver la vida de la gracia a quienes la han perdido por el pecado. Son dos: el Bautismo y la Penitencia."
+---
 # Sacramento de muertos
 
 > Área: Sacramental

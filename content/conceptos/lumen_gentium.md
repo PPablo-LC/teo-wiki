@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Lumen Gentium
+tags: ["eclesiología", "dogmática"]
+
+timestamp: 2026-05-26
+description: "Constitución dogmática *Lumen Gentium* del Concilio Vaticano II sobre la Iglesia, promulgada el 21 de noviembre de 1964."
+---
 # Lumen Gentium
 
 > Área: Eclesiología / Dogmática

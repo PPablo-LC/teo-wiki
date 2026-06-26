@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Responsabilidad
+tags: ["moral", "antropología"]
+
+timestamp: 2026-06-18
+description: La responsabilidad es la obligación moral de responder por los propios actos libres y conscientes ante Dios, ante el prójimo y ante la sociedad.
+---
 # Responsabilidad
 
 > Área: Moral / Antropología

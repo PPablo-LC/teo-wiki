@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Elección humana
+tags: ["teología_moral_—_antropología"]
+
+timestamp: 2026-06-05
+description: "La elección humana (electio) es el acto de la [[voluntad]] por el que el hombre, tras la deliberación del [[consejo]], elige los medios adecuados para alcanzar un fin."
+---
 # Elección humana
 
 > Área: Teología moral — Antropología

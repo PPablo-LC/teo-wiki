@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Teofanía
+tags: ["teología_bíblica", "dogmática"]
+
+timestamp: 2026-06-20
+description: "La teofanía (del griego θεοφάνεια, *theophaneia*: aparición de Dios) es toda manifestación visible o perceptible de Dios a los seres humanos en la historia de la salvación."
+---
 # Teofanía
 
 > Área: Teología bíblica / Dogmática

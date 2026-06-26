@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Instituto de vida consagrada
+tags: ["eclesiología", "ascética"]
+
+timestamp: 2026-05-25
+description: Un instituto de vida consagrada es una sociedad canónicamente erigida por la autoridad competente de la Iglesia, en la que los fieles, mediante votos u otros vínculos sagrados.
+---
 # Instituto de vida consagrada
 
 > Área: Eclesiología / Ascética

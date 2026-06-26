@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sacramentorum Sanctitatis Tutela (SST)
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-29
+description: "Carta Apostólica en forma de *Motu Proprio data* promulgada por Juan Pablo II el 30 de abril de 2001."
+---
 # Sacramentorum Sanctitatis Tutela (SST)
 
 > Área: Derecho Canónico

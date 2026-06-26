@@ -1,3 +1,8 @@
+---
+type: Concepto Teológico
+title: Natividad
+description: La Natividad es el nacimiento temporal de Jesucristo, Hijo de Dios, en cuanto hombre, de la Virgen Maria en Belen de Juda.
+---
 # Natividad
 
 > Area: Cristologia

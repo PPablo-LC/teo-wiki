@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Vida litúrgica y de oración
+tags: ["espiritualidad"]
+
+timestamp: 2026-06-13
+description: La vida litúrgica y de oración del legionario de Cristo comprende la celebración de la Eucaristía como cumbre del día y fuente de la acción apostólica, la Liturgia de las Horas.
+---
 # Vida litúrgica y de oración
 
 > Área: Espiritualidad

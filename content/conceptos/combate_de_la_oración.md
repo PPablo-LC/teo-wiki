@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Combate de la oración
+tags: ["ascética", "mística"]
+
+timestamp: 2026-05-22
+description: El combate de la oración es la lucha espiritual que todo cristiano debe sostener para perseverar en la oración.
+---
 # Combate de la oración
 
 > Área: Ascética / Mística

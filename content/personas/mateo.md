@@ -1,3 +1,11 @@
+---
+type: Persona
+title: San Mateo
+tags: ["dogmática_(figura_bíblica)"]
+
+timestamp: 2026-05-29
+description: Apóstol y evangelista, autor del primer evangelio sinóptico. Publicano de profesión (recaudador de impuestos), llamado por Jesús al apostolado.
+---
 # San Mateo
 
 > Área: Dogmática (Figura bíblica)

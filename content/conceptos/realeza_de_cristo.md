@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Realeza de Cristo
+tags: ["cristología"]
+
+timestamp: 2026-06-21
+description: La realeza de Cristo es el señorío universal de Jesucristo sobre todas las cosas, en virtud de su naturaleza divina y de su redención.
+---
 # Realeza de Cristo
 
 > Área: Cristología

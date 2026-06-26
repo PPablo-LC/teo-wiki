@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Procreación
+tags: ["moral", "doctrina_social"]
+
+timestamp: 2026-06-20
+description: Dimensión esencial del matrimonio ordenada a la transmisión de la vida humana, que expresa la subjetividad social de la familia e inicia un dinamismo de amor y de solidaridad entre las generaciones.
+---
 # Procreación
 
 > Área: Moral / Doctrina Social

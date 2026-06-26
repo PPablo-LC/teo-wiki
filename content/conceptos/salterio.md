@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Salterio
+tags: ["escritura", "liturgia"]
+
+timestamp: 2026-05-26
+description: "El Salterio es el libro de los 150 [[salmos]], que constituye el corazón del [[oficio_divino]] y de la [[liturgia_de_las_horas]] de la Iglesia."
+---
 # Salterio
 
 > Área: Escritura / Liturgia

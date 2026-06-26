@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Milagros, signos de salvación
+tags: ["cristología"]
+
+timestamp: 2026-06-22
+description: "Los milagros de Cristo son presentados en los Evangelios como «signos» del [[reino_de_dios]] y de la economía salvífica."
+---
 # Milagros, signos de salvación
 
 > Área: Cristología

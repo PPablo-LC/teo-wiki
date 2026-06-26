@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Eubulia
+tags: ["moral"]
+
+timestamp: 2026-06-09
+description: "La eubulia (del griego *eu* = bien y *boulé* = consejo) es la virtud del buen consejo."
+---
 # Eubulia
 
 > Área: Moral

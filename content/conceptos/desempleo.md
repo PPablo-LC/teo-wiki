@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Desempleo
+tags: ["doctrina_social"]
+
+timestamp: 2026-06-17
+description: Falta de puestos de trabajo para los sujetos capacitados y dispuestos a trabajar.
+---
 # Desempleo
 
 > Área: Doctrina Social

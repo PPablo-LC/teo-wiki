@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ordenación sacerdotal
+tags: ["derecho_canónico", "sacramental"]
+
+timestamp: 2026-05-26
+description: La ordenación sacerdotal es el acto por el cual un varón bautizado es constituido ministro sagrado en el grado del presbiterado mediante la imposición de manos y la oración consecratoria del Obispo.
+---
 # Ordenación sacerdotal
 
 > Área: Derecho Canónico / Sacramental

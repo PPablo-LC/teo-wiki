@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ministro de la eucaristía
+tags: ["sacramental", "dogmática"]
+
+timestamp: 2026-06-15
+description: "El ministro del sacramento de la [[eucaristía]] es el sacerdote (obispo o presbítero) válidamente ordenado."
+---
 # Ministro de la eucaristía
 
 > Área: Sacramental / Dogmática

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Restitución
+tags: ["moral"]
+
+timestamp: 2026-06-09
+description: "La restitución es el acto de la [[virtud_de_la_justicia]] conmutativa por el que se restablece la igualdad de justicia."
+---
 # Restitución
 
 > Área: Moral

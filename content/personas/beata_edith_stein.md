@@ -1,3 +1,11 @@
+---
+type: Persona
+title: Beata Edith Stein (Santa Teresa Benedicta de la Cruz)
+tags: ["personas", "santas"]
+
+timestamp: 2026-06-23
+description: Edith Stein (1891–1942), carmelita, mártir, patrona de Europa. De familia judía, filósofa y discípula de Husserl, se convirtió al catolicismo tras una ardua búsqueda intelectual y espiritual.
+---
 # Beata Edith Stein (Santa Teresa Benedicta de la Cruz)
 
 > Área: Personas / Santas

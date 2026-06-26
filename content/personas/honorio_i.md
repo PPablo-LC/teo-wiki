@@ -1,3 +1,11 @@
+---
+type: Persona
+title: Honorio I
+tags: ["historia_—_papado"]
+
+timestamp: 2026-06-25
+description: Honorio I fue papa durante el auge del monotelismo.
+---
 # Honorio I
 
 > Área: Historia — Papado

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Provincia eclesiástica
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: Agrupación de diócesis vecinas constituida por la autoridad suprema de la Iglesia para promover la acción pastoral común y coordinar el gobierno eclesiástico en un territorio determinado.
+---
 # Provincia eclesiástica
 
 > Área: Derecho Canónico

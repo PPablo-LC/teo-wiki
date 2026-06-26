@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Ritual de la Congregación de los Legionarios de Cristo
+tags: ["liturgia", "espiritualidad_legionaria"]
+
+timestamp: 2026-06-14
+description: "El Ritual se divide en tres partes que abarcan doce capítulos:"
+---
 # Ritual de la Congregación de los Legionarios de Cristo
 
 > Área: Liturgia / Espiritualidad legionaria

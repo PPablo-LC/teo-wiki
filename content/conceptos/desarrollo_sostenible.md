@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Desarrollo sostenible
+tags: ["doctrina_social"]
+
+timestamp: 2026-05-25
+description: Modelo de desarrollo que concilia las exigencias del desarrollo económico con las de la protección ambiental.
+---
 # Desarrollo sostenible
 
 > Área: Doctrina Social

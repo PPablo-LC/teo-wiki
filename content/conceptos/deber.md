@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Deber
+tags: ["doctrina_social", "moral"]
+
+timestamp: 2026-05-25
+description: El deber es la obligación moral que corresponde a cada persona en virtud de su dignidad y de los derechos de los demás.
+---
 # Deber
 
 > Área: Doctrina Social / Moral

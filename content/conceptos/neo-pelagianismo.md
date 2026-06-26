@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Neo-pelagianismo
+tags: ["dogmática", "moral"]
+
+timestamp: 2026-06-10
+description: Desviación espiritual que acentúa el carácter radicalmente autónomo del individuo, que pretende alcanzar la salvación por sus propias fuerzas.
+---
 # Neo-pelagianismo
 
 > Área: Dogmática / Moral

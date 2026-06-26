@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Perfección angélica en gracia y gloria
+tags: ["dogmática_(angelología)"]
+
+timestamp: 2026-06-03
+description: "La perfección angélica en gracia y gloria es el estado sobrenatural en que los ángeles buenos fueron elevados desde el primer momento de su creación, siendo creados en [[gracia_santificante]]."
+---
 # Perfección angélica en gracia y gloria
 
 > Área: Dogmática (Angelología)

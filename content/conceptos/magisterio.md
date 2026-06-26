@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Magisterio
+tags: ["dogmática", "eclesiología"]
+
+timestamp: 2026-05-26
+description: El Magisterio de la Iglesia es el oficio de enseñar, confiado por Cristo a los Apóstoles y a sus sucesores (el Papa y los obispos en comunión con él).
+---
 # Magisterio
 
 > Área: Dogmática / Eclesiología

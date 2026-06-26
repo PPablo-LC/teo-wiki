@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Notitia criminis
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-29
+description: "La *notitia criminis* (o *notitia de delicto*) es toda información sobre un posible delito que llegue de cualquier modo al Ordinario o al Jerarca. No es necesario que se trate de una denuncia formal."
+---
 # Notitia criminis
 
 > Área: Derecho Canónico

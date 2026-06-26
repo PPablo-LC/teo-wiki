@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Transmisión del Reino
+tags: ["eclesiología", "cristología"]
+
+timestamp: 2026-06-22
+description: "Acto por el cual Jesucristo confía a los Apóstoles el [[reino_de_dios]] que Él ha recibido del Padre, para que sea prolongado en la historia mediante la predicación del Evangelio."
+---
 # Transmisión del Reino
 
 > Área: Eclesiología / Cristología

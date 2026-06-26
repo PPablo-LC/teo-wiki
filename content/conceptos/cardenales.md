@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cardenales
+tags: ["eclesiología", "derecho_canónico"]
+
+timestamp: 2026-05-26
+description: Los cardenales son aquellos varones constituidos por el Romano Pontífice como sus más cercanos colaboradores y consejeros en el gobierno de la Iglesia universal.
+---
 # Cardenales
 
 > Área: Eclesiología / Derecho Canónico

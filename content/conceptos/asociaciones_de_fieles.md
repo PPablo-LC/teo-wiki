@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Asociaciones de fieles
+tags: ["eclesiología"]
+
+timestamp: 2026-05-25
+description: Las asociaciones de fieles son agrupaciones estables de fieles cristianos, distintas de los institutos de vida consagrada y de las sociedades de vida apostólica, en las que los fieles.
+---
 # Asociaciones de fieles
 
 > Área: Eclesiología

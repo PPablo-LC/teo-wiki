@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Adopcionismo
+tags: ["dogmática_—_cristología", "herejías"]
+
+timestamp: 2026-06-25
+description: Herejía cristológica que afirma que Cristo es Hijo de Dios por naturaleza según su divinidad, pero hijo adoptivo según su humanidad.
+---
 # Adopcionismo
 
 > Área: Dogmática — Cristología, Herejías

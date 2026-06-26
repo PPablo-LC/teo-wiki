@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Especies inteligibles
+tags: ["antropología"]
+
+timestamp: 2026-06-04
+description: Las especies inteligibles son las formas o semejanzas (similitudines) de las cosas materiales abstraídas por el entendimiento agente de los fantasmas sensibles.
+---
 # Especies inteligibles
 
 > Área: Antropología

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ángeles custodios
+tags: ["dogmática"]
+
+timestamp: 2026-05-22
+description: Ángeles buenos asignados por Dios a cada fiel como protectores y pastores que le acompañan desde el bautismo hasta el fin de sus días.
+---
 # Ángeles custodios
 
 > Área: Dogmática

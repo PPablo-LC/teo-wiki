@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Resurrección de la Carne
+tags: ["escatología"]
+
+timestamp: 2026-06-21
+description: "Artículo del Símbolo de la Fe: la creencia en que al fin de los tiempos nuestros cuerpos mortales volverán a la vida, unidos a nuestras almas, por la virtud de la Resurrección de Jesús."
+---
 # Resurrección de la Carne
 
 > Área: Escatología

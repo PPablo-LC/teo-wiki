@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Humanismo integral
+tags: ["doctrina_social"]
+
+timestamp: 2026-05-25
+description: "Visión del hombre y de la sociedad que, fundada en la verdad plena del ser humano creado a [[imagen_de_dios]] y redimido por [[jesucristo]]."
+---
 # Humanismo integral
 
 > Área: Doctrina Social

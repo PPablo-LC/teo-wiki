@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Derechos y deberes de los fieles
+tags: ["derecho_canónico", "eclesiología"]
+
+timestamp: 2026-05-26
+description: Los derechos y deberes de los fieles constituyen el estatuto jurídico fundamental de todos los bautizados en la Iglesia.
+---
 # Derechos y deberes de los fieles
 
 > Área: Derecho Canónico / Eclesiología

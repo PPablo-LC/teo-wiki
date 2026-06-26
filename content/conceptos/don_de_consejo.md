@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Don de consejo
+tags: ["ascética", "mística"]
+
+timestamp: 2026-06-23
+description: "El don de consejo es uno de los [[siete_dones_del_espíritu_santo]] que perfecciona la virtud de la [[prudencia]]."
+---
 # Don de consejo
 
 > Área: Ascética / Mística

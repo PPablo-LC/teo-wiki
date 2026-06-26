@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Laudes
+tags: ["liturgia"]
+
+timestamp: 2026-05-26
+description: Las Laudes son la hora principal del Oficio Divino celebrada al amanecer, por la que la Iglesia, en la persona de Cristo resucitado, consagra la mañana y el inicio del día entero a Dios.
+---
 # Laudes
 
 > Área: Liturgia

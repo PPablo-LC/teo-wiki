@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sobriedad
+tags: ["moral"]
+
+timestamp: 2026-06-23
+description: La sobriedad es la virtud moral, parte subjetiva de la templanza, que modera el uso de las bebidas embriagantes y, en sentido más amplio.
+---
 # Sobriedad
 
 > Área: Moral

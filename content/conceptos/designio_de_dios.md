@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Designio de Dios
+tags: ["dogmática"]
+
+timestamp: 2026-06-02
+description: El designio de Dios (o designio divino) es el plan eterno y libre de Dios Padre que, en su infinita sabiduría y amor, ha determinado la creación.
+---
 # Designio de Dios
 
 > Área: Dogmática

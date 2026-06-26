@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Deseo
+tags: ["teología_bíblica", "moral", "ascética"]
+
+timestamp: 2026-06-19
+description: El deseo es la dimensión fundamental de la indigencia humana que, lejos de ser negada por la Escritura, es asumida y purificada.
+---
 # Deseo
 
 > Área: Teología Bíblica / Moral / Ascética

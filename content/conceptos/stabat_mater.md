@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Stabat Mater
+tags: ["mariología", "liturgia"]
+
+timestamp: 2026-06-03
+description: "El *Stabat Mater Dolorosa* («Estaba la Madre dolorosa») es un himno litúrgico del siglo XIII que describe los sufrimientos de la Virgen María al pie de la cruz durante la crucifixión de Jesucristo."
+---
 # Stabat Mater
 
 > Área: Mariología / Liturgia

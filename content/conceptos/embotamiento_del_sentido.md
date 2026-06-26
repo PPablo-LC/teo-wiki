@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Embotamiento del sentido
+tags: ["moral", "ascética"]
+
+timestamp: 2026-06-08
+description: "El embotamiento del sentido (o embotamiento de los sentidos intelectuales) es el vicio opuesto al [[don_de_entendimiento]] que consiste en la torpeza o dificultad habitual para penetrar el..."
+---
 # Embotamiento del sentido
 
 > Área: Moral / Ascética

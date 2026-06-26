@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Envío apostólico
+tags: ["espiritualidad", "eclesiología"]
+
+timestamp: 2026-06-10
+description: El envío apostólico es la dimensión misionera constitutiva de toda comunidad del Regnum Christi.
+---
 # Envío apostólico
 
 > Área: Espiritualidad / Eclesiología

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Teofanía
+tags: ["bíblico", "dogmática"]
+
+timestamp: 2026-06-19
+description: "La teofanía (del griego *theophaneía*, «manifestación de Dios») es la aparición o revelación de Dios al hombre."
+---
 # Teofanía
 
 > Área: Bíblico / Dogmática

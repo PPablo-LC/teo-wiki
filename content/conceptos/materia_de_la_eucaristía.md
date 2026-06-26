@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Materia de la eucaristía
+tags: ["sacramental", "dogmática"]
+
+timestamp: 2026-06-15
+description: "La materia del sacramento de la [[eucaristía]] es el pan de trigo y el vino de vid."
+---
 # Materia de la eucaristía
 
 > Área: Sacramental / Dogmática

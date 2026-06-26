@@ -1,3 +1,7 @@
+---
+type: Análisis Doctrinal
+title: "Índice: Auténtica — Congreso de mujeres católicas"
+---
 # Índice: Auténtica — Congreso de mujeres católicas
 
 > Carpeta fuente: `raw/Para_analizar-raw/Auténtica-Congreso_mujeres_católicas/`

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Docilidad
+tags: ["moral", "ascética"]
+
+timestamp: 2026-05-22
+description: La docilidad es la disposición habitual de la voluntad para escuchar, aceptar y seguir las enseñanzas, consejos e inspiraciones que proceden de Dios.
+---
 # Docilidad
 
 > Área: Moral / Ascética

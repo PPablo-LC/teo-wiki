@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Combate espiritual
+tags: ["ascética"]
+
+timestamp: 2026-06-19
+description: El combate espiritual es la lucha permanente del cristiano contra el pecado, el demonio y las pasiones desordenadas para crecer en la virtud y alcanzar la santidad.
+---
 # Combate espiritual
 
 > Área: Ascética

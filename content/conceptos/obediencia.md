@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Obediencia
+tags: ["moral", "ascética"]
+
+timestamp: 2026-06-10
+description: La obediencia es la virtud moral que inclina la voluntad a cumplir los mandatos de la autoridad legítima por consideración a Dios.
+---
 # Obediencia
 
 > Área: Moral / Ascética

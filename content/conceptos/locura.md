@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Locura
+tags: ["bíblica", "ascética"]
+
+timestamp: 2026-06-02
+description: En la Biblia, la locura se opone a la sabiduría y se define en relación con la conducta de la vida y el conocimiento de Dios.
+---
 # Locura
 
 > Área: Bíblica, Ascética

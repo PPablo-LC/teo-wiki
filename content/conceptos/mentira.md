@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Mentira
+tags: ["moral"]
+
+timestamp: 2026-05-26
+description: La mentira consiste en decir una falsedad con intención de engañar al prójimo.
+---
 # Mentira
 
 > Área: Moral

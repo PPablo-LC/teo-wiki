@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Instituto religioso
+tags: ["eclesiología", "ascética"]
+
+timestamp: 2026-05-26
+description: Un instituto religioso es un instituto de vida consagrada en el que los miembros, mediante votos públicos de castidad, pobreza y obediencia.
+---
 # Instituto religioso
 
 > Área: Eclesiología / Ascética

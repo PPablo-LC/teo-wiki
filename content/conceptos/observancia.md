@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Observancia
+tags: ["moral", "ascética"]
+
+timestamp: 2026-06-10
+description: La observancia es la virtud moral que inclina a dar honor, respeto y servicio a las personas constituidas en dignidad o autoridad. Es una parte potencial de la virtud de la justicia.
+---
 # Observancia
 
 > Área: Moral / Ascética

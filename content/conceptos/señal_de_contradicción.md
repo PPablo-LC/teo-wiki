@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Señal de contradicción
+tags: ["mariología", "cristología"]
+
+timestamp: 2026-06-18
+description: «Señal de contradicción» es la expresión profética de Simeón sobre el Niño Jesús en el templo (Lc 2,34).
+---
 # Señal de contradicción
 
 > Área: Mariología / Cristología

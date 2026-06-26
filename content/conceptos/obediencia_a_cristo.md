@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Obediencia a Cristo
+tags: ["teología_moral"]
+
+timestamp: 2026-06-18
+description: La obediencia a Cristo es la disposición del discípulo a cumplir la voluntad de Cristo como Señor, siguiendo sus mandamientos y su ejemplo.
+---
 # Obediencia a Cristo
 
 > Área: Teología moral

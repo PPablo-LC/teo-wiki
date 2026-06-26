@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Devoción
+tags: ["ascética", "moral"]
+
+timestamp: 2026-06-09
+description: La devoción es el acto interior principal de la virtud de la religión, que consiste en la pronta voluntad de entregarse al servicio de Dios.
+---
 # Devoción
 
 > Área: Ascética / Moral

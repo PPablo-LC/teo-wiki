@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Consagración religiosa
+tags: ["vida_consagrada", "derecho_canónico"]
+
+timestamp: 2026-05-26
+description: "La consagración religiosa es la profesión pública de los [[consejos_evangélicos]] —castidad, pobreza y obediencia— mediante votos perpetuos o temporales."
+---
 # Consagración religiosa
 
 > Área: Vida consagrada / Derecho Canónico

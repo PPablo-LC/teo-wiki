@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Credo Niceno
+tags: ["dogmática"]
+
+timestamp: 2026-06-24
+description: El Credo Niceno (o Símbolo Niceno) es la profesión de fe formulada por el Primer Concilio de Nicea (325) para definir la divinidad del Hijo contra Arrio.
+---
 # Credo Niceno
 
 > Área: Dogmática

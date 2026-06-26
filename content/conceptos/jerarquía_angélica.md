@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Jerarquía angélica
+tags: ["dogmática", "angelología"]
+
+timestamp: 2026-06-03
+description: La jerarquía angélica es el orden según el cual los ángeles están dispuestos en grados o coros.
+---
 # Jerarquía angélica
 
 > Área: Dogmática / Angelología

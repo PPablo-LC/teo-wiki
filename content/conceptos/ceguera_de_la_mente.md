@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ceguera de la mente
+tags: ["moral", "ascética"]
+
+timestamp: 2026-06-08
+description: "La ceguera de la mente es el vicio opuesto al [[don_de_entendimiento]] que consiste en la privación voluntaria del conocimiento de los bienes espirituales."
+---
 # Ceguera de la mente
 
 > Área: Moral / Ascética

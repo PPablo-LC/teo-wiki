@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Autoridad civil
+tags: ["moral", "doctrina_social"]
+
+timestamp: 2026-05-26
+description: "La autoridad civil es el poder legítimo de gobernar una comunidad política, ordenado al [[bien_común]] y derivado en última instancia de Dios, fuente de toda [[autoridad]]."
+---
 # Autoridad civil
 
 > Área: Moral / Doctrina Social

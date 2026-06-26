@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Conferencias Episcopales
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: La Conferencia Episcopal es una institución de carácter permanente que constituye la asamblea de los Obispos de una nación o territorio determinado.
+---
 # Conferencias Episcopales
 
 > Área: Derecho Canónico

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Pastor — Rebaño
+tags: ["dogmática_—_eclesiología"]
+
+timestamp: 2026-06-02
+description: Metáfora bíblica fundamental que expresa la relación de Dios con su pueblo y de Cristo con la Iglesia. El pastor es jefe y protector, pero también compañero que cuida con solicitud a sus ovejas.
+---
 # Pastor — Rebaño
 
 > Área: Dogmática — Eclesiología

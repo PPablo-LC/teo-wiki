@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Vida activa
+tags: ["ascética", "moral"]
+
+timestamp: 2026-06-12
+description: Forma de vida humana que tiene como fin principal la operación externa ordenada al servicio del prójimo por amor a Dios.
+---
 # Vida activa
 
 > Área: Ascética / Moral

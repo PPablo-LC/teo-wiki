@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Carismas
+tags: ["dogmática"]
+
+timestamp: 2026-06-12
+description: Gracias especiales del Espíritu Santo que hacen a los fieles aptos para asumir diversas tareas o ministerios que contribuyen a edificar la Iglesia y al bien común.
+---
 # Carismas
 
 > Área: Dogmática

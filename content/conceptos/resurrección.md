@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Resurrección
+tags: ["escatología", "cristología"]
+
+timestamp: 2026-05-22
+description: "El misterio central de la fe cristiana: la vuelta a la vida de Jesucristo, verdadero Dios y verdadero hombre, al tercer día después de su muerte en cruz, con su mismo cuerpo glorificado."
+---
 # Resurrección
 
 > Área: Escatología / Cristología

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Razonamiento
+tags: ["ascética", "mística"]
+
+timestamp: 2026-05-22
+description: Proceso discursivo del entendimiento que, partiendo de principios conocidos, llega a conclusiones.
+---
 # Razonamiento
 
 > Área: Ascética / Mística

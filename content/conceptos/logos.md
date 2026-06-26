@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Logos
+tags: ["dogmática", "cristología", "trinidad"]
+
+timestamp: 2026-06-22
+description: El Logos (Verbo) es la segunda Persona de la Santísima Trinidad, el Hijo eterno de Dios, por quien todo fue hecho y que se encarnó en Jesucristo.
+---
 # Logos
 
 > Área: Dogmática / Cristología / Trinidad

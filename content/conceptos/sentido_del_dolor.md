@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sentido del dolor
+tags: ["espiritualidad", "antropología_teológica"]
+
+timestamp: 2026-06-19
+description: El sentido del dolor es la comprensión teológica de por qué el ser humano sufre, a la luz de la Revelación divina.
+---
 # Sentido del dolor
 
 > Área: Espiritualidad / Antropología teológica

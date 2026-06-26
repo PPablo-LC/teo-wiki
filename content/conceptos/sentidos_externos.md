@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sentidos externos
+tags: ["antropología"]
+
+timestamp: 2026-05-22
+description: "Los sentidos externos son las facultades sensitivas corporales que permiten al hombre percibir los objetos sensibles del mundo exterior. Son cinco: vista, oído, olfato, gusto y tacto."
+---
 # Sentidos externos
 
 > Área: Antropología

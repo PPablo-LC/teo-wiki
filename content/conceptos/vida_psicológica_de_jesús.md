@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Vida psicológica de Jesús
+tags: ["cristología"]
+
+timestamp: 2026-06-22
+description: La vida psicológica de Jesús se refiere a la experiencia humana real de sentimientos, emociones y actos psíquicos —alegría, tristeza, indignación, admiración.
+---
 # Vida psicológica de Jesús
 
 > Área: Cristología

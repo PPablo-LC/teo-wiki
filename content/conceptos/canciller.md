@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Canciller
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: El canciller es el notario principal de la curia diocesana, con la función específica de asegurar que los actos de la curia se redacten debidamente.
+---
 # Canciller
 
 > Área: Derecho Canónico

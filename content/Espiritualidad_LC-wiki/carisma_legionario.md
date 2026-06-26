@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Carisma legionario
+tags: ["espiritualidad", "eclesiología"]
+
+timestamp: 2026-06-13
+description: El carisma de la Congregación de los Legionarios de Cristo es un don del Espíritu Santo recibido para la edificación de la Iglesia (cf. 1 Co 12,7).
+---
 # Carisma legionario
 
 > Área: Espiritualidad / Eclesiología

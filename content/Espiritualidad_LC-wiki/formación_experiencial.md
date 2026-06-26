@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Formación experiencial
+tags: ["ascética", "formación"]
+
+timestamp: 2026-06-12
+description: La formación experiencial es una característica del proceso formativo legionario según la cual muchas veces es una experiencia vivida lo que forja las convicciones y permite entender que una...
+---
 # Formación experiencial
 
 > Área: Ascética / Formación

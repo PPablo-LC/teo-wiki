@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Discernimiento
+tags: ["ascética", "moral"]
+
+timestamp: 2026-05-25
+description: El discernimiento es la capacidad práctica de juzgar rectamente, a la luz de la fe y la razón, lo que se debe hacer u omitir en orden a la salvación y la perfección cristiana.
+---
 # Discernimiento
 
 > Área: Ascética / Moral

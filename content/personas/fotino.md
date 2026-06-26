@@ -1,3 +1,11 @@
+---
+type: Persona
+title: Fotino
+tags: ["personas", "herejía"]
+
+timestamp: 2026-06-24
+description: Fotino (m. ca.)
+---
 # Fotino
 
 > Área: Personas / Herejía

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Tomar la cruz
+tags: ["ascética", "moral"]
+
+timestamp: 2026-06-22
+description: Tomar la cruz es la disposición del discípulo a aceptar el sufrimiento, la persecución y aun la muerte por seguir a Cristo.
+---
 # Tomar la cruz
 
 > Área: Ascética / Moral

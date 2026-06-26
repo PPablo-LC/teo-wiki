@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Estado teológico
+tags: ["ascética", "eclesiología"]
+
+timestamp: 2026-06-12
+description: Estado, en sentido teológico, significa una posición particular estable por la cual la persona es dueña de sí misma (libertad) o depende de otra (servidumbre) en materia espiritual.
+---
 # Estado teológico
 
 > Área: Ascética / Eclesiología

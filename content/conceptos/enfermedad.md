@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Enfermedad
+tags: ["moral", "teología"]
+
+timestamp: 2026-05-26
+description: "Experiencia humana de limitación física, psíquica o espiritual que, en el designio divino, puede tener sentido redentor cuando se une a la [[pasión_de_cristo]]."
+---
 # Enfermedad
 
 > Área: Moral / Teología

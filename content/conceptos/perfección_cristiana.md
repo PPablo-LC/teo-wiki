@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Perfección Cristiana
+tags: ["ascética", "mística"]
+
+timestamp: 2026-06-10
+description: "La perfección cristiana consiste formalmente en la caridad: en el amor perfecto a Dios y al prójimo por Dios."
+---
 # Perfección Cristiana
 
 > Área: Ascética / Mística

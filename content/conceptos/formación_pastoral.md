@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Formación pastoral
+tags: ["teología_pastoral"]
+
+timestamp: 2026-06-14
+description: Dimensión de la formación sacerdotal que capacita al candidato para ejercer el ministerio de la palabra, del culto y de la guía pastoral.
+---
 # Formación pastoral
 
 > Área: Teología pastoral

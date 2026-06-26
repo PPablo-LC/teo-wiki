@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sacerdocio común de los fieles
+tags: ["dogmática", "eclesiología"]
+
+timestamp: 2026-05-29
+description: El sacerdocio común de los fieles (también llamado sacerdocio bautismal o sacerdocio real) es la participación de todos los bautizados en el único sacerdocio de Jesucristo.
+---
 # Sacerdocio común de los fieles
 
 > Área: Dogmática / Eclesiología

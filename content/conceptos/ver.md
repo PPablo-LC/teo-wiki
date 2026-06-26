@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ver
+tags: ["dogmática", "mística"]
+
+timestamp: 2026-06-02
+description: "Ver a Dios es la bienaventuranza prometida a los limpios de corazón (Mt 5,8) y la consumación de la vida eterna: la visión beatífica de Dios cara a cara."
+---
 # Ver
 
 > Área: Dogmática / Mística

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Usura
+tags: ["moral"]
+
+timestamp: 2026-06-09
+description: "La usura es el pecado contra la [[virtud_de_la_justicia]] que consiste en recibir un interés por el préstamo de dinero o bienes fungibles, exigiendo el pago de algo que excede el capital prestado."
+---
 # Usura
 
 > Área: Moral

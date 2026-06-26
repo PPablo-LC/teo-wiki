@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Esclavo
+tags: ["bíblica"]
+
+timestamp: 2026-06-02
+description: "Realidad social y tema religioso central en la Escritura: la esclavitud física del pueblo de Israel en Egipto y la esclavitud espiritual del pecado, frente a las cuales Dios actúa como liberador."
+---
 # Esclavo
 
 > Área: Bíblica

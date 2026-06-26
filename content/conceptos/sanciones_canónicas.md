@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sanciones canónicas
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-29
+description: Las sanciones canónicas son las penas establecidas por la autoridad eclesiástica competente para castigar los delitos de los fieles, ordenadas a reparar el escándalo.
+---
 # Sanciones canónicas
 
 > Área: Derecho Canónico

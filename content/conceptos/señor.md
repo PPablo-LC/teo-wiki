@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Señor
+tags: ["dogmática", "cristología"]
+
+timestamp: 2026-06-02
+description: "«Señor» (hebreo *Adonai*, griego *Kyrios*) es el título por excelencia de Dios en el Antiguo Testamento y de Jesucristo resucitado en el Nuevo."
+---
 # Señor
 
 > Área: Dogmática / Cristología

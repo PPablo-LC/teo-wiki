@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sutileza
+tags: ["escatología", "dogmática"]
+
+timestamp: 2026-06-16
+description: La sutileza es una de las cuatro cualidades del cuerpo glorioso de los resucitados, por la cual el cuerpo espiritualizado participa de la naturaleza del espíritu.
+---
 # Sutileza
 
 > Área: Escatología / Dogmática

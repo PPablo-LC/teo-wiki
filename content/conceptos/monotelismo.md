@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Monotelismo
+tags: ["dogmática_—_cristología", "herejías"]
+
+timestamp: 2026-06-25
+description: "Herejía cristológica del siglo VII que afirma la existencia de una sola voluntad (*monon thelema*) y una sola operación (*monon energema*) en Cristo."
+---
 # Monotelismo
 
 > Área: Dogmática — Cristología, Herejías

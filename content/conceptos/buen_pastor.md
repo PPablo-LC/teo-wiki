@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Buen Pastor
+tags: ["dogmática", "cristología"]
+
+timestamp: 2026-06-22
+description: "Jesucristo es el buen Pastor que da la vida por sus ovejas. Jesús declara: «Yo soy el buen pastor; el buen pastor da su vida por las ovejas» (Jn 10, 11)."
+---
 # Buen Pastor
 
 > Área: Dogmática / Cristología

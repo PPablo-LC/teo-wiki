@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Medio ambiente
+tags: ["doctrina_social"]
+
+timestamp: 2026-05-25
+description: La creación y el entorno natural que Dios ha confiado al hombre para que lo custodie y lo cultive con responsabilidad, reconociéndolo como don del Creador destinado a toda la humanidad.
+---
 # Medio ambiente
 
 > Área: Doctrina Social

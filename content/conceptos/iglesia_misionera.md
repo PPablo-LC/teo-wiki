@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Iglesia misionera
+tags: ["eclesiología", "misionología"]
+
+timestamp: 2026-06-18
+description: La Iglesia misionera es la que se reconoce como enviada por Cristo a anunciar el Evangelio a todas las gentes, en todas partes y en todo momento.
+---
 # Iglesia misionera
 
 > Área: Eclesiología / Misionología

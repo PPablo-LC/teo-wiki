@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Simonía
+tags: ["moral", "derecho_canónico"]
+
+timestamp: 2026-05-31
+description: La simonía es la compraventa deliberada de bienes espirituales (sacramentos, sacramentales, bendiciones, cargos eclesiásticos, indulgencias) por un precio temporal.
+---
 # Simonía
 
 > Área: Moral / Derecho Canónico

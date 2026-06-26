@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Globalización
+tags: ["doctrina_social"]
+
+timestamp: 2026-05-25
+description: Proceso de creciente integración de las economías nacionales en el plano del comercio de bienes y servicios y de las transacciones financieras.
+---
 # Globalización
 
 > Área: Doctrina Social

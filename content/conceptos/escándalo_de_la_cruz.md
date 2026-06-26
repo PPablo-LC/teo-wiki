@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Escándalo de la Cruz
+tags: ["dogmática", "cristología", "soteriología"]
+
+timestamp: 2026-06-21
+description: La Cruz de Cristo como «escándalo para los judíos y necedad para los gentiles» (1 Cor 1,23).
+---
 # Escándalo de la Cruz
 
 > Área: Dogmática / Cristología / Soteriología

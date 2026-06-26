@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Praedicate Evangelium
+tags: ["derecho_canónico", "eclesiología"]
+
+timestamp: 2026-05-29
+description: "Constitución apostólica *Praedicate Evangelium* (Predicad el Evangelio) promulgada por el Papa Francisco el 19 de marzo de 2022, que reforma integralmente la organización de la Curia Romana."
+---
 # Praedicate Evangelium
 
 > Área: Derecho Canónico / Eclesiología

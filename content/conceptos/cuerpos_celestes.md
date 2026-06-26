@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cuerpos celestes
+tags: ["dogmática_(cosmología)"]
+
+timestamp: 2026-06-03
+description: Los cuerpos celestes (sol, luna, estrellas) son las criaturas corporales del cielo, creadas por Dios en el cuarto día de la creación (Gén 1,14-19) para iluminar la tierra, presidir el día y la noche.
+---
 # Cuerpos celestes
 
 > Área: Dogmática (Cosmología)

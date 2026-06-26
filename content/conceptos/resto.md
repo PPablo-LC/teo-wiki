@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Resto
+tags: ["bíblica", "teología_del_at_y_nt"]
+
+timestamp: 2026-06-02
+description: El «resto» es el grupo de sobrevivientes que, tras el juicio divino, constituye el depositario de las promesas y la semilla de la salvación futura.
+---
 # Resto
 
 > Área: Bíblica / Teología del AT y NT

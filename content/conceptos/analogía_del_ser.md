@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Analogía del ser
+tags: ["dogmática", "teología_natural"]
+
+timestamp: 2026-05-29
+description: "La analogía del ser (*analogia entis*) es el principio metafísico y teológico según el cual el ser se predica de Dios y de las criaturas no unívocamente (con idéntico significado) ni equívocamente..."
+---
 # Analogía del ser
 
 > Área: Dogmática / Teología Natural

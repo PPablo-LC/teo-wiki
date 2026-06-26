@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Lágrimas y Sudor de Sangre
+tags: ["mística"]
+
+timestamp: 2026-05-22
+description: Las lágrimas y el sudor de sangre (hematidrosis) son fenómenos místicos corporales extraordinarios en los que se produce exudación sanguínea a través de los ojos (lágrimas de sangre) o de la piel...
+---
 # Lágrimas y Sudor de Sangre
 
 > Área: Mística

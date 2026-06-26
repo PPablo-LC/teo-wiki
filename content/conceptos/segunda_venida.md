@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Segunda Venida
+tags: ["escatología"]
+
+timestamp: 2026-05-25
+description: La segunda venida de Cristo, llamada también Parusía (del griego παρουσία, «presencia» o «llegada»), es la manifestación gloriosa de Jesucristo al final de los tiempos.
+---
 # Segunda Venida
 
 > Área: Escatología

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Incredulidad
+tags: ["dogmática", "moral"]
+
+timestamp: 2026-06-08
+description: "La incredulidad o infidelidad es el pecado opuesto a la [[virtud_de_la_fe]], que consiste en la resistencia o desprecio voluntario de la verdad revelada por Dios."
+---
 # Incredulidad
 
 > Área: Dogmática / Moral

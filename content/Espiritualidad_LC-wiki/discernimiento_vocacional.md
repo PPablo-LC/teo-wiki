@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Discernimiento vocacional
+tags: ["ascética", "espiritualidad", "formación"]
+
+timestamp: 2026-06-12
+description: El discernimiento vocacional es el proceso iluminado por la fe y guiado por el Espíritu Santo mediante el cual una persona descubre y acoge la voluntad de Dios sobre su propia vida.
+---
 # Discernimiento vocacional
 
 > Área: Ascética / Espiritualidad / Formación

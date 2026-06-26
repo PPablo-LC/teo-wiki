@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Dimisorias
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-29
+description: Las dimisorias (letras dimisorias) son el acto por el cual la autoridad eclesiástica competente autoriza a un Obispo distinto del propio para conferir la ordenación sacerdotal o diaconal a un...
+---
 # Dimisorias
 
 > Área: Derecho Canónico

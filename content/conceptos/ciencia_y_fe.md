@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ciencia y fe
+tags: ["teología_fundamental", "moral_social"]
+
+timestamp: 2026-06-19
+description: La relación entre ciencia y fe se funda en la convicción cristiana de que el progreso científico y técnico, cuando está al servicio del hombre y orientado por la ley moral.
+---
 # Ciencia y fe
 
 > Área: Teología fundamental / Moral social

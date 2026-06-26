@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Espíritu Santo en la Iglesia
+tags: ["dogmática", "eclesiología"]
+
+timestamp: 2026-06-22
+description: Presencia y acción del Espíritu Santo en la Iglesia como principio de vida, santificación y misión, comunicado por Cristo glorificado desde el Padre para constituir.
+---
 # Espíritu Santo en la Iglesia
 
 > Área: Dogmática / Eclesiología

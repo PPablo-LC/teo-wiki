@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Persona del Hijo
+tags: ["dogmática_(trinidad", "cristología)"]
+
+timestamp: 2026-06-03
+description: Segunda Persona de la Santísima Trinidad, Verbo eterno del Padre, engendrado por Él antes de todos los siglos, consubstancial al Padre.
+---
 # Persona del Hijo
 
 > Área: Dogmática (Trinidad, Cristología)

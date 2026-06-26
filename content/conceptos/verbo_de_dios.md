@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Verbo de Dios
+tags: ["cristología", "dogmática"]
+
+timestamp: 2026-06-22
+description: El Verbo (Logos), segunda Persona de la Santísima Trinidad, Palabra eterna del Padre por quien todo fue hecho, consubstancial al Padre, que se encarnó en Jesucristo para la salvación del mundo.
+---
 # Verbo de Dios
 
 > Área: Cristología / Dogmática

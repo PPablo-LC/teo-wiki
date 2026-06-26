@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Espíritu Santo
+tags: ["dogmática"]
+
+timestamp: 2026-06-21
+description: Tercera Persona de la Santísima Trinidad, Dios verdadero, consubstancial al Padre y al Hijo, que procede del Padre y del Hijo (Filioque).
+---
 # Espíritu Santo
 
 > Área: Dogmática

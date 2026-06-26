@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Pecado venial
+tags: ["moral"]
+
+timestamp: 2026-06-20
+description: El pecado venial es una trasgresión de la ley de Dios en materia leve, o en materia grave pero sin plena advertencia o sin pleno consentimiento de la voluntad.
+---
 # Pecado venial
 
 > Área: Moral

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Preparación al matrimonio
+tags: ["pastoral"]
+
+timestamp: 2026-06-20
+description: Proceso gradual y continuo de formación de los jóvenes para la vida matrimonial y familiar, que comprende tres momentos principales.
+---
 # Preparación al matrimonio
 
 > Área: Pastoral

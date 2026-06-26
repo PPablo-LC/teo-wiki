@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Verdad
+tags: ["filosofía", "doctrina_social", "moral"]
+
+timestamp: 2026-06-10
+description: La verdad es uno de los valores fundamentales de la vida social, inherente a la dignidad de la persona humana.
+---
 # Verdad
 
 > Área: Filosofía / Doctrina Social / Moral

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Alma Espiritual
+tags: ["antropología"]
+
+timestamp: 2026-05-22
+description: Principio espiritual e inmortal en el hombre, aquello por lo que es particularmente imagen de Dios.
+---
 # Alma Espiritual
 
 > Área: Antropología

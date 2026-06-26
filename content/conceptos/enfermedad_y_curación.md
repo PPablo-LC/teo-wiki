@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Enfermedad y curación
+tags: ["bíblica", "sacramental"]
+
+timestamp: 2026-06-02
+description: "La enfermedad en la Escritura es un mal físico que, como consecuencia del pecado original, tiene un significado religioso: es signo de la fragilidad humana y, a veces, del poder de Satán."
+---
 # Enfermedad y curación
 
 > Área: Bíblica / Sacramental

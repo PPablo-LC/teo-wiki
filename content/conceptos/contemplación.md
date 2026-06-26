@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Contemplación
+tags: ["mística"]
+
+timestamp: 2026-05-20
+description: La contemplación infusa es una simple intuición de la verdad divina procedente de la fe ilustrada por los dones de entendimiento, sabiduría y ciencia en estado perfecto.
+---
 # Contemplación
 
 > Área: Mística

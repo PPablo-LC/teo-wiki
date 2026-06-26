@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Consagración episcopal
+tags: ["sacramentos", "eclesiología"]
+
+timestamp: 2026-05-26
+description: La consagración episcopal es la ordenación por la que un presbítero recibe la plenitud del sacramento del Orden, siendo constituido obispo.
+---
 # Consagración episcopal
 
 > Área: Sacramentos / Eclesiología

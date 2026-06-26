@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Antisemitismo
+tags: ["moral", "eclesiología"]
+
+timestamp: 2026-05-31
+description: El antisemitismo es la hostilidad, discriminación o persecución contra los judíos como pueblo.
+---
 # Antisemitismo
 
 > Área: Moral / Eclesiología

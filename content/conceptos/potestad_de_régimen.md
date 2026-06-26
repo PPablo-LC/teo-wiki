@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Potestad de régimen
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: La potestad de régimen, también llamada potestad de jurisdicción, es el poder jurídico de gobierno en la Iglesia, existente por institución divina.
+---
 # Potestad de régimen
 
 > Área: Derecho Canónico

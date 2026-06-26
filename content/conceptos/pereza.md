@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Pereza
+tags: ["moral", "ascética"]
+
+timestamp: 2026-05-22
+description: Vicio capital que se opone al amor de Dios y al gozo del bien divino.
+---
 # Pereza
 
 > Área: Moral / Ascética

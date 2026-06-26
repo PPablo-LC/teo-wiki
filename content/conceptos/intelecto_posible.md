@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Intelecto posible
+tags: ["filosofía_(tomismo)"]
+
+timestamp: 2026-06-04
+description: En la psicología aristotélico-tomista, el intelecto posible es la potencia intelectiva del alma humana por la que puede recibir las formas inteligibles abstractas de las cosas materiales.
+---
 # Intelecto posible
 
 > Área: Filosofía (Tomismo)

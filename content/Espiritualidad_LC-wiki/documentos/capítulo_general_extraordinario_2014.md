@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Capítulo General Extraordinario 2014 de los Legionarios de Cristo
+tags: ["espiritualidad", "derecho"]
+
+timestamp: 2026-06-13
+description: "El documento consta de una presentación general y ocho áreas temáticas, más anexos:"
+---
 # Capítulo General Extraordinario 2014 de los Legionarios de Cristo
 
 > Área: Espiritualidad / Derecho

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Potencias del alma
+tags: ["antropología_teológica", "ascética"]
+
+timestamp: 2026-06-04
+description: "Facultades o capacidades operativas del alma humana, que en la filosofía aristotélico-tomista son principalmente dos: entendimiento (facultad de conocer) y voluntad (facultad de amar y querer)."
+---
 # Potencias del alma
 
 > Área: Antropología teológica / Ascética

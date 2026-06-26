@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Don de entendimiento
+tags: ["ascética", "mística"]
+
+timestamp: 2026-05-21
+description: "El don de entendimiento es uno de los [[siete_dones_del_espíritu_santo]], que perfecciona y sobrenaturaliza la virtud de la [[fe]], iluminando el entendimiento para penetrar con facilidad."
+---
 # Don de entendimiento
 
 > Área: Ascética / Mística

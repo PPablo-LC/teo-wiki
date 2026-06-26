@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Paraíso
+tags: ["escatología"]
+
+timestamp: 2026-06-02
+description: "Término de origen persa (*pardes*) que significa huerto."
+---
 # Paraíso
 
 > Área: Escatología

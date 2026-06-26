@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Deseo de Dios
+tags: ["dogmática", "antropología_teológica"]
+
+timestamp: 2026-05-22
+description: El deseo de Dios está inscrito en el corazón del hombre, porque el hombre ha sido creado por Dios y para Dios.
+---
 # Deseo de Dios
 
 > Área: Dogmática / Antropología teológica

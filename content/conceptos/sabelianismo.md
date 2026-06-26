@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sabelianismo
+tags: ["dogmática_(trinidad)"]
+
+timestamp: 2026-06-24
+description: Herejía del siglo III que negaba la distinción real de las Personas divinas, afirmando que el Padre, el Hijo y el Espíritu Santo son solo modos o manifestaciones sucesivas de un único Dios.
+---
 # Sabelianismo
 
 > Área: Dogmática (Trinidad)

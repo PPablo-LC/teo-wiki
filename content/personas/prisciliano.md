@@ -1,3 +1,11 @@
+---
+type: Persona
+title: Prisciliano
+tags: ["historia_—_herejías"]
+
+timestamp: 2026-06-25
+description: Prisciliano fue un teólogo ascético hispano que desarrolló un sistema sincrético combinando elementos del gnosticismo, maniqueísmo y astrología con una rigurosa práctica ascética.
+---
 # Prisciliano
 
 > Área: Historia — Herejías

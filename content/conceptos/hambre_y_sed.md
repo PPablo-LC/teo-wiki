@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Hambre y sed
+tags: ["ascética", "moral"]
+
+timestamp: 2026-06-02
+description: Necesidades físicas que en la Escritura expresan simbólicamente la necesidad radical del hombre de Dios.
+---
 # Hambre y sed
 
 > Área: Ascética / Moral

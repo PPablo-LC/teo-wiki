@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Pérdida del estado clerical
+tags: ["derecho_canónico"]
+
+timestamp: 2026-06-19
+description: La pérdida del estado clerical es la cesación de los derechos y obligaciones propios del clérigo por determinación de la autoridad competente.
+---
 # Pérdida del estado clerical
 
 > Área: Derecho Canónico

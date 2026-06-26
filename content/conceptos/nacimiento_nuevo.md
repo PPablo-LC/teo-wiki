@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Nacimiento (nuevo)
+tags: ["dogmática"]
+
+timestamp: 2026-06-02
+description: El nuevo nacimiento es la regeneración sobrenatural del hombre por la palabra de Dios y el Espíritu Santo, realizada mediante la fe y el bautismo.
+---
 # Nacimiento (nuevo)
 
 > Área: Dogmática

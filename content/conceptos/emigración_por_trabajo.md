@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Emigración por trabajo
+tags: ["doctrina_social"]
+
+timestamp: 2026-06-17
+description: Fenómeno por el cual un hombre abandona su país de origen para buscar mejores condiciones de vida en otro país mediante el trabajo.
+---
 # Emigración por trabajo
 
 > Área: Doctrina Social

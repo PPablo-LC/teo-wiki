@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Socialización
+tags: ["doctrina_social"]
+
+timestamp: 2026-05-26
+description: Fenómeno por el cual se multiplican las relaciones mutuas y las interdependencias entre los hombres.
+---
 # Socialización
 
 > Área: Doctrina Social

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Toma de posesión
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: Acto jurídico formal por el cual un clérigo asume efectivamente el oficio eclesiástico para el que ha sido provisto.
+---
 # Toma de posesión
 
 > Área: Derecho Canónico

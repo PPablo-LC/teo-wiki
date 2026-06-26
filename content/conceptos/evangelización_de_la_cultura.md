@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Evangelización de la cultura
+tags: ["evangelización", "cultura"]
+
+timestamp: 2026-06-20
+description: La evangelización de la cultura es el esfuerzo lúcido, serio y ordenado por llevar el Evangelio al corazón de las culturas.
+---
 # Evangelización de la cultura
 
 > Área: Evangelización / Cultura

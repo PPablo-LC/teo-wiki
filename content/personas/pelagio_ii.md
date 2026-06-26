@@ -1,3 +1,11 @@
+---
+type: Persona
+title: Pelagio II
+tags: ["historia_—_papado"]
+
+timestamp: 2026-06-25
+description: Pelagio II fue papa durante el avance lombardo sobre Italia. Rodeado en Roma, solicitó ayuda al emperador bizantino Mauricio y al rey de los francos.
+---
 # Pelagio II
 
 > Área: Historia — Papado

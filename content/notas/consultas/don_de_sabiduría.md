@@ -1,3 +1,8 @@
+---
+type: Consulta
+title: Nota sobre el don de sabiduría
+description: Síntesis de las fuentes CEC y TPCr
+---
 # Nota sobre el don de sabiduría
 
 > Síntesis de las fuentes CEC y TPCr

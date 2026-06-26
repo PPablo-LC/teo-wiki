@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Medalla Milagrosa
+tags: ["mariología", "piedad_popular"]
+
+timestamp: 2026-05-26
+description: La Medalla Milagrosa es una devoción mariana nacida de las apariciones de la Virgen María a santa Catalina Labouré en la capilla de las Hermanas de la Caridad de San Vicente de Paúl en París.
+---
 # Medalla Milagrosa
 
 > Área: Mariología / Piedad Popular

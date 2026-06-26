@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cuarto mandamiento
+tags: ["moral"]
+
+timestamp: 2026-06-03
+description: El cuarto mandamiento del Decálogo —«Honra a tu padre y a tu madre» (Ex 20,12.)
+---
 # Cuarto mandamiento
 
 > Área: Moral

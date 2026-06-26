@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Pan
+tags: ["dogmática"]
+
+timestamp: 2026-06-02
+description: El pan es en la Escritura don de Dios, fuente de fuerza y medio de subsistencia esencial.
+---
 # Pan
 
 > Área: Dogmática

@@ -1,3 +1,11 @@
+---
+type: Persona
+title: John Connor
+tags: ["personas", "teólogos"]
+
+timestamp: 2026-05-25
+description: P. John Lane Connor, L.C. (Severna Park, Maryland, EE.UU., 15 de febrero de 1968). Licenciado en finanzas por la Loyola University Maryland (1990).
+---
 # John Connor
 
 > Área: Personas / Teólogos

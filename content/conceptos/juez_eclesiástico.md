@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Juez eclesiástico
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-25
+description: El juez eclesiástico es la persona física investida de potestad judicial ordinaria o delegada en la Iglesia, competente para conocer y decidir las causas conforme al derecho canónico.
+---
 # Juez eclesiástico
 
 > Área: Derecho Canónico

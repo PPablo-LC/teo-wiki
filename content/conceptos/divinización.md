@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Divinización
+tags: ["soteriología", "gracia"]
+
+timestamp: 2026-06-23
+description: "La divinización (*theosis*) es la participación del hombre en la naturaleza divina por la gracia (2 P 1,4)."
+---
 # Divinización
 
 > Área: Soteriología / Gracia

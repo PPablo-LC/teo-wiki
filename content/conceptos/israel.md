@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Israel
+tags: ["bíblica", "eclesiología"]
+
+timestamp: 2026-06-02
+description: Israel (probablemente «Dios lucha») designa en la Sagrada Escritura tanto al patriarca Jacob como al pueblo de la Alianza.
+---
 # Israel
 
 > Área: Bíblica, Eclesiología

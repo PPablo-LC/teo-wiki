@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Herencia
+tags: ["moral_(escatología)"]
+
+timestamp: 2026-06-02
+description: La herencia en sentido teológico designa tanto los bienes espirituales prometidos por Dios al hombre (herencia del Reino, vida eterna.)
+---
 # Herencia
 
 > Área: Moral (Escatología)

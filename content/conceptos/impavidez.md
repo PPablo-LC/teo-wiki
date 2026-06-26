@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Impavidez
+tags: ["moral"]
+
+timestamp: 2026-06-11
+description: "La impavidez (del latín *impaviditas*) es la virtud que modera el temor excesivo, impidiendo que el alma sea perturbada por los peligros y los males."
+---
 # Impavidez
 
 > Área: Moral

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Catequistas
+tags: ["eclesiología_(catequesis)"]
+
+timestamp: 2026-05-29
+description: Fieles laicos —y también consagrados y clérigos— llamados por la Iglesia a transmitir la fe mediante una enseñanza orgánica y sistemática de la doctrina cristiana.
+---
 # Catequistas
 
 > Área: Eclesiología (Catequesis)

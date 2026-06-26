@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Demonio
+tags: ["dogmática_(angelología)"]
+
+timestamp: 2026-06-12
+description: "El demonio (del griego *daimonion*) es un ángel caído que, por un acto de orgullo y rebelión contra Dios, fue despojado del estado de gracia y condenado al infierno eterno."
+---
 # Demonio
 
 > Área: Dogmática (Angelología)

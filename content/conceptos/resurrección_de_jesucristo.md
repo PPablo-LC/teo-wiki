@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Resurrección de Jesucristo
+tags: ["cristología", "dogmática"]
+
+timestamp: 2026-06-21
+description: Vuelta de Jesucristo a la vida gloriosa al tercer día de su muerte, por su propio poder y por obra del Espíritu Santo. Es el fundamento de la fe cristiana y la garantía de nuestra propia resurrección.
+---
 # Resurrección de Jesucristo
 
 > Área: Cristología / Dogmática

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Buen samaritano
+tags: ["moral", "sagrada_escritura"]
+
+timestamp: 2026-06-20
+description: La parábola del buen samaritano (Lc 10,25-37) es una enseñanza de Jesús sobre el amor al prójimo.
+---
 # Buen samaritano
 
 > Área: Moral / Sagrada Escritura

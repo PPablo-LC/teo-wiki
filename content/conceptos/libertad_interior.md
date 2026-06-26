@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Libertad interior
+tags: ["ascética", "moral", "espiritualidad"]
+
+timestamp: 2026-06-23
+description: La libertad interior es la disposición del alma por la cual la persona, libre de ataduras desordenadas —pasiones, apegos, concupiscencia, miedo—.
+---
 # Libertad interior
 
 > Área: Ascética / Moral / Espiritualidad

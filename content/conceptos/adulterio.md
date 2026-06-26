@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Adulterio
+tags: ["moral"]
+
+timestamp: 2026-06-23
+description: "El adulterio es la infidelidad conyugal: la relación sexual entre un hombre y una mujer, de los cuales al menos uno está casado."
+---
 # Adulterio
 
 > Área: Moral

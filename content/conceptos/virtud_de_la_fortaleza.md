@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Virtud de la fortaleza
+tags: ["moral"]
+
+timestamp: 2026-06-23
+description: "La fortaleza es la tercera de las [[virtudes_cardinales]], virtud infusa que modera la pasión del ánimo en los ataques del mal y en las dificultades del bien."
+---
 # Virtud de la fortaleza
 
 > Área: Moral

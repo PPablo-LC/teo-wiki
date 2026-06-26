@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ambón
+tags: ["liturgia"]
+
+timestamp: 2026-06-13
+description: Lugar elevado desde el que se proclaman las lecturas bíblicas, el Evangelio y la homilía, y desde el que se dirige la oración de los fieles.
+---
 # Ambón
 
 > Área: Liturgia

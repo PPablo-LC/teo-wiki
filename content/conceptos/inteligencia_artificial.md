@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Inteligencia artificial
+tags: ["moral", "doctrina_social"]
+
+timestamp: 2026-06-10
+description: La inteligencia artificial (IA) designa sistemas computacionales que imitan ciertas funciones de la inteligencia humana —como el aprendizaje.
+---
 # Inteligencia artificial
 
 > Área: Moral / Doctrina Social

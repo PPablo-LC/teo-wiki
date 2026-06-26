@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Partidos políticos
+tags: ["doctrina_social"]
+
+timestamp: 2026-05-25
+description: Asociaciones de ciudadanos que tienen la tarea de favorecer una amplia participación y el acceso de todos a las responsabilidades públicas.
+---
 # Partidos políticos
 
 > Área: Doctrina Social

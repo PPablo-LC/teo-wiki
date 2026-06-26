@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Catecúmeno
+tags: ["eclesiología", "sacramental"]
+
+timestamp: 2026-05-26
+description: Los catecúmenos son aquellos que, movidos por el Espíritu Santo, solicitan explícitamente ser incorporados a la Iglesia católica y, por este mismo deseo, así como por la vida de fe.
+---
 # Catecúmeno
 
 > Área: Eclesiología / Sacramental

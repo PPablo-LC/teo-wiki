@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Martirio
+tags: ["moral", "ascética"]
+
+timestamp: 2026-06-11
+description: "El martirio (del griego *martyria*, «testimonio») es la muerte voluntariamente aceptada por dar testimonio de la fe cristiana o de una verdad moral inseparable de ella."
+---
 # Martirio
 
 > Área: Moral / Ascética

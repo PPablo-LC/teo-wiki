@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sepultura de Cristo
+tags: ["dogmática", "cristología"]
+
+timestamp: 2026-06-12
+description: La sepultura de Cristo es el depósito del cuerpo de Jesús en el sepulcro después de su muerte en la cruz, realizado por José de Arimatea y Nicodemo.
+---
 # Sepultura de Cristo
 
 > Área: Dogmática / Cristología

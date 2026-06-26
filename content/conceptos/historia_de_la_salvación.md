@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Historia de la Salvación
+tags: ["dogmática"]
+
+timestamp: 2026-05-26
+description: El designio divino que Dios realiza a lo largo del tiempo para revelarse a los hombres, apartarlos del pecado y conducirlos a la comunión consigo.
+---
 # Historia de la Salvación
 
 > Área: Dogmática

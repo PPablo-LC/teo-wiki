@@ -1,3 +1,11 @@
+---
+type: Persona
+title: San Cirilo de Alejandría
+tags: ["patrística_—_padres_de_la_iglesia"]
+
+timestamp: 2026-06-25
+description: San Cirilo de Alejandría (ca. 376-444) fue Patriarca de Alejandría, Padre y Doctor de la Iglesia. Es una de las figuras más importantes de la cristología patrística.
+---
 # San Cirilo de Alejandría
 
 > Área: Patrística — Padres de la Iglesia

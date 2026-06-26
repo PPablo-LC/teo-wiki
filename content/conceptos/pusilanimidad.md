@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Pusilanimidad
+tags: ["moral"]
+
+timestamp: 2026-06-11
+description: "La pusilanimidad (del latín *pusillanimitas*, «pequeñez de alma») es el vicio opuesto a la [[magnanimidad]] por defecto."
+---
 # Pusilanimidad
 
 > Área: Moral

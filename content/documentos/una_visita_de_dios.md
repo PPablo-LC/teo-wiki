@@ -1,3 +1,8 @@
+---
+type: Documento
+title: Una Visita de Dios
+description: "*Una Visita de Dios* (subtítulo.)"
+---
 # Una Visita de Dios
 
 > Tipo: Libro de espiritualidad / Pastoral

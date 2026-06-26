@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Impassibilidad
+tags: ["escatología", "dogmática"]
+
+timestamp: 2026-06-16
+description: La impassibilidad es una de las cuatro dotes del cuerpo glorioso de los resucitados, por la cual el cuerpo del bienaventurado queda totalmente exento de todo dolor.
+---
 # Impassibilidad
 
 > Área: Escatología / Dogmática

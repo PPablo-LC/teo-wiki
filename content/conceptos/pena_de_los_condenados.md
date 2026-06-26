@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Pena de los condenados
+tags: ["escatología"]
+
+timestamp: 2026-06-16
+description: La pena de los condenados en el infierno comprende el conjunto de sufrimientos —tanto del alma como del cuerpo resucitado— que constituyen la retribución eterna del pecado mortal.
+---
 # Pena de los condenados
 
 > Área: Escatología

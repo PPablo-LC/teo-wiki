@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Rectores de iglesias
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: El rector de una iglesia es el sacerdote a quien se confía el cuidado pastoral de una iglesia que no es parroquial ni capitular.
+---
 # Rectores de iglesias
 
 > Área: Derecho canónico

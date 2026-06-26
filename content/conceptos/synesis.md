@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Synesis
+tags: ["moral"]
+
+timestamp: 2026-06-09
+description: "La synesis (del griego *synesis* = buen sentido, sensatez) es la virtud del juicio recto según las reglas comunes de la ley."
+---
 # Synesis
 
 > Área: Moral

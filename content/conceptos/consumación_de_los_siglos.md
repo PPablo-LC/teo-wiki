@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Consumación de los siglos
+tags: ["escatología"]
+
+timestamp: 2026-06-16
+description: Plenitud final del Reino de Dios al término de la historia, cuando Cristo venga en gloria para juzgar a vivos y muertos.
+---
 # Consumación de los siglos
 
 > Área: Escatología

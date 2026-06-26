@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ministerio episcopal
+tags: ["eclesiología"]
+
+timestamp: 2026-06-19
+description: El ministerio episcopal es la función pastoral propia del obispo, sucesor de los Apóstoles, que comprende tres dimensiones inseparables.
+---
 # Ministerio episcopal
 
 > Área: Eclesiología

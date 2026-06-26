@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Matrimonio Espiritual
+tags: ["mística"]
+
+timestamp: 2026-05-22
+description: El matrimonio espiritual, sinónimo de unión transformante, es el supremo grado de oración mística, en el que el alma llega a la unión permanente, consciente e indisoluble con Dios por el amor.
+---
 # Matrimonio Espiritual
 
 > Área: Mística

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Unidad hipostática
+tags: ["dogmática_—_cristología"]
+
+timestamp: 2026-06-24
+description: "La unión hipostática (del griego *hypostasis*: persona, supuesto) es el dogma según el cual en Jesucristo se unen dos naturalezas —la divina y la humana— en una sola persona divina, la del Verbo."
+---
 # Unidad hipostática
 
 > Área: Dogmática — Cristología

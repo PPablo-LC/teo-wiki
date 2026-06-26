@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sigilo sacramental
+tags: ["derecho_canónico", "sacramental"]
+
+timestamp: 2026-05-29
+description: El sigilo sacramental es la obligación inviolable de guardar secreto absoluto sobre todo lo conocido en la confesión sacramental.
+---
 # Sigilo sacramental
 
 > Área: Derecho Canónico / Sacramental

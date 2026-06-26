@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Dignidad del trabajo
+tags: ["doctrina_social"]
+
+timestamp: 2026-06-17
+description: Valor ético del trabajo humano fundado en el hecho de que quien lo lleva a cabo es una persona, creada a imagen de Dios.
+---
 # Dignidad del trabajo
 
 > Área: Doctrina Social

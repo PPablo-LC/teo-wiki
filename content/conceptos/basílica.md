@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Basílica
+tags: ["derecho_canónico", "liturgia"]
+
+timestamp: 2026-05-26
+description: "Título honorífico otorgado por el [[romano_pontífice]] a ciertas iglesias de especial relevancia histórica, litúrgica o pastoral."
+---
 # Basílica
 
 > Área: Derecho canónico / Liturgia

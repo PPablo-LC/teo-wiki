@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cura de almas
+tags: ["derecho_canónico", "pastoral"]
+
+timestamp: 2026-05-26
+description: "Cuidado pastoral y espiritual de los fieles confiado principalmente al [[párroco]] y al [[obispo_diocesano]]."
+---
 # Cura de almas
 
 > Área: Derecho Canónico / Pastoral

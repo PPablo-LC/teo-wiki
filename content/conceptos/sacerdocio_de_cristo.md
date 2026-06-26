@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sacerdocio de Cristo
+tags: ["cristología", "sacramental"]
+
+timestamp: 2026-06-21
+description: Jesucristo es el único y eterno Sumo Sacerdote de la Nueva Alianza, que se ofreció a sí mismo en sacrificio perfecto y único por la salvación de todos los hombres.
+---
 # Sacerdocio de Cristo
 
 > Área: Cristología / Sacramental

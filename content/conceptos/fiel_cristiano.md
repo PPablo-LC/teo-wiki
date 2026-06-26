@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Fiel cristiano
+tags: ["eclesiología"]
+
+timestamp: 2026-05-25
+description: Son fieles cristianos quienes, incorporados a Cristo por el bautismo, se integran en el pueblo de Dios y, hechos partícipes de la función sacerdotal, profética y real de Cristo.
+---
 # Fiel cristiano
 
 > Área: Eclesiología

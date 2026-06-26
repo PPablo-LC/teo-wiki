@@ -1,3 +1,8 @@
+---
+type: Concepto Teológico
+title: Vocabulario de teologia biblica
+description: Conjunto de terminos, conceptos y expresiones caracteristicas del lenguaje biblico que poseen un significado teologico especifico y que requieren conocimiento de las lenguas originales (hebreo.)
+---
 # Vocabulario de teologia biblica
 
 > Area: Sagrada Escritura

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Crucifixión
+tags: ["dogmática", "cristología"]
+
+timestamp: 2026-06-20
+description: "Muerte de [[jesucristo]] en la [[cruz]], ejecutada bajo Poncio Pilato."
+---
 # Crucifixión
 
 > Área: Dogmática / Cristología

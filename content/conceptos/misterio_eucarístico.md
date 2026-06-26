@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Misterio eucarístico
+tags: ["dogmática_(sacramentos)"]
+
+timestamp: 2026-05-26
+description: "El misterio eucarístico es el sacramento del Cuerpo y Sangre de Cristo, que bajo las especies de pan y vino contiene verdadera, real y substancialmente a [[jesucristo]] entero, Dios y hombre."
+---
 # Misterio eucarístico
 
 > Área: Dogmática (Sacramentos)

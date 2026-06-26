@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cristo Camino
+tags: ["dogmática", "cristología"]
+
+timestamp: 2026-06-22
+description: "Jesucristo es el único camino que conduce al Padre. Jesús declara: «Yo soy el camino, la verdad y la vida; nadie va al Padre sino por mí» (Jn 14, 6)."
+---
 # Cristo Camino
 
 > Área: Dogmática / Cristología

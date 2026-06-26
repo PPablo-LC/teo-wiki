@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Veracidad
+tags: ["moral"]
+
+timestamp: 2026-05-22
+description: Virtud moral que consiste en mostrarse veraz en los propios actos y en decir verdad en las palabras, evitando la duplicidad, la simulación y la hipocresía.
+---
 # Veracidad
 
 > Área: Moral

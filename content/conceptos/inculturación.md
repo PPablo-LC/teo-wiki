@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Inculturación
+tags: ["eclesiología", "misiología"]
+
+timestamp: 2026-06-10
+description: La inculturación es el proceso por el cual el Evangelio se encarna en una cultura determinada y las culturas son llamadas a transformarse según el Evangelio.
+---
 # Inculturación
 
 > Área: Eclesiología / Misiología

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Testimonio Cristiano
+tags: ["moral", "eclesiología"]
+
+timestamp: 2026-05-22
+description: Confesión de la fe cristiana mediante palabras y obras, que transmite el Evangelio a otros.
+---
 # Testimonio Cristiano
 
 > Área: Moral / Eclesiología

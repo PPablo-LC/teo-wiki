@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Plan de formación de los centros vocacionales — Habl_Sñr-2018
+tags: ["documentos_—_espiritualidad_legionaria"]
+
+timestamp: 2026-06-12
+description: Fuente primaria sobre la identidad y el plan formativo de los centros vocacionales (seminarios menores) de la Legión de Cristo.
+---
 # Plan de formación de los centros vocacionales — Habl_Sñr-2018
 
 > Área: Documentos — Espiritualidad Legionaria

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Destino universal de los bienes
+tags: ["moral"]
+
+timestamp: 2026-06-17
+description: El destino universal de los bienes es el principio de la doctrina social de la Iglesia según el cual los bienes de la creación están destinados a todo el género humano.
+---
 # Destino universal de los bienes
 
 > Área: Moral

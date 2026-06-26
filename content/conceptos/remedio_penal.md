@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Remedio penal
+tags: ["derecho_canónico"]
+
+timestamp: 2026-06-19
+description: Medida preventiva del derecho canónico que el Ordinario puede aplicar, antes de la comisión de un delito o ante la sospecha grave de su comisión, para prevenir delitos o evitar el escándalo.
+---
 # Remedio penal
 
 > Área: Derecho Canónico

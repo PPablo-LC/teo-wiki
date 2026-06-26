@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Obispo auxiliar
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: "Obispo titular designado por el Romano Pontífice para ayudar al [[obispo_diocesano]] en el gobierno de la [[diócesis]], sin derecho a sucesión."
+---
 # Obispo auxiliar
 
 > Área: Derecho Canónico

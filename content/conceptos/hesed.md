@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Hesed
+tags: ["exégesis_bíblica", "dogmática"]
+
+timestamp: 2026-06-16
+description: "*Hesed* (חֶסֶד) es un término hebreo fundamental del Antiguo Testamento que designa la actitud profunda de bondad, fidelidad y amor comprometido."
+---
 # Hesed
 
 > Área: Exégesis bíblica / Dogmática

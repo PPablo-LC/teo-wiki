@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Codicia
+tags: ["moral"]
+
+timestamp: 2026-05-26
+description: La codicia es el deseo desordenado de los bienes terrenos, particularmente de las riquezas. Es una de las tres concupiscencias fundamentales (1 Jn 2,16) y la raíz del pecado capital de avaricia.
+---
 # Codicia
 
 > Área: Moral

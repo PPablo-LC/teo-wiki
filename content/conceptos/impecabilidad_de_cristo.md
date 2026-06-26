@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Impecabilidad de Cristo
+tags: ["cristología"]
+
+timestamp: 2026-06-22
+description: La impecabilidad de Cristo es la doctrina según la cual Jesucristo, siendo verdadero hombre, estuvo libre de todo pecado —original.
+---
 # Impecabilidad de Cristo
 
 > Área: Cristología

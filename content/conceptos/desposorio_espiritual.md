@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Desposorio Espiritual
+tags: ["mística"]
+
+timestamp: 2026-05-22
+description: El desposorio espiritual es el grado de oración mística que constituye la unión extática —cuarto grado de oración contemplativa y octavo de la clasificación general—.
+---
 # Desposorio Espiritual
 
 > Área: Mística

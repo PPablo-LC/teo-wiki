@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Consideraciones sobre carismas, sanación y vida en el Espíritu
+tags: ["documentos_—_espiritualidad_legionaria"]
+
+timestamp: 2026-06-11
+description: Documento que responde al encargo del Capítulo General de 2020 de estudiar la compatibilidad entre el carisma del Regnum Christi y las expresiones de espiritualidad carismática.
+---
 # Consideraciones sobre carismas, sanación y vida en el Espíritu
 
 > Área: Documentos — Espiritualidad Legionaria

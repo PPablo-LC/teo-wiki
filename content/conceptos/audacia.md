@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Audacia
+tags: ["moral"]
+
+timestamp: 2026-06-11
+description: La audacia es una pasión del apetito irascible por la cual el alma se enfrenta a un mal difícil y amenazante, movida por la esperanza de poder superarlo.
+---
 # Audacia
 
 > Área: Moral

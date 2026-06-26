@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Autoridad política
+tags: ["eclesiología", "moral_social"]
+
+timestamp: 2026-06-19
+description: La autoridad política es el poder legítimo de gobernar una comunidad política, ordenado al bien común.
+---
 # Autoridad política
 
 > Área: Eclesiología / Moral social

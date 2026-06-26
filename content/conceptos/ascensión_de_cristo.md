@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ascensión de Cristo
+tags: ["cristología", "liturgia"]
+
+timestamp: 2026-06-20
+description: "La Ascensión de Cristo es el misterio glorioso por el cual Jesucristo, cuarenta días después de su [[resurrección_de_cristo]], subió al [[cielo]] en cuerpo y alma."
+---
 # Ascensión de Cristo
 
 > Área: Cristología / Liturgia

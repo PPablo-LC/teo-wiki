@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Seno de Abraham
+tags: ["escatología"]
+
+timestamp: 2026-06-16
+description: El seno de Abraham es el lugar de descanso otorgado a las almas después de la muerte por el mérito de la fe.
+---
 # Seno de Abraham
 
 > Área: Escatología

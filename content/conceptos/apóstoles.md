@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Apóstoles
+tags: ["eclesiología", "historia"]
+
+timestamp: 2026-06-02
+description: "Los apóstoles (del griego *apóstolos* = enviado) son los Doce varones elegidos por Cristo para estar con Él y ser enviados a predicar el Reino de Dios."
+---
 # Apóstoles
 
 > Área: Eclesiología / Historia

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Bautismo de Jesús
+tags: ["cristología"]
+
+timestamp: 2026-06-22
+description: Acontecimiento en el Jordán en el que Jesús recibe el bautismo de Juan, constituyendo una teofanía trinitaria —Padre, Hijo y Espíritu Santo— que inaugura su vida pública.
+---
 # Bautismo de Jesús
 
 > Área: Cristología

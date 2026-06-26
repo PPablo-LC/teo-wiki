@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Vida de Dios
+tags: ["dogmática", "teología_natural"]
+
+timestamp: 2026-06-02
+description: "La vida divina es el ser mismo de Dios en cuanto que Dios se mueve y actúa por sí mismo. En Dios la vida no es un accidente ni una operación distinta de su esencia: Dios es su propio vivir."
+---
 # Vida de Dios
 
 > Área: Dogmática / Teología natural

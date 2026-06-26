@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Abuso espiritual
+tags: ["moral", "pastoral"]
+
+timestamp: 2026-06-10
+description: Forma de manipulación y dominio sobre la conciencia de una persona mediante la instrumentalización de la experiencia religiosa o espiritual.
+---
 # Abuso espiritual
 
 > Área: Moral / Pastoral

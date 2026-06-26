@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Afectividad
+tags: ["dogmática", "moral", "ascética"]
+
+timestamp: 2026-06-10
+description: Dimensión esencial del ser humano, junto con la razón y la voluntad, que integra las emociones y los sentimientos en la verdad de la persona creada a imagen y semejanza de Dios.
+---
 # Afectividad
 
 > Área: Dogmática / Moral / Ascética

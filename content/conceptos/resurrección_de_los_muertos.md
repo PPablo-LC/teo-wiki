@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Resurrección de los Muertos
+tags: ["escatología"]
+
+timestamp: 2026-06-16
+description: Dogma de la fe cristiana.
+---
 # Resurrección de los Muertos
 
 > Área: Escatología

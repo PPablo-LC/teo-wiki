@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Mediador
+tags: ["bíblica", "cristología"]
+
+timestamp: 2026-06-12
+description: El que interviene entre dos partes para restablecer la relación o transmitir un mensaje.
+---
 # Mediador
 
 > Área: Bíblica, Cristología

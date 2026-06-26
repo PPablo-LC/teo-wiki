@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Descenso a los infiernos
+tags: ["dogmática", "cristología"]
+
+timestamp: 2026-06-21
+description: El descenso a los infiernos es el artículo del Símbolo de la Fe (Credo) según el cual Jesús, después de su muerte y antes de su resurrección.
+---
 # Descenso a los infiernos
 
 > Área: Dogmática / Cristología

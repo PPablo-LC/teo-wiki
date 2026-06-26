@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Miércoles de Ceniza
+tags: ["liturgia"]
+
+timestamp: 2026-05-26
+description: "Primer día de la [[cuaresma]], en el que la Iglesia impone la ceniza sobre la frente de los fieles como signo de penitencia, conversión y mortalidad."
+---
 # Miércoles de Ceniza
 
 > Área: Liturgia

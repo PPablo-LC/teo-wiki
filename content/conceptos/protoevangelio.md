@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Protoevangelio
+tags: ["teología_bíblica"]
+
+timestamp: 2026-06-18
+description: "El Protoevangelio (del griego *protos*: «primero» y *euangelion*.)"
+---
 # Protoevangelio
 
 > Área: Teología bíblica

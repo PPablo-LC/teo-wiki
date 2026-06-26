@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Votos
+tags: ["ascética", "estado_religioso"]
+
+timestamp: 2026-05-22
+description: Los tres votos religiosos de pobreza, castidad y obediencia, mediante los cuales los religiosos se consagran totalmente a Dios.
+---
 # Votos
 
 > Área: Ascética / Estado religioso

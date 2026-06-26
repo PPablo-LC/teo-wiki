@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Oblaciones
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-25
+description: Las oblaciones son ofrendas o donativos que los fieles entregan a la Iglesia, voluntariamente o según normas establecidas, para el sostenimiento del culto divino.
+---
 # Oblaciones
 
 > Área: Derecho Canónico

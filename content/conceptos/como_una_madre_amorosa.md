@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Como una madre amorosa
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-29
+description: «Como una madre amorosa» (CAM) es una Carta Apostólica en forma de Motu Proprio del Papa Francisco, firmada el 4 de junio de 2016 y en vigor desde el 5 de septiembre de 2016.
+---
 # Como una madre amorosa
 
 > Área: Derecho Canónico

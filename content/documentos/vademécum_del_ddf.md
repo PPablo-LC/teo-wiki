@@ -1,3 +1,11 @@
+---
+type: Documento
+title: Vademécum del DDF
+tags: ["documentos"]
+
+timestamp: 2026-06-11
+description: "Guía paso a paso desde la *notitia criminis* hasta la conclusión definitiva del proceso. Aborda: configuración del delito (art.)"
+---
 # Vademécum del DDF
 
 > Área: Documentos

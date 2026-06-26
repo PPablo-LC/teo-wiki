@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Apócrifos
+tags: ["dogmática_—_escritura"]
+
+timestamp: 2026-06-25
+description: "Los apócrifos (del griego *apokryphos*.)"
+---
 # Apócrifos
 
 > Área: Dogmática — Escritura

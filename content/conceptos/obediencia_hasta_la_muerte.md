@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Obediencia hasta la muerte
+tags: ["cristología", "soteriología"]
+
+timestamp: 2026-06-22
+description: La obediencia de Cristo hasta la muerte es el acto supremo de amor y sumisión voluntaria del Hijo al Padre, que acepta libremente la muerte de cruz para la redención del género humano (Flp 2,8).
+---
 # Obediencia hasta la muerte
 
 > Área: Cristología / Soteriología

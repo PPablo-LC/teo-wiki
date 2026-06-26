@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Dispersión
+tags: ["eclesiología"]
+
+timestamp: 2026-06-02
+description: "La dispersión (diáspora) es un hecho ambiguo en la Escritura: es a la vez bendición divina para poblar la tierra y castigo del pecado que divide a los hombres."
+---
 # Dispersión
 
 > Área: Eclesiología

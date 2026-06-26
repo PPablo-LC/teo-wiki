@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Opinión pública
+tags: ["derecho_canónico", "eclesiología"]
+
+timestamp: 2026-05-26
+description: Derecho de los fieles cristianos a manifestar libremente su opinión sobre los asuntos eclesiales a los pastores y a los demás fieles.
+---
 # Opinión pública
 
 > Área: Derecho Canónico / Eclesiología

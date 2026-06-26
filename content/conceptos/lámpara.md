@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Lámpara
+tags: ["bíblica", "simbología"]
+
+timestamp: 2026-06-02
+description: "La lámpara es símbolo bíblico de una presencia viva, tanto divina como humana: significa la luz de Dios que guía, la fidelidad del creyente que vela y la misión de la Iglesia que ilumina."
+---
 # Lámpara
 
 > Área: Bíblica, Simbología

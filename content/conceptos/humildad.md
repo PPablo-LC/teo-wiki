@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Humildad
+tags: ["moral", "ascética"]
+
+timestamp: 2026-06-11
+description: La humildad es una virtud derivada de la templanza —a través de la modestia— que inclina a cohibir el desordenado apetito de la propia excelencia.
+---
 # Humildad
 
 > Área: Moral / Ascética

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Omnipotencia
+tags: ["dogmática", "teología_natural"]
+
+timestamp: 2026-06-12
+description: "Atributo divino por el cual [[dios]] puede hacer todo cuanto es posible en sí mismo, sin limitación alguna."
+---
 # Omnipotencia
 
 > Área: Dogmática / Teología natural

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Economía de mercado
+tags: ["moral", "doctrina_social"]
+
+timestamp: 2026-06-19
+description: La economía de mercado, también llamada economía libre o de empresa, es un sistema económico que reconoce el papel fundamental y positivo de la empresa, del mercado.
+---
 # Economía de mercado
 
 > Área: Moral / Doctrina social

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Delitos canónicos
+tags: ["derecho_canónico"]
+
+timestamp: 2026-06-19
+description: Tipos penales específicos establecidos en el derecho canónico, que constituyen violaciones externas de una ley o precepto canónico gravemente imputables por dolo o culpa.
+---
 # Delitos canónicos
 
 > Área: Derecho Canónico

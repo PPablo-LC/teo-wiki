@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Fuego
+tags: ["bíblica"]
+
+timestamp: 2026-06-02
+description: "Símbolo teofánico primordial en la revelación bíblica: manifiesta a Dios como santidad atractiva y temible, fuego devorador que purifica y juzga."
+---
 # Fuego
 
 > Área: Bíblica

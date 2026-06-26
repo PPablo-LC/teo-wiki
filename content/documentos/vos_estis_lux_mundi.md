@@ -1,3 +1,11 @@
+---
+type: Documento
+title: Vos estis lux mundi
+tags: ["documentos"]
+
+timestamp: 2026-06-11
+description: Establece procedimientos universales para la recepción de informes y la investigación de delitos contra el sexto mandamiento cometidos por clérigos, miembros de institutos de vida consagrada.
+---
 # Vos estis lux mundi
 
 > Área: Documentos

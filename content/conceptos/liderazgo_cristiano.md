@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Liderazgo Cristiano
+tags: ["moral", "doctrina_social"]
+
+timestamp: 2026-06-03
+description: El liderazgo cristiano es el ejercicio de la autoridad y la influencia según el modelo de Jesucristo, que se fundamenta en el servicio humilde y la caridad.
+---
 # Liderazgo Cristiano
 
 > Área: Moral / Doctrina Social

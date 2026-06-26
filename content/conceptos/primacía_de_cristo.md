@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Primacía de Cristo
+tags: ["cristología", "dogmática"]
+
+timestamp: 2026-06-22
+description: La primacía de Cristo es la absoluta superioridad de su persona y autoridad sobre toda realidad creada.
+---
 # Primacía de Cristo
 
 > Área: Cristología / Dogmática

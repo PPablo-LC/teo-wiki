@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Mistagogia
+tags: ["liturgia", "catequesis"]
+
+timestamp: 2026-05-29
+description: La mistagogia es el método catequético que introduce en el misterio de Cristo procediendo de lo visible a lo invisible, del signo a lo significado, de los «sacramentos» a los «misterios».
+---
 # Mistagogia
 
 > Área: Liturgia / Catequesis

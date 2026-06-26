@@ -1,3 +1,9 @@
+---
+type: Análisis Doctrinal
+title: "Kathy Washeck — Leading by Followership: Docility In Our Daily Lives: Análisis doctrinal"
+timestamp: 2026-06-03
+description: Conferencia de Kathy Washeck en la Catholic Men's Conference 2022.
+---
 # Kathy Washeck — Leading by Followership: Docility In Our Daily Lives: Análisis doctrinal
 
 > Tipo: Análisis doctrinal

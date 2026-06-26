@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sacerdocio común
+tags: ["sacramental", "eclesiología"]
+
+timestamp: 2026-05-22
+description: El sacerdocio común de los fieles es la participación de todos los bautizados en el único sacerdocio de Jesucristo, por la cual son constituidos pueblo sacerdotal.
+---
 # Sacerdocio común
 
 > Área: Sacramental / Eclesiología

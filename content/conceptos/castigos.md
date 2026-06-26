@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Castigos
+tags: ["dogmática_(moral", "escatología)"]
+
+timestamp: 2026-06-02
+description: Los castigos divinos en la Escritura son las consecuencias dolorosas del pecado que revelan al mismo tiempo la santidad de Dios, la gravedad del pecado y la posibilidad de conversión.
+---
 # Castigos
 
 > Área: Dogmática (Moral, Escatología)

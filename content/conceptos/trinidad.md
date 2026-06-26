@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Trinidad
+tags: ["dogmática"]
+
+timestamp: 2026-06-21
+description: "Misterio central de la fe cristiana: un solo Dios en tres Personas distintas —Padre, Hijo y Espíritu Santo—, consubstanciales e indivisibles."
+---
 # Trinidad
 
 > Área: Dogmática

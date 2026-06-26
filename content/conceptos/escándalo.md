@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Escándalo
+tags: ["moral"]
+
+timestamp: 2026-06-02
+description: "Actitud o comportamiento que induce a otro a cometer [[pecado]]."
+---
 # Escándalo
 
 > Área: Moral

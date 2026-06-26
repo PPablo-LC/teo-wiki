@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Sapientia Christi
+tags: ["espiritualidad", "formación"]
+
+timestamp: 2026-06-12
+description: "«Sapientia Christi» (Sabiduría de Cristo) es el título de la *Ratio studiorum* de la Congregación de los Legionarios de Cristo y expresa su hilo conductor."
+---
 # Sapientia Christi
 
 > Área: Espiritualidad / Formación

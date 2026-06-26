@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Seminario
+tags: ["eclesiología"]
+
+timestamp: 2026-06-14
+description: El seminario es la institución eclesiástica donde los candidatos al sacerdocio reciben la formación espiritual, doctrinal y pastoral necesaria para el ministerio sagrado.
+---
 # Seminario
 
 > Área: Eclesiología

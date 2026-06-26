@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Justicia Original
+tags: ["dogmática"]
+
+timestamp: 2026-05-22
+description: Estado de santidad y justicia en que Dios constituyó a nuestros primeros padres Adán y Eva antes del pecado original.
+---
 # Justicia Original
 
 > Área: Dogmática

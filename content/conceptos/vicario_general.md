@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Vicario general
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: Sacerdote u obispo designado por el Obispo diocesano como su principal colaborador en el gobierno de la diócesis, con potestad ordinaria vicaria para todos los actos administrativos del Obispo.
+---
 # Vicario general
 
 > Área: Derecho Canónico

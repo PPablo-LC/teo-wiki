@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Especie impresa
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: "Publicaciones escritas, especialmente las de contenido religioso o moral, que requieren licencia eclesiástica previa ([[imprimatur]]) para su divulgación."
+---
 # Especie impresa
 
 > Área: Derecho Canónico

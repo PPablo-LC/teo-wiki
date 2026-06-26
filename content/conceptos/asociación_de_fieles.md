@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Asociación de fieles
+tags: ["derecho_canónico"]
+
+timestamp: 2026-06-19
+description: Las asociaciones de fieles son agrupaciones estables de cristianos, clérigos o laicos, constituidas mediante un acuerdo o por erección de la autoridad eclesiástica, para buscar fines espirituales.
+---
 # Asociación de fieles
 
 > Área: Derecho Canónico

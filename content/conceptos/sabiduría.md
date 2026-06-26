@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sabiduría
+tags: ["dogmática", "mística"]
+
+timestamp: 2026-06-21
+description: La sabiduría es el primero y más excelente de los siete dones del Espíritu Santo, que perfecciona la virtud de la caridad dando al alma un conocimiento experimental y gustoso de Dios mismo.
+---
 # Sabiduría
 
 > Área: Dogmática / Mística

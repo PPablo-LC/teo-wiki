@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Memoria
+tags: ["antropología"]
+
+timestamp: 2026-05-22
+description: Potencia del alma humana que tiene la capacidad de retener y evocar experiencias pasadas.
+---
 # Memoria
 
 > Área: Antropología

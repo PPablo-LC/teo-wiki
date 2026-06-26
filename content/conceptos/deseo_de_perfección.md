@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Deseo de perfección
+tags: ["ascética"]
+
+timestamp: 2026-05-20
+description: El deseo de la perfección es un acto de la voluntad que, bajo el influjo de la gracia, aspira sin cesar al adelantamiento espiritual hasta llegar a la santidad (n.621).
+---
 # Deseo de perfección
 
 > Área: Ascética

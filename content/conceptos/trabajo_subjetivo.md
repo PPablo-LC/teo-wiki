@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Trabajo subjetivo
+tags: ["moral", "doctrina_social"]
+
+timestamp: 2026-06-19
+description: La dimensión subjetiva del trabajo es el actuar del hombre en cuanto ser dinámico, capaz de realizar diversas acciones que pertenecen al proceso del trabajo y que corresponden a su vocación personal.
+---
 # Trabajo subjetivo
 
 > Área: Moral / Doctrina social

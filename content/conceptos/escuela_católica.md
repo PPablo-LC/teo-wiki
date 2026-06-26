@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Escuela católica
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: La escuela católica es aquella institución educativa que dirige la autoridad eclesiástica competente o una persona jurídica eclesiástica pública.
+---
 # Escuela católica
 
 > Área: Derecho Canónico

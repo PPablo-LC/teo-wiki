@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Mandamientos de la Iglesia
+tags: ["moral"]
+
+timestamp: 2026-05-22
+description: Los mandamientos de la Iglesia son preceptos positivos dados por la autoridad eclesiástica —en ejercicio de su potestad de jurisdicción— que determinan y concretan la ley divina y natural en materias...
+---
 # Mandamientos de la Iglesia
 
 > Área: Moral

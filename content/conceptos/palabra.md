@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Palabra
+tags: ["teología_fundamental", "antropología_teológica"]
+
+timestamp: 2026-06-23
+description: "La palabra (*logos*, *verbum*, *dabar*) es, en sentido teológico, el medio por el cual Dios se comunica con el hombre y el hombre se expresa ante Dios y ante los demás."
+---
 # Palabra
 
 > Área: Teología Fundamental / Antropología Teológica

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Celibato sacerdotal
+tags: ["ascética", "derecho_canónico"]
+
+timestamp: 2026-06-14
+description: El celibato sacerdotal es la disciplina eclesiástica de la Iglesia latina por la cual los candidatos al presbiterado y al episcopado asumen libremente el estado de vida célibe y casto "por el Reino...
+---
 # Celibato sacerdotal
 
 > Área: Ascética / Derecho Canónico

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Opción por los pobres
+tags: ["doctrina_social", "teología_moral"]
+
+timestamp: 2026-06-18
+description: La opción por los pobres es el principio de la doctrina social de la Iglesia según el cual los cristianos están llamados a dar prioridad a los pobres y a los que sufren.
+---
 # Opción por los pobres
 
 > Área: Doctrina social / Teología moral

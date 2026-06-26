@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Impedimentos dirimentes
+tags: ["derecho_canónico"]
+
+timestamp: 2026-06-15
+description: Los impedimentos dirimentes son circunstancias establecidas por el derecho que inhabilitan a una persona para contraer matrimonio válidamente.
+---
 # Impedimentos dirimentes
 
 > Área: Derecho Canónico

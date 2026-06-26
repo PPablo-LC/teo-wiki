@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sagrada comunión
+tags: ["sacramental"]
+
+timestamp: 2026-06-15
+description: La sagrada comunión es la recepción del Cuerpo y Sangre de Jesucristo, realmente presente bajo las especies eucarísticas, por parte del fiel bautizado que se halla en estado de gracia.
+---
 # Sagrada comunión
 
 > Área: Sacramental

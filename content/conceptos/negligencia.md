@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Negligencia
+tags: ["moral"]
+
+timestamp: 2026-06-09
+description: "La negligencia es el vicio opuesto a la [[virtud_de_la_prudencia]] que consiste en la falta de la solicitud debida en el acto de imperio."
+---
 # Negligencia
 
 > Área: Moral

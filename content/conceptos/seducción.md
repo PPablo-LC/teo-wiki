@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Seducción
+tags: ["moral", "ascética"]
+
+timestamp: 2026-05-29
+description: En sentido moral, la seducción es la acción de inclinar o atraer a alguien al mal mediante halagos, engaños o apariencias de bien.
+---
 # Seducción
 
 > Área: Moral / Ascética

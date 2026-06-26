@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Trascendencia divina e inmanencia divina
+tags: ["dogmática"]
+
+timestamp: 2026-06-19
+description: La trascendencia divina es el atributo por el cual Dios, en su infinita perfección y simplicidad, está por encima de todo el orden creado.
+---
 # Trascendencia divina e inmanencia divina
 
 > Área: Dogmática

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Oración de Quietud
+tags: ["mística"]
+
+timestamp: 2026-05-22
+description: La oración de quietud es el segundo grado de oración mística —sexto de la clasificación general según Santa Teresa—.
+---
 # Oración de Quietud
 
 > Área: Mística

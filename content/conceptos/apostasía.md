@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Apostasía
+tags: ["derecho_canónico", "eclesiología"]
+
+timestamp: 2026-05-25
+description: Delito contra la fe que consiste en el rechazo total de la fe cristiana por parte de quien ha recibido el bautismo (CIC c. 751).
+---
 # Apostasía
 
 > Área: Derecho canónico / Eclesiología

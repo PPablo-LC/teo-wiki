@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Formación
+tags: ["doctrina_social"]
+
+timestamp: 2026-05-25
+description: Proceso de educación integral de la persona, especialmente de los fieles laicos, para capacitarlos en el compromiso social y político según las enseñanzas de la doctrina social de la Iglesia.
+---
 # Formación
 
 > Área: Doctrina Social

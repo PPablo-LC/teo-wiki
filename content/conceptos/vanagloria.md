@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Vanagloria
+tags: ["moral"]
+
+timestamp: 2026-06-11
+description: Vicio capital que consiste en buscar la fama, el honor o el reconocimiento humano sin mérito verdadero, o sin ordenarlo al fin debido (la gloria de Dios y el bien del prójimo).
+---
 # Vanagloria
 
 > Área: Moral

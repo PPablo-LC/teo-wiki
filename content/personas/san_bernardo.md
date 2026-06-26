@@ -1,3 +1,11 @@
+---
+type: Persona
+title: San Bernardo de Claraval
+tags: ["persona"]
+
+timestamp: 2026-06-10
+description: Bernardo de Claraval (1090-1153), religioso cisterciense, Doctor Melifluo de la Iglesia.
+---
 # San Bernardo de Claraval
 
 > Área: Persona

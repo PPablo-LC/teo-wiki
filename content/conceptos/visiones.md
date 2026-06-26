@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Visiones
+tags: ["mística"]
+
+timestamp: 2026-05-20
+description: "Percepciones sobrenaturales de un objeto naturalmente invisible para el hombre. Según San Agustín, hay tres clases: corporales, imaginarias (espirituales) e intelectuales."
+---
 # Visiones
 
 > Área: Mística

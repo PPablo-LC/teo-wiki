@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Gratitud
+tags: ["moral"]
+
+timestamp: 2026-06-10
+description: La gratitud es la virtud moral que inclina a reconocer y corresponder los beneficios recibidos, especialmente de Dios.
+---
 # Gratitud
 
 > Área: Moral

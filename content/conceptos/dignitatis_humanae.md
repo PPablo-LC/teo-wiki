@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Dignitatis Humanae
+tags: ["documentos_del_magisterio"]
+
+timestamp: 2026-05-26
+description: Declaración del Concilio Vaticano II sobre la libertad religiosa, promulgada el 7 de diciembre de 1965.
+---
 # Dignitatis Humanae
 
 > Área: Documentos del Magisterio

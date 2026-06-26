@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Acompañamiento formativo
+tags: ["ascética", "espiritualidad", "formación"]
+
+timestamp: 2026-06-12
+description: El acompañamiento formativo es la labor de los formadores —superiores, instructores, rectores, asistentes, directores espirituales.
+---
 # Acompañamiento formativo
 
 > Área: Ascética / Espiritualidad / Formación

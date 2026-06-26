@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Opción preferencial por los pobres
+tags: ["doctrina_social", "moral"]
+
+timestamp: 2026-05-25
+description: La opción preferencial por los pobres es la forma especial de primacía en el ejercicio de la caridad cristiana, fundada en el Evangelio y en la constante tradición de la Iglesia.
+---
 # Opción preferencial por los pobres
 
 > Área: Doctrina Social / Moral

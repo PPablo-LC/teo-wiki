@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Nube
+tags: ["dogmática"]
+
+timestamp: 2026-06-02
+description: "La nube es en la Escritura un símbolo privilegiado de la presencia divina: manifiesta a Dios al mismo tiempo que lo vela."
+---
 # Nube
 
 > Área: Dogmática

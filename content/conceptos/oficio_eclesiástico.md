@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Oficio eclesiástico
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: El oficio eclesiástico es cualquier cargo constituido establemente por disposición divina o eclesiástica que ha de ejercerse para un fin espiritual.
+---
 # Oficio eclesiástico
 
 > Área: Derecho Canónico

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Semina Verbi
+tags: ["teología_de_las_religiones", "fundamental"]
+
+timestamp: 2026-06-21
+description: Expresión patrística —«semillas del Verbo»— que designa la presencia de elementos de verdad y de gracia en las tradiciones religiosas no cristianas.
+---
 # Semina Verbi
 
 > Área: Teología de las religiones / Fundamental

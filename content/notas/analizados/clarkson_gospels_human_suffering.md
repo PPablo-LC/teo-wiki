@@ -1,3 +1,9 @@
+---
+type: Análisis Doctrinal
+title: "Matt Nelson w/ Sarah Clarkson — The Gospels and Human Suffering: Análisis doctrinal"
+timestamp: 2026-06-06
+description: Diálogo entre Matt Nelson y Sarah Clarkson sobre el problema del sufrimiento humano a la luz de los Evangelios.
+---
 # Matt Nelson w/ Sarah Clarkson — The Gospels and Human Suffering: Análisis doctrinal
 
 > Tipo: Análisis doctrinal

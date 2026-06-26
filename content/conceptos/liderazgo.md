@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Liderazgo
+tags: ["moral", "doctrina_social"]
+
+timestamp: 2026-06-03
+description: Capacidad de influir, guiar y formar a otros para el bien común, ejercida como servicio a imitación de Jesucristo, que «no vino a ser servido sino a servir» (Mt 20,28).
+---
 # Liderazgo
 
 > Área: Moral / Doctrina Social

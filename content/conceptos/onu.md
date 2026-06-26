@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: ONU (Organización de las Naciones Unidas)
+tags: ["doctrina_social"]
+
+timestamp: 2026-05-25
+description: Organización internacional instituida en 1945 para promover el respeto de la dignidad humana, la libertad de los pueblos, el desarrollo y la paz.
+---
 # ONU (Organización de las Naciones Unidas)
 
 > Área: Doctrina Social

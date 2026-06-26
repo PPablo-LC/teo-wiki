@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Notas de la Iglesia
+tags: ["eclesiología"]
+
+timestamp: 2026-05-26
+description: Las notas de la Iglesia son los cuatro atributos característicos que, según el Símbolo de la Fe (Credo Niceno-Constantinopolitano), definen y manifiestan la verdadera Iglesia de Cristo.
+---
 # Notas de la Iglesia
 
 > Área: Eclesiología

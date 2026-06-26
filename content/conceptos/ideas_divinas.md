@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ideas divinas
+tags: ["dogmática", "teología_natural"]
+
+timestamp: 2026-06-02
+description: Las ideas divinas son las formas ejemplares de todas las cosas creadas existentes en la mente de Dios. Son las razones según las cuales Dios conoce y produce cada criatura.
+---
 # Ideas divinas
 
 > Área: Dogmática / Teología natural

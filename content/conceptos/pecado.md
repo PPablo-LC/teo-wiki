@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Pecado
+tags: ["moral"]
+
+timestamp: 2026-06-02
+description: "El pecado es «una trasgresión voluntaria de la ley de Dios». Supone tres elementos esenciales: materia prohibida, advertencia del entendimiento y consentimiento de la voluntad."
+---
 # Pecado
 
 > Área: Moral

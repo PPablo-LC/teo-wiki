@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Belleza
+tags: ["dogmática_(dios)", "teología_de_la_cultura"]
+
+timestamp: 2026-05-26
+description: La belleza es un atributo divino y, por participación, una propiedad del ser creado.
+---
 # Belleza
 
 > Área: Dogmática (Dios) / Teología de la Cultura

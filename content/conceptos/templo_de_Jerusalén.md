@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Templo de Jerusalén
+tags: ["dogmática", "escritura"]
+
+timestamp: 2026-05-31
+description: El Templo de Jerusalén fue el santuario central del pueblo de Israel, lugar de la presencia de Dios y centro del culto sacrificial.
+---
 # Templo de Jerusalén
 
 > Área: Dogmática / Escritura

@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Colegio Directivo
+tags: ["derecho", "espiritualidad"]
+
+timestamp: 2026-06-13
+description: "El Colegio Directivo es el órgano colegial de gobierno de la [[federación_regnum_christi]] a nivel general y territorial, compuesto por los directores de las tres ramas consagradas (Legión de Cristo.)"
+---
 # Colegio Directivo
 
 > Área: Derecho / Espiritualidad

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Espiritualidad seglar
+tags: ["espiritualidad"]
+
+timestamp: 2026-05-29
+description: "La espiritualidad seglar o laical es la forma de vida espiritual propia de los [[cristianos_laicos]]."
+---
 # Espiritualidad seglar
 
 > Área: Espiritualidad

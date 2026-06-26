@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Unción de enfermos
+tags: ["liturgia", "sacramentos"]
+
+timestamp: 2026-06-24
+description: La Unción de los Enfermos (antes llamada Extremaunción) es el sacramento que confiere al cristiano enfermo la gracia del Espíritu Santo para fortalecerlo.
+---
 # Unción de enfermos
 
 > Área: Liturgia / Sacramentos

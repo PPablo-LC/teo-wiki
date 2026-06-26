@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Capilla
+tags: ["derecho_canónico", "liturgia"]
+
+timestamp: 2026-05-26
+description: "[[lugar_sagrado]] destinado al culto divino, de menor entidad que una iglesia. Puede ser pública, semipública o privada."
+---
 # Capilla
 
 > Área: Derecho canónico / Liturgia

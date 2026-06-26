@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Fruición
+tags: ["teología_moral_—_antropología"]
+
+timestamp: 2026-06-05
+description: "La fruición (fruitio) es el acto de la [[voluntad]] por el que esta se adhiere con amor a una cosa por ella misma, descansando en su posesión."
+---
 # Fruición
 
 > Área: Teología moral — Antropología

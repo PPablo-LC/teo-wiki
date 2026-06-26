@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Patriotismo
+tags: ["moral", "doctrina_social"]
+
+timestamp: 2026-06-18
+description: El patriotismo es el amor profundo a la patria que inclina al ciudadano a servirla y a trabajar por su bien.
+---
 # Patriotismo
 
 > Área: Moral / Doctrina Social

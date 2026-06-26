@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Imposición de manos
+tags: ["sacramental", "liturgia"]
+
+timestamp: 2026-06-05
+description: Gesto ritual por el cual se transmite una bendición, una consagración o un don espiritual.
+---
 # Imposición de manos
 
 > Área: Sacramental / Liturgia

@@ -1,3 +1,11 @@
+---
+type: Persona
+title: San Hormisdas (Papa)
+tags: ["patrística_—_papas"]
+
+timestamp: 2026-06-25
+description: San Hormisdas fue Papa de la Iglesia Católica desde 514 hasta 523.
+---
 # San Hormisdas (Papa)
 
 > Área: Patrística — Papas

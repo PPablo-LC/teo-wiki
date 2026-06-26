@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Communio ecclesiarum
+tags: ["eclesiología", "ecumenismo"]
+
+timestamp: 2026-06-18
+description: "La *communio ecclesiarum* (comunión de las Iglesias) es el principio eclesiológico que regula las relaciones entre las diversas Iglesias particulares dentro de la comunión de la Iglesia católica y..."
+---
 # Communio ecclesiarum
 
 > Área: Eclesiología / Ecumenismo

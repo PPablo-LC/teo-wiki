@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Fin de la Vida Cristiana
+tags: ["moral", "ascética"]
+
+timestamp: 2026-05-21
+description: El fin de la vida cristiana es la gloria de Dios y la santificación del hombre, entendidos como un único fin con dos aspectos complementarios.
+---
 # Fin de la Vida Cristiana
 
 > Área: Moral / Ascética

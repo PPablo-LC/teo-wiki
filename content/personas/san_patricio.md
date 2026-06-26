@@ -1,3 +1,11 @@
+---
+type: Persona
+title: San Patricio
+tags: ["hagiografía"]
+
+timestamp: 2026-06-03
+description: San Patricio (c. 385-461 d.C.), patrono de Irlanda.
+---
 # San Patricio
 
 > Área: Hagiografía

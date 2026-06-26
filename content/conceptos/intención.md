@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Intención
+tags: ["teología_moral_—_antropología"]
+
+timestamp: 2026-06-05
+description: "La intención (intentio) es un acto de la [[voluntad]] por el que esta tiende hacia un fin, presuponiendo la ordenación de la [[razón]] que dirige algo hacia ese fin."
+---
 # Intención
 
 > Área: Teología moral — Antropología

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Nombre
+tags: ["dogmática"]
+
+timestamp: 2026-06-02
+description: En la mentalidad bíblica, el nombre no es una designación convencional sino que expresa la esencia, el papel y el destino de un ser.
+---
 # Nombre
 
 > Área: Dogmática

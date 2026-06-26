@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Milagros
+tags: ["teología_fundamental"]
+
+timestamp: 2026-06-21
+description: Hecho sensible, extraordinario y prodigioso, producido por Dios directamente o por mediación de una criatura racional (santo, ángel).
+---
 # Milagros
 
 > Área: Teología Fundamental

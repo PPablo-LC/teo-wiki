@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Carácter
+tags: ["dogmática_—_sacramental"]
+
+timestamp: 2026-05-22
+description: Signo espiritual e indeleble impreso en el alma por los sacramentos del Bautismo, Confirmación y Orden sacerdotal.
+---
 # Carácter
 
 > Área: Dogmática — Sacramental

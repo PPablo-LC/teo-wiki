@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Arca
+tags: ["at", "eclesiología"]
+
+timestamp: 2026-06-02
+description: El arca de la alianza es el signo visible de la presencia de Dios en medio de Israel.
+---
 # Arca
 
 > Área: AT / Eclesiología

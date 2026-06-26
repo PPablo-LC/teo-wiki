@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Adivinación
+tags: ["moral"]
+
+timestamp: 2026-06-09
+description: La adivinación es la pretensión de conocer o predecir sucesos futuros o cosas ocultas por medios distintos a la revelación divina o al conocimiento racional.
+---
 # Adivinación
 
 > Área: Moral

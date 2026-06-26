@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Irascible
+tags: ["antropología_teológica"]
+
+timestamp: 2026-06-23
+description: "El apetito irascible (del latín *appetitus irascibilis*) es la potencia apetitiva del alma que tiende al bien arduo o difícil, venciendo los obstáculos que se oponen a su consecución."
+---
 # Irascible
 
 > Área: Antropología teológica

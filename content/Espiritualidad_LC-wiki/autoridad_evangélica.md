@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Autoridad evangélica
+tags: ["espiritualidad", "vida_consagrada"]
+
+timestamp: 2026-06-13
+description: "La autoridad evangélica es el ejercicio del gobierno en la [[vida_consagrada]] configurado según el modelo de Cristo, que «no ha venido a ser servido, sino a servir» (Mt 20,28)."
+---
 # Autoridad evangélica
 
 > Área: Espiritualidad / Vida consagrada

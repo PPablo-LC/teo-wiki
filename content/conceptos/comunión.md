@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Comunión
+tags: ["sacramental", "eclesiología"]
+
+timestamp: 2026-06-15
+description: La comunión designa tanto la recepción sacramental del Cuerpo y la Sangre de Cristo en la Eucaristía como la participación en la vida divina y la unidad de los fieles entre sí y con Dios.
+---
 # Comunión
 
 > Área: Sacramental / Eclesiología

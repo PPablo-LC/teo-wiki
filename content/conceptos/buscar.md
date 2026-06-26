@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Buscar
+tags: ["ascética", "moral"]
+
+timestamp: 2026-06-02
+description: «Buscar a Dios» es una expresión bíblica fundamental que designa la actitud religiosa del hombre que se dirige a Dios.
+---
 # Buscar
 
 > Área: Ascética, Moral

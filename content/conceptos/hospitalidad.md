@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Hospitalidad
+tags: ["moral"]
+
+timestamp: 2026-06-02
+description: Acogida solícita y religiosa del huésped, considerada en la Escritura como un aspecto fundamental de la caridad fraterna.
+---
 # Hospitalidad
 
 > Área: Moral

@@ -1,3 +1,11 @@
+---
+type: Documento
+title: Vida de Jesús
+tags: ["documentos_—_libros"]
+
+timestamp: 2026-06-20
+description: "El libro consta de presentación y ocho capítulos:"
+---
 # Vida de Jesús
 
 > Área: Documentos — Libros

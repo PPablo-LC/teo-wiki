@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Seguir
+tags: ["ascética", "moral"]
+
+timestamp: 2026-06-02
+description: Seguir a Cristo es la expresión fundamental de la vocación cristiana. Implica la adhesión personal a Jesús como discípulo, la imitación de su vida y la disposición a cargar la propia cruz.
+---
 # Seguir
 
 > Área: Ascética / Moral

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ermitaño
+tags: ["eclesiología", "ascética"]
+
+timestamp: 2026-05-25
+description: El ermitaño o anacoreta es un fiel que, dentro de la vida consagrada.
+---
 # Ermitaño
 
 > Área: Eclesiología / Ascética

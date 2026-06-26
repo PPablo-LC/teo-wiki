@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Dedicación de una iglesia
+tags: ["liturgia", "derecho_canónico"]
+
+timestamp: 2026-05-26
+description: Rito litúrgico solemne mediante el cual una iglesia o catedral es consagrada permanentemente al culto divino, quedando destinada exclusivamente a la celebración de los misterios sagrados.
+---
 # Dedicación de una iglesia
 
 > Área: Liturgia / Derecho Canónico

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Testimonio apostólico
+tags: ["eclesiología"]
+
+timestamp: 2026-06-18
+description: El testimonio apostólico es la transmisión autorizada de la fe por parte de los apóstoles y sus sucesores, basada en la experiencia directa de la vida, muerte y resurrección de Jesucristo (Hch 1,8).
+---
 # Testimonio apostólico
 
 > Área: Eclesiología

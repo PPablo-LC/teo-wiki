@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Día del Señor
+tags: ["escatología"]
+
+timestamp: 2026-06-02
+description: El «día del Señor» (o «día de Yahveh») es la expresión bíblica que designa la intervención solemne y definitiva de Dios en la historia.
+---
 # Día del Señor
 
 > Área: Escatología

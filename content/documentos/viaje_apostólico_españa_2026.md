@@ -1,3 +1,11 @@
+---
+type: Documento
+title: Viaje Apostólico a España 2026
+tags: ["documentos"]
+
+timestamp: 2026-06-14
+description: "El viaje comprendió 23 intervenciones ordenadas cronológicamente en siete días:"
+---
 # Viaje Apostólico a España 2026
 
 > Área: Documentos

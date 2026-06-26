@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Presbítero
+tags: ["sacramental", "eclesiología"]
+
+timestamp: 2026-06-14
+description: Ministro sagrado que, por el sacramento del Orden en el grado del presbiterado, participa del sacerdocio de Cristo como colaborador del obispo, con facultad para celebrar la Eucaristía.
+---
 # Presbítero
 
 > Área: Sacramental / Eclesiología

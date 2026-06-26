@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Caná de Galilea
+tags: ["cristología", "mariología"]
+
+timestamp: 2026-06-22
+description: Primer «signo» realizado por Jesús en las bodas de Caná (Jn 2,1-12), donde convierte el agua en vino por intercesión de María, manifestando su gloria y suscitando la fe de sus discípulos.
+---
 # Caná de Galilea
 
 > Área: Cristología / Mariología

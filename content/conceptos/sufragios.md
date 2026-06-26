@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sufragios
+tags: ["escatología"]
+
+timestamp: 2026-05-26
+description: Oraciones, sacrificios, limosnas y obras de piedad ofrecidas por los fieles en favor de las almas de los difuntos que se encuentran en el Purgatorio.
+---
 # Sufragios
 
 > Área: Escatología

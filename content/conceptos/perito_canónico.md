@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Perito canónico
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-25
+description: El perito canónico es el experto en una ciencia o técnica al que el juez eclesiástico recurre para que, mediante dictamen.
+---
 # Perito canónico
 
 > Área: Derecho Canónico

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Llena de gracia
+tags: ["mariología", "dogmática"]
+
+timestamp: 2026-06-18
+description: "«Llena de gracia» (*Kejaritoméne*, Lc 1,28) es el nombre con que el arcángel Gabriel saluda a María en la Anunciación."
+---
 # Llena de gracia
 
 > Área: Mariología / Dogmática

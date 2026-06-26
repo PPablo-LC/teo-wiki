@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Prueba testimonial
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-25
+description: La prueba testimonial es el medio de prueba consistente en la declaración de testigos ante el juez eclesiástico sobre hechos relevantes para la causa.
+---
 # Prueba testimonial
 
 > Área: Derecho Canónico

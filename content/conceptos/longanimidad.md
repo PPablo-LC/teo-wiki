@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Longanimidad
+tags: ["moral", "ascética"]
+
+timestamp: 2026-05-22
+description: La longanimidad es la virtud que da ánimo para tender a un bien que está distante o cuya consecución se hará esperar mucho tiempo, soportando virtuosamente la demora.
+---
 # Longanimidad
 
 > Área: Moral / Ascética

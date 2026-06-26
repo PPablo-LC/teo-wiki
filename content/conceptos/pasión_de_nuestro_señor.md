@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Pasión de Nuestro Señor
+tags: ["cristología", "soteriología", "ascética"]
+
+timestamp: 2026-05-29
+description: La Pasión de Nuestro Señor Jesucristo comprende el conjunto de sufrimientos corporales y espirituales que Él aceptó voluntariamente desde la agonía en Getsemaní hasta su muerte en la cruz.
+---
 # Pasión de Nuestro Señor
 
 > Área: Cristología / Soteriología / Ascética

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Economía
+tags: ["doctrina_social"]
+
+timestamp: 2026-05-25
+description: Dimensión de la actividad humana que tiene por objeto la formación de la riqueza y su incremento progresivo, en términos no solo cuantitativos sino cualitativos.
+---
 # Economía
 
 > Área: Doctrina Social

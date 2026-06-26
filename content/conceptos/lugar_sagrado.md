@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Lugar sagrado
+tags: ["liturgia", "derecho_canónico"]
+
+timestamp: 2026-05-25
+description: Lugar sagrado es aquel que se destina al culto divino o a la sepultura de los fieles mediante la dedicación o bendición prescrita por los libros litúrgicos.
+---
 # Lugar sagrado
 
 > Área: Liturgia / Derecho Canónico

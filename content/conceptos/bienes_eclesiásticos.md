@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Bienes eclesiásticos
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-25
+description: Son bienes eclesiásticos todos los bienes temporales que pertenecen a la Iglesia universal, a la Sede Apostólica o a otras personas jurídicas públicas en la Iglesia.
+---
 # Bienes eclesiásticos
 
 > Área: Derecho Canónico

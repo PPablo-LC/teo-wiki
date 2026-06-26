@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Misericordia divina
+tags: ["dogmática", "moral"]
+
+timestamp: 2026-06-02
+description: La misericordia divina es el atributo de Dios por el cual, movido por su infinito amor, socorre al hombre en su miseria, especialmente en su estado de pecado.
+---
 # Misericordia divina
 
 > Área: Dogmática / Moral

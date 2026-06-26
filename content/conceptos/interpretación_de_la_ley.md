@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Interpretación de la ley
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: La interpretación de la ley es la operación intelectual dirigida a precisar el sentido de la norma jurídica en orden a su adecuada aplicación.
+---
 # Interpretación de la ley
 
 > Área: Derecho Canónico

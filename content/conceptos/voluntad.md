@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Voluntad
+tags: ["antropología"]
+
+timestamp: 2026-06-05
+description: La voluntad es una facultad espiritual del alma humana, propia del entendimiento intelectivo, que inclina al hombre hacia el bien conocido por el entendimiento.
+---
 # Voluntad
 
 > Área: Antropología

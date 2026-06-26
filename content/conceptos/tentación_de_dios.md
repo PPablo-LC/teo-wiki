@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Tentación de Dios
+tags: ["moral"]
+
+timestamp: 2026-06-09
+description: La tentación de Dios es el acto de poner a prueba el poder, la sabiduría o la bondad divinas sin necesidad, esperando un resultado que depende exclusivamente de Dios.
+---
 # Tentación de Dios
 
 > Área: Moral

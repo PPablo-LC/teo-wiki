@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Patriarcas orientales
+tags: ["derecho_canónico_oriental", "eclesiología"]
+
+timestamp: 2026-05-29
+description: "Los patriarcas orientales son los jerarcas que presiden las Iglesias patriarcales de las [[iglesias_orientales]] católicas *sui iuris*."
+---
 # Patriarcas orientales
 
 > Área: Derecho Canónico Oriental / Eclesiología

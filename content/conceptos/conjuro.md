@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Conjuro
+tags: ["moral"]
+
+timestamp: 2026-06-09
+description: El conjuro es el uso del nombre de Dios para impeler a alguien —hombre, demonio o criatura— a hacer algo, en virtud de la reverencia debida al nombre divino.
+---
 # Conjuro
 
 > Área: Moral

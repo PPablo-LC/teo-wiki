@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Preceptos de justicia
+tags: ["moral"]
+
+timestamp: 2026-06-10
+description: "Los preceptos del [[decálogo]] considerados como preceptos de la virtud de la [[justicia]], que ordenan al hombre en sus relaciones con Dios y con el prójimo."
+---
 # Preceptos de justicia
 
 > Área: Moral

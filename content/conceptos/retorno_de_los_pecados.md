@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Retorno de los pecados
+tags: ["sacramental"]
+
+timestamp: 2026-06-15
+description: "Cuestión teológica acerca de si los pecados ya perdonados por el sacramento de la [[penitencia]] retornan o se reimputan cuando el penitente comete un nuevo pecado mortal."
+---
 # Retorno de los pecados
 
 > Área: Sacramental

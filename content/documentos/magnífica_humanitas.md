@@ -1,3 +1,11 @@
+---
+type: Documento
+title: Magnífica Humanitas
+tags: ["documentos"]
+
+timestamp: 2026-06-11
+description: "Primera encíclica social del pontificado de León XIV, publicada en el 135° aniversario de *Rerum Novarum*."
+---
 # Magnífica Humanitas
 
 > Área: Documentos

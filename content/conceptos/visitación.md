@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Visitación
+tags: ["mariología", "liturgia"]
+
+timestamp: 2026-06-19
+description: "La Visitación es la visita de la [[virgen_maría]] a su prima Isabel, narrada en Lc 1,39-56."
+---
 # Visitación
 
 > Área: Mariología / Liturgia

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Gracia habitual
+tags: ["dogmática"]
+
+timestamp: 2026-06-08
+description: "La gracia habitual es la [[gracia_santificante]] considerada como don permanente, estable y habitual infundido por Dios en el alma, que la perfecciona para hacerla capaz de vivir con Dios."
+---
 # Gracia habitual
 
 > Área: Dogmática

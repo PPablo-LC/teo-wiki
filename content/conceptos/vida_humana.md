@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Vida humana
+tags: ["moral", "dogmática"]
+
+timestamp: 2026-06-19
+description: La vida humana es el don más precioso que Dios ha confiado al hombre.
+---
 # Vida humana
 
 > Área: Moral / Dogmática

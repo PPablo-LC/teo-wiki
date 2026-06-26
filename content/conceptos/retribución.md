@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Retribución
+tags: ["bíblica", "teología_moral"]
+
+timestamp: 2026-06-02
+description: La retribución es la respuesta de Dios a las obras humanas, que se manifiesta como recompensa o castigo según el juicio divino.
+---
 # Retribución
 
 > Área: Bíblica / Teología moral

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Significado esponsal del cuerpo
+tags: ["dogmática", "teología_del_cuerpo", "moral_conyugal"]
+
+timestamp: 2026-06-20
+description: El significado esponsal del cuerpo es un concepto central de la teología del cuerpo de san Juan Pablo II.
+---
 # Significado esponsal del cuerpo
 
 > Área: Dogmática / Teología del cuerpo / Moral conyugal

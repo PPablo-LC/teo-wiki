@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cristo Cabeza de la Iglesia
+tags: ["cristología", "eclesiología"]
+
+timestamp: 2026-06-12
+description: Cristo es cabeza de la Iglesia en virtud de su primacía sobre toda la creación y su plenitud de gracia, que comunica a todos los miembros del cuerpo místico como principio de influjo vital.
+---
 # Cristo Cabeza de la Iglesia
 
 > Área: Cristología / Eclesiología

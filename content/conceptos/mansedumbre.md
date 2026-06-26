@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Mansedumbre
+tags: ["moral"]
+
+timestamp: 2026-06-11
+description: La mansedumbre es una virtud especial, parte potencial de la templanza, que tiene por objeto moderar la pasión de la ira según la recta razón.
+---
 # Mansedumbre
 
 > Área: Moral

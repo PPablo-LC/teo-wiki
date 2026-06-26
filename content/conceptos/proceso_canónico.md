@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Proceso canónico
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-25
+description: El proceso canónico es el conjunto de actos jurídicos regulados por el derecho canónico que se desarrollan ante un tribunal eclesiástico para la declaración o tutela de derechos.
+---
 # Proceso canónico
 
 > Área: Derecho Canónico

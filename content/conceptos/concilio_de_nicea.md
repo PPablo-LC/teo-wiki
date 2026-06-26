@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Concilio de Nicea
+tags: ["dogmática", "historia_de_la_iglesia"]
+
+timestamp: 2026-05-26
+description: "Primer [[concilio_ecuménico]] de la Iglesia, convocado por el emperador Constantino en el año 325 d.C."
+---
 # Concilio de Nicea
 
 > Área: Dogmática / Historia de la Iglesia

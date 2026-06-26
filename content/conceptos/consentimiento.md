@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Consentimiento
+tags: ["teología_moral_—_antropología"]
+
+timestamp: 2026-06-05
+description: "El consentimiento es la aplicación del movimiento apetitivo de la [[voluntad]] a algo que está previamente bajo la potestad de quien lo aplica."
+---
 # Consentimiento
 
 > Área: Teología moral — Antropología

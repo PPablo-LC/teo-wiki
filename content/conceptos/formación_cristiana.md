@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Formación cristiana
+tags: ["moral_(educación)"]
+
+timestamp: 2026-06-20
+description: Proceso integral de educación en la fe que abarca la enseñanza doctrinal, la formación moral, la iniciación en la vida espiritual y la capacitación para el testimonio cristiano.
+---
 # Formación cristiana
 
 > Área: Moral (Educación)

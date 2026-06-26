@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Participación activa
+tags: ["liturgia"]
+
+timestamp: 2026-05-26
+description: La participación activa (participatio actuosa) es la participación plena, consciente y activa de todos los fieles en las celebraciones litúrgicas.
+---
 # Participación activa
 
 > Área: Liturgia

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Don de sabiduría
+tags: ["ascética", "mística"]
+
+timestamp: 2026-05-21
+description: "El don de sabiduría es el primero y más excelente de los [[siete_dones_del_espíritu_santo]] que perfecciona la virtud de la [[caridad]]."
+---
 # Don de sabiduría
 
 > Área: Ascética / Mística

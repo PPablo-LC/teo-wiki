@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cementerio
+tags: ["derecho_canónico", "liturgia"]
+
+timestamp: 2026-05-26
+description: El cementerio eclesiástico es el lugar sagrado destinado a la sepultura de los difuntos, bendecido según las normas litúrgicas.
+---
 # Cementerio
 
 > Área: Derecho Canónico / Liturgia

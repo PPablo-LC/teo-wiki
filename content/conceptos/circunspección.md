@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Circunspección
+tags: ["moral"]
+
+timestamp: 2026-05-22
+description: "La circunspección es una de las ocho partes integrales de la [[virtud_de_la_prudencia]]."
+---
 # Circunspección
 
 > Área: Moral

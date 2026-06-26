@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Libro
+tags: ["bíblica"]
+
+timestamp: 2026-06-02
+description: En la tradición bíblica, el libro no es solo un soporte material de escritos, sino una síntesis orgánica que recoge la palabra de Dios y el testimonio de la Alianza.
+---
 # Libro
 
 > Área: Bíblica

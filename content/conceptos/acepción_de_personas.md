@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Acepción de personas
+tags: ["moral"]
+
+timestamp: 2026-06-09
+description: "La acepción de personas (respeto de personas) es un vicio opuesto a la [[virtud_de_la_justicia]] que consiste en juzgar o tratar a otros no según su derecho objetivo."
+---
 # Acepción de personas
 
 > Área: Moral

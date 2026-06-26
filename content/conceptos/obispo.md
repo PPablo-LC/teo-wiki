@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Obispo
+tags: ["eclesiología", "sacramental"]
+
+timestamp: 2026-05-25
+description: El obispo es el sucesor de los Apóstoles, constituido en la plenitud del sacramento del Orden, a quien se confía una Iglesia particular (diócesis) para regirla.
+---
 # Obispo
 
 > Área: Eclesiología / Sacramental

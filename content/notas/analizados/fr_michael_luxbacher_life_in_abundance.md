@@ -1,3 +1,9 @@
+---
+type: Análisis Doctrinal
+title: "Fr Michael Luxbacher — Life In Abundance: The Point Of It All: Análisis doctrinal"
+timestamp: 2026-06-03
+description: Conferencia del sacerdote legionario de Cristo P. Michael Luxbacher en la Catholic Men's Conference 2022.
+---
 # Fr Michael Luxbacher — Life In Abundance: The Point Of It All: Análisis doctrinal
 
 > Tipo: Análisis doctrinal

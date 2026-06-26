@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Exilio
+tags: ["bíblica"]
+
+timestamp: 2026-06-02
+description: Deportación del pueblo de Judá a Babilonia en los años 597, 587 y 582 a.C.
+---
 # Exilio
 
 > Área: Bíblica

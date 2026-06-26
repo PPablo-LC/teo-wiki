@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Omnisciencia
+tags: ["dogmática", "teología_natural"]
+
+timestamp: 2026-05-26
+description: "Atributo divino por el cual [[dios]] conoce perfecta, simultánea e infinitamente todo lo real y lo posible."
+---
 # Omnisciencia
 
 > Área: Dogmática / Teología natural

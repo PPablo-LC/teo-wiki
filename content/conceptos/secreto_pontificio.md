@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Secreto pontificio
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-29
+description: "El secreto pontificio (en latín, *secretum pontificium*) es el grado más alto de confidencialidad en el derecho canónico."
+---
 # Secreto pontificio
 
 > Área: Derecho Canónico

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Tomus ad Flavianum
+tags: ["dogmática_—_cristología"]
+
+timestamp: 2026-06-25
+description: "El Tomus ad Flavianum es la carta dogmática del Papa San León I Magno (Epístola 28, *Lectis dilectionis tuae*) dirigida a Flaviano, patriarca de Constantinopla, el 13 de junio de 449."
+---
 # Tomus ad Flavianum
 
 > Área: Dogmática — Cristología

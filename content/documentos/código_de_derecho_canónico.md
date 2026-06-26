@@ -1,3 +1,11 @@
+---
+type: Documento
+title: Código de Derecho Canónico
+tags: ["documentos"]
+
+timestamp: 2026-06-11
+description: El CIC es la ley eclesiástica fundamental para la Iglesia latina. Sustituyó al Código de 1917 y fue fruto de la reforma impulsada por el Concilio Vaticano II.
+---
 # Código de Derecho Canónico
 
 > Área: Documentos

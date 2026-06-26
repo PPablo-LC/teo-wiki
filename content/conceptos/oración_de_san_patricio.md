@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Oración de San Patricio
+tags: ["espiritualidad", "liturgia"]
+
+timestamp: 2026-06-03
+description: La «Oración de San Patricio», también conocida como «Lorica de San Patricio» o «Pechera de San Patricio» (St. Patrick's Breastplate), es un himno-oración atribuido tradicionalmente a San Patricio (s.)
+---
 # Oración de San Patricio
 
 > Área: Espiritualidad / Liturgia

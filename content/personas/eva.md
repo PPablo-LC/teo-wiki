@@ -1,3 +1,11 @@
+---
+type: Persona
+title: Eva
+tags: ["dogmática", "antropología"]
+
+timestamp: 2026-05-26
+description: "Primera mujer, madre de todos los vivientes (Gn 3,20). Creada por Dios como ayuda semejante al varón (Gn 2,18-24). Su desobediencia introdujo el [[pecado_original]] en la humanidad."
+---
 # Eva
 
 > Área: Dogmática / Antropología

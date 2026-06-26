@@ -1,3 +1,11 @@
+---
+type: Persona
+title: San Pedro de Alcántara
+tags: ["persona", "hagiografía"]
+
+timestamp: 2026-05-22
+description: Pedro de Alcántara (1499-1562), religioso franciscano español, reformador de la Orden Franciscana (fundador de los alcantarinos o descalzos).
+---
 # San Pedro de Alcántara
 
 > Área: Persona / Hagiografía

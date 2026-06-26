@@ -1,3 +1,11 @@
+---
+type: Análisis Cultural
+title: "Morir con cero: Análisis cultural"
+timestamp: 2026-06-23
+tags: ["finanzas_personales", "administración_del_tiempo", "muerte", "herencia", "experiencias", "mayordomía"]
+
+description: "*Die with Zero* (trad.)"
+---
 # Morir con cero: Análisis cultural
 
 > Tipo: Autoayuda financiera / filosofía de vida

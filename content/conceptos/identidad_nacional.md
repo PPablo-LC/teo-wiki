@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Identidad nacional
+tags: ["doctrina_social", "cultural"]
+
+timestamp: 2026-06-18
+description: La identidad nacional es el conjunto de valores, tradiciones, lengua, historia y cultura que distinguen a una nación y le dan cohesión interna.
+---
 # Identidad nacional
 
 > Área: Doctrina Social / Cultural

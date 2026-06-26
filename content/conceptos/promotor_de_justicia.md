@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Promotor de Justicia
+tags: ["derecho_canónico"]
+
+timestamp: 2026-06-23
+description: Oficio eclesiástico de carácter público, estable en cada diócesis, cuya función es velar por el bien público en las causas contenciosas que lo requieran y en las causas penales dentro de la Iglesia.
+---
 # Promotor de Justicia
 
 > Área: Derecho Canónico

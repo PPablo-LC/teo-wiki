@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Géneros literarios bíblicos
+tags: ["sagrada_escritura", "hermenéutica_bíblica"]
+
+timestamp: 2026-06-05
+description: Los géneros literarios bíblicos son las diversas formas de expresión y composición literaria empleadas por los autores inspirados de la Sagrada Escritura.
+---
 # Géneros literarios bíblicos
 
 > Área: Sagrada Escritura / Hermenéutica bíblica

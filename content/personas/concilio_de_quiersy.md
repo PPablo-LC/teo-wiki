@@ -1,3 +1,11 @@
+---
+type: Persona
+title: Concilio de Quiersy
+tags: ["historia_—_concilios"]
+
+timestamp: 2026-06-25
+description: El Concilio de Quiersy fue convocado por Hincmaro de Reims para responder a la doctrina de la doble predestinación de Gottschalk de Orbais.
+---
 # Concilio de Quiersy
 
 > Área: Historia — Concilios

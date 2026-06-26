@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Amigo
+tags: ["moral", "espiritualidad"]
+
+timestamp: 2026-06-02
+description: "La amistad es presentada en la Escritura como un don precioso: «El amigo fiel no tiene precio»."
+---
 # Amigo
 
 > Área: Moral / Espiritualidad

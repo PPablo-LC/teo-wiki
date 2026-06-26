@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Derecho
+tags: ["doctrina_social", "moral"]
+
+timestamp: 2026-06-09
+description: El derecho, en el contexto de la doctrina social, designa el conjunto de facultades y exigencias que corresponden a la persona humana por su dignidad de criatura hecha a imagen de Dios.
+---
 # Derecho
 
 > Área: Doctrina Social / Moral

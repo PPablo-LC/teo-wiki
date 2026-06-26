@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Omnipresencia divina
+tags: ["dogmática", "teología_natural"]
+
+timestamp: 2026-06-17
+description: La omnipresencia divina es el atributo por el cual Dios está presente en todas las cosas y en todo lugar, no por extensión o contacto físico, sino por su esencia, presencia y potencia.
+---
 # Omnipresencia divina
 
 > Área: Dogmática / Teología Natural

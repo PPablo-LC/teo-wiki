@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cumplir
+tags: ["historia_de_la_salvación", "cristología"]
+
+timestamp: 2026-06-02
+description: Realización plena y efectiva de la palabra, la promesa, la profecía o el designio de Dios.
+---
 # Cumplir
 
 > Área: Historia de la Salvación / Cristología

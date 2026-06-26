@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ceguera espiritual
+tags: ["ascética_—_moral"]
+
+timestamp: 2026-05-22
+description: Ceguera del alma que impide el conocimiento de los bienes espirituales y la recta percepción de las realidades sobrenaturales.
+---
 # Ceguera espiritual
 
 > Área: Ascética — Moral

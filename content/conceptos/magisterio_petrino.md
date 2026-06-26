@@ -1,3 +1,8 @@
+---
+type: Concepto Teológico
+title: Magisterio petrino
+description: El magisterio propio del Romano Pontifice como sucesor de San Pedro, cabeza del Colegio Episcopal y pastor universal de la Iglesia.
+---
 # Magisterio petrino
 
 > Area: Eclesiología

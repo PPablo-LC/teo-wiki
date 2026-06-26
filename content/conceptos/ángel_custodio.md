@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ángel custodio
+tags: ["dogmática_(angelología)"]
+
+timestamp: 2026-06-04
+description: El ángel custodio es el ángel bueno asignado por Dios a cada ser humano para guardarle, protegerle y conducirle hacia la salvación eterna.
+---
 # Ángel custodio
 
 > Área: Dogmática (Angelología)

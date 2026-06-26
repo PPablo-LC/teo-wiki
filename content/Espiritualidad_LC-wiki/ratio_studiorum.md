@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Ratio studiorum
+tags: ["formación"]
+
+timestamp: 2026-06-12
+description: "La *Ratio studiorum* de la Congregación de los Legionarios de Cristo es el plan de estudios para la formación intelectual y académica de los legionarios."
+---
 # Ratio studiorum
 
 > Área: Formación

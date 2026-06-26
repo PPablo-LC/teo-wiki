@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Teología Nupcial
+tags: ["dogmática", "teología_del_cuerpo"]
+
+timestamp: 2026-06-20
+description: La teología nupcial es la reflexión teológica sobre el significado esponsalicio o nupcial del cuerpo humano —es decir, la capacidad del cuerpo, en su masculinidad y feminidad.
+---
 # Teología Nupcial
 
 > Área: Dogmática / Teología del Cuerpo

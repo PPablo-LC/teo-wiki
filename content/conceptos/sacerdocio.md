@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sacerdocio
+tags: ["sacramental", "eclesiología"]
+
+timestamp: 2026-06-20
+description: Institución divina por la cual algunos fieles son consagrados por el sacramento del Orden para actuar en la persona de Cristo Cabeza (in persona Christi Capitis).
+---
 # Sacerdocio
 
 > Área: Sacramental / Eclesiología

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Familia
+tags: ["doctrina_social"]
+
+timestamp: 2026-06-20
+description: La familia es la primera sociedad natural, fundada sobre el matrimonio entre un hombre y una mujer, comunidad de vida y amor conyugal, célula primera y vital de la sociedad.
+---
 # Familia
 
 > Área: Doctrina Social

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Año litúrgico
+tags: ["liturgia"]
+
+timestamp: 2026-05-26
+description: El año litúrgico es el ciclo anual por el cual la Iglesia celebra la obra salvífica de Cristo, desarrollando todo el misterio de Cristo desde la Encarnación y la Navidad hasta la Ascensión.
+---
 # Año litúrgico
 
 > Área: Liturgia

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Bondad y Malicia de los Actos Humanos
+tags: ["moral"]
+
+timestamp: 2026-06-23
+description: "La bondad o malicia moral de un acto humano se determina por tres fuentes constitutivas: el objeto elegido, la intención del sujeto y las circunstancias de la acción."
+---
 # Bondad y Malicia de los Actos Humanos
 
 > Área: Moral

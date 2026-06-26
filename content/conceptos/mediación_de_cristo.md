@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Mediación de Cristo
+tags: ["dogmática", "cristología"]
+
+timestamp: 2026-06-21
+description: La mediación de Cristo es la función única y universal de Jesucristo como único mediador entre Dios y los hombres (1Tm 2,5).
+---
 # Mediación de Cristo
 
 > Área: Dogmática / Cristología

@@ -1,3 +1,8 @@
+---
+type: Consulta
+title: Nota sobre el don de ciencia
+description: Síntesis de las fuentes CEC y TPCr
+---
 # Nota sobre el don de ciencia
 
 > Síntesis de las fuentes CEC y TPCr

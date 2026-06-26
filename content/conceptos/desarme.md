@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Desarme
+tags: ["doctrina_social"]
+
+timestamp: 2026-05-25
+description: Proceso de reducción y eliminación de armamentos, especialmente de destrucción masiva, orientado a garantizar la paz y la estabilidad internacional.
+---
 # Desarme
 
 > Área: Doctrina Social

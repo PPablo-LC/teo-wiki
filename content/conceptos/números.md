@@ -1,6 +1,14 @@
+---
+type: Concepto Teológico
+title: Números
+tags: ["teología_bíblica"]
+
+timestamp: 2026-06-02
+description: Los números en la Biblia no deben entenderse siempre según su valor aritmético exacto.
+---
 # Números
 
-> Área: Hermenéutica bíblica
+> Área: Teología bíblica
 > Última actualización: 2026-06-02
 
 ## Definición

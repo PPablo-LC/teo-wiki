@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sagacidad
+tags: ["moral"]
+
+timestamp: 2026-05-22
+description: La sagacidad es una parte integral de la virtud de la prudencia que consiste en la capacidad de considerar rápida y acertadamente las posibles eventualidades y circunstancias para tomar una decisión...
+---
 # Sagacidad
 
 > Área: Moral

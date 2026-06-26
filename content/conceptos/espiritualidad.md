@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Espiritualidad
+tags: ["ascética", "mística"]
+
+timestamp: 2026-05-26
+description: La espiritualidad cristiana es la vida en el Espíritu Santo, que configura al creyente con Cristo mediante la oración, la práctica de las virtudes y la docilidad a la acción divina.
+---
 # Espiritualidad
 
 > Área: Ascética / Mística

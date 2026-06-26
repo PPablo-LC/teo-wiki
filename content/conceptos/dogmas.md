@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Dogmas
+tags: ["dogmática", "teología_fundamental"]
+
+timestamp: 2026-05-22
+description: Los dogmas son verdades contenidas en la Revelación divina —o verdades que tienen con ellas un vínculo necesario— que el Magisterio de la Iglesia propone de una forma que obliga al pueblo cristiano a...
+---
 # Dogmas
 
 > Área: Dogmática / Teología fundamental

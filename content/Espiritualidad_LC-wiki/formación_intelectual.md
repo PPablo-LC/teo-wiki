@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Formación intelectual
+tags: ["formación"]
+
+timestamp: 2026-06-14
+description: La formación intelectual del legionario de Cristo es la dimensión de la formación integral que desarrolla el conocimiento de Dios, del hombre, del mundo y de sí mismo.
+---
 # Formación intelectual
 
 > Área: Formación

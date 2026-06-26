@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Molicie
+tags: ["moral"]
+
+timestamp: 2026-06-11
+description: "La molicie (del latín *mollities*, «blandura»), también llamada blandura o afeminación, es el vicio opuesto a la [[perseverancia]] por defecto."
+---
 # Molicie
 
 > Área: Moral

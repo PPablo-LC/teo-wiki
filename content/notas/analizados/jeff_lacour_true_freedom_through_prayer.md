@@ -1,3 +1,9 @@
+---
+type: Análisis Doctrinal
+title: "Jeff Lacour — True Freedom Through Prayer: Análisis doctrinal"
+timestamp: 2026-06-03
+description: Conferencia del otorrinolaringólogo Jeff Lacour en la Catholic Men's Conference 2022.
+---
 # Jeff Lacour — True Freedom Through Prayer: Análisis doctrinal
 
 > Tipo: Análisis doctrinal

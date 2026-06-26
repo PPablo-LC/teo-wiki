@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Acciones de gracias
+tags: ["espiritualidad"]
+
+timestamp: 2026-06-02
+description: Oración de agradecimiento a Dios por sus beneficios, como respuesta del hombre a la bondad divina. Es una de las formas fundamentales de la [[oración]] cristiana.
+---
 # Acciones de gracias
 
 > Área: Espiritualidad

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Abstracción
+tags: ["antropología"]
+
+timestamp: 2026-06-04
+description: La abstracción es la operación propia del entendimiento agente por la que las esencias o formas inteligibles de las cosas materiales son separadas intelectualmente de las condiciones materiales...
+---
 # Abstracción
 
 > Área: Antropología

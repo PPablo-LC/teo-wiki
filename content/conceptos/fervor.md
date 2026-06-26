@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Fervor
+tags: ["ascética"]
+
+timestamp: 2026-05-29
+description: El fervor espiritual es la intensidad del amor divino y del deseo de servir a Dios.
+---
 # Fervor
 
 > Área: Ascética

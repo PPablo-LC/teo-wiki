@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sueño
+tags: ["escritura", "simbología_bíblica"]
+
+timestamp: 2026-06-02
+description: El sueño en la Biblia tiene significados diversos.
+---
 # Sueño
 
 > Área: Escritura / Simbología bíblica

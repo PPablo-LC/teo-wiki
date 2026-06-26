@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Temperamento
+tags: ["ascética", "moral_(psicología_espiritual)"]
+
+timestamp: 2026-06-19
+description: El temperamento es el conjunto de inclinaciones íntimas que brotan de la constitución fisiológica de un hombre.
+---
 # Temperamento
 
 > Área: Ascética / Moral (Psicología espiritual)

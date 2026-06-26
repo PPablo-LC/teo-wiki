@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Guardia del corazón
+tags: ["ascética", "moral"]
+
+timestamp: 2026-05-22
+description: La guardia del corazón es la vigilancia atenta y continua sobre los propios pensamientos, deseos, afectos y movimientos interiores.
+---
 # Guardia del corazón
 
 > Área: Ascética / Moral

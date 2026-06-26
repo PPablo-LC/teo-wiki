@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sínodo de los Obispos
+tags: ["eclesiología"]
+
+timestamp: 2026-05-26
+description: El Sínodo de los Obispos es una asamblea de Obispos elegidos de las distintas regiones del mundo.
+---
 # Sínodo de los Obispos
 
 > Área: Eclesiología

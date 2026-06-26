@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Salmódia
+tags: ["liturgia"]
+
+timestamp: 2026-06-03
+description: La salmódia es el canto o recitación de los salmos, especialmente en la Liturgia de las Horas y en la celebración eucarística.
+---
 # Salmódia
 
 > Área: Liturgia

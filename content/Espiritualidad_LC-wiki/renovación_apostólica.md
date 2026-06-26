@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Renovación apostólica
+tags: ["espiritualidad", "apostolado"]
+
+timestamp: 2026-06-13
+description: La renovación apostólica es el proceso de redescubrimiento y revitalización del celo apostólico del legionario de Cristo.
+---
 # Renovación apostólica
 
 > Área: Espiritualidad / Apostolado

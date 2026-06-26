@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Inmaculada Concepción
+tags: ["dogmática_(mariología)"]
+
+timestamp: 2026-05-26
+description: "Dogma definido por Pío IX el 8 de diciembre de 1854 (Bula *Ineffabilis Deus*)."
+---
 # Inmaculada Concepción
 
 > Área: Dogmática (Mariología)

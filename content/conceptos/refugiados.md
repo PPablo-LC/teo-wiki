@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Refugiados
+tags: ["doctrina_social"]
+
+timestamp: 2026-05-25
+description: Personas que a causa de los combates o de la persecución se ven obligadas a huir de los lugares donde viven habitualmente, hasta encontrar protección en países diferentes de donde nacieron.
+---
 # Refugiados
 
 > Área: Doctrina Social

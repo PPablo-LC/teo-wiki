@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Latría
+tags: ["moral", "dogmática"]
+
+timestamp: 2026-06-23
+description: "La latría (del griego *latreia*, «servidumbre») es el culto de adoración debido exclusivamente a Dios por su infinita excelencia y soberano dominio sobre todas las criaturas."
+---
 # Latría
 
 > Área: Moral / Dogmática

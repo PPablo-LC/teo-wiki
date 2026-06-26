@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Revelación continua
+tags: ["teología_fundamental"]
+
+timestamp: 2026-05-26
+description: Noción teológica que distingue la revelación pública y definitiva de Jesucristo, concluida con la muerte del último Apóstol, de las revelaciones privadas o particulares que.
+---
 # Revelación continua
 
 > Área: Teología Fundamental

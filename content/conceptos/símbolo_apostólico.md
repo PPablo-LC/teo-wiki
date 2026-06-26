@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Símbolo Apostólico
+tags: ["dogmática"]
+
+timestamp: 2026-06-24
+description: "El Símbolo Apostólico (también llamado Símbolo de los Apóstoles o *Symbolum Apostolicum*) es la profesión de fe bautismal más antigua de la Iglesia de Roma."
+---
 # Símbolo Apostólico
 
 > Área: Dogmática

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Publicaciones (control de)
+tags: ["derecho_canónico", "comunicación"]
+
+timestamp: 2026-05-25
+description: Régimen canónico de control de escritos destinados a la divulgación pública.
+---
 # Publicaciones (control de)
 
 > Área: Derecho canónico / Comunicación

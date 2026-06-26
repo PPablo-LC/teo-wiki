@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Celibato
+tags: ["moral_—_eclesiología"]
+
+timestamp: 2026-06-14
+description: Estado de vida de quienes, por motivos sobrenaturales, renuncian voluntariamente al matrimonio para consagrarse más libremente al servicio de Dios y del Reino.
+---
 # Celibato
 
 > Área: Moral — Eclesiología

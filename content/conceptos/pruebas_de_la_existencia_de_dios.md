@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Pruebas de la existencia de Dios
+tags: ["teología_fundamental", "teología_natural"]
+
+timestamp: 2026-06-21
+description: Argumentaciones racionales por las cuales el entendimiento humano, partiendo del mundo creado.
+---
 # Pruebas de la existencia de Dios
 
 > Área: Teología fundamental / Teología natural

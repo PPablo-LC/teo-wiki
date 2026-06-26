@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Injusticias judiciales
+tags: ["moral"]
+
+timestamp: 2026-06-09
+description: "Las injusticias judiciales son los pecados contra la [[virtud_de_la_justicia]] cometidos en la administración de justicia por cualquiera de los participantes en el proceso judicial."
+---
 # Injusticias judiciales
 
 > Área: Moral

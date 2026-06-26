@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Dicasterios de la Curia
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: Órganos de la [[curia_romana]] que asisten al [[romano_pontífice]] en el gobierno de la Iglesia universal. Incluyen congregaciones, tribunales, consejos pontificios y oficios (CIC cc. 360-361).
+---
 # Dicasterios de la Curia
 
 > Área: Derecho Canónico

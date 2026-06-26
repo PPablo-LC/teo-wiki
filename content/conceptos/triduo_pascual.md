@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Triduo pascual
+tags: ["liturgia"]
+
+timestamp: 2026-05-26
+description: El triduo pascual es el centro de todo el año litúrgico. Comprende desde la Misa vespertina de la Cena del Señor del Jueves Santo hasta las Vísperas del Domingo de Resurrección.
+---
 # Triduo pascual
 
 > Área: Liturgia

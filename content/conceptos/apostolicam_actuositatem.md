@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Apostolicam Actuositatem
+tags: ["eclesiología", "laicado"]
+
+timestamp: 2026-05-26
+description: Decreto del Concilio Vaticano II sobre el apostolado de los laicos, promulgado el 18 de noviembre de 1965.
+---
 # Apostolicam Actuositatem
 
 > Área: Eclesiología / Laicado

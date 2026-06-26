@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sábado
+tags: ["moral", "liturgia"]
+
+timestamp: 2026-06-02
+description: "El sábado (del hebreo *shabbat*, «cesar») es el séptimo día de la semana, consagrado a Dios como día de reposo santo. En el Antiguo Testamento es memorial de la creación y de la liberación de Egipto."
+---
 # Sábado
 
 > Área: Moral / Liturgia

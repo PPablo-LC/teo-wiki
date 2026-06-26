@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Imagen del Hijo
+tags: ["dogmática_(trinidad)"]
+
+timestamp: 2026-06-03
+description: El Hijo es la Imagen perfecta del Padre, distinta del concepto de «imagen de Dios» en el hombre.
+---
 # Imagen del Hijo
 
 > Área: Dogmática (Trinidad)

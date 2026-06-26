@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ministerio
+tags: ["eclesiología", "sacramental"]
+
+timestamp: 2026-06-23
+description: "El ministerio (del latín *ministerium*, «servicio») en la Iglesia designa el servicio eclesial confiado por Cristo a los apóstoles y a sus sucesores para la edificación del Cuerpo de Cristo."
+---
 # Ministerio
 
 > Área: Eclesiología / Sacramental

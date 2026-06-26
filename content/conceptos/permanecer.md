@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Permanecer
+tags: ["ascética", "mística"]
+
+timestamp: 2026-06-02
+description: Tema bíblico que expresa la estabilidad y la comunión duradera con Dios.
+---
 # Permanecer
 
 > Área: Ascética / Mística

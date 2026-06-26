@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Obediencia filial
+tags: ["espiritualidad", "vida_consagrada"]
+
+timestamp: 2026-05-25
+description: La obediencia filial es la vivencia del consejo evangélico de la obediencia como un acto libre, consciente y maduro de oblación de la propia voluntad a Dios.
+---
 # Obediencia filial
 
 > Área: Espiritualidad / Vida consagrada

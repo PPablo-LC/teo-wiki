@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Fe Católica
+tags: ["dogmática"]
+
+timestamp: 2026-05-22
+description: La fe católica es la virtud teologal por la cual el hombre, iluminado por la gracia, asiente libremente a todo lo que Dios ha revelado y la Iglesia propone como divinamente revelado.
+---
 # Fe Católica
 
 > Área: Dogmática

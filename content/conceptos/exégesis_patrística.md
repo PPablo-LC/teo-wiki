@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Exégesis patrística
+tags: ["sagrada_escritura", "patrística"]
+
+timestamp: 2026-06-05
+description: La exégesis patrística es el método de interpretación de la Sagrada Escritura propio de los Santos Padres de la Iglesia, caracterizado por la búsqueda del sentido espiritual (tipológico, alegórico.)
+---
 # Exégesis patrística
 
 > Área: Sagrada Escritura / Patrística

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Duda
+tags: ["moral_(fe)"]
+
+timestamp: 2026-05-26
+description: Suspensión del juicio intelectual ante la verdad revelada. En materia de fe, la duda puede ser voluntaria (pecaminosa) o involuntaria (no imputable).
+---
 # Duda
 
 > Área: Moral (Fe)

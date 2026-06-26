@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Caridad pastoral
+tags: ["teología_pastoral", "moral"]
+
+timestamp: 2026-06-14
+description: "Virtud teologal de la [[caridad]] en cuanto ejercida por los pastores de la Iglesia en el cuidado de las almas."
+---
 # Caridad pastoral
 
 > Área: Teología Pastoral / Moral

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Virtud
+tags: ["moral"]
+
+timestamp: 2026-05-22
+description: Disposición habitual y firme a hacer el bien. Permite a la persona no solo realizar actos buenos, sino dar lo mejor de sí misma.
+---
 # Virtud
 
 > Área: Moral

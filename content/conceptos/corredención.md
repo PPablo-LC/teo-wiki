@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Corredención
+tags: ["dogmática", "mariología"]
+
+timestamp: 2026-06-19
+description: La corredención es la participación única y singular de la Virgen María en la obra redentora de Jesucristo.
+---
 # Corredención
 
 > Área: Dogmática / Mariología

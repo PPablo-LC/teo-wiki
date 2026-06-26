@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Elección canónica
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: La elección canónica es el modo de provisión de un oficio eclesiástico mediante el voto de los miembros de un colegio o grupo que tiene derecho a elegir.
+---
 # Elección canónica
 
 > Área: Derecho Canónico

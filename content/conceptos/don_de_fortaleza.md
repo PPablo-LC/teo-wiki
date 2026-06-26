@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Don de fortaleza
+tags: ["ascética", "mística"]
+
+timestamp: 2026-06-23
+description: "El don de fortaleza es uno de los [[siete_dones_del_espíritu_santo]] que perfecciona la [[virtud_de_la_fortaleza]]."
+---
 # Don de fortaleza
 
 > Área: Ascética / Mística

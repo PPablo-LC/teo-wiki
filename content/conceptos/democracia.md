@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Democracia
+tags: ["doctrina_social"]
+
+timestamp: 2026-05-25
+description: Sistema político que asegura la participación de los ciudadanos en las opciones políticas y garantiza la posibilidad de elegir.
+---
 # Democracia
 
 > Área: Doctrina Social

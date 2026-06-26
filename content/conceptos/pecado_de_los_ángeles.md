@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Pecado de los ángeles
+tags: ["dogmática_(angelología)"]
+
+timestamp: 2026-06-03
+description: "El pecado de los ángeles es el acto libre y voluntario por el cual algunos ángeles, creados buenos por Dios, se apartaron de Él por [[soberbia]]."
+---
 # Pecado de los ángeles
 
 > Área: Dogmática (Angelología)

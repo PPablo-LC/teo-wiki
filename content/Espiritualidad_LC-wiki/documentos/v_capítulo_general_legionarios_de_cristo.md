@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: V Capítulo General de los Legionarios de Cristo
+tags: ["documentos_—_espiritualidad_legionaria"]
+
+timestamp: 2026-06-11
+description: "Fuente primaria de espiritualidad legionaria y del Regnum Christi. Aborda: autoridad y obediencia, vocaciones, historia, misión, Federación Regnum Christi."
+---
 # V Capítulo General de los Legionarios de Cristo
 
 > Área: Documentos — Espiritualidad Legionaria

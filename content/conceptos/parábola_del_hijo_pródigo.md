@@ -1,3 +1,8 @@
+---
+type: Concepto Teológico
+title: Parabola del hijo prodigo
+description: Parabola de Jesucristo narrada en Lc 15,11-32, tambien llamada del «Padre misericordioso».
+---
 # Parabola del hijo prodigo
 
 > Area: Sagrada Escritura

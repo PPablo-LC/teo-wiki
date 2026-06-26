@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Nuevo Adán
+tags: ["cristología"]
+
+timestamp: 2026-05-25
+description: Jesucristo es el Nuevo Adán, el segundo y definitivo hombre, enviado por Dios para restaurar lo que el primer Adán perdió por el pecado.
+---
 # Nuevo Adán
 
 > Área: Cristología

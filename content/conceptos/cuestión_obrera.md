@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cuestión obrera
+tags: ["doctrina_social"]
+
+timestamp: 2026-06-19
+description: La cuestión obrera es el conjunto de problemas morales, sociales y económicos derivados de la explotación de los trabajadores en la nueva organización industrial del trabajo de matriz capitalista.
+---
 # Cuestión obrera
 
 > Área: Doctrina social

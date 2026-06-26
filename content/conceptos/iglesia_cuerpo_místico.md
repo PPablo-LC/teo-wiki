@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Iglesia Cuerpo Místico
+tags: ["eclesiología", "dogmática"]
+
+timestamp: 2026-06-12
+description: La Iglesia es el Cuerpo Místico de Cristo, una realidad orgánica y sobrenatural en la que Cristo es la Cabeza y los fieles son los miembros, unidos entre sí y con Cristo por la gracia, la fe.
+---
 # Iglesia Cuerpo Místico
 
 > Área: Eclesiología / Dogmática

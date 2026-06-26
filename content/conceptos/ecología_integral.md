@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ecología integral
+tags: ["moral", "doctrina_social"]
+
+timestamp: 2026-05-29
+description: "La ecología integral es el enfoque que propone el Papa Francisco en la encíclica *Laudato Si'* (2015), según el cual la crisis ambiental no puede ser comprendida ni resuelta de manera aislada."
+---
 # Ecología integral
 
 > Área: Moral / Doctrina Social

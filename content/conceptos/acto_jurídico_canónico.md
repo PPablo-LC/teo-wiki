@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Acto jurídico canónico
+tags: ["derecho_canónico"]
+
+timestamp: 2026-06-19
+description: Acto realizado por una persona capaz que produce efectos jurídicos en el ordenamiento canónico.
+---
 # Acto jurídico canónico
 
 > Área: Derecho Canónico

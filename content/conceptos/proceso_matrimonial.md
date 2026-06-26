@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Proceso matrimonial
+tags: ["derecho_canónico"]
+
+timestamp: 2026-06-19
+description: El proceso matrimonial canónico es el conjunto de procedimientos judiciales establecidos por la Iglesia para la declaración de nulidad del matrimonio, la separación de los cónyuges.
+---
 # Proceso matrimonial
 
 > Área: Derecho Canónico

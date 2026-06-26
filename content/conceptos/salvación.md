@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Salvación
+tags: ["dogmática_—_cristología", "soteriología"]
+
+timestamp: 2026-06-21
+description: La salvación es la obra redentora de Jesucristo que libera al hombre del pecado y de la muerte eterna, y le concede la vida eterna en comunión con Dios.
+---
 # Salvación
 
 > Área: Dogmática — Cristología / Soteriología

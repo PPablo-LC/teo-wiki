@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Guía de Liturgia y Oración en Común (Legión de Cristo, 2024)
+tags: ["liturgia", "espiritualidad"]
+
+timestamp: 2026-06-13
+description: "La obra se organiza en 9 capítulos, más un apéndice y un suplemento sobre intenciones de misa:"
+---
 # Guía de Liturgia y Oración en Común (Legión de Cristo, 2024)
 
 > Área: Liturgia / Espiritualidad

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Beneficencia
+tags: ["moral"]
+
+timestamp: 2026-06-08
+description: La beneficencia es el acto externo de hacer bien al prójimo por amor de caridad. No es virtud distinta de la caridad, sino su efecto exterior, que procede de la benevolencia interior.
+---
 # Beneficencia
 
 > Área: Moral

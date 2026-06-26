@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Poder divino de Cristo
+tags: ["cristología"]
+
+timestamp: 2026-06-22
+description: El poder divino de Cristo es la manifestación de su filiación divina y de su identidad como Hijo de Dios, ejercido sobre el pecado, los demonios, la muerte, la naturaleza y la enseñanza.
+---
 # Poder divino de Cristo
 
 > Área: Cristología

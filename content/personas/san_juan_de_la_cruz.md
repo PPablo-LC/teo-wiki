@@ -1,3 +1,11 @@
+---
+type: Persona
+title: San Juan de la Cruz
+tags: ["persona"]
+
+timestamp: 2026-05-20
+description: Juan de Yepes Álvarez (1542-1591), religioso carmelita descalzo, Doctor Místico de la Iglesia. Nacido en Fontiveros (Ávila), fue cofundador de la Reforma del Carmelo con Santa Teresa de Jesús.
+---
 # San Juan de la Cruz
 
 > Área: Persona

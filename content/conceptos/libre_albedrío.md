@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Libre Albedrío
+tags: ["antropología"]
+
+timestamp: 2026-06-12
+description: Facultad radical de la persona humana de elegir entre el bien y el mal, de autodeterminarse sin coacción externa ni necesidad interna.
+---
 # Libre Albedrío
 
 > Área: Antropología

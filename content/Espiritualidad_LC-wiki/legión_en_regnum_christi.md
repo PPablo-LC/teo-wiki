@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Legión de Cristo en el Regnum Christi
+tags: ["espiritualidad", "eclesiología"]
+
+timestamp: 2026-06-13
+description: "La Legión de Cristo forma parte constitutiva del [[regnum_christi]], familia espiritual y cuerpo apostólico que integra diversas vocaciones (legionarios, consagradas.)"
+---
 # Legión de Cristo en el Regnum Christi
 
 > Área: Espiritualidad / Eclesiología

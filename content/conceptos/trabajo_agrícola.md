@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Trabajo agrícola
+tags: ["doctrina_social"]
+
+timestamp: 2026-06-17
+description: Trabajo del cultivo de la tierra que «somete» el don recibido de Dios y afirma el «dominio» del hombre en el mundo visible.
+---
 # Trabajo agrícola
 
 > Área: Doctrina Social

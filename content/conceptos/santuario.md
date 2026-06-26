@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Santuario
+tags: ["derecho_canónico", "liturgia"]
+
+timestamp: 2026-05-26
+description: Iglesia u otro lugar sagrado destinado al culto divino al que los fieles acuden en peregrinación por motivos de piedad y devoción.
+---
 # Santuario
 
 > Área: Derecho Canónico / Liturgia

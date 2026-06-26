@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Oración de Unión
+tags: ["mística"]
+
+timestamp: 2026-05-22
+description: Grado de oración mística en que el alma experimenta una íntima unión con Dios, caracterizada por la suspensión de las potencias discursivas y la certeza experimental de la presencia divina.
+---
 # Oración de Unión
 
 > Área: Mística

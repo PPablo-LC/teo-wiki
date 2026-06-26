@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Conocimiento trinitario
+tags: ["dogmática_(trinidad", "teología_fundamental)"]
+
+timestamp: 2026-06-03
+description: El conocimiento trinitario designa el modo en que el hombre puede conocer el misterio de las personas divinas.
+---
 # Conocimiento trinitario
 
 > Área: Dogmática (Trinidad, Teología fundamental)

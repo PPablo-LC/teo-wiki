@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Extremaunción
+tags: ["liturgia", "sacramentos"]
+
+timestamp: 2026-06-24
+description: La extremaunción (actualmente llamada Unción de los Enfermos) es el sacramento instituido por Jesucristo para confortar espiritual y corporalmente a los fieles que se encuentran en peligro de muerte...
+---
 # Extremaunción
 
 > Área: Liturgia / Sacramentos

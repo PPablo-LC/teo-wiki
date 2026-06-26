@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Días de penitencia
+tags: ["derecho_canónico", "liturgia"]
+
+timestamp: 2026-05-26
+description: "Días en que la Iglesia prescribe a los fieles prácticas penitenciales como el [[ayuno]] y la [[abstinencia]], particularmente en [[cuaresma]] y el [[miércoles_de_ceniza]] (CIC cc.)"
+---
 # Días de penitencia
 
 > Área: Derecho Canónico / Liturgia

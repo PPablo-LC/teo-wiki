@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Padres de la Iglesia
+tags: ["patrística", "historia_de_la_iglesia"]
+
+timestamp: 2026-05-29
+description: Los Padres de la Iglesia son los escritores cristianos de la antigüedad (siglos I-VIII) que se distinguen por su doctrina ortodoxa, santidad de vida, antigüedad y aprobación eclesiástica.
+---
 # Padres de la Iglesia
 
 > Área: Patrística / Historia de la Iglesia

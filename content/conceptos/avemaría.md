@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Avemaría
+tags: ["mística_(oración)"]
+
+timestamp: 2026-05-29
+description: El Avemaría es la oración mariana fundamental de la Iglesia católica, compuesta por la salutación del ángel Gabriel («Dios te salve, María, llena de gracia, el Señor es contigo»).
+---
 # Avemaría
 
 > Área: Mística (Oración)

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Confesores de la fe
+tags: ["hagiografía", "historia_de_la_iglesia"]
+
+timestamp: 2026-06-24
+description: Los confesores de la fe son aquellos cristianos que, sin haber sufrido el martirio, padecieron persecución, destierro, torturas u otras penalidades por defender la fe católica.
+---
 # Confesores de la fe
 
 > Área: Hagiografía / Historia de la Iglesia

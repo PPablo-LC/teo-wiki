@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Virginidad de María
+tags: ["dogmática", "mariología"]
+
+timestamp: 2026-05-31
+description: "La virginidad perpetua de María es el dogma de fe según el cual la Virgen María fue virgen antes del parto, en el parto y después del parto (*ante partum, in partu, post partum*)."
+---
 # Virginidad de María
 
 > Área: Dogmática / Mariología

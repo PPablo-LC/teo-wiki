@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Servir
+tags: ["moral", "eclesiología"]
+
+timestamp: 2026-06-02
+description: Servir es la actitud fundamental del discípulo de Cristo, que vino «no a ser servido, sino a servir y dar su vida en rescate por muchos» (Mc 10,45).
+---
 # Servir
 
 > Área: Moral / Eclesiología

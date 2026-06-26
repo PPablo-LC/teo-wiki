@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Confianza en Dios
+tags: ["ascética", "moral"]
+
+timestamp: 2026-06-23
+description: "La confianza en Dios es la disposición del alma que, fundada en la fe en la [[providencia_divina]] y en la [[filiación_divina]], se abandona filialmente en las manos de Dios."
+---
 # Confianza en Dios
 
 > Área: Ascética / Moral

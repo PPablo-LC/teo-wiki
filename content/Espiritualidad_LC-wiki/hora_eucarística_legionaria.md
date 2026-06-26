@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Hora eucarística legionaria
+tags: ["liturgia", "espiritualidad_legionaria"]
+
+timestamp: 2026-06-14
+description: Tiempo de oración comunitaria ante el Santísimo Sacramento propio de las comunidades de la Legión de Cristo.
+---
 # Hora eucarística legionaria
 
 > Área: Liturgia / Espiritualidad legionaria

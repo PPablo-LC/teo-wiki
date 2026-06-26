@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Hijos ilegítimos
+tags: ["derecho_canónico"]
+
+timestamp: 2026-06-15
+description: Hijos nacidos fuera del matrimonio válido, o de uniones contrarias a la ley.
+---
 # Hijos ilegítimos
 
 > Área: Derecho Canónico

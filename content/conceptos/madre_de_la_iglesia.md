@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Madre de la Iglesia
+tags: ["mariología", "eclesiología"]
+
+timestamp: 2026-06-18
+description: "El título «Madre de la Iglesia» (*Mater Ecclesiae*) fue proclamado solemnemente por el papa Pablo VI el 21 de noviembre de 1964, al concluir la tercera sesión del Concilio Vaticano II."
+---
 # Madre de la Iglesia
 
 > Área: Mariología / Eclesiología

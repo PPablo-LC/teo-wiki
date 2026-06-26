@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Visión Beatífica
+tags: ["dogmática", "escatología"]
+
+timestamp: 2026-06-16
+description: Contemplación inmediata e intuitiva de la esencia divina, que constituye la felicidad esencial del cielo.
+---
 # Visión Beatífica
 
 > Área: Dogmática / Escatología

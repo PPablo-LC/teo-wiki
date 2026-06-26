@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sensualidad
+tags: ["antropología"]
+
+timestamp: 2026-06-04
+description: La sensualidad (sensusualitas) es el apetito sensitivo del alma humana —que comprende las potencias concupiscible e irascible— en cuanto recibe el movimiento de los sentidos corporales y tiende a los...
+---
 # Sensualidad
 
 > Área: Antropología

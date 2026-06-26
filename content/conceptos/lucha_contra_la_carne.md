@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Lucha contra la Carne
+tags: ["ascética_y_moral"]
+
+timestamp: 2026-05-20
+description: "La lucha contra la propia carne es el combate contra el enemigo interno más terrible del alma: la concupiscencia o tendencia desordenada al placer sensible, y el horror instintivo al sufrimiento."
+---
 # Lucha contra la Carne
 
 > Área: Ascética y Moral

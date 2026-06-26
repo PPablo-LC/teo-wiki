@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Formación legionaria
+tags: ["espiritualidad", "vida_consagrada"]
+
+timestamp: 2026-06-13
+description: La formación legionaria es el proceso de configuración con Cristo mediante el cual la Legión de Cristo forma a sus miembros —desde la etapa inicial hasta la madurez religiosa y sacerdotal—...
+---
 # Formación legionaria
 
 > Área: Espiritualidad / Vida consagrada

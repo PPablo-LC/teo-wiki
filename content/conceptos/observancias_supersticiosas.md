@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Observancias supersticiosas
+tags: ["moral"]
+
+timestamp: 2026-06-09
+description: Las observancias supersticiosas son prácticas que atribuyen eficacia espiritual o física a medios que carecen de toda virtud natural para producir el efecto deseado.
+---
 # Observancias supersticiosas
 
 > Área: Moral

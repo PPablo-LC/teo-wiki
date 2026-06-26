@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Bonum honestum
+tags: ["moral", "ética"]
+
+timestamp: 2026-06-18
+description: "El *bonum honestum* (bien honesto) es la especie de bien cuyo fin se identifica con la esencia misma del objeto de la acción, sin referencia al provecho personal ni al placer."
+---
 # Bonum honestum
 
 > Área: Moral / Ética

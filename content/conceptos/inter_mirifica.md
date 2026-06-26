@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Inter Mirifica
+tags: ["teología_de_la_comunicación", "moral"]
+
+timestamp: 2026-05-26
+description: Decreto del Concilio Vaticano II sobre los medios de comunicación social, promulgado el 4 de diciembre de 1963.
+---
 # Inter Mirifica
 
 > Área: Teología de la comunicación / Moral

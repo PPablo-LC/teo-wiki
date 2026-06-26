@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Unión Extática
+tags: ["mística"]
+
+timestamp: 2026-05-22
+description: Fenómeno místico de orden predominantemente afectivo en el cual el alma, elevada por la gracia, experimenta una suspensión de los sentidos externos y una absorción intensa en Dios.
+---
 # Unión Extática
 
 > Área: Mística

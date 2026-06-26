@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Puerta
+tags: ["bíblica", "simbología"]
+
+timestamp: 2026-06-02
+description: "Símbolo polivalente en la Escritura: la puerta abierta expresa acogida, posibilidad, libre circulación; la puerta cerrada significa protección o negativa."
+---
 # Puerta
 
 > Área: Bíblica, Simbología

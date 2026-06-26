@@ -1,3 +1,9 @@
+---
+type: Análisis Doctrinal
+title: "Sean Glass — A Call to Fortitude: Análisis doctrinal"
+timestamp: 2026-06-03
+description: Conferencia motivacional de Sean Glass en la Catholic Men's Conference 2022.
+---
 # Sean Glass — A Call to Fortitude: Análisis doctrinal
 
 > Tipo: Análisis doctrinal

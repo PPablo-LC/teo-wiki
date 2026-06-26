@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Pudor
+tags: ["moral"]
+
+timestamp: 2026-06-11
+description: Parte integrante de la virtud de la templanza que preserva la intimidad de la persona y protege su dignidad.
+---
 # Pudor
 
 > Área: Moral

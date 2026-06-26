@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Derechos de la familia
+tags: ["doctrina_social"]
+
+timestamp: 2026-06-20
+description: Los derechos de la familia son derechos propios, originarios e inviolables que corresponden a la familia como primera sociedad natural, fundada sobre el matrimonio entre un hombre y una mujer.
+---
 # Derechos de la familia
 
 > Área: Doctrina social

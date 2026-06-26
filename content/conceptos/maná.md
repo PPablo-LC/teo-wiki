@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Maná
+tags: ["dogmática"]
+
+timestamp: 2026-06-02
+description: "El maná es el alimento milagroso que Dios dio a Israel durante la travesía del desierto *Jos 5,12*. Su nombre —«¿Qué es esto?» *Ex 16,15*— subraya su carácter misterioso."
+---
 # Maná
 
 > Área: Dogmática

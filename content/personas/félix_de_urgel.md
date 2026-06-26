@@ -1,3 +1,11 @@
+---
+type: Persona
+title: Félix de Urgel
+tags: ["historia_—_herejías"]
+
+timestamp: 2026-06-25
+description: Félix fue obispo de Urgel y el principal propagador del adopcionismo en la Marca Hispánica (territorio bajo influencia carolingia).
+---
 # Félix de Urgel
 
 > Área: Historia — Herejías

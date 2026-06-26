@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Inmutabilidad divina
+tags: ["dogmática", "teología_natural"]
+
+timestamp: 2026-06-17
+description: La inmutabilidad divina es el atributo por el cual Dios es absolutamente incapaz de cambio.
+---
 # Inmutabilidad divina
 
 > Área: Dogmática / Teología Natural

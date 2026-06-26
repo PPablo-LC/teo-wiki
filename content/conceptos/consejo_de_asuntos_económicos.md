@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Consejo de asuntos económicos
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-25
+description: El consejo de asuntos económicos es el órgano colegial instituido por el derecho canónico para asistir al administrador en la gestión de los bienes eclesiásticos.
+---
 # Consejo de asuntos económicos
 
 > Área: Derecho Canónico

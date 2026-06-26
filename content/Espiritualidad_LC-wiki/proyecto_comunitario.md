@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Proyecto comunitario
+tags: ["espiritualidad", "vida_consagrada"]
+
+timestamp: 2026-05-25
+description: El proyecto comunitario es un instrumento de discernimiento y organización de la vida religiosa mediante el cual la comunidad, bajo la guía del superior, llega a acuerdos sobre la oración común.
+---
 # Proyecto comunitario
 
 > Área: Espiritualidad / Vida consagrada

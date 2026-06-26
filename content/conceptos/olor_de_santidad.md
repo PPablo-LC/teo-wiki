@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Olor de Santidad
+tags: ["mística"]
+
+timestamp: 2026-05-22
+description: El olor de santidad es un fenómeno místico corporal extraordinario consistente en la exhalación de suaves aromas sobrenaturales por parte de algunos santos.
+---
 # Olor de Santidad
 
 > Área: Mística

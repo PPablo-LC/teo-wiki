@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Santo
+tags: ["dogmática"]
+
+timestamp: 2026-06-02
+description: "Santo (del hebreo *qadosh*, «separado», «consagrado») es el atributo fundamental de Dios, que designa su absoluta trascendencia y perfección moral."
+---
 # Santo
 
 > Área: Dogmática

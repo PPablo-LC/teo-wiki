@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ironía
+tags: ["moral"]
+
+timestamp: 2026-06-10
+description: "La ironía (del griego *eironeia*, «disimulo») es, en sentido moral, el vicio opuesto a la virtud de la verdad por defecto, consistente en que uno finge ser menos de lo que es en realidad."
+---
 # Ironía
 
 > Área: Moral

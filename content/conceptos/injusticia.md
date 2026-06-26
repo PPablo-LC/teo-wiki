@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Injusticia
+tags: ["moral"]
+
+timestamp: 2026-06-09
+description: "La injusticia es el vicio opuesto a la [[virtud_de_la_justicia]] que consiste en la violación del derecho ajeno."
+---
 # Injusticia
 
 > Área: Moral

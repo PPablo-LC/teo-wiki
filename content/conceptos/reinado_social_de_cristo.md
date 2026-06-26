@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Reinado social de Cristo
+tags: ["moral", "eclesiología"]
+
+timestamp: 2026-05-22
+description: "Extensión del señorío de Jesucristo a todas las esferas de la vida social: política, económica, cultural, educativa."
+---
 # Reinado social de Cristo
 
 > Área: Moral / Eclesiología

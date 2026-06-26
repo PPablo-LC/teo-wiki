@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Fe en Cristo
+tags: ["teología", "fe"]
+
+timestamp: 2026-06-22
+description: La fe en Cristo es la respuesta del hombre a la palabra de la revelación divina, que se manifiesta de modo particular en los milagros-signos de Jesús.
+---
 # Fe en Cristo
 
 > Área: Teología / Fe

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Eutrapelia
+tags: ["moral"]
+
+timestamp: 2026-06-11
+description: "La eutrapelia es una virtud derivada de la [[virtud_de_la_templanza]], perteneciente a la modestia exterior, que tiene por objeto regular según el recto orden de la razón los juegos y diversiones."
+---
 # Eutrapelia
 
 > Área: Moral

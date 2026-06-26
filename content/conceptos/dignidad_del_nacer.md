@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Dignidad del nacer
+tags: ["antropología_teológica", "moral"]
+
+timestamp: 2026-06-03
+description: La dignidad del nacer es el valor sagrado e inviolable del nacimiento de todo ser humano desde el momento de su concepción.
+---
 # Dignidad del nacer
 
 > Área: Antropología teológica / Moral

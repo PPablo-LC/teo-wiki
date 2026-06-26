@@ -1,3 +1,11 @@
+---
+type: Persona
+title: Gottschalk de Orbais
+tags: ["historia_—_herejías"]
+
+timestamp: 2026-06-25
+description: Gottschalk fue un monje sajón que ingresó en el monasterio de Fulda y luego en Orbais.
+---
 # Gottschalk de Orbais
 
 > Área: Historia — Herejías

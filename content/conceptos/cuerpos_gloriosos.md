@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cuerpos gloriosos
+tags: ["escatología"]
+
+timestamp: 2026-06-16
+description: Los cuerpos gloriosos son los cuerpos humanos resucitados de los bienaventurados al fin de los tiempos, transfigurados por la gloria del alma que los informa.
+---
 # Cuerpos gloriosos
 
 > Área: Escatología

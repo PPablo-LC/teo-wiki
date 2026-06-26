@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ley moral
+tags: ["moral_fundamental"]
+
+timestamp: 2026-05-26
+description: "Norma de conducta fundada en la razón que distingue el bien del mal. La ley moral es la regla de los [[actos_humanos]] en orden al fin último del hombre."
+---
 # Ley moral
 
 > Área: Moral Fundamental

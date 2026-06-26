@@ -1,3 +1,8 @@
+---
+type: Consulta
+title: Nota sobre el don de entendimiento
+description: Síntesis de las fuentes CEC y TPCr
+---
 # Nota sobre el don de entendimiento
 
 > Síntesis de las fuentes CEC y TPCr

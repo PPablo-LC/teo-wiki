@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Confirmación
+tags: ["sacramental"]
+
+timestamp: 2026-05-26
+description: "La confirmación es el segundo sacramento de la vida cristiana, instituido por Nuestro Señor Jesucristo, que imprime el [[carácter_sacramental]]."
+---
 # Confirmación
 
 > Área: Sacramental

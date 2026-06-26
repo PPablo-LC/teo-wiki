@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Acto
+tags: ["dogmática"]
+
+timestamp: 2026-05-25
+description: "El acto (en latín *actus*) es la perfección, determinación o realización de un ente, opuesto a la potencia que es la capacidad de recibir dicha perfección."
+---
 # Acto
 
 > Área: Dogmática

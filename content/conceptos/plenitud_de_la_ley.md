@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Plenitud de la Ley
+tags: ["dogmática", "moral"]
+
+timestamp: 2026-06-22
+description: La plenitud de la Ley es el cumplimiento mesiánico que Cristo da a la Ley mosaica, no aboliéndola sino llevándola a su perfección mediante el amor a Dios y al prójimo.
+---
 # Plenitud de la Ley
 
 > Área: Dogmática / Moral

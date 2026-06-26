@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Santos Padres
+tags: ["dogmática", "historia_de_la_teología"]
+
+timestamp: 2026-05-26
+description: Los Santos Padres o Padres de la Iglesia son los escritores eclesiásticos de la antigüedad cristiana (siglos I-VIII) cuya doctrina es considerada testimonio autorizado de la Tradición apostólica.
+---
 # Santos Padres
 
 > Área: Dogmática / Historia de la teología

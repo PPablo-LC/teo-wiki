@@ -1,3 +1,11 @@
+---
+type: Documento
+title: Discurso sobre protección de menores (2019)
+tags: ["documentos"]
+
+timestamp: 2026-06-11
+description: Aborda la dimensión global del abuso sexual de menores, el abuso como misterio del mal y de poder, la necesidad de conversión institucional y ocho líneas de acción.
+---
 # Discurso sobre protección de menores (2019)
 
 > Área: Documentos

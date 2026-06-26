@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Voto de pobreza
+tags: ["moral"]
+
+timestamp: 2026-05-25
+description: El voto de pobreza es una promesa deliberada y libre hecha a Dios de renunciar al uso independiente de los bienes temporales y de vivir en dependencia económica del instituto religioso.
+---
 # Voto de pobreza
 
 > Área: Moral

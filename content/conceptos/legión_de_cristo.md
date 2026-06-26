@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Legión de Cristo
+tags: ["eclesiología", "vida_consagrada"]
+
+timestamp: 2026-05-26
+description: La Legión de Cristo (Congregación de los Legionarios de Cristo) es un instituto religioso clerical de derecho pontificio, fundado en 1941.
+---
 # Legión de Cristo
 
 > Área: Eclesiología / Vida Consagrada

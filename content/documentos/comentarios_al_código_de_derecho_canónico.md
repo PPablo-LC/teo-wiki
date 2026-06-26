@@ -1,3 +1,11 @@
+---
+type: Documento
+title: Comentarios al Código de Derecho Canónico
+tags: ["documentos"]
+
+timestamp: 2026-06-11
+description: Edición anotada del Código de Derecho Canónico preparada por un amplio grupo de canonistas.
+---
 # Comentarios al Código de Derecho Canónico
 
 > Área: Documentos

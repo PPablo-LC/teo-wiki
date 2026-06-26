@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Normae de gravioribus delictis
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-29
+description: "Conjunto de normas sustanciales y procesales que definen los delitos más graves (*delicta graviora*) reservados al juicio de la Congregación para la Doctrina de la Fe (hoy Dicasterio para la Doctrina)..."
+---
 # Normae de gravioribus delictis
 
 > Área: Derecho Canónico

@@ -1,3 +1,11 @@
+---
+type: Persona
+title: San Nicolás de Flüe
+tags: ["persona", "hagiografía"]
+
+timestamp: 2026-05-22
+description: Nicolás de Flüe (1417-1487), ermitaño suizo, místico y pacificador. Nacido en Flüeli (Unterwalden, Suiza), fue soldado, magistrado, juez y padre de familia numerosa (diez hijos).
+---
 # San Nicolás de Flüe
 
 > Área: Persona / Hagiografía

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Consejo
+tags: ["teología_moral_—_antropología"]
+
+timestamp: 2026-06-05
+description: "El consejo (o deliberación) es la investigación de la [[razón]] acerca de lo que hay que hacer en lo dudoso e incierto, que precede al juicio de la [[elección]]."
+---
 # Consejo
 
 > Área: Teología moral — Antropología

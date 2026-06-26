@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Poligamia
+tags: ["moral", "sacramental"]
+
+timestamp: 2026-06-15
+description: Estado matrimonial en que un varón tiene varias esposas simultáneamente.
+---
 # Poligamia
 
 > Área: Moral / Sacramental

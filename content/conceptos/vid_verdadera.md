@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Vid verdadera
+tags: ["bíblico"]
+
+timestamp: 2026-06-19
+description: La «Vid verdadera» es uno de los títulos mesiánicos de Jesús en el Evangelio de Juan (Jn 15,1-17).
+---
 # Vid verdadera
 
 > Área: Bíblico

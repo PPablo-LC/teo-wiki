@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Mesías Rey
+tags: ["cristología"]
+
+timestamp: 2026-06-22
+description: El Mesías Rey es el Ungido de Dios que recibe la plenitud del poder real prometido a la dinastía davídica, no como soberanía política o terrena, sino como servicio.
+---
 # Mesías Rey
 
 > Área: Cristología

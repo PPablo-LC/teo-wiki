@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Exaltación de Cristo
+tags: ["cristología", "liturgia", "escatología"]
+
+timestamp: 2026-05-29
+description: La exaltación de Cristo es el misterio por el cual Jesucristo, después de su pasión y muerte, es glorificado por el Padre mediante su resurrección de entre los muertos.
+---
 # Exaltación de Cristo
 
 > Área: Cristología / Liturgia / Escatología

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Educación de los hijos
+tags: ["moral", "doctrina_social"]
+
+timestamp: 2026-06-20
+description: Derecho y deber primordial, original e insustituible de los padres, que consiste en formar al hombre en la plenitud de su dignidad según todas sus dimensiones, comprendida la social.
+---
 # Educación de los hijos
 
 > Área: Moral / Doctrina Social

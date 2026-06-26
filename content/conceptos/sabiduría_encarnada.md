@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sabiduría encarnada
+tags: ["cristología"]
+
+timestamp: 2026-06-24
+description: La sabiduría encarnada es la doctrina que identifica a Jesucristo, Verbo de Dios, con la Sabiduría divina personificada en los libros sapienciales del Antiguo Testamento (especialmente Prov 8,22-31).
+---
 # Sabiduría encarnada
 
 > Área: Cristología

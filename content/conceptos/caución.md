@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Caución
+tags: ["moral"]
+
+timestamp: 2026-05-22
+description: Parte integral de la virtud de la prudencia, también llamada precaución, que inclina a prever los posibles peligros y obstáculos que pueden surgir en la acción.
+---
 # Caución
 
 > Área: Moral

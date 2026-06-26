@@ -1,3 +1,11 @@
+---
+type: Persona
+title: Elipando
+tags: ["historia_—_herejías"]
+
+timestamp: 2026-06-25
+description: Elipando fue metropolitano de Toledo durante la ocupación musulmana de Hispania.
+---
 # Elipando
 
 > Área: Historia — Herejías

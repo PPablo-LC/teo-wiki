@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Naturaleza humana
+tags: ["dogmática"]
+
+timestamp: 2026-06-20
+description: La naturaleza del hombre como ser compuesto de alma espiritual y cuerpo material, creado por Dios a su imagen y semejanza, dotado de entendimiento y voluntad libre.
+---
 # Naturaleza humana
 
 > Área: Dogmática

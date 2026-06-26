@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Gozo
+tags: ["moral", "ascética"]
+
+timestamp: 2026-06-06
+description: "El gozo espiritual es un fruto del [[espíritu_santo]] y un efecto de la [[virtud_de_la_caridad]], que consiste en la alegría profunda y estable que experimenta el alma que vive en la gracia de Dios."
+---
 # Gozo
 
 > Área: Moral / Ascética

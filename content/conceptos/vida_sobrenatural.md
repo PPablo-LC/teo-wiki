@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Vida Sobrenatural
+tags: ["dogmática"]
+
+timestamp: 2026-05-26
+description: La vida sobrenatural es la vida del alma en estado de gracia santificante, por la cual el hombre participa de la misma vida divina.
+---
 # Vida Sobrenatural
 
 > Área: Dogmática

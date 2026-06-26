@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cónclave
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: "Asamblea del [[colegio_cardenalicio]] reunida en clausura para la [[elección_pontificia]] del [[romano_pontífice]] durante la [[sede_vacante]]."
+---
 # Cónclave
 
 > Área: Derecho Canónico

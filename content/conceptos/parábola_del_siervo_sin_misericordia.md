@@ -1,3 +1,8 @@
+---
+type: Concepto Teológico
+title: Parabola del siervo sin misericordia
+description: Parabola de Jesucristo narrada en Mt 18,21-35.
+---
 # Parabola del siervo sin misericordia
 
 > Area: Sagrada Escritura

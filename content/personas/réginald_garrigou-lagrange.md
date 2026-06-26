@@ -1,3 +1,11 @@
+---
+type: Persona
+title: Réginald Garrigou-Lagrange OP
+tags: ["persona"]
+
+timestamp: 2026-05-20
+description: Réginald Garrigou-Lagrange (1877-1964) fue un religioso dominico y teólogo francés, una de las figuras más relevantes de la mística contemporánea.
+---
 # Réginald Garrigou-Lagrange OP
 
 > Área: Persona

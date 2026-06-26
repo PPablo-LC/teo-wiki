@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ministerios eclesiales
+tags: ["eclesiología", "sacramental"]
+
+timestamp: 2026-05-22
+description: Los ministerios eclesiales son los servicios instituidos por Cristo en su Iglesia para la santificación del Pueblo de Dios.
+---
 # Ministerios eclesiales
 
 > Área: Eclesiología / Sacramental

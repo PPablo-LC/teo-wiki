@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ecónomo
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: "Persona física designada por el [[obispo_diocesano]] para administrar los bienes temporales de la [[diócesis]] bajo la autoridad del Ordinario."
+---
 # Ecónomo
 
 > Área: Derecho Canónico

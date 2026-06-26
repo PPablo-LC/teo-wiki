@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Promesa
+tags: ["moral"]
+
+timestamp: 2026-05-26
+description: "La promesa hecha a Dios es un acto de la [[virtud_de_la_religión]] por el cual el fiel se obliga voluntariamente ante Dios a realizar una acción buena o piadosa."
+---
 # Promesa
 
 > Área: Moral

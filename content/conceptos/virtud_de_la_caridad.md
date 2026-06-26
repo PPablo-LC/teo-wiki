@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Virtud de la caridad
+tags: ["dogmática", "moral", "mística"]
+
+timestamp: 2026-06-23
+description: "La caridad es la más excelente de las [[virtudes_teologales]], virtud infusa sobrenatural por la que amamos a Dios sobre todas las cosas por Sí mismo."
+---
 # Virtud de la caridad
 
 > Área: Dogmática / Moral / Mística

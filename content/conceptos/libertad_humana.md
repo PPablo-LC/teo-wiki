@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Libertad humana
+tags: ["moral", "antropología"]
+
+timestamp: 2026-05-22
+description: La libertad es el poder, radicado en la razón y en la voluntad, de obrar o de no obrar, de hacer esto o aquello, de ejecutar por sí mismo acciones deliberadas (CEC §1731).
+---
 # Libertad humana
 
 > Área: Moral / Antropología

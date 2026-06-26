@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Visita
+tags: ["escritura", "eclesiología"]
+
+timestamp: 2026-06-02
+description: Visitar en la Biblia es un concepto teológico que designa la intervención de Dios en la historia para salvar o juzgar. La «visita de Dios» es el tiempo de la salvación o del juicio.
+---
 # Visita
 
 > Área: Escritura / Eclesiología

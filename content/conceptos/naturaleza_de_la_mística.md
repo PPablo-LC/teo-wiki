@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Naturaleza de la Mística
+tags: ["mística"]
+
+timestamp: 2026-05-21
+description: La mística cristiana es la actuación sobrehumana de los dones del Espíritu Santo en el alma.
+---
 # Naturaleza de la Mística
 
 > Área: Mística

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Administración
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-25
+description: La administración en el ámbito eclesiástico es la gestión y cuidado de los bienes temporales de la Iglesia conforme al derecho canónico.
+---
 # Administración
 
 > Área: Derecho Canónico

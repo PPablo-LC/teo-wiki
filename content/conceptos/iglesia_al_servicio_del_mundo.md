@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Iglesia al servicio del mundo
+tags: ["eclesiología", "doctrina_social"]
+
+timestamp: 2026-05-26
+description: La misión de la Iglesia en el mundo contemporáneo como sacramento universal de salvación, que sirve a la dignidad humana, consolida la sociedad y da sentido profundo a la actividad humana.
+---
 # Iglesia al servicio del mundo
 
 > Área: Eclesiología / Doctrina Social

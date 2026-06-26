@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Oración dominical
+tags: ["espiritualidad", "teología_moral"]
+
+timestamp: 2026-06-24
+description: "La oración dominical es el Padrenuestro (*Pater Noster*), la oración que el Señor Jesucristo enseñó a sus discípulos (Mt 6,9-13; Lc 11,2-4)."
+---
 # Oración dominical
 
 > Área: Espiritualidad / Teología moral

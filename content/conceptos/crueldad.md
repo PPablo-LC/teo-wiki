@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Crueldad
+tags: ["moral"]
+
+timestamp: 2026-06-11
+description: La crueldad es el vicio opuesto a la clemencia, consistente en el exceso en la imposición de castigos.
+---
 # Crueldad
 
 > Área: Moral

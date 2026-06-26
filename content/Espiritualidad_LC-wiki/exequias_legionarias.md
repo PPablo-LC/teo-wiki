@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Exequias legionarias
+tags: ["liturgia", "espiritualidad_legionaria"]
+
+timestamp: 2026-06-14
+description: Rito de las exequias de los legionarios de Cristo, con normas particulares sobre la sepultura, el revestimiento del cadáver, la colocación del ataúd y la vigilia de oración.
+---
 # Exequias legionarias
 
 > Área: Liturgia / Espiritualidad legionaria

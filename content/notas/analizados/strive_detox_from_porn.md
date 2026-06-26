@@ -1,3 +1,9 @@
+---
+type: Análisis Doctrinal
+title: "STRIVE — Detox from porn: Análisis doctrinal"
+timestamp: 2026-06-03
+description: Breve vídeo promocional del programa STRIVE, un «detox» de 21 días para dejar la pornografía, presentado por un coach que ha hablado con millones de personas sobre el tema.
+---
 # STRIVE — Detox from porn: Análisis doctrinal
 
 > Tipo: Análisis pastoral

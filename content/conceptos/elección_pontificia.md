@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Elección pontificia
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: "Proceso canónico por el cual se elige al [[romano_pontífice]] tras la [[sede_vacante]] por muerte o renuncia del Papa."
+---
 # Elección pontificia
 
 > Área: Derecho Canónico

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Esencia divina
+tags: ["dogmática"]
+
+timestamp: 2026-05-26
+description: "La esencia divina es aquello que Dios es en sí mismo: el ser subsistente, acto puro sin mezcla de potencia, simple, infinito, eterno e inmutable."
+---
 # Esencia divina
 
 > Área: Dogmática

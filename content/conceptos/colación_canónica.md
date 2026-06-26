@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Colación canónica
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: La colación canónica es el acto por el cual la autoridad eclesiástica competente otorga libremente un oficio eclesiástico a una persona idónea.
+---
 # Colación canónica
 
 > Área: Derecho Canónico

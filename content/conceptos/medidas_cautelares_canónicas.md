@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Medidas cautelares canónicas
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-29
+description: "Las medidas cautelares canónicas son actos administrativos que el Ordinario o el Jerarca puede imponer desde el inicio de la [[investigación_previa_canónica|investigación previa]] para evitar..."
+---
 # Medidas cautelares canónicas
 
 > Área: Derecho Canónico

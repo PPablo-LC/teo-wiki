@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Débito conyugal
+tags: ["moral", "sacramental"]
+
+timestamp: 2026-06-15
+description: Obligación mutua que tienen los cónyuges de entregarse el uso del cuerpo para el acto conyugal cuando el otro lo pide por causa legítima.
+---
 # Débito conyugal
 
 > Área: Moral / Sacramental

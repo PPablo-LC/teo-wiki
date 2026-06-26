@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Estudiosidad
+tags: ["moral"]
+
+timestamp: 2026-06-11
+description: "La estudiosidad es una virtud derivada de la [[virtud_de_la_templanza]], perteneciente a la modestia, que tiene por objeto moderar el apetito o deseo de saber según las reglas de la recta razón."
+---
 # Estudiosidad
 
 > Área: Moral

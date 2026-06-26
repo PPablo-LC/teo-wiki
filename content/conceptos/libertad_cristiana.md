@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Libertad cristiana
+tags: ["teología_moral"]
+
+timestamp: 2026-06-18
+description: La libertad cristiana es la verdadera libertad del hombre redimido por Cristo, que consiste no en la ausencia de vínculos sino en la capacidad de amar y servir a Dios y al prójimo.
+---
 # Libertad cristiana
 
 > Área: Teología moral

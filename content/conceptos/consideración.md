@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Consideración
+tags: ["espiritualidad", "teología_pastoral"]
+
+timestamp: 2026-06-10
+description: "En el vocabulario de San Bernardo de Claraval, la «consideración» (*consideratio*) se distingue de la [[contemplación]]."
+---
 # Consideración
 
 > Área: Espiritualidad / Teología Pastoral

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Arrepentimiento
+tags: ["moral_—_ascética"]
+
+timestamp: 2026-05-22
+description: Dolor del alma por los pecados cometidos, acompañado de la aversión al mal y del propósito firme de no volver a pecar.
+---
 # Arrepentimiento
 
 > Área: Moral — Ascética

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Potestad de orden
+tags: ["derecho_canónico", "sacramentos"]
+
+timestamp: 2026-06-15
+description: "La potestad de orden es la autoridad sacramental recibida por la [[orden_sacerdotal]] que capacita al ministro ordenado para celebrar los sacramentos y actuar en nombre de Cristo Cabeza de la..."
+---
 # Potestad de orden
 
 > Área: Derecho Canónico / Sacramentos

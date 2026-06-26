@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Índole secular
+tags: ["eclesiología", "teología_del_laicado"]
+
+timestamp: 2026-06-19
+description: La índole secular es la característica propia y distintiva de los fieles laicos.
+---
 # Índole secular
 
 > Área: Eclesiología / Teología del laicado

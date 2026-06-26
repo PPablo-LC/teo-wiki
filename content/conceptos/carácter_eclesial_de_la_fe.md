@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Carácter eclesial de la fe
+tags: ["dogmática", "eclesiología"]
+
+timestamp: 2026-05-22
+description: "El carácter eclesial de la fe significa que la fe no es un acto aislado e individual: nadie puede creer solo, como nadie puede vivir solo."
+---
 # Carácter eclesial de la fe
 
 > Área: Dogmática / Eclesiología

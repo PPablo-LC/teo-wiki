@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Obediencia sacerdotal
+tags: ["derecho_canónico", "ascética"]
+
+timestamp: 2026-05-26
+description: "Virtud y obligación jurídica del [[presbítero]] y de todo [[clérigos|clérigo]] de prestar reverencia y obediencia al [[romano_pontífice]] y al propio [[obispo_diocesano]]."
+---
 # Obediencia sacerdotal
 
 > Área: Derecho Canónico / Ascética

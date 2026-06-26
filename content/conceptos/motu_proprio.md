@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Motu Proprio
+tags: ["derecho_canónico", "eclesiología"]
+
+timestamp: 2026-05-29
+description: Del latín «por propia iniciativa».
+---
 # Motu Proprio
 
 > Área: Derecho Canónico / Eclesiología

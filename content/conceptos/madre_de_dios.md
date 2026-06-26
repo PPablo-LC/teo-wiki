@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Madre de Dios
+tags: ["mariología", "dogmática"]
+
+timestamp: 2026-06-16
+description: "La «Madre de Dios» (*Theotokos*, «la que engendró a Dios») es el título principal y fundamental de la Virgen María, definido dogmáticamente por el Concilio de Éfeso (431)."
+---
 # Madre de Dios
 
 > Área: Mariología / Dogmática

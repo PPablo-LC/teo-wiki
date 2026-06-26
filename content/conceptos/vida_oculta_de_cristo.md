@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Vida oculta de Cristo
+tags: ["cristología", "espiritualidad"]
+
+timestamp: 2026-06-19
+description: La vida oculta de Jesús designa el período de la existencia terrena del Hijo de Dios en Nazaret, desde su infancia hasta el inicio de su vida pública (aproximadamente treinta años).
+---
 # Vida oculta de Cristo
 
 > Área: Cristología / Espiritualidad

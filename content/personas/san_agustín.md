@@ -1,3 +1,11 @@
+---
+type: Persona
+title: San Agustín de Hipona
+tags: ["persona"]
+
+timestamp: 2026-05-20
+description: Aurelio Agustín (354-430), obispo de Hipona, Padre y Doctor de la Iglesia.
+---
 # San Agustín de Hipona
 
 > Área: Persona

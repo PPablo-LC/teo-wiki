@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Hado
+tags: ["dogmática_(providencia_divina)"]
+
+timestamp: 2026-06-04
+description: El hado, en sentido teológico tomista, es la ordenación de las causas segundas a los efectos previstos por Dios.
+---
 # Hado
 
 > Área: Dogmática (Providencia divina)

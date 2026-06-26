@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Vírgenes consagradas
+tags: ["eclesiología", "ascética"]
+
+timestamp: 2026-05-25
+description: El orden de las vírgenes es una forma de vida consagrada en la que mujeres, formulando el propósito santo de seguir más de cerca a Cristo.
+---
 # Vírgenes consagradas
 
 > Área: Eclesiología / Ascética

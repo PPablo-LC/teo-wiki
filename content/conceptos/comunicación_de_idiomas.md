@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Comunicación de idiomas
+tags: ["cristología"]
+
+timestamp: 2026-06-24
+description: "La comunicación de idiomas (en latín *communicatio idiomatum*) es el principio cristológico por el cual las propiedades de la naturaleza divina y de la naturaleza humana de Cristo se predican de la..."
+---
 # Comunicación de idiomas
 
 > Área: Cristología

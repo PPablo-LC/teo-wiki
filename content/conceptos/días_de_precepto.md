@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Días de precepto
+tags: ["liturgia", "moral"]
+
+timestamp: 2026-05-25
+description: Los días de precepto son aquellos en que los fieles tienen obligación de participar en la Misa y de abstenerse de trabajos y actividades que impidan dar culto a Dios y gozar del descanso debido.
+---
 # Días de precepto
 
 > Área: Liturgia / Moral

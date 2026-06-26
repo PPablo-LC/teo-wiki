@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Migrantes
+tags: ["doctrina_social"]
+
+timestamp: 2026-05-25
+description: La cuestión de los migrantes se refiere al fenómeno de las personas que se desplazan de un país o región a otro por diversos motivos.
+---
 # Migrantes
 
 > Área: Doctrina Social

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Leví (Mateo)
+tags: ["cristología", "sagrada_escritura"]
+
+timestamp: 2026-06-22
+description: Leví (Mateo), hijo de Alfeo, era un publicano (recaudador de impuestos) llamado por Jesús para ser uno de los Doce Apóstoles. Es el autor tradicional del primer Evangelio.
+---
 # Leví (Mateo)
 
 > Área: Cristología / Sagrada Escritura

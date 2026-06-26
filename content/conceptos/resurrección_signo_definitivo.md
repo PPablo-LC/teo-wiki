@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Resurrección, signo definitivo
+tags: ["cristología"]
+
+timestamp: 2026-06-22
+description: "La [[resurrección]] de Jesucristo es el signo último y definitivo de su misión divina, el «milagro de los milagros» al que Jesús alude con el signo de Jonás (Mt 12,40) y que constituye."
+---
 # Resurrección, signo definitivo
 
 > Área: Cristología

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Inhabitación Trinitaria
+tags: ["dogmática", "mística"]
+
+timestamp: 2026-05-21
+description: La inhabitación trinitaria es la presencia real, sustancial y permanente de las tres Personas de la Santísima Trinidad en el alma del justo que está en estado de gracia.
+---
 # Inhabitación Trinitaria
 
 > Área: Dogmática / Mística

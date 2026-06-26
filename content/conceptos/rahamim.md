@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Rahamim
+tags: ["exégesis_bíblica", "dogmática"]
+
+timestamp: 2026-06-16
+description: "*Rahamim* (רַחֲמִים) es un término hebreo del Antiguo Testamento que designa la misericordia divina desde la metáfora del amor materno."
+---
 # Rahamim
 
 > Área: Exégesis bíblica / Dogmática

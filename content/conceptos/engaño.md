@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Engaño
+tags: ["moral"]
+
+timestamp: 2026-06-23
+description: "El engaño (del latín *ingannare*) es la acción u omisión deliberada de inducir a otro a aceptar como verdadero lo que es falso, o a no conocer lo que es verdadero, violando la virtud de la verdad."
+---
 # Engaño
 
 > Área: Moral

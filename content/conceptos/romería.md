@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Romería
+tags: ["espiritualidad", "liturgia"]
+
+timestamp: 2026-05-26
+description: "La romería es una [[peregrinación]] de carácter local o regional, generalmente a un [[santuario]] cercano, frecuentemente de devoción mariana."
+---
 # Romería
 
 > Área: Espiritualidad / Liturgia

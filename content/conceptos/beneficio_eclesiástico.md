@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Beneficio eclesiástico
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: El beneficio eclesiástico es el conjunto de bienes o rentas destinados a la sustentación de los clérigos que ejercen un oficio eclesiástico.
+---
 # Beneficio eclesiástico
 
 > Área: Derecho Canónico

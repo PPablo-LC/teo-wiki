@@ -1,3 +1,7 @@
+---
+type: Análisis Doctrinal
+title: "Índice: Catholic Men's Conference 2022 — Frassati"
+---
 # Índice: Catholic Men's Conference 2022 — Frassati
 
 > Carpeta fuente: `raw/Para_analizar-raw/Catholic_mens_conference-2022/`

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Dolor cristiano
+tags: ["ascética", "moral"]
+
+timestamp: 2026-05-22
+description: El dolor cristiano es el sufrimiento aceptado, ofrecido y vivido en unión con la Pasión de Jesucristo como medio de reparación del pecado, purificación del alma.
+---
 # Dolor cristiano
 
 > Área: Ascética / Moral

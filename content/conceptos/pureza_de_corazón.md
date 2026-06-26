@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Pureza de Corazón
+tags: ["ascética", "moral"]
+
+timestamp: 2026-05-22
+description: "La sexta bienaventuranza: \"Bienaventurados los limpios de corazón, porque ellos verán a Dios\" (Mt 5,8). Designa a los que han ajustado su inteligencia y su voluntad a las exigencias de la santidad ..."
+---
 # Pureza de Corazón
 
 > Área: Ascética / Moral

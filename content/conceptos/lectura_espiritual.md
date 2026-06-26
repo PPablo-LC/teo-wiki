@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Lectura espiritual
+tags: ["ascética"]
+
+timestamp: 2026-05-20
+description: La lectura espiritual es la atenta y asidua lectura de libros que infunden en el entendimiento nobles ideales de superación espiritual y encienden en el corazón el fuego del amor divino.
+---
 # Lectura espiritual
 
 > Área: Ascética

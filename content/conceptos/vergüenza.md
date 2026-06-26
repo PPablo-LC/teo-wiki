@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Vergüenza
+tags: ["moral"]
+
+timestamp: 2026-06-11
+description: "La vergüenza en la Biblia tiene un sentido ambivalente: puede ser la confusión del pecador ante Dios (vergüenza santa que lleva al arrepentimiento) o la desvergüenza del que persiste en el mal."
+---
 # Vergüenza
 
 > Área: Moral

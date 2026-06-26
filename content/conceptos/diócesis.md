@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Diócesis
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: La diócesis es una porción del pueblo de Dios cuyo cuidado pastoral se encomienda al Obispo con la cooperación del presbiterio, de manera que.
+---
 # Diócesis
 
 > Área: Derecho Canónico

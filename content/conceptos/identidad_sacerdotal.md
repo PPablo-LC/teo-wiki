@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Identidad sacerdotal
+tags: ["eclesiología", "sacramental"]
+
+timestamp: 2026-06-14
+description: "Conjunto de notas teológicas y espirituales que definen al presbítero en su ser y obrar: configuración sacramental con Jesucristo, Cabeza y Pastor."
+---
 # Identidad sacerdotal
 
 > Área: Eclesiología / Sacramental

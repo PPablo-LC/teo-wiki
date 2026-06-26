@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Vocación sacerdotal
+tags: ["teología_espiritual", "eclesiología"]
+
+timestamp: 2026-06-14
+description: Llamada de Dios a un bautizado para configurarse con Jesucristo, Cabeza y Pastor de la Iglesia, mediante el sacramento del Orden en el grado del presbiterado.
+---
 # Vocación sacerdotal
 
 > Área: Teología espiritual / Eclesiología

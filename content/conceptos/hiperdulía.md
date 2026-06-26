@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Hiperdulía
+tags: ["moral", "mariología"]
+
+timestamp: 2026-06-10
+description: "La hiperdulía (del griego *hyper*, «sobre», y *dulía*, «servidumbre») es el culto de veneración suprema tributado a la Virgen María por su singular dignidad como Madre de Dios."
+---
 # Hiperdulía
 
 > Área: Moral / Mariología

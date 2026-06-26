@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Adviento
+tags: ["liturgia", "tiempos_litúrgicos"]
+
+timestamp: 2026-06-18
+description: "El Adviento (del latín *adventus*: «venida») es el tiempo litúrgico que prepara la celebración del nacimiento de Jesucristo (Navidad)."
+---
 # Adviento
 
 > Área: Liturgia / Tiempos litúrgicos

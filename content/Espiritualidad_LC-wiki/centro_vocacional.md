@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Centro vocacional
+tags: ["ascética", "formación"]
+
+timestamp: 2026-06-12
+description: El centro vocacional es el seminario menor o escuela apostólica de la Legión de Cristo donde los adolescentes, en un ambiente de armonía con su edad y de auténtica libertad interior.
+---
 # Centro vocacional
 
 > Área: Ascética / Formación

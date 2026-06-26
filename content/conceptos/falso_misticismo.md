@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Falso misticismo
+tags: ["ascética", "mística", "pastoral"]
+
+timestamp: 2026-06-10
+description: Utilización de falsas experiencias sobrenaturales o místicas como medio para ejercer dominio sobre las conciencias, anulando la autonomía de las personas, o para cometer otro tipo de abusos.
+---
 # Falso misticismo
 
 > Área: Ascética / Mística / Pastoral

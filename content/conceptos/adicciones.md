@@ -1,3 +1,8 @@
+---
+type: Concepto Teológico
+title: Adicciones
+description: Estado de dependencia patologica respecto a una sustancia, actividad o comportamiento, que esclaviza la voluntad y aparta al ser humano de su fin ultimo.
+---
 # Adicciones
 
 > Area: Moral

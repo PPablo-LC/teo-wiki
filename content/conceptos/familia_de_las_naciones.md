@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Familia de las naciones
+tags: ["doctrina_social"]
+
+timestamp: 2026-05-26
+description: Expresión que designa la comunidad internacional como una familia de pueblos llamados a vivir en unidad, solidaridad y paz, fundada en la común dignidad de todos los hombres.
+---
 # Familia de las naciones
 
 > Área: Doctrina Social

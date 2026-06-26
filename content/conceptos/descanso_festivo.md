@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Descanso festivo
+tags: ["moral", "doctrina_social"]
+
+timestamp: 2026-06-17
+description: Derecho del trabajador al descanso y al tiempo libre para poder atender la vida familiar, cultural, social y religiosa.
+---
 # Descanso festivo
 
 > Área: Moral / Doctrina Social

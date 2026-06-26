@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Hermano
+tags: ["moral", "eclesiología"]
+
+timestamp: 2026-06-02
+description: La palabra «hermano» designa en primer lugar a los nacidos del mismo seno materno, pero se extiende a los miembros de una misma familia, tribu o pueblo.
+---
 # Hermano
 
 > Área: Moral / Eclesiología

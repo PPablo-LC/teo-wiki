@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Vía Unitiva
+tags: ["mística"]
+
+timestamp: 2026-05-20
+description: La vía unitiva es el tercer grado de la vida espiritual, correspondiente a la caridad perfecta.
+---
 # Vía Unitiva
 
 > Área: Mística

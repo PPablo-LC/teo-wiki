@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Mercado
+tags: ["doctrina_social"]
+
+timestamp: 2026-05-25
+description: Institución socialmente importante para la producción e intercambio de bienes y servicios, que la doctrina social reconoce como instrumento eficaz para colocar recursos y responder a las necesidades.
+---
 # Mercado
 
 > Área: Doctrina Social

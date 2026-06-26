@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Oblaciones y primicias
+tags: ["moral"]
+
+timestamp: 2026-06-09
+description: Las oblaciones y primicias son ofrendas hechas a Dios en reconocimiento de su dominio soberano sobre todas las cosas y en acción de gracias por sus beneficios.
+---
 # Oblaciones y primicias
 
 > Área: Moral

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Acto administrativo canónico
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-25
+description: Acto emitido por la autoridad con potestad ejecutiva para un caso particular, que puede adoptar la forma de decreto, precepto o rescripto.
+---
 # Acto administrativo canónico
 
 > Área: Derecho Canónico

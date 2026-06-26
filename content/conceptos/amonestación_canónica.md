@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Amonestación canónica
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: "Proclamación pública de las próximas nupcias que se realiza en la [[parroquia]] del contrayente para descubrir posibles impedimentos al [[matrimonio]]."
+---
 # Amonestación canónica
 
 > Área: Derecho canónico

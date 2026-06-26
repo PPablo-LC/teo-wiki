@@ -1,3 +1,11 @@
+---
+type: Documento
+title: Ecclesia in America
+tags: ["documentos_—_exhortaciones_apostólicas_postsinodales"]
+
+timestamp: 2026-06-20
+description: "La exhortación consta de introducción, seis capítulos y conclusión:"
+---
 # Ecclesia in America
 
 > Área: Documentos — Exhortaciones apostólicas postsinodales

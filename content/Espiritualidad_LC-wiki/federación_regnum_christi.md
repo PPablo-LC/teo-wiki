@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Federación Regnum Christi
+tags: ["eclesiología", "derecho_canónico"]
+
+timestamp: 2026-06-13
+description: "La Federación Regnum Christi es la configuración canónica mediante la cual se articula jurídicamente la familia espiritual y cuerpo apostólico del [[regnum_christi]]."
+---
 # Federación Regnum Christi
 
 > Área: Eclesiología / Derecho canónico

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Dones de entendimiento
+tags: ["dogmática", "mística"]
+
+timestamp: 2026-05-22
+description: El don de entendimiento es uno de los siete dones del Espíritu Santo, que perfecciona y sobrenaturaliza la virtud de la fe, iluminando el entendimiento para penetrar con facilidad.
+---
 # Dones de entendimiento
 
 > Área: Dogmática / Mística

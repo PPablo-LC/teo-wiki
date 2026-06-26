@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Tradición
+tags: ["dogmática", "teología_fundamental"]
+
+timestamp: 2026-06-02
+description: "La Tradición (con mayúscula) es la transmisión viva del Evangelio realizada por la Iglesia bajo la asistencia del [[espíritu_santo]]."
+---
 # Tradición
 
 > Área: Dogmática / Teología Fundamental

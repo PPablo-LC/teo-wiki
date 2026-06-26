@@ -1,3 +1,11 @@
+---
+type: Documento
+title: Pascite Gregem Dei
+tags: ["documentos"]
+
+timestamp: 2026-06-11
+description: Reforma el Libro VI del CIC sobre las sanciones penales en la Iglesia, respondiendo al «cambio de época». Busca hacer del derecho penal un instrumento pastoral ágil para la corrección y la sanación.
+---
 # Pascite Gregem Dei
 
 > Área: Documentos

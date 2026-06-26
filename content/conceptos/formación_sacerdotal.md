@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Formación sacerdotal
+tags: ["teología_espiritual", "eclesiología"]
+
+timestamp: 2026-06-14
+description: La formación sacerdotal es el proceso integral de preparación espiritual, intelectual, humana y pastoral por el que los candidatos al presbiterado son configurados con Cristo Sacerdote.
+---
 # Formación sacerdotal
 
 > Área: Teología espiritual / Eclesiología

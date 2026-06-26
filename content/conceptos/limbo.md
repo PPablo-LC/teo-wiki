@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Limbo
+tags: ["escatología"]
+
+timestamp: 2026-06-16
+description: "El limbo (del latín *limbus*, «borde» o «confín») designa dos moradas temporales o eternas en el estado intermedio de las almas después de la muerte."
+---
 # Limbo
 
 > Área: Escatología

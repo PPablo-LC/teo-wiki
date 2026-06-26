@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cristo manifiesta plenamente el hombre
+tags: ["cristología", "antropología_teológica"]
+
+timestamp: 2026-06-22
+description: Cristo, el nuevo Adán, manifiesta plenamente el hombre a sí mismo y le descubre la sublimidad de su vocación (GS 22).
+---
 # Cristo manifiesta plenamente el hombre
 
 > Área: Cristología / Antropología teológica

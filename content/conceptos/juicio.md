@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Juicio
+tags: ["moral"]
+
+timestamp: 2026-06-09
+description: El juicio, en sentido propio, es el acto del juez por el que se define o determina lo justo o el derecho, siendo el juez «cierta justicia animada» (SmTh IIa-IIae q.60 a.1).
+---
 # Juicio
 
 > Área: Moral

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Viernes Santo
+tags: ["liturgia", "cristología", "soteriología"]
+
+timestamp: 2026-05-29
+description: El Viernes Santo es el día central del Triduo Pascual en que la Iglesia conmemora la pasión y muerte de Nuestro Señor Jesucristo en la cruz.
+---
 # Viernes Santo
 
 > Área: Liturgia / Cristología / Soteriología

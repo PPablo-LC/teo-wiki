@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Contemplación Mística
+tags: ["mística"]
+
+timestamp: 2026-05-22
+description: La contemplación mística es la contemplación infusa en cuanto experiencia sobrenatural pasiva del alma que recibe de Dios un conocimiento amoroso, simple y oscuro de la verdad divina.
+---
 # Contemplación Mística
 
 > Área: Mística

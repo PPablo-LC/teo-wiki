@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Vida común
+tags: ["vida_religiosa"]
+
+timestamp: 2026-05-22
+description: La vida común es el modo estable de vivir en comunidad propio del estado religioso, por el cual los religiosos comparten habitación, mesa, oración, trabajo y bienes.
+---
 # Vida común
 
 > Área: Vida religiosa

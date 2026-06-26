@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Símbolo Atanasiano
+tags: ["dogmática"]
+
+timestamp: 2026-06-24
+description: "El Símbolo Atanasiano (también llamado *Quicumque*, por su primera palabra en latín) es una profesión de fe que expone detalladamente la doctrina católica sobre la Trinidad y la Encarnación."
+---
 # Símbolo Atanasiano
 
 > Área: Dogmática

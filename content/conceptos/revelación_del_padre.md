@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Revelación del Padre
+tags: ["dogmática_(trinidad)"]
+
+timestamp: 2026-06-22
+description: Manifestación de Dios como Padre en sentido propio y eterno, realizada por Jesucristo el Hijo unigénito, que da a conocer al Padre revelando su intimidad.
+---
 # Revelación del Padre
 
 > Área: Dogmática (Trinidad)

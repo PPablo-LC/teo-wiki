@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Temor
+tags: ["moral", "dogmática"]
+
+timestamp: 2026-06-12
+description: El temor de Dios es un don del Espíritu Santo que inspira respeto reverencial hacia la majestad divina y aparta del pecado. No es miedo servil, sino amor filial que teme ofender a Dios.
+---
 # Temor
 
 > Área: Moral / Dogmática

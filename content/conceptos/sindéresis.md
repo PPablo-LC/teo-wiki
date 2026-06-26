@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sindéresis
+tags: ["moral"]
+
+timestamp: 2026-06-04
+description: La sindéresis (synderesis) es un hábito natural del entendimiento práctico que posee los primeros principios de la moralidad —el bien debe hacerse y el mal evitarse—.
+---
 # Sindéresis
 
 > Área: Moral

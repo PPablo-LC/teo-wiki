@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Intercesión
+tags: ["dogmática", "espiritualidad"]
+
+timestamp: 2026-05-22
+description: La intercesión es una forma de oración de petición en favor de otros.
+---
 # Intercesión
 
 > Área: Dogmática / Espiritualidad

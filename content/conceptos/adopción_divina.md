@@ -1,3 +1,8 @@
+---
+type: Concepto Teológico
+title: Adopción divina
+description: Acto de la bondad divina por el cual Dios admite a la criatura racional a participar de su herencia eterna, comunicándole una semejanza de la filiación natural del Verbo mediante el don de la gracia.
+---
 # Adopción divina
 
 > Area: Dogmática

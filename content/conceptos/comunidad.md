@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Comunidad
+tags: ["eclesiología"]
+
+timestamp: 2026-06-10
+description: Realidad eclesial fundada por Cristo en la cual los fieles, unidos por el vínculo de la caridad y los sacramentos, forman un solo Cuerpo cuya cabeza es Cristo.
+---
 # Comunidad
 
 > Área: Eclesiología

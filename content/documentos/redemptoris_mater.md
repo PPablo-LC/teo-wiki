@@ -1,3 +1,8 @@
+---
+type: Documento
+title: Redemptoris Mater
+description: "La *Redemptoris Mater* (RM) —«Madre del Redentor»— es la sexta encíclica de Juan Pablo II, dedicada a la Santísima Virgen María en el misterio de Cristo y de la Iglesia."
+---
 # Redemptoris Mater
 
 > Código: **RM**

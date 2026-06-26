@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Vigilia Pascual
+tags: ["liturgia"]
+
+timestamp: 2026-05-31
+description: La Vigilia Pascual es la celebración litúrgica central del año cristiano, «la madre de todas las vigilias» (San Agustín).
+---
 # Vigilia Pascual
 
 > Área: Liturgia

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Diluvio
+tags: ["bíblica"]
+
+timestamp: 2026-06-02
+description: El diluvio universal es el juicio salvífico de Dios sobre la humanidad pecadora, del cual salva a Noé y su familia como resto y simiente de una humanidad renovada.
+---
 # Diluvio
 
 > Área: Bíblica

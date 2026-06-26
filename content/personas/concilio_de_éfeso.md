@@ -1,3 +1,11 @@
+---
+type: Persona
+title: Concilio de Éfeso
+tags: ["dogmática_—_concilios_ecuménicos"]
+
+timestamp: 2026-06-25
+description: El Concilio de Éfeso fue convocado para resolver la controversia nestoriana.
+---
 # Concilio de Éfeso
 
 > Área: Dogmática — Concilios Ecuménicos

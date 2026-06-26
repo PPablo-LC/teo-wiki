@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Justificación
+tags: ["dogmática"]
+
+timestamp: 2026-06-08
+description: La justificación es la obra de la gracia del Espíritu Santo por la cual el hombre, movido por Dios, se vuelve a Él y se aparta del pecado, acogiendo el perdón y la justicia de lo alto (CEC §1989).
+---
 # Justificación
 
 > Área: Dogmática

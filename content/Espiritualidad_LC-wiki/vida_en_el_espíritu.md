@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Vida en el Espíritu
+tags: ["espiritualidad"]
+
+timestamp: 2026-06-05
+description: "Conjunto de expresiones de espiritualidad carismática —también llamadas «elementos carismáticos» o «vida en el Espíritu Santo»— que incluyen prácticas como la oración de alabanza (*worship*)."
+---
 # Vida en el Espíritu
 
 > Área: Espiritualidad

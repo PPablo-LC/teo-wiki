@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Iglesia y Reino
+tags: ["eclesiología", "cristología"]
+
+timestamp: 2026-06-22
+description: "Relación entre el [[reino_de_dios]] instaurado por Jesucristo y la [[iglesia]] como comunidad visible que prolonga y sirve a ese Reino en la historia."
+---
 # Iglesia y Reino
 
 > Área: Eclesiología / Cristología

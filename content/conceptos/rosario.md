@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Rosario
+tags: ["ascética", "mariología"]
+
+timestamp: 2026-05-22
+description: El rosario es una oración vocal y meditativa de la Iglesia católica, compuesta por la repetición de avemarías intercaladas con padrenuestros y gloria, mientras se meditan los misterios gozosos.
+---
 # Rosario
 
 > Área: Ascética / Mariología

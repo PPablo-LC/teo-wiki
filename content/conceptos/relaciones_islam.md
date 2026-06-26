@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Relaciones Iglesia-Islam
+tags: ["eclesiología", "diálogo_interreligioso"]
+
+timestamp: 2026-05-26
+description: Conjunto de relaciones espirituales y teológicas entre la Iglesia Católica y el Islam, basadas en elementos comunes como la fe en un único Dios, la veneración de Jesús y María.
+---
 # Relaciones Iglesia-Islam
 
 > Área: Eclesiología / Diálogo interreligioso

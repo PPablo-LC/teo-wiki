@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Reparación
+tags: ["dogmática", "ascética"]
+
+timestamp: 2026-05-22
+description: Acto por el cual se satisface o compensa una ofensa hecha a Dios, restableciendo el orden de la justicia violado por el pecado.
+---
 # Reparación
 
 > Área: Dogmática / Ascética

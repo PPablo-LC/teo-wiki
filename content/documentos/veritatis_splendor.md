@@ -1,3 +1,11 @@
+---
+type: Documento
+title: Veritatis Splendor
+tags: ["documentos_—_encíclicas"]
+
+timestamp: 2026-06-20
+description: "La encíclica consta de introducción, tres capítulos y conclusión:"
+---
 # Veritatis Splendor
 
 > Área: Documentos — Encíclicas

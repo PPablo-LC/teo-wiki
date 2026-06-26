@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Renovación litúrgica
+tags: ["liturgia"]
+
+timestamp: 2026-05-26
+description: "La renovación litúrgica es el proceso de reforma y fomento de la sagrada Liturgia impulsado por el Concilio Vaticano II en la Constitución *Sacrosanctum Concilium*."
+---
 # Renovación litúrgica
 
 > Área: Liturgia

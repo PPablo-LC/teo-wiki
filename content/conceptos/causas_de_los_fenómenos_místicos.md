@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Causas de los Fenómenos Místicos
+tags: ["mística"]
+
+timestamp: 2026-05-20
+description: "Los fenómenos extraordinarios de la Mística pueden ser atribuidos a tres causas posibles: sobrenatural (Dios), preternatural (el demonio) o puramente natural (la naturaleza humana)."
+---
 # Causas de los Fenómenos Místicos
 
 > Área: Mística

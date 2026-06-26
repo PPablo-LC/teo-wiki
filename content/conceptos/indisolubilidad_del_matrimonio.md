@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Indisolubilidad del matrimonio
+tags: ["sacramental", "moral"]
+
+timestamp: 2026-06-22
+description: La indisolubilidad del matrimonio es la propiedad esencial del vínculo conyugal por la cual, una vez consumado entre bautizados, no puede ser disuelto por ningún poder humano.
+---
 # Indisolubilidad del matrimonio
 
 > Área: Sacramental / Moral

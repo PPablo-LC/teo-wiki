@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Simulación
+tags: ["moral"]
+
+timestamp: 2026-06-10
+description: La simulación es el acto de fingir exteriormente una virtud, un estado o un sacramento que no se posee interiormente.
+---
 # Simulación
 
 > Área: Moral

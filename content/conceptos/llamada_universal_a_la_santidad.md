@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Llamada universal a la santidad
+tags: ["dogmática", "espiritualidad"]
+
+timestamp: 2026-06-12
+description: La llamada universal a la santidad es la doctrina según la cual todos los fieles cristianos, cualquiera que sea su estado o condición.
+---
 # Llamada universal a la santidad
 
 > Área: Dogmática / Espiritualidad

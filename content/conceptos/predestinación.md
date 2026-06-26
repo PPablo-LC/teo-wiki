@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Predestinación
+tags: ["dogmática"]
+
+timestamp: 2026-06-12
+description: Designio eterno de Dios por el cual determina libremente llevar a ciertas criaturas racionales a la gloria eterna. Es un misterio insondable que depende únicamente de la voluntad de Dios.
+---
 # Predestinación
 
 > Área: Dogmática

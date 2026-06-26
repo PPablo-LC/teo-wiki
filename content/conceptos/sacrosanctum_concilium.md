@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sacrosanctum Concilium
+tags: ["liturgia", "documentos_conciliares"]
+
+timestamp: 2026-05-26
+description: "La *Sacrosanctum Concilium* («Sagrado Concilio») es la Constitución sobre la Sagrada Liturgia del Concilio Vaticano II, promulgada por el Papa Pablo VI el 4 de diciembre de 1963."
+---
 # Sacrosanctum Concilium
 
 > Área: Liturgia / Documentos conciliares

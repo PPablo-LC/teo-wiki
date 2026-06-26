@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Don de piedad
+tags: ["ascética", "mística"]
+
+timestamp: 2026-05-21
+description: "El don de piedad es uno de los [[siete_dones_del_espíritu_santo]] que perfecciona la virtud de la [[justicia]], dándonos un afecto filial y sobrenatural hacia Dios como Padre."
+---
 # Don de piedad
 
 > Área: Ascética / Mística

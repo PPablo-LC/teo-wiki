@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Jesucristo Redentor
+tags: ["dogmática", "cristología", "soteriología"]
+
+timestamp: 2026-06-21
+description: Jesucristo Redentor es el Hijo de Dios hecho hombre que, mediante el misterio de la Encarnación y de la Redención, es el centro del cosmos y de la historia.
+---
 # Jesucristo Redentor
 
 > Área: Dogmática / Cristología / Soteriología

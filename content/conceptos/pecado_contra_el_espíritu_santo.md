@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Pecado contra el Espíritu Santo
+tags: ["dogmática", "moral"]
+
+timestamp: 2026-05-22
+description: El pecado contra el Espíritu Santo es la blasfemia o rechazo deliberado y obstinado de la misericordia de Dios ofrecida por el Espíritu Santo.
+---
 # Pecado contra el Espíritu Santo
 
 > Área: Dogmática / Moral

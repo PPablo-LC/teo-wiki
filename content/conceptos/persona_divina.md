@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Persona divina
+tags: ["dogmática_(trinidad)"]
+
+timestamp: 2026-06-03
+description: "En el misterio de la [[trinidad]], cada una de las tres subsistencias relativas en la única naturaleza divina: el Padre, el Hijo y el [[espíritu_santo]]."
+---
 # Persona divina
 
 > Área: Dogmática (Trinidad)

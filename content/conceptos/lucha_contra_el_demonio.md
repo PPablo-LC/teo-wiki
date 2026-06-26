@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Lucha contra el Demonio
+tags: ["ascética"]
+
+timestamp: 2026-05-20
+description: El demonio es el segundo enemigo exterior del alma, tras el mundo. La lucha contra él es uno de los aspectos fundamentales del combate espiritual.
+---
 # Lucha contra el Demonio
 
 > Área: Ascética

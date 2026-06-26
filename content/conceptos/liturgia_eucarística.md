@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Liturgia eucarística
+tags: ["liturgia"]
+
+timestamp: 2026-05-29
+description: "La liturgia eucarística es la segunda gran parte de la [[misa]], que comprende desde la presentación de las ofrendas hasta la comunión."
+---
 # Liturgia eucarística
 
 > Área: Liturgia

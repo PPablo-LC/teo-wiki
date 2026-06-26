@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Endurecimiento
+tags: ["dogmática", "bíblica"]
+
+timestamp: 2026-06-02
+description: "Progresiva esclerosis espiritual del hombre separado de Dios: engrosamiento del corazón, obturación de los oídos, ceguera del espíritu."
+---
 # Endurecimiento
 
 > Área: Dogmática / Bíblica

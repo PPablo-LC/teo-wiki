@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Prevención de conflictos
+tags: ["doctrina_social"]
+
+timestamp: 2026-05-25
+description: Conjunto de acciones y políticas orientadas a evitar el estallido de conflictos armados, abordando sus causas profundas —especialmente las situaciones estructurales de injusticia.
+---
 # Prevención de conflictos
 
 > Área: Doctrina Social

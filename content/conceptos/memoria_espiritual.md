@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Memoria espiritual
+tags: ["ascética", "mística"]
+
+timestamp: 2026-05-22
+description: La memoria espiritual es la facultad del alma elevada por la gracia que conserva, reproduce y reconoce las experiencias espirituales pasadas como tales.
+---
 # Memoria espiritual
 
 > Área: Ascética / Mística

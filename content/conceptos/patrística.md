@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Patrística
+tags: ["dogmática", "historia_de_la_teología"]
+
+timestamp: 2026-05-26
+description: La patrística es el estudio de los escritos y la doctrina de los Padres de la Iglesia, desde finales del siglo I hasta aproximadamente el siglo VIII.
+---
 # Patrística
 
 > Área: Dogmática / Historia de la teología

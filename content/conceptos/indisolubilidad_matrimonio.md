@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Indisolubilidad del matrimonio
+tags: ["moral", "derecho_canónico"]
+
+timestamp: 2026-06-24
+description: La indisolubilidad del matrimonio es la propiedad del vínculo matrimonial válido y consumado entre bautizados por la cual no puede ser disuelto por ningún poder humano.
+---
 # Indisolubilidad del matrimonio
 
 > Área: Moral / Derecho canónico

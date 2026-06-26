@@ -1,3 +1,11 @@
+---
+type: Documento
+title: Concilio Vaticano II
+tags: ["documentos"]
+
+timestamp: 2026-06-11
+description: "*Ad Gentes* (misiones), *Apostolicam Actuositatem* (laicado), *Christus Dominus* (obispos), *Inter Mirifica* (comunicación social), *Optatam Totius* (formación sacerdotal)."
+---
 # Concilio Vaticano II
 
 > Área: Documentos

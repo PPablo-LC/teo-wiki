@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Catequista
+tags: ["catequesis", "eclesiología"]
+
+timestamp: 2026-05-26
+description: El catequista es el fiel cristiano llamado a transmitir la doctrina de la fe de modo orgánico y sistemático, en virtud de su vocación bautismal y con la misión recibida de la Iglesia.
+---
 # Catequista
 
 > Área: Catequesis / Eclesiología

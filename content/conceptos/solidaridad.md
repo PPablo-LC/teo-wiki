@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Solidaridad
+tags: ["moral"]
+
+timestamp: 2026-06-17
+description: Virtud social, principio de la doctrina social de la Iglesia, que expresa la exigencia directa de la fraternidad humana y cristiana.
+---
 # Solidaridad
 
 > Área: Moral

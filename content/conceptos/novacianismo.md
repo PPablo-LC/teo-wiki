@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Novacianismo
+tags: ["dogmática", "historia_de_la_iglesia"]
+
+timestamp: 2026-06-24
+description: El novacianismo fue un movimiento cismático y herético del siglo III fundado por Novaciano, un presbítero romano (ca. 200-258).
+---
 # Novacianismo
 
 > Área: Dogmática / Historia de la Iglesia

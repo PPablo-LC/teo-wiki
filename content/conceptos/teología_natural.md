@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: teología_natural
+tags: ["dogmática"]
+
+timestamp: 2026-05-29
+description: La teología natural, también llamada teodicea o conocimiento de Dios por la sola razón.
+---
 # teología_natural
 
 > Área: Dogmática

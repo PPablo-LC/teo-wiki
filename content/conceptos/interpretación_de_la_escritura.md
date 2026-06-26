@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Interpretación de la Escritura
+tags: ["dogmática", "teología_bíblica"]
+
+timestamp: 2026-06-05
+description: La interpretación de la sagrada Escritura es la lectura e interpretación de la Palabra de Dios «con el mismo Espíritu con que fue escrita» (CEC §111).
+---
 # Interpretación de la Escritura
 
 > Área: Dogmática / Teología bíblica

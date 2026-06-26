@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Curia Romana
+tags: ["eclesiología_(derecho_canónico)"]
+
+timestamp: 2026-05-29
+description: Conjunto de órganos e instituciones que asisten al Romano Pontífice en el gobierno de la Iglesia universal.
+---
 # Curia Romana
 
 > Área: Eclesiología (Derecho Canónico)

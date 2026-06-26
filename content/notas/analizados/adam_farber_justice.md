@@ -1,3 +1,9 @@
+---
+type: Análisis Doctrinal
+title: "Adam Farber — Justice: Análisis doctrinal"
+timestamp: 2026-06-03
+description: "Tercera conferencia de Adam Farber en la Catholic Men's Conference 2022. Aborda la virtud de la justicia desde la perspectiva de la comunicación: «la justicia como excelencia en la comunicación»."
+---
 # Adam Farber — Justice: Análisis doctrinal
 
 > Tipo: Análisis doctrinal

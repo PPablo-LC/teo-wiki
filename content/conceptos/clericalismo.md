@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Clericalismo
+tags: ["moral", "eclesiología"]
+
+timestamp: 2026-05-29
+description: Actitud o sistema de pensamiento que atribuye al clero un estatus de privilegio o superioridad sobre los fieles laicos.
+---
 # Clericalismo
 
 > Área: Moral / Eclesiología

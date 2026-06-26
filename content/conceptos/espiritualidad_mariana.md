@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Espiritualidad mariana
+tags: ["mariología", "espiritualidad"]
+
+timestamp: 2026-06-18
+description: La espiritualidad mariana es la dimensión de la vida cristiana que se desarrolla en comunión con la Virgen María, considerándola como modelo, maestra y mediadora en el camino hacia Cristo.
+---
 # Espiritualidad mariana
 
 > Área: Mariología / Espiritualidad

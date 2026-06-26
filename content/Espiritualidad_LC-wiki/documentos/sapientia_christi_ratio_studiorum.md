@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Sapientia Christi — Ratio studiorum de la Congregación de los Legionarios de Cristo
+tags: ["documentos_—_espiritualidad_legionaria"]
+
+timestamp: 2026-06-12
+description: "La *Ratio studiorum* de la Congregación de los Legionarios de Cristo, titulada «Sapientia Christi»."
+---
 # Sapientia Christi — Ratio studiorum de la Congregación de los Legionarios de Cristo
 
 > Área: Documentos — Espiritualidad Legionaria

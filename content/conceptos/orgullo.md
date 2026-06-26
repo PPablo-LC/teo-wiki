@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Orgullo
+tags: ["moral", "ascética"]
+
+timestamp: 2026-05-22
+description: El orgullo es el apetito desordenado de la propia excelencia, por el cual el hombre se atribuye a sí mismo lo que es de Dios, o se considera superior a lo que realmente es.
+---
 # Orgullo
 
 > Área: Moral / Ascética

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Filiación divina
+tags: ["dogmática"]
+
+timestamp: 2026-06-21
+description: Condición sobrenatural del cristiano que, por la gracia santificante, es hecho hijo adoptivo de Dios Padre, participando de la filiación natural del Verbo encarnado.
+---
 # Filiación divina
 
 > Área: Dogmática

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Apelación canónica
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-25
+description: La apelación canónica es el recurso que interpone la parte perjudicada por una sentencia, o el promotor de justicia o defensor del vínculo en las causas que requieren su presencia.
+---
 # Apelación canónica
 
 > Área: Derecho Canónico

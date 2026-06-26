@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Comunidad de apóstoles
+tags: ["espiritualidad", "eclesiología"]
+
+timestamp: 2026-06-10
+description: Una comunidad de apóstoles es un grupo de discípulos convocados por Cristo, reunidos en torno a Él, configurados con su estilo de vida y enviados en misión para hacer presente su Reino en el mundo.
+---
 # Comunidad de apóstoles
 
 > Área: Espiritualidad / Eclesiología

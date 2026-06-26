@@ -1,3 +1,8 @@
+---
+type: Concepto Teológico
+title: Mandamientos
+description: Preceptos divinos promulgados por Dios a Moisés en el Sinai (Ex 20,1-17; Dt 5,6-21) que constituyen la ley moral fundamental del Antiguo y del Nuevo Testamento.
+---
 # Mandamientos
 
 > Area: Moral

@@ -1,3 +1,8 @@
+---
+type: Consulta
+title: Primeros pasos en la vida espiritual
+description: "Dios te llama a ser santo. Sí, a ti. Desde tu [[bautismo]], llevas dentro una vida nueva: la [[gracia_santificante]], que es como una semilla de Dios plantada en tu alma."
+---
 # Primeros pasos en la vida espiritual
 
 > Área: Ascética / Catequesis

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Precepto dominical
+tags: ["moral", "derecho_canónico"]
+
+timestamp: 2026-05-26
+description: El precepto dominical es la obligación grave que tienen los fieles católicos de participar en la santa Misa los domingos y demás fiestas de precepto.
+---
 # Precepto dominical
 
 > Área: Moral / Derecho canónico

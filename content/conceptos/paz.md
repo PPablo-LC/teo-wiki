@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Paz
+tags: ["moral"]
+
+timestamp: 2026-06-10
+description: "Fruto del Espíritu Santo que consiste en la tranquilidad del orden (tranquillitas ordinis): orden del hombre con Dios, consigo mismo y con el prójimo."
+---
 # Paz
 
 > Área: Moral

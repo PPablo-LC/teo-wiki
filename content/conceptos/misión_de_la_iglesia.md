@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Misión de la Iglesia
+tags: ["eclesiología"]
+
+timestamp: 2026-05-22
+description: "La misión de la Iglesia es la continuación de la misión de Cristo y del Espíritu Santo: anunciar y dar testimonio, actualizar y extender el Misterio de la Comunión de la Santísima Trinidad."
+---
 # Misión de la Iglesia
 
 > Área: Eclesiología

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Consolación
+tags: ["teología_espiritual"]
+
+timestamp: 2026-06-19
+description: Alivio y confortamiento que Dios otorga al alma afligida. En el AT, Yahveh se revela como el verdadero Consolador de su pueblo, que responde al abandono y al exilio con su amor misericordioso.
+---
 # Consolación
 
 > Área: Teología espiritual

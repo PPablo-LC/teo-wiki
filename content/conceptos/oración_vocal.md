@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Oración vocal
+tags: ["ascética"]
+
+timestamp: 2026-05-22
+description: La oración vocal es la oración que se expresa mediante palabras, mentales o vocales, asociando el cuerpo a la oración interior del corazón.
+---
 # Oración vocal
 
 > Área: Ascética

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Comunicar esperanza
+tags: ["espiritualidad", "pastoral"]
+
+timestamp: 2026-06-10
+description: "La comunicación de la [[esperanza]] cristiana es la tarea de la Iglesia de proclamar, en medio de un tiempo marcado por la desorientación cultural y el dolor existencial."
+---
 # Comunicar esperanza
 
 > Área: Espiritualidad / Pastoral

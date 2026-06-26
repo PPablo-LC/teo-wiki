@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sangre
+tags: ["dogmática", "sacramental"]
+
+timestamp: 2026-06-02
+description: En la teología bíblica, la sangre es el principio de la vida, pertenece a Dios y tiene valor expiatorio.
+---
 # Sangre
 
 > Área: Dogmática / Sacramental

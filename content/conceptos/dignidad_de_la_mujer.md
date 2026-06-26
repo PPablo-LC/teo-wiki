@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Dignidad de la mujer
+tags: ["antropología_teológica", "moral"]
+
+timestamp: 2026-06-20
+description: La dignidad de la mujer es el valor y respeto que le corresponden como persona creada a imagen y semejanza de Dios, con igual dignidad que el varón en cuanto persona.
+---
 # Dignidad de la mujer
 
 > Área: Antropología teológica / Moral

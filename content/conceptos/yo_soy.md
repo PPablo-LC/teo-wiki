@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Yo Soy
+tags: ["cristología"]
+
+timestamp: 2026-06-22
+description: El nombre divino YHWH —«Yo soy el que soy» (Ex 3,14)— aplicado por Jesús a sí mismo en el Evangelio de Juan, revelando su identidad divina y su consubstancialidad con el Padre.
+---
 # Yo Soy
 
 > Área: Cristología

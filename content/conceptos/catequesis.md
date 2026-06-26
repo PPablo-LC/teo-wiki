@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Catequesis
+tags: ["dogmática", "pedagogía_de_la_fe"]
+
+timestamp: 2026-05-22
+description: La catequesis es una educación en la fe de los niños, jóvenes y adultos, que comprende especialmente una enseñanza de la doctrina cristiana, dada de modo orgánico y sistemático.
+---
 # Catequesis
 
 > Área: Dogmática / Pedagogía de la fe

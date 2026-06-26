@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ingratitud
+tags: ["moral"]
+
+timestamp: 2026-06-10
+description: La ingratitud es el vicio opuesto a la virtud de la gratitud, que consiste en la falta de reconocimiento, alabanza o recompensa del beneficio recibido, o en devolver mal por bien.
+---
 # Ingratitud
 
 > Área: Moral

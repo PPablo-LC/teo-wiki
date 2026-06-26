@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ética Médica
+tags: ["moral", "bioética"]
+
+timestamp: 2026-06-23
+description: Rama de la teología moral que aplica los principios de la ley natural y la revelación cristiana a las cuestiones relacionadas con la práctica de la medicina.
+---
 # Ética Médica
 
 > Área: Moral / Bioética

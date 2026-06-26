@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: ECYD
+tags: ["espiritualidad", "apostolado"]
+
+timestamp: 2026-05-31
+description: ECYD (acrónimo de «Encuentros, Convicciones y Decisiones») es la organización dirigida por la Federación Regnum Christi para la evangelización y formación de adolescentes.
+---
 # ECYD
 
 > Área: Espiritualidad / Apostolado

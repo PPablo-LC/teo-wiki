@@ -1,3 +1,11 @@
+---
+type: Persona
+title: San Celestino I
+tags: ["patrística_—_papas"]
+
+timestamp: 2026-06-25
+description: San Celestino I fue Papa de la Iglesia Católica desde 422 hasta 432. Durante su pontificado se enfrentó a las herejías nestoriana y pelagiana.
+---
 # San Celestino I
 
 > Área: Patrística — Papas

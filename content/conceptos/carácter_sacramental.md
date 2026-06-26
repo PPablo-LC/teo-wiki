@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Carácter Sacramental
+tags: ["sacramental"]
+
+timestamp: 2026-06-15
+description: "El carácter sacramental es un signo espiritual e indeleble impreso en el alma por tres sacramentos: Bautismo, Confirmación y Orden Sacerdotal."
+---
 # Carácter Sacramental
 
 > Área: Sacramental

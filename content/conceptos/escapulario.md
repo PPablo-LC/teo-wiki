@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Escapulario
+tags: ["sacramental", "piedad_popular"]
+
+timestamp: 2026-05-22
+description: "El escapulario es un [[sacramental]] consistente en dos pequeños trozos de tela bendecida unidos por cintas."
+---
 # Escapulario
 
 > Área: Sacramental / Piedad popular

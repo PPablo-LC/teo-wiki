@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Imperfección
+tags: ["ascética"]
+
+timestamp: 2026-05-22
+description: La imperfección es un acto en sí mismo bueno que se realiza con menor intensidad de la que sería posible y conveniente.
+---
 # Imperfección
 
 > Área: Ascética

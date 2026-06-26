@@ -1,3 +1,8 @@
+---
+type: Documento
+title: Don y Misterio
+description: "*Don y Misterio* es un libro autobiográfico de [[juan_pablo_ii]] publicado con ocasión del 50.º aniversario de su ordenación sacerdotal (1946-1996)."
+---
 # Don y Misterio
 
 > Tipo: Libro autobiográfico

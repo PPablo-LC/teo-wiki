@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Consejos evangélicos
+tags: ["moral", "ascética"]
+
+timestamp: 2026-05-25
+description: Los consejos evangélicos son las invitaciones que Cristo dirige en el Evangelio a una vida de mayor perfección, más allá de lo estrictamente mandado.
+---
 # Consejos evangélicos
 
 > Área: Moral / Ascética

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Homoousios
+tags: ["dogmática_(cristología", "trinidad)"]
+
+timestamp: 2026-05-26
+description: "*Homoousios* (ὁμοούσιος) es un término griego que significa «de la misma sustancia» o «consubstancial»."
+---
 # Homoousios
 
 > Área: Dogmática (Cristología / Trinidad)

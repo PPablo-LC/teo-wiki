@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Materialismo
+tags: ["filosofía", "moral"]
+
+timestamp: 2026-05-26
+description: "El materialismo es una doctrina filosófica que reduce toda realidad a la materia, negando la existencia de realidades espirituales como Dios, el [[alma]]."
+---
 # Materialismo
 
 > Área: Filosofía / Moral

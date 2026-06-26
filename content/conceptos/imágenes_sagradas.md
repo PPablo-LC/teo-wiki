@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Imágenes sagradas
+tags: ["dogmática", "liturgia"]
+
+timestamp: 2026-05-22
+description: Las imágenes sagradas son representaciones visibles de Cristo, la Santísima Virgen, los ángeles y los santos, destinadas al culto litúrgico y a la piedad cristiana.
+---
 # Imágenes sagradas
 
 > Área: Dogmática / Liturgia

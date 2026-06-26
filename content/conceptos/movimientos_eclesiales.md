@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Movimientos eclesiales
+tags: ["eclesiología"]
+
+timestamp: 2026-06-13
+description: Realidades eclesiales concretas, nacidas del Espíritu Santo, que integran a fieles de diversos estados de vida en torno a un carisma fundacional, con un itinerario de fe.
+---
 # Movimientos eclesiales
 
 > Área: Eclesiología

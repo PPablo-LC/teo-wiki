@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Corresponsabilidad laical
+tags: ["eclesiología"]
+
+timestamp: 2026-06-17
+description: Principio eclesial por el cual los fieles laicos, en virtud de su dignidad bautismal común, participan activa y responsablemente en la vida y misión de la Iglesia.
+---
 # Corresponsabilidad laical
 
 > Área: Eclesiología

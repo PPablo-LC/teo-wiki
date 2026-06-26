@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Bienaventuranza
+tags: ["dogmática_—_escatología"]
+
+timestamp: 2026-06-04
+description: La bienaventuranza eterna o visión beatífica es el fin último del hombre, que consiste en la posesión perfecta de Dios mismo.
+---
 # Bienaventuranza
 
 > Área: Dogmática — Escatología

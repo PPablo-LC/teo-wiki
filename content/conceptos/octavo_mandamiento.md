@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Octavo mandamiento
+tags: ["moral"]
+
+timestamp: 2026-05-26
+description: "El octavo mandamiento del Decálogo —«No darás falso testimonio ni mentirás» (Ex 20,16)— prohíbe la [[mentira]], la [[calumnia]]."
+---
 # Octavo mandamiento
 
 > Área: Moral

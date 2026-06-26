@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Confesión de la fe
+tags: ["dogmática"]
+
+timestamp: 2026-05-22
+description: La confesión de la fe (o profesión de fe) es el acto por el cual el creyente, personal y comunitariamente.
+---
 # Confesión de la fe
 
 > Área: Dogmática

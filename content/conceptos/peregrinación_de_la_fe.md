@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Peregrinación de la fe
+tags: ["mariología", "ascética", "eclesiología"]
+
+timestamp: 2026-06-18
+description: La «peregrinación de la fe» es la expresión con que el Concilio Vaticano II (LG §58) describe el camino de fe de la Virgen María.
+---
 # Peregrinación de la fe
 
 > Área: Mariología / Ascética / Eclesiología

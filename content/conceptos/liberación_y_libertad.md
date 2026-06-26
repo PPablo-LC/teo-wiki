@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Liberación y Libertad
+tags: ["dogmática", "moral"]
+
+timestamp: 2026-06-02
+description: La liberación bíblica es la intervención salvífica de Dios que rescata a su pueblo de la esclavitud (Egipto, Babilonia) y, en plenitud, la liberación del pecado y de la muerte obrada por Jesucristo.
+---
 # Liberación y Libertad
 
 > Área: Dogmática, Moral

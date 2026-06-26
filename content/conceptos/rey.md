@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Rey
+tags: ["bíblica", "cristología", "eclesiología"]
+
+timestamp: 2026-06-02
+description: La institución regia en la revelación bíblica sufre una purificación radical respecto de las concepciones míticas del antiguo Oriente.
+---
 # Rey
 
 > Área: Bíblica / Cristología / Eclesiología

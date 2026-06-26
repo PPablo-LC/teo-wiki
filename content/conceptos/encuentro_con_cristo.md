@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Encuentro con Cristo
+tags: ["espiritualidad", "cristología"]
+
+timestamp: 2026-06-20
+description: El encuentro con Cristo es la experiencia personal y comunitaria de contacto con Jesucristo vivo, presente en su Iglesia por medio de la Escritura, la Liturgia, los Sacramentos y los pobres.
+---
 # Encuentro con Cristo
 
 > Área: Espiritualidad / Cristología

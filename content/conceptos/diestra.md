@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Diestra
+tags: ["bíblica"]
+
+timestamp: 2026-06-02
+description: La diestra (mano derecha) es símbolo bíblico del poder de Dios y del favor divino. Como puesto de honor, designa la situación privilegiada del Mesías junto a Dios y de los justos en el juicio final.
+---
 # Diestra
 
 > Área: Bíblica

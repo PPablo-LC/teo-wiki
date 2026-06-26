@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Educación litúrgica
+tags: ["liturgia"]
+
+timestamp: 2026-05-29
+description: La educación litúrgica es la formación que capacita a fieles y clero para comprender, celebrar y vivir la sagrada liturgia, promoviendo aquella participación plena.
+---
 # Educación litúrgica
 
 > Área: Liturgia

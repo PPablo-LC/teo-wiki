@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Completas
+tags: ["liturgia"]
+
+timestamp: 2026-05-29
+description: "Completas (del latín *completorium*, «cumplimiento») es la última hora canónica de la Liturgia de las Horas, que se reza antes del descanso nocturno."
+---
 # Completas
 
 > Área: Liturgia

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Perdón de los pecados
+tags: ["sacramental"]
+
+timestamp: 2026-06-21
+description: "Potestad otorgada por Cristo a la Iglesia de remitir los pecados cometidos después del [[bautismo]], ejercida de modo habitual en el sacramento de la [[penitencia]] o [[reconciliación]]."
+---
 # Perdón de los pecados
 
 > Área: Sacramental

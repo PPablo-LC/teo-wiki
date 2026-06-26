@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Eclesiología de la comunión
+tags: ["eclesiología"]
+
+timestamp: 2026-06-13
+description: "Comprensión teológica de la Iglesia como misterio de comunión (*koinonía*), que constituye su naturaleza más profunda."
+---
 # Eclesiología de la comunión
 
 > Área: Eclesiología

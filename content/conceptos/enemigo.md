@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Enemigo
+tags: ["moral", "bíblica"]
+
+timestamp: 2026-06-02
+description: Persona o realidad que se opone hostilmente al justo o al pueblo de Dios.
+---
 # Enemigo
 
 > Área: Moral / Bíblica

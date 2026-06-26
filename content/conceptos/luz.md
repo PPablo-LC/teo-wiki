@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Luz
+tags: ["dogmática_(teología_fundamental)"]
+
+timestamp: 2026-05-29
+description: La luz es símbolo bíblico fundamental que designa a Dios mismo en cuanto fuente de verdad y vida, a Cristo como Revelador del Padre, a la fe como iluminación del entendimiento.
+---
 # Luz
 
 > Área: Dogmática (Teología fundamental)

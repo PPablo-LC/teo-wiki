@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Santidad de la Iglesia
+tags: ["eclesiología"]
+
+timestamp: 2026-05-26
+description: "La santidad de la Iglesia es una de las cuatro [[notas_de_la_iglesia]] profesadas en el Credo."
+---
 # Santidad de la Iglesia
 
 > Área: Eclesiología

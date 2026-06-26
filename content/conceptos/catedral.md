@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Catedral
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: La catedral es la iglesia principal de la diócesis, sede de la cátedra del Obispo diocesano, que simboliza su autoridad magisterial y pastoral como pastor de la Iglesia particular.
+---
 # Catedral
 
 > Área: Derecho Canónico

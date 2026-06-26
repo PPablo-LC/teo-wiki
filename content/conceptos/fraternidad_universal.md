@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Fraternidad universal
+tags: ["moral", "eclesiología"]
+
+timestamp: 2026-06-19
+description: La fraternidad universal es el vínculo de hermandad que une a todos los hombres en cuanto criaturas del mismo Dios y Padre, llamados a vivir como hermanos sin discriminación alguna por razón de raza.
+---
 # Fraternidad universal
 
 > Área: Moral / Eclesiología

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ánimas del purgatorio
+tags: ["escatología"]
+
+timestamp: 2026-05-26
+description: Almas de los fieles que, habiendo muerto en gracia de Dios pero todavía imperfectamente purificadas, pasan por la purificación final del [[purgatorio]] antes de entrar en el [[cielo]].
+---
 # Ánimas del purgatorio
 
 > Área: Escatología

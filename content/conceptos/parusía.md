@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Parusía
+tags: ["dogmática_—_escatología"]
+
+timestamp: 2026-05-25
+description: La segunda venida gloriosa de Jesucristo al final de los tiempos, cuando vendrá con poder y majestad para juzgar a vivos y muertos.
+---
 # Parusía
 
 > Área: Dogmática — Escatología

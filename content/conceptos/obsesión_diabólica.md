@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Obsesión Diabólica
+tags: ["ascética_y_mística"]
+
+timestamp: 2026-05-20
+description: La obsesión diabólica es una forma de acción diabólica en la que el demonio atormenta al hombre desde fuera de manera tan fuerte.
+---
 # Obsesión Diabólica
 
 > Área: Ascética y Mística

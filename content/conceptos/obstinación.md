@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Obstinación
+tags: ["moral_fundamental"]
+
+timestamp: 2026-06-20
+description: "La obstinación (también llamada *obduratio* o endurecimiento del corazón) es la persistente adherence a un propósito malo a pesar de las advertencias, los castigos o las gracias divinas."
+---
 # Obstinación
 
 > Área: Moral fundamental

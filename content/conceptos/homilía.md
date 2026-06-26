@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Homilía
+tags: ["liturgia", "pastoral"]
+
+timestamp: 2026-06-10
+description: Forma de predicación que es parte de la misma liturgia, reservada al sacerdote o al diácono, en la que se exponen, partiendo del texto sagrado.
+---
 # Homilía
 
 > Área: Liturgia / Pastoral

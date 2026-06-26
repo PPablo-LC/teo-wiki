@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Consagración legionaria
+tags: ["espiritualidad_legionaria"]
+
+timestamp: 2026-06-14
+description: Oración de consagración propia de la Congregación de los Legionarios de Cristo, que se recita en las principales fiestas de la Legión y del Regnum Christi, antes de la bendición eucarística.
+---
 # Consagración legionaria
 
 > Área: Espiritualidad legionaria

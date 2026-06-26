@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Identidad cristiana
+tags: ["eclesiología", "historia_de_la_iglesia"]
+
+timestamp: 2026-06-20
+description: La identidad cristiana es el conjunto de rasgos y valores morales que la fe en Jesucristo ha impreso en la fisonomía de un pueblo o cultura, forjados por la evangelización a lo largo de su historia.
+---
 # Identidad cristiana
 
 > Área: Eclesiología / Historia de la Iglesia

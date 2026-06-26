@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Conflagración final
+tags: ["escatología"]
+
+timestamp: 2026-06-16
+description: La conflagración final es el incendio purificador con que Dios limpiará el mundo al fin de los tiempos.
+---
 # Conflagración final
 
 > Área: Escatología

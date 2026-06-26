@@ -1,3 +1,11 @@
+---
+type: Documento
+title: Cruzando el umbral de la esperanza
+tags: ["documentos_—_libros"]
+
+timestamp: 2026-06-21
+description: "El libro consta de una introducción editorial de Vittorio Messori y 35 capítulos-pregunta que abarcan los núcleos fundamentales de la fe cristiana:"
+---
 # Cruzando el umbral de la esperanza
 
 > Área: Documentos — Libros

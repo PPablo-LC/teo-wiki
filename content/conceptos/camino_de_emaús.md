@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Camino de Emaús
+tags: ["sagrada_escritura", "espiritualidad"]
+
+timestamp: 2026-06-03
+description: Episodio evangélico narrado en Lc 24,13-35 en el que Cristo resucitado se aparece a dos discípulos que caminaban hacia Emaús, les explica las Escrituras y se da a conocer en la fracción del pan.
+---
 # Camino de Emaús
 
 > Área: Sagrada Escritura / Espiritualidad

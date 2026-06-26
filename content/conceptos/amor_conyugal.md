@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Amor conyugal
+tags: ["moral", "sacramental"]
+
+timestamp: 2026-06-20
+description: Amor total, exclusivo y definitivo entre los esposos, fundado en la entrega sincera de sí mismos, que constituye la realidad esencial para definir el matrimonio y la familia.
+---
 # Amor conyugal
 
 > Área: Moral / Sacramental

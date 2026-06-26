@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Astucia
+tags: ["moral"]
+
+timestamp: 2026-06-09
+description: "La astucia es un vicio opuesto a la [[virtud_de_la_prudencia]] que tiene cierta semejanza con ella, consistente en usar medios fingidos o aparentes —no verdaderos— para conseguir un fin."
+---
 # Astucia
 
 > Área: Moral

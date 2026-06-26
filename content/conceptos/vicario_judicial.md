@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Vicario judicial
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: Sacerdote designado por el Obispo diocesano como juez principal de la diócesis, que constituye con otros jueces el tribunal diocesano y ejerce la potestad judicial en nombre del Obispo.
+---
 # Vicario judicial
 
 > Área: Derecho Canónico

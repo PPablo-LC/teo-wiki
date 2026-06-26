@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Conformidad con la voluntad de Dios
+tags: ["ascética", "mística"]
+
+timestamp: 2026-05-20
+description: La conformidad con la voluntad de Dios consiste en una amorosa, entera y entrañable sumisión y concordia de nuestra voluntad con la de Dios en todo cuanto disponga o permita de nosotros.
+---
 # Conformidad con la voluntad de Dios
 
 > Área: Ascética / Mística

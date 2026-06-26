@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Justicia eclesiástica
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: La administración de justicia en la Iglesia es la función por la cual la autoridad eclesiástica competente, mediante el proceso canónico, dirime las controversias, declara los derechos de los fieles.
+---
 # Justicia eclesiástica
 
 > Área: Derecho Canónico

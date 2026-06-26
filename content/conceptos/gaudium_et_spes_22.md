@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Gaudium et Spes 22
+tags: ["cristología", "antropología_teológica"]
+
+timestamp: 2026-06-22
+description: "El número 22 de la Constitución Pastoral *Gaudium et Spes* del Concilio Vaticano II contiene una de las afirmaciones cristológicas más citadas del Magisterio contemporáneo."
+---
 # Gaudium et Spes 22
 
 > Área: Cristología / Antropología teológica

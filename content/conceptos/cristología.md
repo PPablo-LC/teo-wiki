@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cristología
+tags: ["dogmática_(cristología)"]
+
+timestamp: 2026-06-21
+description: "Rama de la teología dogmática que estudia la persona y la obra de [[jesucristo]]."
+---
 # Cristología
 
 > Área: Dogmática (Cristología)

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Gracia de unión
+tags: ["cristología"]
+
+timestamp: 2026-06-12
+description: "La gracia de unión (*gratia unionis*) es la misma unión personal de la naturaleza humana de Cristo con el Verbo, en virtud de la cual la humanidad de Cristo subsiste en la Persona divina del Hijo."
+---
 # Gracia de unión
 
 > Área: Cristología

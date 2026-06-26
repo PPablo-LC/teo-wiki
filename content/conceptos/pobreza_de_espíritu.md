@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Pobreza de Espíritu
+tags: ["ascética"]
+
+timestamp: 2026-05-22
+description: "La primera bienaventuranza del Sermón de la Montaña: \"Bienaventurados los pobres en el espíritu, porque de ellos es el reino de los cielos\" (Mt 5,3). Consiste en el desprendimiento interior de los ..."
+---
 # Pobreza de Espíritu
 
 > Área: Ascética

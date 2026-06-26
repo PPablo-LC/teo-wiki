@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cristo, luz del mundo
+tags: ["dogmática", "cristología"]
+
+timestamp: 2026-06-22
+description: "Jesucristo es la luz del mundo que ilumina a todo hombre. Jesús declara: «Yo soy la luz del mundo; el que me sigue no andará en tinieblas, sino que tendrá la luz de la vida» (Jn 8, 12)."
+---
 # Cristo, luz del mundo
 
 > Área: Dogmática / Cristología

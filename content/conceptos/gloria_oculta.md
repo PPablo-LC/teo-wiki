@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Gloria oculta
+tags: ["espiritualidad", "dogmática"]
+
+timestamp: 2026-06-10
+description: La «gloria oculta» es la presencia velada de la gloria divina ya perceptible en esta vida, anticipadamente, a través de los santos, los sacramentos y la gracia que actúa en el alma.
+---
 # Gloria oculta
 
 > Área: Espiritualidad / Dogmática

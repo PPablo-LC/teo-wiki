@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sacramento
+tags: ["sacramental"]
+
+timestamp: 2026-06-14
+description: El sacramento es un signo sensible instituido por Nuestro Señor Jesucristo para significar y producir la gracia santificante en el alma.
+---
 # Sacramento
 
 > Área: Sacramental

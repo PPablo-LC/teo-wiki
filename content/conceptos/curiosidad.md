@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Curiosidad
+tags: ["moral", "ascética"]
+
+timestamp: 2026-06-11
+description: La curiosidad es, en teología moral, el vicio opuesto a la virtud de la estudiosidad.
+---
 # Curiosidad
 
 > Área: Moral / Ascética

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Educación para la paz
+tags: ["moral", "doctrina_social"]
+
+timestamp: 2026-06-23
+description: "La educación para la paz es el proceso formativo que abre las mentes y los corazones a los valores fundamentales de la convivencia pacífica: la verdad, la justicia, el amor y la libertad."
+---
 # Educación para la paz
 
 > Área: Moral / Doctrina social

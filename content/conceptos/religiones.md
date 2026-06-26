@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Religiones
+tags: ["teología_de_las_religiones"]
+
+timestamp: 2026-06-21
+description: Conjunto de tradiciones religiosas no cristianas consideradas desde la perspectiva de la Revelación cristiana.
+---
 # Religiones
 
 > Área: Teología de las religiones

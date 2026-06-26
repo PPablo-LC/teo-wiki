@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Autonomía de las realidades terrenas
+tags: ["moral", "doctrina_social"]
+
+timestamp: 2026-06-19
+description: La autonomía de las realidades terrenas es el principio según el cual las cosas creadas y la sociedad misma gozan de leyes y valores propios que el hombre ha de descubrir.
+---
 # Autonomía de las realidades terrenas
 
 > Área: Moral / Doctrina Social

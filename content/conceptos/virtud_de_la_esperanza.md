@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Virtud de la esperanza
+tags: ["dogmática", "moral"]
+
+timestamp: 2026-06-23
+description: "La esperanza es una [[virtud_infusa]] teologal, sobrenatural y gratuita, por la que deseamos alcanzar la bienaventuranza eterna y confiamos en alcanzarla por la ayuda de la gracia de Dios."
+---
 # Virtud de la esperanza
 
 > Área: Dogmática / Moral

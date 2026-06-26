@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Primicias
+tags: ["bíblica", "teología_del_culto"]
+
+timestamp: 2026-06-02
+description: Ofrenda de los primeros productos de la tierra y de los primogénitos del ganado y del hombre, establecida en la ley de Israel como reconocimiento a Dios.
+---
 # Primicias
 
 > Área: Bíblica, Teología del culto

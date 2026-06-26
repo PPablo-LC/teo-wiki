@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Astros
+tags: ["creación", "teología"]
+
+timestamp: 2026-06-02
+description: Los astros (sol, luna, planetas y estrellas) son en la Escritura criaturas de Dios, no divinidades.
+---
 # Astros
 
 > Área: Creación / Teología

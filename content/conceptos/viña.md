@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Viña
+tags: ["escritura", "eclesiología"]
+
+timestamp: 2026-06-02
+description: La viña es una imagen bíblica del pueblo de Dios plantado por el Señor. Israel es la viña del Señor de los Ejércitos (Is 5,7).
+---
 # Viña
 
 > Área: Escritura / Eclesiología

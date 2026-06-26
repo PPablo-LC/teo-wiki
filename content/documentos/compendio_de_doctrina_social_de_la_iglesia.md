@@ -1,3 +1,11 @@
+---
+type: Documento
+title: Compendio de Doctrina Social de la Iglesia
+tags: ["documentos"]
+
+timestamp: 2026-06-11
+description: "El Compendio sintetiza la enseñanza social de la Iglesia desde *Rerum Novarum* (1891) hasta el magisterio de Juan Pablo II."
+---
 # Compendio de Doctrina Social de la Iglesia
 
 > Área: Documentos

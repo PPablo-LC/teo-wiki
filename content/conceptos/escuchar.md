@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Escuchar
+tags: ["bíblica", "espiritualidad"]
+
+timestamp: 2026-06-02
+description: Actitud fundamental de la fe que, según la Biblia, es esencialmente audición de la palabra de Dios. Escuchar no es solo oír sino acoger la palabra en el corazón, obedecerla y ponerla en práctica.
+---
 # Escuchar
 
 > Área: Bíblica / Espiritualidad

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Deuterocanónicos
+tags: ["sagrada_escritura_(canon)"]
+
+timestamp: 2026-06-24
+description: Los libros deuterocanónicos son aquellos del Antiguo Testamento cuya canonicidad fue discutida en algunos círculos de la Iglesia primitiva (particularmente entre los judíos de Palestina y, más tarde.)
+---
 # Deuterocanónicos
 
 > Área: Sagrada Escritura (Canon)

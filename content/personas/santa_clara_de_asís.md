@@ -1,3 +1,11 @@
+---
+type: Persona
+title: Santa Clara de Asís
+tags: ["hagiografía"]
+
+timestamp: 2026-06-03
+description: Santa Clara de Asís (1194-1253), fundadora de las Clarisas (Orden de las Damas Pobres).
+---
 # Santa Clara de Asís
 
 > Área: Hagiografía

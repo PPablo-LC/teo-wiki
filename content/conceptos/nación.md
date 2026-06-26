@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Nación
+tags: ["doctrina_social", "eclesiología"]
+
+timestamp: 2026-06-18
+description: La nación es una comunidad humana que reside en un territorio determinado y se distingue de las otras por su propia cultura, lengua, historia y tradiciones.
+---
 # Nación
 
 > Área: Doctrina Social / Eclesiología

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Tristeza
+tags: ["moral", "ascética"]
+
+timestamp: 2026-06-12
+description: "La tristeza espiritual —y particularmente la [[acedia]]— es una aflicción del alma que nace de la percepción del mal presente o de la ausencia del bien, especialmente del bien espiritual."
+---
 # Tristeza
 
 > Área: Moral / Ascética

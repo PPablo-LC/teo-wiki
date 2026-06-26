@@ -1,3 +1,8 @@
+---
+type: Documento
+title: Dives in Misericordia
+description: "*Dives in Misericordia* («Rico en misericordia», tomado de Ef 2,4) es la segunda encíclica de Juan Pablo II, publicada el 30 de noviembre de 1980, primer domingo de Adviento."
+---
 # Dives in Misericordia
 
 > Carta Encíclica sobre la Misericordia Divina

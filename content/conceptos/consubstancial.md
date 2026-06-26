@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Consubstancial
+tags: ["dogmática_(trinidad)"]
+
+timestamp: 2026-05-26
+description: "Término que traduce el griego *homoousios* (de la misma sustancia), usado por el Concilio de Nicea I (325) para afirmar que el Hijo es de la misma y única sustancia divina del Padre."
+---
 # Consubstancial
 
 > Área: Dogmática (Trinidad)

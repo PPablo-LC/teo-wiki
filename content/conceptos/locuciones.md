@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Locuciones
+tags: ["mística"]
+
+timestamp: 2026-05-20
+description: Fenómeno místico de orden cognoscitivo consistente en fórmulas que enuncian afirmaciones o deseos, percibidas sobrenaturalmente.
+---
 # Locuciones
 
 > Área: Mística

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Gratuidad
+tags: ["moral", "teología_espiritual"]
+
+timestamp: 2026-06-14
+description: La gratuidad es la cualidad del amor que se da sin esperar retribución, reflejo del amor mismo de Dios que crea, salva y santifica por pura iniciativa de amor.
+---
 # Gratuidad
 
 > Área: Moral / Teología espiritual

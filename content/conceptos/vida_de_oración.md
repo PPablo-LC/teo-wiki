@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Vida de oración
+tags: ["ascética", "mística"]
+
+timestamp: 2026-06-12
+description: La vida de oración es el conjunto de ejercicios y disposiciones por los cuales el alma se mantiene en comunicación habitual con Dios.
+---
 # Vida de oración
 
 > Área: Ascética / Mística

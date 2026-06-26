@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sacramento del orden
+tags: ["sacramental"]
+
+timestamp: 2026-05-26
+description: El sacramento del orden es el sacramento instituido por Nuestro Señor Jesucristo por el que se confiere la potestad espiritual y la gracia necesaria para el recto desempeño de los ministerios...
+---
 # Sacramento del orden
 
 > Área: Sacramental

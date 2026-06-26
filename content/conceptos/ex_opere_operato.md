@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ex opere operato
+tags: ["dogmática_—_sacramentos"]
+
+timestamp: 2026-06-25
+description: "*Ex opere operato* (locución latina.)"
+---
 # Ex opere operato
 
 > Área: Dogmática — Sacramentos

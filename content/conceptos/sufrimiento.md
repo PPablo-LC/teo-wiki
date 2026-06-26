@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sufrimiento
+tags: ["dogmática", "moral"]
+
+timestamp: 2026-06-05
+description: El sufrimiento es la experiencia del mal que afecta al hombre en su cuerpo y su espíritu.
+---
 # Sufrimiento
 
 > Área: Dogmática / Moral

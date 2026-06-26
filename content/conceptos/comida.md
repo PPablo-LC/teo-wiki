@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Comida
+tags: ["sacramental", "eucaristía", "escatología"]
+
+timestamp: 2026-06-02
+description: Acto humano de compartir el alimento que, tanto en el AT como en el NT, posee una dimensión sagrada.
+---
 # Comida
 
 > Área: Sacramental / Eucaristía / Escatología

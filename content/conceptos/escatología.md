@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Escatología
+tags: ["escatología"]
+
+timestamp: 2026-05-26
+description: Rama de la teología que trata de las realidades últimas o finales.
+---
 # Escatología
 
 > Área: Escatología

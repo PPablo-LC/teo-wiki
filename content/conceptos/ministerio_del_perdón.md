@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ministerio del perdón
+tags: ["sacramental", "eclesiología"]
+
+timestamp: 2026-06-22
+description: El ministerio del perdón es la potestad que Jesucristo confiere a los Apóstoles y a sus sucesores de perdonar los pecados en su nombre.
+---
 # Ministerio del perdón
 
 > Área: Sacramental / Eclesiología

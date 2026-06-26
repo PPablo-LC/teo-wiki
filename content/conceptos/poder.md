@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Poder
+tags: ["moral_(doctrina_social)"]
+
+timestamp: 2026-05-29
+description: El poder o autoridad legítima es la cualidad en virtud de la cual personas o instituciones dan leyes y órdenes a los hombres y esperan la correspondiente obediencia.
+---
 # Poder
 
 > Área: Moral (Doctrina Social)

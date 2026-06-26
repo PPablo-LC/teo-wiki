@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cristo, Señor del sábado
+tags: ["cristología", "dogmática"]
+
+timestamp: 2026-06-22
+description: Jesús se declara «Señor del sábado» (Mt 12,8), afirmando su autoridad divina sobre la Ley del descanso sabático dada por Dios a Israel.
+---
 # Cristo, Señor del sábado
 
 > Área: Cristología / Dogmática

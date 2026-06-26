@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Profesión de Tomás
+tags: ["cristología", "dogmática"]
+
+timestamp: 2026-06-22
+description: "La profesión de fe de Tomás: «¡Señor mío y Dios mío!» (Jn 20,28) es uno de los testimonios más explícitos de la divinidad de Cristo en el Nuevo Testamento."
+---
 # Profesión de Tomás
 
 > Área: Cristología / Dogmática

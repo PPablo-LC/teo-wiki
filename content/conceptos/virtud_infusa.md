@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Virtud infusa
+tags: ["moral", "dogmática"]
+
+timestamp: 2026-05-22
+description: La virtud infusa es un hábito sobrenatural infundido por Dios en el alma junto con la gracia santificante.
+---
 # Virtud infusa
 
 > Área: Moral / Dogmática

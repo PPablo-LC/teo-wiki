@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Extranjero
+tags: ["bíblica", "moral"]
+
+timestamp: 2026-06-02
+description: Persona que no pertenece al pueblo de Israel. La Biblia distingue entre el extranjero de paso (nokri) y el residente (ger).
+---
 # Extranjero
 
 > Área: Bíblica / Moral

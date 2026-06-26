@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Inauguración del Reino
+tags: ["cristología", "escatología"]
+
+timestamp: 2026-06-22
+description: La inauguración del Reino de Dios es la irrupción del señorío salvífico de Dios en la historia mediante la persona y la predicación de Jesucristo.
+---
 # Inauguración del Reino
 
 > Área: Cristología / Escatología

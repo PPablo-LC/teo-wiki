@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Fe de la Iglesia
+tags: ["dogmática"]
+
+timestamp: 2026-06-19
+description: La fe de la Iglesia es la fe que la Iglesia, como comunidad de los creyentes y Cuerpo místico de Cristo, profesa, guarda y transmite.
+---
 # Fe de la Iglesia
 
 > Área: Dogmática

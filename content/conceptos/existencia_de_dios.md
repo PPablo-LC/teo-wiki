@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Existencia de Dios
+tags: ["teología_fundamental", "teología_natural"]
+
+timestamp: 2026-06-21
+description: "La cuestión sobre si Dios existe («*An Deus sit*») es la pregunta fundamental de toda existencia humana."
+---
 # Existencia de Dios
 
 > Área: Teología fundamental / Teología natural

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Unión Padre-Hijo
+tags: ["cristología", "trinidad"]
+
+timestamp: 2026-06-22
+description: La íntima comunión entre el Padre y el Hijo revelada por Jesucristo, que consiste en un conocimiento y compenetración recíprocos, una unidad de esencia y una relación de don mutuo.
+---
 # Unión Padre-Hijo
 
 > Área: Cristología / Trinidad

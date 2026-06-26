@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Prójimo
+tags: ["bíblica", "moral"]
+
+timestamp: 2026-06-02
+description: "Término que designa al otro con quien se establece un vínculo. El hebreo *rea'* expresa la idea de asociarse; no es el hermano natural sino «otro que yo» que puede llegar a ser un hermano."
+---
 # Prójimo
 
 > Área: Bíblica, Moral

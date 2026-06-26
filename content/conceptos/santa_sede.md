@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Santa Sede
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: La Santa Sede o Sede Apostólica es el órgano supremo de gobierno de la Iglesia universal.
+---
 # Santa Sede
 
 > Área: Derecho Canónico

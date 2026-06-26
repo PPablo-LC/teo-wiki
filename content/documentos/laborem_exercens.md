@@ -1,3 +1,8 @@
+---
+type: Documento
+title: Laborem Exercens
+description: "*Laborem Exercens* (LE) es la tercera encíclica de San Juan Pablo II, publicada el 14 de septiembre de 1981, fiesta de la Exaltación de la Santa Cruz."
+---
 # Laborem Exercens
 
 > **Código:** LE

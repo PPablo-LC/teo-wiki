@@ -1,3 +1,11 @@
+---
+type: Documento
+title: Pastores dabo vobis
+tags: ["documentos"]
+
+timestamp: 2026-06-14
+description: "León XIV, en su Carta Apostólica *Una fidelidad que genera futuro* (2025), retoma el paradigma de PDV sobre la caridad pastoral como principio unificador de la vida presbiteral (UFGF §24.)"
+---
 # Pastores dabo vobis
 
 > Área: Documentos

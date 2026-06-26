@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Babel
+tags: ["dogmática_(antiguo_testamento)"]
+
+timestamp: 2026-06-02
+description: Babel (Gn 11,1-9) es el relato de la construcción de una torre y una ciudad en la llanura de Senaar.
+---
 # Babel
 
 > Área: Dogmática (Antiguo Testamento)

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sentido de lo sagrado
+tags: ["liturgia"]
+
+timestamp: 2026-05-29
+description: Actitud interior de reverencia, asombro y adoración ante el misterio de Dios, cultivada y expresada en la liturgia y en toda la vida cristiana.
+---
 # Sentido de lo sagrado
 
 > Área: Liturgia

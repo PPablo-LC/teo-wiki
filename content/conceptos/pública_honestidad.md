@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Pública Honestidad
+tags: ["derecho_canónico", "matrimonio"]
+
+timestamp: 2026-06-23
+description: Impedimento dirimente del matrimonio que surge de un matrimonio inválido después de instaurada la vida en común, o del concubinato notorio o público.
+---
 # Pública Honestidad
 
 > Área: Derecho Canónico / Matrimonio

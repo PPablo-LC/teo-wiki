@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Pecados capitales
+tags: ["moral"]
+
+timestamp: 2026-06-08
+description: Los siete pecados o vicios capitales son aquellas faltas morales que constituyen la raíz o cabeza de otros pecados y vicios.
+---
 # Pecados capitales
 
 > Área: Moral

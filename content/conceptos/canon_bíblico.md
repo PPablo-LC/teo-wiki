@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Canon bíblico
+tags: ["dogmática_—_escritura"]
+
+timestamp: 2026-06-24
+description: "El canon bíblico (del griego *kanon*: regla, norma) es la lista de los libros sagrados que la Iglesia reconoce como inspirados por Dios y normativos para la fe y la moral."
+---
 # Canon bíblico
 
 > Área: Dogmática — Escritura

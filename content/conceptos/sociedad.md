@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sociedad
+tags: ["doctrina_social"]
+
+timestamp: 2026-05-26
+description: Conjunto de relaciones entre las personas humanas que constituyen comunidades organizadas para el logro del bien común.
+---
 # Sociedad
 
 > Área: Doctrina Social

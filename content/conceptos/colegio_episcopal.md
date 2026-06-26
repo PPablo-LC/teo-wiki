@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Colegio Episcopal
+tags: ["eclesiología"]
+
+timestamp: 2026-05-25
+description: El Colegio Episcopal, cuya cabeza es el Sumo Pontífice y del cual son miembros los Obispos en virtud de la consagración sacramental y de la comunión jerárquica con la cabeza y miembros del Colegio.
+---
 # Colegio Episcopal
 
 > Área: Eclesiología

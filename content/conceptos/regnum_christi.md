@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Regnum Christi
+tags: ["espiritualidad", "eclesiología"]
+
+timestamp: 2026-05-26
+description: "El Regnum Christi (Reino de Cristo) es una familia espiritual y cuerpo apostólico de la Iglesia Católica, nacida del carisma de la [[legión_de_cristo]]."
+---
 # Regnum Christi
 
 > Área: Espiritualidad / Eclesiología

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Forma de la eucaristía
+tags: ["sacramental", "dogmática"]
+
+timestamp: 2026-06-15
+description: "La forma del sacramento de la [[eucaristía]] son las palabras de la consagración pronunciadas por el sacerdote _in persona Christi_."
+---
 # Forma de la eucaristía
 
 > Área: Sacramental / Dogmática

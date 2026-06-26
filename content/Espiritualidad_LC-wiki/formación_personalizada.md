@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Formación personalizada
+tags: ["ascética", "formación"]
+
+timestamp: 2026-06-12
+description: La formación personalizada es una característica del proceso formativo legionario según la cual la formación debe adaptarse a las necesidades específicas de cada formando.
+---
 # Formación personalizada
 
 > Área: Ascética / Formación

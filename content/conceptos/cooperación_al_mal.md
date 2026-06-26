@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cooperación al mal
+tags: ["moral"]
+
+timestamp: 2026-05-26
+description: Participación libre y voluntaria en el pecado de otro, sea por acción directa o por omisión culpable. Constituye culpa moral en la medida de la [[imputabilidad]] del cooperante (CEC §1868-1869).
+---
 # Cooperación al mal
 
 > Área: Moral

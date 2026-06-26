@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Reconciliación institucional
+tags: ["espiritualidad", "eclesiología"]
+
+timestamp: 2026-05-25
+description: La reconciliación institucional es el proceso por el cual una comunidad eclesial —reconociendo las heridas causadas en su historia.
+---
 # Reconciliación institucional
 
 > Área: Espiritualidad / Eclesiología

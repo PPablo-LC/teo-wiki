@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Penas expiatorias
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-25
+description: Las penas expiatorias son sanciones canónicas que privan al fiel de algún bien espiritual o temporal, y que pueden imponerse perpetuamente o por tiempo determinado.
+---
 # Penas expiatorias
 
 > Área: Derecho Canónico

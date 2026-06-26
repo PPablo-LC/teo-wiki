@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Consejo presbiteral
+tags: ["eclesiología"]
+
+timestamp: 2026-05-25
+description: El consejo presbiteral es un grupo de sacerdotes que constituye como el senado del Obispo, en representación del presbiterio.
+---
 # Consejo presbiteral
 
 > Área: Eclesiología

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Tentación
+tags: ["ascética_y_moral"]
+
+timestamp: 2026-06-10
+description: La tentación es toda incitación al mal, ya proceda del demonio, del mundo o de la propia concupiscencia.
+---
 # Tentación
 
 > Área: Ascética y Moral

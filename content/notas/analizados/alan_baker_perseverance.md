@@ -1,3 +1,9 @@
+---
+type: Análisis Doctrinal
+title: "Alan Baker — Perseverance: Stoking the Fire In Your Belly: Análisis doctrinal"
+timestamp: 2026-06-03
+description: Conferencia del ex-capellán militar Alan Baker en la Catholic Men's Conference 2022.
+---
 # Alan Baker — Perseverance: Stoking the Fire In Your Belly: Análisis doctrinal
 
 > Tipo: Análisis doctrinal

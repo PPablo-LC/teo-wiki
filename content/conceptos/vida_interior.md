@@ -1,3 +1,8 @@
+---
+type: Concepto Teológico
+title: Vida interior
+description: La vida del alma en su relacion con Dios, caracterizada por la oracion, el recogimiento, la mortificacion y la practica de las virtudes.
+---
 # Vida interior
 
 > Area: Ascetica y Mistica

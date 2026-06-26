@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sindicatos
+tags: ["doctrina_social"]
+
+timestamp: 2026-06-17
+description: Asociaciones de trabajadores para la defensa de los intereses vitales de los hombres empleados en las diversas profesiones.
+---
 # Sindicatos
 
 > Área: Doctrina Social

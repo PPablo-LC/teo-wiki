@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Error
+tags: ["dogmática", "bíblica"]
+
+timestamp: 2026-06-02
+description: En la Biblia, el error no es mera equivocación intelectual sino infidelidad a la verdad revelada, rechazo de Dios que conduce a la idolatría.
+---
 # Error
 
 > Área: Dogmática / Bíblica

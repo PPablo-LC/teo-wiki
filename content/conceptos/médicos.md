@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Médicos
+tags: ["moral", "doctrina_social"]
+
+timestamp: 2026-06-03
+description: Profesionales de la salud dedicados a la curación del cuerpo humano conforme a la ley moral natural y la doctrina de la Iglesia, que reconoce la medicina como arte y ciencia al servicio de la vida.
+---
 # Médicos
 
 > Área: Moral / Doctrina Social

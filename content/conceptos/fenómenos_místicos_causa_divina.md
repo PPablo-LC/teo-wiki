@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Fenómenos Místicos de Causa Divina
+tags: ["mística"]
+
+timestamp: 2026-06-19
+description: Los fenómenos místicos de causa divina son aquellos producidos directamente por Dios como autor del orden sobrenatural.
+---
 # Fenómenos Místicos de Causa Divina
 
 > Área: Mística

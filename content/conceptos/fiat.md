@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Fiat
+tags: ["mariología", "ascética"]
+
+timestamp: 2026-06-18
+description: "El *fiat* (latín: «hágase») es la respuesta de la Virgen María al anuncio del ángel en la Anunciación: «He aquí la esclava del Señor; hágase en mí según tu palabra» (Lc 1,38)."
+---
 # Fiat
 
 > Área: Mariología / Ascética

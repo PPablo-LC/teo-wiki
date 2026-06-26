@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Vademécum del DDF sobre abuso sexual a menores
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-29
+description: Manual práctico elaborado por el Dicasterio para la Doctrina de la Fe (v.)
+---
 # Vademécum del DDF sobre abuso sexual a menores
 
 > Área: Derecho Canónico

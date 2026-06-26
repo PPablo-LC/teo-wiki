@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Infalibilidad papal
+tags: ["eclesiología"]
+
+timestamp: 2026-06-24
+description: "La infalibilidad papal es el carisma del Espíritu Santo por el cual el Romano Pontífice, cuando habla *ex cathedra* (desde la cátedra de Pedro) como pastor y maestro de todos los fieles."
+---
 # Infalibilidad papal
 
 > Área: Eclesiología

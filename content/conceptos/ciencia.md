@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ciencia
+tags: ["filosofía", "teología"]
+
+timestamp: 2026-05-26
+description: La ciencia, en sentido filosófico y teológico, es el conocimiento cierto por sus causas.
+---
 # Ciencia
 
 > Área: Filosofía / Teología

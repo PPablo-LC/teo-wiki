@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Jerusalén
+tags: ["bíblica", "eclesiología"]
+
+timestamp: 2026-06-02
+description: Jerusalén, «ciudad santa», es el centro espiritual y político del pueblo de Dios en el AT, lugar de residencia de Yahveh en el monte Sión.
+---
 # Jerusalén
 
 > Área: Bíblica, Eclesiología

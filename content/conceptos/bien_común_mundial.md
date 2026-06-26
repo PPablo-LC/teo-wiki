@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Bien común mundial
+tags: ["doctrina_social"]
+
+timestamp: 2026-05-25
+description: El bien común universal o mundial es la dimensión del bien común referida a toda la familia humana, ante la creciente interdependencia entre los pueblos y las naciones.
+---
 # Bien común mundial
 
 > Área: Doctrina Social

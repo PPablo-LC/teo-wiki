@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Dignidad ontológica
+tags: ["dogmática", "moral"]
+
+timestamp: 2026-05-29
+description: La dignidad ontológica es la dignidad que pertenece a todo ser humano simplemente por el hecho de existir, de haber sido querido, creado y amado por Dios.
+---
 # Dignidad ontológica
 
 > Área: Dogmática / Moral

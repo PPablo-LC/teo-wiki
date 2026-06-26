@@ -1,3 +1,11 @@
+---
+type: Persona
+title: II Concilio de Orange
+tags: ["concilios"]
+
+timestamp: 2026-06-25
+description: "El II Concilio de Orange fue convocado para combatir el **semipelagianismo**."
+---
 # II Concilio de Orange
 
 > Área: Concilios

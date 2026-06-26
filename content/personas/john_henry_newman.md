@@ -1,3 +1,11 @@
+---
+type: Persona
+title: John Henry Newman
+tags: ["personas", "teólogos", "santos"]
+
+timestamp: 2026-06-10
+description: John Henry Newman (1801-1890), cardenal de la Santa Iglesia Romana, teólogo, poeta y Doctor de la Iglesia (canonizado en 2019).
+---
 # John Henry Newman
 
 > Área: Personas / Teólogos / Santos

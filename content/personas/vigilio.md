@@ -1,3 +1,11 @@
+---
+type: Persona
+title: Vigilio
+tags: ["historia_—_papado"]
+
+timestamp: 2026-06-25
+description: Vigilio fue elegido papa en circunstancias complejas. Originalmente diácono, fue nombrado por Agapito I como representante en Constantinopla y como su sucesor en caso de muerte.
+---
 # Vigilio
 
 > Área: Historia — Papado

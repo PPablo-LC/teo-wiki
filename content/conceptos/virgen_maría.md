@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Virgen María
+tags: ["mariología", "ascética"]
+
+timestamp: 2026-06-20
+description: La Virgen María, Madre de Dios y Madre nuestra, ocupa un lugar singular en la economía de la salvación y en la vida cristiana.
+---
 # Virgen María
 
 > Área: Mariología / Ascética

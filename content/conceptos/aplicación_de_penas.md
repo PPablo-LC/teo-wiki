@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Aplicación de penas
+tags: ["derecho_canónico"]
+
+timestamp: 2026-06-19
+description: Conjunto de normas del derecho canónico que regulan el proceso y los criterios por los cuales la autoridad eclesiástica impone, declara, mitiga o suspende las sanciones penales.
+---
 # Aplicación de penas
 
 > Área: Derecho Canónico

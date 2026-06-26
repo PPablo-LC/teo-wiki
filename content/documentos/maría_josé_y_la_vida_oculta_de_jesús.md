@@ -1,3 +1,8 @@
+---
+type: Documento
+title: María, José y la vida oculta de Jesús
+description: "*María, José y la vida oculta de Jesús* es una recopilación de diez catequesis pronunciadas por Juan Pablo II en las Audiencias Generales de los miércoles."
+---
 # María, José y la vida oculta de Jesús
 
 > Tipo: Recopilación de catequesis

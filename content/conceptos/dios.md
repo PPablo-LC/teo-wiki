@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Dios
+tags: ["dogmática", "teología_fundamental"]
+
+timestamp: 2026-05-26
+description: "Dios es el Ser infinitamente perfecto, Creador y Señor de todas las cosas, que ha revelado su misterio íntimo como Trinidad de Personas: Padre, Hijo y Espíritu Santo."
+---
 # Dios
 
 > Área: Dogmática / Teología Fundamental

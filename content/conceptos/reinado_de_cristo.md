@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Reinado de Cristo
+tags: ["cristología", "eclesiología"]
+
+timestamp: 2026-05-22
+description: El señorío universal de Jesucristo como Rey del universo, Cabeza de la Iglesia y Señor de la historia. Su reino no es de este mundo, sino espiritual y eterno, aunque se prolonga en la sociedad humana.
+---
 # Reinado de Cristo
 
 > Área: Cristología / Eclesiología

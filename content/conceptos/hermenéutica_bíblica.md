@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Hermenéutica bíblica
+tags: ["sagrada_escritura"]
+
+timestamp: 2026-06-05
+description: La hermenéutica bíblica es la ciencia y el arte de la interpretación de la Sagrada Escritura, que establece los principios y reglas para descubrir el sentido auténtico del texto bíblico.
+---
 # Hermenéutica bíblica
 
 > Área: Sagrada Escritura

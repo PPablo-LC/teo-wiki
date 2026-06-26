@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Hijo
+tags: ["dogmática_(cristología", "trinidad)"]
+
+timestamp: 2026-06-02
+description: Título que expresa la relación de Jesucristo con Dios Padre en sentido único y natural (Hijo de Dios), y la relación de los hombres con Dios por adopción y gracia (hijos adoptivos).
+---
 # Hijo
 
 > Área: Dogmática (Cristología / Trinidad)

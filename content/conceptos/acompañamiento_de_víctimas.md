@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Acompañamiento de víctimas
+tags: ["derecho_canónico", "moral", "pastoral"]
+
+timestamp: 2026-05-29
+description: "Deber eclesial de acoger, escuchar, asistir espiritualmente, psicológica y legalmente a quienes han sufrido [[abuso_sexual_de_menores]] o cualquier forma de maltrato en el ámbito eclesiástico."
+---
 # Acompañamiento de víctimas
 
 > Área: Derecho Canónico / Moral / Pastoral

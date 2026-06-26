@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Bautismo de Juan
+tags: ["escritura", "sacramental"]
+
+timestamp: 2026-06-03
+description: El bautismo de Juan era un bautismo de penitencia para la remisión de los pecados (Mc 1,4), que preparaba para la venida del Mesías.
+---
 # Bautismo de Juan
 
 > Área: Escritura / Sacramental

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Noche del Sentido
+tags: ["mística"]
+
+timestamp: 2026-05-22
+description: La noche del sentido es la primera de las dos purificaciones pasivas descritas por San Juan de la Cruz.
+---
 # Noche del Sentido
 
 > Área: Mística

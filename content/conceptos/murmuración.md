@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Murmuración
+tags: ["moral"]
+
+timestamp: 2026-05-26
+description: La murmuración —también llamada detracción— consiste en revelar a personas sin derecho a saberlo las faltas reales pero ocultas del prójimo, sin causa proporcionada.
+---
 # Murmuración
 
 > Área: Moral

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Vía Purgativa
+tags: ["ascética"]
+
+timestamp: 2026-05-20
+description: La vía purgativa es el primer grado de la vida espiritual, correspondiente a la caridad incipiente.
+---
 # Vía Purgativa
 
 > Área: Ascética

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Juicio particular
+tags: ["escatología"]
+
+timestamp: 2026-06-16
+description: El juicio particular es el juicio inmediato que cada alma recibe de Dios inmediatamente después de la muerte, antes de la resurrección final.
+---
 # Juicio particular
 
 > Área: Escatología

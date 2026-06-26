@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Revelación del Espíritu Santo
+tags: ["dogmática_(trinidad", "pneumatología)"]
+
+timestamp: 2026-06-22
+description: Manifestación progresiva y definitiva de la tercera Persona de la Santísima Trinidad, realizada por Jesucristo especialmente en el discurso del Cenáculo.
+---
 # Revelación del Espíritu Santo
 
 > Área: Dogmática (Trinidad / Pneumatología)

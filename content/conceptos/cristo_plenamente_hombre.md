@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cristo, plenamente hombre
+tags: ["cristología"]
+
+timestamp: 2026-06-22
+description: Jesucristo no fue «menos» hombre por ser Dios, sino que, por el contrario, realizó la perfección humana plenamente en virtud de la unión hipostática.
+---
 # Cristo, plenamente hombre
 
 > Área: Cristología

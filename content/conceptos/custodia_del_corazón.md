@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Custodia del corazón
+tags: ["ascética", "mística"]
+
+timestamp: 2026-06-03
+description: Vigilancia espiritual y ascética sobre los propios pensamientos, afectos y deseos para preservar la pureza interior y la unión con Dios.
+---
 # Custodia del corazón
 
 > Área: Ascética / Mística

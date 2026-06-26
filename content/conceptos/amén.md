@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Amén
+tags: ["liturgia", "teología"]
+
+timestamp: 2026-06-02
+description: El término «amén» significa «ciertamente», «verdaderamente», «sí». Expresa firmeza, solidez y seguridad.
+---
 # Amén
 
 > Área: Liturgia / Teología

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Contemplación de la pasión
+tags: ["ascética", "mística"]
+
+timestamp: 2026-05-22
+description: La contemplación de la pasión es una forma de oración y meditación en la cual el alma fija la mirada de la fe en los misterios dolorosos de la vida de Cristo —desde la oración en el Huerto hasta la...
+---
 # Contemplación de la pasión
 
 > Área: Ascética / Mística

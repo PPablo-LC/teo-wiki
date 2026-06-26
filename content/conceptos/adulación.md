@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Adulación
+tags: ["moral"]
+
+timestamp: 2026-06-10
+description: "Vicio opuesto a la [[afabilidad]] por exceso en el deseo de agradar, consistente en alabar o lisonjear a otro de palabra o de obra más allá de lo debido."
+---
 # Adulación
 
 > Área: Moral

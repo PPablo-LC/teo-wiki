@@ -1,3 +1,11 @@
+---
+type: Documento
+title: Summa Theologiae
+tags: ["documentos"]
+
+timestamp: 2026-06-11
+description: "Cada cuestión se divide en artículos que siguen el método escolástico: *videtur quod…, sed contra, respondeo dicendum quod…, ad primum…*"
+---
 # Summa Theologiae
 
 > Área: Documentos

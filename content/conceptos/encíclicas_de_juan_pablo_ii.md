@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Encíclicas de Juan Pablo II
+tags: ["magisterio_pontificio"]
+
+timestamp: 2026-06-21
+description: "Conjunto de cartas encíclicas del pontificado de San Juan Pablo II, que constituyen un corpus doctrinal articulado en torno a la redención del hombre (*Redemptor hominis*)."
+---
 # Encíclicas de Juan Pablo II
 
 > Área: Magisterio pontificio

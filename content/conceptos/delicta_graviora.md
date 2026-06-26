@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Delicta graviora (delitos más graves)
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-29
+description: "Los *delicta graviora* o «delitos más graves» son aquellos delitos canónicos que, por su especial gravedad."
+---
 # Delicta graviora (delitos más graves)
 
 > Área: Derecho Canónico

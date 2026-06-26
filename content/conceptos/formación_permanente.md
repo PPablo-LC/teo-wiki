@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Formación permanente
+tags: ["teología_espiritual", "formación_sacerdotal"]
+
+timestamp: 2026-06-17
+description: Proceso continuo de crecimiento humano, espiritual, intelectual y pastoral que todo presbítero está llamado a mantener a lo largo de toda su vida.
+---
 # Formación permanente
 
 > Área: Teología espiritual / Formación sacerdotal

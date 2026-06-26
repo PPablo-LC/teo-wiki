@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Epifanía
+tags: ["cristología", "liturgia"]
+
+timestamp: 2026-06-20
+description: "La Epifanía (del griego *epipháneia*, «manifestación») es la solemnidad en que la Iglesia celebra la manifestación de Jesucristo como Salvador del mundo, particularmente a los gentiles."
+---
 # Epifanía
 
 > Área: Cristología / Liturgia

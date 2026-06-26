@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Poder sobre el Reino
+tags: ["cristología"]
+
+timestamp: 2026-06-22
+description: "El poder soberano de Jesucristo sobre el [[reino_de_dios]], por el cual Él lo instaura en la historia, posee autoridad total sobre él y puede transmitir sus «llaves» a un representante."
+---
 # Poder sobre el Reino
 
 > Área: Cristología

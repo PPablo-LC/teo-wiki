@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Soberbia intelectual
+tags: ["moral", "ascética"]
+
+timestamp: 2026-05-22
+description: La soberbia intelectual es una forma de soberbia por la cual el hombre confía excesivamente en su propio entendimiento y conocimientos.
+---
 # Soberbia intelectual
 
 > Área: Moral / Ascética

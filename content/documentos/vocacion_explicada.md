@@ -1,3 +1,8 @@
+---
+type: Documento
+title: La vocación explicada
+description: "*La vocación explicada* es la primera catequesis de [[juan_pablo_ii]] como Papa, dirigida a jóvenes en las audiencias generales de octubre-noviembre de 1978."
+---
 # La vocación explicada
 
 > Tipo: Catequesis juvenil

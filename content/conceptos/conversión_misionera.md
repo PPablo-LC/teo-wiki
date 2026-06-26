@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Conversión misionera
+tags: ["eclesiología", "espiritualidad"]
+
+timestamp: 2026-06-13
+description: Proceso de renovación eclesial por el cual la Iglesia, movida por el Espíritu, supera una pastoral de mera conservación y se dispone a «salir» —como Iglesia «en salida»— al encuentro de todos.
+---
 # Conversión misionera
 
 > Área: Eclesiología / Espiritualidad

@@ -1,3 +1,11 @@
+---
+type: Persona
+title: Alejandro III
+tags: ["historia_—_papado"]
+
+timestamp: 2026-06-25
+description: "Alejandro III fue papa durante el conflicto con el emperador Federico I Barbarroja. Presidió el **III Concilio de Letrán** (1179, XI ecuménico)."
+---
 # Alejandro III
 
 > Área: Historia — Papado

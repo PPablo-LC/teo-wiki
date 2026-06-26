@@ -1,3 +1,9 @@
+---
+type: Análisis Doctrinal
+title: "Auténtica — Día 1: Enfrenta tus miedos: Análisis doctrinal"
+timestamp: 2026-06-01
+description: Primer día del Congreso Auténtica (4.ª edición), congreso virtual católico para mujeres organizado por Catholic Link.
+---
 # Auténtica — Día 1: Enfrenta tus miedos: Análisis doctrinal
 
 > Tipo: Análisis doctrinal

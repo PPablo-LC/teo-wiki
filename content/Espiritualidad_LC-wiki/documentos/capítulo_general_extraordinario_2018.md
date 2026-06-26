@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Capítulo General Extraordinario 2018 de los Legionarios de Cristo
+tags: ["espiritualidad", "derecho"]
+
+timestamp: 2026-06-13
+description: El documento consta de 16 archivos que comprenden.
+---
 # Capítulo General Extraordinario 2018 de los Legionarios de Cristo
 
 > Área: Espiritualidad / Derecho

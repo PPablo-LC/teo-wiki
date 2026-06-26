@@ -1,3 +1,11 @@
+---
+type: Persona
+title: Pelagio I
+tags: ["historia_—_papado"]
+
+timestamp: 2026-06-25
+description: Pelagio I fue elegido papa en medio de la controversia de los Tres Capítulos.
+---
 # Pelagio I
 
 > Área: Historia — Papado

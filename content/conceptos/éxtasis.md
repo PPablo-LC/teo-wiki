@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Éxtasis
+tags: ["mística"]
+
+timestamp: 2026-06-06
+description: Fenómeno místico de orden predominantemente afectivo, aunque con repercusión psico-fisiológica.
+---
 # Éxtasis
 
 > Área: Mística

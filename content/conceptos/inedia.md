@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Inedia
+tags: ["mística"]
+
+timestamp: 2026-05-20
+description: Fenómeno de ayuno absoluto durante un tiempo muy superior al que resisten las fuerzas naturales.
+---
 # Inedia
 
 > Área: Mística

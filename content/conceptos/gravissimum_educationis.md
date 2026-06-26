@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Gravissimum Educationis
+tags: ["documentos_del_magisterio"]
+
+timestamp: 2026-05-26
+description: Declaración del Concilio Vaticano II sobre la educación cristiana, promulgada el 28 de octubre de 1965.
+---
 # Gravissimum Educationis
 
 > Área: Documentos del Magisterio

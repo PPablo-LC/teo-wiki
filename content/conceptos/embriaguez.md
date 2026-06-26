@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Embriaguez
+tags: ["moral", "bíblica"]
+
+timestamp: 2026-06-11
+description: Estado de intoxicación por bebidas alcohólicas que, en la Escritura, aparece asociado a la pérdida de control, la vergüenza.
+---
 # Embriaguez
 
 > Área: Moral / Bíblica

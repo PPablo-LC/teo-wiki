@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Apostolado
+tags: ["ascética"]
+
+timestamp: 2026-05-20
+description: El apostolado es la obra y actividad propia del apóstol, es decir, del enviado de Dios para predicar el Evangelio a los hombres.
+---
 # Apostolado
 
 > Área: Ascética

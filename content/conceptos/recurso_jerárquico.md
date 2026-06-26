@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Recurso jerárquico
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-25
+description: El recurso jerárquico es el medio de impugnación administrativa por el cual un fiel que se considera perjudicado por un decreto administrativo puede recurrir al Superior jerárquico de quien emitió el...
+---
 # Recurso jerárquico
 
 > Área: Derecho Canónico

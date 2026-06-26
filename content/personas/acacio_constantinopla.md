@@ -1,3 +1,11 @@
+---
+type: Persona
+title: Acacio de Constantinopla
+tags: ["patrística_—_cismas"]
+
+timestamp: 2026-06-25
+description: Acacio fue Patriarca de Constantinopla desde 472 hasta 489.
+---
 # Acacio de Constantinopla
 
 > Área: Patrística — Cismas

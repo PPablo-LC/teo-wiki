@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Tradición apostólica
+tags: ["dogmática", "teología_fundamental"]
+
+timestamp: 2026-05-26
+description: La Tradición apostólica es la transmisión viva, llevada a cabo en el Espíritu Santo, del Evangelio que Cristo confió a los Apóstoles.
+---
 # Tradición apostólica
 
 > Área: Dogmática / Teología fundamental

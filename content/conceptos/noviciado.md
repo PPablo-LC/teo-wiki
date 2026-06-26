@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Noviciado
+tags: ["derecho_canónico", "vida_consagrada"]
+
+timestamp: 2026-06-23
+description: El noviciado es el período de prueba y formación inicial en un instituto de vida consagrada, con el que comienza formalmente la vida en el instituto.
+---
 # Noviciado
 
 > Área: Derecho Canónico / Vida Consagrada

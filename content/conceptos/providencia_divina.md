@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Providencia divina
+tags: ["dogmática"]
+
+timestamp: 2026-06-20
+description: La divina providencia son las disposiciones por las que Dios conduce con sabiduría y amor todas las criaturas hacia su fin último.
+---
 # Providencia divina
 
 > Área: Dogmática

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Primer anuncio
+tags: ["eclesiología", "pastoral"]
+
+timestamp: 2026-06-10
+description: Anuncio inicial del kerigma cristiano —Jesucristo muerto y resucitado por nuestra salvación— dirigido a quienes no conocen a Cristo o han abandonado la fe.
+---
 # Primer anuncio
 
 > Área: Eclesiología / Pastoral

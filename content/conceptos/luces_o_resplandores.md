@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Luces o Resplandores
+tags: ["mística"]
+
+timestamp: 2026-05-22
+description: Las luces o resplandores (fenómeno de luminosidad) son manifestaciones corporales extraordinarias consistentes en cierta claridad resplandeciente que irradian a veces los cuerpos de los santos.
+---
 # Luces o Resplandores
 
 > Área: Mística

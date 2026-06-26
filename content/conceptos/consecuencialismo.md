@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Consecuencialismo
+tags: ["moral_fundamental"]
+
+timestamp: 2026-06-20
+description: El consecuencialismo es una teoría ética que pretende determinar la moralidad de los actos humanos basándose exclusivamente en el balance de sus consecuencias buenas o malas.
+---
 # Consecuencialismo
 
 > Área: Moral Fundamental

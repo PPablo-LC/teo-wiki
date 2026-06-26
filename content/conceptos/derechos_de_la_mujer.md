@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Derechos de la mujer
+tags: ["moral", "doctrina_social"]
+
+timestamp: 2026-06-23
+description: Los derechos de la mujer son aquellos derechos fundamentales que corresponden a la mujer en virtud de su dignidad de persona humana creada a imagen y semejanza de Dios.
+---
 # Derechos de la mujer
 
 > Área: Moral / Doctrina social

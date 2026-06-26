@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Figura
+tags: ["bíblica", "hermenéutica"]
+
+timestamp: 2026-06-02
+description: En teología bíblica, prefiguración o tipo (typos) de una realidad futura en el designio de la salvación.
+---
 # Figura
 
 > Área: Bíblica / Hermenéutica

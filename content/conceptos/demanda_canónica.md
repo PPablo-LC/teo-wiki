@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Demanda canónica
+tags: ["derecho_canónico"]
+
+timestamp: 2026-06-19
+description: La demanda canónica es el acto procesal por el que se introduce formalmente una causa ante el tribunal eclesiástico.
+---
 # Demanda canónica
 
 > Área: Derecho Canónico

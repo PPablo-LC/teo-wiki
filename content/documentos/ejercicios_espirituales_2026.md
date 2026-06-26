@@ -1,3 +1,11 @@
+---
+type: Documento
+title: Ejercicios Espirituales de Cuaresma 2026 a la Curia Romana
+tags: ["documentos", "espiritualidad"]
+
+timestamp: 2026-06-10
+description: "Los ejercicios constan de 11 meditaciones, precedidas de un prólogo y seguidas de un epílogo con las palabras finales del Papa León XIV:"
+---
 # Ejercicios Espirituales de Cuaresma 2026 a la Curia Romana
 
 > Área: Documentos / Espiritualidad

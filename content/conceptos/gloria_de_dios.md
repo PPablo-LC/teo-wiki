@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Gloria de Dios
+tags: ["teología_bíblica", "dogmática"]
+
+timestamp: 2026-06-20
+description: "La gloria de Dios (*kabod* en hebreo, *doxa* en griego) designa la manifestación de la presencia y la majestad divinas, el honor debido a Dios por su naturaleza infinita."
+---
 # Gloria de Dios
 
 > Área: Teología bíblica / Dogmática

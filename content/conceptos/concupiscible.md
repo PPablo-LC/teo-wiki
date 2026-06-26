@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Apetito Concupiscible
+tags: ["moral", "ascética"]
+
+timestamp: 2026-06-23
+description: El apetito concupiscible es una de las dos potencias del apetito sensitivo, junto con el apetito irascible. Tiene por objeto el bien deleitable y de fácil consecución.
+---
 # Apetito Concupiscible
 
 > Área: Moral / Ascética

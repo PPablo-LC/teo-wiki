@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Tipología
+tags: ["hermenéutica_bíblica"]
+
+timestamp: 2026-05-22
+description: La tipología es el método de interpretación bíblica que descubre en las personas.
+---
 # Tipología
 
 > Área: Hermenéutica bíblica

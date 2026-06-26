@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Superstición en el culto al verdadero Dios
+tags: ["moral"]
+
+timestamp: 2026-06-09
+description: Es la especie de superstición que introduce falsedad o desproporción en el culto tributado al verdadero Dios.
+---
 # Superstición en el culto al verdadero Dios
 
 > Área: Moral

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Amor al prójimo
+tags: ["moral"]
+
+timestamp: 2026-06-23
+description: Virtud de la caridad en cuanto ordenada al amor de todos los hombres por amor de Dios, que constituye el segundo gran mandamiento de la Ley divina y es inseparable del amor a Dios.
+---
 # Amor al prójimo
 
 > Área: Moral

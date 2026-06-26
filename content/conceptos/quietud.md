@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Quietud
+tags: ["mística"]
+
+timestamp: 2026-05-29
+description: La quietud (sexto grado de oración.)
+---
 # Quietud
 
 > Área: Mística

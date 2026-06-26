@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Solicitación
+tags: ["derecho_canónico_penal"]
+
+timestamp: 2026-05-29
+description: "La solicitación (en latín, *sollicitatio ad turpia*) es el delito canónico cometido por un sacerdote que, durante la confesión sacramental o con ocasión o pretexto de ella."
+---
 # Solicitación
 
 > Área: Derecho Canónico Penal

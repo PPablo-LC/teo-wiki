@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Matrimonio sacramento
+tags: ["sacramental"]
+
+timestamp: 2026-06-20
+description: El matrimonio de los bautizados es uno de los siete sacramentos de la Nueva Alianza, por el cual la comunidad íntima de vida y de amor conyugal, fundada por el Creador.
+---
 # Matrimonio sacramento
 
 > Área: Sacramental

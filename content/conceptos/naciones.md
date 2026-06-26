@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Naciones
+tags: ["teología_bíblica"]
+
+timestamp: 2026-06-19
+description: "En la perspectiva bíblica, las naciones (hebreo *goyim*; griego *ethné*) designan a los pueblos distintos de Israel, los gentiles o paganos."
+---
 # Naciones
 
 > Área: Teología Bíblica

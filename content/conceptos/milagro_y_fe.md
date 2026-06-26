@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Milagro y fe
+tags: ["cristología", "fe"]
+
+timestamp: 2026-06-22
+description: Relación orgánica entre los milagros de Cristo y la llamada a la fe.
+---
 # Milagro y fe
 
 > Área: Cristología / Fe

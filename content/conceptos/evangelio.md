@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Evangelio
+tags: ["dogmática_(revelación)"]
+
+timestamp: 2026-06-21
+description: "El Evangelio (del griego *euangelion*, \"buena nueva\") es la proclamación de Jesucristo, el Hijo de Dios hecho hombre, cuya vida."
+---
 # Evangelio
 
 > Área: Dogmática (Revelación)

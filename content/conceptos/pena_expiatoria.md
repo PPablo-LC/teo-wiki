@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Pena expiatoria
+tags: ["derecho_canónico"]
+
+timestamp: 2026-06-19
+description: Sanción canónica que priva al fiel de algún bien espiritual o temporal, con finalidad directa de expiación del delito y reparación del orden jurídico lesionado.
+---
 # Pena expiatoria
 
 > Área: Derecho Canónico

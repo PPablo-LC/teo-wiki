@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Esposo
+tags: ["dogmática", "bíblica_(teología_nupcial)"]
+
+timestamp: 2026-06-02
+description: Nombre divino que expresa el amor de Dios a su pueblo como una relación nupcial. En el AT, Dios es el esposo de Israel; en el NT, Cristo es el esposo de la Iglesia.
+---
 # Esposo
 
 > Área: Dogmática / Bíblica (Teología nupcial)

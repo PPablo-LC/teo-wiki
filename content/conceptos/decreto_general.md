@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Decreto general
+tags: ["derecho_canónico"]
+
+timestamp: 2026-06-19
+description: Norma jurídica mediante la cual el legislador competente establece prescripciones comunes para una comunidad capaz de ser sujeto pasivo de una ley.
+---
 # Decreto general
 
 > Área: Derecho Canónico

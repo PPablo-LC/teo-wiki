@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Sinodalidad
+tags: ["eclesiología", "vida_consagrada"]
+
+timestamp: 2026-05-25
+description: La sinodalidad es la dimensión constitutiva de la Iglesia que se expresa en el caminar, escuchar y discernir juntos todo el Pueblo de Dios, bajo la guía del Espíritu Santo.
+---
 # Sinodalidad
 
 > Área: Eclesiología / Vida Consagrada

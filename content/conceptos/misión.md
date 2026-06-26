@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Misión
+tags: ["eclesiología", "evangelización"]
+
+timestamp: 2026-05-26
+description: "La misión es el envío de la [[iglesia]] al mundo para anunciar el Evangelio de [[jesucristo]] a todos los pueblos, prolongando la misión del Hijo y del [[espíritu_santo]] hasta el fin de los tiempos."
+---
 # Misión
 
 > Área: Eclesiología / Evangelización

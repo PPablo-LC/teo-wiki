@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Autoformación
+tags: ["ascética", "formación"]
+
+timestamp: 2026-05-31
+description: La autoformación es el principio formativo según el cual el legionario es responsable de su propia formación, colaborando libre, generosa, madura y responsablemente con la gracia de Dios.
+---
 # Autoformación
 
 > Área: Ascética / Formación

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Siervo de Yahvé
+tags: ["cristología", "escritura"]
+
+timestamp: 2026-06-21
+description: «Siervo de Yahvé» es la designación de una figura misteriosa en los cantos del libro de Isaías (Is 42,1-9; 49,1-6; 50,4-11; 52,13-53,12), que la tradición cristiana identifica con Jesucristo.
+---
 # Siervo de Yahvé
 
 > Área: Cristología / Escritura

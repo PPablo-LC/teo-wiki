@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ofrenda
+tags: ["liturgia", "ascética"]
+
+timestamp: 2026-05-29
+description: La ofrenda es el acto de ofrecer algo a Dios en señal de adoración, acción de gracias o súplica.
+---
 # Ofrenda
 
 > Área: Liturgia / Ascética

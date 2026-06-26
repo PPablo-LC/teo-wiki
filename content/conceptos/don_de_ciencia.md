@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Don de ciencia
+tags: ["ascética", "mística"]
+
+timestamp: 2026-05-21
+description: "El don de ciencia es uno de los [[siete_dones_del_espíritu_santo]] que, juntamente con el [[don_de_entendimiento]], perfecciona la virtud de la [[fe]]."
+---
 # Don de ciencia
 
 > Área: Ascética / Mística

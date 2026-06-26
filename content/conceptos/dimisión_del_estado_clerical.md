@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Dimisión del estado clerical
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-29
+description: "La dimisión del estado clerical (*dimissio e statu clericali*) es la pena expiatoria perpetua por la cual un clérigo es expulsado del estado clerical."
+---
 # Dimisión del estado clerical
 
 > Área: Derecho Canónico

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Diezmos
+tags: ["moral"]
+
+timestamp: 2026-06-09
+description: Los diezmos son la décima parte de los frutos y bienes que se ofrece a Dios para el sustento del culto divino y de sus ministros.
+---
 # Diezmos
 
 > Área: Moral

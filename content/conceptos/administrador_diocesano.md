@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Administrador diocesano
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: El administrador diocesano es el sacerdote que asume el gobierno de una diócesis durante el período de sede vacante, con potestad ordinaria vicaria.
+---
 # Administrador diocesano
 
 > Área: Derecho Canónico

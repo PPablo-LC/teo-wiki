@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Estatuto canónico
+tags: ["derecho_canónico"]
+
+timestamp: 2026-06-19
+description: Normas que se establecen a tenor del derecho en las corporaciones o en las fundaciones, por las que se determinan su fin, constitución, régimen y forma de actuar (c. 94 §1).
+---
 # Estatuto canónico
 
 > Área: Derecho Canónico

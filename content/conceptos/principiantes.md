@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Principiantes
+tags: ["ascética"]
+
+timestamp: 2026-05-22
+description: Estado espiritual inicial del cristiano que comienza a caminar seriamente en la vida de perfección, correspondiente a la vía purgativa.
+---
 # Principiantes
 
 > Área: Ascética

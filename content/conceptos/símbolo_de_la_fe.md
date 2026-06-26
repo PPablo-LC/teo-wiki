@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Símbolo de la fe
+tags: ["dogmática"]
+
+timestamp: 2026-06-19
+description: "El símbolo de la fe (del griego *symbolon*.)"
+---
 # Símbolo de la fe
 
 > Área: Dogmática

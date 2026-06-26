@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Vocación
+tags: ["dogmática", "moral", "ascética"]
+
+timestamp: 2026-06-14
+description: La vocación es la llamada de Dios al hombre para que, en libertad, responda al designio divino sobre su vida.
+---
 # Vocación
 
 > Área: Dogmática / Moral / Ascética

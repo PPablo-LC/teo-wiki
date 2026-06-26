@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Obsesión
+tags: ["ascética", "teología_espiritual"]
+
+timestamp: 2026-05-22
+description: La obsesión diabólica es una acción del demonio sobre el alma o el cuerpo de una persona, que se manifiesta en pensamientos obsesivos persistentes, temores irracionales.
+---
 # Obsesión
 
 > Área: Ascética / Teología espiritual

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Censor de libros
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: "El censor de libros (*censor librorum*) es la persona designada por la autoridad eclesiástica para examinar escritos destinados a publicación."
+---
 # Censor de libros
 
 > Área: Derecho Canónico

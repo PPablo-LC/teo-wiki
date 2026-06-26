@@ -1,3 +1,11 @@
+---
+type: Persona
+title: San Anastasio II
+tags: ["patrística_—_papas"]
+
+timestamp: 2026-06-25
+description: San Anastasio II fue Papa de la Iglesia Católica desde 496 hasta 498.
+---
 # San Anastasio II
 
 > Área: Patrística — Papas

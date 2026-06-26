@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Dulía
+tags: ["moral"]
+
+timestamp: 2026-06-10
+description: La dulía es la virtud moral, parte de la observancia y de la justicia, por la que se tributa honor, reverencia y servicio a los superiores, especialmente a los señores.
+---
 # Dulía
 
 > Área: Moral

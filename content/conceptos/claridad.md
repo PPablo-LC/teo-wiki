@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Claridad
+tags: ["dogmática", "moral"]
+
+timestamp: 2026-06-16
+description: En la teología católica, la claridad se refiere, por una parte, a la cualidad de la luz intelectual con que la inteligencia humana, iluminada por la fe y los dones del Espíritu Santo.
+---
 # Claridad
 
 > Área: Dogmática / Moral

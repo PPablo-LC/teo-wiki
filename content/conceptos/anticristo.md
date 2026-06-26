@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Anticristo
+tags: ["escatología"]
+
+timestamp: 2026-06-12
+description: El término «anticristo» (literalmente «contra Cristo») aparece exclusivamente en las epístolas de san Juan.
+---
 # Anticristo
 
 > Área: Escatología

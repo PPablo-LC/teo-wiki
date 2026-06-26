@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Igualdad
+tags: ["doctrina_social", "antropología_teológica"]
+
+timestamp: 2026-05-25
+description: La igualdad fundamental de todos los seres humanos se fundamenta en su común dignidad de criaturas creadas a imagen y semejanza de Dios, y en la Encarnación del Hijo de Dios.
+---
 # Igualdad
 
 > Área: Doctrina Social / Antropología Teológica

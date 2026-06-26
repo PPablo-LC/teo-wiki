@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Agilidad
+tags: ["mística", "escatología"]
+
+timestamp: 2026-06-16
+description: La agilidad es una de las cuatro dotes o cualidades del cuerpo glorioso de los resucitados, que consiste en la capacidad de moverse con la velocidad del pensamiento, sin impedimento material.
+---
 # Agilidad
 
 > Área: Mística / Escatología

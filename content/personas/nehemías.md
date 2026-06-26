@@ -1,3 +1,11 @@
+---
+type: Persona
+title: Nehemías
+tags: ["personas", "antiguo_testamento"]
+
+timestamp: 2026-05-29
+description: Nehemías fue un judío que sirvió como copero del rey persa Artajerjes I (s. V a.C.).
+---
 # Nehemías
 
 > Área: Personas / Antiguo Testamento

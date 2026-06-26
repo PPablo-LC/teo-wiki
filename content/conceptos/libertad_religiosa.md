@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Libertad religiosa
+tags: ["doctrina_social", "moral"]
+
+timestamp: 2026-06-20
+description: Derecho fundamental de la persona y de las comunidades a la libertad social y civil en materia religiosa, que consiste en la inmunidad frente a cualquier coacción en el campo religioso.
+---
 # Libertad religiosa
 
 > Área: Doctrina Social / Moral

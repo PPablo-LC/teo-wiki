@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Desesperación
+tags: ["moral"]
+
+timestamp: 2026-06-08
+description: "La desesperación es el pecado contra la [[virtud_de_la_esperanza]] por el cual el hombre deja de esperar de Dios su salvación personal, el auxilio para llegar a ella o el perdón de sus pecados."
+---
 # Desesperación
 
 > Área: Moral

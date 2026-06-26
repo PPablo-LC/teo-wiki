@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Dolor
+tags: ["dogmática", "cristología"]
+
+timestamp: 2026-06-12
+description: El dolor sensible es la pasión del apetito sensitivo que sigue a la lesión corporal y a su percepción sensorial.
+---
 # Dolor
 
 > Área: Dogmática / Cristología

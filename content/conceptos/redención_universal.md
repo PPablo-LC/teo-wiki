@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Redención universal
+tags: ["dogmática_—_soteriología"]
+
+timestamp: 2026-06-25
+description: La redención universal es la doctrina según la cual Jesucristo ofreció su muerte por todos los hombres, no solo por los predestinados o por los elegidos.
+---
 # Redención universal
 
 > Área: Dogmática — Soteriología

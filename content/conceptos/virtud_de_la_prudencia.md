@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Virtud de la prudencia
+tags: ["moral"]
+
+timestamp: 2026-06-23
+description: "La prudencia es la primera y principal de las [[virtudes_cardinales]], virtud infusa que reside en la razón práctica."
+---
 # Virtud de la prudencia
 
 > Área: Moral

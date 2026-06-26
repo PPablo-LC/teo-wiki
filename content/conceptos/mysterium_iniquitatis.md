@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Mysterium iniquitatis
+tags: ["dogmática", "teología_moral"]
+
+timestamp: 2026-06-18
+description: "El *mysterium iniquitatis* (misterio de la iniquidad) es la realidad profunda por la cual el mal coexiste con el bien en la historia humana."
+---
 # Mysterium iniquitatis
 
 > Área: Dogmática / Teología moral

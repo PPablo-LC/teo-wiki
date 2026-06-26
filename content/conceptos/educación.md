@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Educación
+tags: ["doctrina_social", "moral"]
+
+timestamp: 2026-05-26
+description: Proceso de formación integral de la persona humana que desarrolla armónicamente sus dotes físicas, morales e intelectuales, capacitándola para conocer la verdad.
+---
 # Educación
 
 > Área: Doctrina Social / Moral

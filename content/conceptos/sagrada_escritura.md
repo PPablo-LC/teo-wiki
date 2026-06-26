@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sagrada Escritura
+tags: ["dogmática", "teología_fundamental"]
+
+timestamp: 2026-05-26
+description: La sagrada Escritura es la Palabra de Dios expresada en lenguas humanas, escrita por inspiración del Espíritu Santo.
+---
 # Sagrada Escritura
 
 > Área: Dogmática / Teología fundamental

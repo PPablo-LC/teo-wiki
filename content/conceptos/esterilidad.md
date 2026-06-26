@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Esterilidad
+tags: ["bíblica", "moral"]
+
+timestamp: 2026-06-02
+description: Imposibilidad de tener hijos, vivida en el AT como un mal, una vergüenza y a veces un castigo.
+---
 # Esterilidad
 
 > Área: Bíblica / Moral

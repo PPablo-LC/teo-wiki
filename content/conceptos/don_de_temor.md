@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Don de temor
+tags: ["ascética", "mística"]
+
+timestamp: 2026-06-12
+description: "El don de temor de Dios es uno de los [[siete_dones_del_espíritu_santo]] que perfecciona la virtud de la [[esperanza]], dándonos un santo y filial temor de ofender a Dios."
+---
 # Don de temor
 
 > Área: Ascética / Mística

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Investigación previa canónica
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-29
+description: "La investigación previa canónica es la fase preliminar del [[proceso_canónico|proceso penal canónico]], anterior a cualquier proceso formal."
+---
 # Investigación previa canónica
 
 > Área: Derecho Canónico

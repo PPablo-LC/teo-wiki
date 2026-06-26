@@ -1,3 +1,11 @@
+---
+type: Persona
+title: Erik Varden
+tags: ["personas"]
+
+timestamp: 2026-06-10
+description: Erik Varden nació el 13 de mayo de 1974 en Sarpsborg, Noruega (diócesis de Oslo).
+---
 # Erik Varden
 
 > Área: Personas

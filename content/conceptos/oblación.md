@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Oblación
+tags: ["dogmática", "liturgia"]
+
+timestamp: 2026-05-26
+description: "La oblación es la ofrenda que se hace a Dios, especialmente la de Cristo en la cruz y en el [[sacrificio_eucarístico]], y la del cristiano que se ofrece juntamente con Cristo."
+---
 # Oblación
 
 > Área: Dogmática / Liturgia

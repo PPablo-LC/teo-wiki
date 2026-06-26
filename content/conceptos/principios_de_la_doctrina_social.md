@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Principios de la doctrina social
+tags: ["moral", "doctrina_social"]
+
+timestamp: 2026-06-19
+description: Los principios permanentes de la doctrina social de la Iglesia constituyen los verdaderos y propios puntos de apoyo de la enseñanza social católica.
+---
 # Principios de la doctrina social
 
 > Área: Moral / Doctrina social

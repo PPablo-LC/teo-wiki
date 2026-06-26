@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Incredulidad
+tags: ["moral", "dogmática"]
+
+timestamp: 2026-05-26
+description: La incredulidad (o increencia) es la falta de fe, esto es, la negación o la duda voluntaria de las verdades reveladas por Dios y propuestas por la Iglesia para ser creídas.
+---
 # Incredulidad
 
 > Área: Moral / Dogmática

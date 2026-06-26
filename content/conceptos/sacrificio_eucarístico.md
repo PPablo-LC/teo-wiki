@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sacrificio eucarístico
+tags: ["sacramental", "dogmática"]
+
+timestamp: 2026-06-15
+description: El sacrificio eucarístico es la actualización incruenta del único sacrificio de Cristo en la cruz, realizada en la Misa por el ministerio del sacerdote.
+---
 # Sacrificio eucarístico
 
 > Área: Sacramental / Dogmática

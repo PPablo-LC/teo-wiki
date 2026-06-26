@@ -1,3 +1,11 @@
+---
+type: Documento
+title: Discurso al clero de Roma
+tags: ["documentos"]
+
+timestamp: 2026-06-11
+description: "Alocución inicial y diálogo con cuatro preguntas agrupadas por franjas de edad: jóvenes sacerdotes, párrocos, sacerdotes de mediana edad y presbíteros ancianos."
+---
 # Discurso al clero de Roma
 
 > Área: Documentos

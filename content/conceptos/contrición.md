@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Contrición
+tags: ["moral", "sacramental"]
+
+timestamp: 2026-05-22
+description: La contrición es el dolor del alma por los pecados cometidos, acompañado del propósito firme de no volver a pecar.
+---
 # Contrición
 
 > Área: Moral / Sacramental

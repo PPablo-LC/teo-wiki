@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Virtud de la fe
+tags: ["dogmática", "moral"]
+
+timestamp: 2026-06-23
+description: "La fe es una [[virtud_infusa]] teologal, sobrenatural y gratuita, por la que creemos firmemente todas las cosas que Dios ha revelado y la [[iglesia]] nos propone para creer."
+---
 # Virtud de la fe
 
 > Área: Dogmática / Moral

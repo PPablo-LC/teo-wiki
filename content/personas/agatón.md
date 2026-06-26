@@ -1,3 +1,11 @@
+---
+type: Persona
+title: San Agatón
+tags: ["historia_—_papado"]
+
+timestamp: 2026-06-25
+description: Agatón fue papa en la fase final de la controversia monotelita. El emperador Constantino IV convocó el III Concilio de Constantinopla (680-681, VI ecuménico) para resolver la disputa.
+---
 # San Agatón
 
 > Área: Historia — Papado

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sinceridad
+tags: ["moral"]
+
+timestamp: 2026-05-26
+description: La sinceridad es la virtud moral que dispone a manifestar exteriormente lo que se piensa y siente interiormente, sin engaño ni ficción.
+---
 # Sinceridad
 
 > Área: Moral

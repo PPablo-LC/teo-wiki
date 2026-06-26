@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Litigio
+tags: ["moral"]
+
+timestamp: 2026-06-10
+description: "Vicio opuesto a la [[afabilidad]] por exceso en contristar al prójimo, consistente en contradecir sistemáticamente las palabras de otro con la intención de causarle desagrado."
+---
 # Litigio
 
 > Área: Moral

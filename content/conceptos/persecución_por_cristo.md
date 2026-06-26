@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Persecución por Cristo
+tags: ["ascética", "moral", "espiritualidad"]
+
+timestamp: 2026-06-22
+description: La persecución por Cristo es la experiencia de hostilidad, rechazo y sufrimiento que el discípulo puede padecer a causa de su fe y seguimiento de Jesús.
+---
 # Persecución por Cristo
 
 > Área: Ascética / Moral / Espiritualidad

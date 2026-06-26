@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Pobreza de Cristo
+tags: ["cristología", "espiritualidad"]
+
+timestamp: 2026-06-22
+description: La pobreza de Cristo se refiere a las condiciones materiales humildes que caracterizaron toda su vida terrena, desde su nacimiento en Belén hasta su muerte en la cruz.
+---
 # Pobreza de Cristo
 
 > Área: Cristología / Espiritualidad

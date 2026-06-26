@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sentido eclesial
+tags: ["eclesiología", "liturgia"]
+
+timestamp: 2026-06-13
+description: El sentido eclesial es la conciencia de pertenencia a la Iglesia como communio y la disposición interior a vivir la liturgia y la vida cristiana en comunión con toda la Iglesia.
+---
 # Sentido eclesial
 
 > Área: Eclesiología / Liturgia

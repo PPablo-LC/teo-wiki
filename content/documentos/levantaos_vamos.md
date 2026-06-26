@@ -1,3 +1,8 @@
+---
+type: Documento
+title: Levantaos, Vamos
+description: "*¡Levantaos! ¡Vamos!* (subtitulado *Recuerdos y reflexiones sobre el episcopado*) es el complemento autobiográfico de *Don y Misterio*."
+---
 # Levantaos, Vamos
 
 > Tipo: Libro autobiográfico-teológico

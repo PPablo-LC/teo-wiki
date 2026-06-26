@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Lujuria
+tags: ["moral"]
+
+timestamp: 2026-06-11
+description: La lujuria es el deseo o goce desordenado del placer venéreo.
+---
 # Lujuria
 
 > Área: Moral

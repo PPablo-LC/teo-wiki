@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Virtudes teologales
+tags: ["moral", "dogmática"]
+
+timestamp: 2026-05-26
+description: "Las virtudes teologales son las tres virtudes infusas que tienen a Dios mismo como objeto inmediato: fe, esperanza y caridad."
+---
 # Virtudes teologales
 
 > Área: Moral / Dogmática

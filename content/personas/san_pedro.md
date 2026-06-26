@@ -1,3 +1,11 @@
+---
+type: Persona
+title: San Pedro
+tags: ["eclesiología", "historia"]
+
+timestamp: 2026-06-02
+description: "San Pedro (Simon bar Jonás) fue el primero de los [[apóstoles]], constituido por Cristo como fundamento visible de su Iglesia y primer [[romano_pontífice]] (Papa)."
+---
 # San Pedro
 
 > Área: Eclesiología / Historia

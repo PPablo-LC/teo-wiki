@@ -1,3 +1,8 @@
+---
+type: Documento
+title: Memoria e Identidad
+description: "*Memoria e Identidad. Conversaciones al filo de dos milenios* es el último libro publicado por Juan Pablo II en vida (2005)."
+---
 # Memoria e Identidad
 
 > **Código:** MI

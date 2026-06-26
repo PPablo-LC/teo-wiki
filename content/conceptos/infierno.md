@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Infierno
+tags: ["escatología"]
+
+timestamp: 2026-06-16
+description: El infierno es el estado de autoexclusión definitiva de la comunión con Dios y con los bienaventurados, en el que se incurre por la muerte en pecado mortal sin arrepentimiento.
+---
 # Infierno
 
 > Área: Escatología

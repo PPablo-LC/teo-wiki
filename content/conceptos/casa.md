@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Casa
+tags: ["dogmática_(eclesiología", "antiguo_testamento)"]
+
+timestamp: 2026-06-02
+description: "En la Escritura, la palabra «casa» (hebreo *bayt*) designa tanto la morada material y el hogar familiar como la familia misma y, por extensión, el pueblo de Dios (casa de Israel, casa de David)."
+---
 # Casa
 
 > Área: Dogmática (Eclesiología, Antiguo Testamento)

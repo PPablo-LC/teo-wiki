@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Madurez afectiva
+tags: ["teología_espiritual", "ascética"]
+
+timestamp: 2026-06-14
+description: Capacidad de la persona para integrar armónicamente la afectividad y la sexualidad en la propia personalidad, estableciendo relaciones interpersonales sanas, equilibradas y auténticamente libres.
+---
 # Madurez afectiva
 
 > Área: Teología espiritual / Ascética

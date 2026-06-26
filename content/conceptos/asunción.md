@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Asunción
+tags: ["dogmática_(mariología)"]
+
+timestamp: 2026-05-26
+description: "Dogma definido por Pío XII el 1 de noviembre de 1950 (Constitución Apostólica *Munificentissimus Deus*)."
+---
 # Asunción
 
 > Área: Dogmática (Mariología)

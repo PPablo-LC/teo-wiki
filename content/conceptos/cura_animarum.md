@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cura animarum
+tags: ["teología_pastoral", "eclesiología"]
+
+timestamp: 2026-06-15
+description: Expresión latina que significa «cura de almas».
+---
 # Cura animarum
 
 > Área: Teología pastoral / Eclesiología

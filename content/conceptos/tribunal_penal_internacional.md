@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Tribunal Penal Internacional
+tags: ["moral_social", "derecho_internacional"]
+
+timestamp: 2026-06-19
+description: El Tribunal Penal Internacional es una instancia judicial creada por la Comunidad Internacional para castigar los crímenes más graves contra la humanidad.
+---
 # Tribunal Penal Internacional
 
 > Área: Moral social / Derecho internacional

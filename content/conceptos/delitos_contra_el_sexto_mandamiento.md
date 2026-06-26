@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Delitos contra el sexto mandamiento
+tags: ["derecho_canónico", "moral"]
+
+timestamp: 2026-05-29
+description: "Los delitos contra el sexto mandamiento reservados a la [[dicasterio_para_la_doctrina_de_la_fe]] como *delicta graviora* son aquellos cometidos por clérigos contra la moral sexual, específicamente."
+---
 # Delitos contra el sexto mandamiento
 
 > Área: Derecho Canónico / Moral

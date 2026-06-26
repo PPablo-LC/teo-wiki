@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: acto_puro
+tags: ["dogmática"]
+
+timestamp: 2026-05-29
+description: "El Acto Puro (*Actus Purus*) es Dios en cuanto ser subsistente absolutamente exento de toda potencia o mezcla de imperfección."
+---
 # acto_puro
 
 > Área: Dogmática

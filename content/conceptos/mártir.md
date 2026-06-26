@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Mártir
+tags: ["dogmática"]
+
+timestamp: 2026-06-02
+description: "Mártir (gr. *martys*) significa etimológicamente «testigo»."
+---
 # Mártir
 
 > Área: Dogmática

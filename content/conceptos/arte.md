@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Arte
+tags: ["liturgia", "cultura"]
+
+timestamp: 2026-05-26
+description: "El arte sagrado es aquella expresión artística que, puesta al servicio del culto divino, contribuye a la belleza de la [[liturgia]] y eleva el alma hacia Dios."
+---
 # Arte
 
 > Área: Liturgia / Cultura

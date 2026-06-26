@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Presbíteros
+tags: ["sacramental"]
+
+timestamp: 2026-05-29
+description: Los presbíteros son varones constituidos en el segundo grado del sacramento del Orden, colaboradores del obispo en el ministerio apostólico.
+---
 # Presbíteros
 
 > Área: Sacramental

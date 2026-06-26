@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cosmología
+tags: ["dogmática"]
+
+timestamp: 2026-06-23
+description: "La cosmología teológica estudia el cosmos en su relación con Dios Creador: su origen, finalidad, orden y destino escatológico."
+---
 # Cosmología
 
 > Área: Dogmática

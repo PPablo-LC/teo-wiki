@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Vigilancia
+tags: ["ascética"]
+
+timestamp: 2026-05-22
+description: Virtud o disposición espiritual por la cual el cristiano permanece alerta contra las tentaciones y las asechanzas del demonio.
+---
 # Vigilancia
 
 > Área: Ascética

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Guerra
+tags: ["moral"]
+
+timestamp: 2026-06-08
+description: "La guerra es un conflicto armado entre comunidades políticas. No toda guerra es pecado: la guerra justa requiere tres condiciones: autoridad legítima del príncipe, causa justa y recta intención."
+---
 # Guerra
 
 > Área: Moral

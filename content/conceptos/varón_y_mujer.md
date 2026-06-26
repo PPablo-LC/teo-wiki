@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Varón y mujer
+tags: ["antropología_teológica", "doctrina_social"]
+
+timestamp: 2026-05-25
+description: La humanidad existe como varón y mujer, dos modos de ser de la misma criatura humana, ambos creados a imagen de Dios con igual dignidad pero diversidad complementaria.
+---
 # Varón y mujer
 
 > Área: Antropología Teológica / Doctrina Social

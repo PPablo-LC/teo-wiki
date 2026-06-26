@@ -1,3 +1,11 @@
+---
+type: Persona
+title: San Benito de Nursia
+tags: ["persona", "hagiografía"]
+
+timestamp: 2026-05-22
+description: Benito de Nursia (c. 480-547), patriarca del monacato occidental, nacido en Nursia (actual Norcia, Italia). Estudió en Roma, pero huyó de la vida mundana para retirarse como ermitaño en Subiaco.
+---
 # San Benito de Nursia
 
 > Área: Persona / Hagiografía

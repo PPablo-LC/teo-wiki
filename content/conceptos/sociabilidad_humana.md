@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sociabilidad humana
+tags: ["moral", "doctrina_social"]
+
+timestamp: 2026-06-19
+description: La sociabilidad humana es la propiedad de la persona humana por la que esta necesita la vida social como exigencia de su propia naturaleza, no como algo sobreañadido (CEC §1879).
+---
 # Sociabilidad humana
 
 > Área: Moral / Doctrina Social

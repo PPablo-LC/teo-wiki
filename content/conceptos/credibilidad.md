@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Credibilidad
+tags: ["teología_fundamental"]
+
+timestamp: 2026-05-26
+description: Cualidad de la Revelación divina que la hace digna de ser aceptada como verdadera por la razón humana.
+---
 # Credibilidad
 
 > Área: Teología fundamental

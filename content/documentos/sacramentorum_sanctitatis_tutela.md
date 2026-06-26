@@ -1,3 +1,11 @@
+---
+type: Documento
+title: Sacramentorum Sanctitatis Tutela
+tags: ["documentos"]
+
+timestamp: 2026-06-11
+description: "Promulga las *Normae de gravioribus delictis* reservados a la Congregación para la Doctrina de la Fe."
+---
 # Sacramentorum Sanctitatis Tutela
 
 > Área: Documentos

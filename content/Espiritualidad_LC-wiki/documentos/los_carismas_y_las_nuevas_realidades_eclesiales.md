@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Los carismas y las nuevas realidades eclesiales
+tags: ["documentos_—_espiritualidad_legionaria"]
+
+timestamp: 2026-06-13
+description: "El documento consta de 6 secciones:"
+---
 # Los carismas y las nuevas realidades eclesiales
 
 > Área: Documentos — Espiritualidad legionaria

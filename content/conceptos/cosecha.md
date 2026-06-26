@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cosecha (Siega)
+tags: ["sagrada_escritura"]
+
+timestamp: 2026-06-23
+description: La cosecha o siega es un símbolo bíblico que representa el fruto del trabajo humano y la bendición divina.
+---
 # Cosecha (Siega)
 
 > Área: Sagrada Escritura

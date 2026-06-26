@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Victoria
+tags: ["cristología", "escatología"]
+
+timestamp: 2026-06-02
+description: La victoria en la teología bíblica es la obra de Dios que triunfa sobre el mal, el pecado, la muerte y Satanás por medio de Jesucristo.
+---
 # Victoria
 
 > Área: Cristología / Escatología

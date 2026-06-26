@@ -1,3 +1,11 @@
+---
+type: Documento
+title: Normae de gravioribus delictis
+tags: ["documentos"]
+
+timestamp: 2026-06-11
+description: "Reforma de las *Normae* de 2001 que introduce cambios sustanciales."
+---
 # Normae de gravioribus delictis
 
 > Área: Documentos

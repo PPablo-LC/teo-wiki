@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Complementariedad
+tags: ["antropología_teológica", "doctrina_social"]
+
+timestamp: 2026-05-25
+description: La complementariedad es la relación de mutuo completamiento entre el varón y la mujer, no solo desde el punto de vista físico y psíquico, sino también ontológico.
+---
 # Complementariedad
 
 > Área: Antropología Teológica / Doctrina Social

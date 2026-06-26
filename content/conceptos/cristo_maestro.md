@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cristo Maestro
+tags: ["cristología", "teología_fundamental"]
+
+timestamp: 2026-06-21
+description: Cristo es el doctor supremo, la Palabra viva del Padre.
+---
 # Cristo Maestro
 
 > Área: Cristología / Teología fundamental

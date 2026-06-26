@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Subsistit in
+tags: ["eclesiología"]
+
+timestamp: 2026-05-26
+description: La expresión «subsistit in» («subsiste en») es la fórmula empleada por el Concilio Vaticano II en Lumen Gentium §8 para expresar la relación entre la Iglesia de Cristo y la Iglesia católica.
+---
 # Subsistit in
 
 > Área: Eclesiología

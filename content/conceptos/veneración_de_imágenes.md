@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Veneración de Imágenes
+tags: ["sacramental", "culto"]
+
+timestamp: 2026-05-22
+description: Culto de dulía o veneración que los fieles tributan a las imágenes sagradas de Cristo, de la Santísima Virgen y de los santos, distinto de la adoración (latría) que solo corresponde a Dios.
+---
 # Veneración de Imágenes
 
 > Área: Sacramental / Culto

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Bienes temporales
+tags: ["moral"]
+
+timestamp: 2026-05-25
+description: Los bienes temporales son aquellos bienes materiales y recursos terrenos que Dios ha puesto al servicio de la humanidad.
+---
 # Bienes temporales
 
 > Área: Moral

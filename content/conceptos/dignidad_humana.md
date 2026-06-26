@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Dignidad humana
+tags: ["moral", "dogmática"]
+
+timestamp: 2026-06-20
+description: La dignidad humana es el valor intrínseco e inalienable de la persona humana por el hecho de haber sido creada a imagen y semejanza de Dios.
+---
 # Dignidad humana
 
 > Área: Moral / Dogmática

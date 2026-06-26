@@ -1,3 +1,11 @@
+---
+type: Persona
+title: Benedicto I
+tags: ["historia_—_papado"]
+
+timestamp: 2026-06-25
+description: Benedicto I fue papa durante el avance lombardo sobre Italia. Su pontificado fue breve y estuvo marcado por la presión militar lombarda y la dificultad de las comunicaciones con Constantinopla.
+---
 # Benedicto I
 
 > Área: Historia — Papado

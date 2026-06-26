@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ley eterna
+tags: ["moral_fundamental"]
+
+timestamp: 2026-06-20
+description: "La ley eterna (*lex aeterna*) es el plan de la sabiduría divina en cuanto ordena todos los actos y movimientos de las criaturas hacia su fin último."
+---
 # Ley eterna
 
 > Área: Moral Fundamental

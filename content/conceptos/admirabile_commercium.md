@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Admirabile commercium
+tags: ["teología_espiritual", "cristología"]
+
+timestamp: 2026-06-15
+description: Expresión latina que significa «admirable intercambio» o «maravilloso trueque».
+---
 # Admirabile commercium
 
 > Área: Teología espiritual / Cristología

@@ -1,3 +1,11 @@
+---
+type: Persona
+title: IV Concilio de Letrán
+tags: ["historia_—_concilios_ecuménicos"]
+
+timestamp: 2026-06-25
+description: El IV Concilio de Letrán fue el concilio más importante de la Edad Media latina.
+---
 # IV Concilio de Letrán
 
 > Área: Historia — Concilios Ecuménicos

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Prescripción canónica
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-29
+description: La prescripción es un modo de adquirir o perder un derecho subjetivo, así como de liberarse de obligaciones, mediante el transcurso del tiempo en las condiciones determinadas por la ley.
+---
 # Prescripción canónica
 
 > Área: Derecho Canónico

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Labios
+tags: ["bíblica", "antropología_bíblica"]
+
+timestamp: 2026-06-02
+description: "En la antropología bíblica, los labios son la abertura por la que se expresa el contenido del corazón: son el órgano de la palabra en estado naciente, capaces tanto de bendición como de engaño."
+---
 # Labios
 
 > Área: Bíblica, Antropología bíblica

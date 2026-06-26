@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Mal intrínseco
+tags: ["moral_fundamental"]
+
+timestamp: 2026-06-20
+description: "El mal intrínseco (*intrinsece malum*) designa aquellos actos que son siempre gravemente ilícitos por su objeto, con independencia de las circunstancias o las intenciones del agente."
+---
 # Mal intrínseco
 
 > Área: Moral Fundamental

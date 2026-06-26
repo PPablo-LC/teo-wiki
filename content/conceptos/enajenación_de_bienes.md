@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Enajenación de bienes
+tags: ["derecho_canónico"]
+
+timestamp: 2026-06-19
+description: La enajenación de bienes es la transmisión del dominio o de otros derechos reales sobre bienes eclesiásticos.
+---
 # Enajenación de bienes
 
 > Área: Derecho Canónico

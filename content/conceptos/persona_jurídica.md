@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Persona jurídica
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: En derecho canónico, la persona jurídica —también llamada personalidad moral o ente colectivo— es un ente constituido por personas o por bienes, al que la Iglesia otorga personalidad jurídica.
+---
 # Persona jurídica
 
 > Área: Derecho Canónico

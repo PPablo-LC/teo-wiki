@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sensus fidei
+tags: ["eclesiología"]
+
+timestamp: 2026-05-26
+description: El sensus fidei (sentido de la fe) es la capacidad sobrenatural por la cual el Pueblo de Dios, bajo la guía del Magisterio, se adhiere indefectiblemente a la fe recibida.
+---
 # Sensus fidei
 
 > Área: Eclesiología

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Derecho internacional
+tags: ["doctrina_social"]
+
+timestamp: 2026-05-25
+description: Ordenamiento jurídico que regula las relaciones entre los Estados y los pueblos, fundado en la ley moral universal.
+---
 # Derecho internacional
 
 > Área: Doctrina Social

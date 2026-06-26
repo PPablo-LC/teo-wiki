@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Justicia internacional
+tags: ["moral", "doctrina_social"]
+
+timestamp: 2026-05-26
+description: La justicia internacional es la aplicación de la virtud de la justicia a las relaciones entre las naciones, que exige el respeto de los derechos de cada pueblo, la solidaridad entre las naciones.
+---
 # Justicia internacional
 
 > Área: Moral / Doctrina Social

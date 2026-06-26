@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Semana
+tags: ["liturgia"]
+
+timestamp: 2026-06-02
+description: La semana es un ciclo de siete días que estructura el tiempo litúrgico y la vida cristiana. Su fundamento bíblico es el relato de la creación en siete días y el precepto del sábado.
+---
 # Semana
 
 > Área: Liturgia

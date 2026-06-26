@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Alianzas
+tags: ["teología_bíblica"]
+
+timestamp: 2026-05-22
+description: Las alianzas son los pactos sucesivos que Dios ha establecido con la humanidad a lo largo de la historia de la salvación, mediante los cuales se vincula libremente con su pueblo.
+---
 # Alianzas
 
 > Área: Teología bíblica

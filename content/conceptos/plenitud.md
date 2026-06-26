@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Plenitud
+tags: ["bíblica", "cristología", "eclesiología"]
+
+timestamp: 2026-06-02
+description: Concepto que expresa la perfección en la abundancia del poder salvador de Cristo.
+---
 # Plenitud
 
 > Área: Bíblica, Cristología, Eclesiología

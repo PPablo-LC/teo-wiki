@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Don de temor de Dios
+tags: ["ascética", "mística"]
+
+timestamp: 2026-06-08
+description: "El don de temor de Dios es uno de los [[siete_dones_del_espíritu_santo]], un hábito sobrenatural por el cual el justo, bajo el instinto del Espíritu Santo."
+---
 # Don de temor de Dios
 
 > Área: Ascética / Mística

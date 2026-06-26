@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Raíces cristianas
+tags: ["doctrina_social", "cultural"]
+
+timestamp: 2026-06-18
+description: Las raíces cristianas son el conjunto de valores, tradiciones, instituciones y cultura que la civilización europea ha recibido del cristianismo y que constituyen su fundamento espiritual e histórico.
+---
 # Raíces cristianas
 
 > Área: Doctrina Social / Cultural

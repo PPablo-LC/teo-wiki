@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Mezquindad
+tags: ["moral"]
+
+timestamp: 2026-06-11
+description: "La mezquindad (o parvificencia, del latín *parvificentia*) es el vicio opuesto a la [[magnificencia]] por defecto, consistente en gastar menos de lo que una obra requiere."
+---
 # Mezquindad
 
 > Área: Moral

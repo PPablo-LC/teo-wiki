@@ -1,3 +1,8 @@
+---
+type: Consulta
+title: Reporte de conceptos huérfanos mencionados en notas
+description: "Generado: 2026-06-03 (actualizado) Notas analizadas: 34 archivos en `wiki/notas/analizados/` y `wiki/notas/consultas/`"
+---
 # Reporte de conceptos huérfanos mencionados en notas
 
 Generado: 2026-06-03 (actualizado)

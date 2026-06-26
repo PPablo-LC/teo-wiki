@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Teología moral
+tags: ["moral", "teología"]
+
+timestamp: 2026-05-25
+description: La teología moral es la parte de la teología que estudia los actos humanos a la luz de la Revelación, ordenándolos a su fin último que es Dios.
+---
 # Teología moral
 
 > Área: Moral / Teología

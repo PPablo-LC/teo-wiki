@@ -1,3 +1,9 @@
+---
+type: Análisis Doctrinal
+title: "Joe McInerny — A Humble Greatness: The Key to Excellence In Leadership: Análisis doctrinal"
+timestamp: 2026-06-03
+description: Conferencia del profesor de ética de la Academia Naval y director del programa de Liderazgo y Ética de los Caballeros de Colón, Joe McInerny, en la Catholic Men's Conference 2022.
+---
 # Joe McInerny — A Humble Greatness: The Key to Excellence In Leadership: Análisis doctrinal
 
 > Tipo: Análisis doctrinal

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Vos estis lux mundi
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-29
+description: «Vos estis lux mundi» («Vosotros sois la luz del mundo», Mt 5,14) es una Carta Apostólica en forma de Motu Proprio del Papa Francisco.
+---
 # Vos estis lux mundi
 
 > Área: Derecho Canónico

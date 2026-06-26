@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Comunión de los Santos
+tags: ["dogmática"]
+
+timestamp: 2026-06-16
+description: Artículo del Símbolo de los Apóstoles que expresa la íntima unión de todos los fieles cristianos —los que peregrinan en la tierra.
+---
 # Comunión de los Santos
 
 > Área: Dogmática

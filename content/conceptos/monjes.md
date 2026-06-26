@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Monjes
+tags: ["vida_consagrada"]
+
+timestamp: 2026-06-24
+description: "Los monjes (del griego *monachós* = solitario) son cristianos que abrazan la vida consagrada mediante los consejos evangélicos, retirándose del mundo para dedicarse a la oración."
+---
 # Monjes
 
 > Área: Vida consagrada

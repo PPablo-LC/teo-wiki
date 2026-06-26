@@ -1,3 +1,8 @@
+---
+type: Concepto Teológico
+title: Servicio
+description: El acto de ayudar o asistir al projimo por amor a Dios, considerado en la tradicion cristiana como expresion concreta de la caridad y participacion en la mision de Cristo.
+---
 # Servicio
 
 > Area: Moral

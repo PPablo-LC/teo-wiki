@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Diaconado
+tags: ["sacramental", "eclesiología"]
+
+timestamp: 2026-05-25
+description: El diaconado es el primero y más bajo de los tres grados del sacramento del Orden, destinado al servicio (diaconía) de la Iglesia en la liturgia, la palabra y la caridad, bajo la autoridad del obispo.
+---
 # Diaconado
 
 > Área: Sacramental / Eclesiología

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Virtud de la templanza
+tags: ["moral"]
+
+timestamp: 2026-06-23
+description: "La templanza es la cuarta de las [[virtudes_cardinales]], virtud infusa que modera la pasión del apetito concupiscible en los deleites de los sentidos."
+---
 # Virtud de la templanza
 
 > Área: Moral

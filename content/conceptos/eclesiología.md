@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Eclesiología
+tags: ["dogmática", "eclesiología"]
+
+timestamp: 2026-05-29
+description: La eclesiología es la disciplina teológica que estudia la naturaleza, la estructura, la misión y el fin de la Iglesia fundada por Jesucristo.
+---
 # Eclesiología
 
 > Área: Dogmática / Eclesiología

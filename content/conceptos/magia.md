@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Magia
+tags: ["moral"]
+
+timestamp: 2026-06-19
+description: La magia es la pretensión de dominar las fuerzas ocultas de la naturaleza o de los seres espirituales por medios que no son propios de la religión legítima.
+---
 # Magia
 
 > Área: Moral

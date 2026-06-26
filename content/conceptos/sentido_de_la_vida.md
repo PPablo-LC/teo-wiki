@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sentido de la vida
+tags: ["antropología_teológica", "moral"]
+
+timestamp: 2026-06-19
+description: El sentido de la vida es la respuesta a la pregunta fundamental del hombre sobre el significado de su existencia, de su acción y de su muerte.
+---
 # Sentido de la vida
 
 > Área: Antropología teológica / Moral

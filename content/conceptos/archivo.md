@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Archivo
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: Lugar donde se custodian, ordenan y conservan los documentos y escrituras de una [[diócesis]] o entidad eclesiástica. Comprende el archivo general o común, el archivo secreto y el archivo histórico.
+---
 # Archivo
 
 > Área: Derecho canónico

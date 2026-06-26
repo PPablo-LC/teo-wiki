@@ -1,3 +1,11 @@
+---
+type: Persona
+title: Papa Francisco
+tags: ["personajes", "teólogos"]
+
+timestamp: 2026-05-29
+description: Jorge Mario Bergoglio (Buenos Aires, 17 de diciembre de 1936).
+---
 # Papa Francisco
 
 > Área: Personajes / Teólogos

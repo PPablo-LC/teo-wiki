@@ -1,6 +1,14 @@
+---
+type: Concepto Teológico
+title: Salmos
+tags: ["teología_bíblica", "liturgia"]
+
+timestamp: 2026-05-26
+description: "Los Salmos son el libro de oración de la [[sagrada_escritura]] y de la Iglesia."
+---
 # Salmos
 
-> Área: Escritura / Liturgia
+> Área: Teología bíblica / Liturgia
 > Última actualización: 2026-05-26
 
 ## Definición

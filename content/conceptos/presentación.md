@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Presentación
+tags: ["liturgia", "mariología"]
+
+timestamp: 2026-05-26
+description: La Presentación del Señor (también llamada Purificación de María o Candelaria) es una fiesta litúrgica que conmemora la presentación de Jesús en el Templo de Jerusalén cuarenta días después de su...
+---
 # Presentación
 
 > Área: Liturgia / Mariología

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Lucha contra el Mundo
+tags: ["ascética"]
+
+timestamp: 2026-05-20
+description: El mundo es el ambiente anticristiano que se respira entre las gentes que viven totalmente olvidadas de Dios y entregadas a las cosas de la tierra.
+---
 # Lucha contra el Mundo
 
 > Área: Ascética

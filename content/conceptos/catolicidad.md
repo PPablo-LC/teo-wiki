@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Catolicidad
+tags: ["eclesiología"]
+
+timestamp: 2026-05-26
+description: La catolicidad es la nota de la Iglesia por la cual ella posee la plenitud de los medios de salvación y está destinada a todos los hombres, a todos los pueblos y a todas las épocas.
+---
 # Catolicidad
 
 > Área: Eclesiología

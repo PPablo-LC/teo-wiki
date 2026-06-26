@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Vida espiritual
+tags: ["ascética", "mística"]
+
+timestamp: 2026-05-26
+description: "La vida espiritual es la vida del alma informada por la [[gracia_santificante]], por la cual el hombre vive en relación filial con Dios."
+---
 # Vida espiritual
 
 > Área: Ascética / Mística

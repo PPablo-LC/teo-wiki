@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Autoridad divina de Cristo
+tags: ["cristología", "dogmática"]
+
+timestamp: 2026-06-22
+description: La autoridad divina de Cristo es la potestad propia de Dios que Jesús manifiesta en su enseñanza y en sus obras.
+---
 # Autoridad divina de Cristo
 
 > Área: Cristología / Dogmática

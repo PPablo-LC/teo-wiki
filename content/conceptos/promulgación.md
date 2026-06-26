@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Promulgación
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: La promulgación es el acto por el cual una ley queda establecida y adquiere fuerza obligatoria, mediante su publicación auténtica según el modo determinado por el derecho.
+---
 # Promulgación
 
 > Área: Derecho Canónico

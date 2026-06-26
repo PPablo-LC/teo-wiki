@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Conformidad con la Voluntad Divina
+tags: ["ascética"]
+
+timestamp: 2026-05-29
+description: La conformidad con la voluntad divina es la virtud por la cual el alma ajusta su voluntad humana a la voluntad de Dios, queriendo todo lo que Dios quiere y en la medida en que lo quiere.
+---
 # Conformidad con la Voluntad Divina
 
 > Área: Ascética

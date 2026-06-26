@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Menor
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-29
+description: Persona física que no ha cumplido dieciocho años de edad (CIC c. 97 §1).
+---
 # Menor
 
 > Área: Derecho Canónico

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Privilegio canónico
+tags: ["derecho_canónico"]
+
+timestamp: 2026-06-19
+description: Gracia otorgada por acto peculiar en favor de determinadas personas, tanto físicas como jurídicas.
+---
 # Privilegio canónico
 
 > Área: Derecho Canónico

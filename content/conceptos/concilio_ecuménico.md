@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Concilio ecuménico
+tags: ["eclesiología"]
+
+timestamp: 2026-05-26
+description: Reunión solemne de todo el Colegio Episcopal bajo la autoridad y presidencia del Romano Pontífice, con potestad para definir sobre materias de fe, moral y disciplina eclesiástica.
+---
 # Concilio ecuménico
 
 > Área: Eclesiología

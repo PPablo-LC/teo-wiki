@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sequela Christi
+tags: ["ascética", "teología_espiritual"]
+
+timestamp: 2026-06-17
+description: "Término latino que designa el seguimiento de Cristo —«sígueme» (*Mc* 1,17; 10,21)— como camino de discipulado y configuración con el Maestro."
+---
 # Sequela Christi
 
 > Área: Ascética / Teología espiritual

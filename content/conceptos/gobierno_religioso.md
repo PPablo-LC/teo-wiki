@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Gobierno religioso
+tags: ["derecho_canónico", "vida_consagrada"]
+
+timestamp: 2026-05-29
+description: El gobierno religioso es el ejercicio de la autoridad en un instituto de vida consagrada o sociedad de vida apostólica, conforme al derecho canónico universal y al derecho propio del instituto.
+---
 # Gobierno religioso
 
 > Área: Derecho Canónico / Vida Consagrada

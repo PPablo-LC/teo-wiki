@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Teólogo
+tags: ["eclesiología", "teología_moral"]
+
+timestamp: 2026-06-20
+description: El teólogo es el miembro del Pueblo de Dios que, con la competencia científica adquirida por el estudio metódico de la ciencia sagrada.
+---
 # Teólogo
 
 > Área: Eclesiología / Teología Moral

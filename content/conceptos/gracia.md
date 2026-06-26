@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Gracia
+tags: ["dogmática"]
+
+timestamp: 2026-06-08
+description: "Don gratuito que Dios nos da para responder a su llamada: llegar a ser hijos de Dios, partícipes de la naturaleza divina y de la vida eterna."
+---
 # Gracia
 
 > Área: Dogmática

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Salmo Miserere
+tags: ["escritura", "liturgia"]
+
+timestamp: 2026-06-18
+description: "El Salmo 50 (numeración hebrrea) o 49 (numeración griega/latina), conocido como *Miserere*, es uno de los salmos de penitencia más célebres de la Biblia."
+---
 # Salmo Miserere
 
 > Área: Escritura / Liturgia

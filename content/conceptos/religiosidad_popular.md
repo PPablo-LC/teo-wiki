@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Religiosidad Popular
+tags: ["liturgia_(piedad_popular)"]
+
+timestamp: 2026-05-29
+description: La religiosidad popular es el conjunto de manifestaciones culturales y devocionales en las que el pueblo cristiano expresa su fe de manera espontánea.
+---
 # Religiosidad Popular
 
 > Área: Liturgia (Piedad popular)

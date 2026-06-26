@@ -1,3 +1,9 @@
+---
+type: Concepto Teológico
+title: Obras de misericordia
+timestamp: 2026-06-23
+description: "Acciones caritativas mediante las cuales el cristiano socorre a su projimo en sus necesidades corporales y espirituales. Se dividen tradicionalmente en catorce: siete corporales y siete espirituales."
+---
 # Obras de misericordia
 
 > Area: Moral

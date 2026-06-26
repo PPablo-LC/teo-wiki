@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Continencia
+tags: ["moral"]
+
+timestamp: 2026-06-11
+description: La continencia es la virtud que modera las pasiones vehementes, especialmente los placeres del tacto (venéreos y gustativos).
+---
 # Continencia
 
 > Área: Moral

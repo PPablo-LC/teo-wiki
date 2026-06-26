@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Profesión de la fe
+tags: ["dogmática"]
+
+timestamp: 2026-05-29
+description: La profesión de la fe es el acto por el cual el creyente, personal y eclesialmente, manifiesta su adhesión a las verdades reveladas por Dios y transmitidas por la Iglesia.
+---
 # Profesión de la fe
 
 > Área: Dogmática

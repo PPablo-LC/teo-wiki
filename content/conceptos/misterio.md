@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Misterio
+tags: ["teología_bíblica", "dogmática"]
+
+timestamp: 2026-06-19
+description: "El término «misterio» (*mysterion*) designa en la Escritura el secreto designio de salvación que Dios realiza en la historia."
+---
 # Misterio
 
 > Área: Teología Bíblica / Dogmática

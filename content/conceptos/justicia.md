@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Justicia
+tags: ["moral", "dogmática"]
+
+timestamp: 2026-06-09
+description: La justicia es la segunda de las virtudes cardinales, virtud infusa que reside en la voluntad, por la que se da a cada uno lo suyo con voluntad constante y perpetua.
+---
 # Justicia
 
 > Área: Moral / Dogmática

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Derechos humanos
+tags: ["doctrina_social", "moral"]
+
+timestamp: 2026-05-25
+description: Conjunto de derechos fundamentales e inalienables que brotan de la dignidad de la persona humana creada a imagen de Dios.
+---
 # Derechos humanos
 
 > Área: Doctrina Social / Moral

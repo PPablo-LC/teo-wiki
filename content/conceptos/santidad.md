@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Santidad
+tags: ["dogmática", "ascética"]
+
+timestamp: 2026-06-12
+description: "La santidad (del latín *sanctitas*) es la perfección de la caridad por la cual el hombre, elevado por la gracia, participa de la santidad misma de Dios."
+---
 # Santidad
 
 > Área: Dogmática / Ascética

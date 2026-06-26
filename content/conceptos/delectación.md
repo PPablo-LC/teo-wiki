@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Delectación
+tags: ["moral", "antropología"]
+
+timestamp: 2026-06-06
+description: "La delectación (*delectatio*) es una pasión del apetito concupiscible que consiste en el reposo del apetito en el bien conseguido, acompañado de la sensación de dicha posesión."
+---
 # Delectación
 
 > Área: Moral / Antropología

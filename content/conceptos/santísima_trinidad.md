@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Santísima Trinidad
+tags: ["dogmática"]
+
+timestamp: 2026-05-21
+description: "La Santísima Trinidad es el misterio central de la fe cristiana: un solo Dios en tres Personas distintas —Padre, Hijo y Espíritu Santo— que subsisten en la unidad de la esencia divina."
+---
 # Santísima Trinidad
 
 > Área: Dogmática

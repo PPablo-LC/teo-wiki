@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Nulidad matrimonial
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-25
+description: La nulidad matrimonial es la declaración judicial por la que un tribunal eclesiástico determina que un matrimonio aparente nunca fue válido por existir desde el momento de su celebración un defecto...
+---
 # Nulidad matrimonial
 
 > Área: Derecho Canónico

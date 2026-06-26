@@ -1,3 +1,11 @@
+---
+type: Persona
+title: San Nicolás I
+tags: ["historia_—_papado"]
+
+timestamp: 2026-06-25
+description: San Nicolás I fue uno de los grandes papas del período post-carolingio, conocido por su firme defensa del primado papal frente a los emperadores y patriarcas orientales.
+---
 # San Nicolás I
 
 > Área: Historia — Papado

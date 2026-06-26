@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Magisterio de la Iglesia
+tags: ["dogmática", "eclesiología"]
+
+timestamp: 2026-05-26
+description: El Magisterio de la Iglesia es el oficio de interpretar auténticamente la Palabra de Dios, oral o escrita, confiado por Cristo a los Apóstoles y a sus sucesores.
+---
 # Magisterio de la Iglesia
 
 > Área: Dogmática / Eclesiología

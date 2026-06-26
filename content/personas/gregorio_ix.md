@@ -1,3 +1,11 @@
+---
+type: Persona
+title: Gregorio IX
+tags: ["historia_—_papado"]
+
+timestamp: 2026-06-25
+description: Gregorio IX fue papa durante el conflicto con el emperador Federico II.
+---
 # Gregorio IX
 
 > Área: Historia — Papado

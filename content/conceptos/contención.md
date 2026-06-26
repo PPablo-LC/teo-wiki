@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Contención
+tags: ["moral"]
+
+timestamp: 2026-06-08
+description: La contención o porfía es el pecado de la palabra que consiste en impugnar la verdad con presunción clamorosa y de manera desordenada.
+---
 # Contención
 
 > Área: Moral

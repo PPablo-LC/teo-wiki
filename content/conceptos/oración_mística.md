@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Oración Mística
+tags: ["mística"]
+
+timestamp: 2026-05-22
+description: La oración mística, sinónimo de contemplación infusa, es aquella oración en la que el Espíritu Santo actúa de manera predominante sobre las potencias del alma.
+---
 # Oración Mística
 
 > Área: Mística

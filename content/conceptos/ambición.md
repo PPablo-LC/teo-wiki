@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ambición
+tags: ["moral", "ascética"]
+
+timestamp: 2026-06-11
+description: "La ambición es una forma particular de capitulación ante la falsedad, una forma no sutilmente sublimada de [[codicia]]."
+---
 # Ambición
 
 > Área: Moral / Ascética

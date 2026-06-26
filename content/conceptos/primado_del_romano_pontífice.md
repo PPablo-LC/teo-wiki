@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Primado del Romano Pontífice
+tags: ["eclesiología", "derecho_canónico"]
+
+timestamp: 2026-05-29
+description: El primado del Romano Pontífice es la potestad suprema, plena, inmediata y universal que el Obispo de Roma, como sucesor de San Pedro, posee por institución divina sobre toda la Iglesia.
+---
 # Primado del Romano Pontífice
 
 > Área: Eclesiología / Derecho Canónico

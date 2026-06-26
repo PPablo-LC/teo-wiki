@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Canto gregoriano
+tags: ["liturgia"]
+
+timestamp: 2026-05-26
+description: El canto gregoriano es el repertorio musical sacro propio de la liturgia romana, de textura monódica y modal, transmitido y desarrollado principalmente entre los siglos VI y IX.
+---
 # Canto gregoriano
 
 > Área: Liturgia

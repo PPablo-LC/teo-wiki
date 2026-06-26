@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Hierognosis
+tags: ["mística"]
+
+timestamp: 2026-05-20
+description: Del griego «conocimiento de lo sagrado».
+---
 # Hierognosis
 
 > Área: Mística

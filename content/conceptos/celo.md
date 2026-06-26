@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Celo
+tags: ["moral", "teología_espiritual"]
+
+timestamp: 2026-06-06
+description: Pasión vehemente que puede provenir del amor desinteresado o de la envidia.
+---
 # Celo
 
 > Área: Moral / Teología espiritual

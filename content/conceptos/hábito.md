@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Hábito
+tags: ["moral"]
+
+timestamp: 2026-05-25
+description: Disposición permanente y estable que perfecciona las facultades del alma (entendimiento y voluntad) para obrar con facilidad y prontitud.
+---
 # Hábito
 
 > Área: Moral

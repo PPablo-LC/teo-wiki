@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Primado papal
+tags: ["eclesiología"]
+
+timestamp: 2026-06-24
+description: El primado papal es la prerrogativa del Obispo de Roma, como sucesor de San Pedro, de poseer la suprema autoridad sobre toda la Iglesia.
+---
 # Primado papal
 
 > Área: Eclesiología

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Imitación de Cristo
+tags: ["ascética"]
+
+timestamp: 2026-06-21
+description: La imitación de Cristo es la llamada fundamental del cristiano a conformar su vida con la de Jesucristo, reproduciendo en sí mismo sus virtudes, actitudes y modo de vivir.
+---
 # Imitación de Cristo
 
 > Área: Ascética

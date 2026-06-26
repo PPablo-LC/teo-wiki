@@ -1,3 +1,8 @@
+---
+type: Concepto Teológico
+title: Premio eterno
+description: "La recompensa sobrenatural que Dios concede a los justos por sus meritos adquiridos con la gracia: la vision beatifica de Dios y la felicidad eterna en el cielo."
+---
 # Premio eterno
 
 > Area: Escatologia

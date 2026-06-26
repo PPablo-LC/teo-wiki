@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Jesucristo
+tags: ["dogmática", "cristología"]
+
+timestamp: 2026-06-21
+description: "Jesucristo es el Hijo eterno de Dios hecho hombre: verdadero Dios y verdadero hombre, una sola Persona divina en dos naturalezas (divina y humana), no confundidas ni separadas."
+---
 # Jesucristo
 
 > Área: Dogmática / Cristología

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Aureolas
+tags: ["escatología", "dogmática"]
+
+timestamp: 2026-06-16
+description: "La aureola (del latín *aureola*, «pequeña corona») es un premio accidental añadido a la recompensa esencial (áurea) en el cielo."
+---
 # Aureolas
 
 > Área: Escatología / Dogmática

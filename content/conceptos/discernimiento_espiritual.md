@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Discernimiento espiritual
+tags: ["ascética", "mística"]
+
+timestamp: 2026-06-23
+description: El discernimiento espiritual es la virtud o don por el cual el alma, iluminada por el Espíritu Santo y guiada por la prudencia sobrenatural, distingue entre lo que viene de Dios.
+---
 # Discernimiento espiritual
 
 > Área: Ascética / Mística

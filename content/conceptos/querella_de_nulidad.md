@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Querella de nulidad
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: Impugnación formal de la validez del matrimonio canónico promovida ante el tribunal eclesiástico competente.
+---
 # Querella de nulidad
 
 > Área: Derecho Canónico

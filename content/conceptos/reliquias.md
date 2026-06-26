@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Reliquias
+tags: ["culto"]
+
+timestamp: 2026-05-22
+description: "Las reliquias son los restos corporales de los santos (reliquias insignes: el cuerpo, la cabeza, el brazo) o los objetos que han estado en contacto con ellos (reliquias no insignes.)"
+---
 # Reliquias
 
 > Área: Culto

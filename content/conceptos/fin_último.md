@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Fin último
+tags: ["moral"]
+
+timestamp: 2026-06-04
+description: El fin último del hombre es Dios mismo, a quien debe conocer, amar y servir en esta vida para gozar de Él eternamente en la bienaventuranza.
+---
 # Fin último
 
 > Área: Moral

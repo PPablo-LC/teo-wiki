@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Pornografía
+tags: ["derecho_canónico_penal", "moral"]
+
+timestamp: 2026-05-29
+description: En el ámbito moral, la pornografía consiste en sacar de la intimidad de los protagonistas actos sexuales, reales o simulados, para exhibirlos ante terceras personas de manera deliberada (CEC 2354).
+---
 # Pornografía
 
 > Área: Derecho Canónico Penal / Moral

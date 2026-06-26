@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Padre Nuestro
+tags: ["dogmática", "ascética"]
+
+timestamp: 2026-05-22
+description: El Padre Nuestro, u Oración dominical, es la oración cristiana fundamental que el Señor Jesús enseñó a sus discípulos.
+---
 # Padre Nuestro
 
 > Área: Dogmática / Ascética

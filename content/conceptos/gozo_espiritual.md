@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Gozo espiritual
+tags: ["ascética", "mística"]
+
+timestamp: 2026-05-26
+description: El gozo espiritual es la alegría sobrenatural que procede del Espíritu Santo como fruto de la caridad y de la presencia de Dios en el alma.
+---
 # Gozo espiritual
 
 > Área: Ascética / Mística

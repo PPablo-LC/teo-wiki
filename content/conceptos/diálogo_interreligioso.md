@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Diálogo interreligioso
+tags: ["eclesiología"]
+
+timestamp: 2026-05-26
+description: Conjunto de relaciones y actividades positivas de la Iglesia Católica con los adeptos de otras religiones, caracterizadas por el diálogo, la colaboración.
+---
 # Diálogo interreligioso
 
 > Área: Eclesiología

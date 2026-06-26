@@ -1,3 +1,9 @@
+---
+type: Análisis Doctrinal
+title: "Auténtica — Día 2: Lidera tu vida con Dios: Análisis doctrinal"
+timestamp: 2026-06-01
+description: Segundo día del Congreso Auténtica, centrado en la sanación interior y el redescubrimiento de la identidad femenina a la luz de la teología del cuerpo.
+---
 # Auténtica — Día 2: Lidera tu vida con Dios: Análisis doctrinal
 
 > Tipo: Análisis doctrinal

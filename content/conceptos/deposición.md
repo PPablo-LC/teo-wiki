@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Deposición
+tags: ["derecho_canónico_penal"]
+
+timestamp: 2026-05-29
+description: "La deposición (*depositio*) es una pena expiatoria canónica que implica la remoción perpetua de un clérigo de su oficio, cargo o beneficio eclesiástico."
+---
 # Deposición
 
 > Área: Derecho Canónico Penal

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Colegialidad episcopal
+tags: ["eclesiología"]
+
+timestamp: 2026-05-26
+description: La colegialidad episcopal es la doctrina según la cual los Obispos, en comunión con el Romano Pontífice y nunca sin él.
+---
 # Colegialidad episcopal
 
 > Área: Eclesiología

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Lugares de oración
+tags: ["ascética", "mística"]
+
+timestamp: 2026-06-19
+description: Los lugares de oración son aquellos espacios —materiales o eclesiales— que la tradición cristiana reconoce como especialmente favorables para el encuentro con Dios.
+---
 # Lugares de oración
 
 > Área: Ascética / Mística

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cirio Pascual
+tags: ["liturgia"]
+
+timestamp: 2026-06-03
+description: El cirio pascual es una gran vela bendecida en la Vigilia Pascual que simboliza a Cristo Resucitado, luz del mundo.
+---
 # Cirio Pascual
 
 > Área: Liturgia

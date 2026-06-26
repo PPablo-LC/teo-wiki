@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sentimientos de Jesús
+tags: ["cristología"]
+
+timestamp: 2026-06-22
+description: Los sentimientos de Jesús son las emociones humanas reales que Jesucristo experimentó —alegría, tristeza, indignación, admiración, amor, angustia— como expresión de su verdadera humanidad.
+---
 # Sentimientos de Jesús
 
 > Área: Cristología

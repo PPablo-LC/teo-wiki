@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Imperio
+tags: ["teología_moral_—_antropología"]
+
+timestamp: 2026-06-05
+description: "El imperio es el acto de la [[razón]] que ordena (intima) hacer algo, moviendo a la ejecución mediante un mandato."
+---
 # Imperio
 
 > Área: Teología moral — Antropología

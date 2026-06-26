@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Trabajo
+tags: ["moral", "doctrina_social"]
+
+timestamp: 2026-06-17
+description: El trabajo es la actividad del hombre que transforma la creación, cooperando con la obra creadora de Dios.
+---
 # Trabajo
 
 > Área: Moral / Doctrina Social

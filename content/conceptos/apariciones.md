@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Apariciones
+tags: ["mística"]
+
+timestamp: 2026-05-22
+description: Las apariciones, también llamadas visiones corporales, son fenómenos místicos extraordinarios en los que el sentido de la vista percibe una realidad objetiva naturalmente invisible para el hombre.
+---
 # Apariciones
 
 > Área: Mística

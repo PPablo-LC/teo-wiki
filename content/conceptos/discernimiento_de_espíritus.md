@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Discernimiento de espíritus
+tags: ["ascética", "mística"]
+
+timestamp: 2026-06-05
+description: "El discernimiento o discreción de espíritus es la capacidad de distinguir qué espíritu mueve al alma en un momento determinado: si el Espíritu Santo, la naturaleza humana o el demonio."
+---
 # Discernimiento de espíritus
 
 > Área: Ascética / Mística

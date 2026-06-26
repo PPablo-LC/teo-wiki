@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Verbo
+tags: ["dogmática_(trinidad", "cristología)"]
+
+timestamp: 2026-06-24
+description: "El Verbo (del griego *Logos*, del latín *Verbum*) es la Segunda Persona de la Santísima Trinidad, el Hijo de Dios, engendrado del Padre desde toda la eternidad, por quien todo fue hecho (Jn 1,1-3)."
+---
 # Verbo
 
 > Área: Dogmática (Trinidad / Cristología)

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ley divina
+tags: ["moral", "dogmática"]
+
+timestamp: 2026-05-26
+description: La ley divina es la ley eterna de Dios comunicada a los hombres, que ordena la conducta humana hacia el fin último.
+---
 # Ley divina
 
 > Área: Moral / Dogmática

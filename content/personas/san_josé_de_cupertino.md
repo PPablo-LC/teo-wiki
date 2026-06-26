@@ -1,3 +1,11 @@
+---
+type: Persona
+title: San José de Cupertino
+tags: ["persona", "hagiografía"]
+
+timestamp: 2026-05-22
+description: José de Cupertino (1603-1663), religioso franciscano conventual italiano, nacido en Copertino (Apulia).
+---
 # San José de Cupertino
 
 > Área: Persona / Hagiografía

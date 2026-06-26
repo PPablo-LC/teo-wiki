@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Referente para la tutela de menores
+tags: ["derecho_canónico", "pastoral"]
+
+timestamp: 2026-05-29
+description: Figura eclesial, nombrada por el Vicario General.
+---
 # Referente para la tutela de menores
 
 > Área: Derecho Canónico / Pastoral

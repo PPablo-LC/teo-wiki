@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Alianza educativa
+tags: ["moral", "educación"]
+
+timestamp: 2026-05-29
+description: "Marco de cooperación entre familias, escuelas, comunidades cristianas e instituciones públicas para educar en la era digital, promovido por León XIV en la encíclica *Magnífica Humanitas*."
+---
 # Alianza educativa
 
 > Área: Moral / Educación

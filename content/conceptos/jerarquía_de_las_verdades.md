@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Jerarquía de las verdades
+tags: ["teología_fundamental"]
+
+timestamp: 2026-05-26
+description: La jerarquía de las verdades es la gradación que existe entre las doctrinas de la fe católica según su relación fundamental con el Misterio de Cristo.
+---
 # Jerarquía de las verdades
 
 > Área: Teología Fundamental

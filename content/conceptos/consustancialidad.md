@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Consustancialidad
+tags: ["dogmática_—_cristología"]
+
+timestamp: 2026-06-24
+description: "La consustancialidad (del griego *homousios*: «de la misma sustancia») es la afirmación dogmática de que el Hijo posee la misma naturaleza divina que el Padre."
+---
 # Consustancialidad
 
 > Área: Dogmática — Cristología

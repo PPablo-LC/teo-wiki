@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Ratio Institutionis
+tags: ["espiritualidad", "derecho_propio", "formación"]
+
+timestamp: 2026-05-31
+description: "La *Ratio institutionis* de un instituto de vida consagrada es «un proyecto formativo inspirado en el carisma institucional.»"
+---
 # Ratio Institutionis
 
 > Área: Espiritualidad / Derecho propio / Formación

@@ -1,3 +1,8 @@
+---
+type: Documento
+title: Redemptor Hominis
+description: "*Redemptor Hominis* (en español, «Redentor del hombre») es la primera encíclica del pontificado de Juan Pablo II, publicada el 4 de marzo de 1979."
+---
 # Redemptor Hominis
 
 > **Código:** RH

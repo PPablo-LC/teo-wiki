@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cordero de Dios
+tags: ["dogmática", "liturgia"]
+
+timestamp: 2026-06-02
+description: Título mesiánico y sacrificial de Jesucristo que lo identifica con el Cordero pascual del Antiguo Testamento y con el Siervo sufriente de Isaías, cuya inmolación quita el pecado del mundo.
+---
 # Cordero de Dios
 
 > Área: Dogmática / Liturgia

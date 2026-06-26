@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Estado Religioso
+tags: ["ascética"]
+
+timestamp: 2026-06-12
+description: Según el Código canónico, el estado religioso es el «modo estable de vivir en común, por el cual los fieles, además de los preceptos comunes.»
+---
 # Estado Religioso
 
 > Área: Ascética

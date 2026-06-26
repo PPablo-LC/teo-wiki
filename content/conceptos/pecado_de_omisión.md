@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Pecado de omisión
+tags: ["moral"]
+
+timestamp: 2026-06-08
+description: El pecado de omisión consiste en no hacer el bien que se está obligado a hacer, cuando se tiene la capacidad de hacerlo.
+---
 # Pecado de omisión
 
 > Área: Moral

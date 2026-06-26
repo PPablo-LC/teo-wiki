@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Diálogo fe y ciencia
+tags: ["teología_fundamental"]
+
+timestamp: 2026-06-18
+description: El diálogo entre la fe y la ciencia es la relación recíproca entre el conocimiento de fe (basado en la Revelación) y el conocimiento científico (basado en la observación y experimentación de la)...
+---
 # Diálogo fe y ciencia
 
 > Área: Teología fundamental

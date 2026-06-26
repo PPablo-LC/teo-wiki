@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Incardinación
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: La incardinación es el vínculo jurídico por el cual un clérigo queda adscrito a una diócesis particular.
+---
 # Incardinación
 
 > Área: Derecho Canónico

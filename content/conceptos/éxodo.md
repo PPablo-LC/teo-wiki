@@ -1,6 +1,14 @@
+---
+type: Concepto Teológico
+title: Éxodo
+tags: ["teología_bíblica"]
+
+timestamp: 2026-06-02
+description: El Éxodo (del griego ἔξοδος, «salida») es el acontecimiento fundacional de Israel como pueblo de Dios.
+---
 # Éxodo
 
-> Área: Dogmática (Historia de la Salvación)
+> Área: Teología bíblica
 > Última actualización: 2026-06-02
 
 ## Definición

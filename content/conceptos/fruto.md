@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Fruto
+tags: ["moral", "escatología"]
+
+timestamp: 2026-06-02
+description: Término que designa, en sentido propio, lo producido por un ser vivo (el fruto del vientre, el fruto de la tierra) y, en sentido figurado, el resultado de las acciones humanas.
+---
 # Fruto
 
 > Área: Moral / Escatología

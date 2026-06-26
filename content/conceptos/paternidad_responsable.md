@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Paternidad responsable
+tags: ["moral", "doctrina_social"]
+
+timestamp: 2026-06-20
+description: Forma peculiar de la especial participación de los cónyuges en la obra creadora de Dios, que implica la deliberación ponderada y generosa sobre el número de hijos.
+---
 # Paternidad responsable
 
 > Área: Moral / Doctrina Social

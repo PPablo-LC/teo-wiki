@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Bautismo
+tags: ["sacramental"]
+
+timestamp: 2026-06-21
+description: El bautismo es el primer sacramento de la Nueva Ley, instituido por Nuestro Señor Jesucristo, que purifica al hombre del pecado original y de todos los pecados actuales.
+---
 # Bautismo
 
 > Área: Sacramental

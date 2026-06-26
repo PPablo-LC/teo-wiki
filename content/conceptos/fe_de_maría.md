@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Fe de María
+tags: ["mariología", "ascética"]
+
+timestamp: 2026-06-18
+description: La fe de María es su respuesta personal a la revelación divina, por la cual se confió a Dios sin reservas y se consagró totalmente a la persona y obra de su Hijo.
+---
 # Fe de María
 
 > Área: Mariología / Ascética

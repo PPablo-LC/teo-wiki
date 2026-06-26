@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Eucaristía
+tags: ["sacramental"]
+
+timestamp: 2026-06-20
+description: La eucaristía es el sacramento y sacrificio del Cuerpo y Sangre de Nuestro Señor Jesucristo, realmente, verdadera y sustancialmente presente bajo las especies de pan y vino.
+---
 # Eucaristía
 
 > Área: Sacramental

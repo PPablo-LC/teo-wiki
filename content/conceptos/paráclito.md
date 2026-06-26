@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Paráclito
+tags: ["dogmática_—_pneumatología"]
+
+timestamp: 2026-06-02
+description: "Término joánico (gr. *parakletos*) que significa «llamado al lado de», asistente, abogado, defensor."
+---
 # Paráclito
 
 > Área: Dogmática — Pneumatología

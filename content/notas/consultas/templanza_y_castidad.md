@@ -1,3 +1,8 @@
+---
+type: Consulta
+title: Nota sobre la templanza y la castidad
+description: Síntesis de las fuentes CEC y TPCr
+---
 # Nota sobre la templanza y la castidad
 
 > Síntesis de las fuentes CEC y TPCr

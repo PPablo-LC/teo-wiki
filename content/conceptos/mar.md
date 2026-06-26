@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Mar
+tags: ["dogmática"]
+
+timestamp: 2026-06-02
+description: En la Biblia, el mar tiene una significación religiosa determinada, que va desde la criatura sometida a Dios hasta el símbolo de los poderes caóticos y demoníacos que Cristo vence.
+---
 # Mar
 
 > Área: Dogmática

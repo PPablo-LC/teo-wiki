@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Parábola
+tags: ["hermenéutica_bíblica"]
+
+timestamp: 2026-06-02
+description: "Narración inspirada en la vida cotidiana usada por Jesús para ilustrar su enseñanza sobre el Reino de Dios. En el fondo de la palabra griega *parabalé* hay una idea de comparación."
+---
 # Parábola
 
 > Área: Hermenéutica Bíblica

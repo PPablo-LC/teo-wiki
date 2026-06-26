@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Naturaleza de la doctrina social
+tags: ["doctrina_social", "teología_moral"]
+
+timestamp: 2026-06-19
+description: La doctrina social de la Iglesia pertenece al ámbito de la teología y especialmente de la teología moral.
+---
 # Naturaleza de la doctrina social
 
 > Área: Doctrina Social / Teología Moral

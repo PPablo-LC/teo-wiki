@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ecología
+tags: ["doctrina_social"]
+
+timestamp: 2026-05-25
+description: Ciencia y doctrina que estudia las relaciones entre los seres vivos y su entorno.
+---
 # Ecología
 
 > Área: Doctrina Social

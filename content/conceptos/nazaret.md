@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Nazaret
+tags: ["sagrada_escritura", "espiritualidad"]
+
+timestamp: 2026-05-29
+description: Nazaret es la aldea de Galilea donde Jesús pasó la mayor parte de su vida terrena, desde su infancia hasta el inicio de su vida pública.
+---
 # Nazaret
 
 > Área: Sagrada Escritura / Espiritualidad

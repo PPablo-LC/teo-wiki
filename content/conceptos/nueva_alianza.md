@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Nueva Alianza
+tags: ["teología_bíblica"]
+
+timestamp: 2026-06-20
+description: La alianza nueva y eterna establecida por Dios con la humanidad por medio de la sangre de Jesucristo.
+---
 # Nueva Alianza
 
 > Área: Teología bíblica

@@ -1,3 +1,11 @@
+---
+type: Persona
+title: II Concilio de Constantinopla
+tags: ["dogmática_—_concilios_ecuménicos"]
+
+timestamp: 2026-06-25
+description: "Justiniano, deseoso de unificar doctrinalmente el Imperio, promulgó en 543/544 un edicto condenando los \"Tres Capítulos\": la persona y escritos de Teodoro de Mopsuestia, los escritos de Teodoreto d..."
+---
 # II Concilio de Constantinopla
 
 > Área: Dogmática — Concilios Ecuménicos

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Teología Fundamental
+tags: ["dogmática"]
+
+timestamp: 2026-05-22
+description: Disciplina teológica que estudia los fundamentos de la revelación cristiana.
+---
 # Teología Fundamental
 
 > Área: Dogmática

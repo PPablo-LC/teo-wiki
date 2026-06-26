@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Adulto vulnerable
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-29
+description: "El concepto de «adulto vulnerable» en el derecho canónico vigente procede del artículo 1 §2 b) del Motu Proprio «[[vos_estis_lux_mundi]]» (VELM, 2023)."
+---
 # Adulto vulnerable
 
 > Área: Derecho Canónico

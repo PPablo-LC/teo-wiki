@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Christus Dominus
+tags: ["eclesiología", "derecho_canónico"]
+
+timestamp: 2026-05-26
+description: Decreto del Concilio Vaticano II sobre el ministerio pastoral de los Obispos, promulgado el 28 de octubre de 1965.
+---
 # Christus Dominus
 
 > Área: Eclesiología / Derecho canónico

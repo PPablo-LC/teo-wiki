@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Risa
+tags: ["bíblica", "antropología_teológica"]
+
+timestamp: 2026-06-02
+description: "La risa en la Escritura presenta un doble aspecto: puede ser expresión de incredulidad y burla, o bien manifestación de gozo y estupefacción ante la maravilla divina."
+---
 # Risa
 
 > Área: Bíblica / Antropología teológica

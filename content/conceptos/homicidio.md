@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Homicidio
+tags: ["moral"]
+
+timestamp: 2026-06-09
+description: El homicidio es la muerte injusta e intencional de un ser humano, causada directa o indirectamente por otro.
+---
 # Homicidio
 
 > Área: Moral

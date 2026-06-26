@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Mediación de María
+tags: ["dogmática", "mariología"]
+
+timestamp: 2026-05-31
+description: La mediación de María es la participación singular de la Virgen en la obra salvífica de Cristo, su Hijo, como intercesora y dispensadora de las gracias.
+---
 # Mediación de María
 
 > Área: Dogmática / Mariología

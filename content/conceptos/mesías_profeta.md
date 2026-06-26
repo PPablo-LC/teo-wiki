@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Mesías Profeta
+tags: ["cristología"]
+
+timestamp: 2026-06-22
+description: El Mesías Profeta es el Ungido de Dios que, ungido por el Espíritu Santo, da testimonio de la verdad en nombre de Dios, asumiendo y cumpliendo la misión profética del Antiguo Testamento.
+---
 # Mesías Profeta
 
 > Área: Cristología

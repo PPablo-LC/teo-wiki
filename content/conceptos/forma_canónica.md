@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Forma canónica
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: "Conjunto de requisitos formales establecidos por el derecho eclesiástico para la validez de un acto jurídico, especialmente del [[matrimonio]]."
+---
 # Forma canónica
 
 > Área: Derecho Canónico

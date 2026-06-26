@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Definición de Calcedonia
+tags: ["dogmática_—_cristología"]
+
+timestamp: 2026-06-25
+description: La Definición de Calcedonia es la fórmula dogmática del Concilio de Calcedonia (451, IV ecuménico) que establece la doctrina de las dos naturalezas de Cristo.
+---
 # Definición de Calcedonia
 
 > Área: Dogmática — Cristología

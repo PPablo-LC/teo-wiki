@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Suspensión
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-25
+description: La suspensión es una censura del derecho canónico que afecta exclusivamente a los clérigos, prohibiéndoles total o parcialmente el ejercicio de la potestad de orden, de la potestad de régimen.
+---
 # Suspensión
 
 > Área: Derecho Canónico

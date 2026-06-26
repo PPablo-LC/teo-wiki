@@ -1,3 +1,8 @@
+---
+type: Concepto Teológico
+title: Koinonía
+description: Termino griego (κοινωνία) que significa comunión, participación, comunicación o comunidad.
+---
 # Koinonía
 
 > Area: Eclesiología

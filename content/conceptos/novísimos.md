@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Novísimos
+tags: ["dogmática_—_escatología"]
+
+timestamp: 2026-05-25
+description: "Las realidades últimas o postrimerías del hombre: muerte, juicio particular, infierno (o purgatorio) y gloria (o paraíso)."
+---
 # Novísimos
 
 > Área: Dogmática — Escatología

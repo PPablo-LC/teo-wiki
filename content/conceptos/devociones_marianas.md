@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Devociones marianas
+tags: ["espiritualidad", "mariología"]
+
+timestamp: 2026-05-26
+description: Prácticas piadosas con que la Iglesia honra a la [[virgen_maría]]. Incluyen el [[rosario]], el escapulario, las letanías, el Ángelus y diversas advocaciones y novenas (CEC §971, 2675-2679).
+---
 # Devociones marianas
 
 > Área: Espiritualidad / Mariología

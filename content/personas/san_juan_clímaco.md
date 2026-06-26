@@ -1,3 +1,11 @@
+---
+type: Persona
+title: San Juan Clímaco
+tags: ["persona"]
+
+timestamp: 2026-05-20
+description: San Juan Clímaco († 649) fue un monje del Sinaí, abad del monasterio de Santa Catalina. Su nombre proviene de su obra principal, la *Scala Paradisi* (Escala del Paraíso).
+---
 # San Juan Clímaco
 
 > Área: Persona

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Uso
+tags: ["teología_moral_—_antropología"]
+
+timestamp: 2026-06-05
+description: "El uso es el acto por el cual la [[voluntad]] aplica una potencia o principio de acción a una operación concreta."
+---
 # Uso
 
 > Área: Teología moral — Antropología

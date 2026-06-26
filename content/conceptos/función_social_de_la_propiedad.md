@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Función social de la propiedad
+tags: ["doctrina_social", "moral"]
+
+timestamp: 2026-05-25
+description: La función social de la propiedad es la exigencia de que cualquier forma de posesión privada tenga en cuenta el bien común y el destino universal de los bienes.
+---
 # Función social de la propiedad
 
 > Área: Doctrina Social / Moral

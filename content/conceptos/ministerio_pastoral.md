@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ministerio pastoral
+tags: ["eclesiología", "pastoral"]
+
+timestamp: 2026-06-23
+description: El ministerio pastoral es la función del sacerdote (y, en sentido análogo, del Obispo) por la cual, configurado con Cristo Buen Pastor, guía.
+---
 # Ministerio pastoral
 
 > Área: Eclesiología / Pastoral

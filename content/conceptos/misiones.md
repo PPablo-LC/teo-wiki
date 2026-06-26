@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Misiones
+tags: ["eclesiología", "misionología"]
+
+timestamp: 2026-05-25
+description: Actividad propiamente misional de la Iglesia mediante la cual se implanta la Iglesia en pueblos o grupos en los que aún no está enraizada.
+---
 # Misiones
 
 > Área: Eclesiología / Misionología

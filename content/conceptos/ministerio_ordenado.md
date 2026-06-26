@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Ministerio ordenado
+tags: ["eclesiología", "sacramento_del_orden"]
+
+timestamp: 2026-05-26
+description: "El ministerio ordenado es el servicio eclesial confiado por el sacramento del [[orden_sacerdotal]] a [[obispo]]s, [[presbítero]]s y [[diácono]]s."
+---
 # Ministerio ordenado
 
 > Área: Eclesiología / Sacramento del Orden

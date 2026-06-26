@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Escrupulosidad
+tags: ["ascética", "moral"]
+
+timestamp: 2026-06-03
+description: El escrúpulo es un estado de ánimo en el que el alma experimenta un temor injustificado y desordenado de haber pecado o de estar en estado de pecado, aun cuando no hay razón suficiente para ello.
+---
 # Escrupulosidad
 
 > Área: Ascética / Moral

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Diálogo ecuménico
+tags: ["eclesiología"]
+
+timestamp: 2026-05-29
+description: El diálogo ecuménico es el conjunto de actividades y empresas ordenadas a favorecer la unidad de los cristianos, fundado en los principios católicos sobre la unidad y unicidad de la Iglesia.
+---
 # Diálogo ecuménico
 
 > Área: Eclesiología

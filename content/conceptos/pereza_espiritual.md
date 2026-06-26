@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Pereza espiritual
+tags: ["ascética", "moral"]
+
+timestamp: 2026-05-31
+description: La pereza espiritual (también llamada acedia o acidia) es un pecado capital que consiste en una tristeza o tedio del bien espiritual.
+---
 # Pereza espiritual
 
 > Área: Ascética / Moral

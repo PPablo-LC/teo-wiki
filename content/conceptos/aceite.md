@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Aceite
+tags: ["sacramental", "at"]
+
+timestamp: 2026-06-02
+description: El aceite es, en la Escritura, uno de los alimentos esenciales (con el trigo y el vino) que Dios concede como bendición a su pueblo.
+---
 # Aceite
 
 > Área: Sacramental / AT

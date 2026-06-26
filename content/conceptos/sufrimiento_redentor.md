@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sufrimiento redentor
+tags: ["dogmática", "espiritualidad"]
+
+timestamp: 2026-06-20
+description: El sufrimiento redentor es el sufrimiento afrontado exclusivamente por amor, que participa en la pasión de Cristo y contribuye a la salvación de los hermanos.
+---
 # Sufrimiento redentor
 
 > Área: Dogmática / Espiritualidad

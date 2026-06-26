@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Anunciación
+tags: ["mariología", "cristología"]
+
+timestamp: 2026-06-18
+description: "La Anunciación es el acontecimiento narrado en Lc 1,26-38 en el que el arcángel Gabriel anuncia a la Virgen María que concebirá y dará a luz al Hijo de Dios, y ella responde con su *fiat*."
+---
 # Anunciación
 
 > Área: Mariología / Cristología

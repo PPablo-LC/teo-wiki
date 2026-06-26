@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Comunicación
+tags: ["moral_(doctrina_social)"]
+
+timestamp: 2026-05-29
+description: La comunicación humana, en sentido teológico-moral, es el intercambio de verdades entre personas que procede de la naturaleza social del hombre creado a imagen de Dios y que, en la era digital.
+---
 # Comunicación
 
 > Área: Moral (Doctrina Social)

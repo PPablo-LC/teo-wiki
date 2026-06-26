@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Maestros de oración
+tags: ["ascética", "mística"]
+
+timestamp: 2026-06-19
+description: Los maestros de oración son aquellos testigos de la tradición viva de la oración cristiana —santos, doctores espirituales.
+---
 # Maestros de oración
 
 > Área: Ascética / Mística

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Incorrupción
+tags: ["escatología"]
+
+timestamp: 2026-05-22
+description: La incorrupción es la cualidad del cuerpo glorioso por la cual está exento de todo proceso de descomposición y muerte.
+---
 # Incorrupción
 
 > Área: Escatología

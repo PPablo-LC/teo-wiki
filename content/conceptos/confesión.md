@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Confesión
+tags: ["sacramental"]
+
+timestamp: 2026-06-02
+description: "Sacramento de la [[penitencia]] mediante el cual el fiel obtiene el perdón de los pecados cometidos después del [[bautismo]], por la [[absolución]] del sacerdote."
+---
 # Confesión
 
 > Área: Sacramental

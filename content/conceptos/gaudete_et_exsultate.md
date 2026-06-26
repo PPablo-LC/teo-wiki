@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Gaudete et Exsultate
+tags: ["documento_eclesiástico"]
+
+timestamp: 2026-06-19
+description: "*Gaudete et Exsultate* («Gozad y alegraos») es la segunda exhortación apostólica posinodal del Papa Francisco, publicada el 19 de marzo de 2018."
+---
 # Gaudete et Exsultate
 
 > Área: Documento eclesiástico

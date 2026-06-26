@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Imprudencia
+tags: ["moral"]
+
+timestamp: 2026-06-09
+description: "La imprudencia es el vicio opuesto a la virtud de la [[prudencia]]."
+---
 # Imprudencia
 
 > Área: Moral

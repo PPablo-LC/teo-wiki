@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Generación
+tags: ["dogmática", "historia_de_la_salvación"]
+
+timestamp: 2026-06-02
+description: Concepto bíblico que designa la solidaridad de los hombres entre sí, tanto por descendencia común (linaje, genealogía) como por contemporaneidad.
+---
 # Generación
 
 > Área: Dogmática / Historia de la Salvación

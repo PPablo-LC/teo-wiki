@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Paz cristiana
+tags: ["doctrina_social", "dogmática"]
+
+timestamp: 2026-05-25
+description: Don de Cristo resucitado a sus discípulos, que consiste en la reconciliación con el Padre y con los hermanos.
+---
 # Paz cristiana
 
 > Área: Doctrina Social / Dogmática

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sanatio in radice
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: La sanación en la raíz (sanatio in radice) es la convalidación de un matrimonio nulo concedida por la autoridad competente sin necesidad de que los contrayentes renueven el consentimiento.
+---
 # Sanatio in radice
 
 > Área: Derecho Canónico

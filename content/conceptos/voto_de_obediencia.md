@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Voto de obediencia
+tags: ["moral"]
+
+timestamp: 2026-05-25
+description: El voto de obediencia es una promesa deliberada y libre hecha a Dios de someter la propia voluntad a la autoridad legítima del superior religioso.
+---
 # Voto de obediencia
 
 > Área: Moral

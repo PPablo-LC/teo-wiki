@@ -1,3 +1,11 @@
+---
+type: Persona
+title: Focio
+tags: ["historia_—_cismas", "herejías"]
+
+timestamp: 2026-06-25
+description: Focio fue patriarca de Constantinopla y figura central del llamado «Cisma Fociano».
+---
 # Focio
 
 > Área: Historia — Cismas, Herejías

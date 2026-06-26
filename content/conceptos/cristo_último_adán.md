@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Cristo, último Adán
+tags: ["cristología", "soteriología"]
+
+timestamp: 2026-06-22
+description: Título cristológico tomado de 1 Cor 15,45 con el que San Pablo designa a Cristo resucitado como «espíritu vivificante», en contraposición al primer Adán que fue «alma viviente».
+---
 # Cristo, último Adán
 
 > Área: Cristología / Soteriología

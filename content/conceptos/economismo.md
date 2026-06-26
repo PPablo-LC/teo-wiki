@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Economismo
+tags: ["doctrina_social", "moral"]
+
+timestamp: 2026-06-17
+description: Error fundamental del pensamiento que considera el trabajo humano exclusivamente según su finalidad económica, separándolo de su dimensión subjetiva y personal.
+---
 # Economismo
 
 > Área: Doctrina Social / Moral

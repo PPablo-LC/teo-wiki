@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Revelaciones
+tags: ["mística"]
+
+timestamp: 2026-05-20
+description: Manifestación sobrenatural de una verdad oculta o de un secreto divino hecha por Dios para bien general de la Iglesia o para utilidad particular del favorecido.
+---
 # Revelaciones
 
 > Área: Mística

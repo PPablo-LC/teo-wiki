@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sociedad civil
+tags: ["doctrina_social"]
+
+timestamp: 2026-05-25
+description: Conjunto de relaciones y de recursos culturales y asociativos relativamente autónomos del ámbito político y del económico.
+---
 # Sociedad civil
 
 > Área: Doctrina Social

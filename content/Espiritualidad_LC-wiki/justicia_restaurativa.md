@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Justicia restaurativa
+tags: ["derecho_canónico", "moral"]
+
+timestamp: 2026-05-31
+description: La justicia restaurativa es un proceso mediante el cual se busca la restauración del orden social y la reparación del daño o agravio causado, optando por el diálogo y el encuentro.
+---
 # Justicia restaurativa
 
 > Área: Derecho canónico / Moral

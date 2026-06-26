@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Budismo
+tags: ["teología_de_las_religiones"]
+
+timestamp: 2026-06-21
+description: Religión fundada por Siddhartha Gautama (Buda) en el siglo VI a.C. que propone una vía de salvación basada en la superación del deseo y la ignorancia para alcanzar el nirvana.
+---
 # Budismo
 
 > Área: Teología de las religiones

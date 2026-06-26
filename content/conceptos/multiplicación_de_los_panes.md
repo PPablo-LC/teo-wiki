@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Multiplicación de los panes
+tags: ["cristología", "eucaristía"]
+
+timestamp: 2026-06-22
+description: Milagro en el que Jesús multiplica panes y peces para alimentar a una multitud cerca de Cafarnaúm (Jn 6,1-15).
+---
 # Multiplicación de los panes
 
 > Área: Cristología / Eucaristía

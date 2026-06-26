@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Verdadera humanidad de Cristo
+tags: ["cristología"]
+
+timestamp: 2026-06-22
+description: La verdadera humanidad de Cristo es la doctrina según la cual Jesucristo, siendo verdadero Dios, asumió una auténtica naturaleza humana completa, con cuerpo y alma racional.
+---
 # Verdadera humanidad de Cristo
 
 > Área: Cristología

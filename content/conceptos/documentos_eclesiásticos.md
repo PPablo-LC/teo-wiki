@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Documentos eclesiásticos
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: "Escrituras oficiales emanadas de la autoridad eclesiástica, que deben conservarse en los archivos de la [[curia_romana]] diocesana o religiosa."
+---
 # Documentos eclesiásticos
 
 > Área: Derecho Canónico

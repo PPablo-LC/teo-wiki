@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Prelatura personal
+tags: ["derecho_canónico"]
+
+timestamp: 2026-06-19
+description: La prelatura personal es una estructura jerárquica erigida por la Sede Apostólica, compuesta por presbíteros y diáconos del clero secular.
+---
 # Prelatura personal
 
 > Área: Derecho Canónico

@@ -1,3 +1,9 @@
+---
+type: Concepto Teológico
+title: Auditoría de wikilinks huérfanos
+timestamp: 2026-06-19
+description: "Búsqueda realizada en `wiki/` (todos los subdirectorios). Se extrajeron todos los wikilinks `[[nombre]]` (tanto simples como con pipe `[[nombre|texto]]`, extrayendo siempre el nombre base)."
+---
 # Auditoría de wikilinks huérfanos
 
 > Generado: 2026-06-19 19:25

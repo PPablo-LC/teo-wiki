@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Pedro, piedra de la Iglesia
+tags: ["eclesiología"]
+
+timestamp: 2026-06-22
+description: "Simón Pedro, llamado por Jesús «piedra» (Mt 16,18), recibe de Cristo la promesa de ser el fundamento visible de la [[iglesia]] y depositario de las [[llaves_del_reino]]."
+---
 # Pedro, piedra de la Iglesia
 
 > Área: Eclesiología

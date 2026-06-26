@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Desolación espiritual
+tags: ["ascética", "mística"]
+
+timestamp: 2026-06-13
+description: Estado de prueba espiritual caracterizado por «oscuridad del alma, turbación en ella, inquietud, moviendo a infidelidad, sin esperanza, sin amor.»
+---
 # Desolación espiritual
 
 > Área: Ascética / Mística

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Discernimiento vocacional
+tags: ["espiritualidad", "vocaciones"]
+
+timestamp: 2026-06-21
+description: Proceso por el cual el cristiano, iluminado por la fe y acompañado por la oración, los sacramentos y la dirección espiritual.
+---
 # Discernimiento vocacional
 
 > Área: Espiritualidad / Vocaciones

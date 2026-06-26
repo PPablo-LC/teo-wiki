@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Constitución dogmática
+tags: ["teología_fundamental"]
+
+timestamp: 2026-05-26
+description: Documento conciliar de máximo rango que expone y define doctrina de fe o moral con carácter vinculante para toda la Iglesia.
+---
 # Constitución dogmática
 
 > Área: Teología fundamental

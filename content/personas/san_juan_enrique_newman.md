@@ -1,3 +1,11 @@
+---
+type: Persona
+title: San Juan Enrique Newman
+tags: ["persona"]
+
+timestamp: 2026-06-10
+description: John Henry Newman (1801-1890), cardenal de la Santa Iglesia Romana, Doctor de la Iglesia declarado en 2019 (canonizado en 2019).
+---
 # San Juan Enrique Newman
 
 > Área: Persona

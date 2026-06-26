@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Papa
+tags: ["eclesiología"]
+
+timestamp: 2026-05-25
+description: El Papa, o Romano Pontífice, es el Obispo de Roma, sucesor de San Pedro en su primado sobre toda la Iglesia, cabeza visible del Colegio Episcopal y Vicario de Cristo en la tierra.
+---
 # Papa
 
 > Área: Eclesiología

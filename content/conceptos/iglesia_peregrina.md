@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Iglesia peregrina
+tags: ["eclesiología"]
+
+timestamp: 2026-06-18
+description: "La Iglesia peregrina (*Ecclesia peregrinans*) es la Iglesia en su estado terreno, que camina hacia la patria celestial entre las persecuciones del mundo y los consuelos de Dios."
+---
 # Iglesia peregrina
 
 > Área: Eclesiología

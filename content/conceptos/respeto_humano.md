@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Respeto humano
+tags: ["moral"]
+
+timestamp: 2026-05-22
+description: El respeto humano es un defecto moral —raíz de numerosas faltas— que consiste en un temor desordenado al juicio, la crítica o la burla de los demás.
+---
 # Respeto humano
 
 > Área: Moral

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Comunismo
+tags: ["doctrina_social", "teología_de_la_historia"]
+
+timestamp: 2026-06-21
+description: Sistema ideológico, político y económico fundado en el materialismo dialéctico e histórico, caracterizado por la abolición de la propiedad privada.
+---
 # Comunismo
 
 > Área: Doctrina social / Teología de la historia

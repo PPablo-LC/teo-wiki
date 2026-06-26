@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Perfección y Mística
+tags: ["ascética", "mística"]
+
+timestamp: 2026-05-21
+description: La relación entre perfección cristiana y mística es de integración y continuidad.
+---
 # Perfección y Mística
 
 > Área: Ascética / Mística

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Juramento
+tags: ["moral"]
+
+timestamp: 2026-05-25
+description: El juramento es la invocación del Nombre de Dios como testigo de la verdad. Es un acto de la virtud de la religión por el cual se llama a Dios por testigo de lo que se afirma o se promete.
+---
 # Juramento
 
 > Área: Moral

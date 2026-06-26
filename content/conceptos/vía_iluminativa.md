@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Vía Iluminativa
+tags: ["ascética_y_mística"]
+
+timestamp: 2026-05-20
+description: La vía iluminativa es el segundo grado de la vida espiritual, correspondiente a la caridad proficiente.
+---
 # Vía Iluminativa
 
 > Área: Ascética y Mística

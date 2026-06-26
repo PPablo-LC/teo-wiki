@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Pascite Gregem Dei
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-29
+description: "La Constitución Apostólica *Pascite Gregem Dei* (PGD), promulgada por el [[papa|Papa]] [[papa_francisco|Francisco]] el 23 de mayo de 2021."
+---
 # Pascite Gregem Dei
 
 > Área: Derecho Canónico

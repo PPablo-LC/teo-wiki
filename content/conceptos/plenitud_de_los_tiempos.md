@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Plenitud de los tiempos
+tags: ["teología_bíblica", "escatología"]
+
+timestamp: 2026-06-18
+description: "«Plenitud de los tiempos» (*pléroma tou chronou*, Gál 4,4) es la expresión paulina que designa el momento fijado por Dios desde la eternidad para la venida del Hijo, la Encarnación redentora."
+---
 # Plenitud de los tiempos
 
 > Área: Teología bíblica / Escatología

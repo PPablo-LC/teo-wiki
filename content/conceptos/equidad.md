@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Equidad
+tags: ["moral"]
+
+timestamp: 2026-06-23
+description: "La equidad (del latín *aequitas*, traducción del griego *epieíkeia*) es la virtud moral que corrige la aplicación de la ley positiva cuando, por su generalidad."
+---
 # Equidad
 
 > Área: Moral

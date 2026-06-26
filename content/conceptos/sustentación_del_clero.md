@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sustentación del clero
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: Conjunto de disposiciones jurídicas y medios económicos destinados a proveer a la congrua sustentación de los clérigos.
+---
 # Sustentación del clero
 
 > Área: Derecho Canónico

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Catequesis litúrgica
+tags: ["liturgia", "catequesis"]
+
+timestamp: 2026-05-31
+description: La catequesis litúrgica es la educación de los fieles en el misterio de Cristo tal como se celebra en la liturgia de la Iglesia.
+---
 # Catequesis litúrgica
 
 > Área: Liturgia / Catequesis

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Heredero del Reino
+tags: ["dogmática_(gracia)"]
+
+timestamp: 2026-05-29
+description: El concepto de heredero del Reino designa al cristiano que, por la filiación divina adoptiva recibida en el Bautismo, participa de la gracia de Cristo y tiene derecho a la herencia de la vida eterna.
+---
 # Heredero del Reino
 
 > Área: Dogmática (Gracia)

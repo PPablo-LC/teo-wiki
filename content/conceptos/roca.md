@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Roca
+tags: ["bíblica", "teología_del_at_y_nt"]
+
+timestamp: 2026-06-02
+description: "La roca es en la Escritura un símbolo de Dios mismo: solidez, refugio, fidelidad inmutable. Dios es la «Roca de Israel» (2Sa 23,3)."
+---
 # Roca
 
 > Área: Bíblica / Teología del AT y NT

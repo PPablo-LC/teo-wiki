@@ -1,3 +1,11 @@
+---
+type: Persona
+title: Inocencio III
+tags: ["historia_—_papado"]
+
+timestamp: 2026-06-25
+description: "Inocencio III fue uno de los papas más influyentes de la Edad Media. Convocó y presidió el **IV Concilio de Letrán** (1215, XII ecuménico), uno de los concilios más importantes de la Iglesia latina."
+---
 # Inocencio III
 
 > Área: Historia — Papado

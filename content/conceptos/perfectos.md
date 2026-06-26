@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Perfectos
+tags: ["ascética", "mística"]
+
+timestamp: 2026-05-22
+description: Estado espiritual de quienes han alcanzado la cumbre de la vida cristiana, correspondiente a la vía unitiva.
+---
 # Perfectos
 
 > Área: Ascética / Mística

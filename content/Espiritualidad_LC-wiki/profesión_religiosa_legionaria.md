@@ -1,3 +1,11 @@
+---
+type: Concepto LC
+title: Profesión religiosa legionaria
+tags: ["liturgia", "espiritualidad_legionaria"]
+
+timestamp: 2026-06-14
+description: Conjunto de ritos litúrgicos mediante los cuales los legionarios de Cristo emiten sus votos religiosos.
+---
 # Profesión religiosa legionaria
 
 > Área: Liturgia / Espiritualidad legionaria

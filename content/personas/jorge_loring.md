@@ -1,3 +1,11 @@
+---
+type: Persona
+title: Jorge Loring
+tags: ["apologética"]
+
+timestamp: 2026-05-26
+description: "Jorge Loring Martínez (1921-2013) fue un sacerdote jesuita español, conocido por su labor apologética y su obra principal *Para Salvarte* (1964)."
+---
 # Jorge Loring
 
 > Área: Apologética

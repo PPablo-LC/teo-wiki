@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Arrianismo
+tags: ["dogmática_(trinidad", "cristología)"]
+
+timestamp: 2026-05-26
+description: Herejía del siglo IV que negaba la divinidad del Verbo (Jesucristo), afirmando que era una criatura, la más excelsa pero no consubstancial al Padre.
+---
 # Arrianismo
 
 > Área: Dogmática (Trinidad / Cristología)

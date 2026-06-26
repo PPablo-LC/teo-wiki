@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Carne
+tags: ["moral", "ascética"]
+
+timestamp: 2026-06-02
+description: En el lenguaje paulino, la «carne» (sarx) designa al hombre en su condición de debilidad y mortalidad tras el pecado original, inclinado al mal por la concupiscencia.
+---
 # Carne
 
 > Área: Moral / Ascética

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sede vacante
+tags: ["derecho_canónico"]
+
+timestamp: 2026-05-26
+description: La sede vacante es el período durante el cual una iglesia particular (diócesis) o la Sede Apostólica (Roma) carece de obispo propio por muerte, renuncia aceptada, traslado o privación.
+---
 # Sede vacante
 
 > Área: Derecho Canónico

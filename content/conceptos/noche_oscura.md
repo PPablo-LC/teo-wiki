@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Noche Oscura
+tags: ["mística"]
+
+timestamp: 2026-05-22
+description: La noche oscura es el concepto central de la doctrina mística de San Juan de la Cruz que designa el conjunto de purificaciones pasivas por las que Dios introduce al alma en la unión transformante.
+---
 # Noche Oscura
 
 > Área: Mística

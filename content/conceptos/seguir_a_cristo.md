@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Seguir a Cristo
+tags: ["ascética"]
+
+timestamp: 2026-06-19
+description: "Seguir a Cristo (*akolouthein* en griego) es la llamada fundamental del cristiano a caminar tras las huellas de Jesús, aceptando su enseñanza y su ejemplo como norma de vida."
+---
 # Seguir a Cristo
 
 > Área: Ascética

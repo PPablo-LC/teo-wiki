@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Perdón
+tags: ["dogmática", "moral"]
+
+timestamp: 2026-05-22
+description: Remisión de los pecados otorgada por Dios al pecador arrepentido, por los méritos de Jesucristo.
+---
 # Perdón
 
 > Área: Dogmática / Moral

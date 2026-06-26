@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Reposo
+tags: ["bíblica", "teología_del_at_y_nt"]
+
+timestamp: 2026-06-02
+description: El reposo en la Escritura no es mera cesación de actividad, sino consumación de la obra de Dios y participación del hombre en ese descanso divino.
+---
 # Reposo
 
 > Área: Bíblica / Teología del AT y NT

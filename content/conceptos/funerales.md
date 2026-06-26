@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Funerales
+tags: ["liturgia", "escatología"]
+
+timestamp: 2026-05-25
+description: Las exequias eclesiásticas o funerales son las celebraciones litúrgicas con que la Iglesia encomienda a los fieles difuntos a la misericordia de Dios, obtiene para ellos la ayuda espiritual.
+---
 # Funerales
 
 > Área: Liturgia / Escatología

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Exhortar
+tags: ["bíblica", "pastoral"]
+
+timestamp: 2026-06-02
+description: Función esencial del ministerio profético y apostólico que consiste en animar, estimular y urgir a los fieles a la fidelidad y a la conversión.
+---
 # Exhortar
 
 > Área: Bíblica / Pastoral

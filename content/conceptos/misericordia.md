@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Misericordia
+tags: ["dogmática"]
+
+timestamp: 2026-06-20
+description: La misericordia es el atributo divino por el cual Dios, movido por su infinita bondad, se compadece de la miseria humana.
+---
 # Misericordia
 
 > Área: Dogmática

@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Unión Hipostática
+tags: ["dogmática", "cristología"]
+
+timestamp: 2026-06-12 (enriquecido con SmTh IIIª q.16-17)
+description: Unión de la naturaleza humana y la naturaleza divina en la única Persona del Verbo (Hijo de Dios), en Jesucristo.
+---
 # Unión Hipostática
 
 > Área: Dogmática / Cristología

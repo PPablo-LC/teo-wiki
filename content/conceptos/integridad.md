@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Integridad
+tags: ["moral", "ascética", "sacramental"]
+
+timestamp: 2026-05-22
+description: La integridad en sentido teológico-moral designa la cualidad de la persona que conserva intacta su rectitud moral, ya sea por la preservación de la virginidad corporal.
+---
 # Integridad
 
 > Área: Moral / Ascética / Sacramental

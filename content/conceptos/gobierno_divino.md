@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Gobierno divino
+tags: ["dogmática"]
+
+timestamp: 2026-06-04
+description: El gobierno divino es la ejecución del plan de la providencia, por el cual Dios conduce todas las criaturas hacia su fin último.
+---
 # Gobierno divino
 
 > Área: Dogmática

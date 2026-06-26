@@ -1,3 +1,11 @@
+---
+type: Concepto Teológico
+title: Sectas
+tags: ["eclesiología", "nuevos_movimientos_religiosos"]
+
+timestamp: 2026-06-20
+description: Grupos religiosos o pseudoreligiosos que desarrollan una acción proselitista no respetuosa de la libertad de conciencia.
+---
 # Sectas
 
 > Área: Eclesiología / Nuevos movimientos religiosos
