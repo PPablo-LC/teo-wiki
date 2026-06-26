@@ -32,6 +32,10 @@ La usura no debe confundirse con la ganancia del comercio lícito: el comerciant
 
 CEC §2269: «La usura, que exige un interés excesivo, es contraria a la justicia». CEC §2409: «Las condiciones que hacen lícito el préstamo deben ser determinadas en cada caso por el principio de caridad y el de justicia». CEC §2449: Los préstamos a interés excesivo o usurero son pecado grave contra el séptimo mandamiento.
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El Papa **Urbano III** (D-403) enseñó que quien presta dinero con la intención de recibir más del capital, aun sin pacto previo, obra mal y debe restituir, pues «toda usura y sobreabundancia está prohibida» (Lc 6,35). **Inocencio III** (D-427) afirmó que los diezmos, primicias y oblaciones deben pagarse a los clérigos por precepto del Señor. **Gregorio IX** (D-448) precisó que quien presta a un navegante o a quien va a la feria, por exponerse al peligro, no ha de ser tenido por usurero si recibe algo más del capital, pues hay duda razonable sobre el valor futuro.
+
 ### Según Royo Marín (TPCr)
 
 TPCr trata la usura como pecado contra la justicia conmutativa. La usura es intrínsecamente mala y no puede ser justificada por convención humana. Sin embargo, se admiten los títulos extrínsecos que compensan pérdidas reales. La restitución es obligatoria.

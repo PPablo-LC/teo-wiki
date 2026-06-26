@@ -2106,6 +2106,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[agatón]]
 - [[agustín_de_hipona]]
 - [[albino_menéndez-reigada]]
+- [[alejandro_iii]]
 - [[anastasio_ii]]
 - [[antonio_royo_marín]]
 
@@ -2148,6 +2149,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 ### F
 
 - [[flaviano_constantinopla]]
+- [[focio]]
 - [[fotino]]
 - [[félix_de_urgel]]
 - [[félix_ii_iii]]
@@ -2159,6 +2161,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[gelasio_i]]
 - [[gianfranco_ghirlanda]]
 - [[gottschalk_de_orbais]]
+- [[gregorio_ix]]
 
 ### H
 
@@ -2168,14 +2171,20 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 
 ### I
 
+- [[i_concilio_de_lyon]]
 - [[ii_concilio_de_constantinopla]]
 - [[iii_concilio_de_constantinopla]]
+- [[iii_concilio_de_letrán]]
 - [[iii_concilio_de_valence]]
+- [[inocencio_iii]]
 - [[isabel]]
 - [[isaías]]
+- [[iv_concilio_de_constantinopla]]
+- [[iv_concilio_de_letrán]]
 
 ### J
 
+- [[joaquín_de_fiore]]
 - [[john_connor]]
 - [[john_henry_newman]]
 - [[jorge_loring]]
@@ -2240,6 +2249,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[san_juan_de_la_cruz]]
 - [[san_juan_enrique_newman]]
 - [[san_maximiliano_kolbe]]
+- [[san_nicolás_i]]
 - [[san_pablo]]
 - [[san_patricio]]
 - [[san_pedro]]

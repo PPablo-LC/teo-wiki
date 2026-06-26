@@ -111,6 +111,10 @@ Santo Tomás trata el sacramento del Orden en la IIIa Pars, q.63-64 (sobre el ca
 
 **Potestad episcopal (Suppl. q.40).** Sobre el sacerdocio debe haber una potestad episcopal, pues el sacerdote depende de una potestad humana superior en sus actos secundarios (jurisdicción, ordenación), aunque no en el principal (consagrar) (q.40 a.4). El episcopado no es un Orden como sacramento (pues no imprime carácter distinto del sacerdotal), pero sí es un orden como oficio jerárquico (q.40 a.5). Sobre todos los obispos está el Romano Pontífice, que posee la potestad suprema para la unidad de toda la Iglesia (q.40 a.6).
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Gregorio IX** (D-445) enseñó que los presbíteros y diáconos reciben la imposición de la mano con tacto corporal, según el rito introducido por los Apóstoles. Si se hubiere omitido, ha de suplirse con cautela en el tiempo estatuido. El **I Concilio de Lyon** (1245, D-454) mandó que los obispos griegos confieran las siete órdenes conforme a la costumbre de la Iglesia romana, pues se dice que omitían tres de las órdenes menores.
+
 ## Distinciones importantes
 
 - **Tres grados**: episcopado, presbiterado, diaconado — cada uno con carácter propio

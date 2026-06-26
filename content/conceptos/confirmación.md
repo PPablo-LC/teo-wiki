@@ -109,6 +109,10 @@ El **ministro propio** es el obispo (a.11). Aunque el bautismo (nacimiento espir
 
 El **rito de la Iglesia** es el adecuado (a.12). Las disposiciones de la Iglesia sobre el tiempo (Jueves Santo para la consagración del crisma, tiempo pascual para la confirmación solemne, posibilidad de administrarla en ayunas o no) están regidas por la sabiduría de Cristo, que está en medio de los suyos (Mt 18,20).
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Inocencio III** (D-419) enseñó que la confirmación —que por otro nombre se llama crismación de la frente— designa la imposición de las manos y solo debe ser conferida por el obispo, pues de solos los Apóstoles se lee que daban el Espíritu Santo por la imposición de las manos (Act 8,14ss). El **I Concilio de Lyon** (1245, D-450) reiteró que solo los obispos signen con el crisma en la frente a los bautizados, y que cada obispo puede consagrar el crisma el día de la Cena del Señor.
+
 ## Distinciones importantes
 
 - **Bautismo vs. confirmación**: bautismo da nacimiento, confirmación da mayoría de edad espiritual

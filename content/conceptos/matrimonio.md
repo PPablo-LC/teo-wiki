@@ -181,6 +181,10 @@ Juan Pablo I, en su audiencia general del 13 de septiembre de 1978, mencionó el
 
 La anécdota, incluida por JPI en su primera audiencia general, subraya la dignidad sacramental del matrimonio frente a la visión mundana que lo reduce a mero vínculo humano. El matrimonio es verdadero sacramento, instituido por Cristo, que confiere gracia a los esposos.
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El Papa **San Nicolás I** (866, D-334) enseñó que en las nupcias basta el solo consentimiento de aquellos de cuya unión se trata: «si acaso ese solo consentimiento faltare, todo lo demás, aun celebrado con coito, carece de valor». Esta es la primera declaración pontificia explícita sobre el consentimiento como elemento constitutivo del matrimonio.
+
 ## Distinciones importantes
 
 - **Matrimonio como contrato natural vs. como sacramento**: entre bautizados, el contrato válido es ipso facto sacramento

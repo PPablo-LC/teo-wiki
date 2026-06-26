@@ -21,6 +21,8 @@ El Denzinger recoge la consustancialidad como elemento central de la fe nicena: 
 
 El **II Concilio de Constantinopla** (553) extendió la consustancialidad a la cristología. El canon 1 (D-213) confiesa «una sola naturaleza o sustancia del Padre y del Hijo y del Espíritu Santo, y una sola virtud y potestad, Trinidad consustancial». El canon 8 (D-220) aplica el término a Cristo: «consustancial al Padre según la divinidad, y el mismo consustancial a nosotros según la humanidad». Es la primera vez que «consustancial» se predica de la humanidad de Cristo respecto de nosotros, afirmando así la verdadera humanidad de Cristo frente al docetismo y al monofisismo.
 
+El **IV Concilio de Letrán** (1215), en el *Firmemente creemos* (D-428), reafirma la consustancialidad trinitaria: «un solo Dios [...] tres personas, pero una sola esencia, una sola sustancia o naturaleza absolutamente simple». En D-432, al aprobar a **Pedro Lombardo** y rechazar a **Joaquín de Fiore**, precisa que la unidad está en la naturaleza común y la distinción en las personas, excluyendo toda idea de cuaternidad en Dios.
+
 ## Relaciones doctrinales
 
 La consustancialidad es el fundamento de la fe [[trinidad|trinitaria]] y [[cristología|cristológica]]. Se relaciona con la [[generación_eterna]] del Hijo, la [[unidad_hipostática]] de las dos naturalezas en Cristo, y el [[filioque]] en la procesión del Espíritu Santo. Su negación constituye el [[arrianismo]].

@@ -74,6 +74,9 @@ En el AT el término *néfesh* designa al ser viviente en su totalidad, no un «
 
 El alma humana fue creada a imagen y semejanza de Dios, dotada de entendimiento y voluntad libres. El fin del alma es la visión beatífica de Dios. El alma en gracia es morada de la Santísima Trinidad (inhabitación trinitaria), lo que constituye el fundamento de toda la vida espiritual y el fin de la perfección cristiana (TPCr, Primera Parte, Caps. I-III).
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El **IV Concilio de Constantinopla** (869-870, D-338) definió que «el Antiguo y el Nuevo Testamento enseñan que el hombre tiene una sola alma racional e intelectiva», confirmado por todos los Padres y maestros de la Iglesia. El concilio anatematiza a quienes dogmatizan que el hombre tiene dos almas, declarando tal opinión «herejía» y «mala cizaña».
 
 ## Relaciones doctrinales
 

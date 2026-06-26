@@ -31,6 +31,12 @@ La vida cristiana es una participación de la vida trinitaria. Por el bautismo, 
 
 [TPCr, Parte I, Cap. 2]
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El **IV Concilio de Letrán** (1215), en la constitución *Firmemente creemos* (D-428), confiesa la fe trinitaria: «Firmemente creemos y simplemente confesamos que uno solo es el verdadero Dios, eterno, inmenso e incomputable, incomprehensible, omnipotente e inefable, Padre, Hijo y Espíritu Santo: tres personas, pero una sola esencia, una sola sustancia o naturaleza absolutamente simple». El Padre procede de nadie, el Hijo solo del Padre, y el Espíritu Santo de ambos igualmente, sin principio ni fin. La Trinidad es un solo Dios, no tres dioses.
+
+El mismo concilio, en D-431-432, aprueba la doctrina de **Pedro Lombardo** y rechaza la de **Joaquín de Fiore**, que afirmaba una cuaternidad en Dios. No hay cuaternidad en la Trinidad: la suma de las tres personas no es una cuarta realidad. La unidad está en la naturaleza común; las distinciones, en las personas.
+
 ## Distinciones importantes
 
 - **Procesiones divinas**: eternas e inmanentes (generación del Hijo, espiración del Espíritu Santo), distintas de las misiones divinas que son temporales.

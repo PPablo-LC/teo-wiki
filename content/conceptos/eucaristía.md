@@ -241,6 +241,14 @@ Juan Pablo II trata la institución de la Eucaristía en la Última Cena como el
 
 La Carta Apostólica *Una fidelidad que genera futuro* (2025) presenta la Eucaristía como centro y raíz de toda la vida del presbítero. El sacerdote celebra el sacrificio de Cristo, «se nutre del misterio que celebra en la santa liturgia» y está llamado a «desaparecer para que permanezca Cristo» (UFGF §25). La Eucaristía es el lugar eminente donde el sacerdote renueva su «sí» al Señor, como Pedro en el lago de Galilea (UFGF §7). El documento concluye con una afirmación cumbre: «El sacerdocio es el amor del corazón de Jesús. Un amor tan fuerte que disipa las nubes de la rutina, el desánimo y la soledad, un amor total que se nos da en plenitud en la Eucaristía. Amor eucarístico, amor sacerdotal» (UFGF §29) [UFGF, 22.12.2025].
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El **IV Concilio de Letrán** (1215), en D-430, define la transustanciación: «Cuerpo y Sangre de Jesucristo se contienen verdaderamente bajo las especies de pan y vino, habiéndose convertido el pan (transubstantiatis) en el Cuerpo y el vino en la Sangre por el poder divino». Afirma también que solo el sacerdote debidamente ordenado puede realizar este sacramento: «Nadie puede efectuar este sacramento sino el sacerdote que ha sido debidamente ordenado según las llaves de la Iglesia que el mismo Jesucristo otorgó a los Apóstoles y a sus sucesores».
+
+**Inocencio III** (D-410–416) enseñó, a partir del canon de la Misa, que «el sacerdote, elevando el cáliz, dice: *Elevación del cáliz de la vida eterna* et reliqua», indicando que en el cáliz se contiene el Cuerpo y la Sangre de Cristo. Quien recibe bajo una sola especie recibe a Cristo todo entero, pues donde está una parte está el todo por conmixtión. La [[confirmación]] y la [[extremaunción]] son, como la Eucaristía, sacramentos de vivos que requieren gracia habitual.
+
+**Honorio III** (1266, D-441) confirmó la costumbre de que en la misa se mezcle agua con el vino, significando la unión de Cristo con el pueblo fiel.
+
 ## Analizado para
 
 - [[ali_ghaffari_courage]]

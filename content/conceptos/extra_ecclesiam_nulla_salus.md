@@ -21,6 +21,10 @@ Este principio no significa que todos los que no pertenecen visiblemente a la Ig
 
 El axioma «Extra Ecclesiam nulla salus» es una verdad de fe definida, pero su interpretación ha sido precisada por la Iglesia a lo largo del tiempo. La pertenencia a la Iglesia puede ser real (incorporación efectiva) o deseada (*voto Ecclesiae*: deseo implícito o explícito de pertenecer a ella). La Iglesia no condena a nadie que, sin culpa, no la conozca, sino que confía en la misericordia de Dios [TPCr, Parte I, Cap. 3].
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El **IV Concilio de Letrán** (1215), en D-430, recoge la fórmula «Una es, pues, la Iglesia universal de los fieles, fuera de la cual nadie absolutamente se salva» (*Una vero est fidelium universalis Ecclesia, extra quam nullus omnino salvatur*). Es la primera definición conciliar explícita del axioma *Extra Ecclesiam nulla salus*, que vincula la salvación a la pertenencia a la única Iglesia de Cristo.
+
 ## Distinciones importantes
 
 - Pertenencia real (incorporación efectiva) vs. pertenencia por deseo (*in voto*)

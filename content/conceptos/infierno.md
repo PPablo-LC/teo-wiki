@@ -19,6 +19,10 @@ La pena principal del infierno es la "pena de daño": la separación eterna de D
 
 El CEC dedica un artículo al infierno (§1033-1037). Afirma la existencia y eternidad del infierno (§1035). Las afirmaciones sobre el infierno son un llamamiento apremiante a la conversión (§1036). La pena principal consiste en la separación eterna de Dios (§1035, §1057). Cristo descendió a los infiernos para liberar a los justos que le habían precedido, no para destruir el infierno de la condenación (§631-637).
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El **I Concilio de Lyon** (1245, D-457) definió que quien muere en pecado mortal sin penitencia «es perpetuamente atormentado por los ardores del infierno eterno». El mismo decreto distingue entre la suerte de los condenados (infierno eterno) y la de los que mueren en caridad sin deuda de pena (visión beatífica inmediata).
+
 ### Según Royo Marín (TPCr)
 
 Royo Marín trata el infierno en el contexto de la lucha contra el pecado. Un solo pecado mortal merece el infierno eterno, demostrando así la gravedad infinita del pecado (TPCr, Tercera Parte, Libro I, Cap. I). La consideración del infierno y sus penas es un motivo útil para la lucha ascética y la perseverancia. Los santos, sin embargo, aman a Dios con un amor tan puro que incluso preferirían estar en el infierno si allí pudieran amarle más (TPCr, Tercera Parte, Libro II, Cap. II).

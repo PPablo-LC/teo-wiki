@@ -13,6 +13,10 @@ La fe de la Iglesia afirma simultáneamente la verdadera divinidad y la verdader
 
 ## Perspectivas por fuente
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El Papa **Alejandro III** (1177, D-393) condenó la proposición de Abelardo «Cristo no es nada en cuanto hombre», afirmando que Cristo es perfecto Dios y perfecto hombre, que consta de alma racional y de carne humana. El **IV Concilio de Letrán** (1215, D-429) definió que Jesucristo es «verdadero hombre, compuesto de alma racional y carne humana, una sola persona en dos naturalezas», que padeció según la humanidad y resucitó en la carne.
+
 ### Según Juan Pablo II (CrSJP)
 
 Juan Pablo II, en la catequesis del 29 de abril de 1987 titulada «Jesús, el Hijo del hombre», aborda la humanidad de Cristo a partir del título que Jesús usaba con más frecuencia para referirse a sí mismo: «Hijo del hombre».

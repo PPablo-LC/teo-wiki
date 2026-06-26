@@ -25,6 +25,10 @@ Los cánones 834-839 regulan la función litúrgica de la Iglesia. La liturgia s
 El culto en el AT está marcado por la evolución desde los santuarios patriarcales y el arca de la alianza hasta el templo de Jerusalén. Los profetas denuncian el culto sin alma (*Am 5; Is 1; Jer 7*), exigiendo pureza de corazón y fidelidad a la alianza. La originalidad del NT está en que Jesús mismo es el nuevo templo (*Jn 2,19-21*), y su sacrificio sella la nueva alianza. El culto cristiano es «en espíritu y verdad» (*Jn 4,23-24*), centrado en la Eucaristía (*Hch 2,42*), que actualiza el único sacrificio de Cristo. La carta a los Hebreos presenta a Cristo como sumo sacerdote del culto celestial (*Heb 8-10*), desplazando definitivamente las instituciones cultuales del AT [VocTeoBib, «Culto»].
 
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El **IV Concilio de Constantinopla** (869-870, D-337) decretó que la sagrada imagen de Cristo Salvador sea adorada con honor igual al del libro de los Santos Evangelios: «así como por el sentido de las sílabas que en el libro se ponen, todos conseguiremos la salvación; así por la operación de los colores de la imagen, sabios e ignorantes, todos percibirán la utilidad de lo que está delante». El honor se refiere al original (prototipo), no a la imagen misma. Igualmente se ha de honrar y adorar la imagen de la Virgen María, de los ángeles, apóstoles, profetas, mártires y santos. Quien no adore la imagen de Cristo «no vea su forma cuando venga a ser glorificado en la gloria paterna».
+
 ## Relaciones doctrinales
 
 [[virtud_de_la_religión]], [[adoración]], [[oración]], [[sacrificio]], [[liturgia]], [[justicia]]

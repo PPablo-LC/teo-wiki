@@ -23,6 +23,10 @@ La herejía es una especie de infidelidad, propia de quienes profesan la fe de C
 
 El canon 751 define la herejía como «la negación pertinaz, después de recibido el bautismo, de una verdad que ha de creerse con fe divina y católica, o la duda pertinaz sobre la misma». Esta definición se integra en el Libro III sobre la función de enseñar de la Iglesia, en el contexto de la [[fe_católica]] y el [[depósito_de_la_fe]].
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El **III Concilio de Letrán** (1179, D-401) anatematizó a los cátaros, patarinos, publicanos y a quienes los defendieran, prohibiendo tenerlos en casas o tierras o ejercer comercio con ellos. El **Concilio de Verona** (1184, D-402) anatematizó a quienes sintieran u enseñaran de otro modo que la Iglesia Romana acerca de los sacramentos. **Inocencio III** (D-417–427) recibió la profesión de fe de **Durando de Huesca** y los pobres católicos, que abjuraban de las herejías cátara y valdense y aceptaban los sacramentos, el purgatorio y las indulgencias conforme a la doctrina romana. **Gregorio IX** (D-444) anatematizó a los cátaros, patarenos, pobres de Lyon, pasaginos, josefinos, arnaldistas, esperonistas y a todos cuantos la Iglesia Romana juzgare herejes.
+
 ## Distinciones importantes
 
 - **Herejía material**: error involuntario sin culpa (no hay pecado formal)

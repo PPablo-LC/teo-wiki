@@ -35,6 +35,10 @@ El **art. 4 §2** SST-2010 tipifica como delito autónomo la grabación con cual
 
 La Breve Relación (n.12) señala que estas modificaciones incorporan el decreto de la CDF del 23 de febrero de 1988 sobre captación o divulgación maliciosa de la confesión sacramental.
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El **IV Concilio de Letrán** (1215), en D-438, establece la obligación del sigilo sacramental con la máxima severidad: «Guárdese absolutamente el sacerdote de descubrir al pecador por palabra, por señal o por cualquier otro medio»; si lo hace, será depuesto y recluido en un monasterio para hacer perpetua penitencia. Es la primera disposición conciliar que sanciona con pena canónica la violación del secreto de confesión.
+
 ## Relaciones doctrinales
 
 El sigilo sacramental se fundamenta en la naturaleza misma del sacramento de la [[penitencia]] y en la absoluta confianza que el penitente debe tener en el ministro sagrado. Se distingue del secreto profesional y del secreto natural por su origen sacramental y su inviolabilidad absoluta.

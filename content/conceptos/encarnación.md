@@ -119,6 +119,12 @@ Juan Pablo II presenta a Cristo como el sacramento, signo tangible y visible del
 
 Juan Pablo II, en su ciclo cristológico, trata la encarnación como obra del Espíritu Santo: Jesús fue concebido por obra del Espíritu Santo y nació de la Virgen María (Lc 1,35). El *Fiat* de María en la Anunciación es el consentimiento humano que hace posible la encarnación. El Hijo de Dios, «engendrado, no creado, consubstancial al Padre», asume la naturaleza humana para nuestra salvación (CJeS, primera parte: identidad de Cristo). La encarnación es una nueva creación: así como en el principio el Espíritu aleteaba sobre las aguas, en la Anunciación el Espíritu Santo cubre con su sombra a María (Lc 1,35). El Verbo se hizo carne (Jn 1,14) para recapitular todas las cosas en Cristo (Ef 1,10). Cristo se solidariza con toda la humanidad, asumiendo la condición humana en todo menos en el pecado (CJeS, primera parte: identidad de Cristo).
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El **IV Concilio de Letrán** (1215), en la constitución *Firmemente creemos* (D-428), confiesa que Dios «creó de la nada el universo y todas las criaturas, tanto las espirituales como las corporales». El diablo y los demás demonios fueron creados buenos por naturaleza, pero se hicieron malos por su propia voluntad.
+
+En D-429, el mismo concilio confiesa el misterio de la Encarnación: Jesucristo es verdadero Dios y verdadero hombre, «una sola persona en dos naturalezas», nacido de la siempre Virgen María por obra del Espíritu Santo. «Descendió a los infiernos, resucitó al tercer día, subió a los cielos». Al final de los tiempos vendrá a juzgar a vivos y muertos, y todos resucitarán con sus propios cuerpos para recibir según sus obras.
+
 ## Distinciones importantes
 
 - **Unión hipostática**: unión de las dos naturalezas (divina y humana) en una sola Persona (la del Verbo).
