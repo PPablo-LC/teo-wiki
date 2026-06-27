@@ -42,6 +42,10 @@ El CEC, siguiendo la *Dei Verbum*, enseña que la Tradición apostólica es una 
 
 El Denzinger testimonia la transmisión de la tradición apostólica a través de los Padres. San Ireneo, en su *Adversus haereses*, presenta la fe que la Iglesia recibió de los Apóstoles y de sus sucesores como regla de fe (D-2). Los símbolos de la fe recogidos en el Denzinger (D-1 a D-40) son ellos mismos testimonios de la tradición apostólica en su forma más antigua.
 
+El Concilio de Trento (Sesión IV, D-783) definió que la verdad y disciplina del Evangelio se contiene «en los libros escritos y las tradiciones no escritas que, transmitidas como de mano en mano, han llegado hasta nosotros desde los Apóstoles». El Concilio recibe y venera las tradiciones «con igual afecto de piedad e igual reverencia» que los libros sagrados. Esta definición tridentina fue la respuesta a la doctrina protestante de la *sola Scriptura*.
+
+- [D-783]
+
 ### Según Para Salvarte (PS)
 
 Loring defiende la necesidad de la Tradición junto a la Escritura. El Antiguo Testamento se transmitió oralmente de generación en generación; [[cristo_maestro|Cristo no escribió nada]], sino que «se limitó a predicar», y a los Apóstoles no les dijo «escribid», sino «predicad» [PS §38,2]. La Tradición apostólica es más amplia que la Escritura: «Los Apóstoles enseñaron principalmente de palabra, como ellos habían sido enseñados por Nuestro Señor» [PS §38,2]. Ambas proceden de la misma fuente divina y son los dos canales por los que nos llega el contenido de la Revelación. La Tradición fue la clave para establecer el canon de los libros inspirados. Distingue entre la Tradición Apostólica (con mayúscula, objeto de fe) y las tradiciones humanas (con minúscula, costumbres) [PS §38,2].

@@ -64,6 +64,12 @@ Así, todo acto humano bueno o malo tiene razón de mérito o demérito ante Dio
 
 El **II Concilio de Orange** (529) enseña la doctrina católica sobre el mérito en relación con la gracia. El canon 18 (D-191) afirma: «Se debe recompensa a las buenas obras, si se hacen; pero la gracia, que no se debe, precede para que se hagan». El canon 19 (D-192) declara que la naturaleza humana, aun en su estado de integridad original, no podía conservarse sin el auxilio del Creador; con mayor razón no puede reparar lo perdido sin la gracia. El epílogo doctrinal (D-199) resume que en toda obra buena no empezamos nosotros para ser luego ayudados, sino que Dios nos inspira primero sin merecimiento previo alguno. El canon 20 (D-193) concluye: «Muchos bienes hace Dios en el hombre, que no hace el hombre; ningún bien, empero, hace el hombre que no otorgue Dios que lo haga el hombre». Esta doctrina fue confirmada por Bonifacio II (D-200a–D-200b).
 
+El **Concilio de Trento** (Sesión VI, D-809, D-842, Can. 32) definió que las buenas obras del justificado, hechas en Dios y por el mérito de Jesucristo, son verdaderamente meritorias del aumento de la gracia, de la vida eterna y del aumento de la gloria. La vida eterna es a la vez gracia prometida y «retribución» que Dios ha de dar fielmente a las buenas obras y méritos de los justos (D-809). Se condenó a quienes dicen que los dones de Dios no son también buenos merecimientos del justificado (D-842, Can. 32).
+
+- [D-809]
+- [D-836]
+- [D-842]
+
 ### Según Royo Marín (TPCr)
 
 Sin la gracia santificante, las obras más heroicas no tienen valor en orden a la vida eterna. El mérito sobrenatural supone la posesión de la vida sobrenatural. El mérito de condigno perfecto (estricta justicia) es exclusivo de Jesucristo; el mérito de condigno imperfecto (justicia proporcional) es posible para el justo, porque Dios prometió recompensar los actos meritorios. La gracia actual es absolutamente necesaria para todo acto meritório.
@@ -84,6 +90,19 @@ Cristo tuvo la gracia no solo como hombre particular, sino como cabeza de toda l
 - Mérito de condigno (exige igualdad perfecta entre acto y recompensa, solo Cristo) vs. mérito de congruo (conveniente, no estrictamente debido).
 - La gracia primera (conversión, justificación) no puede merecerse; las gracias subsiguientes sí pueden merecerse.
 - El mérito es don de Dios: «al coronar sus méritos, coronas tu propia obra» (San Agustín).
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+Pío V condenó los errores de Miguel Bayo sobre el mérito (D‑1001–D‑1082), que atribuían a las obras buenas una eficacia meritoria por naturaleza:
+
+- D‑1002: «Como una obra mala es por su naturaleza merecedora de la muerte eterna, así una obra buena es por su naturaleza merecedora de la vida eterna».
+- D‑1003–D‑1005: La felicidad del hombre íntegro sería retribución, no gracia; la vida eterna fue prometida por las buenas obras en virtud de la «justicia natural».
+- D‑1007: Los méritos del primer hombre son dones de la creación, no gracia.
+- D‑1010–D‑1011: La pena temporal y la resurrección solo deben atribuirse a los méritos de Cristo; la retribución de la vida eterna se debería a la «ordenación natural», no a la gracia ni al mérito de Cristo.
+- D‑1012: Considera pelagiana la sentencia de que una obra buena fuera de la gracia de adopción no es merecedora del reino.
+- D‑1013, D‑1015: La razón del mérito no es la inhabitación del Espíritu Santo sino la mera conformidad con la ley.
+- D‑1018: Las obras de los catecúmenos serían merecimientos para la vida eterna.
+- D‑1061–D‑1062: Rechaza como «imaginaria» la distinción entre cumplimiento sustancial y cumplimiento meritorio, así como la distinción entre bondad moral y bondad meritoria.
 
 ## Relaciones doctrinales
 

@@ -82,6 +82,18 @@ La castidad no es mera abstención sino que tiene una función positiva: aliada 
 
 Cristo llama a esta pureza de corazón que es «exigencia del amor» y «la dimensión de su verdad interior en el corazón del hombre» (TdC 03.12.1980).
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Alejandro VII** (1666, D‑1124) condenó la proposición laxista: «La masturbación, la sodomía y la bestialidad son pecados de la misma especie ínfima, y por tanto basta decir en la confesión que se procuró la polución.» Condenada como escandalosa. La condena reafirma que estos pecados son de especies distintas y requieren especificación en la confesión.
+
+**Alejandro VII** (1666, D‑1125) condenó la proposición: «Parece probable que la cópula con una soltera, siendo la soltera la que consiente, no es pecado mortal.» Condenada como falsa y escandalosa. La condena reafirma que la fornicación es pecado mortal independientemente del consentimiento de la soltera.
+
+**Alejandro VII** (1666, D‑1140) condenó la proposición: «El acto de besarse, abrazarse y tocarse, cuando procede de un afecto amatorio y de una mutua complacencia, no sale de los límites de un pecado venial, con tal que ni el que las hace ni la persona que las recibe experimenten una singular delectación carnal.» Condenada como falsa. Tales actos, cuando proceden de afecto amatorio con complacencia venérea, son materia grave si se dan entre solteros o incitan a la lujuria.
+
+**Inocencio XI** (1679, D‑1159) condenó la proposición: «El acto conyugal ejercido por el solo placer es absolutamente exento de culpa y de imperfección.» Condenada como escandalosa. La condena enseña que el acto conyugal debe ordenarse al fin del matrimonio, aunque el placer no constituya pecado cuando se busca dentro de los fines del matrimonio.
+
+**Inocencio XI** (1679, D‑1199) condenó la proposición: «La masturbación no está prohibida por derecho de la naturaleza. De ahí que si Dios no la hubiera prohibido, muchas veces sería buena y alguna vez obligatoria bajo pecado mortal.» Condenada como escandalosa y perniciosa. La Iglesia siempre ha enseñado que la masturbación es intrínsecamente mala por oponerse a la ley natural.
+
 ## Distinciones importantes
 
 - **Castidad virginal**: abstención perpetua de toda delectación venérea por motivos sobrenaturales

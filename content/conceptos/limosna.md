@@ -45,6 +45,10 @@ La limosna es preceptiva en caso de necesidad extrema del prójimo y cuando se t
 
 **a.10 — La limosna debe ser abundante en proporción a lo que se tiene, pero no debe sobreabundar superfluamente en quien la recibe.**
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Inocencio XI** (1679, D‑1162) condenó la proposición: «Apenas se halla entre los seculares, aun entre reyes, nada superfluo a su estado. Y así apenas si nadie está obligado a la limosna, cuando solo está obligado de lo superfluo a su estado.» Condenada como escandalosa. La condena reafirma la obligación de dar limosna de lo superfluo, que no se excusa por una definición demasiado amplia de lo necesario al estado de cada uno.
+
 ## Distinciones importantes
 
 - **Limosna de precepto vs. de consejo:** La primera obliga en necesidad extrema con lo superfluo; la segunda es voluntaria.

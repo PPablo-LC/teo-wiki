@@ -38,6 +38,23 @@ Jurar por las criaturas (cielo, tierra, templo) es lícito en cuanto que en ella
 
 [SmTh IIa-IIae q.89]
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Concilio de Constanza**, Condena de Juan Wicleff (D-623): Error de Wicleff: «Son ilícitos los juramentos que se hacen para corroborar los contratos humanos y los comercios civiles».
+
+**Martín V**, Bula *Inter cunctas* (D-662-664): Preguntas 12-14: no es ilícito jurar en ningún caso; el juramento por mandato del juez para decir la verdad es lícito; el perjurio cometido a sabiendas, por cualquier causa, es pecado mortal.
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El Papa **Juan XXII** condenó el error de los fraticelli (D-487) que, siguiendo a los valdenses, afirmaban que «no ha de jurarse en ningún caso», dogmatizando que se manchan con contagio de pecado mortal quienes se obligan por juramento.
+
+El Papa **Gregorio XI** condenó el error 43 de Juan Wicleff (D-623): «Son ilícitos los juramentos que se hacen para corroborar los contratos humanos y los comercios civiles».
+
+El **Concilio de Constanza** (Sesión XV, 1415), al formular las preguntas para examinar a los husitas (D-662-664), estableció la doctrina católica sobre el juramento:
+- **D-662**: Se preguntaba si se cree y afirma que en ningún caso es lícito jurar (error condenado).
+- **D-663**: Se afirmaba que el juramento por mandato del juez para decir la verdad, o cualquier otro por causa oportuna, aun el que ha de hacerse para justificarse de una infamia, es lícito.
+- **D-664**: Se afirmaba que el perjurio cometido a sabiendas, por cualquier causa u ocasión, por la conservación de la vida, propia o ajena, y hasta en favor de la fe, es pecado mortal.
+
 ## Ver también
 
 [[voto]], [[virtud_de_la_religión]], [[verdad]], [[promesa]]

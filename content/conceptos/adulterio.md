@@ -39,6 +39,10 @@ CEC §1756: El adulterio es uno de los actos intrínsecamente ilícitos, indepen
 
 Juan Pablo II dedica múltiples catequesis al adulterio en el contexto del Sermón de la Montaña (Mt 5,27-28): el adulterio «en el corazón» revela que la concupiscencia rompe la comunión originaria entre hombre y mujer. El adulterio falsifica el signo de la alianza conyugal que refleja la Alianza de Dios con su pueblo. La redención del cuerpo restaura la capacidad de vivir la pureza del corazón.
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Inocencio XI** (1679, D‑1200) condenó la proposición laxista: «La cópula con una casada, con consentimiento del marido, no es adulterio, y por tanto basta en la confesión decir que se fornicó.» Condenada como escandalosa y errónea. La condena reafirma que el adulterio es intrínsecamente malo e independiente del consentimiento del cónyuge, pues viola la indisolubilidad y fidelidad del vínculo matrimonial, no solo los derechos del cónyuge.
+
 ## Distinciones importantes
 
 - **Adulterio formal vs. material**: el adulterio formal implica pleno conocimiento y consentimiento; el material puede darse con ignorancia o coacción

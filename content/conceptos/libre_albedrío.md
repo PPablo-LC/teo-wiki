@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Libre Albedrío
 tags: ["antropología"]
 
-timestamp: 2026-06-12
+timestamp: 2026-06-27
 description: Facultad radical de la persona humana de elegir entre el bien y el mal, de autodeterminarse sin coacción externa ni necesidad interna.
 ---
 # Libre Albedrío
 
 > Área: Antropología
-> Última actualización: 2026-06-12
+> Última actualización: 2026-06-27
 
 ## Definición
 
@@ -50,7 +50,15 @@ Cristo tuvo verdadero libre albedrío, cuyo acto propio es la elección (electio
 
 El Denzinger recoge la doctrina sobre el libre albedrío en varios documentos de los siglos V y VI. El Papa San Simplicio (D-156) afirma que el libre albedrío «existe, pero está herido por el pecado». El Concilio de Arles (475, D-160a) precisa que el libre albedrío está «atenuado y debilitado, no extinguido». El II Concilio de Orange (D-181) enseña que el libre albedrío fue «debilitado por el pecado original; nadie puede venir a Cristo sin la gracia». El mismo concilio afirma que el libre albedrío es «reparado por la gracia del bautismo» (D-186) y que «nadie puede amar a Dios como se debe sin gracia preveniente» (D-199). La gracia no destruye la libertad sino que la sana y la eleva, como resume el *Indiculus* de Celestino I: «Por este auxilio y don de Dios, no se quita el libre albedrío, sino que se libera» (D-141).
 
+**León X** (1520), Bula *Exsurge Domine* — Condena del error de Lutero sobre el libre albedrío: Lutero afirmó que «el libre albedrío después del pecado es cosa de mero nombre; y mientras hace lo que está de su parte, peca mortalmente» (D-776 — condenado). La condena reafirma que el libre albedrío existe realmente incluso en el estado de pecado (aunque debilitado), y que las obras del hombre movido por la gracia no son pecado sino mérito.
+
 El **Concilio de Quiersy** (853, D-317) enseña que el libre albedrío fue «perdido en el primer hombre» y solo es recuperado por Cristo, siendo prevenido y ayudado por la gracia divina para obrar el bien. El **III Concilio de Valence** (855, D-325) remite a los Padres, los concilios africanos y el II Concilio de Orange como regla de fe sobre el libre albedrío, confirmando la doctrina de la gracia preveniente y el libre albedrío sanado, no anulado.
+
+El **Concilio de Trento** (Sesión VI) definió que el libre albedrío no se perdió ni extinguió por el pecado de Adán, sino que quedó «atenuado en sus fuerzas e inclinado» (D-793). El hombre puede cooperar libremente con la gracia o rechazarla, no es un ser inánime (D-797, D-814). Se condenó a quienes dicen que el libre albedrío se perdió después del pecado de Adán o que es «cosa de solo título» (D-815, Can. 5).
+
+- [D-793]
+- [D-797]
+- [D-814-D-815]
 
 ## Distinciones importantes
 
@@ -58,6 +66,24 @@ El **Concilio de Quiersy** (853, D-317) enseña que el libre albedrío fue «per
 - La libertad verdadera se realiza en el bien, no en el pecado
 - La gracia presupone y perfecciona la libertad, no la anula
 - La concupiscencia debilita pero no destruye el libre albedrío
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+Pío V condenó los errores de Bayo sobre el libre albedrío (D‑1027–D‑1030, D‑1039, D‑1041, D‑1065–D‑1067):
+
+- D‑1027: «El libre albedrío, sin la ayuda de la gracia de Dios, no vale sino para pecar».
+- D‑1028: Es error pelagiano decir que el libre albedrío tiene fuerza para evitar pecado alguno.
+- D‑1030: Sin el auxilio de la gracia no puede el hombre resistir a tentación alguna.
+- D‑1039: Lo que se hace voluntariamente, aunque se haga por necesidad, se hace libremente.
+- D‑1041: La libertad de necesidad no se encuentra en la Escritura bajo el nombre de libertad, sino solo la libertad de pecado.
+- D‑1065: Solo por error pelagiano puede admitirse algún uso bueno del libre albedrío sin la gracia.
+- D‑1066–D‑1067: Solo la violencia repugna a la libertad natural; el hombre peca en lo que hace por necesidad.
+
+**Inocencio X** (1653, D‑1092–D‑1094) — Condena de las cinco proposiciones de [[cornelio_jansenio]]:
+
+- D‑1092 (1ª): Algunos mandamientos de Dios son imposibles para los justos según sus fuerzas presentes. Condenada como herética. La gracia no hace los mandamientos imposibles, sino posibles (D‑804, Trento).
+- D‑1093 (2ª): En el estado de naturaleza caída no se resiste nunca a la gracia interior. Condenada como herética. El libre albedrío puede resistir a la gracia.
+- D‑1094 (3ª): Para merecer y desmerecer no se requiere la libertad de necesidad, sino que basta la libertad de coacción. Condenada como herética. El acto meritorio requiere libertad de indiferencia o de necesidad (no estar determinado internamente al bien), no solo la ausencia de coacción externa. Jansenio reducía la libertad a la mera espontaneidad externa, negando la autodeterminación interior de la voluntad.
 
 ## Relaciones doctrinales
 

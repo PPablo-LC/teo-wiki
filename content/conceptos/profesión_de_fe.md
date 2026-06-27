@@ -21,6 +21,10 @@ La profesión de fe tiene su fundamento en el deber de todo fiel de confesar la 
 
 ## Perspectivas por fuente
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El Denzinger recoge múltiples fórmulas de profesión de fe que reflejan el desarrollo de este acto doctrinal. La profesión de fe tridentina (D‑995–D‑999), prescrita por Pío IV, es la base de todas las profesiones posteriores. **Gregorio XIII** (1575, D‑1083–D‑1085) prescribió una profesión de fe a los griegos que comienza con el Símbolo Niceno-Constantinopolitano (D‑1083), reitera la definición de Florencia sobre el *Filioque* (D‑1084), e incluye la recepción de todos los decretos del Concilio de Trento (D‑1085), siguiendo la estructura de la profesión tridentina. Esta profesión muestra cómo el magisterio adaptó la fórmula de fe para contextos de unión con las Iglesias orientales.
+
 ### Según el Código de Derecho Canónico (CIC)
 
 El canon 833 establece las personas obligadas a emitir personalmente la profesión de fe según la fórmula aprobada por la Sede Apostólica. Deben emitirla: 1) quienes participan con voto deliberativo o consultivo en un Concilio Ecuménico o particular, sínodo de Obispos o sínodo diocesano, y el presidente ante el Concilio o sínodo; 2) los promovidos al cardenalato; 3) los promovidos al episcopado y quienes se equiparan al Obispo diocesano; 4) el Administrador diocesano; 5) los Vicarios generales, episcopales y judiciales; 6) los párrocos, el rector y los profesores de teología y filosofía en los seminarios, y quienes van a recibir el diaconado; 7) el rector de una universidad eclesiástica o católica y los profesores que enseñan materias relacionadas con la fe o las costumbres en cualquier universidad; 8) los Superiores en institutos religiosos y sociedades de vida apostólica clericales.

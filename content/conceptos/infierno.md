@@ -9,7 +9,7 @@ description: El infierno es el estado de autoexclusión definitiva de la comuni�
 # Infierno
 
 > Área: Escatología
-> Última actualización: 2026-06-16
+> Última actualización: 2026-06-26
 
 ## Definición
 
@@ -30,6 +30,12 @@ El CEC dedica un artículo al infierno (§1033-1037). Afirma la existencia y ete
 ### Según el Enchiridion Symbolorum (Denzinger)
 
 El **I Concilio de Lyon** (1245, D-457) definió que quien muere en pecado mortal sin penitencia «es perpetuamente atormentado por los ardores del infierno eterno». El mismo decreto distingue entre la suerte de los condenados (infierno eterno) y la de los que mueren en caridad sin deuda de pena (visión beatífica inmediata).
+
+**Juan XXII** (1322, D-493a): «Creemos firmemente... que [las almas de todos los que mueren en el pecado mortal actual] bajan al infierno y son atormentadas allí con penas infernales, aunque no obstante en el día del juicio todos los hombres comparecerán con sus cuerpos ante el tribunal de Cristo».
+
+**Benedicto XII** (1336), Constitución *Benedictus Deus*: «Definimos además que, según la común ordenación de Dios, las almas de los que salen del mundo con pecado mortal actual, inmediatamente después de su muerte bajan al infierno donde son atormentados con penas infernales» (D-531).
+
+**Clemente VI** (1351), Carta *Super quibusdam* a Consolador: preguntó si se cree que «todos los que se han levantado contra la fe de la Iglesia Romana y han muerto en su impenitencia final, se han condenado y bajado a los eternos suplicios del infierno» (D-570l).
 
 ### Según Royo Marín (TPCr)
 

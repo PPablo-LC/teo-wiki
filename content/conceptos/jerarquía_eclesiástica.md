@@ -46,6 +46,9 @@ La jerarquía de orden está formada por los obispos, presbíteros y ministros (
 
 [TPCr, Tercera Parte, Libro II, Cap. I; Tercera Parte, Libro III]
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Concilio de Trento** (Sesión XXIII, D-960, D-966, Can. 6) definió que en la Iglesia Católica existe una jerarquía instituida por ordenación divina, que consta de obispos, presbíteros y ministros. Los obispos son superiores a los presbíteros, tienen potestad de confirmar y ordenar (D-967, Can. 7), y la ordenación no requiere consentimiento del pueblo ni de potestad secular (D-960).
 
 ## Distinciones importantes
 

@@ -42,6 +42,12 @@ La revelación de la misericordia es progresiva: el Antiguo Testamento prepara e
 ### Según Royo Marín (TPCr)
 La razón humana abandonada a sí misma no hubiera podido sospechar el misterio de la vida íntima de Dios. Solo por divina revelación puede el hombre asomarse a ese abismo sin fondo (TPCr, Primera Parte, Cap. III, n.38). La revelación es progresiva: en el Antiguo Testamento Dios aparece como Creador y Legislador, pero el misterio de su vida íntima permanece oculto hasta la venida de Cristo. La revelación es fuente de toda la teología sobrenatural y contiene tanto la Sagrada Escritura como la Tradición, conservadas por el Magisterio de la Iglesia.
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El Concilio de Trento (Sesión IV, D-785-D-786) declaró la Vulgata como edición auténtica de la Sagrada Escritura para uso público y estableció que nadie puede interpretar la Escritura en materias de fe y costumbres contra el sentido que sostiene la Iglesia ni contra el unánime sentir de los Padres. Este decreto tridentino vinculó la revelación escrita con el Magisterio como su intérprete auténtico.
+
+- [D-785]
+- [D-786]
 
 ## Distinciones importantes
 

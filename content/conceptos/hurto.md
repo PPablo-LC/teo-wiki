@@ -46,6 +46,12 @@ CEC §2401-2463: Tratado del séptimo mandamiento. §2408: El hurto es tomar o r
 
 TPCr, Tratado del séptimo mandamiento: El hurto es pecado contra la justicia. Es mortal por su materia cuando la cantidad sustraída es grave, considerando las circunstancias del que roba y del robado. La rapiña es intrínsecamente más grave que el hurto. La necesidad extrema excusa del hurto. La restitución de lo sustraído es obligatoria bajo pena de pecado mortal.
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Inocencio XI** (1679, D‑1186) condenó la proposición: «Es permitido robar, no solo en caso de necesidad extrema, sino también de necesidad grave.» Condenada como escandalosa. La doctrina católica solo excusa el hurto en caso de necesidad extrema, no grave; la necesidad grave obliga a recurrir a medios lícitos.
+
+**Inocencio XI** (1679, D‑1187) condenó la proposición: «Los criados y criadas domésticos pueden ocultamente quitar a sus amos para compensar su trabajo, que juzgan superior al salario que reciben.» Condenada como escandalosa. La condena reafirma que la compensación por trabajo insuficientemente remunerado debe obtenerse por medios lícitos (reclamación justa, acuerdo), no mediante hurto.
+
 ## Distinciones importantes
 
 - **Hurto**: toma oculta de lo ajeno contra la voluntad del dueño

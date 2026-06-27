@@ -41,6 +41,19 @@ Cristo crucificado es quien justifica al pecador «cada vez que éste, apoyándo
 
 La Resurrección de Cristo pone de relieve que «sólo la medida del bien instaurado por Dios en la historia del hombre mediante el misterio de la Redención es capaz de satisfacer plenamente la verdad del ser humano» [MI, cap. 5].
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**León X** (1520), Bula *Exsurge Domine* — Condena de errores de Lutero sobre la justificación:
+
+- **D-741** — Error condenado: «Es sentencia herética, pero muy al uso, que los sacramentos de la Nueva Ley dan la gracia santificante a los que no ponen óbice». Lutero negó la eficacia *ex opere operato*, base de la justificación sacramental.
+- **D-771** — Error condenado: «Afirmar que en el justo, en toda buena obra, el pecado sea venial o mortal». Lutero sostuvo que el justo peca en toda obra buena porque la concupiscencia permanece, confundiendo la inclinación al pecado (fomes peccati) con el pecado mismo.
+- **D-772** — Error condenado: «Que el quemar a los herejes es contra la voluntad del Espíritu». Referido al contexto de la justicia eclesial.
+- **D-776** — Error condenado: «Que el libre albedrío después del pecado es cosa de mero nombre; y mientras hace lo que está de su parte, peca mortalmente». Lutero negó que el hombre justificado coopere libremente con la gracia.
+
+El **Concilio de Trento** (Sesión VI, D-792a-D-843) dedicó el decreto más extenso a la justificación, con 16 capítulos y 33 cánones. Enseñó que la justificación no es sola imputación de la justicia de Cristo (D-821) sino santificación y renovación interior por la recepción de la gracia y los dones (D-799). La causa formal es la justicia de Dios inherente en el alma (D-799). La fe es el principio, fundamento y raíz de la justificación (D-801), pero la justificación requiere cooperación libre con la gracia (D-797, D-814) y se aumenta por las buenas obras (D-803, D-834). Los mandamientos de Dios no son imposibles de guardar para el justificado (D-804, D-828). La gracia se pierde por cualquier pecado mortal (D-808, D-837) y se recupera por el sacramento de la penitencia (D-807, D-839). Las buenas obras del justificado son verdaderamente meritorias de la vida eterna (D-809, D-842).
+
+- [D-792a-D-843]
+
 ### Según la Summa Theologiae (SmTh)
 
 **Ia-IIae q.113 — La justificación del pecador como efecto de la gracia operante:**
@@ -65,6 +78,17 @@ La Resurrección de Cristo pone de relieve que «sólo la medida del bien instau
 - [CEC §1987-2029]
 - [Concilio de Trento, DS 1520-1583]
 - [Rm 3,21-31; 5,1-11; 8,28-30]
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+Pío V condenó los errores de Bayo sobre la justificación (D‑1042–D‑1044, D‑1063–D‑1064, D‑1069, D‑1071):
+
+- D‑1042: La justicia con que se justifica el impío consiste formalmente en la obediencia a los mandamientos, no en una gracia habitual infundida por la que el hombre es adoptado como hijo de Dios.
+- D‑1043: En los penitentes antes de la absolución y en los catecúmenos antes del bautismo hay verdadera justificación, separada de la remisión de los pecados.
+- D‑1044: En las obras que cumplen los mandamientos los hombres se justifican por ser obediencia a la ley, aunque no obtengan acrecentamiento de virtudes.
+- D‑1063–D‑1064: Rechaza como «imaginarias» las distinciones entre la doble justicia y la doble vivificación.
+- D‑1069: La justificación del impío se realiza formalmente por la obediencia a la ley, no por la comunicación e inspiración de la gracia.
+- D‑1071: Por la contrición unida a la caridad perfecta y al deseo del sacramento, sin la recepción actual del sacramento, no se remite el pecado fuera del caso de necesidad o martirio.
 
 ## Ver también
 

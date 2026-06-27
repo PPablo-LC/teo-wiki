@@ -42,6 +42,10 @@ El sacrilegio es pecado mortal por su materia (q.99 a.1 ad 2), aunque la graveda
 
 [SmTh IIa-IIae q.99]
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Inocencio XI** (1679, D‑1179) condenó la proposición: «El miedo grave que apremia, es causa justa para simular la administración de los sacramentos.» Condenada como escandalosa. La condena reafirma que la simulación de sacramentos constituye sacrilegio real, pues implica un tratamiento indigno de las cosas sagradas, y el miedo grave no excusa de este pecado.
+
 ## Distinciones importantes
 
 - Sacrilegio personal vs. local vs. real: según el objeto profanado (persona, lugar, cosa)

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Penitencia
 tags: ["sacramental"]
 
-timestamp: 2026-06-15
+timestamp: 2026-06-27
 description: La penitencia es el sacramento instituido por Nuestro Señor Jesucristo para perdonar los pecados cometidos después del bautismo.
 ---
 # Penitencia
 
 > Área: Sacramental
-> Última actualización: 2026-06-15
+> Última actualización: 2026-06-27
 
 ## Definición
 
@@ -185,6 +185,32 @@ La Iglesia, custodiando el sacramento de la Penitencia, afirma su fe en el miste
 ### Según CJeS (1987-1989)
 
 Juan Pablo II vincula el sacramento de la Penitencia con el poder de las llaves conferido a los Apóstoles por Cristo resucitado: «A quienes remitiereis los pecados, les son remitidos; y a quienes los retuviereis, les son retenidos» (Jn 20,22-23). Este poder de perdonar los pecados, comunicado por el soplo del Espíritu Santo, constituye la base del sacramento de la Penitencia. La reconciliación brota del perdón de Cristo desde la Cruz: «Padre, perdónalos, porque no saben lo que hacen» (Lc 23,34). Cristo es el [[cordero_de_dios]] que quita el pecado del mundo, y su sangre derramada es la fuente del perdón sacramental y de la reconciliación del hombre con Dios (CJeS, segunda parte: venida del Reino y fundación de la Iglesia; cuarta parte: palabras de Cristo en la Cruz).
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Benedicto XI** (1304), Constitución *Inter cunctas sollicitudines*: «Aunque no sea de necesidad confesar nuevamente los pecados, sin embargo, por la vergüenza que es una parte grande de la penitencia, tenemos por cosa saludable que se reitere la confesión de los mismos pecados» (D-470). Mandó que los frailes exhortaran a los fieles a confesarse con sus sacerdotes por lo menos una vez al año.
+
+**Juan XXII** (1321) condenó el error de Juan de Pouilly, quien afirmaba que el Papa no podía dispensar de la obligación de confesarse con el propio párroco establecida en el canon *Omnis utriusque sexus* (D-491–493).
+
+**Concilio de Constanza**, Condena de Juan Wicleff (D-587): Error de Wicleff: «Si el hombre estuviera debidamente contrito, toda confesión exterior es para él superflua e inútil».
+
+**Martín V**, Bula *Inter cunctas* (D-670-671): Preguntas 20-21: el cristiano, si tiene facilidad de sacerdote idóneo, está obligado por necesidad de salvación a confesarse con él y no con un laico; el sacerdote puede absolver al penitente contrito.
+
+**Concilio de Florencia** (1439, D-699), Bula *Exultate Deo*: enseñó que la «cuasi-materia» de la penitencia son los actos del penitente, que se distinguen en tres partes: la contrición del corazón («dolerse del pecado cometido con propósito de no pecar en adelante»), la confesión oral («confiese a su sacerdote íntegramente todos los pecados de que tuviere memoria»), y la satisfacción «según el arbitrio del sacerdote», hecha principalmente por oración, ayuno y limosna. La forma son las palabras de la absolución: «Yo te absuelvo, etc.». El ministro es el sacerdote con autoridad de absolver, ordinaria o por comisión. El efecto es «la absolución de los pecados».
+
+**Sixto IV** (1479), Bula *Licet ea* — Condena de los errores de Pedro de Osma sobre la penitencia: La confesión de los pecados en especie es por estatuto de la Iglesia universal, no de derecho divino (D-724 — condenado). Los pecados mortales en cuanto a la culpa y a la pena se borran sin la confesión por la sola contrición del corazón (D-725 — condenado). Los malos pensamientos se perdonan por el mero desagrado (D-726 — condenado). No se exige necesariamente que la confesión sea secreta (D-727 — condenado). No se debe absolver a los penitentes antes de cumplir la penitencia (D-728 — condenado). El Romano Pontífice no puede perdonar la pena del purgatorio (D-729 — condenado). Ni dispensar sobre lo que estatuye la Iglesia universal (D-731 — condenado). También el sacramento de la penitencia, en cuanto a la colación de la gracia, es de naturaleza, y no de institución del Nuevo o del Antiguo Testamento (D-732 — condenado). La bula declaró todas estas proposiciones «falsas, contrarias a la santa fe católica, erróneas, escandalosas, totalmente ajenas a la verdad evangélica» y portadoras de «manifiesta herejía» (D-733).
+
+**León X** (1520), Bula *Exsurge Domine* — Condena de los errores de Lutero sobre la penitencia: Lutero negó que las tres partes de la penitencia —contrición, confesión y satisfacción— estén fundadas en la Sagrada Escritura ni en los antiguos doctores (D-745 — condenado). Calificó de hipócrita la contrición adquirida por examen y detestación de los pecados (D-746 — condenado). Afirmó que «la suma penitencia es no hacerlo en adelante» (D-747 — condenado). Sostuvo que no se deben confesar los pecados veniales ni todos los mortales (D-748 — condenado) y que querer confesarlo todo es no querer dejar nada a la misericordia de Dios (D-749 — condenado). Negó que la remisión del pecado baste sin creer que está perdonado (D-750 — condenado). Afirmó que si se cree estar absuelto, se está verdaderamente absuelto, sea lo que fuere de la contrición, y aun si el sacerdote no absolviera en serio (D-751-752 — condenados). Declaró que en la remisión de la culpa no hace más el Papa que el ínfimo sacerdote, y que cualquier cristiano (aun mujer o niño) hace lo mismo donde no hay sacerdote (D-753 — condenado). Nadie debe responder al sacerdote si está contrito (D-754 — condenado).
+
+**Concilio de Trento** (Sesión XIV, D-893a-D-925) dedicó 9 capítulos y 15 cánones al sacramento de la penitencia. Definió que es verdadero y propio sacramento, distinto del bautismo (D-911-D-912, Cánones 1-2); sus partes son contrición, confesión y satisfacción (D-896, D-914, Can. 4); la contrición imperfecta (atrición), si excluye la voluntad de pecar y va con esperanza del perdón, dispone para la gracia (D-898); la confesión íntegra de todos los pecados mortales es necesaria por derecho divino (D-899, D-917, Can. 7); la absolución es acto judicial del sacerdote, no mera declaración (D-902, D-919, Can. 9); los ministros son solo los obispos y sacerdotes (D-902, D-920, Can. 10); existe la reserva de casos (D-903, D-921, Can. 11); la satisfacción no es mera nueva vida sino verdadera reparación de la pena temporal (D-904-D-906, D-922-D-925, Cánones 12-15).
+
+**Clemente VIII** (1602, D‑1088‑D‑1089), decreto del Santo Oficio, condenó como «falsa, temeraria y escandalosa» la proposición de que es lícito confesar sacramentalmente los pecados por carta o mensajero a un confesor ausente y recibir la absolución del mismo ausente. El Santo Oficio precisó que la condena vale también «en sentido dividido», esto es, para la confesión o la absolución separadamente. Se exceptuó el caso del moribundo que da señales de penitencia a un sacerdote que llega, por ser razón diversa. Esta condena confirma la necesidad de la presencia física del penitente y del confesor para la integridad del sacramento.
+
+**Alejandro VII** (1665-1666, D‑1106–D‑1107, D‑1111–D‑1116) condenó varias proposiciones laxistas sobre la penitencia: el confesor que da una carta incitando al acto torpe no se considera que solicitó en confesión (D‑1106); la evasión de denunciar la solicitación confesándose con el mismo solicitante (D‑1107); que los pecados omitidos por peligro de muerte no obligan a confesarse después (D‑1111); que los mendicantes pueden absolver de casos reservados sin facultad del obispo (D‑1112); que satisface el precepto anual quien se confiesa con un regular presentado pero injustamente reprobado (D‑1113); que la confesión voluntariamente nula satisface el precepto (D‑1114); que el penitente puede por propia autoridad sustituirse por otro para cumplir la penitencia (D‑1115); que los beneficiados con cura de almas pueden elegir un simple sacerdote no aprobado como confesor (D‑1116). Todas condenadas como escandalosas y perniciosas.
+
+**Alejandro VII** (1667, D‑1146) — Controversia sobre la atrición: prohibió censurar con nota teológica ninguna de las dos sentencias sobre si la atrición concebida por miedo del infierno (con exclusión de la voluntad de pecar y esperanza del perdón) requiere además algún acto de amor de Dios para alcanzar la gracia en el sacramento, mientras la Sede Apostólica no definiese. Dejó ambas opiniones en libertad.
+
+**Inocencio XI** (1679, D‑1205–D‑1215) condenó proposiciones laxistas sobre la penitencia: que se cumple el precepto de comunión anual por la manducación sacrílega (D‑1205); que la confesión y comunión frecuente aun en quienes viven de modo pagano es señal de predestinación (D‑1206); que basta la atrición natural honesta (D‑1207); que no hay obligación de confesar la costumbre de pecado (D‑1208); que es lícito absolver a los que se han confesado solo a medias por gran concurrencia (D‑1209); que no debe negarse la absolución al penitente sin esperanza de enmienda (D‑1210); que puede absolverse a quien está en ocasión próxima de pecado y voluntariamente la busca (D‑1211–D‑1213); que puede absolverse a quien ignora los misterios de la Trinidad y Encarnación aunque sea por negligencia culpable (D‑1214–D‑1215). Condenadas como escandalosas y perniciosas.
 
 ## Distinciones importantes
 

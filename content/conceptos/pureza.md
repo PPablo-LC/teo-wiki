@@ -41,6 +41,12 @@ La pureza, según 1 Tes 4,3-5, es una virtud que consiste no solo en la abstenci
 
 La pureza tiene una función positiva: aliada con el don de la piedad (donum pietatis), sensibiliza al sujeto a la dignidad del cuerpo y realiza en él una plenitud de dignidad en las relaciones interpersonales, de modo que «Dios mismo es glorificado en él» (1 Cor 6,20) (TdC 18.03.1981).
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Alejandro VII** (1666, D‑1124) condenó la proposición laxista: «La masturbación, la sodomía y la bestialidad son pecados de la misma especie ínfima, y por tanto basta decir en la confesión que se procuró la polución.» Condenada como escandalosa. La condena reafirma que la pureza exige la especificación de pecados de especies distintas, no pudiéndose reducir a una confesión genérica de "polución".
+
+**Inocencio XI** (1679, D‑1199) condenó la proposición: «La masturbación no está prohibida por derecho de la naturaleza...» Condenada como escandalosa y perniciosa. La pureza del cuerpo exige el respeto del orden natural establecido por Dios en el acto sexual.
+
 ## Distinciones importantes
 
 - **Pureza del cuerpo vs. pureza del espíritu**: la primera se refiere a la castidad externa; la segunda, a la rectitud de los pensamientos y deseos internos.

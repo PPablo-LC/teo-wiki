@@ -133,6 +133,8 @@ El **IV Concilio de Letrán** (1215), en la constitución *Firmemente creemos* (
 
 En D-429, el mismo concilio confiesa el misterio de la Encarnación: Jesucristo es verdadero Dios y verdadero hombre, «una sola persona en dos naturalezas», nacido de la siempre Virgen María por obra del Espíritu Santo. «Descendió a los infiernos, resucitó al tercer día, subió a los cielos». Al final de los tiempos vendrá a juzgar a vivos y muertos, y todos resucitarán con sus propios cuerpos para recibir según sus obras.
 
+**Paulo IV** (1555), Constitución *Cum quorundam* (D-993): condenó a quienes niegan que Nuestro Señor Jesucristo fue concebido según la carne en el vientre de la siempre Virgen María por obra del Espíritu Santo; o que no sufrió la muerte de cruz para redimirnos de los pecados y reconciliarnos con el Padre.
+
 ## Distinciones importantes
 
 - **Unión hipostática**: unión de las dos naturalezas (divina y humana) en una sola Persona (la del Verbo).

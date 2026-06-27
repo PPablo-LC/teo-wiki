@@ -39,6 +39,14 @@ Para predicar por radio o televisión deben cumplirse las prescripciones de la C
 *Sacrosanctum Concilium* 35 establece que el sermón es parte de la acción litúrgica y que las fuentes principales de la predicación serán la Sagrada Escritura y la Liturgia, «ya que es una proclamación de las maravillas obradas por Dios en la historia de la salvación o misterio de Cristo». SC 52 recomienda encarecidamente la homilía como parte de la Misa, donde se exponen los misterios de la fe y las normas de la vida cristiana. SC 9 recuerda que la Iglesia debe predicar el mensaje de salvación a los no creyentes y predicar la fe y la penitencia a los creyentes.
 
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Concilio de Constanza**, Condena de Juan Wicleff (D-594): Error de Wicleff: «Lícito es a un diácono o presbítero predicar la palabra de Dios sin autorización de la Sede Apostólica o de un obispo católico».
+
+**Concilio de Constanza**, Condena de Juan Hus (D-643-644): Errores de Hus: los sacerdotes que viven según la ley y tienen conocimiento de la Escritura deben predicar, no obstante la excomunión; todo el que se acerca al sacerdocio recibe el mandato de predicar, no obstante la excomunión.
+
+**Martín V**, Bula *Inter cunctas* (D-687-688): Preguntas 37-38: no es lícito a los laicos predicar libremente la palabra de Dios; cada sacerdote no puede predicar dondequiera sin tener misión para ello.
+
 ### Según la Summa Theologiae (SmTh)
 
 **IIIª q.42 — La enseñanza de Cristo:** Cristo no predicó a los gentiles antes de la pasión, sino solo a los judíos, para cumplir las promesas patriarcales, mantener el orden debido (que la salvación llegase por medios ordenados), quitar a los judíos ocasión de calumnia y merecer mediante la cruz el dominio sobre las naciones (q.42 a.1). No rehuyó escandalizar a los escribas y fariseos cuando impedían con su malicia la salvación del pueblo, porque «si de la verdad se origina el escándalo, es preferible mantener el escándalo antes que abandonar la verdad» (q.42 a.2). Enseñó públicamente toda su doctrina, sin ocultarla por envidia o impureza, aunque a las turbas hablaba en parábolas por no ser capaces de la verdad desnuda, y a los discípulos exponía con claridad para que ellos la transmitiesen (q.42 a.3). [[cristo_maestro|Cristo no escribió su doctrina]]: por su dignidad de sumo doctor, que imprime la verdad en los corazones; por la excelencia de su doctrina, imposible de encerrar en escrito; y para que pasase ordenadamente de Él a los discípulos y de éstos a los demás (q.42 a.4).

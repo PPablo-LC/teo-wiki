@@ -79,10 +79,30 @@ La fe se presupone a los preceptos de la ley, pues la primera sumisión del homb
 
 Cristo no tuvo la [[virtud_de_la_fe]] porque desde el primer instante de su concepción vio la esencia divina en [[visión_beatífica]]. El objeto de la fe es lo no visto (Heb 11,1), y Cristo, como bienaventurado, veía a Dios cara a cara. Las virtudes morales se dieron en Cristo de modo perfectísimo, pero la fe no pudo darse en Él porque incluye esencialmente el defecto de no ver lo que se cree. Sin embargo, Cristo tuvo obediencia plenísima al Padre, más excelente que el mérito de la fe, pues su mérito fue el de su propia vida y pasión. La fe es propia de los viadores; Cristo fue simultáneamente viador y bienaventurado, pero en cuanto a la parte intelectiva superior gozaba de la visión beatífica, que excluye la fe.
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**León X** (1520), Condena de los errores de Lutero sobre la fe y la justificación (D-750-752): Lutero afirmó que a nadie le son perdonados los pecados si no cree que le son perdonados, y que el pecado permanecería si no lo creyera perdonado —no basta la remisión, es necesario creer que está perdonado— (D-750). Sostuvo que no se debe confiar en la absolución por la contrición, sino por la palabra de Cristo, y que si se cree estar absuelto, se está verdaderamente absuelto (D-751). Añadió que aun si el sacerdote no absolviera en serio sino por juego, si el que se confiesa cree que está absuelto, lo está con toda verdad (D-752). Estas proposiciones fueron condenadas por negar la necesidad de las disposiciones interiores del penitente y reducir la absolución a un mero acto de fe fiducial.
+
+El **Concilio de Trento** (Sesión VI) enseñó que la fe es «el principio de la humana salvación, el fundamento y raíz de toda justificación» (D-801). La fe sola no justifica sin la esperanza y la caridad - la fe sin las obras está muerta (D-800, D-819, Can. 9). Se condenó la «confianza vana» de los herejes que creen estar justificados por sola la certeza subjetiva de fe (D-802). Nadie puede saber con certeza de fe haber conseguido la gracia de Dios (D-802, D-823-D-824, Cánones 13-14). La fe que permanece sin caridad después del pecado mortal es verdadera fe aunque no viva (D-838, Can. 28).
+
+- [D-798]
+- [D-800-D-802]
+- [D-819]
+- [D-823-D-824]
+- [D-838]
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[virtud_de_la_fe]]
 
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+Pío V condenó los errores de Bayo relacionados con la fe (D‑1022, D‑1025, D‑1068):
+
+- D‑1022: Con Pelagio sienten los que entienden Rom 2,14 («las gentes que no tienen ley, naturalmente hacen lo que es de ley») de las gentes que no tienen la gracia de la fe.
+- D‑1025: «Todas las obras de los infieles son pecados, y las virtudes de los filósofos son vicios».
+- D‑1068: La infidelidad puramente negativa en aquellos entre quienes Cristo no ha sido predicado es pecado.
 
 ## Analizado para
 

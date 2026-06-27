@@ -43,6 +43,18 @@ El ayuno puede ser objeto de precepto eclesiástico, pues la Iglesia puede deter
 
 El ayuno es un remedio eficaz contra la concupiscencia de la carne. Cierto género de demonios no pueden echarse sino mediante la oración y el ayuno (TPCr, Parte III, Libro I). Los ayunos y abstinencias han sido practicados por todos los santos y son necesarios para las almas que aspiran seriamente a la santidad. Se impone no omitir los deberes de ayuno prescritos por la Iglesia.
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Alejandro VII** (1666, D‑1123) condenó la proposición: «El que infringe el ayuno de la Iglesia, a que está obligado, no peca mortalmente, a no ser que lo haga por desprecio o inobediencia.» Condenada como falsa. La infracción deliberada del precepto eclesiástico del ayuno, en materia grave, es pecado mortal por la materia, no solo por desprecio.
+
+**Alejandro VII** (1666, D‑1129) condenó la proposición: «El que un día de ayuno come bastantes veces un poco, no quebranta el ayuno, aunque al fin haya comido una cantidad notable.» Condenada como falsa. La doctrina tradicional del ayuno exige una sola comida al día, y la acumulación de pequeñas cantidades no elude el precepto.
+
+**Alejandro VII** (1666, D‑1130) condenó la proposición: «Todos los obreros que trabajan en la república corporalmente, están excusados de la obligación del ayuno, y no deben certificarse si su trabajo es o no compatible con el ayuno.» Condenada como falsa. Los trabajadores deben examinar si su trabajo es compatible con el ayuno, no están dispensados automáticamente.
+
+**Alejandro VII** (1666, D‑1131) condenó la proposición: «Están excusados absolutamente del precepto del ayuno todos aquellos que hacen un viaje a caballo, como quiera que lo hagan, aun cuando el viaje no sea necesario y aun cuando hagan un viaje de un solo día.» Condenada como falsa.
+
+**Alejandro VII** (1666, D‑1132) condenó la proposición: «No es evidente que obligue la costumbre de no comer huevos y lacticinios en cuaresma.» Condenada como falsa. La costumbre eclesiástica de abstenerse de estos alimentos en cuaresma obliga en conciencia.
+
 ## Distinciones importantes
 
 - No es un fin en sí mismo, sino medio de conversión y purificación

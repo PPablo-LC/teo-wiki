@@ -9,7 +9,7 @@ description: "El limbo (del latín *limbus*, «borde» o «confín») designa do
 # Limbo
 
 > Área: Escatología
-> Última actualización: 2026-06-16
+> Última actualización: 2026-06-26
 
 ## Definición
 
@@ -22,6 +22,12 @@ Santo Tomás trata el limbo en el contexto de las moradas de las almas después 
 Ambos limbos probablemente ocupan el mismo lugar o están en lugares continuos, pero el limbo de los padres está situado en una región más alta que el de los niños. El limbo de los padres cesó con la venida de Cristo, que descendió a los infiernos y liberó a los patriarcas.
 
 ## Perspectivas por fuente
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Juan XXII** (1322, D-493a) enseñó que las almas de los niños que mueren con solo el pecado original «van al infierno, pero con penas más suaves» —doctrina que fundamenta teológicamente la existencia del limbo de los niños como estado distinto de los condenados por pecados actuales.
+
+**Benedicto XII** (1341), Memorial *Iam dudum*: condenó el error de los armenios que decían que «las almas de los niños que nacen de padres cristianos después de la pasión de Cristo, si mueren antes de ser bautizados van al paraíso terrenal en que estuvo Adán antes del pecado» (D-534), afirmando así que los niños no bautizados no acceden al paraíso celeste.
 
 ### Según la Summa Theologiae (SmTh)
 

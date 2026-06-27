@@ -27,6 +27,8 @@ La Iglesia latina añadió el *Filioque* al texto del Símbolo Niceno-Constantin
 
 El Denzinger recoge el *Filioque* en la «Fe de Damaso» (D-15): el Espíritu Santo «procede del Padre y del Hijo, es coeterno, coigual y cooperante». También en la regla antipriscilianista (D-19): «procede del Padre y del Hijo». La nota al Símbolo Niceno-Constantinopolitano (D-86) indica que el *Filioque* es una adición occidental aceptada en Lyon y Florencia. El Símbolo Atanasiano (D-39) afirma que el Espíritu Santo procede «del Padre y del Hijo, no hecho ni creado ni engendrado, sino que procede». El Concilio Romano de 382 bajo Dámaso I (D-83) testifica que el Espíritu Santo procede no solo del Padre o solo del Hijo, sino de ambos.
 
+**Gregorio XIII** (1575, D‑1084), en la profesión de fe prescrita a los griegos, reiteró la definición de Florencia: el Espíritu Santo procede eternamente del Padre y del Hijo como de un solo principio y única espiración; el Hijo recibe eternamente del Padre el que el Espíritu Santo proceda de Él; la expresión «por el Hijo» significa que el Hijo es también principio de la subsistencia del Espíritu Santo. Confirmó que la adición del *Filioque* al Símbolo fue «lícita y racionalmente añadida en gracia de declarar la verdad y por ser entonces inminente la necesidad».
+
 ## Relaciones doctrinales
 
 El *Filioque* presupone la [[consustancialidad]] del Hijo con el Padre y la procesión del Espíritu Santo como amor mutuo entre el Padre y el Hijo. Se relaciona con el dogma [[trinidad|trinitario]] y con la [[generación_eterna]] del Hijo. La distinción entre la procesión del Espíritu «del Padre» (tradición griega) y «del Padre y del Hijo» (tradición latina) es de énfasis, no de contradicción sustancial.

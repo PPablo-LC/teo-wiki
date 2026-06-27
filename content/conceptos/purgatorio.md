@@ -9,7 +9,7 @@ description: Estado de purificación final de los elegidos que mueren en la grac
 # Purgatorio
 
 > Área: Escatología
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-26
 
 ## Definición
 
@@ -34,6 +34,16 @@ Loring trata el purgatorio en el contexto del juicio particular: las almas de lo
 ### Según el Enchiridion Symbolorum (Denzinger)
 
 El **I Concilio de Lyon** (1245, D-456) proporciona la primera definición conciliar que usa el nombre propio «purgatorio». Las almas de quienes mueren recibida la penitencia pero sin cumplirla, o sin pecado mortal pero con pecados veniales y menudos, son purificadas después de la muerte por un fuego transitorio. Pueden ser ayudadas por los sufragios de la Iglesia. Los pecados «criminales o capitales» que no fueron perdonados por la penitencia no se purgan en el purgatorio.
+
+El **II Concilio de Lyon** (1274, D-464) definió que las almas de los que mueren en caridad, después de haber hecho verdadera penitencia, si necesitan purgación «son purificadas después de la muerte con penas purgatorias» y después purgadas «van a la patria del cielo».
+
+**Benedicto XII** (1341), Memorial *Iam dudum*: condenó el error de los armenios que negaban la existencia del purgatorio, diciendo que «en el otro mundo no hay purgatorio de las almas porque, como dicen, si el cristiano confiesa sus pecados se le perdonan todos los pecados y las penas de los pecados» (D-535).
+
+**Clemente VI** (1351), Carta *Super quibusdam* a Consolador: preguntó al Católicon de los armenios si cree que «existe el purgatorio, al que descienden las almas de los que mueren en gracia, pero no han satisfecho sus pecados por una penitencia completa», y que estas almas «son atormentadas con fuego temporalmente» y, purgadas, «llegan a la verdadera y eterna beatitud» (D-570t).
+
+**León X** (1520), Bula *Exsurge Domine* — Condena de los errores de Lutero sobre el purgatorio: Lutero negó que el purgatorio pueda probarse por la Sagrada Escritura que esté en el canon (D-777 — condenado). Afirmó que las almas en el purgatorio no están seguras de su salvación, por lo menos todas, y que no está probado que se hallen fuera del estado de merecer (D-778 — condenado). Sostuvo que las almas del purgatorio pecan sin intermisión mientras buscan el descanso (D-779 — condenado). Afirmó que las almas libradas del purgatorio por los sufragios de los vivientes son menos bienaventuradas que si hubiesen satisfecho por sí mismas (D-780 — condenado). Estas proposiciones fueron reprobadas por contradecir la doctrina católica sobre la certeza de la salvación de las almas del purgatorio, su estado de gracia y la eficacia de los sufragios.
+
+**Concilio de Trento** (Sesión XXV, D-983) enseñó que existe el purgatorio y que las almas allí detenidas son ayudadas por los sufragios de los fieles y particularmente por el sacrificio del altar. Mandó que la sana doctrina sobre el purgatorio sea enseñada y predicada, excluyendo de las predicaciones populares las cuestiones demasiado difíciles y sutiles.
 
 ### Según la Summa Theologiae (SmTh)
 

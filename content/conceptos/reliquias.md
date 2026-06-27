@@ -37,6 +37,10 @@ Royo Marín menciona las reliquias entre los medios secundarios de santificació
 
 [TPCr, Parte III, Libro II, Caps. IV-V — Medios Secundarios]
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Concilio de Trento** (Sesión XXV, D-985) enseñó que los sagrados cuerpos de los santos y mártires deben ser venerados por los fieles, pues fueron miembros vivos de Cristo y templos del Espíritu Santo, y por ellos Dios hace muchos beneficios a los hombres. Condena a quienes afirman que a las reliquias no se les debe veneración u honor.
+
 ## Distinciones importantes
 
 - **Reliquias insignes**: el cuerpo o partes principales del cuerpo de un santo.

@@ -82,6 +82,16 @@ Quien se deja arrastrar por las pasiones —el alcohólico, el drogado— renunc
 
 La concupiscencia no se vence sin una «humildad del cuerpo» y una «humildad del corazón», que son condición imprescindible para la armonía interior y para la belleza interior del hombre. Sin esta humildad, el esfuerzo ascético no logra su fin.
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El Concilio de Trento (Sesión V, D-792) enseñó que la concupiscencia o *fomes* permanece en los bautizados, pero no es verdadera y propiamente pecado en los renacidos, sino que «procede del pecado y al pecado inclina». Fue dejada para el combate y no puede dañar a quienes no la consienten y la resisten virilmente por la gracia de Jesucristo.
+
+- [D-792]
+
+Pío V, en la bula *Ex omnibus afflictionibus* (1567), condenó los errores de Bayo sobre la concupiscencia (D‑1050–D‑1051, D‑1074–D‑1076): Bayo afirmó que los malos deseos a los que la razón no consiente están prohibidos por el mandamiento (D‑1050); que la concupiscencia es verdadera inobediencia a la ley aunque el hombre la sienta a pesar suyo (D‑1051); que la concupiscencia en los renacidos caídos es pecado como los demás hábitos malos (D‑1074); que los movimientos malos de la concupiscencia están prohibidos por el mandamiento de modo que quien los siente y no los consiente traspasa el mandamiento (D‑1075); y que mientras hay concupiscencia carnal no se cumple el mandamiento de amar a Dios con todo el corazón (D‑1076).
+
+- [D‑1001–D‑1082]
+
 ## Distinciones importantes
 
 - **Concupiscencia** ≠ **pecado**: la concupiscencia es inclinación al mal; el pecado es el acto de la voluntad que consiente en ella.

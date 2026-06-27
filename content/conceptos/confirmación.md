@@ -121,6 +121,12 @@ El **rito de la Iglesia** es el adecuado (a.12). Las disposiciones de la Iglesia
 
 **Inocencio III** (D-419) enseñó que la confirmación —que por otro nombre se llama crismación de la frente— designa la imposición de las manos y solo debe ser conferida por el obispo, pues de solos los Apóstoles se lee que daban el Espíritu Santo por la imposición de las manos (Act 8,14ss). El **I Concilio de Lyon** (1245, D-450) reiteró que solo los obispos signen con el crisma en la frente a los bautizados, y que cada obispo puede consagrar el crisma el día de la Cena del Señor.
 
+**Concilio de Trento** (Sesión VII, D-871-D-873): promulgó 3 cánones sobre la confirmación. Definió que es verdadero y propio sacramento, no ceremonia ociosa (D-871, Can. 1); el crisma tiene verdadera virtud espiritual (D-872, Can. 2); el ministro ordinario es solo el obispo (D-873, Can. 3).
+
+- [D-871-D-873]
+
+**Clemente VIII** (1595, D‑1086), instrucción sobre los ritos de los italo-griegos: el crisma (santo crisma) solo puede ser bendecido por el obispo. Los presbíteros griegos no estaban obligados a recibir los demás santos óleos de los obispos latinos diocesanos, pues los bendicen según su rito antiguo, pero sí deben recibir el crisma del obispo latino, porque incluso según su rito el crisma solo puede ser bendecido por el obispo. Esta disposición confirma la reserva episcopal de la consagración del crisma como materia remota de la confirmación.
+
 ## Distinciones importantes
 
 - **Bautismo vs. confirmación**: bautismo da nacimiento, confirmación da mayoría de edad espiritual

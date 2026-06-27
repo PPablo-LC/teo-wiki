@@ -35,6 +35,12 @@ La calumnia extrajudicial se considera dentro de la detracción (q.73): imputar 
 
 TPCr trata la calumnia como pecado contra la justicia y la caridad. Es pecado mortal por su materia cuando causa daño grave a la fama del prójimo, aunque puede ser venial por su materia si el daño es leve. La reparación de la fama —que puede hacerse mediante la retractación pública o privada— es obligatoria bajo pena de pecado mortal, pues la fama es un bien espiritual necesario para la convivencia humana. Si la calumnia ha causado además un daño material (pérdida de empleo, etc.), el calumniador debe restituir también el equivalente económico.
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Inocencio XI** (1679, D‑1193) condenó la proposición: «¿Cómo no ha de ser solamente venial quebrantar con una falsa acusación la autoridad grande del detractor, si le es dañosa a uno?» Condenada como escandalosa. La calumnia contra la autoridad pública constituye pecado grave por la injusticia que implica contra el bien común.
+
+**Inocencio XI** (1679, D‑1194) condenó la proposición: «Es probable que no peca mortalmente el que imputa un crimen falso a otro para defender su derecho y su honor. Y si esto no es probable, apenas habrá opinión probable en teología.» Condenada como escandalosa. La condena afirma que la calumnia por defensa del honor o del derecho no excusa de pecado mortal, pues la fama del prójimo es un bien que no puede sacrificarse por la propia conveniencia.
+
 ## Distinciones importantes
 
 - **Calumnia**: imputación falsa de una falta (mentira con daño)

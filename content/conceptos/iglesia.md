@@ -9,7 +9,7 @@ description: La Iglesia es el Pueblo de Dios, el Cuerpo Místico de Cristo y el 
 # Iglesia
 
 > Área: Eclesiología
-> Última actualización: 2026-06-23
+> Última actualización: 2026-06-26
 
 ## Definición
 
@@ -70,6 +70,22 @@ Juan Pablo II profundiza en la institución de los Doce Apóstoles, su elección
 Juan Pablo I, en su audiencia general del 13 de septiembre de 1978, desarrolló la [[iglesia]] como inseparable de Cristo y de la fe. Retomando la enseñanza de San Pablo, afirma que Jesús y la Iglesia son una misma cosa: «indivisible, inseparable» (*Corpus Christi quod est Ecclesia*, 1 Cor 12,27). Perseguir a los cristianos es perseguir a Cristo mismo, como experimentó Pablo en Damasco. Por tanto, no es posible creer en Jesús sin aceptar la Iglesia.
 
 La Iglesia es **madre y maestra** (*Mater et Magistra*). Como madre, debe ser amada aun con sus defectos: «si mi madre se quedase coja, yo la querría todavía más». JPI ofrece la imagen del «jabón» de la Iglesia —evangelio, sacramentos, oración— como el medio para la santidad: «un jabón maravilloso capaz de hacernos santos a todos. No somos todos santos por no haber utilizado bastante este jabón». La Iglesia, aunque formada por pecadores, posee en Cristo los medios para santificarlos.
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Bonifacio VIII**, Bula *Unam sanctam* (1302): «Por apremio de la fe, estamos obligados a creer y mantener que hay una sola y Santa Iglesia Católica y la misma Apostólica, y nosotros firmemente la creemos y simplemente la confesamos, y fuera de ella no hay salvación ni perdón de los pecados» (D-468). «Una y otra espada, pues, está en la potestad de la Iglesia, la espiritual y la material... La potestad espiritual tiene que instituir a la temporal, y juzgarla si no fuere buena» (D-469). «Someterse al Romano Pontífice, lo declaramos, lo decimos, definimos y pronunciamos como de toda necesidad de salvación para toda humana criatura» (D-469).
+
+**II Concilio de Lyon** (1274), Profesión de fe de Miguel Paleólogo: «Creemos que hay una sola verdadera Iglesia Santa, Católica y Apostólica, en la que se da un solo santo bautismo y verdadero perdón de todos los pecados» (D-464).
+
+**Concilio de Constanza**, Condena de Juan Hus (D-627-632): Errores de Hus: la Iglesia es solo la congregación de los predestinados; los precitos no son parte de la Iglesia; el predestinado siempre es miembro de la Iglesia aun cuando caiga de la gracia.
+
+**Martín V**, Bula *Inter cunctas* (D-657-658): El Concilio de Constanza representa a la Iglesia universal; lo que aprobó en favor de la fe ha de ser mantenido por todos los fieles.
+
+**Concilio de Florencia** (1442, D-714), Bula *Cantate Domino*: definió solemnemente que «nadie que no esté dentro de la Iglesia Católica, no sólo paganos, sino también judíos o herejes y cismáticos, puede hacerse partícipe de la vida eterna, sino que irá al fuego eterno». Afirmó que «es de tanto precio la unidad en el cuerpo de la Iglesia, que sólo a quienes en él permanecen les aprovechan para su salvación los sacramentos y producen premios eternos los ayunos, limosnas y demás oficios de piedad». Nadie, «por más limosnas que hiciere, aun cuando derramare su sangre por el nombre de Cristo, puede salvarse, si no permaneciere en el seno y unidad de la Iglesia Católica».
+
+**Concilio de Florencia** (1442, D-706), Bula *Cantate Domino*: contuvo la lista de los libros del canon bíblico recibidos por la Iglesia Romana, afirmando que «uno solo y mismo Dios es autor del Antiguo y Nuevo Testamento, es decir, de la ley, de los profetas y del Evangelio, porque por inspiración del mismo Espíritu Santo han hablado los Santos de uno y otro Testamento».
+
+**León X** (1520), Bula *Exsurge Domine* — Condena de los errores de Lutero sobre la Iglesia y los Concilios: Lutero afirmó que no está en manos de la Iglesia o del Papa establecer artículos de fe ni leyes de costumbres (D-767 — condenado). Sostuvo que si el Papa con gran parte de la Iglesia sintiera de este o de otro modo, no es pecado o herejía sentir lo contrario, particularmente en materia no necesaria para la salvación, hasta que un Concilio universal lo apruebe (D-768 — condenado). Declaró que tenemos camino abierto para enervar la autoridad de los Concilios, contradecir libremente sus actas y juzgar sus decretos, ora hayan sido aprobados o reprobados por cualquier concilio (D-769 — condenado). Defendió que algunos artículos de Juan Hus, condenados en el Concilio de Constanza, «son cristianísimos, veracísimos y evangélicos, y ni la Iglesia universal podría condenarlos» (D-770 — condenado).
 
 ## Relaciones doctrinales
 

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Inmaculada Concepción
 tags: ["dogmática_(mariología)"]
 
-timestamp: 2026-05-26
+timestamp: 2026-06-27
 description: "Dogma definido por Pío IX el 8 de diciembre de 1854 (Bula *Ineffabilis Deus*)."
 ---
 # Inmaculada Concepción
 
 > Área: Dogmática (Mariología)
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-27
 
 ## Definición
 
@@ -47,6 +47,14 @@ Loring explica que la Inmaculada Concepción significa que María fue preservada
 [JPII, Redemptoris Mater §9-11]: María es «llena de gracia» (*Kejaritoméne*), nombre que revela su privilegio singular de haber sido preservada del pecado original desde el primer instante de su concepción. Su plenitud de gracia señala que «desde el principio» y «antes de la creación del mundo» (Ef 1,4) el Padre la eligió como Madre de su Hijo [RM §9]. El saludo del ángel la llama «llena de gracia» indicando la total ausencia de pecado: «María es la "llena de gracia", porque en ella habita y habitará el Hijo de Dios» [RM §10]. La gracia con que ha sido dotada desde el principio es la gracia santificante en su máxima perfección, que la hace totalmente apta para la maternidad divina [RM §10-11].
 
 [RM §11]: La Inmaculada Concepción está vinculada al protoevangelio (Gn 3,15): María es la Mujer cuya descendencia aplastará la cabeza de la serpiente. La victoria de Cristo sobre el pecado comienza con la preservación de su Madre de toda mancha de pecado. María es la nueva Eva, enteramente libre del pecado y asociada plenamente a la victoria de Cristo.
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Sixto IV**, Constitución *Cum praeexcelsa* (1476, D‑734): Estableció la fiesta de la Inmaculada Concepción con indulgencia, invitando a los fieles a dar gracias a Dios «cuya providencia, mirando ab aeterno la humildad de la misma Virgen, con preparación del Espíritu Santo, la constituyó habitación de su Unigénito».
+
+**Sixto IV**, Constitución *Grave nimis* (1483, D‑735): Reprobó a quienes sostenían que creer en la Inmaculada Concepción es pecado mortal o herejía, y también a quienes afirmaban que la opinión contraria es herejía, «como quiera que no está aún decidido por la Iglesia Romana».
+
+**Alejandro VII**, Bula *Sollicitudo omnium Ecclesiarum* (8 de diciembre de 1661, D‑1100): declaró que existe un antiguo y piadoso sentir de los fieles según el cual el alma de la Virgen María fue preservada inmune del pecado original en el primer instante de su creación, por especial gracia y privilegio de Dios, en vista de los méritos de Jesucristo. Renovó las constituciones pontificias en favor de esta sentencia, constatando que ya casi todos los católicos la abrazan. No definió dogmáticamente la doctrina, pero la confirmó como la sentencia piadosa común, preparando el camino para la definición de 1854.
 
 ## Distinciones importantes
 

@@ -9,7 +9,7 @@ description: El bautismo es el primer sacramento de la Nueva Ley, instituido por
 # Bautismo
 
 > Área: Sacramental
-> Última actualización: 2026-06-21
+> Última actualización: 2026-06-26
 
 ## Definición
 
@@ -183,6 +183,16 @@ El **Papa San Gregorio I Magno** (601), en su carta a los obispos de Hiberia (D-
 El **Concilio Romano de 863** (D-329) enseñó que quienes renacen en la fuente del bautismo quedan igualmente lavados del pecado original. **San Nicolás I** (866, D-334a) respondió sobre la validez del bautismo administrado por un falso presbítero: si fue en nombre de la suma e indivisa Trinidad, son cristianos y no debe repetirse el bautismo, pues «el malo, administrando lo bueno, a sí mismo y no a los otros se amontona un cúmulo de males». El mismo Nicolás I (D-335) afirmó que si un judío (fuese cristiano o pagano) bautiza en nombre de la santa Trinidad, o solo en el nombre de Cristo, el bautismo es válido y no ha de repetirse.
 
 **Alejandro III** (D-396–399) enseñó que los párvulos no necesitan estar escandidos en las sílabas para confesarse ni tener padrino para ser bautizados; que la trina inmersión en el bautismo sin la forma verbal no es válida; que si se duda si alguien está bautizado, se le bautice condicionalmente. **Inocencio III** (D-406–413) enseñó que el [[matrimonio]] es figura de la unidad de la Iglesia y del Verbo encarnado; que el bautismo de Juan no confería gracia sino que preparaba para Cristo; que el bautismo de agua es necesario para la salvación (aunque en casos de necesidad el martirio suple); que el bautismo de deseo también suple en caso de imposibilidad física; que los párvulos reciben por el bautismo la remisión del pecado original. **Gregorio IX** (D-447) estableció que el bautismo debe administrarse con agua natural, no con cerveza.
+
+El **Concilio de Vienne** (1311-1312) decretó que «ha de ser por todos fielmente confesado un bautismo único que regenera a todos los bautizados en Cristo, como ha de confesarse: un solo Dios y una fe única» (D-482), afirmando que el bautismo, celebrado en el nombre de la Trinidad, es comúnmente tanto para los niños como para los adultos perfecto remedio de salvación. En cuanto al efecto del bautismo en los niños (D-483), el concilio declaró como opinión más probable —en atención a la universal eficacia de la muerte de Cristo— que el bautismo confiere no solo la remisión de la culpa sino también la gracia informante y las virtudes infusas en cuanto al hábito, tanto a los niños como a los adultos.
+
+El **Papa Benedicto XII** (1341), al responder a los errores de los armenios (D-532-534), rechazó la doctrina armenia que negaba el pecado original en los niños, afirmando que estos contraen de Adán el pecado original. Condenó también el traducianismo de Mequitriz, que enseñaba que el alma humana se propaga del alma del padre. Y rechazó la afirmación armenia de que los niños no bautizados van al paraíso terrenal, enseñando en cambio la doctrina católica sobre la necesidad del bautismo.
+
+**Concilio de Florencia** (1439, D-696), Bula *Exultate Deo*: enseñó que «el primer lugar entre los sacramentos lo ocupa el santo bautismo, que es la puerta de la vida espiritual». La materia es «el agua verdadera y natural, y lo mismo da que sea caliente o fría». La forma es: «Yo te bautizo en el nombre del Padre y del Hijo y del Espíritu Santo», aunque también valen otras expresiones equivalentes que invoquen la Trinidad y expresen el acto del ministro. El ministro ordinario es el sacerdote; en caso de necesidad, cualquier persona (laico, mujer, pagano, hereje) puede bautizar, con tal que guarde la forma de la Iglesia y tenga la intención de hacer lo que hace la Iglesia. El efecto es «la remisión de toda culpa original y actual, y también de toda la pena que por la culpa misma se debe»; por eso no se impone satisfacción alguna a los bautizados, y si mueren antes de cometer culpa, «llegan inmediatamente al reino de los cielos y a la visión de Dios».
+
+**Concilio de Trento** (Sesión VII, D-857-D-870): promulgó 14 cánones sobre el bautismo. Definió que requiere agua verdadera (D-858, Can. 2); la Iglesia Romana guarda la verdadera doctrina (D-859, Can. 3); el bautismo de herejes administrado en nombre de la Trinidad con intención de hacer lo que hace la Iglesia es válido (D-860, Can. 4); es necesario para la salvación (D-861, Can. 5); el bautizado puede perder la gracia por el pecado (D-862, Can. 6); los niños deben ser bautizados y no deben ser rebautizados al llegar a la edad de discreción (D-869-D-870, Cánones 13-14).
+
+- [D-857-D-870]
 
 ## Distinciones importantes
 

@@ -9,7 +9,7 @@ description: La eucaristía es el sacramento y sacrificio del Cuerpo y Sangre de
 # Eucaristía
 
 > Área: Sacramental
-> Última actualización: 2026-06-20
+> Última actualización: 2026-06-26
 
 ## Definición
 
@@ -256,6 +256,28 @@ El **IV Concilio de Letrán** (1215), en D-430, define la transustanciación: «
 **Inocencio III** (D-410–416) enseñó, a partir del canon de la Misa, que «el sacerdote, elevando el cáliz, dice: *Elevación del cáliz de la vida eterna* et reliqua», indicando que en el cáliz se contiene el Cuerpo y la Sangre de Cristo. Quien recibe bajo una sola especie recibe a Cristo todo entero, pues donde está una parte está el todo por conmixtión. La [[confirmación]] y la [[extremaunción]] son, como la Eucaristía, sacramentos de vivos que requieren gracia habitual.
 
 **Honorio III** (1266, D-441) confirmó la costumbre de que en la misa se mezcle agua con el vino, significando la unión de Cristo con el pueblo fiel.
+
+**Urbano IV** (1264), Bula *Transiturus de hoc mundo*: «En esta conmemoración sacramental, Jesucristo está presente entre nosotros, bajo forma distinta, ciertamente, pero en su propia sustancia» (D-459a). La Bula instituyó la solemnidad del *Corpus Christi*.
+
+**II Concilio de Lyon** (1274), Profesión de fe de Miguel Paleólogo: «El sacramento de la Eucaristía lo consagra de pan ázimo la misma Iglesia Romana, manteniendo y enseñando que en dicho sacramento el pan se transustancia verdaderamente en el cuerpo y el vino en la sangre de Nuestro Señor Jesucristo» (D-466).
+
+**Gregorio XI** (D-578-580): Condenó los errores de Pedro de Bonageta y Juan de Latone sobre la Eucaristía: que si la hostia consagrada cae a un lugar torpe o es roída por un ratón, deja de estar Cristo bajo ella; y que al ser triturada por los dientes, Cristo es arrebatado al cielo y no pasa al vientre.
+
+**Concilio de Constanza**, Condena de Juan Wicleff (D-585): Error de Wicleff que no está fundado en el Evangelio que Cristo ordenara la misa.
+
+**Concilio de Constanza**, Sesión XIII (D-626): Definición sobre la comunión bajo una sola especie: Cristo está todo entero bajo cada especie; la costumbre de dar comunión solo bajo pan a los laicos es laudable y no debe reprobarse.
+
+**Martín V**, Bula *Inter cunctas* (D-666-668): Preguntas 16-18: si se cree que después de la consagración no hay pan material y vino material, sino Cristo todo entero; que bajo la sola especie de pan está todo Cristo; y que la costumbre de dar comunión a los laicos bajo la sola especie de pan debe ser conservada.
+
+**Concilio de Florencia** (1439, D-698), Bula *Exultate Deo*: enseñó que la materia de la Eucaristía es «el pan de trigo y el vino de vid», al que antes de la consagración debe añadirse «una cantidad muy módica de agua». La forma son «las palabras con que el Salvador consagró este sacramento», pues el sacerdote consagra hablando en persona de Cristo. «En virtud de las mismas palabras, se convierten la sustancia del pan en el cuerpo y la sustancia del vino en la sangre de Cristo; de modo, sin embargo, que todo Cristo se contiene bajo la especie de pan y todo bajo la especie de vino». También bajo cualquier parte de la hostia consagrada «está Cristo entero». El efecto es «la unión del hombre con Cristo» y el aumento de la gracia en los que dignamente lo reciben.
+
+**Concilio de Florencia** (1442, D-715), Bula *Cantate Domino*: insertó la forma de las palabras de la consagración usadas por la Iglesia Romana: para el cuerpo, «Este es mi cuerpo»; para la sangre, «Porque éste es el cáliz de mi sangre, del nuevo y eterno testamento, misterio de fe, que por vosotros y por muchos será derramada en remisión de los pecados». Afirmó que, mientras permanezca la sustancia del pan, después de dichas palabras pronunciadas por el sacerdote con intención de consagrar, «inmediatamente se transustancia en el verdadero cuerpo de Cristo».
+
+**León X** (1520), Bula *Exsurge Domine* — Condena del error de Lutero sobre la comunión bajo las dos especies: Lutero afirmó que «oportuno parece que la Iglesia estableciera en general Concilio que los laicos recibieran la Comunión bajo las dos especies; y los bohemios que comulgan bajo las dos especies, no son herejes, sino cismáticos» (D-756 — condenado). La condena de esta proposición reafirma la doctrina de que Cristo está todo entero bajo cada especie y que la Iglesia tiene autoridad para determinar la disciplina de la comunión.
+
+**Concilio de Trento** (Sesión XIII, D-873a-D-893): definió la doctrina católica sobre la Eucaristía. Definió que contiene verdadera, real y sustancialmente el cuerpo y la sangre de Cristo (D-874, D-883, Can. 1); Cristo está todo entero bajo cada especie y cada parte de ella (D-876, D-885, Can. 3); la conversión de toda la sustancia del pan y del vino se llama transustanciación (D-877, D-884, Can. 2); la Eucaristía debe recibirse con culto de latría (D-878, D-888, Can. 6); debe reservarse en el sagrario y llevarse a los enfermos (D-879, D-889, Can. 7); la comunión pascual anual es obligatoria (D-891, Can. 9); la sola fe no es preparación suficiente para comulgar dignamente (D-893, Can. 11).
+
+- [D-873a-D-893]
 
 ## Analizado para
 

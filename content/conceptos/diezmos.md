@@ -31,6 +31,10 @@ En la Ley nueva, aunque no hay precepto divino positivo que obligue a los diezmo
 
 [SmTh IIa-IIae q.87]
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Concilio de Constanza**, Condena de Juan Wicleff (D-598): Error de Wicleff: «Los diezmos son meras limosnas y los feligreses pueden a su arbitrio suprimirlas por los pecados de sus prelados».
+
 ## Distinciones importantes
 
 - **Diezmo del AT (preceptivo) vs. contribución en el NT (voluntaria en cuanto al modo, obligatoria en cuanto al fin)**

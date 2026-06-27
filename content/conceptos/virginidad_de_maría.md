@@ -29,6 +29,10 @@ María es «Virgen perpetuamente» [CEC §499]. Su virginidad significa que se e
 
 La virginidad de María es el fundamento de su peculiar santidad. Su virginidad perfecta es la expresión de su entrega total a Dios y es modelo para los consagrados, que por el voto de castidad imitan su virginidad espiritual [TPCr, Parte II, Cap. 3].
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Paulo IV** (1555), Constitución *Cum quorundam* (D-993): condenó a quienes niegan que la beatísima Virgen María es verdadera Madre de Dios y que permaneció siempre en la integridad de la virginidad, «antes del parto, en el parto y perpetuamente después del parto».
+
 ## Distinciones importantes
 
 - Virginidad *ante partum*: concepción virginal sin intervención de varón

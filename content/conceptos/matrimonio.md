@@ -9,7 +9,7 @@ description: El matrimonio es el sacramento instituido por Nuestro Señor Jesucr
 # Matrimonio
 
 > Área: Sacramental
-> Última actualización: 2026-06-23
+> Última actualización: 2026-06-26
 
 ## Definición
 
@@ -192,6 +192,16 @@ La anécdota, incluida por JPI en su primera audiencia general, subraya la digni
 ### Según el Enchiridion Symbolorum (Denzinger)
 
 El Papa **San Nicolás I** (866, D-334) enseñó que en las nupcias basta el solo consentimiento de aquellos de cuya unión se trata: «si acaso ese solo consentimiento faltare, todo lo demás, aun celebrado con coito, carece de valor». Esta es la primera declaración pontificia explícita sobre el consentimiento como elemento constitutivo del matrimonio.
+
+**Benedicto XII** (1341), Memorial *Iam dudum*: condenó el error de los armenios que sostenían que «dicha concupiscencia de la carne es pecado y mal, que hasta los padres cristianos, cuando matrimonialmente se unen, cometen pecado, porque dicen que el acto matrimonial es pecado, y lo mismo el matrimonio» (D-537). Afirmó así que la concupiscencia no es pecado en sí misma y que el acto conyugal en el matrimonio no es pecaminoso.
+
+Asimismo, condenó el error de que «si uno toma una tercera o cuarta mujer o más, no puede ser absuelto por su iglesia, porque dicen que tal matrimonio es fornicación» (D-541), afirmando la posibilidad de matrimonios sucesivos tras la muerte del cónyuge.
+
+**Martín V**, Bula *Inter cunctas* (D-669): Pregunta 19: el cristiano que desprecia la recepción del sacramento del matrimonio, o que desprecia su solemnización, peca mortalmente.
+
+**Concilio de Florencia** (1439, D-702), Bula *Exultate Deo*: enseñó que el matrimonio es «signo de la unión de Cristo y la Iglesia» (Ef 5,32). La causa eficiente es «el mutuo consentimiento expresado por palabras de presente». El triple bien del matrimonio es: la prole («que ha de recibirse y educarse para el culto de Dios»), la fidelidad («que cada cónyuge ha de guardar al otro»), y la indivisibilidad («porque significa la indivisible unión de Cristo y la Iglesia»). Aunque por motivo de fornicación sea lícita la separación del lecho, «no lo es, sin embargo, contraer otro matrimonio, como quiera que el vínculo del matrimonio legítimamente contraído, es perpetuo».
+
+**Concilio de Trento** (Sesión XXIV, D-969-D-982, D-990-D-992) definió que el matrimonio es verdadero y propio sacramento de la Nueva Ley (D-971, Can. 1); es indisoluble — no se disuelve por adulterio (D-975-D-977, Cánones 5 y 7); el matrimonio rato no consumado se dirime por profesión religiosa (D-976, Can. 6); los clérigos en órdenes sagradas y religiosos con voto solemne de castidad no pueden contraer matrimonio válido (D-979, Can. 9); la virginidad y el celibato son estados más perfectos que el matrimonio (D-980, Can. 10); las causas matrimoniales competen a los jueces eclesiásticos (D-982, Can. 12). El decreto *Tametsi* (D-990-D-992) estableció la forma canónica del matrimonio (ante el párroco y dos testigos) bajo pena de nulidad.
 
 ## Distinciones importantes
 

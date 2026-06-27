@@ -9,7 +9,7 @@ description: La sagrada Escritura es la Palabra de Dios expresada en lenguas hum
 # Sagrada Escritura
 
 > Área: Dogmática / Teología fundamental
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-26
 
 ## Definición
 
@@ -46,6 +46,10 @@ La Iglesia esclareció la unidad del plan divino en los dos Testamentos gracias 
 ### Según el Código de Derecho Canónico (CIC)
 
 El canon 760 establece que el ministerio de la palabra, que incluye la predicación de la sagrada Escritura, «se debe fundar en la sagrada Escritura, en la Tradición, en la liturgia, en el magisterio y en la vida de la Iglesia». El canon 825 regula la publicación de los libros de la sagrada Escritura: solo pueden publicarse si han sido aprobados por la Sede Apostólica o por la Conferencia Episcopal, y las traducciones a lengua vernácula deben ir acompañadas de notas aclaratorias necesarias y suficientes. Con licencia de la Conferencia Episcopal, los fieles católicos pueden confeccionar y publicar traducciones incluso en colaboración con hermanos separados (c. 825 §2).
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Concilio de Florencia** (1442, D-706), Bula *Cantate Domino*: profesó que «uno solo y mismo Dios es autor del Antiguo y Nuevo Testamento, es decir, de la ley, de los profetas y del Evangelio, porque por inspiración del mismo Espíritu Santo han hablado los Santos de uno y otro Testamento». Incluyó la lista de los libros canónicos del Antiguo y Nuevo Testamento recibidos por la Iglesia Romana, afirmando la unidad de autor divino de ambos Testamentos.
+
 ### Según el Concilio Vaticano II (ConcVatII)
 
 *Dei Verbum* dedica el capítulo VI a la Sagrada Escritura en la vida de la Iglesia (DV 21-26). La Iglesia venera las Sagradas Escrituras al igual que el Cuerpo del Señor, tomando de la mesa de la palabra de Dios y del Cuerpo de Cristo (DV 21). Las Escrituras, junto con la Tradición, son la regla suprema de la fe (DV 21). La predicación eclesiástica y la religión cristiana deben nutrirse de la Sagrada Escritura (DV 21). DV 22 dispone que los cristianos tengan amplio acceso a la Escritura mediante traducciones aptas y fieles en varias lenguas, incluso con colaboración de hermanos separados. DV 23 encomienda a los exegetas católicos y teólogos investigar las Letras divinas bajo la vigilancia del Magisterio, para que los ministros de la palabra puedan repartir fructuosamente el alimento de las Escrituras, y fomenta el estudio de los Santos Padres de Oriente y Occidente y de las Sagradas Liturgias. El estudio de la Sagrada Escritura ha de ser el alma de la Sagrada Teología (DV 24). Se exhorta a todos los cristianos a la lectura frecuente de las Escrituras, pues «el desconocimiento de las Escrituras es desconocimiento de Cristo» (DV 25).

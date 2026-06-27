@@ -43,6 +43,12 @@ Juan Pablo I enseña que el amor a Dios y el amor al prójimo son «hermanos gem
 
 Juan Pablo I actualiza esta enseñanza a la dimensión social: «entre los hambrientos hoy no se trata ya sólo de este o aquel individuo; hay pueblos enteros». Citando la *Populorum Progressio* de Pablo VI, afirma que «con lastimera voz los pueblos hambrientos interpelan a los que abundan en riquezas». La caridad se une a la justicia: la propiedad privada no es derecho incondicional ni absoluto, y «toda carrera aniquiladora de armamentos resulta un escándalo intolerable» [7_Lamps, JPI La caridad — Audiencia general, 27-IX-1978].
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Inocencio XI** (1679, D‑1160) condenó la proposición: «No estamos obligados a amar al prójimo por acto interno y formal.» Condenada como escandalosa. La condena reafirma que el amor interno al prójimo es exigido por la ley divina, no bastando los actos externos solos.
+
+**Inocencio XI** (1679, D‑1161) condenó la proposición: «Podemos satisfacer al precepto de amar al prójimo, por solos actos externos.» Condenada como escandalosa. La condena confirma la doctrina de que la caridad exige un acto interno de amor, no solo manifestaciones externas.
+
 ## Distinciones importantes
 
 - **Amor al prójimo por Dios (caridad) vs. amor natural (filantropía)**: el cristiano ama al prójimo en Dios y por Dios

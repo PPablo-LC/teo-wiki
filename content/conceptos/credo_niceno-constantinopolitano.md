@@ -27,6 +27,8 @@ La versión latina, transmitida por Dionisio el Exiguo, incluye la adición del 
 
 El Denzinger recoge el texto del Símbolo Niceno-Constantinopolitano en su versión griega original y en la versión latina de Dionisio el Exiguo (D-86). La nota sobre el *Filioque* documenta su historia: introducido en España, difundido en Francia y Alemania, rechazado por León III por reverencia a la tradición, y finalmente aceptado en Lyon y Florencia.
 
+**Gregorio XIII** (1575, D‑1083) prescribió a los griegos una profesión de fe que comienza con el texto íntegro del Símbolo Niceno-Constantinopolitano, mostrando su vigencia como base de la profesión de fe católica incluso para Iglesias en proceso de unión con Roma. La misma profesión (D‑1084) reitera la doctrina del *Filioque* definida en Florencia, confirmando la aceptación de la cláusula en el Símbolo.
+
 ## Relaciones doctrinales
 
 El Credo Niceno-Constantinopolitano desarrolla el [[credo_niceno]] del Concilio de Nicea I. Es uno de los tres [[símbolo_de_la_fe|símbolos de la fe]] universales junto con el [[símbolo_apostólico]] y el [[símbolo_atanasiano]]. La controversia del [[filioque]] (procesión del Espíritu Santo) marcó las relaciones entre Oriente y Occidente.

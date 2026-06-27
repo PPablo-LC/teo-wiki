@@ -45,6 +45,9 @@ La gula produce embotamiento del sentido espiritual (a diferencia de la lujuria 
 
 [TPCr, Parte III, Libro I, n.241; Parte III, Libro II, Cap. II, n.341]
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Inocencio XI** (1679, D‑1158) condenó la proposición: «Comer y beber hasta hartarse, por el solo placer, no es pecado, con tal de que no dañe a la salud; porque lícitamente puede el apetito natural gozar de sus actos.» Condenada como escandalosa. La condena reafirma que el apetito natural debe regirse por la razón y la ley moral, no por el mero deleite sensible; el exceso en la comida y bebida, aunque no dañe la salud, puede ser pecado por la desordenada búsqueda del placer.
 
 ## Distinciones importantes
 

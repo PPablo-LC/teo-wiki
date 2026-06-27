@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Aborto
 tags: ["moral"]
 
-timestamp: 2026-06-19
+timestamp: 2026-06-27
 description: El aborto es la interrupción deliberada de un embarazo mediante la eliminación del producto de la concepción antes de que sea viable fuera del seno materno.
 ---
 # Aborto
 
 > Área: Moral
-> Última actualización: 2026-06-19
+> Última actualización: 2026-06-27
 
 ## Definición
 
@@ -42,6 +42,13 @@ CompDS §227-228: «El derecho a la vida es el derecho fundamental de todo ser h
 ### Según Royo Marín (TPCr)
 
 El aborto es un pecado mortal gravísimo que atenta contra la vida inocente. Constituye una violación directa del quinto mandamiento y un acto de desprecio por la obra creadora de Dios.
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Inocencio XI** (1679, D‑1184–D‑1185) condenó dos proposiciones laxistas sobre el aborto:
+
+- D‑1184: «Es lícito procurar el aborto antes de la animación del feto, por temor de que la muchacha, sorprendida grávida, sea muerta o infamada.» Condenada como escandalosa y perniciosa. La Iglesia afirma que la vida humana debe protegerse desde la concepción, independientemente del estado de desarrollo fetal.
+- D‑1185: «Parece probable que todo feto carece de alma racional, mientras está en el útero, y que sólo empieza a tenerla cuando se le pare; y consiguientemente habrá que decir que en ningún aborto se comete homicidio.» Condenada como escandalosa y perniciosa. La Iglesia sostiene que el alma racional está presente desde la concepción, y que el aborto en cualquier etapa es un grave pecado contra el quinto mandamiento.
 
 ## Distinciones importantes
 

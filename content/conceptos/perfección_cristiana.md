@@ -75,6 +75,10 @@ En la catequesis 34 (28 de octubre de 1987), Juan Pablo II añade que el seguimi
 
 La Veritatis Splendor (§16-18) trata la perfección cristiana a partir de la invitación de Jesús al joven rico: «Si quieres ser perfecto» (Mt 19,21). Las bienaventuranzas son promesas que abren al hombre a la vida eterna y constituyen una especie de autorretrato de Cristo, invitaciones a su seguimiento y a la comunión de vida con él. La invitación a la perfección se dirige a todos, no solo a una élite (§18). La perfección exige madurez en el darse a sí mismo, a que está llamada la libertad del hombre. La libertad del hombre y la ley de Dios no se oponen sino que se reclaman mutuamente (§17).
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Inocencio VI** (D-575-577): Condenó los errores de Dionisio Foullechat sobre la perfección y la pobreza: que la ley del amor quita toda propiedad y dominio (D-575); que la abdicación de toda potestad temporal de dominio muestra el estado perfectísimo (D-576); que Cristo no abdicó la posesión y derecho sobre lo temporal no se tiene de la Nueva Ley (D-577). Las tres proposiciones fueron declaradas falsas, erróneas y heréticas.
+
 ## Distinciones importantes
 
 - **Perfección esencial**: consiste en la caridad. Sin caridad no hay perfección.

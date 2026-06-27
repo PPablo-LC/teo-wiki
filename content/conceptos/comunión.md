@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Comunión
 tags: ["sacramental", "eclesiología"]
 
-timestamp: 2026-06-15
+timestamp: 2026-06-27
 description: La comunión designa tanto la recepción sacramental del Cuerpo y la Sangre de Cristo en la Eucaristía como la participación en la vida divina y la unidad de los fieles entre sí y con Dios.
 ---
 # Comunión
 
 > Área: Sacramental / Eclesiología
-> Última actualización: 2026-06-15
+> Última actualización: 2026-06-27
 
 ## Definición
 
@@ -51,6 +51,14 @@ La palabra «comunión» (*koinonía*) expresa la participación en los bienes d
 ### Según la Summa Theologiae (SmTh)
 
 **Dos modos de recibir a Cristo (Q80 a.1):** Santo Tomás distingue entre comulgar sacramentalmente (recibir el Cuerpo de Cristo bajo las especies) y comulgar espiritualmente (unirse a Cristo por el deseo). La comunión sacramental presupone la espiritual, pero no al revés: alguien puede desear la comunión sin recibirla sacramentalmente, beneficiándose espiritualmente.
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Concilio de Trento** (Sesión XXI, D-929a-D-937): enseñó que los laicos y clérigos no celebrantes no están obligados por derecho divino a la comunión bajo las dos especies (D-930, D-934, Can. 1); la Iglesia tiene potestad para disponer sobre la administración de los sacramentos (D-931); bajo una sola especie se recibe a Cristo todo e íntegro (D-932, D-936, Can. 3); los párvulos no están obligados a la comunión sacramental (D-933, D-937, Can. 4).
+
+- [D-929a-D-937]
+
+**Inocencio XI** (1679, D‑1147–D‑1150) — Decreto de la Sagrada Congregación del Concilio sobre la comunión frecuente y diaria: declaró que, aunque el uso frecuente y hasta diario de la Eucaristía fue siempre aprobado, nunca se establecieron días determinados para recibirla o abstenerse. El frecuente acceso ha de dejarse al juicio de los confesores, atendida la pureza de conciencia, el fruto de la frecuencia y el adelantamiento en la piedad. A los casados se les debe amonestar sobre la continencia por reverencia a la Eucaristía. Prohibió que se aparte a nadie de la comunión frecuente por una fórmula única de mandato, ni que se establezcan días generales para recibirla. A las monjas que piden la comunión diaria debe concedérseles según su fervor. Los obispos deben alimentar la devoción eucarística con prudencia. Se condenó la afirmación de que la comunión diaria es de derecho divino, y se prohibió que la confesión de pecados veniales se haga a un sacerdote no aprobado.
 
 ## Distinciones importantes
 

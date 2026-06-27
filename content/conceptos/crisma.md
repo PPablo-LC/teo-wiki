@@ -43,6 +43,10 @@ El crisma debe ser **consagrado previamente** por el obispo (q.72 a.3). Santo To
 
 La consagración del crisma se realiza el **Jueves Santo** (a.12 ad 3). Aunque en otros tiempos estaba permitido hacerla cualquier día, la Iglesia determinó que se consagre dos días antes de la Pascua para que pueda distribuirse por la diócesis. Santo Tomás añade que es oportuno bendecir las materias de los sacramentos el día de la institución de la [[eucaristía]], a la cual todos los sacramentos están ordenados.
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Clemente VIII** (1595, D‑1086), instrucción sobre los ritos de los italo-griegos: estableció que el crisma solo puede ser bendecido por el obispo. Los presbíteros griegos, aunque no estaban obligados a recibir los demás santos óleos de los obispos latinos diocesanos por poder bendecirlos según su rito antiguo, sí debían recibir el crisma del obispo latino, porque incluso según su rito el crisma solo puede ser consagrado por el obispo. Esta disposición confirma la doctrina tradicional de la reserva episcopal de la consagración del crisma.
+
 ## Distinciones importantes
 
 - Crisma (Confirmación/Orden) vs. óleo de catecúmenos (Bautismo) vs. óleo de enfermos (Unción)

@@ -27,6 +27,10 @@ La misma carta añade: «Administrando mal lo bueno, a sí solo se dañó. Porqu
 
 El Denzinger recoge en D-169 la carta de Anastasio II, que constituye un testimonio temprano de la doctrina *ex opere operato* en relación con los sacramentos administrados por cismáticos.
 
+**Concilio de Trento** (Sesión VII, D-851, Can. 8): definió explícitamente que los sacramentos de la Nueva Ley confieren la gracia *ex opere operato*, no por la sola fe en la promesa divina. Esta definición tridentina constituyó la respuesta dogmática a la doctrina protestante de la justificación por la sola fe aplicada a los sacramentos.
+
+- [D-851]
+
 ## Relaciones doctrinales
 
 El principio *ex opere operato* se opone al [[donatismo]] y a toda doctrina que condicione la validez de los sacramentos a la santidad del ministro. Se complementa con el *ex opere operantis*, que se refiere a los frutos del sacramento según las disposiciones del receptor.

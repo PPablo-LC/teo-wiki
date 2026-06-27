@@ -74,6 +74,29 @@ El CIC regula la excomunión en los cc. 1331 y 1364-1369. Al excomulgado se le p
 
 La «comunión» del fiel con la Iglesia tiene una raíz ontológica —el Bautismo— que nunca se pierde, y una doble dimensión: mística y jurídica. La comunión mística o sobrenatural entraña la gracia santificante y la caridad, une al fiel con la Iglesia en cuanto Cuerpo místico, y se pierde en parte por el pecado o plenamente con la pérdida de la fe. La comunión jurídica une al fiel con la Iglesia en cuanto sociedad visible, se expresa por relaciones jurídicas concretadas en derechos y obligaciones, y se pierde mediante un acto constitutivo de la autoridad que priva de los derechos señalados en el c. 1331. El concepto legal de excomunión se refiere solo a la pérdida de la comunión jurídica, sin prejuzgar la comunión mística. No obstante, al recaer sobre un delito especialmente grave, se presupone la existencia de un pecado mortal que rompe al menos parcialmente la comunión mística. La expresión «ministerial» del c. 1331 §1,1º significa participación activa en la celebración. Aunque la prohibición del §1,2º es grave, no afecta en principio a la validez, salvo que la ley lo diga expresamente (como en §2,2º y 4º). Los actos ilícitos del excomulgado no declarado se vuelven inválidos cuando la excomunión es impuesta o declarada (§2). Los delitos que llevan excomunión latae sententiae han de ser poquísimos y gravísimos (c. 1318); el CIC los ha reducido sustancialmente respecto al CIC 17.
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+Las controversias medievales sobre la excomunión fueron abordadas en las condenas de Juan Wicleff y Juan Hus en el Concilio de Constanza.
+
+**Juan Wicleff** (condenado por Gregorio XI en 1377, D-591-593):
+- **D-591**: Error: «Ningún prelado puede excomulgar a nadie, si no sabe antes que está excomulgado por Dios».
+- **D-592**: Error: «El prelado que excomulga al clérigo que apeló al rey o al consejo del reino, es por eso mismo traidor al rey y al reino».
+- **D-593**: Error: «Aquellos que dejan de predicar o de oír la palabra de Dios por motivo de la excomunión de los hombres, están excomulgados y en el juicio de Dios serán tenidos por traidores a Cristo».
+- **D-610**: Error: «La excomunión del Papa o de cualquier otro prelado no ha de ser temida por ser censura del anticristo».
+
+**Juan Hus** (condenado en el Concilio de Constanza, D-645):
+- **D-645**: Error: «Por medio de las censuras de excomunión, suspensión y entredicho, el clero se supedita, para su propia exaltación, al pueblo laico, multiplica la avaricia, protege la malicia, y prepara el camino al anticristo».
+
+El **Concilio de Constanza**, en las interrogaciones para los husitas (D-681-683), estableció la doctrina católica:
+- **D-681**: El Papa u otro prelado pueden excomulgar a su súbdito eclesiástico o seglar por desobediencia o contumacia.
+- **D-682**: Los prelados tienen potestad de agravar y reagravar las penas, poner entredicho e invocar el brazo secular.
+- **D-683**: El Papa y los prelados tienen poder de excomulgar y suspender a los sacerdotes y laicos desobedientes y contumaces.
+
+**León X** (1520), Bula *Exsurge Domine* — Condena de los errores de Lutero sobre la excomunión:
+
+- **D-763** — Error condenado: «Excomulgar es solo castigar con pena externa, y no priva al hombre de las comunes oraciones y obras de la Iglesia». Lutero redujo la excomunión a una pena meramente externa, negando su eficacia espiritual de privación de la comunión de los fieles.
+- **D-764** — Error condenado: «Más hay que temer y amar al Papa que al Dios altísimo». Lutero caricaturizó la doctrina católica de la autoridad papal. La condena reafirma que la potestad de excomulgar es un poder dado por Cristo a la Iglesia para el bien espiritual de las almas, no para ser temida en sí misma sino por la privación de los bienes espirituales que conlleva.
+
 ### Según Sacramentorum Sanctitatis Tutela (SST)
 
 Las *Normae de gravioribus delictis* (SST-2010) establecen en el **art. 5** la excomunión *latae sententiae* reservada a la Sede Apostólica para el delito de atentada ordenación sagrada de una mujer:

@@ -3,7 +3,7 @@ tags:
   - meta
   - index
 title: Wiki Index
-updated: '2026-06-26'
+updated: '2026-06-27'
 note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts/regenerar-indice.py'
 ---
 
@@ -148,6 +148,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[asunción_de_maría]]
 - [[ateísmo]]
 - [[atributos_divinos]]
+- [[atrición]]
 - [[audacia]]
 - [[aureolas]]
 - [[autonomía_de_las_realidades_terrenas]]
@@ -176,6 +177,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[bautismo_de_jesús]]
 - [[bautismo_de_juan]]
 - [[bautismo_de_sangre]]
+- [[begardos_beguinos]]
 - [[belleza]]
 - [[bendición]]
 - [[beneficencia]]
@@ -300,6 +302,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[comunidad_internacional]]
 - [[comunidad_política]]
 - [[comunio_eclesiarum]]
+- [[comunion_bajo_una_sola_especie]]
 - [[comunismo]]
 - [[comunión]]
 - [[comunión_de_los_santos]]
@@ -325,6 +328,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[concilio_vaticano_i]]
 - [[concilio_vaticano_ii]]
 - [[concilios_ecuménicos]]
+- [[concubinato]]
 - [[concupiscencia]]
 - [[concupiscible]]
 - [[condición_de_siervo]]
@@ -336,6 +340,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[confianza]]
 - [[confianza_en_dios]]
 - [[configuración_con_cristo]]
+- [[confirmacion]]
 - [[confirmación]]
 - [[conflagración_final]]
 - [[conformidad_con_la_voluntad_de_dios]]
@@ -596,6 +601,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[dones_del_espíritu_santo]]
 - [[dotes]]
 - [[duda]]
+- [[duelo]]
 - [[dulzura]]
 - [[dulía]]
 - [[débito_conyugal]]
@@ -643,6 +649,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[empresa]]
 - [[empresario]]
 - [[enajenación_de_bienes]]
+- [[encarnacion]]
 - [[encarnación]]
 - [[encarnación_milagro_de_los_milagros]]
 - [[encarnación_revaloriza_la_humanidad]]
@@ -716,6 +723,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[estigmatización]]
 - [[estructuras_de_pecado]]
 - [[estudiosidad]]
+- [[estupro]]
 - [[eternidad]]
 - [[eubulia]]
 - [[eucaristía]]
@@ -797,10 +805,12 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[formación_permanente]]
 - [[formación_progresiva]]
 - [[formación_sacerdotal]]
+- [[fornicación]]
 - [[fortaleza]]
 - [[fraternidad]]
 - [[fraternidad_presbiteral]]
 - [[fraternidad_universal]]
+- [[fraticelli]]
 - [[fraude]]
 - [[fruición]]
 - [[fruto]]
@@ -957,6 +967,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[iniciación_cristiana]]
 - [[injusticia]]
 - [[injusticias_judiciales]]
+- [[inmaculada_concepcion]]
 - [[inmaculada_concepción]]
 - [[inmortalidad]]
 - [[inmutabilidad_divina]]
@@ -990,6 +1001,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 ### J
 
 - [[jactancia]]
+- [[jansenismo]]
 - [[jerarquía_angélica]]
 - [[jerarquía_de_las_verdades]]
 - [[jerarquía_eclesiástica]]
@@ -998,6 +1010,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[jesucristo_redentor]]
 - [[jesús]]
 - [[job]]
+- [[jubileo]]
 - [[judaísmo]]
 - [[judío]]
 - [[jueves_santo]]
@@ -1037,9 +1050,11 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[laudes]]
 - [[laudes_divinae]]
 - [[lavatorio_de_los_pies]]
+- [[laxismo_moral]]
 - [[leche]]
 - [[lectura_espiritual]]
 - [[legión_de_cristo]]
+- [[legítima_defensa]]
 - [[lengua]]
 - [[lengua_litúrgica]]
 - [[lepra]]
@@ -1129,6 +1144,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[mariología]]
 - [[martirio]]
 - [[maría_en_el_cenáculo]]
+- [[masturbación]]
 - [[materia_de_la_eucaristía]]
 - [[materialismo]]
 - [[maternidad_de_la_iglesia]]
@@ -1205,6 +1221,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[monjes]]
 - [[monotelismo]]
 - [[montaña]]
+- [[montes_de_piedad]]
 - [[moral_cristiana]]
 - [[moral_económica]]
 - [[moral_social]]
@@ -1263,6 +1280,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[notitia_criminis]]
 - [[novacianismo]]
 - [[noviciado]]
+- [[novisimos]]
 - [[novísimos]]
 - [[nube]]
 - [[nueva_alianza]]
@@ -1421,6 +1439,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[peregrinación_de_la_fe]]
 - [[pereza]]
 - [[pereza_espiritual]]
+- [[perfeccion_cristiana]]
 - [[perfecciones_divinas]]
 - [[perfección_angélica_en_gracia_y_gloria]]
 - [[perfección_cristiana]]
@@ -1526,6 +1545,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[priscilianismo]]
 - [[privilegio]]
 - [[privilegio_canónico]]
+- [[probabilismo]]
 - [[procesiones_divinas]]
 - [[procesión]]
 - [[procesión_del_espíritu_santo]]
@@ -1815,6 +1835,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[sociedad]]
 - [[sociedad_civil]]
 - [[sociedad_de_vida_apostólica]]
+- [[sodomía]]
 - [[soledad]]
 - [[solicitación]]
 - [[solidaridad]]
@@ -1887,6 +1908,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[tierra]]
 - [[tierra_prometida]]
 - [[tipología]]
+- [[tiranicidio]]
 - [[toma_de_posesión]]
 - [[tomar_la_cruz]]
 - [[tomus_ad_flavianum]]
@@ -2025,6 +2047,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[virtudes_intelectuales]]
 - [[virtudes_morales]]
 - [[virtudes_teologales]]
+- [[vision_beatifica]]
 - [[visiones]]
 - [[visita]]
 - [[visitación]]
@@ -2052,6 +2075,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[voto_de_obediencia]]
 - [[voto_de_pobreza]]
 - [[votos]]
+- [[vulgata]]
 - [[vulnerabilidad]]
 - [[vía_crucis]]
 - [[vía_iluminativa]]
@@ -2101,12 +2125,14 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 
 - [[abraham]]
 - [[acacio_constantinopla]]
+- [[adriano_vi]]
 - [[adán]]
 - [[agapito_i]]
 - [[agatón]]
 - [[agustín_de_hipona]]
 - [[albino_menéndez-reigada]]
 - [[alejandro_iii]]
+- [[alejandro_vii]]
 - [[anastasio_ii]]
 - [[antonio_royo_marín]]
 
@@ -2114,8 +2140,10 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 
 - [[beata_edith_stein]]
 - [[benedicto_i]]
+- [[benedicto_xii]]
 - [[benedicto_xvi]]
 - [[bonifacio_ii_papa]]
+- [[bonifacio_viii]]
 
 ### C
 
@@ -2125,12 +2153,18 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[cesáreo_de_arlés]]
 - [[cirilo_de_alejandría]]
 - [[cirilo_de_jerusalén]]
+- [[clemente_v]]
+- [[clemente_vi]]
+- [[clemente_vii]]
+- [[clemente_viii]]
 - [[concilio_de_arles_475]]
 - [[concilio_de_calcedonia]]
 - [[concilio_de_francfort]]
 - [[concilio_de_orange_ii]]
 - [[concilio_de_quiersy]]
+- [[concilio_de_trento]]
 - [[concilio_de_éfeso]]
+- [[cornelio_jansenio]]
 
 ### D
 
@@ -2143,6 +2177,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[elías]]
 - [[erik_varden]]
 - [[esteban_v]]
+- [[eugenio_iv]]
 - [[eutiques]]
 - [[eva]]
 
@@ -2162,6 +2197,8 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[gianfranco_ghirlanda]]
 - [[gottschalk_de_orbais]]
 - [[gregorio_ix]]
+- [[gregorio_xi]]
+- [[gregorio_xiii]]
 
 ### H
 
@@ -2177,6 +2214,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[iii_concilio_de_letrán]]
 - [[iii_concilio_de_valence]]
 - [[inocencio_iii]]
+- [[inocencio_x]]
 - [[isabel]]
 - [[isaías]]
 - [[iv_concilio_de_constantinopla]]
@@ -2190,23 +2228,32 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[jorge_loring]]
 - [[juan_bautista]]
 - [[juan_escoto_eriúgena]]
+- [[juan_hus]]
 - [[juan_i_papa]]
 - [[juan_ii_papa]]
 - [[juan_iii]]
 - [[juan_pablo_i]]
 - [[juan_pablo_ii]]
+- [[juan_wicleff]]
+- [[juan_xxii]]
+- [[julio_iii]]
 
 ### L
 
+- [[leon_x]]
 - [[león_i_magno]]
 - [[león_xiv]]
 - [[luis_maría_grignion_de_montfort]]
 
 ### M
 
+- [[marcelo_ii]]
+- [[martin_lutero]]
+- [[martin_v]]
 - [[martín_i]]
 - [[maría_de_agreda]]
 - [[mateo]]
+- [[miguel_bayo]]
 - [[moisés]]
 
 ### N
@@ -2221,8 +2268,13 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 ### P
 
 - [[papa_francisco]]
+- [[paulo_iii]]
+- [[paulo_iv]]
+- [[paulo_v]]
 - [[pelagio_i]]
 - [[pelagio_ii]]
+- [[pio_ii]]
+- [[pio_iv]]
 - [[prisciliano]]
 - [[próspero_de_aquitania]]
 - [[pseudo-dionisio_areopagita]]
@@ -2254,6 +2306,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[san_patricio]]
 - [[san_pedro]]
 - [[san_pedro_de_alcántara]]
+- [[san_pio_v]]
 - [[santa_brígida_de_suecia]]
 - [[santa_catalina_de_siena]]
 - [[santa_clara_de_asís]]
@@ -2263,6 +2316,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[santa_teresa_de_jesús]]
 - [[santo_tomás_de_aquino]]
 - [[simplicio_papa]]
+- [[sixto_iv]]
 - [[símaco_papa]]
 
 ### T
@@ -2288,6 +2342,10 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[comentarios_al_código_de_derecho_canónico]]
 - [[como_una_madre_amorosa]]
 - [[compendio_de_doctrina_social_de_la_iglesia]]
+- [[concilio_de_constanza]]
+- [[concilio_de_florencia]]
+- [[concilio_de_trento]]
+- [[concilio_de_vienne]]
 - [[concilio_vaticano_ii]]
 - [[cruzando_el_umbral_de_la_esperanza]]
 - [[código_de_derecho_canónico]]
@@ -2364,6 +2422,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 
 ### V
 
+- [[v_concilio_de_letran]]
 - [[vademécum_del_ddf]]
 - [[veritatis_splendor]]
 - [[viaje_apostólico_españa_2026]]

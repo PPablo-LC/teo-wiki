@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Sigilo sacramental
 tags: ["derecho_canónico", "sacramental"]
 
-timestamp: 2026-05-29
+timestamp: 2026-06-27
 description: El sigilo sacramental es la obligación inviolable de guardar secreto absoluto sobre todo lo conocido en la confesión sacramental.
 ---
 # Sigilo sacramental
 
 > Área: Derecho Canónico / Sacramental
-> Última actualización: 2026-05-29
+> Última actualización: 2026-06-27
 
 ## Definición
 
@@ -46,6 +46,8 @@ La Breve Relación (n.12) señala que estas modificaciones incorporan el decreto
 ### Según el Enchiridion Symbolorum (Denzinger)
 
 El **IV Concilio de Letrán** (1215), en D-438, establece la obligación del sigilo sacramental con la máxima severidad: «Guárdese absolutamente el sacerdote de descubrir al pecador por palabra, por señal o por cualquier otro medio»; si lo hace, será depuesto y recluido en un monasterio para hacer perpetua penitencia. Es la primera disposición conciliar que sanciona con pena canónica la violación del secreto de confesión.
+
+**Inocencio XI** (1682, D‑1220) — Decreto del Santo Oficio sobre el sigilo de la confesión: condenó la proposición de que «es lícito usar de la ciencia adquirida por la confesión, con tal que se haga sin revelación directa ni indirecta y sin gravamen del penitente, a no ser que se siga del no uso otro mucho más grave, en cuya comparación pueda con razón despreciarse el primero». El Santo Oficio declaró que la proposición, en cuanto admite el uso de dicha ciencia con gravamen del penitente, debe ser totalmente prohibida, incluso con la explicación o limitación de que ha de entenderse excluida cualquier revelación y en el caso de que del no uso se siguiera un gravamen mucho mayor del mismo penitente. La condena reafirma la absoluta inviolabilidad del sigilo sacramental: ni siquiera un mal mayor puede justificar el uso de lo conocido en confesión en perjuicio del penitente.
 
 ## Relaciones doctrinales
 

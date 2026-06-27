@@ -9,7 +9,7 @@ description: La creación es la obra por la cual Dios, en su libérrima voluntad
 # Creación
 
 > Área: Dogmática
-> Última actualización: 2026-06-20
+> Última actualización: 2026-06-26
 
 ## Definición
 
@@ -54,6 +54,10 @@ La diversidad y multitud de las criaturas proviene de la intención divina: la b
 Las criaturas corporales fueron hechas en razón de la bondad de Dios (Iª q.65 a.2): el universo entero, con todas sus partes, está ordenado a Dios como a su fin, reflejando la bondad divina para su gloria. No son castigo del pecado de los ángeles (contra Orígenes), sino que tienen su propio bien intrínseco: Dios vio que eran buenas.
 
 **Obra de los seis días (q.66-74):** La creación del mundo corporal se despliega en tres obras: la de *creación* (cielo y tierra en su principio), la de *diversificación* (separación de los elementos en los días 1-3), y la de *ornamentación* (población del mundo en los días 4-6). La materia prima fue creada no informe en el tiempo, sino con formas diversificadas desde el principio (q.66 a.1). Los cuerpos celestes y los terrestres no comparten la misma materia: la materia del cielo es incorruptible y la de los elementos corruptible (q.66 a.2). La luz, cualidad activa del primer cuerpo, fue creada el primer día (q.67). El firmamento fue formado el segundo día (q.68), la tierra fue separada de las aguas y produjo plantas el tercero (q.69), los astros luminosos el cuarto (q.70), los peces y aves el quinto (q.71), los animales terrestres el sexto (q.72). En el séptimo día Dios cesó de crear nuevas especies, descansando en Sí mismo (q.73).
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Concilio de Florencia** (1442, D-706–707), Bula *Cantate Domino*: definió que «el solo Dios verdadero, Padre, Hijo y Espíritu Santo, es el creador de todas las cosas, de las visibles y de las invisibles». Creó por su bondad todas las criaturas, «buenas, ciertamente, por haber sido hechas por el sumo bien, pero mudables, porque fueron hechas de la nada». Afirmó que «no hay naturaleza alguna del mal, porque toda naturaleza, en cuanto es naturaleza, es buena». Anatematizó la insania de los maniqueos, «que pusieron dos primeros principios, uno de lo visible, otro de lo invisible».
 
 ### Según la *Redemptor Hominis* (RH)
 

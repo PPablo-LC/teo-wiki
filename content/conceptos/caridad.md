@@ -148,6 +148,16 @@ León XIV dio un testimonio elocuente de la caridad cristiana en el centro CEDIA
 
 La Veritatis Splendor presenta la caridad como el núcleo de la vida moral cristiana. El mandamiento nuevo del amor (Jn 13,34-35) es la medida de la perfección cristiana (§20). El amor es fruto del don del Espíritu Santo (Rm 5,5; Ga 5,22). El Espíritu Santo es el don de Cristo cuyo primer fruto es la caridad (§22). El don no disminuye sino que refuerza la exigencia moral del amor: se puede permanecer en el amor solo bajo la condición de que se observen los mandamientos (Jn 15,10) (§24). La caridad tiende espontáneamente a la perfección, cuya medida es Dios mismo: «Sed perfectos como es perfecto vuestro Padre celestial» (Mt 5,48) (§18).
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+Pío V condenó los errores de Bayo sobre la caridad (D‑1031–D‑1034, D‑1036, D‑1038, D‑1070):
+
+- D‑1031–D‑1032: La caridad sincera y perfecta puede darse sin la remisión de los pecados; la caridad plenitud de la ley no está siempre unida con la remisión.
+- D‑1033: El catecúmeno vive justa, recta y santamente y cumple la ley por la caridad antes de la remisión de los pecados en el bautismo.
+- D‑1034: La distinción del doble amor (natural y gratuito) es «vana y fantástica».
+- D‑1036, D‑1038: El amor natural procedente de las solas fuerzas de la naturaleza es defendido con injuria de la cruz de Cristo; todo amor o es concupiscencia viciosa o es caridad infusa.
+- D‑1070: El hombre en pecado mortal puede tener verdadera caridad, compatible con el reato de la condenación eterna.
+
 ## Analizado para
 
 - [[christian_bobak_men_of_integrity]]

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Contrición
 tags: ["moral", "sacramental"]
 
-timestamp: 2026-05-22
+timestamp: 2026-06-27
 description: La contrición es el dolor del alma por los pecados cometidos, acompañado del propósito firme de no volver a pecar.
 ---
 # Contrición
 
 > Área: Moral / Sacramental
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-27
 
 ## Definición
 
@@ -105,6 +105,12 @@ a.1 — La contrición causa el perdón del pecado como parte del sacramento (ca
 a.2 — La contrición puede remitir toda la pena debida cuando el acto de caridad que la causa es tan intenso que merece la remisión de toda la pena. Pero el hombre no puede estar cierto de ello, por lo que debe confesar y satisfacer.
 
 a.3 — Una contrición leve, con tal de ser verdadera contrición (que implica que el pecado desagrada más que la separación del fin último), basta para borrar cualquier pecado. Los remedios espirituales reciben eficacia infinita de la potencia divina que en ellos obra.
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Alejandro VII** (1667, D‑1146) — Controversia sobre si la atrición concebida por miedo del infierno (con exclusión de la voluntad de pecar y esperanza del perdón) requiere algún acto de amor de Dios para alcanzar la gracia en el sacramento de la penitencia. El papa prohibió que se censurase con nota teológica ninguna de las dos sentencias (la que afirma o la que niega la necesidad de dicho amor), mientras la Sede Apostólica no definiese. Dejó ambas opiniones en libertad, señalando que la sentencia que niega la necesidad de algún amor de Dios en la atrición parecía ser la más común entre los escolásticos.
+
+**Inocencio XI** (1679, D‑1207) condenó como proposición laxista: «Es probable que basta la atrición natural, con tal de que sea honesta.» La condena reafirma que la atrición sobrenatural (fundada en motivos de fe) es disposición necesaria para la validez del sacramento.
 
 ## Referencias
 

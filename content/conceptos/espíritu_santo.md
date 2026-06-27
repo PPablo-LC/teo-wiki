@@ -9,7 +9,7 @@ description: Tercera Persona de la Santísima Trinidad, Dios verdadero, consubst
 # Espíritu Santo
 
 > Área: Dogmática
-> Última actualización: 2026-06-21
+> Última actualización: 2026-06-26
 
 ## Definición
 
@@ -20,6 +20,14 @@ Tercera Persona de la Santísima Trinidad, Dios verdadero, consubstancial al Pad
 El Espíritu Santo es revelado como persona divina distinta del Padre y del Hijo, aunque consubstancial a ellos. Actuó en la Creación, habló por los profetas, preparó a María para la Encarnación, fue derramado sobre los Apóstoles en Pentecostés, y continúa actuando en la Iglesia y en las almas. Su misión es santificar, iluminar, guiar y fortalecer a la Iglesia hasta la consumación final.
 
 ## Perspectivas por fuente
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**II Concilio de Lyon** (1274, D-460) definió que el Espíritu Santo «procede eternamente del Padre y del Hijo, no como de dos principios, sino como de un solo principio; no por dos espiraciones, sino por una única y sola espiración». Esta fórmula conciliar selló la doctrina del *Filioque* en el Oriente: la procesión del Espíritu Santo es del Padre y del Hijo como de un solo principio y por una sola espiración, y condenó a quienes negaban esta doctrina (D-463: «condenamos y reprobamos a los que negaren que el Espíritu Santo procede eternamente del Padre y del Hijo»).
+
+**Concilio de Florencia** (1439, D-691), Bula *Laetentur coeli*: definió que el Espíritu Santo «procede eternamente del Padre y del Hijo, y del Padre juntamente y el Hijo tiene su esencia y su ser subsistente, y de uno y otro procede eternamente como de un solo principio, y por única espiración». Declaró que la expresión «procede del Padre por el Hijo» significa que también el Hijo es «causa» (según los griegos) o «principio» (según los latinos) de la subsistencia del Espíritu Santo. Definió además que la adición del *Filioque* al Credo fue «lícita y razonablemente puesta en el Símbolo, en gracia de declarar la verdad y por necesidad entonces urgente».
+
+**Gregorio XIII** (1575, D‑1084), en la profesión de fe prescrita a los griegos, reiteró la definición de Florencia sobre el *Filioque*: el Espíritu Santo procede eternamente del Padre y del Hijo como de un solo principio y única espiración; el Hijo recibe eternamente del Padre el que el Espíritu Santo proceda de Él; la expresión «por el Hijo» significa que el Hijo es también principio de la subsistencia del Espíritu Santo. Confirmó que la adición del *Filioque* al Símbolo fue lícita y racionalmente añadida por necesidad entonces urgente.
 
 ### Según el Catecismo (CEC)
 

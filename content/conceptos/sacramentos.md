@@ -9,7 +9,7 @@ description: Los sacramentos son signos sensibles instituidos por Nuestro Señor
 # Sacramentos
 
 > Área: Sacramental
-> Última actualización: 2026-06-14
+> Última actualización: 2026-06-26
 
 ## Definición
 
@@ -162,6 +162,24 @@ Es clásico el ejemplo de la fuente y el vaso: la cantidad de agua que se recoge
 ### Según Para Salvarte (PS)
 
 PS define los sacramentos como «signos sensibles, instituidos por Cristo, para conferir la gracia que significan» [PS §13,96,2]. Son siete: bautismo, confirmación, penitencia (confesión), eucaristía, unción de los enfermos, orden sacerdotal y matrimonio [PS §13,96,2]. Todo sacramento consta de materia, forma, ministro y sujeto. Los sacramentos obran ex opere operato, es decir, su eficacia no depende de la santidad del ministro sino de Cristo que actúa por medio de él [PS §13,96,2]. Tres sacramentos —bautismo, confirmación y orden— imprimen carácter o sello imborrable en el alma [PS §13,96,2].
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**II Concilio de Lyon** (1274), Profesión de fe de Miguel Paleólogo: «Sostiene también y enseña la misma Santa Iglesia Romana que hay siete sacramentos eclesiásticos, a saber: uno el bautismo del que arriba se ha hablado; otro es el sacramento de la confirmación que confieren los obispos por medio de la imposición de las manos, crismando a los renacidos, otro es la penitencia, otro la eucaristía, otro el sacramento del orden, otro el matrimonio, otro la extremaunción, que se administra a los enfermos según la doctrina del bienaventurado Santiago» (D-465). Es la primera enumeración conciliar explícita del septenario sacramental.
+
+**Concilio de Constanza**, Condena de Juan Wicleff (D-584): Error de Wicleff: «Si el obispo o el sacerdote está en pecado mortal, no ordena, no consagra, no realiza, no bautiza».
+
+**Concilio de Constanza**, Condena de Juan Hus (D-634): Error de Hus: los sacerdotes que viven culpablemente manchan la potestad del sacerdocio y sienten infielmente sobre los siete sacramentos.
+
+**Martín V**, Bula *Inter cunctas* (D-672): Pregunta 22: un mal sacerdote, con la debida materia y forma e intención de hacer lo que hace la Iglesia, verdaderamente consagra, absuelve, bautiza y confiere los demás sacramentos.
+
+**Concilio de Florencia** (1439, D-695), Bula *Exultate Deo*: presentó la más completa instrucción conciliar sobre los siete sacramentos hasta Trento. Enseñó que son siete: bautismo, confirmación, Eucaristía, penitencia, extremaunción, orden y matrimonio. Los cinco primeros se ordenan a la perfección espiritual de cada hombre; los dos últimos al régimen y multiplicación de la Iglesia. Todos se realizan por tres elementos: cosas como materia, palabras como forma, y persona del ministro con intención de hacer lo que hace la Iglesia. Tres sacramentos (bautismo, confirmación, orden) imprimen carácter indeleble y no se repiten. El decreto desarrolló cada sacramento individualmente (D-696–702) con su materia, forma, ministro y efectos: bautismo (agua verdadera, forma trinitaria, remisión de toda culpa), confirmación (crisma, obispo como ministro ordinario), Eucaristía (pan de trigo y vino de vid, transustanciación, unión con Cristo), penitencia (contrición, confesión, satisfacción), extremaunción (óleo bendecido, sacerdote, salud del alma), orden (entrega del cáliz y patena, obispo como ministro), matrimonio (consentimiento mutuo, prole, fidelidad, indisolubilidad).
+
+**León X** (1520), Bula *Exsurge Domine* — Condena de los errores de Lutero sobre los sacramentos: Lutero afirmó que «es sentencia herética, pero muy al uso, que los sacramentos de la Nueva Ley dan la gracia santificante a los que no ponen óbice» (D-741 — condenado). Esta proposición niega la eficacia *ex opere operato* de los sacramentos. Lutero sostuvo también que «decir que en el niño después del bautismo no permanece el pecado, es conculcar juntamente a Pablo y a Cristo» (D-742 — condenado), negando que el bautismo borre totalmente el pecado original.
+
+**Concilio de Trento** (Sesión VII, D-843a-D-856): definió 13 cánones sobre los sacramentos en general. Definió que los sacramentos de la Nueva Ley son siete, todos instituidos por Cristo (D-844, Can. 1); son necesarios para la salvación (D-847, Can. 4); contienen y confieren la gracia que significan *ex opere operato* a los que no ponen óbice (D-849-D-851, Cánones 6-8); bautismo, confirmación y orden imprimen carácter indeleble y no pueden repetirse (D-852, Can. 9); el ministro debe tener intención de hacer lo que hace la Iglesia (D-854, Can. 11); el pecado del ministro no invalida el sacramento (D-855, Can. 12).
+
+- [D-843a-D-856]
 
 ## Distinciones importantes
 

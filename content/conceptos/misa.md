@@ -45,6 +45,12 @@ En la Legión la misa de comunidad se tiene habitualmente en lengua vernácula. 
 
 Las misas solemnes se celebran en 25 días señalados que incluyen las grandes solemnidades del año litúrgico, las fiestas de la Congregación (Aniversario de la fundación, Decretum laudis, Virgen de los Dolores) y las misas de profesiones y ordenaciones [GLit-2024, n. 151].
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Concilio de Constanza**, Condena de Juan Wicleff (D-585): Error de Wicleff: «No está fundado en el Evangelio que Cristo ordenara la misa».
+
+**Concilio de Trento** (Sesión XXII, D-937a-D-956) definió que la Misa es verdadero y propio sacrificio (D-948, Can. 1), no mera conmemoración; es propiciatorio por los vivos y por los difuntos (D-940, D-950, Can. 3); en ella se contiene e incruentamente se inmola el mismo Cristo que se ofreció cruentamente en la cruz — no es menoscabo sino aplicación de sus frutos (D-940, D-951, Can. 4); no se ofrece a los santos sino a Dios solo, aunque se celebre en su honor (D-941, D-952, Can. 5); el Canon de la Misa está libre de error (D-942, D-953, Can. 6); las ceremonias y ritos son piadosos y deben mantenerse (D-943, D-954-D-956, Cánones 7-9); las Misas en que solo el sacerdote comulga son legítimas (D-944, D-955, Can. 8).
+
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás dedica la cuestión 83 al rito de la misa, el acto de celebrar el sacrificio eucarístico.

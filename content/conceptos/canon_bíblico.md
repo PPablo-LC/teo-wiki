@@ -9,7 +9,7 @@ description: "El canon bíblico (del griego *kanon*: regla, norma) es la lista d
 # Canon bíblico
 
 > Área: Dogmática — Escritura
-> Última actualización: 2026-06-24
+> Última actualización: 2026-06-26
 
 ## Definición
 
@@ -28,6 +28,12 @@ El canon fue solemnemente definido por el Concilio de Trento (Sesión IV), y el 
 ### Según el Enchiridion Symbolorum (Denzinger)
 
 El Denzinger recoge múltiples testimonios sobre el canon bíblico: el canon del Concilio Romano bajo Dámaso I (D-84), el canon del III Concilio de Cartago (D-92), el canon de Inocencio I (D-96), el Decreto Gelasiano (D-162) y la condena de apócrifos priscilianistas (D-245). La forma antipriscilianista del canon anatematiza a quien venera escrituras fuera de las recibidas por la Iglesia Católica (D-32).
+
+**Concilio de Florencia** (1442, D-706), Bula *Cantate Domino*: profesó que «uno solo y mismo Dios es autor del Antiguo y Nuevo Testamento, es decir, de la ley, de los profetas y del Evangelio, porque por inspiración del mismo Espíritu Santo han hablado los Santos de uno y otro Testamento». Incluyó la lista de los libros canónicos del Antiguo y Nuevo Testamento, confirmando el canon tradicional de la Iglesia Romana.
+
+El Concilio de Trento (Sesión IV, D-784) definió solemnemente el canon de los libros sagrados, enumerando 46 libros del AT y 27 del NT. Incluyó explícitamente los deuterocanónicos (Tobías, Judit, Sabiduría, Eclesiástico, Macabeos) y estableció anatema contra quien no recibiera como sagrados y canónicos «los libros mismos íntegros con todas sus partes». Esta definición puso fin a las dudas suscitadas por la Reforma sobre el canon veterotestamentario.
+
+- [D-784]
 
 ## Relaciones doctrinales
 

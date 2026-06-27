@@ -9,7 +9,7 @@ description: Las virtudes infusas son hábitos sobrenaturales infundidos por Dio
 # Virtudes Infusas
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-05-21
+> Última actualización: 2026-06-26
 
 ## Definición
 
@@ -27,6 +27,10 @@ Las virtudes teologales tienen por objeto inmediato a Dios mismo:
 Las virtudes morales infusas perfeccionan el orden de los medios hacia el fin sobrenatural, regulando las pasiones y las acciones humanas según la recta razón iluminada por la fe.
 
 ## Perspectivas por fuente
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Concilio de Vienne** (1312, D-483) definió, contra los begardos que negaban la necesidad de las virtudes infusas, que «en el bautismo se infunde la gracia santificante y las virtudes en los niños». Este decreto afirma explícitamente que las virtudes sobrenaturales (virtudes infusas) son infundidas por Dios en el alma junto con la gracia santificante, incluso en los niños que no tienen uso de razón, rechazando así el error de quienes sostenían que solo la fe era necesaria para la justificación.
 
 ### Según Royo Marín (TPCr)
 

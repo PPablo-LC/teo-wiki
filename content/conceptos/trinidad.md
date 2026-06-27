@@ -9,7 +9,7 @@ description: "Misterio central de la fe cristiana: un solo Dios en tres Personas
 # Trinidad
 
 > Área: Dogmática
-> Última actualización: 2026-06-21
+> Última actualización: 2026-06-26
 
 ## Definición
 Misterio central de la fe cristiana: un solo Dios en tres Personas distintas —Padre, Hijo y Espíritu Santo—, consubstanciales e indivisibles. Es el misterio de Dios en sí mismo, fuente de todos los otros misterios de la fe.
@@ -40,6 +40,16 @@ El Capítulo 2 de la Primera Parte está dedicado a la Santísima Trinidad. La i
 ### Según UDE (1994)
 
 El libro tiene una dimensión trinitaria constante. El Padre que ama, el Hijo que redime, el Espíritu Santo que es protagonista de la oración y la unidad. La revelación del Padre a través del Hijo en el Espíritu. La vida íntima de Dios revelada en Cristo (UDE, múltiples capítulos).
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Concilio de Florencia** (1442, D-703–705), Bula *Cantate Domino*: definió que la Iglesia Romana «firmemente cree, profesa y predica a un solo verdadero Dios, omnipotente, inmutable y eterno, Padre, Hijo y Espíritu Santo, uno en esencia y trino en personas: el Padre ingénito, el Hijo engendrado del Padre, el Espíritu Santo que procede del Padre y del Hijo». Las tres personas son «un solo Dios, y no tres dioses; porque las tres tienen una sola sustancia, una sola esencia, una sola naturaleza, una sola divinidad, una sola inmensidad, una eternidad, y todo es uno, donde no obsta la oposición de relación» (D-703).
+
+Por razón de esta unidad, «el Padre está todo en el Hijo, todo en el Espíritu Santo; el Hijo está todo en el Padre, todo en el Espíritu Santo; el Espíritu Santo está todo en el Padre, todo en el Hijo». Ninguno precede a otro en eternidad, ni le excede en grandeza. «El Padre y el Hijo no son dos principios del Espíritu Santo, sino un solo principio» (D-704).
+
+Condenó (D-705) a Sabelio (que confunde las personas), a los arrianos, eunomianos y macedonianos (que ponen al Hijo y al Espíritu Santo en el orden de las criaturas), y a cualesquiera otros que pongan «grados o desigualdad en la Trinidad».
+
+**Paulo IV** (1555), Constitución *Cum quorundam* (D-993): condenó a quienes niegan que Dios sea trino en personas y uno en sustancia; o que Jesucristo sea verdadero Dios de la misma sustancia que el Padre y el Espíritu Santo.
 
 ### Según CJeS (1987-1988)
 

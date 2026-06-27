@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Predestinación
 tags: ["dogmática"]
 
-timestamp: 2026-06-12
+timestamp: 2026-06-27
 description: Designio eterno de Dios por el cual determina libremente llevar a ciertas criaturas racionales a la gloria eterna. Es un misterio insondable que depende únicamente de la voluntad de Dios.
 ---
 # Predestinación
 
 > Área: Dogmática
-> Última actualización: 2026-06-12
+> Última actualización: 2026-06-27
 
 ## Definición
 
@@ -44,6 +44,20 @@ La desigual distribución de las gracias depende de la voluntad libérrima de Di
 El Denzinger recoge la condena de la doble predestinación. El Papa San Simplicio (D-155) enseña que la gracia y la predestinación de Dios no son para el mal: «Dios no predestina al mal». El II Concilio de Orange (D-200) anatematiza a quien afirme la doble predestinación: «nadie predestinado al mal». El Concilio de Arles (475, D-160a) condena la proposición de que «unos están destinados a la muerte y otros predestinados a la vida». La Iglesia afirma que Dios, por su presciencia, prevé el mal pero no lo causa, y que la predestinación solo se refiere a la salvación, no a la condenación.
 
 El **Concilio de Quiersy** (853, D-316) precisa que Dios «predestinó a los elegidos para la vida, y predestinó a los impíos para la pena eterna», pero no los predestina a perecer, sino que los deja en la masa de perdición por su justo juicio. Dios quiere que todos los hombres se salven (D-318), aunque no todos se salvan. El **III Concilio de Valence** (855, D-322) confiesa «la predestinación de los elegidos para la vida, y la predestinación de los impíos para la muerte»; sin embargo, precisa que «en la elección de los que han de salvarse, la misericordia precede al buen merecimiento; en la condenación, el merecimiento malo precede al justo juicio de Dios». Así se distingue la predestinación (voluntad consiguiente) de la presciencia divina (D-321).
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Concilio de Constanza**, Condena de Juan Hus (D-627-632): Errores de Hus sobre la Iglesia: que la Iglesia es la universidad de los predestinados; que los precitos no son partes de la Iglesia; que el precito nunca es parte de la Santa Iglesia aunque esté en gracia, y el predestinado siempre es miembro aunque caiga de la gracia; que la Iglesia como congregación de predestinados es artículo de fe.
+
+**Concilio de Constanza**, Condena de Juan Hus (D-647): Error de Hus: «La gracia de la predestinación es el vínculo con que el cuerpo de la Iglesia y cualquiera de sus miembros se une indisolublemente con Cristo, su cabeza».
+
+**León X** (1520), Bula *Exsurge Domine* — Condena del error de Lutero sobre la predestinación: Lutero afirmó que «nadie está cierto de no pecar siempre mortalmente a causa de la ocultísima soberbia» (D-775 — condenado). Esta proposición fue condenada porque niega la posibilidad de que el justo, con la gracia de Dios, pueda evitar todo pecado mortal. La doctrina católica enseña que, aunque la perseverancia final es un don gratuito de Dios y nadie puede estar cierto de su predestinación sin revelación especial, el justo puede, con la gracia actual, evitar el pecado mortal en cada acto concreto.
+
+**Paulo V** (1607, D‑1090), tras la controversia *De auxiliis* entre dominicos y jesuitas sobre la relación entre la gracia eficaz, la predestinación divina y la libertad humana, impuso silencio prohibiendo que las partes se calificaran mutuamente con censuras. La controversia versaba sobre si la eficacia de la gracia se debe a una predeterminación física intrínseca (tomistas) o a la ciencia media y el congruismo (molinistas). El decreto no definió la cuestión dogmáticamente, sino que dejó a las escuelas en libertad. Benedicto XIV (1748) confirmó que la sentencia tomista sobre la predestinación y la gracia no fue nunca reprobada por la Sede Apostólica y que no es lícito remover a los tomistas de su sentir.
+
+**Inocencio X** (1653, D‑1096) — 5ª proposición de [[cornelio_jansenio]] condenada: «Es semipelagiano decir que Cristo murió o que derramó su sangre por todos los hombres absolutamente». Condenada como falsa, temeraria, escandalosa y, entendida en el sentido de que Cristo murió solo por los predestinados, impía, blasfema, injuriosa, que anula la piedad divina, y herética. La Iglesia confirma la voluntad salvífica universal (D‑318, Quiersy) y que Cristo murió por todos los hombres (D‑806, Trento), no solo por los predestinados.
+
+**Inocencio X** (1654, D‑1097) — Decreto sobre las actas de la Congregación de Auxiliis: declaró que no debía prestarse fe a los manuscritos que pretendían contener la definición de Paulo V sobre la controversia. La cuestión de la relación entre la gracia eficaz, la predestinación y el libre albedrío quedó sin definición dogmática, dejando a las escuelas en libertad.
 
 ### Según la Redemptoris Mater (RM)
 

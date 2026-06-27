@@ -37,6 +37,10 @@ Cada alma espiritual es directamente creada por Dios y es inmortal: "no perece c
 
 La inmortalidad del alma es presupuesta en toda la enseñanza sobre la vida espiritual y el destino eterno del hombre. Royo Marín la trata en el contexto de la escatología y la naturaleza del alma espiritual (TPCr, Segunda Parte, Cap. I).
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+Pío V condenó el error de Bayo sobre la inmortalidad del primer hombre (D‑1078): «La inmortalidad del primer hombre no era beneficio de la gracia, sino condición natural».
+
 ## Distinciones importantes
 
 - Inmortalidad natural del alma: por su espiritualidad, el alma no puede corromperse

@@ -33,6 +33,11 @@ El canon 751 define la herejía como «la negación pertinaz, después de recibi
 
 ### Según el Enchiridion Symbolorum (Denzinger)
 
+**León X** (1520), Bula *Exsurge Domine* — Condena de los errores de Lutero sobre la herejía:
+
+- **D-770** — Error condenado: «Algunos artículos de Juan Hus, condenados en el Concilio de Constanza, son cristianísimos, veracísimos y evangélicos, y ni la Iglesia universal podría condenarlos». Lutero defendió la herejía husita, negando la infalibilidad de la Iglesia en la condena de errores.
+- **D-773** — Error condenado: «Quemar a los herejes es contra la voluntad del Espíritu». Lutero negó la potestad de la Iglesia y el Estado de aplicar la pena capital a los herejes pertinaces. La condena reafirma que la Iglesia tiene el derecho y el deber de proteger la integridad de la fe, incluso mediante la relajación al brazo secular en casos extremos.
+
 El **III Concilio de Letrán** (1179, D-401) anatematizó a los cátaros, patarinos, publicanos y a quienes los defendieran, prohibiendo tenerlos en casas o tierras o ejercer comercio con ellos. El **Concilio de Verona** (1184, D-402) anatematizó a quienes sintieran u enseñaran de otro modo que la Iglesia Romana acerca de los sacramentos. **Inocencio III** (D-417–427) recibió la profesión de fe de **Durando de Huesca** y los pobres católicos, que abjuraban de las herejías cátara y valdense y aceptaban los sacramentos, el purgatorio y las indulgencias conforme a la doctrina romana. **Gregorio IX** (D-444) anatematizó a los cátaros, patarenos, pobres de Lyon, pasaginos, josefinos, arnaldistas, esperonistas y a todos cuantos la Iglesia Romana juzgare herejes.
 
 ## Distinciones importantes

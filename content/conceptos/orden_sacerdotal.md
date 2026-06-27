@@ -9,7 +9,7 @@ description: "El orden sacerdotal es el sacramento que imprime el [[carácter_sa
 # Orden sacerdotal
 
 > Área: Sacramental
-> Última actualización: 2026-06-15
+> Última actualización: 2026-06-26
 
 ## Definición
 
@@ -122,6 +122,16 @@ Santo Tomás trata el sacramento del Orden en la IIIa Pars, q.63-64 (sobre el ca
 ### Según el Enchiridion Symbolorum (Denzinger)
 
 **Gregorio IX** (D-445) enseñó que los presbíteros y diáconos reciben la imposición de la mano con tacto corporal, según el rito introducido por los Apóstoles. Si se hubiere omitido, ha de suplirse con cautela en el tiempo estatuido. El **I Concilio de Lyon** (1245, D-454) mandó que los obispos griegos confieran las siete órdenes conforme a la costumbre de la Iglesia romana, pues se dice que omitían tres de las órdenes menores.
+
+**Concilio de Constanza**, Condena de Juan Wicleff (D-608): Error de Wicleff: «La confirmación de los jóvenes, la ordenación de los clérigos, la consagración de los lugares, se reservan al Papa y a los obispos por codicia de lucro temporal y de honor».
+
+**Concilio de Constanza**, Condena de Juan Hus (D-634): Error de Hus: los sacerdotes que viven culpablemente manchan la potestad del sacerdocio.
+
+**Concilio de Florencia** (1439, D-701), Bula *Exultate Deo*: enseñó que la materia del orden es «aquello por cuya entrega se confiere el orden»: el presbiterado se da «por la entrega del cáliz con vino y de la patena con pan»; el diaconado «por la entrega del libro de los Evangelios»; el subdiaconado «por la entrega del cáliz vacío y de la patena vacía sobrepuesta». La forma del sacerdocio es: «Recibe la potestad de ofrecer el sacrificio en la Iglesia, por los vivos y por los difuntos, en el nombre del Padre y del Hijo y del Espíritu Santo». El ministro ordinario es el obispo. El efecto es «el aumento de la gracia, para que sea ministro idóneo».
+
+**Concilio de Trento** (Sesión XXIII, D-956a-D-968) definió que el orden es verdadero y propio sacramento instituido por Cristo (D-963, Can. 3); existe un sacerdocio visible y externo en el NT (D-957, D-961, Can. 1); hay varios órdenes menores y mayores (D-958, D-962, Can. 2); por la ordenación se imprime carácter indeleble (D-964, Can. 4); los obispos son superiores a los presbíteros (D-960, D-967, Can. 7); los obispos designados por el Romano Pontífice son legítimos (D-968, Can. 8).
+
+**Clemente VIII** (1595, D‑1087), instrucción sobre los ritos de los italo-griegos: enseñó que los ordenados por obispos cismáticos, si fueron legítimamente ordenados guardando la debida forma, «reciben ciertamente el orden, pero no la ejecución». Es decir, reciben válidamente el sacramento (el carácter indeleble), pero no pueden ejercer lícitamente el ministerio (no tienen la ejecución) por carecer de la jurisdicción eclesiástica necesaria. Esta distinción entre validez sacramental y licitud del ejercicio se alinea con la doctrina de Santo Tomás (Suppl. q.38 a.2).
 
 ## Distinciones importantes
 

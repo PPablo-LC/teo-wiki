@@ -37,6 +37,12 @@ Los sacramentos, en especial la Eucaristía, son canales de la gracia divina. La
 
 El Denzinger recoge en D-133 la afirmación de San León I Magno sobre la presencia real del Cuerpo y Sangre de Cristo en la Eucaristía. El Papa León, en su carta dogmática, enseña que Cristo, verdadero Dios y verdadero hombre, está realmente presente bajo las especies eucarísticas como memorial de su pasión. La definición de la presencia real fue solemnemente promulgada por el Concilio de Trento (Sesión XIII, D-874-888).
 
+**Concilio de Trento** (Sesión XIII, D-874, D-883, Can. 1): definió que en la Eucaristía, después de la consagración, se contiene «verdadera, real y sustancialmente nuestro Señor Jesucristo, verdadero Dios y hombre, bajo la apariencia de aquellas cosas sensibles» (D-874). La presencia eucarística es sacramental y sustancial, no meramente figurada o por eficacia (D-883, Can. 1). Cristo está presente en la Eucaristía antes y después del uso sacramental (D-886, Can. 4).
+
+- [D-874]
+- [D-883]
+- [D-886]
+
 ### Según Para Salvarte (PS)
 
 PS afirma que Jesucristo está ahora glorioso en el cielo y en el sagrario [PS §10,45]. En la Eucaristía permanecen el olor, color y sabor del pan y del vino, pero su sustancia se ha convertido en el Cuerpo y la Sangre de Cristo mediante la transubstanciación, conversión milagrosa y singular distinta de las conversiones naturales [PS §10,47,1]. Cristo está presente en todas las Hostias consagradas, entero en cada una de ellas, y su presencia es inextensa: todo en cada parte [PS §10,49,2]. La presencia real está confirmada por milagros eucarísticos como los de Lanciano y Casia, donde las especies se convirtieron en carne y sangre humana verificada científicamente [PS §10,49,3].

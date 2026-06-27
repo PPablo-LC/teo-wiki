@@ -53,6 +53,8 @@ La confesión en la Biblia tiene un doble sentido: confesión de pecados (*exomo
 
 El **IV Concilio de Letrán** (1215), en el canon 21 *Omnis utriusque sexus* (D-437), establece el precepto pascual: «Todo fiel de uno y otro sexo, después de llegar a la edad de discreción, confiese fielmente todos sus pecados al menos una vez al año a su propio sacerdote, y procure cumplir la penitencia impuesta, recibiendo reverentemente, al menos en Pascua, el sacramento de la Eucaristía». El mismo concilio, en D-438, impone el sigilo sacramental: «Guárdese absolutamente el sacerdote de descubrir al pecador por palabra, por señal o por cualquier otro medio»; su violación acarrea la deposición y la reclusión en un monasterio para hacer perpetua penitencia.
 
+**Clemente VIII** (1602, D‑1088‑D‑1089) condenó como «falsa, temeraria y escandalosa» la proposición de que es lícito confesar sacramentalmente los pecados por carta o mensajero a un confesor ausente y recibir la absolución del mismo ausente. Prohibió enseñar, predicar, defender o practicar esta opinión. Posteriormente (D‑1089), el Santo Oficio precisó que la condena vale también «en sentido dividido», esto es, para la confesión o la absolución separadamente. Se exceptuó el caso del moribundo que da señales de penitencia a un sacerdote que llega, por ser «totalmente diverso».
+
 ## Analizado para
 
 - [[ali_ghaffari_courage]]

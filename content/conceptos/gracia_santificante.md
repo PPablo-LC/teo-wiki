@@ -9,7 +9,7 @@ description: La gracia santificante es un don sobrenatural e inherente al alma, 
 # Gracia Santificante
 
 > Área: Dogmática
-> Última actualización: 2026-06-15
+> Última actualización: 2026-06-26
 
 ## Definición
 
@@ -22,6 +22,12 @@ La gracia santificante es una cualidad sobrenatural, creada e inherente al alma,
 La gracia santificante es el germen de la gloria: la vida eterna comienza en esta tierra por la gracia y se consuma en el cielo por la visión beatífica. La teología clásica distingue entre gracia increada (Dios mismo) y gracia creada (el efecto producido en el alma), si bien la gracia santificante es esencialmente una participación de la naturaleza divina.
 
 ## Perspectivas por fuente
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Concilio de Vienne** (1312, D-483) definió, contra los begardos que negaban la necesidad de las virtudes infusas, que «en el bautismo se infunde la gracia santificante y las virtudes en los niños y la forma del bautismo debe ser la prescrita por la Iglesia».
+
+**Benedicto XII** (1341), Memorial *Iam dudum*: condenó el error de los armenios que decían que «para la remisión de los pecados basta la sola pasión de Cristo, sin otro don alguno de Dios» y que «ni que en los sacramentos de la nueva ley se dé la gracia de Dios, gratificante» (D-539), afirmando así que la gracia santificante es necesaria para la justificación y se administra en los sacramentos.
 
 ### Según la Summa Theologiae (SmTh)
 

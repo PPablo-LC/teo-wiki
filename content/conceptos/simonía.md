@@ -39,6 +39,12 @@ No es simonía ofrecer un estipendio por la celebración de la Misa o un donativ
 
 [SmTh IIa-IIae q.100]
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Inocencio XI** (1679, D‑1195) condenó la proposición: «Dar lo temporal por lo espiritual no es simonía, cuando lo temporal no se da como precio, sino solo como motivo de conferir o realizar lo espiritual, o también cuando lo temporal sea solo gratuita compensación por lo espiritual, o al contrario.» Condenada como escandalosa. La condena reafirma que la simonía no depende solo de la formalidad del «precio», sino también de la conexión causal entre lo temporal y lo espiritual: si lo temporal es motivo determinante para conferir lo espiritual, hay simonía.
+
+**Inocencio XI** (1679, D‑1196) condenó la proposición: «Y esto tiene también lugar, aun cuando lo temporal sea el principal motivo de dar lo espiritual; más aún, aun cuando sea el fin de la misma cosa espiritual, de suerte que aquello se estime más que la cosa espiritual.» Condenada como escandalosa. La condena extiende la simonía incluso cuando lo espiritual se subordina a lo temporal como fin principal.
+
 ## Distinciones importantes
 
 - Simonía de derecho divino (bienes esencialmente espirituales como los sacramentos) vs. de derecho eclesiástico (bienes temporales anejos a lo espiritual)

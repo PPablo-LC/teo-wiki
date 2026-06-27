@@ -37,6 +37,18 @@ La pobreza evangélica es uno de los tres consejos evangélicos esenciales al es
 
 [TPCr, Tercera Parte, Libro II; Tercera Parte, Libro III]
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+El Papa **Juan XXII**, en la Constitución *Cum inter nonnullos* (1323, D-494), declaró errónea y herética la afirmación pertinaz de que «nuestro Redentor y Señor Jesucristo y sus Apóstoles no tuvieron nada en particular, ni siquiera en común». La constitución argumenta que tal afirmación contradice la Sagrada Escritura, que en muchos lugares asegura que poseían algunas cosas. Declaró también herético afirmar que Cristo y los Apóstoles no tenían derecho a usar de aquellas cosas que la Escritura atestigua que poseían, ni derecho a venderlas o adquirirlas, pues sentir así de los actos del Redentor es «sacrílego, contrario a la Sagrada Escritura y enemigo de la doctrina católica».
+
+El mismo **Juan XXII**, en la Constitución *Licet iuxta doctrinam* (1327), condenó los errores de Marsilio de Padua y Juan de Jandun (D-495-500), quienes sostenían que todo lo temporal de la Iglesia está sometido al Emperador (D-495); que Pedro no tuvo más autoridad que los demás Apóstoles y Cristo no dejó cabeza a la Iglesia (D-496); que al Emperador toca corregir, instituir y destituir al Papa (D-497); que todos los sacerdotes tienen la misma jurisdicción y autoridad (D-498); y que la Iglesia no puede castigar coactivamente sin concesión del Emperador (D-499). Todos estos artículos fueron declarados «heréticos o hereticales y erróneos» (D-500).
+
+El Papa **Inocencio VI** (1355, D-575-577) condenó los errores de Dionisio Foullechat, discípulo de Ockham, que defendía un concepto extremo de pobreza evangélica: que la ley del amor quita toda propiedad y dominio (D-575); que abdicar de toda potestad temporal de dominio muestra el estado perfectísimo (D-576); y «que Cristo no abdicó esta posesión y derecho sobre lo temporal, no se tiene de la Nueva Ley» (D-577, condenado como falso, erróneo y herético).
+
+**Concilio de Constanza**, Condena de Juan Wicleff (D-590, D-596, D-616, D-619): Errores de Wicleff: es contra la Sagrada Escritura que los hombres eclesiásticos tengan posesiones; los señores temporales pueden quitar los bienes de la Iglesia; el Papa con todos sus clérigos que poseen bienes son herejes; el emperador y los señores seculares fueron seducidos por el diablo para dotar a la Iglesia.
+
+**Martín V**, Bula *Inter cunctas* (D-684-686): Preguntas 34-36: las personas eclesiásticas pueden tener sin pecado posesiones y bienes temporales; no es lícito a los laicos quitárselos por propia autoridad; tal robo e invasión lleva consigo sacrilegio.
+
 ## Distinciones importantes
 
 - Pobreza evangélica (virtud) vs. [[pobreza]] (concepto amplio que incluye también lo socioeconómico)

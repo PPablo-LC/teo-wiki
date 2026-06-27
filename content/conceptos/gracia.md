@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Gracia
 tags: ["dogmática"]
 
-timestamp: 2026-06-08
+timestamp: 2026-06-27
 description: "Don gratuito que Dios nos da para responder a su llamada: llegar a ser hijos de Dios, partícipes de la naturaleza divina y de la vida eterna."
 ---
 # Gracia
 
 > Área: Dogmática
-> Última actualización: 2026-06-08
+> Última actualización: 2026-06-27
 
 ## Definición
 
@@ -62,6 +62,26 @@ La encíclica añade (§118-119) que la misericordia de Dios, manifestada plenam
 El **II Concilio de Orange** (529), confirmado por Bonifacio II (D-200a–D-200b), constituye la definición más completa de la doctrina católica sobre la gracia contra los semipelagianos. Establece que la gracia no se confiere por invocación humana, sino que la gracia misma hace que Dios sea invocado (D-176). El querer ser limpios del pecado se obra en nosotros por infusión del Espíritu Santo (D-177). El inicio de la fe y el afecto de credulidad son don de la gracia, no de la naturaleza (D-178). Sin la iluminación e inspiración del Espíritu Santo no podemos pensar ni elegir bien alguno para la salvación (D-180). El libre albedrío quedó debilitado por el pecado y no puede repararse sino por la gracia del bautismo (D-186). La gracia precede a todo mérito bueno: «la gracia, que no se debe, precede para que se hagan las buenas obras» (D-191). Nadie tiene de suyo sino mentira y pecado (D-195). Amar a Dios es en absoluto don de Dios (D-198). El epílogo doctrinal (D-199) resume que al bautismo no se llega por libre albedrío sino por la largueza de Cristo.
 
 El **Concilio de Quiersy** (853) afirma que el libre albedrío, perdido en Adán, es recuperado por Cristo y prevenido y ayudado por la gracia (D-317). Dios quiere que todos se salven (voluntad salvífica universal, D-318), y Cristo padeció por todos, aunque no todos son redimidos por incredulidad (D-319). El **III Concilio de Valence** (855, D-325) remite a los Padres, los concilios africanos y el II Concilio de Orange como regla de fe sobre la gracia y el libre albedrío, rechazando tanto el extremo predestinacionista como el racionalismo de Eriúgena.
+
+El **Concilio de Trento** (Sesión VI) definió la doctrina católica sobre la gracia frente a la Reforma: el hombre no puede justificarse sin la gracia divina (D-811, Can. 1); la gracia no solo facilita sino que es necesaria para cumplir los mandamientos (D-812, Can. 2); sin la inspiración previniente del Espíritu Santo el hombre no puede creer, esperar ni amar como conviene (D-813, Can. 3); la gracia no se recibe de modo meramente pasivo sino con cooperación libre (D-814, Can. 4); la justicia de Cristo nos es comunicada como gracia inherente, no por sola imputación (D-821, Can. 11); la gracia no es solo el favor de Dios sino una realidad creada en el alma (D-821). La justificación no se da sino a los que están injertados en Cristo por la fe, la esperanza y la caridad infundidas (D-800). El justificado no puede perseverar sin especial auxilio de Dios (D-832, Can. 22).
+
+- [D-792a-D-843]
+
+Pío V, en la bula *Ex omnibus afflictionibus* (1567), condenó los errores de Miguel Bayo sobre el carácter sobrenatural de la gracia (D‑1001–D‑1082). Bayo sostuvo que los dones del estado de inocencia no eran gracia sino condición natural de la naturaleza humana. Se condenó que los méritos del primer hombre no deban llamarse gracia (D‑1001, D‑1007, D‑1009), que la vida eterna se atribuya a la «ordenación natural» (D‑1011), que la sublimación de la naturaleza humana al consorcio divino fuese debida y no sobrenatural (D‑1021), que la doctrina del don sobrenatural sobreañadido sea tildada de ficción pelagiana (D‑1023–D‑1024), que la integridad fuese condición natural (D‑1026), que la inmortalidad no fuese beneficio de la gracia (D‑1078), y que fuese falsa la sentencia de que el hombre pudo ser creado sin la justicia natural (D‑1079). Bayo redujo además la justificación a la mera obediencia externa negando el papel de la gracia habitual infundida (D‑1042, D‑1069).
+
+- [D‑1001–D‑1082]
+
+**Paulo V** (1607, D‑1090), tras nueve años de disputas sobre los auxilios de la gracia entre dominicos (predeterminación física, eficacia intrínseca) y jesuitas (ciencia media, gracia congruista), impuso silencio y prohibió severamente que al tratar esta cuestión nadie calificara a la parte opuesta con censura alguna. Mandó que se abstuvieran de palabras ásperas. Posteriormente (1611) prohibió imprimir libros sobre los auxilios sin previa presentación a la Santa Inquisición; Urbano VIII (1625, 1641) reiteró esta prohibición bajo penas de privación de enseñar y predicar, pérdida de voz activa y pasiva, y excomunión. El decreto no resolvió la controversia dogmáticamente, sino que impuso paz disciplinar dejando las escuelas en libertad de opinión. Benedicto XIV (1748) confirmó que la sentencia tomista no fue nunca reprobada por la Sede Apostólica y que no es lícito remover a los tomistas de su sentir.
+
+**Inocencio X** (1653, D‑1092–D‑1097) — Condena de las cinco proposiciones de [[cornelio_jansenio]] sobre la gracia en la Constitución *Cum occasione*:
+
+- D‑1092 (1ª): «Algunos mandamientos de Dios son imposibles para los hombres justos, según las fuerzas presentes que tienen, por más que quieran y se esfuercen; les falta también la gracia con que se les hagan posibles». Condenada como temeraria, impía, blasfema y herética. La Iglesia define que Dios no manda imposibles (D‑804, Trento).
+- D‑1093 (2ª): «En el estado de naturaleza caída, no se resiste nunca a la gracia interior». Condenada como herética. La gracia interior puede ser resistida por el libre albedrío.
+- D‑1094 (3ª): «Para merecer y desmerecer en el estado de la naturaleza caída, no se requiere en el hombre la libertad de necesidad, sino que basta la libertad de coacción». Condenada como herética. La libertad de indiferencia o de necesidad es esencial al mérito.
+- D‑1095 (4ª): «Los semipelagianos admitían la necesidad de la gracia preveniente interior para cada uno de los actos, aun para iniciarse en la fe; y eran herejes porque querían que aquella gracia fuera tal, que la humana voluntad pudiera resistirla u obedecerla». Condenada como falsa y herética, porque implica que admitir la resistencia a la gracia es semipelagianismo.
+- D‑1096 (5ª): «Es semipelagiano decir que Cristo murió o que derramó su sangre por todos los hombres absolutamente». Condenada como falsa, temeraria, escandalosa y, entendida como que Cristo murió solo por los predestinados, herética. La Iglesia afirma la voluntad salvífica universal y que Cristo murió por todos (D‑806, Trento).
+
+**Inocencio X** (1654, D‑1097) — Decreto sobre los auxilios: declaró que ningún crédito debe darse a los asertos, actas y manuscritos de la Congregación de Auxiliis ni a la supuesta Constitución de Paulo V, y que deben observarse los decretos de Paulo V y Urbano VIII. Reiteró la paz disciplinar dejando sin definición dogmática la controversia entre las escuelas.
 
 ## Distinciones importantes
 

@@ -9,7 +9,7 @@ description: El pecado original es el pecado cometido por nuestros primeros padr
 # Pecado original
 
 > Área: Dogmática
-> Última actualización: 2026-06-11
+> Última actualización: 2026-06-26
 
 ## Definición
 
@@ -144,6 +144,24 @@ Juan Pablo II señala que la realidad del pecado original es rechazada por el pe
 ### Según el Enchiridion Symbolorum (Denzinger)
 
 El **II Concilio de Orange** (529) definió el pecado original contra los semipelagianos. El canon 1 (D-174) enseña que por el pecado de Adán «fue mudado a peor» todo el hombre, según el cuerpo y el alma, quedando la libertad del alma herida. El canon 2 (D-175) afirma que la prevaricación de Adán dañó no solo a él sino también a su descendencia: el pecado pasó a todo el género humano, y no solo la muerte corporal sino el pecado mismo como muerte del alma. Esta doctrina sigue a San Agustín y complementa la definición del Concilio de Arles (475, D-160a) sobre la transmisión del pecado original.
+
+**Benedicto XII** (1341), Memorial *Iam dudum*: condenó el error de los armenios que negaban el pecado original en los niños, diciendo que «los niños no tienen absolutamente ningún pecado original, ni antes ni después de la pasión de Cristo» (D-532). Afirmaron que Cristo, en su pasión, «borró totalmente el pecado de los primeros padres», de modo que los niños que nacen no están destinados a condenación por el pecado de Adán (D-532). También sostenían que «Cristo se encarnó y padeció por la salvación de los hombres, no porque los hijos propagados de Adán... contraigan el pecado original» (D-536). Benedicto XII rechazó estas proposiciones, afirmando la doctrina católica de la transmisión del pecado original a todos los descendientes de Adán.
+
+**León X** (1520), Bula *Exsurge Domine* — Condena de los errores de Lutero sobre el pecado original: Lutero afirmó que «decir que en el niño después del bautismo no permanece el pecado, es conculcar juntamente a Pablo y a Cristo» (D-742 — condenado). Sostuvo que «el incentivo del pecado [fomes peccati], aun cuando no exista pecado alguno actual, retarda al alma que sale del cuerpo la entrada en el cielo» (D-743 — condenado). Estas proposiciones fueron condenadas por negar que el bautismo borra totalmente el pecado original en cuanto a la culpa, y por atribuir al *fomes peccati* —que en el bautizado no es pecado sino inclinación— el poder de impedir la entrada al cielo.
+
+El **Concilio de Trento** (Sesión V, D-787-D-792) definió 5 cánones sobre el pecado original: (1) Adán perdió la santidad y justicia originales e incurrió en la muerte y esclavitud del diablo (D-788); (2) el pecado de Adán se transmite a toda su descendencia no por imitación sino por propagación (D-789); (3) este pecado no se quita sino por el mérito del único Mediador, Jesucristo, aplicado por el bautismo (D-790); (4) los niños han de ser bautizados para la remisión del pecado original (D-791); (5) el bautismo remite todo el reato del pecado original, aunque permanece la concupiscencia (*fomes*) para el combate (D-792).
+
+- [D-787-D-792]
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+Miguel Bayo sostuvo errores sobre el pecado original condenados por Pío V (D‑1046–D‑1055, D‑1073):
+
+- D‑1046–D‑1048: Lo voluntario no pertenece a la esencia del pecado; el pecado original tiene naturaleza de pecado sin relación a la voluntad; es voluntario por la «voluntad habitual» del niño.
+- D‑1049: El niño que muere sin regeneración, al adquirir el uso de razón, odiaría y blasfemaría de Dios actualmente.
+- D‑1052–D‑1053: Todo crimen puede inficionar a los descendientes como la primera transgresión; los que nacen con vicios menores contraen tanto desmérito como los que nacen con mayores.
+- D‑1055: Dios no hubiera podido crear al hombre desde el principio tal como ahora nace.
+- D‑1073: Nadie fuera de Cristo está sin pecado original; por tanto, la Virgen María murió a causa del pecado contraído de Adán.
 
 ## Distinciones importantes
 

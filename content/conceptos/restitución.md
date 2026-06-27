@@ -62,6 +62,12 @@ La restitución debe hacerse inmediatamente. Retener lo ajeno contra la voluntad
 
 La restitución pertenece a la justicia conmutativa como acto que restablece la igualdad (q.62 a.1). Es necesaria para la salvación (a.2). La obligación de restituir alcanza no solo al que sustrajo, sino a todos los que cooperaron causalmente al daño injusto (a.7). La demora en la restitución es ya pecado de injusta retención (a.8).
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Inocencio XI** (1679, D‑1188) condenó la proposición: «No está uno obligado bajo pena de pecado mortal a restituir lo que quitó por medio de robos pequeños, por grande que sea la suma total.» Condenada como escandalosa. La condena reafirma la obligación de restituir cuando la suma total de hurtos pequeños constituye una cantidad grave, principio fundamental de la justicia conmutativa.
+
+**Inocencio XI** (1679, D‑1189) condenó la proposición: «El que mueve o induce a otro a inferir un grave daño a un tercero, no está obligado a la reparación de este daño inferido.» Condenada como escandalosa. La condena reafirma la doctrina tomista de que todos los que cooperan causalmente al daño injusto (mandato, consejo, ayuda) están obligados a restitución.
+
 ## Distinciones importantes
 
 - **Restitución vs. donación**: la restitución devuelve lo debido; la donación da de lo propio sin deuda

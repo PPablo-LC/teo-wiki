@@ -9,7 +9,7 @@ description: La indulgencia es la remisión ante Dios de la pena temporal debida
 # Indulgencias
 
 > Área: Sacramental
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-26
 
 ## Definición
 
@@ -68,6 +68,27 @@ El CIC regula las indulgencias en los cánones 992-997, dentro del título del s
 Royo Marín menciona las indulgencias dentro del contexto de los medios de santificación. La Iglesia, por el poder de las llaves, puede aplicar los méritos del tesoro de la Iglesia para remitir las penas temporales. Las indulgencias son un medio excelente para la santificación personal y para el socorro de las almas del purgatorio.
 
 [TPCr, Parte III, Libro II, Cap. I — Los Sacramentos]
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Bonifacio VIII** (1300), Bula *Antiquorum habet*: «La fiel relación de los antiguos nos cuenta que a quienes se acercaban a la honorable basílica del príncipe de los Apóstoles, les fueron concedidos grandes perdones e indulgencias de sus pecados. Nos... teniendo por ratificados y gratos todos y cada uno de esos perdones e indulgencias, por autoridad apostólica los confirmamos y aprobamos» (D-467). Este texto instituye el primer Año Jubilar y constituye un testimonio temprano de la práctica de las indulgencias.
+
+**Clemente VI** (1343), Bula *Unigenitus Dei Filius*: «El unigénito Hijo de Dios... no nos redimió con oro y plata corruptibles, sino con su preciosa sangre... adquirió un tesoro para la Iglesia militante... un tesoro infinito para los hombres» (D-550). Este tesoro fue encomendado a San Pedro y sus sucesores para ser dispensado a los fieles arrepentidos y confesados «para la total, ya para la parcial remisión de la pena temporal debida por los pecados» (D-551). Contribuyen a este tesoro los méritos de la Virgen María y de todos los santos (D-552). Esta bula constituye la definición dogmática del tesoro de la Iglesia, fundamento teológico de las indulgencias.
+
+**Sixto IV** (1476), Bula para la Iglesia de San Pedro de Saintes: Primer testimonio magisterial de la indulgencia aplicable a los difuntos. Sixto IV concedió indulgencia plenaria aprovechable por las almas del purgatorio «por modo de sufragio», fundándose en el tesoro de la Iglesia, en la misericordia divina y en la plenitud de la potestad pontificia (D-723a). Esta concesión estableció que la indulgencia no absuelve directamente a las almas (como hace con los vivos por modo de absolución), sino que les aplica los méritos del tesoro de la Iglesia por intercesión y sufragio.
+
+**León X** (1518), Bula *Cum postquam* al cardenal Cayetano: Exposición de la doctrina católica sobre las indulgencias. El Romano Pontífice, sucesor de Pedro y Vicario de Cristo, tiene el poder de las llaves para conceder indulgencias a los fieles de Cristo —tanto vivos como difuntos— aplicando el tesoro de los méritos de Cristo y de los santos. La indulgencia se concede a los vivos por modo de absolución y a los difuntos por modo de sufragio. Todos los que verdaderamente ganan estas indulgencias quedan libres de tanta pena temporal cuanta equivale a la indulgencia concedida y ganada (D-740a-740b).
+
+**León X** (1520), Condena de los errores de Lutero sobre las indulgencias: Lutero negó que los tesoros de la Iglesia sean los méritos de Cristo y de los santos (D-757), llamó a las indulgencias «piadosos engaños de los fieles» (D-758), negó que sirvan para la remisión de la pena temporal (D-759), afirmó que se engañan quienes las creen saludables (D-760), que solo son necesarias para crímenes públicos (D-761) y que a seis géneros de hombres no son necesarias (D-762). Todos estos errores fueron condenados como heréticos por León X.
+
+**Concilio de Trento** (Sesión XXV, D-989) enseñó que la potestad de conferir indulgencias fue concedida por Cristo a su Iglesia y que ella ha usado desde los más antiguos tiempos de ese poder. Mandó que se mantenga en la Iglesia el uso de las indulgencias, sobremanera saludable al pueblo cristiano, y condenó con anatema a quienes afirman que son inútiles o niegan que exista en la Iglesia potestad de concederlas.
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+Pío V condenó los errores de Bayo sobre las indulgencias (D‑1059–D‑1060):
+
+- D‑1059: Cuando satisfacemos por las penas temporales, no ofrecemos a Dios un precio digno por nuestros pecados (pues en otro caso seríamos en parte redentores), sino que hacemos algo por cuyo miramiento se nos aplica la satisfacción de Cristo.
+- D‑1060: Por los sufrimientos de los Santos comunicados en las indulgencias, propiamente no se redimen nuestras culpas, sino que por la comunión de la caridad se nos distribuyen sus sufrimientos para que, por el precio de la sangre de Cristo, seamos librados de las penas debidas.
 
 ## Distinciones importantes
 

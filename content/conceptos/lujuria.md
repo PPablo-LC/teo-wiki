@@ -76,6 +76,12 @@ El orden de gravedad, de menor a mayor, es: fornicación, estupro, adulterio, in
 
 En los artículos 2 a 12, Santo Tomás examina con detalle cada especie, sus circunstancias agravantes y atenuantes, y su relación con los mandamientos y la ley natural.
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Alejandro VII** (1666, D‑1124) condenó la proposición laxista: «La masturbación, la sodomía y la bestialidad son pecados de la misma especie ínfima, y por tanto basta decir en la confesión que se procuró la polución.» Condenada como escandalosa. La condena reafirma que son pecados de especies distintas, conforme a la enseñanza de Santo Tomás (II-II q.154) que distingue la masturbación, la sodomía y la bestialidad como vicios contra natura específicamente distintos.
+
+**Alejandro VII** (1666, D‑1140) condenó la proposición: «El acto de besarse, abrazarse y tocarse, cuando procede de un afecto amatorio y de una mutua complacencia, no sale de los límites de un pecado venial...» Condenada como falsa. La condena confirma la doctrina tomista de que la complacencia en la delectación venérea constituye materia grave.
+
 ## Distinciones importantes
 
 - **Lujuria (vicio capital)** vs. **pecados contra la castidad**: la lujuria es el vicio capital del que brotan diversas especies de pecados

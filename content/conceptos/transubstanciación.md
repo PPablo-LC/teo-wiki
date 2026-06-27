@@ -55,6 +55,17 @@ Santo Tomás dedica la cuestión 75 al estudio de la transubstanciación.
 
 **La forma de las palabras (Q75 a.8):** La proposición «Esto es mi Cuerpo» es verdadera porque el pronombre «esto» se refiere a la sustancia que, antes de la consagración, era pan y después es el Cuerpo de Cristo. Las palabras no presuponen la realidad significada sino que la realizan.
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Concilio de Constanza**, Condena de Juan Wicleff (D-581-582): Error de Wicleff que la sustancia del pan material permanece en el sacramento del altar, negando la transustanciación.
+
+**Martín V**, Bula *Inter cunctas* (D-666-667): Preguntas 16-17: si se cree que después de la consagración no hay pan material y vino material, sino Cristo todo entero; y que bajo la sola especie de pan está la verdadera carne de Cristo, su sangre, alma y divinidad y todo Cristo.
+
+**Concilio de Trento** (Sesión XIII, D-877, D-884, Can. 2): definió que por la consagración se realiza «la conversión de toda la sustancia del pan en la sustancia del cuerpo de Cristo Señor nuestro, y de toda la sustancia del vino en la sustancia de su sangre», conversión que «propia y convenientemente fue llamada transustanciación por la santa Iglesia Católica» (D-877). El canon 2 condena a quienes niegan esta maravillosa y singular conversión o afirman que permanece la sustancia del pan y del vino juntamente con el cuerpo y la sangre (D-884).
+
+- [D-877]
+- [D-884]
+
 ## Distinciones importantes
 
 - **Transubstanciación** ≠ **consustanciación**: la transubstanciación implica cambio de substancia; la consustanciación (tesis luterana) afirma la coexistencia de las substancias del pan y del Cuerpo de Cristo.

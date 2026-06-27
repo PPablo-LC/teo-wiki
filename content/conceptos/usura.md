@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Usura
 tags: ["moral"]
 
-timestamp: 2026-06-09
+timestamp: 2026-06-27
 description: "La usura es el pecado contra la [[virtud_de_la_justicia]] que consiste en recibir un interés por el préstamo de dinero o bienes fungibles, exigiendo el pago de algo que excede el capital prestado."
 ---
 # Usura
 
 > Área: Moral
-> Última actualización: 2026-06-09
+> Última actualización: 2026-06-27
 
 ## Definición
 
@@ -44,6 +44,12 @@ CEC §2269: «La usura, que exige un interés excesivo, es contraria a la justic
 
 El Papa **Urbano III** (D-403) enseñó que quien presta dinero con la intención de recibir más del capital, aun sin pacto previo, obra mal y debe restituir, pues «toda usura y sobreabundancia está prohibida» (Lc 6,35). **Inocencio III** (D-427) afirmó que los diezmos, primicias y oblaciones deben pagarse a los clérigos por precepto del Señor. **Gregorio IX** (D-448) precisó que quien presta a un navegante o a quien va a la feria, por exponerse al peligro, no ha de ser tenido por usurero si recibe algo más del capital, pues hay duda razonable sobre el valor futuro.
 
+El **Concilio de Vienne** (1311-1312), bajo Clemente V, en su Constitución *Ex gravi ad nos* (D-479), estableció la más grave sanción contra la herejía usuararia: «Si alguno cayere en el error de pretender afirmar pertinazmente que ejercer las usuras no es pecado, decretamos que sea castigado como hereje». Con esta definición, el concilio elevó la condena de la usura al nivel de dogma de fe: negar la malicia intrínseca de la usura pasó a ser materia de herejía formal.
+
+**Nicolás V** (1455, D-716), Constitución *Regimini universalis*: declaró lícitos los contratos de censo sobre bienes raíces (casas, campos, predios), en los que el vendedor recibe un precio en dinero contado a cambio de réditos o censos anuales, con la condición de que el vendedor pueda redimir el censo restituyendo el dinero recibido. Afirmó que tales contratos «son lícitos y conformes al derecho» y no deben ser considerados usurarios, aclarando la duda de ambigüedad que existía en algunas regiones.
+
+El **V Concilio de Letrán** (1515), Bula *Inter multiplices* (Sesión X): Declaró y definió que los Montes de piedad, en los que se cobra un interés moderado únicamente para los gastos de administración y conservación —«solo en razón de su indemnidad, sin ningún lucro por parte de los mismos Montes»—, no presentan apariencia alguna de mal ni ofrecen incentivo para pecar, antes bien «ese préstamo es meritorio y debe ser alabado y aprobado y en modo alguno ser tenido por usurario» (D-739). Esta definición estableció que el interés cobrado para cubrir gastos reales de administración, sin ánimo de lucro, no constituye usura.
+
 ### Según Royo Marín (TPCr)
 
 TPCr trata la usura como pecado contra la justicia conmutativa. La usura es intrínsecamente mala y no puede ser justificada por convención humana. Sin embargo, se admiten los títulos extrínsecos que compensan pérdidas reales. La restitución es obligatoria.
@@ -54,6 +60,19 @@ TPCr trata la usura como pecado contra la justicia conmutativa. La usura es intr
 - **Interés legítimo**: compensación por daño emergente o lucro cesante (no es usura si es moderado)
 - **Comercio**: ganancia por industria y riesgo del vendedor (no es usura)
 - **Inversión**: participación en ganancias con riesgo compartido (no es usura)
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+Pío V, en la constitución *In eam pro nostro* (1571), condenó las permutaciones usurarias (D‑1081–D‑1082):
+
+- D‑1081: Los cambios fingidos (préstamos simulados con interés encubierto) son condenados como usurarios.
+- D‑1082: Los cambios reales en que se difiere el plazo de pago con lucro, por tácito o expreso convenio, son también usurarios.
+
+**Inocencio XI** (1679, D‑1190–D‑1192) condenó tres proposiciones laxistas sobre la usura:
+
+- D‑1190: «El contrato de mohatra es lícito, aun respecto de la misma persona y con contrato de retrovendición previamente celebrado con intención de lucro.» El mohatra (venta simulada a crédito con recompra en efectivo) encubre un préstamo usurario.
+- D‑1191: «Como quiera que el dinero al contado vale más que el por pagar y nadie hay que no aprecie más el dinero presente que el futuro, puede el acreedor exigir algo al mutuatario, aparte del capital, y con ese título excusarse de usura.» Condenada como laxista: la diferencia de valor entre dinero presente y futuro no es por sí sola título suficiente para exigir interés.
+- D‑1192: «No es usura exigir algo aparte del capital como debido por benevolencia y gratitud; sino solamente si se exige como debido por justicia.» Condenada como laxista, pues la gratitud no puede ser título para exigir jurídicamente un interés.
 
 ## Relaciones doctrinales
 
