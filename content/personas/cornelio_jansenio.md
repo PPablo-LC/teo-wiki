@@ -1,7 +1,7 @@
 ---
 type: Persona
 title: Cornelio Jansenio
-description: Teólogo y obispo de Ypres (1585-1638), autor del Augustinus, obra póstuma cuyas cinco proposiciones sobre la gracia y la libertad fueron condenadas como heréticas por Inocencio X (1653).
+description: "Teólogo y obispo de Ypres (1585-1638), autor del Augustinus, obra póstuma cuyas cinco proposiciones sobre la gracia y la libertad fueron condenadas como heréticas por Inocencio X (1653)."
 tags: ["teólogos", "historia_—_herejías", "personajes_históricos"]
 timestamp: 2026-06-27
 ---

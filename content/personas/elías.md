@@ -4,7 +4,7 @@ title: Elías
 tags: ["bíblica_(personajes)"]
 
 timestamp: 2026-06-19
-description: Profeta del reino del Norte (siglo IX a.C.) cuyo nombre (Eliyyahu) significa «Yahveh es mi Dios».
+description: "Profeta del reino del Norte (siglo IX a.C.) cuyo nombre (Eliyyahu) significa «Yahveh es mi Dios»."
 ---
 # Elías
 

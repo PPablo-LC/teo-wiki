@@ -4,7 +4,7 @@ title: Discípulo
 tags: ["eclesiología"]
 
 timestamp: 2026-06-02
-description: El discípulo es quien se pone voluntariamente bajo la dirección de un maestro, compartiendo sus ideas y su vida.
+description: "El discípulo es quien se pone voluntariamente bajo la dirección de un maestro, compartiendo sus ideas y su vida."
 ---
 # Discípulo
 

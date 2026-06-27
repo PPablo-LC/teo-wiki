@@ -4,7 +4,7 @@ title: Colegio apostólico
 tags: ["eclesiología"]
 
 timestamp: 2026-05-26
-description: El Colegio Apostólico es el grupo estable de los Doce Apóstoles instituido por Cristo, presidido por Pedro.
+description: "El Colegio Apostólico es el grupo estable de los Doce Apóstoles instituido por Cristo, presidido por Pedro."
 ---
 # Colegio apostólico
 

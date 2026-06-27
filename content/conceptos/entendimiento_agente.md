@@ -4,7 +4,7 @@ title: Entendimiento agente
 tags: ["antropología"]
 
 timestamp: 2026-06-04
-description: En la psicología aristotélico-tomista.
+description: "En la psicología aristotélico-tomista."
 ---
 # Entendimiento agente
 

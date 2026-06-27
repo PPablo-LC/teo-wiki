@@ -4,7 +4,7 @@ title: Satisfacción
 tags: ["dogmática", "sacramental"]
 
 timestamp: 2026-06-12
-description: La satisfacción es la reparación del daño causado por el pecado, ya sea ante Dios (satisfacción vicaria de Cristo o satisfacción sacramental del penitente) o ante el prójimo (restitución).
+description: "La satisfacción es la reparación del daño causado por el pecado, ya sea ante Dios (satisfacción vicaria de Cristo o satisfacción sacramental del penitente) o ante el prójimo (restitución)."
 ---
 # Satisfacción
 

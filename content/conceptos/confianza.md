@@ -4,7 +4,7 @@ title: Confianza
 tags: ["teología_bíblica", "moral"]
 
 timestamp: 2026-06-19
-description: La confianza es una actitud fundamental del creyente que, reconociendo la omnipotencia y misericordia de Dios, se abandona en Él con fe humilde y certeza filial.
+description: "La confianza es una actitud fundamental del creyente que, reconociendo la omnipotencia y misericordia de Dios, se abandona en Él con fe humilde y certeza filial."
 ---
 # Confianza
 

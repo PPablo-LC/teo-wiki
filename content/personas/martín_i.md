@@ -4,7 +4,7 @@ title: San Martín I
 tags: ["historia_—_papado", "mártires"]
 
 timestamp: 2026-06-25
-description: Martín I fue elegido papa sin esperar la confirmación imperial, en un momento en que el monotelismo contaba con apoyo del emperador Constante II.
+description: "Martín I fue elegido papa sin esperar la confirmación imperial, en un momento en que el monotelismo contaba con apoyo del emperador Constante II."
 ---
 # San Martín I
 

@@ -4,7 +4,7 @@ title: Catecumenado
 tags: ["iniciación_cristiana", "liturgia"]
 
 timestamp: 2026-05-26
-description: El catecumenado es el período de formación catequética y litúrgica por el que los adultos que desean recibir el bautismo son preparados gradualmente para la iniciación cristiana.
+description: "El catecumenado es el período de formación catequética y litúrgica por el que los adultos que desean recibir el bautismo son preparados gradualmente para la iniciación cristiana."
 ---
 # Catecumenado
 

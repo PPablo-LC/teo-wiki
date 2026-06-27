@@ -4,7 +4,7 @@ title: Negligencia pastoral
 tags: ["derecho_canónico", "moral"]
 
 timestamp: 2026-05-29
-description: La negligencia pastoral es la falta grave de la diligencia que requiere la función pastoral en la protección de los fieles.
+description: "La negligencia pastoral es la falta grave de la diligencia que requiere la función pastoral en la protección de los fieles."
 ---
 # Negligencia pastoral
 

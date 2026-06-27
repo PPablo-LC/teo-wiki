@@ -4,7 +4,7 @@ title: Precipitación
 tags: ["moral"]
 
 timestamp: 2026-06-19
-description: La precipitación es el defecto de la imprudencia que consiste en obrar sin el debido consejo o deliberación.
+description: "La precipitación es el defecto de la imprudencia que consiste en obrar sin el debido consejo o deliberación."
 ---
 # Precipitación
 

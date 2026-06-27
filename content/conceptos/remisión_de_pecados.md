@@ -4,7 +4,7 @@ title: Remisión de pecados
 tags: ["dogmática", "soteriología"]
 
 timestamp: 2026-06-18
-description: La remisión de pecados es el acto divino por el cual Dios perdona el pecado, borrando la culpa y reconciliando al hombre consigo.
+description: "La remisión de pecados es el acto divino por el cual Dios perdona el pecado, borrando la culpa y reconciliando al hombre consigo."
 ---
 # Remisión de pecados
 

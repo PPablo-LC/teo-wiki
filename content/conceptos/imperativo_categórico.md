@@ -4,7 +4,7 @@ title: Imperativo categórico
 tags: ["ética", "filosofía_moral"]
 
 timestamp: 2026-06-18
-description: El imperativo categórico es el principio moral formulado por Immanuel Kant que prescribe obrar únicamente según una máxima que puedas querer que se convierta en ley universal.
+description: "El imperativo categórico es el principio moral formulado por Immanuel Kant que prescribe obrar únicamente según una máxima que puedas querer que se convierta en ley universal."
 ---
 # Imperativo categórico
 

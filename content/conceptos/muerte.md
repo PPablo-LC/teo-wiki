@@ -4,7 +4,7 @@ title: Muerte
 tags: ["escatología", "moral"]
 
 timestamp: 2026-05-22
-description: La muerte es la separación del alma y el cuerpo, fin de la vida terrena del hombre.
+description: "La muerte es la separación del alma y el cuerpo, fin de la vida terrena del hombre."
 ---
 # Muerte
 

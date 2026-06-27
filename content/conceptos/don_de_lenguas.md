@@ -4,7 +4,7 @@ title: Don de lenguas
 tags: ["dogmática", "carismática"]
 
 timestamp: 2026-06-12
-description: Gracia gratis dada por el Espíritu Santo que capacita a un fiel para hablar en lenguas que no ha aprendido naturalmente, con el fin de predicar el Evangelio a todas las naciones.
+description: "Gracia gratis dada por el Espíritu Santo que capacita a un fiel para hablar en lenguas que no ha aprendido naturalmente, con el fin de predicar el Evangelio a todas las naciones."
 ---
 # Don de lenguas
 

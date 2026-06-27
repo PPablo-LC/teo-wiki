@@ -4,7 +4,7 @@ title: San Simplicio (Papa)
 tags: ["patrística_—_papas"]
 
 timestamp: 2026-06-25
-description: San Simplicio fue Papa de la Iglesia Católica desde 468 hasta 483.
+description: "San Simplicio fue Papa de la Iglesia Católica desde 468 hasta 483."
 ---
 # San Simplicio (Papa)
 

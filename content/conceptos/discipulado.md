@@ -4,7 +4,7 @@ title: Discipulado
 tags: ["eclesiología", "moral"]
 
 timestamp: 2026-06-03
-description: El discipulado es la condición del cristiano que sigue a Cristo como su Maestro y Señor, asumiendo su doctrina, imitando su vida y participando de su misión.
+description: "El discipulado es la condición del cristiano que sigue a Cristo como su Maestro y Señor, asumiendo su doctrina, imitando su vida y participando de su misión."
 ---
 # Discipulado
 

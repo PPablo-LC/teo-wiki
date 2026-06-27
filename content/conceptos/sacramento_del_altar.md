@@ -4,7 +4,7 @@ title: Sacramento del Altar
 tags: ["sacramental"]
 
 timestamp: 2026-05-26
-description: Nombre tradicional de la sagrada Eucaristía, que designa el sacramento y sacrificio del Cuerpo y Sangre de Jesucristo celebrado en el altar, bajo las especies de pan y vino.
+description: "Nombre tradicional de la sagrada Eucaristía, que designa el sacramento y sacrificio del Cuerpo y Sangre de Jesucristo celebrado en el altar, bajo las especies de pan y vino."
 ---
 # Sacramento del Altar
 

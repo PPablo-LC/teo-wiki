@@ -4,7 +4,7 @@ title: Delito
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-29
-description: En el derecho canónico, el delito es la violación externa de una ley o precepto canónico que resulte gravemente imputable al sujeto por dolo o culpa.
+description: "En el derecho canónico, el delito es la violación externa de una ley o precepto canónico que resulte gravemente imputable al sujeto por dolo o culpa."
 ---
 # Delito
 

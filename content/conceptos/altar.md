@@ -4,7 +4,7 @@ title: Altar
 tags: ["liturgia", "derecho_canónico"]
 
 timestamp: 2026-06-02
-description: El altar es la mesa del sacrificio eucarístico, centro y punto de convergencia de la asamblea litúrgica, sobre el cual se renueva incruentamente el sacrificio de Cristo.
+description: "El altar es la mesa del sacrificio eucarístico, centro y punto de convergencia de la asamblea litúrgica, sobre el cual se renueva incruentamente el sacrificio de Cristo."
 ---
 # Altar
 

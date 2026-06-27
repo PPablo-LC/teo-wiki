@@ -4,7 +4,7 @@ title: San Cesáreo de Arlés
 tags: ["patrística_—_padres_de_la_iglesia"]
 
 timestamp: 2026-06-25
-description: San Cesáreo de Arlés (ca. 470–543) fue obispo de Arlés desde 502 hasta su muerte. Fue discípulo de San Agustín y figura central en la lucha contra el semipelagianismo en la Galia.
+description: "San Cesáreo de Arlés (ca. 470–543) fue obispo de Arlés desde 502 hasta su muerte. Fue discípulo de San Agustín y figura central en la lucha contra el semipelagianismo en la Galia."
 ---
 # San Cesáreo de Arlés
 

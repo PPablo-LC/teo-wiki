@@ -4,7 +4,7 @@ title: Liturgia de las horas
 tags: ["liturgia"]
 
 timestamp: 2026-05-26
-description: La liturgia de las horas, también llamada oficio divino, es la oración pública y comunitaria de la Iglesia por la que se alaba a Dios sin cesar con el canto y la oración.
+description: "La liturgia de las horas, también llamada oficio divino, es la oración pública y comunitaria de la Iglesia por la que se alaba a Dios sin cesar con el canto y la oración."
 ---
 # Liturgia de las horas
 

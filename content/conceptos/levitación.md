@@ -4,7 +4,7 @@ title: Levitación
 tags: ["mística"]
 
 timestamp: 2026-05-20
-description: Elevación espontánea, mantenimiento o desplazamiento en el aire del cuerpo humano sin apoyo alguno y sin causa natural visible. Por lo regular se verifica estando el paciente en éxtasis.
+description: "Elevación espontánea, mantenimiento o desplazamiento en el aire del cuerpo humano sin apoyo alguno y sin causa natural visible. Por lo regular se verifica estando el paciente en éxtasis."
 ---
 # Levitación
 

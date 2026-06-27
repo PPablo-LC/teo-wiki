@@ -4,7 +4,7 @@ title: Alegría
 tags: ["ascética", "moral"]
 
 timestamp: 2026-05-25
-description: La alegría espiritual es un fruto del Espíritu Santo y un gozo interior que brota de la posesión de Dios y de la conciencia de estar en su gracia.
+description: "La alegría espiritual es un fruto del Espíritu Santo y un gozo interior que brota de la posesión de Dios y de la conciencia de estar en su gracia."
 ---
 # Alegría
 

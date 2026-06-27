@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Masturbación
-description: La masturbación es el acto de excitarse sexualmente a sí mismo, considerado por la Iglesia como un pecado grave contra la castidad por su carácter intrínsecamente desordenado.
+description: "La masturbación es el acto de excitarse sexualmente a sí mismo, considerado por la Iglesia como un pecado grave contra la castidad por su carácter intrínsecamente desordenado."
 tags: ["moral"]
 timestamp: 2026-06-27
 ---

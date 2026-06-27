@@ -4,7 +4,7 @@ title: III Concilio de Constantinopla
 tags: ["dogmática_—_concilios_ecuménicos"]
 
 timestamp: 2026-06-25
-description: El monotelismo, promovido por el patriarca Sergio de Constantinopla y tolerado por el papa Honorio I.
+description: "El monotelismo, promovido por el patriarca Sergio de Constantinopla y tolerado por el papa Honorio I."
 ---
 # III Concilio de Constantinopla
 

@@ -4,7 +4,7 @@ title: Voto de castidad
 tags: ["moral"]
 
 timestamp: 2026-05-25
-description: El voto de castidad es una promesa deliberada y libre hecha a Dios de abstenerse voluntaria y perpetuamente de todo acto venéreo y de toda delectación carnal lícita.
+description: "El voto de castidad es una promesa deliberada y libre hecha a Dios de abstenerse voluntaria y perpetuamente de todo acto venéreo y de toda delectación carnal lícita."
 ---
 # Voto de castidad
 

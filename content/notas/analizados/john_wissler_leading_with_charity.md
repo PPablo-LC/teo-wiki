@@ -2,7 +2,7 @@
 type: Análisis Doctrinal
 title: "John Wissler — Leading with Charity Through Self-Sacrifice: Análisis doctrinal"
 timestamp: 2026-06-03
-description: Conferencia del marine retirado y converso al catolicismo John Wissler en la Catholic Men's Conference 2022.
+description: "Conferencia del marine retirado y converso al catolicismo John Wissler en la Catholic Men's Conference 2022."
 ---
 # John Wissler — Leading with Charity Through Self-Sacrifice: Análisis doctrinal
 

@@ -4,7 +4,7 @@ title: Solemnización progresiva
 tags: ["liturgia"]
 
 timestamp: 2026-06-13
-description: Principio litúrgico por el que se admite una gradación entre la celebración más sencilla y la forma más solemne, según la naturaleza de la fiesta.
+description: "Principio litúrgico por el que se admite una gradación entre la celebración más sencilla y la forma más solemne, según la naturaleza de la fiesta."
 ---
 # Solemnización progresiva
 

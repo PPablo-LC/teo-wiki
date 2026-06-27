@@ -4,7 +4,7 @@ title: Amor a Dios
 tags: ["dogmática", "moral"]
 
 timestamp: 2026-06-23
-description: Virtud teologal de la caridad por la cual se ama a Dios sobre todas las cosas por ser Él infinitamente bueno y digno de amor, y que constituye el primero y más grande mandamiento de la Ley divina.
+description: "Virtud teologal de la caridad por la cual se ama a Dios sobre todas las cosas por ser Él infinitamente bueno y digno de amor, y que constituye el primero y más grande mandamiento de la Ley divina."
 ---
 # Amor a Dios
 

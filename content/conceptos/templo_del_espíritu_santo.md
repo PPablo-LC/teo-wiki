@@ -4,7 +4,7 @@ title: Templo del Espíritu Santo
 tags: ["dogmática", "ascética"]
 
 timestamp: 2026-05-22
-description: La expresión «templo del Espíritu Santo» designa, según la enseñanza de San Pablo, al cristiano en estado de gracia — tanto en su cuerpo como en su alma — como morada de la Santísima Trinidad.
+description: "La expresión «templo del Espíritu Santo» designa, según la enseñanza de San Pablo, al cristiano en estado de gracia — tanto en su cuerpo como en su alma — como morada de la Santísima Trinidad."
 ---
 # Templo del Espíritu Santo
 

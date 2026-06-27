@@ -4,7 +4,7 @@ title: Vid y sarmientos
 tags: ["dogmática", "cristología"]
 
 timestamp: 2026-06-22
-description: Jesucristo es la vid verdadera y los creyentes son los sarmientos que, unidos a Él, producen fruto.
+description: "Jesucristo es la vid verdadera y los creyentes son los sarmientos que, unidos a Él, producen fruto."
 ---
 # Vid y sarmientos
 

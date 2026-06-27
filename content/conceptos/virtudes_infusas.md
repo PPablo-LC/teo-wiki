@@ -4,7 +4,7 @@ title: Virtudes Infusas
 tags: ["moral", "dogmática"]
 
 timestamp: 2026-05-21
-description: Las virtudes infusas son hábitos sobrenaturales infundidos por Dios en el alma junto con la gracia santificante.
+description: "Las virtudes infusas son hábitos sobrenaturales infundidos por Dios en el alma junto con la gracia santificante."
 ---
 # Virtudes Infusas
 

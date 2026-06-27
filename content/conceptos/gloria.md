@@ -4,7 +4,7 @@ title: Gloria
 tags: ["dogmática", "escatología"]
 
 timestamp: 2026-06-16
-description: La gloria (en sentido escatológico) es el estado de bienaventuranza eterna en el cielo, donde el alma —y finalmente también el cuerpo resucitado— goza de la visión beatífica de Dios.
+description: "La gloria (en sentido escatológico) es el estado de bienaventuranza eterna en el cielo, donde el alma —y finalmente también el cuerpo resucitado— goza de la visión beatífica de Dios."
 ---
 # Gloria
 

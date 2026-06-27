@@ -2,7 +2,7 @@
 type: Análisis Doctrinal
 title: "The Frassati Company: Análisis pastoral"
 timestamp: 2026-06-03
-description: Breve vídeo promocional de The Frassati Company, una consultora especializada en liderazgo, coaching ejecutivo y salud organizacional. Se presenta como sponsor de la Catholic Men's Conference 2022.
+description: "Breve vídeo promocional de The Frassati Company, una consultora especializada en liderazgo, coaching ejecutivo y salud organizacional. Se presenta como sponsor de la Catholic Men's Conference 2022."
 ---
 # The Frassati Company: Análisis pastoral
 

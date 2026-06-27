@@ -4,7 +4,7 @@ title: Juez
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-25
-description: El juez eclesiástico es la persona física investida de potestad judicial en la Iglesia, que ejerce la función de juzgar las causas conforme al derecho canónico.
+description: "El juez eclesiástico es la persona física investida de potestad judicial en la Iglesia, que ejerce la función de juzgar las causas conforme al derecho canónico."
 ---
 # Juez
 

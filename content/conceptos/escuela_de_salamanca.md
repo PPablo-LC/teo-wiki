@@ -4,7 +4,7 @@ title: Escuela de Salamanca
 tags: ["moral", "derecho", "historia_de_la_teología"]
 
 timestamp: 2026-06-14
-description: Corriente teológica y jurídica desarrollada en la Universidad de Salamanca durante los siglos XVI y XVII, caracterizada por la aplicación del método tomista a problemas morales, económicos.
+description: "Corriente teológica y jurídica desarrollada en la Universidad de Salamanca durante los siglos XVI y XVII, caracterizada por la aplicación del método tomista a problemas morales, económicos."
 ---
 # Escuela de Salamanca
 

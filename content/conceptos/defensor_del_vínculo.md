@@ -4,7 +4,7 @@ title: Defensor del Vínculo
 tags: ["derecho_canónico"]
 
 timestamp: 2026-06-23
-description: El defensor del vínculo es un oficio eclesiástico en los tribunales de la Iglesia, establecido para las causas de nulidad de la sagrada ordenación o nulidad/disolución del matrimonio.
+description: "El defensor del vínculo es un oficio eclesiástico en los tribunales de la Iglesia, establecido para las causas de nulidad de la sagrada ordenación o nulidad/disolución del matrimonio."
 ---
 # Defensor del Vínculo
 

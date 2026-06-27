@@ -4,7 +4,7 @@ title: Sencillo
 tags: ["moral", "ascética"]
 
 timestamp: 2026-06-02
-description: La sencillez o simplicidad es una virtud del corazón que expresa la rectitud de intención, la transparencia del alma y la unidad interior en la búsqueda de Dios.
+description: "La sencillez o simplicidad es una virtud del corazón que expresa la rectitud de intención, la transparencia del alma y la unidad interior en la búsqueda de Dios."
 ---
 # Sencillo
 

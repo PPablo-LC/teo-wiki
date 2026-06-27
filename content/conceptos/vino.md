@@ -4,7 +4,7 @@ title: Vino
 tags: ["sacramental", "escritura"]
 
 timestamp: 2026-06-02
-description: El vino en la Biblia es don de Dios que alegra el corazón del hombre (Sal 104,15). Es símbolo de bendición mesiánica y de la alegría del Reino.
+description: "El vino en la Biblia es don de Dios que alegra el corazón del hombre (Sal 104,15). Es símbolo de bendición mesiánica y de la alegría del Reino."
 ---
 # Vino
 

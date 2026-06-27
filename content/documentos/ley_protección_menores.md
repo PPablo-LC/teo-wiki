@@ -4,7 +4,7 @@ title: Ley de protección de menores
 tags: ["documentos"]
 
 timestamp: 2026-06-11
-description: Legislación vaticana que define ámbito de aplicación, equiparación de persona vulnerable al menor, prescripción a 20 años desde la mayoría de edad de la víctima.
+description: "Legislación vaticana que define ámbito de aplicación, equiparación de persona vulnerable al menor, prescripción a 20 años desde la mayoría de edad de la víctima."
 ---
 # Ley de protección de menores
 

@@ -4,7 +4,7 @@ title: Camino
 tags: ["dogmática_(moral", "cristología)"]
 
 timestamp: 2026-06-02
-description: El camino es una categoría central de la revelación bíblica.
+description: "El camino es una categoría central de la revelación bíblica."
 ---
 # Camino
 

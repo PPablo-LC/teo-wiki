@@ -4,7 +4,7 @@ title: Envidia
 tags: ["moral"]
 
 timestamp: 2026-06-10
-description: La envidia es un pecado capital que consiste en la tristeza experimentada ante el bien del prójimo y el deseo desordenado de poseerlo, incluso de forma indebida.
+description: "La envidia es un pecado capital que consiste en la tristeza experimentada ante el bien del prójimo y el deseo desordenado de poseerlo, incluso de forma indebida."
 ---
 # Envidia
 

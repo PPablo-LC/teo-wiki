@@ -4,7 +4,7 @@ title: Paternidad sacerdotal
 tags: ["espiritualidad", "sacerdocio"]
 
 timestamp: 2026-06-12
-description: La paternidad sacerdotal es el don y la misión recibida por el presbítero, en virtud de su configuración con Cristo, de engendrar y acompañar espiritualmente a los fieles como un padre que engendra.
+description: "La paternidad sacerdotal es el don y la misión recibida por el presbítero, en virtud de su configuración con Cristo, de engendrar y acompañar espiritualmente a los fieles como un padre que engendra."
 ---
 # Paternidad sacerdotal
 

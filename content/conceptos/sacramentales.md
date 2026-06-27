@@ -4,7 +4,7 @@ title: Sacramentales
 tags: ["sacramental"]
 
 timestamp: 2026-05-22
-description: Los sacramentales son signos sagrados instituidos por la Iglesia, por los cuales, a imitación de los sacramentos.
+description: "Los sacramentales son signos sagrados instituidos por la Iglesia, por los cuales, a imitación de los sacramentos."
 ---
 # Sacramentales
 

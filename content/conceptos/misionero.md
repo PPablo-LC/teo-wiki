@@ -4,7 +4,7 @@ title: Misionero
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-26
-description: El misionero es el fiel enviado por la autoridad eclesiástica competente para realizar la obra misional de la Iglesia, es decir.
+description: "El misionero es el fiel enviado por la autoridad eclesiástica competente para realizar la obra misional de la Iglesia, es decir."
 ---
 # Misionero
 

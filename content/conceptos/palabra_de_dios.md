@@ -4,7 +4,7 @@ title: Palabra de Dios
 tags: ["dogmática", "teología_fundamental"]
 
 timestamp: 2026-05-26
-description: La Palabra de Dios es la comunicación de Dios mismo y de su designio salvífico a los hombres, que se expresa de modo supremo en Jesucristo, el Verbo encarnado.
+description: "La Palabra de Dios es la comunicación de Dios mismo y de su designio salvífico a los hombres, que se expresa de modo supremo en Jesucristo, el Verbo encarnado."
 ---
 # Palabra de Dios
 

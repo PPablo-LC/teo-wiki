@@ -4,7 +4,7 @@ title: Nuevo Testamento
 tags: ["dogmática", "sagrada_escritura"]
 
 timestamp: 2026-05-26
-description: Conjunto de los veintisiete libros inspirados que constituyen la segunda parte del canon de la Sagrada Escritura, cuyo objeto central es Jesucristo, el Hijo de Dios encarnado, su vida, doctrina.
+description: "Conjunto de los veintisiete libros inspirados que constituyen la segunda parte del canon de la Sagrada Escritura, cuyo objeto central es Jesucristo, el Hijo de Dios encarnado, su vida, doctrina."
 ---
 # Nuevo Testamento
 

@@ -4,7 +4,7 @@ title: Semana social
 tags: ["teología_pastoral", "doctrina_social"]
 
 timestamp: 2026-06-19
-description: Las Semanas Sociales son instituciones formativas de los católicos que constituyen un taller cultural para el estudio de los problemas emergentes.
+description: "Las Semanas Sociales son instituciones formativas de los católicos que constituyen un taller cultural para el estudio de los problemas emergentes."
 ---
 # Semana social
 

@@ -4,7 +4,7 @@ title: Esperanza cristiana
 tags: ["teología_moral", "escatología"]
 
 timestamp: 2026-06-18
-description: La esperanza cristiana es la virtud teologal por la que el cristiano espera la vida eterna y los medios para alcanzarla, confiando en la fidelidad de Dios a sus promesas.
+description: "La esperanza cristiana es la virtud teologal por la que el cristiano espera la vida eterna y los medios para alcanzarla, confiando en la fidelidad de Dios a sus promesas."
 ---
 # Esperanza cristiana
 

@@ -4,7 +4,7 @@ title: Ciudadanía
 tags: ["doctrina_social"]
 
 timestamp: 2026-05-25
-description: Condición de la persona como miembro de una comunidad política, titular de derechos y deberes cívicos.
+description: "Condición de la persona como miembro de una comunidad política, titular de derechos y deberes cívicos."
 ---
 # Ciudadanía
 

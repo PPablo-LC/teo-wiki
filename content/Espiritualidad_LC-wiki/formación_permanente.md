@@ -4,7 +4,7 @@ title: Formación permanente
 tags: ["ascética", "formación"]
 
 timestamp: 2026-06-14
-description: La formación permanente es el compromiso de formación que comprende la vida entera de todos los miembros de la Congregación, sin reducirse al periodo inicial.
+description: "La formación permanente es el compromiso de formación que comprende la vida entera de todos los miembros de la Congregación, sin reducirse al periodo inicial."
 ---
 # Formación permanente
 

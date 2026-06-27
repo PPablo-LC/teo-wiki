@@ -4,7 +4,7 @@ title: Confesor
 tags: ["sacramental"]
 
 timestamp: 2026-05-25
-description: El confesor es el sacerdote legítimamente aprobado que administra el sacramento de la penitencia, oyendo las confesiones de los fieles e impartiendo la absolución sacramental.
+description: "El confesor es el sacerdote legítimamente aprobado que administra el sacramento de la penitencia, oyendo las confesiones de los fieles e impartiendo la absolución sacramental."
 ---
 # Confesor
 

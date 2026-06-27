@@ -4,7 +4,7 @@ title: Hipócrita
 tags: ["moral"]
 
 timestamp: 2026-06-02
-description: Persona cuya conducta externa no expresa los pensamientos del corazón, particularmente en el ámbito religioso.
+description: "Persona cuya conducta externa no expresa los pensamientos del corazón, particularmente en el ámbito religioso."
 ---
 # Hipócrita
 

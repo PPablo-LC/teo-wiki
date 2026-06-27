@@ -4,7 +4,7 @@ title: Participación
 tags: ["doctrina_social"]
 
 timestamp: 2026-05-25
-description: Principio de la doctrina social que expresa el derecho y el deber de los ciudadanos de tomar parte activa en la vida política, económica y cultural de la comunidad.
+description: "Principio de la doctrina social que expresa el derecho y el deber de los ciudadanos de tomar parte activa en la vida política, económica y cultural de la comunidad."
 ---
 # Participación
 

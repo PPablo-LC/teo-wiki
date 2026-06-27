@@ -4,7 +4,7 @@ title: Hermenéutica y Biblia
 tags: ["documentos"]
 
 timestamp: 2026-06-11
-description: Texto de hermenéutica bíblica que trata.
+description: "Texto de hermenéutica bíblica que trata."
 ---
 # Hermenéutica y Biblia
 

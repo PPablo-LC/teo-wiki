@@ -4,7 +4,7 @@ title: Derechos de los fieles
 tags: ["derecho_canónico"]
 
 timestamp: 2026-06-19
-description: Los derechos y obligaciones de los fieles son el conjunto de prerrogativas y deberes que corresponden a todos los bautizados en virtud de su incorporación a Cristo y a la Iglesia.
+description: "Los derechos y obligaciones de los fieles son el conjunto de prerrogativas y deberes que corresponden a todos los bautizados en virtud de su incorporación a Cristo y a la Iglesia."
 ---
 # Derechos de los fieles
 

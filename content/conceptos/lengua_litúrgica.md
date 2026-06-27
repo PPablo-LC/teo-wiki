@@ -4,7 +4,7 @@ title: Lengua litúrgica
 tags: ["liturgia"]
 
 timestamp: 2026-05-26
-description: La lengua litúrgica es el idioma empleado en la celebración de la sagrada Liturgia.
+description: "La lengua litúrgica es el idioma empleado en la celebración de la sagrada Liturgia."
 ---
 # Lengua litúrgica
 

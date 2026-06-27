@@ -4,7 +4,7 @@ title: Título canónico
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-26
-description: Título jurídico que legitima la ordenación sagrada, determinando la diócesis.
+description: "Título jurídico que legitima la ordenación sagrada, determinando la diócesis."
 ---
 # Título canónico
 

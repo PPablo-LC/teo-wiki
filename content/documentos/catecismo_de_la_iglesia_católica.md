@@ -4,7 +4,7 @@ title: Catecismo de la Iglesia Católica
 tags: ["documentos"]
 
 timestamp: 2026-06-11
-description: Cada parte se divide en secciones, capítulos, artículos y párrafos numerados correlativamente (§1–2865), con referencias cruzadas internas y citas de fuentes (Escritura, Padres, Concilios).
+description: "Cada parte se divide en secciones, capítulos, artículos y párrafos numerados correlativamente (§1–2865), con referencias cruzadas internas y citas de fuentes (Escritura, Padres, Concilios)."
 ---
 # Catecismo de la Iglesia Católica
 

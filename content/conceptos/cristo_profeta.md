@@ -4,7 +4,7 @@ title: Cristo Profeta
 tags: ["cristología"]
 
 timestamp: 2026-06-22
-description: Cristo Profeta designa a Jesucristo como el cumplimiento definitivo de la tradición profética de Israel.
+description: "Cristo Profeta designa a Jesucristo como el cumplimiento definitivo de la tradición profética de Israel."
 ---
 # Cristo Profeta
 

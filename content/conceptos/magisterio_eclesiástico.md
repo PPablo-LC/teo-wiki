@@ -4,7 +4,7 @@ title: Magisterio eclesiástico
 tags: ["dogmática", "eclesiología"]
 
 timestamp: 2026-05-29
-description: El magisterio eclesiástico es el oficio de enseñar confiado por Cristo a los Apóstoles y a sus sucesores —el Papa y los obispos en comunión con él— para interpretar auténticamente la Palabra de Dios.
+description: "El magisterio eclesiástico es el oficio de enseñar confiado por Cristo a los Apóstoles y a sus sucesores —el Papa y los obispos en comunión con él— para interpretar auténticamente la Palabra de Dios."
 ---
 # Magisterio eclesiástico
 

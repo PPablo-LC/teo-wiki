@@ -4,7 +4,7 @@ title: Almas víctimas
 tags: ["ascética"]
 
 timestamp: 2026-05-22
-description: Almas que, movidas por el Espíritu Santo, se ofrecen voluntariamente a Dios como víctimas de expiación por los pecados del mundo.
+description: "Almas que, movidas por el Espíritu Santo, se ofrecen voluntariamente a Dios como víctimas de expiación por los pecados del mundo."
 ---
 # Almas víctimas
 

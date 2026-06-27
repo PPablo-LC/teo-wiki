@@ -4,7 +4,7 @@ title: Religión
 tags: ["moral", "dogmática"]
 
 timestamp: 2026-05-29
-description: La religión es la relación del hombre con Dios, fundada en el reconocimiento de la suprema excelencia divina y de la total dependencia de la criatura respecto al Creador.
+description: "La religión es la relación del hombre con Dios, fundada en el reconocimiento de la suprema excelencia divina y de la total dependencia de la criatura respecto al Creador."
 ---
 # Religión
 

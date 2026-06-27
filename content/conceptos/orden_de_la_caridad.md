@@ -4,7 +4,7 @@ title: Orden de la caridad
 tags: ["moral"]
 
 timestamp: 2026-06-08
-description: El orden de la caridad es la jerarquía en el amor según la cual se debe amar más a Dios que al prójimo, al prójimo más que al propio cuerpo, y entre los prójimos.
+description: "El orden de la caridad es la jerarquía en el amor según la cual se debe amar más a Dios que al prójimo, al prójimo más que al propio cuerpo, y entre los prójimos."
 ---
 # Orden de la caridad
 

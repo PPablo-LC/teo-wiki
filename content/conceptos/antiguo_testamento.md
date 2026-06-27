@@ -4,7 +4,7 @@ title: Antiguo Testamento
 tags: ["dogmática_—_sagrada_escritura"]
 
 timestamp: 2026-05-26
-description: Conjunto de los cuarenta y seis libros inspirados por Dios que constituyen la primera parte del canon de la Sagrada Escritura.
+description: "Conjunto de los cuarenta y seis libros inspirados por Dios que constituyen la primera parte del canon de la Sagrada Escritura."
 ---
 # Antiguo Testamento
 

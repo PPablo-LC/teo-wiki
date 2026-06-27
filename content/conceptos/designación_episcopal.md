@@ -4,7 +4,7 @@ title: Designación episcopal
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-26
-description: Proceso canónico por el cual se nombra a un [[obispo_diocesano]]. Corresponde al [[romano_pontífice]] nombrar libremente a los obispos o confirmar a los legítimamente elegidos (CIC cc. 377-380).
+description: "Proceso canónico por el cual se nombra a un [[obispo_diocesano]]. Corresponde al [[romano_pontífice]] nombrar libremente a los obispos o confirmar a los legítimamente elegidos (CIC cc. 377-380)."
 ---
 # Designación episcopal
 

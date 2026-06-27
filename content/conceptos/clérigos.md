@@ -4,7 +4,7 @@ title: Clérigos
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-26
-description: Por institución divina, entre los fieles hay en la Iglesia ministros sagrados que en el derecho se denominan clérigos.
+description: "Por institución divina, entre los fieles hay en la Iglesia ministros sagrados que en el derecho se denominan clérigos."
 ---
 # Clérigos
 

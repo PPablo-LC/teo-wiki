@@ -4,7 +4,7 @@ title: Cristo
 tags: ["cristología"]
 
 timestamp: 2026-05-22
-description: Cristo («el Ungido») es el título mesiánico de Jesús de Nazaret, el Hijo eterno de Dios hecho hombre, verdadero Dios y verdadero hombre, una sola Persona divina en dos naturalezas (divina y humana).
+description: "Cristo («el Ungido») es el título mesiánico de Jesús de Nazaret, el Hijo eterno de Dios hecho hombre, verdadero Dios y verdadero hombre, una sola Persona divina en dos naturalezas (divina y humana)."
 ---
 # Cristo
 

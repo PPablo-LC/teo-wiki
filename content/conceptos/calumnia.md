@@ -4,7 +4,7 @@ title: Calumnia
 tags: ["moral"]
 
 timestamp: 2026-05-26
-description: La calumnia es la imputación falsa de una falta o delito a otro, atentando contra su fama y buen nombre.
+description: "La calumnia es la imputación falsa de una falta o delito a otro, atentando contra su fama y buen nombre."
 ---
 # Calumnia
 

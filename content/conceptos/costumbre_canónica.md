@@ -4,7 +4,7 @@ title: Costumbre canónica
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-25
-description: Práctica introducida por una comunidad de fieles que, al ser aprobada por el legislador competente, adquiere fuerza de ley en la Iglesia.
+description: "Práctica introducida por una comunidad de fieles que, al ser aprobada por el legislador competente, adquiere fuerza de ley en la Iglesia."
 ---
 # Costumbre canónica
 

@@ -1,7 +1,7 @@
 ---
 type: Persona
 title: Martín Lutero
-description: Hereje, iniciador de la Reforma protestante, cuyos 41 errores fueron condenados por León X en Exsurge Domine.
+description: "Hereje, iniciador de la Reforma protestante, cuyos 41 errores fueron condenados por León X en Exsurge Domine."
 tags: ["hereje", "historia_—_reforma"]
 timestamp: 2026-06-26
 ---

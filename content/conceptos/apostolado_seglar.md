@@ -4,7 +4,7 @@ title: Apostolado seglar
 tags: ["eclesiología"]
 
 timestamp: 2026-05-22
-description: El apostolado seglar (o laical) es la participación de los fieles laicos en la misión evangelizadora de la Iglesia, ejercida desde dentro del mundo y desde las realidades temporales.
+description: "El apostolado seglar (o laical) es la participación de los fieles laicos en la misión evangelizadora de la Iglesia, ejercida desde dentro del mundo y desde las realidades temporales."
 ---
 # Apostolado seglar
 

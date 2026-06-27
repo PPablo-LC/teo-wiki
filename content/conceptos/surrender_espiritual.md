@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Surrender espiritual
-description: El acto de abandono total y confiado en la voluntad de Dios, entregando a El el control de la propia vida, las circunstancias, las decisiones y el futuro.
+description: "El acto de abandono total y confiado en la voluntad de Dios, entregando a El el control de la propia vida, las circunstancias, las decisiones y el futuro."
 ---
 # Surrender espiritual
 

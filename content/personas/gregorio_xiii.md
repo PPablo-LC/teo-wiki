@@ -1,7 +1,7 @@
 ---
 type: Persona
 title: Gregorio XIII
-description: Papa (1572-1585), reformó el calendario (calendario gregoriano), impulsó la unión con los griegos y promovió la formación sacerdotal.
+description: "Papa (1572-1585), reformó el calendario (calendario gregoriano), impulsó la unión con los griegos y promovió la formación sacerdotal."
 tags: ["papas", "historia_—_papado"]
 timestamp: 2026-06-27
 ---

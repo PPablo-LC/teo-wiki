@@ -4,7 +4,7 @@ title: Apostolicidad
 tags: ["eclesiología"]
 
 timestamp: 2026-05-26
-description: La apostolicidad es la nota de la Iglesia por la cual ella es y permanece fundada sobre el fundamento de los Apóstoles, conservando su fe.
+description: "La apostolicidad es la nota de la Iglesia por la cual ella es y permanece fundada sobre el fundamento de los Apóstoles, conservando su fe."
 ---
 # Apostolicidad
 

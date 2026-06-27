@@ -4,7 +4,7 @@ title: Juan Pablo I
 tags: ["personajes_—_papas"]
 
 timestamp: 2026-06-21
-description: Patriarca de Venecia desde 1969. Creado cardenal por Pablo VI en 1973. Elegido papa en el cónclave de agosto de 1978, tras la muerte de Pablo VI.
+description: "Patriarca de Venecia desde 1969. Creado cardenal por Pablo VI en 1973. Elegido papa en el cónclave de agosto de 1978, tras la muerte de Pablo VI."
 ---
 # Juan Pablo I
 

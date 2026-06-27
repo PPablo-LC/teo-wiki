@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Tesoro de la Iglesia
-description: Conjunto infinito de los méritos de Cristo (y superabundantes de María y los santos) que la Iglesia administra para la remisión de la pena temporal mediante las indulgencias.
+description: "Conjunto infinito de los méritos de Cristo (y superabundantes de María y los santos) que la Iglesia administra para la remisión de la pena temporal mediante las indulgencias."
 tags: ["sacramental", "dogmática"]
 timestamp: 2026-06-26
 ---

@@ -4,7 +4,7 @@ title: San Félix IV (III) (Papa)
 tags: ["patrística_—_papas"]
 
 timestamp: 2026-06-25
-description: San Félix IV (o Félix III según numeración alternativa) fue Papa de la Iglesia Católica desde 526 hasta 530. Nació en Samnio y fue elegido tras la muerte de San Juan I.
+description: "San Félix IV (o Félix III según numeración alternativa) fue Papa de la Iglesia Católica desde 526 hasta 530. Nació en Samnio y fue elegido tras la muerte de San Juan I."
 ---
 # San Félix IV (III) (Papa)
 

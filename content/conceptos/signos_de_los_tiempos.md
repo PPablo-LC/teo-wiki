@@ -4,7 +4,7 @@ title: Signos de los tiempos
 tags: ["eclesiología", "teología_de_la_historia"]
 
 timestamp: 2026-05-26
-description: Expresión evangélica (Mt 16,3) retomada por el Concilio Vaticano II para designar los acontecimientos, exigencias y deseos de la época en los cuales el Pueblo de Dios, guiado por el Espíritu Santo.
+description: "Expresión evangélica (Mt 16,3) retomada por el Concilio Vaticano II para designar los acontecimientos, exigencias y deseos de la época en los cuales el Pueblo de Dios, guiado por el Espíritu Santo."
 ---
 # Signos de los tiempos
 

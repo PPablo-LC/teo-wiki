@@ -4,7 +4,7 @@ title: Relación Iglesia-Estado
 tags: ["eclesiología", "doctrina_social"]
 
 timestamp: 2026-06-18
-description: La relación entre la Iglesia y el Estado se fundamenta en la autonomía de ambos órdenes y en su cooperación al servicio de la persona humana.
+description: "La relación entre la Iglesia y el Estado se fundamenta en la autonomía de ambos órdenes y en su cooperación al servicio de la persona humana."
 ---
 # Relación Iglesia-Estado
 

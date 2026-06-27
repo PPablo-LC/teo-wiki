@@ -4,7 +4,7 @@ title: Europa cristiana
 tags: ["eclesiología", "doctrina_social"]
 
 timestamp: 2026-06-18
-description: Europa cristiana es la realidad histórico-cultural formada por la evangelización del continente europeo, que creó una unidad de valores sobre la base del Evangelio.
+description: "Europa cristiana es la realidad histórico-cultural formada por la evangelización del continente europeo, que creó una unidad de valores sobre la base del Evangelio."
 ---
 # Europa cristiana
 

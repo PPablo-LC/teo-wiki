@@ -4,7 +4,7 @@ title: Transfiguración
 tags: ["cristología"]
 
 timestamp: 2026-06-21
-description: La Transfiguración es la manifestación momentánea de la gloria divina de Jesús ante tres discípulos (Pedro, Santiago y Juan) en el monte Tabor.
+description: "La Transfiguración es la manifestación momentánea de la gloria divina de Jesús ante tres discípulos (Pedro, Santiago y Juan) en el monte Tabor."
 ---
 # Transfiguración
 

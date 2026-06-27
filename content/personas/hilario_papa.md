@@ -4,7 +4,7 @@ title: San Hilario (Papa)
 tags: ["patrística_—_papas"]
 
 timestamp: 2026-06-25
-description: San Hilario fue Papa de la Iglesia Católica desde 461 hasta 468. Su pontificado continuó la defensa de la fe calcedonense frente a las herejías cristológicas y la afirmación del primado romano.
+description: "San Hilario fue Papa de la Iglesia Católica desde 461 hasta 468. Su pontificado continuó la defensa de la fe calcedonense frente a las herejías cristológicas y la afirmación del primado romano."
 ---
 # San Hilario (Papa)
 

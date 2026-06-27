@@ -4,7 +4,7 @@ title: Santa Brígida de Suecia
 tags: ["personas", "santas"]
 
 timestamp: 2026-06-23
-description: Brígida de Suecia (1303–1373), mística, fundadora de la Orden del Santísimo Salvador, copatrona de Europa.
+description: "Brígida de Suecia (1303–1373), mística, fundadora de la Orden del Santísimo Salvador, copatrona de Europa."
 ---
 # Santa Brígida de Suecia
 

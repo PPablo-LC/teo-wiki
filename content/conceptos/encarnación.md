@@ -4,7 +4,7 @@ title: Encarnación
 tags: ["cristología"]
 
 timestamp: 2026-06-21
-description: La Encarnación es el misterio de la admirable unión de la naturaleza divina y de la naturaleza humana en la única Persona del Verbo (CEC §483).
+description: "La Encarnación es el misterio de la admirable unión de la naturaleza divina y de la naturaleza humana en la única Persona del Verbo (CEC §483)."
 ---
 # Encarnación
 

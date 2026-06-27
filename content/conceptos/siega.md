@@ -4,7 +4,7 @@ title: Siega
 tags: ["escatología", "moral"]
 
 timestamp: 2026-06-02
-description: La siega o cosecha es una imagen bíblica del juicio de Dios al final de los tiempos. Dios siega la mies de la humanidad, separando el trigo de la cizaña, los justos de los pecadores.
+description: "La siega o cosecha es una imagen bíblica del juicio de Dios al final de los tiempos. Dios siega la mies de la humanidad, separando el trigo de la cizaña, los justos de los pecadores."
 ---
 # Siega
 

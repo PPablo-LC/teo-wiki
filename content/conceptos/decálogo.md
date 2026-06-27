@@ -4,7 +4,7 @@ title: Decálogo
 tags: ["moral"]
 
 timestamp: 2026-05-22
-description: El Decálogo (literalmente «diez palabras») es el conjunto de los diez mandamientos de la Ley de Dios.
+description: "El Decálogo (literalmente «diez palabras») es el conjunto de los diez mandamientos de la Ley de Dios."
 ---
 # Decálogo
 

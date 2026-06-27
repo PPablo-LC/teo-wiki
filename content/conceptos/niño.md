@@ -4,7 +4,7 @@ title: Niño
 tags: ["moral"]
 
 timestamp: 2026-06-02
-description: El niño aparece en la Biblia como signo de la bendición divina y, a la vez, como ser inacabado que necesita educación.
+description: "El niño aparece en la Biblia como signo de la bendición divina y, a la vez, como ser inacabado que necesita educación."
 ---
 # Niño
 

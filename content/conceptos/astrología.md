@@ -4,7 +4,7 @@ title: Astrología
 tags: ["moral"]
 
 timestamp: 2026-06-24
-description: La astrología es la práctica que pretende predecir el destino o el carácter de las personas basándose en la posición de los astros.
+description: "La astrología es la práctica que pretende predecir el destino o el carácter de las personas basándose en la posición de los astros."
 ---
 # Astrología
 

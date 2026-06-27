@@ -4,7 +4,7 @@ title: Blanco
 tags: ["dogmática_(escatología", "liturgia)"]
 
 timestamp: 2026-06-02
-description: El color blanco en la Escritura es símbolo de luz, vida, inocencia, alegría y pureza, y adquiere una dimensión escatológica como marca de los seres asociados a la gloria de Dios.
+description: "El color blanco en la Escritura es símbolo de luz, vida, inocencia, alegría y pureza, y adquiere una dimensión escatológica como marca de los seres asociados a la gloria de Dios."
 ---
 # Blanco
 

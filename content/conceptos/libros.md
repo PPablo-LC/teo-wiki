@@ -4,7 +4,7 @@ title: Libros
 tags: ["derecho_canónico", "comunicación"]
 
 timestamp: 2026-05-25
-description: Publicaciones escritas sujetas a la vigilancia y control de la autoridad eclesiástica para preservar la integridad de las verdades de fe y costumbres.
+description: "Publicaciones escritas sujetas a la vigilancia y control de la autoridad eclesiástica para preservar la integridad de las verdades de fe y costumbres."
 ---
 # Libros
 

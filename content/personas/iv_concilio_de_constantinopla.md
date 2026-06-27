@@ -4,7 +4,7 @@ title: IV Concilio de Constantinopla
 tags: ["historia_—_concilios_ecuménicos"]
 
 timestamp: 2026-06-25
-description: El IV Concilio de Constantinopla fue convocado por el emperador Basilio I para resolver el cisma fociano.
+description: "El IV Concilio de Constantinopla fue convocado por el emperador Basilio I para resolver el cisma fociano."
 ---
 # IV Concilio de Constantinopla
 

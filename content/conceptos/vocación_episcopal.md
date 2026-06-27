@@ -4,7 +4,7 @@ title: Vocación episcopal
 tags: ["eclesiología"]
 
 timestamp: 2026-06-19
-description: La vocación episcopal es la llamada divina que Dios dirige a un presbítero para ser obispo, sucesor de los Apóstoles, investido con la plenitud del sacramento del Orden.
+description: "La vocación episcopal es la llamada divina que Dios dirige a un presbítero para ser obispo, sucesor de los Apóstoles, investido con la plenitud del sacramento del Orden."
 ---
 # Vocación episcopal
 

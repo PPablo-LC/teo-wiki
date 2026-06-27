@@ -4,7 +4,7 @@ title: Autorrevelación de Dios
 tags: ["dogmática", "teología_fundamental"]
 
 timestamp: 2026-06-21
-description: Acto libre por el cual Dios se da a conocer a la criatura humana, culminando en la Encarnación del Verbo —la «humanización» de Dios—.
+description: "Acto libre por el cual Dios se da a conocer a la criatura humana, culminando en la Encarnación del Verbo —la «humanización» de Dios—."
 ---
 # Autorrevelación de Dios
 

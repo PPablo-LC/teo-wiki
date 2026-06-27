@@ -4,7 +4,7 @@ title: Voluntariado
 tags: ["moral", "doctrina_social"]
 
 timestamp: 2026-06-14
-description: El voluntariado es la acción libre, gratuita y organizada de personas que dedican tiempo y capacidades al servicio de los demás sin ánimo de lucro.
+description: "El voluntariado es la acción libre, gratuita y organizada de personas que dedican tiempo y capacidades al servicio de los demás sin ánimo de lucro."
 ---
 # Voluntariado
 

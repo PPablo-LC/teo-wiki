@@ -4,7 +4,7 @@ title: Presciencia divina
 tags: ["dogmática_—_dios"]
 
 timestamp: 2026-06-25
-description: La presciencia divina es el conocimiento que Dios tiene de todos los acontecimientos futuros, incluidos los actos libres de las criaturas.
+description: "La presciencia divina es el conocimiento que Dios tiene de todos los acontecimientos futuros, incluidos los actos libres de las criaturas."
 ---
 # Presciencia divina
 

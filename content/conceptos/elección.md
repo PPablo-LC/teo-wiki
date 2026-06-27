@@ -4,7 +4,7 @@ title: Elección
 tags: ["dogmática", "bíblica"]
 
 timestamp: 2026-06-02
-description: Iniciativa soberana y gratuita de Dios que separa a una persona o pueblo para una misión particular en la historia de la salvación.
+description: "Iniciativa soberana y gratuita de Dios que separa a una persona o pueblo para una misión particular en la historia de la salvación."
 ---
 # Elección
 

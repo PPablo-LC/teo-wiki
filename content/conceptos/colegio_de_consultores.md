@@ -4,7 +4,7 @@ title: Colegio de consultores
 tags: ["eclesiología"]
 
 timestamp: 2026-05-25
-description: El colegio de consultores es un grupo de sacerdotes, entre seis y doce, nombrados libremente por el Obispo diocesano de entre los miembros del consejo presbiteral.
+description: "El colegio de consultores es un grupo de sacerdotes, entre seis y doce, nombrados libremente por el Obispo diocesano de entre los miembros del consejo presbiteral."
 ---
 # Colegio de consultores
 

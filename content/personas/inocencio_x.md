@@ -1,7 +1,7 @@
 ---
 type: Persona
 title: Inocencio X
-description: Papa (1644-1655), condenó las cinco proposiciones de Cornelio Jansenio en la Constitución Cum occasione (1653), afirmó el primado del Romano Pontífice frente a tesis igualitarias entre Pedro y Pablo.
+description: "Papa (1644-1655), condenó las cinco proposiciones de Cornelio Jansenio en la Constitución Cum occasione (1653), afirmó el primado del Romano Pontífice frente a tesis igualitarias entre Pedro y Pablo."
 tags: ["papas", "historia_—_papado"]
 timestamp: 2026-06-27
 ---

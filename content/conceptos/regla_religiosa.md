@@ -4,7 +4,7 @@ title: Regla religiosa
 tags: ["vida_religiosa"]
 
 timestamp: 2026-05-22
-description: La regla religiosa es el conjunto de normas y disposiciones que regulan la vida de los miembros de un instituto religioso, determinando el modo concreto de vivir los consejos evangélicos.
+description: "La regla religiosa es el conjunto de normas y disposiciones que regulan la vida de los miembros de un instituto religioso, determinando el modo concreto de vivir los consejos evangélicos."
 ---
 # Regla religiosa
 

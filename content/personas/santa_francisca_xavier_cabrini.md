@@ -4,7 +4,7 @@ title: Santa Francisca Xavier Cabrini
 tags: ["personas", "santas"]
 
 timestamp: 2026-06-23
-description: Francisca Xavier Cabrini (1850–1917), virgen, fundadora de las Misioneras del Sagrado Corazón, patrona de los emigrantes.
+description: "Francisca Xavier Cabrini (1850–1917), virgen, fundadora de las Misioneras del Sagrado Corazón, patrona de los emigrantes."
 ---
 # Santa Francisca Xavier Cabrini
 

@@ -4,7 +4,7 @@ title: Música sacra
 tags: ["liturgia"]
 
 timestamp: 2026-05-26
-description: La música sacra es aquella música compuesta para el culto divino, que posee las cualidades de santidad, bondad de formas y universalidad.
+description: "La música sacra es aquella música compuesta para el culto divino, que posee las cualidades de santidad, bondad de formas y universalidad."
 ---
 # Música sacra
 

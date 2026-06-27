@@ -4,7 +4,7 @@ title: Madre
 tags: ["mariología"]
 
 timestamp: 2026-06-02
-description: La madre, dando la vida, ocupa un puesto central en la existencia humana y en la historia de la salvación.
+description: "La madre, dando la vida, ocupa un puesto central en la existencia humana y en la historia de la salvación."
 ---
 # Madre
 

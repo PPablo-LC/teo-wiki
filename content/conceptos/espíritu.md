@@ -4,7 +4,7 @@ title: Espíritu
 tags: ["dogmática", "antropológica"]
 
 timestamp: 2026-05-22
-description: El espíritu es la parte más elevada e íntima del alma humana, por la cual el hombre es capaz de conocer y amar a Dios, de trascender el mundo material y de participar de la vida divina.
+description: "El espíritu es la parte más elevada e íntima del alma humana, por la cual el hombre es capaz de conocer y amar a Dios, de trascender el mundo material y de participar de la vida divina."
 ---
 # Espíritu
 

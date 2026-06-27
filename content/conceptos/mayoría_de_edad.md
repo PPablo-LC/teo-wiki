@@ -4,7 +4,7 @@ title: Mayoría de edad
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-29
-description: Momento en que una persona adquiere la capacidad jurídica plena para el ejercicio de sus derechos en la Iglesia.
+description: "Momento en que una persona adquiere la capacidad jurídica plena para el ejercicio de sus derechos en la Iglesia."
 ---
 # Mayoría de edad
 

@@ -1,7 +1,7 @@
 ---
 type: Persona
 title: Bonifacio VIII
-description: Papa que promulgó la Bula Unam sanctam sobre la unidad de la Iglesia y la potestad espiritual, y estableció el primer Año Jubilar (1300).
+description: "Papa que promulgó la Bula Unam sanctam sobre la unidad de la Iglesia y la potestad espiritual, y estableció el primer Año Jubilar (1300)."
 tags: ["eclesiología", "historia_—_papado"]
 timestamp: 2026-06-26
 ---

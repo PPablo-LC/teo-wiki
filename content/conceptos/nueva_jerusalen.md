@@ -4,7 +4,7 @@ title: Nueva Jerusalén
 tags: ["escatología", "bíblico"]
 
 timestamp: 2026-06-19
-description: La Nueva Jerusalén es la ciudad celestial que descendrá del cielo al final de los tiempos, símbolo de la plena comunión entre Dios y los hombres.
+description: "La Nueva Jerusalén es la ciudad celestial que descendrá del cielo al final de los tiempos, símbolo de la plena comunión entre Dios y los hombres."
 ---
 # Nueva Jerusalén
 

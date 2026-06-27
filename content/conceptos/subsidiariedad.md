@@ -4,7 +4,7 @@ title: Subsidiariedad
 tags: ["moral", "doctrina_social"]
 
 timestamp: 2026-05-22
-description: El principio de subsidiariedad es un principio de la doctrina social de la Iglesia según el cual «una estructura social de orden superior no debe interferir en la vida interna de un grupo social de»...
+description: "El principio de subsidiariedad es un principio de la doctrina social de la Iglesia según el cual «una estructura social de orden superior no debe interferir en la vida interna de un grupo social de»..."
 ---
 # Subsidiariedad
 

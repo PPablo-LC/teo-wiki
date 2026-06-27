@@ -4,7 +4,7 @@ title: Dióscoro de Alejandría
 tags: ["patrística_—_herejías"]
 
 timestamp: 2026-06-25
-description: Dióscoro fue Patriarca de Alejandría desde 444 hasta 454. Sucesor de San Cirilo de Alejandría, desvió la sede alejandrina hacia el monofisismo.
+description: "Dióscoro fue Patriarca de Alejandría desde 444 hasta 454. Sucesor de San Cirilo de Alejandría, desvió la sede alejandrina hacia el monofisismo."
 ---
 # Dióscoro de Alejandría
 

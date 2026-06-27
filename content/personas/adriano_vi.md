@@ -3,7 +3,7 @@ type: Persona
 title: Adriano VI
 tags: ["papas", "historia_—_papado"]
 timestamp: 2026-06-27
-description: Papa número 218 de la Iglesia Católica (1522-1523), último papa no italiano hasta Juan Pablo II. Predecesor de Clemente VII. Convocó la continuación del Concilio de Trento.
+description: "Papa número 218 de la Iglesia Católica (1522-1523), último papa no italiano hasta Juan Pablo II. Predecesor de Clemente VII. Convocó la continuación del Concilio de Trento."
 ---
 
 # Adriano VI

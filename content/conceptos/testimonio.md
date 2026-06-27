@@ -4,7 +4,7 @@ title: Testimonio
 tags: ["moral", "ascética"]
 
 timestamp: 2026-06-10
-description: Acto por el cual una persona da a conocer la verdad de la fe cristiana mediante palabras y obras, pudiendo llegar hasta el sacrificio de la propia vida (martirio).
+description: "Acto por el cual una persona da a conocer la verdad de la fe cristiana mediante palabras y obras, pudiendo llegar hasta el sacrificio de la propia vida (martirio)."
 ---
 # Testimonio
 

@@ -4,7 +4,7 @@ title: Riquezas
 tags: ["moral"]
 
 timestamp: 2026-05-22
-description: Las riquezas son los bienes materiales — especialmente los que exceden lo necesario — que el cristiano debe usar con desprendimiento evangélico, sin poner en ellas su corazón.
+description: "Las riquezas son los bienes materiales — especialmente los que exceden lo necesario — que el cristiano debe usar con desprendimiento evangélico, sin poner en ellas su corazón."
 ---
 # Riquezas
 

@@ -4,7 +4,7 @@ title: Sagrada Escritura
 tags: ["dogmática_(revelación)"]
 
 timestamp: 2026-06-02
-description: La Sagrada Escritura es la palabra de Dios en cuanto escrita por inspiración del Espíritu Santo, que tiene a Dios como autor y ha sido confiada a la Iglesia.
+description: "La Sagrada Escritura es la palabra de Dios en cuanto escrita por inspiración del Espíritu Santo, que tiene a Dios como autor y ha sido confiada a la Iglesia."
 ---
 # Sagrada Escritura
 

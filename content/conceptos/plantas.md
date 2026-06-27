@@ -4,7 +4,7 @@ title: Plantas
 tags: ["dogmática_(cosmología)"]
 
 timestamp: 2026-06-03
-description: Las plantas (hierba, vegetales, árboles) son criaturas corporales creadas por Dios en el tercer día de la creación (Gén 1,11-13) como ornamentación de la tierra.
+description: "Las plantas (hierba, vegetales, árboles) son criaturas corporales creadas por Dios en el tercer día de la creación (Gén 1,11-13) como ornamentación de la tierra."
 ---
 # Plantas
 

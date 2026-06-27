@@ -4,7 +4,7 @@ title: Apocalipsis
 tags: ["teología_bíblica", "escatología"]
 
 timestamp: 2026-06-19
-description: El Apocalipsis (o Revelación de Juan) es el último libro del Nuevo Testamento, de género profético-apocalíptico.
+description: "El Apocalipsis (o Revelación de Juan) es el último libro del Nuevo Testamento, de género profético-apocalíptico."
 ---
 # Apocalipsis
 

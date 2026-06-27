@@ -4,7 +4,7 @@ title: Gianfranco Ghirlanda
 tags: ["personajes_—_canonistas", "teólogos"]
 
 timestamp: 2026-06-13
-description: Gianfranco Ghirlanda SJ (n. 1942), sacerdote jesuita italiano, canonista y teólogo. Profesor de la Pontificia Universidad Gregoriana, de la que fue rector (2004-2010).
+description: "Gianfranco Ghirlanda SJ (n. 1942), sacerdote jesuita italiano, canonista y teólogo. Profesor de la Pontificia Universidad Gregoriana, de la que fue rector (2004-2010)."
 ---
 # Gianfranco Ghirlanda
 

@@ -4,7 +4,7 @@ title: Sedición
 tags: ["moral"]
 
 timestamp: 2026-06-08
-description: La sedición es el pecado que consiste en la disensión tumultuosa entre partes de una misma multitud (pueblo, ciudad o reino), oponiéndose a la unidad del bien común.
+description: "La sedición es el pecado que consiste en la disensión tumultuosa entre partes de una misma multitud (pueblo, ciudad o reino), oponiéndose a la unidad del bien común."
 ---
 # Sedición
 

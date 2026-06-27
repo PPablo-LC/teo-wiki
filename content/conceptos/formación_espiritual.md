@@ -4,7 +4,7 @@ title: Formación espiritual
 tags: ["teología_espiritual", "ascética"]
 
 timestamp: 2026-06-14
-description: Dimensión de la formación sacerdotal que tiene como fin educar al candidato al presbiterado en la vida de unión con Dios, la oración, la ascesis y la configuración con Jesucristo, Cabeza y Pastor.
+description: "Dimensión de la formación sacerdotal que tiene como fin educar al candidato al presbiterado en la vida de unión con Dios, la oración, la ascesis y la configuración con Jesucristo, Cabeza y Pastor."
 ---
 # Formación espiritual
 

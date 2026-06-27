@@ -4,7 +4,7 @@ title: Templanza
 tags: ["moral", "dogmática"]
 
 timestamp: 2026-05-22
-description: La templanza es la cuarta de las virtudes cardinales, virtud infusa que modera el apetito concupiscible en los deleites sensibles, especialmente en los placeres del tacto (comida.)
+description: "La templanza es la cuarta de las virtudes cardinales, virtud infusa que modera el apetito concupiscible en los deleites sensibles, especialmente en los placeres del tacto (comida.)"
 ---
 # Templanza
 

@@ -4,7 +4,7 @@ title: Poder de las llaves
 tags: ["dogmática", "eclesiología"]
 
 timestamp: 2026-05-22
-description: Autoridad conferida por Cristo a Pedro y a los Apóstoles para gobernar la Iglesia, perdonar pecados y tomar decisiones disciplinares.
+description: "Autoridad conferida por Cristo a Pedro y a los Apóstoles para gobernar la Iglesia, perdonar pecados y tomar decisiones disciplinares."
 ---
 # Poder de las llaves
 

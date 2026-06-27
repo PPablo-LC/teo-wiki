@@ -4,7 +4,7 @@ title: Sagrada Familia
 tags: ["cristología", "vida_cristiana"]
 
 timestamp: 2026-05-29
-description: La Sagrada Familia es el nombre con que se designa a Jesús, María y José en su vida cotidiana en Nazaret.
+description: "La Sagrada Familia es el nombre con que se designa a Jesús, María y José en su vida cotidiana en Nazaret."
 ---
 # Sagrada Familia
 

@@ -1,7 +1,7 @@
 ---
 type: Documento
 title: Concilio de Vienne
-description: XV Concilio ecuménico (1311-1312), convocado por Clemente V. Abolió la Orden del Temple, condenó los errores de begardos y beguinos, definió el alma como forma del cuerpo y condenó la usura.
+description: "XV Concilio ecuménico (1311-1312), convocado por Clemente V. Abolió la Orden del Temple, condenó los errores de begardos y beguinos, definió el alma como forma del cuerpo y condenó la usura."
 tags: ["concilios", "historia_de_la_iglesia"]
 timestamp: 2026-06-26
 ---

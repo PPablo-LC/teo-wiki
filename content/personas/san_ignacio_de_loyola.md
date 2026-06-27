@@ -4,7 +4,7 @@ title: San Ignacio de Loyola
 tags: ["persona"]
 
 timestamp: 2026-05-20
-description: Íñigo López de Loyola (c.1491-1556), religioso vasco, fundador de la Compañía de Jesús.
+description: "Íñigo López de Loyola (c.1491-1556), religioso vasco, fundador de la Compañía de Jesús."
 ---
 # San Ignacio de Loyola
 

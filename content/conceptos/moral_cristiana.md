@@ -4,7 +4,7 @@ title: Moral cristiana
 tags: ["moral"]
 
 timestamp: 2026-06-21
-description: Conjunto de enseñanzas y principios derivados del Evangelio que ordenan los actos humanos del cristiano a su fin último —Dios— y a la vida de santidad.
+description: "Conjunto de enseñanzas y principios derivados del Evangelio que ordenan los actos humanos del cristiano a su fin último —Dios— y a la vida de santidad."
 ---
 # Moral cristiana
 

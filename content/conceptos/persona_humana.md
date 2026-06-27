@@ -4,7 +4,7 @@ title: Persona Humana
 tags: ["antropología_teológica"]
 
 timestamp: 2026-06-20
-description: La persona humana es el individuo de la naturaleza racional, creado por Dios a su imagen y semejanza, compuesto de alma espiritual inmortal y cuerpo material.
+description: "La persona humana es el individuo de la naturaleza racional, creado por Dios a su imagen y semejanza, compuesto de alma espiritual inmortal y cuerpo material."
 ---
 # Persona Humana
 

@@ -4,7 +4,7 @@ title: Décimo Mandamiento
 tags: ["moral"]
 
 timestamp: 2026-05-26
-description: «No codiciarás los bienes de tu prójimo» (Ex 20,17; Dt 5,21). Es el décimo mandamiento del [[decálogo]] y regula el deseo del corazón respecto de los bienes ajenos, prohibiendo la codicia desordenada.
+description: "«No codiciarás los bienes de tu prójimo» (Ex 20,17; Dt 5,21). Es el décimo mandamiento del [[decálogo]] y regula el deseo del corazón respecto de los bienes ajenos, prohibiendo la codicia desordenada."
 ---
 # Décimo Mandamiento
 

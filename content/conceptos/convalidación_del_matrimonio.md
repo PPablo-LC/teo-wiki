@@ -4,7 +4,7 @@ title: Convalidación del matrimonio
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-26
-description: La convalidación del matrimonio es el acto jurídico por el cual un matrimonio nulo se transforma en matrimonio válido.
+description: "La convalidación del matrimonio es el acto jurídico por el cual un matrimonio nulo se transforma en matrimonio válido."
 ---
 # Convalidación del matrimonio
 

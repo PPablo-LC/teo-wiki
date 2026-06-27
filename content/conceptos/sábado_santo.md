@@ -4,7 +4,7 @@ title: Sábado Santo
 tags: ["liturgia"]
 
 timestamp: 2026-05-29
-description: El Sábado Santo es el día del Triduo Pascual que conmemora la permanencia de Cristo en el sepulcro y su descenso a los infiernos.
+description: "El Sábado Santo es el día del Triduo Pascual que conmemora la permanencia de Cristo en el sepulcro y su descenso a los infiernos."
 ---
 # Sábado Santo
 

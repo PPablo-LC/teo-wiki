@@ -4,7 +4,7 @@ title: Consentimiento matrimonial
 tags: ["derecho_canónico", "sacramental"]
 
 timestamp: 2026-06-15
-description: El consentimiento matrimonial es el acto de la voluntad por el cual el varón y la mujer se entregan y aceptan mutuamente en alianza irrevocable para constituir el matrimonio.
+description: "El consentimiento matrimonial es el acto de la voluntad por el cual el varón y la mujer se entregan y aceptan mutuamente en alianza irrevocable para constituir el matrimonio."
 ---
 # Consentimiento matrimonial
 

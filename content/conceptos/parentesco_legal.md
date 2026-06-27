@@ -4,7 +4,7 @@ title: Parentesco legal
 tags: ["derecho_canónico"]
 
 timestamp: 2026-06-15
-description: Vínculo de parentesco que surge de la adopción, por el cual el adoptado es equiparado en ciertos efectos jurídicos al hijo carnal.
+description: "Vínculo de parentesco que surge de la adopción, por el cual el adoptado es equiparado en ciertos efectos jurídicos al hijo carnal."
 ---
 # Parentesco legal
 

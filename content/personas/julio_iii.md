@@ -3,7 +3,7 @@ type: Persona
 title: Julio III
 tags: ["papas", "historia_—_papado"]
 timestamp: 2026-06-27
-description: Papa número 221 de la Iglesia Católica (1550-1555). Reanudó el Concilio de Trento después de una pausa de dos años.
+description: "Papa número 221 de la Iglesia Católica (1550-1555). Reanudó el Concilio de Trento después de una pausa de dos años."
 ---
 
 # Julio III

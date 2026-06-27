@@ -4,7 +4,7 @@ title: Disparidad de culto
 tags: ["derecho_canónico_(matrimonial)"]
 
 timestamp: 2026-06-15
-description: Impedimento matrimonial dirimente que surge entre una persona bautizada en la Iglesia Católica y una persona no bautizada. Hace nulo el matrimonio si no media dispensa de la autoridad eclesiástica.
+description: "Impedimento matrimonial dirimente que surge entre una persona bautizada en la Iglesia Católica y una persona no bautizada. Hace nulo el matrimonio si no media dispensa de la autoridad eclesiástica."
 ---
 # Disparidad de culto
 

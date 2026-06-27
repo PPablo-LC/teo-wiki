@@ -4,7 +4,7 @@ title: Desprendimiento
 tags: ["ascética"]
 
 timestamp: 2026-05-22
-description: El desprendimiento es la virtud por la cual el alma se despega real y afectivamente de todas las cosas creadas para poder unirse libremente a Dios.
+description: "El desprendimiento es la virtud por la cual el alma se despega real y afectivamente de todas las cosas creadas para poder unirse libremente a Dios."
 ---
 # Desprendimiento
 

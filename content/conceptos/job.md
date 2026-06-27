@@ -4,7 +4,7 @@ title: Job
 tags: ["teología_bíblica"]
 
 timestamp: 2026-06-19
-description: Job es un libro de la Biblia que trata el problema del sufrimiento inocente.
+description: "Job es un libro de la Biblia que trata el problema del sufrimiento inocente."
 ---
 # Job
 

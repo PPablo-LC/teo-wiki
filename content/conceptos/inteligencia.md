@@ -4,7 +4,7 @@ title: Inteligencia
 tags: ["antropología"]
 
 timestamp: 2026-05-25
-description: La inteligencia es la facultad espiritual del alma humana que conoce la verdad mediante la abstracción de las esencias a partir de los datos sensibles, formando conceptos, juicios y razonamientos.
+description: "La inteligencia es la facultad espiritual del alma humana que conoce la verdad mediante la abstracción de las esencias a partir de los datos sensibles, formando conceptos, juicios y razonamientos."
 ---
 # Inteligencia
 

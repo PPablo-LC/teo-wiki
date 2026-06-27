@@ -4,7 +4,7 @@ title: Paradoja teológica
 tags: ["teología_fundamental", "teología_espiritual"]
 
 timestamp: 2026-06-05
-description: La paradoja teológica es el modo de expresión del pensamiento cristiano que mantiene en tensión viva dos verdades que parecen oponerse.
+description: "La paradoja teológica es el modo de expresión del pensamiento cristiano que mantiene en tensión viva dos verdades que parecen oponerse."
 ---
 # Paradoja teológica
 

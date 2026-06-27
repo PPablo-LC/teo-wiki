@@ -4,7 +4,7 @@ title: Personalidad jurídica canónica
 tags: ["derecho_canónico", "eclesiología"]
 
 timestamp: 2026-05-25
-description: La personalidad jurídica canónica es la capacidad reconocida por el derecho eclesiástico a ciertas realidades o entes para ser sujetos de derechos y obligaciones en la Iglesia.
+description: "La personalidad jurídica canónica es la capacidad reconocida por el derecho eclesiástico a ciertas realidades o entes para ser sujetos de derechos y obligaciones en la Iglesia."
 ---
 # Personalidad jurídica canónica
 

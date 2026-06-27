@@ -4,7 +4,7 @@ title: III Concilio de Valence
 tags: ["historia_—_concilios"]
 
 timestamp: 2026-06-25
-description: El III Concilio de Valence fue convocado por Remigio de Lyon para responder a la controversia predestinacionista.
+description: "El III Concilio de Valence fue convocado por Remigio de Lyon para responder a la controversia predestinacionista."
 ---
 # III Concilio de Valence
 

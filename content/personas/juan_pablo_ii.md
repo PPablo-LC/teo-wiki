@@ -4,7 +4,7 @@ title: Juan Pablo II
 tags: ["personajes_—_papas"]
 
 timestamp: 2026-06-14
-description: Karol Józef Wojtyła (Wadowice, Polonia, 18 de mayo de 1920 — Ciudad del Vaticano, 2 de abril de 2005).
+description: "Karol Józef Wojtyła (Wadowice, Polonia, 18 de mayo de 1920 — Ciudad del Vaticano, 2 de abril de 2005)."
 ---
 # Juan Pablo II
 

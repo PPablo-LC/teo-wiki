@@ -4,7 +4,7 @@ title: Sermón de la montaña
 tags: ["moral", "dogmática"]
 
 timestamp: 2026-05-22
-description: El sermón de la montaña es el discurso programático de Jesús recogido en los capítulos 5 al 7 del Evangelio de San Mateo, que contiene la promulgación de la Ley Nueva y las bienaventuranzas.
+description: "El sermón de la montaña es el discurso programático de Jesús recogido en los capítulos 5 al 7 del Evangelio de San Mateo, que contiene la promulgación de la Ley Nueva y las bienaventuranzas."
 ---
 # Sermón de la montaña
 

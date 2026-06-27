@@ -4,7 +4,7 @@ title: Concilio de Calcedonia
 tags: ["dogmática_—_concilios_ecuménicos"]
 
 timestamp: 2026-06-25
-description: El Concilio de Calcedonia fue convocado para responder a la herejía de Eutiques, que enseñaba que en Cristo, después de la unión, solo existía una naturaleza (divina).
+description: "El Concilio de Calcedonia fue convocado para responder a la herejía de Eutiques, que enseñaba que en Cristo, después de la unión, solo existía una naturaleza (divina)."
 ---
 # Concilio de Calcedonia
 

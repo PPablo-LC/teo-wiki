@@ -4,7 +4,7 @@ title: Secreto profesional
 tags: ["moral", "derecho_canónico"]
 
 timestamp: 2026-05-26
-description: El secreto profesional es la obligación moral de guardar reserva sobre aquello que se conoce en razón del ejercicio de una profesión o ministerio.
+description: "El secreto profesional es la obligación moral de guardar reserva sobre aquello que se conoce en razón del ejercicio de una profesión o ministerio."
 ---
 # Secreto profesional
 

@@ -4,7 +4,7 @@ title: Fotino
 tags: ["personas", "herejía"]
 
 timestamp: 2026-06-24
-description: Fotino (m. ca.)
+description: "Fotino (m. ca.)"
 ---
 # Fotino
 

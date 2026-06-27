@@ -4,7 +4,7 @@ title: Ley eclesiástica
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-25
-description: Norma jurídica promulgada por la autoridad competente de la Iglesia católica para regir la conducta de los bautizados.
+description: "Norma jurídica promulgada por la autoridad competente de la Iglesia católica para regir la conducta de los bautizados."
 ---
 # Ley eclesiástica
 

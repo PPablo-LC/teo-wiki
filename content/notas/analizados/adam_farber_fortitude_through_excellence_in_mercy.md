@@ -2,7 +2,7 @@
 type: Análisis Doctrinal
 title: "Adam Farber — Fortitude Through Excellence In Mercy: Análisis doctrinal"
 timestamp: 2026-06-03
-description: Conferencia testimonial del empresario y coach Adam Farber en la Catholic Men's Conference 2022.
+description: "Conferencia testimonial del empresario y coach Adam Farber en la Catholic Men's Conference 2022."
 ---
 # Adam Farber — Fortitude Through Excellence In Mercy: Análisis doctrinal
 

@@ -4,7 +4,7 @@ title: Pertinacia
 tags: ["moral"]
 
 timestamp: 2026-06-11
-description: Vicio que se opone a la perseverancia y a la constancia por exceso, consistente en la obstinación o terquedad en no ceder cuando sería razonable hacerlo. Es hija de la vanagloria.
+description: "Vicio que se opone a la perseverancia y a la constancia por exceso, consistente en la obstinación o terquedad en no ceder cuando sería razonable hacerlo. Es hija de la vanagloria."
 ---
 # Pertinacia
 

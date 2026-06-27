@@ -1,7 +1,7 @@
 ---
 type: Persona
 title: Sixto IV
-description: Papa (1471-1484), promovió la fiesta de la Inmaculada Concepción, condenó errores de Pedro de Rivo y Pedro de Osma.
+description: "Papa (1471-1484), promovió la fiesta de la Inmaculada Concepción, condenó errores de Pedro de Rivo y Pedro de Osma."
 tags: ["papa", "historia_—_papado"]
 timestamp: 2026-06-26
 ---

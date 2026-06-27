@@ -4,7 +4,7 @@ title: Revelación Pública
 tags: ["dogmática"]
 
 timestamp: 2026-05-22
-description: La Revelación pública (también llamada Revelación divina o Revelación sobrenatural) es la comunicación que Dios hace de sí mismo y de su designio salvífico a la humanidad.
+description: "La Revelación pública (también llamada Revelación divina o Revelación sobrenatural) es la comunicación que Dios hace de sí mismo y de su designio salvífico a la humanidad."
 ---
 # Revelación Pública
 

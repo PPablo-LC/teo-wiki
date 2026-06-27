@@ -4,7 +4,7 @@ title: San Juan Bautista
 tags: ["bíblica_(personajes)"]
 
 timestamp: 2026-06-19
-description: Profeta y precursor de Jesucristo, hijo de Zacarías e Isabel, primo del Señor.
+description: "Profeta y precursor de Jesucristo, hijo de Zacarías e Isabel, primo del Señor."
 ---
 # San Juan Bautista
 

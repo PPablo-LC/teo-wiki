@@ -4,7 +4,7 @@ title: Reconciliación
 tags: ["doctrina_social", "moral"]
 
 timestamp: 2026-06-21
-description: Proceso de restablecimiento de relaciones de recíproco entendimiento entre personas y pueblos divididos por el conflicto, fundado en la verdad, la justicia y el perdón recíproco.
+description: "Proceso de restablecimiento de relaciones de recíproco entendimiento entre personas y pueblos divididos por el conflicto, fundado en la verdad, la justicia y el perdón recíproco."
 ---
 # Reconciliación
 

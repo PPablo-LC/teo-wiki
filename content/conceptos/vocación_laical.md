@@ -4,7 +4,7 @@ title: Vocación laical
 tags: ["eclesiología", "espiritualidad"]
 
 timestamp: 2026-05-31
-description: La vocación laical es la llamada divina que reciben los fieles laicos a vivir su compromiso bautismal en medio de las realidades temporales, santificándose y santificando el mundo desde dentro.
+description: "La vocación laical es la llamada divina que reciben los fieles laicos a vivir su compromiso bautismal en medio de las realidades temporales, santificándose y santificando el mundo desde dentro."
 ---
 # Vocación laical
 

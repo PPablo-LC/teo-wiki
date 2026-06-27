@@ -4,7 +4,7 @@ title: Concilio de Trento
 tags: ["historia", "dogmática"]
 
 timestamp: 2026-05-26
-description: El Concilio de Trento es el concilio ecuménico XIX de la Iglesia Católica, celebrado entre 1545 y 1563 en la ciudad de Trento.
+description: "El Concilio de Trento es el concilio ecuménico XIX de la Iglesia Católica, celebrado entre 1545 y 1563 en la ciudad de Trento."
 ---
 # Concilio de Trento
 

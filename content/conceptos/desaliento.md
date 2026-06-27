@@ -4,7 +4,7 @@ title: Desaliento
 tags: ["ascética", "moral"]
 
 timestamp: 2026-05-26
-description: Abatimiento del ánimo que aparta del bien espiritual y del esfuerzo virtuoso. Es uno de los [[enemigos_del_alma]] en la vida espiritual, también llamado acedia o tristeza espiritual (TPCr).
+description: "Abatimiento del ánimo que aparta del bien espiritual y del esfuerzo virtuoso. Es uno de los [[enemigos_del_alma]] en la vida espiritual, también llamado acedia o tristeza espiritual (TPCr)."
 ---
 # Desaliento
 

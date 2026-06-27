@@ -4,7 +4,7 @@ title: Venganza
 tags: ["moral"]
 
 timestamp: 2026-06-10
-description: La venganza es la retribución del mal recibido. El AT regula la venganza para limitarla (ley del talión). Los profetas anuncian la venganza de Dios como restauración de la justicia divina.
+description: "La venganza es la retribución del mal recibido. El AT regula la venganza para limitarla (ley del talión). Los profetas anuncian la venganza de Dios como restauración de la justicia divina."
 ---
 # Venganza
 

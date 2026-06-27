@@ -4,7 +4,7 @@ title: Poder de perdonar
 tags: ["dogmática", "cristología", "sacramental"]
 
 timestamp: 2026-06-22
-description: Jesucristo posee el poder divino de perdonar los pecados.
+description: "Jesucristo posee el poder divino de perdonar los pecados."
 ---
 # Poder de perdonar
 

@@ -4,7 +4,7 @@ title: Ley natural
 tags: ["moral"]
 
 timestamp: 2026-05-22
-description: La ley natural es la participación de la sabiduría y bondad del Creador en el hombre, formado a imagen de Dios.
+description: "La ley natural es la participación de la sabiduría y bondad del Creador en el hombre, formado a imagen de Dios."
 ---
 # Ley natural
 

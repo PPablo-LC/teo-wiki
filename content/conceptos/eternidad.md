@@ -4,7 +4,7 @@ title: Eternidad
 tags: ["dogmática", "teología_natural"]
 
 timestamp: 2026-06-17
-description: La eternidad es el atributo divino por el cual Dios posee toda la plenitud de su ser y de su vida de modo simultáneo e interminable, sin sucesión, sin pasado ni futuro.
+description: "La eternidad es el atributo divino por el cual Dios posee toda la plenitud de su ser y de su vida de modo simultáneo e interminable, sin sucesión, sin pasado ni futuro."
 ---
 # Eternidad
 

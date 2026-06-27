@@ -4,7 +4,7 @@ title: Moralidad
 tags: ["moral"]
 
 timestamp: 2026-06-19
-description: La moralidad es la cualidad de los actos humanos que los hace buenos o malos, lícitos o ilícitos.
+description: "La moralidad es la cualidad de los actos humanos que los hace buenos o malos, lícitos o ilícitos."
 ---
 # Moralidad
 

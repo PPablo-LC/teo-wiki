@@ -4,7 +4,7 @@ title: Fórmula bautismal
 tags: ["dogmática", "sacramental"]
 
 timestamp: 2026-06-22
-description: Fórmula trinitaria «en el nombre del Padre y del Hijo y del Espíritu Santo» (Mt 28,19) con la que Jesucristo instituyó el sacramento del bautismo.
+description: "Fórmula trinitaria «en el nombre del Padre y del Hijo y del Espíritu Santo» (Mt 28,19) con la que Jesucristo instituyó el sacramento del bautismo."
 ---
 # Fórmula bautismal
 

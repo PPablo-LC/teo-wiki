@@ -4,7 +4,7 @@ title: Isabel
 tags: ["sagrada_escritura"]
 
 timestamp: 2026-05-26
-description: Santa Isabel, esposa de Zacarías y madre de Juan el Bautista, perteneciente a la tribu de Leví.
+description: "Santa Isabel, esposa de Zacarías y madre de Juan el Bautista, perteneciente a la tribu de Leví."
 ---
 # Isabel
 

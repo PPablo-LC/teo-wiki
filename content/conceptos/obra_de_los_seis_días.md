@@ -4,7 +4,7 @@ title: Obra de los seis días
 tags: ["dogmática_(cosmología)"]
 
 timestamp: 2026-06-03
-description: La obra de los seis días (Hexaemeron) es el relato de la creación del mundo corporal en seis días narrado en Gén 1,1–2,3.
+description: "La obra de los seis días (Hexaemeron) es el relato de la creación del mundo corporal en seis días narrado en Gén 1,1–2,3."
 ---
 # Obra de los seis días
 

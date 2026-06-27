@@ -4,7 +4,7 @@ title: Isaías
 tags: ["profecía", "antiguo_testamento"]
 
 timestamp: 2026-06-23
-description: Isaías profetizó durante un período crítico de la historia de Judá, amenazado por el expansionismo asirio.
+description: "Isaías profetizó durante un período crítico de la historia de Judá, amenazado por el expansionismo asirio."
 ---
 # Isaías
 

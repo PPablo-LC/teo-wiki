@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Concubinato
-description: Relación marital estable entre un hombre y una mujer sin vínculo matrimonial canónico. La Iglesia lo considera pecado grave contra el sexto mandamiento.
+description: "Relación marital estable entre un hombre y una mujer sin vínculo matrimonial canónico. La Iglesia lo considera pecado grave contra el sexto mandamiento."
 tags: ["moral"]
 timestamp: 2026-06-27
 ---

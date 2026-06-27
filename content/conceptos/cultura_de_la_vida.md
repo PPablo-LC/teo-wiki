@@ -4,7 +4,7 @@ title: Cultura de la vida
 tags: ["moral", "doctrina_social"]
 
 timestamp: 2026-05-25
-description: Conjunto de actitudes, valores y acciones que promueven y defienden la vida humana desde la concepción hasta la muerte natural, reconociéndola como don de Dios.
+description: "Conjunto de actitudes, valores y acciones que promueven y defienden la vida humana desde la concepción hasta la muerte natural, reconociéndola como don de Dios."
 ---
 # Cultura de la vida
 

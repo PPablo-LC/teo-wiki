@@ -4,7 +4,7 @@ title: Cristo, amigo de pecadores
 tags: ["cristología", "soteriología"]
 
 timestamp: 2026-06-22
-description: Jesús fue llamado «amigo de publicanos y pecadores» (Mt 11,19).
+description: "Jesús fue llamado «amigo de publicanos y pecadores» (Mt 11,19)."
 ---
 # Cristo, amigo de pecadores
 

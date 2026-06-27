@@ -4,7 +4,7 @@ title: Domingo de Resurrección
 tags: ["liturgia", "dogmática"]
 
 timestamp: 2026-05-29
-description: El Domingo de Resurrección —también llamado Pascua o Domingo de Pascua— es la solemnidad más importante del año litúrgico.
+description: "El Domingo de Resurrección —también llamado Pascua o Domingo de Pascua— es la solemnidad más importante del año litúrgico."
 ---
 # Domingo de Resurrección
 

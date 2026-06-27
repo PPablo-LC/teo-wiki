@@ -4,7 +4,7 @@ title: I Concilio de Lyon
 tags: ["historia_—_concilios_ecuménicos"]
 
 timestamp: 2026-06-25
-description: El I Concilio de Lyon fue convocado por Inocencio IV principalmente para tratar la deposición del emperador Federico II.
+description: "El I Concilio de Lyon fue convocado por Inocencio IV principalmente para tratar la deposición del emperador Federico II."
 ---
 # I Concilio de Lyon
 

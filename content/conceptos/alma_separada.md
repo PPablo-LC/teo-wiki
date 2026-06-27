@@ -4,7 +4,7 @@ title: Alma separada
 tags: ["escatología", "antropología_teológica"]
 
 timestamp: 2026-06-16
-description: El alma separada es el alma humana después de la muerte, separada del cuerpo, que subsiste como forma espiritual inmortal a la espera de la resurrección final.
+description: "El alma separada es el alma humana después de la muerte, separada del cuerpo, que subsiste como forma espiritual inmortal a la espera de la resurrección final."
 ---
 # Alma separada
 

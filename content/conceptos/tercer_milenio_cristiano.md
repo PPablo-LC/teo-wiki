@@ -4,7 +4,7 @@ title: Tercer Milenio Cristiano
 tags: ["eclesiología", "escatología"]
 
 timestamp: 2026-06-21
-description: Horizonte histórico y teológico hacia el que se orienta la misión de la Iglesia en el pontificado de San Juan Pablo II, caracterizado por una nueva evangelización.
+description: "Horizonte histórico y teológico hacia el que se orienta la misión de la Iglesia en el pontificado de San Juan Pablo II, caracterizado por una nueva evangelización."
 ---
 # Tercer Milenio Cristiano
 

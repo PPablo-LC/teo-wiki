@@ -4,7 +4,7 @@ title: Vida Consagrada
 tags: ["eclesiología", "ascética"]
 
 timestamp: 2026-05-25
-description: Estado de vida estable reconocido por la Iglesia, caracterizado por la profesión pública de los consejos evangélicos de castidad, pobreza y obediencia.
+description: "Estado de vida estable reconocido por la Iglesia, caracterizado por la profesión pública de los consejos evangélicos de castidad, pobreza y obediencia."
 ---
 # Vida Consagrada
 

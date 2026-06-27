@@ -4,7 +4,7 @@ title: Parroquia
 tags: ["derecho_canónico"]
 
 timestamp: 2026-06-10
-description: La parroquia es una determinada comunidad de fieles constituida de modo estable en la Iglesia particular, cuya cura pastoral, bajo la autoridad del Obispo diocesano.
+description: "La parroquia es una determinada comunidad de fieles constituida de modo estable en la Iglesia particular, cuya cura pastoral, bajo la autoridad del Obispo diocesano."
 ---
 # Parroquia
 

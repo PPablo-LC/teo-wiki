@@ -4,7 +4,7 @@ title: San Símaco (Papa)
 tags: ["patrística_—_papas"]
 
 timestamp: 2026-06-25
-description: San Símaco fue Papa de la Iglesia Católica desde 498 hasta 514. Su pontificado estuvo marcado por el cisma de Laurencio y por el afianzamiento de la autoridad romana en Italia.
+description: "San Símaco fue Papa de la Iglesia Católica desde 498 hasta 514. Su pontificado estuvo marcado por el cisma de Laurencio y por el afianzamiento de la autoridad romana en Italia."
 ---
 # San Símaco (Papa)
 

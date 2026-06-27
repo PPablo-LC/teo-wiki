@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Montes de piedad
-description: Instituciones de crédito con interés moderado para gastos de administración, sin ánimo de lucro, declaradas lícitas por el V Concilio de Letrán.
+description: "Instituciones de crédito con interés moderado para gastos de administración, sin ánimo de lucro, declaradas lícitas por el V Concilio de Letrán."
 tags: ["moral"]
 timestamp: 2026-06-26
 ---

@@ -4,7 +4,7 @@ title: Juan II (Papa)
 tags: ["patrística_—_papas"]
 
 timestamp: 2026-06-25
-description: Juan II fue Papa de la Iglesia Católica desde 533 hasta 535. Nacido en Roma con el nombre de Mercurio, fue el primer Papa en cambiar su nombre al ascender al pontificado.
+description: "Juan II fue Papa de la Iglesia Católica desde 533 hasta 535. Nacido en Roma con el nombre de Mercurio, fue el primer Papa en cambiar su nombre al ascender al pontificado."
 ---
 # Juan II (Papa)
 

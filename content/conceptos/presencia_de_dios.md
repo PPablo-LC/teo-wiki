@@ -4,7 +4,7 @@ title: Presencia de Dios
 tags: ["ascética"]
 
 timestamp: 2026-05-20
-description: La presencia de Dios es un ejercicio que consiste en considerar con la máxima frecuencia posible que Dios está presente en todas partes, y muy particularmente en el fondo de nuestro corazón.
+description: "La presencia de Dios es un ejercicio que consiste en considerar con la máxima frecuencia posible que Dios está presente en todas partes, y muy particularmente en el fondo de nuestro corazón."
 ---
 # Presencia de Dios
 

@@ -4,7 +4,7 @@ title: Absolución general
 tags: ["derecho_canónico", "sacramental"]
 
 timestamp: 2026-05-26
-description: La absolución general es la absolución sacramental impartida simultáneamente a varios penitentes sin previa confesión individual.
+description: "La absolución general es la absolución sacramental impartida simultáneamente a varios penitentes sin previa confesión individual."
 ---
 # Absolución general
 

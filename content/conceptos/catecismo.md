@@ -4,7 +4,7 @@ title: Catecismo
 tags: ["catequética", "pastoral"]
 
 timestamp: 2026-05-25
-description: Instrumento de formación catequética que contiene una exposición orgánica y sistemática de la doctrina católica.
+description: "Instrumento de formación catequética que contiene una exposición orgánica y sistemática de la doctrina católica."
 ---
 # Catecismo
 

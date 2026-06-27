@@ -4,7 +4,7 @@ title: Entrada en religión
 tags: ["ascética", "derecho_canónico"]
 
 timestamp: 2026-06-12
-description: La entrada en religión es el acto por el cual un fiel, movido por la gracia divina.
+description: "La entrada en religión es el acto por el cual un fiel, movido por la gracia divina."
 ---
 # Entrada en religión
 

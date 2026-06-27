@@ -4,7 +4,7 @@ title: Comunión eclesial
 tags: ["eclesiología"]
 
 timestamp: 2026-05-26
-description: Vínculo de comunión que une a los fieles entre sí y con la Trinidad en la Iglesia. Realidad que constituye a la Iglesia como comunión de vida, caridad y verdad (CEC §787-795).
+description: "Vínculo de comunión que une a los fieles entre sí y con la Trinidad en la Iglesia. Realidad que constituye a la Iglesia como comunión de vida, caridad y verdad (CEC §787-795)."
 ---
 # Comunión eclesial
 

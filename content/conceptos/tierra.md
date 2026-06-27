@@ -4,7 +4,7 @@ title: Tierra
 tags: ["escritura", "escatología"]
 
 timestamp: 2026-06-02
-description: La tierra en la teología bíblica es creación de Dios, don de la Alianza, lugar de la morada del hombre y objeto de la promesa divina.
+description: "La tierra en la teología bíblica es creación de Dios, don de la Alianza, lugar de la morada del hombre y objeto de la promesa divina."
 ---
 # Tierra
 

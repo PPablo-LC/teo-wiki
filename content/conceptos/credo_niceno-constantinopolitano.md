@@ -4,7 +4,7 @@ title: Credo Niceno-Constantinopolitano
 tags: ["dogmática"]
 
 timestamp: 2026-06-24
-description: El Credo Niceno-Constantinopolitano (también llamado Símbolo Niceno-Constantinopolitano) es la profesión de fe ampliada del Concilio de Constantinopla I (381).
+description: "El Credo Niceno-Constantinopolitano (también llamado Símbolo Niceno-Constantinopolitano) es la profesión de fe ampliada del Concilio de Constantinopla I (381)."
 ---
 # Credo Niceno-Constantinopolitano
 

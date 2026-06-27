@@ -4,7 +4,7 @@ title: Santo Tomás de Aquino
 tags: ["persona"]
 
 timestamp: 2026-05-20
-description: Tomás de Aquino (1225-1274), religioso dominico, Doctor Angélico y Doctor Común de la Iglesia.
+description: "Tomás de Aquino (1225-1274), religioso dominico, Doctor Angélico y Doctor Común de la Iglesia."
 ---
 # Santo Tomás de Aquino
 

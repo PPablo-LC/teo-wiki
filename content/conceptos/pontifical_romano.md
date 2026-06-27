@@ -4,7 +4,7 @@ title: Pontifical Romano
 tags: ["liturgia", "sacramental"]
 
 timestamp: 2026-05-22
-description: Libro litúrgico que contiene los ritos y ceremonias propias del ministerio episcopal.
+description: "Libro litúrgico que contiene los ritos y ceremonias propias del ministerio episcopal."
 ---
 # Pontifical Romano
 

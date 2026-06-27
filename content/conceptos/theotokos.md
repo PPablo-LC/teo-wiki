@@ -4,7 +4,7 @@ title: Theotokos
 tags: ["dogmática_—_mariología"]
 
 timestamp: 2026-06-25
-description: Theotokos (en griego Θεοτόκος).
+description: "Theotokos (en griego Θεοτόκος)."
 ---
 # Theotokos
 

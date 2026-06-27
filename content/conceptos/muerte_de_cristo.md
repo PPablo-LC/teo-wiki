@@ -4,7 +4,7 @@ title: Muerte de Cristo
 tags: ["dogmática", "cristología"]
 
 timestamp: 2026-06-20
-description: La muerte de Cristo es el sacrificio redentor por el cual Jesucristo, verdadero Dios y verdadero hombre, ofreció libremente su vida en la cruz para la salvación de todos los hombres.
+description: "La muerte de Cristo es el sacrificio redentor por el cual Jesucristo, verdadero Dios y verdadero hombre, ofreció libremente su vida en la cruz para la salvación de todos los hombres."
 ---
 # Muerte de Cristo
 

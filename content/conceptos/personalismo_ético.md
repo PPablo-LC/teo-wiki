@@ -4,7 +4,7 @@ title: Personalismo ético
 tags: ["ética", "filosofía_moral"]
 
 timestamp: 2026-06-18
-description: El personalismo ético es la corriente filosófica que sitúa a la persona humana como fundamento y fin de la moralidad.
+description: "El personalismo ético es la corriente filosófica que sitúa a la persona humana como fundamento y fin de la moralidad."
 ---
 # Personalismo ético
 

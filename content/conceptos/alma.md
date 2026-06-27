@@ -4,7 +4,7 @@ title: Alma
 tags: ["antropología_teológica"]
 
 timestamp: 2026-06-04
-description: El alma es el principio espiritual e inmortal en el hombre, creado directamente por Dios, que informa el cuerpo como su forma substancial y constituye con él una única naturaleza humana.
+description: "El alma es el principio espiritual e inmortal en el hombre, creado directamente por Dios, que informa el cuerpo como su forma substancial y constituye con él una única naturaleza humana."
 ---
 # Alma
 

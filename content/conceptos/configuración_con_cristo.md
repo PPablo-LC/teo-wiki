@@ -4,7 +4,7 @@ title: Configuración con Cristo
 tags: ["ascética", "dogmática"]
 
 timestamp: 2026-06-14
-description: La configuración con Cristo es el proceso por el cual el cristiano, mediante la gracia, las virtudes y la imitación de Cristo, se asemeja progresivamente al Hijo de Dios hecho hombre.
+description: "La configuración con Cristo es el proceso por el cual el cristiano, mediante la gracia, las virtudes y la imitación de Cristo, se asemeja progresivamente al Hijo de Dios hecho hombre."
 ---
 # Configuración con Cristo
 

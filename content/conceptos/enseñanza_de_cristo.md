@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Enseñanza de Cristo
-description: La ensenanza de Cristo comprende el contenido, los destinatarios, el modo y la eficacia de la predicacion de Jesucristo durante su vida terrena.
+description: "La ensenanza de Cristo comprende el contenido, los destinatarios, el modo y la eficacia de la predicacion de Jesucristo durante su vida terrena."
 ---
 # Enseñanza de Cristo
 

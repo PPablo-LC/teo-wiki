@@ -4,7 +4,7 @@ title: Herejía
 tags: ["derecho_canónico", "eclesiología"]
 
 timestamp: 2026-05-25
-description: Delito contra la fe que consiste en la negación pertinaz, después de recibido el bautismo, de una verdad que ha de creerse con fe divina y católica, o la duda pertinaz sobre la misma (CIC c. 751).
+description: "Delito contra la fe que consiste en la negación pertinaz, después de recibido el bautismo, de una verdad que ha de creerse con fe divina y católica, o la duda pertinaz sobre la misma (CIC c. 751)."
 ---
 # Herejía
 

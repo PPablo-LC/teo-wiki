@@ -4,7 +4,7 @@ title: Oración de Simple Unión
 tags: ["mística"]
 
 timestamp: 2026-05-29
-description: La oración de simple unión (séptimo grado de oración en la clasificación general.)
+description: "La oración de simple unión (séptimo grado de oración en la clasificación general.)"
 ---
 # Oración de Simple Unión
 

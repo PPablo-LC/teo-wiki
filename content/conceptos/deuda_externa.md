@@ -4,7 +4,7 @@ title: Deuda externa
 tags: ["doctrina_social"]
 
 timestamp: 2026-05-25
-description: Crisis de endeudamiento de los países pobres, que tiene causas complejas tanto de carácter internacional como internas.
+description: "Crisis de endeudamiento de los países pobres, que tiene causas complejas tanto de carácter internacional como internas."
 ---
 # Deuda externa
 

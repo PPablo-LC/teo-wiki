@@ -4,7 +4,7 @@ title: Corazón
 tags: ["dogmática", "ascética", "mística"]
 
 timestamp: 2026-06-10
-description: El corazón es el centro de la persona humana, el lugar de las decisiones, de la verdad, del encuentro y de la Alianza, que solo puede ser sondeado y conocido por el Espíritu de Dios.
+description: "El corazón es el centro de la persona humana, el lugar de las decisiones, de la verdad, del encuentro y de la Alianza, que solo puede ser sondeado y conocido por el Espíritu de Dios."
 ---
 # Corazón
 

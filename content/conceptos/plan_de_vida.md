@@ -4,7 +4,7 @@ title: Plan de vida
 tags: ["ascética"]
 
 timestamp: 2026-06-19
-description: El plan de vida consiste en trazarse un horario completo y detallado de las ocupaciones y ejercicios de piedad que hayan de practicarse durante el día para cumplirlo fielmente después de haberlo...
+description: "El plan de vida consiste en trazarse un horario completo y detallado de las ocupaciones y ejercicios de piedad que hayan de practicarse durante el día para cumplirlo fielmente después de haberlo..."
 ---
 # Plan de vida
 

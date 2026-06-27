@@ -4,7 +4,7 @@ title: Cristo Vida
 tags: ["dogmática", "cristología"]
 
 timestamp: 2026-06-22
-description: Cristo es la Vida misma en cuanto atributo divino subsistente.
+description: "Cristo es la Vida misma en cuanto atributo divino subsistente."
 ---
 # Cristo Vida
 

@@ -4,7 +4,7 @@ title: Derecho canónico
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-26
-description: El derecho canónico es el cuerpo orgánico de leyes que rige la organización y disciplina de la Iglesia católica, tanto latina como oriental.
+description: "El derecho canónico es el cuerpo orgánico de leyes que rige la organización y disciplina de la Iglesia católica, tanto latina como oriental."
 ---
 # Derecho canónico
 

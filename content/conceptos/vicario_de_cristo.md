@@ -4,7 +4,7 @@ title: Vicario de Cristo
 tags: ["eclesiología"]
 
 timestamp: 2026-05-25
-description: «Vicario de Cristo» es el título del Romano Pontífice como representante de Jesucristo en la tierra, cabeza visible de la Iglesia, que ejerce en nombre de Cristo la potestad suprema de enseñar.
+description: "«Vicario de Cristo» es el título del Romano Pontífice como representante de Jesucristo en la tierra, cabeza visible de la Iglesia, que ejerce en nombre de Cristo la potestad suprema de enseñar."
 ---
 # Vicario de Cristo
 

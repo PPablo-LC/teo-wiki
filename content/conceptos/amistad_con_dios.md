@@ -4,7 +4,7 @@ title: Amistad con Dios
 tags: ["dogmática", "ascética"]
 
 timestamp: 2026-06-03
-description: Relación sobrenatural entre Dios y el hombre fundada en la gracia santificante, por la cual el alma es elevada al orden divino y establecida en una comunión de vida y amor con Dios.
+description: "Relación sobrenatural entre Dios y el hombre fundada en la gracia santificante, por la cual el alma es elevada al orden divino y establecida en una comunión de vida y amor con Dios."
 ---
 # Amistad con Dios
 

@@ -4,7 +4,7 @@ title: Renovación de las promesas bautismales (Legión de Cristo)
 tags: ["liturgia", "espiritualidad_legionaria"]
 
 timestamp: 2026-06-14
-description: Rito litúrgico de renovación de las promesas bautismales que se celebra al terminar los ejercicios espirituales en las comunidades de la Legión de Cristo y del Regnum Christi.
+description: "Rito litúrgico de renovación de las promesas bautismales que se celebra al terminar los ejercicios espirituales en las comunidades de la Legión de Cristo y del Regnum Christi."
 ---
 # Renovación de las promesas bautismales (Legión de Cristo)
 

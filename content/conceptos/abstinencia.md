@@ -4,7 +4,7 @@ title: Abstinencia
 tags: ["moral_—_ascética"]
 
 timestamp: 2026-06-11
-description: Virtud aneja a la templanza que inclina al uso moderado de los alimentos corporales según el dictamen de la recta razón iluminada por la fe.
+description: "Virtud aneja a la templanza que inclina al uso moderado de los alimentos corporales según el dictamen de la recta razón iluminada por la fe."
 ---
 # Abstinencia
 

@@ -4,7 +4,7 @@ title: Santa Gema Galgani
 tags: ["persona", "hagiografía"]
 
 timestamp: 2026-05-22
-description: Gema Galgani (1878-1903), mística y estigmatizada italiana, nacida en Camigliano (Lucca). Huérfana de padres, aspiró a ingresar en las pasionistas pero no fue admitida por su frágil salud.
+description: "Gema Galgani (1878-1903), mística y estigmatizada italiana, nacida en Camigliano (Lucca). Huérfana de padres, aspiró a ingresar en las pasionistas pero no fue admitida por su frágil salud."
 ---
 # Santa Gema Galgani
 

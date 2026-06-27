@@ -4,7 +4,7 @@ title: Sede Apostólica
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-26
-description: La Sede Apostólica o Santa Sede es el órgano supremo de gobierno de la Iglesia universal.
+description: "La Sede Apostólica o Santa Sede es el órgano supremo de gobierno de la Iglesia universal."
 ---
 # Sede Apostólica
 

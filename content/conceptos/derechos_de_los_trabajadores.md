@@ -4,7 +4,7 @@ title: Derechos de los trabajadores
 tags: ["doctrina_social"]
 
 timestamp: 2026-06-17
-description: Conjunto de derechos morales que brotan del trabajo como obligación y deber del hombre, examinados en el amplio contexto del conjunto de los derechos humanos connaturales a la persona.
+description: "Conjunto de derechos morales que brotan del trabajo como obligación y deber del hombre, examinados en el amplio contexto del conjunto de los derechos humanos connaturales a la persona."
 ---
 # Derechos de los trabajadores
 

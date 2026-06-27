@@ -4,7 +4,7 @@ title: Divorcio
 tags: ["moral", "doctrina_social"]
 
 timestamp: 2026-06-15
-description: Ruptura del vínculo conyugal reconocida civilmente, que la Iglesia considera una verdadera plaga social que ha alimentado una visión relativista de la unión matrimonial.
+description: "Ruptura del vínculo conyugal reconocida civilmente, que la Iglesia considera una verdadera plaga social que ha alimentado una visión relativista de la unión matrimonial."
 ---
 # Divorcio
 

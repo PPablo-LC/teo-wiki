@@ -4,7 +4,7 @@ title: Prueba
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-25
-description: En el proceso canónico, la prueba es todo medio lícito y útil para demostrar la verdad de los hechos alegados por las partes, sobre los cuales el juez debe formar su convicción para dictar sentencia.
+description: "En el proceso canónico, la prueba es todo medio lícito y útil para demostrar la verdad de los hechos alegados por las partes, sobre los cuales el juez debe formar su convicción para dictar sentencia."
 ---
 # Prueba
 

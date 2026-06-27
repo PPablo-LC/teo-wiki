@@ -4,7 +4,7 @@ title: Oración Contemplativa
 tags: ["mística"]
 
 timestamp: 2026-05-29
-description: La oración contemplativa, también llamada contemplación infusa o mística, es una suspensión admirativa del entendimiento ante el esplendor de la verdad sobrenatural.
+description: "La oración contemplativa, también llamada contemplación infusa o mística, es una suspensión admirativa del entendimiento ante el esplendor de la verdad sobrenatural."
 ---
 # Oración Contemplativa
 

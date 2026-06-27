@@ -4,7 +4,7 @@ title: Antropología cristiana
 tags: ["dogmática", "antropología"]
 
 timestamp: 2026-06-18
-description: La antropología cristiana es la comprensión del ser humano a la luz de la Revelación divina, que encuentra en Jesucristo la clave definitiva del misterio del hombre.
+description: "La antropología cristiana es la comprensión del ser humano a la luz de la Revelación divina, que encuentra en Jesucristo la clave definitiva del misterio del hombre."
 ---
 # Antropología cristiana
 

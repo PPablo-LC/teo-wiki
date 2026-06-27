@@ -4,7 +4,7 @@ title: Desapego
 tags: ["ascética"]
 
 timestamp: 2026-05-22
-description: El desapego es la virtud por la cual el alma se libera del apego desordenado a las criaturas, bienes, honores y consuelos sensibles, para ordenarlo todo a Dios.
+description: "El desapego es la virtud por la cual el alma se libera del apego desordenado a las criaturas, bienes, honores y consuelos sensibles, para ordenarlo todo a Dios."
 ---
 # Desapego
 

@@ -4,7 +4,7 @@ title: Jactancia
 tags: ["moral", "ascética"]
 
 timestamp: 2026-06-10
-description: La jactancia es el vicio por el cual una persona se atribuye excelencias que no posee o se eleva sobre lo que realmente es.
+description: "La jactancia es el vicio por el cual una persona se atribuye excelencias que no posee o se eleva sobre lo que realmente es."
 ---
 # Jactancia
 

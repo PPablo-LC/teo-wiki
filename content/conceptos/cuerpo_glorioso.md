@@ -4,7 +4,7 @@ title: Cuerpo Glorioso
 tags: ["escatología"]
 
 timestamp: 2026-05-22
-description: El cuerpo glorioso es el cuerpo humano resucitado después de la muerte, transformado por la gloria de Dios, inmortal, impasible.
+description: "El cuerpo glorioso es el cuerpo humano resucitado después de la muerte, transformado por la gloria de Dios, inmortal, impasible."
 ---
 # Cuerpo Glorioso
 

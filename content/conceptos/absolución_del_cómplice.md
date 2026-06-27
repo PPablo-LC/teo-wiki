@@ -4,7 +4,7 @@ title: Absolución del cómplice
 tags: ["derecho_canónico_penal"]
 
 timestamp: 2026-05-29
-description: La absolución del cómplice es el delito canónico cometido por un sacerdote que absuelve sacramentalmente a una persona con quien ha cometido un pecado contra el sexto mandamiento del Decálogo.
+description: "La absolución del cómplice es el delito canónico cometido por un sacerdote que absuelve sacramentalmente a una persona con quien ha cometido un pecado contra el sexto mandamiento del Decálogo."
 ---
 # Absolución del cómplice
 

@@ -4,7 +4,7 @@ title: Teología
 tags: ["dogmática"]
 
 timestamp: 2026-06-17
-description: Ciencia de la fe que busca una comprensión más profunda de la Revelación divina, bajo la guía del Magisterio de la Iglesia, utilizando la razón iluminada por la fe.
+description: "Ciencia de la fe que busca una comprensión más profunda de la Revelación divina, bajo la guía del Magisterio de la Iglesia, utilizando la razón iluminada por la fe."
 ---
 # Teología
 

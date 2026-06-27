@@ -4,7 +4,7 @@ title: Alianza
 tags: ["dogmática"]
 
 timestamp: 2026-06-02
-description: Pacto solemne establecido por Dios con los hombres, por el cual se compromete a ser su Dios y a derramar sobre ellos sus bendiciones a cambio de su fidelidad y obediencia.
+description: "Pacto solemne establecido por Dios con los hombres, por el cual se compromete a ser su Dios y a derramar sobre ellos sus bendiciones a cambio de su fidelidad y obediencia."
 ---
 # Alianza
 

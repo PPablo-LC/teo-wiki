@@ -4,7 +4,7 @@ title: Concilio de Francfort
 tags: ["historia_—_concilios"]
 
 timestamp: 2026-06-25
-description: Carlomagno convocó el Concilio de Francfort para resolver la controversia adopcionista que había surgido en Hispania.
+description: "Carlomagno convocó el Concilio de Francfort para resolver la controversia adopcionista que había surgido en Hispania."
 ---
 # Concilio de Francfort
 

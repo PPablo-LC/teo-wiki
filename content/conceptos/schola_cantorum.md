@@ -4,7 +4,7 @@ title: Schola cantorum
 tags: ["liturgia"]
 
 timestamp: 2026-05-29
-description: La schola cantorum es el coro litúrgico especializado en el canto gregoriano y la polifonía sacra dentro de la liturgia romana.
+description: "La schola cantorum es el coro litúrgico especializado en el canto gregoriano y la polifonía sacra dentro de la liturgia romana."
 ---
 # Schola cantorum
 

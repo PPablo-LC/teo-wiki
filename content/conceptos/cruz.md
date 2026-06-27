@@ -4,7 +4,7 @@ title: Cruz
 tags: ["cristología", "soteriología"]
 
 timestamp: 2026-06-21
-description: La cruz es el instrumento de la muerte redentora de Jesucristo y el símbolo central de la fe cristiana.
+description: "La cruz es el instrumento de la muerte redentora de Jesucristo y el símbolo central de la fe cristiana."
 ---
 # Cruz
 

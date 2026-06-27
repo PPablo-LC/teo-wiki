@@ -4,7 +4,7 @@ title: Virginidad consagrada
 tags: ["moral", "ascética"]
 
 timestamp: 2026-06-20
-description: La virginidad consagrada es el estado de vida en que una persona, por motivos religiosos, se compromete a permanecer célibe «por el Reino de los cielos» (Mt 19,11-12).
+description: "La virginidad consagrada es el estado de vida en que una persona, por motivos religiosos, se compromete a permanecer célibe «por el Reino de los cielos» (Mt 19,11-12)."
 ---
 # Virginidad consagrada
 

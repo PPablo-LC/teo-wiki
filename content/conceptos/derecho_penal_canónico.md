@@ -4,7 +4,7 @@ title: Derecho penal canónico
 tags: ["derecho_canónico"]
 
 timestamp: 2026-06-19
-description: Conjunto de normas del ordenamiento canónico que regulan la potestad de la Iglesia para castigar con sanciones penales a los fieles que cometen delitos, así como los tipos delictivos.
+description: "Conjunto de normas del ordenamiento canónico que regulan la potestad de la Iglesia para castigar con sanciones penales a los fieles que cometen delitos, así como los tipos delictivos."
 ---
 # Derecho penal canónico
 

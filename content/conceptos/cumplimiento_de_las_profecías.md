@@ -4,7 +4,7 @@ title: Cumplimiento de las profecías
 tags: ["dogmática"]
 
 timestamp: 2026-05-22
-description: El cumplimiento de las profecías es la verificación histórica en Jesucristo y en la Iglesia de los anuncios proféticos contenidos en el Antiguo Testamento.
+description: "El cumplimiento de las profecías es la verificación histórica en Jesucristo y en la Iglesia de los anuncios proféticos contenidos en el Antiguo Testamento."
 ---
 # Cumplimiento de las profecías
 

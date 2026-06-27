@@ -4,7 +4,7 @@ title: Bautismo de sangre
 tags: ["dogmática_—_sacramental"]
 
 timestamp: 2026-05-22
-description: Sustituto del sacramento del Bautismo que consiste en el martirio sufrido por Cristo sin haber recibido el bautismo de agua.
+description: "Sustituto del sacramento del Bautismo que consiste en el martirio sufrido por Cristo sin haber recibido el bautismo de agua."
 ---
 # Bautismo de sangre
 

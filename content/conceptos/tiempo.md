@@ -4,7 +4,7 @@ title: Tiempo
 tags: ["dogmática", "escatología"]
 
 timestamp: 2026-06-02
-description: El tiempo en la teología bíblica no es un ciclo eterno sino una realidad lineal orientada hacia su cumplimiento escatológico.
+description: "El tiempo en la teología bíblica no es un ciclo eterno sino una realidad lineal orientada hacia su cumplimiento escatológico."
 ---
 # Tiempo
 

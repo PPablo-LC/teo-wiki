@@ -4,7 +4,7 @@ title: Rodilla
 tags: ["bíblica", "liturgia", "espiritualidad"]
 
 timestamp: 2026-06-02
-description: Doblar la rodilla es en la Escritura un gesto simbólico de sumisión, adoración y súplica profunda.
+description: "Doblar la rodilla es en la Escritura un gesto simbólico de sumisión, adoración y súplica profunda."
 ---
 # Rodilla
 

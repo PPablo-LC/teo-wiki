@@ -4,7 +4,7 @@ title: Baptisterio
 tags: ["liturgia"]
 
 timestamp: 2026-05-26
-description: El baptisterio es el lugar destinado para celebrar el sacramento del bautismo.
+description: "El baptisterio es el lugar destinado para celebrar el sacramento del bautismo."
 ---
 # Baptisterio
 

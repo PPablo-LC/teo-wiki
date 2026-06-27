@@ -4,7 +4,7 @@ title: Sínodo diocesano
 tags: ["eclesiología"]
 
 timestamp: 2026-05-25
-description: El sínodo diocesano es una asamblea de sacerdotes y de otros fieles escogidos de una Iglesia particular.
+description: "El sínodo diocesano es una asamblea de sacerdotes y de otros fieles escogidos de una Iglesia particular."
 ---
 # Sínodo diocesano
 

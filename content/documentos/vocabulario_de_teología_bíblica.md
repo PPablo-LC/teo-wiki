@@ -4,7 +4,7 @@ title: Vocabulario de Teología Bíblica
 tags: ["documentos"]
 
 timestamp: 2026-06-11
-description: Los artículos se organizan alfabéticamente y cada uno rastrea el uso y sentido del término en los distintos estratos literarios de la Biblia (Antiguo y Nuevo Testamento).
+description: "Los artículos se organizan alfabéticamente y cada uno rastrea el uso y sentido del término en los distintos estratos literarios de la Biblia (Antiguo y Nuevo Testamento)."
 ---
 # Vocabulario de Teología Bíblica
 

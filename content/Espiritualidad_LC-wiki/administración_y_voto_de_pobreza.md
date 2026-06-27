@@ -4,7 +4,7 @@ title: Administración y voto de pobreza
 tags: ["vida_consagrada", "derecho_canónico"]
 
 timestamp: 2026-06-13
-description: La administración de los bienes temporales en la Legión de Cristo y la vivencia del voto de pobreza abarcan tanto el desapego personal de los bienes como la gestión de los recursos económicos al...
+description: "La administración de los bienes temporales en la Legión de Cristo y la vivencia del voto de pobreza abarcan tanto el desapego personal de los bienes como la gestión de los recursos económicos al..."
 ---
 # Administración y voto de pobreza
 

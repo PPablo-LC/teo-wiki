@@ -4,7 +4,7 @@ title: Desierto
 tags: ["bíblica"]
 
 timestamp: 2026-06-02
-description: El desierto en la Sagrada Escritura posee un significado religioso ambivalente.
+description: "El desierto en la Sagrada Escritura posee un significado religioso ambivalente."
 ---
 # Desierto
 

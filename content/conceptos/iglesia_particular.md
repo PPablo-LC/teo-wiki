@@ -4,7 +4,7 @@ title: Iglesia particular
 tags: ["eclesiología"]
 
 timestamp: 2026-05-26
-description: La Iglesia particular (o diócesis) es una porción del Pueblo de Dios en la que, bajo la autoridad del obispo diocesano y con su presbiterio, se realiza y actúa la Iglesia de Cristo, una, santa.
+description: "La Iglesia particular (o diócesis) es una porción del Pueblo de Dios en la que, bajo la autoridad del obispo diocesano y con su presbiterio, se realiza y actúa la Iglesia de Cristo, una, santa."
 ---
 # Iglesia particular
 

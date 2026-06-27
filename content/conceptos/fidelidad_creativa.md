@@ -4,7 +4,7 @@ title: Fidelidad creativa
 tags: ["teología_fundamental", "teología_espiritual"]
 
 timestamp: 2026-06-05
-description: Actitud del pensamiento y de la vida cristiana que mantiene fidelidad a la Tradición viva de la Iglesia no mediante la repetición mecánica de fórmulas del pasado.
+description: "Actitud del pensamiento y de la vida cristiana que mantiene fidelidad a la Tradición viva de la Iglesia no mediante la repetición mecánica de fórmulas del pasado."
 ---
 # Fidelidad creativa
 

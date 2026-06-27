@@ -4,7 +4,7 @@ title: Cuerpo humano de Cristo
 tags: ["cristología"]
 
 timestamp: 2026-06-22
-description: Jesucristo poseyó un cuerpo humano real, tomado de María Virgen por obra del Espíritu Santo, sujeto a las condiciones propias de la naturaleza humana —crecimiento, fatiga, hambre, sed.
+description: "Jesucristo poseyó un cuerpo humano real, tomado de María Virgen por obra del Espíritu Santo, sujeto a las condiciones propias de la naturaleza humana —crecimiento, fatiga, hambre, sed."
 ---
 # Cuerpo humano de Cristo
 

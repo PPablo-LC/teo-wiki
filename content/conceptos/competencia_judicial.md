@@ -4,7 +4,7 @@ title: Competencia judicial
 tags: ["derecho_canónico"]
 
 timestamp: 2026-06-19
-description: La competencia judicial en el derecho canónico es la idoneidad jurídica de un tribunal eclesiástico para conocer de una causa determinada, determinada por los títulos establecidos en la ley.
+description: "La competencia judicial en el derecho canónico es la idoneidad jurídica de un tribunal eclesiástico para conocer de una causa determinada, determinada por los títulos establecidos en la ley."
 ---
 # Competencia judicial
 

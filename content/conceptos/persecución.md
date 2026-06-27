@@ -4,7 +4,7 @@ title: Persecución
 tags: ["ascética", "escatología"]
 
 timestamp: 2026-05-22
-description: Padecimiento por causa de la justicia y del nombre de Cristo, que la Iglesia y los fieles sufren como parte del seguimiento de Jesús.
+description: "Padecimiento por causa de la justicia y del nombre de Cristo, que la Iglesia y los fieles sufren como parte del seguimiento de Jesús."
 ---
 # Persecución
 

@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Jubileo
-description: Año santo de indulgencia plenaria concedido por el Romano Pontífice, instituido por Bonifacio VIII en 1300.
+description: "Año santo de indulgencia plenaria concedido por el Romano Pontífice, instituido por Bonifacio VIII en 1300."
 tags: ["sacramental", "historia_—_papado"]
 timestamp: 2026-06-26
 ---

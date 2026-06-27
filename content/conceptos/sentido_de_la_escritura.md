@@ -4,7 +4,7 @@ title: Sentido de la Escritura
 tags: ["dogmática", "teología_fundamental"]
 
 timestamp: 2026-05-26
-description: La Sagrada Escritura tiene dos sentidos fundamentales.
+description: "La Sagrada Escritura tiene dos sentidos fundamentales."
 ---
 # Sentido de la Escritura
 

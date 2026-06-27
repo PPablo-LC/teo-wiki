@@ -4,7 +4,7 @@ title: Solidaridad entre los pueblos
 tags: ["doctrina_social"]
 
 timestamp: 2026-05-25
-description: La solidaridad entre los pueblos es el principio moral y social que exige la cooperación, la justicia y la ayuda mutua entre las naciones y comunidades políticas.
+description: "La solidaridad entre los pueblos es el principio moral y social que exige la cooperación, la justicia y la ayuda mutua entre las naciones y comunidades políticas."
 ---
 # Solidaridad entre los pueblos
 

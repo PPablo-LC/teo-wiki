@@ -4,7 +4,7 @@ title: Humillación de Cristo
 tags: ["cristología"]
 
 timestamp: 2026-06-22
-description: La humillación de Cristo es el acto por el cual el Hijo de Dios «se humilló a sí mismo, obedeciendo hasta la muerte, y muerte de cruz» (Flp 2,8).
+description: "La humillación de Cristo es el acto por el cual el Hijo de Dios «se humilló a sí mismo, obedeciendo hasta la muerte, y muerte de cruz» (Flp 2,8)."
 ---
 # Humillación de Cristo
 

@@ -4,7 +4,7 @@ title: Crisma
 tags: ["sacramental", "liturgia"]
 
 timestamp: 2026-06-03
-description: El santo crisma (myron) es óleo perfumado consagrado por el obispo, signo sacramental del don del Espíritu Santo.
+description: "El santo crisma (myron) es óleo perfumado consagrado por el obispo, signo sacramental del don del Espíritu Santo."
 ---
 # Crisma
 

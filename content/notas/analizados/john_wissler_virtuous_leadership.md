@@ -2,7 +2,7 @@
 type: Análisis Doctrinal
 title: "John Wissler — Virtuous Leadership: A Recap of Frassati Leader Discussions: Análisis doctrinal"
 timestamp: 2026-06-03
-description: Versión previa (más detallada) del discurso de clausura de la Catholic Men's Conference 2022 a cargo del general retirado John Wissler.
+description: "Versión previa (más detallada) del discurso de clausura de la Catholic Men's Conference 2022 a cargo del general retirado John Wissler."
 ---
 # John Wissler — Virtuous Leadership: A Recap of Frassati Leader Discussions: Análisis doctrinal
 

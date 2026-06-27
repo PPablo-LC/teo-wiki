@@ -1,7 +1,7 @@
 ---
 type: Persona
 title: Alejandro VII
-description: Papa (1655-1667), reafirmó la condena de las cinco proposiciones de Jansenio en el sentido propio del autor (Ad sacram, 1656), impuso el formulario de sumisión (Regiminis Apostolici, 1665), y promulgó la bula Sollicitudo omnium Ecclesiarum sobre la Inmaculada Concepción (1661).
+description: "Papa (1655-1667), reafirmó la condena de las cinco proposiciones de Jansenio en el sentido propio del autor (Ad sacram, 1656), impuso el formulario de sumisión (Regiminis Apostolici, 1665), y promulgó la bula Sollicitudo omnium Ecclesiarum sobre la Inmaculada Concepción (1661)."
 tags: ["papas", "historia_—_papado"]
 timestamp: 2026-06-27
 ---

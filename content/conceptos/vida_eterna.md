@@ -4,7 +4,7 @@ title: Vida Eterna
 tags: ["escatología"]
 
 timestamp: 2026-06-23
-description: La vida que no tiene fin, a la que el hombre está destinado por Dios.
+description: "La vida que no tiene fin, a la que el hombre está destinado por Dios."
 ---
 # Vida Eterna
 

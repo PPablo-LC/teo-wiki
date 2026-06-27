@@ -4,7 +4,7 @@ title: Unidad del alma y el cuerpo
 tags: ["antropología_teológica"]
 
 timestamp: 2026-06-19
-description: El hombre ha sido creado por Dios como unidad de alma y cuerpo.
+description: "El hombre ha sido creado por Dios como unidad de alma y cuerpo."
 ---
 # Unidad del alma y el cuerpo
 

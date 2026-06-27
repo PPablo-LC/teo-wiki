@@ -4,7 +4,7 @@ title: Ritos Litúrgicos
 tags: ["liturgia"]
 
 timestamp: 2026-05-26
-description: Los ritos litúrgicos son las diversas tradiciones litúrgicas legítimamente reconocidas en la Iglesia católica, que expresan una misma fe en distintas formas culturales y disciplinas.
+description: "Los ritos litúrgicos son las diversas tradiciones litúrgicas legítimamente reconocidas en la Iglesia católica, que expresan una misma fe en distintas formas culturales y disciplinas."
 ---
 # Ritos Litúrgicos
 

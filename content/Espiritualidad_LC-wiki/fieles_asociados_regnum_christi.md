@@ -4,7 +4,7 @@ title: Fieles asociados del Regnum Christi
 tags: ["derecho_canónico", "espiritualidad"]
 
 timestamp: 2026-05-31
-description: Los fieles asociados del Regnum Christi (también llamados «miembros laicos del Regnum Christi») son fieles laicos que, sin asumir los consejos evangélicos con vínculo sagrado.
+description: "Los fieles asociados del Regnum Christi (también llamados «miembros laicos del Regnum Christi») son fieles laicos que, sin asumir los consejos evangélicos con vínculo sagrado."
 ---
 # Fieles asociados del Regnum Christi
 

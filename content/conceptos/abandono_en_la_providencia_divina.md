@@ -4,7 +4,7 @@ title: Abandono en la Providencia Divina
 tags: ["ascética"]
 
 timestamp: 2026-05-29
-description: El abandono en la providencia divina es la virtud por la cual el alma se entrega confiadamente en las manos de Dios.
+description: "El abandono en la providencia divina es la virtud por la cual el alma se entrega confiadamente en las manos de Dios."
 ---
 # Abandono en la Providencia Divina
 

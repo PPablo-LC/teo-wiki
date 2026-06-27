@@ -4,7 +4,7 @@ title: Unción
 tags: ["sacramental", "dogmática"]
 
 timestamp: 2026-06-02
-description: La unción es el rito de derramar o aplicar óleo sagrado como signo de consagración, bendición y comunicación del Espíritu Santo. En el AT se ungían reyes, sacerdotes y profetas.
+description: "La unción es el rito de derramar o aplicar óleo sagrado como signo de consagración, bendición y comunicación del Espíritu Santo. En el AT se ungían reyes, sacerdotes y profetas."
 ---
 # Unción
 

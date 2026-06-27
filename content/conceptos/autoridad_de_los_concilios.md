@@ -4,7 +4,7 @@ title: Autoridad de los concilios
 tags: ["dogmática_—_eclesiología"]
 
 timestamp: 2026-06-25
-description: La autoridad de los concilios es la potestad de los concilios ecuménicos de definir la doctrina católica y legislar para la Iglesia universal.
+description: "La autoridad de los concilios es la potestad de los concilios ecuménicos de definir la doctrina católica y legislar para la Iglesia universal."
 ---
 # Autoridad de los concilios
 

@@ -4,7 +4,7 @@ title: Acciones judiciales
 tags: ["derecho_canónico"]
 
 timestamp: 2026-06-19
-description: Las acciones y excepciones judiciales son los instrumentos jurídicos mediante los cuales las partes hacen valer o defienden sus derechos ante un tribunal eclesiástico.
+description: "Las acciones y excepciones judiciales son los instrumentos jurídicos mediante los cuales las partes hacen valer o defienden sus derechos ante un tribunal eclesiástico."
 ---
 # Acciones judiciales
 

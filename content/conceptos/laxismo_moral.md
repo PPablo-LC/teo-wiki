@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Laxismo moral
-description: Sistema moral heterodoxo que sostenía que en caso de duda podía seguirse cualquier opinión probable, por tenue que fuese, relajando gravemente las exigencias de la ley moral. Condenado por Alejandro VII (1665-1666) e Inocencio XI (1679).
+description: "Sistema moral heterodoxo que sostenía que en caso de duda podía seguirse cualquier opinión probable, por tenue que fuese, relajando gravemente las exigencias de la ley moral. Condenado por Alejandro VII (1665-1666) e Inocencio XI (1679)."
 tags: ["moral", "historia_—_herejías"]
 timestamp: 2026-06-27
 ---

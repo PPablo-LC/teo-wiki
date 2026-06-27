@@ -4,7 +4,7 @@ title: Esperanza
 tags: ["moral", "dogmática"]
 
 timestamp: 2026-06-12
-description: La esperanza es la segunda de las virtudes teologales, virtud infusa sobrenatural por la que deseamos y esperamos de Dios la vida eterna y los medios necesarios para alcanzarla.
+description: "La esperanza es la segunda de las virtudes teologales, virtud infusa sobrenatural por la que deseamos y esperamos de Dios la vida eterna y los medios necesarios para alcanzarla."
 ---
 # Esperanza
 

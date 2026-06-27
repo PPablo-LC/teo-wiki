@@ -4,7 +4,7 @@ title: Generación eterna
 tags: ["dogmática_(trinidad)"]
 
 timestamp: 2026-06-24
-description: La generación eterna es el acto por el cual el Padre engendra al Hijo desde toda la eternidad, comunicándole toda la sustancia divina.
+description: "La generación eterna es el acto por el cual el Padre engendra al Hijo desde toda la eternidad, comunicándole toda la sustancia divina."
 ---
 # Generación eterna
 

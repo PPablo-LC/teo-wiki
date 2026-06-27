@@ -4,7 +4,7 @@ title: Ars celebrandi
 tags: ["liturgia", "espiritualidad"]
 
 timestamp: 2026-05-25
-description: El «ars celebrandi» o arte de celebrar la liturgia es la disposición interior y la destreza adquirida con la que el sacerdote preside las celebraciones litúrgicas, especialmente la Eucaristía.
+description: "El «ars celebrandi» o arte de celebrar la liturgia es la disposición interior y la destreza adquirida con la que el sacerdote preside las celebraciones litúrgicas, especialmente la Eucaristía."
 ---
 # Ars celebrandi
 

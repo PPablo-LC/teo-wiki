@@ -4,7 +4,7 @@ title: Vanidad
 tags: ["moral"]
 
 timestamp: 2026-05-22
-description: La vanidad (o vanagloria) es el apetito desordenado de la gloria, la alabanza y el reconocimiento humanos.
+description: "La vanidad (o vanagloria) es el apetito desordenado de la gloria, la alabanza y el reconocimiento humanos."
 ---
 # Vanidad
 

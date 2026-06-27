@@ -4,7 +4,7 @@ title: Paradigma tecnocrático
 tags: ["moral", "doctrina_social"]
 
 timestamp: 2026-05-29
-description: Tendencia a dejar que la lógica de la eficiencia, del control y del lucro gobierne por sí sola las decisiones personales, sociales y económicas.
+description: "Tendencia a dejar que la lógica de la eficiencia, del control y del lucro gobierne por sí sola las decisiones personales, sociales y económicas."
 ---
 # Paradigma tecnocrático
 

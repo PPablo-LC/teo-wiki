@@ -4,7 +4,7 @@ title: Verdadero Dios y verdadero Hombre
 tags: ["cristología", "dogmática"]
 
 timestamp: 2026-06-22
-description: Dogma central de la fe cristiana.
+description: "Dogma central de la fe cristiana."
 ---
 # Verdadero Dios y verdadero Hombre
 

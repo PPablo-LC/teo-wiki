@@ -4,7 +4,7 @@ title: Rota Romana
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-26
-description: Tribunal apostólico ordinario constituido por la Santa Sede para recibir apelaciones en causas eclesiásticas, principalmente en materia matrimonial.
+description: "Tribunal apostólico ordinario constituido por la Santa Sede para recibir apelaciones en causas eclesiásticas, principalmente en materia matrimonial."
 ---
 # Rota Romana
 

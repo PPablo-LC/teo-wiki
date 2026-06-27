@@ -4,7 +4,7 @@ title: Validez canónica
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-26
-description: La validez canónica es la cualidad jurídica de un acto —especialmente los actos administrativos.
+description: "La validez canónica es la cualidad jurídica de un acto —especialmente los actos administrativos."
 ---
 # Validez canónica
 

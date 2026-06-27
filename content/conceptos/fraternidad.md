@@ -4,7 +4,7 @@ title: Fraternidad
 tags: ["moral", "eclesiología"]
 
 timestamp: 2026-06-03
-description: La fraternidad es la virtud por la cual los cristianos se reconocen como hermanos en Cristo, hijos del mismo Padre celestial, y se tratan con amor, respeto y solidaridad mutuos.
+description: "La fraternidad es la virtud por la cual los cristianos se reconocen como hermanos en Cristo, hijos del mismo Padre celestial, y se tratan con amor, respeto y solidaridad mutuos."
 ---
 # Fraternidad
 

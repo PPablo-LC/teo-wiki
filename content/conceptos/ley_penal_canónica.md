@@ -4,7 +4,7 @@ title: Ley penal canónica
 tags: ["derecho_canónico"]
 
 timestamp: 2026-06-19
-description: Norma jurídica promulgada por la autoridad eclesiástica competente que tipifica una conducta como delito y establece la sanción penal correspondiente.
+description: "Norma jurídica promulgada por la autoridad eclesiástica competente que tipifica una conducta como delito y establece la sanción penal correspondiente."
 ---
 # Ley penal canónica
 

@@ -4,7 +4,7 @@ title: Vicario parroquial
 tags: ["eclesiología"]
 
 timestamp: 2026-05-25
-description: El vicario parroquial es un presbítero que, como cooperador del párroco y partícipe de su solicitud, trabaja bajo su autoridad en el ministerio pastoral de una parroquia (CIC 545 §1).
+description: "El vicario parroquial es un presbítero que, como cooperador del párroco y partícipe de su solicitud, trabaja bajo su autoridad en el ministerio pastoral de una parroquia (CIC 545 §1)."
 ---
 # Vicario parroquial
 

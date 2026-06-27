@@ -4,7 +4,7 @@ title: Orden
 tags: ["sacramental", "eclesiología"]
 
 timestamp: 2026-05-22
-description: El orden, en sentido sacramental, es el sacramento del Orden sagrado o sacerdotal, instituido por Cristo, que confiere el don del Espíritu Santo para configurar al ministro con Cristo Cabeza.
+description: "El orden, en sentido sacramental, es el sacramento del Orden sagrado o sacerdotal, instituido por Cristo, que confiere el don del Espíritu Santo para configurar al ministro con Cristo Cabeza."
 ---
 # Orden
 

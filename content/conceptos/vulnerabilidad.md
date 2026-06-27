@@ -2,7 +2,7 @@
 type: Concepto Teológico
 title: Vulnerabilidad
 timestamp: 2026-06-10
-description: La condicion del ser humano que, por su naturaleza creada y caida, es susceptible de ser herido, tentado o danado en los ambitos fisico, psiquico y espiritual.
+description: "La condicion del ser humano que, por su naturaleza creada y caida, es susceptible de ser herido, tentado o danado en los ambitos fisico, psiquico y espiritual."
 ---
 # Vulnerabilidad
 

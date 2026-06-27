@@ -4,7 +4,7 @@ title: Bienaventuranzas
 tags: ["moral"]
 
 timestamp: 2026-05-22
-description: Las bienaventuranzas son las ocho declaraciones de Jesús en el Sermón de la Montaña (Mt 5,3-12) que están en el centro de su predicación.
+description: "Las bienaventuranzas son las ocho declaraciones de Jesús en el Sermón de la Montaña (Mt 5,3-12) que están en el centro de su predicación."
 ---
 # Bienaventuranzas
 

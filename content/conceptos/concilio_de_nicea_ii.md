@@ -4,7 +4,7 @@ title: Concilio de Nicea II
 tags: ["historia_de_la_iglesia", "teología"]
 
 timestamp: 2026-06-18
-description: El II Concilio de Nicea (787) fue el séptimo concilio ecuménico de la Iglesia, que definió la legitimidad del culto de las sagradas imágenes (iconos), condenando la iconoclasia.
+description: "El II Concilio de Nicea (787) fue el séptimo concilio ecuménico de la Iglesia, que definió la legitimidad del culto de las sagradas imágenes (iconos), condenando la iconoclasia."
 ---
 # Concilio de Nicea II
 

@@ -4,7 +4,7 @@ title: Salvación integral
 tags: ["dogmática", "doctrina_social"]
 
 timestamp: 2026-05-25
-description: La salvación obrada por Jesucristo, que abarca al hombre entero —en todas sus dimensiones personales y sociales, espirituales y corpóreas, históricas y trascendentes— y a todos los hombres.
+description: "La salvación obrada por Jesucristo, que abarca al hombre entero —en todas sus dimensiones personales y sociales, espirituales y corpóreas, históricas y trascendentes— y a todos los hombres."
 ---
 # Salvación integral
 

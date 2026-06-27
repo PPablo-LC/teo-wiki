@@ -4,7 +4,7 @@ title: Introducción a la Teología de la Perfección
 tags: ["teología_espiritual"]
 
 timestamp: 2026-05-20
-description: La Teología de la Perfección Cristiana es la ciencia que, a partir de los datos de la revelación y de la experiencia de los santos.
+description: "La Teología de la Perfección Cristiana es la ciencia que, a partir de los datos de la revelación y de la experiencia de los santos."
 ---
 # Introducción a la Teología de la Perfección
 

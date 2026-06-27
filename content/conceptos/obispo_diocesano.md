@@ -4,7 +4,7 @@ title: Obispo diocesano
 tags: ["eclesiología"]
 
 timestamp: 2026-05-25
-description: El Obispo diocesano es el Obispo a quien se ha encomendado el cuidado de una diócesis (CIC 376).
+description: "El Obispo diocesano es el Obispo a quien se ha encomendado el cuidado de una diócesis (CIC 376)."
 ---
 # Obispo diocesano
 

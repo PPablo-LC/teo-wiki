@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Vocacion de Pedro
-description: La llamada divina dirigida a Simon, hijo de Juan, para ser pescador de hombres, fundamento de la Iglesia y primera cabeza visible del Colegio Apostolico.
+description: "La llamada divina dirigida a Simon, hijo de Juan, para ser pescador de hombres, fundamento de la Iglesia y primera cabeza visible del Colegio Apostolico."
 ---
 # Vocacion de Pedro
 

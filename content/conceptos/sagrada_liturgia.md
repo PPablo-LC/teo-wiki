@@ -4,7 +4,7 @@ title: Sagrada Liturgia
 tags: ["liturgia"]
 
 timestamp: 2026-05-26
-description: La Sagrada Liturgia es el ejercicio del sacerdocio de Jesucristo, en la cual los signos sensibles significan y, cada uno a su manera, realizan la santificación del hombre.
+description: "La Sagrada Liturgia es el ejercicio del sacerdocio de Jesucristo, en la cual los signos sensibles significan y, cada uno a su manera, realizan la santificación del hombre."
 ---
 # Sagrada Liturgia
 

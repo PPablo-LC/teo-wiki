@@ -4,7 +4,7 @@ title: Santuario de la vida
 tags: ["moral", "doctrina_social"]
 
 timestamp: 2026-05-25
-description: Expresión de la doctrina social de la Iglesia que designa a la familia fundada en el matrimonio como el ámbito donde la vida, don de Dios.
+description: "Expresión de la doctrina social de la Iglesia que designa a la familia fundada en el matrimonio como el ámbito donde la vida, don de Dios."
 ---
 # Santuario de la vida
 

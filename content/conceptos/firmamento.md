@@ -4,7 +4,7 @@ title: Firmamento
 tags: ["dogmática_(cosmología)"]
 
 timestamp: 2026-06-03
-description: El firmamento es la obra del segundo día de la creación (Gén 1,6-8), entendido como el cielo sideral donde están las estrellas o como la parte del aire donde se condensan las nubes.
+description: "El firmamento es la obra del segundo día de la creación (Gén 1,6-8), entendido como el cielo sideral donde están las estrellas o como la parte del aire donde se condensan las nubes."
 ---
 # Firmamento
 

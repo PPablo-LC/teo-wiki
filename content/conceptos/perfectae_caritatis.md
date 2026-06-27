@@ -4,7 +4,7 @@ title: Perfectae Caritatis
 tags: ["vida_consagrada", "teología_espiritual"]
 
 timestamp: 2026-05-26
-description: Decreto del Concilio Vaticano II sobre la adecuada renovación de la vida religiosa, promulgado el 28 de octubre de 1965.
+description: "Decreto del Concilio Vaticano II sobre la adecuada renovación de la vida religiosa, promulgado el 28 de octubre de 1965."
 ---
 # Perfectae Caritatis
 

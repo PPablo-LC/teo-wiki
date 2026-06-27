@@ -4,7 +4,7 @@ title: Lengua
 tags: ["bíblica", "antropología_bíblica"]
 
 timestamp: 2026-06-02
-description: La lengua es el órgano activo del habla, instrumento de comunicación humana y de expresión ante Dios.
+description: "La lengua es el órgano activo del habla, instrumento de comunicación humana y de expresión ante Dios."
 ---
 # Lengua
 

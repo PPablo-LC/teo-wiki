@@ -4,7 +4,7 @@ title: Egipto
 tags: ["bíblica"]
 
 timestamp: 2026-06-02
-description: Egipto es la nación extranjera que más manifiesta en la historia sagrada la ambigüedad de los poderes terrenos.
+description: "Egipto es la nación extranjera que más manifiesta en la historia sagrada la ambigüedad de los poderes terrenos."
 ---
 # Egipto
 

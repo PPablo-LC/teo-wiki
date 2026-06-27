@@ -4,7 +4,7 @@ title: Alter Christus
 tags: ["sacramental", "espiritualidad_sacerdotal"]
 
 timestamp: 2026-06-10
-description: Expresión latina que significa «otro Cristo», aplicada al sacerdote ministerial en cuanto configurado sacramentalmente con Cristo Sacerdote, Cabeza y Pastor de la Iglesia.
+description: "Expresión latina que significa «otro Cristo», aplicada al sacerdote ministerial en cuanto configurado sacramentalmente con Cristo Sacerdote, Cabeza y Pastor de la Iglesia."
 ---
 # Alter Christus
 

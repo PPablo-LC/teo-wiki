@@ -4,7 +4,7 @@ title: Calamidad
 tags: ["dogmática_(escatología", "teodicea)"]
 
 timestamp: 2026-06-02
-description: La calamidad designa en la Escritura las desgracias colectivas que afligen a la humanidad (guerra, hambre, peste, muerte, catástrofes naturales).
+description: "La calamidad designa en la Escritura las desgracias colectivas que afligen a la humanidad (guerra, hambre, peste, muerte, catástrofes naturales)."
 ---
 # Calamidad
 

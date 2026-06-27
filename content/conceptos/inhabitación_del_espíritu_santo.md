@@ -4,7 +4,7 @@ title: Inhabitación del Espíritu Santo
 tags: ["dogmática", "ascética"]
 
 timestamp: 2026-06-22
-description: Presencia permanente del Espíritu Santo en el alma del justo, que habita en el creyente como en templo santo, comunicándole la vida divina, la gracia santificante y la filiación adoptiva.
+description: "Presencia permanente del Espíritu Santo en el alma del justo, que habita en el creyente como en templo santo, comunicándole la vida divina, la gracia santificante y la filiación adoptiva."
 ---
 # Inhabitación del Espíritu Santo
 

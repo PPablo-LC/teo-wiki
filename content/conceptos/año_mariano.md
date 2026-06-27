@@ -4,7 +4,7 @@ title: Año mariano
 tags: ["mariología", "liturgia"]
 
 timestamp: 2026-06-18
-description: El Año Mariano es un período especial de un año dedicado a la celebración y profundización del misterio de la Virgen María en la vida de la Iglesia.
+description: "El Año Mariano es un período especial de un año dedicado a la celebración y profundización del misterio de la Virgen María en la vida de la Iglesia."
 ---
 # Año mariano
 

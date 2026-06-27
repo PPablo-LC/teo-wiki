@@ -4,7 +4,7 @@ title: Misterio trinitario
 tags: ["dogmática_(trinidad)"]
 
 timestamp: 2026-06-22
-description: Misterio central de la fe cristiana.
+description: "Misterio central de la fe cristiana."
 ---
 # Misterio trinitario
 

@@ -4,7 +4,7 @@ title: Pascua
 tags: ["dogmática_—_cristología", "liturgia"]
 
 timestamp: 2026-06-02
-description: El misterio pascual es el núcleo central de la fe cristiana.
+description: "El misterio pascual es el núcleo central de la fe cristiana."
 ---
 # Pascua
 

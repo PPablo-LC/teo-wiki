@@ -4,7 +4,7 @@ title: Ángeles
 tags: ["dogmática"]
 
 timestamp: 2026-06-12
-description: Los ángeles son criaturas puramente espirituales, dotadas de inteligencia y voluntad, creadas por Dios para ser servidores y mensajeros suyos.
+description: "Los ángeles son criaturas puramente espirituales, dotadas de inteligencia y voluntad, creadas por Dios para ser servidores y mensajeros suyos."
 ---
 # Ángeles
 

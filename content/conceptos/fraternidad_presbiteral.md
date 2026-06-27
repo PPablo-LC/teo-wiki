@@ -4,7 +4,7 @@ title: Fraternidad presbiteral
 tags: ["eclesiología", "espiritualidad_sacerdotal"]
 
 timestamp: 2026-06-12
-description: Vínculo de comunión entre los presbíteros de una diócesis que, bajo la autoridad del obispo, forman un único presbiterio.
+description: "Vínculo de comunión entre los presbíteros de una diócesis que, bajo la autoridad del obispo, forman un único presbiterio."
 ---
 # Fraternidad presbiteral
 

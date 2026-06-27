@@ -4,7 +4,7 @@ title: Virtud adquirida
 tags: ["moral"]
 
 timestamp: 2026-05-25
-description: La virtud adquirida es un hábito operativo bueno, obtenido por la repetición de actos moralmente rectos.
+description: "La virtud adquirida es un hábito operativo bueno, obtenido por la repetición de actos moralmente rectos."
 ---
 # Virtud adquirida
 

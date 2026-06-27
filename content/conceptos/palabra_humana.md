@@ -4,7 +4,7 @@ title: Palabra humana
 tags: ["moral"]
 
 timestamp: 2026-06-02
-description: La palabra humana no es un vano sonido, sino que expresa la persona, participa de su dinamismo y está dotada de eficacia.
+description: "La palabra humana no es un vano sonido, sino que expresa la persona, participa de su dinamismo y está dotada de eficacia."
 ---
 # Palabra humana
 

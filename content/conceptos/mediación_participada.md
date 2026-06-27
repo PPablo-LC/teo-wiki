@@ -4,7 +4,7 @@ title: Mediación participada
 tags: ["mariología", "soteriología"]
 
 timestamp: 2026-06-18
-description: La mediación participada es la cooperación de las criaturas en la única mediación de Cristo, de la cual reciben todo su valor y eficacia.
+description: "La mediación participada es la cooperación de las criaturas en la única mediación de Cristo, de la cual reciben todo su valor y eficacia."
 ---
 # Mediación participada
 

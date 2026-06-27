@@ -4,7 +4,7 @@ title: Unión alma-cuerpo
 tags: ["antropología"]
 
 timestamp: 2026-06-04
-description: La unión del alma y el cuerpo en el hombre es una unión substancial —no accidental— por la que el alma intelectiva es la forma substancial del cuerpo, constituyendo con él una sola naturaleza humana.
+description: "La unión del alma y el cuerpo en el hombre es una unión substancial —no accidental— por la que el alma intelectiva es la forma substancial del cuerpo, constituyendo con él una sola naturaleza humana."
 ---
 # Unión alma-cuerpo
 

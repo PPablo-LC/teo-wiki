@@ -4,7 +4,7 @@ title: Orígenes
 tags: ["historia_—_padres_de_la_iglesia", "herejías"]
 
 timestamp: 2026-06-25
-description: Orígenes fue el teólogo más influyente y prolífico de la Iglesia antigua.
+description: "Orígenes fue el teólogo más influyente y prolífico de la Iglesia antigua."
 ---
 # Orígenes
 

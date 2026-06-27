@@ -4,7 +4,7 @@ title: Ecumenismo
 tags: ["eclesiología"]
 
 timestamp: 2026-05-22
-description: El ecumenismo es el movimiento impulsado por el Espíritu Santo que busca la restauración de la unidad visible entre todos los cristianos, según la voluntad de Cristo.
+description: "El ecumenismo es el movimiento impulsado por el Espíritu Santo que busca la restauración de la unidad visible entre todos los cristianos, según la voluntad de Cristo."
 ---
 # Ecumenismo
 

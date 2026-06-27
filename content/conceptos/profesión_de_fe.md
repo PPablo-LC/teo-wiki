@@ -4,7 +4,7 @@ title: Profesión de fe
 tags: ["derecho_canónico"]
 
 timestamp: 2026-06-19
-description: La profesión de fe, en el ordenamiento canónico, es la declaración formal y personal de adhesión a la doctrina de la Iglesia católica que determinados fieles están obligados a emitir.
+description: "La profesión de fe, en el ordenamiento canónico, es la declaración formal y personal de adhesión a la doctrina de la Iglesia católica que determinados fieles están obligados a emitir."
 ---
 # Profesión de fe
 

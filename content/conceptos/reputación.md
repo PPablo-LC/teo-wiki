@@ -4,7 +4,7 @@ title: Reputación
 tags: ["moral"]
 
 timestamp: 2026-05-29
-description: La reputación —o buena fama— es la consideración social que los demás tienen del honor, la probidad y las virtudes de una persona.
+description: "La reputación —o buena fama— es la consideración social que los demás tienen del honor, la probidad y las virtudes de una persona."
 ---
 # Reputación
 

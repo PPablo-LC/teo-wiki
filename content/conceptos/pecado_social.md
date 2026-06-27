@@ -4,7 +4,7 @@ title: Pecado social
 tags: ["moral", "doctrina_social"]
 
 timestamp: 2026-05-25
-description: El pecado social es aquel que, por su objeto mismo, constituye una agresión directa al prójimo o contra el bien común.
+description: "El pecado social es aquel que, por su objeto mismo, constituye una agresión directa al prójimo o contra el bien común."
 ---
 # Pecado social
 

@@ -4,7 +4,7 @@ title: Derecho a no emigrar
 tags: ["moral", "doctrina_social"]
 
 timestamp: 2026-06-14
-description: El derecho a no emigrar es el derecho de toda persona a permanecer en su tierra de origen en condiciones de paz, seguridad y dignidad, sin verse obligada a abandonarla por causas de pobreza extrema.
+description: "El derecho a no emigrar es el derecho de toda persona a permanecer en su tierra de origen en condiciones de paz, seguridad y dignidad, sin verse obligada a abandonarla por causas de pobreza extrema."
 ---
 # Derecho a no emigrar
 

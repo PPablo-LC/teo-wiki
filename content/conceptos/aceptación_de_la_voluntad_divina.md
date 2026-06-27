@@ -4,7 +4,7 @@ title: Aceptación de la Voluntad Divina
 tags: ["ascética"]
 
 timestamp: 2026-05-29
-description: La aceptación de la voluntad divina es el primer grado de la conformidad con Dios, por el cual el alma recibe con resignación cristiana las disposiciones de la providencia.
+description: "La aceptación de la voluntad divina es el primer grado de la conformidad con Dios, por el cual el alma recibe con resignación cristiana las disposiciones de la providencia."
 ---
 # Aceptación de la Voluntad Divina
 

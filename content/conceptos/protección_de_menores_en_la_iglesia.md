@@ -4,7 +4,7 @@ title: Protección de menores en la Iglesia
 tags: ["derecho_canónico", "moral"]
 
 timestamp: 2026-05-29
-description: Conjunto de principios teológicos, normas canónicas.
+description: "Conjunto de principios teológicos, normas canónicas."
 ---
 # Protección de menores en la Iglesia
 

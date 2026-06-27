@@ -4,7 +4,7 @@ title: Analogía de la fe
 tags: ["dogmática_—_hermenéutica"]
 
 timestamp: 2026-05-22
-description: Principio hermenéutico que afirma la cohesión interna de todas las verdades de la fe entre sí y dentro del proyecto total de la Revelación.
+description: "Principio hermenéutico que afirma la cohesión interna de todas las verdades de la fe entre sí y dentro del proyecto total de la Revelación."
 ---
 # Analogía de la fe
 

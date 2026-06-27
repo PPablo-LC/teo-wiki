@@ -4,7 +4,7 @@ title: Ecumenismo espiritual
 tags: ["eclesiología"]
 
 timestamp: 2026-05-31
-description: El ecumenismo espiritual es «el alma del movimiento ecuménico» (UR 8).
+description: "El ecumenismo espiritual es «el alma del movimiento ecuménico» (UR 8)."
 ---
 # Ecumenismo espiritual
 

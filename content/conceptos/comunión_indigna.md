@@ -4,7 +4,7 @@ title: Comunión Indigna
 tags: ["sacramental", "moral"]
 
 timestamp: 2026-06-03
-description: Recibir la Sagrada Comunión en estado de pecado mortal, sin haber recibido previamente el sacramento de la Penitencia.
+description: "Recibir la Sagrada Comunión en estado de pecado mortal, sin haber recibido previamente el sacramento de la Penitencia."
 ---
 # Comunión Indigna
 

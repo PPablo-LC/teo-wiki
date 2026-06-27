@@ -4,7 +4,7 @@ title: Estigmatización
 tags: ["mística"]
 
 timestamp: 2026-05-20
-description: Aparición espontánea en el cuerpo de la persona que lo experimenta de ciertos estigmas o llagas sangrientas que recuerdan las del divino Crucificado del Calvario.
+description: "Aparición espontánea en el cuerpo de la persona que lo experimenta de ciertos estigmas o llagas sangrientas que recuerdan las del divino Crucificado del Calvario."
 ---
 # Estigmatización
 

@@ -2,7 +2,7 @@
 type: Análisis Doctrinal
 title: "Dra. Irene Alexander — Marriage and the Gospels: Análisis doctrinal"
 timestamp: 2026-06-06
-description: La Dra.
+description: "La Dra."
 ---
 # Dra. Irene Alexander — Marriage and the Gospels: Análisis doctrinal
 

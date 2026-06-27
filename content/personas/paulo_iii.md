@@ -3,7 +3,7 @@ type: Persona
 title: Paulo III
 tags: ["papas", "historia_—_papado"]
 timestamp: 2026-06-27
-description: Papa número 220 de la Iglesia Católica (1534-1549). Convocó y presidió el inicio del Concilio de Trento (1545), el XIX concilio ecuménico.
+description: "Papa número 220 de la Iglesia Católica (1534-1549). Convocó y presidió el inicio del Concilio de Trento (1545), el XIX concilio ecuménico."
 ---
 
 # Paulo III

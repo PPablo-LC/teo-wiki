@@ -4,7 +4,7 @@ title: Orientalium Ecclesiarum
 tags: ["eclesiología", "iglesias_orientales"]
 
 timestamp: 2026-05-26
-description: Decreto del Concilio Vaticano II sobre las Iglesias Orientales Católicas, promulgado el 21 de noviembre de 1964.
+description: "Decreto del Concilio Vaticano II sobre las Iglesias Orientales Católicas, promulgado el 21 de noviembre de 1964."
 ---
 # Orientalium Ecclesiarum
 

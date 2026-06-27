@@ -4,7 +4,7 @@ title: Ley mosaica
 tags: ["dogmática", "moral", "historia_de_la_salvación"]
 
 timestamp: 2026-05-22
-description: La Ley mosaica, también llamada Ley antigua o Ley de Moisés, es la ley revelada por Dios al pueblo de Israel a través de Moisés en el Sinaí, cuyo núcleo son los Diez Mandamientos.
+description: "La Ley mosaica, también llamada Ley antigua o Ley de Moisés, es la ley revelada por Dios al pueblo de Israel a través de Moisés en el Sinaí, cuyo núcleo son los Diez Mandamientos."
 ---
 # Ley mosaica
 

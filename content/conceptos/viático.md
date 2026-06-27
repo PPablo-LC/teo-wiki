@@ -4,7 +4,7 @@ title: Viático
 tags: ["sacramental"]
 
 timestamp: 2026-05-25
-description: El viático es la sagrada comunión administrada a los fieles que se hallan en peligro de muerte, como alimento espiritual para el tránsito de esta vida a la eternidad.
+description: "El viático es la sagrada comunión administrada a los fieles que se hallan en peligro de muerte, como alimento espiritual para el tránsito de esta vida a la eternidad."
 ---
 # Viático
 

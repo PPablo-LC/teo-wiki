@@ -4,7 +4,7 @@ title: San León I Magno
 tags: ["patrística_—_papas"]
 
 timestamp: 2026-06-25
-description: San León I Magno fue Papa de la Iglesia Católica desde 440 hasta 461. Es uno de los dos únicos papas llamados «Magno» (junto con San Gregorio I).
+description: "San León I Magno fue Papa de la Iglesia Católica desde 440 hasta 461. Es uno de los dos únicos papas llamados «Magno» (junto con San Gregorio I)."
 ---
 # San León I Magno
 

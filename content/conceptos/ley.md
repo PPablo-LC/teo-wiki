@@ -4,7 +4,7 @@ title: Ley
 tags: ["dogmática", "moral"]
 
 timestamp: 2026-06-20
-description: La ley, en sentido teológico.
+description: "La ley, en sentido teológico."
 ---
 # Ley
 

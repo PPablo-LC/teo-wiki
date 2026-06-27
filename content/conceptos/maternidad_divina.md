@@ -4,7 +4,7 @@ title: Maternidad divina
 tags: ["mariología", "dogmática"]
 
 timestamp: 2026-06-20
-description: La maternidad divina es el dogma de fe según el cual la Santísima Virgen María es verdaderamente Madre de Dios (Theotókos), porque concibió y dio a luz a Jesucristo.
+description: "La maternidad divina es el dogma de fe según el cual la Santísima Virgen María es verdaderamente Madre de Dios (Theotókos), porque concibió y dio a luz a Jesucristo."
 ---
 # Maternidad divina
 

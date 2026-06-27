@@ -4,7 +4,7 @@ title: Testamento
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-26
-description: El testamento es el acto jurídico por el cual una persona dispone de sus bienes para después de su muerte.
+description: "El testamento es el acto jurídico por el cual una persona dispone de sus bienes para después de su muerte."
 ---
 # Testamento
 

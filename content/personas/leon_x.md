@@ -1,7 +1,7 @@
 ---
 type: Persona
 title: León X
-description: Papa (1513-1521), presidió el V Concilio de Letrán, condenó los errores de Lutero en Exsurge Domine.
+description: "Papa (1513-1521), presidió el V Concilio de Letrán, condenó los errores de Lutero en Exsurge Domine."
 tags: ["papa", "historia_—_papado"]
 timestamp: 2026-06-26
 ---

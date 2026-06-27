@@ -4,7 +4,7 @@ title: Unitatis Redintegratio
 tags: ["ecumenismo", "eclesiología"]
 
 timestamp: 2026-05-26
-description: Decreto del Concilio Vaticano II sobre el ecumenismo, promulgado el 21 de noviembre de 1964.
+description: "Decreto del Concilio Vaticano II sobre el ecumenismo, promulgado el 21 de noviembre de 1964."
 ---
 # Unitatis Redintegratio
 

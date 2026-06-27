@@ -4,7 +4,7 @@ title: Agua Bendita
 tags: ["sacramental"]
 
 timestamp: 2026-05-22
-description: El agua bendita es un sacramental instituido por la Iglesia, consistente en agua natural bendecida por un sacerdote con una fórmula y rito especiales, que se usa para purificar.
+description: "El agua bendita es un sacramental instituido por la Iglesia, consistente en agua natural bendecida por un sacerdote con una fórmula y rito especiales, que se usa para purificar."
 ---
 # Agua Bendita
 

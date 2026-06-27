@@ -4,7 +4,7 @@ title: Teología de la historia
 tags: ["dogmática", "escatología"]
 
 timestamp: 2026-05-22
-description: La teología de la historia es la reflexión teológica sobre el sentido último de la historia humana a la luz de la revelación divina.
+description: "La teología de la historia es la reflexión teológica sobre el sentido último de la historia humana a la luz de la revelación divina."
 ---
 # Teología de la historia
 

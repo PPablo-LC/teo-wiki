@@ -4,7 +4,7 @@ title: Conciencia moral
 tags: ["moral"]
 
 timestamp: 2026-05-25
-description: La conciencia moral es el juicio de la razón por el que la persona humana reconoce la cualidad moral de un acto concreto que piensa hacer, está haciendo o ha hecho.
+description: "La conciencia moral es el juicio de la razón por el que la persona humana reconoce la cualidad moral de un acto concreto que piensa hacer, está haciendo o ha hecho."
 ---
 # Conciencia moral
 

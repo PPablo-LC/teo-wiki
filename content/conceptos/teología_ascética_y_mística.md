@@ -4,7 +4,7 @@ title: Teología ascética y mística
 tags: ["disciplina_teológica"]
 
 timestamp: 2026-05-20
-description: La teología ascética y mística es la parte de la sagrada teología que, fundándose en los principios de la divina revelación y en las experiencias de los santos.
+description: "La teología ascética y mística es la parte de la sagrada teología que, fundándose en los principios de la divina revelación y en las experiencias de los santos."
 ---
 # Teología ascética y mística
 

@@ -4,7 +4,7 @@ title: Necedad
 tags: ["moral"]
 
 timestamp: 2026-06-08
-description: La necedad es el vicio opuesto al don de sabiduría.
+description: "La necedad es el vicio opuesto al don de sabiduría."
 ---
 # Necedad
 

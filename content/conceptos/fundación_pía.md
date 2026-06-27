@@ -4,7 +4,7 @@ title: Fundación pía
 tags: ["derecho_canónico"]
 
 timestamp: 2026-06-19
-description: La fundación pía es la institución mediante la cual se destinan bienes temporales a fines religiosos, caritativos o espirituales (causas pías).
+description: "La fundación pía es la institución mediante la cual se destinan bienes temporales a fines religiosos, caritativos o espirituales (causas pías)."
 ---
 # Fundación pía
 

@@ -4,7 +4,7 @@ title: Fe y obras
 tags: ["dogmática_—_gracia"]
 
 timestamp: 2026-06-25
-description: La relación entre la fe y las obras es un tema central de la soteriología católica.
+description: "La relación entre la fe y las obras es un tema central de la soteriología católica."
 ---
 # Fe y obras
 

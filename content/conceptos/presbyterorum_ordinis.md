@@ -4,7 +4,7 @@ title: Presbyterorum Ordinis
 tags: ["teología_sacerdotal", "eclesiología"]
 
 timestamp: 2026-05-26
-description: Decreto del Concilio Vaticano II sobre el ministerio y la vida de los presbíteros, promulgado el 7 de diciembre de 1965.
+description: "Decreto del Concilio Vaticano II sobre el ministerio y la vida de los presbíteros, promulgado el 7 de diciembre de 1965."
 ---
 # Presbyterorum Ordinis
 

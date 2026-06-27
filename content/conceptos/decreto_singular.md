@@ -4,7 +4,7 @@ title: Decreto singular
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-25
-description: Acto administrativo de la autoridad ejecutiva competente por el cual, según las normas del derecho y para un caso particular, se toma una decisión o se hace una provisión que, por su naturaleza.
+description: "Acto administrativo de la autoridad ejecutiva competente por el cual, según las normas del derecho y para un caso particular, se toma una decisión o se hace una provisión que, por su naturaleza."
 ---
 # Decreto singular
 

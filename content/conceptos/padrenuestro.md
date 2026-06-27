@@ -4,7 +4,7 @@ title: Padrenuestro
 tags: ["dogmática", "liturgia"]
 
 timestamp: 2026-05-22
-description: El Padrenuestro (Pater Noster) es la oración que el Señor Jesucristo enseñó a sus discípulos, contenida en los evangelios de Mateo (6,9-13) y Lucas (11,2-4).
+description: "El Padrenuestro (Pater Noster) es la oración que el Señor Jesucristo enseñó a sus discípulos, contenida en los evangelios de Mateo (6,9-13) y Lucas (11,2-4)."
 ---
 # Padrenuestro
 

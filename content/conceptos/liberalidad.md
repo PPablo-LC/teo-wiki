@@ -4,7 +4,7 @@ title: Liberalidad
 tags: ["moral"]
 
 timestamp: 2026-05-22
-description: La liberalidad es la virtud moral que inclina a dar con facilidad y generosidad los bienes temporales, sin apego desordenado al dinero.
+description: "La liberalidad es la virtud moral que inclina a dar con facilidad y generosidad los bienes temporales, sin apego desordenado al dinero."
 ---
 # Liberalidad
 

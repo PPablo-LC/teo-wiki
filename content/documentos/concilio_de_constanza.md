@@ -1,7 +1,7 @@
 ---
 type: Documento
 title: Concilio de Constanza
-description: Concilio ecuménico (1414-1418), XVI de la Iglesia católica. Puso fin al Cisma de Occidente, condenó a Wicleff y Hus, definió la comunión bajo una sola especie y condenó el tiranicidio.
+description: "Concilio ecuménico (1414-1418), XVI de la Iglesia católica. Puso fin al Cisma de Occidente, condenó a Wicleff y Hus, definió la comunión bajo una sola especie y condenó el tiranicidio."
 tags: ["concilio", "historia_—_concilios"]
 timestamp: 2026-06-26
 ---

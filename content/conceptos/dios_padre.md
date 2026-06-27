@@ -4,7 +4,7 @@ title: Dios Padre
 tags: ["dogmática"]
 
 timestamp: 2026-05-29
-description: Dios Padre es la primera Persona de la Santísima Trinidad, principio sin principio, que engendra eternamente al Hijo y, con Él, espira al Espíritu Santo.
+description: "Dios Padre es la primera Persona de la Santísima Trinidad, principio sin principio, que engendra eternamente al Hijo y, con Él, espira al Espíritu Santo."
 ---
 # Dios Padre
 

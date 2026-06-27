@@ -4,7 +4,7 @@ title: Estado Sacerdotal
 tags: ["ascética"]
 
 timestamp: 2026-05-20
-description: Estado de vida propio de los ministros consagrados al Señor por la ordenación sacerdotal.
+description: "Estado de vida propio de los ministros consagrados al Señor por la ordenación sacerdotal."
 ---
 # Estado Sacerdotal
 

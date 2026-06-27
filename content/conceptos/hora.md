@@ -4,7 +4,7 @@ title: Hora
 tags: ["dogmática", "escatología"]
 
 timestamp: 2026-06-02
-description: Tiempo determinado por Dios para el cumplimiento de su designio salvador.
+description: "Tiempo determinado por Dios para el cumplimiento de su designio salvador."
 ---
 # Hora
 

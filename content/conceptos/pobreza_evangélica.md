@@ -4,7 +4,7 @@ title: Pobreza evangélica
 tags: ["ascética"]
 
 timestamp: 2026-06-14
-description: La pobreza evangélica es el desprendimiento voluntario de los bienes temporales por amor a Cristo y al Evangelio.
+description: "La pobreza evangélica es el desprendimiento voluntario de los bienes temporales por amor a Cristo y al Evangelio."
 ---
 # Pobreza evangélica
 

@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Comunión bajo una sola especie
-description: Práctica de administrar la sagrada comunión a los laicos solo bajo la especie de pan, definida por el Concilio de Constanza (D-626).
+description: "Práctica de administrar la sagrada comunión a los laicos solo bajo la especie de pan, definida por el Concilio de Constanza (D-626)."
 tags: ["sacramental", "eucaristía"]
 timestamp: 2026-06-26
 ---

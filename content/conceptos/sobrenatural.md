@@ -4,7 +4,7 @@ title: Sobrenatural
 tags: ["dogmática"]
 
 timestamp: 2026-05-22
-description: El orden sobrenatural es el conjunto de bienes y dones que Dios comunica gratuitamente a las criaturas racionales por encima de las exigencias y capacidades de la naturaleza creada.
+description: "El orden sobrenatural es el conjunto de bienes y dones que Dios comunica gratuitamente a las criaturas racionales por encima de las exigencias y capacidades de la naturaleza creada."
 ---
 # Sobrenatural
 

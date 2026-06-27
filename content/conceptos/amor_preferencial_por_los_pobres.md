@@ -4,7 +4,7 @@ title: Amor preferencial por los pobres
 tags: ["doctrina_social", "teología_moral"]
 
 timestamp: 2026-06-18
-description: El amor preferencial por los pobres es la atención prioritaria que la Iglesia, siguiendo el ejemplo de Cristo, otorga a los pobres y marginados.
+description: "El amor preferencial por los pobres es la atención prioritaria que la Iglesia, siguiendo el ejemplo de Cristo, otorga a los pobres y marginados."
 ---
 # Amor preferencial por los pobres
 

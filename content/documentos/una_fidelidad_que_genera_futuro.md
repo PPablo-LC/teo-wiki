@@ -4,7 +4,7 @@ title: Una fidelidad que genera futuro
 tags: ["documentos"]
 
 timestamp: 2026-06-11
-description: Desarrolla la vocación sacerdotal como camino de «constante conversión y renovada fidelidad» que nunca es un recorrido solo individual sino que compromete a cuidarse unos a otros.
+description: "Desarrolla la vocación sacerdotal como camino de «constante conversión y renovada fidelidad» que nunca es un recorrido solo individual sino que compromete a cuidarse unos a otros."
 ---
 # Una fidelidad que genera futuro
 

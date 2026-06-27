@@ -4,7 +4,7 @@ title: Matrimonio mixto
 tags: ["derecho_canónico", "sacramental"]
 
 timestamp: 2026-05-26
-description: El matrimonio mixto es el matrimonio entre un bautizado católico y un bautizado no católico (perteneciente a una Iglesia o comunidad eclesial no en plena comunión con la Iglesia católica).
+description: "El matrimonio mixto es el matrimonio entre un bautizado católico y un bautizado no católico (perteneciente a una Iglesia o comunidad eclesial no en plena comunión con la Iglesia católica)."
 ---
 # Matrimonio mixto
 

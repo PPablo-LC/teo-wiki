@@ -4,7 +4,7 @@ title: Voto
 tags: ["moral", "ascética"]
 
 timestamp: 2026-05-22
-description: Promesa deliberada y libre hecha a Dios de un bien posible y mejor que su contrario.
+description: "Promesa deliberada y libre hecha a Dios de un bien posible y mejor que su contrario."
 ---
 # Voto
 

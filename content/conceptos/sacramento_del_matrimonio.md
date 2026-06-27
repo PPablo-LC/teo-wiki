@@ -4,7 +4,7 @@ title: Sacramento del Matrimonio
 tags: ["sacramental"]
 
 timestamp: 2026-06-20
-description: El sacramento del matrimonio es la realidad instituida por Dios desde la creación (sacramento primordial) y restaurada por Cristo en la economía de la redención.
+description: "El sacramento del matrimonio es la realidad instituida por Dios desde la creación (sacramento primordial) y restaurada por Cristo en la economía de la redención."
 ---
 # Sacramento del Matrimonio
 

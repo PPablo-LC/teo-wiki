@@ -4,7 +4,7 @@ title: Sagrario
 tags: ["liturgia", "derecho_canónico"]
 
 timestamp: 2026-06-13
-description: Lugar seguro y digno donde se reserva la Santísima Eucaristía para la comunión de los enfermos y como centro de adoración y oración.
+description: "Lugar seguro y digno donde se reserva la Santísima Eucaristía para la comunión de los enfermos y como centro de adoración y oración."
 ---
 # Sagrario
 

@@ -4,7 +4,7 @@ title: Identidad legionaria
 tags: ["vida_consagrada", "espiritualidad"]
 
 timestamp: 2026-06-13
-description: La identidad legionaria es el conjunto de rasgos espirituales, carismáticos, sacerdotales y comunitarios que definen y configuran al legionario de Cristo.
+description: "La identidad legionaria es el conjunto de rasgos espirituales, carismáticos, sacerdotales y comunitarios que definen y configuran al legionario de Cristo."
 ---
 # Identidad legionaria
 

@@ -4,7 +4,7 @@ title: Evangelización de Europa
 tags: ["eclesiología", "historia"]
 
 timestamp: 2026-06-18
-description: La evangelización de Europa es el proceso histórico mediante el cual el Evangelio de Jesucristo se extendió por el continente europeo.
+description: "La evangelización de Europa es el proceso histórico mediante el cual el Evangelio de Jesucristo se extendió por el continente europeo."
 ---
 # Evangelización de Europa
 

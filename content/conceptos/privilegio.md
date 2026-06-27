@@ -4,7 +4,7 @@ title: Privilegio
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-25
-description: Gracia otorgada por acto peculiar en favor de determinadas personas, tanto físicas como jurídicas.
+description: "Gracia otorgada por acto peculiar en favor de determinadas personas, tanto físicas como jurídicas."
 ---
 # Privilegio
 

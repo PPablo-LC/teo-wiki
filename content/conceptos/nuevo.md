@@ -4,7 +4,7 @@ title: Nuevo
 tags: ["teología_bíblica"]
 
 timestamp: 2026-06-19
-description: El concepto de «nuevo» en la Escritura expresa la irrupción de la salvación divina, que supera las realidades pasadas.
+description: "El concepto de «nuevo» en la Escritura expresa la irrupción de la salvación divina, que supera las realidades pasadas."
 ---
 # Nuevo
 

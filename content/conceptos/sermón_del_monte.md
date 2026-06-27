@@ -4,7 +4,7 @@ title: Sermón del Monte
 tags: ["moral", "dogmática"]
 
 timestamp: 2026-06-22
-description: El Sermón del Monte (Mt 5-7) es el discurso fundacional de la enseñanza moral de Cristo, donde promulga la nueva Ley del Reino.
+description: "El Sermón del Monte (Mt 5-7) es el discurso fundacional de la enseñanza moral de Cristo, donde promulga la nueva Ley del Reino."
 ---
 # Sermón del Monte
 

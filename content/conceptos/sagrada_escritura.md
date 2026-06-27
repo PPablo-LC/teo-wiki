@@ -4,7 +4,7 @@ title: Sagrada Escritura
 tags: ["dogmática", "teología_fundamental"]
 
 timestamp: 2026-05-26
-description: La sagrada Escritura es la Palabra de Dios expresada en lenguas humanas, escrita por inspiración del Espíritu Santo.
+description: "La sagrada Escritura es la Palabra de Dios expresada en lenguas humanas, escrita por inspiración del Espíritu Santo."
 ---
 # Sagrada Escritura
 

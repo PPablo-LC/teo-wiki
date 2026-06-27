@@ -4,7 +4,7 @@ title: Ignorancia
 tags: ["moral"]
 
 timestamp: 2026-06-12
-description: La ignorancia es la privación del conocimiento que uno está obligado a tener. En cuanto causa del pecado, consiste en la falta de conocimiento perfectivo de la razón que impide el acto pecaminoso.
+description: "La ignorancia es la privación del conocimiento que uno está obligado a tener. En cuanto causa del pecado, consiste en la falta de conocimiento perfectivo de la razón que impide el acto pecaminoso."
 ---
 # Ignorancia
 

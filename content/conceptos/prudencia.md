@@ -4,7 +4,7 @@ title: Prudencia
 tags: ["moral"]
 
 timestamp: 2026-06-09
-description: La prudencia es la primera y principal de las virtudes cardinales, virtud infusa que reside en la razón práctica.
+description: "La prudencia es la primera y principal de las virtudes cardinales, virtud infusa que reside en la razón práctica."
 ---
 # Prudencia
 

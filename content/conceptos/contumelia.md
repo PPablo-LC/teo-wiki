@@ -4,7 +4,7 @@ title: Contumelia
 tags: ["moral"]
 
 timestamp: 2026-06-09
-description: La contumelia —también llamada injuria o ultraje— es toda ofensa directa contra el honor y la dignidad de una persona, expresada mediante palabras, gestos o acciones en su presencia.
+description: "La contumelia —también llamada injuria o ultraje— es toda ofensa directa contra el honor y la dignidad de una persona, expresada mediante palabras, gestos o acciones en su presencia."
 ---
 # Contumelia
 

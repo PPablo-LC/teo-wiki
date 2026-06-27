@@ -4,7 +4,7 @@ title: Tierra prometida
 tags: ["teología_bíblica", "historia_de_la_salvación"]
 
 timestamp: 2026-06-20
-description: La tierra prometida es la terra de Canaán que Dios prometió a Abraham y a su descendencia como herencia permanente, y que fue dada efectivamente a Israel tras el Éxodo y la conquista bajo Josué.
+description: "La tierra prometida es la terra de Canaán que Dios prometió a Abraham y a su descendencia como herencia permanente, y que fue dada efectivamente a Israel tras el Éxodo y la conquista bajo Josué."
 ---
 # Tierra prometida
 

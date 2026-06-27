@@ -4,7 +4,7 @@ title: Posesión Diabólica
 tags: ["ascética_y_mística"]
 
 timestamp: 2026-05-20
-description: La posesión diabólica es un fenómeno en virtud del cual el demonio invade el cuerpo de un hombre vivo y mueve sus órganos en su nombre y a su gusto.
+description: "La posesión diabólica es un fenómeno en virtud del cual el demonio invade el cuerpo de un hombre vivo y mueve sus órganos en su nombre y a su gusto."
 ---
 # Posesión Diabólica
 

@@ -4,7 +4,7 @@ title: Alma de Cristo
 tags: ["cristología"]
 
 timestamp: 2026-06-24
-description: El alma de Cristo es el principio vital y espiritual de la humanidad de Jesucristo, dotado de inteligencia y voluntad humanas.
+description: "El alma de Cristo es el principio vital y espiritual de la humanidad de Jesucristo, dotado de inteligencia y voluntad humanas."
 ---
 # Alma de Cristo
 

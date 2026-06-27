@@ -4,7 +4,7 @@ title: Espiritualidad legionaria
 tags: ["espiritualidad", "vida_consagrada"]
 
 timestamp: 2026-06-13
-description: La espiritualidad legionaria es el conjunto de principios, virtudes, prácticas y devociones que configuran la vida espiritual del legionario de Cristo.
+description: "La espiritualidad legionaria es el conjunto de principios, virtudes, prácticas y devociones que configuran la vida espiritual del legionario de Cristo."
 ---
 # Espiritualidad legionaria
 

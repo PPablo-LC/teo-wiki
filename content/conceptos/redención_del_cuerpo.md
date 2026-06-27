@@ -4,7 +4,7 @@ title: Redención del cuerpo
 tags: ["antropología_teológica"]
 
 timestamp: 2026-06-20
-description: La redención del cuerpo es la verdad revelada por Cristo y desarrollada por San Pablo (Rm 8,23) según la cual el cuerpo humano, afectado por la triple concupiscencia a causa del pecado original.
+description: "La redención del cuerpo es la verdad revelada por Cristo y desarrollada por San Pablo (Rm 8,23) según la cual el cuerpo humano, afectado por la triple concupiscencia a causa del pecado original."
 ---
 # Redención del cuerpo
 

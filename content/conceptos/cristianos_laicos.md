@@ -4,7 +4,7 @@ title: Cristianos laicos
 tags: ["eclesiología", "derecho_canónico"]
 
 timestamp: 2026-05-26
-description: Los cristianos laicos son los fieles cristianos que, no siendo clérigos ni en estado de vida consagrada reconocido por la Iglesia.
+description: "Los cristianos laicos son los fieles cristianos que, no siendo clérigos ni en estado de vida consagrada reconocido por la Iglesia."
 ---
 # Cristianos laicos
 

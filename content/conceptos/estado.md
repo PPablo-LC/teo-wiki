@@ -4,7 +4,7 @@ title: Estado
 tags: ["doctrina_social"]
 
 timestamp: 2026-05-25
-description: El Estado es la institución política que ejerce la autoridad soberana sobre un territorio y un pueblo, al servicio del bien común.
+description: "El Estado es la institución política que ejerce la autoridad soberana sobre un territorio y un pueblo, al servicio del bien común."
 ---
 # Estado
 

@@ -4,7 +4,7 @@ title: Fe como condición de salvación
 tags: ["dogmática", "soteriología"]
 
 timestamp: 2026-06-22
-description: La fe en Cristo es la condición constitutiva de la salvación. No es una mera disposición subjetiva sino la adhesión al Hijo de Dios, en quien se manifiesta el amor del Padre.
+description: "La fe en Cristo es la condición constitutiva de la salvación. No es una mera disposición subjetiva sino la adhesión al Hijo de Dios, en quien se manifiesta el amor del Padre."
 ---
 # Fe como condición de salvación
 

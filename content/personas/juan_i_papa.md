@@ -4,7 +4,7 @@ title: San Juan I (Papa)
 tags: ["patrística_—_papas"]
 
 timestamp: 2026-06-25
-description: San Juan I fue Papa de la Iglesia Católica desde 523 hasta 526.
+description: "San Juan I fue Papa de la Iglesia Católica desde 523 hasta 526."
 ---
 # San Juan I (Papa)
 

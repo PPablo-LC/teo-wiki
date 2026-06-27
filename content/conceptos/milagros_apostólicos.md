@@ -4,7 +4,7 @@ title: Milagros apostólicos
 tags: ["eclesiología", "cristología"]
 
 timestamp: 2026-06-22
-description: «Prodigios y señales» realizados por los Apóstoles después de Pentecostés en el nombre de Jesucristo.
+description: "«Prodigios y señales» realizados por los Apóstoles después de Pentecostés en el nombre de Jesucristo."
 ---
 # Milagros apostólicos
 

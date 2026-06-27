@@ -4,7 +4,7 @@ title: Devocionalismo
 tags: ["liturgia", "pastoral"]
 
 timestamp: 2026-06-10
-description: Reducción de la liturgia y la vida de fe a un conjunto de devociones subjetivas que potencian el sentimentalismo individual frente a lo comunitario, objetivo y sacramental.
+description: "Reducción de la liturgia y la vida de fe a un conjunto de devociones subjetivas que potencian el sentimentalismo individual frente a lo comunitario, objetivo y sacramental."
 ---
 # Devocionalismo
 

@@ -1,7 +1,7 @@
 ---
 type: Consulta
 title: Nota sobre el don de piedad
-description: Síntesis de las fuentes CEC y TPCr
+description: "Síntesis de las fuentes CEC y TPCr"
 ---
 # Nota sobre el don de piedad
 

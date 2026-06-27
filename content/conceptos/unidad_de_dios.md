@@ -4,7 +4,7 @@ title: Unidad de Dios
 tags: ["dogmática", "teología_natural"]
 
 timestamp: 2026-06-17
-description: La unidad de Dios es el atributo por el cual Dios es uno, no en sentido numérico (como una unidad que se opone a la multiplicidad), sino como indivisión absoluta del ser divino.
+description: "La unidad de Dios es el atributo por el cual Dios es uno, no en sentido numérico (como una unidad que se opone a la multiplicidad), sino como indivisión absoluta del ser divino."
 ---
 # Unidad de Dios
 

@@ -4,7 +4,7 @@ title: Debilidad
 tags: ["ascética", "moral"]
 
 timestamp: 2026-06-23
-description: La debilidad humana es la condición de fragilidad inherente a la naturaleza caída, consecuencia del pecado original.
+description: "La debilidad humana es la condición de fragilidad inherente a la naturaleza caída, consecuencia del pecado original."
 ---
 # Debilidad
 

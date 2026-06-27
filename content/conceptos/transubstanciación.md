@@ -4,7 +4,7 @@ title: Transubstanciación
 tags: ["sacramental", "eucaristía"]
 
 timestamp: 2026-06-15
-description: La transubstanciación es el cambio sustancial por el cual, en la celebración eucarística, toda la substancia del pan se convierte en la substancia del Cuerpo de Cristo.
+description: "La transubstanciación es el cambio sustancial por el cual, en la celebración eucarística, toda la substancia del pan se convierte en la substancia del Cuerpo de Cristo."
 ---
 # Transubstanciación
 

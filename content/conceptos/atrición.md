@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Atrición
-description: Dolor imperfecto del pecado, concebido por temor a las penas del infierno o por la fealdad del pecado, sin el amor perfecto a Dios. Es materia suficiente para la validez del sacramento de la penitencia.
+description: "Dolor imperfecto del pecado, concebido por temor a las penas del infierno o por la fealdad del pecado, sin el amor perfecto a Dios. Es materia suficiente para la validez del sacramento de la penitencia."
 tags: ["moral", "sacramental"]
 timestamp: 2026-06-27
 ---

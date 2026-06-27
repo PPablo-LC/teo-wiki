@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Perfección cristiana
-description: La perfección cristiana es el estado de plenitud de la vida sobrenatural alcanzado mediante la unión con Dios por la caridad, hacia el cual todo cristiano está llamado a tender.
+description: "La perfección cristiana es el estado de plenitud de la vida sobrenatural alcanzado mediante la unión con Dios por la caridad, hacia el cual todo cristiano está llamado a tender."
 tags: ["ascética", "mística"]
 timestamp: 2026-06-26
 ---

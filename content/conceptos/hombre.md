@@ -4,7 +4,7 @@ title: Hombre
 tags: ["dogmática", "antropología_teológica"]
 
 timestamp: 2026-06-05
-description: El hombre es una criatura creada por Dios a su imagen y semejanza, compuesta de cuerpo material y alma espiritual.
+description: "El hombre es una criatura creada por Dios a su imagen y semejanza, compuesta de cuerpo material y alma espiritual."
 ---
 # Hombre
 

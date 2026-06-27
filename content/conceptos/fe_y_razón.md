@@ -4,7 +4,7 @@ title: Fe y Razón
 tags: ["dogmática"]
 
 timestamp: 2026-05-22
-description: La relación entre la fe y la razón designa la armonía y mutua colaboración entre el conocimiento sobrenatural (fe) y el conocimiento natural (razón).
+description: "La relación entre la fe y la razón designa la armonía y mutua colaboración entre el conocimiento sobrenatural (fe) y el conocimiento natural (razón)."
 ---
 # Fe y Razón
 

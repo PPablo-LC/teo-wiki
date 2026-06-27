@@ -4,7 +4,7 @@ title: Verdad de Dios y amor de Dios
 tags: ["dogmática"]
 
 timestamp: 2026-06-19
-description: La verdad de Dios es el atributo por el cual Dios es la Verdad misma en su esencia, de modo que su palabra es fiable, sus promesas se cumplen siempre y en Él no hay engaño ni tiniebla alguna.
+description: "La verdad de Dios es el atributo por el cual Dios es la Verdad misma en su esencia, de modo que su palabra es fiable, sus promesas se cumplen siempre y en Él no hay engaño ni tiniebla alguna."
 ---
 # Verdad de Dios y amor de Dios
 

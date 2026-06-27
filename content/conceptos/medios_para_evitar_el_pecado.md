@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Medios para evitar el pecado
-description: Conjunto de practicas espirituales, virtudes y disposiciones interiores que el cristiano debe emplear, con la gracia de Dios, para prevenir y evitar la caida en el pecado, tanto mortal como venial.
+description: "Conjunto de practicas espirituales, virtudes y disposiciones interiores que el cristiano debe emplear, con la gracia de Dios, para prevenir y evitar la caida en el pecado, tanto mortal como venial."
 ---
 # Medios para evitar el pecado
 

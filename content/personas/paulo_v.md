@@ -1,7 +1,7 @@
 ---
 type: Persona
 title: Paulo V
-description: Papa (1605-1621), impuso silencio sobre la controversia De Auxiliis, completó la basílica de San Pedro y emitió importantes disposiciones disciplinarias.
+description: "Papa (1605-1621), impuso silencio sobre la controversia De Auxiliis, completó la basílica de San Pedro y emitió importantes disposiciones disciplinarias."
 tags: ["papas", "historia_—_papado"]
 timestamp: 2026-06-27
 ---

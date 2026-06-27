@@ -4,7 +4,7 @@ title: Concilio de Nicea I
 tags: ["dogmática_—_historia"]
 
 timestamp: 2026-06-24
-description: El Primer Concilio de Nicea (325) fue el primer concilio ecuménico de la Iglesia, convocado por el emperador Constantino para resolver la controversia arriana sobre la divinidad de Jesucristo.
+description: "El Primer Concilio de Nicea (325) fue el primer concilio ecuménico de la Iglesia, convocado por el emperador Constantino para resolver la controversia arriana sobre la divinidad de Jesucristo."
 ---
 # Concilio de Nicea I
 

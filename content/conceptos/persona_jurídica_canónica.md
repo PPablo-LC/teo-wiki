@@ -4,7 +4,7 @@ title: Persona jurídica canónica
 tags: ["derecho_canónico"]
 
 timestamp: 2026-06-19
-description: Sujeto en derecho canónico de las obligaciones y derechos congruentes con su propia índole, distinto de las personas físicas.
+description: "Sujeto en derecho canónico de las obligaciones y derechos congruentes con su propia índole, distinto de las personas físicas."
 ---
 # Persona jurídica canónica
 

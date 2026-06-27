@@ -4,7 +4,7 @@ title: Juventud
 tags: ["pastoral", "moral"]
 
 timestamp: 2026-06-10
-description: La juventud es la etapa de la vida humana comprendida entre la adolescencia y la edad adulta, caracterizada por la búsqueda de identidad, la consolidación de la personalidad.
+description: "La juventud es la etapa de la vida humana comprendida entre la adolescencia y la edad adulta, caracterizada por la búsqueda de identidad, la consolidación de la personalidad."
 ---
 # Juventud
 

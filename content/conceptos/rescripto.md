@@ -4,7 +4,7 @@ title: Rescripto
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-25
-description: Acto administrativo emitido por escrito por la autoridad ejecutiva competente que, por su propia naturaleza, concede un privilegio, una dispensa u otra gracia a petición del interesado (c. 59 §1).
+description: "Acto administrativo emitido por escrito por la autoridad ejecutiva competente que, por su propia naturaleza, concede un privilegio, una dispensa u otra gracia a petición del interesado (c. 59 §1)."
 ---
 # Rescripto
 

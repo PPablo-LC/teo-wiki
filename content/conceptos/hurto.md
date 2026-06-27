@@ -4,7 +4,7 @@ title: Hurto
 tags: ["moral"]
 
 timestamp: 2026-06-09
-description: El hurto es la toma injusta de lo ajeno contra la voluntad razonable del dueño, realizada de modo oculto. Se distingue de la rapiña, que es la toma injusta de lo ajeno mediante violencia pública.
+description: "El hurto es la toma injusta de lo ajeno contra la voluntad razonable del dueño, realizada de modo oculto. Se distingue de la rapiña, que es la toma injusta de lo ajeno mediante violencia pública."
 ---
 # Hurto
 

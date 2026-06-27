@@ -4,7 +4,7 @@ title: Perfil intelectual del legionario
 tags: ["formación"]
 
 timestamp: 2026-06-12
-description: El perfil intelectual del legionario de Cristo es la descripción de los principales rasgos de la formación intelectual y académica que ha de adquirir el legionario.
+description: "El perfil intelectual del legionario de Cristo es la descripción de los principales rasgos de la formación intelectual y académica que ha de adquirir el legionario."
 ---
 # Perfil intelectual del legionario
 

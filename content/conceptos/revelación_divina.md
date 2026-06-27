@@ -4,7 +4,7 @@ title: Revelación divina
 tags: ["dogmática", "teología_fundamental"]
 
 timestamp: 2026-05-26
-description: La revelación divina es el acto por el cual Dios, por una decisión enteramente libre, se revela a sí mismo y se da al hombre, dando a conocer el misterio de su voluntad.
+description: "La revelación divina es el acto por el cual Dios, por una decisión enteramente libre, se revela a sí mismo y se da al hombre, dando a conocer el misterio de su voluntad."
 ---
 # Revelación divina
 

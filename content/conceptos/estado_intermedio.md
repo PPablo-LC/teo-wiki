@@ -4,7 +4,7 @@ title: Estado intermedio
 tags: ["escatología"]
 
 timestamp: 2026-06-16
-description: Estado de las almas separadas del cuerpo entre la muerte y la resurrección final.
+description: "Estado de las almas separadas del cuerpo entre la muerte y la resurrección final."
 ---
 # Estado intermedio
 

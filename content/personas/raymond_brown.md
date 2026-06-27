@@ -4,7 +4,7 @@ title: Raymond E. Brown, SS
 tags: ["exégesis_bíblica", "teología_bíblica"]
 
 timestamp: 2026-06-05
-description: Raymond Edward Brown (1928–1998) fue un sacerdote sulpiciano y exegeta estadounidense, considerado uno de los más importantes biblistas católicos del siglo XX.
+description: "Raymond Edward Brown (1928–1998) fue un sacerdote sulpiciano y exegeta estadounidense, considerado uno de los más importantes biblistas católicos del siglo XX."
 ---
 # Raymond E. Brown, SS
 

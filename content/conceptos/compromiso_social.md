@@ -4,7 +4,7 @@ title: Compromiso social
 tags: ["doctrina_social"]
 
 timestamp: 2026-05-25
-description: Dimensión esencial de la vocación cristiana que impulsa a los fieles, especialmente a los laicos, a trabajar activamente por la transformación de la sociedad según el espíritu del Evangelio.
+description: "Dimensión esencial de la vocación cristiana que impulsa a los fieles, especialmente a los laicos, a trabajar activamente por la transformación de la sociedad según el espíritu del Evangelio."
 ---
 # Compromiso social
 

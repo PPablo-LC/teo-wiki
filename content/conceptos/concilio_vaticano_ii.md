@@ -4,7 +4,7 @@ title: Concilio Vaticano II
 tags: ["eclesiología", "teología_fundamental", "liturgia"]
 
 timestamp: 2026-05-26
-description: El Concilio Vaticano II (1962-1965) es el XXI concilio ecuménico de la Iglesia católica, convocado por el Papa Juan XXIII y clausurado por el Papa Pablo VI.
+description: "El Concilio Vaticano II (1962-1965) es el XXI concilio ecuménico de la Iglesia católica, convocado por el Papa Juan XXIII y clausurado por el Papa Pablo VI."
 ---
 # Concilio Vaticano II
 

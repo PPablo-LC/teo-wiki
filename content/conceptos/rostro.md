@@ -4,7 +4,7 @@ title: Rostro
 tags: ["bíblica", "teología_espiritual"]
 
 timestamp: 2026-06-02
-description: El rostro en la Escritura es el espejo del corazón y el símbolo de la persona en su relación con Dios y con los hombres. «Buscar el rostro de Dios» expresa el anhelo profundo de la piedad israelita.
+description: "El rostro en la Escritura es el espejo del corazón y el símbolo de la persona en su relación con Dios y con los hombres. «Buscar el rostro de Dios» expresa el anhelo profundo de la piedad israelita."
 ---
 # Rostro
 

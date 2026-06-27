@@ -4,7 +4,7 @@ title: Discipulado misionero
 tags: ["eclesiología", "teología_espiritual"]
 
 timestamp: 2026-06-17
-description: Condición del cristiano que, habiendo respondido a la llamada de Cristo al discipulado, vive su fe como enviado en misión.
+description: "Condición del cristiano que, habiendo respondido a la llamada de Cristo al discipulado, vive su fe como enviado en misión."
 ---
 # Discipulado misionero
 

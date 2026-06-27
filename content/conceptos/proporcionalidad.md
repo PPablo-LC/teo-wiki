@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Proporcionalidad
-description: Principio moral que exige que los medios empleados en una accion sean proporcionados al fin buscado y a las circunstancias.
+description: "Principio moral que exige que los medios empleados en una accion sean proporcionados al fin buscado y a las circunstancias."
 ---
 # Proporcionalidad
 

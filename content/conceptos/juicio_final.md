@@ -4,7 +4,7 @@ title: Juicio final
 tags: ["escatología"]
 
 timestamp: 2026-06-16
-description: El Juicio final (también llamado Juicio universal) es el juicio definitivo que Cristo pronunciará sobre toda la humanidad al final de los tiempos, cuando vuelva en gloria.
+description: "El Juicio final (también llamado Juicio universal) es el juicio definitivo que Cristo pronunciará sobre toda la humanidad al final de los tiempos, cuando vuelva en gloria."
 ---
 # Juicio final
 

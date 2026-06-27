@@ -4,7 +4,7 @@ title: Cuerpo
 tags: ["dogmática", "moral"]
 
 timestamp: 2026-06-04
-description: El cuerpo humano es la parte material y corporal del compuesto humano, creado por Dios.
+description: "El cuerpo humano es la parte material y corporal del compuesto humano, creado por Dios."
 ---
 # Cuerpo
 

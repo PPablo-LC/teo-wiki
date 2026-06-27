@@ -4,7 +4,7 @@ title: Presbiterio
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-26
-description: El presbiterio es el conjunto de los presbíteros de una diócesis, unidos entre sí por la íntima fraternidad del sacramento del orden.
+description: "El presbiterio es el conjunto de los presbíteros de una diócesis, unidos entre sí por la íntima fraternidad del sacramento del orden."
 ---
 # Presbiterio
 

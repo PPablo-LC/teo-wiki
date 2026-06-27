@@ -4,7 +4,7 @@ title: Cristo Legislador
 tags: ["cristología", "dogmática"]
 
 timestamp: 2026-06-22
-description: Cristo se comporta como Legislador divino, enseñando con autoridad propia sobre la Ley de Dios, no como los escribas que se limitaban a comentar y glosar la Ley mosaica.
+description: "Cristo se comporta como Legislador divino, enseñando con autoridad propia sobre la Ley de Dios, no como los escribas que se limitaban a comentar y glosar la Ley mosaica."
 ---
 # Cristo Legislador
 

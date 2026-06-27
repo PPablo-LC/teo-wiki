@@ -4,7 +4,7 @@ title: Alegría de evangelizar
 tags: ["espiritualidad", "eclesiología"]
 
 timestamp: 2026-06-13
-description: Rasgo característico de la vida cristiana y del impulso misionero de la Iglesia.
+description: "Rasgo característico de la vida cristiana y del impulso misionero de la Iglesia."
 ---
 # Alegría de evangelizar
 

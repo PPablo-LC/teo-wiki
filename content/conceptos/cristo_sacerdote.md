@@ -4,7 +4,7 @@ title: Cristo Sacerdote
 tags: ["cristología", "sacramental"]
 
 timestamp: 2026-06-22
-description: Cristo Sacerdote (o Mesías-Sacerdote) designa a Jesucristo como Sumo Sacerdote eterno según el orden de Melquisedec.
+description: "Cristo Sacerdote (o Mesías-Sacerdote) designa a Jesucristo como Sumo Sacerdote eterno según el orden de Melquisedec."
 ---
 # Cristo Sacerdote
 

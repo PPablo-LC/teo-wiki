@@ -4,7 +4,7 @@ title: Iconografía mariana
 tags: ["mariología", "arte_sacro"]
 
 timestamp: 2026-06-18
-description: La iconografía mariana es el conjunto de representaciones artísticas de la Virgen María en la tradición cristiana, tanto en Oriente (iconos) como en Occidente (pintura, escultura, mosaico).
+description: "La iconografía mariana es el conjunto de representaciones artísticas de la Virgen María en la tradición cristiana, tanto en Oriente (iconos) como en Occidente (pintura, escultura, mosaico)."
 ---
 # Iconografía mariana
 

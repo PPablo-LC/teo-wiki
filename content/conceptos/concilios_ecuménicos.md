@@ -4,7 +4,7 @@ title: Concilios ecuménicos
 tags: ["dogmática_—_eclesiología"]
 
 timestamp: 2026-06-25
-description: Los concilios ecuménicos son asambleas solemnes de los obispos de toda la Iglesia, convocadas y confirmadas por el Romano Pontífice.
+description: "Los concilios ecuménicos son asambleas solemnes de los obispos de toda la Iglesia, convocadas y confirmadas por el Romano Pontífice."
 ---
 # Concilios ecuménicos
 

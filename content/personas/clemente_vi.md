@@ -1,7 +1,7 @@
 ---
 type: Persona
 title: Clemente VI
-description: Papa que promulgó la Bula Unigenitus Dei Filius sobre el tesoro de la Iglesia y las indulgencias, condenó errores de Nicolás de Autrécourt y defendió el primado papal contra los armenios.
+description: "Papa que promulgó la Bula Unigenitus Dei Filius sobre el tesoro de la Iglesia y las indulgencias, condenó errores de Nicolás de Autrécourt y defendió el primado papal contra los armenios."
 tags: ["historia_—_papado", "sacramental", "eclesiología"]
 timestamp: 2026-06-26
 ---

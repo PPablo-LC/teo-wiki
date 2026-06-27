@@ -4,7 +4,7 @@ title: Gran mandamiento
 tags: ["moral", "dogmática"]
 
 timestamp: 2026-06-03
-description: El gran mandamiento es el doble precepto del amor a Dios sobre todas las cosas y al prójimo como a uno mismo, enseñado por Jesucristo como resumen y plenitud de toda la Ley y los Profetas.
+description: "El gran mandamiento es el doble precepto del amor a Dios sobre todas las cosas y al prójimo como a uno mismo, enseñado por Jesucristo como resumen y plenitud de toda la Ley y los Profetas."
 ---
 # Gran mandamiento
 

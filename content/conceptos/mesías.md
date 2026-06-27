@@ -4,7 +4,7 @@ title: Mesías
 tags: ["cristología"]
 
 timestamp: 2026-06-21
-description: Mesías (hebreo) y Cristo (griego) significan «ungido». Designa al enviado de Dios por excelencia, el esperado por Israel para establecer el reino definitivo.
+description: "Mesías (hebreo) y Cristo (griego) significan «ungido». Designa al enviado de Dios por excelencia, el esperado por Israel para establecer el reino definitivo."
 ---
 # Mesías
 

@@ -4,7 +4,7 @@ title: Gracia sacramental
 tags: ["sacramental"]
 
 timestamp: 2026-06-14
-description: Gracia del Espíritu Santo dada por Cristo, propia de cada sacramento, que cura y transforma a los que lo reciben conformándolos con el Hijo de Dios.
+description: "Gracia del Espíritu Santo dada por Cristo, propia de cada sacramento, que cura y transforma a los que lo reciben conformándolos con el Hijo de Dios."
 ---
 # Gracia sacramental
 

@@ -4,7 +4,7 @@ title: Adoración
 tags: ["moral_—_dogmática"]
 
 timestamp: 2026-06-12
-description: Acto primero de la virtud de la religión por el cual el hombre reconoce a Dios como su Creador y Señor supremo, rindiéndole el honor y la sumisión total que le son debidos como a su fin último.
+description: "Acto primero de la virtud de la religión por el cual el hombre reconoce a Dios como su Creador y Señor supremo, rindiéndole el honor y la sumisión total que le son debidos como a su fin último."
 ---
 # Adoración
 

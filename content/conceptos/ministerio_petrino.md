@@ -4,7 +4,7 @@ title: Ministerio petrino
 tags: ["eclesiología"]
 
 timestamp: 2026-05-26
-description: El ministerio petrino es el oficio del [[romano_pontífice]] como sucesor de San Pedro, que ejerce la jurisdicción suprema, plena e inmediata sobre toda la Iglesia en virtud de su [[primado_petrino]].
+description: "El ministerio petrino es el oficio del [[romano_pontífice]] como sucesor de San Pedro, que ejerce la jurisdicción suprema, plena e inmediata sobre toda la Iglesia en virtud de su [[primado_petrino]]."
 ---
 # Ministerio petrino
 

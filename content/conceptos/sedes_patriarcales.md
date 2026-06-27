@@ -4,7 +4,7 @@ title: Sedes patriarcales
 tags: ["derecho_canónico_—_jerarquía"]
 
 timestamp: 2026-06-25
-description: Las sedes patriarcales son las Iglesias fundadas por los Apóstoles que gozan de especial veneración y autoridad en la tradición cristiana.
+description: "Las sedes patriarcales son las Iglesias fundadas por los Apóstoles que gozan de especial veneración y autoridad en la tradición cristiana."
 ---
 # Sedes patriarcales
 

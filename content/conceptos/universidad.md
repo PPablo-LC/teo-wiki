@@ -4,7 +4,7 @@ title: Universidad
 tags: ["educación", "derecho_canónico"]
 
 timestamp: 2026-05-25
-description: Institución de estudios superiores que la Iglesia tiene derecho a erigir y dirigir para contribuir al incremento de la cultura superior.
+description: "Institución de estudios superiores que la Iglesia tiene derecho a erigir y dirigir para contribuir al incremento de la cultura superior."
 ---
 # Universidad
 

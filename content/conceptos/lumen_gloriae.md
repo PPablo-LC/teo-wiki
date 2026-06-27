@@ -4,7 +4,7 @@ title: Lumen gloriae
 tags: ["dogmática"]
 
 timestamp: 2026-05-25
-description: Disposición o cualidad sobrenatural creada que eleva el entendimiento del bienaventurado para que pueda ver a Dios cara a cara en la visión beatífica.
+description: "Disposición o cualidad sobrenatural creada que eleva el entendimiento del bienaventurado para que pueda ver a Dios cara a cara en la visión beatífica."
 ---
 # Lumen gloriae
 

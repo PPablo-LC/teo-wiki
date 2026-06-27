@@ -4,7 +4,7 @@ title: Cuerpo Místico
 tags: ["eclesiología"]
 
 timestamp: 2026-05-22
-description: La Iglesia considerada en su unión íntima con Cristo, como un cuerpo orgánico cuya cabeza es Cristo y cuyos miembros son los fieles, animados por el Espíritu Santo que es como su alma.
+description: "La Iglesia considerada en su unión íntima con Cristo, como un cuerpo orgánico cuya cabeza es Cristo y cuyos miembros son los fieles, animados por el Espíritu Santo que es como su alma."
 ---
 # Cuerpo Místico
 

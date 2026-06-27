@@ -4,7 +4,7 @@ title: Iglesia como sacramento universal de salvación
 tags: ["eclesiología"]
 
 timestamp: 2026-06-19
-description: La Iglesia es en Cristo como un sacramento, signo e instrumento de la unión íntima con Dios y de la unidad de todo el género humano.
+description: "La Iglesia es en Cristo como un sacramento, signo e instrumento de la unión íntima con Dios y de la unidad de todo el género humano."
 ---
 # Iglesia como sacramento universal de salvación
 

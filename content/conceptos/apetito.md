@@ -4,7 +4,7 @@ title: Apetito
 tags: ["antropología"]
 
 timestamp: 2026-06-04
-description: El apetito es la inclinación o tendencia de una facultad hacia su bien o fin propio.
+description: "El apetito es la inclinación o tendencia de una facultad hacia su bien o fin propio."
 ---
 # Apetito
 

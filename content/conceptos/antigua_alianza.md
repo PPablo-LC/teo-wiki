@@ -4,7 +4,7 @@ title: Antigua Alianza
 tags: ["dogmática"]
 
 timestamp: 2026-05-22
-description: Conjunto de las alianzas que Dios estableció con su pueblo desde los orígenes hasta la venida de Cristo, especialmente la alianza del Sinaí por medio de Moisés.
+description: "Conjunto de las alianzas que Dios estableció con su pueblo desde los orígenes hasta la venida de Cristo, especialmente la alianza del Sinaí por medio de Moisés."
 ---
 # Antigua Alianza
 

@@ -4,7 +4,7 @@ title: Formación progresiva
 tags: ["ascética", "moral"]
 
 timestamp: 2026-06-03
-description: La formación progresiva es el proceso continuo mediante el cual el cristiano crece en la vida espiritual y moral, avanzando desde el estado de principiante hasta la perfección de la caridad.
+description: "La formación progresiva es el proceso continuo mediante el cual el cristiano crece en la vida espiritual y moral, avanzando desde el estado de principiante hasta la perfección de la caridad."
 ---
 # Formación progresiva
 

@@ -4,7 +4,7 @@ title: Remisión de penas
 tags: ["derecho_canónico"]
 
 timestamp: 2026-06-19
-description: Acto por el cual la autoridad eclesiástica competente extingue los efectos de una sanción penal canónica.
+description: "Acto por el cual la autoridad eclesiástica competente extingue los efectos de una sanción penal canónica."
 ---
 # Remisión de penas
 

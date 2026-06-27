@@ -4,7 +4,7 @@ title: Consagración
 tags: ["sacramental", "dogmática"]
 
 timestamp: 2026-05-22
-description: La consagración es el acto por el cual una persona o cosa es separada del uso profano y destinada al culto divino, quedando relacionada con Dios de manera estable.
+description: "La consagración es el acto por el cual una persona o cosa es separada del uso profano y destinada al culto divino, quedando relacionada con Dios de manera estable."
 ---
 # Consagración
 

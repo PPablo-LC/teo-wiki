@@ -4,7 +4,7 @@ title: Afinidad
 tags: ["derecho_canónico"]
 
 timestamp: 2026-06-15
-description: Vínculo de parentesco que surge entre un cónyuge y los parientes consanguíneos del otro cónyuge, como resultado del matrimonio. Es impedimento dirimente del matrimonio.
+description: "Vínculo de parentesco que surge entre un cónyuge y los parientes consanguíneos del otro cónyuge, como resultado del matrimonio. Es impedimento dirimente del matrimonio."
 ---
 # Afinidad
 

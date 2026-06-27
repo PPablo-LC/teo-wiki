@@ -4,7 +4,7 @@ title: Energúmeno
 tags: ["mística"]
 
 timestamp: 2026-05-22
-description: Persona poseída por el demonio, cuyo cuerpo es invadido y movido por el espíritu maligno como si se tratase de su propio cuerpo. Sinónimo de poseso o endemoniado.
+description: "Persona poseída por el demonio, cuyo cuerpo es invadido y movido por el espíritu maligno como si se tratase de su propio cuerpo. Sinónimo de poseso o endemoniado."
 ---
 # Energúmeno
 

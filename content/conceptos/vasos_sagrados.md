@@ -4,7 +4,7 @@ title: Vasos sagrados
 tags: ["liturgia"]
 
 timestamp: 2026-06-13
-description: Recipientes y utensilios destinados a contener el Cuerpo y la Sangre de Cristo en la celebración eucarística y en el culto eucarístico fuera de la misa, que deben ser de materiales nobles.
+description: "Recipientes y utensilios destinados a contener el Cuerpo y la Sangre de Cristo en la celebración eucarística y en el culto eucarístico fuera de la misa, que deben ser de materiales nobles."
 ---
 # Vasos sagrados
 

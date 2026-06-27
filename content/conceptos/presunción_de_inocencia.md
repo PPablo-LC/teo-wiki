@@ -4,7 +4,7 @@ title: Presunción de Inocencia
 tags: ["moral_(doctrina_social)", "derecho_canónico"]
 
 timestamp: 2026-05-29
-description: Principio jurídico por el cual toda persona acusada de un delito se considera inocente hasta que se demuestre su culpabilidad mediante sentencia firme dictada tras un proceso justo.
+description: "Principio jurídico por el cual toda persona acusada de un delito se considera inocente hasta que se demuestre su culpabilidad mediante sentencia firme dictada tras un proceso justo."
 ---
 # Presunción de Inocencia
 

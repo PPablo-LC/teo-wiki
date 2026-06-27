@@ -4,7 +4,7 @@ title: Magnanimidad
 tags: ["moral"]
 
 timestamp: 2026-06-11
-description: La magnanimidad (literalmente "grandeza de alma") es la virtud moral que inclina a emprender obras grandes, espléndidas y dignas de honor en todo género de virtudes.
+description: "La magnanimidad (literalmente \"grandeza de alma\") es la virtud moral que inclina a emprender obras grandes, espléndidas y dignas de honor en todo género de virtudes."
 ---
 # Magnanimidad
 

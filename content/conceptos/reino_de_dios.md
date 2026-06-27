@@ -4,7 +4,7 @@ title: Reino de Dios
 tags: ["dogmática"]
 
 timestamp: 2026-06-21
-description: El Reino de Dios (o Reino de los Cielos) es el señorío soberano de Dios sobre todas las cosas, manifestado en la historia mediante la acción salvífica de Cristo.
+description: "El Reino de Dios (o Reino de los Cielos) es el señorío soberano de Dios sobre todas las cosas, manifestado en la historia mediante la acción salvífica de Cristo."
 ---
 # Reino de Dios
 

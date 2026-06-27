@@ -4,7 +4,7 @@ title: Nombres divinos
 tags: ["dogmática", "teología_natural"]
 
 timestamp: 2026-06-17
-description: Los nombres divinos son las denominaciones que la razón humana, a partir de las criaturas, atribuye a Dios para significar, de modo limitado y analógico, sus perfecciones.
+description: "Los nombres divinos son las denominaciones que la razón humana, a partir de las criaturas, atribuye a Dios para significar, de modo limitado y analógico, sus perfecciones."
 ---
 # Nombres divinos
 

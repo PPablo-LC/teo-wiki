@@ -4,7 +4,7 @@ title: Conversión, Reparación, Proteger y Sanar
 tags: ["documentos_—_espiritualidad_legionaria"]
 
 timestamp: 2026-06-11
-description: Documentos fundacionales del proceso de conversión institucional de la Legión de Cristo.
+description: "Documentos fundacionales del proceso de conversión institucional de la Legión de Cristo."
 ---
 # Conversión, Reparación, Proteger y Sanar
 

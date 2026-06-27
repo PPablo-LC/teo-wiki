@@ -4,7 +4,7 @@ title: Humanidad de Cristo
 tags: ["cristología"]
 
 timestamp: 2026-06-22
-description: La verdad de fe de que Jesucristo es verdadero hombre, perfecto en su humanidad, hijo de María, semejante a nosotros en todo menos en el pecado (cf. Heb 4,15).
+description: "La verdad de fe de que Jesucristo es verdadero hombre, perfecto en su humanidad, hijo de María, semejante a nosotros en todo menos en el pecado (cf. Heb 4,15)."
 ---
 # Humanidad de Cristo
 

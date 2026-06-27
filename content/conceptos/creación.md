@@ -4,7 +4,7 @@ title: Creación
 tags: ["dogmática"]
 
 timestamp: 2026-06-20
-description: La creación es la obra por la cual Dios, en su libérrima voluntad, saca de la nada todo lo que existe (cielo y tierra, lo visible y lo invisible) por su Palabra y su Espíritu.
+description: "La creación es la obra por la cual Dios, en su libérrima voluntad, saca de la nada todo lo que existe (cielo y tierra, lo visible y lo invisible) por su Palabra y su Espíritu."
 ---
 # Creación
 

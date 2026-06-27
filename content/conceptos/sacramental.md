@@ -4,7 +4,7 @@ title: Sacramental
 tags: ["sacramental", "liturgia"]
 
 timestamp: 2026-05-22
-description: Los sacramentales son signos sagrados instituidos por la Iglesia que, imitando de alguna manera a los sacramentos, expresan efectos espirituales obtenidos por la intercesión de la Iglesia.
+description: "Los sacramentales son signos sagrados instituidos por la Iglesia que, imitando de alguna manera a los sacramentos, expresan efectos espirituales obtenidos por la intercesión de la Iglesia."
 ---
 # Sacramental
 

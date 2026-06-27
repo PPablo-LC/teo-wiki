@@ -4,7 +4,7 @@ title: Obediencia de la fe
 tags: ["dogmática", "ascética"]
 
 timestamp: 2026-05-26
-description: La obediencia de la fe es la respuesta del hombre a Dios que revela, por la cual el hombre somete completamente su inteligencia y su voluntad a Dios.
+description: "La obediencia de la fe es la respuesta del hombre a Dios que revela, por la cual el hombre somete completamente su inteligencia y su voluntad a Dios."
 ---
 # Obediencia de la fe
 

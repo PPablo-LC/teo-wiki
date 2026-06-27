@@ -4,7 +4,7 @@ title: Bondad
 tags: ["dogmática"]
 
 timestamp: 2026-06-17
-description: La bondad es un atributo esencial de Dios, que es el Bien supremo, infinito y perfecto, fuente de toda bondad creada.
+description: "La bondad es un atributo esencial de Dios, que es el Bien supremo, infinito y perfecto, fuente de toda bondad creada."
 ---
 # Bondad
 

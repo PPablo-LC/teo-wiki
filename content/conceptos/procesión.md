@@ -4,7 +4,7 @@ title: Procesión
 tags: ["liturgia"]
 
 timestamp: 2026-05-26
-description: La procesión es una marcha ritual del pueblo cristiano, ordenada y bajo guía, con carácter litúrgico o devocional.
+description: "La procesión es una marcha ritual del pueblo cristiano, ordenada y bajo guía, con carácter litúrgico o devocional."
 ---
 # Procesión
 

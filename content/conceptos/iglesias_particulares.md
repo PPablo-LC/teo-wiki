@@ -4,7 +4,7 @@ title: Iglesias particulares
 tags: ["eclesiología", "derecho_canónico"]
 
 timestamp: 2026-05-29
-description: Las Iglesias particulares son porciones del Pueblo de Dios cuyo cuidado pastoral se confía a un Obispo con la cooperación del presbiterio, de manera que.
+description: "Las Iglesias particulares son porciones del Pueblo de Dios cuyo cuidado pastoral se confía a un Obispo con la cooperación del presbiterio, de manera que."
 ---
 # Iglesias particulares
 

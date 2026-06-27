@@ -4,7 +4,7 @@ title: Laicado
 tags: ["eclesiología", "teología_del_laicado"]
 
 timestamp: 2026-06-19
-description: El laicado designa al conjunto de los fieles cristianos que, incorporados a Cristo por el bautismo, integrados al Pueblo de Dios y hechos partícipes a su modo de la función sacerdotal.
+description: "El laicado designa al conjunto de los fieles cristianos que, incorporados a Cristo por el bautismo, integrados al Pueblo de Dios y hechos partícipes a su modo de la función sacerdotal."
 ---
 # Laicado
 

@@ -4,7 +4,7 @@ title: Eutiques
 tags: ["patrística_—_herejías"]
 
 timestamp: 2026-06-25
-description: Eutiques (ca. 378-454) fue un archimandrita (abad) de Constantinopla que dio origen a la herejía monofisita.
+description: "Eutiques (ca. 378-454) fue un archimandrita (abad) de Constantinopla que dio origen a la herejía monofisita."
 ---
 # Eutiques
 

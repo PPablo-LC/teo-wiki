@@ -4,7 +4,7 @@ title: Juicio según el amor
 tags: ["dogmática", "escatología", "moral"]
 
 timestamp: 2026-06-22
-description: El juicio final, según la enseñanza de Cristo, se fundamenta primordialmente en el amor.
+description: "El juicio final, según la enseñanza de Cristo, se fundamenta primordialmente en el amor."
 ---
 # Juicio según el amor
 

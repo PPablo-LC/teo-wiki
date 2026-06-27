@@ -4,7 +4,7 @@ title: Juicio canónico
 tags: ["derecho_canónico"]
 
 timestamp: 2026-06-19
-description: El juicio canónico es el proceso judicial regulado por el Código de Derecho Canónico mediante el cual la Iglesia, a través de sus tribunales.
+description: "El juicio canónico es el proceso judicial regulado por el Código de Derecho Canónico mediante el cual la Iglesia, a través de sus tribunales."
 ---
 # Juicio canónico
 

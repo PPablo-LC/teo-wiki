@@ -4,7 +4,7 @@ title: Neófito
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-26
-description: El neófito es el recién bautizado en la fe cristiana, procedente del catecumenado.
+description: "El neófito es el recién bautizado en la fe cristiana, procedente del catecumenado."
 ---
 # Neófito
 

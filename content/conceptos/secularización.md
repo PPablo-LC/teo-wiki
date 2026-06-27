@@ -4,7 +4,7 @@ title: Secularización
 tags: ["teología_fundamental"]
 
 timestamp: 2026-06-10
-description: Proceso sociocultural por el cual las referencias cristianas comunes que durante siglos facilitaron la transmisión del mensaje evangélico y la comprensión del lenguaje moral y las grandes preguntas...
+description: "Proceso sociocultural por el cual las referencias cristianas comunes que durante siglos facilitaron la transmisión del mensaje evangélico y la comprensión del lenguaje moral y las grandes preguntas..."
 ---
 # Secularización
 

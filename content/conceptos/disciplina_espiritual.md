@@ -4,7 +4,7 @@ title: Disciplina espiritual
 tags: ["ascética"]
 
 timestamp: 2026-06-03
-description: La disciplina espiritual es el conjunto de hábitos, prácticas y ejercicios ordenados a la adquisición de la perfección cristiana mediante el dominio de las pasiones desordenadas.
+description: "La disciplina espiritual es el conjunto de hábitos, prácticas y ejercicios ordenados a la adquisición de la perfección cristiana mediante el dominio de las pasiones desordenadas."
 ---
 # Disciplina espiritual
 

@@ -4,7 +4,7 @@ title: Signatura Apostólica
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-26
-description: Supremo tribunal de la Iglesia católica, que actúa como Tribunal de Casación.
+description: "Supremo tribunal de la Iglesia católica, que actúa como Tribunal de Casación."
 ---
 # Signatura Apostólica
 

@@ -4,7 +4,7 @@ title: Soledad
 tags: ["ascética", "mística"]
 
 timestamp: 2026-06-10
-description: La soledad es la condición de quien permanece apartado de la compañía humana.
+description: "La soledad es la condición de quien permanece apartado de la compañía humana."
 ---
 # Soledad
 

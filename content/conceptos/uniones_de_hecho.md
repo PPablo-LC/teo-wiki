@@ -4,7 +4,7 @@ title: Uniones de hecho
 tags: ["moral", "doctrina_social"]
 
 timestamp: 2026-05-25
-description: Convivencias estables entre un hombre y una mujer que no están unidos en matrimonio.
+description: "Convivencias estables entre un hombre y una mujer que no están unidos en matrimonio."
 ---
 # Uniones de hecho
 

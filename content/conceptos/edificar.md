@@ -4,7 +4,7 @@ title: Edificar
 tags: ["eclesiología"]
 
 timestamp: 2026-06-02
-description: El tema bíblico de la edificación abarca tanto la construcción material de casas, ciudades y templos como la edificación espiritual del pueblo de Dios.
+description: "El tema bíblico de la edificación abarca tanto la construcción material de casas, ciudades y templos como la edificación espiritual del pueblo de Dios."
 ---
 # Edificar
 

@@ -4,7 +4,7 @@ title: Pecado mortal
 tags: ["moral"]
 
 timestamp: 2026-06-20
-description: El pecado mortal es una trasgresión voluntaria de la ley de Dios en materia grave, realizada con plena advertencia y pleno consentimiento de la voluntad.
+description: "El pecado mortal es una trasgresión voluntaria de la ley de Dios en materia grave, realizada con plena advertencia y pleno consentimiento de la voluntad."
 ---
 # Pecado mortal
 

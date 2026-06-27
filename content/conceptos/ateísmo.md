@@ -4,7 +4,7 @@ title: Ateísmo
 tags: ["dogmática", "moral"]
 
 timestamp: 2026-05-26
-description: Fenómeno que designa realidades muy diversas.
+description: "Fenómeno que designa realidades muy diversas."
 ---
 # Ateísmo
 

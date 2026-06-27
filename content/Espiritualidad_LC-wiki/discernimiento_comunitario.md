@@ -4,7 +4,7 @@ title: Discernimiento comunitario
 tags: ["espiritualidad", "vida_consagrada"]
 
 timestamp: 2026-06-13
-description: El discernimiento comunitario es un proceso de búsqueda de la voluntad de Dios realizado en común por una comunidad religiosa, bajo la guía del Espíritu Santo.
+description: "El discernimiento comunitario es un proceso de búsqueda de la voluntad de Dios realizado en común por una comunidad religiosa, bajo la guía del Espíritu Santo."
 ---
 # Discernimiento comunitario
 

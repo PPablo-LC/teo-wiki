@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Pequenos pasos
-description: Principio ascetico que propone la progresion gradual en la vida espiritual mediante actos pequenos pero constantes de fidelidad, renuncia y amor a Dios.
+description: "Principio ascetico que propone la progresion gradual en la vida espiritual mediante actos pequenos pero constantes de fidelidad, renuncia y amor a Dios."
 ---
 # Pequenos pasos
 

@@ -4,7 +4,7 @@ title: Militia Christi
 tags: ["espiritualidad"]
 
 timestamp: 2026-05-25
-description: La militia Christi (milicia de Cristo) es un rasgo característico de la espiritualidad legionaria que expresa la actitud del corazón magnánimo, atento a los signos de los tiempos.
+description: "La militia Christi (milicia de Cristo) es un rasgo característico de la espiritualidad legionaria que expresa la actitud del corazón magnánimo, atento a los signos de los tiempos."
 ---
 # Militia Christi
 

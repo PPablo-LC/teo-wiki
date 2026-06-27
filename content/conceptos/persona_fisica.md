@@ -4,7 +4,7 @@ title: Persona física
 tags: ["derecho_canónico"]
 
 timestamp: 2026-06-19
-description: En derecho canónico, la persona física es el sujeto individual de derechos y obligaciones en la Iglesia.
+description: "En derecho canónico, la persona física es el sujeto individual de derechos y obligaciones en la Iglesia."
 ---
 # Persona física
 

@@ -4,7 +4,7 @@ title: Litiscontestación
 tags: ["derecho_canónico"]
 
 timestamp: 2026-06-19
-description: La litiscontestación es el acto procesal mediante el cual, por decreto del juez, quedan fijados los límites de la controversia.
+description: "La litiscontestación es el acto procesal mediante el cual, por decreto del juez, quedan fijados los límites de la controversia."
 ---
 # Litiscontestación
 

@@ -4,7 +4,7 @@ title: Dimensión vertical de la historia
 tags: ["escatología", "filosofía_de_la_historia"]
 
 timestamp: 2026-06-18
-description: La dimensión vertical de la historia es la trascendencia que Dios imprime en el curso de los acontecimientos humanos.
+description: "La dimensión vertical de la historia es la trascendencia que Dios imprime en el curso de los acontecimientos humanos."
 ---
 # Dimensión vertical de la historia
 

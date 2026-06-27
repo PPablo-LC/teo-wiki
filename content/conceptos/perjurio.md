@@ -4,7 +4,7 @@ title: Perjurio
 tags: ["moral"]
 
 timestamp: 2026-06-09
-description: El perjurio es el juramento falso, es decir, la invocación del nombre de Dios como testigo de una mentira o de una promesa que no se piensa cumplir.
+description: "El perjurio es el juramento falso, es decir, la invocación del nombre de Dios como testigo de una mentira o de una promesa que no se piensa cumplir."
 ---
 # Perjurio
 

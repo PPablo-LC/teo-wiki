@@ -4,7 +4,7 @@ title: Tiempo Litúrgico
 tags: ["liturgia"]
 
 timestamp: 2026-06-03
-description: El tiempo litúrgico es la estructuración del año en períodos que celebran los distintos misterios de Cristo y la historia de la salvación.
+description: "El tiempo litúrgico es la estructuración del año en períodos que celebran los distintos misterios de Cristo y la historia de la salvación."
 ---
 # Tiempo Litúrgico
 

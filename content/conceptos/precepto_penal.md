@@ -4,7 +4,7 @@ title: Precepto penal
 tags: ["derecho_canónico_penal"]
 
 timestamp: 2026-05-29
-description: Acto administrativo singular por el cual la autoridad eclesiástica competente, en virtud de su potestad de régimen en el fuero externo.
+description: "Acto administrativo singular por el cual la autoridad eclesiástica competente, en virtud de su potestad de régimen en el fuero externo."
 ---
 # Precepto penal
 

@@ -1,7 +1,7 @@
 ---
 type: Documento
 title: V Concilio de Letrán
-description: XVIII Concilio Ecuménico (1512-1517), convocado por Julio II, concluido por León X. Definió la inmortalidad del alma, la licitud de los Montes de piedad y la autoridad del Papa sobre los Concilios.
+description: "XVIII Concilio Ecuménico (1512-1517), convocado por Julio II, concluido por León X. Definió la inmortalidad del alma, la licitud de los Montes de piedad y la autoridad del Papa sobre los Concilios."
 tags: ["concilio", "eclesiología", "antropología_teológica", "moral"]
 timestamp: 2026-06-26
 ---

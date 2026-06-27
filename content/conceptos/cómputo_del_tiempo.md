@@ -4,7 +4,7 @@ title: Cómputo del tiempo
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-26
-description: El cómputo del tiempo es el conjunto de reglas canónicas para determinar cómo se miden los plazos y términos temporales en el derecho de la Iglesia.
+description: "El cómputo del tiempo es el conjunto de reglas canónicas para determinar cómo se miden los plazos y términos temporales en el derecho de la Iglesia."
 ---
 # Cómputo del tiempo
 

@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Vida de Cristo
-description: El genero de vida de Cristo designa el modo concreto en que transcurrio su existencia terrena en cuanto a su relacion social, su regimen de vida material, su pobreza y su observancia de la ley.
+description: "El genero de vida de Cristo designa el modo concreto en que transcurrio su existencia terrena en cuanto a su relacion social, su regimen de vida material, su pobreza y su observancia de la ley."
 ---
 # Vida de Cristo
 

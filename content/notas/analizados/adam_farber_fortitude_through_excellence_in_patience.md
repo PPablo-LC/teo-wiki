@@ -2,7 +2,7 @@
 type: Análisis Doctrinal
 title: "Adam Farber — Fortitude Through Excellence In Patience: Análisis doctrinal"
 timestamp: 2026-06-03
-description: Conferencia del mismo Adam Farber en la Catholic Men's Conference 2022, centrada en la virtud de la paciencia.
+description: "Conferencia del mismo Adam Farber en la Catholic Men's Conference 2022, centrada en la virtud de la paciencia."
 ---
 # Adam Farber — Fortitude Through Excellence In Patience: Análisis doctrinal
 

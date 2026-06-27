@@ -4,7 +4,7 @@ title: Anticoncepción
 tags: ["moral"]
 
 timestamp: 2026-05-25
-description: Práctica moralmente ilícita que impide la procreación mediante medios artificiales, rechazada por la Iglesia por derivar de una concepción incorrecta de la persona y de la sexualidad humana.
+description: "Práctica moralmente ilícita que impide la procreación mediante medios artificiales, rechazada por la Iglesia por derivar de una concepción incorrecta de la persona y de la sexualidad humana."
 ---
 # Anticoncepción
 

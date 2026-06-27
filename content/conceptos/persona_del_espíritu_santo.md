@@ -4,7 +4,7 @@ title: Persona del Espíritu Santo
 tags: ["dogmática_(trinidad", "pneumatología)"]
 
 timestamp: 2026-05-29
-description: Tercera Persona de la Santísima Trinidad, Dios verdadero, consubstancial al Padre y al Hijo, que procede del Padre y del Hijo (Filioque) como de un solo principio.
+description: "Tercera Persona de la Santísima Trinidad, Dios verdadero, consubstancial al Padre y al Hijo, que procede del Padre y del Hijo (Filioque) como de un solo principio."
 ---
 # Persona del Espíritu Santo
 

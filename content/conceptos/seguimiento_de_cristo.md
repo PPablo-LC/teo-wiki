@@ -4,7 +4,7 @@ title: Seguimiento de Cristo
 tags: ["espiritualidad", "moral"]
 
 timestamp: 2026-06-22
-description: El seguimiento de Cristo es la respuesta del discípulo a la llamada de Jesús a entrar en el Reino de Dios mediante la conversión, la fe y la disposición a la renuncia.
+description: "El seguimiento de Cristo es la respuesta del discípulo a la llamada de Jesús a entrar en el Reino de Dios mediante la conversión, la fe y la disposición a la renuncia."
 ---
 # Seguimiento de Cristo
 

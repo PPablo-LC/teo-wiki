@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Legítima defensa
-description: Derecho moral a repeler con proporción una agresión injusta actual, pudiendo llegar hasta la muerte del agresor cuando no haya otro modo eficaz de proteger la vida propia o la de un inocente.
+description: "Derecho moral a repeler con proporción una agresión injusta actual, pudiendo llegar hasta la muerte del agresor cuando no haya otro modo eficaz de proteger la vida propia o la de un inocente."
 tags: ["moral"]
 timestamp: 2026-06-27
 ---

@@ -4,7 +4,7 @@ title: Órdenes religiosas
 tags: ["ascética", "eclesiología"]
 
 timestamp: 2026-06-12
-description: Las órdenes religiosas son institutos de vida consagrada en los que los miembros, mediante votos públicos.
+description: "Las órdenes religiosas son institutos de vida consagrada en los que los miembros, mediante votos públicos."
 ---
 # Órdenes religiosas
 

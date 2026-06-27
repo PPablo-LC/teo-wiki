@@ -4,7 +4,7 @@ title: Catequesis social
 tags: ["teología_pastoral", "doctrina_social"]
 
 timestamp: 2026-06-19
-description: La catequesis social es la enseñanza orgánica y sistemática de la doctrina social de la Iglesia en el contexto de la catequesis.
+description: "La catequesis social es la enseñanza orgánica y sistemática de la doctrina social de la Iglesia en el contexto de la catequesis."
 ---
 # Catequesis social
 

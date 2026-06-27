@@ -4,7 +4,7 @@ title: Sociedad de vida apostólica
 tags: ["eclesiología"]
 
 timestamp: 2026-05-25
-description: Las sociedades de vida apostólica son sociedades cuyos miembros, sin votos religiosos, buscan el fin apostólico propio de la sociedad y, llevando vida fraterna en común según el propio modo de vida.
+description: "Las sociedades de vida apostólica son sociedades cuyos miembros, sin votos religiosos, buscan el fin apostólico propio de la sociedad y, llevando vida fraterna en común según el propio modo de vida."
 ---
 # Sociedad de vida apostólica
 

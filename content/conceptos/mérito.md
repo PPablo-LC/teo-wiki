@@ -4,7 +4,7 @@ title: Mérito
 tags: ["dogmática", "moral"]
 
 timestamp: 2026-06-12
-description: El mérito es la retribución debida por parte de una comunidad o sociedad a la acción de uno de sus miembros, considerada como obra buena, digna de recompensa.
+description: "El mérito es la retribución debida por parte de una comunidad o sociedad a la acción de uno de sus miembros, considerada como obra buena, digna de recompensa."
 ---
 # Mérito
 

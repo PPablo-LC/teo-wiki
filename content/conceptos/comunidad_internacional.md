@@ -4,7 +4,7 @@ title: Comunidad internacional
 tags: ["doctrina_social"]
 
 timestamp: 2026-05-25
-description: Conjunto de naciones y pueblos llamados a vivir en unidad y cooperación mutua, fundada en la verdad, la justicia, la solidaridad y la libertad.
+description: "Conjunto de naciones y pueblos llamados a vivir en unidad y cooperación mutua, fundada en la verdad, la justicia, la solidaridad y la libertad."
 ---
 # Comunidad internacional
 

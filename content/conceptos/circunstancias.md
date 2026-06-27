@@ -4,7 +4,7 @@ title: Circunstancias
 tags: ["teología_moral"]
 
 timestamp: 2026-06-05
-description: Las circunstancias son condiciones extrínsecas a la sustancia del acto que lo afectan como accidentes. No pertenecen a la esencia del acto humano, pero lo modifican cualificándolo moralmente.
+description: "Las circunstancias son condiciones extrínsecas a la sustancia del acto que lo afectan como accidentes. No pertenecen a la esencia del acto humano, pero lo modifican cualificándolo moralmente."
 ---
 # Circunstancias
 

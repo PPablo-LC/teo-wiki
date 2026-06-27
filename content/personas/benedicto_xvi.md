@@ -4,7 +4,7 @@ title: Benedicto XVI
 tags: ["personajes", "teólogos"]
 
 timestamp: 2026-05-29
-description: Joseph Aloisius Ratzinger (Marktl am Inn, Baviera, 16 de abril de 1927 — Ciudad del Vaticano, 31 de diciembre de 2022).
+description: "Joseph Aloisius Ratzinger (Marktl am Inn, Baviera, 16 de abril de 1927 — Ciudad del Vaticano, 31 de diciembre de 2022)."
 ---
 # Benedicto XVI
 

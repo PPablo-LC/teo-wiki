@@ -4,7 +4,7 @@ title: Fidelidad
 tags: ["moral"]
 
 timestamp: 2026-05-22
-description: La fidelidad es la virtud moral que inclina la voluntad a cumplir lo prometido, conformando la promesa con los hechos. Está íntimamente relacionada con la veracidad y la simplicidad.
+description: "La fidelidad es la virtud moral que inclina la voluntad a cumplir lo prometido, conformando la promesa con los hechos. Está íntimamente relacionada con la veracidad y la simplicidad."
 ---
 # Fidelidad
 

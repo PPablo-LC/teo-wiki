@@ -4,7 +4,7 @@ title: Infinitud divina
 tags: ["dogmática", "teología_natural"]
 
 timestamp: 2026-06-17
-description: La infinitud divina es el atributo por el cual Dios no tiene límite ni término en su ser y perfección.
+description: "La infinitud divina es el atributo por el cual Dios no tiene límite ni término en su ser y perfección."
 ---
 # Infinitud divina
 

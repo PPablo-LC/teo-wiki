@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Probabilismo
-description: Sistema moral que sostiene que, ante dos opiniones contrarias igualmente probables, es lícito seguir la menos segura. Fue condenado en sus formas laxistas por Inocencio XI.
+description: "Sistema moral que sostiene que, ante dos opiniones contrarias igualmente probables, es lícito seguir la menos segura. Fue condenado en sus formas laxistas por Inocencio XI."
 tags: ["moral"]
 timestamp: 2026-06-27
 ---

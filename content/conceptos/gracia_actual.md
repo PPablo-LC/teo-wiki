@@ -4,7 +4,7 @@ title: Gracia actual
 tags: ["dogmática"]
 
 timestamp: 2026-06-08
-description: La gracia actual es un auxilio sobrenatural transitorio que Dios concede al alma para iluminar el entendimiento y mover la voluntad a obrar el bien sobrenatural.
+description: "La gracia actual es un auxilio sobrenatural transitorio que Dios concede al alma para iluminar el entendimiento y mover la voluntad a obrar el bien sobrenatural."
 ---
 # Gracia actual
 

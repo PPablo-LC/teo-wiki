@@ -4,7 +4,7 @@ title: Alabanza
 tags: ["espiritualidad"]
 
 timestamp: 2026-06-05
-description: La alabanza es la forma de oración que reconoce y glorifica a Dios por su ser, su grandeza y sus obras, sin pedir nada más que la glorificación del mismo Dios.
+description: "La alabanza es la forma de oración que reconoce y glorifica a Dios por su ser, su grandeza y sus obras, sin pedir nada más que la glorificación del mismo Dios."
 ---
 # Alabanza
 

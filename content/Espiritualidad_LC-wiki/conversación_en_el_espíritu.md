@@ -4,7 +4,7 @@ title: Conversación en el Espíritu
 tags: ["espiritualidad", "eclesiología"]
 
 timestamp: 2026-05-25
-description: La «conversación en el Espíritu» es un método de discernimiento comunitario que busca escuchar la voz del Espíritu Santo a través del diálogo fraterno, en un clima de oración.
+description: "La «conversación en el Espíritu» es un método de discernimiento comunitario que busca escuchar la voz del Espíritu Santo a través del diálogo fraterno, en un clima de oración."
 ---
 # Conversación en el Espíritu
 

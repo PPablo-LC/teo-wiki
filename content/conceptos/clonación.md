@@ -4,7 +4,7 @@ title: Clonación
 tags: ["moral"]
 
 timestamp: 2026-05-25
-description: Reproducción de individuos genéticamente idénticos al originante mediante modalidades diversas de la fecundación natural.
+description: "Reproducción de individuos genéticamente idénticos al originante mediante modalidades diversas de la fecundación natural."
 ---
 # Clonación
 

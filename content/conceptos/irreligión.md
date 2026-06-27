@@ -4,7 +4,7 @@ title: Irreligión
 tags: ["moral"]
 
 timestamp: 2026-05-31
-description: La irreligión es el vicio opuesto a la virtud de la religión, consistente en la falta de respeto y culto debidos a Dios.
+description: "La irreligión es el vicio opuesto a la virtud de la religión, consistente en la falta de respeto y culto debidos a Dios."
 ---
 # Irreligión
 

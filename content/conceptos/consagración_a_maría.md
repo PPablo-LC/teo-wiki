@@ -4,7 +4,7 @@ title: Consagración a María
 tags: ["espiritualidad"]
 
 timestamp: 2026-06-18
-description: La consagración a María es el acto por el cual un cristiano se entrega totalmente a la Santísima Virgen para pertenecer más plenamente a Jesucristo.
+description: "La consagración a María es el acto por el cual un cristiano se entrega totalmente a la Santísima Virgen para pertenecer más plenamente a Jesucristo."
 ---
 # Consagración a María
 

@@ -4,7 +4,7 @@ title: Canonización
 tags: ["eclesiología"]
 
 timestamp: 2026-05-25
-description: Acto solemne del Magisterio pontificio por el cual el Romano Pontífice declara infaliblemente que una persona ya fallecida goza de la bienaventuranza eterna.
+description: "Acto solemne del Magisterio pontificio por el cual el Romano Pontífice declara infaliblemente que una persona ya fallecida goza de la bienaventuranza eterna."
 ---
 # Canonización
 

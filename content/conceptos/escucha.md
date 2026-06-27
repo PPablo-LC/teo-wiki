@@ -4,7 +4,7 @@ title: Escucha
 tags: ["espiritualidad", "ascética"]
 
 timestamp: 2026-05-29
-description: La escucha, en la vida espiritual, es la disposición interior que permite recibir la palabra de Dios, la voz del Espíritu Santo y la verdad que el hermano comunica.
+description: "La escucha, en la vida espiritual, es la disposición interior que permite recibir la palabra de Dios, la voz del Espíritu Santo y la verdad que el hermano comunica."
 ---
 # Escucha
 

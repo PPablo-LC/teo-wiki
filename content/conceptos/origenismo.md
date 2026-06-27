@@ -4,7 +4,7 @@ title: Origenismo
 tags: ["dogmática_—_herejías"]
 
 timestamp: 2026-06-25
-description: Conjunto de doctrinas erróneas atribuidas a Orígenes de Alejandría (o derivadas de su pensamiento).
+description: "Conjunto de doctrinas erróneas atribuidas a Orígenes de Alejandría (o derivadas de su pensamiento)."
 ---
 # Origenismo
 

@@ -4,7 +4,7 @@ title: Órgano
 tags: ["liturgia"]
 
 timestamp: 2026-05-29
-description: El órgano es el instrumento musical de viento compuesto por tubos, accionado mediante teclado.
+description: "El órgano es el instrumento musical de viento compuesto por tubos, accionado mediante teclado."
 ---
 # Órgano
 

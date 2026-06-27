@@ -4,7 +4,7 @@ title: Sacramentos
 tags: ["sacramental"]
 
 timestamp: 2026-06-14
-description: Los sacramentos son signos sensibles instituidos por Nuestro Señor Jesucristo para significar y producir la [[gracia_santificante]] en nuestras almas.
+description: "Los sacramentos son signos sensibles instituidos por Nuestro Señor Jesucristo para significar y producir la [[gracia_santificante]] en nuestras almas."
 ---
 # Sacramentos
 

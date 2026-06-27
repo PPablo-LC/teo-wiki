@@ -4,7 +4,7 @@ title: Entrega
 tags: ["ascética", "mística"]
 
 timestamp: 2026-06-03
-description: La entrega es el acto de la voluntad por el cual la persona se ofrece a Dios sin reservas, poniendo en sus manos toda su vida, sus deseos, sus posesiones y su misma voluntad.
+description: "La entrega es el acto de la voluntad por el cual la persona se ofrece a Dios sin reservas, poniendo en sus manos toda su vida, sus deseos, sus posesiones y su misma voluntad."
 ---
 # Entrega
 

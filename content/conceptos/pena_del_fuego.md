@@ -4,7 +4,7 @@ title: Pena del fuego
 tags: ["escatología"]
 
 timestamp: 2026-06-23
-description: La pena del fuego es la pena de sentido —esto es, la que afecta a la sensibilidad del alma separada y, tras la resurrección.
+description: "La pena del fuego es la pena de sentido —esto es, la que afecta a la sensibilidad del alma separada y, tras la resurrección."
 ---
 # Pena del fuego
 

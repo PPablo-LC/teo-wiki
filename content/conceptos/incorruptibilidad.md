@@ -4,7 +4,7 @@ title: Incorruptibilidad
 tags: ["mística", "escatología"]
 
 timestamp: 2026-05-22
-description: Propiedad sobrenatural por la cual el cuerpo de algunos santos se preserva de la corrupción natural después de la muerte, como anticipo de la incorruptibilidad del cuerpo glorioso en la resurrección.
+description: "Propiedad sobrenatural por la cual el cuerpo de algunos santos se preserva de la corrupción natural después de la muerte, como anticipo de la incorruptibilidad del cuerpo glorioso en la resurrección."
 ---
 # Incorruptibilidad
 

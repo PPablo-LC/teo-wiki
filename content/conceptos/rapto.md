@@ -4,7 +4,7 @@ title: Rapto
 tags: ["mística"]
 
 timestamp: 2026-05-22
-description: Grado de oración mística caracterizado por un arrobamiento violento del alma, que es arrebatada por Dios con suspensión de los sentidos y de las potencias.
+description: "Grado de oración mística caracterizado por un arrobamiento violento del alma, que es arrebatada por Dios con suspensión de los sentidos y de las potencias."
 ---
 # Rapto
 

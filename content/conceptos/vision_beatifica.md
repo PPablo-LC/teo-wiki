@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Visión Beatífica
-description: Visión intuitiva y cara a cara de la esencia divina que gozan los bienaventurados en el cielo, definida dogmáticamente por Benedicto XII.
+description: "Visión intuitiva y cara a cara de la esencia divina que gozan los bienaventurados en el cielo, definida dogmáticamente por Benedicto XII."
 tags: ["escatología", "dogmática"]
 timestamp: 2026-06-26
 ---

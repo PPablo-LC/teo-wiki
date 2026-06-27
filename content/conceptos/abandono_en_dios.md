@@ -4,7 +4,7 @@ title: Abandono en Dios
 tags: ["mística"]
 
 timestamp: 2026-05-25
-description: Actitud de confianza total y entrega incondicional de la propia voluntad a la voluntad divina, especialmente en las situaciones de aridez espiritual, prueba o sufrimiento.
+description: "Actitud de confianza total y entrega incondicional de la propia voluntad a la voluntad divina, especialmente en las situaciones de aridez espiritual, prueba o sufrimiento."
 ---
 # Abandono en Dios
 

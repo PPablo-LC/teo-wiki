@@ -4,7 +4,7 @@ title: Secreto mesiánico
 tags: ["cristología"]
 
 timestamp: 2026-06-22
-description: Discreción mantenida por Jesús acerca de su identidad y de ciertos aspectos de su misión, especialmente la resurrección.
+description: "Discreción mantenida por Jesús acerca de su identidad y de ciertos aspectos de su misión, especialmente la resurrección."
 ---
 # Secreto mesiánico
 

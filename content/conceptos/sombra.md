@@ -4,7 +4,7 @@ title: Sombra
 tags: ["escritura", "simbología_bíblica"]
 
 timestamp: 2026-06-02
-description: La sombra en la Biblia es un símbolo de protección divina («a la sombra de tus alas»).
+description: "La sombra en la Biblia es un símbolo de protección divina («a la sombra de tus alas»)."
 ---
 # Sombra
 

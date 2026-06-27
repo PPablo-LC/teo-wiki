@@ -4,7 +4,7 @@ title: Maldición
 tags: ["dogmática"]
 
 timestamp: 2026-06-02
-description: La maldición es una palabra que invoca un mal sobre alguien o algo, poniendo en juego fuerzas que rebasan al hombre.
+description: "La maldición es una palabra que invoca un mal sobre alguien o algo, poniendo en juego fuerzas que rebasan al hombre."
 ---
 # Maldición
 

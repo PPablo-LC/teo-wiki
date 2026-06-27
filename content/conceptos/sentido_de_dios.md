@@ -4,7 +4,7 @@ title: Sentido de Dios
 tags: ["teología_espiritual", "moral"]
 
 timestamp: 2026-06-05
-description: El sentido de Dios es la disposición habitual del alma que reconoce la presencia, la acción y la soberanía de Dios sobre toda la realidad.
+description: "El sentido de Dios es la disposición habitual del alma que reconoce la presencia, la acción y la soberanía de Dios sobre toda la realidad."
 ---
 # Sentido de Dios
 

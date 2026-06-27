@@ -1,7 +1,7 @@
 ---
 type: Persona
 title: Juan Hus
-description: Hereje bohemio, seguidor de Wicleff. Condenado por el Concilio de Constanza (30 errores, D-627-656).
+description: "Hereje bohemio, seguidor de Wicleff. Condenado por el Concilio de Constanza (30 errores, D-627-656)."
 tags: ["herejía", "historia_—_edad_media"]
 timestamp: 2026-06-26
 ---

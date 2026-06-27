@@ -4,7 +4,7 @@ title: Cristo presente en la Iglesia
 tags: ["eclesiología", "cristología"]
 
 timestamp: 2026-06-22
-description: La presencia constante de Jesucristo en la [[iglesia]], simbolizada por la barca en la tempestad, que garantiza su protección y asistencia en medio de las dificultades históricas y las persecuciones.
+description: "La presencia constante de Jesucristo en la [[iglesia]], simbolizada por la barca en la tempestad, que garantiza su protección y asistencia en medio de las dificultades históricas y las persecuciones."
 ---
 # Cristo presente en la Iglesia
 

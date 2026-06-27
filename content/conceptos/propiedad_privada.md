@@ -4,7 +4,7 @@ title: Propiedad privada
 tags: ["moral", "doctrina_social"]
 
 timestamp: 2026-06-17
-description: Derecho legítimo a poseer bienes, subordinado al principio del destino universal de los bienes.
+description: "Derecho legítimo a poseer bienes, subordinado al principio del destino universal de los bienes."
 ---
 # Propiedad privada
 

@@ -4,7 +4,7 @@ title: Primera comunión
 tags: ["sacramental", "liturgia"]
 
 timestamp: 2026-05-25
-description: La primera comunión es la primera recepción del sacramento de la Eucaristía por parte de un niño bautizado que ha llegado al uso de razón.
+description: "La primera comunión es la primera recepción del sacramento de la Eucaristía por parte de un niño bautizado que ha llegado al uso de razón."
 ---
 # Primera comunión
 

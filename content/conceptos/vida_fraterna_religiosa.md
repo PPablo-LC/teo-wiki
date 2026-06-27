@@ -4,7 +4,7 @@ title: Vida Fraterna Religiosa
 tags: ["vida_consagrada"]
 
 timestamp: 2026-05-26
-description: Forma de vida común propia de los institutos religiosos, en la que los miembros, unidos por la profesión de los consejos evangélicos, viven como hermanos en comunidad.
+description: "Forma de vida común propia de los institutos religiosos, en la que los miembros, unidos por la profesión de los consejos evangélicos, viven como hermanos en comunidad."
 ---
 # Vida Fraterna Religiosa
 

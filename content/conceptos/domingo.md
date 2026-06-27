@@ -4,7 +4,7 @@ title: Domingo
 tags: ["liturgia", "moral"]
 
 timestamp: 2026-05-26
-description: El domingo es el día del Señor, el primer día de la semana en que Jesucristo resucitó de entre los muertos.
+description: "El domingo es el día del Señor, el primer día de la semana en que Jesucristo resucitó de entre los muertos."
 ---
 # Domingo
 

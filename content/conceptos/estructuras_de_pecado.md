@@ -4,7 +4,7 @@ title: Estructuras de pecado
 tags: ["moral", "doctrina_social"]
 
 timestamp: 2026-05-25
-description: Las estructuras de pecado son aquellas configuraciones sociales, económicas, políticas y culturales que tienen su raíz en el pecado personal y que, una vez consolidadas.
+description: "Las estructuras de pecado son aquellas configuraciones sociales, económicas, políticas y culturales que tienen su raíz en el pecado personal y que, una vez consolidadas."
 ---
 # Estructuras de pecado
 

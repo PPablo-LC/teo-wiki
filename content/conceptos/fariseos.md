@@ -4,7 +4,7 @@ title: Fariseos
 tags: ["bíblica", "historia"]
 
 timestamp: 2026-06-02
-description: Secta judía (del hebreo «separados») que en tiempos de Jesús contaba con unos seis mil miembros. Surgidos de los asideos macabeos, se distinguían por su celo por la Ley y las tradiciones orales.
+description: "Secta judía (del hebreo «separados») que en tiempos de Jesús contaba con unos seis mil miembros. Surgidos de los asideos macabeos, se distinguían por su celo por la Ley y las tradiciones orales."
 ---
 # Fariseos
 

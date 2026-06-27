@@ -4,7 +4,7 @@ title: Iglesia
 tags: ["eclesiología"]
 
 timestamp: 2026-06-23
-description: La Iglesia es el Pueblo de Dios, el Cuerpo Místico de Cristo y el Templo del Espíritu Santo, instituida por Jesucristo como sacramento universal de salvación.
+description: "La Iglesia es el Pueblo de Dios, el Cuerpo Místico de Cristo y el Templo del Espíritu Santo, instituida por Jesucristo como sacramento universal de salvación."
 ---
 # Iglesia
 

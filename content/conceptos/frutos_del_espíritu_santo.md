@@ -4,7 +4,7 @@ title: Frutos del Espíritu Santo
 tags: ["moral", "mística"]
 
 timestamp: 2026-05-22
-description: Perfecciones que forma en nosotros el Espíritu Santo como primicias de la gloria eterna.
+description: "Perfecciones que forma en nosotros el Espíritu Santo como primicias de la gloria eterna."
 ---
 # Frutos del Espíritu Santo
 

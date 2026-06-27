@@ -4,7 +4,7 @@ title: Trabajo objetivo
 tags: ["moral", "doctrina_social"]
 
 timestamp: 2026-06-19
-description: La dimensión objetiva del trabajo es el conjunto de actividades, recursos, instrumentos y técnicas de las que el hombre se sirve para producir y para dominar la tierra.
+description: "La dimensión objetiva del trabajo es el conjunto de actividades, recursos, instrumentos y técnicas de las que el hombre se sirve para producir y para dominar la tierra."
 ---
 # Trabajo objetivo
 

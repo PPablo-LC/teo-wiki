@@ -4,7 +4,7 @@ title: Unión Transformante
 tags: ["mística"]
 
 timestamp: 2026-05-22
-description: La unión transformante, también llamada matrimonio espiritual, unión consumada o deificación del alma, es el último grado de oración mística clasificable que se puede alcanzar en esta vida.
+description: "La unión transformante, también llamada matrimonio espiritual, unión consumada o deificación del alma, es el último grado de oración mística clasificable que se puede alcanzar en esta vida."
 ---
 # Unión Transformante
 

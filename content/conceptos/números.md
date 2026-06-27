@@ -4,7 +4,7 @@ title: Números
 tags: ["teología_bíblica"]
 
 timestamp: 2026-06-02
-description: Los números en la Biblia no deben entenderse siempre según su valor aritmético exacto.
+description: "Los números en la Biblia no deben entenderse siempre según su valor aritmético exacto."
 ---
 # Números
 

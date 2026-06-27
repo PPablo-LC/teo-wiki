@@ -4,7 +4,7 @@ title: San Francisco de Asís
 tags: ["persona", "hagiografía"]
 
 timestamp: 2026-05-22
-description: Francisco de Asís (1181-1226), nacido Giovanni di Pietro di Bernardone en Asís (Italia), fundador de la Orden Franciscana.
+description: "Francisco de Asís (1181-1226), nacido Giovanni di Pietro di Bernardone en Asís (Italia), fundador de la Orden Franciscana."
 ---
 # San Francisco de Asís
 

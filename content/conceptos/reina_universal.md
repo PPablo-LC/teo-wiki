@@ -4,7 +4,7 @@ title: Reina universal
 tags: ["mariología"]
 
 timestamp: 2026-06-18
-description: El título de «Reina universal» expresa la realeza de la Virgen María, constituida por Dios como Reina del cielo y de la tierra por su participación en la realeza de Cristo, Rey del universo.
+description: "El título de «Reina universal» expresa la realeza de la Virgen María, constituida por Dios como Reina del cielo y de la tierra por su participación en la realeza de Cristo, Rey del universo."
 ---
 # Reina universal
 

@@ -4,7 +4,7 @@ title: Inspiración
 tags: ["dogmática", "teología_bíblica"]
 
 timestamp: 2026-05-26
-description: La inspiración divina es el carisma por el cual el Espíritu Santo movió e iluminó a los autores humanos (hagiógrafos) de la Sagrada Escritura.
+description: "La inspiración divina es el carisma por el cual el Espíritu Santo movió e iluminó a los autores humanos (hagiógrafos) de la Sagrada Escritura."
 ---
 # Inspiración
 

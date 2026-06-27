@@ -4,7 +4,7 @@ title: Patria
 tags: ["moral", "eclesiología"]
 
 timestamp: 2026-06-02
-description: La «tierra de los padres» es un elemento central en la experiencia del pueblo del AT, que prepara la revelación de la verdadera patria celestial.
+description: "La «tierra de los padres» es un elemento central en la experiencia del pueblo del AT, que prepara la revelación de la verdadera patria celestial."
 ---
 # Patria
 

@@ -4,7 +4,7 @@ title: Ayuno
 tags: ["ascética"]
 
 timestamp: 2026-06-11
-description: Práctica ascética y penitencial que consiste en la abstinencia voluntaria de alimento por motivos religiosos.
+description: "Práctica ascética y penitencial que consiste en la abstinencia voluntaria de alimento por motivos religiosos."
 ---
 # Ayuno
 

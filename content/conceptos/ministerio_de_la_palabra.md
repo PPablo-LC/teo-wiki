@@ -4,7 +4,7 @@ title: Ministerio de la Palabra
 tags: ["eclesiología", "pastoral"]
 
 timestamp: 2026-05-25
-description: Función eclesiástica de anunciar el Evangelio, encomendada principalmente al Romano Pontífice y al Colegio Episcopal para la Iglesia universal, y a cada Obispo para su Iglesia particular.
+description: "Función eclesiástica de anunciar el Evangelio, encomendada principalmente al Romano Pontífice y al Colegio Episcopal para la Iglesia universal, y a cada Obispo para su Iglesia particular."
 ---
 # Ministerio de la Palabra
 

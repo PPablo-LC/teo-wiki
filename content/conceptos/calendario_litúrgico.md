@@ -4,7 +4,7 @@ title: Calendario Litúrgico
 tags: ["liturgia"]
 
 timestamp: 2026-06-03
-description: El calendario litúrgico es la organización del año en ciclos de celebraciones que conmemoran los misterios de la salvación, la memoria de los santos y las festividades del Señor y de la Virgen María.
+description: "El calendario litúrgico es la organización del año en ciclos de celebraciones que conmemoran los misterios de la salvación, la memoria de los santos y las festividades del Señor y de la Virgen María."
 ---
 # Calendario Litúrgico
 

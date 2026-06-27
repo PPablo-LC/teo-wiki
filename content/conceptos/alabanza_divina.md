@@ -4,7 +4,7 @@ title: Alabanza divina
 tags: ["moral", "liturgia"]
 
 timestamp: 2026-06-09
-description: La alabanza divina es el acto de la virtud de la religión por el cual se reconoce y proclama la excelencia de Dios con palabras y cánticos.
+description: "La alabanza divina es el acto de la virtud de la religión por el cual se reconoce y proclama la excelencia de Dios con palabras y cánticos."
 ---
 # Alabanza divina
 

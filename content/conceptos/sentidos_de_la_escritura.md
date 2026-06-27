@@ -4,7 +4,7 @@ title: Sentidos de la Escritura
 tags: ["dogmática", "teología_fundamental"]
 
 timestamp: 2026-06-05
-description: Los sentidos de la Escritura son los diversos niveles de significación que la Sagrada Escritura contiene, según la tradición patrística y medieval.
+description: "Los sentidos de la Escritura son los diversos niveles de significación que la Sagrada Escritura contiene, según la tradición patrística y medieval."
 ---
 # Sentidos de la Escritura
 

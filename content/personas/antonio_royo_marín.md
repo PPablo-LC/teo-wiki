@@ -4,7 +4,7 @@ title: Antonio Royo Marín OP
 tags: ["persona"]
 
 timestamp: 2026-05-20
-description: Antonio Royo Marín fue un religioso dominico (Orden de Predicadores) y teólogo español del siglo XX.
+description: "Antonio Royo Marín fue un religioso dominico (Orden de Predicadores) y teólogo español del siglo XX."
 ---
 # Antonio Royo Marín OP
 

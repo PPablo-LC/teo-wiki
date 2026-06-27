@@ -4,7 +4,7 @@ title: Empresa
 tags: ["doctrina_social"]
 
 timestamp: 2026-06-17
-description: Comunidad de personas y de capitales organizada para la producción de bienes y servicios, que debe caracterizarse por la capacidad de servir al bien común de la sociedad.
+description: "Comunidad de personas y de capitales organizada para la producción de bienes y servicios, que debe caracterizarse por la capacidad de servir al bien común de la sociedad."
 ---
 # Empresa
 

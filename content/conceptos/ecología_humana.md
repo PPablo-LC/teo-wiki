@@ -4,7 +4,7 @@ title: Ecología humana
 tags: ["moral", "doctrina_social"]
 
 timestamp: 2026-05-25
-description: Concepto de la doctrina social de la Iglesia que designa la familia como la primera estructura fundamental para el desarrollo integral de la persona.
+description: "Concepto de la doctrina social de la Iglesia que designa la familia como la primera estructura fundamental para el desarrollo integral de la persona."
 ---
 # Ecología humana
 

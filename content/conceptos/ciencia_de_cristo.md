@@ -4,7 +4,7 @@ title: Ciencia de Cristo
 tags: ["cristología"]
 
 timestamp: 2026-06-12
-description: La ciencia de Cristo se refiere al conocimiento propio del alma humana de Cristo, distinto de su ciencia divina increada.
+description: "La ciencia de Cristo se refiere al conocimiento propio del alma humana de Cristo, distinto de su ciencia divina increada."
 ---
 # Ciencia de Cristo
 

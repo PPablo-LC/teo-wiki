@@ -4,7 +4,7 @@ title: Comunidad política
 tags: ["doctrina_social"]
 
 timestamp: 2026-05-25
-description: La comunidad política es la sociedad civil organizada jurídicamente, derivada de la naturaleza social de la persona humana.
+description: "La comunidad política es la sociedad civil organizada jurídicamente, derivada de la naturaleza social de la persona humana."
 ---
 # Comunidad política
 

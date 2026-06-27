@@ -4,7 +4,7 @@ title: Comunidad formativa
 tags: ["ascética", "formación", "vida_fraterna"]
 
 timestamp: 2026-06-12
-description: La comunidad formativa es el ambiente en el que se lleva a cabo la formación inicial y permanente del legionario.
+description: "La comunidad formativa es el ambiente en el que se lleva a cabo la formación inicial y permanente del legionario."
 ---
 # Comunidad formativa
 

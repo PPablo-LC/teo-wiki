@@ -4,7 +4,7 @@ title: Santos
 tags: ["culto", "hagiografía"]
 
 timestamp: 2026-05-22
-description: Miembros del Pueblo de Dios que han vivido heroicamente las virtudes cristianas y gozan ya de la visión beatífica en el cielo.
+description: "Miembros del Pueblo de Dios que han vivido heroicamente las virtudes cristianas y gozan ya de la visión beatífica en el cielo."
 ---
 # Santos
 

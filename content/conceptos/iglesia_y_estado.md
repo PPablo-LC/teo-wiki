@@ -4,7 +4,7 @@ title: Iglesia y Estado
 tags: ["doctrina_social", "eclesiología"]
 
 timestamp: 2026-05-25
-description: Relación entre las dos sociedades perfectas —la Iglesia y la comunidad política— que son independientes y autónomas cada una en su propio terreno.
+description: "Relación entre las dos sociedades perfectas —la Iglesia y la comunidad política— que son independientes y autónomas cada una en su propio terreno."
 ---
 # Iglesia y Estado
 

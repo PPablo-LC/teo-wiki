@@ -4,7 +4,7 @@ title: Honor
 tags: ["moral"]
 
 timestamp: 2026-06-23
-description: El honor es el reconocimiento debido a la excelencia de una persona, bien por su virtud, bien por su dignidad o por su oficio.
+description: "El honor es el reconocimiento debido a la excelencia de una persona, bien por su virtud, bien por su dignidad o por su oficio."
 ---
 # Honor
 

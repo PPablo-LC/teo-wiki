@@ -4,7 +4,7 @@ title: San Agapito I
 tags: ["historia_—_papado"]
 
 timestamp: 2026-06-25
-description: Agapito I fue elegido papa en 535, en plena reconquista de Italia por Justiniano. Fue enviado a Constantinopla por el rey ostrogodo Teodato para negociar la paz con el emperador Justiniano.
+description: "Agapito I fue elegido papa en 535, en plena reconquista de Italia por Justiniano. Fue enviado a Constantinopla por el rey ostrogodo Teodato para negociar la paz con el emperador Justiniano."
 ---
 # San Agapito I
 

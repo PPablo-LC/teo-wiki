@@ -1,7 +1,7 @@
 ---
 type: Persona
 title: Clemente V
-description: Papa (1305-1314), convocó el Concilio ecuménico de Vienne, abolió la Orden del Temple, condenó los errores de begardos y beguinos y definió el alma como forma del cuerpo.
+description: "Papa (1305-1314), convocó el Concilio ecuménico de Vienne, abolió la Orden del Temple, condenó los errores de begardos y beguinos y definió el alma como forma del cuerpo."
 tags: ["papado", "concilios"]
 timestamp: 2026-06-26
 ---

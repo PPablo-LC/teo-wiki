@@ -4,7 +4,7 @@ title: Consubstancialidad
 tags: ["dogmática_(trinidad)"]
 
 timestamp: 2026-05-26
-description: Cualidad de ser de la misma sustancia. En teología trinitaria, propiedad de las Personas divinas de poseer la misma y única naturaleza divina.
+description: "Cualidad de ser de la misma sustancia. En teología trinitaria, propiedad de las Personas divinas de poseer la misma y única naturaleza divina."
 ---
 # Consubstancialidad
 

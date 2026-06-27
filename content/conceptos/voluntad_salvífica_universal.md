@@ -4,7 +4,7 @@ title: Voluntad salvífica universal
 tags: ["dogmática_—_soteriología"]
 
 timestamp: 2026-06-25
-description: La voluntad salvífica universal es la doctrina según la cual Dios quiere la salvación de todos los hombres.
+description: "La voluntad salvífica universal es la doctrina según la cual Dios quiere la salvación de todos los hombres."
 ---
 # Voluntad salvífica universal
 

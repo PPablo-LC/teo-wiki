@@ -4,7 +4,7 @@ title: Entredicho
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-25
-description: El entredicho es una censura del derecho canónico que prohibe al fiel la participación ministerial en la celebración del Sacrificio Eucarístico y en otras ceremonias de culto.
+description: "El entredicho es una censura del derecho canónico que prohibe al fiel la participación ministerial en la celebración del Sacrificio Eucarístico y en otras ceremonias de culto."
 ---
 # Entredicho
 

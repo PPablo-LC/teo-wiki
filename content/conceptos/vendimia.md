@@ -4,7 +4,7 @@ title: Vendimia
 tags: ["escritura", "escatología"]
 
 timestamp: 2026-06-02
-description: La vendimia es una imagen bíblica del juicio de Dios y de la consumación escatológica. La uva madura representa la plenitud del pecado que es segado por la hoz de la ira divina.
+description: "La vendimia es una imagen bíblica del juicio de Dios y de la consumación escatológica. La uva madura representa la plenitud del pecado que es segado por la hoz de la ira divina."
 ---
 # Vendimia
 

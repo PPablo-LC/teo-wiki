@@ -3,7 +3,7 @@ type: Persona
 title: Marcelo II
 tags: ["papas", "historia_—_papado"]
 timestamp: 2026-06-27
-description: Papa número 222 de la Iglesia Católica (1555). Su pontificado duró apenas 22 días.
+description: "Papa número 222 de la Iglesia Católica (1555). Su pontificado duró apenas 22 días."
 ---
 
 # Marcelo II

@@ -4,7 +4,7 @@ title: Perfecciones divinas
 tags: ["dogmática"]
 
 timestamp: 2026-06-17
-description: Las perfecciones divinas son los atributos que la razón iluminada por la fe descubre en Dios como realmente identificados con su esencia.
+description: "Las perfecciones divinas son los atributos que la razón iluminada por la fe descubre en Dios como realmente identificados con su esencia."
 ---
 # Perfecciones divinas
 

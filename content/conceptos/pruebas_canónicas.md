@@ -4,7 +4,7 @@ title: Pruebas canónicas
 tags: ["derecho_canónico"]
 
 timestamp: 2026-06-19
-description: Las pruebas canónicas son los medios lícitos y útiles admitidos en el proceso canónico para la demostración de los hechos controvertidos.
+description: "Las pruebas canónicas son los medios lícitos y útiles admitidos en el proceso canónico para la demostración de los hechos controvertidos."
 ---
 # Pruebas canónicas
 

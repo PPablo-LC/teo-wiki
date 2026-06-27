@@ -4,7 +4,7 @@ title: Medios de comunicación social
 tags: ["evangelización", "cultura"]
 
 timestamp: 2026-06-20
-description: Conjunto de instrumentos técnicos (radio, televisión, prensa, internet y nuevas tecnologías) que transmiten información y contribuyen a modelar la cultura y la mentalidad contemporánea.
+description: "Conjunto de instrumentos técnicos (radio, televisión, prensa, internet y nuevas tecnologías) que transmiten información y contribuyen a modelar la cultura y la mentalidad contemporánea."
 ---
 # Medios de comunicación social
 

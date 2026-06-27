@@ -4,7 +4,7 @@ title: Alegría cristiana
 tags: ["ascética", "espiritualidad"]
 
 timestamp: 2026-06-21
-description: Gozo interior y sobrenatural que brota de la respuesta generosa a la llamada de Dios y de la coherencia de la entrega total a Cristo.
+description: "Gozo interior y sobrenatural que brota de la respuesta generosa a la llamada de Dios y de la coherencia de la entrega total a Cristo."
 ---
 # Alegría cristiana
 

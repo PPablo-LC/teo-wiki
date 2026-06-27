@@ -4,7 +4,7 @@ title: Navidad
 tags: ["liturgia", "dogmática"]
 
 timestamp: 2026-06-19
-description: La Navidad es la solemnidad litúrgica que celebra el nacimiento de Jesucristo, Hijo de Dios encarnado. Se celebra el 25 de diciembre y constituye una de las fiestas principales del año litúrgico.
+description: "La Navidad es la solemnidad litúrgica que celebra el nacimiento de Jesucristo, Hijo de Dios encarnado. Se celebra el 25 de diciembre y constituye una de las fiestas principales del año litúrgico."
 ---
 # Navidad
 

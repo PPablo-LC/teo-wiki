@@ -4,7 +4,7 @@ title: Espiritualidad sacerdotal
 tags: ["teología_espiritual"]
 
 timestamp: 2026-06-14
-description: Conjunto de disposiciones.
+description: "Conjunto de disposiciones."
 ---
 # Espiritualidad sacerdotal
 

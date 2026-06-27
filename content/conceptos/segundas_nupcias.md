@@ -4,7 +4,7 @@ title: Segundas nupcias
 tags: ["derecho_canónico", "sacramental"]
 
 timestamp: 2026-06-15
-description: Matrimonio contraído por una persona después de la muerte de su cónyuge anterior, o tras la disolución del vínculo por causas excepcionales (matrimonio no consumado o privilegio paulino).
+description: "Matrimonio contraído por una persona después de la muerte de su cónyuge anterior, o tras la disolución del vínculo por causas excepcionales (matrimonio no consumado o privilegio paulino)."
 ---
 # Segundas nupcias
 

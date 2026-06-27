@@ -4,7 +4,7 @@ title: Verbo Encarnado
 tags: ["cristología"]
 
 timestamp: 2026-06-24
-description: El Verbo Encarnado es la Segunda Persona de la Santísima Trinidad —el Hijo de Dios, Verbo del Padre— que se hizo carne en Jesucristo por obra del Espíritu Santo.
+description: "El Verbo Encarnado es la Segunda Persona de la Santísima Trinidad —el Hijo de Dios, Verbo del Padre— que se hizo carne en Jesucristo por obra del Espíritu Santo."
 ---
 # Verbo Encarnado
 

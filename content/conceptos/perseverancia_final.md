@@ -4,7 +4,7 @@ title: Perseverancia final
 tags: ["dogmática", "ascética"]
 
 timestamp: 2026-06-08
-description: Don gratuito de Dios por el cual el alma permanece en estado de gracia hasta el último momento de la vida, asegurando así la salvación eterna. Es efecto infalible de la predestinación a la gloria.
+description: "Don gratuito de Dios por el cual el alma permanece en estado de gracia hasta el último momento de la vida, asegurando así la salvación eterna. Es efecto infalible de la predestinación a la gloria."
 ---
 # Perseverancia final
 

@@ -4,7 +4,7 @@ title: Cántico Evangélico
 tags: ["liturgia"]
 
 timestamp: 2026-05-29
-description: Los tres cánticos del Evangelio de Lucas que la Iglesia ha incorporado a la Liturgia de las Horas como himnos diarios de alabanza y acción de gracias.
+description: "Los tres cánticos del Evangelio de Lucas que la Iglesia ha incorporado a la Liturgia de las Horas como himnos diarios de alabanza y acción de gracias."
 ---
 # Cántico Evangélico
 

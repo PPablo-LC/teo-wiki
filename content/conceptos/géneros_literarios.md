@@ -4,7 +4,7 @@ title: Géneros literarios
 tags: ["sagrada_escritura", "hermenéutica"]
 
 timestamp: 2026-05-26
-description: Los géneros literarios son las diversas formas de expresión y composición literaria utilizadas por los autores humanos de la Sagrada Escritura, determinadas por la cultura.
+description: "Los géneros literarios son las diversas formas de expresión y composición literaria utilizadas por los autores humanos de la Sagrada Escritura, determinadas por la cultura."
 ---
 # Géneros literarios
 

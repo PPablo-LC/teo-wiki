@@ -4,7 +4,7 @@ title: Postulación
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-26
-description: En derecho canónico, la postulación es el acto por el cual un cuerpo colegiado con derecho a elegir, pero impedido por algún impedimento dirimente del candidato más apto.
+description: "En derecho canónico, la postulación es el acto por el cual un cuerpo colegiado con derecho a elegir, pero impedido por algún impedimento dirimente del candidato más apto."
 ---
 # Postulación
 

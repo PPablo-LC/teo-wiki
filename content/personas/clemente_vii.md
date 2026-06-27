@@ -3,7 +3,7 @@ type: Persona
 title: Clemente VII
 tags: ["papas", "historia_—_papado"]
 timestamp: 2026-06-27
-description: Papa número 219 de la Iglesia Católica (1523-1534). Su pontificado estuvo marcado por el Saco de Roma y los inicios del Concilio de Trento.
+description: "Papa número 219 de la Iglesia Católica (1523-1534). Su pontificado estuvo marcado por el Saco de Roma y los inicios del Concilio de Trento."
 ---
 
 # Clemente VII

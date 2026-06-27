@@ -4,7 +4,7 @@ title: San Gelasio I
 tags: ["patrística_—_papas"]
 
 timestamp: 2026-06-25
-description: San Gelasio I fue Papa de la Iglesia Católica desde 492 hasta 496. Fue uno de los papas más eruditos de la antigüedad tardía.
+description: "San Gelasio I fue Papa de la Iglesia Católica desde 492 hasta 496. Fue uno de los papas más eruditos de la antigüedad tardía."
 ---
 # San Gelasio I
 

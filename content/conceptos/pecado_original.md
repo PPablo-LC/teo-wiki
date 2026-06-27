@@ -4,7 +4,7 @@ title: Pecado original
 tags: ["dogmática"]
 
 timestamp: 2026-06-11
-description: El pecado original es el pecado cometido por nuestros primeros padres (Adán y Eva) en el origen de la humanidad.
+description: "El pecado original es el pecado cometido por nuestros primeros padres (Adán y Eva) en el origen de la humanidad."
 ---
 # Pecado original
 

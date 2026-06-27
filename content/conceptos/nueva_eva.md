@@ -4,7 +4,7 @@ title: Nueva Eva
 tags: ["mariología", "patrística"]
 
 timestamp: 2026-06-18
-description: El título «Nueva Eva» designa a la Virgen María como aquella que, por su obediencia y fe, desata el nudo de la desobediencia de Eva.
+description: "El título «Nueva Eva» designa a la Virgen María como aquella que, por su obediencia y fe, desata el nudo de la desobediencia de Eva."
 ---
 # Nueva Eva
 

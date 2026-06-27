@@ -3,7 +3,7 @@ type: Concepto Teológico
 title: Vulgata
 tags: ["dogmática", "teología_fundamental"]
 timestamp: 2026-06-27
-description: La Vulgata es la traducción latina de la Sagrada Escritura realizada por San Jerónimo, declarada auténtica por el Concilio de Trento para uso oficial en la Iglesia latina.
+description: "La Vulgata es la traducción latina de la Sagrada Escritura realizada por San Jerónimo, declarada auténtica por el Concilio de Trento para uso oficial en la Iglesia latina."
 ---
 
 # Vulgata

@@ -4,7 +4,7 @@ title: Discordia
 tags: ["moral"]
 
 timestamp: 2026-06-08
-description: La discordia es el pecado opuesto a la paz y a la concordia efecto de la caridad. Consiste en la disensión de voluntades respecto del bien divino y del bien del prójimo.
+description: "La discordia es el pecado opuesto a la paz y a la concordia efecto de la caridad. Consiste en la disensión de voluntades respecto del bien divino y del bien del prójimo."
 ---
 # Discordia
 

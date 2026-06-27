@@ -4,7 +4,7 @@ title: Amor propio
 tags: ["ascética_—_moral"]
 
 timestamp: 2026-05-22
-description: El amor propio desordenado es la inclinación viciosa del hombre a buscarse a sí mismo en todo, constituyendo al propio yo en centro de gravedad alrededor del cual han de girar todas las cosas.
+description: "El amor propio desordenado es la inclinación viciosa del hombre a buscarse a sí mismo en todo, constituyendo al propio yo en centro de gravedad alrededor del cual han de girar todas las cosas."
 ---
 # Amor propio
 

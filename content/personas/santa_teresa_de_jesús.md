@@ -4,7 +4,7 @@ title: Santa Teresa de Jesús
 tags: ["persona"]
 
 timestamp: 2026-05-20
-description: Teresa de Cepeda y Ahumada (1515-1582), religiosa carmelita descalza, Doctora de la Iglesia. Nacida en Ávila, fue reformadora de la Orden del Carmen junto con San Juan de la Cruz.
+description: "Teresa de Cepeda y Ahumada (1515-1582), religiosa carmelita descalza, Doctora de la Iglesia. Nacida en Ávila, fue reformadora de la Orden del Carmen junto con San Juan de la Cruz."
 ---
 # Santa Teresa de Jesús
 

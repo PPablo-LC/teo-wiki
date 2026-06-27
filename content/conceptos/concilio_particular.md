@@ -4,7 +4,7 @@ title: Concilio particular
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-26
-description: Reunión de los obispos de una región determinada —provincia eclesiástica o conferencia episcopal— para deliberar sobre materias de fe, moral y disciplina en su ámbito territorial.
+description: "Reunión de los obispos de una región determinada —provincia eclesiástica o conferencia episcopal— para deliberar sobre materias de fe, moral y disciplina en su ámbito territorial."
 ---
 # Concilio particular
 

@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Confirmación
-description: Sacramento por el cual los bautizados reciben el don del Espíritu Santo para ser testigos de Cristo, cuyo ministro ordinario es el obispo.
+description: "Sacramento por el cual los bautizados reciben el don del Espíritu Santo para ser testigos de Cristo, cuyo ministro ordinario es el obispo."
 tags: ["sacramental"]
 timestamp: 2026-06-26
 ---

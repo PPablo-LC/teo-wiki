@@ -4,7 +4,7 @@ title: Pastoral familiar
 tags: ["pastoral"]
 
 timestamp: 2026-06-20
-description: Conjunto de acciones y estructuras de la Iglesia encaminadas a acompañar, sostener y promover a la familia cristiana en todas las etapas de su desarrollo.
+description: "Conjunto de acciones y estructuras de la Iglesia encaminadas a acompañar, sostener y promover a la familia cristiana en todas las etapas de su desarrollo."
 ---
 # Pastoral familiar
 

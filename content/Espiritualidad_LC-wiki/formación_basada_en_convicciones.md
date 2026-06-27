@@ -4,7 +4,7 @@ title: Formación basada en convicciones
 tags: ["ascética", "formación"]
 
 timestamp: 2026-06-12
-description: La formación basada en convicciones es una característica del proceso formativo legionario según la cual la educación en el amor a Cristo y a los hombres se apoya en convicciones sólidas, esto es.
+description: "La formación basada en convicciones es una característica del proceso formativo legionario según la cual la educación en el amor a Cristo y a los hombres se apoya en convicciones sólidas, esto es."
 ---
 # Formación basada en convicciones
 

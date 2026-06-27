@@ -4,7 +4,7 @@ title: Profecía Mesiánica
 tags: ["teología_bíblica"]
 
 timestamp: 2026-05-22
-description: Conjunto de profecías del Antiguo Testamento que anuncian la venida del Mesías redentor, su naturaleza divina y humana, su misión salvífica, su pasión y su gloria. Se cumplen plenamente en Jesucristo.
+description: "Conjunto de profecías del Antiguo Testamento que anuncian la venida del Mesías redentor, su naturaleza divina y humana, su misión salvífica, su pasión y su gloria. Se cumplen plenamente en Jesucristo."
 ---
 # Profecía Mesiánica
 

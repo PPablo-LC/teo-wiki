@@ -4,7 +4,7 @@ title: Bigamia
 tags: ["derecho_canónico", "sacramental"]
 
 timestamp: 2026-06-15
-description: La bigamia, en sentido canónico, es la condición de quien ha tenido más de una mujer, ya sea sucesiva o simultáneamente, y en sentido amplio incluye también el matrimonio con una viuda.
+description: "La bigamia, en sentido canónico, es la condición de quien ha tenido más de una mujer, ya sea sucesiva o simultáneamente, y en sentido amplio incluye también el matrimonio con una viuda."
 ---
 # Bigamia
 

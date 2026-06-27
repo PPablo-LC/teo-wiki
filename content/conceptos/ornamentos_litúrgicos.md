@@ -4,7 +4,7 @@ title: Ornamentos litúrgicos
 tags: ["liturgia"]
 
 timestamp: 2026-06-13
-description: Vestiduras sagradas que usan los ministros ordenados y los ministros instituidos para la celebración de la liturgia.
+description: "Vestiduras sagradas que usan los ministros ordenados y los ministros instituidos para la celebración de la liturgia."
 ---
 # Ornamentos litúrgicos
 

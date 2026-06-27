@@ -4,7 +4,7 @@ title: Acompañamiento a víctimas
 tags: ["moral", "pastoral"]
 
 timestamp: 2026-05-31
-description: El acompañamiento a víctimas de abuso sexual es el conjunto de acciones pastorales, psicológicas y materiales dirigidas a acoger, escuchar.
+description: "El acompañamiento a víctimas de abuso sexual es el conjunto de acciones pastorales, psicológicas y materiales dirigidas a acoger, escuchar."
 ---
 # Acompañamiento a víctimas
 

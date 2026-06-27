@@ -4,7 +4,7 @@ title: Divinidad de Cristo
 tags: ["cristología", "dogmática"]
 
 timestamp: 2026-06-21
-description: La fe de la Iglesia Católica en que Jesucristo es verdadero Dios y verdadero Hombre, consubstancial al Padre en su divinidad y consubstancial a nosotros en su humanidad.
+description: "La fe de la Iglesia Católica en que Jesucristo es verdadero Dios y verdadero Hombre, consubstancial al Padre en su divinidad y consubstancial a nosotros en su humanidad."
 ---
 # Divinidad de Cristo
 

@@ -4,7 +4,7 @@ title: Absolución
 tags: ["sacramental"]
 
 timestamp: 2026-05-26
-description: Acto por el cual el sacerdote, en el sacramento de la [[penitencia]], concede el perdón de los pecados en nombre de Cristo y de la Iglesia. Es la forma sacramental del sacramento de la reconciliación.
+description: "Acto por el cual el sacerdote, en el sacramento de la [[penitencia]], concede el perdón de los pecados en nombre de Cristo y de la Iglesia. Es la forma sacramental del sacramento de la reconciliación."
 ---
 # Absolución
 

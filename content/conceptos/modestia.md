@@ -4,7 +4,7 @@ title: Modestia
 tags: ["moral"]
 
 timestamp: 2026-06-11
-description: La modestia es una virtud derivada de la templanza que inclina al hombre a comportarse en los movimientos internos y externos y en el aparato exterior de sus cosas dentro de los justos límites que...
+description: "La modestia es una virtud derivada de la templanza que inclina al hombre a comportarse en los movimientos internos y externos y en el aparato exterior de sus cosas dentro de los justos límites que..."
 ---
 # Modestia
 

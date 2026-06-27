@@ -4,7 +4,7 @@ title: Oración
 tags: ["ascética", "mística"]
 
 timestamp: 2026-06-20
-description: La oración es la elevación de la mente a Dios para alabarle y pedirle cosas convenientes a la eterna salvación (Santo Tomás, recogiendo las definiciones de San Juan Damasceno).
+description: "La oración es la elevación de la mente a Dios para alabarle y pedirle cosas convenientes a la eterna salvación (Santo Tomás, recogiendo las definiciones de San Juan Damasceno)."
 ---
 # Oración
 

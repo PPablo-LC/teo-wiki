@@ -4,7 +4,7 @@ title: Doctrina Social de la Iglesia
 tags: ["moral"]
 
 timestamp: 2026-06-17
-description: Cuerpo de doctrina que articula la enseñanza de la Iglesia en materia económica y social.
+description: "Cuerpo de doctrina que articula la enseñanza de la Iglesia en materia económica y social."
 ---
 # Doctrina Social de la Iglesia
 

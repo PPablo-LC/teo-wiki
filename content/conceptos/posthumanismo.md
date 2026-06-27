@@ -4,7 +4,7 @@ title: Posthumanismo
 tags: ["moral", "antropología_teológica"]
 
 timestamp: 2026-05-29
-description: Corriente de pensamiento que critica el antropocentrismo y plantea una hibridación entre ser humano, máquina y ambiente.
+description: "Corriente de pensamiento que critica el antropocentrismo y plantea una hibridación entre ser humano, máquina y ambiente."
 ---
 # Posthumanismo
 

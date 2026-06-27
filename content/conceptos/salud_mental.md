@@ -4,7 +4,7 @@ title: Salud mental
 tags: ["moral"]
 
 timestamp: 2026-06-14
-description: La salud mental designa el estado de bienestar emocional, psicológico y social que permite a la persona desarrollar sus capacidades, afrontar las tensiones normales de la vida.
+description: "La salud mental designa el estado de bienestar emocional, psicológico y social que permite a la persona desarrollar sus capacidades, afrontar las tensiones normales de la vida."
 ---
 # Salud mental
 

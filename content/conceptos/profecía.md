@@ -4,7 +4,7 @@ title: Profecía
 tags: ["dogmática", "mística"]
 
 timestamp: 2026-06-12
-description: La profecía es una gracia gratis dada (carisma) que consiste en el conocimiento sobrenatural de una verdad oculta, principalmente de los futuros contingentes.
+description: "La profecía es una gracia gratis dada (carisma) que consiste en el conocimiento sobrenatural de una verdad oculta, principalmente de los futuros contingentes."
 ---
 # Profecía
 

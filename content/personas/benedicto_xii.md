@@ -1,7 +1,7 @@
 ---
 type: Persona
 title: Benedicto XII
-description: Papa que promulgó la Constitución Benedictus Deus definiendo la visión beatífica inmediata de los santos antes del juicio universal, y condenó errores de los armenios.
+description: "Papa que promulgó la Constitución Benedictus Deus definiendo la visión beatífica inmediata de los santos antes del juicio universal, y condenó errores de los armenios."
 tags: ["historia_—_papado", "escatología"]
 timestamp: 2026-06-26
 ---

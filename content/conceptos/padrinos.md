@@ -4,7 +4,7 @@ title: Padrinos
 tags: ["sacramental"]
 
 timestamp: 2026-05-25
-description: Los padrinos son las personas que, en los sacramentos del bautismo y la confirmación, asisten al que va a recibir el sacramento.
+description: "Los padrinos son las personas que, en los sacramentos del bautismo y la confirmación, asisten al que va a recibir el sacramento."
 ---
 # Padrinos
 

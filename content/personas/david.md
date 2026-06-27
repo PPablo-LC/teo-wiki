@@ -4,7 +4,7 @@ title: David
 tags: ["historia_de_la_salvación", "cristología"]
 
 timestamp: 2026-06-02
-description: Rey de Israel, ungido por Dios, pastor del pueblo, tipo del Mesías que debía nacer de su estirpe.
+description: "Rey de Israel, ungido por Dios, pastor del pueblo, tipo del Mesías que debía nacer de su estirpe."
 ---
 # David
 

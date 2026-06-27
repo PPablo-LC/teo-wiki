@@ -4,7 +4,7 @@ title: Empresario
 tags: ["doctrina_social"]
 
 timestamp: 2026-06-17
-description: En la doctrina social de la Iglesia.
+description: "En la doctrina social de la Iglesia."
 ---
 # Empresario
 

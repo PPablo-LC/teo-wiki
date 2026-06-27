@@ -4,7 +4,7 @@ title: Gula
 tags: ["moral"]
 
 timestamp: 2026-06-11
-description: La gula es el apetito desordenado del comer y beber, buscando los placeres del gusto más allá de lo que exige la razón y la necesidad de conservación del individuo.
+description: "La gula es el apetito desordenado del comer y beber, buscando los placeres del gusto más allá de lo que exige la razón y la necesidad de conservación del individuo."
 ---
 # Gula
 

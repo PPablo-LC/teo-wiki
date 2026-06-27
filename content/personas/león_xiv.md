@@ -4,7 +4,7 @@ title: León XIV
 tags: ["personas", "papas"]
 
 timestamp: 2026-06-12
-description: Robert Francis Prevost (Chicago, 14 de septiembre de 1955), religioso agustino, 267.º papa de la Iglesia católica desde el 8 de mayo de 2025.
+description: "Robert Francis Prevost (Chicago, 14 de septiembre de 1955), religioso agustino, 267.º papa de la Iglesia católica desde el 8 de mayo de 2025."
 ---
 # León XIV
 

@@ -4,7 +4,7 @@ title: Ecología de la comunicación
 tags: ["moral", "doctrina_social"]
 
 timestamp: 2026-05-29
-description: Marco de principios y prácticas para gestionar los medios de comunicación y el entorno digital poniendo la verdad como bien común y protegiendo la dignidad humana.
+description: "Marco de principios y prácticas para gestionar los medios de comunicación y el entorno digital poniendo la verdad como bien común y protegiendo la dignidad humana."
 ---
 # Ecología de la comunicación
 

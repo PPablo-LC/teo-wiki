@@ -4,7 +4,7 @@ title: Devociones Populares
 tags: ["liturgia_(piedad_popular)"]
 
 timestamp: 2026-05-29
-description: Las devociones populares son expresiones de piedad del pueblo cristiano que, sin pertenecer a la liturgia oficial de la Iglesia, prolongan y preparan la vida litúrgica.
+description: "Las devociones populares son expresiones de piedad del pueblo cristiano que, sin pertenecer a la liturgia oficial de la Iglesia, prolongan y preparan la vida litúrgica."
 ---
 # Devociones Populares
 

@@ -4,7 +4,7 @@ title: Cabildo de canónigos
 tags: ["eclesiología"]
 
 timestamp: 2026-05-25
-description: El cabildo de canónigos, catedralicio o colegial, es un colegio de sacerdotes al que corresponde celebrar las funciones litúrgicas más solemnes en la iglesia catedral o en la colegiata.
+description: "El cabildo de canónigos, catedralicio o colegial, es un colegio de sacerdotes al que corresponde celebrar las funciones litúrgicas más solemnes en la iglesia catedral o en la colegiata."
 ---
 # Cabildo de canónigos
 

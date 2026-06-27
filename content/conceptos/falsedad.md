@@ -4,7 +4,7 @@ title: Falsedad
 tags: ["filosofía", "teología_natural", "moral"]
 
 timestamp: 2026-06-02
-description: La falsedad es la privación de verdad, consistente en la falta de conformidad entre el entendimiento y la realidad.
+description: "La falsedad es la privación de verdad, consistente en la falta de conformidad entre el entendimiento y la realidad."
 ---
 # Falsedad
 

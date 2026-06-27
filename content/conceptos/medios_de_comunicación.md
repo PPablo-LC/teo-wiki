@@ -4,7 +4,7 @@ title: Medios de comunicación social
 tags: ["derecho_canónico", "comunicación"]
 
 timestamp: 2026-05-25
-description: Instrumentos de comunicación social que la Iglesia, en uso de un derecho propio y en cumplimiento de su deber, utiliza para llevar a cabo su misión de predicar el Evangelio.
+description: "Instrumentos de comunicación social que la Iglesia, en uso de un derecho propio y en cumplimiento de su deber, utiliza para llevar a cabo su misión de predicar el Evangelio."
 ---
 # Medios de comunicación social
 

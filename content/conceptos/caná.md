@@ -4,7 +4,7 @@ title: Caná
 tags: ["mariología", "cristología"]
 
 timestamp: 2026-06-18
-description: Las bodas de Caná (Jn 2,1-12) es el primer milagro o «señal» de Jesús, realizado por intercesión de su Madre María.
+description: "Las bodas de Caná (Jn 2,1-12) es el primer milagro o «señal» de Jesús, realizado por intercesión de su Madre María."
 ---
 # Caná
 

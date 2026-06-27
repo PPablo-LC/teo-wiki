@@ -4,7 +4,7 @@ title: Imagen de Dios
 tags: ["dogmática", "antropología_teológica"]
 
 timestamp: 2026-06-20
-description: El hombre ha sido creado "a imagen y semejanza de Dios" (Gn 1,26).
+description: "El hombre ha sido creado \"a imagen y semejanza de Dios\" (Gn 1,26)."
 ---
 # Imagen de Dios
 

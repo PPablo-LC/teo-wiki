@@ -4,7 +4,7 @@ title: Proteger y sanar
 tags: ["derecho_canónico", "moral"]
 
 timestamp: 2026-05-31
-description: «Proteger y sanar» es el documento normativo de la Legión de Cristo que establece los principios, protocolos y procedimientos para la protección de menores y personas vulnerables.
+description: "«Proteger y sanar» es el documento normativo de la Legión de Cristo que establece los principios, protocolos y procedimientos para la protección de menores y personas vulnerables."
 ---
 # Proteger y sanar
 

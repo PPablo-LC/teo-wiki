@@ -4,7 +4,7 @@ title: Prólogo joánico
 tags: ["cristología", "escritura"]
 
 timestamp: 2026-06-22
-description: El prólogo del Evangelio de San Juan (Jn 1,1-18) es el texto clave del Nuevo Testamento sobre la divinidad de Cristo.
+description: "El prólogo del Evangelio de San Juan (Jn 1,1-18) es el texto clave del Nuevo Testamento sobre la divinidad de Cristo."
 ---
 # Prólogo joánico
 

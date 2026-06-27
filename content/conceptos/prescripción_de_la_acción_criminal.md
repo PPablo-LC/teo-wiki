@@ -4,7 +4,7 @@ title: Prescripción de la acción criminal
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-29
-description: La prescripción de la acción criminal es la extinción de la facultad de la autoridad eclesiástica para iniciar o proseguir un proceso penal contra un presunto reo.
+description: "La prescripción de la acción criminal es la extinción de la facultad de la autoridad eclesiástica para iniciar o proseguir un proceso penal contra un presunto reo."
 ---
 # Prescripción de la acción criminal
 

@@ -4,7 +4,7 @@ title: Fortaleza
 tags: ["moral", "dogmática"]
 
 timestamp: 2026-06-11
-description: La fortaleza es la tercera de las virtudes cardinales, virtud infusa que modera la pasión del ánimo en los ataques del mal y en las dificultades del bien.
+description: "La fortaleza es la tercera de las virtudes cardinales, virtud infusa que modera la pasión del ánimo en los ataques del mal y en las dificultades del bien."
 ---
 # Fortaleza
 

@@ -1,7 +1,7 @@
 ---
 type: Persona
 title: Juan XXII
-description: Papa (1316-1334), condenó a los fraticelli, definió contra Marsilio de Padua la constitución de la Iglesia, y declaró herética la negación de la propiedad de Cristo y los Apóstoles.
+description: "Papa (1316-1334), condenó a los fraticelli, definió contra Marsilio de Padua la constitución de la Iglesia, y declaró herética la negación de la propiedad de Cristo y los Apóstoles."
 tags: ["papado"]
 timestamp: 2026-06-26
 ---

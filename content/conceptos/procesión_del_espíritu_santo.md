@@ -4,7 +4,7 @@ title: Procesión del Espíritu Santo
 tags: ["dogmática_(trinidad)"]
 
 timestamp: 2026-06-22
-description: Origen eterno del Espíritu Santo como tercera Persona de la Santísima Trinidad, que procede del Padre y del Hijo (Filioque) como de un solo principio, por espiración.
+description: "Origen eterno del Espíritu Santo como tercera Persona de la Santísima Trinidad, que procede del Padre y del Hijo (Filioque) como de un solo principio, por espiración."
 ---
 # Procesión del Espíritu Santo
 

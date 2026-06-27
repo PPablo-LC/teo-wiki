@@ -4,7 +4,7 @@ title: Vida
 tags: ["dogmática", "moral"]
 
 timestamp: 2026-06-02
-description: La vida en la teología bíblica es don de Dios, participada por el soplo divino. La vida natural es creación; la vida eterna es comunión con Dios en Cristo.
+description: "La vida en la teología bíblica es don de Dios, participada por el soplo divino. La vida natural es creación; la vida eterna es comunión con Dios en Cristo."
 ---
 # Vida
 

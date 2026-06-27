@@ -4,7 +4,7 @@ title: Brazo
 tags: ["dogmática_(antiguo_testamento", "teología_de_la_revelación)"]
 
 timestamp: 2026-06-02
-description: El brazo y la mano son en la Escritura símbolos de la acción, el poder y la relación de Dios con los hombres.
+description: "El brazo y la mano son en la Escritura símbolos de la acción, el poder y la relación de Dios con los hombres."
 ---
 # Brazo
 

@@ -4,7 +4,7 @@ title: Dones del Espíritu Santo
 tags: ["dogmática", "mística"]
 
 timestamp: 2026-06-12
-description: Los dones del Espíritu Santo son hábitos sobrenaturales infundidos por Dios en el alma junto con la gracia santificante y las virtudes infusas.
+description: "Los dones del Espíritu Santo son hábitos sobrenaturales infundidos por Dios en el alma junto con la gracia santificante y las virtudes infusas."
 ---
 # Dones del Espíritu Santo
 

@@ -4,7 +4,7 @@ title: Agustín de Hipona
 tags: ["patrística"]
 
 timestamp: 2026-06-25
-description: San Agustín de Hipona (354-430) fue obispo de Hipona, Padre y Doctor de la Iglesia. Nacido en Tagaste (Numidia), es uno de los teólogos más influyentes del cristianismo occidental.
+description: "San Agustín de Hipona (354-430) fue obispo de Hipona, Padre y Doctor de la Iglesia. Nacido en Tagaste (Numidia), es uno de los teólogos más influyentes del cristianismo occidental."
 ---
 # Agustín de Hipona
 

@@ -4,7 +4,7 @@ title: Acción Católica
 tags: ["eclesiología", "apostolado_seglar"]
 
 timestamp: 2026-05-26
-description: La Acción Católica es la participación organizada de los fieles laicos en el apostolado jerárquico de la Iglesia, bajo la guía de la autoridad eclesiástica.
+description: "La Acción Católica es la participación organizada de los fieles laicos en el apostolado jerárquico de la Iglesia, bajo la guía de la autoridad eclesiástica."
 ---
 # Acción Católica
 

@@ -4,7 +4,7 @@ title: Caridad política
 tags: ["doctrina_social", "moral"]
 
 timestamp: 2026-05-25
-description: Dimensión social y política de la caridad cristiana, que lleva a amar el bien común y a buscar efectivamente el bien de todas las personas en su dimensión social.
+description: "Dimensión social y política de la caridad cristiana, que lleva a amar el bien común y a buscar efectivamente el bien de todas las personas en su dimensión social."
 ---
 # Caridad política
 

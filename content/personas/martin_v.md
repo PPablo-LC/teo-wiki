@@ -1,7 +1,7 @@
 ---
 type: Persona
 title: Martín V
-description: Papa (1417-1431). Puso fin al Cisma de Occidente. Bula Inter cunctas (1418) confirmó condenas de Wicleff y Hus.
+description: "Papa (1417-1431). Puso fin al Cisma de Occidente. Bula Inter cunctas (1418) confirmó condenas de Wicleff y Hus."
 tags: ["historia_—_papado", "papa"]
 timestamp: 2026-06-26
 ---

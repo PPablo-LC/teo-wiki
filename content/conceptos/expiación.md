@@ -4,7 +4,7 @@ title: Expiación
 tags: ["dogmática", "soteriología"]
 
 timestamp: 2026-06-12
-description: La expiación es la satisfacción o reparación del pecado mediante la aceptación voluntaria de la pena debida, restableciendo el orden de la justicia violado por la ofensa.
+description: "La expiación es la satisfacción o reparación del pecado mediante la aceptación voluntaria de la pena debida, restableciendo el orden de la justicia violado por la ofensa."
 ---
 # Expiación
 

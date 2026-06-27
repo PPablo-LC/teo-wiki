@@ -4,7 +4,7 @@ title: Flaviano de Constantinopla
 tags: ["patrística"]
 
 timestamp: 2026-06-25
-description: Flaviano fue Patriarca de Constantinopla desde 446 hasta 449.
+description: "Flaviano fue Patriarca de Constantinopla desde 446 hasta 449."
 ---
 # Flaviano de Constantinopla
 

@@ -4,7 +4,7 @@ title: Adquisición de bienes
 tags: ["derecho_canónico"]
 
 timestamp: 2026-06-19
-description: La adquisición de bienes es el conjunto de modos y procedimientos por los cuales la Iglesia católica, en virtud de su derecho nativo e independientemente de la potestad civil.
+description: "La adquisición de bienes es el conjunto de modos y procedimientos por los cuales la Iglesia católica, en virtud de su derecho nativo e independientemente de la potestad civil."
 ---
 # Adquisición de bienes
 

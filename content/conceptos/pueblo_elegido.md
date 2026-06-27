@@ -4,7 +4,7 @@ title: Pueblo elegido
 tags: ["dogmática", "historia_de_la_salvación"]
 
 timestamp: 2026-05-31
-description: El pueblo elegido es el pueblo de Israel, descendiente de Abraham, Isaac y Jacob, que Dios escogió para hacer de él su propiedad particular, establecer con él una alianza y revelarle su Ley.
+description: "El pueblo elegido es el pueblo de Israel, descendiente de Abraham, Isaac y Jacob, que Dios escogió para hacer de él su propiedad particular, establecer con él una alianza y revelarle su Ley."
 ---
 # Pueblo elegido
 

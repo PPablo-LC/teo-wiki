@@ -4,7 +4,7 @@ title: Relaciones Iglesia-Judaísmo
 tags: ["eclesiología", "diálogo_interreligioso"]
 
 timestamp: 2026-05-26
-description: Conjunto de vínculos espirituales, teológicos e históricos que unen a la Iglesia Católica con el pueblo judío, fundados en el patrimonio común de la Revelación del Antiguo Testamento.
+description: "Conjunto de vínculos espirituales, teológicos e históricos que unen a la Iglesia Católica con el pueblo judío, fundados en el patrimonio común de la Revelación del Antiguo Testamento."
 ---
 # Relaciones Iglesia-Judaísmo
 

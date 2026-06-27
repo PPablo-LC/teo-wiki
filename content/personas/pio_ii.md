@@ -1,7 +1,7 @@
 ---
 type: Persona
 title: Pío II
-description: Papa (1458-1464) que condenó la apelación al Concilio universal y los errores de Zanino de Solcia.
+description: "Papa (1458-1464) que condenó la apelación al Concilio universal y los errores de Zanino de Solcia."
 tags: ["historia_—_papado", "eclesiología"]
 timestamp: 2026-06-26
 ---

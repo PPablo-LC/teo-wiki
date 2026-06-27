@@ -4,7 +4,7 @@ title: Primer Mandamiento
 tags: ["moral"]
 
 timestamp: 2026-05-26
-description: «Amarás al Señor tu Dios con todo tu corazón, con toda tu alma y con toda tu mente» (Mt 22,37). El primer mandamiento manda creer en Dios, esperar en Él y amarlo sobre todas las cosas.
+description: "«Amarás al Señor tu Dios con todo tu corazón, con toda tu alma y con toda tu mente» (Mt 22,37). El primer mandamiento manda creer en Dios, esperar en Él y amarlo sobre todas las cosas."
 ---
 # Primer Mandamiento
 

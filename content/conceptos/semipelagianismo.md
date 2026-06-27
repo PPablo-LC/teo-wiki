@@ -4,7 +4,7 @@ title: Semipelagianismo
 tags: ["dogmática_—_gracia"]
 
 timestamp: 2026-06-25
-description: El semipelagianismo es una doctrina errónea sobre la gracia que sostiene que el hombre puede dar los primeros pasos hacia la salvación —como el deseo de creer o el inicio de la fe— por sus solas...
+description: "El semipelagianismo es una doctrina errónea sobre la gracia que sostiene que el hombre puede dar los primeros pasos hacia la salvación —como el deseo de creer o el inicio de la fe— por sus solas..."
 ---
 # Semipelagianismo
 

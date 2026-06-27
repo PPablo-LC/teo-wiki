@@ -4,7 +4,7 @@ title: Teología del cuerpo
 tags: ["antropología_teológica"]
 
 timestamp: 2026-06-20
-description: La teología del cuerpo es un punto particular de la antropología teológica que se establece sobre el fundamento de la Palabra de Dios revelada.
+description: "La teología del cuerpo es un punto particular de la antropología teológica que se establece sobre el fundamento de la Palabra de Dios revelada."
 ---
 # Teología del cuerpo
 

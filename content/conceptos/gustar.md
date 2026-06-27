@@ -4,7 +4,7 @@ title: Gustar
 tags: ["mística", "ascética"]
 
 timestamp: 2026-06-02
-description: Término bíblico que designa no solo la experiencia sensorial del sabor sino, ante todo, el discernimiento espiritual y el conocimiento experimental y sabroso de Dios y de Cristo.
+description: "Término bíblico que designa no solo la experiencia sensorial del sabor sino, ante todo, el discernimiento espiritual y el conocimiento experimental y sabroso de Dios y de Cristo."
 ---
 # Gustar
 

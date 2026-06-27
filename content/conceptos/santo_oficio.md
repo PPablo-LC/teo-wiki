@@ -4,7 +4,7 @@ title: Santo Oficio
 tags: ["historia_de_la_iglesia", "derecho_canónico"]
 
 timestamp: 2026-05-29
-description: Nombre histórico de la Congregación para la Doctrina de la Fe.
+description: "Nombre histórico de la Congregación para la Doctrina de la Fe."
 ---
 # Santo Oficio
 

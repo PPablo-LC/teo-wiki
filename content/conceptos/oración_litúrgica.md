@@ -4,7 +4,7 @@ title: Oración litúrgica
 tags: ["ascética"]
 
 timestamp: 2026-05-26
-description: La oración litúrgica es la oración oficial de la Iglesia, en la que interviene todo el Cuerpo Místico de Cristo con su divina Cabeza al frente.
+description: "La oración litúrgica es la oración oficial de la Iglesia, en la que interviene todo el Cuerpo Místico de Cristo con su divina Cabeza al frente."
 ---
 # Oración litúrgica
 

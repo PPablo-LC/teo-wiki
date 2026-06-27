@@ -4,7 +4,7 @@ title: Tibieza
 tags: ["ascética", "moral"]
 
 timestamp: 2026-05-25
-description: La tibieza es un estado espiritual caracterizado por la mediocridad en la vida cristiana, en el que el alma, sin llegar a perder la gracia santificante por el pecado mortal.
+description: "La tibieza es un estado espiritual caracterizado por la mediocridad en la vida cristiana, en el que el alma, sin llegar a perder la gracia santificante por el pecado mortal."
 ---
 # Tibieza
 

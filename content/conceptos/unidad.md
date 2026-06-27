@@ -4,7 +4,7 @@ title: Unidad de la Iglesia
 tags: ["eclesiología"]
 
 timestamp: 2026-06-02
-description: La unidad es una de las cuatro notas esenciales de la Iglesia.
+description: "La unidad es una de las cuatro notas esenciales de la Iglesia."
 ---
 # Unidad de la Iglesia
 

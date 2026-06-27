@@ -4,7 +4,7 @@ title: Entrega del hábito legionario
 tags: ["liturgia", "espiritualidad_legionaria"]
 
 timestamp: 2026-06-14
-description: Rito litúrgico con el cual se admite a un candidato al noviciado de la Congregación de los Legionarios de Cristo, mediante la entrega del hábito religioso.
+description: "Rito litúrgico con el cual se admite a un candidato al noviciado de la Congregación de los Legionarios de Cristo, mediante la entrega del hábito religioso."
 ---
 # Entrega del hábito legionario
 

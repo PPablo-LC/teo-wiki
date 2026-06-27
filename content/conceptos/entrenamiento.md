@@ -4,7 +4,7 @@ title: Entrenamiento
 tags: ["ascética", "moral"]
 
 timestamp: 2026-06-03
-description: Práctica repetida de actos virtuosos para adquirir hábitos operativos buenos, tanto en el orden natural (virtudes adquiridas) como en la cooperación con la gracia (virtudes infusas).
+description: "Práctica repetida de actos virtuosos para adquirir hábitos operativos buenos, tanto en el orden natural (virtudes adquiridas) como en la cooperación con la gracia (virtudes infusas)."
 ---
 # Entrenamiento
 

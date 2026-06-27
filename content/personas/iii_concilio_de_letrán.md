@@ -4,7 +4,7 @@ title: III Concilio de Letrán
 tags: ["historia_—_concilios_ecuménicos"]
 
 timestamp: 2026-06-25
-description: El III Concilio de Letrán fue convocado por Alejandro III tras la paz de Venecia con Federico I Barbarroja.
+description: "El III Concilio de Letrán fue convocado por Alejandro III tras la paz de Venecia con Federico I Barbarroja."
 ---
 # III Concilio de Letrán
 

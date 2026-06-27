@@ -4,7 +4,7 @@ title: Misterios del Rosario
 tags: ["mística_(oración)"]
 
 timestamp: 2026-05-29
-description: Los misterios del Rosario son los momentos centrales de la vida de Cristo y de la Virgen María que se meditan al rezar el Rosario.
+description: "Los misterios del Rosario son los momentos centrales de la vida de Cristo y de la Virgen María que se meditan al rezar el Rosario."
 ---
 # Misterios del Rosario
 

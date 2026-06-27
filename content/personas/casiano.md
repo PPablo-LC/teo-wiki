@@ -4,7 +4,7 @@ title: Casiano
 tags: ["persona"]
 
 timestamp: 2026-05-20
-description: Juan Casiano (360-435) fue un monje y escritor espiritual, probablemente de origen escita, que vivió en Palestina, Egipto y finalmente en Marsella, donde fundó dos monasterios.
+description: "Juan Casiano (360-435) fue un monje y escritor espiritual, probablemente de origen escita, que vivió en Palestina, Egipto y finalmente en Marsella, donde fundó dos monasterios."
 ---
 # Casiano
 

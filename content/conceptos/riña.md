@@ -4,7 +4,7 @@ title: Riña
 tags: ["moral"]
 
 timestamp: 2026-06-08
-description: La riña es el pecado que consiste en la agresión mutua con obras, por impulso de ira o de odio, entre personas particulares. Es una guerra privada, sin autoridad pública, y por eso es siempre pecado.
+description: "La riña es el pecado que consiste en la agresión mutua con obras, por impulso de ira o de odio, entre personas particulares. Es una guerra privada, sin autoridad pública, y por eso es siempre pecado."
 ---
 # Riña
 

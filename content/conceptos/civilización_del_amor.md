@@ -4,7 +4,7 @@ title: Civilización del amor
 tags: ["doctrina_social"]
 
 timestamp: 2026-05-25
-description: Ideal de convivencia social y política fundado en el primado de la caridad, que debe animar todos los ámbitos de la vida humana —político, económico.
+description: "Ideal de convivencia social y política fundado en el primado de la caridad, que debe animar todos los ámbitos de la vida humana —político, económico."
 ---
 # Civilización del amor
 

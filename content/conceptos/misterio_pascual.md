@@ -4,7 +4,7 @@ title: Misterio Pascual
 tags: ["dogmática", "soteriología"]
 
 timestamp: 2026-05-26
-description: El Misterio Pascual es el acontecimiento central de la economía de la salvación.
+description: "El Misterio Pascual es el acontecimiento central de la economía de la salvación."
 ---
 # Misterio Pascual
 

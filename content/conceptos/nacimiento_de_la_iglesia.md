@@ -4,7 +4,7 @@ title: Nacimiento de la Iglesia
 tags: ["eclesiología"]
 
 timestamp: 2026-06-22
-description: Momento constitutivo de la Iglesia como comunidad de salvación, realizada por la efusión del Espíritu Santo el día de Pentecostés, cuando los Apóstoles, investidos de poder de lo alto.
+description: "Momento constitutivo de la Iglesia como comunidad de salvación, realizada por la efusión del Espíritu Santo el día de Pentecostés, cuando los Apóstoles, investidos de poder de lo alto."
 ---
 # Nacimiento de la Iglesia
 

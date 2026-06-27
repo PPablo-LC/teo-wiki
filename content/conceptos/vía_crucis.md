@@ -4,7 +4,7 @@ title: Vía Crucis
 tags: ["ascética", "piedad_popular"]
 
 timestamp: 2026-05-22
-description: Práctica piadosa que consiste en recorrer mentalmente el camino de Jesús desde el Pretorio de Pilatos hasta el Calvario.
+description: "Práctica piadosa que consiste en recorrer mentalmente el camino de Jesús desde el Pretorio de Pilatos hasta el Calvario."
 ---
 # Vía Crucis
 

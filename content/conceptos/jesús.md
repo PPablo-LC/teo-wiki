@@ -4,7 +4,7 @@ title: Jesús
 tags: ["cristología"]
 
 timestamp: 2026-06-02
-description: Jesús (forma griega del hebreo Yehoshúa, «Yahveh salva») es el nombre propio del Hijo de Dios hecho hombre, el Verbo encarnado.
+description: "Jesús (forma griega del hebreo Yehoshúa, «Yahveh salva») es el nombre propio del Hijo de Dios hecho hombre, el Verbo encarnado."
 ---
 # Jesús
 

@@ -4,7 +4,7 @@ title: Circumincesión
 tags: ["dogmática", "trinidad"]
 
 timestamp: 2026-06-03
-description: La circuminsesión (también llamada perichoresis o inhabitación mutua) es la doctrina trinitaria según la cual las tres Personas divinas —Padre.
+description: "La circuminsesión (también llamada perichoresis o inhabitación mutua) es la doctrina trinitaria según la cual las tres Personas divinas —Padre."
 ---
 # Circumincesión
 

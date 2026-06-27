@@ -2,7 +2,7 @@
 type: Análisis Doctrinal
 title: "Joey Stevens — Keep Stepping Up to the Plate: Grit & Perseverance: Análisis doctrinal"
 timestamp: 2026-06-03
-description: Conferencia testimonial del ex-jugador de béisbol Joey Stevens en la Catholic Men's Conference 2022.
+description: "Conferencia testimonial del ex-jugador de béisbol Joey Stevens en la Catholic Men's Conference 2022."
 ---
 # Joey Stevens — Keep Stepping Up to the Plate: Grit & Perseverance: Análisis doctrinal
 

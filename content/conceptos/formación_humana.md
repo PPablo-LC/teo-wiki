@@ -4,7 +4,7 @@ title: Formación humana
 tags: ["teología_espiritual", "ascética"]
 
 timestamp: 2026-06-14
-description: Dimensión de la formación sacerdotal que tiene como fin educar al candidato al presbiterado en las virtudes humanas fundamentales —madurez afectiva, capacidad de relación, libertad interior.
+description: "Dimensión de la formación sacerdotal que tiene como fin educar al candidato al presbiterado en las virtudes humanas fundamentales —madurez afectiva, capacidad de relación, libertad interior."
 ---
 # Formación humana
 

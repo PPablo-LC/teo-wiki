@@ -4,7 +4,7 @@ title: Fuerza
 tags: ["dogmática", "ascética"]
 
 timestamp: 2026-06-02
-description: La fuerza considerada bíblicamente no es la potencia autónoma del hombre sino la participación del poder divino, que se manifiesta plenamente en la debilidad humana.
+description: "La fuerza considerada bíblicamente no es la potencia autónoma del hombre sino la participación del poder divino, que se manifiesta plenamente en la debilidad humana."
 ---
 # Fuerza
 

@@ -4,7 +4,7 @@ title: Depósito de la fe
 tags: ["dogmática"]
 
 timestamp: 2026-05-26
-description: El depósito de la fe (depositum fidei) es el conjunto de verdades reveladas contenidas en la Sagrada Escritura y en la Tradición apostólica, confiado por Cristo a su Iglesia para que sea custodiado.
+description: "El depósito de la fe (depositum fidei) es el conjunto de verdades reveladas contenidas en la Sagrada Escritura y en la Tradición apostólica, confiado por Cristo a su Iglesia para que sea custodiado."
 ---
 # Depósito de la fe
 

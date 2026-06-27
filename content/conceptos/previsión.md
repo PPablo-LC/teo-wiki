@@ -4,7 +4,7 @@ title: Previsión
 tags: ["moral", "ascética"]
 
 timestamp: 2026-05-22
-description: Virtud que dispone a anticipar prudentemente las consecuencias de los actos y a prepararse para las contingencias futuras.
+description: "Virtud que dispone a anticipar prudentemente las consecuencias de los actos y a prepararse para las contingencias futuras."
 ---
 # Previsión
 

@@ -4,7 +4,7 @@ title: Una fidelidad que genera futuro
 tags: ["documentos", "magisterio_pontificio"]
 
 timestamp: 2026-06-10
-description: Carta apostólica del Papa León XIV, fechada antes del 19 de febrero de 2026 (citada en su discurso al clero romano de esa fecha, §13).
+description: "Carta apostólica del Papa León XIV, fechada antes del 19 de febrero de 2026 (citada en su discurso al clero romano de esa fecha, §13)."
 ---
 # Una fidelidad que genera futuro
 

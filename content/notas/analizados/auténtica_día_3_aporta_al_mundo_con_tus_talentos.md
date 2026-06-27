@@ -2,7 +2,7 @@
 type: Análisis Doctrinal
 title: "Auténtica — Día 3: Aporta al mundo con tus talentos: Análisis doctrinal"
 timestamp: 2026-06-01
-description: Tercer y último día del Congreso Auténtica, centrado en los talentos, el propósito y la integración de las dimensiones de la vida femenina.
+description: "Tercer y último día del Congreso Auténtica, centrado en los talentos, el propósito y la integración de las dimensiones de la vida femenina."
 ---
 # Auténtica — Día 3: Aporta al mundo con tus talentos: Análisis doctrinal
 

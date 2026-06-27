@@ -4,7 +4,7 @@ title: Naturaleza y gracia
 tags: ["dogmática", "teología_fundamental"]
 
 timestamp: 2026-05-22
-description: La relación entre naturaleza y gracia expresa el orden establecido por Dios por el cual la gracia no destruye la naturaleza sino que la perfecciona y eleva.
+description: "La relación entre naturaleza y gracia expresa el orden establecido por Dios por el cual la gracia no destruye la naturaleza sino que la perfecciona y eleva."
 ---
 # Naturaleza y gracia
 

@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Sodomía
-description: La sodomía es el acto sexual contra natura entre personas del mismo sexo o con persona del sexo opuesto fuera del orden natural de la generación. Es clasificada por Santo Tomás como la más grave de las especies de lujuria.
+description: "La sodomía es el acto sexual contra natura entre personas del mismo sexo o con persona del sexo opuesto fuera del orden natural de la generación. Es clasificada por Santo Tomás como la más grave de las especies de lujuria."
 tags: ["moral"]
 timestamp: 2026-06-27
 ---

@@ -4,7 +4,7 @@ title: Misal Romano
 tags: ["liturgia"]
 
 timestamp: 2026-05-22
-description: El Misal Romano es el libro litúrgico que contiene las oraciones, lecturas y normas para la celebración de la Santa Misa en el rito romano de la Iglesia Católica.
+description: "El Misal Romano es el libro litúrgico que contiene las oraciones, lecturas y normas para la celebración de la Santa Misa en el rito romano de la Iglesia Católica."
 ---
 # Misal Romano
 

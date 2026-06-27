@@ -4,7 +4,7 @@ title: Abbá
 tags: ["cristología", "dogmática"]
 
 timestamp: 2026-06-22
-description: Término arameo «Abbá» (אבא) usado por Jesús para dirigirse a Dios como Padre, expresando una relación única, exclusiva e irrepetible de intimidad filial.
+description: "Término arameo «Abbá» (אבא) usado por Jesús para dirigirse a Dios como Padre, expresando una relación única, exclusiva e irrepetible de intimidad filial."
 ---
 # Abbá
 

@@ -4,7 +4,7 @@ title: Salario justo
 tags: ["doctrina_social"]
 
 timestamp: 2026-06-17
-description: Remuneración del trabajo que debe ser suficiente para permitir al trabajador y a su familia una vida digna en el plano material, social, cultural y espiritual.
+description: "Remuneración del trabajo que debe ser suficiente para permitir al trabajador y a su familia una vida digna en el plano material, social, cultural y espiritual."
 ---
 # Salario justo
 

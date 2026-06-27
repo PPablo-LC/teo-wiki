@@ -4,7 +4,7 @@ title: Igualdad fundamental
 tags: ["derecho_canónico", "eclesiología"]
 
 timestamp: 2026-05-26
-description: La igualdad fundamental es el principio por el cual todos los fieles cristianos, en virtud de la regeneración bautismal.
+description: "La igualdad fundamental es el principio por el cual todos los fieles cristianos, en virtud de la regeneración bautismal."
 ---
 # Igualdad fundamental
 

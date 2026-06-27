@@ -4,7 +4,7 @@ title: Corpus Christi
 tags: ["liturgia", "eucaristía"]
 
 timestamp: 2026-05-26
-description: Corpus Christi (solemnidad del Santísimo Cuerpo y Sangre de Cristo) es la solemnidad litúrgica instituida en 1264 por el papa Urbano IV mediante la bula Transiturus de hoc mundo para celebrar...
+description: "Corpus Christi (solemnidad del Santísimo Cuerpo y Sangre de Cristo) es la solemnidad litúrgica instituida en 1264 por el papa Urbano IV mediante la bula Transiturus de hoc mundo para celebrar..."
 ---
 # Corpus Christi
 

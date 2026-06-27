@@ -4,7 +4,7 @@ title: Formación gradual
 tags: ["ascética", "formación"]
 
 timestamp: 2026-06-12
-description: La formación gradual es una característica del proceso formativo legionario según la cual la formación va arraigando progresivamente en el alma.
+description: "La formación gradual es una característica del proceso formativo legionario según la cual la formación va arraigando progresivamente en el alma."
 ---
 # Formación gradual
 

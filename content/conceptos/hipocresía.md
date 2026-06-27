@@ -4,7 +4,7 @@ title: Hipocresía
 tags: ["moral"]
 
 timestamp: 2026-06-10
-description: La hipocresía es el vicio que consiste en fingir cualidades, virtudes o sentimientos que no se tienen, o en aparentar ser lo que no se es, especialmente en materia religiosa y moral.
+description: "La hipocresía es el vicio que consiste en fingir cualidades, virtudes o sentimientos que no se tienen, o en aparentar ser lo que no se es, especialmente en materia religiosa y moral."
 ---
 # Hipocresía
 

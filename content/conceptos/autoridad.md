@@ -4,7 +4,7 @@ title: Autoridad
 tags: ["doctrina_social", "moral"]
 
 timestamp: 2026-06-05
-description: La autoridad política es el principio de coordinación y dirección de la sociedad hacia el bien común, necesario en toda sociedad humana porque Dios ha creado a los hombres sociales por naturaleza.
+description: "La autoridad política es el principio de coordinación y dirección de la sociedad hacia el bien común, necesario en toda sociedad humana porque Dios ha creado a los hombres sociales por naturaleza."
 ---
 # Autoridad
 

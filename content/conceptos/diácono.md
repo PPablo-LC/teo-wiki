@@ -4,7 +4,7 @@ title: Diácono
 tags: ["sacramental", "eclesiología"]
 
 timestamp: 2026-05-25
-description: El diácono es el ministro sagrado ordenado en el primer grado del sacramento del Orden, configurado con Cristo Siervo.
+description: "El diácono es el ministro sagrado ordenado en el primer grado del sacramento del Orden, configurado con Cristo Siervo."
 ---
 # Diácono
 

@@ -4,7 +4,7 @@ title: Indisolubilidad
 tags: ["moral", "sacramental"]
 
 timestamp: 2026-06-20
-description: Propiedad esencial del matrimonio por la cual el vínculo conyugal, una vez constituido válidamente entre bautizados, es permanente e irrompible mientras ambos cónyuges vivan.
+description: "Propiedad esencial del matrimonio por la cual el vínculo conyugal, una vez constituido válidamente entre bautizados, es permanente e irrompible mientras ambos cónyuges vivan."
 ---
 # Indisolubilidad
 

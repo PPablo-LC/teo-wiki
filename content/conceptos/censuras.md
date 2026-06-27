@@ -4,7 +4,7 @@ title: Censuras
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-25
-description: Las censuras son penas medicinales del derecho canónico que tienen por principal fin la enmienda del reo. Comprenden la excomunión, el entredicho y la suspensión.
+description: "Las censuras son penas medicinales del derecho canónico que tienen por principal fin la enmienda del reo. Comprenden la excomunión, el entredicho y la suspensión."
 ---
 # Censuras
 

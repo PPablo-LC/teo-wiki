@@ -4,7 +4,7 @@ title: Miedo
 tags: ["moral", "ascética"]
 
 timestamp: 2026-06-03
-description: Pasión del apetito irascible que huye de un mal futuro percibido como difícil de evitar. En sí mismo indiferente, el miedo se vuelve virtuoso o vicioso según su objeto, intensidad y modo.
+description: "Pasión del apetito irascible que huye de un mal futuro percibido como difícil de evitar. En sí mismo indiferente, el miedo se vuelve virtuoso o vicioso según su objeto, intensidad y modo."
 ---
 # Miedo
 

@@ -4,7 +4,7 @@ title: Desobediencia
 tags: ["moral"]
 
 timestamp: 2026-06-10
-description: La desobediencia es el vicio opuesto a la virtud de la obediencia, que consiste en el incumplimiento voluntario del mandato de un superior legítimo por desprecio del precepto.
+description: "La desobediencia es el vicio opuesto a la virtud de la obediencia, que consiste en el incumplimiento voluntario del mandato de un superior legítimo por desprecio del precepto."
 ---
 # Desobediencia
 

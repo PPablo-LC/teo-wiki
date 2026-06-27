@@ -4,7 +4,7 @@ title: Fecundidad
 tags: ["bíblica", "moral"]
 
 timestamp: 2026-06-02
-description: Capacidad de transmitir la vida, vivida en el AT como bendición y mandato divino («Creced y multiplicaos»). La fecundidad es signo de la bendición de Dios sobre su pueblo.
+description: "Capacidad de transmitir la vida, vivida en el AT como bendición y mandato divino («Creced y multiplicaos»). La fecundidad es signo de la bendición de Dios sobre su pueblo."
 ---
 # Fecundidad
 

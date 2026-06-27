@@ -4,7 +4,7 @@ title: Pías voluntades
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-26
-description: En derecho canónico, las pías voluntades son donaciones, legados, mandatos o cualquier disposición hecha por fieles, ya sea inter vivos (entre vivos) o mortis causa (por testamento).
+description: "En derecho canónico, las pías voluntades son donaciones, legados, mandatos o cualquier disposición hecha por fieles, ya sea inter vivos (entre vivos) o mortis causa (por testamento)."
 ---
 # Pías voluntades
 

@@ -4,7 +4,7 @@ title: Sanciones internacionales
 tags: ["moral_social", "derecho_internacional"]
 
 timestamp: 2026-06-19
-description: Las sanciones internacionales son medidas coercitivas previstas por el ordenamiento internacional para corregir el comportamiento de un gobierno que viola las reglas de la convivencia internacional o...
+description: "Las sanciones internacionales son medidas coercitivas previstas por el ordenamiento internacional para corregir el comportamiento de un gobierno que viola las reglas de la convivencia internacional o..."
 ---
 # Sanciones internacionales
 

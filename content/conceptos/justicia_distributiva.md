@@ -4,7 +4,7 @@ title: Justicia distributiva
 tags: ["moral", "doctrina_social"]
 
 timestamp: 2026-05-25
-description: Especie de la justicia que regula lo que la comunidad debe a los ciudadanos, concerniente a la distribución equitativa de recursos.
+description: "Especie de la justicia que regula lo que la comunidad debe a los ciudadanos, concerniente a la distribución equitativa de recursos."
 ---
 # Justicia distributiva
 

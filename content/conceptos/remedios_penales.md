@@ -4,7 +4,7 @@ title: Remedios penales
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-25
-description: Los remedios penales son medidas preventivas del derecho canónico que el Ordinario puede aplicar para prevenir la comisión de delitos.
+description: "Los remedios penales son medidas preventivas del derecho canónico que el Ordinario puede aplicar para prevenir la comisión de delitos."
 ---
 # Remedios penales
 

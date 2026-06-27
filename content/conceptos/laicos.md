@@ -4,7 +4,7 @@ title: Laicos
 tags: ["eclesiología"]
 
 timestamp: 2026-05-25
-description: Los laicos son todos los fieles cristianos que no son ministros sagrados (clérigos), que por el bautismo participan de la función sacerdotal.
+description: "Los laicos son todos los fieles cristianos que no son ministros sagrados (clérigos), que por el bautismo participan de la función sacerdotal."
 ---
 # Laicos
 

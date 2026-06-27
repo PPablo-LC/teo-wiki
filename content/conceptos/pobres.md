@@ -4,7 +4,7 @@ title: Pobres
 tags: ["moral", "doctrina_social"]
 
 timestamp: 2026-06-23
-description: Categoría bíblica y teológica que designa no solo a quienes carecen de bienes materiales, sino también a los humildes y pequeños que ponen su confianza en Dios.
+description: "Categoría bíblica y teológica que designa no solo a quienes carecen de bienes materiales, sino también a los humildes y pequeños que ponen su confianza en Dios."
 ---
 # Pobres
 

@@ -4,7 +4,7 @@ title: Iniciación cristiana
 tags: ["sacramental"]
 
 timestamp: 2026-06-10
-description: La iniciación cristiana es el proceso gradual por el cual los fieles son incorporados a la Iglesia de Cristo mediante los sacramentos del bautismo, la confirmación y la eucaristía.
+description: "La iniciación cristiana es el proceso gradual por el cual los fieles son incorporados a la Iglesia de Cristo mediante los sacramentos del bautismo, la confirmación y la eucaristía."
 ---
 # Iniciación cristiana
 

@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Rito de iniciacion cristiana de adultos
-description: Conjunto de ritos y celebraciones liturgicas mediante los cuales la Iglesia introduce a los adultos en la vida cristiana, comprendiendo las etapas del catecumenado.
+description: "Conjunto de ritos y celebraciones liturgicas mediante los cuales la Iglesia introduce a los adultos en la vida cristiana, comprendiendo las etapas del catecumenado."
 ---
 # Rito de iniciacion cristiana de adultos
 

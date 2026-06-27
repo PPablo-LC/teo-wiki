@@ -4,7 +4,7 @@ title: Pureza
 tags: ["moral", "ascética"]
 
 timestamp: 2026-05-25
-description: La pureza es la virtud moral que ordena rectamente la sexualidad humana según la razón iluminada por la fe, integrando la afectividad y el cuerpo en el respeto del propio estado de vida.
+description: "La pureza es la virtud moral que ordena rectamente la sexualidad humana según la razón iluminada por la fe, integrando la afectividad y el cuerpo en el respeto del propio estado de vida."
 ---
 # Pureza
 

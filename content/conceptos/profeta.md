@@ -4,7 +4,7 @@ title: Profeta
 tags: ["bíblica", "profecía"]
 
 timestamp: 2026-06-02
-description: Hombre llamado por Dios para transmitir su palabra al pueblo, denunciar el pecado y anunciar la salvación.
+description: "Hombre llamado por Dios para transmitir su palabra al pueblo, denunciar el pecado y anunciar la salvación."
 ---
 # Profeta
 

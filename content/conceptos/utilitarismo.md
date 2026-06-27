@@ -4,7 +4,7 @@ title: Utilitarismo
 tags: ["ética", "filosofía_moral"]
 
 timestamp: 2026-06-18
-description: El utilitarismo es una corriente ética que fundamenta la moralidad en la maximización de la utilidad o el placer para el mayor número de personas.
+description: "El utilitarismo es una corriente ética que fundamenta la moralidad en la maximización de la utilidad o el placer para el mayor número de personas."
 ---
 # Utilitarismo
 

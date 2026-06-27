@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Duelo
-description: Combate singular pactado entre dos personas para dirimir una cuestión de honor. La Iglesia lo ha condenado como moralmente ilícito por oponerse al quinto mandamiento.
+description: "Combate singular pactado entre dos personas para dirimir una cuestión de honor. La Iglesia lo ha condenado como moralmente ilícito por oponerse al quinto mandamiento."
 tags: ["moral"]
 timestamp: 2026-06-27
 ---

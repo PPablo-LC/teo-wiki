@@ -4,7 +4,7 @@ title: Justicia divina
 tags: ["dogmática", "teodicea", "moral"]
 
 timestamp: 2026-06-02
-description: La justicia divina es el atributo de Dios por el cual da a cada uno lo que le corresponde según su rectitud infinita.
+description: "La justicia divina es el atributo de Dios por el cual da a cada uno lo que le corresponde según su rectitud infinita."
 ---
 # Justicia divina
 

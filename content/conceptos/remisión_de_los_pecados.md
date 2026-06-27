@@ -4,7 +4,7 @@ title: Remisión de los pecados
 tags: ["dogmática_—_penitencia"]
 
 timestamp: 2026-06-25
-description: La remisión de los pecados es el perdón que Dios concede al pecador arrepentido por los méritos de Jesucristo, ordinariamente a través de los sacramentos del Bautismo y la Penitencia.
+description: "La remisión de los pecados es el perdón que Dios concede al pecador arrepentido por los méritos de Jesucristo, ordinariamente a través de los sacramentos del Bautismo y la Penitencia."
 ---
 # Remisión de los pecados
 

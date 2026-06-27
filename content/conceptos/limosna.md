@@ -4,7 +4,7 @@ title: Limosna
 tags: ["moral"]
 
 timestamp: 2026-06-08
-description: La limosna es la obra por la que, movidos por compasión, se da algo al indigente por amor de Dios. Es acto de misericordia imperado por la caridad.
+description: "La limosna es la obra por la que, movidos por compasión, se da algo al indigente por amor de Dios. Es acto de misericordia imperado por la caridad."
 ---
 # Limosna
 

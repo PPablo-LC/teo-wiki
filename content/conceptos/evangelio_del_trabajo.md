@@ -4,7 +4,7 @@ title: Evangelio del trabajo
 tags: ["doctrina_social", "cristología"]
 
 timestamp: 2026-06-17
-description: Expresión acuñada por San Juan Pablo II para designar el conjunto de enseñanzas bíblicas y el ejemplo de Cristo que revelan la dignidad y el valor redentor del trabajo humano.
+description: "Expresión acuñada por San Juan Pablo II para designar el conjunto de enseñanzas bíblicas y el ejemplo de Cristo que revelan la dignidad y el valor redentor del trabajo humano."
 ---
 # Evangelio del trabajo
 

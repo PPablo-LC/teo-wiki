@@ -4,7 +4,7 @@ title: Prefecto de capilla
 tags: ["liturgia", "espiritualidad_legionaria"]
 
 timestamp: 2026-06-13
-description: El prefecto de capilla (o encargado de liturgia) es el miembro de una comunidad legionaria designado por el superior para organizar y coordinar todo lo referente a la vida litúrgica de la casa.
+description: "El prefecto de capilla (o encargado de liturgia) es el miembro de una comunidad legionaria designado por el superior para organizar y coordinar todo lo referente a la vida litúrgica de la casa."
 ---
 # Prefecto de capilla
 

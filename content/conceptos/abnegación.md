@@ -4,7 +4,7 @@ title: Abnegación
 tags: ["ascética"]
 
 timestamp: 2026-05-22
-description: La abnegación es la renuncia total a la propia voluntad y al amor propio, condición indispensable para seguir a Cristo y alcanzar la perfección cristiana.
+description: "La abnegación es la renuncia total a la propia voluntad y al amor propio, condición indispensable para seguir a Cristo y alcanzar la perfección cristiana."
 ---
 # Abnegación
 

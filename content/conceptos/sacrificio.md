@@ -4,7 +4,7 @@ title: Sacrificio
 tags: ["dogmática", "sacramental"]
 
 timestamp: 2026-06-02
-description: El sacrificio es la ofrenda hecha a Dios en señal de adoración, gratitud, súplica y comunión.
+description: "El sacrificio es la ofrenda hecha a Dios en señal de adoración, gratitud, súplica y comunión."
 ---
 # Sacrificio
 

@@ -4,7 +4,7 @@ title: Milagros de Cristo
 tags: ["cristología"]
 
 timestamp: 2026-06-22
-description: Los milagros de Cristo son «signos» del poder salvífico del Hijo del hombre y del amor misericordioso de Dios, insertos en la economía de la Encarnación y la Redención.
+description: "Los milagros de Cristo son «signos» del poder salvífico del Hijo del hombre y del amor misericordioso de Dios, insertos en la economía de la Encarnación y la Redención."
 ---
 # Milagros de Cristo
 

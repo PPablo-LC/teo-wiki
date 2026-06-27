@@ -4,7 +4,7 @@ title: Purificación de la Iglesia
 tags: ["eclesiología"]
 
 timestamp: 2026-05-29
-description: Necesidad permanente de conversión y renovación que tiene la Iglesia en su peregrinación terrena como consecuencia de la presencia de pecadores en su seno.
+description: "Necesidad permanente de conversión y renovación que tiene la Iglesia en su peregrinación terrena como consecuencia de la presencia de pecadores en su seno."
 ---
 # Purificación de la Iglesia
 

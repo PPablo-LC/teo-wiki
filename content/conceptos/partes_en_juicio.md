@@ -4,7 +4,7 @@ title: Partes en juicio
 tags: ["derecho_canónico"]
 
 timestamp: 2026-06-19
-description: Las partes en juicio son el actor (quien demanda), el demandado (contra quien se demanda), así como sus representantes legales, procuradores y abogados.
+description: "Las partes en juicio son el actor (quien demanda), el demandado (contra quien se demanda), así como sus representantes legales, procuradores y abogados."
 ---
 # Partes en juicio
 

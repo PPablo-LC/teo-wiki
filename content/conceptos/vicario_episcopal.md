@@ -4,7 +4,7 @@ title: Vicario episcopal
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-26
-description: Sacerdote o obispo designado por el Obispo diocesano como su colaborador para ejercer la potestad ordinaria de régimen en una parte determinada del territorio, para un tipo de asuntos.
+description: "Sacerdote o obispo designado por el Obispo diocesano como su colaborador para ejercer la potestad ordinaria de régimen en una parte determinada del territorio, para un tipo de asuntos."
 ---
 # Vicario episcopal
 

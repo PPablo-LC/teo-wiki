@@ -4,7 +4,7 @@ title: Perdón de las ofensas
 tags: ["moral", "espiritualidad"]
 
 timestamp: 2026-06-23
-description: Deber del cristiano de remitir el resentimiento y la exigencia de venganza hacia quien le ha causado un daño, como expresión concreta y exigente del amor al prójimo.
+description: "Deber del cristiano de remitir el resentimiento y la exigencia de venganza hacia quien le ha causado un daño, como expresión concreta y exigente del amor al prójimo."
 ---
 # Perdón de las ofensas
 

@@ -4,7 +4,7 @@ title: Inconsideración
 tags: ["moral"]
 
 timestamp: 2026-06-19
-description: La inconsideración es el defecto de la imprudencia que consiste en el defecto del acto de juicio de la razón práctica.
+description: "La inconsideración es el defecto de la imprudencia que consiste en el defecto del acto de juicio de la razón práctica."
 ---
 # Inconsideración
 

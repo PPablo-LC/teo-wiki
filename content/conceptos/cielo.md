@@ -4,7 +4,7 @@ title: Cielo
 tags: ["escatología_—_dogmática"]
 
 timestamp: 2026-06-02
-description: Estado de felicidad eterna y perfecta de quienes, habiendo muerto en gracia de Dios y estando completamente purificados, gozan de la visión beatífica de Dios.
+description: "Estado de felicidad eterna y perfecta de quienes, habiendo muerto en gracia de Dios y estando completamente purificados, gozan de la visión beatífica de Dios."
 ---
 # Cielo
 

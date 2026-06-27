@@ -4,7 +4,7 @@ title: Pseudo-Dionisio Areopagita
 tags: ["persona"]
 
 timestamp: 2026-05-20
-description: Autor místico desconocido que escribió hacia el año 500, atribuyendo sus obras a Dionisio Areopagita, el convertido por San Pablo en Atenas (Hch 17,34).
+description: "Autor místico desconocido que escribió hacia el año 500, atribuyendo sus obras a Dionisio Areopagita, el convertido por San Pablo en Atenas (Hch 17,34)."
 ---
 # Pseudo-Dionisio Areopagita
 

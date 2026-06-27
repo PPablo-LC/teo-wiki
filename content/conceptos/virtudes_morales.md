@@ -4,7 +4,7 @@ title: Virtudes Morales
 tags: ["moral"]
 
 timestamp: 2026-05-26
-description: Virtudes que ordenan los actos humanos según la razón y la fe, disponiendo las potencias del alma con relación a los medios conducentes al fin sobrenatural.
+description: "Virtudes que ordenan los actos humanos según la razón y la fe, disponiendo las potencias del alma con relación a los medios conducentes al fin sobrenatural."
 ---
 # Virtudes Morales
 

@@ -4,7 +4,7 @@ title: Cinco amores
 tags: ["espiritualidad"]
 
 timestamp: 2026-06-12
-description: Los cinco amores son las cinco expresiones fundamentales del amor que la Legión de Cristo y el Regnum Christi proponen a sus miembros como respuesta al amor de Dios.
+description: "Los cinco amores son las cinco expresiones fundamentales del amor que la Legión de Cristo y el Regnum Christi proponen a sus miembros como respuesta al amor de Dios."
 ---
 # Cinco amores
 

@@ -4,7 +4,7 @@ title: Velar
 tags: ["ascética", "escatología"]
 
 timestamp: 2026-06-02
-description: Velar es la actitud de vigilancia espiritual que caracteriza al discípulo de Cristo, esperando su retorno glorioso.
+description: "Velar es la actitud de vigilancia espiritual que caracteriza al discípulo de Cristo, esperando su retorno glorioso."
 ---
 # Velar
 

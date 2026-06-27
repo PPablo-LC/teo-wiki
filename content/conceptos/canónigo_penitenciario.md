@@ -4,7 +4,7 @@ title: Canónigo penitenciario
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-26
-description: El canónigo penitenciario es el miembro del cabildo catedralicio que posee, por el mismo derecho.
+description: "El canónigo penitenciario es el miembro del cabildo catedralicio que posee, por el mismo derecho."
 ---
 # Canónigo penitenciario
 

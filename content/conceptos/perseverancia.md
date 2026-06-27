@@ -4,7 +4,7 @@ title: Perseverancia
 tags: ["moral", "ascética"]
 
 timestamp: 2026-06-11
-description: La perseverancia es la virtud que inclina a la continuación constante y prolongada en el bien, sin desfallecer ante las dificultades.
+description: "La perseverancia es la virtud que inclina a la continuación constante y prolongada en el bien, sin desfallecer ante las dificultades."
 ---
 # Perseverancia
 

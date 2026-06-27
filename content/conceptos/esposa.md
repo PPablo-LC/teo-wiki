@@ -4,7 +4,7 @@ title: Esposa
 tags: ["bíblico", "teología"]
 
 timestamp: 2026-06-19
-description: En la Escritura, el término «esposa» designa no solo la mujer unida en matrimonio, sino también un símbolo teológico fundamental.
+description: "En la Escritura, el término «esposa» designa no solo la mujer unida en matrimonio, sino también un símbolo teológico fundamental."
 ---
 # Esposa
 

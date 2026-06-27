@@ -4,7 +4,7 @@ title: Renuncia y seguimiento
 tags: ["ascética", "moral"]
 
 timestamp: 2026-06-22
-description: La renuncia es condición del seguimiento de Cristo.
+description: "La renuncia es condición del seguimiento de Cristo."
 ---
 # Renuncia y seguimiento
 

@@ -4,7 +4,7 @@ title: Amor
 tags: ["moral", "dogmática"]
 
 timestamp: 2026-06-06
-description: El amor es la inclinación de la voluntad hacia el bien. En sentido teológico, el amor tiene como fuente a Dios mismo, que es amor (1 Jn 4,8).
+description: "El amor es la inclinación de la voluntad hacia el bien. En sentido teológico, el amor tiene como fuente a Dios mismo, que es amor (1 Jn 4,8)."
 ---
 # Amor
 

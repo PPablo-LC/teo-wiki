@@ -4,7 +4,7 @@ title: Ejemplo
 tags: ["moral"]
 
 timestamp: 2026-06-02
-description: El ejemplo, en sentido bíblico, es la llamada a imitar a Dios en su santidad y a Cristo en su caridad, como modelo perfecto del amor que va hasta el sacrificio total.
+description: "El ejemplo, en sentido bíblico, es la llamada a imitar a Dios en su santidad y a Cristo en su caridad, como modelo perfecto del amor que va hasta el sacrificio total."
 ---
 # Ejemplo
 

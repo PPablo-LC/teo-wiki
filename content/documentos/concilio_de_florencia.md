@@ -1,7 +1,7 @@
 ---
 type: Documento
 title: Concilio de Florencia
-description: XVII Concilio Ecuménico (1438-1445), presidido por Eugenio IV, que promulgó decretos de unión con los griegos, armenios y jacobitas.
+description: "XVII Concilio Ecuménico (1438-1445), presidido por Eugenio IV, que promulgó decretos de unión con los griegos, armenios y jacobitas."
 tags: ["eclesiología", "historia_—_concilios"]
 timestamp: 2026-06-26
 ---

@@ -4,7 +4,7 @@ title: Pentecostés
 tags: ["dogmática"]
 
 timestamp: 2026-06-20
-description: Fiesta cristiana que conmemora la venida del Espíritu Santo sobre los Apóstoles y la Virgen María, reunidos en el Cenáculo, y la manifestación pública de la Iglesia.
+description: "Fiesta cristiana que conmemora la venida del Espíritu Santo sobre los Apóstoles y la Virgen María, reunidos en el Cenáculo, y la manifestación pública de la Iglesia."
 ---
 # Pentecostés
 

@@ -4,7 +4,7 @@ title: Libro de la vida
 tags: ["dogmática"]
 
 timestamp: 2026-06-02
-description: El libro de la vida es, en sentido metafórico, el conocimiento divino de los predestinados a la vida eterna.
+description: "El libro de la vida es, en sentido metafórico, el conocimiento divino de los predestinados a la vida eterna."
 ---
 # Libro de la vida
 

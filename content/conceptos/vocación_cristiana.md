@@ -4,7 +4,7 @@ title: Vocación cristiana
 tags: ["dogmática", "moral", "ascética"]
 
 timestamp: 2026-06-20
-description: La vocación cristiana es la llamada de Dios en Cristo a todo hombre para participar de la vida divina, alcanzar la santidad y colaborar en la misión de la Iglesia.
+description: "La vocación cristiana es la llamada de Dios en Cristo a todo hombre para participar de la vida divina, alcanzar la santidad y colaborar en la misión de la Iglesia."
 ---
 # Vocación cristiana
 

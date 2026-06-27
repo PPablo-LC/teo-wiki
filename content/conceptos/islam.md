@@ -4,7 +4,7 @@ title: Islam
 tags: ["eclesiología", "diálogo_interreligioso"]
 
 timestamp: 2026-05-29
-description: El islam es la religión monoteísta fundada por Mahoma en el siglo VII, cuyos seguidores (musulmanes) profesan la fe de Abraham y adoran al Dios único y misericordioso.
+description: "El islam es la religión monoteísta fundada por Mahoma en el siglo VII, cuyos seguidores (musulmanes) profesan la fe de Abraham y adoran al Dios único y misericordioso."
 ---
 # Islam
 

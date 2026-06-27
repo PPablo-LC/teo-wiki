@@ -4,7 +4,7 @@ title: Reforma litúrgica
 tags: ["liturgia"]
 
 timestamp: 2026-05-29
-description: La reforma litúrgica es el conjunto de principios y normas establecidos por el Concilio Vaticano II para renovar la sagrada liturgia.
+description: "La reforma litúrgica es el conjunto de principios y normas establecidos por el Concilio Vaticano II para renovar la sagrada liturgia."
 ---
 # Reforma litúrgica
 

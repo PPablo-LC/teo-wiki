@@ -4,7 +4,7 @@ title: Kenosis
 tags: ["cristología"]
 
 timestamp: 2026-06-21
-description: La kenosis (del griego κένωσις.)
+description: "La kenosis (del griego κένωσις.)"
 ---
 # Kenosis
 

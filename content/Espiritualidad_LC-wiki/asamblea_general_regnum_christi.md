@@ -4,7 +4,7 @@ title: Asamblea General del Regnum Christi
 tags: ["derecho_canónico", "espiritualidad"]
 
 timestamp: 2026-06-13
-description: La Asamblea General del Regnum Christi es el órgano supremo de la Federación Regnum Christi, compuesto por delegados de las tres ramas consagradas (Legión de Cristo, Consagradas del RC.)
+description: "La Asamblea General del Regnum Christi es el órgano supremo de la Federación Regnum Christi, compuesto por delegados de las tres ramas consagradas (Legión de Cristo, Consagradas del RC.)"
 ---
 # Asamblea General del Regnum Christi
 

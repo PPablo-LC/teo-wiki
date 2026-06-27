@@ -4,7 +4,7 @@ title: Evangelización
 tags: ["doctrina_social", "eclesiología"]
 
 timestamp: 2026-06-20
-description: La evangelización es la misión fundamental de la Iglesia de anunciar y actualizar el Evangelio en todas las dimensiones de la vida humana, incluida la compleja red de las relaciones sociales.
+description: "La evangelización es la misión fundamental de la Iglesia de anunciar y actualizar el Evangelio en todas las dimensiones de la vida humana, incluida la compleja red de las relaciones sociales."
 ---
 # Evangelización
 

@@ -4,7 +4,7 @@ title: Sesión a la diestra del Padre
 tags: ["cristología"]
 
 timestamp: 2026-06-12
-description: La sesión a la diestra del Padre es la situación de gloria y potestad real y judicial que Jesucristo posee como premio de su humillación y exaltación.
+description: "La sesión a la diestra del Padre es la situación de gloria y potestad real y judicial que Jesucristo posee como premio de su humillación y exaltación."
 ---
 # Sesión a la diestra del Padre
 

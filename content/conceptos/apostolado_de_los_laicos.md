@@ -4,7 +4,7 @@ title: Apostolado de los laicos
 tags: ["eclesiología", "teología_del_laicado"]
 
 timestamp: 2026-06-15
-description: Participación de los fieles laicos en la misión evangelizadora de la Iglesia, en virtud de su incorporación a Cristo por el Bautismo y la Confirmación.
+description: "Participación de los fieles laicos en la misión evangelizadora de la Iglesia, en virtud de su incorporación a Cristo por el Bautismo y la Confirmación."
 ---
 # Apostolado de los laicos
 

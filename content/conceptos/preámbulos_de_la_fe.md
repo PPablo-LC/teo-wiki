@@ -4,7 +4,7 @@ title: Preámbulos de la fe
 tags: ["dogmática", "filosofía"]
 
 timestamp: 2026-06-17
-description: Verdades que la razón humana puede conocer antes y como preparación para el acto de fe sobrenatural, especialmente la existencia de Dios, los atributos divinos y la credibilidad de la Revelación.
+description: "Verdades que la razón humana puede conocer antes y como preparación para el acto de fe sobrenatural, especialmente la existencia de Dios, los atributos divinos y la credibilidad de la Revelación."
 ---
 # Preámbulos de la fe
 

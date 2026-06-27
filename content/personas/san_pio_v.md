@@ -1,7 +1,7 @@
 ---
 type: Persona
 title: San Pío V
-description: Papa (1566-1572), dominico, implementó el Concilio de Trento, condenó a Miguel Bayo y organizó la Liga Santa que venció en Lepanto.
+description: "Papa (1566-1572), dominico, implementó el Concilio de Trento, condenó a Miguel Bayo y organizó la Liga Santa que venció en Lepanto."
 tags: ["papas", "historia_—_papado", "santos"]
 timestamp: 2026-06-27
 ---

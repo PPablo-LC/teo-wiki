@@ -4,7 +4,7 @@ title: Vida económica
 tags: ["doctrina_social"]
 
 timestamp: 2026-05-25
-description: Dimensión de la actividad humana que comprende la producción, distribución y consumo de bienes materiales y servicios, que debe estar orientada al servicio del hombre y de la sociedad.
+description: "Dimensión de la actividad humana que comprende la producción, distribución y consumo de bienes materiales y servicios, que debe estar orientada al servicio del hombre y de la sociedad."
 ---
 # Vida económica
 

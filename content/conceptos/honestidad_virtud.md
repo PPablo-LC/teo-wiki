@@ -4,7 +4,7 @@ title: Honestidad (virtud)
 tags: ["moral"]
 
 timestamp: 2026-06-11
-description: La honestidad, en sentido teológico-moral, es la belleza espiritual que resulta de la conformidad de las acciones humanas con la recta razón.
+description: "La honestidad, en sentido teológico-moral, es la belleza espiritual que resulta de la conformidad de las acciones humanas con la recta razón."
 ---
 # Honestidad (virtud)
 

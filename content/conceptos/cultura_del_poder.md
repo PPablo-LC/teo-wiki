@@ -4,7 +4,7 @@ title: Cultura del poder
 tags: ["moral", "doctrina_social"]
 
 timestamp: 2026-05-29
-description: Lógica social y política donde la disponibilidad de medios técnicos y militares y la capacidad de dominar dictan la agenda y los criterios de decisión.
+description: "Lógica social y política donde la disponibilidad de medios técnicos y militares y la capacidad de dominar dictan la agenda y los criterios de decisión."
 ---
 # Cultura del poder
 

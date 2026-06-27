@@ -4,7 +4,7 @@ title: Ad Gentes
 tags: ["misionología", "eclesiología"]
 
 timestamp: 2026-05-26
-description: Decreto del Concilio Vaticano II sobre la actividad misionera de la Iglesia, promulgado el 7 de diciembre de 1965.
+description: "Decreto del Concilio Vaticano II sobre la actividad misionera de la Iglesia, promulgado el 7 de diciembre de 1965."
 ---
 # Ad Gentes
 

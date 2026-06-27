@@ -4,7 +4,7 @@ title: Elección
 tags: ["ascética", "espiritualidad", "formación"]
 
 timestamp: 2026-05-31
-description: En el contexto de la espiritualidad legionaria y de la tradición ignaciana de la que bebe, la elección es el acto deliberado y libre mediante el cual la persona.
+description: "En el contexto de la espiritualidad legionaria y de la tradición ignaciana de la que bebe, la elección es el acto deliberado y libre mediante el cual la persona."
 ---
 # Elección
 

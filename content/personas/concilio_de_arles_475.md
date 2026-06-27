@@ -4,7 +4,7 @@ title: Concilio de Arles (475)
 tags: ["dogmática_—_concilios_particulares"]
 
 timestamp: 2026-06-25
-description: El Concilio de Arles de 475 fue un sínodo provincial convocado para tratar la controversia sobre la predestinación que había surgido en la Galia en torno a las enseñanzas de Lucido.
+description: "El Concilio de Arles de 475 fue un sínodo provincial convocado para tratar la controversia sobre la predestinación que había surgido en la Galia en torno a las enseñanzas de Lucido."
 ---
 # Concilio de Arles (475)
 

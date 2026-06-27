@@ -4,7 +4,7 @@ title: Capital y trabajo
 tags: ["doctrina_social"]
 
 timestamp: 2026-06-17
-description: Relación entre los dos factores fundamentales de la producción, en la cual el trabajo tiene una prioridad intrínseca sobre el capital.
+description: "Relación entre los dos factores fundamentales de la producción, en la cual el trabajo tiene una prioridad intrínseca sobre el capital."
 ---
 # Capital y trabajo
 

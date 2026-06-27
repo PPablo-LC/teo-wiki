@@ -4,7 +4,7 @@ title: Conocimiento intelectual
 tags: ["antropología"]
 
 timestamp: 2026-06-04
-description: El conocimiento intelectual es la operación propia del entendimiento humano por la que el alma conoce la verdad de las cosas captando sus esencias universales mediante la abstracción de las especies...
+description: "El conocimiento intelectual es la operación propia del entendimiento humano por la que el alma conoce la verdad de las cosas captando sus esencias universales mediante la abstracción de las especies..."
 ---
 # Conocimiento intelectual
 

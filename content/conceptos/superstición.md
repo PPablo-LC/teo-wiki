@@ -4,7 +4,7 @@ title: Superstición
 tags: ["moral"]
 
 timestamp: 2026-05-26
-description: La superstición es una desviación del culto debido a Dios, que atribuye a criaturas, objetos o prácticas un poder que solo pertenece a Dios, o que rinde culto de modo indebido.
+description: "La superstición es una desviación del culto debido a Dios, que atribuye a criaturas, objetos o prácticas un poder que solo pertenece a Dios, o que rinde culto de modo indebido."
 ---
 # Superstición
 

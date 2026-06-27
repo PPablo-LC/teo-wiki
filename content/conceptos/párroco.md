@@ -4,7 +4,7 @@ title: Párroco
 tags: ["eclesiología"]
 
 timestamp: 2026-05-25
-description: El párroco es el pastor propio de la parroquia que se le confía, que ejerce la cura pastoral de la comunidad bajo la autoridad del Obispo diocesano.
+description: "El párroco es el pastor propio de la parroquia que se le confía, que ejerce la cura pastoral de la comunidad bajo la autoridad del Obispo diocesano."
 ---
 # Párroco
 

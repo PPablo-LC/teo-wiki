@@ -4,7 +4,7 @@ title: Justicia social
 tags: ["moral"]
 
 timestamp: 2026-06-23
-description: La justicia social es una virtud moral que ordena las relaciones entre los individuos y la sociedad en orden al bien común, exigiendo que cada uno —personas.
+description: "La justicia social es una virtud moral que ordena las relaciones entre los individuos y la sociedad en orden al bien común, exigiendo que cada uno —personas."
 ---
 # Justicia social
 

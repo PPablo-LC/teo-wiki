@@ -4,7 +4,7 @@ title: Pensamiento
 tags: ["ascética", "filosofía"]
 
 timestamp: 2026-06-19
-description: En teología espiritual, el pensamiento se refiere a la observación de múltiples cosas que llevan a una verdad.
+description: "En teología espiritual, el pensamiento se refiere a la observación de múltiples cosas que llevan a una verdad."
 ---
 # Pensamiento
 

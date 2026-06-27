@@ -4,7 +4,7 @@ title: Virtudes
 tags: ["moral"]
 
 timestamp: 2026-05-22
-description: Las virtudes son hábitos operativos buenos que perfeccionan las facultades del alma para obrar el bien con facilidad, prontitud y deleite.
+description: "Las virtudes son hábitos operativos buenos que perfeccionan las facultades del alma para obrar el bien con facilidad, prontitud y deleite."
 ---
 # Virtudes
 

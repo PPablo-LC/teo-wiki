@@ -2,7 +2,7 @@
 type: Análisis Doctrinal
 title: "Closing Keynote — The Virtuous Leader: Análisis doctrinal"
 timestamp: 2026-06-03
-description: Discurso de clausura de la Catholic Men's Conference 2022 a cargo del general retirado John Wissler.
+description: "Discurso de clausura de la Catholic Men's Conference 2022 a cargo del general retirado John Wissler."
 ---
 # Closing Keynote — The Virtuous Leader: Análisis doctrinal
 

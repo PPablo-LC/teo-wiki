@@ -4,7 +4,7 @@ title: Constituciones Legionarios de Cristo (CLC-2020)
 tags: ["derecho_canónico", "vida_consagrada", "espiritualidad"]
 
 timestamp: 2026-05-29
-description: Las Constituciones de la Congregación de los Legionarios de Cristo (CLC-2020) son el código fundamental del derecho propio de la Legión de Cristo, aprobado por la Santa Sede el 15 de octubre de 2020.
+description: "Las Constituciones de la Congregación de los Legionarios de Cristo (CLC-2020) son el código fundamental del derecho propio de la Legión de Cristo, aprobado por la Santa Sede el 15 de octubre de 2020."
 ---
 # Constituciones Legionarios de Cristo (CLC-2020)
 

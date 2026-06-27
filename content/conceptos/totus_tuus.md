@@ -4,7 +4,7 @@ title: Totus Tuus
 tags: ["mariología", "espiritualidad"]
 
 timestamp: 2026-06-21
-description: Fórmula de consagración mariana —«Totus Tuus ego sum, et omnia mea tua sunt; accipio te in mea omnia.»
+description: "Fórmula de consagración mariana —«Totus Tuus ego sum, et omnia mea tua sunt; accipio te in mea omnia.»"
 ---
 # Totus Tuus
 

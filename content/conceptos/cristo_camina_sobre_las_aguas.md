@@ -4,7 +4,7 @@ title: Cristo camina sobre las aguas
 tags: ["cristología"]
 
 timestamp: 2026-06-22
-description: Milagro en el que Jesús camina sobre el mar de Galilea hacia la barca de los discípulos (Mc 6,49-50; Mt 14,26-27.)
+description: "Milagro en el que Jesús camina sobre el mar de Galilea hacia la barca de los discípulos (Mc 6,49-50; Mt 14,26-27.)"
 ---
 # Cristo camina sobre las aguas
 

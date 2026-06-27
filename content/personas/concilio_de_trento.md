@@ -3,7 +3,7 @@ type: Persona
 title: Concilio de Trento
 tags: ["concilios", "dogmática", "historia_—_concilios"]
 timestamp: 2026-06-27
-description: XIX concilio ecuménico (1545-1563), convocado para responder a la Reforma protestante. Definió la doctrina católica sobre la justificación, los sacramentos, la Eucaristía y el pecado original.
+description: "XIX concilio ecuménico (1545-1563), convocado para responder a la Reforma protestante. Definió la doctrina católica sobre la justificación, los sacramentos, la Eucaristía y el pecado original."
 ---
 
 # Concilio de Trento

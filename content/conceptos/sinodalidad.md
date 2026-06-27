@@ -4,7 +4,7 @@ title: Sinodalidad
 tags: ["eclesiología"]
 
 timestamp: 2026-05-26
-description: Modo de ser y de actuar de la Iglesia como Pueblo de Dios que camina unido, escuchando al Espíritu Santo y discerniendo juntos la voluntad de Cristo para la misión.
+description: "Modo de ser y de actuar de la Iglesia como Pueblo de Dios que camina unido, escuchando al Espíritu Santo y discerniendo juntos la voluntad de Cristo para la misión."
 ---
 # Sinodalidad
 

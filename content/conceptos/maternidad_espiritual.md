@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Maternidad espiritual
-description: La maternidad espiritual de Maria Santisima es su cooperacion en el orden de la gracia para engendrar y educar a los hijos de Dios.
+description: "La maternidad espiritual de Maria Santisima es su cooperacion en el orden de la gracia para engendrar y educar a los hijos de Dios."
 ---
 # Maternidad espiritual
 

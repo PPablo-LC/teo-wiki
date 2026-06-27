@@ -4,7 +4,7 @@ title: Dominio sobre la creación
 tags: ["moral_social", "antropología_teológica"]
 
 timestamp: 2026-06-19
-description: El dominio sobre la creación es la responsabilidad que Dios confía al hombre de gobernar el mundo en justicia y santidad, sometiendo la tierra y cuanto contiene.
+description: "El dominio sobre la creación es la responsabilidad que Dios confía al hombre de gobernar el mundo en justicia y santidad, sometiendo la tierra y cuanto contiene."
 ---
 # Dominio sobre la creación
 

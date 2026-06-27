@@ -4,7 +4,7 @@ title: Sentencia canónica
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-25
-description: La sentencia canónica es el pronunciamiento legítimo del juez eclesiástico que dirime la controversia sometida a su juicio.
+description: "La sentencia canónica es el pronunciamiento legítimo del juez eclesiástico que dirime la controversia sometida a su juicio."
 ---
 # Sentencia canónica
 

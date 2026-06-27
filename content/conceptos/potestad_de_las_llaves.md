@@ -4,7 +4,7 @@ title: Potestad de las llaves
 tags: ["dogmática", "sacramental"]
 
 timestamp: 2026-05-26
-description: La potestad de las llaves es el poder espiritual conferido por Cristo a la Iglesia —y en ella a los Apóstoles y sus sucesores— de perdonar los pecados en su nombre.
+description: "La potestad de las llaves es el poder espiritual conferido por Cristo a la Iglesia —y en ella a los Apóstoles y sus sucesores— de perdonar los pecados en su nombre."
 ---
 # Potestad de las llaves
 

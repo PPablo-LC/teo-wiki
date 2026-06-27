@@ -4,7 +4,7 @@ title: Emociones y fe
 tags: ["dogmática", "ascética"]
 
 timestamp: 2026-06-10
-description: Relación entre la dimensión afectiva de la persona (emociones, sentimientos) y el acto de fe, que implica a la persona entera en sus dimensiones afectiva, intelectual y volitiva.
+description: "Relación entre la dimensión afectiva de la persona (emociones, sentimientos) y el acto de fe, que implica a la persona entera en sus dimensiones afectiva, intelectual y volitiva."
 ---
 # Emociones y fe
 

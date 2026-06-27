@@ -4,7 +4,7 @@ title: Motu Proprio sobre protección de menores
 tags: ["documentos"]
 
 timestamp: 2026-06-11
-description: Establece medidas para la Curia Romana y el Estado Vaticano.
+description: "Establece medidas para la Curia Romana y el Estado Vaticano."
 ---
 # Motu Proprio sobre protección de menores
 

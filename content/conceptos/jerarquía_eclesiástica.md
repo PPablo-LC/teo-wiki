@@ -4,7 +4,7 @@ title: Jerarquía eclesiástica
 tags: ["eclesiología"]
 
 timestamp: 2026-05-25
-description: La jerarquía eclesiástica es la estructura sagrada de la Iglesia instituida por Jesucristo, compuesta por los ministerios ordenados —obispos.
+description: "La jerarquía eclesiástica es la estructura sagrada de la Iglesia instituida por Jesucristo, compuesta por los ministerios ordenados —obispos."
 ---
 # Jerarquía eclesiástica
 

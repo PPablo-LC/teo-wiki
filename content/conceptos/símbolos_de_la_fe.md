@@ -4,7 +4,7 @@ title: Símbolos de la fe
 tags: ["dogmática", "liturgia"]
 
 timestamp: 2026-05-22
-description: Los símbolos de la fe, también llamados «profesiones de fe» o «Credos», son resúmenes orgánicos y articulados de las verdades esenciales de la fe cristiana.
+description: "Los símbolos de la fe, también llamados «profesiones de fe» o «Credos», son resúmenes orgánicos y articulados de las verdades esenciales de la fe cristiana."
 ---
 # Símbolos de la fe
 

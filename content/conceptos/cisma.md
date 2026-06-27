@@ -4,7 +4,7 @@ title: Cisma
 tags: ["eclesiología", "moral"]
 
 timestamp: 2026-06-08
-description: El cisma es el pecado que se opone directamente a la unidad de la Iglesia, separando voluntariamente a sus miembros de la comunión eclesiástica y de la sujeción al Romano Pontífice.
+description: "El cisma es el pecado que se opone directamente a la unidad de la Iglesia, separando voluntariamente a sus miembros de la comunión eclesiástica y de la sujeción al Romano Pontífice."
 ---
 # Cisma
 

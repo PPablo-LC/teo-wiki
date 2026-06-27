@@ -4,7 +4,7 @@ title: Magnificencia
 tags: ["moral"]
 
 timestamp: 2026-06-11
-description: La magnificencia es la virtud moral que inclina a emprender obras espléndidas y de gran envergadura, sin arredrarse ante la magnitud del trabajo o de los grandes gastos necesarios.
+description: "La magnificencia es la virtud moral que inclina a emprender obras espléndidas y de gran envergadura, sin arredrarse ante la magnitud del trabajo o de los grandes gastos necesarios."
 ---
 # Magnificencia
 

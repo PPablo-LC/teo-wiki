@@ -4,7 +4,7 @@ title: Devociones
 tags: ["ascética", "liturgia"]
 
 timestamp: 2026-05-22
-description: Las devociones son prácticas de piedad, tanto públicas como privadas, mediante las cuales los fieles expresan su amor y veneración a Dios, a la Santísima Virgen.
+description: "Las devociones son prácticas de piedad, tanto públicas como privadas, mediante las cuales los fieles expresan su amor y veneración a Dios, a la Santísima Virgen."
 ---
 # Devociones
 

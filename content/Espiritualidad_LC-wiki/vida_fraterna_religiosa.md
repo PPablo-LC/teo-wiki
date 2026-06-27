@@ -4,7 +4,7 @@ title: Vida fraterna religiosa
 tags: ["espiritualidad", "vida_consagrada"]
 
 timestamp: 2026-06-13
-description: La vida fraterna en la vida religiosa es la comunidad de hermanos reunidos por Cristo, que viven juntos la oración, la vida común y la misión.
+description: "La vida fraterna en la vida religiosa es la comunidad de hermanos reunidos por Cristo, que viven juntos la oración, la vida común y la misión."
 ---
 # Vida fraterna religiosa
 

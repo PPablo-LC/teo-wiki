@@ -4,7 +4,7 @@ title: Apologética
 tags: ["dogmática"]
 
 timestamp: 2026-05-26
-description: Rama de la teología que tiene por objeto la defensa racional de la fe católica.
+description: "Rama de la teología que tiene por objeto la defensa racional de la fe católica."
 ---
 # Apologética
 

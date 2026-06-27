@@ -4,7 +4,7 @@ title: Dignidad de la persona
 tags: ["moral", "antropología_teológica"]
 
 timestamp: 2026-05-29
-description: La dignidad de la persona humana es el valor intrínseco e inalienable de todo ser humano por el hecho de ser creado a imagen y semejanza de Dios.
+description: "La dignidad de la persona humana es el valor intrínseco e inalienable de todo ser humano por el hecho de ser creado a imagen y semejanza de Dios."
 ---
 # Dignidad de la persona
 

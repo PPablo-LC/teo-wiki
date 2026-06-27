@@ -4,7 +4,7 @@ title: Capítulo General 2020 de los Legionarios de Cristo
 tags: ["documentos_—_espiritualidad_legionaria"]
 
 timestamp: 2026-06-13
-description: Fuente primaria del proceso de renovación de la Legión de Cristo y del Regnum Christi.
+description: "Fuente primaria del proceso de renovación de la Legión de Cristo y del Regnum Christi."
 ---
 # Capítulo General 2020 de los Legionarios de Cristo
 

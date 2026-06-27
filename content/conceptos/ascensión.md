@@ -4,7 +4,7 @@ title: Ascensión
 tags: ["dogmática"]
 
 timestamp: 2026-06-02
-description: Misterio de la vida de Cristo por el cual, cuarenta días después de su Resurrección, ascendió corporalmente al cielo en presencia de sus discípulos y se sentó a la derecha del Padre.
+description: "Misterio de la vida de Cristo por el cual, cuarenta días después de su Resurrección, ascendió corporalmente al cielo en presencia de sus discípulos y se sentó a la derecha del Padre."
 ---
 # Ascensión
 

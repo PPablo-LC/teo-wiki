@@ -4,7 +4,7 @@ title: Conversión
 tags: ["moral", "ascética"]
 
 timestamp: 2026-06-20
-description: Movimiento del alma que, movida por la gracia, se vuelve a Dios apartándose del pecado.
+description: "Movimiento del alma que, movida por la gracia, se vuelve a Dios apartándose del pecado."
 ---
 # Conversión
 

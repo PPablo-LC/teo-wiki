@@ -4,7 +4,7 @@ title: Magníficat
 tags: ["sagrada_escritura", "mariología", "liturgia"]
 
 timestamp: 2026-06-19
-description: El Magníficat (Lc 1,46-55) es el cántico de alabanza que la Virgen María pronunció durante la visitación a su prima Isabel.
+description: "El Magníficat (Lc 1,46-55) es el cántico de alabanza que la Virgen María pronunció durante la visitación a su prima Isabel."
 ---
 # Magníficat
 

@@ -4,7 +4,7 @@ title: Provisión canónica
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-29
-description: La provisión canónica es el acto jurídico por el cual se confiere un oficio eclesiástico a una persona idónea, conforme a las normas del derecho canónico.
+description: "La provisión canónica es el acto jurídico por el cual se confiere un oficio eclesiástico a una persona idónea, conforme a las normas del derecho canónico."
 ---
 # Provisión canónica
 

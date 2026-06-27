@@ -4,7 +4,7 @@ title: Amor humano
 tags: ["antropología_teológica", "teología_moral"]
 
 timestamp: 2026-06-20
-description: El amor humano es la respuesta al don de Dios inscrito en la creación del hombre como varón y mujer.
+description: "El amor humano es la respuesta al don de Dios inscrito en la creación del hombre como varón y mujer."
 ---
 # Amor humano
 

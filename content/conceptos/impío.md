@@ -4,7 +4,7 @@ title: Impío
 tags: ["moral", "dogmática"]
 
 timestamp: 2026-06-02
-description: Persona que manifiesta desprecio de Dios y de su ley con un matiz de hostilidad activa.
+description: "Persona que manifiesta desprecio de Dios y de su ley con un matiz de hostilidad activa."
 ---
 # Impío
 

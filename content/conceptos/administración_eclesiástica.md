@@ -4,7 +4,7 @@ title: Administración eclesiástica
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-25
-description: La administración eclesiástica es el conjunto de normas y actividades relativas a la gestión, custodia y disposición de los bienes temporales de la Iglesia.
+description: "La administración eclesiástica es el conjunto de normas y actividades relativas a la gestión, custodia y disposición de los bienes temporales de la Iglesia."
 ---
 # Administración eclesiástica
 

@@ -4,7 +4,7 @@ title: Leche
 tags: ["bíblica", "simbología"]
 
 timestamp: 2026-06-02
-description: En la tradición bíblica, la leche es un alimento vital en la cultura pastoril, símbolo de la tierra prometida y de las promesas mesiánicas.
+description: "En la tradición bíblica, la leche es un alimento vital en la cultura pastoril, símbolo de la tierra prometida y de las promesas mesiánicas."
 ---
 # Leche
 

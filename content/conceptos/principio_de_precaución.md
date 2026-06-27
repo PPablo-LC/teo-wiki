@@ -4,7 +4,7 @@ title: Principio de precaución
 tags: ["moral_social", "ecología"]
 
 timestamp: 2026-06-19
-description: El principio de precaución es un criterio orientador para la gestión de situaciones de incertidumbre científica respecto a riesgos para la salud y el medio ambiente.
+description: "El principio de precaución es un criterio orientador para la gestión de situaciones de incertidumbre científica respecto a riesgos para la salud y el medio ambiente."
 ---
 # Principio de precaución
 

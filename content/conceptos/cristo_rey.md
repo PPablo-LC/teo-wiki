@@ -4,7 +4,7 @@ title: Cristo Rey
 tags: ["cristología"]
 
 timestamp: 2026-06-22
-description: Título cristológico que expresa la realeza mesiánica de Jesucristo, reconocido como el Ungido de Dios que inaugura el Reino definitivo.
+description: "Título cristológico que expresa la realeza mesiánica de Jesucristo, reconocido como el Ungido de Dios que inaugura el Reino definitivo."
 ---
 # Cristo Rey
 

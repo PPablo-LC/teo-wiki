@@ -4,7 +4,7 @@ title: Pueblos indígenas
 tags: ["moral_social", "derechos_humanos"]
 
 timestamp: 2026-06-19
-description: Los pueblos indígenas son comunidades humanas originarias con una relación especial con su tierra y sus recursos, que constituye una expresión fundamental de su identidad.
+description: "Los pueblos indígenas son comunidades humanas originarias con una relación especial con su tierra y sus recursos, que constituye una expresión fundamental de su identidad."
 ---
 # Pueblos indígenas
 

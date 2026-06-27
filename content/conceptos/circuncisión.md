@@ -4,7 +4,7 @@ title: Circuncisión
 tags: ["sacramental", "historia_de_la_salvación"]
 
 timestamp: 2026-06-02
-description: Rito de ablación del prepucio que en el AT constituye el signo físico de la pertenencia al pueblo de la alianza.
+description: "Rito de ablación del prepucio que en el AT constituye el signo físico de la pertenencia al pueblo de la alianza."
 ---
 # Circuncisión
 

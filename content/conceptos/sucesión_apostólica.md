@@ -4,7 +4,7 @@ title: Sucesión apostólica
 tags: ["eclesiología"]
 
 timestamp: 2026-05-25
-description: La sucesión apostólica es la transmisión ininterrumpida de la misión y potestad de los Apóstoles a través del sacramento del Orden.
+description: "La sucesión apostólica es la transmisión ininterrumpida de la misión y potestad de los Apóstoles a través del sacramento del Orden."
 ---
 # Sucesión apostólica
 

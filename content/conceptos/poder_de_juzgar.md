@@ -4,7 +4,7 @@ title: Poder de juzgar
 tags: ["dogmática", "cristología", "escatología"]
 
 timestamp: 2026-06-22
-description: Jesucristo posee el poder divino de juzgar las obras y las conciencias humanas, poder definitivo y universal que el Padre le ha entregado.
+description: "Jesucristo posee el poder divino de juzgar las obras y las conciencias humanas, poder definitivo y universal que el Padre le ha entregado."
 ---
 # Poder de juzgar
 

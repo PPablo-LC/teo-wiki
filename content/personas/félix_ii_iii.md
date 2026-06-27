@@ -4,7 +4,7 @@ title: Félix II (III)
 tags: ["patrística_—_papas"]
 
 timestamp: 2026-06-25
-description: Félix II (a veces numerado Félix III) fue Papa de la Iglesia Católica desde 483 hasta 492.
+description: "Félix II (a veces numerado Félix III) fue Papa de la Iglesia Católica desde 483 hasta 492."
 ---
 # Félix II (III)
 

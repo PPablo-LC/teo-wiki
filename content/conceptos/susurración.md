@@ -4,7 +4,7 @@ title: Susurración
 tags: ["moral"]
 
 timestamp: 2026-06-23
-description: Pecado de palabra que consiste en murmurar contra el prójimo al oído o en secreto, con la intención de romper la amistad entre las personas.
+description: "Pecado de palabra que consiste en murmurar contra el prójimo al oído o en secreto, con la intención de romper la amistad entre las personas."
 ---
 # Susurración
 

@@ -4,7 +4,7 @@ title: Examen de conciencia
 tags: ["ascética"]
 
 timestamp: 2026-05-20
-description: El examen de conciencia es una introspección en la propia conciencia para averiguar los actos buenos o malos que hemos realizado y, sobre todo.
+description: "El examen de conciencia es una introspección en la propia conciencia para averiguar los actos buenos o malos que hemos realizado y, sobre todo."
 ---
 # Examen de conciencia
 

@@ -4,7 +4,7 @@ title: Excelencia académica
 tags: ["formación", "pedagogía"]
 
 timestamp: 2026-06-12
-description: La excelencia académica es el principio formativo según el cual la Legión de Cristo busca la calidad académica en todas las etapas de la formación de sus miembros.
+description: "La excelencia académica es el principio formativo según el cual la Legión de Cristo busca la calidad académica en todas las etapas de la formación de sus miembros."
 ---
 # Excelencia académica
 

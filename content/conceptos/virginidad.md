@@ -4,7 +4,7 @@ title: Virginidad
 tags: ["moral", "ascética"]
 
 timestamp: 2026-06-14
-description: Estado de vida de quienes renuncian voluntariamente al matrimonio y a la actividad sexual para consagrarse más libremente a Dios y al servicio del Reino.
+description: "Estado de vida de quienes renuncian voluntariamente al matrimonio y a la actividad sexual para consagrarse más libremente a Dios y al servicio del Reino."
 ---
 # Virginidad
 

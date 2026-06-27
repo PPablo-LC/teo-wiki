@@ -4,7 +4,7 @@ title: Ira
 tags: ["moral", "ascética"]
 
 timestamp: 2026-06-12
-description: La ira es una pasión del apetito irascible que inclina a rechazar con violencia el mal que se presenta como difícil o doloroso.
+description: "La ira es una pasión del apetito irascible que inclina a rechazar con violencia el mal que se presenta como difícil o doloroso."
 ---
 # Ira
 

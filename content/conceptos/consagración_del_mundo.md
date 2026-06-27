@@ -4,7 +4,7 @@ title: Consagración del mundo
 tags: ["espiritualidad_laical"]
 
 timestamp: 2026-05-22
-description: La consagración del mundo es la misión propia de los fieles laicos de impregnar y ordenar las realidades temporales —familia, trabajo, cultura, economía, política— según el espíritu de Cristo.
+description: "La consagración del mundo es la misión propia de los fieles laicos de impregnar y ordenar las realidades temporales —familia, trabajo, cultura, economía, política— según el espíritu de Cristo."
 ---
 # Consagración del mundo
 

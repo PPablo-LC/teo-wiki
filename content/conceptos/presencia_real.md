@@ -4,7 +4,7 @@ title: Presencia Real
 tags: ["eucaristía"]
 
 timestamp: 2026-06-15
-description: Presencia verdadera, real y substancial de Jesucristo —Dios y hombre verdadero— en el sacramento de la Eucaristía, bajo las especies del pan y del vino consagrados.
+description: "Presencia verdadera, real y substancial de Jesucristo —Dios y hombre verdadero— en el sacramento de la Eucaristía, bajo las especies del pan y del vino consagrados."
 ---
 # Presencia Real
 

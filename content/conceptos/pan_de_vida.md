@@ -4,7 +4,7 @@ title: Pan de vida
 tags: ["dogmática", "eucaristía"]
 
 timestamp: 2026-06-22
-description: Jesucristo es el pan de vida, el pan vivo bajado del cielo que da la vida eterna a quien lo come.
+description: "Jesucristo es el pan de vida, el pan vivo bajado del cielo que da la vida eterna a quien lo come."
 ---
 # Pan de vida
 

@@ -4,7 +4,7 @@ title: Templo
 tags: ["liturgia"]
 
 timestamp: 2026-06-02
-description: Edificio destinado al culto divino, casa de Dios y casa de oración.
+description: "Edificio destinado al culto divino, casa de Dios y casa de oración."
 ---
 # Templo
 

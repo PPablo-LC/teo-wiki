@@ -4,7 +4,7 @@ title: Tribunal eclesiástico
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-25
-description: El tribunal eclesiástico es el órgano jurisdiccional instituido por la autoridad eclesiástica competente para ejercer la potestad judicial de la Iglesia.
+description: "El tribunal eclesiástico es el órgano jurisdiccional instituido por la autoridad eclesiástica competente para ejercer la potestad judicial de la Iglesia."
 ---
 # Tribunal eclesiástico
 

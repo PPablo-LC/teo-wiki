@@ -4,7 +4,7 @@ title: Notario
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-26
-description: El notario eclesiástico es el fedatario público de la curia diocesana, cuyo oficio consiste en dar fe de los actos jurídicos, administrativos y judiciales de la Iglesia.
+description: "El notario eclesiástico es el fedatario público de la curia diocesana, cuyo oficio consiste en dar fe de los actos jurídicos, administrativos y judiciales de la Iglesia."
 ---
 # Notario
 

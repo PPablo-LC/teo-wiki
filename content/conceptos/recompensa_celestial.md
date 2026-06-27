@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Recompensa celestial
-description: El galardon sobrenatural que Dios otorga en el cielo a sus fieles servidores por las buenas obras realizadas en estado de gracia.
+description: "El galardon sobrenatural que Dios otorga en el cielo a sus fieles servidores por las buenas obras realizadas en estado de gracia."
 ---
 # Recompensa celestial
 

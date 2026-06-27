@@ -4,7 +4,7 @@ title: Clausura
 tags: ["vida_consagrada"]
 
 timestamp: 2026-05-29
-description: La clausura es la separación física y jurídica del mundo que caracteriza a ciertas formas de vida consagrada, especialmente la contemplativa.
+description: "La clausura es la separación física y jurídica del mundo que caracteriza a ciertas formas de vida consagrada, especialmente la contemplativa."
 ---
 # Clausura
 

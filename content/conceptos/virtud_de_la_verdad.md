@@ -4,7 +4,7 @@ title: Virtud de la verdad
 tags: ["moral"]
 
 timestamp: 2026-05-29
-description: La virtud de la verdad (veracidad) es la virtud moral que inclina a la persona a mostrarse veraz en sus actos y a decir verdad en sus palabras, evitando la duplicidad, la simulación y la hipocresía.
+description: "La virtud de la verdad (veracidad) es la virtud moral que inclina a la persona a mostrarse veraz en sus actos y a decir verdad en sus palabras, evitando la duplicidad, la simulación y la hipocresía."
 ---
 # Virtud de la verdad
 

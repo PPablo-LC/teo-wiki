@@ -4,7 +4,7 @@ title: Exorcismo
 tags: ["sacramental"]
 
 timestamp: 2026-06-05
-description: El exorcismo es un sacramental por el cual la Iglesia, en nombre de Jesucristo, pide imperativamente la expulsión de los demonios o la liberación del poder del maligno.
+description: "El exorcismo es un sacramental por el cual la Iglesia, en nombre de Jesucristo, pide imperativamente la expulsión de los demonios o la liberación del poder del maligno."
 ---
 # Exorcismo
 

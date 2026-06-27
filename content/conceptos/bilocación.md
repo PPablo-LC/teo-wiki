@@ -4,7 +4,7 @@ title: Bilocación
 tags: ["mística"]
 
 timestamp: 2026-05-20
-description: Presencia simultánea de una misma persona en dos lugares distintos. Es uno de los fenómenos más sorprendentes y maravillosos de la Mística y uno de los más difíciles de explicar.
+description: "Presencia simultánea de una misma persona en dos lugares distintos. Es uno de los fenómenos más sorprendentes y maravillosos de la Mística y uno de los más difíciles de explicar."
 ---
 # Bilocación
 

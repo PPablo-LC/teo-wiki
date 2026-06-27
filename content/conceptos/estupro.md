@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Estupro
-description: Acto venéreo con doncella bajo potestad paterna, clasificado por Santo Tomás como una de las especies de lujuria, distinto de la fornicación y del rapto.
+description: "Acto venéreo con doncella bajo potestad paterna, clasificado por Santo Tomás como una de las especies de lujuria, distinto de la fornicación y del rapto."
 tags: ["moral"]
 timestamp: 2026-06-27
 ---

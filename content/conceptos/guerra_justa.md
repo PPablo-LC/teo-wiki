@@ -4,7 +4,7 @@ title: Guerra justa
 tags: ["doctrina_social", "moral"]
 
 timestamp: 2026-05-25
-description: Doctrina moral tradicional que establece las condiciones rigurosas que deben cumplirse simultáneamente para que sea lícito el uso de la fuerza armada en legítima defensa.
+description: "Doctrina moral tradicional que establece las condiciones rigurosas que deben cumplirse simultáneamente para que sea lícito el uso de la fuerza armada en legítima defensa."
 ---
 # Guerra justa
 

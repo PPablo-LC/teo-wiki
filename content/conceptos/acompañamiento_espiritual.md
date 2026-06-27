@@ -4,7 +4,7 @@ title: Acompañamiento espiritual
 tags: ["espiritualidad", "ascética"]
 
 timestamp: 2026-06-14
-description: El acompañamiento espiritual es la ayuda que un cristiano experimentado presta a otro en su camino de seguimiento de Cristo, mediante el diálogo personal, la oración y el discernimiento.
+description: "El acompañamiento espiritual es la ayuda que un cristiano experimentado presta a otro en su camino de seguimiento de Cristo, mediante el diálogo personal, la oración y el discernimiento."
 ---
 # Acompañamiento espiritual
 

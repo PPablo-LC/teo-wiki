@@ -4,7 +4,7 @@ title: Eucaristía, pan de vida
 tags: ["sacramental", "eucaristía"]
 
 timestamp: 2026-06-22
-description: La Eucaristía es el sacramento del pan de vida, instituido por Cristo en la última Cena, en el que Él mismo se hace presente como alimento espiritual que da la vida eterna.
+description: "La Eucaristía es el sacramento del pan de vida, instituido por Cristo en la última Cena, en el que Él mismo se hace presente como alimento espiritual que da la vida eterna."
 ---
 # Eucaristía, pan de vida
 

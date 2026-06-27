@@ -4,7 +4,7 @@ title: Sello
 tags: ["dogmática", "sacramental"]
 
 timestamp: 2026-06-02
-description: El sello es un signo de propiedad y autenticación.
+description: "El sello es un signo de propiedad y autenticación."
 ---
 # Sello
 

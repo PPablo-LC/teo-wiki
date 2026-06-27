@@ -4,7 +4,7 @@ title: Unción del Espíritu
 tags: ["cristología", "pneumatología"]
 
 timestamp: 2026-06-22
-description: Consagración mesiánica de Jesucristo por el Espíritu Santo, que lo constituye como el Ungido (Cristo/Mesías) por excelencia para cumplir su misión salvífica de enseñar, santificar y redimir.
+description: "Consagración mesiánica de Jesucristo por el Espíritu Santo, que lo constituye como el Ungido (Cristo/Mesías) por excelencia para cumplir su misión salvífica de enseñar, santificar y redimir."
 ---
 # Unción del Espíritu
 

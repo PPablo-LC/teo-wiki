@@ -4,7 +4,7 @@ title: Condición de siervo
 tags: ["cristología"]
 
 timestamp: 2026-06-22
-description: La condición de siervo es el estado de humildad y servicio que el Hijo de Dios asumió voluntariamente en la Encarnación, tomando «la forma de siervo» (Flp 2,7).
+description: "La condición de siervo es el estado de humildad y servicio que el Hijo de Dios asumió voluntariamente en la Encarnación, tomando «la forma de siervo» (Flp 2,7)."
 ---
 # Condición de siervo
 

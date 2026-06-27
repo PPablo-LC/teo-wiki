@@ -4,7 +4,7 @@ title: Odio
 tags: ["moral"]
 
 timestamp: 2026-06-06
-description: El odio es un movimiento deliberado de la voluntad por el que se desea el mal para otro, o al menos se le quiere privar de un bien.
+description: "El odio es un movimiento deliberado de la voluntad por el que se desea el mal para otro, o al menos se le quiere privar de un bien."
 ---
 # Odio
 

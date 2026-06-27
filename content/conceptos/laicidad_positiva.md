@@ -4,7 +4,7 @@ title: Laicidad positiva
 tags: ["doctrina_social"]
 
 timestamp: 2026-05-25
-description: Principio de sana colaboración entre la Iglesia y el Estado, basado en el reconocimiento y respeto de la legítima autonomía de las realidades temporales.
+description: "Principio de sana colaboración entre la Iglesia y el Estado, basado en el reconocimiento y respeto de la legítima autonomía de las realidades temporales."
 ---
 # Laicidad positiva
 

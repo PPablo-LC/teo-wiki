@@ -4,7 +4,7 @@ title: Romano Pontífice
 tags: ["eclesiología", "derecho_canónico"]
 
 timestamp: 2026-05-26
-description: El Romano Pontífice, el Papa, es el Obispo de Roma y Sucesor de San Pedro, Cabeza del Colegio Episcopal, Vicario de Cristo y Pastor de toda la Iglesia en la tierra.
+description: "El Romano Pontífice, el Papa, es el Obispo de Roma y Sucesor de San Pedro, Cabeza del Colegio Episcopal, Vicario de Cristo y Pastor de toda la Iglesia en la tierra."
 ---
 # Romano Pontífice
 

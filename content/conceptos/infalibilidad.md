@@ -4,7 +4,7 @@ title: Infalibilidad
 tags: ["eclesiología"]
 
 timestamp: 2026-05-25
-description: La infalibilidad es un carisma (don divino) por el cual la Iglesia, asistida por el Espíritu Santo, es preservada del error cuando enseña definitivamente doctrinas de fe y costumbres.
+description: "La infalibilidad es un carisma (don divino) por el cual la Iglesia, asistida por el Espíritu Santo, es preservada del error cuando enseña definitivamente doctrinas de fe y costumbres."
 ---
 # Infalibilidad
 

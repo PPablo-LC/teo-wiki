@@ -4,7 +4,7 @@ title: Intercesión de los santos
 tags: ["dogmática"]
 
 timestamp: 2026-06-16
-description: Acto por el cual los santos que gozan de la visión beatífica en el cielo interceden ante Dios por los hombres que peregrinan en la tierra.
+description: "Acto por el cual los santos que gozan de la visión beatífica en el cielo interceden ante Dios por los hombres que peregrinan en la tierra."
 ---
 # Intercesión de los santos
 

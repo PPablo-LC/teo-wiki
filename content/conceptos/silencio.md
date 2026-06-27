@@ -4,7 +4,7 @@ title: Silencio
 tags: ["ascética", "moral"]
 
 timestamp: 2026-06-02
-description: El silencio, en la vida espiritual, es la abstención voluntaria de hablar o la suspensión del ruido exterior e interior para disponer el alma a la escucha de Dios y el cultivo de la presencia divina.
+description: "El silencio, en la vida espiritual, es la abstención voluntaria de hablar o la suspensión del ruido exterior e interior para disponer el alma a la escucha de Dios y el cultivo de la presencia divina."
 ---
 # Silencio
 

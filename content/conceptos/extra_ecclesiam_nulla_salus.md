@@ -4,7 +4,7 @@ title: Extra Ecclesiam Nulla Salus
 tags: ["dogmática", "eclesiología"]
 
 timestamp: 2026-05-31
-description: «Extra Ecclesiam nulla salus» (Fuera de la Iglesia no hay salvación) es un axioma teológico que expresa la necesidad de la Iglesia para la salvación.
+description: "«Extra Ecclesiam nulla salus» (Fuera de la Iglesia no hay salvación) es un axioma teológico que expresa la necesidad de la Iglesia para la salvación."
 ---
 # Extra Ecclesiam Nulla Salus
 

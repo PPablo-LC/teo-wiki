@@ -4,7 +4,7 @@ title: Soteriología
 tags: ["dogmática"]
 
 timestamp: 2026-05-29
-description: La soteriología es la parte de la teología dogmática que estudia la obra de la salvación realizada por Jesucristo, considerando su muerte redentora, su resurrección.
+description: "La soteriología es la parte de la teología dogmática que estudia la obra de la salvación realizada por Jesucristo, considerando su muerte redentora, su resurrección."
 ---
 # Soteriología
 

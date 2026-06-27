@@ -4,7 +4,7 @@ title: Como una madre amorosa
 tags: ["documentos"]
 
 timestamp: 2026-06-11
-description: Establece la posibilidad de remoción del oficio eclesiástico para obispos diocesanos, eparcas y superiores mayores por negligencia grave en casos de abuso sexual de menores y adultos vulnerables.
+description: "Establece la posibilidad de remoción del oficio eclesiástico para obispos diocesanos, eparcas y superiores mayores por negligencia grave en casos de abuso sexual de menores y adultos vulnerables."
 ---
 # Como una madre amorosa
 

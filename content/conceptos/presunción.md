@@ -4,7 +4,7 @@ title: Presunción
 tags: ["moral"]
 
 timestamp: 2026-06-11
-description: La presunción es el vicio opuesto a la esperanza por exceso.
+description: "La presunción es el vicio opuesto a la esperanza por exceso."
 ---
 # Presunción
 

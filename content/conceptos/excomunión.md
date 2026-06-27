@@ -4,7 +4,7 @@ title: Excomunión
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-29
-description: La excomunión es la censura o pena medicinal más grave del derecho canónico, que excluye al fiel de la comunión eclesial, prohibiéndole la participación ministerial en la Eucaristía.
+description: "La excomunión es la censura o pena medicinal más grave del derecho canónico, que excluye al fiel de la comunión eclesial, prohibiéndole la participación ministerial en la Eucaristía."
 ---
 # Excomunión
 

@@ -4,7 +4,7 @@ title: Vida oculta de Jesús
 tags: ["cristología"]
 
 timestamp: 2026-06-18
-description: La vida oculta de Jesús es el período comprendido entre su presentación en el templo (Lc 2,22-38) y el comienzo de su vida pública (Lc 3,23).
+description: "La vida oculta de Jesús es el período comprendido entre su presentación en el templo (Lc 2,22-38) y el comienzo de su vida pública (Lc 3,23)."
 ---
 # Vida oculta de Jesús
 

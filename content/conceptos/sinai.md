@@ -4,7 +4,7 @@ title: Sinaí
 tags: ["bíblico"]
 
 timestamp: 2026-06-19
-description: El Sinaí es la montaña donde Dios entregó la Ley a Moisés y manifestó su gloria al pueblo de Israel.
+description: "El Sinaí es la montaña donde Dios entregó la Ley a Moisés y manifestó su gloria al pueblo de Israel."
 ---
 # Sinaí
 

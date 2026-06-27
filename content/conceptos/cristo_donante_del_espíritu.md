@@ -4,7 +4,7 @@ title: Cristo, donante del Espíritu
 tags: ["cristología", "pneumatología"]
 
 timestamp: 2026-06-22
-description: Cristo glorificado, en virtud del misterio pascual, comunica el Espíritu Santo a la Iglesia y a la humanidad, constituyéndose en fuente y dador del Espíritu que procede del Padre y de Él.
+description: "Cristo glorificado, en virtud del misterio pascual, comunica el Espíritu Santo a la Iglesia y a la humanidad, constituyéndose en fuente y dador del Espíritu que procede del Padre y de Él."
 ---
 # Cristo, donante del Espíritu
 

@@ -4,7 +4,7 @@ title: Domicilio canónico
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-25
-description: Residencia estable en el territorio de una parroquia o al menos de una diócesis, unida a la intención de permanecer perpetuamente o prolongada por un quinquenio completo (c. 102 §1).
+description: "Residencia estable en el territorio de una parroquia o al menos de una diócesis, unida a la intención de permanecer perpetuamente o prolongada por un quinquenio completo (c. 102 §1)."
 ---
 # Domicilio canónico
 

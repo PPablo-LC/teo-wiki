@@ -4,7 +4,7 @@ title: Sacramento de vivos
 tags: ["sacramental"]
 
 timestamp: 2026-05-22
-description: Los sacramentos de vivos son aquellos cinco sacramentos — Confirmación, Eucaristía, Unción de los enfermos.
+description: "Los sacramentos de vivos son aquellos cinco sacramentos — Confirmación, Eucaristía, Unción de los enfermos."
 ---
 # Sacramento de vivos
 

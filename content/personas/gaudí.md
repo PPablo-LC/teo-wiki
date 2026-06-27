@@ -4,7 +4,7 @@ title: Antoni Gaudí
 tags: ["personas", "arte_y_cultura"]
 
 timestamp: 2026-06-14
-description: Gaudí fue el máximo exponente de la arquitectura modernista catalana y uno de los arquitectos más originales de la historia.
+description: "Gaudí fue el máximo exponente de la arquitectura modernista catalana y uno de los arquitectos más originales de la historia."
 ---
 # Antoni Gaudí
 

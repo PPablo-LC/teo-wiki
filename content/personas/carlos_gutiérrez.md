@@ -4,7 +4,7 @@ title: Carlos Gutiérrez
 tags: ["personas", "teólogos"]
 
 timestamp: 2026-05-25
-description: P. Carlos Alberto Gutiérrez López, L.C. (Hermosillo, Sonora, México, 1975). Ingeniero industrial y de sistemas por el Instituto Tecnológico de Monterrey.
+description: "P. Carlos Alberto Gutiérrez López, L.C. (Hermosillo, Sonora, México, 1975). Ingeniero industrial y de sistemas por el Instituto Tecnológico de Monterrey."
 ---
 # Carlos Gutiérrez
 

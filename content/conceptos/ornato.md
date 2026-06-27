@@ -4,7 +4,7 @@ title: Ornato
 tags: ["moral"]
 
 timestamp: 2026-06-11
-description: El ornato, en teología moral, es la virtud que modera el uso del vestido y el aparato exterior según la recta razón, adaptándolo a la condición de la persona.
+description: "El ornato, en teología moral, es la virtud que modera el uso del vestido y el aparato exterior según la recta razón, adaptándolo a la condición de la persona."
 ---
 # Ornato
 

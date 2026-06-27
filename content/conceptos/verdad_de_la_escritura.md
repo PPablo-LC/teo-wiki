@@ -4,7 +4,7 @@ title: Verdad de la Escritura
 tags: ["dogmática"]
 
 timestamp: 2026-05-29
-description: La verdad de la Sagrada Escritura es la doctrina católica según la cual Dios es el autor principal de los libros sagrados y, por tanto.
+description: "La verdad de la Sagrada Escritura es la doctrina católica según la cual Dios es el autor principal de los libros sagrados y, por tanto."
 ---
 # Verdad de la Escritura
 

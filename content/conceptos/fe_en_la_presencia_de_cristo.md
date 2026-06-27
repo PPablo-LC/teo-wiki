@@ -4,7 +4,7 @@ title: Fe en la presencia de Cristo
 tags: ["cristología", "vida_espiritual"]
 
 timestamp: 2026-06-22
-description: La fe que Jesús quiere inculcar en los Apóstoles y discípulos en su propia presencia operante y protectora.
+description: "La fe que Jesús quiere inculcar en los Apóstoles y discípulos en su propia presencia operante y protectora."
 ---
 # Fe en la presencia de Cristo
 

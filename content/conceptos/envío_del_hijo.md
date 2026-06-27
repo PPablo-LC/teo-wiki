@@ -4,7 +4,7 @@ title: Envío del Hijo
 tags: ["cristología"]
 
 timestamp: 2026-06-22
-description: El envío del Hijo por el Padre es el acto central del designio salvífico de Dios, por el cual el Verbo eterno, engendrado desde siempre en el seno del Padre.
+description: "El envío del Hijo por el Padre es el acto central del designio salvífico de Dios, por el cual el Verbo eterno, engendrado desde siempre en el seno del Padre."
 ---
 # Envío del Hijo
 

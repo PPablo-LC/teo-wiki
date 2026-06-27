@@ -4,7 +4,7 @@ title: Teodoro de Mopsuestia
 tags: ["historia_—_padres_de_la_iglesia", "herejías"]
 
 timestamp: 2026-06-25
-description: Teodoro fue obispo de Mopsuestia y uno de los principales representantes de la Escuela de Antioquía.
+description: "Teodoro fue obispo de Mopsuestia y uno de los principales representantes de la Escuela de Antioquía."
 ---
 # Teodoro de Mopsuestia
 

@@ -4,7 +4,7 @@ title: Personas vulnerables
 tags: ["derecho_canónico", "moral"]
 
 timestamp: 2026-05-29
-description: Persona que, por su condición física, psíquica o circunstancial, tiene limitada su capacidad de entender, de querer o de resistir la ofensa.
+description: "Persona que, por su condición física, psíquica o circunstancial, tiene limitada su capacidad de entender, de querer o de resistir la ofensa."
 ---
 # Personas vulnerables
 

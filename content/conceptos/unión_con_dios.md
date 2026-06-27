@@ -4,7 +4,7 @@ title: Unión con Dios
 tags: ["mística"]
 
 timestamp: 2026-05-25
-description: La unión con Dios es el estado de íntima comunicación del alma con la Santísima Trinidad por la gracia santificante, que culmina en la unión transformante y el matrimonio espiritual, donde el alma.
+description: "La unión con Dios es el estado de íntima comunicación del alma con la Santísima Trinidad por la gracia santificante, que culmina en la unión transformante y el matrimonio espiritual, donde el alma."
 ---
 # Unión con Dios
 

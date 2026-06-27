@@ -4,7 +4,7 @@ title: Mensaje a los sacerdotes en la Jornada por la Santificación Sacerdotal
 tags: ["documentos"]
 
 timestamp: 2026-06-12
-description: Mensaje del Papa León XIV a los sacerdotes del mundo con motivo de la Jornada por la Santificación Sacerdotal.
+description: "Mensaje del Papa León XIV a los sacerdotes del mundo con motivo de la Jornada por la Santificación Sacerdotal."
 ---
 # Mensaje a los sacerdotes en la Jornada por la Santificación Sacerdotal
 

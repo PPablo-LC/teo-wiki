@@ -4,7 +4,7 @@ title: Redención
 tags: ["dogmática", "soteriología"]
 
 timestamp: 2026-06-20
-description: La Redención es la obra por la cual Jesucristo, el Hijo de Dios hecho hombre, nos libera del pecado y de la muerte mediante su sacrificio en la cruz, reconcilia al hombre con Dios.
+description: "La Redención es la obra por la cual Jesucristo, el Hijo de Dios hecho hombre, nos libera del pecado y de la muerte mediante su sacrificio en la cruz, reconcilia al hombre con Dios."
 ---
 # Redención
 

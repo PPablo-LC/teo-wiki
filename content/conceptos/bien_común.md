@@ -4,7 +4,7 @@ title: Bien común
 tags: ["moral", "eclesiología"]
 
 timestamp: 2026-05-22
-description: El bien común es «el conjunto de aquellas condiciones de la vida social que permiten a los grupos y a cada uno de sus miembros conseguir más plena y fácilmente su propia perfección» (CEC §1906.)
+description: "El bien común es «el conjunto de aquellas condiciones de la vida social que permiten a los grupos y a cada uno de sus miembros conseguir más plena y fácilmente su propia perfección» (CEC §1906.)"
 ---
 # Bien común
 

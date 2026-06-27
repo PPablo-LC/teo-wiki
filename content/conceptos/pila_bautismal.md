@@ -4,7 +4,7 @@ title: Pila bautismal
 tags: ["liturgia", "sacramental"]
 
 timestamp: 2026-05-25
-description: La pila bautismal es el recipiente o fuente de agua bendecida que se utiliza para la administración del sacramento del bautismo, situada en un lugar destacado de la iglesia.
+description: "La pila bautismal es el recipiente o fuente de agua bendecida que se utiliza para la administración del sacramento del bautismo, situada en un lugar destacado de la iglesia."
 ---
 # Pila bautismal
 

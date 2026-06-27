@@ -4,7 +4,7 @@ title: Afabilidad
 tags: ["moral"]
 
 timestamp: 2026-05-22
-description: Virtud moral aneja a la justicia, también llamada amistad, que inclina a tratar a los demás con benevolencia, cortesía y afabilidad en la convivencia social.
+description: "Virtud moral aneja a la justicia, también llamada amistad, que inclina a tratar a los demás con benevolencia, cortesía y afabilidad en la convivencia social."
 ---
 # Afabilidad
 

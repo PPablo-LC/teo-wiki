@@ -4,7 +4,7 @@ title: Adán
 tags: ["dogmática"]
 
 timestamp: 2026-06-02
-description: Primer hombre creado por Dios, padre del género humano según la carne, constituido en estado de santidad y justicia originales.
+description: "Primer hombre creado por Dios, padre del género humano según la carne, constituido en estado de santidad y justicia originales."
 ---
 # Adán
 

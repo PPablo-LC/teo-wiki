@@ -4,7 +4,7 @@ title: Parentesco espiritual
 tags: ["derecho_canónico", "sacramental"]
 
 timestamp: 2026-06-15
-description: Vínculo espiritual que se contrae mediante la recepción de los sacramentos del Bautismo y la Confirmación.
+description: "Vínculo espiritual que se contrae mediante la recepción de los sacramentos del Bautismo y la Confirmación."
 ---
 # Parentesco espiritual
 

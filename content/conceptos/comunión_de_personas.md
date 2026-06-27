@@ -4,7 +4,7 @@ title: comunión de personas
 tags: ["teología_del_cuerpo", "antropología_teológica"]
 
 timestamp: 2026-06-20
-description: La comunión de personas (communio personarum) es la unión interpersonal que se realiza mediante el don recíproco de sí, en la que la persona existe "junto a" otra persona y "para" la otra persona.
+description: "La comunión de personas (communio personarum) es la unión interpersonal que se realiza mediante el don recíproco de sí, en la que la persona existe \"junto a\" otra persona y \"para\" la otra persona."
 ---
 # comunión de personas
 

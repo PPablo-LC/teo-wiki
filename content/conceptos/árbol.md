@@ -4,7 +4,7 @@ title: Árbol
 tags: ["teología_bíblica"]
 
 timestamp: 2026-06-02
-description: El árbol es en la Escritura signo tangible de la fuerza vital del Creador.
+description: "El árbol es en la Escritura signo tangible de la fuerza vital del Creador."
 ---
 # Árbol
 

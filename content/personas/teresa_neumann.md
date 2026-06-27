@@ -4,7 +4,7 @@ title: Teresa Neumann
 tags: ["persona", "hagiografía"]
 
 timestamp: 2026-05-22
-description: Teresa Neumann (1898-1962), mística y estigmatizada alemana, nacida en Konnersreuth (Baviera). Desde joven experimentó graves enfermedades y sufrimientos.
+description: "Teresa Neumann (1898-1962), mística y estigmatizada alemana, nacida en Konnersreuth (Baviera). Desde joven experimentó graves enfermedades y sufrimientos."
 ---
 # Teresa Neumann
 

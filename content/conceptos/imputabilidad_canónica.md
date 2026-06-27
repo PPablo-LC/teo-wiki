@@ -4,7 +4,7 @@ title: Imputabilidad canónica
 tags: ["derecho_canónico"]
 
 timestamp: 2026-06-19
-description: En el derecho canónico, condición jurídica por la cual la violación externa de una ley o precepto penal es atribuible al sujeto por dolo o culpa.
+description: "En el derecho canónico, condición jurídica por la cual la violación externa de una ley o precepto penal es atribuible al sujeto por dolo o culpa."
 ---
 # Imputabilidad canónica
 

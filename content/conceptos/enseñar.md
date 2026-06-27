@@ -4,7 +4,7 @@ title: Enseñar
 tags: ["bíblica", "eclesiología"]
 
 timestamp: 2026-06-02
-description: Transmisión autorizada de la revelación divina en el pueblo de Dios.
+description: "Transmisión autorizada de la revelación divina en el pueblo de Dios."
 ---
 # Enseñar
 

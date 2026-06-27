@@ -4,7 +4,7 @@ title: Agua Viva
 tags: ["sagrada_escritura"]
 
 timestamp: 2026-06-23
-description: El «agua viva» es un símbolo bíblico que designa el don del Espíritu Santo, la gracia divina y la vida eterna que Cristo comunica.
+description: "El «agua viva» es un símbolo bíblico que designa el don del Espíritu Santo, la gracia divina y la vida eterna que Cristo comunica."
 ---
 # Agua Viva
 

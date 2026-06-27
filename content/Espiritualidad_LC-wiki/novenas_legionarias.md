@@ -4,7 +4,7 @@ title: Novenas legionarias
 tags: ["liturgia", "espiritualidad_legionaria", "piedad_popular"]
 
 timestamp: 2026-06-14
-description: Conjunto de novenas prescritas en el Ritual de la Congregación de los Legionarios de Cristo para la preparación de las principales solemnidades del año litúrgico.
+description: "Conjunto de novenas prescritas en el Ritual de la Congregación de los Legionarios de Cristo para la preparación de las principales solemnidades del año litúrgico."
 ---
 # Novenas legionarias
 

@@ -4,7 +4,7 @@ title: Unidad del género humano
 tags: ["antropología_teológica", "doctrina_social"]
 
 timestamp: 2026-06-19
-description: La unidad del género humano es la verdad revelada de que todos los hombres proceden de un solo origen divino, forman una sola familia humana y están llamados a la comunión en Cristo.
+description: "La unidad del género humano es la verdad revelada de que todos los hombres proceden de un solo origen divino, forman una sola familia humana y están llamados a la comunión en Cristo."
 ---
 # Unidad del género humano
 

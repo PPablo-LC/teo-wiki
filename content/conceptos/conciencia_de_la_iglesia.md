@@ -4,7 +4,7 @@ title: Conciencia de la Iglesia
 tags: ["eclesiología"]
 
 timestamp: 2026-06-20
-description: La conciencia de la Iglesia es la autocomprensión que la Iglesia tiene de sí misma como misterio divino, sacramento universal de salvación, Pueblo de Dios y Cuerpo de Cristo.
+description: "La conciencia de la Iglesia es la autocomprensión que la Iglesia tiene de sí misma como misterio divino, sacramento universal de salvación, Pueblo de Dios y Cuerpo de Cristo."
 ---
 # Conciencia de la Iglesia
 

@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Jansenismo
-description: Sistema teológico heterodoxo derivado del Augustinus de Cornelio Jansenio, que exageraba la doctrina de la gracia al negar la voluntad salvífica universal y la libertad humana, condenado por Inocencio X y sucesivos pontífices.
+description: "Sistema teológico heterodoxo derivado del Augustinus de Cornelio Jansenio, que exageraba la doctrina de la gracia al negar la voluntad salvífica universal y la libertad humana, condenado por Inocencio X y sucesivos pontífices."
 tags: ["dogmática", "historia_—_herejías"]
 timestamp: 2026-06-27
 ---

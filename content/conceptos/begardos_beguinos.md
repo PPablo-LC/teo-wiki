@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Begardos y beguinos
-description: Movimiento herético de los siglos XIII-XIV que sostuvo errores sobre el estado de perfección, la impecabilidad y la libertad de la conciencia perfeccionada.
+description: "Movimiento herético de los siglos XIII-XIV que sostuvo errores sobre el estado de perfección, la impecabilidad y la libertad de la conciencia perfeccionada."
 tags: ["ascética", "historia_de_la_iglesia"]
 timestamp: 2026-06-26
 ---

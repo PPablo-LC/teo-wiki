@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Fraticelli
-description: Herejía del siglo XIV que sostuvo la existencia de dos Iglesias (carnal y espiritual), negó la jurisdicción de los sacerdotes y la licitud del juramento, y afirmó que solo ellos vivían el Evangelio.
+description: "Herejía del siglo XIV que sostuvo la existencia de dos Iglesias (carnal y espiritual), negó la jurisdicción de los sacerdotes y la licitud del juramento, y afirmó que solo ellos vivían el Evangelio."
 tags: ["eclesiología", "historia_de_la_iglesia"]
 timestamp: 2026-06-26
 ---

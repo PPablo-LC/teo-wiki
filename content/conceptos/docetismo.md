@@ -4,7 +4,7 @@ title: Docetismo
 tags: ["cristología", "historia_de_la_doctrina"]
 
 timestamp: 2026-06-22
-description: El docetismo (del griego δοκέω, «parecer») es una herejía de los primeros siglos del cristianismo que sostenía que Jesucristo tenía solo una apariencia de hombre, pero no una naturaleza humana real.
+description: "El docetismo (del griego δοκέω, «parecer») es una herejía de los primeros siglos del cristianismo que sostenía que Jesucristo tenía solo una apariencia de hombre, pero no una naturaleza humana real."
 ---
 # Docetismo
 

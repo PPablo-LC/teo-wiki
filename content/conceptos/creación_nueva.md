@@ -4,7 +4,7 @@ title: Creación nueva
 tags: ["dogmática", "soteriología"]
 
 timestamp: 2026-06-22
-description: La obra de la salvación realizada por Jesucristo significa una «creación nueva» (2 Cor 5,17.)
+description: "La obra de la salvación realizada por Jesucristo significa una «creación nueva» (2 Cor 5,17.)"
 ---
 # Creación nueva
 

@@ -4,7 +4,7 @@ title: Promoción humana
 tags: ["doctrina_social"]
 
 timestamp: 2026-05-25
-description: La promoción humana es el proceso de desarrollo integral de la persona en todas sus dimensiones —material, cultural, social y espiritual— como parte constitutiva de la evangelización.
+description: "La promoción humana es el proceso de desarrollo integral de la persona en todas sus dimensiones —material, cultural, social y espiritual— como parte constitutiva de la evangelización."
 ---
 # Promoción humana
 

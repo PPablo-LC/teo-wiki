@@ -4,7 +4,7 @@ title: Lucha espiritual
 tags: ["ascética", "espiritualidad"]
 
 timestamp: 2026-05-22
-description: La lucha espiritual (o combate espiritual) es la realidad de la vida cristiana entendida como un combate continuo contra el pecado, el mundo, el demonio y la propia carne.
+description: "La lucha espiritual (o combate espiritual) es la realidad de la vida cristiana entendida como un combate continuo contra el pecado, el mundo, el demonio y la propia carne."
 ---
 # Lucha espiritual
 

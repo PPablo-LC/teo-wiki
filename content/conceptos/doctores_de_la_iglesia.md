@@ -4,7 +4,7 @@ title: Doctores de la Iglesia
 tags: ["eclesiología_(teología)"]
 
 timestamp: 2026-05-29
-description: Título honorífico concedido por el Papa o por un concilio ecuménico a santos y santas de la Iglesia universal que se han distinguido por su eminente doctrina teológica.
+description: "Título honorífico concedido por el Papa o por un concilio ecuménico a santos y santas de la Iglesia universal que se han distinguido por su eminente doctrina teológica."
 ---
 # Doctores de la Iglesia
 

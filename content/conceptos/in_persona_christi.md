@@ -4,7 +4,7 @@ title: In persona Christi
 tags: ["sacramental", "cristología"]
 
 timestamp: 2026-06-15
-description: Expresión latina que significa «en la persona de Cristo».
+description: "Expresión latina que significa «en la persona de Cristo»."
 ---
 # In persona Christi
 

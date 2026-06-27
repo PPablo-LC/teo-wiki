@@ -4,7 +4,7 @@ title: Fe y vida eterna
 tags: ["dogmática", "soteriología"]
 
 timestamp: 2026-06-22
-description: La fe en Cristo es la condición para alcanzar la vida eterna.
+description: "La fe en Cristo es la condición para alcanzar la vida eterna."
 ---
 # Fe y vida eterna
 

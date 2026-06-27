@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Fornicación
-description: La fornicación es la relación sexual entre un hombre y una mujer solteros, considerada por la Iglesia como pecado grave contra la castidad.
+description: "La fornicación es la relación sexual entre un hombre y una mujer solteros, considerada por la Iglesia como pecado grave contra la castidad."
 tags: ["moral"]
 timestamp: 2026-06-27
 ---

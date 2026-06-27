@@ -4,7 +4,7 @@ title: Creacionismo del alma
 tags: ["dogmática_—_antropología"]
 
 timestamp: 2026-06-25
-description: El creacionismo del alma es la doctrina según la cual cada alma humana es creada directamente por Dios e infundida en el cuerpo en el momento de la concepción, en oposición al traducianismo.
+description: "El creacionismo del alma es la doctrina según la cual cada alma humana es creada directamente por Dios e infundida en el cuerpo en el momento de la concepción, en oposición al traducianismo."
 ---
 # Creacionismo del alma
 

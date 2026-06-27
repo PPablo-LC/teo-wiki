@@ -4,7 +4,7 @@ title: Unción de los enfermos
 tags: ["sacramental"]
 
 timestamp: 2026-06-15
-description: La unción de los enfermos es el sacramento instituido por Cristo nuestro Señor, confiado a la Iglesia por el apóstol Santiago.
+description: "La unción de los enfermos es el sacramento instituido por Cristo nuestro Señor, confiado a la Iglesia por el apóstol Santiago."
 ---
 # Unción de los enfermos
 

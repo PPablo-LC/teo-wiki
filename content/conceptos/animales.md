@@ -4,7 +4,7 @@ title: Animales
 tags: ["creación", "moral"]
 
 timestamp: 2026-06-02
-description: El mundo animal es, en la Escritura, la parte de la creación más próxima al hombre.
+description: "El mundo animal es, en la Escritura, la parte de la creación más próxima al hombre."
 ---
 # Animales
 

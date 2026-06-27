@@ -4,7 +4,7 @@ title: Padres y Padre
 tags: ["dogmática"]
 
 timestamp: 2026-06-02
-description: La Biblia revela que Dios es esencialmente Padre.
+description: "La Biblia revela que Dios es esencialmente Padre."
 ---
 # Padres y Padre
 

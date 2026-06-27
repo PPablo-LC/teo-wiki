@@ -4,7 +4,7 @@ title: Purificaciones Pasivas
 tags: ["mística"]
 
 timestamp: 2026-05-20
-description: Las purificaciones pasivas son la acción purificadora que Dios realiza en el alma para completar lo que el hombre no puede conseguir por sí mismo con la ayuda de la gracia ordinaria.
+description: "Las purificaciones pasivas son la acción purificadora que Dios realiza en el alma para completar lo que el hombre no puede conseguir por sí mismo con la ayuda de la gracia ordinaria."
 ---
 # Purificaciones Pasivas
 

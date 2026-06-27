@@ -4,7 +4,7 @@ title: Recogimiento Interior
 tags: ["ascética", "mística"]
 
 timestamp: 2026-05-29
-description: El recogimiento interior es la concentración de las potencias del alma —entendimiento.
+description: "El recogimiento interior es la concentración de las potencias del alma —entendimiento."
 ---
 # Recogimiento Interior
 

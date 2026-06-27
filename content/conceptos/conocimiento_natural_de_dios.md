@@ -4,7 +4,7 @@ title: Conocimiento natural de Dios
 tags: ["dogmática", "filosofía_teológica"]
 
 timestamp: 2026-05-22
-description: El conocimiento natural de Dios es la capacidad de la razón humana para llegar a la certeza de la existencia de Dios a partir de las cosas creadas, mediante la luz natural de la razón.
+description: "El conocimiento natural de Dios es la capacidad de la razón humana para llegar a la certeza de la existencia de Dios a partir de las cosas creadas, mediante la luz natural de la razón."
 ---
 # Conocimiento natural de Dios
 

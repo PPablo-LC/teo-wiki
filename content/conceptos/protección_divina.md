@@ -4,7 +4,7 @@ title: Protección Divina
 tags: ["dogmática", "providencia"]
 
 timestamp: 2026-06-23
-description: La acción continua de Dios por la cual guarda, preserva y defiende a sus criaturas, especialmente al hombre, de los peligros espirituales y temporales.
+description: "La acción continua de Dios por la cual guarda, preserva y defiende a sus criaturas, especialmente al hombre, de los peligros espirituales y temporales."
 ---
 # Protección Divina
 

@@ -1,7 +1,7 @@
 ---
 type: Persona
 title: Gregorio XI
-description: Papa (1370-1378). Condenó errores eucarísticos de Pedro de Bonageta y Juan de Latone (D-578-580).
+description: "Papa (1370-1378). Condenó errores eucarísticos de Pedro de Bonageta y Juan de Latone (D-578-580)."
 tags: ["historia_—_papado", "papa"]
 timestamp: 2026-06-26
 ---

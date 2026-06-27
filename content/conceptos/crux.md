@@ -4,7 +4,7 @@ title: Crux
 tags: ["dogmática", "espiritualidad"]
 
 timestamp: 2026-06-03
-description: Término latino para «cruz», usado en la tradición cristiana para designar tanto el madero de la crucifixión de Cristo como, por extensión.
+description: "Término latino para «cruz», usado en la tradición cristiana para designar tanto el madero de la crucifixión de Cristo como, por extensión."
 ---
 # Crux
 

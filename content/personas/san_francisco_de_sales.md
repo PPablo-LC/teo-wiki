@@ -4,7 +4,7 @@ title: San Francisco de Sales
 tags: ["persona"]
 
 timestamp: 2026-05-20
-description: Francisco de Sales (1567-1622), obispo de Ginebra, Doctor de la Iglesia. Nacido en el castillo de Sales (Saboya), fue uno de los grandes predicadores y directores espirituales del siglo XVII.
+description: "Francisco de Sales (1567-1622), obispo de Ginebra, Doctor de la Iglesia. Nacido en el castillo de Sales (Saboya), fue uno de los grandes predicadores y directores espirituales del siglo XVII."
 ---
 # San Francisco de Sales
 

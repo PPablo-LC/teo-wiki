@@ -4,7 +4,7 @@ title: Fidelidad a la gracia
 tags: ["ascética", "mística"]
 
 timestamp: 2026-05-20
-description: La fidelidad a la gracia es la lealtad o docilidad en seguir las inspiraciones del Espíritu Santo en cualquier forma que se manifiesten.
+description: "La fidelidad a la gracia es la lealtad o docilidad en seguir las inspiraciones del Espíritu Santo en cualquier forma que se manifiesten."
 ---
 # Fidelidad a la gracia
 

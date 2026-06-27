@@ -4,7 +4,7 @@ title: Oración de recogimiento
 tags: ["mística", "ascética"]
 
 timestamp: 2026-05-22
-description: La oración de recogimiento es el primer grado de contemplación infusa o mística.
+description: "La oración de recogimiento es el primer grado de contemplación infusa o mística."
 ---
 # Oración de recogimiento
 

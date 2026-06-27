@@ -4,7 +4,7 @@ title: Disciplina judicial
 tags: ["derecho_canónico"]
 
 timestamp: 2026-06-19
-description: La disciplina judicial en el derecho canónico es el conjunto de normas que regulan la conducta de los jueces, ministros y auxiliares del tribunal eclesiástico.
+description: "La disciplina judicial en el derecho canónico es el conjunto de normas que regulan la conducta de los jueces, ministros y auxiliares del tribunal eclesiástico."
 ---
 # Disciplina judicial
 

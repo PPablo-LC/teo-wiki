@@ -4,7 +4,7 @@ title: Sagrado Corazón de Jesús
 tags: ["dogmática", "espiritualidad"]
 
 timestamp: 2026-06-12
-description: El Sagrado Corazón de Jesús es el Corazón divino-humano de Cristo, símbolo del amor infinito de Dios por los hombres.
+description: "El Sagrado Corazón de Jesús es el Corazón divino-humano de Cristo, símbolo del amor infinito de Dios por los hombres."
 ---
 # Sagrado Corazón de Jesús
 

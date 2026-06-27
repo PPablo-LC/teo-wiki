@@ -1,7 +1,7 @@
 ---
 type: Persona
 title: Miguel Bayo
-description: Teólogo de Lovaina (1513-1589), cuyas 79 proposiciones sobre gracia y naturaleza fueron condenadas por San Pío V en 1567 como heréticas, erróneas y temerarias.
+description: "Teólogo de Lovaina (1513-1589), cuyas 79 proposiciones sobre gracia y naturaleza fueron condenadas por San Pío V en 1567 como heréticas, erróneas y temerarias."
 tags: ["teólogos", "herejía", "historia_—_teología"]
 timestamp: 2026-06-27
 ---

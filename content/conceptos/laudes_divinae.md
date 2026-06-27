@@ -4,7 +4,7 @@ title: Laudes Divinae
 tags: ["liturgia"]
 
 timestamp: 2026-06-14
-description: Serie de aclamaciones de alabanza a Dios, al Santísimo Sacramento, a la Santísima Virgen y a los santos, compuestas a finales del siglo XVIII como preces de desagravio ante las blasfemias.
+description: "Serie de aclamaciones de alabanza a Dios, al Santísimo Sacramento, a la Santísima Virgen y a los santos, compuestas a finales del siglo XVIII como preces de desagravio ante las blasfemias."
 ---
 # Laudes Divinae
 

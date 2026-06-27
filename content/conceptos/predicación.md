@@ -4,7 +4,7 @@ title: Predicación
 tags: ["pastoral", "eclesiología"]
 
 timestamp: 2026-05-25
-description: Función de los ministros sagrados de anunciar la palabra de Dios al pueblo, mediante la cual el pueblo de Dios se congrega y recibe el Evangelio.
+description: "Función de los ministros sagrados de anunciar la palabra de Dios al pueblo, mediante la cual el pueblo de Dios se congrega y recibe el Evangelio."
 ---
 # Predicación
 

@@ -4,7 +4,7 @@ title: Para Salvarte
 tags: ["documentos"]
 
 timestamp: 2026-06-11
-description: Manual de apologética y catequesis católica con más de 300 citas del Catecismo de la Iglesia Católica.
+description: "Manual de apologética y catequesis católica con más de 300 citas del Catecismo de la Iglesia Católica."
 ---
 # Para Salvarte
 

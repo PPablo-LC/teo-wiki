@@ -1,7 +1,7 @@
 ---
 type: Persona
 title: Juan Wicleff
-description: Hereje inglés, precursor del protestantismo. Condenado por el Concilio de Constanza (45 errores, D-581-625).
+description: "Hereje inglés, precursor del protestantismo. Condenado por el Concilio de Constanza (45 errores, D-581-625)."
 tags: ["herejía", "historia_—_edad_media"]
 timestamp: 2026-06-26
 ---

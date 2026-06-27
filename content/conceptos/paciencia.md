@@ -4,7 +4,7 @@ title: Paciencia
 tags: ["moral"]
 
 timestamp: 2026-06-11
-description: La paciencia es la virtud que inclina a soportar sin tristeza de espíritu ni abatimiento de corazón los padecimientos físicos y morales. Es parte integral de la virtud cardinal de la fortaleza.
+description: "La paciencia es la virtud que inclina a soportar sin tristeza de espíritu ni abatimiento de corazón los padecimientos físicos y morales. Es parte integral de la virtud cardinal de la fortaleza."
 ---
 # Paciencia
 

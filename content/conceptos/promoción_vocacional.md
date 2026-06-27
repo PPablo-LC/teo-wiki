@@ -4,7 +4,7 @@ title: Promoción Vocacional
 tags: ["pastoral", "derecho_canónico"]
 
 timestamp: 2026-05-26
-description: Conjunto de acciones y cuidados pastorales mediante los cuales la Iglesia fomenta, discierne y acompaña las vocaciones al sacerdocio ministerial y a la vida consagrada.
+description: "Conjunto de acciones y cuidados pastorales mediante los cuales la Iglesia fomenta, discierne y acompaña las vocaciones al sacerdocio ministerial y a la vida consagrada."
 ---
 # Promoción Vocacional
 

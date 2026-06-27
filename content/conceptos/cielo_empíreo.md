@@ -4,7 +4,7 @@ title: Cielo empíreo
 tags: ["dogmática_(angelología_—_cosmología)"]
 
 timestamp: 2026-06-03
-description: El cielo empíreo es el cielo supremo o ígneo, la parte más elevada de la criatura corpórea.
+description: "El cielo empíreo es el cielo supremo o ígneo, la parte más elevada de la criatura corpórea."
 ---
 # Cielo empíreo
 

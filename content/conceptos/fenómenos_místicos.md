@@ -4,7 +4,7 @@ title: Fenómenos Místicos Extraordinarios
 tags: ["mística"]
 
 timestamp: 2026-05-20
-description: Conjunto de fenómenos extraordinarios que suelen presentarse en la vida de los grandes místicos experimentales.
+description: "Conjunto de fenómenos extraordinarios que suelen presentarse en la vida de los grandes místicos experimentales."
 ---
 # Fenómenos Místicos Extraordinarios
 

@@ -4,7 +4,7 @@ title: Atributos divinos
 tags: ["dogmática"]
 
 timestamp: 2026-05-26
-description: Los atributos divinos son las perfecciones que la razón humana, iluminada por la fe, descubre y predica de Dios como realmente idénticas a su esencia, aunque conceptualmente distintas.
+description: "Los atributos divinos son las perfecciones que la razón humana, iluminada por la fe, descubre y predica de Dios como realmente idénticas a su esencia, aunque conceptualmente distintas."
 ---
 # Atributos divinos
 

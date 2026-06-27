@@ -4,7 +4,7 @@ title: Concepción virginal
 tags: ["dogmática"]
 
 timestamp: 2026-05-22
-description: La concepción virginal de Jesús es la verdad de fe según la cual Jesús fue concebido en el seno de la Virgen María únicamente por el poder del Espíritu Santo, sin intervención de varón.
+description: "La concepción virginal de Jesús es la verdad de fe según la cual Jesús fue concebido en el seno de la Virgen María únicamente por el poder del Espíritu Santo, sin intervención de varón."
 ---
 # Concepción virginal
 

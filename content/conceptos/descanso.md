@@ -4,7 +4,7 @@ title: Descanso
 tags: ["moral"]
 
 timestamp: 2026-05-26
-description: El descanso dominical es el precepto de santificar el domingo, día del Señor, absteniéndose de trabajos serviles y dedicando el tiempo al culto divino, a la vida familiar y al descanso necesario.
+description: "El descanso dominical es el precepto de santificar el domingo, día del Señor, absteniéndose de trabajos serviles y dedicando el tiempo al culto divino, a la vida familiar y al descanso necesario."
 ---
 # Descanso
 

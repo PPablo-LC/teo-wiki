@@ -4,7 +4,7 @@ title: Liturgia de la Palabra
 tags: ["liturgia"]
 
 timestamp: 2026-06-03
-description: Parte de la Misa en la que se proclaman y escuchan las lecturas bíblicas (Antiguo Testamento, Salmo responsorial, Epístola, Evangelio), seguidas de la homilía, el Credo y la Oración universal.
+description: "Parte de la Misa en la que se proclaman y escuchan las lecturas bíblicas (Antiguo Testamento, Salmo responsorial, Epístola, Evangelio), seguidas de la homilía, el Credo y la Oración universal."
 ---
 # Liturgia de la Palabra
 

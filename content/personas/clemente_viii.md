@@ -1,7 +1,7 @@
 ---
 type: Persona
 title: Clemente VIII
-description: Papa (1592-1605), absolvió a Enrique IV de Francia, presidió la Congregación de Auxiliis y emitió decretos sobre sacramentos y disciplina eclesiástica.
+description: "Papa (1592-1605), absolvió a Enrique IV de Francia, presidió la Congregación de Auxiliis y emitió decretos sobre sacramentos y disciplina eclesiástica."
 tags: ["papas", "historia_—_papado"]
 timestamp: 2026-06-27
 ---

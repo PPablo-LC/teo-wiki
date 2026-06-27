@@ -2,7 +2,7 @@
 type: Análisis Doctrinal
 title: "Kevin Mulaney — Prudence and Making Decisions: Análisis doctrinal"
 timestamp: 2026-06-03
-description: Conferencia del oficial de submarinos Kevin Mulaney en la Catholic Men's Conference 2022.
+description: "Conferencia del oficial de submarinos Kevin Mulaney en la Catholic Men's Conference 2022."
 ---
 # Kevin Mulaney — Prudence and Making Decisions: Análisis doctrinal
 

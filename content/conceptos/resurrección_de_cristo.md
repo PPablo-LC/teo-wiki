@@ -4,7 +4,7 @@ title: Resurrección de Cristo
 tags: ["cristología", "dogmática"]
 
 timestamp: 2026-06-20
-description: Vuelta de Jesucristo a la vida gloriosa al tercer día de su muerte, por su propio poder y por obra del Espíritu Santo. Es el fundamento de la fe cristiana y la garantía de nuestra propia resurrección.
+description: "Vuelta de Jesucristo a la vida gloriosa al tercer día de su muerte, por su propio poder y por obra del Espíritu Santo. Es el fundamento de la fe cristiana y la garantía de nuestra propia resurrección."
 ---
 # Resurrección de Cristo
 

@@ -4,7 +4,7 @@ title: Vida contemplativa
 tags: ["ascética", "mística"]
 
 timestamp: 2026-05-26
-description: Estado de vida consagrada total y permanentemente a la oración, la alabanza divina y la penitencia, en clausura, separado del mundo, como anticipación del gozo eterno.
+description: "Estado de vida consagrada total y permanentemente a la oración, la alabanza divina y la penitencia, en clausura, separado del mundo, como anticipación del gozo eterno."
 ---
 # Vida contemplativa
 

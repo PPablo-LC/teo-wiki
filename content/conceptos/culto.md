@@ -4,7 +4,7 @@ title: Culto
 tags: ["moral", "dogmática"]
 
 timestamp: 2026-06-02
-description: El culto es el reconocimiento y la honoración debidos a Dios como Creador y Señor supremo, expresados mediante actos internos (adoración, oración) y externos (sacrificio, ritos, votos).
+description: "El culto es el reconocimiento y la honoración debidos a Dios como Creador y Señor supremo, expresados mediante actos internos (adoración, oración) y externos (sacrificio, ritos, votos)."
 ---
 # Culto
 

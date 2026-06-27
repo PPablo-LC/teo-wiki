@@ -4,7 +4,7 @@ title: Perfume Sobrenatural
 tags: ["mística"]
 
 timestamp: 2026-05-20
-description: Fenómeno conocido técnicamente como osmogenesia.
+description: "Fenómeno conocido técnicamente como osmogenesia."
 ---
 # Perfume Sobrenatural
 

@@ -4,7 +4,7 @@ title: Dirección espiritual
 tags: ["ascética", "mística"]
 
 timestamp: 2026-06-14
-description: La dirección espiritual es el arte de conducir las almas progresivamente desde los comienzos de la vida espiritual hasta las cumbres de la perfección cristiana (n.671).
+description: "La dirección espiritual es el arte de conducir las almas progresivamente desde los comienzos de la vida espiritual hasta las cumbres de la perfección cristiana (n.671)."
 ---
 # Dirección espiritual
 

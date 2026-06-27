@@ -4,7 +4,7 @@ title: San Pablo
 tags: ["hagiografía"]
 
 timestamp: 2026-06-03
-description: San Pablo de Tarso (c. 5-67 d.C.), originalmente Saulo, fariseo de la tribu de Benjamín y ciudadano romano.
+description: "San Pablo de Tarso (c. 5-67 d.C.), originalmente Saulo, fariseo de la tribu de Benjamín y ciudadano romano."
 ---
 # San Pablo
 

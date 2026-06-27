@@ -4,7 +4,7 @@ title: Lavatorio de los pies
 tags: ["sacramental", "cristología", "moral"]
 
 timestamp: 2026-06-23
-description: El lavatorio de los pies es el gesto profético realizado por Jesucristo durante la Última Cena, narrado exclusivamente en el Evangelio de Juan (Jn 13,1-20).
+description: "El lavatorio de los pies es el gesto profético realizado por Jesucristo durante la Última Cena, narrado exclusivamente en el Evangelio de Juan (Jn 13,1-20)."
 ---
 # Lavatorio de los pies
 

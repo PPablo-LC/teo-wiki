@@ -4,7 +4,7 @@ title: Judío
 tags: ["bíblica", "eclesiología"]
 
 timestamp: 2026-06-02
-description: Judío es el miembro del pueblo de la antigua Alianza, descendiente de Judá y, por extensión, de todo Israel.
+description: "Judío es el miembro del pueblo de la antigua Alianza, descendiente de Judá y, por extensión, de todo Israel."
 ---
 # Judío
 

@@ -4,7 +4,7 @@ title: Excelencia
 tags: ["ascética", "moral"]
 
 timestamp: 2026-06-03
-description: En el contexto de la vida cristiana, la excelencia es la búsqueda de la perfección moral y espiritual mediante la práctica heroica de las virtudes.
+description: "En el contexto de la vida cristiana, la excelencia es la búsqueda de la perfección moral y espiritual mediante la práctica heroica de las virtudes."
 ---
 # Excelencia
 

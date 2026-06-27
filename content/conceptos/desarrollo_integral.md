@@ -4,7 +4,7 @@ title: Desarrollo integral
 tags: ["doctrina_social"]
 
 timestamp: 2026-05-25
-description: El desarrollo integral es aquel que abarca al hombre entero y a todos los hombres, promoviendo el crecimiento de toda la persona en todas sus dimensiones —material, cultural.
+description: "El desarrollo integral es aquel que abarca al hombre entero y a todos los hombres, promoviendo el crecimiento de toda la persona en todas sus dimensiones —material, cultural."
 ---
 # Desarrollo integral
 

@@ -4,7 +4,7 @@ title: Escuela
 tags: ["educación", "derecho_canónico"]
 
 timestamp: 2026-05-25
-description: Institución educativa que constituye una ayuda primordial para los padres en el cumplimiento de su deber de educar a los hijos.
+description: "Institución educativa que constituye una ayuda primordial para los padres en el cumplimiento de su deber de educar a los hijos."
 ---
 # Escuela
 

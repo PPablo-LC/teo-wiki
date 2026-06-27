@@ -4,7 +4,7 @@ title: Cielos nuevos y tierra nueva
 tags: ["escatología"]
 
 timestamp: 2026-06-16
-description: Estado final de la creación después del [[juicio_final]], cuando Dios renueve todas las cosas en Cristo. Es la consumación del [[reino_de_dios]] y la plena realización del designio salvífico divino.
+description: "Estado final de la creación después del [[juicio_final]], cuando Dios renueve todas las cosas en Cristo. Es la consumación del [[reino_de_dios]] y la plena realización del designio salvífico divino."
 ---
 # Cielos nuevos y tierra nueva
 

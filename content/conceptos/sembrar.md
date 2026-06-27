@@ -4,7 +4,7 @@ title: Sembrar
 tags: ["moral", "escatología"]
 
 timestamp: 2026-06-02
-description: Sembrar es una metáfora bíblica fundamental que designa la acción de Dios que siembra su Palabra en el mundo y la respuesta del hombre que obra según el Reino.
+description: "Sembrar es una metáfora bíblica fundamental que designa la acción de Dios que siembra su Palabra en el mundo y la respuesta del hombre que obra según el Reino."
 ---
 # Sembrar
 

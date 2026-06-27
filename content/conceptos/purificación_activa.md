@@ -4,7 +4,7 @@ title: Purificación Activa
 tags: ["ascética"]
 
 timestamp: 2026-05-20
-description: La purificación activa es el esfuerzo que el alma, con la ayuda de la gracia, realiza para purificarse de sus imperfecciones, desórdenes y malas inclinaciones, cooperando con la acción divina.
+description: "La purificación activa es el esfuerzo que el alma, con la ayuda de la gracia, realiza para purificarse de sus imperfecciones, desórdenes y malas inclinaciones, cooperando con la acción divina."
 ---
 # Purificación Activa
 

@@ -4,7 +4,7 @@ title: Conciencia
 tags: ["moral"]
 
 timestamp: 2026-06-04
-description: La conciencia es el juicio de la razón práctica por el que la persona humana reconoce la cualidad moral de un acto concreto.
+description: "La conciencia es el juicio de la razón práctica por el que la persona humana reconoce la cualidad moral de un acto concreto."
 ---
 # Conciencia
 

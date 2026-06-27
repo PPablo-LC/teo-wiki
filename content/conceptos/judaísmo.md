@@ -4,7 +4,7 @@ title: Judaísmo
 tags: ["eclesiología", "diálogo_interreligioso"]
 
 timestamp: 2026-05-29
-description: El judaísmo es la religión del pueblo judío, fundada en la Alianza de Dios con Abraham y renovada en el Sinaí mediante Moisés.
+description: "El judaísmo es la religión del pueblo judío, fundada en la Alianza de Dios con Abraham y renovada en el Sinaí mediante Moisés."
 ---
 # Judaísmo
 

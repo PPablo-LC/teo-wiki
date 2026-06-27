@@ -4,7 +4,7 @@ title: Crecimiento
 tags: ["teología_espiritual", "escatología"]
 
 timestamp: 2026-06-02
-description: Proceso por el cual la vida —física, espiritual, eclesial— se desarrolla hacia su plenitud bajo la acción soberana de Dios.
+description: "Proceso por el cual la vida —física, espiritual, eclesial— se desarrolla hacia su plenitud bajo la acción soberana de Dios."
 ---
 # Crecimiento
 

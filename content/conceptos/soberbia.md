@@ -4,7 +4,7 @@ title: Soberbia
 tags: ["moral"]
 
 timestamp: 2026-06-11
-description: La soberbia es el apetito desordenado de la propia excelencia.
+description: "La soberbia es el apetito desordenado de la propia excelencia."
 ---
 # Soberbia
 

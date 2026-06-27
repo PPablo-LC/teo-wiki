@@ -4,7 +4,7 @@ title: Contumacia
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-25
-description: La contumacia es la actitud de persistencia obstinada del reo en la voluntad de delinquir, que constituye el presupuesto indispensable para la imposición de las censuras.
+description: "La contumacia es la actitud de persistencia obstinada del reo en la voluntad de delinquir, que constituye el presupuesto indispensable para la imposición de las censuras."
 ---
 # Contumacia
 

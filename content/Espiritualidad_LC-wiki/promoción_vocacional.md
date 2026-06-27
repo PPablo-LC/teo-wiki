@@ -4,7 +4,7 @@ title: Promoción vocacional
 tags: ["espiritualidad", "pastoral"]
 
 timestamp: 2026-06-13
-description: La promoción vocacional es la acción eclesial por la cual la comunidad cristiana, cooperando con la gracia, suscita.
+description: "La promoción vocacional es la acción eclesial por la cual la comunidad cristiana, cooperando con la gracia, suscita."
 ---
 # Promoción vocacional
 

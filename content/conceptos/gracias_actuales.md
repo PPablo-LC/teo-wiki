@@ -4,7 +4,7 @@ title: Gracias Actuales
 tags: ["dogmática", "moral"]
 
 timestamp: 2026-05-21
-description: Las gracias actuales son auxilios sobrenaturales transitorios que Dios concede al alma para iluminar el entendimiento y mover la voluntad a obrar el bien sobrenatural.
+description: "Las gracias actuales son auxilios sobrenaturales transitorios que Dios concede al alma para iluminar el entendimiento y mover la voluntad a obrar el bien sobrenatural."
 ---
 # Gracias Actuales
 

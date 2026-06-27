@@ -4,7 +4,7 @@ title: Sacerdocio bautismal
 tags: ["sacramental", "eclesiología"]
 
 timestamp: 2026-05-22
-description: El sacerdocio bautismal (o sacerdocio común de los fieles) es la participación en el único sacerdocio de Jesucristo que reciben todos los bautizados por el carácter sacramental del Bautismo y la...
+description: "El sacerdocio bautismal (o sacerdocio común de los fieles) es la participación en el único sacerdocio de Jesucristo que reciben todos los bautizados por el carácter sacramental del Bautismo y la..."
 ---
 # Sacerdocio bautismal
 

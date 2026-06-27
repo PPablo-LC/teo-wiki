@@ -4,7 +4,7 @@ title: Cremación
 tags: ["escatología", "derecho_canónico"]
 
 timestamp: 2026-05-26
-description: La cremación es la práctica funeraria consistente en la incineración del cadáver humano.
+description: "La cremación es la práctica funeraria consistente en la incineración del cadáver humano."
 ---
 # Cremación
 

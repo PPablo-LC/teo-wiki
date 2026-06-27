@@ -4,7 +4,7 @@ title: Juan III
 tags: ["historia_—_papado"]
 
 timestamp: 2026-06-25
-description: Juan III fue papa durante un período de inestabilidad en Italia. Los lombardos invadieron la península, y el papa hubo de navegar entre las autoridades bizantinas y los invasores germánicos.
+description: "Juan III fue papa durante un período de inestabilidad en Italia. Los lombardos invadieron la península, y el papa hubo de navegar entre las autoridades bizantinas y los invasores germánicos."
 ---
 # Juan III
 

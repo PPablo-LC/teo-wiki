@@ -4,7 +4,7 @@ title: Opción fundamental
 tags: ["moral_fundamental"]
 
 timestamp: 2026-06-20
-description: La opción fundamental es la actitud radical de fe y entrega a Dios que fundamenta la vida moral del creyente, expresando la orientación básica de la persona hacia Dios o, por el contrario.
+description: "La opción fundamental es la actitud radical de fe y entrega a Dios que fundamenta la vida moral del creyente, expresando la orientación básica de la persona hacia Dios o, por el contrario."
 ---
 # Opción fundamental
 

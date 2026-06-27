@@ -4,7 +4,7 @@ title: Pasiones
 tags: ["moral"]
 
 timestamp: 2026-06-12
-description: Las pasiones son movimientos del apetito sensitivo que siguen a la aprehensión de los sentidos y que inclinan al hombre hacia el bien sensible o le apartan del mal sensible.
+description: "Las pasiones son movimientos del apetito sensitivo que siguen a la aprehensión de los sentidos y que inclinan al hombre hacia el bien sensible o le apartan del mal sensible."
 ---
 # Pasiones
 

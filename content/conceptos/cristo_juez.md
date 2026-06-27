@@ -4,7 +4,7 @@ title: Cristo Juez
 tags: ["dogmática", "escatología"]
 
 timestamp: 2026-06-16
-description: Cristo, en cuanto hombre, fue constituido por Dios como juez de vivos y muertos, potestad que mereció por su pasión y que ejercerá plenamente en el Juicio final.
+description: "Cristo, en cuanto hombre, fue constituido por Dios como juez de vivos y muertos, potestad que mereció por su pasión y que ejercerá plenamente en el Juicio final."
 ---
 # Cristo Juez
 

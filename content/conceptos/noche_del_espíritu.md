@@ -4,7 +4,7 @@ title: Noche del Espíritu
 tags: ["mística"]
 
 timestamp: 2026-05-22
-description: La noche del espíritu es la segunda y más profunda de las purificaciones pasivas descritas por San Juan de la Cruz.
+description: "La noche del espíritu es la segunda y más profunda de las purificaciones pasivas descritas por San Juan de la Cruz."
 ---
 # Noche del Espíritu
 

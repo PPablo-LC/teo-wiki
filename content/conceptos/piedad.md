@@ -4,7 +4,7 @@ title: Piedad
 tags: ["ascética", "moral"]
 
 timestamp: 2026-06-10
-description: Virtud que inclina a tributar a Dios el culto debido y a honrar a los padres y a la patria (piedad filial).
+description: "Virtud que inclina a tributar a Dios el culto debido y a honrar a los padres y a la patria (piedad filial)."
 ---
 # Piedad
 

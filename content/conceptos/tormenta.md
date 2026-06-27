@@ -4,7 +4,7 @@ title: Tormenta
 tags: ["escritura", "simbología_bíblica"]
 
 timestamp: 2026-06-02
-description: La tormenta en la Biblia es una teofanía que manifiesta el poder de Dios sobre la naturaleza y su intervención en la historia.
+description: "La tormenta en la Biblia es una teofanía que manifiesta el poder de Dios sobre la naturaleza y su intervención en la historia."
 ---
 # Tormenta
 

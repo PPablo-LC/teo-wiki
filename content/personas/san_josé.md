@@ -4,7 +4,7 @@ title: San José
 tags: ["hagiografía"]
 
 timestamp: 2026-05-26
-description: San José es el esposo virginal de la Santísima Virgen María y padre legal (putativo) de Jesucristo. Descendiente de la casa de David, fue el custodio del Redentor y jefe de la Sagrada Familia.
+description: "San José es el esposo virginal de la Santísima Virgen María y padre legal (putativo) de Jesucristo. Descendiente de la casa de David, fue el custodio del Redentor y jefe de la Sagrada Familia."
 ---
 # San José
 

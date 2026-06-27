@@ -4,7 +4,7 @@ title: Instrucción
 tags: ["derecho_canónico"]
 
 timestamp: 2026-06-19
-description: Acto de la potestad ejecutiva por el cual se aclaran las prescripciones de las leyes y se desarrollan y determinan las formas en que ha de ejecutarse la ley.
+description: "Acto de la potestad ejecutiva por el cual se aclaran las prescripciones de las leyes y se desarrollan y determinan las formas en que ha de ejecutarse la ley."
 ---
 # Instrucción
 

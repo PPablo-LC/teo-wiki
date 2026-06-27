@@ -4,7 +4,7 @@ title: Penitencia canónica
 tags: ["sacramental", "derecho_canónico"]
 
 timestamp: 2026-05-25
-description: La penitencia canónica es la satisfacción saludable y conveniente que el confesor impone al penitente en el sacramento de la penitencia.
+description: "La penitencia canónica es la satisfacción saludable y conveniente que el confesor impone al penitente en el sacramento de la penitencia."
 ---
 # Penitencia canónica
 

@@ -4,7 +4,7 @@ title: Nota doctrinal sobre emociones y fe
 tags: ["documentos"]
 
 timestamp: 2026-06-11
-description: Desarrolla la relación entre emociones y fe a partir del lema cardenalicio de San Juan Enrique Newman.
+description: "Desarrolla la relación entre emociones y fe a partir del lema cardenalicio de San Juan Enrique Newman."
 ---
 # Nota doctrinal sobre emociones y fe
 

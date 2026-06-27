@@ -4,7 +4,7 @@ title: Detracción
 tags: ["moral"]
 
 timestamp: 2026-06-09
-description: La detracción —también llamada murmuración— es la revelación de faltas verdaderas pero ocultas del prójimo, sin causa proporcionada, a personas que no tienen derecho a conocerlas.
+description: "La detracción —también llamada murmuración— es la revelación de faltas verdaderas pero ocultas del prójimo, sin causa proporcionada, a personas que no tienen derecho a conocerlas."
 ---
 # Detracción
 

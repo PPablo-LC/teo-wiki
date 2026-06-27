@@ -4,7 +4,7 @@ title: Razón Natural
 tags: ["antropología", "filosofía"]
 
 timestamp: 2026-05-22
-description: La capacidad natural del entendimiento humano para conocer la verdad, incluida la existencia de Dios, mediante el uso de sus facultades cognoscitivas naturales.
+description: "La capacidad natural del entendimiento humano para conocer la verdad, incluida la existencia de Dios, mediante el uso de sus facultades cognoscitivas naturales."
 ---
 # Razón Natural
 

@@ -4,7 +4,7 @@ title: Mariología
 tags: ["dogmática"]
 
 timestamp: 2026-05-29
-description: La mariología es la parte de la teología dogmática que estudia la persona, los privilegios y la misión de la Santísima Virgen María en la economía de la salvación.
+description: "La mariología es la parte de la teología dogmática que estudia la persona, los privilegios y la misión de la Santísima Virgen María en la economía de la salvación."
 ---
 # Mariología
 

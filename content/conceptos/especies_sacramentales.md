@@ -4,7 +4,7 @@ title: Especies sacramentales
 tags: ["dogmática", "sacramental"]
 
 timestamp: 2026-06-15
-description: Las especies sacramentales son las apariencias del pan y del vino que, después de la consagración en la Santa Misa.
+description: "Las especies sacramentales son las apariencias del pan y del vino que, después de la consagración en la Santa Misa."
 ---
 # Especies sacramentales
 

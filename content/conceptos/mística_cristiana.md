@@ -4,7 +4,7 @@ title: Mística cristiana
 tags: ["mística", "teología_espiritual"]
 
 timestamp: 2026-06-21
-description: La mística cristiana es la experiencia de unión con Dios Trinidad, obra del Espíritu Santo mediante los dones infusos, que culmina en la unión transformante o matrimonio espiritual.
+description: "La mística cristiana es la experiencia de unión con Dios Trinidad, obra del Espíritu Santo mediante los dones infusos, que culmina en la unión transformante o matrimonio espiritual."
 ---
 # Mística cristiana
 

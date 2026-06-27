@@ -4,7 +4,7 @@ title: Santa Catalina de Siena
 tags: ["personas", "santas"]
 
 timestamp: 2026-06-23
-description: Catalina de Siena (1347–1380), virgen, mística, doctora de la Iglesia, copatrona de Europa y de Italia.
+description: "Catalina de Siena (1347–1380), virgen, mística, doctora de la Iglesia, copatrona de Europa y de Italia."
 ---
 # Santa Catalina de Siena
 

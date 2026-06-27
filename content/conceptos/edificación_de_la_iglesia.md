@@ -4,7 +4,7 @@ title: Edificación de la Iglesia
 tags: ["eclesiología"]
 
 timestamp: 2026-05-22
-description: La edificación de la Iglesia es el proceso continuo de crecimiento y perfeccionamiento del Cuerpo Místico de Cristo, realizado por el Espíritu Santo mediante los sacramentos, la Palabra de Dios.
+description: "La edificación de la Iglesia es el proceso continuo de crecimiento y perfeccionamiento del Cuerpo Místico de Cristo, realizado por el Espíritu Santo mediante los sacramentos, la Palabra de Dios."
 ---
 # Edificación de la Iglesia
 

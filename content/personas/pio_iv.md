@@ -3,7 +3,7 @@ type: Persona
 title: Pío IV
 tags: ["papas", "historia_—_papado"]
 timestamp: 2026-06-27
-description: Papa número 224 de la Iglesia Católica (1559-1565). Presidió la conclusión del Concilio de Trento y promulgó la Profesión de Fe Tridentina.
+description: "Papa número 224 de la Iglesia Católica (1559-1565). Presidió la conclusión del Concilio de Trento y promulgó la Profesión de Fe Tridentina."
 ---
 
 # Pío IV

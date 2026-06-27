@@ -4,7 +4,7 @@ title: Lepra
 tags: ["bíblica", "simbología"]
 
 timestamp: 2026-06-02
-description: En la Biblia, la lepra designa diversas afecciones cutáneas consideradas impureza contagiosa que excluye al enfermo de la comunidad.
+description: "En la Biblia, la lepra designa diversas afecciones cutáneas consideradas impureza contagiosa que excluye al enfermo de la comunidad."
 ---
 # Lepra
 

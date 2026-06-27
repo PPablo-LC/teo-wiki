@@ -4,7 +4,7 @@ title: Naturaleza angélica
 tags: ["dogmática_(angelología)"]
 
 timestamp: 2026-06-03
-description: La naturaleza angélica es la esencia de las criaturas puramente espirituales, que son formas subsistentes inmateriales, compuestas de esencia y existencia —no de materia y forma—.
+description: "La naturaleza angélica es la esencia de las criaturas puramente espirituales, que son formas subsistentes inmateriales, compuestas de esencia y existencia —no de materia y forma—."
 ---
 # Naturaleza angélica
 

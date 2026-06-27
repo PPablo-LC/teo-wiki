@@ -4,7 +4,7 @@ title: Espíritu Santo en Cristo
 tags: ["cristología", "pneumatología"]
 
 timestamp: 2026-06-22
-description: Presencia y acción del Espíritu Santo en toda la vida y misión de Jesucristo, desde su concepción virginal hasta su resurrección y glorificación.
+description: "Presencia y acción del Espíritu Santo en toda la vida y misión de Jesucristo, desde su concepción virginal hasta su resurrección y glorificación."
 ---
 # Espíritu Santo en Cristo
 

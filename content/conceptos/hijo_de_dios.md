@@ -4,7 +4,7 @@ title: Hijo de Dios
 tags: ["cristología", "dogmática"]
 
 timestamp: 2026-06-22
-description: Título propio de Jesucristo que expresa su filiación divina natural y sustancial respecto del Padre, en sentido unívoco y no metafórico.
+description: "Título propio de Jesucristo que expresa su filiación divina natural y sustancial respecto del Padre, en sentido unívoco y no metafórico."
 ---
 # Hijo de Dios
 

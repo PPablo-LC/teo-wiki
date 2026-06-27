@@ -4,7 +4,7 @@ title: Precaución
 tags: ["moral"]
 
 timestamp: 2026-05-26
-description: La precaución es una virtud potencial o aneja a la prudencia, que tiene por objeto prever y evitar los obstáculos y peligros que pueden impedir la recta consecución del fin.
+description: "La precaución es una virtud potencial o aneja a la prudencia, que tiene por objeto prever y evitar los obstáculos y peligros que pueden impedir la recta consecución del fin."
 ---
 # Precaución
 

@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Encarnación
-description: El misterio por el cual el Verbo eterno de Dios asumió la naturaleza humana en el seno de la Virgen María para la salvación del género humano.
+description: "El misterio por el cual el Verbo eterno de Dios asumió la naturaleza humana en el seno de la Virgen María para la salvación del género humano."
 tags: ["dogmática", "cristología"]
 timestamp: 2026-06-26
 ---

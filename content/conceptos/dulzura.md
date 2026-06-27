@@ -4,7 +4,7 @@ title: Dulzura
 tags: ["moral"]
 
 timestamp: 2026-05-22
-description: Virtud o fruto del Espíritu Santo que consiste en una suavidad y amabilidad de trato, procedente de la caridad y del don de piedad, que hace al alma apacible.
+description: "Virtud o fruto del Espíritu Santo que consiste en una suavidad y amabilidad de trato, procedente de la caridad y del don de piedad, que hace al alma apacible."
 ---
 # Dulzura
 

@@ -4,7 +4,7 @@ title: Mujer
 tags: ["antropología_teológica"]
 
 timestamp: 2026-06-18
-description: La mujer, en la antropología cristiana, es la persona humana creada por Dios a su imagen y semejanza (Gn 1,27).
+description: "La mujer, en la antropología cristiana, es la persona humana creada por Dios a su imagen y semejanza (Gn 1,27)."
 ---
 # Mujer
 

@@ -4,7 +4,7 @@ title: Signos del juicio
 tags: ["escatología"]
 
 timestamp: 2026-06-16
-description: Los signos del juicio son las señales extraordinarias que precederán a la segunda venida de Cristo en gloria para juzgar a vivos y muertos.
+description: "Los signos del juicio son las señales extraordinarias que precederán a la segunda venida de Cristo en gloria para juzgar a vivos y muertos."
 ---
 # Signos del juicio
 

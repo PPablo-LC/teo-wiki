@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Sanacion
-description: La accion divina mediante la cual Dios restaura la salud corporal, psiquica o espiritual del ser humano.
+description: "La accion divina mediante la cual Dios restaura la salud corporal, psiquica o espiritual del ser humano."
 ---
 # Sanacion
 

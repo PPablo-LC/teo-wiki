@@ -4,7 +4,7 @@ title: Nestorianismo
 tags: ["dogmática_(cristología)"]
 
 timestamp: 2026-06-24
-description: Herejía cristológica del siglo V que afirma la existencia de dos personas distintas en Cristo —una divina y otra humana— separando la unión hipostática.
+description: "Herejía cristológica del siglo V que afirma la existencia de dos personas distintas en Cristo —una divina y otra humana— separando la unión hipostática."
 ---
 # Nestorianismo
 

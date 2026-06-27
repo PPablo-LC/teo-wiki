@@ -4,7 +4,7 @@ title: Comunión trinitaria
 tags: ["dogmática_(trinidad)"]
 
 timestamp: 2026-06-22
-description: Relación eterna e inmanente de amor y conocimiento entre las tres Personas divinas —Padre, Hijo y Espíritu Santo— que constituyen la unidad de la vida divina en la distinción personal.
+description: "Relación eterna e inmanente de amor y conocimiento entre las tres Personas divinas —Padre, Hijo y Espíritu Santo— que constituyen la unidad de la vida divina en la distinción personal."
 ---
 # Comunión trinitaria
 

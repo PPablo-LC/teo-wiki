@@ -4,7 +4,7 @@ title: Anonadamiento de Cristo
 tags: ["cristología"]
 
 timestamp: 2026-06-22
-description: El anonadamiento de Cristo (kenosis) es el acto por el cual el Verbo divino, sin dejar de ser Dios, se despojó voluntariamente de su gloria y asumió la condición humana.
+description: "El anonadamiento de Cristo (kenosis) es el acto por el cual el Verbo divino, sin dejar de ser Dios, se despojó voluntariamente de su gloria y asumió la condición humana."
 ---
 # Anonadamiento de Cristo
 

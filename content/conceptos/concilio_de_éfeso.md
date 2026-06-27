@@ -4,7 +4,7 @@ title: Concilio de Éfeso
 tags: ["dogmática_(historia_de_la_iglesia)"]
 
 timestamp: 2026-06-19
-description: El Concilio de Éfeso (III Ecuménico, 431 d.C.) fue convocado por el emperador Teodosio II para resolver la controversia nestoriana.
+description: "El Concilio de Éfeso (III Ecuménico, 431 d.C.) fue convocado por el emperador Teodosio II para resolver la controversia nestoriana."
 ---
 # Concilio de Éfeso
 

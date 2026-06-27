@@ -4,7 +4,7 @@ title: Copa
 tags: ["sacramental", "cristología"]
 
 timestamp: 2026-06-02
-description: Símbolo denso de significación teológica en la Escritura.
+description: "Símbolo denso de significación teológica en la Escritura."
 ---
 # Copa
 

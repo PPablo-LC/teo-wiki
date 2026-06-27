@@ -4,7 +4,7 @@ title: Oración de petición
 tags: ["espiritualidad", "ascética"]
 
 timestamp: 2026-05-29
-description: La oración de petición o súplica es la forma de oración por la cual el cristiano eleva su mente a Dios para pedirle los bienes necesarios para la salvación, tanto espirituales como materiales.
+description: "La oración de petición o súplica es la forma de oración por la cual el cristiano eleva su mente a Dios para pedirle los bienes necesarios para la salvación, tanto espirituales como materiales."
 ---
 # Oración de petición
 

@@ -4,7 +4,7 @@ title: Estado de bienestar
 tags: ["doctrina_social"]
 
 timestamp: 2026-05-25
-description: Conjunto de políticas públicas orientadas a garantizar a todos los ciudadanos el acceso a bienes y servicios esenciales para su desarrollo humano, como la salud, la educación.
+description: "Conjunto de políticas públicas orientadas a garantizar a todos los ciudadanos el acceso a bienes y servicios esenciales para su desarrollo humano, como la salud, la educación."
 ---
 # Estado de bienestar
 

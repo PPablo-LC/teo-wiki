@@ -4,7 +4,7 @@ title: Aborto
 tags: ["moral"]
 
 timestamp: 2026-06-27
-description: El aborto es la interrupción deliberada de un embarazo mediante la eliminación del producto de la concepción antes de que sea viable fuera del seno materno.
+description: "El aborto es la interrupción deliberada de un embarazo mediante la eliminación del producto de la concepción antes de que sea viable fuera del seno materno."
 ---
 # Aborto
 

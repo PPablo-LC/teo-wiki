@@ -4,7 +4,7 @@ title: Mundo
 tags: ["ascética"]
 
 timestamp: 2026-05-22
-description: En sentido joánico y ascético, el «mundo» (mundus, kosmos) designa el ambiente anticristiano, el conjunto de máximas, valores y costumbres opuestos al espíritu del Evangelio.
+description: "En sentido joánico y ascético, el «mundo» (mundus, kosmos) designa el ambiente anticristiano, el conjunto de máximas, valores y costumbres opuestos al espíritu del Evangelio."
 ---
 # Mundo
 

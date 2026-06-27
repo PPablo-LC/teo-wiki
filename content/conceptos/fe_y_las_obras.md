@@ -4,7 +4,7 @@ title: Fe y las obras
 tags: ["dogmática", "moral"]
 
 timestamp: 2026-06-03
-description: La relación entre la fe y las obras es una cuestión central en la teología de la justificación.
+description: "La relación entre la fe y las obras es una cuestión central en la teología de la justificación."
 ---
 # Fe y las obras
 

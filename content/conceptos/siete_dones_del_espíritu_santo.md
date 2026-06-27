@@ -4,7 +4,7 @@ title: Siete dones del Espíritu Santo
 tags: ["dogmática", "mística"]
 
 timestamp: 2026-05-22
-description: Los siete dones del Espíritu Santo son hábitos sobrenaturales infundidos por Dios en el alma junto con la gracia santificante y las virtudes infusas.
+description: "Los siete dones del Espíritu Santo son hábitos sobrenaturales infundidos por Dios en el alma junto con la gracia santificante y las virtudes infusas."
 ---
 # Siete dones del Espíritu Santo
 

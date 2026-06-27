@@ -4,7 +4,7 @@ title: Vísperas
 tags: ["liturgia"]
 
 timestamp: 2026-05-26
-description: Hora canónica del Oficio Divino que se celebra al atardecer, como acción de gracias por los dones recibidos durante el día y memorial de la redención de Cristo, constituyendo, junto con Laudes.
+description: "Hora canónica del Oficio Divino que se celebra al atardecer, como acción de gracias por los dones recibidos durante el día y memorial de la redención de Cristo, constituyendo, junto con Laudes."
 ---
 # Vísperas
 

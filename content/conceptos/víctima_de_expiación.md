@@ -4,7 +4,7 @@ title: Víctima de expiación
 tags: ["ascética"]
 
 timestamp: 2026-05-22
-description: Persona que se ofrece voluntariamente a Dios para sufrir y reparar por los pecados propios y ajenos.
+description: "Persona que se ofrece voluntariamente a Dios para sufrir y reparar por los pecados propios y ajenos."
 ---
 # Víctima de expiación
 

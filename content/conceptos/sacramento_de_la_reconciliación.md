@@ -4,7 +4,7 @@ title: Sacramento de la reconciliación
 tags: ["sacramental"]
 
 timestamp: 2026-05-26
-description: El sacramento de la reconciliación (también llamado penitencia o confesión) es el sacramento instituido por Jesucristo para el perdón de los pecados cometidos después del Bautismo.
+description: "El sacramento de la reconciliación (también llamado penitencia o confesión) es el sacramento instituido por Jesucristo para el perdón de los pecados cometidos después del Bautismo."
 ---
 # Sacramento de la reconciliación
 

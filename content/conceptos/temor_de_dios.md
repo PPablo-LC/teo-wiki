@@ -4,7 +4,7 @@ title: Temor de Dios
 tags: ["ascética", "mística"]
 
 timestamp: 2026-05-22
-description: El temor de Dios es uno de los siete dones del Espíritu Santo que perfecciona la virtud de la esperanza, infundiendo en el alma una reverencia filial hacia Dios como Padre.
+description: "El temor de Dios es uno de los siete dones del Espíritu Santo que perfecciona la virtud de la esperanza, infundiendo en el alma una reverencia filial hacia Dios como Padre."
 ---
 # Temor de Dios
 

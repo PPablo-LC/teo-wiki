@@ -4,7 +4,7 @@ title: Hombre nuevo
 tags: ["dogmática", "antropología_teológica"]
 
 timestamp: 2026-06-20
-description: El «hombre nuevo» es el hombre redimido y recreado en Cristo, llamado a la filiación divina por la gracia de la adopción en el Unigénito Hijo de Dios.
+description: "El «hombre nuevo» es el hombre redimido y recreado en Cristo, llamado a la filiación divina por la gracia de la adopción en el Unigénito Hijo de Dios."
 ---
 # Hombre nuevo
 

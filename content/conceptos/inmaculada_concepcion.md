@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Inmaculada Concepción
-description: Privilegio por el que la Santísima Virgen María fue preservada inmune de toda mancha de pecado original desde el primer instante de su concepción.
+description: "Privilegio por el que la Santísima Virgen María fue preservada inmune de toda mancha de pecado original desde el primer instante de su concepción."
 tags: ["dogmática", "mariología"]
 timestamp: 2026-06-27
 ---

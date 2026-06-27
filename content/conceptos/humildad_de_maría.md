@@ -4,7 +4,7 @@ title: Humildad de María
 tags: ["mariología"]
 
 timestamp: 2026-06-03
-description: La humildad de la Santísima Virgen María es la virtud por la cual, siendo la criatura más excelsa después de Cristo.
+description: "La humildad de la Santísima Virgen María es la virtud por la cual, siendo la criatura más excelsa después de Cristo."
 ---
 # Humildad de María
 

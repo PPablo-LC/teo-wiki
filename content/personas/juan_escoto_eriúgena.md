@@ -4,7 +4,7 @@ title: Juan Escoto Eriúgena
 tags: ["historia_—_filosofía", "teología"]
 
 timestamp: 2026-06-25
-description: Juan Escoto Eriúgena fue un filósofo y teólogo irlandés al servicio de Carlos el Calvo.
+description: "Juan Escoto Eriúgena fue un filósofo y teólogo irlandés al servicio de Carlos el Calvo."
 ---
 # Juan Escoto Eriúgena
 

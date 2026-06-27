@@ -1,7 +1,7 @@
 ---
 type: Persona
 title: Eugenio IV
-description: Papa (1431-1447) que convocó y presidió el Concilio de Florencia, logrando la unión con los griegos, armenios y jacobitas.
+description: "Papa (1431-1447) que convocó y presidió el Concilio de Florencia, logrando la unión con los griegos, armenios y jacobitas."
 tags: ["historia_—_papado", "eclesiología"]
 timestamp: 2026-06-26
 ---

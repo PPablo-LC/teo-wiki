@@ -4,7 +4,7 @@ title: Sentido pleno (sensus plenior)
 tags: ["sagrada_escritura", "hermenéutica_bíblica"]
 
 timestamp: 2026-06-05
-description: El sentido pleno (sensus plenior) es un sentido más profundo del texto bíblico, intentado por Dios pero no claramente intentado por el autor humano.
+description: "El sentido pleno (sensus plenior) es un sentido más profundo del texto bíblico, intentado por Dios pero no claramente intentado por el autor humano."
 ---
 # Sentido pleno (sensus plenior)
 

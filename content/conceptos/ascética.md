@@ -4,7 +4,7 @@ title: Ascética
 tags: ["ascética"]
 
 timestamp: 2026-05-22
-description: Parte de la teología espiritual que trata del esfuerzo humano, bajo la acción de la gracia, para adquirir las virtudes.
+description: "Parte de la teología espiritual que trata del esfuerzo humano, bajo la acción de la gracia, para adquirir las virtudes."
 ---
 # Ascética
 

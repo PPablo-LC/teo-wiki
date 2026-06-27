@@ -4,7 +4,7 @@ title: Sacerdocio ordenado
 tags: ["sacramental"]
 
 timestamp: 2026-06-14
-description: El sacerdocio ordenado o sacerdocio ministerial es el sacramento del Orden por el que algunos fieles son consagrados para actuar en nombre de Cristo Cabeza y servir al sacerdocio común de los fieles.
+description: "El sacerdocio ordenado o sacerdocio ministerial es el sacramento del Orden por el que algunos fieles son consagrados para actuar en nombre de Cristo Cabeza y servir al sacerdocio común de los fieles."
 ---
 # Sacerdocio ordenado
 

@@ -4,7 +4,7 @@ title: Capítulo General
 tags: ["derecho_canónico", "vida_consagrada"]
 
 timestamp: 2026-06-13
-description: El Capítulo General es la asamblea suprema de un instituto religioso, que tiene como funciones principales examinar la situación de la Congregación, elegir al nuevo gobierno.
+description: "El Capítulo General es la asamblea suprema de un instituto religioso, que tiene como funciones principales examinar la situación de la Congregación, elegir al nuevo gobierno."
 ---
 # Capítulo General
 

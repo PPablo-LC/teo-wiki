@@ -4,7 +4,7 @@ title: Iglesias orientales
 tags: ["eclesiología"]
 
 timestamp: 2026-05-26
-description: Conjunto de Iglesias particulares o locales del Oriente cristiano, muchas de las cuales traen su origen de los mismos Apóstoles, caracterizadas por sus tradiciones litúrgicas, espirituales.
+description: "Conjunto de Iglesias particulares o locales del Oriente cristiano, muchas de las cuales traen su origen de los mismos Apóstoles, caracterizadas por sus tradiciones litúrgicas, espirituales."
 ---
 # Iglesias orientales
 

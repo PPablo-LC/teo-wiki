@@ -4,7 +4,7 @@ title: Salvación de los no cristianos
 tags: ["dogmática", "eclesiología"]
 
 timestamp: 2026-05-29
-description: La posibilidad de salvación para quienes, sin culpa propia, no conocen a Jesucristo ni a la Iglesia.
+description: "La posibilidad de salvación para quienes, sin culpa propia, no conocen a Jesucristo ni a la Iglesia."
 ---
 # Salvación de los no cristianos
 

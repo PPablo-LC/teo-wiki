@@ -4,7 +4,7 @@ title: Ancianos
 tags: ["moral", "doctrina_social"]
 
 timestamp: 2026-06-10
-description: Personas de edad avanzada que, en la familia y en la sociedad, constituyen un importante vínculo entre generaciones, un recurso para el bienestar familiar y social.
+description: "Personas de edad avanzada que, en la familia y en la sociedad, constituyen un importante vínculo entre generaciones, un recurso para el bienestar familiar y social."
 ---
 # Ancianos
 

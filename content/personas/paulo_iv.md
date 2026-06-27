@@ -3,7 +3,7 @@ type: Persona
 title: Paulo IV
 tags: ["papas", "historia_—_papado"]
 timestamp: 2026-06-27
-description: Papa número 223 de la Iglesia Católica (1555-1559). Conocido por su firmeza doctrinal y la institución del Índice de Libros Prohibidos.
+description: "Papa número 223 de la Iglesia Católica (1555-1559). Conocido por su firmeza doctrinal y la institución del Índice de Libros Prohibidos."
 ---
 
 # Paulo IV

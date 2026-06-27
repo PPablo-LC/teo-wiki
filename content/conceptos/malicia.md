@@ -4,7 +4,7 @@ title: Malicia
 tags: ["moral"]
 
 timestamp: 2026-06-08
-description: La malicia, en el contexto del pecado, es la elección deliberada del mal a sabiendas, por desorden de la voluntad que prefiere un bien menor (temporal) al orden de la razón o de la ley divina.
+description: "La malicia, en el contexto del pecado, es la elección deliberada del mal a sabiendas, por desorden de la voluntad que prefiere un bien menor (temporal) al orden de la razón o de la ley divina."
 ---
 # Malicia
 

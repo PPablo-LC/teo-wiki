@@ -4,7 +4,7 @@ title: Magisterio social
 tags: ["doctrina_social", "eclesiología"]
 
 timestamp: 2026-06-19
-description: El magisterio social es el ejercicio de la autoridad docente de la Iglesia en materia de doctrina social.
+description: "El magisterio social es el ejercicio de la autoridad docente de la Iglesia en materia de doctrina social."
 ---
 # Magisterio social
 

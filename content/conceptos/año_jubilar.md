@@ -4,7 +4,7 @@ title: Año jubilar
 tags: ["doctrina_social", "escritura"]
 
 timestamp: 2026-05-25
-description: Institución bíblica prescrita en la Ley de Israel que establecía, cada cincuenta años, un año de liberación general.
+description: "Institución bíblica prescrita en la Ley de Israel que establecía, cada cincuenta años, un año de liberación general."
 ---
 # Año jubilar
 

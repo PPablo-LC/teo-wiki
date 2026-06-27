@@ -4,7 +4,7 @@ title: Formación en relación
 tags: ["ascética", "formación"]
 
 timestamp: 2026-06-12
-description: La formación en relación es una característica del proceso formativo legionario según la cual la formación es eficaz en la medida en que da importancia a las relaciones de la persona que generan...
+description: "La formación en relación es una característica del proceso formativo legionario según la cual la formación es eficaz en la medida en que da importancia a las relaciones de la persona que generan..."
 ---
 # Formación en relación
 

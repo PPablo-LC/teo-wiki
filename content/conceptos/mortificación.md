@@ -4,7 +4,7 @@ title: Mortificación
 tags: ["ascética"]
 
 timestamp: 2026-05-22
-description: La mortificación es el ejercicio deliberado de renuncia y dolor voluntario por el que el alma doma las pasiones desordenadas.
+description: "La mortificación es el ejercicio deliberado de renuncia y dolor voluntario por el que el alma doma las pasiones desordenadas."
 ---
 # Mortificación
 

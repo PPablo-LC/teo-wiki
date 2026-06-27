@@ -4,7 +4,7 @@ title: Luis María Grignion de Montfort
 tags: ["persona", "hagiografía", "mariología"]
 
 timestamp: 2026-06-23
-description: Luis María Grignion de Montfort (1673-1716), sacerdote y misionero francés, fundador de la Compañía de María (Misioneros Monfortianos) y de las Hermanas de la Sabiduría.
+description: "Luis María Grignion de Montfort (1673-1716), sacerdote y misionero francés, fundador de la Compañía de María (Misioneros Monfortianos) y de las Hermanas de la Sabiduría."
 ---
 # Luis María Grignion de Montfort
 

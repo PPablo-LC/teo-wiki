@@ -4,7 +4,7 @@ title: Hebreo
 tags: ["historia_bíblica"]
 
 timestamp: 2026-06-02
-description: Término que designa en el AT a gentes que viven como extranjeros en un país que no es el suyo, y más tarde al pueblo de Israel por oposición a los pueblos paganos.
+description: "Término que designa en el AT a gentes que viven como extranjeros en un país que no es el suyo, y más tarde al pueblo de Israel por oposición a los pueblos paganos."
 ---
 # Hebreo
 

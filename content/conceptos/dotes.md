@@ -4,7 +4,7 @@ title: Dotes
 tags: ["escatología", "dogmática"]
 
 timestamp: 2026-06-16
-description: En teología católica.
+description: "En teología católica."
 ---
 # Dotes
 

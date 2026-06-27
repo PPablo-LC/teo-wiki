@@ -4,7 +4,7 @@ title: Proceso penal canónico
 tags: ["derecho_canónico"]
 
 timestamp: 2026-06-19
-description: El proceso penal canónico es el procedimiento judicial establecido por la Iglesia para la imposición o declaración de penas por delitos canónicos, comprendiendo una fase de investigación previa.
+description: "El proceso penal canónico es el procedimiento judicial establecido por la Iglesia para la imposición o declaración de penas por delitos canónicos, comprendiendo una fase de investigación previa."
 ---
 # Proceso penal canónico
 

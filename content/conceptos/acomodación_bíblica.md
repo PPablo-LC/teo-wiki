@@ -4,7 +4,7 @@ title: Acomodación bíblica
 tags: ["sagrada_escritura", "hermenéutica_bíblica"]
 
 timestamp: 2026-06-05
-description: La acomodación bíblica es el uso de un texto de la Sagrada Escritura en un sentido diferente del intentado por el autor humano (y por el autor divino), aplicándolo a una situación nueva.
+description: "La acomodación bíblica es el uso de un texto de la Sagrada Escritura en un sentido diferente del intentado por el autor humano (y por el autor divino), aplicándolo a una situación nueva."
 ---
 # Acomodación bíblica
 

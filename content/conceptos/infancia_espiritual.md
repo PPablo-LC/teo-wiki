@@ -4,7 +4,7 @@ title: Infancia espiritual
 tags: ["ascética", "mística"]
 
 timestamp: 2026-06-19
-description: La infancia espiritual es un estado de la vida espiritual caracterizado por la simplicidad, la confianza total en Dios, la humildad y la desposesión de sí mismo.
+description: "La infancia espiritual es un estado de la vida espiritual caracterizado por la simplicidad, la confianza total en Dios, la humildad y la desposesión de sí mismo."
 ---
 # Infancia espiritual
 

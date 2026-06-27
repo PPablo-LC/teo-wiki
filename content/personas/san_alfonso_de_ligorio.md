@@ -4,7 +4,7 @@ title: San Alfonso María de Ligorio
 tags: ["persona", "hagiografía", "teología_moral"]
 
 timestamp: 2026-05-22
-description: Alfonso María de Ligorio (1696-1787), napolitano, Doctor de la Iglesia y fundador de la Congregación del Santísimo Redentor (Redentoristas).
+description: "Alfonso María de Ligorio (1696-1787), napolitano, Doctor de la Iglesia y fundador de la Congregación del Santísimo Redentor (Redentoristas)."
 ---
 # San Alfonso María de Ligorio
 

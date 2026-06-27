@@ -4,7 +4,7 @@ title: Santificación
 tags: ["dogmática", "moral", "ascética"]
 
 timestamp: 2026-06-19
-description: La santificación es la obra divina por la cual el alma, justificada por la gracia, es progresivamente renovada a imagen de Dios, configurada con Cristo y hecha partícipe de la vida trinitaria.
+description: "La santificación es la obra divina por la cual el alma, justificada por la gracia, es progresivamente renovada a imagen de Dios, configurada con Cristo y hecha partícipe de la vida trinitaria."
 ---
 # Santificación
 

@@ -4,7 +4,7 @@ title: Emotivismo
 tags: ["moral", "dogmática"]
 
 timestamp: 2026-06-10
-description: Reducción de la afectividad a la emoción, característica de la cultura postmoderna, que absolutiza los sentimientos y las emociones desconectándolos de la razón y la verdad.
+description: "Reducción de la afectividad a la emoción, característica de la cultura postmoderna, que absolutiza los sentimientos y las emociones desconectándolos de la razón y la verdad."
 ---
 # Emotivismo
 

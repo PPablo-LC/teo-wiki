@@ -4,7 +4,7 @@ title: Milagro y mundo sobrenatural
 tags: ["teología_fundamental"]
 
 timestamp: 2026-06-22
-description: Los milagros de Cristo demuestran la existencia del orden sobrenatural, enseñando a la mente humana a elevarse por encima de las cosas visibles para comprender lo que Dios es.
+description: "Los milagros de Cristo demuestran la existencia del orden sobrenatural, enseñando a la mente humana a elevarse por encima de las cosas visibles para comprender lo que Dios es."
 ---
 # Milagro y mundo sobrenatural
 

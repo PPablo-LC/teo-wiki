@@ -4,7 +4,7 @@ title: Transhumanismo
 tags: ["moral", "antropología_teológica"]
 
 timestamp: 2026-05-29
-description: Corriente de pensamiento que imagina una potenciación del ser humano por medio de tecnologías —biomedicina, ingeniería del cuerpo, dispositivos.
+description: "Corriente de pensamiento que imagina una potenciación del ser humano por medio de tecnologías —biomedicina, ingeniería del cuerpo, dispositivos."
 ---
 # Transhumanismo
 

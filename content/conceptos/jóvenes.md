@@ -4,7 +4,7 @@ title: Jóvenes
 tags: ["moral", "pastoral"]
 
 timestamp: 2026-06-14
-description: Los jóvenes son, en la perspectiva cristiana, no solo una etapa de la vida sino un sujeto eclesial y social de particular importancia.
+description: "Los jóvenes son, en la perspectiva cristiana, no solo una etapa de la vida sino un sujeto eclesial y social de particular importancia."
 ---
 # Jóvenes
 

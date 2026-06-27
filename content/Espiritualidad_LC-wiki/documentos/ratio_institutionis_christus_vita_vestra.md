@@ -4,7 +4,7 @@ title: Ratio Institutionis — Christus Vita Vestra
 tags: ["documentos_—_espiritualidad_legionaria"]
 
 timestamp: 2026-06-11
-description: Marco normativo de la formación legionaria, estructurado en torno al lema «Christus vita vestra» (Col 3,4).
+description: "Marco normativo de la formación legionaria, estructurado en torno al lema «Christus vita vestra» (Col 3,4)."
 ---
 # Ratio Institutionis — Christus Vita Vestra
 

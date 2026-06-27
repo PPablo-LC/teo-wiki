@@ -4,7 +4,7 @@ title: Blasfemia
 tags: ["moral"]
 
 timestamp: 2026-06-08
-description: La blasfemia es el pecado que consiste en proferir palabras de ultraje, insulto o menosprecio contra Dios, oponiéndose directamente a la confesión de fe.
+description: "La blasfemia es el pecado que consiste en proferir palabras de ultraje, insulto o menosprecio contra Dios, oponiéndose directamente a la confesión de fe."
 ---
 # Blasfemia
 

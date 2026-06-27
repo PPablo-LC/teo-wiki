@@ -4,7 +4,7 @@ title: Víctima
 tags: ["moral", "derecho_canónico"]
 
 timestamp: 2026-05-31
-description: En el contexto del derecho canónico y la pastoral eclesial, víctima es toda persona que ha sufrido un daño —físico, psicológico.
+description: "En el contexto del derecho canónico y la pastoral eclesial, víctima es toda persona que ha sufrido un daño —físico, psicológico."
 ---
 # Víctima
 

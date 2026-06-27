@@ -4,7 +4,7 @@ title: Unicidad de Cristo
 tags: ["cristología"]
 
 timestamp: 2026-06-21
-description: La originalidad absoluta e irrepetible de Jesucristo como Dios-hombre, único mediador entre Dios y los hombres (1 Tim 2,5).
+description: "La originalidad absoluta e irrepetible de Jesucristo como Dios-hombre, único mediador entre Dios y los hombres (1 Tim 2,5)."
 ---
 # Unicidad de Cristo
 

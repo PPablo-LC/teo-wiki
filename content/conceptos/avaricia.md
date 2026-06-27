@@ -4,7 +4,7 @@ title: Avaricia
 tags: ["moral"]
 
 timestamp: 2026-05-22
-description: Vicio capital que consiste en el deseo desordenado de poseer bienes terrenos, acumulándolos sin medida y apegándose a ellos de modo inmoderado.
+description: "Vicio capital que consiste en el deseo desordenado de poseer bienes terrenos, acumulándolos sin medida y apegándose a ellos de modo inmoderado."
 ---
 # Avaricia
 

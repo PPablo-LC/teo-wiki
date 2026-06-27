@@ -4,7 +4,7 @@ title: Pena de los demonios
 tags: ["dogmática_(angelología_—_escatología)"]
 
 timestamp: 2026-06-03
-description: La pena de los demonios es el castigo eterno que sufren los ángeles caídos a consecuencia de su pecado irrevocable.
+description: "La pena de los demonios es el castigo eterno que sufren los ángeles caídos a consecuencia de su pecado irrevocable."
 ---
 # Pena de los demonios
 

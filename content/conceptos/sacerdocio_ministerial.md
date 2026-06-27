@@ -4,7 +4,7 @@ title: Sacerdocio ministerial
 tags: ["sacramental", "eclesiología"]
 
 timestamp: 2026-05-25
-description: El sacerdocio ministerial (o jerárquico) es la participación en el único sacerdocio de Cristo conferida por el sacramento del Orden.
+description: "El sacerdocio ministerial (o jerárquico) es la participación en el único sacerdocio de Cristo conferida por el sacramento del Orden."
 ---
 # Sacerdocio ministerial
 

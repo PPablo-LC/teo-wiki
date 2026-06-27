@@ -4,7 +4,7 @@ title: Feminidad
 tags: ["antropología_teológica"]
 
 timestamp: 2026-06-18
-description: La feminidad es el modo específico de ser persona propio de la mujer, creada por Dios a su imagen y semejanza, llamada a la comunión y a la donación de sí.
+description: "La feminidad es el modo específico de ser persona propio de la mujer, creada por Dios a su imagen y semejanza, llamada a la comunión y a la donación de sí."
 ---
 # Feminidad
 

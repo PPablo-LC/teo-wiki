@@ -4,7 +4,7 @@ title: Teología del cuerpo
 tags: ["moral", "antropología_teológica"]
 
 timestamp: 2026-06-19
-description: La Teología del Cuerpo es un conjunto de catequesis impartidas por San Juan Pablo II entre 1979 y 1984, en las que desarrolla una visión cristiana integral del cuerpo humano, la sexualidad.
+description: "La Teología del Cuerpo es un conjunto de catequesis impartidas por San Juan Pablo II entre 1979 y 1984, en las que desarrolla una visión cristiana integral del cuerpo humano, la sexualidad."
 ---
 # Teología del cuerpo
 

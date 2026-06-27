@@ -4,7 +4,7 @@ title: Divorciados vueltos a casar
 tags: ["moral", "pastoral"]
 
 timestamp: 2026-06-20
-description: Personas bautizadas que, habiendo contraído matrimonio sacramental válido y no habiendo muerto su cónyuge, contraen una nueva unión civil.
+description: "Personas bautizadas que, habiendo contraído matrimonio sacramental válido y no habiendo muerto su cónyuge, contraen una nueva unión civil."
 ---
 # Divorciados vueltos a casar
 

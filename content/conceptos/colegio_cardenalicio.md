@@ -4,7 +4,7 @@ title: Colegio cardenalicio
 tags: ["derecho_canónico", "eclesiología"]
 
 timestamp: 2026-05-26
-description: Conjunto de todos los [[cardenales]] de la [[santa_iglesia_romana]], constituido como cuerpo colegial que asiste al [[romano_pontífice]] en el gobierno de la Iglesia universal. Es el Senado del Papa.
+description: "Conjunto de todos los [[cardenales]] de la [[santa_iglesia_romana]], constituido como cuerpo colegial que asiste al [[romano_pontífice]] en el gobierno de la Iglesia universal. Es el Senado del Papa."
 ---
 # Colegio cardenalicio
 

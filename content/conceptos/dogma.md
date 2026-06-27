@@ -4,7 +4,7 @@ title: Dogma
 tags: ["dogmática", "teología_fundamental"]
 
 timestamp: 2026-06-05
-description: Un dogma es una verdad revelada por Dios y propuesta por el Magisterio de la Iglesia como objeto de fe para todo el pueblo de Dios.
+description: "Un dogma es una verdad revelada por Dios y propuesta por el Magisterio de la Iglesia como objeto de fe para todo el pueblo de Dios."
 ---
 # Dogma
 

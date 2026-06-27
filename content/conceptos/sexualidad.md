@@ -4,7 +4,7 @@ title: Sexualidad
 tags: ["moral", "antropología_teológica"]
 
 timestamp: 2026-06-20
-description: Dimensión constitutiva de la persona humana, mediante la cual el hombre y la mujer se dan uno a otro con los actos propios y exclusivos de los esposos.
+description: "Dimensión constitutiva de la persona humana, mediante la cual el hombre y la mujer se dan uno a otro con los actos propios y exclusivos de los esposos."
 ---
 # Sexualidad
 

@@ -4,7 +4,7 @@ title: Tiempo Ordinario
 tags: ["liturgia"]
 
 timestamp: 2026-06-03
-description: El Tiempo Ordinario es el período del año litúrgico que no pertenece a los tiempos fuertes (Adviento, Navidad, Cuaresma, Pascua).
+description: "El Tiempo Ordinario es el período del año litúrgico que no pertenece a los tiempos fuertes (Adviento, Navidad, Cuaresma, Pascua)."
 ---
 # Tiempo Ordinario
 

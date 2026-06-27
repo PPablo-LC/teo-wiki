@@ -4,7 +4,7 @@ title: Sacrilegio
 tags: ["moral"]
 
 timestamp: 2026-05-31
-description: El sacrilegio es la profanación o tratamiento indigno de las personas, lugares o cosas sagradas, consagradas a Dios.
+description: "El sacrilegio es la profanación o tratamiento indigno de las personas, lugares o cosas sagradas, consagradas a Dios."
 ---
 # Sacrilegio
 

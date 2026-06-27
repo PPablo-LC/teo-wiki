@@ -4,7 +4,7 @@ title: Fraude
 tags: ["moral"]
 
 timestamp: 2026-06-09
-description: El fraude en las compraventas y contratos es el engaño deliberado en el comercio que produce una desigualdad injusta entre lo que se da y lo que se recibe.
+description: "El fraude en las compraventas y contratos es el engaño deliberado en el comercio que produce una desigualdad injusta entre lo que se da y lo que se recibe."
 ---
 # Fraude
 

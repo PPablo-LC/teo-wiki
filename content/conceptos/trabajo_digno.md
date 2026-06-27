@@ -4,7 +4,7 @@ title: Trabajo digno
 tags: ["moral_social", "doctrina_social_de_la_iglesia"]
 
 timestamp: 2026-06-20
-description: El derecho al trabajo digno consiste en la posibilidad de realizar una actividad laboral que respete la dignidad de la persona humana, permita su realización personal y la de su familia.
+description: "El derecho al trabajo digno consiste en la posibilidad de realizar una actividad laboral que respete la dignidad de la persona humana, permita su realización personal y la de su familia."
 ---
 # Trabajo digno
 

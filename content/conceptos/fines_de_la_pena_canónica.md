@@ -4,7 +4,7 @@ title: Fines de la pena canónica
 tags: ["derecho_canónico"]
 
 timestamp: 2026-05-29
-description: Los fines de la pena canónica son los tres objetivos que la sanción penal persigue en el ordenamiento eclesial.
+description: "Los fines de la pena canónica son los tres objetivos que la sanción penal persigue en el ordenamiento eclesial."
 ---
 # Fines de la pena canónica
 

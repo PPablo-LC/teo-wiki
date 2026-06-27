@@ -4,7 +4,7 @@ title: Entrada en Jerusalén
 tags: ["cristología"]
 
 timestamp: 2026-06-20
-description: La entrada solemne de Jesús en Jerusalén montado en un borriquillo —celebrada el Domingo de Ramos— es el acto mesiánico por el cual Jesús se presenta como Rey humilde.
+description: "La entrada solemne de Jesús en Jerusalén montado en un borriquillo —celebrada el Domingo de Ramos— es el acto mesiánico por el cual Jesús se presenta como Rey humilde."
 ---
 # Entrada en Jerusalén
 

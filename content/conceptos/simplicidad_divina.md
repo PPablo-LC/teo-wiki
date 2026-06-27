@@ -4,7 +4,7 @@ title: simplicidad_divina
 tags: ["dogmática"]
 
 timestamp: 2026-06-17
-description: La simplicidad divina es el atributo por el cual Dios carece absolutamente de toda composición, ya sea física, metafísica o lógica.
+description: "La simplicidad divina es el atributo por el cual Dios carece absolutamente de toda composición, ya sea física, metafísica o lógica."
 ---
 # simplicidad_divina
 

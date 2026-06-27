@@ -4,7 +4,7 @@ title: Montaña
 tags: ["dogmática"]
 
 timestamp: 2026-06-02
-description: La montaña es considerada en la mayoría de las religiones como el punto donde el cielo toca a la tierra.
+description: "La montaña es considerada en la mayoría de las religiones como el punto donde el cielo toca a la tierra."
 ---
 # Montaña
 

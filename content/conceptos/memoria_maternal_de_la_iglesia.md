@@ -4,7 +4,7 @@ title: Memoria maternal de la Iglesia
 tags: ["eclesiología", "mariología"]
 
 timestamp: 2026-06-18
-description: La memoria maternal de la Iglesia es la capacidad de la Iglesia, como madre, de conservar y transmitir la historia de Cristo y del hombre desde sus orígenes.
+description: "La memoria maternal de la Iglesia es la capacidad de la Iglesia, como madre, de conservar y transmitir la historia de Cristo y del hombre desde sus orígenes."
 ---
 # Memoria maternal de la Iglesia
 

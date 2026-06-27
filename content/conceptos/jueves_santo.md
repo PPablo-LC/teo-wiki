@@ -4,7 +4,7 @@ title: Jueves Santo
 tags: ["liturgia", "dogmática"]
 
 timestamp: 2026-05-31
-description: El Jueves Santo es el primer día del Triduo Pascual, en el que la Iglesia conmemora la institución de la Eucaristía, el Sacerdocio ministerial y el Mandamiento del amor fraterno (Jn 13,34).
+description: "El Jueves Santo es el primer día del Triduo Pascual, en el que la Iglesia conmemora la institución de la Eucaristía, el Sacerdocio ministerial y el Mandamiento del amor fraterno (Jn 13,34)."
 ---
 # Jueves Santo
 

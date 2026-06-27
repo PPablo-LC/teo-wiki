@@ -4,7 +4,7 @@ title: Curia diocesana
 tags: ["eclesiología"]
 
 timestamp: 2026-05-25
-description: La curia diocesana consta de aquellos organismos y personas que colaboran con el Obispo en el gobierno de toda la diócesis, principalmente en la dirección de la actividad pastoral.
+description: "La curia diocesana consta de aquellos organismos y personas que colaboran con el Obispo en el gobierno de toda la diócesis, principalmente en la dirección de la actividad pastoral."
 ---
 # Curia diocesana
 

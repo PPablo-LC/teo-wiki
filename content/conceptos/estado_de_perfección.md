@@ -4,7 +4,7 @@ title: Estado de perfección
 tags: ["ascética", "eclesiología"]
 
 timestamp: 2026-06-12
-description: El estado de perfección es la condición estable de aquellos que se obligan para siempre, con cierta solemnidad, a las cosas relacionadas con la perfección cristiana.
+description: "El estado de perfección es la condición estable de aquellos que se obligan para siempre, con cierta solemnidad, a las cosas relacionadas con la perfección cristiana."
 ---
 # Estado de perfección
 

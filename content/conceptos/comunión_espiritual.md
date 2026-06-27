@@ -4,7 +4,7 @@ title: Comunión espiritual
 tags: ["ascética"]
 
 timestamp: 2026-05-26
-description: La comunión espiritual es el acto por el cual un fiel, no pudiendo recibir sacramentalmente la Eucaristía, desea ardientemente unirse a Cristo presente en el Santísimo Sacramento.
+description: "La comunión espiritual es el acto por el cual un fiel, no pudiendo recibir sacramentalmente la Eucaristía, desea ardientemente unirse a Cristo presente en el Santísimo Sacramento."
 ---
 # Comunión espiritual
 

@@ -4,7 +4,7 @@ title: Evangelización de la cultura
 tags: ["misionología", "espiritualidad"]
 
 timestamp: 2026-06-12
-description: La evangelización de la cultura es la tarea de llevar la Buena Nueva a todos los ambientes de la humanidad para transformar desde dentro, renovar la misma humanidad (EN 18).
+description: "La evangelización de la cultura es la tarea de llevar la Buena Nueva a todos los ambientes de la humanidad para transformar desde dentro, renovar la misma humanidad (EN 18)."
 ---
 # Evangelización de la cultura
 

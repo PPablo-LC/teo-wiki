@@ -4,7 +4,7 @@ title: Ley evangélica
 tags: ["moral"]
 
 timestamp: 2026-05-22
-description: La ley evangélica, también llamada Ley Nueva o Ley de Cristo, es la plenitud y perfección de la ley divina promulgada por Nuestro Señor Jesucristo en el Nuevo Testamento.
+description: "La ley evangélica, también llamada Ley Nueva o Ley de Cristo, es la plenitud y perfección de la ley divina promulgada por Nuestro Señor Jesucristo en el Nuevo Testamento."
 ---
 # Ley evangélica
 

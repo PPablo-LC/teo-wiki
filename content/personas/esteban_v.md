@@ -4,7 +4,7 @@ title: Esteban V
 tags: ["historia_—_papado"]
 
 timestamp: 2026-06-25
-description: Esteban V fue Papa en el período post-carolingio, lidiando con las invasiones sarracenas y la debilidad del Imperio franco.
+description: "Esteban V fue Papa en el período post-carolingio, lidiando con las invasiones sarracenas y la debilidad del Imperio franco."
 ---
 # Esteban V
 

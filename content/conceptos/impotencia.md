@@ -4,7 +4,7 @@ title: Impotencia
 tags: ["derecho_canónico"]
 
 timestamp: 2026-06-15
-description: Incapacidad física, antecedente y perpetua, absoluta o relativa, para realizar el acto conyugal.
+description: "Incapacidad física, antecedente y perpetua, absoluta o relativa, para realizar el acto conyugal."
 ---
 # Impotencia
 

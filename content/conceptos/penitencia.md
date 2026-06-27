@@ -4,7 +4,7 @@ title: Penitencia
 tags: ["sacramental"]
 
 timestamp: 2026-06-27
-description: La penitencia es el sacramento instituido por Nuestro Señor Jesucristo para perdonar los pecados cometidos después del bautismo.
+description: "La penitencia es el sacramento instituido por Nuestro Señor Jesucristo para perdonar los pecados cometidos después del bautismo."
 ---
 # Penitencia
 

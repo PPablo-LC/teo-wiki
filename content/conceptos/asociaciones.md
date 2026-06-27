@@ -4,7 +4,7 @@ title: Asociaciones
 tags: ["eclesiología"]
 
 timestamp: 2026-05-25
-description: Las asociaciones en la Iglesia son agrupaciones de fieles, distintas de los institutos de vida consagrada y de las sociedades de vida apostólica, en las que los fieles, trabajando unidos.
+description: "Las asociaciones en la Iglesia son agrupaciones de fieles, distintas de los institutos de vida consagrada y de las sociedades de vida apostólica, en las que los fieles, trabajando unidos."
 ---
 # Asociaciones
 

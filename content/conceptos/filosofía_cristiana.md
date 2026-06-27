@@ -4,7 +4,7 @@ title: Filosofía cristiana
 tags: ["filosofía", "teología_fundamental"]
 
 timestamp: 2026-05-22
-description: La filosofía cristiana es aquella manera de hacer filosofía que, sin perder su naturaleza racional y su método propio, se desarrolla en el horizonte de la fe cristiana.
+description: "La filosofía cristiana es aquella manera de hacer filosofía que, sin perder su naturaleza racional y su método propio, se desarrolla en el horizonte de la fe cristiana."
 ---
 # Filosofía cristiana
 

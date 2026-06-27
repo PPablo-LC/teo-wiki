@@ -4,7 +4,7 @@ title: Gestos y posturas corporales
 tags: ["liturgia"]
 
 timestamp: 2026-06-13
-description: Los gestos y posturas corporales en la liturgia son las actitudes físicas que los participantes adoptan durante la celebración (de pie, sentados, de rodillas, inclinaciones, procesiones, etc.).
+description: "Los gestos y posturas corporales en la liturgia son las actitudes físicas que los participantes adoptan durante la celebración (de pie, sentados, de rodillas, inclinaciones, procesiones, etc.)."
 ---
 # Gestos y posturas corporales
 

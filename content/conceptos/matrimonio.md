@@ -4,7 +4,7 @@ title: Matrimonio
 tags: ["sacramental"]
 
 timestamp: 2026-06-23
-description: El matrimonio es el sacramento instituido por Nuestro Señor Jesucristo que santifica la unión legítima entre un varón y una mujer.
+description: "El matrimonio es el sacramento instituido por Nuestro Señor Jesucristo que santifica la unión legítima entre un varón y una mujer."
 ---
 # Matrimonio
 

@@ -4,7 +4,7 @@ title: Bautismo de deseo
 tags: ["dogmática", "sacramental"]
 
 timestamp: 2026-05-31
-description: El bautismo de deseo es la doctrina teológica según la cual una persona que, sin haber recibido el sacramento del bautismo.
+description: "El bautismo de deseo es la doctrina teológica según la cual una persona que, sin haber recibido el sacramento del bautismo."
 ---
 # Bautismo de deseo
 

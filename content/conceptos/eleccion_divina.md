@@ -4,7 +4,7 @@ title: Elección divina
 tags: ["dogmática"]
 
 timestamp: 2026-06-03
-description: La elección divina es el acto eterno y gratuito de la voluntad de Dios por el cual determina, desde toda la eternidad, conceder la gracia y la gloria a determinadas personas.
+description: "La elección divina es el acto eterno y gratuito de la voluntad de Dios por el cual determina, desde toda la eternidad, conceder la gracia y la gloria a determinadas personas."
 ---
 # Elección divina
 
