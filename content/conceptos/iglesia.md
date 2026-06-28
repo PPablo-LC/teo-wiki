@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Iglesia
 tags: ["eclesiología"]
 
-timestamp: 2026-06-23
+timestamp: 2026-06-28
 description: "La Iglesia es el Pueblo de Dios, el Cuerpo Místico de Cristo y el Templo del Espíritu Santo, instituida por Jesucristo como sacramento universal de salvación."
 ---
 # Iglesia
 
 > Área: Eclesiología
-> Última actualización: 2026-06-26
+> Última actualización: 2026-06-28
 
 ## Definición
 
@@ -94,6 +94,8 @@ La Iglesia es **madre y maestra** (*Mater et Magistra*). Como madre, debe ser am
 **D‑1504**: «Sería abuso de la autoridad de la Iglesia transferirla más allá de los límites de la doctrina y costumbres y extenderla a las cosas exteriores, exigir por la fuerza lo que depende de la persuasión y del corazón.» Condenada como herética. La condena afirma que la Iglesia tiene potestad recibida de Dios para establecer y sancionar la disciplina exterior, usada por los mismos Apóstoles.
 
 **D‑1505**: «La Iglesia no tiene autoridad para exigir la sujeción a sus decretos de otro modo que por los medios que dependen de la persuasión.» Condenada como inductiva a error herético. La condena afirma que la Iglesia tiene potestad no solo para dirigir por consejos y persuasiones, sino también para mandar por medio de leyes, y coercer y obligar a los desobedientes por juicio externo y saludables castigos.
+
+**Concilio Vaticano I** — Constitución *Pastor Aeternus* (1870, D‑1821–D‑1835): Definió que el Romano Pontífice tiene primado de jurisdicción ordinario e inmediato sobre toda la Iglesia, tanto en materia de fe y costumbres como en disciplina y régimen (D‑1821–D‑1827). Definió que el Papa posee aquella misma infalibilidad de la que el divino Redentor quiso que estuviera provista su Iglesia cuando define *ex cathedra* una doctrina sobre fe y costumbres (D‑1832–D‑1835). Tales definiciones son irreformables por sí mismas y no por el consentimiento de la Iglesia (*ex sese, non autem ex consensu Ecclesiae*).
 
 ## Relaciones doctrinales
 

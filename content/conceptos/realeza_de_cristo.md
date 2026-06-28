@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Realeza de Cristo
 tags: ["cristología"]
 
-timestamp: 2026-06-21
+timestamp: 2026-06-28
 description: "La realeza de Cristo es el señorío universal de Jesucristo sobre todas las cosas, en virtud de su naturaleza divina y de su redención."
 ---
 # Realeza de Cristo
 
 > Área: Cristología
-> Última actualización: 2026-06-21
+> Última actualización: 2026-06-28
 
 ## Definición
 
@@ -42,6 +42,10 @@ Se relaciona con [[entrada_en_jerusalén]], [[reino_de_dios]], [[pasión_de_cris
 ## Ver también
 
 [[entrada_en_jerusalén]], [[reino_de_dios]], [[pasión_de_cristo]], [[cristo_rey]], [[exaltación_de_cristo]]
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Pío XI** — Encíclica *Quas Primas* (1925, D‑2194–D‑2197): Instituyó la fiesta de Cristo Rey y definió solemnemente la realeza de Cristo. Afirmó que su realeza se funda en la unión hipostática (D‑2194): «De todas las criaturas, para decirlo en una palabra, obtiene el Señor la dominación, no por haberla arrancado a la fuerza ni por otro medio adquirido, sino por su misma esencia y naturaleza». Cristo tiene poder sobre todas las criaturas también por derecho de redención: «no habéis sido comprados con oro o plata corruptibles, sino con la sangre de Cristo» (1 Pe 1,18-19; D‑2194). Su principado se contiene en un triple poder: legislativo, judicial y ejecutivo (D‑2195). Es principalmente espiritual: «Mi reino no es de este mundo» (Jn 18,36). Sin embargo, Cristo tiene también imperio sobre las cosas civiles (D‑2196). Condenó el laicismo como «peste de nuestra edad» (D‑2197).
 
 ## Referencias
 

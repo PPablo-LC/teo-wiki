@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Fe
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-06-12
+timestamp: 2026-06-28
 description: "La fe es la primera de las virtudes teologales, virtud infusa sobrenatural por la que creemos firmemente todas las verdades que Dios ha revelado y la Iglesia nos propone para creer."
 ---
 # Fe
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-06-12
+> Última actualización: 2026-06-28
 
 ## Definición
 
@@ -80,6 +80,8 @@ La fe se presupone a los preceptos de la ley, pues la primera sumisión del homb
 Cristo no tuvo la [[virtud_de_la_fe]] porque desde el primer instante de su concepción vio la esencia divina en [[visión_beatífica]]. El objeto de la fe es lo no visto (Heb 11,1), y Cristo, como bienaventurado, veía a Dios cara a cara. Las virtudes morales se dieron en Cristo de modo perfectísimo, pero la fe no pudo darse en Él porque incluye esencialmente el defecto de no ver lo que se cree. Sin embargo, Cristo tuvo obediencia plenísima al Padre, más excelente que el mérito de la fe, pues su mérito fue el de su propia vida y pasión. La fe es propia de los viadores; Cristo fue simultáneamente viador y bienaventurado, pero en cuanto a la parte intelectiva superior gozaba de la visión beatífica, que excluye la fe.
 
 ### Según el Enchiridion Symbolorum (Denzinger)
+
+**Concilio Vaticano I** — Constitución *Dei Filius* (1870, D‑1782–D‑1796): Definió la fe como virtud sobrenatural por la que, inspirados y ayudados por la gracia de Dios, creemos que las cosas reveladas por Dios son verdaderas, no por su intrínseca verdad percibida por la luz natural de la razón, sino por la autoridad de Dios mismo que las revela (D‑1789). La fe es «argumento de las cosas que no se ven» (Heb 11,1). Afirmó que «nunca puede haber verdadero desacuerdo entre la fe y la razón, puesto que el mismo Dios que revela los misterios e infunde la fe es el mismo que dota al alma humana de la luz de la razón» (D‑1797). Los misterios de la fe, por su naturaleza sobrenatural, no pueden ser demostrados por la razón ni comprendidos plenamente, sino que han de ser creídos por la autoridad de Dios revelante (D‑1795–D‑1796).
 
 **León X** (1520), Condena de los errores de Lutero sobre la fe y la justificación (D-750-752): Lutero afirmó que a nadie le son perdonados los pecados si no cree que le son perdonados, y que el pecado permanecería si no lo creyera perdonado —no basta la remisión, es necesario creer que está perdonado— (D-750). Sostuvo que no se debe confiar en la absolución por la contrición, sino por la palabra de Cristo, y que si se cree estar absuelto, se está verdaderamente absuelto (D-751). Añadió que aun si el sacerdote no absolviera en serio sino por juego, si el que se confiesa cree que está absuelto, lo está con toda verdad (D-752). Estas proposiciones fueron condenadas por negar la necesidad de las disposiciones interiores del penitente y reducir la absolución a un mero acto de fe fiducial.
 

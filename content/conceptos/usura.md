@@ -3,7 +3,7 @@ type: Concepto Teológico
 title: Usura
 tags: ["moral"]
 
-timestamp: 2026-06-27
+timestamp: 2026-06-28
 description: "La usura es el pecado contra la [[virtud_de_la_justicia]] que consiste en recibir un interés por el préstamo de dinero o bienes fungibles, exigiendo el pago de algo que excede el capital prestado."
 ---
 # Usura
@@ -41,6 +41,10 @@ La usura no debe confundirse con la ganancia del comercio lícito: el comerciant
 CEC §2269: «La usura, que exige un interés excesivo, es contraria a la justicia». CEC §2409: «Las condiciones que hacen lícito el préstamo deben ser determinadas en cada caso por el principio de caridad y el de justicia». CEC §2449: Los préstamos a interés excesivo o usurero son pecado grave contra el séptimo mandamiento.
 
 ### Según el Enchiridion Symbolorum (Denzinger)
+
+**Pío VIII** (1830, D‑1609–D‑1610): En respuesta al obispo de Rennes, aclaró que los préstamos a negociantes —en los que el dinero prestado se aplica a transacciones comerciales— no constituyen *per se* usura si concurren justas causas y se admite un lucro moderado. Distinguió entre préstamos de dinero a pobres (donde la usura sigue siendo ilícita) y préstamos comerciales (donde puede ser lícito recibir algo más del capital por título extrínseco).
+
+**Gregorio XVI** (D‑1611–D‑1612): Declaraciones complementarias que reiteraron la doctrina de *Vix pervenit* de Benedicto XIV, absolviendo a quienes prestan con disposición a acatar las determinaciones de la Santa Sede.
 
 El Papa **Urbano III** (D-403) enseñó que quien presta dinero con la intención de recibir más del capital, aun sin pacto previo, obra mal y debe restituir, pues «toda usura y sobreabundancia está prohibida» (Lc 6,35). **Inocencio III** (D-427) afirmó que los diezmos, primicias y oblaciones deben pagarse a los clérigos por precepto del Señor. **Gregorio IX** (D-448) precisó que quien presta a un navegante o a quien va a la feria, por exponerse al peligro, no ha de ser tenido por usurero si recibe algo más del capital, pues hay duda razonable sobre el valor futuro.
 

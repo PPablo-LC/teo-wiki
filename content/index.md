@@ -956,6 +956,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[incredulidad]]
 - [[increencia]]
 - [[inculturación]]
+- [[indiferentismo]]
 - [[indisolubilidad]]
 - [[indisolubilidad_del_matrimonio]]
 - [[indisolubilidad_matrimonio]]
@@ -1221,6 +1222,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[misterio_trinitario]]
 - [[misterios_del_rosario]]
 - [[miércoles_de_ceniza]]
+- [[modernismo]]
 - [[modestia]]
 - [[molicie]]
 - [[monjes]]
@@ -1868,6 +1870,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[sustentación_del_clero]]
 - [[susurración]]
 - [[sutileza]]
+- [[syllabus]]
 - [[synesis]]
 - [[sábado]]
 - [[sábado_santo]]
@@ -2153,6 +2156,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[benedicto_i]]
 - [[benedicto_xii]]
 - [[benedicto_xiv]]
+- [[benedicto_xv]]
 - [[benedicto_xvi]]
 - [[bonifacio_ii_papa]]
 - [[bonifacio_viii]]
@@ -2215,6 +2219,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[gregorio_ix]]
 - [[gregorio_xi]]
 - [[gregorio_xiii]]
+- [[gregorio_xvi]]
 
 ### H
 
@@ -2258,6 +2263,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 
 - [[leon_x]]
 - [[león_i_magno]]
+- [[león_xiii]]
 - [[león_xiv]]
 - [[luis_maría_grignion_de_montfort]]
 
@@ -2296,6 +2302,10 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[prisciliano]]
 - [[próspero_de_aquitania]]
 - [[pseudo-dionisio_areopagita]]
+- [[pío_ix]]
+- [[pío_viii]]
+- [[pío_xi]]
+- [[pío_xii]]
 
 ### R
 
@@ -2325,6 +2335,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[san_pedro]]
 - [[san_pedro_de_alcántara]]
 - [[san_pio_v]]
+- [[san_pío_x]]
 - [[santa_brígida_de_suecia]]
 - [[santa_catalina_de_siena]]
 - [[santa_clara_de_asís]]

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Concilio Vaticano I
 tags: ["dogmática", "eclesiología"]
 
-timestamp: 2026-05-25
+timestamp: 2026-06-28
 description: "El Concilio Vaticano I (1869-1870) fue el vigésimo concilio ecuménico de la Iglesia Católica, convocado por el Papa Pío IX."
 ---
 # Concilio Vaticano I
 
 > Área: Dogmática / Eclesiología
-> Última actualización: 2026-05-25
+> Última actualización: 2026-06-28
 
 ## Definición
 
@@ -24,6 +24,12 @@ El Concilio fue solemnemente inaugurado el 8 de diciembre de 1869 y suspendido e
 2. **Pastor Aeternus** (18 de julio de 1870): sobre la Iglesia de Cristo, definiendo el primado de jurisdicción del Romano Pontífice sobre toda la Iglesia —verdadero y propio poder episcopal, inmediato y universal— y la infalibilidad papal cuando habla *ex cathedra* en materia de fe y costumbres.
 
 ## Perspectivas por fuente
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Constitución *Dei Filius*** (Sesión III, 24 de abril de 1870, D‑1781–D‑1796): Definió que Dios, principio y fin de todas las cosas, puede ser conocido con certeza por la luz natural de la razón humana a través de las cosas creadas (D‑1785). Sin embargo, la revelación sobrenatural es moralmente necesaria para que todos los hombres puedan conocer fácilmente, con certeza y sin error las verdades religiosas y morales (D‑1786). Los misterios de la fe, por su naturaleza, trascienden la razón creada y solo pueden ser conocidos por revelación divina (D‑1795). La fe es una virtud sobrenatural; es acto del entendimiento que asiente a la verdad por mandato de la voluntad movida por la gracia (D‑1789). Nunca puede haber verdadero desacuerdo entre la fe y la razón, pues ambas proceden del mismo Dios (D‑1797). Las doctrinas de la fe no pueden ser entendidas según la filosofía humana sino según el sentido que la Iglesia ha mantenido y mantiene (D‑1800).
+
+**Constitución *Pastor Aeternus*** (Sesión IV, 18 de julio de 1870, D‑1821–D‑1835): Definió que el Romano Pontífice tiene primado de jurisdicción ordinario e inmediato sobre toda la Iglesia, en materia de fe y costumbres así como en disciplina y régimen (D‑1821–D‑1827). El Papa es el pastor y doctor supremo de todos los cristianos (D‑1821). Tiene potestad plena y suprema de jurisdicción sobre toda la Iglesia, no solo en materias de fe y costumbres, sino también en las que se refieren a la disciplina y régimen de la Iglesia esparcida por todo el mundo (D‑1827). Definió que el Romano Pontífice, cuando habla *ex cathedra* (esto es, cuando ejerce su supremo oficio de pastor y doctor de todos los cristianos, define una doctrina sobre fe y costumbres con su autoridad apostólica), goza de aquella infalibilidad de la que el divino Redentor quiso que estuviera provista su Iglesia, y por tanto tales definiciones son irreformables por sí mismas y no por el consentimiento de la Iglesia (*ex sese, non autem ex consensu Ecclesiae*) (D‑1832–D‑1835).
 
 ### Según el Catecismo (CEC)
 

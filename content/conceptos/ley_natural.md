@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Ley natural
 tags: ["moral"]
 
-timestamp: 2026-05-22
+timestamp: 2026-06-28
 description: "La ley natural es la participación de la sabiduría y bondad del Creador en el hombre, formado a imagen de Dios."
 ---
 # Ley natural
 
 > Área: Moral
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-28
 
 ## Definición
 
@@ -74,6 +74,10 @@ La ley natural tiene valor vinculante incluso para quienes no aceptan la Revelac
 ### Según la Veritatis Splendor (VS)
 
 La Veritatis Splendor es la encíclica que con mayor profundidad reafirma la doctrina de la ley natural en el magisterio reciente. Sigue a santo Tomás definiendo la ley natural como «la luz de la inteligencia infundida en nosotros por Dios; gracias a ella conocemos lo que se debe hacer y lo que se debe evitar» (§12, citando a Sto. Tomás). La ley natural es participación de la ley eterna en la criatura racional (§42-44). Es universal e inmutable (§51-53), inscrita en el corazón del hombre (Rm 2,15). La encíclica rechaza las objeciones de fisicismo y naturalismo contra la ley natural (§46-47), afirmando que la ley natural se refiere a la naturaleza de la persona humana en su integralidad de alma y cuerpo (§48-50).
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Pío XII** — Encíclica *Summi Pontificatus* (1939, D‑2279): Definió la ley natural como «norma universal de moralidad» que tiene su fundamento en Dios, «omnipotente, creador y padre de todos, y juntamente supremo y perfectísimo legislador y juez». Afirmó que la negación de la ley natural es «la fuente primera y más profunda de los males que afligen a la moderna sociedad». La ley natural está inscrita en el corazón del hombre: «aquella voz que enseña aun a los indoctos y a las mismas tribus salvajes qué es bueno y qué es malo, qué lícito y qué ilícito».
 
 ## Ver también
 

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Matrimonio
 tags: ["sacramental"]
 
-timestamp: 2026-06-23
+timestamp: 2026-06-28
 description: "El matrimonio es el sacramento instituido por Nuestro Señor Jesucristo que santifica la unión legítima entre un varón y una mujer."
 ---
 # Matrimonio
 
 > Área: Sacramental
-> Última actualización: 2026-06-26
+> Última actualización: 2026-06-28
 
 ## Definición
 
@@ -204,6 +204,10 @@ Asimismo, condenó el error de que «si uno toma una tercera o cuarta mujer o m�
 **Concilio de Trento** (Sesión XXIV, D-969-D-982, D-990-D-992) definió que el matrimonio es verdadero y propio sacramento de la Nueva Ley (D-971, Can. 1); es indisoluble — no se disuelve por adulterio (D-975-D-977, Cánones 5 y 7); el matrimonio rato no consumado se dirime por profesión religiosa (D-976, Can. 6); los clérigos en órdenes sagradas y religiosos con voto solemne de castidad no pueden contraer matrimonio válido (D-979, Can. 9); la virginidad y el celibato son estados más perfectos que el matrimonio (D-980, Can. 10); las causas matrimoniales competen a los jueces eclesiásticos (D-982, Can. 12). El decreto *Tametsi* (D-990-D-992) estableció la forma canónica del matrimonio (ante el párroco y dos testigos) bajo pena de nulidad.
 
 **Benedicto XIV** (1741, D‑1452–D‑1457) — Declaración Benedictina sobre los matrimonios clandestinos en Bélgica y Holanda. Declaró válidos los matrimonios contraídos en las Provincias Unidas entre herejes entre sí sin la forma del Tridentino (D‑1454), así como los contraídos entre católicos y herejes sin dicha forma (D‑1455), con tal de que no mediara otro impedimento canónico. Aunque exhortó a los prelados a disuadir a los católicos de contraer matrimonio con herejes, estableció que, una vez contraído, el vínculo es válido y ninguno de los cónyuges puede contraer nuevo matrimonio mientras el otro viva. Esta declaración vino a resolver la disputa sobre la obligatoriedad del decreto *Tametsi* en regiones donde no había sido formalmente promulgado.
+
+**León XIII** — Encíclica *Arcanum Divinae Sapientiae* (1880, D‑1853–D‑1854): Reivindicó la dignidad del matrimonio cristiano frente a los errores del naturalismo y del divorcio civil. Afirmó que el matrimonio es sacramento instituido por Cristo, que tiene a Dios por autor y que es indisoluble por derecho divino. El poder civil no tiene autoridad para disolver el vínculo matrimonial, sino solo para regular sus efectos civiles. El matrimonio cristiano es superior al matrimonio meramente natural; es figura del amor de Cristo a la Iglesia.
+
+**Pío XI** — Encíclica *Casti Connubii* (1930, D‑2225–D‑2226): Reafirmó la doctrina católica sobre el matrimonio frente a los errores modernos: el amor conyugal no es la mera satisfacción del instinto o la pura utilidad social, sino amor ordenado al fin primario del matrimonio (generación y educación de la prole) y a los fines secundarios (ayuda mutua y remedio de la concupiscencia). Rechazó la eugenesia y el aborto como atentados contra la vida. Afirmó la indisolubilidad absoluta del vínculo matrimonial. Condenó el neopaganismo que promueve el amor libre y el matrimonio de prueba.
 
 ## Distinciones importantes
 

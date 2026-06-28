@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Inmaculada Concepción
 tags: ["dogmática_(mariología)"]
 
-timestamp: 2026-06-27
+timestamp: 2026-06-28
 description: "Dogma definido por Pío IX el 8 de diciembre de 1854 (Bula *Ineffabilis Deus*)."
 ---
 # Inmaculada Concepción
 
 > Área: Dogmática (Mariología)
-> Última actualización: 2026-06-27
+> Última actualización: 2026-06-28
 
 ## Definición
 
@@ -49,6 +49,8 @@ Loring explica que la Inmaculada Concepción significa que María fue preservada
 [RM §11]: La Inmaculada Concepción está vinculada al protoevangelio (Gn 3,15): María es la Mujer cuya descendencia aplastará la cabeza de la serpiente. La victoria de Cristo sobre el pecado comienza con la preservación de su Madre de toda mancha de pecado. María es la nueva Eva, enteramente libre del pecado y asociada plenamente a la victoria de Cristo.
 
 ### Según el Enchiridion Symbolorum (Denzinger)
+
+**Pío IX** — Bula *Ineffabilis Deus* (1854, D‑1641–D‑1642): Definió solemnemente como dogma de fe que «la Santísima Virgen María fue preservada inmune de toda mancha de pecado original en el primer instante de su concepción, por singular gracia y privilegio de Dios omnipotente, en previsión de los méritos de Jesucristo, Salvador del género humano». Fue la primera definición dogmática *ex cathedra* antes de la definición de la infalibilidad papal en el Vaticano I. La definición fue preparada por siglos de tradición, confirmada por el sentir unánime de los obispos consultados.
 
 **Sixto IV**, Constitución *Cum praeexcelsa* (1476, D‑734): Estableció la fiesta de la Inmaculada Concepción con indulgencia, invitando a los fieles a dar gracias a Dios «cuya providencia, mirando ab aeterno la humildad de la misma Virgen, con preparación del Espíritu Santo, la constituyó habitación de su Unigénito».
 
