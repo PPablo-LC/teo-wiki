@@ -28,6 +28,13 @@ La mortificación no es un fin en sí misma, sino un medio para alcanzar la libe
 ### Según el Catecismo (CEC)
 
 El CEC §2015 enseña que la vía de la perfección pasa por la cruz. No hay santidad sin renuncia y sin combate espiritual. La mortificación forma parte de la lucha ascética necesaria para crecer en la gracia.
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Inocencio XII** (1699, D‑1333) — Breve *Cum alias* contra Fenelón:
+
+**D‑1333**: «El abandono no es sino la abnegación o renuncia de sí mismo que Jesucristo nos exige en el Evangelio... Esa abnegación de nosotros mismos no es sino en cuanto al interés propio... Las pruebas extremas en que debe ejercitarse esta abnegación o abandono de sí mismo, son las tentaciones con las que un Dios celoso quiere purgar nuestro amor, no mostrándole refugio ni esperanza alguna en cuanto a su propio interés, ni siquiera el eterno.» Condenada. La condena afirma que la abnegación cristiana no puede extenderse hasta renunciar a la esperanza de la salvación eterna.
+
 ### Según Royo Marín (TPCr)
 
 Los principales aspectos de la mortificación según TPCr (n.225-252):
@@ -65,10 +72,11 @@ Se relaciona con la [[abnegación]], el [[desprendimiento]], la [[purificación_
 - [[tim_barry_mortification_maketh_man]]
 
 ## Ver también
-[[abnegación]], [[desprendimiento]], [[purificaciones_pasivas]], [[vía_purgativa]], [[penitencia]], [[ayuno]]
+[[abnegación]], [[desprendimiento]], [[purificaciones_pasivas]], [[vía_purgativa]], [[penitencia]], [[ayuno]], [[abandono_en_dios]]
 
 ## Referencias
 
 - TPCr, Tercera Parte, Libro I, Cap. IV, n.225-252
 - TPCr, Tercera Parte, Libro I, Cap. V, n.261-262
 - CEC §2015
+- Denzinger D-1333 (Inocencio XII, *Cum alias*)

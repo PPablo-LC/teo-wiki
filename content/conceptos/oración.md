@@ -41,6 +41,16 @@ La Vida de Jesús (VJ) recoge la oración sacerdotal de Cristo en la Última Cen
 
 [VJ, Cap. V]
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Inocencio XII** (1699, D‑1341–D‑1343) — Breve *Cum alias* contra Fenelón:
+
+**D‑1341**: «La meditación consta de actos discursivos que se distinguen fácilmente unos de otros... Esta composición de actos discursivos y de reflejos son ejercicio peculiar del amor interesado.» Condenada. La condena afirma que la meditación discursiva no es propia solo del amor interesado, sino acto ordinario de la vida espiritual.
+
+**D‑1342**: «Se da un estado de contemplación tan sublime y perfecta que se convierte en habitual; de suerte que cuantas veces el alma ora actualmente, su oración es contemplativa, no discursiva. Entonces no necesita ya volver a la meditación y a sus actos metódicos.» Condenada. La condena afirma que la oración contemplativa no excluye la necesidad de volver a la meditación.
+
+**D‑1343**: «Las almas contemplativas están privadas de la vista distinta, sensible y refleja de Jesucristo... en el fervor naciente de su contemplación... [y] en las pruebas extremas.» Condenada. La condena afirma que la consideración de la humanidad de Cristo no se pierde en la contemplación.
+
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás dedica la cuestión 83 de la IIa-IIae a la oración. La oración es un acto de la razón práctica (no de la voluntad) que consiste en elevar la mente a Dios. En cuanto acto de la virtud de la religión, la oración es propiamente una petición dirigida a Dios (q.83 a.1). Es acto de la razón que expresa un deseo de la voluntad.
@@ -91,10 +101,11 @@ Se relaciona con la [[vida_de_oración]], los [[grados_de_oración]], la [[medit
 - [[tim_barry_mortification_maketh_man]]
 
 ## Ver también
-[[vida_de_oración]], [[grados_de_oración]], [[meditación]], [[contemplación]], [[oración_litúrgica]]
+[[vida_de_oración]], [[grados_de_oración]], [[meditación]], [[contemplación]], [[oración_litúrgica]], [[amor_puro]]
 
 ## Referencias
 
 - TPCr, Tercera Parte, Libro II, Cap. III, Secc. I, n.475-483
 - SmTh IIIª q.21 aa.1-4
 - [VJ, Cap. V]
+- Denzinger D-1341–D-1343 (Inocencio XII, *Cum alias*)

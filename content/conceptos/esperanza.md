@@ -83,6 +83,16 @@ La esperanza cristiana confiere una fuerte determinación al compromiso en campo
 
 Cristo desde el primer instante de su concepción gozó de la fruición plena de la divinidad en [[visión_beatífica]]. Por tanto, no tuvo la [[virtud_de_la_esperanza]] como virtud teologal, pues el objeto de la esperanza es un bien futuro y arduo que aún no se posee. Sin embargo, Cristo sí tuvo esperanza respecto de aquellas cosas que aún no había alcanzado, como la inmortalidad y la gloria del cuerpo (la resurrección y la ascensión a los cielos). La gloria del cuerpo no pertenece a la bienaventuranza principal, que consiste en la visión de Dios, y por eso podía esperarla incluso mientras gozaba de la visión beatífica.
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Inocencio XII** (1699, D‑1331–D‑1332, D‑1337) — Breve *Cum alias* contra Fenelón:
+
+**D‑1331**: «En el mismo estado de santa indiferencia no queremos nada para nosotros, sino todo para Dios. Nada queremos para ser perfectos y bienaventurados por propio interés; sino que toda la perfección y bienaventuranza la queremos en cuanto place a Dios hacer que queramos estas cosas por la impresión de su gracia.» Condenada. La condena afirma que la perfección cristiana no excluye el deseo de la propia bienaventuranza como motivo legítimo; la virtud de la esperanza incluye el deseo de la salvación personal.
+
+**D‑1332**: «En este estado de santa indiferencia no queremos ya la salvación como salvación propia, como liberación eterna, como paga de nuestros merecimientos, como nuestro máximo interés; sino que la queremos con voluntad plena, como gloria y beneplácito de Dios, como cosa que El quiere, y quiere que la queramos a causa de El mismo.» Condenada. La condena afirma que la salvación propia es objeto legítimo del deseo cristiano; quererla no es imperfección sino acto de la virtud de la esperanza.
+
+**D‑1337**: «En este estado, el alma pierde toda esperanza de su propio interés; pero en su parte superior, es decir, en sus actos directos e íntimos, nunca pierde la esperanza perfecta, que es el deseo desinteresado de las promesas.» Condenada. La condena afirma que la esperanza incluye esencialmente el deseo de la propia bienaventuranza; no hay una «esperanza desinteresada» que excluya el interés por la propia salvación.
+
 ### Según los Ejercicios Espirituales 2026 a la Curia Romana (EjEsp2026)
 
 Mons. Erik Varden dedica la meditación final (capítulo 11) a comunicar la [[esperanza]] cristiana en un tiempo marcado por el dolor sordo de los jóvenes y la desorientación cultural. La esperanza cristiana no es optimismo ingenuo, sino la certeza de que Cristo crucificado y resucitado es el futuro del género humano.
@@ -110,7 +120,7 @@ Ver artículo principal: [[virtud_de_la_esperanza]]
 - [[adam_farber_fortitude_through_excellence_in_patience]]
 
 ## Ver también
-[[virtud_de_la_esperanza]], [[virtudes_teologales]], [[virtudes_infusas]]
+[[virtud_de_la_esperanza]], [[virtudes_teologales]], [[virtudes_infusas]], [[amor_puro]], [[francisco_fenelón]]
 
 ## Referencias
 
@@ -121,3 +131,4 @@ Ver artículo principal: [[virtud_de_la_esperanza]]
 - SmTh IIª-IIae q.17 aa.1-8; q.18 aa.1-4; q.22 aa.1-2
 - SmTh IIIª q.7 a.4
 - [EjEsp2026, cap. 11: «Comunicar Esperanza»]
+- Denzinger D-1331–D-1332, D-1337 (Inocencio XII, *Cum alias*)

@@ -61,6 +61,18 @@ La vida contemplativa es duradera en sí misma porque trata de cosas incorruptib
 
 La vida contemplativa es mejor que la activa en sí misma (q.182 a.1), más meritoria (q.182 a.2), y anterior en dignidad. La vida activa la ayuda disponiendo las pasiones y es anterior en el tiempo como disposición (q.182 a.3-4). Para más detalle, véase [[vida_activa]].
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Inocencio XII** (1699, D‑1328, D‑1341–D‑1343) — Breve *Cum alias* contra Fenelón:
+
+**D‑1328**: «En el estado de la vida contemplativa o unitiva, se pierde todo motivo interesado de temor y de esperanza.» Condenada. La condena afirma que la vida contemplativa no suprime la virtud teologal de la esperanza ni el temor filial.
+
+**D‑1341**: «La meditación consta de actos discursivos que se distinguen fácilmente unos de otros... ejercicio peculiar del amor interesado.» Condenada. La meditación discursiva pertenece también a la vida contemplativa.
+
+**D‑1342**: «Se da un estado de contemplación tan sublime y perfecta que se convierte en habitual... Entonces no necesita ya volver a la meditación y a sus actos metódicos.» Condenada. La vida contemplativa no excluye la meditación metódica.
+
+**D‑1343**: «Las almas contemplativas están privadas de la vista distinta, sensible y refleja de Jesucristo...» Condenada. La contemplación no priva a las almas de la consideración de la humanidad de Cristo.
+
 ## Distinciones importantes
 
 - Vida contemplativa (clausura, oración como fin principal) vs. [[vida_activa]] (ministerio apostólico exterior)
@@ -75,7 +87,7 @@ Se relaciona con la [[contemplación]], la [[vida_activa]], la [[vida_consagrada
 
 ## Ver también
 
-[[contemplación]], [[vida_activa]], [[vida_consagrada]], [[oración]], [[mística]], [[clausura]], [[rapto]]
+[[contemplación]], [[vida_activa]], [[vida_consagrada]], [[oración]], [[mística]], [[clausura]], [[rapto]], [[amor_puro]]
 
 ## Referencias
 
@@ -84,3 +96,4 @@ Se relaciona con la [[contemplación]], la [[vida_activa]], la [[vida_consagrada
 - SmTh II-II, q.179, a.1-2
 - SmTh II-II, q.180, a.1-8
 - SmTh II-II, q.182, a.1-4
+- Denzinger D-1328, D-1341–D-1343 (Inocencio XII, *Cum alias*)

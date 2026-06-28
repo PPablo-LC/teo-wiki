@@ -29,6 +29,14 @@ En la vida espiritual, la desesperación puede ser también una tentación permi
 
 «La enfermedad puede conducir a la angustia, al repliegue sobre sí mismo, a veces incluso a la desesperación y a la rebelión contra Dios» (§1501).
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Inocencio XII** (1699, D‑1336, D‑1338) — Breve *Cum alias* contra Fenelón:
+
+**D‑1336**: «Entonces el alma, desprendida de sí misma, expira con Cristo en la cruz... realiza el sacrificio absoluto de su propio interés en cuanto a la eternidad.» Condenada. La condena afirma que no es lícito ni posible, incluso en las pruebas extremas, realizar un sacrificio absoluto de la propia salvación que equivalga a desesperación.
+
+**D‑1338**: «El director puede entonces permitir a esta alma que se avenga sencillamente a la pérdida de su propio interés y a la justa condenación que cree ha sido decretada por Dios contra ella.» Condenada. La condena afirma que el director espiritual no puede permitir al alma que acepte su condenación como cosa debida, pues esto implica un acto contrario a la esperanza.
+
 ### Según la Summa Theologiae (SmTh)
 
 **Ia-IIae q.40 a.4 — La desesperación como pasión del irascible:**
@@ -74,7 +82,7 @@ Los remedios contra la desesperación: «la misericordia de Dios es incansable e
 
 ## Ver también
 
-[[virtud_de_la_esperanza]], [[confianza_en_dios]], [[presunción]], [[acidia]], [[purificaciones_pasivas]], [[desaliento]], [[tentación]]
+[[virtud_de_la_esperanza]], [[confianza_en_dios]], [[presunción]], [[acidia]], [[purificaciones_pasivas]], [[desaliento]], [[tentación]], [[amor_puro]]
 
 ## Referencias
 
@@ -83,3 +91,4 @@ Los remedios contra la desesperación: «la misericordia de Dios es incansable e
 - TPCr, Tercera Parte, Libro I, Cap. VI (Purificación pasiva)
 - SmTh Ia-IIae q.40 a.4; aa.5-6
 - SmTh IIª-IIae q.20 aa.1-4
+- Denzinger D-1336, D-1338 (Inocencio XII, *Cum alias*)

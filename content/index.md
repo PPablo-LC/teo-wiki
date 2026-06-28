@@ -99,6 +99,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[amor_humano]]
 - [[amor_preferencial_por_los_pobres]]
 - [[amor_propio]]
+- [[amor_puro]]
 - [[amén]]
 - [[analogía]]
 - [[analogía_de_la_fe]]
@@ -1611,6 +1612,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 ### Q
 
 - [[querella_de_nulidad]]
+- [[quietismo]]
 - [[quietud]]
 
 ### R
@@ -2190,6 +2192,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[flaviano_constantinopla]]
 - [[focio]]
 - [[fotino]]
+- [[francisco_fenelón]]
 - [[félix_de_urgel]]
 - [[félix_ii_iii]]
 - [[félix_iv_papa]]

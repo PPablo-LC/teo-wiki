@@ -51,6 +51,16 @@ Siguiendo a Dionisio, Santo Tomás distingue tres movimientos en la operación c
 
 La contemplación de la verdad divina es el elemento principal de la vida contemplativa; la de los efectos divinos (criaturas) pertenece de modo secundario como medio de elevación a Dios (q.180 a.4). En la vida presente, la contemplación no puede alcanzar la visión de la esencia divina mientras se usen los sentidos corporales; solo en el [[rapto]] es posible excepcionalmente (q.180 a.5).
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Inocencio XII** (1699, D‑1341–D‑1343) — Breve *Cum alias* contra Fenelón:
+
+**D‑1341**: «La meditación consta de actos discursivos que se distinguen fácilmente unos de otros... Esta composición de actos discursivos y de reflejos son ejercicio peculiar del amor interesado.» Condenada. La condena afirma que la meditación discursiva no es ejercicio exclusivo del amor interesado, sino acto ordinario de la vida espiritual compatible con toda disposición interior.
+
+**D‑1342**: «Se da un estado de contemplación tan sublime y perfecta que se convierte en habitual; de suerte que cuantas veces el alma ora actualmente, su oración es contemplativa, no discursiva. Entonces no necesita ya volver a la meditación y a sus actos metódicos.» Condenada. La condena afirma que incluso las almas contemplativas más elevadas pueden y deben recurrir a la meditación cuando sea necesario; no existe un estado donde la meditación quede totalmente excluida.
+
+**D‑1343**: «Las almas contemplativas están privadas de la vista distinta, sensible y refleja de Jesucristo en dos tiempos diversos. Primero, en el fervor naciente de su contemplación; segundo, pierde el alma la vista de Jesucristo en las pruebas extremas.» Condenada. La condena afirma que la consideración de la humanidad de Cristo es permanente en la vida cristiana y no se pierde en ningún estado de contemplación.
+
 ## Distinciones importantes
 
 - Contemplación natural (sensible, imaginativa, intelectual) vs. sobrenatural o infusa.
@@ -68,8 +78,9 @@ Se relaciona con los [[grados_de_oración]], la [[meditación]] (como preparaci�
 - [[tim_barry_mortification_maketh_man]]
 
 ## Ver también
-[[grados_de_oración]], [[meditación]], [[vida_de_oración]], [[oración]]
+[[grados_de_oración]], [[meditación]], [[vida_de_oración]], [[oración]], [[amor_puro]], [[vida_contemplativa]]
 
 ## Referencias
 
 - TPCr, Tercera Parte, Libro II, Cap. III, n.514-552
+- Denzinger D-1341–D-1343 (Inocencio XII, *Cum alias*)

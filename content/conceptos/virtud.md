@@ -45,6 +45,17 @@ Quienes tienen responsabilidades políticas deben ejercer el poder mediante el r
 **Permanencia de las virtudes después de esta vida (Iª-IIae q.67):** Las virtudes morales permanecen en la gloria en cuanto a lo formal (el orden de la razón), pero no en cuanto a lo material (las pasiones y operaciones de esta vida) (a.1): la prudencia sin error, la fortaleza sin males, la templanza sin concupiscencias rebeldes, la justicia como sumisión a Dios. Las virtudes intelectuales permanecen en cuanto a las especies inteligibles (elemento formal) pero no en cuanto a los fantasmas (elemento material) (a.2). La fe no permanece en la gloria (a.3): la imperfección de no ver es esencial a la fe y es incompatible con la visión beatífica. La esperanza no permanece (a.4): importa movimiento hacia lo que no se posee, incompatible con la fruición de Dios. La caridad sí permanece (a.6): el amor no implica esencialmente imperfección; en la gloria la caridad se perfecciona y permanece numéricamente la misma.
 
 [SmTh Iª-IIae q.55-67]
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Inocencio XII** (1699, D‑1344–D‑1347) — Breve *Cum alias* contra Fenelón:
+
+**D‑1344**: «En el estado pasivo se ejercitan todas las virtudes distintas, sin pensar que sean virtudes. En cualquier momento no se piensa otra cosa que hacer lo que Dios quiere, y a la vez el amor celoso hace que no quiera uno, ya la virtud para sí y que no esté nunca tan dotado de virtud como cuando ya no está pegado a la virtud.» Condenada. La condena afirma que las almas perfectas no pierden la conciencia y el ejercicio explícito de las virtudes.
+
+**D‑1345**: «En este sentido puede decirse que el alma pasiva y desinteresada ya no quiere ni el mismo amor, en cuanto es su perfección y felicidad, sino solamente en cuanto es lo que Dios quiere de nosotros.» Condenada. La condena afirma que querer la propia perfección y felicidad como fruto del amor no es imperfección.
+
+**D‑1347**: «Los santos místicos excluyeron del estado de las almas transformadas los ejercicios de las virtudes.» Condenada. La condena afirma que las almas transformadas siguen ejercitando las virtudes de modo consciente y deliberado.
+
 ### Según Royo Marín (TPCr)
 El Capítulo 1 de la Segunda Parte estudia el organismo sobrenatural: las virtudes infusas (teologales y morales) y los dones del Espíritu Santo. Las virtudes morales infusas son hábitos que disponen las potencias del alma para seguir el dictamen de la razón iluminada por la fe con relación a los medios conducentes al fin sobrenatural. La caridad es la forma de todas las virtudes: sin ella, las demás virtudes no pueden ordenarse al fin último sobrenatural.
 
@@ -66,8 +77,9 @@ Se relaciona con [[virtudes_cardinales]], [[virtudes_morales]], [[virtudes_infus
 - [[strive_detox_from_porn]]
 
 ## Ver también
-[[hábito]], [[gracia_santificante]], [[bienaventuranzas]]
+[[hábito]], [[gracia_santificante]], [[bienaventuranzas]], [[amor_puro]]
 
 ## Referencias
 - [CEC §1803-1845]
 - [TPCr, Segunda Parte, Cap. 1; Tercera Parte, Libro II, Cap. 2]
+- Denzinger D-1344–D-1347 (Inocencio XII, *Cum alias*)
