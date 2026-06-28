@@ -23,6 +23,8 @@ El probabilismo surgió en el siglo XVI dentro de la teología moral católica, 
 
 ### Según el Enchiridion Symbolorum (Denzinger)
 
+**Alejandro VIII** (1690, D‑1293) — Decreto del Santo Oficio contra errores jansenistas: «No es lícito seguir la opinión probable o, entre las probables, la más probable.» Condenada. La nota del Denzinger precisa: «Con esta sentencia es condenado el tuciorismo absoluto.» La condena reafirma la licitud de seguir la opinión probable en moral, rechazando el extremo rigorista que exigía siempre la opinión más segura. Esta condena forma parte de la reacción pontificia contra el rigorismo jansenista, complementaria a la condena del laxismo por Inocencio XI.
+
 **Inocencio XI** (1679, D‑1151): «No es lícito seguir en la administración de los sacramentos la opinión probable sobre el valor del sacramento, dejada la más segura, a no ser que lo vede la ley, la convención o el peligro de incurrir en grave daño.» Condenada como laxista. La condena limita el probabilismo en materia sacramental, donde debe prevalecer la opinión más segura.
 
 **Inocencio XI** (1679, D‑1152): «Estimo como probable que el juez puede juzgar según una opinión hasta menos probable.» Condenada como laxista.

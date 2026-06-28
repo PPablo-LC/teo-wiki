@@ -85,6 +85,8 @@ Pío V condenó los errores de Bayo sobre el libre albedrío (D‑1027–D‑103
 - D‑1093 (2ª): En el estado de naturaleza caída no se resiste nunca a la gracia interior. Condenada como herética. El libre albedrío puede resistir a la gracia.
 - D‑1094 (3ª): Para merecer y desmerecer no se requiere la libertad de necesidad, sino que basta la libertad de coacción. Condenada como herética. El acto meritorio requiere libertad de indiferencia o de necesidad (no estar determinado internamente al bien), no solo la ausencia de coacción externa. Jansenio reducía la libertad a la mera espontaneidad externa, negando la autodeterminación interior de la voluntad.
 
+**Alejandro VIII** (1690, D‑1291) — Decreto del Santo Oficio contra errores jansenistas: «En el estado de la naturaleza caída basta para el pecado mortal y el demérito aquella libertad por la que fue voluntario y libre en su causa: el pecado original y la voluntad de Adán al pecar.» Condenada. La condena afirma que el pecado actual requiere un acto personal libre, no la mera imputación del pecado original. La libertad en su causa (el pecado de Adán) no es suficiente para el pecado formal; se requiere un acto libre de la propia voluntad.
+
 ## Relaciones doctrinales
 
 [[libertad_humana]], [[actos_humanos]], [[conciencia_moral]], [[gracia]], [[pecado_original]]

@@ -56,6 +56,8 @@ Loring explica que la Inmaculada Concepción significa que María fue preservada
 
 **Alejandro VII**, Bula *Sollicitudo omnium Ecclesiarum* (8 de diciembre de 1661, D‑1100): declaró que existe un antiguo y piadoso sentir de los fieles según el cual el alma de la Virgen María fue preservada inmune del pecado original en el primer instante de su creación, por especial gracia y privilegio de Dios, en vista de los méritos de Jesucristo. Renovó las constituciones pontificias en favor de esta sentencia, constatando que ya casi todos los católicos la abrazan. No definió dogmáticamente la doctrina, pero la confirmó como la sentencia piadosa común, preparando el camino para la definición de 1854.
 
+**Alejandro VIII** (1690, D‑1314): Condenó la proposición jansenista que afirmaba que la oblación de la Virgen María en el templo «atestigua que ella necesitaba purificación, y que el hijo que se ofrecía estaba también manchado con la mancha de la madre». La condena reafirma que María no necesitó purificación alguna por su Inmaculada Concepción.
+
 ## Distinciones importantes
 
 - **Inmaculada Concepción**: María fue concebida sin pecado original

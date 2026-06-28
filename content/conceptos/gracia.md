@@ -83,6 +83,8 @@ Pío V, en la bula *Ex omnibus afflictionibus* (1567), condenó los errores de M
 
 **Inocencio X** (1654, D‑1097) — Decreto sobre los auxilios: declaró que ningún crédito debe darse a los asertos, actas y manuscritos de la Congregación de Auxiliis ni a la supuesta Constitución de Paulo V, y que deben observarse los decretos de Paulo V y Urbano VIII. Reiteró la paz disciplinar dejando sin definición dogmática la controversia entre las escuelas.
 
+**Alejandro VIII** (1690, D‑1295–D‑1296) — Decreto del Santo Oficio contra errores jansenistas, condenó las proposiciones que negaban a paganos, judíos y herejes todo influjo de Cristo (D‑1295) y que declaraban la gracia suficiente perniciosa (D‑1296). La condena reafirma que Cristo concede alguna influencia salutífera a todos los hombres y que la gracia suficiente es verdaderamente útil y benéfica, no perniciosa. Por el contexto jansenista, estas condenas se relacionan con la afirmación de que existe una gracia verdaderamente suficiente que puede ser resistida. Véase [[gracia_suficiente]].
+
 ## Distinciones importantes
 
 - Gracia santificante (habitual) vs. gracias actuales

@@ -41,6 +41,30 @@ La condena del jansenismo se articula en varios documentos pontificios. El núcl
 
 **Alejandro VII** (1665, D‑1099) — Constitución *Regiminis Apostolici*: impuso un formulario de sumisión que debía ser suscrito por todos los eclesiásticos. El texto del formulario declaraba: «Yo, N. N., me someto a la Constitución apostólica de Inocencio X... y con ánimo sincero rechazo y condeno las cinco proposiciones extractadas del libro de Cornelio Jansenio que lleva por título Augustinus, y en el sentido intentado por el mismo autor, tal como la Sede Apostólica las condenó». La negativa a firmar el formulario se convirtió en la señal de identidad del partido jansenista. Inocencio XII (1694) confirmó las constituciones anteriores y prohibió añadir nada al formulario; Clemente XI (1705, D‑1350) cerró todo subterfugio condenando el «silencio obsequioso».
 
+**Alejandro VIII** (1690, D‑1291–D‑1321) — Decreto del Santo Oficio de 7 de diciembre de 1690, condenó 31 proposiciones jansenistas como respectivamente heréticas, erróneas, escandalosas, temerarias, injuriosas, cismáticas y próximas a la herejía. Se trata de un desarrollo ulterior del jansenismo que extendía sus consecuencias a múltiples campos:
+
+- **Libertad y pecado original** (D‑1291): «En el estado de la naturaleza caída basta para el pecado mortal y el demérito aquella libertad por la que fue voluntario y libre en su causa: el pecado original y la voluntad de Adán al pecar.» Condenada. La Iglesia enseña que el pecado actual requiere un acto personal libre, no la mera imputación del pecado de Adán.
+
+- **Ignorancia invencible** (D‑1292): «Aunque se dé ignorancia invencible del derecho de la naturaleza, ésta, en el estado de la naturaleza caída, no excusa por sí misma al que obra, de pecado formal.» Condenada. La ignorancia invencible de la ley natural puede excusar de pecado formal.
+
+- **Tuciorismo** (D‑1293): «No es lícito seguir la opinión probable o, entre las probables, la más probable.» Condenada. Se condena el tuciorismo absoluto que exige siempre la opinión más segura.
+
+- **Universalidad de la redención** (D‑1294): «Cristo se dio a sí mismo como oblación a Dios por nosotros, no por solos los elegidos, sino por todos y solos los fieles.» Condenada. Cristo murió por todos los hombres, no solo por los fieles.
+
+- **Gracia suficiente negada a infieles** (D‑1295–D‑1296): «Los paganos, judíos, herejes... no reciben de Cristo absolutamente ningún influjo... la gracia suficiente no tanto es útil cuanto perniciosa.» Condenadas. Cristo concede alguna influjo salutífero a todos los hombres, y la gracia suficiente es verdaderamente útil.
+
+- **Amor de Dios y pecado** (D‑1297–D‑1303): «Toda acción humana deliberada es amor de Dios o del mundo... Forzoso es que el infiel peque en toda obra... Todo lo que no procede de la fe cristiana sobrenatural... es pecado.» Condenadas. Existen actos moralmente buenos fuera de la fe sobrenatural y de la caridad.
+
+- **Atrición y temor** (D‑1304–D‑1305): «El temor del infierno, no es sobrenatural. La atrición que se concibe por miedo al infierno... sin el amor de benevolencia a Dios... no es movimiento bueno ni sobrenatural.» Condenadas. El temor del infierno es don sobrenatural y la atrición concebida por ese temor es buena disposición.
+
+- **Orden de la penitencia** (D‑1306–D‑1309): «El orden de anteponer la satisfacción a la absolución, no lo introdujo la disciplina... sino la misma ley y prescripción de Cristo.» Condenada. La práctica de absolver antes de la satisfacción es legítima disciplina eclesiástica.
+
+- **Confesión y comunión** (D‑1310–D‑1313): «Las confesiones hechas con religiosos, la mayor parte son sacrílegas o inválidas... Deben ser juzgados como sacrílegos quienes pretenden el derecho a recibir la comunión antes de haber hecho penitencia condigna... Deben ser apartados de la sagrada comunión quienes todavía no tienen un amor a Dios purísimo.» Condenadas. La confesión con religiosos es válida, la comunión no requiere pureza absoluta, y el acceso a la comunión no exige amor purísimo.
+
+- **Inmaculada Concepción** (D‑1314): «La oblación... de la bienaventurada Virgen María... atestigua que ella necesitaba purificación.» Condenada. María no necesitó purificación del pecado por su Inmaculada Concepción.
+
+- **Imágenes sagradas** (D‑1315), **alabanza a María** (D‑1316), **forma del bautismo** (D‑1317), **intención del ministro** (D‑1318), **infalibilidad pontificia** (D‑1319), **autoridad de San Agustín sobre las bulas** (D‑1320), **Bula *In eminenti*** (D‑1321). Todas estas proposiciones fueron condenadas por su respectivo error contra la doctrina católica.
+
 Clemente XI, con la Constitución *Vineam Domini Sabaoth* (1705, D‑1350), condenó el «silencio obsequioso» de quienes se negaban a firmar el formulario. Posteriormente, la Constitución *Unigenitus* (1713, D‑1351–D‑1445) condenó 101 proposiciones de Quesnel, heredero del jansenismo.
 
 ## Distinciones importantes
@@ -55,10 +79,11 @@ Clemente XI, con la Constitución *Vineam Domini Sabaoth* (1705, D‑1350), cond
 
 ## Ver también
 
-[[cornelio_jansenio]], [[inocencio_x]], [[alejandro_vii]], [[clemente_xi]], [[unigenitus]], [[port-royal]]
+[[cornelio_jansenio]], [[inocencio_x]], [[alejandro_vii]], [[alejandro_viii]], [[clemente_xi]], [[unigenitus]], [[port-royal]]
 
 ## Referencias
 
 - Denzinger D-1092–D-1099
+- Denzinger D-1291–D-1321 (Alejandro VIII)
 - Denzinger D-1350 (silencio obsequioso)
 - Denzinger D-1351–D-1445 (Unigenitus)

@@ -65,6 +65,10 @@ La constitución dogmática *Pastor Aeternus* (18 de julio de 1870) definió sol
 
 **Inocencio X** (1647, D‑1091) — Decreto del Santo Oficio: declaró herética la proposición que afirmaba que San Pedro y San Pablo son «dos príncipes de la Iglesia que constituyen uno solo», «dos corifeos y guías supremos de la Iglesia Católica», «la doble cabeza de la Iglesia», o «dos sumos pastores y presidentes de la Iglesia» explicada de modo que pusiera omnímoda igualdad entre ambos apóstoles sin subordinación ni sumisión de San Pablo a San Pedro en la potestad suprema y régimen de la Iglesia universal. La condena reafirma que el primado reside únicamente en San Pedro y sus sucesores, y que San Pablo, aunque igual en dignidad apostólica, estaba sujeto a Pedro en la jurisdicción suprema.
 
+**Alejandro VIII** (1690, D‑1319) — Decreto del Santo Oficio contra errores jansenistas: condenó la proposición de que «es fútil y ha sido otras tantas veces extirpada la aserción sobre la autoridad del Romano Pontífice sobre el Concilio ecuménico y su infalibilidad en resolver las cuestiones de fe.» La condena reafirma la autoridad suprema del Romano Pontífice sobre el Concilio ecuménico y su infalibilidad en materia de fe.
+
+**Alejandro VIII** (1690, D‑1322–D‑1326) — Constitución *Inter multiplices*, de 4 de agosto de 1690: declaró nulos, írritos e inválidos los cuatro artículos del clero galicano de 1682 que pretendían limitar la potestad del Romano Pontífice. La condena abarcó la negación de toda potestad eclesiástica sobre lo temporal (D‑1322), la afirmación de la autoridad de los decretos conciliaristas de Constanza (D‑1323), el sometimiento de la potestad apostólica a las costumbres galicanas (D‑1324) y la negación de la infalibilidad pontificia sin el consentimiento de la Iglesia (D‑1325). Véase [[galicanismo]] para el análisis detallado de cada artículo.
+
 ## Distinciones importantes
 
 - Primado de jurisdicción (verdadera potestad episcopal universal) vs. primado de honor (mera precedencia)

@@ -31,6 +31,12 @@ El Concilio enseña que la contrición imperfecta (atrición) «si excluye la vo
 
 **Inocencio XI** (1679, D‑1207) condenó la proposición: «Es probable que basta la atrición natural, con tal de que sea honesta.» Condenada como escandalosa. La condena se refiere a la «atrición natural» desprovista de todo elemento sobrenatural, no a la atrición concebida con ayuda de la gracia actual.
 
+**Alejandro VIII** (1690, D‑1304–D‑1305) — Decreto del Santo Oficio, condenó las proposiciones jansenistas sobre el temor y la atrición:
+
+**D‑1304**: «El temor del infierno, no es sobrenatural.» Condenada. El temor del infierno, cuando se funda en la fe que enseña que Dios castiga el pecado, es un don sobrenatural y un movimiento inspirado por Dios que prepara al amor de la justicia.
+
+**D‑1305**: «La atrición que se concibe por miedo al infierno y a los castigos, sin el amor de benevolencia a Dios por sí mismo, no es movimiento bueno ni sobrenatural.» Condenada. La atrición concebida por miedo al infierno, con exclusión de la voluntad de pecar y con esperanza del perdón, es movimiento bueno y sobrenatural, y dispone para la gracia en el sacramento.
+
 ## Distinciones importantes
 
 - **Atrición perfecta vs. imperfecta**: la atrición imperfecta se funda en motivos sobrenaturales (temor del infierno) pero no en el amor perfecto a Dios; la contrición perfecta se funda en el amor a Dios

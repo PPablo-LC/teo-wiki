@@ -3,7 +3,7 @@ tags:
   - meta
   - index
 title: Wiki Index
-updated: '2026-06-27'
+updated: '2026-06-28'
 note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts/regenerar-indice.py'
 ---
 
@@ -824,6 +824,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 
 ### G
 
+- [[galicanismo]]
 - [[gaudete_et_exsultate]]
 - [[gaudium_et_spes]]
 - [[gaudium_et_spes_22]]
@@ -845,6 +846,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[gracia_habitual]]
 - [[gracia_sacramental]]
 - [[gracia_santificante]]
+- [[gracia_suficiente]]
 - [[gracias_actuales]]
 - [[gracias_gratis_dadas]]
 - [[grados_de_oración]]
@@ -1415,6 +1417,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[pecado_de_idolatría]]
 - [[pecado_de_los_ángeles]]
 - [[pecado_de_omisión]]
+- [[pecado_filosófico]]
 - [[pecado_mortal]]
 - [[pecado_original]]
 - [[pecado_social]]
@@ -2133,6 +2136,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[albino_menéndez-reigada]]
 - [[alejandro_iii]]
 - [[alejandro_vii]]
+- [[alejandro_viii]]
 - [[anastasio_ii]]
 - [[antonio_royo_marín]]
 

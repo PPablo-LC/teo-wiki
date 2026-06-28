@@ -210,6 +210,14 @@ Juan Pablo II vincula el sacramento de la Penitencia con el poder de las llaves 
 
 **Alejandro VII** (1667, D‑1146) — Controversia sobre la atrición: prohibió censurar con nota teológica ninguna de las dos sentencias sobre si la atrición concebida por miedo del infierno (con exclusión de la voluntad de pecar y esperanza del perdón) requiere además algún acto de amor de Dios para alcanzar la gracia en el sacramento, mientras la Sede Apostólica no definiese. Dejó ambas opiniones en libertad.
 
+**Alejandro VIII** (1690, D‑1306–D‑1308) — Decreto del Santo Oficio contra errores jansenistas sobre el orden de la penitencia:
+
+**D‑1306**: «El orden de anteponer la satisfacción a la absolución, no lo introdujo la disciplina o una institución de la Iglesia, sino la misma ley y prescripción de Cristo, por dictado en cierto modo de la naturaleza misma de la cosa.» Condenada. El orden de absolver antes de la satisfacción es legítima disciplina eclesiástica, no precepto divino inmutable.
+
+**D‑1307**: «Por la práctica de absolver inmediatamente, se ha invertido el orden de la penitencia.» Condenada. La práctica de absolver inmediatamente no invierte el orden de la penitencia, sino que sigue la disciplina aprobada por la Iglesia.
+
+**D‑1308**: «La costumbre moderna en cuanto a la administración del sacramento de la penitencia, aunque se sustenta en la autoridad de muchísimos hombres y la confirma la duración de mucho tiempo, no la posee la Iglesia por uso, sino por abuso.» Condenada. La práctica moderna de administrar la penitencia es uso legítimo de la Iglesia, no abuso.
+
 **Inocencio XI** (1679, D‑1205–D‑1215) condenó proposiciones laxistas sobre la penitencia: que se cumple el precepto de comunión anual por la manducación sacrílega (D‑1205); que la confesión y comunión frecuente aun en quienes viven de modo pagano es señal de predestinación (D‑1206); que basta la atrición natural honesta (D‑1207); que no hay obligación de confesar la costumbre de pecado (D‑1208); que es lícito absolver a los que se han confesado solo a medias por gran concurrencia (D‑1209); que no debe negarse la absolución al penitente sin esperanza de enmienda (D‑1210); que puede absolverse a quien está en ocasión próxima de pecado y voluntariamente la busca (D‑1211–D‑1213); que puede absolverse a quien ignora los misterios de la Trinidad y Encarnación aunque sea por negligencia culpable (D‑1214–D‑1215). Condenadas como escandalosas y perniciosas.
 
 ## Distinciones importantes

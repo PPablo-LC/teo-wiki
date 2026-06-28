@@ -194,6 +194,12 @@ El **Papa Benedicto XII** (1341), al responder a los errores de los armenios (D-
 
 - [D-857-D-870]
 
+**Alejandro VIII** (1690, D‑1317–D‑1318) — Decreto del Santo Oficio contra errores jansenistas:
+
+**D‑1317**: «Alguna vez fue válido el bautismo conferido bajo esta forma: "En el nombre del Padre" etc., omitidas las palabras: "Yo te bautizo".» Condenada. La condena afirma que la forma del bautismo debe incluir la expresión «Yo te bautizo» (o equivalente) junto con la invocación trinitaria. La omisión de la palabra que expresa el acto del ministro invalida el bautismo.
+
+**D‑1318**: «Es válido el bautismo conferido por un ministro que guarda todo el rito externo y la forma de bautizar, pero resuelve interiormente consigo mismo en su corazón: "No intento hacer lo que hace la Iglesia".» Condenada. La condena afirma que la intención interna de no hacer lo que hace la Iglesia invalida el bautismo, aun cuando el rito externo sea correcto. Se requiere intención al menos virtual de hacer lo que la Iglesia hace.
+
 ## Distinciones importantes
 
 - **Bautismo de agua vs. bautismo de deseo vs. bautismo de sangre**

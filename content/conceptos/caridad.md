@@ -158,6 +158,14 @@ Pío V condenó los errores de Bayo sobre la caridad (D‑1031–D‑1034, D‑1
 - D‑1036, D‑1038: El amor natural procedente de las solas fuerzas de la naturaleza es defendido con injuria de la cruz de Cristo; todo amor o es concupiscencia viciosa o es caridad infusa.
 - D‑1070: El hombre en pecado mortal puede tener verdadera caridad, compatible con el reato de la condenación eterna.
 
+**Alejandro VIII** (1690, D‑1297, D‑1303, D‑1305) — Decreto del Santo Oficio contra errores jansenistas:
+
+**D‑1297**: «Toda acción humana deliberada es amor de Dios o del mundo: Si de Dios, es caridad del Padre; si del mundo, es concupiscencia de la carne, es decir, mala.» Condenada. La condena afirma que existen acciones humanas deliberadas que no proceden ni de la caridad ni de la concupiscencia viciosa, sino de afectos moralmente buenos de orden natural.
+
+**D‑1303**: «Cualquiera que sirve a Dios, aun con miras a la eterna recompensa, cuantas veces obra —aunque sea con miras a la bienaventuranza— si carece de la caridad, no carece de vicio.» Condenada. La condena afirma que el deseo de la bienaventuranza eterna es un motivo bueno y sobrenatural, incluso en quien no tiene caridad perfecta.
+
+**D‑1305**: «La atrición que se concibe por miedo al infierno y a los castigos, sin el amor de benevolencia a Dios por sí mismo, no es movimiento bueno ni sobrenatural.» Condenada. (Véase [[atrición]].)
+
 ## Analizado para
 
 - [[christian_bobak_men_of_integrity]]

@@ -35,6 +35,12 @@ Royo Marín trata las imágenes sagradas en el contexto de los sacramentales y l
 - Veneración (dulía): a los santos y ángeles representados
 - Hiperdulía: a la Santísima Virgen María
 
+## Perspectivas por fuente
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Alejandro VIII** (1690, D‑1315) — Decreto del Santo Oficio contra errores jansenistas: «Es ilícito al cristiano colocar en el templo la imagen de Dios Padre [Viva: sentado].» Condenada. La condena reafirma la licitud de colocar imágenes de Dios Padre en los templos, conforme a la tradición y disciplina de la Iglesia, que admite representaciones simbólicas de la Primera Persona de la Trinidad.
+
 ## Relaciones doctrinales
 
 Se relaciona con la [[encarnación]] (fundamento teológico), el primer [[decálogo|mandamiento]] (contra la idolatría), el [[culto]] cristiano, los [[sacramentales]], y la [[piedad_popular]].

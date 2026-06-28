@@ -104,6 +104,12 @@ Pío V condenó los errores de Bayo relacionados con la fe (D‑1022, D‑1025, 
 - D‑1025: «Todas las obras de los infieles son pecados, y las virtudes de los filósofos son vicios».
 - D‑1068: La infidelidad puramente negativa en aquellos entre quienes Cristo no ha sido predicado es pecado.
 
+**Alejandro VIII** (1690, D‑1301–D‑1302) — Decreto del Santo Oficio contra errores jansenistas:
+
+**D‑1301**: «Todo lo que no procede de la fe cristiana sobrenatural que obra por la caridad, es pecado.» Condenada. La condena afirma que existen actos moralmente buenos fuera de la fe sobrenatural, aunque no sean meritorios de vida eterna. La fe cristiana sobrenatural no es condición necesaria para la bondad moral del acto.
+
+**D‑1302**: «Cuando en los grandes pecadores falta todo amor, falta también la fe; y aun cuando parezca que creen, no es fe divina, sino humana.» Condenada. La condena afirma que la fe divina puede coexistir con el estado de pecado mortal: el pecador puede conservar la fe sobrenatural aunque haya perdido la caridad.
+
 ## Analizado para
 
 - [[adam_farber_fortitude_through_excellence_in_patience]]

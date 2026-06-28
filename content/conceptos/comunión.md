@@ -58,6 +58,12 @@ La palabra «comunión» (*koinonía*) expresa la participación en los bienes d
 
 - [D-929a-D-937]
 
+**Alejandro VIII** (1690, D‑1312–D‑1313) — Decreto del Santo Oficio contra errores jansenistas:
+
+**D‑1312**: «Deben ser juzgados como sacrílegos quienes pretenden el derecho a recibir la comunión, antes de haber hecho penitencia condigna por sus culpas.» Condenada. La condena afirma que no se requiere haber hecho penitencia condigna antes de recibir la comunión; basta el arrepentimiento sacramental.
+
+**D‑1313**: «Igualmente deben ser apartados de la sagrada comunión quienes todavía no tienen un amor a Dios purísimo y libre de toda mixtión.» Condenada. La condena afirma que no se exige un amor purísimo y libre de toda imperfección para acceder a la comunión; basta el estado de gracia y la debida disposición.
+
 **Inocencio XI** (1679, D‑1147–D‑1150) — Decreto de la Sagrada Congregación del Concilio sobre la comunión frecuente y diaria: declaró que, aunque el uso frecuente y hasta diario de la Eucaristía fue siempre aprobado, nunca se establecieron días determinados para recibirla o abstenerse. El frecuente acceso ha de dejarse al juicio de los confesores, atendida la pureza de conciencia, el fruto de la frecuencia y el adelantamiento en la piedad. A los casados se les debe amonestar sobre la continencia por reverencia a la Eucaristía. Prohibió que se aparte a nadie de la comunión frecuente por una fórmula única de mandato, ni que se establezcan días generales para recibirla. A las monjas que piden la comunión diaria debe concedérseles según su fervor. Los obispos deben alimentar la devoción eucarística con prudencia. Se condenó la afirmación de que la comunión diaria es de derecho divino, y se prohibió que la confesión de pecados veniales se haga a un sacerdote no aprobado.
 
 ## Distinciones importantes
