@@ -31,6 +31,10 @@ Royo Marín sitúa el orgullo en el marco de los pecados capitales y de la lucha
 
 [TPCr, Tercera Parte, Libro I, Cap. 1; TPCr, Tercera Parte, Libro II, Cap. IV]
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Orgullo»] La Biblia distingue entre el orgullo auténtico y la soberbia que es su caricatura. El AT describe el orgullo del pueblo elegido que «camina con la cabeza levantada» (Lev 26,13) por su consagración a Dios; este orgullo es compatible con la humildad (María en el Magníficat: Lc 1,46-50). El orgullo del justo se expresa en la *parresía* (franqueza confiada) y en el gloriarse en Dios solo (Jer 9,22s). En el NT, Jesús manifiesta su orgullo filial al hablar «abiertamente» (Jn 18,20s), y el cristiano recibe el orgullo de la fe (Heb 3,14) que le da seguridad ante Dios (Heb 10,19s). Pablo enseña que nadie puede gloriarse sino en el Señor (1Cor 1,31); gloriarse en la cruz de Cristo es la única gloria del cristiano (Gal 6,14).
+
 ## Distinciones importantes
 
 - Orgullo espiritual (el más peligroso, bajo apariencia de virtud) vs. orgullo mundano.

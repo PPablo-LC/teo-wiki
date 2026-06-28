@@ -87,6 +87,10 @@ León XIV presentó la oración como «encuentro personal con Cristo» durante l
 
 El Espíritu Santo es el protagonista de la oración (Rm 8,26). El hombre como sacerdote de la creación. *Opus gloriae*. La oración como búsqueda de Dios y revelación de Dios. La geografía de la oración del Papa. Oración por los que sufren, por los difuntos. [UDE, Cap. II-III]
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Oración»] La oración en el AT está constantemente vinculada al designio salvífico de Dios: Moisés intercede por el pueblo (Ex 32,11-14; 33,17), los profetas oran como intercesores (Jer 15,1; 2Mac 15,14), y el salterio constituye la oración de la asamblea, donde la alabanza, la súplica y la acción de gracias se entrelazan. Jesús enseña el padrenuestro como centro de la oración filial (Lc 11,2ss; Mt 6,9-13). Su propia oración abarca toda su misión: en el Getsemaní ofrece la obediencia filial (Mc 14,36), y su oración sacerdotal revela el misterio de su intercesión (Jn 17). La Iglesia, desde Pentecostés, persevera en la oración comunitaria (Act 1,14; 2,42). Pablo concibe la oración como lucha (Rom 15,30) y acción de gracias (Flp 4,6), subrayando que el Espíritu del Hijo ora en nosotros: «Abba, Padre» (Gal 4,6; Rom 8,15).
+
 ## Distinciones importantes
 
 - Oración en sentido amplio: cualquier movimiento del alma hacia Dios por cualquier virtud infusa.

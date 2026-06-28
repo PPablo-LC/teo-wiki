@@ -43,6 +43,10 @@ La Sagrada Escritura es la palabra de Dios en cuanto se consigna por escrito baj
 
 Juan Pablo II describe al sacerdote como «hombre de la Palabra» [DyM, IX]. La [[palabra_de_dios]] es fundamento de la predicación y de la catequesis. El Papa testimonia que una de sus ocupaciones habituales como sacerdote era el estudio teológico, pues la inteligencia de la fe es necesaria para anunciar el Evangelio al hombre contemporáneo [DyM, IX].
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Palabra de Dios»] La palabra de Dios es un hecho central de la revelación bíblica: Dios habla a los hombres por los profetas, y su palabra es a la vez revelación y poder eficaz. En el AT la palabra divina crea (Sal 33,6-9), legisla (Ex 20,1-17), promete (Is 55,10s) y juzga. Es una realidad dinámica que opera infaliblemente lo que anuncia. El hombre debe acogerla con fe, esperanza y amor (Dt 6,4ss; Sal 119). En el NT, la palabra de Dios se concentra en la persona de Jesús: él mismo es el Verbo hecho carne (Jn 1,1-14). Su palabra tiene poder creador (milagros) y revelador (Jn 6,63; 8,28). La predicación apostólica prolonga esta palabra, que es «viva y eficaz» (Heb 4,12) y engendra la fe (1Pe 1,23). La respuesta al Verbo encarnado determina el destino eterno de cada hombre (Jn 1,12; 3,17ss).
+
 ## Distinciones importantes
 
 - **Palabra de Dios increada**: el Verbo eterno, segunda Persona de la Trinidad

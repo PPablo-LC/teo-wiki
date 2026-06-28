@@ -39,6 +39,10 @@ Royo Marín aborda la muerte dentro de la lucha ascética, especialmente en rela
 [TPCr, Tercera Parte, Libro I, Cap. 4, Art. 2]
 
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Muerte»] El AT contempla la muerte con lucidez: es destino universal, morada en el *seol* (sombra, silencio, olvido). La muerte no es mero fenómeno natural: entró en el mundo por el pecado de Adán (Sab 2,23s). Pero Dios no se complace en la muerte del pecador; quiere su conversión (Ez 18,23; 33,11). La esperanza de liberación definitiva se abre paso en el AT tardío: resurrección de los justos (Dan 12,2; Is 26,19). En el NT, Cristo asume nuestra muerte y, por su obediencia, triunfa de ella (Rom 6,9; Heb 2,14). El bautismo nos une a su muerte (Rom 6,3ss), y el cristiano «muere cada día» (1Cor 15,31) para que la vida de Jesús se manifieste en su carne mortal (2Cor 4,10ss). La muerte corporal se transforma así en ganancia (Flp 1,21) y en entrada a la paz (Ap 14,13), en espera de la resurrección final donde «ya no habrá muerte» (Ap 21,4).
+
 ## Distinciones importantes
 
 - Muerte natural (consecuencia del pecado original) vs. muerte mística (unión con Cristo crucificado).

@@ -35,6 +35,10 @@ Royo Marín se apoya constantemente en San Juan de la Cruz (Noche oscura, Subida
 La noche del sentido es común y necesaria para todos los que han de pasar de principiantes a aprovechados. La noche del espíritu es de muy pocos: los que han de alcanzar las cumbres del heroísmo y la santidad (n.273, 278).
 
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Noche»] La noche tiene en la Escritura un simbolismo centrado en la noche pascual del Éxodo: tiempo de la prueba liberadora, en que la palabra de Dios se lanza desde el trono regio (Sab 18,14s). El AT retiene la ambivalencia: temerosa como la muerte (Sal 91,5), pero también tiempo de oración y espera vigilante (Sal 130,6; 63,7). El día de Yahveh puede ser tinieblas para los infieles (Am 5,18). En el NT, la pasión de Cristo es la «hora del poder de las tinieblas» (Lc 22,53), pero la resurrección instaura el día que no conoce ocaso (2Cor 4,6). El cristiano, «hijo del día» (1Tes 5,5), no es ya de la noche, aunque aguarda la luz plena. La noche presente avanza hacia el día (Rom 13,12), y los fieles velan con las lámparas encendidas (Mt 25,6; Ap 21,25; 22,5).
+
 ## Distinciones importantes
 
 - Noche del sentido: afecta a la parte sensitiva; tránsito a la [[vía_iluminativa]]

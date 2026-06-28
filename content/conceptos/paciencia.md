@@ -61,6 +61,10 @@ La paciencia y la longanimidad son los frutos del don de fortaleza. Los santos n
 [TPCr, Parte III, Libro II, Cap. II, n.437-438]
 
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Paciencia»] El AT revela a Dios como «tardo a la ira y rico de gracia» (Ex 34,6s; Sal 103,8). Su paciencia no es debilidad: es llamamiento a la conversión (Jl 2,13). Jesús encarna y enseña la paciencia divina en la parábola de la higuera estéril (Lc 13,6-9) y del hijo pródigo (Lc 15,11); su pasión es el modelo supremo de paciencia (1Pe 2,23). El retraso aparente de la Parusía manifiesta la longanimidad divina, que «no quiere que nadie perezca, sino que todos vengan a penitencia» (2Pe 3,9). El cristiano debe imitar esta paciencia: en las pruebas, soportándolas con esperanza (Rom 5,3ss; Sant 1,2ss), y en la vida cotidiana, soportando a los otros con caridad (Ef 4,2; Col 3,12s). La paciencia es fruto del Espíritu (Gal 5,22).
+
 ## Distinciones importantes
 
 - **Paciencia vs. longanimidad**: la longanimidad es esperar con ánimo firme un bien que tarda; la paciencia es soportar el mal presente

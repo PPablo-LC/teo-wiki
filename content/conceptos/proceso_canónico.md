@@ -35,6 +35,10 @@ El Vademécum (nn. 85-90) distingue tres tipos de procedimientos penales posible
 
 **3. Procedimiento del art. 26 SST (n. 86):** Para casos gravísimos. Se reserva la posibilidad de presentar directamente al Sumo Pontífice la dimisión del estado clerical o la deposición, siempre que conste de modo manifiesto la comisión del delito y se haya dado al reo la posibilidad de defenderse. La decisión del Romano Pontífice es inapelable (n. 143).
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+La entrada «Proceso» del VocTeoBib desarrolla el proceso bíblico entre Dios y su pueblo como manifestación de la justicia divina. En el AT, Dios «entra en proceso» con Israel (Os 4,1; Is 3,13; Miq 6,2); el proceso supone la alianza y Dios comparece como acusador (Sal 50,7) y como víctima (Miq 6,3s). En Jesucristo concluye el proceso: Dios condena el pecado y ofrece la justificación por la fe (Rom 3,21-26). El proceso de Jesús ante Caifás y Pilato (Jn 19,7) es el tipo acabado del proceso del hombre contra Dios. La Iglesia revisa el proceso de Jesús (Act 2,36) demostrando la justicia de su causa, y el cristiano está llamado a dar testimonio ante los tribunales (Mc 13,9-13).
+
 ## Distinciones importantes
 
 - Proceso contencioso (derechos) vs. proceso penal (delitos)

@@ -29,6 +29,10 @@ El Catecismo enseña que el mundo fue creado por Dios y es bueno (§299), pero q
 Royo Marín dedica un capítulo a la lucha contra el mundo (Parte III, Libro I, Cap. 2). Define el mundo como «el ambiente anticristiano que se respira entre las gentes que viven totalmente olvidadas de Dios». Se manifiesta en cuatro formas: falsas máximas opuestas al Evangelio, costumbres y modas contrarias a la modestia, criterios erróneos sobre valores humanos, y escándalos y malos ejemplos. Los remedios son: huida de las ocasiones, avivar la fe, considerar la vanidad del mundo y pisotear el respeto humano.
 
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Mundo»] La concepción bíblica del mundo se distancia del panteísmo griego: el mundo es criatura de Dios, distinta de Él, y tiene sentido en función del designio salvífico (Gen 1,1). El AT afirma simultáneamente la bondad del mundo creado (Sal 104; Prov 8,22-31) y su ambivalencia desde la entrada del pecado: sirve de instrumento de la ira divina (Gen 3,17s). La escatología profética anuncia una renovación profunda: «nuevos cielos y nueva tierra» (Is 65,17). En el NT, el mundo (*kosmos*) es criatura excelente (Jn 1,3.10; Act 17,24) pero está en poder del maligno por el pecado (Jn 12,31; 1Jn 5,19). Jesús vence al mundo (Jn 16,33) y lo rescata (Jn 1,29; 6,51). El cristiano está en el mundo sin ser del mundo (Jn 15,19; 17,15), separado de su contaminación (Sant 1,27; 1Jn 2,15) pero enviado como testigo (Jn 17,18), en espera del día en que el mundo presente dé paso al universo renovado (Ap 21,4s).
+
 ## Distinciones importantes
 
 - El «mundo» como enemigo del alma no es la creación material, sino el sistema de valores anticristiano.

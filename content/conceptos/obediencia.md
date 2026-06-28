@@ -51,6 +51,10 @@ Cristo es presentado como el modelo perfecto de obediencia: «filial, libre y re
 
 La obediencia propuesta es «filial: activa, libre y madura» [CapGral-2026, documento temático n. 10], en la que el religioso participa de modo positivo, integrando el discernimiento personal con la aceptación de una voluntad que trasciende la propia. Las Constituciones invitan a tener «una relación confiada con los superiores, y obedecer con reverencia sus mandatos aunque sean difíciles o desagradables, ejercitándose en la oblación de sí» [CapGral-2026, documento temático n. 9].
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Obediencia»] La obediencia bíblica es adhesión libre al designio de Dios, no sumisión pasiva. En la creación, los astros acuden gozosos a la voz de Dios (Bar 3,34s). El drama comienza con la desobediencia de Adán (Rom 5,19), que contrasta con la fe obediente de Abraham (Gen 12,1; 22,2). La alianza implica una obediencia de amor (Ex 24,7; Dt 11,13-22). Cristo es nuestra obediencia: «se hizo obediente hasta la muerte y muerte de cruz» (Flp 2,8), y por su obediencia somos constituidos justos (Rom 5,19). El cristiano obedece al Evangelio, a la Iglesia (2Tes 3,14) y a las autoridades legítimas (Rom 13,1-7), pero «hay que obedecer a Dios más que a los hombres» (Act 4,19).
+
 ## Distinciones importantes
 
 - Obediencia a Dios (absoluta) vs. obediencia a los hombres (relativa, limitada por la ley de Dios).
