@@ -31,6 +31,10 @@ Royo Marín, siguiendo a Santo Tomás, enseña que el alma es una sola, racional
 
 [TPCr, Segunda Parte, Cap. 1; Tercera Parte, Libro II, Cap. 3]
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+«Espíritu» (hebreo *ruah*) designa en la Biblia el elemento esencial e inaferrable de un ser: es el viento, la respiración, el espíritu del hombre y los espíritus [VocTeoBib, «Espíritu»]. El hálito respiratorio viene de Dios (Gen 2,7) y vuelve a él con la muerte (Job 34,14s). El espíritu del hombre es la expresión misma de su conciencia. El NT revela que el Espíritu Santo se une a nuestro espíritu (Rom 8,16), lo habita y lo transforma, suscitando la oración filial (Rom 8,26; Gal 4,6). «Dios es espíritu» (Jn 4,24): lo que nace del Espíritu es espíritu (Jn 3,6), capaz de servir a Dios «en espíritu y en verdad» (Jn 4,24) y de producir el fruto del Espíritu (Gal 5,22).
+
 ## Distinciones importantes
 
 - **Espíritu del hombre vs. Espíritu Santo**: el primero es creado y finito; el segundo es Dios increado.

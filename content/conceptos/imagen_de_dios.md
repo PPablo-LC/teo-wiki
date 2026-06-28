@@ -96,6 +96,10 @@ La Encarnación restaura la imagen divina: «En la naturaleza humana asumida, no
 
 La vocación cristiana, participando en la misión real de Cristo, consiste en la realización de una humanidad madura, que significa «pleno uso del don de la libertad, que hemos obtenido del Creador, en el momento en que Él ha llamado a la existencia al hombre hecho a su imagen y semejanza» [RH §21]. Esta imagen y semejanza se realiza plenamente en la donación sin reservas de toda la persona, en espíritu de amor nupcial a Cristo [RH §21].
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Imagen»] El hombre, creado a imagen de Dios (Gn 1,26), expresa esta semejanza en el dominio sobre la creación y en la procreación. La sabiduría de Dios es «imagen de su excelencia» (Sab 7,26), preparando la revelación de Cristo como «imagen del Dios invisible» (Col 1,15). Solo Cristo es la Imagen perfecta; el hombre es creado «a imagen» (con preposición que indica acercamiento entre cosas distantes). La imagen divina, desfigurada por el pecado, es restaurada en Cristo, y el cristiano es transformado «de gloria en gloria» en esa misma imagen (2Cor 3,18).
+
 ## Distinciones importantes
 
 - Imagen natural: la inteligencia y voluntad libres que todo ser humano posee por naturaleza

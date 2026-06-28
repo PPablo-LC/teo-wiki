@@ -53,6 +53,10 @@ Juan Pablo II destaca la misión educadora de la mujer como fundamental para la 
 
 **Pío XI** — Encíclica *Divini illius Magistri* (1929, D‑2202–D‑2224): Constituye la carta magna de la educación cristiana. Estableció que la educación pertenece a tres sociedades: la Iglesia (por título sobrenatural), la familia (por título natural y anterior al Estado) y el Estado (por razón del bien común). La Iglesia tiene el derecho y el deber de vigilar toda educación de los fieles. La familia tiene el derecho primario y anterior a cualquier derecho del Estado. El Estado debe proteger y promover, pero no absorber ni suplantar a la familia y a la Iglesia. Rechazó la escuela neutra o laica como contraria a la educación cristiana. Condenó la educación sexual naturalista que prescinde de la religión y de la gracia. Rechazó la coeducación como perniciosa para la educación cristiana. El fin propio de la educación cristiana es hacer al hombre auténtico y perfecto cristiano, formar a Cristo mismo en los que han renacido por el bautismo.
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+El designio de Dios se realiza en el tiempo como una educación: Israel vivió bajo la ley como un niño bajo un pedagogo hasta la plenitud de los tiempos (Gal 4,1-7; 3,24s) [VocTeoBib, «Educación»]. Dios es el educador por excelencia. En el AT educó a Israel como un padre a su hijo (Dt 8,5; Os 11,1-4), mediante lecciones (la liberación de Egipto, las maravillas del desierto) y correcciones (castigos proféticos). Jesucristo, como perfecto educador, enseña con autoridad, da ejemplo (Jn 13,14s) y toma sobre sí la corrección que merecíamos (Is 53,5). El Espíritu Santo consuma la obra educativa: ya no es la ley nuestro pedagogo (Gal 3,19; 4,2), sino el Espíritu que nos hace clamar «Abba, Padre» (Gal 4,6), trayendo a la memoria las enseñanzas de Jesús (Jn 14,26). La corrección fraterna continúa hasta el fin (Mt 18,15; Heb 12,7s).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[educación_católica]], [[cultura]], [[familia]], [[escuela_católica]], [[formación]], [[verdad]]

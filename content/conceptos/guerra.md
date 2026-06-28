@@ -37,6 +37,10 @@ La doctrina tomista de la guerra justa establece que los príncipes tienen la ob
 
 León XIV denunció en su discurso ante las Cortes la normalización de la guerra: «Vivimos tiempos en que la guerra ha vuelto a ser considerada un instrumento viable para resolver las controversias internacionales. No podemos aceptarlo. La guerra es siempre una derrota de la humanidad» [L_XIV-ViajeEspaña-2026, 06-Parlamento]. Exhortó al desarme, al fortalecimiento de las instituciones internacionales y a la reflexión ética sobre el comercio de armas [L_XIV-ViajeEspaña-2026, 06-Parlamento].
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Guerra»] La guerra en la Biblia trasciende el hecho humano para expresar el combate espiritual entre Dios y Satán. En el AT, Yahveh combate por su pueblo en las «guerras de Yahveh»; pero la guerra es fruto del pecado, y las promesas escatológicas tienden a la paz universal (Is 2,4). En el NT, Jesús libra el combate decisivo contra Satán —combate espiritual, no temporal— y la Iglesia militante continúa esta lucha con las armas de la fe (Ef 6,10-17). La victoria final es de Cristo (Ap 19,11-16).
+
 ## Distinciones importantes
 
 - **Guerra justa vs. guerra injusta:** La primera tiene autoridad, causa y intención rectas; la segunda carece de alguna de estas condiciones.

@@ -49,6 +49,10 @@ En el diálogo con Nicodemo, Jesús dice: «El que no cree, ya está juzgado, po
 
 El padre del epiléptico clama: «¡Creo! Ayuda a mi incredulidad» (Mc 9,24), mostrando cómo la fe y la incredulidad pueden coexistir en el alma que lucha por creer (CrSJP 33 §4).
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Incredulidad»] La incredulidad no es mera negación de Dios sino desconocimiento de los signos y testigos de su palabra, negativa a decir «amén» a Dios. En el AT se manifiesta en las murmuraciones del desierto y en el corazón dividido de Israel que pacta con los ídolos. En el NT, la incredulidad alcanza su colmo frente a Jesús y su cruz. Pablo y Juan reflexionan sobre el misterio de la incredulidad de Israel: aunque misteriosa, será vencida un día por la misericordia divina (Rom 11,25-32; Jn 12,32).
+
 ## Distinciones importantes
 
 - **Incredulidad negativa vs. positiva**: la primera es mera ausencia de fe (no es pecado si es invencible); la segunda es resistencia voluntaria (pecado grave)

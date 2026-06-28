@@ -44,6 +44,10 @@ Bernardo distingue entre la esperanza en el nombre (*spes in nomine*) y la reali
 
 Cualquier deformidad infligida por una libertad mal empleada será entonces reformada, de modo que la forma aparecerá en su belleza original.
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Gloria»] La gloria (heb. *kabod*, peso, importancia) designa en el AT el valor real de un ser, su peso en la existencia. La «gloria de Yahveh» es Dios mismo revelándose en majestad y poder: epifanía en las altas gestas de salvación y en las apariciones fulgurantes en el Sinaí y el templo. En el NT se centra en Cristo, «resplandor de su gloria» (Heb 1,3), manifestada ya en su vida terrena, plenamente en la resurrección y consumada en la parusía. El cristiano, transformado «de gloria en gloria» (2Cor 3,18), anticipa ya la gloria eterna.
+
 ## Distinciones importantes
 
 - **Gloria esencial**: la visión beatífica de Dios, que constituye la felicidad esencial del bienaventurado.

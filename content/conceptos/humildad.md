@@ -58,6 +58,9 @@ La humildad no es la mayor de las virtudes (sobre ella están las teologales), p
 
 Grados de humildad según la Regla de San Benito (doce grados): temor de Dios, renuncia a la propia voluntad, obediencia al superior, paciencia en las dificultades, confesión de los propios defectos, contentarse con lo más vil, reconocerse el más vil de todos, no apartarse de la regla común, callar hasta que pregunten, no ser pronto a la risa, hablar con mesura y gravedad, humildad exterior.
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Humildad»] La humildad bíblica tiene tres grados: la modestia frente a la vanidad, la actitud de la criatura pecadora ante el Dios santo, y la humildad de Cristo que se anonada hasta la cruz por nuestra salvación (Flp 2,6-8). Israel aprendió la humildad en la experiencia de la omnipotencia divina y en la prueba del exilio. Jesús, el Mesías humilde anunciado por Zacarías (Zac 9,9), invita a aprender de él, «manso y humilde de corazón» (Mt 11,29). Dios mira a los humildes y los exalta (Sant 4,10; 1Pe 5,6).
 
 ## Distinciones importantes
 

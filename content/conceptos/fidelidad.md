@@ -46,6 +46,10 @@ Hay una estrecha conexión entre la fidelidad a la gracia y la docilidad al Esp�
 
 La Carta Apostólica *Una fidelidad que genera futuro* (2025) está estructurada en torno a la fidelidad como categoría teológica central para el ministerio ordenado. León XIV la presenta como «gracia de Dios y camino constante de conversión, para corresponder con alegría a la llamada del Señor Jesús» (UFGF §4). Desarrolla la fidelidad en cuatro movimientos: fidelidad y servicio (la vocación como encuentro con Cristo, la formación permanente, la *sequela Christi*), fidelidad y fraternidad (el don de la fraternidad presbiteral, la superación del individualismo, la vida en común), fidelidad y sinodalidad (las tres coordenadas de la identidad presbiteral, la conducción colegiada, la participación en el proceso sinodal), y fidelidad y misión (el *ser para* como esencia del ministerio, la caridad pastoral, la dimensión pascual). Concluye con una mirada al futuro: la fidelidad fecunda genera un «renovado Pentecostés vocacional» (UFGF §27) [UFGF, 22.12.2025].
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+La fidelidad (hebreo *emet*) es atributo mayor de Dios (Ex 34,6), asociado a su bondad paternal (*hesed*), indicando que la alianza es don gratuito y vínculo que resiste los siglos [VocTeoBib, «Fidelidad»]. Dios es la «roca» de Israel (Dt 32,4): sus palabras no pasan (Is 40,8), sus promesas se mantienen (Tob 14,4). Exige la fidelidad del hombre a la alianza (Jos 24,14). Israel fue infiel, pero Dios eligió al Siervo fiel (Is 42,1ss; 50,4-7). En el NT, Cristo Jesús es el «testigo fiel» que cumple la Escritura (Jn 19,28.30; Ap 19,11ss); por él son mantenidas todas las promesas de Dios (2Cor 1,20). Aun siendo nosotros infieles, él permanece fiel (2Tim 2,13). Los discípulos son llamados «fieles» (Act 10,45; Ef 1,1); la fidelidad tiene como alma el amor y es la prueba del amor auténtico: «Si guardáis mis mandamientos, permaneceréis en mi amor» (Jn 15,9s).
+
 ## Distinciones importantes
 
 - **Fidelidad a la gracia**: respuesta generosa a las mociones e inspiraciones divinas

@@ -41,6 +41,10 @@ El corazón es «donde cada persona hace su síntesis; allí donde los seres con
 
 El Corazón del Verbo encarnado es signo y símbolo del triple amor con que ama Cristo: el amor divino (como Dios), el amor espiritual humano (la caridad de su voluntad humana) y el amor sensible (afectos y emociones) (nn. 3, 15-16). La encíclica alerta del peligro del naturalismo y del sentimentalismo.
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+El corazón en la Biblia no se limita a los afectos: designa lo más íntimo del hombre, donde residen pensamientos, recuerdos, proyectos y la conciencia misma [VocTeoBib, «Corazón»]. Dios mira al corazón, no a las apariencias (1Sa 16,7), y desenmascara la doblez del culto meramente exterior (Is 29,13). Israel comprendió que debía «buscar a Dios con todo el corazón» (Dt 4,29), pero su historia demostró su impotencia radical —corazón rebelde, incircunciso, de doblez— hasta que Dios prometió «dar un corazón nuevo» y «escribir su ley en el corazón» (Jer 31,33; Ez 36,26s). Esta promesa se cumple en Jesucristo, que confiere la pureza de corazón (Mt 5,8) y, resucitado, hace arder el corazón de los discípulos (Lc 24,32). Por la fe habita Cristo en los corazones (Ef 3,17), y el Espíritu del Hijo clama «Abba, Padre» (Gal 4,6).
+
 ## Distinciones importantes
 
 - **Corazón bíblico vs. corazón romántico**: en la Escritura, el corazón designa el centro personal, no el mero sentimentalismo

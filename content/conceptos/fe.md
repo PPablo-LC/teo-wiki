@@ -93,6 +93,10 @@ El **Concilio de Trento** (Sesión VI) enseñó que la fe es «el principio de l
 - [D-823-D-824]
 - [D-838]
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+La fe es la fuente de toda la vida religiosa [VocTeoBib, «Fe»]. Abraham, «padre de todos los creyentes» (Rom 4,11), es el tipo del creyente que cree en Dios contra toda esperanza (Gen 15,6). En el AT, la fe de Israel respondía al designio de la alianza, pero fue puesta a prueba por la idolatría, el formalismo y el exilio. Los profetas —especialmente Isaías— proclamaron la fe como única salvación (Is 7,4-9; 30,15). La fe se profundizó en la persecución hasta esperar la resurrección (2Mac 7; Dan 12,2s). En el NT, Jesús pide fe en su persona (Mc 1,15) y Pedro confiesa «Tú eres el Cristo» (Mt 16,16). La fe pascual en la resurrección constituye la fe de la Iglesia (Act 2,33-36). Pablo formula la justificación por la fe sin las obras de la ley (Rom 3,28; Gal 2,16): la salvación es gracia recibida por la fe (Rom 4,4-8), que actúa por el amor (Gal 5,6). Juan presenta la fe centrada en Jesús y su gloria divina (Jn 20,30s); el que cree posee ya la vida eterna (Jn 3,16; 6,47).
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[virtud_de_la_fe]]

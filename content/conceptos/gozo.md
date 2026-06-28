@@ -48,6 +48,9 @@ Royo Marín trata el gozo principalmente como fruto del Espíritu Santo. La cont
 
 [TPCr, Tercera Parte, Libro II, Cap. 3; referencias sobre el gozo espiritual]
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Gozo»] La revelación del Dios creador y salvador provoca en el hombre un gozo desbordante, desde las alegrías legítimas de la vida hasta el gozo de la alianza expresado en el culto comunitario. En el NT, Jesús es la fuente del gozo mesiánico; el gozo es fruto del Espíritu Santo (Gal 5,22) y nota característica del reino de Dios (Rom 14,17). El gozo cristiano, lejos de ser incompatible con la cruz, se realiza precisamente en la participación de los sufrimientos de Cristo (1Pe 4,13).
 
 ## Distinciones importantes
 

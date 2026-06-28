@@ -56,6 +56,9 @@ Los cuerpos de los condenados resucitarán (q.86 a.1) sin las deformidades que t
 
 Loring enseña que el infierno «es el conjunto de todos los males sin mezcla de bien alguno» [PS §99]. Su existencia es dogma de fe, definido en el Concilio IV de Letrán. Cristo habla quince veces del infierno en el Evangelio y catorce veces menciona el fuego. La pena principal es la «pena de daño» —la privación eterna de Dios— que San Juan Crisóstomo considera mil veces peor que el fuego [PS §99,1]. El infierno no es un castigo arbitrario de Dios, sino la consecuencia de la libertad humana que rechaza a Dios: «El infierno es el respeto de Dios por tu última voluntad» [PS §99,3]. Dios no predestina a nadie al infierno, pero el hombre puede libremente elegirlo. El infierno es eterno porque la muerte fija irrevocablemente el estado del alma, y sin arrepentimiento no es posible la reparación [PS §99,1-99,2].
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Infierno»] El AT distingue entre el *seol*, morada común de todos los muertos, y el infierno de los pecadores, asociado al fuego de Sodoma y la Gehena (Is 66,24). Jesús utiliza estas imágenes violentas (llanto, crujir de dientes, fuego inextinguible) para afirmar la realidad de la condenación eterna (Mt 5,22; Mc 9,43-48). Cristo descendió a los infiernos para liberar a los justos que le precedieron, forzando las puertas infernales y triunfando sobre la muerte (1Pe 3,19; Ef 4,9-10). La Iglesia es fruto e instrumento de esta victoria (Mt 16,18).
 
 ## Distinciones importantes
 

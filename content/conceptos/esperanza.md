@@ -110,6 +110,10 @@ Juan Pablo II anima a los jóvenes a estar «dispuestos a dar razón de vuestra 
 
 La esperanza fue un tema constante a lo largo del viaje apostólico de León XIV a España. En diversos discursos afirmó: «En un mundo que parece haber perdido la esperanza, los cristianos estamos llamados a ser testigos de la esperanza que no defrauda» [L_XIV-ViajeEspaña-2026, varios discursos]. En la Vigilia de Madrid (3 de junio) dijo a los jóvenes: «Vosotros, jóvenes, sois la esperanza de la Iglesia y del mundo» [L_XIV-ViajeEspaña-2026, Vigil Madrid 03 — discurso a los jóvenes]. En la visita a la prisión, proclamó: «La esperanza es lo último que se pierde, pero nosotros creemos que la esperanza cristiana no defrauda porque está fundada en Cristo resucitado» [L_XIV-ViajeEspaña-2026, visita a la prisión — discurso a los presos].
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+La esperanza expresa el lugar del porvenir en la vida religiosa del pueblo de Dios: un porvenir de felicidad al que están llamados todos los hombres (1Tim 2,4), una «patria mejor, es decir, celestial» (Heb 11,16) [VocTeoBib, «Esperanza»]. La fe garantiza la realidad de este porvenir; la esperanza, enraizada en la fe, se despliega hacia el futuro. En el AT, la esperanza de Israel comenzó con Abraham —una tierra y una posteridad— y fue purificada por los profetas, que denunciaron la falsa esperanza del culto formalista y anunciaron que Yahveh mismo es «la esperanza de Israel» (Jer 14,8). La esperanza se hizo personal y se orientó al más allá con los mártires (Dan 12,1ss; 2Mac 7) y los sabios (Sab 3,4). Jesús realizó la esperanza de Israel proclamando el Reino, aunque manteniéndola como espera de la vida eterna (Mt 18,8s). Pablo formula la tríada fe, esperanza y caridad (1Tes 1,3; 1Cor 13,13); su esperanza personal consiste en estar con Cristo (Flp 1,23). El Apocalipsis recoge el grito de la Iglesia: «¡Ven, Señor Jesús!» (Ap 22,20).
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[virtud_de_la_esperanza]]

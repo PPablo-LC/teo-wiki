@@ -47,6 +47,10 @@ La Iglesia como Cuerpo Místico, organismo, unidad social, «percibe los mismos 
 
 La pertenencia al Cuerpo Místico «proviene de una llamada particular, unida a la acción salvífica de la gracia» [RH §21]. La comunidad del Pueblo de Dios es comunidad de discípulos que llevan «en sus almas el signo indeleble del ser cristiano» y que, en diversidad de formas, siguen a Cristo [RH §21].
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+El cuerpo de Cristo tiene tres sentidos en el NT: el cuerpo individual de Jesús, el sacramento eucarístico, y la Iglesia como cuerpo [VocTeoBib, «Cuerpo de Cristo»]. El cuerpo de Cristo crucificado fue el instrumento de nuestra redención (1Pe 2,24; Col 1,22); su resurrección lo transformó en «cuerpo espiritual» (1Cor 15,44). Por la comunión eucarística los creyentes forman un solo cuerpo (1Cor 10,16s). Pablo desarrolla la metáfora orgánica: la Iglesia es el cuerpo de Cristo, él es la cabeza (Col 1,18; Ef 1,22), y todos somos miembros unos de otros (Rom 12,5). En las epístolas de la cautividad, la Iglesia aparece como la «plenitud» de Cristo (Ef 1,23), y la unión conyugal es imagen de la relación entre Cristo y la Iglesia (Ef 5,23-32). Nuestros cuerpos, injertados en Cristo y templos del Espíritu Santo, resucitarán conformados a su cuerpo de gloria (Flp 3,20s).
+
 ## Distinciones importantes
 
 - Cuerpo "místico" no es "irreal" sino misterioso y sobrenatural

@@ -62,6 +62,9 @@ Cristo tuvo ira por celo (ira según la razón). La ira es efecto de la tristeza
 
 La represión de la ira desordenada es un efecto del don de temor, que actúa sobre la mansedumbre (TPCr, Tercera Parte, Libro II, Cap. II). La ira es uno de los frutos de la soberbia y uno de los grandes obstáculos para la perfección. La impaciencia, que se manifiesta con ira, quejas y murmuraciones, se opone a la virtud de la paciencia (TPCr, Tercera Parte, Libro II, Cap. II). La lucha contra la cólera requiere mortificación de las pasiones.
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Ira»] La ira de Dios es un misterio ligado a su santidad y a su amor: «tardo a la ira y rico en misericordia» (Ex 34,6). En el AT, la ira divina se manifiesta como castigo del pecado, pero con intención educativa y llamada a la conversión; Dios domina su pasión y su misericordia triunfa finalmente (Os 11,9; Is 54,7s). En el NT, Jesús revela la ira divina contra el pecado, pero la obra redentora de Cristo nos libera de la ira venidera (1Tes 1,10). La Iglesia vive entre el tiempo de la gracia y la espera del día de la ira definitiva (Ap 6,16-17).
 
 ## Distinciones importantes
 

@@ -69,6 +69,10 @@ Juan Pablo II presenta al Espíritu Santo como protagonista de la oración: «El
 
 Juan Pablo II dedica la tercera parte de su ciclo cristológico a la acción del Espíritu Santo en Cristo. Jesús es el Mesías ungido por el Espíritu Santo, según la profecía de Isaías (Is 61,1-2; Lc 4,18). Fue concebido por obra del Espíritu Santo. Toda su actividad pública se realiza en el poder del Espíritu: curaciones, exorcismos, predicación. Su resurrección es obra del Espíritu (Rom 1,4; 8,11). Jesús es quien trae el Espíritu Santo: promete el agua viva (Jn 7,37-39), anuncia el Paráclito (Jn 14-16), y después de la resurrección sopla sobre los Apóstoles diciendo: «Recibid el Espíritu Santo» (Jn 20,22), confiriéndoles el poder de perdonar los pecados. En Pentecostés, el Espíritu es derramado sobre la Iglesia (CJeS, tercera parte: catequesis sobre Jesús ungido por el Espíritu Santo).
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+El Espíritu de Dios no puede separarse del Padre y del Hijo; se revela con ellos, pero carece de un nombre que evoque una figura humana —*ruah* (viento, soplo)—, recordando que «Dios es Espíritu» (Jn 4,24) y que «el Señor es el Espíritu» (2Cor 3,17) [VocTeoBib, «Espíritu de Dios»]. En el AT actúa como fuerza divina que transforma personalidades: suscita jueces libertadores (Jue 3,10; 14,6), unge reyes (1Sa 16,13), reposa sobre el Mesías (Is 11,2), inspira a los profetas y consagra al Siervo de Yahveh (Is 42,1; 61,1ss). Se anuncia su efusión sobre todo el pueblo (Jl 3,1s; Ez 36,25-27). En el NT, Jesús es concebido por el Espíritu (Lc 1,35), ungido en su bautismo (Mc 1,10), y toda su acción se realiza en el Espíritu (Lc 4,14.18). Jesús promete el Espíritu como Paráclito (Jn 14,16s.26; 16,13ss) y, resucitado, lo derrama sobre la Iglesia (Jn 20,22s). Pablo describe al Espíritu como fuente de la nueva vida (Rom 8,2.11; Gal 5,19-23) y principio de unidad del Cuerpo de Cristo (1Cor 12,13; Ef 4,3).
+
 ## Distinciones importantes
 
 - No es una "fuerza" impersonal sino una Persona divina

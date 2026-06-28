@@ -33,6 +33,10 @@ Para Salvarte dedica su capítulo 3 a demostrar la existencia de Dios por las «
 
 En el capítulo 4 expone el dogma trinitario: un solo Dios verdadero en tres Personas distintas (PS §04,18-24). Explica que el Padre conociéndose a sí mismo da lugar al Hijo, y del amor entre ambos procede el Espíritu Santo (PS §04,19-20). Las tres Personas son simultáneas y eternas; son inseparables en su ser y en su obrar, aunque ciertas obras se atribuyan apropiadamente a cada una: la Creación al Padre, la Redención al Hijo y la Santificación al Espíritu Santo (PS §04,24,1).
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+La Biblia no contiene un tratado sobre Dios, sino que enseña a escucharle y responderle [VocTeoBib, «Dios»]. En el AT, Dios es «el primero y el último» (Is 41,4; 44,6), cuya existencia se impone sin demostración. Se revela como Yahveh —«Yo soy el que soy» (Ex 3,14)—, un Dios viviente, santo, celoso y único. El secreto definitivo se revela en Jesucristo: «Dios es amor» (1Jn 4,8.16). En Cristo, «el resplandor de la gloria de Dios y figura de su sustancia» (Heb 1,3), vemos al Padre; y la relación entre el Padre y el Hijo se consuma en el Espíritu Santo. «Dios es espíritu» (Jn 4,24) significa que su esencia consiste en darse: omnipotencia y omni-disponibilidad, afirmación soberana de sí y desasimiento total.
+
 ## Distinciones importantes
 
 - **Dios Uno** (unidad de esencia) vs. **Dios Trino** (trinidad de personas): no son tres dioses, sino un solo Dios en tres Personas.

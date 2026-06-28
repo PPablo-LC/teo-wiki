@@ -71,6 +71,10 @@ Juan Pablo I, en su audiencia general del 13 de septiembre de 1978, desarrolló 
 
 La Iglesia es **madre y maestra** (*Mater et Magistra*). Como madre, debe ser amada aun con sus defectos: «si mi madre se quedase coja, yo la querría todavía más». JPI ofrece la imagen del «jabón» de la Iglesia —evangelio, sacramentos, oración— como el medio para la santidad: «un jabón maravilloso capaz de hacernos santos a todos. No somos todos santos por no haber utilizado bastante este jabón». La Iglesia, aunque formada por pecadores, posee en Cristo los medios para santificarlos.
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Iglesia»] La palabra *ekklesia* designa en los LXX la asamblea convocada por Dios (el *qahal* de Israel), y Jesús la adopta para designar el nuevo pueblo de Dios. La Iglesia es preparada en el AT desde Abraham, prefigurada en el Israel del desierto, y fundada por Jesús sobre Pedro y los Doce. Nace del costado traspasado de Cristo en la cruz (Jn 19,34) y recibe la efusión del Espíritu en Pentecostés (Hch 2). Pablo la desarrolla teológicamente como Cuerpo de Cristo (1Cor 12,13; Ef 1,22s), Templo del Espíritu (Ef 2,20-22) y Esposa del Cordero (Ef 5,25-27).
+
 ### Según el Enchiridion Symbolorum (Denzinger)
 
 **Bonifacio VIII**, Bula *Unam sanctam* (1302): «Por apremio de la fe, estamos obligados a creer y mantener que hay una sola y Santa Iglesia Católica y la misma Apostólica, y nosotros firmemente la creemos y simplemente la confesamos, y fuera de ella no hay salvación ni perdón de los pecados» (D-468). «Una y otra espada, pues, está en la potestad de la Iglesia, la espiritual y la material... La potestad espiritual tiene que instituir a la temporal, y juzgarla si no fuere buena» (D-469). «Someterse al Romano Pontífice, lo declaramos, lo decimos, definimos y pronunciamos como de toda necesidad de salvación para toda humana criatura» (D-469).
