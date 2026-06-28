@@ -87,6 +87,14 @@ La Iglesia es **madre y maestra** (*Mater et Magistra*). Como madre, debe ser am
 
 **León X** (1520), Bula *Exsurge Domine* — Condena de los errores de Lutero sobre la Iglesia y los Concilios: Lutero afirmó que no está en manos de la Iglesia o del Papa establecer artículos de fe ni leyes de costumbres (D-767 — condenado). Sostuvo que si el Papa con gran parte de la Iglesia sintiera de este o de otro modo, no es pecado o herejía sentir lo contrario, particularmente en materia no necesaria para la salvación, hasta que un Concilio universal lo apruebe (D-768 — condenado). Declaró que tenemos camino abierto para enervar la autoridad de los Concilios, contradecir libremente sus actas y juzgar sus decretos, ora hayan sido aprobados o reprobados por cualquier concilio (D-769 — condenado). Defendió que algunos artículos de Juan Hus, condenados en el Concilio de Constanza, «son cristianísimos, veracísimos y evangélicos, y ni la Iglesia universal podría condenarlos» (D-770 — condenado).
 
+**Pío VI** (1794, D‑1501–D‑1508) — Constitución *Auctorem Fidei*. Condenó proposiciones del Sínodo de Pistoya sobre la Iglesia:
+
+**D‑1502**: «Ha sido dada por Dios a la Iglesia la potestad, para ser comunicada a los pastores que sois sus ministros, para la salvación de las almas; entendida en el sentido que de la comunidad de los fieles se deriva a los pastores la potestad del ministerio y régimen eclesiástico.» Condenada como herética. La condena afirma que la potestad eclesiástica no se deriva de la comunidad de los fieles sino de Cristo.
+
+**D‑1504**: «Sería abuso de la autoridad de la Iglesia transferirla más allá de los límites de la doctrina y costumbres y extenderla a las cosas exteriores, exigir por la fuerza lo que depende de la persuasión y del corazón.» Condenada como herética. La condena afirma que la Iglesia tiene potestad recibida de Dios para establecer y sancionar la disciplina exterior, usada por los mismos Apóstoles.
+
+**D‑1505**: «La Iglesia no tiene autoridad para exigir la sujeción a sus decretos de otro modo que por los medios que dependen de la persuasión.» Condenada como inductiva a error herético. La condena afirma que la Iglesia tiene potestad no solo para dirigir por consejos y persuasiones, sino también para mandar por medio de leyes, y coercer y obligar a los desobedientes por juicio externo y saludables castigos.
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[iglesia_cuerpo_místico]]

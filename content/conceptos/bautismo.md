@@ -200,6 +200,16 @@ El **Papa Benedicto XII** (1341), al responder a los errores de los armenios (D-
 
 **D‑1318**: «Es válido el bautismo conferido por un ministro que guarda todo el rito externo y la forma de bautizar, pero resuelve interiormente consigo mismo en su corazón: "No intento hacer lo que hace la Iglesia".» Condenada. La condena afirma que la intención interna de no hacer lo que hace la Iglesia invalida el bautismo, aun cuando el rito externo sea correcto. Se requiere intención al menos virtual de hacer lo que la Iglesia hace.
 
+**Benedicto XIV** (1747, D‑1480–D‑1490) — Carta *Postremo mense* al Vicegerente en la Urbe. Es la declaración pontificia más completa sobre el bautismo de niños judíos:
+
+- D‑1480: Planteó cuatro cuestiones: (1) si es lícito bautizar niños hebreos contra la voluntad de sus padres; (2) si hay casos en que sea lícito; (3) si el bautismo administrado ilícitamente es válido; (4) qué hacer cuando son traídos para ser bautizados o ya lo han sido.
+- D‑1481: Afirmó que la cuestión fue definida por Santo Tomás (2-2, q.10 a.12; 3, q.68 a.10): los niños sin uso de razón están bajo el cuidado de sus padres según el derecho natural; bautizarlos contra la voluntad de sus padres sería «contra justicia natural». La sentencia de Santo Tomás prevaleció en los tribunales.
+- D‑1484: Excepción por peligro de muerte: quien encuentre un niño hebreo próximo a la muerte hace «cosa laudable y grata a Dios» si le bautiza.
+- D‑1485: Excepción por abandono: si el niño ha sido arrojado y abandonado por sus padres, debe bautizarse «aun cuando lo reclamen y pidan nuevamente sus padres».
+- D‑1486: Otras declaraciones: si el padre abraza la fe y manda bautizar a su hijo, debe hacerse aun con disentimiento de la madre hebrea; lo mismo si la madre se convierte y presenta al niño; también si el abuelo paterno se convierte y lleva a su nieto, aun oponiéndose la madre.
+- D‑1487: Un caso de Mantua (1699): el padre hebreo anunció querer bautizarse y luego se arrepintió; el Santo Oficio decretó que los hijos infantes (3 y 5 años) debían ser bautizados, y los mayores (8 y 12 años) colocados en la casa de catecúmenos para explorar su voluntad.
+- D‑1490: Quienes son ofrecidos al bautismo por alguien sin autoridad sobre ellos no deben ser bautizados, sino devueltos a quienes tienen potestad legítima.
+
 ## Distinciones importantes
 
 - **Bautismo de agua vs. bautismo de deseo vs. bautismo de sangre**

@@ -2149,6 +2149,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[beata_edith_stein]]
 - [[benedicto_i]]
 - [[benedicto_xii]]
+- [[benedicto_xiv]]
 - [[benedicto_xvi]]
 - [[bonifacio_ii_papa]]
 - [[bonifacio_viii]]

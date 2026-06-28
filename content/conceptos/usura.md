@@ -9,7 +9,7 @@ description: "La usura es el pecado contra la [[virtud_de_la_justicia]] que cons
 # Usura
 
 > Área: Moral
-> Última actualización: 2026-06-27
+> Última actualización: 2026-06-28
 
 ## Definición
 
@@ -50,6 +50,25 @@ El **Concilio de Vienne** (1311-1312), bajo Clemente V, en su Constitución *Ex 
 
 El **V Concilio de Letrán** (1515), Bula *Inter multiplices* (Sesión X): Declaró y definió que los Montes de piedad, en los que se cobra un interés moderado únicamente para los gastos de administración y conservación —«solo en razón de su indemnidad, sin ningún lucro por parte de los mismos Montes»—, no presentan apariencia alguna de mal ni ofrecen incentivo para pecar, antes bien «ese préstamo es meritorio y debe ser alabado y aprobado y en modo alguno ser tenido por usurario» (D-739). Esta definición estableció que el interés cobrado para cubrir gastos reales de administración, sin ánimo de lucro, no constituye usura.
 
+**Pío V** (1571), constitución *In eam pro nostro*: condenó las permutaciones usurarias (D‑1081–D‑1082):
+
+- D‑1081: Los cambios fingidos (préstamos simulados con interés encubierto) son condenados como usurarios.
+- D‑1082: Los cambios reales en que se difiere el plazo de pago con lucro, por tácito o expreso convenio, son también usurarios.
+
+**Inocencio XI** (1679, D‑1190–D‑1192) condenó tres proposiciones laxistas sobre la usura:
+
+- D‑1190: «El contrato de mohatra es lícito, aun respecto de la misma persona y con contrato de retrovendición previamente celebrado con intención de lucro.» El mohatra (venta simulada a crédito con recompra en efectivo) encubre un préstamo usurario.
+- D‑1191: «Como quiera que el dinero al contado vale más que el por pagar y nadie hay que no aprecie más el dinero presente que el futuro, puede el acreedor exigir algo al mutuatario, aparte del capital, y con ese título excusarse de usura.» Condenada como laxista: la diferencia de valor entre dinero presente y futuro no es por sí sola título suficiente para exigir interés.
+- D‑1192: «No es usura exigir algo aparte del capital como debido por benevolencia y gratitud; sino solamente si se exige como debido por justicia.» Condenada como laxista, pues la gratitud no puede ser título para exigir jurídicamente un interés.
+
+**Benedicto XIV** (1745, D‑1475–D‑1479) — Encíclica *Vix pervenit* a los obispos de Italia. Es la declaración pontificia más completa sobre la usura:
+
+- D‑1475: Definió la usura como el pecado que «tiene su propio asiento y lugar en el contrato del préstamo»: consiste en que, por razón del préstamo mismo —que por su naturaleza solo pide la devolución de la misma cantidad recibida—, se quiere que sea devuelto más de lo recibido. Todo lucro que supere el capital «es ilícito y usurario».
+- D‑1476: No excusan la usura ni la moderación del lucro ni la riqueza del deudor. La ley del préstamo está necesariamente en la igualdad de lo dado y lo devuelto; violarla obliga a restitución por justicia conmutativa.
+- D‑1477: No se niega que puedan concurrir títulos extrínsecos distintos del préstamo (daño emergente, lucro cesante) que justifiquen algo más del capital, ni que puedan hacerse otros contratos de naturaleza distinta al préstamo (como réditos anuales o comercio lícito).
+- D‑1478: Si en esos otros contratos no se guarda la igualdad, constituyen injusticia que obliga a restituir, aunque no sea usura formal.
+- D‑1479: Advirtió que «falsa y solo temerariamente se persuadirá uno que siempre se hallan y en todas partes están a mano otros títulos legítimos» para justificar un interés. Quien así sintiere, «se opondrá a los divinos documentos y al juicio de la Iglesia Católica sobre la usura, sino también al sentido común humano y a la razón natural».
+
 ### Según Royo Marín (TPCr)
 
 TPCr trata la usura como pecado contra la justicia conmutativa. La usura es intrínsecamente mala y no puede ser justificada por convención humana. Sin embargo, se admiten los títulos extrínsecos que compensan pérdidas reales. La restitución es obligatoria.
@@ -60,19 +79,6 @@ TPCr trata la usura como pecado contra la justicia conmutativa. La usura es intr
 - **Interés legítimo**: compensación por daño emergente o lucro cesante (no es usura si es moderado)
 - **Comercio**: ganancia por industria y riesgo del vendedor (no es usura)
 - **Inversión**: participación en ganancias con riesgo compartido (no es usura)
-
-### Según el Enchiridion Symbolorum (Denzinger)
-
-Pío V, en la constitución *In eam pro nostro* (1571), condenó las permutaciones usurarias (D‑1081–D‑1082):
-
-- D‑1081: Los cambios fingidos (préstamos simulados con interés encubierto) son condenados como usurarios.
-- D‑1082: Los cambios reales en que se difiere el plazo de pago con lucro, por tácito o expreso convenio, son también usurarios.
-
-**Inocencio XI** (1679, D‑1190–D‑1192) condenó tres proposiciones laxistas sobre la usura:
-
-- D‑1190: «El contrato de mohatra es lícito, aun respecto de la misma persona y con contrato de retrovendición previamente celebrado con intención de lucro.» El mohatra (venta simulada a crédito con recompra en efectivo) encubre un préstamo usurario.
-- D‑1191: «Como quiera que el dinero al contado vale más que el por pagar y nadie hay que no aprecie más el dinero presente que el futuro, puede el acreedor exigir algo al mutuatario, aparte del capital, y con ese título excusarse de usura.» Condenada como laxista: la diferencia de valor entre dinero presente y futuro no es por sí sola título suficiente para exigir interés.
-- D‑1192: «No es usura exigir algo aparte del capital como debido por benevolencia y gratitud; sino solamente si se exige como debido por justicia.» Condenada como laxista, pues la gratitud no puede ser título para exigir jurídicamente un interés.
 
 ## Relaciones doctrinales
 
