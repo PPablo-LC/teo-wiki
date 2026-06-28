@@ -39,6 +39,10 @@ La presencia de Dios produce cuatro consecuencias prácticas: obliga a evitar la
 
 Se practica por dos vías principales: por vía de representación exterior (pensar que Dios nos mira desde fuera) y por vía de recogimiento interior (pensar que Dios habita en nosotros). San Francisco de Sales llega a decir que el recogimiento interior, junto con las oraciones jaculatorias, puede suplir a todos los demás ejercicios devotos (n.604).
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+La entrada «Presencia de Dios» del VocTeoBib recorre la revelación de la cercanía divina. Dios promete su presencia a los patriarcas (Gen 17,7; 26,24; 28,15) y a Moisés (Ex 3,12). El Emmanuel —«Dios con nosotros»— es el nombre de la salvación (Is 7,14). En el AT, la presencia se manifiesta en la columna de nube y fuego (Ex 13,21), en la tienda de la alianza (Ex 40,34) y el templo (1Re 8,10ss), pero Dios no está ligado a lugar alguno (1Re 8,27). En Cristo, el Verbo habita entre nosotros (Jn 1,14), y su presencia se perpetúa en la Eucaristía y en los pobres (Mt 25,40). El cristiano es templo de Dios por el Espíritu (1Cor 3,16s; 6,19). La plenitud de la presencia será en la gloria (Ap 21,2s).
+
 ## Distinciones importantes
 
 No debe confundirse la presencia de inmensidad (común a todos los seres) con la presencia de inhabitación (solo en las almas en gracia). Ambas son las que más directamente afectan al ejercicio de la presencia de Dios.

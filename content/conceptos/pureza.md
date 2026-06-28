@@ -47,6 +47,10 @@ La pureza tiene una función positiva: aliada con el don de la piedad (donum pie
 
 **Inocencio XI** (1679, D‑1199) condenó la proposición: «La masturbación no está prohibida por derecho de la naturaleza...» Condenada como escandalosa y perniciosa. La pureza del cuerpo exige el respeto del orden natural establecido por Dios en el acto sexual.
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+La entrada «Puro» del VocTeoBib traza el desarrollo bíblico de la pureza desde lo cultual a lo moral. En el AT, la pureza legal (Lev 11-16) era la disposición requerida para el culto. Los profetas exigieron una purificación interior (Is 1,15ss; Os 6,6). Jesús proclamó que la única pureza es la interior (Mc 7,14-23): de dentro del corazón proceden los malos deseos. La pureza radical viene por la palabra de Cristo (Jn 15,3) y el bautismo (Ef 5,26). San Pablo enseña que «todo es puro para los puros» (Tit 1,15) y que la caridad brota de un corazón puro (1Tim 1,5). La pureza culmina en la santidad (1Tes 4,7s).
+
 ## Distinciones importantes
 
 - **Pureza del cuerpo vs. pureza del espíritu**: la primera se refiere a la castidad externa; la segunda, a la rectitud de los pensamientos y deseos internos.

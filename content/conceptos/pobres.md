@@ -41,6 +41,10 @@ Los pobres son los destinatarios privilegiados del Evangelio y el amor a ellos e
 
 León XIV subrayó que "la pobreza no es un dato estadístico; tiene rostro, tiene nombre, tiene historia", e invitó a reconocer la misteriosa sabiduría de Dios escrita en la carne de los pobres [León XIV-ViajeEspaña-2026, encuentro con voluntarios; Tenerife].
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+La entrada «Pobres» del VocTeoBib describe el rico vocabulario hebreo de la pobreza (*ras*, *dal*, *ebyón*, *'ani*, *'anav*). Los profetas defienden a los pobres como víctimas de la injusticia (Am 2,6ss; Is 10,1s). Surge la figura del «pobre de Yahveh» (*anawim*): el humilde que pone su confianza en Dios (Sal 34,5-11; Sof 3,12s). Jesús se proclama Mesías de los pobres (Lc 4,18; Mt 11,5) y se identifica con ellos (Mt 25,34-46). La «pobreza de espíritu» (Mt 5,3) es el desasimiento interior para recibir las verdaderas riquezas. La pobreza efectiva, cuando es signo de desasimiento, tiene valor religioso; el servicio de los pobres es servicio a Cristo mismo (Mt 25,40).
+
 ## Distinciones importantes
 
 - Pobres de Yahveh (*anawim*) en el AT: los humildes que esperan la salvación de Dios

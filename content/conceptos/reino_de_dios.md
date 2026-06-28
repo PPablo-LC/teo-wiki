@@ -76,6 +76,10 @@ Juan Pablo II dedica varias catequesis al Reino de Dios. El Reino es el núcleo 
 
 Desde la perspectiva de la venida del Reino, Juan Pablo II subraya su realización en Cristo como cumplimiento de las promesas del AT (Daniel, Salmos). El Reino vence al poder del mal y del demonio: «si por el dedo de Dios expulso los demonios, es que el Reino de Dios ha llegado a vosotros» (Lc 11,20). Las parábolas del sembrador y de la semilla que crece por sí sola ilustran el crecimiento misterioso del Reino. Es un Reino trascendente y universal: «Mi Reino no es de este mundo» (Jn 18,36), como declara Jesús ante Pilato. Cristo es el [[buen_pastor]] que da la vida por las ovejas (CJeS, segunda parte: venida del Reino y fundación de la Iglesia).
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+La entrada «Reino» del VocTeoBib desarrolla el tema desde el AT al NT. Yahveh reina sobre Israel como rey (Ex 15,18; Sal 24,7-10), constituyéndolo en «reino de sacerdotes» (Ex 19,6). Los profetas anuncian el reinado escatológico de Dios (Is 52,7; Dan 7). Jesús da al reino el primer puesto en su predicación (Mc 1,15; Mt 4,23); los milagros son signos de su presencia (Mt 12,28). El reino es un misterio que crece como la semilla (Mc 4,26-29), se da a los pobres y pequeños (Lc 12,32). Está presente pero espera su plenitud en el tiempo intermedio de la Iglesia. Cristo, Rey que no es de este mundo (Jn 18,36), es entronizado en la resurrección y entregará el reino al Padre al final (1Cor 15,24).
+
 ## Distinciones importantes
 
 - **Reino de Dios** ≠ **reino temporal**: el Reino de Dios no es de este mundo; no se identifica con ninguna estructura política.

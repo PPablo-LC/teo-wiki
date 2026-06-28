@@ -35,6 +35,10 @@ La piedad (q.101) es una virtud especial, parte potencial de la justicia, por la
 
 [SmTh IIa-IIae q.101 a.1-4]
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+La entrada «Piedad» del VocTeoBib muestra que la piedad bíblica (*hesed*) designa la adhesión mutua que une a parientes, amigos y aliados (Gen 47,29; 1Sa 20,8); se manifiesta en actos de amor fiel y compasivo. Dios muestra su *hesed* a Israel (Ex 34,6; Jer 31,3), y el hombre debe responder con adhesión filial traducida en obediencia y culto (Dt 10,12s). El Mesías estará dotado de piedad (Is 11,2). Cristo es el «piadoso» por excelencia (Act 2,27; Sal 16,10); su piedad filial le lleva a cumplir la voluntad del Padre (Jn 8,29). El misterio de Cristo se llama «el misterio de la piedad» (1Tim 3,16). La piedad cristiana se opone a las prácticas vanas de una piedad falsa (Col 2,16-23).
+
 ## Distinciones importantes
 
 - Piedad como virtud moral vs. don del Espíritu Santo

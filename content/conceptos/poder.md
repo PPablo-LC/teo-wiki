@@ -29,6 +29,10 @@ Toda sociedad necesita una autoridad que la rija, cuyo fundamento está en la na
 
 El poder político debe ejercerse dentro del orden moral y garantizar las condiciones de ejercicio de la libertad. Está obligado a respetar los derechos fundamentales de la persona y a administrar justicia en el respeto del derecho de cada uno.
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+La entrada «Poder» del VocTeoBib se centra en el poder de Dios, no en la autoridad humana. Yahveh se revela como el Todopoderoso que creó el mundo (Gen 1,1) y liberó a Israel con mano fuerte (Ex 3,19; Dt 4,34). El poder de Yahveh se pone al servicio de su amor; es la fuerza del débil que confía en él (Sal 59,17s). El hombre, creado a imagen de Dios (Gen 1,26ss), participa de su poder para dominar la tierra, pero el pecado desvía este poder hacia la violencia (Gen 4,8; 11,4ss) y la opresión del débil (Is 10,1s). Cristo manifiesta el poder divino en la debilidad de la cruz (1Cor 1,18; 2Cor 12,9s), inaugurando un poder que sirve, no que domina.
+
 ## Distinciones importantes
 
 - Poder civil (político) vs. poder eclesiástico (espiritual): la Iglesia no se confunde con la comunidad política y respeta la legítima autonomía del orden temporal.

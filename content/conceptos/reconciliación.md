@@ -59,6 +59,10 @@ Juan Pablo II testimonia su oración pidiendo perdón. La integración en el gri
 
 Juan Pablo II vincula el sacramento de la Penitencia con la misión conferida por Cristo resucitado a los Apóstoles: «A quienes remitiereis los pecados, les son remitidos; y a quienes los retuviereis, les son retenidos» (Jn 20,22-23). Este poder de perdonar los pecados es un don del Espíritu Santo y constituye la base del sacramento de la Reconciliación. La reconciliación brota del perdón de Cristo desde la Cruz: «Padre, perdónalos, porque no saben lo que hacen» (Lc 23,34). Cristo es el [[cordero_de_dios]] que quita el pecado del mundo, y su sangre derramada es la fuente del perdón y la reconciliación del hombre con Dios (CJeS, segunda parte: salvación como liberación del pecado; cuarta parte: palabras de Cristo en la Cruz).
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+La entrada «Reconciliación» del VocTeoBib muestra que Dios preparó la reconciliación en el AT ofreciendo su perdón (Ex 34,6; Sal 85,4; Os 2,16-22). La reconciliación perfecta fue realizada por Cristo, «mediador entre Dios y los hombres» (1Tim 2,5). Pablo es su teólogo inspirado: «Dios nos reconcilió consigo por Cristo» (2Cor 5,18), no imputando sus faltas y haciendo una nueva creación (2Cor 5,17). Los efectos de la reconciliación coinciden con la justificación y la santificación (Rom 5,9s; Col 1,21s). El «ministerio de la reconciliación» (2Cor 5,18) define la actividad apostólica. Cristo derribó el muro que separaba a judíos y gentiles (Ef 2,14-16), reconciliando a todos en un solo cuerpo.
+
 ## Relaciones doctrinales
 
 Se relaciona con [[perdón]], [[paz]], [[justicia]], [[verdad]], [[paz_cristiana]], [[guerra]]

@@ -49,6 +49,10 @@ El Concilio de Trento (Sesión IV, D-785-D-786) declaró la Vulgata como edició
 - [D-785]
 - [D-786]
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Revelación»] La revelación bíblica es un hecho histórico que se desarrolla durante siglos hasta alcanzar su plenitud en Cristo. En el AT, Dios revela sus designios por la ley, los profetas y la sabiduría; se revela a sí mismo a través de la creación, la historia y su nombre (Ex 3,14), pero manteniendo su trascendencia. En el NT, la revelación se concentra en Jesucristo: por sus hechos, sus palabras y su persona (Mt 11,27 p). Los apóstoles la comunican bajo la guía del Espíritu Santo (Act 1,8), y la Iglesia la transmite fielmente. La revelación pública se cierra con los Apóstoles, pero su inteligencia progresa en la Iglesia hasta la manifestación final (1Cor 13,12). El Apocalipsis es el libro que sella la revelación, orientando la mirada de la Iglesia hacia la parusía.
+
 ## Distinciones importantes
 
 - **Revelación natural vs. sobrenatural**: la primera por las criaturas; la segunda por comunicación directa de Dios

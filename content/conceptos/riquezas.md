@@ -27,6 +27,10 @@ El décimo mandamiento prohíbe la avaricia y el deseo desordenado de apropiaci�
 ### Según Royo Marín (TPCr)
 Las riquezas son bienes fugaces y aparentes que se prestan a desviarnos de los caminos de Dios (TPCr, Tercera Parte, Libro II, Cap. III). El mundo exalta las riquezas en oposición a las máximas del Evangelio (TPCr, Tercera Parte, Libro I, Cap. II). La virtud de la liberalidad modera el amor a las cosas exteriores y dispone a desprenderse fácilmente de ellas dentro del recto orden (TPCr, Tercera Parte, Libro II, Cap. II, n.428). Las inagotables riquezas de Cristo están a nuestra disposición (Ef 3,8); los santos se aprovechaban de estas inefables riquezas (TPCr, Primera Parte, Cap. VII).
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+La entrada «Riquezas» del VocTeoBib muestra que el AT considera la riqueza como don de Dios y signo de bendición (Gen 13,2; Dt 28,1-12), pero advierte de sus peligros: lleva a olvidar a Dios (Dt 8,12ss; Os 13,6) y a oprimir al pobre (Is 5,8; Jer 5,27s). La sabiduría prefiere la justicia y el buen nombre a la riqueza (Prov 15,16; 22,1). El NT da un cambio radical: no se puede servir a Dios y al dinero (Mt 6,24). Jesús pide venderlo todo para adquirir el tesoro del Reino (Mt 13,44-46). Las riquezas verdaderas son las de la gracia y la sabiduría de Dios en Cristo (Ef 3,8). La limosna a los pobres es el camino para que el rico se haga amigos en el cielo (Lc 16,9).
+
 ## Distinciones importantes
 
 - El deseo desordenado de riquezas es pecado de avaricia; su uso recto puede ser virtuoso

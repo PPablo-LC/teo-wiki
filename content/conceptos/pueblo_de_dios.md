@@ -76,6 +76,10 @@ Todo el Pueblo de Dios participa en la misión profética de Cristo. Cristo ha d
 
 La Iglesia como Pueblo de Dios es también «Cuerpo Místico de Cristo» [RH §21]. La pertenencia a Él «proviene de una llamada particular, unida a la acción salvífica de la gracia». Es la comunidad de los discípulos, a cada uno de los cuales Cristo dice: «Sígueme» [RH §21]. El principio del «servicio real», según el ejemplo de Cristo que «no ha venido para ser servido, sino para servir», exige la fidelidad a la vocación recibida y lleva consigo «aquella solidaria responsabilidad por la Iglesia en la que el Concilio Vaticano II quiere educar a todos los cristianos» [RH §21].
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+La entrada «Pueblo» del VocTeoBib es una de las más extensas. Israel fue elegido por amor (Dt 7,7s), constituido en pueblo santo y reino de sacerdotes (Ex 19,6). La antigua alianza unía la realidad nacional con la trascendente, preparando la promesa del pueblo nuevo (Jer 31,31-34). En Cristo, la Iglesia es el nuevo Pueblo de Dios, formado por judíos y gentiles (Ef 2,14-16), definido no por la raza sino por la fe. La Iglesia, pueblo escatológico, peregrina hacia la patria celestial (Heb 11,13-16; Flp 3,20), siendo en la tierra «raza elegida, sacerdocio real, nación santa» (1Pe 2,9). El destino de la Iglesia presenta paralelismos con el de Israel: las mismas infidelidades, persecuciones y la necesidad de abandonar Babilonia (Ap 18,4).
+
 ## Distinciones importantes
 
 - No es un pueblo étnico ni político sino religioso y sobrenatural

@@ -37,6 +37,10 @@ Santo Tomás trata extensamente la resurrección de los muertos en las cuestione
 
 Royo Marín trata la resurrección de los muertos en el contexto de la escatología, como parte de los novísimos. La resurrección será universal: todos los hombres, justos y pecadores, resucitarán. Los cuerpos resucitados de los justos gozarán de las propiedades de los cuerpos gloriosos: impassibilidad, sutileza, agilidad y claridad (TPCr, Cuarta Parte).
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Resurrección»] La idea bíblica de resurrección se distingue de la inmortalidad griega: no es la liberación del alma, sino la restauración de la persona entera por gracia divina. En el AT, Yahveh es el único Señor de la vida y la muerte (1Sa 2,6); la resurrección del pueblo (Ez 37,1-14; Os 6,1s) prepara la resurrección individual (Dan 12,2; 2Mac 7,9). En el NT, Cristo es el «primogénito de entre los muertos» (Col 1,18). Su resurrección es el centro de la predicación apostólica (Act 2,22-35) y fundamento de la esperanza cristiana (1Cor 15,20). La resurrección final implicará una transformación total del cuerpo en cuerpo espiritual, incorruptible e inmortal (1Cor 15,35-53). La vida cristiana es ya una resurrección anticipada por el bautismo (Rom 6,4ss; Col 2,12; Ef 2,5s), en espera de la manifestación plena (Col 3,4).
+
 ## Distinciones importantes
 
 - No es solo inmortalidad del alma, sino resurrección corporal

@@ -55,6 +55,10 @@ Santo Tomás trata extensamente la ley en las cuestiones 90–108 de la Ia-IIae:
 
 Royo Marín sitúa la ley en el contexto del plan divino de salvación. La ley natural fue conocida por la razón humana pero oscurecida por el pecado. La Ley antigua prepara la venida de Cristo. La Ley nueva, traída por el Redentor, perfecciona y completa toda ley anterior confiriendo la gracia para cumplirla.
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+La entrada «Ley» del VocTeoBib desarrolla la *torah* como enseñanza de Dios que reglamenta la conducta del hombre. Distingue tres etapas. La ley natural, inscrita por Dios en el corazón (Rom 2,14s), rige desde los orígenes (Gen 2,16s) y alcanza a las naciones. La Ley antigua o mosaica, dada en el Sinaí, es inseparable de la alianza y constituye una pedagogía para el pueblo elegido (Dt 4,5-8); el Decálogo es su centro (Ex 20,2-17). La Ley nueva o evangélica, inaugurada por Cristo (Jn 1,17), es la gracia del Espíritu Santo que actúa por la caridad (Rom 6,15; Gal 6,2), ley de amor y de libertad que perfecciona y cumple la Antigua.
+
 ## Distinciones importantes
 
 - **Ley eterna**: la razón divina que ordena todo hacia su fin en Dios

@@ -136,6 +136,10 @@ Juan Pablo II explica su lema *Totus Tuus*, tomado de San Luis María Grignion d
 
 Juan Pablo II desarrolla la presencia de María al pie de la Cruz en el contexto de las palabras de Cristo: «Mujer, he ahí a tu hijo» (Jn 19,26-27). En este momento, Jesús confía el discípulo amado —y en él a todos los hombres— a María como Madre, y a María al discípulo como hijo. Esta escena funda la [[maternidad_espiritual]] de María sobre toda la Iglesia. María es constituida Madre de la Iglesia y Madre en el orden de la gracia (cf. *Lumen Gentium* 61). El culto mariano y el amor filial a María brotan de esta entreza de Cristo desde la Cruz. María está presente en el momento culminante de la redención, asociada al sacrificio de su Hijo (CJeS, cuarta parte: palabras de Cristo en la Cruz).
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «María»] El artículo recorre los principales títulos marianos del NT. María aparece como **Hija de Sión** (Lc 1,26-56): el «regocíjate» del ángel evoca Sof 3,14-17 y Zac 9,9, y ella recibe en nombre del pueblo el anuncio de la salvación. Es la **Virgen** que concibe por obra del Espíritu Santo (Lc 1,26-38; Mt 1,18-23); su virginidad manifiesta una consagración exclusiva a Dios. Es la **Madre** de Jesús, maternidad voluntaria que se consuma en la cruz (Jn 19,25ss), donde María es constituida madre del discípulo y, en él, de la Iglesia. Es la **primera creyente**, cuyo itinerario de fe —turbación, silencio, meditación— es modelo para todo fiel. La relación María-Iglesia es profunda: María es tipo de la Iglesia, Virgen y Madre, Nueva Eva asociada al Nuevo Adán.
+
 ## Distinciones importantes
 
 - **Maternidad divina**: María es Madre de Dios (Theotókos), verdadera Madre de Jesús, que es verdadero Dios y verdadero hombre.
