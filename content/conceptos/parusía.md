@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Parusía
 tags: ["dogmática_—_escatología"]
 
-timestamp: 2026-05-25
+timestamp: 2026-06-28
 description: "La segunda venida gloriosa de Jesucristo al final de los tiempos, cuando vendrá con poder y majestad para juzgar a vivos y muertos."
 ---
 # Parusía
 
 > Área: Dogmática — Escatología
-> Última actualización: 2026-05-25
+> Última actualización: 2026-06-28
 
 ## Definición
 
@@ -28,6 +28,10 @@ El CEC dedica los §§668-682 a la venida gloriosa de Cristo. Cristo reina ya en
 ### Según Royo Marín (TPCr)
 
 Royo Marín trata la parusía en la Parte 4 como consumación de la vida espiritual y de la historia de la salvación. La espera de la venida del Señor es un motivo de esperanza y de vigilancia. La perfección que el alma alcanza en la [[unión_transformante]] es un anticipo de la gloria que se consumará en la parusía, cuando el alma unida a Cristo participe también de la glorificación del cuerpo.
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Benedicto XV** — Respuesta de la Comisión Bíblica (18 de junio de 1915, D‑2179–D‑2181): Afirmó que no es lícito afirmar que los Apóstoles expresaron sus propios sentimientos humanos en los que pudiera deslizarse error sobre la parusía. San Pablo nada dijo que no concuerde perfectamente con la ignorancia del tiempo de la parusía que Cristo proclamó propia de los hombres. Rechazó como desprovista de sólido fundamento la interpretación que niega que Pablo se contara a sí mismo entre los sobrevivientes que han de salir al encuentro de Cristo, afirmando la interpretación tradicional de 1 Tes 4,15-17.
 
 ## Distinciones importantes
 

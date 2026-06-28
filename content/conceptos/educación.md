@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Educación
 tags: ["doctrina_social", "moral"]
 
-timestamp: 2026-05-26
+timestamp: 2026-06-28
 description: "Proceso de formación integral de la persona humana que desarrolla armónicamente sus dotes físicas, morales e intelectuales, capacitándola para conocer la verdad."
 ---
 # Educación
 
 > Área: Doctrina Social / Moral
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-28
 
 ## Definición
 
@@ -48,6 +48,10 @@ La Vida de Jesús (VJ) dedica una sección a María y José como educadores del 
 ### Según la Recopilación de mensajes a las mujeres (Muj)
 
 Juan Pablo II destaca la misión educadora de la mujer como fundamental para la sociedad. La educación no puede reducirse a una «árida transmisión de nociones», sino que debe buscar el crecimiento del hombre en todas sus dimensiones [Muj 32 §2]. La mujer tiene «una singular capacidad para mirar a la persona concreta, capta sus exigencias y necesidades con intuición particular, y sabe afrontar los problemas con gran participación» [Muj 32 §2]. El influjo educativo de la mujer comienza cuando el niño aún está en el seno materno, y su papel es igualmente importante en las demás fases del período formativo [Muj 32 §2]. La creciente presencia de mujeres educadoras en la escuela abre la perspectiva de un enriquecimiento del proceso educativo, ya que «cuando en los proyectos y en las instituciones formativas colaboran juntos hombres y mujeres, el plan integral de educación queda seguramente enriquecido» [Muj 32 §2].
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Pío XI** — Encíclica *Divini illius Magistri* (1929, D‑2202–D‑2224): Constituye la carta magna de la educación cristiana. Estableció que la educación pertenece a tres sociedades: la Iglesia (por título sobrenatural), la familia (por título natural y anterior al Estado) y el Estado (por razón del bien común). La Iglesia tiene el derecho y el deber de vigilar toda educación de los fieles. La familia tiene el derecho primario y anterior a cualquier derecho del Estado. El Estado debe proteger y promover, pero no absorber ni suplantar a la familia y a la Iglesia. Rechazó la escuela neutra o laica como contraria a la educación cristiana. Condenó la educación sexual naturalista que prescinde de la religión y de la gracia. Rechazó la coeducación como perniciosa para la educación cristiana. El fin propio de la educación cristiana es hacer al hombre auténtico y perfecto cristiano, formar a Cristo mismo en los que han renacido por el bautismo.
 
 ## Relaciones doctrinales
 

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Asunción de María
 tags: ["dogmática", "mariología"]
 
-timestamp: 2026-05-31
+timestamp: 2026-06-28
 description: "La Asunción de María es el dogma de fe definido por el papa Pío XII el 1 de noviembre de 1950 (Constitución Apostólica *Munificentissimus Deus*) según el cual la Virgen María."
 ---
 # Asunción de María
 
 > Área: Dogmática / Mariología
-> Última actualización: 2026-05-31
+> Última actualización: 2026-06-28
 
 ## Definición
 
@@ -32,6 +32,10 @@ La Asunción es el coronamiento de todos los privilegios de María. Su cuerpo gl
 ### Según la Redemptoris Mater (RM)
 
 [JPII, Redemptoris Mater §41, §50]: María, elevada al cielo en cuerpo y alma, es Reina universal. Su Asunción es la consecuencia escatológica de su plenitud de gracia y de su participación en la obra redentora: «la Madre de Cristo está ya presente en el misterio de Cristo y de la Iglesia como Reina» [RM §41]. María es «signo de esperanza segura y de consuelo para el Pueblo de Dios peregrinante» [RM §50]: su Asunción anticipa la resurrección de todos los justos y constituye la prenda de la gloria futura de la Iglesia. La Iglesia peregrina contempla en María asunta al cielo la imagen de su propia consumación escatológica [RM §50].
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Pío XII** — Constitución Apostólica *Munificentissimus Deus* (1950, D‑2315): Definió solemnemente como dogma de fe que «la Inmaculada Madre de Dios, siempre Virgen María, terminado el curso de su vida terrena, fue asunta en cuerpo y alma a la gloria celestial». La definición se funda en la singular participación de María en la victoria de Cristo sobre el pecado y la muerte. Es el cuarto dogma mariano y fue precedido por la consulta a todos los obispos del mundo, que respondieron afirmativamente casi por unanimidad.
 
 ## Distinciones importantes
 

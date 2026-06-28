@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Liturgia
 tags: ["dogmática", "sacramental"]
 
-timestamp: 2026-05-26
+timestamp: 2026-06-28
 description: "La liturgia es la obra de la Santísima Trinidad en favor de la Iglesia: el Padre es reconocido y adorado como la fuente de todas las bendiciones."
 ---
 # Liturgia
 
 > Área: Dogmática / Sacramental
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-28
 
 ## Definición
 
@@ -44,6 +44,12 @@ La Constitución *Sacrosanctum Concilium* es la carta magna de la liturgia en el
 ### Según la Guía de Liturgia (GLit-2024)
 
 La Guía de Liturgia de la Legión de Cristo recoge que la oración en común ha de considerarse la base de toda vida comunitaria, partiendo de la contemplación del Misterio de Dios [GLit-2024, n. 5, citando VFC 12]. De modo particular, «la comunidad se construye a partir de la Liturgia, sobre todo de la celebración de la Eucaristía y de los otros sacramentos» [GLit-2024, n. 6, citando VFC 14]. La liturgia pone en contacto con las grandes obras de Dios que «se hacen luminosas y generan alabanza, gratitud, alegría, unión de corazones, apoyo en las dificultades comunes de la convivencia diaria y fortalecimiento recíproco en la fe» [GLit-2024, n. 6, citando VFC 14].
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Pío XI** — Constitución Apostólica *Divini cultus* (1928, D‑2200): Afirmó que la Iglesia recibió de Cristo el cargo de guardar la santidad del culto divino, y le toca mandar las ceremonias, ritos, fórmulas y canto por los que se rige la Liturgia. Estableció el íntimo parentesco entre la sagrada Liturgia y el dogma, citando a Celestino I: «La ley de creer ha de establecerla la ley de orar».
+
+**Pío XII** — Encíclica *Mediator Dei* (1947, D‑2297–D‑2300): Definió la sagrada Liturgia como el culto público íntegro del Cuerpo místico de Jesucristo, es decir, de la Cabeza y de sus miembros. En toda acción litúrgica está presente Cristo: en el sacrificio del altar, en los sacramentos por su virtud, y en las alabanzas y súplicas. Rechazó la oposición entre vida ascética y piedad litúrgica. Reafirmó que el sacerdote solo representa a la Iglesia porque representa la persona de Cristo, y que los fieles participan del sacrificio eucarístico pero no gozan de dignidad sacerdotal.
 
 ## Ver también
 

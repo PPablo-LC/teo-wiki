@@ -72,6 +72,14 @@ En la doctrina social ocupa un lugar importante el derecho a un trabajo digno: �
 - Se fundamenta en la ley natural y en el Evangelio
 - Está abierta al diálogo con todos los hombres de buena voluntad
 
+## Perspectivas por fuente
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**León XIII** — Encíclica *Quod Apostolici muneris* (1878, D‑1849–D‑1852): Definió la doctrina católica sobre la desigualdad social y el derecho de propiedad frente al socialismo. Afirmó que la desigualdad de derecho y poder dimana del autor mismo de la naturaleza. La Iglesia reconoce la desigualdad entre los hombres aun en la posesión de los bienes y manda que cada uno tenga intacto el derecho de propiedad. Rechazó la comunidad de bienes propugnada por los socialistas y afirmó que el hurto y la rapiña están prohibidos por Dios. Sin embargo, la Iglesia abraza con maternal afecto a los pobres, recordando a los ricos el gravísimo mandamiento de dar lo superfluo a los pobres.
+
+**León XIII** — Encíclica *Immortale Dei* (1885, D‑1866–D‑1888): Sobre la constitución cristiana de los Estados. Afirmó que Dios ha distribuido el gobierno del género humano entre dos potestades: la eclesiástica y la civil. La Iglesia es una sociedad perfecta por su género y derecho, y no puede estar sujeta a la potestad civil en el desempeño de sus deberes. Rechazó la separación de la Iglesia y el Estado como contraria a los consejos de Dios. Afirmó que los católicos tienen causa justa de intervenir en el gobierno del Estado para dirigir los regímenes al bien público.
+
 ## Relaciones doctrinales
 
 [[bien_común]], [[solidaridad]], [[subsidiariedad]], [[dignidad_humana]], [[ley_natural]]

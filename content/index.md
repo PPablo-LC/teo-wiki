@@ -1051,6 +1051,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[labios]]
 - [[laicado]]
 - [[laicidad_positiva]]
+- [[laicismo]]
 - [[laicos]]
 - [[latría]]
 - [[laudes]]
@@ -1150,6 +1151,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[mariología]]
 - [[martirio]]
 - [[maría_en_el_cenáculo]]
+- [[masonería]]
 - [[masturbación]]
 - [[materia_de_la_eucaristía]]
 - [[materialismo]]
@@ -1700,6 +1702,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[romano_pontífice]]
 - [[romería]]
 - [[rosario]]
+- [[rosmini]]
 - [[rostro]]
 - [[rota_romana]]
 

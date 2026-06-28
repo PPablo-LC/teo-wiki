@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Inspiración bíblica
 tags: ["dogmática_(revelación)"]
 
-timestamp: 2026-05-29
+timestamp: 2026-06-28
 description: "La inspiración bíblica es el carisma del Espíritu Santo por el cual Dios es el autor principal de la Sagrada Escritura, actuando en y por medio de autores humanos verdaderos (hagiógrafos)."
 ---
 # Inspiración bíblica
 
 > Área: Dogmática (Revelación)
-> Última actualización: 2026-05-29
+> Última actualización: 2026-06-28
 
 ## Definición
 
@@ -44,6 +44,12 @@ La inspiración no hace del cristianismo una "religión del Libro": el cristiani
 - "Todo lo que los autores inspirados o hagiógrafos afirman, debe tenerse como afirmado por el Espíritu Santo" (DV 11).
 - "Los libros de la Escritura enseñan firmemente, con fidelidad y sin error, la verdad que Dios quiso consignar en las sagradas letras para nuestra salvación" (DV 11).
 - La Escritura debe leerse e interpretarse "con el mismo Espíritu con que se escribió" (DV 12).
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Benedicto XV** — Encíclica *Spiritus Paraclitus* (1920, D‑2186–D‑2188): Reafirmó la doctrina de León XIII (*Providentissimus Deus*) sobre la absoluta inmunidad de la Escritura respecto a cualquier error. Rechazó la distinción entre elemento primario (religioso) y secundario (profano) en la inspiración, pues la inspiración se extiende a todas las sentencias y palabras de la Biblia, y la inmunidad de error a toda ella. Condenó a quienes sostienen que las partes históricas de la Escritura se fundan en verdad relativa u opinión del vulgo. Afirmó que los evangelios nos han llegado íntegros e inmutables por los testigos que pusieron por escrito lo que vieron y oyeron.
+
+**Pío XII** — Encíclica *Divino afflante Spiritu* (1943, D‑2292–D‑2294): Confirmó la autenticidad de la Vulgata como versión oficial de la Iglesia latina, pero autorizó y alentó el uso de los textos originales para la exégesis. Enseñó que el exegeta debe determinar el sentido literal mediante el conocimiento de las lenguas, el contexto y la comparación, teniendo en cuenta las explicaciones del magisterio y de los Padres. Introdujo el estudio de los géneros literarios como herramienta para resolver dificultades sobre la verdad histórica de la Escritura.
 
 ## Distinciones importantes
 

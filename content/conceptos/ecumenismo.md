@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Ecumenismo
 tags: ["eclesiología"]
 
-timestamp: 2026-05-22
+timestamp: 2026-06-28
 description: "El ecumenismo es el movimiento impulsado por el Espíritu Santo que busca la restauración de la unidad visible entre todos los cristianos, según la voluntad de Cristo."
 ---
 # Ecumenismo
 
 > Área: Eclesiología
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-28
 
 ## Definición
 
@@ -69,6 +69,10 @@ Es necesario distinguir entre las comunidades cristianas (con las que es posible
 
 Juan Pablo II expresa el esfuerzo por la reunificación según la oración de Cristo (Jn 17,21). Lo que nos une es más grande que lo que nos divide. Señala los decretos conciliares clave: *Unitatis redintegratio* y *Dignitatis humanae*. Menciona las siete Iglesias católicas orientales. La influencia de la I y II Guerra Mundial y el Holocausto en la conciencia ecuménica. El diálogo con los judíos como «hermanos mayores». El Espíritu Santo como protagonista de la unidad. El primer milenio: Iglesia indivisa; segundo milenio: divisiones; necesario recomponer hacia el tercer milenio. «El que comenzó la obra la llevará a cumplimiento» (Flp 1,6) (UDE, Cap. XXII-XXIII).
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Pío XI** — Decreto del Santo Oficio (8 de julio de 1927, D‑2199): Respondió negativamente a si es lícito a los católicos asistir o favorecer las reuniones, asociaciones o congresos de acatólicos cuyo fin es unir a cuantos se llaman cristianos en una sola alianza religiosa. Este decreto se inscribe en el contexto de la encíclica *Mortalium animos* (1928), que rechazó el falso ecumenismo que iguala a todas las religiones o minimiza las diferencias doctrinales.
+
 ## Distinciones importantes
 
 - **Ecumenismo espiritual**: oración, conversión y santidad como alma del movimiento ecuménico.
@@ -88,3 +92,4 @@ El ecumenismo se conecta con la [[iglesia_cuerpo_místico]] (unidad del Cuerpo d
 
 - [CEC §§813-822; §§1398-1401]
 - [Concilio Vaticano II, Unitatis Redintegratio]
+- [D‑2199]
