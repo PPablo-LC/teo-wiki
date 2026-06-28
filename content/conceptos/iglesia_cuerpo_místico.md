@@ -65,6 +65,8 @@ Tomás compara la relación entre el Espíritu Santo y Cristo con la del corazó
 
 **D‑1427–D‑1428**: «El que no lleva una vida digna de un hijo de Dios y miembro de Cristo, cesa interiormente de tener a Dios por padre y a Cristo por cabeza... El hombre se separa del pueblo escogido... lo mismo no viviendo conforme al Evangelio, que no creyendo en el Evangelio.» Condenadas. La condena afirma que el pecado mortal no separa del todo al hombre de la Iglesia ni de Cristo como cabeza, pues el vínculo de la fe y el bautismo permanece.
 
+**Pío VI** (1794, D‑1515) — Constitución *Auctorem Fidei*. Condenó la proposición de que «la Iglesia debe ser considerada como un solo cuerpo místico, compuesto de Cristo cabeza y de los fieles, que son sus miembros por unión inefable, por la que maravillosamente nos convertimos con El mismo en un solo sacerdote, una sola víctima, un solo adorador perfecto del Padre en espíritu y en verdad», en cuanto entendida en el sentido de que «al cuerpo de la Iglesia sólo pertenecen los fieles que son adoradores del Padre en espíritu y en verdad». Condenada como herética. La condena afirma que la Iglesia visible se compone también de pecadores y que no se identifica exclusivamente con el conjunto de los elegidos.
+
 ## Distinciones importantes
 
 - **Cuerpo físico de Cristo**: su humanidad individual, nacida de María.

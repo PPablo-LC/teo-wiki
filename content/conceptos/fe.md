@@ -118,6 +118,8 @@ Pío V condenó los errores de Bayo relacionados con la fe (D‑1022, D‑1025, 
 
 **D‑1302**: «Cuando en los grandes pecadores falta todo amor, falta también la fe; y aun cuando parezca que creen, no es fe divina, sino humana.» Condenada. La condena afirma que la fe divina puede coexistir con el estado de pecado mortal: el pecador puede conservar la fe sobrenatural aunque haya perdido la caridad.
 
+**Pío VI** (1794, D‑1522) — Constitución *Auctorem Fidei*. Condenó la proposición que insinúa que «la fe, por la que empieza la serie de las gracias y por la que, como por voz primera, somos llamados a la salvación y a la Iglesia, es la misma excelente virtud de la fe, por la que los hombres se llaman fieles y lo son», «como si no fuera antes aquella gracia que, como previene la voluntad, así previene también la fe». Declarada sospechosa de herejía, errónea y condenada en Quesnel (D‑1377). La condena afirma que la fe no es la primera gracia, sino que está precedida por una gracia preveniente que dispone la voluntad para creer.
+
 ## Analizado para
 
 [[pascasio_quesnel]], [[unigenitus]]

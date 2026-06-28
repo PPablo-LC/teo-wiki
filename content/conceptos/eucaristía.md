@@ -279,6 +279,8 @@ El **IV Concilio de Letrán** (1215), en D-430, define la transustanciación: «
 
 - [D-873a-D-893]
 
+**Pío VI** (1794, D‑1529) — Constitución *Auctorem Fidei*. Condenó como «perniciosa, derogativa de la exposición de la verdad católica acerca del dogma de la transustanciación y favorecedora de los herejes» la doctrina del Sínodo de Pistoya que, proponiéndose enseñar la doctrina de la fe sobre la consagración, exhortaba a apartar las cuestiones escolásticas acerca del modo como Cristo está en la Eucaristía y proponer solo dos puntos: 1) que Cristo está verdadera, real y sustancialmente bajo las especies; 2) que cesa la sustancia del pan y del vino, quedando solo las especies; omitiendo enteramente hacer mención de la transustanciación. La condena afirma que la transustanciación es «artículo que pertenece a la fe» y «voz consagrada por la Iglesia para defender su profesión contra las herejías».
+
 ## Analizado para
 
 - [[ali_ghaffari_courage]]

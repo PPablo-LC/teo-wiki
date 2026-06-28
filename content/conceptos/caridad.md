@@ -174,6 +174,12 @@ Pío V condenó los errores de Bayo sobre la caridad (D‑1031–D‑1034, D‑1
 
 **D‑1305**: «La atrición que se concibe por miedo al infierno y a los castigos, sin el amor de benevolencia a Dios por sí mismo, no es movimiento bueno ni sobrenatural.» Condenada. (Véase [[atrición]].)
 
+**Pío VI** (1794, D‑1523–D‑1524) — Constitución *Auctorem Fidei*:
+
+**D‑1523**: La doctrina del Sínodo de Pistoya sobre el doble amor (concupiscencia dominante y amor dominante), en cuanto insinúa que en el hombre sin la gracia «de tal modo domina la concupiscencia que por influjo general de ésta todas sus acciones quedan en sí mismas inficionadas o corrompidas, o que todas las obras que se hacen antes de la justificación, de cualquier modo que se hagan, son pecados». Condenada como falsa, perniciosa e inductiva a error condenado por el Tridentino y en Bayo.
+
+**D‑1524**: En cuanto entre la concupiscencia dominante y la caridad dominante no se pone ningún afecto medio laudable (inserto por la naturaleza misma, como el amor de la bienaventuranza y la natural propensión al bien), «como si entre el amor divino que nos conduce al reino y el amor humano ilícito no se diera el amor humano lícito». Condenada como falsa y otras veces condenada.
+
 ## Analizado para
 
 [[pascasio_quesnel]], [[unigenitus]]

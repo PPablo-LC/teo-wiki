@@ -29,6 +29,13 @@ Los cc. 1124-1131 regulan los matrimonios mixtos. El matrimonio mixto requiere l
 
 **Benedicto XIV** (1741, D‑1455) — Declaración Benedictina sobre los matrimonios mixtos en Bélgica. Declaró válidos los matrimonios contraídos en las Provincias Unidas entre católicos y herejes sin la forma del Concilio de Trento, con tal de que no mediara otro impedimento canónico. El mismo pontífice exhortó a los prelados a disuadir a los católicos de contraer estas uniones, que llamó «detestables» y «sacrílegas», pero, una vez contraídas, reconoció su validez. El cónyuge católico debía hacer penitencia por la culpa cometida y esforzarse por convertir al cónyuge hereje.
 
+**Pío VI** (1782, D‑1496–D‑1499) — Carta a Bernd, obispo de Ginebra. Reguló la disciplina sobre matrimonios mixtos en Suiza:
+
+- **D‑1496**: Permitió que el párroco asista pasivamente (sin intervención activa) al matrimonio mixto, estando ya todo acordado, para evitar «males mayores» como la celebración ante ministros herejes. Se trata de tolerancia, no de aprobación.
+- **D‑1497**: Si los cónyuges han hecho previamente las proclamaciones civiles (tres domingos ante el magistrado civil) y se presentan al párroco, este puede asistir sin necesidad de repetir las proclamaciones en la iglesia, «pues es mejor que contraigan en la Iglesia, si no pueden ser disuadidos, a que lo hagan delante de los herejes».
+- **D‑1498**: Si el cónyuge católico, arrepentido, desea volver al redil de la Iglesia, el párroco no debe negarle los sacramentos ni echarlo en cara su falta, sino acogerlo benignamente.
+- **D‑1499**: Precisó que el cónyuge católico que contrajo matrimonio mixto «en las iglesias de los herejes» o ante el magistrado civil, si está arrepentido, puede ser absuelto de la excomunión y admitido a los sacramentos, en conciencia.
+
 ## Relaciones doctrinales
 
 El matrimonio mixto se relaciona con el [[matrimonio]], los [[impedimentos_dirimentes]], la [[disparidad_de_culto]], el [[ecumenismo]] y la [[libertad_religiosa]].

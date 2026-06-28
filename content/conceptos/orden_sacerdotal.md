@@ -133,6 +133,20 @@ Santo Tomás trata el sacramento del Orden en la IIIa Pars, q.63-64 (sobre el ca
 
 **Clemente VIII** (1595, D‑1087), instrucción sobre los ritos de los italo-griegos: enseñó que los ordenados por obispos cismáticos, si fueron legítimamente ordenados guardando la debida forma, «reciben ciertamente el orden, pero no la ejecución». Es decir, reciben válidamente el sacramento (el carácter indeleble), pero no pueden ejercer lícitamente el ministerio (no tienen la ejecución) por carecer de la jurisdicción eclesiástica necesaria. Esta distinción entre validez sacramental y licitud del ejercicio se alinea con la doctrina de Santo Tomás (Suppl. q.38 a.2).
 
+**Pío VI** (1794, D‑1551–D‑1557) — Constitución *Auctorem Fidei*:
+
+**D‑1551**: Condenó la doctrina del Sínodo de Pistoya que presentaba como antigua disciplina que «si alguno de los clérigos se distinguía por su santidad de vida, solía ser promovido al diaconado o al sacerdocio, aun cuando no hubiera recibido las órdenes inferiores y no se decía entonces que tal ordenación era por salto». Declarada ofensiva contra la disciplina eclesiástica.
+
+**D‑1552–D‑1553**: Condenó como falsa y temeraria la insinuación de que «la disciplina se ha corrompido» por las leyes que vedan las ordenaciones por salto (salto de grados), por las que aprueban la ordenación a título de patrimonio sin oficio especial asignado, y por la distinción canónica de crímenes que hacen irregulares.
+
+**D‑1554**: Condenó como falsa, temeraria, lesiva del derecho eclesiástico e injuriosa contra la Iglesia y sus ministros la proposición que tacha de «torpe abuso pretender jamás limosna por la celebración de las misas o administración de los sacramentos», así como recibir derecho de estola o estipendio.
+
+**D‑1555**: Condenó como «temeraria, ofensiva de los oídos piadosos, perturbadora del ministerio eclesiástico e injuriosa contra los cargos y funciones de las órdenes menores» la proposición que deseaba apartar al clero menudo de las catedrales y colegiatas, proveyendo por medio de laicos para el ministerio de servir las misas.
+
+**D‑1556**: Condenó como «lesiva de la equidad y moderación canónica aprobada por el Tridentino y derogativa de la autoridad de la Iglesia» la doctrina que establecía que «no se conceda ni admita jamás dispensa alguna en los impedimentos canónicos que provienen de delitos».
+
+**D‑1557**: Condenó como derogativa de la moderación tridentina la prescripción que de modo general y sin discriminación rechazaba como abuso cualquier dispensa para conferir más de un beneficio residencial a un mismo sujeto.
+
 ## Distinciones importantes
 
 - **Tres grados**: episcopado, presbiterado, diaconado — cada uno con carácter propio

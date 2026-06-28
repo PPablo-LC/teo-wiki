@@ -230,6 +230,20 @@ Juan Pablo II vincula el sacramento de la Penitencia con el poder de las llaves 
 
 **Benedicto XIV** (1745, D‑1474) — Breve *Suprema omnium Ecclesiarum sollicitudo*. Condenó la práctica de algunos confesores que preguntaban a los penitentes el nombre del cómplice de su pecado y les forzaban a revelarlo bajo amenaza de negar la absolución. Declaró esta práctica como «escandalosa y perniciosa, tan injuriosa a la fama del prójimo como al mismo sacramento, tendente a la violación del sacrosanto sigilo». Afirmó que el confesor no debe indagar el nombre del cómplice ni el lugar de su domicilio, so pena de violar el sigilo sacramental.
 
+**Pío VI** (1794, D‑1534–D‑1539) — Constitución *Auctorem Fidei*:
+
+**D‑1534**: Condenó como «temeraria, escandalosa, inductiva al desprecio de la dignidad del sacramento» la declaración del Sínodo de Pistoya que reconocía toda la dignidad de la penitencia «libre de las sutilezas que en el decurso del tiempo se le han añadido», como si por el orden en que sin seguir la penitencia canónica se acostumbró administrar este sacramento se hubiera disminuido su dignidad.
+
+**D‑1535**: Condenó como falsa, temeraria e injuriosa a la práctica común de la Iglesia la doctrina que insinuaba que las penitencias impuestas después de la absolución deben mirarse como suplemento por las faltas cometidas en la reconciliación, no como verdaderas penitencias sacramentales y satisfactorias.
+
+**D‑1536**: Condenó como falsa, temeraria, perturbadora de la tranquilidad de las almas y contraria a la práctica de la Iglesia la doctrina que exige de modo general y absoluto, para admitir a los penitentes a la absolución, no solo la atrición (contrición imperfecta), sino también el fervor de la caridad dominante probado en largo experimento por el fervor de las buenas obras.
+
+**D‑1537**: Condenó como falsa, temeraria, perniciosa, contraria e injuriosa al Tridentino la doctrina que enunciaba que «solamente después de la institución de las diócesis y parroquias es conveniente» que la potestad de absolver se ejerza sobre los súbditos, como si para el uso válido de esta potestad no fuera necesaria la jurisdicción ordinaria o delegada.
+
+**D‑1538**: Condenó como contraria a los cánones nicenos y a las decretales de Inocencio I y Celestino I, y como «hedionda a maldad», la doctrina que admiraba la disciplina antigua de no readmitir fácilmente a los reincidentes, proponiendo el temor de la exclusión perpetua de la comunión incluso en artículo de muerte.
+
+**D‑1539**: Condenó como «temeraria, perniciosa y contraria a la práctica de los santos» la declaración del Sínodo que deseaba no se frecuentase tanto la confesión de los pecados veniales, «para que tales confesiones no se vuelvan demasiado despreciables».
+
 ## Distinciones importantes
 
 - **Contrición perfecta vs. atrición**: según el motivo del dolor del pecado

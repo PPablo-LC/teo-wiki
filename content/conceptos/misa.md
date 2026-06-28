@@ -51,6 +51,12 @@ Las misas solemnes se celebran en 25 días señalados que incluyen las grandes s
 
 **Concilio de Trento** (Sesión XXII, D-937a-D-956) definió que la Misa es verdadero y propio sacrificio (D-948, Can. 1), no mera conmemoración; es propiciatorio por los vivos y por los difuntos (D-940, D-950, Can. 3); en ella se contiene e incruentamente se inmola el mismo Cristo que se ofreció cruentamente en la cruz — no es menoscabo sino aplicación de sus frutos (D-940, D-951, Can. 4); no se ofrece a los santos sino a Dios solo, aunque se celebre en su honor (D-941, D-952, Can. 5); el Canon de la Misa está libre de error (D-942, D-953, Can. 6); las ceremonias y ritos son piadosos y deben mantenerse (D-943, D-954-D-956, Cánones 7-9); las Misas en que solo el sacerdote comulga son legítimas (D-944, D-955, Can. 8).
 
+**Pío VI** (1794, D‑1528, D‑1530) — Constitución *Auctorem Fidei*:
+
+**D‑1528**: Condenó la proposición del Sínodo de Pistoya que, estableciendo que «la participación en la víctima es parte esencial al sacrificio», añadía que no condena como ilícitas las misas en que los asistentes no comulgan sacramentalmente, en cuanto insinúa que «falta algo a la esencia del sacrificio que se realiza sin asistente alguno, o con asistentes que ni sacramental ni espiritualmente participen de la víctima». Declarada falsa, errónea, sospechosa de herejía.
+
+**D‑1530**: Condenó la doctrina del Sínodo que afirmaba que «no está en el arbitrio del sacerdote aplicar a quien quiera los frutos del sacrificio; más bien condenamos este error como ofensivo a los derechos de Dios, que es quien solo distribuye los frutos del sacrificio», entendida de modo que la oblación especial o aplicación del sacrificio no aproveche más a aquellos por quienes se aplica que a otros cualesquiera. Declarada falsa, temeraria, perniciosa, injuriosa a la Iglesia e inductiva al error condenado en Wicleff (D‑599). La condena reafirma que la aplicación especial del fruto del sacrificio por parte del sacerdote produce un fruto especial para aquellos por quienes se aplica.
+
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás dedica la cuestión 83 al rito de la misa, el acto de celebrar el sacrificio eucarístico.

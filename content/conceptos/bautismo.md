@@ -210,6 +210,8 @@ El **Papa Benedicto XII** (1341), al responder a los errores de los armenios (D-
 - D‑1487: Un caso de Mantua (1699): el padre hebreo anunció querer bautizarse y luego se arrepintió; el Santo Oficio decretó que los hijos infantes (3 y 5 años) debían ser bautizados, y los mayores (8 y 12 años) colocados en la casa de catecúmenos para explorar su voluntad.
 - D‑1490: Quienes son ofrecidos al bautismo por alguien sin autoridad sobre ellos no deben ser bautizados, sino devueltos a quienes tienen potestad legítima.
 
+**Pío VI** (1794, D‑1527) — Constitución *Auctorem Fidei*. Condenó como «temeraria, contraria a la práctica, a la ley y a la autoridad de la Iglesia» la deliberación del Sínodo de Pistoya que, bajo pretexto de adherirse a los antiguos cánones, declaraba su propósito, en caso de bautismo dudoso, de omitir la mención de la forma condicional. La condena reafirma la necesidad de la forma condicional en el bautismo dudoso, conforme a la práctica constante de la Iglesia.
+
 ## Distinciones importantes
 
 - **Bautismo de agua vs. bautismo de deseo vs. bautismo de sangre**

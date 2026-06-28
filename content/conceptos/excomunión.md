@@ -109,6 +109,14 @@ El **Concilio de Constanza**, en las interrogaciones para los husitas (D-681-683
 - **D-763** — Error condenado: «Excomulgar es solo castigar con pena externa, y no priva al hombre de las comunes oraciones y obras de la Iglesia». Lutero redujo la excomunión a una pena meramente externa, negando su eficacia espiritual de privación de la comunión de los fieles.
 - **D-764** — Error condenado: «Más hay que temer y amar al Papa que al Dios altísimo». Lutero caricaturizó la doctrina católica de la autoridad papal. La condena reafirma que la potestad de excomulgar es un poder dado por Cristo a la Iglesia para el bien espiritual de las almas, no para ser temida en sí misma sino por la privación de los bienes espirituales que conlleva.
 
+**Pío VI** (1794, D‑1546–D‑1548) — Constitución *Auctorem Fidei*:
+
+**D‑1546**: Condenó como falsa, perniciosa y por lo menos errónea la proposición que afirma que «el efecto de la excomunión es sólo exterior, porque por su naturaleza sólo excluye de la comunicación exterior con la Iglesia», «como si la excomunión no fuera pena espiritual, que ata en el cielo y obliga a las almas».
+
+**D‑1547**: Condenó como falsa, temeraria, injuriosa a la potestad de la Iglesia y errónea la proposición que afirma que «es necesario según las leyes naturales y divinas que tanto a la excomunión como a la suspensión deba preceder el examen personal, y que por tanto las sentencias dichas ipso facto no tienen otra fuerza que la de una seria conminación sin efecto actual alguno».
+
+**D‑1548**: Condenó como «falsa, temeraria e injuriosa a la práctica de la Iglesia» la proposición que proclama «ser inútil y vana la fórmula introducida de unos siglos a esta parte de absolver generalmente de las excomuniones en que un fiel pudiera haber caído».
+
 ### Según Sacramentorum Sanctitatis Tutela (SST)
 
 Las *Normae de gravioribus delictis* (SST-2010) establecen en el **art. 5** la excomunión *latae sententiae* reservada a la Sede Apostólica para el delito de atentada ordenación sagrada de una mujer:

@@ -90,6 +90,16 @@ Pío V condenó los errores de Bayo sobre las indulgencias (D‑1059–D‑1060)
 - D‑1059: Cuando satisfacemos por las penas temporales, no ofrecemos a Dios un precio digno por nuestros pecados (pues en otro caso seríamos en parte redentores), sino que hacemos algo por cuyo miramiento se nos aplica la satisfacción de Cristo.
 - D‑1060: Por los sufrimientos de los Santos comunicados en las indulgencias, propiamente no se redimen nuestras culpas, sino que por la comunión de la caridad se nos distribuyen sus sufrimientos para que, por el precio de la sangre de Cristo, seamos librados de las penas debidas.
 
+**Pío VI** (1794, D‑1540–D‑1543) — Constitución *Auctorem Fidei*:
+
+**D‑1540**: Condenó como falsa, temeraria e injuriosa a los méritos de Cristo la proposición que afirma que «la indulgencia, según su noción precisa, no es otra cosa que la remisión de parte de aquella penitencia que estaba estatuida por los cánones para el que pecaba», «como si la indulgencia, aparte la mera remisión de la pena canónica, no valiera también para la remisión de la pena temporal debida por los pecados actuales ante la divina justicia».
+
+**D‑1541**: Condenó como falsa, temeraria e injuriosa a los méritos de Cristo y de los Santos la proposición que acusaba a los escolásticos de haber «introducido un mal entendido tesoro de los merecimientos de Cristo y de los Santos» y de haber «sustituido a la clara noción de la absolución de la pena canónica la confusa y falsa de la aplicación de los merecimientos».
+
+**D‑1542**: Condenó como falsa, temeraria, ofensiva de los oídos piadosos e injuriosa contra los Romanos Pontífices la proposición que tachaba de «aún más luctuoso que esta quimérica aplicación haya querido transferirse a los difuntos».
+
+**D‑1543**: Condenó como «temeraria, ofensiva de los oídos piadosos, escandalosa e injuriosa contra los Sumos Pontífices y contra la práctica frecuentada en toda la Iglesia» la postura que «ataca con máximo impudor las tablas de indulgencias, altares privilegiados, etc.».
+
 ## Distinciones importantes
 
 - **Indulgencia plenaria**: remite totalmente la pena temporal.

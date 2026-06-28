@@ -29,6 +29,8 @@ Ambos limbos probablemente ocupan el mismo lugar o están en lugares continuos, 
 
 **Benedicto XII** (1341), Memorial *Iam dudum*: condenó el error de los armenios que decían que «las almas de los niños que nacen de padres cristianos después de la pasión de Cristo, si mueren antes de ser bautizados van al paraíso terrenal en que estuvo Adán antes del pecado» (D-534), afirmando así que los niños no bautizados no acceden al paraíso celeste.
 
+**Pío VI** (1794, D‑1526) — Constitución *Auctorem Fidei*. Condenó como «falsa, temeraria e injuriosa contra las escuelas católicas» la doctrina del Sínodo de Pistoya que «reprueba como fábula pelagiana el lugar de los infiernos (al que corrientemente designan los fieles con el nombre de limbo de los párvulos), en que las almas de los que mueren con sola la culpa original son castigadas con pena de daño sin la pena de fuego». La condena reafirma la doctrina tradicional del limbo como lugar y estado de pena de daño sin pena sensible para los niños no bautizados, distinguiéndola de la doctrina pelagiana que situaba a estos niños en un estado intermedio sin culpa ni pena.
+
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás dedica la cuestión 69 del Suplemento a las moradas de las almas después de la muerte. Los artículos 5, 6 y 7 tratan específicamente del limbo.
