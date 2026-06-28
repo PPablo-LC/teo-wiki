@@ -3,7 +3,7 @@ type: Concepto Teológico
 title: Sagrada Escritura
 tags: ["dogmática", "teología_fundamental"]
 
-timestamp: 2026-05-26
+timestamp: 2026-06-28
 description: "La sagrada Escritura es la Palabra de Dios expresada en lenguas humanas, escrita por inspiración del Espíritu Santo."
 ---
 # Sagrada Escritura
@@ -49,6 +49,8 @@ El canon 760 establece que el ministerio de la palabra, que incluye la predicaci
 ### Según el Enchiridion Symbolorum (Denzinger)
 
 **Concilio de Florencia** (1442, D-706), Bula *Cantate Domino*: profesó que «uno solo y mismo Dios es autor del Antiguo y Nuevo Testamento, es decir, de la ley, de los profetas y del Evangelio, porque por inspiración del mismo Espíritu Santo han hablado los Santos de uno y otro Testamento». Incluyó la lista de los libros canónicos del Antiguo y Nuevo Testamento recibidos por la Iglesia Romana, afirmando la unidad de autor divino de ambos Testamentos.
+
+**Gregorio XVI** — Breve *Quod Hoc Innitio* (1844, D‑1630–D‑1633): Condenó a las sociedades bíblicas que distribuyen versiones vernáculas de la Sagrada Escritura sin aprobación eclesiástica ni notas aclaratorias. Afirmó que la recta inteligencia de la Escritura pertenece al Magisterio vivo de la Iglesia, no a la libre interpretación individual, y renovó la disciplina tridentina sobre lectura de Biblias en lengua vulgar.
 
 ### Según el Concilio Vaticano II (ConcVatII)
 

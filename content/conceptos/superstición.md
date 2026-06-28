@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Superstición
 tags: ["moral"]
 
-timestamp: 2026-05-26
+timestamp: 2026-06-28
 description: "La superstición es una desviación del culto debido a Dios, que atribuye a criaturas, objetos o prácticas un poder que solo pertenece a Dios, o que rinde culto de modo indebido."
 ---
 # Superstición
 
 > Área: Moral
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-28
 
 ## Definición
 
@@ -36,6 +36,12 @@ Santo Tomás trata la superstición como vicio opuesto a la religión por exceso
 La superstición tiene varias especies: la [[idolatría]] (q.94), la [[adivinación]] (q.95), las [[observancias_supersticiosas]] (q.96), y la [[superstición_en_el_culto]] al verdadero Dios (q.93).
 
 [SmTh IIa-IIae q.92-100]
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Pío IX** — Alocución *Acerbissimum* (1856, D‑1653–D‑1654): Condenó el abuso del magnetismo animal con fines de sonambulismo, clarividencia y evocación de almas o muertos, declarándolo «engaño ilícito y herético». El uso de medios físicos para fines médicos lícitos no está vedado, pero sí la pretensión de obtener efectos sobrenaturales o adivinatorios por medios puramente naturales.
+
+**Benedicto XV** — Respuesta del Santo Oficio (1917, D‑2182): Condenó el espiritismo en todas sus formas, declarando ilícito asistir a alocuciones espiritistas con o sin medium, por constituir una práctica supersticiosa incompatible con la fe católica y con el primer mandamiento.
 
 ## Relaciones doctrinales
 

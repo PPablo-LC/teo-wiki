@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Neo-gnosticismo
 tags: ["dogmática", "moral"]
 
-timestamp: 2026-06-10
+timestamp: 2026-06-28
 description: "Corriente de pensamiento que concibe la salvación como algo puramente interior, cerrando al sujeto en la inmanencia de su propia razón o sentimientos."
 ---
 # Neo-gnosticismo
 
 > Área: Dogmática / Moral
-> Última actualización: 2026-06-10
+> Última actualización: 2026-06-28
 
 ## Definición
 
@@ -30,6 +30,10 @@ El n. 20 presenta el neo-gnosticismo como uno de los «dos grandes enemigos de l
 ### Según Francisco (Gaudete et exsultate)
 
 La exhortación apostólica Gaudete et exsultate (2018) desarrolla el neo-gnosticismo en los nn. 36-39 y ss., describiéndolo como una «inteligencia sin encarnación» que «pretende encerrar en un mundo de subjetividad» la verdad revelada (GE 37, 46).
+
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Benedicto XV** — Respuesta del Santo Oficio (1919, D‑2189): Declaró que las doctrinas teosóficas no pueden conciliarse con la doctrina católica, y que por tanto no es lícito dar el nombre a las sociedades teosóficas, asistir a sus reuniones ni leer sus publicaciones. La teosofía, al proponer un sincretismo religioso fundado en una gnosis esotérica y en la reencarnación, se opone a la unicidad de la revelación cristiana, a la mediación única de Cristo y a la verdad objetiva de la fe.
 
 ## Distinciones importantes
 

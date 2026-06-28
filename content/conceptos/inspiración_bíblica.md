@@ -51,6 +51,8 @@ La inspiración no hace del cristianismo una "religión del Libro": el cristiani
 
 **Pío XII** — Encíclica *Divino afflante Spiritu* (1943, D‑2292–D‑2294): Confirmó la autenticidad de la Vulgata como versión oficial de la Iglesia latina, pero autorizó y alentó el uso de los textos originales para la exégesis. Enseñó que el exegeta debe determinar el sentido literal mediante el conocimiento de las lenguas, el contexto y la comparación, teniendo en cuenta las explicaciones del magisterio y de los Padres. Introdujo el estudio de los géneros literarios como herramienta para resolver dificultades sobre la verdad histórica de la Escritura.
 
+**Pío XI** — Decreto del Santo Oficio (1927, D‑2198): Confirmó que la autenticidad del *Comma Johanneum* (1 Jn 5,7: «Porque tres son los que dan testimonio en el cielo: el Padre, el Verbo y el Espíritu Santo, y estos tres son una sola cosa») «no puede negarse con seguridad» (*tuto negari non potest*), reprimiendo la audacia de doctores particulares que lo rechazaban. No obstante, permitió a los escritores católicos investigar más a fondo el asunto, con tal de declararse dispuestos a atenerse al juicio de la Iglesia, a la que Cristo encomendó custodiar e interpretar las Escrituras.
+
 ## Distinciones importantes
 
 - **Autor principal divino vs. autores humanos instrumentales**: Dios es el autor principal; los hagiógrafos son verdaderos autores humanos, no meros amanuenses pasivos. La acción divina no anula sino que eleva y utiliza sus facultades.
