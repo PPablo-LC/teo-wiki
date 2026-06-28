@@ -51,6 +51,12 @@ La Vida de Jesús (VJ) recoge la oración sacerdotal de Cristo en la Última Cen
 
 **D‑1343**: «Las almas contemplativas están privadas de la vista distinta, sensible y refleja de Jesucristo... en el fervor naciente de su contemplación... [y] en las pruebas extremas.» Condenada. La condena afirma que la consideración de la humanidad de Cristo no se pierde en la contemplación.
 
+**Clemente XI** (1713, D‑1409, D‑1418) — Constitución *Unigenitus* contra Quesnel:
+
+**D‑1409**: «La oración de los impíos es un nuevo pecado; y lo que Dios les concede, es nuevo juicio contra ellos.» Condenada. La condena afirma que la oración de quien está en pecado, aunque imperfecta, puede ser oída por Dios y no es necesariamente nuevo pecado.
+
+**D‑1418**: «La bondad de Dios abrevió el camino de la salvación, encerrándolo todo en la fe y en la oración.» Condenada. La condena afirma que la salvación no se encierra solo en la fe y la oración, sino que requiere también los sacramentos y las buenas obras.
+
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás dedica la cuestión 83 de la IIa-IIae a la oración. La oración es un acto de la razón práctica (no de la voluntad) que consiste en elevar la mente a Dios. En cuanto acto de la virtud de la religión, la oración es propiamente una petición dirigida a Dios (q.83 a.1). Es acto de la razón que expresa un deseo de la voluntad.
@@ -101,7 +107,7 @@ Se relaciona con la [[vida_de_oración]], los [[grados_de_oración]], la [[medit
 - [[tim_barry_mortification_maketh_man]]
 
 ## Ver también
-[[vida_de_oración]], [[grados_de_oración]], [[meditación]], [[contemplación]], [[oración_litúrgica]], [[amor_puro]]
+[[vida_de_oración]], [[grados_de_oración]], [[meditación]], [[contemplación]], [[oración_litúrgica]], [[amor_puro]], [[unigenitus]]
 
 ## Referencias
 
@@ -109,3 +115,4 @@ Se relaciona con la [[vida_de_oración]], los [[grados_de_oración]], la [[medit
 - SmTh IIIª q.21 aa.1-4
 - [VJ, Cap. V]
 - Denzinger D-1341–D-1343 (Inocencio XII, *Cum alias*)
+- Denzinger D‑1409, D‑1418 (Clemente XI, *Unigenitus*)

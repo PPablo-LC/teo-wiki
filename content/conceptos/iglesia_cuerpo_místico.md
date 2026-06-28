@@ -55,6 +55,16 @@ La gracia personal de Cristo es esencialmente la misma que su gracia capital: un
 
 Tomás compara la relación entre el Espíritu Santo y Cristo con la del corazón y la cabeza en el cuerpo humano: la cabeza tiene superioridad visible y gobierno exterior, mientras que el corazón tiene un influjo oculto y vital (a.1 ad 3). Así, Cristo es cabeza que comunica la gracia visiblemente en su humanidad, mientras que el Espíritu Santo es el corazón que la infunde invisiblemente desde dentro.
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Clemente XI** (1713, D‑1422–D‑1428) — Constitución *Unigenitus* contra Quesnel:
+
+**D‑1422–D‑1424**: «La nota de la Iglesia cristiana es ser católica, comprendiendo no sólo todos los ángeles del cielo, sino a los elegidos y justos todos de la tierra y de todos los siglos... ¿Qué es la Iglesia, sino la congregación de los hijos de Dios, que permanecen en su seno, que fueron adoptados en Cristo...? La Iglesia, o sea, Cristo íntegro, tiene por cabeza al Verbo encarnado y por miembros a todos los Santos.» Condenadas. La condena afirma que la Iglesia visible se compone también de pecadores y que no se identifica exclusivamente con el conjunto de los elegidos y justos de todos los siglos.
+
+**D‑1425–D‑1426**: «La Iglesia es un solo hombre compuesto de muchos miembros, de los que Jesucristo es la cabeza, la vida, la subsistencia y la persona... Nada más espacioso que la Iglesia de Dios, pues la componen todos los elegidos y justos de todos los siglos.» Condenadas. La noción de Iglesia como «Cristo íntegro» (total Christus) es ortodoxa en sí misma, pero Quesnel la usaba para excluir de la Iglesia visible a los pecadores.
+
+**D‑1427–D‑1428**: «El que no lleva una vida digna de un hijo de Dios y miembro de Cristo, cesa interiormente de tener a Dios por padre y a Cristo por cabeza... El hombre se separa del pueblo escogido... lo mismo no viviendo conforme al Evangelio, que no creyendo en el Evangelio.» Condenadas. La condena afirma que el pecado mortal no separa del todo al hombre de la Iglesia ni de Cristo como cabeza, pues el vínculo de la fe y el bautismo permanece.
+
 ## Distinciones importantes
 
 - **Cuerpo físico de Cristo**: su humanidad individual, nacida de María.
@@ -68,9 +78,10 @@ La Iglesia es la familia de Dios donde se realiza la [[configuración_con_cristo
 
 ## Ver también
 
-[[configuración_con_cristo]], [[perfección_cristiana]], [[gracia_santificante]], [[virgen_maría]]
+[[configuración_con_cristo]], [[perfección_cristiana]], [[gracia_santificante]], [[virgen_maría]], [[iglesia]], [[unigenitus]]
 
 ## Referencias
 
 - [TPCr, Parte I, Cap. 6]
 - [SmTh IIIª q.8, la gracia capital de Cristo]
+- Denzinger D‑1422–D‑1428 (Clemente XI, *Unigenitus*)

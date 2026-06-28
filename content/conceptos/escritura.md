@@ -64,6 +64,18 @@ Cristo no dejó ningún escrito, pero consagró el valor de la Escritura hasta l
 - "El desconocimiento de las Escrituras es desconocimiento de Cristo" (DV 25).
 
 
+### Según el Enchiridion Symbolorum (Denzinger)
+
+**Clemente XI** (1713, D‑1429–D‑1436) — Constitución *Unigenitus* contra Quesnel:
+
+**D‑1429**: «Util y necesario es en todo tiempo, en todo lugar y a todo género de personas estudiar y conocer el espíritu, la piedad y los misterios de la Sagrada Escritura.» Condenada. La condena afirma que no es necesario para todos, en todo tiempo y lugar, el estudio de la Sagrada Escritura; la lectura bíblica debe regularse según la condición y capacidad de cada persona.
+
+**D‑1430–D‑1432**: «La lectura de la Sagrada Escritura es para todos. La oscuridad santa de la palabra de Dios no es para los laicos razón de dispensarse de su lectura. El día del Señor debe ser santificado por los cristianos con piadosas lecturas y, sobre todo, de las Sagradas Escrituras.» Condenadas. La condena afirma que no es obligatorio para todos los fieles la lectura directa de la Escritura; la Iglesia tiene autoridad para regular la lectura bíblica según las circunstancias.
+
+**D‑1433–D‑1435**: «Es ilusión querer persuadirse que el conocimiento de los misterios de la religión no debe comunicarse a las mujeres por la lectura de los Libros Sagrados... Arrebatar de las manos de los cristianos el Nuevo Testamento o tenérselo cerrado, quitándoles el modo de entenderlo, es cerrarles la boca de Cristo. Prohibir a los cristianos la lectura de la Sagrada Escritura, particularmente del Evangelio, es prohibir el uso de la luz a los hijos de la luz y hacer que sufran una especie de excomunión.» Condenadas. La condena afirma que la Iglesia tiene potestad para prohibir la lectura de versiones de la Escritura que sean peligrosas para la fe, y que tal prohibición no es anticristiana.
+
+**D‑1436**: «Arrebatar al pueblo sencillo este consuelo de unir su voz a la voz de toda la Iglesia, es uso contrario a la práctica apostólica y a la intención de Dios.» Condenada. La condena afirma que la Iglesia puede regular la participación del pueblo en la liturgia y el uso de la lengua vernácula según su prudencia.
+
 ## Distinciones importantes
 
 - **Escritura vs. Tradición**: ambas proceden de la misma fuente divina; la Escritura es la palabra de Dios escrita por inspiración; la Tradición la transmite íntegramente por sucesión apostólica.
@@ -78,7 +90,7 @@ La Sagrada Escritura procede de la [[revelación]] divina y se transmite en la [
 
 ## Ver también
 
-[[revelación]], [[palabra_de_dios]], [[evangelio]], [[inspiración_bíblica]], [[verdad_revelada]], [[tradición_apostólica]], [[depósito_de_la_fe]], [[magisterio_de_la_iglesia]], [[analogía_de_la_fe]]
+[[revelación]], [[palabra_de_dios]], [[evangelio]], [[inspiración_bíblica]], [[verdad_revelada]], [[tradición_apostólica]], [[depósito_de_la_fe]], [[magisterio_de_la_iglesia]], [[analogía_de_la_fe]], [[unigenitus]]
 
 ## Referencias
 
@@ -86,3 +98,4 @@ La Sagrada Escritura procede de la [[revelación]] divina y se transmite en la [
 - [Dei Verbum, cap. III, §11-13; cap. VI, §21-25]
 - [CEC §81-82]
 - [VocTeoBib, «Escritura»]
+- Denzinger D‑1429–D‑1436 (Clemente XI, *Unigenitus*)

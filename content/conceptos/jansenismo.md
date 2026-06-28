@@ -65,7 +65,9 @@ La condena del jansenismo se articula en varios documentos pontificios. El núcl
 
 - **Imágenes sagradas** (D‑1315), **alabanza a María** (D‑1316), **forma del bautismo** (D‑1317), **intención del ministro** (D‑1318), **infalibilidad pontificia** (D‑1319), **autoridad de San Agustín sobre las bulas** (D‑1320), **Bula *In eminenti*** (D‑1321). Todas estas proposiciones fueron condenadas por su respectivo error contra la doctrina católica.
 
-Clemente XI, con la Constitución *Vineam Domini Sabaoth* (1705, D‑1350), condenó el «silencio obsequioso» de quienes se negaban a firmar el formulario. Posteriormente, la Constitución *Unigenitus* (1713, D‑1351–D‑1445) condenó 101 proposiciones de Quesnel, heredero del jansenismo.
+**Clemente XI** (1705, D‑1350) — Constitución *Vineam Domini Sabaoth*: condenó el «silencio obsequioso» de quienes se negaban a firmar el formulario, declarando que no basta callar externamente sino que se debe rechazar el sentido condenado de las proposiciones también interiormente, «no solamente con la boca, sino también con el corazón» (D‑1350). Ver [[silencio_obsequioso]].
+
+**Clemente XI** (1713, D‑1351–D‑1451) — Constitución dogmática *Unigenitus*: condenó 101 proposiciones de [[pascasio_quesnel]], heredero del jansenismo. Las proposiciones abarcaban la gracia irresistible (D‑1351–D‑1375), la fe como primera gracia (D‑1376–D‑1377), la negación de toda moralidad fuera de la caridad (D‑1394–D‑1399), la identificación de la Iglesia con los elegidos (D‑1422–D‑1428), la afirmación de que la lectura de la Escritura es para todos sin distinción (D‑1429–D‑1436), la condena del temor servil como incompatible con la penitencia (D‑1410–D‑1417), y la negación de la legitimidad de los juramentos en la Iglesia (D‑1451). La condena califica las proposiciones como «falsas, capciosas, malsonantes, escandalosas, perniciosas, temerarias, injuriosas a la Iglesia, sediciosas, impías, blasfemas, sospechosas de herejía, erróneas, próximas a la herejía, y por fin heréticas, que manifiestamente renuevan varias herejías, y particularmente las que se contienen en las famosas proposiciones de Jansenio» (D‑1451). Ver [[unigenitus]].
 
 ## Distinciones importantes
 
@@ -79,7 +81,7 @@ Clemente XI, con la Constitución *Vineam Domini Sabaoth* (1705, D‑1350), cond
 
 ## Ver también
 
-[[cornelio_jansenio]], [[inocencio_x]], [[alejandro_vii]], [[alejandro_viii]], [[clemente_xi]], [[unigenitus]], [[port-royal]]
+[[cornelio_jansenio]], [[inocencio_x]], [[alejandro_vii]], [[alejandro_viii]], [[clemente_xi]], [[pascasio_quesnel]], [[unigenitus]], [[silencio_obsequioso]], [[port-royal]]
 
 ## Referencias
 

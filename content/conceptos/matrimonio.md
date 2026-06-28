@@ -203,6 +203,8 @@ Asimismo, condenó el error de que «si uno toma una tercera o cuarta mujer o m�
 
 **Concilio de Trento** (Sesión XXIV, D-969-D-982, D-990-D-992) definió que el matrimonio es verdadero y propio sacramento de la Nueva Ley (D-971, Can. 1); es indisoluble — no se disuelve por adulterio (D-975-D-977, Cánones 5 y 7); el matrimonio rato no consumado se dirime por profesión religiosa (D-976, Can. 6); los clérigos en órdenes sagradas y religiosos con voto solemne de castidad no pueden contraer matrimonio válido (D-979, Can. 9); la virginidad y el celibato son estados más perfectos que el matrimonio (D-980, Can. 10); las causas matrimoniales competen a los jueces eclesiásticos (D-982, Can. 12). El decreto *Tametsi* (D-990-D-992) estableció la forma canónica del matrimonio (ante el párroco y dos testigos) bajo pena de nulidad.
 
+**Benedicto XIV** (1741, D‑1452–D‑1457) — Declaración Benedictina sobre los matrimonios clandestinos en Bélgica y Holanda. Declaró válidos los matrimonios contraídos en las Provincias Unidas entre herejes entre sí sin la forma del Tridentino (D‑1454), así como los contraídos entre católicos y herejes sin dicha forma (D‑1455), con tal de que no mediara otro impedimento canónico. Aunque exhortó a los prelados a disuadir a los católicos de contraer matrimonio con herejes, estableció que, una vez contraído, el vínculo es válido y ninguno de los cónyuges puede contraer nuevo matrimonio mientras el otro viva. Esta declaración vino a resolver la disputa sobre la obligatoriedad del decreto *Tametsi* en regiones donde no había sido formalmente promulgado.
+
 ## Distinciones importantes
 
 - **Matrimonio como contrato natural vs. como sacramento**: entre bautizados, el contrato válido es ipso facto sacramento

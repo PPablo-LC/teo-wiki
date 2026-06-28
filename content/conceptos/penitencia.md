@@ -210,6 +210,14 @@ Juan Pablo II vincula el sacramento de la Penitencia con el poder de las llaves 
 
 **Alejandro VII** (1667, D‑1146) — Controversia sobre la atrición: prohibió censurar con nota teológica ninguna de las dos sentencias sobre si la atrición concebida por miedo del infierno (con exclusión de la voluntad de pecar y esperanza del perdón) requiere además algún acto de amor de Dios para alcanzar la gracia en el sacramento, mientras la Sede Apostólica no definiese. Dejó ambas opiniones en libertad.
 
+**Clemente XI** (1713, D‑1437–D‑1439) — Constitución *Unigenitus* contra Quesnel:
+
+**D‑1437**: «Es manera llena de sabiduría, de luz y caridad dar a las almas tiempo de llevar con humildad y sentir el estado de pecado, de pedir el espíritu de penitencia y contrición y empezar por lo menos a satisfacer a la justicia de Dios antes de ser reconciliados.» Condenada. La condena afirma que no es necesario diferir la reconciliación para que el pecador «sienta» el pecado antes de ser absuelto; la absolución puede administrarse inmediatamente cuando hay disposición suficiente.
+
+**D‑1438**: «Ignoramos qué cosa es el pecado y la verdadera penitencia, cuando queremos ser inmediatamente restituidos a la posesión de los bienes de que nos despojó el pecado y rehusamos llevar la confusión de esta separación.» Condenada. La condena afirma que el deseo de ser restituido a la gracia inmediatamente no es ignorancia de la penitencia.
+
+**D‑1439**: «El décimocuarto grado de la conversión del pecador es que, estando ya reconciliado, tiene derecho a asistir al sacrificio de la Iglesia.» Condenada. La condena afirma que el reconciliado no solo tiene derecho a asistir al sacrificio, sino que debe hacerlo; Quesnel reducía la reconciliación a un grado de un proceso gradual, en vez de un acto completo de perdón sacramental.
+
 **Alejandro VIII** (1690, D‑1306–D‑1308) — Decreto del Santo Oficio contra errores jansenistas sobre el orden de la penitencia:
 
 **D‑1306**: «El orden de anteponer la satisfacción a la absolución, no lo introdujo la disciplina o una institución de la Iglesia, sino la misma ley y prescripción de Cristo, por dictado en cierto modo de la naturaleza misma de la cosa.» Condenada. El orden de absolver antes de la satisfacción es legítima disciplina eclesiástica, no precepto divino inmutable.
@@ -219,6 +227,8 @@ Juan Pablo II vincula el sacramento de la Penitencia con el poder de las llaves 
 **D‑1308**: «La costumbre moderna en cuanto a la administración del sacramento de la penitencia, aunque se sustenta en la autoridad de muchísimos hombres y la confirma la duración de mucho tiempo, no la posee la Iglesia por uso, sino por abuso.» Condenada. La práctica moderna de administrar la penitencia es uso legítimo de la Iglesia, no abuso.
 
 **Inocencio XI** (1679, D‑1205–D‑1215) condenó proposiciones laxistas sobre la penitencia: que se cumple el precepto de comunión anual por la manducación sacrílega (D‑1205); que la confesión y comunión frecuente aun en quienes viven de modo pagano es señal de predestinación (D‑1206); que basta la atrición natural honesta (D‑1207); que no hay obligación de confesar la costumbre de pecado (D‑1208); que es lícito absolver a los que se han confesado solo a medias por gran concurrencia (D‑1209); que no debe negarse la absolución al penitente sin esperanza de enmienda (D‑1210); que puede absolverse a quien está en ocasión próxima de pecado y voluntariamente la busca (D‑1211–D‑1213); que puede absolverse a quien ignora los misterios de la Trinidad y Encarnación aunque sea por negligencia culpable (D‑1214–D‑1215). Condenadas como escandalosas y perniciosas.
+
+**Benedicto XIV** (1745, D‑1474) — Breve *Suprema omnium Ecclesiarum sollicitudo*. Condenó la práctica de algunos confesores que preguntaban a los penitentes el nombre del cómplice de su pecado y les forzaban a revelarlo bajo amenaza de negar la absolución. Declaró esta práctica como «escandalosa y perniciosa, tan injuriosa a la fama del prójimo como al mismo sacramento, tendente a la violación del sacrosanto sigilo». Afirmó que el confesor no debe indagar el nombre del cómplice ni el lugar de su domicilio, so pena de violar el sigilo sacramental.
 
 ## Distinciones importantes
 

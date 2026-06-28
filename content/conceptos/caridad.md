@@ -158,6 +158,14 @@ Pío V condenó los errores de Bayo sobre la caridad (D‑1031–D‑1034, D‑1
 - D‑1036, D‑1038: El amor natural procedente de las solas fuerzas de la naturaleza es defendido con injuria de la cruz de Cristo; todo amor o es concupiscencia viciosa o es caridad infusa.
 - D‑1070: El hombre en pecado mortal puede tener verdadera caridad, compatible con el reato de la condenación eterna.
 
+**Clemente XI** (1713, D‑1394–D‑1408) — Constitución *Unigenitus* contra Quesnel:
+
+**D‑1394–D‑1399**: «Sólo hay dos amores, de donde nacen todas nuestras voliciones y acciones: el amor de Dios que todo lo hace por Dios y al que Dios remunera, y el amor con que nos amamos a nosotros mismos y al mundo... No reinando ya el amor de Dios en el corazón de los pecadores, es necesario que reine en él la concupiscencia carnal... La concupiscencia o la caridad hacen bueno o malo el uso de los sentidos... ¿Qué otra cosa podemos ser sin la luz de la fe, sin Cristo y sin la caridad, sino tinieblas, sino aberración, sino pecado? Como no hay ningún pecado sin amor de nosotros mismos, así no hay obra buena sin amor de Dios.» Condenadas. La condena afirma que existen actos moralmente buenos fuera de la caridad (actos honestos de orden natural), y que el pecador no está necesariamente dominado por la concupiscencia en todos sus actos.
+
+**D‑1400–D‑1404**: «En vano gritamos a Dios: Padre mío, si no es el espíritu de caridad el que grita. La fe justifica cuando obra; pero ella misma no obra, sino por medio de la caridad... Todos los otros medios de salvación se contienen en la fe como en su germen y semilla; pero esta fe no está sin el amor y la confianza. Sola la caridad al modo cristiano hace cristianas las acciones por relación a Dios y a Jesucristo. Sola la caridad habla a Dios; sólo a la caridad oye Dios.» Condenadas. La condena afirma que la fe justifica incluso sin la caridad actualmente ejercida (aunque la caridad informe la fe como hábito), y que la oración del pecador puede ser oída por Dios.
+
+**D‑1405–D‑1408**: «Dios no corona sino a la caridad; el que corre por otro impulso y por otro motivo, corre en vano. Dios no recompensa sino a la caridad; porque sola la caridad honra a Dios... Todo le falta al pecador, cuando le falta la esperanza; y no hay esperanza en Dios, donde no hay amor de Dios. No hay Dios ni religión, donde no hay caridad.» Condenadas. La condena afirma que Dios recompensa también las buenas obras hechas sin caridad perfecta pero en estado de gracia (o incluso en disposición de recibirla), y que la esperanza puede coexistir sin caridad actual.
+
 **Alejandro VIII** (1690, D‑1297, D‑1303, D‑1305) — Decreto del Santo Oficio contra errores jansenistas:
 
 **D‑1297**: «Toda acción humana deliberada es amor de Dios o del mundo: Si de Dios, es caridad del Padre; si del mundo, es concupiscencia de la carne, es decir, mala.» Condenada. La condena afirma que existen acciones humanas deliberadas que no proceden ni de la caridad ni de la concupiscencia viciosa, sino de afectos moralmente buenos de orden natural.
@@ -167,6 +175,8 @@ Pío V condenó los errores de Bayo sobre la caridad (D‑1031–D‑1034, D‑1
 **D‑1305**: «La atrición que se concibe por miedo al infierno y a los castigos, sin el amor de benevolencia a Dios por sí mismo, no es movimiento bueno ni sobrenatural.» Condenada. (Véase [[atrición]].)
 
 ## Analizado para
+
+[[pascasio_quesnel]], [[unigenitus]]
 
 - [[christian_bobak_men_of_integrity]]
 - [[kevin_mulaney_prudence_decisions]]

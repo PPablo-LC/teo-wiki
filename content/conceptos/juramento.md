@@ -46,6 +46,8 @@ Jurar por las criaturas (cielo, tierra, templo) es lícito en cuanto que en ella
 
 ### Según el Enchiridion Symbolorum (Denzinger)
 
+**Clemente XI** (1713, D‑1451) — Constitución *Unigenitus* contra Quesnel: «Nada se opone más al espíritu de Dios y a la doctrina de Jesucristo que hacer juramentos comunes en la Iglesia; porque esto es multiplicar las ocasiones de perjurar, tender lazos a los débiles e ignorantes, y hacer que el nombre y la verdad de Dios sirvan a los planes de los impíos.» Condenada como falsa, temeraria, escandalosa, injuriosa a la Iglesia, sediciosa, impía, blasfema, herética. La condena afirma que hacer juramentos en la Iglesia (como las profesiones de fe, los juramentos de fidelidad y las promesas solemnes) es lícito y santo.
+
 El Papa **Juan XXII** condenó el error de los fraticelli (D-487) que, siguiendo a los valdenses, afirmaban que «no ha de jurarse en ningún caso», dogmatizando que se manchan con contagio de pecado mortal quienes se obligan por juramento.
 
 El Papa **Gregorio XI** condenó el error 43 de Juan Wicleff (D-623): «Son ilícitos los juramentos que se hacen para corroborar los contratos humanos y los comercios civiles».
@@ -57,9 +59,10 @@ El **Concilio de Constanza** (Sesión XV, 1415), al formular las preguntas para 
 
 ## Ver también
 
-[[voto]], [[virtud_de_la_religión]], [[verdad]], [[promesa]]
+[[voto]], [[virtud_de_la_religión]], [[verdad]], [[promesa]], [[unigenitus]]
 
 ## Referencias
 
 - CIC cc. 1199-1204
 - CEC §2150-2155
+- Denzinger D‑1451 (Clemente XI, *Unigenitus*)

@@ -127,6 +127,8 @@ El **rito de la Iglesia** es el adecuado (a.12). Las disposiciones de la Iglesia
 
 **Clemente VIII** (1595, D‑1086), instrucción sobre los ritos de los italo-griegos: el crisma (santo crisma) solo puede ser bendecido por el obispo. Los presbíteros griegos no estaban obligados a recibir los demás santos óleos de los obispos latinos diocesanos, pues los bendicen según su rito antiguo, pero sí deben recibir el crisma del obispo latino, porque incluso según su rito el crisma solo puede ser bendecido por el obispo. Esta disposición confirma la reserva episcopal de la consagración del crisma como materia remota de la confirmación.
 
+**Benedicto XIV** (1742, D‑1458) — Constitución *Etsi pastoralis* para los italo-griegos. Estableció que los obispos latinos confirmen absolutamente, signando con crisma en la frente, a los niños u otros bautizados en sus diócesis por los presbíteros griegos, pues ni por sus predecesores ni por él había sido concedida a los presbíteros griegos de Italia e islas adyacentes la facultad de conferir la confirmación. Esta disposición confirma la reserva episcopal como ministro ordinario de la confirmación.
+
 ## Distinciones importantes
 
 - **Bautismo vs. confirmación**: bautismo da nacimiento, confirmación da mayoría de edad espiritual

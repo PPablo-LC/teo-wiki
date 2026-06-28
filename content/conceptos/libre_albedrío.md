@@ -87,9 +87,15 @@ Pío V condenó los errores de Bayo sobre el libre albedrío (D‑1027–D‑103
 
 **Alejandro VIII** (1690, D‑1291) — Decreto del Santo Oficio contra errores jansenistas: «En el estado de la naturaleza caída basta para el pecado mortal y el demérito aquella libertad por la que fue voluntario y libre en su causa: el pecado original y la voluntad de Adán al pecar.» Condenada. La condena afirma que el pecado actual requiere un acto personal libre, no la mera imputación del pecado original. La libertad en su causa (el pecado de Adán) no es suficiente para el pecado formal; se requiere un acto libre de la propia voluntad.
 
+**Clemente XI** (1713, D‑1388–D‑1389) — Constitución *Unigenitus* contra Quesnel:
+
+**D‑1388**: «El pecador, sin la gracia del Libertador, sólo es libre para el mal.» Condenada. La condena afirma que el pecador, aunque debilitado, conserva la libertad para actos moralmente buenos en el orden natural, no solo para el mal.
+
+**D‑1389**: «La voluntad no prevenida por la gracia, no tiene ninguna luz, sino para extraviarse; ningún ardor, sino para precipitarse; ninguna fuerza, sino para herirse; es capaz de todo mal e incapaz para todo bien.» Condenada. La condena afirma que la voluntad no prevenida por la gracia puede realizar actos moralmente buenos en el orden natural, aunque no sean meritorios de vida eterna.
+
 ## Relaciones doctrinales
 
-[[libertad_humana]], [[actos_humanos]], [[conciencia_moral]], [[gracia]], [[pecado_original]]
+[[libertad_humana]], [[actos_humanos]], [[conciencia_moral]], [[gracia]], [[pecado_original]], [[unigenitus]], [[pascasio_quesnel]]
 
 ## Referencias
 

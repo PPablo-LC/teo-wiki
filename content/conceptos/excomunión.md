@@ -92,6 +92,18 @@ El **Concilio de Constanza**, en las interrogaciones para los husitas (D-681-683
 - **D-682**: Los prelados tienen potestad de agravar y reagravar las penas, poner entredicho e invocar el brazo secular.
 - **D-683**: El Papa y los prelados tienen poder de excomulgar y suspender a los sacerdotes y laicos desobedientes y contumaces.
 
+**Clemente XI** (1713, D‑1440–D‑1444) — Constitución *Unigenitus* contra Quesnel:
+
+**D‑1440**: «La Iglesia tiene autoridad para excomulgar, con tal que la ejerza por los primeros pastores con consentimiento, por lo menos presunto, de todo el cuerpo.» Condenada. La condena afirma que la Iglesia ejerce la potestad de excomulgar por sí misma, no por delegación del consentimiento del cuerpo eclesial.
+
+**D‑1441**: «El miedo de una excomunión injusta no debe impedirnos nunca el cumplimiento de nuestro deber; aun cuando por la malicia de los hombres parece que somos expulsados de la Iglesia, nunca salimos de ella, mientras permanecemos unidos por la caridad a Dios, a Jesucristo y a la misma Iglesia.» Condenada. La condena afirma que la excomunión injusta debe ser temida y evitada, y que la desobediencia a la autoridad legítima bajo pretexto de excomunión injusta es cismática.
+
+**D‑1442**: «Sufrir en paz la excomunión y el anatema injusto antes que traicionar la verdad es imitar a San Pablo; tan lejos está de que sea levantarse contra la autoridad o escindir la unidad.» Condenada. La condena afirma que quien sufre excomunión y persevera en actos contrarios a la autoridad no imita a San Pablo sino que rompe la unidad.
+
+**D‑1443**: «Jesús algunas veces sana las heridas que inflige la prisa precipitada de los primeros pastores sin mandamiento suyo. Jesús restituye lo que ellos con inconsiderado celo arrebatan.» Condenada. La condena afirma que no se puede presumir que Dios supla los efectos de una excomunión legítima.
+
+**D‑1444**: «Nada produce tan mala opinión sobre la Iglesia a los enemigos de ella, como ver que allí se ejerce una tiranía sobre la fe de los fieles y se fomentan divisiones por cosas que no lastiman la fe ni las costumbres.» Condenada. La condena afirma que la Iglesia no ejerce tiranía al definir y defender la fe.
+
 **León X** (1520), Bula *Exsurge Domine* — Condena de los errores de Lutero sobre la excomunión:
 
 - **D-763** — Error condenado: «Excomulgar es solo castigar con pena externa, y no priva al hombre de las comunes oraciones y obras de la Iglesia». Lutero redujo la excomunión a una pena meramente externa, negando su eficacia espiritual de privación de la comunión de los fieles.

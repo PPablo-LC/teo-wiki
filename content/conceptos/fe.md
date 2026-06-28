@@ -104,6 +104,14 @@ Pío V condenó los errores de Bayo relacionados con la fe (D‑1022, D‑1025, 
 - D‑1025: «Todas las obras de los infieles son pecados, y las virtudes de los filósofos son vicios».
 - D‑1068: La infidelidad puramente negativa en aquellos entre quienes Cristo no ha sido predicado es pecado.
 
+**Clemente XI** (1713, D‑1376–D‑1377, D‑1392, D‑1418–D‑1419) — Constitución *Unigenitus* contra Quesnel:
+
+**D‑1376–D‑1377**: «Ninguna gracia se da sino por medio de la fe. La fe es la primera gracia y fuente de todas las otras.» Condenadas. En el contexto de Quesnel, esta proposición implicaba que la fe es condición absoluta de toda gracia, negando que Dios conceda gracias actuales a quienes no tienen fe explícita.
+
+**D‑1392**: «Sólo la gracia de Cristo hace al hombre apto para el sacrificio de la fe; sin esto, sólo hay impureza, sólo hay miseria.» Condenada. En el sentido de Quesnel, negaba toda preparación natural o moral para recibir la fe.
+
+**D‑1418–D‑1419**: «La bondad de Dios abrevió el camino de la salvación, encerrándolo todo en la fe y en la oración. La fe, el uso, el acrecentamiento y el premio de la fe, todo es don de la pura liberalidad de Dios.» Condenadas. En el contexto de Quesnel, implicaban que basta la fe y la oración para la salvación, con exclusión de las buenas obras.
+
 **Alejandro VIII** (1690, D‑1301–D‑1302) — Decreto del Santo Oficio contra errores jansenistas:
 
 **D‑1301**: «Todo lo que no procede de la fe cristiana sobrenatural que obra por la caridad, es pecado.» Condenada. La condena afirma que existen actos moralmente buenos fuera de la fe sobrenatural, aunque no sean meritorios de vida eterna. La fe cristiana sobrenatural no es condición necesaria para la bondad moral del acto.
@@ -111,6 +119,8 @@ Pío V condenó los errores de Bayo relacionados con la fe (D‑1022, D‑1025, 
 **D‑1302**: «Cuando en los grandes pecadores falta todo amor, falta también la fe; y aun cuando parezca que creen, no es fe divina, sino humana.» Condenada. La condena afirma que la fe divina puede coexistir con el estado de pecado mortal: el pecador puede conservar la fe sobrenatural aunque haya perdido la caridad.
 
 ## Analizado para
+
+[[pascasio_quesnel]], [[unigenitus]]
 
 - [[adam_farber_fortitude_through_excellence_in_patience]]
 - [[primeros_pasos_en_la_vida_espiritual]]

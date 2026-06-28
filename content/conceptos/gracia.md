@@ -85,6 +85,16 @@ Pío V, en la bula *Ex omnibus afflictionibus* (1567), condenó los errores de M
 
 **Alejandro VIII** (1690, D‑1295–D‑1296) — Decreto del Santo Oficio contra errores jansenistas, condenó las proposiciones que negaban a paganos, judíos y herejes todo influjo de Cristo (D‑1295) y que declaraban la gracia suficiente perniciosa (D‑1296). La condena reafirma que Cristo concede alguna influencia salutífera a todos los hombres y que la gracia suficiente es verdaderamente útil y benéfica, no perniciosa. Por el contexto jansenista, estas condenas se relacionan con la afirmación de que existe una gracia verdaderamente suficiente que puede ser resistida. Véase [[gracia_suficiente]].
 
+**Clemente XI** (1713, D‑1351–D‑1375) — Constitución *Unigenitus* contra [[pascasio_quesnel]]: condenó proposiciones sobre la naturaleza irresistible de la gracia.
+
+**D‑1351–D‑1352**: «¿Qué otra cosa le queda al alma que ha perdido a Dios y a su gracia, sino el pecado...? La gracia de Jesucristo, principio eficaz del bien de toda especie, es necesaria para toda obra buena; sin ella, no sólo no se hace nada, mas ni siquiera puede hacerse.» Condenadas. Aunque son verdaderas en sí mismas, en el contexto y sentido de Quesnel implican que la gracia no solo es necesaria sino invencible.
+
+**D‑1353–D‑1355**: Las proposiciones sobre la necesidad absoluta de la gracia interior («En vano, Señor, mandas, si Tú mismo no das lo que mandas») fueron condenadas por Quesnel en el sentido de que la gracia exterior sola nunca basta y la interior es irresistible.
+
+**D‑1360–D‑1363**: «La gracia es operación de la mano de Dios omnipotente, a la que nada puede impedir o retardar... Cuando Dios quiere salvar al alma, en cualquier tiempo, en cualquier lugar, el efecto indubitable sigue a la voluntad de Dios... Cuando Dios quiere salvar al alma y la toca con la interior mano de su gracia, ninguna voluntad humana le resiste.» Condenadas. La gracia divina puede ser resistida por la voluntad humana; no es invencible en el sentido jansenista.
+
+**D‑1384–D‑1387** — Gracia de Adán vs. gracia cristiana: «La gracia de Adán no producía sino merecimientos humanos... La gracia de Adán es secuela de la creación y era debida a la naturaleza sana e íntegra... La diferencia esencial entre la gracia de Adán y del estado de inocencia y la gracia cristiana está en que la primera la hubiera cada uno recibido en su propia persona; ésta, empero, no se recibe sino en la persona de Jesucristo resucitado.» Condenadas. La gracia de Adán era ya sobrenatural y gratuita, no debida a la naturaleza.
+
 ## Distinciones importantes
 
 - Gracia santificante (habitual) vs. gracias actuales
@@ -95,7 +105,7 @@ Pío V, en la bula *Ex omnibus afflictionibus* (1567), condenó los errores de M
 
 ## Relaciones doctrinales
 
-[[gracia_santificante]], [[gracias_actuales]], [[justificación]], [[virtudes_infusas]], [[dones_del_espíritu_santo]], [[mérito]]
+[[gracia_santificante]], [[gracias_actuales]], [[justificación]], [[virtudes_infusas]], [[dones_del_espíritu_santo]], [[mérito]], [[unigenitus]], [[pascasio_quesnel]]
 
 
 ## Analizado en contexto cultural
@@ -110,3 +120,4 @@ Pío V, en la bula *Ex omnibus afflictionibus* (1567), condenó los errores de M
 ## Referencias
 - CEC §1996-2026
 - TPCr, Parte II, Cap. 1
+- Denzinger D‑1351–D‑1375, D‑1384–D‑1387 (Clemente XI, *Unigenitus*)
