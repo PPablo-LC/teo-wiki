@@ -97,6 +97,10 @@ Desde la cruz, la misericordia provoca la conversión más ejemplar: la del buen
 
 [VJ, Cap. III, Cap. VI]
 
+### Según el Compendio (CompDS)
+
+La conversión interior de la persona es el presupuesto esencial de una renovación real de sus relaciones con los demás: «Es preciso entonces apelar a las capacidades espirituales y morales de la persona y a la exigencia permanente de su conversión interior para obtener cambios sociales que estén realmente a su servicio» (§42, citando CEC §1888). La prioridad de la conversión del corazón no elimina la obligación de introducir en las instituciones y condiciones de vida las mejoras convenientes para que se conformen a las normas de la justicia (§42). Dios ofrece la gracia para ayudar al hombre a superar sus fracasos, arrancarlo de la mentira y la violencia, y sostenerlo para tejer una red de relaciones auténticas con sus semejantes (§43).
+
 ## Analizado en contexto cultural
 
 - [[pinocho]] — convergencia en el itinerario de conversión (caída-arrepentimiento-restauración); tensión por la ausencia de dimensión sobrenatural y sacramental

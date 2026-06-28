@@ -33,6 +33,10 @@ El concepto es central en la Teología del Cuerpo de Juan Pablo II, quien lo tom
 - La concupiscencia transforma la comunión en "relación de posesión del otro a modo de objeto del propio deseo" (TdC 25.06.1980)
 - "La concupiscencia, de por sí, no es capaz de promover la unión como comunión de personas. Ella sola no une, sino que se adueña. La relación del don se transforma en la relación de apropiación" (TdC 23.07.1980)
 
+### Según el Compendio (CompDS)
+
+La familia se presenta como espacio de comunión que debe desarrollarse como auténtica comunidad de personas gracias al dinamismo del amor, dimensión fundamental de la experiencia humana: «El amor hace que el hombre se realice mediante la entrega sincera de sí mismo» (§221, citando *Gratissimam sane* 11). Del amor nacen relaciones vividas como entrega gratuita, que se hacen acogida cordial, encuentro, diálogo, servicio generoso y solidaridad profunda (§221). La comunidad familiar nace de la comunión de las personas: «La “comunión” se refiere a la relación personal entre el “yo” y el “tú”... La familia, comunidad de personas, es por consiguiente la primera “sociedad” humana» (§213, citando *Gratissimam sane* 7).
+
 ## Distinciones importantes
 
 - Comunión vs. comunidad: la comunión expresa la relación interpersonal "para" el otro, mientras que comunidad es un término más genérico

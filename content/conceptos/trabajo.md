@@ -45,6 +45,10 @@ LE constituye el desarrollo más completo del magisterio sobre el trabajo humano
 
 LE establece el principio de la prioridad del trabajo sobre el capital (LE §12), denuncia el error del economismo (LE §13) y desarrolla la espiritualidad del trabajo como participación en la obra creadora, redentora y consumadora de Dios (LE §24–27). Jesucristo es presentado como «hombre del trabajo», carpintero en Nazaret, y el evangelio del trabajo abarca desde el Génesis hasta las enseñanzas de San Pablo (LE §25–26).
 
+### Según el Compendio (CompDS)
+
+El trabajo pertenece a la condición originaria del hombre y precede a su caída; no es castigo ni maldición. Se convierte en fatiga a causa del pecado original, pero el designio del Creador permanece inalterado (§256). El trabajo debe ser honrado como fuente de riqueza, pero sin idolatrarlo: «Mejor es poco con temor de Yahvéh, que gran tesoro con inquietud» (Pr 15,16; §257). El culmen de la enseñanza bíblica sobre el trabajo es el mandamiento del descanso sabático, que abre al hombre la perspectiva de una libertad más plena, la del Sábado eterno (§258). El descanso sabático constituye un baluarte contra el sometimiento humano al trabajo y contra toda forma de explotación, oculta o manifiesta (§258).
+
 ### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
 
 León XIV abordó el trabajo como parte de la vocación humana en el encuentro en el Movistar Arena (5 de junio): «El trabajo no es solo un medio de subsistencia; es participación en la obra creadora de Dios» [L_XIV-ViajeEspaña-2026, Movistar Arena 05 — discurso]. Se dirigió a empresarios y trabajadores sobre la dignidad del trabajo, el salario justo y la integración de la fe y el trabajo [L_XIV-ViajeEspaña-2026, Movistar Arena 05 — discurso]. En la Sagrada Familia (14 de junio), presentó la obra de Gaudí como ejemplo de trabajo ofrecido a Dios [L_XIV-ViajeEspaña-2026, Sagrada Familia 14 — discurso].

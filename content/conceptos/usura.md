@@ -77,6 +77,10 @@ El **V Concilio de Letrán** (1515), Bula *Inter multiplices* (Sesión X): Decla
 
 TPCr trata la usura como pecado contra la justicia conmutativa. La usura es intrínsecamente mala y no puede ser justificada por convención humana. Sin embargo, se admiten los títulos extrínsecos que compensan pérdidas reales. La restitución es obligatoria.
 
+### Según el Compendio (CompDS)
+
+La actividad económica debe estar al servicio del hombre (§330–331). La condena de la usura es explícita: «Los traficantes cuyas prácticas usurarias y mercantiles provocan el hambre y la muerte de sus hermanos los hombres, cometen indirectamente un homicidio» (§341, citando CEC §2269). Esta condena se extiende a las relaciones económicas internacionales, especialmente con los países menos desarrollados, a los que no se pueden aplicar «sistemas financieros abusivos, si no usurarios» (§341, citando CEC §2438). El Magisterio reciente califica la usura como «delito que también en nuestros días es una infame realidad, capaz de estrangular la vida de muchas personas» (§341, citando Juan Pablo II, Audiencia General 4-II-2004).
+
 ## Distinciones importantes
 
 - **Usura**: interés por el mero préstamo de dinero, sin título que lo justifique

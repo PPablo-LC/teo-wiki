@@ -28,6 +28,9 @@ El nombre de Sede Apostólica o Santa Sede comprende no solo al Romano Pontífic
 
 Así como San Pedro y los Apóstoles constituyen un Colegio, de igual modo están unidos el Romano Pontífice y los Obispos (c. 330). No cabe apelación ni recurso contra una sentencia o decreto del Romano Pontífice (c. 333 §3).
 
+### Según el Compendio (CompDS)
+
+La Santa Sede goza de plena subjetividad internacional como autoridad soberana que realiza actos jurídicos propios. Su soberanía externa, reconocida en la Comunidad Internacional, refleja la ejercida dentro de la Iglesia y se caracteriza por la unidad organizativa y la independencia (§444). Su actividad internacional se manifiesta en el derecho de legación activo y pasivo, la estipulación de tratados, la participación en organizaciones intergubernamentales y las iniciativas de mediación en caso de conflicto, siempre al servicio del bien común de toda la familia humana (§444). El servicio diplomático de la Santa Sede actúa no solo para la *libertas Ecclesiae*, sino también para la defensa y promoción de la dignidad humana y para establecer un orden social basado en la justicia, la verdad, la libertad y el amor (§445).
 
 ## Relaciones doctrinales
 

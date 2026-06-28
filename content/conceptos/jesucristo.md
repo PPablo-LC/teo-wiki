@@ -35,6 +35,10 @@ El ciclo de catequesis cristológicas de Juan Pablo II constituye un curso siste
 
 En la segunda parte del ciclo, JPII desarrolla a Jesús como el Evangelio mismo, cuya persona es inseparable del mensaje que proclama. El [[reino_de_dios]] es el núcleo de su predicación profética. Jesús es el «testigo fiel» de la verdad (Jn 18,37). Su sacrificio en la Cruz es el acto supremo de amor redentor. La [[resurrección_de_cristo|Resurrección]] confirma su divinidad y lo constituye Señor (*Kyrios*) con poder (Flp 2,9-11; Rom 1,3-4). Cristo resucitado es las primicias de los que durmieron (1 Cor 15,20-22), fundamento de la esperanza cristiana y fuente de la vida nueva del creyente (CJeS, segunda parte: misión profética de Cristo; tercera parte: valor redentivo de la Pasión; cuarta parte: la Resurrección).
 
+### Según el Compendio (CompDS)
+
+Jesucristo revela plenamente el designio de amor de Dios. En Él se cumple el acontecimiento decisivo de la historia de Dios con los hombres (§28). El amor que anima su ministerio es el que el Hijo experimenta en la unión íntima con el Padre, Abbá (§29). La Pascua revela el Amor trinitario: «Dios es Trinidad: Padre, Hijo y Espíritu Santo, realmente distintos y realmente uno, porque son comunión infinita de amor» (§31). Jesucristo revela que Dios es Padre y que todos estamos llamados por gracia a ser hijos suyos en el Espíritu (§31). El mandamiento nuevo del amor recíproco (Jn 13,34) debe inspirar, purificar y elevar todas las relaciones humanas en la vida social y política (§33). La imagen del Dios trino es raíz de todo el ethos humano, cuyo vértice es el mandamiento del amor (§33).
+
 ## Analizado para
 
 - [[primeros_pasos_en_la_vida_espiritual]]

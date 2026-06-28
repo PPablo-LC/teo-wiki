@@ -44,6 +44,10 @@ Juan Pablo II define la salvación como liberación del mal radical y definitivo
 
 Juan Pablo II presenta la salvación como liberación del pecado, el mal fundamental que rompe la alianza del hombre con Dios. El nombre de Jesús significa «Dios salva» (Yeshua, Mt 1,21). Cristo es el [[cordero_de_dios]] que quita el pecado del mundo (Jn 1,29; Is 53). Su muerte es «rescate por muchos» (*lutron*/[[redención|*lutrosis*]], Mc 10,45; Mt 20,28). La salvación libera de la esclavitud del pecado y del «padre de la mentira» (el diablo), para la libertad de los hijos de Dios (Rom 8,21) y la libertad en la verdad (Jn 8,32.36). Esta liberación es para la vida nueva en Cristo: «nueva creación» (2 Cor 5,17). El agua viva (Jn 4,10-14; 7,37-38) y el costado traspasado (sangre y agua, Jn 19,34) simbolizan la gracia salvadora que brota de Cristo. El corazón nuevo prometido por Jeremías y Ezequiel (Jer 31,33; Ez 36,26-27) significa la transformación interior obrada por la salvación (CJeS, segunda parte: salvación como liberación del pecado).
 
+### Según el Compendio (CompDS)
+
+La salvación ofrecida en Jesucristo es «salvación para todos los hombres y de todo el hombre: es salvación universal e integral» (§38). Concierne a la persona en todas sus dimensiones: personal y social, espiritual y corpórea, histórica y trascendente. Comienza a realizarse ya en la historia, pero su cumplimiento tendrá lugar en la participación en la resurrección de Cristo y en la comunión eterna de vida con el Padre (§38). La salvación requiere la libre respuesta de la fe, por la cual «el hombre se entrega entera y libremente a Dios» (§39, citando *Dei Verbum* 5). Son inseparables la relación con Dios y la responsabilidad frente al prójimo (§40): el mandamiento del amor a Dios y al prójimo (Mc 12,29-31) expresa la síntesis de la enseñanza de Cristo (§40). La transformación interior del hombre en su progresiva conformación con Cristo es presupuesto esencial de la renovación de sus relaciones sociales (§42).
+
 ## Distinciones importantes
 
 - **Salvación** (este artículo): obra redentora de Cristo que libera del pecado y concede la vida eterna.

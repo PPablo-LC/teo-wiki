@@ -41,6 +41,10 @@ En el Capítulo VII, Juan Pablo II recuerda que la Sagrada Escritura contiene un
 
 La encíclica concluye que «la grandeza del hombre jamás consistirá» en creerse dueño absoluto de sí mismo, sino en «insertarse en la verdad, al amparo de la Sabiduría y en coherencia con ella» (FR, Conclusión, §107). Solo en el horizonte de la verdad «comprenderá la realización plena de su libertad y su llamada al amor y al conocimiento de Dios como realización suprema de sí mismo» (FR, Conclusión, §107).
 
+### Según el Compendio (CompDS)
+
+La revelación del misterio de Dios como Amor trinitario ilumina la dignidad y libertad de la persona humana y su intrínseca sociabilidad: «Ser persona a imagen y semejanza de Dios comporta... existir en relación al otro “yo”» (§34, citando *Mulieris dignitatem* 7). La persona humana ha sido creada por Dios, amada y salvada en Jesucristo, y se realiza entretejiendo relaciones de amor, justicia y solidaridad (§35). El libro del Génesis propone los fundamentos de la antropología cristiana: la inalienable dignidad de la persona, la sociabilidad constitutiva del ser humano cuyo prototipo es la unión del hombre y la mujer —«expresión primera de la comunión de personas humanas»—, y el significado del actuar humano en el mundo como custodio de la creación según el designio de Dios (§36–37).
+
 ## Distinciones importantes
 
 - Antropología cristiana vs. antropología filosófica: la primera se funda en la Revelación y la fe; la segunda en la sola razón natural

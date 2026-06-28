@@ -43,6 +43,10 @@ Es especialmente importante entre las poblaciones indígenas, para que «las sem
 
 Para la evangelización de la cultura es necesario «un esfuerzo lúcido, serio y ordenado» [EA §70]. Con el uso correcto de los medios de comunicación social «se puede llevar a cabo una verdadera inculturación del Evangelio» [EA §72].
 
+### Según el Compendio (CompDS)
+
+La doctrina social ofrece una visión integral del hombre que ilumina los auténticos valores humanos e inspira el testimonio cristiano en los múltiples ámbitos de la vida personal, cultural y social (§522). La antropología cristiana anima la obra pastoral de la inculturación de la fe, dirigida a renovar desde dentro, con la fuerza del Evangelio, los criterios de juicio, los valores determinantes y los modelos de vida del hombre contemporáneo: «Con la inculturación, la Iglesia se hace signo más comprensible de lo que es, e instrumento más apto para su misión» (§523, citando *Redemptoris missio* 52). El mundo contemporáneo está marcado por una fractura entre Evangelio y cultura, ante la cual la Iglesia debe entrar en una nueva etapa histórica de su dinamismo misionero (§523). La «nueva evangelización» debe incluir entre sus elementos esenciales el anuncio de la doctrina social de la Iglesia (§523).
+
 ## Distinciones importantes
 
 - **Adaptación**: ajustes externos de la predicación y los ritos a una cultura

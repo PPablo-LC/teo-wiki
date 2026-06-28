@@ -55,6 +55,10 @@ Condenó (D-705) a Sabelio (que confunde las personas), a los arrianos, eunomian
 
 Juan Pablo II muestra que Jesús revela la Trinidad. En la Anunciación se manifiestan las tres Personas: el Padre envía al Hijo, que es concebido por obra del Espíritu Santo en el seno de María (Lc 1,35; CJeS, primera parte). En el Bautismo de Jesús, la teofanía trinitaria es manifiesta: el Padre habla desde el cielo, el Hijo es bautizado, el Espíritu Santo desciende en forma de paloma (CJeS, tercera parte: catequesis sobre el Bautismo de Jesús). Jesús revela la intimidad del Padre: «Nadie conoce al Hijo sino el Padre, ni al Padre conoce nadie sino el Hijo, y aquel a quien el Hijo se lo quiera revelar» (Mt 11,27). «Yo y el Padre somos una sola cosa» (Jn 10,30). La oración sacerdotal (Jn 17) manifiesta la comunión trinitaria y la misión del Hijo. Jesús promete el Espíritu Santo, el Paráclito, que procede del Padre (Jn 14,16-17.26; 15,26; CJeS, tercera parte). La fórmula bautismal trinitaria (Mt 28,19) sella la revelación del Dios Trino (CJeS, tercera parte: catequesis sobre la revelación de la Trinidad).
 
+### Según el Compendio (CompDS)
+
+La revelación de Cristo muestra el misterio de Dios como Amor trinitario: «Dios es Trinidad: Padre, Hijo y Espíritu Santo, realmente distintos y realmente uno, porque son comunión infinita de amor» (§31). El amor gratuito de Dios por la humanidad se revela como amor fontal del Padre, comunicación gratuita del Hijo que se entrega a los hombres, y fecundidad siempre nueva del Espíritu Santo infundido en los corazones (§31). La comunión trinitaria es el supremo modelo de unidad del género humano: «Este supremo modelo de unidad, reflejo de la vida íntima de Dios, Uno en tres personas, es lo que los cristianos expresamos con la palabra “comunión”» (§33, citando *Sollicitudo rei socialis* 40).
+
 ## Distinciones importantes
 - Trinidad económica (revelada en las misiones divinas) ≠ Trinidad inmanente (Dios en sí mismo)
 - Unidad de esencia ≠ distinción de Personas

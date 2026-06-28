@@ -41,6 +41,10 @@ Santo Tomás (SmTh II-II q.64 a.7) enseña que un acto de defensa puede tener do
 
 **Inocencio XI** (1679, D‑1183) condenó la proposición: «Es lícito tanto al heredero como al legatario defenderse de ese modo contra quien injustamente le impide entrar en posesión de la herencia, lo mismo que al que tiene derecho a una cátedra o prebenda contra el que injustamente impide su posesión.» Condenada como escandalosa.
 
+### Según el Compendio (CompDS)
+
+Una guerra de agresión es intrínsecamente inmoral. En caso de que estalle, los responsables del Estado agredido tienen el derecho y el deber de organizar la defensa, incluso usando la fuerza de las armas (§500). Para que sea lícito el uso de la fuerza deben cumplirse simultáneamente las condiciones de la doctrina de la «guerra justa»: daño grave y cierto del agresor, ineficacia de todo otro medio, condiciones serias de éxito, y que el empleo de las armas no entrañe males mayores que el mal que se pretende eliminar (§500, citando CEC §2309). La posesión de medios suficientes para la defensa está justificada, pero los Estados tienen la obligación de hacer todo lo posible para garantizar la paz (§500). El ejercicio del derecho a defenderse debe respetar los límites tradicionales de la necesidad y la proporcionalidad (§501).
+
 ## Distinciones importantes
 
 - **Defensa vs. venganza**: la defensa es presente y proporcional; la venganza es pasada y desproporcionada
