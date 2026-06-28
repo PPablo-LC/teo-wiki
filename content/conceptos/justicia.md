@@ -44,6 +44,10 @@ La encíclica advierte que la justicia por sí sola no basta: «*summum ius, sum
 
 León XIV trató la justicia en su discurso ante el Parlamento español como fundamento de la paz: «Sin justicia no hay paz duradera» [L_XIV-ViajeEspaña-2026, Parlamento — discurso]. Vinculó la justicia con la caridad, afirmando que «la justicia abre el camino a la caridad; la caridad perfecciona la justicia» [L_XIV-ViajeEspaña-2026, Parlamento — discurso]. En la visita a la prisión, señaló que la justicia sin misericordia es incompleta [L_XIV-ViajeEspaña-2026, visita a prisión]. En su discurso sobre los migrantes, reclamó la justicia como abordaje de las causas profundas de la migración forzada [L_XIV-ViajeEspaña-2026, CEDIA 02].
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Justicia»] En el AT la justicia designa tanto la virtud moral de observar la ley como la fidelidad de Dios a su alianza. Dios se muestra justo liberando a los oprimidos (Sal 103,6) y castigando el pecado (Dt 32,4). En el NT, Jesús llama a una justicia superior a la de los fariseos (Mt 5,20). San Pablo desarrolla la justicia de Dios como don gratuito que se recibe por la fe en Cristo (Rom 3,21-26), distinta de la justicia por las obras de la ley (Gal 2,16). Así la justicia divina coincide en última instancia con la misericordia: Dios justifica al pecador por pura gracia.
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[virtud_de_la_justicia]]

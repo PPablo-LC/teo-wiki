@@ -45,6 +45,10 @@ Santo Tomás trata la ley antigua en las cuestiones 98–105 de la Ia-IIae, que 
 
 **Preceptos judiciales** (q.104–105). Ordenan las relaciones con el prójimo (q.104 a.1). Cesaron como obligatorios con la venida de Cristo (a.3), pero no como «letra muerta» (pueden estudiarse por su sabiduría). Las razones de los preceptos judiciales se explican en q.105.
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Ley»] La *torah* hebrea significa «enseñanza» dada por Dios para reglar la conducta. Comprende la ley natural (desde Adán hasta Moisés, grabada en el corazón, Rom 2,14s), la ley mosaica (prescripciones morales, ceremoniales y judiciales, centradas en el Decálogo) y la ley nueva de Cristo. La ley mosaica, santa y espiritual (Rom 7,12.14), no da la fuerza para cumplirla (Rom 7,16ss); su función es pedagógica, preparar para Cristo (Gal 3,23s). Jesús la cumple y la perfecciona (Mt 5,17ss), inaugurando la ley de Cristo, inscrita en los corazones por el Espíritu (Jer 31,33; Ez 36,26s; 2Cor 3,3).
+
 ## Distinciones importantes
 
 - Ley ceremonial: preceptos sobre el culto, abrogados por Cristo

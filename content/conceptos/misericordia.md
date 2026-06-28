@@ -79,6 +79,10 @@ Desde la cruz, la misericordia se manifiesta en las siete palabras. La primera e
 
 [VJ, Cap. III, Cap. VI]
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Misericordia»] La misericordia bíblica conjuga dos corrientes: *rahamim* (ternura instintiva, como la del seno materno) y *hesed* (fidelidad al compromiso de alianza). En el AT, Dios se revela en el Sinaí como «Dios de ternura y gracia, lento a la ira y abundante en misericordia» (Ex 34,6). Su misericordia acompaña a Israel a lo largo de la historia (Jue 2,18; Os 11,8s). En el NT, Jesús es el rostro de la misericordia del Padre: ama a los pobres, acoge a los pecadores (Lc 15,1s) y enseña que el Padre espera al hijo pródigo (Lc 15,11-32). Pablo proclama que Dios «incluyó a todos en la desobediencia para usar con todos misericordia» (Rom 11,32). Los discípulos deben ser misericordiosos como el Padre (Lc 6,36).
+
 ## Distinciones importantes
 
 - **Misericordia** ≠ **justicia**: la misericordia no se opone a la justicia, sino que la perfecciona y la trasciende.

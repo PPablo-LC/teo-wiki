@@ -37,6 +37,10 @@ La producción de la luz fue colocada en el primer día porque la luz es la form
 
 "En él estaba la vida, y la vida era la luz de los hombres, y la luz brilla en las tinieblas" (Jn 1,4-5). Jesús dijo: "Yo soy la luz del mundo; el que me sigue no caminará en tinieblas, sino que tendrá la luz de la vida" (Jn 8,12). "Vosotros sois la luz del mundo" (Mt 5,14).
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Luz»] El tema de la luz atraviesa toda la revelación. En el AT, Dios es el creador de la luz (Gen 1,3s) y se manifiesta vestido de luz (Sal 104,2); la luz simboliza la vida, la salvación y la ley divina (Sal 27,1; 119,105). Los profetas prometen una luz escatológica para el pueblo que camina en tinieblas (Is 9,1; 42,6; 60,1ss). En el NT, Cristo se revela como «la luz del mundo» (Jn 8,12), cumplimiento de la promesa (Mt 4,16). Quien le sigue no camina en tinieblas (Jn 12,46). Los creyentes, hechos «hijos de la luz» (1Tes 5,5), deben vivir como luz del mundo (Mt 5,14ss), hasta la Jerusalén celestial donde Dios mismo será la luz eterna (Ap 21,23).
+
 ## Distinciones importantes
 
 - Luz divina (Dios mismo, inaccesible en su esencia) vs. luz participada (fe, conocimiento sobrenatural, gracia).

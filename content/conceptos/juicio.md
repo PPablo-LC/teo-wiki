@@ -56,6 +56,10 @@ Juzgar sin autoridad pública es injusto, porque el juicio implica coacción y s
 
 El juicio es acto de justicia, pues el derecho es objeto de la justicia (q.60 a.1). En sentido amplio, el juicio recto en cualquier materia es acto de la razón; pero en las cosas que pertenecen a la justicia, el juicio procede de la justicia como hábito que inclina a juzgar rectamente, y de la prudencia como virtud que pronuncia el juicio (a.1 ad 1). El Señor prohibe el juicio temerario sobre intenciones ocultas (a.2 ad 1). La sinopsis (synesis) es virtud del buen juicio en materia práctica (a.1 ad 1).
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Juicio»] En el AT, Dios juzga a los pueblos en la historia (Éxodo, Sodoma, castigos de Israel) y la escatología anuncia un juicio final (Is 66,16; Dan 7,9-12; Jl 4,12ss). En el NT, Jesús anuncia el juicio del último día (Mt 25,31-46), pero —especialmente en Juan— el juicio se actualiza según la actitud hacia Él: quien cree no es juzgado, quien no cree ya está juzgado (Jn 3,18ss). La muerte de Jesús es el momento en que es juzgado el mundo (Jn 12,31); Cristo resucitado será el juez de vivos y muertos (2Tim 4,1).
+
 ## Distinciones importantes
 
 - **Juicio justo vs. injusto**: según la rectitud de la justicia

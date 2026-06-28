@@ -49,6 +49,10 @@ La limosna es preceptiva en caso de necesidad extrema del prójimo y cuando se t
 
 **Inocencio XI** (1679, D‑1162) condenó la proposición: «Apenas se halla entre los seculares, aun entre reyes, nada superfluo a su estado. Y así apenas si nadie está obligado a la limosna, cuando solo está obligado de lo superfluo a su estado.» Condenada como escandalosa. La condena reafirma la obligación de dar limosna de lo superfluo, que no se excusa por una definición demasiado amplia de lo necesario al estado de cada uno.
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Limosna»] La limosna (gr. *eleemosyne*) designa en la Biblia la misericordia activa hacia el necesitado. En el AT, la ley prescribe formas codificadas de limosna (espigueo, diezmo trienal para pobres, Lv 19,9; Dt 14,28s). Es gesto religioso que alcanza a Dios mismo (Prov 19,17) y obtiene el perdón de los pecados (Eclo 3,30; Dan 4,24). En el NT, Jesús la cuenta entre los tres pilares de la vida religiosa (Mt 6,1-18) y exige que se haga con desinterés absoluto (Mt 6,1-4; Lc 6,35). La limosna halla su sentido último en Cristo: dar al pobre es darlo a Cristo (Mt 25,31-46), imitando al que siendo rico se hizo pobre (2Cor 8,9).
+
 ## Distinciones importantes
 
 - **Limosna de precepto vs. de consejo:** La primera obliga en necesidad extrema con lo superfluo; la segunda es voluntaria.

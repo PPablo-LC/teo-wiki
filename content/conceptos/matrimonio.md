@@ -209,6 +209,10 @@ Asimismo, condenó el error de que «si uno toma una tercera o cuarta mujer o m�
 
 **Pío XI** — Encíclica *Casti Connubii* (1930, D‑2225–D‑2226): Reafirmó la doctrina católica sobre el matrimonio frente a los errores modernos: el amor conyugal no es la mera satisfacción del instinto o la pura utilidad social, sino amor ordenado al fin primario del matrimonio (generación y educación de la prole) y a los fines secundarios (ayuda mutua y remedio de la concupiscencia). Rechazó la eugenesia y el aborto como atentados contra la vida. Afirmó la indisolubilidad absoluta del vínculo matrimonial. Condenó el neopaganismo que promueve el amor libre y el matrimonio de prueba.
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Matrimonio»] En el AT, el matrimonio es instituido por Dios desde la creación: «una sola carne» (Gen 2,24), ordenado a la ayuda mutua y la fecundidad (Gen 1,28). La ley mosaica lo regula por la dureza de los corazones (Dt 24,1s), tolerando la poligamia y el repudio. Los profetas elevan el ideal: Mal 2,14ss condena el repudio; Tob 8,4-9 presenta el matrimonio fundado en la oración. En el NT, Jesús lo restaura a la indisolubilidad original (Mt 19,1-9) y lo eleva a sacramento, imagen de la unión de Cristo y la Iglesia (Ef 5,32). Pablo distingue entre matrimonio y virginidad, recomendando esta última por el Reino (1Cor 7).
+
 ## Distinciones importantes
 
 - **Matrimonio como contrato natural vs. como sacramento**: entre bautizados, el contrato válido es ipso facto sacramento

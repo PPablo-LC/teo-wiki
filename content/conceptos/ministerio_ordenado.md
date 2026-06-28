@@ -32,6 +32,9 @@ El CEC §874-896 expone el ministerio ordenado como institución de Cristo al se
 
 Los cc. 1008-1054 regulan la ordenación. El c. 1008 define que «mediante el sacramento del Orden, por institución divina, algunos de entre los fieles quedan constituidos ministros sagrados». El c. 1009 §1 distingue los tres grados: episcopado, presbiterado y diaconado. Los cc. 1010-1023 tratan de las condiciones para la ordenación. Los cc. 1024-1054 regulan los ritos, el ministro, el sujeto y los impedimentos.
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Ministerio»] En el AT, la realidad del ministerio aparece en los reyes, profetas y sacerdotes como servidores de Dios y mediadores entre Él y el pueblo. En el NT, Cristo es el único mediador (1Tim 2,5), pero en la Iglesia fundada por Él se ejerce un ministerio de nuevo género al servicio de su palabra y su gracia. Los apóstoles son los primeros ministros (Act 1,17.25), servidores de todos a imitación de Cristo (Mc 10,42ss). Pablo desarrolla la teología del ministerio como «servicio de la nueva alianza» (2Cor 3,6-9). El NT muestra el nacimiento de la jerarquía de gobierno: presbíteros (Act 14,23), epískopoi (Flp 1,1; 1Tim 3,1-7) y diáconos (Flp 1,1; 1Tim 3,8-13), que constituyen el germen del ministerio ordenado de tres grados.
 
 ## Distinciones importantes
 

@@ -42,6 +42,9 @@ Santo Tomás distingue entre *gracia de curaciones* (que otorga la salud corpora
 
 **Milagros aparentes de los demonios (q.114 a.4):** Los demonios no pueden hacer verdaderos milagros en sentido estricto, pues sobrepasar el orden de toda la naturaleza creada es propio solo de Dios. Pueden, sin embargo, hacer cosas que admiran a los hombres por sobrepasar su poder y conocimiento, como los magos de Faraón que hicieron verdaderas serpientes y ranas usando gérmenes naturales (q.114 a.4 ad 2). Pueden también alterar la imaginación y los sentidos humanos para hacer parecer real lo que no lo es, o formar cuerpos de aire para aparecer visiblemente. No pueden, empero, realizar cambios corporales que superen toda virtud natural, como convertir el cuerpo humano en bestia o resucitar un muerto.
 
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Milagro»] En el AT los milagros son «signos y prodigios» que revelan el poder salvador de Dios, concentrados en dos momentos: Moisés y Josué (fundación del pueblo) y Elías y Eliseo (restauración de la Alianza). El milagro está subordinado a la palabra profética (Dt 13,2-6) y tiende a provocar la fe (Ex 4,1-5). En el NT, Jesús realiza milagros como signos de la llegada del Reino (Mt 11,4s), que testimonian su misión divina y manifiestan la victoria sobre el pecado, la enfermedad y el demonio. Son inseparables de la palabra que los acompaña (Jn 20,30s). La Iglesia continúa estos signos por la fuerza del Espíritu (Act 3,1-10; Rom 15,19).
 
 ## Distinciones importantes
 
