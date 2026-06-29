@@ -9,7 +9,7 @@ description: "Búsqueda realizada en `wiki/` (todos los subdirectorios). Se extr
 > Generado: 2026-06-19 19:25
 > Última actualización: 2026-06-19
 > Total de wikilinks huérfanos originales: 588 (con ≥1 referencias)
-> Artículos creados en esta sesión: 24 (alta/media) + 8 (4 refs #1, 2026-06-28) + 8 (4 refs #2, 2026-06-28)
+> Artículos creados en esta sesión: 24 (alta/media) + 32 (4 refs, 2026-06-28)
 
 ## Metodología
 
@@ -73,16 +73,16 @@ vs guion bajo, o sinónimo reconocido).
 | 44 | `[[engaño]]` | 4 | baja | ✅ Creado 2026-06-28 |
 | 45 | `[[equidad]]` | 4 | baja | ✅ Creado 2026-06-28 |
 | 46 | `[[eutanasia]]` | 4 | baja | ✅ Creado 2026-06-28 |
-| 47 | `[[hombre_nuevo]]` | 4 | baja | |
-| 48 | `[[honor]]` | 4 | baja | |
-| 49 | `[[inconstancia]]` | 4 | baja | |
-| 50 | `[[inculturación_del_evangelio]]` | 4 | baja | |
-| 51 | `[[irascible]]` | 4 | baja | |
-| 52 | `[[isaías]]` | 4 | baja | |
-| 53 | `[[justicia_de_dios]]` | 4 | baja | |
-| 54 | `[[justicia_legal]]` | 4 | baja | |
-| 55 | `[[latría]]` | 4 | baja | |
-| 56 | `[[lavatorio_de_los_pies]]` | 4 | baja | |
+| 47 | `[[hombre_nuevo]]` | 4 | baja | Ya existía (creado 2026-06-20) |
+| 48 | `[[honor]]` | 4 | baja | Ya existía (creado 2026-06-23) |
+| 49 | `[[inconstancia]]` | 4 | baja | Ya existía (creado 2026-06-23) |
+| 50 | `[[inculturación_del_evangelio]]` | 4 | baja | ✅ Creado 2026-06-28 |
+| 51 | `[[irascible]]` | 4 | baja | Ya existía (creado 2026-06-23) |
+| 52 | `[[isaías]]` | 4 | baja | ✅ Creado 2026-06-28 |
+| 53 | `[[justicia_de_dios]]` | 4 | baja | ✅ Creado 2026-06-28 |
+| 54 | `[[justicia_legal]]` | 4 | baja | Ya existía (creado 2026-06-23) |
+| 55 | `[[latría]]` | 4 | baja | Ya existía (creado 2026-06-23) |
+| 56 | `[[lavatorio_de_los_pies]]` | 4 | baja | Ya existía (creado 2026-06-23) |
 | 57 | `[[liberación]]` | 4 | baja | |
 | 58 | `[[libertad_interior]]` | 4 | baja | |
 | 59 | `[[ministerio]]` | 4 | baja | |
@@ -101,15 +101,15 @@ vs guion bajo, o sinónimo reconocido).
 | 72 | `[[protección_divina]]` | 4 | baja | |
 | 73 | `[[prudencia_de_la_carne]]` | 4 | baja | |
 | 74 | `[[pueblo]]` | 4 | baja | |
-| 75 | `[[purificación]]` | 4 | baja | |
+| 75 | `[[purificación]]` | 4 | baja | ✅ Creado 2026-06-28 |
 | 76 | `[[pública_honestidad]]` | 4 | baja | |
-| 77 | `[[sencillez]]` | 4 | baja | |
-| 78 | `[[sentido_literal]]` | 4 | baja | |
-| 79 | `[[siervo_de_yahveh]]` | 4 | baja | |
-| 80 | `[[sión]]` | 4 | baja | |
-| 81 | `[[tabernáculo]]` | 4 | baja | |
+| 77 | `[[sencillez]]` | 4 | baja | ✅ Creado 2026-06-28 |
+| 78 | `[[sentido_literal]]` | 4 | baja | ✅ Creado 2026-06-28 |
+| 79 | `[[siervo_de_yahveh]]` | 4 | baja | Falso positivo (existe [[siervo_de_yahvé]]) |
+| 80 | `[[sión]]` | 4 | baja | ✅ Creado 2026-06-28 |
+| 81 | `[[tabernáculo]]` | 4 | baja | ✅ Creado 2026-06-28 |
 | 82 | `[[universalismo]]` | 4 | baja | |
-| 83 | `[[vida_eremítica]]` | 4 | baja | |
+| 83 | `[[vida_eremítica]]` | 4 | baja | ✅ Creado 2026-06-28 |
 | 84 | `[[Jerusalén_celestial]]` | 3 | baja | |
 | 85 | `[[abandono_en_la_Divina_Providencia]]` | 3 | baja | |
 | 86 | `[[abandono_en_la_providencia]]` | 3 | baja | |
@@ -703,6 +703,7 @@ bajo, o que tienen un sinónimo cercano en el wiki:
 | `[[senor]]` | 2 | ace | [[señor]] |
 | `[[uncion_de_los_enfermos]]` | 2 | ace | [[unción_de_los_enfermos]] |
 | `[[vocacion]]` | 2 | ace | [[vocación]] |
+| `[[siervo_de_yahveh]]` | 4 | ace | [[siervo_de_yahvé]] |
 
 **Leyenda de tipos:**
 - `caso`: el artículo existe con diferente capitalización
