@@ -58,6 +58,10 @@ El Encuentro con Cristo integra los cinco elementos propios del miembro del RC (
 
 Se conecta con [[conversión]] (el encuentro mueve a la conversión), [[comunión_eclesial]] (el encuentro abre a la comunión), [[solidaridad]] (la comunión lleva a la solidaridad), [[evangelización]] (el encuentro impulsa a evangelizar), [[nueva_evangelización]] (cuyo núcleo es el anuncio de Jesucristo), [[revisión_de_vida]] (método de discernimiento en el Encuentro del RC) y [[discernimiento_apostólico]].
 
+## Analizado para
+
+- [[vive_el_misterio_2_encuentro_con_cristo]] — convergencia plena en la teología del encuentro y la metodología de lectura orante + discernimiento; la propuesta adapta creativamente el material al ámbito educativo con dos esquemas alternativos.
+
 ## Ver también
 
 [[evangelización]], [[conversión]], [[comunión_eclesial]], [[solidaridad]], [[nueva_evangelización]], [[eucaristía]], [[jesucristo]], [[revisión_de_vida]], [[discernimiento_apostólico]]

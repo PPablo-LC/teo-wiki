@@ -60,6 +60,10 @@ El Encuentro ayuda a generar «una comunidad de apóstoles que se dona a la Igle
 
 Se relaciona con [[cristocentrismo_legionario]], [[envío_apostólico]], [[carisma_legionario]], [[misión]], [[discípulo]], [[vida_fraterna_religiosa]], [[comunidad_formativa]], [[proyecto_comunitario]], [[federación_regnum_christi]].
 
+## Analizado para
+
+- [[vive_el_misterio_2_encuentro_con_cristo]] — convergencia en la concepción del equipo docente como comunidad reunida en torno a Cristo en misión; la propuesta lo aplica al claustro escolar.
+
 ## Ver también
 
 [[cristocentrismo_legionario]], [[envío_apostólico]], [[carisma_legionario]], [[comunidad_formativa]], [[proyecto_comunitario]], [[federación_regnum_christi]], [[discípulo]], [[misión]]

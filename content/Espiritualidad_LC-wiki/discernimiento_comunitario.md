@@ -94,6 +94,10 @@ El discernimiento comunitario en el Encuentro presupone tres niveles que se cont
 
 Se relaciona con [[autoridad]], [[obediencia]], [[vida_consagrada]], [[vida_fraterna_religiosa]], [[proyecto_comunitario]], [[humildad]], [[espíritu_santo]], [[discernimiento]] y [[sinodalidad]].
 
+## Analizado para
+
+- [[vive_el_misterio_2_encuentro_con_cristo]] — convergencia en los plenarios y dinámicas de grupo que reflejan el principio de interpretación comunitaria de la Escritura.
+
 ## Ver también
 
 [[discernimiento]], [[vida_fraterna_religiosa]], [[proyecto_comunitario]], [[autoridad]], [[obediencia]], [[espíritu_santo]]

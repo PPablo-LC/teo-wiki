@@ -58,6 +58,10 @@ El ensayo identifica seis elementos de las primeras comunidades que inspiran la 
 
 Se relaciona con [[misión]], [[evangelización]], [[apóstol]], [[discípulo]], [[comunidad_de_apóstoles]], [[cristocentrismo_legionario]], [[carisma_legionario]], [[discernimiento_comunitario]], [[federación_regnum_christi]].
 
+## Analizado para
+
+- [[vive_el_misterio_2_encuentro_con_cristo]] — convergencia en el Bloque 3 donde los compromisos se ofrecen en la Santa Misa; la propuesta desarrolla la dimensión eucarística del envío.
+
 ## Ver también
 
 [[comunidad_de_apóstoles]], [[misión]], [[evangelización]], [[discípulo]], [[cristocentrismo_legionario]], [[discernimiento_comunitario]]

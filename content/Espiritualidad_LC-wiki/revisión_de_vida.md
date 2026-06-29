@@ -43,6 +43,10 @@ En el Regnum Christi, la revisión de vida se incorporó al [[encuentro_con_cris
 
 Se relaciona con [[encuentro_con_cristo]], [[discernimiento_comunitario]], [[discernimiento_de_espíritus]], [[signos_de_los_tiempos]], [[conversión]], [[compromiso_apostólico]], [[comunidad_de_apóstoles]].
 
+## Analizado para
+
+- [[vive_el_misterio_2_encuentro_con_cristo]] — convergencia en el método ver-juzgar-actuar; la Propuesta B estructura los tres bloques como Revisión de Vida, y la Propuesta A integra el discernimiento apostólico en su Bloque 3.
+
 ## Ver también
 
 [[encuentro_con_cristo]], [[discernimiento_comunitario]], [[discernimiento_apostólico]], [[signos_de_los_tiempos]], [[comunidad_de_apóstoles]]

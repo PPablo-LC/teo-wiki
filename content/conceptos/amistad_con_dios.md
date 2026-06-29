@@ -47,6 +47,10 @@ El ensayo desarrolla la teología de «Dios, Amigo del hombre» (Parte II) desde
 
 Se relaciona con [[gracia_santificante]], [[caridad]], [[virtud_de_la_caridad]], [[pecado_mortal]], [[sacramento_de_la_reconciliación]], [[oración]], [[vida_espiritual]]
 
+## Analizado para
+
+- [[vive_el_misterio_2_encuentro_con_cristo]] — convergencia en la teología del Dios que sale al encuentro del hombre (RC-EcC-2022, Parte II); la propuesta la aplica al contexto educativo.
+
 ## Ver también
 
 [[amor_a_dios]], [[amor_al_prójimo]], [[gracia_santificante]], [[caridad]]
