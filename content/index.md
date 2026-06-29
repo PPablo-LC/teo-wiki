@@ -74,6 +74,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[alegría]]
 - [[alegría_cristiana]]
 - [[alegría_de_evangelizar]]
+- [[alegría_litúrgica]]
 - [[alianza]]
 - [[alianza_educativa]]
 - [[alianzas]]
@@ -290,7 +291,9 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[colegio_episcopal]]
 - [[combate_de_la_oración]]
 - [[combate_espiritual]]
+- [[comensalidad]]
 - [[comida]]
+- [[comisión_central_para_la_revisión_de_las_constituciones]]
 - [[como_una_madre_amorosa]]
 - [[competencia_judicial]]
 - [[complementariedad]]
@@ -395,6 +398,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[corpus_christi]]
 - [[corrección_fraterna]]
 - [[corredención]]
+- [[corresponsabilidad_en_la_iglesia]]
 - [[corresponsabilidad_laical]]
 - [[cosa_juzgada]]
 - [[cosecha]]
@@ -482,6 +486,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[dei_verbum]]
 - [[delectación]]
 - [[delectación_morosa]]
+- [[delegado_pontificio]]
 - [[delicta_graviora]]
 - [[delito]]
 - [[delitos_canónicos]]
@@ -536,6 +541,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[dicasterio_para_la_doctrina_de_la_fe]]
 - [[dicasterios_de_la_curia]]
 - [[diestra]]
+- [[diez_principios_de_buena_liturgia]]
 - [[diezmos]]
 - [[dignidad_de_la_mujer]]
 - [[dignidad_de_la_persona]]
@@ -821,6 +827,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[fruto]]
 - [[frutos_del_espíritu_santo]]
 - [[fuego]]
+- [[fuero_interno_y_fuero_externo]]
 - [[fuerza]]
 - [[función_social_de_la_propiedad]]
 - [[fundación_pía]]
@@ -896,6 +903,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[honor]]
 - [[hora]]
 - [[hospitalidad]]
+- [[hospitalidad_divina]]
 - [[huelga]]
 - [[humanidad_de_cristo]]
 - [[humanismo_integral]]
@@ -2069,6 +2077,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[vision_beatifica]]
 - [[visiones]]
 - [[visita]]
+- [[visita_apostólica]]
 - [[visitación]]
 - [[visión_beatífica]]
 - [[visión_de_dios]]
@@ -2148,11 +2157,13 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[adán]]
 - [[agapito_i]]
 - [[agatón]]
+- [[agostino_montan]]
 - [[agustín_de_hipona]]
 - [[albino_menéndez-reigada]]
 - [[alejandro_iii]]
 - [[alejandro_vii]]
 - [[alejandro_viii]]
+- [[alvaro_corcuera]]
 - [[anastasio_ii]]
 - [[antonio_royo_marín]]
 
@@ -2166,6 +2177,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[benedicto_xvi]]
 - [[bonifacio_ii_papa]]
 - [[bonifacio_viii]]
+- [[brian_farrell]]
 
 ### C
 
@@ -2198,6 +2210,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 
 ### E
 
+- [[eduardo_robles_gil]]
 - [[elipando]]
 - [[elías]]
 - [[erik_varden]]
@@ -2276,6 +2289,8 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 ### M
 
 - [[marcelo_ii]]
+- [[marcial_maciel]]
+- [[mario_marchesi]]
 - [[martin_lutero]]
 - [[martin_v]]
 - [[martín_i]]
@@ -2316,6 +2331,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 ### R
 
 - [[raymond_brown]]
+- [[ricardo_blázquez]]
 - [[réginald_garrigou-lagrange]]
 
 ### S
@@ -2352,15 +2368,18 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[santo_tomás_de_aquino]]
 - [[simplicio_papa]]
 - [[sixto_iv]]
+- [[sylvester_heereman]]
 - [[símaco_papa]]
 
 ### T
 
 - [[teodoro_de_mopsuestia]]
 - [[teresa_neumann]]
+- [[thomas_o'loughlin]]
 
 ### V
 
+- [[velasio_de_paolis]]
 - [[vigilio]]
 
 ### Z
@@ -2439,6 +2458,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[recopilación_de_mensajes_a_las_mujeres]]
 - [[redemptor_hominis]]
 - [[redemptoris_mater]]
+- [[rites_and_wrongs_of_liturgy]]
 
 ### S
 
@@ -2581,6 +2601,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[reconciliación_institucional]]
 - [[renovacion_promesas_bautismales_legionaria]]
 - [[renovación_apostólica]]
+- [[revisión_de_vida]]
 
 ### S
 
@@ -2599,6 +2620,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 
 ### A
 
+- [[antologia_delegado_pontificio]]
 - [[asambleas_generales_regnum_christi_2018]]
 
 ### C

@@ -65,6 +65,22 @@ El Capítulo General Extraordinario de 2014 abordó el gobierno, la autoridad y 
 
 **El discernimiento comunitario.** El discernimiento de la voluntad de Dios no está reservado al superior; la búsqueda de la voluntad de Dios debe llevarse a cabo en un contexto de diálogo donde el superior y la comunidad trabajen juntos [CapGral-2026, n. 16]. Sin embargo, el discernimiento comunitario no sustituye la naturaleza y el papel de la autoridad, a la cual está reservada la decisión final [CapGral-2026, n. 17-18].
 
+### Según la Antología del Delegado Pontificio (AntDp-2015)
+
+El P. Gianfranco Ghirlanda, S.J., en su conferencia «Servicio de la autoridad y obediencia en la vida religiosa» (12 de mayo de 2011, recogida en AntDp-2015, `05_tercera_parte.md:1132-1310`), ofrece una **síntesis teológico-canónica fundamental** sobre la naturaleza del servicio de la autoridad en los institutos religiosos.
+
+**Naturaleza cristológica de la autoridad.** Ghirlanda fundamenta la autoridad de los superiores religiosos en la voluntad de Cristo expresada en su mediación histórica y continuada en la Iglesia. El superior religioso, en cuanto sucesor de los Apóstoles, ejerce una autoridad que es participación de la autoridad de Cristo sobre la comunidad.
+
+**Triple función de los superiores** (cc. 617-618 CIC): enseñar, gobernar y santificar. La autoridad no se reduce al aspecto jurídico-administrativo, sino que incluye la animación espiritual de la comunidad y la formación doctrinal de los súbditos.
+
+**Distinción entre autoridad objetiva (jurídica) y autoridad moral (testimonio).** Ghirlanda, citando a San Hilario de Poitiers y a Pastores Gregis 11, 31, 43, subraya que «el testimonio de vida se convierte en un nuevo título de autoridad» (AntDp-2015, `05_tercera_parte.md:1258-1260`). La autoridad moral complementa y sostiene la autoridad objetiva.
+
+**Analogía con el gobierno episcopal.** Ghirlanda establece analogías entre los superiores religiosos y los obispos diocesanos (Pastores Gregis 11, 31, 43; Apostolorum successores 33) y con los consejos de los obispos (Mutuae relationes 13).
+
+**Aplicación al caso LC.** En el contexto de la renovación LC 2010-2014, esta síntesis doctrinal fundamentó la reforma del gobierno de la Congregación, permitiendo distinguir entre el ejercicio legítimo de la autoridad y los abusos derivados del sistema de relaciones construido por el fundador.
+
+**Relación con el discernimiento comunitario.** La autoridad está llamada a promover y discernir, no a sustituir, el discernimiento comunitario. Ghirlanda dedica una sección específica a esta relación en su conferencia «Función de los superiores. Corresponsabilidad y participación» (AntDp-2015, `05_tercera_parte.md:1653-1918`), donde expone el marco canónico del c. 127 CIC y la interpretación auténtica del 1-VIII-1985.
+
 ## Distinciones importantes
 
 - Autoridad como servicio vs. autoridad como dominio: la autoridad evangélica es esencialmente ministerial, no de poder.
@@ -107,9 +123,14 @@ La conferencia de Ghirlanda al Capítulo de 2020 ofrece una reflexión sobre el 
 
 ## Referencias
 
+- [AntDp-2015, `05_tercera_parte.md:1132-1310` (conferencia sobre servicio de la autoridad); `05_tercera_parte.md:1653-1918` (conferencia sobre corresponsabilidad y participación)]
 - [CapExt-2014, Gobierno, autoridad y obediencia, nn. 1-40]
 - [CapGral-2026, n. 93-98]
 - [CapGral-2026, «El ejercicio evangélico de la autoridad y la obediencia», n. 1-38]
 - [CapGral-2026, n. 20-24]
 - [CapGral-2026, n. 26-32]
 - [CapGral-2020, Ghirlanda, §§57, 65, 69, 73]
+- **CIC**, cc. 617-618, 127.
+- **Pastores gregis** (Juan Pablo II, 2003), nn. 11, 12, 31, 43.
+- **Apostolorum successores** (Congregación para los Obispos, 2004), n. 33.
+- **Mutuae relationes** (1978), n. 13.

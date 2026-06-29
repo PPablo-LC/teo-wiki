@@ -29,6 +29,10 @@ La Liturgia de la Palabra es parte integrante de la celebración eucarística: �
 
 No hay un tratamiento específico de la Liturgia de la Palabra en la TPCr. La oración vocal y la lectura espiritual son mencionadas como medios de oración pero no en el contexto de la liturgia eucarística.
 
+### Según Thomas O'Loughlin (Rites_wrongs-Liturgia)
+
+Thomas O'Loughlin (2017, cap. 3, Principio I — Honestidad) señala un problema concreto de la Liturgia de la Palabra: hablamos mucho de la importancia de «escuchar la Palabra del Señor» pero luego, en la práctica, «nos aseguramos de que la Liturgia de la Palabra se haga rápidamente, y tememos los momentos de silencio como si fueran meras demoras». Si lo que decimos al proclamar la Palabra es importante, las pausas, el silencio reflexivo y el tiempo para que cada bautizado haga suya la lectura deberían ser parte natural del rito. Critica la «minilectura-homilía» que se lanza inmediatamente sobre la lectura sin permitir tiempo de rumiar lo escuchado: «decir "Palabra de Dios" y al instante pasar a otra cosa no concuerda con el honor que tales lecturas demandan» (Rites_wrongs-Liturgia, cap. 3). Conecta esta incoherencia con su crítica al *clutter* litúrgico: la Liturgia de la Palabra corre el riesgo de ser percibida como trámite antes de «lo importante» (la Eucaristía), cuando en realidad ambas partes de la Misa son constitutivas.
+
 ## Distinciones importantes
 
 - Liturgia de la Palabra vs. Liturgia Eucarística (dos partes de la Misa)

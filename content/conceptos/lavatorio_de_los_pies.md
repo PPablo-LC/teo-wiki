@@ -49,6 +49,10 @@ El lavatorio de los pies es mencionado como signo de la humildad de Cristo y com
 
 La escena pascual del lavatorio de los pies deja a los suyos el modelo de servicio que deberán ejercer los unos con los otros, a la vez que Cristo se ofrece libremente como cordero inocente inmolado (PDV, Cap. II). Del encuentro con Dios nace la exigencia del servicio humilde «que Jesús ha propuesto como programa de vida en el lavatorio de los pies a los apóstoles» (PDV, Cap. V).
 
+### Según Thomas O'Loughlin (Rites_wrongs-Liturgia)
+
+Thomas O'Loughlin, en *The Rites and Wrongs of Liturgy* (2017, cap. 9, Principio VII) y en su monografía *Washing Feet: Imitating the Example of Jesus in the Liturgy Today* (Liturgical Press, 2015), desarrolla extensamente el significado del lavatorio de los pies. Subraya que cuando Jesús da el mandamiento de «hacer lo que él ha hecho» (Jn 13,15), no está proponiendo un rito arcano sino «el acto más ordinario y servil posible»: lavar los pies. En un contexto cultural donde la hospitalidad exigía que un siervo lavara los pies de los invitados (cf. Gn 18,4; Lc 7,44), Jesús asume el rol del siervo. O'Loughlin argumenta que el lavatorio de los pies es el modelo litúrgico que muestra el carácter *encarnacional* de la liturgia cristiana: Cristo no instituye un rito misterioso sino un acto humano, ordinario, que expresa el servicio y la inversión de los valores del mundo (cf. Rites_wrongs-Liturgia, cap. 9, sobre los marginados y la visión liturgico-social).
+
 ## Distinciones importantes
 
 - Lavatorio de los pies como gesto profético (signo) vs. como mandato (ética del servicio)

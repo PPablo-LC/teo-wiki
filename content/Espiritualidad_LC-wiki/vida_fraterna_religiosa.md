@@ -3,13 +3,13 @@ type: Concepto LC
 title: Vida fraterna religiosa
 tags: ["espiritualidad", "vida_consagrada"]
 
-timestamp: 2026-06-13
+timestamp: 2026-06-28
 description: "La vida fraterna en la vida religiosa es la comunidad de hermanos reunidos por Cristo, que viven juntos la oración, la vida común y la misión."
 ---
 # Vida fraterna religiosa
 
 > Área: Espiritualidad / Vida consagrada
-> Última actualización: 2026-06-13
+> Última actualización: 2026-06-28
 
 ## Definición
 
@@ -71,6 +71,24 @@ La vida fraterna se articula en tres ámbitos profundamente unidos: la vida de o
 
 La vida fraterna es un don que santifica a toda la Legión y un signo profético de comunión para la Iglesia. Del encuentro con Cristo nace la fraternidad, y de ella brota la misión [CapGral-2026, n. 84].
 
+### Según la Antología del Delegado Pontificio (AntDp-2015)
+
+El P. Gianfranco Ghirlanda, S.J., en su conferencia «Vida fraterna en común y acción apostólica» (15 de febrero de 2012, recogida en AntDp-2015, `05_tercera_parte.md:2843-3102`), ofrece una **síntesis teologal** de la vida fraterna a partir del c. 602 CIC.
+
+**Naturaleza teologal de la vida fraterna.** El c. 602 CIC establece que los religiosos han de «vivir en comunión fraterna», expresión que Ghirlanda interpreta en clave **trinitaria**: la comunión fraterna entre los religiosos es participación y reflejo de la comunión intratrinitaria. La vida fraterna no es simplemente un requisito organizativo, sino una **realidad teologal** que hace presente en la Iglesia la vida misma de Dios, uno y trino.
+
+**Estructura trinitaria de la comunión fraterna.** Ghirlanda expone cómo la comunión fraterna se fundamenta en la vida trinitaria de Dios Padre, Hijo y Espíritu Santo: el amor del Padre al Hijo en el Espíritu Santo es el modelo eterno de la comunión entre los religiosos. Los hermanos, unidos por el amor de Cristo, son signo visible de esta comunión trinitaria.
+
+**Distintos modos según institutos.** Ghirlanda distingue cuidadosamente los modos de vida fraterna según los distintos tipos de institutos: monasterios (donde la vida fraterna es estable y monástica), conventos (comunidades estables en casas religiosas), institutos seculares (que viven en el mundo), sociedades de vida apostólica (donde la vida fraterna se articula con la acción apostólica) y asociaciones (donde la comunión se realiza de modo asociativo).
+
+**Primacía de la misión sobre el lugar de la comunidad.** Ghirlanda subraya que en los institutos apostólicos, la misión configura la comunidad: la vida fraterna está al servicio de la acción apostólica y no al revés. La comunidad es, en primer lugar, «comunidad para la misión».
+
+**Integración vida consagrada-acción apostólica (c. 675 §1).** Ghirlanda aplica a los institutos apostólicos el principio del c. 675 §1: «en los institutos dedicados a las obras de apostolado, la naturaleza misma de la vida consagrada exige que la acción apostólica y la vida fraterna estén mutuamente integradas». Esta integración se realiza cuando los miembros comparten la oración, la vida común y la misión.
+
+**Dimensión contemplativa de la acción apostólica.** La integración vida fraterna-acción apostólica exige cultivar una «dimensión contemplativa» en el apostolado: el apostolado debe brotar de la oración y de la vida fraterna, no sustituirla.
+
+**Aplicación a la LC.** En el contexto de la renovación LC 2010-2014, esta síntesis doctrinal fundamentó la reforma de la vida fraterna en la Congregación, permitiendo superar las deficiencias heredadas (individualismo, autoritarismo, eficientismo) y recuperar la centralidad de la comunión fraterna como signo del Reino.
+
 ## Distinciones importantes
 
 - La vida fraterna no es mera coexistencia ni organización funcional: es compartir la vida en Cristo
@@ -95,8 +113,15 @@ El comunicado capitular de 2020 aborda la vida fraterna en dos registros complem
 
 **Vida fraterna en comunidad (§103).** En la sección sobre formación permanente, se recuerda que «la vida fraterna en común tiene un papel esencial en el desarrollo de la formación permanente. La comunidad, reunida en torno a la Eucaristía, vive el misterio de la comunión en sus dos dimensiones: el amor a Dios y a los hermanos» [CapGral-2020, §103, citando CLC 52]. Se advierte contra deficiencias como el individualismo, la tendencia a dejarse absorber por el ministerio y la reducción de la vida común a una mera obligación disciplinar.
 
+### Según el Encuentro con Cristo en el Regnum Christi (RC-EcC-2022)
+
+El [[encuentro_con_cristo|Encuentro con Cristo]] es un acto eclesial y comunitario que presupone y alimenta la fraternidad cristiana. El presupuesto básico para su aprovechamiento es que «las personas reunidas cultiven una amistad cristiana entre sí, por la que tengan la necesaria benevolencia y confianza recíproca para escucharse y expresarse con sinceridad, libertad y caridad». La actividad misma, vivida «en un clima cordial, distendido y alegre», ha de favorecer y alimentar esta amistad que es concreción de la fraternidad cristiana en el Regnum Christi [RC-EcC-2022, Parte III, «Fraternidad cristiana»].
+
+La dimensión comunitaria del encuentro se fundamenta en la experiencia de los discípulos de Emaús (Lc 24,13-35): juntos tuvieron el corazón ardiente, juntos escucharon la Palabra, y juntos fueron enviados. Reunirse en torno a la Palabra de Dios es «un acto eclesial, pues Jesucristo es la cabeza de la Iglesia como cuerpo constituido por una multitud de miembros» [RC-EcC-2022, Parte II, «La dimensión comunitaria del encuentro con Cristo»].
+
 ## Referencias
 
+- [AntDp-2015, `05_tercera_parte.md:2843-3102` (conferencia del P. Ghirlanda sobre vida fraterna en común y acción apostólica)]
 - [CapExt-2014, Vida fraterna, nn. 1-39]
 - [CapGral-2026, nn. 73-84]
 - [CapGral-2020, §§47-50 (unidad en diversidad)]
@@ -105,3 +130,5 @@ El comunicado capitular de 2020 aborda la vida fraterna en dos registros complem
 - [CVV, 99, 112, 250, 570-574]
 - [VFC, 10, 12-15, 38]
 - [Mt 18,20; Jn 13,35; Jn 20,19; Mc 6,31]
+- **CIC**, cc. 602, 675 §1.
+- [RC-EcC-2022, Parte II, «La dimensión comunitaria del encuentro con Cristo»; Parte III, «Fraternidad cristiana»]

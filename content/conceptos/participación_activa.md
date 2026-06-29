@@ -39,6 +39,10 @@ Precisa que participación activa no quiere decir «una simple actividad externa
 
 El silencio también forma parte de la participación activa: «quienes se asocian al sacerdote en la fe y con el silencio» [GLit-2024, n. 51, citando RS 54].
 
+### Según Thomas O'Loughlin (Rites_wrongs-Liturgia)
+
+En *The Rites and Wrongs of Liturgy* (2017), Thomas O'Loughlin dedica el capítulo 6 al Principio IV: «La buena liturgia facilita el compromiso» (Princ. IV). Argumenta que la participación activa va más allá de la mera «asistencia» o el «escuchar misa» del modelo pre-conciliar: la liturgia es la obra del pueblo de Dios en la que «cada uno cumple su oficio haciendo todo y solo aquello que le corresponde» (cf. SC 28). Subraya que el compromiso no es solo intelectual sino «corporal, sensorial, emocional»: «engaging most with that which engages us through the senses» (Rites_wrongs-Liturgia, cap. 6, citando implícitamente a Aristóteles, *De Anima*). Refiriéndose al compromiso sensorial del pueblo en un partido de fútbol — saltar, cantar, animar — sugiere que el compromiso litúrgico debe ser análogo. O'Loughlin conecta la participación activa con la pluralidad de dones del Espíritu (cf. 1 Cor 12,4-11): cada persona aporta algo al conjunto. Concluye que «el objetivo de quien preside es pasar del interés por la asistencia a la actualización de la participación, al empoderamiento» (*from interest in attendance to actualizing participation, to facilitating empowerment*).
+
 ## Relaciones doctrinales
 
 Se relaciona con la [[liturgia]], la [[renovación_litúrgica]], el [[sacerdocio_común]] de los fieles, y la [[educación_litúrgica]].

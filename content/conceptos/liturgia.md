@@ -51,6 +51,10 @@ La Guía de Liturgia de la Legión de Cristo recoge que la oración en común ha
 
 **Pío XII** — Encíclica *Mediator Dei* (1947, D‑2297–D‑2300): Definió la sagrada Liturgia como el culto público íntegro del Cuerpo místico de Jesucristo, es decir, de la Cabeza y de sus miembros. En toda acción litúrgica está presente Cristo: en el sacrificio del altar, en los sacramentos por su virtud, y en las alabanzas y súplicas. Rechazó la oposición entre vida ascética y piedad litúrgica. Reafirmó que el sacerdote solo representa a la Iglesia porque representa la persona de Cristo, y que los fieles participan del sacrificio eucarístico pero no gozan de dignidad sacerdotal.
 
+### Según Thomas O'Loughlin (Rites_wrongs-Liturgia)
+
+Thomas O'Loughlin, en *The Rites and Wrongs of Liturgy: Why Good Liturgy Matters* (2017), evalúa la liturgia a partir de un marco de diez principios interrelacionados [[diez_principios_de_buena_liturgia]]. Su tesis es que «la buena celebración fomenta y alimenta la fe; la celebración pobre la debilita y la destruye» (Rites_wrongs-Liturgia, cap. 1). Critica los criterios meramente externos de evaluación litúrgica — cumplimiento de rúbricas, belleza estética, precedente histórico, satisfacción individual — y propone una evaluación que atienda a la coherencia entre palabra y gesto (Princ. I), el tono de alegría cristiana (Princ. II), la construcción de la *communitas* (Princ. III), el compromiso activo de los fieles (Princ. IV), la inclusividad (Princ. V), el vínculo con la creación (Princ. VI), la opción por los marginados (Princ. VII), la sobriedad ritual (Princ. VIII), la lógica de la Encarnación (Princ. IX) y la apertura a la trascendencia divina (Princ. X). Subraya que la liturgia cristiana se distingue por su carácter encarnacional: «si Dios ha plantado su tienda entre nosotros» (Jn 1,14), entonces la materia, el cuerpo, la comida y el gesto humano son lugares de encuentro con Dios. Por eso, la celebración debe girar visiblemente en torno a una mesa compartida, no a un altar aislado.
+
 ## Ver también
 
 [[sacramentos]], [[eucaristía]], [[oración_litúrgica]], [[iglesia_cuerpo_místico]], [[sacramentales]]

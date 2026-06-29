@@ -103,6 +103,22 @@ El P. Gianfranco Ghirlanda S.J., en su intervención ante la Asamblea General de
 
 **Aportación de las Consagradas.** Las Consagradas, en su comunicación, expresaron que el camino de la Asamblea les ha permitido «una toma de conciencia de nuestra identidad y de nuestro lugar en el Regnum Christi», reconociendo que «el Regnum Christi, en sus cuatro vocaciones, somos uno» [Asambleas-RC-2018, archivo 22, §10]. Destacaron la circularidad en la misión: «La Legión necesita de las Consagradas y de los Laicos Consagrados para la misión, y las Consagradas y los Laicos Consagrados necesitan de la Legión» [Asambleas-RC-2018, archivo 24, §12].
 
+### Según la Antología del Delegado Pontificio (AntDp-2015)
+
+El P. Gianfranco Ghirlanda, S.J., en su conferencia «Carisma del instituto y derecho propio» (31 de marzo de 2011, recogida en AntDp-2015, `05_tercera_parte.md:315-668`), ofrece la **distinción teológica fundamental** que ha articulado todo el proceso de renovación: la distinción entre **carisma personal del fundador** y **carisma colectivo de fundación**.
+
+**Carisma personal del fundador.** Es el don carismático personal («gratia gratis data») que Dios concede al fundador para fundar la obra. Este carisma no se comparte con los demás miembros del instituto y depende de la persona del fundador.
+
+**Carisma colectivo de fundación.** Es el don carismático que permanece en el instituto independientemente de la conducta personal del fundador. La LC es una obra aprobada por la Iglesia y, por tanto, es obra de Dios al servicio de su Reino. Aplicando esta distinción, el Card. De Paolis afirma que «las responsabilidades del fundador no pueden ser transferidas simplemente a la misma Legión de Cristo» (AntDp-2015, `02_introduccion.md:24`).
+
+**El Comunicado de la Santa Sede del 1 de mayo de 2010** (AntDp-2015, `03_primera_parte.md:23-69`) identifica el núcleo verdadero del carisma de la LC en la **militia Christi**: «la necesidad de redefinir el carisma de la Congregación de los Legionarios de Cristo, preservando el núcleo verdadero, el de la militia Christi, que caracteriza la actividad apostólica y misionera de la Iglesia y que no se identifica con la búsqueda de la eficiencia a toda costa».
+
+**Aplicación al caso Maciel.** Ghirlanda aplica al caso la distinción teológica entre la gratia gratis data (los dones carismáticos) y la gratum faciens (el estado de gracia del fundador). La conducta inmoral del fundador afecta a su estado personal, pero no anula el carisma del instituto, que es obra del Espíritu Santo.
+
+**Criterios de discernimiento carismático.** Ghirlanda subraya que la revisión del carisma no es solo jurídica, sino profundamente espiritual: «la revisión del carisma, en efecto, es un camino de discernimiento espiritual, en el cual se trata de captar la voluntad de Dios en las circunstancias actuales, en las que el instituto vive» (AntDp-2015, `05_tercera_parte.md:454-460`).
+
+**Distinción con los excesos.** El P. Ghirlanda distingue entre el carisma genuino y los posibles excesos históricos (eficientismo, individualismo, clericalismo, autoritarismo) que no pertenecen al núcleo del carisma sino a deformaciones históricas corregibles. La renovación LC 2010-2014 fue precisamente una operación de **purificación carismática**, no de sustitución.
+
 ## Distinciones importantes
 
 - El carisma es un don recibido, no una conquista: los religiosos son custodios, no dueños
@@ -110,6 +126,7 @@ El P. Gianfranco Ghirlanda S.J., en su intervención ante la Asamblea General de
 - La purificación del carisma no es un paréntesis sino parte constitutiva de su fecundidad
 - El carisma pertenece a la Iglesia, no al instituto; se vive en comunión eclesial
 - Fidelidad creativa: custodiar lo esencial abriéndose a las novedades del Espíritu
+- **Carisma personal vs. carisma colectivo**: la conducta del fundador no anula el carisma del instituto
 
 ## Relaciones doctrinales
 
@@ -131,6 +148,7 @@ La conferencia del P. Gianfranco Ghirlanda S.J. al Capítulo General de 2020 [Ca
 
 ## Referencias
 
+- [AntDp-2015, `02_introduccion.md`; `03_primera_parte.md:23-69` (Comunicado del 1-V-2010); `05_tercera_parte.md:315-668` (conferencia del P. Ghirlanda sobre carisma)]
 - [CapExt-2014, Identidad carismática, nn. 1-13]
 - [CapGral-2026, nn. 1-5 (discurso del Papa), 36-40 (prefacio)]
 - [CapGral-2020, Ghirlanda, §§45, 101-105]

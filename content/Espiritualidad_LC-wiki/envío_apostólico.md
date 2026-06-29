@@ -3,13 +3,13 @@ type: Concepto LC
 title: Envío apostólico
 tags: ["espiritualidad", "eclesiología"]
 
-timestamp: 2026-06-10
+timestamp: 2026-06-28
 description: "El envío apostólico es la dimensión misionera constitutiva de toda comunidad del Regnum Christi."
 ---
 # Envío apostólico
 
 > Área: Espiritualidad / Eclesiología
-> Última actualización: 2026-06-10
+> Última actualización: 2026-06-28
 
 ## Definición
 
@@ -36,6 +36,12 @@ El envío apostólico brota de la experiencia del amor de Cristo y de la comuni�
 **Opciones misioneras valientes.** Las comunidades están llamadas a superar el encierro y el temor, a leer los signos de los tiempos y transformarlos en signos de esperanza, desarrollando nuevas propuestas misioneras [RC-Inst_12, Parte II, §II, Comunidades que hacen opciones misioneras valientes y radicales].
 
 **Generar nuevas comunidades.** Las comunidades de apóstoles engendran nuevas comunidades de apóstoles, multiplicando la misión en un dinamismo de caridad apostólica. «Cada apóstol se convierte en formador de otros apóstoles» [RC-Inst_12, Parte II, §II, Comunidades de apóstoles que forman nuevas comunidades de apóstoles].
+
+### Según el Encuentro con Cristo en el Regnum Christi (RC-EcC-2022)
+
+El [[encuentro_con_cristo|Encuentro con Cristo]] es el momento en que la comunidad de apóstoles recibe su envío. El discernimiento apostólico que se realiza en el Encuentro desemboca naturalmente en el compromiso apostólico, concretando la respuesta de la comunidad a la invitación del Señor. «Nuestro papel consiste en apoyar y promover la acción de Dios en los corazones, según la realidad que evoluciona continuamente» [RC-EcC-2022, Parte III, «Actuar y compromiso apostólico», citando a Francisco].
+
+La misión brota de la experiencia del encuentro con Cristo en la Palabra: como los discípulos de Emaús, la comunidad escucha, discierne y es enviada. El envío no es meramente individual sino comunitario: «mediante un consenso o mediante votación, los participantes pueden determinar el actuar o los actuares a los que se sienten llamados individual o colectivamente». El compromiso apostólico permite «testimoniar y difundir la buena nueva de un Dios que actúa la salvación del mundo y nos pide colaborar con Él» [RC-EcC-2022, Parte III, «Actuar y compromiso apostólico»].
 
 ### Elementos fundamentales de la misión apostólica
 
@@ -66,3 +72,4 @@ Se relaciona con [[misión]], [[evangelización]], [[apóstol]], [[discípulo]],
 - [RC-Inst_12, Parte II, §II, Comunidades que hacen opciones misioneras valientes]
 - [RC-Inst_12, Parte II, §II, Comunidades que comparten una misión]
 - [RC-Inst_12, Parte II, §II, Comunidades de apóstoles que forman nuevas comunidades]
+- [RC-EcC-2022, Parte III, «Actuar y compromiso apostólico»]

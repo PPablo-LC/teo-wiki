@@ -47,6 +47,18 @@ CVV-2017 vincula la militia Christi con la figura del «buen soldado de Jesucris
 
 **Deseo de perseverancia y entrega.** La militia Christi no es activismo ni triunfalismo. Es una perseverancia que «no es nada más aguantar: es permanecer por amor» [CapGral-2026, Homilía conclusiva]. Se concreta en la disponibilidad del que vive «como soldado raso» [CapGral-2026, n. 71, Compendio], sin buscar protagonismo, pero con total entrega a la misión recibida.
 
+### Según la Antología del Delegado Pontificio (AntDp-2015)
+
+El Comunicado de la Santa Sede del 1 de mayo de 2010 (AntDp-2015, `03_primera_parte.md:23-69`), reproducido íntegramente en la primera parte de la Antología, identifica el **núcleo verdadero del carisma de la Legión** en la militia Christi:
+
+> «la necesidad de redefinir el carisma de la Congregación de los Legionarios de Cristo, preservando el núcleo verdadero, el de la militia Christi, que caracteriza la actividad apostólica y misionera de la Iglesia y que no se identifica con la búsqueda de la eficiencia a toda costa».
+
+El Card. De Paolis recoge y explica esta definición en su primera carta a los legionarios (10 de julio de 2010, AntDp-2015, `03_primera_parte.md:144-184`), subrayando que la militia Christi «caracteriza la acción apostólica y misionera de la Iglesia y que no se identifica con la eficiencia a toda costa».
+
+En su carta del 19 de octubre de 2010 (AntDp-2015, `03_primera_parte.md:233-349`), el Card. De Paolis explica que la sociedad secularizada «tiene necesidad de personas que puedan asumir la responsabilidad de la sociedad del mañana, que se formen en las escuelas y en las universidades, de sacerdotes, personas consagradas y laicos comprometidos, bien formados, de apóstoles de la nueva evangelización». La militia Christi se realiza, por tanto, en el servicio evangelizador y formativo de la Legión.
+
+La militia Christi, según la síntesis de la Antología, no es un «activismo» ni un «militarismo», sino un servicio apostólico decidido y constante al Reino de Cristo.
+
 ## Distinciones importantes
 
 - Militia Christi evangélica vs. militancia mundana: la primera es servicio humilde; la segunda, búsqueda de poder.
@@ -70,6 +82,8 @@ Se relaciona con [[cristocentrismo_legionario]], [[cristo]], [[espíritu_santo]]
 [[cristocentrismo_legionario]], [[cristo]], [[vida_consagrada]], [[espíritu_santo]], [[conversión]]
 
 ## Referencias
+
+- [AntDp-2015, `03_primera_parte.md:23-69` (Comunicado del 1-V-2010); `03_primera_parte.md:144-184` (primera carta del Card. De Paolis); `03_primera_parte.md:233-349` (carta del 19-X-2010)]
 
 - [CVV-2017, 108-109]
 - [CapGral-2026, n. 58]

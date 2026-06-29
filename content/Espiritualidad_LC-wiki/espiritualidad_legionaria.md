@@ -3,13 +3,13 @@ type: Concepto LC
 title: Espiritualidad legionaria
 tags: ["espiritualidad", "vida_consagrada"]
 
-timestamp: 2026-06-13
+timestamp: 2026-06-28
 description: "La espiritualidad legionaria es el conjunto de principios, virtudes, prácticas y devociones que configuran la vida espiritual del legionario de Cristo."
 ---
 # Espiritualidad legionaria
 
 > Área: Espiritualidad / Vida Consagrada
-> Última actualización: 2026-06-13
+> Última actualización: 2026-06-28
 
 ## Definición
 
@@ -50,6 +50,24 @@ La espiritualidad legionaria no es solo cristocéntrica individualmente: es una 
 
 Los centros vocacionales proponen a los alumnos la vivencia de los cinco amores de la Legión y del Regnum Christi como respuesta al amor de Dios: el amor a Cristo, el amor filial a la Santísima Virgen María, el amor a la Iglesia y al papa, el amor a los hombres, y el amor a la Legión de Cristo y a la familia del Regnum Christi, que en el centro vocacional se traduce de modo especial en el amor a la propia comunidad [Habl_Sñr-2018, §17]. Estos cinco amores constituyen una síntesis orgánica de la espiritualidad legionaria, ofreciendo a los adolescentes un camino concreto de configuración con Cristo y de respuesta amorosa a Dios.
 
+### Según la Antología del Delegado Pontificio (AntDp-2015)
+
+La espiritualidad legionaria es presentada en la Antología a través de las homilías y reflexiones del Card. De Paolis, quien expone sus fuentes y elementos constitutivos.
+
+**Cristo Rey como centro.** En su homilía de la Solemnidad de Cristo Rey (11 de noviembre de 2012, AntDp-2015, `04_segunda_parte.md:920-1001`), el Card. De Paolis expone cómo Cristo Rey, en su realeza de servicio desde la cruz, es el centro de la espiritualidad legionaria. La realeza de Cristo, instituida por Pío XI en *Quas Primas* (1925), es respuesta a la secularización.
+
+**Lema «Instaurare omnia in Christo».** En la «Reflexión sobre el carisma del Regnum Christi» (21 de septiembre de 2012, AntDp-2015, `04_segunda_parte.md:786-918`), el Card. De Paolis presenta el lema paulino *Instaurare omnia in Christo* (Ef 1, 10) — lema de San Pío X — como síntesis de la espiritualidad legionaria.
+
+**Fuentes de la espiritualidad.** El Card. De Paolis identifica las fuentes de la espiritualidad legionaria en:
+- La **Eucaristía**, centro de la vida del legionario.
+- La **Virgen María**, especialmente el Rosario.
+- La **comunión de los santos**, en particular San Pablo Apóstol (modelo de evangelizador).
+- **San Miguel Arcángel**, protector y guía en la lucha espiritual.
+
+**Doctrina del Espíritu Santo.** En la homilía del 7 de octubre de 2010 en el Ateneo Pontificio Regina Apostolorum (AntDp-2015, `04_segunda_parte.md:64-141`), el Card. De Paolis expone cómo la secularización contemporánea exige recuperar la doctrina del Espíritu Santo como «luz de la verdad» (cf. *Fides et ratio*).
+
+**Conversión del corazón.** En el encuentro con los directores territoriales del 17 de septiembre de 2012 (AntDp-2015, `04_segunda_parte.md:510-700`), el Card. De Paolis aplica a la espiritualidad legionaria la exigencia de «ubi origo ibi salus»: volver al origen carismático para encontrar la salvación y la renovación.
+
 ## Distinciones importantes
 
 - Espiritualidad legionaria (carisma particular de la Legión de Cristo) vs. espiritualidad católica universal (fundamento común a todos los fieles)
@@ -77,10 +95,18 @@ f. asumir que todo legionario, independientemente de su actividad concreta, cola
 
 El Capítulo también desarrolla la misión de la Legión en la Iglesia (§§77-84), articulando las preguntas fundamentales: por qué existe la Legión (dar gloria a Dios y buscar que Cristo reine), cómo logra su propósito (formar apóstoles haciendo presente el misterio de Cristo que reúne, revela, forma y envía), y qué acciones lleva a cabo (promover la vocación bautismal, establecer instituciones, ejercer el ministerio pastoral). Esta articulación complementa la espiritualidad legionaria con una clara orientación misionera.
 
+### Según el Encuentro con Cristo en el Regnum Christi (RC-EcC-2022)
+
+El ensayo sobre el [[encuentro_con_cristo|Encuentro con Cristo]] en el Regnum Christi añade una dimensión concreta a la espiritualidad legionaria compartida: la práctica del Encuentro con Cristo como actividad de equipo en la que se integran orgánicamente los cinco elementos de la vida del miembro del RC (vida espiritual, formación, apostolado, acompañamiento y vida de equipo). El Encuentro con Cristo es presentado como «el eje de la vida de equipo» (RFA 15), un medio que «nos hace contemplativos y evangelizadores, pues en él miramos a Jesús presente en su Palabra y también en nuestro corazón, en el prójimo y en el mundo» [RC-EcC-2022, Parte I].
+
+La teología subyacente —Dios como Amigo del hombre que sale al encuentro— profundiza la experiencia cristocéntrica de la espiritualidad legionaria, mientras que la metodología de la [[revisión_de_vida]] (ver, juzgar, actuar) ofrece un cauce concreto para el discernimiento comunitario de la misión y la vida cristiana en medio del mundo [RC-EcC-2022, Parte II-III].
+
 ## Referencias
 
+- [AntDp-2015, `04_segunda_parte.md:64-141, 510-700, 786-918, 920-1001` (homilías y reflexiones del Card. De Paolis)]
 - [CLC-2020 8-17]
 - [CapGral-2026, n. 50-71]
 - [CapGral-2020, §76 (actitudes del apóstol), §§77-84 (misión de la Legión)]
 - [FRC-2019, EFRC 6-30]
 - [Habl_Sñr-2018, §17]
+- [RC-EcC-2022, Parte I-III]

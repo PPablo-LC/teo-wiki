@@ -3,13 +3,13 @@ type: Concepto LC
 title: Comunidad de apóstoles
 tags: ["espiritualidad", "eclesiología"]
 
-timestamp: 2026-06-10
+timestamp: 2026-06-28
 description: "Una comunidad de apóstoles es un grupo de discípulos convocados por Cristo, reunidos en torno a Él, configurados con su estilo de vida y enviados en misión para hacer presente su Reino en el mundo."
 ---
 # Comunidad de apóstoles
 
 > Área: Espiritualidad / Eclesiología
-> Última actualización: 2026-06-10
+> Última actualización: 2026-06-28
 
 ## Definición
 
@@ -43,6 +43,12 @@ La comunidad nace de la iniciativa de Cristo, que llama personalmente a cada uno
 
 La localidad es definida como «comunidad de apóstoles y una unidad operativa de la Federación al servicio de la evangelización» (EFRC, n. 54, 1), expresión de la comunidad de apóstoles en un territorio. Cf. [[federación_regnum_christi]].
 
+### Según el Encuentro con Cristo en el Regnum Christi (RC-EcC-2022)
+
+El [[encuentro_con_cristo|Encuentro con Cristo]] es la actividad de equipo donde la comunidad de apóstoles se reúne en torno a Cristo presente en su Palabra, discierne su misión y se anima mutuamente en el seguimiento. El ensayo subraya que el Encuentro «nos hace contemplativos y evangelizadores», integrando los cinco elementos de la vida del miembro del RC. La fraternidad cristiana es presentada como presupuesto básico: los miembros han de cultivar una amistad cristiana con «la necesaria benevolencia y confianza recíproca para escucharse y expresarse con sinceridad, libertad y caridad» [RC-EcC-2022, Parte III, «Fraternidad cristiana»].
+
+El Encuentro ayuda a generar «una comunidad de apóstoles que se dona a la Iglesia y al mundo como testimonio operante de la novedad de vida que Cristo ha traído y el Espíritu actúa». La misión comunitaria es el horizonte que enmarca la vida cotidiana y apostólica de los miembros, y el Encuentro es el cauce para discernir colectivamente cómo secundar la acción de Dios [RC-EcC-2022, Parte III, «Misión comunitaria»].
+
 ## Distinciones importantes
 
 - Comunidad de apóstoles ≠ grupo de interés u ONG: lo que une es el carisma común y la llamada de Cristo
@@ -74,3 +80,4 @@ Se relaciona con [[cristocentrismo_legionario]], [[envío_apostólico]], [[caris
 - [RC-Inst_12, Parte II, §III, Familia espiritual y cuerpo apostólico]
 - [RC-Inst_12, Parte II, §III, Las comunidades que surgen en el Regnum Christi]
 - [EFRC, n. 54, 1]
+- [RC-EcC-2022, Parte III, «Fraternidad cristiana», «Misión comunitaria»]

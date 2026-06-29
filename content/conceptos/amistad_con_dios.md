@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Amistad con Dios
 tags: ["dogmática", "ascética"]
 
-timestamp: 2026-06-03
+timestamp: 2026-06-28
 description: "Relación sobrenatural entre Dios y el hombre fundada en la gracia santificante, por la cual el alma es elevada al orden divino y establecida en una comunión de vida y amor con Dios."
 ---
 # Amistad con Dios
 
 > Área: Dogmática / Ascética
-> Última actualización: 2026-06-03
+> Última actualización: 2026-06-28
 
 ## Definición
 
@@ -33,6 +33,10 @@ La caridad es amor de amistad con Dios, que añade al simple amor la corresponde
 
 El pecado grave rompe la amistad con Dios; el pecado venial la enfría (PS §11). La contrición imperfecta (atrición) supone algún grado de amor para recuperar la amistad con Dios (PS §12).
 
+### Según el Encuentro con Cristo en el Regnum Christi (RC-EcC-2022)
+
+El ensayo desarrolla la teología de «Dios, Amigo del hombre» (Parte II) desde la revelación bíblica. Dios es el Dios de los vivos, que habla y establece relación: su nombre es «Estaré contigo» (Ex 3,12), y su plenitud es «Emmanuel, Dios-con-nosotros» (Mt 1,23). El hombre es creado como interlocutor de Dios, llamado a la escucha: «Escucha Israel» (Dt 6,4). Dios es presentado como el buscador incansable del hombre —el padre del hijo pródigo, el buen pastor, la mujer de la moneda (Lc 15)— cuyo corazón está inquieto mientras no mora en cada persona (cf. Jn 14,23). Jesucristo es la Palabra última del Padre (Heb 1,1-3), el Amigo que llama a la puerta (Ap 3,20) y que sale al encuentro de cada persona en la Escritura y en los acontecimientos de la vida. Esta amistad se vive comunitariamente en el [[encuentro_con_cristo|Encuentro con Cristo]] [RC-EcC-2022, Parte II].
+
 ## Distinciones importantes
 
 - **Amistad con Dios por gracia vs. amistad por gloria**: aquí comienza por la gracia, en el cielo se consuma por la visión beatífica
@@ -53,3 +57,4 @@ Se relaciona con [[gracia_santificante]], [[caridad]], [[virtud_de_la_caridad]],
 - [TPCr, Tercera Parte, Libro II, Cap. III]
 - [PS, §11, §12]
 - [SmTh I-II q.65 a.5]
+- [RC-EcC-2022, Parte II, «Dios, Amigo del hombre», «El hombre, amigo de Dios»]

@@ -59,6 +59,18 @@ El miembro laico concibe la vida espiritual como el desarrollo progresivo de la 
 
 El equipo es el ámbito natural donde crece y se desarrolla su vida en el Regnum Christi. El Encuentro con Cristo es el eje de la vida de equipo: los miembros laicos, como comunidad de fe y a la luz de la Palabra de Dios, examinan su vida cristiana, disciernen lo que el Señor espera de ellos y se animan en el propio seguimiento de Cristo [FRC-2019, RFA 14-15].
 
+### Según la Antología del Delegado Pontificio (AntDp-2015)
+
+El P. Gianfranco Ghirlanda, S.J., en su conferencia «Las asociaciones de los fieles» (15 de febrero de 2012, AntDp-2015, `05_tercera_parte.md:2082-2341`), ofrece el marco canónico que fundamentó la configuración de los laicos del RC como fieles asociados.
+
+**Naturaleza de los laicos del RC.** Ghirlanda describe los fieles asociados como laicos que, en su condición secular, participan del carisma y misión del RC sin asumir los consejos evangélicos mediante votos o promesas. Su pertenencia al RC se realiza mediante un vínculo asociativo.
+
+**Modalidades de participación laical.** Ghirlanda analiza las modalidades posibles de participación laical en el carisma de un instituto religioso (cc. 303, 311, 312 §2; cf. AntDp-2015, `05_tercera_parte.md:2576-2841`): Tercera Orden formal (c. 303), asociación simplemente unida al instituto (c. 311), asociación pública con privilegio apostólico (c. 312 §2), asociación privada con personalidad jurídica propia (cc. 298-329).
+
+**Estatuto de los laicos del RC.** El proceso 2010-2014 culminó con la aprobación de los Estatutos de los laicos del RC por el Card. De Paolis (cf. AntDp-2015, `02_introduccion.md:198-204`), que estableció su condición como «asociación privada de fieles» con su correspondiente Reglamento.
+
+**Asamblea General del RC (2013).** En la asamblea general de los laicos del RC (cf. AntDp-2015, `02_introduccion.md:217-224`), se les invitó a participar más directamente en el proceso de renovación del Movimiento, elaborando un texto que reflejase su identidad y manera de vivir el carisma.
+
 ## Distinciones importantes
 
 - Fieles asociados (laicos sin vínculo sagrado) vs. consagrados del Regnum Christi (con vínculo sagrado mediante consejos evangélicos)
@@ -75,6 +87,7 @@ Se relaciona con [[federación_regnum_christi]], [[ecyd]], [[apostolado_seglar]]
 
 ## Referencias
 
+- [AntDp-2015, `02_introduccion.md:198-204, 217-224`; `05_tercera_parte.md:2082-2341` (conferencia del P. Ghirlanda sobre asociaciones de fieles); `05_tercera_parte.md:2576-2841` (conferencia sobre participación laical)]
 - [CapExt-2018, nn. 16, 19, 24-25]
 - [FRC-2019, EFRC 1-5, 33-48]
 - [FRC-2019, RFA 1-15]

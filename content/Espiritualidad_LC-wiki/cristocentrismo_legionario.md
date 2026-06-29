@@ -73,6 +73,22 @@ Las comunidades del Regnum Christi «no sean simplemente grupos humanos con inte
 
 En los centros vocacionales, el cristocentrismo es el elemento fundamental de la espiritualidad. Los formadores presentan a los alumnos una experiencia viva de la persona de Jesucristo, que quiere compartir su vida con cada uno de ellos y ser su mejor Amigo [Habl_Sñr-2018, §14]. Los alumnos son animados a buscarle constantemente en la Eucaristía y en el prójimo, a conocerle cada vez más en el Evangelio, y a dejarse comprometer por su amor que les acogerá siempre como son, con misericordia y bondad. Jesucristo invita a los alumnos a una amistad más cercana con Él, a buscar que Cristo reine en sus corazones, en el de todos los hombres y en el mundo entero (Reino de Cristo) [Habl_Sñr-2018, §15]. Como respuesta al amor de Dios, los alumnos viven los cinco amores de la Legión y del Regnum Christi: amor a Cristo, amor filial a la Santísima Virgen María, amor a la Iglesia y al papa, amor a los hombres, y amor a la Legión de Cristo y al Regnum Christi [Habl_Sñr-2018, §17].
 
+### Según la Antología del Delegado Pontificio (AntDp-2015)
+
+La Antología desarrolla abundantemente el cristocentrismo legionario en clave cristológica, soteriológica y mariana.
+
+**Cristo Rey, centro del cristocentrismo legionario.** En su homilía de la Solemnidad de Cristo Rey (11 de noviembre de 2012, AntDp-2015, `04_segunda_parte.md:920-1001`), el Card. De Paolis expone la realeza de Cristo como fundamento de toda la espiritualidad legionaria. La realeza de Cristo, instituida por Pío XI en *Quas Primas* (1925) en contexto de secularización, es realeza de servicio: «Regnavit a ligno Deus».
+
+**Cristología del sacerdocio.** En las homilías de ordenación sacerdotal (24 de diciembre de 2010, AntDp-2015, `04_segunda_parte.md:141-230`; 15 de diciembre de 2012, AntDp-2015, `04_segunda_parte.md:1003-1050`; 14 de diciembre de 2013, AntDp-2015, `04_segunda_parte.md:1253-1308`), el Card. De Paolis articula la teología del sacerdocio ministerial «in persona Christi»: el sacerdote es configurado ontológicamente con Cristo Sumo y Eterno Sacerdote (cf. Hb 5-9).
+
+**Cristología de los consejos evangélicos.** En la síntesis del P. Ghirlanda (AntDp-2015, `05_tercera_parte.md:1378-1400`), la unidad de los consejos evangélicos se fundamenta en Cristo: castidad, pobreza y obediencia son expresión del amor trinitario en Cristo. Jesús «no podía sino ser virgen, pobre y obediente».
+
+**Cristología del bautismo y de la consagración.** En la conferencia del P. Ghirlanda sobre los consejos evangélicos en la vida laical (AntDp-2015, `05_tercera_parte.md:2343-2574`), se desarrolla cómo la consagración bautismal participa de la consagración originaria de Cristo en la Encarnación (Lc 4, 18-19): la humanidad de Cristo es la «realidad creatural sumo y primario consagrada a Dios».
+
+**Cristología del carisma.** En la conferencia del P. Ghirlanda sobre el carisma del instituto (AntDp-2015, `05_tercera_parte.md:407-460`), se expone cómo el carisma de la LC es participación del misterio de Cristo Rey que reúne a los apóstoles, los forma y los envía para instaurar su Reino.
+
+**Cristología del Regnum Christi.** En la «Reflexión sobre el carisma del Regnum Christi» (21 de septiembre de 2012, AntDp-2015, `04_segunda_parte.md:786-918`), el Card. De Paolis articula el lema paulino *Instaurare omnia in Christo* (Ef 1, 10) como síntesis del cristocentrismo del RC.
+
 ## Distinciones importantes
 
 - El cristocentrismo legionario no es una abstracción teológica, sino una actitud vital concreta
@@ -100,6 +116,7 @@ El Comunicado Capitular de 2020 dedica su sección inicial de la Parte 2 al cris
 
 ## Referencias
 
+- [AntDp-2015, `04_segunda_parte.md:141-230, 786-918, 920-1001, 1003-1050, 1253-1308`; `05_tercera_parte.md:407-595, 1378-1400, 2343-2574`]
 - [CVV-2017, 1-56 (Capítulo I: Fundamentos cristocéntricos)]
 - [CapGral-2026, n. 13, 49-55]
 - [CapGral-2020, §§34-35]

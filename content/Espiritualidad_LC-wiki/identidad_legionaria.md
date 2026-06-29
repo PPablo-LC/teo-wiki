@@ -113,6 +113,18 @@ El Capítulo General de 2020 dedicó una sección amplia a la identidad legionar
 
 El legionario está llamado a centrar toda su existencia en Cristo (CLC-2020 3), a vivir los consejos evangélicos como configuración con Cristo pobre, casto y obediente (CLC-2020 8), y a participar en la misión de Cristo que reúne, revela, forma y envía (CLC-2020 4).
 
+### Según la Antología del Delegado Pontificio (AntDp-2015)
+
+La identidad legionaria fue objeto de profunda reflexión durante el proceso 2010-2014. El Card. De Paolis, en su primera carta a los legionarios (10 de julio de 2010, AntDp-2015, `03_primera_parte.md:144-184`), subraya que «la revisión y renovación, en la que todos los miembros de la Legión de Cristo participarán, ha de estar basada en una sólida vida de oración y en la búsqueda de la santidad por el seguimiento más fiel de Jesucristo».
+
+**Continuidad carismática.** En su carta del 19 de octubre de 2010 (AntDp-2015, `03_primera_parte.md:233-349`), el Card. De Paolis identifica el núcleo de la identidad legionaria en la militia Christi (cf. Comunicado del 1-V-2010), no en la eficiencia.
+
+**Naturaleza cristológica.** En la síntesis teológica del P. Ghirlanda (AntDp-2015, `05_tercera_parte.md:407-595`), la identidad legionaria se articula en torno a la configuración con Cristo pobre, casto y obediente, según el modelo de *Vita consecrata* 16.
+
+**Dimensión apostólica.** En la «Conferencia introductoria para los miembros consagrados del Regnum Christi» del 24 de enero de 2012 (AntDp-2015, `04_segunda_parte.md:234-391`), el Card. De Paolis expone cómo la identidad legionaria se vive en comunión con las demás vocaciones del RC.
+
+**Carácter propio.** La Antología recoge la tensión entre «identidad propia» y «apertura al cambio»: la identidad legionaria no es estática, sino que se purifica y profundiza en el proceso de renovación, conservando el núcleo carismático.
+
 ## Distinciones importantes
 
 - **Identidad vs. uniformidad**: la identidad no elimina la diversidad de personalidades, culturas y edades, sino que la armoniza
@@ -129,6 +141,7 @@ Se relaciona con [[cristocentrismo]], [[militia_christi]], [[ars_celebrandi]], [
 
 ## Referencias
 
+- [AntDp-2015, `03_primera_parte.md:144-184` (primera carta del Card. De Paolis); `03_primera_parte.md:233-349` (carta del 19-X-2010); `04_segunda_parte.md:234-391` (Conferencia introductoria); `05_tercera_parte.md:407-595` (conferencia del P. Ghirlanda sobre carisma)]
 - [CapExt-2014, Identidad carismática, nn. 1-13]
 - [CapExt-2018, nn. 9, 12, 15, 35]
 - [CapGral-2026, n. 50-71]

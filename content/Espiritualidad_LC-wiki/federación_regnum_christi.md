@@ -57,6 +57,18 @@ La sección es «una comunidad de pequeñas comunidades de apóstoles que son lo
 
 La Federación, como instrumento jurídico, sirve a esta realidad carismática: ser una comunidad de apóstoles que forma comunidades de apóstoles. La dimensión organizativa (localidades, secciones, equipos) está al servicio de la identidad carismática de ser comunidad de apóstoles en misión.
 
+### Según la Antología del Delegado Pontificio (AntDp-2015)
+
+El P. Gianfranco Ghirlanda, S.J., en su conferencia «Las asociaciones de los fieles» (15 de febrero de 2012, recogida en AntDp-2015, `05_tercera_parte.md:2082-2341`), ofrece el **análisis técnico-canónico** que fundamentó el proceso de configuración jurídica del RC.
+
+**Naturaleza jurídica del RC antes de la Federación.** Ghirlanda describe el RC antes de 2018 como una «asociación privada sin personalidad jurídica propia» (AntDp-2015, `05_tercera_parte.md:2174`), dependiente de la Congregación IVC y SVA por Pastor Bonus art. 111. Esta configuración resultaba ambigua e insuficiente para una realidad que comprendía a laicos, consagrados y religiosos en un mismo carisma.
+
+**Modalidades posibles.** En su conferencia «Participación de los laicos en el carisma de un instituto religioso» (AntDp-2015, `05_tercera_parte.md:2576-2841`), Ghirlanda analiza las modalidades canónicas posibles: Tercera Orden formal (c. 303); asociación simplemente unida al instituto (c. 311); asociación pública con privilegio apostólico (c. 312 §2); asociación privada con personalidad jurídica propia (cc. 298-329).
+
+**Decisión del delegado pontificio.** El Card. De Paolis, en sus cartas pastorales del 11 de julio de 2012 y del 19 de octubre de 2012 (AntDp-2015, `03_primera_parte.md` y `04_segunda_parte.md`), condujo el proceso de discernimiento sobre la configuración canónica del RC. La opción finalmente adoptada —la Federación Regnum Christi— es el resultado de este discernimiento prolongado.
+
+**Asambleas Generales del RC (2013).** Las asambleas generales del RC (consagrados en noviembre 2013, consagradas en diciembre 2013), presididas por el Card. De Paolis, aprobaron los Estatutos de los miembros consagrados, que fueron presentados a la Santa Sede como asociaciones de fieles.
+
 ## Distinciones importantes
 
 - Federación (instrumento jurídico) vs. Regnum Christi (familia espiritual y cuerpo apostólico): la Federación sirve al Regnum Christi, no al revés.
@@ -109,6 +121,7 @@ El comunicado capitular de 2020 dedica una sección a la pertenencia de la Legi�
 
 ## Referencias
 
+- [AntDp-2015, `02_introduccion.md:208-232`; `03_primera_parte.md` (cartas pastorales del Card. De Paolis); `04_segunda_parte.md:510-700, 786-918` (reflexión sobre el carisma del RC); `05_tercera_parte.md:2082-2341` (conferencia del P. Ghirlanda sobre asociaciones de fieles); `05_tercera_parte.md:2576-2841` (conferencia sobre participación laical en el carisma)]
 - [CapExt-2018, nn. 12, 14-16, 21, 24-25, 28-29, 31, 38]
 - [CapGral-2026, n. 119-123]
 - [CapGral-2026, «La Legión de Cristo en la Federación Regnum Christi», n. 1-52]

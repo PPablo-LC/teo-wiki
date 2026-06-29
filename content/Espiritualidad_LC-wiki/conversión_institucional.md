@@ -39,6 +39,22 @@ La Legión de Cristo ha vivido un proceso singular de conversión institucional 
 
 El Capítulo General reconoce con humildad que los esfuerzos por aplicar «Proteger y sanar» no estuvieron exentos de errores: la atención a las víctimas no siempre llegó con la prontitud o sensibilidad que merecían, y el deseo de transparencia no siempre supo armonizarse con el derecho universal de la Iglesia [CapGral-2026, n. 142]. El Capítulo pide sinceramente perdón y renueva su compromiso de aprender de estos hechos, mostrando que la conversión institucional es un proceso permanente.
 
+### Según la Antología del Delegado Pontificio (AntDp-2015)
+
+El proceso de conversión institucional de la LC y el RC fue diseñado teológica y pastoralmente por el Card. De Paolis en sus cartas pastorales, recogidas en la AntDp-2015:
+
+**Aceptación inicial del delegado pontificio.** El Card. De Paolis expone en su primera carta (10 de julio de 2010, AntDp-2015, `03_primera_parte.md:144-184`) que la conversión institucional es un proceso que «implica tomar claramente conciencia de la situación en que nos encontramos e individuar con nitidez las causas que nos han conducido al malestar y al sufrimiento interior de hoy».
+
+**Reflexión teológica sobre la crisis.** En la carta del 19 de octubre de 2010 (AntDp-2015, `03_primera_parte.md:233-349`), el Card. De Paolis articula una teología del proceso: «no se puede negar que no pocas cosas se han de cambiar o mejorar tras una seria ponderación; otras, y son las fundamentales, acerca de la vida religiosa y sacerdotal, se han de conservar y promover». La conversión no es destrucción sino purificación.
+
+**Distinción carismática.** La síntesis teológica del P. Ghirlanda en su conferencia «Carisma del instituto y derecho propio» (31 de marzo de 2011, AntDp-2015, `05_tercera_parte.md:407-595`) distingue entre carisma personal del fundador (objeto de condena moral) y carisma colectivo de fundación (que permanece). Esta distinción es fundamental para que la conversión institucional no se convierta en liquidación del carisma.
+
+**Cuidado pastoral del delegado.** Las homilías y cartas del Card. De Paolis describen la conversión institucional como un camino de «reconstrucción y renovación» que no destruye lo bueno, sino que purifica lo desviado.
+
+**Atención a las víctimas.** El Decreto del 15 de enero de 2011 (AntDp-2015, `03_primera_parte.md:534-561`) crea la Comisión de acercamiento, instrumento clave para la atención pastoral a las víctimas.
+
+**Apertura del proceso a los miembros.** El Decreto de erección de la Comisión Central para la revisión de las Constituciones (10 de diciembre de 2010, AntDp-2015, `03_primera_parte.md:447-495`) establece que «a la revisión de las Constituciones deben colaborar todos los miembros del Instituto, sea a nivel individual como comunitario», haciendo de la conversión un proceso participado.
+
 ## Distinciones importantes
 
 - Conversión institucional (transformación de estructuras y cultura) vs. reforma administrativa (cambios meramente normativos)
@@ -65,6 +81,7 @@ El comunicado capitular de 2020 ofrece el contexto completo del que surgieron lo
 
 ## Referencias
 
+- [AntDp-2015, `03_primera_parte.md` (cartas pastorales del Card. De Paolis); `03_primera_parte.md:447-495` (Decreto de erección de la Comisión Central); `03_primera_parte.md:534-561` (Decreto de creación de la Comisión de acercamiento); `05_tercera_parte.md:407-595` (conferencia del P. Ghirlanda sobre carisma y derecho propio)]
 - [CapGral-2026, n. 140-144]
 - [CapGral-2020, §§16-22]
 - [CapGral-2020, Discurso del Papa Francisco]

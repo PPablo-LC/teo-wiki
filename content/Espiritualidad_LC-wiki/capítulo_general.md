@@ -56,6 +56,20 @@ El V Capítulo General ordinario de los Legionarios de Cristo se celebró del 20
 
 En su discurso al Capítulo General de 2026, el Santo Padre afirmó: «Un Capítulo General también es el momento para evaluar el camino recorrido y discernir, con la ayuda del Espíritu Santo, el camino por recorrer» [CapGral-2026, Discurso del Santo Padre, n. 6]. Y exhortó: «Que este Capítulo los abra a un tiempo de esperanza» [CapGral-2026, Discurso del Santo Padre, n. 14].
 
+### Según la Antología del Delegado Pontificio (AntDp-2015)
+
+La Antología recoge la documentación completa del proceso que culminó en el Capítulo General Extraordinario de 2014:
+
+**Apertura del Capítulo.** La homilía del Card. De Paolis en la misa de apertura del Capítulo General Extraordinario (8 de enero de 2014, AntDp-2015, `04_segunda_parte.md:1310-1452`) articula teológicamente la naturaleza del evento como «ejercicio de discernimiento espiritual bajo la guía del Espíritu Santo».
+
+**Entrevista al delegado pontificio.** La entrevista concedida por el Card. De Paolis al P. Federico Lombardi, S.J. el 9 de enero de 2014 (AntDp-2015, `04_segunda_parte.md:1357-1380`) expone el contexto y los objetivos del Capítulo.
+
+**Cierre del Capítulo.** La homilía conclusiva del 25 de febrero de 2014 (AntDp-2015, `04_segunda_parte.md:1453-1494`) presenta el fruto del Capítulo como un nuevo comienzo para la Congregación.
+
+**Entrevista al P. Ghirlanda.** La entrevista del 30 de noviembre de 2012 al P. Ghirlanda (AntDp-2015, `05_tercera_parte.md:3103-3197`) detalla el trabajo de la Comisión Central para la revisión de las Constituciones que preparó el texto sometido al Capítulo.
+
+**Misa en memoria del P. Corcuera.** La homilía del Card. De Paolis del 5 de julio de 2014 (AntDp-2015, `04_segunda_parte.md:1500-1535`) en memoria del P. Álvaro Corcuera, fallecido el 30 de junio de 2014 tras una larga enfermedad.
+
 ## Distinciones importantes
 
 - El Capítulo General no es un mero órgano administrativo, sino un evento espiritual de discernimiento
@@ -92,6 +106,7 @@ El IV Capítulo General ordinario de los Legionarios de Cristo se celebró del 2
 
 ## Referencias
 
+- [AntDp-2015, `04_segunda_parte.md:1310-1452` (homilía apertura Capítulo Extraordinario 2014); `04_segunda_parte.md:1357-1380` (entrevista Card. De Paolis); `04_segunda_parte.md:1453-1494` (homilía conclusiva); `04_segunda_parte.md:1500-1535` (homilía por P. Corcuera); `05_tercera_parte.md:3103-3197` (entrevista P. Ghirlanda)]
 - [CapExt-2018, Decreto de anuncio, Decreto de convocación, nn. 1-50]
 - [CapExt-2014, Presentación, nn. 1-8]
 - [CapExt-2014, Anexo 1, nn. 1-10]

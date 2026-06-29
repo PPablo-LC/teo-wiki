@@ -57,6 +57,18 @@ El Capítulo pide sinceramente perdón y renueva su compromiso de aprender de es
 
 **Procesos justos.** El documento mantiene intactos sus principios fundamentales: prevención, acogida a las víctimas y búsqueda de la justicia para todos, incorporando las garantías procesales y el respeto debido a la dignidad de todas las personas implicadas [CapGral-2026, n. 143].
 
+### Según la Antología del Delegado Pontificio (AntDp-2015)
+
+El Card. De Paolis, en su primera carta a los legionarios (10 de julio de 2010, AntDp-2015, `03_primera_parte.md:144-184`), subraya que la atención a las víctimas debe ser una prioridad del proceso de renovación. Anuncia que «la atención a las personas que han solicitado alguna acción por parte de la LC a causa de hechos que guardan relación directa o indirecta con el P. Maciel» será abordada mediante una comisión específica.
+
+**Creación de la Comisión de acercamiento.** El Decreto del Card. De Paolis del 15 de enero de 2011 (AntDp-2015, `03_primera_parte.md:534-561`) constituye formalmente la Comisión de acercamiento, presidida por Mons. Mario Marchesi, e integrada por los PP. Florencio Sánchez Soler L.C., Eduardo Robles-Gil Orvañanos L.C., D. Silverio López Núñez y el Dr. Jorge Adame Goddard.
+
+**Finalidad de la Comisión.** La Comisión tuvo como objetivo «cerrar este capítulo, dentro de lo humanamente posible, en sus aspectos más dolorosos buscando la reconciliación en un marco de justicia y caridad» (AntDp-2015, `02_introduccion.md:120`). Atendió a las víctimas mediante entrevistas personales, analizó los casos en una reunión plenaria el 12 de mayo de 2011, y ofreció apoyo moral, espiritual, psicológico y en algunos casos también material.
+
+**Criterios de reparación.** En su carta del 19 de octubre de 2010 (AntDp-2015, `03_primera_parte.md:233-349`), el Card. De Paolis articula los criterios de reparación: «se tomaron como referencia los parámetros establecidos por las conferencias episcopales europeas en casos semejantes y la jurisprudencia de los tribunales civiles españoles».
+
+**Continuidad con «Proteger y Sanar».** El marco institucional y pastoral establecido por la Comisión de acercamiento de 2011 es la semilla de los protocolos «Proteger y Sanar» aprobados por el Capítulo General 2020, que sistematizan y amplían la protección de menores y adultos vulnerables en las instituciones de la Legión de Cristo.
+
 ## Distinciones importantes
 
 - Cultura de la tutela (arraigada en la comunidad) vs. mero cumplimiento normativo (burocrático)
@@ -74,6 +86,7 @@ Se relaciona con [[abuso_de_autoridad]], [[abuso_espiritual]], [[justicia]], [[c
 
 ## Referencias
 
+- [AntDp-2015, `02_introduccion.md:120`; `03_primera_parte.md:144-184` (primera carta); `03_primera_parte.md:233-349` (carta del 19-X-2010); `03_primera_parte.md:534-561` (decreto de creación de la Comisión de acercamiento)]
 - [CRPS-2020, documento original «Proteger y sanar»]
 - [CRPS-2020, «Conversión y reparación»]
 - [CRPS-2020, Informe 1941-2019]

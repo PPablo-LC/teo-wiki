@@ -3,13 +3,13 @@ type: Concepto LC
 title: Discernimiento comunitario
 tags: ["espiritualidad", "vida_consagrada"]
 
-timestamp: 2026-06-13
+timestamp: 2026-06-28
 description: "El discernimiento comunitario es un proceso de búsqueda de la voluntad de Dios realizado en común por una comunidad religiosa, bajo la guía del Espíritu Santo."
 ---
 # Discernimiento comunitario
 
 > Área: Espiritualidad / Vida consagrada
-> Última actualización: 2026-06-13
+> Última actualización: 2026-06-28
 
 ## Definición
 
@@ -61,6 +61,26 @@ El Capítulo General de 2020 aborda el discernimiento en el contexto de la ident
 
 **Discernimiento comunitario y autoridad.** «Cuando se trata de un discernimiento comunitario es importante recordar que este concluye con una decisión de la autoridad: "El discernimiento comunitario no sustituye la naturaleza y el papel de la autoridad, a la cual está reservada la decisión final; ahora bien, la autoridad no puede ignorar que la comunidad es el lugar privilegiado para reconocer y acoger la voluntad de Dios"» [CapGral-2020, §46, citando la Instrucción *El servicio de la autoridad y la obediencia*, 20e].
 
+### Según la Antología del Delegado Pontificio (AntDp-2015)
+
+El P. Gianfranco Ghirlanda, S.J., trata el discernimiento comunitario en dos de sus conferencias de la Antología.
+
+**Dirección espiritual y discernimiento.** En la primera conferencia (17 de marzo de 2011, AntDp-2015, `05_tercera_parte.md:84-313`), Ghirlanda expone cómo el discernimiento espiritual —personal y comunitario— se basa en un juicio prudente sobre la afectividad religiosa, sostenido por la acción de la gracia. Las tres fases del discernimiento (recogida de datos, evaluación a la luz del Evangelio, decisión) son la estructura fundamental que también se aplica al discernimiento comunitario.
+
+**Función de los superiores. Corresponsabilidad y participación.** En la quinta conferencia (19 de mayo de 2011, AntDp-2015, `05_tercera_parte.md:1653-1918`), Ghirlanda expone cómo el discernimiento comunitario se integra en el marco canónico del c. 127 CIC, distinguiendo entre consensus colegial (vinculante) y consilium colegial (no vinculante). Subraya que la búsqueda del consensus es un proceso espiritual, no meramente jurídico.
+
+**Carácter trinitario del discernimiento comunitario.** Ghirlanda describe el discernimiento comunitario como participación de la comunión trinitaria: la comunidad, bajo la acción del Espíritu Santo, busca conocer la voluntad de Dios no por mayoría de votos, sino por convergencia bajo la guía del Espíritu.
+
+**Discernimiento en el proceso de renovación.** En la entrevista del 30 de noviembre de 2012 (AntDp-2015, `05_tercera_parte.md:3103-3197`), Ghirlanda expone cómo la Comisión Central para la revisión de las Constituciones aplicó una metodología de discernimiento comunitario, basada en la reflexión personal y comunitaria, con el objetivo de buscar la convergencia más que la mera mayoría.
+
+**Aplicación al proceso LC.** El proceso de renovación LC 2010-2014 fue un ejercicio prolongado de discernimiento comunitario, con asambleas territoriales representativas, votaciones y búsqueda de consensus. El Card. De Paolis destaca que «la búsqueda de la voluntad de Dios en la LC debe llevarse a cabo en un contexto de diálogo donde el superior y la comunidad trabajen juntos» (cf. AntDp-2015, `04_segunda_parte.md:377-380`).
+
+### Según el Encuentro con Cristo en el Regnum Christi (RC-EcC-2022)
+
+El [[encuentro_con_cristo|Encuentro con Cristo]] constituye una forma concreta de discernimiento comunitario en los equipos del Regnum Christi. Tras la lectura orante del Evangelio, los miembros realizan el discernimiento apostólico de la realidad mediante la [[revisión_de_vida]] (ver, juzgar, actuar), buscando descubrir qué espera el Señor de ellos como comunidad ante los desafíos concretos de su entorno. «La pregunta fundamental que nos orienta aquí es: "Dios está haciendo crecer su Reino en el ambiente donde nos toca vivir y por ello evangelizar, ¿cómo nos corresponde a nosotros colaborar con este crecimiento?"» [RC-EcC-2022, Parte III, «Discernimiento apostólico de la realidad»].
+
+El discernimiento comunitario en el Encuentro presupone tres niveles que se contienen mutuamente: discernimiento racional (análisis objetivo), discernimiento moral (valoración desde la ley moral) y discernimiento espiritual (apertura a la acción del Espíritu). Se distingue además entre discernimiento personal y comunitario [RC-EcC-2022, Parte III, nota 6]. El fruto del discernimiento se concreta en un compromiso apostólico, individual o colectivo.
+
 ## Distinciones importantes
 
 - No es una consulta democrática ni una votación
@@ -80,9 +100,11 @@ Se relaciona con [[autoridad]], [[obediencia]], [[vida_consagrada]], [[vida_frat
 
 ## Referencias
 
+- [AntDp-2015, `05_tercera_parte.md:84-313` (discernimiento espiritual); `05_tercera_parte.md:1653-1918` (corresponsabilidad y participación); `05_tercera_parte.md:3103-3197` (entrevista Ghirlanda); `04_segunda_parte.md:377-380` (Card. De Paolis)]
 - [CapGral-2026, nn. 3, 12, 15-18 (documento temático sobre autoridad y obediencia)]
 - [CapGral-2026, n. 12 (discurso del Papa)]
 - [León XIV, Discurso a los participantes en el Capítulo General, 7, 11, 12]
 - [CLC-2020, 4; CVV, 87-88, 322]
 - [VC, 68]
 - [Mt 20,26-28]
+- [RC-EcC-2022, Parte III, «Discernimiento apostólico de la realidad»]
