@@ -9,7 +9,7 @@ description: "Búsqueda realizada en `wiki/` (todos los subdirectorios). Se extr
 > Generado: 2026-06-19 19:25
 > Última actualización: 2026-06-19
 > Total de wikilinks huérfanos originales: 588 (con ≥1 referencias)
-> Artículos creados en esta sesión: 24 (prioridad alta + media)
+> Artículos creados en esta sesión: 24 (alta/media) + 8 (4 refs, 2026-06-28)
 
 ## Metodología
 
@@ -53,16 +53,16 @@ vs guion bajo, o sinónimo reconocido).
 | 24 | `[[vid_verdadera]]` | 5 | media | ✅ Creado 2026-06-19 |
 | 25 | `[[vida_humana]]` | 5 | media | ✅ Creado 2026-06-19 |
 | 26 | `[[órdenes_sagradas]]` | 5 | media | ✅ Creado 2026-06-19 |
-| 27 | `[[adulterio]]` | 4 | baja | |
-| 28 | `[[agua_viva]]` | 4 | baja | |
-| 29 | `[[antecristo]]` | 4 | baja | |
-| 30 | `[[bondad_y_malicia]]` | 4 | baja | |
-| 31 | `[[buen_pastor]]` | 4 | baja | |
-| 32 | `[[carisma]]` | 4 | baja | |
-| 33 | `[[clérigo]]` | 4 | baja | |
-| 34 | `[[compasión]]` | 4 | baja | |
-| 35 | `[[concupiscible]]` | 4 | baja | |
-| 36 | `[[confesión_de_fe]]` | 4 | baja | |
+| 27 | `[[adulterio]]` | 4 | baja | ✅ Creado 2026-06-28 |
+| 28 | `[[agua_viva]]` | 4 | baja | ✅ Creado 2026-06-28 |
+| 29 | `[[antecristo]]` | 4 | baja | Falso positivo (existe [[anticristo]]) |
+| 30 | `[[bondad_y_malicia]]` | 4 | baja | ✅ Creado 2026-06-28 |
+| 31 | `[[buen_pastor]]` | 4 | baja | ✅ Creado 2026-06-28 |
+| 32 | `[[carisma]]` | 4 | baja | Falso positivo (existe [[carismas]]) |
+| 33 | `[[clérigo]]` | 4 | baja | ✅ Creado 2026-06-28 |
+| 34 | `[[compasión]]` | 4 | baja | ✅ Creado 2026-06-28 |
+| 35 | `[[concupiscible]]` | 4 | baja | ✅ Creado 2026-06-28 |
+| 36 | `[[confesión_de_fe]]` | 4 | baja | ✅ Creado 2026-06-28 |
 | 37 | `[[cosecha]]` | 4 | baja | |
 | 38 | `[[cosmología]]` | 4 | baja | |
 | 39 | `[[cuerpo_de_cristo]]` | 4 | baja | |

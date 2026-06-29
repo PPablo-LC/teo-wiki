@@ -1,64 +1,53 @@
 ---
 type: Concepto Teológico
-title: Apetito Concupiscible
-tags: ["moral", "ascética"]
-
-timestamp: 2026-06-23
-description: "El apetito concupiscible es una de las dos potencias del apetito sensitivo, junto con el apetito irascible. Tiene por objeto el bien deleitable y de fácil consecución."
+title: Concupiscible
+tags: ["antropología_teológica"]
+timestamp: 2026-06-28
+description: "El apetito concupiscible (del latín *appetitus concupiscibilis*) es la potencia apetitiva del alma que tiende al bien sensible deleitable sin dificultad."
 ---
-# Apetito Concupiscible
 
-> Área: Moral / Ascética
-> Última actualización: 2026-06-23
+# Concupiscible
+
+> Área: Antropología teológica
+> Última actualización: 2026-06-28
 
 ## Definición
 
-El apetito concupiscible es una de las dos potencias del apetito sensitivo, junto con el apetito irascible. Tiene por objeto el bien deleitable y de fácil consecución. Es la sede de las pasiones relacionadas con la búsqueda del placer sensible y la huida del dolor: amor, odio, deseo, aversión, gozo y tristeza. En él reside la virtud de la templanza.
+El apetito concupiscible (del latín *appetitus concupiscibilis*) es la potencia apetitiva del alma que tiende al bien sensible deleitable sin dificultad y huye del mal doloroso. Junto con el [[irascible]], constituye la parte sensitiva de la vida apetitiva del hombre en la psicología tomista.
 
 ## Desarrollo doctrinal
 
-El apetito sensitivo, llamado también sensualidad, se divide en dos potencias específicamente distintas: el concupiscible y el irascible. El concupiscible se ordena al bien sensible en cuanto deleitable y fácil de alcanzar; el irascible, al bien arduo y difícil. Esta distinción es establecida por Santo Tomás (I, q.81, a.2) y seguida por la tradición escolástica.
+En la psicología tomista, el alma humana posee dos apetitos sensitivos: el concupiscible, que tiende al bien deleitable (objeto absoluto), y el irascible, que tiende al bien en cuanto difícil u arduo. Las pasiones del concupiscible son: amor y odio, deseo y aversión, gozo y tristeza.
 
-El apetito concupiscible es el sujeto de seis pasiones: amor, odio, deseo, aversión, gozo y tristeza. La virtud que lo rectifica es la templanza, que modera la inclinación a los placeres sensibles según la recta razón iluminada por la fe.
-
-Por el pecado original, el apetito concupiscible perdió su sujeción al orden de la razón, resultando en la herida de la concupiscencia desordenada (*vulnus concupiscentiae*).
+El concupiscible es perfeccionado principalmente por la virtud de la templanza, que modera y ordena las pasiones del apetito concupiscible conforme a la recta razón. La templanza se opone a la lujuria, la gula y otros vicios del concupiscible.
 
 ## Perspectivas por fuente
 
 ### Según la Summa Theologiae (SmTh)
 
-SmTh I q.81 a.2: El apetito sensitivo se divide en concupiscible e irascible, realmente distintos entre sí. El concupiscible tiene por objeto el bien deleitable; el irascible, el bien arduo.
-
-SmTh I-II q.23 a.1 y a.4: Se distinguen once pasiones: seis en el concupiscible (amor, odio, deseo, aversión, gozo, tristeza) y cinco en el irascible (esperanza, desesperación, audacia, temor, ira). Las pasiones del irascible presuponen las del concupiscible.
-
-SmTh I-II q.25 a.1-4: Orden de las pasiones: el amor es primero en el concupiscible; las pasiones del irascible se mueven entre las del concupiscible.
-
-SmTh I-II q.60 a.5: La templanza reside en el apetito concupiscible; la fortaleza, en el irascible.
-
-SmTh I-II q.85 a.3: Las cuatro heridas del pecado original afectan a las cuatro potencias sujeto de virtud: la concupiscible recibe la herida de la concupiscencia desordenada.
+Santo Tomás trata el apetito concupiscible en SmTh Ia, q.81 (las potencias apetitivas sensitivas) y en Ia-IIae, q.23 (de las pasiones del irascible y concupiscible). El concupiscible es una potencia distinta del irascible porque su objeto formal es diverso: el bien sensible absoluto vs. el bien sensible arduo. Las pasiones del concupiscible son las más básicas —amor, odio, deseo, gozo, tristeza— y constituyen el fundamento de las pasiones del irascible. La virtud de la templanza perfecciona el concupiscible.
 
 ### Según Royo Marín (TPCr)
 
-TPCr, Segunda Parte: Cuatro son las potencias capaces de ser sujeto de virtudes morales: la prudencia en la razón, la justicia en la voluntad, la fortaleza en el irascible y la templanza en el concupiscible.
-
-TPCr, Tercera Parte, Libro I: Por el pecado original, el apetito concupiscible se substrajo al control de la razón. La herida de la concupiscencia desordenada (*vulnus concupiscentiae*) consiste en la pérdida del orden a lo deleitable moderado por la razón.
-
-TPCr, Tercera Parte, Libro II: El apetito concupiscible es el sujeto de la templanza, que modera los placeres del tacto y del gusto, especialmente los referentes a la lujuria y la gula.
+Royo Marín, siguiendo a Santo Tomás, explica que el apetito concupiscible es la sede de las pasiones más elementales. La templanza es la virtud moral que modera sus tendencias, necesaria en el camino de la perfección cristiana para ordenar los deseos sensibles conforme a la razón iluminada por la fe.
 
 ## Distinciones importantes
 
-- **Concupiscible vs. irascible**: el concupiscible se ordena al bien deleitable (fácil); el irascible, al bien arduo (difícil). Son potencias realmente distintas
-- **Concupiscible sensitivo vs. voluntad**: la voluntad es el apetito intelectivo, mientras que el concupiscible es apetito sensitivo. Las pasiones del concupiscible son movimientos del apetito sensitivo; la voluntad no es pasión sino apetito racional
-- **Concupiscible y templanza**: la templanza es la virtud que perfecciona el concupiscible, moderándolo según la razón
-- **Herida del concupiscible**: por el pecado original, el concupiscible tiende desordenadamente a su objeto, de ahí la concupiscencia como *fomes peccati*
+- **Concupiscible vs. irascible**: el concupiscible tiende al bien deleitable absoluto; el irascible al bien arduo o difícil
+- **Concupiscible vs. voluntad**: la voluntad es el apetito intelectual (racional), mientras el concupiscible es sensitivo
+- **Pasiones del concupiscible**: amor (bien presente), deseo (bien ausente), gozo (posesión del bien), odio (mal presente), aversión (mal ausente), tristeza (posesión del mal)
 
 ## Relaciones doctrinales
 
-Se vincula con el [[apetito_sensitivo]], el [[apetito_irascible]], las [[pasiones]], la [[templanza]], la [[concupiscencia]], la [[sensualidad]] y las [[heridas_del_pecado_original]].
+Se relaciona con [[irascible]], [[apetito_sensitivo]], [[pasiones]], [[templanza]], [[concupiscencia]], [[sensualidad]], [[apetito]], [[virtud_moral]]
 
 ## Ver también
-[[apetito_sensitivo]], [[apetito_irascible]], [[pasiones]], [[templanza]], [[concupiscencia]], [[fortaleza]]
+
+[[irascible]], [[apetito_sensitivo]], [[templanza]], [[pasiones]], [[concupiscencia]]
 
 ## Referencias
-- [SmTh I q.81 a.2; I-II q.23, q.25, q.60 a.5, q.85 a.3]
-- [TPCr, Segunda Parte, Cap. 4; Tercera Parte, Libro I y II]
+
+- [SmTh Ia, q.81]
+- [SmTh Ia-IIae, q.23]
+- [SmTh II-II, q.141 (la templanza)]
+- [TPCr, Parte I, Tratado de los actos humanos]

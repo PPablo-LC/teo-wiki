@@ -1,66 +1,56 @@
 ---
 type: Concepto Teológico
-title: Bondad y Malicia de los Actos Humanos
+title: Bondad y malicia de los actos humanos
 tags: ["moral"]
-
-timestamp: 2026-06-23
-description: "La bondad o malicia moral de un acto humano se determina por tres fuentes constitutivas: el objeto elegido, la intención del sujeto y las circunstancias de la acción."
+timestamp: 2026-06-28
+description: "La bondad y malicia son las cualidades morales de los actos humanos que los hacen buenos o malos según el objeto, el fin y las circunstancias."
 ---
-# Bondad y Malicia de los Actos Humanos
+
+# Bondad y malicia de los actos humanos
 
 > Área: Moral
-> Última actualización: 2026-06-23
+> Última actualización: 2026-06-28
 
 ## Definición
 
-La bondad o malicia moral de un acto humano se determina por tres fuentes constitutivas: el objeto elegido, la intención del sujeto y las circunstancias de la acción. Un acto es moralmente bueno cuando las tres son buenas; basta que una sea mala para que el acto entero sea malo.
+La bondad y malicia son las cualidades morales de los actos humanos que los hacen buenos o malos según su conformidad o disconformidad con la ley moral. Dependen de tres fuentes: el objeto del acto, la intención del agente y las circunstancias que lo rodean.
 
 ## Desarrollo doctrinal
 
-La moralidad de los actos humanos depende de la conformidad del acto con la ley moral, que tiene su fundamento último en Dios. El objeto elegido especifica moralmente el acto del querer. La intención sitúa el acto en relación con el fin que se persigue. Las circunstancias agravan o atenúan la bondad o malicia, pero no pueden cambiar la especie moral del objeto.
+Un acto humano es moralmente bueno cuando lo son simultáneamente su objeto, su fin y sus circunstancias. El objeto determina la especie moral del acto; la intención ordena el acto al fin que el agente persigue; las circunstancias modifican la bondad o malicia como accidentes. Hay actos intrínsecamente malos (como la blasfemia, el aborto directo, el adulterio), cuya malicia no puede ser compensada por ninguna intención ni circunstancia.
 
-Hay actos intrínsecamente malos (*intrinsece malum*), que son siempre ilícitos por su objeto mismo, independientemente de las circunstancias y de la intención. El fin nunca justifica los medios.
+Santo Tomás enseña que la bondad del acto depende primero de su conformidad con la razón (rectitud moral) y en último término de su ordenación al fin último, que es Dios.
 
 ## Perspectivas por fuente
 
 ### Según el Catecismo (CEC)
 
-CEC §1749-1750: Las fuentes de la moralidad son el objeto, la intención y las circunstancias.
-
-CEC §1751: El objeto elegido es un bien hacia el cual tiende deliberadamente la voluntad; especifica moralmente el acto.
-
-CEC §1753: Una intención buena no hace bueno un comportamiento en sí mismo desordenado. El fin no justifica los medios.
-
-CEC §1754: Las circunstancias contribuyen a agravar o disminuir la bondad o malicia, pero no pueden modificar la calidad moral de los actos de suyo.
-
-CEC §1755: El acto moralmente bueno supone la bondad del objeto, del fin y de las circunstancias. Una finalidad mala corrompe la acción aunque su objeto sea bueno.
-
-CEC §1756: Hay actos siempre gravemente ilícitos por razón de su objeto, como la blasfemia, el perjurio, el homicidio y el adulterio.
-
-CEC §1757-1761: Resumen: las tres fuentes constituyen la moralidad; el objeto especifica el acto; no se puede justificar una acción mala por la intención buena.
-
-### Según la Veritatis Splendor (Juan Pablo II)
-
-VS §71: Los actos humanos como actos morales deciden la bondad o malicia de la persona. Existen actos intrínsecamente malos que no pueden justificarse por ninguna intención o circunstancia.
+CEC §1749-1761: La moralidad de los actos humanos depende del objeto, el fin y las circunstancias. «Hay actos que, en sí mismos, independientemente de las circunstancias y las intenciones, son siempre gravemente ilícitos por razón de su objeto» (§1756). Un acto bueno requiere la bondad simultánea de los tres elementos.
 
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás distingue las fuentes de la moralidad en I-II q.18-20: el objeto (especie del acto), el fin (especie de la intención) y las circunstancias (accidentes del acto). La bondad moral requiere la rectitud del objeto, del fin y de las circunstancias. Hay actos que son malos por su objeto (*genus*), independientemente de la intención del sujeto. Las cuatro heridas del pecado original incluyen la *vulnus malitiae* en la voluntad (I-II q.85 a.3).
+SmTh Ia-IIae q.18-20: Santo Tomás analiza la bondad y malicia de los actos humanos. La bondad del acto se deriva de su objeto (q.18, aa.1-2), de las circunstancias (a.3-4), del fin (a.7-8) y de la conformidad con la regla de la razón (q.19). Hay actos que por su objeto son siempre malos (q.18, a.8).
+
+### Según Juan Pablo II (Veritatis Splendor)
+
+La Veritatis Splendor reafirma la doctrina de los actos intrínsecamente malos (VS §79-83). La razón de ser del orden moral es la verdad del bien, que se expresa en la ley moral natural. El juicio sobre la bondad o malicia del acto no puede reducirse a la intención subjetiva ni a las consecuencias previsibles.
 
 ## Distinciones importantes
 
-- **Bondad ontológica vs. moral**: todo ser es bueno ontológicamente; la bondad moral depende de la conformidad con la razón recta y la ley divina
-- **Acto humano vs. acto del hombre**: solo el acto deliberado y libre (acto humano) es moral; los actos automáticos no reciben calificación moral
-- **Pecado mortal vs. venial**: la malicia grave del objeto (materia grave) distingue el pecado mortal del venial
+- **Bondad natural vs. bondad moral**: todo acto tiene bondad entitativa (ontológica), pero la bondad moral depende de su ordenación a la ley moral
+- **Acto intrínsecamente malo**: acto que es malo por su objeto independientemente de la intención y las circunstancias
+- **Tres fuentes de moralidad**: objeto, fin, circunstancias — deben coincidir en bondad para que el acto sea bueno
 
 ## Relaciones doctrinales
 
-Se vincula con el [[acto_humano]], la [[conciencia_moral]], la [[ley_natural]], el [[pecado_mortal]], el [[pecado_venial]], el [[fin_último]], la [[intención]], las [[circunstancias]] y los [[actos_intrínsecamente_malos]].
+Se relaciona con [[acto_humano]], [[moralidad]], [[intención]], [[circunstancias]], [[pecado]], [[conciencia_moral]], [[ley_moral]], [[ley_natural]], [[fin_último]], [[libertad]]
 
 ## Ver también
-[[acto_humano]], [[conciencia_moral]], [[ley_natural]], [[pecado_mortal]], [[pecado_venial]], [[objeto_moral]], [[intención]]
+
+[[acto_humano]], [[moralidad]], [[intención]], [[circunstancias]], [[pecado]]
 
 ## Referencias
+
 - [CEC §1749-1761]
-- [VS §71]
-- [SmTh I-II q.18-21]
+- [SmTh Ia-IIae q.18-20]
+- [Veritatis Splendor §79-83]
