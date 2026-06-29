@@ -1,72 +1,54 @@
 ---
 type: Concepto Teológico
 title: Libertad interior
-tags: ["ascética", "moral", "espiritualidad"]
-
-timestamp: 2026-06-23
-description: "La libertad interior es la disposición del alma por la cual la persona, libre de ataduras desordenadas —pasiones, apegos, concupiscencia, miedo—."
+tags: ["teología_espiritual", "ascética"]
+timestamp: 2026-06-28
+description: "La libertad interior es la capacidad de la persona para obrar según la verdad del propio ser, libre de apegos, complejos y miedos, para poder entregarse generosamente a Dios y al prójimo."
 ---
+
 # Libertad interior
 
-> Área: Ascética / Moral / Espiritualidad
-> Última actualización: 2026-06-23
+> Área: Teología espiritual / Ascética
+> Última actualización: 2026-06-28
 
 ## Definición
 
-La libertad interior es la disposición del alma por la cual la persona, libre de ataduras desordenadas —pasiones, apegos, concupiscencia, miedo—, puede adherir plenamente a la voluntad de Dios y donarse a sí misma en el amor. No es la mera ausencia de coacción externa, sino la madurez espiritual que capacita para elegir el bien con prontitud y generosidad, incluso en circunstancias adversas. Es condición indispensable para la perfección cristiana y fruto del dominio de sí, de la gracia del Espíritu Santo y de la purificación del alma.
+La libertad interior es la capacidad de la persona para obrar según la verdad del propio ser, libre de apegos desordenados, complejos, miedos y condicionamientos que paralizan, para poder tomar decisiones generosas y prudentes, perseverar en ellas y entregarse plenamente a Dios y a los demás.
 
 ## Desarrollo doctrinal
 
-La libertad interior es un concepto central en la teología ascética y mística. Presupone el dominio de las pasiones y la purificación de las potencias del alma. En el estado de inocencia original, el hombre gozaba de una perfecta libertad interior, expresada en la desnudez sin vergüenza (Gn 2,25). La concupiscencia, consecuencia del pecado original, oscurece y debilita esta libertad, inclinando al alma al egoísmo y al apego desordenado. La gracia de Cristo restaura y eleva la libertad interior, permitiendo al alma donarse libremente a Dios y al prójimo.
+La libertad interior es un concepto central en la formación humana y espiritual, especialmente en la tradición de la vida consagrada. Supone un proceso continuo de conocimiento, aceptación y superación personal que permite entrar en posesión gozosa de la propia existencia como don para los demás. Se distingue de la libertad cristiana en que esta última se refiere a la redención del pecado, mientras que la libertad interior apunta al dominio personal sobre los propios condicionamientos psicológicos y espirituales.
 
 ## Perspectivas por fuente
 
-### Según San Juan Pablo II — Teología del Cuerpo
+### Según la Christus Vita Vestra (CVV-2020)
 
-Juan Pablo II desarrolla el concepto de «libertad interior del don» como clave de la antropología cristiana. En el estado de inocencia original, Adán y Eva estaban «interiormente libres de la coacción del propio cuerpo y sexo, libres de la libertad del don» (TdC 18.14). La desnudez originaria, sin vergüenza, expresa esta libertad interior. La concupiscencia lleva consigo la pérdida de la libertad interior del don: la voluntad humana, originariamente inocente, ve limitado el autodominio y, por tanto, la capacidad de donación mutua (TdC 37.32).
+La CVV dedica los números §213-218 a la libertad interior dentro de la dimensión humana de la formación. La define como «obediencia convencida y cordial a la verdad del propio ser, al significado de la propia existencia» (CVV §213, citando PDV 44).
 
-La libertad interior del don es de naturaleza explícitamente espiritual y depende de la madurez del hombre interior. Supone la capacidad de dirigir las reacciones sensuales y emotivas para hacer posible la donación de sí al otro (TdC 134.126). El respeto a lo que Dios ha creado libera de la coacción de la concupiscencia y corrobora la libertad interior del don (TdC 136.128).
+La libertad interior se manifiesta en dos direcciones:
+- **Frente a sí mismo:** libertad respecto de los complejos, miedos, inseguridades, apegos a ambientes, lugares o cosas que proporcionan seguridad, y agarraderas simplemente humanas (CVV §214a).
+- **Frente a los demás:** libertad respecto de la propia imagen, rechazo a permanecer encasillado en la opinión ajena, dejar las máscaras para ser con sencillez y autenticidad uno mismo, alegrarse de los dones ajenos (CVV §214b).
 
-### Según el Catecismo (CEC)
+«Solo un corazón libre puede amar en plenitud y solo el que se sabe amado emprende el camino hacia la liberación de lo que le impide responder con amor» (CVV §215). Para alcanzar esta libertad no puede prescindirse de la ascesis cristiana y el combate espiritual (CVV §215, citando VC 38).
 
-El Catecismo enseña que la libertad interior se educa mediante las virtudes del dominio de sí. Las personas homosexuales, por ejemplo, «mediante virtudes de dominio de sí mismo que eduquen la libertad interior, y a veces mediante el apoyo de una amistad desinteresada, de la oración y la gracia sacramental, pueden y deben acercarse gradualmente a la perfección cristiana» (CEC §2359). La gracia de Cristo fortalece la libertad interior del creyente para vencer la concupiscencia y vivir según el Espíritu.
-
-### Según el Concilio Vaticano II
-
-*Gaudium et Spes* enseña que la Iglesia, cumpliendo su misión, «educa al hombre en la libertad interior» (GS §58). La libertad interior es un fruto de la acción de la Iglesia en el mundo, que purifica y eleva la cultura humana.
-
-### Según Royo Marín (TPCr)
-
-La libertad interior es condición indispensable del mérito. El progreso espiritual no disminuye la libertad sino que la perfecciona. La lucha ascética —purificación activa de las potencias, dominio de las pasiones, desprendimiento— tiene como meta recuperar y fortalecer la libertad interior del alma para que pueda adherir plenamente a Dios. La obsesión diabólica, por violenta que sea, no priva jamás al sujeto de su libertad interior (TPCr, Libro I, Cap. 3). Las purificaciones pasivas, aunque dolorosas, liberan el alma de los últimos apegos desordenados y la conducen a la libertad perfecta de los hijos de Dios.
-
-### Según *Pastores dabo vobis*
-
-La formación de la libertad interior es esencial en la formación sacerdotal (PDV §48). El candidato al sacerdocio debe aprender a usar rectamente de su libertad, «haciendo de ella un don responsable y generoso a Cristo y a la Iglesia». La libertad interior capacita para la obediencia, la castidad y la pobreza vividas no como imposiciones externas sino como expresiones de una opción madura. La pobreza evangélica custodia y alimenta la libertad interior (PDV §30).
-
-### Según León XIV (*Magnífica Humanitas*)
-
-León XIV advierte contra las amenazas contemporáneas a la libertad interior: las plataformas digitales diseñadas para captar la atención debilitan la libertad interior (§170). La «higiene de la atención» —silencio, estudio reflexivo, lectura, análisis ponderado— es necesaria para preservarla (§146). La libertad interior debe ser reforzada mediante la educación en la sobriedad digital (§170).
+San Pablo es modelo de hombre interiormente libre: «Para mí lo de menos es que me pidáis cuentas vosotros o un tribunal humano; ni siquiera yo me pido cuentas» (1Cor 4,3-4). «El legionario que es interiormente libre se reconoce por ser firme sin rigidez, suelto sin arrogancia, sencillo sin timidez» (CVV §217). El sentido del humor respecto de uno mismo, dejar a Dios ser Dios y no tomarse tan en serio ayudan a alcanzar esta libertad (CVV §218).
 
 ## Distinciones importantes
 
-- Libertad interior vs. libertinaje: la libertad formada es capacidad de donación; el libertinaje es esclavitud de las pasiones
-- Libertad interior del don (Juan Pablo II) vs. libre albedrío natural
-- Libertad interior en el estado de inocencia (perfecta) vs. después del pecado (herida, restaurada por la gracia)
-- Libertad interior vs. coacción externa: se puede tener libertad interior aun en condiciones de opresión externa
+- **Libertad interior vs. libertad cristiana**: la primera es dominio personal sobre los condicionamientos psicológicos; la segunda es liberación del pecado por la gracia
+- **Libertad interior vs. autonomía**: no es hacer lo que se quiere, sino poder querer libremente lo que se debe
+- **Libertad interior vs. independencia**: supone la capacidad de obedecer por convicción, no por sumisión
 
 ## Relaciones doctrinales
 
-Se relaciona con [[libertad]], [[libre_albedrío]], [[dominio_de_sí]], [[concupiscencia]], [[purificaciones_pasivas]], [[gracia]], [[perfección_cristiana]], [[seguimiento_de_cristo]], [[don_de_sí]], [[antropología_cristiana]], [[teología_del_cuerpo]].
+[[madurez_afectiva]], [[formación_humana]], [[conocimiento_de_sí]], [[ascesis]], [[dominio_de_sí]], [[combate_espiritual]], [[conciencia_moral]], [[obediencia_filial]]
 
 ## Ver también
 
-[[libertad]], [[libre_albedrío]], [[dominio_de_sí]], [[purificaciones_pasivas]], [[gracia]], [[perfección_cristiana]]
+[[libertad_cristiana]], [[madurez_afectiva]], [[dirección_espiritual]], [[formación_humana]]
 
 ## Referencias
 
-- CEC §2359
-- GS §58
-- TdC 18.14; 19.15; 37.32; 134.126; 136.128
-- TPCr, Libro I (lucha contra la propia carne; purificaciones)
-- PDV §30, §48
-- León XIV, *Magnífica Humanitas* §146, §170
+- [CVV-2020 §213-218]
+- [PDV §44, §48]
+- [VC §38]

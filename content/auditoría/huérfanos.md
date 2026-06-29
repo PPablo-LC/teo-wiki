@@ -9,7 +9,7 @@ description: "Búsqueda realizada en `wiki/` (todos los subdirectorios). Se extr
 > Generado: 2026-06-19 19:25
 > Última actualización: 2026-06-19
 > Total de wikilinks huérfanos originales: 588 (con ≥1 referencias)
-> Artículos creados en esta sesión: 24 (alta/media) + 32 (4 refs, 2026-06-28)
+> Artículos creados en esta sesión: 24 (alta/media) + 36 (4+3+2 refs, 2026-06-28)
 
 ## Metodología
 
@@ -84,11 +84,11 @@ vs guion bajo, o sinónimo reconocido).
 | 55 | `[[latría]]` | 4 | baja | Ya existía (creado 2026-06-23) |
 | 56 | `[[lavatorio_de_los_pies]]` | 4 | baja | Ya existía (creado 2026-06-23) |
 | 57 | `[[liberación]]` | 4 | baja | |
-| 58 | `[[libertad_interior]]` | 4 | baja | |
+| 58 | `[[libertad_interior]]` | 4 | baja | ✅ Creado 2026-06-28 |
 | 59 | `[[ministerio]]` | 4 | baja | |
 | 60 | `[[ministerio_pastoral]]` | 4 | baja | |
 | 61 | `[[nombre_de_dios]]` | 4 | baja | |
-| 62 | `[[noviciado]]` | 4 | baja | |
+| 62 | `[[noviciado]]` | 4 | baja | ✅ Creado 2026-06-28 |
 | 63 | `[[palabra]]` | 4 | baja | |
 | 64 | `[[parresía]]` | 4 | baja | |
 | 65 | `[[pena_del_fuego]]` | 4 | baja | |
@@ -140,7 +140,7 @@ vs guion bajo, o sinónimo reconocido).
 | 111 | `[[contingencia]]` | 3 | baja | |
 | 112 | `[[corresponsabilidad]]` | 3 | baja | |
 | 113 | `[[cuidados_paliativos]]` | 3 | baja | |
-| 114 | `[[cultura_del_descarte]]` | 3 | baja | |
+| 114 | `[[cultura_del_descarte]]` | 3 | baja | ✅ Creado 2026-06-28 |
 | 115 | `[[cultura_digital]]` | 3 | baja | |
 | 116 | `[[defectos_asumidos_por_cristo]]` | 3 | baja | |
 | 117 | `[[derecho_de_resistencia]]` | 3 | baja | |
@@ -482,7 +482,7 @@ vs guion bajo, o sinónimo reconocido).
 | 453 | `[[oración_afectiva]]` | 2 | baja | |
 | 454 | `[[oración_de_abandono]]` | 2 | baja | |
 | 455 | `[[oración_descuidada]]` | 2 | baja | |
-| 456 | `[[oración_mental]]` | 2 | baja | |
+| 456 | `[[oración_mental]]` | 2 | baja | ✅ Creado 2026-06-28 |
 | 457 | `[[oración_pública]]` | 2 | baja | |
 | 458 | `[[oración_universal]]` | 2 | baja | |
 | 459 | `[[orden_de_predicadores]]` | 2 | baja | |
