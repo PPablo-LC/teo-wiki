@@ -51,6 +51,10 @@ La Iglesia necesita «un espacio de libertad en el campo de la enseñanza». Los
 
 La [[escuela_católica]] es un medio primordial para la educación católica. Se relaciona con el derecho de los padres (c. 793), la libertad de enseñanza (c. 797) y el derecho de la Iglesia a erigir universidades (c. 807).
 
+## Analizado para
+
+- [[vive_el_misterio_2_encuentro_con_cristo]] — convergencia en el marco de la educación católica como cooperación con la misión de la Iglesia (GE §2; CIC c. 795); la propuesta aplica este marco a una jornada de formación docente.
+
 ## Ver también
 
 [[escuela_católica]], [[magisterio_eclesiástico]]

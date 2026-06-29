@@ -39,6 +39,10 @@ El Reglamento de los Fieles Asociados (RFA 1) describe a los miembros laicos del
 
 Se relaciona con [[laicos]], [[apostolado_seglar]], [[espiritualidad_seglar]], [[fieles_asociados_regnum_christi]], [[sacerdocio_común]], [[índole_secular]], [[federación_regnum_christi]].
 
+## Analizado para
+
+- [[vive_el_misterio_2_encuentro_con_cristo]] — convergencia en la vocación del docente laico que santifica el mundo desde dentro (LG 31); la propuesta concreta esta vocación en el aula como lugar del Reino.
+
 ## Ver también
 
 [[laicos]], [[apostolado_seglar]], [[espiritualidad_seglar]], [[fieles_asociados_regnum_christi]]

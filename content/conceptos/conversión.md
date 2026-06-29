@@ -113,6 +113,10 @@ La conversión interior de la persona es el presupuesto esencial de una renovaci
 
 [[penitencia]], [[justificación]], [[arrepentimiento]], [[bautismo]], [[sacramento_de_la_reconciliación]], [[gracia]], [[purificación_de_la_iglesia]], [[protección_de_menores_en_la_iglesia]], [[abuso_sexual_de_menores]], [[clericalismo]], [[acompañamiento_de_víctimas]]
 
+## Analizado para
+
+- [[vive_el_misterio_2_encuentro_con_cristo]] — convergencia en la *metanoia* como cambio de mentalidad (EA §26) que vincula el encuentro con Cristo (Bloque 1) con las convicciones (Bloque 2); la propuesta aplica la conversión permanente a la vocación del educador.
+
 ## Referencias
 
 - CEC §1427-1439

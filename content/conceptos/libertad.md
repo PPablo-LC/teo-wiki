@@ -3,7 +3,7 @@ type: Concepto Teológico
 title: Libertad
 tags: ["moral_fundamental", "antropología_teológica"]
 
-timestamp: 2026-06-10
+timestamp: 2026-06-29
 description: "Facultad de la voluntad por la cual el hombre puede determinar sus propios actos hacia su fin último sin coacción externa ni necesidad interna."
 ---
 # Libertad
@@ -24,6 +24,18 @@ La libertad no es licencia para hacer cualquier cosa, sino capacidad para elegir
 ### Según el Catecismo (CEC)
 
 «La libertad es el poder, radicado en la razón y en la voluntad, de obrar o de no obrar, de hacer esto o aquello» (CEC §1731). La libertad humana es limitada y falible (§1732-1734). El pecado disminuye la libertad; la gracia de Cristo la libera (§1740-1742). El hombre alcanza la libertad perfecta cuando se somete a la verdad y al bien (§1743-1748). La libertad religiosa es un derecho fundado en la dignidad humana (§1804).
+
+### Según Pinckaers (FMC)
+
+Pinckaers dedica los capítulos XIV-XVI de *Las Fuentes de la Moral Cristiana* al estudio de la libertad, distinguiendo dos concepciones fundamentales que han engendrado dos sistematizaciones diferentes de la teología moral.
+
+**Dos concepciones de la libertad.** Pinckaers afirma que «dos concepciones de la libertad han engendrado dos sistematizaciones diferentes de la teología moral». Por un lado, la **libertad de indiferencia** (Ockham, caps. X y XIV), que define la libertad como el poder de elegir entre cosas contrarias, con indeterminación radical de la voluntad. Por otro lado, la **libertad de calidad** (caps. XV-XVI), propia de santo Tomás y los Padres, que define la libertad como excelencia o calidad que crece con la virtud, arraigada en las inclinaciones naturales al bien y a la verdad.
+
+**La libertad de indiferencia.** Históricamente situada en Ockham, esta concepción rompe con las inclinaciones naturales, elimina las virtudes del núcleo de la libertad, atomiza el obrar moral (cada acto es un átomo aislado), y concibe la ley como obligación exterior impuesta por la omnipotencia divina. La libertad se identifica con la voluntad como poder de autodeterminación. De aquí surge la primera moral de la obligación, que centra la moral en el deber y los mandamientos.
+
+**La libertad de calidad.** Expuesta a través de ejemplos (música, lengua, valentía), esta concepción entiende la libertad como una capacidad que se desarrolla en tres etapas: disciplina (1ª), progreso y virtud (2ª), madurez (3ª). La libertad se funda en las inclinaciones naturales a la verdad y al bien. No se opone a la naturaleza, sino que se apoya en ella. La elección libre es un acto conjunto de la inteligencia y la voluntad (*intellectus appetitivus*). La orientación al bien es constitutiva de la libertad; la posibilidad de hacer el mal no pertenece a su esencia, sino que es una deficiencia.
+
+**La encrucijada actual.** Pinckaers sostiene que la crisis de la moral cristiana contemporánea podría ser un momento favorable para hacer emerger de nuevo la doctrina de la libertad de calidad, que considera «más rica y más adecuada que la libertad de indiferencia». La cuestión de la libertad —afirma— nos coloca ante «una opción actual que será sin duda determinante para el resurgimiento que ha de llegar a la moral cristiana» (cap. XIV).
 
 ### Según Royo Marín (TPCr)
 

@@ -64,6 +64,10 @@ Juan Pablo II profundiza en la misión profética de Cristo como Maestro. Jesús
 
 [[jesucristo]] es la Palabra viva del Padre ([[verbo_divino]]). Su enseñanza funda la [[predicación]] apostólica, la [[tradición_apostólica]] y la [[sagrada_escritura]]. El [[magisterio_de_la_iglesia]] es la transmisión autorizada de su enseñanza. Las [[parábola|parábolas]] son el género característico de su magisterio. Su autoridad al enseñar se relaciona con su conciencia mesiánica y su identidad divina.
 
+## Analizado para
+
+- [[vive_el_misterio_2_encuentro_con_cristo]] — convergencia en Cristo como Maestro supremo (SmTh IIIª q.42); la propuesta aplica esta teología a la vocación del educador católico, que participa del magisterio de Cristo.
+
 ## Ver también
 
 [[jesucristo]], [[verbo_divino]], [[predicación]], [[enseñanza_de_cristo]], [[tradición_apostólica]], [[sagrada_escritura]], [[revelación]], [[magisterio_de_la_iglesia]], [[parábola]], [[autoridad_de_cristo]]

@@ -3,7 +3,7 @@ type: Concepto Teológico
 title: Bienaventuranza
 tags: ["dogmática_—_escatología"]
 
-timestamp: 2026-06-04
+timestamp: 2026-06-29
 description: "La bienaventuranza eterna o visión beatífica es el fin último del hombre, que consiste en la posesión perfecta de Dios mismo."
 ---
 # Bienaventuranza
@@ -57,6 +57,20 @@ Las bienaventuranzas del sermón de la montaña (*Mt 5,3-12; Lc 6,20-26*) ofrece
 **Suplemento (Suppl., q.95):** Santo Tomás distingue las dotes de la bienaventuranza misma (q.95 a.2): la bienaventuranza es la operación perfecta por la que el alma se une a Dios, mientras que las dotes son hábitos o disposiciones ordenados a esa operación. Así, la visión en cuanto acto es bienaventuranza; en cuanto hábito (claridad de gloria), es dote.
 
 [SmTh Ia-IIae q.1-5; Suppl. q.93-95]
+
+### Según Pinckaers (FMC)
+
+Pinckaers trata la bienaventuranza a lo largo de *Las Fuentes de la Moral Cristiana* como el concepto organizador de toda la teología moral.
+
+**La bienaventuranza como primera cuestión moral.** En su definición de teología moral (cap. I), Pinckaers coloca la bienaventuranza en el centro: «La teología moral es la parte de la teología que estudia los actos humanos para ordenarlos a la visión amorosa de Dios, como bienaventuranza verdadera y plena». La cuestión de la felicidad, que todo hombre se plantea espontáneamente, es la primera cuestión moral para la tradición de los Padres y de santo Tomás.
+
+**Omisión por los manuales.** Pinckaers denuncia que los manuales de moral (cap. XI) suprimieron el tratado de la bienaventuranza de la moral fundamental. El deseo de felicidad fue considerado demasiado subjetivo y fue descartado por las morales de la obligación. La ordenación al fin último se mantuvo, pero desligada de la bienaventuranza, como una obligación más: «el deseo de felicidad parecía demasiado subjetivo y es siempre descartado por las morales de la obligación o del deber».
+
+**Centralidad en la moral tomista.** En el capítulo IX, Pinckaers muestra cómo santo Tomás coloca el tratado de la bienaventuranza y del fin último al comienzo de su moral (S.Th. I-II, q. 1-5), como principio de unidad de todos los actos humanos. La bienaventuranza no es un tema periférico sino el principio organizador: expresa la inclinación primitiva hacia la verdad y el bien que las virtudes desarrollan.
+
+**Ockham y la eliminación de la bienaventuranza.** Ockham (caps. X y XIV) elimina la inclinación a la felicidad del núcleo de la libertad. Para él, la voluntad puede querer o no querer la bienaventuranza, pues la libertad de indiferencia permanece indeterminada incluso frente al fin último. Esta ruptura prepara el olvido posterior de la bienaventuranza en los manuales. Pinckaers considera que la separación entre la idea de bien moral y las nociones de perfección y felicidad es «uno de los fenómenos más graves de la historia de la moral occidental» (cap. XVII).
+
+**Recuperación.** Pinckaers aboga por restaurar la cuestión de la bienaventuranza como principio ordenador de la moral, siguiendo la estructura de la *Suma Teológica*: la bienaventuranza como primer tratado, las virtudes como vías hacia ella, y la gracia y los dones del Espíritu Santo como medios sobrenaturales. Esta recuperación es condición necesaria para superar la crisis de la moral cristiana contemporánea.
 
 ### Según Royo Marín (TPCr)
 

@@ -293,6 +293,10 @@ Thomas O'Loughlin (2017) trata la Eucaristía como el caso paradigmático de lo 
 - [[primeros_pasos_en_la_vida_espiritual]]
 - [[alexander_marriage_gospels]] — convergencia en la Eucaristía como sacrificio de la Nueva Alianza; aporta la tipología de las Bodas de Caná donde el agua convertida en vino anticipa la sangre y el agua del costado de Cristo
 
+## Analizado para
+
+- [[vive_el_misterio_2_encuentro_con_cristo]] — convergencia en la Eucaristía como lugar privilegiado del encuentro con Cristo vivo (EA §35) y culminación de la jornada; la propuesta desarrolla la dimensión eucarística del envío (los compromisos ofrecidos en la Misa).
+
 ## Ver también
 - [[sacramentos]]
 - [[gracia_santificante]]

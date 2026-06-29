@@ -69,6 +69,10 @@ Se relaciona con [[evangelización]], [[doctrina_social_de_la_iglesia]], [[misi�
 - [[brian_cochran_my_personal_emmaus]]
 - [[joey_stevens_grit_perseverance]]
 
+## Analizado para
+
+- [[vive_el_misterio_2_encuentro_con_cristo]] — convergencia en la nueva evangelización como renovado impulso misionero (EA §6) aplicado al ámbito educativo; la propuesta es un acto de nueva evangelización para docentes (EA §71).
+
 ## Ver también
 [[evangelización]], [[doctrina_social_de_la_iglesia]], [[misión_de_la_iglesia]]
 

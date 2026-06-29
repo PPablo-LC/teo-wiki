@@ -3,7 +3,7 @@ type: Concepto Teológico
 title: Ley natural
 tags: ["moral"]
 
-timestamp: 2026-06-28
+timestamp: 2026-06-29
 description: "La ley natural es la participación de la sabiduría y bondad del Creador en el hombre, formado a imagen de Dios."
 ---
 # Ley natural
@@ -74,6 +74,20 @@ La ley natural tiene valor vinculante incluso para quienes no aceptan la Revelac
 ### Según la Veritatis Splendor (VS)
 
 La Veritatis Splendor es la encíclica que con mayor profundidad reafirma la doctrina de la ley natural en el magisterio reciente. Sigue a santo Tomás definiendo la ley natural como «la luz de la inteligencia infundida en nosotros por Dios; gracias a ella conocemos lo que se debe hacer y lo que se debe evitar» (§12, citando a Sto. Tomás). La ley natural es participación de la ley eterna en la criatura racional (§42-44). Es universal e inmutable (§51-53), inscrita en el corazón del hombre (Rm 2,15). La encíclica rechaza las objeciones de fisicismo y naturalismo contra la ley natural (§46-47), afirmando que la ley natural se refiere a la naturaleza de la persona humana en su integralidad de alma y cuerpo (§48-50).
+
+### Según Pinckaers (FMC)
+
+Pinckaers dedica el capítulo XVII de *Las Fuentes de la Moral Cristiana* a las inclinaciones naturales como fundamento de la ley natural y origen de la libertad.
+
+**Inclinaciones naturales como base de la ley natural.** La ley natural es, para santo Tomás, la expresión bajo forma de preceptos de las inclinaciones naturales regidas por las inclinaciones al bien y a la verdad. La ley natural, aunque se impone desde el exterior cuando es enseñada, está inscrita en el corazón del hombre, en la naturaleza misma de sus facultades de razón y de voluntad. Esta doctrina, que santo Tomás recibe de Aristóteles y Cicerón, constituye la «piedra angular» de la construcción moral tomista.
+
+**Cinco inclinaciones naturales.** Siguiendo a santo Tomás (S.Th. I-II, q. 94, a. 2), Pinckaers enumera las inclinaciones naturales: 1) inclinación al bien (principio primero de la razón práctica: *bonum est faciendum*); 2) inclinación a la conservación de la existencia; 3) inclinación a la unión sexual y a la educación de los hijos; 4) inclinación al conocimiento de la verdad (especialmente sobre Dios); 5) inclinación a la vida en sociedad. Estas inclinaciones son para la razón práctica lo que los primeros principios son para la razón especulativa.
+
+**Ruptura de Ockham.** Ockham elimina las inclinaciones naturales del núcleo de la libertad. Para él, la voluntad puede querer o no querer la felicidad, el fin último y la propia existencia. La ley natural ya no se funda en la naturaleza humana y sus inclinaciones, sino que consiste en el dictamen de la recta razón que expresa las órdenes y obligaciones emanadas de la voluntad divina. Pinckaers considera esta ruptura como la destrucción de la piedra angular de la construcción de santo Tomás y la causa de una inversión total de la arquitectura de la moral.
+
+**Recuperación tomista.** Pinckaers propone recuperar el sentido de lo «natural» espiritual que se manifiesta en las inclinaciones primeras. La naturaleza espiritual no se opone a la libertad, sino que la funda: «el hombre no es libre a pesar de sus inclinaciones naturales, sino a causa de ellas». Las inclinaciones naturales suministran al hombre la base necesaria para la recepción de la gracia, las virtudes sobrenaturales, los dones del Espíritu Santo y la ley revelada.
+
+**Cicerón.** Pinckaers señala que la lista de las inclinaciones tiene un precedente claro en Cicerón (*De officiis*, *De finibus bonorum et malorum*), quien distingue la tendencia a la autoconservación, la unión sexual, la búsqueda de la verdad y la vida social, así como el sentido del orden y la belleza que forma la *honestas* (calidad moral). El texto de Cicerón es «la mejor introducción a la doctrina de las inclinaciones naturales del Doctor Angélico».
 
 ### Según el Enchiridion Symbolorum (Denzinger)
 

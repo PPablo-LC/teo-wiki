@@ -37,6 +37,20 @@ El archivo es la planificación completa de una **Jornada de Capacitación Insti
 
 - **[[discernimiento_comunitario]]**: el plenario y la dinámica grupal reflejan el principio de que «nadie puede erigirse en único intérprete de la Biblia» (RC-EcC-2022, Parte II) y que el horizonte de interpretación es naturalmente comunitario.
 
+- **[[cristo_maestro]]**: la jornada implica una teología implícita de Cristo como Maestro supremo (SmTh IIIª q.42). La exposición del padre sobre la autoridad única de Cristo para enseñar se conecta directamente con este artículo. Los docentes participan del magisterio de Cristo, no lo sustituyen.
+
+- **[[educación_católica]]**: la propuesta se inserta en el marco de la educación católica como cooperación con la misión de la Iglesia (CIC c. 795; GE §2). El artículo ofrece el fundamento canónico y conciliar para entender el colegio como institución evangelizadora.
+
+- **[[vocación_laical]]**: los docentes, como fieles laicos, buscan el Reino «tratando y ordenando según Dios los asuntos temporales» (LG 31). El aula es el lugar de su santificación y apostolado.
+
+- **[[conversión]]**: el paso del encuentzo a las convicciones (Bloque 2) se corresponde con la *metanoia* que describe EA §26: «cambio de mentalidad» y «revisión del propio modo de actuar a la luz de los criterios evangélicos».
+
+- **[[eucaristía]]**: la Santa Misa como culminación de la jornada se fundamenta en que «la Eucaristía es el lugar privilegiado para el encuentro con Cristo vivo» (EA §35) y «fuente y culmen de toda la vida cristiana» (CEC §1324).
+
+- **[[nueva_evangelización]]**: la formación de docentes para el encuentro con Cristo es un acto de nueva evangelización aplicada al ámbito educativo, que EA §71 reconoce como «campo privilegiado para promover la inculturación del Evangelio».
+
+- **[[evangelización_de_la_cultura]]**: la jornada busca evangelizar la cultura escolar desde dentro, formando a los educadores como agentes de una presencia evangélica capilar en el mundo de la educación.
+
 ### Complementos y aportaciones nuevas
 
 - **Adaptación al ámbito escolar**: el documento original (RC-EcC-2022) está escrito para miembros del Regnum Christi en equipos o comunidades de vida. La propuesta lo **transpone creativamente a un claustro docente** de un colegio católico, manteniendo la estructura teológica pero aplicándola a la vocación específica del educador. Esto es un desarrollo original que el documento fuente no contempla explícitamente.
@@ -54,6 +68,10 @@ El archivo es la planificación completa de una **Jornada de Capacitación Insti
 ### Tensiones o divergencias
 
 No se detectan tensiones doctrinales entre la propuesta y el documento fuente. Ambas comparten la misma base teológica y metodológica. La propuesta es una **aplicación fiel y creativa** del RC-EcC-2022 al contexto educativo. Las diferencias son de formato, no de contenido doctrinal.
+
+### Matiz pastoral sobre los presupuestos
+
+El documento RC-EcC-2022 establece tres presupuestos para el Encuentro (Parte III): **fraternidad cristiana** (amistad y confianza recíproca entre los miembros), **carisma del Regnum Christi** (los participantes comparten un mismo carisma) y **misión comunitaria** (una misión compartida que enmarca la vida del grupo). La propuesta de jornada para docentes del IHST no puede dar por supuestos estos tres presupuestos con la misma intensidad que un equipo estable del RC: los docentes pueden tener niveles diversos de compromiso eclesial, no comparten necesariamente el carisma del RC (aunque el colegio sea del IHST), y su «misión comunitaria» como claustro es más institucional que carismática. Esto no invalida la propuesta, pero el expositor debe ser consciente de que está **creando** las condiciones del encuentro (fraternidad, apertura a la fe, misión compartida) durante la misma jornada, no presuponiéndolas. La propuesta lo resuelve bien con la dinámica de oración en grupos pequeños y el compartir desde el corazón, que genera confianza progresivamente.
 
 ## Guía de conexiones por bloque: cómo usar el material de RC-EcC-2022
 
@@ -108,9 +126,63 @@ La exposición del padre sobre el Dios que habla y sale al encuentro debe apoyar
 
 El documento fuente menciona la fracción del Pan como medio privilegiado del encuentro (Parte II) y el carácter eucarístico del doble alimento Palabra-Pan. La propuesta desarrolla este aspecto al hacer de la Misa el punto culminante donde los compromisos se ofrecen. Esto es una aplicación legítima que profundiza en la dimensión eucarística sugerida pero no desarrollada en el documento.
 
+## Conexiones con la base doctrinal general del wiki
+
+Cada bloque de la propuesta puede enriquecerse con los artículos de la base doctrinal del wiki, que ofrecen fundamentos teológicos más amplios que los que proporciona el documento RC-EcC-2022 por sí solo.
+
+### Bloque 1 — El Encuentro
+
+| Dimensión | Artículo wiki | Aportación |
+|-----------|---------------|------------|
+| Cristo como Maestro | [[cristo_maestro]] | Cristo es el doctor supremo que enseña con autoridad propia (SmTh IIIª q.42). Los maestros humanos participan de su magisterio. Cita obligada para la exposición del padre: «Jamás ha hablado nadie como este hombre» (Jn 7,46; CEC §581). |
+| Teología de la Palabra | [[palabra_de_dios]] | La Palabra de Dios es comunicación del mismo Dios. DV 21: «apoyo y vigor de la Iglesia, fortaleza de la fe, alimento del alma». DV 25: «El desconocimiento de las Escrituras es desconocimiento de Cristo». |
+| Los cuatro sentidos de la Escritura | [[escritura]] | Puede enriquecer la Lectio Divina mencionando el sentido literal, alegórico, moral y anagógico (CEC §115-119). |
+| Cultura del encuentro | [[cultura_del_encuentro]] | Enmarca la jornada en el magisterio reciente sobre el encuentro como estilo de relación social fundado en el reconocimiento del otro. |
+
+### Bloque 2 — Las Convicciones
+
+| Dimensión | Artículo wiki | Aportación |
+|-----------|---------------|------------|
+| Vocación del educador | [[vocación_cristiana]] | El trabajo docente no es un empleo sino una llamada personal de Cristo. «Sígueme» (RH §21). La vocación es participación tridimensional en el sacerdocio, profecía y realeza de Cristo. |
+| Vocación laical del docente | [[vocación_laical]] | Los docentes como laicos que santifican el mundo desde dentro (LG 31). Su aula es su lugar de apostolado. |
+| Conversión como metanoia | [[conversión]] | EA §26: «cambio de mentalidad». La conversión no es un acto puntual sino que abarca toda la vida (EA §28). El encuentro con Cristo mueve a conversión permanente. |
+| Seguimiento de Cristo | [[seguimiento_de_cristo]] | La llamada «Venid en pos de mí» implica ruptura, adhesión personal y configuración con Cristo. Las Bienaventuranzas como «carta magna» del discipulado. La cruz como condición (Mt 16,24). |
+| Santidad del educador | [[santidad]] | LG §40: todos los fieles están llamados a la plenitud de la vida cristiana. La santidad se cultiva «en los múltiples géneros de vida y ocupaciones» (LG §41). |
+| Discípulo | [[discípulo]] | El discípulo comparte la vida y el destino del Maestro. La relación es personal, no meramente doctrinal (VocTeoBib). «Mientras la llamada es personal, el seguimiento del Maestro es comunitario» (RC-Inst_12). |
+
+### Bloque 3 — Las Decisiones
+
+| Dimensión | Artículo wiki | Aportación |
+|-----------|---------------|------------|
+| Discernimiento apostólico | [[discernimiento]] | El discernimiento perfeccionado por la prudencia y la docilidad al Espíritu. Tres niveles: racional, moral, espiritual (RC-EcC-2022, nota 6). |
+| Signos de los tiempos | [[signos_de_los_tiempos]] | GS 4: «es deber permanente de la Iglesia escrutar a fondo los signos de la época». Base del VER en la Revisión de Vida. |
+| Misión evangelizadora | [[evangelización]] | EA §68: «El primer impulso que surge de esta transformación es comunicar a los demás la riqueza adquirida en la experiencia de este encuentro». |
+| Nueva evangelización | [[nueva_evangelización]] | EA §6: «nueva en su ardor, en sus métodos, en su expresión». EA §71: la educación como campo privilegiado. |
+| Testimonio cristiano | [[testimonio_cristiano]] | CompDS §525: «El mensaje social se hará creíble por el testimonio de las obras, antes que por su coherencia y lógica interna». |
+| Apostolado de los laicos | [[apostolado_de_los_laicos]] | JPII en DyM VII: la conciencia de la urgencia del apostolado laical. Los laicos multiplican la acción pastoral «superando barreras y penetrando en ambientes». |
+
+### Culminación eucarística
+
+| Dimensión | Artículo wiki | Aportación |
+|-----------|---------------|------------|
+| Eucaristía como encuentro | [[eucaristía]] | EA §35: «La Eucaristía es el lugar privilegiado para el encuentro con Cristo vivo». CEC §1324: «fuente y culmen de toda la vida cristiana». RH §20: Sacramento-Sacrificio, Sacramento-Comunión, Sacramento-Presencia. |
+| Comunión eclesial | [[comunión_eclesial]] | EA §33: la Iglesia es «signo e instrumento de la comunión querida por Dios». La Misa congrega a la comunidad educativa como Iglesia local. |
+
+### Marco institucional
+
+| Dimensión | Artículo wiki | Aportación |
+|-----------|---------------|------------|
+| Educación católica | [[educación_católica]] | GE §2: la educación cristiana busca que los bautizados «se hagan más conscientes cada día del don de la fe». CIC c. 795: formación integral de la persona. |
+| Formación cristiana | [[formación_cristiana]] | CEC §428: quien es llamado a «enseñar a Cristo» debe primero buscar «esta ganancia sublime que es el conocimiento de Cristo». La lógica de la jornada. |
+| Catequesis | [[catequesis]] | EA §69: la catequesis «informa la mente y toca el corazón, llevando a la persona a abrazar a Cristo de modo pleno y completo». La jornada es catequesis de adultos para docentes. |
+
+### Matiz importante
+
+Estas conexiones **no aparecen en la propuesta original** ni son exigidas por ella. Son recursos que el expositor (el padre que da la jornada) puede usar para **profundizar** cada bloque si lo considera oportuno según el nivel de formación teológica de los docentes. La propuesta original ya es completa y autosuficiente con el material de RC-EcC-2022; los artículos del wiki añaden profundidad magisterial y conexiones con el Catecismo, el Concilio Vaticano II y el magisterio de Juan Pablo II y León XIV.
+
 ## Ver también
 
-[[encuentro_con_cristo]], [[revisión_de_vida]], [[discernimiento_apostólico]], [[envío_apostólico]], [[amistad_con_dios]], [[comunidad_de_apóstoles]], [[lectio_divina]], [[discernimiento_comunitario]]
+[[encuentro_con_cristo]], [[revisión_de_vida]], [[discernimiento_apostólico]], [[envío_apostólico]], [[amistad_con_dios]], [[comunidad_de_apóstoles]], [[lectio_divina]], [[discernimiento_comunitario]], [[cristo_maestro]], [[educación_católica]], [[vocación_laical]], [[conversión]], [[eucaristía]], [[nueva_evangelización]], [[evangelización_de_la_cultura]], [[palabra_de_dios]], [[cultura_del_encuentro]], [[seguimiento_de_cristo]], [[santidad]], [[discípulo]], [[discernimiento]], [[signos_de_los_tiempos]], [[evangelización]], [[testimonio_cristiano]], [[comunión_eclesial]], [[formación_cristiana]], [[catequesis]]
 
 ## Referencias
 

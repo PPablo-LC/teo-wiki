@@ -3,7 +3,7 @@ tags:
   - meta
   - index
 title: Wiki Index
-updated: '2026-06-28'
+updated: '2026-06-29'
 note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts/regenerar-indice.py'
 ---
 
@@ -963,6 +963,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[inauguración_del_reino]]
 - [[incardinación]]
 - [[incendios_de_amor]]
+- [[inclinaciones_naturales]]
 - [[inconsideracion]]
 - [[inconstancia]]
 - [[incontinencia]]
@@ -1101,6 +1102,8 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[liberalidad]]
 - [[libertad]]
 - [[libertad_cristiana]]
+- [[libertad_de_calidad]]
+- [[libertad_de_indiferencia]]
 - [[libertad_humana]]
 - [[libertad_interior]]
 - [[libertad_religiosa]]
@@ -2260,6 +2263,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[gregorio_xi]]
 - [[gregorio_xiii]]
 - [[gregorio_xvi]]
+- [[guillermo_de_ockham]]
 
 ### H
 
@@ -2442,6 +2446,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 
 - [[familiaris_consortio]]
 - [[fides_et_ratio]]
+- [[FMC-las-fuentes-de-la-moral-cristiana]]
 
 ### H
 
