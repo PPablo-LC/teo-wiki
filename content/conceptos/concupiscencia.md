@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Concupiscencia
 tags: ["moral"]
 
-timestamp: 2026-06-23
+timestamp: 2026-06-29
 description: "La concupiscencia es el movimiento o inclinación desordenada de los apetitos sensibles que, como consecuencia del pecado original, habita en el hombre y lo inclina al pecado."
 ---
 # Concupiscencia
 
 > Área: Moral
-> Última actualización: 2026-06-23
+> Última actualización: 2026-06-29
 
 ## Definición
 
@@ -70,6 +70,14 @@ En el pecado original, la concupiscencia constituye el elemento material (la con
 **Relación con la distinción antecedente/consiguiente:** Aunque Santo Tomás desarrolla esta distinción en otras cuestiones (cf. Ia-IIae q.77 a.6), se deduce de su doctrina sobre el apetito sensitivo: la concupiscencia antecedente precede al juicio de la razón y puede atenuar la responsabilidad; la consiguiente sigue al acto de la voluntad deliberada y procede de él.
 
 [TPCr, Parte III, Libro I, Cap. 4]
+### Según Pinckaers (FMC)
+
+Pinckaers trata la concupiscencia en el marco de la oposición paulina entre carne y espíritu (FMC cap. V). San Pablo distingue dos conductas: la moral de la carne (concupiscencia, fornicación, impureza, discordia, envidia) y la moral del Espíritu (caridad, paz, dominio de sí). La carne no es el cuerpo, sino el hombre en cuanto se opone a la acción del Espíritu.
+
+Pinckaers señala que la moral de los manuales, al centrarse en la obligación y los mandamientos, redujo la concupiscencia a una transgresión legal más que a una lucha espiritual por la transformación interior del hombre mediante la gracia. En la tradición de santo Tomás, la concupiscencia se inserta en el marco de las pasiones (Ia-IIae q.30), que no son malas en sí mismas sino que deben ser ordenadas por la razón y la gracia (FMC caps. IX, XI).
+
+[FMC caps. V:2 (B.3), IX:3 (A.5), XI:2]
+
 ### Según Royo Marín (TPCr)
 
 Royo Marín dedica un capítulo a la concupiscencia (Parte III, Libro I, Cap. 4) como una de las tres enemigas del alma (junto al demonio y el mundo). La concupiscencia es la inclinación interna al mal que proviene de la herida del pecado original.

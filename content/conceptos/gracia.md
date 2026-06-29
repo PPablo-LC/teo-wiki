@@ -9,7 +9,7 @@ description: "Don gratuito que Dios nos da para responder a su llamada: llegar a
 # Gracia
 
 > Área: Dogmática
-> Última actualización: 2026-06-27
+> Última actualización: 2026-06-29
 
 ## Definición
 
@@ -20,6 +20,14 @@ Don gratuito que Dios nos da para responder a su llamada: llegar a ser hijos de 
 La gracia es una participación en la vida íntima de Dios. Se distingue entre la gracia santificante (o habitual), que es una disposición permanente y sobrenatural que perfecciona al alma haciéndola capaz de vivir con Dios, y las gracias actuales, que son intervenciones divinas que preparan, acompañan y sostienen la obra de la santificación. La gracia es necesaria para la justificación, la perseverancia y la salvación. No destruye la naturaleza sino que la perfecciona y eleva.
 
 ## Perspectivas por fuente
+
+### Según Pinckaers (FMC)
+
+Pinckaers sitúa la gracia como elemento central de la moral cristiana. En la estructura de la Suma, el tratado de la gracia sigue inmediatamente al de la Ley nueva porque «éste es el rasgo específico de la predicación evangélica según los Padres: no nos enseña solamente una ley, sino que nos da el socorro de la gracia para cumplirla» (FMC cap. IX). La gracia es la principal obra del Espíritu Santo; mediante ella, la Ley evangélica nos justifica por la fe y nos santifica por la caridad.
+
+Pinckaers critica que los manuales postridentinos omitieran el tratado de la gracia de la moral, relegándolo a la dogmática. Esto produjo una separación entre la ley moral y la fuerza para cumplirla, desembocando en una moral de la obligación sin suficiente fundamento en la gracia (FMC cap. XI:2). Recuperar la gracia como principio interior de la vida moral es esencial para una renovación de la teología moral (FMC caps. I:2, XII:1).
+
+[FMC caps. I:2, IX:3 (A.5), XI:2, XII:1]
 
 ### Según el Catecismo (CEC)
 

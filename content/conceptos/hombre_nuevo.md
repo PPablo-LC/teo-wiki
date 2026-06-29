@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Hombre nuevo
 tags: ["dogmática", "antropología_teológica"]
 
-timestamp: 2026-06-20
+timestamp: 2026-06-29
 description: "El «hombre nuevo» es el hombre redimido y recreado en Cristo, llamado a la filiación divina por la gracia de la adopción en el Unigénito Hijo de Dios."
 ---
 # Hombre nuevo
 
 > Área: Dogmática / Antropología teológica
-> Última actualización: 2026-06-20
+> Última actualización: 2026-06-29
 
 ## Definición
 
@@ -32,6 +32,14 @@ La *Redemptor Hominis* desarrolla el concepto paulino del hombre nuevo (Ef 2, 15
 **La vocación del hombre en Cristo** (RH §18): Esta vida prometida y dada a cada hombre por el Padre en Jesucristo, Hijo eterno y unigénito, encarnado y nacido de la Virgen María «al llegar la plenitud de los tiempos» (Gál 4, 4), es el final cumplimiento de la vocación del hombre. La Iglesia, consciente de la dignidad de la adopción divina que obtiene el hombre en Cristo por la gracia del Espíritu Santo (cf. Rom 8, 15; Gál 4, 6) y de la destinación a la gracia y a la gloria (cf. Rom 8, 30), se hace más idónea al servicio del hombre.
 
 **El hombre creado por Dios y para Dios** (RH §13): Todo hombre ha sido comprendido en el misterio de la Redención y con cada uno se ha unido Cristo para siempre. El hombre es «en la tierra la única criatura que Dios ha querido por sí misma» (*Gaudium et spes* 24). El hombre, tal como ha sido querido por Dios, elegido eternamente, llamado, destinado a la gracia y a la gloria, es cada hombre en toda la plenitud del misterio del que se ha hecho partícipe en Jesucristo.
+
+### Según Pinckaers (FMC)
+
+Pinckaers desarrolla el concepto paulino del hombre nuevo en el marco de la moral cristiana según san Pablo (FMC cap. V). La fe del creyente produce un verdadero cambio de personalidad, expresado en la oposición «hombre viejo» / «hombre nuevo» (Rm 6, 6.13; Ef 4, 22-24). La fe engendra un hombre nuevo, una personalidad nueva en gestación en la vida del cristiano.
+
+San Pablo describe dos conductas: la moral de la carne (hombre viejo) y la moral del Espíritu (hombre nuevo), cuyos frutos son caridad, alegría, paz, etc. (Ga 5). La vida cristiana llega a ser una vida según el Espíritu. Pinckaers subraya que la moral paulina no puede entenderse sin otorgar un lugar preponderante a la acción del Espíritu Santo, como comprendieron san Agustín y santo Tomás.
+
+[FMC cap. V:2 (B.1-2)]
 
 ## Distinciones importantes
 

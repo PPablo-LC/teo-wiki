@@ -9,7 +9,7 @@ description: "Seguir a Cristo (*akolouthein* en griego) es la llamada fundamenta
 # Seguir a Cristo
 
 > Área: Ascética
-> Última actualización: 2026-06-19
+> Última actualización: 2026-06-29
 
 ## Definición
 
@@ -22,6 +22,14 @@ Jesús llamó a los primeros discípulos con la invitación directa: «Venid en 
 El seguimiento de Cristo tiene un coste: «Si alguno quiere venir en pos de mí, niéguese a sí mismo, tome su cruz y sígame» (Mt 16,24). No se trata solo de admirar a Jesús desde fuera, sino de participar activamente en su proyecto de vida.
 
 ## Perspectivas por fuente
+
+### Según Pinckaers (FMC)
+
+Pinckaers sitúa la imitación (seguimiento) de Cristo como elemento central de la moral paulina (FMC cap. V:2 B.4). San Pablo propone la imitación de Cristo como principio vital de la moral cristiana: «Tened entre vosotros los mismos sentimientos que tuvo Cristo Jesús» (Flp 2,5). La imitación no es copia exterior, sino configuración interior con Cristo por la fe y la caridad.
+
+La fe en Cristo forma un hombre nuevo que vive según el Espíritu, en Cristo y a su imitación. La caridad es el don principal que anima la vida personal y edifica la comunidad eclesial. Este seguimiento implica dos etapas: ruptura con la justicia judía y la sabiduría griega (conversión, humildad), y asunción de lo bueno en ellas integrado en el organismo moral regido por la fe, la esperanza y la caridad.
+
+[FMC cap. V:2 (B.4)]
 
 ### Según el Catecismo (CEC)
 

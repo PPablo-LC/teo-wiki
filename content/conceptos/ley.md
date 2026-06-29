@@ -9,7 +9,7 @@ description: "La ley, en sentido teológico."
 # Ley
 
 > Área: Dogmática / Moral
-> Última actualización: 2026-06-20
+> Última actualización: 2026-06-29
 
 ## Definición
 
@@ -22,6 +22,14 @@ La ley moral es obra de la Sabiduría divina y tiene por objeto el bien de la pe
 La ley moral tiene en Cristo su plenitud y su unidad. Jesucristo es en persona el camino de la perfección y el fin de la Ley, porque solo Él enseña y da la justicia de Dios.
 
 ## Perspectivas por fuente
+
+### Según Pinckaers (FMC)
+
+Pinckaers sitúa la ley en el marco de la evolución histórica de la moral. En la moral de los manuales (FMC cap. XI), la ley se convirtió en la fuente única de la moralidad, desplazando a las virtudes y la bienaventuranza. La ley natural fue identificada con el Decálogo y se abandonó el tratado de la Ley evangélica.
+
+Frente al nominalismo de Ockham (FMC cap. X), para quien la ley no se basa en la naturaleza humana sino en la voluntad divina arbitraria, Pinckaers recupera la concepción tomista: la ley procede de la razón práctica y se ordena a la bienaventuranza. La ley eterna, la ley natural, la ley humana y la ley divina (antigua y nueva) forman un orden armónico donde la Ley evangélica es la cima.
+
+[FMC caps. I:1, X:2, XI:2]
 
 ### Según el Catecismo (CEC)
 

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Moral cristiana
 tags: ["moral"]
 
-timestamp: 2026-06-21
+timestamp: 2026-06-29
 description: "Conjunto de enseñanzas y principios derivados del Evangelio que ordenan los actos humanos del cristiano a su fin último —Dios— y a la vida de santidad."
 ---
 # Moral cristiana
 
 > Área: Moral
-> Última actualización: 2026-06-21
+> Última actualización: 2026-06-29
 
 ## Definición
 
@@ -32,6 +32,12 @@ El relativismo es presentado como la gran amenaza para la civilización occident
 El Papa denuncia el fenómeno de teólogos que rechazan la sana doctrina y la difunden públicamente con apoyo mediático, creando confusión entre los fieles. La ley moral, la conciencia y la verdad son inseparables: la conciencia no crea la verdad sino que la reconoce.
 
 [UDE, Cap. XVIII-XIX, XXVII]
+
+### Según Pinckaers (FMC)
+
+Pinckaers aborda la existencia y especificidad de la moral cristiana como cuestión central. Frente a la tesis de una «moral autónoma» (Fuchs), defiende que la moral cristiana tiene una especificidad propia, no reducible a una ética filosófica universal. El cristianismo no añade simplemente algunos preceptos sobrenaturales a una moral natural completa; transforma desde dentro el obrar moral por la fe en Cristo, la acción del Espíritu Santo y la Ley evangélica (FMC cap. IV).
+
+San Pablo constituye el testigo principal: la fe en Cristo es la fuente de la moral cristiana, que produce un «hombre nuevo», una vida según el Espíritu, la imitación de Cristo y la caridad como ágape (FMC cap. V). El Sermón de la Montaña, para san Agustín y santo Tomás, es el texto propio de la Ley nueva y contiene toda la información de la vida cristiana (FMC cap. VI). Santo Tomás, con su tratado de la Ley nueva (Ia-IIae qq.106-108), ofrece la sistematización más lograda de la moral cristiana: su elemento principal es la gracia del Espíritu Santo, no un conjunto de preceptos exteriores (FMC cap. VII).
 
 ## Distinciones importantes
 

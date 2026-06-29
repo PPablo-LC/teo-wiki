@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Justificación
 tags: ["dogmática"]
 
-timestamp: 2026-06-08
+timestamp: 2026-06-29
 description: "La justificación es la obra de la gracia del Espíritu Santo por la cual el hombre, movido por Dios, se vuelve a Él y se aparta del pecado, acogiendo el perdón y la justicia de lo alto (CEC §1989)."
 ---
 # Justificación
 
 > Área: Dogmática
-> Última actualización: 2026-06-08
+> Última actualización: 2026-06-29
 
 ## Definición
 
@@ -26,6 +26,16 @@ Nadie puede merecer la gracia primera, pero bajo la moción del Espíritu Santo 
 ### Según el Catecismo (CEC)
 
 La justificación es la obra más excelente del amor de Dios, que «manifiesta una misericordia mayor» incluso que la creación (§1994, citando a San Agustín). Con la justificación son difundidas en nuestros corazones la fe, la esperanza y la caridad (§1991). El progreso espiritual tiende a la unión cada vez más íntima con Cristo, unión llamada «mística» porque participa del misterio de Cristo mediante los sacramentos (§2014).
+
+### Según Pinckaers (FMC)
+
+Pinckaers dedica el capítulo XII a la relación entre moral católica y ética protestante, centrado en la justificación por la sola fe. La tesis protestante (Lutero, Calvino) afirma que el hombre se justifica solo por la fe, no por las obras, implicando el rechazo de todo valor de salvación de las obras humanas. Esta posición conduce a negar que la gracia y la justicia puedan hacerse interiores al hombre: la justicia permanece «foránea», atribuida por Cristo (FMC cap. XII).
+
+Como reacción, la moral católica postridentina subrayó el valor meritorio de las obras, la ley natural y el Decálogo, pero se distanció de la fe en su papel práctico. Pinckaers propone recuperar la fe como fuente primera de la moral cristiana, en la línea de san Pablo, los Padres y santo Tomás, sin caer en el extremo protestante ni en el legalismo católico.
+
+En la estructura de la Suma, santo Tomás sitúa la justificación inmediatamente después de la Ley nueva, pues la Ley evangélica es «una gracia» que nos justifica por la fe y nos santifica por la caridad (FMC cap. IX). La justificación no es solo remisión de pecados, sino infusión de la gracia y renovación interior del hombre.
+
+[FMC caps. IX:3, XII:1]
 
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 

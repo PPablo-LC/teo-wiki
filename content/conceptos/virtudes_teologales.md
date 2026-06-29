@@ -9,7 +9,7 @@ description: "Las virtudes teologales son las tres virtudes infusas que tienen a
 # Virtudes teologales
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-05-26
+> Última actualización: 2026-06-29
 
 ## Definición
 
@@ -38,6 +38,16 @@ El P. Jorge Loring enseña que la gracia santificante nos concede las virtudes t
 
 Estas tres virtudes tienen a Dios mismo por objeto y son infundidas con la gracia santificante. Constituyen el fundamento de toda la vida moral sobrenatural y el principio que anima todas las demás virtudes.
 
+
+### Según Pinckaers (FMC)
+
+Pinckaers sitúa las virtudes teologales como el corazón de la moral cristiana. En su exposición de la moral según san Pablo (FMC cap. V), la fe, la esperanza y la caridad son inseparables: la fe en Cristo es la fuente de la justificación, y de ella brotan la esperanza y la caridad derramada por el Espíritu Santo (Rm 5, 1-5).
+
+En la controversia con Fuchs sobre la especificidad de la moral cristiana (FMC cap. IV), Pinckaers defiende que las virtudes teologales no son un simple añadido a las virtudes morales, sino que transforman desde dentro todo el obrar cristiano. La caridad es la forma de todas las virtudes, y sin ella la fe y la esperanza no tienen razón perfecta de virtud.
+
+En la respuesta católica al protestantismo (FMC cap. XII:2), las virtudes teologales —especialmente la caridad infusa— son el fundamento de la distinción entre la moral cristiana y la ética meramente filosófica. Pinckaers critica que los manuales postridentinos relegaran el tratado de las virtudes teologales a favor de una moral centrada en la ley y los mandamientos.
+
+[FMC caps. I:1, IV:2, V:2, XII:2]
 
 ## Relaciones doctrinales
 

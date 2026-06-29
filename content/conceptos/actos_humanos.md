@@ -9,7 +9,7 @@ description: "Los actos humanos son aquellos actos libremente realizados tras un
 # Actos humanos
 
 > Área: Moral
-> Última actualización: 2026-06-05
+> Última actualización: 2026-06-29
 
 ## Definición
 
@@ -22,6 +22,14 @@ La moralidad de los actos humanos depende de tres fuentes: el objeto elegido, la
 El acto moralmente bueno supone la bondad simultánea del objeto, del fin y de las circunstancias (§1755). Hay actos que, por sí y en sí mismos, son siempre gravemente ilícitos por razón de su objeto (como la blasfemia, el perjurio, el homicidio, el adulterio) (§1756).
 
 ## Perspectivas por fuente
+
+### Según Pinckaers (FMC)
+
+Pinckaers trata los actos humanos como parte fundamental de la moral (FMC cap. III). El conocimiento moral distingue cuatro niveles: fontal (experiencia directa del bien), reflejo (conciencia moral), reflexión (elaboración racional) y conocimiento teórico (sistematización científica). El acto humano no puede entenderse solo desde la razón teórica, sino desde la experiencia viva del bien.
+
+En la estructura de la Suma (FMC cap. IX), santo Tomás sitúa los actos humanos (Ia-IIae qq.6-21) como antesala del tratado de las pasiones, virtudes, ley y gracia. La moral de los manuales (FMC cap. XI) redujo los actos humanos a un análisis casuístico del acto obligatorio, perdiendo la conexión con la bienaventuranza y las virtudes.
+
+[FMC caps. I:1, III:1, IX:3 (A.5), XI:2]
 
 ### Según el Catecismo (CEC)
 

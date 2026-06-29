@@ -9,7 +9,7 @@ description: "La relación entre la fe y la razón designa la armonía y mutua c
 # Fe y Razón
 
 > Área: Dogmática
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-29
 
 ## Definición
 
@@ -22,6 +22,16 @@ La filosofía católica afirma que la razón humana puede alcanzar ciertos conoc
 San Pablo enseña que «los atributos invisibles de Dios se hacen visibles al entendimiento a través de sus obras» (Rm 1,20), lo que fundamenta la posibilidad del conocimiento natural de Dios. Pero la fe ilumina lo que la razón no puede alcanzar.
 
 ## Perspectivas por fuente
+
+### Según Pinckaers (FMC)
+
+Pinckaers aborda la relación entre fe y razón desde la perspectiva de la moral cristiana. La fe es la fuente de la moral cristiana (FMC cap. V): san Pablo confronta el Evangelio con la sabiduría griega (razón filosófica) y la justicia judía (ley), mostrando que la fe en Cristo supera a ambas sin negarlas.
+
+En la controversia sobre la especificidad de la moral cristiana (FMC cap. IV), Pinckaers defiende que la razón natural puede conocer principios morales universales, pero la fe revela el fin sobrenatural y transforma el obrar desde dentro. La renovación tomista del siglo XX (FMC cap. XIII) buscó reintegrar la razón filosófica al servicio de la teología moral, superando la separación moderna entre fe y razón.
+
+Santo Tomás (FMC cap. IX) integra la ética aristotélica en la moral cristiana: la razón prepara el terreno para la fe, y la fe asume y perfecciona las virtudes humanas. La Ley nueva es principalmente gracia del Espíritu Santo, pero se expresa también en palabras y escritos (elementos secundarios) que incluyen la enseñanza racional y los preceptos.
+
+[FMC caps. V, IV:1, IX:3, XIII:2]
 
 ### Según el Catecismo (CEC)
 

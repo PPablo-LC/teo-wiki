@@ -9,7 +9,7 @@ description: "La lucha contra la propia carne es el combate contra el enemigo in
 # Lucha contra la Carne
 
 > Área: Ascética y Moral
-> Última actualización: 2026-05-20
+> Última actualización: 2026-06-29
 
 ## Definición
 
@@ -35,6 +35,14 @@ Grados de amor al sufrimiento:
 5. Ofrecerse como víctima de expiación
 
 ## Perspectivas por fuente
+
+### Según Pinckaers (FMC)
+
+Pinckaers trata el conflicto carne/espíritu como elemento central de la moral paulina (FMC cap. V:2 B.3). San Pablo opone la vida según la carne a la vida según el Espíritu: la carne produce fornicación, impureza, discordia, envidia; el Espíritu produce caridad, paz, dominio de sí (Ga 5). La carne no designa el cuerpo material, sino el hombre en cuanto se opone a la acción del Espíritu.
+
+La lucha contra la carne no es un simple esfuerzo ascético individual, sino el combate del hombre viejo contra el hombre nuevo que nace de la fe. El Espíritu Santo es quien da la fuerza para vencer la carne; la moral cristiana no es una mera disciplina de la voluntad, sino una vida conducida por el Espíritu. Pinckaers critica que la moral de los manuales redujera este conflicto a una casuística de pecados contra los mandamientos, perdiendo la dimensión espiritual y pneumática de la enseñanza paulina.
+
+[FMC cap. V:2 (B.3)]
 
 ### Según Royo Marín (TPCr)
 

@@ -9,7 +9,7 @@ description: "Los dones del Espíritu Santo son hábitos sobrenaturales infundid
 # Dones del Espíritu Santo
 
 > Área: Dogmática / Mística
-> Última actualización: 2026-06-12
+> Última actualización: 2026-06-29
 
 ## Definición
 
@@ -24,6 +24,14 @@ Mientras que las virtudes infusas obran a modo humano (el alma obra con su facul
 Los dones del Espíritu Santo son necesarios para la salvación y para la perfección cristiana, pues sin ellos el alma no puede resistir ciertas tentaciones ni realizar ciertos actos sobrenaturales que exceden el modo de las virtudes infusas.
 
 ## Perspectivas por fuente
+
+### Según Pinckaers (FMC)
+
+Pinckaers se refiere a los dones del Espíritu Santo en varios contextos. En la estructura de la Suma (FMC cap. IX), los dones forman parte del organismo sobrenatural junto con la gracia y las virtudes infusas. En la exposición del Sermón de la Montaña según san Agustín (FMC cap. VI), las bienaventuranzas se asocian a los dones del Espíritu Santo (Is 11), estableciendo una conexión íntima entre el evangelio de Mateo y la teología paulina del Espíritu.
+
+Pinckaers denuncia que los manuales postridentinos omitieron el tratado de los dones del Espíritu Santo, junto con la gracia y la Ley evangélica, como parte de una moral reducida a la obligación y los mandamientos (FMC cap. XI:2). Esta omisión empobreció la moral cristiana al perder la dimensión espiritual y mística que los dones proporcionan.
+
+[FMC caps. I:2, VI:2, XI:2]
 
 ### Según la Summa Theologiae (SmTh)
 

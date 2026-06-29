@@ -9,7 +9,7 @@ description: "La ley evangélica, también llamada Ley Nueva o Ley de Cristo, es
 # Ley evangélica
 
 > Área: Moral
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-29
 
 ## Definición
 
@@ -30,6 +30,19 @@ La ley nueva es «la gracia del Espíritu Santo dada a los fieles por la fe en C
 «El Sermón de la Montaña no añade nuevos preceptos exteriores, sino que reforma la raíz de nuestros actos, el corazón» (§1968). Las bienaventuranzas son el núcleo de la ley evangélica (§1965).
 
 «La ley nueva es la perfección de la ley divina para la nueva Alianza» (§1967). Cristo es la plenitud de la ley: «No penséis que he venido a abolir la Ley o los Profetas; no he venido a abolir, sino a dar cumplimiento» (Mt 5,17).
+
+### Según Pinckaers (FMC)
+
+Pinckaers dedica un extenso análisis a la Ley evangélica (Ley nueva) como clave de bóveda de la moral cristiana (FMC caps. VII, IX, y sección sistemática del cap. VI sobre la Ley nueva). La define siguiendo a santo Tomás: la Ley nueva consiste principalmente en la gracia del Espíritu Santo dada a los fieles por la fe en Cristo (Ia-IIae q.106 a.1). Es una ley interior (lex indita), no principalmente escrita, cuya esencia es la acción del Espíritu Santo.
+
+Elementos clave según Pinckaers:
+- La definición tomista distingue el elemento principal (gracia del Espíritu Santo) de los elementos secundarios (Escritura, sacramentos, enseñanzas), lo que permite integrar toda la moral cristiana.
+- El Sermón de la Montaña es el texto propio de la Ley nueva, que regula los actos interiores del corazón.
+- Es ley de libertad por tres razones: reduce los preceptos a lo necesario, deja campo a la iniciativa de la caridad, e incluye los consejos evangélicos.
+- La Ley nueva perfecciona la ley natural y la ley antigua, siendo la cima de toda la legislación divina.
+- La pérdida del tratado de la Ley nueva en los manuales postridentinos es una de las causas de la separación entre moral y espiritualidad.
+
+[FMC caps. VI (parte sobre Ley nueva), VII, IX:3]
 
 ### Según Royo Marín (TPCr)
 

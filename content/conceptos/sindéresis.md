@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Sindéresis
 tags: ["moral"]
 
-timestamp: 2026-06-04
+timestamp: 2026-06-29
 description: "La sindéresis (synderesis) es un hábito natural del entendimiento práctico que posee los primeros principios de la moralidad —el bien debe hacerse y el mal evitarse—."
 ---
 # Sindéresis
 
 > Área: Moral
-> Última actualización: 2026-06-04
+> Última actualización: 2026-06-29
 
 ## Definición
 
@@ -42,6 +42,14 @@ El Catecismo no usa el término «sindéresis», pero enseña que la conciencia 
 
 **a.11 — La conciencia moral:** La conciencia puede errar, pero la sindéresis no. El error de la conciencia proviene de una mala aplicación de los principios o de la ignorancia.
 
+
+### Según Pinckaers (FMC)
+
+Pinckaers, al exponer la libertad humana según santo Tomás (FMC cap. XVI), trata la sindéresis como el «habitus natural» del conocimiento directo de los primeros principios prácticos. La describe como «la percepción primitiva del bien que conviene al hombre», que se expresa en el principio «bonum est faciendum, malum est vitandum». Advierte que esta fórmula tradicional ha sido interpretada excesivamente en el sentido de las morales modernas de la obligación, cuando en realidad estos conocimientos intuitivos preceden a su formulación y subsisten incluso si se les desconoce.
+
+La sindéresis es, para la tradición escolástica, una chispa del alma (scintilla animae) que es la intuición de los primeros principios del obrar moral. Pinckaers contrasta esta visión con la de Ockham, que rechaza la sindéresis como habitus natural y reduce la función de la razón práctica a manifestar los mandamientos divinos y aplicarlos deductivamente (FMC caps. X, XVI).
+
+[FMC caps. III, X, XVI]
 
 ## Distinciones importantes
 
