@@ -1,61 +1,43 @@
 ---
 type: Concepto Teológico
-title: Defensor del Vínculo
+title: Defensor del vínculo
 tags: ["derecho_canónico"]
-
-timestamp: 2026-06-23
-description: "El defensor del vínculo es un oficio eclesiástico en los tribunales de la Iglesia, establecido para las causas de nulidad de la sagrada ordenación o nulidad/disolución del matrimonio."
+timestamp: 2026-06-28
+description: "El defensor del vínculo es un oficio eclesiástico que tiene la misión de proponer y esclarecer todo lo que pueda objetarse razonablemente contra la nulidad del matrimonio o de la ordenación sagrada."
 ---
-# Defensor del Vínculo
 
-> Área: Derecho Canónico
-> Última actualización: 2026-06-23
+# Defensor del vínculo
+
+> Área: Derecho canónico
+> Última actualización: 2026-06-28
 
 ## Definición
 
-El defensor del vínculo es un oficio eclesiástico en los tribunales de la Iglesia, establecido para las causas de nulidad de la sagrada ordenación o nulidad/disolución del matrimonio. Su función es proponer y manifestar todo lo que pueda aducirse razonablemente contra la nulidad o disolución, defendiendo así la validez presunta del vínculo sacramental.
+El defensor del vínculo es un oficio eclesiástico, instituido en cada diócesis, que tiene la misión de proponer y esclarecer todo lo que pueda objetarse razonablemente contra la nulidad del matrimonio o de la ordenación sagrada. Su función es defender la validez del vínculo en los procesos de nulidad matrimonial y en las causas de nulidad de la ordenación sagrada.
 
 ## Desarrollo doctrinal
 
-El derecho de la Iglesia, fiel a la indisolubilidad del matrimonio, establece que la validez del vínculo goza del favor del derecho. Para garantizar que esta presunción sea adecuadamente defendida en el proceso judicial, el Código de Derecho Canónico exige la presencia del defensor del vínculo en las causas matrimoniales y de ordenación.
-
-El defensor del vínculo actúa en representación del interés público de la Iglesia en la estabilidad del matrimonio y del orden sagrado. No es parte procesal en sentido estricto, sino un ministro del tribunal que vela porque la verdad sobre el vínculo sea debidamente investigada y ponderada.
+El defensor del vínculo es parte necesaria en los procesos de nulidad matrimonial (CIC c. 1432). Debe intervenir en todas las causas de nulidad del matrimonio y de la ordenación, así como en las causas de disolución del vínculo matrimonial. Su oficio es velar por la estabilidad del matrimonio y la presunción de validez del vínculo. La Conferencia Episcopal debe nombrar defensores del vínculo para su tribunal de apelación.
 
 ## Perspectivas por fuente
 
 ### Según el Código de Derecho Canónico (CIC)
 
-CIC c.1432: Debe nombrarse en la diócesis un defensor del vínculo para las causas de nulidad de la sagrada ordenación o nulidad/disolución de matrimonio. Por oficio, debe proponer y manifestar todo lo que pueda aducirse razonablemente contra la nulidad o disolución.
-
-CIC c.1433: En las causas que requieran su presencia, si no ha sido citado, los actos son nulos, salvo que se haya hecho presente de hecho o haya podido cumplir su misión antes de la sentencia.
-
-CIC c.1435: Corresponde al Obispo nombrar al defensor del vínculo. Debe ser clérigo o laico de buena fama, doctor o licenciado en derecho canónico, de probada prudencia y celo por la justicia.
-
-CIC c.1436 §1: La misma persona puede ser promotor de justicia y defensor del vínculo, pero no en la misma causa.
-
-CIC c.1678: El defensor del vínculo tiene derecho a examinar las actas, proponer testigos y presentar observaciones.
-
-CIC c.1686: En el proceso documental, la declaración de nulidad requiere la intervención del defensor del vínculo.
-
-CIC c.1687: Si el defensor del vínculo considera prudentemente que los vicios no son ciertos, debe apelar al juez de segunda instancia.
-
-CIC c.1701 §1: En los procesos de disolución del matrimonio rato y no consumado debe intervenir siempre el defensor del vínculo.
-
-CIC c.1711: En las causas de nulidad de ordenación sagrada, el defensor del vínculo goza de los mismos derechos que en las causas matrimoniales.
+CIC cc. 1432-1434 regulan el oficio del defensor del vínculo. Debe ser nombrado para cada diócesis (c. 1432). Tiene la obligación de presentar y exponer todas las observaciones que razonablemente puedan aducirse contra la nulidad (c. 1434). Su intervención es necesaria bajo pena de nulidad del proceso.
 
 ## Distinciones importantes
 
-- **Defensor del vínculo vs. promotor de justicia**: el defensor defiende la validez del vínculo; el promotor de justicia vela por el bien público en causas penales o de estado
-- **Oficio necesario vs. oficio posible**: en causas matrimoniales y de ordenación su presencia es obligatoria; en otras causas puede no intervenir
-- **Apelación obligatoria**: si el defensor del vínculo estima que la sentencia de nulidad no es cierta, está obligado a apelar
-- **Independencia**: el defensor del vínculo no representa a ninguna de las partes, sino al interés público de la Iglesia en la estabilidad del vínculo
+- **Defensor del vínculo vs. promotor de justicia**: el defensor defiende la validez del vínculo; el promotor de justicia vela por el bien público en causas penales y contenciosas
+- **Defensor del vínculo vs. juez**: el defensor es parte en el proceso, no juzga; presenta argumentos a favor del vínculo
 
 ## Relaciones doctrinales
 
-Se vincula con el [[proceso_canónico]], la [[nulidad_matrimonial]], la [[indisolubilidad_del_matrimonio]], el [[matrimonio_sacramental]], la [[justicia_eclesial]], el [[promotor_de_justicia]] y el [[orden_sagrado]].
+Se relaciona con [[proceso_matrimonial]], [[nulidad_matrimonial]], [[matrimonio]], [[indisolubilidad]], [[promotor_de_justicia]], [[tribunal_eclesiástico]], [[juez_eclesiástico]]
 
 ## Ver también
-[[proceso_canónico]], [[nulidad_matrimonial]], [[indisolubilidad_del_matrimonio]], [[promotor_de_justicia]], [[matrimonio_sacramental]]
+
+[[proceso_matrimonial]], [[nulidad_matrimonial]], [[promotor_de_justicia]], [[tribunal_eclesiástico]]
 
 ## Referencias
-- [CIC cc.1432-1436, cc.1678-1688, cc.1701-1711]
+
+- [CIC cc. 1432-1434]

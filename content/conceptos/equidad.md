@@ -2,59 +2,44 @@
 type: Concepto Teológico
 title: Equidad
 tags: ["moral"]
-
-timestamp: 2026-06-23
-description: "La equidad (del latín *aequitas*, traducción del griego *epieíkeia*) es la virtud moral que corrige la aplicación de la ley positiva cuando, por su generalidad."
+timestamp: 2026-06-28
+description: "La equidad (epiqueya) es la virtud que corrige la aplicación de la ley positiva cuando, por su generalidad, resulta injusta en un caso concreto."
 ---
+
 # Equidad
 
 > Área: Moral
-> Última actualización: 2026-06-23
+> Última actualización: 2026-06-28
 
 ## Definición
 
-La equidad (del latín *aequitas*, traducción del griego *epieíkeia*) es la virtud moral que corrige la aplicación de la ley positiva cuando, por su generalidad, seguir la letra de la ley sería contrario a la justicia y al bien común. Es una parte subjetiva de la [[justicia]] general o legal, y constituye una norma superior de los actos humanos.
+La equidad (del latín *aequitas*, también llamada epiqueya, del griego *epieíkeia*) es la virtud que corrige la aplicación de la ley positiva cuando, por su generalidad, resulta injusta en un caso concreto. No es una excepción a la justicia, sino su expresión más alta y proporcionada.
 
 ## Desarrollo doctrinal
 
-La equidad no se opone a la justicia sino que la perfecciona. Se funda en el principio de que las leyes humanas, por su carácter universal, no pueden prever todos los casos singulares. Cuando un caso concreto cae fuera de la intención del legislador, la equidad permite apartarse de la letra de la ley para cumplir su espíritu.
-
-Santo Tomás la llama "epiqueya" y la define como la virtud que permite juzgar rectamente cuándo y cómo debe dispensarse de la ley positiva para salvar la intención del legislador, que es el bien común.
+La equidad es una parte potencial de la justicia. La ley humana, por su carácter universal, no puede prever todos los casos particulares. Cuando aplicar la letra de la ley en un caso concreto iría contra la intención del legislador y el bien común, la equidad permite actuar fuera de la letra pero conforme al espíritu de la ley. Santo Tomás enseña que la equidad es virtud superior a la justicia legal, pues se ordena al bien común según la recta razón.
 
 ## Perspectivas por fuente
 
-### Según el Catecismo (CEC)
-
-El CEC menciona la equidad como dimensión de la justicia, especialmente en las relaciones sociales. Afirma que la justicia "dispone a respetar los derechos de cada uno y a establecer en las relaciones humanas la armonía que promueve la equidad respecto a las personas y al bien común" (CEC §1807). La equidad aparece como criterio de las relaciones económicas y sociales justas, particularmente frente a las desigualdades excesivas (CEC §1938).
-
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás dedica una cuestión entera a la epiqueya (II-IIae, q.120). En el artículo 1 demuestra que la epiqueya es virtud, pues permite seguir lo que pide la justicia y el bien común cuando la aplicación literal de la ley sería perniciosa. Compara el caso de la ley que ordena devolver los depósitos: normalmente es lo justo, pero sería pernicioso devolver la espada a un demente o a quien quiere atacar la patria. En el artículo 2 establece que la epiqueya es parte subjetiva de la justicia, y que la justicia legal misma está sometida a la epiqueya como norma superior de los actos humanos.
-
-### Según el Compendio de Doctrina Social de la Iglesia (DSI)
-
-La DSI invoca la equidad como criterio fundamental de la justicia social, especialmente en la distribución de los bienes y en la participación política. La equidad exige tratar los casos desiguales de manera desigual, dando a cada uno según sus necesidades y su contribución al bien común.
+SmTh II-IIae q.120: La epiqueya (*epieíkeia*) es una virtud aneja a la justicia. Es más alta que la justicia legal porque sigue la intención del legislador cuando la letra se desvía del bien común. No es una dispensación de la ley, sino su interpretación correcta según la equidad natural.
 
 ## Distinciones importantes
 
-- **Equidad vs. justicia legal**: la justicia legal ordena al súbdito a cumplir la ley; la equidad dispensa de la ley cuando su aplicación literal iría contra el bien común.
-- **Equidad vs. misericordia**: la equidad se funda en la justicia misma (en la intención del legislador), mientras que la misericordia se funda en la caridad (remisión de la deuda).
-- **Equidad vs. arbitrariedad**: la equidad no es un pretexto para ignorar la ley, sino para cumplirla más perfectamente atendiendo a su fin.
+- **Equidad vs. justicia legal**: la justicia legal aplica la ley según su letra; la equidad según su espíritu
+- **Equidad vs. dispensa**: la dispensa es concesión de la autoridad; la equidad es juicio prudencial del sujeto
+- **Equidad y epiqueya**: son términos equivalentes en la tradición escolástica
 
 ## Relaciones doctrinales
 
-- Es parte de la [[justicia]] general o legal, como su perfeccionamiento.
-- Se relaciona con la [[justicia_distributiva]] en el orden social.
-- Supone la [[prudencia]] para discernir cuándo aplicarla.
-- Está ordenada al [[bien_común]].
+Se relaciona con [[epiqueya]], [[justicia_legal]], [[virtud_de_la_justicia]], [[ley_humana]], [[bien_común]], [[prudencia]], [[synesis]]
 
 ## Ver también
 
-[[justicia]], [[justicia_legal]], [[justicia_distributiva]], [[justicia_conmutativa]], [[bien_común]], [[ley_positiva]], [[prudencia]]
+[[epiqueya]], [[justicia_legal]], [[virtud_de_la_justicia]], [[ley_humana]], [[prudencia]]
 
 ## Referencias
 
-- CEC §1807, §1938
-- SmTh II-IIae, q.120 (De la epiqueya)
-- DSI, Cap. IV (Principios de la doctrina social)
-- Aristóteles, *Ética a Nicómaco*, V, 10
+- [SmTh II-IIae q.120 (De la epiqueya)]
+- [CEC §1782 (la conciencia y la ley)]

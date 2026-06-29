@@ -9,7 +9,7 @@ description: "Búsqueda realizada en `wiki/` (todos los subdirectorios). Se extr
 > Generado: 2026-06-19 19:25
 > Última actualización: 2026-06-19
 > Total de wikilinks huérfanos originales: 588 (con ≥1 referencias)
-> Artículos creados en esta sesión: 24 (alta/media) + 8 (4 refs, 2026-06-28)
+> Artículos creados en esta sesión: 24 (alta/media) + 8 (4 refs #1, 2026-06-28) + 8 (4 refs #2, 2026-06-28)
 
 ## Metodología
 
@@ -63,16 +63,16 @@ vs guion bajo, o sinónimo reconocido).
 | 34 | `[[compasión]]` | 4 | baja | ✅ Creado 2026-06-28 |
 | 35 | `[[concupiscible]]` | 4 | baja | ✅ Creado 2026-06-28 |
 | 36 | `[[confesión_de_fe]]` | 4 | baja | ✅ Creado 2026-06-28 |
-| 37 | `[[cosecha]]` | 4 | baja | |
-| 38 | `[[cosmología]]` | 4 | baja | |
-| 39 | `[[cuerpo_de_cristo]]` | 4 | baja | |
-| 40 | `[[debilidad]]` | 4 | baja | |
-| 41 | `[[defensor_del_vínculo]]` | 4 | baja | |
-| 42 | `[[demonios]]` | 4 | baja | |
-| 43 | `[[discernimiento_espiritual]]` | 4 | baja | |
-| 44 | `[[engaño]]` | 4 | baja | |
-| 45 | `[[equidad]]` | 4 | baja | |
-| 46 | `[[eutanasia]]` | 4 | baja | |
+| 37 | `[[cosecha]]` | 4 | baja | ✅ Creado 2026-06-28 |
+| 38 | `[[cosmología]]` | 4 | baja | ✅ Creado 2026-06-28 |
+| 39 | `[[cuerpo_de_cristo]]` | 4 | baja | Ya existía (creado 2026-06-23) |
+| 40 | `[[debilidad]]` | 4 | baja | ✅ Creado 2026-06-28 |
+| 41 | `[[defensor_del_vínculo]]` | 4 | baja | ✅ Creado 2026-06-28 |
+| 42 | `[[demonios]]` | 4 | baja | ✅ Creado 2026-06-28 |
+| 43 | `[[discernimiento_espiritual]]` | 4 | baja | Ya existía (creado 2026-06-23) |
+| 44 | `[[engaño]]` | 4 | baja | ✅ Creado 2026-06-28 |
+| 45 | `[[equidad]]` | 4 | baja | ✅ Creado 2026-06-28 |
+| 46 | `[[eutanasia]]` | 4 | baja | ✅ Creado 2026-06-28 |
 | 47 | `[[hombre_nuevo]]` | 4 | baja | |
 | 48 | `[[honor]]` | 4 | baja | |
 | 49 | `[[inconstancia]]` | 4 | baja | |
