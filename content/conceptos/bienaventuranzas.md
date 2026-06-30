@@ -9,7 +9,7 @@ description: "Las bienaventuranzas son las ocho declaraciones de Jesús en el Se
 # Bienaventuranzas
 
 > Área: Moral
-> Última actualización: 2026-05-22
+> Última actualización: 2026-06-29
 
 ## Definición
 
@@ -22,6 +22,46 @@ Las bienaventuranzas responden al deseo natural de felicidad que Dios ha puesto 
 Las bienaventuranzas colocan al hombre ante opciones morales decisivas: le enseñan que la verdadera dicha no reside en la riqueza, el bienestar, la gloria humana o el poder, sino solo en Dios (§1723).
 
 ## Perspectivas por fuente
+
+### Según Pinckaers (FMC)
+
+Pinckaers dedica el capítulo VI de *Las Fuentes de la Moral Cristiana* al Sermón de la Montaña como código fundamental de la vida cristiana, y el capítulo XV a las tres etapas de la libertad de calidad, donde retoma la conexión entre bienaventuranzas, dones del Espíritu Santo y grados de la vida espiritual siguiendo la tradición agustiniano-tomista.
+
+**Correspondencia entre bienaventuranzas, dones y etapas de la vida cristiana:**
+
+| Bienaventuranza | Don del Espíritu Santo | Etapa de la vida cristiana | Grado de la libertad de calidad |
+|-----------------|------------------------|----------------------------|----------------------------------|
+| Pobres de espíritu (Mt 5,3) | Temor de Dios | Purgativa (principiantes) | 1ª etapa: disciplina |
+| Mansos (Mt 5,4) | Piedad | Purgativa (principiantes) | 1ª etapa: disciplina |
+| Los que lloran (Mt 5,5) | Ciencia | Purgativa (principiantes) | 1ª etapa: disciplina |
+| Hambrientos de justicia (Mt 5,6) | Fortaleza | Iluminativa (adelantados) | 2ª etapa: virtud y progreso |
+| Misericordiosos (Mt 5,7) | Consejo | Iluminativa (adelantados) | 2ª etapa: virtud y progreso |
+| Limpios de corazón (Mt 5,8) | Entendimiento | Iluminativa / Unitive | Transición a la 3ª etapa |
+| Pacificadores (Mt 5,9) | Sabiduría | Unitive (perfectos) | 3ª etapa: madurez |
+| Perseguidos por la justicia (Mt 5,10-12) | Entendimiento / Fortaleza | Unitive (perfectos) | Confirmación de todas las etapas |
+
+**Interpretación de las tres etapas.** Para Pinckaers, las bienaventuranzas no son simplemente una lista de virtudes o promesas, sino que describen el itinerario completo de la vida cristiana como desarrollo de la libertad de calidad. Las tres primeras (pobres de espíritu, mansos, los que lloran) corresponden a la **vía purgativa** o primera etapa de la libertad, donde el cristiano aprende la disciplina del Decálogo y el desapego de las pasiones desordenadas. Las dos siguientes (hambrientos de justicia, misericordiosos) corresponden a la **vía iluminativa** o segunda etapa, donde la práctica de las virtudes va haciendo crecer la libertad interior. Las dos últimas (limpios de corazón, pacíficos) corresponden a la **vía unitiva** o tercera etapa, donde la libertad alcanza su madurez en la unión con Dios. La octava bienaventuranza (perseguidos por la justicia) es la confirmación y manifestación de todas las anteriores: quien ha recorrido todo el camino está dispuesto a dar la vida por Cristo.
+
+**Las cinco interpretaciones históricas del Sermón de la Montaña.** Pinckaers (cap. VI) distingue cinco modos en que se ha interpretado el Sermón de la Montaña, cada uno con implicaciones distintas para la comprensión de las bienaventuranzas:
+
+1. **Interpretación católica** (san Agustín, santo Tomás): el Sermón es la ley perfecta de Cristo, que perfecciona la ley antigua. Las bienaventuranzas describen la vida cristiana real, no un ideal inalcanzable. Son promesas que sostienen la esperanza y, a la vez, exigencias que configuran la vida moral.
+2. **Interpretación idealista** (Tolstoi): el Sermón propone un ideal absoluto de no-resistencia al mal, pobreza y perdón, pero es impracticable como norma literal. Su función es mostrar la imposibilidad de la perfección humana y remitir a Dios.
+3. **Interpretación escatológica** (Schweitzer): el Sermón es una «ética de interinidad» (*Interimsethik*) para el breve tiempo que quedaba hasta la parusía. Sus exigencias radicales solo se entienden en el contexto de la expectativa inminente del fin del mundo.
+4. **Interpretación social** (Social Gospel, movimiento obrero): el Sermón es un programa de transformación social que proclama la justicia para los pobres y oprimidos. Las bienaventuranzas son promesas de liberación socioeconómica.
+5. **Interpretación luterana**: el Sermón cumple una función acusatoria (*usus elenchticus legis*): muestra al hombre su incapacidad para cumplir la ley divina y lo remite a la justificación por la fe sola. Las bienaventuranzas no son normas para vivir, sino espejo de la miseria humana.
+
+Pinckaers opta por la interpretación católica, que integra aspectos de las demás sin caer en sus reduccionismos: reconoce el carácter absoluto de las exigencias evangélicas (idealista), su apertura escatológica (escatológica), su dimensión social (social) y su capacidad de mostrar la necesidad de la gracia (luterana), pero sin disolver la realidad de la vida cristiana como seguimiento efectivo de Cristo.
+
+**Las cinco intuiciones de san Agustín.** Pinckaers recupera de san Agustín cinco claves para la lectura de las bienaventuranzas:
+1. El Sermón contiene la **norma perfecta de la vida cristiana** (*De Sermone Domini in Monte*).
+2. Las siete (u ocho) bienaventuranzas corresponden a los **siete dones del Espíritu Santo**, y su orden sigue el desarrollo progresivo de la vida espiritual.
+3. Forman una **unidad orgánica**: cada bienaventuranza presupone la anterior y prepara la siguiente.
+4. Describen **etapas de crecimiento**: no son estados estáticos sino momentos de un itinerario.
+5. Son el **texto mismo de la Ley nueva**, que Cristo escribe en los corazones por el Espíritu Santo (cf. cap. VII).
+
+**El debate sobre si el Sermón es ley o promesa.** Esta cuestión atraviesa toda la interpretación de las bienaventuranzas. Para la tradición nominalista y luterana, el Sermón es principalmente ley —exigencia que acusa y condena—. Para la tradición católica representada por Pinckaers, el Sermón es ante todo promesa y evangelio: las bienaventuranzas «proclaman la dicha» antes que imponer un mandato. Son bienaventuranzas, no mandamientos. Pero esta promesa no es barata: quien acoge la promesa se compromete a vivir según el Espíritu de las bienaventuranzas, que es el Espíritu de Cristo. La Ley nueva, escribe Pinckaers (cap. VII), «obra desde dentro, por la gracia del Espíritu Santo, comunicándonos la caridad y los dones que nos hacen capaces de actuar como hijos de Dios». Así, promesa y exigencia se unifican en la persona de Cristo y en la acción del Espíritu.
+
+**Conexión con la tradición patrística.** Pinckaers subraya que esta lectura de las bienaventuranzas como grados de la vida cristiana no es una innovación suya, sino que se remonta a san Agustín (cap. VI), quien vio en el Sermón de la Montaña «la carta magna de la vida cristiana» y el texto mismo de la Ley nueva (cap. VII). Santo Tomás, en la Summa Theologiae (Iª-IIae q.69), sistematiza esta correspondencia entre bienaventuranzas, dones y virtudes.
 
 ### Según el Catecismo (CEC)
 

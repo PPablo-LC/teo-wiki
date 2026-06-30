@@ -9,7 +9,7 @@ description: "El fin último del hombre es Dios mismo, a quien debe conocer, ama
 # Fin último
 
 > Área: Moral
-> Última actualización: 2026-06-04
+> Última actualización: 2026-06-29
 
 ## Definición
 
@@ -21,7 +21,20 @@ Todo agente obra por un fin, y en el orden moral el fin último del hombre deter
 
 ## Perspectivas por fuente
 
-### Según el Catecismo (CEC)
+### Según Pinckaers (FMC)
+
+Pinckaers aborda la cuestión del fin último en varios momentos clave de *Las Fuentes de la Moral Cristiana*, mostrando cómo la respuesta a esta cuestión determina toda la estructura de la teología moral.
+
+**El fin último como principio organizador de la moral.** Para santo Tomás (cap. IX), la cuestión del fin último (Ia-IIae q.1-5) es el punto de partida de toda la moral, pues los actos humanos reciben su especie del fin al que se ordenan. La Summa Theologiae se estructura desde la bienaventuranza (fin último), pasando por los actos humanos, las pasiones, los hábitos y las virtudes, hasta la ley y la gracia. Esta arquitectura refleja una moral que avanza desde el fin hacia los medios. Pinckaers contrapone esta estructura a la de los manuales posteriores (cap. XI), que comenzaban por los actos humanos y los mandamientos, omitiendo la bienaventuranza como principio organizador.
+
+**La omisión de la bienaventuranza en la era de los manuales.** Pinckaers denuncia que los manuales de teología moral (Azor y sus sucesores, caps. X-XI) suprimieron sistemáticamente el tratado del fin último. Donde santo Tomás comenzaba con la bienaventuranza, los manualistas comenzaban con los actos humanos, y donde Tomás trataba las virtudes y los dones del Espíritu Santo, ellos trataban los mandamientos y los pecados. Esta omisión no fue accidental, sino consecuencia de la revolución nominalista (cap. X): Ockham había separado radicalmente el orden natural del sobrenatural, haciendo del fin sobrenatural algo puramente extrínseco a la naturaleza humana. Si el hombre no tiene una inclinación natural a Dios como fin sobrenatural, la bienaventuranza deja de ser el principio unificador de la moral y es reemplazada por la obligación.
+
+**Fin natural vs. fin sobrenatural en la historia de la teología moral.** Pinckaers traza el desarrollo histórico de esta cuestión:
+
+1. **Patrística y escolástica** (caps. VIII-IX): San Agustín y santo Tomás integran el deseo natural de felicidad (*beata vita*) con la bienaventuranza sobrenatural de la visión de Dios. El fin sobrenatural perfecciona y eleva el fin natural, no lo destruye ni lo reemplaza desde fuera.
+2. **Nominalismo** (cap. X): Ockham rompe esta integración. Para él, Dios podría haber ordenado al hombre a un fin distinto o a ninguno; el fin sobrenatural depende exclusivamente de la voluntad divina. La naturaleza humana no tiene inclinación intrínseca a la visión beatífica.
+3. **Manuales** (cap. XI): Al omitir la bienaventuranza, los manuales desplazan el centro de gravedad de la moral del fin a la obligación. La pregunta «¿qué debo hacer?» reemplaza a «¿para qué fui creado?».
+4. **Período actual** (cap. XIII): La renovación tomista (Sailer, Hirscher, Mausbach, Häring) y el Concilio Vaticano II (Optatam totius) restauran la cuestión del fin último como principio unificador de la teología moral.
 
 El CEC enseña que las bienaventuranzas, al prometer el Reino, ordenan al hombre hacia su fin último (§1723). La bienaventuranza eterna es el fin para el cual Dios ha creado al hombre (§1726). La contemplación de Dios en la gloria es la bienaventuranza prometida, a la que aspiramos ya desde esta vida por la fe y la esperanza (§§2548-2550).
 

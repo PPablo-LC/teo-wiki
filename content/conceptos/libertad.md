@@ -4,12 +4,12 @@ title: Libertad
 tags: ["moral_fundamental", "antropología_teológica"]
 
 timestamp: 2026-06-29
-description: "Facultad de la voluntad por la cual el hombre puede determinar sus propios actos hacia su fin último sin coacción externa ni necesidad interna."
+description: "Facultad de la voluntad por la cual el hombre puede determinar sus propios actos hacia su fin último sin coacción externa ni necesidad interna. Pinckaers distingue dos concepciones antitéticas: libertad de indiferencia y libertad de calidad."
 ---
 # Libertad
 
 > Área: Moral Fundamental / Antropología Teológica
-> Última actualización: 2026-06-10
+> Última actualización: 2026-06-29
 
 ## Definición
 
@@ -27,15 +27,31 @@ La libertad no es licencia para hacer cualquier cosa, sino capacidad para elegir
 
 ### Según Pinckaers (FMC)
 
-Pinckaers dedica los capítulos XIV-XVI de *Las Fuentes de la Moral Cristiana* al estudio de la libertad, distinguiendo dos concepciones fundamentales que han engendrado dos sistematizaciones diferentes de la teología moral.
+Pinckaers dedica los capítulos XIV-XVI de *Las Fuentes de la Moral Cristiana* al estudio de la libertad, distinguiendo dos concepciones fundamentales que han engendrado dos sistematizaciones diferentes de la teología moral. Esta oposición es el eje de toda su obra.
 
-**Dos concepciones de la libertad.** Pinckaers afirma que «dos concepciones de la libertad han engendrado dos sistematizaciones diferentes de la teología moral». Por un lado, la **libertad de indiferencia** (Ockham, caps. X y XIV), que define la libertad como el poder de elegir entre cosas contrarias, con indeterminación radical de la voluntad. Por otro lado, la **libertad de calidad** (caps. XV-XVI), propia de santo Tomás y los Padres, que define la libertad como excelencia o calidad que crece con la virtud, arraigada en las inclinaciones naturales al bien y a la verdad.
+**Cuadro comparativo de las dos concepciones:**
 
-**La libertad de indiferencia.** Históricamente situada en Ockham, esta concepción rompe con las inclinaciones naturales, elimina las virtudes del núcleo de la libertad, atomiza el obrar moral (cada acto es un átomo aislado), y concibe la ley como obligación exterior impuesta por la omnipotencia divina. La libertad se identifica con la voluntad como poder de autodeterminación. De aquí surge la primera moral de la obligación, que centra la moral en el deber y los mandamientos.
+| Dimensión | Libertad de indiferencia (Ockham) | Libertad de calidad (Santo Tomás) |
+|-----------|-----------------------------------|-----------------------------------|
+| **Esencia** | Capacidad de elegir entre opuestos contrarios | Excelencia que crece con la virtud |
+| **Fundamento** | Voluntad como poder absoluto de autodeterminación | Inclinaciones naturales al bien y a la verdad |
+| **Relación con la naturaleza** | Ruptura: la libertad se define contra la naturaleza | Integración: la libertad se apoya en la naturaleza |
+| **Moral que genera** | Moral de la obligación (ley → deber → mérito → pecado) | Moral de la bienaventuranza (virtudes → dones → actos) |
+| **Inclinaciones naturales** | Eliminadas como determinantes de la libertad | Fundamento de la orientación al bien |
+| **Virtudes** | Marginadas del núcleo de la libertad | Perfeccionan y expanden la libertad |
+| **Acto moral** | Atómico (cada acto es una unidad aislada) | Orgánico (cada acto se integra en un desarrollo) |
+| **Ley** | Obligación exterior impuesta por Dios omnipotente | Guía interior que la libertad reconoce como bien |
+| **Bien/mal** | La posibilidad de elegir el mal pertenece a la esencia de la libertad | La orientación al bien es constitutiva; el mal es deficiencia |
+| **Desarrollo** | No hay desarrollo intrínseco (cada elección es un nuevo inicio) | Tres etapas: disciplina (1ª), virtud/progreso (2ª), madurez (3ª) |
+| **Tradición** | Nominalismo, manuales de moral (ss. XIV-XX) | Patrística, escolástica, santo Tomás |
 
-**La libertad de calidad.** Expuesta a través de ejemplos (música, lengua, valentía), esta concepción entiende la libertad como una capacidad que se desarrolla en tres etapas: disciplina (1ª), progreso y virtud (2ª), madurez (3ª). La libertad se funda en las inclinaciones naturales a la verdad y al bien. No se opone a la naturaleza, sino que se apoya en ella. La elección libre es un acto conjunto de la inteligencia y la voluntad (*intellectus appetitivus*). La orientación al bien es constitutiva de la libertad; la posibilidad de hacer el mal no pertenece a su esencia, sino que es una deficiencia.
+**Implicaciones teológicas.** Pinckaers muestra que estas dos concepciones no son meramente filosóficas, sino que generan dos modos radicalmente distintos de entender la vida cristiana. La libertad de indiferencia lleva a una moral centrada en el cumplimiento de preceptos y en la evitación del pecado, donde la gracia y los dones del Espíritu Santo son accesorios. La libertad de calidad sitúa en el centro la bienaventuranza, las virtudes, los dones y la acción del Espíritu Santo, presentando la vida moral como un crecimiento progresivo hacia la madurez en Cristo. La opción entre ambas —concluye Pinckaers— «será sin duda determinante para el resurgimiento que ha de llegar a la moral cristiana» (cap. XIV).
 
-**La encrucijada actual.** Pinckaers sostiene que la crisis de la moral cristiana contemporánea podría ser un momento favorable para hacer emerger de nuevo la doctrina de la libertad de calidad, que considera «más rica y más adecuada que la libertad de indiferencia». La cuestión de la libertad —afirma— nos coloca ante «una opción actual que será sin duda determinante para el resurgimiento que ha de llegar a la moral cristiana» (cap. XIV).
+**La libertad de indiferencia en detalle.** Históricamente situada en Ockham (caps. X, XIV), esta concepción rompe con las inclinaciones naturales, elimina las virtudes del núcleo de la libertad, atomiza el obrar moral (cada acto es un átomo aislado), y concibe la ley como obligación exterior impuesta por la omnipotencia divina. La libertad se identifica con la voluntad como poder de autodeterminación indiferente ante los opuestos. De aquí surge la moral de la obligación, que centra la reflexión moral en el deber y los mandamientos más que en el fin último y las virtudes. La gracia y los dones del Espíritu Santo pasan a ser accesorios o ayudas exteriores para cumplir la ley.
+
+**La libertad de calidad en detalle.** Expuesta a través de ejemplos (la libertad del músico virtuoso, del hablante experto en su lengua, del valiente que domina sus miedos), esta concepción entiende la libertad como una capacidad que se desarrolla en tres etapas (cap. XV): disciplina o primera etapa (el Decálogo como pedagogía), progreso y virtud o segunda etapa (las virtudes como hábitos que expanden la libertad), y madurez o tercera etapa (la edad adulta en Cristo, donde se obra el bien con espontaneidad). La libertad se funda en las inclinaciones naturales a la verdad y al bien. No se opone a la naturaleza, sino que se apoya en ella. La elección libre es un acto conjunto de la inteligencia y la voluntad (*intellectus appetitivus*, cap. XVI): el entendimiento intelectual propone el bien y la voluntad tiende a él. La sindéresis, hábito de los primeros principios de la razón práctica, orienta la libertad desde dentro. La orientación al bien es constitutiva de la libertad; la posibilidad de hacer el mal no pertenece a su esencia, sino que es una deficiencia o debilidad. La gracia no se añade desde fuera, sino que sana, eleva y perfecciona esta libertad.
+
+**La encrucijada actual.** Pinckaers sostiene que la crisis de la moral cristiana contemporánea —visible en la disociación entre fe y vida, en el subjetivismo moral y en la reducción de la moral a un código de obligaciones— podría ser un momento favorable para hacer emerger de nuevo la doctrina de la libertad de calidad, que considera «más rica y más adecuada que la libertad de indiferencia» para dar cuenta de la vida cristiana como seguimiento de Cristo y crecimiento en el Espíritu. La cuestión de la libertad —afirma— nos coloca ante «una opción actual que será sin duda determinante para el resurgimiento que ha de llegar a la moral cristiana» (cap. XIV).
 
 ### Según Royo Marín (TPCr)
 
