@@ -1,57 +1,48 @@
 ---
 type: Concepto Teológico
-title: Ministerio pastoral
+title: Ministerio Pastoral
 tags: ["eclesiología", "pastoral"]
-
-timestamp: 2026-06-23
-description: "El ministerio pastoral es la función del sacerdote (y, en sentido análogo, del Obispo) por la cual, configurado con Cristo Buen Pastor, guía."
+timestamp: 2026-06-30
+description: "Ejercicio del ministerio ordenado orientado al cuidado y guía de las almas (cura animarum), especialmente la predicación, la administración de los sacramentos y la dirección espiritual de la comunidad cristiana."
 ---
-# Ministerio pastoral
 
-> Área: Eclesiología / Pastoral
-> Última actualización: 2026-06-23
+# Ministerio Pastoral
+
+> Área: Eclesiología — Pastoral
+> Última actualización: 2026-06-30
 
 ## Definición
 
-El ministerio pastoral es la función del sacerdote (y, en sentido análogo, del Obispo) por la cual, configurado con Cristo Buen Pastor, guía, apacienta y sirve a la porción del Pueblo de Dios que le ha sido confiada. Comprende la atención espiritual de los fieles —la cura de almas (*cura animarum*)— mediante el anuncio de la Palabra, la celebración de los sacramentos, especialmente la Eucaristía y la Penitencia, y la dirección de la comunidad en la caridad.
+Ejercicio concreto del [[ministerio]] ordenado en su función de cuidado y guía de las almas (*cura animarum*). Comprende la predicación de la Palabra, la celebración de los sacramentos —particularmente la Eucaristía y la Reconciliación—, la dirección espiritual, la visita a enfermos, la atención a los pobres y la guía de la comunidad cristiana hacia la santidad.
 
 ## Desarrollo doctrinal
 
-El ministerio pastoral tiene su modelo supremo en Jesucristo, Buen Pastor, que conoce a sus ovejas, da la vida por ellas y las conduce a los pastos de la vida eterna (Jn 10,11-16). Los apóstoles y sus sucesores reciben de Cristo el encargo de apacentar su grey: «Apacienta mis ovejas» (Jn 21,15-17). La caridad pastoral es el principio interior y dinámico que unifica todas las actividades del sacerdote, haciendo de su ministerio un verdadero *amoris officium* (San Agustín).
+El ministerio pastoral se funda en la misión de Cristo, Buen Pastor que da la vida por sus ovejas (Jn 10,11). El obispo es el pastor propio de su diócesis; los presbíteros son sus colaboradores en el ministerio pastoral (PO 2). La cura pastoral incluye la enseñanza de la doctrina, la santificación por los sacramentos y el gobierno de la comunidad (CIC 519).
 
 ## Perspectivas por fuente
 
-### Según el Concilio Vaticano II
+### Según el Concilio Vaticano II (ConcVatII)
 
-El Decreto *Christus Dominus* desarrolla el oficio pastoral de los Obispos. La Constitución *Lumen Gentium* presenta a los pastores como «padres en Cristo» que, mediante el ministerio pastoral, edifican la Iglesia. El Decreto *Presbyterorum Ordinis* describe la relación de los presbíteros con el Obispo y la comunidad: ejercen su ministerio pastoral en comunión jerárquica, sirviendo a la unidad del Pueblo de Dios.
+*Christus Dominus* 11–16: El ministerio pastoral del obispo. *Presbyterorum Ordinis* 4–6: El ministerio pastoral de los presbíteros.
 
-### Según San Juan Pablo II (*Pastores dabo vobis*)
+### Según el Catecismo (CEC)
 
-La formación de los candidatos al sacerdocio debe tender a «la formación de verdaderos pastores de las almas, a ejemplo de Nuestro Señor Jesucristo, Maestro, Sacerdote y Pastor» (PDV §57). El ministerio pastoral requiere una preparación integral: «La educación de los alumnos debe tender a la formación de verdaderos pastores de las almas» (citando OT §4). La caridad pastoral es «el don de nosotros mismos, raíz y síntesis del ministerio» (PDV §23). El ministerio pastoral incluye tanto la atención a cada persona como la capacidad de coordinar dones y carismas en la comunidad (PDV §26).
+§893: «Los obispos, como vicarios y legados de Cristo, gobiernan las Iglesias particulares [...] con el ministerio de la palabra, de los sacramentos y del gobierno».
 
-La formación pastoral (PDV §57–59) prepara al candidato para el ministerio de la palabra, del culto y de la santificación, y del pastor. El estudio teológico debe integrarse en un camino espiritual que permita superar una ciencia nocionística y comunicar el misterio de Dios.
+### Según el Código de Derecho Canónico (CIC)
 
-### Según Mons. Varden
-
-La carga pastoral es participación en el suave yugo de Cristo. El ministerio pastoral no es poder sino servicio humilde que participa del cuidado de Cristo por su Iglesia. La verdadera autoridad pastoral nace de la configuración con Cristo, que «no vino a ser servido, sino a servir» (Mc 10,45).
-
-## Distinciones importantes
-
-- Ministerio pastoral (cura de almas) vs. ministerio meramente administrativo
-- Caridad pastoral (*amoris officium*) vs. ejercicio burocrático del oficio
-- Pastor como guía espiritual vs. pastor como administrador de sacramentos (ambas dimensiones son inseparables)
-- Ministerio pastoral del Obispo (pleno) vs. del presbítero (participado)
+Can. 519: El párroco es el pastor propio de la parroquia, ejerce la cura pastoral bajo la autoridad del obispo.
 
 ## Relaciones doctrinales
 
-Se relaciona con [[cura_de_almas]], [[caridad_pastoral]], [[sacerdocio_ministerial]], [[obispo]], [[presbítero]], [[dirección_espiritual]], [[predicación]], [[administración_de_sacramentos]], [[nueva_evangelización]].
+Se relaciona con el [[ministerio]], el [[sacerdocio]], el [[presbiterado]], el [[obispado]], la [[cura_animarum]], la [[predicación]], la [[administración_de_sacramentos]] y la [[dirección_espiritual]].
 
 ## Ver también
 
-[[cura_de_almas]], [[caridad_pastoral]], [[sacerdocio_ministerial]], [[dirección_espiritual]], [[nueva_evangelización]]
+[[ministerio]], [[presbiterado]], [[obispado]], [[cura_animarum]], [[predicación]], [[administración_de_sacramentos]], [[dirección_espiritual]], [[presbyterorum_ordinis]]
 
 ## Referencias
 
-- ConcVatII, LG §18–29; CD §11–16; PO §4–6, §12–15
-- PDV §23, §26, §57–59
-- OT §4
+- ConcVatII, *CD* 11–16; *PO* 4–6
+- CEC §893
+- CIC can. 519

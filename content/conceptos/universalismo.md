@@ -1,56 +1,62 @@
 ---
 type: Concepto Teológico
 title: Universalismo
-tags: ["dogmática", "eclesiología", "escritura"]
-
-timestamp: 2026-06-23
-description: "Perspectiva teológica según la cual el designio salvífico de Dios se extiende a todos los hombres y a todas las naciones, sin limitación de raza, pueblo o condición."
+tags: ["dogmática_(escatología)", "soteriología"]
+timestamp: 2026-06-30
+description: "Doctrina que sostiene que todos los seres humanos (e incluso los demonios) se salvarán finalmente, rechazada por la Iglesia católica como contraria a la Escritura y a la Tradición sobre la realidad del infierno y la condenación eterna."
 ---
+
 # Universalismo
 
-> Área: Dogmática / Eclesiología / Escritura
-> Última actualización: 2026-06-23
+> Área: Dogmática — Escatología, Soteriología
+> Última actualización: 2026-06-30
 
 ## Definición
 
-Perspectiva teológica según la cual el designio salvífico de Dios se extiende a todos los hombres y a todas las naciones, sin limitación de raza, pueblo o condición. En sentido propio, se distingue del universalismo herético (apocatástasis) que afirma la salvación necesaria de todos, incluidos los condenados. El universalismo católico afirma la voluntad salvífica universal de Dios (1 Tim 2,4) y la llamada de todos los hombres a la salvación en Cristo, sin que ello implique la negación de la libertad humana para rechazarla.
+Doctrina teológica según la cual todos los seres humanos (y, en su versión extrema, también los ángeles caídos) alcanzarán finalmente la salvación eterna, vaciándose así el infierno de condenados. También llamado **apocatástasis** (término griego que significa «restauración universal»), fue enseñado por Orígenes (siglo III) y condenado como error por la Iglesia. Se opone a la doctrina católica sobre la realidad del infierno como condenación eterna y la libertad humana para rechazar definitivamente a Dios.
 
 ## Desarrollo doctrinal
 
-El AT prepara el universalismo mediante las promesas a Abraham (padre de multitud de pueblos), los profetas (conversión de las naciones), y el siervo de Yahveh (luz de las gentes). En el NT, Jesús inaugura el Reino abierto a todos los pueblos y envía a los apóstoles a predicar el Evangelio a toda criatura. La Iglesia es sacramento universal de salvación. El universalismo cristiano no es relativismo sino catolicidad: la única fe ofrecida a todos los pueblos respetando su libertad.
+La apocatástasis fue formulada por Orígenes (*De Principiis*), quien enseñaba que, tras sucesivos ciclos de purificación, incluso los demonios serían restaurados a la amistad con Dios. Esta doctrina fue condenada en el II Concilio de Constantinopla (553, D-223) junto con otros errores origenistas. San Agustín combatió el universalismo afirmando la eternidad del infierno.
+
+El universalismo reapareció en la teología moderna (K. Barth, H. Urs von Balthasar —«esperanza universal de salvación»—). La Iglesia distingue entre la **esperanza** de que todos se salven (que es lícita) y la **afirmación** de que todos se salvarán necesariamente (que es contraria a la fe, pues supone negar la posibilidad real de la condenación).
 
 ## Perspectivas por fuente
 
 ### Según el Catecismo (CEC)
 
-Dios "quiere que todos los hombres se salven" (1 Tim 2,4) — CEC §851. La Iglesia es sacramento universal de salvación (CEC §774-776; §780). La Iglesia católica (universal) significa esta universalidad (CEC §830-831). Todos los hombres están llamados a la unidad católica del Pueblo de Dios (CEC §836). Cristo es la única mediación, pero la salvación puede alcanzarse por caminos conocidos solo por Dios (CEC §848). La misión de la Iglesia es universal porque Cristo es el único Salvador de todos (CEC §849-851). El Espíritu Santo despliega la Iglesia por todo el mundo (CEC §852).
+§1033–1037: El infierno es una posibilidad real; Jesús habla del «fuego eterno» (Mt 25,41). La Iglesia afirma la existencia del infierno y la eternidad de sus penas; no afirma que nadie esté allí, pero advierte que es posible condenarse.
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+### Según la Summa Theologiae (SmTh)
 
-La dialéctica entre Israel y las naciones marca el ritmo de la historia de la salvación, oscilando entre particularismo y universalismo hasta que Cristo reúne a ambos en un solo hombre nuevo (VocTeoBib, "Naciones"). El AT afirma ya el universalismo del designio de salvación: las naciones son juzgadas por un único Dios, y algunos de sus miembros —Melquisedec, Jetró, Naamán— ofrecen culto acepto a Dios (VocTeoBib, "Naciones"). La profecía escatológica anuncia la conversión final de las naciones y la reunión de la humanidad dispersa (VocTeoBib, "Naciones"). No hay contradicción entre el particularismo y el universalismo de Jesús: su misión se adapta a fases sucesivas, culminando con el mandato universal de predicar a toda criatura (VocTeoBib, "Naciones"). La concentración de la promesa en un descendiente único de Abraham es condición del verdadero universalismo (VocTeoBib, "Abraham").
+I, q.23, a.5, ad 3: Santo Tomás rechaza que la predestinación se extienda a todos los hombres sin excepción. Dios quiere la salvación de todos (1 Tm 2,4), pero no todos se salvan porque algunos libremente rechazan la gracia.
 
-### Según el Concilio Vaticano II (ConcVatII)
+III Supplementum, q.98–99: La pena del infierno es eterna.
 
-La Iglesia es en Cristo como un sacramento universal de salvación (*Lumen Gentium* §1). La Iglesia peregrina es misionera por su naturaleza (*Ad Gentes* §2). Dios "quiere salvar a los hombres no solo individualmente, sino constituirlos en un pueblo" (*Lumen Gentium* §9).
+### Según el Enchiridion Symbolorum (Denzinger)
 
-### Según San Juan Pablo II
+D-223 (II Constantinopla, 553): Anatema contra Orígenes y la apocatástasis.
 
-Simeón pone el énfasis en el universalismo de la misión de Jesús: "salvación preparada a la vista de todos los pueblos, luz para iluminar a los gentiles" (catequesis sobre María, José y la vida oculta de Jesús). El medioevo fue una época de "universalismo cristiano" (*Memoria e Identidad*, c. 19). Santo Tomás es "maestro del universalismo filosófico y teológico" (*Cruzando el umbral de la esperanza*, c. 4).
+D-411 (Sínodo de Constantinopla, 543): Condena de las proposiciones origenistas sobre la preexistencia de las almas y la apocatástasis.
+
+D-1301–1308 (Concilio de Florencia, 1439): Definición de que los condenados van al infierno eterno.
 
 ## Distinciones importantes
 
-- Universalismo católico (voluntad salvífica universal) vs. apocatástasis (salvación necesaria de todos)
-- Universalismo vs. relativismo: la única verdad ofrecida a todos no es relativización de la verdad
-- Catolicidad de la Iglesia como signo del universalismo
-- Particularismo veterotestamentario como pedagogía hacia el universalismo
+- El universalismo no es lo mismo que la **voluntad salvífica universal** de Dios (1 Tm 2,4), que todos aceptan pero que no se impone a la libertad humana.
+- La **esperanza universal de salvación** (desear que todos se salven) es lícita y laudable; la **afirmación dogmática** de la salvación universal es herética.
+- La apocatástasis se distingue de la **restauración** (apocatástasis en sentido bíblico: Hch 3,21), que se refiere a la restauración del orden creado, no a la salvación de todos los individuos.
 
 ## Relaciones doctrinales
 
-[[catolicidad]], [[extra_ecclesiam_nulla_salus]], [[salvación]], [[misión]], [[naciones]], [[pueblo_de_dios]], [[voluntad_salvífica_universal]]
+Se relaciona con la [[apocatástasis]], la [[condenación_eterna]], el [[infierno]], la [[predestinación]], la [[voluntad_salvífica_universal]], el [[origenismo]] y el [[libre_albedrío]].
+
+## Ver también
+
+[[apocatástasis]], [[condenación_eterna]], [[infierno]], [[predestinación]], [[voluntad_salvífica_universal]], [[origenismo]], [[libre_albedrío]]
 
 ## Referencias
 
-- CEC §774-776, §830-836, §848-852
-- VocTeoBib: "Naciones", "Abraham", "Salvación", "Alianza", "Pueblo"
-- *Lumen Gentium* §1, §9
-- *Cruzando el umbral de la esperanza*, c. 4
+- CEC §1033–1037
+- SmTh I, q.23, a.5; III Supplementum, q.98–99
+- Denzinger D-223, D-411, D-1301–1308

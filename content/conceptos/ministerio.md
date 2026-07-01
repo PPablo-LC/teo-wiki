@@ -1,67 +1,56 @@
 ---
 type: Concepto Teológico
 title: Ministerio
-tags: ["eclesiología", "sacramental"]
-
-timestamp: 2026-06-23
-description: "El ministerio (del latín *ministerium*, «servicio») en la Iglesia designa el servicio eclesial confiado por Cristo a los apóstoles y a sus sucesores para la edificación del Cuerpo de Cristo."
+tags: ["eclesiología", "teología_sacramental"]
+timestamp: 2026-06-30
+description: "Servicio eclesial instituido por Cristo para la edificación del Cuerpo de Cristo, ejercido tanto por ministros ordenados (ministerio apostólico) como por fieles laicos (ministerios instituidos), en orden a la santificación, enseñanza y gobierno de la Iglesia."
 ---
+
 # Ministerio
 
-> Área: Eclesiología / Sacramental
-> Última actualización: 2026-06-23
+> Área: Eclesiología — Teología Sacramental
+> Última actualización: 2026-06-30
 
 ## Definición
 
-El ministerio (del latín *ministerium*, «servicio») en la Iglesia designa el servicio eclesial confiado por Cristo a los apóstoles y a sus sucesores para la edificación del Cuerpo de Cristo. En sentido amplio, comprende todo servicio en la Iglesia inspirado por el Espíritu Santo; en sentido estricto, se refiere al ministerio ordenado (episcopal, presbiteral, diaconal) recibido mediante el sacramento del Orden, por el cual se participa de la misión de Cristo, Cabeza y Pastor de la Iglesia.
+Servicio eclesial instituido por Cristo para la edificación del [[cuerpo_místico_de_cristo]]. El término proviene del latín *ministerium* (servicio) y designa toda función ordenada al bien de la Iglesia. Se distingue entre el **ministerio apostólico** (o sagrado), recibido por el sacramento del Orden (obispos, presbíteros, diáconos), y los **ministerios instituidos** (lector, acólito), confiados también a laicos.
 
 ## Desarrollo doctrinal
 
-El ministerio en la Iglesia tiene su origen en la misión que Cristo confió a los apóstoles: «Como el Padre me envió, también yo os envío» (Jn 20,21). Los apóstoles, a su vez, transmitieron este ministerio mediante la imposición de manos (Hch 6,6; 1 Tim 4,14), estableciendo el ministerio ordenado como elemento constitutivo de la Iglesia. El ministerio no es un cargo honorífico sino un servicio (*diakonía*) a la comunidad, realizado en comunión jerárquica con el Obispo y bajo la autoridad del Romano Pontífice.
+El ministerio en la Iglesia tiene su origen en Cristo, que instituyó a los Apóstoles y les confió la misión de enseñar, santificar y gobernar (Mt 28,19-20). El ministerio apostólico es esencialmente jerárquico y sacramental: se recibe por la imposición de manos y configura al ministro con Cristo Cabeza y Pastor.
 
-El Concilio Vaticano II distingue entre el sacerdocio común de los fieles y el sacerdocio ministerial, que se diferencian esencialmente y no solo en grado (LG §10). El ministerio ordenado está al servicio del sacerdocio bautismal, promoviéndolo y conduciéndolo a su plena realización.
+El Concilio Vaticano II (LG 10, 18-29) distingue el sacerdocio común de los fieles y el sacerdocio ministerial. Ambos participan del único sacerdocio de Cristo, pero de modo esencialmente diverso. El ministerio ordenado está al servicio del sacerdocio común.
 
 ## Perspectivas por fuente
 
 ### Según el Catecismo (CEC)
 
-El ministerio eclesial tiene una forma colegial: «Jesús instituyó a los Doce como colegio o grupo estable, al frente del cual puso a Pedro, escogido de entre ellos» (CEC §880). El ministerio ordenado es «el vínculo sacramental que une al ministerio apostólico» y es «garantía de la acción salvífica de Cristo» (CEC §1087). Los ministros sagrados ejercen su servicio en la Iglesia mediante la enseñanza, el culto divino y el gobierno pastoral (CEC §1592–1594).
+§874–896: El ministerio eclesial es de institución divina. Cristo instituyó a los Apóstoles y a sus sucesores (los obispos) para enseñar, santificar y regir. El ministerio apostólico tiene carácter sacramental y jerárquico.
 
 ### Según el Código de Derecho Canónico (CIC)
 
-El CIC regula el ministerio eclesiástico en diversos niveles: el ministerio de la palabra (predicación, homilía, catequesis: cc. 756–780), el ministerio de los sacramentos (cc. 849–1253), los oficios eclesiásticos (cc. 145–203) y la potestad de régimen (cc. 129–144). El ministerio eclesiástico se ejerce en nombre de la Iglesia y está sometido a la autoridad competente.
+Cann. 1008–1054: Definen el sacramento del Orden, los distintos grados del ministerio sagrado y los requisitos para su ejercicio.
 
-### Según el Concilio Vaticano II
+### Según el Concilio Vaticano II (ConcVatII)
 
-El Decreto *Presbyterorum Ordinis* desarrolla la naturaleza del ministerio presbiteral: los presbíteros, configurados con Cristo Sacerdote, ejercen su ministerio en comunión con el Obispo, anunciando la Palabra, celebrando los sacramentos y guiando al Pueblo de Dios. La Constitución *Lumen Gentium* presenta la estructura jerárquica de la Iglesia instituida por Cristo, en la que el ministerio de los Obispos, presbíteros y diáconos sirve a la santificación del Pueblo de Dios.
-
-### Según San Juan Pablo II (*Pastores dabo vobis*)
-
-El ministerio ordenado surge con la Iglesia y tiene en los Obispos, y en relación con ellos también en los presbíteros, una referencia al ministerio originario de los apóstoles (PDV §16). El ministerio tiene una radical forma comunitaria y puede ejercerse solo como una tarea colectiva (PDV §17). Por su misma naturaleza, el ministerio presbiteral es universal: «El don espiritual que los presbíteros recibieron en la ordenación no los prepara a una misión limitada y restringida, sino a la misión universal y amplísima de salvación» (PDV §18).
-
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
-
-El ministerio (*diakonía*) en el Nuevo Testamento designa el servicio concreto a la comunidad, inspirado por los carismas del Espíritu Santo. Pablo enumera diversos ministerios (1 Cor 12,4-11). El ministerio apostólico es el fundamento de la Iglesia (Ef 2,20).
+*Lumen Gentium* 18–29: El ministerio jerárquico. *Presbyterorum Ordinis*: sobre el ministerio y la vida de los presbíteros.
 
 ## Distinciones importantes
 
-- Ministerio ordenado (episcopal, presbiteral, diaconal) vs. ministerios laicales (lector, acólito, catequista)
-- Sacerdocio común (todos los bautizados) vs. sacerdocio ministerial (confiado a los ordenados)
-- Ministerio de la palabra, del culto y del gobierno pastoral (triple *munus* de Cristo)
-- Ministerio como servicio (*diakonía*) vs. poder (*exousía*) entendido como dominio
+- Ministerio ordenado ≠ ministerio laical. El primero es sacramental, jerárquico y recibido por el Orden; los segundos son funciones eclesiales instituidas.
+- Dentro del ministerio ordenado: obispo (plenitud del Orden), presbítero (colaborador del obispo), diácono (servicio).
+- El ministerio no es un oficio meramente funcional sino una configuración sacramental con Cristo.
 
 ## Relaciones doctrinales
 
-Se relaciona con [[sacerdocio_ministerial]], [[sacerdocio_común]], [[ministerio_ordenado]], [[ministerio_pastoral]], [[ministerio_de_la_palabra]], [[apostolado]], [[obispo]], [[presbítero]], [[diácono]], [[orden_sacramental]].
+Se relaciona con el [[sacerdocio]], el [[orden_sagrado]], los [[obispos]], el [[presbiterado]], el [[diaconado]], el [[ministerio_pastoral]] y la [[misión_de_la_iglesia]].
 
 ## Ver también
 
-[[sacerdocio_ministerial]], [[sacerdocio_común]], [[ministerio_ordenado]], [[ministerio_pastoral]], [[obispo]], [[presbítero]]
+[[orden_sagrado]], [[sacerdocio]], [[obispos]], [[presbiterado]], [[diaconado]], [[ministerio_pastoral]], [[ministerios_laicales]], [[lumen_gentium]]
 
 ## Referencias
 
-- CEC §874–896, §1536–1600
-- CIC cc. 145–203, 756–780, 1008–1054
-- ConcVatII, LG §10, §18–29; PO §1–6
-- PDV §16–18
-- VocTeoBib: ministerio
+- CEC §874–896
+- CIC cann. 1008–1054
+- ConcVatII, *LG* 18–29; *PO*

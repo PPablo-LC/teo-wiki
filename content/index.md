@@ -3,7 +3,7 @@ tags:
   - meta
   - index
 title: Wiki Index
-updated: '2026-06-30'
+updated: '2026-07-01'
 note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts/regenerar-indice.py'
 ---
 
@@ -1025,6 +1025,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[introducción_a_la_teología_de_la_perfección]]
 - [[investigación_previa_canónica]]
 - [[ira]]
+- [[ira_de_dios]]
 - [[irascible]]
 - [[ironía]]
 - [[irreligión]]
@@ -1595,6 +1596,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[primer_anuncio]]
 - [[primer_mandamiento]]
 - [[primera_comunión]]
+- [[primeros_pasos_en_la_vida_espiritual]]
 - [[primicias]]
 - [[principiantes]]
 - [[principiantes_adelantados_perfectos]]
@@ -1661,6 +1663,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[purificación]]
 - [[purificación_activa]]
 - [[purificación_de_la_iglesia]]
+- [[purificación_pasiva]]
 - [[pusilanimidad]]
 - [[párroco]]
 - [[pérdida_del_estado_clerical]]
@@ -1672,6 +1675,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[querella_de_nulidad]]
 - [[quietismo]]
 - [[quietud]]
+- [[quinto_mandamiento]]
 
 ### R
 

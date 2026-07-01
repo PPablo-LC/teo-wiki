@@ -1,61 +1,52 @@
 ---
 type: Concepto Teológico
 title: Parresía
-tags: ["teología_bíblica", "moral", "espiritualidad"]
-
-timestamp: 2026-06-23
-description: "La parresía (del griego *παρρησία*, «decirlo todo», «franqueza», «osadía») es la virtud o disposición espiritual de hablar con libertad, valor y confianza, especialmente ante autoridades u opresores."
+tags: ["teología_bíblica", "espiritualidad"]
+timestamp: 2026-06-30
+description: "Término griego del NT que designa la libertad, confianza y valentía para hablar y actuar en nombre de Dios, característica del anuncio apostólico y de la oración cristiana."
 ---
+
 # Parresía
 
-> Área: Teología Bíblica / Moral / Espiritualidad
-> Última actualización: 2026-06-23
+> Área: Teología Bíblica — Espiritualidad
+> Última actualización: 2026-06-30
 
 ## Definición
 
-La parresía (del griego *παρρησία*, «decirlo todo», «franqueza», «osadía») es la virtud o disposición espiritual de hablar con libertad, valor y confianza, especialmente ante autoridades u opresores. En el contexto bíblico, designa la libertad y valentía con que los discípulos de Cristo anuncian el Evangelio, confiados en la fuerza del Espíritu Santo y en la verdad de su mensaje. Es un don del Espíritu que caracteriza la predicación apostólica y la vida cristiana auténtica.
+Término griego (*παρρησία*, parrhesía) que significa literalmente «decirlo todo» y designa la libertad, franqueza y valentía para hablar abiertamente. En el Nuevo Testamento adquiere un sentido teológico: es la confianza audaz con que los apóstoles anuncian el Evangelio (Hch 4,13.29; Ef 6,19), los cristianos se dirigen a Dios en la oración (Hb 4,16; 1 Jn 3,21) y la Iglesia confiesa su fe ante el mundo.
 
 ## Desarrollo doctrinal
 
-La parresía tiene sus raíces en el Antiguo Testamento, donde la liberación de Egipto permite a Israel «caminar con la cabeza levantada» (Lv 26,13) —expresión que los LXX traducen como *parresía*. En el Nuevo Testamento, la parresía es característica de Jesús mismo, que habla abiertamente al mundo (Jn 18,20), y de los apóstoles, que después de Pentecostés predican con valentía a pesar de las persecuciones (Hch 4,13.29.31; 28,31). San Pablo la invoca como la actitud del anuncio del Evangelio (1 Ts 2,2).
+La parresía es un don del Espíritu Santo que transforma el temor humano en valentía apostólica. Los Hechos de los Apóstoles la presentan como característica del testimonio cristiano: Pedro y Juan hablan «con toda valentía» ante el Sanedrín (Hch 4,13). San Pablo pide oraciones para anunciar «con valentía» el misterio del Evangelio (Ef 6,19).
 
-La parresía no es temeridad ni arrogancia humana, sino fruto de la confianza en Dios y de la conciencia de poseer la verdad. Es una manifestación de la libertad de los hijos de Dios, que no se deja intimidar por el miedo.
+En la oración, la parresía es la confianza filial con que el cristiano se dirige a Dios llamándole «Abbá, Padre» (Rm 8,15; Ga 4,6). Es una consecuencia de la fe y de la caridad, y se fundamenta en la mediación de Cristo.
 
 ## Perspectivas por fuente
 
+### Según el Catecismo (CEC)
+
+§2611: «La oración cristiana se caracteriza por la parresía, la confianza filial en Dios».
+
+§2778: La invocación «Padre nuestro» expresa la parresía de los hijos de Dios.
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
-La parresía aparece en la Biblia como la actitud del que camina erguido, liberado de la esclavitud. En el AT, Israel liberado puede «caminar con la cabeza levantada» (Lv 26,13 LXX: *parresía*). Esta nobleza obliga al pueblo a vivir en la santidad.
+Artículo «parresía»: En el AT no aparece el término, pero la confianza en Dios lo prefigura. En el NT es fruto del Espíritu Santo y caracteriza la predicación apostólica y la oración cristiana.
 
-Jesús manifiesta su identidad divina con *parresía*: habla «abiertamente» al mundo (Jn 18,20s), de modo que el pueblo se pregunta si las autoridades no lo han reconocido como el Cristo (Jn 7,25s). Pero esta franqueza no busca la publicidad mundana (Jn 7,3-10). En los sinópticos, aunque el término solo aparece en Mc 8,32 a propósito del anuncio de la pasión, describen comportamientos de Jesús que expresan la *parresía*: frente a sus padres (Lc 2,49), frente a los abusos impíos (Mt 21,12ss; Jn 2,16), frente a las autoridades (Mt 23). Este orgullo no es reivindicación personal, sino que busca la gloria del Padre (Jn 8,49s).
+### Según la Summa Theologiae (SmTh)
 
-El discípulo confiado se convierte en testigo fiel. La confianza en Dios da al Apóstol una seguridad indefectible para anunciar con toda libertad (*parresía*) la palabra de Dios (1 Ts 2,2; Hch 28,31). Los primeros discípulos obtuvieron esta gracia por la oración (Hch 4,24-31).
-
-La parresía también aparece en la carta a los Hebreos como la confianza para entrar en el santuario por la sangre de Jesús (Heb 10,19) —plena libertad para acceder a Dios.
-
-### Según el artículo [[liberación_y_libertad]]
-
-El ejercicio de la libertad cristiana se traduce en parresía (confianza intrépida) ante Dios y los hombres. No es libertinaje: «Todo está permitido, pero no todo edifica» (1 Cor 10,23). La libertad se pone al servicio de la caridad (Gal 5,13).
-
-## Distinciones importantes
-
-- Parresía (franqueza-confianza en Dios) vs. temeridad humana (arrogancia sin fundamento)
-- Parresía apostólica (anuncio valiente del Evangelio) vs. orgullo mundano (autoafirmación sin referencia a Dios)
-- Parresía como don del Espíritu Santo vs. parresía como virtud adquirida por la confianza
-- Parresía ante los hombres (testimonio) vs. parresía ante Dios (confianza filial, Heb 10,19)
+II-II, q.129, a.1–7: La magnanimidad es la virtud que incluye la confianza para acometer grandes empresas. La parresía se relaciona con la fortaleza.
 
 ## Relaciones doctrinales
 
-Se relaciona con [[liberación_y_libertad]], [[libertad_cristiana]], [[confianza]], [[testimonio_cristiano]], [[predicación]], [[apostolado]], [[martirio]], [[espíritu_santo]], [[valentía]], [[hechos_de_los_apóstoles]].
+Se relaciona con la [[fortaleza]], la [[confianza_en_dios]], la [[oración_cristiana]], la [[predicación]], el [[testimonio_cristiano]], el [[martirio]] y la [[libertad_cristiana]].
 
 ## Ver también
 
-[[liberación_y_libertad]], [[libertad_cristiana]], [[testimonio_cristiano]], [[predicación]], [[martirio]]
+[[fortaleza]], [[confianza_en_dios]], [[oración_cristiana]], [[predicación]], [[testimonio_cristiano]], [[martirio]], [[libertad_cristiana]]
 
 ## Referencias
 
-- Lv 26,13 (LXX)
-- Jn 7,25s; 18,20s; Mc 8,32; Jn 2,16; Mt 23
-- Hch 4,13.29.31; 28,31
-- 1 Ts 2,2; Heb 10,19
-- VocTeoBib: orgullo, confianza
+- CEC §2611, §2778
+- VocTeoBib: parresía
+- SmTh II-II, q.129
