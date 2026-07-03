@@ -36,7 +36,7 @@ Israel canta el beneficio del maná: «trigo y pan del cielo», «pan de los fue
 
 ## Relaciones doctrinales
 
-Se relaciona con [[eucaristía]], [[éxodo]], [[desierto]], [[pan]], [[alimento]], [[palabra_de_dios]], [[prueba_tentacion]].
+Se relaciona con [[eucaristía]], [[éxodo]], [[desierto]], [[pan]], [[alimento]], [[palabra_de_dios]], [[prueba_y_tentación]].
 
 ## Ver también
 

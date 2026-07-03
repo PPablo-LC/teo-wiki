@@ -23,7 +23,15 @@ Dios, al crear por entendimiento y no por necesidad, preconoce las formas de tod
 
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás trata las ideas divinas en SmTh Iª q.15. Es necesario que haya ideas en la mente divina (a.1), pues el mundo no es producto del azar sino de un agente intelectual: la forma de la criatura preexiste en Dios como el plano en la mente del arquitecto. Hay muchas ideas en Dios (a.2), no porque el entendimiento divino se multiplique, sino porque Dios conoce su esencia como imitable de múltiples modos por las distintas criaturas —cada modo de imitación es una idea distinta. No todo lo conocido por Dios es idea en Él (a.3): el mal no tiene idea (se conoce por el bien), y las cosas que nunca serán no tienen idea ejemplar sino solo razón cognoscitiva. La materia prima tiene idea solo en el compuesto, no separadamente.
+Santo Tomás dedica la cuestión 15 de la Ia Pars a las ideas divinas, con tres artículos.
+
+**Iª q.15 — Sobre las ideas:**
+
+a.1 — Es necesario que haya ideas en la mente divina: el mundo no es producto del azar sino de un agente intelectual; la forma de la criatura preexiste en Dios como el plano en la mente del arquitecto.
+
+a.2 — Hay muchas ideas en Dios, no porque el entendimiento divino se multiplique, sino porque Dios conoce su esencia como imitable de múltiples modos por las distintas criaturas —cada modo de imitación es una idea distinta.
+
+a.3 — No todo lo conocido por Dios es idea en Él: el mal no tiene idea (se conoce por el bien); las cosas que nunca serán no tienen idea ejemplar sino solo razón cognoscitiva. La materia prima tiene idea solo en el compuesto, no separadamente.
 
 ## Distinciones importantes
 

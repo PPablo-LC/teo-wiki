@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Gobierno divino
 tags: ["dogmática"]
 
-timestamp: 2026-06-04
+timestamp: 2026-07-03
 description: "El gobierno divino es la ejecución del plan de la providencia, por el cual Dios conduce todas las criaturas hacia su fin último."
 ---
 # Gobierno divino
 
 > Área: Dogmática
-> Última actualización: 2026-06-04
+> Última actualización: 2026-07-03
 
 ## Definición
 
@@ -25,32 +25,39 @@ El gobierno divino es la tercera parte del tratado de la creación, después de 
 
 Santo Tomás trata el gobierno divino en SmTh Iª q.103-119, distinguiendo dos partes: el gobierno en general (q.103-105) y los efectos del gobierno en particular (q.106-119). La providencia (q.22) y el gobierno (q.103) se distinguen como el plan y su ejecución.
 
-**El mundo está gobernado (q.103 a.1):** El orden constante del universo manifiesta que el mundo está gobernado por una inteligencia suprema. Así como la flecha es dirigida al blanco por el arquero, las criaturas naturales son dirigidas a su fin por Dios, que las mueve desde dentro. Se rechaza la opinión de los antiguos filósofos que atribuían todo al azar.
+**Iª q.103 — Sobre el gobierno del mundo en general:**
 
-**Fin del gobierno (q.103 a.2):** El fin del gobierno del mundo es un bien extrínseco al universo, esto es, Dios mismo. Siendo Dios el principio de todas las cosas y el bien por esencia, necesariamente todas las cosas tienden a El como a su fin último, participando de su bondad y asemejándose a Él.
+**a.1 — El mundo está gobernado por alguien.** El orden constante del universo manifiesta que las cosas son dirigidas por una inteligencia hacia un fin bueno. Así como la flecha es lanzada al blanco por el arquero que conoce el fin, las criaturas naturales son dirigidas a su fin por Dios, que las mueve desde dentro. Se rechaza la opinión de los antiguos filósofos que atribuían todo a la casualidad. (SmTh Iª q.103 a.1)
 
-**Gobierno por uno solo (q.103 a.3):** El mundo está gobernado por uno solo, porque el mejor gobierno es el de uno solo. La unidad es esencial a la bondad: todas las cosas buscan el bien y, por tanto, la unidad. La multitud es mejor gobernada por uno que por muchos, y el gobierno del mundo —que es el mejor— está bajo un solo gobernante.
+**a.2 — El fin del gobierno es un bien extrínseco al mundo.** Siendo Dios el principio de todas las cosas (extrínseco al universo), el fin ha de ser también un bien extrínseco. El bien universal, que es el fin de todo el universo, es Dios, bien por esencia; los bienes particulares son bienes por participación. (SmTh Iª q.103 a.2)
 
-**Efectos del gobierno (q.103 a.4):** El efecto del gobierno divino es triple, según se considere: 1) por parte del fin mismo, la asimilación al sumo bien (único efecto); 2) por parte de los medios, dos efectos: la conservación de las cosas en el bien y la moción de las cosas al bien; 3) en particular, los efectos son innumerables según la diversidad de las criaturas.
+**a.3 — El mundo está gobernado por uno solo.** El mejor gobierno es el de uno solo, pues la unidad es esencial a la bondad. La multitud es mejor gobernada por uno que por muchos, porque la causa de la unidad es lo que es uno esencialmente. El gobierno del mundo, que es el mejor, está bajo un solo gobernante. (SmTh Iª q.103 a.3)
 
-**Universalidad del gobierno (q.103 a.5):** Todo está sometido al gobierno divino. Por lo mismo que Dios es creador universal de todo ser, también es gobernador universal. Nada puede haber que no esté ordenado a la bondad divina como fin. Dios gobierna de modo diverso según la diversidad de las criaturas: a las irracionales, moviéndolas interiormente; a las racionales, también con mandatos, prohibiciones, premios y castigos.
+**a.4 — Efecto del gobierno.** El efecto del gobierno divino es triple según el aspecto: 1) por parte del fin mismo, uno solo (asemejarse al sumo bien); 2) por parte de los medios, dos (conservación de las cosas en el bien y moción de las cosas al bien); 3) en particular, innumerables. (SmTh Iª q.103 a.4)
 
-**Gobierno directo y mediato (q.103 a.6):** En cuanto al plan, Dios gobierna directamente todas las cosas, hasta los más mínimos detalles. En cuanto a la ejecución, gobierna unas cosas por medio de otras, comunicando a las criaturas la perfección de ser causa de bondad para otras, como el maestro que hace capaz a sus discípulos de enseñar a otros.
+**a.5 — Todo está sometido al gobierno divino.** Por lo mismo que Dios es creador universal de todo ser, es también gobernador universal. Nada puede existir sin haber sido creado por Dios, ni nada puede quedar fuera de su gobierno. Dios gobierna diversamente según la diversidad de las criaturas: a las irracionales moviéndolas interiormente; a las racionales también con mandatos, prohibiciones, premios y castigos. (SmTh Iª q.103 a.5)
 
-**Nada escapa al gobierno divino (q.103 a.7-8):** Es imposible que algo suceda fuera del orden del gobierno divino, porque Dios es la causa universal primera de todo el ser. Lo que parece salirse del orden de una causa particular cae dentro del orden de la causa universal. La contingencia y la casualidad existen respecto a causas particulares, no respecto a la Providencia divina. Ningún ser puede oponerse al orden del gobierno divino universal, pues toda tendencia natural o voluntaria no es más que un impulso de la primera causa.
+**a.6 — Todo está gobernado directamente por Dios en cuanto al plan, pero no en cuanto a la ejecución.** En el plan de la gobernación (providencia), Dios gobierna directamente todas las cosas hasta los más mínimos detalles. En la ejecución, gobierna unas cosas por medio de otras, comunicando a las criaturas la perfección de ser causa de bondad para otras, como el maestro que hace a sus discípulos capaces de enseñar. (SmTh Iª q.103 a.6)
 
-**Conservación de las criaturas (q.104 a.1):** Todas las criaturas necesitan ser conservadas en el ser por Dios. Dios no solo da el ser a las criaturas, sino que continuamente lo causa en ellas, como el sol ilumina continuamente el aire. Si cesara el influjo divino, toda criatura volvería a la nada. La conservación no es una nueva acción, sino continuación de la misma acción creadora.
+**a.7 — Nada sucede fuera del orden del gobierno divino.** Es posible que algo suceda fuera del orden de una causa particular, pero no fuera del orden de la causa universal primera, que es Dios. Lo que parece salirse del orden de la providencia por una causa particular cae dentro de este orden por otra causa particular. La contingencia y la casualidad existen respecto a causas particulares, no respecto a la Providencia divina. (SmTh Iª q.103 a.7)
 
-**Conservación mediata e inmediata (q.104 a.2):** Dios conserva directamente todas las cosas en cuanto causa primera, pero también conserva unas por medio de otras como causas segundas. Las causas creadas pueden conservar efectos en el ser cuando dependen de ellas no solo en cuanto al hacerse sino también en cuanto al ser.
+**a.8 — Nada puede oponerse al orden del gobierno divino.** Considerado universalmente, nada va contra el orden del gobierno divino, pues toda tendencia natural o voluntaria no es más que un impulso de la primera causa. Los pecadores se oponen a algún bien particular, pero no al orden universal del gobierno divino. (SmTh Iª q.103 a.8)
 
-**Reducción a la nada (q.104 a.3-4):** Dios puede reducir algo a la nada cesando su influjo conservante, pero de hecho no reduce nada a la nada, pues ni la naturaleza de las criaturas lo exige (las inmateriales no tienen potencia para no ser, y las materiales permanecen al menos en la materia) ni la manifestación de la gracia lo requiere.
+**Iª q.105 — Sobre la mutación de las criaturas por Dios:**
 
-**Dios obra en todo agente (q.105 a.5):** Dios obra en todo el que obra de tres modos: a modo de fin (toda operación es por algún bien que participa de Dios), a modo de agente (todas las cosas obran en virtud de Dios, que mueve a las causas segundas), y dando la forma que es principio de acción y conservándola en el ser. Las causas segundas tienen operaciones propias —no son superfluas— y una misma acción procede de Dios como causa primera y de la criatura como causa segunda.
+**a.1 — Dios puede mover directamente la materia hacia la forma.** Dios, cuyo poder se extiende a la forma y a la materia, puede reducir la materia en potencia al acto de la forma sin necesidad de causas segundas. El efecto se asemeja a Dios virtualmente (no específicamente). Los ángeles y demonios no pueden causar formas directamente, sino que usan gérmenes corporales. (SmTh Iª q.105 a.1)
+
+**a.2 — Dios puede mover directamente cualquier cuerpo.** Todo movimiento corporal procede de la forma o tiende a una forma; pudiendo Dios imprimir la forma directamente, puede mover cualquier cuerpo en cualquier movimiento. El contacto no es físico sino virtual. La potencia divina infinita no es cuantitativa, por lo que puede mover cuerpos sin necesidad de instantaneidad. (SmTh Iª q.105 a.2)
+
+**a.3 — Dios mueve directamente el entendimiento creado.** Dios da al entendimiento tanto la facultad de entender como la especie inteligible, y las sustenta en el ser. La operación intelectiva procede del entendimiento como causa segunda y de Dios como causa primera. (SmTh Iª q.105 a.3)
+
+**a.4 — Dios mueve directamente la voluntad creada.** La voluntad es movida por el bien como objeto y por quien da la virtud de querer. Solo Dios, bien universal, mueve la voluntad suficientemente como objeto y como autor de la virtud de querer. No hay coacción, pues Dios da la propia inclinación de la voluntad. (SmTh Iª q.105 a.4)
+
+**a.5 — Dios obra en todo el que actúa.** De tres modos: a modo de fin (toda operación es por algún bien que participa de Dios), a modo de agente (las causas segundas obran en virtud de la causa primera), y dando la forma que es principio de acción y conservándola. Las causas segundas tienen operaciones propias —no son superfluas— y una misma acción procede de Dios como causa primera y de la criatura como causa segunda. (SmTh Iª q.105 a.5)
 
 ## Distinciones importantes
 
 - **Providencia vs. Gobierno**: la providencia es la razón del orden de las cosas hacia su fin (en el entendimiento divino); el gobierno es la ejecución de dicho orden.
-- **Conservación directa vs. indirecta**: directa (por el influjo continuo de Dios que da el ser) e indirecta (apartando los agentes corruptores).
 - **Milagro vs. operación natural**: el milagro es lo que Dios hace fuera del orden de toda la naturaleza creada; la operación natural se realiza dentro del orden establecido.
 
 ## Relaciones doctrinales
@@ -64,5 +71,5 @@ El gobierno divino presupone la [[providencia_divina]] (como el plan precede a l
 ## Referencias
 
 - SmTh Iª q.103, sobre el gobierno del mundo en general
-- SmTh Iª q.104, sobre los efectos del gobierno divino en especial
+- SmTh Iª q.104, sobre la conservación de las criaturas por Dios (ver [[conservación]])
 - SmTh Iª q.105, sobre la mutación de las criaturas por Dios

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Justicia Original
 tags: ["dogmática"]
 
-timestamp: 2026-05-22
+timestamp: 2026-07-03
 description: "Estado de santidad y justicia en que Dios constituyó a nuestros primeros padres Adán y Eva antes del pecado original."
 ---
 # Justicia Original
 
 > Área: Dogmática
-> Última actualización: 2026-05-22
+> Última actualización: 2026-07-03
 
 ## Definición
 
@@ -27,23 +27,79 @@ La Iglesia enseña que nuestros primeros padres fueron constituidos en un estado
 
 ### Según la Summa Theologiae (SmTh)
 
-**Iª q.94 — Estado del entendimiento del primer hombre:** Adán no vio a Dios en esencia (q.94 a.1), pues quien ve a Dios no puede pecar, y Adán pecó. Sin embargo, su conocimiento de Dios era más sublime que el nuestro, conociéndolo por efectos inteligibles sin obstáculo sensible, en un término medio entre el conocimiento de esta vida y la visión beatífica. No vio a los ángeles en esencia (q.94 a.2), pues su modo de conocer era por imágenes, propio del alma unida al cuerpo. Conoció por ciencia infusa todo lo necesario para instruir y gobernar a los demás, incluido lo sobrenatural necesario para el gobierno de la vida humana (q.94 a.3). No pudo ser engañado (q.94 a.4), pues mientras la inocencia permaneció, el entendimiento nunca asintió a lo falso.
+**Iª q.94 — Estado del entendimiento del primer hombre:**
 
-**Iª q.95 — Gracia y justicia del primer hombre:** Fue creado en gracia santificante (q.95 a.1), don sobrenatural que sometía su razón a Dios y, por ello, las potencias inferiores a la razón y el cuerpo al alma. Tuvo pasiones (amor, gozo, deseo, esperanza) pero todas ordenadas y sometidas a la razón —no había pasiones desordenadas como temor o dolor (q.95 a.2). Poseyó todas las virtudes: unas en hábito y acto (caridad, justicia, fe, esperanza), otras solo en hábito (penitencia, misericordia) por no haber pecado ni miseria en aquel estado (q.95 a.3). Sus obras fueron más meritorias que las posteriores al pecado, por la mayor abundancia de gracia (q.95 a.4).
+**a.1 — Adán no vio a Dios en esencia:** Quien ve a Dios en esencia queda fijado en el amor de Dios y no puede pecar. Como Adán pecó, es evidente que no vio a Dios en esencia en el estado común de aquella vida. No obstante, conocía a Dios de un modo más sublime que nosotros, por medio de efectos inteligibles sin obstáculo sensible, en un término medio entre el conocimiento de esta vida y la visión beatífica. Su cognición procedía por irradiación de la primera verdad, por conocimiento natural o gratuito, sin que las cosas sensibles fueran un impedimento (q.94 a.1).
 
-**Iª q.96 — Dominio del primer hombre:** El hombre en el estado de inocencia dominaba naturalmente a los animales, por estar estos ordenados a él como lo imperfecto a lo perfecto (q.96 a.1). Dominaba sobre todas las criaturas no racionales en cuanto a su uso, no a su transmutación (q.96 a.2). Hubo desigualdad entre los hombres (sexos, edad, ciencia, justicia, complexión física) como parte del orden y belleza del universo (q.96 a.3). El hombre dominaba al hombre con dominio libre o civil (gobierno orientado al bien común), no con dominio servil (para utilidad propia), que es consecuencia del pecado (q.96 a.4).
+**a.2 — Adán no vio a los ángeles en esencia:** El alma humana en el estado de inocencia conocía por medio de imágenes sensibles, propio del alma unida al cuerpo. Por este modo de conocer, el alma puede elevarse de lo externo a sí misma, pero no puede llegar al conocimiento perfecto de los ángeles, que no conocen por imágenes sino de modo superior. Adán conocía a los ángeles de modo más perfecto que nosotros, pero no en su esencia (q.94 a.2).
 
-**Iª q.97 — Conservación del individuo:** El primer hombre era inmortal, no por naturaleza, sino por una fuerza sobrenatural impresa en el alma que preservaba el cuerpo de corrupción mientras permaneciese unido a Dios (q.97 a.1). Era impasible en sentido propio (sin alteraciones que sacaran su cuerpo de su disposición natural), pero no en sentido amplio (sí sentía y entendía) (q.97 a.2). Necesitaba alimentos para reparar la pérdida de humedad por el calor natural (q.97 a.3). El árbol de la vida fortalecía el vigor de la especie contra el desgaste, preservando de la vejez por un tiempo determinado, pero no causaba una inmortalidad absoluta (q.97 a.4).
+**a.3 — Ciencia infusa del primer hombre:** Adán fue creado perfecto en su alma para poder instruir y gobernar a los demás, como lo era en su cuerpo para engendrar. Por eso recibió ciencia infusa de todo lo que el hombre puede conocer naturalmente (lo que existe virtualmente en los principios evidentes por sí mismos) y de lo sobrenatural necesario para el gobierno de la vida humana en aquel estado. No conoció los pensamientos de los hombres, lo futuro contingente ni cosas superfluas (q.94 a.3).
 
-**Iª q.98 — Generación en el estado de inocencia:** En el estado de inocencia habría generación para multiplicar el género humano, ya que el hombre es intermedio entre lo corruptible (cuerpo) y lo incorruptible (alma). La generación sería por coito, pero sin concupiscencia desordenada: los miembros se moverían sometidos a la voluntad, sin ardor libidinoso. El deleite sensible no sería menor que ahora, pero estaría regulado por la razón (q.98 aa.1-2).
+**a.4 — Imposibilidad de engaño:** Mientras la inocencia permaneció, el entendimiento humano no podía asentir a lo falso como verdadero. La rectitud del estado primitivo implicaba que las potencias inferiores estaban sometidas a las superiores sin obstaculizarlas. El entendimiento nunca se engaña sobre su objeto propio; todo engaño viene de facultades inferiores (imaginación, sentidos), que en aquel estado no impedían el juicio racional (q.94 a.4).
 
-**Iª q.99 — Condición corporal de la prole:** Los niños nacerían sin perfecto uso de sus miembros (por la humedad cerebral propia de su edad), pero con el dominio proporcionado a su estado. Nacerían ambos sexos, pues la diversidad de sexos acrecienta la perfección de la naturaleza humana. El sexo de la prole lo determinaría la voluntad de los padres, dada la sumisión del cuerpo al alma (q.99 aa.1-2).
+**Iª q.95 — Gracia y justicia del primer hombre:**
 
-**Iª q.100 — Justicia de la prole:** Los niños nacerían en justicia original, pues esta era un accidente de la especie (no individual), infundido por Dios a toda la naturaleza. Así como el pecado original se transmite por generación, también se transmitiría la justicia original. Pero no nacerían confirmados en justicia, pues la confirmación requiere la visión beatífica, que acabaría con la vida animal y la generación (q.100 aa.1-2).
+**a.1 — Creado en gracia:** La rectitud del estado primitivo —razón sometida a Dios, potencias inferiores a la razón, cuerpo al alma— exigía la gracia como don sobrenatural. La sumisión de la razón a Dios no era natural, pues de serlo habría permanecido tras el pecado. Al abandonar la gracia el alma, desapareció la obediencia de la carne al alma, manifestando que era la gracia la que mantenía el orden original (q.95 a.1).
 
-**Iª q.101 — Ciencia de la prole:** Los niños no nacerían con plenitud de ciencia, sino que la adquirirían con el tiempo por la experiencia y la enseñanza, pues el alma humana está naturalmente ordenada a conocer por los sentidos. No tendrían perfecto uso de razón al nacer, por la humedad cerebral, que impide el pleno funcionamiento de las potencias sensitivas (q.101 aa.1-2).
+**a.2 — Pasiones ordenadas:** En el estado de inocencia había pasiones relativas al bien presente (amor, gozo) y al bien futuro sin aflicción (deseo, esperanza). No había pasiones relativas al mal (temor, dolor) porque ningún mal amenazaba. Estas pasiones se daban de modo distinto al actual: el apetito sensitivo estaba totalmente sometido a la razón, por lo que no precedían al juicio ni lo impedían, sino que procedían de él (q.95 a.2).
 
-**Iª q.102 — El Paraíso terrenal:** Es un lugar corpóreo situado en Oriente, de clima templado y suave, el más digno de la tierra. Fue un lugar apto para la vida del hombre en el estado de inocencia: el aire puro y la temperatura equilibrada preservaban el cuerpo de la corrupción externa, mientras la comida lo preservaba internamente. El hombre fue puesto en el Paraíso «para trabajarlo y custodiarlo» —trabajo agradable, no penoso— y para que habitara allí hasta ser trasladado al cielo. No fue creado en el Paraíso, sino fuera, para mostrar que la incorruptibilidad era un don sobrenatural, no natural (q.102 aa.1-4).
+**a.3 — Poseyó todas las virtudes:** Las virtudes que no implican imperfección (caridad, justicia) existían en hábito y acto. Las que implican imperfección no opuesta al estado primitivo (fe, esperanza) también existían en hábito y acto. Las que implican imperfección incompatible con aquel estado (penitencia, misericordia) existían solo en hábito: Adán estaba dispuesto a dolerese del pecado o remediar la miseria si estas hubieran existido (q.95 a.3).
+
+**a.4 — Obras más meritorias:** Considerando la raíz de la gracia y la caridad, las obras del primer hombre fueron más meritorias que las posteriores al pecado, por ser la gracia más abundante sin obstáculo natural. También en cantidad absoluta eran más meritorias por ser el hombre más virtuoso. Solo en cantidad proporcional (dificultad) son mayores las obras tras el pecado (q.95 a.4).
+
+**Iª q.96 — Dominio del primer hombre:**
+
+**a.1 — Dominio sobre los animales:** El dominio de los animales es natural al hombre, manifestado por tres hechos: 1) el orden de la naturaleza (lo imperfecto sirve a lo perfecto); 2) la Providencia divina (Dios gobierna lo inferior por lo superior); 3) la participación de la prudencia en los animales frente a la prudencia universal en el hombre. Incluso los animales salvajes estaban sometidos al dominio del hombre, aunque hubiera discordia entre ellos, porque el hombre era ejecutor de la Providencia divina que todo lo dirige (q.96 a.1).
+
+**a.2 — Dominio sobre toda criatura no racional:** El hombre dominaba las criaturas no racionales (plantas, seres inanimados) en cuanto a su uso, no con dominio imperativo o transmutante. Las potencias naturales y el cuerpo mismo no están sometidos al imperio de la razón sino a su uso, pues la razón no puede transmutar la naturaleza de las cosas, sino servirse de ellas libremente (q.96 a.2).
+
+**a.3 — Desigualdad entre los hombres:** En el estado de inocencia había desigualdad al menos de sexos y edad. También había disparidad de justicia y ciencia, pues el hombre obraba libremente y podía progresar más o menos. Por parte del cuerpo, podía haber disparidad de complexión, fuerza, estatura o hermosura por influjo del clima y los astros, sin que esto implicara defecto o pecado (q.96 a.3).
+
+**a.4 — Dominio libre, no servil:** El dominio servil (para utilidad propia del señor) no se daba en el estado de inocencia. Pero el dominio libre o civil (gobierno para el bien del sometido o del bien común) sí existía, porque: 1) el hombre es animal social y necesita quien lo oriente al bien común; 2) el que tiene mayor ciencia y justicia debe poner sus dones al servicio de los demás (q.96 a.4).
+
+**Iª q.97 — Conservación del individuo:**
+
+**a.1 — Inmortalidad condicionada:** El cuerpo del primer hombre no era incorruptible por naturaleza, sino por una fuerza sobrenatural impresa en el alma que lo preservaba de corrupción mientras el alma estuviese unida a Dios. Era inmortal en el tercer sentido (por causa eficiente): Dios le dotó de inmortalidad mientras no pecase, para que él mismo se diese la vida o la muerte. El alma racional, por superar la proporción de la materia corporal, recibió desde el principio una virtud para conservar el cuerpo por encima de la naturaleza material (q.97 a.1).
+
+**a.2 — Impasibilidad (sentido propio):** La pasión en sentido propio (ser sacado de la disposición natural) no se daba en el estado de inocencia: el hombre era impasible en alma y cuerpo. Pero en sentido amplio (cualquier mutación, incluso la que perfecciona la naturaleza: sentir, entender, dormir) sí era pasible. Podía librarse de toda pasión que alterara su disposición natural, incluida la muerte, si se hubiera mantenido sin pecado (q.97 a.2).
+
+**a.3 — Necesidad de alimentos:** El hombre en el estado de inocencia necesitaba alimentos porque tenía vida vegetativa (nutritiva, generativa, de crecimiento). El calor natural consumía parte de la humedad del cuerpo, y era necesario reponerla con alimento. Aunque era inmortal sobrenaturalmente, su cuerpo seguía las leyes naturales en cuanto a la necesidad de nutrición. Después de la resurrección, los cuerpos serán espirituales y no necesitarán alimento (q.97 a.3).
+
+**a.4 — Árbol de la vida:** El árbol de la vida no causaba inmortalidad absoluta, sino que fortalecía el vigor de la especie contra el desgaste causado por la mezcla de alimentos extraños, preservando de la vejez por un tiempo determinado. Su virtud era finita, por lo que no podía hacer durar el cuerpo infinitamente. Tras ese tiempo, el hombre sería trasladado a la vida espiritual o comería de nuevo del árbol. Era un remedio, no una fuente de incorruptibilidad absoluta (q.97 a.4).
+
+**Iª q.98 — Generación en el estado de inocencia:**
+
+**a.1 — En el estado de inocencia habría generación para multiplicar el género humano.** El hombre es intermedio entre lo corruptible (cuerpo) y lo incorruptible (alma): a su parte corporal le corresponde la generación, propia de lo corruptible, y por parte del alma, incorruptible, Dios intenta multiplicar individuos. Si no hubiera habido generación, el pecado habría sido necesario para alcanzar un gran bien. La generación no tenía por fin conservar la especie (pues el hombre vivía perpetuamente), sino multiplicar individuos (SmTh Iª q.98 a.1).
+
+**a.2 — La generación sería por coito, pero sin concupiscencia desordenada.** Engendrar por coito es propio de la naturaleza animal del hombre; los miembros destinados a tal efecto no podían carecer de función antes del pecado. La deformidad de la concupiscencia desenfrenada no existiría en el estado de inocencia, pues las facultades inferiores estaban sometidas a las superiores. Los miembros se moverían sometidos a la voluntad, sin ardor libidinoso. El deleite sensible no sería menor que ahora, pero estaría regulado por la razón: el apetito no produciría el deleite de modo desordenado (SmTh Iª q.98 a.2).
+
+**Iª q.99 — Condición corporal de la prole:**
+
+**a.1 — Los niños nacerían sin perfecto uso de sus miembros.** Es natural que, por la alta humedad cerebral infantil, los nervios no muevan con flexibilidad los miembros. Sin embargo, en el estado de inocencia no habría impedimentos a la voluntad desde los miembros; los niños tendrían dominio proporcionado a su edad (como mamar), pues la voluntad es ordenada cuando tiende a actos proporcionados a ella (SmTh Iª q.99 a.1).
+
+**a.2 — Nacerían ambos sexos.** La diversidad de sexos acrecienta la perfección de la naturaleza humana. La generación de la mujer no proviene solo de defecto de capacidad activa o indisposición de la materia, sino también de algo extrínseco (viento, pensamientos del alma). En el estado de inocencia, el cuerpo estaba más sometido al alma, por lo que el sexo de la prole lo establecería la voluntad del genitor (SmTh Iª q.99 a.2).
+
+**Iª q.100 — Justicia de la prole:**
+
+**a.1 — Los niños nacerían en justicia original.** La justicia original era un accidente de la naturaleza de la especie, no causado por principios de la especie sino por un don infundido por Dios a toda la naturaleza. Así como el pecado original se transmite por generación (por ser opuesto a la justicia original, es pecado de naturaleza), también se transmitiría la justicia original. Nacerían en justicia y en gracia, infundida por Dios junto con el alma racional (SmTh Iª q.100 a.1).
+
+**a.2 — No nacerían confirmados en justicia.** Los niños no poseerían una perfección superior a la de sus padres al engendrar. Estos no estaban confirmados en justicia, pues la confirmación requiere la visión beatífica, que hace imposible pecar. Si Adán hubiera alcanzado la bienaventuranza, habría cesado la vida animal y con ella la generación. Por tanto, los niños no nacerían confirmados en justicia (SmTh Iª q.100 a.2).
+
+**Iª q.101 — Ciencia de la prole:**
+
+**a.1 — Los niños no nacerían con plenitud de ciencia.** El alma humana está naturalmente ordenada a conocer por los sentidos; si desde el principio tuviera ciencia infusa, no necesitaría el cuerpo para su propia operación. En el estado de inocencia, los niños adquirirían ciencia con el tiempo, por experiencia propia o ajena, sin dificultad, preguntando y averiguando (SmTh Iª q.101 a.1).
+
+**a.2 — No tendrían perfecto uso de razón al nacer.** Las potencias sensitivas son orgánicas; la excesiva humedad cerebral impide su pleno funcionamiento y, por tanto, el perfecto uso de la razón. Esto mismo sucedería en el estado de inocencia. No obstante, los niños tendrían un uso de razón más perfecto que ahora en lo propio de su estado (SmTh Iª q.101 a.2).
+
+**Iª q.102 — El Paraíso terrenal:**
+
+**a.1 — El Paraíso es un lugar corpóreo.** Situado en Oriente, lugar más digno de la tierra (el oriente está a la derecha del cielo). Es un lugar real, con fundamento histórico, al que pueden añadirse comentarios espirituales. Los ríos que de él nacen se filtran bajo tierra y surgen en lugares lejanos; el lugar nos es inaccesible por montes, mares o climas extremos (SmTh Iª q.102 a.1).
+
+**a.2 — Lugar adecuado para la vida del hombre en el estado de inocencia.** El Paraíso tenía clima templado y suave, aire puro, plantas y flores. Preservaba el cuerpo de la corrupción externa (ambiente destemplado), mientras los alimentos lo preservaban internamente. No era el cielo empíreo (lugar de los ángeles), sino un lugar corpóreo apropiado para el hombre en su estado de inmortalidad condicionada (SmTh Iª q.102 a.2).
+
+**a.3 — El hombre fue puesto en el Paraíso «para trabajarlo y custodiarlo».** Trabajo agradable, no penoso, para ejercitar su capacidad natural. La custodia no era contra invasores violentos, sino para preservarse del pecado. El Paraíso estaba ordenado al bien del hombre, no al revés (SmTh Iª q.102 a.3).
+
+**a.4 — El hombre no fue creado en el Paraíso, sino fuera de él.** La incorruptibilidad no era natural al hombre, sino un don sobrenatural. Dios lo hizo fuera del Paraíso y luego lo puso en él para mostrar que el don era gratuito, no debido a la naturaleza. La mujer, en cambio, fue hecha en el Paraíso por la dignidad del principio del que fue formada (la costilla de Adán) (SmTh Iª q.102 a.4).
 
 ### Según Royo Marín (TPCr)
 

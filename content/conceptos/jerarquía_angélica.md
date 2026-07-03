@@ -3,7 +3,7 @@ type: Concepto Teológico
 title: Jerarquía angélica
 tags: ["dogmática", "angelología"]
 
-timestamp: 2026-06-03
+timestamp: 2026-07-03
 description: "La jerarquía angélica es el orden según el cual los ángeles están dispuestos en grados o coros."
 ---
 # Jerarquía angélica
@@ -37,11 +37,56 @@ El orden jerárquico se refleja también en el conocimiento mutuo: todo ángel c
 
 **La caída y los órdenes angélicos (q.63):** En cuanto a qué órdenes cayeron, Santo Tomás recoge dos opiniones (Iª q.63 a.7-9). Quienes sostienen que el diablo fue el supremo de todos los ángeles admiten que pudieron caer de todos los órdenes; quienes opinan que fue el supremo del orden inferior sostienen que cayeron sólo del orden inferior (aunque en él algunos permanecieron fieles). La Escritura no atribuye a los demonios los nombres de Serafines o Tronos (que se toman del ardor del amor y de la inhabitación de Dios, incompatibles con el pecado), pero sí los de Querubines, Potestades y Principados (que se toman de la ciencia y del poder, compatibles con el bien y el mal). Los ángeles que perseveraron son más que los que cayeron (q.63 a.9). Los grados de gracia y gloria corresponden a los grados de naturaleza (q.62 a.6). Véase [[pecado_de_los_ángeles]] y [[perfección_angélica_en_gracia_y_gloria]].
 
-**Iluminación entre los ángeles (q.106):** La iluminación es el acto por el cual un ángel superior manifiesta la verdad que conoce a uno inferior (q.106 a.1). El ángel superior conforta la virtud intelectiva del inferior (como un cuerpo más cálido calienta a otro menos cálido) y divide la verdad universal que él conoce en concepciones más particulares, acomodándose a la capacidad del inferior (como el maestro explica en detalle lo que él concibe sintéticamente). Un ángel no puede mover la voluntad de otro desde dentro —solo Dios lo hace (q.105 a.4)— pero puede inclinarla presentando bienes creados o por persuasión (q.106 a.2). Los ángeles inferiores nunca iluminan a los superiores, pues el orden establecido por Dios en las sustancias espirituales nunca es derogado (q.106 a.3). Los ángeles superiores comunican a los inferiores todo lo que perciben de Dios, aunque los inferiores no lo reciben tan plenamente (q.106 a.4).
+**Iª q.106 — Sobre la iluminación de los ángeles:**
 
-**Lenguaje de los ángeles (q.107):** Los ángeles se comunican entre sí ordenando voluntariamente su concepto mental para que sea conocido por otro (q.107 a.1). No necesitan lenguaje sensible (voz, gestos) porque no tienen el obstáculo del cuerpo. Los ángeles inferiores pueden hablar a los superiores manifestándoles lo que depende de su voluntad creada, aunque no pueden iluminarlos (q.107 a.2). Los ángeles hablan a Dios alabándole y consultando la voluntad divina (q.107 a.3). La distancia local no impide el lenguaje angélico, porque es operación intelectual (q.107 a.4). Un ángel puede dirigir su concepto a otro sin que lo conozcan los demás (q.107 a.5).
+**a.1 — Un ángel ilumina a otro.** Iluminar es manifestar la verdad conocida. El ángel superior conforta la virtud intelectiva del inferior y divide la verdad universal en concepciones más particulares para que el inferior la reciba. (SmTh Iª q.106 a.1)
 
-**Misión de los ángeles (q.112):** Algunos ángeles son enviados en ministerio para ejecutar el gobierno divino (q.112 a.1). Los ángeles de la primera jerarquía (Serafines, Querubines, Tronos) y las Dominaciones nunca son enviados a ministerios exteriores: los primeros contemplan inmediatamente a Dios; las Dominaciones disponen y ordenan lo que otros deben ejecutar (q.112 a.2). Los enviados también asisten ante Dios en cuanto ven la esencia divina, pero en sentido propio solo asisten (son iluminados inmediatamente por Dios) los de la primera jerarquía (q.112 a.3). Los cinco órdenes inferiores (Principados, Arcángeles, Ángeles, Virtudes, Potestades) son los enviados en ministerio exterior (q.112 a.4).
+**a.2 — Un ángel no puede mover la voluntad de otro desde dentro.** Solo Dios lo hace, como autor de la naturaleza intelectual. El ángel puede inclinarla presentando bienes creados o por persuasión. (SmTh Iª q.106 a.2)
+
+**a.3 — Los ángeles inferiores nunca iluminan a los superiores.** El orden espiritual establecido por Dios nunca es derogado. (SmTh Iª q.106 a.3)
+
+**a.4 — Los superiores comunican a los inferiores todo lo que perciben de Dios.** Los inferiores no lo reciben tan plenamente, como el discípulo entiende menos que el maestro. (SmTh Iª q.106 a.4)
+
+**Iª q.107 — Sobre el lenguaje de los ángeles:**
+
+**a.1 — Hay lenguaje entre los ángeles.** Consiste en ordenar el concepto mental para que sea conocido por otro. No necesitan voz ni gestos. (SmTh Iª q.107 a.1)
+
+**a.2 — Los ángeles inferiores pueden hablar a los superiores.** Pueden manifestarles lo que depende de su voluntad creada, aunque no iluminarlos. (SmTh Iª q.107 a.2)
+
+**a.3 — Los ángeles hablan a Dios.** Para alabarle, admirarle y consultar la divina voluntad, no para comunicarle algo. (SmTh Iª q.107 a.3)
+
+**a.4 — La distancia local no impide el lenguaje angélico.** Es operación intelectual independiente del lugar. (SmTh Iª q.107 a.4)
+
+**a.5 — Un ángel puede hablar privadamente a otro.** El concepto se hace perceptible solo para aquel a quien el ángel lo destina voluntariamente. (SmTh Iª q.107 a.5)
+
+**Iª q.108 — Sobre la jerarquía y los órdenes de los ángeles:**
+
+**a.1 — Tres jerarquías angélicas.** Se distinguen según el modo de recibir las iluminaciones divinas. La primera recibe las razones de las cosas directamente de Dios; la segunda, de las causas universales creadas; la tercera, aplicadas a las cosas singulares. (SmTh Iª q.108 a.1)
+
+**a.2 — En cada jerarquía hay diversos órdenes.** La multitud exige orden: toda diversidad se reduce a tres grados (sumo, medio, ínfimo). Por eso Dionisio señala tres órdenes por jerarquía. (SmTh Iª q.108 a.2)
+
+**a.3 — Cada orden contiene muchos ángeles.** Aunque en realidad cada ángel tiene su propio ministerio y orden según su grado específico, nosotros conocemos imperfectamente los oficios angélicos y los distinguimos solo en general. (SmTh Iª q.108 a.3)
+
+**a.4 — La distinción de jerarquías y órdenes procede tanto de la gracia como de la naturaleza.** Los dones gratuitos se dan según la capacidad de los dones naturales. En los hombres, en cambio, los órdenes se distinguen solo según los dones gratuitos. (SmTh Iª q.108 a.4)
+
+**a.5 — Nombres y propiedades de los órdenes.** Serafines (amor abrasante), Querubines (plenitud de ciencia), Tronos (conocimiento de las razones divinas), Dominaciones (gobierno y disposición), Virtudes (fortaleza para ejecutar), Potestades (ordenación), Principados (guía y presidencia), Arcángeles (intermedios), Ángeles (mensajeros). (SmTh Iª q.108 a.5)
+
+**a.6 — Estratificación de los órdenes.** Dionisio: 1.ª jerarquía: Serafines, Querubines, Tronos; 2.ª: Dominaciones, Virtudes, Potestades; 3.ª: Principados, Arcángeles, Ángeles. Gregorio difiere ligeramente (Principados y Virtudes intercambiados). Ambas son adecuadas. (SmTh Iª q.108 a.6)
+
+**a.7 — Los órdenes perduran después del juicio.** La distinción de grados (de naturaleza y de gloria) permanece siempre. Los oficios que llevan a otros al fin cesan, pero los que corresponden a la consecución del fin permanecen. (SmTh Iª q.108 a.7)
+
+**a.8 — Los hombres pueden pertenecer a los órdenes angélicos.** No según la naturaleza (la distinción específica permanece), pero sí según los dones de la gracia, pues los hombres pueden merecer igualarse con los ángeles en cualquiera de los grados angélicos. (SmTh Iª q.108 a.8)
+
+**Iª q.112 — Sobre la misión de los ángeles:**
+
+**a.1 — Algunos ángeles son enviados en ministerio.** La criatura corporal es administrada por los ángeles; cuando es necesario que un ángel actúe sobre ella, es enviado por Dios. (SmTh Iª q.112 a.1)
+
+**a.2 — No todos los ángeles son enviados.** Los de la primera jerarquía (Serafines, Querubines, Tronos) y las Dominaciones nunca son enviados a ministerios exteriores: los primeros contemplan inmediatamente a Dios; las Dominaciones disponen y ordenan lo que otros deben ejecutar. (SmTh Iª q.112 a.2)
+
+**a.3 — Asistentes y administradores.** Todos los ángeles ven la esencia divina (asisten en ese sentido), pero en sentido propio solo asisten los que son iluminados inmediatamente por Dios (primera jerarquía). Los enviados también son administradores. (SmTh Iª q.112 a.3)
+
+**a.4 — Cinco órdenes son enviados.** Principados, Virtudes, Potestades, Arcángeles y Ángeles son enviados en ministerio exterior, pues sus nombres indican ejecución. Las Dominaciones disponen pero no ejecutan. (SmTh Iª q.112 a.4)
+
 ### Según Royo Marín (TPCr)
 
 Royo Marín trata la jerarquía angélica en el contexto de la perfección cristiana y la configuración con Cristo. Señala que la dignidad del sacerdocio supera incluso a las jerarquías angélicas (TPCr, Tercera Parte, Libro III). Los ángeles son presentados como modelos de adoración y servicio a Dios, y como protectores de las almas en su camino hacia la perfección.

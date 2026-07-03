@@ -47,11 +47,11 @@ La gnome es virtud especial distinta de la synesis (q.51 a.4). Se distingue por 
 - Parte potencial de la [[virtud_de_la_prudencia]]
 - Virtud del juicio recto en casos excepcionales
 - Se complementa con la [[eubulia]] (consejo) y la [[synesis]] (juicio común)
-- Se relaciona con la [[epiqueia]] (interpretación equitativa de la ley)
+- Se relaciona con la [[epiqueya]] (interpretación equitativa de la ley)
 
 ## Ver también
 
-[[virtud_de_la_prudencia]], [[eubulia]], [[synesis]], [[epiqueia]], [[sindéresis]], [[don_de_consejo]], [[inconsideración]]
+[[virtud_de_la_prudencia]], [[eubulia]], [[synesis]], [[epiqueya]], [[sindéresis]], [[don_de_consejo]], [[inconsideración]]
 
 ## Referencias
 

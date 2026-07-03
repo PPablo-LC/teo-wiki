@@ -43,11 +43,11 @@ GS 22 presenta la dimensión vertical de la historia: «Realmente, el misterio d
 
 ## Relaciones doctrinales
 
-La dimensión vertical de la historia se relaciona con [[historia_de_la_salvación]], [[providencia_divina]], [[escatología]], [[reino_de_dios]], [[memoria_maternal_iglesia]] y [[misterio_pascual]].
+La dimensión vertical de la historia se relaciona con [[historia_de_la_salvación]], [[providencia_divina]], [[escatología]], [[reino_de_dios]], [[memoria_maternal_de_la_iglesia]] y [[misterio_pascual]].
 
 ## Ver también
 
-[[historia_de_la_salvación]], [[providencia_divina]], [[escatología]], [[memoria_maternal_iglesia]]
+[[historia_de_la_salvación]], [[providencia_divina]], [[escatología]], [[memoria_maternal_de_la_iglesia]]
 
 ## Referencias
 

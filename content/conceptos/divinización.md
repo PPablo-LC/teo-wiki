@@ -45,7 +45,7 @@ Se relaciona con [[gracia_santificante]], [[encarnación]], [[admirabile_commerc
 
 ## Ver también
 
-[[gracia_santificante]], [[encarnación]], [[admirabile_commercium]], [[redemption]]
+[[gracia_santificante]], [[encarnación]], [[admirabile_commercium]], [[redención]]
 
 ## Referencias
 

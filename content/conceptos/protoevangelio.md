@@ -33,7 +33,7 @@ El Protoevangelio es la primera profecía mesiánica de la Escritura. Dios anunc
 
 ## Relaciones doctrinales
 
-Se relaciona con [[pecado_original]], [[nueva_eva]], [[redemption]], [[virgen_maría]], [[gn_3_15]], [[redención]].
+Se relaciona con [[pecado_original]], [[nueva_eva]], [[redención]], [[virgen_maría]], [[gn_3_15]], [[redención]].
 
 ## Ver también
 

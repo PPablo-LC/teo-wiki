@@ -23,7 +23,21 @@ El CEC §268-271 trata la omnipotencia divina: «Dios es el Señor Todopoderoso�
 
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás trata la omnipotencia divina en SmTh Iª q.25. Dios es omnipotente (a.3): puede hacer todo lo posible absolutamente, es decir, todo lo que no implica contradicción. Lo que repugna a la razón del ser en acto —como que una misma cosa sea y no sea simultáneamente— no puede ser hecho por Dios no por defecto de poder sino porque repugna a la noción de lo posible. Dios no puede hacer lo pasado no haber sido (a.4), pues eso implicaría contradicción. Dios puede hacer cosas mejores que las que hace (a.5), pero no puede hacer algo mejor que sí mismo. Dios no puede pecar ni negarse a sí mismo (a.3 ad 2), porque eso sería un defecto de su bondad. La omnipotencia divina se extiende a todo lo que es posible absoluta (no relativamente): todo lo que puede tener razón de ente. Incluye también obrar milagros (q.110 a.4), esto es, efectos fuera del orden habitual de la naturaleza.
+Santo Tomás dedica la cuestión 25 de la Ia Pars a la potencia de Dios, con seis artículos.
+
+**Iª q.25 — Sobre la potencia de Dios:**
+
+a.1 — En Dios hay potencia activa en sumo grado, pues es acto puro y principio de toda operación.
+
+a.2 — La potencia de Dios es infinita, pues su esencia es infinita y el poder de un ser se mide por su esencia.
+
+a.3 — Dios es omnipotente: puede hacer todo lo posible absolutamente, es decir, todo lo que no implica contradicción. Lo que repugna a la razón del ser en acto —como que una misma cosa sea y no sea— no puede ser hecho por Dios no por defecto de poder sino porque repugna a la noción de lo posible.
+
+a.4 — Dios no puede hacer lo pasado no haber sido, pues eso implicaría contradicción; pero puede hacer lo que no hace y no hacer lo que hace, pues su poder no está limitado a lo que actualmente quiere.
+
+a.5 — Dios puede hacer mejores las cosas que hace, pero no puede hacer algo mejor que sí mismo.
+
+a.6 — Dios puede hacer lo que no hace y no hacer lo que hace, porque su poder se extiende más allá de lo que ha creado realmente.
 
 **IIIª q.13 — La potencia del alma de Cristo:**
 

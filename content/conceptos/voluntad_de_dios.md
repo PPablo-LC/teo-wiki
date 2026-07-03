@@ -27,7 +27,35 @@ Pablo enseña que la voluntad de Dios es «buena, agradable y perfecta» (Rom 12
 
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás trata la voluntad divina en SmTh Iª q.19. En Dios hay voluntad (a.1), pues el bien entendido es objeto de la voluntad, y Dios entiende el bien. Dios no solo quiere su propia bondad necesariamente (a.3), sino que quiere las cosas distintas de Él no por necesidad absoluta sino por necesidad de supuesto (si quiere crear, debe querer los medios). La voluntad de Dios es causa de todas las cosas (a.4): las cosas tienen ser porque Dios quiere que sean. No hay causa que determine la voluntad de Dios (a.5), pues Él es la causa primera; pero tiene razón de causa final: su bondad. La voluntad de Dios siempre se cumple (a.6), aunque no todo lo que Dios quiere de voluntad antecedente (que todos se salven) se realice, pues permite el mal respetando las causas segundas. La voluntad de Dios es inmutable (a.7), pero no impone necesidad a lo querido (a.8), pues puede querer que algo sea contingente y libre. Dios no puede querer el mal (a.9) —el mal es privación de bien y no puede ser objeto de su voluntad. Dios tiene libre albedrío (a.10), pues su voluntad no está determinada a querer algo fuera de sí. Santo Tomás distingue la *voluntad de signo* (los signos de lo que Dios quiere: mandatos, prohibiciones, consejos, etc.) de la *voluntad de beneplácito* (la voluntad en sí misma, a.11-12).
+Santo Tomás dedica la cuestión 19 de la Ia Pars a la voluntad de Dios, con doce artículos.
+
+**Iª q.19 — Sobre la voluntad de Dios:**
+
+a.1 — En Dios hay voluntad: el bien entendido es objeto de la voluntad, y Dios entiende el bien infinito.
+
+a.2 — Dios se quiere a sí mismo necesariamente, como el bien infinito que es; quiere las cosas distintas de Él contingentemente.
+
+a.3 — Dios no quiere todo lo que quiere con necesidad absoluta: quiere las criaturas contingentemente, aunque con necesidad de supuesto (si quiere el fin, debe querer los medios).
+
+a.4 — La voluntad de Dios es causa de las cosas: las cosas tienen ser porque Dios quiere que sean.
+
+a.5 — No puede asignarse causa al acto de la voluntad divina (pues es la misma esencia de Dios); pero las cosas queridas tienen razón de causa final: la bondad divina.
+
+a.6 — La voluntad de Dios siempre se cumple: aunque no todo lo que Dios quiere de voluntad antecedente (que todos se salven) se realice, el orden de su sabiduría se cumple permitiendo el mal para bienes mayores.
+
+a.7 — La voluntad de Dios es inmutable: se dice que quiere cosas distintas no porque su voluntad varíe, sino porque quiere cosas diversas en el orden debido.
+
+a.8 — La voluntad de Dios no impone necesidad a las cosas queridas: la contingencia de las causas segundas es compatible con el influjo universal de la providencia.
+
+a.9 — Dios no puede querer el mal de culpa (el mal es privación de bien y no puede ser objeto de su voluntad), pero quiere el mal de pena como justicia y permite el mal de culpa.
+
+a.10 — En Dios hay libre albedrío: puede elegir entre alternativas (como crear o no crear) sin mutación en su voluntad.
+
+a.11 — Se distinguen en Dios la voluntad de beneplácito (la voluntad misma de Dios) y la voluntad signo (los signos de lo que Dios quiere: mandato, prohibición, permisión, consejo, operación).
+
+a.12 — El amor es lo primero en la voluntad: toda operación de la voluntad procede del amor.
+
+### Según el Catecismo (CEC)
 
 La voluntad del Padre es que todos los hombres se salven y lleguen al conocimiento de la verdad (cf. 1 Tim 2,4) (§2822). En la oración del Padrenuestro, «hágase tu voluntad», el cristiano pide que el plan de Dios se realice plenamente en la tierra como en el cielo (§2823). Dios, en su providencia, obra todos los acontecimientos para el bien de los que le aman (Rm 8,28) (§303-314). El hombre, dotado de libertad, puede adherirse libremente a la voluntad de Dios o rechazarla (§1730-1737). La gracia no suprime la libertad, sino que la sana y eleva (§1732). El pecado es la desobediencia a la voluntad de Dios (§1870).
 

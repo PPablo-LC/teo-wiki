@@ -23,7 +23,17 @@ Vivir, en sentido propio, es moverse a sí mismo. Cuanto más perfecta es la aut
 
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás trata la vida de Dios en SmTh Iª q.18. Vivir es moverse a sí mismo (a.1); los vivientes se distinguen de los no vivientes por tener en sí mismos el principio de su movimiento y operación. La vida no es una operación determinada (a.2), sino el ser mismo de los vivientes: «en los vivientes, la vida es el ser» (Aristóteles). Dios vive en grado sumo (a.3), pues su entender —que es su misma esencia— es un acto perfectísimo, sin mezcla de potencia, y Él es su propio fin. En Dios todo es vida (a.4): todas las cosas, en cuanto conocidas por Dios, son la misma vida divina, pues el entender de Dios es su vivir y lo conocido en Él no se distingue de su esencia.
+Santo Tomás dedica la cuestión 18 de la Ia Pars a la vida de Dios, con cuatro artículos.
+
+**Iª q.18 — Sobre la vida de Dios:**
+
+a.1 — Vivir se dice en varios sentidos; en su sentido más propio, vivir es tener en sí mismo el principio de su movimiento y operación. Los vivientes se distinguen de los no vivientes precisamente por esto.
+
+a.2 — La vida no es una operación determinada, sino el ser mismo de los vivientes: «en los vivientes, la vida es el ser» (Aristóteles). Así, lo que tiene vida en acto es el viviente mismo.
+
+a.3 — Dios vive en grado sumo, pues su entender —que es su misma esencia— es un acto perfectísimo, sin mezcla de potencia, y Él es su propio fin.
+
+a.4 — En Dios todo es vida: todas las cosas, en cuanto conocidas por Dios, son la misma vida divina, pues el entender de Dios es su vivir y lo conocido en Él no se distingue de su esencia.
 
 ## Distinciones importantes
 

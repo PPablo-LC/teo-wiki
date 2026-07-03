@@ -27,7 +27,25 @@ Dios establece su designio eterno de predestinación incluyendo en él la respue
 
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás trata la predestinación en SmTh Iª q.23. La predestinación es parte de la providencia (a.1): es la razón de la ordenación de algunas criaturas racionales a la vida eterna. Se distingue de la providencia en que la providencia ordena a cualquier fin universal, mientras que la predestinación ordena al fin sobrenatural de la gloria. En Dios no hay causa de la predestinación (a.5) —no hay nada previsto en el hombre que lo motive—, pues la predestinación precede a todo mérito humano. La predestinación no excluye la libertad de la oración y las buenas obras (a.6 ad 2), sino que las incluye como causas segundas ordenadas al fin. La reprobación (a.3) no es simétrica a la predestinación: Dios permite que algunos no alcancen la vida eterna (permisión) pero no es causa de su pecado. El número de predestinados es cierto (a.7), conocido solo por Dios. La predestinación puede ser confirmada (a.8) —respecto al decreto divino es inmutable— pero el hombre no puede estar cierto de su predestinación sino por revelación especial.
+Santo Tomás dedica la cuestión 23 de la Ia Pars a la predestinación, con ocho artículos.
+
+**Iª q.23 — Sobre la predestinación:**
+
+a.1 — La predestinación es parte de la providencia: es la razón de la ordenación de algunas criaturas racionales a la vida eterna. Se distingue de la providencia en que esta ordena a cualquier fin universal, mientras que la predestinación ordena al fin sobrenatural de la gloria.
+
+a.2 — En Dios hay predestinación: la predestinación existe en el que predestina (Dios), no en el predestinado, y es una disposición eterna de la sabiduría divina.
+
+a.3 — Dios no predestina a nadie a la condenación como causa de ella: la reprobación incluye la presciencia de la culpa y la permisión del pecado, pero no la causación del mal.
+
+a.4 — La predestinación de Cristo es la más excelsa: Cristo fue predestinado en cuanto hombre a ser Hijo de Dios por la gracia de la unión.
+
+a.5 — No hay causa de la predestinación del lado del hombre: no hay nada previsto en el hombre que motive la predestinación, que precede a todo mérito humano.
+
+a.6 — La predestinación es cierta e infalible: el decreto divino es inmutable, pero no excluye la libertad de la oración y las buenas obras, sino que las incluye como causas segundas.
+
+a.7 — El número de predestinados es cierto y fijo, conocido solo por Dios.
+
+a.8 — La predestinación no puede ser ayudada por las oraciones de los santos en cuanto al decreto divino, pero sí en cuanto a la ejecución: los santos interceden por los predestinados.
 
 #### Predestinación de Cristo (IIIª q.24)
 

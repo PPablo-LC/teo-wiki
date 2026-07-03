@@ -23,7 +23,17 @@ Las cosas no son falsas en sentido absoluto, pues todo ser, en cuanto ser, es ve
 
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás trata la falsedad en SmTh Iª q.17. La falsedad no está propiamente en las cosas (a.1): las cosas naturales son verdaderas por su conformidad con el entendimiento divino; se llaman falsas solo relativamente —por semejanza engañosa (el estaño parece plata) o por defecto respecto al arte (obra falsa)—. En el sentido (a.2), la falsedad está solo accidentalmente, cuando el órgano está indisponido (lo dulce parece amargo al enfermo) o cuando juzga accidentalmente lo común (tamaño, figura). En el entendimiento (a.3), la falsedad está propiamente en la composición y división (juzgar que algo es lo que no es); en la aprehensión de esencias simples, el entendimiento no puede ser falso (o conoce la esencia o no la conoce). Lo verdadero y lo falso son contrarios (a.4), no mera negación: lo falso añade algo (inadecuación) al igual que lo verdadero añade adecuación.
+Santo Tomás dedica la cuestión 17 de la Ia Pars a la falsedad, con cuatro artículos.
+
+**Iª q.17 — Sobre la falsedad:**
+
+a.1 — La falsedad no está propiamente en las cosas: las cosas naturales son verdaderas por su conformidad con el entendimiento divino; se llaman falsas solo relativamente —por semejanza engañosa (el estaño parece plata) o por defecto respecto al arte (obra falsa)—.
+
+a.2 — En el sentido, la falsedad está solo accidentalmente: cuando el órgano está indisponido (lo dulce parece amargo al enfermo) o cuando juzga accidentalmente lo común (tamaño, figura).
+
+a.3 — En el entendimiento, la falsedad está propiamente en la composición y división (juzgar que algo es lo que no es); en la aprehensión de esencias simples, el entendimiento no puede ser falso.
+
+a.4 — Lo verdadero y lo falso son contrarios, no mera negación: lo falso añade inadecuación, así como lo verdadero añade adecuación.
 
 ## Distinciones importantes
 

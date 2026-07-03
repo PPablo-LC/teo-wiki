@@ -23,7 +23,15 @@ La metáfora del libro de la vida procede de la costumbre humana de inscribir en
 
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás trata el libro de la vida en SmTh Iª q.24. El libro de la vida es la misma predestinación divina, con la diferencia de razón de que el libro de la vida conlleva el conocimiento de la predestinación (a.1). Se refiere propiamente a la vida gloriosa de los predestinados (a.2), no a la vida natural ni a la gracia en sí misma, pues la elección es para el fin sobrenatural que es la gloria. Alguien puede ser borrado del libro de la vida (a.3) en cuanto a la ordenación por gracia (los que tienen gracia pero luego la pierden por pecado mortal), pero no en cuanto a la predestinación divina, que es inmutable. Los predestinados están inscritos absolutamente y nunca serán borrados.
+Santo Tomás dedica la cuestión 24 de la Ia Pars al libro de la vida, con tres artículos.
+
+**Iª q.24 — Sobre el libro de la vida:**
+
+a.1 — El libro de la vida es la misma predestinación divina, con la diferencia de razón de que el libro de la vida conlleva el conocimiento de la predestinación.
+
+a.2 — El libro de la vida se refiere propiamente a la vida gloriosa de los predestinados, no a la vida natural ni a la gracia en sí misma, pues la elección es para el fin sobrenatural que es la gloria.
+
+a.3 — Alguien puede ser borrado del libro de la vida en cuanto a la ordenación por gracia (los que tienen gracia pero luego la pierden por pecado mortal), pero no en cuanto a la predestinación divina, que es inmutable. Los predestinados están inscritos absolutamente y nunca serán borrados.
 
 ## Distinciones importantes
 

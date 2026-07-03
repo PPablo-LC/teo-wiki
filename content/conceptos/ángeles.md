@@ -3,7 +3,7 @@ type: Concepto Teológico
 title: Ángeles
 tags: ["dogmática"]
 
-timestamp: 2026-07-01
+timestamp: 2026-07-03
 description: "Los ángeles son criaturas puramente espirituales, dotadas de inteligencia y voluntad, creadas por Dios para ser servidores y mensajeros suyos."
 ---
 # Ángeles
@@ -49,17 +49,49 @@ Santo Tomás trata la naturaleza, el conocimiento y la voluntad de los ángeles 
 
 **Pena de los demonios (q.64):** Los demonios sufren la obcecación del entendimiento (privación del conocimiento afectivo de Dios, pero no del natural), la obstinación de la voluntad en el mal, el dolor espiritual y el lugar penal (q.64 a.1-4). Tienen dos lugares de tormento: el infierno, por razón de su culpa, y la atmósfera tenebrosa, por razón de su ministerio de tentación, que durará hasta el juicio final (q.64 a.4). Todo esto se trata con mayor detalle en el artículo sobre la [[pena_de_los_demonios]].
 
-**Iluminación entre ángeles (q.106):** Un ángel ilumina a otro manifestándole la verdad que conoce (q.106 a.1). Lo hace de dos modos: fortaleciendo su virtud intelectiva (como un cuerpo más cálido calienta a otro menos cálido) y dividiendo la verdad universal que conoce en concepciones más particulares, acomodándose a la capacidad del ángel inferior (como el maestro explica en detalle lo que él concibe sintéticamente). Un ángel no puede mover la voluntad de otro desde dentro —solo Dios lo hace—, pero puede inclinarla presentando bienes creados ordenados a Dios como objeto (q.106 a.2). Los ángeles inferiores nunca iluminan a los superiores, pues el orden establecido por Dios en las sustancias espirituales nunca es derogado (q.106 a.3). Los ángeles superiores comunican a los inferiores todo lo que perciben de Dios, aunque los inferiores no lo reciben tan plenamente —como el discípulo entiende menos que el maestro (q.106 a.4).
+**Iª q.106 — Sobre la iluminación de los ángeles:**
 
-**Lenguaje de los ángeles (q.107):** Hay un modo de lenguaje entre los ángeles, que consiste en que un ángel ordena por su voluntad su concepto mental para que sea conocido por otro (q.107 a.1). No necesitan lenguaje exterior (voz o gestos) porque no tienen el obstáculo del cuerpo que esconde la mente: en el momento que un ángel quiere manifestar su pensamiento, al instante lo conoce el otro. Los ángeles inferiores pueden hablar a los superiores manifestándoles lo que depende de su voluntad creada, aunque no pueden iluminarlos (q.107 a.2). Los ángeles hablan a Dios alabándole y consultando la voluntad divina (q.107 a.3). La distancia local no impide el lenguaje angélico, pues es una operación intelectual independiente del lugar (q.107 a.4). Un ángel puede dirigir su concepto a otro sin que lo conozcan los demás, según su voluntad (q.107 a.5).
+**a.1 — Un ángel ilumina a otro.** Iluminar es manifestar la verdad conocida. El ángel superior conforta la virtud intelectiva del inferior y divide la verdad universal en concepciones más particulares para que el inferior la reciba (como el maestro explica en detalle lo que concibe sintéticamente). (SmTh Iª q.106 a.1)
 
-**Distribución en jerarquías y órdenes (q.108):** Los ángeles se distribuyen en tres jerarquías según el modo de recibir las iluminaciones divinas (q.108 a.1). La primera jerarquía recibe las razones de las cosas directamente de Dios; la segunda, de las causas universales creadas; la tercera, aplicadas a las cosas singulares. En cada jerarquía hay diversos órdenes (tres por jerarquía), según los diversos oficios y funciones, reduciéndose toda diversidad a tres grados: sumo, medio e ínfimo (q.108 a.2). Cada orden contiene muchos ángeles, aunque en realidad cada ángel tiene su propio ministerio y orden según su grado específico (q.108 a.3). La distinción de jerarquías y órdenes procede tanto de la gracia como de la naturaleza: los dones gratuitos se dan según la capacidad de los dones naturales (q.108 a.4). Los nueve coros son: Serafines, Querubines, Tronos (primera jerarquía); Dominaciones, Virtudes, Potestades (segunda); Principados, Arcángeles, Ángeles (tercera) (q.108 a.5-6).
+**a.2 — Un ángel no puede mover la voluntad de otro desde dentro.** Solo Dios mueve la voluntad como autor de la naturaleza intelectual. Sin embargo, el ángel puede inclinarla presentando bienes creados ordenados a Dios o por persuasión. (SmTh Iª q.106 a.2)
 
-**Dominio sobre las criaturas corporales (q.110):** Todas las cosas corporales son regidas por los ángeles (q.110 a.1). Los cuerpos inferiores son movidos por los superiores, y todos los cuerpos están sometidos al poder de las sustancias espirituales. La materia corporal no obedece directamente al arbitrio del ángel en cuanto a recibir nuevas formas sustanciales —eso solo compete a Dios o a agentes corpóreos— pero los ángeles pueden mover los cuerpos localmente (q.110 a.2-3). Los ángeles no pueden hacer milagros en sentido estricto, que es propio solo de Dios (q.110 a.4), pero pueden realizar cosas que admiran a los hombres porque sobrepasan su poder y conocimiento.
+**a.3 — Los ángeles inferiores nunca iluminan a los superiores.** El orden establecido por Dios en las sustancias espirituales nunca es derogado, pues no hay razón para obrar fuera de él como la hay respecto del orden corporal. (SmTh Iª q.106 a.3)
+
+**a.4 — Los superiores comunican a los inferiores todo lo que perciben de Dios.** Sin embargo, los inferiores no lo reciben tan plenamente, como el discípulo entiende menos que el maestro. (SmTh Iª q.106 a.4)
+
+**Iª q.107 — Sobre el lenguaje de los ángeles:**
+
+**a.1 — Hay lenguaje entre los ángeles.** Consiste en que un ángel ordena por su voluntad su concepto mental para que sea conocido por otro. No necesitan voz ni gestos. (SmTh Iª q.107 a.1)
+
+**a.2 — Los ángeles inferiores pueden hablar a los superiores.** Pueden manifestarles lo que depende de su voluntad creada, aunque no iluminarlos (la iluminación procede siempre de lo que se relaciona con la primera verdad). (SmTh Iª q.107 a.2)
+
+**a.3 — Los ángeles hablan a Dios.** No para comunicarle algo (pues todo lo sabe), sino para alabarle, admirarle y consultar la divina voluntad. (SmTh Iª q.107 a.3)
+
+**a.4 — La distancia local no impide el lenguaje angélico.** Es una operación intelectual, independiente del lugar y del tiempo. (SmTh Iª q.107 a.4)
+
+**a.5 — Un ángel puede hablar privadamente a otro sin que lo conozcan los demás.** El concepto se hace perceptible solo para aquel a quien el ángel lo destina voluntariamente. (SmTh Iª q.107 a.5)
+
+**Iª q.110 — Sobre el dominio de los ángeles sobre la criatura corporal:**
+
+**a.1 — Todas las cosas corporales son regidas por los ángeles.** La virtud de cualquier cuerpo es más particular que la virtud de la sustancia espiritual. Así como los ángeles inferiores son regidos por los superiores, todas las cosas corporales son regidas por los ángeles. (SmTh Iª q.110 a.1)
+
+**a.2 — La materia corporal no obedece al arbitrio del ángel.** Solo Dios o los agentes corpóreos pueden hacer que la materia reciba nuevas formas sustanciales. El ángel no es forma del cuerpo natural, sino causa superior que mueve agentes corporales. (SmTh Iª q.110 a.2)
+
+**a.3 — Los cuerpos obedecen a los ángeles en el movimiento local.** Es naturalmente conforme a la naturaleza corporal ser movida localmente por la naturaleza espiritual. (SmTh Iª q.110 a.3)
+
+**a.4 — Solo Dios hace milagros en sentido estricto.** El milagro propiamente dicho se efectúa fuera del orden de toda la naturaleza creada, y solo Dios puede hacerlo. Los ángeles pueden hacer cosas que admiran a los hombres por sobrepasar su poder y conocimiento. (SmTh Iª q.110 a.4)
 
 **Acción sobre los hombres (q.111):** Los ángeles iluminan el entendimiento humano proponiendo las verdades divinas bajo semejanzas sensibles (q.111 a.1). Pueden mover la voluntad humana indirectamente, excitando las pasiones del apetito sensitivo o por persuasión, pero solo Dios la mueve desde dentro (q.111 a.2). Pueden alterar la imaginación excitando los espíritus y humores corporales, produciendo visiones imaginarias como las de los sueños (q.111 a.3). Pueden alterar los sentidos presentando objetos sensibles o conmoviendo interiormente los espíritus y humores (q.111 a.4).
 
-**Misión de los ángeles (q.112):** Algunos ángeles son enviados en ministerio para ejecutar el gobierno divino sobre las criaturas corporales (q.112 a.1). No todos los ángeles son enviados a ministerios exteriores: los de la primera jerarquía (Serafines, Querubines, Tronos) y las Dominaciones nunca son enviados, pues su función es contemplar a Dios y disponer, no ejecutar (q.112 a.2). Los ángeles que sirven también asisten ante Dios en cuanto ven la esencia divina, pero en sentido propio solo asisten (son iluminados inmediatamente por Dios) los de la primera jerarquía (q.112 a.3).
+**Iª q.112 — Sobre la misión de los ángeles:**
+
+**a.1 — Algunos ángeles son enviados en ministerio.** Cuando es necesario que el ángel actúe sobre alguna criatura corporal, aplica su virtud a ese cuerpo por mandato divino y comienza a estar allí. (SmTh Iª q.112 a.1)
+
+**a.2 — No todos los ángeles son enviados a ministerios exteriores.** Según Dionisio, los ángeles superiores (primera jerarquía) nunca son enviados, pues su función es contemplar inmediatamente a Dios. Las Dominaciones tampoco: disponen y ordenan lo que otros deben ejecutar. (SmTh Iª q.112 a.2)
+
+**a.3 — Los enviados también asisten.** Todos los ángeles ven la esencia divina, y en ese sentido todos asisten. Pero en sentido propio, solo asisten los que son iluminados inmediatamente por Dios (primera jerarquía). (SmTh Iª q.112 a.3)
+
+**a.4 — Los cinco órdenes inferiores son enviados.** Principados, Virtudes, Potestades, Arcángeles y Ángeles son enviados en ministerio exterior, pues sus nombres indican ejecución. Las Dominaciones disponen pero no ejecutan. (SmTh Iª q.112 a.4)
 
 **Ángeles custodios (q.113):** Los hombres están custodiados por los ángeles para ser dirigidos y movidos hacia el bien (q.113 a.1). A cada hombre le corresponde un ángel custodio distinto, conforme a la providencia particular de Dios sobre cada alma racional (q.113 a.2). La guarda particular de cada hombre pertenece al ínfimo orden de ángeles (los llamados propiamente Ángeles), mientras que la guarda colectiva de naciones y reinos pertenece a órdenes superiores (q.113 a.3). Todo hombre —justo o pecador, fiel o infiel— tiene un ángel custodio mientras vive en este mundo (q.113 a.4), asignado desde el momento de nacer (q.113 a.5). El ángel custodio nunca abandona totalmente al hombre, aunque permite tribulaciones y pecados según el orden de la divina Providencia (q.113 a.6). No se duele del mal del custodiado porque su voluntad está conforme a la justicia divina (q.113 a.7). Las aparentes discrepancias entre ángeles por la custodia (Dan 10) no son oposición de voluntades sino consulta sobre méritos contrarios (q.113 a.8).
 

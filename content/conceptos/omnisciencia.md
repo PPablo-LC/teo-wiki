@@ -19,7 +19,43 @@ Atributo divino por el cual [[dios]] conoce perfecta, simultánea e infinitament
 
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás trata la ciencia de Dios en SmTh Iª q.14, la cuestión más extensa de la Ia Pars. En Dios hay ciencia (a.1) en sumo grado, pues la inmaterialidad es principio de conocimiento y Dios es inmaterialísimo. Dios se conoce perfectamente a sí mismo (a.2), y su entender es su misma sustancia (a.4): en Dios, inteligencia y ser son idénticos. Dios conoce las cosas distintas de Él (a.5), no por especies recibidas de ellas, sino por su esencia como causa ejemplar de todo. Tiene conocimiento propio y no solo universal de las cosas (a.6). Su ciencia no es discursiva (a.7): ve todas las cosas en un solo acto eterno y simple. La ciencia de Dios es causa de las cosas (a.8): las cosas tienen ser porque Dios las conoce como artífice. Dios conoce también lo inexistente (a.9), el mal (a.10), lo singular (a.11), lo infinito (a.12) y los contingentes futuros (a.13), pues su ciencia eterna abarca todo sin perder la contingencia de lo conocido. Conoce los enunciables (a.14), su ciencia es inmutable (a.15) y es a la vez especulativa y práctica (a.16). Complementa esta doctrina SmTh Iª q.15 sobre las ideas divinas como ejemplares de todas las cosas.
+Santo Tomás dedica la cuestión 14 de la Ia Pars a la ciencia divina, la cuestión más extensa de la Ia Pars, con dieciséis artículos.
+
+**Iª q.14 — Sobre la ciencia de Dios:**
+
+a.1 — En Dios hay ciencia en sumo grado: la inmaterialidad es principio de conocimiento, y Dios es inmaterialísimo.
+
+a.2 — Dios se conoce a sí mismo por sí mismo: en Él, entendimiento y lo entendido son lo mismo, pues es acto puro.
+
+a.3 — Dios se comprehende a sí mismo perfectamente: se conoce tan perfectamente como puede ser conocido.
+
+a.4 — El entender de Dios es su misma sustancia: en Dios, inteligencia, esencia y ser son idénticos.
+
+a.5 — Dios conoce las cosas distintas de Él, no por especies recibidas de ellas, sino por su esencia como causa ejemplar.
+
+a.6 — Dios conoce lo distinto a Él con conocimiento propio y no solo universal: conoce cada cosa en su distinción.
+
+a.7 — La ciencia de Dios no es discursiva: ve todas las cosas en un solo acto eterno y simple.
+
+a.8 — La ciencia de Dios es causa de las cosas: las cosas tienen ser porque Dios las conoce, unida a la voluntad.
+
+a.9 — Dios conoce lo inexistente: lo que fue, es o será (ciencia de visión); lo que nunca será (ciencia de simple inteligencia).
+
+a.10 — Dios conoce el mal, no por sí mismo sino por el bien al que se opone, como las tinieblas se conocen por la luz.
+
+a.11 — Dios conoce lo singular, pues su causalidad y su ciencia alcanzan tanto la forma como la materia individual.
+
+a.12 — Dios conoce lo infinito, tanto lo actual como lo potencial (pensamientos, corazones, que se multiplican sin fin).
+
+a.13 — Dios conoce los contingentes futuros: su ciencia eterna ve todo como presente, sin destruir la contingencia.
+
+a.14 — Dios conoce los enunciables (proposiciones), pues conoce todo lo complejo con un acto simple.
+
+a.15 — La ciencia de Dios es inmutable, porque su sustancia y su conocimiento son inmutables.
+
+a.16 — La ciencia de Dios es a la vez especulativa (en cuanto a Sí mismo) y práctica (en cuanto causa de las criaturas).
+
+### Según el Catecismo (CEC)
 
 El CEC §200-202 afirma que «Dios es la Verdad» y su conocimiento es infinito e inefable. Dios lo conoce todo, incluso lo más oculto (§268). Su [[sabiduría]] no tiene límites (§216). El conocimiento divino es intuitivo, no discursivo: Dios ve todas las cosas en un solo acto eterno.
 

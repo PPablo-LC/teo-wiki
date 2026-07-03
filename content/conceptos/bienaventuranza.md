@@ -32,7 +32,15 @@ Dios nos ha puesto en el mundo para conocerle, servirle y amarle, y así ir al C
 Las bienaventuranzas del sermón de la montaña (*Mt 5,3-12; Lc 6,20-26*) ofrecen el programa de la felicidad cristiana. Jesús no es un sabio que enseña la bienaventuranza, sino que la encarna: él mismo es el reino presente, el cumplimiento de las promesas. Dichosos los pobres, los que lloran, los perseguidos — inversión radical de los valores del mundo. En el AT, la bienaventuranza se identificaba con los bienes terrenos y la larga vida; Jesús la sitúa en el reino de los cielos, ya inaugurado en su persona. El Apocalipsis proclama bienaventurados a los que velan, a los invitados a las nupcias del Cordero y a los que mueren en el Señor (*Ap 14,13; 19,9; 22,7*) [VocTeoBib, «Bienaventuranza»].
 ### Según la Summa Theologiae (SmTh)
 
-**Bienaventuranza divina (Iª q.26):** Santo Tomás trata la bienaventuranza divina en SmTh Iª q.26. La bienaventuranza se atribuye propiamente a Dios (a.1): la bienaventuranza es el bien perfecto de la naturaleza intelectual, y Dios es el supremo Bien intelectual. Dios es bienaventurado no por adquisición sino por esencia (a.2): su bienaventuranza consiste en el perfecto gozo de sí mismo, en la intelección de su propia esencia. La bienaventuranza de Dios es única (a.3), pues su entendimiento y su esencia son uno; sin embargo, en cuanto a los diferentes aspectos de su perfección, se dice que Dios es bienaventurado de diversos modos. Ninguna criatura puede ser bienaventurada sino por participación de la bienaventuranza divina, que consiste en la visión de Dios. La bienaventuranza de Dios es eterna, inmutable e infinita.
+**Iª q.26 — Sobre la bienaventuranza de Dios (4 artículos):**
+
+a.1 — La bienaventuranza se atribuye propiamente a Dios: la bienaventuranza es el bien perfecto de la naturaleza intelectual, y Dios es el supremo Bien intelectual.
+
+a.2 — Dios es bienaventurado no por adquisición sino por esencia: su bienaventuranza consiste en el acto del entendimiento —conocerse a sí mismo—, no en un acto de la voluntad, pues el bien se apetece en cuanto conocido.
+
+a.3 — Dios es propiamente la bienaventuranza de todo bienaventurado: la bienaventuranza creada consiste en la participación de la bienaventuranza divina, que es la visión de Dios.
+
+a.4 — En la bienaventuranza divina se incluye toda bienaventuranza: toda bienaventuranza creada es participación de la bienaventuranza increada, que es el mismo Dios.
 
 **Bienaventuranza de los ángeles (Iª q.62):** Santo Tomás aplica la doctrina de la bienaventuranza a los ángeles en Iª q.62. Distingue una doble bienaventuranza en el ángel: la natural (alcanzable con sus solas fuerzas, poseída desde la creación) y la sobrenatural (que excede la capacidad de todo entendimiento creado, q.12 a.4). Los ángeles necesitaron la [[gracia_santificante]] para ordenar su voluntad a la bienaventuranza sobrenatural (q.62 a.2). Fueron creados en gracia, merecieron la bienaventuranza con un solo acto de amor, y la alcanzaron inmediatamente (q.62 a.3-5). Recibieron la gracia y la gloria conforme a su perfección natural (q.62 a.6). Los ángeles bienaventurados no pueden pecar ni progresar en la bienaventuranza esencial, aunque puede crecer el premio accidental (q.62 a.8-9). Véase [[perfección_angélica_en_gracia_y_gloria]].
 

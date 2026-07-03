@@ -35,7 +35,25 @@ La verdad cristiana no es abstracta sino personal: Jesucristo mismo. La fe es ad
 
 ### Según la Summa Theologiae (SmTh)
 
-Santo Tomás trata la verdad en SmTh Iª q.16. La verdad está primariamente en el entendimiento (a.1), como adecuación entre el entendimiento y la cosa (*adaequatio rei et intellectus*); secundariamente está en las cosas, en cuanto se conforman al entendimiento divino. Propiamente, la verdad está en el entendimiento que compone y divide (a.2), no en los sentidos ni en la aprehensión de esencias simples. Lo verdadero y el ser se identifican realmente (a.3): la verdad es un trascendental convertible con el ser, añadiendo solo la relación al entendimiento. Lo verdadero es conceptualmente anterior al bien (a.4), pues el conocimiento precede al apetito. Dios es la verdad misma (a.5): su ser se conforma perfectamente con su entender, y Él es medida y causa de toda verdad creada. Hay una sola verdad divina y muchas verdades creadas (a.6), como muchas imágenes de un mismo rostro en diversos espejos. La verdad creada no es eterna (a.7): solo la verdad del entendimiento divino es eterna (que es el mismo Dios). La verdad del entendimiento divino es inmutable (a.8), pero la verdad de nuestro entendimiento es mudable.
+Santo Tomás dedica la cuestión 16 de la Ia Pars a la verdad, con ocho artículos.
+
+**Iª q.16 — Sobre la verdad:**
+
+a.1 — La verdad está primariamente en el entendimiento, como adecuación entre el entendimiento y la cosa (*adaequatio rei et intellectus*); secundariamente está en las cosas, en cuanto se conforman al entendimiento divino.
+
+a.2 — Propiamente, la verdad está en el entendimiento que compone y divide; no en los sentidos ni en la aprehensión de esencias simples.
+
+a.3 — Lo verdadero y el ser se identifican realmente: la verdad es un trascendental convertible con el ser, añadiendo solo la relación al entendimiento.
+
+a.4 — Lo verdadero es conceptualmente anterior al bien, pues el conocimiento precede al apetito.
+
+a.5 — Dios es la verdad misma: su ser se conforma perfectamente con su entender, y Él es medida y causa de toda verdad creada.
+
+a.6 — Hay una sola verdad divina y muchas verdades creadas, como muchas imágenes de un mismo rostro en diversos espejos.
+
+a.7 — La verdad creada no es eterna: solo la verdad del entendimiento divino (que es el mismo Dios) es eterna.
+
+a.8 — La verdad del entendimiento divino es inmutable; la verdad de nuestro entendimiento es mudable.
 
 ### Según la *Fides et Ratio* (FR)
 
