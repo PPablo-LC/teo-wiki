@@ -43,11 +43,11 @@ La acción del Estado debe conformarse al principio de subsidiaridad, creando si
 
 ## Relaciones doctrinales
 
-Se relaciona con [[moral_económica]], [[mercado]], [[capitalismo]], [[bien_común]], [[subsidiaridad]], [[solidaridad]], [[propiedad_privada]], [[estado_y_economía]]
+Se relaciona con [[moral_económica]], [[mercado]], [[capitalismo]], [[bien_común]], [[subsidiariedad]], [[solidaridad]], [[propiedad_privada]], [[estado_y_economía]]
 
 ## Ver también
 
-[[moral_económica]], [[mercado]], [[bien_común]], [[subsidiaridad]]
+[[moral_económica]], [[mercado]], [[bien_común]], [[subsidiariedad]]
 
 ## Referencias
 

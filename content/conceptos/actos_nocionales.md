@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Actos nocionales
 tags: ["dogmática_(trinidad)"]
 
-timestamp: 2026-06-03
+timestamp: 2026-07-01
 description: "Los actos nocionales son las acciones divinas que designan el origen de las personas."
 ---
 # Actos nocionales
 
 > Área: Dogmática (Trinidad)
-> Última actualización: 2026-06-03
+> Última actualización: 2026-07-01
 
 ## Definición
 

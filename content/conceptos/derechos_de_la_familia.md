@@ -50,11 +50,11 @@ Los Padres Sinodales han recordado, entre otros, los siguientes derechos de la f
 
 ## Relaciones doctrinales
 
-Se relaciona con [[familia]], [[matrimonio]], [[subsidiaridad]], [[bien_común]], [[educación]], [[dignidad_humana]], [[trabajo]], [[iglesia_doméstica]]
+Se relaciona con [[familia]], [[matrimonio]], [[subsidiariedad]], [[bien_común]], [[educación]], [[dignidad_humana]], [[trabajo]], [[iglesia_doméstica]]
 
 ## Ver también
 
-[[familia]], [[matrimonio]], [[subsidiaridad]], [[educación]], [[familiaris_consortio]]
+[[familia]], [[matrimonio]], [[subsidiariedad]], [[educación]], [[familiaris_consortio]]
 
 ## Referencias
 

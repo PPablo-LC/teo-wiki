@@ -13,7 +13,7 @@ description: "Servicio eclesial instituido por Cristo para la edificación del C
 
 ## Definición
 
-Servicio eclesial instituido por Cristo para la edificación del [[cuerpo_místico_de_cristo]]. El término proviene del latín *ministerium* (servicio) y designa toda función ordenada al bien de la Iglesia. Se distingue entre el **ministerio apostólico** (o sagrado), recibido por el sacramento del Orden (obispos, presbíteros, diáconos), y los **ministerios instituidos** (lector, acólito), confiados también a laicos.
+Servicio eclesial instituido por Cristo para la edificación del [[cuerpo_místico]]. El término proviene del latín *ministerium* (servicio) y designa toda función ordenada al bien de la Iglesia. Se distingue entre el **ministerio apostólico** (o sagrado), recibido por el sacramento del Orden (obispos, presbíteros, diáconos), y los **ministerios instituidos** (lector, acólito), confiados también a laicos.
 
 ## Desarrollo doctrinal
 

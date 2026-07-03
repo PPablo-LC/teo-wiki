@@ -42,11 +42,11 @@ La memoria de la Iglesia «es más fuerte que todas las divisiones introducidas 
 
 ## Relaciones doctrinales
 
-La memoria maternal de la Iglesia se relaciona con [[tradición]], [[maría]], [[eucaristía]], [[historia_de_la_salvación]], [[dimensión_vertical_de_la_historia]], [[pueblo_de_dios]] y [[memoria_e_identidad]].
+La memoria maternal de la Iglesia se relaciona con [[tradición]], [[virgen_maría]], [[eucaristía]], [[historia_de_la_salvación]], [[dimensión_vertical_de_la_historia]], [[pueblo_de_dios]] y [[memoria_e_identidad]].
 
 ## Ver también
 
-[[tradición]], [[maría]], [[eucaristía]], [[historia_de_la_salvación]]
+[[tradición]], [[virgen_maría]], [[eucaristía]], [[historia_de_la_salvación]]
 
 ## Referencias
 

@@ -40,7 +40,7 @@ Se relaciona con [[alianza]], [[pueblo]], [[elección]], [[iglesia]], [[judío]]
 
 ## Ver también
 
-[[judío]], [[hebreo]], [[jerusalén]], [[apóstoles]], [[doce_tribus]], [[reino]]
+[[judío]], [[hebreo]], [[jerusalén]], [[apóstoles]], [[doce_tribus]], [[reino_de_dios]]
 
 ## Referencias
 

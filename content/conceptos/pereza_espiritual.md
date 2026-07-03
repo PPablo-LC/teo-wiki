@@ -39,11 +39,11 @@ La pereza espiritual o acidia es un pecado capital del cual nacen otros vicios: 
 
 ## Relaciones doctrinales
 
-Se relaciona con [[acidia]], [[tibieza]], [[desaliento]], [[tristeza]], [[negligencia_espiritual]], [[lucha_espiritual]], [[oración]], [[fervor]], [[falta_de_fervor]].
+Se relaciona con [[acedia]], [[tibieza]], [[desaliento]], [[tristeza]], [[negligencia_espiritual]], [[lucha_espiritual]], [[oración]], [[fervor]], [[falta_de_fervor]].
 
 ## Ver también
 
-[[acidia]], [[tibieza]], [[desaliento]], [[lucha_espiritual]]
+[[acedia]], [[tibieza]], [[desaliento]], [[lucha_espiritual]]
 
 ## Referencias
 

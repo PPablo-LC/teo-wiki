@@ -37,11 +37,11 @@ En el hombre, el VocTeoBib señala que el brazo de carne es impotente comparado 
 
 ## Relaciones doctrinales
 
-El brazo de Dios se vincula con el [[poder_de_dios]], la [[creación]], el [[éxodo]], la [[salvación]], la [[providencia]]. La mano del hombre se relaciona con la [[oración]], la [[bendición]], la [[imposición_de_manos]] y los [[sacramentos]].
+El brazo de Dios se vincula con el [[poder]], la [[creación]], el [[éxodo]], la [[salvación]], la [[providencia]]. La mano del hombre se relaciona con la [[oración]], la [[bendición]], la [[imposición_de_manos]] y los [[sacramentos]].
 
 ## Ver también
 
-[[poder_de_dios]], [[creación]], [[éxodo]], [[salvación]], [[imposición_de_manos]], [[oración]], [[providencia_divina]]
+[[poder]], [[creación]], [[éxodo]], [[salvación]], [[imposición_de_manos]], [[oración]], [[providencia_divina]]
 
 ## Referencias
 

@@ -37,11 +37,11 @@ El concilio anatematizó las herejías cristológicas (D-710): Ebión, Cerinto, 
 
 ## Relaciones doctrinales
 
-[[jesucristo]], [[unión_hipostática]], [[maría]], [[redención]], [[concilio_de_calcedonia]], [[concilio_de_vienne]]
+[[jesucristo]], [[unión_hipostática]], [[virgen_maría]], [[redención]], [[concilio_de_calcedonia]], [[concilio_de_vienne]]
 
 ## Ver también
 
-[[jesucristo]], [[unión_hipostática]], [[maría]], [[redención]]
+[[jesucristo]], [[unión_hipostática]], [[virgen_maría]], [[redención]]
 
 ## Referencias
 

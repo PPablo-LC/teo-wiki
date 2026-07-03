@@ -37,11 +37,11 @@ El primer milagro de Jesús puede leerse como una «señal» del Reino, sobre to
 
 ## Relaciones doctrinales
 
-Se relaciona con [[milagros_signos_de_salvación]], [[reino_de_dios]], [[matrimonio]], [[maría]], [[intercesión_de_maría]], [[fe_en_cristo]].
+Se relaciona con [[milagros_signos_de_salvación]], [[reino_de_dios]], [[matrimonio]], [[virgen_maría]], [[intercesión_de_maría]], [[fe_en_cristo]].
 
 ## Ver también
 
-[[milagros_signos_de_salvación]], [[reino_de_dios]], [[maría]], [[intercesión_de_maría]]
+[[milagros_signos_de_salvación]], [[reino_de_dios]], [[virgen_maría]], [[intercesión_de_maría]]
 
 ## Referencias
 

@@ -3,7 +3,7 @@ type: Concepto Teológico
 title: Conocimiento angélico
 tags: ["dogmática_(angelología)"]
 
-timestamp: 2026-06-03
+timestamp: 2026-07-01
 description: "El conocimiento angélico es la operación intelectual propia de los ángeles, caracterizada por ser puramente intelectiva (sin mediación sensitiva)."
 ---
 # Conocimiento angélico

@@ -36,7 +36,7 @@ En el NT, Jerusalén es el lugar de la repulsa a Jesús —Marcos, Mateo, Juan y
 
 ## Relaciones doctrinales
 
-Se relaciona con [[templo]], [[sión]], [[iglesia]], [[david]], [[pueblo]], [[reino]], [[esposa]].
+Se relaciona con [[templo]], [[sión]], [[iglesia]], [[david]], [[pueblo]], [[reino_de_dios]], [[esposa]].
 
 ## Ver también
 

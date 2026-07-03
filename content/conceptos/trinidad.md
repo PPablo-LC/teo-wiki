@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Trinidad
 tags: ["dogmática"]
 
-timestamp: 2026-06-21
+timestamp: 2026-07-01
 description: "Misterio central de la fe cristiana: un solo Dios en tres Personas distintas —Padre, Hijo y Espíritu Santo—, consubstanciales e indivisibles."
 ---
 # Trinidad
 
 > Área: Dogmática
-> Última actualización: 2026-06-26
+> Última actualización: 2026-07-01
 
 ## Definición
 Misterio central de la fe cristiana: un solo Dios en tres Personas distintas —Padre, Hijo y Espíritu Santo—, consubstanciales e indivisibles. Es el misterio de Dios en sí mismo, fuente de todos los otros misterios de la fe.
@@ -32,7 +32,7 @@ Santo Tomás trata la pluralidad de personas divinas en SmTh Iª q.30. Hay varia
 
 **Relación personas-esencia (q.39):** En Dios esencia y persona son realmente lo mismo (a.1), pues la relación en Dios es subsistente y se identifica con la esencia; solo hay distinción de razón. Las tres personas son de una esencia (a.2), lo que expresa el *homousion* niceno. Los nombres esenciales se atribuyen a las tres personas en singular (a.3) si son sustantivos (un solo Dios), y en plural si son adjetivos (tres sabios). Los nombres esenciales concretos pueden sustituir al de persona (a.4), como cuando se dice «Dios engendró a Dios». Los nombres esenciales abstractos no pueden (a.5): «la esencia engendra la esencia» es falso, pues el modo de significar no permite predicar lo personal de la esencia abstracta. La apropiación (a.7) atribuye atributos esenciales a las personas para manifestarlas: el poder al Padre, la sabiduría al Hijo, la bondad al Espíritu Santo.
 
-**Igualdad y semejanza (q.42):** Hay igualdad entre las personas divinas (a.1), pues la cantidad en Dios es la perfección de la naturaleza (cantidad virtual), idéntica en las tres. La persona que procede es coeterna con su principio (a.2): el Padre engendra al Hijo no por voluntad ni por necesidad natural sucesiva, sino por naturaleza eterna y perfecta. Hay orden de naturaleza según el origen (a.3) sin prioridad temporal: el Hijo procede del Padre. El Hijo es igual al Padre en grandeza (a.4) y en poder (a.6), pues toda la perfección de la naturaleza divina está en cualquiera de las personas.
+**Igualdad y semejanza (q.42):** Hay igualdad entre las personas divinas (a.1), pues la cantidad en Dios es la perfección de la naturaleza (cantidad virtual), idéntica en las tres. La persona que procede es coeterna con su principio (a.2): el Padre engendra al Hijo no por voluntad ni por necesidad natural sucesiva, sino por naturaleza eterna y perfecta. Hay orden de naturaleza según el origen (a.3) sin prioridad temporal: el Hijo procede del Padre. El Hijo es igual al Padre en grandeza (a.4) y en poder (a.6), pues toda la perfección de la naturaleza divina está en cualquiera de las personas. El Hijo está en el Padre y el Padre en el Hijo (a.5, circumincesión): según la esencia (el Padre comunica su esencia al Hijo), según la relación (un término relativo está en el concepto del otro) y según el origen (la procesión de la Palabra permanece en quien la pronuncia).
 
 ### Según Royo Marín (TPCr)
 El Capítulo 2 de la Primera Parte está dedicado a la Santísima Trinidad. La inhabitación de la Trinidad en el alma del justo es una de las verdades más claramente reveladas. Las tres Personas habitan en el alma en gracia como en un templo. La vida cristiana consiste en intensificar la vida trinitaria hasta la unión transformante. Los místicos experimentales —Santa Teresa, San Juan de la Cruz, Sor Isabel de la Trinidad— describen experiencias trinitarias inefables, «a manera de pregusto y anticipo de la bienaventuranza eterna».

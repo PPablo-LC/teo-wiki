@@ -49,11 +49,11 @@ Cann. 204–205: Definen a los fieles cristianos como quienes, incorporados a Cr
 
 ## Relaciones doctrinales
 
-Se fundamenta en la [[alianza]] y la [[elección_de_israel]]. Se relaciona con el [[cuerpo_místico_de_cristo]] (LG es Pueblo de Dios y Cuerpo de Cristo), el [[sacerdocio_común]], la [[catolicidad]] y la [[misión_de_la_iglesia]]. Se opone a toda eclesiología que reduzca la Iglesia a mera institución jerárquica o a comunidad puramente carismática sin estructura.
+Se fundamenta en la [[alianza]] y la [[elección_de_israel]]. Se relaciona con el [[cuerpo_místico]] (LG es Pueblo de Dios y Cuerpo de Cristo), el [[sacerdocio_común]], la [[catolicidad]] y la [[misión_de_la_iglesia]]. Se opone a toda eclesiología que reduzca la Iglesia a mera institución jerárquica o a comunidad puramente carismática sin estructura.
 
 ## Ver también
 
-[[pueblo_elegido]], [[cuerpo_místico_de_cristo]], [[lumen_gentium]], [[concilio_vaticano_ii]], [[sacerdocio_común]], [[catolicidad]], [[misión_de_la_iglesia]]
+[[pueblo_elegido]], [[cuerpo_místico]], [[lumen_gentium]], [[concilio_vaticano_ii]], [[sacerdocio_común]], [[catolicidad]], [[misión_de_la_iglesia]]
 
 ## Referencias
 

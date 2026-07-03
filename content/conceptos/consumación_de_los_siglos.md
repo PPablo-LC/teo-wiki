@@ -53,7 +53,7 @@ La consumación de los siglos será precedida por [[signos_del_juicio]], aunque 
 
 ## Relaciones doctrinales
 
-[[escatología]], [[parusía]], [[segunda_venida]], [[juicio_final]], [[resurrección_de_la_carne]], [[cielos_nuevos_y_tierra_nueva]], [[reino_de_dios]], [[novísimos]], [[muerte]], [[infierno]], [[cielo]], [[antecristo]]
+[[escatología]], [[parusía]], [[segunda_venida]], [[juicio_final]], [[resurrección_de_la_carne]], [[cielos_nuevos_y_tierra_nueva]], [[reino_de_dios]], [[novísimos]], [[muerte]], [[infierno]], [[cielo]], [[anticristo]]
 
 ## Referencias
 

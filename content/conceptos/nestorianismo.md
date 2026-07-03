@@ -33,7 +33,7 @@ El nestorianismo se opone a la [[unión_hipostática]] y a la [[comunicación_de
 
 ## Ver también
 
-[[unión_hipostática]], [[comunicación_de_idiomas]], [[jesucristo]], [[cristología]], [[concilio_de_éfeso]], [[maría]], [[herejía]]
+[[unión_hipostática]], [[comunicación_de_idiomas]], [[jesucristo]], [[cristología]], [[concilio_de_éfeso]], [[virgen_maría]], [[herejía]]
 
 ## Referencias
 

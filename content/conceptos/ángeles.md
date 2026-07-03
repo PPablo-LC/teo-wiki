@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Ángeles
 tags: ["dogmática"]
 
-timestamp: 2026-06-12
+timestamp: 2026-07-01
 description: "Los ángeles son criaturas puramente espirituales, dotadas de inteligencia y voluntad, creadas por Dios para ser servidores y mensajeros suyos."
 ---
 # Ángeles
 
 > Área: Dogmática
-> Última actualización: 2026-06-12
+> Última actualización: 2026-07-01
 
 ## Definición
 

@@ -38,7 +38,7 @@ El Concilio Vaticano II proclamó la llamada universal a la santidad: «Todos lo
 
 ## Relaciones doctrinales
 
-Se relaciona con [[tibieza]], [[fervor]], [[llamada_universal_a_la_santidad]], [[perfección_cristiana]], [[acidia]], [[pereza_espiritual]], [[negligencia]], [[conversión]].
+Se relaciona con [[tibieza]], [[fervor]], [[llamada_universal_a_la_santidad]], [[perfección_cristiana]], [[acedia]], [[pereza_espiritual]], [[negligencia]], [[conversión]].
 
 ## Ver también
 

@@ -36,11 +36,11 @@ Jesús cura a los leprosos (Mt 8,1-4; Lc 17,11-19), triunfando de la llaga por e
 
 ## Relaciones doctrinales
 
-Se relaciona con [[enfermedad]], [[pureza]], [[pecado]], [[milagro]], [[reino]], [[siervo_de_yahveh]], [[expiación]].
+Se relaciona con [[enfermedad]], [[pureza]], [[pecado]], [[milagro]], [[reino_de_dios]], [[siervo_de_yahvé]], [[expiación]].
 
 ## Ver también
 
-[[pureza]], [[enfermedad]], [[milagro_de_jesús]], [[siervo_de_yahveh]], [[impureza]]
+[[pureza]], [[enfermedad]], [[milagro_de_jesús]], [[siervo_de_yahvé]], [[impureza]]
 
 ## Referencias
 

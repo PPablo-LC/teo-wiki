@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Creación
 tags: ["dogmática"]
 
-timestamp: 2026-06-20
+timestamp: 2026-07-01
 description: "La creación es la obra por la cual Dios, en su libérrima voluntad, saca de la nada todo lo que existe (cielo y tierra, lo visible y lo invisible) por su Palabra y su Espíritu."
 ---
 # Creación
 
 > Área: Dogmática
-> Última actualización: 2026-06-26
+> Última actualización: 2026-07-01
 
 ## Definición
 
@@ -39,13 +39,15 @@ La creación en el AT se expresa en dos relatos complementarios. El más antiguo
 
 ### Según la Summa Theologiae (SmTh)
 
-Tomás trata la creación en la Ia Pars, cuestiones 44-47. Dios es la primera causa de todos los seres: causa eficiente (Iª q.44 a.1), causa ejemplar (Iª q.44 a.3) y causa final (Iª q.44 a.4) de todo lo que existe. La materia prima misma es creada por Dios (Iª q.44 a.2).
+Tomás trata la creación en la Ia Pars, cuestiones 44-47.
 
-La creación es la emanación de todo el ser del primer principio, que se hace «de la nada» (*ex nihilo*), sin presuponer materia alguna (Iª q.45 a.1). Crear es propio solo de Dios, pues requiere poder infinito (Iª q.45 a.5). La creación no es un cambio ni movimiento, sino la relación real de la criatura con Dios como principio de su ser (Iª q.45 a.2-3). Las tres Personas divinas obran la creación comúnmente, aunque con apropiaciones: al Padre se atribuye el poder creador, al Hijo la sabiduría por la que todo es hecho, y al Espíritu Santo la bondad que ordena y vivifica (Iª q.45 a.6-7).
+**Dios como primera causa (q.44):** Todo ser que existe por participación es causado por Dios, que es el Ser por esencia (a.1). La materia prima misma es creada por Dios (a.2): la causa universal del ser produce también la materia, no solo la forma. Dios es la causa ejemplar de todas las cosas (a.3): las ideas o formas ejemplares están en la mente divina, identificadas realmente con su esencia pero múltiples según su relación con las criaturas. Dios es también la causa final de todo (a.4): toda criatura tiende a asemejarse a la bondad divina, que es el fin último del universo.
 
-El mundo no existe desde la eternidad, sino que comenzó por libre voluntad de Dios; esto no puede demostrarse por razón, sino que se conoce por la fe (Iª q.46 a.1-2). La creación fue al principio del tiempo (Iª q.46 a.3).
+**La creación (q.45):** Crear es hacer algo de la nada (*ex nihilo*), emanación de todo el ser del primer principio sin presuponer materia (a.1). Dios puede crear (a.2): la creación no es un cambio ni movimiento, sino la relación real de la criatura con el Creador como principio de su ser. La creación en la criatura no es más que esa relación real (a.3). Ser creado corresponde propiamente a los seres subsistentes (a.4), no a las formas o accidentes, que son «concreados» más que creados. Crear es propio solo de Dios (a.5), pues requiere poder infinito y no puede comunicarse a criatura alguna, ni siquiera instrumentalmente. Las tres Personas obran la creación comúnmente (a.6), pero con apropiaciones: al Padre el poder (creación de la sustancia), al Hijo la sabiduría (por quien todo es hecho), al Espíritu Santo la bondad (que ordena y vivifica). En toda criatura hay un vestigio de la Trinidad (a.7): la criatura subsiste (vestigio del Padre), tiene forma determinada (vestigio del Hijo) y está ordenada (vestigio del Espíritu Santo). La creación no se mezcla con las obras de naturaleza y voluntad (a.8): el agente natural presupone la materia ya creada; el compuesto es producido por la naturaleza, pero los principios son creados.
 
-La diversidad y multitud de las criaturas proviene de la intención divina: la bondad de Dios, que es una y simple en Él, no podía ser representada por una sola criatura, por lo que produjo muchas y diversas (Iª q.47 a.1). La desigualdad entre las criaturas es querida por Dios para la perfección del universo, ordenándose en grados escalonados (Iª q.47 a.2). Existe un solo mundo, no muchos, pues todas las criaturas están ordenadas entre sí y a Dios (Iª q.47 a.3).
+**Principio de duración del mundo (q.46):** El mundo no existe desde la eternidad (a.1), sino que comenzó por libre voluntad de Dios; no es necesario que Dios quiera algo fuera de sí, y la creación no procede de necesidad. Que el mundo comenzó es artículo de fe, no demostrable por razón (a.2), pues la novedad del mundo no puede probarse a partir del mismo mundo ni de la causa agente voluntaria. La creación fue al principio del tiempo (a.3): simultáneamente con el tiempo fueron creados el cielo, la tierra, el tiempo y la naturaleza angélica.
+
+**Diversidad y desigualdad de las criaturas (q.47):** La multitud y diversidad de las criaturas proviene de la intención divina (a.1): la bondad de Dios, que es una y simple en Él, no podía ser representada por una sola criatura, por lo que produjo muchas y diversas para que lo que faltase a cada una fuese suplido por las otras. La desigualdad entre las criaturas también proviene de Dios (a.2): las formas se ordenan escalonadamente (minerales, plantas, animales, hombres, ángeles) como los números, y el universo no sería perfecto si solo hubiese un grado de bondad; refutación de la teoría de Orígenes (desigualdad por pecado previo). Existe un solo mundo, no muchos (a.3): todas las criaturas están ordenadas entre sí y a Dios, formando un solo universo armónico.
 
 **Creación de los ángeles (q.61):** Los ángeles, como todo lo que no es Dios, fueron creados por Él (Iª q.61 a.1): sólo Dios es ser por esencia; los ángeles son seres por participación. No existen desde la eternidad, pues Dios los produjo por su voluntad, no por necesidad, y los hizo «a partir de la nada» (q.61 a.2). Lo más probable es que fueran creados a la vez que las criaturas corporales, pues los ángeles solos no constituyen un universo, sino que con las criaturas corpóreas forman un solo universo ordenado (q.61 a.3). Fueron creados en el cielo empíreo para dar a entender el orden que tienen con la naturaleza corporal (q.61 a.4).
 

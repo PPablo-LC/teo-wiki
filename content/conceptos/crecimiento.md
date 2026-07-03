@@ -35,7 +35,7 @@ En el NT, Jesucristo lleva el influjo creciente de Yahveh a su cumplimiento. «C
 
 ## Relaciones doctrinales
 
-[[plenitud]] — [[reino]] — [[fe]] — [[gracia]] — [[edificar]] — [[siega]] — [[cumplir]]
+[[plenitud]] — [[reino_de_dios]] — [[fe]] — [[gracia]] — [[edificar]] — [[siega]] — [[cumplir]]
 
 ## Ver también
 

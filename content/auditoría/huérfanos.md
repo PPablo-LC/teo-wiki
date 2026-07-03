@@ -1,15 +1,18 @@
 ---
 type: Concepto Teológico
 title: Auditoría de wikilinks huérfanos
-timestamp: 2026-06-19
-description: "Búsqueda realizada en `wiki/` (todos los subdirectorios). Se extrajeron todos los wikilinks `[[nombre]]` (tanto simples como con pipe `[[nombre|texto]]`, extrayendo siempre el nombre base)."
+timestamp: 2026-07-01
+description: "Registro de wikilinks sin artículo propio en el wiki, con detección mejorada que normaliza acentos e incluye #section. Última actualización con 812 huérfanos categorizados."
 ---
 # Auditoría de wikilinks huérfanos
 
 > Generado: 2026-06-19 19:25
-> Última actualización: 2026-06-19
+> Última actualización: 2026-07-02 (sesión 3)
 > Total de wikilinks huérfanos originales: 588 (con ≥1 referencias)
-> Artículos creados en esta sesión: 24 (alta/media) + 36 (4+3+2 refs, 2026-06-28)
+> Artículos creados en esta sesión: 24 (alta/media) + 36 (4+3+2 refs, 2026-06-28) + 15 (conceptos con 3+ refs, 2026-07-02)
+> Nuevos huérfanos detectados (2026-07-01, detección mejorada): 812 únicos clasificados (ver abajo)
+> Falsos positivos corregidos en esta sesión: [[subsidiaridad]]→[[subsidiariedad]], [[siervo_de_yahveh]]→[[siervo_de_yahvé]], [[acidia]]→[[acedia]], [[maría]]→[[virgen_maría]], [[poder_de_dios]]→[[poder]], [[reino]]→[[reino_de_dios]], [[cuerpo_místico_de_cristo]]→[[cuerpo_místico]] (49 referencias total)
+> Artículos creados en esta sesión: [[humildad_de_cristo]], [[sacrificio_de_cristo]], [[acción_de_gracias]], [[satisfacción_de_cristo]], [[sangre_de_cristo]] (5 artículos, 6 dogmática con ≥4 refs)
 
 ## Metodología
 
@@ -616,6 +619,235 @@ vs guion bajo, o sinónimo reconocido).
 | 587 | `[[última_cena]]` | 2 | baja | |
 | 588 | `[[^]]` | 1 | baja | |
 
+## Nuevos huérfanos detectados (2026-07-01) — detección mejorada
+
+Nueva exploración con normalización de acentos (NFD), manejo de `[[link#section]]`,
+y cobertura completa de todos los subdirectorios de `wiki/`. Se detectaron **812
+wikilinks huérfanos únicos** (≥1 referencia), clasificados por categoría temática
+con su conteo de referencias. Esta detección reemplaza y subsume la anterior
+(588 originales + 24 + 36 creados).
+
+### Clasificación por categoría
+
+> Formato: `[[wikilink]]` (N referencias) — listados por referencia descendente.
+
+### Dogmática (52)
+
+```
+[[humildad_de_cristo]] (6)
+[[sacrificio_de_cristo]] (5)
+[[cuerpo_mistico_de_cristo]] (5)
+[[accion_de_gracias]] (4)
+[[satisfaccion_de_cristo]] (4)
+[[sangre_de_cristo]] (4)
+[[antecristo]] (3)
+[[victoria_de_cristo]] (3)
+[[gracia_capital]] (2)
+[[pena_del_pecado]] (2)
+[[defectos_asumidos_por_cristo]] (2)
+[[gloria_de_cristo]] (2)
+[[mesianismo_de_cristo]] (2)
+[[gracia_de_cristo]] (2)
+[[liberacion_del_pecado]] (2)
+[[esclavitud_del_pecado]] (2)
+[[gracia_preveniente]] (2)
+[[meritos_de_cristo]] (2)
+[[capitulo_general_2020_legionarios_de_cristo]] (2)
+[[pecado_de_lengua]] (1)
+[[tentacion_de_cristo]] (1)
+[[gracia_cristica]] (1)
+[[cristologia_joanica]] (1)
+[[pecado_de_pensamiento]] (1)
+[[sentido_del_pecado]] (1)
+[[concilios_cristologicos]] (1)
+[[union_con_cristo]] (1)
+[[bautismo_de_cristo]] (1)
+[[dolor_del_pecado]] (1)
+[[genealogia_de_cristo]] (1)
+[[autoridad_de_cristo]] (1)
+[[trascendencia_de_cristo]] (1)
+[[gracia_eficaz]] (1)
+[[consustancial]] (1)
+[[gracia_de_la_palabra]] (1)
+[[vida_publica_de_cristo]] (1)
+[[segunda_persona_de_la_trinidad]] (1)
+[[profecia_de_cristo]] (1)
+[[filiacion_divina_de_cristo]] (1)
+[[manifestacion_de_cristo]] (1)
+[[estado_de_gracia]] (1)
+[[teosis]] (1)
+[[ejemplo_de_cristo]] (1)
+[[modalismo]] (1)
+[[cristo_luz]] (1)
+[[pecado_contra_el_primer_mandamiento]] (1)
+[[cristo_resucitado]] (1)
+[[operacion_de_cristo]] (1)
+[[naturaleza_humana_de_cristo]] (1)
+[[plenitud_de_gracia]] (1)
+```
+
+### Moral (19)
+
+```
+[[norma_moral]] (4)
+[[justicia_conmutativa]] (3)
+[[obligacion_moral]] (2)
+[[virtud_esperanza]] (2)
+[[moral]] (2)
+[[virtud_de_la_obediencia]] (2)
+[[virtud_teologal]] (2)
+[[virtudes_humanas]] (1)
+[[virtud_moral]] (1)
+[[ateismo_moral]] (1)
+[[moral_catolica]] (1)
+[[heroicidad_de_virtudes]] (1)
+[[conciencia_mesianica_de_jesus]] (1)
+[[moral_de_las_pasiones]] (1)
+[[justicia_particular]] (1)
+[[educacion_moral]] (1)
+[[verdad_moral]] (1)
+[[justicia_vindicativa]] (1)
+[[las_fuentes_de_la_moral_cristiana]] (1)
+```
+
+### Personas (50)
+
+```
+[[confesion_de_pedro]] (4)
+[[inocencio_xii]] (4)
+[[santa_teresa_de_lisieux]] (3)
+[[san_juan_crisostomo]] (3)
+[[ockham]] (3)
+[[inocencio_i]] (2)
+[[lamennais]] (2)
+[[pablo_de_tarso]] (2)
+[[santa_indiferencia]] (2)
+[[evangelio_de_juan]] (2)
+[[pedro]] (2)
+[[san_irineo_de_leon]] (2)
+[[san_jeronimo]] (2)
+[[julio_ii]] (2)
+[[benito_xv]] (2)
+[[santa_cruz]] (1)
+[[pablo]] (1)
+[[pablo_vi]] (1)
+[[san_alfonso_maria_de_ligorio]] (1)
+[[inocencio_xi]] (1)
+[[nietzsche]] (1)
+[[alcuino_de_york]] (1)
+[[beato_de_liebana]] (1)
+[[luis_xiv]] (1)
+[[san_atanasio]] (1)
+[[clemente_de_alejandria]] (1)
+[[san_ambrosio]] (1)
+[[san_luis_maria_grignion_de_montfort]] (1)
+[[hilario_de_poitiers]] (1)
+[[duns_scoto]] (1)
+[[hincmaro_de_reims]] (1)
+[[pedro_de_osma]] (1)
+[[duns_escoto]] (1)
+[[pedro_lombardo]] (1)
+[[hermes]] (1)
+[[bautain]] (1)
+[[blas_pascal]] (1)
+[[justiniano_emperador]] (1)
+[[federico_ii]] (1)
+[[carlos_v]] (1)
+[[teodosio_i]] (1)
+[[clemente_xii]] (1)
+[[inocencio_xiii]] (1)
+[[inocencio_iv]] (1)
+[[federico_i_barbarroja]] (1)
+[[santa_sofia]] (1)
+[[bossuet]] (1)
+[[henri_de_lubac]] (1)
+[[exegesis_de_juan]] (1)
+```
+
+### Documentos (25)
+
+```
+[[evangelium_vitae]] (4)
+[[lamentabili]] (4)
+[[pascendi]] (4)
+[[mirari_vos]] (3)
+[[quanta_cura]] (3)
+[[humani_generis]] (3)
+[[immortale_dei]] (2)
+[[humanae_vitae]] (2)
+[[divino_afflante_spiritu]] (2)
+[[casti_connubii]] (2)
+[[pastor_bonus]] (1)
+[[providentissimus_deus]] (1)
+[[redemptoris_missio]] (1)
+[[evangelii_gaudium]] (1)
+[[dilexit_nos]] (1)
+[[haurietis_aquas]] (1)
+[[laudato_si]] (1)
+[[dominius_iesus]] (1)
+[[desiderio_desideravi]] (1)
+[[ineffabilis_deus]] (1)
+[[exsurge_domine]] (1)
+[[divini_illius_magistri]] (1)
+[[quadragesimo_anno]] (1)
+[[spiritus_paraclitus]] (1)
+[[ne_temere]] (1)
+```
+
+### Biblia (13)
+
+```
+[[melquisedec]] (4)
+[[carta_a_los_hebreos]] (2)
+[[gn_3_15]] (2)
+[[ezequiel]] (2)
+[[prov_8]] (1)
+[[santiago_5]] (1)
+[[flp_2,6-11]] (1)
+[[daniel]] (1)
+[[anuncio_del_evangelio]] (1)
+[[biblia]] (1)
+[[jacob]] (1)
+[[1_corintios]] (1)
+[[evangelio_de_mateo]] (1)
+```
+
+### Legionarios y espiritualidad LC (3)
+
+```
+[[capg]] (2)
+[[candidatado]] (1)
+[[espiritualidad_ignaciana]] (1)
+```
+
+### Prioridades sugeridas
+
+| Prioridad | Criterio | Cuántos |
+|-----------|----------|---------|
+| **Alta** | ≥4 referencias | ~30 |
+| **Media** | 2–3 referencias | ~80 |
+| **Baja** | 1 referencia | ~700 |
+
+**Recomendación:** procesar por lotes priorizando alta > media > baja, y dentro
+de cada prioridad, por categoría (personas y documentos primero, después
+dogmática, después moral y bíblica, después LC).
+
+### Cómo añadir nuevos huérfanos tras procesar una fuente
+
+Al procesar una fuente nueva, ejecutar este flujo para detectar y registrar
+nuevos huérfanos:
+
+```
+python3 scripts/detectar_huerfanos.py [--normalizar-acentos]
+# Examinar la salida, filtrar solo los wikilinks nuevos que la fuente introduce
+# Añadir los nuevos huérfanos con su conteo a la categoría correspondiente
+# Incrementar el total en ## Totales del análisis
+```
+
+Los scripts están en `.opencode/skills/huérfanos/SKILL.md`. La detección
+mejorada (con normalización NFD y manejo de `#section`) se implementa
+en el script de este análisis (ver código en `instruct.md` sesión `2026-07-01`).
+
 ## Falsos positivos conocidos
 
 Wikilinks que no resuelven por diferencias de mayúsculas, acentos, espacio vs guion
@@ -722,8 +954,16 @@ find wiki/ -name '*.md' -exec grep -oP '\[\[[^\]|]+\]\]' {} + \
 ```
 
 ## Totales del análisis
+
+### Original (2026-06-19)
 - Archivos .md en wiki/: 1955
 - Wikilinks únicos extraídos: 2581
 - Huérfanos (≥1 ref.): 588
 - Falsos positivos (no resuelven exactamente): 80
-- Fecha: 2026-06-19 19:25
+
+### Detección mejorada (2026-07-01)
+- Archivos .md en wiki/: ~2020
+- Wikilinks únicos extraídos: ~4500+
+- Huérfanos únicos (≥1 ref., normalizados): **812**
+- Categorías: 52 dogmática / 19 moral / 50 personas / 25 documentos / 13 bíblica / 3 LC / 650 miscelánea
+- Fecha: 2026-07-01 18:00

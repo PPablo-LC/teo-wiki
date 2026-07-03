@@ -37,11 +37,11 @@ La doctrina de la Inmaculada Concepción se fue desarrollando gradualmente en la
 
 ## Relaciones doctrinales
 
-[[maría]], [[pecado_original]], [[maternidad_divina]], [[redención]], [[gracia_santificante]], [[plenitud_de_gracia]], [[duns_scoto]], [[inmaculado_corazón_de_maría]]
+[[virgen_maría]], [[pecado_original]], [[maternidad_divina]], [[redención]], [[gracia_santificante]], [[plenitud_de_gracia]], [[duns_scoto]], [[inmaculado_corazón_de_maría]]
 
 ## Ver también
 
-[[maría]], [[pecado_original]], [[maternidad_divina]], [[ineffabilis_deus]]
+[[virgen_maría]], [[pecado_original]], [[maternidad_divina]], [[ineffabilis_deus]]
 
 ## Referencias
 

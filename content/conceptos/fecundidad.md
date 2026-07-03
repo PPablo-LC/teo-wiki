@@ -53,7 +53,7 @@ El cuerpo «habla» también con sus estructuras internas: los ritmos biológico
 
 ## Ver también
 
-[[maría]], [[generaciones]]
+[[virgen_maría]], [[generaciones]]
 
 ## Referencias
 

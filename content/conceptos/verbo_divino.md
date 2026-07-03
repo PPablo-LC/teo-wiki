@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Verbo divino
 tags: ["dogmática_(trinidad)"]
 
-timestamp: 2026-06-21
+timestamp: 2026-07-01
 description: "El Verbo divino es la Segunda Persona de la Santísima Trinidad en cuanto Palabra eterna del Padre, concebida por el entendimiento divino."
 ---
 # Verbo divino
 
 > Área: Dogmática (Trinidad)
-> Última actualización: 2026-06-21
+> Última actualización: 2026-07-01
 
 ## Definición
 

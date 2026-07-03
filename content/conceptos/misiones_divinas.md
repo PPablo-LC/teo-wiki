@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Misiones divinas
 tags: ["dogmática_(trinidad)"]
 
-timestamp: 2026-06-03
+timestamp: 2026-07-01
 description: "Las misiones divinas son el envío del Hijo y del Espíritu Santo al mundo, tanto visible (Encarnación del Hijo, manifestaciones del Espíritu) como invisible (inhabitación de la gracia en el alma)."
 ---
 # Misiones divinas
 
 > Área: Dogmática (Trinidad)
-> Última actualización: 2026-06-03
+> Última actualización: 2026-07-01
 
 ## Definición
 

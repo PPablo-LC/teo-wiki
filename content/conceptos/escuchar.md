@@ -39,7 +39,7 @@ Solo Dios puede abrir el oído del discípulo (Is 50,5). En los tiempos mesiáni
 
 ## Ver también
 
-[[escucha]], [[maría]]
+[[escucha]], [[virgen_maría]]
 
 ## Referencias
 

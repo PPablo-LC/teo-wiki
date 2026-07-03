@@ -41,11 +41,11 @@ Pío XII fue secretario de Estado de Pío XI y nuncio en Alemania. Durante la Se
 
 ## Relaciones
 
-[[cuerpo_místico_de_cristo]], [[asunción_de_maría]], [[liturgia]], [[sagrada_escritura]], [[humani_generis]], [[meditatio_dei]], [[divino_afflante_spiritu]], [[nueva_teología]], [[maría]]
+[[cuerpo_místico]], [[asunción_de_maría]], [[liturgia]], [[sagrada_escritura]], [[humani_generis]], [[meditatio_dei]], [[divino_afflante_spiritu]], [[nueva_teología]], [[virgen_maría]]
 
 ## Ver también
 
-[[cuerpo_místico_de_cristo]], [[asunción_de_maría]], [[humani_generis]], [[divino_afflante_spiritu]], [[meditatio_dei]], [[milenarismo]]
+[[cuerpo_místico]], [[asunción_de_maría]], [[humani_generis]], [[divino_afflante_spiritu]], [[meditatio_dei]], [[milenarismo]]
 
 ## Referencias
 

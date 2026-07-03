@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Persona del Padre
 tags: ["dogmática_(trinidad)"]
 
-timestamp: 2026-06-03
+timestamp: 2026-07-01
 description: "Primera Persona de la Santísima Trinidad, principio sin principio, que engendra eternamente al Hijo y, juntamente con Él, espira al Espíritu Santo."
 ---
 # Persona del Padre
 
 > Área: Dogmática (Trinidad)
-> Última actualización: 2026-06-03
+> Última actualización: 2026-07-01
 
 ## Definición
 

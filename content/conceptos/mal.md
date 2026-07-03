@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Mal
 tags: ["dogmática"]
 
-timestamp: 2026-06-03
+timestamp: 2026-07-01
 description: "El mal no es una naturaleza o esencia positiva, sino la privación del bien que debe poseerse (*privatio boni*). No tiene ser en sí mismo, sino que existe en el bien como en su sujeto."
 ---
 # Mal
 
 > Área: Dogmática
-> Última actualización: 2026-06-03
+> Última actualización: 2026-07-01
 
 ## Definición
 
@@ -33,11 +33,13 @@ La misericordia «se manifiesta en su aspecto verdadero y propio cuando revalida
 
 ### Según la Summa Theologiae (SmTh)
 
-El mal no es una naturaleza, sino privación del bien (SmTh Iª q.48 a.1). Se encuentra en las cosas porque la perfección del universo requiere seres que pueden fallar (Iª q.48 a.2). El mal está en el bien como en su sujeto: todo ser en acto es un bien, y la privación se da en él (Iª q.48 a.3). El mal no puede corromper totalmente el bien, pues siempre permanece el sujeto —la sustancia— en su raíz (Iª q.48 a.4).
+Santo Tomás trata el mal en Iª q.48-49, en continuidad con la tradición agustiniana y dionisiana.
 
-El mal se divide en pena y culpa (Iª q.48 a.5). La pena es la privación de la forma o integridad del ser; la culpa es la privación de la debida operación en las criaturas dotadas de voluntad. La culpa tiene más razón de mal que la pena, porque por la culpa alguien se hace malo, y porque Dios es autor del mal de pena pero no del mal de culpa (Iª q.48 a.6).
+**Naturaleza del mal (q.48):** El mal no es una naturaleza o esencia positiva, sino privación del bien (*privatio boni*): todo ser en cuanto ser es bueno, y el mal es ausencia del bien que se debe poseer (a.1). El mal se encuentra en las cosas (a.2): la perfección del universo requiere que haya seres que puedan fallar (corruptibles junto con incorruptibles), y de hecho algunos fallan. El mal está en el bien como en su sujeto (a.3): la privación no es simple negación, sino ausencia en un sujeto que es bueno; todo ser en acto es un bien que puede ser privado de otro bien. El mal no puede corromper totalmente el bien (a.4): siempre permanece el sujeto —la sustancia— en su raíz; la capacidad del alma para la gracia se disminuye indefinidamente por los pecados, pero nunca se suprime totalmente porque le es connatural.
 
-El bien es causa del mal solo accidentalmente (Iª q.49 a.1): el mal no tiene causa eficiente directa, sino deficiente. El fuego, al imprimir su forma, corrompe accidentalmente la forma del agua. Dios no es causa del mal de culpa, pues en Él no hay defecto alguno; pero sí causa del mal de pena, en cuanto castigo justo y en cuanto la corrupción de unas cosas acompaña a la producción de otras dentro del orden del universo (Iª q.49 a.2). No existe un sumo mal como primer principio: el mal no puede ser esencial porque todo ser, en cuanto ser, es bueno, y el mal no subsiste sin un sujeto bueno (Iª q.49 a.3). La causa última de todo mal se reduce a un bien del cual el mal se sigue accidentalmente.
+**División del mal (q.48 a.5-6):** El mal se divide en pena (*malum poenae*) y culpa (*malum culpae*). La pena es la privación de la forma o integridad del ser en la criatura; la culpa es la privación de la debida operación en las criaturas dotadas de voluntad (a.5). La culpa tiene más razón de mal que la pena (a.6): por la culpa alguien se hace malo, mientras que la pena no hace malo al que la sufre; Dios es autor del mal de pena (castigo justo), pero no del mal de culpa, que se opone directamente al bien increado.
+
+**Causa del mal (q.49):** El bien es causa del mal solo accidentalmente (a.1): el mal no tiene causa eficiente directa. El fuego, al imprimir su forma, corrompe accidentalmente la forma del agua; la voluntad deficiente actúa sin sujetarse a la regla. Dios no es causa del mal de culpa (a.2): en Él no hay defecto alguno; pero sí causa el mal de pena, en cuanto castigo justo y en cuanto la corrupción de unas cosas acompaña accidentalmente a la producción de otras dentro del orden del universo. No existe un sumo mal como primer principio (a.3): todo ser en cuanto ser es bueno; el mal no puede ser esencial porque no subsiste sin un sujeto bueno. Quienes postularon dos principios (maniqueos) erraron por no remontarse a la causa universal, contentándose con causas particulares.
 
 ## Distinciones importantes
 

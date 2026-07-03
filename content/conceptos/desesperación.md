@@ -82,7 +82,7 @@ Los remedios contra la desesperación: «la misericordia de Dios es incansable e
 
 ## Ver también
 
-[[virtud_de_la_esperanza]], [[confianza_en_dios]], [[presunción]], [[acidia]], [[purificaciones_pasivas]], [[desaliento]], [[tentación]], [[amor_puro]]
+[[virtud_de_la_esperanza]], [[confianza_en_dios]], [[presunción]], [[acedia]], [[purificaciones_pasivas]], [[desaliento]], [[tentación]], [[amor_puro]]
 
 ## Referencias
 

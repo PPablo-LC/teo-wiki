@@ -47,11 +47,11 @@ No se encontraron referencias doctrinales significativas sobre la tormenta en la
 
 ## Relaciones doctrinales
 
-Se relaciona con [[teofanía]], [[sinaí]], [[job]], [[poder_de_dios]], [[mesianismo]], [[calma_de_la_tempestad]].
+Se relaciona con [[teofanía]], [[sinaí]], [[job]], [[poder]], [[mesianismo]], [[calma_de_la_tempestad]].
 
 ## Ver también
 
-[[teofanía]], [[sinaí]], [[job]], [[calma_de_la_tempestad]], [[poder_de_dios]]
+[[teofanía]], [[sinaí]], [[job]], [[calma_de_la_tempestad]], [[poder]]
 
 ## Referencias
 

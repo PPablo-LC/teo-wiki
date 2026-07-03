@@ -45,7 +45,7 @@ El VocTeoBib presenta a Job como el prototipo del justo que sufre sin comprender
 
 ## Relaciones doctrinales
 
-Se vincula con el [[sufrimiento]], la [[providencia_divina]], la [[prueba]], la [[paciencia]], el [[siervo_de_yahveh]], la [[teodicea]] y la [[tormenta]].
+Se vincula con el [[sufrimiento]], la [[providencia_divina]], la [[prueba]], la [[paciencia]], el [[siervo_de_yahvé]], la [[teodicea]] y la [[tormenta]].
 
 ## Ver también
 [[sufrimiento]], [[providencia_divina]], [[siervo_de_yahvé]], [[paciencia]]

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Procesiones divinas
 tags: ["dogmática_(trinidad)"]
 
-timestamp: 2026-06-02
+timestamp: 2026-07-01
 description: "Las procesiones divinas son las emanaciones inmanentes en la vida íntima de Dios por las cuales las Personas divinas se distinguen realmente entre sí."
 ---
 # Procesiones divinas
 
 > Área: Dogmática (Trinidad)
-> Última actualización: 2026-06-02
+> Última actualización: 2026-07-01
 
 ## Definición
 

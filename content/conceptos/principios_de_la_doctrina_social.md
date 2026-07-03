@@ -33,11 +33,11 @@ Los principios permanentes de la doctrina social de la Iglesia son el principio 
 
 ## Relaciones doctrinales
 
-Se relaciona con [[dignidad_humana]], [[bien_común]], [[subsidiaridad]], [[solidaridad]], [[persona_humana]], [[doctrina_social_de_la_iglesia]]
+Se relaciona con [[dignidad_humana]], [[bien_común]], [[subsidiariedad]], [[solidaridad]], [[persona_humana]], [[doctrina_social_de_la_iglesia]]
 
 ## Ver también
 
-[[dignidad_humana]], [[bien_común]], [[subsidiaridad]], [[solidaridad]]
+[[dignidad_humana]], [[bien_común]], [[subsidiariedad]], [[solidaridad]]
 
 ## Referencias
 

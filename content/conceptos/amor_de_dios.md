@@ -29,7 +29,15 @@ El Catecismo enseña que «Dios es amor» (1 Jn 4,8, §221) y que «el amor de D
 
 ### Según la Summa Theologiae (SmTh)
 
-**Iª q.20 a.1 — Dios ama a todos los seres:** El amor de Dios se extiende a todas las criaturas, pero de modo diverso: ama a los ángeles y hombres con amor de complacencia (por su bondad natural y sobrenatural), y a las demás criaturas con amor de voluntad (por su bondad natural).
+**Iª q.20 — El amor de Dios:**
+
+**a.1 — En Dios hay amor:** El amor es el primer acto de la voluntad y del apetito; todos los demás movimientos (deseo, gozo, odio, tristeza) lo presuponen. Donde hay voluntad hay amor, y en Dios hay voluntad. En Dios el amor no es pasión (no implica cambio corporal), sino acto del apetito intelectual. Se atribuye a Dios propiamente, no metafóricamente, pues el amor en su aspecto formal no implica imperfección.
+
+**a.2 — Dios lo ama todo:** Todo lo existente, por existir, es bueno, y Dios quiere algún bien para cada ser. El amor de Dios no presupone la bondad de las cosas (como el nuestro), sino que la infunde y crea. A las criaturas racionales las ama con amor de amistad (pueden corresponder y participar de la bienaventuranza); a las irracionales, con amor de concupiscencia (ordenándolas a las racionales y a sí mismo). A los pecadores los ama en cuanto seres, pero los odia en cuanto pecadores.
+
+**a.3 — Dios no ama a todos por igual:** No por intensidad del acto (que es uno y simple), sino por el bien mayor que quiere para unos que para otros. El amor de Dios es causa de la bondad de las cosas; algo es mejor porque Dios quiere un bien mayor para ello.
+
+**a.4 — Dios ama más a los mejores:** Amar más es querer un bien mayor. Las cosas son mejores porque Dios quiere un bien mayor para ellas. Esto no se contradice con que Cristo fuera entregado a la muerte (de ahí le vino la gloria), ni con que el penitente sea objeto de mayor alegría (porque muchos penitentes se vuelven más cautos, humildes y fervorosos).
 
 **Ia-IIae q.113 a.9 — Mayor obra de Dios:** La justificación del pecador es la mayor obra de Dios por el bien que produce (la participación divina), superando a la creación, aunque la creación es mayor en el modo de obrar (de la nada).
 

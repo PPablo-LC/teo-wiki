@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Propiedades divinas
 tags: ["dogmática_(trinidad)"]
 
-timestamp: 2026-06-03
+timestamp: 2026-07-01
 description: "Las propiedades divinas (también llamadas propiedades personales o nociones) son los caracteres distintivos que constituyen y distinguen a las personas divinas entre sí en la unidad de la esencia."
 ---
 # Propiedades divinas
 
 > Área: Dogmática (Trinidad)
-> Última actualización: 2026-06-03
+> Última actualización: 2026-07-01
 
 ## Definición
 

@@ -39,7 +39,7 @@ Tras el exilio, Is 56,3ss abre la esperanza al eunuco fiel: «Les daré un nombr
 
 ## Ver también
 
-[[abraham]], [[maría]]
+[[abraham]], [[virgen_maría]]
 
 ## Referencias
 

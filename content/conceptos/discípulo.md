@@ -48,7 +48,7 @@ El discípulo, al ser enviado, se convierte en apóstol. La comunidad de apósto
 
 ## Relaciones doctrinales
 
-El discipulado se relaciona con la [[vocación]], el [[seguimiento_de_cristo]], el [[apostolado]], la [[misión]] y el [[martirio]]. Se conecta con la [[gracia]] que capacita para la respuesta. El prototipo del discípulo es [[maría]] y los doce [[apóstoles]].
+El discipulado se relaciona con la [[vocación]], el [[seguimiento_de_cristo]], el [[apostolado]], la [[misión]] y el [[martirio]]. Se conecta con la [[gracia]] que capacita para la respuesta. El prototipo del discípulo es [[virgen_maría]] y los doce [[apóstoles]].
 
 ## Ver también
 

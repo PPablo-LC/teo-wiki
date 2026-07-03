@@ -35,7 +35,7 @@ El título Theotokos presupone la [[unidad_hipostática]] de las dos naturalezas
 
 ## Ver también
 
-[[unidad_hipostática]], [[nestorianismo]], [[encarnación]], [[jesucristo]], [[concilio_de_éfeso]], [[maría]], [[comunicación_de_idiomas]]
+[[unidad_hipostática]], [[nestorianismo]], [[encarnación]], [[jesucristo]], [[concilio_de_éfeso]], [[virgen_maría]], [[comunicación_de_idiomas]]
 
 ## Referencias
 

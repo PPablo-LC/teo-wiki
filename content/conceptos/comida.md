@@ -39,7 +39,7 @@ Jesús confiere a las comidas su pleno valor. Come con publicanos y pecadores, p
 
 ## Ver también
 
-[[alimento]], [[hospitalidad]], [[bendicion]], [[pascua]], [[reino]]
+[[alimento]], [[hospitalidad]], [[bendicion]], [[pascua]], [[reino_de_dios]]
 
 ## Referencias
 

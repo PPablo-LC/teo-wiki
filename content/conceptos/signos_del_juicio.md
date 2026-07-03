@@ -51,11 +51,11 @@ Este movimiento no cambia nada de su estado, sino que se refiere a sus efectos (
 
 ## Relaciones doctrinales
 
-Los signos del juicio preparan la [[parusía]] y preceden al [[juicio_final]]. Se relacionan con el fin del [[antecristo]], cuya muerte marca el inicio del período inmediatamente anterior a la venida de Cristo. La renovación del mundo que sigue a estos signos se vincula con la [[consumación_de_los_siglos]]. Algunos de los signos descritos (ríos de fuego, oscurecimiento de los astros) guardan relación con la [[conflagración_final]].
+Los signos del juicio preparan la [[parusía]] y preceden al [[juicio_final]]. Se relacionan con el fin del [[anticristo]], cuya muerte marca el inicio del período inmediatamente anterior a la venida de Cristo. La renovación del mundo que sigue a estos signos se vincula con la [[consumación_de_los_siglos]]. Algunos de los signos descritos (ríos de fuego, oscurecimiento de los astros) guardan relación con la [[conflagración_final]].
 
 ## Ver también
 
-[[juicio_final]], [[parusía]], [[antecristo]], [[consumación_de_los_siglos]], [[conflagración_final]], [[resurrección_de_los_muertos]]
+[[juicio_final]], [[parusía]], [[anticristo]], [[consumación_de_los_siglos]], [[conflagración_final]], [[resurrección_de_los_muertos]]
 
 ## Referencias
 

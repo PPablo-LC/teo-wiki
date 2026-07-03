@@ -35,7 +35,7 @@ Pero la Biblia también advierte del peligro de dejarse absorber por los cuidado
 
 ## Relaciones doctrinales
 
-[[trabajo]] — [[providencia_divina]] — [[fe]] — [[confianza]] — [[paz]] — [[mundo]] — [[reino]]
+[[trabajo]] — [[providencia_divina]] — [[fe]] — [[confianza]] — [[paz]] — [[mundo]] — [[reino_de_dios]]
 
 ## Ver también
 

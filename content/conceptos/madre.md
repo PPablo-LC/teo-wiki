@@ -36,11 +36,11 @@ Dios mismo es presentado con ternura materna: *rahamim* (entrañas maternas) exp
 
 ## Relaciones doctrinales
 
-La maternidad se relaciona con [[maría]], [[virgen_maría]], [[maternidad_divina]], [[iglesia]], [[jerusalén]], [[mujer]], [[esterilidad]], [[fecundidad]].
+La maternidad se relaciona con [[virgen_maría]], [[virgen_maría]], [[maternidad_divina]], [[iglesia]], [[jerusalén]], [[mujer]], [[esterilidad]], [[fecundidad]].
 
 ## Ver también
 
-[[madre]], [[maría]], [[virgen_maría]], [[maternidad_divina]], [[iglesia]], [[eva]]
+[[madre]], [[virgen_maría]], [[virgen_maría]], [[maternidad_divina]], [[iglesia]], [[eva]]
 
 ## Referencias
 

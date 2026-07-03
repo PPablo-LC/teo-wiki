@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Circumincesión
 tags: ["dogmática", "trinidad"]
 
-timestamp: 2026-06-03
+timestamp: 2026-07-01
 description: "La circuminsesión (también llamada perichoresis o inhabitación mutua) es la doctrina trinitaria según la cual las tres Personas divinas —Padre."
 ---
 # Circumincesión
 
 > Área: Dogmática / Trinidad
-> Última actualización: 2026-06-03
+> Última actualización: 2026-07-01
 
 ## Definición
 

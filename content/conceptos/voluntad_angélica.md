@@ -3,7 +3,7 @@ type: Concepto Teológico
 title: Voluntad angélica
 tags: ["dogmática_(angelología)"]
 
-timestamp: 2026-06-03
+timestamp: 2026-07-01
 description: "La voluntad angélica es la potencia apetitiva intelectual propia de los ángeles, por la que tienden al bien universal conocido por el entendimiento."
 ---
 # Voluntad angélica
