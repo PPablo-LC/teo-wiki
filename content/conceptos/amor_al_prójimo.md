@@ -43,6 +43,10 @@ Juan Pablo I enseña que el amor a Dios y el amor al prójimo son «hermanos gem
 
 Juan Pablo I actualiza esta enseñanza a la dimensión social: «entre los hambrientos hoy no se trata ya sólo de este o aquel individuo; hay pueblos enteros». Citando la *Populorum Progressio* de Pablo VI, afirma que «con lastimera voz los pueblos hambrientos interpelan a los que abundan en riquezas». La caridad se une a la justicia: la propiedad privada no es derecho incondicional ni absoluto, y «toda carrera aniquiladora de armamentos resulta un escándalo intolerable» [7_Lamps, JPI La caridad — Audiencia general, 27-IX-1978].
 
+### Según Mons. Tihámer Tóth (JvC)
+
+La nobleza del alma es lo contrario del egoísmo. JvC exhorta a compartir, alegrarse con el que se alegra, tratar con amabilidad a los extraños: «Si tu compañero tiene algún pesar, consuélalo con unas palabras que broten del corazón. Eso es nobleza del alma. Si se alegra, alégrate con él; el egoísta en estos casos se pone amarillo de envidia. Si compartes tu desayuno con tu compañero, tienes nobleza de alma. Si lo ayudas por la tarde para que aprenda la lección, si procuras alegrar a los demás, si tratas a los extraños con amabilidad... eso es grandeza de alma, es decir, amor al prójimo en las insignificantes pequeñeces de la vida» [JvC, Cap. I].
+
 ### Según el Enchiridion Symbolorum (Denzinger)
 
 **Inocencio XI** (1679, D‑1160) condenó la proposición: «No estamos obligados a amar al prójimo por acto interno y formal.» Condenada como escandalosa. La condena reafirma que el amor interno al prójimo es exigido por la ley divina, no bastando los actos externos solos.

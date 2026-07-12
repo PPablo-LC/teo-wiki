@@ -25,6 +25,12 @@ La sinceridad es exigida por la [[verdad]] de la vida cristiana (CEC §2468-2470
 
 La sinceridad es la virtud aneja a la verdad, que incluye la veracidad en el hablar y la autenticidad en el actuar. Es el fundamento de la [[virtud_de_la_religión]] en cuanto el alma se presenta ante Dios tal cual es, sin fingimiento.
 
+## Perspectivas por fuente
+
+### Según Mons. Tihámer Tóth (JvC)
+
+Sé sincero no solo con los demás, sino contigo mismo. «Habla reiteradamente contigo mismo en el silencio para que así llegues a conocerte cada vez mejor. Y, sobre todo, sé sincero con Dios. Dios es la verdad eterna y todo lo ve. No puedes engañarle» [JvC, Cap. III]. JvC advierte contra el autoengaño: no se trata de excusar la propia pereza o cobardía con pretextos, sino de reconocer con honestidad los propios motivos.
+
 ## Relaciones doctrinales
 
 La sinceridad se opone a la [[simulación]] y a la [[hipocresía]]. Se identifica prácticamente con la [[veracidad]] en cuanto virtud moral y fundamenta la [[justicia]] en las relaciones humanas.

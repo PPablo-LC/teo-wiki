@@ -29,6 +29,10 @@ Juan Pablo II, en su discurso a los jóvenes chilenos, llama a la juventud a asu
 
 El Capítulo General de 2026 reconoce que el contexto sociocultural de los jóvenes ha cambiado: los procesos de discernimiento son más complejos, tienen dificultades para comprometerse y la secularización avanza [CapGral-2026, n. 101]. Sin embargo, los jóvenes siguen sedientos de trascendencia, y la vocación debe ser anunciada como un designio personal de amor de Dios [CapGral-2026, n. 100].
 
+### Según Mons. Tihámer Tóth (JvC)
+
+Toda la obra de JvC está dirigida a los jóvenes. «Cada joven es una mina de diamantes inagotable, un caudal lleno de promesas» [JvC, Prólogo]. La primavera de la vida es el momento decisivo para formar el carácter: «Has de educar, por tanto, tu voluntad para que se compenetre con la voluntad de Dios. Lograrás la más valiosa autoeducación si tras tus acciones puedes contestar afirmativamente a la pregunta: "Señor, ¿ha sido de veras tu voluntad lo que he hecho?" Y esta educación del carácter has de empezarla ahora. En la edad madura es mucho más difícil. Quien llega sin carácter firme al ajetreo del mundo, es fácil que pierda hasta lo poco que haya podido tener» [JvC, Cap. I].
+
 ### Según León XIV (L_XIV-ClerRom)
 
 León XIV dedica una atención particular a la juventud. Describe la realidad de los jóvenes contemporáneos marcada por «heridas relacionales y afectivas, ansiedades y miedos, tristeza y soledad». Señala que muchos jóvenes «viven sin ninguna referencia a Dios y a la Iglesia» y que «se respira un gran deseo de profundidad e intimidad con Dios, así como la necesidad de ser escuchados y de comunión». El Papa diagnostica una «preocupante agresividad que a veces desembosa en violencia».

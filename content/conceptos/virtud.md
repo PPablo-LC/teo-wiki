@@ -59,6 +59,9 @@ Quienes tienen responsabilidades políticas deben ejercer el poder mediante el r
 ### Según Royo Marín (TPCr)
 El Capítulo 1 de la Segunda Parte estudia el organismo sobrenatural: las virtudes infusas (teologales y morales) y los dones del Espíritu Santo. Las virtudes morales infusas son hábitos que disponen las potencias del alma para seguir el dictamen de la razón iluminada por la fe con relación a los medios conducentes al fin sobrenatural. La caridad es la forma de todas las virtudes: sin ella, las demás virtudes no pueden ordenarse al fin último sobrenatural.
 
+### Según Mons. Tihámer Tóth (JvC)
+
+«La base de toda virtud es el dominio de sí mismo» [JvC, Cap. I]. Los romanos llamaban *virtus* tanto a la virtud como a la fuerza; esto significa que «no hay virtud sin esfuerzo y sin victoria alcanzada sobre nosotros mismos» [JvC, Cap. III]. De las acciones repetidas se forma el hábito: «de las acciones malas, nace la mala costumbre, el vicio; de las buenas, la buena costumbre, la virtud» [JvC, Cap. III]. Benjamín Franklin, que llevaba un tablero con trece virtudes (moderación, silencio, orden, decisión, economía, diligencia, sinceridad, justicia, sobriedad, pureza, tranquilidad de espíritu, educación y humildad), examinándose cada noche, es ejemplo del método para adquirir virtudes mediante el examen de conciencia y la lucha perseverante [JvC, Cap. III].
 
 ## Distinciones importantes
 - Virtud infusa (dada por Dios) ≠ virtud adquirida (por repetición de actos humanos)

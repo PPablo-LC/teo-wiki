@@ -33,6 +33,10 @@ La avaricia se opone a la liberalidad. Es uno de los pecados llamados capitales 
 
 [TPCr, Parte III, Libro II, Cap. II, n.415; Parte III, Libro I, Cap. 5-6]
 
+### Según Mons. Tihámer Tóth (JvC)
+
+La caza del dinero ha cautivado a muchos. JvC narra cómo los negros cazan al mono: atan una bolsa con arroz al árbol; el mono mete la mano, llena el puño de arroz, y no puede sacarlo porque el puño no pasa por el agujero. «¡Cuidado!, joven, no te aprisione también el amor ávido del dinero y no te arrastren a sus cárceles la avaricia» [JvC, Cap. II]. Cita a Burne: «El corazón se endurece más aprisa en la riqueza que el huevo en el agua hirviendo» [JvC, Cap. II].
+
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata la avaricia en la q.118 en ocho artículos, ofreciendo el tratamiento más completo de este vicio en la tradición escolástica.

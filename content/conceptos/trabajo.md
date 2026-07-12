@@ -39,6 +39,12 @@ En el NT, Jesús asume el trabajo humano siendo artesano. Pablo presenta el trab
 
 El trabajo corporal es mencionado como forma de mortificación positiva: «el cilicio, la disciplina, el frío, el calor, el trabajo corporal, largos ratos de rodillas» (TPCr, n. 1063). La mortificación corporal, incluido el trabajo, tiene finalidad reparadora y de propia inmolación. No hay un tratado específico del trabajo como concepto teológico autónomo; aparece como medio ascético.
 
+### Según Mons. Tihámer Tóth (JvC)
+
+El trabajo es «uno de los mejores educadores del carácter, enseña a saber vencerse a sí mismo, a ser perseverante y pone en tensión el espíritu» [JvC, Cap. II]. Fue el cristianismo quien consideró al trabajo como un medio que ennoblece al hombre. La inactividad lleva a la ruina moral: «quien no trabaje, que no coma» (2 Tes 3,10). No basta aparentar que se trabaja: el perezoso es «cruel verdugo de sí mismo» [JvC, Cap. II]. El trabajo debe hacerse con entusiasmo: Miguel Ángel, cuando le preguntaron por qué trabajaba tanto en estatuas que nadie vería desde abajo, respondió: «Desde abajo, nadie; pero Dios lo ve» [JvC, Cap. III].
+
+JvC advierte contra el activismo estéril: hay jóvenes que trabajan todo el día pero «no dedican más de diez minutos a una misma cosa: derrochan actividad febril pero inútil» [JvC, Cap. II]. Lo que hace a los verdaderos lumbreras es «la diligencia constante, reposada, con ánimos para mantener un trabajo reconcentrado durante largos años» [JvC, Cap. II].
+
 ### Según la *Laborem Exercens* (LE)
 
 LE constituye el desarrollo más completo del magisterio sobre el trabajo humano. Define el trabajo como «una clave, quizá la clave esencial, de toda la cuestión social» (LE §3). Desarrolla la distinción entre sentido objetivo (técnica, instrumentos, transformación de la naturaleza) y subjetivo (el hombre como persona que trabaja). La dimensión subjetiva tiene preeminencia: «el primer fundamento del valor del trabajo es el hombre mismo, su sujeto» (LE §6). El hombre, mediante el trabajo, «no sólo transforma la naturaleza adaptándola a las propias necesidades, sino que se realiza a sí mismo como hombre, es más, en un cierto sentido "se hace más hombre"» (LE §9).

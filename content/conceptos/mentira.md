@@ -54,6 +54,10 @@ TPCr trata la mentira como pecado contra la virtud de la [[veracidad]] (parte de
 
 La mentira es pecado mortal por su materia cuando causa un daño grave a la justicia, a la caridad o a la reputación ajena. La reparación es obligatoria cuando la mentira ha causado daño.
 
+### Según Mons. Tihámer Tóth (JvC)
+
+JvC dedica una sección a «¿Vale la pena mentir?». Los jóvenes mienten por miedo, cobardía, envidia, vanidad o fidelidad mal entendida. «Tarde o temprano sale al fin el embuste, y entonces se pierde sin remedio la confianza en el joven» [JvC, Cap. III]. La mentira obliga a mantenerla con otras mentiras: «ha de alimentar una mentira con otra si quiere mantenerlas en pie» [JvC, Cap. III]. El mentiroso pierde el honor: «Dios quiso que la mentira fuese difícil al hombre. Por eso lo creó de manera que, en principio, se ruborice al mentir» [JvC, Cap. III]. Cita Pr 12,22: «Abomina Dios los labios mentirosos», y St 3,2: «El que no tropieza en palabras es varón perfecto».
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 [VocTeoBib, «Mentira»] En el AT, la prohibición de la mentira surge en el contexto del falso testimonio (Ex 20,16) y se extiende a todo engaño (Os 4,2; Prov 12,22). La mentira por excelencia es la idolatría: desconocer al Dios verdadero para servir a ídolos falsos (Jer 10,1-16; Rom 1,25). En el NT, Jesús exige una lealtad total: «Sea vuestro lenguaje: sí, sí; no, no» (Mt 5,37). Pablo exhorta a despojarse de la mentira (Col 3,9s) porque los creyentes son miembros unos de otros (Ef 4,25). Satán es el «padre de la mentira» (Jn 8,44), y el anticristo es mentiroso por negar a Jesucristo (1Jn 2,22).

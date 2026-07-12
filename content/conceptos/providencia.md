@@ -39,6 +39,10 @@ El Catecismo dedica un artículo a la providencia (§301-314). «Dios cuida de t
 
 El Catecismo también trata la providencia en el contexto de la oración: «La oración nos conduce a una confianza cada vez más filial en nuestro Padre que está en los cielos» (§321-324). La fe en la providencia divina es fuente de esperanza en medio de las pruebas.
 
+### Según Mons. Tihámer Tóth (JvC)
+
+La confianza en la divina Providencia es el fundamento del sufrimiento cristiano. «Dios, mi Padre, conoce mis males; por tanto, si permitió que me visitara esta desgracia, seguro que tenía un plan» [JvC, Cap. III]. El cristiano debe orar: «Hágase, Señor, tu voluntad, aunque no lo comprenda». JvC compara a Dios con el guía de montaña que conduce al turista por senderos pedregosos hacia la cumbre: «¿Por qué senderos pedregosos, duros, estrechos, incómodos, me ha conducido! —exclama el turista—. Sí, señor, por senderos incómodos; pero sepa que si le hubiera guiado por los caminos llanos y fáciles, no estaríamos a estas horas en esta magnífica altura, sino acaso a la orilla de un pantano» [JvC, Cap. III]. «Junto al telar de la Historia está sentado Dios eterno, cuyos designios nos son desconocidos. Sus pensamientos no son los nuestros y sus caminos no son nuestros senderos» [JvC, Cap. III].
+
 ### Según Royo Marín (TPCr)
 
 Royo Marín trata la providencia divina en el contexto del abandono en Dios y la vida de oración (TPCr, Parte II, Libro I, Cap. 12-13). La confianza en la providencia es fundamento de la vida espiritual. La aceptación de la voluntad de Dios —tanto la significada (mandamientos) como la de beneplácito (circunstancias)— es requisito para la perfección cristiana. La doctrina de la providencia sostiene teológicamente la virtud de la [[confianza_en_dios]] y el [[abandono_en_la_providencia_divina]].

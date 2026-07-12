@@ -35,6 +35,10 @@ La esperanza cristiana se funda en las promesas de Dios, cumplidas en Jesucristo
 
 [JPII, Redemptoris Mater §11, §41, §50]: María permanece como señal de esperanza segura en medio del mal y del pecado que marcan la historia del hombre [RM §11]. La verdad de la Asunción expresa la fe de la Iglesia según la cual María está íntimamente unida a Cristo en su primera venida y lo estará también a la espera de la segunda [RM §41]. El Concilio mira a María como a un «signo de esperanza segura y de consuelo para el pueblo de Dios peregrinante» [RM §50, citando LG §68].
 
+### Según Mons. Tihámer Tóth (JvC)
+
+El cristianismo da sentido al sufrimiento. «El cristianismo, aunque no suprime el sufrimiento, le da sentido: es un medio que Dios permite para nuestro bien definitivo» [JvC, Cap. III]. «Después de las tinieblas llegará la luz» (Job 17,12). La confianza en la divina Providencia sostiene al que sufre: Dios Padre conduce a través de la vida «como el guía de montaña que lleva al turista hacia las cumbres». El guía conduce por senderos pedregosos, pero si hubiera guiado por caminos llanos y fáciles, «no estaríamos a estas horas en esta magnífica altura, sino acaso a la orilla de un pantano» [JvC, Cap. III]. «Junto al telar de la Historia está sentado Dios eterno, cuyos designios nos son desconocidos» [JvC, Cap. III].
+
 ### Según UDE (1994)
 
 El título mismo de la obra —*Cruzando el umbral de la esperanza*— señala la esperanza como tema central. Juan Pablo II presenta la fe cristiana como una invitación a la alegría y a la esperanza. El Evangelio es fundamentalmente buena noticia de salvación. La palabra más repetida en el libro junto a «esperanza» es «alegría». El Papa concluye afirmando que vale la pena descubrir que tenemos un Padre que nos ama (UDE, Intro., Cap. III, Cap. XXXV).

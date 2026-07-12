@@ -82,6 +82,15 @@ Santo Tomás trata los actos específicos de la voluntad: **q.11 — La fruició
 **q.19 a.9 — Conformidad con la voluntad divina:** La voluntad humana es buena en cuanto se conforma con la voluntad divina, tanto en el objeto querido (voluntad de beneplácito) como en la causa formal de querer (querer lo que Dios quiere porque Dios lo quiere).
 
 [TPCr, Parte III, Libro II, Cap. IV, n.613]
+
+### Según Mons. Tihámer Tóth (JvC)
+
+La educación de la voluntad es la tarea central de la formación del carácter. JvC distingue entre el mero deseo («quisiera») y la verdadera decisión («quiero»): «Hay una diferencia enorme entre el "quisiera" y el "quiero"» [JvC, Cap. II]. «Supo querer» es la inscripción que podría ponerse en el retrato de los grandes hombres. A Santo Tomás de Aquino le preguntó su hermana: «¿Qué he de hacer para alcanzar la salvación eterna?» Y respondió: «Querer» [JvC, Cap. II].
+
+Demóstenes es el ejemplo de cómo una voluntad tenaz puede vencer todos los obstáculos: tartamudo, pobre, objeto de burlas, se encerraba en grutas subterráneas para ensayar sus discursos, se ponía piedrecitas bajo la lengua, recitaba en la orilla del mar para fortalecer los pulmones, y llegó a ser el más grande orador de la antigüedad. «¡Qué admirables fuerzas están latentes en el hombre! Todo gracias a su voluntad tenaz» [JvC, Cap. III].
+
+Los ejercicios para robustecer la voluntad incluyen el dominio de los sentidos (no mirar todo lo que excita la curiosidad), el dominio de la lengua (no murmurar, no divulgar secretos), el dominio del humor (sonreír aunque se esté de mal talante) y el dominio en la comida (no buscar lo que más gusta, comer con moderación) [JvC, Cap. III].
+
 ### Según Royo Marín (TPCr)
 
 La voluntad es una de las potencias del alma donde reside la virtud de la justicia. La conformidad con la voluntad de Dios es uno de los grandes resortes psicológicos para el adelantamiento en la vida espiritual, junto con la energía de carácter, el deseo ardiente de la perfección y la fidelidad a la gracia.

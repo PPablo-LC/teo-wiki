@@ -216,7 +216,6 @@ vs guion bajo, o sinónimo reconocido).
 | 184 | `[[reverencia]]` | 3 | baja | |
 | 185 | `[[rito_romano]]` | 3 | baja | |
 | 186 | `[[sabiduría_divina]]` | 3 | baja | |
-| 187 | `[[san_juan_crisóstomo]]` | 3 | baja | |
 | 188 | `[[sanación_interior]]` | 3 | baja | |
 | 189 | `[[sangre_de_cristo]]` | 3 | baja | |
 | 190 | `[[sanidad]]` | 3 | baja | |

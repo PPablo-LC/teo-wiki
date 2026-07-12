@@ -34,6 +34,10 @@ En el NT, el único sacrificio perfecto y definitivo es el de Cristo en la cruz 
 ### Según Royo Marín (TPCr)
 Jesucristo es la causa meritoria de la gracia, y su mérito está íntimamente ligado a su sacrificio redentor. La imposibilidad del linaje humano de satisfacer condignamente el pecado de Adán solo pudo ser superada por un Dios hecho hombre que ofreciera a la justicia divina una satisfacción plena (TPCr, Primera Parte, Cap. VII, n.57). La santa misa contiene las riquezas infinitas del sacrificio de Cristo, ofreciéndose al Padre como adoración, reparación, petición y acción de gracias (TPCr, Tercera Parte, Libro II, Cap. I). La mejor manera de dar gracias consiste en identificarse por el amor con Cristo y ofrecerle al Padre con todas sus infinitas riquezas.
 
+### Según Mons. Tihámer Tóth (JvC)
+
+No se puede aspirar a un alto ideal sin sacrificio. JvC cita Mt 16,24: «Si alguno quiere venir en pos de Mí, niéguese a sí mismo, cargue con su cruz y sígame». «Quien nunca se priva de una cosa lícita no se puede esperar que rehuse todas las prohibidas» [JvC, Cap. II]. La ascesis como «elaboración final» al estilo de los atletas griegos: el hombre de carácter también es resultado de una lucha, de un combate. El ejemplo de los pitagóricos, que llenaban su mesa de platos exquisitos y se levantaban sin haber tocado nada, muestra la importancia decisiva de vencerse a sí mismo. David, que derramó el agua que sus soldados trajeron con peligro de sus vidas: sacrificó «nada más que un sorbo de agua» y perdió «el placer de un solo momento», pero ganó el respeto de sus soldados, el robustecimiento de su voluntad y la gracia de Dios [JvC, Cap. III].
+
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata el sacrificio en la cuestión 85 de la IIa-IIae. El sacrificio es un acto de la virtud de religión, porque se ofrece a Dios en reconocimiento de su supremo dominio sobre todas las cosas (q.85 a.1). Por ley natural, el hombre está obligado a ofrecer a Dios algún signo exterior de su sumisión interior, y el sacrificio es el más expresivo de estos signos (q.85 a.1).

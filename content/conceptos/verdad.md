@@ -106,3 +106,7 @@ Se relaciona con [[libertad_humana]], [[justicia]], [[caridad]], [[conciencia_mo
 - SmTh Iª q.16 (La verdad)
 - [Juan XXIII, Pacem in Terris]
 - [EjEsp2026, cap. 5: «El esplendor de la Verdad»]
+
+### Según Mons. Tihámer Tóth (JvC)
+
+Decir siempre la verdad es «otro medio estupendo para ser hombre de carácter, sin doblez» [JvC, Cap. III]. La consigna debe ser: «Nunca mentiré». La mentira no solo es un pecado contra Dios, que es la Verdad viviente, sino que degrada moralmente al que miente. El hombre de palabra cumple lo prometido cueste lo que cueste: «La verdad a cualquier precio, debe ser tu consigna» [JvC, Cap. III].

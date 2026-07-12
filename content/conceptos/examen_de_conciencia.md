@@ -27,6 +27,12 @@ El examen debe ser el lazo de unión entre todos los ejercicios espirituales y e
 
 Advierte contra una concepción puramente negativa y matemática del examen, que puede llevar a la meticulosidad, inquietud, desaliento y escrúpulo (n.609).
 
+## Perspectivas por fuente
+
+### Según Mons. Tihámer Tóth (JvC)
+
+El examen de conciencia comienza con la sinceridad con uno mismo. JvC dedica una sección a «Sé sincero contigo mismo»: «Tras realizar cualquier acción, pregunta a tu conciencia si aprueba lo que has hecho. Pero no te engañes a ti mismo» [JvC, Cap. III]. «Habla reiteradamente contigo mismo en el silencio para que así llegues a conocerte cada vez mejor. Y, sobre todo, sé sincero con Dios. Dios es la verdad eterna y todo lo ve» [JvC, Cap. III].
+
 ## Distinciones importantes
 
 - Examen general vs. examen particular (San Ignacio).

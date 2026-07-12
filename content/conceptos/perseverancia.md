@@ -50,6 +50,11 @@ El don de fortaleza produce la paciencia y la longanimidad; la longanimidad es l
 
 [TPCr, Parte I, Cap. I; Parte III, Libro II, Cap. IV, n.613]
 
+### Según Mons. Tihámer Tóth (JvC)
+
+«Quien persevere hasta el fin se salvará» (Mt 10,22) es la divisa. JvC dedica extensas secciones a la perseverancia. La fábula del caracol y la liebre ilustra que la perseverancia vence al talento: muchos jóvenes de gran talento se quedaron atrás por su inconstancia, mientras que otros de talento mediano triunfaron con diligencia férrea y trabajo constante [JvC, Cap. II].
+
+Los ejemplos de Dante (treinta años para la Divina Comedia), Newton (quince veces su Cronología), Edison (noches de lectura técnica desde niño) y Stephenson (quince años para su locomotora) muestran que los grandes éxitos no se alcanzan «con momentáneos arranques, sino con diligente constancia durante años» [JvC, Cap. II]. La subida a la montaña del anciano de pasos reposados —que vence a los jóvenes impetuosos— enseña que para llegar a las alturas no basta un arranque juvenil, sino que es necesario «una perseverancia reposada, siempre igual, constante» [JvC, Cap. III].
 
 ## Distinciones importantes
 

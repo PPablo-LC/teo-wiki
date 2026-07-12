@@ -29,6 +29,10 @@ El Catecismo enseña que la alegría es fruto del Espíritu Santo (cf. Gál 5,22
 
 Royo Marín trata la alegría espiritual como un efecto de la inhabitación del Espíritu Santo en el alma justa y como signo de la presencia de la gracia santificante. El alma que progresa en la perfección cristiana experimenta una alegría creciente que es anticipo de la gloria futura. La alegría perfecta se alcanza en la unión transformante, donde el alma goza de Dios con una paz que sobrepasa todo sentido.
 
+### Según Mons. Tihámer Tóth (JvC)
+
+«La alegría pura es un medio para fortalecer la voluntad, es una fuente de vigor» [JvC, Cap. III]. «Lo que hagas con alegría te resultará más fácil» [JvC, Cap. III]. JvC exhorta al joven a ser «fuente de vida, de alegría, de luz, de sol, cuando la tristeza, las dificultades económicas y las múltiples preocupaciones te envuelvan» [JvC, Cap. II]. «Quienes logran más en la vida son los que cumplen siempre su deber con alma serena y la sonrisa en los labios; se alegran en silencio cuando les va bien, y sufren con entereza la desgracia» [JvC, Cap. II]. La alegría brota también del sacrificio: cuando se renuncia a algo por nobleza, «el gozo comienza a manar de las fuentes de tu alma, porque ha brotado de un golpe de azadón, es decir, del esfuerzo doloroso de tu abnegación» [JvC, Cap. III].
+
 ## Distinciones importantes
 
 - **Alegría espiritual vs. placer sensible**: la primera procede del Espíritu Santo y reside en la voluntad; el segundo depende de los sentidos corporales.

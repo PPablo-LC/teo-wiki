@@ -21,6 +21,10 @@ El hábito es una cualidad del alma que modifica establemente las potencias oper
 
 ## Perspectivas por fuente
 
+### Según Mons. Tihámer Tóth (JvC)
+
+De las acciones repetidas se forma el hábito. JvC cita el proverbio: «Siembra un pensamiento y cosecharás el deseo; siembra un deseo y recogerás la acción; siembra la acción y recogerás la costumbre; siembra la costumbre y recogerás el carácter; siembra el carácter y tendrás por cosecha tu propia suerte» [JvC, Cap. I]. El hábito se forma como el lago helado que los niños alisan patinando: al principio no está liso, pero a medida que patinan sobre él, lo convierten en una pista por la que se deslizan con facilidad. «Cuantas más veces hacemos algo, bueno o malo, tanto más nos acostumbramos, y nos deslizamos ya sin poder pararnos en la dirección tomada» [JvC, Cap. III].
+
 ### Según el Catecismo (CEC)
 
 El CEC define las virtudes como «disposiciones permanentes del alma» (§1804) y señala que las virtudes humanas son hábitos adquiridos, mientras que las virtudes teologales y los dones del Espíritu Santo son hábitos infusos (§1833). La gracia santificante dispone al alma para recibir estos hábitos sobrenaturales.

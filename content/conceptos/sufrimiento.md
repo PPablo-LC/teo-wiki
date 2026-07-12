@@ -38,6 +38,12 @@ El NT revela el sentido redentor del sufrimiento en Cristo. Jesús sufre como el
 ### Según Royo Marín (TPCr)
 
 La TPCr dedica un extenso tratado al sufrimiento (n. 230ss). Es «absolutamente necesario, tanto para reparar el pecado como para la santificación del alma» (n. 230). El sufrimiento repara el pecado restableciendo el equilibrio de la justicia divina (n. 762). Para la santificación nos configura con Cristo —«el santo es, en fin de cuentas, una fiel reproducción de Cristo, otro Cristo» (n. 764). Sus excelencias: purifica el alma, preserva del pecado, es fuente de méritos, abrevia el purgatorio, lo alcanza todo de Dios, nos hace verdaderos apóstoles —el dolor ofrecido por otros tiene fuerza redentora (n. 784)— y nos asemeja a Jesús y María (n. 786-790). Los cuatro grados del amor al sufrimiento son: resignación, conformidad, dulce aceptación y gozo completo, culminando en la «locura de la cruz» que prefiere el dolor al placer (n. 1532-1536).
+### Según Mons. Tihámer Tóth (JvC)
+
+El sufrimiento soportado sin queja es instrumento para moldear el carácter. «El sufrimiento soportado sin palabra de queja es un instrumento eficaz para moldear mi carácter y robustecer mi voluntad» [JvC, Cap. III]. Quien tiene voluntad débil se hará trizas bajo los martillazos del sufrimiento, «como un castillo de yeso». El hombre de carácter, en cambio, «echará quizás chispas, como el acero, pero también se hará más resistente» [JvC, Cap. III].
+
+Santa Catalina de Siena, luchando contra una fuerte tentación, se quejó a Jesús, y Él respondió: «Estaba en tu alma. Si no hubiera estado contigo, los pensamientos que sitiaron tu alma habrían penetrado también en tu voluntad». La oración del cristiano en el sufrimiento debe ser: «Hágase, Señor, tu voluntad, aunque no lo comprenda; Hágase, Señor, tu voluntad, por más sufrimientos que me acarree» [JvC, Cap. III].
+
 ### Según Henri de Lubac (PoF)
 
 De Lubac describe el sufrimiento como un arte del consentimiento: «El arte de sufrir es un arte de consentir», que no consiste en complacerse en el dolor ni en huir de él, sino en una «pasividad activa» [PoF, cap. 13]. La paradoja del sufrimiento cristiano es que su valor es correlativo al gozo: el sufrimiento y la alegría no son opuestos que se excluyen, sino reverso y anverso de una misma realidad. «El valor del sufrimiento es correlativo al valor del gozo» [PoF, cap. 13].
