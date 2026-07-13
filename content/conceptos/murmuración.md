@@ -43,7 +43,7 @@ La reparación de la fama es obligatoria (q.73 a.4): debe hacerse todo lo posibl
 
 ### Según Royo Marín (TPCr)
 
-TPCr trata la murmuración como pecado grave contra la justicia. Distinge entre:
+TPCr trata la murmuración como pecado grave contra la justicia. Distingue entre:
 - **Murmuración simple**: revelación de falta leve sin causa justa (pecado venial por materia)
 - **Murmuración grave**: revelación de falta grave o con daño considerable al prójimo (pecado mortal por materia)
 
@@ -54,6 +54,24 @@ La gravedad se mide por:
 4. La dignidad de la persona murmurada
 
 La reparación de la fama dañada es obligatoria, siempre que sea posible.
+
+### Según la Regla de San Benito (RegSB)
+
+La RSB concede a la murmuración una gravedad particular como amenaza a la unidad comunitaria. El capítulo 34 establece el principio general: «Ante todo cuiden de que el mal de la murmuración no aparezca por ningún motivo ya sea de palabra o por un gesto; si alguno es sorprendido en esto, será sometido a una disciplina más rigorosa». La murmuración puede aparecer en múltiples contextos: como reacción a la desigualdad en la distribución de alimentos; como desprecio a la autoridad (cap. 23); o como hábito interior que corrompe la caridad fraterna.
+
+**Lugares tópicos:** La dieta monástica (cap. 34 en el reparto igual de lo necesario); el ejercicio de la autoridad por parte del [[abad]] y del [[mayordomo]] (cap. 31); la alternancia de los oficios cuando se descuida el inventario de las [[herramientas_del_monasterio]] (cap. 32); el comienzo del oficio divino (cap. 43); la calidad y cantidad de alimentos (cap. 35, 39, 40); y el cumplimiento del [[trabajo_manual]] (cap. 44, 48).
+
+El remedio es la corrección directa: manifestar la falta al [[abad]] o a los «ancianos espirituales» (cap. 46), no difundirla a quienes nada pueden remediar.
+
+**Otros lugares de la RSB donde se menciona la murmuración:**
+
+- **Doce grados de humildad (cap. 7)**: El undécimo grado prohíbe la murmuración: el monje debe hablar con modestia, sin risa fácil, por guarda de la lengua.
+- **Instrumentos de las buenas obras (cap. 4, §22)**: La murmuración figura entre los vicios que alejan de Dios: ira, resentimiento, murmuración, dolo, soberbia, gula.
+- **Descontento en los hermanos (cap. 34)**: «La murmuración de cualquier clase es tan perjudicial que destruye hasta la concordia de la misma caridad».
+- **Semaneros de cocina (cap. 35)**: Los que sirven no deben hacerlo con murmuración, sino con solicitud de caridad.
+- **Excomunión leve por murmuración (cap. 23-24)**: La murmuración reiterada conlleva excomunión leve: privación de la mesa común y oración.
+- **Huéspedes (cap. 53, §4)**: La murmuración es instrumento diabólico que siembra discordia: «para no dar ocasión al diablo».
+
 
 ## Distinciones importantes
 

@@ -55,6 +55,19 @@ El ayuno es un remedio eficaz contra la concupiscencia de la carne. Cierto géne
 
 **Alejandro VII** (1666, D‑1132) condenó la proposición: «No es evidente que obligue la costumbre de no comer huevos y lacticinios en cuaresma.» Condenada como falsa. La costumbre eclesiástica de abstenerse de estos alimentos en cuaresma obliga en conciencia.
 
+### Según La Regla de San Benito (RegSB)
+
+La Regla integra el ayuno en la vida regular del monasterio con especificidad horaria y relacional que complementa el marco doctrinal general:
+
+- **Ayuno de los niños (cap. 30)**: Los hermanos menores de edad reciben corrección sin el ayuno riguroso de los adultos. San Benito distingue la capacidad de ayunar según la edad y la fortaleza corporal, de modo que la disciplina se aplica con medida: «Con los niños pequeños se observará en todo la medida y la corrección» (cap. 30, §3).
+- **Medida del alimento (cap. 39)**: La moderación en la comida es —junto con el ayuno— instrumento de templanza. «No abriguen la excesiva gula» (cap. 39, §6). La comida debe mantenerse en su medida; quien tiene necesidad recibe más, quien tiene menos, no murmura.
+- **Abstinencia de carne (cap. 39, §11)**: «Excepto los enfermos muy débiles, absténganse absolutamente de la carne de los cuadrúpedos».
+- **Comidas en el refectorio con lectura (cap. 41-42)**: La moderación en la comida y la lectio divina en la mesa son parte de la ascesis alimentaria: el monje no come solo, sino en comunidad y con la Palabra.
+- **Romper el ayuno por el huésped (cap. 53)**: El superior quebranta el ayuno establecido en Cuaresma en atención al huésped, a no ser que sea día principal; los hermanos mantienen la costumbre del ayuno. La hospitalidad tiene primacía sobre la costumbre ascética, cuando es deliberada.
+- **Ayuno en Cuaresma (cap. 49)**: «Desde las fiestas de la Santa Cruz hasta los gallos, si hay algo, se les da de cenar» (cap. 49, §2): la alimentación se reduce durante este tiempo litúrgico.
+- **Ayuno y abstinencia en Cuaresma (cap. 44)**: La observancia cuaresmal supone guarda de los sentidos y purificación interior mediante la abstinencia. «Toda la Cuaresma se observe con su verdadero espíritu, hasta Pascua» (cap. 44).
+- **El diablo y la propiedad (cap. 55, §16)**: Si alguien es hallado guardando algo propio sin licencia del abad, sea sometido a gravísima disciplina. La sobriedad en el vestir y comer es expresión de la mortificación de la concupiscencia.
+
 ## Distinciones importantes
 
 - No es un fin en sí mismo, sino medio de conversión y purificación

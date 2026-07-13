@@ -55,6 +55,18 @@ Se relaciona con [[destino_universal_de_los_bienes]], [[trabajo_humano]], [[capi
 
 [[destino_universal_de_los_bienes]], [[trabajo_humano]], [[capital_y_trabajo]], [[bien_común]]
 
+### Según la Regla de San Benito (RegSB)
+
+La RSB convierte la pobreza monástica en radicalidad superlativa: el vicio de la propiedad privada en el monasterio debe ser cortado «radicalmente» (radicitus amputandum), más rigurosamente que cualquier otro (cap. 33). Tras la profesión, el monje «no tiene permitido disponer a su antojo ni de sus cuerpos, ni de sus propias voluntades; en cambio debe esperar recibir todo del padre del monasterio». No le es lícito tener «absolutamente nada» propio: ni libro, ni tablillas, ni estilete.
+
+**Fundamento teológico (cap. 33):** «Todas las cosas sean de uso común, como está escrito: para que nadie llame como suya alguna cosa o así la considere». La propiedad privada es tratada como vicio radical, no como mero desorden económico: afecta a la voluntad misma del monje y destruye la comunión fraterna.
+
+**El [[mayordomo]] como custodio:** Los bienes y herramientas del [[herramientas_del_monasterio|monasterio]] son confiados por el abad a hermanos de vida segura, con inventario de lo dado y recibido. La negligencia en el manejo de estas cosas comunes se corrige con la disciplina regular (cap. 32).
+
+**La igualdad en la necesidad, no en la cantidad (cap. 34):** La regla funda la distribución no en la igualdad aritmética sino en la consideración de las debilidades: «Se repartía a cada uno según lo que necesitaba». La murmuración está rigurosamente prohibida si alguno se entristece por la porción de otro.
+
+**Fuentes:** San Benito de Nursia, *Regla de San Benito*, caps. 31–35.
+
 ## Referencias
 
 - [CompDS §282-283]

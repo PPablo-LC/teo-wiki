@@ -115,6 +115,10 @@ Se relaciona con la [[creación]] del hombre, el [[pecado_original]] que la desf
 
 - [[jeff_lacour_true_freedom_through_prayer]]
 
+## Analizado en contexto cultural
+
+- [[computer_power_and_human_reason]] — convergencia en la defensa de la irreductibilidad del hombre frente a la reducción computacional; el autor no alcanza a fundamentarla en la creación a imagen de Dios pero su diagnóstico es congruente con la doctrina de la imagen divina en el hombre.
+
 ## Ver también
 [[hombre]], [[creación]], [[alma_espiritual]], [[persona_humana]], [[justicia_original]], [[configuración_con_cristo]], [[imagen_del_hijo]], [[teología_del_cuerpo]]
 

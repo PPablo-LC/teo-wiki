@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Oración
 tags: ["ascética", "mística"]
 
-timestamp: 2026-06-20
+timestamp: 2026-07-13
 description: "La oración es la elevación de la mente a Dios para alabarle y pedirle cosas convenientes a la eterna salvación (Santo Tomás, recogiendo las definiciones de San Juan Damasceno)."
 ---
 # Oración
 
 > Área: Ascética / Mística
-> Última actualización: 2026-06-20
+> Última actualización: 2026-07-13
 
 ## Definición
 
@@ -57,6 +57,24 @@ La Vida de Jesús (VJ) recoge la oración sacerdotal de Cristo en la Última Cen
 
 **D‑1418**: «La bondad de Dios abrevió el camino de la salvación, encerrándolo todo en la fe y en la oración.» Condenada. La condena afirma que la salvación no se encierra solo en la fe y la oración, sino que requiere también los sacramentos y las buenas obras.
 
+### Según Royo Marín (TPCr)
+
+La oración es necesaria con necesidad de precepto (divino, natural y eclesiástico) y con necesidad de medio por institución divina para la salvación de los adultos (n.478). San Alfonso de Ligorio: «El que ora, se salva; y el que no ora, se condena».
+
+Las principales dificultades de la oración son las distracciones y las sequedades o arideces. Las distracciones pueden tener causas independientes de la voluntad (temperamento, salud, dirección inadecuada, demonio) o voluntarias (falta de preparación, disipación habitual). Las arideces pueden deberse a causas naturales, a la tibieza, o ser una prueba purificadora de Dios (n.482).
+
+### Según Colaciones I — Juan Casiano (ColCas-I)
+
+Juan Casiano, a través de las enseñanzas del abba Isaac, presenta la oración como el culmen de la vida monástica. En las Conferencias IX y X, distingue cuatro especies de oración: acción de gracias, petición, intercesión y alabanza (ColCas-I, Conf. IX). De estas cuatro, la oración de petición es la más necesaria para los monjes, porque los mantiene en la dependencia de Dios.
+
+Casiano enseña la **oración continua** como el grado más alto de la vida espiritual. La oración continua no consiste en estar siempre de rodillas, sino en mantener la mente unida a Dios en todo momento (ColCas-I, Conf. IX). Esta oración se alcanza cuando el alma ha adquirido el hábito de pensar en Dios en todas las circunstancias.
+
+Casiano también presenta la **oración pura** como la forma más elevada de oración: la elevación del alma a Dios sin palabras ni imágenes, en la simple contemplación de su presencia (ColCas-I, Conf. IX). Esta oración se distingue de la oración vocal y de la meditación discursiva por su simplicidad y directividad.
+
+El abba Isaac enfatiza que la perseverancia en la oración es necesaria para superar las sequedades y las tentaciones. La oración continua es la mejor defensa contra los vicios (ColCas-I, Conf. X). También presenta la herejía de los antropomorfitas, que atribuían a Dios forma humana, como ejemplo de los peligros de una oración impura (ColCas-I, Conf. X).
+
+[ColCas-I, Conferencias IX, X]
+
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás dedica la cuestión 83 de la IIa-IIae a la oración. La oración es un acto de la razón práctica (no de la voluntad) que consiste en elevar la mente a Dios. En cuanto acto de la virtud de la religión, la oración es propiamente una petición dirigida a Dios (q.83 a.1). Es acto de la razón que expresa un deseo de la voluntad.
@@ -86,6 +104,14 @@ León XIV presentó la oración como «encuentro personal con Cristo» durante l
 ### Según UDE (1994)
 
 El Espíritu Santo es el protagonista de la oración (Rm 8,26). El hombre como sacerdote de la creación. *Opus gloriae*. La oración como búsqueda de Dios y revelación de Dios. La geografía de la oración del Papa. Oración por los que sufren, por los difuntos. [UDE, Cap. II-III]
+
+### Colaciones II — Juan Casiano (ColCas-II)
+
+El abad [[nesteros|Nesteros]] expone en la Conferencia XIV que la oración constante es medio para alcanzar la ciencia espiritual. El monje debe perseverar en la oración hasta que, por la misericordia de Dios, se le conceda la entrada en el sanctasanctórum del conocimiento espiritual. La oración es el vehículo para recibir la ciencia de las Escrituras y la contemplación de las cosas divinas.
+
+Nesteros también enseña en la Conferencia XV que los carismas divinos —incluyendo el don de oración— no son garantía de santidad, pues el Señor advirtió que muchos le dirán «¿No profetizamos en tu nombre?» y Él les responderá: «Nunca os conocí» (Mt 7,22-23). El criterio supremo es la humildad y la caridad, no la potencia de los carismas.
+
+> **Referencia:** ColCas-II, Conferencia XIV, §§1-19; Conferencia XV, §§1-10
 
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
@@ -119,4 +145,5 @@ Se relaciona con la [[vida_de_oración]], los [[grados_de_oración]], la [[medit
 - SmTh IIIª q.21 aa.1-4
 - [VJ, Cap. V]
 - Denzinger D-1341–D-1343 (Inocencio XII, *Cum alias*)
+- ColCas-II, Conferencia XIV, §§1-19; Conferencia XV, §§1-10
 - Denzinger D‑1409, D‑1418 (Clemente XI, *Unigenitus*)

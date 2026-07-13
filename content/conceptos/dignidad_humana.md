@@ -127,6 +127,10 @@ JPII desarrolla la relación entre la Encarnación y la dignidad humana en las c
 ## Ver también
 [[hombre]], [[persona_humana]], [[gracia_santificante]], [[libertad_humana]], [[conciencia_moral]], [[ley_natural]], [[creación]]
 
+## Analizado en contexto cultural
+
+- [[computer_power_and_human_reason]] — convergencia en la denuncia de la deshumanización tecnológica y la instrumentalización de la persona; el autor no apela a Dios ni a la gracia pero su ética secular coincide punto por punto con la doctrina de la dignidad intrínseca e inalienable del ser humano creado a imagen de Dios.
+
 ## Referencias
 
 - CEC §27; §356-358; §362-368; §1700-1715; §1730; §2278-2279; §2479

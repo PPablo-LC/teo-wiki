@@ -39,6 +39,10 @@ Los ámbitos privilegiados de la evangelización de la cultura son: los centros 
 
 Se conecta con [[inculturación]] (método para evangelizar la cultura), [[nueva_evangelización]] (marco en el que cobra urgencia), [[educación_católica]] (ámbito privilegiado), [[medios_de_comunicación_social]] (campo de acción), [[piedad_popular]] (expresión de la fe inculturada) y [[secularización]] (desafío que hace urgente la evangelización cultural).
 
+## Analizado en contexto cultural
+
+- [[computer_power_and_human_reason]] — la obra constituye un ejemplo paradigmático de diálogo fe-cultura desde el lado secular: su denuncia de la idolatría de la técnica y su defensa de la persona entera son congruentes con la evangelización de la cultura (EA §70); el autor no alcanza a invocar a Cristo, pero su crítica abre el espacio para el anuncio de que solo en Dios el hombre encuentra la verdad que lo hace libre (cf. MH §51).
+
 ## Ver también
 
 [[inculturación]], [[nueva_evangelización]], [[educación_católica]], [[medios_de_comunicación_social]], [[piedad_popular]]

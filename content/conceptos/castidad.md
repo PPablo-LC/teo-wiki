@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Castidad
 tags: ["moral"]
 
-timestamp: 2026-06-11
+timestamp: 2026-07-13
 description: "La castidad es la virtud moral, parte subjetiva de la templanza, que modera el apetito genésico según la recta razón y la fe, integrando la sexualidad en la persona y ordenándola al don total de sí."
 ---
 # Castidad
 
 > Área: Moral
-> Última actualización: 2026-06-11
+> Última actualización: 2026-07-13
 
 ## Definición
 
@@ -52,6 +52,14 @@ El don de temor actúa sobre la castidad «llevándola hasta la delicadeza más 
 El P. Jorge Loring dedica gran parte del capítulo 12 a la pureza y la castidad en el noviazgo. La castidad no es una represión negativa, sino dominio del instinto sexual propio de la persona humana: «El poder dominar los instintos es lo específico del hombre. Cuanto más nos dominamos, más hombres; cuanto menos, más animales» (PS §12,68,14). La castidad en el noviazgo es condición para un matrimonio feliz: «Fieles hasta la muerte y puros hasta el altar».
 
 Loring distingue entre amor y lujuria: «En el amor valoro a la persona por sus cualidades, y esto me lleva a sacrificarme por el bien de ella; en la lujuria busco a la persona por las gratificaciones que me proporciona». La castidad protege el verdadero amor, que es generoso y no egoísta. Quien de soltero no ha aprendido a dominar sus impulsos, difícilmente lo logrará después de casado (PS §12,68,13-14).
+
+### Colaciones II — Juan Casiano (ColCas-II)
+
+El abad [[queremon_de_la_perfección|Queremón]] expone en la Conferencia XII la doctrina sobre la virginidad y la castidad. Define la virginidad como «la integrity de la carne y de la mente con la devoción de la castidad». La virginidad corporal se conserva con tres prácticas: «no tocar a nadie, no ser tocado por nadie, no desear que nadie te toque».
+
+Queremón presenta la virginidad como un camino espiritual en siete etapas: primero la virginidad por educación (custodia paterna), luego por voto, después por abstinencia del matrimonio, después por costumbre, después por devoción, después por ejemplo de otros, y finalmente por gracia de Dios. La virginidad perfecta es la que se consagra a Dios no solo corporalmente sino también espiritualmente.
+
+> **Referencia:** ColCas-II, Conferencia XII, §§1-34
 
 ### Según la Summa Theologiae (SmTh)
 
@@ -126,3 +134,4 @@ La [[templanza]] es la virtud cardinal de la que la castidad es parte subjetiva.
 - [TdC 14.01.1981]
 - [TdC 11.02.1981]
 - [TdC 18.03.1981]
+- ColCas-II, Conferencia XII, §§1-34

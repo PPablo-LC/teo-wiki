@@ -55,6 +55,27 @@ La obediencia propuesta es «filial: activa, libre y madura» [CapGral-2026, doc
 
 [VocTeoBib, «Obediencia»] La obediencia bíblica es adhesión libre al designio de Dios, no sumisión pasiva. En la creación, los astros acuden gozosos a la voz de Dios (Bar 3,34s). El drama comienza con la desobediencia de Adán (Rom 5,19), que contrasta con la fe obediente de Abraham (Gen 12,1; 22,2). La alianza implica una obediencia de amor (Ex 24,7; Dt 11,13-22). Cristo es nuestra obediencia: «se hizo obediente hasta la muerte y muerte de cruz» (Flp 2,8), y por su obediencia somos constituidos justos (Rom 5,19). El cristiano obedece al Evangelio, a la Iglesia (2Tes 3,14) y a las autoridades legítimas (Rom 13,1-7), pero «hay que obedecer a Dios más que a los hombres» (Act 4,19).
 
+### Según la Regla de San Benito (RSB)
+
+La obediencia es el primer grado de humildad y la piedra angular de la vida monástica benedictina. San Benito la define como obediencia sin demora (*obœdientia sine mora*), propia de quienes prefieren a Cristo por sobre todas las cosas (RB 5, 1-2; RB 7, 4).
+
+**Obediencia sin demora (primer grado de humildad; RB 5, 1-9):**
+> «El primer grado de humildad es la obediencia sin demora. Esta es propia de los que prefieren a Cristo por sobre todas las cosas. Ellos, debido a la consagración que han hecho, o bien por temor del infierno, o por la gloria de la vida eterna, en el momento en que el superior les ordena algo, lo realizan como si fuera una orden divina, sin admitir retraso en su cumplimiento.» (RB 5, 1-4)
+
+**Obediencia cordial y sin murmuración (RB 5, 14-19):**
+> «Pero esta obediencia será aceptada por Dios y dulce a los hombres si se hace aquello que se mandó sin vacilación, sin tardanza, sin frialdad, sin murmuración y sin negarse a obedecer, ya que al obedecer a los mayores, se obedece a Dios.»
+
+San Benito subraya que la murmuración en la obediencia es un pecado grave: «si el discípulo obedece de mala gana y murmura, no solo con la boca sino también con el corazón, aunque cumpla lo que se manda, ya no será agradable su obediencia a Dios, quien ve el corazón del que murmura» (RB 5, 17-18).
+
+**Obediencia como modelo de Cristo (RB 5, 10-13; RB 7, 34):**
+> «No vine a hacer mi voluntad, sino la de Aquel que me envió» (Jn 6,38, citado en RB 5, 13). El monje que obedece imita a Cristo obediente hasta la muerte: «el tercer grado de humildad consiste en que, por amor de Dios, uno mismo se someta al superior obedeciéndole en todo, imitando al Señor, de quien dice el apóstol: ‘Se hizo obediente incluso hasta la muerte’» (RB 7, 34).
+
+**Milicia y vida monástica (RB 5, 10-13):**
+El monje que obedece «toma el camino estrecho… por lo que no viven según su antojo, ni obedecen a sus propios deseos y gustos, sino que caminan bajo el juicio y la autoridad de otro, viven en los monasterios y desean que los gobierne un abad» (RB 5, 11-12).
+
+**Obediencia aun cuando el abad obre mal (RB 4, 61):**
+San Benito cita el precepto del Señor: «Hagan lo que ellos dicen, pero no lo que ellos hacen», indicando que la obediencia al superior se debe incluso cuando el superior no da buen ejemplo, a condición de que lo mandado no sea pecado.
+
 ## Distinciones importantes
 
 - Obediencia a Dios (absoluta) vs. obediencia a los hombres (relativa, limitada por la ley de Dios).
@@ -65,6 +86,18 @@ La obediencia propuesta es «filial: activa, libre y madura» [CapGral-2026, doc
 ## Denzinger
 
 D-41 (Clemente I): la Carta a los Corintios amonesta a la sedición y recuerda la obediencia debida a los presbíteros legítimamente constituidos, como ordenación divina para la paz de la Iglesia.
+
+### Según La Regla de San Benito (RegSB)
+
+La Regla hace de la obediencia la piedra angular de la vida monástica:
+
+- **Primer grado de humildad (cap. 7)**: La obediencia sin demora es el primer grado de humildad: «El que recibe el mandato del superior con prontitud y sin dilación, hace verdaderamente lo que desea» (§14). El monje que obedece sin demora participa de la humildad de Cristo, «que se hizo obediente hasta la muerte y muerte de cruz» (Flp 2,8; RegSB cap. 5).
+- **Obediencia cordial (cap. 5)**: La obediencia no es solo exterior: «oren con lágrimas y con el corazón atento» (§4). El monje debe cumplir el mandato con prontitud y con humildad del corazón, no solo con acto exterior.
+- **Renuncia a la propia voluntad (cap. 5, §7-9)**: La verdadera obediencia implica renunciar a la propia voluntad: «el discípulo presenta su mano al superior, como habituado a sufrir por Cristo» — expresión de la condición de soldado de la milicia de Cristo.
+- **Obediencia sin murmuración (cap. 5, §14-19)**: De la obediencia cordial mana la ausencia de murmuración: «no murmure el que obedece, aunque sea gravoso el mandato»; la murmuración desvirtúa la obediencia.
+- **Obediencia mutua (cap. 71)**: No solo al abad, sino también los hermanos deben obedecerse mutuamente, conscientes de que por este camino de la obediencia llegarán a Dios.
+- **Cumplimiento por satisfacción (cap. 71, §6-8)**: Si un hermano es corregido, debe postrarse inmediatamente ante el superior hasta que con la bendición se calme la inquietud. La obediencia incluye la humildad de la recepción de la corrección.
+- **Objetivo supremo (cap. 5, §10-13)**: La obediencia conduce a la vida eterna y allana el camino angosto de la salvación.
 
 ## Relaciones doctrinales
 

@@ -63,6 +63,10 @@ Juan Pablo II afirma que la fe en Cristo revela al hombre su dignidad y el «sen
 
 Se relaciona con [[educación]], [[educación_católica]], [[humanismo_integral]], [[autonomía_de_las_realidades_terrenas]], [[ciencia]], [[arte]]
 
+## Analizado en contexto cultural
+
+- [[computer_power_and_human_reason]] — convergencia en la crítica cultural al cientismo y a la reducción de la educación a mera transmisión de habilidades técnicas; defiende la universidad como comunidad de búsqueda de la verdad y denuncia la pobreza cultural de la sociedad tecnocrática; el autor no habla de evangelización pero su crítica prepara el terreno para una evangelización de la cultura.
+
 ## Ver también
 
 [[educación]], [[humanismo_integral]], [[autonomía_de_las_realidades_terrenas]], [[educación_católica]]

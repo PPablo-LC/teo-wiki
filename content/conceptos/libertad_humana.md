@@ -66,6 +66,10 @@ La libertad es «una categoría ética» que se realiza por medio de la verdad. 
 - [GS 17]
 - [Santo Tomás, S.Th. I, q. 83; I-II, q. 13]
 
+## Analizado en contexto cultural
+
+- [[computer_power_and_human_reason]] — convergencia en la defensa de la libertad humana frente a la tiranía de los sistemas tecnológicos y en la distinción entre *decidir* y *elegir*; el análisis permanece en el plano filosófico sin alcanzar la dimensión sobrenatural de la libertad (CEC §1741-1742).
+
 ## Ver también
 [[actos_humanos]], [[conciencia_moral]], [[ley_natural]], [[gracia_santificante]], [[pecado]], [[virtudes]]
 

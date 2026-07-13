@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Vida Consagrada
 tags: ["eclesiología", "ascética"]
 
-timestamp: 2026-05-25
+timestamp: 2026-07-13
 description: "Estado de vida estable reconocido por la Iglesia, caracterizado por la profesión pública de los consejos evangélicos de castidad, pobreza y obediencia."
 ---
 # Vida Consagrada
 
 > Área: Eclesiología / Ascética
-> Última actualización: 2026-05-25
+> Última actualización: 2026-07-13
 
 ## Definición
 
@@ -36,6 +36,14 @@ El Decreto *Perfectae Caritatis* está dedicado enteramente a la renovación de 
 ### Según Royo Marín (TPCr)
 
 El estado religioso constituye un verdadero estado de perfección, por el cual los religiosos se consagran totalmente al servicio de Dios, ofreciéndose a Él en holocausto. Su fin propio es llegar a la perfección de la caridad. Consiste esencialmente en los tres votos de pobreza, castidad y obediencia. La vida común es necesaria para la forma canónica del estado religioso. El religioso está obligado a tender a la perfección de la caridad (TPCr, Parte III, Libro III).
+
+### Colaciones II — Juan Casiano (ColCas-II)
+
+Juan Casiano, por boca de los abades [[queremon_de_la_perfección|Queremón]], [[nesteros|Nesteros]], [[piamón|Piamón]] y [[juan_monje|Juan]], expone en las Conferencias XI-XX la doctrina sobre la vida monástica consagrada. El abad Queremón define la perfección como no aferrarse a nada bueno temporal, no sentir la tristeza y no conocer la cólera (Conf. XI). El abad Nesteros distingue entre la ciencia práctica (reforma de costumbres) y la teorética (contemplación), y presenta los carismas como dones para la edificación de la Iglesia (Conf. XIV-XV).
+
+El abad Piamón clasifica los cuatro géneros de monjes: cenobitas (vida común bajo obediencia), anacoretas (vida solitaria), sarabaítas (sin obediencia) y giróvagos (vagabundos) (Conf. XVIII). El abad Juan distingue los fines propios del cenobita (mortificar la voluntad mediante la obediencia) y del ermitaño (la unión con Cristo en la contemplación) (Conf. XIX).
+
+> **Referencia:** ColCas-II, Conferencias XI, XIV-XV, XVIII-XIX
 
 ### Según el Capítulo General CapGral-2026
 
@@ -70,4 +78,5 @@ El V Capítulo General ordinario de los Legionarios de Cristo (2026) se sitúa d
 
 - CEC §914-945
 - TPCr, Parte III, Libro III
+- ColCas-II, Conferencias XI, XIV-XV, XVIII-XIX
 - CIC cc. 573-606, 603, 604

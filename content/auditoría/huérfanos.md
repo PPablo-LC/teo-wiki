@@ -1,18 +1,15 @@
 ---
 type: Concepto Teológico
 title: Auditoría de wikilinks huérfanos
-timestamp: 2026-07-01
-description: "Registro de wikilinks sin artículo propio en el wiki, con detección mejorada que normaliza acentos e incluye #section. Última actualización con 812 huérfanos categorizados."
+timestamp: 2026-07-13
+description: "Registro de wikilinks sin artículo propio en el wiki. Última actualización 2026-07-13 con 688 huérfanos categorizados."
 ---
 # Auditoría de wikilinks huérfanos
 
-> Generado: 2026-06-19 19:25
-> Última actualización: 2026-07-02 (sesión 3)
-> Total de wikilinks huérfanos originales: 588 (con ≥1 referencias)
-> Artículos creados en esta sesión: 24 (alta/media) + 36 (4+3+2 refs, 2026-06-28) + 15 (conceptos con 3+ refs, 2026-07-02)
-> Nuevos huérfanos detectados (2026-07-01, detección mejorada): 812 únicos clasificados (ver abajo)
-> Falsos positivos corregidos en esta sesión: [[subsidiaridad]]→[[subsidiariedad]], [[siervo_de_yahveh]]→[[siervo_de_yahvé]], [[acidia]]→[[acedia]], [[maría]]→[[virgen_maría]], [[poder_de_dios]]→[[poder]], [[reino]]→[[reino_de_dios]], [[cuerpo_místico_de_cristo]]→[[cuerpo_místico]] (49 referencias total)
-> Artículos creados en esta sesión: [[humildad_de_cristo]], [[sacrificio_de_cristo]], [[acción_de_gracias]], [[satisfacción_de_cristo]], [[sangre_de_cristo]] (5 artículos, 6 dogmática con ≥4 refs)
+> Generado originalmente: 2026-06-19
+> Última actualización: 2026-07-13 (tras creación de 30 artículos SmTh)
+> Total de wikilinks huérfanos actuales: 688
+> Artículos creados 2026-07-13: [[hilemorfismo]], [[imago_dei]], [[visio_beatifica]], [[ciencia_media]], [[potencia_absoluta]], [[potencia_ordenada]], [[gracia_capital]], [[cristo_cabeza]], [[conocimiento_de_cristo]], [[voluntad_humana_de_cristo]], [[autoridad_de_cristo]], [[muerte_espiritual]], [[limbo_de_los_padres]], [[forma]], [[miseria_humana]], [[conocimiento_sensitivo]], [[espiritualidad_e_inmortalidad_del_alma]], [[entendimiento_divino]], [[eternidad_divina]], [[inmanencia_divina]], [[poder_divino]], [[gobierno_del_mundo]], [[providencia_y_gobierno]], [[bondad_divina]], [[nociones_divinas]], [[omnipresencia]], [[verbo_mental]], [[segunda_persona_de_la_trinidad]], [[pena]], [[remordimiento]] (30 artículos)
 
 ## Metodología
 
@@ -28,941 +25,695 @@ vs guion bajo, o sinónimo reconocido).
 
 ## Resultados: wikilinks verdaderamente huérfanos
 
-| # | Wikilink | Referencias | Prioridad | Notas |
-|---|----------|-------------|-----------|-------|
-| 1 | `[[imitación_de_Cristo]]` | 12 | alta | ✅ Creado 2026-06-19 |
-| 2 | `[[apocalipsis]]` | 9 | media | ✅ Creado 2026-06-19 |
-| 3 | `[[navidad]]` | 8 | media | ✅ Creado 2026-06-19 |
-| 4 | `[[teofanía]]` | 8 | media | ✅ Creado 2026-06-19 |
-| 5 | `[[aborto]]` | 7 | media | ✅ Creado 2026-06-19 |
-| 6 | `[[inconsideración]]` | 7 | media | ✅ Creado 2026-06-19 |
-| 7 | `[[seguir_a_cristo]]` | 7 | media | ✅ Creado 2026-06-19 |
-| 8 | `[[subsidiaridad]]` | 7 | media | Falso positivo (existe [[subsidiariedad]]) |
-| 9 | `[[combate_espiritual]]` | 6 | media | ✅ Creado 2026-06-19 |
-| 10 | `[[acidia]]` | 5 | media | Ya existía (acedia.md) |
-| 11 | `[[esposa]]` | 5 | media | ✅ Creado 2026-06-19 |
-| 12 | `[[gaudete_et_exsultate]]` | 5 | media | ✅ Creado 2026-06-19 |
-| 13 | `[[infancia_espiritual]]` | 5 | media | ✅ Creado 2026-06-19 |
-| 14 | `[[intemperancia]]` | 5 | media | ✅ Creado 2026-06-19 |
-| 15 | `[[job]]` | 5 | media | ✅ Creado 2026-06-19 |
-| 16 | `[[magia]]` | 5 | media | ✅ Creado 2026-06-19 |
-| 17 | `[[moralidad]]` | 5 | media | ✅ Creado 2026-06-19 |
-| 18 | `[[nueva_jerusalén]]` | 5 | media | ✅ Creado 2026-06-19 |
-| 19 | `[[pensamiento]]` | 5 | media | ✅ Creado 2026-06-19 |
-| 20 | `[[persona_física]]` | 5 | media | ✅ Creado 2026-06-19 |
-| 21 | `[[precipitación]]` | 5 | media | ✅ Creado 2026-06-19 |
-| 22 | `[[sinaí]]` | 5 | media | ✅ Creado 2026-06-19 |
-| 23 | `[[teología_del_cuerpo]]` | 5 | media | ✅ Creado 2026-06-19 |
-| 24 | `[[vid_verdadera]]` | 5 | media | ✅ Creado 2026-06-19 |
-| 25 | `[[vida_humana]]` | 5 | media | ✅ Creado 2026-06-19 |
-| 26 | `[[órdenes_sagradas]]` | 5 | media | ✅ Creado 2026-06-19 |
-| 27 | `[[adulterio]]` | 4 | baja | ✅ Creado 2026-06-28 |
-| 28 | `[[agua_viva]]` | 4 | baja | ✅ Creado 2026-06-28 |
-| 29 | `[[antecristo]]` | 4 | baja | Falso positivo (existe [[anticristo]]) |
-| 30 | `[[bondad_y_malicia]]` | 4 | baja | ✅ Creado 2026-06-28 |
-| 31 | `[[buen_pastor]]` | 4 | baja | ✅ Creado 2026-06-28 |
-| 32 | `[[carisma]]` | 4 | baja | Falso positivo (existe [[carismas]]) |
-| 33 | `[[clérigo]]` | 4 | baja | ✅ Creado 2026-06-28 |
-| 34 | `[[compasión]]` | 4 | baja | ✅ Creado 2026-06-28 |
-| 35 | `[[concupiscible]]` | 4 | baja | ✅ Creado 2026-06-28 |
-| 36 | `[[confesión_de_fe]]` | 4 | baja | ✅ Creado 2026-06-28 |
-| 37 | `[[cosecha]]` | 4 | baja | ✅ Creado 2026-06-28 |
-| 38 | `[[cosmología]]` | 4 | baja | ✅ Creado 2026-06-28 |
-| 39 | `[[cuerpo_de_cristo]]` | 4 | baja | Ya existía (creado 2026-06-23) |
-| 40 | `[[debilidad]]` | 4 | baja | ✅ Creado 2026-06-28 |
-| 41 | `[[defensor_del_vínculo]]` | 4 | baja | ✅ Creado 2026-06-28 |
-| 42 | `[[demonios]]` | 4 | baja | ✅ Creado 2026-06-28 |
-| 43 | `[[discernimiento_espiritual]]` | 4 | baja | Ya existía (creado 2026-06-23) |
-| 44 | `[[engaño]]` | 4 | baja | ✅ Creado 2026-06-28 |
-| 45 | `[[equidad]]` | 4 | baja | ✅ Creado 2026-06-28 |
-| 46 | `[[eutanasia]]` | 4 | baja | ✅ Creado 2026-06-28 |
-| 47 | `[[hombre_nuevo]]` | 4 | baja | Ya existía (creado 2026-06-20) |
-| 48 | `[[honor]]` | 4 | baja | Ya existía (creado 2026-06-23) |
-| 49 | `[[inconstancia]]` | 4 | baja | Ya existía (creado 2026-06-23) |
-| 50 | `[[inculturación_del_evangelio]]` | 4 | baja | ✅ Creado 2026-06-28 |
-| 51 | `[[irascible]]` | 4 | baja | Ya existía (creado 2026-06-23) |
-| 52 | `[[isaías]]` | 4 | baja | ✅ Creado 2026-06-28 |
-| 53 | `[[justicia_de_dios]]` | 4 | baja | ✅ Creado 2026-06-28 |
-| 54 | `[[justicia_legal]]` | 4 | baja | Ya existía (creado 2026-06-23) |
-| 55 | `[[latría]]` | 4 | baja | Ya existía (creado 2026-06-23) |
-| 56 | `[[lavatorio_de_los_pies]]` | 4 | baja | Ya existía (creado 2026-06-23) |
-| 57 | `[[liberación]]` | 4 | baja | |
-| 58 | `[[libertad_interior]]` | 4 | baja | ✅ Creado 2026-06-28 |
-| 59 | `[[ministerio]]` | 4 | baja | |
-| 60 | `[[ministerio_pastoral]]` | 4 | baja | |
-| 61 | `[[nombre_de_dios]]` | 4 | baja | |
-| 62 | `[[noviciado]]` | 4 | baja | ✅ Creado 2026-06-28 |
-| 63 | `[[palabra]]` | 4 | baja | |
-| 64 | `[[parresía]]` | 4 | baja | |
-| 65 | `[[pena_del_fuego]]` | 4 | baja | |
-| 66 | `[[pobres]]` | 4 | baja | |
-| 67 | `[[precursor]]` | 4 | baja | |
-| 68 | `[[presbiterado]]` | 4 | baja | |
-| 69 | `[[profesión_religiosa]]` | 4 | baja | |
-| 70 | `[[profetas]]` | 4 | baja | |
-| 71 | `[[promotor_de_justicia]]` | 4 | baja | |
-| 72 | `[[protección_divina]]` | 4 | baja | |
-| 73 | `[[prudencia_de_la_carne]]` | 4 | baja | |
-| 74 | `[[pueblo]]` | 4 | baja | |
-| 75 | `[[purificación]]` | 4 | baja | ✅ Creado 2026-06-28 |
-| 76 | `[[pública_honestidad]]` | 4 | baja | |
-| 77 | `[[sencillez]]` | 4 | baja | ✅ Creado 2026-06-28 |
-| 78 | `[[sentido_literal]]` | 4 | baja | ✅ Creado 2026-06-28 |
-| 79 | `[[siervo_de_yahveh]]` | 4 | baja | Falso positivo (existe [[siervo_de_yahvé]]) |
-| 80 | `[[sión]]` | 4 | baja | ✅ Creado 2026-06-28 |
-| 81 | `[[tabernáculo]]` | 4 | baja | ✅ Creado 2026-06-28 |
-| 82 | `[[universalismo]]` | 4 | baja | |
-| 83 | `[[vida_eremítica]]` | 4 | baja | ✅ Creado 2026-06-28 |
-| 84 | `[[Jerusalén_celestial]]` | 3 | baja | |
-| 85 | `[[abandono_en_la_Divina_Providencia]]` | 3 | baja | |
-| 86 | `[[abandono_en_la_providencia]]` | 3 | baja | |
-| 87 | `[[acción de gracias]]` | 3 | baja | |
-| 88 | `[[acogida]]` | 3 | baja | |
-| 89 | `[[amor_filial]]` | 3 | baja | |
-| 90 | `[[apropiación]]` | 3 | baja | |
-| 91 | `[[apóstol]]` | 3 | baja | |
-| 92 | `[[ascesis]]` | 3 | baja | |
-| 93 | `[[babilonia]]` | 3 | baja | |
-| 94 | `[[bendición_eucarística]]` | 3 | baja | |
-| 95 | `[[bestia_bestias]]` | 3 | baja | |
-| 96 | `[[bodas_de_caná]]` | 3 | baja | |
-| 97 | `[[bodas_del_cordero]]` | 3 | baja | |
-| 98 | `[[calma_de_la_tempestad]]` | 3 | baja | |
-| 99 | `[[capital]]` | 3 | baja | |
-| 100 | `[[capitalismo]]` | 3 | baja | |
-| 101 | `[[cardenal]]` | 3 | baja | |
-| 102 | `[[castidad_conyugal]]` | 3 | baja | |
-| 103 | `[[causas_segundas]]` | 3 | baja | |
-| 104 | `[[celibato_por_el_reino]]` | 3 | baja | |
-| 105 | `[[compasión_de_maría]]` | 3 | baja | |
-| 106 | `[[concubinato]]` | 3 | baja | |
-| 107 | `[[condenación]]` | 3 | baja | |
-| 108 | `[[condenación_eterna]]` | 3 | baja | |
-| 109 | `[[confesión_de_Pedro]]` | 3 | baja | |
-| 110 | `[[conocimiento_humano]]` | 3 | baja | |
-| 111 | `[[contingencia]]` | 3 | baja | |
-| 112 | `[[corresponsabilidad]]` | 3 | baja | |
-| 113 | `[[cuidados_paliativos]]` | 3 | baja | |
-| 114 | `[[cultura_del_descarte]]` | 3 | baja | ✅ Creado 2026-06-28 |
-| 115 | `[[cultura_digital]]` | 3 | baja | |
-| 116 | `[[defectos_asumidos_por_cristo]]` | 3 | baja | |
-| 117 | `[[derecho_de_resistencia]]` | 3 | baja | |
-| 118 | `[[descanso_sabático]]` | 3 | baja | |
-| 119 | `[[diaconía]]` | 3 | baja | |
-| 120 | `[[diakonía]]` | 3 | baja | |
-| 121 | `[[discípulo_amado]]` | 3 | baja | |
-| 122 | `[[dispensa]]` | 3 | baja | |
-| 123 | `[[dispensa_matrimonial]]` | 3 | baja | |
-| 124 | `[[diálogo]]` | 3 | baja | |
-| 125 | `[[doble_efecto]]` | 3 | baja | |
-| 126 | `[[enseñanza]]` | 3 | baja | |
-| 127 | `[[epiqueia]]` | 3 | baja | |
-| 128 | `[[esclava_del_señor]]` | 3 | baja | |
-| 129 | `[[esclavitud_del_pecado]]` | 3 | baja | |
-| 130 | `[[estado_de_derecho]]` | 3 | baja | |
-| 131 | `[[exaltación]]` | 3 | baja | |
-| 132 | `[[exégesis]]` | 3 | baja | |
-| 133 | `[[falta_de_fervor]]` | 3 | baja | |
-| 134 | `[[fidelidad_de_dios]]` | 3 | baja | |
-| 135 | `[[figura_y_realidad]]` | 3 | baja | |
-| 136 | `[[fornicación]]` | 3 | baja | |
-| 137 | `[[francisco_de_vitoria]]` | 3 | baja | |
-| 138 | `[[genocidio]]` | 3 | baja | |
-| 139 | `[[gloria_de_cristo]]` | 3 | baja | |
-| 140 | `[[gn_3_15]]` | 3 | baja | |
-| 141 | `[[gracia_capital]]` | 3 | baja | |
-| 142 | `[[hermenéutica]]` | 3 | baja | |
-| 143 | `[[humanidad_de_cristo]]` | 3 | baja | |
-| 144 | `[[humildad_de_cristo]]` | 3 | baja | |
-| 145 | `[[iglesia_pueblo_de_dios]]` | 3 | baja | |
-| 146 | `[[inmensidad_divina]]` | 3 | baja | |
-| 147 | `[[interioridad]]` | 3 | baja | |
-| 148 | `[[juicio_de_dios]]` | 3 | baja | |
-| 149 | `[[justos_del_antiguo_testamento]]` | 3 | baja | |
-| 150 | `[[kairós]]` | 3 | baja | |
-| 151 | `[[kyrios]]` | 3 | baja | |
-| 152 | `[[laicidad]]` | 3 | baja | |
-| 153 | `[[lamento]]` | 3 | baja | |
-| 154 | `[[lenguas_bíblicas]]` | 3 | baja | |
-| 155 | `[[luis_maría_grignion_de_montfort]]` | 3 | baja | |
-| 156 | `[[memoria_maternal_iglesia]]` | 3 | baja | |
-| 157 | `[[mentoría]]` | 3 | baja | |
-| 158 | `[[moral]]` | 3 | baja | |
-| 159 | `[[noveno_mandamiento]]` | 3 | baja | |
-| 160 | `[[obediencia_apostólica]]` | 3 | baja | |
-| 161 | `[[obediencia_de_cristo]]` | 3 | baja | |
-| 162 | `[[obras_buenas]]` | 3 | baja | |
-| 163 | `[[ordinario]]` | 3 | baja | |
-| 164 | `[[pablo_de_tarso]]` | 3 | baja | |
-| 165 | `[[papado]]` | 3 | baja | |
-| 166 | `[[parábola_de_la_cizaña]]` | 3 | baja | |
-| 167 | `[[parábola_del_sembrador]]` | 3 | baja | |
-| 168 | `[[patria_celestial]]` | 3 | baja | |
-| 169 | `[[pedro]]` | 3 | baja | |
-| 170 | `[[pena_de_sentido]]` | 3 | baja | |
-| 171 | `[[pequeña_vía]]` | 3 | baja | |
-| 172 | `[[peregrinaciones]]` | 3 | baja | |
-| 173 | `[[piedad_filial]]` | 3 | baja | |
-| 174 | `[[polarización]]` | 3 | baja | |
-| 175 | `[[precepto]]` | 3 | baja | |
-| 176 | `[[primogénito]]` | 3 | baja | |
-| 177 | `[[prueba_tentacion]]` | 3 | baja | |
-| 178 | `[[recogimiento]]` | 3 | baja | |
-| 179 | `[[redemption]]` | 3 | baja | |
-| 180 | `[[redentor]]` | 3 | baja | |
-| 181 | `[[reforma_de_la_iglesia]]` | 3 | baja | |
-| 182 | `[[reincidencia]]` | 3 | baja | |
-| 183 | `[[retiro_espiritual]]` | 3 | baja | |
-| 184 | `[[reverencia]]` | 3 | baja | |
-| 185 | `[[rito_romano]]` | 3 | baja | |
-| 186 | `[[sabiduría_divina]]` | 3 | baja | |
-| 188 | `[[sanación_interior]]` | 3 | baja | |
-| 189 | `[[sangre_de_cristo]]` | 3 | baja | |
-| 190 | `[[sanidad]]` | 3 | baja | |
-| 191 | `[[santa_indiferencia]]` | 3 | baja | |
-| 192 | `[[santidad_de_dios]]` | 3 | baja | |
-| 193 | `[[semana_santa]]` | 3 | baja | |
-| 194 | `[[señales_de_los_tiempos]]` | 3 | baja | |
-| 195 | `[[soberanía]]` | 3 | baja | |
-| 196 | `[[susurración]]` | 3 | baja | |
-| 197 | `[[teodicea]]` | 3 | baja | |
-| 198 | `[[teología_bíblica]]` | 3 | baja | |
-| 199 | `[[triunfo]]` | 3 | baja | |
-| 200 | `[[unidad_del_matrimonio]]` | 3 | baja | |
-| 201 | `[[victoria_de_cristo]]` | 3 | baja | |
-| 202 | `[[virgen_de_los_dolores]]` | 3 | baja | |
-| 203 | `[[virtud_esperanza]]` | 3 | baja | |
-| 204 | `[[virtud_teologal]]` | 3 | baja | |
-| 205 | `[[visión]]` | 3 | baja | |
-| 206 | `[[vocación_cristiana]]` | 3 | baja | |
-| 207 | `[[ética_kantiana]]` | 3 | baja | |
-| 208 | `[[ética_médica]]` | 3 | baja | |
-| 209 | `[[... seguir_a_cristo ...]]` | 2 | baja | |
-| 210 | `[[1_corintios]]` | 2 | baja | |
-| 211 | `[[Carmelo]]` | 2 | baja | |
-| 212 | `[[Flp_2,6-11]]` | 2 | baja | |
-| 213 | `[[Irlanda]]` | 2 | baja | |
-| 214 | `[[abogado_canónico]]` | 2 | baja | |
-| 215 | `[[acció_católica]]` | 2 | baja | |
-| 216 | `[[acompañamiento_pastoral]]` | 2 | baja | |
-| 217 | `[[actividad_humana]]` | 2 | baja | |
-| 218 | `[[actividad_misional]]` | 2 | baja | |
-| 219 | `[[adaptación_cultural]]` | 2 | baja | |
-| 220 | `[[adopción]]` | 2 | baja | |
-| 221 | `[[agradecimiento]]` | 2 | baja | |
-| 222 | `[[alas_de_dios]]` | 2 | baja | |
-| 223 | `[[alegoría]]` | 2 | baja | |
-| 224 | `[[amistad]]` | 2 | baja | |
-| 225 | `[[amor_fraterno]]` | 2 | baja | |
-| 226 | `[[amor_y_responsabilidad]]` | 2 | baja | |
-| 227 | `[[ansiedad]]` | 2 | baja | |
-| 228 | `[[antropología_teológica]]` | 2 | baja | |
-| 229 | `[[anuncio_del_evangelio]]` | 2 | baja | |
-| 230 | `[[anuncio_profético]]` | 2 | baja | |
-| 231 | `[[apostolado_intelectual]]` | 2 | baja | |
-| 232 | `[[arquitectura_religiosa]]` | 2 | baja | |
-| 233 | `[[asentimiento_religioso]]` | 2 | baja | |
-| 234 | `[[astrología]]` | 2 | baja | |
-| 235 | `[[autoridad_de_cristo]]` | 2 | baja | |
-| 236 | `[[babel_babilonia]]` | 2 | baja | |
-| 237 | `[[barcelona]]` | 2 | baja | |
-| 238 | `[[bautismo_de_cristo]]` | 2 | baja | |
-| 239 | `[[bautista]]` | 2 | baja | |
-| 240 | `[[belleza_espiritual]]` | 2 | baja | |
-| 241 | `[[betel]]` | 2 | baja | |
-| 242 | `[[biblia]]` | 2 | baja | |
-| 243 | `[[boca]]` | 2 | baja | |
-| 244 | `[[buen_samaritano]]` | 2 | baja | |
-| 245 | `[[cambio_cultural]]` | 2 | baja | |
-| 246 | `[[candelero]]` | 2 | baja | |
-| 247 | `[[canon_747]]` | 2 | baja | |
-| 248 | `[[canon_bíblico]]` | 2 | baja | |
-| 249 | `[[cantar_de_los_cantares]]` | 2 | baja | |
-| 250 | `[[canto_litúrgico]]` | 2 | baja | |
-| 251 | `[[cardenal_secretario_de_estado]]` | 2 | baja | |
-| 252 | `[[catalina_labouré]]` | 2 | baja | |
-| 253 | `[[causas_estructurales_de_la_migración]]` | 2 | baja | |
-| 254 | `[[ciencia_divina]]` | 2 | baja | |
-| 255 | `[[cientificismo]]` | 2 | baja | |
-| 256 | `[[cirilo_de_alejandría]]` | 2 | baja | |
-| 257 | `[[ciudad]]` | 2 | baja | |
-| 258 | `[[ciudades_de_refugio]]` | 2 | baja | |
-| 259 | `[[clarisas]]` | 2 | baja | |
-| 260 | `[[cobardía]]` | 2 | baja | |
-| 261 | `[[coherederos]]` | 2 | baja | |
-| 262 | `[[colonización]]` | 2 | baja | |
-| 263 | `[[complementariedad_conyugal]]` | 2 | baja | |
-| 264 | `[[comunicación_in_sacris]]` | 2 | baja | |
-| 265 | `[[confesión_judicial]]` | 2 | baja | |
-| 266 | `[[configuración_sacramental]]` | 2 | baja | |
-| 267 | `[[congregaciones_romanas]]` | 2 | baja | |
-| 268 | `[[conocimiento_sensitivo]]` | 2 | baja | |
-| 269 | `[[constancia]]` | 2 | baja | |
-| 270 | `[[consumación_de_los_tiempos]]` | 2 | baja | |
-| 271 | `[[consumación_del_matrimonio]]` | 2 | baja | |
-| 272 | `[[consumismo]]` | 2 | baja | |
-| 273 | `[[continencia_periódica]]` | 2 | baja | |
-| 274 | `[[conyugalidad]]` | 2 | baja | |
-| 275 | `[[corazón_humano]]` | 2 | baja | |
-| 276 | `[[creación_del_hombre]]` | 2 | baja | |
-| 277 | `[[crecimiento_espiritual]]` | 2 | baja | |
-| 278 | `[[cristo_luz]]` | 2 | baja | |
-| 279 | `[[cristo_resucitado]]` | 2 | baja | |
-| 280 | `[[cristo_rey]]` | 2 | baja | |
-| 281 | `[[culto_de_las_imágenes]]` | 2 | baja | |
-| 282 | `[[daniel]]` | 2 | baja | |
-| 283 | `[[dc-convivium]]` | 2 | baja | |
-| 284 | `[[dedicación]]` | 2 | baja | |
-| 285 | `[[demostración]]` | 2 | baja | |
-| 286 | `[[denuncia_profética]]` | 2 | baja | |
-| 287 | `[[depresión]]` | 2 | baja | |
-| 288 | `[[derecho_de_gentes]]` | 2 | baja | |
-| 289 | `[[derecho_natural]]` | 2 | baja | |
-| 290 | `[[derrota_de_satanás]]` | 2 | baja | |
-| 291 | `[[desagravio_eucarístico]]` | 2 | baja | |
-| 292 | `[[desconfianza]]` | 2 | baja | |
-| 293 | `[[desiderio_desideravi]]` | 2 | baja | |
-| 294 | `[[dies_irae]]` | 2 | baja | |
-| 295 | `[[diezmo]]` | 2 | baja | |
-| 296 | `[[dificultades]]` | 2 | baja | |
-| 297 | `[[dilexit_nos]]` | 2 | baja | |
-| 298 | `[[diligencia]]` | 2 | baja | |
-| 299 | `[[diplomacia_pontificia]]` | 2 | baja | |
-| 300 | `[[discernimiento_evangélico]]` | 2 | baja | |
-| 301 | `[[discernimiento_pastoral]]` | 2 | baja | |
-| 302 | `[[dispersión_de_los_pueblos]]` | 2 | baja | |
-| 303 | `[[divina_misericordia]]` | 2 | baja | |
-| 304 | `[[divulgación]]` | 2 | baja | |
-| 305 | `[[diáconos]]` | 2 | baja | |
-| 306 | `[[diáspora]]` | 2 | baja | |
-| 307 | `[[doce_tribus]]` | 2 | baja | |
-| 308 | `[[dolor_de_maría]]` | 2 | baja | |
-| 309 | `[[dom de las pasiones]]` | 2 | baja | |
-| 310 | `[[dragón]]` | 2 | baja | |
-| 311 | `[[economía de la salvación]]` | 2 | baja | |
-| 312 | `[[educación_afectiva]]` | 2 | baja | |
-| 313 | `[[educación_cristiana]]` | 2 | baja | |
-| 314 | `[[ejemplo_de_cristo]]` | 2 | baja | |
-| 315 | `[[encuentro]]` | 2 | baja | |
-| 316 | `[[encuentro_con_cristo]]` | 2 | baja | |
-| 317 | `[[enfermedad_curacion]]` | 2 | baja | |
-| 318 | `[[enseñanza_de_jesús]]` | 2 | baja | |
-| 319 | `[[entendimiento_divino]]` | 2 | baja | |
-| 320 | `[[epifania]]` | 2 | baja | |
-| 321 | `[[epíclesis]]` | 2 | baja | |
-| 322 | `[[ermitaños]]` | 2 | baja | |
-| 323 | `[[escatalogía]]` | 2 | baja | |
-| 324 | `[[esclavitud]]` | 2 | baja | |
-| 325 | `[[escribas]]` | 2 | baja | |
-| 326 | `[[espiritualidad_e_inmortalidad_del_alma]]` | 2 | baja | |
-| 327 | `[[estado_de_gracia]]` | 2 | baja | |
-| 328 | `[[estado_y_economía]]` | 2 | baja | |
-| 329 | `[[estipendio]]` | 2 | baja | |
-| 330 | `[[estipendio_de_misa]]` | 2 | baja | |
-| 331 | `[[eternidad_divina]]` | 2 | baja | |
-| 332 | `[[evangelii_gaudium]]` | 2 | baja | |
-| 333 | `[[examen]]` | 2 | baja | |
-| 334 | `[[experiencia_mística]]` | 2 | baja | |
-| 335 | `[[exsultet]]` | 2 | baja | |
-| 336 | `[[exégesis_de_juan]]` | 2 | baja | |
-| 337 | `[[ezequiel]]` | 2 | baja | |
-| 338 | `[[falsos_dioses]]` | 2 | baja | |
-| 339 | `[[falsos_profetas]]` | 2 | baja | |
-| 340 | `[[falta_de_confianza_en_dios]]` | 2 | baja | |
-| 341 | `[[familia_cristiana]]` | 2 | baja | |
-| 342 | `[[faraón]]` | 2 | baja | |
-| 343 | `[[fe_viva]]` | 2 | baja | |
-| 344 | `[[fenomenología]]` | 2 | baja | |
-| 345 | `[[fermento_evangélico]]` | 2 | baja | |
-| 346 | `[[fiesta]]` | 2 | baja | |
-| 347 | `[[fondo_diocesano]]` | 2 | baja | |
-| 348 | `[[forma]]` | 2 | baja | |
-| 349 | `[[formación_del_carácter]]` | 2 | baja | |
-| 350 | `[[fuego_del_infierno]]` | 2 | baja | |
-| 351 | `[[fundamento]]` | 2 | baja | |
-| 352 | `[[gabriel_arcángel]]` | 2 | baja | |
-| 353 | `[[genealogía_de_cristo]]` | 2 | baja | |
-| 354 | `[[generaciones]]` | 2 | baja | |
-| 355 | `[[generación_divina]]` | 2 | baja | |
-| 356 | `[[gentil]]` | 2 | baja | |
-| 357 | `[[gnosticismo]]` | 2 | baja | |
-| 358 | `[[gobierno_colegial]]` | 2 | baja | |
-| 359 | `[[gobierno_del_mundo]]` | 2 | baja | |
-| 360 | `[[gracia_cristica]]` | 2 | baja | |
-| 361 | `[[gracia_de_cristo]]` | 2 | baja | |
-| 362 | `[[gracia_de_la_palabra]]` | 2 | baja | |
-| 363 | `[[guía_pastoral]]` | 2 | baja | |
-| 364 | `[[habitación_de_dios]]` | 2 | baja | |
-| 365 | `[[habitación_trinitaria]]` | 2 | baja | |
-| 366 | `[[haurietis_aquas]]` | 2 | baja | |
-| 367 | `[[henri_de_lubac]]` | 2 | baja | |
-| 368 | `[[heredero]]` | 2 | baja | |
-| 369 | `[[heroicidad_de_virtudes]]` | 2 | baja | |
-| 370 | `[[hijo_de_david]]` | 2 | baja | |
-| 371 | `[[hijos]]` | 2 | baja | |
-| 372 | `[[hilemorfismo]]` | 2 | baja | |
-| 373 | `[[hogar]]` | 2 | baja | |
-| 374 | `[[hora_de_jesús]]` | 2 | baja | |
-| 375 | `[[iglesia_en_europa]]` | 2 | baja | |
-| 376 | `[[iglesias_sui_iuris]]` | 2 | baja | |
-| 377 | `[[imagen]]` | 2 | baja | |
-| 378 | `[[imago_dei]]` | 2 | baja | |
-| 379 | `[[impedimentos_matrimoniales]]` | 2 | baja | |
-| 380 | `[[impenitencia]]` | 2 | baja | |
-| 381 | `[[imperios_paganos]]` | 2 | baja | |
-| 382 | `[[impureza]]` | 2 | baja | |
-| 383 | `[[incesto]]` | 2 | baja | |
-| 384 | `[[indiferencia_ignaciana]]` | 2 | baja | |
-| 385 | `[[inmortalidad_del_alma]]` | 2 | baja | |
-| 386 | `[[institutos_seculares]]` | 2 | baja | |
-| 387 | `[[integración]]` | 2 | baja | |
-| 388 | `[[interpretación_de_lenguas]]` | 2 | baja | |
-| 389 | `[[irregularidad]]` | 2 | baja | |
-| 390 | `[[jacob]]` | 2 | baja | |
-| 391 | `[[jardín_del_edén]]` | 2 | baja | |
-| 392 | `[[jeremías]]` | 2 | baja | |
-| 393 | `[[jmj]]` | 2 | baja | |
-| 394 | `[[justicia_conmutativa]]` | 2 | baja | |
-| 395 | `[[justicia_vindicativa]]` | 2 | baja | |
-| 396 | `[[kerigma]]` | 2 | baja | |
-| 397 | `[[laudato_si]]` | 2 | baja | |
-| 398 | `[[lector]]` | 2 | baja | |
-| 399 | `[[lecturas_bíblicas]]` | 2 | baja | |
-| 400 | `[[legítima_defensa]]` | 2 | baja | |
-| 401 | `[[lengua_vernácula_en_la_liturgia]]` | 2 | baja | |
-| 402 | `[[lenguas]]` | 2 | baja | |
-| 403 | `[[levadura_de_la_gratuidad]]` | 2 | baja | |
-| 404 | `[[ley_del_talión]]` | 2 | baja | |
-| 405 | `[[liberacion_libertad]]` | 2 | baja | |
-| 406 | `[[libertad_de_expresión]]` | 2 | baja | |
-| 407 | `[[libros_sagrados]]` | 2 | baja | |
-| 408 | `[[limbo_de_los_niños]]` | 2 | baja | |
-| 409 | `[[limbo_de_los_padres]]` | 2 | baja | |
-| 410 | `[[lucha_contra_la_dispersión]]` | 2 | baja | |
-| 411 | `[[luz_interior]]` | 2 | baja | |
-| 412 | `[[lámpara_del_santísimo]]` | 2 | baja | |
-| 413 | `[[madurez_espiritual]]` | 2 | baja | |
-| 414 | `[[maestro_de_ceremonias]]` | 2 | baja | |
-| 415 | `[[mandamiento_del_amor]]` | 2 | baja | |
-| 416 | `[[marana_tha]]` | 2 | baja | |
-| 417 | `[[materia]]` | 2 | baja | |
-| 418 | `[[mediación_mariana]]` | 2 | baja | |
-| 419 | `[[mediocridad_espiritual]]` | 2 | baja | |
-| 420 | `[[memorial]]` | 2 | baja | |
-| 421 | `[[miel]]` | 2 | baja | |
-| 422 | `[[mies]]` | 2 | baja | |
-| 423 | `[[miguel_arcángel]]` | 2 | baja | |
-| 424 | `[[milagro_de_jesús]]` | 2 | baja | |
-| 425 | `[[milicia_de_la_inmaculada]]` | 2 | baja | |
-| 426 | `[[ministerio_sacramental]]` | 2 | baja | |
-| 427 | `[[ministerios_laicales]]` | 2 | baja | |
-| 428 | `[[ministros_sagrados]]` | 2 | baja | |
-| 429 | `[[misa_de_réquiem]]` | 2 | baja | |
-| 430 | `[[miseria_humana]]` | 2 | baja | |
-| 431 | `[[misión_apostólica]]` | 2 | baja | |
-| 432 | `[[mission_de_la_iglesia]]` | 2 | baja | |
-| 433 | `[[misterio_de_dios]]` | 2 | baja | |
-| 434 | `[[misterio_de_la_salvación]]` | 2 | baja | |
-| 435 | `[[modernismo_catalán]]` | 2 | baja | |
-| 436 | `[[monasterio]]` | 2 | baja | |
-| 437 | `[[monjes]]` | 2 | baja | |
-| 438 | `[[monotelismo]]` | 2 | baja | |
-| 439 | `[[monte_sión]]` | 2 | baja | |
-| 440 | `[[naturaleza_humana_de_cristo]]` | 2 | baja | |
-| 441 | `[[necio]]` | 2 | baja | |
-| 442 | `[[negligencia_espiritual]]` | 2 | baja | |
-| 443 | `[[nestorianismo]]` | 2 | baja | |
-| 444 | `[[nociones_divinas]]` | 2 | baja | |
-| 445 | `[[nombre_divino]]` | 2 | baja | |
-| 446 | `[[novena]]` | 2 | baja | |
-| 447 | `[[noé]]` | 2 | baja | |
-| 448 | `[[obcecación]]` | 2 | baja | |
-| 449 | `[[obispos]]` | 2 | baja | |
-| 450 | `[[obligación]]` | 2 | baja | |
-| 451 | `[[operacion_de_cristo]]` | 2 | baja | |
-| 452 | `[[opus_dei]]` | 2 | baja | |
-| 453 | `[[oración_afectiva]]` | 2 | baja | |
-| 454 | `[[oración_de_abandono]]` | 2 | baja | |
-| 455 | `[[oración_descuidada]]` | 2 | baja | |
-| 456 | `[[oración_mental]]` | 2 | baja | ✅ Creado 2026-06-28 |
-| 457 | `[[oración_pública]]` | 2 | baja | |
-| 458 | `[[oración_universal]]` | 2 | baja | |
-| 459 | `[[orden_de_predicadores]]` | 2 | baja | |
-| 460 | `[[orden_natural]]` | 2 | baja | |
-| 461 | `[[organización_eclesiástica]]` | 2 | baja | |
-| 462 | `[[osas]]` | 2 | baja | |
-| 463 | `[[pablo]]` | 2 | baja | |
-| 464 | `[[pablo_vi]]` | 2 | baja | |
-| 465 | `[[pactos_diabólicos]]` | 2 | baja | |
-| 466 | `[[padre]]` | 2 | baja | |
-| 467 | `[[padres]]` | 2 | baja | |
-| 468 | `[[parcialidad]]` | 2 | baja | |
-| 469 | `[[participación_en_la_naturaleza_divina]]` | 2 | baja | |
-| 470 | `[[parábola_de_los_viñadores]]` | 2 | baja | |
-| 471 | `[[pastor_bonus]]` | 2 | baja | |
-| 472 | `[[pastoral]]` | 2 | baja | |
-| 473 | `[[patriarcas]]` | 2 | baja | |
-| 474 | `[[patrimonio_estable]]` | 2 | baja | |
-| 475 | `[[paz_interior]]` | 2 | baja | |
-| 476 | `[[pecado_contra_el_primer_mandamiento]]` | 2 | baja | |
-| 477 | `[[pecado_de_pensamiento]]` | 2 | baja | |
-| 478 | `[[pelagianismo]]` | 2 | baja | |
-| 479 | `[[pena_canónica]]` | 2 | baja | |
-| 480 | `[[pena_de_muerte]]` | 2 | baja | |
-| 481 | `[[penitencia_conversion]]` | 2 | baja | |
-| 482 | `[[piedra_angular]]` | 2 | baja | |
-| 483 | `[[placer]]` | 2 | baja | |
-| 484 | `[[posesión_divina]]` | 2 | baja | |
-| 485 | `[[postración]]` | 2 | baja | |
-| 486 | `[[potencia_obediencial]]` | 2 | baja | |
-| 487 | `[[predicación_bíblica]]` | 2 | baja | |
-| 488 | `[[preparación_al_mesías]]` | 2 | baja | |
-| 489 | `[[presciencia_divina]]` | 2 | baja | |
-| 490 | `[[presentación_en_el_templo]]` | 2 | baja | |
-| 491 | `[[procurador_judicial]]` | 2 | baja | |
-| 492 | `[[profecías_mesiánicas]]` | 2 | baja | |
-| 493 | `[[promesas_bautismales]]` | 2 | baja | |
-| 494 | `[[propiciatorio]]` | 2 | baja | |
-| 495 | `[[providencia_y_gobierno]]` | 2 | baja | |
-| 496 | `[[providentissimus_deus]]` | 2 | baja | |
-| 497 | `[[purificación_pasiva]]` | 2 | baja | |
-| 498 | `[[puro]]` | 2 | baja | |
-| 499 | `[[racismo]]` | 2 | baja | |
-| 500 | `[[rafael_arcángel]]` | 2 | baja | |
-| 501 | `[[rapiña]]` | 2 | baja | |
-| 502 | `[[razón_superior]]` | 2 | baja | |
-| 503 | `[[realeza_de_maría]]` | 2 | baja | |
-| 504 | `[[realidad_superior_a_la_idea]]` | 2 | baja | |
-| 505 | `[[recapitulación]]` | 2 | baja | |
-| 506 | `[[rectitud_de_intención]]` | 2 | baja | |
-| 507 | `[[relatividad_escatológica]]` | 2 | baja | |
-| 508 | `[[religión_y_política]]` | 2 | baja | |
-| 509 | `[[remordimiento]]` | 2 | baja | |
-| 510 | `[[renovación_carismática]]` | 2 | baja | |
-| 511 | `[[renovación_cristiana]]` | 2 | baja | |
-| 512 | `[[renuncia]]` | 2 | baja | |
-| 513 | `[[reprobación]]` | 2 | baja | |
-| 514 | `[[resignación_cristiana]]` | 2 | baja | |
-| 515 | `[[ressourcement]]` | 2 | baja | |
-| 516 | `[[revelaciones_privadas]]` | 2 | baja | |
-| 517 | `[[rito_de_renovación_bautismal]]` | 2 | baja | |
-| 518 | `[[sacristán]]` | 2 | baja | |
-| 519 | `[[saduceos]]` | 2 | baja | |
-| 520 | `[[salmo]]` | 2 | baja | |
-| 521 | `[[salmo_responsorial]]` | 2 | baja | |
-| 522 | `[[salud]]` | 2 | baja | |
-| 523 | `[[salve_regina]]` | 2 | baja | |
-| 524 | `[[san_atanasio]]` | 2 | baja | |
-| 525 | `[[san_irineo_de_león]]` | 2 | baja | |
-| 526 | `[[san_juan_evangelista]]` | 2 | baja | |
-| 527 | `[[san_juan_xxiii]]` | 2 | baja | |
-| 528 | `[[santa_Teresa_de_Lisieux]]` | 2 | baja | |
-| 529 | `[[santa_cruz]]` | 2 | baja | |
-| 530 | `[[santa_iglesia_romana]]` | 2 | baja | |
-| 531 | `[[santidad_cristiana]]` | 2 | baja | |
-| 532 | `[[sarmiento]]` | 2 | baja | |
-| 533 | `[[seguridad_de_la_salvación]]` | 2 | baja | |
-| 534 | `[[sentido_del_pecado]]` | 2 | baja | |
-| 535 | `[[separación_conyugal]]` | 2 | baja | |
-| 536 | `[[ser]]` | 2 | baja | |
-| 537 | `[[servicio_de_dios]]` | 2 | baja | |
-| 538 | `[[servicio_de_la_caridad]]` | 2 | baja | |
-| 539 | `[[señal]]` | 2 | baja | |
-| 540 | `[[simeón]]` | 2 | baja | |
-| 541 | `[[socialismo]]` | 2 | baja | |
-| 542 | `[[solicitud]]` | 2 | baja | |
-| 543 | `[[sortilegio]]` | 2 | baja | |
-| 544 | `[[sotana]]` | 2 | baja | |
-| 545 | `[[subjetivismo]]` | 2 | baja | |
-| 546 | `[[sufrimiento_vicario]]` | 2 | baja | |
-| 547 | `[[superior_religioso]]` | 2 | baja | |
-| 548 | `[[sínodo_patriarcal]]` | 2 | baja | |
-| 549 | `[[súplica]]` | 2 | baja | |
-| 550 | `[[tejer_redes]]` | 2 | baja | |
-| 551 | `[[temeridad]]` | 2 | baja | |
-| 552 | `[[tentación_de_cristo]]` | 2 | baja | |
-| 553 | `[[teodramática]]` | 2 | baja | |
-| 554 | `[[teosis]]` | 2 | baja | |
-| 555 | `[[ternura_de_dios]]` | 2 | baja | |
-| 556 | `[[tomismo]]` | 2 | baja | |
-| 557 | `[[trascendencia]]` | 2 | baja | |
-| 558 | `[[trascendencia_de_cristo]]` | 2 | baja | |
-| 559 | `[[tribulación]]` | 2 | baja | |
-| 560 | `[[tributo_diocesano]]` | 2 | baja | |
-| 561 | `[[triple_oficio]]` | 2 | baja | |
-| 562 | `[[tráfico_de_personas]]` | 2 | baja | |
-| 563 | `[[técnica]]` | 2 | baja | |
-| 564 | `[[unidad_hipostatica]]` | 2 | baja | |
-| 565 | `[[universalismo_de_la_salvación]]` | 2 | baja | |
-| 566 | `[[universidad_de_salamanca]]` | 2 | baja | |
-| 567 | `[[valle_de_Josafat]]` | 2 | baja | |
-| 568 | `[[varón]]` | 2 | baja | |
-| 569 | `[[verbo_encarnado]]` | 2 | baja | |
-| 570 | `[[verbo_mental]]` | 2 | baja | |
-| 571 | `[[verdad_moral]]` | 2 | baja | |
-| 572 | `[[veritatis_splendor]]` | 2 | baja | |
-| 573 | `[[vicario_de_dios]]` | 2 | baja | |
-| 574 | `[[vid]]` | 2 | baja | |
-| 575 | `[[vid_y_sarmientos]]` | 2 | baja | |
-| 576 | `[[vida_pública_de_cristo]]` | 2 | baja | |
-| 577 | `[[virgen_necías_y_prudentes]]` | 2 | baja | |
-| 578 | `[[virgenes_prudentes]]` | 2 | baja | |
-| 579 | `[[virtudes_humanas]]` | 2 | baja | |
-| 580 | `[[viscera_misericordiae]]` | 2 | baja | |
-| 581 | `[[viudedad]]` | 2 | baja | |
-| 582 | `[[vocación_a_la_santidad]]` | 2 | baja | |
-| 583 | `[[vocación_del_hombre]]` | 2 | baja | |
-| 584 | `[[voluntad_salvífica_universal]]` | 2 | baja | |
-| 585 | `[[votum]]` | 2 | baja | |
-| 586 | `[[órdenes_terceras]]` | 2 | baja | |
-| 587 | `[[última_cena]]` | 2 | baja | |
-| 588 | `[[^]]` | 1 | baja | |
+| # | Wikilink | Referencias | Categoría |
+|---|----------|-------------|-----------|
+| 1 | `[[beatitud_vision_de_dios]]` | 8 | Miscelánea (534) |
+| 2 | `[[cuerpo_mistico_de_cristo]]` | 6 | Dogmática (44) |
+| 3 | `[[voluntad_divina]]` | 5 | Miscelánea (534) |
+| 4 | `[[perfeccion_moral_de_cristo]]` | 4 | Dogmática (44) |
+| 5 | `[[sacramento_de_la_penitencia]]` | 4 | Miscelánea (534) |
+| 6 | `[[potencia_apetitiva_y_cognoscitiva]]` | 4 | Miscelánea (534) |
+| 7 | `[[union_del_alma_y_del_cuerpo]]` | 4 | Miscelánea (534) |
+| 8 | `[[gracia_eficaz]]` | 3 | Dogmática (44) |
+| 9 | `[[liturgia_de_san_juan_crisostomo]]` | 3 | Personas (32) |
+| 10 | `[[escolastica]]` | 3 | Miscelánea (534) |
+| 11 | `[[culpa]]` | 3 | Miscelánea (534) |
+| 12 | `[[indulgencia]]` | 3 | Miscelánea (534) |
+| 13 | `[[jesuitas]]` | 3 | Miscelánea (534) |
+| 14 | `[[union_sustancial]]` | 3 | Miscelánea (534) |
+| 15 | `[[beatitud]]` | 3 | Miscelánea (534) |
+| 16 | `[[primado_romano]]` | 3 | Miscelánea (534) |
+| 17 | `[[prole]]` | 3 | Miscelánea (534) |
+| 18 | `[[primera_persona_de_la_trinidad]]` | 2 | Dogmática (44) |
+| 19 | `[[tercera_persona_de_la_trinidad]]` | 2 | Dogmática (44) |
+| 20 | `[[redencion_de_cristo]]` | 2 | Dogmática (44) |
+| 21 | `[[eficacia_de_los_sacramentos]]` | 2 | Biblia (41) |
+| 22 | `[[bajada_a_los_infiernos]]` | 2 | Biblia (41) |
+| 23 | `[[redencion_de_la_humanidad]]` | 2 | Miscelánea (534) |
+| 24 | `[[interpretacion_biblica]]` | 2 | Miscelánea (534) |
+| 25 | `[[nobleza_de_alma]]` | 2 | Miscelánea (534) |
+| 26 | `[[consubstancia]]` | 2 | Miscelánea (534) |
+| 27 | `[[potencia_acto_y_habito]]` | 2 | Miscelánea (534) |
+| 28 | `[[intelecto_agente_y_posible]]` | 2 | Miscelánea (534) |
+| 29 | `[[aeterni_patris]]` | 2 | Miscelánea (534) |
+| 30 | `[[beatitud_beatifica]]` | 2 | Miscelánea (534) |
+| 31 | `[[panteismo]]` | 2 | Miscelánea (534) |
+| 32 | `[[attricion]]` | 2 | Miscelánea (534) |
+| 33 | `[[causalidad_segunda]]` | 2 | Miscelánea (534) |
+| 34 | `[[escuela_antioquena]]` | 2 | Miscelánea (534) |
+| 35 | `[[alma_racional]]` | 2 | Miscelánea (534) |
+| 36 | `[[subsistencia_del_alma]]` | 2 | Miscelánea (534) |
+| 37 | `[[teofania_bautismo]]` | 2 | Miscelánea (534) |
+| 38 | `[[transustanciacion]]` | 2 | Miscelánea (534) |
+| 39 | `[[pecado_de_lengua]]` | 1 | Dogmática (44) |
+| 40 | `[[mediadora_de_todas_las_gracias]]` | 1 | Dogmática (44) |
+| 41 | `[[tentacion_de_cristo]]` | 1 | Dogmática (44) |
+| 42 | `[[concordancia_entre_gracia_y_libertad]]` | 1 | Dogmática (44) |
+| 43 | `[[gracia_cristica]]` | 1 | Dogmática (44) |
+| 44 | `[[cristologia_joanica]]` | 1 | Dogmática (44) |
+| 45 | `[[pecado_de_pensamiento]]` | 1 | Dogmática (44) |
+| 46 | `[[sentido_del_pecado]]` | 1 | Dogmática (44) |
+| 47 | `[[concilios_cristologicos]]` | 1 | Dogmática (44) |
+| 48 | `[[union_con_cristo]]` | 1 | Dogmática (44) |
+| 49 | `[[bautismo_de_cristo]]` | 1 | Dogmática (44) |
+| 50 | `[[dolor_del_pecado]]` | 1 | Dogmática (44) |
+| 51 | `[[gracia_cristiana]]` | 1 | Dogmática (44) |
+| 52 | `[[trascendencia_de_cristo]]` | 1 | Dogmática (44) |
+| 53 | `[[consustancial]]` | 1 | Dogmática (44) |
+| 54 | `[[gracia_de_la_palabra]]` | 1 | Dogmática (44) |
+| 55 | `[[vida_publica_de_cristo]]` | 1 | Dogmática (44) |
+| 56 | `[[voluntades_de_cristo]]` | 1 | Dogmática (44) |
+| 57 | `[[naturaleza_divina_de_cristo]]` | 1 | Dogmática (44) |
+| 58 | `[[profecia_de_cristo]]` | 1 | Dogmática (44) |
+| 59 | `[[filiacion_divina_de_cristo]]` | 1 | Dogmática (44) |
+| 60 | `[[manifestacion_de_cristo]]` | 1 | Dogmática (44) |
+| 61 | `[[estado_de_gracia]]` | 1 | Dogmática (44) |
+| 62 | `[[esposa_de_cristo]]` | 1 | Dogmática (44) |
+| 63 | `[[teosis]]` | 1 | Dogmática (44) |
+| 64 | `[[ejemplo_de_cristo]]` | 1 | Dogmática (44) |
+| 65 | `[[cristo_luz]]` | 1 | Dogmática (44) |
+| 66 | `[[pecado_contra_el_primer_mandamiento]]` | 1 | Dogmática (44) |
+| 67 | `[[cristo_resucitado]]` | 1 | Dogmática (44) |
+| 68 | `[[cristo_primicias]]` | 1 | Dogmática (44) |
+| 69 | `[[operacion_de_cristo]]` | 1 | Dogmática (44) |
+| 70 | `[[plenitud_de_gracia]]` | 1 | Dogmática (44) |
+| 71 | `[[cristo_roca]]` | 1 | Dogmática (44) |
+| 72 | `[[meritos_de_maria]]` | 1 | Dogmática (44) |
+| 73 | `[[senorio_de_cristo]]` | 1 | Dogmática (44) |
+| 74 | `[[ritual_de_la_congregacion_de_los_legionarios_de_cristo]]` | 1 | Dogmática (44) |
+| 75 | `[[capitulo_general_extraordinario_2014_legionarios_de_cristo]]` | 1 | Dogmática (44) |
+| 76 | `[[..._seguir_a_cristo_...]]` | 1 | Dogmática (44) |
+| 77 | `[[moral_fundamental]]` | 1 | Moral (17) |
+| 78 | `[[virtudes_humanas]]` | 1 | Moral (17) |
+| 79 | `[[moral_sexual]]` | 1 | Moral (17) |
+| 80 | `[[rigorismo_moral]]` | 1 | Moral (17) |
+| 81 | `[[ateismo_moral]]` | 1 | Moral (17) |
+| 82 | `[[teleologismo_moral]]` | 1 | Moral (17) |
+| 83 | `[[moral_catolica]]` | 1 | Moral (17) |
+| 84 | `[[heroicidad_de_virtudes]]` | 1 | Moral (17) |
+| 85 | `[[religion_(virtud)]]` | 1 | Moral (17) |
+| 86 | `[[conciencia_mesianica_de_jesus]]` | 1 | Moral (17) |
+| 87 | `[[moral_de_las_pasiones]]` | 1 | Moral (17) |
+| 88 | `[[educacion_moral]]` | 1 | Moral (17) |
+| 89 | `[[verdad_moral]]` | 1 | Moral (17) |
+| 90 | `[[virtud_heroica]]` | 1 | Moral (17) |
+| 91 | `[[justicia_penal]]` | 1 | Moral (17) |
+| 92 | `[[las_fuentes_de_la_moral_cristiana]]` | 1 | Moral (17) |
+| 93 | `[[virtud_de_la_castidad]]` | 1 | Moral (17) |
+| 94 | `[[chers_henri_de_lubac]]` | 1 | Personas (32) |
+| 95 | `[[san_anton_abad]]` | 1 | Personas (32) |
+| 96 | `[[santa_cruz]]` | 1 | Personas (32) |
+| 97 | `[[pablo_vi]]` | 1 | Personas (32) |
+| 98 | `[[san_alfonso_maria_de_ligorio]]` | 1 | Personas (32) |
+| 99 | `[[nietzsche]]` | 1 | Personas (32) |
+| 100 | `[[alcuino_de_york]]` | 1 | Personas (32) |
+| 101 | `[[beato_de_liebana]]` | 1 | Personas (32) |
+| 102 | `[[luis_xiv]]` | 1 | Personas (32) |
+| 103 | `[[san_luis_maria_grignion_de_montfort]]` | 1 | Personas (32) |
+| 104 | `[[hilario_de_poitiers]]` | 1 | Personas (32) |
+| 105 | `[[atanasio]]` | 1 | Personas (32) |
+| 106 | `[[duns_scoto]]` | 1 | Personas (32) |
+| 107 | `[[hincmaro_de_reims]]` | 1 | Personas (32) |
+| 108 | `[[pedro_de_osma]]` | 1 | Personas (32) |
+| 109 | `[[basilica_de_san_pedro]]` | 1 | Personas (32) |
+| 110 | `[[pedro_lombardo]]` | 1 | Personas (32) |
+| 111 | `[[hermes]]` | 1 | Personas (32) |
+| 112 | `[[bautain]]` | 1 | Personas (32) |
+| 113 | `[[blas_pascal]]` | 1 | Personas (32) |
+| 114 | `[[justiniano_emperador]]` | 1 | Personas (32) |
+| 115 | `[[federico_ii]]` | 1 | Personas (32) |
+| 116 | `[[carlos_v]]` | 1 | Personas (32) |
+| 117 | `[[teodosio_i]]` | 1 | Personas (32) |
+| 118 | `[[clemente_xii]]` | 1 | Personas (32) |
+| 119 | `[[inocencio_xiii]]` | 1 | Personas (32) |
+| 120 | `[[inocencio_iv]]` | 1 | Personas (32) |
+| 121 | `[[federico_i_barbarroja]]` | 1 | Personas (32) |
+| 122 | `[[santa_sofia]]` | 1 | Personas (32) |
+| 123 | `[[bossuet]]` | 1 | Personas (32) |
+| 124 | `[[henri_de_lubac]]` | 1 | Personas (32) |
+| 125 | `[[pastor_bonus]]` | 1 | Documentos (15) |
+| 126 | `[[pascendi_dominici_gregis]]` | 1 | Documentos (15) |
+| 127 | `[[providentissimus_deus]]` | 1 | Documentos (15) |
+| 128 | `[[redemptoris_missio]]` | 1 | Documentos (15) |
+| 129 | `[[evangelii_gaudium]]` | 1 | Documentos (15) |
+| 130 | `[[dilexit_nos]]` | 1 | Documentos (15) |
+| 131 | `[[haurietis_aquas]]` | 1 | Documentos (15) |
+| 132 | `[[laudato_si]]` | 1 | Documentos (15) |
+| 133 | `[[dominius_iesus]]` | 1 | Documentos (15) |
+| 134 | `[[desiderio_desideravi]]` | 1 | Documentos (15) |
+| 135 | `[[ineffabilis_deus]]` | 1 | Documentos (15) |
+| 136 | `[[exsurge_domine]]` | 1 | Documentos (15) |
+| 137 | `[[divini_illius_magistri]]` | 1 | Documentos (15) |
+| 138 | `[[quadragesimo_anno]]` | 1 | Documentos (15) |
+| 139 | `[[ne_temere]]` | 1 | Documentos (15) |
+| 140 | `[[ecclesiam_suam]]` | 1 | Biblia (41) |
+| 141 | `[[evangelios_sinopticos]]` | 1 | Biblia (41) |
+| 142 | `[[frutos_del_espiritu]]` | 1 | Biblia (41) |
+| 143 | `[[cantar_de_los_cantares]]` | 1 | Biblia (41) |
+| 144 | `[[prov_8]]` | 1 | Biblia (41) |
+| 145 | `[[tejer_redes]]` | 1 | Biblia (41) |
+| 146 | `[[definicion_ex_cathedra]]` | 1 | Biblia (41) |
+| 147 | `[[reino_de_los_cielos]]` | 1 | Biblia (41) |
+| 148 | `[[milagros_de_jesus]]` | 1 | Biblia (41) |
+| 149 | `[[impedimentos_matrimoniales]]` | 1 | Biblia (41) |
+| 150 | `[[imperios_paganos]]` | 1 | Biblia (41) |
+| 151 | `[[formula_bautismal_trinitaria]]` | 1 | Biblia (41) |
+| 152 | `[[sacramentos_de_iniciacion]]` | 1 | Biblia (41) |
+| 153 | `[[institutos_seculares]]` | 1 | Biblia (41) |
+| 154 | `[[eros_y_ethos]]` | 1 | Biblia (41) |
+| 155 | `[[madurez_espiritual]]` | 1 | Biblia (41) |
+| 156 | `[[ministros_sagrados]]` | 1 | Biblia (41) |
+| 157 | `[[flp_2,6-11]]` | 1 | Biblia (41) |
+| 158 | `[[evangelio_de_lucas]]` | 1 | Biblia (41) |
+| 159 | `[[limbo_de_los_infantes]]` | 1 | Biblia (41) |
+| 160 | `[[anuncio_del_evangelio]]` | 1 | Biblia (41) |
+| 161 | `[[biblia]]` | 1 | Biblia (41) |
+| 162 | `[[magos_de_oriente]]` | 1 | Biblia (41) |
+| 163 | `[[1_corintios]]` | 1 | Biblia (41) |
+| 164 | `[[falsos_dioses]]` | 1 | Biblia (41) |
+| 165 | `[[falsos_profetas]]` | 1 | Biblia (41) |
+| 166 | `[[libros_sagrados]]` | 1 | Biblia (41) |
+| 167 | `[[consumacion_de_los_tiempos]]` | 1 | Biblia (41) |
+| 168 | `[[catequesis_prematrimonial]]` | 1 | Biblia (41) |
+| 169 | `[[limbo_de_los_ninos]]` | 1 | Biblia (41) |
+| 170 | `[[grados_de_la_vida_cristiana]]` | 1 | Biblia (41) |
+| 171 | `[[dispersion_de_los_pueblos]]` | 1 | Biblia (41) |
+| 172 | `[[exegesis_alegorica]]` | 1 | Biblia (41) |
+| 173 | `[[simbolo_de_los_apostoles]]` | 1 | Biblia (41) |
+| 174 | `[[parabola_de_los_vinadores]]` | 1 | Biblia (41) |
+| 175 | `[[validez_de_los_sacramentos]]` | 1 | Biblia (41) |
+| 176 | `[[estados_pontificios]]` | 1 | Biblia (41) |
+| 177 | `[[capitulos_lc_frg]]` | 1 | Biblia (41) |
+| 178 | `[[exegesis_de_juan]]` | 1 | Biblia (41) |
+| 179 | `[[candidatado]]` | 1 | Legionarios (4) |
+| 180 | `[[constituciones_legionarios]]` | 1 | Legionarios (4) |
+| 181 | `[[asambleas_generales_regnum_christi_2018]]` | 1 | Legionarios (4) |
+| 182 | `[[capgral-2026]]` | 1 | Legionarios (4) |
+| 183 | `[[espiritualidad_ignaciana]]` | 1 | Espiritualidad LC (1) |
+| 184 | `[[triple_oficio]]` | 1 | Miscelánea (534) |
+| 185 | `[[juan_xxiii]]` | 1 | Miscelánea (534) |
+| 186 | `[[populorum_progressio]]` | 1 | Miscelánea (534) |
+| 187 | `[[difamacion]]` | 1 | Miscelánea (534) |
+| 188 | `[[generaciones]]` | 1 | Miscelánea (534) |
+| 189 | `[[prefiguracion]]` | 1 | Miscelánea (534) |
+| 190 | `[[antitipo]]` | 1 | Miscelánea (534) |
+| 191 | `[[nouvelle_theologie]]` | 1 | Miscelánea (534) |
+| 192 | `[[heredero]]` | 1 | Miscelánea (534) |
+| 193 | `[[continencia_periodica]]` | 1 | Miscelánea (534) |
+| 194 | `[[kinesis]]` | 1 | Miscelánea (534) |
+| 195 | `[[valle_de_josafat]]` | 1 | Miscelánea (534) |
+| 196 | `[[abogado_canonico]]` | 1 | Miscelánea (534) |
+| 197 | `[[procurador_judicial]]` | 1 | Miscelánea (534) |
+| 198 | `[[osas]]` | 1 | Miscelánea (534) |
+| 199 | `[[cuidado_del_cuerpo]]` | 1 | Miscelánea (534) |
+| 200 | `[[medicina]]` | 1 | Miscelánea (534) |
+| 201 | `[[pastoral_de_la_salud]]` | 1 | Miscelánea (534) |
+| 202 | `[[serpiente]]` | 1 | Miscelánea (534) |
+| 203 | `[[obcecacion]]` | 1 | Miscelánea (534) |
+| 204 | `[[libertad_de_la_iglesia]]` | 1 | Miscelánea (534) |
+| 205 | `[[familia_cristiana]]` | 1 | Miscelánea (534) |
+| 206 | `[[pesca_milagrosa]]` | 1 | Miscelánea (534) |
+| 207 | `[[ley_y_profetas]]` | 1 | Miscelánea (534) |
+| 208 | `[[cardenal_secretario_de_estado]]` | 1 | Miscelánea (534) |
+| 209 | `[[diplomacia_pontificia]]` | 1 | Miscelánea (534) |
+| 210 | `[[realidad_superior_a_la_idea]]` | 1 | Miscelánea (534) |
+| 211 | `[[encuentro]]` | 1 | Miscelánea (534) |
+| 212 | `[[esclavitud]]` | 1 | Miscelánea (534) |
+| 213 | `[[jmj]]` | 1 | Miscelánea (534) |
+| 214 | `[[experiencia_mistica]]` | 1 | Miscelánea (534) |
+| 215 | `[[estado_y_economia]]` | 1 | Miscelánea (534) |
+| 216 | `[[fermento_evangelico]]` | 1 | Miscelánea (534) |
+| 217 | `[[reprobacion]]` | 1 | Miscelánea (534) |
+| 218 | `[[misterio_de_la_salvacion]]` | 1 | Miscelánea (534) |
+| 219 | `[[mision_ad_gentes]]` | 1 | Miscelánea (534) |
+| 220 | `[[gran_comision]]` | 1 | Miscelánea (534) |
+| 221 | `[[santiago_5]]` | 1 | Miscelánea (534) |
+| 222 | `[[belleza_espiritual]]` | 1 | Miscelánea (534) |
+| 223 | `[[desconfianza]]` | 1 | Miscelánea (534) |
+| 224 | `[[estipendio]]` | 1 | Miscelánea (534) |
+| 225 | `[[maria_nueva_eva]]` | 1 | Miscelánea (534) |
+| 226 | `[[proposito_de_enmienda]]` | 1 | Miscelánea (534) |
+| 227 | `[[simbolo_niceno_constantinopolitano]]` | 1 | Miscelánea (534) |
+| 228 | `[[escuela_exegetica_de_alejandria]]` | 1 | Miscelánea (534) |
+| 229 | `[[antinomismo]]` | 1 | Miscelánea (534) |
+| 230 | `[[constituciones]]` | 1 | Miscelánea (534) |
+| 231 | `[[generosidad]]` | 1 | Miscelánea (534) |
+| 232 | `[[culto_divino]]` | 1 | Miscelánea (534) |
+| 233 | `[[noe]]` | 1 | Miscelánea (534) |
+| 234 | `[[humanismo]]` | 1 | Miscelánea (534) |
+| 235 | `[[reforma_protestante]]` | 1 | Miscelánea (534) |
+| 236 | `[[renuncia]]` | 1 | Miscelánea (534) |
+| 237 | `[[eremita]]` | 1 | Miscelánea (534) |
+| 238 | `[[evagrio_pontico]]` | 1 | Miscelánea (534) |
+| 239 | `[[apophthegmata_patrum]]` | 1 | Miscelánea (534) |
+| 240 | `[[metafisica]]` | 1 | Miscelánea (534) |
+| 241 | `[[cosmologia_cristiana]]` | 1 | Miscelánea (534) |
+| 242 | `[[sed_de_dios]]` | 1 | Miscelánea (534) |
+| 243 | `[[milagro_de_jesus]]` | 1 | Miscelánea (534) |
+| 244 | `[[impureza]]` | 1 | Miscelánea (534) |
+| 245 | `[[ordenes_terceras]]` | 1 | Miscelánea (534) |
+| 246 | `[[estipendio_de_misa]]` | 1 | Miscelánea (534) |
+| 247 | `[[puro]]` | 1 | Miscelánea (534) |
+| 248 | `[[bestia_bestias]]` | 1 | Miscelánea (534) |
+| 249 | `[[lenguas]]` | 1 | Miscelánea (534) |
+| 250 | `[[pablo]]` | 1 | Miscelánea (534) |
+| 251 | `[[falso_profeta]]` | 1 | Miscelánea (534) |
+| 252 | `[[posesion_divina]]` | 1 | Miscelánea (534) |
+| 253 | `[[preparacion_al_mesias]]` | 1 | Miscelánea (534) |
+| 254 | `[[abrahan]]` | 1 | Miscelánea (534) |
+| 255 | `[[siervo_sufriente]]` | 1 | Miscelánea (534) |
+| 256 | `[[templo_del_espiritu]]` | 1 | Miscelánea (534) |
+| 257 | `[[tributo_diocesano]]` | 1 | Miscelánea (534) |
+| 258 | `[[catalina_laboure]]` | 1 | Miscelánea (534) |
+| 259 | `[[principio_de_totalidad]]` | 1 | Miscelánea (534) |
+| 260 | `[[maria]]` | 1 | Miscelánea (534) |
+| 261 | `[[varon]]` | 1 | Miscelánea (534) |
+| 262 | `[[orden_de_predicadores]]` | 1 | Miscelánea (534) |
+| 263 | `[[redentor_hominis]]` | 1 | Miscelánea (534) |
+| 264 | `[[padres]]` | 1 | Miscelánea (534) |
+| 265 | `[[hijos]]` | 1 | Miscelánea (534) |
+| 266 | `[[salve_regina]]` | 1 | Miscelánea (534) |
+| 267 | `[[calcedonia]]` | 1 | Miscelánea (534) |
+| 268 | `[[adonai]]` | 1 | Miscelánea (534) |
+| 269 | `[[curacion]]` | 1 | Miscelánea (534) |
+| 270 | `[[restauracion_de_israel]]` | 1 | Miscelánea (534) |
+| 271 | `[[bondad_de_dios]]` | 1 | Miscelánea (534) |
+| 272 | `[[tercer_milenio]]` | 1 | Miscelánea (534) |
+| 273 | `[[kerigma]]` | 1 | Miscelánea (534) |
+| 274 | `[[sufrimiento_vicario]]` | 1 | Miscelánea (534) |
+| 275 | `[[virgen_necias_y_prudentes]]` | 1 | Miscelánea (534) |
+| 276 | `[[autoeducacion]]` | 1 | Miscelánea (534) |
+| 277 | `[[bioetica]]` | 1 | Miscelánea (534) |
+| 278 | `[[candelero]]` | 1 | Miscelánea (534) |
+| 279 | `[[virgenes_prudentes]]` | 1 | Miscelánea (534) |
+| 280 | `[[curacion_milagrosa]]` | 1 | Miscelánea (534) |
+| 281 | `[[don_de_curacion]]` | 1 | Miscelánea (534) |
+| 282 | `[[escatalogia]]` | 1 | Miscelánea (534) |
+| 283 | `[[jardin_del_eden]]` | 1 | Miscelánea (534) |
+| 284 | `[[habitacion_de_dios]]` | 1 | Miscelánea (534) |
+| 285 | `[[hogar]]` | 1 | Miscelánea (534) |
+| 286 | `[[habitacion_trinitaria]]` | 1 | Miscelánea (534) |
+| 287 | `[[ley_del_talion]]` | 1 | Miscelánea (534) |
+| 288 | `[[ciudades_de_refugio]]` | 1 | Miscelánea (534) |
+| 289 | `[[desagravio_eucaristico]]` | 1 | Miscelánea (534) |
+| 290 | `[[obligacion]]` | 1 | Miscelánea (534) |
+| 291 | `[[complementariedad_conyugal]]` | 1 | Miscelánea (534) |
+| 292 | `[[pastoral]]` | 1 | Miscelánea (534) |
+| 293 | `[[cobardia]]` | 1 | Miscelánea (534) |
+| 294 | `[[placer]]` | 1 | Miscelánea (534) |
+| 295 | `[[angeles_caidos]]` | 1 | Miscelánea (534) |
+| 296 | `[[cicero]]` | 1 | Miscelánea (534) |
+| 297 | `[[nuevo_israel]]` | 1 | Miscelánea (534) |
+| 298 | `[[consumacion_del_matrimonio]]` | 1 | Miscelánea (534) |
+| 299 | `[[miel]]` | 1 | Miscelánea (534) |
+| 300 | `[[crecimiento_espiritual]]` | 1 | Miscelánea (534) |
+| 301 | `[[fe_viva]]` | 1 | Miscelánea (534) |
+| 302 | `[[integracion]]` | 1 | Miscelánea (534) |
+| 303 | `[[trafico_de_personas]]` | 1 | Miscelánea (534) |
+| 304 | `[[causas_estructurales_de_la_migracion]]` | 1 | Miscelánea (534) |
+| 305 | `[[patrimonio_estable]]` | 1 | Miscelánea (534) |
+| 306 | `[[cisma_de_oriente_y_occidente]]` | 1 | Miscelánea (534) |
+| 307 | `[[concilio_de_constantinopla_iv]]` | 1 | Miscelánea (534) |
+| 308 | `[[voto_religioso]]` | 1 | Miscelánea (534) |
+| 309 | `[[socialismo]]` | 1 | Miscelánea (534) |
+| 310 | `[[integridad_corporal]]` | 1 | Miscelánea (534) |
+| 311 | `[[diezmo]]` | 1 | Miscelánea (534) |
+| 312 | `[[protestantismo]]` | 1 | Miscelánea (534) |
+| 313 | `[[luteranismo]]` | 1 | Miscelánea (534) |
+| 314 | `[[derrota_de_satanas]]` | 1 | Miscelánea (534) |
+| 315 | `[[vida_publica_de_jesus]]` | 1 | Miscelánea (534) |
+| 316 | `[[limpieza_de_corazon]]` | 1 | Miscelánea (534) |
+| 317 | `[[dispensacion]]` | 1 | Miscelánea (534) |
+| 318 | `[[vida_privada]]` | 1 | Miscelánea (534) |
+| 319 | `[[pureza_de_maria]]` | 1 | Miscelánea (534) |
+| 320 | `[[miguel_arcangel]]` | 1 | Miscelánea (534) |
+| 321 | `[[gabriel_arcangel]]` | 1 | Miscelánea (534) |
+| 322 | `[[rafael_arcangel]]` | 1 | Miscelánea (534) |
+| 323 | `[[anuncio_profetico]]` | 1 | Miscelánea (534) |
+| 324 | `[[denuncia_profetica]]` | 1 | Miscelánea (534) |
+| 325 | `[[concilio_de_lyon_ii]]` | 1 | Miscelánea (534) |
+| 326 | `[[fondo_diocesano]]` | 1 | Miscelánea (534) |
+| 327 | `[[macedonianos]]` | 1 | Miscelánea (534) |
+| 328 | `[[negligencia_espiritual]]` | 1 | Miscelánea (534) |
+| 329 | `[[maternidad_divina_de_maria]]` | 1 | Miscelánea (534) |
+| 330 | `[[hora_de_jesus]]` | 1 | Miscelánea (534) |
+| 331 | `[[senal]]` | 1 | Miscelánea (534) |
+| 332 | `[[amor_fraterno]]` | 1 | Miscelánea (534) |
+| 333 | `[[autoridad_religiosa]]` | 1 | Miscelánea (534) |
+| 334 | `[[vocacion_del_hombre]]` | 1 | Miscelánea (534) |
+| 335 | `[[guia_pastoral]]` | 1 | Miscelánea (534) |
+| 336 | `[[discernimiento_pastoral]]` | 1 | Miscelánea (534) |
+| 337 | `[[acompanamiento_pastoral]]` | 1 | Miscelánea (534) |
+| 338 | `[[privacion_de_dios]]` | 1 | Miscelánea (534) |
+| 339 | `[[opus_dei]]` | 1 | Miscelánea (534) |
+| 340 | `[[organizacion_eclesiastica]]` | 1 | Miscelánea (534) |
+| 341 | `[[universalismo_de_la_salvacion]]` | 1 | Miscelánea (534) |
+| 342 | `[[intelectualismo]]` | 1 | Miscelánea (534) |
+| 343 | `[[pasquier_quesnel]]` | 1 | Miscelánea (534) |
+| 344 | `[[predicacion_biblica]]` | 1 | Miscelánea (534) |
+| 345 | `[[servicio_de_la_caridad]]` | 1 | Miscelánea (534) |
+| 346 | `[[disputa_de_auxiliis]]` | 1 | Miscelánea (534) |
+| 347 | `[[incesto]]` | 1 | Miscelánea (534) |
+| 348 | `[[ser_necesario]]` | 1 | Miscelánea (534) |
+| 349 | `[[unigenito]]` | 1 | Miscelánea (534) |
+| 350 | `[[temeridad]]` | 1 | Miscelánea (534) |
+| 351 | `[[josefinismo]]` | 1 | Miscelánea (534) |
+| 352 | `[[seguridad_de_la_salvacion]]` | 1 | Miscelánea (534) |
+| 353 | `[[hinduismo]]` | 1 | Miscelánea (534) |
+| 354 | `[[semina_verbi_en_las_religiones]]` | 1 | Miscelánea (534) |
+| 355 | `[[concordancia_entre_fe_y_razon]]` | 1 | Miscelánea (534) |
+| 356 | `[[superior_religioso]]` | 1 | Miscelánea (534) |
+| 357 | `[[coherederos]]` | 1 | Miscelánea (534) |
+| 358 | `[[profesion_temporal]]` | 1 | Miscelánea (534) |
+| 359 | `[[reino]]` | 1 | Miscelánea (534) |
+| 360 | `[[ministerio_de_jesus]]` | 1 | Miscelánea (534) |
+| 361 | `[[penitencia_conversion]]` | 1 | Miscelánea (534) |
+| 362 | `[[interpretacion_de_lenguas]]` | 1 | Miscelánea (534) |
+| 363 | `[[doble_mandamiento_del_amor]]` | 1 | Miscelánea (534) |
+| 364 | `[[agape]]` | 1 | Miscelánea (534) |
+| 365 | `[[iglesia_como_sacramento]]` | 1 | Miscelánea (534) |
+| 366 | `[[depresion]]` | 1 | Miscelánea (534) |
+| 367 | `[[ansiedad]]` | 1 | Miscelánea (534) |
+| 368 | `[[realeza_de_maria]]` | 1 | Miscelánea (534) |
+| 369 | `[[divulgacion]]` | 1 | Miscelánea (534) |
+| 370 | `[[epiclesis]]` | 1 | Miscelánea (534) |
+| 371 | `[[sinodo]]` | 1 | Miscelánea (534) |
+| 372 | `[[inclusividad_liturgica]]` | 1 | Miscelánea (534) |
+| 373 | `[[llaves]]` | 1 | Miscelánea (534) |
+| 374 | `[[lapsi]]` | 1 | Miscelánea (534) |
+| 375 | `[[espiritualidad_monastica]]` | 1 | Miscelánea (534) |
+| 376 | `[[trascendencia]]` | 1 | Miscelánea (534) |
+| 377 | `[[religion_y_politica]]` | 1 | Miscelánea (534) |
+| 378 | `[[relatividad_escatologica]]` | 1 | Miscelánea (534) |
+| 379 | `[[ilustracion]]` | 1 | Miscelánea (534) |
+| 380 | `[[oracion_afectiva]]` | 1 | Miscelánea (534) |
+| 381 | `[[lucha_contra_la_dispersion]]` | 1 | Miscelánea (534) |
+| 382 | `[[newman]]` | 1 | Miscelánea (534) |
+| 383 | `[[oracion_publica]]` | 1 | Miscelánea (534) |
+| 384 | `[[conocimiento_sensitivo_y_lenguaje]]` | 1 | Miscelánea (534) |
+| 385 | `[[ministerios]]` | 1 | Miscelánea (534) |
+| 386 | `[[diaspora]]` | 1 | Miscelánea (534) |
+| 387 | `[[contrareforma]]` | 1 | Miscelánea (534) |
+| 388 | `[[rebano_de_dios]]` | 1 | Miscelánea (534) |
+| 389 | `[[votum]]` | 1 | Miscelánea (534) |
+| 390 | `[[viudedad]]` | 1 | Miscelánea (534) |
+| 391 | `[[dom_de_las_pasiones]]` | 1 | Miscelánea (534) |
+| 392 | `[[cinco_mandamientos]]` | 1 | Miscelánea (534) |
+| 393 | `[[muerte_y_resurreccion]]` | 1 | Miscelánea (534) |
+| 394 | `[[entrada_en_la_tierra]]` | 1 | Miscelánea (534) |
+| 395 | `[[pena_canonica]]` | 1 | Miscelánea (534) |
+| 396 | `[[salmo_responsorial]]` | 1 | Miscelánea (534) |
+| 397 | `[[lecturas_biblicas]]` | 1 | Miscelánea (534) |
+| 398 | `[[oracion_universal]]` | 1 | Miscelánea (534) |
+| 399 | `[[doctor_angelico]]` | 1 | Miscelánea (534) |
+| 400 | `[[ocasionalismo]]` | 1 | Miscelánea (534) |
+| 401 | `[[congregaciones_romanas]]` | 1 | Miscelánea (534) |
+| 402 | `[[consumismo]]` | 1 | Miscelánea (534) |
+| 403 | `[[actividad_misional]]` | 1 | Miscelánea (534) |
+| 404 | `[[daniel]]` | 1 | Miscelánea (534) |
+| 405 | `[[superior]]` | 1 | Miscelánea (534) |
+| 406 | `[[iglesia_en_europa]]` | 1 | Miscelánea (534) |
+| 407 | `[[mision_apostolica]]` | 1 | Miscelánea (534) |
+| 408 | `[[nombres_de_dios]]` | 1 | Miscelánea (534) |
+| 409 | `[[catarismo]]` | 1 | Miscelánea (534) |
+| 410 | `[[monismo]]` | 1 | Miscelánea (534) |
+| 411 | `[[comunicacion_in_sacris]]` | 1 | Miscelánea (534) |
+| 412 | `[[marana_tha]]` | 1 | Miscelánea (534) |
+| 413 | `[[iglesia_esposa]]` | 1 | Miscelánea (534) |
+| 414 | `[[anonadamiento]]` | 1 | Miscelánea (534) |
+| 415 | `[[humanidad]]` | 1 | Miscelánea (534) |
+| 416 | `[[silencio_interior]]` | 1 | Miscelánea (534) |
+| 417 | `[[valdenses]]` | 1 | Miscelánea (534) |
+| 418 | `[[educacion_afectiva]]` | 1 | Miscelánea (534) |
+| 419 | `[[antologia_del_delegado_pontificio]]` | 1 | Miscelánea (534) |
+| 420 | `[[capitulo_general_extraordinario_2018]]` | 1 | Miscelánea (534) |
+| 421 | `[[fundamento]]` | 1 | Miscelánea (534) |
+| 422 | `[[entrega_total]]` | 1 | Miscelánea (534) |
+| 423 | `[[viejo_adan]]` | 1 | Miscelánea (534) |
+| 424 | `[[participacion_en_la_naturaleza_divina]]` | 1 | Miscelánea (534) |
+| 425 | `[[potencia_obediencial]]` | 1 | Miscelánea (534) |
+| 426 | `[[panpneumatismo]]` | 1 | Miscelánea (534) |
+| 427 | `[[vida_futura]]` | 1 | Miscelánea (534) |
+| 428 | `[[composicion_acto_potencia]]` | 1 | Miscelánea (534) |
+| 429 | `[[composicion_esencia_existencia]]` | 1 | Miscelánea (534) |
+| 430 | `[[antropologia]]` | 1 | Miscelánea (534) |
+| 431 | `[[accio_catolica]]` | 1 | Miscelánea (534) |
+| 432 | `[[parcialidad]]` | 1 | Miscelánea (534) |
+| 433 | `[[humanidad_nueva]]` | 1 | Miscelánea (534) |
+| 434 | `[[cambio_cultural]]` | 1 | Miscelánea (534) |
+| 435 | `[[monasterio]]` | 1 | Miscelánea (534) |
+| 436 | `[[dedicacion]]` | 1 | Miscelánea (534) |
+| 437 | `[[formacion_del_caracter]]` | 1 | Miscelánea (534) |
+| 438 | `[[conocimiento_divino]]` | 1 | Miscelánea (534) |
+| 439 | `[[libre_albedrio_humano]]` | 1 | Miscelánea (534) |
+| 440 | `[[memoria_historica]]` | 1 | Miscelánea (534) |
+| 441 | `[[ano_jubilar_2000]]` | 1 | Miscelánea (534) |
+| 442 | `[[misa_tridentina]]` | 1 | Miscelánea (534) |
+| 443 | `[[escribas]]` | 1 | Miscelánea (534) |
+| 444 | `[[saduceos]]` | 1 | Miscelánea (534) |
+| 445 | `[[obispo_de_roma]]` | 1 | Miscelánea (534) |
+| 446 | `[[diaconos]]` | 1 | Miscelánea (534) |
+| 447 | `[[siervo_de_yahveh]]` | 1 | Miscelánea (534) |
+| 448 | `[[confesion_judicial]]` | 1 | Miscelánea (534) |
+| 449 | `[[cesarea_de_filipo]]` | 1 | Miscelánea (534) |
+| 450 | `[[santuarios]]` | 1 | Miscelánea (534) |
+| 451 | `[[potestad_indirecta]]` | 1 | Miscelánea (534) |
+| 452 | `[[examen]]` | 1 | Miscelánea (534) |
+| 453 | `[[servicio_de_dios]]` | 1 | Miscelánea (534) |
+| 454 | `[[fuego_eterno]]` | 1 | Miscelánea (534) |
+| 455 | `[[maria_santisima]]` | 1 | Miscelánea (534) |
+| 456 | `[[simeon]]` | 1 | Miscelánea (534) |
+| 457 | `[[presentacion_en_el_templo]]` | 1 | Miscelánea (534) |
+| 458 | `[[lampara_del_santisimo]]` | 1 | Miscelánea (534) |
+| 459 | `[[colonizacion]]` | 1 | Miscelánea (534) |
+| 460 | `[[derecho_de_gentes]]` | 1 | Miscelánea (534) |
+| 461 | `[[universidad_de_salamanca]]` | 1 | Miscelánea (534) |
+| 462 | `[[probabiliorismo]]` | 1 | Miscelánea (534) |
+| 463 | `[[tutiorismo]]` | 1 | Miscelánea (534) |
+| 464 | `[[irregularidad]]` | 1 | Miscelánea (534) |
+| 465 | `[[salus_animarum]]` | 1 | Miscelánea (534) |
+| 466 | `[[lenguaje]]` | 1 | Miscelánea (534) |
+| 467 | `[[mundanidad_espiritual]]` | 1 | Miscelánea (534) |
+| 468 | `[[pluralismo_teologico]]` | 1 | Miscelánea (534) |
+| 469 | `[[estrella_de_belen]]` | 1 | Miscelánea (534) |
+| 470 | `[[rapina]]` | 1 | Miscelánea (534) |
+| 471 | `[[luz_interior]]` | 1 | Miscelánea (534) |
+| 472 | `[[demostracion]]` | 1 | Miscelánea (534) |
+| 473 | `[[ciudad]]` | 1 | Miscelánea (534) |
+| 474 | `[[jacob]]` | 1 | Miscelánea (534) |
+| 475 | `[[betel]]` | 1 | Miscelánea (534) |
+| 476 | `[[corredentora]]` | 1 | Miscelánea (534) |
+| 477 | `[[adopcion]]` | 1 | Miscelánea (534) |
+| 478 | `[[oracion_sacerdotal]]` | 1 | Miscelánea (534) |
+| 479 | `[[teologia_paulina]]` | 1 | Miscelánea (534) |
+| 480 | `[[viajes_misioneros]]` | 1 | Miscelánea (534) |
+| 481 | `[[concilio_romano_382]]` | 1 | Miscelánea (534) |
+| 482 | `[[concilio_de_cartago_iii]]` | 1 | Miscelánea (534) |
+| 483 | `[[sinodo_patriarcal]]` | 1 | Miscelánea (534) |
+| 484 | `[[iglesias_sui_iuris]]` | 1 | Miscelánea (534) |
+| 485 | `[[materia]]` | 1 | Miscelánea (534) |
+| 486 | `[[educacion_sexual]]` | 1 | Miscelánea (534) |
+| 487 | `[[matrimonio_mistico]]` | 1 | Miscelánea (534) |
+| 488 | `[[necio]]` | 1 | Miscelánea (534) |
+| 489 | `[[salvador]]` | 1 | Miscelánea (534) |
+| 490 | `[[exposicion_del_santisimo]]` | 1 | Miscelánea (534) |
+| 491 | `[[custodia]]` | 1 | Miscelánea (534) |
+| 492 | `[[misterio_del_mal]]` | 1 | Miscelánea (534) |
+| 493 | `[[mission_de_la_iglesia]]` | 1 | Miscelánea (534) |
+| 494 | `[[sensibilidad]]` | 1 | Miscelánea (534) |
+| 495 | `[[alas_de_dios]]` | 1 | Miscelánea (534) |
+| 496 | `[[postracion]]` | 1 | Miscelánea (534) |
+| 497 | `[[suplica]]` | 1 | Miscelánea (534) |
+| 498 | `[[racismo]]` | 1 | Miscelánea (534) |
+| 499 | `[[doce_tribus]]` | 1 | Miscelánea (534) |
+| 500 | `[[bienes_del_matrimonio]]` | 1 | Miscelánea (534) |
+| 501 | `[[espiritualidad_cristiana]]` | 1 | Miscelánea (534) |
+| 502 | `[[misiologia]]` | 1 | Miscelánea (534) |
+| 503 | `[[esponsalicio_significado]]` | 1 | Miscelánea (534) |
+| 504 | `[[voluntad_libre]]` | 1 | Miscelánea (534) |
+| 505 | `[[concilio_de_roma_382]]` | 1 | Miscelánea (534) |
+| 506 | `[[exsultet]]` | 1 | Miscelánea (534) |
+| 507 | `[[conyugalidad]]` | 1 | Miscelánea (534) |
+| 508 | `[[fenomenologia]]` | 1 | Miscelánea (534) |
+| 509 | `[[amor_y_responsabilidad]]` | 1 | Miscelánea (534) |
+| 510 | `[[promesa_davidica]]` | 1 | Miscelánea (534) |
+| 511 | `[[salvacion_universal]]` | 1 | Miscelánea (534) |
+| 512 | `[[paz_interior]]` | 1 | Miscelánea (534) |
+| 513 | `[[imagen]]` | 1 | Miscelánea (534) |
+| 514 | `[[ministerio_apostolico]]` | 1 | Miscelánea (534) |
+| 515 | `[[indiferencia]]` | 1 | Miscelánea (534) |
+| 516 | `[[concilio_de_elvira]]` | 1 | Miscelánea (534) |
+| 517 | `[[unidad_del_padre_y_del_hijo]]` | 1 | Miscelánea (534) |
+| 518 | `[[culto_de_las_imagenes]]` | 1 | Miscelánea (534) |
+| 519 | `[[libertad_de_expresion]]` | 1 | Miscelánea (534) |
+| 520 | `[[ser_humano]]` | 1 | Miscelánea (534) |
+| 521 | `[[evolucionismo]]` | 1 | Miscelánea (534) |
+| 522 | `[[subjetivismo]]` | 1 | Miscelánea (534) |
+| 523 | `[[actividad_humana]]` | 1 | Miscelánea (534) |
+| 524 | `[[configuracion_sacramental]]` | 1 | Miscelánea (534) |
+| 525 | `[[contrato]]` | 1 | Miscelánea (534) |
+| 526 | `[[fiesta]]` | 1 | Miscelánea (534) |
+| 527 | `[[manifestaciones_de_dios]]` | 1 | Miscelánea (534) |
+| 528 | `[[enfermedad_curacion]]` | 1 | Miscelánea (534) |
+| 529 | `[[nicea_i]]` | 1 | Miscelánea (534) |
+| 530 | `[[tertuliano]]` | 1 | Miscelánea (534) |
+| 531 | `[[boca]]` | 1 | Miscelánea (534) |
+| 532 | `[[dificultades]]` | 1 | Miscelánea (534) |
+| 533 | `[[mediacion_mariana]]` | 1 | Miscelánea (534) |
+| 534 | `[[padre]]` | 1 | Miscelánea (534) |
+| 535 | `[[eleccion_de_israel]]` | 1 | Miscelánea (534) |
+| 536 | `[[encarnacion_del_alma]]` | 1 | Miscelánea (534) |
+| 537 | `[[espiritualidad_del_alma]]` | 1 | Miscelánea (534) |
+| 538 | `[[bondad_de_la_creacion]]` | 1 | Miscelánea (534) |
+| 539 | `[[lector]]` | 1 | Miscelánea (534) |
+| 540 | `[[primado_pontificio]]` | 1 | Miscelánea (534) |
+| 541 | `[[sortilegio]]` | 1 | Miscelánea (534) |
+| 542 | `[[sequedades_espirituales]]` | 1 | Miscelánea (534) |
+| 543 | `[[john_conner]]` | 1 | Miscelánea (534) |
+| 544 | `[[jorge_lopez]]` | 1 | Miscelánea (534) |
+| 545 | `[[ternura_de_dios]]` | 1 | Miscelánea (534) |
+| 546 | `[[viscera_misericordiae]]` | 1 | Miscelánea (534) |
+| 547 | `[[shekina]]` | 1 | Miscelánea (534) |
+| 548 | `[[tablas_de_la_ley]]` | 1 | Miscelánea (534) |
+| 549 | `[[levadura_de_la_gratuidad]]` | 1 | Miscelánea (534) |
+| 550 | `[[vid]]` | 1 | Miscelánea (534) |
+| 551 | `[[sarmiento]]` | 1 | Miscelánea (534) |
+| 552 | `[[teologia_de_la_liberacion]]` | 1 | Miscelánea (534) |
+| 553 | `[[liberio]]` | 1 | Miscelánea (534) |
+| 554 | `[[efeso]]` | 1 | Miscelánea (534) |
+| 555 | `[[didaskaleion]]` | 1 | Miscelánea (534) |
+| 556 | `[[dc-convivium]]` | 1 | Miscelánea (534) |
+| 557 | `[[martyria]]` | 1 | Miscelánea (534) |
+| 558 | `[[cientificismo]]` | 1 | Miscelánea (534) |
+| 559 | `[[mediocridad_espiritual]]` | 1 | Miscelánea (534) |
+| 560 | `[[triunfo_de_la_cruz]]` | 1 | Miscelánea (534) |
+| 561 | `[[separacion_conyugal]]` | 1 | Miscelánea (534) |
+| 562 | `[[asentimiento_religioso]]` | 1 | Miscelánea (534) |
+| 563 | `[[promesas_divinas]]` | 1 | Miscelánea (534) |
+| 564 | `[[union_conyugal]]` | 1 | Miscelánea (534) |
+| 565 | `[[transmision_de_la_vida]]` | 1 | Miscelánea (534) |
+| 566 | `[[interreligioso]]` | 1 | Miscelánea (534) |
+| 567 | `[[respecto]]` | 1 | Miscelánea (534) |
+| 568 | `[[tolerancia]]` | 1 | Miscelánea (534) |
+| 569 | `[[indiferencia_ignaciana]]` | 1 | Miscelánea (534) |
+| 570 | `[[canon_747]]` | 1 | Miscelánea (534) |
+| 571 | `[[epistemologia_tomista]]` | 1 | Miscelánea (534) |
+| 572 | `[[oracion_descuidada]]` | 1 | Miscelánea (534) |
+| 573 | `[[fundamento_de_la_iglesia]]` | 1 | Miscelánea (534) |
+| 574 | `[[consagracion_de_rusia]]` | 1 | Miscelánea (534) |
+| 575 | `[[mater_ecclesiae]]` | 1 | Miscelánea (534) |
+| 576 | `[[acto_y_potencia]]` | 1 | Miscelánea (534) |
+| 577 | `[[concilio_de_cartago_418]]` | 1 | Miscelánea (534) |
+| 578 | `[[liberacion_libertad]]` | 1 | Miscelánea (534) |
+| 579 | `[[babel_babilonia]]` | 1 | Miscelánea (534) |
+| 580 | `[[apariciones_marianas]]` | 1 | Miscelánea (534) |
+| 581 | `[[endurecimiento_del_corazon]]` | 1 | Miscelánea (534) |
+| 582 | `[[conocimiento_de_si]]` | 1 | Miscelánea (534) |
+| 583 | `[[faraon]]` | 1 | Miscelánea (534) |
+| 584 | `[[jerarquia]]` | 1 | Miscelánea (534) |
+| 585 | `[[adaptacion_cultural]]` | 1 | Miscelánea (534) |
+| 586 | `[[lengua_vernacula_en_la_liturgia]]` | 1 | Miscelánea (534) |
+| 587 | `[[corazon_humano]]` | 1 | Miscelánea (534) |
+| 588 | `[[aniquilacion_espiritual]]` | 1 | Miscelánea (534) |
+| 589 | `[[escucha_de_la_palabra]]` | 1 | Miscelánea (534) |
+| 590 | `[[ensenanza_de_jesus]]` | 1 | Miscelánea (534) |
+| 591 | `[[renovacion_cristiana]]` | 1 | Miscelánea (534) |
+| 592 | `[[bien]]` | 1 | Miscelánea (534) |
+| 593 | `[[beatificacion]]` | 1 | Miscelánea (534) |
+| 594 | `[[economia_de_comunion]]` | 1 | Miscelánea (534) |
+| 595 | `[[resignacion_cristiana]]` | 1 | Miscelánea (534) |
+| 596 | `[[casa_de_dios]]` | 1 | Miscelánea (534) |
+| 597 | `[[gehena]]` | 1 | Miscelánea (534) |
+| 598 | `[[concurrencia_divina]]` | 1 | Miscelánea (534) |
+| 599 | `[[causalidad]]` | 1 | Miscelánea (534) |
+| 600 | `[[teologia_francesa]]` | 1 | Miscelánea (534) |
+| 601 | `[[de_condicionibus]]` | 1 | Miscelánea (534) |
+| 602 | `[[de_chardin]]` | 1 | Miscelánea (534) |
+| 603 | `[[dominicos]]` | 1 | Miscelánea (534) |
+| 604 | `[[agustinismo]]` | 1 | Miscelánea (534) |
+| 605 | `[[fatalismo]]` | 1 | Miscelánea (534) |
+| 606 | `[[predestinacion_doble]]` | 1 | Miscelánea (534) |
+| 607 | `[[estructura_de_la_iglesia]]` | 1 | Miscelánea (534) |
+| 608 | `[[iglesia_de_alejandria]]` | 1 | Miscelánea (534) |
+| 609 | `[[iglesia_de_antioquia]]` | 1 | Miscelánea (534) |
+| 610 | `[[gentil]]` | 1 | Miscelánea (534) |
+| 611 | `[[glorificacion]]` | 1 | Miscelánea (534) |
+| 612 | `[[memorial]]` | 1 | Miscelánea (534) |
+| 613 | `[[falta_de_confianza_en_dios]]` | 1 | Miscelánea (534) |
+| 614 | `[[vicario_de_dios]]` | 1 | Miscelánea (534) |
+| 615 | `[[condena_de_543]]` | 1 | Miscelánea (534) |
+| 616 | `[[tecnica]]` | 1 | Miscelánea (534) |
+| 617 | `[[mesa_del_senor]]` | 1 | Miscelánea (534) |
+| 618 | `[[liturgia_encarnacional]]` | 1 | Miscelánea (534) |
+| 619 | `[[non_letales]]` | 1 | Miscelánea (534) |
+| 620 | `[[salmo]]` | 1 | Miscelánea (534) |
+| 621 | `[[canto_liturgico]]` | 1 | Miscelánea (534) |
+| 622 | `[[solicitud]]` | 1 | Miscelánea (534) |
+| 623 | `[[protocanonicos]]` | 1 | Miscelánea (534) |
+| 624 | `[[eficacia_sacramental]]` | 1 | Miscelánea (534) |
+| 625 | `[[razon_y_fe]]` | 1 | Miscelánea (534) |
+| 626 | `[[celestio]]` | 1 | Miscelánea (534) |
+| 627 | `[[capilla_sixtina]]` | 1 | Miscelánea (534) |
+| 628 | `[[clarisas]]` | 1 | Miscelánea (534) |
+| 629 | `[[justificacion_por_la_fe]]` | 1 | Miscelánea (534) |
+| 630 | `[[cuaternidad]]` | 1 | Miscelánea (534) |
+| 631 | `[[cisma_laurenciano]]` | 1 | Miscelánea (534) |
+| 632 | `[[cuadragesimo_anno]]` | 1 | Miscelánea (534) |
+| 633 | `[[leon_xii]]` | 1 | Miscelánea (534) |
+| 634 | `[[molinismo]]` | 1 | Miscelánea (534) |
+| 635 | `[[irlanda]]` | 1 | Miscelánea (534) |
+| 636 | `[[contrarreforma]]` | 1 | Miscelánea (534) |
+| 637 | `[[espiritismo]]` | 1 | Miscelánea (534) |
+| 638 | `[[terceras_ordenes_y_asociaciones_asimiladas]]` | 1 | Miscelánea (534) |
+| 639 | `[[patriarcas]]` | 1 | Miscelánea (534) |
+| 640 | `[[humanum_genus]]` | 1 | Miscelánea (534) |
+| 641 | `[[conferencia_episcopal_espanola]]` | 1 | Miscelánea (534) |
+| 642 | `[[carmelo]]` | 1 | Miscelánea (534) |
+| 643 | `[[arquitectura_religiosa]]` | 1 | Miscelánea (534) |
+| 644 | `[[modernismo_catalan]]` | 1 | Miscelánea (534) |
+| 645 | `[[barcelona]]` | 1 | Miscelánea (534) |
+| 646 | `[[damaso_i]]` | 1 | Miscelánea (534) |
+| 647 | `[[apelacion_al_concilio_universal]]` | 1 | Miscelánea (534) |
+| 648 | `[[culto_a_las_imagenes]]` | 1 | Miscelánea (534) |
+| 649 | `[[alma_humana]]` | 1 | Miscelánea (534) |
+| 650 | `[[escuela_de_antioquia]]` | 1 | Miscelánea (534) |
+| 651 | `[[emigracion]]` | 1 | Miscelánea (534) |
+| 652 | `[[capitulo_general_extraordinario]]` | 1 | Miscelánea (534) |
+| 653 | `[[milicia_de_la_inmaculada]]` | 1 | Miscelánea (534) |
+| 654 | `[[alejandria]]` | 1 | Miscelánea (534) |
+| 655 | `[[panteno]]` | 1 | Miscelánea (534) |
+| 656 | `[[teologia_patristica]]` | 1 | Miscelánea (534) |
+| 657 | `[[zenon]]` | 1 | Miscelánea (534) |
+| 658 | `[[henotikon]]` | 1 | Miscelánea (534) |
+| 659 | `[[gnosis]]` | 1 | Miscelánea (534) |
+| 660 | `[[hispana]]` | 1 | Miscelánea (534) |
+| 661 | `[[tres_capitulos]]` | 1 | Miscelánea (534) |
+| 662 | `[[emmanuel]]` | 1 | Miscelánea (534) |
+| 663 | `[[divina_misericordia]]` | 1 | Miscelánea (534) |
+| 664 | `[[dies_irae]]` | 1 | Miscelánea (534) |
+| 665 | `[[padres_apostolicos]]` | 1 | Miscelánea (534) |
+| 666 | `[[cisma_de_occidente]]` | 1 | Miscelánea (534) |
+| 667 | `[[teologia_perfeccion_cristiana]]` | 1 | Miscelánea (534) |
+| 668 | `[[acto_conyugal]]` | 1 | Miscelánea (534) |
+| 669 | `[[naturaleza_ritual_del_hombre]]` | 1 | Miscelánea (534) |
+| 670 | `[[sociedades_perfectas]]` | 1 | Miscelánea (534) |
+| 671 | `[[inmanencia]]` | 1 | Miscelánea (534) |
+| 672 | `[[evolucion]]` | 1 | Miscelánea (534) |
+| 673 | `[[poligenismo]]` | 1 | Miscelánea (534) |
+| 674 | `[[fines_del_matrimonio]]` | 1 | Miscelánea (534) |
+| 675 | `[[espiritualidad_lc]]` | 1 | Miscelánea (534) |
+| 676 | `[[apostolado_intelectual]]` | 1 | Miscelánea (534) |
+| 677 | `[[promesas_bautismales]]` | 1 | Miscelánea (534) |
+| 678 | `[[rito_de_renovacion_bautismal]]` | 1 | Miscelánea (534) |
+| 679 | `[[maestro_de_ceremonias]]` | 1 | Miscelánea (534) |
+| 680 | `[[sacristan]]` | 1 | Miscelánea (534) |
+| 681 | `[[misa_de_requiem]]` | 1 | Miscelánea (534) |
+| 682 | `[[sotana]]` | 1 | Miscelánea (534) |
+| 683 | `[[conversion_y_reparacion]]` | 1 | Miscelánea (534) |
+| 684 | `[[renovacion_carismatica]]` | 1 | Miscelánea (534) |
+| 685 | `[[riesgo]]` | 1 | Miscelánea (534) |
+| 686 | `[[la_alegria_cristiana]]` | 1 | Miscelánea (534) |
+| 687 | `[[mayordomia]]` | 1 | Miscelánea (534) |
+| 688 | `[[teodramatica]]` | 1 | Miscelánea (534) |
 
-## Nuevos huérfanos detectados (2026-07-01) — detección mejorada
-
-Nueva exploración con normalización de acentos (NFD), manejo de `[[link#section]]`,
-y cobertura completa de todos los subdirectorios de `wiki/`. Se detectaron **812
-wikilinks huérfanos únicos** (≥1 referencia), clasificados por categoría temática
-con su conteo de referencias. Esta detección reemplaza y subsume la anterior
-(588 originales + 24 + 36 creados).
-
-### Clasificación por categoría
-
-> Formato: `[[wikilink]]` (N referencias) — listados por referencia descendente.
-
-### Dogmática (52)
-
-```
-[[humildad_de_cristo]] (6)
-[[sacrificio_de_cristo]] (5)
-[[cuerpo_mistico_de_cristo]] (5)
-[[accion_de_gracias]] (4)
-[[satisfaccion_de_cristo]] (4)
-[[sangre_de_cristo]] (4)
-[[antecristo]] (3)
-[[victoria_de_cristo]] (3)
-[[gracia_capital]] (2)
-[[pena_del_pecado]] (2)
-[[defectos_asumidos_por_cristo]] (2)
-[[gloria_de_cristo]] (2)
-[[mesianismo_de_cristo]] (2)
-[[gracia_de_cristo]] (2)
-[[liberacion_del_pecado]] (2)
-[[esclavitud_del_pecado]] (2)
-[[gracia_preveniente]] (2)
-[[meritos_de_cristo]] (2)
-[[capitulo_general_2020_legionarios_de_cristo]] (2)
-[[pecado_de_lengua]] (1)
-[[tentacion_de_cristo]] (1)
-[[gracia_cristica]] (1)
-[[cristologia_joanica]] (1)
-[[pecado_de_pensamiento]] (1)
-[[sentido_del_pecado]] (1)
-[[concilios_cristologicos]] (1)
-[[union_con_cristo]] (1)
-[[bautismo_de_cristo]] (1)
-[[dolor_del_pecado]] (1)
-[[genealogia_de_cristo]] (1)
-[[autoridad_de_cristo]] (1)
-[[trascendencia_de_cristo]] (1)
-[[gracia_eficaz]] (1)
-[[consustancial]] (1)
-[[gracia_de_la_palabra]] (1)
-[[vida_publica_de_cristo]] (1)
-[[segunda_persona_de_la_trinidad]] (1)
-[[profecia_de_cristo]] (1)
-[[filiacion_divina_de_cristo]] (1)
-[[manifestacion_de_cristo]] (1)
-[[estado_de_gracia]] (1)
-[[teosis]] (1)
-[[ejemplo_de_cristo]] (1)
-[[modalismo]] (1)
-[[cristo_luz]] (1)
-[[pecado_contra_el_primer_mandamiento]] (1)
-[[cristo_resucitado]] (1)
-[[operacion_de_cristo]] (1)
-[[naturaleza_humana_de_cristo]] (1)
-[[plenitud_de_gracia]] (1)
-```
-
-### Moral (19)
-
-```
-[[norma_moral]] (4)
-[[justicia_conmutativa]] (3)
-[[obligacion_moral]] (2)
-[[virtud_esperanza]] (2)
-[[moral]] (2)
-[[virtud_de_la_obediencia]] (2)
-[[virtud_teologal]] (2)
-[[virtudes_humanas]] (1)
-[[virtud_moral]] (1)
-[[ateismo_moral]] (1)
-[[moral_catolica]] (1)
-[[heroicidad_de_virtudes]] (1)
-[[conciencia_mesianica_de_jesus]] (1)
-[[moral_de_las_pasiones]] (1)
-[[justicia_particular]] (1)
-[[educacion_moral]] (1)
-[[verdad_moral]] (1)
-[[justicia_vindicativa]] (1)
-[[las_fuentes_de_la_moral_cristiana]] (1)
-```
-
-### Personas (50)
-
-```
-[[confesion_de_pedro]] (4)
-[[inocencio_xii]] (4)
-[[santa_teresa_de_lisieux]] (3)
-[[san_juan_crisostomo]] (3)
-[[ockham]] (3)
-[[inocencio_i]] (2)
-[[lamennais]] (2)
-[[pablo_de_tarso]] (2)
-[[santa_indiferencia]] (2)
-[[evangelio_de_juan]] (2)
-[[pedro]] (2)
-[[san_irineo_de_leon]] (2)
-[[san_jeronimo]] (2)
-[[julio_ii]] (2)
-[[benito_xv]] (2)
-[[santa_cruz]] (1)
-[[pablo]] (1)
-[[pablo_vi]] (1)
-[[san_alfonso_maria_de_ligorio]] (1)
-[[inocencio_xi]] (1)
-[[nietzsche]] (1)
-[[alcuino_de_york]] (1)
-[[beato_de_liebana]] (1)
-[[luis_xiv]] (1)
-[[san_atanasio]] (1)
-[[clemente_de_alejandria]] (1)
-[[san_ambrosio]] (1)
-[[san_luis_maria_grignion_de_montfort]] (1)
-[[hilario_de_poitiers]] (1)
-[[duns_scoto]] (1)
-[[hincmaro_de_reims]] (1)
-[[pedro_de_osma]] (1)
-[[duns_escoto]] (1)
-[[pedro_lombardo]] (1)
-[[hermes]] (1)
-[[bautain]] (1)
-[[blas_pascal]] (1)
-[[justiniano_emperador]] (1)
-[[federico_ii]] (1)
-[[carlos_v]] (1)
-[[teodosio_i]] (1)
-[[clemente_xii]] (1)
-[[inocencio_xiii]] (1)
-[[inocencio_iv]] (1)
-[[federico_i_barbarroja]] (1)
-[[santa_sofia]] (1)
-[[bossuet]] (1)
-[[henri_de_lubac]] (1)
-[[exegesis_de_juan]] (1)
-```
-
-### Documentos (25)
-
-```
-[[evangelium_vitae]] (4)
-[[lamentabili]] (4)
-[[pascendi]] (4)
-[[mirari_vos]] (3)
-[[quanta_cura]] (3)
-[[humani_generis]] (3)
-[[immortale_dei]] (2)
-[[humanae_vitae]] (2)
-[[divino_afflante_spiritu]] (2)
-[[casti_connubii]] (2)
-[[pastor_bonus]] (1)
-[[providentissimus_deus]] (1)
-[[redemptoris_missio]] (1)
-[[evangelii_gaudium]] (1)
-[[dilexit_nos]] (1)
-[[haurietis_aquas]] (1)
-[[laudato_si]] (1)
-[[dominius_iesus]] (1)
-[[desiderio_desideravi]] (1)
-[[ineffabilis_deus]] (1)
-[[exsurge_domine]] (1)
-[[divini_illius_magistri]] (1)
-[[quadragesimo_anno]] (1)
-[[spiritus_paraclitus]] (1)
-[[ne_temere]] (1)
-```
-
-### Biblia (13)
-
-```
-[[melquisedec]] (4)
-[[carta_a_los_hebreos]] (2)
-[[gn_3_15]] (2)
-[[ezequiel]] (2)
-[[prov_8]] (1)
-[[santiago_5]] (1)
-[[flp_2,6-11]] (1)
-[[daniel]] (1)
-[[anuncio_del_evangelio]] (1)
-[[biblia]] (1)
-[[jacob]] (1)
-[[1_corintios]] (1)
-[[evangelio_de_mateo]] (1)
-```
-
-### Legionarios y espiritualidad LC (3)
-
-```
-[[capg]] (2)
-[[candidatado]] (1)
-[[espiritualidad_ignaciana]] (1)
-```
-
-### Prioridades sugeridas
-
-| Prioridad | Criterio | Cuántos |
-|-----------|----------|---------|
-| **Alta** | ≥4 referencias | ~30 |
-| **Media** | 2–3 referencias | ~80 |
-| **Baja** | 1 referencia | ~700 |
-
-**Recomendación:** procesar por lotes priorizando alta > media > baja, y dentro
-de cada prioridad, por categoría (personas y documentos primero, después
-dogmática, después moral y bíblica, después LC).
-
-### Cómo añadir nuevos huérfanos tras procesar una fuente
-
-Al procesar una fuente nueva, ejecutar este flujo para detectar y registrar
-nuevos huérfanos:
-
-```
-python3 scripts/detectar_huerfanos.py [--normalizar-acentos]
-# Examinar la salida, filtrar solo los wikilinks nuevos que la fuente introduce
-# Añadir los nuevos huérfanos con su conteo a la categoría correspondiente
-# Incrementar el total en ## Totales del análisis
-```
-
-Los scripts están en `.opencode/skills/huérfanos/SKILL.md`. La detección
-mejorada (con normalización NFD y manejo de `#section`) se implementa
-en el script de este análisis (ver código en `instruct.md` sesión `2026-07-01`).
-
-## Falsos positivos conocidos
-
-Wikilinks que no resuelven por diferencias de mayúsculas, acentos, espacio vs guion
-bajo, o que tienen un sinónimo cercano en el wiki:
-
-| Wikilink | Ref. | Tipo | Corrección |
-|----------|------|------|------------|
-| `[[ley]]` | 19 | sinónimo | [[ley_natural]] |
-| `[[razón]]` | 13 | sinónimo | [[razón_natural]] |
-| `[[corazon]]` | 12 | ace | [[corazón]] |
-| `[[maría]]` | 12 | sinónimo | [[virgen_maría]] |
-| `[[tierra_prometida]]` | 10 | sinónimo | [[tierra]] |
-| `[[Iglesia]]` | 9 | caso | [[iglesia]] |
-| `[[ira_de_dios]]` | 9 | sinónimo | [[ira]] |
-| `[[mision]]` | 8 | ace | [[misión]] |
-| `[[Espíritu Santo]]` | 7 | espacio | [[espíritu_santo]] |
-| `[[gloria_de_dios]]` | 7 | caso | [[gloria_de_Dios]] |
-| `[[hijo_de_dios]]` | 7 | sinónimo | [[hijo]] |
-| `[[reino]]` | 7 | sinónimo | [[reino_de_dios]] |
-| `[[ejercicios_espirituales]]` | 6 | sinónimo | [[ejercicios_espirituales_2026]] |
-| `[[encarnacion]]` | 6 | ace | [[encarnación]] |
-| `[[jesus]]` | 6 | ace | [[jesús]] |
-| `[[obstinación]]` | 6 | sinónimo | [[obstinación_en_el_mal]] |
-| `[[voluntad_de_Dios]]` | 6 | caso | [[voluntad_de_dios]] |
-| `[[Providencia_divina]]` | 5 | caso | [[providencia_divina]] |
-| `[[espiritualidad_del_laico]]` | 5 | sinónimo | [[teología_del_laicado]] |
-| `[[poder_de_dios]]` | 5 | sinónimo | [[poder]] |
-| `[[vocación_universal_a_la_santidad]]` | 5 | sinónimo | [[vocación]] |
-| `[[predicacion]]` | 4 | ace | [[predicación]] |
-| `[[projimo]]` | 4 | ace | [[prójimo]] |
-| `[[reino de Dios]]` | 4 | espacio | [[reino_de_dios]] |
-| `[[vida eterna]]` | 4 | espacio | [[vida_eterna]] |
-| `[[Dios]]` | 3 | caso | [[dios]] |
-| `[[Eucaristía]]` | 3 | caso | [[eucaristía]] |
-| `[[Jerusalén]]` | 3 | caso | [[jerusalén]] |
-| `[[abandono_en_Dios]]` | 3 | caso | [[abandono_en_dios]] |
-| `[[amor_de_Dios]]` | 3 | caso | [[amor_de_dios]] |
-| `[[comunion]]` | 3 | ace | [[comunión]] |
-| `[[concepcion_virginal]]` | 3 | ace | [[concepción_virginal]] |
-| `[[concilio_de_Trento]]` | 3 | caso | [[concilio_de_trento]] |
-| `[[consejos_evangelicos]]` | 3 | ace | [[consejos_evangélicos]] |
-| `[[cuerpo místico]]` | 3 | espacio | [[cuerpo_místico]] |
-| `[[designio de Dios]]` | 3 | espacio | [[designio_de_dios]] |
-| `[[idolos]]` | 3 | ace | [[ídolos]] |
-| `[[mesias]]` | 3 | ace | [[mesías]] |
-| `[[pobreza_evangelica]]` | 3 | ace | [[pobreza_evangélica]] |
-| `[[pueblo_de_Dios]]` | 3 | caso | [[pueblo_de_dios]] |
-| `[[resurrección_de_Cristo]]` | 3 | caso | [[resurrección_de_cristo]] |
-| `[[revelacion]]` | 3 | ace | [[revelación]] |
-| `[[seguimiento_de_Cristo]]` | 3 | caso | [[seguimiento_de_cristo]] |
-| `[[tentacion]]` | 3 | ace | [[tentación]] |
-| `[[tradicion_apostolica]]` | 3 | ace | [[tradición_apostólica]] |
-| `[[Abraham]]` | 2 | caso | [[abraham]] |
-| `[[Adán]]` | 2 | caso | [[adán]] |
-| `[[Cristo]]` | 2 | caso | [[cristo]] |
-| `[[David]]` | 2 | caso | [[david]] |
-| `[[Espíritu]]` | 2 | caso | [[espíritu]] |
-| `[[Evangelio]]` | 2 | caso | [[evangelio]] |
-| `[[Juan Bautista]]` | 2 | espacio | [[juan_bautista]] |
-| `[[Moisés]]` | 2 | caso | [[moisés]] |
-| `[[amor_al_projimo]]` | 2 | ace | [[amor_al_prójimo]] |
-| `[[apostoles]]` | 2 | ace | [[apóstoles]] |
-| `[[bendicion]]` | 2 | ace | [[bendición]] |
-| `[[circuncision]]` | 2 | ace | [[circuncisión]] |
-| `[[consumación de los siglos]]` | 2 | espacio | [[consumación_de_los_siglos]] |
-| `[[creacion]]` | 2 | ace | [[creación]] |
-| `[[dia_del_señor]]` | 2 | ace | [[día_del_señor]] |
-| `[[dones_del_Espíritu_Santo]]` | 2 | caso | [[dones_del_espíritu_santo]] |
-| `[[elias]]` | 2 | ace | [[elías]] |
-| `[[espiritu_santo]]` | 2 | ace | [[espíritu_santo]] |
-| `[[exodo]]` | 2 | ace | [[éxodo]] |
-| `[[fé]]` | 2 | ace | [[fe]] |
-| `[[jerusalen]]` | 2 | ace | [[jerusalén]] |
-| `[[judio]]` | 2 | ace | [[judío]] |
-| `[[justificacion]]` | 2 | ace | [[justificación]] |
-| `[[libre_albedrio]]` | 2 | ace | [[libre_albedrío]] |
-| `[[llaves_del_Reino]]` | 2 | caso | [[llaves_del_reino]] |
-| `[[merito]]` | 2 | ace | [[mérito]] |
-| `[[parabola]]` | 2 | ace | [[parábola]] |
-| `[[paraclito]]` | 2 | ace | [[paráclito]] |
-| `[[pasion_de_cristo]]` | 2 | ace | [[pasión_de_cristo]] |
-| `[[persecucion]]` | 2 | ace | [[persecución]] |
-| `[[redencion]]` | 2 | ace | [[redención]] |
-| `[[sabiduria]]` | 2 | ace | [[sabiduría]] |
-| `[[senor]]` | 2 | ace | [[señor]] |
-| `[[uncion_de_los_enfermos]]` | 2 | ace | [[unción_de_los_enfermos]] |
-| `[[vocacion]]` | 2 | ace | [[vocación]] |
-| `[[siervo_de_yahveh]]` | 4 | ace | [[siervo_de_yahvé]] |
-
-**Leyenda de tipos:**
-- `caso`: el artículo existe con diferente capitalización
-- `ace`: el artículo existe con diferente acentuación
-- `espacio`: el artículo usa guion bajo en vez de espacio
-- `sinónimo`: el concepto existe bajo otro nombre (p.ej. `[[maría]]` → `[[virgen_maría]]`)
-
-## Comparación futura
-
-Ejecutar con:
-```
-find wiki/ -name '*.md' -exec grep -oP '\[\[[^\]|]+\]\]' {} + \
-  | sed 's/^[^:]*:\[\[//;s/\]\]$//' \
-  | sort | uniq -c | sort -rn > /tmp/wikilinks_raw.txt
-# then cross-reference against existing files
-```
-
-## Totales del análisis
-
-### Original (2026-06-19)
-- Archivos .md en wiki/: 1955
-- Wikilinks únicos extraídos: 2581
-- Huérfanos (≥1 ref.): 588
-- Falsos positivos (no resuelven exactamente): 80
-
-### Detección mejorada (2026-07-01)
-- Archivos .md en wiki/: ~2020
-- Wikilinks únicos extraídos: ~4500+
-- Huérfanos únicos (≥1 ref., normalizados): **812**
-- Categorías: 52 dogmática / 19 moral / 50 personas / 25 documentos / 13 bíblica / 3 LC / 650 miscelánea
-- Fecha: 2026-07-01 18:00
+**Total: 688 huérfanos**

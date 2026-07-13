@@ -29,6 +29,18 @@ La gravedad de la desobediencia varía: 1) por parte del que manda (mayor cuanto
 
 [SmTh IIa-IIae q.105 a.1-2]
 
+### Según La Regla de San Benito (RegSB)
+
+La Regla establece la desobediencia como transgresión grave de la vida monástica, con consecuencias escalonadas:
+
+- **Desobediencia leve**: amonestación privada por el superior (cap. 23).
+- **Desobediencia reiterada**: amonestación pública, excomunión leve del coro y de la mesa (cap. 23-24).
+- **Desobediencia persistente**: amonestación hasta siete veces; si no enmienda, corrección corporal (cap. 28).
+- **Desobediencia formal grave** (cap. 58, §18): El que promete estabilidad, conversión y obediencia en el oratorio y luego desobedece «será condenado por Aquel de quien se burla»: condenación en el juicio divino.
+- **Desobediencia del novicio**: antes de la promesa, el novicio recibe amonestación sobre las cosas duras de la Regla (§8). Si promete guardarla y no lo hace, incurre en desobediencia grave y en perjurio.
+- **Desobediencia del prior** (cap. 65): Si el prior obra contra la voluntad del abad, es reprendido hasta cuatro veces, luego depuesto y, si persiste, expulsado del monasterio.
+- **Desobediencia del sacerdote** (cap. 62): Si el sacerdote se niega a observar la regla y a obedecer, «será juzgado no como sacerdote, sino como rebelde»; si no enmienda aun con amonestación episcopal, expulsado.
+
 ## Distinciones importantes
 
 - Desobediencia formal (desprecio del precepto) vs. material (obra contra el precepto por otros motivos)

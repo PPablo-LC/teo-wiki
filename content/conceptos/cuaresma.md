@@ -37,6 +37,15 @@ La Constitución Sacrosanctum Concilium §109-110 prescribe que la Cuaresma debe
 
 León XIV se dirige al clero romano «al inicio de este camino cuaresmal», subrayando que la Cuaresma «no es un acto de penitencia: es, al menos para mí, una gran alegría». La Cuaresma es presentada como tiempo para «reavivar el don de Dios» (2 Tim 1,6), donde el fuego de la fe necesita ser alimentado ante el cansancio, la rutina y la indiferencia. El Papa concluye su discurso deseando «un buen camino cuaresmal, que es tiempo de conversión y de alegría para todos», vinculando la Cuaresma no solo a la penitencia sino también al gozo de la renovación espiritual y de la fraternidad presbiteral [L_XIV-ClerRom, 19.02.2026].
 
+### Según La Regla de San Benito (RegSB)
+
+La Regla describe un triple despliegue de la observancia cuaresmal:
+
+- **Observancia de Cuaresma (cap. 44)**: «Toda la Cuaresma se observe con su verdadero espíritu» — guarda de los sentidos, pureza de vida, oración más intensa. El abad puede aumentar la carga de trabajo o la oración según cada uno (§2).
+- **Ayuno y abstinencia (cap. 49)**: Durante el tiempo cuaresmal, los monjes reciben una sola comida al día hacia la hora nona, excepto el domingo. «Desde el tiempo de las fiestas de la Santa Cruz hasta los gallos, si hay algo, se les da de cenar» (§2).
+- **Cuaresma como devoción purificadora (cap. 48)**: El trabajo monástico se intensifica en Cuaresma, pero siempre con medida: disciplina sin desaliento, labor sin exceso. Los monjes reciben libros de lectura espiritual para sus ratos libres.
+- **Hospitalidad en Cuaresma (cap. 53)**: El ayuno se quebranta en atención a los huéspedes de mayor rango, pero los hermanos conservan la disciplina cuaresmal. La caridad no suspende el ayuno; más bien el ayuno se ordena a la caridad.
+
 ## Relaciones doctrinales
 
 La Cuaresma es camino hacia el [[triduo_pascual]] y culmina en la celebración de la [[pascua]]. Su práctica penitencial se ordena a la [[conversión]] y al sacramento de la [[penitencia]].

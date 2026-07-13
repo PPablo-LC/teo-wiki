@@ -117,6 +117,24 @@ El **Concilio de Constanza**, en las interrogaciones para los husitas (D-681-683
 
 **D‑1548**: Condenó como «falsa, temeraria e injuriosa a la práctica de la Iglesia» la proposición que proclama «ser inútil y vana la fórmula introducida de unos siglos a esta parte de absolver generalmente de las excomuniones en que un fiel pudiera haber caído».
 
+**Pío VI** (1794, D‑1546–D‑1548) — Constitución *Auctorem Fidei*:
+
+**D‑1546**: Condenó como falsa, perniciosa y por lo menos errónea la proposición que afirma que «el efecto de la excomunión es sólo exterior, porque por su naturaleza sólo excluye de la comunicación exterior con la Iglesia», «como si la excomunión no fuera pena espiritual, que ata en el cielo y obliga a las almas».
+
+**D‑1547**: Condenó como falsa, temeraria, injuriosa a la potestad de la Iglesia y errónea la proposición que afirma que «es necesario según las leyes naturales y divinas que tanto a la excomunión como a la suspensión deba preceder el examen personal, y que por tanto las sentencias dichas ipso facto no tienen otra fuerza que la de una seria conminación sin efecto actual alguno».
+
+**D‑1548**: Condenó como «falsa, temeraria e injuriosa a la práctica de la Iglesia» la proposición que proclama «ser inútil y vana la fórmula introducida de unos siglos a esta parte de absolver generalmente de las excomuniones en que un fiel pudiera haber caído».
+
+### Según la Regla de San Benito (RegSB)
+
+La RSB desarrolla la excomunión como instrumento de corrección medicinal dentro de la comunidad monástica, atribuyendo al [[abad]] la potestad de aplicarla según la gravedad de la culpa y la disposición del reo.
+
+**Procedimiento gradual (cap. 23–28):** La corrección comienza por la admonición privada (cap. 23); si no basta, sigue una reprensión pública con más testigos (cap. 23); la terquedad se castiga corporalmente con azotes (cap. 28) antes de recurrir a la exclusión. La excomunión se gradúa por su alcance: la leve priva de la [[mesa_comunitaria|mesa]] (cap. 24); la grave priva del [[oratorio]] y de la [[mesa_comunitaria|mesa]], sentándose el excomulgado en tierra ante la puerta del oratorio sin hablar (cap. 25, 44). La tercera gravedad añade la soledad y el trabajo aislado con llanto de penitencia (cap. 25).
+
+La mediación del abad actúa siempre: para las culpas leves de la mesa basta la satisfacción en el oratorio hasta que el abad diga «Suficiente» (cap. 24); para las graves, el abad determina cuándo la postración ha bastado. Los hermanos rezan por el excomulgado, y el abad obra como médico que, tras los fomentos y ungüentos de la exhortación y el cauterio de la excomunión, confía finalmente en la oración de toda la comunidad (cap. 27–28).
+
+El abad imita al buen Pastor: enviando a los «senpectas» (ancianos prudentes) para animar al hermano vacilante sin oprimirle con excesiva tristeza, recordando que «no ha recibido el cuidado de las almas enfermas, no el dominio tiránico sobre las sanas» (cap. 27). Quien sin permiso se reúne con un excomulgado incurre en la misma pena (cap. 26). Cuando todo remedio humano fracasa y el hermano persiste en soberbia, el cuchillo de la amputación (cap. 28) es lícito: «Arranquen al malo de entre ustedes» (1 Cor 5,13), no sea que «una oveja enferma contagie todo el rebaño».
+
 ### Según Sacramentorum Sanctitatis Tutela (SST)
 
 Las *Normae de gravioribus delictis* (SST-2010) establecen en el **art. 5** la excomunión *latae sententiae* reservada a la Sede Apostólica para el delito de atentada ordenación sagrada de una mujer:

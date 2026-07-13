@@ -49,6 +49,16 @@ Los oratorios se distinguen de las iglesias por su finalidad más limitada: est�
 
 El elemento esencial es que no están destinados al culto público general, aunque pueden admitir la participación del pueblo cuando el Obispo lo autorice por causa justa.
 
+### Según La Regla de San Benito (RegSB)
+
+El oratorio en San Benito no es —primero— un espacio jurídico, sino lugar de experiencia de Dios:
+
+- **Santidad del lugar (cap. 52, §1)**: «El oratorio sea lo mismo que significa y no se haga ni se guarde allí otra cosa» — destinación exclusiva a la oración, sin otro uso.
+- **Silencio litúrgico (cap. 52, §2)**: «Al terminar la Obra de Dios saldrán todos con sumo silencio y dando a Dios la debida reverencia, para que si algún hermano quiere orar en particular, no se lo impida la incomodidad de otro».
+- **Oración privada en el oratorio (cap. 52, §3-5)**: «Y si en otra ocasión quiere orar a solas con mayor recogimiento, sencillamente entre y ore, pero no en voz alta, sino con lágrimas y con el corazón atento».
+- **El oratorio del viajero (cap. 50)**: Los hermanos que trabajan lejos del oratorio o están de viaje, realizan la Obra de Dios donde están, «doblando las rodillas con temor de Dios».
+- **Promesa en el oratorio (cap. 58)**: La profesión de estabilidad se hace en el oratorio, delante de toda la comunidad, sobre el altar.
+
 ## Distinciones importantes
 
 - **Oratorio**: lugar sagrado erigido por decreto, para comunidad determinada

@@ -2,10 +2,10 @@
 type: Concepto Teológico
 title: Trabajo
 tags: ["moral", "doctrina_social"]
-
 timestamp: 2026-06-17
 description: "El trabajo es la actividad del hombre que transforma la creación, cooperando con la obra creadora de Dios."
 ---
+
 # Trabajo
 
 > Área: Moral / Doctrina Social
@@ -25,7 +25,7 @@ Jesús fue trabajador (carpintero, Mc 6,3). Pablo trabajaba manualmente (Hch 18,
 
 ### Según el Catecismo (CEC)
 
-El trabajo es parte del orden creado: Dios trabajó seis días y descansó el séptimo, dando modelo a la acción humana (CEC §2171-§2172). El domingo es día de descanso que interrumpe los trabajos cotidianos (§2184-§2188). El trabajo es considerado un deber y un derecho: el hombre debe trabajar para sustentarse y contribuir al bien común (§2427-§2428). El sábado protesta contra las servidumbres del trabajo y el culto al dinero (§2172).
+El trabajo es parte del orden creador: Dios trabajó seis días y descansó el séptimo, dando modelo a la acción humana (CEC §2171-§2172). El domingo es día de descanso que interrumpe los trabajos cotidianos (§2184-§2188). El trabajo es considerado un deber y un derecho: el hombre debe trabajar para sustentarse y contribuir al bien común (§2427-§2428). El sábado protesta contra las servidumbres del trabajo y el culto al dinero (§2172).
 
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
@@ -33,7 +33,7 @@ El trabajo en el AT no es una maldición en sí mismo, sino parte del designio o
 
 El descanso sabático no es ocio, sino consagración del tiempo a Dios. El año sabático y el jubileo (Lv 25) restauran el orden social. Los profetas denuncian la explotación de los trabajadores (Jer 22,13; Mal 3,5).
 
-En el NT, Jesús asume el trabajo humano siendo artesano. Pablo presenta el trabajo como medio de no ser carga para nadie y como servicio a la comunidad. El trabajo debe hacerse «de corazón, como para el Señor y no para los hombres» (Col 3,23). La pereza es condenada como desorden moral. El trabajo tiene valor escatológico: el fruto del trabajo permanece (Ap 14,13). La doctrina social de la Iglesia desarrolla el principio de la primacía del trabajo sobre el capital y del destino universal de los bienes.
+En el NT, Jesús asume el trabajo humano siendo artesano. Pablo presenta el trabajo como medio de no ser carga para nadie y como servicio a la comunidad. El trabajo debe hacerse «de corazón, como para el Señor y no para los hombres» (Col 3,23). La pereza es condenada como desorden moral. El trabajo tiene valor escatológico: el fruto del trabajo permanece (Ap 14,13).
 
 ### Según Royo Marín (TPCr)
 
@@ -41,31 +41,43 @@ El trabajo corporal es mencionado como forma de mortificación positiva: «el ci
 
 ### Según Mons. Tihámer Tóth (JvC)
 
-El trabajo es «uno de los mejores educadores del carácter, enseña a saber vencerse a sí mismo, a ser perseverante y pone en tensión el espíritu» [JvC, Cap. II]. Fue el cristianismo quien consideró al trabajo como un medio que ennoblece al hombre. La inactividad lleva a la ruina moral: «quien no trabaje, que no coma» (2 Tes 3,10). No basta aparentar que se trabaja: el perezoso es «cruel verdugo de sí mismo» [JvC, Cap. II]. El trabajo debe hacerse con entusiasmo: Miguel Ángel, cuando le preguntaron por qué trabajaba tanto en estatuas que nadie vería desde abajo, respondió: «Desde abajo, nadie; pero Dios lo ve» [JvC, Cap. III].
-
-JvC advierte contra el activismo estéril: hay jóvenes que trabajan todo el día pero «no dedican más de diez minutos a una misma cosa: derrochan actividad febril pero inútil» [JvC, Cap. II]. Lo que hace a los verdaderos lumbreras es «la diligencia constante, reposada, con ánimos para mantener un trabajo reconcentrado durante largos años» [JvC, Cap. II].
+El trabajo es «uno de los mejores educadores del carácter, enseña a saber vencerse a sí mismo, a ser perseverante y pone en tensión el espíritu» [JvC, Cap. II]. Fue el cristianismo quien consideró al trabajo como un medio que ennoblece al hombre. La inactividad lleva a la ruina moral: «quien no trabaje, que no coma» (2 Tes 3,10). No basta aparentar que se trabaja: el perezoso es «cruel verdugo de sí mismo» [JvC, Cap. II]. JvC advierte contra el activismo estéril: hay jóvenes que trabajan todo el día pero «no dedican más de diez minutos a una misma cosa: derrochan actividad febril pero inútil» [JvC, Cap. II]. Lo que hace a los verdaderos lumbreras es «la diligencia constante, reposada, con ánimos para mantener un trabajo reconcentrado durante largos años» [JvC, Cap. II].
 
 ### Según la *Laborem Exercens* (LE)
 
-LE constituye el desarrollo más completo del magisterio sobre el trabajo humano. Define el trabajo como «una clave, quizá la clave esencial, de toda la cuestión social» (LE §3). Desarrolla la distinción entre sentido objetivo (técnica, instrumentos, transformación de la naturaleza) y subjetivo (el hombre como persona que trabaja). La dimensión subjetiva tiene preeminencia: «el primer fundamento del valor del trabajo es el hombre mismo, su sujeto» (LE §6). El hombre, mediante el trabajo, «no sólo transforma la naturaleza adaptándola a las propias necesidades, sino que se realiza a sí mismo como hombre, es más, en un cierto sentido "se hace más hombre"» (LE §9).
+LE constituye el desarrollo más completo del magisterio sobre el trabajo humano. Define el trabajo como «una clave, quizá la clave esencial, de toda la cuestión social» (LE §3). Desarrolla la distinción entre sentido objetivo (técnica, instrumentos, transformación de la naturaleza) y subjetivo (el hombre como persona que trabaja). La dimensión subjetiva tiene preeminencia: «el primer fundamento del valor del trabajo es el hombre mismo, su sujeto» (LE §6). El hombre, mediante el trabajo, «no sólo transforma la naturaleza, sino que se realiza a sí mismo como hombre, es más, en un cierto sentido 'se hace más hombre'» (LE §9).
 
 LE establece el principio de la prioridad del trabajo sobre el capital (LE §12), denuncia el error del economismo (LE §13) y desarrolla la espiritualidad del trabajo como participación en la obra creadora, redentora y consumadora de Dios (LE §24–27). Jesucristo es presentado como «hombre del trabajo», carpintero en Nazaret, y el evangelio del trabajo abarca desde el Génesis hasta las enseñanzas de San Pablo (LE §25–26).
 
 ### Según el Compendio (CompDS)
 
-El trabajo pertenece a la condición originaria del hombre y precede a su caída; no es castigo ni maldición. Se convierte en fatiga a causa del pecado original, pero el designio del Creador permanece inalterado (§256). El trabajo debe ser honrado como fuente de riqueza, pero sin idolatrarlo: «Mejor es poco con temor de Yahvéh, que gran tesoro con inquietud» (Pr 15,16; §257). El culmen de la enseñanza bíblica sobre el trabajo es el mandamiento del descanso sabático, que abre al hombre la perspectiva de una libertad más plena, la del Sábado eterno (§258). El descanso sabático constituye un baluarte contra el sometimiento humano al trabajo y contra toda forma de explotación, oculta o manifiesta (§258).
+El trabajo pertenece a la condición originaria del hombre y precede a su caída; no es castigo ni maldición. Se convierte en fatiga a causa del pecado original, pero el designio del Creador permanece inalterado (§256). El trabajo debe ser honrado como fuente de riqueza, pero sin idolatrarlo: «Mejor es poco con temor de Yahvéh, que gran tesoro con inquietud» (Pr 15,16; §257). El descanso sabático (§258) constituye un baluarte contra el sometimiento humano al trabajo y contra toda forma de explotación.
 
 ### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
 
-León XIV abordó el trabajo como parte de la vocación humana en el encuentro en el Movistar Arena (5 de junio): «El trabajo no es solo un medio de subsistencia; es participación en la obra creadora de Dios» [L_XIV-ViajeEspaña-2026, Movistar Arena 05 — discurso]. Se dirigió a empresarios y trabajadores sobre la dignidad del trabajo, el salario justo y la integración de la fe y el trabajo [L_XIV-ViajeEspaña-2026, Movistar Arena 05 — discurso]. En la Sagrada Familia (14 de junio), presentó la obra de Gaudí como ejemplo de trabajo ofrecido a Dios [L_XIV-ViajeEspaña-2026, Sagrada Familia 14 — discurso].
+León XIV abordó el trabajo como parte de la vocación humana en el Movistar Arena (5 de junio): «El trabajo no es solo un medio de subsistencia; es participación en la obra creadora de Dios» [L_XIV-ViajeEspaña-2026, Movistar Arena 05 — discurso].
 
 ### Según Don y Misterio (DyM)
 
-Juan Pablo II describe su experiencia del [[trabajo]] manual en la cantera de Solvay y en la fábrica de potasa durante la ocupación nazi [DyM, II]. Esta experiencia lo marcó profundamente: «apenas si tenía conciencia de que estaba viviendo un momento histórico importantísimo para la Iglesia, pero sentía que formaba parte de ello» [DyM, II]. El trabajo no fue para él solo un medio de subsistencia, sino ocasión de encuentro con Cristo en el sufrimiento y escuela de humanidad.
+Juan Pablo II describe su experiencia del trabajo manual en la cantera de Solvay y en la fábrica de potasa durante la ocupación nazi [DyM, II].
 
 ### Según la Vida de Jesús (VJ)
 
-La Vida de Jesús (VJ) dedica una extensa reflexión al trabajo (Cap. II). Jesús trabajó materialmente durante 30 años con san José en la modesta actividad de carpintero. El trabajo responde al designio y a la voluntad de Dios. Al elegir para sí como padre nutricio un carpintero, y hacerse Él mismo carpintero, Cristo ha enriquecido el trabajo humano con una dignidad inigualable. El cristianismo ha cambiado totalmente la valoración del trabajo manual: desde que el Hijo de Dios aceptó inclinarse sobre el banco de trabajo junto al carpintero José, el cansancio físico ha dejado de ser considerado algo innoble. Jesús, el Hijo de Dios hecho hombre de un trabajo manual, incorporó el trabajo a su obra de redención. La proclamación más exhaustiva del Evangelio del trabajo la hizo Jesús, sometido al duro esfuerzo. El trabajo es un bien del hombre que transforma la naturaleza y hace al hombre ser en cierto sentido más hombre.
+La Vida de Jesús dedica una extensa reflexión al trabajo (Cap. II): Jesús trabajó materialmente como carpintero con san José. Al elegir para sí ese oficio, Cristo enriqueció el trabajo humano con una dignidad inigualable. El cristianismo ha cambiado totalmente la valoración del trabajo manual: desde que el Hijo de Dios aceptó inclinarse sobre el banco de trabajo junto al carpintero José, el cansancio físico ha dejado de ser considerado algo innoble. Jesús incorporó el trabajo a su obra de redención.
+
+### Según la Regla de San Benito (RegSB)
+
+La RSB integra el trabajo manual como eje de la vida cenobítica, bajo el principio ora et labora.
+
+**Obligatoriedad (cap. 48):** «La ociosidad es enemiga del alma, y por eso en ciertos tiempos los hermanos deben ocuparse en el trabajo manual y a ciertas horas en la lectura divina». El trabajo no es opción: es norma regular y deber ascético comunitario. Quien vive del trabajo de sus manos «es verdadero monje, como nuestros padres y los apóstoles».
+
+**Horario según estación (cap. 48):** De Pascua a octubre: Prima–hora cuarta (trabajo), cuarta–Sexta (lectura), descanso, Nona temprana, trabajo hasta Vísperas. De octubre a Cuaresma: lectura hasta segunda, Tercia, trabajo hasta Nona. En Cuaresma: más lectura, trabajo de tercera a décima hora, con libro asignado para leer íntegro.
+
+**Trabajo en el campo (cap. 45):** Los hermanos del campo se sirven mutuamente con humildad y saludan en el nombre del Señor. El abad regula la hora de comer según el trabajo.
+
+**Trabajo en viaje (cap. 50-51):** Los que trabajan lejos del oratorio realizan la Obra de Dios en el lugar mismo del trabajo; los viajeros rezan sus horas sin negligencia y comen de su propia ración.
+
+**Oficios rotativos (cap. 35, 46):** Los hermanos se sirven mutuamente en cocina y taller: quien comete falta manifiesta al abad; la falta oculta se comunica a los ancianos espirituales. Los artesanos ejercen su arte con humildad; la presunción lleva a la remoción.
 
 ## Distinciones importantes
 
@@ -76,7 +88,7 @@ La Vida de Jesús (VJ) dedica una extensa reflexión al trabajo (Cap. II). Jesú
 
 ## Relaciones doctrinales
 
-Se relaciona con [[creación]], [[descanso_sabático]], [[justicia_social]], [[salario_justo]], [[doctrina_social_de_la_iglesia]], [[perfección_cristiana]], [[servicio]].
+Se relaciona con la [[creación]], el [[descanso_sabático]], la [[justicia_social]], el [[salario_justo]], la [[doctrina_social_de_la_iglesia]], la [[perfección_cristiana]], el [[servicio]].
 
 ## Analizado en contexto cultural
 

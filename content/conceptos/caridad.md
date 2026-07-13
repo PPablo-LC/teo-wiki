@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Caridad
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-06-05
+timestamp: 2026-07-13
 description: "La caridad es la más excelente de las virtudes teologales, virtud infusa sobrenatural por la que amamos a Dios sobre todas las cosas por Sí mismo."
 ---
 # Caridad
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-06-05
+> Última actualización: 2026-07-13
 
 ## Definición
 
@@ -144,6 +144,14 @@ Ver artículo principal: [[virtud_de_la_caridad]]
 
 León XIV dio un testimonio elocuente de la caridad cristiana en el centro CEDIA 24 Horas (Madrid), donde lavó los pies de los voluntarios y sirvió comida a los necesitados. Allí afirmó: «La caridad no admite demoras» [L_XIV-ViajeEspaña-2026, 02 — CEDIA 24 Horas]. «Cada vez que acogemos a un necesitado, es Cristo quien llama a nuestra puerta» [L_XIV-ViajeEspaña-2026, 02 — CEDIA 24 Horas]. En el encuentro con voluntarios en IFEMA distinguió la caridad cristiana de la mera filantropía: «La caridad cristiana no es filantropía o asistencialismo; nace del encuentro con Cristo» [L_XIV-ViajeEspaña-2026, 09 — Encuentro con Voluntarios]. En la prisión de Brians 1 subrayó su dimensión social: «La justicia sin misericordia es cruel; la misericordia sin justicia es falsa» [L_XIV-ViajeEspaña-2026, 10 — Visita a la prisión Brians 1]. En Barcelona presentó la caridad como «profecía de un mundo nuevo» [L_XIV-ViajeEspaña-2026, 13 — Encuentro con realidades caritativas en Barcelona]. La caridad fue presentada como inseparable de la justicia y de la verdad.
 
+### Colaciones II — Juan Casiano (ColCas-II)
+
+El abad [[jose_anacoreta|José]] expone en la Conferencia XVI la doctrina sobre la amistad fundada en la caridad. Identifica la caridad con Dios mismo —aunque la anotación del traductor señala que teológicamente la caridad infusa es algo creado, no Dios mismo—. Los grados de caridad incluyen la *agape* (amor universal) y la *diácesis* (amistad particular entre los virtuosos).
+
+José presenta seis principios fundamentales de la amistad perfecta: menosprecio de los bienes materiales, crucifixión de la voluntad propia, prioridad de la paz, rechazo de la ira, solidaridad con los dolores ajenos y consideración de la muerte. La amistad perfecta es posible solo entre los perfectos, pues los imperfectos no pueden soportar las imperfecciones ajenas.
+
+> **Referencia:** ColCas-II, Conferencia XVI, §§1-28
+
 ### Según la Veritatis Splendor (VS)
 
 La Veritatis Splendor presenta la caridad como el núcleo de la vida moral cristiana. El mandamiento nuevo del amor (Jn 13,34-35) es la medida de la perfección cristiana (§20). El amor es fruto del don del Espíritu Santo (Rm 5,5; Ga 5,22). El Espíritu Santo es el don de Cristo cuyo primer fruto es la caridad (§22). El don no disminuye sino que refuerza la exigencia moral del amor: se puede permanecer en el amor solo bajo la condición de que se observen los mandamientos (Jn 15,10) (§24). La caridad tiende espontáneamente a la perfección, cuya medida es Dios mismo: «Sed perfectos como es perfecto vuestro Padre celestial» (Mt 5,48) (§18).
@@ -195,4 +203,5 @@ Pío V condenó los errores de Bayo sobre la caridad (D‑1031–D‑1034, D‑1
 ## Referencias
 
 - CEC §1822-1829
+- ColCas-II, Conferencia XVI, §§1-28
 - TPCr, Tercera Parte, Libro I, Cap. IV

@@ -43,6 +43,10 @@ La responsabilidad se ejerce cuando el sujeto opta por el *bonum honestum*, iden
 
 La responsabilidad se relaciona con la [[libertad_humana]], la [[conciencia_moral]], los [[actos_humanos]], la [[ley_natural]], la [[justicia]] y el [[bien_común]].
 
+## Analizado en contexto cultural
+
+- [[computer_power_and_human_reason]] — convergencia en la responsabilidad del científico y del técnico por las consecuencias de su trabajo; el autor formula una ética secular de la responsabilidad proporcional al alcance de los efectos que es perfectamente compatible con la doctrina católica de la responsabilidad ante Dios y la comunidad.
+
 ## Ver también
 
 [[libertad_humana]], [[conciencia_moral]], [[actos_humanos]], [[justicia]], [[bien_común]]

@@ -244,6 +244,20 @@ Juan Pablo II vincula el sacramento de la Penitencia con el poder de las llaves 
 
 **D‑1539**: Condenó como «temeraria, perniciosa y contraria a la práctica de los santos» la declaración del Sínodo que deseaba no se frecuentase tanto la confesión de los pecados veniales, «para que tales confesiones no se vuelvan demasiado despreciables».
 
+### Según la Regla de San Benito (RegSB)
+
+La RSB entiende la penitencia como sistema ascético de corrección fraterna regulado por el [[abad]], donde la voluntad del penitente y la potestad del abad cooperan para la enmienda. A diferencia del tratamiento sacramental de otras fuentes, la Regla describe la penitencia fundamentalmente como acto corporal y comunitario adaptado a la vida monástica.
+
+**La graduación de la penitencia:** San Benito prescribe una progresión pedagógica: amonestación secreta hasta dos veces, reprensión pública, excomunión (si el hermano es capaz de comprender la pena) o castigo corporal (si es obstinado) (cap. 23). Nunca se prescribe la penitencia como acto que, por sí solo, confiere la gracia santificante: es una disciplina de enmienda, no un sacramento.
+
+**La satisfacción:** El hermano privado de la mesa no entona salmo ni antífona en el oratorio que no recita lectura, hasta dar satisfacción (cap. 24). La satisfacción es una obra visible y comunitaria que restaura la comunión rota: «hasta que, por medio de una satisfacción conveniente, obtenga el perdón» (RB 24, 7).
+
+**El llanto de penitencia:** El hermano de culpa grave «persevera en el llanto de penitencia» (*pænitentiæ luctu*), en soledad y sin compañía, meditando la sentencia del Apóstol: «Este hombre ha sido entregado a la muerte de la carne, para que su espíritu se salve en el día del Señor» ( RB 25; 1 Cor 5,5).
+
+**La solicitud pastoral del abad:** El abad «debe poner su mayor cuidado y procurar con toda sagacidad e industria no perder a ninguna de las ovejas que le fueron encomendadas» (RB 27, 5). Emplea «sabios hermanos ancianos» (*senpectas*) que consuelan y animan al hermano fluctuante: «confórmese en la caridad, y oren por él» (RB 27, 3-4).
+
+**Fuentes:** San Benito de Nursia, *Regla de San Benito*, caps. 23–28.
+
 ## Distinciones importantes
 
 - **Contrición perfecta vs. atrición**: según el motivo del dolor del pecado

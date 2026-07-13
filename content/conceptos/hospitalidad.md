@@ -29,6 +29,15 @@ El misterio de la hospitalidad lo revelará Jesús el día del juicio: a través
 
 El cristiano debe ver en el que llama a su puerta al Hijo de Dios que viene para colmarle y establecer en él su morada. Dichosos los servidores vigilantes que abran la puerta al maestro cuando llame el día de la parusía: invirtiendo los papeles, él mismo servirá a la mesa.
 
+### Según la Regla de San Benito (RegSB)
+
+La RSB sistematiza la hospitalidad como piedra angular de la vida monástica, asociándola directamente a la acogida de [[Cristo]] en el huésped (cap. 53). El abad y la comunidad reciben a los visitantes «como a Cristo mismo», postrándose y orando por ellos, especialmente cuando se trata de huéspedes distinguidos. El cuidado incluye el lavatorio de pies para todo huésped —tanto el que sale como el que entra del servicio semanal—, agua abundante para el aseo, y la posibilidad de romper el ayuno del monasterio cuando ello testifica la caridad.
+
+La regla diferencia la recepción del peregrino de la del hermano monje peregrino (cap. 61): este último, huésped de la propia regla, recibe la hospitalidad de la [[vida_religiosa|vida religiosa]] y puede corregir al abad si encuentra deficiencias en la observancia, pero siempre con humildad y sin escándalo. La hospitalidad benedictina no admite distinción entre rico y pobre, poderoso y mendicante: la caridad es uniforme.
+
+Los hermanos enfermos son también huéspedes del hospital del monasterio: se les destina una celda aparte con servidor que les atienda, con baños permitidos y carne concedida cuando la enfermedad lo requiera (cap. 36). Quienes trabajan fuera del monasterio y comen fuera del [[refectorio|comedor común]] deben comer su propia ración y no cargar al monasterio (cap. 50). Todo oficio hermano es lugar de hospitalidad: el [[mayordomo]] atiende a enfermos, niños, huéspedes y pobres, rindiendo cuentas de este servicio en el día del juicio (cap. 31).
+
+
 ## Distinciones importantes
 
 - Hospitalidad como deber moral (obra de misericordia) vs. hospitalidad como encuentro con Cristo (dimensión cristológica)
@@ -44,4 +53,4 @@ El cristiano debe ver en el que llama a su puerta al Hijo de Dios que viene para
 
 ## Referencias
 
-- VocTeoBib, «Hospitalidad»
+- VocTeoBib, artículo «Hospitalidad»

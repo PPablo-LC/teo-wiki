@@ -58,6 +58,35 @@ La humildad no es la mayor de las virtudes (sobre ella están las teologales), p
 
 Grados de humildad según la Regla de San Benito (doce grados): temor de Dios, renuncia a la propia voluntad, obediencia al superior, paciencia en las dificultades, confesión de los propios defectos, contentarse con lo más vil, reconocerse el más vil de todos, no apartarse de la regla común, callar hasta que pregunten, no ser pronto a la risa, hablar con mesura y gravedad, humildad exterior.
 
+### Según la Regla de San Benito (RegSB / RB 7)
+
+San Benito desarrolla la doctrina de la humildad en el capítulo 7 de la Regla, a partir de la escala de Jacob (Gn 28,10-19). La humildad es la virtud opuesta a la soberbia definida como toda «exaltación» desordenada (RB 7, 1-2).
+
+**Fundamento: la escala de Jacob (RB 7, 5-9):**
+El descenso y ascenso de los ángeles en la escala significan espiritualmete que «por la soberbia se desciende y por la humildad se asciende» (RB 7, 7). Los lados de la escala son el cuerpo y el alma del monje, en los cuales «la vocación divina ha insertado los diversos escalones de la humildad y de disciplina».
+
+**Los doce grados** (RB 7, 10-70):
+
+| Grado | Contenido |
+|-------|-----------|
+| 1 | Temor de Dios ante los ojos, recuerdo de mandamientos, guardia de vicios de pensamiento, lengua, manos, pies, voluntad y deseos carnales |
+| 2 | No amar la propia voluntad, no complacerse en cumplir sus deseos |
+| 3 | Someterse al superior obedeciéndole en todo, imitando a Cristo obediente hasta la muerte |
+| 4 | Obedecer hasta en las cosas duras y molestas, abrazar la paciencia en toda injuria |
+| 5 | No ocultar al abad los malos pensamientos y culpas secretas mediante confesión humilde |
+| 6 | Contentarse con todo lo vil y despreciable, juzgarse obrero malo e indigno |
+| 7 | Creyéndose el último y más vil de todos, no solo de palabra sino con el corazón |
+| 8 | No apartarse de lo que manda la regla común ni del ejemplo de los mayores |
+| 9 | Reprimir la lengua, guardar silencio, no hablar hasta que le pregunten |
+| 10 | No reír fácil y prontamente |
+| 11 | Hablar con dulzura, modestia, pocas palabras y sin levantar la voz |
+| 12 | Humildad en el cuerpo: cabeza inclinada, mirada en tierra, creyéndose reo ante el juicio de Dios |
+
+**Culminación: del temor servil al amor perfecto (RB 7, 67-70):**
+> «Cuando el monje haya subido todos estos grados de humildad, llegará pronto a aquel amor de Dios que, al ser perfecto, echa fuera todo temor, por el cual todo lo que antes observaba con miedo, empezará a cumplirlo sin trabajo alguno, con naturalidad y por costumbre, no por temor al infierno, sino por amor a Cristo, por la misma buena costumbre y por el deleite de las virtudes.»
+
+El Espíritu Santo manifiesta este amor en el obrero cuando ya está limpio de vicios y pecados.
+
 ### Según Mons. Tihámer Tóth (JvC)
 
 La verdadera humildad no es cobardía. Muchos confunden la cobardía con la virtud y la pereza con la humildad: «La verdadera humildad hace decir al hombre: "Nada soy, nada puedo por mi propia fuerza, pero si Dios me ayuda no hay en el mundo cosa que no pueda hacer"» [JvC, Cap. I]. Newton, después de sus investigaciones, decía que su trabajo era como recoger conchas a la orilla del inmenso mar de la verdad. Sócrates enseñaba: «La mayor sabiduría humana es saber que no sabemos» y «Muchos habrían sido sabios si no hubieran creído que ya lo eran» [JvC, Cap. II].

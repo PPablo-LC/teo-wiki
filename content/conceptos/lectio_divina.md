@@ -3,7 +3,7 @@ type: Concepto Teológico
 title: Lectio Divina
 tags: ["espiritualidad", "teología_bíblica"]
 timestamp: 2026-06-30
-description: "Lectura orante de la Sagrada Escritura estructurada en cuatro momentos: lectio (lectura), meditatio (meditación), oratio (oración) y contemplatio (contemplación), que conduce al encuentro personal con Dios a través de su Palabra."
+description: "Lectura orante de la Sagrada Escritura en cuatro momentos (lectio, meditatio, oratio, contemplatio) que conduce al encuentro personal con Dios a través de su Palabra, con raíces en la tradición monástica."
 ---
 
 # Lectio Divina
@@ -13,7 +13,7 @@ description: "Lectura orante de la Sagrada Escritura estructurada en cuatro mome
 
 ## Definición
 
-Método de lectura orante de la Sagrada Escritura que busca el encuentro personal con Dios a través de su Palabra. Se estructura tradicionalmente en cuatro momentos o escalones: *lectio* (lectura atenta del texto sagrado), *meditatio* (reflexión y aplicación personal), *oratio* (diálogo amoroso con Dios) y *contemplatio* (descanso en la presencia divina). Tiene sus raíces en la tradición monástica (Guigo el Cartujano, siglo XII) y fue redescubierta por el Concilio Vaticano II como alma de toda la teología (DV 24).
+Método de lectura orante de la Sagrada Escritura que busca el encuentro personal con Dios a través de su Palabra. Se estructura tradicionalmente en cuatro momentos o escalones: *lectio* (lectura atenta del texto sagrado), *meditatio* (reflexión y aplicación personal), *oratio* (diálogo amoroso con Dios) y *contemplatio* (descanso en la presencia divina). Tiene sus raíces en la tradición monástica y fue sistematizada por Guigo el Cartujano (siglo XII). La *lectio divina* es el alma de toda la teología, según el Concilio Vaticano II (DV 24).
 
 ## Desarrollo doctrinal
 
@@ -33,9 +33,13 @@ El Concilio Vaticano II (DV 24) exhortó a todos los fieles a la lectura asidua 
 
 *Dei Verbum* 24: «Todos los fieles aprendan por la lectura asidua de la divina Escritura la ciencia eminente de Jesucristo».
 
-### Según el Compendio de Doctrina Social de la Iglesia (DSI)
+### Según la Regla de San Benito (RegSB)
 
-§78: La *lectio divina* es recomendada como fuente de discernimiento para la acción social cristiana.
+La lectio en la RSB es anterior al término técnico *lectio divina*, pero constituye su primera formulación cenobítica. El capítulo 42 prescribe que, luego de la cena o de Completas en días de ayuno, los monjes se sientan todos juntos a escuchar colaciones o vidas de los padres, u otra cosa que edifique a los oyentes, estableciendo silencio absoluto. La regla excluye del nocturno el Heptateuco y los libros de los Reyes, por no ser convenientes a los de mentes débiles en la hora de ir al descanso.
+
+**El lector semanal (cap. 38):** El domingo entra el lector de toda la semana, que pide oración ante el oficio para librarse del espíritu de vanidad. No leen ni cantan por orden todos los hermanos, sino los que edifiquen a los oyentes. Quien pregunta sobre la lectura quebranta el silencio y sufre grave castigo. Después de Completas, ninguno tiene permiso para hablar nada a nadie (cap. 42).
+
+**En Cuaresma (cap. 48):** La lectura se intensifica: cada monje recibe un libro de la biblioteca para leerlo por orden e íntegro. Uno o dos ancianos recorren el monasterio durante las horas de lectura para velar que nadie se entrega al ocio o a la charlatanería.
 
 ## Relaciones doctrinales
 
@@ -43,7 +47,7 @@ Se relaciona con la [[palabra_de_dios]], la [[oración_mental]], la [[contemplac
 
 ## Ver también
 
-[[palabra_de_dios]], [[oración_mental]], [[contemplación]], [[sagrada_escritura]], [[dei_verbum]], [[tradición_monástica]]
+[[palabra_de_dios]], [[oración_mental]], [[contemplación]], [[sagrada_escritura]], [[dei_verbum]], [[tradición_monástica]], [[oficio_divino]]
 
 ## Referencias
 
@@ -51,3 +55,4 @@ Se relaciona con la [[palabra_de_dios]], la [[oración_mental]], la [[contemplac
 - ConcVatII, *Dei Verbum* 24
 - Benedicto XVI, *Verbum Domini*
 - Guigo el Cartujano, *Scala Claustralium*
+- San Benito de Nursia, *Regla de San Benito*, caps. 38, 42, 48.

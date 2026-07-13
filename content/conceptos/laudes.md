@@ -43,6 +43,14 @@ CEC §1352: "La oración de las horas prolonga la presencia eucarística; la Igl
 - §91: Se establece que Laudes y Vísperas son las horas principales que deben ser recitadas por los que tienen obligación del Oficio.
 - §92: Se insta a que los fieles participen también en las horas canónicas, especialmente en domingo.
 
+### Según La Regla de San Benito (RegSB)
+
+Los caps. 11-13 de la Regla describen en detalle la forma de celebrar las Laudes:
+
+- **Laudes dominicales (cap. 11)**: Las Vigilias del domingo comienzan en la noche del sábado: salmos 66, 50, 116, 62, Gloria, Aleluya, Benedicite y Laudate Dominum, lectura del Apocalipsis, responsorio, himno ambrosiano, cántico de los Evangelios, letanía.
+- **Laudes diarias (cap. 13)**: En días ordinarios, después de las Vísperas, se dice el himno ambrosiano, tres salmos, cánticos de los Profetas, lectura del Apóstol, responsorio, himno ambrosiano, versículo, evangelio cántico, letanía, Padre Nuestro.
+- **Orden del salterio**: La distribución de salmos en las Laudes sigue el orden de la Iglesia Romana: los domingos y fiestas de orden específico; los días ordinarios, una rotación reflexiva.
+
 ## Distinciones importantes
 
 - **Laudes**: hora principal de la mañana, carácter de alabanza y consagración del día

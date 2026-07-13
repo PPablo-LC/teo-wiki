@@ -41,6 +41,12 @@ Se relaciona con [[familia]], [[solidaridad]], [[dignidad_humana]]
 
 León XIV dedica una atención particular a los presbíteros ancianos, abordando su soledad, enfermedad y el sentido de su ministerio en esa etapa. Reconoce que «muchos sienten soledad después de una vida totalmente dedicada al Evangelio y a la Iglesia: después de tanta gente, tanta soledad». El Papa ofrece tres claves: primero, la gratitud vivida durante toda la vida prepara para aceptar la vejez y la enfermedad con espíritu de oración; segundo, los sacerdotes mayores tienen un ministerio propio —«aunque estén enfermos en cama, si han vivido una vida verdaderamente de servicio y sacrificio, saben muy bien que su oración también puede ser un gran servicio, un gran don»—; tercero, exhorta a los sacerdotes más jóvenes a la cercanía activa: «seguramente todos conocemos a algún anciano, algún enfermo, sacerdote... Llámemoslos, vayamos a visitarlos». Advierte contra la tentación de delegar completamente en los laicos la visita a los enfermos, pues «eso no significa que el sacerdote pueda quedarse en casa viendo internet, mientras los demás están visitando» [L_XIV-ClerRom, 19.02.2026].
 
+### Según la Regla de San Benito (RegSB)
+
+La RSB incorpora la solicitud por los ancianos dentro de la disciplina regular del monasterio, distinguiéndolos expresamente de los niños como los dos grupos que tienen en común la fragilidad física y requieren consideración piadosa (cap. 37). Aunque la misma naturaleza inclina a la misericordia hacia estas edades, la regla refuerza esta tendencia: «Siempre se tendrá en cuenta su fragilidad y nunca se les aplicará el rigor de la regla en los alimentos». En la [[medida_de_comida|medida de la comida]] se aplica a los niños una cantidad menor que a los mayores, «cuidando en todo la templanza» (cap. 39).
+
+El concepto de «anciano» en la RSB trasciende la mera edad física: los «seniores sapientes» (ancianos prudentes) actúan como mediadores espirituales, enviados por el abad a consolar y animar a los hermanos en [[excomunión|excomunión]] o tristeza (cap. 27). Esta función restaura el papel de los ancianos como espejo de la sabiduría cenobítica. Los [[decano|decanos]] (cap. 21) son también ancianos, encargados de la supervisión de grupos de hermanos menores. La [[propiedad_privada|vida comunitaria]] ignora distinción de edad: cuando la comunidad es numerosa, los ancianos con cargos de mayor utilidad tienen auxiliares (cap. 31).
+
 ## Referencias
 
 - [CompDS §222]

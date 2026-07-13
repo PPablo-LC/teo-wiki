@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Conversión
 tags: ["moral", "ascética"]
 
-timestamp: 2026-06-20
+timestamp: 2026-07-13
 description: "Movimiento del alma que, movida por la gracia, se vuelve a Dios apartándose del pecado."
 ---
 # Conversión
 
 > Área: Moral / Ascética
-> Última actualización: 2026-06-20
+> Última actualización: 2026-07-13
 
 ## Definición
 
@@ -97,6 +97,14 @@ Desde la cruz, la misericordia provoca la conversión más ejemplar: la del buen
 
 [VJ, Cap. III, Cap. VI]
 
+### Colaciones II — Juan Casiano (ColCas-II)
+
+El abad [[pinufio|Pinufio]] expone en la Conferencia XX la doctrina sobre la penitencia y la satisfacción. Relata su propia experiencia de conversión: fue abad de un monasterio en Egipto, pero abandonó su cargo y huyó a Palestina para hacer penitencia por sus pecados. Fue reconocido, apresado y regresó forzosamente, pero continuó su penitencia durante veinte años de encierro voluntario.
+
+Pinufio enseña que la penitencia exige humildad, paciencia y perseverancia. La satisfacción por el pecado requiere no solo la confesión de la culpa, sino también la reparación con obras de mortificación y caridad. El abad Juan, en la Conferencia XIX, presenta la conversión como un camino de retorno a la comunidad: tras veinte años como ermitaño, reconoció que no había mortificado suficientemente su voluntad y se sometió a la obediencia cenobítica.
+
+> **Referencia:** ColCas-II, Conferencias XIX, XX
+
 ### Según el Compendio (CompDS)
 
 La conversión interior de la persona es el presupuesto esencial de una renovación real de sus relaciones con los demás: «Es preciso entonces apelar a las capacidades espirituales y morales de la persona y a la exigencia permanente de su conversión interior para obtener cambios sociales que estén realmente a su servicio» (§42, citando CEC §1888). La prioridad de la conversión del corazón no elimina la obligación de introducir en las instituciones y condiciones de vida las mejoras convenientes para que se conformen a las normas de la justicia (§42). Dios ofrece la gracia para ayudar al hombre a superar sus fracasos, arrancarlo de la mentira y la violencia, y sostenerlo para tejer una red de relaciones auténticas con sus semejantes (§43).
@@ -124,4 +132,5 @@ La conversión interior de la persona es el presupuesto esencial de una renovaci
 - [L_XIV-ClerRom, 19.02.2026]
 - CEC §1989
 - PMI (Discurso conclusivo del Encuentro sobre la Protección de los Menores en la Iglesia, 24 febrero 2019)
+- ColCas-II, Conferencias XIX, XX
 - [VJ, Cap. III, Cap. VI]

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Perfección cristiana
 description: "La perfección cristiana es el estado de plenitud de la vida sobrenatural alcanzado mediante la unión con Dios por la caridad, hacia el cual todo cristiano está llamado a tender."
 tags: ["ascética", "mística"]
-timestamp: 2026-06-26
+timestamp: 2026-07-13
 ---
 
 # Perfección cristiana
 
 > Área: Ascética — Mística
-> Última actualización: 2026-06-26
+> Última actualización: 2026-07-13
 
 ## Definición
 
@@ -32,6 +32,14 @@ Santo Tomás trata la perfección cristiana en la IIa-IIae q.184-186. La perfecc
 ### Según Royo Marín (TPCr)
 
 La perfección cristiana es la materia de toda la obra TPCr. Consiste esencialmente en la caridad: la unión íntima con Dios por el amor. Se desarrolla en las tres vías: purgativa (purificación del alma), iluminativa (ejercicio de las virtudes) y unitiva (unión transformante con Dios). Todos los cristianos están llamados a la perfección, pero cada uno según su estado y condición. Los consejos evangélicos son el camino más expedito (TPCr, Parte Primera, Libro I).
+
+### Colaciones II — Juan Casiano (ColCas-II)
+
+El abad [[queremon_de_la_perfección|Queremón]] expone en la Conferencia XI la doctrina sobre la perfección cristiana. Define la perfección como el estado en que el hombre se hace digno de la divina recompensa. La perfección consiste en tres cosas: «no aferrarse a nada bueno temporal, no sentir nunca el peso de la tristeza, no conocer la cólera». La primera se refiere a los bienes creados y su uso; la segunda, a las tribulaciones y la muerte de los seres queridos; la tercera, a las ofensas de los hermanos.
+
+Queremón expone que la perfección no es solo del cuerpo, sino del espíritu y del alma. El Señor insinúa la perfección tanto en la letra del Evangelio como en su sentido alegórico. La pureza de corazón se alcanza cuando se posee el «temor del Señor», que elimina toda torpeza.
+
+> **Referencia:** ColCas-II, Conferencia XI, §§1-18
 
 ### Según el Enchiridion Symbolorum (Denzinger)
 
@@ -72,4 +80,5 @@ Se relaciona con [[caridad]], [[consejos_evangélicos]], [[vía_purgativa]], [[v
 - CEC §825, §2013, §2028, §2813
 - TPCr, Parte Primera, Libro I
 - SmTh IIa-IIae q.184-186
+- ColCas-II, Conferencia XI, §§1-18
 - Denzinger D-471-478

@@ -49,7 +49,23 @@ El silencio de Dios es también una experiencia del justo que clama sin respuest
 
 El silencio es un medio ascético indispensable para la guarda del corazón y la unión con Dios. La mortificación de la lengua mediante el silencio evita pecados de murmuración, juicios temerarios y palabras ociosas. El silencio facilita el recogimiento interior y prepara el alma para la [[oración_contemplativa]] (TPCr, Segunda Parte, Cap. sobre mortificación). La tradición monástica valora el silencio como «custodia del corazón».
 
-### Según Vos estis lux mundi (VELM)
+### Según la Regla de San Benito (RSB)
+
+San Benito dedica el capítulo 6 de la Regla al silencio (*De taciturnitate*), considerándolo un deber específico de los monjes, especialmente de los perfectos:
+
+> «Hagamos lo que dice el Profeta: ‘Dije: guardaré mis caminos, para no pecar con mi lengua. Puse un freno a mi boca. Guardé silencio, me humillé y me abstuve de hablar aun palabras buenas’. Con estas palabras nos enseña el profeta que, si hasta las buenas palabras por amor al silencio deben callarse, con mayor razón deben ser evitadas las malas palabras por el castigo del pecado.» (RB 6, 1-2)
+
+El silencio como deber del monje perfecto:
+> «Por eso rara vez se les conceda permiso para hablar a los discípulos perfectos, incluso palabras buenas, santas y edificantes, debido a la importancia del silencio» (RB 6, 3-4).
+
+El silencio como virtud del novicio:
+> «Por eso, si se necesita pedir algo al superior, se solicitará con la mayor humildad y sumisión respetuosa. Pero las bromas, o todas las palabras ociosas y que provoquen la risa, las condenamos en todo lugar a una eterna clausura, y no permitimos que el discípulo abra su boca para tales conversaciones.» (RB 6, 7-8)
+
+**El noveno grado de humildad** es específicamente la guarda de la lengua mediante el silencio: «el monje reprima su lengua y guarde silencio, no hablando hasta que le pregunten» (RB 7, 56-58). San Benito lo fundamenta: «en el mucho hablar no se evita el pecado» y «el hombre que habla mucho no anda rectamente en la tierra».
+
+El silencio benedictino es un silencio exterior que expresa el recogimiento interior: «hablar y enseñar le corresponde al maestro, pero al discípulo le conviene callar y escuchar» (RB 6, 6).
+
+## Distinciones importantes
 
 El art. 4 §3 dispone que «al que presenta un informe, a la persona que afirma haber sido ofendida y a los testigos no se les puede imponer alguna obligación de guardar silencio con respecto al contenido del mismo». Esta norma rompe explícitamente con la cultura del silencio que había impedido la revelación de abusos. VELM establece además la obligación de denunciar para clérigos y consagrados (art. 3), convirtiendo el silencio cómplice en una falta canónica.
 

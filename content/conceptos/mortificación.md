@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Mortificación
 tags: ["ascética"]
 
-timestamp: 2026-05-22
+timestamp: 2026-07-13
 description: "La mortificación es el ejercicio deliberado de renuncia y dolor voluntario por el que el alma doma las pasiones desordenadas."
 ---
 # Mortificación
 
 > Área: Ascética
-> Última actualización: 2026-05-22
+> Última actualización: 2026-07-13
 
 ## Definición
 
@@ -34,6 +34,14 @@ El CEC §2015 enseña que la vía de la perfección pasa por la cruz. No hay san
 **Inocencio XII** (1699, D‑1333) — Breve *Cum alias* contra Fenelón:
 
 **D‑1333**: «El abandono no es sino la abnegación o renuncia de sí mismo que Jesucristo nos exige en el Evangelio... Esa abnegación de nosotros mismos no es sino en cuanto al interés propio... Las pruebas extremas en que debe ejercitarse esta abnegación o abandono de sí mismo, son las tentaciones con las que un Dios celoso quiere purgar nuestro amor, no mostrándole refugio ni esperanza alguna en cuanto a su propio interés, ni siquiera el eterno.» Condenada. La condena afirma que la abnegación cristiana no puede extenderse hasta renunciar a la esperanza de la salvación eterna.
+
+### Colaciones II — Juan Casiano (ColCas-II)
+
+El abad [[abraham_simple|Abraham "el Simple"]] expone en la Conferencia XXIV la doctrina sobre la mortificación interior. Enseña que el monje debe combatir las pasiones mediante la paciencia y el dominio de sí. La mortificación no se limita a la abstinencia corporal, sino que abarca el dominio de la ira, la paciencia con los hermanos y la aceptación humilde de las propias limitaciones.
+
+El abad [[piamón|Piamón]] en la Conferencia XVIII presenta la obediencia cenobítica como medio de mortificación: el cenobita mortifica su propia voluntad sometiéndose al abad, imitando a Cristo que «se hizo obediente hasta la muerte» (Flp 2,8). La vida común es un campo de mortificación constante por la convivencia con hermanos de diversas condiciones.
+
+> **Referencia:** ColCas-II, Conferencias XVIII, XXIV
 
 ### Según Royo Marín (TPCr)
 
@@ -79,4 +87,5 @@ Se relaciona con la [[abnegación]], el [[desprendimiento]], la [[purificación_
 - TPCr, Tercera Parte, Libro I, Cap. IV, n.225-252
 - TPCr, Tercera Parte, Libro I, Cap. V, n.261-262
 - CEC §2015
+- ColCas-II, Conferencias XVIII, XXIV
 - Denzinger D-1333 (Inocencio XII, *Cum alias*)

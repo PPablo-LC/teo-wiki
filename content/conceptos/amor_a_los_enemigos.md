@@ -42,6 +42,15 @@ A la interpretación vulgar de la Ley antigua que identificaba al prójimo con e
 
 Jesús concluye: «Sed perfectos como perfecto es vuestro Padre celestial» (Mt 5,48). Él pide a sus seguidores la perfección del amor. La nueva Ley tiene su síntesis en el amor. Este amor hará que el hombre supere la clásica contraposición amigo-enemigo (CrSJP 32 §8).
 
+### Según La Regla de San Benito (RegSB)
+
+El capítulo 72 (*El buen celo que deben de tener los monjes*) eleva la caridad fraterna hasta un punto que incluye la abnegación hacia los hermanos más débiles o incómodos:
+
+- Los monjes deben ejercer el celo bueno: «*adelantándose mutuamente en darse señal de honor*» (§4) — precede el otro al hermano en signos de amor.
+- «*Toleren con mucha paciencia sus debilidades, tanto corporales como morales*» (§5): amar al enemigo en el contexto monástico incluye amar al hermano que fastidia, cansa o hiere con su fragilidad.
+- «*Nadie pretenda lo que considere bueno para sí mismo, sino lo que es mejor para el otro*» (§7): el egoísmo es el verdadero enemigo que se combate con el amor de benevolencia.
+- La caridad fraterna describe San Benito como «*casta, pura, de desinteresado amor*» (§8): no busca el propio interés.
+
 ## Distinciones importantes
 
 - **Amor de benevolencia vs. amor de amistad**: a los enemigos se les debe amor de benevolencia (querer su bien) pero no necesariamente la familiaridad de la amistad
