@@ -27,6 +27,12 @@ El Concilio Vaticano II (Optatam Totius 16) pidió una renovación de la teolog�
 
 [[san_juan_crisostomo]] es uno de los Padres que más cultivó la predicación moral, aplicando la Escritura a la vida cotidiana.
 
+## Perspectivas por fuente
+
+### Según Mons. Tihámer Tóth (JvC-Rel)
+
+Tóth señala que la [[moral]] católica se fundamenta en [[dios]] como verdad eterna. La [[razón]] conoce la [[ley_natural]], pero se requiere la [[gracia]] divina para cumplirla. Sin Dios como fundamento absoluto, toda ética deviene en relativismo y anarquía moral. La moral religiosa es la única que puede fundamentar el deber en principios verdaderos y últimos. La vida moral del creyente tiene su raíz en la unión con Cristo [JvC-Rel, Archivos 02, 03].
+
 ## Relaciones
 
 Se relaciona con [[teología_moral]], [[moral_fundamental]], [[moral_de_la_obligación]], [[norma_moral]], [[conciencia]], [[virtud]], [[ley_natural]], [[gracia]]

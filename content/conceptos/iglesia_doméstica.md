@@ -43,6 +43,10 @@ La familia cristiana, comunidad creyente y evangelizadora, vive su cometido prof
 
 La familia cristiana es llamada a santificarse y a santificar a la comunidad eclesial y al mundo mediante el ejercicio de su cometido sacerdotal (FC §55). La plegaria familiar tiene características propias: es una oración hecha en común, marido y mujer juntos, padres e hijos juntos (FC §59). El Rosario en familia debe ser considerado como una de las más excelentes y eficaces oraciones comunes que la familia cristiana está invitada a rezar (FC §61).
 
+### Según Mons. Tihámer Tóth (JvC-Rel)
+
+Tóth presenta a los padres como «ministros de la [[gracia]] sacramental» en la [[iglesia_doméstica]]. El [[sacerdocio_bautismal]] implica el derecho y deber de transmitir la [[fe]]. La educación preescolar es responsabilidad primaria de los padres, no de la escuela. La veracidad, obediencia y pudor se forman en el hogar desde los primeros años. El hogar cristiano es la primera escuela de virtudes [JvC-Rel, Archivos 05, 23].
+
 ## Relaciones doctrinales
 
 Se relaciona con [[familia]], [[matrimonio]], [[sacramento_del_matrimonio]], [[iglesia]], [[misión_de_la_iglesia]]

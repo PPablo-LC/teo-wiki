@@ -61,6 +61,19 @@ La evangelización debe ser «nueva en su ardor, en sus métodos, en su expresi�
 
 El encuentro con Cristo lleva necesariamente a evangelizar: «El primer impulso que surge de esta transformación es comunicar a los demás la riqueza adquirida en la experiencia de este encuentro» [EA §68]. «La Iglesia, que vive de la presencia permanente y misteriosa de su Señor resucitado, tiene como centro de su misión llevar a todos los hombres al encuentro con Jesucristo» [EA §68].
 
+### Según CELAM — Aparecida (Apa-CELAM-2007)
+
+El Documento Conclusivo de la V Conferencia General del CELAM (Aparecida, 2007) presenta la evangelización como la **misión fundamental de la Iglesia** en América Latina. El documento establece que:
+
+1. **La evangelización es misionera**: todo discípulo está llamado a ser misionero, saliendo al encuentro de los pueblos para proclamar el Evangelio
+2. **La evangelización es integral**: incluye anuncio, conversión, comunión y compromiso social
+3. **La evangelización es inculturada**: debe respetar y valorar las culturas locales, especialmente la religiosidad popular
+4. **La evangelización es solidaria**: se vincula inseparablemente con la promoción humana integral y la opción preferencial por los pobres
+
+Aparecida insiste en que la evangelización debe ser **nueva en su ardor, en sus métodos y en su expresión**, retomando la fórmula de Juan Pablo II en Puerto Príncipe (1983). El documento presenta el método **ver–juzgar–actuar** como camino para la conversión pastoral y la renovación evangelizadora.
+
+El documento subraya que la evangelización tiene como centro el **kerigma** —el anuncio central de la muerte y resurrección de Cristo— que debe llegar a todos los ámbitos de la vida: la familia, la cultura, la educación, la economía, la política y la comunicación social. La evangelización es, ante todo, un **encuentro personal con Jesucristo** que transforma la vida y lleva a la alegría del Evangelio [Apa-CELAM-2007, Cap. 1, 3, 7].
+
 ## Relaciones doctrinales
 
 Se relaciona con [[doctrina_social_de_la_iglesia]], [[misión_de_la_iglesia]], [[nueva_evangelización]], [[promoción_humana]], [[justicia_social]], [[reino_de_dios]]

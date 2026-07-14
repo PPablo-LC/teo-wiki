@@ -186,6 +186,10 @@ Miguel Bayo sostuvo errores sobre el pecado original condenados por Pío V (D‑
 - SmTh Ia-IIae q.81-83
 - SmTh Ia-IIae q.85 a.3 (cuatro heridas)
 
+## Analizado en contexto cultural
+
+- [[caperucita_roja]] — vulnerabilidad de la niñez como expresión de la condición humana herida por el pecado original
+
 ## Ver también
 [[creación]], [[hombre]], [[redención]], [[bautismo]], [[gracia_santificante]], [[jesucristo]], [[ángeles]], [[jorge_loring]], [[soberbia]], [[tentación]]
 

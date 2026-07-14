@@ -43,6 +43,10 @@ El P. Jorge Loring explica que la Iglesia no es solo una familia visible: «En e
 
 Loring subraya la importancia práctica de esta doctrina: las obras de quien está en gracia, por sencillas que sean, pertenecen al orden sobrenatural y superan infinitamente las obras más brillantes de quien no la posee. Por el contrario, quien vive en pecado mortal es como una célula muerta del Cuerpo Místico. La vida de la gracia se alimenta con la oración —que es la respiración del alma, según San Agustín— y con la Eucaristía (PS §09,44-44,6).
 
+### Según Mons. Tihámer Tóth (JvC-Rel)
+
+Tóth enseña que la [[gracia]] no destruye la naturaleza sino que la perfecciona. Las virtudes naturales son el fundamento indispensable de las sobrenaturales. La [[vida_de_oración]] se nutre de la oración vocal y personal, la [[comunión_frecuente]] y el amor a [[jesucristo]]. La enseñanza religiosa debe ser [[cristocentrismo|cristocéntrica]], orientando toda la vida interior hacia la unión personal con Dios [JvC-Rel, Archivo 10].
+
 ## Distinciones importantes
 
 - **Vida natural vs. vida sobrenatural**: la primera es propia del alma por naturaleza; la segunda es don gratuito de Dios

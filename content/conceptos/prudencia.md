@@ -37,6 +37,10 @@ Ver artículo principal: [[virtud_de_la_prudencia]]
 ## Ver también
 [[virtud_de_la_prudencia]], [[virtudes_cardinales]], [[virtudes_infusas]], [[don_de_consejo]], [[imprudencia]], [[negligencia]], [[astucia]]
 
+## Analizado en contexto cultural
+
+- [[caperucita_roja]] — ausencia total de prudencia como defecto capital; imprudencia paradigmática
+
 ## Referencias
 
 - CEC §1806

@@ -65,6 +65,10 @@ El mal como privación del bien se relaciona con la doctrina de la [[creación]]
 - SmTh Iª q.49 a.1-3
 - [MI, cap. 1–3]
 
+## Analizado en contexto cultural
+
+- [[caperucita_roja]] — el lobo como figura del mal seductor; astucia, paciencia y engaño como modos de obrar del mal
+
 ## Ver también
 
 [[demonio]], [[pecado_original]], [[concupiscencia]], [[tentación]], [[creación]], [[providencia_divina]], [[infierno]], [[mysterium_iniquitatis]]

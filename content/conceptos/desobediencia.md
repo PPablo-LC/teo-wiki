@@ -51,6 +51,10 @@ La Regla establece la desobediencia como transgresión grave de la vida monásti
 
 Se relaciona con [[obediencia]], [[soberbia]], [[vanagloria]], [[pecado_mortal]], [[pecado_venial]].
 
+## Analizado en contexto cultural
+
+- [[caperucita_roja]] — desobediencia material (sin desprecio formal) de la niña que habla con el lobo y revela su destino
+
 ## Ver también
 
 [[obediencia]], [[soberbia]], [[precepto]]

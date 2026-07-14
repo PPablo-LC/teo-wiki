@@ -61,6 +61,10 @@ La educación verdadera no es mera instrucción sino forja del carácter. JvC de
 
 El designio de Dios se realiza en el tiempo como una educación: Israel vivió bajo la ley como un niño bajo un pedagogo hasta la plenitud de los tiempos (Gal 4,1-7; 3,24s) [VocTeoBib, «Educación»]. Dios es el educador por excelencia. En el AT educó a Israel como un padre a su hijo (Dt 8,5; Os 11,1-4), mediante lecciones (la liberación de Egipto, las maravillas del desierto) y correcciones (castigos proféticos). Jesucristo, como perfecto educador, enseña con autoridad, da ejemplo (Jn 13,14s) y toma sobre sí la corrección que merecíamos (Is 53,5). El Espíritu Santo consuma la obra educativa: ya no es la ley nuestro pedagogo (Gal 3,19; 4,2), sino el Espíritu que nos hace clamar «Abba, Padre» (Gal 4,6), trayendo a la memoria las enseñanzas de Jesús (Jn 14,26). La corrección fraterna continúa hasta el fin (Mt 18,15; Heb 12,7s).
 
+### Según Mons. Tihámer Tóth (JvC-Rel)
+
+Tóth enseña que la [[educación]] religiosa no puede ser meramente intelectualista, sino que debe formar la voluntad y los sentimientos junto con la razón. La [[moral]] católica se fundamenta en [[dios]] como base y centro de toda educación eficaz. Señala tres errores a evitar: el intelectualismo exagerado, el voluntarismo y el sentimentalismo. La [[gracia]] divina coopera con la libertad humana, y [[jesucristo]] es el punto central de la pedagogía religiosa. La educación integral requiere atender las tres dimensiones del alma racional [JvC-Rel, Archivos 02-04].
+
 ## Relaciones doctrinales
 
 Se relaciona con [[educación_católica]], [[cultura]], [[familia]], [[escuela_católica]], [[formación]], [[verdad]]

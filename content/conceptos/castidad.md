@@ -102,6 +102,10 @@ Cristo llama a esta pureza de corazón que es «exigencia del amor» y «la dime
 
 **Inocencio XI** (1679, D‑1199) condenó la proposición: «La masturbación no está prohibida por derecho de la naturaleza. De ahí que si Dios no la hubiera prohibido, muchas veces sería buena y alguna vez obligatoria bajo pecado mortal.» Condenada como escandalosa y perniciosa. La Iglesia siempre ha enseñado que la masturbación es intrínsecamente mala por oponerse a la ley natural.
 
+### Según Mons. Tihámer Tóth (JvC-Rel)
+
+Tóth presenta la [[pureza_de_corazón]] como la batalla espiritual central de la juventud. La educación en la [[castidad]] requiere formar la voluntad, la afectividad y la imaginación. El cuerpo es [[templo_del_espíritu_santo]] (1 Cor 6,19). La mortalidad, la actividad continua y el dominio de sí mismo son medios esenciales. La sexualidad humana es un misterio sagrado que debe ser presentada positivamente, no solo como prohibición. La gracia cooperando con el esfuerzo humano produce la pureza [JvC-Rel, Archivos 12, 22, 27, 29].
+
 ## Distinciones importantes
 
 - **Castidad virginal**: abstención perpetua de toda delectación venérea por motivos sobrenaturales

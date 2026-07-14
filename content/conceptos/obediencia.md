@@ -108,6 +108,10 @@ Se relaciona con [[obediencia_de_la_fe]], [[consejos_evangélicos]], [[voto_de_o
 
 - [[kathy_washeck_docility]]
 
+## Analizado en contexto cultural
+
+- [[caperucita_roja]] — obediencia parcial de la niña: cumple la letra del mandato pero desobedece el espíritu de protección
+
 ## Ver también
 [[obediencia_de_la_fe]], [[consejos_evangélicos]], [[voto_de_obediencia]], [[humildad]]
 

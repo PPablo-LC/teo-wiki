@@ -45,6 +45,10 @@ La Cruz «nos permite lamentarnos sin ira. Nos abre a la compasión». Las herid
 
 Se relaciona con [[humildad]], [[debilidad]], [[confianza]], [[surrender_espiritual]], [[gracia]], [[fortaleza]], [[sanación]], [[sufrimiento]]
 
+## Analizado en contexto cultural
+
+- [[caperucita_roja]] — vulnerabilidad de la niñez como condición de apertura al mal; ausencia de protección sobrenatural
+
 ## Ver también
 
 [[humildad]], [[debilidad]], [[confianza]], [[surrender_espiritual]], [[sanación]], [[fortaleza]]

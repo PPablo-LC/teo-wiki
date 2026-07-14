@@ -23,6 +23,10 @@ El **dominio de sí** es la [[virtud]] moral que permite gobernar las [[pasiones
 
 El arte de decir «NO» es esencial: cuando los deseos, las pasiones de los instintos se arremolinan; cuando la tentación del pecado muestra sus alicientes, el hombre de carácter es capaz de pronunciar la breve y decisiva palabra «NO». El ejemplo de Abtuzit, que durante veintidós años midió la presión del aire y perdió todo su trabajo por la imprudencia de una criada, muestra el dominio de sí: «Cruzó los brazos; por un momento pudo adivinarse la tempestad que rugía: y después dijo con sosiego: "Has destruido el trabajo de veintidós años. De hoy en adelante no has de tocar nada de este cuarto"» [JvC, Cap. I]. El hombre de carácter es como una torre que desafía los siglos, inconmovible frente a los vientos del respeto humano y las pasiones.
 
+### Según Mons. Tihámer Tóth (JvC-Muj)
+
+JvC-Muj insiste en que «la base de toda virtud es el dominio de sí mismo» [JvC-Muj, Cap. I], aplicándolo específicamente a la joven. Cuando una joven se hace esclava de sus instintos, pierde inmediatamente la garantía de su vida moral. El ejemplo de la leona que Dom Guéranger describe muestra cómo el dominio de sí transforma la naturaleza: la leona que no devora a su cuidador demuestra que la fuerza sometida a la razón produce grandeza [JvC-Muj, Cap. I]. JvC-Muj añade que la joven de carácter es como una torre que desafía los siglos, inconmovible frente a los vientos del respeto humano y las pasiones [JvC-Muj, Cap. I].
+
 ## Relaciones
 
 [[templanza]], [[fortaleza]], [[apetito_sensitivo]], [[pasiones]], [[virtud_moral]], [[ascesis]], [[concupiscible]], [[irascible]]

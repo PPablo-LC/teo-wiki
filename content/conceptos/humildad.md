@@ -91,6 +91,10 @@ El Espíritu Santo manifiesta este amor en el obrero cuando ya está limpio de v
 
 La verdadera humildad no es cobardía. Muchos confunden la cobardía con la virtud y la pereza con la humildad: «La verdadera humildad hace decir al hombre: "Nada soy, nada puedo por mi propia fuerza, pero si Dios me ayuda no hay en el mundo cosa que no pueda hacer"» [JvC, Cap. I]. Newton, después de sus investigaciones, decía que su trabajo era como recoger conchas a la orilla del inmenso mar de la verdad. Sócrates enseñaba: «La mayor sabiduría humana es saber que no sabemos» y «Muchos habrían sido sabios si no hubieran creído que ya lo eran» [JvC, Cap. II].
 
+### Según Mons. Tihámer Tóth (JvC-Muj)
+
+JvC-Muj presenta la misma distinción: «La verdadera humildad hace decir al hombre: "Nada soy, nada puedo por mi propia fuerza, pero si Dios me ayuda no hay en el mundo cosa que no pueda hacer"» [JvC-Muj, Cap. II]. El ejemplo de Newton recogiendo conchas a la orilla del mar de la verdad, y la enseñanza socrática de que «la mayor sabiduría humana es saber que no sabemos», muestran la humildad del verdadero sabio [JvC-Muj, Cap. II].
+
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 [VocTeoBib, «Humildad»] La humildad bíblica tiene tres grados: la modestia frente a la vanidad, la actitud de la criatura pecadora ante el Dios santo, y la humildad de Cristo que se anonada hasta la cruz por nuestra salvación (Flp 2,6-8). Israel aprendió la humildad en la experiencia de la omnipotencia divina y en la prueba del exilio. Jesús, el Mesías humilde anunciado por Zacarías (Zac 9,9), invita a aprender de él, «manso y humilde de corazón» (Mt 11,29). Dios mira a los humildes y los exalta (Sant 4,10; 1Pe 5,6).

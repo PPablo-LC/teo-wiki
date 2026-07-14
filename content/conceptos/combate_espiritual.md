@@ -35,6 +35,10 @@ El combate del alma es la lucha continua entre el bien y el mal. «En todo hombr
 
 La ley de la cristalización ilustra cómo los pensamientos nobles atraen a otros semejantes; si el joven pone estorbos con frecuentes caídas en el pecado, la personalidad será desequilibrada [JvC, Cap. II].
 
+### Según Mons. Tihámer Tóth (JvC-Muj)
+
+JvC-Muj presenta el mismo principio: «En todo hombre hay un santo y un criminal» [JvC-Muj, Cap. II]. La guerra contra nosotros mismos es la primera condición del carácter: «La mejor defensa es el ataque. Quien empieza la ofensiva gran ventaja lleva. En el combate del alma has de atacar día tras día, aunque sólo sea en pequeñas escaramuzas, al ejército enemigo que está dentro de ti y cuyo nombre es pereza, comodidad, capricho, glotonería, curiosidad, desamor...» [JvC-Muj, Cap. II]. La joven de carácter debe combatir día tras día sus defectos, pues «la ley de la cristalización» muestra que los pensamientos nobles atraen a otros semejantes [JvC-Muj, Cap. II].
+
 ### Según la Summa Theologiae (SmTh)
 
 **IIa-IIae q.35:** La acedia es uno de los principales obstáculos en el combate espiritual, pues trae tristeza ante los bienes espirituales y lleva a abandonar los deberes de piedad.

@@ -49,6 +49,23 @@ La vida consagrada, los fieles laicos, la familia como iglesia doméstica y los 
 
 La Veritatis Splendor (§26) enseña que la unidad de la Iglesia es herida no solo por los cristianos que rechazan la verdad de la fe, sino también por aquellos que desconocen las obligaciones morales a las que los llama el Evangelio (cf. 1 Co 5,9-13). La Iglesia es a la vez comunión de fe y de vida; su norma es «la fe que actúa por la caridad» (Ga 5,6). El disenso teológico es contrario a la comunión eclesial (§113). Promover y custodiar la fe y la vida moral en la unidad de la Iglesia es la misión confiada por Jesús a los Apóstoles y continuada por sus sucesores (§27).
 
+### Según CELAM — Aparecida (Apa-CELAM-2007)
+
+El Documento Conclusivo de la V Conferencia General del CELAM (Aparecida, 2007) presenta la **comunión eclesial** como una de las tres dimensiones inseparables de la identidad del discípulo misionero. El documento enseña que:
+
+1. **La comunión es trinitaria**: la Iglesia es signo e instrumento de la comunión querida por Dios, que se manifiesta en la unidad del Padre, del Hijo y del Espíritu Santo
+2. **La comunión es bautismal**: todo bautizado está incorporado a la comunión de vida, caridad y verdad
+3. **La comunión es eucarística**: la Eucaristía es el centro de la vida eclesial y fuente de unidad
+4. **La comunión es misionera**: se manifiesta en la salida al encuentro de los pueblos
+
+Aparecida insiste en que la comunión eclesial implica:
+- **Unidad en la diversidad**: respeto por los carismas y ministerios
+- **Collegialidad episcopal**: unión de los obispos con el Papa y entre sí
+- **Participación de los laicos**: corresponsabilidad en la misión
+- **Diálogo ecuménico**: búsqueda de la unidad con otros cristianos
+
+El documento presenta la comunión como **antídoto contra la división** y como camino para la conversión pastoral. La comunión eclesial se manifiesta en signos concretos: oración en común, relaciones fraternas, cooperación pastoral y mutua comunicación de bienes espirituales [Apa-CELAM-2007, Cap. 1, 5].
+
 ## Relaciones doctrinales
 
 La comunión eclesial es el fundamento de la [[sucesión_apostólica]] y de la colegialidad episcopal. Se distingue de la mera asociación por su origen sobrenatural en la [[trinidad]].

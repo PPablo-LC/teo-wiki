@@ -36,7 +36,7 @@ La tesis central se resume en dos afirmaciones: 1) hay una diferencia importante
 
 **Convergencias o afinidades:** La afirmación de Weizenbaum sobre la unicidad del ser humano coincide con la doctrina de la [[imagen_de_dios|imagen de Dios]]: el hombre no es un «algo» sino un «alguien», creado a imagen y semejanza de Dios (Gn 1,26), dotado de inteligencia y libertad. El CEC (§355-361) insiste en que el hombre es «capaz de conocerse, de poseerse y de darse libremente» y en que «la persona humana es la única criatura en la tierra a la que Dios ha amado por sí misma».
 
-**Tensiones o divergencias:** El análisis es explícitamente secular y, en varios pasajes, asume un lenguaje naturalista (habla de «catástrofe eriksoniana», de «paraíso perdido» como construcción psicológica). No alcanza a afirmar la dimensión sobrenatural de la persona humana ni su destino escatológico. Sin embargo, su defensa de la irreductibilidad del hombre es congruente con la fe cristiana sin depender de sus premisas.
+**Tensiones o divergencias:** El análisis es explícitamente secular y naturalista. Weizenbaum defiende la unicidad del hombre, pero no admite el alma espiritual como principio vital distinto de la materia (cf. CEC §362-363), ni la dimensión sobrenatural de la persona, ni su destino escatológico. Asume presupuestos materialistas en varios pasajes: habla de la experiencia originaria del «paraíso perdido» como construcción psicológica (Erikson), no como realidad salvífica (cf. Gn 1-3). No distingue entre libertad natural y libertad sobrenatural (CEC §1741-1742). Su defensa de la irreductibilidad del hombre es congruente con la fe cristiana, pero descansa en una antropología incompleta que solo alcanza lo natural.
 
 ---
 
@@ -92,11 +92,21 @@ La tesis central se resume en dos afirmaciones: 1) hay una diferencia importante
 
 ## Valoración teológica
 
-*Computer Power and Human Reason* es un libro extraordinariamente lúcido y moralmente riguroso, escrito por un científico creyente en el sentido civil del término, pero no en el sentido teológico. Desde la fe cristiana, constituye un ejemplo paradigmático de lo que el magisterio llama «semina Verbi» (semillas del Verbo): contiene diagnósticos certeros sobre la dignidad humana, la libertad, la responsabilidad y los límites de la razón técnica que son perfectamente congruentes con la doctrina católica, incluso cuando el autor no alcanza a formular sus premisas en términos teológicos.
+*Computer Power and Human Reason* es un libro extraordinariamente lúcido y moralmente riguroso, escrito por un científico con sensibilidad ética pero desde presupuestos explícitamente secularistas. Desde la fe cristiana, constituye un ejemplo paradigmático de lo que el magisterio llama «semina Verbi» (semillas del Verbo): contiene diagnósticos certeros sobre la dignidad humana, la libertad, la responsabilidad y los límites de la razón técnica que son perfectamente congruentes con la doctrina católica, incluso cuando el autor no alcanza a formular sus premisas en términos teológicos.
 
 Su gran aporte es la defensa explícita del hombre como ser irreductible a computación, incluyendo criterios éticos concretos (critica la psicoterapia computarizada, la guerra tecnificada, los sistemas burocráticos incomprensibles). Todo esto es enteramente compatible con el CEC, RH y el Compendio.
 
-Su gran límite, desde la perspectiva cristiana, es la ausencia de una fundamentación metafísica de la dignidad (no apela a la creación a imagen de Dios) y de una teología de la esperanza. Pero esto no invalida el libro; al contrario, lo hace un aliado natural para el diálogo entre fe y cultura en el mundo tecnológico. La Iglesia puede leerlo como una crítica secular de la idolatría de la técnica, que prepara el camino para el anuncio pleno de que solo en Cristo el hombre «descubre la sublimidad de su vocación» (RH §8).
+**Sin embargo, la obra presenta divergencias doctrinales sustantivas que no pueden pasarse por silencio:**
+
+1. **Antropología incompleta:** Weizenbaum reduce el hombre a su dimensión natural. No conoce el alma espiritual (CEC §362), ni la gratuidad de la gracia, ni el destino escatológico del hombre. Su defensa de la libertad se queda en el plano filosófico, sin reconocer que la libertad necesita ser liberada por Cristo (CEC §1741-1742).
+
+2. **Ética sin fundamento teológico:** Su ética de la responsabilidad formula correctamente que «la responsabilidad debe ser proporcional al alcance de los efectos de las acciones», pero no apela a Dios como fuente de la ley moral ni al juicio eterno como horizonte último. El CEC (§1954-1960) enseña que la ley natural participa de la ley eterna de Dios; Weizenbaum formula una ética secular que es noble pero débil en sus últimos fundamentos.
+
+3. **Pecado y redención ausentes:** El libro no conoce categorías como pecado original, gracia santificante, redención en Cristo. El hombre es «deshumanizado» por la técnica, pero no es «caído» ni necesitado de salvación. La dignidad humana en la doctrina católica se arraiga en la creación a imagen de Dios y en la Encarnación (RH §8); Weizenbaum defiende la dignidad sin poder fundamentarla metafísicamente.
+
+4. **Esperanza inmanente vs. esperanza escatológica:** Su llamado final es a la «valentía civil» y al ejemplo personal. No hay esperanza de vida eterna, ni Reino de Dios que transforma la historia, ni Resurrection. Su horizonte es puramente inmanente.
+
+Estas divergencias no invalidan el libro, pero sí obligan a leerlo con discernimiento: su diagnóstico de la deshumanización tecnocrática es certero, pero incompleto. La fe cristiana puede reconocer en él semillas del Verbo (semina Verbi), pero no puede suscribir su antropología ni su ética secular. El libro es un aliado natural para el diálogo entre fe y cultura en el mundo tecnológico, pero la teología debe complementar su análisis con la fundamentación metafísica de la dignidad (creación a imagen de Dios, Encarnación) y con la esperanza escatológica que el autor excluye.
 
 ## Ver también
 

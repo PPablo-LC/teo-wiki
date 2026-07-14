@@ -46,6 +46,10 @@ El orden es superior jerárquicamente al estado religioso: «El orden monástico
 
 El orden exterior es manifestación de la armonía íntima. JvC usa la imagen de la mesa desordenada del estudiante: «¡Dios mío! Si habrá el mismo desorden en el alma de este joven...» [JvC, Cap. III]. «Pon orden en tu mesa, en tu armario, en tu cuarto. El orden exterior no es tan sólo manifestación de la armonía íntima, sino también eficaz instrumento para llegar a ella; quien siempre tiene orden en sus cosas ordenará con más facilidad sus pensamientos. Pon orden, y el orden te guardará» [JvC, Cap. III]. El desordenado pierde tiempo buscando las cosas y llegará tarde a todas partes.
 
+### Según Mons. Tihámer Tóth (JvC-Muj)
+
+JvC-Muj presenta el mismo principio: «Pon orden en tu mesa, en tu armario, en tu cuarto. El orden exterior no es tan sólo manifestación de la armonía íntima, sino también eficaz instrumento para llegar a ella; quien siempre tiene orden en sus cosas ordenará con más facilidad sus pensamientos. Pon orden, y el orden te guardará» [JvC-Muj, Cap. III]. El ejemplo de Gulliver, que se deja atar por los liliputienses porque no se toma la molestia de romper los hilos que lo sujetan, muestra cómo las malas costumbres nos esclavizan si no las combatimos a tiempo [JvC-Muj, Cap. III].
+
 ## Distinciones importantes
 
 - **Orden sacramental vs. orden angélico**: el primero es sacramento; el segundo es jerarquía celestial

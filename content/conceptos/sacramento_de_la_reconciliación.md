@@ -39,6 +39,10 @@ La materia próxima del sacramento de la penitencia son los actos del penitente:
 
 PS defiende que la confesión fue instituida por Jesucristo cuando dijo a los Apóstoles: «A quienes perdonéis los pecados, les serán perdonados» (Jn 20,23) [PS §11,55,1]. La confesión no es un invento humano: ningún sacerdote hubiera creado gratis un ministerio tan ingrato y desagradable [PS §11,55,1]. El sacramento se practica desde los primeros siglos del cristianismo; el Concilio IV de Letrán (1215) fijó la obligación anual, pero la confesión privada existe desde el siglo VI [PS §11,55,1]. PS distingue la confesión del psicoanálisis: en la confesión se declaran pecados para obtener el perdón y la reconciliación con Dios; en el psicoanálisis se cuentan problemas psíquicos para buscar una curación [PS §11,53,1].
 
+### Según Mons. Tihámer Tóth (JvC-Rel)
+
+Tóth destaca el valor educativo de la [[confesión]] frecuente: examen de conciencia, arrepentimiento, firme propósito y satisfacción. La confesión conoce el defecto dominante y ayuda al proceso de liberación del [[pecado]]. El conocimiento propio es esencial para el crecimiento espiritual. San Alfonso María de Ligorio y San Francisco de Sales son referentes de la dirección de almas [JvC-Rel, Archivo 16].
+
 ## Distinciones importantes
 
 - Se distingue del Bautismo porque este remite el pecado original y los actuales; la Penitencia remite los pecados cometidos después del Bautismo

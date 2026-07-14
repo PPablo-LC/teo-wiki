@@ -15,6 +15,12 @@ description: "Práctica de recibir la sagrada comunión con asiduidad como medio
 
 La comunión frecuente es la recepción asidua del Cuerpo de Cristo en la eucaristía, recomendada por el magisterio como medio ordinario de santificación para todos los fieles en estado de gracia. El movimiento eucarístico de los siglos XIX-XX impulsó la superación del jansenismo que restringía la comunión, culminando en el decreto *Sacra Tridentina Synodus* (1905) de San Pío X, que estableció que la comunión diaria debe estar al alcance de todos los fieles.
 
+## Perspectivas por fuente
+
+### Según Mons. Tihámer Tóth (JvC-Rel)
+
+Tóth presenta la [[comunión_frecuente]] como el centro de la educación cristiana. La acción de gracias post-comunión es esencial para la vida espiritual. [[jesus_sacramentado]] es fuente de [[gracia]] para la vida cotidiana. La preparación para la [[comunión]] incluye mortificación y estado de [[gracia]]. San Pío X promovió la comunión frecuente de los niños como medio privilegiado de santificación [JvC-Rel, Archivos 06, 17].
+
 ## Ver también
 
 [[eucaristía]], [[primera_comunión]], [[sagrada_comunión]], [[participación_activa]], [[jansenismo]]

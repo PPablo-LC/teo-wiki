@@ -39,6 +39,10 @@ Las Constituciones de los Legionarios de Cristo dedican el n. 59 a la dirección
 
 Además de la dirección espiritual, las Constituciones establecen el diálogo personal con el superior (CLC-2020 60): los religiosos acuden con confianza a sus superiores para abrir su corazón libre y espontáneamente, recibiendo el oportuno acompañamiento. Se prohíbe a los superiores inducir a los miembros a manifestarles su conciencia (CLC-2020 60 §2, cf. CIC c. 630 §5).
 
+### Según Mons. Tihámer Tóth (JvC-Rel)
+
+Tóth insiste en la [[dirección_espiritual]] como necesaria en todas las etapas: pequeños escolares, adolescentes y universitarios. El director debe conocer el alma, ser optimista pedagógico, tener coherencia de vida y amor sobrenatural. La dirección espiritual de universitarios requiere abordar la crisis de fe en la universidad y el diálogo [[fe]]-[[razón]]. El acompañamiento espiritual personalizado es irremplazable para el crecimiento en la vida interior [JvC-Rel, Archivos 06, 07, 08, 11, 21].
+
 ## Distinciones importantes
 
 - Dirección espiritual vs. confesión sacramental: el confesor es juez que absuelve; el director es guía que conduce a la perfección. Es convenientísimo que sean la misma persona, aunque no es necesario (n.674).

@@ -41,6 +41,10 @@ La pobreza evangélica es uno de los tres consejos evangélicos esenciales al es
 
 El «demonio del dinero» ha cautivado a muchos. JvC advierte que la caza del dinero no puede ser fin digno de la vida humana: «el dinero es sólo el medio para la consecución de bienes más elevados» [JvC, Cap. II]. Cuando alguien muere, habría que preguntarse «¿Cuántas obras buenas hizo?» en vez de «¿Cuánta fortuna dejó?». La limosna debe doler: «La verdadera limosna no procede de lo que nos sobra, sino de lo que nos es necesario» [JvC, Cap. II]. La austeridad en los gastos educa el carácter y aumenta el sentimiento de independencia.
 
+### Según Mons. Tihámer Tóth (JvC-Muj)
+
+JvC-Muj presenta el mismo principio: «el dinero es sólo el medio para la consecución de bienes más elevados» [JvC-Muj, Cap. II]. Cuando alguien muere, habría que preguntarse «¿Cuántas obras buenas hizo?» en vez de «¿Cuánta fortuna dejó?». La limosna debe doler: «La verdadera limosna no procede de lo que nos sobra, sino de lo que nos es necesario» [JvC-Muj, Cap. II]. La austeridad en los gastos educa el carácter y aumenta el sentimiento de independencia [JvC-Muj, Cap. II].
+
 ### Según el Enchiridion Symbolorum (Denzinger)
 
 El Papa **Juan XXII**, en la Constitución *Cum inter nonnullos* (1323, D-494), declaró errónea y herética la afirmación pertinaz de que «nuestro Redentor y Señor Jesucristo y sus Apóstoles no tuvieron nada en particular, ni siquiera en común». La constitución argumenta que tal afirmación contradice la Sagrada Escritura, que en muchos lugares asegura que poseían algunas cosas. Declaró también herético afirmar que Cristo y los Apóstoles no tenían derecho a usar de aquellas cosas que la Escritura atestigua que poseían, ni derecho a venderlas o adquirirlas, pues sentir así de los actos del Redentor es «sacrílego, contrario a la Sagrada Escritura y enemigo de la doctrina católica».

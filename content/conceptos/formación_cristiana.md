@@ -43,6 +43,10 @@ Toda la obra de JvC es un tratado de formación cristiana para jóvenes. «¿Sab
 
 La Veritatis Splendor (§64) enseña que la formación de la conciencia es una tarea permanente. Requiere el conocimiento de la ley de Dios y, más aún, una «connaturalidad» entre el hombre y el verdadero bien, que se fundamenta y desarrolla en las actitudes virtuosas: la prudencia, las otras virtudes cardinales y, en primer lugar, las virtudes teologales de la fe, la esperanza y la caridad. La Iglesia y su Magisterio son una gran ayuda para la formación de la conciencia, pues la Iglesia pone «la verdad de Cristo» al servicio de la conciencia, ayudándola a no desviarse de la verdad sobre el bien del hombre.
 
+### Según Mons. Tihámer Tóth (JvC-Rel)
+
+Tóth distingue tres errores en la [[formación_cristiana]]: intelectualismo (solo razón), voluntarismo (solo voluntad) y sentimentalismo (solo sentimientos). La formación integral requiere atender mente, voluntad y sentimientos. El educador debe entusiasmarse con su tarea, como [[san_juan_crisostomo]]: «Moldear las almas es más excelente que dibujar figuras». La autoeducación es el camino para esculpir en el alma la imagen que Dios concibió [JvC-Rel, Archivos 02, 07].
+
 ## Distinciones importantes
 
 - **Formación cristiana** vs. **mera instrucción religiosa**: la formación cristiana abarca la totalidad de la persona —inteligencia, voluntad, corazón— y la integra en la vida de la Iglesia, mientras que la mera instrucción se limita a la transmisión de conceptos.

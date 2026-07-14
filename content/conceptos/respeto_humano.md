@@ -38,6 +38,10 @@ Es necesario vencer el respeto humano para practicar la resistencia directa a la
 
 El que no se atreve a rezar o no se arrodilla en la iglesia porque «otros lo ven» es prisionero del respeto humano. El joven que al hacer algo espía con miedo lo que dirá el otro «no tiene voluntad y su carácter todavía no está formado» [JvC, Cap. I]. La torre del castillo —que desafía los siglos— frente a la veleta —que gira según el viento— es la imagen del carácter firme frente al respeto humano. Daniel en la corte de Nabucodonosor («Yo permaneceré fiel a mi Dios»), el mártir San Pedro de Verona escribiendo «¡Creo!» con su sangre, son ejemplos de quienes vencen el respeto humano. «¿Qué quieres ser, torre o veleta? ¿El cobarde esclavo del respeto humano o un hombre verdaderamente libre?» [JvC, Cap. I].
 
+### Según Mons. Tihámer Tóth (JvC-Muj)
+
+JvC-Muj presenta los mismos ejemplos: la torre del castillo que desafía los siglos frente a la veleta que gira según el viento. La joven que no se atreve a rezar o no se arrodilla en la iglesia porque «otros lo ven» es prisionera del respeto humano. Daniel en la corte de Nabucodonosor y los mártires que vencieron el temor son ejemplos de quienes prefieren la fidelidad a Dios antes que la aprobación humana [JvC-Muj, Cap. I].
+
 ## Distinciones importantes
 
 - **Respeto humano vs. prudencia**: la prudencia aconseja callar a veces; el respeto humano calla por cobardía

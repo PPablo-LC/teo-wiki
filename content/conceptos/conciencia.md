@@ -48,6 +48,10 @@ La conciencia moral es el primer vicario de Cristo, la mensajera de Dios (CEC §
 
 La conciencia es «la voz de Dios». JvC enseña que quien quiera ser libre debe acostumbrarse a seguir incondicionalmente la voz de la conciencia: «No temas a nadie. Teme tan sólo a tu conciencia. No encaja con el carácter el abandonar por miramientos humanos, por miedo a habladurías o a la ironía, lo que aprueba tu conciencia» [JvC, Cap. I]. «La mejor ayuda para dormir, la mejor almohada, es una buena conciencia» [JvC, Cap. I].
 
+### Según Mons. Tihámer Tóth (JvC-Muj)
+
+JvC-Muj presenta la conciencia como «la voz de Dios»: «No temas a nadie. Teme tan sólo a tu conciencia. No encaja con el carácter el abandonar por miramientos humanos, por miedo a habladurías o a la ironía, lo que aprueba tu conciencia» [JvC-Muj, Cap. I]. La joven de carácter debe acostumbrarse a seguir incondicionalmente la voz de la conciencia, pues «la mejor ayuda para dormir, la mejor almohada, es una buena conciencia» [JvC-Muj, Cap. I].
+
 ## Relaciones doctrinales
 
 [[conciencia_moral]], [[ley_natural]], [[virtud_de_la_prudencia]], [[actos_humanos]], [[examen_de_conciencia]], [[sindéresis]]

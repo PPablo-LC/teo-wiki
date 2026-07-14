@@ -56,6 +56,10 @@ El don de fortaleza produce la paciencia y la longanimidad; la longanimidad es l
 
 Los ejemplos de Dante (treinta años para la Divina Comedia), Newton (quince veces su Cronología), Edison (noches de lectura técnica desde niño) y Stephenson (quince años para su locomotora) muestran que los grandes éxitos no se alcanzan «con momentáneos arranques, sino con diligente constancia durante años» [JvC, Cap. II]. La subida a la montaña del anciano de pasos reposados —que vence a los jóvenes impetuosos— enseña que para llegar a las alturas no basta un arranque juvenil, sino que es necesario «una perseverancia reposada, siempre igual, constante» [JvC, Cap. III].
 
+### Según Mons. Tihámer Tóth (JvC-Muj)
+
+JvC-Muj presenta los mismos ejemplos de perseverancia: «El que no quiera ser vencido, tiene un medio seguro: no hay que desanimarse» [JvC-Muj, Cap. II]. La fábula del caracol y la liebre ilustra que la perseverancia vence al talento. Los ejemplos de Dante, Newton, Edison y Stephenson muestran que los grandes éxitos no se alcanzan «con momentáneos arranques, sino con diligente constancia durante años» [JvC-Muj, Cap. II]. La subida a la montaña del anciano de pasos reposados enseña que para llegar a las alturas no basta un arranque juvenil, sino que es necesario «una perseverancia reposada, siempre igual, constante» [JvC-Muj, Cap. II].
+
 ## Distinciones importantes
 
 - **Perseverancia activa**: constancia en el ejercicio de las virtudes y medios de santificación

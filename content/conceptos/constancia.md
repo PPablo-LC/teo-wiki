@@ -21,6 +21,10 @@ La **constancia** es la [[virtud]] moral que permite perseverar en el bien a pes
 
 La constancia es ilustrada por la imagen del anciano que sube la montaña con pasos reposados mientras los jóvenes impetuosos se cansan y quedan tendidos junto a la cascada: «Para llegar a las alturas y alcanzar la cumbre no basta un arranque juvenil sino que es necesario una perseverancia reposada, siempre igual, constante» [JvC, Cap. III]. La constancia es la virtud de los que saben mantener el esfuerzo día tras día, sin dejarse vencer por el desaliento inicial.
 
+### Según Mons. Tihámer Tóth (JvC-Muj)
+
+JvC-Muj insiste en la misma imagen del anciano que sube la montaña: «El viejo sube sin prisa. Se detiene de vez en cuando para mirar a su alrededor, contempla el paisaje, admira la vegetación; pero enseguida vuelve a proseguir su camino con pasos lentos, seguros, inquebrantables» [JvC-Muj, Cap. II]. La constancia es la virtud de los que saben mantener el esfuerzo día tras día, sin dejarse vencer por el desaliento inicial. La joven de carácter debe aprender que «la perseverancia es la virtud de los que saben esperar» [JvC-Muj, Cap. II].
+
 ## Relaciones
 
 [[fortaleza]], [[don_de_fortaleza]], [[perseverancia]], [[vida_espiritual]], [[paciencia]], [[longanimidad]], [[ascesis]]

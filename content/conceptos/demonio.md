@@ -97,6 +97,10 @@ El demonio es el adversario de Cristo y de la [[iglesia]]. Su acción se opone a
 
 ## Ver también
 
+## Analizado en contexto cultural
+
+- [[caperucita_roja]] — el lobo como imagen del demonio tentador; engaño, paciencia y seducción como modos de obrar
+
 [[satanás]], [[concupiscencia]], [[tentación]], [[exorcismo]], [[sacramentales]], [[ángeles_custodios]], [[pecado_original]], [[pecado_de_los_ángeles]], [[pena_de_los_demonios]], [[jorge_loring]]
 
 ## Referencias

@@ -29,6 +29,24 @@ El Capítulo General de 2026, en el marco de «Proteger y sanar», afirma que la
 
 La Veritatis Splendor defiende la singular dignidad de la persona humana, única criatura en la tierra a la que Dios ha amado por sí misma (§13, citando GS 24). Los mandamientos tutelan el bien de la persona, imagen de Dios, a través de sus bienes particulares. La verdadera libertad es «signo eminente de la imagen divina en el hombre» (§34, citando GS 17). La persona humana, en la unidad inseparable de alma y cuerpo, es sujeto de actos morales (§48-49). La dignidad de la persona exige normas morales universales e inmutables que la protejan (§95-96).
 
+### Según CELAM — Aparecida (Apa-CELAM-2007)
+
+El Documento Conclusivo de la V Conferencia General del CELAM (Aparecida, 2007) presenta la **dignidad de la persona humana** como fundamento de la acción pastoral y social de la Iglesia. El documento enseña que:
+
+1. **La dignidad es creacional**: todo ser humano es creado a imagen y semejanza de Dios, lo que le confiere un valor intrínseco e inalienable
+2. **La dignidad es redentora**: Cristo ha redimido a todos los hombres, elevando su dignidad a la categoría de hijos de Dios
+3. **La dignidad es integral**: abarca todas las dimensiones de la persona: corporal, espiritual, individual y social
+4. **La dignidad es inviolable**: ningún poder humano puede arrebatarla
+
+Aparecida insiste en que la dignidad de la persona humana es el **fundamento de los derechos humanos** y de la justicia social. El documento presenta la dignidad como:
+
+- **Fundamento de la libertad religiosa**: la persona tiene derecho a buscar la verdad y a profesar su fe
+- **Fundamento de la vida humana**: la vida es un don sagrado que debe ser respetado desde la concepción hasta su término natural
+- **Fundamento de la justicia social**: las estructuras sociales deben estar al servicio de la dignidad humana
+- **Fundamento de la paz**: la paz se construye sobre el respeto a la dignidad de cada persona
+
+El documento llama a una **cultura de la vida** que defienda la dignidad humana frente a las amenazas del aborto, la eutanasia, la pobreza, la violencia y la discriminación. La dignidad de la persona es, ante todo, un **imperativo ético** que exige compromiso y acción [Apa-CELAM-2007, Cap. 8, 9, 10].
+
 ## Distinciones importantes
 
 - Dignidad ontológica (inherente al ser humano por creación) vs. dignidad moral (adquirida por la virtud)
