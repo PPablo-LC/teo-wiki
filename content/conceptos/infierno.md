@@ -71,6 +71,10 @@ Loring enseña que el infierno «es el conjunto de todos los males sin mezcla de
 
 Se relaciona con el [[pecado_mortal]], la [[justicia_divina]], el [[juicio_particular]], el [[juicio_final]], la [[conversión]] (como llamamiento), y el [[demonio]].
 
+## Analizado en contexto cultural
+
+- [[la_biblia_del_ateo_joan_konner]] — tensión: la obra presenta el infierno como un invento terrorífico, cuando la doctrina católica lo enseña como la consecuencia natural de la libertad humana que rechaza definitivamente a Dios
+
 ## Ver también
 
 [[pecado_mortal]], [[juicio_particular]], [[juicio_final]], [[justicia_divina]], [[conversión]], [[demonio]], [[jorge_loring]], [[cuerpos_de_los_condenados]]

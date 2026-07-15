@@ -19,6 +19,10 @@ La **inmortalidad del alma** es la doctrina según la cual el [[alma]] humana, p
 
 [[alma]], [[espíritu]], [[muerte]], [[escatología]], [[cielo]], [[infierno]], [[purgatorio]], [[resurrección_de_la_carne]], [[creacionismo_del_alma]], [[inmortalidad]]
 
+## Analizado en contexto cultural
+
+- [[la_biblia_del_ateo_joan_konner]] — tensión: la obra presenta el materialismo como la posición más coherente, cuando la doctrina católica enseña que el alma subsiste después de la muerte por ser espiritual
+
 ## Ver también
 
 [[alma]], [[escatología]], [[resurrección_de_la_carne]]

@@ -76,6 +76,10 @@ La relación entre fe y razón es fundamental para la [[teología_fundamental]],
 - [[joey_stevens_grit_perseverance]]
 - [[kevin_mulaney_prudence_decisions]]
 
+## Analizado en contexto cultural
+
+- [[la_biblia_del_ateo_joan_konner]] — tensión: la obra presenta fe y razón como opuestas, cuando la doctrina católica las enseña como complementarias (*Fides et Ratio*)
+
 ## Ver también
 [[fe_católica]], [[revelación_pública]], [[teología]], [[razón_natural]], [[preámbulos_de_la_fe]], [[analogía_de_la_fe]]
 

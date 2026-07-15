@@ -47,6 +47,10 @@ La Biblia no contiene un tratado sobre Dios, sino que enseña a escucharle y res
 
 El conocimiento de [[dios]] se relaciona con la [[trinidad]], la [[creación]], la [[providencia_divina]], la [[revelación]] y la [[teología_natural]]. Las Personas divinas se distinguen como [[persona_del_padre]], [[persona_del_hijo]] y [[persona_del_espíritu_santo]].
 
+## Analizado en contexto cultural
+
+- [[la_biblia_del_ateo_joan_konner]] — tensión: la obra niega la existencia de Dios y lo presenta como invención humana, cuando la doctrina católica enseña que su existencia puede conocerse con certeza por la razón natural
+
 ## Ver también
 
 [[trinidad]], [[persona_divina]], [[creación]], [[revelación]], [[conocimiento_de_dios]], [[providencia_divina]], [[jorge_loring]]

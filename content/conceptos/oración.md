@@ -136,6 +136,10 @@ Se relaciona con la [[vida_de_oración]], los [[grados_de_oración]], la [[medit
 - [[primeros_pasos_en_la_vida_espiritual]]
 - [[tim_barry_mortification_maketh_man]]
 
+## Analizado en contexto cultural
+
+- [[la_biblia_del_ateo_joan_konner]] — tensión: la obra presenta la oración como inútil e ineficaz, cuando la doctrina católica la enseña como encuentro personal con Dios que transforma al que ora
+
 ## Ver también
 [[vida_de_oración]], [[grados_de_oración]], [[meditación]], [[contemplación]], [[oración_litúrgica]], [[amor_puro]], [[unigenitus]]
 

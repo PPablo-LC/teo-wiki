@@ -43,6 +43,10 @@ CEC §1749-1761: La moralidad de los actos humanos depende de tres fuentes: el o
 
 Se vincula con la [[ley_moral]], la [[ley_natural]], la [[conciencia_moral]], el [[acto_humano]], la [[libertad]], la [[intención]], la [[bondad_y_malicia]], la [[virtud]] y el [[pecado]].
 
+## Analizado en contexto cultural
+
+- [[la_biblia_del_ateo_joan_konner]] — tensión: la obra presenta la moralidad como independiente de Dios, cuando la doctrina católica enseña que la ley moral está inscrita en el corazón humano por el Creador
+
 ## Ver también
 [[ley_moral]], [[ley_natural]], [[conciencia_moral]], [[acto_humano]]
 

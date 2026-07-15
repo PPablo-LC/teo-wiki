@@ -133,6 +133,10 @@ Pío V condenó los errores de Bayo relacionados con la fe (D‑1022, D‑1025, 
 - [[adam_farber_fortitude_through_excellence_in_patience]]
 - [[primeros_pasos_en_la_vida_espiritual]]
 
+## Analizado en contexto cultural
+
+- [[la_biblia_del_ateo_joan_konner]] — tensión: la obra presenta la fe como creencia ciega e irracional, cuando la doctrina católica la enseña como virtud sobrenatural compatible con la razón
+
 ## Ver también
 [[virtud_de_la_fe]], [[virtudes_teologales]], [[virtudes_infusas]]
 

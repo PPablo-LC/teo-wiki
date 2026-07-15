@@ -56,6 +56,10 @@ Juan Pablo II dedica la quinta parte de su ciclo cristológico a los milagros de
 
 Los milagros son [[motivos_de_credibilidad]] que sostienen la [[fe]] racional, confirman la [[revelación]] divina, acreditan a [[cristo]] como Hijo de Dios, y se vinculan con la [[profecía]] como signos proféticos del Reino.
 
+## Analizado en contexto cultural
+
+- [[la_biblia_del_ateo_joan_konner]] — tensión: la obra presenta los milagros como imposibles científicamente, cuando la doctrina católica los enseña como signos del poder divino que superan la naturaleza creada
+
 ## Ver también
 
 [[motivos_de_credibilidad]], [[fe]], [[revelación]], [[cristo]], [[profecías]], [[carismas]], [[apologética]], [[jorge_loring]]

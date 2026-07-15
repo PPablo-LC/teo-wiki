@@ -39,6 +39,10 @@ El paraíso/cielo es el estado de recibir la recompensa final respecto del bien 
 
 [[creación]], [[pecado_original]], [[nuevo_adán]], [[reino_de_dios]], [[cielo]], [[vida_eterna]]
 
+## Analizado en contexto cultural
+
+- [[la_biblia_del_ateo_joan_konner]] — tensión: la obra presenta el paraíso como una ilusión absurda, cuando la doctrina católica lo enseña como la morada eterna de los justos en comunión con Dios
+
 ## Ver también
 
 [[adán]], [[creación]], [[escatología]], [[nuevo_adán]], [[cielo]]

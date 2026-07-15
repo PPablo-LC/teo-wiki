@@ -3482,5 +3482,6 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 
 - [[caperucita_roja]] — *Caperucita Roja* (Charles Perrault)
 - [[computer_power_and_human_reason]] — *Computer Power and Human Reason* (Joseph Weizenbaum (MIT, 1976))
+- [[la_biblia_del_ateo_joan_konner]] — *La bíblia del ateo (Joan Konner)* (Joan Konner (compiladora))
 - [[morir-con-cero]] — *Morir con cero* (Bill Perkins)
 - [[pinocho]] — *Las aventuras de Pinocho* (Carlo Collodi)

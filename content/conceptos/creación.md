@@ -80,6 +80,10 @@ El Dios de la creación se revela también como Dios de la redención, fiel a su
 
 - [[kevin_mulaney_prudence_decisions]]
 
+## Analizado en contexto cultural
+
+- [[la_biblia_del_ateo_joan_konner]] — tensión: la obra presenta la creación como producto del azar evolutivo, cuando la doctrina católica enseña que Dios creó libremente de la nada por amor
+
 ## Ver también
 [[providencia_divina]], [[gloria_de_Dios]], [[hombre]], [[ángeles]], [[pecado_original]], [[redención]], [[santísima_trinidad]]
 
