@@ -3,7 +3,7 @@ type: Concepto Teológico
 title: Contemplación
 tags: ["mística"]
 
-timestamp: 2026-05-20
+timestamp: 2026-07-14
 description: "La contemplación infusa es una simple intuición de la verdad divina procedente de la fe ilustrada por los dones de entendimiento, sabiduría y ciencia en estado perfecto."
 ---
 # Contemplación
@@ -50,6 +50,12 @@ Siguiendo a Dionisio, Santo Tomás distingue tres movimientos en la operación c
 - **Oblicuo**: usa de la revelación divina valiéndose del raciocinio, combinando ambos movimientos
 
 La contemplación de la verdad divina es el elemento principal de la vida contemplativa; la de los efectos divinos (criaturas) pertenece de modo secundario como medio de elevación a Dios (q.180 a.4). En la vida presente, la contemplación no puede alcanzar la visión de la esencia divina mientras se usen los sentidos corporales; solo en el [[rapto]] es posible excepcionalmente (q.180 a.5).
+
+### Según San Juan de la Cruz (AvEsp)
+
+Los Avisos Espirituales ofrecen una visión práctica y experiencial de la contemplación. El Santo define la contemplación como comunicación silenciosa con Dios: «El espíritu bien puro no se mezcla con extrañas advertencias ni humanos respetos, sino solo en soledad de todas las formas, interiormente, con sosiego sabroso se comunica con Dios, porque su conocimiento es en silencio divino» (dicho 28). La contemplación supone la mortificación de los sentidos y la «desaposesión interior»: «No te hagas presente a las criaturas si quieres guardar el rostro de Dios claro y sencillo en tu alma; mas vacía y enajena mucho tu espíritu de ellas y andarás en divinas luces» (dicho 25).
+
+El Santo distingue el «recogimiento interior» de la mera meditación: «No sabrás entrar en el sabor y suavidad de espíritu si no te dieres a la mortificación de todo eso que quieres» (dicho 41). Las tres señales del recogimiento son: no gustar de las cosas transitorias, gustar de la soledad y el silencio, y que las cosas que solían ayudar le estorben (punto 42). La contemplación se alcanza por el camino de la humildad y el rendimiento, no por el de las altas visiones (dicho 40).
 
 ### Según el Enchiridion Symbolorum (Denzinger)
 

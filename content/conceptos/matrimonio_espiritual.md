@@ -60,3 +60,4 @@ Este concepto pertenece a la teología mística y no debe confundirse con el mat
 - TPCr, Tercera Parte, Libro II, Cap. III, n.591-595
 - Santa Teresa, Moradas séptimas, c.2-3
 - San Juan de la Cruz, Cántico espiritual, estrofas 22-28
+- AvEsp, Dicho 27 («Míos son los cielos... el mismo Dios es mío y para mí»); Dicho 68 (tomar a Dios por esposo y amigo); Punto 11 (entrar en seno del Esposo); Avisos de Gerona §2 (allegarse con silencio a Dios, matrimonio espiritual)

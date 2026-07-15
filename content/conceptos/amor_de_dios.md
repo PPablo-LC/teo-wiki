@@ -82,3 +82,4 @@ El amor de Dios se relaciona con la [[misericordia]], la [[redención]], la [[gr
 - [DM §7–8, §15]
 - [MI, cap. 2]
 - [RH §1, §9-10]
+- AvEsp, Dicho 2 (buscar a Dios con amor puro y sencillo); Dicho 16 (dulcísimo amor de Dios, mal conocido); Dicho 60 («a la tarde te examinarán en el amor»); Punto 35 (amor no consiste en sentir grandes cosas)

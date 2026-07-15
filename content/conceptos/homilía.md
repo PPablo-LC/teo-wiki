@@ -38,6 +38,14 @@ El canon 767 regula la homilía en cuatro parágrafos:
 
 León XIV aborda la homilía en el contexto de la inteligencia artificial. Exhorta a los sacerdotes a no delegar en la IA la preparación de las homilías, porque la homilía no es una producción textual sino un acto de «compartir la fe». El Papa subraya que «la IA nunca podrá compartir la fe». La homilía auténtica requiere el ejercicio de la propia inteligencia —«el cerebro necesita ser utilizado»— y, sobre todo, una vida de oración que permita al sacerdote ofrecer «algo que no es nuestro». La homilía debe ser «inculturada» en el lugar y la comunidad concreta donde se sirve, pues «la gente quiere ver su fe, su experiencia de haber conocido y amado a Jesucristo y su Evangelio» [L_XIV-ClerRom, 19.02.2026].
 
+### Según la Evangelii Gaudium (EG)
+
+Francisco dedica un capítulo completo a la homilía (EG 135-144), presentándola como «piedra de toque de la cercanía del Pastor» (EG 135). La homilía no es una mera charla o conferencia, sino un «diálogo de amor entre Dios y su pueblo» (EG 136). El Papa enumera las características de una buena homilía: debe ser breve («no más de diez minutos»), debe salir del texto sagrado y debe personalizar el mensaje (EG 135-138).
+
+Francisco describe la homilía como «parte de la ofrenda eucarística» y como «la «conversación de la madre»: la Iglesia que predica como madre que habla a sus hijos» (EG 139). La predicación debe ser «un diálogo de amor» más que una «mera comunicación de verdad» (EG 140), y debe expresar verdad, belleza y bien (EG 141).
+
+El Papa insiste en que la homilía debe ser «inculturada»: «La predicación debe ser inculturada, es decir, debe expresar la verdad del Evangelio en el contexto de cada cultura y cada época» (EG 141). La identidad cristiana se manifiesta en «los dos abrazos del Padre: la fe y los pobres» (EG 143).
+
 ### Según la Guía de Liturgia (GLit-2024)
 
 La Guía de Liturgia de la Legión de Cristo recoge que la homilía es propiamente parte de la acción litúrgica [GLit-2024, n. 48, citando OGMR 65]. Es «una intensa y feliz experiencia del Espíritu, un reconfortante encuentro con la Palabra, una fuente constante de renovación y de crecimiento» [GLit-2024, n. 48, citando EG 135].

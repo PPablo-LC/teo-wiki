@@ -61,3 +61,4 @@ Se relaciona con los [[grados_de_oración]], la [[meditación]], la [[vida_de_or
 
 - TPCr, Segunda Parte, Cap. III-IV; Tercera Parte, Libro II, Cap. III, n.514-552
 - CEC §2709-2719
+- AvEsp, Dicho 28 (espíritu puro: comunicación en silencio divino); Dicho 36 (para el espíritu de Dios, el pensamiento); Punto 9 (advertencia amorosa en Dios sin apetito de sentir); Punto 36 (todo el mundo no digno de un pensamiento); Punto 41 (condiciones del pájaro solitario contemplativo)

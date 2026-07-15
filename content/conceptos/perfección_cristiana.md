@@ -112,3 +112,4 @@ La perfección cristiana es el fin de todo el [[organismo_sobrenatural]] y la pl
 
 - [TPCr, obra completa; Parte II, Caps. 1-4; Parte III-IV]
 - [EjEsp2026, cap. 5: «El esplendor de la Verdad»]
+- AvEsp, Dicho 54 (perfección: no buscarse en nonada); Punto 34 (perfección en virtudes que Dios ve); Punto 42 (hábitos de imperfecciones impiden unión divina); Avisos de Gerona §34 (doce estrellas para suma perfección)

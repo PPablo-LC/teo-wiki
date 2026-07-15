@@ -19,6 +19,10 @@ Jorge Mario Bergoglio (Buenos Aires, 17 de diciembre de 1936). Sacerdote jesuita
 
 Su magisterio se distingue por el énfasis en la misericordia, la sinodalidad, la opción preferencial por los pobres y el cuidado de la casa común. Exhortaciones apostólicas como *Evangelii gaudium* (2013) y encíclicas como *Laudato si'* (2015) y *Fratelli tutti* (2020) constituyen referencias fundamentales de la doctrina social contemporánea.
 
+### Evangelii Gaudium (2013)
+
+La Evangelii Gaudium es la primera exhortación apostólica de Francisco y el documento programático de su pontificado. Sus temas centrales son: la alegría del Evangelio como fuente de renovación evangelizadora; la «Iglesia en salida» como paradigma eclesial; la «conversión pastoral» como condición de la nueva evangelización; la centralidad del kerygma trinitario; la «cultura del descarte» y la «globalización de la indiferencia» como desafíos del mundo actual; la «mundanidad espiritual» como tentación de los agentes pastorales; y la dimensión social inseparable de la evangelización. Los cuatro principios para la convivencia social (el tiempo es superior al espacio, la unidad prevalece sobre el conflicto, la realidad es más importante que la idea, el todo es superior a la parte) son una de las contribuciones más originales del documento.
+
 ## Legislación sobre protección de menores
 
 Francisco ha impulsado la reforma más profunda de la normativa canónica e institucional para la prevención y sanción del abuso sexual en la Iglesia. Sus principales disposiciones son:

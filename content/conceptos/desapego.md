@@ -50,3 +50,4 @@ Se relaciona con el [[desprendimiento]], la [[abnegación]], la [[pobreza_de_esp
 - TPCr, Tercera Parte, Libro I, Cap. V, n.261
 - TPCr, Tercera Parte, Libro II, Cap. II, n.356
 - CEC §2544-2547
+- AvEsp, Dicho 15 (negar deseos); Dicho 34 (mudanza de todo para asiento en Dios); Dicho 65 (no gozarse en prosperidades); Punto 17 (interior desasimiento)

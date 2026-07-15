@@ -61,6 +61,14 @@ La evangelización debe ser «nueva en su ardor, en sus métodos, en su expresi�
 
 El encuentro con Cristo lleva necesariamente a evangelizar: «El primer impulso que surge de esta transformación es comunicar a los demás la riqueza adquirida en la experiencia de este encuentro» [EA §68]. «La Iglesia, que vive de la presencia permanente y misteriosa de su Señor resucitado, tiene como centro de su misión llevar a todos los hombres al encuentro con Jesucristo» [EA §68].
 
+### Según la Evangelii Gaudium (EG)
+
+La Evangelii Gaudium constituye la exposición más completa del pontificado de Francisco sobre la evangelización. El Papa enseña que la evangelización es la «tarea primordial» de la Iglesia (EG 14), superando tanto el proselitismo como la mera「estrategia de propaganda»: «La Iglesia no crece por proselitismo sino «por atracción»» (EG 16). La evangelización debe ser «nueva en su ardor, en sus métodos, en su expresión» (EG 14), y tiene como centro el encuentro personal con Jesucristo que transforma la vida y la llena de alegría (EG 1-3).
+
+La EG distingue tres ámbitos de la nueva evangelización: la pastoral ordinaria (los creyentes practicantes), los bautizados que se han alejado de la fe, y quienes no conocen a Jesucristo (EG 14). La «salida misionera» es el paradigma de toda la obra eclesial (EG 14-19), y la evangelización no puede prescindir de la dimensión social: «No existe ningún kerygma auténtico sin la promoción de la justicia» (EG 182).
+
+Francisco insiste en que la evangelización es ante todo un acto de amor: «El amor siempre tiende a comunicarse» (EG 9), y que la gracia es el fundamento de toda acción evangelizadora: «La iniciativa es de Dios, que nos amó primero» (EG 12). La memoria de la fe (dimensión deuteronómica) es la que permite mantener viva la alegría evangelizadora (EG 13).
+
 ### Según CELAM — Aparecida (Apa-CELAM-2007)
 
 El Documento Conclusivo de la V Conferencia General del CELAM (Aparecida, 2007) presenta la evangelización como la **misión fundamental de la Iglesia** en América Latina. El documento establece que:

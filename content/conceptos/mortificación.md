@@ -89,3 +89,4 @@ Se relaciona con la [[abnegación]], el [[desprendimiento]], la [[purificación_
 - CEC §2015
 - ColCas-II, Conferencias XVIII, XXIV
 - Denzinger D-1333 (Inocencio XII, *Cum alias*)
+- AvEsp, Dicho 22 (pájaro en la liga); Dicho 41 (mortificación para sabor espiritual); Punto 3 (mortificar cuatro pasiones); Punto 42 (hábitos de imperfecciones)

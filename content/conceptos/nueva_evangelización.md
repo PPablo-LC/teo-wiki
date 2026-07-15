@@ -29,6 +29,14 @@ Con su enseñanza social, la Iglesia quiere anunciar y actualizar el Evangelio e
 
 El documento relaciona el surgimiento de los [[movimientos_eclesiales]] con el impulso de la nueva evangelización. Juan Pablo II llamó a los movimientos «sujetos de una nueva evangelización» (Christifideles laici 30). Benedicto XVI afirmó que los movimientos deben comprometerse a iluminar «la oscuridad de un mundo trastornado por los mensajes contradictorios de las ideologías» (Mensaje al II Congreso Mundial de Movimientos Eclesiales, 2006). El celo misionero y evangelizador es uno de los rasgos distintivos comunes de todas estas realidades asociativas, incluso en referencia explícita a la «nueva evangelización» [RC-MovEcles-2014, C-D].
 
+### Según la Evangelii Gaudium (EG)
+
+La Evangelii Gaudium presenta la nueva evangelización como el horizonte de toda la Iglesia. Francisco enseña que la evangelización es la «tarea primordial» (EG 14) y que la «salida misionera» es «constitutiva de la acción eclesial» (EG 24). La nueva evangelización no se reduce a una reevangelización: es una renovación profunda de la mentalidad, de las estructuras y de los métodos pastorales.
+
+Francisco describe la nueva evangelización como «una nueva etapa evangelizadora marcada por la alegría» (EG 1), que tiene como centro el kerygma trinitario: «Jesucristo, que murió y resucitó para salvarnos, es el Verbo de Dios encarnado» (EG 170). La catequesis debe ser «kerygmática y mistagógica» (EG 166-167), y la predicación debe estar centrada en «el amor salvífico de Dios manifestado en Jesucristo» (EG 35).
+
+La nueva evangelización incluye una dimensión social inseparable: «La pastoral social es también parte integrante de la evangelización» (EG 182). Francisco insiste en que la «conversión pastoral» es condición de la nueva evangelización (EG 25-33), y que incluye la conversión del papado y la descentralización de la Iglesia (EG 32).
+
 ### Según Juan Pablo II (PDV)
 
 *Pastores dabo vobis* sitúa la formación de los sacerdotes en el marco de la nueva evangelización. La urgencia de una nueva verificación de los contenidos y métodos de la formación sacerdotal viene dada por «la absoluta necesidad de que la nueva evangelización tenga en los sacerdotes sus primeros "nuevos evangelizadores"» (PDV 2). La nueva evangelización requiere «sacerdotes radical e integralmente inmersos en el misterio de Cristo y capaces de realizar un nuevo estilo de vida pastoral, marcado por la profunda comunión con el Papa, con los Obispos y entre sí, y por una colaboración fecunda con los fieles laicos» (PDV 18).

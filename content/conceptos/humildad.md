@@ -127,6 +127,12 @@ La humildad se opone directamente a la [[soberbia]], primer pecado capital. Es r
 
 León XIV une la humildad a la gratitud como virtudes esenciales del sacerdote. Exhorta a la «humildad: la actitud de querer reconocer que no soy yo, es el Señor quien me ha dado la vida, es el Señor quien nos acompaña y nos lleva en sus brazos, incluso en esos momentos en los que soy más débil». La humildad es presentada como antídoto contra la autorreferencialidad y el clericalismo, y como fundamento para una vida de oración auténtica: «con esta actitud de amor, de servicio, de humildad, de escucha, podemos descubrir verdaderamente qué podemos hacer para responder a esta comunidad a la que estamos llamados a servir» [L_XIV-ClerRom, 19.02.2026].
 
+### Según San Juan de la Cruz (AvEsp)
+
+Los Avisos Espirituales presentan la humildad como el camino central de la perfección. El Santo enseña que la humildad no es reconocerse inferior a otros, sino reconocer la propia nada ante Dios: «Humilde es el que se esconde en su propia nada y se sabe dejar a Dios» (Avisos de Antequera, §5). La perfección consiste en las virtudes que Dios ve en el alma, no en las que el alma conoce de sí: «La perfección no está en las virtudes que el alma conoce de sí, mas consiste en las que nuestro Señor ve en el alma, la cual es carta cerrada» (Punto 34).
+
+La humildad se manifiesta en la obediencia, el silencio y la renuncia a la propia opinión: «Déjate enseñar, déjate mandar, déjate sujetar y despreciar y serás perfecta» (Punto 32). El amor no consiste en sentir grandes cosas, sino en tener grande desnudez y padecer por el Amado (Punto 35). El alma humilde se regocija en ser desconocida y no busca ser vista: «Ama el no ser conocida de ti ni de los otros. Nunca mirar los bienes ni los males ajenos» (Avisos de Gerona, §13).
+
 ## Ver también
 [[soberbia]], [[don_de_temor]], [[mansedumbre]], [[virgen_maría]], [[perfección_cristiana]], [[virtud_de_la_religión]], [[modestia]], [[magnanimidad]]
 

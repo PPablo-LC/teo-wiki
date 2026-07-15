@@ -33,6 +33,14 @@ Juan Pablo II insiste en la dimensión misionera de la Iglesia en Europa. «La I
 
 *Ad Gentes* enseña que la Iglesia es enviada por Dios a las gentes para ser el sacramento universal de la salvación [ConcVatII, AG §1]. La misión se realiza mediante la actividad por la cual la Iglesia «se hace presente a todos los hombres y pueblos para conducirlos a la fe, la libertad y la paz de Cristo» [ConcVatII, AG §5].
 
+### Según la Evangelii Gaudium (EG)
+
+Francisco presenta la «salida misionera» como «constitutiva de la acción eclesial» (EG 24). La Iglesia es misionera por naturaleza porque toma su origen de la misión del Hijo y del Espíritu Santo. La «comunión misionera» (EG 24) es el paradigma que supera tanto el activismo vacío como la pasividad contemplativa.
+
+El Papa describe cinco dinámicas de la Iglesia en salida (EG 22): primerear, involucrarse, acompañar, fructificar y festejar. La imagen del sembrador y la cizaña (Mt 13,24-30) ilustra la paciencia de la Iglesia con los frutos imperfectos: «Dios se glorifica no tanto en los éxitos cuantitativos como en la paciencia del sembrador» (EG 24).
+
+La Iglesia misionera es también «casa abierta del Padre» (EG 46-51) con puertas abiertas, especialmente en los sacramentos: la Eucaristía es «remedio y alimento para los débiles, no premio para los perfectos» (EG 47). La misión requiere una «conversión pastoral» permanente (EG 25-33), incluyendo la conversión del papado y la descentralización (EG 32).
+
 ## Distinciones importantes
 
 - **Misionera ≠ proselitista**: la misión es anunciación del Evangelio, no imposición.

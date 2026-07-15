@@ -54,6 +54,16 @@ El ejemplo de Régulo es central: volvió a Cartago sabiendo que le esperaban to
 
 La fidelidad (hebreo *emet*) es atributo mayor de Dios (Ex 34,6), asociado a su bondad paternal (*hesed*), indicando que la alianza es don gratuito y vínculo que resiste los siglos [VocTeoBib, «Fidelidad»]. Dios es la «roca» de Israel (Dt 32,4): sus palabras no pasan (Is 40,8), sus promesas se mantienen (Tob 14,4). Exige la fidelidad del hombre a la alianza (Jos 24,14). Israel fue infiel, pero Dios eligió al Siervo fiel (Is 42,1ss; 50,4-7). En el NT, Cristo Jesús es el «testigo fiel» que cumple la Escritura (Jn 19,28.30; Ap 19,11ss); por él son mantenidas todas las promesas de Dios (2Cor 1,20). Aun siendo nosotros infieles, él permanece fiel (2Tim 2,13). Los discípulos son llamados «fieles» (Act 10,45; Ef 1,1); la fidelidad tiene como alma el amor y es la prueba del amor auténtico: «Si guardáis mis mandamientos, permaneceréis en mi amor» (Jn 15,9s).
 
+### Según La vocación explicada (VocExp)
+
+Juan Pablo II desarrolla la fidelidad vocacional como dimensión esencial de la vida cristiana. «Es fácil ser coherente por un día o algunos días. Difícil e importante es ser coherente toda la vida» [VocExp, §Perseverancia y fidelidad]. La fidelidad se entiende como coherencia duradera: «sólo puede llamarse fidelidad a una coherencia que dure toda la vida» [VocExp, §Perseverancia y fidelidad].
+
+La respuesta vocacional es «entrega, amistad, amor manifestado en la donación de la propia vida, como seguimiento definitivo» [VocExp, §Perseverancia y fidelidad]. Ser fiel a Cristo es «amarlo con toda el alma y con todo el corazón de forma que ese amor sea la norma y el motor de todas nuestras acciones» [VocExp, §Perseverancia y fidelidad].
+
+La fidelidad de Cristo alcanza en la Cruz su máxima expresión, por lo que «sea imprescindible la renuncia y la mortificación» [VocExp, §Perseverancia y fidelidad]. Sin una «ascética exigente» y sin «el hábito del olvido de sí, sería imposible amar de veras» [VocExp, §Perseverancia y fidelidad]. La principal preocupación del creyente «ha de ser la fidelidad, la lealtad a la propia vocación» [VocExp, §Perseverancia y fidelidad].
+
+> **Referencia:** VocExp, §Perseverancia y fidelidad
+
 ## Distinciones importantes
 
 - **Fidelidad a la gracia**: respuesta generosa a las mociones e inspiraciones divinas
@@ -75,3 +85,4 @@ La fidelidad se relaciona con la [[veracidad]] y la [[justicia]]. La [[fidelidad
 - [TPCr, Parte III, Libro II, Cap. IV, Art. 6, n.635-638]
 - [Santo Tomás, II-II, q.109-110]
 - [UFGF, 22.12.2025]
+- [VocExp, §Perseverancia y fidelidad]

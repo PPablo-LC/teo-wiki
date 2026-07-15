@@ -120,3 +120,4 @@ Se relaciona con [[obediencia_de_la_fe]], [[consejos_evangélicos]], [[voto_de_o
 - [CEC §494, §615, §623, §1897-1900, §2216-2217]
 - [TPCr, Tercera Parte, Libro II, Cap. II, B]
 - [CIC cc. 273, 331, 601, 618]
+- AvEsp, Dicho 13 (obediencia y sujeción sobre servicios externos); Punto 6 (palabra sin orden de obediencia en cuenta); Punto 32 (déjate mandar y sujetar); Punto 42 (hábitos de imperfecciones impiden unión)

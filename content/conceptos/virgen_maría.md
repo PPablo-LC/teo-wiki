@@ -132,6 +132,14 @@ En la cruz, Jesús entrega a María como Madre a la humanidad: «Mujer, ahí tie
 
 Juan Pablo II explica su lema *Totus Tuus*, tomado de San Luis María Grignion de Montfort. Presenta a María como Nueva Eva desde la Anunciación hasta Pentecostés; Madre de Cristo = Madre de la Iglesia. Remite al Vaticano II, LG cap. VIII. Menciona los lugares marianos de su vida: Wadowice, Kalwaria Zebrzydowska, Jasna Góra. Presenta a María como modelo de fe (la Anunciación) (UDE, Cap. XXXII, XXIX).
 
+### Según la Evangelii Gaudium (EG)
+
+Francisco dedica el último capítulo de la Evangelii Gaudium a María, «la Madre de la evangelización» (EG 284-288). El Papa la presenta como «Estrella de la nueva evangelización» (EG 288), modelo de la peregrinación de fe de todo el Pueblo de Dios. María reunía a los discípulos para orar al Espíritu Santo en Pentecostés (Hch 1,14), y Jesús nos la entregó desde la cruz como Madre (Jn 19,26-27).
+
+Francisco destaca el «estilo mariano» de la evangelización: «María nos enseña que las personas más influyentes en el mundo son las que, movidas por la fuerza de su amor, se ponen al servicio de los demás» (EG 288). La ternura y la humildad son «virtudes de los fuertes» (EG 288). María es modelo de contemplativa y mujer activa: «En Nazaret la vida cotidiana ha cambiado de signo; pero "María conservaba todas estas cosas meditándolas en su corazón"» (EG 288, citando Lc 2,19). La Visitación muestra la unión inseparable entre contemplación y acción pastoral.
+
+El Papa subraya que María es «esclava del Padre» (Lc 1,38), «amiga atenta» (la boda de Caná) y «signo de esperanza» para el pueblo que peregrina (EG 288). Los santuarios marianos son «lugares donde la gente puede experimentar la cercanía materna de María» (EG 287).
+
 ### Según CJeS (1987-1989)
 
 Juan Pablo II desarrolla la presencia de María al pie de la Cruz en el contexto de las palabras de Cristo: «Mujer, he ahí a tu hijo» (Jn 19,26-27). En este momento, Jesús confía el discípulo amado —y en él a todos los hombres— a María como Madre, y a María al discípulo como hijo. Esta escena funda la [[maternidad_espiritual]] de María sobre toda la Iglesia. María es constituida Madre de la Iglesia y Madre en el orden de la gracia (cf. *Lumen Gentium* 61). El culto mariano y el amor filial a María brotan de esta entreza de Cristo desde la Cruz. María está presente en el momento culminante de la redención, asociada al sacrificio de su Hijo (CJeS, cuarta parte: palabras de Cristo en la Cruz).

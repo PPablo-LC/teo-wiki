@@ -147,3 +147,4 @@ Se relaciona con la [[vida_de_oración]], los [[grados_de_oración]], la [[medit
 - Denzinger D-1341–D-1343 (Inocencio XII, *Cum alias*)
 - ColCas-II, Conferencia XIV, §§1-19; Conferencia XV, §§1-10
 - Denzinger D‑1409, D‑1418 (Clemente XI, *Unigenitus*)
+- AvEsp, Dicho 26 (oración del alma enamorada); Dicho 66-67 (acudir a Dios en tribulación y gozo); Dicho 79 (soledad santa y oración); Avisos de Antequera §11 (quien huye de oración huye de todo bueno)

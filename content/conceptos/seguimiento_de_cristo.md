@@ -53,6 +53,16 @@ Jesús no esconde que el seguimiento requiere sacrificio, a veces el supremo: «
 
 Finalmente, Jesús proclama bienaventurados a los perseguidos «por amor del Hijo del hombre» (Lc 6,22): «Alegraos y regocijaos, porque grande será en los cielos vuestra recompensa» (Mt 5,12) (CrSJP 34 §8).
 
+### Según Teófilo Cabestrero (AQJS)
+
+Cabestrero presenta el seguimiento de Jesús como inseparable del conocimiento vital de su persona. El círculo virtuoso entre conocimiento y seguimiento es un tema central de su obra: «cuanto mejor se conoce a Jesús, más se confía en él, y más certera y cercanamente se le sigue» (AQJS, Cap. I, §5). Inversamente, el seguimiento fiel genera un conocimiento más profundo: «quien sigue fielmente a Jesús, lo conocerá en su práctica».
+
+Para Cabestrero, el seguimiento implica «proseguir hoy su vida y su causa, su práctica del Reino. Es hacer lo que Jesús haría hoy, y hacerlo con el estilo o el Espíritu con que Jesús lo haría» (AQJS, Cap. I, §5). Esto requiere conocer suficientemente cómo era Jesús, qué hacía en su tiempo, cómo y para qué lo hacía, y cuál era su proyecto del Reinado de Dios.
+
+El autor insiste en que seguir a Jesús es un proceso permanente e inacabable. Los primeros discípulos no le conocieron bien mientras andaron con él, pero permanecieron «enganchados» a su persona. Jesús los mantuvo consigo y les prometió el Espíritu que les haría comprender lo que habían visto y oído. En Pentecostés se cumplió esa promesa: el Espíritu les hizo recordar y comprender todo, y liberados del miedo prosiguiendo la conducta de Jesús como sus testigos.
+
+Cabestrero destaca la dimensión comunitaria del seguimiento: no es un camino solitario, sino que se vive en comunión de amor, de vida y de misión con el Señor y con la comunidad eclesial. La alegoría de la vid y los sarmientos (Jn 15,1-11) expresa esta comunión: «Ningún sarmiento puede producir fruto por sí solo, sin estar unido a la vid».
+
 ## Distinciones importantes
 
 - **Seguimiento vs. admiración**: seguir a Cristo implica acción y transformación real de la existencia, no una contemplación distante.
@@ -62,7 +72,7 @@ Finalmente, Jesús proclama bienaventurados a los perseguidos «por amor del Hij
 
 ## Relaciones doctrinales
 
-El seguimiento de Cristo se relaciona con [[vocación_cristiana]] (la llamada universal a la santidad), [[fe_en_cristo]] (condición de salvación), [[discipulado]] (respuesta a la llamada), [[reino_de_dios]] (meta del seguimiento), [[conversión]] (puerta de entrada), [[bienaventuranzas]] (camino), [[cruz]] (condición del seguimiento) y [[perfección_cristiana]].
+El seguimiento de Cristo se relaciona con [[vocación_cristiana]] (la llamada universal a la santidad), [[fe_en_cristo]] (condición de salvación), [[discipulado]] (respuesta a la llamada), [[reino_de_dios]] (meta del seguimiento), [[conversión]] (puerta de entrada), [[bienaventuranzas]] (camino), [[cruz]] (condición del seguimiento), [[perfección_cristiana]], [[imagen_vital_de_jesús]] (la imagen que orienta el seguimiento) y [[conocimiento_de_jesucristo]] (el conocimiento que lo alimenta).
 
 ## Ver también
 
@@ -72,3 +82,4 @@ El seguimiento de Cristo se relaciona con [[vocación_cristiana]] (la llamada un
 
 - [CrSJP, catequesis del 18 de marzo de 1987]
 - [CrSJP, catequesis sobre las condiciones del discipulado]
+- [AQJS, Cap. I, §§4-5]

@@ -90,3 +90,4 @@ La paciencia es parte integral de la [[fortaleza]]. Se relaciona con el [[don_de
 - [CEC §1832]
 - [TPCr, Parte III, Libro II, Cap. II, n.437-438, 447]
 - [Santo Tomás, II-II, q.136]
+- AvEsp, Dicho 4 (virtud y fuerza del alma en trabajos de paciencia crece); Punto 22 (medir trabajos a nosotros, no nosotros a trabajos); Punto 40 (paciencia para sufrir y tolerar es señal de aprovechamiento)

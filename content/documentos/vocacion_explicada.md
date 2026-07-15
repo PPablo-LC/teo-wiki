@@ -8,7 +8,7 @@ description: "*La vocación explicada* es la primera catequesis de [[juan_pablo_
 > Tipo: Catequesis juvenil
 > Autor: [[juan_pablo_ii]]
 > Año: 1978 (audiencias generales octubre-noviembre)
-> Código: **VocExpl**
+> Código: **VocExp**
 > Raw: `La vocacion explicada - Juan Pablo II/`
 
 ## Identificación

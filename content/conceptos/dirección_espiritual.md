@@ -68,3 +68,4 @@ Se relaciona con todos los medios de perfección: [[examen_de_conciencia]], [[pr
 ## Referencias
 
 - TPCr, Tercera Parte, Libro II, Cap. V, Art. 5, n.670-705
+- AvEsp, Dicho 5 (quien solo se quiere estar sin maestro será como árbol solo); Dicho 7 (alma sola sin maestro, carbón que se enfría); Dicho 11 (el que cae ciego no se levanta ciego solo)

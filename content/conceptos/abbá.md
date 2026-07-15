@@ -35,6 +35,14 @@ Jesús establece siempre una distinción entre «Padre mío» y «Padre vuestro�
 
 El conocimiento recíproco expresado en «Abbá» se fundamenta en la relación trinitaria: «Nadie conoce al Hijo sino el Padre, y nadie conoce al Padre sino el Hijo» (Mt 11,27; Lc 10,22). Esta inmanencia recíproca —«Yo y el Padre somos una sola cosa» (Jn 10,30)— revela la unidad de esencia y la comunión de personas. Los adversarios de Jesús comprendieron el sentido de sus palabras y lo acusaron de blasfemia «porque tú, siendo hombre, te haces Dios» (Jn 10,33), y finalmente lo condenaron a muerte por afirmarse Hijo de Dios en sentido propio (CrSJP, «Jesús, Hijo íntimamente unido al Padre», §5-6).
 
+### Según Teófilo Cabestrero (AQJS)
+
+Cabestrero presenta a Dios Abbá como el centro de la identidad y la misión de Jesús. El grito filial «Abbá» es el primero de los rasgos esenciales de la imagen verdadera de Jesús que el autor identifica en los evangelios: «grito íntimo de llamada y desahogo filial inundado de confianza y cariño al Dios Padre de ternura y amor misericordioso, que en Jesús ofrece y comunica gratuitamente a todos los que creen, abundante vida reconciliada, justa, filial y fraterna» (AQJS, Cap. III, §4).
+
+Para Cabestrero, la intimidad singular de Jesús con su Dios Abbá es «un torrente de amor que llena y envuelve a Jesús y le mueve a ser existencialmente fiel al proyecto del Reinado de Dios». Esta relación filial se manifiesta en la oración constante de Jesús, en su libertad ante las convenciones religiosas, y en su entrega hasta la muerte confiándose en las manos del Padre.
+
+El autor señala que Jesús revela a «otro» Dios distinto del que esperaban los dirigentes religiosos: un Dios que «no intervenía» violentando la libertad humana, un Dios de ternura y misericordia que incluye a los últimos. Contra las imágenes de un Dios todopoderoso e intervencionista, Jesús muestra el Abbá que se acerca a los pobres, pecadores y excluidos por pura gracia.
+
 ## Distinciones importantes
 
 - «Abbá» (exclusivo de Jesús, expresión de su filiación natural) vs. «Padre nuestro» (oración de los discípulos, expresión de la filiación adoptiva). Jesús nunca recomienda a los discípulos usar «Abbá».
@@ -43,7 +51,7 @@ El conocimiento recíproco expresado en «Abbá» se fundamenta en la relación 
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[filiación_divina]] (como fundamento de la filiación adoptiva del cristiano), la [[oración_de_jesús]] (el Abbá en Getsemaní y en toda su vida de oración), la [[trinidad]] (conocimiento recíproco Padre-Hijo del que emana el Amor), y el [[hijo_de_dios]] (conciencia de Jesús de ser el Hijo unigénito).
+Se relaciona con la [[filiación_divina]] (como fundamento de la filiación adoptiva del cristiano), la [[oración_de_jesús]] (el Abbá en Getsemaní y en toda su vida de oración), la [[trinidad]] (conocimiento recíproco Padre-Hijo del que emana el Amor), el [[hijo_de_dios]] (conciencia de Jesús de ser el Hijo unigénito), [[imagen_vital_de_jesús]] (el Abbá como rasgo esencial de la imagen de Jesús) y [[reinado_de_dios]] (la causa que el Abbá confía a Jesús).
 
 ## Ver también
 
@@ -55,3 +63,4 @@ Se relaciona con la [[filiación_divina]] (como fundamento de la filiación adop
 - CrSJP, Catequesis «Jesús, el Hijo enviado por el Padre» (24 de junio de 1987)
 - CrSJP, Catequesis «Jesús, Hijo íntimamente unido al Padre» (8 de julio de 1987)
 - Mc 14,36; Mt 11,25-27; Lc 10,22; Jn 17; Rm 8,15; Gal 4,4-6
+- AQJS, Cap. III, §4

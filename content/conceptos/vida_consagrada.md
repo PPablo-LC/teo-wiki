@@ -59,6 +59,16 @@ El V Capítulo General ordinario de los Legionarios de Cristo (2026) se sitúa d
 
 **La vida fraterna**: «la vida consagrada, llamada a ser experta en comunión, crea espacios donde el Evangelio se traduce en fraternidad concreta» [CapGral-2026, n. 84], siendo la vida fraterna un don que santifica y un signo profético para la Iglesia.
 
+### Según La vocación explicada (VocExp)
+
+Juan Pablo II presenta la vocación religiosa como un «don libremente ofrecido y libremente aceptado» que «es una profunda expresión del amor de Dios» [VocExp, §Vocación religiosa]. La consagración religiosa se realiza mediante la profesión de los consejos evangélicos de castidad, pobreza y obediencia, y toda la vida del religioso está encaminada a estrechar el lazo de amor que fue forjado en el bautismo [VocExp, §Vocación religiosa].
+
+El Papa reafirma «con fuerza el papel eminentemente apostólico de las monjas de clausura», afirmando que «dejar el mundo para dedicarse —en la soledad— a una oración más profunda y constante no es más que una forma particular... de ser apóstol» [VocExp, §Vocación religiosa]. Los obispos de las nuevas Iglesias solicitan como gracia especial la posibilidad de acoger monasterios de religiosas contemplativas [VocExp, §Vocación religiosa].
+
+Sobre la capacidad de los jóvenes para la entrega total, Juan Pablo II afirma que «la juventud contemporánea no está cerrada al llamamiento evangélico» y que los jóvenes «tienen capacidad de una entrega total aunque algunas aparezcan vacilantes o bloqueadas» [VocExp, §Vocación religiosa]. Las adaptaciones que nacen de la relajación «no pueden de ninguna manera atraer a los jóvenes» [VocExp, §Vocación religiosa].
+
+> **Referencia:** VocExp, §Vocación religiosa
+
 ## Distinciones importantes
 
 - No es un estado superior al matrimonio, sino un camino distinto de seguimiento de Cristo
@@ -80,3 +90,4 @@ El V Capítulo General ordinario de los Legionarios de Cristo (2026) se sitúa d
 - TPCr, Parte III, Libro III
 - ColCas-II, Conferencias XI, XIV-XV, XVIII-XIX
 - CIC cc. 573-606, 603, 604
+- VocExp, §Vocación religiosa

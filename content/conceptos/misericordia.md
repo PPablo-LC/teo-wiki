@@ -83,6 +83,18 @@ Desde la cruz, la misericordia se manifiesta en las siete palabras. La primera e
 
 [VocTeoBib, «Misericordia»] La misericordia bíblica conjuga dos corrientes: *rahamim* (ternura instintiva, como la del seno materno) y *hesed* (fidelidad al compromiso de alianza). En el AT, Dios se revela en el Sinaí como «Dios de ternura y gracia, lento a la ira y abundante en misericordia» (Ex 34,6). Su misericordia acompaña a Israel a lo largo de la historia (Jue 2,18; Os 11,8s). En el NT, Jesús es el rostro de la misericordia del Padre: ama a los pobres, acoge a los pecadores (Lc 15,1s) y enseña que el Padre espera al hijo pródigo (Lc 15,11-32). Pablo proclama que Dios «incluyó a todos en la desobediencia para usar con todos misericordia» (Rom 11,32). Los discípulos deben ser misericordiosos como el Padre (Lc 6,36).
 
+### Según la Evangelii Gaudium (EG)
+
+La Evangelii Gaudium presenta la misericordia como el corazón del mensaje cristiano. Francisco enseña que «la misericordia es la mayor de las virtudes» (EG 37, citando a Tomás de Aquino, II-II, q. 30, a. 4), y que toda la predicación moral debe estar centrada en ella: «la predicación no es ética estoica ni mera filosofía práctica» (EG 39). La misericordia es también la clave para el acompañamiento pastoral: el confesionario es «lugar de la misericordia» donde el sacerdote debe acompañar con «paciencia y amor» (EG 44).
+
+Francisco insiste en que la misericordia tiene una dimensión social inseparable: «No existe ningún kerygma auténtico sin la promoción de la justicia» (EG 182). La «inclusión social de los pobres» es parte integral del anuncio del Evangelio (EG 186-216), y la misericordia se manifiesta en «las obras de misericordia» concretas (EG 192-194). La «globalización de la indiferencia» es el gran enemigo de la misericordia (EG 58-59).
+
+El Papa presenta la misericordia como fuente de la alegría cristiana: «Dios no se cansa nunca de perdonar, somos nosotros los que nos cansamos de acudir a su misericordia» (EG 3). La misericordia divina es el fundamento de la dignidad humana: «Nadie podrá quitarnos la dignidad que nos otorga este amor infinito e inquebrantable» (EG 3).
+
+### Según el Concilio Vaticano II (ConcVatII)
+
+El Concilio Vaticano II enseña que «la misericordia de Dios, que al mismo tiempo perdona y reforma, se manifiesta en la historia del pueblo de Dios y se hace presente en la vida de la Iglesia» (LG 8). *Gaudium et Spes* presenta a la Iglesia al servicio de la humanidad, atenta a las esperanzas y angustias de los hombres (GS 1), y enseña que la caridad impulsa a la Iglesia a buscar la justicia y la paz.
+
 ## Distinciones importantes
 
 - **Misericordia** ≠ **justicia**: la misericordia no se opone a la justicia, sino que la perfecciona y la trasciende.
