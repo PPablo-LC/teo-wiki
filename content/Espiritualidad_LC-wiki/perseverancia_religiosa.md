@@ -48,7 +48,9 @@ Las Constituciones de la Legión de Cristo de 1984 dedican el Capítulo V de la 
 - **La vida de comunidad:** la vida fraterna, con sus exigencias de humildad, paciencia y caridad, es un medio de santificación y un apoyo para la perseverancia. La comunidad espresenta a cada miembro el testimonio vivo de la vocación compartida.
 - **La obediencia:** la obediencia a los superiores, como expresión de la voluntad de Dios, protege al consagrado del subjetivismo y del arbitrio personal que pueden llevar a la deserción.
 - **El apostolado:** el servicio apostólico, realizado con generosidad y competencia, es un medio de perseverancia porque verifica la fecundidad de la vocación.
-- **La formación permanente:** las Constituciones establecen que la formación no termina con la profesión sino que se prolonga durante toda la vida, como garantía de renovación y crecimiento en la fidelidad vocacional.
+- **La formación permanente:** las Constituciones establecen que la formación no termina con la profesión sino que se prolonga durante toda la vida, como garantía de renovación y crecimiento en la fidelidad vocacional. El proceso formativo continuo incluye retiros, ejercicios espirituales, cursos de actualización y momentos de revisión de vida que permiten al consagrado evaluar su fidelidad y renovar su compromiso.
+
+La formación permanente aborda también los desafíos específicos de cada etapa de la vida religiosa: los primeros años tras la profesión, cuando el entusiasmo puede dar paso a la realidad concreta; la madurez, cuando la rutina amenaza la novedad interior; y la vejez, cuando la enfermedad y la limitación testan la perseverancia en el abandono confiado a Dios.
 
 ## Distinciones importantes
 
@@ -58,7 +60,7 @@ Las Constituciones de la Legión de Cristo de 1984 dedican el Capítulo V de la 
 
 ## Relaciones doctrinales
 
-La perseverancia religiosa se relaciona con la [[vida_consagrada]], la [[vocación]], los [[consejos_evangélicos]], la [[obediencia]] y la [[comunidad_de_apóstoles]].
+La perseverancia religiosa se relaciona con la [[vida_consagrada]], la [[vocación]], los [[consejos_evangélicos]], la [[obediencia]], la [[comunidad_de_apóstoles]], el [[superior_legionario]] y la [[comunidad_formativa]].
 
 ## Ver también
 

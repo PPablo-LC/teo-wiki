@@ -63,6 +63,16 @@ La voluntad del Padre es que todos los hombres se salven y lleguen al conocimien
 
 La conformidad con la voluntad de Dios es la esencia de la perfección cristiana y el medio más seguro para alcanzar la santidad. Royo Marín dedica un tratamiento extenso a la conformidad con la voluntad divina como vértice de la vida ascética y mística. La voluntad de Dios puede ser significada (*voluntas signi*), manifestada a través de los mandamientos, consejos evangélicos, inspiraciones interiores y acontecimientos providenciales. El alma perfecta no solo acepta la voluntad de Dios, sino que la abraza con gozo, viendo en cada circunstancia la mano amorosa del Padre. La indiferencia ignaciana —estar dispuestos a cualquier cosa que Dios quiera— es una expresión clásica de esta virtud.
 
+### Según Benedicto XVI (JdN_II)
+
+Benedicto XVI desarrolla la relación entre la voluntad humana y la voluntad divina a partir de la oración de Jesús en Getsemaní y de la antropología cristológica (capítulos 29-33 de *Jesús de Nazaret II*).
+
+**La tercera petición del Padrenuestro: «Hágase tu voluntad».** Benedicto XVI ve en esta petición el centro de la oración cristiana. La voluntad de Dios no es un peso impuesto desde fuera, sino el designio de amor que Dios Padre tiene para cada hombre. En Getsemaní, Jesús cumple esta petición de modo perfecto: «pero no se haga mi voluntad, sino la tuya» (Lc 22,42). La voluntad humana de Jesús —que repugna naturalmente la muerte— se somete libremente a la voluntad del Padre, no por violencia sino por amor.
+
+**Doble voluntad en Cristo (Calcedonia/Gregorio III).** Benedicto XVI recuerda que el VI Concilio ecuménico (Constantinopla III, 681) definió dos voluntades y dos operaciones naturales en Cristo, sin confusión ni división. La humanidad de Jesús no es un instrumento pasivo, sino que su voluntad humana —con sus repugnancias, su súplica y su obediencia— es parte del misterio pascual. La oración de Getsemaní es el lugar donde la voluntad humana y la divina se encuentran sin oposición.
+
+**La voluntad de Dios como medicina.** Benedicto XVI comenta el «cáliz» de Getsemaní: Jesús no niega el dolor, sino que lo asume hasta el extremo. La voluntad de Dios no es un mal que se debe soportar, sino el camino de la salvación. «El Padre no quiere el mal, pero lo permite para un bien mayor». En la cruz, Jesús entrega su voluntad humana al Padre, cumpliendo así el designio eterno.
+
 ## Relaciones doctrinales
 
 Se relaciona con la [[providencia]], la [[ley_divina]], la [[libertad_humana]], la [[oración]], la [[perfección_cristiana]], la [[conformidad_con_la_voluntad_de_dios]] y la [[indiferencia_ignaciana]].

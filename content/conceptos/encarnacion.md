@@ -29,6 +29,40 @@ La Iglesia ha definido que en Cristo hay una sola persona (divina) y dos natural
 
 El concilio anatematizó las herejías cristológicas (D-710): Ebión, Cerinto, Marción, Pablo de Samosata y Fotino (que negaban la divinidad de Cristo, confesándole por puro hombre); Maniqueo (que afirmaba cuerpo fantástico); Valentín (que negaba que el Hijo tomara algo de la Virgen); Arrio (que negaba el alma humana de Cristo); Apolinar (que negaba el alma racional, poniendo la divinidad en su lugar); Teodoro de Mopsuesta y Nestorio (que afirmaban dos personas en Cristo, negando la unión hipostática); y Eutiques (que confundía las dos naturalezas).
 
+### Según Benedicto XVI (JdN_II)
+
+Benedicto XVI aborda la Encarnación en el contexto de la pregunta de Pilato —«¿De dónde eres tú?» (Jn 19,9)— y de la presentación de la identidad de Jesús a lo largo de *Jesús de Nazaret II*.
+
+**La humanidad verdadera de Jesús.** La Encarnación no es un mito ni una adopción divina posterior: Jesús es verdadero hombre desde el primer instante de su existencia. Benedicto XVI subraya que la humanidad de Jesús no es una máscara del Verbo, sino una naturaleza real con cuerpo, alma, voluntad y libertad humanas. En Getsemaní, Jesús ora con su voluntad humana: «Padre, si es posible, pase de mí este cáliz» —esta súplica no es un adorno literario, sino la expresión de la repugnancia natural de su humanidad ante el sufrimiento y la muerte.
+
+**Unidad de persona, diversidad de naturalezas.** La fórmula de Calcedonia —«dos naturalezas, una única Persona»— es la clave para entender la Encarnación. Benedicto XVI explica que la Persona del Verbo asume la naturaleza humana no para destruirla, sino para elevarla: «Obra una y otra forma con comunicación de la otra lo que es propio de ella». La humanidad de Jesús es el instrumento de nuestra redención: en ella, el Hijo de Dios sufre, muere y resucita por nosotros.
+
+**El «de dónde» de Jesús.** La pregunta de Pilato resume el misterio de la Encarnación: Jesús viene del Padre, es el Hijo eterno que asume la condición humana. Su reino «no es de aquí» (Jn 18,36): no es un reino político, sino el reino del Hijo que viene del Padre y vuelve al Padre por la cruz. La Encarnación es el «desde dónde» del misterio pascual: solo porque Jesús es verdadero Dios y verdadero hombre, su muerte tiene valor redentor infinito.
+
+### Según Benedicto XVI (JdN_II y JdN_III)
+
+**JdN_II:** Benedicto XVI aborda la Encarnación en el contexto de la pregunta de Pilato —«¿De dónde eres tú?» (Jn 19,9)— y de la presentación de la identidad de Jesús a lo largo de *Jesús de Nazaret II*.
+
+**La humanidad verdadera de Jesús.** La Encarnación no es un mito ni una adopción divina posterior: Jesús es verdadero hombre desde el primer instante de su existencia. Benedicto XVI subraya que la humanidad de Jesús no es una máscara del Verbo, sino una naturaleza real con cuerpo, alma, voluntad y libertad humanas. En Getsemaní, Jesús ora con su voluntad humana: «Padre, si es posible, pase de mí este cáliz» —esta súplica no es un adorno literario, sino la expresión de la repugnancia natural de su humanidad ante el sufrimiento y la muerte.
+
+**Unidad de persona, diversidad de naturalezas.** La fórmula de Calcedonia —«dos naturalezas, una única Persona»— es la clave para entender la Encarnación. Benedicto XVI explica que la Persona del Verbo asume la naturaleza humana no para destruirla, sino para elevarla: «Obra una y otra forma con comunicación de la otra lo que es propio de ella». La humanidad de Jesús es el instrumento de nuestra redención: en ella, el Hijo de Dios sufre, muere y resucita por nosotros.
+
+**El «de dónde» de Jesús.** La pregunta de Pilato resume el misterio de la Encarnación: Jesús viene del Padre, es el Hijo eterno que asume la condición humana. Su reino «no es de aquí» (Jn 18,36): no es un reino político, sino el reino del Hijo que viene del Padre y vuelve al Padre por la cruz. La Encarnación es el «desde dónde» del misterio pascual: solo porque Jesús es verdadero Dios y verdadero hombre, su muerte tiene valor redentor infinito.
+
+**JdN_III:** En el tercer volumen, Benedicto XVI profundiza en el misterio de la concepción y el nacimiento virginal a partir de los Evangelios de Mateo y Lucas.
+
+**Concepción virginal y profecía.** El nacimiento de Jesús de la Virgen María se anuncia en Isaías 7,14: «Mirad: la virgen está encinta y da a luz un hijo, y le pondrá por nombre Emmanuel». Benedicto XVI explica que esta palabra es una «palabra en espera»: en su contexto histórico no se le encuentra correspondencia alguna, pero en el nacimiento de Jesucristo adquiere su pleno significado. Sirva de ejemplo la observación de Marius Reiser: «La profecía del profeta es como un ojo de cerradura milagrosamente predispuesto, en el cual encaja perfectamente la llave Cristo».
+
+**El nombre de Jesús.** El nombre que el ángel indica a María y a José es Jesús (*Jeshua*, «YHWH es salvación»). En él se contiene el tetragrama divino: «El nombre del Sinaí, que había quedado como quien dice incompleto, es pronunciado hasta el fondo. El Dios que es, es el Dios presente y salvador. La revelación del nombre de Dios, iniciada en la zarza ardiente, es llevada a su cumplimento en Jesús» (JdN_III).
+
+**El «sí» de María y la nueva creación.** La respuesta de María, «Hágase en mí según tu palabra» (Lc 1,38), es el acto libre mediante el cual la Palabra creadora de Dios da inicio a una nueva creación. Jesús es el nuevo Adán, un nuevo comienzo *ab integro*, nacido de la Virgen por obra del Espíritu Santo. En este misterio, Dios no actúa solo, sino que requiere el consentimiento libre de la criatura humana.
+
+**El nacimiento virginal, ¿mito o verdad histórica?** Benedicto XVI examina críticamente las hipótesis que pretenden derivar el relato del nacimiento virginal de mitos egipcios, literaturas judías helenísticas (Filón) o mitos grecorromanos (Zeus y Alcmena). La diferencia es radical: en los Evangelios no hay confusión entre Dios y la criatura, ni contacto corporal entre la divinidad y la materia. Jesús, nacido de María, es «totalmente hombre y totalmente Dios, sin confusión y sin división». Los relatos de Mateo y Lucas son «historia real, acontecida, historia ciertamente interpretada y comprendida sobre la base de la Palabra de Dios» (JdN_III).
+
+**José, «hombre justo».** Mateo presenta a José como un *zaddik*, un justo veterotestamentario cuya vida hunde sus raíces en la Ley (Salmo 1). Su «no» privado a María, antes de la revelación angélica, es signo de amor y justicia. Tras el sueño, su obediencia es la respuesta del justo que confía en Dios: «José no teme aceptar la tarea de hacer visible la fidelidad de Dios a la promesa hecha a David» (JdN_III).
+
+[JdN_II, capítulo sobre el interrogatorio de Pilato; JdN_III, caps. II-III]
+
 ## Distinciones importantes
 
 - **Encarnación vs. unión hipostática**: la Encarnación es el acto de asumir la naturaleza humana; la unión hipostática es el estado permanente de la unión de las dos naturalezas en la persona del Verbo.

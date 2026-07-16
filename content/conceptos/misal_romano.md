@@ -37,6 +37,14 @@ Royo Marín cita el Misal Romano en relación con la oración por las lágrimas 
 - Ordinario de la Misa (partes fijas) vs. Propio (partes variables según el día).
 - El Canon Romano (Plegaria Eucarística I) es la anáfora más antigua del rito latino.
 
+### Según la IGMR (2000)
+
+Las traducciones vernáculas del Misal Romano requieren la *recognitio* de la Sede Apostólica para asegurar la fidelidad del texto al original latino, garantizando así la unidad del Rito Romano en toda la Iglesia (§389). El Misal Romano es instrumento de unidad del Rito Romano: las ediciones típicas en latín y sus traducciones autorizadas constituyen el vínculo que asegura la identidad de la celebración en las diversas lenguas y culturas (§399).
+
+## Distinciones importantes
+
+- Misal Romano anterior al Concilio Vaticano II (forma extraordinaria) vs. Misal Romano post-conciliar (forma ordinaria).
+
 ## Relaciones doctrinales
 
 Se relaciona con la [[eucaristía]], la [[liturgia]], la [[misa]], la [[oración_litúrgica]] y el [[ritual_romano]].

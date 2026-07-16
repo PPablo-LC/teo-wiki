@@ -4,7 +4,7 @@ title: Autoridad evangélica
 tags: ["espiritualidad", "vida_consagrada"]
 
 timestamp: 2026-06-13
-description: "La autoridad evangélica es el ejercicio del gobierno en la [[vida_consagrada]] configurado según el modelo de Cristo, que «no ha venido a ser servido, sino a servir» (Mt 20,28)."
+description: "La autoridad evangélica es el ejercicio del gobierno en la [[vida_consagrada]] configurado según el modelo de Cristo, que «no ha venido a ser servidos, sino a servir» (Mt 20,28)."
 ---
 # Autoridad evangélica
 
@@ -81,6 +81,20 @@ El P. Gianfranco Ghirlanda, S.J., en su conferencia «Servicio de la autoridad y
 
 **Relación con el discernimiento comunitario.** La autoridad está llamada a promover y discernir, no a sustituir, el discernimiento comunitario. Ghirlanda dedica una sección específica a esta relación en su conferencia «Función de los superiores. Corresponsabilidad y participación» (AntDp-2015, `05_tercera_parte.md:1653-1918`), donde expone el marco canónico del c. 127 CIC y la interpretación auténtica del 1-VIII-1985.
 
+### Según la comprensión legionaria (LC-Wik, archivos 02, 06, 09)
+
+La comprensión legionaria de la autoridad evangélica, tal como se expone en los documentos constitucionales y capitulares históricos, la define no como dominio sino como **formación**: el superior como «formador» que transmite una espiritualidad concreta a quienes, a su vez, forman a otros. Esta comprensión tiene sus raíces en la noción del superior como padre espiritual, no como administrador de almas.
+
+El I CG 1980 (Comuniqué a superiores) describe al superior como la «figura decisiva en el fervor de la Legión»: la adhesión a las Constituciones y a la disciplina interna es presentada como una cuestión de vida o muerte para la Legión. Este lenguaje, legítimo en la retórica fundacional de movimientos eclesiales nuevos, asigna al superior la carga de preservar la fidelidad al carisma en un contexto de fragilidad institucional inicial.
+
+El II CG 1992 (Comuniqué a superiores) desarrolla con detalle el **«rostro del superior legionario»**: establece un perfil ideal minucioso de cualidades —inteligencia por encima de la media, voluntad firme, jovialidad combinada con seriedad, profunda vida interior, identificación completa con la espiritualidad de la Legión—, modelo que al magnificarse como ideal no reconocido puede generar frustración crónica en quienes no lo alcanzan.
+
+El mismo documento alerta contra dos tipos de superiores considerados peligrosos para la comunidad: los «irascibles» y los «bonachones» (excesivamente indulgentes). De estos últimos se advierte que «pueden destruir comunidades enteras». La disyuntiva presentada excluye un tercer modelo: el superior que combina firmeza en lo esencial con misericordia en lo accesorio, como Cristo mismo.
+
+Las Constituciones de 1984 contemplan que la autoridad se ejerce mediante el discernimiento, no por la arbitrariedad. El superior actúa *in persona Dei*, pero dicha representación está condicionada a la fidelidad a las Constituciones. La tensión estructural estriba en que el mismo voto de no-crítica que protege la autoridad del superior desactiva el mecanismo evangélico de corrección fraterna y rendición de cuentas, generando una asimetría entre la llamada a la autoridad como servicio y la realidad institucional que la sustenta.
+
+La distinción que los propios documentos formulan entre la autoridad sana (servicio a la persona y a la comunidad) y su posible abuso (dominio) está presente en ambas versiones de las Constituciones, pero el andamiaje normativo complementario (Normas, sistemas de Monitores, voto privado) anula en la práctica la aplicación del primero como criterio reconocible para el súbdito.
+
 ## Distinciones importantes
 
 - Autoridad como servicio vs. autoridad como dominio: la autoridad evangélica es esencialmente ministerial, no de poder.
@@ -107,13 +121,13 @@ Se relaciona con [[obediencia_filial]], [[obediencia]], [[vida_consagrada]], [[c
 - [[sean_glass_call_to_fortitude]]
 
 ## Ver también
-[[obediencia_filial]], [[obediencia]], [[vida_consagrada]], [[cristo]], [[discernimiento]], [[conversión]]
+[[obediencia_filial]], [[obediencia]], [[vida_consagrada]], [[cristo]], [[discernimiento]], [[conversación]]
 
 ### Según el Capítulo General CapGral-2020 (Conferencia del P. Ghirlanda)
 
 La conferencia de Ghirlanda al Capítulo de 2020 ofrece una reflexión sobre el ejercicio de la autoridad a partir de la experiencia del gobierno general 2014-2020.
 
-**Unidad y uniformidad.** Uno de los desafíos identificados es «seguir trabajando para traer unidad a la Legión evitando en todas las maneras posibles de caer en la uniformidad que la ha caracterizada en el pasado» [CapGral-2020, Ghirlanda, §57]. La uniformidad da seguridad pero empobrece [CapGral-2020, Ghirlanda, §73].
+**Unidad y uniformidad.** Uno de los desafíos identificados es «seguir trabajando para traer unidad a la Legión evitando en todas las maneras posibles de caer en la uniformidad que la ha caracterizado en el pasado» [CapGral-2020, Ghirlanda, §57]. La uniformidad da seguridad pero empobrece [CapGral-2020, Ghirlanda, §73].
 
 **Descentralización.** La Legión estaba totalmente centralizada. La descentralización no debe distorsionarse en una autonomía mal entendida: «en la Iglesia hablamos de autonomía 'justa' en el sentido de que la autonomía debe incluirse en el sistema canónico de la Iglesia y, por lo tanto, no puede oponerse a la dependencia» [CapGral-2020, Ghirlanda, §69].
 
@@ -130,6 +144,10 @@ La conferencia de Ghirlanda al Capítulo de 2020 ofrece una reflexión sobre el 
 - [CapGral-2026, n. 20-24]
 - [CapGral-2026, n. 26-32]
 - [CapGral-2020, Ghirlanda, §§57, 65, 69, 73]
+- [Constituciones de la Legión de Cristo (1984), Capítulo VI — Normas de vida y gobierno]
+- [I CG 1980, Communiqué a superiores — perfil del superior y normativa de conducta]
+- [II CG 1992, Communiqué a superiores — «rostro del superior legionario» y normativa cinematográfica]
+- [Constituciones de la Legión de Cristo (1998), Artículo 5 — Voto de no-crítica]
 - **CIC**, cc. 617-618, 127.
 - **Pastores gregis** (Juan Pablo II, 2003), nn. 11, 12, 31, 43.
 - **Apostolorum successores** (Congregación para los Obispos, 2004), n. 33.

@@ -42,6 +42,28 @@ VELM (2023) incluye el «abuso de autoridad» como elemento calificante de los d
 
 VELM también tipifica como conducta delictiva (art. 1 §1 b) las acciones u omisiones dirigidas a interferir o eludir investigaciones civiles o canónicas, las cuales constituyen una forma de abuso de autoridad institucional al obstruir la justicia y proteger a los abusadores.
 
+### Según el contexto histórico LC (LC-Wik, archivos 01, 05, 06, 10)
+
+El abuso de autoridad en la Legión de Cristo no es un hecho individual aislado, sino el resultado de un sistema institucional que eliminó progresivamente los controles sobre el poder del Superior General. Los documentos históricos permiten trazar las condiciones estructurales que lo hicieron posible.
+
+La interpretación amplísima del Voto Privado de no-crítica (Archivo 10 de LC-Wik) es la condición primera del sistema. El voto no se limita a cubrir los actos de gobierno formales del Superior General: su comprensión efectiva en la práctica legionaria abarca «la personalidad, el carácter, los defectos físicos, los defectos intelectuales, los defectos morales» de los superiores. Esta extensión transforma el voto de obediencia en un instrumento de silenciamiento total: el legionario no puede objetar nada, ni siquiera lo que afecta a su persona directa —una lectura que contradice el sentido canónico de la obediencia religiosa, que implica siempre el derecho a la corrección fraterna y la denuncia de abusos a la autoridad competente.
+
+El sistema del Monitor del Director General (nn. 573-577, Archivo 10) completa la lógica de impunidad. El Monitor debe ser removido de su cargo si «expone o critica» algún aspecto de la vida del Director General. La norma, presentada como protección de la unidad, es en realidad un mecanismo de supresión de toda información que pueda deslegitimar al superior. El Monitor es el único órgano interno con acceso directo a la vida privada del DG; su silenciamiento forzoso garantiza que los datos perjudiciales no circulen.
+
+La exención del Director General del voto de no-crítica (Archivo 05, II CG 1992) crea una jerarquía normativa asimétrica: los superiores pueden ser criticados —si acaso— solo en abstracto; los subordinados tienen prohibido cualquier forma de expresión crítica. La excepción es nominativa y no funcional: solo el DG está exento, no los superiores intermedios, lo que refuerza la autoridad personal del fundador como instancia última e inapelable.
+
+El secreto absoluto de las deliberaciones de gobierno (Archivo 06, Constituciones 1984) priva a los miembros de cualquier criterio externo para evaluar la legitimidad de los mandatos. Sin transparencia, la obediencia no puede ser discernida: el legionario debe confiar ciegamente en la rectitud de las decisiones, sin posibilidad de contrastarlas con el Evangelio o con el derecho canónico.
+
+El I CG 1980 investe al fundador con el título de «Nuestro Padre» (n. 381), título que en la praxis legionaria confiere autoridad virtualmente absoluta. La figura paterna excluye por definición la crítica legítima: criticar al Padre es desnaturalizar la relación filial. El sistema de autoridad se apoya así en una categoría afectivo-espiritual que neutraliza toda resistencia racional.
+
+El II CG 1992 describe un modelo de superior ideal sin efectividad normativa: el superior es aquel que «lleva a los miembros a la santidad», que «es el primero en dar ejemplo de todas las virtudes» — pero la descripción no va acompañada de mecanismos que hagan efectiva esta exigencia. La advertencia contra los «bonachones» (superiores débiles) es impotente porque el sistema ha eliminado toda posibilidad de sustituir a un superior cuyo comportamiento no se ajusta al ideal.
+
+El documento Principios y Normas 1984 detalla un régimen de dependencia psicológica y espiritual de la expresión personal del fundador: las decisiones de gobierno son «vivas» (verbum vivum) y el criterio último de discernimiento es lo que «Nuestro Padre» ha dicho en un momento dado. Esta sujeción a la expresión circunstancial del superior convierte el discernimiento comunitario en imposible.
+
+La renuncia abrupta de Maciel en enero de 2005, durante el III CG y coincidiendo con la investigación de la Congregación para la Doctrina de la Fe (Archivo 10), es la primera evidencia institucional de que el sistema de gobierno carecía de controles efectivos: un Superior General proximus ad mortem tenetur dimittere munus (CIC, c. 401 §1), pero el proceso no fue institucional: fue el resultado de la intervención pontificia externa. El sistema no se autorreformó: fue reformado desde afuera.
+
+El fracaso teológico fundamental del sistema legionario de autoridad reside en la confusión entre obediencia (virtud) y sumisión al superior en toda circunstancia. La CEC enseña que ninguna autoridad puede mandar lo que es contrario a la [[ley_moral]] (CEC, n. 1905): el límite es la ley natural. El sistema que exigía obediencia incluso en lo ilegítimo convertía la virtud en instrumento de sometimiento, contraviniendo la enseñanza más básica de la moral católica sobre la primacía de la conciencia recta.
+
 ## Distinciones importantes
 
 - Ejercicio legítimo de la autoridad (conforme al ordenamiento jerárquico) vs. mal uso (carencias de virtud, errores) vs. abuso (violación grave de la ley)

@@ -81,6 +81,10 @@ Los pastores deben «dar a la celebración eucarística dominical una nueva fuer
 
 Se han de promover «todos los esfuerzos de los sacerdotes para hacer más fácil esa participación y posibilitarla en las comunidades lejanas» [EA §35]. «La participación plena en ella, consciente y activa, aunque es esencialmente distinta del oficio del sacerdote ordenado, es una actuación del sacerdocio común recibido en el Bautismo» [EA §35].
 
+### Según la IGMR (2000)
+
+La celebración diaria es encomiable y recomendable para que los fieles nutran su vida espiritual con el sacrificio eucarístico (§19). Cuando la Misa se celebra sin congregación (Misa privada), debe contener al menos un ministro asistente que responda al sacerdote (§254). El sacerdote que celebra debe tener la intención de hacer lo que hace la Iglesia, en virtud de su ordenación sacerdotal.
+
 ## Distinciones importantes
 
 - La Misa no es una "repetición" del Calvario sino su actualización sacramental

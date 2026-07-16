@@ -82,6 +82,27 @@ Juan Pablo II cita el lema *Stat Crux dum volvitur orbis*: la Cruz en el centro 
 
 Juan Pablo II presenta la Cruz como el designio eterno del amor de Dios: «Tanto amó Dios al mundo que dio a su Hijo único» (Jn 3,16; 1 Jn 4,10). La Cruz fue predestinada por Dios desde la eternidad (Hch 2,23; Lc 24,26.44). Cristo acepta libremente la kénosis y la obediencia hasta la muerte (Flp 2,6-8), en contraste con la desobediencia de Adán. El valor infinito del sacrificio de Cristo se funda en la unión hipostática: es «un Dios que sufre». La muerte de Cristo tiene valor sustitutivo (*substitutio*) y representativo: Cristo se solidariza con los pecadores para obtener su justificación y santificación. La misericordia divina se revela como superior a la justicia, manifestando un amor sobreabundante. Cristo es el único [[mediación_de_cristo|Mediador]] entre Dios y los hombres (1 Tim 2,5; Heb 9,15). La Cruz es también modelo para el [[sufrimiento_redentor|sufrimiento cristiano]]: el cristiano participa en la Cruz de Cristo (Col 1,24; Gal 2,20). La Cruz es «puente» (Santa Catalina de Siena) que une el cielo y la tierra (CJeS, tercera parte: valor redentivo de la Pasión).
 
+### Según Benedicto XVI (JdN_II)
+
+Benedicto XVI dedica el capítulo 8 de *Jesús de Nazaret II* a la crucifixión y sepultura, y el capítulo 9 a la Resurrección, proporcionando un cuadro cohesivo del misterio pascual.
+
+**La Pasión como cumplimiento de la Escritura.** «Los hechos, por decirlo así, están repletos de palabra, de sentido; y también viceversa: lo que hasta ahora había sido sólo palabra se hace realidad». Los cuatro evangelistas sitúan la Pasión en el horizonte de las Escrituras del AT: la pasión de Jesús es el cumplimiento de lo anunciado por los profetas y los salmos. Los momentos del abandono («Dios mío, Dios mío, ¿por qué me has abandonado?, Mc 15,34) son recitación del Salmo 22, que termina en alabanza y victoria.
+
+**El proceso histórico de la Iglesia naciente.** A la luz de la Resurrección, la Iglesia tuvo que aprender a leer el AT de modo nuevo. El relato de los discípulos de Emaús (Lc 24,13-35) muestra este camino: «Nadie se había esperado un final del Mesías en la cruz. O quizás, ¿se habían solamente ignorado hasta aquel momento las correspondientes alusiones en la Sagrada Escritura?». Lo absurdo manifiesta su más profundo significado.
+
+**Las siete palabras en la cruz.** Benedicto XVI comenta las siete palabras de Jesús en la cruz:
+1. «Padre, perdónalos, porque no saben lo que hacen» (Lc 23,34)
+2. «Hoy estarás conmigo en el paraíso» (Lc 23,43)
+3. «Mujer, ahí tienes a tu hijo» (Jn 19,26-27)
+4. «Dios mío, Dios mío, ¿por qué me has abandonado?» (Mc 15,34 // Sal 22,2)
+5. «Tengo sed» (Jn 19,28)
+6. «Todo está cumplido» (Jn 19,30)
+7. «Padre, en tus manos encomiendo mi espíritu» (Lc 23,46)
+
+**La muerte como reconciliación.** En la cruz de Jesús se ha verificado lo que en vano se había intentado con los sacrificios de animales: el mundo obtuvo la expiación. «El Cordero de Dios» carga con el pecado del mundo (Jn 1,29). La relación de Dios con el mundo, perturbada por la culpa, ha sido renovada. Pablo resume: «Dios mismo estaba en Cristo reconciliando al mundo consigo» (2 Co 5,19).
+
+**Muerte y vida.** La muerte de Cristo en la cruz es «reconciliación (expiación) y salvación». La Iglesia naciente, bajo la guía del Espíritu Santo, comprendió lentamente que los sacrificios del templo quedaron superados definitivamente. La cruz es el lugar en que se consuma el designio amoroso del Padre, por obra del Hijo, en el Espíritu Santo.
+
 ## Distinciones importantes
 
 - **Cruz material**: instrumento de la pasión.

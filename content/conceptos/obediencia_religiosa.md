@@ -1,9 +1,9 @@
 ---
 type: Concepto Teológico
 title: Obediencia Religiosa
+description: "Voto de obediencia propio de la vida religiosa por el cual se promete someter la propia voluntad a los superiores legítimos en conformidad con las constituciones, como medio de perfección evangélica y seguimiento de Cristo obediente."
 tags: ["vida_consagrada", "ascética"]
 timestamp: 2026-06-30
-description: "Voto de obediencia propio de la vida religiosa por el cual se promete someter la propia voluntad a los superiores legítimos en conformidad con las constituciones, como medio de perfección evangélica y seguimiento de Cristo obediente."
 ---
 
 # Obediencia Religiosa
@@ -56,6 +56,20 @@ Se fundamenta en la [[obediencia_de_cristo]]. Se relaciona con la [[pobreza_reli
 ## Ver también
 
 [[obediencia_de_cristo]], [[vida_consagrada]], [[consejos_evangélicos]], [[pobreza_religiosa]], [[castidad_religiosa]], [[seguimiento_de_cristo]], [[perfectae_caritatis]]
+
+### Según fuentes históricas LC-Wik (1980-1998)
+
+#### Constituciones — Legionarios de Cristo (1984)
+
+Las Constituciones especifican que la obediencia religiosa en la Legión ha de ser a la vez **interna y externa, nunca ciega, movida por la fe**: el religioso no se limita a cumplir exteriormente la orden del superior, sino que debe asentir interiormente con la inteligencia y amar la voluntad de Dios manifestada por el superior. La obediencia es así un acto de libertad que requiere la propia entrega interior, no solo la sumisión exterior.
+
+#### Estatutos del Regnum Christi
+
+Los Estatutos del RC establecen que la obediencia ha de ser **pronta, alegre, movida por la fe y heroica**: pronta, sin dilación ni resistencia; alegre, sin murmuración ni tristeza; movida por la fe, reconociendo en el superior el intérprete legítimo de la voluntad de Dios; heroica, hasta el extremo cuando sea necesario. La obediencia se vincula de modo esencial a los [[votos_privados]]: el voto privado de obediencia intensifica el compromiso de someter el propio juicio a la dirección del superior, viviéndolo no como imposición sino como camino de santidad personal.
+
+#### El superior como intérprete de la voluntad de Dios
+
+Las Constituciones y la espiritualidad legionaria enseñan que el superior legítimo actúa **in persona Dei** en el ejercicio de la autoridad: su voz es el instrumento ordinario por el que Dios manifiesta su voluntad al religioso. La obediencia así entendida implica el don de la propia voluntad a Dios «por mediación del superior», en un acto de fe que reconoce en la orden recibida el signo de la voluntad divina para el momento concreto.
 
 ## Referencias
 

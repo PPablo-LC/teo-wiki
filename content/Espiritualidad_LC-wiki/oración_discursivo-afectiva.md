@@ -56,6 +56,7 @@ La oración discursivo-afectiva se enseña progresivamente durante el proceso fo
 - **Discursivo-afectiva vs. puramente afectiva:** la oración puramente afectiva se abandona a los sentimientos sin contenido doctrinal y se vuelve inestable; la discursivo-afectiva mantiene el equilibrio entre razón y corazón.
 - **Discursivo-afectiva vs. contemplación infusionada:** la contemplación infusionada es un don de Dios que va más allá del método discursivo; la oración discursivo-afectiva es el método que el orante cultiva activamente, y que puede conducir a formas más elevadas de oración.
 - **Método vs. gracia:** el método es un instrumento humano al servicio de la gracia; no garantiza la experiencia de Dios pero crea las condiciones para ella.
+- **Oración discursivo-afectiva y oración litúrgica:** la oración mental complementa la oración litúrgica; no la sustituye ni la reemplaza. La Eucaristía y los Sacramentos son la fuente suprema de la vida espiritual; la oración mental es el ejercicio personal que prepara para recibir los sacramentos y saca fruto de ellos.
 
 ## Relaciones doctrinales
 

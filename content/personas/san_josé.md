@@ -1,59 +1,55 @@
 ---
 type: Persona
-title: San José
-tags: ["hagiografía"]
-
-timestamp: 2026-05-26
-description: "San José es el esposo virginal de la Santísima Virgen María y padre legal (putativo) de Jesucristo. Descendiente de la casa de David, fue el custodio del Redentor y jefe de la Sagrada Familia."
+title: "San José"
+tags: ["personas_—_santos", "mariología", "cristología"]
+timestamp: 2026-07-15
+description: "Esposo de la Virgen María y padre legal de Jesucristo, modelo de justicia, obediencia y discernimiento; perteneciente a la estirpe de David, custodio del Redentor."
 ---
 # San José
 
-> Área: Hagiografía
-> Última actualización: 2026-05-26
+> Área: Personas / Santos
+> Última actualización: 2026-07-15
 
 ## Definición
 
-San José es el esposo virginal de la Santísima Virgen María y padre legal (putativo) de Jesucristo. Descendiente de la casa de David, fue el custodio del Redentor y jefe de la Sagrada Familia. Es patrono de la Iglesia universal, de los trabajadores y de la buena muerte.
-
-## Desarrollo doctrinal
-
-San José fue un «varón justo» (Mt 1,19), expresión hebrea que significa «hombre santo». Carpintero de Nazaret, vivió castamente con María como verdadero esposo, pero sin uso del matrimonio. Su paternidad respecto a Jesús no fue carnal sino legal: como descendiente directo del rey David, transmitió a Jesús los derechos reales al trono de Israel. El Evangelio lo presenta como modelo de fe, obediencia y trabajo.
-
-La teología de San José ha sido desarrollada por autores como Bonifacio Llamera OP, cuya obra *Teología de San José* fue calificada por Antonio Royo Marín como «la mejor que se ha escrito hasta hoy de San José en el mundo entero».
+San José de Nazaret, esposo de la Virgen María y padre legal de Jesucristo, es el varón justo descendiente de David a quien el Padre confió la custodia del Mesías y con quien Jesús estuvo «sometido» (Lc 2,51) en su vida oculta. Su papel en la economía de la salvación es indispensable: como esposo de María y padre adoptivo de Cristo, garantiza la pertenencia de Jesús a la estirpe davídica y a la humanidad, protegiéndolo de Herodes y educándolo en Nazaret.
 
 ## Perspectivas por fuente
 
-### Según Para Salvarte (PS)
+### Según Benedicto XVI (JdN_III)
 
-Jorge Loring expone extensamente la figura de San José [PS §31]. Destaca que José era «heredero legal del rey David» por ser descendiente directo, y que la familia real de José se escondió en Nazaret huyendo de Herodes, el usurpador idumeo. Al ser Jesús hijo legal de José, era rey de Israel «no sólo espiritualmente, sino también legalmente». El letrero de Pilato en la cruz («Jesús Nazareno Rey de los Judíos») expresaba así una realidad jurídica.
+Benedicto XVI presenta a José como «hombre justo» (*zaddik*, Mt 1,19), imagen viva del justo veterotestamentario descrito en el Salmo 1: «Dichoso el hombre que no sigue el consejo de los impíos… sino que su gozo está en la ley del Señor» (Sal 1,1-2). José es justo porque vive la Ley desde dentro, como «evangelio», y busca el camino de la unidad entre la ley y el amor (JdN_III). El evangelista Mateo lo califica así antes de laaparición del ángel, mostrando que su actitud ante el embarazo de María no es rigidez legalista, sino amor que no quiere exponerla al deshonor.
 
-El Evangelio llama a José «hombre justo», que en el modo de hablar hebreo significa «hombre santo». Fue carpintero y modelo de trabajador, por lo que la Iglesia lo ha nombrado Patrono de todos los obreros. Murió entre Jesús y María, siendo por ello también Patrono de la buena muerte.
+**El sueño y la obediencia.** José recibe el mensaje angélico en sueños —primero para tomar a María como su mujer (Mt 1,20-24), luego para huir a Egipto (Mt 2,13) y finalmente para volver de Egipto a Nazaret (Mt 2,19-23). Benedicto XVI destaca que «a José solo se le aparece en sueños, pero en sueños que son realidad y revelan realidades», signo de su «finura para percibir lo divino y su capacidad de discernimiento». Solo «una persona íntimamente atenta a lo divino, dotada de una peculiar sensibilidad por Dios y sus senderos, le puede llegar el mensaje de Dios de esta manera» (JdN_III).
 
-San José es poderoso intercesor: «Dice Santa Teresa que nunca pidió una cosa a San José y que el Santo no se la concediera. Y a los que no lo crean, les dice que hagan la prueba» [PS §31,1].
+**Hijo de David.** El ángel interpela a José como «hijo de David» (Mt 1,20), indicando el cometido que le confía: como destinatario de la promesa hecha a David, debe hacerse garante de la fidelidad de Dios. Al adoptar a Jesús y ponerle el nombre, José hace de Él un verdadero hijo de David, vinculando al Mesías con la estirpe real.
+
+**El nombre: Jesús.** El ángel ordena a José: «Tú le pondrás por nombre Jesús, porque él salvará a su pueblo de sus pecados» (Mt 1,21). El nombre contiene el tetragrama divino (*YHWH*): «Dios salva». Cristo es, por tanto, el Salvador que perdona los pecados, superando las expectativas político-mesianicas de Israel.
+
+**El nazoreo y el retoño de Jesé.** Mateo explica que Jesús habita en Nazaret «para que se cumpliese lo que dijeron los profetas, que se llamará nazoreo» (Mt 2,23). Benedicto XVI acoge dos líneas interpretativas: el vínculo con Sansón (Jc 13,5-7), consagrado a Dios desde el seno materno, y sobre todo la resonancia del término hebreo *nezer* (retoño) en Isaías 11,1: «Brotará un renuevo del tronco de Jesé». Jesús es el nuevo Retoño surgido del tronco de David —y de un modo más profundo, del tronco de toda la humanidad—, totalmente consagrado a Dios desde el seno materno hasta la muerte.
+
+**Justicia y misericordia.** José es modelo de justicia que se compadece: aunque podía denunciar a María públicamente, elige el repudio privado para no exponerla a la ignominia. Vive la ley «como evangelio», no como legalidad de fachada. Su obediencia al ángel es la del justo que confía, no la del cálculo humano.
+
+### Según la Summa Theologiae (SmTh)
+
+**IIIª q.29 — Desposorios de María:** Fue conveniente que Cristo naciese de una virgen desposada: por Cristo mismo (evitar ilegitimidad, genealogía por varón, ocultar al demonio, tener custodio), por la Madre (evitar lapidación e infamia, obtener ayuda de José) y por nosotros (testigo fiel de la virginidad, honra de la virginidad y el matrimonio) (a.1). El matrimonio fue verdadero en su primera perfección (unión indivisible de almas por consentimiento mutuo), aunque no consumado carnalmente (a.2).
+
+## Distinciones importantes
+
+- **Padre legal vs. padre natural:** José no es padre biológico de Jesús, sino su padre adoptivo o legal. La paternidad es verdadera por el amor y la obediencia, y suficiente para conferir a Jesús la pertenencia a la casa de David.
+- **Justo veterotestamentario:** La justicia de José no es mero cumplimiento exterior de la Ley, sino vida en y de la Palabra de Dios, como el árbol plantado junto a las aguas del Salmo 1.
 
 ## Relaciones doctrinales
 
-San José se relaciona con la [[virgen_maría]] como esposo, con [[jesucristo]] como padre legal, con la [[encarnación]] como custodio del Verbo encarnado, y con la [[sagrada_familia]]. Su papel en la genealogía davídica lo vincula a las [[profecías_mesiánicas]] y al cumplimiento de las Escrituras.
-
-### Según María, José y la vida oculta de Jesús (MJV)
-
-Juan Pablo II presenta a José como «hombre justo» (Mt 1,19) que cooperó con María para que la casa de Nazaret fuera un ambiente favorable al crecimiento del Salvador [MJV, catequesis 5]. José «le enseñó el duro trabajo de carpintero, permitiendo a Jesús insertarse en el mundo del trabajo y en la vida social» [MJV, catequesis 5]. Junto con María, José introdujo a Jesús «en los ritos y prescripciones de Moisés, en la oración al Dios de la alianza mediante el uso de los salmos y en la historia del pueblo de Israel» [MJV, catequesis 5].
-
-María y José son presentados como «modelos de todos los educadores. Los sostienen en las grandes dificultades que encuentra hoy la familia y les muestra el camino para lograr una formación profunda y eficaz de los hijos» [MJV, catequesis 5]. La experiencia educadora de la Sagrada Familia «constituye un punto de referencia seguro para los padres cristianos» [MJV, catequesis 5].
-
-### Según la Vida de Jesús (VJ)
-
-La Vida de Jesús (VJ) presenta a san José como el hombre justo, esposo de María, padre adoptivo del Hijo de Dios (Cap. II). José fue con María la noche de Belén, testigo privilegiado de la venida del Hijo de Dios al mundo. Fue testigo ocular del nacimiento en condiciones humanamente humillantes, primer anuncio del anonadamiento de Cristo. José, advertido por el ángel en sueños, salvó a Jesús de la crueldad de Herodes huyendo a Egipto. En Nazaret, José guió y sostuvo al Niño Jesús, introduciéndolo en las costumbres religiosas y enseñándole el oficio de carpintero. El trabajo de José durante treinta años junto a Jesús constituyó la trama del crecimiento del Salvador «en edad, sabiduría y gracia». José es promotor de la causa de la defensa de la vida humana desde la concepción. Toda la tradición ha visto en san José al Patrono y Protector de la comunidad de los creyentes. Su poderosa intercesión acompaña y protege el camino de la Iglesia en la historia.
-
-## Analizado para
-
-- [[alexander_marriage_gospels]] — convergencia en San José como esposo virginal y custodio de la Sagrada Familia; aporta la caracterización del matrimonio de José y María como virginal pero profundamente íntimo (comunión de almas, proyecto de vida compartido, intimidad emocional)
+José es el esposo de la [[virgen_maría]], custodio de la [[encarnación]] y garante de la descendencia davídica de Cristo. Su figura se relaciona con la [[justicia]], la [[obediencia]] y el [[discernimiento]] espirituales. Como varón justo, pertenece a la gran estirpe de los santos del Antiguo Testamento que esperaban la venida del Mesías.
 
 ## Ver también
 
-[[virgen_maría]], [[jesucristo]], [[encarnación]], [[concepción_virginal]]
+[[virgen_maría]], [[encarnación]], [[natividad]], [[santos]], [[mariología]]
 
 ## Referencias
 
-- [PS §31]
-- [CEC §437, §532]
+- [Mt 1,18-25; 2,13-23]
+- [Lc 2,51]
+- [JdN_III, cap. II-IV]
+- SmTh IIIª q.29

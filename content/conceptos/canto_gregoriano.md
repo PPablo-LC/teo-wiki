@@ -41,6 +41,10 @@ Se deben conocer las principales melodías gregorianas: partes invariables de la
 
 En las casas de formación se han de cantar en latín las vísperas solemnes indicadas, así como los oficios de laudes y lecturas del Viernes y Sábado Santos [GLit-2024, n. 195]. Para la exposición y bendición eucarísticas se utiliza habitualmente canto gregoriano, especialmente el *Tantum ergo* [GLit-2024, n. 170].
 
+### Según la IGMR (2000)
+
+El canto gregoriano es propio de la liturgia romana y, en igualdad de condiciones, se le concede el primer lugar entre las expresiones musicales de la celebración litúrgica (§41). Debe ser conservado y fomentado junto con la polifonía sacra y otros estilos de música sagrada, siempre que respondan al carácter propio de la liturgia romana y sirvan a la mayor gloria de Dios y la edificación de los fieles (§41).
+
 ## Distinciones importantes
 
 - Canto gregoriano (monódico, modal, latino) vs. polifonía sacra (varias voces simultáneas)

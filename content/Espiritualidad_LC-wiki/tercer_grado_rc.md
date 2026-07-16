@@ -25,6 +25,10 @@ Los miembros del tercer grado viven bajo una normativa que regula con detalle as
 
 El tercer grado ha sido también una fuente de vocaciones sacerdotales para la Iglesia y de líderes para la sociedad. La radicalidad de su consagración prepara a los miembros para asumir responsabilidades de liderazgo en múltiples ámbitos, tanto eclesiales como seculares. Sin embargo, la tensión entre la consagración radical y la inserción en el mundo ha sido un desafío permanente, especialmente en lo que respecta al equilibrio entre la vida comunitaria y las relaciones familiares y sociales.
 
+La espiritualidad del tercer grado se nutre de los mismos elementos que la espiritualidad legionario en general: cristocentrismo, caridad, oración, obediencia al Papa, devoción mariana. Pero los añade una radicalidad específica: la disponibilidad total, el sacrificio de las relaciones familiares más estrechas y la inserción en el mundo desde una posición de consagración visible. Esta radicalidad ha sido reconocida como un testimonio profético en una sociedad que tiende a la mediocridad y al compromiso sin principios.
+
+La vida comunitaria del tercer grado se organiza en centros formativos donde los miembros comparten la oración, los sacramentos y el estudio. La comunidad no es solo un marco de vida sino un instrumento de formación: en ella se aprende la humildad, la obediencia, la caridad fraterna y la disponibilidad. La normativa comunitaria, aunque exigente, busca crear las condiciones para que la consagración sea vivida con autenticidad y madurez.
+
 ## Perspectivas por fuente
 
 ### Según los Estatutos del Regnum Christi (Part Three)
@@ -37,7 +41,11 @@ Los Estatutos precisan que el tercer grado tiene su propia identidad dentro del 
 
 Las fuentes del archivo LC-Wik documentan la evolución histórica del tercer grado, que ha experimentado cambios significativos desde su creación. Originalmente concebido como una forma de vida muy cercana a la religiosa, fue progresivamente ajustado para responder a las necesidades reales de sus miembros y a las exigencias del derecho canónico [LC-Wik, archivo 07].
 
-El tercer grado ha sido una fuente de vocaciones sacerdotales para la Iglesia y de líderes para la sociedad, pero también ha enfrentado desafíos relacionados con la autonomía de sus miembros, la rigidez de la normativa y la tensión entre la consagración y la inserción en el mundo.
+El tercer grado ha sido una fuente de vocaciones sacerdotales para la Iglesia y de líderes para la sociedad, pero también ha enfrentado desafíos relacionados con la autonomía de sus miembros, la rigidez de la normativa y la tensión entre la consagración y la inserción en el mundo. La revisión de la normativa en el contexto de la renovación institucional ha buscado encontrar un equilibrio entre la radicalidad evangélica y la madurez personal de los miembros [LC-Wik, archivo 07].
+
+### Según las Asambleas Generales (Asambleas-RC-2018)
+
+Las Asambleas Generales de 2018 abordaron la situación del tercer grado en el contexto de la refundación del Regnum Christi. Se reconoció que el tercer grado tiene una vocación específica dentro del Movimiento, pero que su normativa necesita ser actualizada para responder a las necesidades de los miembros y a las exigencias del derecho canónico. La consolidación del tercer grado es una prioridad para el futuro del Movimiento [Asambleas-RC-2018].
 
 ## Distinciones importantes
 

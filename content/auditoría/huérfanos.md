@@ -7,9 +7,9 @@ description: "Registro de wikilinks sin artículo propio en el wiki. Última act
 # Auditoría de wikilinks huérfanos
 
 > Generado originalmente: 2026-06-19
-> Última actualización: 2026-07-13 (tras creación de 30 artículos SmTh)
-> Total de wikilinks huérfanos actuales: 688
-> Artículos creados 2026-07-13: [[hilemorfismo]], [[imago_dei]], [[visio_beatifica]], [[ciencia_media]], [[potencia_absoluta]], [[potencia_ordenada]], [[gracia_capital]], [[cristo_cabeza]], [[conocimiento_de_cristo]], [[voluntad_humana_de_cristo]], [[autoridad_de_cristo]], [[muerte_espiritual]], [[limbo_de_los_padres]], [[forma]], [[miseria_humana]], [[conocimiento_sensitivo]], [[espiritualidad_e_inmortalidad_del_alma]], [[entendimiento_divino]], [[eternidad_divina]], [[inmanencia_divina]], [[poder_divino]], [[gobierno_del_mundo]], [[providencia_y_gobierno]], [[bondad_divina]], [[nociones_divinas]], [[omnipresencia]], [[verbo_mental]], [[segunda_persona_de_la_trinidad]], [[pena]], [[remordimiento]] (30 artículos)
+> Última actualización: 2026-07-15 (procesamiento LC-Wik completado — 12 docs, 32 conceptos nuevos)
+> Total de wikilinks huérfanos actuales: 795 - 5 = 790 (resueltos: [[nuestro_padre]], [[gobierno_congregacional]], [[captación_de_líderes]], [[mística_legionaria]], [[primer_grado_rc]]; truncado [[total_dep}}] corregido)
+> Artículos creados 2026-07-15 (LC-Wik): 12 documentos Esp-LC-wiki/documentos + 32 conceptos Esp-LC-wiki/ y wiki/conceptos/cuerpo_místico_de_cristo y unión_con_cristo
 
 ## Metodología
 
@@ -715,5 +715,21 @@ vs guion bajo, o sinónimo reconocido).
 | 686 | `[[la_alegria_cristiana]]` | 1 | Miscelánea (534) |
 | 687 | `[[mayordomia]]` | 1 | Miscelánea (534) |
 | 688 | `[[teodramatica]]` | 1 | Miscelánea (534) |
+| 689 | ~~[[nuestro_padre]]~~ | 1 | ✅ RESUELTO (Creado wiki/Espiritualidad_LC-wiki/nuestro_padre.md 2026-07-15) |
+| 690 | ~~[[gobierno_congregacional]]~~ | 1 | ✅ RESUELTO (Creado wiki/Espiritualidad_LC-wiki/gobierno_congregacional.md 2026-07-15) |
+| 691 | ~~[[captación_de_líderes]]~~ | 1 | ✅ RESUELTO (Creado wiki/Espiritualidad_LC-wiki/captación_de_líderes.md 2026-07-15) |
+| 692 | ~~[[mística_legionaria]]~~ | 1 | ✅ RESUELTO (Creado wiki/Espiritualidad_LC-wiki/mística_legionaria.md 2026-07-15) |
+| 693 | ~~[[primer_grado_rc]]~~ | 1 | ✅ RESUELTO (Creado wiki/Espiritualidad_LC-wiki/primer_grado_rc.md 2026-07-15) |
 
-**Total: 688 huérfanos**
+**Total: 790 huérfanos pendientes**
+
+## Resueltos en esta sesión (LC-Wik)
+
+| Wikilink | Resolución | Fecha |
+|----------|------------|-------|
+| [[nuestro_padre]] | Artículo creado en Esp-LC-wiki | 2026-07-15 |
+| [[gobierno_congregacional]] | Artículo creado en Esp-LC-wiki | 2026-07-15 |
+| [[captación_de_líderes]] | Artículo creado en Esp-LC-wiki | 2026-07-15 |
+| [[mística_legionaria]] | Artículo creado en Esp-LC-wiki | 2026-07-15 |
+| [[primer_grado_rc]] | Artículo creado en Esp-LC-wiki | 2026-07-15 |
+| `[[total_dep}}]]` | Corregido en constituciones_lc.md (removida referencia rota) | 2026-07-15 |

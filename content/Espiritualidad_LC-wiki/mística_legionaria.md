@@ -37,6 +37,8 @@ La mística se despliega en varios elementos constitutivos: la caridad como vín
 
 Los Principios y Normas de 1984 complementan las Constituciones explicitando la dimensión operativa de la mística. Definen el apostolado legionario como una extensión de la actividad pastoral de la Iglesia, animada por la caridad y orientada a la formación de líderes cristianos. El principio fundamental es que la actividad apostólica debe nacer de la vida interior: «antes de hacer hay que ser», de modo que la mística precede y alimenta la acción [Principios y Normas 1984, I].
 
+Los Principios y Normas también establecen que la mística legionaria se distingue por su carácter combatiendo y misionero. El legionario no es solo un contemplativo que busca a Dios en el silencio, sino un soldado de Cristo que sale al encuentro de las almas para llevarles el Evangelio. Esta dimensión militante, presente en el mismo nombre de «Legión», expresa la urgencia apostólica que anima la mística del instituto [Principios y Normas 1984, I].
+
 ### Según el Capítulo General Extraordinario (CapExt-2014)
 
 El Capítulo Extraordinario de 2014 abordó la mística legionaria en el contexto de la crisis institucional, en la sección sobre «Identidad carismática». El Capítulo reconoció que la contemplación del Corazón traspasado de Cristo es la fuente de la vocación legionario, y que el estilo de vida siempre debe partir de Cristo, de su Espíritu, de su palabra, de su Iglesia y de sus sacramentos [CapExt-2014, Identidad carismática, n. 5].

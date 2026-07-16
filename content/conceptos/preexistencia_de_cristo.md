@@ -41,6 +41,16 @@ El prólogo de Juan, mediante la revelación de la verdad sobre el Verbo, consti
 
 [CrSJP, Catequesis del 2 de septiembre de 1987, §§1-9; Catequesis del 3 de junio de 1987, §§3-8; Catequesis del 26 de agosto de 1987, §6]
 
+### Según Benedicto XVI (JdN_II)
+
+Benedicto XVI desarrolla la preexistencia de Cristo en relación con la pregunta de Pilato —«¿De dónde eres tú?» (Jn 19,9)— y con la oración sacerdotal de Jesús (Jn 17, capítulos 2 y 23 de *Jesús de Nazaret II*).
+
+**El «de dónde» de Jesús como pregunta sobre su origen eterno.** La pregunta de Pilato no es solo geográfica o biográfica: apunta al origen eterno de Jesús. Benedicto XVI subraya que Jesús viene del Padre, es el Hijo único enviado al mundo. «Yo para esto he nacido y para esto he venido al mundo, para ser testigo de la verdad» (Jn 18,37). La preexistencia de Cristo no es una doctrina abstracta, sino la garantía de que Jesús es el Revelador definitivo: solo el que viene del Padre puede dar testimonio del Padre.
+
+**La oración sacerdotal y la gloria preexistente.** En Jn 17, Jesús ora: «Ahora tú, Padre, glorifícame cerca de ti mismo con la gloria que tuve cerca de ti antes que el mundo existiese» (Jn 17,5). Benedicto XVI explica que esta oración no es nostalgia por una gloria perdida, sino la memoria del Hijo que, desde la eternidad, participa de la gloria del Padre. La preexistencia del Verbo es el fundamento de su capacidad de revelar a Dios: solo porque Él «está en el seno del Padre» (Jn 1,18) puede dar a conocer al Dios invisible.
+
+**El Verbo como Logos eterno.** Benedicto XVI subraya que el Prólogo de Juan no comienza con la Encarnación, sino con la preexistencia del Verbo: «En el principio era el Verbo, y el Verbo estaba en Dios, y el Verbo era Dios» (Jn 1,1). El Verbo no es una palabra que Dios comienza a decir en la Encarnación, sino el Hijo eterno que existe desde siempre. La Encarnación es el «hacerse carne» del Verbo que ya era.
+
 ## Distinciones importantes
 
 - **Preexistencia divina vs. existencia temporal**: la preexistencia de Cristo no es una existencia previa en el tiempo (como en algunas concepciones mitológicas o gnósticas), sino una existencia eterna en el orden divino. Cristo es eterno porque es Dios, y el tiempo es criatura. Por eso Jesús dice «antes que Abrahán naciese, YO SOY» — no dice «yo era» sino «YO SOY», usando el presente divino.

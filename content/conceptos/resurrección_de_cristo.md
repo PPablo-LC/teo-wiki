@@ -83,6 +83,20 @@ La incredulidad de Tomás provoca la confesión «Señor mío y Dios mío» y la
 
 Para Salvarte llama a la Resurrección «el dogma fundamental del cristianismo» (PS §35,1). Loring defiende su historicidad con múltiples argumentos: el sepulcro vacío (atestiguado por los cuatro evangelistas), las apariciones a más de quinientos testigos (1 Cor 15,4-8), y la transformación radical de los Apóstoles, que dieron su vida por esta verdad (PS §35,2). Distingue la Resurrección de Cristo de las resurrecciones milagrosas anteriores (Lázaro, hijo de la viuda de Naín): Cristo resucita para no morir jamás, con un cuerpo glorioso con propiedades distintas al cuerpo material (PS §35,2). Aporta también la prueba de la Sábana Santa de Turín como confirmación física del acontecimiento (PS §35,2).
 
+### Según Benedicto XVI (JdN_II)
+
+Benedicto XVI dedica el capítulo 9 de *Jesús de Nazaret II* a la Resurrección de Jesús de entre los muertos, culminando el recorrido por la Pasión.
+
+**La Resurrección como fundamento de la fe.** «Si Cristo no ha resucitado, nuestra predicación carece de sentido y vuestra fe lo mismo» (1 Co 15,14). San Pablo formula así la radicalidad de la Resurrección: sin ella, Jesús es una personalidad religiosa fallida; con ella, Él se convierte en el criterio del que podemos fiarnos. La Resurrección es un verdadero comienzo que cambia la situación del hombre en la historia.
+
+**Naturaleza de la Resurrección.** Jesús no retorna a la vida biológica normal (no es Lázaro revivido). No es un fantasma ni una experiencia mística. Es un encuentro con una persona viva que se acerca desde fuera. La Resurrección es un acontecimiento dentro de la historia que, sin embargo, quebranta el ámbito de la historia y va más allá de ella. Pablo distingue cuidadosamente sus experiencias místicas (elevación al tercer cielo, 2 Co 12,1-4) del encuentro con el Resucitado en el camino de Damasco (acontecimiento histórico).
+
+**El sepulcro vacío.** Los Evangelios atestiguan el sepulcro vacío como dato histórico: José de Arimatea sepulta a Jesús en su propio sepulcro nuevo; el domingo por la mañana las mujeres encuentran el sepulcro vacío. Benedicto XVI señala que el sepulcro vacío es uno de los hechos históricos mejor atestiguados.
+
+**Encuentro con el Resucitado.** Las apariciones de Jesús resucitado no son proyecciones psicológicas de los discípulos, sino encuentros reales con una persona viva que los convoca y los envía. La morosidad de los discípulos de Emaús (Lc 24,13-35) ilustra el proceso de conversión: Yahveh los guía para que pasen de la tristeza a la fe.
+
+**Cuerpo glorioso.** Jesús resucitó con un cuerpo transformado —el «cuerpo espiritual» (1 Co 15,44)— que conserva su identidad (señales de las llagas) pero posee cualidades nuevas: no está sujeto al espacio ni al tiempo ordinarios. Es el «primogénito de entre los muertos» (Col 1,18) y principio de la nueva creación.
+
 ## Distinciones importantes
 
 - Resurrección de Cristo (única y gloriosa) vs. resurrecciones milagrosas anteriores (vuelta a la vida mortal)

@@ -25,6 +25,10 @@ La captación de líderes se complementa con un proceso formativo específico: u
 
 El concepto de «captación de élites» ha sido objeto de reflexión crítica en el contexto de la purificación carismática. Se ha reconocido que, en algunas etapas, la búsqueda de líderes pudo haber priorizado la eficacia organizativa sobre la autenticidad de las relaciones y la libertad de las personas. La reconfiguración actual busca recuperar el equilibrio entre la visión estratégica y el respeto por la dignidad y la libertad de cada persona.
 
+La captación de líderes también plantea cuestiones teológicas sobre la relación entre la gracia libre de Dios y la iniciativa humana. El Regnum Christi sostiene que la captación es un medio al servicio de la llamada de Dios, no un sustituto de ella. La selección de candidatos se realiza en oración y discernimiento, buscando reconocer la obra del Espíritu en las personas y acompañar su proceso de crecimiento en la fe.
+
+El campo de acción de la captación se ha ampliado progresivamente desde las universidades y centros de estudios hasta los medios de comunicación, las organizaciones internacionales, el mundo empresarial y las instituciones políticas. Esta expansión refleja la convicción de que el Reino de Cristo debe llegar a todos los ámbitos de la vida social, y que la presencia de líderes cristianos en estos ámbitos es una condición necesaria para la transformación de la cultura.
+
 ## Perspectivas por fuente
 
 ### Según el Segundo Capítulo General de 1992 (informe de gobierno)

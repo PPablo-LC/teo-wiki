@@ -23,9 +23,19 @@ San Pablo enseña repetidamente que el cuerpo del cristiano es templo del Espír
 
 ### Según el Catecismo (CEC)
 El cuerpo del hombre participa de la dignidad de la «imagen de Dios» y está destinado a ser, en el Cuerpo de Cristo, el templo del Espíritu Santo (CEC §364). Por el Bautismo, el neófito es hecho «templo del Espíritu Santo» (CEC §1265). El fruto del Bautismo comprende que el bautizado es hecho templo del Espíritu Santo (CEC §1279). La Iglesia es «el proyecto visible del amor de Dios hacia la humanidad» que quiere que todo el género humano «se coedifique en un único templo del Espíritu Santo» (CEC §776). La pureza de corazón permite considerar el cuerpo humano como un templo del Espíritu Santo, una manifestación de la belleza divina (CEC §2519). La prostitución mancha el cuerpo, templo del Espíritu Santo (CEC §2355).
-
 ### Según Royo Marín (TPCr)
+
 «¿No sabéis que sois templo de Dios y que el Espíritu de Dios habita en vosotros?» (1 Cor 3,16-17) (TPCr, Primera Parte, Cap. VI). San Pablo no encontraba argumento más fuerte que este para apartar a los primeros cristianos de los desórdenes de la carne: «¿O no sabéis que vuestro cuerpo es templo del Espíritu Santo que está en vosotros y habéis recibido de Dios, y que, por tanto, no os pertenecéis?» (1 Cor 6,19) (TPCr, Tercera Parte, Libro I, Cap. II). Toda alma en gracia es templo de la Santísima Trinidad y sagrario del Espíritu Santo (TPCr, Tercera Parte, Libro II, Cap. I, n.306). El alma en gracia puede entrar en su interior y allí, en el santuario de su alma bautizada que es el templo del Espíritu Santo, encontrarse con Dios (TPCr, Tercera Parte, Libro II, Caps. IV-V). En la cumbre de la unión mística, el alma entra en ese «templo de Dios» donde solo Él y el alma se gozan con grandísimo silencio (TPCr, Tercera Parte, Libro II, Cap. III, refiriéndose a Santa Teresa).
+
+### Según Benedicto XVI (JdN_II)
+
+Benedicto XVI desarrolla el tema del templo en conexión con la purificación del templo de Jerusalén (cap. 2 de *Jesús de Nazaret II*): Jesús es el verdadero Templo, y la Iglesia —en cada creyente— es el templo del Espíritu Santo.
+
+**Jesús como el verdadero Templo.** La purificación del templo es el gesto por el cual Jesús se revela como el verdadero lugar de encuentro con Dios. «La Palabra se hizo carne y acampó entre nosotros» (Jn 1,14): en Jesús, Dios habita corporalmente entre los hombres. El templo de Jerusalén era figura; Jesús es la realidad.
+
+**Los cristianos como templos del Espíritu.** La Gloria de Dios, que llenaba el templo de Salomón (1 Re 8,10), se manifiesta ahora en Cristo y habita en cada creyente por el Espíritu Santo. Benedicto XVI subraya que la vida cristiana es la correspondencia a esta inhabitación: el cristiano es sagrario del Espíritu, llamado a la pureza y a la santidad.
+
+**El templo del Espíritu y la moral.** La conciencia de ser templo del Espíritu Santo es fundamento de la vida moral cristiana: el cuerpo no es un bien propio del que disponer libremente, sino el santuario donde Dios habita. Esta verdad es la raíz de la moral sexual y de la llamada a la pureza.
 
 ## Distinciones importantes
 

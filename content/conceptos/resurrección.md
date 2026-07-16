@@ -37,6 +37,18 @@ En Cristo resucitado, «el hombre está llamado a una vida nueva, la vida del hi
 
 La Resurrección como victoria sobre la muerte. La Resurrección de Cristo como garantía de nuestra resurrección. «Si Cristo no ha resucitado, vana es nuestra predicación y vana es vuestra fe» (1 Cor 15,14). [UDE, Cap. VI, XII]
 
+### Según Benedicto XVI (JdN_II)
+
+Benedicto XVI dedica el capítulo 41-43 de *Jesús de Nazaret II* a la Resurrección de Jesús de entre los muertos, culminando el recorrido pascual.
+
+**La Resurrección como fundamento de la fe.** «Si Cristo no ha resucitado, nuestra predicación carece de sentido y vuestra fe lo mismo» (1 Co 15,14s). San Pablo formula así la radicalidad de la Resurrección: sin ella, Jesús es una personalidad religiosa fallida; con ella, Él se convierte en el criterio del que podemos fiarnos. La Resurrección es un verdadero comienzo que cambia la situación del hombre en la historia.
+
+**Naturaleza de la Resurrección.** Jesús no retorna a la vida biológica normal (no es Lázaro revivido). No es un fantasma ni una experiencia mística. Es un encuentro con una persona viva que se acerca desde fuera. La Resurrección es un acontecimiento dentro de la historia que, sin embargo, quebranta el ámbito de la historia y va más allá de ella.
+
+**El sepulcro vacío.** Los Evangelios atestiguan el sepulcro vacío como dato histórico: José de Arimatea sepulta a Jesús en su propio sepulcro nuevo; el domingo por la mañana las mujeres encuentran el sepulcro vacío. Benedicto XVI señala que el sepulcro vacío es uno de los hechos históricos mejor atestiguados.
+
+**Encuentro con el Resucitado.** Las apariciones de Jesús resucitado no son proyecciones psicológicas de los discípulos, sino encuentros reales con una persona viva. La relatos de los discípulos de Emaús (Lc 24,13-35) ilustran el proceso de conversión: Yahveh los guía para que pasen de la tristeza a la fe.
+
 ## Distinciones importantes
 
 - No es una reanimación (como la de Lázaro, que volvió a morir)

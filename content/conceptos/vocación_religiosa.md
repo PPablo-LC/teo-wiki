@@ -29,7 +29,32 @@ Se relaciona con [[discernimiento_vocacional]], [[consejos_evangélicos]], [[vid
 
 [[vida_consagrada]], [[discernimiento_vocacional]], [[consejos_evangélicos]], [[vocación_cristiana]]
 
-## Referencias
+### Según fuentes históricas LC-Wik (1980-1998)
 
-- CEC 914–945
-- Código de Derecho Canónico, cánones 573–606
+#### I Capítulo General — Legionarios de Cristo (1980)
+
+Los números 94-98 del I Capítulo General abordan la estrategia vocacional de la Legión: la promoción de las vocaciones como tarea apostólica específica, la identificación de candidatos, y la creación de un clima comunitario favorable a las vocaciones. Se subraya que la formación del candidato debe ser integral y precedida por un periodo de discernimiento serio.
+
+#### II Capítulo General — Legionarios de Cristo (1992)
+
+El II Capítulo General desarrolla el crecimiento vocacional: se presenta al ECYD como «centro vocacional abierto» (open vocational center), es decir, como espacio donde adolescentes y jóvenes pueden conocer y vivir la espiritualidad legionaria sin necesidad de un compromiso inmediato, generando así una cantera de vocaciones. Los apostolados legionarios son descritos como «tanques de pesca» (fish tanks) para cosechar vocaciones: lugares donde los jóvenes entran en contacto con la obra y desde donde pueden ser llamados a la vida religiosa.
+
+#### Constituciones — Legionarios de Cristo (1984)
+
+Las Constituciones establecen los criterios de admisión y los impedimentos al ingreso en el noviciado. La admisión exige: (a) edad adecuada, (b) suficiente madurez humana, (c) libre y consciente petición, (d) idoneidad para vivir los consejos evangélicos. Los impedimentos pueden ser: (1) falta de libertad legítima (deudas pendientes, tutela, etc.), (2) inmadurez afectiva o psicológica suficiente, (3) motivos no conformes al espíritu del instituto (búsqueda honorífica o Social), (4) reticencia explícita ante algún consejo evangélico.
+
+### Según fuentes históricas LC-Wik (1980-1998)
+
+#### I Capítulo General — Legionarios de Cristo (1980)
+
+Los números 94-98 del I Capítulo General abordan la estrategia vocacional de la Legión: la promoción de las vocaciones como tarea apostólica específica, la identificación de candidatos, y la creación de un clima comunitario favorable a las vocaciones. Se subraya que la formación del candidato debe ser integral y precedida por un periodo de discernimiento serio.
+
+#### II Capítulo General — Legionarios de Cristo (1992)
+
+El II Capítulo General desarrolla el crecimiento vocacional: se presenta al ECYD como «centro vocacional abierto» (open vocational center), es decir, como espacio donde adolescentes y jóvenes pueden conocer y vivir la espiritualidad legionaria sin necesidad de un compromiso inmediato, generando así una cantera de vocaciones. Los apostolados legionarios son descritos como «tanques de pesca» (fish tanks) para cosechar vocaciones: lugares donde los jóvenes entran en contacto con la obra y desde donde pueden ser llamados a la vida religiosa.
+
+#### Constituciones — Legionarios de Cristo (1984)
+
+Las Constituciones establecen los criterios de admisión y los impedimentos al ingreso en el noviciado. La admisión exige: (a) edad adecuada, (b) suficiente madurez humana, (c) libre y consciente petición, (d) idoneidad para vivir los consejos evangélicos. Los impedimentos pueden ser: (1) falta de libertad legítima (deudas pendientes, tutela, etc.), (2) inmadurez afectiva o psicológica suficiente, (3) motivos no conformes al espíritu del instituto (búsqueda honorífica o Social), (4) reticencia explícita ante algún consejo evangélico.
+
+## Referencias

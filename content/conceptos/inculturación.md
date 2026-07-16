@@ -53,6 +53,10 @@ La doctrina social ofrece una visión integral del hombre que ilumina los autén
 - **Inculturación**: proceso más profundo por el cual el Evangelio asume y purifica los valores de una cultura, y la cultura se transforma a la luz del Evangelio
 - **Acomodación**: ajuste excesivo que diluye la identidad cristiana
 
+### Según la IGMR (2000)
+
+La inculturación litúrgica debe tomar su debido tiempo, de modo que las formas nuevas nazcan orgánicamente de las ya existentes, y no por invención arbitraria (§398). No se deben crear nuevos ritos propios, sino que las tradiciones de cada pueblo se integran de modo orgánico en las formas litúrgicas romanas ya existentes (§398). El desarrollo orgánico de la inculturación debe respetar siempre el carácter propio del Rito Romano, asegurando la unidad de la celebración y la fidelidad a la tradición viva de la Iglesia (§398).
+
 ## Relaciones doctrinales
 
 La inculturación es dimensión esencial de la [[evangelización]] y de la [[misión]] de la [[iglesia]]. Se relaciona con la [[cultura]] y con la unidad de la fe en la diversidad de expresiones culturales.

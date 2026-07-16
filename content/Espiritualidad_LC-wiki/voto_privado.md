@@ -25,6 +25,8 @@ El director general queda exempto del voto de no criticar, dado que su función 
 
 Los votos privados han sido objeto de un proceso de revisión en el contexto de la renovación institucional. El Capítulo General Extraordinario de 2014 y el Capítulo General de 2026 han examinado la pertinencia y la formulación de estos votos, reconociendo su importancia para la unidad pero también la necesidad de interpretarlos a la luz del derecho canónico y de la madurez institucional. La tendencia actual es mantener el espíritu de los votos — la pureza de intención y la protección de la unidad — flexibilizando su aplicación para responder a las necesidades concretas de la vida comunitaria y del gobierno.
 
+Los votos privados se insertan en un contexto más amplio de espiritualidad institucional que incluye la obediencia filial al Papa, el espíritu de cuerpo, la caridad fraterna y la entrega total a la misión. No son meras reglas disciplinarias sino expresiones jurídicas de una espiritualidad que busca la pureza de intención en el servicio y la cohesión en la acción apostólica. La historia de la Congregación muestra que estos votos han sido un factor significativo tanto de fortaleza (al proteger la unidad) como de tensión (al ser percibidos como restrictivos de la libertad de expresión).
+
 ## Perspectivas por fuente
 
 ### Según las Constituciones de 1984 (Art. 5, Cap. II)
@@ -38,6 +40,8 @@ Los excerptos de las Constituciones de 1998 mantienen la formulación de los vot
 ### Según los Estatutos del Regnum Christi (Art. 5)
 
 Los Estatutos del Regnum Christi recogen los votos específicos del tercer grado (Consagrados en el RC), que incluyen los votos de no buscar cargos, de no criticar y de espíritu de unidad. Estos votos se aplican a los miembros del tercer grado de manera análoga a como se aplican a los legionarios, subrayando su pertenencia al mismo espíritu carismático [Est. RC, Art. 5].
+
+Los Estatutos precisan que los votos del tercer grado se emiten como parte de la consagración, y que su observancia es una condición para la plena pertenencia al tercer grado. La violación de estos votos puede tener consecuencias canónicas, incluyendo la exclusión del tercer grado. Esta severidad subraya la importancia que el Movimiento otorga a estos votos como garantía de la unidad y de la autenticidad de la vida consagrada.
 
 ### Según el archivo LC-Wik (01, 07, 09, 10)
 

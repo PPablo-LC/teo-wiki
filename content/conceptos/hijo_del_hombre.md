@@ -9,7 +9,7 @@ description: "Título empleado por Jesús para designarse a sí mismo en los eva
 # Hijo del hombre
 
 > Área: Dogmática (Cristología)
-> Última actualización: 2026-06-22
+> Última actualización: 2026-07-15
 
 ## Definición
 
@@ -43,13 +43,40 @@ La catequesis del 29 de abril de 1987 («Jesús, el Hijo del hombre») constituy
 
 **Paralelismo con Ezequiel.** Así como Dios llama a Ezequiel «hijo de hombre» para hablar en su nombre (Ez 2,3-4; 12,2; 17,2), Jesús, como verdadero Hijo del hombre, es enviado a hablar en nombre de Dios. «Ha venido a buscar y salvar lo que estaba perdido» (Lc 19,10); «no ha venido a ser servido, sino a servir y a dar su vida en rescate por muchos» (Mc 10,45). Como representante de Dios y representante de los hombres, comparte su condición terrena para redimirlos (CrSJP, §5-6).
 
-**Pasión y glorificación.** Jesús predice tres veces su pasión como Hijo del hombre: «Es preciso que el Hijo del hombre padezca mucho, y que sea rechazado por los ancianos y los príncipes de los sacerdotes y los escribas, y que fuese muerto y resucitara después de tres días» (Mc 8,31; cf. 9,31; 10,33-34). A Nicodemo anuncia: «Así es preciso que sea levantado el Hijo del hombre» (Jn 3,14-15). Ante Caifás responde: «Veréis al Hijo del hombre sentado a la diestra del Poder y venir sobre las nubes del cielo» (Mc 14,62), haciendo eco de Dn 7,13 y del Sal 110 (CrSJP, §6-7).
+**Pasión y glorificación.** Jesús predice tres veces su pasión como Hijo del hombre: «Es preciso que el Hijo del hombre padezca mucho, y que sea rechazado por los ancianos y los príncipes de los sacerdotes y los escribas, y que fuese muerto y resucitara después de tres días» (Mc 8,31; cf. 9,31; 10,33-34). A Nicodemo anuncia: «Así es preciso que sea levantado el Hijo del hombre» (Jn 3,14-15). Ante Caifás responde: «Veréis al Hijo del hombre sentado a la diestra del Poder y venir sobre las nubes del cielo» (Mc 14,62), haciendo echo de Dn 7,13 y del Sal 110 (CrSJP, §6-7).
 
 **Elevación y gloria.** Jesús afirma que su «elevación» en la cruz constituye su glorificación: «Cuando levantéis en alto al Hijo del hombre, entonces conoceréis que yo soy» (Jn 8,28); «Es llegada la hora en que el Hijo del hombre será glorificado» (Jn 12,23). Al salir Judas del Cenáculo: «Ahora ha sido glorificado el Hijo del hombre» (Jn 13,31) (CrSJP, §8).
 
 **Perspectiva escatológica.** En la profecía sobre el fin del mundo: «Entonces verán al Hijo del hombre venir sobre las nubes con gran poder y majestad» (Mc 13,26). Jesús se pregunta: «Cuando venga el Hijo del hombre, ¿encontrará fe en la tierra?» (Lc 18,8) (CrSJP, §9).
 
 **Encarnación e identidad.** El título condensa el misterio de la encarnación: mediante María, su Madre, el Hijo de Dios es al mismo tiempo Hijo del hombre, hombre verdadero, «semejante a nosotros en todo, menos en el pecado» (GS 22; cf. Heb 4,15). En cuanto Hijo del hombre, Jesús realiza el plan mesiánico delineado en el AT, asumiendo el lugar que le corresponde entre los hombres como hombre verdadero (CrSJP, §10).
+
+### Según Benedicto XVI (JdN_I)
+
+Benedicto XVI dedica el capítulo 6 de *Jesús de Nazaret I* al título «Hijo del hombre» como autodesignación preferida de Jesús. Parte de la constatación de que el título no existía como designación mesiánica antes de Jesús: «En tiempos de Jesús, “Hijo del hombre” no existía como título» (JdN_I). Jesús lo emplea para ocultar y, al mismo tiempo, para ir haciendo accesible poco a poco el misterio de su persona y su misión.
+
+**Origen y significado del título.** En hebreo y arameo, «hijo del hombre» (*bar enosh*) significa simplemente «hombre». La expresividad del título reside en que Jesús, al usarlo, asume la condición humana en su totalidad, pero al mismo tiempo la trasciende, refiriéndose con ella a su misión divina. La relación entre «hombre» e «Hijo del hombre» se ve en Mc 2,27-28: «El sábado se hizo para el hombre, y no el hombre para el sábado; así que el Hijo del hombre es señor también del sábado». El Hijo del hombre es el hombre tal como debe ser en realidad: libre y capaz de usar rectamente la Ley desde la comunión con Dios.
+
+**Fundamento en Daniel 7.** Benedicto XVI desarrolla la visión de Dn 7,13-14, donde un «como Hijo de hombre» viene sobre las nubes, recibe el señorío, el honor y el reino eterno de manos del Anciano. Este «Hijo del hombre» se contrapone a las cuatro bestias que simbolizan los poderes humanos basados en la violencia. El reino del Hijo del hombre es un reino de humanidad que viene de Dios mismo. No es propiamente una figura individual en Daniel, sino la representación del reino de humanidad que Dios instaura. Jesús da a esta visión un contenido nuevo y personal: Él es el Hijo del hombre que sufre y glorifica a Dios.
+
+**Tres grupos de palabras sobre el Hijo del hombre.** Benedicto XVI sigue la distinción clásica:
+1. Palabras sobre el Hijo del hombre ha de venir (gloria, juicio): Mc 13,24-27; Mc 14,62.
+2. Palabras sobre su actuación terrena (señor del sábado, perdón de pecados): Mc 2,10.28.
+3. Palabras sobre su pasión y resurrección: Mc 8,31; 9,31; 10,33-34.
+
+La crítica moderna tiende a considerar solo las del primer grupo como auténticamente jesuánicas, pero Benedicto XVI argumenta que esta fragmentación no hace justicia a la unidad de la figura de Jesús: «Lo grandioso y provocativo aparece precisamente en los comienzos; la Iglesia naciente tuvo que ir reconociéndolo en toda su grandeza solo lentamente, comprendiéndolo poco a poco».
+
+**Síntesis de las tradiciones del AT.** Jesús funde en su autoconciencia como Hijo del hombre varias corrientes del AT:
+- Daniel: el Hijo del hombre que recibe el reino eterno.
+- Isaías 53: el Siervo de Yahveh que sufre y muere.
+- Salmo 110: el rey-sacerdote sentado a la derecha de Dios.
+- Sabiduría 2: el justo perseguido que se gloría de tener a Dios por Padre.
+
+El Hijo del hombre es a la vez juez universal y siervo sufriente, rey eterno y hombre que no tiene donde reclinar la cabeza. Esta síntesis es la originalidad inédita de Jesús.
+
+**Pasión y resurrección como glorificación.** «El Hijo del hombre no ha venido para que le sirvan, sino para servir y dar su vida en rescate por muchos» (Mc 10,45). Benedicto XVI subraya la unión inseparable entre kénosis y exaltación: la pasión es el camino por el cual el Hijo del hombre alcanza la gloria. La parábola del juicio final (Mt 25,31-46) identifica al Hijo del hombre con los hambrientos, sedientos, encarcelados: esta identificación se hizo realidad en la Encarnación.
+
+**Universalidad de la misión.** El Hijo del hombre reúne en sí a «todos los hijos de Dios dispersos» (Jn 11,52). No es solo una figura individual, sino que su ser «por muchos» lo hace cabeza de una nueva humanidad: «Viene de Dios y fundamenta así el verdadero ser del hombre... No es solamente una persona, sino que nos hace a todos uno en Él».
 
 ## Distinciones importantes
 

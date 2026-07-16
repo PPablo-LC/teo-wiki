@@ -33,6 +33,10 @@ No hay un tratamiento específico de la Liturgia de la Palabra en la TPCr. La or
 
 Thomas O'Loughlin (2017, cap. 3, Principio I — Honestidad) señala un problema concreto de la Liturgia de la Palabra: hablamos mucho de la importancia de «escuchar la Palabra del Señor» pero luego, en la práctica, «nos aseguramos de que la Liturgia de la Palabra se haga rápidamente, y tememos los momentos de silencio como si fueran meras demoras». Si lo que decimos al proclamar la Palabra es importante, las pausas, el silencio reflexivo y el tiempo para que cada bautizado haga suya la lectura deberían ser parte natural del rito. Critica la «minilectura-homilía» que se lanza inmediatamente sobre la lectura sin permitir tiempo de rumiar lo escuchado: «decir "Palabra de Dios" y al instante pasar a otra cosa no concuerda con el honor que tales lecturas demandan» (Rites_wrongs-Liturgia, cap. 3). Conecta esta incoherencia con su crítica al *clutter* litúrgico: la Liturgia de la Palabra corre el riesgo de ser percibida como trámite antes de «lo importante» (la Eucaristía), cuando en realidad ambas partes de la Misa son constitutivas.
 
+### Según la IGMR (2000)
+
+Las lecturas de la Sagrada Escritura deben proclamarse desde el ambón, que tiene dignidad singular en la celebración, ya que sobre él se deposita el libro de las lecturas (§57-58). No se deben leer del ambón lecturas que no provengan de la Sagrada Escritura, ni siquiera seculares (§57). El Salmo Responsorial debe cantarse siempre que sea posible, preferentemente del leccionario, y puede alternarse con el pueblo o cantarse por un salmista (§61). Después de cada lectura debe guardarse un silencio sagrado para meditar lo escuchado, de un carácter que resulte adecuado al tipo de lectura (§56).
+
 ## Distinciones importantes
 
 - Liturgia de la Palabra vs. Liturgia Eucarística (dos partes de la Misa)

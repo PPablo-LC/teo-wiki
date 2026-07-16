@@ -39,6 +39,18 @@ Santo Tomás de Aquino trata la sepultura de Cristo en la IIIª q.51, en cuatro 
 
 [SmTh IIIª q.51 a.1-4]
 
+### Según Benedicto XVI (JdN_II)
+
+Benedicto XVI dedica el capítulo 38 de *Jesús de Nazaret II* a la crucifixión y sepultura, como parte integral del relato pascual.
+
+**Palabra y acontecimiento.** La Pasión es el momento en que la Palabra y el acontecimiento se compenetran mutuamente: los hechos de la Pasión están repletos de sentido, y al mismo tiempo lo que era solo palabra en las Escrituras se hace realidad. Los cuatro evangelistas sitúan todos los detalles de la crucifixión y sepultura en el horizonte de los Salmos y los Profetas.
+
+**El sepulcro vacío.** José de Arimatea, discípulo oculto, pide el cuerpo de Jesús a Pilato y lo sepulta en su propio sepulcro nuevo. El sepulcro vacío es el primer signo pascual atestiguado: las mujeres lo encuentran vacío al amanecer. Benedicto XVI señala que el sepulcro vacío es uno de los hechos mejor documentados de la Pasión, pero que por sí solo no prueba la Resurrección: requiere la interpretación de las apariciones.
+
+**La Sepultura como parte del misterio pascual.** La sepultura no es un mero trámite funerario, sino que participa de la eficacia salvífica de la muerte de Cristo: «Cristo, que conoció la corrupción del sepulcro, no la experimentó en su cuerpo, porque éste no podía ver la corrupción» (Sal 15,10). El cuerpo de Cristo no experimentó corrupción alguna, conservado por el poder divino.
+
+**Piedra removida y mensaje del ángel.** La gran piedra que cierra el sepulcro no es滚动 (rodada) por los discípulos, sino por un ángel. Su remoción es signo de la victoria sobre la muerte: el sepulcro vacío es la respuesta de Dios a la muerte de Cristo. La guardia romana y el sellado de la piedra (Mt 27,62-66) atestiguan la imposibilidad del robo del cuerpo, confirmando indirectamente la realidad del sepulcro vacío.
+
 ## Distinciones importantes
 
 - Sepultura de Cristo vs. sepultura de los demás hombres: el cuerpo de Cristo no experimentó corrupción por el poder divino

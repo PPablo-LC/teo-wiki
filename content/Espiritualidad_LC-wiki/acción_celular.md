@@ -25,6 +25,10 @@ El proceso de incorporación sigue una secuencia bien definida: amistad → amis
 
 La acción celular tiene también una dimensión espiritual: cada célula es un lugar de oración compartida, de discernimiento comunitario y de crecimiento en la fe. La estructura celular no es solo organizativa sino también espiritual, pues crea las condiciones para que la gracia actúe en el corazón de las personas a través de la relación fraterna. La célula funciona como una pequeña comunidad de fe que, desde la intimidad de la relación personal, proyecta la acción apostólica hacia el exterior.
 
+La acción celular se complementa con los equipos, que agrupan varias células bajo la coordinación de un responsable. Los equipos permiten la articulación de esfuerzos y la planificación estratégica del apostolado, manteniendo al mismo tiempo la cercanía personal que caracteriza a la célula. La red, por su parte, agrupa equipos y permite la movilización de grandes sectores para iniciativas apostólicas de envergadura.
+
+La eficacia de la acción celular depende de la calidad de las relaciones personales que la sustentan. Cuando la relación se debilita — por instrumentalización, por distanciamiento o por falta de autenticidad — la acción celular pierde su eficacia y puede convertirse en un mecanismo vacío. Por eso, la formación de los miembros en la autenticidad relacional es una condición necesaria para que la acción celular sea genuinamente apostólica y no meramente organizativa.
+
 ## Perspectivas por fuente
 
 ### Según los Estatutos del Regnum Christi (Part Two, Ch. VI)

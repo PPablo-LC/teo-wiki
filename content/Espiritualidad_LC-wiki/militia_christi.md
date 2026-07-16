@@ -59,6 +59,22 @@ En su carta del 19 de octubre de 2010 (AntDp-2015, `03_primera_parte.md:233-349`
 
 La militia Christi, según la síntesis de la Antología, no es un «activismo» ni un «militarismo», sino un servicio apostólico decidido y constante al Reino de Cristo.
 
+### Según los documentos históricos LC-Wik (archivos 03, 09)
+
+Los documentos históricos constitucionales y normativos de la Legión de Cristo testimonian la **concreción litúrgica y ascética** de la militia Christi en el modo de vida del legionario, más allá de la mera formulación teórica.
+
+**La doble dimensión contemplativa y conquistadora.** Las Constituciones de 1984 (Parte Tercera, Capítulo I) definen de modo explícito la militia Christi como «contemplativa y conquistadora» [LC-Wik, archivo 03], fórmula que contiene la tensión dialéctica central de la espiritualidad legionaria: la militancia no es renuncia a la contemplación, sino su fruto; ni es conquista mundana del espacio social, sino conquista interior de la propia conciencia para la gloria de Dios. Los números 222-229 de las Constituciones desarrollan esta doble dimensión como el «modo de ser legionario».
+
+**La oración discursivo-afectiva como forma de la militancia.** Principios y Normas 1984 (Parte Tercera, n. 139) especifica que la militancia se expresa concretamente en la «oración discursivo-afectiva»: la oración no es un mero acto de culto, sino un acto apostólico por el cual el legionario se configura en Cristo para luego configurar a otros. Unidas a esta forma de oración, las virtudes específicas de la discreción y la reserva constituyen el hábito ascético del «soldado de Cristo»: no hablar de sí, no llamar la atención, dejar que Cristo sea el único centro visible.
+
+**«Adveniat Regnum Tuum» como expresión de la militancia.** El lema del Movimiento Regnum Christi, «Adveniat Regnum Tuum», constituye la formulación oracional de la militia Christi: la militancia consiste en hacer presente el Reino mediante la oración perseverante, no por la imposición de estructuras. Las Constituciones sostienen que esta conquista es «paciente y orante», no triunfalista: el Reino crece como el grano de mostaza (Mc 4,30-32), no por el despliegue de fuerzas sino por la entrega silenciosa.
+
+**El riesgo de reducir la militia Christi a activismo.** Las propias Constituciones de 1984 establecen remedios estructurales contra esta reducción: la primacía de la Liturgia de las Horas, el Rosario, la meditación personal y la adoración eucarística en la jornada tipo del legionario. La jornada está diseñada de modo que la oración precede a toda acción apostólica, de modo que la militancia no sea un nombre vacío sino la consecuencia de la contemplación.
+
+**Las formas concretas de la militancia en la vida legionaria.** La identificación con Cristo pobre, casto y obediente (Constituciones 1984) es la vía ascética de la militancia. Las Normas de Urbanidad y los documentos complementarios de vida cotidiana expresan la misma lógica: la postura recta y estable en la celebración litúrgica y en la vida comunitaria como expresión física de la vigilancia espiritual; el lenguaje limpio y la ausencia de bromas vulgares como disciplina del corazón del «soldado de Cristo». El legionario, como el atleta de 1 Co 9,24-27, domina su cuerpo para no ser «descalificado» después de haber predicado a otros.
+
+**El Voto Privado de no-ambición como mecanismo de la militia Christi.** El Voto Privado de no-ambición, originalmente protector de la pureza de intención apostólica, interpretado en el contexto de la militia Christi significa que el legionario lucha no por su propio prestigio sino únicamente por la gloria de Cristo y la extensión de su Reino. La pureza de intención es el criterio que distingue la militancia evangélica de la ambición mundana.
+
 ## Distinciones importantes
 
 - Militia Christi evangélica vs. militancia mundana: la primera es servicio humilde; la segunda, búsqueda de poder.
@@ -85,6 +101,9 @@ Se relaciona con [[cristocentrismo_legionario]], [[cristo]], [[espíritu_santo]]
 
 - [AntDp-2015, `03_primera_parte.md:23-69` (Comunicado del 1-V-2010); `03_primera_parte.md:144-184` (primera carta del Card. De Paolis); `03_primera_parte.md:233-349` (carta del 19-X-2010)]
 
+- [Constituciones de la Legión de Cristo (1984), Parte Tercera, Capítulo I, nn. 222-229 — «contemplativa y conquistadora»]
+- [Principios y Normas de la Legión de Cristo (1984), Parte Tercera, n. 139 — oración discursivo-afectiva y virtudes de discreción y reserva]
+- [Normas de Urbanidad (Legionarios de Cristo, 1984) — disciplina corporal y lenguaje como expresión de vigilancia espiritual]
 - [CVV-2017, 108-109]
 - [CapGral-2026, n. 58]
 - [CapGral-2026, «La misión: Caritas Christi urget nos», n. 2]
@@ -92,3 +111,5 @@ Se relaciona con [[cristocentrismo_legionario]], [[cristo]], [[espíritu_santo]]
 - [CapGral-2026, Homilía conclusiva]
 - [CapGral-2026, n. 71, Compendio]
 - [2 Tm 2,3-4]
+- [1 Co 9,24-27]
+- [Mc 4,30-32]

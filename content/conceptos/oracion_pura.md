@@ -34,6 +34,10 @@ La oración pura se alcanza mediante la purificación del corazón, la mortifica
 
 [ColCas-I, Conferencia IX]
 
+### Según Benedicto XVI (JdN_II)
+
+Benedicto XVI no trata directamente la «oración pura» como categoría mística, pero su comentario a la oración de Jesús en Getsemaní y en el Monte de los Olivos (Jn 17, capítulos 29-33 de *Jesús de Nazaret II*) es un modelo de oración auténtica: la elevación del alma a Dios en la más completa entrega filial. «Abbá, Padre» es la expresión más pura de la relación filial con Dios, sin intermediarios ni conceptos. La oración de Jesús en Getsemaní —«Padre, si es posible, pase de mí este cáliz; pero no se haga mi voluntad, sino la tuya»— es la suma de la oración pura: despojada de toda pretensión, centrada exclusivamente en la voluntad del Padre, asumiendo la verdad humana del que sufre pero abandonándose al amor divino.
+
 ## Distinciones importantes
 
 - **Oración pura vs. oración vocal:** La oración vocal usa palabras; la oración pura las trasciende.

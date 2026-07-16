@@ -148,6 +148,24 @@ Juan Pablo II desarrolla la presencia de María al pie de la Cruz en el contexto
 
 [VocTeoBib, «María»] El artículo recorre los principales títulos marianos del NT. María aparece como **Hija de Sión** (Lc 1,26-56): el «regocíjate» del ángel evoca Sof 3,14-17 y Zac 9,9, y ella recibe en nombre del pueblo el anuncio de la salvación. Es la **Virgen** que concibe por obra del Espíritu Santo (Lc 1,26-38; Mt 1,18-23); su virginidad manifiesta una consagración exclusiva a Dios. Es la **Madre** de Jesús, maternidad voluntaria que se consuma en la cruz (Jn 19,25ss), donde María es constituida madre del discípulo y, en él, de la Iglesia. Es la **primera creyente**, cuyo itinerario de fe —turbación, silencio, meditación— es modelo para todo fiel. La relación María-Iglesia es profunda: María es tipo de la Iglesia, Virgen y Madre, Nueva Eva asociada al Nuevo Adán.
 
+### Según Benedicto XVI (JdN_III)
+
+Benedicto XVI profundiza en la figura de María a partir de los relatos lucanos de la infancia, subrayando su centralidad en el plan salvífico y su relación con la Hija de Sión y la Alianza.
+
+**María, Hija de Sión y Arca de la Alianza.** El saludo del ángel a María, *chaîre* («¡Alégrate!»), retoma la profecía de Sofonías 3,14-17 dirigida a la Hija de Sión: «Alégrate, hija de Sión… El Señor, tu Dios, está en medio de ti». María es la nueva Sion, el lugar de la inhabitación de Dios: «María se convierte en el Arca de la Alianza, el lugar de una auténtica inhabitación del Señor» (JdN_III).
+
+**«Llena de gracia».** El saludo *kecharitoméne* («llena de gracia») une en griego la gracia (*cháris*) y la alegría (*chará*), como don propio del Espíritu Santo en la Anunciación. La encarnación se inserta en la teología del templo: la sombra del Altísimo que cubre a María recuerda la *shekiná* y la nube que cubría el Arca de la Alianza.
+
+**El nombre Jesús.** El ángel indica a María que el niño se llamará Jesús (*Jeshua*): el nombre contiene el tetragrama divino, significando «YHWH es salvación». Con ello se cumple la revelación del nombre de Dios iniciada en la zarza ardiente (Ex 3,14): «El Dios que es, es el Dios presente y salvador» (JdN_III).
+
+**La fe de María.** La respuesta de María, «Hágase en mí según tu palabra» (Lc 1,38), es el momento de la «obediencia libre, humilde y magnánima» por la que la Palabra entra en ella. Benedicto XVI retoma la imagen de Bernardo de Claraval: el cielo y la tierra contienen el aliento ante el «sí» de María, cuyo «sí» hace posible la redención del hombre creado libre. María «conserva todas estas cosas en su corazón» (Lc 2,19.51): es imagen de la Iglesia que acoge y medita la Palabra.
+
+**La maternidad y la cruz.** El anciano Simeón anuncia a María: «Y a ti, una espada te traspasará el alma» (Lc 2,35). Benedicto XVI explica que la teología de la gloria está indisolublemente unida a la teología de la cruz; la compasión de María es «verdadera compasión, libre de sentimentalismo», acogiendo el dolor ajeno como sufrimiento propio. La *Mater Dolorosa* es prototipo del sentimiento de fondo de la fe cristiana.
+
+**La virginidad como don.** Benedicto XVI insiste en que la respuesta de María a la pregunta «¿Cómo será eso, pues no conozco varón?» (Lc 1,34) no debe entenderse como simple construcción literaria, sino como expresión del misterio de la concepción virginal. Ella no duda de la promesa, sino que pregunta por su modo de cumplimiento: mediante la sombra del Espíritu Santo. El nacimiento virginal no es un mito ni una alegoría, sino un hecho acontecido en la historia, «historia real, aconteci-da, historia ciertamente interpretada y comprendida sobre la base de la Palabra de Dios» (JdN_III).
+
+[JdN_III, cap. II]
+
 ## Distinciones importantes
 
 - **Maternidad divina**: María es Madre de Dios (Theotókos), verdadera Madre de Jesús, que es verdadero Dios y verdadero hombre.

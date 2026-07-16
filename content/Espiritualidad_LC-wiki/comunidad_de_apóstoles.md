@@ -49,6 +49,22 @@ El [[encuentro_con_cristo|Encuentro con Cristo]] es la actividad de equipo donde
 
 El Encuentro ayuda a generar «una comunidad de apóstoles que se dona a la Iglesia y al mundo como testimonio operante de la novedad de vida que Cristo ha traído y el Espíritu actúa». La misión comunitaria es el horizonte que enmarca la vida cotidiana y apostólica de los miembros, y el Encuentro es el cauce para discernir colectivamente cómo secundar la acción de Dios [RC-EcC-2022, Parte III, «Misión comunitaria»].
 
+### Según los Capítulos Generales y Estatutos (LC-Wik, archivos 05, 07)
+
+Los documentos históricos del movimiento legonario identifican la **comunidad de apóstoles** como la identidad estructural nuclear del Regnum Christi, formulada de modo explícito a partir del II CG 1992 y codificada posteriormente en los Estatutos de la Federación Regnum Christi.
+
+**La identidad inseparable de RC y la Legión.** El II CG 1992 (Comuniqué a superiores y miembros) declara que el Regnum Christi y la Legión de Cristo son «inseparables en los planes de Dios», lo cual significa que la comunidad de apóstoles no es meramente un agregado de movimientos, sino una realidad carismática unitaria con dos expresiones: la consagrada (Legionarios de Cristo) y la laical (miembros del Regnum Christi en sus distintos grados).
+
+**Estructura fundamental del RC.** Los Estatutos de la Federación Regnum Christi (Parte Segunda, Capítulo VI) definen la comunidad de apóstoles como la estructura fundante: la célula básica está compuesta de grupos de tres a cinco personas que viven la amistad cristiana, se reúnen en el Encuentro y comparten un proyecto apostólico común. «El Regnum Christi es una comunidad de apóstoles que forma comunidades de apóstoles» (cf. RC-Inst_12, prefigurado ya en la propia redacción estatutaria de la Federación).
+
+**Los cuatro pilares de la formación aplicados a la comunidad apostólica.** Los Estatutos y documentos de gobierno complementarios desarrollan los cuatro pilares formativos en clave comunitaria: la formación espiritual (oración, sacramentos, vida de piedad), la formación intelectual (estudio de la doctrina, formación doctrinal sistemática), la formación humana (desarrollo de la amistad cristiana, corrección fraterna, vida comunitaria) y la formación apostólica (participación en la misión, proyectos compartidos, anuncio del Evangelio). Ningún pilar puede subsistir aisladamente sin riesgo de deformación del ideal comunitario.
+
+**La dimensión laical de la comunidad apostólica.** Los Estatutos incorporan de modo explícito las tres categorías de miembros del Regnum Christi —consagrados (Legionarios de Cristo y las consagradas del RC), miembros comprometidos casados (2.° grado) y miembros básicos (1.° grado)— como llamados a la misma misión apostólica. La comunidad de apóstoles incluye, por tanto, a todos los grados en una estructura de corresponsabilidad misionera, sin que la consagración configure un estatus superior en la tarea evangelizadora.
+
+**ECYD como rama juvenil de la comunidad apostólica.** Los Estatutos reconocen formalmente el ECYD (Equipos de la Juventud de Cristo) como expresión juvenil de la comunidad de apóstoles: jóvenes que, en el contexto del RC, reciben formación cristiana, viven la amistad y se preparan para el envío apostólico. El ECYD integra a adolescentes y jóvenes en la vida comunitaria del Regnum Christi, prolongando la llamada a «estar con Él y ser enviados».
+
+**La tensión entre el ideal y la realidad histórica.** La formulación estatutaria de la comunidad de apóstoles como estructura operativa convive con la tensión documentada en los propios documentos de gobierno: en numerosas localidades, la ideal comunión apostólica dio paso a estructuras institucionales rígidas, centradas en la ejecución de programas y actividades más que en la formación integral de comunidades que vivieran la amistad cristiana como presupuesto de toda evangelización.
+
 ## Distinciones importantes
 
 - Comunidad de apóstoles ≠ grupo de interés u ONG: lo que une es el carisma común y la llamada de Cristo
@@ -83,5 +99,7 @@ Se relaciona con [[cristocentrismo_legionario]], [[envío_apostólico]], [[caris
 - [RC-Inst_12, Parte II, §II, Comunidades que comparten una misión]
 - [RC-Inst_12, Parte II, §III, Familia espiritual y cuerpo apostólico]
 - [RC-Inst_12, Parte II, §III, Las comunidades que surgen en el Regnum Christi]
-- [EFRC, n. 54, 1]
+- [EFRC, n. 54, 1 — definición de localidad como comunidad de apóstoles]
+- [EFRC, Parte Segunda, Capítulo VI — estructura de la comunidad apostólica]
+- [II CG 1992, Communiqué a superiores y miembros — Regnum Christi y Legión «inseparables en los planes de Dios»]
 - [RC-EcC-2022, Parte III, «Fraternidad cristiana», «Misión comunitaria»]

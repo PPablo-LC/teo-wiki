@@ -66,6 +66,9 @@ El apostolado corresponde propiamente al Romano Pontífice y a los obispos, suce
 
 [TPCr, Tercera Parte, Libro II, Cap. V, Art. 4; TPCr, Tercera Parte, Libro III]
 
+### Según la IGMR (2000)
+
+El obispo es centro de la celebración litúrgica por excelencia: donde está el obispo, allí está la Iglesia, y donde está la Iglesia se celebra la Eucaristía con mayor plenitud (§22). En las liturgias solemnes, el obispo bendice al pueblo con el Evangeliario llevado en procesión (§175). En las Plegarias Eucarísticas, el obispo inserta las intercesiones propias de su ministerio pastoral, recordando a los presbíteros, al clero y a la grey que le ha sido encomendada (§149).
 
 ## Distinciones importantes
 

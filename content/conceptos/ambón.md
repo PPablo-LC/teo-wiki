@@ -31,6 +31,12 @@ Para pronunciar las moniciones, el comentarista permanece de pie en un lugar ade
 
 En las misas con un solo ministro, las lecturas se proclaman desde el ambón en cuanto sea posible [GLit-2024, n. 140, citando OGMR 260].
 
+## Perspectivas por fuente
+
+### Según la IGMR (2000)
+
+El ambón se reserva para la proclamación de la Palabra de Dios, la homilía y la oración universal; solo el ministro de la Palabra debe acercarse al ambón para proclamar las lecturas, el salmo responsorial o el Evangelio (§309). Las lecturas bíblicas deben proclamarse desde el ambón con la mayor frecuencia posible, incluso en Misas con un solo ministro (§58, §309).
+
 ## Ver también
 [[liturgia_de_la_palabra]], [[lector]], [[homilía]], [[presbiterio]], [[evangelio]]
 

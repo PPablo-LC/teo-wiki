@@ -33,6 +33,16 @@ A la luz de la Pascua, la Iglesia atribuye a Jesús el título de Mesías-Cristo
 
 Juan Pablo II dedica las primeras catequesis a Jesús como Mesías («Cristo», ungido). El Mesías esperado por Israel es aquel en quien convergen las tres unciones del AT: la de rey, la de sacerdote y la de profeta. Jesús cumple las profecías mesiánicas: es hijo de David, ungido por el Espíritu Santo desde su concepción, y realiza las obras mesiánicas —curar, expulsar demonios, predicar la Buena Nueva a los pobres—. Sin embargo, Jesús purifica las expectativas mesiánicas de todo nacionalismo político: su mesianismo pasa por la cruz como Siervo sufriente (CJeS, primera parte: identidad de Cristo). La confesión de Pedro en Cesarea de Filipo —«Tú eres el Mesías»— es el punto culminante de la revelación de la identidad de Jesús. JPII une explícitamente el título Mesías (Cristo) a los otros títulos cristológicos: Hijo de Dios, Siervo de Yahvé, Hijo del hombre, Señor (CJeS, primera parte: identidad de Cristo).
 
+### Según Benedicto XVI (JdN_II)
+
+Benedicto XVI aborda la cuestión mesiánica en el contexto de la entrada en Jerusalén y de las controversias finales de la vida pública de Jesús.
+
+**Entrada mesiánica en Jerusalén (cap. 2).** La entrada en Jerusalén (Domingo de Ramos) es un gesto cargado de simbolismo mesiánico: los discípulos aclaman a Jesús como el Hijo de David esperado. Benedicto XVI subraya que Jesús no rehúye el título mesiánico, pero lo purifica de toda expectativa política: «Mi Reino no es de aquí» (Jn 18,36). Su mesianismo pasa por la cruz, no por la victoria terrenal.
+
+**El Mesías interrogado por Pilato.** La pregunta de Pilato —«¿Eres tú el Rey de los judíos?»— y la respuesta de Jesús —«Tú lo has dicho»— sitúan el mesianismo de Jesús en el plano de la verdad y del servicio, no del poder. Benedicto XVI destaca que Jesús es Rey, pero su realeza es la del Siervo que da su vida por todos.
+
+**Mesianismo y crucifixión.** Para Benedicto XVI, el mesianismo de Jesús se consuma en la cruz: es en la entrega y el abandono donde Jesús manifiesta quién es verdaderamente. La confesión del centurión —«Verdaderamente este hombre era Hijo de Dios» (Mc 15,39)— es la primera confesión del mesianismo de Jesús desde la cruz.
+
 ## Distinciones importantes
 
 - **Mesías davídico vs. Mesías sacerdotal**: el judaísmo tardío esperaba a veces dos mesías; Jesús unifica ambas funciones en su persona

@@ -25,6 +25,10 @@ Este principio se articula con la estructura de los tres grados del Regnum Chris
 
 El principio de «hacer, hacer hacer, dejar hacer» tiene también una dimensión espiritual: refleja la pedagogía de Dios, que actúa en la historia de manera progresiva, formando gradualmente a sus colaboradores para que asuman responsabilidades crecientes. Así como Dios no impone sino que propone y espera la respuesta libre, así también el Regnum Christi busca formar personas capaces de actuar por iniciativa propia, animadas por el mismo espíritu que dio origen al Movimiento.
 
+La aplicación de este principio requiere un discernimiento constante: delegar demasiado puede generar dispersión y pérdida de cohesión; delegar demasiado poco puede generar dependencia y estancamiento. El equilibrio entre delegación y supervisión es un desafío de gobierno que se adapta a las circunstancias de cada comunidad, de cada ministerio y de cada etapa del Movimiento.
+
+El principio de «hacer, hacer hacer, dejar hacer» tiene también implicaciones para la formación. Los formadores deben preparar a los miembros no solo para ejecutar tareas sino para tomar iniciativas propias, no solo para obedecer órdenes sino para discernir por sí mismos la voluntad de Dios. La formación en la autonomía es un proceso gradual que requiere paciencia, confianza y flexibilidad por parte de los formadores.
+
 ## Perspectivas por fuente
 
 ### Según los Estatutos del Regnum Christi (Part Two)

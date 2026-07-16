@@ -78,6 +78,28 @@ El Catecismo trata la Natividad en el contexto del misterio de la Encarnacion (C
 
 La Vida de Jesús (VJ) narra la Natividad con profundidad teológica (Cap. I). El nacimiento en Belén, en la pobreza del establo, revela las características del reino mesiánico: un reino sin honores ni poderes terrenos. María da a luz a su hijo primogénito, lo envuelve en pañales y lo acuesta en un pesebre — «una cuna improvisada que contrasta con la dignidad del Hijo del Altísimo». El Evangelio explica que «no había sitio para ellos en el alojamiento», anticipando los rechazos que Jesús sufriría. El nacimiento de Jesús es el centro del tiempo, la medida fundamental del tiempo humano. Cristo es el Alfa y la Omega, el Principio y el Fin. El Niño indefenso es a la vez el Poder que supera todo cuanto el hombre es.
 
+### Según la Vida de Jesús (VJ)
+
+La Vida de Jesús (VJ) narra la Natividad con profundidad teológica (Cap. I). El nacimiento en Belén, en la pobreza del establo, revela las características del reino mesiánico: un reino sin honores ni poderes terrenos. María da a luz a su hijo primogénito, lo envuelve en pañales y lo acuesta en un pesebre — «una cuna improvisada que contrasta con la dignidad del Hijo del Altísimo». El Evangelio explica que «no había sitio para ellos en el alojamiento», anticipando los rechazos que Jesús sufriría. El nacimiento de Jesús es el centro del tiempo, la medida fundamental del tiempo humano. Cristo es el Alfa y la Omega, el Principio y el Fin. El Niño indefenso es a la vez el Poder que supera todo cuanto el hombre es.
+
+### Según Benedicto XVI (JdN_III)
+
+Benedicto XVI profundiza en el nacimiento de Jesús en Belén desde los relatos de Mateo y Lucas, articulando su historicidad, su contexto universal y su significado teológico.
+
+**El decreto de Augusto y el censo.** Lucas introduce el nacimiento en Belén mediante el decreto del emperador Augusto, que ordena un censo del mundo entero. Sin saberlo, el emperador contribuye al cumplimiento de la promesa de Miqueas 5,1-3: Jesús nace en la ciudad de David. La historia del Imperio romano y la historia de la salvación se compenetran: «Dios, que es el Dios de Israel y de todos los pueblos, se demuestra como el verdadero guía de toda historia» (JdN_III). La fecha histórica del nacimiento de Jesús se sitúa alrededor del año 7-6 a.C., antes de la muerte de Herodes el Grande.
+
+**No había lugar en la posada.** «No tenían sitio en la posada» (Lc 2,7) es paralelo interior del Prólogo de Juan: «Vino a su casa y los suyos no lo recibieron» (Jn 1,11). Jesús nace fuera de la ciudad, como morirá fuera de sus murallas (Hb 13,12). La pobreza del nacimiento anuncia los valores del Reino: «Él no pertenece a ese ambiente que según el mundo es importante y poderoso. Y sin embargo, precisamente este hombre irrelevante y sin poder se revela como el realmente Poderoso» (JdN_III).
+
+**El pesebre y la gruta.** El niño es acostado en un pesebre, probablemente en una gruta, según la tradición local betlemita atestiguada ya por Justino y Orígenes. La meditación de la fe descubre en el pesebre un signo profundo: San Agustín advierte que el pesebre es donde los animales encuentran su alimento; en él yace quien es el verdadero pan bajado del cielo, el verdadero alimento que el hombre necesita para la vida eterna. El pesebre se convierte en referencia a la mesa de Dios.
+
+**Los pañales y el primogénito.** María envuelve al niño en pañales; la iconografía los interpreta como referencia anticipada a su muerte: el Niño es desde el principio el Inmolado. El título de «primogénito» indica su pertenencia singular a Dios, desarrollada por Pablo: no solo el primero por dignidad, sino el principio de una multitud de hermanos (Rom 8,29; Col 1,15.18).
+
+**Los pastores: los predilectos de Dios.** Los primeros testigos del nacimiento son pastores que velan. Representan a los pobres de Israel, favorecidos por el amor de Dios. La tradición monástica los ve como figura de quienes velan en oración. El canto de los ángeles, «Gloria a Dios en el cielo, y en la tierra paz a los hombres en quienes él se complace», introduce la tensión entre la paz de Cristo y la Pax Romana: la paz de Cristo no es la paz de Augusto, sino la paz que el mundo no puede dar (Jn 14,27).
+
+**Presentación en el templo y Simeón.** Lucas narra la circuncisión al octavo día y la presentación al cuadragésimo. Simeón, «justo y piadoso», toma al Niño en sus brazos y proclama el *Nunc dimittis*: Jesús es «luz para alumbrar a las naciones» y «gloria de Israel». A María le anuncia: «Y a ti, una espada te traspasará el alma» (Lc 2,35). La profecía de Simeón une inseparablemente la gloria y la cruz.
+
+[JdN_III, caps. III-IV; epílogo]
+
 ## Distinciones importantes
 
 - **Nacimiento eterno vs. nacimiento temporal**: Cristo, como Verbo, nace eternamente del Padre sin principio ni fin; como hombre, nace temporalmente de Maria en un momento historico determinado.

@@ -55,6 +55,10 @@ La Guía de Liturgia de la Legión de Cristo recoge que la oración en común ha
 
 Thomas O'Loughlin, en *The Rites and Wrongs of Liturgy: Why Good Liturgy Matters* (2017), evalúa la liturgia a partir de un marco de diez principios interrelacionados [[diez_principios_de_buena_liturgia]]. Su tesis es que «la buena celebración fomenta y alimenta la fe; la celebración pobre la debilita y la destruye» (Rites_wrongs-Liturgia, cap. 1). Critica los criterios meramente externos de evaluación litúrgica — cumplimiento de rúbricas, belleza estética, precedente histórico, satisfacción individual — y propone una evaluación que atienda a la coherencia entre palabra y gesto (Princ. I), el tono de alegría cristiana (Princ. II), la construcción de la *communitas* (Princ. III), el compromiso activo de los fieles (Princ. IV), la inclusividad (Princ. V), el vínculo con la creación (Princ. VI), la opción por los marginados (Princ. VII), la sobriedad ritual (Princ. VIII), la lógica de la Encarnación (Princ. IX) y la apertura a la trascendencia divina (Princ. X). Subraya que la liturgia cristiana se distingue por su carácter encarnacional: «si Dios ha plantado su tienda entre nosotros» (Jn 1,14), entonces la materia, el cuerpo, la comida y el gesto humano son lugares de encuentro con Dios. Por eso, la celebración debe girar visiblemente en torno a una mesa compartida, no a un altar aislado.
 
+### Según la IGMR (2000)
+
+La *Institutio Generalis Missalis Romani* (edición típica revisada del año 2000) es la prolongación orgánica de la Constitución *Sacrosanctum Concilium* del Concilio Vaticano II, que estableció los principios de la reforma litúrgica. La IGMR recoge y desarrolla esos principios en la práctica concreta de la celebración (§1-7). El desarrollo orgánico de las formas litúrgicas no puede prescindir de la tradición viva de la Iglesia; las formas nuevas deben nacer del ya existente, por reforma orgánica, y no por invención arbitraria (§398).
+
 ## Ver también
 
 [[sacramentos]], [[eucaristía]], [[oración_litúrgica]], [[iglesia_cuerpo_místico]], [[sacramentales]]

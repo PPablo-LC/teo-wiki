@@ -37,9 +37,33 @@ La pobreza evangélica es uno de los tres consejos evangélicos esenciales al es
 
 [TPCr, Tercera Parte, Libro II; Tercera Parte, Libro III]
 
-### Según Mons. Tihámer Tóth (JvC)
+### Según Benedicto XVI (JdN_I)
 
-El «demonio del dinero» ha cautivado a muchos. JvC advierte que la caza del dinero no puede ser fin digno de la vida humana: «el dinero es sólo el medio para la consecución de bienes más elevados» [JvC, Cap. II]. Cuando alguien muere, habría que preguntarse «¿Cuántas obras buenas hizo?» en vez de «¿Cuánta fortuna dejó?». La limosna debe doler: «La verdadera limosna no procede de lo que nos sobra, sino de lo que nos es necesario» [JvC, Cap. II]. La austeridad en los gastos educa el carácter y aumenta el sentimiento de independencia.
+La primera Bienaventuranza («Bienaventurados los pobres de espíritu, porque de ellos es el Reino de los cielos») es el punto de partida de la reflexión de Benedicto XVI sobre la pobreza evangélica en *JdN_I*. El Papa distingue dos planos que no se oponen, sino que se complementan:
+
+**Pobreza material y pobreza espiritual.** «La pobreza de que se habla nunca es un simple fenómeno material. La pobreza puramente material no salva, aun cuando sea cierto que los más perjudicados de este mundo pueden contar de un modo especial con la bondad de Dios. Pero el corazón de los que no poseen nada puede endurecerse». Por otro lado, «la pobreza de que se habla aquí tampoco es simplemente una actitud espiritual».
+
+**Pobres de espíritu en Lucas y Mateo.** En Lucas, los destinatarios son los pobres materiales. En Mateo, «pobres de espíritu» son los que reconocen su indigencia ante Dios. «No hay contradicción alguna entre Mateo y Lucas: Mateo se mantiene totalmente en la tradición de la piedad de los Salmos, y Lucas presenta a los pobres en espíritu como el grupo sociológico en el que pudo comenzar el camino de Jesús». La pobreza evangélica abarca ambas dimensiones.
+
+**Los pobres de Dios (*anawim*).** Benedicto XVI traza la genealogía de la primera Bienaventuranza desde los Salmos hasta Qumrán: los «pobres de Dios» son los que confían en el Señor, no en sí mismos, los que «llegan con las manos vacías, no con manos que agarran y sujetan, sino con manos que se abren y dan». María y José, Simeón y Ana, los pastores de Belén, los Doce pertenecen a estos ambientes.
+
+**La Iglesia como comunidad de los pobres de Dios.** Benedicto XVI subraya que la Iglesia «ha de seguir siendo reconocible como la comunidad de los pobres de Dios». Necesita «figuras capaces de grandes renuncias; necesita comunidades que le sigan, que vivan la pobreza y la sencillez, y con ello muestren la verdad de las Bienaventuranzas para despertar la conciencia de todos». La pobreza evangélica es signo y condición para la misión: «frente a la cultura del tener, contrapongan la cultura de la libertad interior, creando así las condiciones de la justicia social».
+
+**Francisco de Asís.** El Papa analiza la opción radical de Francisco como interpretación paradigmática de la primera Bienaventuranza: «hasta el punto de despojarse de sus vestiduras y hacerse proporcionar otra por el obispo como representante de la bondad paterna de Dios». Su pobreza era «libertad para servir, libertad para la misión, confianza extrema en Dios».
+
+**Pobreza y libertad interior.** La pobreza evangélica no es un fin en sí mismo, sino el camino de la libertad: «Tener como si no se tuviera (cf. 2 Co 7,29 ss): aprender esta tensión interior como la exigencia quizás más difícil y poder revivirla siempre». La pobreza es el presupuesto para acoger el Reino.
+
+### Según Juan Pablo II (PDV)
+
+*Pastores dabo vobis* dedica el n. 30 a la pobreza evangélica del sacerdote. La pobreza es presentada como «sumisión de todos los bienes al Bien supremo de Dios y de su Reino» (PDV 30). La pobreza del sacerdote, en virtud de su configuración sacramental con Cristo, Cabeza y Pastor, tiene características «pastorales» precisas: los sacerdotes, siguiendo el ejemplo de Cristo que siendo rico se hizo pobre por amor (2 Cor 8,9), deben considerar a los pobres y a los más débiles como confiados a ellos de un modo especial y testimoniar la pobreza con una vida sencilla y austera, renunciando generosamente a lo superfluo (PDV 30; cf. OT 9; CIC c. 282).
+
+La pobreza asegura al sacerdote su disponibilidad a ser enviado donde su trabajo sea más útil y urgente, aunque comporte sacrificio personal. Es condición para la docilidad al Espíritu. El sacerdote debe ofrecer el testimonio de una total transparencia en la administración de los bienes de la comunidad. La libertad interior que la pobreza evangélica custodia prepara al sacerdote para estar al lado de los más débiles, promover la opción preferencial por los pobres y ser signo profético en las sociedades de consumo (PDV 30).
+
+### Según Royo Marín (TPCr)
+
+La pobreza evangélica es uno de los tres consejos evangélicos esenciales al estado religioso (TPCr, Tercera Parte, Libro III). Por el voto de pobreza, el religioso se obliga a vivir pobremente a imitación de Cristo pobre. La pobreza afectiva (espíritu de desprendimiento) obliga a todos los bautizados. La perfección cristiana exige la santa indiferencia entre riqueza y pobreza, teniendo a Dios como único bien (TPCr, Tercera Parte, Libro II, caps. IV-V).
+
+[TPCr, Tercera Parte, Libro II; Tercera Parte, Libro III]
 
 ### Según Mons. Tihámer Tóth (JvC-Muj)
 

@@ -21,6 +21,10 @@ La vida consagrada en el Regnum Christi representa una forma específica de vivi
 
 Los miembros consagrados del RC profesan los tres votos religiosos —pobreza, castidad y obediencia— más los votos específicos del Regnum Christi, que incluyen el voto de incorporación al Regnum Christi y otros compromisos propios del carisma. Esta doble profesión (consejos evangélicos universales y votos específicos carismáticos) configura una espiritualidad particular que integra la tradición de vida consagrada con la innovación apostólica del Movimiento.
 
+La vida consagrada en el RC se caracteriza por una marcada orientación misionera: los miembros consagrados están disponibles para ser enviados a cualquier lugar donde las necesidades apostólicas lo requieran, con una flexibilidad que supera la de muchos institutos religiosos tradicionales. Esta disponibilidad misionera se vive en comunidades pequeñas y adaptables, que pueden establecerse temporal o permanentemente según las circunstancias.
+
+La identidad de los miembros consagrados del RC se define en la intersección entre la vida consagrada clásica y la vocación laical: son consagrados que comparten la vida espiritual con los laicos del Movimiento, que evangelizan las realidades seculares desde una posición de consagración, y que aportan a la comunidad del Regnum Christi la riqueza de una entrega total a Dios y a la misión.
+
 ## Perspectivas por fuente
 
 ### Según los Estatutos del Regnum Christi (Parte Tercera)

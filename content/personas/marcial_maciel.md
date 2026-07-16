@@ -76,6 +76,46 @@ El Comunicado del IV Capítulo General ordinario de la LC (2020), titulado «Con
 
 El documento «Proteger y sanar» del mismo Capítulo General 2020 establece principios, protocolos y normas para la protección de menores y adultos vulnerables en las instituciones de la Legión de Cristo y la sanación con las víctimas. Documenta además el «Informe 1941-2019» sobre el fenómeno del abuso sexual en la Congregación desde su fundación.
 
+### Según documentos históricos LC-Wik (Capítulos Generales 1980 y 1992)
+
+**Título «Nuestro Padre» (I Capítulo General 1980, Parte Cuarta, nn. 436–454)**
+
+El I Capítulo General (1980) confirió al P. Maciel el título exclusivo de «Nuestro Padre», designándole como el único intérprete autorizado del carisma de la Legión y reconociéndole como «co-fundador» de la obra junto con la Congregación misma, más allá de la denominación de mero fundador. Esta denominación elevaba la autoridad personal de Maciel a rango carismático constitutivo.
+
+**Gobierno e informes a los Capítulos Generales (1980 y 1992)**
+
+El P. Maciel presentó informes de gobierno ante ambos Capítulos Generales. En su informe al II Capítulo General (1992), expresó profunda preocupación porque «Regnum Christiy ECYD no están alcanzando la estatura prevista para ellas en el plan de Dios», señalando internamente la brecha entre la visión fundacional y la realidad apostólica del Movimiento.
+
+**Declaración célebre del I Capítulo General 1980**
+
+> «Prefiero una Legión de cien hombres obedientes y santos que de cinco mil hombres indisciplinados.»
+
+Esta frase sintetiza la ratio institucional macielista: primacía de la obediencia y la santidad personal sobre toda expansión numérica.
+
+**Homilía del II Capítulo General 1992**
+
+En dicha homilía exhortó a los legionarios:
+
+> «No solo ser cristianos, sino vivir como cristianos. Vivir una vida de humildad en contraposición a una vida de arrogancia.»
+
+**Autodescripción en el II Capítulo General 1992**
+
+En el mismo Capítulo de 1992, Maciel expresó la identificación profunda entre su persona y la Legión mediante la fórmula que evoca Gálatas 2,20:
+
+> «Yo soy por la Legión a la que Dios me ama.»
+
+**Comunicado a Superiores (II Capítulo General 1992, archivo 06)**
+
+En el documento dirigido a los superiores emanado del II Capítulo General (archivo 06), Maciel desglosó el perfil del «superior ideal» y advirtió con dureza contra los superiores «bonachones», condenando la tibieza en la autoridad como factor disolvente del espíritu fundacional.
+
+**Principios y Normas 1984 (archivo 03)**
+
+En el documento *Principios y Normas* (1984), Maciel ofreció su últimas exhortaciones formativas, que culminan en su obra literaria personal: el *Salterio de mis Días*, colección de poemas de devoción cristiana que constituye el único escrito literario o devocional conocido de su mano. El *Salterio* circuló internamente como material de oración y fue citado en formaciones legionarias como expresión de su piedad personal.
+
+**Dimisión abrupta, enero de 2005 (Constitución de 1998, apéndice)**
+
+El P. Maciel presentó su renuncia irrevocable al cargo de Director General durante el III Capítulo General (enero de 2005). Este suceso coincidió temporalmente con la apertura de la investigación de la Congregación para la Doctrina de la Fe (CDF) sobre denuncias de abuso sexual, iniciada ese mismo año (bajo el pontificado de Benedicto XVI y la jurisdicción del Card. Joseph Ratzinger como Prefecto de la CDF). La renuncia quedó registrada en el apéndice de la Constitución aprobada en 1998. Maciel falleció en enero de 2008, sin que la investigación del CDF hubiera avanzado a la fase de juicio canónico público, que se formalizó post mortem en 2010.
+
 ## Lección teológica
 
 El caso del P. Maciel ha tenido repercusiones eclesiológicas amplias:
@@ -101,6 +141,10 @@ El caso del P. Maciel ha tenido repercusiones eclesiológicas amplias:
 - [[militia_christi]]: núcleo del carisma LC preservado tras la purificación.
 - [[legión_de_cristo]]: congregación fundada por él.
 - [[regnum_christi]]: movimiento fundado por él.
+- [[nuestro_padre]]: título conferido por el I Capítulo General (1980) a Maciel como intérprete único del carisma.
+- [[gobierno_congregacional]]: sistema de gobierno en el que Maciel ejerció autoridad absoluta como Director General vitalicio.
+- [[captación_de_líderes]]: metodología de selección y formación de líderes característica del modelo macielista.
+- [[mística_legionaria]]: sistema de espiritualidad estructurado alrededor de la figura y el magisterio de Maciel.
 
 ## Ver también
 
@@ -128,3 +172,4 @@ El caso del P. Maciel ha tenido repercusiones eclesiológicas amplias:
 - **CIC**, cc. 1395, 1396, 1717 (procedimiento penal), 1741.
 - **SST-2010** (Normae de gravioribus delictis), passim.
 - **VELM** (Vos estis lux mundi), passim.
+- **LC-Wik** (archivo de documentos históricos Legionarios de Cristo): I Capítulo General 1980, Parte Cuarta nn. 436–454 (título «Nuestro Padre»); Informe del P. Maciel al I CG 1980; Informe del P. Maciel al II CG 1992; II CG 1992, Homilía; II CG 1992, Comunicado a Superiores (archivo 06); Principios y Normas 1984 (archivo 03).

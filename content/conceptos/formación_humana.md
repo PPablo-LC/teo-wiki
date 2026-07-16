@@ -1,11 +1,11 @@
 ---
 type: Concepto Teológico
 title: Formación humana
-tags: ["teología_espiritual", "ascética"]
-
-timestamp: 2026-06-14
 description: "Dimensión de la formación sacerdotal que tiene como fin educar al candidato al presbiterado en las virtudes humanas fundamentales —madurez afectiva, capacidad de relación, libertad interior."
+tags: ["teología_espiritual", "ascética"]
+timestamp: 2026-06-14
 ---
+
 # Formación humana
 
 > Área: Teología espiritual / Ascética
@@ -44,6 +44,19 @@ Finalmente, la formación de la **libertad interior** (PDV 48) es esencial: el c
 ## Ver también
 
 [[vocación_sacerdotal]], [[acompañamiento_formativo]], [[dirección_espiritual]]
+
+### Según fuentes históricas LC-Wik (1980-1998)
+
+#### Principios y Normas — Legionarios de Cristo (1984)
+Los números 245-256 de la Parte Primera de *Principios y Normas* desarrollan la formación humana como dimensión propia del candidato legionario: educación de las virtudes humanas, dominio de sí mismo, rectitud de conciencia, madurez afectiva y capacidad de relación fraterna. La formación humana es presentada como camino de crecimiento hacia la libertad interior: el candidato aprende a elegir el bien no por coacción sino por convicción formada.
+
+#### Normas de Urbanidad — Regnum Christi (Parte Primera)
+
+Las *Normas de Urbanidad* del Regnum Christi desarrollan la formación humana a través de las prácticas concretas de la vida cotidiana: la forma de vestir (decencia, pulcritud, sobriedad), la higiene personal (cuidado del cuerpo como templo del Espíritu Santo y respeto hacia los demás), los modales en la mesa (orden, moderación, conversación edificante) y el trato con los demás (saludo, cortesía, saber escuchar). La urbanidad no es mera cortesía externa, sino expresión de la caridad ordenada y de la reverencia hacia el prójimo como imagen de Dios.
+
+#### Fundamento teológico
+
+El fundamento teológico de la formación humana en la espiritualidad legionaria reside en que Cristo asumió la naturaleza humana y la elevó sin destruirla: al encarnarse, el Verbo santificó toda la naturaleza humana — cuerpo, sentidos, afectos, voluntad—. De ahí el imperativo de **forjar el hombre nuevo**: no repudiando lo humano, sino elevándolo por la gracia. La formación humana es el camino por el que la gracia divina va transformando la naturaleza, sin confundirse con ella; el candidato es llamado a cultivar sus cualidades humanas como terreno donde la gracia produce fruto abundante.
 
 ## Referencias
 

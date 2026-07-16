@@ -37,6 +37,10 @@ La consagración del mundo es la misión propia del seglar: «hacer sagrado el m
 
 En el orden sacerdotal, la consagración ontológica distingue al cristiano del que no lo es: «una especie de ser sacerdotal, en cuanto que constituye una consagración ontológica» (TPCr, Tercera Parte, Libro II, Cap. I).
 
+### Según la IGMR (2000)
+
+En el momento de la consagración, la asamblea se pone de pie como gesto de reverencia y acatamiento del misterio que se hace presente. El sacerdote realiza genuflexiones después de la consagración del Cuerpo y después de la consagración de la Sangre, como signo de adoración ante la presencia real de Cristo. El pueblo responde con la aclamación «Misterio de la fe» tras cada consagración.
+
 ## Distinciones importantes
 
 - **Consagración eucarística**: transubstanciación del pan y del vino

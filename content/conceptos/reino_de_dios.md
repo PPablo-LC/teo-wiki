@@ -48,13 +48,21 @@ Lumen Gentium presenta el [[reino_de_dios]] como estrechamente unido al misterio
 La Iglesia «recibe la misión de anunciar el reino de Cristo y de Dios e instaurarlo en todos los pueblos, y constituye en la tierra el germen y el principio de ese reino» [ConcVatII, LG §5]. «Mientras ella paulatinamente va creciendo, anhela simultáneamente el reino consumado y con todas sus fuerzas espera y ansía unirse con su Rey en la gloria» [ConcVatII, LG §5].
 
 El Pueblo de Dios tiene como fin «dilatar más y más el [[reino_de_dios]], incoado por el mismo Dios en la tierra, hasta que al final de los tiempos El mismo también lo consume» [ConcVatII, LG §9]. Cristo desea dilatar su reino también por medio de los fieles laicos: «reino de verdad y de vida, reino de santidad y de gracia, reino de justicia, de amor y de paz» [ConcVatII, LG §36].
+### Según Benedicto XVI (JdN_I)
+
+Benedicto XVI trata el Reino de Dios como la categoría fundamental del mensaje de Jesús, particularmente en el capítulo 1 de *JdN_I* dedicado a las Bienaventuranzas. El Reino no es una realidad futura lejana, sino que irrumpe ya en la persona y las palabras de Jesús: «Con Jesús, entra alegría en la tribulación» (JdN_I). Las Bienaventuranzas son la «carta magna» del Reino porque en ellas se invierten los valores del mundo desde la perspectiva de Dios.
+
+**Reino como categoría central de las Bienaventuranzas.** La primera Bienaventuranza promete: «De ellos es el Reino de Dios» (Lc 6,20) / «de ellos es el Reino de los cielos» (Mt 5,3). Benedicto XVI subraya que «Reino de Dios» es la categoría fundamental del mensaje de Jesús, introducida ya en las Bienaventuranzas, y que su correcta comprensión es indispensable para entender toda la predicación de Cristo. El Reino no es un espacio territorial ni un régimen político, sino el reinado de Dios en los corazones, ya presente en Jesús y en la comunidad de sus discípulos.
+
+**Reino y cruz.** Para Benedicto XVI, el Reino de Dios no puede entenderse sin la cruz. La entrada en el Reino pasa por la participación en la pasión de Cristo: «Estamos expuestos a la muerte para que también la vida de Jesús se manifieste en nuestro cuerpo» (2 Co 4,11). La paradoja de las Bienaventuranzas —pobres, afligidos, perseguidos— solo se resuelven a la luz de la cruz y la resurrección: «la cruz es el acto del éxodo, el acto del amor que se toma en serio y llega hasta el extremo (Jn 13,1), y por ello es el lugar de la gloria».
+
+**Reino y comunidad eclesial.** La comunidad de los discípulos es el lugar donde el Reino se hace presente, pero no como un ordenamiento social perfecto: «El Sermón de la Montaña como tal no es un programa social, eso es cierto. Pero sólo donde la gran orientación que nos da se mantiene viva en el sentimiento y en la acción… sólo allí puede crecer también la justicia social». La Iglesia es el germen del Reino, pero «la Iglesia en su conjunto debe ser consciente de que ha de seguir siendo reconocible como la comunidad de los pobres de Dios».
+
+**La hora del Reino en Caná.** En el capítulo sobre las grandes imágenes joánicas, Benedicto XVI analiza las bodas de Caná como «anticipación de la hora» de Jesús: la sobreabundancia del vino es signo de que ha comenzado la fiesta de Dios con la humanidad, «la hora de las nupcias de Dios con su pueblo». El Reino irrumpe en la historia como fiesta y alegría, pero apuntando ya a la cruz.
+
 ### Según Royo Marín (TPCr)
 
-Royo Marín aborda el Reino de Dios como el fin último de la vida cristiana. La perfección cristiana consiste en la instauración plena del Reino de Dios en el alma, es decir, en el reinado de la caridad. El Reino de Dios se realiza progresivamente en el alma fiel mediante la práctica de las virtudes y la unión con Dios.
-
-El Reino de Dios es interior (Lc 17,21): está en el alma en gracia. La vida cristiana es la expansión del Reino en el corazón del hombre hasta que Dios sea todo en todos.
-
-[TPCr, Parte II — El Organismo Sobrenatural]
+Royo Marín trata el Reino de Dios como el reinado divino que Dios ejerce en las almas por la gracia santificante y especialmente en las almas justas. El Reino de Dios es una posesión santificante sobrenatural, íntima e inamisible. Cristo lo explica mediante parábolas: el grano de mostaza, la levadura, el tesoro escondido, la perla preciosa, la red marinera. La posesión del Reino pertenece a los que tienen humildad de espíritu, dolor de los pecados, afán de santidad, deseo de justicia, misericordia, limpieza de corazón y paciencia. Parafraseando a Bossuet y padre Faber: «El Reino de Dios es el estado de gracia santificante en las almas, y su Reina es la Santísima Virgen María».
 
 ### Según el Enchiridion Symbolorum (Denzinger)
 

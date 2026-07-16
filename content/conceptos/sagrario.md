@@ -29,6 +29,12 @@ Para evitar cualquier peligro de profanación de las sagradas especies, la llave
 
 Tradicionalmente la lámpara del Santísimo Sacramento es de aceite o de cera para que simbolice mejor la presencia real de Cristo en la Eucaristía y su amor que se consume por los hombres [GLit-2024, n. 231, citando OGMR 316 y CE 11].
 
+## Perspectivas por fuente
+
+### Según la IGMR (2000)
+
+El sagrario debe situarse en un lugar noble, digno y visible de la iglesia, en un punto que manifieste la presencia real de Cristo y invite a la oración (§314). No debe colocarse sobre el altar de celebración, para que la celebración eucarística y la reserva no compitan entre sí (§315). Puede ubicarse en el santuario fuera del altar de celebración, o bien en una capilla aparte que sea digna y apta para la adoración comunitaria (§315). Ante el sagrario debe lucir constantemente una lámpara, como signo de la presencia permanente de Cristo (§316).
+
 ## Ver también
 [[adoración_eucarística]], [[presencia_real]], [[capilla]], [[eucaristía]], [[lámpara_del_santísimo]]
 

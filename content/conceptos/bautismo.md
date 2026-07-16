@@ -100,6 +100,14 @@ El CIC regula el bautismo en los cánones 849-878. Lo define como «puerta de lo
 
 El bautismo (*baptisma*, «inmersión») en el NT tiene su prefiguración en las purificaciones y baños rituales del AT, así como en el bautismo de Juan, que era un bautismo de penitencia para preparación del Mesías. El bautismo cristiano, instituido por Jesús (*Mt 28,19*), es una inmersión en la muerte de Cristo para participar de su resurrección (*Rom 6,3-4*). Es el baño de regeneración por el Espíritu Santo (*Tit 3,5*), que incorpora al cuerpo de Cristo, la Iglesia (*1Cor 12,13*). La Iglesia primitiva lo administraba tras la predicación del kerigma y la fe del candidato (*Hch 2,38; 8,36-38*), y se completa con la imposición de manos para la recepción del Espíritu (*Hch 8,15-17*) [VocTeoBib, «Bautismo»].
 
+### Según Benedicto XVI (JdN_II)
+
+Benedicto XVI no trata el bautismo como sacramento en el sentido sistemático, pero lo presenta en relación con la purificación del templo y con el agua como símbolo de la nueva vida.
+
+**El agua como símbolo de purificación y vida nueva.** En el contexto de la purificación del templo (cap. 2 de *JdN_II*), Benedicto XVI recuerda que el agua es el elemento de la creación y la purificación: «En el principio... el Espíritu de Dios se cernía sobre las aguas» (Gn 1,2). El bautismo es la nueva creación: el agua que lava del pecado y regenera por el Espíritu Santo.
+
+**Bautismo como muerte y resurrección con Cristo.** Benedicto XVI subraya, siguiendo a Pablo (Rom 6,3-4), que el bautismo es incorporación a la muerte y resurrección de Cristo: el bautizado muere al pecado y resucita a una vida nueva. El sepulcro vacío es el presagio del nuevo nacimiento: Jesús resucitado es el primogénito de una nueva humanidad, y el bautismo es el ingreso en esta humanidad nueva.
+
 ### Según el Concilio Vaticano II (ConcVatII)
 
 Lumen Gentium enseña que por el [[bautismo]] «nos configuramos en Cristo»: «porque también todos nosotros hemos sido bautizados en un solo Espíritu» [ConcVatII, LG §7, citando 1 Co 12,13]. El bautismo representa y realiza el consorcio con la muerte y resurrección de Cristo: «Con El fuimos sepultados por el bautismo para participar de su muerte; mas, si hemos sido injertados en El por la semejanza de su muerte, también lo seremos por la de su resurrección» [ConcVatII, LG §7, citando Rm 6,4-5].
@@ -211,6 +219,10 @@ El **Papa Benedicto XII** (1341), al responder a los errores de los armenios (D-
 - D‑1490: Quienes son ofrecidos al bautismo por alguien sin autoridad sobre ellos no deben ser bautizados, sino devueltos a quienes tienen potestad legítima.
 
 **Pío VI** (1794, D‑1527) — Constitución *Auctorem Fidei*. Condenó como «temeraria, contraria a la práctica, a la ley y a la autoridad de la Iglesia» la deliberación del Sínodo de Pistoya que, bajo pretexto de adherirse a los antiguos cánones, declaraba su propósito, en caso de bautismo dudoso, de omitir la mención de la forma condicional. La condena reafirma la necesidad de la forma condicional en el bautismo dudoso, conforme a la práctica constante de la Iglesia.
+
+### Según la IGMR (2000)
+
+Todo bautizado tiene derecho y obligación a participar plenamente en la liturgia en virtud del sacramento del bautismo; la participación plena, consciente y activa es exigida por la naturaleza misma de la liturgia (§386).
 
 ## Distinciones importantes
 

@@ -37,6 +37,8 @@ Las Constituciones también establecen que la unidad se mantiene a través de la
 
 Los Estatutos de la Federación Regnum Christi desarrollan el principio de unidad y caridad aplicado al conjunto del Movimiento. El artículo 3 define la caridad como «la virtud reina y el sello de autenticidad de toda vida cristiana», y la presenta como el vínculo que une a las diversas vocaciones del Regnum Christi en una misma misión. La unidad no suprime las diferencias vocacionales sino que las armoniza en torno a un mismo espíritu [Est. RC, Art. 3].
 
+Los Estatutos subrayan que la caridad se manifiesta de manera específica en cada vocación: los Legionarios la viven en la vida fraterna religiosa, las Consagradas en la comunidad de vida y misión, los Consagrados en el RC en la entrega radical desde el celibato consagrado, y los fieles asociados en la participación activa en la misión del Movimiento desde su vida familiar y profesional. La diversidad de formas no diluye la unidad sino que la enriquece.
+
 ### Según el Capítulo General de 1980
 
 El Primer Capítulo General Ordinario de 1980 dedicó una atención especial al tema de la unidad, subrayando que la caridad debe ser el principio que resuelve los conflictos y las tensiones dentro de la Congregación. Se estableció que la unidad se construye cotidianamente a través del perdón mutuo, la humildad y la disposición a servir sin buscar el propio interés [CapGral-1980, Tema sobre vida comunitaria].

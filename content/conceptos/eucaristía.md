@@ -171,6 +171,20 @@ La Veritatis Splendor (§21) presenta la Eucaristía como sacramento de la nueva
 
 PS expone la Eucaristía como la última prueba del amor de Dios a los hombres: después de la creación, revelación, encarnación y redención, Dios se ha quedado para siempre a nuestro lado en el sagrario [PS §10,45]. En la Eucaristía, las sustancias del pan y del vino se convierten en el Cuerpo y la Sangre de Cristo mediante la transubstanciación, permaneciendo solo los accidentes [PS §10,47,1]. La Misa es la renovación incruenta del sacrificio de la cruz, idéntico en su esencia, aunque diverso en el modo de ofrecerse [PS §10,50,1]. La Sagrada Comunión es el alimento del alma que fortalece contra el pecado y aumenta la gracia santificante [PS §10,51,1-2].
 
+### Según Benedicto XVI (JdN_II)
+
+Benedicto XVI dedica los capítulos 6 al 8 de *Jesús de Nazaret II* a la Última Cena y la institución de la Eucaristía.
+
+**Última Cena como cena pascual o no.** La cuestión de si la Última Cena fue una cena pascual enfrenta las cronologías sinóptica y joánica. Los sinópticos sitúan la muerte de Jesús el día de la Pascua (el 14 de Nisán), de modo que la Última Cena habría sido la cena pascual. Juan, en cambio, sitúa la crucifixión el día anterior a la Pascua (parasceve), de modo que la Última Cena no habría sido propiamente una cena pascual. Benedicto XVI opta por la interpretación que ve en Jesús el Cordero pascual verdadero: Jesús muere en el momento en que los corderos pascuales eran sacrificados en el templo. Su muerte sustituye y cumple el sacrificio del Antiguo Testamento.
+
+**El relato de la institución.** Benedicto XVI analiza las diferencias entre los relatos de Marcos/Mateo, Pablo y Lucas: las palabras sobre el pan y sobre el cáliz tienen distintos matices que apuntan a tradiciones autónomas. Pablo es la fuente más antigua (año 56). La Iglesia naciente transmitió las palabras de la institución con fidelidad esencial, consciente de que en ellas está la roca segura de la fe.
+
+**«Nueva alianza en mi sangre»** (1 Co 11,25; Lc 22,20). La fórmula remite a Jeremías 31,31-34, anunciando una alianza definitiva y universal. Pablo habla de la «nueva alianza sellada con mi sangre»; Marcos y Mateo hablan de la «sangre de la alianza» remitiendo a Éxodo 24,8. Ambos trasfondos veterotestamentarios están presentes en las palabras de Jesús y desarrollados por la Iglesia.
+
+**Mandato de repetir.** «Haced esto en memoria mía» (Lc 22,19; 1 Co 11,24-25). Benedicto XVI subraya que Jesús no mandó repetir la cena pascual anual, sino solo el gesto de la fracción del pan y la oración de bendición que constituyen su novedad. Así nació la Eucaristía dominical: el gesto de Jesús se convirtió en el centro de la vida litúrgica de la Iglesia.
+
+**De la cena a la Eucaristía dominical.** El mandato de Jesús no preveía una forma litúrgica definitiva; esta debió desarrollarse en la vida de la Iglesia. La Eucaristía dominical de la mañana sustituyó a la cena comunitaria de la tarde, como desarrollo orgánico de la práctica de la Iglesia naciente.
+
 ### Según la Guía de Liturgia (GLit-2024)
 
 La Guía de Liturgia de la Legión de Cristo afirma que la santa misa es «el centro de la vida cristiana y el culmen de la acción por la que Dios santifica al mundo en Cristo, y del culto que los hombres ofrecen al Padre» [GLit-2024, n. 70, citando CLC 51]. Merece ser celebrada con todo el respeto y veneración de que se es capaz.
@@ -228,6 +242,10 @@ Juan Pablo II afirma la presencia especial de Cristo en cada sacerdote que actú
 ### Según CJeS (1987-1989)
 
 Juan Pablo II trata la institución de la Eucaristía en la Última Cena como el sacramento de la Nueva Alianza, en el contexto de la institución de la Iglesia. La Eucaristía es fuente de unidad: «un solo pan, un solo cuerpo, somos muchos uno solo» (1 Cor 10,17). Cristo está presente en la Eucaristía de modo real y sustancial. El sacrificio de la Cruz se hace presente sacramentalmente en la Eucaristía. La sangre y el agua que brotan del costado traspasado de Cristo (Jn 19,34) simbolizan los sacramentos del [[bautismo]] y la Eucaristía, y el don del Espíritu Santo (CJeS, segunda parte: venida del Reino y fundación de la Iglesia; cuarta parte: palabras de Cristo en la Cruz).
+
+### Según la IGMR (2000)
+
+La celebración eucarística es la acción de Cristo y del Pueblo de Dios, reunido bajo la presidencia del ministro sagrado; constituye el centro de toda la vida cristiana tanto para la Iglesia universal como para las Iglesias particulares (§91). La función principal del sacerdote consiste en presidir la celebración eucarística, en la que actúa *in persona Christi*, y ofrecer el sacrificio eucarístico en nombre de todo el pueblo (§19).
 
 ## Distinciones importantes
 

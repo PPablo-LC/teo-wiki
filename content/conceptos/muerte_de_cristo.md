@@ -59,6 +59,16 @@ La Vida de Jesús (VJ) presenta la muerte de Cristo en la cruz como el cumplimie
 
 Juan Pablo II presenta la muerte de Cristo como acontecimiento histórico (causas: envidia, conflicto con el Sanedrín, proceso ante Pilato, condena) y como consumación de la obra redentora. Las palabras de Cristo en la Cruz revelan el sentido de su muerte: «Todo está cumplido» (*Tetélestai*, Jn 19,30) significa la consumación de la obra de la redención; «Padre, en tus manos encomiendo mi espíritu» (Lc 23,46; Sal 31) expresa el abandono confiado al Padre. La muerte de Cristo es su «paso» (*Pascua*) al Padre: no es una derrota sino una glorificación. El centurión confiesa: «Verdaderamente este hombre era Hijo de Dios» (Mc 15,39). La sangre y el agua del costado traspasado (Jn 19,34) son el símbolo de la gracia, el Bautismo y la Eucaristía, y el don del Espíritu Santo. Cristo es el [[cordero_pascual]] del que «no será quebrantado hueso alguno» (Ex 12,46), tipología que lo identifica como el verdadero Cordero de la Nueva Alianza. «Mirarán al que traspasaron» (Zac 12,10) se cumple en la contemplación del Crucificado (CJeS, tercera parte: valor redentivo de la Pasión; cuarta parte: palabras de Cristo en la Cruz).
 
+### Según Benedicto XVI (JdN_II)
+
+Benedicto XVI dedica el capítulo 40 de *Jesús de Nazaret II* a «la muerte de Jesús como reconciliación (expiación) y salvación».
+
+**La cruz como cumplimiento de los sacrificios del AT.** «Con la cruz de Cristo, los antiguos sacrificios del templo quedaron superados definitivamente. Había ocurrido algo nuevo». La expectativa de los profetas —Dios no quiere sacrificios de animales— encontró su cumplimiento en la cruz: el Cordero de Dios carga con el pecado del mundo. La muerte de Cristo es la expiación definitiva, que supera todos los ritos del Antiguo Testamento.
+
+**Reconciliación del mundo.** La formulación paulina resume el misterio: «Dios mismo estaba en Cristo reconciliando al mundo consigo, sin pedirle cuentas de sus pecados, y a nosotros nos ha confiado el mensaje de la reconciliación» (2 Co 5,19). La cruz restaura la relación de Dios con el mundo, perturbada por el pecado. Es la obra del Amor trinitario: del Padre que entrega al Hijo, del Hijo que se entrega por nosotros, del Espíritu que aplica la redención.
+
+**Dios en la cruz.** Benedicto XVI subraya la paradoja suprema: es el mismo Dios el que muere en la cruz por los hombres. La muerte de Cristo no es un martirio entre otros, sino el cumplimiento del designio eterno del Padre. Es Dios quien se hace cargo del pecado del mundo, no el hombre el que se acerca a Dios.
+
 ## Distinciones importantes
 
 - Muerte de Cristo en cuanto hombre (verdadera muerte real) vs. en cuanto Dios (solo en la carne asumida).

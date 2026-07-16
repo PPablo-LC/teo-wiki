@@ -39,6 +39,16 @@ Los profetas advierten contra una confianza supersticiosa en el Templo: Jeremía
 
 Después del exilio, el Templo es reconstruido (Esd 3-6). Jesús lo purifica expulsando a los mercaderes (Mc 11,15-17). Anuncia su destrucción (Mc 13,2) y se identifica como el verdadero Templo (Jn 2,19-21). Esteban proclama que Dios no habita en templos hechos por mano humana (Hch 7,48-50). Los cristianos son «templo de Dios vivo» (2 Cor 6,16). La nueva Jerusalén no tiene Templo porque el Señor Dios Todopoderoso y el Cordero son su Templo (Ap 21,22).
 
+### Según Benedicto XVI (JdN_II)
+
+Benedicto XVI dedica los capítulos 2 y 3 de *Jesús de Nazaret II* a la purificación del templo y al «fin del templo», como centro del conflicto de Jesús con las autoridades judías.
+
+**Purificación del templo (cap. 2).** El gesto de Jesús de expulsar a los comerciantes es un acto profético: Jesús hace del templo «una casa de oración para todos los pueblos» (Is 56,7). Benedicto XVI lee este gesto como la automanifestación de Jesús como el verdadero Templo: «La Palabra se hizo carne y acampó entre nosotros» (Jn 1,14). Jesús no destruye el Templo, sino que lo cumple y lo trasciende en su persona.
+
+**El fin del templo (cap. 3).** La profecía «No quedará aquí piedra sobre piedra» (Mc 13,2) anuncia la destrucción irreversible del Templo de Herodes. Benedicto XVI muestra que esta destrucción es el correlato histórico de la novedad traída por Cristo: con su muerte en la cruz, el culto sacrificial del Antiguo Testamento queda superado definitivamente. Jesús es el nuevo Templo, cuyo cuerpo —resucitado y glorificado— es el santuario definitivo y universal.
+
+**El «tiempo de los paganos» (cap. 3).** Entre la primera y la segunda venida se abre un plazo histórico —«el tiempo de los paganos» (Lc 21,24)— en el que la Iglesia es el nuevo Templo, el lugar de la presencia de Dios en el mundo. La destrucción del 70 d.C. marca el fin del culto judío y la consolidación de la Iglesia como el nuevo pueblo de Dios.
+
 ## Distinciones importantes
 
 - Templo edificio material vs. Templo espiritual (Cristo, la Iglesia, el cristiano)

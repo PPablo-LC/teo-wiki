@@ -31,6 +31,16 @@ La oración del Padrenuestro es considerada como la más perfecta de todas las o
 
 [TPCr, Tercera Parte, Libro II, Cap. III, Secc. I]
 
+### Según Benedicto XVI (JdN_II)
+
+Benedicto XVI dedica el capítulo 31 de *Jesús de Nazaret II* a la «oración del Señor» en Getsemaní, como clave para comprender la relación entre la voluntad humana y la voluntad divina de Cristo.
+
+**«Abbá, Padre».** La oración de Jesús comienza con la palabra aramea «Abbá», que expresa la relación filial única e íntima con el Padre. Benedicto XVI destaca que esta palabra no tiene antecedentes en la historia judía conocida: Jesús la introduce en la oración humana como expresión de su conciencia filial exclusiva. Los cristianos pueden decir «Abbá, Padre» (Rm 8,15; Ga 4,6) solo por participación en el Espíritu del Hijo.
+
+**La tercera petición: «Hágase tu voluntad».** Benedicto XVI conecta el Padrenuestro con la oración de Getsemaní: la tercera petición —«Hágase tu voluntad en la tierra como en el cielo»— encuentra su cumplimiento en la entrega de Jesús: «pero no se haga mi voluntad, sino la tuya» (Lc 22,42). El Padrenuestro no es una fórmula abstracta, sino la oración misma de Jesús que se entrega al Padre en la cruz. La voluntad del Padre se hace presente en el mundo precisamente por la obediencia del Hijo.
+
+**Vigilancia y tentación.** «No nos dejes caer en tentación» (Mt 6,13). Benedicto XVI comenta que la tentación suprema para los discípulos en Getsemaní es la somnolencia: no estar alerta, no velar con Cristo en su combate espiritual. La oración del Señor es también una llamada a la vigilancia cristiana.
+
 ## Distinciones importantes
 
 - Versión de Mateo (7 peticiones) vs. versión de Lucas (5 peticiones).

@@ -34,6 +34,16 @@ El abba Isaac enfatiza que la perseverancia en la oración requiere humildad. El
 
 [ColCas-I, Conferencias IX, X]
 
+### Según Benedicto XVI (JdN_II)
+
+Benedicto XVI conecta la oración perseverante con la actitud de Jesús en Getsemaní y con la llamada a la vigilancia cristiana.
+
+**Vigilancia como actitud fundamental.** En el contexto de la oración de Jesús en Getsemaní, Benedicto XVI comenta la advertencia a los discípulos: «Velad y orad, para que no entréis en tentación» (Mc 14,38). La somnolencia de los discípulos —su incapacidad de velar con Jesús en su combate espiritual— es un signo de la condición humana frágil. La oración perseverante es, ante todo, vigilancia: mantenerse despierto ante el misterio de Dios y ante la tentación del mal.
+
+**«Abbá» como modelo de oración perseverante.** La oración de Jesús no es un momento aislado, sino el modelo permanente de la oración cristiana. «Abbá, Padre» es la palabra que el cristiano debe llevar en el corazón en toda circunstancia. La perseverancia en la oración no es repetición mecánica, sino la mantenida apertura del corazón al Padre, como la que Jesús manifestó desde Getsemaní hasta la cruz.
+
+**La oración como combate espiritual.** Benedicto XVI subraya que la oración es un combate: los discípulos de Emaús no podían reconocer a Jesús porque sus ojos estaban velados por la tristeza. Solo la Escritura y la fracción del pan les abren los ojos. La oración perseverante es el combate por mantener la mirada fija en Cristo, incluso en la oscuridad.
+
 ## Distinciones importantes
 
 - **Oración perseverante vs. oración continua:** La oración perseverante es la práctica constante de orar en los horarios establecidos; la oración continua es la unión permanente con Dios en todo momento.

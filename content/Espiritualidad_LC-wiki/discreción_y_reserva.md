@@ -52,6 +52,8 @@ Las Constituciones de la Legión de Cristo de 1984 abordan la discreción y la r
 
 Las Constituciones también abordan la relación entre reserva y obediencia: el miembro que tiene reservas sobre una decisión del superior puede expresarlas a través de los canales legítimos (audiencia, capítulo, consejo), pero una vez tomada la decisión, debe acatarla y no sembrar dudas externamente. Esta norma no suprime la libertad de expresión sino que la ordena al servicio de la unidad y la obediencia.
 
+El texto constitucional también aborda la necesidad de un equilibrio delicado entre la reserva y la transparencia: los superiores tienen el deber de comunicar a la comunidad las decisiones y orientaciones más relevantes, y los miembros tienen el derecho de conocer lo que afecta a su vida y a su misión. La reserva no puede convertirse en excusa para la opacidad del gobierno, ni la transparencia en pretexto para la indiscreción indiscriminada.
+
 ## Distinciones importantes
 
 - **Reserva evangélica vs. secretismo:** la reserva evangélica protege lo sagrado y respeta a las personas por amor; el secretismo oculta información por miedo, control o manipulación. El móvil determina la naturaleza de la actitud.
@@ -61,11 +63,11 @@ Las Constituciones también abordan la relación entre reserva y obediencia: el 
 
 ## Relaciones doctrinales
 
-La discreción y la reserva se relacionan con la [[obediencia_filial]], la [[comunidad_de_apóstoles]], la [[espiritualidad_legionaria]], la [[caridad]] y la [[perseverancia_religiosa]].
+La discreción y la reserva se relacionan con la [[obediencia_filial]], la [[comunidad_de_apóstoles]], la [[espiritualidad_legionaria]], la [[caridad]], la [[perseverancia_religiosa]], el [[superior_legionario]] y la [[comunidad_formativa]].
 
 ## Ver también
 
-[[espiritualidad_legionaria]], [[comunidad_de_apóstoles]], [[obediencia_filial]], [[oración_discursivo-afectiva]]
+[[espiritualidad_legionaria]], [[comunidad_de_apóstoles]], [[obediencia_filial]], [[oración_discursivo-afectiva]], [[vida_litúrgica_y_oración]]
 
 ## Referencias
 

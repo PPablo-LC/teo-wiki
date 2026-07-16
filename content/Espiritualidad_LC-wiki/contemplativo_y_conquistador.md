@@ -21,6 +21,8 @@ La dimensión contemplativa y conquistadora de la espiritualidad legionaria tien
 
 La dimensión contemplativa se expresa en la oración personal y comunitaria, en la adoración al Santísimo Sacramento, en la meditación de la Palabra de Dios y en la devoción al Sagrado Corazón de Jesús. La dimensión conquistadora se expresa en la evangelización directa, en la formación de líderes, en la fundación de obras apostólicas y en la entrega total a la misión de la Iglesia. La síntesis de ambas dimensiones constituye la firma distintiva de la espiritualidad legionaria.
 
+El Sagrado Corazón de Jesús es el punto de encuentro privilegiado entre la dimensión contemplativa y la conquistadora. La contemplación del Corazón traspasado de Cristo es fuente de la vida interior, y la devoción al Corazón es impulsión para la evangelización. Los legionarios buscan tener el «corazón de buen pastor» que contempla el amor de Cristo y se deja impulsar por Él a salir al encuentro de las almas.
+
 Esta complementariedad ha sido reconocida como esencial por los documentos capitulares más recientes, que insisten en que la acción apostólica sin vida interior se convierte en activismo, y que la vida interior sin apostolado se convierte en intimismo estéril. El equilibrio entre ambas dimensiones es un desafío permanente que requiere vigilancia, discernimiento y renovación constante.
 
 El título mismo de «contemplativo y conquistador» tiene una historia rica dentro de la Congregación. Fue una de las primeras expresiones con las que se describió el espíritu de la Legión, y se ha mantenido como una de sus definiciones más recognoscibles. La palabra «conquistador» evoca la dimensión misionera y expansiva del apostolado, mientras que «contemplativo» subraya que toda acción apostólica debe nacer de la encounter personal con Cristo en la oración. Esta síntesis no es exclusiva de la Legión — se encuentra en otros institutos como los Jesuitas — pero tiene una formulación y una vivencia propias dentro del espíritu legionario.
@@ -48,6 +50,10 @@ El Capítulo reconoció que la dimensión contemplativa había sido debilitada p
 El Capítulo General de 2026, en el contexto de la purificación carismática, presentó la dimensión contemplativa y conquistadora como parte del horizonte de «una Legión más pascual: más centrada en Cristo, más fraterna, más eclesial y más disponible para la misión» [CapGral-2026, n. 44]. La reconfiguración de la mística implica una recuperación del equilibrio entre vida interior y acción apostólica.
 
 El Capítulo también reconoció que en algunas etapas de la historia, la dimensión conquistadora había prevalecido sobre la contemplativa, generando un activismo que agotaba las energías sin alimentar la vida interior. La recuperación del equilibrio requiere no solo una mejor distribución del tiempo entre oración y acción, sino una transformación interior que permita llevar la vida contemplativa al corazón de la actividad apostólica [CapGral-2026, nn. 36-44].
+
+### Según las Asambleas Generales (Asambleas-RC-2018)
+
+Las Asambleas Generales de 2018 abordaron la complementariedad contemplativo-conquistador en el contexto de la refundación del Movimiento. Se reconoció que la dimensión contemplativa había sido debilitada por el activismo en algunas etapas, y se subrayó la necesidad de recuperar la vida interior como fuente del apostolado. La oración no es un complemento del apostolado sino su fuente: sin ella, la acción se convierte en activismo [Asambleas-RC-2018].
 
 ## Distinciones importantes
 

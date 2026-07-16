@@ -125,6 +125,26 @@ La identidad legionaria fue objeto de profunda reflexión durante el proceso 201
 
 **Carácter propio.** La Antología recoge la tensión entre «identidad propia» y «apertura al cambio»: la identidad legionaria no es estática, sino que se purifica y profundiza en el proceso de renovación, conservando el núcleo carismático.
 
+### Según el I Capítulo General 1980 (LC-Wik, archivo 01)
+
+El I Capítulo General de 1980 ofrece la expresión más antigua y, al mismo tiempo, más densa de la identidad legionaria. La Legión es definida desde el inicio como un «misterio» (nn. 1-12): no una realidad que se agote en sus estructuras visibles, sino un don que debe ser penetrado por la fe. Esta perspectiva místico-eclesial orienta toda la comprensión capitular de la identidad.
+
+La virtud primaria del legionario es el amor y la estima por la Legión: «el amor a la Legión es el amor a la Fundadora» (n. 59). La identificación personal con la institución no es un sentimiento secundario, sino la expresión espiritual afectiva del carisma recibido. Esta formulación, sin matizar la distinción entre carisma e institución, sentará las bases de una fidelidad institucional totalitaria que la renovación posterior habrá de corregir.
+
+El Voto Privado (Votum Privatum) es el instrumento jurídico-espiritual que garantiza la unidad y la eficacia de la Congregación: «De esta promesa suprema emanan cuatro dones para la Congregación: unidad, caridad, disponibilidad y eficacia apostólica» (n. 8). El Voto Privado de no criticar los actos de gobierno del Superior General, lejos de ser una norma de vida religiosa ordinaria, eleva esta obediencia a rango de voto, vinculándola al mismo acto de consagración. Esta decisión tiene consecuencias institucionales decisivas en la configuración de la autoridad legionaria.
+
+La unidad y la caridad son descritas como el «hilo conductor» de la vida legionaria (n. 31). La unidad no se limita al ámbito externo de la disciplina, sino que se presenta como caridad concreta: amor al superior, amor a la Congregación, amor mutuo entre los miembros. La caridad es el principio y el criterio de toda vida en común.
+
+El Capítulo expresa una profunda preocupación por el «secularismo infiltrado» (nn. 64-73) entre los mismos religiosos. Los números dedicados a este tema examinan fenómenos concretos: los destinos de vacaciones compartidos con personas ajenas a la Congregación, la preferencia por música sentimental o romántica en lugar de música de inspiración religiosa o clásica, la relajación en el uso de la talar clerical. Cada uno de estos síntomas es interpretado como señal de una erosión más profunda, de un alejamiento del espíritu propio. La vigilancia sobre estos detalles menores es concomitante con la total ausencia de crítica hacia el Superior General: la preocupación se desplaza hacia lo periférico y no hacia lo estructural.
+
+El Capítulo formula con nitidez un principio de prioridad cualitativa que marcará toda su legislación posterior: «Prefiero una Legión de cien hombres obedientes y santos a una Legión de cinco mil hombres indisciplinados» (n. 184). La cifra es simbólica, pero la opción es real: la Legión prefiere la minoría cualificada a la masa indiferenciada. Este «elitismo carismático» es constitutivo de la comprensión capitular de la vocación.
+
+Marial Maciel es investido formalmente por el I CG 1980 con el título de «co-fundador» (nn. 380-453). La categoría no es meramente honorífica: el Capítulo afirma que la Congregación debe su existencia a la iniciativa y la dirección del P. Maciel, y le atribuye el «carisma de fundación» en términos que confunden la persona del fundador con el carisma mismo de la Congregación. Esta identificación será una de las fuentes del sistema macielista de autoridad.
+
+El Capítulo establece el castellano como idioma oficial de la Congregación (nn. 436-454), decisión que refleja la nacionalidad mexicana del fundador y cierta desconfianza hacia la tradición eclesiástica europea. La centralidad del lenguaje es también centralidad del fundador: la lengua en que habla el Superior es la lengua oficial de la Congregación.
+
+El fundador es descrito como «Nuestro Padre» (n. 381): fórmula que, en el uso legionario, no expresa solo cercanía afectiva, sino competencia exclusiva para interpretar el carisma. El Capítulo reconoce al P. Maciel como «intérprete autorizado y único» del carisma fundacional — una investidura que coloca su persona fuera de toda crítica legítima por parte de los miembros.
+
 ## Distinciones importantes
 
 - **Identidad vs. uniformidad**: la identidad no elimina la diversidad de personalidades, culturas y edades, sino que la armoniza

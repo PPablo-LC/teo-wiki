@@ -56,6 +56,24 @@ El V Capítulo General ordinario de la Legión de Cristo (2026) ha presentado un
 
 Los promotores vocacionales tienen la importante misión de identificar las semillas vocacionales que el Señor ha sembrado en el corazón de los adolescentes y de acompañarlos en sus inquietudes y búsqueda del camino para responder a esta invitación personal de Dios. Desempeñan su misión en colaboración cercana con el rector del centro vocacional [Habl_Sñr-2018, §55]. El rector del centro vocacional, junto con los promotores vocacionales, define un plan de acompañamiento previo al ingreso del alumno al centro vocacional, que haya durado al menos un año [Habl_Sñr-2018, §101].
 
+### Según los Capítulos Generales (LC-Wik, archivos 01 y 05)
+
+El I Capítulo General de 1980 situó la promoción vocacional en el horizonte de la supervivencia misma de la Congregación. En el número 74 se afirma que las vocaciones constituyen una prioridad de «vida o muerte» para la Legión: sin vocaciones, la obra no tiene futuro. Esta formulación extrema no es retórica, sino que expresa la preocupación del Capítulo por la crisis secularizadora que, ya entonces, se presentaba como la mayor amenaza a la vida religiosa. El Capítulo General de 1992 (II CG) asume y reelabora esta preocupación en un lenguaje más desarrollado, vinculando la promoción vocacional a la vitalidad misma del carisma legionario.
+
+El ECYD es definido explícitamente por el II CG 1992 como «centro vocacional abierto» y como «medio constante y selectivo de preparación de los miembros» de la Congregación. Esta doble definición expresa una soteriología institucional específica: el ECYD no es solo un apostolado entre adolescentes, sino un instrumento estructural de captación y formación de los futuros legionarios. Como «centro vocacional abierto», puede acoger a jóvenes sin exigencias previas de identificación inequívoca con el carisma; como «medio selectivo», el proceso de discernimiento va descartando progresivamente hasta aislar a quienes serán llamados a la vida legionaria.
+
+Los apostolados legionarios —especialmente los centros formativos juveniles— son descritos en los documentos históricos como «tanques de peces» para la cosecha de vocaciones. La metáfora no es casual: expresa una estrategia de producción a escala, en la que los apostolados funcionan como mecanismos de captación masiva desde los cuales sobresalen los más cualificados. La preocupación por la cantidad no desaparece, pero se subordina a la búsqueda de la calidad.
+
+Las Constituciones de 1984 contienen un catálogo detallado de los impedimentos a la admisión que ilustra la mentalidad selectiva del periodo precedente a la renovación: la tendencia hacia las amistades impropias, el juicio inflexible, el hábito de murmurar, la falta de sentido común y la inestabilidad emocional figuran como criterios objetivos de exclusión. La regulación minuciosa expresa la convicción de que la calidad de la Congregación depende de la calidad de sus miembros desde el momento del ingreso.
+
+El proceso formativo está articulado en etapas sucesivas que configuran una trayectoria sin retorno posible: centro vocacional → candidatura → noviciado → profesión → estudios → internado → ordenación sacerdotal. Cada etapa es una puerta de entrada selectiva y una ratificación de la elección anterior; la salida voluntaria en cualquier momento es concebida como fracaso, no como discernimiento legítimo.
+
+La preocupación del I CG 1980 por el secularismo no es abstracta: los números 64 a 73 examinan manifestaciones concretas que erosionan la vida religiosa —destinos de vacaciones inadecuados, música sentimental o romántica en las comunidades, relajación del uso del hábito clerical— desplazando la atención hacia la cultura ambiental como amenaza latente.
+
+La «captura de líderes» (o «caza de líderes») es descrita como prioridad estratégica en los documentos de la época, expresando la convicción de que la expansión del Reino no depende de la cantidad sino de la calidad selectiva de los responsables. El reclutamiento prioriza intelectuales, empresarios, profesionales —el método es la secuencia amistad → confianza → compromiso → sumisión— en la que cada etapa prepara la siguiente hasta que el candidato acepta no solo la vocación, sino también el sistema de autoridad que la legitima.
+
+El II CG 1992 combina alegría por el crecimiento vocacional con una preocupación por la calidad que anticipa las tensiones posteriores: la Congregación no es «la suma de sus obras sino la suma de sus hombres» [II CG 1992] — una frase que, al priorizar la calidad personal sobre el rendimiento institucional, contiene ya el germen de la exigencia de renovación que el Capítulo de 2014 y los documentos de 2020 harán explícita.
+
 ## Distinciones importantes
 
 - Vocación (designio personal de amor de Dios) vs. elección funcional (visión reducida secularizada)

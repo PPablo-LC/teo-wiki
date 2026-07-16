@@ -29,6 +29,10 @@ La Plegaria Eucarística es el «centro y culminación de toda la celebración»
 
 La Plegaria Eucarística es la oración sacrificial por excelencia. Royo Marín destaca que en ella se realiza sacramentalmente el mismo sacrificio del Calvario (n. 739-741). La consagración es el momento central: las palabras de Cristo, pronunciadas por el sacerdote, convierten la substancia del pan y del vino.
 
+### Según la IGMR (2000)
+
+La Plegaria Eucarística está reservada al sacerdote que preside, en virtud de su ordenación sacerdotal; ningún otro ministro puede pronunciarla (§147). La asamblea participa mediante las aclamaciones previstas en el propio ritmo de la plegaria, especialmente la aclamación del Sanctus, la respuesta al relato de la institución (*Misterio de la fe*), la epíclesis y la doxología final (§147). Las partes de la Plegaria Eucarísticas que están provistas con música deben cantarse siempre que sea posible, especialmente el Sanctus y la aclamación final (§147).
+
 ## Distinciones importantes
 
 - Canon Romano (Plegaria I) vs. Plegarias Eucarísticas II, III, IV

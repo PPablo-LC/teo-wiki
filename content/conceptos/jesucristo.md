@@ -35,6 +35,18 @@ El ciclo de catequesis cristológicas de Juan Pablo II constituye un curso siste
 
 En la segunda parte del ciclo, JPII desarrolla a Jesús como el Evangelio mismo, cuya persona es inseparable del mensaje que proclama. El [[reino_de_dios]] es el núcleo de su predicación profética. Jesús es el «testigo fiel» de la verdad (Jn 18,37). Su sacrificio en la Cruz es el acto supremo de amor redentor. La [[resurrección_de_cristo|Resurrección]] confirma su divinidad y lo constituye Señor (*Kyrios*) con poder (Flp 2,9-11; Rom 1,3-4). Cristo resucitado es las primicias de los que durmieron (1 Cor 15,20-22), fundamento de la esperanza cristiana y fuente de la vida nueva del creyente (CJeS, segunda parte: misión profética de Cristo; tercera parte: valor redentivo de la Pasión; cuarta parte: la Resurrección).
 
+### Según Benedicto XVI (JdN_II)
+
+Benedicto XVI dedica la primera parte de *Jesús de Nazaret II* a la entrada mesiánica en Jerusalén, la purificación del templo y las controversias que desembocan en la Pasión, profundizando en la identidad de Jesús como Mesías Rey.
+
+**Realeza de Jesús no política.** La entrada en Jerusalén (Domingo de Ramos) es un gesto mesiánico que los discípulos interpretan como esperanza política. Benedicto XVI subraya que el reinado de Jesús no es de este mundo: «Mi Reino no es de aquí» (Jn 18,36). Jesús es Rey por naturaleza divina, pero su realeza se ejerce en el servicio y en la obediencia hasta la muerte. La purificación del templo es el signo de que Jesús es el verdadero Templo, el verdadero lugar de encuentro con Dios.
+
+**Jesús como testigo de la verdad.** Ante Pilato, Jesús declara: «Yo para esto he nacido y para esto he venido al mundo, para ser testigo de la verdad» (Jn 18,37). Benedicto XVI comenta que Pilato, el juez escéptico, pregunta «¿Qué es la verdad?» sin esperar respuesta, pero la respuesta está delante de él: Jesucristo es la verdad personificada. Su realeza no es poder coactivo sino testimonio de la verdad: «Todo el que es de la verdad, escucha mi voz» (Jn 18,37).
+
+**El «¿De dónde eres tú?» como pregunta sobre el origen de Jesús.** La pregunta de Pilato en Jn 19,9 —«¿De dónde eres tú?»— resume el misterio de la persona de Jesús: no es solo un profeta o un rey, sino el Hijo eterno de Dios hecho hombre. Benedicto XVI destaca que esta cuestión sobre el «de dónde» de Jesús apunta a su origen eterno: Él es el que viene del Padre, el enviado, el Unigénito.
+
+**Relación entre lo político y lo religioso.** Benedicto XVI subraya que Jesús establece una separación radical entre la dimensión política y la religiosa, separación que ha cambiado el mundo. El rechazo de Jesús por parte de las autoridades judías no es solo un conflicto político, sino que apunta a lo esencial: Jesús es el Hijo de Dios que inaugura una nueva dimensión de la relación del hombre con Dios.
+
 ### Según el Compendio (CompDS)
 
 Jesucristo revela plenamente el designio de amor de Dios. En Él se cumple el acontecimiento decisivo de la historia de Dios con los hombres (§28). El amor que anima su ministerio es el que el Hijo experimenta en la unión íntima con el Padre, Abbá (§29). La Pascua revela el Amor trinitario: «Dios es Trinidad: Padre, Hijo y Espíritu Santo, realmente distintos y realmente uno, porque son comunión infinita de amor» (§31). Jesucristo revela que Dios es Padre y que todos estamos llamados por gracia a ser hijos suyos en el Espíritu (§31). El mandamiento nuevo del amor recíproco (Jn 13,34) debe inspirar, purificar y elevar todas las relaciones humanas en la vida social y política (§33). La imagen del Dios trino es raíz de todo el ethos humano, cuyo vértice es el mandamiento del amor (§33).

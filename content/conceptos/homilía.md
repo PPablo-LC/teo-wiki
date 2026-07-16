@@ -52,6 +52,10 @@ La Guía de Liturgia de la Legión de Cristo recoge que la homilía es propiamen
 
 Se recomienda tener homilía no solo en la misa dominical y los días de precepto, sino también los demás días de fiesta [GLit-2024, n. 48]. En cuanto a la duración, la homilía ha de ser breve, «ni demasiado larga ni demasiado corta» [GLit-2024, n. 48, citando OLM 24 y EG 135-159].
 
+### Según la IGMR (2000)
+
+La homilía es parte integral de la acción litúrgica, no un añadido externo; no debe omitirse sin causa grave en las Misas de domingos y fiestas de precepto con asistencia del pueblo (§29). Está reservada al sacerdote o al diácono que preside la celebración; un laico no puede pronunciarla (§66). La homilía es obligatoria en domingos y fiestas de precepto, y es muy aconsejable también en las Misas de entre semana (§66).
+
 ## Relaciones doctrinales
 
 Se relaciona con la [[predicación]], el [[ministerio_de_la_palabra]], la [[liturgia_eucarística]], la [[catequesis]] y la [[sagrada_escritura]].

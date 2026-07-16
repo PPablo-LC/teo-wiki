@@ -29,6 +29,12 @@ En la misa de comunidad es costumbre cubrir el cáliz principal con el cubrecál
 
 Consérvense todos los objetos litúrgicos en perfectas condiciones y procúrese que todos ellos respondan a la dignidad y grandeza de las realidades que significan. El prefecto de capilla, de acuerdo con el superior, retire cuanto no responda a estos criterios [GLit-2024, n. 227].
 
+## Perspectivas por fuente
+
+### Según la IGMR (2000)
+
+Los vasos sagrados destinados a contener el Cuerpo y la Sangre de Cristo deben ser de metal noble, de modo que su dignidad responda a la grandeza del misterio que contienen (§328). Si el metal es susceptible de oxidación, deben tener baño de oro interior (§328). Los vasos sagrados deben ser claramente distinguibles de los de uso diario, tanto por su forma como por su material, para que sea patente su carácter sagrado (§332). El cáliz y la patena destinados a la celebración deben ser bendecidos conforme al rito previsto (§328).
+
 ## Ver también
 [[ornamentos_litúrgicos]], [[eucaristía]], [[capilla]], [[prefecto_de_capilla]], [[altar]]
 

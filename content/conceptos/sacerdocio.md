@@ -84,6 +84,10 @@ León XIV, en su encuentro con los obispos españoles, presentó al sacerdote co
 
 Juan Pablo II presenta el sacerdocio como «administrador de los misterios de Dios» (1 Co 4,1), centrado en la [[eucaristía]]. El sacerdote «actúa verdaderamente *in persona Christi*» en la consagración, renovando el sacrificio de Cristo con la fuerza del Espíritu Santo [DyM, VIII]. La vocación sacerdotal es un [[admirabile_commercium]]: «un "maravilloso intercambio" entre Dios y el hombre» en que «este ofrece a Cristo su humanidad para que Él pueda servirse de ella como instrumento de salvación» [DyM, VIII]. El sacerdocio es indisociable de la Eucaristía: «No hay Eucaristía sin sacerdocio, como no hay sacerdocio sin Eucaristía» [DyM, VIII].
 
+### Según la IGMR (2000)
+
+La función principal del sacerdote es presidir la celebración eucarística, en la que actúa *in persona Christi*; la Eucaristía es su función principal, y todo el ministerio sacerdotal se ordena a ella (§19). El sacerdote ejerce en la Misa las facultades propias de su ordenación: es quien preside, ofrece el sacrificio, y puede impartir la bendición final (§24, §31). La homilía está reservada al sacerdote o al diácono que preside; ningún laico puede pronunciarla (§66).
+
 ## Distinciones importantes
 - El sacerdocio común de los fieles se recibe en el Bautismo; el sacerdocio ministerial se recibe en el Orden.
 - Solo el sacerdocio ministerial puede celebrar la Eucaristía y perdonar los pecados.

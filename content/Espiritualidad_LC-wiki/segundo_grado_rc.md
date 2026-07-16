@@ -33,7 +33,7 @@ Los Estatutos del Regnum Christi regulan el segundo grado en su segunda parte, e
 
 Los **formadores** son miembros laicos del Regnum Christi que, después de un periodo de formación adecuada, asumen la responsabilidad de acompañar y formar a otros miembros en la vida espiritual, la doctrina y la misión del Movimiento. Su función no es meramente instructiva sino testimonial: viven y transmiten la espiritualidad del Regnum Christi en el contexto de la vida laical y familiar.
 
-Los **cooperadores** son jóvenes voluntarios que, generalmente antes o después de la universidad, donan un periodo de tiempo (normalmente dos años o más) al servicio apostólico del Regnum Christi. Viven en comunidades laicas, participan en actividades de evangelización y formación, y reciben una formación espiritual y humana que prepara para su futura vida profesional y familiar.
+Los **cooperadores** son jóvenes voluntarios que, generalmente antes o después de la universidad, donan un periodo de tiempo (normalmente dos años o más) al servicio apostólico del Regnum Christi. Viven en comunidades laicas, participan en actividades de evangelización y formación, y reciben una formación espiritual y humana que prepara para su futura vida profesional y familiar. Los cooperadores representan una etapa clave en el itinerario vocacional del Regnum Christi, pues permiten a los jóvenes experimentar la vida de equipo apostólico antes de asumir compromisos definitivos.
 
 ### Segundo Capítulo General de 1992 (CapExt-1992)
 
@@ -44,6 +44,8 @@ El Capítulo subraya que el segundo grado no es una etapa de transición hacia l
 El documento también establece que los miembros del segundo grado tienen derecho a participar en la gobierno del Movimiento según los mecanismos previstos en los Estatutos, reconociendo su corresponsabilidad en la misión común.
 
 El Capítulo también reflexiona sobre los desafíos específicos que enfrentan los miembros del segundo grado: la dificultad de compatibilizar las exigencias de la vida familiar con las del compromiso apostólico, el riesgo de activismo que sacrifica la vida interior, y la necesidad de un acompañamiento espiritual que sostenga el crecimiento vocacional en medio de las realidades seculares.
+
+La vida conyugal de los miembros del segundo grado no es simplemente una condición de vida compatible con el compromiso apostólico, sino un ámbito privilegiado de santidad y misión. La familia cristiana, según la enseñanza de la Iglesia, es «la célula primera y vital de la sociedad» y el espacio donde se transmite la fe de generación en generación. Los miembros del segundo grado del RC viven esta vocación familiar a la luz de la espiritualidad del Regnum Christi, buscando instaurar el Reino de Cristo en el hogar y en la sociedad.
 
 ## Distinciones importantes
 

@@ -37,6 +37,10 @@ Los cc. 1235-1239 regulan los requisitos canónicos del altar. Debe ser único e
 
 El Comentario Eunsa aclara que el altar debe ser uno solo para expresar la unidad del sacrificio y del sacerdocio de Cristo. La exigencia de piedra natural para el altar fijo responde al simbolismo de Cristo como roca (1 Cor 10,4). Las reliquias no deben exponerse sobre la mesa del altar ni en su interior de modo que puedan ser removidas sin dificultad, sino selladas. El rito de dedicación imprime carácter permanente.
 
+### Según la IGMR (2000)
+
+El altar fijo, que debe ser consagrado, es la regla general para la celebración eucarística; sobre él se colocan el corporal, el misal y el cáliz (§303). El altar significa a Cristo, «Piedra Viva» (1 Pe 2,4) sobre la cual la Iglesia es edificada como casa espiritual; la Iglesia primitiva veneraba los altares como imagen de Cristo, sacerdote y víctima (§298). Sobre el altar no deben colocarse objetos que no estén destinados a la celebración, como estatuas, flores o candelabros en exceso (§306). Las flores decorativas deben ser moderadas según la costumbre del lugar; no deben llenar la mesa del altar ni cubrir el altar (§305).
+
 ## Distinciones importantes
 
 - **Altar fijo vs. móvil**: el fijo se adhiere al suelo y se consagra; el móvil puede trasladarse y solo se bendice.

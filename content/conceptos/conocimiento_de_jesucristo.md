@@ -50,6 +50,16 @@ El autor insiste en que el efecto más pernicioso de conocer mal a Jesús es des
 
 El proceso de conocimiento se alimenta de la acción del Espíritu santo, que Cabestrero analiza en cinco perspectivas: la investigación bíblica (Schweizer), los Padres de la Iglesia (Ireneo, Tertuliano, Orígenes), la obra de Lucas, el evangelio de Juan y los escritos de Pablo. En todos ellos, el Espíritu es el revelador de la identidad de Jesús y el que permite decir «Jesús es el Señor» (AQJS, Cap. I, §6).
 
+### Según Benedicto XVI (JdN_II)
+
+Benedicto XVI ofrece un enfoque particular sobre cómo se llega al conocimiento de Jesús a través de la Escritura y del encuentro con Él en la historia de la salvación.
+
+**El camino de Emaús como modelo.** Benedicto XVI comenta el relato de los discípulos de Emaús (Lc 24,13-35) como paradigma del conocimiento de Jesús: los discípulos no le reconocen al principio, pero Jesús les explica las Escrituras y parte el pan —entonces sus ojos se abren. El conocimiento de Jesús no es un reconocimiento inmediato, sino un proceso de apertura del corazón a través de la Escritura y de la Eucaristía.
+
+**«¿De dónde eres tú?» conocimiento de Jesús como pregunta sobre su origen.** La pregunta de Pilato —«¿De dónde eres tú?» (Jn 19,9)— es para Benedicto XVI la pregunta fundamental sobre Jesús. No se puede conocer a Jesús verdaderamente si no se responde a esta pregunta desde su origen eterno: Jesús viene del Padre, es el Verbo encarnado. El conocimiento de Jesús es, en último término, el conocimiento del Padre que lo ha enviado.
+
+**La Escritura como camino hacia Jesús.** Benedicto XVI subraya que el método histórico-crítico es necesario pero insuficiente: solo a la luz de la fe y del diálogo entre pasado y presente se llega al conocimiento verdadero de Jesús. La Iglesia, guiada por el Espíritu Santo, es el sujeto auténtico del conocimiento de Cristo: es Ella la que, desde el comienzo, ha reconocido en Jesús al Hijo de Dios vivo.
+
 ## Distinciones importantes
 
 - **Conocimiento vital vs. conocimiento teórico**: el conocimiento vital implica la persona entera y se traduce en seguimiento; el conocimiento teórico se queda en la información.

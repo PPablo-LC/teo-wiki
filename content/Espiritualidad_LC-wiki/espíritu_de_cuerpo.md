@@ -40,6 +40,8 @@ El documento también advierte sobre los desequilibrios que pueden afectar al es
 - **La lealtad mal entendida:** la lealtad a la Congregación no puede convertirse en complicidad con el error o en silencio ante las faltas. La lealtad auténtica exige la verdad y la corrección fraterna.
 - **El tribalismo:** la identificación excesiva con una facción, territorio o generación dentro de la Congregación fragmenta el espíritu de cuerpo en lugar de fortalecerlo.
 
+El Capítulo también subraya que el espíritu de cuerpo debe extenderse a todas las vocaciones del Regnum Christi: legionarios, Consagradas del RC, Laicos Consagrados del RC y fieles asociados. La Federación Regnum Christi es el instrumento canónico al servicio de esta comunión más amplia, que requiere un espíritu de cuerpo que trascienda los límites de cada institución.
+
 El Capítulo propone como remedio una «sana integración» que combine la identidad propia con la apertura a la Iglesia universal: «El espíritu de cuerpo debe ser expresión de la caridad, no de la conveniencia; fruto de la identidad, no del aislamiento; signo de fortaleza, no de debilidad» [CapExt-1992, §V].
 
 ### Constituciones de 1984
@@ -54,6 +56,7 @@ Las Constituciones subrayan que el espíritu de cuerpo no es una cualidad opcion
 - **Espíritu de cuerpo vs. endogamia:** el espíritu de cuerpo sano se integra en la Iglesia universal y se abre al mundo; la endogamia cierra al grupo sobre sí mismo.
 - **Lealtad vs. complacencia:** la lealtad auténtica incluye la capacidad de corrección y la honestidad; la complacencia ante el error es una forma de deslealtad al ideal de la Congregación.
 - **Identidad compartida vs. uniformidad:** el espíritu de cuerpo preserva la diversidad de vocaciones, culturas y dones dentro de la unidad del carisma.
+- **Espíritu de cuerpo en la Federación:** con la constitución de la Federación Regnum Christi, el espíritu de cuerpo se extiende más allá de la Congregación para abarcar a todas las vocaciones del Regnum Christi, sin diluir la identidad propia de cada institución.
 
 ## Relaciones doctrinales
 

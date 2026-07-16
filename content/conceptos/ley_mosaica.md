@@ -27,9 +27,31 @@ Su función principal fue pedagógica: preparar a Israel para la venida de Crist
 
 La Ley antigua es el primer estado de la Ley revelada, cuyas prescripciones morales están resumidas en los Diez mandamientos (§1962). Dios eligió a Israel y le reveló su Ley, preparando la venida de Cristo (§1961). La Ley de Moisés contiene muchas verdades naturalmente accesibles a la razón (§1981). La Ley antigua no daba el Espíritu Santo, por el cual "la caridad es difundida en nuestros corazones" (Rm 5,5) (§1964). La integridad de la Ley mosaica fue exigida por los fariseos en su letra, pero Cristo la lleva a plenitud (§579).
 
+### Según Benedicto XVI (JdN_I)
+
+Benedicto XVI dedica el capítulo 2 de *Jesús de Nazaret I* a la «Torá del Mesías», mostrando que Jesús no vino a abolir la Ley mosaica, sino a llevarla a su cumplimiento. Su análisis gira en torno a tres ejes:
+
+**No abolir, sino dar plenitud.** «No creáis que he venido a abolir la Ley o los Profetas: no he venido a abolir, sino a dar plenitud» (Mt 5,17). Jesús refuerza el Decálogo y lo profundiza con su autoridad divina. La Torá del Mesías es «totalmente nueva, diferente, pero precisamente por eso “da cumplimiento” a la Torá de Moisés» (JdN_I).
+
+**Derecho casuístico y derecho apodíctico.** Benedicto XVI desarrolla la distinción entre el derecho casuístico (normas concretas para situaciones históricas específicas) y el derecho apodíctico (metanormas que expresan la voluntad de Dios). Dentro de la propia Torá hay un «diálogo continuo entre normas condicionadas por la historia y metanormas. Estas últimas expresan lo que la Alianza exige permanentemente. La opción fundamental de las metanormas es la garantía que Dios ofrece en favor de los pobres». Jesús no invalida esta distinción, sino que la lleva a su radicalidad: la justicia mayor que exige es la correspondencia con la voluntad del Padre, expresada en las metanormas.
+
+**Superación sin transgresión.** Benedicto XVI distingue cuidadosamente entre *Überschreitung* (superación) y *Übertretung* (transgresión). Jesús supera la letra de la Ley sin contradecir su espíritu: el sábado se da al hombre, no el hombre al sábado; el cuarto mandamiento no se suprime, sino que se abre a la nueva familia de los discípulos de Jesús. La comunidad de los discípulos «rompe» el orden social de Israel, pero solo para fundar un orden más amplio: la familia universal de los que cumplen la voluntad del Padre.
+
+**Pablo y la «ley de Cristo».** Benedicto XVI lee la Carta a los Gálatas en continuidad con el Sermón de la Montaña: «Habéis sido llamados a la libertad» (Ga 5,13). La libertad cristiana no es libertad para la carne, sino libertad iluminada por el Espíritu que encuentra su contenido en el amor. La «ley de Cristo» (Ga 6,2) es esta libertad para el bien, que retoma lo mejor de la Torá y lo universaliza.
+
+**Jacob Neusner y el diálogo judeo-cristiano.** Benedicto XVI usa el diálogo imaginario entre el rabino Neusner y Jesús para mostrar la radical novedad del mensaje de Jesús respecto del judaísmo. El punto de conflicto no es una moral más laxa, sino la pretensión de Jesús de ser Él mismo la Torá y el templo en persona. La comunidad de los discípulos reemplaza al Israel terrenal no por sustitución, sino por universalización: la nueva familia ya no se funda en la carne de Abraham, sino en la comunión con Jesús.
+
+**Domingo y sábado.** La sustitución del sábado por el domingo no es una ruptura, sino la continuación de su significado en la nueva creación. «El “primer día” —el comienzo de la creación— se convirtió en el “día del Señor”… Con la Resurrección de Cristo, aquel día se convirtió en el día de la libertad, del descanso y de la fiesta». Benedicto XVI critica a los liturgistas que quieren abandonar la función social del domingo: «Me parece sumamente preocupante que los modernos liturgistas quieran dejar de nuevo a un lado esta función social del domingo, que está en continuidad con la Torá de Israel».
+
+**Iglesia y doctrina social.** La Torá del Mesías no es un programa social, pero establece los criterios fundamentales para todo ordenamiento social. «Jesús dinamiza los ordenamientos jurídicos y sociales concretos; el arrancarlos del inmediato ámbito divino y trasladar la responsabilidad a una razón capaz de discernir, forma parte de la estructura intrínseca de la Torá misma». De aquí brota la doctrina social de la Iglesia: una reflexión constante sobre cómo los ordenamientos sociales deben conformarse a la voluntad de Dios revelada en Cristo.
+
 ### Según Royo Marín (TPCr)
 
-Royo Marín trata la Ley mosaica en el contexto del plan divino de salvación y su cumplimiento en Cristo. La Ley antigua fue el marco de la Alianza de Dios con Israel, preparando el camino para la Nueva Alianza en Cristo. Los preceptos del Decálogo, como ley natural promulgada, siguen vigentes en su contenido moral (TPCr, Primera Parte, Cap. I).
+[TPCr, Primera Parte, Cap. I] La ley mosaica es ley promulgada por Dios a través de Moisés en el Sinaí (Ex 19-20). Santo Tomás (S.Th. Ia-IIae q.98-108) analiza su naturaleza, sus preceptos y su duración. La ley antigua fue buena pero imperfecta: no confería la gracia necesaria para cumplir sus preceptos, era pedagógica y preparaba para Cristo. Sus preceptos se dividen en morales, ceremoniales y judiciales. Los morales (Decálogo) son permanentes y se ordenan a la caridad; los ceremoniales y judiciales cesaron en su obligatoriedad con la venida de Cristo.
+
+### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+
+[VocTeoBib, «Ley»] La *torah* hebrea significa «enseñanza» dada por Dios para reglar la conducta. Comprende la ley natural (desde Adán hasta Moisés, grabada en el corazón, Rom 2,14s), la ley mosaica (prescripciones morales, ceremoniales y judiciales, centradas en el Decálogo) y la ley nueva de Cristo. La ley mosaica, santa y espiritual (Rom 7,12.14), no da la fuerza para cumplirla (Rom 7,16ss); su función es pedagógica, preparar para Cristo (Gal 3,23s). Jesús la cumple y la perfecciona (Mt 5,17ss), inaugurando la ley de Cristo, inscrita en los corazones por el Espíritu (Jer 31,33; Ez 36,26s; 2Cor 3,3).
 
 ### Según la Summa Theologiae (SmTh)
 

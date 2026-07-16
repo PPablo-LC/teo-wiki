@@ -6,6 +6,7 @@ tags: ["ascética", "mística"]
 timestamp: 2026-07-13
 description: "La oración es la elevación de la mente a Dios para alabarle y pedirle cosas convenientes a la eterna salvación (Santo Tomás, recogiendo las definiciones de San Juan Damasceno)."
 ---
+
 # Oración
 
 > Área: Ascética / Mística
@@ -103,7 +104,7 @@ León XIV presentó la oración como «encuentro personal con Cristo» durante l
 
 ### Según UDE (1994)
 
-El Espíritu Santo es el protagonista de la oración (Rm 8,26). El hombre como sacerdote de la creación. *Opus gloriae*. La oración como búsqueda de Dios y revelación de Dios. La geografía de la oración del Papa. Oración por los que sufren, por los difuntos. [UDE, Cap. II-III]
+El Espíritu Santo es el protagonista de la oración (Rom 8,26). El hombre como sacerdote de la creación. *Opus gloriae*. La oración como búsqueda de Dios y revelación de Dios. La geografía de la oración del Papa. Oración por los que sufren, por los difuntos. [UDE, Cap. II-III]
 
 ### Colaciones II — Juan Casiano (ColCas-II)
 
@@ -142,6 +143,20 @@ Se relaciona con la [[vida_de_oración]], los [[grados_de_oración]], la [[medit
 
 ## Ver también
 [[vida_de_oración]], [[grados_de_oración]], [[meditación]], [[contemplación]], [[oración_litúrgica]], [[amor_puro]], [[unigenitus]]
+
+### Según fuentes históricas LC-Wik (1980-1998)
+
+#### Principios y Normas — Legionarios de Cristo (1984)
+
+El n. 139 de *Principios y Normas* describe la oración legionaria como **«oración discursivo-afectiva»**: método que combina raciocinio (discurso mental, meditación de verdades de fe) y corazón (afectos, propósitos, conversión). Esta modalidad es la base de la oración mental diaria de los legionarios. El mismo documento establece un horario de oración en la jornada: la meditación matutina como momento central, el rezo del Oficio, la misa y la oración personal vespertina. La oración no es un momento aislado sino el fundamento de toda la jornada apostólica.
+
+#### Constituciones — Legionarios de Cristo (1984)
+
+Las Constituciones identifican la **meditación** como oración primaria y prioritaria del religioso legionario: cada día debe dedicar tiempo suficiente a la meditación de la Palabra de Dios, considerándola el pilar de la vida espiritual. La oración litúrgica (Misa, Oficio de Hours, rezo del Rosario) complementa y nutre la oración personal.
+
+#### Salterio de mis Días (RC)
+
+El *Salterio de mis Días* (manual de oración del Regnum Christi) describe la oración como **diálogo personal con Cristo**: no recitación mecánica, sino conversación amistosa con quien se sabe que nos ama. El *desapego* es señal de oración auténtica: desprenderse de las criaturas para adherirse a Dios. La oración aprende a amar más a Dios que las consolaciones sensibles.
 
 ## Referencias
 

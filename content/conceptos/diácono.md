@@ -41,6 +41,10 @@ Los diáconos son ministros sagrados en el grado inferior del Orden, ordenados p
 
 El diácono pertenece a la jerarquía de orden: «Está formada por los obispos, presbíteros y ministros (al menos los diáconos), como consta por la definición expresa del concilio de Trento» (TPCr, Tercera Parte, Libro II, Cap. I).
 
+### Según la IGMR (2000)
+
+El diácono es el primer ministro después del sacerdote en la celebración eucarística (§94). Sus funciones litúrgicas en la Misa incluyen: proclamar el Evangelio y, en ciertos casos, predicar la homilía (§172); proponer las intenciones de la oración de los fieles (§172); asistir al sacerdote en el ofertorio, preparar el altar y los vasos sagrados (§173-174); distribuir la Sagrada Comunión (§182); purificar y arreglar los vasos sagrados (§183). La dalmática es la vestidura propia del diácono (§338).
+
 ## Distinciones importantes
 
 - **Diácono vs. presbítero**: el diácono no puede celebrar la Eucaristía ni administrar el sacramento de la Penitencia o la Unción de los enfermos
