@@ -40,6 +40,18 @@ El CEC subraya que la interpretación de la Escritura queda sometida al juicio d
 
 *Dei Verbum* 12 establece las reglas fundamentales para la interpretación de la Escritura. Hay que atender a los géneros literarios, investigar la intención del hagiógrafo según su tiempo y cultura, y la Escritura debe leerse e interpretarse «con el mismo Espíritu con que se escribió». Para ello hay que atender al contenido y a la unidad de toda la Sagrada Escritura, a la Tradición viva de toda la Iglesia y a la analogía de la fe. Todo lo referente a la interpretación de la Sagrada Escritura está sometido en última instancia a la Iglesia, que tiene el mandato divino de conservar e interpretar la palabra de Dios.
 
+### Según Benedicto XVI (JdN_III)
+
+En el proemio de *Jesús de Nazaret III*, Benedicto XVI expone su método exegético, que complementa los criterios tradicionales con una dimensión hermenéutica específica.
+
+**Dos pasos para una interpretación correcta.** Benedicto XVI sostiene que una interpretación correcta de la Escritura requiere dos pasos: «Por un lado, hay que preguntarse qué es lo que los respectivos autores querían decir en su momento histórico con sus correspondientes textos; éste es el componente histórico de la exegesis. Pero no basta con dejar el texto en el pasado, archivándolo así junto con los acontecimientos sucedidos hace tiempo. La segunda pregunta del auténtico exegeta debe ser ésta: ¿Es cierto lo que se ha dicho? ¿Tiene que ver conmigo? Y, en este caso, ¿de qué manera?».
+
+**La dimensión trinitaria de la hermenéutica.** Ante un texto como la Biblia, «cuyo último y más profundo autor, según nuestra fe, es Dios mismo, la cuestión sobre la relación del pasado con el presente forma parte inevitablemente de la interpretación misma». Esto no disminuye el rigor de la investigación histórica, sino que lo aumenta: «Con ello no disminuye el rigor de la investigación histórica, sino que lo aumenta».
+
+**El coloquio entre pasado, presente y futuro.** Benedicto XVI describe su método como un «coloquio entre el pasado, el presente y el futuro» que «nunca podrá darse por concluido, y que cualquier interpretación se queda corta respecto a la grandeza del texto bíblico». Esta hermenéutica del diálogo evita tanto el historicismo (reducir el texto al pasado) como el alegorismo subjetivo (prescindir del sentido histórico).
+
+**La exegesis canónica.** En el contexto de las genealogías de Mateo y Lucas (JdN_III, Cap. I), Benedicto XVI aplica su método mostrando cómo los dos autores bíblicos trabajan con el mismo material histórico pero lo interpretan desde perspectivas complementarias: Mateo enfatiza la continuidad con la promesa davídica, mientras que Lucas subraya el nuevo comienzo que Jesús representa. Ambos son autores teológicos que interpretan la historia a la luz de la fe.
+
 ### Según Raymond Brown (HEB)
 
 Brown aborda la interpretación auténtica de la Escritura (HEB §82-90) distinguiendo entre declaraciones dogmáticas y decisiones prudenciales de la Iglesia. Señala que la Pontificia Comisión Bíblica emitió entre 1905 y 1915 directrices que hoy, con aprobación de la misma Comisión, son consideradas «algo perteneciente al pasado» (HEB §83).

@@ -91,6 +91,18 @@ La Veritatis Splendor sitúa la verdad en el centro de la vida moral. Jesucristo
 
 La encíclica (VS §32-35, §84-89) presenta la verdad como fundamento de la libertad y de la vida moral. Jesucristo es la Verdad que libera (cf. Jn 8, 32). La libertad humana, herida por el pecado, necesita ser liberada por la verdad de Cristo. El martirio cristiano (§90-94) es el testimonio supremo de la verdad moral: los mártires dan su vida antes que cometer un acto intrínsecamente malo, mostrando que la fidelidad a la verdad moral vale más que la vida misma. «No es lícito hacer el mal para obtener un bien» (§56, 80). En el diálogo con el joven rico, Jesús responde desde la verdad de Dios y revela el camino de la vida eterna (§6-8). La conciencia moral es la aplicación de la verdad sobre el bien a una situación concreta (§59-61).
 
+### Según Benedicto XVI (JdN_III)
+
+En *Jesús de Nazaret III*, Benedicto XVI aborda la verdad desde la pregunta de Pilato a Jesús: «¿De dónde eres tú?» (Jn 19,9) y la declaración de Jesús como testigo de la verdad (Jn 18,37).
+
+**La verdad como identidad de Jesús.** La pregunta de Pilato sobre el origen de Jesús es en realidad un interrogante sobre su ser y su misión. Benedicto XVI subraya que Jesús no es simplemente un maestro de verdades morales, sino que Él mismo es la Verdad: su persona y su mensaje son inseparables. La pregunta «¿De dónde eres tú?» apunta al misterio del doble origen de Jesús —humano y divino— que constituye la clave de toda la cristología.
+
+**Jesús testigo de la verdad.** Ante Pilato, Jesús declara: «Para esto he nacido y para esto he venido al mundo, para ser testigo de la verdad» (Jn 18,37). Benedicto XVI interpreta que este testimonio no es meramente informativo, sino existencial: Jesús no solo enseña la verdad, sino que la vive y la encarna. Su testimonio se extiende desde el interrogatorio ante Pilato hasta la cruz, donde la verdad se manifiesta plenamente en el sacrificio de amor.
+
+**La verdad y el reino.** La declaración de Jesús —«Mi reino no es de aquí» (Jn 18,36)— revela que la verdad del Reino de Dios trasciende los cálculos políticos y las categorías del poder mundano. Benedicto XVI destaca que la verdad del Reino se manifiesta precisamente en la aparente derrota de la cruz: «la cruz es el acto del éxodo, el acto del amor que se toma en serio y llega hasta el extremo (Jn 13,1), y por ello es el lugar de la gloria».
+
+**La verdad en el Prólogo de Juan.** En la interpretación del Prólogo joánico, Benedicto XVI conecta la verdad con el Logos: «En el principio ya existía la Palabra, y la Palabra estaba junto a Dios, y la Palabra era Dios» (Jn 1,1). El origen de Jesús es el «principio» mismo, la causa primera de la que todo proviene. Jesús es la verdad porque viene de Dios y es Dios; su venida al mundo inaugura «un nuevo modo de ser hombres» (Jn 1,12-13).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[libertad_humana]], [[justicia]], [[caridad]], [[conciencia_moral]], [[ley_natural]]

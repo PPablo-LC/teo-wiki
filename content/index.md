@@ -3,7 +3,7 @@ tags:
   - meta
   - index
 title: Wiki Index
-updated: '2026-07-15'
+updated: '2026-07-16'
 note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts/regenerar-indice.py'
 ---
 
@@ -1045,6 +1045,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[gaudete_et_exsultate]]
 - [[gaudium_et_spes]]
 - [[gaudium_et_spes_22]]
+- [[genealogia_de_jesus]]
 - [[genealogía_de_cristo]]
 - [[generación]]
 - [[generación_divina]]
