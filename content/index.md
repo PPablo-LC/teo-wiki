@@ -908,6 +908,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[esterilidad]]
 - [[esterilización]]
 - [[estigmatización]]
+- [[estrella_de_belen]]
 - [[estructuras_de_pecado]]
 - [[estudiosidad]]
 - [[estupro]]
@@ -2832,6 +2833,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 
 ### H
 
+- [[herodes_el_grande]]
 - [[hilario_papa]]
 - [[honorio_i]]
 - [[hormisdas_papa]]

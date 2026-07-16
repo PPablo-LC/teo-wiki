@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Egipto
 tags: ["bíblica"]
 
-timestamp: 2026-06-02
+timestamp: 2026-07-16
 description: "Egipto es la nación extranjera que más manifiesta en la historia sagrada la ambigüedad de los poderes terrenos."
 ---
 # Egipto
 
 > Área: Bíblica
-> Última actualización: 2026-06-02
+> Última actualización: 2026-07-16
 
 ## Definición
 
@@ -29,6 +29,20 @@ Dios juzga a Egipto en el Éxodo, en la época monárquica (Is 19,1-15; Ez 29-32
 
 [VocTeoBib, «Egipto»]
 
+### Según Jesús de Nazaret III (Benedicto XVI)
+
+Benedicto XVI presenta la huida de la Sagrada Familia a Egipto como una recapitulación del Éxodo原始. Para el autor, la historia de Israel comienza de nuevo y de un modo nuevo con el retorno de Jesús de Egipto a la Tierra Santa:
+
+> «Para el evangelista, la historia de Israel comienza otra vez y de un modo nuevo con el retorno de Jesús de Egipto a la Tierra Santa. Porque la primera llamada para volver del país de la esclavitud había ciertamente fracasado bajo muchos aspectos.» (JdN_III)
+
+Benedicto subraya que en Oseas, la respuesta de Israel a la llamada del Padre es el alejamiento: «Cuanto más los llamaba, más se alejaban de mí» (Os 11,2). Así que Israel, «por decirlo así, sigue estando todavía, una y otra vez, en Egipto».
+
+Sin embargo, con Jesús se cumple el Éxodo definitivo:
+
+> «Jesús concede el don del éxodo definitivo. Él es verdaderamente el Hijo. Él no se irá para alejarse del Padre. Vuelve a casa y lleva a casa. Él está siempre en camino hacia Dios y con eso conduce del destierro al hogar, a lo que es esencial y propio.» (JdN_III)
+
+La perspectiva benedictina transforma la huida a Egipto de un simple episodio de protección en un acontecimiento escatológico: Cristo, el verdadero Hijo, «ha ido él mismo al "exilio" en un sentido muy profundo para traernos a todos desde la alienación hasta casa».
+
 ## Distinciones importantes
 
 - Egipto como «refugio providencial» ≠ Egipto como «tentación de esclavitud»: la misma tierra puede ser bendición o maldición según la disposición del corazón.
@@ -45,3 +59,4 @@ Egipto se relaciona con el [[éxodo]] como liberación fundante, con la [[pascua
 ## Referencias
 
 - [VocTeoBib, «Egipto»]
+- Benedicto XVI, *Jesús de Nazaret* III, Cap. IV: «Los Magos de Oriente»
