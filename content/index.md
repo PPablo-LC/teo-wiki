@@ -3062,6 +3062,8 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[carta_al_presbiterio_de_madrid]]
 - [[casti_connubii]]
 - [[catecismo_de_la_iglesia_católica]]
+- [[colaciones_i_juan_casiano]]
+- [[colaciones_ii_juan_casiano]]
 - [[comentarios_al_código_de_derecho_canónico]]
 - [[como_una_madre_amorosa]]
 - [[compendio_de_doctrina_social_de_la_iglesia]]
@@ -3100,6 +3102,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 ### H
 
 - [[hermenéutica_y_biblia]]
+- [[historia_de_la_iglesia_rivero]]
 - [[humanae_vitae]]
 - [[humani_generis]]
 
@@ -3108,9 +3111,16 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[immortale_dei]]
 - [[institutio_generalis_missalis_romani]]
 
+### J
+
+- [[jesus_de_nazaret_i]]
+- [[jesus_de_nazaret_ii]]
+- [[jesus_de_nazaret_iii]]
+
 ### L
 
 - [[la_joven_de_carácter]]
+- [[la_regla_de_san_benito]]
 - [[laborem_exercens]]
 - [[lamentabili]]
 - [[levantaos_vamos]]
