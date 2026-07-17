@@ -39,6 +39,18 @@ La Sagrada Escritura, Antiguo y Nuevo Testamento, es la fuente principal de la t
 
 [TPCr, Introducción General; Parte III, Libro II, Cap. IV, n.657]
 
+### Pórtico de la Biblia (PdB)
+
+El Pórtico de la Biblia ofrece una comparación de los distintos cánones del Primer o Antiguo Testamento. Sus 46 libros en la Biblia Católica se distribuyen en las tres partes de la Biblia hebrea: Torah (Ley), Nebiim (Profetas) y Ketubim (Escritos), ordenación conocida como Tanak. El canon católico incluye los deuterocanónicos (Tobit, Judit, 1 y 2 de Macabeos, Sabiduría, Eclesiástico, Baruc y las adiciones a Daniel y a Ester), ausentes del canon hebreo.
+
+El PdB ordena los libros del Antiguo Testamento con criterio cronológico: libros históricos (del Pentateuco a los Macabeos), proféticos y sapienciales. Ofrece mapas que contextualizan el escenario geopolítico de cada época: Canaán en la prehistoria bíblica, los imperios circumvecinos (Egipto, Asiría, Babilonia, Media, Persia, reinos seléucida y lágida) y las dominaciones grecorromanas.
+
+La tabla de la evolución del canon se articula mediante cinco estadios: los Libros de la Ley (Torá, Pentateuco) son los primeros en ser sancionados, alrededor del s. V-IV a.C.; los libros proféticos (Nebiim), hacia el s. III-II a.C.; los Escritos (Ketubim), cerrados probablemente en el Concilio de Jamnia/Yavne (h. 90-100 d.C.); el canon de la Septuaginta (LXX), también denominado canon alejandrino (III-II a.C.), aceptó algunos deuterocanónicos; mientras la Iglesia cristiana primitiva heredó el canon de la LXX y admitió los deuterocanónicos, refrendado en el Concilio de Trento, Session IV (1546) frente a la posición de Lutero de retornar al canon hebreo (Tanak). El esquema visual finaliza con la tabla sinóptica de los cánones: Tanak (c. s. I y II d.C.), Septuaginta (c. III-II a.C.), Biblia Católica (Trento, 1546), Biblia ortodoxa (canon largo) y Biblias protestantes (canon corto).
+
+El PdB también data la composición de los principales libros: Pentateuco (siglos XV-V a.C.), los Macabeos (siglo I a.C.), y sitúa la redacción de los profetas en sus contextos históricos correspondientes.
+
+[PdB, Cr3-5, Cro-1]
+
 ## Distinciones importantes
 
 - **Antiguo Testamento vs. Nuevo Testamento**: el Nuevo da cumplimiento al Antiguo; ambos se esclarecen mutuamente

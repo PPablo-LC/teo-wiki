@@ -57,6 +57,16 @@ Los tres grandes enemigos del alma —mundo, demonio y carne— actúan sobre la
 
 [TPCr, Parte III, Libro I; Cap. II-III]
 
+### Elegidos en Cristo para ser santos (EcCsS)
+
+El «fondo endotímico» designa la profundidad del mundo afectivo e interior del hombre, aquella zona donde se juegan las disposiciones más íntimas de la persona. En este fondo se encuentran la sensibilidad, la afectividad y la emotividad, que constituyen las dimensiones más profundas de la vida pasional humana.
+
+Siguiendo la comprensión tomista, las pasiones son movimientos del apetito sensitivo que siguen a la aprehensión de los sentidos. Se dividen en pasiones del apetito concupiscible (amor, odio, deseo, aversión, gozo, tristeza) y del apetito irascible (esperanza, desesperación, audacia, temor, ira). Las pasiones no son en sí mismas ni buenas ni malas: su moralidad depende de si están sometidas a la razón y a la voluntad, o si se rebelan contra elles.
+
+La sensibilidad comprende los sentidos externos e internos y las tendencias naturales del cuerpo. La afectividad abarca las disposiciones profundas del corazón, inclinaciones afectivas y vínculos interpersonales. La emotividad se refiere a las reacciones espontáneas del ánimo ante las percepciones de bien o mal. Estas tres dimensiones se entrelazan en la experiencia humana y configuran el «fondo endotímico» que la gracia puede purificar y elevar.
+
+En el orden sobrenatural, la gracia no anula las pasiones sino que las ordena y transforma. Los dones del Espíritu Santo, especialmente el don de piedad y el don de temor de Dios, perfeccionan la sumisión de las pasiones al gobierno del Espíritu, de modo que las pasiones mismas pueden convertirse en impulsos del amor a Dios y al prójimo.
+
 ## Distinciones importantes
 
 - **Pasiones del apetito concupiscible**: amor, odio, deseo, aversión, gozo, tristeza
@@ -86,3 +96,4 @@ Las pasiones se relacionan con la [[templanza]] (las concupiscibles) y la [[fort
 - SmTh Iª q.95 aa.2-3
 - SmTh IIIª q.14 aa.1-4
 - SmTh IIIª q.15 aa.2,4
+- EcCsS, *Elegidos en Cristo para ser santos*, cap. sobre las pasiones

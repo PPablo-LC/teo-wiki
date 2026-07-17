@@ -35,6 +35,16 @@ La Vida de Jesús (VJ) presenta la institución de la Eucaristía en la Última 
 
 [VJ, Cap. V]
 
+### Pórtico de la Biblia (PdB)
+
+El Pórtico de la Biblia sitúa la Nueva Alianza en una cronología que abarca desde la infancia de Jesús y su vida pública hasta la expansión de la Iglesia primitiva en el siglo I d.C. A continuación presenta las fechas tradicionales de composición de cada uno de los libros del NT y un recuadro específico sobre las versiones y manuscritos, aportando información precisa de los papiros y manuscritos unciales, así como la datación probable de los Evangelios Sinópticos y de Juan, las Cartas Paulinas (auténticas y discutidas), las católicas y el Apocalipsis (Cro-10).
+
+La expansión geográfica que ofrece el PdB es paulatina y gradual: desde Jerusalén (Pentecostés), pasando por Judea y Samaría (Felipe, Pedro, Juan), Antioquía de Siria (primera comunidad mixta judeo-gentil), Chipre, Asia Menor, Macedonia y Acaya (tres viajes de Pablo), hasta llegar a Roma como centro del mundo conocido. Se detallan los viajes misionales de San Pablo en tres planos, con testimonios epigráficos (Delfos, Corinto, Éfeso; Ara Pacis; monedas), así como el papel de los puertos y las calzadas romanas. El PdB ofrece un mapa de las siete iglesias del Apocalipsis, María en el Nuevo Testamento, las catacumbas (cementerios) paleocristianas y testimonios arqueológicos de Tierra Santa.
+
+La geografía eclesiástica inicial también se ilustra con mapas de los concilios ecuménicos antiguos (Niceno I, Constantinopla I, Éfeso, Calcedonia). El panorama visual culmina con el mapa de la palabra de Dios, distribuyendo la revelación entre los autores del Antiguo Testamento y el Nuevo, cerrando así el panorama de la Nueva Alianza como parte de la revelación completa.
+
+[PdB, Cro-10; Cro-11]
+
 ## Distinciones importantes
 
 - La Nueva Alianza no anula la Antigua sino que la cumple y perfecciona

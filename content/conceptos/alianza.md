@@ -52,6 +52,15 @@ La alianza está presente en la Eucaristía, que renueva la alianza del Señor c
 
 [TPCr, Parte III, Libro II, Cap. III, n.330; Cap. IV-V, n.656]
 
+### Pórtico de la Biblia (PdB)
+
+El Pórtico de la Biblia presenta el conjunto de las alianzas de Dios con la humanidad como un panorama visual que abarca desde la creación hasta la consumación. La secuencia de alianzas —Noé, Abraham, Moisés, David y Cristo— constituye el hilo conductor o «columna vertebral» de la historia de la salvación. Cada una de ellas se despliega en un contexto geográfico e histórico concreto, documentado mediante mapas y cronologías.
+
+La alianza con Noé, posterior al diluvio universal, tiene carácter cósmico y se extiende a toda la humanidad y a toda criatura. La alianza con Abraham da inicio al pueblo elegido mediante la promesa de una tierra y una descendencia numerosa. La alianza sinaítica introduce la Ley y constituye formalmente a Israel como nación santa. La alianza davídica vincula el reinado mesiánico a la descendencia de David. Todas ellas culminan en la Nueva Alianza sellada con la Sangre de Cristo.
+
+El PdB ofrece una tabla cronológica ininterrumpida (Cro-8) que sitúa cada alianza en su horizonte temporal, vinculada a los libros bíblicos correspondientes y acompañada de mapas, como la cartografía catastral de Tierra Santa. Esta organización visual permite apreciar la unidad del plan divino salvífico a través de las sucesivas etapas de la historia de la salvación.
+
+[PdB, Panorama de las alianzas, Cro-8]
 
 ## Distinciones importantes
 

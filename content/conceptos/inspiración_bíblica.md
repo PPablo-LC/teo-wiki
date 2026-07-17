@@ -51,7 +51,19 @@ La inspiración no hace del cristianismo una "religión del Libro": el cristiani
 
 **Pío XII** — Encíclica *Divino afflante Spiritu* (1943, D‑2292–D‑2294): Confirmó la autenticidad de la Vulgata como versión oficial de la Iglesia latina, pero autorizó y alentó el uso de los textos originales para la exégesis. Enseñó que el exegeta debe determinar el sentido literal mediante el conocimiento de las lenguas, el contexto y la comparación, teniendo en cuenta las explicaciones del magisterio y de los Padres. Introdujo el estudio de los géneros literarios como herramienta para resolver dificultades sobre la verdad histórica de la Escritura.
 
-**Pío XI** — Decreto del Santo Oficio (1927, D‑2198): Confirmó que la autenticidad del *Comma Johanneum* (1 Jn 5,7: «Porque tres son los que dan testimonio en el cielo: el Padre, el Verbo y el Espíritu Santo, y estos tres son una sola cosa») «no puede negarse con seguridad» (*tuto negari non potest*), reprimiendo la audacia de doctores particulares que lo rechazaban. No obstante, permitió a los escritores católicos investigar más a fondo el asunto, con tal de declararse dispuestos a atenerse al juicio de la Iglesia, a la que Cristo encomendó custodiar e interpretar las Escrituras.
+**Pío XI** — Decreto del Santo Oficio (1927, D‑2198): Confirmó que la autenticidad del *Comma Johanneum* (1 Jn 5,7: «Porque tres son los que dan testimonio en el cielo: el Padre, el Verbo y el Espíritu Santo, y estos tres son una sola cosa») «no puede negarse con seguridad» (*tuto negari non potest*), suprimiendo la audacia de doctores particulares que lo rechazaban. No obstante, permitió a los escritores católicos investigar más a fondo el asunto, con tal de declararse dispuestos a atenerse al juicio de la Iglesia, a la que Cristo encomendó custodiar e interpretar las Escrituras.
+
+### Pórtico de la Biblia (PdB)
+
+El Pórtico de la Biblia complementa la doctrina dogmática sobre la inspiración con una visión panorámica del proceso de formación del canon bíblico. Subraya que la inspiración divina opera a través de un largo proceso histórico de varias centurias: las tradiciones orales precedieron a la redacción escrita, que fue posteriormente transmitida, copiada, editada y reconocida en ámbito canónico por la comunidad de fe.
+
+Sobre el Antiguo Testamento, el PdB documenta los hallazgos de Qumrán (manuscritos del siglo II a.C. al I d.C.), el Pentateuco samaritano, las principales versiones (Septuaginta, Vetus Latina, Vulgata, Peshitta), los manuscritos medievales (Codex Leningrado, ms. de El Cairo) e información sobre los grandes códices unciales que transmiten ambos Testamentos.
+
+Para el Nuevo Testamento aporta datos de los papiros P52 (Jn 18,31‑33.37‑38) y P75 (Lc y Jn), del siglo II, y los grandes códices unciales de los siglos IV‑V: Codex Vaticanus (B), Codex Sinaiticus (א), Codex Alexandrinus (A), Codex Ephraemi rescriptus (C) and Codex Bezae (D). Esta evidencia manuscrita, que acerca la transmisión textual a siglo y medio del original, sirve como testimonio histórico de la autenticidad de la transmisión del texto sagrado.
+
+La comunidad de fe desempeñó un papel decisivo en el proceso de canon: no confirió la inspiración a los libros, sino que la reconoció, discerniendo qué escritos estaban animados por el Espíritu Santo mediante la lex orandi y la lex credendi. El PdB ofrece tablas sinópticas con el canon de la Biblia Católica, el canon largo ortodoxo, el canon corto protestante, el Tanak y la Septuaginta.
+
+[PdB, Cro-1, ms-1]
 
 ## Distinciones importantes
 

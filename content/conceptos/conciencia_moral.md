@@ -53,6 +53,14 @@ La Veritatis Splendor dedica toda la sección II del Capítulo II a la concienci
 
 La conciencia es el «santuario del hombre» (GS 16). Debe ser seguida incluso si es errónea por ignorancia invencible. Santo Tomás (I-II q.19 a.5). Newman: la conciencia está por encima de la autoridad. [UDE, Cap. XXIX]
 
+### Elegidos en Cristo para ser santos (EcCsS)
+
+La conciencia moral es la norma próxima de moralidad: es el juicio práctico de la razón que aplica los principios generales de la ley moral a la situación concreta del obrar humano. En la conciencia, la persona humana discierne qué es bueno y qué es malo en cada acto concreto. La conciencia no es una ley que el hombre se dicta a sí mismo, sino que refleja la ley divina inscrita en el corazón.
+
+La formación de la conciencia es un deber grave y permanente. Se forma mediante la asimilación de la Palabra de Dios, la oración, la recepción de los sacramentos, el consejo de los demás y la enseñanza de la Iglesia. Una conciencia bien formada permite al hombre juzgar rectamente sobre la moralidad de sus actos y obrar en consecuencia.
+
+La ignorancia puede ser invencible o vencible. La ignorancia invencible —aquella que no se puede superar con medios ordinarios de diligencia— no es culpable, pues el sujeto no puede conocer la verdad que se le pide. La ignorancia vencible —aquella que podría superarse con un uso diligente de los medios a disposición del sujeto— sí puede ser imputable, en mayor o menor grado según la negligencia de quien la padece. La culpabilidad de un acto moral depende siempre de la medida del conocimiento y de la libertad con que se obra.
+
 ## Analizado en contexto cultural
 
 - [[pinocho]] — el Grillo Parlante como personificación de la conciencia moral; tensión entre conciencia natural y ley divina
@@ -66,3 +74,4 @@ La conciencia es el «santuario del hombre» (GS 16). Debe ser seguida incluso s
 - [CEC §1776-1802]
 - [GS 16]
 - [Santo Tomás, S.Th. I, q. 79, aa. 12-13]
+- EcCsS, *Elegidos en Cristo para ser santos*, cap. sobre la conciencia moral

@@ -39,6 +39,16 @@ En el Antiguo Testamento, Dios aparece como Creador y Legislador, pero el mister
 
 [TPCr, Introducción General; Parte III, Libro II, Cap. III-IV]
 
+### Pórtico de la Biblia (PdB)
+
+El Pórtico de la Biblia divide la Antigua Alianza en ocho épocas o periodos históricos: 1) desde la creación al diluvio (protología); 2) desde Noé a Abraham (patriarcas postdiluvianos); 3) los patriarcas —Abraham, Isaac, Jacob, José—; 4) el Éxodo y la peregrinación por el desierto; 5) la conquista de Canaán y los Jueces; 6) la monarquía unida, el cisma y el reino de Judá; 7) el exilio babilónico; 8) el postexilio y el período intertestamentario (helenismo, Macabeos, ocupación romana).
+
+Cada época se acompaña de mapas históricos y localización espacial de los acontecimientos narrados, así como de las cronologías de los reyes y profetas de Judá e Israel, la evolución de los pueblos bíblicos Canaán, Fenicia, Sirofenicia, Filistea, Moab, Amón, Edom, Amalec), de los grandes imperios circundantes (Egipto, Asiria, Babilonia, Persia, Grecia, Roma), de la evolución del Templo desde Salomón hasta la restauración de Esdras/Nehemías y la refundación de Herodes.
+
+El PdB presenta la evolución de los manuscritos del Antiguo Testamento: del Pentateuco samaritano y la Septuaginta (LXX) a los rollos del Qumrán, el Codex Leningrado y el Alepo. Ofrece la comparación de los cánones del Tanak y de la Biblia cristiana. Asimismo sitúa cronológicamente a los profetas (Isaías, Jeremías, Ezequiel, los Doce profetas menores) insertos en la geopolítica regional.
+
+[PdB, Cro-3; Cro-5; Cro-8]
+
 ## Distinciones importantes
 
 - **Antigua Alianza vs. Nueva Alianza**: la Antigua prepara y figura la Nueva; la Nueva cumple y supera la Antigua

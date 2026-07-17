@@ -60,6 +60,7 @@ Santo Tomás trata la ley natural en la cuestión 94 de la Ia-IIae, cuyos seis a
 - [CEC §2070-2071]
 - [Santo Tomás, S.Th. I-II, q. 90-97]
 - [CIC cc. 22, 24 §1, 199, 1°]
+- EcCsS, *Elegidos en Cristo para ser santos*, cap. sobre la ley
 
 ### Según Memoria e Identidad (MI)
 
@@ -92,6 +93,14 @@ Pinckaers dedica el capítulo XVII de *Las Fuentes de la Moral Cristiana* a las 
 ### Según el Enchiridion Symbolorum (Denzinger)
 
 **Pío XII** — Encíclica *Summi Pontificatus* (1939, D‑2279): Definió la ley natural como «norma universal de moralidad» que tiene su fundamento en Dios, «omnipotente, creador y padre de todos, y juntamente supremo y perfectísimo legislador y juez». Afirmó que la negación de la ley natural es «la fuente primera y más profunda de los males que afligen a la moderna sociedad». La ley natural está inscrita en el corazón del hombre: «aquella voz que enseña aun a los indoctos y a las mismas tribus salvajes qué es bueno y qué es malo, qué lícito y qué ilícito».
+
+### Elegidos en Cristo para ser santos (EcCsS)
+
+La ley se inserta en la doctrina de las virtudes como principio que orienta y ordena el obrar humano hacia el bien. La ley eterna es la sabiduría divina que dirige todas las cosas hacia su fin; la ley natural es la participación de la ley eterna en la criatura racional, inscrita en el corazón del hombre por la luz de la inteligencia. La ley positiva —tanto divina como humana— se deriva de la ley natural y la concreta en normas particulares.
+
+El Decálogo no es solo una colección de normas morales, sino la expresión de la alianza entre Dios e Israel. Los mandamientos son la respuesta concreta del pueblo a la llamada de Dios, y su cumplimiento es condición de fidelidad a la alianza. La ley natural, cuyos preceptos principales están contenidos en el Decálogo, constituye el fundamento de toda moralidad y de toda legislación humana.
+
+La relación entre ley y virtudes es íntima: la ley natural expresa las inclinaciones naturales del hombre hacia el bien, y las virtudes son los hábitos que permiten obrar conforme a estas inclinaciones. La ley no se opone a la libertad, sino que la orienta hacia el bien verdadero. El cumplimiento de la ley, lejos de ser una constricción, es el camino para alcanzar la plenitud de la vida humana y la felicidad verdadera.
 
 ## Ver también
 

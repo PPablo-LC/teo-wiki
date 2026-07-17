@@ -3,7 +3,7 @@ tags:
   - meta
   - index
 title: Wiki Index
-updated: '2026-07-16'
+updated: '2026-07-17'
 note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts/regenerar-indice.py'
 ---
 
@@ -46,6 +46,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[acto_administrativo_canónico]]
 - [[acto_humano]]
 - [[acto_jurídico_canónico]]
+- [[acto_moral]]
 - [[acto_penitencial]]
 - [[acto_puro]]
 - [[actos_humanos]]
@@ -3089,6 +3090,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[ecclesia_in_america]]
 - [[ejercicios_espirituales_2026]]
 - [[el_joven_de_carácter]]
+- [[elegidos_en_cristo_para_ser_santos]]
 - [[evangelii_gaudium]]
 - [[evangelium_vitae]]
 
@@ -3148,6 +3150,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[pascendi]]
 - [[pascite_gregem_dei]]
 - [[pastores_dabo_vobis]]
+- [[portico_de_la_biblia]]
 
 ### Q
 

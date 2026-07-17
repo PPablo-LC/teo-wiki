@@ -1,48 +1,76 @@
 ---
 type: Concepto Teológico
-title: Canon bíblico
-tags: ["dogmática_—_escritura"]
-
-timestamp: 2026-06-24
-description: "El canon bíblico (del griego *kanon*: regla, norma) es la lista de los libros sagrados que la Iglesia reconoce como inspirados por Dios y normativos para la fe y la moral."
+title: "Canon bíblico"
+tags: ["teología_bíblica", "escritura", "tradición"]
+timestamp: 2026-07-17
+description: "Catálogo de los libros reconocidos como inspirados por Dios y aceptados como Sagrada Escritura por la comunidad creyente."
 ---
 # Canon bíblico
 
-> Área: Dogmática — Escritura
-> Última actualización: 2026-06-26
+> Área: Conceptos
+> Última actualización: 2026-07-17
 
 ## Definición
 
-El canon bíblico (del griego *kanon*: regla, norma) es la lista de los libros sagrados que la Iglesia reconoce como inspirados por Dios y normativos para la fe y la moral. Comprende 46 libros del Antiguo Testamento y 27 del Nuevo Testamento, según el canon establecido por la tradición católica.
+El canon bíblico es el catálogo de los libros reconocidos como inspirados por Dios y aceptados como Sagrada Escritura por la comunidad creyente. El término «canon» (del griego *kanón*, «regla» o «medida») designa tanto la lista de libros como el criterio utilizado para discernir su inspiración divina.
 
 ## Desarrollo doctrinal
 
-La determinación del canon fue un proceso gradual en la Iglesia antigua. El Canon de las Escrituras fue definido por diversos concilios locales: el Concilio de Hipona (393), el III Concilio de Cartago (397, D-92) y el Concilio de Cartago (419). Estos concilios, bajo la autoridad de la Sede Apostólica, fijaron la lista de libros canónicos, incluyendo los deuterocanónicos del Antiguo Testamento (Tobías, Judit, Sabiduría, Eclesiástico, Macabeos).
+### Formación del canon del Antiguo Testamento
 
-El Decreto Gelasiano (D-162) y el canon del Concilio Romano bajo el Papa Dámaso I (D-84) establecieron la lista de los libros de la Sagrada Escritura, tanto del Antiguo como del Nuevo Testamento. La fórmula antipriscilianista (D-32) anatematiza a quien «creyere que han de tener autoridad o han de ser veneradas otras Escrituras, fuera de las que recibe la Iglesia Católica».
+La formación del canon del AT fue un proceso gradual que se extendió por siglos. Los estudiosos están de acuerdo en que la redacción final de muchos libros habría comenzado en Babilonia durante el destierro de Judá (a partir del siglo VI a.C.) y habría continuado tras el regreso a Jerusalén. El canon de la Biblia hebrea habría sido fijado hacia el siglo II después de Cristo, en las discusiones rabínicas de Yamnia.
 
-El canon fue solemnemente definido por el Concilio de Trento (Sesión IV), y el Concilio Vaticano I reafirmó la doctrina sobre la inspiración divina de todos los libros canónicos.
+La Biblia hebrea se estructura en tres conjuntos:
+- **Torá** (Ley): Génesis, Éxodo, Levítico, Números, Deuteronomio
+- **Nebiim** (Profetas): profetas anteriores y posteriores
+- **Ketubim** (Escritos): libros poéticos, sapienciales e históricos
+
+### La Septuaginta
+
+La traducción al griego de la Biblia hebrea, conocida como Septuaginta o versión de los Setenta, se realizó entre los siglos III a.C. y I d.C. Se diferencia de la versión hebrea actual en varios puntos: acepta más escritos como sagrados (libros deuterocanónicos), algunos redactados directamente en griego; los libros se presentan con otro orden; y las versiones de Ester y Daniel incluyen más pasajes.
+
+### El canon del Nuevo Testamento
+
+El discernimiento sobre los escritos del NT fue realizado por la Iglesia primitiva. Ya en el siglo II, san Ireneo de Lyon y más tarde Orígenes testimonian que la comunidad cristiana aceptaba los cuatro evangelios y solo esos cuatro. La primera lista exacta de libros del NT aparece en la carta de san Atanasio de Alejandría (367 d.C.).
+
+### Cánones comparados
+
+| Canon | Libros del AT | Observaciones |
+|-------|--------------|---------------|
+| Tanak (Biblia hebrea) | 24 libros | Solo los aceptados por el judaísmo |
+| Septuaginta | ~50 libros | Incluye deuterocanónicos |
+| Católico | 46 libros | Incluye deuterocanónicos |
+| Ortodoxo | ~50+ libros | Canon más amplio |
+| Protestante | 39 libros | Limita al canon hebreo |
+
+### Definición del canon
+
+El canon católico fue definido definitivamente por el Concilio de Trento (1546), confirmando las listas anteriores de los Concilios de Hipona (393) y Florencia (1442). El Concilio declaró que los libros deuterocanónicos son parte del canon y deben ser leídos «con veneración».
 
 ## Perspectivas por fuente
 
-### Según el Enchiridion Symbolorum (Denzinger)
+### Pórtico de la Biblia (PdB)
 
-El Denzinger recoge múltiples testimonios sobre el canon bíblico: el canon del Concilio Romano bajo Dámaso I (D-84), el canon del III Concilio de Cartago (D-92), el canon de Inocencio I (D-96), el Decreto Gelasiano (D-162) y la condena de apócrifos priscilianistas (D-245). La forma antipriscilianista del canon anatematiza a quien venera escrituras fuera de las recibidas por la Iglesia Católica (D-32).
+La obra presenta un cuadro sintético comparativo de los cánones: Tanak (Biblia hebrea), Septuaginta (Biblia griega), Biblia católica, Biblia de las iglesias ortodoxas y Biblia de las comunidades protestantes. Señala que la Biblia de los primeros cristianos era la Septuaginta, y que los autores del NT escribieron en griego tomando como referencia esta versión. La Iglesia tuvo que discernir sobre la veracidad de las crónicas de la vida de Jesús y las enseñanzas de los Apóstoles hasta quedarse con los libros del canon del NT.
 
-**Concilio de Florencia** (1442, D-706), Bula *Cantate Domino*: profesó que «uno solo y mismo Dios es autor del Antiguo y Nuevo Testamento, es decir, de la ley, de los profetas y del Evangelio, porque por inspiración del mismo Espíritu Santo han hablado los Santos de uno y otro Testamento». Incluyó la lista de los libros canónicos del Antiguo y Nuevo Testamento, confirmando el canon tradicional de la Iglesia Romana.
+## Distinciones importantes
 
-El Concilio de Trento (Sesión IV, D-784) definió solemnemente el canon de los libros sagrados, enumerando 46 libros del AT y 27 del NT. Incluyó explícitamente los deuterocanónicos (Tobías, Judit, Sabiduría, Eclesiástico, Macabeos) y estableció anatema contra quien no recibiera como sagrados y canónicos «los libros mismos íntegros con todas sus partes». Esta definición puso fin a las dudas suscitadas por la Reforma sobre el canon veterotestamentario.
+- **Canon cerrado vs. abierto**: El canon católico está cerrado desde el siglo IV (AT) y V (NT). Algunas tradiciones cristianas mantienen un canon más amplio.
+- **Libros canónicos vs. deuterocanónicos**: Los deuterocanónicos son aceptados por la Iglesia católica pero no por el judaísmo ni el protestantismo.
 
-- [D-784]
+## Relaciones doctrinalmente
 
-## Relaciones doctrinales
-
-El canon bíblico se relaciona con la [[inspiración_bíblica]], la [[inerrancia_bíblica]] y la [[interpretación_bíblica]]. Incluye los libros [[deuterocanónicos]] y se distingue de los [[apócrifos]] (escritos no inspirados). Es preservado y enseñado por el [[magisterio]] de la Iglesia.
+- Fundamenta la autoridad de la Sagrada Escritura
+- Se relaciona con la inspiración divina y la inerrancia bíblica
+- Depende del Magisterio de la Iglesia para su definición
+- Se conecta con la Tradición apostólica
 
 ## Ver también
 
-[[inspiración_bíblica]], [[deuterocanónicos]], [[apócrifos]], [[sagrada_escritura]], [[magisterio]], [[tradición_apostólica]]
+[[biblia]], [[inspiración_bíblica]], [[tradición_apostólica]], [[magisterio]], [[antiguo_testamento]], [[sagrada_escritura]]
 
 ## Referencias
 
-- Denzinger D-32, D-84, D-92, D-96, D-162, D-245 (Enchiridion Symbolorum)
+- [PdB, Presentación y formación de la Biblia]
+- *Dei Verbum* 8–10 (Concilio Vaticano II)
+- CEC 120–141

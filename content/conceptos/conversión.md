@@ -109,6 +109,14 @@ Pinufio enseña que la penitencia exige humildad, paciencia y perseverancia. La 
 
 La conversión interior de la persona es el presupuesto esencial de una renovación real de sus relaciones con los demás: «Es preciso entonces apelar a las capacidades espirituales y morales de la persona y a la exigencia permanente de su conversión interior para obtener cambios sociales que estén realmente a su servicio» (§42, citando CEC §1888). La prioridad de la conversión del corazón no elimina la obligación de introducir en las instituciones y condiciones de vida las mejoras convenientes para que se conformen a las normas de la justicia (§42). Dios ofrece la gracia para ayudar al hombre a superar sus fracasos, arrancarlo de la mentira y la violencia, y sostenerlo para tejer una red de relaciones auténticas con sus semejantes (§43).
 
+### Elegidos en Cristo para ser santos (EcCsS)
+
+La conversión es la respuesta libre y generosa del hombre a la llamada de Dios. No es un acto puntual sino un proceso continuo de retorno a Dios que abarca toda la vida cristiana. La conversión supone la gracia de Dios como movimiento primero, y la respuesta libre del hombre como movimiento segundo. Sin la gracia, la conversión es imposible; sin la libertad humana, la conversión es vacía.
+
+El pecado puede presentarse como un «anti-testimonio»: la vida del creyente, cuando se desvía de la verdad del Evangelio, se convierte en un testimonio negativo que aleja a otros de Dios. El pecado no solo daña al que lo comete, sino que escandaliza a los demás y debilita la credibilidad del mensaje cristiano. Por ello, la conversión implica no solo la reparación del daño personal, sino también la restauración del testimonio evangélico.
+
+El sacramento de la Reconciliación es el lugar sacramental donde la conversión se realiza plenamente. En la confesión, el penitente reconoce sus pecados, se arrepiente de ellos, confiesa su culpa al ministro de Dios y recibe el perdón mediante la absolución. Este sacramento restaura la gracia santificante y fortaleza al creyente para proseguir en el camino de la santidad. La conversión es, en definitiva, el camino permanente de la vida cristiana: convertirse sin cesar a Dios mediante la gracia, la oración y el ejercicio de las virtudes.
+
 ## Analizado en contexto cultural
 
 - [[pinocho]] — convergencia en el itinerario de conversión (caída-arrepentimiento-restauración); tensión por la ausencia de dimensión sobrenatural y sacramental
@@ -134,3 +142,4 @@ La conversión interior de la persona es el presupuesto esencial de una renovaci
 - PMI (Discurso conclusivo del Encuentro sobre la Protección de los Menores en la Iglesia, 24 febrero 2019)
 - ColCas-II, Conferencias XIX, XX
 - [VJ, Cap. III, Cap. VI]
+- EcCsS, *Elegidos en Cristo para ser santos*, cap. sobre la conversión

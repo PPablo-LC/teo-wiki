@@ -41,6 +41,14 @@ Cita al Cardenal Schuster en su lecho de muerte: «Parece que la gente ya no se 
 
 León XIV aplica la llamada universal a la santidad al estado sacerdotal en su mensaje por la Jornada de Santificación Sacerdotal. Partiendo de Lv 19,2 —«Sean santos, porque yo, el Señor su Dios, soy santo»— afirma que la santidad sacerdotal «no es una opción entre tantas ni un ideal abstracto; tiene que ver con la identidad misma de cada persona que quiere participar en la vida del Resucitado». El Papa reconoce la paradoja: el sacerdote está llamado a participar de la santidad de Dios, pero lleva «este tesoro en vasijas de barro» (2 Co 4,7). El camino es la unión del corazón imperfecto con el Corazón traspasado de Jesús, de modo que «ya no vivimos nosotros, sino que Cristo vive en nosotros» (Ga 2,20) [JorSant-2026, 12.06.2026].
 
+### Elegidos en Cristo para ser santos (EcCsS)
+
+La llamada universal a la santidad constituye el fundamento de la teología moral. Todo cristiano, por el bautismo y la gracia santificante, está llamado a la plenitud de la vida divina. No se trata de un ideal inalcanzable para unos pocos, sino de la vocación propia de todo bautizado. La santidad es el fin último al que Dios destina a cada persona humana, y la teología moral no es sino la respuesta libre y generosa a esta llamada divina.
+
+La gracia santificante, infundida en el alma por el bautismo, hace al hombre hijo de Dios y participante de la naturaleza divina. Esta nueva vida sobrenatural es el punto de partida de toda la vida moral cristiana. La santidad no se reduce a la observancia exterior de la ley, sino que implica una transformación interior del corazón por la caridad, que es la virtud que resume y perfecciona todas las demás.
+
+El camino de la santidad se realiza en la fidelidad cotidiana a la gracia, mediante el ejercicio de las virtudes teologales y morales, la oración, los sacramentos y la docilidad a los dones del Espíritu Santo. La perfección de la caridad a la que todos están llamados no se alcanza por fuerzas humanas, sino por la acción de la gracia divina que santiifica y transforma el obrar del creyente.
+
 ## Distinciones importantes
 
 - Llamamiento remoto y suficiente: para todos los bautizados, mediante la gracia suficiente
@@ -69,3 +77,4 @@ Se relaciona con la [[santidad]], la [[perfección_cristiana]], la [[vocación]]
 - [Concilio Vaticano II, Lumen Gentium, Cap. V]
 - [EjEsp2026, cap. 5: «El esplendor de la Verdad»]
 - [JorSant-2026, 12.06.2026]
+- EcCsS, *Elegidos en Cristo para ser santos*, cap. sobre la llamada universal a la santidad

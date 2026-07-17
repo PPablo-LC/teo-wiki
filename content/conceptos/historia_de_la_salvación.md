@@ -1,66 +1,79 @@
 ---
 type: Concepto Teológico
-title: Historia de la Salvación
-tags: ["dogmática"]
-
-timestamp: 2026-05-26
-description: "El designio divino que Dios realiza a lo largo del tiempo para revelarse a los hombres, apartarlos del pecado y conducirlos a la comunión consigo."
+title: "Historia de la salvación"
+tags: ["teología_bíblica", "historia_sagrada", "escatología"]
+timestamp: 2026-07-17
+description: "Proceso histórico mediante el cual Dios se da a conocer y ofrece su amistad a la humanidad a través de las Alianzas."
 ---
-# Historia de la Salvación
+# Historia de la salvación
 
-> Área: Dogmática
-> Última actualización: 2026-05-26
+> Área: Conceptos
+> Última actualización: 2026-07-17
 
 ## Definición
 
-El designio divino que Dios realiza a lo largo del tiempo para revelarse a los hombres, apartarlos del pecado y conducirlos a la comunión consigo. Es la historia del camino y los medios por los cuales el Dios verdadero y único, Padre, Hijo y Espíritu Santo, se revela a los hombres y los reconcilia consigo.
+La historia de la salvación es el relato del proceso histórico mediante el cual Dios se da a conocer y ofrece su amistad a la humanidad. Comprende desde la creación hasta la plenitud escatológica, articulándose en una serie de Alianzas que culminan en la Alianza nueva y eterna en Jesucristo.
 
 ## Desarrollo doctrinal
 
-La historia de la salvación comienza con la creación y se desarrolla a través de las alianzas sucesivas (Noé, Abraham, Moisés) hasta culminar en Jesucristo, plenitud de la Revelación. Dios se comunica gradualmente mediante acciones y palabras, preparando al hombre por etapas. La Iglesia es parte integral de esta historia, destinada a su consumación en la gloria.
+### Estructura de la historia salvífica
+
+La Biblia presenta la historia de la salvación no como una reflexión abstracta, sino como un relato: el de la historia de la salvación. El mal existe por la desobediencia del hombre a los planes de Dios, pero Dios mismo toma la iniciativa para terminar con la injusticia, el sufrimiento y la muerte.
+
+El hilo conductor es la serie de Alianzas de Dios con los hombres:
+1. **Alianza con Noé**: después del diluvio, Dios renueva su alianza con la humanidad
+2. **Alianza con Abrahán**: Dios promete descendencia y una tierra
+3. **Alianza con Israel en el Sinaí**: mediante Moisés, Dios establece su Ley
+4. **Alianza nueva y eterna**: Jesucristo, con su muerte y resurrección, establece la Alianza definitiva
+
+### Épocas de la Antigua Alianza
+
+La historia de la Antigua Alianza se divide en ocho épocas:
+1. Creación y caída
+2. Patriarcas (Abrahán, Isaac, Jacob)
+3. Éxodo y estancia en el desierto
+4. Conquista de Canaán y période de los jueces
+5. Monarquía unificada (Saúl, David, Salomón)
+6. Reinos divididos (Israel y Judá)
+7. Destierro en Babilonia
+8. Restauración post-exílica
+
+### Cumplimiento en Cristo
+
+La historia de la salvación alcanza su cenit en la muerte y resurrección de Jesús. «En diversos momentos y de muchos modos habló Dios en el pasado a nuestros padres por medio de los profetas; en estos últimos días nos ha hablado por medio de su Hijo» (Hebreos 1, 1-2).
+
+La Nueva Alianza es nueva porque supera la antigua, pero es cumplimiento porque realiza lo que la Antigua Alianza anunciaba. El mensaje cristiano es novedad sin ruptura: «No he venido a abolir la Ley o los Profetas, sino a darles su plenitud» (Mateo 5, 17).
+
+### Continuación en la Iglesia
+
+La historia de la salvación continúa en la vida de la Iglesia, «sacramento universal de salvación» (*Lumen gentium* 48), y culminará con la segunda venida de Cristo. La Iglesia es el pueblo nuevo de Dios que lleva la salvación al mundo entero.
 
 ## Perspectivas por fuente
 
-### Según el Catecismo (CEC)
+### Pórtico de la Biblia (PdB)
 
-El designio divino de la revelación se realiza mediante acciones y palabras íntimamente ligadas (CEC §53). La pedagogía divina comunica gradualmente al hombre (CEC §53). Esta misma verdad afecta a todos los misterios de la fe (CEC §234). Toda la historia de la salvación no es otra cosa que la historia del camino y los medios por los cuales el Dios verdadero se revela a los hombres (CEC §234). La preparación lejana de la reunión del Pueblo de Dios comienza con la vocación de Abraham (CEC §762). La Iglesia es camino y término del designio de Dios (CEC §778). La economía divina es la obra común de las tres Personas divinas (CEC §258). La creación es el fundamento de todos los designios salvíficos de Dios (CEC §288-305).
+La historia de la salvación se presenta como un relato que engarza la variedad de libros de la Sagrada Escritura. Todos dan a conocer a Dios y responden a la pregunta: «si Dios se ha revelado como el creador de un mundo bueno al que ama y bendice, ¿por qué existe el mal?» La respuesta no es una reflexión sino un relato: el de la historia de la salvación. Dios elige a Abrahán, establece la Alianza con Israel por medio de Moisés y ofrece la salvación a la humanidad entera con una Alianza nueva y eterna por medio de Jesucristo.
 
-### Según el Compendio (CompDS)
-
-La Revelación que Dios hace progresivamente de Sí mismo al pueblo de Israel responde a la búsqueda humana de lo divino mediante acciones históricas en las que se manifiesta el amor de Dios por el hombre [CompDS §21]. La cercanía gratuita de Dios se manifiesta en la liberación de la esclavitud de Egipto y en la promesa que se convierte en acción histórica [CompDS §21].
-
-Jesucristo es el cumplimiento del designio de amor del Padre: en Él se cumple el evento decisivo de la historia de Dios con los hombres [CompDS §28]. El Rostro de Dios, revelado progresivamente en la historia de la salvación, resplandece plenamente en el Rostro de Jesucristo Crucificado y Resucitado [CompDS §31]. La Iglesia cree firmemente que la clave, el centro y el fin de toda la historia humana se halla en su Señor y Maestro [CompDS §31].
-
-La historia de la salvación culmina en la promesa de «cielos nuevos y tierra nueva», donde vencida la muerte los hijos de Dios resucitarán en Cristo [CompDS §56].
-### Según el Concilio Vaticano II (ConcVatII)
-
-*Dei Verbum* 2-4 presenta la revelación como un plan divino que se realiza en la historia: Dios dispuso revelarse a Sí mismo, plan que se realiza «con hechos y palabras intrínsecamente conexos entre sí» (DV 2). La preparación de la revelación evangélica comienza con la creación, sigue con la promesa de redención tras la caída, la llamada de Abraham y la instrucción de Israel por los Patriarcas, Moisés y los Profetas (DV 3). Culmina en Jesucristo, que completa la revelación y confirma con el testimonio divino que Dios vive con nosotros (DV 4). DV 14 desarrolla la historia de la salvación en el Antiguo Testamento: Dios se reveló con palabras y obras a su pueblo elegido, y la economía de la salvación preanunciada se conserva como verdadera palabra de Dios en los libros del Antiguo Testamento.
-
-### Según Memoria e Identidad (MI)
-
-Juan Pablo II sitúa la historia de las naciones dentro de la historia de la salvación. «La historia de todas las naciones está llamada a entrar en la historia de la salvación. En efecto, Cristo vino al mundo para traer la salvación a todos los hombres. La Iglesia, el Pueblo de Dios fundado en la Nueva Alianza, es el nuevo Israel y se presenta con un carácter de universalidad: cada nación tiene en ella el mismo derecho de ciudadanía» [MI, cap. 13].
-
-La historicidad del hombre se manifiesta en su capacidad de «objetivar la historia»: «El hombre no es un simple sujeto sometido al curso de los acontecimientos, sino que tiene la capacidad de reflexionar sobre la propia historia, de objetivarla describiéndola y enlazando entre sí los acontecimientos» [MI, cap. 14].
-
-La historia tiene una «peculiar connotación escatológica»: «la vida humana tiene sentido, como lo tiene también la historia de las naciones» [MI, cap. 14]. Aunque «serán los hombres y no las naciones quienes se presentarán ante el juicio de Dios, pero en el juicio sobre los hombres de alguna manera serán juzgadas también las naciones» [MI, cap. 14].
-
-
-- CEC §54-73
-- CEC §288-305
-
-### Según UDE (1994)
-
-El sentido de la historia de la salvación. Crítica del racionalismo cartesiano. El inmanentismo y el subjetivismo moderno como alejamiento de Dios. La Ilustración y la Revolución francesa: sustitución del cristianismo por el culto a la Razón. El Dios deísta como sustituto del Dios Redentor. Consecuencia: vivir «etsi Deus non daretur». [UDE, Cap. VIII]
+Se presentan ocho épocas de la Antigua Alianza, cada una con cronología detallada, libros bíblicos relacionados, mapas e infografías. La cronología de la Nueva Alianza adopta el punto de vista de Tierra Santa y sus épocas históricas.
 
 ## Distinciones importantes
 
-- No es una historia sagrada paralela a la historia profana: toda la historia es historia de salvación
-- Culmina en Cristo, centro del tiempo
-- La Iglesia continúa la misión de Cristo en el tiempo
-- Espera su consumación escatológica
+- **Historia de la salvación vs. historia profana**: La historia de la salvación es la interpretación teológica de los hechos históricos a la luz del designio divino
+- **Historia de la salvación vs. historia de la redención**: La historia de la salvación es más amplia (incluye la creación y la prep.); la historia de la redención se centra en la obra de Cristo
 
 ## Relaciones doctrinales
 
-[[revelación]], [[alianza]], [[cristo]], [[iglesia_cuerpo_místico]], [[designio_de_dios]], [[escatología]]
+- Se fundamenta en la Revelación divina y la Tradición
+- Se articula en torno a las Alianzas divinas
+- Culmina en Cristo y continúa en la Iglesia
+- Tiene dimensión escatológica (plenitud未来)
+
+## Ver también
+
+[[alianza]], [[antigua_alianza]], [[nueva_alianza]], [[creación]], [[encarnación]], [[iglesia]], [[parusía]], [[escatología]]
 
 ## Referencias
+
+- [PdB, Presentación y formación de la Biblia]
+- *Dei Verbum* 2–4 (Concilio Vaticano II)
+- CEC 56–64
