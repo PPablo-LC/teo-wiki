@@ -3285,6 +3285,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[elección]]
 - [[entrega_del_hábito_legionario]]
 - [[envío_apostólico]]
+- [[eshmá]]
 - [[espiritualidad_legionaria]]
 - [[espíritu_de_cuerpo]]
 - [[evangelización_de_la_cultura]]
@@ -3320,6 +3321,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 
 - [[identidad_legionaria]]
 - [[informe_1941_2019]]
+- [[informe_anual_2020]]
 
 ### J
 
