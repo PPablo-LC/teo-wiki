@@ -3,7 +3,7 @@ type: Consulta
 title: "Predicaciones sobre la misión: Caritas Christi urget nos (CapGral-2026)"
 description: "Predicaciones sobre la misión legionaria a partir de CapGral-2026: dos predicaciones temáticas (nn. 107-130; Doc. III nn. 1-74) y tres predicaciones sobre el camino de Emaús (Lc 24,13-35) con tres puntos cada una —escuchar, explicar, partir el pan y enviar—."
 tags: ["espiritualidad", "misión", "caridad_pastoral", "predicación", "camino_de_emaús"]
-timestamp: 2026-07-03
+timestamp: 2026-07-18
 ---
 
 # Predicaciones sobre la misión: Caritas Christi urget nos
@@ -11,12 +11,13 @@ timestamp: 2026-07-03
 > Basadas en CapGral-2026, nn. 107-130
 > Fuente principal: `07_tercera_parte.md` (nn. 107-127) y `08_cuarta_parte.md` (nn. 128-130)
 > Documento temático: «La misión: Caritas Christi urget nos» (Documento III en `10_comunicados_tematicos.md`, nn. 1-74)
-> Última actualización: 2026-07-03
+> Última actualización: 2026-07-18
 >
 > **Historial de versiones:**
 > - 2026-06-29: primera versión, basada en CapGral-2026 nn. 107-130 con uso resumido del Doc. III.
 > - 2026-07-03: enriquecida con el contenido completo del Doc. III (introducción nn. 1-4, signos de los tiempos nn. 5-8, horizonte unificador nn. 9-16, modos de vivir la misión nn. 54-67, recomendaciones al gobierno nn. 68-72).
 > - 2026-07-03: añadidas tres predicaciones nuevas sobre el camino de Emaús (Lc 24,13-35), estructuradas en tres momentos (Cristo que escucha, Cristo que explica, Cristo que parte el pan y envía), cada uno con tres puntos explicativos, enriquecidas con Mons. Varden (*Iluminados por una gloria oculta*, caps. 7 y 11).
+> - 2026-07-18: enriquecimiento con perspectivas de la espiritualidad legionaria: *Constituciones de los Legionarios de Cristo* (CLC 2020) y *Christus Vita Vestra* (Ratio Institutionis, CVV 2020). Se añade la sección «Perspectivas desde la espiritualidad legionaria (CLC y CVV)» con comentarios y relaciones a las seis predicaciones.
 
 ---
 
@@ -448,6 +449,143 @@ El Capítulo recoge este arco con una fórmula que bien puede cerrar la serie: �
 
 ---
 
+## Perspectivas desde la espiritualidad legionaria (CLC y CVV)
+
+> **Fuentes:** *Constituciones de los Legionarios de Cristo* (CLC 2020) —nn. 2-4, 8, 10-11, 25, 47, 49, 56, 100, 104, 107-117—; *Christus Vita Vestra. Ratio Institutionis* (CVV 2020) —nn. 12-15, 47, 50, 56, 67-70, 77, 81-90, 104, 106-117, 126-130, 140-144, 155, 159, 163, 375-380—.
+> Las citas que siguen están tomadas de los textos aprobados por la Santa Sede y constituyen el derecho propio de la Congregación. Se presentan como complemento a las seis predicaciones y a las tres predicaciones sobre Emaús, mostrando cómo los contenidos del Capítulo General 2026 hunden sus raíces en la identidad carismática misma del instituto.
+
+---
+
+### 1. *Caritas Christi urget nos* como síntesis de la identidad legionaria
+
+Las tres palabras —Cristo, amor, urgencia— son las tres notas que las Constituciones y la Ratio consideran esenciales para entender al legionario:
+
+**a) Cristo como centro.** «Cristo es, en definitiva, criterio, centro y modelo del legionario» (CLC 8; CVV §70). Esta fórmula constitucional es la que el Capítulo General 2026 recoge cuando afirma que «Cristo, centro del que todo brota y hacia el que converge toda nuestra vida» (CapGral-2026, n. 50). La *Ratio* precisa que esta centralidad no es un lugar que se ocupa en un esquema, sino una relación personal: «El camino del legionario es Cristo, porque no recorremos una ruta física trazada de antemano, sino que nuestro camino es una persona viva, el Señor Jesús» (CVV §68). Por eso, la *Caritas Christi* no es un lema decorativo: es la descripción de lo que le pasa al legionario que ha encontrado a Cristo.
+
+**b) El amor como fuerza.** «Corazón del espíritu de la Legión es la caridad, que entraña la donación universal y delicada al prójimo» (CLC 10; CVV §155). Las Constituciones describen la caridad como algo que «nace de dentro, de un corazón bueno» (CVV §156) y que se expresa en «una actitud que distingue al legionario: la servicialidad ingeniosa y abnegada» (CLC 10; CVV §162). El Documento III del Capítulo recoge esta misma lógica cuando dice que «la primera evangelización es la propia santidad» (n. 54): la caridad pastoral empieza por la caridad personal. Y la *Ratio* añade que «quien vive en Cristo fructifica en el amor sin llevar cuentas de cuánto da» (CVV §154).
+
+**c) La urgencia como estilo.** «Caritas Christi urget nos — Nos apremia el amor de Cristo (2Cor 5,14). Esta expresión de san Pablo puede servirnos como síntesis y recordatorio de los rasgos que más identifican al legionario: Cristo como centro de nuestra vida interior, el amor como fuerza de cohesión con nuestros hermanos, el sentido de gozosa urgencia como estilo de nuestro apostolado» (CLC 117; CVV §117). El texto constitucional no define la urgencia como ansiedad, sino como «estilo»: un modo de vivir que brota de la contemplación y se proyecta en la misión. La *Ratio* vincula esta urgencia con la mirada del legionario sobre el tiempo: «atento a los signos de los tiempos, aprovechando la ocasión (Ef 5,16), trabaja con celo y creatividad, buscando nuevos caminos, yendo a las fronteras de la Iglesia —pastorales y de pensamiento—, consciente de que cada día de fatiga por el Reino es un regalo precioso de Dios que ya no volverá y que el tiempo se nos da para ganar la eternidad. A esta actitud la llamamos "militancia"» (CVV §112).
+
+> **Relación con la Predicación 1:** La *Caritas Christi* como «alma de toda la vocación legionaria» (Predicación 1, §1) encuentra su fundamento más profundo en la propia definición constitucional del instituto. Las Constituciones no presentan la urgencia como una opción pastoral sino como una nota de identidad: el legionario es, por definición, un hombre urgido por el amor de Cristo. La formación (Predicación 1, §2) no es un añadido a la urgencia: es la condición para que la urgencia sea auténtica y no activismo.
+
+---
+
+### 2. La formación como configuración con Cristo: el corazón de la Ratio
+
+La *Ratio Institutionis* dedica su primer capítulo a establecer que la formación es, ante todo, «una relación vital, personal y transformante con el Señor» (CVV §12). Esta intuición es la que el Capítulo General recoge al hablar de «formación para la misión: configuración con Cristo» (CapGral-2026, n. 107):
+
+- **La formación es transformación interior, no solo cambio de comportamientos.** «La formación del legionario es un proceso orientado a la configuración creciente con Cristo en todas las dimensiones de la persona: entendimiento, voluntad, afectividad; es una transformación profunda del hombre, un progresivo morir a sí mismo y un vivir por Cristo, con Cristo y en Cristo, hasta poder decir con san Pablo: Vivo, pero no soy yo el que vive, es Cristo quien vive en mí (Gál 2,20). Por tanto, es insuficiente pensar la formación como un cambio meramente externo de comportamientos» (CVV §13). Esta misma cita paulina (Ga 2,20) es la que el Documento III del Capítulo usa como clave de la *Caritas Christi* (n. 1).
+
+- **La formación es esencialmente vocacional.** «Formarse "es aprender a dar una respuesta personal a la pregunta fundamental de Cristo: ¿Me amas? (Jn 21,15)"» (CVV §12, citando PDV 42). El Capítulo traduce esto al lenguaje del acompañamiento: «el legionario hace presente el misterio de Cristo que reúne en torno a sí, revela el amor de su Corazón, forma y envía» (CapGral-2026, n. 12).
+
+- **La formación es para la misión, no para uno mismo.** «Toda la formación del legionario ha de tener un enfoque apostólico, orientada a comunicar a Cristo y su mensaje» (CLC 100; CVV §375). La *Ratio* añade: «La misión orienta, unifica y determina el proceso formativo» (CVV §376, citando CCG2014 141). Por eso, «formarse para la misión significa capacitarse para formar al hombre y la mujer de hoy como discípulos y apóstoles de Cristo» (CVV §377). La pregunta evaluadora del Capítulo —«¿Forman apóstoles?» (n. 14)— es la traducción pastoral de un principio constitucional: la formación legionaria solo es auténtica si es fecunda en otros.
+
+- **La formación es permanente.** «La formación es permanente porque "la persona consagrada no podrá jamás suponer que ha completado la gestación de aquel hombre nuevo que experimenta dentro de sí, ni de poseer en cada circunstancia de la vida los mismos sentimientos de Cristo"» (CVV §371, citando VC 69). El Doc. III del Capítulo traduce esto en los nn. 55-58, cuando habla de formación intelectual continua, competencias apostólicas y gobierno.
+
+> **Relación con la Predicación 2:** La formación como «iluminación que une Escritura y vida» (Predicación 2, §2.2) encuentra un eco profundo en la *Ratio*: «mediante la oración contemplativa el Padre nos concede ser robustecidos por medio de su Espíritu en nuestro hombre interior, de manera que Cristo habite por la fe en nuestros corazones y el amor sea nuestra raíz y nuestro cimiento» (CVV §138). La predicación sobre Emaús —Cristo que abre las Escrituras— es la descripción evangélica de lo que la *Ratio* llama «vivir en Cristo» (CVV §§130-131): dejarse transformar desde dentro por la Palabra, no solo informarse de ella.
+
+> **Relación con la Predicación 3:** La Eucaristía como «reconocimiento» (Predicación 3, §3.1) se conecta con la experiencia descrita por la *Ratio*: «la forma eucarística de la existencia cristiana se manifiesta de modo particular en el estado de vida sacerdotal. La espiritualidad sacerdotal es intrínsecamente eucarística» (CVV §127, citando SCa 80). Y el texto constitucional profundiza: «Solo de la unión con Jesús podéis obtener la fecundidad espiritual que genera esperanza en vuestro ministerio pastoral. [...] Ser Eucaristía. Que este sea, precisamente, nuestro constante anhelo y compromiso» (CVV §105, citando Benedicto XVI).
+
+---
+
+### 3. La misión como identidad, no como actividad
+
+Las Constituciones describen la misión del legionario como algo que forma parte de su misma identidad, no como una tarea que se añade a ella:
+
+- **La misión es constitutiva.** «El legionario es siempre un miembro del Movimiento y donde él está hace presente el Regnum Christi» (CLC 32; CVV §§55, 80). Esta frase, repetida en la *Ratio*, significa que el legionario no «elige» ir a la misión: la misión es la forma misma de su existencia. El Doc. III del Capítulo lo traduce así: «La vocación personal se concreta "dentro de la vida comunitaria y apostólica de la Congregación"» (n. 2).
+
+- **La misión es la misma de Cristo.** «En su misión de formar apóstoles, líderes cristianos al servicio de la Iglesia, los legionarios hacen presente el misterio de Cristo que reúne en torno a sí a los Apóstoles, les revela el amor de su corazón, los forma y los envía para colaborar con Él en la instauración de su Reino» (CLC 4; CVV §§67, 87). Esta definición constitucional es la que el Capítulo General recoge literalmente como «horizonte unificador» (n. 12). No se trata de una nueva prioridad, sino de volver a lo más propio del carisma.
+
+- **La misión es comunitaria.** «La comunidad tiene en sí una gran fuerza evangelizadora» (Documento III, n. 64). Las Constituciones lo fundamentan así: «"Hacer Legión" es, pues, sentirse "parte viva y operante de esta gran familia, aportando las propias cualidades en la misión que ella tiene encomendada"» (CLC 16; CVV §115). Y la *Ratio* precisa que «Evangelizar no es para nadie un acto individual y aislado, sino profundamente eclesial» (Documento III, n. 66), recogiendo el principio constitucional de que «los legionarios cuidan "el crecimiento espiritual, la formación integral y la proyección apostólica de los hombres y las mujeres"» (CLC 4, 1.°; CVV §377).
+
+- **La misión es de formación de apóstoles.** El aspecto más propio del carisma legionario no es la actividad pastoral en general, sino la formación de personas que a su vez formen a otros: «Como nos enseña san Pablo: Lo que has oído de mí, a través de muchos testigos, eso mismo confíalo a hombres fieles, capaces, a su vez, de enseñar a otros (2Tim 2,2)» (CVV §88). La *Ratio* precisa que «se trata, pues, de un liderazgo fecundo, nunca solitario, destinado a hacer surgir otros líderes» (CVV §89). El Capítulo General traduce esto en su pregunta evaluadora: «¿Forman apóstoles?» (n. 14).
+
+> **Relación con la Predicación 1 («Apremiados por el amor, formados para la entrega»):** La comunión en el Regnum Christi como «cauce de la misión» (Predicación 1, §3) se apoya en el principio constitucional de que «el legionario es siempre un miembro del Movimiento y donde él está hace presente el Regnum Christi» (CLC 32). La *Ratio* añade que «el legionario realiza su vocación en comunión y con espíritu de servicio a todos sus hermanos consagrados y laicos del Regnum Christi» (CVV §80).
+
+> **Relación con la Predicación 2 («Correr con perseverancia»):** El horizonte unificador —formar apóstoles— (Predicación 2, §2) no es una invención del Capítulo 2026: es la definición misma de la misión legionaria según las Constituciones (CLC 4). La *Ratio* lo explicita: «Formarse para la misión significa capacitarse para formar al hombre y la mujer de hoy como discípulos y apóstoles de Cristo para que vivan en plenitud los compromisos que derivan de su bautismo» (CVV §377).
+
+---
+
+### 4. La *militia Christi*: perseverancia, combate y abandono filial
+
+La dimensión militar de la vocación legionaria es uno de los rasgos que más profunda resonancia tiene con la *Caritas Christi*:
+
+- **La *militia Christi* es combate espiritual, no violencia.** «Nuestra lucha no es contra hombres de carne y hueso, sino contra los principados, contra las potestades, contra los dominadores de este mundo de tiniebla, contra los espíritus malignos del aire (Ef 6,12) que odian al hombre y lo inducen al mal, sembrando el mundo de odio y lágrimas» (CVV §109). El Doc. III del Capítulo recoge esta lógica cuando habla de «un corazón magnánimo, atento a los signos de los tiempos, firme en la oración y creativo en la evangelización» (n. 2).
+
+- **La perseverancia como obediencia filial.** La palabra «legionario» «nos recuerda la actitud opuesta [al desobedecer], al sugerir un particular amor y una altísima estima por la virtud y el voto de obediencia, que imita la obediencia redentora de Cristo: Se humilló a sí mismo, hecho obediente hasta la muerte, y una muerte de cruz (Flp 2,8)» (CVV §110). La perseverancia del legionario no es solo «aguantar», sino «permanecer por amor» (como dice el Capítulo en su homilía conclusiva): es la obediencia filial que dice «Aquí estoy, mándame» (Is 6,8; CVV §111).
+
+- **El sufrimiento redentor.** «La palabra "legionario" denota, sin sombra de triunfalismo, un deseo muy sincero, nacido del amor a Cristo, de vivir la propia misión con gran capacidad de sacrificio y de sufrimiento redentor, sin abandonar el frente que nos es asignado» (CVV §113). La cruz en la misión no es un accidente: es «la estructura pascual» de la vocación (Predicación 1, §4). El Doc. III del Capítulo lo recuerda al hablar del «camino pascual» de la Congregación (n. 128).
+
+- **El compañerismo.** «El nombre "legionario" se asocia con un fuerte compañerismo, que para nosotros se traduce en un sentido de cuerpo con nuestros hermanos, llamados por Cristo a la misma misión, con los que oramos y trabajamos» (CVV §114). La «comunidad de apóstoles» del Capítulo General (n. 64) es la traducción pastoral de este sentido de cuerpo que las Constituciones ya describían.
+
+> **Relación con la Predicación 1 (§4, «La *militia Christi* como perseverancia en el amor»):** Las Constituciones fundamentan la *militia Christi* no en el triunfalismo sino en la obediencia de Cristo (Flp 2,8) y en el combate contra el mal (Ef 6,12). La *Ratio* añade que «es en la celebración cotidiana de la misa donde aprendemos de Cristo lo que significa este amor hasta el extremo» (CVV §113), conectando así la *militia Christi* con la dimensión eucarística de la Predicación 3.
+
+---
+
+### 5. La Eucaristía y la misión: «Ser Eucaristía»
+
+La dimensión eucarística de la vida legionario, central en las tres predicaciones sobre Emaús, tiene una raíz profunda en el derecho propio:
+
+- **La Eucaristía como fuente de la misión.** «El sacerdote cumple su principal misión, y él mismo se manifiesta en toda su plenitud, cuando celebra la Eucaristía» (CVV §102, citando Juan Pablo II). La *Ratio* añade que «todo el espíritu apostólico y misionero del legionario parte de su espíritu contemplativo, de las largas horas de oración con las que imita el ejemplo de Cristo orante, sabiendo que la obra del Reino en los corazones es una obra sobrenatural que se construye sobre todo intercediendo por los hombres ante el Padre» (CVV §104). La Eucaristía no es un momento del día: es la fuente de donde brota toda la misión.
+
+- **La Eucaristía como identificación sacerdotal.** «Ser Eucaristía. Que este sea, precisamente, nuestro constante anhelo y compromiso, para que el ofrecimiento del cuerpo y la sangre del Señor que hacemos en el altar vaya acompañado del sacrificio de nuestra existencia» (CVV §105, citando Benedicto XVI). Esta fórmula —«Ser Eucaristía»— es la que subyace a toda la tercera predicación sobre Emaús: los discípulos no solo «ven» a Cristo en la fracción del pan, sino que «se convierten» en lo que comen.
+
+- **La Eucaristía como sacrificio y como envío.** «Es ahí en la misa donde comprende que no está llamado al éxito, sino a dar la vida, como la sal que da sabor en el momento de disolverse, como la luz que desaparece mientras muestra a Cristo como camino» (CVV §105). La *Ratio* vincula así la Eucaristía con el misterio pascual: el grano de trigo que muere para dar fruto (Jn 12,24). La misión no es triunfalismo: es participación en el sacrificio de Cristo.
+
+- **La liturgia como «cumbre y fuente».** «Participando en ella como "la cumbre a la cual tiende la actividad de la Iglesia y, al mismo tiempo, la fuente de donde mana toda su fuerza"» (CVV §163, citando SC 10). La *Ratio* detalla por qué la liturgia es formativa: «porque la oración litúrgica es escuela de oración cristiana; porque, al ser celebración de toda la Revelación de Dios, ayuda a vencer las tendencias al subjetivismo y al sentimentalismo espiritual; porque, al ordenarse a una celebración comunitaria, ayuda a superar todo malsano individualismo» (CVV §163). Estas tres razones iluminan la tercera predicación sobre Emaús: la Eucaristía escuela, la Eucaristía que vence el subjectivismo, la Eucaristía comunitaria.
+
+> **Relación con la Predicación 3 («Cristo que parte el pan y envía»):** La Eucaristía como «reconocimiento» (§3.1), como «verticalidad recobrada» (§3.2) y como «origen de la misión» (§3.3) encuentran su fundamento más profundo en la descripción que la *Ratio* hace del sacerdote legionario: «El sacerdote está especialmente llamado a crucificarse con Cristo (cf. Gál 2,19), de suerte que el alma sacerdotal se esfuerce en reproducir en sí misma lo que se hace en el ara sacrificial» (CVV §105). La Eucaristía no es solo un sacramento que se recibe: es un misterio en el que se participa y del que se emerge transformado, «levantado» (como los de Emaús), enviado.
+
+---
+
+### 6. La benedicencia y la mirada de fe sobre el mundo
+
+Un tema que la *Ratio* desarrolla con particular riqueza y que conecta con la primera predicación sobre Emaús (Cristo que escucha la realidad) es el de la **benedicencia**:
+
+- **La mirada de fe que ve el bien.** «La fe nos da la mirada de Cristo, que ve el mundo como el lugar de la acción del Padre. Una mirada iluminada por la fe brilla de esperanza y transmite esperanza. El legionario, como Cristo, cree en el hombre y pregona con alegría la obra del Padre al descubrirla en cada alma. De esta mirada nace una actitud positiva ante cualquier situación humana, por difícil que sea. Así, la palabra buena, que nace de un mirar bueno, contribuye a construir un entorno en el que cada persona se siente motivada a sacar lo mejor de sí misma. A esta actitud la llamamos benedicencia» (CVV §84).
+
+- **La benedicencia como antídoto contra la mirada cínica.** La benedicencia «se opone a la visión falaz con la que el maligno muestra sus obras —sus triunfos parciales—, y nos instiga a una mirada desengañada, cínica y paralizante» (CVV §84). Esta descripción ilumina el momento 1 de la Predicación 1 sobre Emaús: Cristo no llega con una mirada cínica sobre los discípulos que huyen, sino con una mirada que ve más allá de la tristeza, la mirada del Padre que «sigue actuando» (Jn 5,17; CVV §83).
+
+- **La benedicencia como método de accompagnamento.** «El legionario no se detiene en las oscuridades del pecado ni en los límites de cada persona, sino que sabe vislumbrar la obra que el Padre realiza en el secreto de cada vida: Mi Padre sigue actuando. Esta certeza nutre nuestro dinamismo en el apostolado, que es colaboración en la obra de Dios: y yo también actúo (Jn 5,17)» (CVV §83). Esta actitud es la que el Capítulo General describe cuando habla de «acompañar es ayudar a descubrir lo que Dios pide a cada uno» (Doc. III, n. 19).
+
+> **Relación con la Predicación 1 sobre Emaús (§1.1-1.3):** La escucha de Cristo en Emaús es el ejemplo bíblico perfecto de la benedicencia: Cristo no se detiene en la tristeza de los discípulos, sino que la respeta, la escucha, y luego la ilumina. La *Ratio* lo formula así: «el legionario cultiva la bondad de corazón que le lleva a desarrollar su estima por todos, valorando sus dones y disculpando sus fallos y defectos» (CVV §156). La benedicencia es la virtud que hace posible la escucha auténtica.
+
+---
+
+### 7. La «intuición original» y la frescura vocacional
+
+La *Ratio* introduce un concepto que ilumina la relación entre la urgencia de la misión y la perseverancia en la vocación:
+
+- **La intuición original como fuente de la misión.** «Al ponerse a la obra, el legionario posee simultáneamente dos miradas. La primera le hace ser profundamente realista y concreto [...] La segunda es la mirada a esa intuición original, la que da el empuje y por la que ha comprendido que vale la pena entregar la vida. Sin la primera mirada se corre el riesgo del vano idealismo, pero sin la segunda todas las metas se convierten en objetivos meramente humanos, demasiado lógicos, pequeños e indignos de Dios» (CVV §78).
+
+- **La intuición como memoria de la vocación.** «Es preciso, pues, no perder nunca de vista esa intuición original, sin la cual la vocación languidece. Todo proyecto, todo paso sucesivo en la vida, pequeño o grande, ha de remitirse a ese sueño de Dios sobre el Regnum Christi que Él ha encendido en nuestro corazón» (CVV §78). Esta exigencia de memoria conecta con la Predicación 3 sobre Emaús: los discípulos que reconocen a Cristo en la fracción del pan «vuelven» a Jerusalén porque han recuperado la intuición original —el sueño de Dios sobre sus vidas— que la tristeza les había hecho olvidar.
+
+> **Relación con la Predicación 2 (§1, «La urgencia apostólica en un cambio de época»):** La doble mirada del legionario —realista e intuición original— ilumina el discernimiento de los signos de los tiempos que el Capítulo General propone (nn. 124-125). La urgencia no es ansiedad ante el cambio de época, sino la certeza de que «el tiempo se nos da para ganar la eternidad» (CVV §112), sostenida por la intuición de que Dios tiene un «sueño» sobre el mundo de hoy.
+
+---
+
+### 8. María, formadora y Reina de los Apóstoles
+
+Las Constituciones y la *Ratio* dedican un lugar privilegiado a María en la formación del legionario, lo que ilumina la conclusión de las tres predicaciones sobre Emaús:
+
+- **María como formadora.** «Al constatar la propia debilidad, inconstancia y lo fácil que resulta engañarse en los caminos del espíritu, el legionario sabe por experiencia que ponerse a la escuela de la Santísima Virgen y dejarse formar enteramente por Ella es camino suave, seguro y sin posibilidad de error para adquirir en poco tiempo los sentimientos del Corazón de Jesús» (CLC 15, 1.°; CVV §74).
+
+- **María y la escucha.** El Capítulo General menciona a María, Reina de los Apóstoles, como la que «guardaba todas estas cosas en su corazón» (cf. Lc 2,19.51; Predicación 3, §3.3). Las Constituciones completan: «María es la Madre del Redentor [...] Imagen perfectísima de la Iglesia» (CLC 74). La escucha de María —contemplativa, silenciosa, fiel— es el modelo de la escucha que la primera predicación sobre Emaús propone al legionario.
+
+- **María y la «Legión».** «¿Quién es esta que despunta como el alba, hermosa como la luna, refulgente como el sol, imponente como un ejército en orden de batalla (ut castrorum acies ordinata)? (Cant 6,10). La Esposa del Cantar es la Iglesia, cuya belleza imponente deriva de sus diversas vocaciones y carismas que se despliegan, cada uno en su orden, causando el terror de Satanás. La Legión, como "cuerpo unido y organizado" en el seno del Regnum Christi, refleja la belleza del ejército en orden de batalla en la medida en que es fiel al don particular recibido» (CVV §116). La *militia Christi* legionaria es, en su raíz más profunda, una expresión de la maternidad de María: el «ejército en orden de batalla» del Cantar es la Iglesia que, bajo la guía de María, avanza hacia la victoria pascual.
+
+> **Relación con la Conclusión de las tres predicaciones sobre Emaús:** María como «la primera formadora de Cristo, la primera que escuchó, la primera que explicó, la primera que recibió el Cuerpo de Cristo» (Predicación 3, §3.3) se conecta con la descripción constitucional de María como «camino suave, seguro y sin posibilidad de error para adquirir en poco tiempo los sentimientos del Corazón de Jesús» (CLC 15). Si la misión legionaria es configuración con Cristo, María es la primera maestra de esa configuración.
+
+---
+
+### Síntesis: la coherencia entre Capítulo General y derecho propio
+
+Lo que el Capítulo General 2026 formula como «horizonte unificador» —formar apóstoles, líderes cristianos al servicio de la Iglesia (n. 12)— no es una innovación sino una reafirmación de lo que las Constituciones ya definían en su número 4 y que la *Ratio* despliega en sus 965 números. La *Caritas Christi urget nos* no es un lema nuevo: es la síntesis que las mismas Constituciones proponen como «rasgo que más identifica al legionario» (CLC 117). Lo que el Capítulo aporta es la **urgencia de volver a lo esencial**: «No multiplica tareas; las concentra en lo esencial. No complica nuestra identidad; la hace más clara» (Doc. III, nn. 10-11).
+
+La coherencia entre los textos capitulares y el derecho propio muestra que la misión legionaria no es un programa que se elabora cada cinco años, sino una realidad viva que se renueva desde sus raíces carismáticas. Las Constituciones y la *Ratio* son el suelo fértil del que brota todo lo que el Capítulo General propone.
+
+---
+
 ## Temas del wiki relacionados
 
 - [[cristocentrismo_legionario]] — Fundamento de toda la espiritualidad de misión
@@ -464,6 +602,11 @@ El Capítulo recoge este arco con una fórmula que bien puede cerrar la serie: �
 - [[envío_apostólico]] — La comunión como envío compartido
 - [[formación_permanente]] — Criterios del Doc. III nn. 55-58
 - [[formación_intelectual]] — Base para la evangelización de la cultura
+- [[christus_vita_vestra]] — Ratio Institutionis de la Legión de Cristo (2020)
+- [[constituciones_legionarios_de_cristo]] — Derecho propio de la Congregación (2020)
+- [[benedicencia]] — Actitud de mirada de fe sobre el mundo (CVV §84)
+- [[intuición_original]] — Fuente de la misión y de la perseverancia vocacional (CVV §78)
+- [[maría_formadora]] — María como maestra de configuración con Cristo (CLC 15; CVV §74)
 
 ## Referencias
 
@@ -475,6 +618,8 @@ El Capítulo recoge este arco con una fórmula que bien puede cerrar la serie: �
 - CapGral-2026, Homilía conclusiva
 - León XIV, Discurso a los participantes en el Capítulo General, nn. 7, 10, 13
 - P. John Connor, L.C., Carta sobre cómo desempeñar la misión en el Regnum Christi (15 de septiembre de 2024)
+- Constituciones de los Legionarios de Cristo (CLC 2020), nn. 2-4, 8, 10-11, 14-16, 25, 32, 47, 49, 56, 100, 104, 107-117
+- *Christus Vita Vestra. Ratio Institutionis* (CVV 2020), nn. 12-15, 47, 50, 56, 67-70, 74, 77-80, 83-84, 87-90, 104-105, 106-117, 126-130, 140-144, 155-156, 159, 163, 375-380
 - [[cristocentrismo_legionario]]
 - [[caridad_pastoral]]
 - [[militia_christi]]
