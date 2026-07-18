@@ -14,7 +14,7 @@ description: "Manual de teología moral que integra la llamada universal a la sa
 
 - **Título completo**: Elegidos en Cristo para ser santos
 - **Autor**: Comisión teológica (autores colectivos)
-- **Código**: EcCsS
+- **Código**: Ele_Xto_Stos
 - **Estructura**: 11 capítulos
 
 ## Estructura
@@ -43,4 +43,4 @@ Obra de teología moral católica que integra la perspectiva tomista con la ense
 
 ## Referencias
 
-- [EcCsS, Cap. I–XI]
+- [Ele_Xto_Stos, Cap. I–XI]

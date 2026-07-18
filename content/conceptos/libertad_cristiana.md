@@ -27,7 +27,7 @@ Cristo nos liberó para que seamos libres (Gál 5,1). La libertad cristiana es i
 
 [JPII, Redemptoris Mater §41]: María ha conseguido plenamente aquel «estado de libertad real» propio de los discípulos de Cristo: ¡servir quiere decir reinar! [RM §41].
 
-### Elegidos en Cristo para ser santos (EcCsS)
+### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 La libertad de los hijos de Dios se entiende como la capacidad de obrar bien, de amar a Dios y al prójimo, de responder libremente a la llamada divina. Esta libertad no es la ausencia de vínculos, sino la liberación de la esclavitud del pecado. Por el bautismo, el cristiano pasa de la servidumbre del pecado a la libertad de los hijos de Dios, lo que implica una transformación radical de su modo de obrar.
 
@@ -55,4 +55,4 @@ Se relaciona con [[redención]], [[gracia]], [[amor_preferencial_por_los_pobres]
 - Pablo VI, *Marialis Cultus* §37
 - Gál 5,1.13
 - CEC §1740-1742
-- EcCsS, *Elegidos en Cristo para ser santos*, cap. sobre la libertad de los hijos de Dios
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, cap. sobre la libertad de los hijos de Dios

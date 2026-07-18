@@ -54,7 +54,7 @@ El pecado mortal puede perdonarse en el sacramento de la penitencia o por un act
 
 La Veritatis Splendor (§68-70) reafirma la doctrina tradicional sobre el pecado mortal, confirmada por Reconciliatio et paenitentia. Es pecado mortal lo que tiene como objeto materia grave y es cometido con pleno conocimiento y deliberado consentimiento. La orientación fundamental puede ser radicalmente modificada por actos particulares (§70). Se comete pecado mortal cuando el hombre, sabiéndolo y queriéndolo, elige algo gravemente desordenado; en esta elección está incluido un desprecio del precepto divino, un rechazo del amor de Dios. Con cualquier pecado mortal el hombre ofende a Dios y pierde la gracia santificante, la caridad y la bienaventuranza eterna (§68). La distinción entre pecados mortales y veniales pertenece a la tradición constante de la Iglesia (§69).
 
-### Elegidos en Cristo para ser santos (EcCsS)
+### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El pecado mortal es una ruptura de la comunión con Dios, una fractura radical de la relación del hombre con su Creador. Por el pecado mortal, el hombre pierde la gracia santificante, la caridad y la vida sobrenatural que le habían sido dadas en el bautismo. No se trata simplemente de la transgresión de una norma, sino de la ruptura de una relación de amor: el pecado mortal es, ante todo, un rechazo del amor de Dios.
 
@@ -82,4 +82,4 @@ El pecado mortal se opone directamente a la [[caridad]] y a la [[gracia_santific
 - [CEC §1854-1864]
 - [TPCr, Parte III, Libro I, Cap. I, n.197-206]
 - SmTh Ia-IIae q.72 a.5; q.87 a.3; q.88 aa.1-2, 5
-- EcCsS, *Elegidos en Cristo para ser santos*, cap. sobre el pecado
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, cap. sobre el pecado

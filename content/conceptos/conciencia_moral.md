@@ -53,7 +53,7 @@ La Veritatis Splendor dedica toda la sección II del Capítulo II a la concienci
 
 La conciencia es el «santuario del hombre» (GS 16). Debe ser seguida incluso si es errónea por ignorancia invencible. Santo Tomás (I-II q.19 a.5). Newman: la conciencia está por encima de la autoridad. [UDE, Cap. XXIX]
 
-### Elegidos en Cristo para ser santos (EcCsS)
+### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 La conciencia moral es la norma próxima de moralidad: es el juicio práctico de la razón que aplica los principios generales de la ley moral a la situación concreta del obrar humano. En la conciencia, la persona humana discierne qué es bueno y qué es malo en cada acto concreto. La conciencia no es una ley que el hombre se dicta a sí mismo, sino que refleja la ley divina inscrita en el corazón.
 
@@ -74,4 +74,4 @@ La ignorancia puede ser invencible o vencible. La ignorancia invencible —aquel
 - [CEC §1776-1802]
 - [GS 16]
 - [Santo Tomás, S.Th. I, q. 79, aa. 12-13]
-- EcCsS, *Elegidos en Cristo para ser santos*, cap. sobre la conciencia moral
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, cap. sobre la conciencia moral

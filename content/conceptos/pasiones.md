@@ -57,7 +57,7 @@ Los tres grandes enemigos del alma —mundo, demonio y carne— actúan sobre la
 
 [TPCr, Parte III, Libro I; Cap. II-III]
 
-### Elegidos en Cristo para ser santos (EcCsS)
+### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El «fondo endotímico» designa la profundidad del mundo afectivo e interior del hombre, aquella zona donde se juegan las disposiciones más íntimas de la persona. En este fondo se encuentran la sensibilidad, la afectividad y la emotividad, que constituyen las dimensiones más profundas de la vida pasional humana.
 
@@ -96,4 +96,4 @@ Las pasiones se relacionan con la [[templanza]] (las concupiscibles) y la [[fort
 - SmTh Iª q.95 aa.2-3
 - SmTh IIIª q.14 aa.1-4
 - SmTh IIIª q.15 aa.2,4
-- EcCsS, *Elegidos en Cristo para ser santos*, cap. sobre las pasiones
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, cap. sobre las pasiones
