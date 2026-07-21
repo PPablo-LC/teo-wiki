@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Reino de Dios
 tags: ["dogmática"]
 
-timestamp: 2026-06-21
+timestamp: 2026-07-20
 description: "El Reino de Dios (o Reino de los Cielos) es el señorío soberano de Dios sobre todas las cosas, manifestado en la historia mediante la acción salvífica de Cristo."
 ---
 # Reino de Dios
 
 > Área: Dogmática
-> Última actualización: 2026-06-21
+> Última actualización: 2026-07-20
 
 ## Definición
 
@@ -88,6 +88,22 @@ Desde la perspectiva de la venida del Reino, Juan Pablo II subraya su realizaci�
 
 La entrada «Reino» del VocTeoBib desarrolla el tema desde el AT al NT. Yahveh reina sobre Israel como rey (Ex 15,18; Sal 24,7-10), constituyéndolo en «reino de sacerdotes» (Ex 19,6). Los profetas anuncian el reinado escatológico de Dios (Is 52,7; Dan 7). Jesús da al reino el primer puesto en su predicación (Mc 1,15; Mt 4,23); los milagros son signos de su presencia (Mt 12,28). El reino es un misterio que crece como la semilla (Mc 4,26-29), se da a los pobres y pequeños (Lc 12,32). Está presente pero espera su plenitud en el tiempo intermedio de la Iglesia. Cristo, Rey que no es de este mundo (Jn 18,36), es entronizado en la resurrección y entregará el reino al Padre al final (1Cor 15,24).
 
+### Según San Francisco de Asís (SFrAs)
+
+El Reino de Dios en San Francisco es experiencia de comunión trinitaria y meta de la vida cristiana:
+
+**Reino como visión, amor y compañía:** En Las Alabanzas, la paráfrasis del Padrenuestro define el Reino en términos de comunión personal: «Venga tu Reino, para que reinés en nosotros por gracia y nos hagas venir a tu Reino, donde está la clara visión de Ti, el perfecto amor de Ti, la bendita compañía de Ti, el goce eterno de Ti» (Laud. 17). El Reino no es solo un lugar sino una relación viva con Dios.
+
+**Reino y pobreza:** En la Segunda Regla, San Francisco presenta la pobreza evangélica como camino al Reino: «la cumbre de la más sublime pobreza que os ha hecho herederos y reyes del reino de los cielos» (RGl II.6). La pobreza no es privación sino acceso al Reino.
+
+**Reino y conversión:** En la Carta a todos los fieles, el Reino se alcanza por la conversión: «Quien no come su Carne y bebe su Sangre no puede entrar en el Reino de Dios» (CFi. 27). La Eucaristía es puerta del Reino.
+
+**Reino y búsqueda prioritaria:** En el Reglamento para el eremitorio, los hermanos deben «buscar primero "el Reino de Dios y su justicia"» (RErm. 11; cf. Mt 6,33). La búsqueda del Reino es el primer deber del contemplativo.
+
+**Reino y alabanza:** Las Alabanzas terminan con la Liturgia celestial que anticipa el Reino: «Santo, Santo, Santo, Señor Dios del universo. Te alabamos y te exaltamos sobre todas las cosas por siempre» (Laud. 33). La alabanza terrenal es preludio de la gloria del Reino.
+
+**Reino y universalidad:** En la Carta a todos los fieles, San Francisco escribe «a todos los cristianos que están en todo el mundo» (CFi. 17). El Reino es universal y la llamada se dirige a todos.
+
 ## Distinciones importantes
 
 - **Reino de Dios** ≠ **reino temporal**: el Reino de Dios no es de este mundo; no se identifica con ninguna estructura política.
@@ -107,3 +123,7 @@ El Reino de Dios se relaciona con la [[iglesia]] (su germen en la tierra), la [[
 - [CEC §541-556]
 - [CEC §2816-2821]
 - [TPCr, Parte II]
+- [SFrAs, Laud. 17, 33 — Reino como comunión y alabanza]
+- [SFrAs, RGl II.6 — Reino y pobreza evangélica]
+- [SFrAs, CFi. 17, 27 — Reino universal y eucaristía]
+- [SFrAs, RErm. 11 — Reino y búsqueda prioritaria]

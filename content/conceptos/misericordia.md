@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Misericordia
 tags: ["dogmática"]
 
-timestamp: 2026-06-20
+timestamp: 2026-07-20
 description: "La misericordia es el atributo divino por el cual Dios, movido por su infinita bondad, se compadece de la miseria humana."
 ---
 # Misericordia
 
 > Área: Dogmática
-> Última actualización: 2026-06-20
+> Última actualización: 2026-07-20
 
 ## Definición
 
@@ -95,6 +95,24 @@ El Papa presenta la misericordia como fuente de la alegría cristiana: «Dios no
 
 El Concilio Vaticano II enseña que «la misericordia de Dios, que al mismo tiempo perdona y reforma, se manifiesta en la historia del pueblo de Dios y se hace presente en la vida de la Iglesia» (LG 8). *Gaudium et Spes* presenta a la Iglesia al servicio de la humanidad, atenta a las esperanzas y angustias de los hombres (GS 1), y enseña que la caridad impulsa a la Iglesia a buscar la justicia y la paz.
 
+### Según San Francisco de Asís (SFrAs)
+
+La misericordia en San Francisco es el corazón de la vida espiritual y se ejercita de forma concreta y radical:
+
+**Misericordia con los pecadores:** En la Carta a cierto ministro, San Francisco establece un principio fundamental: «Que no haya hermano en el mundo que haya pecado, por grande que sea su pecado, que no obtenga tu misericordia si busca misericordia, y si no busca misericordia, pregúntale si desea misericordia. Y si después aparece ante tu rostro mil veces, ámame más que a mí, a fin de que puedas atraerlo al Señor, y a aquellos siempre ten misericordia» (CMin. 13). La misericordia no tiene límites.
+
+**Misericordia y conversión:** En el Testamento, San Francisco experimenta la misericordia divina: «El Señor me llevó entre los leprosos y les mostré misericordia. Y cuando los dejé, lo que me parecía amargo se me convirtió en dulzura de cuerpo y alma» (Test. 1-3). La misericordia con los demás transforma al que la ejercita.
+
+**Misericordia como mandamiento:** En la Carta a todos los fieles: «Debemos amar a nuestros enemigos y hacer bien a quienes nos odian» (CFi. 35). La misericordia incluye a los enemigos.
+
+**Misericordia y juicio:** «Que aquellos que tienen el poder de juzgar a otros ejerzan el juicio con misericordia, como esperan obtener misericordia del Señor. Porque al que no hace misericordia se le mostrará juicio sin misericordia» (CFi. 31; cf. Stg 2,13).
+
+**Misericordia y limosna:** «Debemos dar limosna porque lavan las almas de la suciedad de los pecados. Porque los hombres pierden todo lo que dejan en este mundo; pero se llevan consigo la recompensa de la caridad y la limosna que han dado» (CFi. 31).
+
+**Misericordia y caridad:** En la Salutación de las Virtudes, la caridad (que incluye la misericordia) «confunde todas las tentaciones diabólicas y carnales y todos los temores carnales» (SalV. 1-9).
+
+**Misericordia en la corrección fraterna:** En la Carta a los fieles: «No esté enojado con un hermano a causa de su ofensa, sino que le aconseje amablemente y le anime con toda paciencia y humildad» (CFi. 37).
+
 ## Distinciones importantes
 
 - **Misericordia** ≠ **justicia**: la misericordia no se opone a la justicia, sino que la perfecciona y la trasciende.
@@ -128,3 +146,7 @@ La misericordia se relaciona con la [[justicia_divina]], la [[penitencia]], el [
 
 ## Referencias
 - [VJ, Cap. III, Cap. VI]
+- [SFrAs, CMin. 13 — Misericordia sin límites con el pecador]
+- [SFrAs, Test. 1-3 — Misericordia y conversión]
+- [SFrAs, CFi. 31, 35, 37 — Misericordia, juicio y caridad]
+- [SFrAs, SalV. 1-9 — Misericordia como caridad]

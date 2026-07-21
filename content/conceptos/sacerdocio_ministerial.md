@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Sacerdocio ministerial
 tags: ["sacramental", "eclesiología"]
 
-timestamp: 2026-05-25
+timestamp: 2026-07-20
 description: "El sacerdocio ministerial (o jerárquico) es la participación en el único sacerdocio de Cristo conferida por el sacramento del Orden."
 ---
 # Sacerdocio ministerial
 
 > Área: Sacramental / Eclesiología
-> Última actualización: 2026-05-25
+> Última actualización: 2026-07-20
 
 ## Definición
 
@@ -49,6 +49,24 @@ El RC inscribe esta preocupación en el horizonte delineado por la exhortación 
 
 ---
 
+### Según San Francisco de Asís (SFrAs)
+
+El sacerdocio ministerial en San Francisco se distingue por una reverencia extrema y una exigencia de santidad:
+
+**Fe en los sacerdotes:** En el Testamento, San Francisco declara: «Después el Señor me dio, y me da, tanta fe en los sacerdotes que viven según la forma de la santa Iglesia Romana, por su orden, que si me persiguieran, tendría recurso a ellos. Y si tuviera tanta sabiduría como Salomón, y si encontrara pobres sacerdotes de este mundo, no predicaría contra su voluntad en las parroquias en las que viven» (Test. 14-15).
+
+**Ver a Cristo en el sacerdote:** «Deseo temerlos, amarlos y honrarlos y a todos los demás como a mis maestros; y no deseo considerar pecado en ellos, pues en ellos veo al Hijo de Dios y son mis maestros» (Test. 15). La visión del sacerdote como icono de Cristo es fundamental.
+
+**Dignidad sacerdotal:** En la Carta a todos los hermanos: «Considerad vuestra dignidad, hermanos, y sed santos porque Él es santo. Y como el Señor Dios os ha honrado a todos sobre todo por este misterio, así también amadle y reverenciadle y honradle sobre todas las cosas» (CFr. 25).
+
+**Sacerdote como ministro eucarístico:** «Es gran miseria y deplorable debilidad, cuando Él está así presente, cuidar de cualquier otra cosa en todo el mundo. Que todo el hombre sea presa de temor; que todo el mundo tiemble; que el cielo se regocije cuando Cristo, el Hijo del Dios Viviente, está en el altar en las manos del sacerdote» (CFr. 25).
+
+**Exigencia de pureza:** «Que cada voluntad, en la medida en que la gracia del Todopoderoso ayude, sea dirigida a Él, deseando desde allí complacer solo al Alto Señor» (CFr. 19). El sacerdote que no celebra con pureza «se convierte en el traidor Judas y se hace culpable del Cuerpo y Sangre del Señor» (CFr. 19-20).
+
+**Una Misa por lugar:** «En los lugares en los que viven los hermanos, se celebre una sola Misa en el día, según la forma de la santa Iglesia» (CFr. 27). La Eucaristía no se multiplica por cantidad sino por dignidad.
+
+**Reverencia a las palabras sagradas:** «Dondequiera que encuentren las palabras divinas escritas, las veneren en la medida de lo posible, y si no están bien conservadas o yacen dispersas deshonrosamente en algún lugar, que las recojan y conserven» (CFr. 29).
+
 ## Distinciones importantes
 
 - Difiere esencialmente — no solo en grado — del sacerdocio común
@@ -71,3 +89,5 @@ Se relaciona con [[sacerdocio]], [[sacerdocio_bautismal]], [[sacerdocio_común]]
 - CIC cc. 1008-1054 (Libro III)
 - LC-Wik, archivo 12 — Conferencia sobre sacerdotes diocesanos (Regnum Christi, 1993)
 - Juan Pablo II, *Pastores Dabo Vobis* (1992)
+- [SFrAs, Test. 14-15 — Fe en los sacerdotes]
+- [SFrAs, CFr. 19-20, 25, 27, 29 — Dignidad y exigencia sacerdotal]

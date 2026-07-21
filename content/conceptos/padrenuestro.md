@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Padrenuestro
 tags: ["dogmática", "liturgia"]
 
-timestamp: 2026-05-22
+timestamp: 2026-07-20
 description: "El Padrenuestro (Pater Noster) es la oración que el Señor Jesucristo enseñó a sus discípulos, contenida en los evangelios de Mateo (6,9-13) y Lucas (11,2-4)."
 ---
 # Padrenuestro
 
 > Área: Dogmática / Liturgia
-> Última actualización: 2026-05-22
+> Última actualización: 2026-07-20
 
 ## Definición
 
@@ -41,6 +41,22 @@ Benedicto XVI dedica el capítulo 31 de *Jesús de Nazaret II* a la «oración d
 
 **Vigilancia y tentación.** «No nos dejes caer en tentación» (Mt 6,13). Benedicto XVI comenta que la tentación suprema para los discípulos en Getsemaní es la somnolencia: no estar alerta, no velar con Cristo en su combate espiritual. La oración del Señor es también una llamada a la vigilancia cristiana.
 
+### Según San Francisco de Asís (SFrAs)
+
+El Padrenuestro en San Francisco es una paráfrasis teológica profunda que desarrolla cada petición:
+
+**Paráfrasis completa:** En Las Alabanzas, San Francisco compone una paráfrasis del Padrenuestro donde cada versículo se despliega teológicamente: «Padre nuestro, santísimo, nuestro Creador, Redentor y Consolador» (Laud. 11).
+
+**Dios como luz, amor y sumo bien:** «Que estás en los ángeles y en los santos, iluminándolos hasta el conocimiento, porque Tú, Señor, eres luz; inflamándolos hasta el amor, porque Tú, Señor, eres Amor; habitando en ellos y llenándolos de bienaventuranza, porque Tú, Señor, eres el sumo Bien, el Bien eterno del que viene todo bien y sin el que no hay bien» (Laud. 13).
+
+**Reino de Dios como visión, amor y compañía:** «Venga tu Reino, para que reinés en nosotros por gracia y nos hagas venir a tu Reino, donde está la clara visión de Ti, el perfecto amor de Ti, la bendita compañía de Ti, el goce eterno de Ti» (Laud. 17).
+
+**Pan cotidiano como Cristo:** «Danos hoy, por memoria y reverencia del amor que Él tuvo por nosotros y de las cosas que dijo, hizo y padeció por nosotros, —nuestro pan cotidiano—, tu Amado Hijo, nuestro Señor Jesucristo» (Laud. 21). El pan no es solo alimento sino la Persona de Cristo.
+
+**Perdón y misericordia:** «Perdona nuestras deudas, por Tu inefable misericordia en virtud de la Pasión de tu Amado Hijo» (Laud. 23). «Como nosotros perdonamos a los que nos ofenden, y lo que no perdonamos completamente, haz, Señor, que perdonemos completamente, para que por Tu amor verdaderamente amemos a nuestros enemigos y devotamente intercedamos por ellos» (Laud. 25).
+
+**Adoración continua:** Las Alabanzas terminan con la Liturgia celestial: «Santo, Santo, Santo, Señor Dios del universo. Te alabamos y te exaltamos sobre todas las cosas por siempre» (Laud. 33). La oración se prolonga en la alabanza eterna.
+
 ## Distinciones importantes
 
 - Versión de Mateo (7 peticiones) vs. versión de Lucas (5 peticiones).
@@ -64,3 +80,4 @@ Se relaciona con [[oración]], [[filiación_divina]], [[reino_de_dios]], [[eucar
 
 - [CEC §2759-2865]
 - [TPCr, Tercera Parte, Libro II, Cap. III]
+- [SFrAs, Laud. 11, 13, 17, 21, 23, 25, 33 — Paráfrasis del Padrenuestro]
