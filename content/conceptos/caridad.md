@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Caridad
 description: "La caridad es la más excelente de las virtudes teologales, virtud infusa sobrenatural por la que amamos a Dios sobre todas las cosas por Sí mismo."
 tags: ["moral", "dogmática"]
-timestamp: 2026-07-13
+timestamp: 2026-07-20
 ---
 
 # Caridad
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-07-13
+> Última actualización: 2026-07-20
 
 ## Definición
 
@@ -198,6 +198,22 @@ Pío V condenó los errores de Bayo sobre la caridad (D‑1031–D‑1034, D‑1
 - [[sean_glass_call_to_fortitude]]
 - [[tim_barry_the_strength_of_meekness]]
 
+### Según San Francisco de Asís (SFrAs)
+
+La caridad en San Francisco es amor concreto, universal y que incluye al enemigo:
+
+**Amor al enemigo:** «El Señor dice en el Evangelio: "Ama a tus enemigos." Verdaderamente ama a su enemigo aquel que no se entristece por el mal recibido a sí mismo, sino que se aflige por amor de Dios por el pecado que hay en el alma de su [hermano] y manifiesta su amor con sus obras» (Adm. 9).
+
+**Doble mandamiento:** En la Carta a todos los fieles, San Francisco resume: «Ama a Dios con todo tu corazón, con toda tu alma y... a tu prójimo como a ti mismo» (CFi. 25). La caridad incluye confesar pecados, recibir la Eucaristía, hacer penitencia y amar al prójimo.
+
+**Caridad y unidad de virtudes:** En la Salutación de las Virtudes, la caridad es una de las seis virtudes hermanas: «Santa caridad confunde todas las tentaciones diabólicas y carnales y todos los temores carnales» (SalV. 1-9). «Quien posee una sin ofender a las otras, posee todas; y quien ofende una, posee ninguna y ofende a todas» (SalV. 6).
+
+**Caridad y misericordia:** En la Carta a cierto ministro: «Que no haya hermano en el mundo que haya pecado, por grande que sea su pecado, que no obtenga tu misericordia si busca misericordia, y si no busca misericordia, pregúntale si desea misericordia. Y si después aparece ante tu rostro mil veces, ámame más que a mí, a fin de que puedas atraerlo al Señor, y a aquellos siempre ten misericordia» (CMin. 13).
+
+**Caridad y virtudes que confunden vicios:** «Donde hay caridad y sabiduría no hay temor ni ignorancia. Donde hay paciencia y humildad no hay ira ni preocupación» (Adm. 27).
+
+**Caridad fraterna:** «Bendito es aquel hermano que amaría a su hermano tanto cuando está enfermo como cuando está bien, y que no diría nada sobre él a sus espaldas que no pudiera con caridad decir en su presencia» (Adm. 25).
+
 ## Ver también
 [[virtud_de_la_caridad]], [[virtudes_teologales]], [[virtudes_infusas]]
 
@@ -228,3 +244,8 @@ El principio *caritas est dare vitam pro aliis* —«la caridad es dar la propia
 - CEC §1822-1829
 - ColCas-II, Conferencia XVI, §§1-28
 - TPCr, Tercera Parte, Libro I, Cap. IV
+- [SFrAs, Adm. 9 — Amor al enemigo]
+- [SFrAs, Adm. 25, 27 — Caridad fraterna y virtudes]
+- [SFrAs, SalV. 1-9 — Caridad como virtud que confunde tentaciones]
+- [SFrAs, CMin. 13 — Caridad y misericordia con el pecador]
+- [SFrAs, CFi. 25 — Doble mandamiento]

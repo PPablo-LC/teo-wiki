@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Conversión
 tags: ["moral", "ascética"]
 
-timestamp: 2026-07-13
+timestamp: 2026-07-20
 description: "Movimiento del alma que, movida por la gracia, se vuelve a Dios apartándose del pecado."
 ---
 # Conversión
 
 > Área: Moral / Ascética
-> Última actualización: 2026-07-13
+> Última actualización: 2026-07-20
 
 ## Definición
 
@@ -43,6 +43,22 @@ La auténtica conversión debe prepararse y cultivarse con la lectura orante de 
 La conversión tiene una dimensión social: convertirse al Evangelio significa revisar «todos los ambientes y dimensiones de su vida, especialmente todo lo que pertenece al orden social y a la obtención del bien común» [EA §27]. Se debe fomentar «la solicitud por la obligación de participar en la acción política según el Evangelio» [EA §27].
 
 La conversión es permanente: «es un empeño que abarca toda la vida» [EA §28]. Se debe renovar constantemente «el encuentro con Jesucristo vivo», camino que «nos conduce a la conversión permanente» [EA §28]. La conversión exige de los pastores «una auténtica identificación con el estilo personal de Jesucristo, que nos lleva a la sencillez, a la pobreza, a la cercanía» [EA §28].
+
+### Según San Francisco de Asís (SFrAs)
+
+La conversión en San Francisco es un camino experiencial y radical de transformación:
+
+**Conversión experiencial:** El Testamento narra la conversión en primera persona: «El Señor me dio así a empezar a hacer penitencia; porque cuando estaba en pecado me parecía muy amargo ver a los leprosos, y el Señor mismo me llevó entre ellos y les mostré misericordia. Y cuando los dejé, lo que me parecía amargo se me convirtió en dulzura de cuerpo y alma» (Test. 1-3).
+
+**Conversión como abandono total:** En la Carta a todos los fieles, San Francisco exhorta a la conversión universal: «Palabras del Señor Jesús que son espíritu y vida» (CFi. 19). La conversión implica «negarse a sí mismo y poner su cuerpo bajo el yugo de servidumbre y santa obediencia» (CFi. 35).
+
+**Conversión y penitencia:** «Debemos traer "frutos dignos de penitencia." Y debemos amar a nuestro prójimo como a nosotros mismos, y si alguno no quiere o no puede amarlo, que al menos no le haga daño, sino que le haga bien» (CFi. 29).
+
+**Conversión y Sacramento de la Reconciliación:** «Debemos confesar todos nuestros pecados a un sacerdote y recibir de él el Cuerpo y Sangre de Nuestro Señor Jesucristo. Quien no come su Carne y no bebe su Sangre no puede entrar en el Reino de Dios» (CFi. 27).
+
+**Conversión y muerte:** La Carta a los fieles describe la muerte del rico como llamado a la conversión: «El cuerpo se debilita, la muerte se acerca... el sacerdote le dice: "¿Quieres hacer penitencia por todos tus pecados?" Él responde: "Quiero." "¿Quieres satisfacer...?" Responde: "No... He puesto todo en manos de mis parientes y amigos." Y empieza a perder el habla y así muere este miserable una muerte amarga» (CFi. 47-49).
+
+**Conversión y pobreza:** En el Testamento, la conversión se vive en la pobreza: «Dieron a los pobres todo lo que pudieron tener y se contentaron con una túnica» (Test. 15). La conversión implica renunciar a la propia voluntad, como Adán que pecó al apropiarse su propia voluntad (Adm. 2).
 
 ## Distinciones importantes
 
@@ -143,3 +159,6 @@ El sacramento de la Reconciliación es el lugar sacramental donde la conversión
 - ColCas-II, Conferencias XIX, XX
 - [VJ, Cap. III, Cap. VI]
 - Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, cap. sobre la conversión
+- [SFrAs, Test. 1-3, 15 — Conversión experiencial y pobreza]
+- [SFrAs, CFi. 19, 25, 27, 29, 35, 47-49 — Conversión universal]
+- [SFrAs, Adm. 2 — Conversión y renuncia a la propia voluntad]

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Eucaristía
 tags: ["sacramental"]
 
-timestamp: 2026-06-20
+timestamp: 2026-07-20
 description: "La eucaristía es el sacramento y sacrificio del Cuerpo y Sangre de Nuestro Señor Jesucristo, realmente, verdadera y sustancialmente presente bajo las especies de pan y vino."
 ---
 # Eucaristía
 
 > Área: Sacramental
-> Última actualización: 2026-06-26
+> Última actualización: 2026-07-20
 
 ## Definición
 
@@ -247,6 +247,22 @@ Juan Pablo II trata la institución de la Eucaristía en la Última Cena como el
 
 La celebración eucarística es la acción de Cristo y del Pueblo de Dios, reunido bajo la presidencia del ministro sagrado; constituye el centro de toda la vida cristiana tanto para la Iglesia universal como para las Iglesias particulares (§91). La función principal del sacerdote consiste en presidir la celebración eucarística, en la que actúa *in persona Christi*, y ofrecer el sacrificio eucarístico en nombre de todo el pueblo (§19).
 
+### Según San Francisco de Asís (SFrAs)
+
+San Francisco de Asís muestra una devoción eucarística profunda y teológicamente rica en sus escritos:
+
+**Presencia Real y fe eucarística:** En las Admoniciones, San Francisco desarrolla una argumentación trinitaria sobre la presencia real: «Dios es espíritu y nadie ha visto a Dios en ningún momento. Como Dios es espíritu, sólo por el espíritu puede ser visto» (Adm. 1). La fe en la presencia real requiere ver «con los ojos del espíritu y la Divinidad que es verdaderamente el Santísimo Cuerpo y Sangre de Nuestro Señor Jesucristo» (Adm. 1). Los que reciben sin el Espíritu del Señor «comen y beben su propia condenación» (Adm. 1; cf. 1 Cor 11,29).
+
+**Humildad eucarística de Cristo:** «Cristo se humilla diariamente, como cuando desde su trono real vino al seno de la Virgen; diariamente Él mismo viene a nosotros con la misma humildad; diariamente desciende del seno de su Padre sobre el altar en las manos del sacerdote» (Adm. 1). La Eucaristía es la continuación de la encarnación.
+
+**Reverencia eucarística:** En la Instrucción sobre la reverencia al Cuerpo del Señor, San Francisco exige cuidado extremo: «los vasos sagrados, corporales y lienzos dondequiera que se encuentren» deben ser recogidos y venerados (P1_03). Quien no observe estas cosas «rendirá cuentas en el día del juicio» (P1_03).
+
+**Dignidad sacerdotal eucarística:** En la Carta a todos los hermanos, exhorta a los sacerdotes: «Considerad vuestra dignidad, hermanos, y sed santos porque Él es santo» (CFr. 25-26). La celebración debe hacerse «con pureza, con reverencia, con santa y limpia intención, no por cosa terrenal alguna» (CFr. 19-20).
+
+**Comunión como necesidad de salvación:** «Nadie puede salvarse si no recibe el Santísimo Cuerpo y Sangre del Señor» (Cust. 14-15). En la Carta a todos los fieles: «Quien no come su Carne y bebe su Sangre no puede entrar en el Reino de Dios» (CFi. 27).
+
+**Eucaristía y adoración:** En las Alabanzas, la paráfrasis del Padrenuestro define el pan cotidiano como Cristo mismo: «Danos hoy, por memoria y reverencia del amor que Él tuvo por nosotros... nuestro pan cotidiano, tu Amado Hijo» (Laud. 21). Los «verdaderos adoradores adorarán al Padre en espíritu y en verdad» (CFi. 25; cf. Jn 4,23).
+
 ## Distinciones importantes
 
 - **Transubstanciación**: cambio de sustancia, permaneciendo los accidentes
@@ -336,3 +352,9 @@ Thomas O'Loughlin (2017) trata la Eucaristía como el caso paradigmático de lo 
 - [VocTeoBib, «Eucaristía»]
 - [UFGF, 22.12.2025]
 - [VJ, Cap. V]
+- [SFrAs, Adm. 1 — Presencia Real y fe eucarística]
+- [SFrAs, P1_03 — Reverencia eucarística]
+- [SFrAs, CFr. 19-20, 25-26 — Dignidad sacerdotal]
+- [SFrAs, CFi. 25, 27 — Adoración y comunión]
+- [SFrAs, Cust. 14-15 — Comunión necesaria]
+- [SFrAs, Laud. 21 — Pan cotidiano como Cristo]

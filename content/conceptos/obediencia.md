@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Obediencia
 tags: ["moral", "ascética"]
 
-timestamp: 2026-06-10
+timestamp: 2026-07-20
 description: "La obediencia es la virtud moral que inclina la voluntad a cumplir los mandatos de la autoridad legítima por consideración a Dios."
 ---
 # Obediencia
 
 > Área: Moral / Ascética
-> Última actualización: 2026-06-10
+> Última actualización: 2026-07-20
 
 ## Definición
 
@@ -76,6 +76,24 @@ El monje que obedece «toma el camino estrecho… por lo que no viven según su 
 **Obediencia aun cuando el abad obre mal (RB 4, 61):**
 San Benito cita el precepto del Señor: «Hagan lo que ellos dicen, pero no lo que ellos hacen», indicando que la obediencia al superior se debe incluso cuando el superior no da buen ejemplo, a condición de que lo mandado no sea pecado.
 
+### Según San Francisco de Asís (SFrAs)
+
+La obediencia de San Francisco es total, radical y alegre, basada en la renuncia a la propia voluntad:
+
+**Obediencia como renuncia total:** En las Admoniciones define la verdadera obediencia: «aquel que se abandona enteramente a la obediencia en manos de su superior, y todo lo que hace y dice — siempre que él sepa que lo que hace es bueno y no contrario a la voluntad del superior — es verdadera obediencia» (Adm. 3). La obediencia implica «sacrificar su voluntad a Dios» (Adm. 3).
+
+**Obediencia perfecta e imperfecta:** «Si un superior manda a un súbdito algo contra su alma, le es permitido desobedecer, pero no debe dejarlo [al superior]» (Adm. 3). El que prefiere sufrir persecución a separarse de sus hermanos «permanece en la obediencia perfecta porque da su vida por sus hermanos» (Adm. 3).
+
+**Contra la obediencia propia:** «Muchos religiosos, bajo pretexto de ver cosas mejores que las que sus superiores mandan, miran hacia atrás y vuelven al vómito de su propia voluntad. Estos son homicidas y con su mal ejemplo causan la pérdida de muchas almas» (Adm. 3).
+
+**Obediencia en el Testamento:** «Deseo obedecer estrictamente al ministro general de esta hermandad y al guardián que él me designe. Y deseo estar tan cautivo en sus manos que no pueda ir ni actuar más allá de su obediencia y su voluntad porque él es mi maestro» (Test. 21-22).
+
+**Obediencia como aceptación del sufrimiento:** En la Carta a cierto ministro, la obediencia se vive como acogida del sufrimiento: «Ama a los que te hieren y desear lo que el Señor conceda; y en esta cosa ama a ellos — deseando que sean mejores cristianos. Y que esto sea para ti más que un eremita» (CMin. 5-7). La obediencia es «verdadera obediencia del Señor Dios y de mí» (CMin. 5).
+
+**Obediencia y caridad fraterna:** «Que no haya hermano en el mundo que haya pecado, por grande que sea su pecado, que no obtenga tu misericordia si busca misericordia» (CMin. 13). La obediencia se ejercita en la misericordia con los hermanos pecadores.
+
+**Obediencia en la Salutación de las Virtudes:** La obediencia es una de las seis virtudes hermanas que «confunde todos los deseos corporales y carnales y mantiene el cuerpo mortificado a la obediencia del espíritu y a la obediencia de un hermano» (SalV. 1-9).
+
 ## Distinciones importantes
 
 - Obediencia a Dios (absoluta) vs. obediencia a los hombres (relativa, limitada por la ley de Dios).
@@ -121,3 +139,7 @@ Se relaciona con [[obediencia_de_la_fe]], [[consejos_evangélicos]], [[voto_de_o
 - [TPCr, Tercera Parte, Libro II, Cap. II, B]
 - [CIC cc. 273, 331, 601, 618]
 - AvEsp, Dicho 13 (obediencia y sujeción sobre servicios externos); Punto 6 (palabra sin orden de obediencia en cuenta); Punto 32 (déjate mandar y sujetar); Punto 42 (hábitos de imperfecciones impiden unión)
+- [SFrAs, Adm. 3 — Obediencia perfecta e imperfecta]
+- [SFrAs, Test. 21-22 — Obediencia al ministro general]
+- [SFrAs, CMin. 5-7, 13 — Obediencia como sufrimiento y misericordia]
+- [SFrAs, SalV. 1-9 — Obediencia como virtud]

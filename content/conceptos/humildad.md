@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Humildad
 tags: ["moral", "ascética"]
 
-timestamp: 2026-06-11
+timestamp: 2026-07-20
 description: "La humildad es una virtud derivada de la templanza —a través de la modestia— que inclina a cohibir el desordenado apetito de la propia excelencia."
 ---
 # Humildad
 
 > Área: Moral / Ascética
-> Última actualización: 2026-06-11
+> Última actualización: 2026-07-20
 
 ## Definición
 
@@ -99,6 +99,22 @@ JvC-Muj presenta la misma distinción: «La verdadera humildad hace decir al hom
 
 [VocTeoBib, «Humildad»] La humildad bíblica tiene tres grados: la modestia frente a la vanidad, la actitud de la criatura pecadora ante el Dios santo, y la humildad de Cristo que se anonada hasta la cruz por nuestra salvación (Flp 2,6-8). Israel aprendió la humildad en la experiencia de la omnipotencia divina y en la prueba del exilio. Jesús, el Mesías humilde anunciado por Zacarías (Zac 9,9), invita a aprender de él, «manso y humilde de corazón» (Mt 11,29). Dios mira a los humildes y los exalta (Sant 4,10; 1Pe 5,6).
 
+### Según San Francisco de Asís (SFrAs)
+
+La humildad de San Francisco es concreta, práctica y radical, basada en la imitación de Cristo:
+
+**Humildad entre súbditos y amos:** «Bienaventurado aquel que será hallado tan humilde entre sus súbditos como entre sus amos. Bienaventurado el siervo que siempre continúa bajo la vara de corrección. Es "fiel y prudente siervo" el que no se retrasa en castigarse por todas sus ofensas, interiormente por contrición y exteriormente por confesión y obras de satisfacción» (Adm. 24).
+
+**Humildad del siervo de Dios:** «Bienaventurado es aquel siervo que no se considera mejor cuando es estimado y ensalzado por los hombres que cuando es reputado como bajo, simple y despreciable: pues lo que el hombre es ante Dios, eso es y nada más» (Adm. 20). «¡Ay de aquel religioso que es elevado en dignidad por otros, y que por su propia voluntad no está listo a descender!» (Adm. 20).
+
+**Humildad como confusión de vicios:** En la Salutación de las Virtues, la humildad es una de las seis virtudes hermanas: «Santa humildad confunde al orgullo y a todos los hombres de este mundo y todas las cosas que están en el mundo» (SalV. 1-9).
+
+**Humildad en la vida religiosa:** En las Reglas, la humildad se vive en la corrección fraterna y en evitar «orgullo, envidia, codicia» (RGl II.10). El religioso debe «desear el espíritu del Señor sobre el saber letras» (RGl II.10).
+
+**Humildad y obediencia:** La humildad se une indisolublemente a la obediencia: «Bendito es aquel que ama a su hermano tanto cuando está enfermo y no puede asistirlo como cuando está bien y puede asistirlo» (Adm. 25). La humildad se vive en el servicio a los demás.
+
+**Humildad de Cristo:** En la Carta a todos los hermanos, San Francisco contempla la humildad de Cristo en la Eucaristía: «¡Qué humilde sublimidad! ¡Qué sublime humildad! Que el Señor del universo, Dios y Hijo de Dios, se humilla de tal manera que por nuestra salvación se esconde bajo un trozo de pan» (CFr. 25).
+
 ## Distinciones importantes
 
 - **Humildad vs. magnanimidad**: no son opuestas sino complementarias; una inclina hacia abajo (conteniendo el apetito desordenado), la otra hacia arriba (empujando a empresas grandes por Dios)
@@ -143,3 +159,7 @@ La humildad se manifiesta en la obediencia, el silencio y la renuncia a la propi
 - [Santo Tomás, II-II, q.161-162]
 - [Santa Teresa, Moradas, Camino de Perfección]
 - [L_XIV-ClerRom, 19.02.2026]
+- [SFrAs, Adm. 20, 24, 25 — Humildad verdadera y del siervo]
+- [SFrAs, SalV. 1-9 — Humildad como virtud que confunde vicios]
+- [SFrAs, RGl II.10 — Humildad en la vida religiosa]
+- [SFrAs, CFr. 25 — Humildad de Cristo en la Eucaristía]

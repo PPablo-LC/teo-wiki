@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Vida contemplativa
 tags: ["ascética", "mística"]
 
-timestamp: 2026-05-26
+timestamp: 2026-07-20
 description: "Estado de vida consagrada total y permanentemente a la oración, la alabanza divina y la penitencia, en clausura, separado del mundo, como anticipación del gozo eterno."
 ---
 # Vida contemplativa
 
 > Área: Ascética / Mística
-> Última actualización: 2026-05-26
+> Última actualización: 2026-07-20
 
 ## Definición
 
@@ -73,6 +73,22 @@ La vida contemplativa es mejor que la activa en sí misma (q.182 a.1), más meri
 
 **D‑1343**: «Las almas contemplativas están privadas de la vista distinta, sensible y refleja de Jesucristo...» Condenada. La contemplación no priva a las almas de la consideración de la humanidad de Cristo.
 
+### Según San Francisco de Asís (SFrAs)
+
+La vida contemplativa en San Francisco se vive en equilibrio con la vida activa:
+
+**Dos formas de vida en el eremitorio:** En el Reglamento para vivir religiosamente en ermita, San Francisco distingue dos vocaciones: «Que dos de ellos sean madres y tengan dos hijos, o al menos uno. Que los dos primeros lleven la vida de Marta y los otros dos la vida de María Magdalena» (RErm. 9). Las «madres» representan la vida activa; los «hijos», la vida contemplativa.
+
+**Régimen de vida contemplativa:** Los que llevan la vida de María «tengan un claustro y cada uno su propio lugar, para que no vivan ni duerman juntos. Y que siempre digan Completas del día hacia el ocaso, y que tengan cuidado de guardar silencio y de decir sus Horas y de levantarse para Maitines, y que busquen primero "el Reino de Dios y su justicia"» (RErm. 11).
+
+**Silencio y oración:** El silencio es fundamental: «después de la hora de Terce, pueden romper el silencio y pueden hablar» (RErm. 11). La oración es el centro: buscar «primero el Reino de Dios» (RErm. 11; cf. Mt 6,33).
+
+**Equilibrio entre activa y contemplativa:** Los hijos «deben a veces asumir alternativamente el oficio de las madres, por un tiempo, según les parezca disponer» (RErm. 11). No hay separación absoluta entre las dos vidas.
+
+**Contemplación en la actividad:** Aunque San Francisco eligió la vida activa (predicación y apostolado), nunca separó la contemplación: «siendo siervo de todos, estoy obligado a servir a todos y a administrar las palabras balsámicas de mi Señor» (CFi. 19). La contemplación alimenta la acción.
+
+**Oración continua:** En las Alabanzas, la alabanza es continua: «Santo, Santo, Santo, Señor Dios del universo» (Laud. 33). Las Horas canónicas son el marco de la vida contemplativa.
+
 ## Distinciones importantes
 
 - Vida contemplativa (clausura, oración como fin principal) vs. [[vida_activa]] (ministerio apostólico exterior)
@@ -91,6 +107,9 @@ Se relaciona con la [[contemplación]], la [[vida_activa]], la [[vida_consagrada
 
 ## Referencias
 
+- [SFrAs, RErm. 9, 11 — Vida contemplativa y activa en el eremitorio]
+- [SFrAs, CFi. 19 — Contemplación en la actividad]
+- [SFrAs, Laud. 33 — Alabanza continua]
 - CEC §920-921, 927
 - TPCr, Parte IV (vida contemplativa)
 - SmTh II-II, q.179, a.1-2

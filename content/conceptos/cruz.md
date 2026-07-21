@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Cruz
 tags: ["cristología", "soteriología"]
 
-timestamp: 2026-06-21
+timestamp: 2026-07-20
 description: "La cruz es el instrumento de la muerte redentora de Jesucristo y el símbolo central de la fe cristiana."
 ---
 # Cruz
 
 > Área: Cristología / Soteriología
-> Última actualización: 2026-06-21
+> Última actualización: 2026-07-20
 
 ## Definición
 
@@ -103,6 +103,22 @@ Benedicto XVI dedica el capítulo 8 de *Jesús de Nazaret II* a la crucifixión 
 
 **Muerte y vida.** La muerte de Cristo en la cruz es «reconciliación (expiación) y salvación». La Iglesia naciente, bajo la guía del Espíritu Santo, comprendió lentamente que los sacrificios del templo quedaron superados definitivamente. La cruz es el lugar en que se consuma el designio amoroso del Padre, por obra del Hijo, en el Espíritu Santo.
 
+### Según San Francisco de Asís (SFrAs)
+
+La cruz en San Francisco es el centro de la gloria cristiana y la imitación de Cristo:
+
+**Gloria solo en la cruz:** En la Admonición 5, San Francisco desarrolla una reflexión profunda: «Considera, oh hombre, cuán grande es la excelencia en la que el Señor te ha puesto porque te ha creado y formado a la imagen de su Hijo amado según el cuerpo y a su semejanza según el espíritu. Y todas las criaturas que están bajo el cielo te sirven, te conocen y te obedecen a su manera mejor que tú. Y aun los demonios no lo crucificaron, sino que tú, junto con ellos, lo crucificaste y todavía lo crucificas cuando te deleitas en vicios y pecados. ¿Dónde, pues, puedes gloriarte?» (Adm. 5).
+
+**Infermedad como gloria:** «Aquello, sin embargo, en lo que podemos gloriarnos es en nuestras debilidades y en cargar diariamente la santa cruz de nuestro Señor Jesucristo» (Adm. 5). La cruz no es desgracia sino fuente de verdadera gloria.
+
+**Imitación del Buen Pastor:** «Consideremos todos, hermanos, al Buen Pastor que para salvar a sus ovejas soportó el sufrimiento de la Cruz» (Adm. 6). Los discípulos del Señor «lo siguieron en tribulación y persecución y vergüenza, en hambre y sed, en enfermedad y tentaciones» (Adm. 6).
+
+**Vergüenza por no seguir la cruz:** «Es gran vergüenza para nosotros, siervos de Dios, que, mientras los Santos practicaron obras, nosotros esperemos recibir honor y gloria por leer y predicar las mismas» (Adm. 6). La cruz se vive en las obras, no en las palabras.
+
+**Cruz y oración:** En su Testamento, San Francisco reza: «Te adoramos, Señor Jesucristo, aquí y en todas tus iglesias que están en todo el mundo, y te bendecimos porque por tu santa cruz has redimido al mundo» (Test. 11). La cruz es motivo de adoración y acción de gracias.
+
+**Cruz y pobreza:** En la Regla, los hermanos deben «seguir la doctrina y huellas de Cristo» (RGl I.1), lo que incluye abrazar la cruz de la pobreza evangélica.
+
 ## Distinciones importantes
 
 - **Cruz material**: instrumento de la pasión.
@@ -129,3 +145,7 @@ La cruz es el acto consumativo de la [[redención]] y el sacrificio de la [[alia
 [[redención]], [[pasión_de_cristo]], [[eucaristía]], [[resurrección]], [[perfección_cristiana]], [[alianzas]]
 
 ## Referencias
+
+- [SFrAs, Adm. 5-6 — Gloria en la cruz e imitación del Buen Pastor]
+- [SFrAs, Test. 11 — Cruz y oración]
+- [SFrAs, RGl I.1 — Cruz y pobreza evangélica]
