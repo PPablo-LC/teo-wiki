@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Pobreza evangélica
 tags: ["ascética"]
 
-timestamp: 2026-06-14
+timestamp: 2026-07-20
 description: "La pobreza evangélica es el desprendimiento voluntario de los bienes temporales por amor a Cristo y al Evangelio."
 ---
 # Pobreza evangélica
 
 > Área: Ascética
-> Última actualización: 2026-06-14
+> Última actualización: 2026-07-20
 
 ## Definición
 
@@ -81,6 +81,22 @@ El Papa **Inocencio VI** (1355, D-575-577) condenó los errores de Dionisio Foul
 
 **Martín V**, Bula *Inter cunctas* (D-684-686): Preguntas 34-36: las personas eclesiásticas pueden tener sin pecado posesiones y bienes temporales; no es lícito a los laicos quitárselos por propia autoridad; tal robo e invasión lleva consigo sacrilegio.
 
+### Según San Francisco de Asís (SFrAs)
+
+San Francisco de Asís encarna la pobreza evangélica en su forma más radical y paradigmática. Sus escritos revelan una pobreza que es:
+
+**Pobreza absoluta y total:** La Primera Regla ordena «vender todo y dar a los pobres» (RGl I.1), prohibir absolutamente el dinero «ni siquiera para libros o trabajo» (RGl I.8), y tratar el dinero «como el polvo de las manos» (Test. 12). La Segunda Regla define la pobreza como «la cumbre de la más sublime pobreza que os ha hecho herederos y reyes del reino de los cielos» (RGl II.6).
+
+**Pobreza como libertad:** La pobreza franciscana es libertad para servir y para la misión. En la Carta a Fray León, San Francisco resume su ideal como «la santa obediencia» con la «bendita pobreza» y la «humildad» (CMin. 5-7). La pobreza no es un fin en sí misma, sino el camino hacia la libertad interior.
+
+**Pobreza y conversión:** El Testamento narra cómo la pobreza se experimenta en la conversión: «La vista de los leprosos era amarga; al partir se tornó dulzura de cuerpo y alma» (Test. 2-3). La pobreza evangélica implica renunciar a la propia voluntad, como Adán que pecó al apropiarse su propia voluntad (Adm. 2).
+
+**Pobreza y eucaristía:** La pobreza se conecta con la eucaristía: «Quien no recibe el Cuerpo del Señor merece su propia condenación» (Adm. 1). El pan cotidiano en el Padrenuestro es Cristo mismo (Laud. 11-13).
+
+**Pobreza y virtudes:** La Salutación de las Virtudes presenta la pobreza como una de las seis virtudes hermanas que confunden sus vicios opuestos (SalV. 1-6). La pobreza se une a la sabiduría, simplicidad, humildad, caridad y obediencia.
+
+**Pobreza y reino:** Las Alabanzas definen el reino como «la clara visión de Ti, el perfecto amor de Ti, la bendita compañía de Ti» (Laud. 23-25). La pobreza evangélica es el camino para alcanzar este reino.
+
 ## Distinciones importantes
 
 - Pobreza evangélica (virtud) vs. [[pobreza]] (concepto amplio que incluye también lo socioeconómico)
@@ -102,3 +118,9 @@ El Papa **Inocencio VI** (1355, D-575-577) condenó los errores de Dionisio Foul
 - CEC §852-853; §915; §944
 - TPCr, Tercera Parte, Libro II, caps. IV-V
 - TPCr, Tercera Parte, Libro III
+- SFrAs, RGl I.1, I.8, II.6
+- SFrAs, Test. 2-3, 12
+- SFrAs, CMin. 5-7
+- SFrAs, Adm. 1-2
+- SFrAs, SalV. 1-6
+- SFrAs, Laud. 11-13, 23-25

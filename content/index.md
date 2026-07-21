@@ -3,7 +3,7 @@ tags:
   - meta
   - index
 title: Wiki Index
-updated: '2026-07-18'
+updated: '2026-07-21'
 note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts/regenerar-indice.py'
 ---
 
@@ -3235,11 +3235,13 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 
 - [[abuso_de_autoridad]]
 - [[abuso_espiritual]]
+- [[abusos_de_autoridad_y_conciencia]]
 - [[acción_celular]]
 - [[acompañamiento_a_víctimas]]
 - [[acompañamiento_formativo]]
 - [[administración_y_voto_de_pobreza]]
 - [[admisión_en_lc]]
+- [[ambientes_seguros]]
 - [[ars_celebrandi]]
 - [[asamblea_general_regnum_christi]]
 - [[autoformación]]
@@ -3367,6 +3369,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[reconciliación_institucional]]
 - [[renovacion_promesas_bautismales_legionaria]]
 - [[renovación_apostólica]]
+- [[responsabilidad_institucional]]
 - [[revisión_de_vida]]
 
 ### S
@@ -3387,6 +3390,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 
 ### V
 
+- [[verdad_justicia_y_sanacion]]
 - [[vida_consagrada_rc]]
 - [[vida_en_el_espíritu]]
 - [[vida_fraterna_religiosa]]
@@ -3427,6 +3431,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[i_capítulo_general_1980_superiores]]
 - [[ii_capítulo_general_1992_legionarios_de_cristo]]
 - [[ii_capítulo_general_1992_superiores]]
+- [[ii_informe_anual_verdad_justicia_sanacion]]
 - [[instituyo_a_los_doce]]
 
 ### L

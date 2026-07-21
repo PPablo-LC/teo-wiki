@@ -1,7 +1,7 @@
 ---
 type: Análisis Cultural
 title: Computer Power and Human Reason — Análisis cultural
-description: Ensayo de Joseph Weizenbaum (1976) que critica el imperialismo de la razón instrumental y defiende la dignidad humana frente a la mitología de la inteligencia artificial; analizado a la luz de la antropología cristiana, la doctrina social y la teología de la cultura.
+description: "Ensayo de Joseph Weizenbaum (1976) que critica el imperialismo de la razón instrumental y defiende la dignidad humana frente a la mitología de la inteligencia artificial; analizado a la luz de la antropología cristiana, la doctrina social y la teología de la cultura."
 tags: [filosofía_de_la_tecnología, antropología, dignidad_humana, responsabilidad, cultura]
 timestamp: 2026-07-13
 ---
