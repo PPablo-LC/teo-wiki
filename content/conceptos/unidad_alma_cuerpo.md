@@ -57,6 +57,10 @@ La unidad de alma y cuerpo no debe entenderse como dos naturalezas yuxtapuestas,
 
 Se relaciona con [[alma]], [[cuerpo]], [[persona_humana]], [[antropología_cristiana]], [[imagen_de_dios]], [[dignidad_humana]], [[resurrección]], [[corazón_humano]].
 
+## Analizado en contexto cultural
+
+- [[consciousness_beyond_life_van_lommel]] — convergencia: el modelo de "transceptor" tiene puntos de contacto con el hilemorfismo tomista; tensión: la obra tiende a un dualismo funcional que separa la conciencia del cuerpo más de lo que la doctrina permite
+
 ## Ver también
 
 [[alma]], [[cuerpo]], [[persona_humana]], [[antropología_cristiana]], [[imago_dei]], [[dignidad_humana]], [[resurrección_de_la_carne]], [[espiritualidad_e_inmortalidad_del_alma]]

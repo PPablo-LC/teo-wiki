@@ -52,6 +52,7 @@ Se relaciona con [[cielo]], [[visión_beatífica]], [[gracia_santificante]], [[f
 
 - [[fr_michael_luxbacher_life_in_abundance]]
 - [[sean_glass_call_to_fortitude]]
+- [[consciousness_beyond_life_van_lommel]] — convergencia: la experiencia de "amor incondicional" y "luz" en las ECM es análoga a la visión beatífica; tensión: la obra no distingue entre mera supervivencia de la conciencia y participación sobrenatural en la vida divina, y omite la gracia, la fe y los sacramentos
 
 ## Ver también
 [[vida_cristiana]], [[bienaventuranzas]]

@@ -79,6 +79,10 @@ Se relaciona con el [[juicio_particular]], la [[resurrección_de_la_carne]], la 
 
 [[juicio_particular]], [[resurrección_de_la_carne]], [[justicia_divina]], [[escatología]], [[conversión]], [[cristo_juez]], [[valle_de_Josafat]]
 
+## Analizado en contexto cultural
+
+- [[consciousness_beyond_life_van_lommel]] — convergencia: la "revisión panorámica de vida" en las ECM guarda semejanza fenomenológica con el juicio particular; tensión: la obra presenta la revisión como autoconocimiento compasivo sin dimensión de culpa, responsabilidad moral ni encuentro con Cristo Juez
+
 ## Referencias
 
 - [CEC §1038-1041, §678-682]

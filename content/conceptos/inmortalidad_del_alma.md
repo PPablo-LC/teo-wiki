@@ -22,6 +22,7 @@ La **inmortalidad del alma** es la doctrina según la cual el [[alma]] humana, p
 ## Analizado en contexto cultural
 
 - [[la_biblia_del_ateo_joan_konner]] — tensión: la obra presenta el materialismo como la posición más coherente, cuando la doctrina católica enseña que el alma subsiste después de la muerte por ser espiritual
+- [[consciousness_beyond_life_van_lommel]] — convergencia: la conclusión de que la conciencia sobrevive a la muerte del cuerpo coincide con la inmortalidad del alma; tensión: el autor usa "conciencia no local" en vez de "alma" y no distingue entre mera supervivencia y participación sobrenatural en la vida divina
 
 ## Ver también
 

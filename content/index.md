@@ -3634,6 +3634,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 
 - [[caperucita_roja]] — *Caperucita Roja* (Charles Perrault)
 - [[computer_power_and_human_reason]] — *Computer Power and Human Reason* (Joseph Weizenbaum (MIT, 1976))
+- [[consciousness_beyond_life_van_lommel]] — *Consciousness Beyond Life* (Pim van Lommel (cardiólogo neerlandés))
 - [[la_biblia_del_ateo_joan_konner]] — *La bíblia del ateo (Joan Konner)* (Joan Konner (compiladora))
 - [[los_dones_de_la_imperfeccion_brene_brown]] — *Los dones de la imperfección* (Brené Brown)
 - [[morir-con-cero]] — *Morir con cero* (Bill Perkins)

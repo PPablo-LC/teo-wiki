@@ -78,6 +78,10 @@ La conciencia del pecado es el primer paso hacia la liberación: «Felix culpa»
 
 [VocTeoBib, «Hombre»] La antropología bíblica es inseparable de la teología y de la cristología: el hombre se define por su relación con Dios, cuya imagen es. Adán representa a la humanidad entera en su triple dimensión: relación con Dios, con la tierra y con los hermanos. Cristo, el «último Adán» (1Cor 15,45), es la imagen perfecta de Dios y el modelo al que el hombre nuevo debe conformarse. El hombre solo se comprende plenamente en Jesucristo, que «manifiesta plenamente el hombre al propio hombre» (GS 22).
 
+## Analizado en contexto cultural
+
+- [[consciousness_beyond_life_van_lommel]] — convergencia: la crítica al materialismo reduccionista y la insistencia en que el hombre es más que su cuerpo; tensión: la antropología del autor es funcionalmente dualista (conciencia + cuerpo-interfaz) en vez de hilemórfica (alma como forma del cuerpo)
+
 ## Ver también
 
 [[creación]], [[pecado_original]], [[jesucristo]], [[gracia_santificante]], [[matrimonio]], [[virgen_maría]], [[unión_alma-cuerpo]], [[alma]], [[cuerpo]], [[naturaleza_humana]]

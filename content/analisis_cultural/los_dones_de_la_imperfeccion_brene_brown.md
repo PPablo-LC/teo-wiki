@@ -131,7 +131,7 @@ Brown escribe desde un marco psicológico y cultural predominantemente secular, 
 
 **Convergencias o afinidades:** La descripción de Brown de los mecanismos de autodestrucción (perfeccionismo, cinismo, agotamiento, adicción) refleja la experiencia del pecado como ruptura de la armonía interior. Su insistencia en que estos mecanismos necesitan ser nombrados y compartidos para ser superados converge con la dinámica del sacramento de la reconciliación.
 
-**Tensiones o divergencias:** La diferencia fundamental es que Brown no reconoce la dimensión teológica del pecado: ofensa a Dios, ruptura de la alianza, necesidad de reparación y perdón divino. El «pecado» de Brown es un problema psicológico y relacional; el pecado cristiano es también un delito against Dios que requiere la intervención de la gracia. Esta omisión es la mayor limitación del marco browniano.
+**Tensiones o divergencias:** La diferencia fundamental es que Brown no reconoce la dimensión teológica del pecado: ofensa a Dios, ruptura de la alianza, necesidad de reparación y perdón divino. El «pecado» de Brown es un problema psicológico y relacional; el pecado cristiano es también un delito contra Dios que requiere la intervención de la gracia. Esta omisión es la mayor limitación del marco browniano.
 
 ## Valoración teológica
 
