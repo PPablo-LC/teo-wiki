@@ -48,6 +48,7 @@ Se relaciona con [[humildad]], [[debilidad]], [[confianza]], [[surrender_espirit
 ## Analizado en contexto cultural
 
 - [[caperucita_roja]] — vulnerabilidad de la niñez como condición de apertura al mal; ausencia de protección sobrenatural
+- [[los_dones_de_la_imperfeccion_brene_brown]] — convergencia: la vulnerabilidad como fortaleza, no debilidad; tensión: sin horizonte trascendente ni dimensión sobrenatural
 
 ## Ver también
 

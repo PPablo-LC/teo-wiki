@@ -330,6 +330,7 @@ Thomas O'Loughlin (2017) trata la Eucaristía como el caso paradigmático de lo 
 ## Analizado para
 
 - [[vive_el_misterio_2_encuentro_con_cristo]] — convergencia en la Eucaristía como lugar privilegiado del encuentro con Cristo vivo (EA §35) y culminación de la jornada; la propuesta desarrolla la dimensión eucarística del envío (los compromisos ofrecidos en la Misa).
+- [[the_search_serie_análisis]] — convergencia: la Eucaristía como presencia real y tangible; tensión: no desarrolla la transubstanciación ni la dimensión sacrificial
 
 ## Ver también
 - [[sacramentos]]

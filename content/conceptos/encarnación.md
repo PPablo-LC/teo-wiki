@@ -150,6 +150,7 @@ La Encarnación es el fundamento de la [[redención]], la causa de la [[gracia_s
 ## Analizado para
 
 - [[joe_mcinerny_humble_greatness]]
+- [[the_search_serie_análisis]] — convergencia: encarnación como evento único, Jesús afirma explícitamente ser Dios; tensión: no desarrolla la unión hipostática ni la Mariología
 
 ## Ver también
 [[redención]], [[unión_hipostática]], [[concepción_virginal]], [[maternidad_divina]], [[cuerpo_místico]], [[jesucristo]], [[jorge_loring]]

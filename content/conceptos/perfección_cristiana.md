@@ -104,6 +104,7 @@ La perfección cristiana es el fin de todo el [[organismo_sobrenatural]] y la pl
 - [[primeros_pasos_en_la_vida_espiritual]]
 - [[tim_barry_mortification_maketh_man]]
 - [[tim_barry_the_strength_of_meekness]]
+- [[los_dones_de_la_imperfeccion_brene_brown]] — convergencia: distinción entre perfeccionismo tóxico y aspiración legítima; tensión: la perfección de Brown es psicológica (sentirse bien), la cristiana es teológica (unión con Dios)
 
 ## Ver también
 [[naturaleza_de_la_mística]], [[perfección_y_mística]], [[gracia_santificante]], [[virtudes_infusas]], [[dones_del_espíritu_santo]], [[organismo_sobrenatural]]

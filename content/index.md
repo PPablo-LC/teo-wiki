@@ -3,7 +3,7 @@ tags:
   - meta
   - index
 title: Wiki Index
-updated: '2026-07-21'
+updated: '2026-07-22'
 note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts/regenerar-indice.py'
 ---
 
@@ -3528,6 +3528,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 
 ### T
 
+- [[the_search_serie_análisis]]
 - [[tim_barry_mortification_maketh_man]]
 - [[tim_barry_the_strength_of_meekness]]
 
@@ -3634,5 +3635,6 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[caperucita_roja]] — *Caperucita Roja* (Charles Perrault)
 - [[computer_power_and_human_reason]] — *Computer Power and Human Reason* (Joseph Weizenbaum (MIT, 1976))
 - [[la_biblia_del_ateo_joan_konner]] — *La bíblia del ateo (Joan Konner)* (Joan Konner (compiladora))
+- [[los_dones_de_la_imperfeccion_brene_brown]] — *Los dones de la imperfección* (Brené Brown)
 - [[morir-con-cero]] — *Morir con cero* (Bill Perkins)
 - [[pinocho]] — *Las aventuras de Pinocho* (Carlo Collodi)

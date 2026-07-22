@@ -61,6 +61,7 @@ León XIV presenta la gratitud como la actitud fundamental de la vida sacerdotal
 ## Analizado en contexto cultural
 
 - [[morir-con-cero]] — tensión: la gratitud está ausente como actitud fundamental; los bienes se presentan como fruto del propio esfuerzo, no como don que recibir agradecidamente
+- [[los_dones_de_la_imperfeccion_brene_brown]] — convergencia: gratitud como práctica deliberada opuesta a la mentalidad de escasez; tensión: sin orientación trascendente hacia Dios como Donante
 
 ## Referencias
 

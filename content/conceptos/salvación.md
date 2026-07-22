@@ -63,6 +63,10 @@ La salvación se relaciona con la [[redención]], la [[encarnación]], el [[mist
 
 [[redención]], [[encarnación]], [[pasión_de_cristo]], [[gracia_santificante]], [[fe]], [[iglesia]], [[salvación_integral]], [[vida_eterna]]
 
+## Analizado para
+
+- [[the_search_serie_análisis]] — convergencia: salvación como «historia de amor», presente y futura; tensión: formulación ambigua sobre justificación (¿sola fide o incluye obras y sacramentos?)
+
 ## Referencias
 
 - [CEC §456-460, §661-682, §816-819, §846-848, §1019-1065]

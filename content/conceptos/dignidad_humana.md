@@ -130,6 +130,8 @@ JPII desarrolla la relación entre la Encarnación y la dignidad humana en las c
 ## Analizado en contexto cultural
 
 - [[computer_power_and_human_reason]] — convergencia en la denuncia de la deshumanización tecnológica y la instrumentalización de la persona; el autor no apela a Dios ni a la gracia pero su ética secular coincide punto por punto con la doctrina de la dignidad intrínseca e inalienable del ser humano creado a imagen de Dios.
+- [[los_dones_de_la_imperfeccion_brene_brown]] — convergencia: la valía personal es inherente e incondicional; tensión: no fundamenta la dignidad en la creación divina sino en la investigación empírica
+- [[the_search_serie_análisis]] — convergencia: dignidad como fundamento de los derechos humanos; imagen de Dios como base de la racionalidad y la capacidad de amar
 
 ## Referencias
 

@@ -29,6 +29,10 @@ El c. 1247 establece que el domingo y las demás fiestas de precepto los fieles 
 
 El [[descanso]] dominical está íntimamente ligado al [[domingo]] como día del Señor, y se concreta en los [[días_de_precepto]] y el [[descanso_festivo]]. Se opone al trabajo excesivo y protege la dignidad del [[trabajo_humano]].
 
+## Analizado en contexto cultural
+
+- [[los_dones_de_la_imperfeccion_brene_brown]] — convergencia: el descanso como necesidad humana que se opone al agotamiento como símbolo de estatus; tensión: no vincula el descanso con el culto a Dios ni la dimensión litúrgica
+
 ## Ver también
 
 [[domingo]], [[días_de_precepto]], [[descanso_festivo]], [[trabajo_humano]], [[eucaristía]]

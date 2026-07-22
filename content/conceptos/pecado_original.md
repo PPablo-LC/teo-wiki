@@ -189,6 +189,7 @@ Miguel Bayo sostuvo errores sobre el pecado original condenados por Pío V (D‑
 ## Analizado en contexto cultural
 
 - [[caperucita_roja]] — vulnerabilidad de la niñez como expresión de la condición humana herida por el pecado original
+- [[the_search_serie_análisis]] — convergencia: la Caída como elección libre con consecuencias universales; tensión: no desarrolla la dimensión de mancha del pecado ni la necesidad de bautismo
 
 ## Ver también
 [[creación]], [[hombre]], [[redención]], [[bautismo]], [[gracia_santificante]], [[jesucristo]], [[ángeles]], [[jorge_loring]], [[soberbia]], [[tentación]]

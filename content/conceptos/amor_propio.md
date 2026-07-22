@@ -45,6 +45,10 @@ Las purificaciones pasivas son necesarias para vencer completamente el egoísmo 
 
 El amor propio se opone a la [[humildad]] y a la [[caridad]]. Es fuente de la [[soberbia]], la [[vanidad]] y todo pecado. Se purifica mediante la [[mortificación]], las [[purificaciones_pasivas]] y la [[noche_oscura]].
 
+## Analizado en contexto cultural
+
+- [[los_dones_de_la_imperfeccion_brene_brown]] — convergencia: el amor propio como condición para amar a otros; tensión: no distingue entre amor propio ordenado y desordenado
+
 ## Ver también
 
 [[humildad]], [[soberbia]], [[mortificación]], [[purificaciones_pasivas]], [[noche_oscura]], [[conversión]]

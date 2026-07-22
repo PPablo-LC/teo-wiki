@@ -109,6 +109,10 @@ Ver artículo principal: [[iglesia_cuerpo_místico]]
 
 [[iglesia_cuerpo_místico]], [[magisterio_de_la_iglesia]], [[configuración_con_cristo]], [[jorge_loring]]
 
+## Analizado para
+
+- [[the_search_serie_análisis]] — convergencia: Iglesia como comunidad, barca de Pedro, legado civilizatorio; tensión: eclesiología más comunitaria que institucional, ausencia de Mariología y purgatorio
+
 ## Referencias
 
 - CEC §748-975

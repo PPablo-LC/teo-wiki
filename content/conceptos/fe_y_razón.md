@@ -79,6 +79,7 @@ La relación entre fe y razón es fundamental para la [[teología_fundamental]],
 ## Analizado en contexto cultural
 
 - [[la_biblia_del_ateo_joan_konner]] — tensión: la obra presenta fe y razón como opuestas, cuando la doctrina católica las enseña como complementarias (*Fides et Ratio*)
+- [[the_search_serie_análisis]] — convergencia: presentación del observatorio Vaticano, Lemaitre, Copérnico y Mendel como evidencia de la complementariedad fe-ciencia; cita textual de Juan Pablo II sobre «fe y razón como dos alas»
 
 ## Ver también
 [[fe_católica]], [[revelación_pública]], [[teología]], [[razón_natural]], [[preámbulos_de_la_fe]], [[analogía_de_la_fe]]

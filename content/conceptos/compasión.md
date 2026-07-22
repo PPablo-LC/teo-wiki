@@ -37,6 +37,10 @@ La Nota doctrinal sobre la relación entre emociones y fe (2025), en su sección
 
 Se relaciona con [[misericordia]], [[rahamim]], [[encarnación]], [[caridad]], [[virgen_maría]], [[compasión_de_maría]], [[dolor_de_maría]], [[esperanza]], [[buen_samaritano]]
 
+## Analizado en contexto cultural
+
+- [[los_dones_de_la_imperfeccion_brene_brown]] — convergencia: compasión como «sufrir con» entre iguales, con límites; tensión: no es virtud teologal infusa sino capacidad humana cultivable
+
 ## Ver también
 
 [[misericordia]], [[rahamim]], [[encarnación]], [[caridad]], [[esperanza]]

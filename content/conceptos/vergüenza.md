@@ -55,6 +55,10 @@ El hombre se avergüenza más ante las personas allegadas, cuyo testimonio valor
 
 Se relaciona con [[pecado_original]], [[arrepentimiento]], [[confesión_de_fe]], [[gloria_de_dios]], [[juicio_final]], [[esperanza]].
 
+## Analizado en contexto cultural
+
+- [[los_dones_de_la_imperfeccion_brene_brown]] — convergencia: la vergüenza como miedo a no ser dignos de amor; tensión: no reconoce la dimensión teológica del pecado ni la vergüenza como posible inicio de conversión
+
 ## Ver también
 
 [[pecado_original]], [[arrepentimiento]], [[confesión_de_fe]], [[juicio_final]], [[esperanza]]
