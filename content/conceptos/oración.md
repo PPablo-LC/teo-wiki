@@ -136,6 +136,7 @@ Se relaciona con la [[vida_de_oración]], los [[grados_de_oración]], la [[medit
 - [[jeff_lacour_true_freedom_through_prayer]]
 - [[primeros_pasos_en_la_vida_espiritual]]
 - [[tim_barry_mortification_maketh_man]]
+- [[curso_alpha_análisis]] — convergencia: oración como diálogo relacional, semáforo de respuestas, Romanos 8:26; tensión: ausencia de oración litúrgica, rosario, intercesión de los santos
 
 ## Analizado en contexto cultural
 

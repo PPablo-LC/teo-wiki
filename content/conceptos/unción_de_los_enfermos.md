@@ -62,6 +62,7 @@ Juan Pablo II presenta la Unción de Enfermos como sacramento que «sana cuerpo 
 ## Analizado para
 
 - [[jeff_lacour_true_freedom_through_prayer]]
+- [[curso_alpha_análisis]] — tensión: Alpha presenta sanación como carisma pentecostal, sin mencionar el sacramento de la Unción de los Enfermos
 
 ## Ver también
 [[penitencia]], [[sacramentos]], [[eucaristía]]

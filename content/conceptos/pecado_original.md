@@ -176,6 +176,7 @@ Miguel Bayo sostuvo errores sobre el pecado original condenados por Pío V (D‑
 - [[jeff_lacour_true_freedom_through_prayer]]
 - [[sean_glass_call_to_fortitude]]
 - [[tim_barry_mortification_maketh_man]]
+- [[curso_alpha_análisis]] — convergencia: presentación del pecado como condición que crea barrera, autosustitución divina; tensión: ausencia de sacramento de reconciliación
 
 
 - [CEC §385-421]

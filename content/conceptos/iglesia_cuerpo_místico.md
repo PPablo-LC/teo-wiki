@@ -78,6 +78,10 @@ Tomás compara la relación entre el Espíritu Santo y Cristo con la del corazó
 
 La Iglesia es la familia de Dios donde se realiza la [[configuración_con_cristo]], se recibe la [[gracia_santificante]] por los sacramentos y se alcanza la [[perfección_cristiana]]. La [[virgen_maría]] es Madre de la Iglesia y modelo de los miembros del Cuerpo Místico. La [[inhabitación_trinitaria]] en el alma tiene su plenitud eclesial en la inhabitación del Espíritu Santo en la Iglesia.
 
+## Analizado para
+
+- [[curso_alpha_análisis]] — convergencia: presentación de la iglesia como cuerpo de Cristo y novia; tensión: omisión de la dimensión visible, jerárquica y sacramental
+
 ## Ver también
 
 [[configuración_con_cristo]], [[perfección_cristiana]], [[gracia_santificante]], [[virgen_maría]], [[iglesia]], [[unigenitus]]

@@ -66,6 +66,7 @@ La salvación se relaciona con la [[redención]], la [[encarnación]], el [[mist
 ## Analizado para
 
 - [[the_search_serie_análisis]] — convergencia: salvación como «historia de amor», presente y futura; tensión: formulación ambigua sobre justificación (¿sola fide o incluye obras y sacramentos?)
+- [[curso_alpha_análisis]] — tensión: presentada como relación personal directa, sin mediación sacramental ni eclesial
 
 ## Referencias
 

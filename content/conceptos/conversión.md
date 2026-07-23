@@ -148,6 +148,7 @@ El sacramento de la Reconciliación es el lugar sacramental donde la conversión
 ## Analizado para
 
 - [[vive_el_misterio_2_encuentro_con_cristo]] — convergencia en la *metanoia* como cambio de mentalidad (EA §26) que vincula el encuentro con Cristo (Bloque 1) con las convicciones (Bloque 2); la propuesta aplica la conversión permanente a la vocación del educador.
+- [[curso_alpha_análisis]] — convergencia: presentación de la conversión como encuentro personal transformador; tensión: sin conexión con la vida sacramental
 
 ## Referencias
 

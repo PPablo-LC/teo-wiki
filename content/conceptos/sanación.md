@@ -42,6 +42,7 @@ Se relaciona con [[milagro]], [[sanación_interior]], [[liberación]], [[miseric
 ## Analizado para
 
 - [[clarkson_gospels_human_suffering]] — convergencia en el ministerio de sanación de Jesús como signo de su identidad mesiánica; aporta el paralelo de Aragorn como rey escondido que se revela sanando, y la sanación integral (física, espiritual, relacional) como restauración de la persona
+- [[curso_alpha_análisis]] — convergencia: presentación de la sanación como don de Dios; tensión: en clave pentecostal (Wimber), sin conexión con Unción de Enfermos
 
 ## Ver también
 

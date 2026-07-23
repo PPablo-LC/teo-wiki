@@ -3,7 +3,7 @@ tags:
   - meta
   - index
 title: Wiki Index
-updated: '2026-07-22'
+updated: '2026-07-23'
 note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts/regenerar-indice.py'
 ---
 
@@ -3493,6 +3493,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[christian_bobak_men_of_integrity]]
 - [[clarkson_gospels_human_suffering]]
 - [[closing_keynote_virtuous_leader]]
+- [[curso_alpha_análisis]]
 
 ### F
 

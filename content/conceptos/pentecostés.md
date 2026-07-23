@@ -57,6 +57,10 @@ JPII denomina a Pentecostés «Galilea de las naciones», subrayando que allí n
 
 [[espíritu_santo]], [[confirmación]], [[iglesia_cuerpo_místico]], [[dones_del_espíritu_santo]], [[apostolado]]
 
+## Analizado para
+
+- [[curso_alpha_análisis]] — convergencia: narración bíblicamente fiel de Pentecostés como cumplimiento de Joel 2:28-29; tensión: omisión de la conexión con el sacramento de la Confirmación
+
 ## Referencias
 
 - CEC §731-732

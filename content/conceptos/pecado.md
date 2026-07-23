@@ -123,6 +123,10 @@ Las causas principales que incitan al pecado son tres: el mundo con sus criterio
 
 [[gracia_santificante]], [[virtud_infusa]], [[pecado_mortal]], [[pecado_venial]], [[imperfección]], [[purificación_activa]]
 
+## Analizado para
+
+- [[curso_alpha_análisis]] — convergencia: presentación de las tácticas del mal y la triple alianza; tensión: no menciona la doctrina de los ángeles caídos como desarrollo teológico
+
 ## Ver también
 
 [[concupiscencia]], [[tentación]], [[mundo]], [[demonio]], [[carne]], [[jorge_loring]]

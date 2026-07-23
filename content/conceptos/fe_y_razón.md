@@ -75,6 +75,7 @@ La relación entre fe y razón es fundamental para la [[teología_fundamental]],
 
 - [[joey_stevens_grit_perseverance]]
 - [[kevin_mulaney_prudence_decisions]]
+- [[curso_alpha_análisis]] — convergencia: presentación de la fe como «paso razonable basado en evidencia», científicos creyentes (Newton, Kepler, Collins), trilema de C.S. Lewis como herramienta apoloética
 
 ## Analizado en contexto cultural
 

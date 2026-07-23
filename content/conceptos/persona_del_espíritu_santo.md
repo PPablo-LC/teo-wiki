@@ -42,6 +42,10 @@ El Espíritu Santo se relaciona con el [[dios_padre]] como amor espirado conjunt
 
 [[santísima_trinidad]], [[persona_del_padre]], [[persona_del_hijo]], [[dones_del_espíritu_santo]], [[pentecostés]], [[inhabitación_trinitaria]], [[iglesia]]
 
+## Analizado para
+
+- [[curso_alpha_análisis]] — convergencia: presentación del Espíritu Santo como persona con intelecto, voluntad y afectos (CEC §683-686); tensión: omisión de la conexión con sacramentos y dones infusos tomistas
+
 ## Referencias
 
 - [CEC §§683-747]

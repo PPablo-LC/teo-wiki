@@ -56,6 +56,7 @@ Cada don del Espíritu Santo produce frutos propios. Al don de entendimiento cor
 - [[closing_keynote_virtuous_leader]]
 - [[john_wissler_virtuous_leadership]]
 - [[tim_barry_the_strength_of_meekness]]
+- [[curso_alpha_análisis]] — convergencia: enumeración del fruto del Espíritu (Gálatas 5:22-23) como evidencia de transformación interior
 
 ## Referencias
 - CEC §1832

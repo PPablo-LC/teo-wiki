@@ -242,6 +242,7 @@ Todo bautizado tiene derecho y obligación a participar plenamente en la liturgi
 
 - [[primeros_pasos_en_la_vida_espiritual]]
 - [[alexander_marriage_gospels]] — convergencia en el bautismo como sacramento de iniciación; aporta la conexión entre el agua convertida en vino en Caná y el agua del costado de Cristo como prefiguración del bautismo y la eucaristía
+- [[curso_alpha_análisis]] — convergencia: mención del bautismo como marca de membresía; tensión: presentado como símbolo, no como sacramento que confiere gracia real
 
 ## Ver también
 - [[sacramentos]]

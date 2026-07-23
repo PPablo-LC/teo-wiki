@@ -81,6 +81,10 @@ La inspiración bíblica es el fundamento de la autoridad de la [[sagrada_escrit
 
 [[sagrada_escritura]], [[palabra_de_dios]], [[verdad_revelada]], [[espíritu_santo]], [[revelación]], [[evangelio]], [[depósito_de_la_fe]], [[tradición_apostólica]]
 
+## Analizado para
+
+- [[curso_alpha_análisis]] — convergencia: presentación de la Escritura como «exhalada por Dios» (*theopneustos*), 100% humana y 100% divina; tensión: omisión del Magisterio como intérprete autorizado, implícito de *sola Scriptura*
+
 ## Referencias
 
 - [CEC §105-108, §135-136]

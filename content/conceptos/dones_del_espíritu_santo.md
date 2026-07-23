@@ -83,6 +83,10 @@ Los dones más íntimos (sabiduría y entendimiento) producen el conocimiento ex
 
 Los dones del Espíritu Santo son la clave de la [[naturaleza_de_la_mística]] (actuación sobrehumana de los dones), el perfeccionamiento de las [[virtudes_infusas]], parte esencial del [[organismo_sobrenatural]] junto con la [[gracia_santificante]], y el instrumento principal para alcanzar la [[perfección_cristiana]]. La actuación de los dones se intensifica en las [[gracias_actuales]].
 
+## Analizado para
+
+- [[curso_alpha_análisis]] — convergencia: enumeración de dones carismáticos (1 Corintios 12:4-11); tensión: ausencia de la distinción tomista entre dones infusos y carismas
+
 ## Ver también
 
 [[naturaleza_de_la_mística]], [[virtudes_infusas]], [[organismo_sobrenatural]], [[perfección_cristiana]], [[gracias_actuales]]
