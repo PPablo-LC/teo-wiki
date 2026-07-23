@@ -1071,6 +1071,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[genuflexion]]
 - [[gestos_liturgicos]]
 - [[gestos_y_posturas]]
+- [[getsemaní]]
 - [[giróvagos]]
 - [[globalización]]
 - [[gloria]]
@@ -2044,6 +2045,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[procesión]]
 - [[procesión_del_espíritu_santo]]
 - [[proceso_canónico]]
+- [[proceso_de_jesús]]
 - [[proceso_matrimonial]]
 - [[proceso_penal_canónico]]
 - [[procreación]]
@@ -2728,6 +2730,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 
 - [[yahvé]]
 - [[yo_soy]]
+- [[yom_kippur]]
 
 ### Á
 

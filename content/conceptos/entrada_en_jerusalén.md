@@ -25,6 +25,10 @@ Jesús entra en Jerusalén acompañado por la multitud que lo aclama como Mesía
 
 La Vida de Jesús (VJ) narra la entrada solemne de Jesús en Jerusalén (Cap. IV). Jesús permite su exaltación, entrando montado en un borriquillo para cumplir la profecía: «Mira que viene a ti tu rey, justo y salvador, humilde». La multitud aclama: «¡Hosanna! ¡Bendito el que viene en nombre del Señor!». Es la primera vez que Jesús permite ser aclamado como rey, a diferencia de cuando multiplicó los panes y se ocultó. La entrada en Jerusalén constituye un paso decisivo hacia la muerte que le preparan los ancianos de Israel. Jesús es plenamente consciente: sabe que va al encuentro de la muerte y no recibirá una corona real sino una corona de espinas. A los fariseos que le piden que haga callar a la multitud, Jesús responde: «Si estos callan, gritarán las piedras». Es el cumplimiento de las Escrituras.
 
+### Según Jesús de Nazaret II (JdN_II)
+
+Benedicto XVI profundiza en el sentido teológico de la entrada mesiánica, mostrando que Jesús reivindica de hecho un derecho regio al requisar el borrico (cf. Gn 49,10-11) y entrar montado en un pollino sobre el que nadie ha montado, cumpliendo Zacarías 9,9: «Mira a tu rey, que viene a ti humilde, montado en un asno». Esta entrada excluye una interpretación «zelote»: Jesús no se apoya en la violencia, sino en la pobreza de Dios y la paz de Dios como único poder salvador. Los discípulos echan sus mantos sobre el borrico —gesto de entronización en la tradición davídica (cf. 1 Re 1,33-34)— y los peregrinos alfombran el camino con ramos, proclamando palabras del Salmo 118 como aclamación mesiánica. La ciudad se «alborota» (Mt 21,10), como en la época de los Magos (Mt 2,3). La entrada no es solo un episodio pasado: la Iglesia naciente vio en ella una anticipación litúrgica, saludando al Señor en la Sagrada Eucaristía como el que ahora viene y el que ha de venir, incorporando a los fieles a su «subida» hacia la cruz y la resurrección.
+
 ## Distinciones importantes
 
 - Entrada humilde (borriquillo) vs. entrada triunfal esperada por el pueblo
