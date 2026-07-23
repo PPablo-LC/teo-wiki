@@ -25,13 +25,15 @@ La prevención incluye: formación de todos los miembros en detección de abusos
 
 ### Según el II Informe Anual (VJyS-II)
 
-El II Informe Anual (2022) documenta los avances en acreditación de ambientes seguros:
+El II Informe Anual (2022) documenta los avances en acreditación de ambientes seguros [VJyS-II, avances n. E]:
 
-**Acreditaciones Praesidium:** Estándares acreditados en EE.UU., España, México, Centroamérica, Chile, Colombia-Venezuela. El compromiso para 2022 es concluir las acreditaciones pendientes.
+**Acreditación Praesidium por territorios.** Antes de 2021, ya habían sido acreditados Estados Unidos (2017) y España (2018), que en 2021 están en proceso de reacreditación. En 2021 han recibido su acreditación los territorios de México y Centroamérica, Norte de México, Chile y Colombia-Venezuela. Los territorios de Italia y Brasil están realizando los preparativos para comenzar su acreditación. En el caso de Europa occidental y central, la Congregación hace propias las medidas de prevención e intervención emanadas por las autoridades civiles y eclesiales y se somete a los compromisos y mecanismos de revisión correspondientes; se está estudiando la conveniencia de buscar además una acreditación por parte de Praesidium [VJyS-II, avances n. E].
 
-**Compromisos 2022:** El 5º compromiso es «concluir acreditaciones Praesidium en territorios pendientes». El 6º compromiso es «ampliar colaboración externa» con consulta a sobrevivientes para mejora continua.
+**Profesionalización del área.** Cada territorio cuenta con un coordinador de ambientes seguros especializado y en formación permanente. En octubre de 2021 se tuvo un encuentro internacional de coordinadores donde los temas principales fueron la escucha, acogida y acompañamiento a víctimas, los pasos en el camino del cambio cultural para la prevención, la legislación canónica vigente y las medidas establecidas por el papa Francisco para abordar a nivel global la cultura de cero abusos [VJyS-II, avances n. E].
 
-**Línea de tiempo:** La política de ambientes seguros fue impulsada por el P. Eduardo Robles-Gil (ex-director general) y consolidada en el CG 2020.
+**Compromisos 2022.** El 5º compromiso es «concluir acreditaciones Praesidium en territorios pendientes». El 6º compromiso es «ampliar colaboración externa» con consulta a sobrevivientes para mejora continua [VJyS-II, compromisos 2022 n. 5-6].
+
+**Línea de tiempo.** La política de ambientes seguros fue impulsada por el P. Eduardo Robles-Gil (ex-director general) y consolidada en el CG 2020 [VJyS-II, línea de tiempo].
 
 ### Según el Capítulo General CRPS-2020
 
@@ -59,7 +61,8 @@ Los estándares Praesidium incluyen: políticas de selección; formación contin
 
 ## Referencias
 
-- [VJyS-II, 04_avances_compromisos.md, punto E — Acreditación de ambientes seguros]
-- [VJyS-II, 05_compromisos_2022.md, punto 5 — Concluir acreditaciones]
+- [VJyS-II, Avances n. E — Acreditación de ambientes seguros: territorios, profesionalización, encuentro internacional]
+- [VJyS-II, Compromisos 2022 n. 5-6 — Concluir acreditaciones, ampliar colaboración externa]
+- [VJyS-II, Línea de tiempo — evolución de la política de ambientes seguros]
 - [CRPS-2020, PS — Proteger y Sanar, principios y normas]
 - [Estándares de Ambientes Seguros de la Legión de Cristo]

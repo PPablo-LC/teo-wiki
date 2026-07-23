@@ -57,6 +57,31 @@ El Capítulo pide sinceramente perdón y renueva su compromiso de aprender de es
 
 **Procesos justos.** El documento mantiene intactos sus principios fundamentales: prevención, acogida a las víctimas y búsqueda de la justicia para todos, incorporando las garantías procesales y el respeto debido a la dignidad de todas las personas implicadas [CapGral-2026, n. 143].
 
+### Según el Informe de Abusos del Capítulo General (LC-InfAbusos-2020)
+
+**Contenido completo del documento.** El archivo `04_04_proteger_y_sanar_contenido.md` de LC-InfAbusos-2020 contiene el texto íntegro del documento «Proteger y sanar», con 60 números distribuidos en dos partes y una conclusión [LC-InfAbusos-2020, PS].
+
+**Principio rector: interés superior del menor.** El documento establece que «en los últimos años, la Iglesia y la sociedad han venido adquiriendo una renovada conciencia de la altísima responsabilidad de proteger a la infancia y a la adolescencia, a partir del principio del "interés superior del menor" que debe regir las actuaciones que tengan como destinatarios a esta porción del Pueblo de Dios y de la sociedad» [LC-InfAbusos-2020, PS intro 1].
+
+**Seis áreas de acción (Parte 1).** El documento estructura los principios y protocolos en seis bloques [LC-InfAbusos-2020, PS Parte 1]:
+- **A) Sanación y reconciliación** (PS 3-11): compromiso de acoger, escuchar y financiar terapias; investigación de casos del pasado; capacitación de superiores en acompañamiento; prohibición de imponer cláusulas de confidencialidad.
+- **B) Protección y ambientes seguros** (PS 12-16): códigos de conducta obligatorios, estándares actualizados permanentemente, evaluación de antecedentes de candidatos, revisión de idoneidad antes de destinar a instituciones con menores.
+- **C) Respuesta rápida** (PS 17-21): plan de respuesta integral, denuncia a autoridades civiles, comité de revisión con mayoría de externos, certificación independiente de estándares.
+- **D) Justicia y derechos** (PS 22-26): tribunal eclesiástico propio, presunción de inocencia, asesoría legal al acusado, restauración del buen nombre si la acusación resulta infundada.
+- **E) Comunicación y transparencia** (PS 27-29): publicación de casos probados, informes regulares, líneas guía para comunicación pública.
+- **F) Apoyo a Iglesia y sociedad** (PS 30-31): centros interdisciplinares de estudio, equipos de atención a víctimas.
+
+**Normas sustanciales y procesales (Parte 2).** El documento establece [LC-InfAbusos-2020, PS Parte 2]:
+- Encargados de ambientes seguros en cada territorio e institución (PS 32-35)
+- Investigación previa obligatoria con plazo máximo de 90 días (PS 36-45)
+- Archivo de toda información sobre denuncias (PS 46)
+- Medidas y sanciones: expulsión del estado clerical para abuso múltiple o reiterado; exclusión de casas de formación; plan de seguridad personal con restricciones (PS 47-59)
+- Pérdida de voz pasiva en Capítulo General y asambleas territoriales para los condenados (PS 57)
+
+**Armonización con el derecho universal.** El documento se fundamenta en el Código de Derecho Canónico (cánones 1427, 1438, 1717, 1718, 1722, 1389, 695), el Motu Proprio *Vos estis lux mundi* (2019) y la Instrucción sobre confidencialidad (diciembre 2019) [LC-InfAbusos-2020, PS intro 1, passim].
+
+**Clausula final.** El documento concluye con la cita de Rm 12, 21: «No te dejes vencer por el mal; antes bien, vence al mal con el bien», reafirmando el compromiso de la Congregación de asegurar ambientes seguros y salir al encuentro de las víctimas [LC-InfAbusos-2020, PS conclusión].
+
 ### Según la Antología del Delegado Pontificio (AntDp-2015)
 
 El Card. De Paolis, en su primera carta a los legionarios (10 de julio de 2010, AntDp-2015, `03_primera_parte.md:144-184`), subraya que la atención a las víctimas debe ser una prioridad del proceso de renovación. Anuncia que «la atención a las personas que han solicitado alguna acción por parte de la LC a causa de hechos que guardan relación directa o indirecta con el P. Maciel» será abordada mediante una comisión específica.
