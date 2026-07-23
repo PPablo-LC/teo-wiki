@@ -27,6 +27,14 @@ La compasión cristiana no es mera emoción. Es una virtud que dispone a la acci
 
 La Nota doctrinal sobre la relación entre emociones y fe (2025), en su sección sobre el NT, señala que el Verbo encarnado asume plenamente los sentimientos humanos, entre ellos la compasión, como expresión de su solidaridad con la condición humana.
 
+### Según Benedicto XVI (JdN_I)
+
+Benedicto XVI analiza la compasión en el contexto de la parábola del buen samaritano (JdN_I, Cap. 2). El Evangelio utiliza una palabra que en hebreo designa originalmente el seno materno y la dedicación materna: «Se le conmovieron las *entrañas*», en lo profundo del alma. «"Le dio lástima", traducimos hoy en día, suavizando la vivacidad original del texto» (JdN_I).
+
+La compasión no es un cálculo de obligaciones, sino un «rayo de compasión que le llegó al alma»: «En virtud de ese rayo de compasión, él mismo se convirtió en prójimo, por encima de cualquier consideración o peligro» (JdN_I). Esta compasión es la que transforma al samaritano —el forastero que no tenía obligación de ayudar— en quien cumple verdaderamente el mandamiento de amor.
+
+En la parábola del hijo pródigo, la compasión del padre se expresa con la misma imagen: «Se me revuelve el corazón, se me conmueven las entrañas» (Os 11,8, cit. en JdN_I). Dios tiene un corazón que se revuelve «por así decirlo, contra sí mismo»: «el corazón de Dios transforma la ira y cambia el castigo por el perdón» (JdN_I). Esta compasión divina es el modelo de la compasión cristiana.
+
 ## Distinciones importantes
 
 - **Compasión natural vs. sobrenatural**: la primera es humana y natural; la segunda es informada por la fe y la caridad

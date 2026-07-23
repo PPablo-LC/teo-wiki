@@ -43,6 +43,20 @@ La Vida de Jesús (VJ) dedica una extensa meditación a la parábola del hijo pr
 - Adam Farber (justice.md) presenta la parabola como caso de estudio de la comunicacion divina: tres personajes, dos modos de hablar (descriptivo y directivo). La lectura retorica enriquece la comprension de la parabola en clave pedagogica.
 - Adam Farber (fortitude_through_excellence_in_patience.md) aplica la parabola a la virtud de la paciencia: el Padre que espera paciente, respeta el libre albedrio y sale al encuentro del hijo arrepentido.
 
+### Según Benedicto XVI (JdN_I)
+
+Benedicto XVI analiza la parábola del hijo pródigo / de los dos hermanos (Lc 15,11-32) en el capítulo 3 de *Jesús de Nazaret I*, proponiendo que el título más acertado sería «parábola de los dos hermanos», dado el contexto: los publícanos y pecadores (hijo menor) y los fariseos y letrados (hijo mayor) (JdN_I).
+
+**El hijo pródigo y la libertad.** El hijo derrocha su herencia buscando la «libertad radical», «sin ninguna exigencia». La palabra griega para designar la herencia derrochada significa «sustancia» (*ousía*): «el hijo perdido desperdicia su *naturaleza*, se desperdicia a sí mismo» (JdN_I). Al final, el que era totalmente libre se convierte en siervo de cerdos —imagen de la «máxima alienación» para un judío—. «Una falsa autonomía conduce a la esclavitud»: el hombre que entiende la libertad como puro arbitrio vive en la mentira, pues su naturaleza forma parte de una reciprocidad.
+
+**La conversión como retorno a sí mismo.** «Entonces recapacitó» (Lc 15,17): el hijo se da cuenta de que estaba perdido y que en su casa era más libre que los esclavos. Los Padres de la Iglesia interpretaron que, viviendo lejos de casa, «se había alejado también de sí mismo»; su conversión consiste en reconocer esta alienación y volver hacia la verdad de su existencia. Las palabras que prepara para llegar a casa expresan una «existencia en camino que ahora, a través de todos los desiertos, vuelve a casa, a sí mismo y al padre» (JdN_I).
+
+**La magnanimidad del padre.** El padre ve al hijo «cuando todavía estaba lejos», sale a su encuentro, lo abraza y lo besa, sin dejarle terminar su confesión. Para los Padres, «el mejor traje» que manda traer es el vestido de la gracia que el hombre tenía originalmente y perdió con el pecado. La fiesta con «sinfonías y coros» es imagen de la Eucaristía festiva. La imagen del padre proviene de Oseas (11,1-9): «Se me revuelve el corazón, se me conmueven las entrañas. No cederé al ardor de mi cólera… que soy Dios y no hombre» (JdN_I).
+
+**Cristología implícita.** ¿Dónde está Jesucristo en la parábola, si solo aparece el Padre? Agustín dijo: «El brazo del Padre es el Hijo». Grelot, más conforme al texto, señala que Jesús, con su actitud de acogida a los pecadores, «se convierte en revelación viviente de quien Él llamaba su Padre». La parábola tiene una «cristología implícita»: «Jesús justifica en esta parábola su comportamiento remitiéndolo al del Padre, identificándolo con Él» (JdN_I).
+
+**El hermano mayor.** El hermano mayor no comprende la gracia: su obediencia tiene un «rescoldo interior de amargura» y una envidia solapada de la libertad del otro. «Hijo, tú estás siempre conmigo, y todo lo mío es tuyo» (Lc 15,31) — las mismas palabras de la oración sacerdotal (Jn 17,10). Los Padres vieron aquí la relación entre Israel y los paganos, pero también el peligro de los piadosos que conocen a Dios como Ley pero no como amor. «Han de convertirse del Dios-Ley al Dios más grande, al Dios del amor» (JdN_I).
+
 ## Distinciones importantes
 
 - Parabola del hijo prodigo vs parabola de la oveja perdida y la dracma perdida (Lc 15)

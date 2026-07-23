@@ -57,6 +57,14 @@ Se relaciona con [[jesucristo]], [[redentor]], [[sufrimiento_vicario]], [[expiac
 
 - [[kathy_washeck_docility]]
 
+### Según Benedicto XVI (JdN_I)
+
+Benedicto XVI analiza la identificación de Jesús con el Siervo de Yahvé en el contexto del título «Hijo del hombre». En el tercer anuncio de la pasión, las palabras de Jesús sobre el servir y el mandar culminan en la frase: «Porque el Hijo del hombre no ha venido para que le sirvan, sino para servir y dar su vida en rescate por todos» (Mc 10, 45). Con esta citación de una palabra tomada de los cantos del Siervo de Dios sufriente (cf. Is 53), «aparece en la imagen del Hijo del hombre otro filón de la tradición del Antiguo Testamento» (JdN_I, 6.1).
+
+Benedicto XVI subraya que «la exégesis más antigua ha considerado que lo realmente novedoso y especial de la idea que Jesús tenía del Hijo del hombre, más aún, la base de su autoconciencia, es la fusión de la visión de Daniel sobre el "hijo del hombre" que ha de venir con las imágenes del "siervo de Dios" que sufre transmitidas por Isaías. Y esto con toda la razón» (JdN_I, 6.1).
+
+Jesús se ve a sí mismo como el que está sentado «a la derecha de Dios» (Sal 110), como el futuro rey y sacerdote, pero al mismo tiempo se identifica con el siervo de Dios que padece y muere. «El servir es la verdadera forma de reinar y nos deja presentir algo de cómo Dios es Señor, del "reinado de Dios". En la pasión y en la muerte, la vida del Hijo del hombre se convierte también en "pro-existencia" (existir para los demás); se convierte en liberador y salvador para "todos": no sólo para los hijos de Israel dispersos, sino para todos los hijos de Dios dispersos» (JdN_I, 6.1).
+
 ## Ver también
 [[jesucristo]], [[redentor]], [[expiación]], [[misterio_pascual]], [[isaías]], [[cordero_de_dios]]
 
@@ -64,3 +72,4 @@ Se relaciona con [[jesucristo]], [[redentor]], [[sufrimiento_vicario]], [[expiac
 
 - VocTeoBib, artículo «Siervo de Yahvé», Xavier León-Dufour (ed.)
 - Is 42,1-9; 49,1-6; 50,4-11; 52,13-53,12; Hch 8,26-40; 1 Pe 2,21-25
+- Benedicto XVI, Jesús de Nazaret I, 6.1

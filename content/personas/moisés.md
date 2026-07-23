@@ -50,6 +50,16 @@ Moisés se relaciona con la [[ley_mosaica]], el [[decálogo]], la [[antigua_alia
 
 - [[alan_baker_perseverance]]
 
+### Según Benedicto XVI (JdN_I)
+
+Benedicto XVI presenta a Moisés como figura central en la transfiguración de Jesús. La relación entre ambos se establece sobre el fondo de Éxodo 24, la subida de Moisés al monte Sinaí, que constituye «una clave esencial para la interpretación del acontecimiento de la transfiguración» (JdN_I, 5.2). En Éxodo 24, 16 se dice: «La nube lo cubría y la gloria del Señor descansaba sobre el monte Sinaí y la nube lo cubrió durante seis días. Al séptimo día llamó a Moisés desde la nube».
+
+En la transfiguración, Moisés aparece junto a Elías hablando con Jesús transfigurado. «Lo que el Resucitado explicará a los discípulos en el camino hacia Emaús es aquí una aparición visible. La Ley y los Profetas hablan con Jesús, hablan de Jesús» (JdN_I, 5.2). Solo Lucas especifica el tema de su conversación: «Hablaban de su muerte, que iba a consumar en Jerusalén» (Lc 9, 31). La cruz de Jesús es éxodo, un salir de esta vida, un atravesar el «mar Rojo» de la pasión.
+
+Benedicto XVI subraya la diferencia fundamental entre la radiación de Moisés y la de Jesús: «Cuando Moisés bajó del monte Sinaí no sabía que tenía radiante la piel de la cara, de haber hablado con el Señor» (Ex 34, 29). Al hablar con Dios, su luz resplandece en él, pero es «una luz que le llega desde fuera». Por el contrario, «Jesús resplandece desde el interior, no sólo recibe la luz, sino que Él mismo es Luz de Luz» (JdN_I, 5.2).
+
+Moisés y Elías se convierten así en «figuras y testimonios de la pasión». Con el Transfigurado hablan de lo que han dicho en la tierra, de la pasión de Jesús; pero «mientras hablan de ello con el Transfigurado aparece evidente que esta pasión trae la salvación; que está impregnada de la gloria de Dios, que la pasión se transforma en luz, en libertad y alegría» (JdN_I, 5.2).
+
 ## Ver también
 [[ley_mosaica]], [[decálogo]], [[antigua_alianza]], [[éxodo]], [[nuevo_adán]], [[cristo]], [[profecía]], [[historia_de_la_salvación]]
 
@@ -57,3 +67,4 @@ Moisés se relaciona con la [[ley_mosaica]], el [[decálogo]], la [[antigua_alia
 
 - [CEC §61, 62, 1962, 2057, 2067, 2574-2577, 707-709]
 - [TPCr, Primera Parte, Cap. I (La Ley antigua y su función pedagógica)]
+- Benedicto XVI, Jesús de Nazaret I, 5.2

@@ -44,6 +44,14 @@ El **paladín de Dios y de los oprimidos**: «Estoy lleno de ardiente celo por Y
 
 [[profeta]], [[moisés]], [[juan_bautista]], [[ascensión_de_cristo]], [[transfiguración]], [[celo]], [[desierto]], [[oración]]
 
+### Según Benedicto XVI (JdN_I)
+
+Benedicto XVI presenta a Elías como testigo de Dios junto a Moisés en la transfiguración. «Moisés y Elías recibieron en el monte la revelación de Dios; ahora están en coloquio con Aquel que es la revelación de Dios en persona» (JdN_I, 5.2). La presencia de Elías junto a Moisés junto a Jesús transfigurado muestra que «tanto Moisés como los Profetas hablan todos de Jesús».
+
+El tema de la conversación entre Elías, Moisés y Jesús es la cruz: «Hablaban de su muerte, que iba a consumar en Jerusalén» (Lc 9, 31). Benedicto XVI explica que «el tema fundamental de la Ley y los Profetas es la "esperanza de Israel", el éxodo que libera definitivamente; que, además, el contenido de esta esperanza es el Hijo del hombre que sufre y el siervo de Dios que, padeciendo, abre la puerta a la novedad y a la libertad» (JdN_I, 5.2).
+
+Respecto a la identificación de Elías con Juan Bautista, Benedicto XVI señala que Jesús «confirma así, por una parte, la esperanza en la venida de Elías, pero al mismo tiempo corrige y completa la imagen que se habían hecho de todo ello. Identifica al Elías que esperan con Juan el Bautista, aun sin decirlo: en la actividad del Bautista ha tenido lugar la venida de Elías» (JdN_I, 5.2). Si el Mesías es el Hijo del hombre que padece, entonces también la actividad preparatoria de Elías ha de estar bajo el signo de la pasión: «Han hecho con él lo que han querido, como estaba escrito de él» (Mc 9, 13).
+
 ## Ver también
 
 [[ascensión]], [[profeta]], [[Moisés]], [[Juan Bautista]], [[transfiguración]], [[desierto]], [[oración]], [[celo]], [[Carmelo]]
@@ -51,3 +59,4 @@ El **paladín de Dios y de los oprimidos**: «Estoy lleno de ardiente celo por Y
 ## Referencias
 
 - [VocTeoBib, «Elías»]
+- Benedicto XVI, Jesús de Nazaret I, 5.2

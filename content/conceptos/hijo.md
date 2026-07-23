@@ -38,6 +38,16 @@ Los hombres son hijos adoptivos de Dios por la fe en Cristo. Pablo precisa que e
 
 [[filiación_divina]], [[hijo_del_hombre]], [[persona_del_hijo]], [[adopción_sobrenatural]], [[jesucristo]], [[trinidad]]
 
+### Según Benedicto XVI (JdN_I)
+
+Benedicto XVI distingue nítidamente entre los títulos «Hijo de Dios» y «Hijo» (sin añadiduras). El primero se deriva de la teología política del antiguo Oriente: tanto en Egipto como en Babilonia, el rey recibía el título de «hijo de Dios»; el ritual de entronización era considerado como «ser engendrado» como hijo de Dios (JdN_I, 7.2). En Israel, el privilegio de ser el primogénito de Dios se concreta en el rey, que personifica la dignidad de Israel.
+
+La antigua ideología monárquica, el engendramiento mítico por obra de Dios, se deja de lado y se sustituye por la teología de la elección: «El "ser engendrado" consiste en la elección; en el hoy del acto de entronización toma cuerpo la acción electiva de Dios, que convierte a Israel y al rey que lo representa en su "hijo"» (JdN_I, 7.2). El cristianismo de los orígenes adoptó este término, reconociendo que se hizo realidad en la resurrección de Jesús: «La promesa que Dios hizo a nuestros padres, nos la ha cumplido a los hijos resucitando a Jesús» (Hch 13,32s).
+
+Pero la expresión «Hijo de Dios» se distancia de la esfera del poder político y se convierte en expresión de una unión especial con Dios que se manifiesta en la cruz y en la resurrección. «Este rey no subyugará a sus pueblos con su cetro de hierro; reina desde la cruz, de un modo totalmente nuevo. La universalidad se realiza en la forma humilde de la comunión en la fe» (JdN_I, 7.2).
+
+En cuanto al simple título de «el Hijo», que Jesús se da a sí mismo, Benedicto XVI señala que «sólo el "Hijo" conoce al Padre, y todo verdadero conocimiento del Padre es participación en el conocimiento del Hijo» (JdN_I, 7.2). La palabra «Hijo» permite asomarnos al interior de Jesús y al interior de Dios mismo. La oración de Jesús es el verdadero origen de la expresión «el Hijo», y no tiene antecedentes en la historia, de la misma manera que el Hijo mismo «es nuevo».
+
 ## Ver también
 
 [[hijo_de_dios]], [[primogénito]], [[heredero]]
@@ -45,3 +55,4 @@ Los hombres son hijos adoptivos de Dios por la fe en Cristo. Pablo precisa que e
 ## Referencias
 
 - VocTeoBib, «Hijo»
+- Benedicto XVI, Jesús de Nazaret I, 7.2

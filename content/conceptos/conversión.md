@@ -133,6 +133,14 @@ El pecado puede presentarse como un «anti-testimonio»: la vida del creyente, c
 
 El sacramento de la Reconciliación es el lugar sacramental donde la conversión se realiza plenamente. En la confesión, el penitente reconoce sus pecados, se arrepiente de ellos, confiesa su culpa al ministro de Dios y recibe el perdón mediante la absolución. Este sacramento restaura la gracia santificante y fortaleza al creyente para proseguir en el camino de la santidad. La conversión es, en definitiva, el camino permanente de la vida cristiana: convertirse sin cesar a Dios mediante la gracia, la oración y el ejercicio de las virtudes.
 
+### Según Benedicto XVI (JdN_I)
+
+Benedicto XVI analiza la conversión a partir de la parábola del hijo pródigo (Lc 15,11-32) en *Jesús de Nazaret I*. La conversión comienza cuando el hijo pródigo «recapacita» (Lc 15,17): «se da cuenta de que está perdido», de que en su casa era un hombre libre y que los esclavos de su padre son más libres que él (JdN_I).
+
+Los Padres de la Iglesia interpretaron que, viviendo lejos de casa, «se había alejado también de sí mismo, vivía alejado de la verdad de su existencia». La conversión «consiste en que reconoce todo esto, que se ve a sí mismo alienado; se da cuenta de que se ha ido realmente "a un país lejano" y que ahora vuelve hacia sí mismo» (JdN_I). Es un retorno que incluye sufrimiento y purificación interna: «podemos decir tranquilamente que, con ello, han entendido correctamente la esencia de la parábola y nos ayudan a reconocer su actualidad» (JdN_I).
+
+La conversión no es solo un acto individual: Benedicto XVI señala que el hermano mayor también necesita convertirse, de la obediencia amargada al amor filial. «En la amargura frente a la bondad de Dios se aprecia una amargura interior por la obediencia prestada que muestra los límites de esa sumisión» (JdN_I). El padre le recuerda: «Hijo, tú estás siempre conmigo, y todo lo mío es tuyo» — la grandeza de ser hijo.
+
 ## Analizado en contexto cultural
 
 - [[pinocho]] — convergencia en el itinerario de conversión (caída-arrepentimiento-restauración); tensión por la ausencia de dimensión sobrenatural y sacramental

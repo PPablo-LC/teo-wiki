@@ -7,8 +7,8 @@ description: "Registro de wikilinks sin artículo propio en el wiki. Última act
 # Auditoría de wikilinks huérfanos
 
 > Generado originalmente: 2026-06-19
-> Última actualización: 2026-07-15 (procesamiento LC-Wik completado — 12 docs, 32 conceptos nuevos)
-> Total de wikilinks huérfanos actuales: 795 - 5 = 790 (resueltos: [[nuestro_padre]], [[gobierno_congregacional]], [[captación_de_líderes]], [[mística_legionaria]], [[primer_grado_rc]]; truncado [[total_dep}}] corregido)
+> Última actualización: 2026-07-16 (JdN_I Lote 3 completado — 4 artículos nuevos, 17 enriquecidos)
+> Total de wikilinks huérfanos actuales: 790 - 1 = 789 (resueltos: [[cristologia_joanica]] por [[cristología_joánica]])
 > Artículos creados 2026-07-15 (LC-Wik): 12 documentos Esp-LC-wiki/documentos + 32 conceptos Esp-LC-wiki/ y wiki/conceptos/cuerpo_místico_de_cristo y unión_con_cristo
 
 ## Metodología
@@ -70,7 +70,7 @@ vs guion bajo, o sinónimo reconocido).
 | 41 | `[[tentacion_de_cristo]]` | 1 | Dogmática (44) |
 | 42 | `[[concordancia_entre_gracia_y_libertad]]` | 1 | Dogmática (44) |
 | 43 | `[[gracia_cristica]]` | 1 | Dogmática (44) |
-| 44 | `[[cristologia_joanica]]` | 1 | Dogmática (44) |
+| 44 | ~~`[[cristologia_joanica]]`~~ | 1 | ✅ RESUELTO (Creado wiki/conceptos/cristología_joánica.md 2026-07-16) |
 | 45 | `[[pecado_de_pensamiento]]` | 1 | Dogmática (44) |
 | 46 | `[[sentido_del_pecado]]` | 1 | Dogmática (44) |
 | 47 | `[[concilios_cristologicos]]` | 1 | Dogmática (44) |

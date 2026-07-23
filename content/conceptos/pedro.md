@@ -30,6 +30,14 @@ Pedro ocupa un lugar único en la economía neotestamentaria. Es el portavoz de 
 
 El Romano Pontífice, sucesor de Pedro, tiene potestad plena y suprema sobre toda la Iglesia (c. 331). El Colegio de los Obispos, con el Papa como cabeza, sucede al Colegio Apostólico (c. 330). La Iglesia particular de Roma «preside en la caridad» a todas las Iglesias (c. 331, cf. LG §23).
 
+### Según Benedicto XVI (JdN_I)
+
+En la transfiguración, Pedro desempeña un papel destacado como testigo privilegiado de la gloria de Jesús. Benedicto XVI señala que los dos acontecimientos en los que Pedro destaca —la confesión de Cesarea y la transfiguración— están enlazados temporalmente y están relacionados con la divinidad de Jesús y con la cruz: «La divinidad de Jesús va unida a la cruz; sólo en esa interrelación reconocemos a Jesús correctamente» (JdN_I, 5.2). Pedro, junto con Santiago y Juan, es llevado por Jesús a un monte alto, a solas, donde experimenta la irrupción del tiempo mesiánico.
+
+Pedro, impresionado por la grandiosidad de la aparición, toma la palabra «aunque en su aturdimiento no sabía lo que decía» (Mc 9, 6): «Maestro, ¡qué bien se está aquí! Vamos a hacer tres chozas: una para ti, otra para Moisés y otra para Elías» (Mc 9, 5). Benedicto XVI explica que estas palabras pronunciadas en éxtasis pueden interpretarse a la luz de la fiesta de las Tiendas: «La epifanía de la gloria de Jesús es interpretada por Pedro como el signo de que ha llegado el tiempo mesiánico. Y una de las características de los tiempos mesiánicos era que los justos morarían en las tiendas, cuya figura era la fiesta de las Tiendas» (JdN_I, 5.2, citando a Daniélou). Al bajar del monte, Pedro debe aprender que el tiempo mesiánico es, en primer lugar, el tiempo de la cruz.
+
+Benedicto XVI destaca también la conexión entre la transfiguración y la或ación: «La transfiguración es un acontecimiento de oración; se ve claramente lo que sucede en la conversación de Jesús con el Padre: la íntima compenetración de su ser con Dios, que se convierte en luz pura» (JdN_I, 5.2). Los tres discípulos —Pedro, Santiago y Juan— serán también los tres que acompañen a Jesús en el monte de los Olivos, en la extrema angustia, como imagen que contrasta con la de la transfiguración pero que está inseparablemente relacionada con ella.
+
 ## Ver también
 
 [[apóstoles]], [[primado_de_pedro]], [[papado]], [[llaves_del_reino]], [[confesión_de_pedro]], [[ministerio_petrino]], [[romano_pontífice]]
@@ -38,3 +46,4 @@ El Romano Pontífice, sucesor de Pedro, tiene potestad plena y suprema sobre tod
 
 - CEC §552-553, §880-881
 - CIC cc. 330-331
+- Benedicto XVI, Jesús de Nazaret I, 5.2

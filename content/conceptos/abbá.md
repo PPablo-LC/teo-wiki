@@ -53,6 +53,14 @@ El autor señala que Jesús revela a «otro» Dios distinto del que esperaban lo
 
 Se relaciona con la [[filiación_divina]] (como fundamento de la filiación adoptiva del cristiano), la [[oración_de_jesús]] (el Abbá en Getsemaní y en toda su vida de oración), la [[trinidad]] (conocimiento recíproco Padre-Hijo del que emana el Amor), el [[hijo_de_dios]] (conciencia de Jesús de ser el Hijo unigénito), [[imagen_vital_de_jesús]] (el Abbá como rasgo esencial de la imagen de Jesús) y [[reinado_de_dios]] (la causa que el Abbá confía a Jesús).
 
+### Según Benedicto XVI (JdN_I)
+
+Benedicto XVI analiza la oración de Jesús con el apelativo «Abbá» en el contexto de la exclamación de júbilo mesiánico (Mt 11,25-27; Lc 10,21-22). Explica que el «conocer» entre el Padre y el Hijo comporta una igualdad ontológica: «Sólo el Hijo "conoce" realmente al Padre: el conocer comporta siempre de algún modo la igualdad» (JdN_I, 7.2). Esta unidad de conocimiento es unidad de ser: «La unidad del conocer sólo es posible porque hay unidad en el ser» (JdN_I, 7.2).
+
+Jesús enseña que nadie conoce al Padre sino el Hijo, y que nadie conoce al Hijo sino el Padre. Pero el Hijo quiere implicar en su conocimiento a todos los que el Padre quiere: «Nadie puede venir a mí si no lo atrae el Padre que me ha enviado» (Jn 6,44). Y a quién atrae el Padre: «No a los sabios y entendidos», sino a la gente sencilla. «La pureza de corazón es lo que nos permite ver. Consiste en esa sencillez última que abre nuestra vida a la voluntad reveladora de Jesús» (JdN_I, 7.2).
+
+Benedicto XVI destaca que «la palabra Hijo, con su correspondiente de Padre-Abbá, nos permite asomarnos al interior de Jesús, más aún, al interior de Dios mismo. La oración de Jesús es el verdadero origen de la expresión "el Hijo"» (JdN_I, 7.2). Joachim Jeremías ha demostrado la singularidad de esta forma que tiene Jesús de llamar a Dios, que dada su intimidad era impensable en el ambiente en que Jesús se movía. En ella se expresa la «unicidad» del «Hijo». Pablo nos dice que los cristianos, gracias a la participación en el Espíritu de Hijo que Jesús les ha dado, están autorizados a decir: «Abbá, Padre» (cf. Rm 8,15; Ga 4,6).
+
 ## Ver también
 
 [[filiación_divina]], [[oración_de_jesús]], [[hijo_de_dios]], [[trinidad]]
@@ -64,3 +72,4 @@ Se relaciona con la [[filiación_divina]] (como fundamento de la filiación adop
 - CrSJP, Catequesis «Jesús, Hijo íntimamente unido al Padre» (8 de julio de 1987)
 - Mc 14,36; Mt 11,25-27; Lc 10,22; Jn 17; Rm 8,15; Gal 4,4-6
 - AQJS, Cap. III, §4
+- Benedicto XVI, Jesús de Nazaret I, 7.2

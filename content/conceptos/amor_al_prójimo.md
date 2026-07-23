@@ -53,6 +53,14 @@ La nobleza del alma es lo contrario del egoísmo. JvC exhorta a compartir, alegr
 
 **Inocencio XI** (1679, D‑1161) condenó la proposición: «Podemos satisfacer al precepto de amar al prójimo, por solos actos externos.» Condenada como escandalosa. La condena confirma la doctrina de que la caridad exige un acto interno de amor, no solo manifestaciones externas.
 
+### Según Benedicto XVI (JdN_I)
+
+Benedicto XVI desarrolla el amor al prójimo a partir de la parábola del buen samaritano (Lc 10,25-37) en *Jesús de Nazaret I*. El mandamiento de amor al prójimo —«amarás al Señor tu Dios… y al prójimo como a ti mismo»— es el fundamento sobre el que Jesús enseña lo mismo que la Torá (JdN_I).
+
+Lo decisivo es la inversión de la pregunta: «No se trata de establecer quién sea o no mi prójimo entre los demás. Se trata de mí mismo. Yo tengo que convertirme en prójimo» (JdN_I). El amor al prójimo no comienza por definir quién lo es, sino por dejarse conmover por la necesidad del otro. «Tengo que llegar a ser una persona que ama, una persona de corazón abierto que se conmueve ante la necesidad del otro» (JdN_I).
+
+Benedicto XVI subraya que el amor al prójimo tiene una dimensión universal que trasciende todo orden político: «el *agapē* traspasa todo tipo de orden político con su principio del *do ut des*, superándolo» (Helmut Kuhn, cit. en JdN_I). La compasión —la «conmoción de las entrañas»— es la fuente que mueve a convertirse en prójimo, y esta compasión tiene su modelo en el samaritano, imagen de Cristo que se hace cargo de la humanidad alienada.
+
 ## Distinciones importantes
 
 - **Amor al prójimo por Dios (caridad) vs. amor natural (filantropía)**: el cristiano ama al prójimo en Dios y por Dios

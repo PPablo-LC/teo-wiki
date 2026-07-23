@@ -27,6 +27,12 @@ El VocTeoBib distingue AT y NT. En el AT, *rea'* expresa la idea de asociarse. C
 
 En el NT, Jesús transforma definitivamente la noción. Consagra el mandamiento del amor al prójimo (Mt 22,34-40) y lo vincula inseparablemente al amor de Dios. Pablo declara que cumple toda la ley (Gal 5,14; Rom 13,8ss). Jesús universaliza el mandamiento: hay que amar incluso a los adversarios (Mt 5,43-48). En la parábola del buen samaritano (Lc 10,29-37) aplica la doctrina: no me toca decidir quién es mi prójimo; el hombre necesitado —aunque sea enemigo— se convierte en mi prójimo. El amor universal conserva un carácter concreto: se manifiesta para con cualquier hombre que Dios ponga en mi camino.
 
+### Según Benedicto XVI (JdN_I)
+
+Benedicto XVI aborda la noción de «prójimo» en el contexto de la parábola del buen samaritano (JdN_I, Cap. 2). La discusión exegética del doctor de la Ley revela que, en la interpretación rabínica, «prójimo» significaba primordialmente «connacional»;此外, se excluían herejes, delatores, apóstatas y samaritanos (Jeremías, pp. 170s). La Escritura, no obstante, exhortaba a amar también al extranjero, recordando que Israel había vivido en Egipto como forastero.
+
+Jesús da la vuelta a la cuestión: no se trata de delimitar quién sea «prójimo» entre los demás, sino de convertirse uno mismo en prójimo. «Yo tengo que convertirme en prójimo, de forma que el otro cuente para mí tanto como "yo mismo"» (JdN_I). El samaritano, el forastero que no estaba obligado a ver en la víctima a su prójimo, es quien se conmueve y actúa. «El amor político del amigo se basa en la igualdad de las partes. La parábola del samaritano destaca la desigualdad radical: el *agapē* traspasa todo tipo de orden político» (Helmut Kuhn, cit. en JdN_I).
+
 ## Distinciones importantes
 
 - Hermano (vínculo natural) vs. prójimo (vínculo de asociación o encuentro)

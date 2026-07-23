@@ -44,6 +44,14 @@ El limbo de los niños y el limbo de los padres difieren en calidad (los niños 
 
 Según la Summa, las almas reciben gozo o tristeza de su lugar por el conocimiento de estar asignadas a él, no por influencia física del lugar sobre ellas (SmTh, Suppl. q.69, a.1 ad 3).
 
+### Según Benedicto XVI (JdN_I)
+
+Benedicto XVI aborda el estado intermedio en el contexto de la parábola del rico epulón y Lázaro (Lc 16,19-31) en *Jesús de Nazaret I*. Jesús, al describir el más allá, «se atiene a las ideas corrientes en el judaísmo de su tiempo»; «no se puede forzar esta parte del texto: Jesús toma representaciones ya existentes sin por ello incorporarlas formalmente a su doctrina sobre el más allá» (JdN_I).
+
+No obstante, aprueba «claramente lo esencial de las imágenes usadas». El rico se encuentra en el Hades como un lugar provisional, no en la Gehenna (el infierno), que es el estado final. «Jesús no conoce una "resurrección en la muerte"» (JdN_I). La intención de la parábola no es enseñar sobre el estado intermedio como tal, sino sobre la sabiduría frente a la estupidez de la vida sin Dios.
+
+El trasfondo espiritual se encuentra en los Salmos que describen la queja del justo que sufre (Sal 44, Sal 73): el rico que lleva vida regalada mientras el pobre sufre plantea la contradicción de la justicia divina. El Salmo 73 muestra el camino: el justo que mira a Dios en el santuario «ensancha su horizonte» y reconoce que la felicidad del cínico es «estupidez», «como un animal» (Sal 73,22). La verdadera saciedad no es la de bienes materiales, sino la de encontrarse con Dios: «Pero yo siempre estaré contigo… Para mí lo bueno es estar junto a Dios» (Sal 73,23.25.28) (JdN_I).
+
 ## Distinciones importantes
 
 - **Morada por situación vs. morada por calidad:** El infierno y el limbo de los padres pueden ser el mismo lugar en cuanto a situación, pero difieren en calidad (pena sensible en el infierno, que no había en el limbo de los padres).
