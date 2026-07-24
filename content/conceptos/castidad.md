@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Castidad
 tags: ["moral"]
 
-timestamp: 2026-07-13
+timestamp: 2026-07-23
 description: "La castidad es la virtud moral, parte subjetiva de la templanza, que modera el apetito genésico según la recta razón y la fe, integrando la sexualidad en la persona y ordenándola al don total de sí."
 ---
 # Castidad
 
 > Área: Moral
-> Última actualización: 2026-07-13
+> Última actualización: 2026-07-23
 
 ## Definición
 
@@ -106,6 +106,24 @@ Cristo llama a esta pureza de corazón que es «exigencia del amor» y «la dime
 
 Tóth presenta la [[pureza_de_corazón]] como la batalla espiritual central de la juventud. La educación en la [[castidad]] requiere formar la voluntad, la afectividad y la imaginación. El cuerpo es [[templo_del_espíritu_santo]] (1 Cor 6,19). La mortalidad, la actividad continua y el dominio de sí mismo son medios esenciales. La sexualidad humana es un misterio sagrado que debe ser presentada positivamente, no solo como prohibición. La gracia cooperando con el esfuerzo humano produce la pureza [JvC-Rel, Archivos 12, 22, 27, 29].
 
+### Según Youth and Chastity — Dr. Tihamer Tóth (JvC-Eng)
+
+Tóth aborda la castidad en su dimensión más práctica y pastoral, presentándola como **camino de libertad y fortaleza del carácter**. Su planteamiento central es que el instinto sexual no es pecado en sí mismo, sino "una participación misteriosa en el poder creativo de Dios" (Cap. II). La maldidad no está en el acto sexual considerado en abstracto, sino en usarlo "en tiempo y circunstancias que Dios no permite" (Cap. I).
+
+**Plan del Creador sobre la sexualidad (Cap. I):** Tóth presenta la potencia generativa como un poder "esencialmente divino" que Dios compartió con los hombres mediante la procreación. La maternidad es "sagrada" porque la concepción es obra de Dios. El acto sexual solo tiene legitimidad dentro del matrimonio indisoluble y con la finalidad de la procreación.
+
+**Castidad como camino de libertad (Cap. VII):** "El hombre libre no es el que hace lo que le place, sino el que puede querer lo que debe hacer". La pureza establece armonía entre los elementos inferiores y superiores del alma: "cielo en la tierra". La victoria sobre uno mismo es "la más gloriosa que un hombre puede ganar".
+
+**Fortalecimiento de la voluntad (Cap. VI):** Tóth propone ejercicios prácticos de autodisciplina como preparación para la tentación: ayuno, obediencia inmediata, control de la ira. La ociosidad es "el colchón del diablo". El deporte y la cultura física son aliados de la pureza: "un cuerpo vigoroso es un instrumento más apto".
+
+**Consecuencias morales del pecado (Cap. III-IV):** La caída en la inmoralidad es progresiva: cine inmoral → compañeros corruptos → primera caída → hábito → destrucción del alma. El pecado "se convierte prácticamente en una necesidad de vida, como la nicotina, el alcohol y el opio". La incredulidad es fruto de la impureza: "Nadie es incrédulo si no es impuro" (San Agustín).
+
+**Ciencia médica y continencia (Cap. IV-V):** Tóth cita extensamente a Krafft-Ebing, Farel, Rossier y Herbst para refutar la idea de que la continencia es dañina para la salud. "Las palabras 'sano', 'saludable', 'sagrado' y 'santo' provienen de la misma raíz". El Congreso Médico de Bruselas (1902) confirma la inocuidad de la castidad.
+
+**Amistad con Cristo y sacramentos (Cap. VII):** "Deja que te enamores de Nuestro Señor Jesús". La confesión y la Comunión son medios de fortaleza. "La voluntad sagrada" es el espíritu guardián que mantiene al joven firme en la tempestad.
+
+> «El instinto sexual que sientes no es pecado. Es sagrado porque es una participación misteriosa en el poder creativo de Dios» (JvC-Eng, Cap. II)
+
 ## Distinciones importantes
 
 - **Castidad virginal**: abstención perpetua de toda delectación venérea por motivos sobrenaturales
@@ -139,3 +157,4 @@ La [[templanza]] es la virtud cardinal de la que la castidad es parte subjetiva.
 - [TdC 11.02.1981]
 - [TdC 18.03.1981]
 - ColCas-II, Conferencia XII, §§1-34
+- JvC-Eng, Cap. I-VII

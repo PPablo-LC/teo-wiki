@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Escatología
 tags: ["escatología"]
 
-timestamp: 2026-05-26
+timestamp: 2026-07-23
 description: "Rama de la teología que trata de las realidades últimas o finales."
 ---
 # Escatología
 
 > Área: Escatología
-> Última actualización: 2026-05-26
+> Última actualización: 2026-07-23
 
 ## Definición
 
@@ -54,11 +54,31 @@ Loring dedica el capítulo 15 de su obra al más allá. Tras la muerte, el alma 
 
 Juan Pablo II desarrolla la dimensión escatológica del cuerpo en la Parte III de su catequesis sobre la teología del cuerpo, a partir de la respuesta de Cristo a los saduceos sobre la resurrección (Mc 12,18-27). «Cuando en la resurrección resuciten de entre los muertos, ni se casarán ni serán dadas en matrimonio, sino que serán como ángeles en los cielos» (Mc 12,25) (TdC 11.11.1981).
 
-El matrimonio y la procreación pertenecen exclusivamente a «este siglo» (Lc 20,34). En la resurrección pierden su razón de ser. El «otro siglo» (Lc 20,35) es la realización definitiva del género humano, no el mundo de la tierra sino el mundo de Dios, donde Dios será «todo en todos» (1 Cor 15,28) (TdC 02.12.1981).
+El matrimonio y la procreación pertenecen exclusivamente a «este siglo» (Lc 20,34). En la resurrección pierdan su razón de ser. El «otro siglo» (Lc 20,35) es la realización definitiva del género humano, no el mundo de la tierra sino el mundo de Dios, donde Dios será «todo en todos» (1 Cor 15,28) (TdC 02.12.1981).
 
 La comunión escatológica (communio) del hombre con Dios se alimenta de la visión «cara a cara» (1 Cor 13,12): contemplación de la comunión trinitaria de las Personas divinas. Los partícipes del «otro mundo» conservarán y adquirirán en medida más perfecta su subjetividad personal (TdC 16.12.1981).
 
 La resurrección significa el cumplimiento definitivo de la redención del cuerpo (Rm 8,23). «Toda la creación gime con dolores de parto esperando la manifestación de los hijos de Dios» (Rm 8,19-22) (TdC 27.01.1982; TdC 12.05.1982).
+
+### Según Catholicism — Word on Fire (WoF)
+
+Bishop Robert Barron dedica la Lección 10 completa ("Mundo sin fin") a la escatología, presentándola como la culminación de toda la historia de la salvación. Su enfoque es **pastoral y apologético**: la escatología no es terror sino la promesa de que Dios cumplirá su palabra.
+
+**Juicio particular (§31-60):** "Después de la muerte, cada alma será juzgada". Barron insiste en que el juicio particular es real y personal: cada unoComparece solo ante Dios. La muerte "fija irrevocablemente" el destino del alma.
+
+**Cielo (§61-90):** El cielo es la "visión beatífica" — ver a Dios cara a cara. No es un lugar geográfico sino una relación plena con Dios. La felicidad del cielo es proporcional a los méritos de cada uno en esta vida.
+
+**Infierno (§91-120):** Barron presenta el infierno como la "separación eterna de Dios" — la posibilidad real del rechazo definitivo. No es un castigo impuesto externamente sino la consecuencia de la libertad humana que elige apartarse de Dios. "El infierno es real porque la libertad es real".
+
+**Purgatorio (§121-150):** El purgatorio es la "purificación final antes de entrar en el cielo". Barron lo presenta como misericordia, no como castigo: es el proceso por el cual las almas que mueren en gracia pero imperfectamente purificadas alcanzan la santidad necesaria para la visión de Dios.
+
+**Parusía (§151-180):** "La segunda venida de Cristo — el fin de los tiempos". Barron insiste en que la parusía no es una catástrofe sino la consumación de la historia: Cristo vendrá "en gloria para juzgar a vivos y muertos".
+
+**Nuevo cielo y nueva tierra (§211-240):** "Dios creará un cielo nuevo y una tierra nueva" (Ap 21:1). No es la destrucción del mundo sino su transfiguración. La creación será liberada de la corrupción y participará de la gloria de Dios.
+
+**Escatología y vida moral (§421-455):** La esperanza cristiana no es optimismo sino "certeza de que Dios cumplirá su promesa". Esta certeza transforma la vida presente: "La espera de una tierra nueva no debe amortiguar, sino más bien avivar, la preocupación de perfeccionar esta tierra" (GS 39).
+
+> «El infierno es real porque la libertad es real — la posibilidad del rechazo definitivo de Dios» (WoF, L10)
 
 
 ## Distinciones importantes
@@ -85,3 +105,4 @@ La resurrección significa el cumplimiento definitivo de la redención del cuerp
 - [TdC 16.12.1981]
 - [TdC 27.01.1982]
 - [TdC 12.05.1982]
+- WoF, Lección 10: "Mundo sin fin"
