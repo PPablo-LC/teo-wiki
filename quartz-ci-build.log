@@ -1,0 +1,69 @@
+
+ Quartz v5.0.0  
+
+✘ [ERROR] Could not resolve "@quartz-community/utils"
+
+    quartz/util/path.ts:25:7:
+      25 │ } from "@quartz-community/utils"
+         ╵        ~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  The module "./dist/index.js" was not found on the file system:
+
+    node_modules/@quartz-community/utils/package.json:29:16:
+      29 │       "import": "./dist/index.js"
+         ╵                 ~~~~~~~~~~~~~~~~~
+
+  You can mark the path "@quartz-community/utils" as external to exclude it from the bundle, which will remove this error and leave the unresolved path in the bundle.
+
+✘ [ERROR] Could not resolve "@quartz-community/utils"
+
+    quartz/util/path.ts:25:7:
+      25 │ } from "@quartz-community/utils"
+         ╵        ~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  The module "./dist/index.js" was not found on the file system:
+
+    node_modules/@quartz-community/utils/package.json:29:16:
+      29 │       "import": "./dist/index.js"
+         ╵                 ~~~~~~~~~~~~~~~~~
+
+  You can mark the path "@quartz-community/utils" as external to exclude it from the bundle, which will remove this error and leave the unresolved path in the bundle.
+
+✘ [ERROR] Build failed with 1 error:
+quartz/util/path.ts:25:7: ERROR: Could not resolve "@quartz-community/utils" [plugin inline-script-loader]
+
+    quartz/plugins/emitters/componentResources.ts:6:28:
+      6 │ import spaRouterScript from "../../components/scripts/spa.inline"
+        ╵                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  This error came from the "onLoad" callback registered here:
+
+    node_modules/esbuild/lib/main.js:1422:20:
+      1422 │       let promise = setup({
+           ╵                     ^
+
+    at setup (file:///home/ppablolc/Proyectos/teo-wiki/quartz/cli/handlers.js:367:17)
+    at handlePlugins (/home/ppablolc/Proyectos/teo-wiki/node_modules/esbuild/lib/main.js:1422:21)
+
+✘ [ERROR] Build failed with 1 error:
+quartz/util/path.ts:25:7: ERROR: Could not resolve "@quartz-community/utils" [plugin inline-script-loader]
+
+    quartz/plugins/emitters/componentResources.ts:8:26:
+      8 │ import popoverScript from "../../components/scripts/popover.inline"
+        ╵                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  This error came from the "onLoad" callback registered here:
+
+    node_modules/esbuild/lib/main.js:1422:20:
+      1422 │       let promise = setup({
+           ╵                     ^
+
+    at setup (file:///home/ppablolc/Proyectos/teo-wiki/quartz/cli/handlers.js:367:17)
+    at handlePlugins (/home/ppablolc/Proyectos/teo-wiki/node_modules/esbuild/lib/main.js:1422:21)
+
+Failed to build Quartz. Check for syntax errors in your configuration or plugins.
+Reason: Build failed with 2 errors:
+quartz/plugins/emitters/componentResources.ts:6:28: ERROR: [plugin: inline-script-loader] Build failed with 1 error:
+quartz/util/path.ts:25:7: ERROR: Could not resolve "@quartz-community/utils"
+quartz/plugins/emitters/componentResources.ts:8:26: ERROR: [plugin: inline-script-loader] Build failed with 1 error:
+quartz/util/path.ts:25:7: ERROR: Could not resolve "@quartz-community/utils"
