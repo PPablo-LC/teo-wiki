@@ -39,6 +39,16 @@ La viña es mencionada como «fruto de la vid» del cual proviene el vino para l
 
 La viña aparece únicamente como referencia a la parábola evangélica de «los trabajadores de la viña llamados a última hora» (TPCr, n. 2018), usada para explicar la subdivisión de la vocación a la vida mística como «temprana» o «tardía». No es un concepto teológico tratado en sí mismo.
 
+### Según Benedicto XVI (JdN_I)
+
+**Isaías y la canción de la viña (JdN_I, cap. 4):** Isaías cantó el canto de amor del amigo y su viña probablemente durante la fiesta de las Tiendas. La «viña» era imagen de la esposa (cf. Qs 2, 15; 7, 13). La viña decepcionó: en vez de fruto apetitoso dio pequeños agracejos. El canto de amor se convirtió en amenaza de juicio, sin promesa alguna en ese momento. El Salmo 80 transforma el lamento en súplica: «¡Cuida esta cepa que tu diestra plantó!» (v. 16-20).
+
+**Parábola de los viñadores infieles (Mc 12, 1-12):** Jesús retoma el canto de Isaías modificándolo. Israel ya no es la vid, sino los arrendatarios de una viña cuyo dueño ha marchado. La historia de los criados maltratados refleja la historia de los profetas. El «hijo querido» es matado precisamente por ser el heredero. Pero Jesús cita el Salmo 118, 22: «La piedra que desecharon los arquitectos es ahora la piedra angular» — predice su muerte y resurrección, y el nuevo comienzo que de Él brotará.
+
+**La vid verdadera (Jn 15, 1-10):** «Yo soy la verdadera vid» (Jn 15, 1). El adjetivo «verdadera» es clave: «Fragmentos de significado a los que se alude veladamente mediante otras vides, aparecen aquí recogidos y explicitados a través de Él» (Barrett). Pero el elemento esencial es el «Yo soy»: el Hijo se identifica con la vid, se ha dejado plantar en la tierra (encarnación). La vid ya nunca podrá ser arrancada: «Cristo Jesús no fue primero "sí" y luego "no"; en Él todo se ha convertido en un "sí"; en Él todas las promesas de Dios han recibido un "sí"» (2 Co 1, 19s).
+
+**Eclesiología de la vid:** La imagen de la vid contiene también toda una eclesiología: la imposibilidad de separar a Jesús de los suyos, su ser uno con Él y en Él. Juan no conoce la imagen de Pablo del «cuerpo de Cristo», pero la vid expresa objetivamente lo mismo. Las grandes palabras clave son: purificación, fruto, permanencia (*ménein*, 10 veces en Jn 15, 1-10), mandamiento, amor y unidad. El fruto que el Señor espera es el amor que ha pasado por la cruz, y la perseverantia — el perseverar pacientemente en la comunión con el Señor a través de todas las vicisitudes de la vida.
+
 ## Distinciones importantes
 
 - Viña de Israel (AT) vs. vid verdadera, Cristo (NT)

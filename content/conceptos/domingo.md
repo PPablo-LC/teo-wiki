@@ -25,6 +25,12 @@ El domingo es «el día del Señor», el día de la Resurrección de Cristo (§1
 
 El c. 1246 §1 establece que el domingo es el día festivo primordial, que debe proponerse e inculcarse a la piedad de los fieles. El c. 1247 prescribe la obligación de participar en la Misa cada domingo y fiestas de precepto. El c. 1248 regula el modo de cumplir el precepto dominical: asistencia a Misa celebrada según el rito católico, el mismo día o en la tarde del día anterior (vigilia). El c. 1249 señala que los fieles se abstendrán de aquellos trabajos o actividades que impidan el culto a Dios, el gozo propio del día del Señor o el debido descanso de la mente y el cuerpo.
 
+### Según Benedicto XVI (JdN_I)
+
+**Continuidad con el sábado (JdN_I, cap. 2):** La resurrección de Jesús «el primer día de la semana» hizo que, para los cristianos, ese «primer día» — el comienzo de la creación — se convirtiera en el «día del Señor», en el cual confluyeron por sí mismos — mediante la comunión de la mesa con Jesús — los elementos esenciales del sábado veterotestamentario.
+
+**Laicidad y función social del domingo:** Constantino, en su reforma jurídica de inspiración cristiana, asoció al domingo algunas libertades para los esclavos e introdujo en el sistema legal basado en principios cristianos el día del Señor como el día de la libertad y el descanso. Benedicto XVI califica de «sumamente preocupante» que los modernos liturgistas quieran dejar de nuevo a un lado esta función social del domingo, considerándola «una desviación de Constantino». Aquí se plantea el problema de las relaciones entre fe y orden social.
+
 ## Relaciones doctrinales
 
 El domingo se fundamenta en la [[resurrección_de_cristo]] y se relaciona con la [[eucaristía]], la [[liturgia]], el [[año_litúrgico]] y el [[descanso_festivo]]. Es la concreción semanal del misterio pascual. Guarda paralelismo con el sábado judío como día del Señor, cumplido y superado en la Nueva Alianza.

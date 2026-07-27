@@ -43,6 +43,18 @@ Benedicto XVI dedica el capítulo 7 de *Jesús de Nazaret I* a la expresión «H
 
 **Nicea y el término homoousios.** El Concilio de Nicea (325) utilizó el término «consustancial» (homoousios) para fijar lo incomparablemente nuevo que había aparecido en los diálogos de Jesús con el Padre. Este término «no ha helenizado la fe, no la sobrecarga con una filosofía ajena, sino que ha permitido fijar lo incomparablemente nuevo y diferente que había aparecido en los diálogos de Jesús con el Padre».
 
+### Según Benedicto XVI (JdN_III)
+
+En *Jesús de Nazaret III*, Benedicto XVI aborda la filiación divina de Jesús en el contexto del interrogatorio ante Pilato (cap. I) y en la interpretación de las genealogías.
+
+**Jesús como Hijo y Rey ante Pilato.** Pilato pregunta a Jesús: «¿De dónde eres tú?» (Jn 19,9), y la pregunta apunta al ser mismo de Jesús. Benedicto XVI subraya que el «de dónde» de Jesús tiene un doble sentido: es conocido —hijo de José, de Nazaret— y, sin embargo, misterioso —viene de Dios, es Dios. La pregunta de Pilato revela la paradoja cristológica: Jesús es al mismo tiempo el carpintero conocido y el Hijo eterno del Padre. El juez racionalista romano «no conseguía evitar la misteriosa impresión causada por aquel hombre».
+
+**La filiación divina en la respuesta del niño de doce años.** En el epílogo, cuando María dice «Tu padre y yo te buscábamos», Jesús la corrige: «¿No sabíais dónde tiene que estar un hijo? ¿Que tiene que estar en la casa de su padre?» (Lc 2,49). Benedicto XVI destaca que Jesús no se refiere a José, sino a Dios: «Mi padre no es José, sino otro: Dios mismo. A él pertenezco y con él estoy. ¿Acaso puede expresarse más claramente la filiación divina de Jesús?» La palabra griega *deî* («debe») indica que Jesús obedece no a los padres terrenos, sino a la voluntad del Padre.
+
+**La genealogía como respuesta al «de dónde».** Mateo presenta la genealogía de Jesús con tres series de catorce generaciones —desde Abraham hasta David, desde David hasta el exilio, desde el exilio hasta Jesús— mostrando que toda la historia de la promesa converge en él. Lucas, inversamente, desciende de Jesús hasta Adán y termina: «Hijo… de Adán, de Dios» (Lc 3,38), indicando que la raíza última del ser humano es Dios. En Jesús, la humanidad comienza de nuevo.
+
+**El Prólogo joánico como definición del origen.** Juan no antepone una genealogía, pero el Prólogo responde grandiosamente al «de dónde»: «En el principio ya existía la Palabra» (Jn 1,1). El origen de Jesús es el «principio» mismo; él es «la tienda del encuentro» (Jn 1,14) —la presencia real de Dios entre los hombres. Los que creen en él reciben «poder para ser hijos de Dios» (Jn 1,12): la fe en el Hijo es el nuevo origen del hombre.
+
 ### Según Juan Pablo II (CrSJP)
 
 Juan Pablo II dedica la segunda parte de su ciclo cristológico a la filiación divina de Cristo, desarrollándola en las catequesis «Jesús: Hijo de Dios» (13 de mayo de 1987) y «Jesús: verdadero Dios y verdadero hombre» (26 de agosto de 1987).

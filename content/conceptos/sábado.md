@@ -51,6 +51,16 @@ No se encontraron referencias doctrinales significativas sobre el sábado en la 
 - Sábado como creación (Gén 2) ≠ sábado como liberación (Dt 5)
 - Observancia legalista (fariseos) ≠ observancia según el espíritu de Cristo
 
+### Según Benedicto XVI (JdN_I)
+
+**Significado del sábado para Israel (JdN_I, cap. 2):** No trabajar en sábado «significa algo más que cumplir escrupulosamente un rito. Es un modo de imitar a Dios» (Neusner, p. 60). El sábado incluye el descanso positivo y una dimensión espacial: «hay que quedarse en casa, restablecer el círculo de la familia y el hogar» (Neusner, p. 66). Es el «núcleo de un orden social»: «ese día convierte al Israel eterno en lo que es» (Neusner, p. 59).
+
+**La disputa sobre el sábado:** Neusner deja a un lado la interpretación de Jesús como «rabino liberal» que aligeraba cargas legalistas. El verdadero punto central es la reivindicación de autoridad: «Los discípulos pueden hacer en sábado lo que hacen, porque se han puesto en el lugar de los sacerdotes en el templo: el lugar sagrado se ha trasladado. Ahora está en el círculo del maestro con sus discípulos» (Neusner, p. 68s). «El Hijo del hombre es señor del sábado» (Mt 12, 8).
+
+**Relación con el descanso mesiánico:** Las palabras «Venid a mí todos los que estáis cansados y agobiados» (Mt 11, 28-30) se conectan con la cuestión del sábado a través del tema del «descanso». Neusner resume: «Mi yugo es ligero, yo os doy descanso. El Hijo del hombre es el verdadero señor del sábado. Pues el Hijo del hombre es ahora el sábado de Israel; es nuestro modo de comportarnos como Dios» (p. 72). «Ahora Jesús está en la montaña y ocupa el lugar de la Torá» (p. 73).
+
+**Laicidad y domingo:** La resurrección de Jesús «el primer día de la semana» hizo que ese día se convirtiera en el «día del Señor», confluyendo los elementos esenciales del sábado veterotestamentario. Constantino asoció al domingo libertades para los esclavos, introduciendo en el sistema legal el día del Señor como día de libertad y descanso. Benedicto XVI advierte contra los liturgistas que quieren abandonar esta función social del domingo.
+
 ## Relaciones doctrinales
 
 Se relaciona con [[domingo]], [[día_del_señor]], [[creación]], [[alianza]], [[decálogo]], [[descanso]], [[eucaristía]].

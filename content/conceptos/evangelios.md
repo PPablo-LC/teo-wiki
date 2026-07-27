@@ -42,6 +42,10 @@ Los Evangelios según Mateo, Marcos y Lucas se llaman sinópticos por su semejan
 
 Loring ofrece una extensa apologética de los Evangelios. Los cuatro Evangelios fueron escritos por «testigos oculares» o por quienes estuvieron en contacto con ellos. San Mateo y San Juan fueron apóstoles; San Marcos transmitió la predicación de San Pedro; San Lucas «investigó cuidadosamente todo desde los orígenes» [PS §32,3]. Fueron escritos entre los años 40 y 100, cuando aún vivían testigos presenciales que podían contradecir cualquier inexactitud. «Si los evangelistas hubieran dicho lo que no es verdad, sus Evangelios hubieran sido rechazados por aquella generación que era testigo de los hechos» [PS §32,3]. La historicidad de los Evangelios «es para los católicos una verdad de fe divina y católica» [PS §32,3], y además «la genuinidad y autenticidad de los Evangelios se remonta al siglo II» [PS §32,3].
 
+### Según The Case for Jesus (CfJ)
+
+El Dr. Grant Petrie (Augustine Institute) presenta la evidencia interna y externa de la autoría apostólica de los Evangelios. La teoría moderna del anonimato evangélico (cuatro puntos: publicación anónima, circulación sin títulos por un siglo, adición de títulos en el s. II, nexo con el juego del teléfono de Ehrman) carece de base manuscrita: no existe ninguna copia anónima de ninguno de los cuatro Evangelios, y todos los manuscritos más antiguos llevan título. La evidencia interna de cada Evangelio confirma su autoría: Mateo (publicano, cf. Mc 9,9; 10,2-4), Marcos (scriba de Pedro, residente de Jerusalén), Lucas (médico, gentil, compañero de Pablo, cf. Col 4,10; Hech 4,13) y Juan (testimonio final, cf. Jn 21,20-24). Los Padres de la Iglesia (Papías, Ireneo, Clemente) son unánimes en confirmar la autoría apostólica, y hasta el crítico pagano Celso admitía que los Evangelios fueron escritos por los discípulos. Los Evangelios encajan en el género de las biografías antiguas (no en el folclor), con paralelos estructurales con Josefo, Plutarco, Suetonio y Luciano.
+
 
 ## Distinciones importantes
 

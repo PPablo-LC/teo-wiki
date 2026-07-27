@@ -60,6 +60,16 @@ Benedicto XVI trata el Reino de Dios como la categoría fundamental del mensaje 
 
 **La hora del Reino en Caná.** En el capítulo sobre las grandes imágenes joánicas, Benedicto XVI analiza las bodas de Caná como «anticipación de la hora» de Jesús: la sobreabundancia del vino es signo de que ha comenzado la fiesta de Dios con la humanidad, «la hora de las nupcias de Dios con su pueblo». El Reino irrumpe en la historia como fiesta y alegría, pero apuntando ya a la cruz.
 
+### Según Benedicto XVI (JdN_III)
+
+En *Jesús de Nazaret III*, Benedicto XVI aborda el Reino de Dios en el contexto del interrogatorio de Jesús ante Pilato (cap. I).
+
+**«Mi Reino no es de aquí» (Jn 18,36).** Jesús declara ante Pilato que su Reino «no es de aquí», lo que Benedicto XVI interpreta no como una negación de la realidad del Reino, sino como una delimitación de su naturaleza: el Reino de Jesús no compite con los reinos de este mundo porque pertenece a un orden distinto. Pilato, racionalista romano, intenta entender a Jesús en categorías políticas —¿es rey? ¿qué pretende?—, pero la declaración de Jesús lo desborda: «Mi Reino no es de aquí» no significa que el Reino sea irrelevante para el mundo, sino que su origen y su lógica trascienden el poder mundano.
+
+**La verdad como criterio del Reino.** Benedicto XVI subraya que la pregunta de Pilato —«¿De dónde eres tú?»— es en realidad una pregunta sobre el origen de Jesús y, por tanto, sobre la naturaleza de su Reino. El Reino se fundamenta en la verdad: Jesús es «testigo de la verdad» (Jn 18,37), y el Reino de Dios es el reinado de la verdad que libera. La cruz, lejos de ser una derrota del Reino, es su manifestación suprema: «la cruz es el acto del éxodo, el acto del amor que se toma en serio y llega hasta el extremo (Jn 13,1), y por ello es el lugar de la gloria».
+
+**El Reino y la genealogía de Jesús.** En la interpretación de las genealogías de Mateo y Lucas, Benedicto XVI muestra que el Reino de Dios tiene raíces en la historia de Israel —la promesa a Abraham, el trono de David— pero que en Jesús se abre a la universalidad: «Haced discípulos de todos los pueblos» (Mt 28,19). La genealogía de Lucas, que desciende hasta Adán, indica que Jesús asume en sí la humanidad entera y le da un «nuevo rumbo».
+
 ### Según Royo Marín (TPCr)
 
 Royo Marín trata el Reino de Dios como el reinado divino que Dios ejerce en las almas por la gracia santificante y especialmente en las almas justas. El Reino de Dios es una posesión santificante sobrenatural, íntima e inamisible. Cristo lo explica mediante parábolas: el grano de mostaza, la levadura, el tesoro escondido, la perla preciosa, la red marinera. La posesión del Reino pertenece a los que tienen humildad de espíritu, dolor de los pecados, afán de santidad, deseo de justicia, misericordia, limpieza de corazón y paciencia. Parafraseando a Bossuet y padre Faber: «El Reino de Dios es el estado de gracia santificante en las almas, y su Reina es la Santísima Virgen María».

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Doctrina Social de la Iglesia
 tags: ["moral"]
 
-timestamp: 2026-06-17
+timestamp: 2026-07-25
 description: "Cuerpo de doctrina que articula la enseñanza de la Iglesia en materia económica y social."
 ---
 # Doctrina Social de la Iglesia
 
 > Área: Moral
-> Última actualización: 2026-06-17
+> Última actualización: 2026-07-25
 
 ## Definición
 
@@ -64,6 +64,16 @@ Juan Pablo II propone la elaboración de «un compendio o síntesis autorizada d
 La visión moral de la Iglesia sobre la economía globalizada «se apoya en las tres piedras angulares fundamentales de la dignidad humana, la solidaridad y la subsidiariedad» [EA §55]. La economía globalizada debe ser analizada a la luz de los principios de la justicia social, respetando la opción preferencial por los pobres y el bien común internacional [EA §55].
 
 En la doctrina social ocupa un lugar importante el derecho a un trabajo digno: «es necesario valorar el trabajo como dimensión de realización y de dignidad de la persona humana» [EA §54].
+
+### Según Benedicto XVI (JdN_I)
+
+**Raíces veterotestamentarias de la doctrina social (JdN_I, cap. 2):** La Torá de Moisés contiene un derecho social concreto que reglamenta la vida de Israel. En ella se distinguen dos tipos de derecho: el casuístico (normas concretas sobre esclavos, lesiones, robo) y el apodíctico (proclamaciones en nombre de Dios: «No maltrates ni oprimas al forastero», Ex 22, 20). El derecho apodíctico funciona como «metanorma» crítica frente a las normas casuísticas históricamente condicionadas. La crítica profética de Isaías, Oseas y Amos se apoya en estas metanormas para cuestionar prácticas jurídicas que ya no protegen a los pobres, las viudas y los huérfanos.
+
+**De la Torá a la doctrina social cristiana:** La universalización de la fe por parte de Jesús libera los ordenamientos políticos de la sacralidad inmediata. Los ordenamientos concretos ya no se fijan como derecho sagrado eterno, sino que se confían a la libertad del hombre, que a través de Jesús aprende a discernir lo justo. «Así, también el cristianismo deberá reelaborar y reformular constantemente los ordenamientos sociales, una “doctrina social cristiana”. Ante nuevas situaciones, corregirá lo que se había propuesto anteriormente» (JdN_I, p. 181).
+
+**Laicidad vs. laicismo:** La universalización de la fe produjo la «justa laicidad del Estado», pero en la modernidad esta libertad se ha ido sustrayendo a la mirada de Dios y se ha transformado en «laicismo» — el olvido de Dios y la búsqueda en exclusiva del éxito. Para el creyente, «la búsqueda de la voluntad de Dios en la comunión con Jesús sigue siendo como una señal de orientación para su razón, sin la cual corre siempre el peligro de quedar ofuscado, ciego» (JdN_I, p. 169).
+
+**Dignidad de Dios como fundamento de la dignidad humana:** En la estructura intrínseca de la Torá, en su evolución a través de la crítica profética y en el mensaje de Jesús que engloba a ambos, ella encuentra «al mismo tiempo el espacio para los desarrollos históricos necesarios y la base estable que garantiza la dignidad del hombre a partir de la dignidad de Dios» (JdN_I, p. 181).
 
 ## Distinciones importantes
 

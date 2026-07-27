@@ -27,6 +27,19 @@ Su obra principal, *Adversus Haereses* (Contra las herejías, c. 180), expone y 
 
 Ireneo formuló por primera vez con precisión la doctrina de la [[sucesión_apostólica]]: la verdadera doctrina se conserva en las Iglesias fundadas por los apóstoles y, de modo eminente, en la [[Iglesia_de_Roma]]. Su testimonio sobre el [[canon_bíblico]] y la [[tradición_apóstólica]] es fundamental para la patrística.
 
+### Testimonio sobre la autoría de los Evangelios
+
+Ireneo es uno de los testigos más importantes sobre la autoría de los cuatro Evangelios. En *Contra las Herejías* 1.1.1 escribe:
+
+> «Mateo también publicó un Evangelio escrito entre los hebreos en su propia lengua, mientras Pedro y Pablo predicaban en Roma y fundaban la Iglesia. Después de su partida, Marcos, el discípulo e intérprete de Pedro, nos transmitió también por escrito lo que había sido predicado por Pedro. Lucas también, el compañero de Pablo, consignó en un libro el Evangelio predicado por él. Y después Juan, el discípulo del Señor, el que también se recostó sobre su pecho, publicó su Evangelio durante su estancia en Éfeso en Asia.»
+> — Ireneo, *Contra las Herejías* 1.1.1
+
+Este testimonio es particularmente valioso porque:
+- Ireneo fue discípulo de Policarpo, quien a su vez fue discípulo de San Juan.
+- Viene de una tradición que se remonta directamente a los apóstoles.
+- Confirma la autoría de los cuatro Evangelios y el contexto histórico de cada uno.
+- Es citado en *The Case for Jesus* (CfJ), Sesión 2, línea [00:13:07].
+
 ### Teología de la recapitulación
 
 Desarrolló la doctrina de la [[recapitulación]] en Cristo: así como Adán introdujo la muerte y la desobediencia en toda la humanidad, Cristo, nuevo Adán, recapituló en sí toda la historia humana para restaurarla. Esta teología influyó en la soteriología posterior.

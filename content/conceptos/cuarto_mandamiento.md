@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Cuarto mandamiento
 tags: ["moral"]
 
-timestamp: 2026-06-03
+timestamp: 2026-07-25
 description: "El cuarto mandamiento del Decálogo —«Honra a tu padre y a tu madre» (Ex 20,12.)"
 ---
 # Cuarto mandamiento
 
 > Área: Moral
-> Última actualización: 2026-06-03
+> Última actualización: 2026-07-25
 
 ## Definición
 
@@ -37,6 +37,14 @@ El cuarto mandamiento obliga a honrar, respetar y obedecer a los padres y superi
 
 La honra a los padres incluye el cuidado en la vejez y la enfermedad, así como la oración por los difuntos (Brian Cochran). El respeto a la autoridad legítima es parte de la caridad ordenada. La formación en la fe comienza en la familia (CPE; Strive).
 
+### Según Benedicto XVI (JdN_I)
+
+**LaTorá y la familia (JdN_I, cap. 2):** El cuarto mandamiento del Decálogo —«Honra a tu padre y a tu madre»— es el primero de los mandamientos que regula las relaciones en la familia y es de los pocos que recibe una promesa de duración: «para que se te alargue la vida en la tierra» (Ex 20, 12). La Torá considera la familia como la institución primordial de la que depende la continuidad del pueblo y la alianza con Dios.
+
+**La universalización de Israel: superación de la familia tribal (JdN_I, cap. 2):** Benedicto XVI señala que Jesús, con su universalismo, abolió en un sentido la distinción entre familia judía y familia pagana: «Ya no había ningún pueblo, familia, parentela, clase social que pudiera erigirse en criterio de decisión para la cuestión de Dios.» La «filiación» con Dios supera a la filiación humana. No destruye la familia terrena, sino que la reordena dentro de una familia mayor.
+
+**Hijo de carpintero: dignidad del trabajo familiar (JdN_I, cap. 1):** El oficio de carpintero de José enseñó a Jesús la «amable pesadez del trabajo» y la «alegría que produce el deber cumplido». El texto bíblico subraya la convivencia prolongada necesaria para enseñar un oficio: «cuatro o cinco horas de cada jornada, los dos durante doce años».
+
 ## Distinciones importantes
 
 - **Obediencia a los padres vs. obediencia a Dios**: si hay conflicto, «hay que obedecer a Dios antes que a los hombres» (Hch 5,29)
@@ -58,3 +66,4 @@ Se relaciona con [[familia]], [[educación]], [[autoridad]], [[piedad_filial]], 
 - [SmTh II-II q.101-102, q.122 a.5]
 - [PS §5]
 - [Ex 20,12; Dt 5,16; Ef 6,1-4]
+- [JdN_I, caps. 1-2]

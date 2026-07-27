@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Familia
 tags: ["doctrina_social"]
 
-timestamp: 2026-06-20
+timestamp: 2026-07-25
 description: "La familia es la primera sociedad natural, fundada sobre el matrimonio entre un hombre y una mujer, comunidad de vida y amor conyugal, célula primera y vital de la sociedad."
 ---
 # Familia
 
 > Área: Doctrina Social
-> Última actualización: 2026-06-20
+> Última actualización: 2026-07-25
 
 ## Definición
 
@@ -83,6 +83,16 @@ Juan Pablo II concluye la exhortación con una oración por las familias de Amé
 
 La familia es «la primera y fundamental escuela de paz» [Muj 06 §7]. La madre desempeña un papel de primerísimo rango en la educación de los hijos, ofreciendo «aquel sentimiento de seguridad y confianza sin el cual le sería difícil desarrollar correctamente su propia identidad personal» [Muj 06 §6]. Los hijos tienen necesidad de la presencia y del cuidado de ambos padres; la calidad de la relación entre los esposos influye profundamente sobre la psicología del hijo [Muj 06 §6-7]. El Papa defiende la presencia de la madre en la familia, denunciando la falsa concepción según la cual el papel de la maternidad es opresivo para la mujer, y pide que se reconozca, aplauda y apoye con todos los medios posibles dicha presencia [Muj 13 §3]. La Sagrada Familia de Nazaret es presentada como modelo: María y José se ayudaban recíprocamente en la dirección de su familia y en el cuidado del niño Jesús [Muj 26 §1]. «María trabaja al lado de José, según un estilo personal y femenino» [Muj 26 §2]. José pudo trabajar cerca de su familia, enseñando al niño Jesús su mismo oficio de carpintero [Muj 26 §2].
 
+### Según Benedicto XVI (JdN_I)
+
+**La familia en Nazaret (JdN_I, cap. 1):** Jesús no pronunció palabras grandiosas sobre la familia ni creó un movimiento de renovación de la institución familiar. «La familia es, sencillamente, lo que es; y ésta es precisamente la grandiosidad de la Sagrada Familia de Nazaret.» Los miembros de la familia se tratan mutuamente en libertad. María deja que Jesús crezca libremente; el niño no se convierte en la carga ni en el centro de la madre: «el Señor no tenía su centro de gravedad en Él mismo, sino en Dios».
+
+**El «debo estar» misterioso (JdN_I, cap. 1):** Con solo doce años, Jesús despierta angustia y dolor en sus padres. «Todo el que se acerca a Jesús en realidad se aleja del propio padre.» Pero no rechaza a María y José: los acoge, los respeta, los cuida, pero no puede ser «suyo» en sentido exclusivo. «El que no es capaz de separarse del propio padre no es discípulo de Jesús.» María acogió el «debo estar» misterioso con una fe que la hizo «estática» (como la madre del sordomudo), dejando el desenlace en manos de Dios.
+
+**La familia en la parábola del hijo pródigo (JdN_I, cap. 1):** La parábola pone al padre en una situación de impotencia total: «¿Qué puede hacer un padre cuando su hijo no le quiere ya?» Pero el padre no se deja vencer por la indiferencia ni el desprecio. La dignidad del hijo y el respeto por su libertad son más fuertes que la tentación de intervenir con la fuerza.
+
+**San José como modelo de padre (JdN_I, cap. 1):** José «debió de enseñar a Jesús el oficio de carpintero en las largas jornadas de convivencia en el taller». «Cristo conoció la amable pesadez del trabajo y la alegría que produce el deber cumplido.» En Jesús se verificó un crecimiento armónico en todos los órdenes: «sabiduría, estatura y gracia» (Lc 2, 52).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[matrimonio]], [[iglesia_doméstica]], [[santuario_de_la_vida]], [[bien_común]], [[subsidiariedad]], [[educación_de_los_hijos]]
@@ -112,3 +122,4 @@ Se relaciona con [[matrimonio]], [[iglesia_doméstica]], [[santuario_de_la_vida]
 - [CompDS §246-254]
 - [CIC cc. 226, 1135-1136]
 - [FC §17, §18, §42, §43, §46, §47, §86]
+- [JdN_I, caps. 1]

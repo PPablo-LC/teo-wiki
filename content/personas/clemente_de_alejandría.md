@@ -31,6 +31,18 @@ Su trilogía fundamental —*Protréptico*, *Pedagogo* y *Stromata*— presenta 
 
 Su enseñanza moral, expuesta en *El Pedagogo* y en el tratado *¿Qué rico se salva?*, presenta la vida cristiana como conformidad con el Logos, con una fuerte dimensión ascética y de dominio de las pasiones.
 
+### Testimonio sobre la autoría de los Evangelios
+
+Clemente de Alejandría aporta testimonio valioso sobre la autoría de los Evangelios, especialmente sobre Marcos y Juan:
+
+> «Una gran luz de piedad iluminó las mentes de los oyentes de Pedro, y ellos no se conformaron con una sola audiencia ni con la enseñanza oral de la divina proclamación. Así, con todo tipo de exhortaciones, rogaron a Marcos, cuyo Evangelio existe, ya que era el discípulo de Pedro, que dejara por escrito la enseñanza que les había dado verbalmente.»
+> — Clemente de Alejandría, *ap.* Eusebio, *Hist. Ecl.* 2.15.1-2
+
+> «De todos los que habían estado con el Señor, solo Mateo y Juan nos dejaron sus recuerdos.»
+> — Clemente de Alejandría, *ap.* Eusebio, *Hist. Ecl.* 6.14.6-7
+
+Clemente añade que Juan escribió su Evangelio después de que los tres primeros estaban distribuidos, para complementarlos con aspectos de la enseñanza de Jesús que no habían sido tratados. Este testimonio es citado en *The Case for Jesus* (CfJ), Sesión 2, líneas [00:17:16]–[00:19:56].
+
 ## Relaciones
 
 [[escuela_alejandrina]], [[orígenes]], [[gnosticismo]], [[fe_y_razón]], [[logos]], [[catequesis]], [[alejandría]], [[panteno]], [[teología_patrística]]

@@ -2,6 +2,8 @@
 type: Concepto LC
 title: Abuso espiritual
 tags: ["moral", "derecho_canónico"]
+aliases:
+  - abuso_espiritual
 
 timestamp: 2026-05-29
 description: "El abuso espiritual es la utilización de la autoridad espiritual."

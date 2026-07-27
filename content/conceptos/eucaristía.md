@@ -3,7 +3,7 @@ type: Concepto Teológico
 title: Eucaristía
 tags: ["sacramental"]
 
-timestamp: 2026-07-20
+timestamp: 2026-07-25
 description: "La eucaristía es el sacramento y sacrificio del Cuerpo y Sangre de Nuestro Señor Jesucristo, realmente, verdadera y sustancialmente presente bajo las especies de pan y vino."
 ---
 # Eucaristía
@@ -263,6 +263,18 @@ San Francisco de Asís muestra una devoción eucarística profunda y teológicam
 
 **Eucaristía y adoración:** En las Alabanzas, la paráfrasis del Padrenuestro define el pan cotidiano como Cristo mismo: «Danos hoy, por memoria y reverencia del amor que Él tuvo por nosotros... nuestro pan cotidiano, tu Amado Hijo» (Laud. 21). Los «verdaderos adoradores adorarán al Padre en espíritu y en verdad» (CFi. 25; cf. Jn 4,23).
 
+### Según Benedicto XVI (JdN_I)
+
+**Jesús como verdadero pan del cielo (JdN_I, cap. 4):** El discurso sobre el pan de Cafarnaún (Jn 6) se sitúa en la comparación entre Moisés y Jesús: Jesús es el Moisés definitivo y más grande. Moisés había dado el maná —pan del cielo—, pero este era pan de la tierra que se acabó al salir del desierto. La teología judía había reconocido que el verdadero pan del cielo es la Torá, la palabra de Dios. Pero Jesús va más allá: «Yo soy el pan de vida. El que viene a mí no pasará hambre, y el que cree en mí no pasará nunca sed» (Jn 6,35). «La Ley se ha hecho Persona. En el encuentro con Jesús nos alimentamos, por así decirlo, del Dios vivo, comemos realmente el "pan del cielo"».
+
+**Encarnación y cruz en la Eucaristía (JdN_I, cap. 4):** El sermón eucarístico de Juan orienta el gran movimiento de la encarnación y del camino pascual hacia el sacramento: «su carne es vida "para" el mundo» (6,51). «Aquí no sólo resulta evidente la referencia a la Eucaristía, sino que además se perfila aquello en que se basa: el sacrificio de Jesús que derrama su sangre por nosotros y, de este modo, sale de sí mismo, por así decirlo, se derrama, se entrega a nosotros.» La teología de la encarnación y la teología de la cruz se entrecruzan: «No se puede oponer la teología pascual de los sinópticos y de san Pablo a una teología supuestamente pura de la encarnación en san Juan.»
+
+**El grano de trigo que muere (JdN_I, cap. 4):** «Si el grano de trigo no cae en tierra y muere, queda infecundo; pero, si muere, da mucho fruto» (Jn 12,24). El pan presupone que la semilla ha caído en la tierra, «ha muerto», y que de su muerte ha crecido la nueva espiga. El pan terrenal puede llegar a ser portador de la presencia de Cristo porque lleva en sí mismo el misterio de la pasión: «reúne en sí muerte y resurrección». La Didaché (c. 100 d.C.) implora sobre el pan eucarístico: «Como este pan partido estaba esparcido por las montañas y al ser reunido se hizo uno, que también tu Iglesia sea reunida de los extremos de la tierra en tu reino».
+
+**La vid y la Eucaristía (JdN_I, cap. 4):** En la Última Cena, tras hablar de la vid, Jesús alude tácitamente al vino nuevo, al que ya se había referido en Caná y que Él nos regala: el vino que vendría de su pasión, de su amor «hasta el extremo» (Jn 13,1). «La imagen de la vid tiene un trasfondo eucarístico; hace alusión al fruto que Jesús trae: su amor que se entrega en la cruz, que es el vino nuevo y selecto reservado para el banquete nupcial de Dios con los hombres.»
+
+**Caná como anticipación eucarística (JdN_I, cap. 4):** El milagro de Caná es una anticipación de la hora de Jesús: la sobreabundancia de vino es signo de que ha comenzado la fiesta de Dios con la humanidad. «Así como Jesús, ante el ruego de su madre, anticipa simbólicamente su hora y, al mismo tiempo, se remite a ella, lo mismo ocurre siempre de nuevo en la Eucaristía: ante la oración de la Iglesia, el Señor anticipa en ella su segunda venida, viene ya, celebra ahora la boda con nosotros, nos hace salir de nuestro tiempo lanzándonos hacia aquella "hora"».
+
 ## Distinciones importantes
 
 - **Transubstanciación**: cambio de sustancia, permaneciendo los accidentes
@@ -359,3 +371,4 @@ Thomas O'Loughlin (2017) trata la Eucaristía como el caso paradigmático de lo 
 - [SFrAs, CFi. 25, 27 — Adoración y comunión]
 - [SFrAs, Cust. 14-15 — Comunión necesaria]
 - [SFrAs, Laud. 21 — Pan cotidiano como Cristo]
+- [JdN_I, cap. 4]

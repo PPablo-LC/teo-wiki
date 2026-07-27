@@ -3,7 +3,7 @@ type: Concepto Teológico
 title: Bautismo
 tags: ["sacramental"]
 
-timestamp: 2026-06-21
+timestamp: 2026-07-25
 description: "El bautismo es el primer sacramento de la Nueva Ley, instituido por Nuestro Señor Jesucristo, que purifica al hombre del pecado original y de todos los pecados actuales."
 ---
 # Bautismo
@@ -220,6 +220,16 @@ El **Papa Benedicto XII** (1341), al responder a los errores de los armenios (D-
 
 **Pío VI** (1794, D‑1527) — Constitución *Auctorem Fidei*. Condenó como «temeraria, contraria a la práctica, a la ley y a la autoridad de la Iglesia» la deliberación del Sínodo de Pistoya que, bajo pretexto de adherirse a los antiguos cánones, declaraba su propósito, en caso de bautismo dudoso, de omitir la mención de la forma condicional. La condena reafirma la necesidad de la forma condicional en el bautismo dudoso, conforme a la práctica constante de la Iglesia.
 
+### Según Benedicto XVI (JdN_I)
+
+**Agua y bautismo como renacimiento (JdN_I, cap. 4):** En la conversación con Nicodemo (Jn 3,5), el agua simboliza el renacimiento necesario para entrar en el Reino de Dios. Benedicto XVI cita a Photina Rech: el agua «elevada en el sacramento mediante la gracia a imagen gemela de la Theotokos virginal» representa el «seno materno de la Iglesia que acoge y acepta». Tertuliano afirma: «Nunca había Cristo sin el agua» — lo que significa: «Nunca estuvo ni está Cristo sin la Iglesia». Espíritu y agua, cielo y tierra, Cristo e Iglesia van unidos: de esta manera se produce el «renacer».
+
+**Agua viva de las entrañas del creyente (JdN_I, cap. 4):** En la fiesta de las Tiendas, «el último día, el más solemne», Jesús en pie gritaba: «El que tenga sed, que venga a mí; el que cree en mí que beba» (Jn 7,37-38). El rito de la fiesta consistía en tomar agua de la fuente de Siloé y llevar una ofrenda de agua al templo; en el séptimo día los sacerdotes daban siete vueltas al altar antes de derramar el agua. El agua de la roca en el desierto se había convertido en tema de esperanza mesiánica: se esperaba del nuevo Moisés pan del cielo y agua de la roca. Jesús responde a esa esperanza presentándose como la roca viva, el agua nueva.
+
+**Sangre y agua del costado (JdN_I, cap. 4):** Al final de la pasión, «uno de los soldados con una lanza le traspasó el costado, y al punto salió sangre y agua» (Jn 19,34). Benedicto XVI afirma: «No cabe duda de que aquí Juan quiere referirse a los dos principales sacramentos de la Iglesia —Bautismo y Eucaristía—, que proceden del corazón abierto de Jesús y con los que, de este modo, la Iglesia nace de su costado.» En la Primera Carta de Juan (1 Jn 5,6-8), el testimonio del Espíritu, el agua y la sangre se oponen a un cristianismo que solo quiere la palabra pero no la carne y la sangre: «lo que queda del cristianismo es sólo "agua": la palabra sin la corporeidad de Jesús pierde toda su fuerza».
+
+**El bautismo de Jesús en el Jordán como descenso a la muerte (JdN_I, cap. 4):** El simbolismo del curso de agua muestra que con su profundidad representa el peligro; el descenso a la profundidad puede significar el descenso a la muerte, y el salir de ella simboliza un renacer. El paso del mar Rojo se convierte en imagen del misterio de la cruz: «Para volver a nacer, el hombre tiene que entrar primero con Cristo en el "mar Rojo", descender con El hasta la muerte, para luego volver de nuevo a la vida con el Resucitado.»
+
 ### Según la IGMR (2000)
 
 Todo bautizado tiene derecho y obligación a participar plenamente en la liturgia en virtud del sacramento del bautismo; la participación plena, consciente y activa es exigida por la naturaleza misma de la liturgia (§386).
@@ -264,3 +274,4 @@ Todo bautizado tiene derecho y obligación a participar plenamente en la liturgi
 - SmTh IIIª q.39 a.1-8
 - SmTh IIIª q.66 a.1-12; q.67 a.1-8; q.68 a.1-12; q.69 a.1-10; q.70 a.1-4; q.71 a.1-4
 - [VJ, Cap. VIII]
+- [JdN_I, cap. 4]

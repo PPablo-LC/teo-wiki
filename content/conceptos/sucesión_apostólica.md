@@ -1,64 +1,70 @@
 ---
-type: Concepto Teológico
+type: "Concepto Teológico"
 title: "Sucesión apostólica"
-description: "La Iglesia conserva y transmite el depósito de la fe recibida de los Apóstoles mediante la sucesión episcopal"
+description: "Principio teológico e histórico según el cual la autoridad de la Iglesia se transmite de los apóstoles a través de una cadena ininterrumpida de obispos, y sirve como criterio de autenticidad de los escritos cristianos primitivos."
+timestamp: "2026-07-24"
 tags:
   - eclesiología
-  - tradición
-  - magisterio
-timestamp: 2026-07-17
+  - historia_de_la_iglesia
+  - autoridad
+  - evangelios
 ---
 
-> Área: Conceptos
-> Última actualización: 2026-07-17
+> Área: Eclesiología / Historia de la Iglesia
+> Última actualización: 2026-07-24
 
 ## Definición
 
-La sucesión apostólica es la transmisión ininterrumpida del ministerio episcopal desde los Apóstoles hasta nuestros días, garantizando la continuidad de la enseñanza y la legitimidad de la sacramentalidad en la Iglesia.
+La sucesión apostólica (*successio apostolorum*) es el principio según el cual la autoridad enseñante de la Iglesia se transmite de los apóstoles a sus sucesores (los obispos) a través de una cadena ininterrumpida de imposición de manos. En el contexto de la autoría de los Evangelios, la sucesión apostólica funciona como criterio de autenticidad para distinguir los escritos legítimos de las falsificaciones heréticas.
 
 ## Desarrollo doctrinal
 
-Los Obispos, como sucesores de los Apóstoles, reciben de Cristo la misión de enseñar, santificar y gobernar. Esta sucesión no es solo histórica, sino ontológica: configura al Obispo con Cristo Pastor y garantiza la fidelidad al depósito de la fe.
+### Criterio de autenticidad (Eusebio de Cesárea)
 
-## Perspectivas por fuente
+Eusebio estableció que la sucesión apostólica es el criterio fundamental para distinguir los Evangelios auténticos de los apócrifos:
 
-### Catecismo de la Iglesia Católica (CEC)
+> «A ninguno de estos ha pensado jamás en referirse ninguno de los que pertenecen a la sucesión de los escritores eclesiásticos.»
+> — Eusebio, *Hist. Ecl.* 3.25.6
 
-- **§860-862**: El Obispo como sucesor de los Apóstoles.
-- **§869-870**: La Iglesia apostólica y la sucesión episcopal.
+### Aplicación al caso de los Evangelios
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+1. **Los cuatro Evangelios canónicos**: Fueron aceptados universalmente por las iglesias fundadas por los obispos en sucesión apostólica (Roma, Antioquía, Éfeso, Alejandría, etc.).
 
-El autor destaca que:
+2. **Los evangelios apócrifos**: Fueron rechazados porque ninguna iglesia en sucesión apostólica los reconoció. Aparecen tardíamente (siglos II-VII) y se asocian con movimientos heréticos (gnosticismo, maniqueísmo).
 
-- La Iglesia conserva y transmite el depósito de la fe recibida de los Apóstoles.
-- La sucesión apostólica garantiza la continuidad de la enseñanza y la legitimidad de la sacramentalidad.
-- El ministerio episcopal es continuación del ministerio apostólico.
-- La unidad de la Iglesia se fundamenta en la sucesión apostólica.
+3. **Testimonio de los Padres**: Papías, Ireneo, Clemente, Justino — todos escriben desde comunidades en sucesión apostólica y confirman la autoría de los cuatro Evangelios.
 
-### Concilio Vaticano II (ConcVatII)
+### La sucesión como criterio histórico
 
-- **Lumen Gentium, nn. 20-22**: La naturaleza del ministerio episcopal y su sucesión.
+- No es un criterio teológico circular, sino histórico: las iglesias fundadas por los apóstoles reconocieron ciertos escritos y rechazaron otros.
+- La unanimidad geográfica (desde Roma hasta Siria, desde Galia hasta Egipto) confirma la autenticidad.
+- Los apócrifos no tienen punto de origen en iglesias apostólicas.
 
 ## Distinciones importantes
 
-- **Sucesión apostólica vs. primacía petrina**: La sucesión se refiere al colegio episcopal; la primacía se refiere al Obispo de Roma.
-- **Sucesión apostólica vs. tradición**: La sucesión es la cadena de transmisión del ministerio; la tradición es el contenido de la fe transmitida.
+- La sucesión apostólica no garantiza la infalibilidad individual de cada obispo, sino la fidelidad de la enseñanza de la Iglesia.
+- El criterio de sucesión es complementario al de la evidencia manuscrita y al análisis interno del texto.
+- La sucesión apostólica no es exclusiva de la Iglesia católica; también es aceptada por las Iglesias ortodoxas.
 
 ## Relaciones doctrinales
 
-- [[iglesia_sacramento_universal]] — La Iglesia se mantiene viva por la sucesión apostólica
-- [[comunión_eclesial]] — La sucesión apostólica garantiza la comunión
-- [[magisterio]] — El magisterio se ejerce en virtud de la sucesión apostólica
+- [[autoría_de_los_evangelios]] — La sucesión como criterio de autenticidad.
+- [[evangelios_apócrifos]] — Rechazados por no tener sucesión apostólica.
+- [[eusebio_de_cesárea]] — Estableció el criterio.
+- [[autoridad_magisterial]] — La sucesión como fundamento de la autoridad enseñante.
 
 ## Ver también
 
-- [[iglesia_sacramento_universal]]
-- [[comunión_eclesial]]
-- [[magisterio]]
+- [[evangelios]]
+- [[autoría_de_los_evangelios]]
+- [[evangelios_apócrifos]]
+- [[eusebio_de_cesárea]]
+- [[papías_de_hierápolis]]
+- [[san_irineo_de_león]]
+- [[the_case_for_jesus]]
 
 ## Referencias
 
-- CEC, nn. 860-862, 869-870
-- LG, nn. 20-22
-- Ele_Xto_Stos, Cap. I, §1b
+- Eusebio, *Hist. Ecl.* 3.25.6-7.
+- Ireneo, *Contra las Herejías* 1.1.1.
+- *The Case for Jesus* (CfJ), Sesión 2, líneas [00:02:00]–[00:32:57].

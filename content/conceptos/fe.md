@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Fe
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-06-28
+timestamp: 2026-07-25
 description: "La fe es la primera de las virtudes teologales, virtud infusa sobrenatural por la que creemos firmemente todas las verdades que Dios ha revelado y la Iglesia nos propone para creer."
 ---
 # Fe
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-06-28
+> Última actualización: 2026-07-25
 
 ## Definición
 
@@ -96,6 +96,12 @@ El **Concilio de Trento** (Sesión VI) enseñó que la fe es «el principio de l
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 La fe es la fuente de toda la vida religiosa [VocTeoBib, «Fe»]. Abraham, «padre de todos los creyentes» (Rom 4,11), es el tipo del creyente que cree en Dios contra toda esperanza (Gen 15,6). En el AT, la fe de Israel respondía al designio de la alianza, pero fue puesta a prueba por la idolatría, el formalismo y el exilio. Los profetas —especialmente Isaías— proclamaron la fe como única salvación (Is 7,4-9; 30,15). La fe se profundizó en la persecución hasta esperar la resurrección (2Mac 7; Dan 12,2s). En el NT, Jesús pide fe en su persona (Mc 1,15) y Pedro confiesa «Tú eres el Cristo» (Mt 16,16). La fe pascual en la resurrección constituye la fe de la Iglesia (Act 2,33-36). Pablo formula la justificación por la fe sin las obras de la ley (Rom 3,28; Gal 2,16): la salvación es gracia recibida por la fe (Rom 4,4-8), que actúa por el amor (Gal 5,6). Juan presenta la fe centrada en Jesús y su gloria divina (Jn 20,30s); el que cree posee ya la vida eterna (Jn 3,16; 6,47).
+
+### Según Benedicto XVI (JdN_I)
+
+**Fe vs. evidencia empírica (JdN_I, cap. 3, parábola del rico epulón y Lázaro):** La parábola del rico epulón y el pobre Lázaro introduce la cuestión de la petición de pruebas como problema fundamental de la fe. El rico, desde el Hades, pide a Abraham que mande a Lázaro «desde el más allá» para convencer a sus hermanos. La respuesta de Abraham es categórica: «Quien no crea en la palabra de la Escritura tampoco creerá a uno que venga del más allá» (Lc 16, 31). Benedicto XVI formula el principio: «Las verdades supremas no pueden someterse a la misma evidencia empírica que, por definición, es propia sólo de las cosas materiales» (JdN_I, p. 146).
+
+**La resurrección como signo supremo de fe:** La parábola anticipa el misterio de Lázaro de Betania (Jn 11), cuya resurrección no conduce a la fe sino al endurecimiento del Sanedrín: el milagro no genera fe cuando el corazón está cerrado. La señal de Dios para los hombres es el Hijo del hombre mismo, «el signo de Jonás» (Mt 12, 39-40), es decir, su misterio pascual de muerte y resurrección. En la cruz se descifran las parábolas: la fe no se funda en evidencias experimentales sino en el encuentro con la persona de Cristo.
 
 ## Relaciones doctrinales
 

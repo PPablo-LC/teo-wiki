@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Trinidad
 tags: ["dogmática"]
 
-timestamp: 2026-07-01
+timestamp: 2026-07-25
 description: "Misterio central de la fe cristiana: un solo Dios en tres Personas distintas —Padre, Hijo y Espíritu Santo—, consubstanciales e indivisibles."
 ---
 # Trinidad
 
 > Área: Dogmática
-> Última actualización: 2026-07-01
+> Última actualización: 2026-07-25
 
 ## Definición
 Misterio central de la fe cristiana: un solo Dios en tres Personas distintas —Padre, Hijo y Espíritu Santo—, consubstanciales e indivisibles. Es el misterio de Dios en sí mismo, fuente de todos los otros misterios de la fe.
@@ -54,6 +54,18 @@ Condenó (D-705) a Sabelio (que confunde las personas), a los arrianos, eunomian
 ### Según CJeS (1987-1988)
 
 Juan Pablo II muestra que Jesús revela la Trinidad. En la Anunciación se manifiestan las tres Personas: el Padre envía al Hijo, que es concebido por obra del Espíritu Santo en el seno de María (Lc 1,35; CJeS, primera parte). En el Bautismo de Jesús, la teofanía trinitaria es manifiesta: el Padre habla desde el cielo, el Hijo es bautizado, el Espíritu Santo desciende en forma de paloma (CJeS, tercera parte: catequesis sobre el Bautismo de Jesús). Jesús revela la intimidad del Padre: «Nadie conoce al Hijo sino el Padre, ni al Padre conoce nadie sino el Hijo, y aquel a quien el Hijo se lo quiera revelar» (Mt 11,27). «Yo y el Padre somos una sola cosa» (Jn 10,30). La oración sacerdotal (Jn 17) manifiesta la comunión trinitaria y la misión del Hijo. Jesús promete el Espíritu Santo, el Paráclito, que procede del Padre (Jn 14,16-17.26; 15,26; CJeS, tercera parte). La fórmula bautismal trinitaria (Mt 28,19) sella la revelación del Dios Trino (CJeS, tercera parte: catequesis sobre la revelación de la Trinidad).
+
+### Según Benedicto XVI (JdN_I)
+
+**Unidad de conocimiento y voluntad entre Padre e Hijo (JdN_I, cap. 7):** La exclamación de júbilo de Jesús (Mt 11, 25-27 / Lc 10, 21-22) revela la intimidad trinitaria: «Nadie conoce al Hijo más que el Padre; y nadie conoce al Padre sino el Hijo y aquel a quien el Hijo se lo quiera revelar». Solo el Hijo conoce al Padre realmente, pues el conocer comporta igualdad ontológica. La unidad del conocimiento solo es posible porque hay unidad en el ser: «la unidad del conocer sólo es posible porque hay unidad en el ser» (JdN_I, p. 64). La voluntad del Hijo es una sola cosa con la voluntad del Padre: en el monte de los Olivos, Jesús toma su voluntad humana y la introduce en su voluntad filial, incluyéndola en la unidad de voluntad con el Padre.
+
+**El título «Hijo» y la oración Abbá:** El simple título «el Hijo» (sin añadiduras) es exclusive de Jesús. Le corresponde el apelativo de oración «Abbá» (Mc 14, 36). La oración de Jesús es el verdadero origen de la expresión «el Hijo». Pablo nos dice que los cristianos, gracias a la participación en el Espíritu de Hijo, están autorizados a decir «Abbá, Padre» (Rm 8, 15; Ga 4, 6). Este nuevo modo de rezar solo es posible a partir de Jesús, el Unigénito.
+
+**«Yo soy» como autodesignación divina (JdN_I, cap. 7,3):** Las palabras «Yo soy» de Jesús retoman la historia de la zarza ardiente (Éx 3, 14: «Soy el que soy») y de Isaías (43, 10: «Yo soy YHWH»). Cuando Jesús dice «Yo soy» refiere a sí mismo toda esta historia de la revelación del nombre divino. Con ello muestra su unicidad: en Él está presente personalmente el misterio del único Dios. «El Padre y yo somos uno» (Jn 10, 30). La cruz es la suprema instancia de revelación del «Yo soy»: en la cruz, Jesús se encuentra a la «altura» de Dios, que es Amor.
+
+**Unidad Padre-Hijo en la oración sacerdotal (Jn 17):** Jesús describe su relación con el Padre: «Todo lo mío es tuyo, y todo lo tuyo es mío» (Jn 17, 10). El «dar» del Padre se consuma en el amor del Hijo «hasta el extremo» (Jn 13, 1), esto es, hasta la cruz. El misterio de amor trinitario que se perfila en la palabra «Hijo» es uno con el misterio de amor en la historia que se cumple en la Pascua de Jesús.
+
+**El homooúsios de Nicea (JdN_I, cap. 7,4):** El primer Concilio de Nicea (325 d.C.) utilizó el término «consustancial» (homooúsios) para proteger la novedad de la revelación cristiana de las interpretaciones mítico-politeístas y políticas. Este término «no ha helenizado la fe, no la sobrecarga con una filosofía ajena, sino que ha permitido fijar lo incomparablemente nuevo y diferente que había aparecido en los diálogos de Jesús con el Padre» (JdN_I, p. 75). En el Credo de Nicea, la Iglesia dice siempre de nuevo a Jesús, con Pedro: «Tú eres Cristo, el Hijo de Dios vivo» (Mt 16, 16).
 
 ### Según el Compendio (CompDS)
 
