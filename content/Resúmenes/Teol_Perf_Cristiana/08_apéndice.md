@@ -100,3 +100,7 @@ Complemento indispensable de la dirección espiritual para saber si un alma est�
 ## Referencias
 
 S. Th. I-II, qq. 19, 109; II-II, qq. 23, 47, 88, 168, 182, 186, 188. Santo Tomás, _Ad Romanos_ c.8. S. Ignacio de Loyola, _Ejercicios espirituales_. S. Francisco de Sales, _Introducción a la vida devota_, _Tratado del amor de Dios_. S. Teresa de Jesús, _Vida_, _Camino de perfección_, _Moradas_, _Fundaciones_. S. Juan de la Cruz, _Subida del Monte Carmelo_, _Noche oscura_, _Llama de amor viva_. Tomás de Kempis, _Imitación de Cristo_. Scaramelli, _Directorio ascético_, _Discernimiento de los espíritus_. Tanquerey, _Teología ascética y mística_. Garrigou-Lagrange, _Tres edades_, _La Providencia y la confianza en Dios_. De Guibert, _Theologia spiritualis_. Lallemant, _La doctrine spirituelle_. Lehodey, _El santo abandono_. Tissot, _La vida interior simplificada_. Pío XII, _Mystici Corporis_. Concilio Vaticano II, _Lumen Gentium_. León XIII, _Testem benevolentiae_.
+
+## Ver también
+
+[[teología_de_la_perfección_cristiana]]

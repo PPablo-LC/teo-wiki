@@ -110,3 +110,7 @@ Se enumeran once fenómenos: estigmatización, lágrimas/sudor de sangre, renova
 **1) La estigmatización.** Aparición espontánea de las llagas de Cristo en manos, pies y costado. Primer caso: San Francisco de Asís (1224). El Dr. Imbert señala 321 casos documentados. Explicación racionalista (imaginación exaltada, neurosis, histeria) refutada: los estigmas aparecen en lugares precisos, no supuran, producen hemorragias abundantes, no se curan con remedios, no se deseaban sino que espantaban a quienes los recibían. Explicación católica: no entran en el desarrollo normal de la gracia (no todos los santos los tienen), pero tampoco son pura gracia gratis dada porque son altamente santificadores. Ocupan un término medio. Se producen por intervención milagrosa directa de Dios (instantaneidad, escasez relativa entre los santos). Posible estigmatización diabólica (Satanás puede producirla, distinguiéndose por los frutos malos que produce).
 
 **2) Las lágrimas y el sudor de sangre.** El prototipo es Cristo en Getsemaní (Lc 22,44). Casos históricos posteriores: Santa Lutgarda, Catalina Putigny, etc. Explicación: la ciencia reconoce la hematidrosis como fenómeno fisiológico excepcional. En los santos, el fenómeno no coincide con períodos fisiológicos sino con momentos litúrgicos, lo que sugiere causa sobrenatural. Se cataloga entre las gracias gratis dadas cuando es sobrenatural.
+
+## Ver también
+
+[[teología_de_la_perfección_cristiana]]

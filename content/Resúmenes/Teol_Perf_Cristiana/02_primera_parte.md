@@ -71,3 +71,7 @@ Expone el papel de María en la santificación. **Fundamento**: la maternidad di
 ## CAPITULO V — La Iglesia, Cuerpo místico de Cristo
 
 La Iglesia es el Cuerpo místico de Cristo, doctrina expuesta por San Pablo (1 Cor 12,12-28). **Cristo es la Cabeza**: por su excelencia, gobierno, mutua necesidad, semejanza de naturaleza, plenitud de dones e influjo santificador. **El cristiano es miembro**: incorporado por el bautismo, vive de la savia de Cristo. La Iglesia es una, visible, orgánica, jerárquica, provista de sacramentos. El Espíritu Santo es el alma del Cuerpo místico. La unión de los fieles con Cristo es real por la gracia, y la Iglesia peregrina tiende hacia la Iglesia celestial. La exhortación pastoral invita a vivir conscientemente esta condición de miembros del Cuerpo de Cristo, laborando en la salvación propia y ajena.
+
+## Ver también
+
+[[teología_de_la_perfección_cristiana]]

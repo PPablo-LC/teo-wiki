@@ -10,6 +10,8 @@ tags: ["resumen", "teol_perf_cristiana", "virtudes", "dones_del_Espíritu_Santo"
 
 # Tercera Parte - Libro II cap II - Las virtudes y dones
 
+📄 **Fuente original:** `08_Teología_de_la_Perfección_Cristiana_-_Royo_Marín_OP_-_Tercera_Parte_-_Libro_II_cap_II_-_Las_virtudes_y_dones.md`
+
 ## Conceptos básicos referenciados
 
 [[virtud teologal]], [[virtud cardinal]], [[fe]], [[esperanza]], [[caridad]], [[don de entendimiento]], [[don de ciencia]], [[don de temor]], [[prudencia]], [[don de consejo]], [[justicia]], [[fortaleza]], [[don de fortaleza]], [[templanza]], [[don de piedad]], [[don de sabiduría]], [[bienaventuranzas]], [[frutos del Espíritu Santo]], [[contemplación infusa]], [[fe pura]], [[vía ascética]], [[vía mística]]
@@ -83,3 +85,7 @@ Hábito sobrenatural por el que el justo, bajo el instinto del Espíritu Santo, 
 #### El don de piedad
 
 [El don de piedad perfecciona la virtud de la templanza, aunque también influye en la justicia (culto a Dios). Es un hábito sobrenatural por el que el alma, bajo la moción del Espíritu Santo, siente hacia Dios un amor filial y tierno, viéndolo como Padre, y hacia el prójimo una benevolencia fraterna. Produce una dulzura y suavidad especial en el trato con Dios y con los hombres. Bienaventuranza correspondiente: «Bienaventurados los mansos, porque ellos poseerán la tierra». Este don hace al alma verdaderamente filial, confiada y abandonada en las manos de Dios.]
+
+## Ver también
+
+[[teología_de_la_perfección_cristiana]]

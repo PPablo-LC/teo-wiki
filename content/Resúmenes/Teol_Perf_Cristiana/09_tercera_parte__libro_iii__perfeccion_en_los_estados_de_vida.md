@@ -110,3 +110,7 @@ Definición negativa: fieles cristianos que no son clérigos ni religiosos. Defi
 ## Referencias
 
 Concilio Vaticano II, _Lumen Gentium_ n.30-38, 43-47; _Presbyterorum Ordinis_; _Apostolicam Actuositatem_. Pío XI, _Ad catholici sacerdotii_. Pío XII, _Menti nostrae_. S. Th. II-II, qq. 186, 188; III, q. 63, a. 3; I-II, q. 28, a. 4. Dom Columba Marmion, _Jesucristo, ideal del sacerdote_, _Jesucristo, ideal del monje_. P. Congar, _Jalones para una teología del laicado_. P. Marchetti, _Spiritualità e stati di vita_. P. Sauras, _Santidad sacerdotal y apostolado_. Cardenal Suhard, _El sacerdote en el mundo_. P. Llamera, _Obligación de la perfección en el estado religioso_. P. Gambarri, _La vida común_. Código de Derecho Canónico, cc. 124, 487, 519-523, 530, 593-594, 611, 892.
+
+## Ver también
+
+[[teología_de_la_perfección_cristiana]]

@@ -92,3 +92,7 @@ Royo Marín defiende la posición tomista: la mística no es algo extraordinario
 ## CAPITULO IV — Relaciones entre la perfección y la mística
 
 No hay dos caminos separados (ascético y místico), sino un único camino de perfección que integra ambos. La ascética prepara y dispone para la mística; la mística perfecciona y consuma la ascética. La distinción es gradual, no esencial. Todo cristiano llamado a la santidad está llamado también al desarrollo de la vida mística en la medida en que los dones del Espíritu Santo actúen en su alma eliminando las resistencias humanas.
+
+## Ver también
+
+[[teología_de_la_perfección_cristiana]]

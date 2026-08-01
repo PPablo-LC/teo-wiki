@@ -10,6 +10,8 @@ tags: ["resumen", "teol_perf_cristiana", "teología_ascética", "teología_moral
 
 # Tercera Parte
 
+📄 **Fuente original:** `06_Teología_de_la_Perfección_Cristiana_-_Royo_Marín_OP_-_Tercera_Parte_-_Libro_I_-_Aspecto_negativo_de_la_vida_cristiana.md`
+
 ## Conceptos básicos referenciados
 
 [[pecado mortal]], [[pecado venial]], [[imperfección]], [[mundo]], [[demonio]], [[tentación]], [[obsesión diabólica]], [[posesión diabólica]], [[carne]], [[concupiscencia]], [[purificación activa]], [[purificación pasiva]], [[noche del sentido]], [[noche del espíritu]], [[vía purgativa]], [[vía iluminativa]], [[vía unitiva]], [[gracia santificante]], [[virtudes infusas]], [[dones del Espíritu Santo]], [[caridad]], [[respeto humano]], [[oración]], [[dirección espiritual]]
@@ -101,3 +103,7 @@ Se estudia la acción diabólica en sus tres formas: tentación, obsesión y pos
 ### ARTICULO 3 — La Noche Del Espíritu
 
 [La noche del espíritu es la purificación pasiva más profunda y dolorosa, en la que Dios purifica la parte superior del alma —el entendimiento, la memoria y la voluntad— y las virtudes teologales. Royo Marín describe sus terribles sufrimientos (oscuridad intelectual, angustia espiritual, sensación de abandono), su necesidad para la unión transformante y los frutos de santidad que produce. Es la puerta de entrada a la unión perfecta con Dios.]
+
+## Ver también
+
+[[teología_de_la_perfección_cristiana]]

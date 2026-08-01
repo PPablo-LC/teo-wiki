@@ -80,3 +80,7 @@ Perfume suave que emana del cuerpo de los santos o de sus sepulcros. Casos: San 
 En esta cuarta parte se ha querido esclarecer el campo de la Mística más perseguido por los incrédulos y racionalistas. A lo largo del estudio, y a pesar de admitir toda explicación verdaderamente científica que pudiera dar razón de estos fenómenos sin salir del orden natural, se ha demostrado que la naturaleza francamente prodigiosa de multitud de hechos plenamente comprobados exige el recurso a lo sobrenatural como única explicación posible.
 
 Más allá del orden natural existe todo un mundo de realidades sobrenaturales que se imponen por su propia trascendencia. Dios, que es grande y admirable como Autor del orden natural, se muestra todavía más grande como Autor del orden sobrenatural, derrochando los tesoros de su bondad y sabiduría infinitas sobre las almas y los cuerpos de sus amigos. La **llamada universal a la santidad**, tema vertebral de toda la obra, se confirma así incluso en los fenómenos más extraordinarios: Dios no niega a nadie los medios necesarios para la santidad, aunque reserve sus manifestaciones portentosas a quienes libremente quiere.
+
+## Ver también
+
+[[teología_de_la_perfección_cristiana]]

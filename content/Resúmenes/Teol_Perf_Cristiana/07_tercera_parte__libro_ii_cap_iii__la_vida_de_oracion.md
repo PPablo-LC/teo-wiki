@@ -65,3 +65,7 @@ Breve introducción: tras los medios fundamentales (_ex opere operato_ y _ex ope
 ## Referencias
 
 Denzinger (D 804, 805, 825, 826, 833, 941, 950, 952, 984, 998). S. Th. II-II, qq. 83, 180-182; I-II, q. 69, a. 2; III, q. 69, a. 8; III, Suppl. q. 72. S. Alfonso de Ligorio, _Del gran medio de la oración_. S. Francisco de Sales, _Tratado del amor de Dios_, _Introducción a la vida devota_. S. Teresa de Jesús, _Moradas_, _Vida_, _Camino de perfección_. S. Juan de la Cruz, _Cántico espiritual_, _Noche oscura_, _Subida del Monte Carmelo_, _Llama de amor viva_. Pío XII, _Mediator Dei_, _Mystici Corporis_. Concilio Vaticano II, _Sacrosanctum Concilium_. P. Arintero, _Grados de oración_, _Cuestiones místicas_. P. Poulain, _Des grâces d'oraison_. Dom Marmion, _Jesucristo, ideal del monje_. P. Garrigou-Lagrange, _Perfection et contemplation_. Tanquerey, _Teología ascética y mística_.
+
+## Ver también
+
+[[teología_de_la_perfección_cristiana]]

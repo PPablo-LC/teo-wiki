@@ -58,3 +58,7 @@ Presenta la **división de la obra** en cuatro partes:
 4. **Cuarta parte**: Los fenómenos místicos extraordinarios.
 
 Compara su división con las de otros autores (De Guibert, Schrijvers, Tanquerey, Garrigou-Lagrange, Crisógono), mostrando que todas coinciden en lo substancial.
+
+## Ver también
+
+[[teología_de_la_perfección_cristiana]]

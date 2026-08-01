@@ -34,21 +34,21 @@ El manual de Royo Marín es la obra de referencia en lengua española para la te
 
 ## Resúmenes
 
-Los resúmenes estructurados de la obra están en `wiki/Resúmenes/Teol_Perf_Cristiana/`:
+Los resúmenes estructurados de la obra están en `wiki/Resúmenes/Teol_Perf_Cristiana/`, con un archivo por sección principal:
 
 | # | Archivo | Contenido |
 |---|---------|-----------|
-| 01 | [[01_resumen_históricobibliográfico]] | Prólogo, introducción histórica, plan de la obra |
-| 02 | [[02_primera_parte]] | Principios fundamentales (fin, Trinidad, Cristo, María, Iglesia) |
-| 03 | [[03_segunda_parte]] | Organismo sobrenatural (gracia, virtudes, dones, perfección, mística) |
-| 04 | [[04_tercera_parte]] | Libro I — Vías purgativa, iluminativa, unitiva |
-| 05 | [[05_tercera_parte__libro_ii_cap_i__los_sacramentos]] | Libro II cap. I — Sacramentos |
-| 06 | [[06_tercera_parte__libro_ii_cap_ii__las_virtudes_y_dones]] | Libro II cap. II — Virtudes y dones |
-| 07 | [[07_tercera_parte__libro_ii_cap_iii__la_vida_de_oracion]] | Libro II cap. III — Vida de oración |
-| 08 | [[08_apéndice]] | Libro II caps. IV-V + Apéndice — Medios secundarios, discernimiento |
-| 09 | [[09_tercera_parte__libro_iii__perfeccion_en_los_estados_de_vida]] | Libro III — Perfección en estados sacerdotal, religioso, seglar |
-| 10 | [[10_cuarta_parte]] | Cuarta Parte cap. I — Fenómenos cognoscitivos y afectivos |
-| 11 | [[11_cuarta_parte__cap_ii__fenomenos_corporales_y_conclusion]] | Cuarta Parte cap. II — Fenómenos corporales y conclusión |
+| 01 | [[01_resumen_históricobibliográfico]] | Prólogo, fuentes, resumen histórico-bibliográfico, introducción general |
+| 02 | [[02_primera_parte]] | Principios fundamentales: gloria de Dios, Trinidad, inhabitación, configuración con Cristo, María, Iglesia Cuerpo místico |
+| 03 | [[03_segunda_parte]] | Organismo sobrenatural: gracia santificante, virtudes infusas, dones del Espíritu Santo, perfección cristiana y mística |
+| 04 | [[04_tercera_parte]] | Libro I — Aspecto negativo: pecado (mortal, venial, imperfección), lucha contra mundo, demonio y carne; purificaciones activas y pasivas |
+| 05 | [[05_tercera_parte__libro_ii_cap_i__los_sacramentos]] | Libro II cap. I — Leyes del desarrollo espiritual y los siete sacramentos como medios de santificación |
+| 06 | [[06_tercera_parte__libro_ii_cap_ii__las_virtudes_y_dones]] | Libro II cap. II — Virtudes teologales y cardinales con sus dones correspondientes |
+| 07 | [[07_tercera_parte__libro_ii_cap_iii__la_vida_de_oracion]] | Libro II cap. III — Oración en general, litúrgica y privada, grados ascéticos y místicos de oración |
+| 08 | [[08_apéndice]] | Libro II caps. IV-V — Medios secundarios internos y externos; Apéndice: discernimiento de espíritus |
+| 09 | [[09_tercera_parte__libro_iii__perfeccion_en_los_estados_de_vida]] | Libro III — Perfección en los estados sacerdotal, religioso y seglar |
+| 10 | [[10_cuarta_parte]] | Cuarta Parte cap. I — Causas de fenómenos místicos (divina, natural, diabólica); fenómenos cognoscitivos, afectivos y corporales |
+| 11 | [[11_cuarta_parte__cap_ii__fenomenos_corporales_y_conclusion]] | Cuarta Parte cap. II — Fenómenos corporales extraordinarios y Conclusión: llamada universal a la santidad |
 
 ## Ver también
 

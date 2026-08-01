@@ -10,6 +10,8 @@ tags: ["resumen", "teol_perf_cristiana", "sacramentos", "teología_sacramental",
 
 # Tercera Parte - Libro II cap I - Los sacramentos
 
+📄 **Fuente original:** `07_Teología_de_la_Perfección_Cristiana_-_Royo_Marín_OP_-_Tercera_Parte_-_Libro_II_cap_I_-_Los_sacramentos.md`
+
 ## Conceptos básicos referenciados
 
 [[gracia santificante]], [[método]], [[mérito de condigno]], [[mérito de congruo]], [[oración]], [[virtud de la religión]], [[sacramento]], [[carácter sacramental]], [[sacerdocio de Cristo]], [[Bautismo]], [[Confirmación]], [[Eucaristía]], [[Penitencia]], [[Unción de los enfermos]], [[Orden sacerdotal]], [[Matrimonio]], [[gracia sacramental]], [[ex opere operato]], [[ex opere operantis]], [[virtudes infusas]], [[dones del Espíritu Santo]], [[contrición]], [[propósito de enmienda]], [[espíritu de compunción]], [[Santa Misa]], [[participación en el sacerdocio de Cristo]]
@@ -67,3 +69,7 @@ Royo Marín se centra en la confesión como medio de perfección. El sacramento 
 ### ARTICULO 8 — El Matrimonio
 
 [El Matrimonio es el sacramento que santifica la unión conyugal, elevándola a signo de la unión de Cristo con la Iglesia. Royo Marín expone su institución, los fines del matrimonio (procreación y educación de los hijos, ayuda mutua y remedio de la concupiscencia), la gracia conyugal (auxilios especiales para la fidelidad, el amor mutuo y la educación cristiana de los hijos) y las propiedades esenciales: unidad e indisolubilidad. Subraya que el matrimonio bien vivido es un camino de santificación para los esposos.]
+
+## Ver también
+
+[[teología_de_la_perfección_cristiana]]
