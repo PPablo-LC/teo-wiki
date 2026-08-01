@@ -7,8 +7,8 @@ description: "Registro de wikilinks sin artículo propio en el wiki. Última act
 # Auditoría de wikilinks huérfanos
 
 > Generado originalmente: 2026-06-19
-> Última actualización: 2026-07-16 (JdN_I Lote 3 completado — 4 artículos nuevos, 17 enriquecidos)
-> Total de wikilinks huérfanos actuales: 790 - 1 = 789 (resueltos: [[cristologia_joanica]] por [[cristología_joánica]])
+> Última actualización: 2026-08-01 (Resúmenes TDC 06-10 — 8 huérfanos sembrados, script ampliado a Resúmenes y enlaces con pipe)
+> Total de wikilinks huérfanos registrados: 798 (los 5 resueltos 2026-07-15 constan tachados)
 > Artículos creados 2026-07-15 (LC-Wik): 12 documentos Esp-LC-wiki/documentos + 32 conceptos Esp-LC-wiki/ y wiki/conceptos/cuerpo_místico_de_cristo y unión_con_cristo
 
 ## Metodología
@@ -720,8 +720,30 @@ vs guion bajo, o sinónimo reconocido).
 | 691 | ~~[[captación_de_líderes]]~~ | 1 | ✅ RESUELTO (Creado wiki/Espiritualidad_LC-wiki/captación_de_líderes.md 2026-07-15) |
 | 692 | ~~[[mística_legionaria]]~~ | 1 | ✅ RESUELTO (Creado wiki/Espiritualidad_LC-wiki/mística_legionaria.md 2026-07-15) |
 | 693 | ~~[[primer_grado_rc]]~~ | 1 | ✅ RESUELTO (Creado wiki/Espiritualidad_LC-wiki/primer_grado_rc.md 2026-07-15) |
+| 694 | `[[principio]]` | 8 | Miscelánea (534) |
+| 695 | `[[inocencia_original]]` | 6 | Miscelánea (534) |
+| 696 | `[[una_sola_carne]]` | 3 | Miscelánea (534) |
+| 697 | `[[dignidad_del_cuerpo]]` | 2 | Miscelánea (534) |
+| 698 | `[[soledad_original]]` | 2 | Miscelánea (534) |
+| 699 | `[[trascendentales_del_ser]]` | 2 | Miscelánea (534) |
+| 700 | `[[unidad_matrimonial]]` | 1 | Miscelánea (534) |
+| 701 | `[[principios_del_amor_humano]]` | 1 | Biblia (41) |
 
-**Total: 790 huérfanos pendientes**
+**Total: 798 huérfanos pendientes**
+
+## Notas de sesión
+
+- **2026-08-01 (Resúmenes TDC 06-10):** sembrados 8 huérfanos nuevos
+  (694-701) desde los resúmenes de la Teología del Cuerpo, para que al
+  crearlos se sepa dónde encontrar el contenido (varios ya tienen
+  referencias en otros artículos: `[[principio]]` 8, `[[inocencia_original]]` 6,
+  `[[una_sola_carne]]` 3 — buen potencial multi-fuente).
+- **2026-08-01 (script):** `detectar_huerfanos.py` ahora escanea también
+  `wiki/Resúmenes/` (recursivo) y extrae el nombre base de los enlaces con
+  pipe `[[a|b]]`, conforme a la metodología documentada. Los resúmenes se
+  cuentan como destinos existentes (no como artículos). Detección
+  actual: 926 huérfanos únicos — **re-auditoría integral pendiente** para
+  registrar los detectados fuera de esta sesión.
 
 ## Resueltos en esta sesión (LC-Wik)
 

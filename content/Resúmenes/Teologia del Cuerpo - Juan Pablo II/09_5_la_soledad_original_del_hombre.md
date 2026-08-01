@@ -12,9 +12,11 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-- [[soledad]] — «no es bueno que el hombre esté solo» (Gn 2,18)
+- [[soledad_original]] — «no es bueno que el hombre esté solo» (Gn 2,18)
+- [[soledad]] — concepto general en la tradición ascética
 - [[creación_del_hombre]] — relectura de Gn 1-2 en contexto más amplio
 - [[varón_y_mujer]] — ‘adam y ‘is: la soledad del «hombre» en cuanto tal
+- [[complementariedad]] — «una ayuda semejante a él» (Gn 2,18)
 - [[persona_humana]] — primer bosquejo de la persona con su subjetividad
 - [[dominio_sobre_la_creación]] — «trabajar la tierra» (Gn 2,5) y «sometedla» (Gn 1,28)
 - [[conciencia]] — autoconciencia como manifestación primitiva de humanidad
@@ -23,7 +25,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 
 ## Contenido
 
-Catequesis del 10 de octubre de 1979 (redactada el 14-X-79). Tras la conclusión introductoria sobre la creación del hombre como varón y mujer —el «principio» al que se refirió Jesús en la conversación sobre la [[indisolubilidad_del_matrimonio]] (Mt 19,3-9; Mc 10,1-12)—, hace falta leer de nuevo Gn 1 y 2 en un contexto más amplio, para establecer una serie de significados del texto antiguo. El tema es el significado de la [[soledad]] originaria del hombre.
+Catequesis del 10 de octubre de 1979 (redactada el 14-X-79). Tras la conclusión introductoria sobre la creación del hombre como varón y mujer —el «[[principio]]» al que se refirió Jesús en la conversación sobre la [[indisolubilidad_del_matrimonio]] (Mt 19,3-9; Mc 10,1-12)—, hace falta leer de nuevo Gn 1 y 2 en un contexto más amplio, para establecer una serie de significados del texto antiguo. El tema es el significado de la [[soledad_original|soledad originaria]] del hombre.
 
 ### «No es bueno que el hombre esté solo» (Gn 2,18)
 
@@ -35,7 +37,7 @@ El problema de la soledad se manifiesta únicamente en el segundo relato: en el 
 
 ### El contexto de la soledad: dominio, Edén y el «test» de los nombres
 
-La afirmación «no es bueno que el hombre esté solo» aparece no solo en el contexto inmediato de la decisión de crear a la mujer, sino en un contexto más amplio. El texto yahvista vincula la creación del hombre con la necesidad de «trabajar la tierra» (Gn 2,5), correspondiente a la vocación de someter y dominar la tierra (Gn 1,28); después habla del «jardín en Edén», introduciendo el estado de felicidad original. El hombre es objeto de la acción creadora de Dios-Yahvé, quien, como legislador, establece las condiciones de la primera [[alianza]] con el hombre. La subjetividad del hombre se subraya cuando Dios «trajo ante el hombre todos cuantos animales del campo y cuantas aves del cielo formó de la tierra, para que viese cómo las llamaría» (Gn 2,19): el significado primitivo de la soledad originaria queda definido mediante un «test» específico, un examen que el hombre sostiene frente a Dios (y en cierto modo frente a sí mismo), por el que toma conciencia de la propia superioridad: no puede ponerse al nivel de ninguna otra especie de seres vivientes. «Y dio el hombre nombre a todos los ganados...; pero entre todos ellos no había para el hombre ayuda semejante a él» (Gn 2,19-20).
+La afirmación «no es bueno que el hombre esté solo» aparece no solo en el contexto inmediato de la decisión de crear a la mujer («voy a hacerle una ayuda semejante a él», fundamento de la [[complementariedad]] varón-mujer), sino en un contexto más amplio. El texto yahvista vincula la creación del hombre con la necesidad de «trabajar la tierra» (Gn 2,5), correspondiente a la vocación de someter y dominar la tierra (Gn 1,28); después habla del «jardín en Edén», introduciendo el estado de felicidad original. El hombre es objeto de la acción creadora de Dios-Yahvé, quien, como legislador, establece las condiciones de la primera [[alianza]] con el hombre. La subjetividad del hombre se subraya cuando Dios «trajo ante el hombre todos cuantos animales del campo y cuantas aves del cielo formó de la tierra, para que viese cómo las llamaría» (Gn 2,19): el significado primitivo de la soledad originaria queda definido mediante un «test» específico, un examen que el hombre sostiene frente a Dios (y en cierto modo frente a sí mismo), por el que toma conciencia de la propia superioridad: no puede ponerse al nivel de ninguna otra especie de seres vivientes. «Y dio el hombre nombre a todos los ganados...; pero entre todos ellos no había para el hombre ayuda semejante a él» (Gn 2,19-20).
 
 ### En búsqueda de la propia definición
 

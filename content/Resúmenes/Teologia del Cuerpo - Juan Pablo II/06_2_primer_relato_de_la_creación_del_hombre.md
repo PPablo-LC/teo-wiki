@@ -20,10 +20,13 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[procreación]] — «procread y multiplicaos» (Gn 1,28)
 - [[varón_y_mujer]] — la diferencia sexual subrayada solo respecto al hombre
 - [[cuerpo]] — el hombre es cuerpo, pero irreducible al «mundo»
+- [[principio]] — clave hermenéutica de la respuesta de Cristo
+- [[trascendentales_del_ser]] — «ens et bonum convertuntur» (Gn 1,31)
+- [[inocencia_original]] — unidad conceptual del ciclo Gn 1-3
 
 ## Contenido
 
-Catequesis del 12 de septiembre de 1979 (redactada el 16-IX-79). Continúa el ciclo sobre la respuesta de Cristo a los fariseos acerca de la unidad e [[indisolubilidad_del_matrimonio|indisolubilidad del matrimonio]]: frente a la ley de Moisés, Cristo se remite al «principio», citando el Génesis. El análisis debe dirigirse ante todo al texto: Mt 19,4 («¿No habéis leído que al principio el Creador los hizo varón y hembra...?») remite al primer relato de la [[creación_del_hombre]], inserto en el ciclo de los siete días (Gn 1,1-2,4); en cambio, Gn 2,24 pertenece al segundo relato (Gn 2,5-25), que forma unidad conceptual con la descripción de la inocencia original, la felicidad del hombre y su primera caída (Gn 3).
+Catequesis del 12 de septiembre de 1979 (redactada el 16-IX-79). Continúa el ciclo sobre la respuesta de Cristo a los fariseos acerca de la unidad e [[indisolubilidad_del_matrimonio|indisolubilidad del matrimonio]]: frente a la ley de Moisés, Cristo se remite al «[[principio]]», citando el Génesis. El análisis debe dirigirse ante todo al texto: Mt 19,4 («¿No habéis leído que al principio el Creador los hizo varón y hembra...?») remite al primer relato de la [[creación_del_hombre]], inserto en el ciclo de los siete días (Gn 1,1-2,4); en cambio, Gn 2,24 pertenece al segundo relato (Gn 2,5-25), que forma unidad conceptual con la descripción de la [[inocencia_original|inocencia original]], la felicidad del hombre y su primera caída (Gn 3).
 
 ### Carácter de los dos relatos según la crítica bíblica
 
@@ -37,7 +40,7 @@ El nivel del relato es sobre todo teológico: el hombre es definido por su relac
 
 ### Carga metafísica del relato
 
-El primer relato esconde una potente carga metafísica: ha sido fuente de inspiración para los pensadores que han buscado comprender el «ser» y el «existir» (solo comparable con Ex 3). El hombre está definido en las dimensiones del ser y del existir («esse»), de modo más metafísico que físico. Al misterio de su [[creación_del_hombre|creación]] corresponde la perspectiva de la [[procreación]] («procread y multiplicaos»), el devenir en el mundo y en el tiempo («fieri») unido a la situación metafísica del ser contingente (contingens). En este contexto se entiende la entidad del bien: «Y vio Dios ser muy bueno cuanto había hecho» (Gn 1,31). El primer capítulo del Génesis es así base sólida para una metafísica, una antropología y una ética según las cuales «ens et bonum convertuntur», con pleno significado para la [[teología_del_cuerpo]].
+El primer relato esconde una potente carga metafísica: ha sido fuente de inspiración para los pensadores que han buscado comprender el «ser» y el «existir» (solo comparable con Ex 3). El hombre está definido en las dimensiones del ser y del existir («esse»), de modo más metafísico que físico. Al misterio de su [[creación_del_hombre|creación]] corresponde la perspectiva de la [[procreación]] («procread y multiplicaos»), el devenir en el mundo y en el tiempo («fieri») unido a la situación metafísica del ser contingente (contingens). En este contexto se entiende la entidad del bien: «Y vio Dios ser muy bueno cuanto había hecho» (Gn 1,31). El primer capítulo del Génesis es así base sólida para una metafísica, una antropología y una ética según las cuales «ens et bonum convertuntur» ([[trascendentales_del_ser]]), con pleno significado para la [[teología_del_cuerpo]].
 
 ### Notas del texto original
 

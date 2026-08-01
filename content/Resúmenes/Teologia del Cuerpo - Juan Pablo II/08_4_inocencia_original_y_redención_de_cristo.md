@@ -12,7 +12,9 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
+- [[inocencia_original]] — horizonte prehistórico y fundamental del hombre
 - [[pecado_original]] — estado pecaminoso hereditario derivado de la caída
+- [[principio]] — remisión de Cristo que «cohereda» pecado e inocencia
 - [[redención]] — misterio presente ya en las palabras de Cristo sobre el «principio»
 - [[redención_del_cuerpo]] — «suspirando por la redención de nuestro cuerpo» (Rom 8,23)
 - [[protoevangelio]] — primera promesa de redención (Gn 3,15)
@@ -23,7 +25,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 
 ## Contenido
 
-Catequesis del 26 de septiembre de 1979 (redactada el 30-IX-79). Tras analizar el texto elohista (Gn 1) y el yahvista (Gn 2), se sacan conclusiones. Cuando Cristo se refiere al «principio», lleva a sus interlocutores a superar el límite que en el Génesis hay entre el estado de inocencia original y el estado pecaminoso que comienza con la [[caída_original]]. Ese límite se vincula simbólicamente con el árbol de la ciencia del bien y del mal, que delimita dos situaciones diametralmente opuestas. Ambas tienen dimensión interior en el hombre (conocimiento, [[conciencia]], opción, decisión) en relación con Dios Creador, que en el texto yahvista es a la vez Dios de la [[alianza]] más antigua del Creador con su criatura. El árbol, expresión y símbolo de la alianza rota en el corazón del hombre, contrapone el estado de inocencia original y el de [[pecado_original]] hereditario. Sin embargo, las palabras de Cristo permiten encontrar en el hombre una continuidad esencial entre ambos estados: el hombre «histórico» —el interlocutor de Cristo en Mt 19 y todo hombre de todos los tiempos— hunde las raíces de su estado pecaminoso en su «prehistoria» teológica, que es el estado de inocencia original.
+Catequesis del 26 de septiembre de 1979 (redactada el 30-IX-79). Tras analizar el texto elohista (Gn 1) y el yahvista (Gn 2), se sacan conclusiones. Cuando Cristo se refiere al «[[principio]]», lleva a sus interlocutores a superar el límite que en el Génesis hay entre el estado de [[inocencia_original|inocencia original]] y el estado pecaminoso que comienza con la [[caída_original]]. Ese límite se vincula simbólicamente con el árbol de la ciencia del bien y del mal, que delimita dos situaciones diametralmente opuestas. Ambas tienen dimensión interior en el hombre (conocimiento, [[conciencia]], opción, decisión) en relación con Dios Creador, que en el texto yahvista es a la vez Dios de la [[alianza]] más antigua del Creador con su criatura. El árbol, expresión y símbolo de la alianza rota en el corazón del hombre, contrapone el estado de inocencia original y el de [[pecado_original]] hereditario. Sin embargo, las palabras de Cristo permiten encontrar en el hombre una continuidad esencial entre ambos estados: el hombre «histórico» —el interlocutor de Cristo en Mt 19 y todo hombre de todos los tiempos— hunde las raíces de su estado pecaminoso en su «prehistoria» teológica, que es el estado de inocencia original.
 
 ### Referencia del pecado a la inocencia
 
