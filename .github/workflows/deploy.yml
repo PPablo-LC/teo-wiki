@@ -30,6 +30,8 @@ jobs:
         run: npx quartz plugin install
       - name: Build Quartz
         run: npx quartz build
+      - name: Strip search content
+        run: node scripts/strip-search-content.mjs
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
