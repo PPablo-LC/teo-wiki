@@ -1,14 +1,15 @@
 ---
 type: Concepto Teológico
 title: Auditoría de wikilinks huérfanos
-timestamp: 2026-07-13
+timestamp: 2026-08-01
 description: "Registro de wikilinks sin artículo propio en el wiki. Última actualización 2026-07-13 con 688 huérfanos categorizados."
 ---
 # Auditoría de wikilinks huérfanos
 
 > Generado originalmente: 2026-06-19
-> Última actualización: 2026-08-01 (Resúmenes TDC 06-10 y 11-19 — 12 huérfanos sembrados)
-> Total de wikilinks huérfanos registrados: 802 (los 5 resueltos 2026-07-15 constan tachados)
+> Última actualización: 2026-08-01 (Resúmenes TDC completados 137/137 — re-auditoría integral pendiente)
+> Total de wikilinks huérfanos registrados: 813 (los 5 resueltos 2026-07-15 constan tachados)
+> Huérfanos únicos detectados por `scripts/detectar_huerfanos.py --md`: 1418 (2026-08-01)
 > Artículos creados 2026-07-15 (LC-Wik): 12 documentos Esp-LC-wiki/documentos + 32 conceptos Esp-LC-wiki/ y wiki/conceptos/cuerpo_místico_de_cristo y unión_con_cristo
 
 ## Metodología
@@ -694,13 +695,13 @@ vs guion bajo, o sinónimo reconocido).
 | 665 | `[[padres_apostolicos]]` | 1 | Miscelánea (534) |
 | 666 | `[[cisma_de_occidente]]` | 1 | Miscelánea (534) |
 | 667 | `[[teologia_perfeccion_cristiana]]` | 1 | Miscelánea (534) |
-| 668 | `[[acto_conyugal]]` | 1 | Miscelánea (534) |
+| 668 | `[[acto_conyugal]]` | 19 | Miscelánea (534) |
 | 669 | `[[naturaleza_ritual_del_hombre]]` | 1 | Miscelánea (534) |
 | 670 | `[[sociedades_perfectas]]` | 1 | Miscelánea (534) |
 | 671 | `[[inmanencia]]` | 1 | Miscelánea (534) |
 | 672 | `[[evolucion]]` | 1 | Miscelánea (534) |
 | 673 | `[[poligenismo]]` | 1 | Miscelánea (534) |
-| 674 | `[[fines_del_matrimonio]]` | 1 | Miscelánea (534) |
+| 674 | `[[fines_del_matrimonio]]` | 2 | Miscelánea (534) |
 | 675 | `[[espiritualidad_lc]]` | 1 | Miscelánea (534) |
 | 676 | `[[apostolado_intelectual]]` | 1 | Miscelánea (534) |
 | 677 | `[[promesas_bautismales]]` | 1 | Miscelánea (534) |
@@ -732,8 +733,19 @@ vs guion bajo, o sinónimo reconocido).
 | 703 | `[[sacramento_de_la_redención]]` | 3 | Dogmática (44) |
 | 704 | `[[plan_salvífico]]` | 3 | Dogmática (44) |
 | 705 | `[[ethos_de_la_redención]]` | 3 | Dogmática (44) |
+| 706 | `[[significado_unitivo]]` | 7 | Miscelánea (534) |
+| 707 | `[[significado_procreador]]` | 7 | Miscelánea (534) |
+| 708 | `[[concupiscencia_de_la_carne]]` | 5 | Miscelánea (534) |
+| 709 | `[[triple_concupiscencia]]` | 4 | Miscelánea (534) |
+| 710 | `[[pedagogía_del_cuerpo]]` | 4 | Miscelánea (534) |
+| 711 | `[[orden_moral]]` | 3 | Miscelánea (534) |
+| 712 | `[[unidad_originaria]]` | 2 | Miscelánea (534) |
+| 713 | `[[emoción]]` | 2 | Miscelánea (534) |
+| 714 | `[[profetismo_del_cuerpo]]` | 1 | Miscelánea (534) |
+| 715 | `[[temor_salvífico]]` | 1 | Miscelánea (534) |
+| 716 | `[[excitación]]` | 1 | Miscelánea (534) |
 
-**Total: 802 huérfanos pendientes**
+**Total: 813 huérfanos pendientes**
 
 ## Notas de sesión
 
@@ -747,12 +759,43 @@ vs guion bajo, o sinónimo reconocido).
   (`sacramento_de_la_creación`, `sacramento_de_la_redención`,
   `plan_salvífico`, `ethos_de_la_redención`) — núcleo sacramental de la
   teología del cuerpo de San Juan Pablo II.
+- **2026-08-01 (Resúmenes TDC 20-48):** sembrados 11 huérfanos nuevos
+  (706-716) desde los resúmenes de las catequesis 102-127. Núcleo de la
+  moral conyugal de la teología del cuerpo: `significado_unitivo`,
+  `significado_procreador`, `concupiscencia_de_la_carne`,
+  `triple_concupiscencia`, `pedagogía_del_cuerpo`, `orden_moral`,
+  `unidad_originaria`, `emoción`, `profetismo_del_cuerpo`,
+  `temor_salvífico`, `excitación`. Se actualizan además los conteos de
+  `acto_conyugal` (1→19) y `fines_del_matrimonio` (1→2). La convención
+  es **sembrar intencionalmente** wikilinks de conceptos importantes sin
+  artículo, de modo que el registro señale dónde encontrar su contenido
+  y qué artículos faltan por crear.
 - **2026-08-01 (script):** `detectar_huerfanos.py` ahora escanea también
   `wiki/Resúmenes/` (recursivo) y extrae el nombre base de los enlaces con
   pipe `[[a|b]]`, conforme a la metodología documentada. Los resúmenes se
   cuentan como destinos existentes (no como artículos). Detección
   actual: 926 huérfanos únicos — **re-auditoría integral pendiente** para
   registrar los detectados fuera de esta sesión.
+- **2026-08-01 (Resúmenes TDC completados, 137/137):** finalizada la
+  serie de resúmenes de la Teología del Cuerpo (archivos 51-137:
+  catequesis 9-91, partes II-V y archivos 30-48 ya existentes). Los
+  hilos temáticos sembrados se agrupan en: (1) scriptura y antropología
+  del «principio» (inocencia, desnudez, significado esponsalicio), (2)
+  ethos del sermón de la montaña (concupiscencia, adulterio en el
+  corazón, pureza), (3) doctrina paulina de la pureza y la vida según
+  el Espíritu (respeto al cuerpo, fruto del Espíritu, enkráteia), (4)
+  el cuerpo en la cultura y el arte (ethos de la imagen/visión,
+  responsabilidad del artista, pornovisión), (5) la resurrección
+  (espiritualización, divinización, antropología paulina, hombre
+  celestial), (6) la virginidad/celibato «por el reino» (fecundidad del
+  Espíritu, complementariedad, status perfectionis), y (7) el
+  sacramento del matrimonio en Efesios 5 (temor de Cristo, sumisión
+  recíproca, gran analogía). Detección `detectar_huerfanos.py --md`
+  tras la tanda: **1418 huérfanos únicos** (antes 942) — persisten la
+  **re-auditoría integral pendiente** del total y la clasificación por
+  categoría de los incorporados en esta sesión. Los 48 primeros
+  resúmenes TDC ya sembraron ficha propia en sesiones previas (filas
+  694-716 de este registro).
 
 ## Resueltos en esta sesión (LC-Wik)
 

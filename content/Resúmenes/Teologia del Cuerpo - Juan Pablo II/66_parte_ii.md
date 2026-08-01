@@ -1,42 +1,24 @@
 ---
 type: ResumenFuente
-title: "Parte II:"
+title: "Parte II"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 66
-timestamp: 2026-07-28
-description: "Resumen de 'Parte II:' — Teologia del Cuerpo - Juan Pablo II"
+timestamp: 2026-08-01
+description: "Parte II de la Teología del Cuerpo: ciclo dedicado al sermón de la montaña (Mt 5, 27-28), la concupiscencia y la purificación del corazón humano"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 
-# Parte II:
+# Parte II
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[teología_del_cuerpo]] — el ciclo de las catequesis sobre el cuerpo humano
+- [[matrimonio]] — el tema central del magisterio de Juan Pablo II
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `28_parte_ii.md`
+### Segunda parte de la serie
 
+El archivo contiene únicamente el encabezado **«Parte II»**, que marca el comienzo del segundo bloque de catequesis de la Teología del Cuerpo. Tras la primera parte dedicada a los análisis del «principio» bíblico según la conversación de Cristo con los fariseos (Mt 19), este nuevo ciclo toma como punto de partida la enunciación del sermón de la montaña: «El que mira a una mujer deseándola, ya adulteró con ella en su corazón» (Mt 5, 27-28), y desarrolla el tema de la **purificación del corazón** humano frente a la concupiscencia, a la luz de la revelación del cuerpo.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Parte II: |
-
-
-## Secciones incluidas
-
+Las catequesis de esta parte se inician con «La purificación del corazón» (catequesis 24) y prosiguen con el ciclo sobre la triple concupiscencia.

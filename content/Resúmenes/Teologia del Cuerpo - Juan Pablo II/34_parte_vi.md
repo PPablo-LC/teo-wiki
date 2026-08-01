@@ -3,8 +3,8 @@ type: ResumenFuente
 title: "Parte VI:"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 34
-timestamp: 2026-07-28
-description: "Resumen de 'Parte VI:' — Teologia del Cuerpo - Juan Pablo II"
+timestamp: 2026-08-01
+description: "Parte VI: título de la sexta parte de la Teología del Cuerpo (El sacramento del matrimonio como signo de la Alianza de Cristo con la Iglesia — La transmisión de la vida) — Teologia del Cuerpo - Juan Pablo II"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 
@@ -12,31 +12,12 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[matrimonio_sacramento]] — tema central de la sexta parte
+- [[matrimonio]] — el sacramento del matrimonio como signo de la Alianza
+- [[teología_del_cuerpo]] — parte de la catequesis dedicada al sacramento del matrimonio y a la transmisión de la vida
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `122_parte_vi.md`
+### Título de la parte
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Parte VI: |
-
-
-## Secciones incluidas
-
+Este archivo corresponde únicamente al **título de la sexta parte** de la Teología del Cuerpo, sin contenido adicional. La sexta parte abarca el sacramento del matrimonio como signo de la Alianza de Cristo con la Iglesia y la transmisión de la vida, desarrollada en las catequesis que la siguen.

@@ -1,42 +1,24 @@
 ---
 type: ResumenFuente
-title: "Parte V:"
+title: "Parte V"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 132
-timestamp: 2026-07-28
-description: "Resumen de 'Parte V:' — Teologia del Cuerpo - Juan Pablo II"
+timestamp: 2026-08-01
+description: "Parte V de la Teología del Cuerpo: el sacramento del matrimonio según la Carta a los Efesios (Ef 5, 22-33)"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 
-# Parte V:
+# Parte V
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[sacramento]] — la sacr—dino del matrimonio
+- [[matrimonio]] — el tema de la parte V
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `94_parte_v.md`
+### Quinta parte de la serie
 
+El archivo contiene únicamente el encabezado **«Parte V»**, que abre el último bloque de catequesis de la Teología del Cuerpo. Después de la parte sobre la virginidad y el celibato «por el reino de los cielos», este ciclo se dedica a **la sacramentalidad matrimonial**, leyendo en profundidad el texto «clásico» de la **Carta a los Efesios** (Ef 5, 22-33): el texto sobre las relaciones entre esposos a imagen de la relación entre Cristo y la Iglesia, culminación de las palabras-clave de Cristo sobre el cuerpo humano.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Parte V: |
-
-
-## Secciones incluidas
-
+Se inicia con la catequesis 87 («El sacramento del matrimonio en la Carta a los Efesios»).

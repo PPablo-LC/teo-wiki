@@ -1,42 +1,24 @@
 ---
 type: ResumenFuente
-title: "Parte IV:"
+title: "Parte IV"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 117
-timestamp: 2026-07-28
-description: "Resumen de 'Parte IV:' — Teologia del Cuerpo - Juan Pablo II"
-tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
+timestamp: 2026-08-01
+description: "Parte IV de la Teología del Cuerpo: ciclo sobre la virginidad y el celibato «por el reino de los cielos» (Mt 19, 10-12; 1 Cor 7)"
+tags: ["resumen", "teología del cuerpo - juan pablo ii"]
 ---
 
-# Parte IV:
+# Parte IV
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[virginidad]] — la virginidad cristiana por el Reino
+- [[celibato]] — la continencia evangélica
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `79_parte_iv.md`
+### Cuarta parte de la serie
 
+El archivo contiene únicamente el encabezado **«Parte IV»**, que abre el cuarto bloque de catequesis de la Teología del Cuerpo. Tras la primera parte (el «principio»: matrimonio en el designio de la creación), la segunda (el «corazón»: la concupiscencia y la pureza evangélica) y la tercera (la «resurrección» y el hombre en el «otro mundo»), esta parte desarrolla el tema de **la virginidad y el celibato «por el reino de los cielos»**, fundada en las palabras de Cristo a sus disícipulos después de la conversación sobre la indisolubilidad del matrimonio (Mt 19, 10-12) y, sucesivamente, en la doctrina paulina de 1 Corintios 7.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Parte IV: |
-
-
-## Secciones incluidas
-
+Se inicia con la catequesis 73 («Virginidad o celibato como signo escatológico»).

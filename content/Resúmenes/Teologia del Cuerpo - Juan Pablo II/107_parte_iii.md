@@ -1,42 +1,24 @@
 ---
 type: ResumenFuente
-title: "Parte III:"
+title: "Parte III"
 fuente: Teologia del Cuerpo - Juan Pablo II
 capítulo: 107
-timestamp: 2026-07-28
-description: "Resumen de 'Parte III:' — Teologia del Cuerpo - Juan Pablo II"
+timestamp: 2026-08-01
+description: "Parte III de la Teología del Cuerpo: ciclo sobre la resurrección de los cuerpos y las palabras de Cristo a los saduceos (Mt 22, 24-30; Mc 12, 18-27; Lc 20, 27-40)"
 tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ---
 
-# Parte III:
+# Parte III
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[resurrección_de_los_muertos]] — la fe en la resurrección de los cuerpos
+- [[teología_del_cuerpo]] — el tercer ciclo de las catequesis
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `69_parte_iii.md`
+### Tercera parte de la serie
 
+El archivo contiene únicamente el encabezado **«Parte III»**, que abre el tercer bloque de catequesis de la Teología del Cuerpo. Tras la primera parte dedicada al «principio» bíblico (respuesta de Cristo a los fariseos, Mt 19) y la segunda dedicada al «corazón» humano y a la concupiscencia (sermón de la montaña, Mt 5, 27-28), este nuevo ciclo toma como base **las palabras de Cristo sobre la futura resurrección**, pronunciadas en la conversación con los saduceos sobre la ley del levirato (Mt 22, 24-30; Mc 12, 18-27; Lc 20, 27-40).
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Parte III: |
-
-
-## Secciones incluidas
-
+Estas tres series de palabras —sobre el «principio», sobre el «corazón» y sobre la «resurrección»— constituyen el **tríptico de las enunciaciones clave de Cristo para la teología del cuerpo**: el coloquio con los saduceos descubre una **dimensión completamente nueva del misterio del hombre**, la escatológica, que ilumina además tanto el significado cristiano del matrimonio como la renuncia a la vida conyugal «por el Reino de los cielos».
