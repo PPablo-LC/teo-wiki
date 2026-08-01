@@ -7,8 +7,8 @@ description: "Registro de wikilinks sin artículo propio en el wiki. Última act
 # Auditoría de wikilinks huérfanos
 
 > Generado originalmente: 2026-06-19
-> Última actualización: 2026-08-01 (Resúmenes TDC 06-10 — 8 huérfanos sembrados, script ampliado a Resúmenes y enlaces con pipe)
-> Total de wikilinks huérfanos registrados: 798 (los 5 resueltos 2026-07-15 constan tachados)
+> Última actualización: 2026-08-01 (Resúmenes TDC 06-10 y 11-19 — 12 huérfanos sembrados)
+> Total de wikilinks huérfanos registrados: 802 (los 5 resueltos 2026-07-15 constan tachados)
 > Artículos creados 2026-07-15 (LC-Wik): 12 documentos Esp-LC-wiki/documentos + 32 conceptos Esp-LC-wiki/ y wiki/conceptos/cuerpo_místico_de_cristo y unión_con_cristo
 
 ## Metodología
@@ -728,8 +728,12 @@ vs guion bajo, o sinónimo reconocido).
 | 699 | `[[trascendentales_del_ser]]` | 2 | Miscelánea (534) |
 | 700 | `[[unidad_matrimonial]]` | 1 | Miscelánea (534) |
 | 701 | `[[principios_del_amor_humano]]` | 1 | Biblia (41) |
+| 702 | `[[sacramento_de_la_creación]]` | 5 | Dogmática (44) |
+| 703 | `[[sacramento_de_la_redención]]` | 3 | Dogmática (44) |
+| 704 | `[[plan_salvífico]]` | 3 | Dogmática (44) |
+| 705 | `[[ethos_de_la_redención]]` | 3 | Dogmática (44) |
 
-**Total: 798 huérfanos pendientes**
+**Total: 802 huérfanos pendientes**
 
 ## Notas de sesión
 
@@ -738,6 +742,11 @@ vs guion bajo, o sinónimo reconocido).
   crearlos se sepa dónde encontrar el contenido (varios ya tienen
   referencias en otros artículos: `[[principio]]` 8, `[[inocencia_original]]` 6,
   `[[una_sola_carne]]` 3 — buen potencial multi-fuente).
+- **2026-08-01 (Resúmenes TDC 11-19):** sembrados 4 huérfanos nuevos
+  (702-705) desde los resúmenes de las catequesis 93-101
+  (`sacramento_de_la_creación`, `sacramento_de_la_redención`,
+  `plan_salvífico`, `ethos_de_la_redención`) — núcleo sacramental de la
+  teología del cuerpo de San Juan Pablo II.
 - **2026-08-01 (script):** `detectar_huerfanos.py` ahora escanea también
   `wiki/Resúmenes/` (recursivo) y extrae el nombre base de los enlaces con
   pipe `[[a|b]]`, conforme a la metodología documentada. Los resúmenes se
