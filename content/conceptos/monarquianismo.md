@@ -28,4 +28,4 @@ El monarquianismo propone la existencia de un solo principio y de un único gobi
 - [[adopcionismo]]
 
 ## Referencias
-- [[historia_de_la_iglesia_-_p._antonio_rivero_lc]]
+- [[historia_de_la_iglesia_rivero]]

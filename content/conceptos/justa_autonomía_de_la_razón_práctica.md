@@ -48,13 +48,13 @@ El autor presenta la justa autonomía como:
 
 ## Relaciones doctrinales
 
-- [[ley_moral_natural]] — La ley natural como objeto de la justa autonomía
+- [[ley_natural]] — La ley natural como objeto de la justa autonomía
 - [[conciencia_moral]] — La conciencia como ejercicio de la justa autonomía
 - [[moral_cristiana_y_moral_humana]] — La justa autonomía fundamenta la moral humana
 
 ## Ver también
 
-- [[ley_moral_natural]]
+- [[ley_natural]]
 - [[conciencia_moral]]
 - [[moral_cristiana_y_moral_humana]]
 

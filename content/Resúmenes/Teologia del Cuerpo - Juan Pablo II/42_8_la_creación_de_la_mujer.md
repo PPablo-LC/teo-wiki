@@ -12,7 +12,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-- [[soledad_original]] — el sentido de la soledad originaria, que entra a formar parte del significado de la [[unidad_originaria|unidad originaria]]
+- [[soledad_originaria]] — el sentido de la soledad originaria, que entra a formar parte del significado de la [[unidad_originaria|unidad originaria]]
 - [[varón_y_mujer]] — la creación del hombre como varón y mujer, desde el comienzo
 - [[unidad]] — la unidad originaria que hunde sus raíces en la creación del hombre como varón y mujer
 - [[creación]] — la creación del hombre «a imagen de Dios» (Gn 1,27)

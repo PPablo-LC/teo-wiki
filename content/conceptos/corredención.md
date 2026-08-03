@@ -33,6 +33,10 @@ La cooperación de María en la redención es una doctrina cierta y común en la
 
 Juan Pablo II extiende la dimensión corredentora del sufrimiento a todos los fieles: «Vuestros sufrimientos, acogidos y sostenidos por una fe inquebrantable, unidos a los de Cristo, adquieren un valor extraordinario para la vida de la Iglesia y el bien de la humanidad» [UVD]. El sufrimiento «capacita para la santidad, dado que encierra grandes posibilidades apostólicas y tiene un valor salvífico excepcional cuando va unido a los sacrificios de Cristo» [UVD].
 
+### Según Scott Hahn (The Bible and the Virgin Mary)
+
+Scott Hahn (BMV, lecciones 3-4) presenta la cooperación de María en la obra de salvación desde la clave de la nueva Eva: así como Eva cooperó (por desobediencia) a la ruina, María coopera (por obediencia) a la redención. El curso cita a san Ireneo: «el nudo de la desobediencia de Eva fue desatado por la obediencia de María», y a san Justino, primer formulador del paralelismo. María es «madre de todos los vivientes» (nueva Eva) en la nueva creación; su *fiat* y su presencia al pie de la cruz (Jn 19,26) manifiestan su asociación única a la obra redentora de Cristo.
+
 ## Distinciones importantes
 
 - Corredención (participada) vs. Redención (principal): Cristo es el único Redentor; María coopera de modo subordinado

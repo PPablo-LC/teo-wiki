@@ -49,13 +49,13 @@ El Papa Francisco recoge esta dinámica:
 
 ## Relaciones doctrinales
 
-- [[ley_moral_natural]] — La ley natural es cumplida, no abolida, por el Evangelio
+- [[ley_natural]] — La ley natural es cumplida, no abolida, por el Evangelio
 - [[historia_de_la_salvación]] — La novedad sin ruptura se inscribe en la historia de la salvación
 - [[alianza]] — La nueva alianza cumple la antigua
 
 ## Ver también
 
-- [[ley_moral_natural]]
+- [[ley_natural]]
 - [[historia_de_la_salvación]]
 - [[alianza]]
 

@@ -29,4 +29,4 @@ Rivero menciona que «san Hilario de Poitiers escribió acerca de la Trinidad, u
 [[trinidad]] [[arrianismo]] [[padres_de_la_iglesia]]
 
 ## Referencias
-- [[historia_de_la_iglesia_-_p._antonio_rivero_lc]]
+- [[historia_de_la_iglesia_rivero]]

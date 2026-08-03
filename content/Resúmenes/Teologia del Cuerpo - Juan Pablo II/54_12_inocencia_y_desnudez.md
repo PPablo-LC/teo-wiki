@@ -16,10 +16,10 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[vergüenza]] — la vergüenza como experiencia fundamental y «de límite»
 - [[desnudez_originaria]] — la ausencia originaria de vergüenza
 - [[inocencia_originaria]] — la inocencia originaria del conocer
-- [[comunión_de_las_personas]] — la communio personarum querida por el Creador
+- [[comunión_de_personas]] — la communio personarum querida por el Creador
 - [[comunicación_interpersonal]] — la plenitud de la comunicación entre personas
 - [[cuerpo]] — el cuerpo que expresa a la persona
-- [[persona]] — el yo humano personal que construye su percepción desde dentro
+- [[persona_humana]] — el yo humano personal que construye su percepción desde dentro
 - [[subjetividad]] — la dimensión interior de la persona
 - [[soledad_originaria]] — la no-identificación con el mundo de los animalia
 - [[etos]] — la formación del ethos en la convivencia humana

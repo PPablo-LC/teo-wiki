@@ -12,7 +12,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-- [[soledad_original]] — la soledad originaria del hombre, clave del análisis del texto yahvista
+- [[soledad_originaria]] — la soledad originaria del hombre, clave del análisis del texto yahvista
 - [[cuerpo]] — el hombre creado en el mundo visible como «cuerpo entre los cuerpos»
 - [[alma]] — la relación entre alma y cuerpo, expresada por el texto yahvista con su propia terminología
 - [[dominio_sobre_la_creación]] — solo el hombre es capaz de «cultivar la tierra» (Gn 2,5) y «someterla» (Gn 1,28)

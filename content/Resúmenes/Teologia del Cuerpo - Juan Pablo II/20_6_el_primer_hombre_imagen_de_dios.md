@@ -13,7 +13,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 ## Conceptos básicos referenciados
 
 - [[imagen_de_dios]] — el hombre creado «a imagen y semejanza» de Dios (Gn 1,26)
-- [[soledad_original]] — la soledad originaria del hombre, estructura ontológica y clave del análisis (Gn 2,18)
+- [[soledad_originaria]] — la soledad originaria del hombre, estructura ontológica y clave del análisis (Gn 2,18)
 - [[persona_humana]] — el primer bosquejo del hombre como persona dotada de subjetividad
 - [[conciencia]] — la autoconciencia incluida en el concepto de soledad originaria
 - [[libertad_humana]] — la autodeterminación o libre voluntad, momento de la opción

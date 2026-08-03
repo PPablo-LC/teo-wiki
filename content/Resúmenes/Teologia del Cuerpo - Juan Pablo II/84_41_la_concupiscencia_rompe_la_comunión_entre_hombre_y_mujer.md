@@ -17,8 +17,8 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[concupiscencia]] — la concupiscencia que enseñorea a la voluntad
 - [[voluntad]] — la voluntad como sede del cambio en el corazón
 - [[utilitarismo]] — el «servirse» del otro humano para satisfacer necesidades
-- [[significado_esponsalicio_del_cuerpo]] — la pérdida de la «libertad del don»
-- [[persona]] — el existir en un recíproco «para»
+- [[significado_esponsal_del_cuerpo]] — la pérdida de la «libertad del don»
+- [[persona_humana]] — el existir en un recíproco «para»
 - [[constricción_del_cuerpo]] — la constricción que arrebata la libertad del don
 - [[maniqueísmo]] — la desmentida: no se cuestiona la necesidad sexual
 - [[etos]] — el núcleo de la transformación del ethos

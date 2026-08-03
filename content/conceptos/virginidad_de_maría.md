@@ -33,6 +33,10 @@ La virginidad de María es el fundamento de su peculiar santidad. Su virginidad 
 
 **Paulo IV** (1555), Constitución *Cum quorundam* (D-993): condenó a quienes niegan que la beatísima Virgen María es verdadera Madre de Dios y que permaneció siempre en la integridad de la virginidad, «antes del parto, en el parto y perpetuamente después del parto».
 
+### Según Scott Hahn (The Bible and the Virgin Mary)
+
+Scott Hahn (BMV, lección 6) desarrolla la virginidad perpetua como corolario de la identidad de Cristo: si Jesús es el Hijo de Dios concebido por el Espíritu Santo, María es virgen por necesidad teológica. El curso trata la lectura de Is 7,14 (*almah*, LXX *parthenos*) en la línea de san Justino, y la controversia de los «hermanos de Jesús» (Mt 13,55; Mc 6,3), identificados por la Tradición como parientes. Hahn presenta la virginidad perpetua como protección de la unicidad de la maternidad divina y plena consagración de María a su Hijo.
+
 ## Distinciones importantes
 
 - Virginidad *ante partum*: concepción virginal sin intervención de varón

@@ -41,12 +41,18 @@ Justino se refiere a los Evangelios como «memorias de los apóstoles» (*Apolog
 - Prueba de que los Evangelios eran conocidos como biografías apostólicas en la segunda generación cristiana.
 - No cuestiona la autoría apostólica.
 
+### Mariología: el paralelo Eva-María
+
+En el *Diálogo con Trifón* (cap. 100) Justino formula por primera vez el paralelismo Eva-María: así como Eva, virgen, creyó a la serpiente y acarreó la muerte, María, virgen, creyó al ángel y acarreó la vida. Es el testigo más antiguo de la tipología de la [[nueva_eva]], junto con la interpretación de Is 7,14 (LXX: *parthenos*) aplicada a la [[concepción_virginal]]. Scott Hahn (BMV, lecciones 2-3 y 6) presenta a Justino como el primer formulador del paralelo Eva-María en la mariología patrística.
+
 ## Relaciones doctrinales
 
 - [[autoría_de_los_evangelios]] — Testimonio de los Evangelios como memorias apostólicas.
 - [[género_biográfico]] — Los Evangelios como biografías antiguas.
 - [[the_case_for_jesus]] — Mencionado en la Sesión 3.
 - [[apologética]] — Fundador de la apologética cristiana.
+- [[nueva_eva]] — Primer formulador del paralelo Eva-María.
+- [[concepción_virginal]] — Lectura de Is 7,14 (LXX).
 
 ## Ver también
 

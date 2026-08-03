@@ -27,7 +27,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[secretario]] — la hipótesis de la paternidad de la Carta
 - [[masculinidad_y_feminidad]] — la perenne destino de la unión
 - [[teología_del_cuerpo]] — la base para interpretar la Carta
-- [[antropología]] — la experiencia de la persona encarnada
+- [[antropología_cristiana]] — la experiencia de la persona encarnada
 - [[alianza]] — la dimensión de la Alianza y de la gracia
 
 ## Contenido

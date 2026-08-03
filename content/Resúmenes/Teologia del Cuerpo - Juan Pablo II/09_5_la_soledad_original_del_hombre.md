@@ -12,7 +12,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-- [[soledad_original]] — «no es bueno que el hombre esté solo» (Gn 2,18)
+- [[soledad_originaria]] — «no es bueno que el hombre esté solo» (Gn 2,18)
 - [[soledad]] — concepto general en la tradición ascética
 - [[creación_del_hombre]] — relectura de Gn 1-2 en contexto más amplio
 - [[varón_y_mujer]] — ‘adam y ‘is: la soledad del «hombre» en cuanto tal

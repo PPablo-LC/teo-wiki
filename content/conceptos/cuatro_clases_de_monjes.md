@@ -62,11 +62,11 @@ En la Conferencia XVIII (Piamón), Juan Casiano clasifica los monjes según su p
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[cenobita_y_ermitaño]], la [[vida_monastica]], la [[estabilidad]], la [[humildad]], la [[obediencia]], la [[conversión]], el [[oficio_divino]] y la [[regla_religiosa]].
+Se relaciona con la [[cenobita_y_ermitaño]], la [[vida_monastica]], la [[estabilidad_religiosa]], la [[humildad]], la [[obediencia]], la [[conversión]], el [[oficio_divino]] y la [[regla_religiosa]].
 
 ## Ver también
 
-[[cenobita_y_ermitaño]], [[vida_monastica]], [[sarabaítas]], [[giróvagos]], [[estabilidad]], [[generos_de_monjes]]
+[[cenobita_y_ermitaño]], [[vida_monastica]], [[sarabaítas]], [[giróvagos]], [[estabilidad_religiosa]], [[generos_de_monjes]]
 
 ## Referencias
 

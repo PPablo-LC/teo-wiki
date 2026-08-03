@@ -36,6 +36,10 @@ La conferencia «Autentica día 2» amplia el concepto de maternidad espiritual 
 
 Juan Pablo II desarrolla la maternidad espiritual de María en el contexto de las palabras de Cristo en la Cruz: «Mujer, he ahí a tu hijo» (Jn 19,26-27). Cristo confía el discípulo amado a María como hijo, y a María al discípulo como madre. En el discípulo amado —que representa a todos los creyentes—, María recibe la maternidad espiritual sobre toda la Iglesia. Esta maternidad en el orden de la gracia (cf. *Lumen Gentium* 61) perdura sin cesar hasta la consumación de todos los elegidos. María es constituida así Madre de la Iglesia, ejercitando su intercesión materna y su mediación subordinada a la única [[mediación_de_cristo|mediación de Cristo]] (CJeS, cuarta parte: palabras de Cristo en la Cruz).
 
+### Según Scott Hahn (The Bible and the Virgin Mary)
+
+Scott Hahn (BMV, lecciones 3, 4 y 12) fundamenta la maternidad espiritual en la tipología de la [[nueva_eva]] y en las palabras de la cruz. Como nueva Eva, María es «madre de todos los vivientes» (Gn 3,20 aplicado a la nueva creación); como madre del discípulo amado (Jn 19,26-27), cada creyente la recibe como madre personalmente. Hahn enmarca esta maternidad en la mujer del Apocalipsis (Ap 12,17), cuya descendencia —la Iglesia— es objeto de su cuidado materno. Subraya que la maternidad espiritual es participación en la obra de Cristo, en el orden de la gracia, y fundamento de su intercesión.
+
 ## Distinciones importantes
 
 - Maternidad divina (de naturaleza) vs maternidad espiritual (de gracia)

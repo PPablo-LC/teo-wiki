@@ -29,4 +29,4 @@ Rivero describe a san Jerónimo como «propagandista de la vida monástica entre
 [[vulgata]] [[monacato]] [[patrística]]
 
 ## Referencias
-- [[historia_de_la_iglesia_-_p._antonio_rivero_lc]]
+- [[historia_de_la_iglesia_rivero]]

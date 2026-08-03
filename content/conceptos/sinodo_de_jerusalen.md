@@ -27,4 +27,4 @@ La fuente describe que "surgió también una discusión entre los primeros crist
 - [[credo_bautismal]]
 
 ## Referencias
-- [[historia_de_la_iglesia_-_p._antonio_rivero_lc]]
+- [[historia_de_la_iglesia_rivero]]

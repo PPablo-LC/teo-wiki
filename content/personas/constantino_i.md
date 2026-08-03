@@ -29,4 +29,4 @@ Rivero destaca que Constantino, siguiendo el ejemplo de santa Elena, se convirti
 [[edicto_de_milán]] [[concilio_de_nicea_i]] [[cesaropapismo]]
 
 ## Referencias
-- [[historia_de_la_iglesia_-_p._antonio_rivero_lc]]
+- [[historia_de_la_iglesia_rivero]]

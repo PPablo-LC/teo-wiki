@@ -17,7 +17,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[vergüenza]] — la dimensión más profunda de la vergüena originaria
 - [[concupiscencia]] — la deformación de la unión por la concupiscencia
 - [[triple_concupiscencia]] — el orgullo de la vida y el dominio sobre el otro
-- [[comunión_de_las_personas]] — la pérdida de la comunidad-comunión de personas
+- [[comunión_de_personas]] — la pérdida de la comunidad-comunión de personas
 - [[insaciabilidad]] — la insaciabilidad de la unión y la unidad
 - [[matrimonio]] — la pareja humana y el matrimonio del Gén 2, 24
 - [[acto_conyugal]] — la subordinación de la unión a la fecundidad

@@ -51,11 +51,11 @@ Los dos vicios que la Regla señala como estructurales del giróvago son:
 
 ## Relaciones doctrinales
 
-Se relaciona con los [[generos_de_monjes]], la [[estabilidad]], la [[vida_monastica]], la [[gula]], la [[concupiscencia]], la [[voluntad_propia]], la [[peregrinación]] espiritual, el [[cenobita_y_ermitaño]] y la [[sarabaítas]].
+Se relaciona con los [[generos_de_monjes]], la [[estabilidad_religiosa]], la [[vida_monastica]], la [[gula]], la [[concupiscencia]], la [[voluntad_propia]], la [[peregrinación]] espiritual, el [[cenobita_y_ermitaño]] y la [[sarabaítas]].
 
 ## Ver también
 
-[[cuatro_clases_de_monjes]], [[sarabaítas]], [[vida_monastica]], [[estabilidad]], [[gula]], [[concupiscencia]], [[generos_de_monjes]], [[cenobita_y_ermitaño]]
+[[cuatro_clases_de_monjes]], [[sarabaítas]], [[vida_monastica]], [[estabilidad_religiosa]], [[gula]], [[concupiscencia]], [[generos_de_monjes]], [[cenobita_y_ermitaño]]
 
 ## Referencias
 

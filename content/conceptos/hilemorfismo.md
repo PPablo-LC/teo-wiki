@@ -68,7 +68,7 @@ El hilemorfismo es el fundamento antropológico de la [[inmortalidad_del_alma]] 
 
 ## Ver también
 
-[[alma_separada]], [[inmortalidad_del_alma]], [[resurrección_de_la_carne]], [[esencia_y_existencia]], [[acto_puro]], [[unión_sustancial]], [[dualismo]], [[libertad_humana]], [[dignidad_humana]], [[unión_sustancial]], [[antropología]]
+[[alma_separada]], [[inmortalidad_del_alma]], [[resurrección_de_la_carne]], [[esencia_y_existencia]], [[acto_puro]], [[unión_sustancial]], [[dualismo]], [[libertad_humana]], [[dignidad_humana]], [[unión_sustancial]], [[antropología_cristiana]]
 
 ## Referencias
 

@@ -45,7 +45,7 @@ Se relaciona con la vida religiosa, la consagración, la estabilidad, la profesi
 
 ## Ver también
 
-[[vida_religiosa]], [[estabilidad]], [[profesion_monastica]], [[voto_de_obediencia]], [[voto_de_pobreza]], [[vocación_cristiana]], [[humildad]], [[monasterio]]
+[[vida_religiosa]], [[estabilidad_religiosa]], [[profesion_monastica]], [[voto_de_obediencia]], [[voto_de_pobreza]], [[vocación_cristiana]], [[humildad]], [[monasterio]]
 
 ## Referencias
 

@@ -29,6 +29,10 @@ La doctrina fue reiterada por el Papa Juan II (534), quien en su carta a los sen
 
 El Denzinger recoge la definición del Concilio de Éfeso: «Si alguno no confiesa que Dios es según verdad el Emmanuel, y que por eso la santa Virgen es madre de Dios (pues dio a luz carnalmente al Verbo de Dios hecho carne), sea anatema» (D-113). El mismo Concilio añade: «Si alguno se atreve a decir que Cristo es hombre teóforo o portador de Dios y no, más bien, Dios verdadero... sea anatema» (D-117). La fórmula de unión del 433 (D-142a-b) explicita que María es Madre de Dios porque el Verbo se hizo hombre y unió consigo desde la concepción el templo tomado de ella.
 
+### Según Scott Hahn (The Bible and the Virgin Mary)
+
+Scott Hahn (BMV, lecciones 6-7) presenta el título *Theotokos* como la culminación de la tipología de la Reina Madre: María es la madre del Rey davídico (Lc 1,32-33), aclamada por Isabel como «madre de mi Señor» (Lc 1,43), eco de la *gebirah* de 1 Re 2. El curso defiende que el dogma de Éfeso (431) no es una especulación helenística sino la explicitación de la maternidad real que la Escritura atribuye a María: quien da a luz al Rey es madre del Rey, y el Rey es Dios.
+
 ## Relaciones doctrinales
 
 El título Theotokos presupone la [[unidad_hipostática]] de las dos naturalezas en Cristo y se opone al [[nestorianismo]], que divide a Cristo en dos personas. Es fundamento de la [[mariología]] católica y de la [[comunicación_de_idiomas]], pues lo que se predica de la humanidad de Cristo se predica de la persona del Verbo.

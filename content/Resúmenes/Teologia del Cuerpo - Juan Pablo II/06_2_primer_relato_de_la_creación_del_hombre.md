@@ -22,7 +22,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[cuerpo]] — el hombre es cuerpo, pero irreducible al «mundo»
 - [[principio]] — clave hermenéutica de la respuesta de Cristo
 - [[trascendentales_del_ser]] — «ens et bonum convertuntur» (Gn 1,31)
-- [[inocencia_original]] — unidad conceptual del ciclo Gn 1-3
+- [[inocencia_originaria]] — unidad conceptual del ciclo Gn 1-3
 
 ## Contenido
 

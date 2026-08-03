@@ -28,4 +28,4 @@ El montanismo fue una de las herejías que más dolores de cabeza dieron a la Ig
 - [[donatismo]]
 
 ## Referencias
-- [[historia_de_la_iglesia_-_p._antonio_rivero_lc]]
+- [[historia_de_la_iglesia_rivero]]

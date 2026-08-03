@@ -29,4 +29,4 @@ Rivero señala que «el ejemplo de Antonio en la Tebaida (356), llamado san Anto
 [[monacato]] [[eremitismo]] [[san_pacomio]]
 
 ## Referencias
-- [[historia_de_la_iglesia_-_p._antonio_rivero_lc]]
+- [[historia_de_la_iglesia_rivero]]

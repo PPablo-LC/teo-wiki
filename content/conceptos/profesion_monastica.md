@@ -57,11 +57,11 @@ El profeso es despojado de sus ropas propias y viste las del monasterio. Sus rop
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[voto_de_obediencia]], el [[voto_pobreza]], la [[voto_castidad]], la [[estabilidad]], la [[vida_monastica]], la [[humildad]], la [[conversión]], la [[vocacion_cristiana]] y el [[recepción_de_hermanos]].
+Se relaciona con la [[voto_de_obediencia]], el [[voto_pobreza]], la [[voto_castidad]], la [[estabilidad_religiosa]], la [[vida_monastica]], la [[humildad]], la [[conversión]], la [[vocacion_cristiana]] y el [[recepción_de_hermanos]].
 
 ## Ver también
 
-[[recepción_de_hermanos]], [[estabilidad]], [[voto_de_obediencia]], [[voto_pobreza]], [[voto_castidad]], [[vida_monastica]], [[humildad]], [[conversión]], [[vocacion_cristiana]]
+[[recepción_de_hermanos]], [[estabilidad_religiosa]], [[voto_de_obediencia]], [[voto_pobreza]], [[voto_castidad]], [[vida_monastica]], [[humildad]], [[conversión]], [[vocacion_cristiana]]
 
 ## Referencias
 

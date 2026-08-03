@@ -12,12 +12,12 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-- [[significado_esponsalicio_del_cuerpo]] — el significado esponsalicio como «medida del corazón»
+- [[significado_esponsal_del_cuerpo]] — el significado esponsalicio como «medida del corazón»
 - [[triple_concupiscencia]] — la triple concupiscencia que limita y deforma
 - [[vergüena]] — la vergüena como experiencia secundaria y protectora
 - [[dominio]] — «él te dominará» (Gén 3, 16) como consequencia
 - [[posesión]] — la relación de posesión del otro a modo de objeto
-- [[comunión_de_las_personas]] — la plena unidad espiritual de los dos sujetos
+- [[comunión_de_personas]] — la plena unidad espiritual de los dos sujetos
 - [[inocencia_originaria]] — el estado del que participaban varón y mujer
 - [[acto_conyugal]] — la «unión de los cuerpos» de Gén 2, 24
 - [[sacramento]] — la dimensión «sacramental» de la unidad del cuerpo
@@ -27,7 +27,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[espíritu_humano]] — las transformaciones sufridas por el espíritu
 - [[deseo]] — el deseo dirigido por la concupiscencia
 - [[adulterio]] — la referencia a Mt 5, 27-28
-- [[antropología]] — la respuesta teológica y antropológica adecuada
+- [[antropología_cristiana]] — la respuesta teológica y antropológica adecuada
 - [[masculinidad_y_feminidad]] — la experiencia efectiva del cuerpo en su dualidad
 
 ## Contenido

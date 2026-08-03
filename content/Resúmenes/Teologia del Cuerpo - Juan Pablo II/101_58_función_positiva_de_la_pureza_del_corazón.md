@@ -16,7 +16,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[verdad_antropológica]] — la verdad esencial sobre el hombre contenida en las palabras de Cristo
 - [[ethos_pedagógico]] — el carácter pedagógico de la teología del cuerpo
 - [[templanza]] — la función «negativa» (abstenerse) y la madurez
-- [[fruto_del_Espíritu]] — los frutos de la victoria sobre la concupiscencia
+- [[frutos_del_espíritu_santo]] — los frutos de la victoria sobre la concupiscencia
 - [[donum_pietatis]] — el don de la piedad y la alegría interior
 - [[alegría]] — la alegría de poseerse a sí mismo plenamente
 - [[libertad_del_don]] — la libertad liberada de los vínculos de la concupiscencia
@@ -24,7 +24,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[normativa_y_indicativa]] — las palabras como orientación hacia valores
 - [[verdad_ética]] — la verdad normativa e indicativa
 - [[visión_de_dios]] — la pureza como fruto y respuesta
-- [[comunión_de_las_personas]] — el contenido auténticamente esponsalicio
+- [[comunión_de_personas]] — el contenido auténticamente esponsalicio
 - [[autoeducación]] — el descubrimiento interior del valor del cuerpo
 -[[inocencia_originaria]] — la referencia sin retorno al estado primer
 -[[vida_segun_el_espíritu]] — la pureza del hombre de la concupiscencia

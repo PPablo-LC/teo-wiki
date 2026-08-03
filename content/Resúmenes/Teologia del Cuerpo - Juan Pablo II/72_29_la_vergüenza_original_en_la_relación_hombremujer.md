@@ -14,10 +14,10 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 
 - [[vergüenza]] — la vergüenza originaria como síntoma de la caída
 - [[concupiscencia_de_la_carne]] — la concupiscencia del cuerpo y su relación con la comunión
-- [[comunión_de_las_personas]] — la communio personarum asignada desde el principio
+- [[comunión_de_personas]] — la communio personarum asignada desde el principio
 - [[desnudez_originaria]] — el cambio radical del significado de la desnudez
 - [[insaciabilidad]] — la insaciabilidad de la unión de las personas
--[[significado_esponsalicio_del_cuerpo]] — la pérdida del sustrato corpóreo de la comunión
+-[[significado_esponsal_del_cuerpo]] — la pérdida del sustrato corpóreo de la comunión
 - [[imagen_de_dios]] — la pérdida del sentido de la imagen de Dios
 - [[inocencia_originaria]] — la capacidad originaria de comunicarse
 - [[hombre_histórico]] — el hombre «histórico» de la concupiscencia
@@ -25,7 +25,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[donación]] — el umbral que limita la donación de sí
 - [[pecado_original]] — la caída y sus efectos relacionales
 - [[triple_concupiscencia]] — la separación del amor que «viene del Padre»
-- [[antropología]] — el análisis de la vergüena como clave antropológica
+- [[antropología_cristiana]] — el análisis de la vergüena como clave antropológica
 - [[matrimonio]] — la unión «una sola carne» y su deformación
 - [[varón_y_mujer]] — la diversidad sexual sentida como contraposición
 

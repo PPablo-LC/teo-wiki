@@ -65,12 +65,12 @@ La doctrina de la eternidad divina tiene consecuencias existenciales profundas: 
 
 La eternidad divina se conecta directamente con la [[inmanencia_divina]], pues la eternidad es el modo en que Dios está presente a todas las cosas. Se relaciona también con el [[entendimiento_divino]], pues el conocimiento divino se da en el eterno presente de Dios. La doctrina de la eternidad fundamenta la confianza en la providencia: si Dios ve todo desde su eternidad, ningún momento de la historia se le escapa.
 
-Asimismo, la eternidad divina se vincula con la [[beatitud_visión_de_dios]], en cuanto el ser humano, destinado a la visión beatífica, participa de algún modo en la eternidad divina al ver a Dios como Él se ve a sí mismo. En la beatitud, el alma humana trasciende el tiempo y participa de la simultaneidad eterna de Dios, aunque de manera limitada y creada. Esta participación en la eternidad divina es la culminación de la historia de la salvación y el fin último de toda la creación.
+Asimismo, la eternidad divina se vincula con la [[visión_beatífica]], en cuanto el ser humano, destinado a la visión beatífica, participa de algún modo en la eternidad divina al ver a Dios como Él se ve a sí mismo. En la beatitud, el alma humana trasciende el tiempo y participa de la simultaneidad eterna de Dios, aunque de manera limitada y creada. Esta participación en la eternidad divina es la culminación de la historia de la salvación y el fin último de toda la creación.
 
 ## Ver también
 [[entendimiento_divino]]
 [[inmanencia_divina]]
-[[beatitud_visión_de_dios]]
+[[visión_beatífica]]
 
 ## Referencias
 - [SmTh, Ia, Q10, a.1]

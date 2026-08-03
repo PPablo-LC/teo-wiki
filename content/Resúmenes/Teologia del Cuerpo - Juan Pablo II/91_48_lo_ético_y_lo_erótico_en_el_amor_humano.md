@@ -16,7 +16,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[eros]] — el impulso del espíritu hacia lo verdadero, bueno y bello
 - [[discernimiento]] — el discernimiento maduro de los impulsos del corazón
 - [[espontaneidad]] — la madura espontaneidad como fruto gradual del discernimiento
-- [[significado_esponsalicio_del_cuerpo]] — el sentido personal del significado del cuerpo
+- [[significado_esponsal_del_cuerpo]] — el sentido personal del significado del cuerpo
 - [[dignidad_del_don]] — la auténtica dignidad del don
 - [[pureza_del_corazón]] — la «pureza del corazón» y su contenido positivo
 - [[conciencia]] — la recta conciencia y la natural señoría del corazón

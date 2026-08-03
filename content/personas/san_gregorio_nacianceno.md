@@ -29,4 +29,4 @@ Rivero incluye a san Gregorio Nacianceno entre los grandes Padres de lengua grie
 [[trinidad]] [[concilio_de_constantinopla_i]] [[padres_capadocios]]
 
 ## Referencias
-- [[historia_de_la_iglesia_-_p._antonio_rivero_lc]]
+- [[historia_de_la_iglesia_rivero]]

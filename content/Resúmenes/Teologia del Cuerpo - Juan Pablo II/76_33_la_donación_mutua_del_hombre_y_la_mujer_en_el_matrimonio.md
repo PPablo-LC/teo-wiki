@@ -28,7 +28,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[sermón_de_la_montaña]] — el llamamiento de Cristo al corazón (Mt 5, 27-28)
 - [[deseo]] — el «deseo del cuerpo» más potente que el «deseo de la mente»
 - [[cantar_de_los_cantares]] — el lenguaje del amor («mío… mía»)
-- [[antropología]] — la componente antropológica de la verdad sobre el hombre
+- [[antropología_cristiana]] — la componente antropológica de la verdad sobre el hombre
 -[[Hombre_mujer]] — la relación bilateral de donación
 
 ## Contenido

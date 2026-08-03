@@ -21,13 +21,13 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[subjetividad]] — la identificación del hombre con el propio cuerpo
 - [[visión_integral_del_hombre]] — las soluciones imposibles sin ella
 - [[espiritualidad_del_cuerpo]] — el cuerpo como tarea del espíritu
-- [[significado_esponsalicio_del_cuerpo]] — el descubrimiento por la madurez espiritual
+- [[significado_esponsal_del_cuerpo]] — el descubrimiento por la madurez espiritual
 - [[madurez_espiritual]] — la condición de la comprensión biológica
 - [[valores]] — el enriquecimiento personal por el esfuerzo
 - [[responsabilidad]] — el sentido de responsabilidad profundizado
 - [[egoísmo]] — el egoísmo como enemigo del verdadero amor
 - [[eros_y_ethos]] — la relación recíproca retomada
-- [[antropología]] — la antropología fundamentada en palabras de Cristo
+- [[antropología_cristiana]] — la antropología fundamentada en palabras de Cristo
 - [[magisterio]] — la actualización contemporánea del Evangelio
 -[[castidad]] — la educación de la castidad y su clima
 

@@ -12,7 +12,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-- [[comunión_de_las_personas]] — la communio personarum formada por el varón y la mujer
+- [[comunión_de_personas]] — la communio personarum formada por el varón y la mujer
 - [[imagen_de_dios]] — el hombre creado a imagen de Dios también mediante la comunión
 - [[creación]] — la creación «definitiva» del hombre como unidad de dos seres
 - [[varón_y_mujer]] — la masculinidad y la feminidad del hombre creado
@@ -22,7 +22,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[don]] — el hombre creado como don especial ante Dios y para el otro
 - [[masculinidad_y_feminidad]] — el doble aspecto de la constitución somática
 - [[cuerpo]] — el cuerpo humano que revela al hombre
-- [[persona]] — la subjetividad y autodeterminación de la persona
+- [[persona_humana]] — la subjetividad y autodeterminación de la persona
 - [[fecundidad]] — la bendición de la fecundidad unida a la procreación
 - [[procreación]] — la procreación humana y la dimension sacramental
 - [[matrimonio]] — la unidad a través del cuerpo («una sola carne»)

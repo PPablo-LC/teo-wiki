@@ -28,4 +28,4 @@ La fuente explica que "como la fe es necesaria para el bautismo, poco a poco se 
 - [[didache]]
 
 ## Referencias
-- [[historia_de_la_iglesia_-_p._antonio_rivero_lc]]
+- [[historia_de_la_iglesia_rivero]]

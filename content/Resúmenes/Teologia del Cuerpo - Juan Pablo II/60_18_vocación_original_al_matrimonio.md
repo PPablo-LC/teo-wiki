@@ -17,9 +17,9 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[justicia_originaria]] — el estado de santidad y justicia antes del pecado (Trento)
 - [[espiritualización]] — otra composición de las fuerzas interiores del hombre
 - [[dones_del_espíritu_santo]] — la sensibilidad interior hacia los dones del Espíritu
-- [[significado_esponsalicio_del_cuerpo]] — la conciencia del significado esponsoalicio
+- [[significado_esponsal_del_cuerpo]] — la conciencia del significado esponsoalicio
 - [[etos]] — el ethos perfecto del don y el porvenir del ethos humano
-- [[comunión_de_las_personas]] — la comunión vivida «desde el principio»
+- [[comunión_de_personas]] — la comunión vivida «desde el principio»
 - [[creación]] — el misterio de la creación y su apelación
 - [[procreación]] — la renovación de la existencia mediante la procreación
 - [[vergüenza]] — el nacimiento de la vergüenza tras la pérdida de la inocencia

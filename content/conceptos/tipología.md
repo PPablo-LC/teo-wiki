@@ -33,6 +33,10 @@ La tipología «descubre el contenido más profundo del Antiguo Testamento» y m
 
 Royo Marín no trata directamente la tipología bíblica como método exegético, pero su obra está impregnada del espíritu tipológico al interpretar las Escrituras. Los misterios de la vida de Cristo son presentados como cumplimiento de las figuras del Antiguo Testamento.
 
+### Según Scott Hahn (The Bible and the Virgin Mary)
+
+Scott Hahn (BMV, lecciones 1-7) es el gran exponente contemporáneo de la exégesis tipológica aplicada a la mariología. Todo el curso es un ejercicio de lectura tipológica: María es el antitipo de Eva ([[nueva_eva]]), del [[arca_de_la_alianza]] ([[arca_de_la_nueva_alianza]]) y de la Reina Madre (*gebirah*, [[reina_madre]]). Hahn insiste en que la tipología es el método de los Padres de la Iglesia y de los autores del Nuevo Testamento (Lucas, Juan, el Apocalipsis) y que los dogmas marianos no añaden nada a la Escritura sino que explicitan lo que ya estaba contenido en clave tipológica.
+
 ## Distinciones importantes
 
 - **Tipo** (figura) ≠ **alegoría**: el tipo es una realidad histórica que prefigura otra realidad histórica futura; la alegoría es una ficción narrativa que representa una verdad espiritual.

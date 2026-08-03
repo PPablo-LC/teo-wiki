@@ -51,14 +51,14 @@ El Papa Francisco subraya:
 
 - [[virtudes_teologales]] — Componente fundamental de la vida moral cristiana
 - [[virtudes_morales_infusas]] — Las virtudes morales dadas por Dios
-- [[ley_moral_natural]] — Fundamento de la moralidad humana
+- [[ley_natural]] — Fundamento de la moralidad humana
 - [[vida_cristiana]] — La vida moral como dimensión de la vida cristiana
 
 ## Ver también
 
 - [[virtudes_teologales]]
 - [[virtudes_morales_infusas]]
-- [[ley_moral_natural]]
+- [[ley_natural]]
 - [[vida_cristiana]]
 
 ## Referencias

@@ -17,7 +17,7 @@ La **santidad cristiana** es la participación del cristiano en la santidad de D
 
 ## Relaciones
 
-[[santidad]], [[vocación_universal_a_la_santidad]], [[gracia]], [[virtudes_infusas]], [[dones_del_espíritu_santo]], [[caridad]], [[perfección_cristiana]], [[santos]], [[beatitud]]
+[[santidad]], [[vocación_universal_a_la_santidad]], [[gracia]], [[virtudes_infusas]], [[dones_del_espíritu_santo]], [[caridad]], [[perfección_cristiana]], [[santos]], [[bienaventuranza]]
 
 ## Ver también
 

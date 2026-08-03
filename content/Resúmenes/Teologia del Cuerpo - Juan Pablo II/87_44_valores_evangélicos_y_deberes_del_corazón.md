@@ -28,7 +28,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[gnosis]] — la estructura de la gnosis en el maniqueísmo
 - [[ética_histórica]] — el eco del sermón en la historia del ethos
 - [[cuerpo]] — el cuerpo junto al espíritu en la subjetividad ontológica
-- [[significado_esponsalicio_del_cuerpo]] — la dimensión personal del ser cuerpo
+- [[significado_esponsal_del_cuerpo]] — la dimensión personal del ser cuerpo
 
 ## Contenido
 

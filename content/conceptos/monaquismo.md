@@ -28,4 +28,4 @@ La vida monacal está basada en la frase que Jesús dijo a un joven: "Si quieres
 - [[pobreza_eclesiastica]]
 
 ## Referencias
-- [[historia_de_la_iglesia_-_p._antonio_rivero_lc]]
+- [[historia_de_la_iglesia_rivero]]

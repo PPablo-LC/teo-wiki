@@ -27,7 +27,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[comportamiento]] — la fuerza del interior sobre el comportamiento exterior
 - [[leyenda_moral]] — la deformación de la ley por la incircuncisión
 -[[conciencia]] — el sujeto interior responsable de la deformación
-- [[antropología]] — el fundamento antropológico del juicio
+- [[antropología_cristiana]] — el fundamento antropológico del juicio
 - [[historia_teológica]] — la historia del hombre entrelazada con la teología
 
 ## Contenido

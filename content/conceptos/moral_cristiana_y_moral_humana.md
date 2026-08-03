@@ -51,14 +51,14 @@ Santo Tomás muestra la armonía entre razón y fe en el ámbito moral:
 
 ## Relaciones doctrinales
 
-- [[ley_moral_natural]] — Fundamento de la moral humana
+- [[ley_natural]] — Fundamento de la moral humana
 - [[éticas_filosóficas]] — Precedentes filosóficos de la moral cristiana
 - [[virtudes_morales_infusas]] — Las virtudes infusas elevan las virtudes naturales
 - [[revelación_divina]] — Fuente específica de la moral cristiana
 
 ## Ver también
 
-- [[ley_moral_natural]]
+- [[ley_natural]]
 - [[virtudes_morales_infusas]]
 - [[revelación_divina]]
 

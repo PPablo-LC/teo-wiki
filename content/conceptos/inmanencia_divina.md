@@ -59,14 +59,14 @@ La inmanencia divina tiene implicaciones éticas: si Dios está presente en cada
 
 ## Relaciones doctrinales
 
-La inmanencia divina se conecta directamente con la [[eternidad_divina]], pues la presencia eterna de Dios a todas las cosas es el fundamento de su inmanencia. Se relaciona también con el [[entendimiento_divino]], pues Dios conoce todas las cosas desde su eterno presente y está presente a cada criatura con su providencia. La inmanencia divina fundamenta la posibilidad de la oración y de la vida espiritual, conectándose así con la [[beatitud_visión_de_dios]].
+La inmanencia divina se conecta directamente con la [[eternidad_divina]], pues la presencia eterna de Dios a todas las cosas es el fundamento de su inmanencia. Se relaciona también con el [[entendimiento_divino]], pues Dios conoce todas las cosas desde su eterno presente y está presente a cada criatura con su providencia. La inmanencia divina fundamenta la posibilidad de la oración y de la vida espiritual, conectándose así con la [[visión_beatífica]].
 
 La distinción entre inmanencia divina y panteísmo es esencial para comprender correctamente la doctrina de la [[gracia_santificante]] y la dignidad de la criatura racional. La gracia es una forma de inmanencia sobrenatural que eleva la presencia natural de Dios en el alma justa, haciéndola participar de la vida divina. Esta distinción entre inmanencia natural y sobrenatural es una de las claves de la teología tomista de la gracia.
 
 ## Ver también
 [[eternidad_divina]]
 [[entendimiento_divino]]
-[[beatitud_visión_de_dios]]
+[[visión_beatífica]]
 [[gracia_santificante]]
 [[creación]]
 

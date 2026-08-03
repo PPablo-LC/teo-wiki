@@ -28,4 +28,4 @@ El marcionismo fue difundido en el siglo II por Marción, junto con Valentín, E
 - [[adopcionismo]]
 
 ## Referencias
-- [[historia_de_la_iglesia_-_p._antonio_rivero_lc]]
+- [[historia_de_la_iglesia_rivero]]

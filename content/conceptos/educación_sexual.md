@@ -13,7 +13,7 @@ description: "Formación integral que acompaña el descubrimiento de la sexualid
 
 ## Definición
 
-Proceso de formación integral que acompaña el descubrimiento y desarrollo de la sexualidad humana en el contexto de la [[antropología]] cristiana, integrando las dimensiones biológica, afectiva, moral y espiritual de la persona.
+Proceso de formación integral que acompaña el descubrimiento y desarrollo de la sexualidad humana en el contexto de la [[antropología_cristiana]] cristiana, integrando las dimensiones biológica, afectiva, moral y espiritual de la persona.
 
 ## Desarrollo doctrinal
 

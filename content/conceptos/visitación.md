@@ -35,6 +35,10 @@ Isabel, «llena del Espíritu Santo», proclama a María «bendita entre las muj
 
 La Vida de Jesús (VJ) contempla la Visitación como el encuentro de dos maternidades marcadas cada una por un prodigio (Cap. I). María se pone en camino «con presteza» para visitar a Isabel, movida por la necesidad del corazón y el deseo de servicio. La presencia de María lleva a la casa de Isabel al Cristo, que derrama el Espíritu Santo, produciendo un preludio de Pentecostés. La exclamación de Isabel —«Dichosa la que ha creído»— proclama que la fe de María es su principal título de grandeza. En la Visitación, María lleva los dones incomparables de la gracia, la alegría y la luz.
 
+### Según Scott Hahn (The Bible and the Virgin Mary)
+
+Scott Hahn (BMV, lección 5) presenta la Visitación como el momento en que María, el [[arca_de_la_nueva_alianza]], lleva a la casa de Isabel la presencia de Dios. El paralelo con 2 Sam 6 es deliberado: María «se levantó y fue deprisa» (Lc 1,39) como David ante el Arca; Isabel exclama «¿Quién soy yo para que la madre de mi Señor venga a mí?» (Lc 1,43), eco de «¿Cómo ha de venir a mí el Arca del Señor?» (2 Sam 6,9); Juan salta en el vientre como David saltó ante el Arca. La Visitación muestra a María como portadora de Cristo y arca viva de la nueva alianza.
+
 ## Relaciones doctrinales
 
 Se relaciona con la [[encarnación]], la [[virgen_maría]], el [[magníficat]], Isabel (como modelo de acogida del Espíritu), la santificación de Juan Bautista, y los [[misterios_del_rosario]].

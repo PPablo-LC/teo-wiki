@@ -18,9 +18,9 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[sacramento_del_cuerpo]] — el cuerpo como signo del misterio invisible
 - [[inocencia_originaria]] — la inocencia como «pureza de corazón»
 - [[pureza_de_corazón]] — la imposibilidad de reducir al otro a objeto
-- [[significado_esponsalicio_del_cuerpo]] — la conciencia primordial del significado esponsalicio
+- [[significado_esponsal_del_cuerpo]] — la conciencia primordial del significado esponsalicio
 - [[don]] — el ethos del don y la libertad del don
-- [[comunión_de_las_personas]] — la recíproca compenetración de los «yo»
+- [[comunión_de_personas]] — la recíproca compenetración de los «yo»
 - [[imagen_de_dios]] — la semejanza con Dios en la corporeidad
 - [[creación]] — la sacramentalidad del mundo creado
 - [[matrimonio]] — el sacramento del matrimonio (Gén 2, 24)

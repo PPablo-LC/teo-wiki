@@ -15,18 +15,18 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[soledad_originaria]] — «No es bueno que el hombre esté solo» (Gén 2, 18)
 - [[don]] — la esencia del don a nivel de hombre: existir «con alguno» y «para alguno»
 - [[don_recíproco]] — la relación de don recíproco entre las personas
-- [[comunión_de_las_personas]] — existir en un recíproco «para»
+- [[comunión_de_personas]] — existir en un recíproco «para»
 - [[cuerpo]] — el cuerpo como testigo de la creación como don
-- [[significado_esponsalicio_del_cuerpo]] — la revelación y descubrimiento del significado esponsalicio
+- [[significado_esponsal_del_cuerpo]] — la revelación y descubrimiento del significado esponsalicio
 - [[creación]] — el donar creador que brota del Amor
-- [[antropología]] — la antropología adecuada: persona y cuerpo-sexo
+- [[antropología_cristiana]] — la antropología adecuada: persona y cuerpo-sexo
 - [[desnudez_originaria]] — la desnudez libre de vergüenza como libertad interior
 - [[varón_y_mujer]] — la expresión recíproca masculinidad-feminidad
 - [[sexo]] — el sexo como signo originario de la donación creadora
 - [[fecundidad]] — la bendición de la fecundidad y la procreación
 - [[procreación]] — la finalidad procreadora de la masculinidad-feminidad
 - [[libertad]] — la libertad interior respecto a la coacción del cuerpo
-- [[persona]] — la existencia personal y la imagen de Dios
+- [[persona_humana]] — la existencia personal y la imagen de Dios
 - [[felicidad]] — el comienzo subjetivamente beatificante de la existencia
 - [[amor]] — el Amor como fuente del donar creador
 - [[imagen_de_dios]] — el nivel de «imagen de Dios» en la teología del cuerpo

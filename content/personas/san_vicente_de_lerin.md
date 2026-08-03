@@ -29,4 +29,4 @@ Rivero cita una larga extracto del *Commonitorium* (434) en el que San Vicente d
 [[tradición]] [[ortodoxia]] [[patrística]]
 
 ## Referencias
-- [[historia_de_la_iglesia_-_p._antonio_rivero_lc]]
+- [[historia_de_la_iglesia_rivero]]

@@ -20,7 +20,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[sensualidad]] — la limitación de la espiritualidad humana
 - [[psychikon]] — el término griego y su uso extenso en 1 Cor
 - [[obras_de_la_carne]] — el hombre contrapuesto al Espíritu
-- [[fruto_del_espíritu]] — Gál 5, 22: el hombre «espiritual» productor
+- [[frutos_del_espíritu_santo]] — Gál 5, 22: el hombre «espiritual» productor
 - [[autonomia_de_la_sensualidad]] — la fuerza que «ata» al espíritu
 - [[aristóteles]] — hyle del dualismo antropológico superado
 - [[Espíritu_Santo]] — el don definitivo por la resurrección de Cristo

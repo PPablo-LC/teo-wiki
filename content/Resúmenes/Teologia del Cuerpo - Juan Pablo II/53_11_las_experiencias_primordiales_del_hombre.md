@@ -21,7 +21,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[subjetividad]] — la dimensión de subjetividad personal del hombre
 - [[conciencia]] — el estado de conciencia de los primeros seres humanos
 - [[cuerpo]] — la experiencia recíproca del cuerpo varón-mujer
-- [[antropología]] — el primer esbozo bíblico de la antropología
+- [[antropología_cristiana]] — el primer esbozo bíblico de la antropología
 - [[experiencia_originaria]] — lo que está en la raíz de toda experiencia humana
 - [[varón_y_mujer]] — la relación varón-mujer, feminidad-masculinidad
 - [[alianza]] — la primera Alianza y su ruptura

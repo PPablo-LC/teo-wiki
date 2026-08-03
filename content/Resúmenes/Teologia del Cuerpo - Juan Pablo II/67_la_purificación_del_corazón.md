@@ -21,7 +21,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[conciencia]] — el deber como respuesta del yo personal
 - [[concupiscencia_de_la_carne|concupiscencia]] — la mirada de deseo y su valor moral
 - [[corazón]] — la dimensión del corazón humano (antropología hebraica)
-- [[antropología]] — la antropología «adecuada» del hombre interior
+- [[antropología_cristiana]] — la antropología «adecuada» del hombre interior
 - [[ley_moral]] — el cumplimiento pleno del Decálogo
 - [[reino_de_los_cielos]] — el reino en su dimensión escatológica
 - [[ley_natural]] — el mandamiento «escrito en el corazón» (Rom 2, 15)

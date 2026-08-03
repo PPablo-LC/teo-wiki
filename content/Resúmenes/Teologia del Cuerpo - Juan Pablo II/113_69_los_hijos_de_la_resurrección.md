@@ -17,7 +17,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[revelación_del_cuerpo]] — el tríptico: principio, corazón, resurrección
 - [[mundo_futuro]] — la dimensión escatológica del «otro mundo»
 - [[identidad_del_hombre]] — el hombre será siempre el mismo
-- [[significado_esponsalicio_del_cuerpo]] — realizado perfectamente en la resurrección
+- [[significado_esponsal_del_cuerpo]] — realizado perfectamente en la resurrección
 - [[matrimonio]] — el fin de la dimensión histórica del matrimonio
 - [[libertad_del_don]] — la fuente redescubierta en el cuerpo glorificado
 - [[comunion_personarum]] — la comunión de personas desde el principio

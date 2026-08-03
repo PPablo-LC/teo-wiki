@@ -27,4 +27,4 @@ San Pacomio (347) fue quien organizó la vida cenobítica, escribiendo una regla
 - [[eremitismo]]
 
 ## Referencias
-- [[historia_de_la_iglesia_-_p._antonio_rivero_lc]]
+- [[historia_de_la_iglesia_rivero]]

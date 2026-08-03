@@ -14,7 +14,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 
 - [[creación_del_hombre]] — segundo relato (Gn 2), tradición yahvista
 - [[varón_y_mujer]] — ‘adam, ‘is e ‘issàh: creación por separado de la mujer (Gn 2,18-23)
-- [[inocencia_original]] — la primera situación originaria del hombre
+- [[inocencia_originaria]] — la primera situación originaria del hombre
 - [[pecado_original]] — la segunda situación originaria del hombre
 - [[caída_original]] — narración de Gn 3 y el árbol de la ciencia del bien y del mal
 - [[indisolubilidad_del_matrimonio]] — «los dos una sola carne» (Gn 2,24)

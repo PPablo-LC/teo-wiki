@@ -27,6 +27,10 @@ En virtud de esta plenitud, María fue redimida de modo eminente, preservada del
 
 [JPII, Redemptoris Mater §8-11]: El saludo «llena de gracia» es el nombre propio de María, no su nombre civil. Significa que en ella se ha manifestado en cierto sentido toda la «gloria de su gracia» con que el Padre «nos agració en el Amado» (Ef 1,6). La plenitud de gracia indica la dádiva sobrenatural de la que se beneficia María por haber sido elegida y destinada a ser Madre de Cristo [RM §9]. María es «llena de gracia» porque la Encarnación del Verbo, la unión hipostática del Hijo de Dios con la naturaleza humana, se realiza y cumple precisamente en ella [RM §9]. María recibe la vida de aquel a quien ella misma dio la vida como madre —«madre de su Progenitor»— y esta nueva vida la recibe con plenitud correspondiente a la dignidad de la maternidad divina [RM §10]. La gracia determina la extraordinaria grandeza y belleza de todo su ser [RM §11].
 
+### Según Scott Hahn (The Bible and the Virgin Mary)
+
+Scott Hahn (BMV, lección 9) subraya que «llena de gracia» (*kecharitomene*, Lc 1,28) es un nombre, no un elogio: el ángel llama a María por lo que ella es en el orden de la gracia. Esta plenitud implica la ausencia total de pecado desde el primer instante de su concepción, fundamento de la Inmaculada Concepción (*Ineffabilis Deus*, 1854). El curso recuerda que la gracia de María es enteramente obra de la redención de Cristo, aplicada de modo preventivo; la tradición oriental (san Efrén, san Juan de Damasco) cantó su pureza total, y Lourdes la confirmaría: «Yo soy la Inmaculada Concepción».
+
 ## Distinciones importantes
 
 - **Gracia santificante** (común a todos los justos) vs. **plenitud de gracia** (singular en María)

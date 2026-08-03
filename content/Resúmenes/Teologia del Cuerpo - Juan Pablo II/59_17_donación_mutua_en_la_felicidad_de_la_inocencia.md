@@ -17,9 +17,9 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[don_sincero_de_sí]] — el «don sincero de sí» (Gaudium et spes, 24)
 - [[donación_mutua]] — la donación mutua que crea la comunión de las personas
 - [[acogida]] — la recíproca aceptación del otro como don
-- [[comunión_de_las_personas]] — la comunión creada por el intercambio del don
+- [[comunión_de_personas]] — la comunión creada por el intercambio del don
 - [[vergüenza]] — el comienzo de la vergüenza como amenaza al don
-- [[significado_esponsalicio_del_cuerpo]] — el significado esponsalicio realizado concretamente
+- [[significado_esponsal_del_cuerpo]] — el significado esponsalicio realizado concretamente
 - [[libertad]] — la libertad interior del don unida a la inocencia
 - [[consciencia_de_la_persona]] — la «posesión de sí» y la persona como sujeto
 - [[varón_y_mujer]] — el varón y la mujer como don recíproco

@@ -15,7 +15,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[conocimiento_bíblico]] — el «conoció» (jada') como unión conyugal
 - [[acto_conyugal]] — convertirse en «una sola carne»
 - [[unión_conyugal]] — la convivencia matrimonial y sus significados
-- [[persona]] — el yo humano revelado mediante el sexo
+- [[persona_humana]] — el yo humano revelado mediante el sexo
 - [[identidad_personal]] — la unicidad e irrepetibilidad del varón y de la mujer
 - [[fecundidad]] — la bendición de la fecundidad (Gén 1, 27-28)
 - [[pecado_y_muerte]] — el mysterium iniquitatis y la muerte

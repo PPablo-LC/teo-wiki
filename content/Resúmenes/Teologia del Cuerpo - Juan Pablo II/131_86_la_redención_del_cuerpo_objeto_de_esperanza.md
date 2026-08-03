@@ -18,7 +18,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[vanidad]] — la creación sujeta a la vanidad (Rom 8, 20)
 - [[gemido_de_la_creación]] — los dolores de parto del cosmos (Rom 8, 22)
 -[[libertad_de_los_hijos_de_dios]] — la libertad de gloria (Rom 8, 19-21)
-- [[antropología]] — la dimensión antropológica de la redención
+- [[antropología_cristiana]] — la dimensión antropológica de la redención
 - [[dimensión_cósmica]] — la redención del mundo
 - [[salvación]] — la salvación ya realizada en Cristo
 - [[cumplimiento_escatológico]] — proyectada hacia su cumplimiento

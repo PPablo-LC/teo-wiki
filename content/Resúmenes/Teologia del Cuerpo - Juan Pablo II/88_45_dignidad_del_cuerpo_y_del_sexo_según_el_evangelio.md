@@ -20,9 +20,9 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[significado_sacramental]] — el signo sacramental «una sola carne» (Mt 19, 5-6)
 - [[status_natur_laps_simul_ac_redempt]] — el estado del hombre «histórico»
 - [[peligro_moral]] — la justificación del acto con perjuicio del objeto
-- [[significado_esponsalicio_del_cuerpo]] — la pérdida parcial del significado esponsalicio
+- [[significado_esponsal_del_cuerpo]] — la pérdida parcial del significado esponsalicio
 - [[virtud]] — la firmeza necesaria como condición del cumplimiento
-- [[comunión_de_las_personas]] — el sustrato más profundo de la ética y la cultura
+- [[comunión_de_personas]] — el sustrato más profundo de la ética y la cultura
 - [[valor_no_bastante_apreciado]] — el cuerpo como «valor no bastante apreciado»
 -[[ética_forma_del_eros]] — la forma del ethos de la redención
 - [[diseño_originario]] — el valor del cuerpo y sexo según el designio del Creador

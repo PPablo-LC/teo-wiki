@@ -25,6 +25,10 @@ El Protoevangelio es la primera profecía mesiánica de la Escritura. Dios anunc
 
 [JPII, Redemptoris Mater §11, §24]: En el designio salvífico de la Santísima Trinidad, el misterio de la Encarnación constituye el cumplimiento sobreabundante de la promesa hecha por Dios a los hombres después del pecado original (Gn 3,15). Viene al mundo un Hijo, el «linaje de la mujer», que derrotará el mal del pecado en su misma raíz: «aplastará la cabeza de la serpiente». La victoria del Hijo de la mujer no sucederá sin una dura lucha [RM §11]. María, Madre del Verbo encarnado, está situada en el centro mismo de aquella enemistad, de aquella lucha que acompaña la historia de la humanidad [RM §11]. Las palabras de Jesús desde la Cruz —«Mujer, ahí tienes a tu hijo» (Jn 19,26)— se refieren al singular lugar que María ocupa en toda la economía de la salvación, como la mujer indicada por el libro del Génesis (3,15) al comienzo de la historia de la salvación [RM §24].
 
+### Según Scott Hahn (The Bible and the Virgin Mary)
+
+Scott Hahn (BMV, lecciones 2-4) considera el protoevangelio (Gn 3,15) la clave de la mariología bíblica: la «enemistad entre la mujer y la serpiente» se cumple en María, la nueva Eva. El curso muestra que Jesús llama «mujer» a su madre en Caná (Jn 2,4) y en la cruz (Jn 19,26), palabras que evocan deliberadamente Gn 3,15 y vinculan a María con la mujer del Apocalipsis (Ap 12). Hahn subraya la continuidad entre la promesa del Génesis y los dogmas marianos: la victoria de la mujer sobre la serpiente culmina en la Inmaculada Concepción y en la maternidad espiritual de María.
+
 ## Distinciones importantes
 
 - **Protoevangelio** (primer anuncio) ≠ **Evangelio** (cumplimiento pleno en Jesucristo)

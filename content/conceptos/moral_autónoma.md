@@ -44,13 +44,13 @@ El autor presenta la moral autónoma como:
 ## Relaciones doctrinales
 
 - [[justa_autonomía_de_la_razón_práctica]] — La justa autonomía como correcto de la moral autónoma
-- [[ley_moral_natural]] — La ley natural como fundamento de la moralidad
+- [[ley_natural]] — La ley natural como fundamento de la moralidad
 - [[moral_cristiana_y_moral_humana]] — La relación entre moral cristiana y humana
 
 ## Ver también
 
 - [[justa_autonomía_de_la_razón_práctica]]
-- [[ley_moral_natural]]
+- [[ley_natural]]
 - [[moral_cristiana_y_moral_humana]]
 
 ## Referencias

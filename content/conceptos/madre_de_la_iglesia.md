@@ -29,6 +29,10 @@ El título se funda en la entrega que Jesús hace de su Madre al discípulo amad
 
 [JPII, Redemptoris Mater §40]: María, «esclava del Señor», fue entregada por su Hijo como madre a la Iglesia naciente. Después de la ascensión del Hijo, su maternidad permanece en la Iglesia como mediación materna.
 
+### Según Scott Hahn (The Bible and the Virgin Mary)
+
+Scott Hahn (BMV, lección 12) desarrolla la maternidad espiritual de María desde Jn 19,26-27: «Mujer, he ahí a tu hijo… He ahí a tu madre». El discípulo amado representa a todo creyente: cada cristiano recibe a María como madre en el orden de la gracia. El curso enmarca el título «Madre de la Iglesia» en la mujer del Apocalipsis (Ap 12,17), cuya descendencia —la Iglesia— es perseguida y protegida por su intercesión. Hahn subraya que la maternidad de María es participación en la obra de Cristo, no una instancia paralela.
+
 ## Distinciones importantes
 
 - **Madre de Dios** (fundamento ontológico) ≠ **Madre de la Iglesia** (dimensión eclesial)

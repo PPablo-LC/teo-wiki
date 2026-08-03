@@ -47,6 +47,10 @@ Según DM, «el Magníficat mariano tiene un contenido profético que afecta no 
 
 [JPII, Redemptoris Mater §4, §8-11, §38-41]: María es la *Theotókos*, Madre de Dios, porque por obra del Espíritu Santo concibió en su seno virginal y dio al mundo a Jesucristo, el Hijo de Dios consubstancial al Padre. El dogma de la maternidad divina, confirmado solemnemente en el Concilio de Éfeso (431), es para la Iglesia como un sello del dogma de la Encarnación [RM §4]. La plenitud de gracia de María (*Kejaritoméne*) se funda en su elección como Madre del Hijo de Dios: en el misterio de Cristo, María está presente ya «antes de la creación del mundo» como aquella que el Padre ha elegido como Madre de su Hijo en la Encarnación [RM §8-9]. La maternidad divina constituye la dimensión primera y fundamental de la mediación de María, que no oscurece la única mediación de Cristo sino que manifiesta su poder [RM §38-39].
 
+### Scott Hahn (The Bible and the Virgin Mary)
+
+Scott Hahn (BMV, lecciones 6-7) fundamenta la maternidad divina en la realeza davídica: el ángel anuncia que Jesús recibirá «el trono de David, su padre» (Lc 1,32-33), por lo que María, madre del Rey, es la [[reina_madre]] (*gebirah*) de la nueva dinastía. Isabel la aclama «madre de mi Señor» (Lc 1,43), fórmula que evoca a la madre del rey (1 Re 2,20). Hahn insiste en que el título *Theotokos* (definido en Éfeso, 431) no es una invención posterior sino la explicitación de lo que la Escritura ya presentaba: María es la madre del Rey davídico, el Hijo de Dios.
+
 ## Distinciones importantes
 
 - **Theotokos** ≠ **Christotokos**: la herejía nestoriana negaba a María el título de Madre de Dios

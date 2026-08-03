@@ -28,4 +28,4 @@ En el siglo III, algunos cristianos empezaron a estudiar el misterio de la Trini
 - [[adopcionismo]]
 
 ## Referencias
-- [[historia_de_la_iglesia_-_p._antonio_rivero_lc]]
+- [[historia_de_la_iglesia_rivero]]

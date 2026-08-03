@@ -44,6 +44,10 @@ Este testimonio es particularmente valioso porque:
 
 Desarrolló la doctrina de la [[recapitulación]] en Cristo: así como Adán introdujo la muerte y la desobediencia en toda la humanidad, Cristo, nuevo Adán, recapituló en sí toda la historia humana para restaurarla. Esta teología influyó en la soteriología posterior.
 
+### Mariología: Eva y María
+
+En *Adversus Haereses* III,22 desarrolla el paralelismo Eva-María, recogido luego por la tradición y el magisterio (LG §56): «el nudo de la desobediencia de Eva fue desatado por la obediencia de María; lo que ató la virgen Eva por la incredulidad, la Virgen María lo desató por la fe». María, nueva Eva, es causa de salvación. Scott Hahn (BMV, lecciones 2-4) presenta a Ireneo como el principal testigo patrístico de la tipología de la [[nueva_eva]] y de la [[corredención]].
+
 ## Ver también
 
 [[padres_de_la_iglesia]], [[gnosticismo]], [[sucesión_apostólica]], [[tradición_apostólica]], [[canon_bíblico]], [[recapitulación]], [[san_policarpo_de_esmirna]], [[patrística]]

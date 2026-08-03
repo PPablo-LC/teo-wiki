@@ -29,4 +29,4 @@ Rivero señala que «san Cipriano, obispo de Cartago, muerto en el 258, luchó p
 [[unidad_de_la_iglesia]] [[lapsi]] [[martirio]]
 
 ## Referencias
-- [[historia_de_la_iglesia_-_p._antonio_rivero_lc]]
+- [[historia_de_la_iglesia_rivero]]

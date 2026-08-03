@@ -27,7 +27,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[varón_y_mujer]] — la masculinidad y feminidad generadoras
 - [[vida]] — la inflexibilidad de la vida que supera a la muerte
 - [[teología_del_cuerpo]] — el «principio» al que se refirió Cristo
-- [[comunión_de_las_personas]] — la unión de personas en el amor
+- [[comunión_de_personas]] — la unión de personas en el amor
 - [[matrimonio]] — el umbral de la historia humana
 - [[alianza]] — el quebrantamiento de la alianza con el Creador
 

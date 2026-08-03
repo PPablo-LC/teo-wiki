@@ -27,4 +27,4 @@ El eremitismo fue la forma más antigua de monaquismo, surgiendo en Egipto en el
 - [[cenobitismo]]
 
 ## Referencias
-- [[historia_de_la_iglesia_-_p._antonio_rivero_lc]]
+- [[historia_de_la_iglesia_rivero]]

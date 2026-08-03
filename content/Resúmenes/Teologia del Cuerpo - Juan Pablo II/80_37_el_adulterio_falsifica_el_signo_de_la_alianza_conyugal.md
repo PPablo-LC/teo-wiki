@@ -24,7 +24,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[una_sola_carne]] — Gén 2, 24 como derecho y signo
 - [[misericordia]] — la elección de la esposa como acto de misericordia
 - [[matrimonio]] — el matrimonio monogámico como institución
-- [[comunión_de_las_personas]] — la normativa interior de la comunión
+- [[comunión_de_personas]] — la normativa interior de la comunión
 - [[cumplimiento_de_la_ley]] — «no he venido a abrogarla, sino a cumplirla» (Mt 5, 17)
 - [[casuística]] — la perspectiva legislativa superada
 - [[ética]] — el mal moral del adulterio por contraposición al bien

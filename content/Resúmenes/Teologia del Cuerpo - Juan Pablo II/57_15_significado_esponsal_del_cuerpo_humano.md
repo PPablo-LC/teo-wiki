@@ -12,15 +12,15 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-- [[significado_esponsalicio_del_cuerpo]] — el significado esponsalicio del cuerpo humano
+- [[significado_esponsal_del_cuerpo]] — el significado esponsalicio del cuerpo humano
 - [[don]] — la libertad del don como raíz de la desnudez originaria
 - [[don_sincero_de_sí]] — el «don sincero de sí» (Gaudium et spes, 24)
 - [[desnudez_originaria]] — la desnudez libre de la vergüenza
 - [[libertad]] — la libertad interior entendida como dominio de sí
 - [[autodominio]] — el dominio de sí como condición del darse
 - [[afirmación_de_la_persona]] — la acogida del don y la comunión de las personas
-- [[comunión_de_las_personas]] — la communio personarum creada por la reciprocidad
-- [[persona]] — la persona querida por Dios «por sí misma»
+- [[comunión_de_personas]] — la communio personarum creada por la reciprocidad
+- [[persona_humana]] — la persona querida por Dios «por sí misma»
 - [[cuerpo]] — el cuerpo como expresión del amor y de la persona
 - [[varón_y_mujer]] — el varón y la mujer en su masculinidad y feminidad
 - [[amor]] — el amor en el que el hombre-persona se convierte en don

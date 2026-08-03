@@ -63,11 +63,11 @@ El Catecismo enseña que "los bienaventurados, cuya voluntad se conforma enteram
 
 ## Relaciones doctrinales
 
-La visión beatífica es la consumación de la [[gracia]] y de la [[vida_eterna]]. Se conecta con la [[caridad]] (que ordena al intelecto para la visión), la [[virtud_de_la_fe]] (que es conocimiento oscuro que se consumará en la visión clara), la [[alma_separada]] (el alma separada puede gozar de la visión beatífica antes de la resurrección) y la [[resurrección_de_la_carne]] (el cuerpo resucitado participará también de la gloria). La luz de gloria es la elevación sobrenatural del [[conocimiento_intelectual]]. La visión beatífica se relaciona también con la [[beatitud]] (fin último del hombre) y con la [[premio_eterno]] (recompensa por las buenas obras).
+La visión beatífica es la consumación de la [[gracia]] y de la [[vida_eterna]]. Se conecta con la [[caridad]] (que ordena al intelecto para la visión), la [[virtud_de_la_fe]] (que es conocimiento oscuro que se consumará en la visión clara), la [[alma_separada]] (el alma separada puede gozar de la visión beatífica antes de la resurrección) y la [[resurrección_de_la_carne]] (el cuerpo resucitado participará también de la gloria). La luz de gloria es la elevación sobrenatural del [[conocimiento_intelectual]]. La visión beatífica se relaciona también con la [[bienaventuranza]] (fin último del hombre) y con la [[premio_eterno]] (recompensa por las buenas obras).
 
 ## Ver también
 
-[[alma_separada]], [[caridad]], [[virtud_de_la_fe]], [[gracia]], [[vida_eterna]], [[resurrección_de_la_carne]], [[bienaventuranza]], [[conocimiento_intelectual]], [[premio_eterno]], [[beatitud]]
+[[alma_separada]], [[caridad]], [[virtud_de_la_fe]], [[gracia]], [[vida_eterna]], [[resurrección_de_la_carne]], [[bienaventuranza]], [[conocimiento_intelectual]], [[premio_eterno]], [[bienaventuranza]]
 
 ## Referencias
 

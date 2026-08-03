@@ -45,13 +45,13 @@ El autor presenta el análisis teleológico como:
 
 - [[análisis_moral_del_fin_último]] — El análisis como tal
 - [[fin_último]] — El fin último como objeto
-- [[beatitud]] — La beatitud como fin último
+- [[bienaventuranza]] — La beatitud como fin último
 
 ## Ver también
 
 - [[análisis_moral_del_fin_último]]
 - [[fin_último]]
-- [[beatitud]]
+- [[bienaventuranza]]
 
 ## Referencias
 

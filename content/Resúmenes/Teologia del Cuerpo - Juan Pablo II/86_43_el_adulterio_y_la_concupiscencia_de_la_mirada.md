@@ -18,7 +18,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[status_naturæ_lapsæ]] — la concupiscencia de la carne como disposición permanente
 - [[utilitarismo]] — el recíproco «para» reducido a función utilitaria
 - [[instinto]] — el instinto vs la atracción personal
-- [[comunión_de_las_personas]] — la deformación del carácter de comunión
+- [[comunión_de_personas]] — la deformación del carácter de comunión
 - [[interpretación_psicológica]] — el límite de la interpretación «sexológica»
 - [[interpretación_teológica]] — la relación orgánica entre acto y disposición
 - [[pureza_del_corazón]] — Mv 5, 8 y el cumplimiento de la ley

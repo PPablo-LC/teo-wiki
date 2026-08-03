@@ -27,7 +27,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[entorno_cultural]] — la sensibilidad contemporánea y las costumbres
 - [[estructura_integradora]] — el fundamento sólido que integra
 - [[heraldo_del_misterio]] — el apóstol como heraldo del misterio
-- [[antropología]] — la dimensión del misterio trascendente en la esencia del matrimonio
+- [[antropología_cristiana]] — la dimensión del misterio trascendente en la esencia del matrimonio
 -[[adulterio_de_corazón]] — la insensitividad a la pornografía
 - [[conciencia]] — la conciencia de la elección eterna en Cristo
 

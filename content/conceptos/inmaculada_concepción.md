@@ -60,8 +60,11 @@ Loring explica que la Inmaculada Concepción significa que María fue preservada
 
 **Alejandro VIII** (1690, D‑1314): Condenó la proposición jansenista que afirmaba que la oblación de la Virgen María en el templo «atestigua que ella necesitaba purificación, y que el hijo que se ofrecía estaba también manchado con la mancha de la madre». La condena reafirma que María no necesitó purificación alguna por su Inmaculada Concepción.
 
-## Distinciones importantes
+### Según Scott Hahn (The Bible and the Virgin Mary)
 
+Scott Hahn (BMV, lecciones 8-9) fundamenta la Inmaculada Concepción en el saludo «llena de gracia» (*kecharitomene*, Lc 1,28): el nombre que el ángel da a María expresa la plenitud total de gracia, incompatible con el pecado. El curso presenta el dogma de *Ineffabilis Deus* (1854) como la explicitación dogmática de lo que la Escritura ya contenía en clave tipológica: María, la llena de gracia y la mujer del protoevangelio (Gn 3,15), es preservada del pecado original desde el primer instante. La tradición oriental (san Efrén, san Juan de Damasco) cantó la pureza total de María; Lourdes (1858) la confirmaría: «Yo soy la Inmaculada Concepción».
+
+## Distinciones importantes
 - **Inmaculada Concepción**: María fue concebida sin pecado original
 - **Concepción virginal**: Jesús fue concebido por obra del Espíritu Santo sin intervención de varón
 - La Inmaculada es un dogma sobre María; la concepción virginal es un dogma sobre Cristo

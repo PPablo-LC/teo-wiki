@@ -61,14 +61,14 @@ La espiritualidad del alma y su inmortalidad son también el fundamento de la es
 
 ## Relaciones doctrinales
 
-La inmortalidad del alma se conecta directamente con la doctrina de la [[unión_del_alma_y_del_cuerpo]], pues el hilemorfismo que fundamenta ambas tesis es el mismo. La espiritualidad del alma se relaciona con la potencia intelectual y la [[potencia_apetitiva_y_cognoscitiva]], especialmente con la capacidad del intelecto de trascender lo material. La inmortalidad del alma fundamenta la escatología individual: el juicio particular, el estado intermedio y la [[beatitud_visión_de_dios]] como fin último del ser humano.
+La inmortalidad del alma se conecta directamente con la doctrina de la [[unión_del_alma_y_del_cuerpo]], pues el hilemorfismo que fundamenta ambas tesis es el mismo. La espiritualidad del alma se relaciona con la potencia intelectual y la [[potencia_apetitiva_y_cognoscitiva]], especialmente con la capacidad del intelecto de trascender lo material. La inmortalidad del alma fundamenta la escatología individual: el juicio particular, el estado intermedio y la [[visión_beatífica]] como fin último del ser humano.
 
 Además, la espiritualidad del alma se vincula con la doctrina de la [[libertad_humana]]: al poseer operaciones trascendentes a la materia, el alma humana es libre, capaz de elegir entre el bien y el mal. Esta libertad es la base de la responsabilidad moral y del mérito o demérito que el ser humano acumula durante su vida terrenal. La inmortalidad del alma asegura que esta responsabilidad moral no se agota con la muerte, sino que se prolonga en la eternidad.
 
 ## Ver también
 [[unión_del_alma_y_del_cuerpo]]
 [[potencia_apetitiva_y_cognoscitiva]]
-[[beatitud_visión_de_dios]]
+[[visión_beatífica]]
 [[libertad_humana]]
 
 ## Referencias

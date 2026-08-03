@@ -77,11 +77,11 @@ La Regla no se impone: el candidato tiene la libertad de retirarse en cualquier 
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[estabilidad]], la [[voto_de_obediencia]], la [[profesion_monastica]], la [[vida_monastica]], la [[conversión]], la [[vocacion_cristiana]], la [[humildad]] y la [[oficio_divino]].
+Se relaciona con la [[estabilidad_religiosa]], la [[voto_de_obediencia]], la [[profesion_monastica]], la [[vida_monastica]], la [[conversión]], la [[vocacion_cristiana]], la [[humildad]] y la [[oficio_divino]].
 
 ## Ver también
 
-[[vida_monastica]], [[estabilidad]], [[profesion_monastica]], [[voto_de_obediencia]], [[vocacion_cristiana]], [[humildad]], [[conversión]], [[obediencia]]
+[[vida_monastica]], [[estabilidad_religiosa]], [[profesion_monastica]], [[voto_de_obediencia]], [[vocacion_cristiana]], [[humildad]], [[conversión]], [[obediencia]]
 
 ## Referencias
 

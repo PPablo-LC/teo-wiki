@@ -29,4 +29,4 @@ Rivero menciona que «san León Magno enfrentó a las hordas de Atila, quien aba
 [[concilio_de_calcedonia]] [[cristología]] [[primado_petrino]]
 
 ## Referencias
-- [[historia_de_la_iglesia_-_p._antonio_rivero_lc]]
+- [[historia_de_la_iglesia_rivero]]

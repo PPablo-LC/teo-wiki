@@ -27,6 +27,10 @@ La comparación Eva-María es uno de los ejes de la mariología patrística. Eva
 
 [JPII, Redemptoris Mater §37]: María, a quien la tradición llama «nueva Eva» y verdadera «madre de los vivientes», proclama con fuerza en el Magníficat la verdad no ofuscada sobre Dios, frente a la sospecha que el padre de la mentira hizo surgir en el corazón de Eva.
 
+### Scott Hahn (The Bible and the Virgin Mary)
+
+Scott Hahn (BMV, lecciones 2-4) desarrolla el paralelismo Eva-María como eje del curso. En la anunciación, María responde donde Eva desobedeció: la comparación es deliberada en el texto de Lucas. Hahn subraya que Jesús llama «mujer» a María en Caná (Jn 2,4) y en la cruz (Jn 19,26) —eco deliberado de Gn 3,15—, vinculándola al protoevangelio y a la mujer del Apocalipsis (Ap 12). El curso insiste en san Ireneo: «el nudo de la desobediencia de Eva fue desatado por la obediencia de María», y en san Justino, primer formulador del paralelismo. María, nueva Eva, es madre de todos los vivientes en la nueva creación.
+
 ## Distinciones importantes
 
 - Eva es figura (tipo) de María: María es la realización perfecta

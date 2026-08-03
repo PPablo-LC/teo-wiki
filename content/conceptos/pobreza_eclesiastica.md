@@ -27,4 +27,4 @@ La fuente describe cómo Constantino "construyó iglesias, obsequió al Papa Sil
 - [[cesaropapismo]]
 
 ## Referencias
-- [[historia_de_la_iglesia_-_p._antonio_rivero_lc]]
+- [[historia_de_la_iglesia_rivero]]

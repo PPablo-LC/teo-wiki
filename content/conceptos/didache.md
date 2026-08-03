@@ -27,4 +27,4 @@ La Didaché fue descubierta en 1873 por el arzobispo griego Filoteo Briennios en
 - [[catecumenado]]
 
 ## Referencias
-- [[historia_de_la_iglesia_-_p._antonio_rivero_lc]]
+- [[historia_de_la_iglesia_rivero]]

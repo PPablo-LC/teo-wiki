@@ -29,4 +29,4 @@ Rivero señala que «San Pacomio (347) organizó la vida cenobítica, escribiend
 [[monacato]] [[cenobitismo]] [[san_antonio_abad]]
 
 ## Referencias
-- [[historia_de_la_iglesia_-_p._antonio_rivero_lc]]
+- [[historia_de_la_iglesia_rivero]]

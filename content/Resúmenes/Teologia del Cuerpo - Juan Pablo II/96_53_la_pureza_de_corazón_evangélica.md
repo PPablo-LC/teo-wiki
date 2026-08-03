@@ -20,7 +20,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[respeto]] — mantener el cuerpo «en santidad y honor»
 - [[pasión_libidinosa]] — el uso del cuerpo «como los gentiles»
 -[[dominio_de_sí]] — la enkráteia: continencia y templanza
-- [[fruto_del_espíritu]] — la puridad como obra nueva del Espíritu
+- [[frutos_del_espíritu_santo]] — la puridad como obra nueva del Espíritu
 -[[fornicación]] — el pecado contra la santificación
 - [[libertinaje]] — las obras de la carne antitéticas
 - [[virtud]] — la pureza como virtud en el sistema tomista

@@ -29,4 +29,4 @@ Rivero lo describe como «virtuoso y elocuente obispo de Ravena, que dejó una i
 [[homilías]] [[predicación]] [[exégesis]]
 
 ## Referencias
-- [[historia_de_la_iglesia_-_p._antonio_rivero_lc]]
+- [[historia_de_la_iglesia_rivero]]

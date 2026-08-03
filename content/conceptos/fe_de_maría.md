@@ -25,6 +25,10 @@ La fe de María no se limita al momento de la Anunciación sino que constituye u
 
 [JPII, Redemptoris Mater §12-19]: La fe de María, proclamada por Isabel en la visitación, indica cómo la Virgen de Nazaret ha respondido al don de Dios. El momento culminante es la Anunciación, pero la fe de María es un camino que avanza a lo largo de toda su vida [RM §12-14]. La fe de María se parangona a la de Abraham: como Abraham «esperando contra toda esperanza, creyó», así María cree que por el poder del Altísimo será la Madre del Hijo de Dios [RM §14]. Su fe es la primera entre los «pequeños» a quienes el Padre revela las cosas del Hijo (Mt 11,25-27) [RM §17]. Junto a la Cruz, su fe alcanza el heroísmo supremo: ante el aparente desmentido de las promesas, María mantiene la obediencia de la fe [RM §18]. La fe de María es la clave que abre la realidad íntima de la Virgen, y por medio de esta fe está unida perfectamente a Cristo en su despojamiento [RM §18-19].
 
+### Según Scott Hahn (The Bible and the Virgin Mary)
+
+Scott Hahn (BMV, lecciones 2 y 12) presenta la fe de María como el reverso de la incredulidad de Eva: mientras Eva dudó de la palabra de Dios, María creyó el anuncio del ángel (Lc 1,38). El curso relaciona la fe de María con la obediencia de la esclava del Señor y con su papel de madre de los creyentes: «Feliz la que ha creído» (Lc 1,45). Hahn subraya que la fe de María es modelo del discípulo fiel —representado por el discípulo amado (Jn 19,26-27)— y que su *fiat* inicia la nueva creación.
+
 ## Distinciones importantes
 
 - **Fe de Abraham** (creer en la promesa antes del cumplimiento) vs. **fe de María** (creer en el cumplimiento de la palabra ya dada, mantenida en la prueba)

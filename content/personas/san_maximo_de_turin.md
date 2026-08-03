@@ -29,4 +29,4 @@ El índice de la obra de Rivero lo menciona como figura destacada del período, 
 [[predicación]] [[liturgia]] [[invasiones_bárbaras]]
 
 ## Referencias
-- [[historia_de_la_iglesia_-_p._antonio_rivero_lc]]
+- [[historia_de_la_iglesia_rivero]]

@@ -14,7 +14,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 
 - [[matrimonio]] — la unidad e indisolubilidad del matrimonio remitida al «principio»
 - [[acto_conyugal]] — la unidad expresada y realizada en el acto conyugal
-- [[comunión_de_las_personas]] — la comunión como clave del conocimiento del hombre
+- [[comunión_de_personas]] — la comunión como clave del conocimiento del hombre
 - [[creación]] — el misterio de la creación revivido en cada unión
 - [[varón_y_mujer]] — masculinidad y feminidad como dos encarnaciones de la misma soledad metafísica
 - [[sexo]] — el sexo como «constitutivo de la persona»

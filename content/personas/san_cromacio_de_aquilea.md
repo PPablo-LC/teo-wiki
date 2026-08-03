@@ -29,4 +29,4 @@ El índice de la obra de Rivero lo incluye entre las figuras destacadas del per�
 [[arrianismo]] [[concilio_de_nicea_i]] [[predicación]]
 
 ## Referencias
-- [[historia_de_la_iglesia_-_p._antonio_rivero_lc]]
+- [[historia_de_la_iglesia_rivero]]

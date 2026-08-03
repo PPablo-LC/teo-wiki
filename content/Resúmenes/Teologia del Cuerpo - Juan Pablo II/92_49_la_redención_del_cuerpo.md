@@ -27,7 +27,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[herencia_pecaminosa]] — el punto de partida y la aspiración a la virtud
 - [[corazón]] — la categoría del corazón como subjetividad personal
 - [[soledad_originaria]] — la reminiscencia de la soledad originaria
-- [[comunión_de_las_personas]] — la llamada originaria y perenne a la comunión
+- [[comunión_de_personas]] — la llamada originaria y perenne a la comunión
 - [[triple_concupiscencia]] — la «servidumbre de la corrupción» (Rom 8, 21)
 - [[amor]] — la pureza como dimensión de la verdad interior del amor
 

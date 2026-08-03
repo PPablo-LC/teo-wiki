@@ -23,7 +23,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 -[[miembros_más_débiles]] — la mayor decencia para los que carecen de ella
 - [[fonrnicación]] — huir la fornicación
 - [[senal]] — los signos de deber y dignidad del cuerpo
-- [[fruto_del_Espíritu]] — la fuerzainterior que fecunda la capacidad
+- [[frutos_del_espíritu_santo]] — la fuerzainterior que fecunda la capacidad
 - [[cuerpo_humano]] — el cuerpo en la analogía eclesiológica
 - [[pasiones_libidinosas]] — la superación de los impulsos
 - [[voluntad]] — la raíz volitiva de la virtud

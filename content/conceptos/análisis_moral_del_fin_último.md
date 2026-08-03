@@ -45,13 +45,13 @@ El autor presenta el análisis como:
 
 - [[fin_último]] — El fin último como objeto del análisis
 - [[intención_ulterior]] — La intención como dimensión teleológica de la acción
-- [[beatitud]] — La beatitud como fin último
+- [[bienaventuranza]] — La beatitud como fin último
 
 ## Ver también
 
 - [[fin_último]]
 - [[intención_ulterior]]
-- [[beatitud]]
+- [[bienaventuranza]]
 
 ## Referencias
 

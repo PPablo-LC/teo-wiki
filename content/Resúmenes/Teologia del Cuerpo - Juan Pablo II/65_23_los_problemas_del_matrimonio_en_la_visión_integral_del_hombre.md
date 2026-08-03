@@ -27,7 +27,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[encarnación]] — el Verbo hecho carne y el cuerpo en la teología
 - [[sacramentalidad]] — la sacramentalidad del matrimonio
 - [[libelo_de_repudio]] — la ley de Moisés y la «dureza del corazón»
-- [[persona]] — el hombre como sujeto responsable, no objeto de técnicas
+- [[persona_humana]] — el hombre como sujeto responsable, no objeto de técnicas
 - [[ciencia_contemporánea]] — la bio-fisiología y sus límites ante lo personal
 - [[verdad]] — la verdad integral sobre el hombre originaria
 

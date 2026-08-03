@@ -26,7 +26,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[alianza]] — la ruptura de la alianza originaria
 - [[amor]] — el amor como motivo específico de la creación
 - [[teología_del_cuerpo]] — la importancia de la génesis de la concupiscencia
-- [[antropología]] — los constitutivos de una antropología adecuada
+- [[antropología_cristiana]] — los constitutivos de una antropología adecuada
 - [[tentación]] — la motivación del tentador (Gén 3, 5)
 - [[sermón_de_la_montaña]] — la remisión de Mt 5, 27-28 al «principio»
 - [[verdad]] — la verdad universal sobre el hombre «histórico»

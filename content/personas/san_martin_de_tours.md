@@ -29,4 +29,4 @@ Rivero lo menciona entre los pilares de la vida monacal en Europa: «Entre los p
 [[monacato]] [[evangelización]] [[caridad_cristiana]]
 
 ## Referencias
-- [[historia_de_la_iglesia_-_p._antonio_rivero_lc]]
+- [[historia_de_la_iglesia_rivero]]

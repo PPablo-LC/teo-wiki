@@ -12,7 +12,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-- [[inocencia_original]] — horizonte prehistórico y fundamental del hombre
+- [[inocencia_originaria]] — horizonte prehistórico y fundamental del hombre
 - [[pecado_original]] — estado pecaminoso hereditario derivado de la caída
 - [[principio]] — remisión de Cristo que «cohereda» pecado e inocencia
 - [[redención]] — misterio presente ya en las palabras de Cristo sobre el «principio»

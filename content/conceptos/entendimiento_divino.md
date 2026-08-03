@@ -61,14 +61,14 @@ La distinción entre el conocimiento divino y el humano puede resumirse así: el
 
 ## Relaciones doctrinales
 
-El entendimiento divino se conecta directamente con la [[eternidad_divina]], pues el conocimiento divino es eterno —se da en el eterno presente de Dios—. Se relaciona también con la [[inmanencia_divina]], pues Dios está presente a todas las cosas con su providencia, conocimiento y amor. La doctrina de la [[beatitud_visión_de_dios]] se funda parcialmente en la naturaleza del entendimiento divino: el hombre alcanza su plenitud al participar, de algún modo, del conocimiento que Dios tiene de sí mismo.
+El entendimiento divino se conecta directamente con la [[eternidad_divina]], pues el conocimiento divino es eterno —se da en el eterno presente de Dios—. Se relaciona también con la [[inmanencia_divina]], pues Dios está presente a todas las cosas con su providencia, conocimiento y amor. La doctrina de la [[visión_beatífica]] se funda parcialmente en la naturaleza del entendimiento divino: el hombre alcanza su plenitud al participar, de algún modo, del conocimiento que Dios tiene de sí mismo.
 
 El entendimiento divino fundamenta también la posibilidad de la teología como ciencia: si Dios se ha comunicado a los hombres por la revelación, y si el intelecto humano puede recibir esta revelación mediante la fe iluminada por la razón, entonces el conocimiento teológico es posible. El entendimiento divino es la fuente de la que brota tanto la creación como la revelación, ambas expresiones de la sabiduría y del amor divinos.
 
 ## Ver también
 [[eternidad_divina]]
 [[inmanencia_divina]]
-[[beatitud_visión_de_dios]]
+[[visión_beatífica]]
 
 ## Referencias
 - [SmTh, Ia, Q14, a.1]

@@ -29,6 +29,10 @@ María es invocada bajo diversos títulos que expresan su papel en la economía 
 
 [JPII, Redemptoris Mater §41, §46-48]: La encíclica no utiliza el término «advocación» pero reconoce que María es invocada bajo diversos títulos que expresan su misión: Madre de Dios (*Theotókos*), Madre de la Iglesia, Reina universal, Mediadora, Nueva Eva, Mujer. El título «Madre de la Iglesia» —proclamado por Pablo VI en el Concilio Vaticano II y retomado por Juan Pablo II— expresa la maternidad espiritual de María respecto a todo el Pueblo de Dios [RM §47]. María es también «Reina del cielo y de la tierra» [RM §41]. La espiritualidad mariana y la consagración a María según San Luis María Grignion de Montfort alimentan las diversas devociones y advocaciones [RM §48].
 
+### Según Scott Hahn (The Bible and the Virgin Mary)
+
+Scott Hahn (BMV, lecciones 7-10) presenta las advocaciones marianas vinculadas a las [[apariciones_marianas]] como confirmación de los títulos bíblicos de María: Guadalupe (maternidad y presencia entre los pueblos), Medalla Milagrosa y Lourdes (Inmaculada Concepción), Fátima (Inmaculado Corazón y rosario), entre otras. El curso subraya que las advocaciones no multiplican a María sino que actualizan aspectos de su única identidad bíblica —nueva Eva, arca de la nueva alianza, reina madre— en la vida de la Iglesia y de los pueblos.
+
 ## Relaciones doctrinales
 
 Se conectan con la [[maternidad_divina]], la [[inmaculada_concepción]], la [[asunción]] y la mediación maternal de María.

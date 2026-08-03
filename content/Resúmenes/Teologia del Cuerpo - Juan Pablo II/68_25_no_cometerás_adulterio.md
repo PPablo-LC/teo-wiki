@@ -18,9 +18,9 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[deseo]] — el acto interior que comete adulterio en el corazón
 - [[mirada]] — el deseo expresado por el sentido de la vista
 - [[ley_natural]] — el mandamiento «escrito en el corazón» (Rom 2, 15)
-- [[antropología]] — la antropología «adecuada» del significado del cuerpo
+- [[antropología_cristiana]] — la antropología «adecuada» del significado del cuerpo
 - [[teología_del_cuerpo]] — la revelación del cuerpo y su orden
-- [[significado_esponsalicio_del_cuerpo]] — la dimensión esponsalicia del significado
+- [[significado_esponsal_del_cuerpo]] — la dimensión esponsalicia del significado
 - [[significado_generador]] — la dimensión generadora del significado
 - [[matrimonio]] — la unicidad del vínculo conyugal lícito
 - [[acto_conyugal]] — el acto exterior lícito en la relación conyugal

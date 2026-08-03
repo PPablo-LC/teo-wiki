@@ -15,11 +15,11 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[deseo]] — el deseo como reducción intencional y axiológica
 - [[adulterio_en_el_corazón]] — el adulterio cometido en el corazón (Mt 5, 28)
 - [[reducción_intencional]] — la restricción que cierra el horizonte del corazón
-- [[significado_esponsalicio_del_cuerpo]] — el alejamiento y las «ruinas» del significado
+- [[significado_esponsal_del_cuerpo]] — el alejamiento y las «ruinas» del significado
 - [[atracción_recíproca]] — la perenne atracción masculinidad-feminidad
 - [[eterno_femenino]] — el «eterno femenino» y el eterno «masculino»
 - [[dignidad_de_la_persona]] — el conflicto con la dignidad de la persona
-- [[comunión_de_las_personas]] — la llamada a la comunión por don recíproco
+- [[comunión_de_personas]] — la llamada a la comunión por don recíproco
 - [[ética]] — el aspecto ético ante el psicológico
 - [[appetitus]] — el conocimiento concupiscente y el appetitus
 - [[intencionalidad]] — la intencionalidad de la existencia respecto al otro

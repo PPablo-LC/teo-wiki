@@ -29,6 +29,10 @@ El Catecismo enseña que la Virgen María avanzó en la peregrinación de la fe 
 
 Juan Pablo II, en sus catequesis sobre la Teología del Cuerpo, vincula el Inmaculado Corazón de María con la maternidad virginal y la perfecta comunión de la Virgen con el misterio redentor de Cristo.
 
+### Scott Hahn (The Bible and the Virgin Mary)
+
+Scott Hahn (BMV, lección 10) recuerda que la devoción al Inmaculado Corazón de María fue pedida en las apariciones de Fátima (1917) a los pastorcillos Lucía, Jacinta y Francisco, como camino de conversión, oración del rosario y reparación. El curso vincula el corazón de María con la mujer del Apocalipsis (Ap 12) y con su santidad perfecta: quien es «llena de gracia» tiene un corazón enteramente entregado a Dios. La consagración al Inmaculado Corazón se presenta como acogida de la maternidad espiritual de María.
+
 ## Ver también
 
 [[virgen_maría]], [[sagrado_corazón_de_jesús]], [[fátima]], [[consagración]], [[pureza_de_maría]], [[advocaciones_marianas]]

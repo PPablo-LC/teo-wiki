@@ -14,7 +14,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 
 - [[sacramento_primordial]] — el matrimonio como parte integrante y central del «sacramento de la creación»
 - [[sacramento_de_la_creación]] — el signo que transmite eficazmente el misterio invisible en el mundo visible
-- [[inocencia_original]] — la conciencia primordial del significado esponsalicio del cuerpo
+- [[inocencia_originaria]] — la conciencia primordial del significado esponsalicio del cuerpo
 - [[significado_esponsal_del_cuerpo]] — el cuerpo como capaz de hacer visible lo invisible
 - [[elección]] — la elección del hombre «antes de la constitución del mundo» (Ef 1,4)
 - [[adopción_divina]] — la predestinación a la adopción de hijos (Ef 1,5)

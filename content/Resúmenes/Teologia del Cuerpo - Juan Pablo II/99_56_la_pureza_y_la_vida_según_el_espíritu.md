@@ -21,7 +21,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[realismo_sobrenatural]] — el realismo sobrenatural de la fe
 - [[dignidad_del_cuerpo]] — la nueva dignidad impresa por Cristo
 - [[comunión]] — la unión cósmica y personal
--[[fruto_del_espíritu]] — el don del Espíritu fecundando la virtud
+-[[frutos_del_espíritu_santo]] — el don del Espíritu fecundando la virtud
 -[[redención_del_cuerpo]] — la nueva medida de santidad
 -[[pecado_contra_el_cuerpo]] — la nota peculiar del pecado de la fornicación
 - [[profanación]] — la profanación del cuerpo como privación de respeto y profanación del templo

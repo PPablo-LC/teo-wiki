@@ -43,13 +43,13 @@ El autor presenta el bien de la vida humana como:
 
 ## Relaciones doctrinales
 
-- [[beatitud]] — La beatitud como bien supremo
+- [[bienaventuranza]] — La beatitud como bien supremo
 - [[bien_honesto]] — El bien honesto como bien moral
 - [[bien_común]] — El bien común como dimensión social del bien
 
 ## Ver también
 
-- [[beatitud]]
+- [[bienaventuranza]]
 - [[bien_honesto]]
 - [[bien_común]]
 

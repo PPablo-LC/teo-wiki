@@ -27,4 +27,4 @@ El movimiento valdense surge en el contexto de las herejías medievales que cues
 - [[cesaropapismo]]
 
 ## Referencias
-- [[historia_de_la_iglesia_-_p._antonio_rivero_lc]]
+- [[historia_de_la_iglesia_rivero]]

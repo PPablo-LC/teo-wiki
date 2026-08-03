@@ -29,6 +29,10 @@ La Anunciación constituye el vértice de la historia de la salvación en el que
 
 La Vida de Jesús (VJ) dedica amplio espacio a la Anunciación (Cap. I). El ángel Gabriel saluda a María como «llena de gracia» (*Kejaritomene*), nombre que constituye su verdadera identidad. La respuesta de María —«He aquí la esclava del Señor, hágase en mí según tu palabra»— manifiesta su libertad interior, su confianza y su total disponibilidad. Su *fiat* marca un momento decisivo en la historia de la humanidad. María, al proclamarse esclava del Señor, desea comprometerse a realizar personalmente el servicio que Dios espera. Las palabras «hágase en mí» manifiestan una obediencia total a la voluntad de Dios. El Amor significa la unidad de las voluntades: la del Padre y la del Hijo se unen, y el fruto de esta unión es el Amor personal, el Espíritu Santo; el fruto del Amor personal es la Encarnación.
 
+### Según Scott Hahn (The Bible and the Virgin Mary)
+
+Scott Hahn (BMV, lección 2) presenta la Anunciación como la escena en que María responde donde Eva desobedeció: la comparación Eva-María está deliberadamente construida en el texto de Lucas. María pregunta «¿cómo será esto, pues no conozco varón?» (Lc 1,34) y cree el anuncio del ángel; su *fiat* (Lc 1,38) es la obediencia de la [[esclava_del_señor]] que repara la desobediencia de Eva y comienza la nueva creación. Hahn subraya que el saludo «llena de gracia» (Lc 1,28) es el nombre propio de María, preludio de la Inmaculada Concepción.
+
 ## Distinciones importantes
 
 - La Anunciación es un acontecimiento histórico, no una alegoría

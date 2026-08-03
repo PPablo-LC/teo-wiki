@@ -59,6 +59,10 @@ María es el camino más corto y seguro para llegar a Cristo. San Luis María Gr
 
 [JPII, Redemptoris Mater §1-52]: La encíclica desarrolla una mariología articulada en tres ejes: cristológico (María en el misterio de Cristo, §7-24), eclesiológico (María en el centro de la Iglesia peregrina, §25-37) y mediacional (la mediación materna de María, §38-50). Su hilo conductor es la «peregrinación de la fe» de María (LG §58). María es la «llena de gracia», elegida desde la eternidad como Madre del Hijo [RM §8-11]. Su fe es el modelo de toda respuesta creyente [RM §12-19]. En Caná y en la Cruz se revela su maternidad espiritual [RM §20-24]. María es Madre de la Iglesia [RM §47], nueva Eva [RM §19], Reina universal [RM §41], signo de esperanza segura [RM §50]. La encíclica subraya la subordinación de la mediación de María a la única mediación de Cristo (1 Tm 2,5-6) [RM §38-41].
 
+### Según Scott Hahn (The Bible and the Virgin Mary)
+
+Scott Hahn (BMV, lecciones 1-12) propone una mariología fundada en la exégesis tipológica de la Escritura: María es el antitipo de Eva ([[nueva_eva]]), del [[arca_de_la_alianza]] ([[arca_de_la_nueva_alianza]]) y de la Reina Madre (*gebirah*, [[reina_madre]]). Su método combina la lectura literal con la tradición patrística (san Ireneo, san Justino, san Juan de Damasco) y los documentos del magisterio (*Ineffabilis Deus*, *Munificentissimus Deus*, *Lumen Gentium* VIII). El curso insiste en que los dogmas marianos no son «adiciones piadosas» sino la explicitación de lo que la Escritura ya contenía: la llena de gracia (Lc 1,28), la madre del Rey davídico (Lc 1,32-33.43), la mujer del Apocalipsis (Ap 12,1).
+
 ## Distinciones importantes
 
 - **Maternidad divina vs. maternidad espiritual**: La maternidad divina es única y ontológica (María es Madre de Dios en sentido propio). La maternidad espiritual es su extensión en el orden de la gracia respecto de todos los hombres.

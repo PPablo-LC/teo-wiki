@@ -17,7 +17,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[deseo]] — la experiencia interior del desear presupuesta por Cristo
 - [[pasión]] — la pasión que sofoca la conciencia (Sir 23, 22-32)
 - [[concupiscencia_de_la_carne]] — la concupiscencia como fuego que consume
-- [[significado_esponsalicio_del_cuerpo]] — el alejamiento del significado esponsalicio
+- [[significado_esponsal_del_cuerpo]] — el alejamiento del significado esponsalicio
 - [[significado_procreador]] — el significado procreador vinculado al esponsalicio
 - [[libertad_del_don]] — el significado esponsalicio como base de la libertad del don
 - [[corazón]] — la ciencia interior del corazón y de la conciencia
@@ -25,7 +25,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[sagrada_escritura]] — Sirácida; Confesiones de Agustín; Dante, Infierno V; Shakespeare vía C.S. Lewis
 - [[conciencia]] — la voz profunda de la conciencia
 - [[ética]] — el análisis del agre decaimiento del significado del cuerpo
-- [[comunión_de_las_personas]] — la base de la comunión afectada
+- [[comunión_de_personas]] — la base de la comunión afectada
 - [[llamada_sacramental]] — la llamada sacramental y la libertad del don
 - [[paz_interior]] — la búsqueda vana de satisfacción
 

@@ -17,7 +17,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[vida_segun_el_espíritu]] — el fruto del Espíritu Santo
 - [[combate]] — la lucha entre el bien y el mal en el corazón
 - [[justificación]] — la justificación por la fe y la potencia de Cristo
-- [[fruto_del_espíritu]] — caridad, gozo, paz... templanza
+- [[frutos_del_espíritu_santo]] — caridad, gozo, paz... templanza
 - [[obras_de_la_carne]] — fornicación, idolatría, envidias...
 - [[resurrección]] — la victoria final sobre el pecado y la muerte
 - [[justicia]] — la justicia como auténtica fuerza interior

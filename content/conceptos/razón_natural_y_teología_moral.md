@@ -43,13 +43,13 @@ El autor presenta la relación como:
 
 ## Relaciones doctrinales
 
-- [[ley_moral_natural]] — La ley natural como conocimiento racional del bien
+- [[ley_natural]] — La ley natural como conocimiento racional del bien
 - [[revelación_divina]] — La revelación como fuente superior de conocimiento moral
 - [[moral_cristiana_y_moral_humana]] — La relación entre ambas morales
 
 ## Ver también
 
-- [[ley_moral_natural]]
+- [[ley_natural]]
 - [[revelación_divina]]
 - [[moral_cristiana_y_moral_humana]]
 

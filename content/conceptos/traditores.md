@@ -27,4 +27,4 @@ La fuente señala que durante la persecución de Diocleciano, "Hubo un cierto n�
 - [[donatismo]]
 
 ## Referencias
-- [[historia_de_la_iglesia_-_p._antonio_rivero_lc]]
+- [[historia_de_la_iglesia_rivero]]

@@ -18,14 +18,14 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[creador]] — Dios que se revela como Creador y Amor
 - [[amor]] — el amor como motivo divino de la creación
 - [[imagen_de_dios]] — el hombre como imagen de Dios, capaz de responder al don
-- [[antropología]] — la antropología adecuada frente al reduccionismo naturalista
-- [[comunión_de_las_personas]] — la comunidad-comunión del varón y la mujer
-- [[significado_esponsalicio_del_cuerpo]] — la conciencia esponsalicia del cuerpo
+- [[antropología_cristiana]] — la antropología adecuada frente al reduccionismo naturalista
+- [[comunión_de_personas]] — la comunidad-comunión del varón y la mujer
+- [[significado_esponsal_del_cuerpo]] — la conciencia esponsalicia del cuerpo
 - [[vergüenza]] — la limitación del ver producida por la vergüenza
 - [[cuerpo]] — el cuerpo y el sexo en su valor «puro»
 - [[varón_y_mujer]] — dos modos diversos del humano «ser cuerpo»
 - [[donación]] — el don fundamental y radical en la creación
-- [[persona]] — la intimidad de las personas
+- [[persona_humana]] — la intimidad de las personas
 - [[teología_del_cuerpo]] — la teología del cuerpo construida «desde el principio»
 - [[revelación]] — la revelación del Creador en el Génesis
 

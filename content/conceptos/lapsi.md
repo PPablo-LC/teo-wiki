@@ -28,4 +28,4 @@ La fuente describe que durante la persecución de Decio (249-251), obligó a tod
 - [[montanismo]]
 
 ## Referencias
-- [[historia_de_la_iglesia_-_p._antonio_rivero_lc]]
+- [[historia_de_la_iglesia_rivero]]

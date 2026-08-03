@@ -47,13 +47,13 @@ El autor presenta la felicidad como:
 
 ## Relaciones doctrinales
 
-- [[beatitud]] — La beatitud como felicidad eterna
+- [[bienaventuranza]] — La beatitud como felicidad eterna
 - [[fin_último]] — El fin último como objeto de la felicidad
 - [[bien_de_la_vida_humana]] — El bien que perfecciona al hombre
 
 ## Ver también
 
-- [[beatitud]]
+- [[bienaventuranza]]
 - [[fin_último]]
 - [[bien_de_la_vida_humana]]
 

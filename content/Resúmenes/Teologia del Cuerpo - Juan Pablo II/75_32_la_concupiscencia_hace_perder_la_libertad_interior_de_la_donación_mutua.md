@@ -21,7 +21,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[apropiación]] — la relación de apropiación que sustituye al don
 - [[amor]] — el amor que nace del corazón frente a la concupiscencia
 - [[corazón]] — el corazón como «lugar de combate»
-- [[comunión_de_las_personas]] — la comunión «a imagen de Dios»
+- [[comunión_de_personas]] — la comunión «a imagen de Dios»
 - [[creación]] — el misterio de la creación y el carácter nupcial
 -[[dignidad_del_don]] — la dignidad del don expresada por el cuerpo
 - [[subjetividad]] — la subjetividad personal frente a la objetividad del cuerpo

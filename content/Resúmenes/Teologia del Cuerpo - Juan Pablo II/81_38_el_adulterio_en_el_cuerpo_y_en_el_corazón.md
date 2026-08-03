@@ -25,7 +25,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[belleza_femenina]] — el elogio de la mujer honesta (Sir 26)
 - [[seductora]] — la mujer como ocasión de pecado en los sapienciales
 - [[ética]] — la psicología moral de los libros sapienciales
-- [[antropología]] — el arraigo antropológico de las palabras de Cristo
+- [[antropología_cristiana]] — el arraigo antropológico de las palabras de Cristo
 - [[teología_del_cuerpo]] — la revelación y la obra de la salvación
 - [[torá]] — los doctores de la ley y su casuística
 - [[conocimiento_concúpiscente]] — la mirada concupiscente

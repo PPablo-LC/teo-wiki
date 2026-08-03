@@ -24,7 +24,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[dignidad humana]] — el sentido de la dignidad contrarrestado
 - [[objetivación]] — el cuerpo humano perdido como significado
 - [[apropiación]] — el adueñarse del otro a través de la imagen
-- [[comunión_de_las_personas]] — la inscripción profunda del don
+- [[comunión_de_personas]] — la inscripción profunda del don
 - [[continuidad_del_significado_esponsalicio]] — la permanencia del ethos
 - [[norma_del_don]] — el no convertirse en objeto para los otros
 - [[triple_concupiscencia]] — el estado interior del hombre histórico

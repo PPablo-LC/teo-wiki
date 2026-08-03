@@ -29,4 +29,4 @@ Rivero señala que Teodosio «proclama al cristianismo religión del estado» en
 [[concilio_de_constantinopla_i]] [[credos]] [[cesaropapismo]]
 
 ## Referencias
-- [[historia_de_la_iglesia_-_p._antonio_rivero_lc]]
+- [[historia_de_la_iglesia_rivero]]

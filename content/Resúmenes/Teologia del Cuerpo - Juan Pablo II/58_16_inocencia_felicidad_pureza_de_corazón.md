@@ -20,7 +20,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[justicia_originaria]] — el estado del hombre antes del pecado original
 - [[vergüenza]] — la inmunidad originaria de la vergüenza por efecto del amor
 - [[desnudez_originaria]] — el Gén 2, 25 como huella de la inocencia
-- [[significado_esponsalicio_del_cuerpo]] — el significado esponsalicio y la «pureza de corazón»
+- [[significado_esponsal_del_cuerpo]] — el significado esponsalicio y la «pureza de corazón»
 - [[pureza_de_corazón]] — la rectitud originaria de la voluntad
 - [[creación]] — la creación como don y gracia
 - [[espíritu_santo]] — la irradiación del Espíritu y la espiritualización

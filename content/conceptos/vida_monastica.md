@@ -64,11 +64,11 @@ San Benito establece que la vida cenobítica es el camino seguro y estable para 
 
 ## Relaciones doctrinales
 
-Se relaciona con el [[voto_de_obediencia]], la [[voto_castidad]], el [[voto_pobreza]], la [[estabilidad]], la [[regla_religiosa]], el [[oficio_divino]], la [[humildad]], la [[obediencia]] y el [[cenobita_y_ermitaño]].
+Se relaciona con el [[voto_de_obediencia]], la [[voto_castidad]], el [[voto_pobreza]], la [[estabilidad_religiosa]], la [[regla_religiosa]], el [[oficio_divino]], la [[humildad]], la [[obediencia]] y el [[cenobita_y_ermitaño]].
 
 ## Ver también
 
-[[cenobita_y_ermitaño]], [[obediencia]], [[humildad]], [[regla_religiosa]], [[vida_consagrada]], [[consejos_evangélicos]], [[voto_de_obediencia]], [[estabilidad]]
+[[cenobita_y_ermitaño]], [[obediencia]], [[humildad]], [[regla_religiosa]], [[vida_consagrada]], [[consejos_evangélicos]], [[voto_de_obediencia]], [[estabilidad_religiosa]]
 
 ## Referencias
 

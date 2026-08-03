@@ -37,6 +37,10 @@ La Asunción es el coronamiento de todos los privilegios de María. Su cuerpo gl
 
 **Pío XII** — Constitución Apostólica *Munificentissimus Deus* (1950, D‑2315): Definió solemnemente como dogma de fe que «la Inmaculada Madre de Dios, siempre Virgen María, terminado el curso de su vida terrena, fue asunta en cuerpo y alma a la gloria celestial». La definición se funda en la singular participación de María en la victoria de Cristo sobre el pecado y la muerte. Es el cuarto dogma mariano y fue precedido por la consulta a todos los obispos del mundo, que respondieron afirmativamente casi por unanimidad.
 
+### Según Scott Hahn (The Bible and the Virgin Mary)
+
+Scott Hahn (BMV, lecciones 8 y 11) presenta la Asunción como el corolario del [[arca_de_la_alianza]] glorificada: si María es el Arca de la Nueva Alianza que llevó en su seno a la presencia divina, su cuerpo no puede conocer la corrupción. El curso apoya el dogma en Ap 11,19 (el Arca en el cielo) y en la mujer vestida de sol de Ap 12,1. Hahn recuerda la tradición oriental de la Dormición ([[dormición_de_maría]], con san Juan de Damasco) y el dogma definido por Pío XII en *Munificentissimus Deus* (1950), presentado como plenitud de la redención de Cristo y signo escatológico para la Iglesia.
+
 ## Distinciones importantes
 
 - Asunción vs. Ascensión: Cristo asciende por su propio poder; María es asunta por el poder de Dios

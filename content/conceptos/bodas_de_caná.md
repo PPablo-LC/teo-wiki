@@ -29,6 +29,10 @@ El Catecismo señala que en Caná, María se manifiesta como la intercesora que 
 
 Juan Pablo II, en sus catequesis sobre la Teología del Cuerpo, destaca que las bodas de Caná revelan el carácter esponsal de la relación de Cristo con la Iglesia, prefigurado en el amor conyugal. La intervención de María muestra su papel mediador en la economía de la salvación.
 
+### Scott Hahn (The Bible and the Virgin Mary)
+
+Scott Hahn (BMV, lección 3) presenta las bodas de Caná como la «boda del nuevo Edén»: la unión de Adán y Eva en el jardín (Gn 1-2) es la boda primordial cuyo eco se escucha en Caná. Jesús llama «mujer» a María (Jn 2,4), eco de Gn 3,15, situándola como la nueva Eva. El vino nuevo (Jn 2,9-10) prefigura la sangre de la nueva alianza; María, al decir «haced lo que él os diga» (Jn 2,5), ejerce su intercesión y su papel de madre espiritual al inicio de la vida pública de Cristo.
+
 ## Ver también
 
 [[virgen_maría]], [[milagros_de_jesús]], [[evangelio_de_juan]], [[intercesión_de_maría]], [[nueva_alianza]], [[matrimonio]]

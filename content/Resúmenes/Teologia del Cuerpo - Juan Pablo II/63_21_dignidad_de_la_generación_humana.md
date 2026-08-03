@@ -23,7 +23,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[arquetipo]] — el arquetipo de la corporeidad y sexualidad humana
 - [[consummatum]] — la consumación del matrimonio y el «descubrimiento» de la subjetividad
 - [[varón_y_mujer]] — la constitución diversa del varón y de la mujer
-- [[persona]] — el nivel personal del «conocimiento»
+- [[persona_humana]] — el nivel personal del «conocimiento»
 - [[fecundidad]] — la bendición de la fecundidad
 - [[vida]] — la nueva vida humana concebida en la madre
 - [[juan_pablo_ii]] — la participación creadora de Dios en la generación
