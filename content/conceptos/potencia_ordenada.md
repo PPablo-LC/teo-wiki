@@ -62,7 +62,7 @@ El Concilio Vaticano II afirma que «Dios, en su sabiduría, eternamente prescri
 
 ## Relaciones doctrinales
 
-La potencia ordenada es fundamento central de la [[providencia_divina]]: el gobierno efectivo de Dios sobre la creación. Se conecta con la [[omnipotencia_divina]] (el poder en sí mismo), la [[potencia_absoluta]] (considerada en abstracto), la [[sabiduría_divina]] (la razón del orden) y la [[voluntad_divina]] (la elección del orden). Tiene implicaciones directas para la comprensión de los [[sacramentos]] (causas instrumentales de la potencia ordenada), los [[milagros]] (intervenciones extraordinarias de la potencia absoluta) y la [[gracia]] (comunicada ordinariamente por medios instituidos).
+La potencia ordenada es fundamento central de la [[providencia_divina]]: el gobierno efectivo de Dios sobre la creación. Se conecta con la [[omnipotencia_divina]] (el poder en sí mismo), la [[potencia_absoluta]] (considerada en abstracto), la [[sabiduría_divina]] (la razón del orden) y la [[voluntad_de_dios]] (la elección del orden). Tiene implicaciones directas para la comprensión de los [[sacramentos]] (causas instrumentales de la potencia ordenada), los [[milagros]] (intervenciones extraordinarias de la potencia absoluta) y la [[gracia]] (comunicada ordinariamente por medios instituidos).
 
 ## Ver también
 

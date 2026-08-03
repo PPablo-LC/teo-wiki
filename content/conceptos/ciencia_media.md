@@ -62,11 +62,11 @@ El Catecismo enseña que "la providencia divina es la disposición, por la cual 
 
 ## Relaciones doctrinales
 
-La ciencia media se conecta con la [[providencia_divina]] y la [[predestinación]]. Se relaciona con la [[voluntad_divina]] y la [[libertad_humana]]. El debate sobre la ciencia media toca también la cuestión de la [[gracia_eficaz]] y la [[concordancia_entre_gracia_y_libertad]]. La posición tomista sobre el conocimiento de los futuros contingentes se enraíza en la [[eternidad_divina]] y la [[simplicidad_divina]]. El concepto de ciencia media tiene implicaciones para la comprensión de la oración (Dios conoce las respuestas libres de las criaturas) y para la teodicea (Dios permite el mal sin ser su autor). La distinción entre ciencia natural y media se relaciona con la [[inmutabilidad_divina]]: Dios no cambia su conocimiento cuando los eventos ocurren, porque para Él todo es presente eterno.
+La ciencia media se conecta con la [[providencia_divina]] y la [[predestinación]]. Se relaciona con la [[voluntad_de_dios]] y la [[libertad_humana]]. El debate sobre la ciencia media toca también la cuestión de la [[gracia_eficaz]] y la [[concordancia_entre_gracia_y_libertad]]. La posición tomista sobre el conocimiento de los futuros contingentes se enraíza en la [[eternidad_divina]] y la [[simplicidad_divina]]. El concepto de ciencia media tiene implicaciones para la comprensión de la oración (Dios conoce las respuestas libres de las criaturas) y para la teodicea (Dios permite el mal sin ser su autor). La distinción entre ciencia natural y media se relaciona con la [[inmutabilidad_divina]]: Dios no cambia su conocimiento cuando los eventos ocurren, porque para Él todo es presente eterno.
 
 ## Ver también
 
-[[providencia_divina]], [[predestinación]], [[voluntad_divina]], [[libertad_humana]], [[gracia_eficaz]], [[eternidad_divina]], [[oración]], [[inmutabilidad_divina]]
+[[providencia_divina]], [[predestinación]], [[voluntad_de_dios]], [[libertad_humana]], [[gracia_eficaz]], [[eternidad_divina]], [[oración]], [[inmutabilidad_divina]]
 
 ## Referencias
 

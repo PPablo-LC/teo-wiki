@@ -62,11 +62,11 @@ El Catecismo enseña que "Dios puede hacer todas las cosas" (§282) y que "la om
 
 ## Relaciones doctrinales
 
-La distinción entre potencia absoluta y ordenada fundamenta la [[providencia_divina]] y la comprensión de los [[milagros]]. Se conecta con la [[omnipotencia_divina]], la [[voluntad_divina]] y la [[sabiduría_divina]]. La potencia ordenada enlaza con el principio de [[causalidad_segunda]] y con la integridad del orden creado. La distinción tiene implicaciones para la soteriología (¿puede Dios salvar sin la encarnación?) y para la sacramentalidad (¿puede Dios obrar sin sacramentos?). La potencia ordenada también se relaciona con la [[gracia]] y los [[sacramentos]], en tanto que son los medios ordinarios que Dios ha instituido para comunicar Su gracia.
+La distinción entre potencia absoluta y ordenada fundamenta la [[providencia_divina]] y la comprensión de los [[milagros]]. Se conecta con la [[omnipotencia_divina]], la [[voluntad_de_dios]] y la [[sabiduría_divina]]. La potencia ordenada enlaza con el principio de [[causalidad_segunda]] y con la integridad del orden creado. La distinción tiene implicaciones para la soteriología (¿puede Dios salvar sin la encarnación?) y para la sacramentalidad (¿puede Dios obrar sin sacramentos?). La potencia ordenada también se relaciona con la [[gracia]] y los [[sacramentos]], en tanto que son los medios ordinarios que Dios ha instituido para comunicar Su gracia.
 
 ## Ver también
 
-[[providencia_divina]], [[omnipotencia_divina]], [[voluntad_divina]], [[sabiduría_divina]], [[milagros]], [[causalidad_segunda]], [[simplicidad_divina]], [[gracia]], [[sacramentos]]
+[[providencia_divina]], [[omnipotencia_divina]], [[voluntad_de_dios]], [[sabiduría_divina]], [[milagros]], [[causalidad_segunda]], [[simplicidad_divina]], [[gracia]], [[sacramentos]]
 
 ## Referencias
 

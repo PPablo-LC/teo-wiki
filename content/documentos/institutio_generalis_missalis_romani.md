@@ -25,7 +25,7 @@ La IGMR revisada se presenta como una prolongación directa de la *[[sacrosanctu
 
 El análisis recorre los cinco capítulos tradicionales más el nuevo capítulo IX:
 
-**I. El Obispo, el Sacerdote y el Diácono** — Define la celebración eucarística como acción de Cristo y de la Iglesia, con el [[obispo]] al centro de la [[iglesia_particular]], el [[sacerdote]] como presidente de la [[eucaristía]] (con recomendación de celebración diaria), y el [[diácono]] como primer ministro después del sacerdote por virtud de su ordenación.
+**I. El Obispo, el Sacerdote y el Diácono** — Define la celebración eucarística como acción de Cristo y de la Iglesia, con el [[obispo]] al centro de la [[iglesia_particular]], el [[sacerdocio_ordenado]] como presidente de la [[eucaristía]] (con recomendación de celebración diaria), y el [[diácono]] como primer ministro después del sacerdote por virtud de su ordenación.
 
 **II. Los Ministros Laicos** — Regula los ministerios de [[lector]] y [[acólito]] instituidos, [[ministro_extraordinario_de_la_comunión]], y los gestos y posturas corporales de la asamblea ([[genuflexión]], [[inclinación]], uniformidad postural como signo de unidad).
 
