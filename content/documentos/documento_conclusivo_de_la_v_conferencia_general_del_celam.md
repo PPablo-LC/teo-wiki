@@ -3,13 +3,13 @@ type: Documento
 title: Documento Conclusivo de la V Conferencia General del CELAM (Aparecida, 2007)
 tags: ["documentos", "CELAM", "América_Latina", "evangelización", "misión"]
 
-timestamp: 2026-07-14
+timestamp: 2026-08-04
 description: "Documento conclusivo de la V Conferencia General del CELAM (Aparecida, 2007): discipulado misionero, comunión y formación para la nueva evangelización en América Latina."
 ---
 # Documento Conclusivo de la V Conferencia General del CELAM (Aparecida, 2007)
 
 > Área: Documentos
-> Última actualización: 2026-07-14
+> Última actualización: 2026-08-04
 
 ## Identificación
 
@@ -101,6 +101,26 @@ El documento se estructura en tres partes que responden a la pregunta sobre la v
 - El Reino de Dios y la dignidad de las personas
 - La familia, la vida y la educación
 - La cultura, la economía, la política y la comunicación social
+
+## Resúmenes
+
+Los resúmenes estructurados del documento están en `wiki/Resúmenes/Aparecida_Documento_Conclusivo_Celam/`, con un archivo por parte y capítulo:
+
+| # | Archivo | Contenido |
+|---|---------|-----------|
+| 01 | [[01_primera_parte]] | Primera Parte: método ver, juzgar y actuar |
+| 02 | [[02_capítulo_1]] | Cap. 1 — Los discípulos misioneros |
+| 03 | [[03_capítulo_2]] | Cap. 2 — Mirada de los discípulos misioneros sobre la realidad |
+| 04 | [[04_segunda_parte]] | Segunda Parte: la vida de Jesucristo en los discípulos misioneros |
+| 05 | [[05_capítulo_3]] | Cap. 3 — La alegría de ser discípulos misioneros para anunciar el Evangelio |
+| 06 | [[06_capítulo_4]] | Cap. 4 — La vocación de los discípulos misioneros a la santidad |
+| 07 | [[07_capítulo_5]] | Cap. 5 — La comunión de los discípulos misioneros en la Iglesia |
+| 08 | [[08_capítulo_6]] | Cap. 6 — El itinerario formativo de los discípulos misioneros |
+| 09 | [[09_tercera_parte]] | Tercera Parte: la vida de Jesucristo para nuestros pueblos |
+| 10 | [[10_capítulo_7]] | Cap. 7 — La misión de los discípulos al servicio de la vida plena |
+| 11 | [[11_capítulo_8]] | Cap. 8 — Reino de Dios y promoción de la dignidad humana |
+| 12 | [[12_capítulo_9]] | Cap. 9 — Familia, personas y vida |
+| 13 | [[13_capítulo_10]] | Cap. 10 — Nuestros pueblos y la cultura |
 
 ## Ver también
 

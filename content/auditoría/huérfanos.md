@@ -2,13 +2,13 @@
 type: Concepto Teológico
 title: Auditoría de wikilinks huérfanos
 timestamp: 2026-08-03
-description: "Registro de wikilinks sin artículo propio en el wiki. Procesamiento de huérfanos de alta densidad 2026-08-03: 1421 → 1376 huérfanos registrados en 8 categorías."
+description: "Registro de wikilinks sin artículo propio en el wiki. Aparecida 2026-08-04: +34 huérfanos sembrados desde resúmenes → 1410 registrados."
 ---
 # Auditoría de wikilinks huérfanos
 
 > Generado originalmente: 2026-06-19
-> Última actualización: **2026-08-03 — Procesamiento de huérfanos de alta densidad (3ª tanda)** (14 resueltos: 12 artículos creados, 2 redirecciones; ver secciones finales)
-> Total de wikilinks huérfanos registrados: **1376** (pendientes de artículo)
+> Última actualización: **2026-08-04 — Incorporación de Aparecida (CELAM)** (34 huérfanos sembrados desde resúmenes; ver Notas de sesión)
+> Total de wikilinks huérfanos registrados: **1410** (pendientes de artículo)
 > Resueltos: 35+29+11+14 (6 en 2026-07-15/16 — ver sección final; 26 por re-auditoría 2026-08-01; 3 por BMV 2026-08-03; 29 por alta densidad 2026-08-03; 11 por alta densidad 2ª tanda 2026-08-03; 14 por alta densidad 3ª tanda 2026-08-03, neto −11 en el registro)
 
 ## Metodología
@@ -1412,6 +1412,40 @@ los de mayor densidad son candidatos prioritarios a artículo propio.
 | 1374 | `[[votos_privados]]` | 1 | Biblia (81) |
 | 1375 | `[[votum]]` | 1 | Miscelánea (1139) |
 | 1376 | `[[zenon]]` | 1 | Miscelánea (1139) |
+| 1377 | `[[afroamericanos]]` | 1 | Miscelánea (1139) |
+| 1378 | `[[amazonia]]` | 2 | Miscelánea (1139) |
+| 1379 | `[[asociaciones_laicales]]` | 1 | Miscelánea (1139) |
+| 1380 | `[[biodiversidad]]` | 2 | Miscelánea (1139) |
+| 1381 | `[[cambio_climatico]]` | 2 | Miscelánea (1139) |
+| 1382 | `[[catequesis_mistagogica]]` | 1 | Miscelánea (1139) |
+| 1383 | `[[celam]]` | 1 | Miscelánea (1139) |
+| 1384 | `[[corrupcion]]` | 1 | Moral (30) |
+| 1385 | `[[crisis_de_sentido]]` | 1 | Miscelánea (1139) |
+| 1386 | `[[cultura_de_la_muerte]]` | 1 | Moral (30) |
+| 1387 | `[[cultura_del_consumo]]` | 1 | Moral (30) |
+| 1388 | `[[dialogo_intercultural]]` | 1 | Miscelánea (1139) |
+| 1389 | `[[economia_solidaria]]` | 1 | Moral (30) |
+| 1390 | `[[espiritualidad_de_la_comunion]]` | 2 | Dogmática (62) |
+| 1391 | `[[espiritualidad_trinitaria]]` | 1 | Dogmática (62) |
+| 1392 | `[[exclusion_social]]` | 2 | Moral (30) |
+| 1393 | `[[identidad_cultural]]` | 1 | Miscelánea (1139) |
+| 1394 | `[[ideologia_de_genero]]` | 2 | Moral (30) |
+| 1395 | `[[iglesia_samaritana]]` | 1 | Dogmática (62) |
+| 1396 | `[[individualismo]]` | 2 | Moral (30) |
+| 1397 | `[[libertad_de_ensenanza]]` | 1 | Miscelánea (1139) |
+| 1398 | `[[mestizaje]]` | 1 | Miscelánea (1139) |
+| 1399 | `[[metodo_ver_juzgar_actuar]]` | 1 | Miscelánea (1139) |
+| 1400 | `[[migracion]]` | 1 | Miscelánea (1139) |
+| 1401 | `[[narcotrafico]]` | 2 | Moral (30) |
+| 1402 | `[[pastoral_biblica]]` | 1 | Miscelánea (1139) |
+| 1403 | `[[pastoral_juvenil]]` | 1 | Miscelánea (1139) |
+| 1404 | `[[pastoral_organica]]` | 2 | Miscelánea (1139) |
+| 1405 | `[[pluralismo_religioso]]` | 1 | Dogmática (62) |
+| 1406 | `[[reforma_agraria]]` | 2 | Moral (30) |
+| 1407 | `[[sentido_religioso]]` | 2 | Miscelánea (1139) |
+| 1408 | `[[trata_de_personas]]` | 1 | Moral (30) |
+| 1409 | `[[universidad_catolica]]` | 1 | Miscelánea (1139) |
+| 1410 | `[[violencia]]` | 2 | Moral (30) |
 ## Notas de sesión
 
 - **2026-08-01 (re-auditoría integral):** reconstruida la tabla completa
@@ -1526,6 +1560,20 @@ los de mayor densidad son candidatos prioritarios a artículo propio.
   `catalina_labouré`). Actualizados conteos de `santuarios` (1→6) y
   `shekina` (1→2) por las referencias de los artículos BMV. Ver sección
   «Resueltos por BMV».
+
+- **2026-08-04 (Aparecida — Documento Conclusivo de Aparecida, CELAM):** sembrados 34
+  huérfanos nuevos (1377-1410) desde los 13 resúmenes del documento y el artículo
+  descriptivo. Se registran conceptos nucleares de la pastoral latinoamericana
+  (`metodo_ver_juzgar_actuar`, `pastoral_organica`, `pastoral_juvenil`, `celam`,
+  `catequesis_mistagogica`, `iglesia_samaritana`) y de la doctrina social
+  (`ideologia_de_genero`, `cultura_de_la_muerte`, `economia_solidaria`,
+  `trata_de_personas`, `reforma_agraria`, `narcotrafico`, `cambio_climatico`).
+  Variantes redirigidas a su artículo canónico en los propios resúmenes:
+  `colegialidad`→`colegialidad_episcopal`, `conferencia_episcopal`→`conferencias_episcopales`,
+  `subsidiaridad`→`subsidiariedad`, `discípulo_misionero`→`discipulado_misionero`,
+  `alegría_del_evangelio`→`evangelii_gaudium`. La tabla registra los conteos de
+  referencias de los resúmenes; el total general no se ha recalculado frente al
+  detector completo (re-auditoría integral pendiente). Total: 1376 → 1410.
 
 ## Resueltos en esta sesión (LC-Wik)
 

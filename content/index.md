@@ -3,7 +3,7 @@ tags:
   - meta
   - index
 title: Wiki Index
-updated: '2026-08-03'
+updated: '2026-08-04'
 note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts/regenerar-indice.py'
 ---
 
@@ -481,6 +481,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[confianza]]
 - [[confianza_en_dios]]
 - [[configuración_con_cristo]]
+- [[configuración_con_cristo_(respuesta)]]
 - [[confirmacion]]
 - [[confirmación]]
 - [[conflagración_final]]
@@ -538,6 +539,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[conversión]]
 - [[conversión_misionera]]
 - [[convocatoria_a_consejo]]
+- [[cooperaci\303\263n_moral_al_don_de_dios]]
 - [[cooperación_al_mal]]
 - [[copa]]
 - [[corazón]]
@@ -548,6 +550,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[corrección_fraterna]]
 - [[correccion_fraterna]]
 - [[corredención]]
+- [[correspondencia_al_don_divino]]
 - [[corresponsabilidad]]
 - [[corresponsabilidad_en_la_iglesia]]
 - [[corresponsabilidad_laical]]
@@ -562,6 +565,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[creacionismo_alma]]
 - [[creacionismo_del_alma]]
 - [[crecimiento]]
+- [[crecimiento_en_la_santidad]]
 - [[credibilidad]]
 - [[credo]]
 - [[credo_bautismal]]
@@ -2272,6 +2276,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[respeto]]
 - [[respeto_humano]]
 - [[responsabilidad]]
+- [[respuesta_a_la_comunicación_divina]]
 - [[ressourcement]]
 - [[restitución]]
 - [[resto]]
@@ -2386,6 +2391,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[santidad_de_la_iglesia]]
 - [[santidad_en_el_anticuo_testamento]]
 - [[santidad_en_el_nuevo_testamento]]
+- [[santidad_inicial_(respuesta)]]
 - [[santidad_ontológica_inicial]]
 - [[santificación]]
 - [[santificación_del_mundo]]
@@ -2576,6 +2582,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[tercer_mandamiento]]
 - [[tercer_milenio_cristiano]]
 - [[tesoro_de_la_iglesia]]
+- [[test-file]]
 - [[testamento]]
 - [[testimonio]]
 - [[testimonio_apostólico]]
