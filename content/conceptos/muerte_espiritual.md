@@ -57,7 +57,7 @@ La muerte espiritual se relaciona con varios conceptos fundamentales de la teolo
 
 - [[pecado_mortal]]: Causa inmediata de la muerte espiritual.
 - [[gracia_santificante]]: La vida sobrenatural que se pierde en la muerte espiritual.
-- [[sacramento_de_la_penitencia]]: Medio instituido por Cristo para restaurar la vida espiritual.
+- [[sacramento_de_la_reconciliación]]: Medio instituido por Cristo para restaurar la vida espiritual.
 - [[contrición]]: Acto de dolor que inicia la resurrección espiritual.
 - [[concupiscencia]]: Estado de tendencia al pecado que persiste tras la restauración de la gracia.
 - [[pecado_original]]: Causa de la muerte física y predisposición a la muerte espiritual.
@@ -67,7 +67,7 @@ La muerte espiritual se relaciona con varios conceptos fundamentales de la teolo
 
 ## Ver también
 
-[[pecado_mortal]], [[gracia_santificante]], [[sacramento_de_la_penitencia]], [[contrición]], [[concupiscencia]], [[muerte]], [[esperanza]]
+[[pecado_mortal]], [[gracia_santificante]], [[sacramento_de_la_reconciliación]], [[contrición]], [[concupiscencia]], [[muerte]], [[esperanza]]
 
 ## Referencias
 

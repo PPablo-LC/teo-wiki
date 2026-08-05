@@ -13,7 +13,7 @@ description: "La potestad de las llaves es el poder espiritual conferido por Cri
 
 ## Definición
 
-La potestad de las llaves es el poder espiritual conferido por Cristo a la Iglesia —y en ella a los Apóstoles y sus sucesores— de perdonar los pecados en su nombre, ejercido principalmente en el sacramento de la [[penitencia]]. Se llama así por las llaves entregadas a san Pedro (Mt 16,19).
+La potestad de las llaves es el poder espiritual conferido por Cristo a la Iglesia —y en ella a los Apóstoles y sus sucesores— de perdonar los pecados en su nombre, ejercido principalmente en el sacramento de la [[sacramento_de_la_reconciliación|penitencia]]. Se llama así por las llaves entregadas a san Pedro (Mt 16,19).
 
 ## Perspectivas por fuente
 
@@ -23,7 +23,7 @@ Cristo ha confiado a los Apóstoles «el poder de las llaves» (CEC §1442-1445)
 
 ## Relaciones doctrinales
 
-La potestad de las llaves es el [[poder_de_las_llaves]] mismo, término equivalente. Se ejerce mediante la [[absolución]] en el sacramento de la [[penitencia]] y presupone el [[orden_sacerdotal]]. Se distingue del poder de jurisdicción eclesiástica porque su objeto directo es la remisión de los pecados.
+La potestad de las llaves es el [[poder_de_las_llaves]] mismo, término equivalente. Se ejerce mediante la [[absolución]] en el sacramento de la [[sacramento_de_la_reconciliación|penitencia]] y presupone el [[orden_sacerdotal]]. Se distingue del poder de jurisdicción eclesiástica porque su objeto directo es la remisión de los pecados.
 
 ## Denzinger
 
@@ -33,7 +33,7 @@ D-109b (San Bonifacio I): «A ti te daré las llaves del reino de los cielos» (
 
 ## Ver también
 
-[[poder_de_las_llaves]], [[penitencia]], [[absolución]], [[orden_sacerdotal]]
+[[poder_de_las_llaves]], [[sacramento_de_la_reconciliación]], [[absolución]], [[orden_sacerdotal]]
 
 ## Referencias
 

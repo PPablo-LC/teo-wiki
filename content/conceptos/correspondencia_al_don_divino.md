@@ -23,10 +23,10 @@ Según la obra, la correspondencia al don divino es "decisión siempre actual de
 - **Correspondencia vs. mérito**: Aunque necesaria, la respuesta humana no merece la gracia; es condición para su recepción y fruto.
 
 ## Relaciones doctrinales
-[[gracia_santificante]], [[justificación_(respuesta)]], [[santidad_inicial_(respuesta)]], [[cooperación_moral_al_don_de_dios]], [[lucha_contra_el_pecado]]
+[[gracia_santificante]], [[justificación]], [[santidad_inicial]], [[cooperación_moral_al_don_de_dios]], [[lucha_contra_el_pecado]]
 
 ## Ver también
-[[cooperación_moral_al_don_de_dios]], [[santidad_inicial_(respuesta)]], [[lucha_contra_el_pecado]]
+[[cooperación_moral_al_don_de_dios]], [[santidad_inicial]], [[lucha_contra_el_pecado]]
 
 ## Referencias
 - [Ele_Xto_Stos, Cap. III]

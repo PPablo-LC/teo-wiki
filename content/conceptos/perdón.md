@@ -53,7 +53,7 @@ La parábola del hijo pródigo muestra que «aquel que perdona y aquel que es pe
 
 ## Relaciones doctrinales
 
-[[penitencia]], [[bautismo]], [[conversión]], [[poder_de_las_llaves]], [[justificación]], [[pecado]], [[misericordia]]
+[[sacramento_de_la_reconciliación]], [[bautismo]], [[conversión]], [[poder_de_las_llaves]], [[justificación]], [[pecado]], [[misericordia]]
 
 
 ## Analizado para

@@ -33,7 +33,7 @@ El c. 1251 establece el Miércoles de Ceniza como día de ayuno y abstinencia ob
 
 ## Relaciones doctrinales
 
-El Miércoles de Ceniza abre el tiempo de [[cuaresma]], que prepara al [[triduo_pascual]] y a la [[pascua]]. Sus prácticas penitenciales se ordenan al sacramento de la [[penitencia]].
+El Miércoles de Ceniza abre el tiempo de [[cuaresma]], que prepara al [[triduo_pascual]] y a la [[pascua]]. Sus prácticas penitenciales se ordenan al sacramento de la [[sacramento_de_la_reconciliación|penitencia]].
 
 ## Ver también
 

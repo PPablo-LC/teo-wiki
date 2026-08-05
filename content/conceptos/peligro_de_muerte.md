@@ -69,7 +69,7 @@ El peligro de muerte tiene especial relación con el [[viático]], la [[unción_
 
 ## Ver también
 
-[[viático]], [[unción_de_los_enfermos]], [[absolución_general]], [[muerte]], [[eucaristía]], [[penitencia]]
+[[viático]], [[unción_de_los_enfermos]], [[absolución_general]], [[muerte]], [[eucaristía]], [[sacramento_de_la_reconciliación]]
 
 ## Referencias
 

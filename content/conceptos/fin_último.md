@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Fin último
 tags: ["moral"]
 
-timestamp: 2026-06-04
+timestamp: 2026-08-04
 description: "El fin último del hombre es Dios mismo, a quien debe conocer, amar y servir en esta vida para gozar de Él eternamente en la bienaventuranza."
 ---
 # Fin último
 
 > Área: Moral
-> Última actualización: 2026-06-29
+> Última actualización: 2026-08-04
 
 ## Definición
 
@@ -67,15 +67,23 @@ Royo Marín trata el fin último en la Parte 1 como fundamento de la vida espiri
 
 La Veritatis Splendor (§10) enseña que el hombre, hecho a imagen del Creador, redimido por Cristo y santificado por el Espíritu Santo, tiene como fin último de su vida ser «alabanza de la gloria» de Dios (Ef 1,12). El obrar humano está ordenado a Dios como fin último (§72-73). La vida moral se presenta como respuesta debida a las iniciativas gratuitas del amor de Dios. El carácter teleológico de la vida moral significa que toda acción humana se ordena a Dios como bien supremo. Cristo es la respuesta a la pregunta sobre el bien, porque solo Dios es el Bien (§9, §72).
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+El autor presenta el análisis teleológico como el método por el cual se evalúa la moralidad de una acción según su relación con el fin último: la beatitud eterna (visión cara a cara de Dios). Todo acto humano se ordena a este fin último, directa o indirectamente; el análisis se pregunta si una acción se ordena o contradice este fin, y la intención del agente es fundamental (Ele_Xto_Stos, Cap. II, §1b).
+
+El fin último no es un bien particular, sino el bien supremo que satisface plenamente la voluntad humana. Esta perspectiva se apoya en santo Tomás (SmTh I-II, q. 1, a. 5; q. 8, a. 1) y constituye el fundamento teleológico de la moral que la obra desarrolla.
+
 ## Distinciones importantes
 
 - Fin último natural vs. fin último sobrenatural: el hombre tiene un fin natural (conocimiento de Dios por la razón) y un fin sobrenatural (visión beatífica, que excede toda capacidad natural).
 - Fin último objetivo (Dios mismo) vs. fin último subjetivo (la fruición de Dios).
 - En esta vida se posee el fin último imperfectamente por la gracia y la caridad; en la gloria, perfectamente.
+- Fin último y bien supremo: el fin último es Dios mismo, no un bien creado (Ele_Xto_Stos).
+- Análisis teleológico y deontológico: el primero se pregunta por el fin; el segundo por la norma (Ele_Xto_Stos).
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[bienaventuranza]], la [[visión_beatífica]], la [[caridad]], la [[perfección_cristiana]], los [[novísimos]] y el [[acto_humano]].
+Se relaciona con la [[bienaventuranza]], la [[visión_beatífica]], la [[caridad]], la [[perfección_cristiana]], los [[novísimos]] y el [[acto_humano]]. El análisis de la acción humana a la luz del fin último corresponde al [[análisis_moral_del_fin_último]].
 
 ## Ver también
 

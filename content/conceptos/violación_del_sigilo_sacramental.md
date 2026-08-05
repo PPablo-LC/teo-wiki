@@ -45,11 +45,11 @@ La Breve Relación (n.12) señala que en la reforma de 2010 se introdujeron los 
 
 ## Relaciones doctrinales
 
-La violación del sigilo sacramental se relaciona con el [[sigilo_sacramental]] propiamente dicho, cuyo fundamento teológico es la absoluta confianza del penitente en el sacramento de la [[penitencia]]. Se vincula con los [[delicta_graviora]] contra la Penitencia (art. 4 SST-2010) y con la [[excomunión]] *latae sententiae* como pena asociada. La captación maliciosa se relaciona con el [[secreto_pontificio]] (art. 30 SST-2010).
+La violación del sigilo sacramental se relaciona con el [[sigilo_sacramental]] propiamente dicho, cuyo fundamento teológico es la absoluta confianza del penitente en el sacramento de la [[sacramento_de_la_reconciliación|penitencia]]. Se vincula con los [[delicta_graviora]] contra la Penitencia (art. 4 SST-2010) y con la [[excomunión]] *latae sententiae* como pena asociada. La captación maliciosa se relaciona con el [[secreto_pontificio]] (art. 30 SST-2010).
 
 ## Ver también
 
-[[sigilo_sacramental]], [[delicta_graviora]], [[penitencia]], [[excomunión]], [[absolución_del_cómplice]], [[solicitación]], [[secreto_pontificio]], [[dimisión_del_estado_clerical]]
+[[sigilo_sacramental]], [[delicta_graviora]], [[sacramento_de_la_reconciliación]], [[excomunión]], [[absolución_del_cómplice]], [[solicitación]], [[secreto_pontificio]], [[dimisión_del_estado_clerical]]
 
 ## Referencias
 

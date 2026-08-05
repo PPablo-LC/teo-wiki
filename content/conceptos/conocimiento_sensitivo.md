@@ -65,12 +65,12 @@ La distinción entre ambos niveles de conocimiento no implica una ruptura, sino 
 
 ## Relaciones doctrinales
 
-El conocimiento sensitivo se relaciona estrechamente con la doctrina de la [[potencia_apetitiva_y_cognoscitiva]] y con la distinción entre [[potencia_acto_y_habito]] en el ámbito de la cognición. La teoría tomista de la abstracción intelectual —que parte del phantasma sensible para llegar al concepto universal— conecta el conocimiento sensitivo con la doctrina del [[intelecto_agente_y_posible]]. Asimismo, la existencia de los sentidos internos, especialmente la imaginación, se vincula con la doctrina de la [[unión_del_alma_y_del_cuerpo]] y la condición encarnada del ser humano, pues el alma humana, al ser forma del cuerpo, necesita de los sentidos para conocer.
+El conocimiento sensitivo se relaciona estrechamente con la doctrina de la [[potencia_apetitiva_y_cognoscitiva]] y con la distinción entre [[potencia_acto_y_habito]] en el ámbito de la cognición. La teoría tomista de la abstracción intelectual —que parte del phantasma sensible para llegar al concepto universal— conecta el conocimiento sensitivo con la doctrina del [[intelecto_agente_y_posible]]. Asimismo, la existencia de los sentidos internos, especialmente la imaginación, se vincula con la doctrina de la [[unidad_alma_cuerpo]] y la condición encarnada del ser humano, pues el alma humana, al ser forma del cuerpo, necesita de los sentidos para conocer.
 
 ## Ver también
 [[intelecto_agente_y_posible]]
 [[potencia_apetitiva_y_cognoscitiva]]
-[[unión_del_alma_y_del_cuerpo]]
+[[unidad_alma_cuerpo]]
 [[potencia_acto_y_habito]]
 [[conocimiento_sensitivo_y_lenguaje]]
 

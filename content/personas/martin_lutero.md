@@ -51,7 +51,7 @@ Lutero representa la ruptura más significativa en la historia de la Iglesia occ
 
 ## Ver también
 
-[[leon_x]], [[justificación_por_la_fe]], [[exsurge_domine]], [[concilio_de_trento]], [[indulgencias]], [[penitencia]], [[libre_albedrío]], [[purgatorio]], [[herejía]]
+[[leon_x]], [[justificación_por_la_fe]], [[exsurge_domine]], [[concilio_de_trento]], [[indulgencias]], [[sacramento_de_la_reconciliación]], [[libre_albedrío]], [[purgatorio]], [[herejía]]
 
 ## Referencias
 

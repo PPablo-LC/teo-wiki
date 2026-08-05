@@ -25,7 +25,7 @@ No toda ficción es simulación: las **ficciones figuradas** o alegóricas —co
 
 ### Según Royo Marín (TPCr)
 
-La simulación es un vicio contrario a la [[verdad]] y a la [[sinceridad]]. En materia sacramental —como la simulación del sacramento de la [[penitencia]] o de la [[eucaristía]]— constituye sacrilegio. Royo Marín la trata entre los pecados contra la virtud de la religión y la virtud de la verdad.
+La simulación es un vicio contrario a la [[verdad]] y a la [[sinceridad]]. En materia sacramental —como la simulación del sacramento de la [[sacramento_de_la_reconciliación|penitencia]] o de la [[eucaristía]]— constituye sacrilegio. Royo Marín la trata entre los pecados contra la virtud de la religión y la virtud de la verdad.
 
 ## Relaciones doctrinales
 

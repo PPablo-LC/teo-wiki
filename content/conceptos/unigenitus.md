@@ -63,7 +63,7 @@ Las proposiciones se agrupan temáticamente:
 
 ## Relaciones doctrinales
 
-Se relaciona con [[jansenismo]], [[gracia]], [[libre_albedrío]], [[caridad]], [[fe]], [[esperanza]], [[temor_de_dios]], [[iglesia_cuerpo_místico]], [[escritura]], [[penitencia]], [[excomunión]], [[juramento]].
+Se relaciona con [[jansenismo]], [[gracia]], [[libre_albedrío]], [[caridad]], [[fe]], [[esperanza]], [[temor_de_dios]], [[iglesia_cuerpo_místico]], [[escritura]], [[sacramento_de_la_reconciliación]], [[excomunión]], [[juramento]].
 
 ## Ver también
 

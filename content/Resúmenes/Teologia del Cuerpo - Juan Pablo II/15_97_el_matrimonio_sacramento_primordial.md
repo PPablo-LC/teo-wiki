@@ -30,7 +30,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 
 ### Recapitulación de los análisis del «principio»
 
-Se citan frases de análisis precedentes: «El hombre aparece en el mundo visible como la expresión más alta del don divino, porque lleva en sí la dimensión interior del don… Un reflejo de esta semejanza es también la conciencia primordial del [[significado_esponsal_del_cuerpo|significado esponsalicio del cuerpo]], penetrada por el misterio de la [[inocencia_original|inocencia originaria]]». Y se plantea el problema del sacramento primordial: «en esta dimensión se constituye un sacramento primordial, entendido como signo que transmite eficazmente en el mundo visible el misterio invisible escondido en Dios desde la eternidad… Es la inocencia originaria la que inicia esta participación…» (cf. cap. 19).
+Se citan frases de análisis precedentes: «El hombre aparece en el mundo visible como la expresión más alta del don divino, porque lleva en sí la dimensión interior del don… Un reflejo de esta semejanza es también la conciencia primordial del [[significado_esponsal_del_cuerpo|significado esponsalicio del cuerpo]], penetrada por el misterio de la [[inocencia_originaria|inocencia originaria]]». Y se plantea el problema del sacramento primordial: «en esta dimensión se constituye un sacramento primordial, entendido como signo que transmite eficazmente en el mundo visible el misterio invisible escondido en Dios desde la eternidad… Es la inocencia originaria la que inicia esta participación…» (cf. cap. 19).
 
 ### Los designios eternos de Dios Padre
 

@@ -108,11 +108,11 @@ Pío V condenó los errores de Bayo sobre las indulgencias (D‑1059–D‑1060)
 
 ## Relaciones doctrinales
 
-Las indulgencias se relacionan con el sacramento de la [[penitencia]], la [[comunión_de_los_santos]], el [[purgatorio]], el [[tesoro_de_la_iglesia]] y la [[satisfacción]] vicaria de Cristo. También con el [[sacerdocio]] y el [[poder_de_las_llaves]].
+Las indulgencias se relacionan con el sacramento de la [[sacramento_de_la_reconciliación|penitencia]], la [[comunión_de_los_santos]], el [[purgatorio]], el [[tesoro_de_la_iglesia]] y la [[satisfacción]] vicaria de Cristo. También con el [[sacerdocio]] y el [[poder_de_las_llaves]].
 
 ## Ver también
 
-[[penitencia]], [[comunión_de_los_santos]], [[purgatorio]], [[tesoro_de_la_iglesia]], [[satisfacción]]
+[[sacramento_de_la_reconciliación]], [[comunión_de_los_santos]], [[purgatorio]], [[tesoro_de_la_iglesia]], [[satisfacción]]
 
 ## Referencias
 

@@ -4,7 +4,7 @@ title: Perdón de los pecados
 tags: ["sacramental"]
 
 timestamp: 2026-06-21
-description: "Potestad otorgada por Cristo a la Iglesia de remitir los pecados cometidos después del [[bautismo]], ejercida de modo habitual en el sacramento de la [[penitencia]] o [[reconciliación]]."
+description: "Potestad otorgada por Cristo a la Iglesia de remitir los pecados cometidos después del [[bautismo]], ejercida de modo habitual en el [[sacramento_de_la_reconciliación]]."
 ---
 # Perdón de los pecados
 
@@ -13,7 +13,7 @@ description: "Potestad otorgada por Cristo a la Iglesia de remitir los pecados c
 
 ## Definición
 
-Potestad otorgada por Cristo a la Iglesia de remitir los pecados cometidos después del [[bautismo]], ejercida de modo habitual en el sacramento de la [[penitencia]] o [[reconciliación]], y de modo inicial en el Bautismo mismo. El perdón de los pecados es artículo de fe contenido en el Símbolo de los Apóstoles y en el Credo Niceno-Constantinopolitano.
+Potestad otorgada por Cristo a la Iglesia de remitir los pecados cometidos después del [[bautismo]], ejercida de modo habitual en el [[sacramento_de_la_reconciliación]], y de modo inicial en el Bautismo mismo. El perdón de los pecados es artículo de fe contenido en el Símbolo de los Apóstoles y en el Credo Niceno-Constantinopolitano.
 
 ## Desarrollo doctrinal
 
@@ -67,11 +67,11 @@ Juan Pablo II desarrolla el poder divino de Jesús para perdonar los pecados. Je
 
 ## Relaciones doctrinales
 
-Se relaciona con [[penitencia]], [[retorno_de_los_pecados]], [[confesión]], [[conversión]], [[reconciliación]], [[bautismo]], [[contrición]], [[absolución]], [[indulgencias]], [[comunión_de_los_santos]], [[satisfacción]], [[sigilo_sacramental]].
+Se relaciona con [[sacramento_de_la_reconciliación]], [[retorno_de_los_pecados]], [[confesión]], [[conversión]], [[bautismo]], [[contrición]], [[absolución]], [[indulgencias]], [[comunión_de_los_santos]], [[satisfacción]], [[sigilo_sacramental]].
 
 ## Ver también
 
-[[penitencia]], [[retorno_de_los_pecados]], [[confesión]], [[conversión]], [[reconciliación]], [[contrición]], [[absolución]], [[bautismo]], [[indulgencias]]
+[[sacramento_de_la_reconciliación]], [[retorno_de_los_pecados]], [[confesión]], [[conversión]], [[contrición]], [[absolución]], [[bautismo]], [[indulgencias]]
 
 ## Referencias
 

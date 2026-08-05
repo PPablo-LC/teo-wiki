@@ -38,11 +38,11 @@ Royo Marín explica la distinción entre sacramentos de vivos y de muertos (Part
 
 ## Relaciones doctrinales
 
-Se relaciona con [[sacramento_de_vivos]], [[bautismo]], [[penitencia]], [[gracia_sacramental]], [[gracia_santificante]], [[justificación]].
+Se relaciona con [[sacramento_de_vivos]], [[bautismo]], [[sacramento_de_la_reconciliación]], [[gracia_sacramental]], [[gracia_santificante]], [[justificación]].
 
 ## Ver también
 
-[[sacramento_de_muertos]], [[sacramento_de_vivos]], [[bautismo]], [[penitencia]]
+[[sacramento_de_muertos]], [[sacramento_de_vivos]], [[bautismo]], [[sacramento_de_la_reconciliación]]
 
 ## Referencias
 

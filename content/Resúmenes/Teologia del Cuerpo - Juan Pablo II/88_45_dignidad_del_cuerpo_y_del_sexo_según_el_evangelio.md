@@ -16,7 +16,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[dignidad_del_cuerpo]] — la dignidad personal del cuerpo y del sexo
 - [[redención_del_cuerpo]] — Rom 8, 23 y el estado «lapso y redimido»
 - [[maniqueísmo]] — el «anti-valor» maniqueo esencialmente extraño al Evangelio
-- [[acto_espera(te)u]] — separarse del mal del acto sin transferirlo al objeto
+- [[ethos_de_la_redención]] — separarse del mal del acto sin transferirlo al objeto
 - [[significado_sacramental]] — el signo sacramental «una sola carne» (Mt 19, 5-6)
 - [[status_natur_laps_simul_ac_redempt]] — el estado del hombre «histórico»
 - [[peligro_moral]] — la justificación del acto con perjuicio del objeto

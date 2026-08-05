@@ -18,7 +18,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[espiritualización]] — otra composición de las fuerzas interiores del hombre
 - [[dones_del_espíritu_santo]] — la sensibilidad interior hacia los dones del Espíritu
 - [[significado_esponsal_del_cuerpo]] — la conciencia del significado esponsoalicio
-- [[etos]] — el ethos perfecto del don y el porvenir del ethos humano
+- [[ethos]] — el ethos perfecto del don y el porvenir del ethos humano
 - [[comunión_de_personas]] — la comunión vivida «desde el principio»
 - [[creación]] — el misterio de la creación y su apelación
 - [[procreación]] — la renovación de la existencia mediante la procreación

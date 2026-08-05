@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Configuración con Cristo
 tags: ["ascética", "dogmática"]
 
-timestamp: 2026-06-14
+timestamp: 2026-08-04
 description: "La configuración con Cristo es el proceso por el cual el cristiano, mediante la gracia, las virtudes y la imitación de Cristo, se asemeja progresivamente al Hijo de Dios hecho hombre."
 ---
 # Configuración con Cristo
 
 > Área: Ascética / Dogmática
-> Última actualización: 2026-06-14
+> Última actualización: 2026-08-04
 
 ## Definición
 
@@ -50,15 +50,27 @@ León XIV, en su mensaje a los sacerdotes para la Jornada de Santificación Sace
 
 La configuración con Cristo se realiza en el sacramento del Orden, que «configura» al sacerdote con Cristo Cabeza y Pastor. Juan Pablo II describe la postración del ordenando —«yacer por tierra en forma de Cruz»— como gesto que significa «acoger en la propia vida —como Pedro— la Cruz de Cristo y hacerse con el Apóstol "suelo" para los hermanos» [DyM, IV]. La [[configuración_con_cristo]] es el fundamento de la actuación *[[in_persona_christi]]* en la Eucaristía: el sacerdote queda «como envuelto por el poder del Espíritu Santo y las palabras que dice adquieren la misma eficacia que las pronunciadas por Cristo durante la Última Cena» [DyM, VIII]. El [[admirabile_commercium]] expresa esta configuración como un intercambio de donación personal.
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La obra afirma explícitamente que «la llamada a la santidad se actúa en la configuración con Cristo, asumiendo y elevando el bien humano sin alterarlo» (Cap. III, §1). Esta configuración es el marco en el cual la vida moral cristiana se entiende como respuesta al don divino, integrando la naturaleza humana elevada por la gracia y orientada hacia el bien mediante la colaboración de la razón y la fe.
+
+A la luz de la Revelación, el bien humano completo es asumido, purificado, elevado e integrado, mas no alterado, por la llamada a la santidad que se realiza en la configuración con Cristo. La vida moral cristiana significa la activa búsqueda de la santidad, sostenida por la gracia del Espíritu Santo. La capacidad práctica de la razón humana es enriquecida por el horizonte de sentido y las enseñanzas morales de la Revelación; asimismo, las facultades operativas naturales del hombre son sanadas y elevadas por las virtudes cristianas. De este modo, toda la existencia moral se entiende profundamente como la respuesta del hombre al don divino que lo eleva, junto con los demás miembros de la Iglesia y potencialmente con todos los hombres, a la dignidad de hijo de Dios en Cristo por medio del Espíritu Santo.
+
+Esta configuración implica una respuesta activa y creativa del cristiano: no se trata de una mera reacción pasiva a una petición divina de contenido preciso, sino de reconocer a Dios como origen y fundamento de todo bien y comprometerse obedientemente con todo lo que resulta bueno, tanto a la luz de la razón natural (ley moral natural) como a la luz de la fe (ley evangélica). La teología moral tiene la tarea de ayudar al cristiano a desarrollar este esfuerzo activo y creativo para alcanzar la unión con Cristo a través de su vida y acciones.
+
+[Ele_Xto_Stos, Cap. III]
+
 ## Distinciones importantes
 
 - **Imitación de Cristo**: ejercicio ascético de reproducir las virtudes de Cristo por esfuerzo propio.
 - **Configuración ontológica**: transformación del ser por la gracia, que hace al alma semejante a Cristo.
 - **Unión transformante**: grado supremo de configuración, donde el alma vive «no ella, sino Cristo en ella».
+- **Configuración con Cristo vs. mera imitación externa**: la configuración implica una transformación interna y una unión vital con Cristo, no solo una imitación superficial de sus acciones (Ele_Xto_Stos).
+- **Configuración con Cristo vs. esfuerzo meramente humano**: aunque requiere esfuerzo humano, la configuración es posible solo por la gracia que asume y eleva la naturaleza humana; no es un logro autónomo (Ele_Xto_Stos).
 
 ## Relaciones doctrinales
 
-La configuración con Cristo es el medio para alcanzar la [[perfección_cristiana]], presupone la [[gracia_santificante]] y las [[virtudes_infusas]], se realiza en el seno de la [[iglesia_cuerpo_místico]] y tiene por modelo a la [[virgen_maría]]. Se relaciona con la [[inhabitación_trinitaria]] en cuanto que la configuración nos hace templo de la Trinidad.
+La configuración con Cristo es el medio para alcanzar la [[perfección_cristiana]], presupone la [[gracia_santificante]] y las [[virtudes_infusas]], se realiza en el seno de la [[iglesia_cuerpo_místico]] y tiene por modelo a la [[virgen_maría]]. Se relaciona con la [[inhabitación_trinitaria]] en cuanto que la configuración nos hace templo de la Trinidad. Como respuesta activa al don divino, se vincula con la [[respuesta_a_la_comunicación_divina]], la [[santidad_inicial]], el [[crecimiento_en_la_santidad]], la [[cooperación_moral_al_don_de_dios]], la [[unión_con_cristo]], las [[virtudes_teologales]] y las [[virtudes_morales]].
 
 
 ## Analizado para
@@ -66,7 +78,7 @@ La configuración con Cristo es el medio para alcanzar la [[perfección_cristian
 - [[tim_barry_mortification_maketh_man]]
 
 ## Ver también
-[[perfección_cristiana]], [[gracia_santificante]], [[iglesia_cuerpo_místico]], [[virgen_maría]]
+[[perfección_cristiana]], [[gracia_santificante]], [[iglesia_cuerpo_místico]], [[virgen_maría]], [[teología_moral]], [[gracia]], [[unión_con_cristo]], [[respuesta_divina]]
 
 ## Referencias
 

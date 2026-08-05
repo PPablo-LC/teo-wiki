@@ -29,11 +29,11 @@ El Denzinger recoge la doctrina de Gelasio I sobre la remisión de los pecados (
 
 ## Relaciones doctrinales
 
-La remisión de los pecados se realiza por los sacramentos del [[bautismo]] y de la [[penitencia]]. Presupone la [[potestad_de_las_llaves]] y la [[misericordia_divina]]. Se opone al [[novacianismo]], que niega la posibilidad de perdón después del bautismo.
+La remisión de los pecados se realiza por los sacramentos del [[bautismo]] y de la [[sacramento_de_la_reconciliación]]. Presupone la [[potestad_de_las_llaves]] y la [[misericordia_divina]]. Se opone al [[novacianismo]], que niega la posibilidad de perdón después del bautismo.
 
 ## Ver también
 
-[[potestad_de_las_llaves]], [[penitencia]], [[bautismo]], [[misericordia_divina]], [[novacianismo]], [[confesión]], [[absolución]]
+[[potestad_de_las_llaves]], [[sacramento_de_la_reconciliación]], [[bautismo]], [[misericordia_divina]], [[novacianismo]], [[confesión]], [[absolución]]
 
 ## Referencias
 

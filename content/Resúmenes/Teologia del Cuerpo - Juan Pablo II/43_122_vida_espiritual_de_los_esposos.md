@@ -29,7 +29,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[espíritu_santo]] — el amor de Dios difundido en los corazones por el Espíritu Santo
 - [[oración]] — la súplica de la fuerza esencial con la oración
 - [[eucaristía]] — la gracia y el amor de la fuente siempre viva de la Eucaristía
-- [[penitencia]] — la superación de las propias faltas en el sacramento de la penitencia
+- [[sacramento_de_la_reconciliación]] — la superación de las propias faltas en el sacramento de la penitencia
 - [[verdad]] — la construcción de la convivencia según «la verdad del signo»
 - [[familia]] — la espiritualidad de los padres y de la familia
 - [[matrimonio]] — el matrimonio en su dignidad sacramental
@@ -63,6 +63,6 @@ En la Encíclica, la visión de la vida conyugal está, en cada pasaje, marcada 
 
 ### Los medios de la espiritualidad conyugal
 
-He aquí la fuerza esencial y fundamental: el amor injertado en el corazón («difundido en los corazones») por el [[espíritu_santo|Espíritu Santo]]. Luego la Encíclica indica cómo los cónyuges deben implorar esta «fuerza» esencial y toda otra «ayuda divina» con la [[oración]]; cómo deben obtener la gracia y el amor de la fuente siempre viva de la [[eucaristía|Eucaristía]]; cómo deben superar «con humilde perseverancia» las propias faltas y los propios pecados en el sacramento de la [[penitencia]].
+He aquí la fuerza esencial y fundamental: el amor injertado en el corazón («difundido en los corazones») por el [[espíritu_santo|Espíritu Santo]]. Luego la Encíclica indica cómo los cónyuges deben implorar esta «fuerza» esencial y toda otra «ayuda divina» con la [[oración]]; cómo deben obtener la gracia y el amor de la fuente siempre viva de la [[eucaristía|Eucaristía]]; cómo deben superar «con humilde perseverancia» las propias faltas y los propios pecados en el sacramento de la [[sacramento_de_la_reconciliación|penitencia]].
 
 Estos son los medios —infalibles e indispensables— para formar la espiritualidad cristiana de la vida conyugal y familiar. Con ellos esa esencial y espiritualmente creativa «fuerza» de amor llega a los corazones humanos y, al mismo tiempo, a los cuerpos humanos en su subjetiva masculinidad y feminidad. Efectivamente, este amor permite construir toda la convivencia de los esposos según «la [[verdad]] del signo», por medio de la cual se construye el matrimonio en su dignidad sacramental, como pone de relieve el punto central de la Encíclica (cf. Humanæ vitae, 21).

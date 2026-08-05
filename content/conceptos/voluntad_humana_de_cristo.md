@@ -63,13 +63,13 @@ El Concilio Vaticano II recuerda que Cristo es modelo de la obediencia del creye
 
 ## Relaciones doctrinales
 
-La voluntad humana de Cristo se vincula directamente con su [[humanidad_de_cristo]], pues la voluntad es una de las facultades esenciales de la naturaleza humana. Se relaciona con el [[conocimiento_de_cristo]], ya que la voluntad humana sigue al conocimiento. Se conecta asimismo con la [[perfeccion_moral_de_cristo]], pues la conformidad perfecta de su voluntad con la del Padre es la cumbre de su santidad moral, y con la [[redencion_de_la_humanidad]], pues la aceptación libre de la pasión es el acto que nos salva.
+La voluntad humana de Cristo se vincula directamente con su [[humanidad_de_cristo]], pues la voluntad es una de las facultades esenciales de la naturaleza humana. Se relaciona con el [[conocimiento_de_cristo]], ya que la voluntad humana sigue al conocimiento. Se conecta asimismo con la [[perfección_moral_de_cristo]], pues la conformidad perfecta de su voluntad con la del Padre es la cumbre de su santidad moral, y con la [[redencion_de_la_humanidad]], pues la aceptación libre de la pasión es el acto que nos salva.
 
 ## Ver también
 
 - [[conocimiento_de_cristo]]
 - [[humanidad_de_cristo]]
-- [[perfeccion_moral_de_cristo]]
+- [[perfección_moral_de_cristo]]
 - [[redencion_de_la_humanidad]]
 
 ## Referencias

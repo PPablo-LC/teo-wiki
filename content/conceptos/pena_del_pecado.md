@@ -13,11 +13,11 @@ description: "Consecuencia penal o aflictiva del pecado, que puede ser eterna (i
 
 ## Definición
 
-La pena del pecado es la consecuencia aflictiva o privativa que el pecado lleva consigo en virtud de la justicia divina. La teología católica distingue entre la pena eterna ([[infierno]]), merecida por el [[pecado_mortal]] como ofensa grave contra Dios, y la pena temporal, que puede purificarse en esta vida o en el [[purgatorio]]. Todo pecado, incluso el [[pecado_venial]], implica alguna pena temporal. La [[gracia]] sacramental, especialmente en la [[penitencia]] y la [[indulgencia]], remite la pena temporal.
+La pena del pecado es la consecuencia aflictiva o privativa que el pecado lleva consigo en virtud de la justicia divina. La teología católica distingue entre la pena eterna ([[infierno]]), merecida por el [[pecado_mortal]] como ofensa grave contra Dios, y la pena temporal, que puede purificarse en esta vida o en el [[purgatorio]]. Todo pecado, incluso el [[pecado_venial]], implica alguna pena temporal. La [[gracia]] sacramental, especialmente en la [[sacramento_de_la_reconciliación]] y la [[indulgencia]], remite la pena temporal.
 
 ## Ver también
 
-[[pecado_mortal]], [[infierno]], [[purgatorio]], [[indulgencia]], [[penitencia]], [[justicia_divina]], [[reparación]]
+[[pecado_mortal]], [[infierno]], [[purgatorio]], [[indulgencia]], [[sacramento_de_la_reconciliación]], [[justicia_divina]], [[reparación]]
 
 ## Referencias
 

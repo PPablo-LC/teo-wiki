@@ -45,7 +45,7 @@ El Concilio enseña que la contrición imperfecta (atrición) «si excluye la vo
 
 ## Relaciones doctrinales
 
-[[contrición]], [[penitencia]], [[conversión]], [[dolor_del_pecado]], [[justificación]], [[gracia_actual]], [[temor_de_dios]]
+[[contrición]], [[sacramento_de_la_reconciliación]], [[conversión]], [[dolor_del_pecado]], [[justificación]], [[gracia_actual]], [[temor_de_dios]]
 
 ## Referencias
 

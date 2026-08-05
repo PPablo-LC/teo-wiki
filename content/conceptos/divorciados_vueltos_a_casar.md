@@ -31,7 +31,7 @@ La Iglesia reafirma su práxis de no admitir a la comunión eucarística a los d
 
 ## Relaciones doctrinales
 
-Se relaciona con [[matrimonio]], [[indisolubilidad]], [[eucaristía]], [[penitencia]], [[divorcio]], [[pastoral_familiar]]
+Se relaciona con [[matrimonio]], [[indisolubilidad]], [[eucaristía]], [[sacramento_de_la_reconciliación]], [[divorcio]], [[pastoral_familiar]]
 
 ## Ver también
 

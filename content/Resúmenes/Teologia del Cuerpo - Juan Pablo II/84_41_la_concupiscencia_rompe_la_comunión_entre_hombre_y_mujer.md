@@ -21,7 +21,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[persona_humana]] — el existir en un recíproco «para»
 - [[constricción_del_cuerpo]] — la constricción que arrebata la libertad del don
 - [[maniqueísmo]] — la desmentida: no se cuestiona la necesidad sexual
-- [[etos]] — el núcleo de la transformación del ethos
+- [[ethos]] — el núcleo de la transformación del ethos
 - [[mirada]] — el acto puramente interior fijado en la mirada
 - [[sujeto_objeto]] — la mujer reducida a objeto de potencial satisfacción
 - [[atracción]] — la perenne y recíproca atracción de personas

@@ -47,7 +47,7 @@ Pío IV promulgó la Bula *Iniunctum nobis* (1564) con la Profesión de Fe Tride
 
 ## Relaciones doctrinales
 
-Las definiciones de Trento abarcan la práctica totalidad de la teología católica: [[justificación]], [[pecado_original]], [[sacramentos]], [[eucaristía]], [[transubstanciación]], [[penitencia]], [[misa]], [[orden_sacerdotal]], [[matrimonio]], [[purgatorio]], [[indulgencias]], [[veneración_de_los_santos]].
+Las definiciones de Trento abarcan la práctica totalidad de la teología católica: [[justificación]], [[pecado_original]], [[sacramentos]], [[eucaristía]], [[transubstanciación]], [[sacramento_de_la_reconciliación]], [[misa]], [[orden_sacerdotal]], [[matrimonio]], [[purgatorio]], [[indulgencias]], [[veneración_de_los_santos]].
 
 ## Relaciones
 

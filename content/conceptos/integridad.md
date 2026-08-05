@@ -40,7 +40,7 @@ La integridad de la carne puede distinguirse en tres momentos: su mera existenci
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[castidad]], la [[virginidad]], la [[penitencia]] (confesión íntegra), la [[persona_humana]], y el respeto a la [[creación]].
+Se relaciona con la [[castidad]], la [[virginidad]], la [[sacramento_de_la_reconciliación]] (confesión íntegra), la [[persona_humana]], y el respeto a la [[creación]].
 
 
 ## Analizado para
@@ -51,7 +51,7 @@ Se relaciona con la [[castidad]], la [[virginidad]], la [[penitencia]] (confesi�
 - [[strive_detox_from_porn]]
 
 ## Ver también
-[[castidad]], [[virginidad]], [[penitencia]], [[persona_humana]], [[creación]]
+[[castidad]], [[virginidad]], [[sacramento_de_la_reconciliación]], [[persona_humana]], [[creación]]
 
 ## Referencias
 

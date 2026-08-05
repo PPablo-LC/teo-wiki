@@ -31,7 +31,7 @@ Se relaciona con [[perdón_de_los_pecados]], [[poder_de_perdonar]], [[sacramento
 
 ## Ver también
 
-[[perdón_de_los_pecados]], [[poder_de_perdonar]], [[reconciliación]], [[penitencia]]
+[[perdón_de_los_pecados]], [[poder_de_perdonar]], [[reconciliación]], [[sacramento_de_la_reconciliación]]
 
 ## Referencias
 

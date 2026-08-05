@@ -17,7 +17,7 @@ El Acto Penitencial es el rito inicial de la [[misa|Misa]] en el que la asamblea
 
 ## Desarrollo doctrinal
 
-La IGMR (2000) aclara que la absolución o plegaria final del acto penitencial «carece de la eficacia del sacramento de la [[penitencia]]» (IGMR §51), distinguiendo así el rito litúrgico del [[sacramento_de_la_reconciliación]].
+La IGMR (2000) aclara que la absolución o plegaria final del acto penitencial «carece de la eficacia del sacramento de la [[sacramento_de_la_reconciliación|penitencia]]» (IGMR §51), distinguiendo así el rito litúrgico del [[sacramento_de_la_reconciliación]].
 
 ## Perspectivas por fuente
 

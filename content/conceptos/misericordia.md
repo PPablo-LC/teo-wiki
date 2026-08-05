@@ -43,7 +43,7 @@ La misericordia fue un tema transversal en todo el viaje. León XIV la proclamó
 
 ### Según Don y Misterio (DyM)
 
-Juan Pablo II se presenta a sí mismo como «ministro de la misericordia», dedicado al sacramento de la [[penitencia]] con disponibilidad total [DyM, IX]. La [[misericordia]] es el rasgo del sacerdote que, como el buen pastor, está siempre dispuesto a acoger a los pecadores. Su experiencia en el confesionario y su devoción a la Divina Misericordia (Santa Faustina) son referencias constantes [DyM, IX].
+Juan Pablo II se presenta a sí mismo como «ministro de la misericordia», dedicado al sacramento de la [[sacramento_de_la_reconciliación|penitencia]] con disponibilidad total [DyM, IX]. La [[misericordia]] es el rasgo del sacerdote que, como el buen pastor, está siempre dispuesto a acoger a los pecadores. Su experiencia en el confesionario y su devoción a la Divina Misericordia (Santa Faustina) son referencias constantes [DyM, IX].
 
 ### Según la Dives in Misericordia (DM)
 
@@ -53,7 +53,7 @@ La encíclica distingue dos términos veterotestamentarios fundamentales: [[hese
 
 La relación entre justicia y misericordia es clave: la justicia se funda sobre el amor, mana de él y tiende hacia él. «La misericordia difiere de la justicia pero no está en contraste con ella» [DM §4]. El misterio pascual es el culmen de la revelación de la misericordia: la cruz revela la justicia divina que nace del amor, y la resurrección revela que el amor es más fuerte que la muerte y más fuerte que el pecado [DM §7–8].
 
-María es presentada como «Madre de la misericordia», quien «de manera singular y excepcional ha experimentado —como nadie— la misericordia» [DM §9]. La Iglesia debe profesar, proclamar y practicar la misericordia; los sacramentos de la [[eucaristía]] y la [[penitencia]] son las fuentes de las que saca la misericordia del Salvador [DM §13–14].
+María es presentada como «Madre de la misericordia», quien «de manera singular y excepcional ha experimentado —como nadie— la misericordia» [DM §9]. La Iglesia debe profesar, proclamar y practicar la misericordia; los sacramentos de la [[eucaristía]] y la [[sacramento_de_la_reconciliación]] son las fuentes de las que saca la misericordia del Salvador [DM §13–14].
 
 ### Según la *Redemptor Hominis* (RH)
 

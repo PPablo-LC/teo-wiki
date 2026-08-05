@@ -29,11 +29,11 @@ El Papa **Esteban V** (D-315) recuerda que la unción de los enfermos perdona lo
 
 ## Relaciones doctrinales
 
-La unción de enfermos se distingue del [[viático]] (comunión para moribundos) aunque ambos se administran en peligro de muerte. Se relaciona con la [[extremaunción]] y con el sacramento de la [[penitencia]]. El perdón de pecados por la unción complementa la [[gracia]] recibida en los demás sacramentos.
+La unción de enfermos se distingue del [[viático]] (comunión para moribundos) aunque ambos se administran en peligro de muerte. Se relaciona con la [[extremaunción]] y con el sacramento de la [[sacramento_de_la_reconciliación|penitencia]]. El perdón de pecados por la unción complementa la [[gracia]] recibida en los demás sacramentos.
 
 ## Ver también
 
-[[extremaunción]], [[viático]], [[sacramento]], [[penitencia]], [[enfermedad]], [[pasión_de_cristo]], [[inocencio_i]]
+[[extremaunción]], [[viático]], [[sacramento]], [[sacramento_de_la_reconciliación]], [[enfermedad]], [[pasión_de_cristo]], [[inocencio_i]]
 
 ## Referencias
 

@@ -4,7 +4,7 @@ title: Absolución
 tags: ["sacramental"]
 
 timestamp: 2026-05-26
-description: "Acto por el cual el sacerdote, en el sacramento de la [[penitencia]], concede el perdón de los pecados en nombre de Cristo y de la Iglesia. Es la forma sacramental del sacramento de la reconciliación."
+description: "Acto por el cual el sacerdote, en el [[sacramento_de_la_reconciliación]], concede el perdón de los pecados en nombre de Cristo y de la Iglesia. Es la forma sacramental de ese sacramento."
 ---
 # Absolución
 
@@ -13,7 +13,7 @@ description: "Acto por el cual el sacerdote, en el sacramento de la [[penitencia
 
 ## Definición
 
-Acto por el cual el sacerdote, en el sacramento de la [[penitencia]], concede el perdón de los pecados en nombre de Cristo y de la Iglesia. Es la forma sacramental del sacramento de la reconciliación.
+Acto por el cual el sacerdote, en el [[sacramento_de_la_reconciliación]], concede el perdón de los pecados en nombre de Cristo y de la Iglesia. Es la forma sacramental de ese sacramento.
 
 ## Desarrollo doctrinal
 
@@ -35,7 +35,7 @@ Se conecta con el [[poder_de_las_llaves]] confiado a la Iglesia y con el juicio 
 
 ## Ver también
 
-[[penitencia]], [[confesor]], [[contrición]], [[perdón_de_los_pecados]], [[sigilo_sacramental]], [[absolución_general]]
+[[sacramento_de_la_reconciliación]], [[confesor]], [[contrición]], [[perdón_de_los_pecados]], [[sigilo_sacramental]], [[absolución_general]]
 
 ## Referencias
 

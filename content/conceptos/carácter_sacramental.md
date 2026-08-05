@@ -49,14 +49,14 @@ El autor subraya que:
 ## Relaciones doctrinales
 
 - [[bautismo]] — El sacramento que confiere el carácter sacramental
-- [[iglesia_sacramento_universal]] — La Iglesia como sacramento universal de salvación
+- [[iglesia_como_sacramento_universal_de_salvación]] — La Iglesia como sacramento universal de salvación
 - [[sacramentos]] — Los canales de la gracia divina
 - [[comunión_eclesial]] — El carácter sacramental fundamenta la comunión eclesial
 
 ## Ver también
 
 - [[bautismo]]
-- [[iglesia_sacramento_universal]]
+- [[iglesia_como_sacramento_universal_de_salvación]]
 - [[sacramentos]]
 - [[comunión_eclesial]]
 

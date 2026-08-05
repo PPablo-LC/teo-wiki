@@ -4,7 +4,7 @@ title: Confesión
 tags: ["sacramental"]
 
 timestamp: 2026-06-02
-description: "Sacramento de la [[penitencia]] mediante el cual el fiel obtiene el perdón de los pecados cometidos después del [[bautismo]], por la [[absolución]] del sacerdote."
+description: "La confesión es el acto esencial del sacramento de la reconciliación: contrición, acusación de los pecados al confesor y absolución sacramental."
 ---
 # Confesión
 
@@ -13,11 +13,11 @@ description: "Sacramento de la [[penitencia]] mediante el cual el fiel obtiene e
 
 ## Definición
 
-Sacramento de la [[penitencia]] mediante el cual el fiel obtiene el perdón de los pecados cometidos después del [[bautismo]], por la [[absolución]] del sacerdote. Artículo breve; véase el artículo principal.
+La confesión es el acto esencial del [[sacramento_de_la_reconciliación]] mediante el cual el fiel obtiene el perdón de los pecados cometidos después del [[bautismo]], por la [[absolución]] del sacerdote. Artículo breve; véase el artículo principal.
 
 ## Desarrollo doctrinal
 
-La confesión es el acto esencial del sacramento de la [[penitencia]]. Comprende la [[contrición]] del penitente, la confesión de los pecados al [[confesor]] y la [[absolución]] sacramental (CEC §1422-1498).
+La confesión es el acto esencial del sacramento de la penitencia —el [[sacramento_de_la_reconciliación]]—. Comprende la [[contrición]] del penitente, la confesión de los pecados al [[confesor]] y la [[absolución]] sacramental (CEC §1422-1498).
 
 ### Según la Summa Theologiae (SmTh) — Suplemento
 
@@ -62,7 +62,7 @@ El **IV Concilio de Letrán** (1215), en el canon 21 *Omnis utriusque sexus* (D-
 - [[primeros_pasos_en_la_vida_espiritual]]
 
 ## Ver también
-[[penitencia]], [[absolución]], [[contrición]], [[confesor]], [[conversión]], [[reconciliación]]
+[[sacramento_de_la_reconciliación]], [[penitencia]], [[absolución]], [[contrición]], [[confesor]], [[conversión]]
 
 ## Referencias
 

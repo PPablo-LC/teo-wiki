@@ -156,7 +156,7 @@ Santo Tomás trata el sacramento del Orden en la IIIa Pars, q.63-64 (sobre el ca
 ## Relaciones doctrinales
 
 - Tercer y más alto grado del [[carácter_sacramental]], después de [[bautismo]] y [[confirmación]]
-- Necesario para la celebración de la [[eucaristía]] y la administración de [[penitencia]] y [[orden]]
+- Necesario para la celebración de la [[eucaristía]] y la administración de [[sacramento_de_la_reconciliación]] y [[orden]]
 - El sacerdocio ministerial está al servicio del sacerdocio común de los fieles
 - Se relaciona con todas las virtudes, especialmente la [[caridad]] pastoral y la [[castidad]]
 

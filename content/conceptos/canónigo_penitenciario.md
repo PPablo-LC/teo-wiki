@@ -30,11 +30,11 @@ El c. 508 regula esta figura. El canónigo penitenciario, tanto de la iglesia ca
 
 ## Relaciones doctrinales
 
-El canónigo penitenciario es miembro del [[cabildo_de_canónigos]] de la [[catedral]]. Ejerce como [[confesor]] con facultades especiales para el sacramento de la [[penitencia]] en casos de censura.
+El canónigo penitenciario es miembro del [[cabildo_de_canónigos]] de la [[catedral]]. Ejerce como [[confesor]] con facultades especiales para el [[sacramento_de_la_reconciliación]] en casos de censura.
 
 ## Ver también
 
-[[cabildo_de_canónigos]], [[catedral]], [[confesor]], [[penitencia]], [[censuras]], [[excomunión]], [[suspensión]], [[entredicho]]
+[[cabildo_de_canónigos]], [[catedral]], [[confesor]], [[sacramento_de_la_reconciliación]], [[censuras]], [[excomunión]], [[suspensión]], [[entredicho]]
 
 ## Referencias
 

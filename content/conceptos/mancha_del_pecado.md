@@ -46,11 +46,11 @@ El pecado mortal produce una mancha en el alma que solo se borra por la gracia s
 
 ## Relaciones doctrinales
 
-La mancha se relaciona con [[pecado]], [[pecado_mortal]], [[pecado_venial]], [[gracia_santificante]], [[penitencia]], [[purgatorio]].
+La mancha se relaciona con [[pecado]], [[pecado_mortal]], [[pecado_venial]], [[gracia_santificante]], [[sacramento_de_la_reconciliación]], [[purgatorio]].
 
 ## Ver también
 
-[[pecado]], [[pecado_mortal]], [[gracia_santificante]], [[penitencia]], [[remordimiento]]
+[[pecado]], [[pecado_mortal]], [[gracia_santificante]], [[sacramento_de_la_reconciliación]], [[remordimiento]]
 
 ## Referencias
 

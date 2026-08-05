@@ -25,7 +25,7 @@ Esteban V fue Papa en el período post-carolingio, lidiando con las invasiones s
 
 ## Ver también
 
-[[extremaunción]], [[unción_de_enfermos]], [[penitencia]]
+[[extremaunción]], [[unción_de_enfermos]], [[sacramento_de_la_reconciliación]]
 
 ## Referencias
 

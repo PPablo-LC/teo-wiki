@@ -33,7 +33,7 @@ Los siete sacramentos son:
 1. [[bautismo]]
 2. [[confirmación]]
 3. [[eucaristía]]
-4. [[penitencia]]
+4. [[sacramento_de_la_reconciliación]]
 5. Unción de los enfermos
 6. [[orden_sacerdotal]]
 7. [[matrimonio]]
@@ -124,7 +124,7 @@ El CIC regula los sacramentos en los cánones 840-848 como principios comunes. S
 
 Lumen Gentium presenta los [[sacramentos]] como medios por los cuales la vida de Cristo se comunica a los creyentes «de un modo arcano, pero real» [ConcVatII, LG §7]. «El carácter sagrado y orgánicamente estructurado de la comunidad sacerdotal se actualiza por los sacramentos y por las virtudes» [ConcVatII, LG §11].
 
-Los fieles, incorporados a la Iglesia por el [[bautismo]], quedan destinados por el carácter al culto de la religión cristiana. Por la [[confirmación]] se vinculan más estrechamente a la Iglesia y se enriquecen con una fuerza especial del Espíritu Santo. El sacrificio eucarístico es «fuente y cumbre de toda la vida cristiana» [ConcVatII, LG §11]. La [[penitencia]] reconcilia con Dios y con la Iglesia. La [[unción_de_los_enfermos]] encomienda los enfermos al Señor. El [[sacramento_del_orden]] sella a los que son destinados a apacentar la Iglesia. El [[matrimonio]] significa y participa el misterio de unidad entre Cristo y la Iglesia [ConcVatII, LG §11].
+Los fieles, incorporados a la Iglesia por el [[bautismo]], quedan destinados por el carácter al culto de la religión cristiana. Por la [[confirmación]] se vinculan más estrechamente a la Iglesia y se enriquecen con una fuerza especial del Espíritu Santo. El sacrificio eucarístico es «fuente y cumbre de toda la vida cristiana» [ConcVatII, LG §11]. La [[sacramento_de_la_reconciliación|penitencia]] reconcilia con Dios y con la Iglesia. La [[unción_de_los_enfermos]] encomienda los enfermos al Señor. El [[sacramento_del_orden]] sella a los que son destinados a apacentar la Iglesia. El [[matrimonio]] significa y participa el misterio de unidad entre Cristo y la Iglesia [ConcVatII, LG §11].
 
 Los Obispos, administradores de la gracia del supremo sacerdocio, regulan la administración legítima y fructuosa de los sacramentos [ConcVatII, LG §26].
 
@@ -203,7 +203,7 @@ Todos los sacramentos están ordenados a la [[eucaristía]] como a su fin y plen
 - [[bautismo]]
 - [[confirmación]]
 - [[eucaristía]]
-- [[penitencia]]
+- [[sacramento_de_la_reconciliación]]
 - [[orden_sacerdotal]]
 - [[matrimonio]]
 - [[carácter_sacramental]]

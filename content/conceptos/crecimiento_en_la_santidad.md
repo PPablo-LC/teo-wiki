@@ -23,7 +23,7 @@ El crecimiento en la santidad se describe como "proceso de progresiva santificac
 - **Crecimiento en la santidad vs. perfección estática**: El crecimiento implica movimiento y desarrollo, no un estado estático de perfección ya alcanzado.
 
 ## Relaciones doctrinales
-[[santidad_inicial_(respuesta)]], [[unión_con_cristo_(bien_máximo)]], [[voluntad_de_dios]], [[caridad]], [[unión_mística_con_cristo]], [[cooperación_moral_al_don_de_dios]]
+[[santidad_inicial]], [[unión_con_cristo]], [[voluntad_de_dios]], [[caridad]], [[unión_mística_con_cristo]], [[cooperación_moral_al_don_de_dios]]
 
 ## Ver también
 [[santidad]], [[unión_con_cristo]], [[voluntad_de_dios]], [[caridad]], [[crecimiento_espiritual]]

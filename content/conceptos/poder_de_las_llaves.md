@@ -80,7 +80,7 @@ a.3 — Se puede usar la llave sobre el superior si este se somete voluntariamen
 
 ## Relaciones doctrinales
 
-[[penitencia]], [[perdón]], [[orden_sacerdotal]], [[primado_petrino]], [[iglesia_cuerpo_místico]], [[sacramentos]]
+[[sacramento_de_la_reconciliación]], [[perdón]], [[orden_sacerdotal]], [[primado_petrino]], [[iglesia_cuerpo_místico]], [[sacramentos]]
 
 ## Referencias
 

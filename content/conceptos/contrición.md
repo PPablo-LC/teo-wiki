@@ -45,7 +45,7 @@ La contrición debe ser: profunda y humilde, íntegra, universal, y frecuente. �
 
 ## Relaciones doctrinales
 
-- Disposición esencial para el sacramento de la [[penitencia]]
+- Disposición esencial para el sacramento de la [[sacramento_de_la_reconciliación|penitencia]]
 - Supone la [[conversión]] del corazón
 - Se obtiene por la [[gracia_actual]]
 - Prepara para la [[justificación]]

@@ -67,12 +67,12 @@ El remordimiento se conecta con múltiples aspectos de la vida moral y espiritua
 - [[absolución]]: El sacramento que responde a la contrición nacida del remordimiento.
 - [[temor_de_dios]]: Puede ser causa legítima del remordimiento imperfecto.
 - [[attrición]]: El dolor imperfecto que puede preceder a la contrición.
-- [[sacramento_de_la_penitencia]]: El contexto eclesial donde el remordimiento se transforma en contrición.
+- [[sacramento_de_la_reconciliación]]: El contexto eclesial donde el remordimiento se transforma en contrición.
 - [[esperanza]]: Virtud que permite transformar el remordimiento en conversión.
 
 ## Ver también
 
-[[contrición]], [[conciencia_moral]], [[penitencia]], [[desesperación]], [[absolución]], [[attrición]]
+[[contrición]], [[conciencia_moral]], [[sacramento_de_la_reconciliación]], [[desesperación]], [[absolución]], [[attrición]]
 
 ## Referencias
 

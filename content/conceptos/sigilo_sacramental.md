@@ -53,11 +53,11 @@ El **IV Concilio de Letrán** (1215), en D-438, establece la obligación del sig
 
 ## Relaciones doctrinales
 
-El sigilo sacramental se fundamenta en la naturaleza misma del sacramento de la [[penitencia]] y en la absoluta confianza que el penitente debe tener en el ministro sagrado. Se distingue del secreto profesional y del secreto natural por su origen sacramental y su inviolabilidad absoluta.
+El sigilo sacramental se fundamenta en la naturaleza misma del sacramento de la [[sacramento_de_la_reconciliación|penitencia]] y en la absoluta confianza que el penitente debe tener en el ministro sagrado. Se distingue del secreto profesional y del secreto natural por su origen sacramental y su inviolabilidad absoluta.
 
 ## Ver también
 
-[[penitencia]], [[confesión]], [[absolución_general]], [[potestad_de_las_llaves]]
+[[sacramento_de_la_reconciliación]], [[confesión]], [[absolución_general]], [[potestad_de_las_llaves]]
 
 ## Referencias
 

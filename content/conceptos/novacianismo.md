@@ -29,11 +29,11 @@ El Denzinger recoge múltiples testimonios sobre el novacianismo. El Concilio de
 
 ## Relaciones doctrinales
 
-El novacianismo se opone a la doctrina católica de la [[penitencia]] y del perdón de los pecados. Se relaciona con el [[donatismo]] por su rigorismo eclesiológico. La respuesta de la Iglesia al novacianismo contribuyó a definir la doctrina de las [[llaves]] y del [[primado_papal]] en materia de perdón.
+El novacianismo se opone a la doctrina católica de la [[sacramento_de_la_reconciliación]] y del perdón de los pecados. Se relaciona con el [[donatismo]] por su rigorismo eclesiológico. La respuesta de la Iglesia al novacianismo contribuyó a definir la doctrina de las [[llaves]] y del [[primado_papal]] en materia de perdón.
 
 ## Ver también
 
-[[penitencia]], [[cisma]], [[herejía]], [[primado_papal]], [[potestad_de_las_llaves]], [[donatismo]], [[lapsi]]
+[[sacramento_de_la_reconciliación]], [[cisma]], [[herejía]], [[primado_papal]], [[potestad_de_las_llaves]], [[donatismo]], [[lapsi]]
 
 ## Referencias
 

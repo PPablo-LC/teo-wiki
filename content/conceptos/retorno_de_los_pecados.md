@@ -4,7 +4,7 @@ title: Retorno de los pecados
 tags: ["sacramental"]
 
 timestamp: 2026-06-15
-description: "Cuestión teológica acerca de si los pecados ya perdonados por el sacramento de la [[penitencia]] retornan o se reimputan cuando el penitente comete un nuevo pecado mortal."
+description: "Cuestión teológica acerca de si los pecados ya perdonados por el sacramento de la [[sacramento_de_la_reconciliación|penitencia]] retornan o se reimputan cuando el penitente comete un nuevo pecado mortal."
 ---
 # Retorno de los pecados
 
@@ -13,7 +13,7 @@ description: "Cuestión teológica acerca de si los pecados ya perdonados por el
 
 ## Definición
 
-Cuestión teológica acerca de si los pecados ya perdonados por el sacramento de la [[penitencia]] retornan o se reimputan cuando el penitente comete un nuevo pecado mortal, especialmente cuando este va acompañado de ingratitud hacia el beneficio del perdón recibido.
+Cuestión teológica acerca de si los pecados ya perdonados por el sacramento de la [[sacramento_de_la_reconciliación|penitencia]] retornan o se reimputan cuando el penitente comete un nuevo pecado mortal, especialmente cuando este va acompañado de ingratitud hacia el beneficio del perdón recibido.
 
 ## Desarrollo doctrinal
 
@@ -40,11 +40,11 @@ a.4 — La ingratitud puede ser pecado especial (cuando se peca por desprecio de
 
 ## Relaciones doctrinales
 
-Se relaciona con [[penitencia]], [[perdón_de_los_pecados]], [[pecado_mortal]], [[reincidencia]], [[justificación]], [[gracia_santificante]], [[ingratitud]].
+Se relaciona con [[sacramento_de_la_reconciliación]], [[perdón_de_los_pecados]], [[pecado_mortal]], [[reincidencia]], [[justificación]], [[gracia_santificante]], [[ingratitud]].
 
 ## Ver también
 
-[[penitencia]], [[perdón_de_los_pecados]], [[reincidencia]]
+[[sacramento_de_la_reconciliación]], [[perdón_de_los_pecados]], [[reincidencia]]
 
 ## Referencias
 

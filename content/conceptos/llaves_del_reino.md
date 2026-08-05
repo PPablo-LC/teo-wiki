@@ -44,7 +44,7 @@ Juan Pablo II trata la concesión de las [[llaves_del_reino]] a Pedro en el cont
 
 ## Relaciones doctrinales
 
-[[primado_petrino]], [[poder_de_las_llaves]], [[potestad_de_las_llaves]], [[penitencia]], [[absolución]], [[orden_sacerdotal]], [[iglesia]], [[san_pedro]], [[romano_pontífice]]
+[[primado_petrino]], [[poder_de_las_llaves]], [[potestad_de_las_llaves]], [[sacramento_de_la_reconciliación]], [[absolución]], [[orden_sacerdotal]], [[iglesia]], [[san_pedro]], [[romano_pontífice]]
 
 ## Referencias
 

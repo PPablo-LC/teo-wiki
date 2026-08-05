@@ -22,7 +22,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[persona_humana]] — el yo humano personal que construye su percepción desde dentro
 - [[subjetividad]] — la dimensión interior de la persona
 - [[soledad_originaria]] — la no-identificación con el mundo de los animalia
-- [[etos]] — la formación del ethos en la convivencia humana
+- [[ethos]] — la formación del ethos en la convivencia humana
 - [[varón_y_mujer]] — la relación varón-mujer y la intimidad personal
 - [[imagen_de_dios]] — la medida de la «imagen de Dios»
 - [[visión_de_dios]] — la plenitud interior de la visión del hombre en Dios

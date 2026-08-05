@@ -23,7 +23,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[corazón]] — la dimensión del corazón humano (antropología hebraica)
 - [[antropología_cristiana]] — la antropología «adecuada» del hombre interior
 - [[ley_moral]] — el cumplimiento pleno del Decálogo
-- [[reino_de_los_cielos]] — el reino en su dimensión escatológica
+- [[reino_de_dios]] — el reino en su dimensión escatológica
 - [[ley_natural]] — el mandamiento «escrito en el corazón» (Rom 2, 15)
 - [[acto_del_cuerpo]] — el adulterio exterior y sus raíces interiores
 - [[casuística]] — la deformación legal del mandamiento

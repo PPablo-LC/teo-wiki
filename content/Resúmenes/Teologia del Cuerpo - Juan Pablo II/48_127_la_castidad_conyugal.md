@@ -24,7 +24,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[matrimonio]] — la vocación del hombre al matrimonio
 - [[espiritualidad]] — la espiritualidad conyugal y familiar
 - [[eucaristía]] — «acudan sobre todo a la fuente de gracia y caridad en la Eucaristía» (Humanæ vitae, 25)
-- [[penitencia]] — la misericordia de Dios concedida en el sacramento de la penitencia
+- [[sacramento_de_la_reconciliación]] — la misericordia de Dios concedida en el sacramento de la penitencia
 - [[oración]] — la oración perseverante de los esposos
 - [[gracia]] — la fuente de gracia y caridad
 - [[caridad]] — la fuente de gracia y caridad de la Eucaristía
@@ -59,7 +59,7 @@ La Encíclica, en algunos pasajes del texto (especialmente 21 y 26), al tratar d
 
 Esto corresponde a la [[vocación]] del hombre al matrimonio. Esos «dos» que —según la expresión más antigua de la Biblia— «serán una sola carne» (Gn 2,24) no pueden realizar tal unión al nivel propio de las personas (communio personarum), si no mediante las fuerzas provenientes del espíritu, y precisamente del Espíritu Santo, que purifica, vivifica, corrobora y perfecciona las fuerzas del espíritu humano. «El Espíritu es el que da vida, la carne no aprovecha para nada» (Jn 6,63).
 
-De aquí se deduce que las líneas esenciales de la espiritualidad conyugal están grabadas «desde el principio» en la verdad bíblica sobre el matrimonio. Esta espiritualidad está también «desde el principio» abierta a los dones del Espíritu Santo. Si la Encíclica exhorta a los esposos a una «oración perseverante» y a la vida sacramental —diciendo: «acudan sobre todo a la fuente de [[gracia]] y [[caridad]] en la [[eucaristía|Eucaristía]]; recurran con humilde perseverancia a la [[misericordia]] de Dios, que se concede en el sacramento de la [[penitencia]]» (Humanæ vitae, 25)—, lo hace recordando al Espíritu Santo que «da vida» (2 Cor 3,6).
+De aquí se deduce que las líneas esenciales de la espiritualidad conyugal están grabadas «desde el principio» en la verdad bíblica sobre el matrimonio. Esta espiritualidad está también «desde el principio» abierta a los dones del Espíritu Santo. Si la Encíclica exhorta a los esposos a una «oración perseverante» y a la vida sacramental —diciendo: «acudan sobre todo a la fuente de [[gracia]] y [[caridad]] en la [[eucaristía|Eucaristía]]; recurran con humilde perseverancia a la [[misericordia]] de Dios, que se concede en el sacramento de la [[sacramento_de_la_reconciliación|penitencia]]» (Humanæ vitae, 25)—, lo hace recordando al Espíritu Santo que «da vida» (2 Cor 3,6).
 
 ### El don del respeto de lo sagrado
 

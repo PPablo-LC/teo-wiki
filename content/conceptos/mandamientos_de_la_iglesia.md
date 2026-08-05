@@ -44,11 +44,11 @@ Los preceptos de la Iglesia se inscriben en el marco de la virtud de la religió
 
 ## Relaciones doctrinales
 
-Los mandamientos de la Iglesia se fundamentan en la [[ley_evangélica]] y en la [[virtud_de_la_religión]]. Se relacionan con la [[eucaristía]], la [[penitencia]], el [[ayuno]] y la [[obediencia]]. Son expresión de la potestad de la [[iglesia]].
+Los mandamientos de la Iglesia se fundamentan en la [[ley_evangélica]] y en la [[virtud_de_la_religión]]. Se relacionan con la [[eucaristía]], la [[sacramento_de_la_reconciliación]], el [[ayuno]] y la [[obediencia]]. Son expresión de la potestad de la [[iglesia]].
 
 ## Ver también
 
-[[ley_evangélica]], [[virtud_de_la_religión]], [[eucaristía]], [[penitencia]], [[ayuno]], [[iglesia]], [[obediencia]]
+[[ley_evangélica]], [[virtud_de_la_religión]], [[eucaristía]], [[sacramento_de_la_reconciliación]], [[ayuno]], [[iglesia]], [[obediencia]]
 
 ## Referencias
 

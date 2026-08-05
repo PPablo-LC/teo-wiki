@@ -27,7 +27,7 @@ El CIC regula el viático en los cánones 911 y 921-922. Tienen obligación y de
 
 ## Ver también
 
-[[sagrada_comunión]], [[eucaristía]], [[unción_de_los_enfermos]], [[penitencia]], [[enfermedad]], [[peligro_de_muerte]]
+[[sagrada_comunión]], [[eucaristía]], [[unción_de_los_enfermos]], [[sacramento_de_la_reconciliación]], [[enfermedad]], [[peligro_de_muerte]]
 
 ## Referencias
 

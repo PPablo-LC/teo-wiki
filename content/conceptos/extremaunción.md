@@ -37,7 +37,7 @@ La extremaunción es uno de los siete [[sacramento|sacramentos]] de la Iglesia. 
 
 ## Ver también
 
-[[unción_de_enfermos]], [[viático]], [[sacramento]], [[penitencia]], [[enfermedad]], [[inocencio_i]], [[santiago_5]]
+[[unción_de_enfermos]], [[viático]], [[sacramento]], [[sacramento_de_la_reconciliación]], [[enfermedad]], [[inocencio_i]], [[santiago_5]]
 
 ## Referencias
 

@@ -31,11 +31,11 @@ El comentario al c. 961 explica que las normas sobre absolución colectiva traen
 
 ## Relaciones doctrinales
 
-La absolución general es una excepción al modo ordinario de celebrar el sacramento de la [[penitencia]], que requiere [[confesión]] individual íntegra. Se relaciona con el [[sigilo_sacramental]] en cuanto que la obligación posterior de confesar individualmente los pecados graves preserva la integridad de la confesión.
+La absolución general es una excepción al modo ordinario de celebrar el sacramento de la [[sacramento_de_la_reconciliación|penitencia]], que requiere [[confesión]] individual íntegra. Se relaciona con el [[sigilo_sacramental]] en cuanto que la obligación posterior de confesar individualmente los pecados graves preserva la integridad de la confesión.
 
 ## Ver también
 
-[[penitencia]], [[confesión]], [[sigilo_sacramental]], [[potestad_de_las_llaves]]
+[[sacramento_de_la_reconciliación]], [[confesión]], [[sigilo_sacramental]], [[potestad_de_las_llaves]]
 
 ## Referencias
 

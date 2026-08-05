@@ -71,11 +71,11 @@ El pecado mortal se opone directamente a la virtud de la caridad, que es la form
 
 ## Relaciones doctrinales
 
-El pecado mortal se opone directamente a la [[caridad]] y a la [[gracia_santificante]]. Se distingue del [[pecado_venial]] y de la [[imperfección]]. Se remedia por la [[penitencia]] y la [[contrición]]. El pecado mortal grave puede ser [[pecado_original]] o actual.
+El pecado mortal se opone directamente a la [[caridad]] y a la [[gracia_santificante]]. Se distingue del [[pecado_venial]] y de la [[imperfección]]. Se remedia por la [[sacramento_de_la_reconciliación]] y la [[contrición]]. El pecado mortal grave puede ser [[pecado_original]] o actual.
 
 ## Ver también
 
-[[pecado_venial]], [[imperfección]], [[pecado]], [[gracia_santificante]], [[penitencia]], [[contrición]], [[pecado_capital]]
+[[pecado_venial]], [[imperfección]], [[pecado]], [[gracia_santificante]], [[sacramento_de_la_reconciliación]], [[contrición]], [[pecado_capital]]
 
 ## Referencias
 

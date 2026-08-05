@@ -35,7 +35,7 @@ Los sacramentos se dividen en sacramentos de muertos (Bautismo y Penitencia), qu
 
 ## Relaciones doctrinales
 
-Se relaciona con [[sacramento_de_muertos]], [[sacramentos]], [[gracia_santificante]], [[gracia_sacramental]], [[bautismo]], [[penitencia]], [[eucaristía]], [[confirmación]]
+Se relaciona con [[sacramento_de_muertos]], [[sacramentos]], [[gracia_santificante]], [[gracia_sacramental]], [[bautismo]], [[sacramento_de_la_reconciliación]], [[eucaristía]], [[confirmación]]
 
 
 ## Analizado para

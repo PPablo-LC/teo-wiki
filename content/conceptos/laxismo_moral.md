@@ -70,7 +70,7 @@ El laxismo fue finalmente superado por el **probabiliorismo** (seguir la opinió
 
 ## Relaciones doctrinales
 
-[[probabilismo]], [[conciencia_moral]], [[penitencia]], [[contrición]], [[comunión]], [[moral_católica]], [[san_alfonso_maría_de_ligorio]]
+[[probabilismo]], [[conciencia_moral]], [[sacramento_de_la_reconciliación]], [[contrición]], [[comunión]], [[moral_católica]], [[san_alfonso_maría_de_ligorio]]
 
 ## Ver también
 

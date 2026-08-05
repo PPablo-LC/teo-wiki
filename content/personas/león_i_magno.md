@@ -31,7 +31,7 @@ Defendió el primado del Romano Pontífice, como se refleja en la carta sinodal 
 
 ## Ver también
 
-[[tomus_ad_flavianum]], [[definición_de_calcedonia]], [[unidad_hipostática]], [[comunicación_de_idiomas]], [[concilio_de_calcedonia]], [[monofisismo]], [[primado_papal]], [[penitencia]]
+[[tomus_ad_flavianum]], [[definición_de_calcedonia]], [[unidad_hipostática]], [[comunicación_de_idiomas]], [[concilio_de_calcedonia]], [[monofisismo]], [[primado_papal]], [[sacramento_de_la_reconciliación]]
 
 ## Referencias
 

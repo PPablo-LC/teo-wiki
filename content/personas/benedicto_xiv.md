@@ -43,7 +43,7 @@ Además de sus actos pontificios, Benedicto XIV fue un prolífico escritor:
 
 ## Relaciones
 
-[[matrimonio]], [[matrimonio_mixto]], [[confirmación]], [[usura]], [[sigilo_sacramental]], [[penitencia]], [[bautismo]], [[duelo]], [[clemente_xii]], [[inocencio_xiii]]
+[[matrimonio]], [[matrimonio_mixto]], [[confirmación]], [[usura]], [[sigilo_sacramental]], [[sacramento_de_la_reconciliación]], [[bautismo]], [[duelo]], [[clemente_xii]], [[inocencio_xiii]]
 
 ## Ver también
 

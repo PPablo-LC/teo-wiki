@@ -26,7 +26,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 
 ## Contenido
 
-Catequesis del 12 de septiembre de 1979 (redactada el 16-IX-79). Continúa el ciclo sobre la respuesta de Cristo a los fariseos acerca de la unidad e [[indisolubilidad_del_matrimonio|indisolubilidad del matrimonio]]: frente a la ley de Moisés, Cristo se remite al «[[principio]]», citando el Génesis. El análisis debe dirigirse ante todo al texto: Mt 19,4 («¿No habéis leído que al principio el Creador los hizo varón y hembra...?») remite al primer relato de la [[creación_del_hombre]], inserto en el ciclo de los siete días (Gn 1,1-2,4); en cambio, Gn 2,24 pertenece al segundo relato (Gn 2,5-25), que forma unidad conceptual con la descripción de la [[inocencia_original|inocencia original]], la felicidad del hombre y su primera caída (Gn 3).
+Catequesis del 12 de septiembre de 1979 (redactada el 16-IX-79). Continúa el ciclo sobre la respuesta de Cristo a los fariseos acerca de la unidad e [[indisolubilidad_del_matrimonio|indisolubilidad del matrimonio]]: frente a la ley de Moisés, Cristo se remite al «[[principio]]», citando el Génesis. El análisis debe dirigirse ante todo al texto: Mt 19,4 («¿No habéis leído que al principio el Creador los hizo varón y hembra...?») remite al primer relato de la [[creación_del_hombre]], inserto en el ciclo de los siete días (Gn 1,1-2,4); en cambio, Gn 2,24 pertenece al segundo relato (Gn 2,5-25), que forma unidad conceptual con la descripción de la [[inocencia_originaria|inocencia original]], la felicidad del hombre y su primera caída (Gn 3).
 
 ### Carácter de los dos relatos según la crítica bíblica
 

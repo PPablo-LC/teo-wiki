@@ -65,13 +65,13 @@ El Concilio Vaticano II reafirma la plenitud de la humanidad de Cristo y su cond
 
 ## Relaciones doctrinales
 
-El conocimiento de Cristo se vincula directamente con la doctrina de la [[humanidad_de_cristo]], pues la integridad del conocimiento humano es condición de la plena humanidad. Se relaciona también con la [[voluntad_humana_de_cristo]], pues el conocimiento precede y orienta la acción de la voluntad. Asimismo, conecta con la [[perfeccion_moral_de_cristo]], ya que la plenitud de sabiduría es aspecto esencial de su perfección moral.
+El conocimiento de Cristo se vincula directamente con la doctrina de la [[humanidad_de_cristo]], pues la integridad del conocimiento humano es condición de la plena humanidad. Se relaciona también con la [[voluntad_humana_de_cristo]], pues el conocimiento precede y orienta la acción de la voluntad. Asimismo, conecta con la [[perfección_moral_de_cristo]], ya que la plenitud de sabiduría es aspecto esencial de su perfección moral.
 
 ## Ver también
 
 - [[voluntad_humana_de_cristo]]
 - [[humanidad_de_cristo]]
-- [[perfeccion_moral_de_cristo]]
+- [[perfección_moral_de_cristo]]
 - [[cristo_cabeza]]
 
 ## Referencias

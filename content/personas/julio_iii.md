@@ -30,7 +30,7 @@ Bajo Julio III, el Concilio de Trento promulgó los decretos sobre la Eucaristí
 
 ## Relaciones doctrinales
 
-Sus decretos definieron la doctrina católica sobre la [[eucaristía]], la [[transubstanciación]], la [[penitencia]] y la [[extremaunción]].
+Sus decretos definieron la doctrina católica sobre la [[eucaristía]], la [[transubstanciación]], la [[sacramento_de_la_reconciliación]] y la [[extremaunción]].
 
 ## Relaciones
 

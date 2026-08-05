@@ -65,7 +65,7 @@ La pena se relaciona con múltiples conceptos teológicos:
 - [[purgatorio]]: Lugar de la pena temporal después de la muerte.
 - [[infierno]]: Lugar de la pena eterna.
 - [[satisfacción]]: Acción que repara la ofensa y satisface la pena debida.
-- [[sacramento_de_la_penitencia]]: Medio para la remisión de la pena.
+- [[sacramento_de_la_reconciliación]]: Medio para la remisión de la pena.
 - [[muerte_espiritual]]: Consecuencia del pecado mortal.
 - [[justicia_divina]]: Principio que fundamenta la pena.
 - [[misericordia_divina]]: Principio que modula la pena y ofrece su remisión.

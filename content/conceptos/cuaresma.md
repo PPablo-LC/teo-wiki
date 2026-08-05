@@ -48,7 +48,7 @@ La Regla describe un triple despliegue de la observancia cuaresmal:
 
 ## Relaciones doctrinales
 
-La Cuaresma es camino hacia el [[triduo_pascual]] y culmina en la celebración de la [[pascua]]. Su práctica penitencial se ordena a la [[conversión]] y al sacramento de la [[penitencia]].
+La Cuaresma es camino hacia el [[triduo_pascual]] y culmina en la celebración de la [[pascua]]. Su práctica penitencial se ordena a la [[conversión]] y al sacramento de la [[sacramento_de_la_reconciliación|penitencia]].
 
 
 ## Analizado para

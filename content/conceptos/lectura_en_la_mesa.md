@@ -41,7 +41,7 @@ El capítulo 41 (*La hora de comer*) indica que la comida en el monasterio se ha
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[lectio_divina]], la [[sagrada_escritura]], el [[silencio]], la [[disciplina_monástica]] y el [[oratorio_(cultivo_espiritual)]].
+Se relaciona con la [[lectio_divina]], la [[sagrada_escritura]], el [[silencio]], la [[disciplina_monástica]] y el [[oratorio]].
 
 ## Ver también
 

@@ -27,7 +27,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[creación]] — el misterio de la creación por el Amor
 - [[felicidad]] — la felicidad originaria del hombre
 - [[virginidad]] — la renuncia al matrimonio por el Reino
-- [[reino_de_los_cielos]] — la vocación a renunciar al matrimonio por el Reino
+- [[reino_de_dios]] — la vocación a renunciar al matrimonio por el Reino
 - [[redención_del_cuerpo]] — el camino de la creación a la «redención del cuerpo» (Rom 8)
 - [[teología_del_cuerpo]] — entre la antropología adecuada y la teología del cuerpo
 - [[matrimonio]] — la vocación a través del don de sí

@@ -44,13 +44,13 @@ El autor presenta la casa del Padre como:
 
 - [[comunión_eclesial]] — La comunión como dimensión de la casa del Padre
 - [[filiación_divina]] — Los fieles como hijos en la casa del Padre
-- [[iglesia_sacramento_universal]] — La Iglesia como sacramento
+- [[iglesia_como_sacramento_universal_de_salvación]] — La Iglesia como sacramento
 
 ## Ver también
 
 - [[comunión_eclesial]]
 - [[filiación_divina]]
-- [[iglesia_sacramento_universal]]
+- [[iglesia_como_sacramento_universal_de_salvación]]
 
 ## Referencias
 

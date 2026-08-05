@@ -37,7 +37,7 @@ Royo Marín trata la comunión indigna en el contexto de la disposición necesar
 
 ## Relaciones doctrinales
 
-Se relaciona con [[eucaristía]], [[sacrilegio]], [[penitencia]], [[pecado_mortal]], [[estado_de_gracia]], [[ayuno_eucarístico]].
+Se relaciona con [[eucaristía]], [[sacrilegio]], [[sacramento_de_la_reconciliación]], [[pecado_mortal]], [[estado_de_gracia]], [[ayuno_eucarístico]].
 
 ## Referencias
 

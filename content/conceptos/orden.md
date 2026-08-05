@@ -60,7 +60,7 @@ JvC-Muj presenta el mismo principio: «Pon orden en tu mesa, en tu armario, en t
 
 ## Relaciones doctrinales
 
-El orden es uno de los [[sacramentos]] que imprime [[carácter]]. Se relaciona con la [[eucaristía]] (que el sacerdote consagra) y la [[penitencia]] (que absuelve). El [[episcopado]] es la plenitud del orden. Se distingue del [[estado_religioso]]. El [[orden_angélico]] es la jerarquía de los [[ángeles]].
+El orden es uno de los [[sacramentos]] que imprime [[carácter]]. Se relaciona con la [[eucaristía]] (que el sacerdote consagra) y la [[sacramento_de_la_reconciliación]] (que absuelve). El [[episcopado]] es la plenitud del orden. Se distingue del [[estado_religioso]]. El [[orden_angélico]] es la jerarquía de los [[ángeles]].
 
 ## Ver también
 

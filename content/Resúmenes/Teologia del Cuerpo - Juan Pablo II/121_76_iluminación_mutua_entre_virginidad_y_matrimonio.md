@@ -23,7 +23,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[duplicidad_del_hombre]] — «no es bueno que el hombre esté solo» (Gén 2, 18)
 - [[comemplementariedad]] — la iluminación mutua entre ambos estados
 - [[camino_privilegiado]] — la continencia como válida y privilegiada
-- [[reino_de_los_cielos]] — el cumplimiento futuro y la eficacia presente
+- [[reino_de_dios]] — el cumplimiento futuro y la eficacia presente
 -[[don]] — el don como llamada y decisión personal
 - [[ejemplo_de_cristo]] — la fundación de la semejanza
 - [[validez_universal]] — el valor universal del matrimonio

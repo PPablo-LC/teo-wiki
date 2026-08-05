@@ -27,7 +27,7 @@ San Benito desarrolla la reverencia como disposición fundamental de la vida mon
 
 ## Ver también
 
-[[religión_(virtud)]], [[adoración]], [[piedad]], [[temor_de_dios]]
+[[religión]], [[adoración]], [[piedad]], [[temor_de_dios]]
 
 ## Referencias
 

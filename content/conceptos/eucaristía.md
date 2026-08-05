@@ -350,7 +350,7 @@ Thomas O'Loughlin (2017) trata la Eucaristía como el caso paradigmático de lo 
 - [[caridad]]
 - [[transubstanciación]]
 - [[orden_sacerdotal]]
-- [[penitencia]]
+- [[sacramento_de_la_reconciliación]]
 - [[jorge_loring]]
 
 ## Referencias

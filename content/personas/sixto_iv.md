@@ -41,7 +41,7 @@ Sixto IV es relevante por tres contribuciones doctrinales principales: (1) el pr
 
 ## Ver también
 
-[[inmaculada_concepción]], [[indulgencias]], [[penitencia]], [[purgatorio]], [[leon_x]], [[pedro_de_osma]]
+[[inmaculada_concepción]], [[indulgencias]], [[sacramento_de_la_reconciliación]], [[purgatorio]], [[leon_x]], [[pedro_de_osma]]
 
 ## Referencias
 
