@@ -1,105 +1,179 @@
 ---
 type: ResumenFuente
-title: "CAPÍTULO IX"
+title: "CAPÍTULO IX — La ley civil y la ley eclesiástica"
 fuente: Elegidos_en_Cristo_para_ser_santos
 capítulo: 9
-timestamp: 2026-08-03
-description: "Resumen de 'CAPÍTULO IX' — Elegidos_en_Cristo_para_ser_santos"
-tags: ["resumen", "elegidos en cristo para ser santos"]
+timestamp: 2026-08-06
+description: "Resumen del capítulo IX de Elegidos en Cristo para ser santos: la ley civil, la moral personal y política, los cristianos y la política, y la ley eclesiástica."
+tags: ["resumen", "elegidos en cristo para ser santos", "teología moral", "ley civil", "ley eclesiástica", "moral política", "derecho canónico"]
 ---
 
-# CAPÍTULO IX
+# CAPÍTULO IX — LA LEY CIVIL Y LA LEY ECLESIÁSTICA
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[ley_humana]] — la ley civil y la ley eclesiástica: promulgación, explicitación o determinación de las exigencias de la ley moral natural, ordenadas al bien de la sociedad y de la Iglesia
+- [[ley_eclesiástica]] — disposiciones normativas promulgadas por las autoridades eclesiásticas con potestad legislativa
+- [[ley_moral]] — la ley civil se subordina a la ley moral natural
+- [[ley_natural]] — fundamento del valor moral de la ley civil
+- [[ley_de_cristo]] — la Iglesia es depositaria e intérprete de la ley de Cristo
+- [[ley_evangélica]] — normas eclesiásticas que promulgan o explicitan sus exigencias
+- [[ley_positiva]] — reconocimiento de los derechos fundamentales por toda ley positiva
+- [[derecho_canónico]] — disciplina que estudia las leyes eclesiásticas
+- [[bien_común]] — fin de la ley civil y de la moral política
+- [[autoridad]] — establecida por Dios; «ministro de Dios para el bien»
+- [[autoridad_política]] — sometida al designio divino; servicio de Dios para el bien
+- [[autoridad_civil]] — debe respetar los derechos fundamentales de la persona
+- [[justicia]] — la ley debe obedecerse en conciencia por la virtud de la justicia
+- [[justicia_legal]] — virtud que obliga a observar las leyes justas y pagar los impuestos
+- [[objeción_de_conciencia]] — recurso ante leyes que imponen lo contrario al bien común
+- [[conciencia]] — obligación de obedecer la ley «en conciencia»
+- [[conciencia_moral]] — juzga la obligatoriedad de las leyes
+- [[participación]] — principio de la vida política: todos los ciudadanos participan
+- [[participación_social]] — derecho y deber de participar en la política
+- [[responsabilidad]] — unido inseparablemente a la libertad
+- [[solidaridad]] — principio de la vida política
+- [[libertad]] — valor substancial unido al principio de responsabilidad
+- [[libertad_religiosa]] — derecho fundamental que toda ley debe respetar
+- [[derechos_humanos]] — toda ley que los viole carece de valor jurídico
+- [[dignidad_de_la_persona]] — fundamento de los derechos fundamentales
+- [[iglesia]] — sociedad visible y jerárquicamente ordenada; depositaria de la ley de Cristo
+- [[iglesia_como_sacramento_universal_de_salvación]] — signo e instrumento de la unión íntima con Dios
+- [[cuerpo_místico_de_cristo]] — la Iglesia, sociedad visible y comunidad espiritual
+- [[comunión_eclesial]] — fin de la disciplina eclesial
+- [[bautismo]] — nos hace miembros de Cristo y de la Iglesia
+- [[sacramentos]] — medios custodiados por la Iglesia para la vida moral cristiana
+- [[apóstoles]] — enviados por Cristo con el oficio de enseñar, santificar y gobernar
+- [[sucesión_apostólica]] — los sucesores de los Apóstoles promulgan leyes
+- [[tradición_apostólica]] — fundamento de la potestad legislativa de la Iglesia
+- [[magisterio_de_la_iglesia]] — constante enseñanza sobre la ley eclesiástica
+- [[romano_pontífice]] — potestad legislativa para toda la Iglesia
+- [[obispo]] — potestad legislativa para la propia diócesis
+- [[papa]] — cabeza de la Iglesia; promulgó el Código de Derecho Canónico
+- [[estado]] — sociedad políticamente organizada
+- [[sociedad_civil]] — comunidad en la que vive el cristiano
+- [[comunidad_política]] — todo ordenado al bien común
+- [[ciudadanía]] — deberes del ciudadano con la autoridad civil
+- [[democracia]] — sistema en el que el ciudadano participa en la elección de gobernantes
+- [[laicidad]] — distinción entre política y religión; no neutralidad ética
+- [[familia]] — institución social fundamental tutelada por la ley
+- [[matrimonio]] — institución fundamental tutelada por la ley
+- [[santidad]] — fin último de la persona, al que se ordena la moral personal
+- [[unión_con_cristo]] — fin de la vida cristiana que la ley eclesiástica sirve
+- [[seguimiento_de_cristo]] — la vida social forma parte del seguimiento de Cristo
+- [[caridad]] — la ley eclesiástica da primacía al amor
+- [[virtud_de_la_religión]] — materia de leyes eclesiásticas
+- [[religión]] — virtud moral regulada por la ley eclesiástica
+- [[penitencia]] — materia de leyes eclesiásticas
+- [[eucaristía]] — recomendación de recibirla con frecuencia
+- [[confesión_sacramental]] — obligación de confesar los pecados graves al menos una vez al año
+- [[ayuno]] — precepto eclesiástico
+- [[abstinencia]] — precepto eclesiástico
+- [[excomunión]] — pena canónica para apóstata, hereje o cismático
+- [[parroquia]] — el párroco debe aplicar la Misa por el pueblo confiado
+- [[cura_de_almas]] — deber de proveer a que se escuchen las confesiones
+- [[espíritu_santo]] — asistencia prometida a los Apóstoles y sus sucesores
+- [[gracia]] — la Iglesia custodia los medios para el desarrollo de la vida moral
+- [[virtud]] — la ley eclesiástica está ordenada a las virtudes
+- [[fe]] — la Iglesia custodia la fe de los fieles
+- [[esperanza]] — la Iglesia como comunidad de fe, esperanza y amor
+- [[vida_eterna]] — fin al que se ordena la misión de la Iglesia
+- [[mundo]] — la autonomía de las realidades temporales
+- [[encarnación]] — la lógica de la Encarnación fundamenta la transformación cristiana del mundo
+- [[verdad]] — principio de la verdad en la caridad
+- [[san_pablo]] — enseñanzas sobre la obediencia a la autoridad (Rm 13)
+- [[san_pedro]] — enseñanzas sobre la obediencia a las autoridades (1 P 2)
+- [[san_cipriano]] — «No puede tener a Dios por Padre quien no tiene a la Iglesia por Madre»
+- [[san_agustín]] — referencia de la tradición teológica
+- [[juan_pablo_ii]] — Constitución apostólica Sacrae disciplinae leges
+- [[benedicto_xvi]] — «El cristianismo nunca ha impuesto al Estado una ley revelada»
+- [[león_xiii]] — Encíclica Immortale Dei
+- [[lumen_gentium]] — la Iglesia, sacramento universal de salvación
+- [[gaudium_et_spes]] — doctrina sobre la participación política y los deberes de justicia
+- [[optatam_totius]] — referencia sobre la naturaleza y misión de la Iglesia
+- [[catecismo_de_la_iglesia_católica]] — doctrina sobre la autoridad y las leyes civiles
+- [[código_de_derecho_canónico]] — ley fundamental de la Iglesia promulgada por Juan Pablo II
 
+## 1. La ley civil
 
-## Contenido
+El cristiano vive su vida de hijo de Dios en Cristo junto con otros cristianos y otros hombres en el seno de la sociedad civil, hoy organizada políticamente como Estado. La vida social posee un importante significado moral y presenta exigencias específicas que, según la ley de la Encarnación, entran a formar parte del seguimiento de Cristo. La dimensión política de la vida moral cristiana es objeto de la doctrina social de la Iglesia; la teología moral fundamental se ocupa de los aspectos generales que son la base necesaria para ulteriores profundizaciones.
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `08_capítulo_ix.md`
+### a) La enseñanza sobre la autoridad y la ley civil en el Nuevo Testamento
 
+**Los Evangelios** — El mensaje y la actividad del Señor han sido esencialmente religiosos: no participó en las actividades políticas de sus contemporáneos, ni hay en su predicación una teoría del Estado. Sin embargo, hay una indicación significativa en la respuesta a la pregunta insidiosa sobre el tributo al César (Mc 12, 13-17): «Dad al César lo que es del César y a Dios lo que es de Dios». Los deberes hacia Dios no se oponen a los deberes hacia el Estado: quien da a Dios lo que es de Dios puede sin contradicción dar al César lo que es del César, pero sin idolatrarlo. Schnackenburg esquematiza el pasaje en cuatro puntos: a) Jesús no otorga al emperador la aureola de «por la gracia de Dios», pero reconoce sus derechos y pide obediencia a los súbditos; b) en su ámbito específico, el Estado tiene una misión propia como poder de orden y disposición, al servicio del bien común (economía, seguridad); c) al subrayar la supremacía de los deberes frente a Dios, Jesús expresa ciertas reservas respecto del poder del Estado: no puede atentar contra el honor de Dios ni estar en contradicción con los preceptos divinos; d) Jesús no destaca expresamente la limitación y caducidad del Estado, pero sabe que depende de la voluntad y del poder de Dios.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**Escritos apostólicos** — Los Hechos de los Apóstoles presentan ejemplos de reserva en relación con la autoridad humana: «Hay que obedecer a Dios antes que a los hombres» (Hch 5, 29). De gran importancia es la indicación paulina de la Carta a los Romanos (Rm 13, 1-7), que parece dar un paso más: no se puede dar a Dios lo que es de Dios sin dar al César lo que es del César. San Pablo ofrece una razón teológica: la autoridad política es reconducida a Dios —«las que existen, por Dios han sido constituidas»—; el poder político es «un servidor de Dios para el bien», y quien se le opone «se rebela contra el orden divino». Por eso la obediencia civil no debe realizarse «solo por temor al castigo, sino también en conciencia». En las Cartas Pastorales recomienda la obediencia a los magistrados, que han de ser recordados en la oración para facilitar una vida sosegada y tranquila. Una enseñanza análoga se encuentra en la I Carta de San Pedro (1 P 2, 13-17): sin canonizar el sistema político, la obediencia a las autoridades civiles se reconduce a la voluntad divina, manteniendo con libertad la propia identidad moral. El cuadro se completa en el Apocalipsis, que refleja las persecuciones de los cristianos del Asia Menor que se negaban a dar culto divino al emperador Domiciano; se atribuye a Satanás el origen del Estado que abusa de su poder de modo sacrílego. «Aparece aquí el reverso de la aceptación cristiana del Estado: cuando un gobierno desprecia el honor y los mandamientos divinos, hay que oponerse a él con todas las fuerzas».
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | CAPÍTULO IX |
-| 4 | H2 | LA LEY CIVIL Y LA LEY ECLESIÁSTICA |
-| 26 | H3 | XVI, Enc. Deus caritas est, 25-XII-2005, n. 28. |
-| 31 | H3 | César, pero ciertamente sin idolatrarlo. |
-| 90 | H3 | Razón creadora de Dios»14. |
-| 105 | H3 | Conviene, por tanto, establecer una distinción entre moral personal y  |
-| 150 | H3 | Gran Bretaña. |
-| 307 | H3 | ID., Scelti in Cristo per essere santi, Vol. IV: Morale sociale, Edusc |
-| 329 | H3 | Iglesia, «Scripta Theologica» 28 (1996) 399-438. |
-| 389 | H3 | Iglesia o leyes eclesiásticas. |
-| 406 | H3 | San Pablo en 1 Co a las diversas cuestiones que le habían planteado. |
-| 407 | H3 | Hb 13, 17; 1 P 5, 1-4. |
-| 479 | H3 | Derecho Canónico. Edición anotada, Eunsa, Pamplona 19874, p. 39. |
+Las enseñanzas apostólicas no son incompatibles: representan dos aplicaciones coherentes del mismo principio («lo del César, devolvédselo al César, y lo de Dios, a Dios»), cuya aplicación concreta permanece abierta a ulterior inteligencia teológica. Como dijo Benedicto XVI en su Discurso al Parlamento alemán: «a diferencia de otras grandes religiones, el cristianismo nunca ha impuesto al Estado y a la sociedad una ley revelada, ni un sistema jurídico derivado de la revelación. Por el contrario, se ha remitido a la naturaleza y a la razón como las verdaderas fuentes del derecho —se ha remitido a la armonía entre la razón objetiva y la subjetiva, una armonía que presupone, sin embargo, que ambas esferas están fundadas en la Razón creadora de Dios».
 
+### b) Moral personal y moral política
 
-## Secciones incluidas
+Antes de exponer la doctrina sobre la ley civil, conviene una aclaración sistemática. La actitud del cristiano frente a la ley civil puede suscitar dos tipos de interrogantes: los referentes al comportamiento de la persona (la obligación de pagar los impuestos, la culpabilidad moral cuando se evaden, etc.) y los referentes a la moralidad de la ley misma (la equidad de la ley tributaria, el modo de distribuir cargas y beneficios). Son dos grupos de cuestiones formalmente diversos aunque conexos: el primero pertenece a la moral personal (está en juego la honestidad de una persona determinada), el segundo a la moral política (está en juego la corrección o incorrección de una disposición legal).
 
-# CAPÍTULO IX
+La distinción se basa en el modo de constituirse la sociedad política como un todo: los individuos y los grupos conservan siempre una esfera de acción y fines propios, y al mismo tiempo existen acciones propias del todo político en cuanto tal, en orden al bien específico de la sociedad política, que es el bien común. La moral personal se ocupa de todas las acciones del individuo en cuanto se dirigen al bien último de la persona (la santidad); la moral política, de las acciones realizadas por la comunidad política en cuanto se dirigen al bien común de la sociedad. La distinción no implica una separación entre moral y política: la praxis política es una actividad intrínsecamente moral, pues el bien común político es expresión de la verdad sobre el hombre y su esencial sociabilidad. Pero la política no es una dimensión totalizante: la rectitud moral no se reduce a la simple rectitud legal. La lógica moral que regula el mundo político es formalmente diversa de la lógica de la moral personal, aunque ambas son partes de un saber moral unitario, pues el bien común político está en función del bien de la persona. En definitiva, la moral política es una parte de la moral, pero no toda la actividad moral del cristiano; la vida en Cristo tiene notables implicaciones para la vida política, pero al mismo tiempo la trasciende.
 
-[Contenido de esta sección...]
+### c) Valor y finalidad de la ley civil
 
-# LA LEY CIVIL Y LA LEY ECLESIÁSTICA
+**Moralidad y legalidad** — El valor moral de fondo de la ley civil responde al hecho de que es una «promulgación», «explicitación» o «determinación» de las exigencias de la ley moral natural, necesarias para regular nuestro vivir juntos en la sociedad políticamente organizada (cfr. S.Th., I-II, q. 95, a. 2). Promulgar la ley moral natural significa hacer público en un texto legal e imponer la observancia de algunos de sus preceptos (el homicidio voluntario o el robo contrarios al derecho, con su pena). Hay explicitación cuando la ley civil formula conclusiones a partir de los preceptos de la ley moral natural (los deberes y derechos derivados de la patria potestad). Hay determinación cuando la ley civil escoge uno de los diversos modos de actuar una exigencia ética natural (la seguridad en el tráfico se concreta en circular por la derecha o por la izquierda).
 
-[Contenido de esta sección...]
+Corresponde a la autoridad civil promulgar, explicitar y determinar la ley moral natural no porque las autoridades políticas sean garantes de la moralidad personal de los hombres, sino en cuanto resulta necesario o conveniente para hacer posible la libre, justa y pacífica convivencia. El fin al que se ordena la ley humana es distinto de aquel al que se ordena la ley divina: la ley humana se ordena a regir la comunidad civil; la ley divina ordena a los hombres hacia Dios, en la vida presente y en la futura. El ámbito de la ley civil es más restringido que el de la ley moral: sus competencias están limitadas por su finalidad, el bien común político.
 
-## XVI, Enc. Deus caritas est, 25-XII-2005, n. 28.
+Existe una compleja relación entre el bien personal y el bien común político. Por un lado, si la vida buena solo puede hacerse realidad en la medida en que es libremente amada, ¿cómo podría ser también el principio regulador de instancias que usan la coacción? Si el Estado considerara obligatorio todo lo bueno y prohibiera todo lo malo, o determinara cuál es la verdad sobre la vida buena, tiranizaría la conciencia. Por otra parte, ¿pueden las instituciones políticas desentenderse absolutamente de lo que es bueno para nosotros? La idea de un Estado «éticamente neutral» no es realista: los ordenamientos jurídicos prohíben el asesinato, el fraude, la discriminación, y por tanto tienen contenido ético. Otra cosa es que la coacción política no deba invadir la conciencia: esto se debe a una exigencia ética sustancial vinculada a la libertad característica de la condición humana. Una sociedad que expulsara toda consideración ética en nombre de la libertad se opondría a la libertad misma: el «vacío ético» generaría hábitos antisociales, el más fuerte acabaría imponiéndose y se caería tarde o temprano en un estado de terror.
 
-[Contenido de esta sección...]
+De estas consideraciones se derivan consecuencias importantes: ciertas exigencias del bien personal son absolutamente vinculantes para la ética política. Una ley que declarase conforme a derecho una acción éticamente negativa nunca sería admisible desde el punto de vista político; menos aún una ley que prohibiera una conducta personal éticamente obligatoria, o declarara obligatoria una conducta que no pudiera realizarse sin incurrir en culpa moral.
 
-## César, pero ciertamente sin idolatrarlo.
+**Finalidad de la ley humana** — La doctrina eclesial sobre el bien común se puede sintetizar afirmando que implica el reconocimiento y la defensa de los derechos fundamentales de la persona y la promoción de la paz y de la moralidad pública. La función de la ley civil consiste en «garantizar una ordenada convivencia social en la verdadera justicia, para que todos "podamos vivir una vida tranquila y apacible con toda piedad y dignidad" (1 Tm 2, 2)». La ley civil debe asegurar a todos el respeto de los derechos fundamentales, que pertenecen originariamente a la persona y que toda ley positiva debe reconocer y garantizar. Si la autoridad pública puede a veces renunciar a reprimir aquello que, de estar prohibido, provocaría un daño más grave (cfr. S.Th., I-II, q. 96, a. 2), nunca puede legitimar como derecho la ofensa infligida a otras personas mediante la negación de un derecho suyo. «Toda disposición de los poderes públicos que no reconozca los derechos humanos o los viole, se opone a su misma razón de ser y, por eso, carece de valor jurídico».
 
-[Contenido de esta sección...]
+En virtud de su papel específico, la ley civil regula directamente los actos externos referentes de algún modo a la justicia y en perspectiva de futuro (principio de no retroactividad). Pero posee indirectamente un influjo educativo y cultural mucho más amplio (cfr. cap. VII, § 4 c): se debe valorar no solo por lo que directamente manda, prohíbe o permite, sino también por la concepción de la persona y de la vida que expresa. Si un sistema político globalmente considerado no es injusto, resulta poco oportuna una oposición a ultranza; pero es necesario un atento discernimiento para reforzar la raíz humanista y cristiana del Estado moderno, con una generosa e incisiva intervención cultural capaz de devolver el alma cristiana a la cultura política actual. Hoy algunas partes del cuerpo legislativo expresan una concepción que no responde a la cultura de los derechos de la persona y ejercen un fuerte influjo negativo: contribuyen a oscurecer los presupuestos naturales, culturales, políticos, morales y religiosos de la identidad personal, la sociedad política se convierte en simple instrumento al servicio de intereses individuales o restringidos, y a través de leyes imperfectas e injustas los derechos humanos se anulan o se desvirtúan.
 
-## Razón creadora de Dios»14.
+### d) El cristiano y la ley civil
 
-[Contenido de esta sección...]
+**Obligatoriedad de la ley civil** — La actitud del cristiano ante la ley civil es la que enseña San Pablo: la ley civil es moralmente obligatoria. El orden civil y político justo ha sido establecido por Dios y está al servicio de Dios para el bien de los hombres; quien se opone «se rebela contra el orden divino»; por eso la ley debe obedecerse «en conciencia». El cumplimiento de la ley civil es una exigencia específica de la virtud de la justicia (justicia legal): los ciudadanos están obligados en conciencia a observar las leyes justas y a pagar los impuestos (cfr. Gaudium et spes, nn. 30 y 74). No obstante sus posibles deficiencias, la ley humana es absolutamente necesaria para tutelar el bien común: la creciente interdependencia exige una regulación minuciosa (el complejo sistema tributario no puede dejarse a la buena voluntad), el hombre necesita un marco de referencia para encuadrar sus relaciones, y sería ingenuo contar únicamente con la natural bondad y madurez de las personas. La mayor parte del corpus legal humano está compuesto por normas justas, más o menos conexas con la ley moral, que obligan en conciencia. Conviene recordar que «la obligatoriedad no es un efecto mecánico de la norma jurídica»: está en relación directa con el valor e importancia de los bienes sociales tutelados; existe una gradualidad de obligación que depende de la mayor o menor conexión de cada ley con el bien común.
 
-## Conviene, por tanto, establecer una distinción entre moral personal y moral política15.
+**Las leyes injustas** — Son injustas las leyes civiles que se oponen al bien común: las que atentan o hacen legales los atentados contra los derechos fundamentales de la persona (derecho a la vida, a la libertad política o religiosa) o contra instituciones o relaciones sociales fundamentales (matrimonio y familia, patria potestad, ejercicio de la justicia, etc.). Las leyes injustas no obligan en conciencia; al contrario, hay obligación moral de no cumplir sus disposiciones, de no aceptarlas, de manifestar el propio desacuerdo y de buscar cambiarlas en cuanto sea posible y, si no fuese posible, de reducir sus efectos negativos.
 
-[Contenido de esta sección...]
+Un problema distinto es el de la tolerancia del mal. La autoridad civil tiene el deber de sancionar penalmente las acciones inmorales nocivas para el bien común; pero, teniendo en cuenta la debilidad humana, el Estado puede tolerar, como mal menor, algunas acciones inmorales cuya absoluta prohibición podría repercutir negativamente en el bien común (como en ciertos casos la prostitución), siempre que tal concesión sea la única vía para evitar un mal mayor. La «tolerancia política del mal» no equivale a la «legalización» ni a su «justificación moral»: no justifica su realización por parte de la persona. El bien común no tolera la lesión de sus componentes esenciales: no pueden ser legalmente tolerados el aborto, la eutanasia, la discriminación racial y otros semejantes. Incluso aunque la ley no castigase un mal menor, nunca será lícito cometer un pecado para evitar otro mayor. Si de una situación de tolerancia se pasa a legalizar algo contrario al bien común o a imponerlo, el cristiano está obligado a desobedecer y a invocar la objeción de conciencia y, en casos límite, a resistir pasiva o incluso activamente, según el principio de que «hay que obedecer a Dios antes que a los hombres» (Hch 5, 29).
 
-## Gran Bretaña.
+Así resume esta doctrina el Catecismo: «La autoridad pública está obligada a respetar los derechos fundamentales de la persona humana y las condiciones del ejercicio de su libertad»; «el deber de los ciudadanos es cooperar con las autoridades civiles en la construcción de la sociedad en un espíritu de verdad, justicia, solidaridad y libertad»; «el ciudadano está obligado en conciencia a no seguir las prescripciones de las autoridades civiles cuando son contrarias a las exigencias del orden moral» (CEC nn. 2254-2256).
 
-[Contenido de esta sección...]
+Además de las leyes clara y gravemente injustas, pueden existir leyes levemente injustas o simplemente imperfectas (una ley tributaria que penalice una categoría de trabajadores, que distribuya inadecuadamente los recursos públicos, o promulgada sin recorrer el iter constitucional). Surgen entonces problemas sobre los cuales es difícil dar reglas generales: si según el sentir común son injustas, no obligan en conciencia; pero la ley es siempre un principio de orden necesario para la vida social, y su desobediencia puede fácilmente convertirse en un principio de anarquía, de injusticia y quizá de violencia. Se impone una atenta y responsable valoración de la situación antes de tomar una decisión.
 
-## ID., Scelti in Cristo per essere santi, Vol. IV: Morale sociale, Edusc, Roma 2008; A.
+### e) Los cristianos y la política
 
-[Contenido de esta sección...]
+**El punto de vista de la moral política** — Según la distinción propuesta, la obediencia a las leyes civiles es un problema de moral personal (deber derivado de la justicia); juzgar si una ley es justa o no es campo de la moral política. En los sistemas políticos actuales, los cristianos se ven continuamente involucrados en problemas de moral política; por eso la teología moral ha tenido que ocuparse de ellos y el magisterio ha desarrollado la doctrina social de la Iglesia. Conviene distinguir el papel de los pastores y de los fieles laicos: los pastores tienen el derecho y el deber de pronunciar juicios morales sobre las realidades temporales cuando es requerido por la fe o la moral cristiana; pero «la participación activa en los partidos políticos está reservada a los laicos». Cuando se discuten diversas opciones políticas concretas, que representan distintas posibilidades legítimas de realizar un mismo valor, los fieles laicos actúan libremente según su conciencia. Es un deber moral participar en la vida política: «los fieles laicos de ningún modo pueden abdicar de la participación en la "política"»; «todos y cada uno tienen el derecho y el deber de participar en la política, si bien con diversidad y complementariedad de formas, niveles, tareas y responsabilidades». La actuación eficaz de este derecho y deber requiere formación y competencia: es indispensable un conocimiento más exacto de la doctrina social de la Iglesia.
 
-## Iglesia, «Scripta Theologica» 28 (1996) 399-438.
+**Principios de la moral política** — El comportamiento del cristiano en la vida social y política depende de su vida en Cristo. Resultan iluminadoras las reflexiones teológicas de San Josemaría Escrivá. La lógica de la Encarnación es el fundamento de la transformación cristiana del hombre y del mundo: «La tarea apostólica que Cristo ha encomendado a todos sus discípulos produce, por tanto, resultados concretos en el ámbito social». De este principio cristológico deriva el concepto de secularidad: vivir en el mundo significa sentirse responsable del mundo, asumiendo la tarea de participar en las actividades humanas para darles una configuración cristiana. Hay que subrayar la autonomía y el valor de las realidades temporales, así como la exigencia de conocer y respetar su dinámica propia, fruto de la racionalidad que la Sabiduría del Creador ha impreso en sus obras. La actividad social y política no es simple enunciado de principios perennes, sino realización concreta de los bienes humanos y sociales en un contexto histórico, geográfico y cultural determinado.
 
-[Contenido de esta sección...]
+La autonomía de las realidades temporales requiere una fina sensibilidad por la libertad humana, concebida como un valor substancial, indisolublemente unido al principio de responsabilidad y, por tanto, a los principios de participación y de solidaridad. El respeto a la libertad lleva a respetar el legítimo pluralismo de las opciones temporales. La libertad no puede entenderse como valor meramente formal ni como expresión de una concepción individualista-atomista del hombre; el hecho de que la responsabilidad esté unida a la libertad lleva a rechazar cualquier providencia social que niegue o suprima la «subjetividad» de las formaciones sociales. A los principios de libertad y responsabilidad está ligado el principio de participación: la pasividad, la pereza, el «dejar hacer» representan una tentación; la consecución del bien común requiere esfuerzo y sacrificio. El principio de participación no se refiere solo a los pocos ciudadanos que profesionalmente se dedican a la política: se refiere a todos los ciudadanos, que cumplen sus deberes y ejercen sus derechos, y se asocian libremente con quienes comparten las mismas ideas.
 
-## Iglesia o leyes eclesiásticas.
+Debe recordarse también el principio de la verdad en la caridad. La convicción de que existe una verdad sobre el bien de la persona es acusada por algunos de ser causa de opresión; de esta idea derivan actitudes diversas: quienes consideran un bien cierta dosis de agnosticismo o relativismo, quienes se cierran al diálogo por temor o chantaje moral, y quienes renuncian externamente a la propia identidad por táctica, con una cierta doblez. Ante estas alternativas, el cristiano debe mostrar la compatibilidad de la firmeza en las verdades de fe o de moral con la máxima caridad: «Debemos tener una caridad maravillosa, "veritatem facientes in caritate", defendiendo la verdad, sin herir». El diálogo y la colaboración con quienes piensan diversamente es siempre posible. Hay que distinguir la relación íntima de la conciencia personal con la verdad (presidida por el poder normativo de la verdad) de la relación entre personas (presidida por la justicia, la caridad y las exigencias inalienables de la dignidad de la persona). Así como la firme adhesión a la verdad no es plenamente cristiana si no va unida al respeto leal hacia quienes no la comparten, así el respeto de los otros no es una auténtica virtud ética si se convierte en confusionismo, doblez o renuncia por motivos tácticos a la propia identidad.
 
-[Contenido de esta sección...]
+## 2. La ley eclesiástica
 
-## San Pablo en 1 Co a las diversas cuestiones que le habían planteado.
+En el bautismo hemos sido engendrados como hijos de Dios en el seno de la Iglesia; por la gracia bautismal nos convertimos en miembros de Cristo y de su cuerpo, que es la Iglesia. La Iglesia custodia y dispensa los medios necesarios para el desarrollo de la vida moral cristiana hasta la consecución de la santidad; entre estos medios se incluyen las leyes de la Iglesia o leyes eclesiásticas. Desde los tiempos apostólicos, los Apóstoles y sus sucesores han promulgado leyes y decretos referentes a la vida moral y a la actividad eclesial (sacramentos, liturgia, apostolado, etc.). El ejercicio de tal potestad legislativa tiene fundamento dogmático atestiguado por la Sagrada Escritura, por la Tradición apostólica y por la constante enseñanza del magisterio. Las leyes de la Iglesia son disposiciones normativas generales, promulgadas por las autoridades eclesiásticas con potestad legislativa (principalmente el Romano Pontífice para toda la Iglesia y el Obispo diocesano para la propia diócesis), referidas a la promoción y tutela de la misión de la Iglesia y, en último término, a la salvación y santificación de los hombres. Su estudio pormenorizado corresponde al Derecho Canónico.
 
-[Contenido de esta sección...]
+### a) Naturaleza y alcance de la ley eclesiástica
 
-## Hb 13, 17; 1 P 5, 1-4.
+Para la comprensión teológica de la ley eclesiástica conviene partir de la consideración de la naturaleza y misión de la Iglesia en el contexto del designio salvífico divino (cfr. Optatam totius, n. 16). Dos temas resultan de especial interés: la constitución divina de la Iglesia como sociedad visible y jerárquicamente ordenada, y la dimensión sacramental de la Iglesia.
 
-[Contenido de esta sección...]
+**La constitución divina de la Iglesia como sociedad visible** — Dios «quiso santificar y salvar a los hombres no individualmente y aislados, sin conexión entre sí, sino hacer de ellos un pueblo para que le conociera de verdad y le sirviera con una vida santa» (LG n. 9). Llegada la plenitud de los tiempos, «Cristo, el único Mediador, estableció en este mundo su Iglesia santa, comunidad de fe, esperanza y amor, como un organismo visible» y como «sociedad jerárquicamente organizada», en la cual los ministros que poseen la sacra potestad están al servicio de sus hermanos. Cristo ha enviado a los Apóstoles y a sus sucesores —«Como el Padre me envió, así os envío yo» (Jn 20, 21)— y les ha conferido el oficio de enseñar, santificar y gobernar, que incluye la potestad de legislar (cfr. LG n. 27; CIC can. 135, 1), con la asistencia del Espíritu Santo.
 
-## Derecho Canónico. Edición anotada, Eunsa, Pamplona 19874, p. 39.
+La misión de la Iglesia es principalmente espiritual y sobrenatural. Como dice la Constitución Sacrae disciplinae leges, el cometido de la ley eclesiástica «no es el de suplantar, en la vida de la Iglesia, la fe de los fieles, su gracia, sus carismas y, sobre todo, su caridad. Por el contrario, el Código tiende, más bien, a generar en la sociedad eclesial un orden que, dando la primacía al amor, a la gracia y al carisma, facilite al mismo tiempo su ordenado crecimiento en la vida». Aun con los límites propios de las leyes humanas, la ley eclesiástica alcanza una dimensión más interior del hombre y está ordenada a las virtudes más directamente que la ley civil. Siendo la Iglesia una sociedad formada por hombres, la consecución del bien común espiritual requiere numerosas actividades y medios externos (enseñanza de la fe, administración de los sacramentos, organización del culto, actividad misionera) que exigen un ordenamiento legal: la Iglesia, «al estar constituida como cuerpo social y visible, necesita unas normas que pongan de manifiesto su estructura jerárquica y orgánica», para ordenar el ejercicio de los poderes confiados por Dios, especialmente la potestad sagrada y la administración de los sacramentos, «de forma que las relaciones mutuas de los fieles se lleven a cabo conforme a una justicia fundada en la caridad».
 
-[Contenido de esta sección...]
+**La constitución divina de la Iglesia como sacramento universal de la salvación** — Según el designio divino, la Iglesia es el «sacramento universal de salvación» (LG n. 48), «como un sacramento o signo e instrumento de la unión íntima con Dios» (LG n. 1). A través de la Iglesia, Cristo está presente y continúa actuando en el mundo para comunicar a todos la verdad y la gracia: en sus sacramentos, en su liturgia, en su predicación, en toda su actividad. La sociedad dotada de órganos jerárquicos y el Cuerpo místico de Cristo no son dos realidades distintas, sino una realidad compleja en la que están unidos el elemento divino y el humano, semejante al misterio del Verbo encarnado. La perspectiva de la economía sacramental resulta importante para la comprensión teológica de la ley eclesiástica: el camino del creyente hacia la identificación con Cristo pasa a través de la «mediación eclesial» asumida y establecida por Cristo mismo. Lo afirma concisamente San Cipriano: «No puede tener a Dios por Padre quien no tiene a la Iglesia por Madre». Si Cristo ha dicho «Quien a vosotros os oye, a mí me oye» (Lc 10, 16), la dimensión eclesial es una característica esencial de la vida moral cristiana, y no simplemente el espacio sociológico en el cual esta se desarrolla. «Tener a la Iglesia por Madre» significa que la vida cristiana exige un verdadero espíritu filial respecto a la Iglesia: el dócil asentimiento a la predicación del Evangelio y a las enseñanzas del magisterio, la recepción de los sacramentos y la participación en el culto litúrgico, y también la observancia de las leyes eclesiásticas. Todas son expresiones igualmente auténticas de la mediación eclesial querida por Cristo.
+
+**Valor moral de la ley eclesiástica** — En comparación con la ley civil, la ley eclesiástica tiene un alcance más amplio. Por una parte, ordena según justicia la vida de los creyentes en la Iglesia, y muchas de sus leyes se refieren a verdaderos deberes y derechos, constituyendo relaciones jurídicas en sentido propio: existe un verdadero derecho, no solo porque el ordenamiento canónico aplica el principio de reconocer y atribuir «a cada uno lo suyo» («unicuique suum») en la comunidad eclesial, sino porque lo hace con normas que cumplen la triple exigencia técnica de generalidad, estabilidad y obligatoriedad. Se trata siempre de la dimensión jurídica de los bienes salvíficos y eclesiales, sin reducción «juridicista». Ejemplos: el párroco tiene el deber en justicia de aplicar la Misa por el pueblo que le ha sido confiado; es derecho del Ordinario del lugar nombrar o aprobar los profesores de religión; el sacerdote que ha aceptado un estipendio tiene el deber en justicia de aplicar la Misa por la intención del oferente; todos los que por oficio tienen cura de almas están obligados a proveer que se escuchen las confesiones de los fieles que razonablemente lo piden; es derecho de cada fiel escoger libremente el confesor que prefiera; los fieles tienen derecho a manifestar a los pastores sus necesidades y deseos.
+
+Por otra parte, el legislador eclesiástico, consciente de que la Iglesia es depositaria e intérprete de la ley de Cristo, promulga leyes sobre materias morales diversas de la justicia, referidas a los actos de las virtudes teologales o de virtudes morales como la religión, la penitencia, etc. Estas leyes pueden ser la simple promulgación positiva de una exigencia ética o religiosa de la ley de Cristo, o una explicitación o determinación de las mismas. «Las leyes positivas promulgadas por la autoridad eclesiástica tienen por fin garantizar a los fieles el mínimo indispensable en el espíritu de oración y en el esfuerzo moral, en el crecimiento del amor de Dios y del prójimo». Estas disposiciones pueden ser simples recomendaciones, pueden obligar en conciencia sub gravi o, en casos especiales, pueden sancionar ciertos comportamientos con una pena canónica, que tiene siempre finalidad pastoral, medicinal o preventiva.
+
+Ejemplos: son recomendaciones la exhortación a recibir con frecuencia la Eucaristía y la «encarecida recomendación» a los sacerdotes de celebrar diariamente la Misa; son leyes que de por sí obligan sub gravi la participación en la Misa los domingos y días de precepto, la obligación de confesar los pecados graves al menos una vez al año, recibir la Eucaristía al menos una vez al año en tiempo pascual y observar los días de ayuno y abstinencia; son leyes penales la excomunión latae sententiae para el apóstata, hereje o cismático y para quien participa en un aborto consiguiendo el efecto.
+
+La ley eclesiástica no se limita a regular las relaciones comunitarias en el seno de la Iglesia, pues se refiere también a la vida cristiana personal. Aun manteniendo la distinción entre ley moral y norma jurídica, la disciplina eclesial no responde a una exigencia puramente exterior y funcional: se encamina a facilitar una exigencia interior y esencial de la vida cristiana, el servicio de la comunión. Incluso cuando tiene una finalidad exclusivamente disciplinar, es siempre una expresión de la misión salvífica de la Iglesia que mira al creyente en cuanto persona que busca la unión con Cristo, y no solo en cuanto «ciudadano» de la comunidad eclesial.
+
+### b) La obligatoriedad moral de las leyes eclesiásticas
+
+Las leyes eclesiásticas originan una verdadera obligación moral: es una doctrina de fe. No todas las normas eclesiásticas tienen el mismo valor: su obligatoriedad presenta diversos grados. Las leyes de la Iglesia universal y particular (normas del Código de derecho canónico, normas litúrgicas y sacramentales, normas del obispo para la propia diócesis) obligan en conciencia, y su infracción puede convertirse en culpa moral incluso grave según la mayor o menor entidad de lo mandado. «Las leyes canónicas —ha recordado el Legislador en la Constitución Sacrae disciplinae leges— por su misma naturaleza exigen la observancia». Esto vale tanto para las normas que traducen en términos de derecho positivo disposiciones de Derecho divino (aquí se alcanza el grado más elevado de obligatoriedad moral) como para las de derecho humano, que implican la conciencia del creyente con un llamamiento a la Autoridad divina, en la cual encuentra su fundamento la potestad sagrada del legislador.
+
+Según la naturaleza de lo mandado existen diferencias fundamentales. Algunas normas eclesiásticas promulgan o explicitan exigencias de la ley moral natural o de la ley evangélica: por ejemplo, las leyes que declaran nulo el matrimonio entre todos los ascendientes y descendientes en línea recta de consanguinidad, o el matrimonio de una persona ligada por el vínculo de un matrimonio precedente (cfr. CIC can. 1085); son leyes que no solo obligan sub gravi, sino que no admiten excepciones ni dispensa alguna, ni siquiera por parte del Romano Pontífice. Hay, en cambio, leyes meramente eclesiásticas, así como determinaciones en forma positiva de la ley evangélica, que incluso obligando sub gravi admiten excepciones o dispensa: no tiene obligación de participar en la Misa del domingo quien está impedido por una causa grave (peligro de la propia salud, distancia notable, necesidad de atender a un enfermo grave, etc.). En términos generales, tratándose de leyes meramente eclesiásticas, el legislador no intenta obligar si existe grave incómodo. Existen, además, leyes que se refieren a cosas que son de por sí materia leve y que no obligan «sub gravi».
+
+Algunas características ordinarias de las leyes eclesiásticas: según el derecho general de la Iglesia, las leyes universales entran en vigor tres meses después de su publicación en el Acta Apostolicae Sedis si no se advierte lo contrario ni la naturaleza de las cosas implica la obligación inmediata. Al cumplimiento de las leyes puramente eclesiásticas están obligados solo los bautizados en la Iglesia católica o en ella admitidos, que gozan del suficiente uso de razón y, si no se indica lo contrario, que hayan cumplido siete años de edad. No es susceptible de pena quien, cuando violó la ley penal, no tenía aún 16 años, y quien sin culpa ignoraba violar una ley. Contrariamente a cuanto sucede en muchos ordenamientos civiles, han de retenerse como invalidantes o inhabilitantes solo aquellas leyes en las cuales se establece expresamente que el acto es nulo o la persona inhábil; así, un acto puede ser realizado ilícitamente pero válidamente. La ignorancia o el error acerca de las leyes invalidantes e inhabilitantes no impiden su efecto, mientras no se haya establecido expresamente otra cosa. A la ley de la abstinencia está obligado quien ha cumplido 14 años, y a la del ayuno quienes han cumplido 18 años y no han alcanzado los 59 (cfr. CIC cann. 97 y 1252).

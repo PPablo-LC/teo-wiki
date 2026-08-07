@@ -1,180 +1,166 @@
 ---
 type: ResumenFuente
-title: "CAPÍTULO III"
+title: "CAPÍTULO III — La conducta moral como respuesta del hombre a la llamada divina"
 fuente: Elegidos_en_Cristo_para_ser_santos
 capítulo: 3
-timestamp: 2026-08-03
-description: "Resumen de 'CAPÍTULO III' — Elegidos_en_Cristo_para_ser_santos"
-tags: ["resumen", "elegidos en cristo para ser santos"]
+timestamp: 2026-08-06
+description: "Resumen del capítulo III de Elegidos en Cristo para ser santos: la conducta moral como respuesta del hombre a la llamada divina."
+tags: ["resumen", "elegidos en cristo para ser santos", "conducta moral", "santidad", "teología moral"]
 ---
 
-# CAPÍTULO III
+# CAPÍTULO III — LA CONDUCTA MORAL COMO RESPUESTA DEL HOMBRE A LA LLAMADA DIVINA
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[santidad_cristiana]] — meta de la búsqueda activa de la vida moral cristiana
+- [[configuración_con_cristo]] — el bien humano completo es asumido, purificado e integrado por la llamada a la santidad
+- [[filiacion_divina]] — dignidad de hijo de Dios en Cristo por medio del Espíritu Santo
+- [[ley_moral]] — compromiso obediente del cristiano a la luz de la razón natural
+- [[ley_evangélica]] — compromiso obediente del cristiano a la luz de la fe
+- [[correspondencia_al_don_divino]] — la fe, caridad y esperanza deben fortalecerse cada día
+- [[justificación]] — libre acogida de la justicia de Dios por medio de la fe en Jesucristo
+- [[pecado]] — «no» del hombre a la llamada divina, alejamiento de Dios
+- [[tibieza]] — negligencia que rehúsa conseguir los bienes espirituales por el esfuerzo que exigen
+- [[concupiscencia]] — principio de desorden en la vida moral, atribuido a la «carne»
+- [[lucha_espiritual]] — esfuerzo ascético de identificación con Cristo
+- [[renuncia_y_seguimiento]] — abandonar la conducta del hombre viejo y renovarse en Cristo
+- [[progreso_espiritual]] — crecimiento en la unión con Cristo y en el desarrollo de la caridad
+- [[caridad]] — motor inspirador del conocimiento y del discernimiento moral del cristiano
+- [[bienaventuranzas]] — núcleo del Sermón de la montaña, resumen del obrar moral cristiano
+- [[mandamiento_del_amor]] — junto con las bienaventuranzas y el decálogo, resumen del obrar moral
+- [[decálogo]] — confirmación del obrar moral cristiano
+- *unidad de vida* — coherencia de toda la conducta personal del cristiano
+- [[santificación]] — la vida cristiana se alimenta de adoración, oración, cruz, acción de gracias, petición, docilidad, abandono, humildad y penitencia
+- [[sacramentos]] — medios de santificación dispuestos por el Señor
+- [[eucaristía]] — centro y cima de la vida cristiana
+- [[penitencia]] — sacramento medio de santificación por excelencia junto con la Eucaristía
+- [[contemplación]] — «mirada» de la fe fija en Jesús, realizable en la vida ordinaria
+- [[oración]] — estar en la presencia de Dios y en diálogo filial con Él
+- [[mortificación]] — abnegación cristiana, renuncia de sí mismo
+- [[cruz]] — camino de la perfección; no hay santidad sin renuncia ni combate espiritual
+- [[mediación_de_maría]] — constante y eficaz mediación materna en la santificación
+- [[maternidad_espiritual]] — María es nuestra madre en el orden de la gracia
+- [[apostolado]] — activa participación en la misión de Cristo y de la Iglesia
+- [[evangelización]] — el apostolado cristiano es siempre evangelización y santificación
+- [[vocación_universal_a_la_santidad]] — la vocación cristiana es también vocación al apostolado
+- [[unión_con_cristo]] — meta de la vida moral, alimentada por los sacramentos y la oración
 
+## 1. Conducta moral y santidad cristiana
 
-## Contenido
+El análisis puramente filosófico considera la vida moral como un proyecto con el que el hombre pretende realizar, a través de sus acciones, el bien completo y definitivo de la propia vida. Hacia ese objetivo tiende enteramente la actividad de la razón práctica, que está en condiciones de realizar una «traducción» operativa concreta del fin último, individuando las prioridades, la medida y las modalidades con que deben ser deseados y realizados los diversos bienes y actividades que integran la vida humana.
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `02_capítulo_iii.md`
+A la luz de la Revelación comprendemos que el bien humano completo es asumido, purificado, elevado e integrado —mas no alterado— por la llamada a la santidad que se actúa en la configuración con Cristo. La vida moral cristiana significa la activa búsqueda de la santidad, sostenida por la gracia del Espíritu Santo. La natural capacidad práctica de la razón humana es enriquecida por el horizonte de sentido y por las concretas enseñanzas morales de la Revelación; las demás facultades operativas son sanadas y elevadas por las virtudes cristianas. Toda la existencia moral puede así entenderse profundamente como la respuesta del hombre al don divino que lo ha elevado —junto con los otros miembros de la comunidad cristiana y, potencialmente, con todos los hombres— a la dignidad de hijo de Dios en Cristo por medio del Espíritu Santo.
 
+Es necesario comprender correctamente en qué sentido la vida moral cristiana es una respuesta a una llamada divina. En cierto sentido, toda vida moral se relaciona con la llamada que Dios dirige al hombre, sea o no consciente de ello, a través del conocimiento natural y del deseo del bien. Pero el cristiano tiene clara conciencia de haber sido objeto de una comunicación divina —fruto de su insondable amor— que requiere correspondencia, y sabe que es destinatario de enseñanzas morales precisas que ilustran los modos fundamentales de su respuesta. No hay que pensar que cada acción es una respuesta a una petición divina de contenido preciso e inequívoco; mejor aún: en realidad lo es, pero en la medida en que el cristiano ve en Dios el origen y fundamento de todo bien y cree que el seguimiento de Cristo se realiza como compromiso obediente con todo lo que resulta bueno, tanto a la luz de la razón natural (ley moral natural), como a la luz de la fe (ley evangélica), aunque normalmente actúe bajo la luz resultante de la colaboración de ambos principios cognoscitivos. Al cristiano no se le ahorra el esfuerzo activo y creativo de encontrar caminos para lograr la unión con Cristo a través de su propia vida y actividades. La tarea de la teología moral es ayudar al cristiano a desarrollar este esfuerzo.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+## 2. La cooperación moral del hombre al don de Dios
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | CAPÍTULO III |
-| 4 | H2 | LA CONDUCTA MORAL COMO RESPUESTA DEL HOMBRE A LA LLAMADA DIVINA |
-| 18 | H3 | Santo. |
-| 43 | H3 | Jesucristo, en la cual se realiza la justificación . No consideramos a |
-| 53 | H3 | L’apostolo Paolo. Studi di esegesi e teologia, Paoline, Cinisello Bals |
-| 80 | H3 | Testamento, Herder, Barcelona 1991, vol. II, pp. 77-78. |
-| 109 | H2 | XI. |
-| 174 | H3 | R. SCHNACKENBURG, El mensaje moral del Nuevo Testamento, cit., vol. II |
-| 183 | H3 | Como escribe el Apóstol: “Ahora bien, las obras de la carne son conoci |
-| 269 | H3 | SPICQ, Teología moral del Nuevo Testamento (2 vol.), Eunsa, Pamplona 1 |
-| 305 | H3 | Sal 50, 14.23; 1 Tm 1, 17; Hb 13, 15. |
-| 343 | H3 | La vida cristiana informar también la dimensión social y política de l |
-| 347 | H3 | Catecismo, nn. 302-314. |
-| 349 | H3 | Gaudium et spes, n. 52. |
-| 384 | H3 | Según el carácter sacramental de la economía salvífica , el don inicia |
-| 415 | H3 | Desiderio desideravi, 29-VI-2022. |
-| 443 | H3 | Enc. Ecclesia de Eucharistia, 11-IV-2003; SAN JOSEMARÍA ESCRIVÁ, Es Cr |
-| 476 | H3 | Exhort. ap. Sacramentum caritatis, nn. 72-76; FRANCISCO, Lett. Ap. Des |
-| 513 | H3 | GREGORIO NACIANCENO, Orationes Theologicae, 1, 4: PG 36, 15 C). |
-| 584 | H3 | Concilio Vaticano II , por la enc. Redemptoris Mater124 y el Catecismo |
-| 587 | H3 | Iglesia Católica .125 |
-| 597 | H3 | La mediación de María tiene todas las notas que son propias del actuar |
-| 622 | H3 | Esposa fecunda del Espíritu Santo– no está bastante formada en los cor |
-| 629 | H3 | Santísima Virgen, n. 164: Obras, BAC, Madrid 1984, pp. 345-346. |
-| 640 | H3 | Francisco. |
-| 669 | H3 | Cfr. cap. IX, § 1 e). |
-| 670 | H3 | Veritatis splendor, n. 107. |
-| 671 | H3 | Ibídem. |
+Se puede afirmar en términos generales que toda iniciativa de Dios en relación al ser humano exige la respuesta libre del hombre. Incluso la santidad inicial supone ya una primera y fundamental respuesta: la libre acogida de la justicia de Dios por medio de la fe en Jesucristo, en la cual se realiza la justificación. Lo que interesa analizar es cómo la persona, mediante su vida y con la ayuda de la gracia, manifiesta y desarrolla convenientemente el don con que ha sido santificada y renovada.
 
+La fe, a la que sigue la caridad y el deseo de llegar a la plena comunión con Dios (esperanza), debe fortalecerse cada día: ni siquiera la santidad inicial puede considerarse una realidad indefectible. Como escribe San Agustín: «Todo procede de Dios; pero no permaneciendo nosotros como somnolientos, como reacios a todo esfuerzo, casi contra voluntad. Sin tu voluntad, en ti no se hallará la justicia de Dios. [...] Quien te creó sin ti, no te justificará sin ti». Del hombre depende la continua correspondencia al don divino, que se manifiesta en la decisión siempre actual de vivir ante todo como santo en Cristo. Este deseo se realiza según dos líneas: alejar cuanto nos aleja del Señor y practicar cuanto nos acerca a Él.
 
-## Secciones incluidas
+Los Escritos Apostólicos distinguen estos dos momentos. La Carta a los Efesios los describe como «abandonar la conducta del hombre viejo» y «renovarse y revestirse de Cristo»: «abandonar la antigua conducta del hombre viejo, que se corrompe conforme a su concupiscencia seductora, para renovaros en el espíritu de vuestra mente y revestiros del hombre nuevo, que ha sido creado conforme a Dios en justicia y santidad verdaderas» (Ef 4, 22-24). En la Carta a los Gálatas el primer momento es lucha contra los deseos de la carne; el segundo, vida según el Espíritu. La Primera Carta a los Tesalonicenses pide abandonar las pasiones y los pecados de los paganos y vivir de manera agradable a Dios buscando progresar siempre más. La Carta a los Romanos: «No os amoldéis a este mundo, sino, por el contrario, transformaos con una renovación de la mente, para que podáis discernir cuál es la voluntad de Dios, qué es lo bueno, agradable y perfecto» (Rm 12, 2). En definitiva, es necesario tanto el esfuerzo de luchar contra el pecado y el vicio, cuanto la práctica de las virtudes y el uso de los medios de santificación.
 
-# CAPÍTULO III
+## 3. El aspecto negativo del comportamiento moral: «abandonar la conducta del hombre viejo»
 
-[Contenido de esta sección...]
+### a) La lucha contra el pecado
 
-# LA CONDUCTA MORAL COMO RESPUESTA DEL HOMBRE A LA LLAMADA DIVINA
+Al hablar del «aspecto negativo» de la conducta moral hemos adoptado un modo común de hablar que ha de ser bien entendido: en la vida cristiana la negación procede siempre de una afirmación previa y está ordenada a una afirmación ulterior y plena. En el anuncio cristiano el pecado no es un tema primario, sino indirecto y reflejo: en la arcaica formulación de fe de la Primera Carta a los Corintios —«Cristo murió por nuestros pecados, según las Escrituras; fue sepultado y resucitó al tercer día» (1 Co 15, 3-5)— la mención de los pecados se pone en segundo lugar, en función del hecho de que Cristo ha muerto por ellos: la confesión de fe es cristológica.
 
-[Contenido de esta sección...]
+Esta consideración, lejos de desvirtuar la importancia del pecado, la subraya colocándola en su justa perspectiva. El que vive en Cristo está muerto al pecado: «consideraos muertos al pecado, pero vivos para Dios en Cristo Jesús. Por lo tanto, que no reine el pecado en vuestro cuerpo mortal» (Rm 6, 11-12). Entre la vida del hombre en Cristo y el pecado existe una total incompatibilidad. El pecado se opone a la santidad de Dios y a la vida en Cristo, supone un «no» del hombre a la llamada divina, es el alejamiento de Dios que en Cristo se ha acercado y se acerca a nosotros. Por eso la lucha contra el pecado constituye la primera, radical e inmediata exigencia de la llamada divina a la santidad.
 
-## Santo.
+Esta enseñanza es especialmente patente en las Cartas del Nuevo Testamento: San Pablo a los tesalonicenses —«Esta es la voluntad de Dios: vuestra santificación; que os abstengáis de la fornicación [...]. Dios no nos llamó a la impureza, sino a la santidad» (1 Ts 4, 3-8)— y la I Carta de Juan: «Todo el que permanece en él, no peca. En cambio, el que peca no le ha visto ni le ha conocido [...]. El que comete pecado, es del diablo, porque el diablo peca desde el principio. Para esto se manifestó el Hijo de Dios: para destruir las obras del diablo» (1 Jn 3, 5-8). Los que siguen a Cristo no pecan: pertenece a la misma realidad de la filiación divina la ausencia del pecado; pecar supone rechazar la filiación divina y herir el amor de Dios que la otorga como un don. Estas ideas no se oponen al hecho de que en esta vida todos, incluso los cristianos, son pecadores, ni al hecho de que Dios muchas veces realiza la santidad en medio de la fragilidad personal; solo pretenden subrayar que una característica esencial de la vida cristiana es no contentarse con el propio pecado y, por tanto, esforzarse por superarlo.
 
-[Contenido de esta sección...]
+### b) La tibieza como respuesta frustrada a la vocación cristiana
 
-## Jesucristo, en la cual se realiza la justificación . No consideramos ahora esta
+La vocación cristiana, en cuanto vocación a la santidad que hay que realizar en el mundo, ha de superar, además del pecado, otro obstáculo, en apariencia menos grave pero en la práctica más insidioso: la tibieza o acidia, «a la cual pertenece la negligencia por la que uno, a causa del esfuerzo que exige, rehúsa conseguir los bienes espirituales». La persona tibia no quiere ofender gravemente al Señor, pero tampoco se compromete seriamente por realizar la unión con Cristo a través de su vida. El tibio quizá no dice claramente «no» a la llamada divina, pero aplaza sistemáticamente la respuesta a un «después» o a un «mañana» que nunca llegan; su débil amor a Dios le hace demasiado pesado el esfuerzo de responder positivamente. Esto explica las fuertes palabras del Apocalipsis: «Conozco tus obras, que no eres frío ni caliente. ¡Ojalá fueras frío o caliente! Y así, porque eres tibio, y no caliente ni frío, voy a vomitarte de mi boca» (Ap 3, 15-16). La persona tibia olvida el gran amor que Dios le ha demostrado, no hace fructificar el dinamismo de crecimiento propio de la caridad y se siente satisfecha con lo que es y hace: «Porque dices: "Soy rico, me he enriquecido y de nada tengo necesidad", y no sabes que eres un desdichado y miserable, pobre, ciego y desnudo» (Ap 3, 17). La tibieza o «aburguesamiento» es la respuesta frustrada a la vocación a la santidad, y representa indudablemente un fracaso.
 
-[Contenido de esta sección...]
+El tibio se deja llevar por la tentación de pensar que el camino hacia la felicidad humana es una vía media entre la santidad cristiana —vista como demasiado pesada— y el alejamiento de Dios —visto como un oscuro callejón sin salida—. Quiere ser «bueno», pero descuida su relación filial con el Señor, se mueve en horizontes exclusivamente terrenos (dinero, poder, bienestar material), no escucha las inspiraciones de la gracia, es superficial y quizá irresponsable en el cumplimiento de los deberes familiares, profesionales y sociales, y claudica ante el esfuerzo de lo que va más allá de cuanto se ve y se toca.
 
-## L’apostolo Paolo. Studi di esegesi e teologia, Paoline, Cinisello Balsamo 1991, pp. 645- 657.
+Los remedios contra la tibieza se encuentran en el mismo pasaje del Apocalipsis: 1) convertirse con todo el corazón a Dios y hacer fructificar sus dones: «Te aconsejo que me compres oro acrisolado por el fuego para que te enriquezcas, túnicas blancas para que te vistas [...] y colirio con que ungirte los ojos para que veas»; 2) tomar con generosidad la cruz del Señor y aceptar las mortificaciones pasivas: «Yo, a cuantos amo, los reprendo y castigo»; 3) renovar el esfuerzo por la santidad: «Ten celo y arrepiéntete»; 4) escuchar, con la firme intención de cumplir, los requerimientos divinos: «Mira, estoy a la puerta y llamo: si alguno escucha mi voz y abre la puerta, entraré en su casa y cenaré con él» (Ap 3, 18-20). Esta escucha se realiza de dos modos complementarios: a) mejorar la vida de oración, «pues cuanto más pensamos en los bienes espirituales, tanto más placenteros se nos hacen. El resultado será que la acidia cese»; b) acercarse con frecuencia al sacramento de la confesión y a la dirección espiritual, para lograr una percepción cada vez más clara de lo que Dios pide.
 
-[Contenido de esta sección...]
+### c) La lucha contra la concupiscencia
 
-## Testamento, Herder, Barcelona 1991, vol. II, pp. 77-78.
+La libertad del hombre es la libertad de un ser compuesto de espíritu y carne, inmerso en la temporalidad, y que no se decide plenamente mediante una única opción, sino fatigosamente a lo largo de la propia vida. Mientras está en camino, la persona tiene que ocuparse de la propia salvación con temor y temblor, y resulta inevitable la lucha para superar las resistencias y confirmar las propias decisiones, pues en esta vida es siempre posible volver atrás. Después del pecado, la conducta moral recta comporta esfuerzo: la natural ordenación a Dios es contrastada por el desorden causado por el pecado original y por los pecados actuales; este principio de desorden, llamado «concupiscencia» o «fomes peccati», se atribuye a la «carne» (Catecismo, n. 2515).
 
-[Contenido de esta sección...]
+Este desorden moral se manifiesta sobre todo en el inmoderado amor de sí mismo, en el deseo de autoafirmación y, especialmente, en cerrarse al querer de Dios, es decir, en el orgullo: lo peor de la concupiscencia se encuentra en el amor propio, que toma cuerpo en los diversos apetitos humanos (en el espiritual y en los sensitivos) e impulsa al pecado. San Pablo describe la tensión y la lucha que turba el corazón humano: «La carne tiene apetencias contrarias al espíritu, y el espíritu contrarias a la carne [...] de forma que no hacéis lo que quisierais» (Ga 5, 16-17). Ya en el hombre en cuanto ser compuesto existe una cierta tensión entre el «espíritu» y la «carne»; pero esta lucha pertenece a la herencia del pecado, del que es una consecuencia y, a la vez, una confirmación. Las obras de la carne —«fornicación, impureza, libertinaje... embriaguez, orgías» y también «odios, discordias, celos, iras, rencillas, divisiones, envidias» (Ga 5, 19-21)— son disposiciones estables, virtudes y vicios, moralmente buenos o malos, fruto de sumisión o de resistencia a la acción salvífica del Espíritu Santo. Pablo no discrimina ni condena el cuerpo, que con el alma espiritual constituye la naturaleza del hombre y su subjetividad personal: «Si vivimos según el Espíritu, obremos también según el Espíritu» (Ga 5, 25). A las obras de la carne contrapone «el fruto del Espíritu»: amor, alegría, paz, paciencia, afabilidad, bondad, fidelidad, mansedumbre, dominio de sí.
 
-# XI.
+No resulta posible mantener la dirección hacia la santidad sin una lucha por vencer los movimientos desordenados. Ya el Antiguo Testamento habla de la vida sobre la tierra como de una milicia, una lucha entre la estirpe de la mujer y la estirpe de la serpiente; el tema es retomado en el Nuevo Testamento con la metáfora de la guerra o de la competición deportiva (1 Co 9, 24-27; Flp 3, 14; Hb 12, 1), hasta la total victoria de Cristo en el combate escatológico. El Vaticano II recuerda: «A través de toda la historia del hombre se extiende una dura batalla contra los poderes de las tinieblas que, iniciada ya desde el origen del mundo, durará hasta el último día [...]. Inserto en esta lucha, el hombre debe combatir continuamente para adherirse al bien, y no sin grandes trabajos, con la ayuda de la gracia de Dios, es capaz de lograr la unidad en sí mismo» (Gaudium et spes, n. 37).
 
-[Contenido de esta sección...]
+El cristiano, sin embargo, no se mueve por un afán terreno de perfeccionismo: su meta no es la autoafirmación en el dominio de la naturaleza desordenada, sino amar a Dios sobre todas las cosas e identificarse con Jesucristo mediante la gracia del Espíritu Santo. La lucha ascética es principalmente esfuerzo de identificación con Cristo. Por esto es una lucha optimista, dirigida más a practicar el bien que a evitar el mal: «No te dejes vencer por el mal; al contrario, vence el mal con el bien» (Rm 12, 21).
 
-## R. SCHNACKENBURG, El mensaje moral del Nuevo Testamento, cit., vol. II, pp. 48-51.
+## 4. El aspecto positivo de la conducta moral: la renovación en el Espíritu y los medios de santificación
 
-[Contenido de esta sección...]
+El aspecto positivo de la conducta moral es el que mejor responde a su profunda naturaleza de respuesta a la llamada divina a la santidad. La vida moral es, ante todo, progreso espiritual, que tiende a una unión siempre más íntima con Jesucristo: «Esta unión se llama "mística", porque participa del misterio de Cristo mediante los sacramentos —"los santos misterios"— y, en Él, del misterio de la Santísima Trinidad. Dios nos llama a todos a esta unión íntima con Él» (Catecismo, n. 2014). El Concilio Vaticano II termina su exposición de la doctrina sobre la llamada universal a la santidad con una visión sintética de los principales medios para alcanzar la unión con Cristo: «El don principal y más necesario es el amor con el que amamos a Dios sobre todas las cosas y al prójimo a causa de Él. Ahora bien, para que el amor pueda crecer y dar fruto en el alma como una semilla buena, cada cristiano debe escuchar de buena gana la palabra de Dios y cumplir su voluntad con la ayuda de su gracia, participar frecuentemente en los sacramentos, sobre todo en la Eucaristía, y en otras acciones sagradas y dedicarse constantemente a la oración, a la renuncia de sí mismo, a servir activamente a los hermanos y a la práctica de todas las virtudes» (Lumen gentium, n. 42).
 
-## Como escribe el Apóstol: “Ahora bien, las obras de la carne son conocidas:
+### a) El crecimiento en la santidad
 
-[Contenido de esta sección...]
+La vida moral cristiana es un proceso de progresiva santificación. Esto se expresa en el Nuevo Testamento como crecimiento en la unión con Cristo (Ef 4, 13-15), o como una mayor identificación con la voluntad de Dios Padre (Rm 12, 2; Col 1, 9-12), o, más simplemente, como desarrollo de la caridad, que es la virtud más propiamente unitiva. San Pablo a los filipenses: «Pido también que vuestro amor crezca cada vez más en perfecto conocimiento y en plena sensatez, para que sepáis discernir lo mejor, a fin de que seáis puros y sin falta hasta el día de Cristo» (Flp 1, 9-10): la caridad es el motor inspirador del conocimiento y del discernimiento moral del cristiano, que ordena toda su conducta a la glorificación de Dios. En la Primera Carta a los Tesalonicenses se añade que la caridad, como principio de la vida cristiana, procede de Dios (1 Ts 3, 12-13).
 
-## SPICQ, Teología moral del Nuevo Testamento (2 vol.), Eunsa, Pamplona 1970 y 1973; W.
+La creciente identificación con Cristo y con el Padre, a través de la caridad, comporta cumplir los mandamientos. Los Evangelios contienen muchos discursos morales de Jesús, entre los cuales la tradición ha mostrado predilección por el «Sermón de la montaña», que tiene como núcleo «las bienaventuranzas»; estas, junto con el «mandamiento del amor» y la confirmación del «decálogo», se pueden considerar como el resumen del obrar moral cristiano (Mt 5, 48; St 1, 4; 1 P 1, 15-16).
 
-[Contenido de esta sección...]
+La conducta moral no es, sin embargo, un conjunto de actividades sueltas: no consiste solo en hacer ciertas cosas y no hacer otras. El cristiano debe, más bien, trazar por sí mismo una línea de conducta, un programa de vida, que actualice en sus concretas circunstancias personales, familiares, profesionales y sociales la vida en Cristo, a la que ha sido llamado y en la que encuentra su plenitud humana y cristiana. La vida en Cristo es el criterio último con el que han de ser congruentes las acciones, las relaciones humanas y sociales, el modo de buscar y usar las cosas y los bienes. De ahí deriva una coherencia en toda la conducta personal, que da lugar a la *unidad de vida* del cristiano (Presbyterorum ordinis, n. 14; Christifideles laici, nn. 30, 34, 59 y 60).
 
-## Sal 50, 14.23; 1 Tm 1, 17; Hb 13, 15.
+No es posible dividir la vida del cristiano en dos grandes sectores dominados, respectivamente, por la obediencia y por la libertad, como si al primero pertenecieran las acciones mandadas o prohibidas por las normas morales, y al segundo las acciones que no entran en ninguna norma, en las cuales sería posible moverse «libremente» en busca de objetivos meramente humanos. En realidad, quien ha sido «tocado» por la gracia de Dios concibe toda su existencia y sus actividades como medio de unión con Dios a través de Cristo: «Tanto si coméis, como si bebéis, o hacéis cualquier otra cosa, hacedlo todo para gloria de Dios» (1 Co 10, 31). Aunque existen actividades que, consideradas en abstracto, son moralmente indiferentes, y aunque no siempre se consigue referir actual y explícitamente todas las acciones a Cristo, la dinámica intrínseca de la vida cristiana tiende por sí misma a hacer siempre más actual y consciente la finalidad suprema del amor a Dios. De la caridad filial, como «fuente de agua que salta hasta la vida eterna», promana todo el obrar moral del cristiano, que merece un progresivo aumento de la caridad misma y de la unión con Cristo.
 
-[Contenido de esta sección...]
+Como escribe San Cipriano, «la voluntad de Dios es la que Cristo cumplió y enseñó. Es la humildad en la conducta, la firmeza en la fe, el respeto en las palabras, la rectitud en las acciones, la misericordia en las obras, la moderación en las costumbres; es no hacer agravio a los demás y tolerar los que nos hacen a nosotros [...]; es mantenernos inseparablemente unidos a su amor, estar junto a su cruz con fortaleza y confianza [...] esto es querer ser coherederos de Cristo, esto es cumplir el precepto de Dios y la voluntad del Padre».
 
-## La vida cristiana informar también la dimensión social y política de la
+El amor y la unión con el Señor, que conllevan el cumplimiento de su voluntad, se alimentan, en primer lugar, a través de un conjunto de comportamientos en relación con Dios, entre los que resaltan: la adoración; la oración; la aceptación de la cruz de Cristo; la acción de gracias; la petición; la docilidad; la conducta propia de un hijo de Dios que lleva a un confiado abandono en la divina providencia; la humildad; la penitencia por los pecados. Todo ello favorecerá la identificación con Cristo también en el cumplimiento de las propias obligaciones terrenas: esforzarse por hacer bien todas las cosas, santificar la vida cotidiana, dominar el mundo con justicia y santidad para la gloria de Dios, realizar todas las actividades con perfección humana, aprovechar el tiempo, ser responsable en los propios quehaceres, vivir la laboriosidad, cumplir acabadamente los deberes familiares, sociales, cívicos y profesionales, desarrollar todas las tareas con plenitud y perfección incluso en los detalles, no adaptarse a una mentalidad mundana, trabajar sin pensar solo en la propia ganancia o gloria terrena.
 
-[Contenido de esta sección...]
+La vida cristiana debe informar también la dimensión social y política de la vida humana. El magisterio ha recordado dos tentaciones a las que los fieles laicos no siempre han sabido sustraerse: la tentación de reservar un interés tan marcado por los servicios y las tareas eclesiales que frecuentemente se ha llegado a una práctica dejación de sus responsabilidades específicas en el mundo profesional, social, económico, cultural y político; y la tentación de legitimar la indebida separación entre fe y vida, entre la acogida del Evangelio y la acción concreta en las más diversas realidades temporales y terrenas. La atención hacia la persona humana implica asimismo la sensibilidad de saber juzgar, en relación al bien de la persona y de las personas, el valor de la organización social y política en la cual vivimos; este juicio ha de estar también en condiciones de avanzar propuestas concretas dirigidas a mejorar las condiciones sociales y políticas.
 
-## Catecismo, nn. 302-314.
+Quizá hasta un pasado reciente la moral ha insistido en los deberes individuales y ha minusvalorado los aspectos sociales. En una sociedad interdependiente y dinámica como la nuestra, el ámbito social cobra un especial relieve en la conducta moral. El Concilio Vaticano II pone en guardia para «que no exista nadie que, despreocupado del curso de las cosas e indolente en su inercia, se contente con una ética meramente individualista [...]. Sea para todos algo inviolable considerar y observar las relaciones sociales como uno de los deberes principales del hombre de hoy» (Gaudium et spes, n. 30).
 
-[Contenido de esta sección...]
+### b) Los sacramentos
 
-## Gaudium et spes, n. 52.
+La tarea de conformar todas las dimensiones de la vida humana con las virtudes teologales y morales, convirtiéndolas en medio de unión con Cristo, no nace del hombre ni puede ser sostenida con las solas fuerzas humanas. Así lo enseña Jesús y el Apóstol: «Todo lo puedo en Aquel que me conforta» (Flp 4, 13). Por eso debemos exponer los principales medios —sacramentales y no sacramentales— dispuestos por el Señor.
 
-[Contenido de esta sección...]
+Según el carácter sacramental de la economía salvífica, el don inicial de la vida cristiana se obtiene *ex opere operato* con el bautismo y se afianza con la confirmación. Estos dos sacramentos y también el orden sagrado pueden ser recibidos solamente una vez en la vida. El matrimonio y la unción de los enfermos otorgan la capacidad de vivir cristianamente determinadas situaciones, pero pueden ser administrados limitadamente. En cambio, los otros dos sacramentos —la penitencia y la Eucaristía—, por sus efectos y por la frecuencia con que pueden recibirse, son por excelencia los medios de santificación (Sacrosanctum Concilium, n. 59; Lumen gentium, n. 11).
 
-## Según el carácter sacramental de la economía salvífica , el don inicial de
+«Cristo instituyó el sacramento de la Penitencia en favor de todos los miembros pecadores de su Iglesia, ante todo para los que, después del Bautismo, hayan caído en el pecado grave y así hayan perdido la gracia bautismal y lesionado la comunión eclesial. El sacramento de la Penitencia ofrece a estos una nueva posibilidad de convertirse y de recuperar la gracia de la justificación» (Catecismo, n. 1446). Incluso para quienes lo reciben sin haber cometido pecado mortal, este sacramento acrecienta la gracia, aumenta las fuerzas espirituales para el combate cristiano, sana progresivamente la concupiscencia y las heridas causadas por los pecados de la vida pasada, contribuye a la formación de la conciencia y es ocasión de eficaz dirección espiritual. No es solo un remedio contra las culpas graves, sino también un importante medio de santificación y de unión con Cristo; por eso la Iglesia aconseja la práctica de la confesión frecuente (CIC, can. 988, 2; Catecismo, n. 1458).
 
-[Contenido de esta sección...]
+El ápice de la vida sacramental es la Eucaristía. El amor de Jesús a los hombres se manifiesta sobre todo en su Pasión y Muerte: «Nadie tiene amor más grande que el de dar uno la vida por sus amigos» (Jn 15, 13); y este amor lo llevó a «inventar» un sacramento que fuese memorial de su Pasión, Presencia entre los hombres y Alimento de una singular identificación. «Nuestro Salvador, en la última Cena, la noche que fue entregado, instituyó el sacrificio eucarístico de su cuerpo y su sangre, para perpetuar por los siglos, hasta su vuelta, el sacrificio de la cruz y confiar a su Esposa amada, la Iglesia, el memorial de su muerte y resurrección, sacramento de piedad, signo de unidad, vínculo de amor, banquete pascual en el que se recibe a Cristo, el alma se llena de gracia y se nos da la prenda de la gloria futura» (Catecismo, n. 1323). En la Eucaristía está encerrado todo el bien espiritual de la Iglesia; se configura como el centro y la raíz de la evangelización y de toda la vida cristiana. Es centro y cima de la vida cristiana porque a ella se dirige todo lo que la Iglesia y los fieles han de realizar; y es también su raíz y su fuente en cuanto contiene no solo la gracia, sino al mismo Autor de la gracia. Por consiguiente, toda la vida del cristiano ha de ser eminentemente eucarística.
 
-## Desiderio desideravi, 29-VI-2022.
+El Santo Sacrificio no es solo el recuerdo de un acontecimiento pasado, sino un memorial, una representación —re-presentar: hacer de nuevo presente— del acontecimiento salvífico de la cruz, que se renueva y se aplica a lo largo de la historia. La Misa, en su conexión con el Sacrificio redentor, es el acto culminante de la historia de la salvación y para cada persona el acto culminante de la propia salvación y santidad. El compromiso de santidad está íntimamente relacionado con la participación en el Sacrificio eucarístico: lo que el cristiano quiere imitar en su propia vida es lo que Cristo hace en la Misa, por lo que participar fructuosamente implica el compromiso de ofrecer la propia vida al Padre, tanto durante la celebración como después, en una vida cotidiana coherente con el misterio celebrado. La Iglesia recomienda la asistencia frecuente a la Misa y pide a todos los fieles que participen al menos semanalmente los domingos (Dies Domini, nn. 46-49).
 
-[Contenido de esta sección...]
+Un segundo aspecto de la Eucaristía es la Comunión, por la que el cristiano se une íntimamente a Cristo y se identifica con Él: como tal identificación coincide con la meta de la santidad, la santidad cristiana no puede prescindir de la Comunión asidua. La Eucaristía refuerza las energías humanas en el camino de la santidad, previene los peligros, las dificultades y los pecados, facilita la lucha ascética, es prenda de la vida eterna y consolida la unión entre los hombres. Conviene estar bien dispuestos para recibir la comunión con fruto y dar gracias al Señor con profundo fervor.
 
-## Enc. Ecclesia de Eucharistia, 11-IV-2003; SAN JOSEMARÍA ESCRIVÁ, Es Cristo que pasa, cit., n. 87.
+Finalmente, Jesús se encuentra verdadera, real y substancialmente presente en las especies eucarísticas. Esto explica que la Iglesia haya multiplicado los actos de culto eucarístico: visitas al Santísimo Sacramento, exposiciones y bendiciones, procesiones, congresos eucarísticos. «La Iglesia y el mundo tienen una gran necesidad del culto eucarístico. Jesús nos espera en este Sacramento del Amor. No escatimemos tiempo para ir a encontrarlo en la adoración, en la contemplación llena de fe y abierta a reparar las graves faltas y delitos del mundo. No cese nunca nuestra adoración» (San Juan Pablo II, Dominicae cenae, n. 3).
 
-[Contenido de esta sección...]
+### c) La oración
 
-## Exhort. ap. Sacramentum caritatis, nn. 72-76; FRANCISCO, Lett. Ap. Desiderio desideravi, n. 65.
+«No solo de pan vivirá el hombre, sino de toda palabra que procede de la boca de Dios» (Mt 4, 4): la vida cristiana requiere una atenta y dócil escucha de la palabra de Dios. Una de las últimas enseñanzas de Jesús fue: «Velad y orad, para no caer en tentación» (Mc 14, 38), y los primeros cristianos la cumplieron: «Perseveraban asiduamente en la doctrina de los apóstoles [...] y en las oraciones» (Hch 2, 42). La relación viva y personal con Dios —Padre, Hijo y Espíritu Santo— se consigue en la oración: esta consiste en estar en la presencia de Dios y en diálogo filial con Él. La llamada universal a la santidad se puede concretar en la llamada universal a la oración, a la familiaridad amorosa con el Señor, que invita incesantemente a cada hombre a un misterioso pero real encuentro en la oración. La plegaria de los cristianos, como la de Cristo, implica la plena adhesión de la voluntad humana a la amorosa voluntad del Padre; requiere la conversión y la pureza de corazón, la confianza y la audacia filial, la humildad, la paciencia y la perseverancia (Catecismo, nn. 2600-2615).
 
-[Contenido de esta sección...]
+Esto es lo que se llama contemplación, o sea, tener la «mirada» de la fe fija en Jesús, para conocer mejor su querer y para identificarse más y más con Él; esta contemplación no exige la fuga mundi, al contrario, se puede y se debe realizar en la vida ordinaria y por medio de las actividades terrenas: «Cuando nuestro espíritu va en busca de los bienes temporales para hallar en ellos su reposo, queda esclavizado a ellos. Pero cuando los busca en orden a la bienaventuranza, no es arrastrado hacia abajo por ellos, sino que, más bien, es él quien los eleva a un nivel superior» (S.Th., II-II, q. 82, a. 3, ad 2), y los utiliza para establecer en todo momento un diálogo amoroso con el Señor.
 
-## GREGORIO NACIANCENO, Orationes Theologicae, 1, 4: PG 36, 15 C).
+El hombre tiende por naturaleza al diálogo, a la comunicación; la verdadera vida cristiana ha de aspirar a una continua conversación con el Señor, real, profunda y generosa: así la persona evita el egocentrismo y se hace más teocéntrica, refuerza la amistad divina, desarrolla la caridad, rectifica la intención, adquiere serenidad y objetividad, fortalece su obrar moral. Ninguna actividad, aun terrena y material, impide el trato constante con Dios: basta una invocación (jaculatorias), la mirada a una imagen sagrada, una sonrisa destinada al Señor, un pequeño sacrificio, el ofrecimiento a Dios de la propia actividad. Estos actos no surgen espontáneamente: es necesario un esfuerzo personal perseverante. Todos los santos y autores de espiritualidad hablan de las dificultades en la oración —desánimos, activismo, distracciones, arideces, falta de fe, acidia— y todos recuerdan su importancia y necesidad en el desarrollo de la vida cristiana.
 
-[Contenido de esta sección...]
+Para mantener esta continua intimidad con Dios es conveniente dedicar ratos concretos a la meditación y a la plegaria; es este un deber —como el de la santidad— que atañe a todo cristiano: «preciso orar siempre sin desfallecer» (Lc 18, 1). La realidad existencial cristiana confirma la necesidad de determinados actos de piedad, entre los que resaltan los actos litúrgicos. El Vaticano II, hablando a los laicos, indica que «solamente con la luz de la fe y la meditación de la palabra de Dios es posible reconocer siempre y en todo lugar a Dios, en quien vivimos, nos movemos y existimos (Hch 17, 28); buscar su voluntad en todos los acontecimientos, ver a Cristo en todos los hombres, tanto cercanos como extraños; juzgar rectamente sobre la verdadera significación y el valor de las realidades temporales, consideradas en sí mismas y en orden al fin del hombre» (Apostolicam actuositatem, n. 4).
 
-## Concilio Vaticano II , por la enc. Redemptoris Mater124 y el Catecismo de la
+Las prácticas de piedad recomendadas por los distintos autores coinciden en algunos elementos esenciales: 1) la oración litúrgica y los sacramentos; 2) la lectura y la meditación de la Sagrada Escritura, de libros espirituales y de la vida de los santos; 3) la práctica metódica de la meditación y de la oración mental (Santa Teresa de Jesús: «No es otra cosa oración mental, a mi parecer, sino tratar de amistad, estando muchas veces tratando a solas con quien sabemos nos ama», Libro de la Vida, cap. 8, 5); 4) la oración vocal; 5) los exámenes de conciencia. Estas prácticas no son un fin en sí mismas ni han de ser vividas de modo inconexo; se trata de adquirir una síntesis vital que ayude a descubrir la presencia divina en cada situación de la propia vida: «Los ayunos, las vigilias, la meditación de las Escrituras, la desnudez y la privación de toda riqueza no constituyen por sí mismas la perfección, sino los instrumentos de la perfección, pues el fin del esfuerzo no consiste en estas cosas, que son, en cambio, medios para llegar al fin» (San Juan de la Cruz).
 
-[Contenido de esta sección...]
+### d) La Cruz
 
-## Iglesia Católica .125
+Jesús «decía a todos: Si alguno quiere venir detrás de mí, que se niegue a sí mismo, que tome su cruz cada día, y que me siga» (Lc 9, 23). Todos los discípulos del Señor deben llevar la cruz cada día; más aún, la cruz es lo que distingue a los que son cristianos auténticos de los que no lo son: «El mensaje de la cruz es necedad para los que se pierden, pero para los que se salvan, para nosotros, es fuerza de Dios» (1 Co 1, 18). Difícilmente puede darse una vida cristiana coherente sin la disponibilidad a morir con Jesús, a completar en la propia carne lo que falta a la Pasión de Cristo. Es la abnegación o mortificación cristiana: su objetivo principal es la identificación con el Señor, pero esta identificación requiere la renuncia de sí mismo, del propio yo. «El camino de la perfección pasa por la cruz. No hay santidad sin renuncia y sin combate espiritual (cfr. 2 Tm 4). El progreso espiritual implica la ascesis y la mortificación que conducen gradualmente a vivir en la paz y el gozo de las bienaventuranzas» (Catecismo, n. 2015). Por eso la Iglesia ha establecido algunos tiempos concretos de práctica penitencial y recomienda vivamente las privaciones voluntarias como el ayuno y la limosna (CIC, cann. 1249-1253); además cada uno puede y debe buscar en su vida cotidiana prácticas adecuadas para unirse a la cruz de Jesús: mortificación de los sentidos y de la imaginación, de la inteligencia y de la voluntad, esfuerzo para servir a los otros y para realizar con perfección los propios deberes, aceptación alegre de las contrariedades.
 
-[Contenido de esta sección...]
+## 5. La Virgen María en la santificación del cristiano
 
-## La mediación de María tiene todas las notas que son propias del actuar materno:
+Sin querer retomar los contenidos del tratado dogmático sobre la Virgen María, resulta necesario poner de relieve la esencial dimensión mariana de la vida cristiana. La función de María en la vida de la Iglesia y de cada uno de los cristianos deriva de su singular unión con Cristo y, en último término, de su maternidad divina. «Por su total adhesión a la voluntad del Padre, a la obra redentora de su Hijo, a toda moción del Espíritu Santo, la Virgen María es para la Iglesia el modelo de la fe y de la caridad» (Lumen gentium, n. 61). Pero no termina aquí su función, porque María «colaboró de manera totalmente singular a la obra del Salvador por su fe, esperanza y ardiente amor, para restablecer la vida sobrenatural de los hombres. Por esta razón es nuestra madre en el orden de la gracia» (LG, n. 61). María es verdaderamente Madre espiritual de los cristianos y, en relación con nosotros, ejercita una constante y eficaz mediación materna, doctrina repetidamente propuesta por los Romanos Pontífices, por el Concilio Vaticano II, por la encíclica Redemptoris Mater y por el Catecismo.
 
-[Contenido de esta sección...]
+La mediación maternal de María nace del beneplácito de Dios y «brota de la sobreabundancia de los méritos de Cristo, se apoya en su mediación, depende totalmente de ella y de ella saca toda su eficacia; favorece, y de ninguna manera impide, la unión inmediata de los creyentes con Cristo» (LG, n. 60). Lo que la Iglesia entiende por mediación de María es que, según el designio de Dios, «incluso después de su Asunción a los cielos [...] por su múltiple intercesión sigue obteniéndonos los dones que nos aseguran la salvación eterna» (LG, n. 62). María recibió de Jesús una maternidad espiritual que tiene como fin otorgar la vida sobrenatural, mantenerla y hacerla madurar en los cristianos.
 
-## Esposa fecunda del Espíritu Santo– no está bastante formada en los corazones.
+En la cruz, Cristo experimentó el sufrimiento del abandono previsto por el designio redentor del Padre: «Dios mío, Dios mío, ¿por qué me has desamparado?» (Mt 27, 46). El precio a pagar por nuestros pecados apareció en toda su pesadez. Sin embargo, en aquel momento el Padre no privó al Hijo del apoyo de su Madre, que estaba «junto a la cruz de Jesús» (Jn 19, 25). Dándonos a María por Madre, Cristo parece que quiere explícitamente confirmar que nadie de cuantos seguirán sus huellas quedará privado de la presencia consoladora y maternal de la Virgen. A partir de aquel momento, María pasa a ser para todos los cristianos refugio siempre alcanzable, motivo de segura esperanza, presencia que nunca abandona.
 
-[Contenido de esta sección...]
+El Concilio Vaticano II subraya que María es también el modelo que la Iglesia y los cristianos deben imitar. «La Iglesia en la Santísima Virgen llegó ya a la perfección, sin mancha ni arruga (cfr. Ef 5, 27). En cambio, los creyentes se esfuerzan todavía en vencer el pecado para crecer en la santidad. Por eso dirigen sus ojos a María, que resplandece ante toda la comunidad de los elegidos como modelo de todas las virtudes» (LG, n. 65). María es un preclaro espejo de vida moral: «Acogiendo y meditando en su corazón acontecimientos que no siempre puede comprender (cfr. Lc 2, 19), se convierte en el modelo de todos aquellos que escuchan la palabra de Dios y la cumplen (cfr. Lc 11, 28)».
 
-## Santísima Virgen, n. 164: Obras, BAC, Madrid 1984, pp. 345-346.
+A la protección maternal y al ejemplo que nos ofrece María, el cristiano corresponde confiándose enteramente a Ella. «La dimensión mariana de la vida de un discípulo de Cristo se manifiesta de un modo especial precisamente mediante esta entrega filial respecto a la Madre de Dios, iniciada con el testamento del Redentor en el Gólgota. Entregándose filialmente a María, el cristiano, como el apóstol Juan, acoge "entre sus cosas propias" a la Madre de Cristo y la introduce en todo el espacio de su vida interior, es decir, en su yo humano y cristiano» (Redemptoris Mater, n. 45).
 
-[Contenido de esta sección...]
+Desde el punto de vista práctico, conviene subrayar que el abandono en María constituye el camino más fácil, más rápido y más seguro para alcanzar la unión siempre creciente con Cristo. Son dignas de atenta reflexión las palabras de San Luis María Grignion de Montfort: «Una de las razones que explica por qué son tan pocas las almas que llegan a la madurez en Jesucristo es el que María [...] no está bastante formada en los corazones. Quien desee tener el fruto de vida —Jesucristo—, debe tener el árbol de vida que es María». Más sintéticamente lo afirma el santo patrono de los moralistas: «No se llega a Dios sino por medio de Jesucristo, ni se llega a Jesucristo sino por medio de María» (San Alfonso María de Ligorio, Las Glorias de María).
 
-## Francisco.
+## 6. La dimensión apostólica de la vocación cristiana
 
-[Contenido de esta sección...]
+La respuesta del cristiano a la llamada a la santidad comprende también la activa participación en la misión de Cristo y de la Iglesia: «La vocación cristiana, por su misma naturaleza, es también vocación al apostolado» (Apostolicam actuositatem, n. 2). No se trata ahora de las tareas derivadas de los diversos ministerios eclesiásticos, sino del empeño apostólico intrínsecamente ligado al seguimiento de Cristo, propio de todos los fieles, también de los fieles laicos, como ha puesto de relieve el decreto Apostolicam actuositatem del Concilio Vaticano II y, más recientemente, las exhortaciones apostólicas Christifideles laici de San Juan Pablo II y Evangelii gaudium de Francisco.
 
-## Cfr. cap. IX, § 1 e).
+El fin de la Iglesia es «hacer partícipes a todos los hombres de la redención salvadora, y, por medio de estos hombres, ordenar realmente todo el mundo hacia Cristo» (Apostolicam actuositatem, n. 2). Toda la actividad de la Iglesia ordenada a este fin se llama «apostolado». La llamada radical al apostolado deriva no de un ministerio o de particulares circunstancias, sino de la unión con Cristo Cabeza (AA, n. 3), por lo que todos los fieles contribuyen al apostolado cristiano, aunque de modo diverso según su situación y circunstancias. No es posible separar el seguimiento de Cristo del apostolado, «como no es posible separar en Cristo su condición de Dios-Hombre y su misión de Redentor. El Verbo quiso encarnarse para salvar a los hombres, para hacerlos uno con Él. [...] Para el cristiano, el apostolado es algo inherente a su condición». El apostolado cristiano es siempre evangelización y santificación: se dirige «a manifestar al mundo el mensaje de Cristo con palabras y obras y a comunicar su gracia» (AA, n. 6).
 
-[Contenido de esta sección...]
-
-## Veritatis splendor, n. 107.
-
-[Contenido de esta sección...]
-
-## Ibídem.
-
-[Contenido de esta sección...]
+El apostolado se realiza espontáneamente cuando el fiel procura ordenar las propias actividades buscando ante todo la unión con Cristo. El clero lo realiza a través del ministerio de la palabra y de los sacramentos; los religiosos, con su oración y su testimonio escatológico; los fieles laicos, a través de la vida cristiana, la palabra, el servicio fraterno, etc. Tarea específica de los laicos es la animación cristiana del orden temporal. El apostolado cristiano comporta también «el anuncio y la propuesta moral» (Veritatis splendor, n. 107): mostrar mediante el ejemplo y las palabras la vía que se debe seguir para ser discípulo de Cristo. «De la misma manera, y más aún, que para las verdades de fe, la nueva evangelización que propone los fundamentos y contenidos de la moral cristiana manifiesta su autenticidad y, al mismo tiempo, difunde toda su fuerza misionera, cuando se realiza a través del don no solo de la palabra anunciada, sino también de la palabra vivida. En particular, es la vida de santidad, que resplandece en tantos miembros del pueblo de Dios frecuentemente humildes y escondidos a los ojos de los hombres, la que constituye el camino más simple y fascinante en el que se nos concede percibir inmediatamente la belleza de la verdad, la fuerza liberadora del amor de Dios, el valor de la fidelidad incondicionada a todas las exigencias de la ley del Señor» (Veritatis splendor, n. 107). Esta realidad ofrece un característico punto de vista en el estudio y la enseñanza de la teología moral que nunca debe olvidarse.

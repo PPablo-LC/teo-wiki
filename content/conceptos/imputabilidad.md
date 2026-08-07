@@ -1,15 +1,15 @@
 ---
 type: Concepto Teológico
-title: Imputabilidad
+title: "Imputabilidad"
 tags: ["moral", "derecho_canónico"]
 
-timestamp: 2026-05-26
+timestamp: 2026-08-06
 description: "Responsabilidad moral y jurídica de una persona por sus propios actos."
 ---
 # Imputabilidad
 
 > Área: Moral / Derecho Canónico
-> Última actualización: 2026-05-26
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -28,6 +28,12 @@ El CEC §1731-1738 expone la doctrina sobre la libertad humana y la imputabilida
 ### Según el Código de Derecho Canónico (CIC)
 
 Los cc. 1321-1330 regulan la imputabilidad penal. Nadie puede ser castigado por la comisión de un delito a no ser que la ley penal esté vigente y la violación sea imputable por dolo o culpa (c. 1321 §1). La imputabilidad se presume a no ser que conste lo contrario (c. 1321 §3). Se excluye la pena por falta de imputabilidad en casos de: violencia física, caso fortuito, miedo grave, necesidad grave, legítima defensa, provocación (cc. 1323-1324).
+
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La voluntariedad de una acción comporta la voluntariedad de sus efectos. Cinco principios ayudan a resolver los casos más frecuentes de imputabilidad moral de las consecuencias: 1) somos responsables de las consecuencias negativas previsibles de nuestras malas acciones, aunque no se hayan previsto (el ladrón es responsable de la muerte de la persona que cae al ser robada, aunque solo quería robar); 2) las consecuencias buenas de las malas acciones no pueden adscribirse como mérito (el ladrón que evita un atentado terrorista mientras roba); 3) no somos responsables de las consecuencias negativas no previsibles de nuestras buenas obras, si realmente no se podían prever (el juez que condena a prisión no es responsable del suicidio del delincuente); 4) no somos responsables de las consecuencias negativas previstas de la omisión de una acción inmoral (quien rechaza un soborno no responde de los actos ilícitos del corruptor); 5) no se es culpable de las consecuencias negativas previstas de las buenas acciones, siempre que se cumplan las condiciones de la acción de doble efecto (Ele_Xto_Stos, Cap. VI, §5).
+
+Imputar significa atribuir una acción a un hombre. La imputabilidad es la cualidad que tiene una acción de ser atribuible a su autor, en virtud de la cual le puede ser atribuida como mérito o culpa. Solo las acciones libres son moralmente imputables: el hombre puede responder solo de las acciones que ha proyectado y organizado. La imputabilidad moral no coincide exactamente con la jurídica (el resarcimiento de un daño involuntario puede tener imputabilidad jurídica sin culpa moral) (Ele_Xto_Stos, Cap. VI, §6).
 
 ## Distinciones importantes
 
@@ -48,3 +54,5 @@ La imputabilidad es condición para el [[pecado_mortal]] (que requiere plena adv
 - CEC §1731-1738, §1856-1863
 - CIC cc. 1321-1330
 - TPCr, tratado del acto humano
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VI, §5
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VI, §6

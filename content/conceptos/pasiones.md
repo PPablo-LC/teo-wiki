@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Pasiones
 tags: ["moral"]
 
-timestamp: 2026-06-12
+timestamp: 2026-08-06
 description: "Las pasiones son movimientos del apetito sensitivo que siguen a la aprehensión de los sentidos y que inclinan al hombre hacia el bien sensible o le apartan del mal sensible."
 ---
 # Pasiones
 
 > Área: Moral
-> Última actualización: 2026-06-12
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -57,7 +57,7 @@ Los tres grandes enemigos del alma —mundo, demonio y carne— actúan sobre la
 
 [TPCr, Parte III, Libro I; Cap. II-III]
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El «fondo endotímico» designa la profundidad del mundo afectivo e interior del hombre, aquella zona donde se juegan las disposiciones más íntimas de la persona. En este fondo se encuentran la sensibilidad, la afectividad y la emotividad, que constituyen las dimensiones más profundas de la vida pasional humana.
 
@@ -66,6 +66,14 @@ Siguiendo la comprensión tomista, las pasiones son movimientos del apetito sens
 La sensibilidad comprende los sentidos externos e internos y las tendencias naturales del cuerpo. La afectividad abarca las disposiciones profundas del corazón, inclinaciones afectivas y vínculos interpersonales. La emotividad se refiere a las reacciones espontáneas del ánimo ante las percepciones de bien o mal. Estas tres dimensiones se entrelazan en la experiencia humana y configuran el «fondo endotímico» que la gracia puede purificar y elevar.
 
 En el orden sobrenatural, la gracia no anula las pasiones sino que las ordena y transforma. Los dones del Espíritu Santo, especialmente el don de piedad y el don de temor de Dios, perfeccionan la sumisión de las pasiones al gobierno del Espíritu, de modo que las pasiones mismas pueden convertirse en impulsos del amor a Dios y al prójimo.
+
+Santo Tomás llama pasiones a los actos de los apetitos sensitivos. El concepto tomista de pasión no tiene el significado negativo que se le ha dado posteriormente: son pasiones todos los actos de los apetitos sensitivos (alegría, deseo, fuga), sean positivos o negativos, violentos o no, causados o no por la voluntad. La pasión es una componente normal de la vida humana, base motivacional frecuente de la acción. El término implica pasividad, pero el Aquinate le dedica amplio espacio por su importancia para la vida moral: las pasiones mueven al sujeto hacia objetivos convenientes, aquí y ahora, captados como bienes, y constituyen apoyo u oposición al bien global de la persona (Ele_Xto_Stos, Cap. V, §3).
+
+Las pasiones se distinguen según tres criterios: 1) su diversidad genérica se basa en la distinción de dos facultades apetitivas en la sensibilidad: el apetito concupiscible (impulso al placer, objeto: el bien sensitivo deleitable) y el apetito irascible (impulso agresivo, objeto: el bien deleitable difícil de conseguir o el mal difícil de evitar); 2) las diferencias entre los objetos según el bien y el mal y según la presencia o ausencia: deseo (bien ausente), gozo (bien presente), tristeza (mal presente), aversión (mal ausente); 3) solo para el irascible, el tipo de movimiento ante un mismo objeto: esperanza (bien arduo posible) o desesperación (bien imposible). Componiendo los tres criterios, Santo Tomás enumera: en el concupiscible, amor al bien y odio al mal; deseo y fuga; gozo y tristeza. En el irascible, esperanza y desesperación; audacia y temor; ira. Esta clasificación es extremadamente formal, pero el formalismo es intencional: el punto de vista tomista distingue la tarea que estos fenómenos plantean a la razón, pues es muy diverso el modo en que inciden sobre la libertad (por ejemplo, el consentimiento matrimonial dado por temor no es plenamente voluntario) (Ele_Xto_Stos, Cap. V, §3).
+
+La presencia de las pasiones es absolutamente normal y pertenece a la condición psicológica humana. Tampoco es exacto que las pasiones sean en sí mismas un obstáculo a la voluntariedad: las de intensidad normal son una de las motivaciones más frecuentes de las acciones voluntarias. No deben considerarse un enemigo que hay que combatir, sino parte del propio ser que se debe integrar y regular según el bien de la persona (Ele_Xto_Stos, Cap. V, §4).
+
+La presencia de las pasiones es absolutamente normal y pertenece a la condición psicológica humana: estuvieron presentes en la vida de los santos y en la de Cristo. Anormal sería su ausencia, característica de las personalidades psicopáticas. Los sentimientos y las pasiones estuvieron presentes en la vida de Cristo y de los santos, como parte normal de la condición psicológica humana (Ele_Xto_Stos, Cap. V, §4).
 
 ## Distinciones importantes
 
@@ -76,7 +84,7 @@ En el orden sobrenatural, la gracia no anula las pasiones sino que las ordena y 
 
 ## Relaciones doctrinales
 
-Las pasiones se relacionan con la [[templanza]] (las concupiscibles) y la [[fortaleza]] (las irascibles). Su ordenación es obra de las [[virtudes_morales]] y de los [[dones_del_espíritu_santo]]. La [[concupiscencia]] es la inclinación desordenada de las pasiones tras el pecado original. La [[lucha_contra_la_carne]] combate las pasiones desordenadas.
+Las pasiones se relacionan con la [[templanza]] (las concupiscibles) y la [[fortaleza]] (las irascibles). Su ordenación es obra de las [[virtudes_morales]] y de los [[dones_del_espíritu_santo]]. La [[concupiscencia]] es la inclinación desordenada de las pasiones tras el pecado original. La [[lucha_contra_la_carne]] combate las pasiones desordenadas. Se distinguen las [[pasiones_antecedentes]], las [[pasiones_consecuentes]] y la [[pasión_concomitante]] según su relación con la [[voluntad]], que ejerce sobre ellas un [[dominio_político_de_la_voluntad_sobre_pasiones]].
 
 
 ## Analizado para
@@ -96,4 +104,5 @@ Las pasiones se relacionan con la [[templanza]] (las concupiscibles) y la [[fort
 - SmTh Iª q.95 aa.2-3
 - SmTh IIIª q.14 aa.1-4
 - SmTh IIIª q.15 aa.2,4
-- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, cap. sobre las pasiones
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. V, §3
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. V, §4

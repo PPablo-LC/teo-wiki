@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Intención
 tags: ["teología_moral_—_antropología"]
 
-timestamp: 2026-06-05
+timestamp: 2026-08-06
 description: "La intención (intentio) es un acto de la [[voluntad]] por el que esta tiende hacia un fin, presuponiendo la ordenación de la [[razón]] que dirige algo hacia ese fin."
 ---
 # Intención
 
 > Área: Teología moral — Antropología
-> Última actualización: 2026-06-05
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -42,6 +42,20 @@ La intención es una de las tres fuentes de la moralidad de los actos humanos, j
 
 La intención es el acto de la voluntad por el que nos proponemos un fin. Se distingue del simple querer porque implica ordenación de algo al fin. Es una de las tres fuentes de la moralidad. La rectitud de la intención es esencial para la bondad moral del acto: uno puede hacer el bien materialmente pero obrar mal si su intención es desordenada. La intención puede ser actual o virtual; esta última basta para que el acto sea meritorio (TPCr, Parte I, Tratado de los actos humanos).
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+**§3 — La intención (concepto):**
+
+La intención es un acto elícito de la voluntad consistente en el querer eficaz de un fin distante, logrado mediante acciones finalizadas; el fin, objeto de la intención, se llama *finis operantis*; la intención es el acto finalizador por excelencia (Ele_Xto_Stos, Cap. VI, §3).
+
+Cuando el apetito se dirige inmediatamente a algo no hay intención de ese bien; solo cuando a través de lo que se quiere ahora se pretende llegar a un fin hay intención de ese fin (la medicina repugnante no es el fin, lo es la salud) (Ele_Xto_Stos, Cap. VI, §3).
+
+**§4c — La intención ulterior (*intentio superaddita*):**
+
+La intención ulterior (*intentio superaddita*) es una intención de segundo nivel que se añade sobre la intencionalidad constitutiva de la elección; la Veritatis splendor, n. 80, la distingue de la intencionalidad de la elección a la hora de valorar la acción moral (Ele_Xto_Stos, Cap. VI, §4c).
+
+La intencionalidad intrínseca de cada acto constituye su especie moral (*finis operis*); la intención ulterior (*finis operantis*) es una intencionalidad de segundo nivel, que la Veritatis splendor llama «intención ulterior» y el Catecismo latino *intentio superaddita* (Ele_Xto_Stos, Cap. VI, §4c).
+
 
 ## Distinciones importantes
 
@@ -64,3 +78,4 @@ La intención es una de las tres fuentes de la [[moralidad]] del [[acto_humano]]
 - [CEC §1752-1761]
 - [TPCr, Parte I, Tratado de los actos humanos]
 - SmTh Ia-IIae q.12 aa.1-5
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VI, §3, §4c

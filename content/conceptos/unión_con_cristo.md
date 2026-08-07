@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Unión con Cristo
 tags: ["cristología", "espiritualidad", "vida_cristiana", "gracia"]
 
-timestamp: 2026-07-15
+timestamp: 2026-08-06
 description: "Transformación del creyente en Cristo — configuración con Él por la gracia, hasta la unión transformante."
 ---
 # Unión con Cristo
 
 > Área: Cristología / Espiritualidad
-> Última actualización: 2026-07-15
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -52,6 +52,14 @@ El *Salterio de mis Días* de Marcial Maciel expone, en tono poético y personal
 
 El deseo de morir a sí mismo para vivir solo en Cristo —muerte del viejo hombre, vida del hombre nuevo— es el estrato más profundo de la mística legionaria. El «santo despego», que no es indiferencia sino libertad total para pertenecer a Cristo, es el fruto de una larga purificación (Salterio de mis Días, oración LXXXIX). El deseo de aniquilar el ego ante Dios prefigura, a nivel personal, la misma lógica de la encarnación: Cristo se vacía de sí mismo para llenar al hombre (Flp 2,7).
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La unión con Cristo es el bien más grande de que es capaz el hombre en este mundo: se alcanza a través de las virtudes teologales y los dones del Espíritu Santo, especialmente de la [[caridad]], y consiste esencialmente en el amor. La caridad expresa el valor moral de la persona y el grado de su unión con Cristo; esta unión mediante el amor está por encima de todos los valores humanos. De ella brota una verdadera contemplación de Cristo y de Dios: no los fenómenos místicos extraordinarios, sino el esfuerzo y la capacidad de descubrir a Dios en todo acontecimiento de la propia vida, incluso en medio de las muchas ocupaciones terrenas.
+
+La unión con Cristo, bien trascendente destinado a durar eternamente, se realiza o se frustra en la regulación moral de las diversas actividades humanas y de los diversos bienes personales y sociales: el valor profundo y definitivo del obrar humano se mide por su relación con la vocación personal a la unión con Cristo (Ele_Xto_Stos, Cap. II, §4b).
+
+En el Cap. III, §4 se precisa que el aspecto positivo de la conducta moral tiende a una unión siempre más íntima con Jesucristo: «Esta unión se llama "mística", porque participa del misterio de Cristo mediante los sacramentos —"los santos misterios"— y, en Él, del misterio de la Santísima Trinidad. Dios nos llama a todos a esta unión íntima con Él» (CEC, n. 2014). El Concilio Vaticano II presenta una visión sintética de los principales medios para alcanzar la unión con Cristo: «El don principal y más necesario es el amor con el que amamos a Dios sobre todas las cosas y al prójimo a causa de Él. Ahora bien, para que el amor pueda crecer y dar fruto en el alma como una semilla buena, cada cristiano debe escuchar de buena gana la palabra de Dios y cumplir su voluntad con la ayuda de su gracia, participar frecuentemente en los sacramentos, sobre todo en la Eucaristía, y en otras acciones sagradas y dedicarse constantemente a la oración, a la renuncia de sí mismo, a servir activamente a los hermanos y a la práctica de todas las virtudes» (LG, n. 42). El crecimiento en la santidad es, así, crecimiento en la unión con Cristo (Ele_Xto_Stos, Cap. III, §4).
+
 ## Distinciones importantes
 
 - **Unión habitual (gracia santificante) vs. unión actual (gracia actual)**: la primera es principio permanente; la segunda, acto concreto de unión que capacita para la acción virtuosa (CEC §2000-2003; TPCr).
@@ -79,3 +87,5 @@ El deseo de morir a sí mismo para vivir solo en Cristo —muerte del viejo homb
 - Marcial Maciel, Salterio de mis Días, oración LXXXIX [LC-Wik, archivo 09]
 - San Pablo, Carta a los Gálatas 2,20; Filipenses 2,5-8; 1 Corintios 12,12-27
 - San Juan de la Cruz, Noche Oscura; Llama de Amor Viva
+- Ele_Xto_Stos, Cap. II, §4b
+- Ele_Xto_Stos, Cap. III, §4

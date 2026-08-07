@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Virtud
 tags: ["moral"]
 
-timestamp: 2026-05-22
+timestamp: 2026-08-06
 description: "Disposición habitual y firme a hacer el bien. Permite a la persona no solo realizar actos buenos, sino dar lo mejor de sí misma."
 ---
 # Virtud
 
 > Área: Moral
-> Última actualización: 2026-05-22
+> Última actualización: 2026-08-06
 
 ## Definición
 Disposición habitual y firme a hacer el bien. Permite a la persona no solo realizar actos buenos, sino dar lo mejor de sí misma. Con todas sus fuerzas sensibles y espirituales, la persona virtuosa tiende hacia el bien, lo busca y lo elige a través de acciones concretas.
@@ -63,6 +63,16 @@ El Capítulo 1 de la Segunda Parte estudia el organismo sobrenatural: las virtud
 
 «La base de toda virtud es el dominio de sí mismo» [JvC, Cap. I]. Los romanos llamaban *virtus* tanto a la virtud como a la fuerza; esto significa que «no hay virtud sin esfuerzo y sin victoria alcanzada sobre nosotros mismos» [JvC, Cap. III]. De las acciones repetidas se forma el hábito: «de las acciones malas, nace la mala costumbre, el vicio; de las buenas, la buena costumbre, la virtud» [JvC, Cap. III]. Benjamín Franklin, que llevaba un tablero con trece virtudes (moderación, silencio, orden, decisión, economía, diligencia, sinceridad, justicia, sobriedad, pureza, tranquilidad de espíritu, educación y humildad), examinándose cada noche, es ejemplo del método para adquirir virtudes mediante el examen de conciencia y la lucha perseverante [JvC, Cap. III].
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+Virtud (aretê) es uno de los conceptos fundamentales de la antropología y de la ética filosófica griega, donde significa la excelencia moral del hombre; originariamente el término podía expresar las cualidades excelentes de cosas, animales, hombres o divinidades. Sócrates lo emplea con un significado restringido a la excelencia moral del hombre, entendida prevalentemente como un saber sobre el bien comunicable a través de la enseñanza. Platón desarrolla la clasificación de las cuatro virtudes (sabiduría, fortaleza, templanza y justicia); Aristóteles lleva la doctrina a su expresión clásica: la virtud es la perfección habitual y estable (héxis) de las facultades operativas humanas, tanto intelectuales (virtudes dianoéticas) cuanto apetitivas (virtudes éticas), y la vida según las virtudes es la vida mejor del hombre, la vida buena o felicidad. (Ele_Xto_Stos, Cap. VII, §1a)
+
+La lengua hebrea no posee ningún término que corresponda al griego aretê; la versión de los LXX traduce con esa palabra expresiones hebreas que significan casi siempre la acción gloriosa de Dios. En los libros de los Macabeos aretê significa fidelidad a Dios, valentía, virilidad y prudencia; el influjo griego es evidente en el libro de la Sabiduría, donde la virtud se contrapone al vicio y se relaciona con la inmortalidad (Sb 4, 1) y se mencionan las cuatro virtudes platónicas (Sb 8, 7). En el Antiguo Testamento el hombre virtuoso actúa con la potencia y el vigor (virtus) del Espíritu divino, como en el oráculo mesiánico de Is 11, 2. (Ele_Xto_Stos, Cap. VII, §1b)
+
+En el Nuevo Testamento aretê se usa poco (1 P 2, 9 y 2 P 1, 3: se aplica a Dios; Flp 4, 8 y 2 P 1, 5: al buen comportamiento de los cristianos); son, en cambio, numerosos los catálogos de virtudes (al menos catorce) y de vicios (veintiuno). La Escritura subraya que la iniciativa del esfuerzo por adquirir las virtudes no parte del hombre, sino de Dios: las virtudes cristianas son «frutos del Espíritu», y para el cristiano el origen y el fin de las principales virtudes es el mismo Dios (las virtudes teologales, alma de la vida cristiana: «vuestra fe operativa, vuestra caridad esforzada y vuestra constante esperanza», 1 Ts 1, 3). Numerosos textos evidencian que mediante las virtudes el cristiano camina según el ejemplo de Cristo (Ef 5, 2; Flp 2, 5; Col 3, 13.17). (Ele_Xto_Stos, Cap. VII, §1b)
+
+En el estudio de la virtud a la luz de la Escritura debe distinguirse la virtud como excelencia moral de la virtud como hábito, categoría de la antropología filosófica. Desde el primer punto de vista, la Biblia alude con frecuencia a la excelencia ética: el concepto de «justo» corresponde a quien practica las virtudes y no tanto a quien simplemente cumple las normas; la literatura sapiencial alaba o reprueba actitudes (el Sirácida: temor de Dios, paciencia, humildad, prudencia, templanza), y el Sermón de la montaña presenta el conjunto de actitudes morales del discípulo de Jesús. La vida cristiana no es un cúmulo de actos buenos desligados, sino una disposición interior unitaria que se concreta en cada acción; entre las cualidades morales enseñadas por la Escritura y las virtudes de la ética filosófica existe una notable convergencia: la perfección del carácter humano está presupuesta e incluida en la perfección del santo. (Ele_Xto_Stos, Cap. VII, §1b)
+
 ## Distinciones importantes
 - Virtud infusa (dada por Dios) ≠ virtud adquirida (por repetición de actos humanos)
 - Virtud teologal (tiene a Dios por objeto) ≠ virtud moral (ordena los medios al fin)
@@ -86,3 +96,4 @@ Se relaciona con [[virtudes_cardinales]], [[virtudes_morales]], [[virtudes_infus
 - [CEC §1803-1845]
 - [TPCr, Segunda Parte, Cap. 1; Tercera Parte, Libro II, Cap. 2]
 - Denzinger D-1344–D-1347 (Inocencio XII, *Cum alias*)
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §1a; §1b

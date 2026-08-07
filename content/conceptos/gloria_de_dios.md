@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Gloria de Dios
 tags: ["teología_bíblica", "dogmática"]
 
-timestamp: 2026-06-20
+timestamp: 2026-08-06
 description: "La gloria de Dios (*kabod* en hebreo, *doxa* en griego) designa la manifestación de la presencia y la majestad divinas, el honor debido a Dios por su naturaleza infinita."
 ---
 # Gloria de Dios
 
 > Área: Teología bíblica / Dogmática
-> Última actualización: 2026-06-20
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -53,6 +53,12 @@ Royo Marín establece que el fin de la vida cristiana es la gloria de Dios y la 
 
 La fórmula clásica «Gloria de Dios y santificación de las almas» resume el doble aspecto de un mismo fin: el aspecto teocéntrico (gloria de Dios) y el aspecto antropológico (santificación del hombre). La verdadera perfección cristiana consiste en vivir orientado hacia la gloria de Dios en todos los actos de la vida (TPCr, Parte I, Cap. 1).
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La gloria de Dios es el fin de las cosas creadas: Dios crea para comunicar su perfección y bondad. La razón natural concluye que Dios crea para manifestar su gloria, y las criaturas inteligentes lo alcanzan mediante una operación propia: el conocimiento intelectivo de Dios, que es su fin. «El mundo ha sido creado para la gloria de Dios» (Conc. Vaticano I: DS 3025); Dios no tiene otra razón para crear que su amor y su bondad (CEC, n. 293; GS, n. 12).
+
+La santificación o santidad moral constituye el fin último próximo de la vida humana y debe ordenarse a la comunión definitiva con Dios en la vida eterna y, en último término, a la gloria de Dios, fin último absoluto del hombre. Existe una íntima relación entre santidad y gloria en doble sentido: descendente (Dios comunica su gloria al hombre llamándolo a participar de su santidad) y ascendente (el hombre da gloria a Dios cuando corresponde a la gracia con una conducta santa, porque Dios es «glorificado en sus santos», 2 Ts 1, 10).
+
 ## Distinciones importantes
 
 - **Gloria interna o esencial**: la que Dios posee en sí mismo desde la eternidad, como conocimiento y amor de sí mismo en la Santísima Trinidad. Es infinita e inmutable.
@@ -75,3 +81,4 @@ Se relaciona con la [[presencia_de_dios]], la [[teofanía]], la [[gloria]], la [
 - [Sal 19,1; Jn 1,14; 17,5]
 - [ConcVatII, SC §5]
 - [TPCr, Parte I, Cap. 1]
+- [Ele_Xto_Stos, Cap. II, §1a y §3d]

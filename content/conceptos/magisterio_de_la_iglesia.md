@@ -50,6 +50,9 @@ El Libro III del CIC regula la función de enseñar de la Iglesia. El canon 747 
 
 Loring expone el Magisterio en el marco de la Iglesia fundada por Cristo. La Iglesia es depositaria de la doctrina revelada y de todos los medios de salvación. Cristo la fundó sobre Pedro como fundamento, dándole una autoridad suprema, universal y plena: «Lo que ates en la Tierra quedará atado en el cielo» (Mt 16,19) [PS §37,10]. El poder de atar y desatar es poder de legislar, y las llaves del Reino son signo de transmisión de autoridad. La Iglesia es jerárquica, no democrática; el poder de los jerarcas no proviene de la comunidad de los fieles. La verdad revelada «no es el producto de una Iglesia democrática, sino que es un don que viene de “lo alto”, de Dios» [PS §37,10]. Los sucesores de San Pedro, los Papas, han sido siempre reconocidos como Jefes de la Iglesia. «Cristo está donde está Pedro; y hoy Pedro está en el Papa de Roma» [PS §37,10].
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+El Magisterio de la Iglesia tiene el oficio de interpretar auténticamente la Palabra de Dios y de enseñar la verdad revelada: no está sobre la Palabra de Dios, sino a su servicio, custodiando y transmitiendo el depósito de la fe. Distingue tres grados de enseñanza según la naturaleza de la verdad y la autoridad con que se propone: definiciones de fe, doctrinas que se conservan fielmente y enseñanzas que han de acatarse con asentimiento religioso (cf. *Donum veritatis*). La teología moral se apoya en la Escritura inspirada, la [[tradición_apostólica]] y la enseñanza del Magisterio, de la que no puede separarse en [[comunión_eclesial]] (Cap. I, §3a).
 
 ## Distinciones importantes
 

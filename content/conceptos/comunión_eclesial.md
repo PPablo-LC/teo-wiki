@@ -66,6 +66,10 @@ Aparecida insiste en que la comunión eclesial implica:
 
 El documento presenta la comunión como **antídoto contra la división** y como camino para la conversión pastoral. La comunión eclesial se manifiesta en signos concretos: oración en común, relaciones fraternas, cooperación pastoral y mutua comunicación de bienes espirituales [Apa-CELAM-2007, Cap. 1, 5].
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La vida en Cristo y la comunión con la Iglesia son inseparables: «no se puede dividir a Cristo», que no puede ser partido entre quienes están en comunión con la Sede de Pedro y quienes se separan de ella. La Iglesia conserva y transmite íntegro el depósito de la fe —la Escritura, la Tradición y la enseñanza del [[magisterio_de_la_iglesia]]— mediante la [[sucesión_apostólica]], para que la comunión en la fe y en la vida de Cristo permanezca a través de los siglos. Permanecer en comunión eclesial pertenece a la sustancia misma de la vida cristiana, no a lo accidental (Cap. I, §1b).
+
 ## Relaciones doctrinales
 
 La comunión eclesial es el fundamento de la [[sucesión_apostólica]] y de la colegialidad episcopal. Se distingue de la mera asociación por su origen sobrenatural en la [[trinidad]].

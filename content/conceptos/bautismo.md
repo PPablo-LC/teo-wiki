@@ -234,6 +234,10 @@ El **Papa Benedicto XII** (1341), al responder a los errores de los armenios (D-
 
 Todo bautizado tiene derecho y obligación a participar plenamente en la liturgia en virtud del sacramento del bautismo; la participación plena, consciente y activa es exigida por la naturaleza misma de la liturgia (§386).
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+El bautismo es el sacramento del nuevo nacimiento: por él el hombre, libre de la culpa, es incorporado a Cristo crucificado y glorificado y regenerado para la participación en la vida divina (cf. Col 2,12). La primera gracia santificante recibida en el bautismo es una «auténtica participación en la naturaleza divina» que configura ontológicamente con Cristo. Es el fundamento de la [[vida_cristiana]], cuya sustancia —don de Dios— se recibe inicialmente con el bautismo y requiere la libre aceptación y colaboración de la persona; la gracia recibida es solo la semilla de una vida nueva que debe crecer hasta la plenitud de Cristo (Cap. I, §1a).
+
 ## Distinciones importantes
 
 - **Bautismo de agua vs. bautismo de deseo vs. bautismo de sangre**

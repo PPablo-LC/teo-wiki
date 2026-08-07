@@ -49,6 +49,10 @@ En la respuesta católica al protestantismo (FMC cap. XII:2), las virtudes teolo
 
 [FMC caps. I:1, IV:2, V:2, XII:2]
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+Las virtudes teologales —fe, esperanza y caridad— son los principios operativos inmediatos de la [[vida_cristiana]]. La vida cristiana tiene como principios operativos, además de las virtudes teologales, las virtudes morales infusas y los [[dones_del_espíritu_santo]]. La [[caridad]] unifica el conjunto del organismo sobrenatural, haciendo del amor el «lazo de la perfección». El Espíritu Santo, con sus dones, es el agente principal del progreso moral del hombre, que es su colaborador libre (Cap. I, §1a).
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[virtudes_infusas]]

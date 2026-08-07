@@ -1,15 +1,15 @@
 ---
 type: Concepto Teológico
-title: Acto humano
+title: "Acto humano"
 tags: ["teología_moral"]
 
-timestamp: 2026-06-05
+timestamp: 2026-08-06
 description: "El acto humano es aquel que procede de la [[voluntad]] libre e informada por el [[entendimiento]]."
 ---
 # Acto humano
 
 > Área: Teología moral
-> Última actualización: 2026-06-05
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -60,6 +60,14 @@ Los actos humanos se dividen en actos elícitos (los que proceden inmediatamente
 
 La Veritatis Splendor (§71-75) expone la doctrina de las fuentes de la moralidad de los actos humanos: objeto elegido, fin o intención, y circunstancias de la acción. El objeto moral determina la bondad o malicia de un acto humano (§71). «El fin no justifica los medios» (cf. §75). Existen actos que, por su objeto, son siempre gravemente ilícitos (*intrinsece malum*) con independencia de las circunstancias o las intenciones. La tradición de la Iglesia y el Catecismo (CEC §1753-1755) enseñan que hay acciones que nunca es lícito realizar, cualesquiera que sean las circunstancias (§76, §80). «La moralidad del acto humano depende sobre todo del objeto elegido racionalmente» (§72, citando CEC §1751). El objeto del acto es el bien hacia el que tiende la voluntad deliberadamente, y constituye el elemento primero de la fuente de la moralidad. El Concilio Vaticano II (GS §27) enumera actos intrínsecamente malos como toda violación de la integridad de la persona humana, los homicidios, el genocidio, el aborto, la eutanasia, etc. (§80). La razón del ser «intrínsecamente malo» de algunos actos reside en que su objeto elegido es incapaz de ordenarse a Dios y contradice la verdad sobre el bien de la persona (§78).
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+Los actos libres son el sujeto inmediato de la moralidad y de la inmoralidad, o más exactamente, sujeto de la moralidad es la persona en cuanto actúa libremente. La moralidad y la libertad tienen la misma extensión: todos los actos libres, y solo estos, son morales. Todo lo que en el hombre no se rige ineludiblemente por el instinto o por una necesidad causal debe ser proyectado por la razón práctica y adoptado por la libertad: eso es precisamente ser moral (Ele_Xto_Stos, Cap. VI, §1).
+
+El ser moral o inmoral es una cualidad específica y exclusiva del querer personal y de sus actos. Los actos de las otras facultades humanas, los impulsos instintivos, las pasiones y los sentimientos son morales o inmorales solo en cuanto imperados o consentidos libremente. Los actos de la voluntad libre y los de las otras facultades imperados o consentidos libremente se llaman en teología moral actos humanos, porque es propio de la persona humana tener la libertad de efectuar o no sus acciones, determinando deliberadamente su intencionalidad: son los actos de los que el hombre es dueño (Ele_Xto_Stos, Cap. VI, §1).
+
+Los actos humanos se distinguen de las tendencias y sentimientos, cuya intencionalidad determina el fondo endotímico, y también de los actos del hombre: procesos fisiológicos sin intervención de la voluntad (la digestión) o acciones puramente reflejas (alejar el brazo de un objeto caliente). Son procesos que ocurren en el hombre más que realizados por el hombre. Lo que cualifica el acto humano —y por tanto el acto moral— es que sea voluntario (Ele_Xto_Stos, Cap. VI, §1).
+
 ## Distinciones importantes
 
 - Acto humano: libre + consciente → moralmente imputable
@@ -83,3 +91,4 @@ Se conecta con la [[conciencia_moral]], la [[ley_moral]], la [[imputabilidad]] y
 - SmTh Ia-IIae q.6 aa.1-8
 - SmTh Ia-IIae q.18 aa.1-9
 - SmTh Ia-IIae q.21 aa.1-4
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VI, §1

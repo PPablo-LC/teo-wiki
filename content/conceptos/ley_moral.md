@@ -53,6 +53,12 @@ Santo Tomás desarrolla la doctrina de la ley en general en las cuestiones 90–
 
 La Veritatis Splendor (§72-78) enseña que las normas morales negativas («no matarás», «no cometerás adulterio», etc.) obligan siempre y en toda circunstancia, sin excepción. Las normas morales positivas («honra a tu padre y a tu madre», «ama a tu prójimo») expresan un deber general que admite gradaciones y excepciones. Esta distinción corresponde a la tradición constante de la Iglesia. Las normas morales universales y negativas tienen validez universal porque prohíben actos intrínsecamente malos, cuyo objeto es incapaz de ordenarse a Dios (§78). La encíclica reafirma la doctrina de la inmutabilidad de los mandamientos morales (§52-53): la ley natural no cambia en sus preceptos universales, aunque puede admitir determinaciones secundarias según las circunstancias (§53). La norma moral expresa la verdad del bien de la persona (§72).
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La ley moral natural contiene las exigencias fundamentales del obrar moral —expresadas de modo privilegiado en el Decálogo— y son accesibles a la razón humana. Jesús no viene a abolir la ley de Moisés, que encierra también estas exigencias de la ley moral natural, sino a llevarlas a plenitud (*plêrôsai*: completarlas, perfeccionarlas): el mensaje cristiano es novedad, pero una novedad sin ruptura, como cumplimiento. La moral cristiana excede la moral humana y la ley de Moisés, pero el bien del hombre se conserva y lleva a plenitud al elevarse al nivel de la [[filiación_divina|filiación divina]].
+
+El magisterio de la Iglesia es competente también en el ámbito de la ley moral natural, como guardián e intérprete de la Revelación (cuyo contenido ético comprende esas exigencias) y en virtud del mandato de Cristo de predicar la salvación; la [[veritatis_splendor]] reafirma la justa autonomía gnoseológica de la razón práctica, sin que ello implique una razón separada de la Inteligencia divina (Cap. I, §1c y §3b).
+
 ## Relaciones doctrinales
 
 La ley moral se fundamenta en la [[ley_eterna]] y se concreta en la [[ley_natural]] (participación de la eterna en la razón), la [[ley_divina]] (revelada), la [[conciencia_moral]] (aplicación personal), y el [[acto_humano]] (objeto de la ley).

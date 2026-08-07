@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Don de ciencia
 tags: ["ascética", "mística"]
 
-timestamp: 2026-05-21
+timestamp: 2026-08-06
 description: "El don de ciencia es uno de los [[siete_dones_del_espíritu_santo]] que, juntamente con el [[don_de_entendimiento]], perfecciona la virtud de la [[fe]]."
 ---
 # Don de ciencia
 
 > Área: Ascética / Mística
-> Última actualización: 2026-05-21
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -61,6 +61,10 @@ El don de ciencia da discernimiento:
 
 «Es fundamental para no equivocarse en la elección de los medios. Muchos cristianos, con buena voluntad, se equivocan por falta de este don. Piensan que ciertas cosas son buenas cuando en realidad son peligrosas para su alma. El don de ciencia ilumina el juicio práctico para discernir lo que verdaderamente conviene a la salvación y a la perfección.»
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+El don de ciencia es uno de los siete dones a través de los cuales el Espíritu Santo mueve a los fieles, enumerados a partir de Is 11, 2: consiste en valorar las cosas humanas en relación al último fin. (Ele_Xto_Stos, Cap. VII, §5b)
+
 ## Distinciones importantes
 
 - **Don de ciencia vs. ciencia natural**: la primera considera las criaturas en orden a Dios; la segunda por sus causas naturales
@@ -89,3 +93,4 @@ El don de ciencia da discernimiento:
 - Isaías 11,2-3
 - Concilio de Trento
 - Santo Tomás, S.Th., I-II, q. 68; II-II, q. 9
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §5b

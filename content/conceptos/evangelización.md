@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Evangelización
 tags: ["doctrina_social", "eclesiología"]
 
-timestamp: 2026-06-20
+timestamp: 2026-08-06
 description: "La evangelización es la misión fundamental de la Iglesia de anunciar y actualizar el Evangelio en todas las dimensiones de la vida humana, incluida la compleja red de las relaciones sociales."
 ---
 # Evangelización
 
 > Área: Doctrina Social / Eclesiología
-> Última actualización: 2026-06-20
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -82,6 +82,10 @@ Aparecida insiste en que la evangelización debe ser **nueva en su ardor, en sus
 
 El documento subraya que la evangelización tiene como centro el **kerigma** —el anuncio central de la muerte y resurrección de Cristo— que debe llegar a todos los ámbitos de la vida: la familia, la cultura, la educación, la economía, la política y la comunicación social. La evangelización es, ante todo, un **encuentro personal con Jesucristo** que transforma la vida y lleva a la alegría del Evangelio [Apa-CELAM-2007, Cap. 1, 3, 7].
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+[Ele_Xto_Stos, Cap. III, §6] El apostolado cristiano es siempre evangelización y santificación: se dirige «a manifestar al mundo el mensaje de Cristo con palabras y obras y a comunicar su gracia» (Apostolicam actuositatem, n. 6). Toda la actividad de la Iglesia ordenada a «hacer partícipes a todos los hombres de la redención salvadora, y, por medio de estos hombres, ordenar realmente todo el mundo hacia Cristo» se llama «apostolado» (AA, n. 2). La llamada radical al apostolado deriva no de un ministerio o de particulares circunstancias, sino de la unión con Cristo Cabeza (AA, n. 3). El apostolado cristiano comporta también «el anuncio y la propuesta moral» (Veritatis splendor, n. 107).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[doctrina_social_de_la_iglesia]], [[misión_de_la_iglesia]], [[nueva_evangelización]], [[promoción_humana]], [[justicia_social]], [[reino_de_dios]]
@@ -103,3 +107,4 @@ Se relaciona con [[doctrina_social_de_la_iglesia]], [[misión_de_la_iglesia]], [
 - [CEC §2419-2425]
 - [L_XIV-ClerRom, 19.02.2026]
 - [VJ, Cap. VIII]
+- Ele_Xto_Stos, Cap. III, §6

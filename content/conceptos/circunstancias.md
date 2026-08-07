@@ -1,15 +1,15 @@
 ---
 type: Concepto Teológico
-title: Circunstancias
+title: "Circunstancias"
 tags: ["teología_moral"]
 
-timestamp: 2026-06-05
+timestamp: 2026-08-06
 description: "Las circunstancias son condiciones extrínsecas a la sustancia del acto que lo afectan como accidentes. No pertenecen a la esencia del acto humano, pero lo modifican cualificándolo moralmente."
 ---
 # Circunstancias
 
 > Área: Teología moral
-> Última actualización: 2026-06-05
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -42,6 +42,13 @@ Las circunstancias son una de las tres fuentes de la moralidad de los actos huma
 
 Las condiciones para la moralidad de un acto humano son el objeto, el fin y las circunstancias. Estas últimas son elementos accidentales que rodean al acto y pueden modificar su bondad o malicia. Las circunstancias principales son las que enumera la tradición: quién, qué, dónde, con qué medios, por qué, cómo y cuándo. Aunque son accidentes del acto, el teólogo debe considerarlas porque determinan la especie moral cuando afectan a un orden especial de la razón (TPCr, Parte I, Tratado de los actos humanos).
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+Las circunstancias morales son componentes del acto humano de valor moral secundario: condiciones personales y ambientales, motivos secundarios, tiempo o lugar. La Biblia tiene en cuenta esta realidad (el óbolo de la viuda, la diversa gravedad de la culpa de Pilato y de los fariseos, la mayor responsabilidad de quien está constituido en autoridad) (Ele_Xto_Stos, Cap. VI, §4d).
+
+Siguiendo S.Th., I-II, q. 7, a. 3, se agrupan en dos categorías: 1) circunstancias relacionadas con el objeto moral: tiempo (*quando*), lugar (*ubi*), cantidad del objeto (*quantum*), efectos de la acción (*quid*); 2) circunstancias relacionadas con el agente: condición del agente (*quis*, el óbolo de la viuda), modo de actuar (*quomodo*), medios empleados (*quibus auxiliis*, el buen samaritano), motivos circunstanciales (*cur*) (Ele_Xto_Stos, Cap. VI, §4d).
+
+En sentido estricto, las circunstancias se comportan como accidentes del acto moral: aumentan o disminuyen la bondad o malicia sin convertir un acto bueno en malo ni un malo en bueno, y sin cambiar la especie moral (CEC, n. 1754). Pero ciertos detalles que parecen meras circunstancias cambian en realidad el objeto moral: si quien cae en fornicación está casado, el objeto moral ya no es la fornicación sino el adulterio. El Concilio de Trento prescribe que los pecados graves se manifiesten en la penitencia con las circunstancias capaces de cambiar la especie. Cuando una cualidad es aquello por lo que primeramente la acción se opone al orden moral, esa cualidad constituye el objeto moral (interrumpir una ceremonia religiosa cantando: la acción moral es la interrupción del culto, el canto es el medio). Las circunstancias que cambian la especie moral son elementos de la esencia misma del objeto moral (Ele_Xto_Stos, Cap. VI, §4d).
 
 ## Distinciones importantes
 
@@ -65,3 +72,4 @@ Las circunstancias modifican la [[bondad_y_malicia]] del [[acto_humano]] y puede
 - [TPCr, Parte I, Tratado de los actos humanos]
 - SmTh Ia-IIae q.7 aa.1-4
 - SmTh Ia-IIae q.18 aa.10-11
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VI, §4d

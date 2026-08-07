@@ -22,7 +22,7 @@ La teología moral no es una ética abstracta, sino que se fundamenta en los mis
 
 ## Perspectivas por fuente
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor insiste en que:
 

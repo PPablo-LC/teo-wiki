@@ -27,7 +27,7 @@ El bien de la vida humana no se reduce a un solo aspecto, sino que incluye múlt
 - **§1708-1712**: La dignidad de la persona humana y su llamada a la felicidad.
 - **§1716-1729**: El bien supremo y la beatitud.
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor presenta el bien de la vida humana como:
 

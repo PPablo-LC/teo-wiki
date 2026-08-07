@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Sacramentos
 tags: ["sacramental"]
 
-timestamp: 2026-06-14
+timestamp: 2026-08-06
 description: "Los sacramentos son signos sensibles instituidos por Nuestro Señor Jesucristo para significar y producir la [[gracia_santificante]] en nuestras almas."
 ---
 # Sacramentos
 
 > Área: Sacramental
-> Última actualización: 2026-06-26
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -181,6 +181,10 @@ PS define los sacramentos como «signos sensibles, instituidos por Cristo, para 
 
 - [D-843a-D-856]
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La tarea de conformar todas las dimensiones de la vida humana con las virtudes teologales y morales no nace del hombre ni puede ser sostenida con las solas fuerzas humanas: «Todo lo puedo en Aquel que me conforta» (Flp 4, 13). Los principales medios —sacramentales y no sacramentales— dispuestos por el Señor son los que se han de exponer. Según el carácter sacramental de la economía salvífica, el don inicial de la vida cristiana se obtiene *ex opere operato* con el bautismo y se afianza con la confirmación; estos dos sacramentos y también el orden sagrado pueden ser recibidos solamente una vez en la vida. El matrimonio y la unción de los enfermos otorgan la capacidad de vivir cristianamente determinadas situaciones, pero pueden ser administrados limitadamente. En cambio, los otros dos sacramentos —la penitencia y la Eucaristía—, por sus efectos y por la frecuencia con que pueden recibirse, son por excelencia los medios de santificación (SC, n. 59; LG, n. 11) (Ele_Xto_Stos, Cap. III, §4b).
+
 ## Distinciones importantes
 
 - **Sacramentos de muertos vs. de vivos**: según confieran la primera infusión de la gracia o un aumento de la anterior
@@ -216,3 +220,4 @@ Todos los sacramentos están ordenados a la [[eucaristía]] como a su fin y plen
 - PS §13
 - Concilio de Trento, D 844, D 849, D 850, D 852
 - Santo Tomás, S.Th., III, 60-90
+- Ele_Xto_Stos, Cap. III, §4b

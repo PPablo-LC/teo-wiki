@@ -27,7 +27,7 @@ La moral cristiana no anula la moral humana, sino que la cumple y eleva. El homb
 - **§1949-1953**: La ley moral natural como fundamento de la moralidad humana.
 - **§1954-1960**: La ley divina positiva como complemento de la ley natural.
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor desarrolla extensamente esta relación:
 

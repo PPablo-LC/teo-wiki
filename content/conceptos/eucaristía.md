@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Eucaristía
 tags: ["sacramental"]
 
-timestamp: 2026-07-25
+timestamp: 2026-08-06
 description: "La eucaristía es el sacramento y sacrificio del Cuerpo y Sangre de Nuestro Señor Jesucristo, realmente, verdadera y sustancialmente presente bajo las especies de pan y vino."
 ---
 # Eucaristía
 
 > Área: Sacramental
-> Última actualización: 2026-07-20
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -331,6 +331,12 @@ El **IV Concilio de Letrán** (1215), en D-430, define la transustanciación: «
 
 Thomas O'Loughlin (2017) trata la Eucaristía como el caso paradigmático de lo que su Principio I llama la «grieta» (*chasm*) entre el lenguaje litúrgico y la experiencia. Ejemplos que cita: «decimos "Bebed", pero no bebemos; decimos "Lo partió", pero usamos hostias individuales precortadas». Critica la pérdida de la dimensión de comensalidad [[comensalidad]] que ha sufrido la celebración: durante siglos la Eucaristía fue concebida casi exclusivamente como «altar» (lectura sacrificial) en lugar de como «mesa» (lectura convivial), perdiendo así su vínculo con las mesas cotidianas de los hogares. Subraya que la Eucaristía debe recuperar visiblemente el carácter de banquete compartido: el pan partido y compartido, el cáliz compartido (no retenido sólo por el sacerdote), la colecta en favor de los pobres como gesto litúrgico constitutivo. En el cap. 6 (Princ. VI), O'Loughlin argumenta que el fundamento creador de la Eucaristía está en la comensalidad humana misma: «si Jesús es Dios viniendo entre nosotros, entonces podemos estar codo a codo con lo divino cuando comemos». En el cap. 11 (Princ. IX), propone que la Eucaristía siga el «patrón de la Encarnación»: Cristo se revela codo a codo en la mesa (Lc 24,30-31 en Emaús; Lc 19,1-10 en casa de Zaqueo).
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+El ápice de la vida sacramental es la Eucaristía. El amor de Jesús a los hombres, manifestado sobre todo en su Pasión y Muerte, lo llevó a instituir un sacramento que fuese memorial de su Pasión, presencia entre los hombres y alimento de una singular identificación: «Nuestro Salvador, en la última Cena, la noche que fue entregado, instituyó el sacrificio eucarístico de su cuerpo y su sangre, para perpetuar por los siglos, hasta su vuelta, el sacrificio de la cruz y confiar a su Esposa amada, la Iglesia, el memorial de su muerte y resurrección, sacramento de piedad, signo de unidad, vínculo de amor, banquete pascual en el que se recibe a Cristo, el alma se llena de gracia y se nos da la prenda de la gloria futura» (CEC, n. 1323). En la Eucaristía está encerrado todo el bien espiritual de la Iglesia; se configura como el centro y la raíz de la evangelización y de toda la vida cristiana.
+
+El Santo Sacrificio no es solo el recuerdo de un acontecimiento pasado, sino un memorial, una representación —re-presentar: hacer de nuevo presente— del acontecimiento salvífico de la cruz, que se renueva y se aplica a lo largo de la historia. Finalmente, Jesús se encuentra verdadera, real y substancialmente presente en las especies eucarísticas. Esto explica que la Iglesia haya multiplicado los actos de culto eucarístico: visitas al Santísimo Sacramento, exposiciones y bendiciones, procesiones, congresos eucarísticos. «La Iglesia y el mundo tienen una gran necesidad del culto eucarístico. Jesús nos espera en este Sacramento del Amor. No escatimemos tiempo para ir a encontrarlo en la adoración, en la contemplación llena de fe y abierta a reparar las graves faltas y delitos del mundo. No cese nunca nuestra adoración» (San Juan Pablo II, *Dominicae cenae*, n. 3) (Ele_Xto_Stos, Cap. III, §4b).
+
 ## Analizado para
 
 - [[ali_ghaffari_courage]]
@@ -372,3 +378,4 @@ Thomas O'Loughlin (2017) trata la Eucaristía como el caso paradigmático de lo 
 - [SFrAs, Cust. 14-15 — Comunión necesaria]
 - [SFrAs, Laud. 21 — Pan cotidiano como Cristo]
 - [JdN_I, cap. 4]
+- Ele_Xto_Stos, Cap. III, §4b

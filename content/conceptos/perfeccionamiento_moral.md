@@ -27,7 +27,7 @@ La vida cristiana no se agota en el momento del bautismo, sino que es una semill
 - **§1694-1695**: Los fieles deben crecer en la santidad.
 - **§2013-2016**: La llamada universal a la santidad.
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor insiste en que:
 

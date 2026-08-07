@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Consentimiento
 tags: ["teología_moral_—_antropología"]
 
-timestamp: 2026-06-05
+timestamp: 2026-08-06
 description: "El consentimiento es la aplicación del movimiento apetitivo de la [[voluntad]] a algo que está previamente bajo la potestad de quien lo aplica."
 ---
 # Consentimiento
 
 > Área: Teología moral — Antropología
-> Última actualización: 2026-06-05
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -33,6 +33,24 @@ El consentimiento es el acto por el cual la voluntad se adhiere a lo que la raz�
 
 **a.4 — El consentimiento no conviene a los brutos:** Los animales no tienen dominio sobre su apetito, pues no pueden aplicar su movimiento apetitivo a algo bajo su potestad. Su movimiento es puramente instintivo, no libre. El consentimiento requiere el libre albedrío.
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+El consentimiento es el elemento esencial de la voluntariedad: la libre tendencia de la voluntad (aprobación, aquiescencia) hacia el bien presentado por la inteligencia. Está íntimamente ligado a la advertencia, pero no es su trasunto: la voluntad puede querer más o menos intensamente el bien conocido. Se refiere tanto a la intención del fin como a la elección de los medios (Ele_Xto_Stos, Cap. VI, §6c).
+
+Distinciones del consentimiento:
+
+1) **Por el grado**: consentimiento perfecto (adhesión plena, con grados accidentales) e imperfecto (adhesión parcial, sea por no adherirse plenamente sea por seguir a una advertencia semiplena) (Ele_Xto_Stos, Cap. VI, §6c).
+
+2) **Por la actualidad**: análoga a la de la advertencia pero referida a la voluntad. El consentimiento atañe también a los efectos indirectos (Ele_Xto_Stos, Cap. VI, §6c).
+
+Principios morales sobre el consentimiento:
+
+1) Para la imputabilidad es suficiente el consentimiento imperfecto: la voluntad tiene dominio sobre su actuar; si hay advertencia y no violencia, el acto es voluntario e imputable, aunque su moralidad sea menor (Ele_Xto_Stos, Cap. VI, §6c).
+
+2) Para el pecado mortal es necesario un consentimiento perfecto, posible incluso con cierta repulsa y voluntariedad mixta; dentro de la perfección esencial hay grados accidentales (pecado de pasión frente a pecado de malicia) (Ele_Xto_Stos, Cap. VI, §6c).
+
+3) Con la normal advertencia y sin coacción, el consentimiento es perfecto cuando el acto se realiza externamente; en los actos puramente internos es más difícil apreciarlo, pero hay señales: un consentimiento que cambia la profunda actitud personal, si es perfecto es claro; con advertencia semiplena el consentimiento se presume imperfecto; si es fácil realizar el acto exterior y no se ejecuta, ha de suponerse consentimiento imperfecto (Ele_Xto_Stos, Cap. VI, §6c).
+
 ## Distinciones importantes
 
 - **Consentimiento (voluntad)** vs. **asentimiento (razón)**: el primero adhiere al bien; el segundo a lo verdadero
@@ -52,3 +70,4 @@ El consentimiento sigue al [[consejo]] (deliberación) y precede a la [[elecció
 ## Referencias
 
 - SmTh Ia-IIae q.15 aa.1-4
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VI, §6c

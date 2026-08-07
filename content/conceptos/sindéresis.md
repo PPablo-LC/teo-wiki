@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Sindéresis
 tags: ["moral"]
 
-timestamp: 2026-06-29
+timestamp: 2026-08-06
 description: "La sindéresis (synderesis) es un hábito natural del entendimiento práctico que posee los primeros principios de la moralidad —el bien debe hacerse y el mal evitarse—."
 ---
 # Sindéresis
 
 > Área: Moral
-> Última actualización: 2026-06-29
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -51,6 +51,10 @@ La sindéresis es, para la tradición escolástica, una chispa del alma (scintil
 
 [FMC caps. III, X, XVI]
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+Entre los hábitos de la razón especulativa se distinguen los hábitos de los primeros principios especulativos (entendimiento) y morales (sindéresis): la sindéresis es el hábito natural de los primeros principios morales, principio innato de rectitud moral en la razón práctica (Ele_Xto_Stos, Cap. VII, §2a).
+
 ## Distinciones importantes
 
 - **Sindéresis** (hábito de primeros principios) vs. **conciencia** (acto de aplicación)
@@ -70,3 +74,4 @@ La sindéresis es el fundamento de la [[conciencia]] moral y de la [[ley_natural
 
 - SmTh Iª q.79 aa.9-11
 - CEC §1779-1780
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §2a

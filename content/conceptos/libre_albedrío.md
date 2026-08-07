@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Libre Albedrío
 tags: ["antropología"]
 
-timestamp: 2026-06-27
+timestamp: 2026-08-06
 description: "Facultad radical de la persona humana de elegir entre el bien y el mal, de autodeterminarse sin coacción externa ni necesidad interna."
 ---
 # Libre Albedrío
 
 > Área: Antropología
-> Última actualización: 2026-06-27
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -60,6 +60,10 @@ El **Concilio de Trento** (Sesión VI) definió que el libre albedrío no se per
 - [D-797]
 - [D-814-D-815]
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La libertad de elección, llamada «libre albedrío» por la filosofía clásica, se fija en la ausencia de necesidad interna para tomar una decisión u otra, e implica la realización autónoma de un acto de la voluntad que se coloca entre el «puedo» y el «no estoy obligado». Gracias a ella el hombre es causa y principio de los propios actos (Aristóteles), dueño de las propias acciones (Santo Tomás). Es una libertad interior compatible incluso con la coacción: el encarcelado conserva la libertad de tomar posición frente a su situación. Santo Tomás establece en la libertad de elección una distinción entre el plano del ejercicio y el plano de la especificación, equiparable a la de autodeterminación e intencionalidad (Wojtyla, *Persona y acción*). Para el Aquinate, la universalidad del conocimiento intelectual es la raíz de la libertad de elección: el horizonte universal de la inteligencia —virtualmente infinito— hace posible la libertad del juicio de la razón práctica en torno a la bondad de las cosas singulares, pues ningún bien finito se conmensura perfectamente con la inteligencia y la voluntad como para producir un juicio y un asentimiento necesarios. La autodeterminación es la dimensión fundamental de la libertad de elección. [Ele_Xto_Stos, Cap. IV, §2b].
+
 ## Distinciones importantes
 
 - Libre albedrío no es licencia para hacer cualquier cosa
@@ -104,3 +108,4 @@ Pío V condenó los errores de Bayo sobre el libre albedrío (D‑1027–D‑103
 - SmTh Iª q.83 aa.1-4
 - SmTh Ia-IIae q.13 aa.3-6
 - SmTh IIIa q.18 a.4
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. IV, §2b

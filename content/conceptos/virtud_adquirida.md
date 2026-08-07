@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Virtud adquirida
 tags: ["moral"]
 
-timestamp: 2026-05-25
+timestamp: 2026-08-06
 description: "La virtud adquirida es un hábito operativo bueno, obtenido por la repetición de actos moralmente rectos."
 ---
 # Virtud adquirida
 
 > Área: Moral
-> Última actualización: 2026-05-25
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -32,6 +32,10 @@ Las virtudes adquiridas no bastan para la salvación, porque no pueden producir 
 
 [TPCr, Segunda Parte, Cap. 2]
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+Los hábitos operativos (virtudes) se dividen en virtudes sobrenaturales o infusas, que el hombre recibe como un don unido a la gracia, y virtudes humanas o adquiridas, que el hombre adquiere con el ejercicio y el esfuerzo personal. Las humanas o adquiridas pueden ser intelectuales o morales: las intelectuales perfeccionan la razón en el aspecto especulativo y en el práctico; las morales perfeccionan la voluntad y las tendencias (Ele_Xto_Stos, Cap. VII, §2a).
+
 
 ## Distinciones importantes
 
@@ -53,3 +57,4 @@ Las virtudes adquiridas no bastan para la salvación, porque no pueden producir 
 
 - CEC §1804; §1810; §1839
 - TPCr, Segunda Parte, Cap. 2
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §2a

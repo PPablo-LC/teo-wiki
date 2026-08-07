@@ -41,7 +41,7 @@ Cita al Cardenal Schuster en su lecho de muerte: «Parece que la gente ya no se 
 
 León XIV aplica la llamada universal a la santidad al estado sacerdotal en su mensaje por la Jornada de Santificación Sacerdotal. Partiendo de Lv 19,2 —«Sean santos, porque yo, el Señor su Dios, soy santo»— afirma que la santidad sacerdotal «no es una opción entre tantas ni un ideal abstracto; tiene que ver con la identidad misma de cada persona que quiere participar en la vida del Resucitado». El Papa reconoce la paradoja: el sacerdote está llamado a participar de la santidad de Dios, pero lleva «este tesoro en vasijas de barro» (2 Co 4,7). El camino es la unión del corazón imperfecto con el Corazón traspasado de Jesús, de modo que «ya no vivimos nosotros, sino que Cristo vive en nosotros» (Ga 2,20) [JorSant-2026, 12.06.2026].
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 La llamada universal a la santidad constituye el fundamento de la teología moral. Todo cristiano, por el bautismo y la gracia santificante, está llamado a la plenitud de la vida divina. No se trata de un ideal inalcanzable para unos pocos, sino de la vocación propia de todo bautizado. La santidad es el fin último al que Dios destina a cada persona humana, y la teología moral no es sino la respuesta libre y generosa a esta llamada divina.
 

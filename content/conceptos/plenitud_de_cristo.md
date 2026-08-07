@@ -27,7 +27,7 @@ San Pablo habla de la "medida de la estatura de Cristo" (Ef 4, 13) como meta de 
 - **§1694-1695**: Los fieles deben crecer en la santidad hasta la plenitud de Cristo.
 - **§2013-2016**: La llamada universal a la santidad.
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor desarrolla que:
 

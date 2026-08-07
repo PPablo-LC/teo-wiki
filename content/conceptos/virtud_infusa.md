@@ -3,17 +3,23 @@ type: Concepto Teológico
 title: Virtud infusa
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-05-22
+timestamp: 2026-08-06
 description: "La virtud infusa es un hábito sobrenatural infundido por Dios en el alma junto con la gracia santificante."
 ---
 # Virtud infusa
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-05-22
+> Última actualización: 2026-08-06
 
 ## Definición
 
 La virtud infusa es un hábito sobrenatural infundido por Dios en el alma junto con la gracia santificante, que perfecciona las facultades del alma para obrar actos sobrenaturales meritorios de vida eterna. Se distingue de la virtud adquirida en que esta se obtiene por repetición de actos humanos, mientras que la infusa es don gratuito de Dios.
+
+## Perspectivas por fuente
+
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+Los hábitos operativos (virtudes) se dividen en virtudes sobrenaturales o infusas, que el hombre recibe como un don unido a la gracia, y virtudes humanas o adquiridas, que el hombre adquiere con el ejercicio y el esfuerzo personal (Ele_Xto_Stos, Cap. VII, §2a).
 
 ## Relaciones doctrinales
 
@@ -26,3 +32,4 @@ Ver artículo principal: [[virtudes_infusas]]
 ## Referencias
 
 - TPCr, Parte II, Cap. 2
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §2a

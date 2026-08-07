@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Adoración
 tags: ["moral_—_dogmática"]
 
-timestamp: 2026-06-12
+timestamp: 2026-08-06
 description: "Acto primero de la virtud de la religión por el cual el hombre reconoce a Dios como su Creador y Señor supremo, rindiéndole el honor y la sumisión total que le son debidos como a su fin último."
 ---
 # Adoración
 
 > Área: Moral — Dogmática
-> Última actualización: 2026-06-12
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -62,6 +62,10 @@ En la IIIª q.25, Santo Tomás aplica la doctrina de la adoración a Cristo en r
 
 **Veneración de las reliquias (q.25 a.6).** Las reliquias de los santos deben ser veneradas, no con latría, sino con el honor debido a quienes fueron miembros de Cristo, templos del Espíritu Santo e intercesores nuestros. No se adora el cuerpo insensible por sí mismo, sino por causa del alma que estuvo unida a él y por Dios, cuyos ministros fueron.
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+El amor y la unión con el Señor, que conllevan el cumplimiento de su voluntad, se alimentan, en primer lugar, a través de un conjunto de comportamientos en relación con Dios, entre los que resalta la adoración como el primer comportamiento. A la adoración siguen la oración, la aceptación de la cruz de Cristo, la acción de gracias, la petición, la docilidad, la conducta propia de un hijo de Dios que lleva a un confiado abandono en la divina providencia, la humildad y la penitencia por los pecados (Ele_Xto_Stos, Cap. III, §4a).
+
 ## Distinciones importantes
 
 - **Adoración (latría) vs. veneración (dulía)**: la adoración se debe solo a Dios; a los santos y ángeles se les da culto de dulía
@@ -83,3 +87,4 @@ La adoración pertenece a la [[virtud_de_la_religión]], que es parte de la [[ju
 - [Santo Tomás, II-II, q.81-100]
 - SmTh IIIª q.25 a.1-6
 - [VocTeoBib, «Adoración»]
+- Ele_Xto_Stos, Cap. III, §4a

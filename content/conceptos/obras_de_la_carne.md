@@ -3,12 +3,12 @@ type: Concepto Teológico
 title: Obras de la carne
 description: "Enumeración paulina (Gál 5,19-21) de las obras contrapuestas a la vida según el Espíritu: todos los pecados, en sentido amplio y metonímico, son expresión de la vida «según la carne», opuesta al Espíritu Santo."
 tags: ["teología_moral", "teología_paulina"]
-timestamp: 2026-08-04
+timestamp: 2026-08-06
 ---
 # Obras de la carne
 
 > Área: Teología moral / Teología paulina
-> Última actualización: 2026-08-04
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -27,6 +27,10 @@ San Juan Pablo II, en su teología del cuerpo, explica que Pablo menciona entre 
 - Todos los pecados son expresión de la vida «según la carne», contrapuesta a la vida «según el Espíritu» (TdC, cateq. 52).
 - La analogía con Mt 15,18-20: Cristo define como impuros también los malos deseos, robos, falsos testimonios y blasfemias (TdC, cateq. 52).
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+Las obras de la carne —«fornicación, impureza, libertinaje... embriaguez, orgías» y también «odios, discordias, celos, iras, rencillas, divisiones, envidias» (Ga 5, 19-21)— son disposiciones estables, virtudes y vicios, moralmente buenos o malos, fruto de sumisión o de resistencia a la acción salvífica del Espíritu Santo. Pablo no discrimina ni condena el cuerpo, que con el alma espiritual constituye la naturaleza del hombre y su subjetividad personal: «Si vivimos según el Espíritu, obremos también según el Espíritu» (Ga 5, 25) [Ele_Xto_Stos, Cap. III, §3c].
+
 ## Distinciones importantes
 
 - **Pecados carnales vs. pecados del espíritu:** ambos son «obras de la carne» en sentido paulino, aunque solo los primeros son convencionalmente llamados «carnales».
@@ -44,3 +48,4 @@ Se relaciona con [[vida_segun_el_espíritu]], [[mortificación]], [[caridad]], [
 
 - Gál 5,19-21; Mt 15,18-20
 - TdC, Catequesis 52 (Juan Pablo II)
+- Ele_Xto_Stos, Cap. III, §3c

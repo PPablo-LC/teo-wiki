@@ -37,6 +37,10 @@ La Iglesia, signo en la historia del amor de Dios por los hombres y de la vocaci
 
 La Iglesia es en Cristo como un sacramento, signo e instrumento de la unión íntima con Dios y de la unidad de todo el género humano (Lumen Gentium 1). La Constitución pastoral Gaudium et spes afirma que la Iglesia, conducida por el Espíritu Santo, ha recibido de su Fundador el poder salvador que pone a disposición del género humano (GS 3). La Iglesia es fermento y alma de la sociedad, que debe renovarse en Cristo y transformarse en familia de Dios (GS 40).
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La Iglesia es el sacramento universal de salvación, «sacramento visible de la unidad de la humanidad en Cristo». Es una mediación sensible y visible: como Cristo es el sacramento del encuentro con Dios, la Iglesia es el sacramento del encuentro con Cristo. En cuanto tal, comunica la gracia y la verdad de la salvación a los hombres de todas las épocas y lugares, siendo su santidad y su catolicidad signos visibles de esa unidad querida por Dios. La vida en Cristo y la pertenencia a la Iglesia son inseparables: Cristo no se puede dividir (Cap. I, §1b).
+
 ## Distinciones importantes
 
 La Iglesia como sacramento universal de salvación no se identifica con el Reino de Dios, sino que es su germen y principio en la tierra. Su dimensión escatológica y de salvación sólo alcanzará plenitud en el siglo futuro. La Iglesia no se confunde con la comunidad política y no está ligada a ningún sistema político.

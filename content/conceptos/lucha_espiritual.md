@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Lucha espiritual
 tags: ["ascética", "espiritualidad"]
 
-timestamp: 2026-05-22
+timestamp: 2026-08-06
 description: "La lucha espiritual (o combate espiritual) es la realidad de la vida cristiana entendida como un combate continuo contra el pecado, el mundo, el demonio y la propia carne."
 ---
 # Lucha espiritual
 
 > Área: Ascética / Espiritualidad
-> Última actualización: 2026-05-22
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -30,6 +30,10 @@ El "combate espiritual" de la vida nueva del cristiano es inseparable del combat
 ### Según Royo Marín (TPCr)
 
 Royo Marín dedica todo el Libro I de la Tercera Parte a la lucha espiritual en su aspecto negativo. Se divide en: lucha contra el pecado (mortal, venial, imperfección), lucha contra el mundo, lucha contra el demonio (tentación, obsesión, posesión), y lucha contra la propia carne (sed de gozar, horror al sufrimiento). A esto siguen las purificaciones activas y pasivas. La lucha espiritual es necesaria para todos: "Los que son de Cristo han crucificado su carne con sus pasiones y concupiscencias" (Ga 5,24).
+
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La lucha contra el pecado constituye la primera, radical e inmediata exigencia de la llamada divina a la santidad. En la vida cristiana la negación procede siempre de una afirmación previa y está ordenada a una afirmación ulterior y plena: en el anuncio cristiano el pecado no es un tema primario, sino indirecto y reflejo. La vida sobre la tierra es presentada como una milicia: ya el Antiguo Testamento habla de una lucha entre la estirpe de la mujer y la estirpe de la serpiente; el tema es retomado en el Nuevo Testamento con la metáfora de la guerra o de la competición deportiva (1 Co 9, 24-27; Flp 3, 14; Hb 12, 1), hasta la total victoria de Cristo en el combate escatológico. El Vaticano II recuerda: «A través de toda la historia del hombre se extiende una dura batalla contra los poderes de las tinieblas que, iniciada ya desde el origen del mundo, durará hasta el último día [...]. Inserto en esta lucha, el hombre debe combatir continuamente para adherirse al bien, y no sin grandes trabajos, con la ayuda de la gracia de Dios, es capaz de lograr la unidad en sí mismo» (Gaudium et spes, n. 37). El cristiano, sin embargo, no se mueve por un afán terreno de perfeccionismo: su meta no es la autoafirmación en el dominio de la naturaleza desordenada, sino amar a Dios sobre todas las cosas e identificarse con Jesucristo mediante la gracia del Espíritu Santo. La lucha ascética es principalmente esfuerzo de identificación con Cristo; por esto es una lucha optimista, dirigida más a practicar el bien que a evitar el mal: «No te dejes vencer por el mal; al contrario, vence el mal con el bien» (Rm 12, 21) [Ele_Xto_Stos, Cap. III, §3a y §3c].
 
 ## Distinciones importantes
 
@@ -55,3 +59,4 @@ Se relaciona con la [[ascética]], la [[mortificación]], la [[tentación]], los
 
 - [CEC §2725, §2752, §2516, §2015]
 - [TPCr, Tercera Parte, Libro I, Cap. I-VI]
+- Ele_Xto_Stos, Cap. III, §3a y §3c

@@ -1,110 +1,123 @@
 ---
 type: ResumenFuente
-title: "CAPÍTULO IV"
+title: "CAPÍTULO IV — La libertad de los hijos de Dios"
 fuente: Elegidos_en_Cristo_para_ser_santos
 capítulo: 4
-timestamp: 2026-08-03
-description: "Resumen de 'CAPÍTULO IV' — Elegidos_en_Cristo_para_ser_santos"
-tags: ["resumen", "elegidos en cristo para ser santos"]
+timestamp: 2026-08-06
+description: "Resumen del capítulo IV de Elegidos en Cristo para ser santos: la libertad de los hijos de Dios."
+tags: ["resumen", "elegidos en cristo para ser santos", "libertad", "antropología moral", "teología moral"]
 ---
 
-# CAPÍTULO IV
+# CAPÍTULO IV — LA LIBERTAD DE LOS HIJOS DE DIOS
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[libertad_humana]] — condición del sujeto moral que se conduce a sí mismo
+- [[libertad_cristiana]] — libertad del pecado alcanzada en Cristo, para el servicio del amor
+- [[libre_albedrío]] — libertad de elección, capacidad de elegir autónomamente
+- [[libertad_de_indiferencia]] — concepción reduccionista criticada por la ética de la virtud
+- [[opción_fundamental]] — noción que los autores rechazan por no responder a la realidad de la conciencia moral
+- [[dignidad_de_la_persona]] — «la verdadera libertad es signo eminente de la imagen divina en el hombre»
+- [[imagen_de_dios]] — fundamento de la trascendencia del hombre sobre el mundo material
+- [[amor]] — libre afirmación del bien porque es bueno, esencia de la libertad
+- [[pecado]] — poder personificado que esclaviza a la humanidad
+- [[esclavitud_del_pecado]] — régimen del pecado en el que todos pecaron libremente
+- [[justificación]] — los hombres son justificados por la fe, por la libre y gratuita acción de Dios
+- [[gracia_santificante]] — la libertad herida por el pecado solo puede ordenarse a Dios con su ayuda
+- [[virtudes_morales_infusas]] — hábitos infusos por los que el Espíritu Santo guía al cristiano
+- [[dones_del_espíritu_santo]] — hábitos infusos de la antropología moral cristiana
+- [[hábito]] — principal expresión de la libertad personal
+- [[ética_de_la_virtud]] — enfoque desde el cual el concepto de opción fundamental resulta superfluo
+- [[éxodo]] — liberación del pueblo elegido por Dios, de sentido religioso-moral
+- [[santificación]] — proceso entre la justificación inicial y el cumplimiento escatológico
+- [[configuración_con_cristo]] — la vida moral busca crecer según «la medida de la plenitud de Cristo»
+- [[vocación_universal_a_la_santidad]] — llamada a participar de la vida trinitaria en Cristo
+- [[filiacion_divina]] — autocomprensión del cristiano como hijo de Dios en Cristo
 
+## 1. Visión de conjunto de los temas de la antropología moral cristiana
 
-## Contenido
+La Parte I ha considerado la vocación universal a la santidad, la llamada a participar de la vida trinitaria en Cristo. Entre la justificación inicial y el cumplimiento escatológico de la salvación media el proceso de la santificación, la actuación terrena e histórica de la vocación cristiana. Antes de afrontar el examen del referente normativo de la actividad moral, conviene analizar la naturaleza y la estructura de lo que debe ser regulado (las acciones, los afectos) y la modalidad en que puede ser regulado: las estructuras que hacen del cristiano un sujeto capaz de colaborar libremente con Dios, diseñando y escogiendo —con el auxilio de la gracia— un tipo de vida (conducta moral) congruente con su identidad de hijo de Dios y que le permita crecer según «la medida de la plenitud de Cristo» (Ef 4, 13).
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `03_capítulo_iv.md`
+La antropología moral cristiana no se ocupa de todos los temas de la antropología teológica: esta se presupone. Objeto de atención es el cristiano en cuanto sujeto moral y, por tanto, fundamentalmente la libertad, considerada en el marco de su autocomprensión como hijo de Dios en Cristo: la libertad de un hijo que sobre todo desea cumplir la voluntad del Padre (Jn 4, 34; 5, 30; 6, 38; 7, 17).
 
+Las acciones libres poseen una articulación discursiva compleja, que se desarrolla a lo largo de dos ejes. Según el eje horizontal, el actuar libre puede concebirse como un proceso de comunicación entre el hombre, el mundo y Dios, que tiende a la efectiva realización de la vida en Cristo. Según el eje vertical, representa el momento culminante y el principio supremo de integración de una diversidad de procesos, contenidos y estados de la psique. En este proceso es posible distinguir analíticamente cinco elementos fundamentales:
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+1) Las inclinaciones y las tendencias, que llamaremos genéricamente deseo, en el sentido de deseo no deliberado, previo a la libre elección.
+2) La percepción de la presencia o ausencia de bienes a los que propende el deseo humano.
+3) Las reacciones afectivas (sentimientos, emociones, pasiones) que siguen a la percepción.
+4) Los actos humanos o actos libres, gobernados por la inteligencia y la voluntad, a través de los que la persona se conduce a sí misma (conducta) para realizar el tipo de vida que ha elegido.
+5) Los hábitos, principal expresión de la libertad personal, mediante los cuales la libertad modifica, para bien o para mal, la propia estructura operativa. Junto a los hábitos adquiridos, la antropología moral cristiana debe estudiar los hábitos infusos (las virtudes morales infusas, los dones del Espíritu Santo), por los que el Espíritu Santo guía al cristiano hacia la vida de los hijos de Dios.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | CAPÍTULO IV |
-| 4 | H2 | LA LIBERTAD DE LOS HIJOS DE DIOS |
-| 28 | H3 | En este proceso es posible distinguir analíticamente cinco elementos f |
-| 51 | H3 | Roma 2013; A. BELLOCQ, Desiderare e agire, cit., cap. III. |
-| 82 | H3 | A. FERNÁNDEZ, Filosofía de la libertad (2 vol.), Conf. Caj. de Ahorros |
-| 137 | H3 | Seguimos aquí el análisis de la autodeterminación de K. WOJTYLA, Perso |
-| 139 | H3 | BAC, Madrid 1982, cap. III. |
-| 243 | H3 | Veritatis splendor, n. 34. |
-| 295 | H3 | II, p. 55. |
-| 296 | H3 | Milano 2001, pp. 81-86. |
-| 311 | H3 | III, lect. II, Marietti, Taurini-Romae 1953, n. 277). |
-| 318 | H3 | Commentarii, Ludovico Vivès, Parisiis 1891, vol. I, p. 42). |
-| 405 | H3 | AA.VV., Persona, verità e morale, cit., pp. 61-78. |
-| 419 | H3 | Ibídem, p. 122. |
+Este quinto elemento cierra el círculo y pasa a ser en realidad el primer elemento de la serie, ya que en la vida real las inclinaciones y tendencias no se encuentran en estado puro: han sido modificadas por los hábitos morales, es decir, por la conducta ética y la correspondencia a la acción santificadora del Espíritu Santo. Los tres primeros elementos se estudiarán en el capítulo V; los dos últimos, en los capítulos VI (la acción moral) y VII (los hábitos morales).
 
+La libertad humana es una realidad espiritual, pero no la opción pura de un espíritu fuera del espacio y del tiempo. Nuestro desear no es una mera iniciativa sin raíces: el hombre tiene inclinaciones y necesidades relacionadas con el cuerpo, la sensibilidad y la racionalidad, así como «inclinaciones» y exigencias recibidas con la gracia del Espíritu Santo. Temas y necesidades que proceden de la no-libertad se elevan al nivel de la libertad, donde sufren una cierta elaboración y transformación, y a veces son corregidos o rechazados. La libertad se alimenta de motivaciones que frecuentemente no proceden de ella misma. El cristiano en cuanto sujeto moral no es un sujeto indiferente a quien vincula una ley, ni tampoco un sujeto autónomo que realiza opciones trascendentales fuera del espacio y del tiempo.
 
-## Secciones incluidas
+## 2. Dimensiones del concepto filosófico de libertad
 
-# CAPÍTULO IV
+La ética filosófica, y lo mismo vale para la teología moral, presupone la realidad de la libertad humana. Si no tuviésemos la real posibilidad psicológica de decidir libremente entre bien y mal, no existiría la conducta humana, ni se nos podría imputar responsabilidad alguna, ni tendría sentido la alabanza o el reproche. La experiencia jurídica y política de la humanidad se apoyan en el mismo presupuesto. La existencia de múltiples factores que condicionan el actuar humano no comporta una objeción esencial a la realidad de la libertad, siempre que dejen cierto margen para la decisión autónoma última; nadie ha conseguido demostrar rigurosamente que tal margen no exista. La negación de la libertad se basa en premisas de carácter general cuya legítima aplicabilidad al entero ámbito de lo real nunca ha sido probada.
 
-[Contenido de esta sección...]
+La libertad humana es una realidad profunda, poliédrica y, en cierto sentido, misteriosa. Considerando la expresión «debemos tener la libertad para ser libres de ser libres», el concepto de libertad se usa con tres significados diferentes: «debemos tener la libertad» (ausencia de restricciones o de coacción), «para ser libres» (libertad de elección, capacidad de elegir autónomamente) y «de ser libres» (una condición de la persona que se alcanza a través de la elección, cualidad de orden genuinamente ético).
 
-# LA LIBERTAD DE LOS HIJOS DE DIOS
+### a) La libertad de coacción
 
-[Contenido de esta sección...]
+La «libertad de coacción» o «libertad de restricción» es la condición del sujeto que no está obligado o impedido en su actuar por agentes externos. No tienen esta libertad el esclavo, el prisionero y aquellos a los que una ley o la fuerza de otros impide expresarse o hacer lo que querrían. Se refiere principalmente a poder realizar externamente lo que se ha decidido hacer, aunque puede referirse también al querer cuando está directamente sometido a una coerción desde el exterior (ciertas drogas, sistemas de tortura). De este tipo de libertad y de sus manifestaciones se ocupan la moral, la política y el derecho.
 
-## En este proceso es posible distinguir analíticamente cinco elementos fundamentales:
+Las primeras reflexiones sobre la libertad en la Grecia clásica prearistotélica se movían en este ámbito: es libre el ciudadano, el que no es ni esclavo ni prisionero de guerra. Para algunos filósofos de la Edad Moderna este concepto fue el objeto principal de atención. Con la llegada de la ciencia moderna, la reducción de la causalidad a la sola causa material/eficiente hizo especialmente difícil la reflexión sobre la libertad: se establecía una conexión necesaria entre la motivación y la decisión. Filósofos como Hobbes, Locke, Hume y Voltaire prefirieron considerar la libertad no como una propiedad del querer, sino como una capacidad de actuar externamente según el propio querer. Leibniz hizo notar que el verdadero problema es la libertad del espíritu, y no la de los brazos o de las piernas.
 
-[Contenido de esta sección...]
+### b) La libertad de elección
 
-## Roma 2013; A. BELLOCQ, Desiderare e agire, cit., cap. III.
+El segundo significado de la libertad no se fija tanto en la posibilidad de hacer lo que se ha decidido, cuanto en la ausencia de necesidad interna para tomar una decisión u otra. Es propiamente la libertad de querer, que se llama comúnmente libertad psicológica. La doctrina que niega su existencia se llama determinismo psicológico: sostiene que la libertad de elección es solo aparente, sujeta a una necesidad interna (la de la motivación racional más fuerte). No se pueden negar ciertas limitaciones internas que disminuyen o quitan la libertad psicológica; esto prueba que la libertad humana es limitada, pero no niega su existencia.
 
-[Contenido de esta sección...]
+Esta libertad de elección, llamada «libre albedrío» por la filosofía clásica, implica la realización autónoma de un acto de la voluntad que se coloca entre el «puedo» y el «no estoy obligado». Gracias a ella el hombre es causa y principio de los propios actos (Aristóteles), dueño de las propias acciones (Santo Tomás). El hombre no quiere necesariamente lo que quiere; incluso cuando no existe la real posibilidad de escoger puede tomar una posición interior. Es una libertad interior compatible incluso con la coacción: el encarcelado conserva la libertad de tomar posición frente a su situación.
 
-## A. FERNÁNDEZ, Filosofía de la libertad (2 vol.), Conf. Caj. de Ahorros, Madrid 1975; F.
+En la libertad de elección es posible distinguir dos dimensiones: la autodeterminación y la intencionalidad (Wojtyla, Persona y acción). La autodeterminación expresa la esencia del acto libre: en cada acción libre soy yo quien decide o determina, y además decido acerca de mí mismo, modifico y forjo mi modo de ser persona. La intencionalidad está en la línea de la apertura de la voluntad hacia su objeto: los objetos presentados por la inteligencia no determinan necesariamente el acto de la voluntad. La autodeterminación es la dimensión fundamental de la libertad, mientras que la intencionalidad en el plano de los objetos es una dimensión derivada.
 
-[Contenido de esta sección...]
+Santo Tomás establece en la libertad de elección una distinción entre el plano del ejercicio y el plano de la especificación, equiparable a la de autodeterminación e intencionalidad. Para el Aquinate, la universalidad del conocimiento intelectual es la raíz de la libertad de elección. Los objetos conocidos los conocemos en su universalidad y, en último término, en cuanto entes o bienes. El horizonte universal de la inteligencia —virtualmente infinito— hace posible la libertad del juicio de la razón práctica en torno a la bondad de las cosas singulares: ningún bien finito se conmensura perfectamente con la inteligencia y la voluntad como para producir un juicio y un asentimiento necesarios. La valoración cognoscitiva de los bienes concretos no introduce necesidad en el querer; la persona se determina a sí misma en relación con esos bienes. Ante un bien cuya atracción pareciera irresistible, la persona puede querer no considerar este bien, pensar en otra cosa: es el caso de quien no entiende «porque no quiere entender» y de quien no oye «porque no quiere escuchar». En síntesis: la voluntad es precedida por un acto intelectual; sin embargo, depende de la voluntad que tal consideración —y no otra— sea decisiva en el plano práctico. La autodeterminación es la dimensión fundamental de la libertad de elección.
 
-## Seguimos aquí el análisis de la autodeterminación de K. WOJTYLA, Persona y acción,
+### c) La libertad como valor y tarea ética
 
-[Contenido de esta sección...]
+Nos referimos al valor y la tarea moral que comporta el buen uso de la libertad de elección: el valor que supone la libre afirmación del bien y la degradación que causa en el mundo espiritual el que un ser inteligente elija lo que sabe que es malo o rechace lo que sabe que es bueno. Esta clase de libertad no es algo que el hombre tiene por naturaleza, en virtud de su constitución ontológica o psicológica: es objeto de elección y de conquista por parte de la persona. Es la libertad de los impulsos desordenados, la libertad del pecado y de la miseria moral. Representa la perfección ética de la libertad psicológica, su consolidación en el bien mediante la virtud, que es el fin propio de la educación moral. En la formación de este tercer significado de la libertad ha tenido un influjo decisivo el cristianismo, que la ve como fruto de la colaboración entre la libertad humana y la gracia de Dios, aunque no es un concepto exclusivamente teológico.
 
-## BAC, Madrid 1982, cap. III.
+### d) Libertad y amor
 
-[Contenido de esta sección...]
+La consideración de la libertad humana como «libertad-de» en los tres sentidos indicados es insuficiente: en los tres casos se trata de nociones negativas que, paradójicamente, necesitan lo que se niega para poder afirmarse. Por más que la libertad sea un gran bien, no es el bien que satisface los deseos de la persona, sino la condición necesaria para el logro de ese bien. Sin libertad, ningún bien es un bien humano; pero sin bien la libertad es algo vacío. La libertad es la libertad de la persona que «se conduce a sí misma». La «libertad-de» suscita el tema de la «libertad-para» y, por tanto, del bien humano que debe afirmarse y del mal que debe negarse. El estudio de la libertad lleva a la consideración del amor, que en todas sus formas es siempre una libre afirmación del bien. El amor, como afirmación autónoma del bien porque es bueno, es la esencia de la libertad. Quien hace lo que ama actúa libremente, porque el amor no puede ser sino libre; si no es libre, no es amor. Obtenemos así un concepto de libertad que permite comprender la libertad de Dios, la libertad de Cristo y la libertad humana, y cuán reductiva es la tendencia de la cultura actual a definir la libertad como «ausencia de límites», considerando cualquier compromiso (el matrimonio, una causa noble) o condicionamiento vital (un hijo, una enfermedad) como una «pérdida» de libertad.
 
-## Veritatis splendor, n. 34.
+## 3. La libertad en la antropología cristiana
 
-[Contenido de esta sección...]
+### a) La libertad como don de Dios en la perspectiva histórico-salvífica
 
-## II, p. 55.
+La Sagrada Escritura no contiene reflexiones filosóficas abstractas sobre la libertad. En el Nuevo Testamento prevalece una perspectiva existencial o histórico-salvífica, que ve la libertad —que se ha hecho pecadora— redimida por Cristo y llamada a colaborar con la gracia para llegar a ser libremente voluntad buena y aun voluntad santa. La libertad de elección está presupuesta en el comportamiento de las personas y del pueblo escogido, pero no faltan afirmaciones explícitas: «Hoy pongo ante ti la vida y el bien, o la muerte y el mal [...]. Elige, pues, la vida, para que tú y tu descendencia viváis» (Dt 30, 15-19); «Él, desde el principio, creó al hombre y le dejó en manos de su propio albedrío [...]. Él ha puesto ante ti fuego y agua; adonde quieras extenderás tu mano. Ante los hombres están la vida y la muerte, el bien y el mal; a cada uno se le dará lo que le plazca» (Si 15, 14-18).
 
-[Contenido de esta sección...]
+En el Antiguo Testamento el episodio del Éxodo ocupa un lugar importante: Dios ha visto la opresión de su pueblo y decide liberarlo para conducirlo a la tierra prometida. Se trata de una liberación con un inmediato aspecto socio-político, que no puede interpretarse ni individualistamente ni como liberación de una clase: es todo el pueblo elegido, y no es el hombre quien se emancipa, sino que recibe la liberación de Dios, aunque esto implique la mediación humana. La liberación socio-política no agota el sentido del Éxodo ni es su significado principal: la liberación se encamina a la Alianza, tiene un valor trascendente de relación con el Señor. El profundo sentido del Éxodo es religioso-moral.
 
-## Milano 2001, pp. 81-86.
+Debe subrayarse que la libertad, tanto la de elección como la liberación de la opresión, se considera un don de Dios, ligado a la acción salvífica del que lo concede. El gran valor de la libertad humana como don de Dios es una tesis característica de la antropología cristiana. «La verdadera libertad es signo eminente de la imagen divina en el hombre» (Gaudium et spes, n. 17). Resalta la trascendencia del hombre sobre el mundo material: «En su interioridad, el hombre es superior al universo entero; retorna a esta profunda interioridad cuando vuelve a su corazón, donde Dios, que escruta los corazones, le aguarda y donde él mismo, bajo los ojos de Dios, decide sobre su propio destino» (GS, n. 14).
 
-[Contenido de esta sección...]
+En el plano natural, la libertad es el don más grande que Dios ha concedido a los hombres. Su valor consiste en que solo ella hace posible la libre afirmación del bien porque es bien, y por tanto el amor a Dios en cuanto bien sumo. Sin libertad no sería posible la unión con Dios a través del amor ni la bienaventuranza eterna del hombre. «Quiso Dios dejar al hombre "en manos de su propia decisión" (cfr. Si 15, 14), de modo que busque sin coacciones a su Creador y, adhiriéndose a Él, llegue libremente a la plena y feliz perfección. La dignidad del hombre requiere, en efecto, que actúe según una elección consciente y libre, es decir, movido e inducido personalmente desde dentro y no bajo la presión de un ciego impulso interior o de la mera coacción externa» (Veritatis splendor, n. 34). Esta perspectiva impone pasar a la dimensión de la libertad como tarea ética y como amor del verdadero bien, la «libertad-para»: «El hombre logra esta dignidad cuando, liberándose totalmente de toda esclavitud de las pasiones, persigue su fin en la libre elección del bien [...]. La libertad del hombre, herida por el pecado, solo puede hacer plenamente activa esta ordenación a Dios con la ayuda de la gracia de Dios» (GS, n. 17).
 
-## III, lect. II, Marietti, Taurini-Romae 1953, n. 277).
+La posibilidad de adherir libremente al bien implica la posibilidad de no adherir. Ante la experiencia histórica del mal puede surgir la duda de si la libertad humana vale la pena. Desde el punto de vista teológico hay que responder que sí: si ante las dos posibilidades había algo que ponderar o discernir, esto lo ha hecho Dios una vez por todas, y su sabia elección ha sido un sí a la libertad humana, incluso sabiendo que para sostenerla sería derramada la sangre del Hijo. La antropología cristiana, aun distinguiendo claramente entre libertad y libertinaje, sostiene sin restricción alguna el valor de la libertad humana.
 
-[Contenido de esta sección...]
+### b) «Para esta libertad Cristo nos ha liberado»
 
-## Commentarii, Ludovico Vivès, Parisiis 1891, vol. I, p. 42).
+La atención de la Sagrada Escritura, y particularmente del Nuevo Testamento, se dirige a las dos últimas dimensiones de la libertad: la libertad del pecado y la que se expresa mediante el amor («libertad-para»), consideradas en perspectiva histórico-salvífica. La idea central es que toda la humanidad puede ser liberada del pecado solo si, y en la medida en que, acepta la acción salvífica de Dios en Cristo.
 
-[Contenido de esta sección...]
+La Carta a los Romanos es la exposición más completa del evangelio de San Pablo. En ella la realidad se lee a la luz de la fe en Cristo Redentor, cuya obra se entiende solo en referencia al poder del pecado que reduce a esclavitud a la humanidad, aquel pecado como poder personificado (*hamartía*, en singular). Resumiendo su sentido, Prat escribe: «El pecado, entrando en el mundo y estableciéndose como una fortaleza, reina en forma despótica [...]. La corrupción del corazón alcanza la mente, y la perversión de la mente acelera la de las costumbres».
 
-## AA.VV., Persona, verità e morale, cit., pp. 61-78.
+De este estado de sujeción la humanidad no podía autoliberarse. San Pablo no tiene dudas de que el pecado es más fuerte que la ley de Moisés y que la sabiduría moral de los mejores filósofos paganos: si tenemos en cuenta solo las fuerzas humanas, estaba esclavizada toda la humanidad. Rm 1, 18-3, 20 contiene una imponente acusación contra el género humano: «Hemos demostrado que todos, judíos y griegos, están bajo el pecado» (Rm 3, 9). Estas afirmaciones no son una profesión de pesimismo antropológico, sino una expresión sintética de la fe en Cristo Redentor y en la universalidad y necesidad de la obra de la salvación.
 
-[Contenido de esta sección...]
+San Pablo no pretende indicar que no haya existido ningún justo antes de Cristo. Esto resulta evidente en la referencia a Abrahán: «Creyó Abrahán a Dios, y se le contó como justicia» (Rm 4, 3). Los justos del pasado no lo son por sus fuerzas naturales o por las obras de la ley, sino que han sido justificados por la fe, por haber aceptado la «justicia de Dios» en Cristo tal como a cada uno se mostraba. Solo Dios puede superar la condición en la que se encuentra la raza humana después del pecado: «Justificados, por tanto, por la fe, estamos en paz con Dios por medio de nuestro Señor Jesucristo» (Rm 5, 1).
 
-## Ibídem, p. 122.
+La proliferación del pecado no significa que la libertad psicológica no exista o sea incapaz de hacer algo bueno. Cuando el Apóstol dice «por medio de un solo hombre entró el pecado en el mundo» (Rm 5, 12), sostiene que el régimen del pecado entró en el mundo a través de Adán y que bajo este régimen todos pecaron libremente; niega tanto el fatalismo cuanto que el pecado sea un hecho puramente individual. Schlier escribe que «el régimen de pecado [...] existe en las concretas acciones pecaminosas. Viceversa, el acto de pecar no es solo una decisión exclusivamente autónoma del individuo [...] más bien implica un asentimiento que mantiene concretamente en existencia aquel régimen».
 
-[Contenido de esta sección...]
+Solo la gracia que reciben los que creen en Cristo hace posible la victoria completa sobre el pecado. También el creyente encuentra en sí mismo la oposición entre el hombre interior y el «hombre viejo»: «Me complazco en la ley de Dios según el hombre interior, pero veo otra ley en mis miembros que lucha contra la ley de mi espíritu [...]. ¡Infeliz de mí! ¿Quién me librará de este cuerpo de muerte...? Gracias sean dadas a Dios por Jesucristo Señor nuestro» (Rm 7, 22-25). La liberación del pecado es una tarea ética para el creyente, una lucha contra la división interior. Pero ahora, con Cristo, la victoria es posible: «Para esta libertad Cristo nos ha liberado» (Ga 5, 1).
+
+La fe en Cristo abre el camino a la realización de la libertad cristiana en el amor: una libertad que no se erige en barrera ante las necesidades del prójimo, sino que se entiende como un don que hay que poner al servicio de los demás. Quien ha sido liberado por Cristo es al mismo tiempo siervo de Cristo, sometido a la ley de Cristo, que es la ley de la libertad y del amor: la libertad cristiana se manifiesta como liberación del propio egoísmo y, por tanto, como disponibilidad para el servicio de Dios, de la justicia y del prójimo. No queda espacio para la oposición dialéctica entre libertad y «ley de Cristo» (o «ley del Espíritu»), perspectiva completamente ajena a la antropología cristiana.
+
+## 4. Libertad trascendental y opción fundamental
+
+En la segunda mitad del siglo XX algunos teólogos han considerado oportuno distinguir un nuevo y más profundo nivel de libertad, denominado libertad trascendental, cuya actuación se llama opción fundamental. Con este concepto se intentaba superar un planteamiento atomista de los actos humanos, profundizar en la relación entre la persona y sus actos singulares y alcanzar una comprensión más adecuada de la naturaleza del pecado.
+
+Algunos autores, desarrollando esta noción, han formulado tesis que merecen claras reservas doctrinales. Por eso la encíclica Veritatis splendor se ha ocupado de la temática, trazando los límites dentro de los cuales el concepto de opción fundamental es doctrinalmente aceptable. Según la encíclica, «la llamada opción fundamental, en la medida en que se diferencia de una intención genérica y, por ello, no determinada todavía en una forma vinculante de la libertad, se actúa siempre mediante elecciones conscientes y libres. Precisamente por esto, la opción fundamental es revocada cuando el hombre compromete su libertad en elecciones conscientes de sentido contrario, en materia moral grave. Separar la opción fundamental de los comportamientos concretos significa contradecir la integridad sustancial o la unidad personal del agente moral en su cuerpo y en su alma» (Veritatis splendor, n. 67).
+
+Aun reconociendo que el concepto de opción fundamental es doctrinalmente aceptable dentro de esos límites, los autores del libro no lo usarán, porque no es congruente con su enfoque teológico: para una ética de la virtud, el concepto de opción fundamental no es idóneo para expresar el verdadero modo de actuar de la razón práctica y de la libertad humana, y por tanto resulta superfluo. Esta noción presupone además el substrato filosófico de la concepción «trascendental» de la libertad, que hace difícil y artificioso usar el concepto dentro de los límites señalados por el magisterio, pues para respetarlos habría que reelaborarlo dando lugar a un enfoque híbrido que le hace perder su coherencia interna. La posición no responde al hecho de que el teorema haya tenido formulaciones erróneas, sino a que, considerado en sí mismo y en sus presupuestos filosóficos, carece fundamentalmente de fundamento al no responder a la realidad de la conciencia y de la acción moral humanas.
+
+Según la exposición de Böckle, «Rahner distingue al hombre como "persona" y como "naturaleza"»: por persona se entiende el hombre en cuanto puede disponer de la libertad sobre sí mismo; por naturaleza, la corporeidad vivificada junto con las relaciones con el mundo circundante. Rahner distingue un doble estrato en la decisión humana: el acto originario, inteligible, de la libertad del hombre como tal, y su necesaria plasmación en los actos humanos a través de la naturaleza. Por eso puede decirse que el acto moral conserva una «equivocidad fundamental e inerradicable»: la acción externa, la materia grave o leve de un acto, no sería base suficiente para valorar moralmente una acción. Desde el punto de vista del libro, la distinción entre «naturaleza» y «persona» no responde a la realidad del hombre: el espíritu personal y su libertad no es un espíritu puro que está en el cuerpo como en una cárcel. El cuerpo, las pasiones, la constitución psicobiológica es parte esencial de toda persona humana. En el obrar libre, la libertad humana procesa y gestiona necesidades e impulsos que proceden de la no-libertad, que es, sin embargo, parte esencial de nuestro ser como totalidad unificada de cuerpo y espíritu, como se verá en el capítulo siguiente.

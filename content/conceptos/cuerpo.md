@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Cuerpo
 tags: ["dogmática", "moral"]
 
-timestamp: 2026-06-04
+timestamp: 2026-08-06
 description: "El cuerpo humano es la parte material y corporal del compuesto humano, creado por Dios."
 ---
 # Cuerpo
 
 > Área: Dogmática / Moral
-> Última actualización: 2026-06-04
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -108,6 +108,12 @@ La redención del cuerpo (Rm 8,23) significa que «la fuerza originaria del mist
 
 En la resurrección, el cuerpo será «espiritualizado»: no desencarnación ni deshumanización, sino realización perfecta del compuesto psicosomático. «El cuerpo vuelve a perfecta unidad y armonía con el espíritu» (TdC 09.12.1981).
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La persona humana es una [[totalidad_unificada_de_cuerpo_y_espíritu|totalidad unificada de cuerpo y espíritu]] (alma y cuerpo). El cuerpo no es independiente del espíritu, como tampoco el espíritu es independiente del cuerpo mientras lo vivifica: hasta la actividad humana más espiritual está de algún modo impregnada de la condición corpórea, así como el cuerpo está gobernado y finalizado por el espíritu (Ele_Xto_Stos, Cap. V, §1).
+
+En el caso de la persona humana, la condición natural es al mismo tiempo corpórea y espiritual, pues el espíritu humano, además de ser finito, es esencialmente forma de un cuerpo. La contraposición naturaleza-persona depende de interpretar la apertura intencional del espíritu como una especie de infinitud entitativa que estaría limitada por el cuerpo, como si la finitud fuese una condición extrínseca y el cuerpo la cárcel del alma (Ele_Xto_Stos, Cap. V, §1).
+
 ## Distinciones importantes
 
 - **Cuerpo natural**: sujeto a las condiciones de la vida presente
@@ -150,3 +156,4 @@ En la resurrección, el cuerpo será «espiritualizado»: no desencarnación ni 
 - [TdC 28.05.1980]
 - [TdC 23.07.1980]
 - [TdC 03.12.1980]
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. V, §1

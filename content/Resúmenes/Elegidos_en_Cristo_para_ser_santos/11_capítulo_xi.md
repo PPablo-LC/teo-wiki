@@ -1,180 +1,230 @@
 ---
 type: ResumenFuente
-title: "CAPÍTULO XI"
+title: "CAPÍTULO XI — El pecado y la conversión"
 fuente: Elegidos_en_Cristo_para_ser_santos
 capítulo: 11
-timestamp: 2026-08-03
-description: "Resumen de 'CAPÍTULO XI' — Elegidos_en_Cristo_para_ser_santos"
-tags: ["resumen", "elegidos en cristo para ser santos"]
+timestamp: 2026-08-06
+description: "Resumen del capítulo XI de Elegidos en Cristo para ser santos: el pecado en la Escritura y la doctrina eclesial, su esencia (aversio a Deo), divisiones, causas, efectos, cooperación al mal, conversión (metánoia) y lucha ascética."
+tags: ["resumen", "elegidos en cristo para ser santos", "teología moral", "pecado", "conversión", "amartología", "misericordia"]
 ---
 
-# CAPÍTULO XI
+# CAPÍTULO XI — EL PECADO Y LA CONVERSIÓN
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[pecado]] — respuesta negativa del hombre al don y a la llamada del amor de Dios
+- [[pecado_mortal]] — pecado que cumple plenamente la razón de pecado: aversio a Deo y pérdida de la gracia
+- [[pecado_venial]] — pecado que debilita la caridad sin destruirla
+- [[pecado_original]] — cometido por nuestros primeros padres y transmitido por generación
+- [[pecado_social]] — dimensión social del pecado en sus tres sentidos
+- [[conversión]] — retorno a Dios con todo el corazón; metánoia
+- [[arrepentimiento]] — dolor del pecado cometido, parte de la metánoia
+- [[misericordia]] — el mysterium pietatis más grande que el mysterium iniquitatis
+- [[tentación]] — instigación al mal moral que se propone bajo apariencia de bien
+- [[vicio]] — hábito operativo moralmente malo, opuesto a las virtudes
+- [[pecados_capitales]] — los siete vicios que actúan como fuente de otros pecados
+- [[soberbia]] — amor propio desordenado; raíz de todo pecado ex parte aversionis
+- [[avaricia]] — raíz de todo pecado ex parte conversionis
+- [[concupiscencia]] — inclinación interior al mal (fomes peccati)
+- [[opción_fundamental]] — teoría rechazada como categoría teológica para sustituir la distinción mortal/venial
+- [[gracia_santificante]] — se pierde con el pecado mortal
+- [[caridad]] — destruida por el pecado mortal, debilitada por el venial
+- [[fe]] — puede permanecer informe tras el pecado mortal
+- [[esperanza]] — puede permanecer informe tras el pecado mortal
+- [[virtudes_infusas]] — se pierden con la gracia; la fe y la esperanza pueden quedar informes
+- [[dones_del_espíritu_santo]] — se pierden con la gracia santificante
+- [[acto_humano]] — el pecado es un acto humano libre, con advertencia y consentimiento
+- [[ley_eterna]] — definición agustiniana de pecado: acto contrario a la ley eterna
+- [[ley_natural]] — su primer principio arquitectónico es el amor a Dios
+- [[ley_de_cristo]] — la gracia del Espíritu Santo que otorga las virtudes infusas
+- [[sindéresis]] — presupuesto del conocimiento moral
+- [[conciencia_moral]] — juzga la moralidad del acto; sede de la obligación moral
+- [[cooperación_al_mal]] — acción que facilita que otro realice una acción inmoral
+- [[escándalo]] — actitud o comportamiento que induce a otro a hacer el mal
+- [[epiqueya]] — virtud del juicio moral en situaciones excepcionales
+- [[justificación]] — doctrina de Trento sobre el pecado y la justificación
+- [[redención]] — Cristo ha vencido el pecado con la cruz
+- [[remisión_de_los_pecados]] — parte de la misión de la Iglesia y del kérigma
+- [[sacramento_de_la_reconciliación]] — vía ordinaria para la remisión de los pecados tras el bautismo
+- [[confesión_sacramental]] — necesidad de confesar los pecados mortales en especie y número
+- [[penitencia]] — actitud penitente exigida al cristiano
+- [[examen_de_conciencia]] — preparación del sacramento de la penitencia
+- [[bautismo]] — morimos con Cristo al pecado y resucitamos a la nueva vida
+- [[salvación]] — finalidad de la Encarnación y de la misión de Cristo
+- [[santidad]] — fin del designio salvífico de Dios; crecimiento de Cristo en nosotros
+- [[seguimiento_de_cristo]] — la conversión reorienta toda la vida hacia Cristo
+- [[unión_con_cristo]] — «no vivo yo, sino que Cristo vive en mí»
+- [[filiación_divina]] — plenitud que impide el pecado
+- [[infierno]] — pena eterna merecida por el pecado mortal
+- [[vida_eterna]] — el pecado mortal causa la exclusión del Reino de Cristo
+- [[iglesia_como_sacramento_universal_de_salvación]] — la reconciliación se realiza a través de la Iglesia
+- [[cuerpo_místico_de_cristo]] — el pecado debilita el vínculo de la caridad
+- [[comunión_de_los_santos]] — el actuar moral de cada uno influye sobre los demás
+- [[mundo]] — el mundo pervertido por el pecado como tentador
+- [[demonio]] — el tentador por antonomasia
+- [[alma]] — la conciencia y el remordimiento en el interior del hombre
+- [[virtud]] — los vicios se oponen a las virtudes
+- [[virtudes_teologales]] — la moral cristiana se fundamenta en ellas
+- [[virtudes_morales]] — regla moral de la vida cristiana junto con las teologales
+- [[ascética]] — lucha espiritual contra el pecado y la concupiscencia
+- [[pecado_de_omisión]] — omitir algo debido
+- [[catecismo_de_la_iglesia_católica]] — doctrina del pecado en diversos momentos
+- [[veritatis_splendor]] — doctrina sobre el pecado; el publicano y el fariseo
+- [[evangelii_gaudium]] — la misericordia siempre más grande que el pecado (Papa Francisco)
+- [[gaudete_et_exsultate]] — la mundanidad espiritual
+- [[gaudium_et_spes]] — el pecado en nn. 13 y 37
+- [[catecismo]] — «Dios de nada se alegra tanto como de la conversión»
+- [[apocalipsis]] — el pecado que lleva a la muerte: apostasía e idolatría
+- [[san_pablo]] — el pecado como poder personificado (hamartía)
+- [[san_agustín]] — psicología de la culpa; aversio a Deo y conversio ad creaturas
+- [[santo_tomás_de_aquino]] — síntesis escolástica de la doctrina del pecado
+- [[san_gregorio_magno]] — la lista de los siete pecados capitales
+- [[juan_pablo_ii]] — Reconciliatio et paenitentia
+- [[benedicto_xvi]] — la reconciliación entre los hombres solo es posible reconciliando el corazón con Dios
+- [[papa_francisco]] — la centralidad de la misericordia de Dios
 
+## 1. El pecado y la conversión en la Sagrada Escritura
 
-## Contenido
+El pecado es algo más que una acción éticamente negativa: es la respuesta negativa del hombre al don y a la llamada del amor de Dios, un amor no correspondido, traicionado y ofendido. Es el «no» del hijo humano al Padre divino, un mysterium iniquitatis sin el cual la historia de la salvación no habría sido la que es. Solo a la luz de la fe puede entenderse plenamente la naturaleza del pecado y la misericordia de Dios que perdona.
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `10_capítulo_xi.md`
+### a) Antiguo Testamento
 
+La noción de pecado es comprensible a partir del libre y gratuito designio salvífico de Dios. El hombre fue constituido inicialmente en un estado de justicia y amistad divina, del que los primeros padres se autoexcluyeron por el primer pecado. Según Barthélemy, el hombre, «habiendo dudado de la bondad del Padre», selló aquella duda con el gesto de comer el fruto: «en el fondo he comprendido que Dios es aquel que quiere mantenerme en sumisión y tengo que librarme de Él… Comer el fruto suponía esta interpretación de la intención de Dios». Con este gesto se interrumpía el clima de confianza y de abandono filial, y el hombre rompió con la fuente de la vida, pues no se puede recibir de Dios una vida continuamente renovada si no se está abierto a Él con todo el propio ser. El pecado original es importante para comprender el mal en el mundo, la naturaleza pecadora del hombre y la dinámica fundamental de todo pecado.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+Después de la primera desobediencia, el pecado se enquista en el corazón del hombre como potencia expansiva y destructora (cfr. Gn 6, 5-6). El Señor no renunció a su designio salvífico y eligió a Israel. La Alianza se convierte en el nuevo marco de la fidelidad y de la infidelidad humanas: el incumplimiento del pacto no es solo una falta jurídica, porque el pecado no es tanto la oposición a una norma cuanto al mismo Dios. Con el pecado el hombre rechaza el amor de su Creador y se encierra en sí mismo, interrumpiendo la relación familiar con Dios. La literatura profética pone de relieve que el pecado es una infidelidad al amor divino, un adulterio; de modo derivado es ruptura con el pueblo, por lo que las injusticias contra el prójimo son realmente faltas contra Dios.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | CAPÍTULO XI |
-| 4 | H2 | EL PECADO Y LA CONVERSIÓN |
-| 24 | H3 | La distinzione dei peccati secondo la loro gravità nell’insegnamento d |
-| 57 | H3 | Dios . |
-| 83 | H3 | Los Evangelios muestran también que no existe un solo tipo de culpa. |
-| 141 | H3 | Señor . En definitiva, para Pablo el pecado es alejamiento del Dios mi |
-| 228 | H3 | El Concilio de Trento se ocupó del pecado, sobre todo en tres momentos |
-| 242 | H3 | Creador, que es bueno» . Ante la secularización del concepto de pecado |
-| 322 | H3 | Cristo y, consiguientemente, impide llegar a la plenitud definitiva de |
-| 326 | H3 | Tomás en S.Th., I-II, q. 71, a. 6, y Catecismo, n. 1849. |
-| 388 | H3 | Catecismo, n. 1488. |
-| 399 | H3 | Escritura. En todo caso, el pecado es real oposición y resistencia a l |
-| 444 | H2 | CCL 44 A, 32. |
-| 465 | H3 | Cielos . El hombre, «mediante un acto consciente y libre de su volunta |
-| 479 | H3 | Cristo y la muerte eterna del infierno» (n. 1861). |
-| 485 | H3 | No todos los pecados mortales tienen la misma gravedad 85; Jesús dijo  |
-| 516 | H2 | VI. |
-| 594 | H3 | Testamento muestra la malicia de los pecados internos , Jesús reprocha |
-| 694 | H3 | GRANADOS, La casa costruita sulla sabbia, cit., pp. 247-261. |
-| 749 | H3 | Nicolás de Autrecourt, n. 58: DS 1409; CONC. DE TRENTO, De iustificati |
-| 824 | H3 | Señor, para que lo preserve en la hora de la prueba . 2) Con ayuda de  |
-| 855 | H3 | San Pablo– tendríais que salir de este mundo» . Los criterios morales  |
-| 940 | H3 | Gracewing, Leominster (UK) 2014. |
-| 965 | H3 | VI-2005; CONGR. PER LA DOTTRINA DELLA FEDE, Istr. Dignitas personae, 8 |
-| 1008 | H3 | Dios que más se recuerdan en la Escritura . De hecho, el Señor llama a |
-| 1033 | H3 | Hablando de la conversión del pecador, la S. Escritura subraya cinco i |
-| 1047 | H3 | Rm 5, 8.10; 2 Co 5, 18; 1 Jn 3, 9; 4, 10. |
-| 1050 | H3 | Lc 3, 8-14; Hch 3, 19; Ga 5, 16-17.24-26; 1 Ts 1, 9; St 5, 19-20; 1 P  |
+### b) Evangelios sinópticos
 
+La predicación de Jesús subraya que el pecado comporta el alejamiento de Dios y el deseo de encontrar la propia felicidad en otro lugar; subraya su naturaleza interior, superando el formalismo exterior. La Encarnación se configura como finalizada a la salvación de los hombres: parte esencial de la misión de Cristo es librarlos del pecado; el Señor no rechaza la cercanía de los pecadores, ha venido precisamente para llamarlos, acogerlos con misericordia y perdonarlos. Al hombre se le pide una actitud «penitente» y no de «autoperdón» (cfr. Lc 18, 9-14). No existe un solo tipo de culpa: Jesús habla de una gran diversidad de pecados (hipocresía, vanagloria, injusticia, homicidio, adulterio, codicia, soberbia) y recuerda que el pecado promana de la perversa actitud interior de la voluntad. La gravedad no es siempre la misma: los pecados que se perdonan con la oración son menos importantes que la blasfemia contra el Espíritu Santo o el escándalo de los pequeños.
 
-## Secciones incluidas
+### c) Corpus paulinum
 
-# CAPÍTULO XI
+San Pablo usa el término hamartía en singular como poder personificado que actúa en el hombre y por medio de él. La malicia humana ha hecho que el pecado reine en todo el mundo, pero eso no excusa a las personas singulares. La universalidad del pecado tiene su origen en la desobediencia de Adán: «Por medio de un solo hombre entró el pecado en el mundo, y a través del pecado la muerte… porque todos pecaron» (Rm 5, 12). Jesús ha vencido el pecado con la cruz, y la nueva vida se aplica a las personas a través del bautismo, donde el hombre muere con Cristo al pecado y resucita a la nueva vida, siendo una «criatura nueva». Pero la nueva criatura no está plenamente libre del fomes peccati, por eso el Apóstol exhorta a la lucha ascética. A la luz de la obra redentora, el pecado representa la no-acogida de Cristo, la no-fe en Él; no existe un solo pecado (San Pablo ofrece listas de vicios que excluyen del reino), pero la realidad más profunda de cualquier pecado es el alejamiento de Cristo para seguir las obras de la carne. Quien peca vuelve a crucificar al Señor.
 
-[Contenido de esta sección...]
+### d) Escritos joaneos
 
-# EL PECADO Y LA CONVERSIÓN
+Juan usa también el pecado en singular: existe un pecado por antonomasia, el rechazo de acoger a Cristo como luz y verdad. Dios ha enviado el Hijo no para juzgar al mundo sino para salvarlo: Jesús es el buen pastor que acoge y perdona a los pecadores, pero les pide que no pequen más, que crean en el Hijo y que caminen en la verdad. La incredulidad se presenta como el pecado del cual el Espíritu convencerá al mundo. La I Carta de Juan muestra que el pecado se opone al amor, y habla del pecado que lleva a la muerte, refiriéndose a la apostasía y a la idolatría.
 
-[Contenido de esta sección...]
+### e) La remisión de los pecados
 
-## La distinzione dei peccati secondo la loro gravità nell’insegnamento di Gesù, pp. 3-34; J.
+La Revelación pone de relieve la sobreabundante misericordia del Señor: «Una vez que se multiplicó el pecado, sobreabundó la gracia» (Rm 5, 20-21). El pecado puede y debe ser superado, pues Cristo ha muerto para que los hombres no vivan según la carne; esto no viene de las propias fuerzas sino de Dios que, en Cristo, perdona si los hombres se dejan reconciliar con Él. La fórmula «remisión de los pecados» es frecuente en el NT: predicarla es parte de la misión del Bautista, del motivo de la encarnación de Jesús, de la misión de la Iglesia y del kérigma de los Apóstoles; por eso se encuentra en los Símbolos de la fe desde el primer momento. El hombre responde a la remisión mediante la conversión, que acoge la gracia de Jesús, requiere el reconocimiento de las propias culpas y el inicio de una vida nueva que se constata por sus frutos.
 
-[Contenido de esta sección...]
+## 2. Principales momentos del desarrollo de la doctrina eclesial sobre el pecado
 
-## Dios .
+### a) Los Padres
 
-[Contenido de esta sección...]
+El sacramento de la penitencia testifica el conocimiento que la Iglesia ha tenido siempre del pecado como enemistad con Dios y ruptura con la comunidad eclesial. Los Padres Apostólicos subrayan las dos vías (la del bien y la del mal), componen catálogos de virtudes y vicios y recuerdan que el pecado constituye el sumo mal. Los Apologistas insisten en la especificidad religiosa del pecado frente al paganismo y, en contraste con el gnosticismo, en su carácter de acto personal libre, aunque ligado al pecado original. Tertuliano recuerda la pecaminosidad de los actos internos y considera todo pecado como idolatría y desprecio de Dios.
 
-## Los Evangelios muestran también que no existe un solo tipo de culpa.
+San Agustín elabora un cuerpo de doctrina que perdura: muestra la psicología de la culpa distinguiendo sugestión, delectación y consentimiento, y afirma que el pecado proviene de la libre voluntad desordenada. Desarrolla la doctrina del pecado como aversio a Deo (separación de Dios) y conversio ad creaturas (tendencia desordenada hacia los bienes terrenos): el hombre está ordenado al Bien absoluto; cuando, movido por el amor propio, busca la satisfacción en los bienes finitos contra la voluntad de Dios, contraría la ley divina, se separa de Dios y produce un desorden en la vida eclesial y social. Agustín enlaza la doctrina del pecado con la fe en la redención, el perdón y la necesidad de la conversión personal. Durante el Alto Medioevo se difundió la penitencia privada y los Libros penitenciales; a partir del siglo XII, en el renacimiento escolástico, Tomás de Aquino ofreció una síntesis en continuidad con la reflexión agustiniana.
 
-[Contenido de esta sección...]
+### b) El Concilio de Trento
 
-## Señor . En definitiva, para Pablo el pecado es alejamiento del Dios miseri-
+El protestantismo subrayó que la esencia del pecado es la oposición a Dios por el deseo de plena autonomía, con soberbia, rebelión y desobediencia: pone de relieve el carácter antidivino del pecado y su gravedad. Pero en contraste con la fe católica no distingue claramente entre pecado original y pecados actuales singulares: la depravación de la naturaleza pervierte a todas las personas, el hombre nacería y permanecería siempre pecador (peca por su condición de pecador), y el justificado sería simul peccator et iustus, sin ser verdaderamente «nueva criatura». El Concilio de Trento se ocupó del pecado en tres momentos: sesión V (pecado original), sesión VI (justificación: todo pecado mortal priva de la gracia de Cristo; distinción entre pecado mortal y venial; el pecado no destruye totalmente la libertad) y sesión XIV (necesidad de confesar todos y cada uno de los pecados mortales).
 
-[Contenido de esta sección...]
+### c) El Concilio Vaticano II
 
-## El Concilio de Trento se ocupó del pecado, sobre todo en tres momentos.
+Trató el pecado principalmente en Gaudium et spes, nn. 13 y 37. El pecado existe desde el principio de la historia y, como posibilidad, está siempre presente: el hombre es proclive al mal, y las actividades humanas, por la soberbia y el egoísmo, corren diario peligro. Es a la vez dato de experiencia y verdad revelada. Ante la secularización del concepto, el Concilio afirma que el pecado se yergue siempre contra Dios y que de esta oposición derivan sus otros efectos: el pecador infringe el debido orden hacia sí mismo, hacia los demás y hacia todas las cosas creadas. La última palabra no es la potencia del pecado sino la reconciliación en Jesús, que vino a liberar y fortalecer al hombre renovándolo interiormente y arrojando fuera al príncipe de este mundo. Toda la vida humana aparece como una lucha dramática entre el bien y el mal.
 
-[Contenido de esta sección...]
+### d) Otros documentos del magisterio
 
-## Creador, que es bueno» . Ante la secularización del concepto de pecado, el
+La exhortación Reconciliatio et paenitentia se centra en la conversión, el pecado y la pastoral de la reconciliación. El hombre ha de reconocer el propio pecado en términos concretos. El pecado es el intento de ser potentes sin Dios y quizá contra Dios; su esencia más íntima es la desobediencia a Dios y a su ley, y por eso es ruptura con el prójimo. En sentido propio, el pecado es siempre un acto libre, aunque la persona pueda estar condicionada. Se habla de pecado social, en virtud de la solidaridad humana, en tres sentidos: 1) todo pecado repercute sobre toda la Iglesia y la humanidad; 2) hay pecados más directamente opuestos al prójimo, que ofenden a Dios porque ofenden al hermano; 3) se habla en sentido análogo de pecado social ante ciertas situaciones colectivas, fruto y concentración de muchos pecados personales. La Exhortación recuerda la división en mortal y venial y excluye la triple división (veniales, graves, mortales), pues entre la vida y la muerte no existe un punto intermedio; y enseña que no debe reducirse el pecado mortal a un acto de opción fundamental dirigida directamente contra Dios.
 
-[Contenido de esta sección...]
+El Catecismo trata el pecado en diversos momentos: pecado original (nn. 385-421), fe en Jesús Redentor (nn. 422-682), fe en el perdón (nn. 976-987), bautismo y penitencia, el pecado como obstáculo a la vocación del hombre (nn. 1846-1876), los diez mandamientos y las últimas peticiones del Padrenuestro. La Veritatis splendor recuerda que solo el Evangelio desvela la plena verdad sobre el pecado, que es ofensa a Dios y oscurece la conciencia; los pecados se evitan con la gracia, pero es necesario reconocerse pecador y pedir la ayuda divina: el publicano presenta una conciencia «penitente»; el fariseo, una conciencia «satisfecha de sí misma». Benedicto XVI ha recordado que la reconciliación entre los hombres solo es posible cuando el corazón se reconcilia con Dios; y Francisco ha subrayado la centralidad de la misericordia: «Ante la gravedad del pecado, Dios responde con la plenitud del perdón. La misericordia será siempre más grande que cualquier pecado, y nadie puede poner un límite al amor de Dios que perdona».
 
-## Cristo y, consiguientemente, impide llegar a la plenitud definitiva de la filiación divina.
+## 3. Esencia del pecado
 
-[Contenido de esta sección...]
+### a) Definición
 
-## Tomás en S.Th., I-II, q. 71, a. 6, y Catecismo, n. 1849.
+Es tradicional la definición agustiniana: pecado es «acto, palabra o deseo contrario a la ley eterna». Muestra dos aspectos: 1) el pecado es un acto humano, libre, con suficiente advertencia y consentimiento; todo lo que disminuye la libertad disminuye la razón de pecado; 2) es un acto contrario a la ley de Dios. En términos generales es pecado cualquier acto humano opuesto a la regla moral: contrario a la recta razón o a una ley humana, civil o eclesiástica. San Agustín lo relaciona con la ley eterna, primera y suprema regla moral, porque es el fundamento último de todas las demás (las contiene virtualmente) y porque al transgredir cualquier exigencia moral el hombre se pone en relación negativa con Dios. Considerando que el eterno designio salvífico mira a la santidad de los hombres a través de las virtudes teologales y morales, el pecado puede definirse como acto contrario a las virtudes éticas que rompe la comunión del hombre con Dios en Cristo e impide llegar a la plenitud definitiva de la filiación divina.
 
-[Contenido de esta sección...]
+### b) «Aversio a Deo» y «conversio ad creaturas»
 
-## Catecismo, n. 1488.
+Es tradicional distinguir en el pecado mortal dos elementos: el elemento formal es la aversio a Deo; el cuasi material es la conversio ad creaturas. «Aversio» significa separación, alejamiento, no necesariamente odio: no todo pecado grave comporta una explícita aversión a Dios. No se peca por ganas de oponerse al bien ni normalmente para conculcar la ley divina, sino por el deseo de un bien finito desordenado según la regla de la virtud. El pecado comporta un paradójico trueque: el pecador desea el bien parcial de una criatura y, para poseerlo, se aleja de Dios, Bien infinito, fuente de la bondad de las cosas. El origen psicológico de la acción pecaminosa no está en la oposición a Dios: la persona se deja seducir por un bien limitado contrario a su bien integral. Teológicamente, la raíz del pecado está en dudar de Dios, en no reconocerlo como Señor, Amor y Bien absoluto; en la base se evidencia el amor propio y la desconfianza en Dios. Este desorden pone a la persona en oposición con su tendencia más profunda, amar a Dios: «El amor a Dios no deriva de una disciplina externa, sino que se encuentra en la misma constitución natural del hombre, como un germen y una fuerza de la naturaleza misma» (San Basilio).
 
-[Contenido de esta sección...]
+### c) Único mal verdadero en sentido absoluto
 
-## Escritura. En todo caso, el pecado es real oposición y resistencia a la gracia del Espíritu Santo.
+Todo mal es privación de un bien. Los males no morales (enfermedad, pobreza) son privaciones de bienes finitos. El pecado mortal priva al hombre del Bien infinito, que es el bien pleno y definitivo del ser humano: el pecado es el único mal en sentido absoluto. La dignidad de Dios ofendida es infinita, por lo que la injuria del pecado y la deuda correspondiente son en cierto sentido infinitas; la gravedad se constata en el castigo (el infierno) y en la seriedad de la Pasión de Jesús como satisfacción justa.
 
-[Contenido de esta sección...]
+### d) ¿Por qué el pecado es siempre alejamiento de Dios?
 
-# CCL 44 A, 32.
+Primera consideración: para las personas con un grado elevado de vida moral, cuando el conocimiento moral está suficientemente desarrollado —con las virtudes intelectuales (ciencia, sabiduría) y, en el cristiano, con la fe—, se comprende que la ley moral natural es una ley divina y que su primer principio «arquitectónico» es el amor a Dios. Los actos opuestos a las virtudes son objetivamente incompatibles con la tendencia de la voluntad hacia Dios: realizar uno de esos actos y separarse voluntariamente de Dios es realmente una y la misma cosa. Además, la ley de Cristo es esencialmente la gracia del Espíritu Santo, que otorga los nuevos principios (las virtudes infusas); el Espíritu imprime un real dinamismo interior hacia las obras virtuosas, por lo que no es posible realizar una acción pecaminosa sin resistir realmente al dinamismo divino presente en el corazón: el pecado es real oposición y resistencia a la gracia del Espíritu Santo.
 
-[Contenido de esta sección...]
+Segunda consideración: los no creyentes o los que tienen un conocimiento moral mínimo. La Iglesia enseña que no existe el «pecado filosófico», una culpa que no sea también pecado. La acción libre se proyecta en el horizonte del bien completo de la persona, que consiste objetivamente en la vida en Dios. Las exigencias morales se presentan con un carácter absoluto e incondicional, dimensión que en sentido propio solo se puede aplicar a Dios: presentan un «carácter divino». Mediante este carácter absoluto, Dios está presente de algún modo en todo acto humano; quien lesiona una exigencia moral es consciente, según grados diversos, de lesionar un orden que no es meramente inmanente, y se pone en relación negativa con el Absoluto, es decir, con Dios. Como escribe Caffarra, la identidad entre acto moralmente deshonesto y pecado ha de entenderse en el sentido de que el valor moral tiene en sí mismo un carácter que le permite ser representante de Dios a nuestros ojos: en la decisión libre de violar un valor moral está ya implícita la decisión de desobedecer a su Voluntad. El bien o mal moral del acto tiene carácter absoluto e incondicional, pues se fundamenta en la participación e imitación del bien absoluto (Dios): «Santificaos y sed santos, porque yo soy santo» (Lv 19, 2); esta es la base de la ley natural, percepción moral de la razón humana como participación en la Sabiduría divina.
 
-## Cielos . El hombre, «mediante un acto consciente y libre de su voluntad,
+## 4. División de los pecados
 
-[Contenido de esta sección...]
+### a) Pecado mortal y pecado venial
 
-## Cristo y la muerte eterna del infierno» (n. 1861).
+El magisterio ha enseñado la existencia de pecados mortales y veniales: «La distinción entre pecado mortal y venial, perceptible ya en la Escritura (cfr. 1 Jn 5, 16-17), se ha impuesto en la tradición de la Iglesia. La experiencia de los hombres la corrobora» (CEC n. 1854). El término «pecado» se usa en sentido análogo para mortal y venial: no es solo una diferencia de grado, sino que son pecados de manera esencialmente diversa (distinción teológica). La razón de pecado se encuentra plenamente solo en el pecado mortal, que es del todo incompatible con la gracia y la caridad e implica separación de Dios; el venial no es incompatible con la caridad, aunque la debilite. El mortal hace perder la vida divina en el alma y solo él cierra la entrada al Reino de los Cielos. Reconciliatio et paenitentia define el pecado mortal como «el acto mediante el cual un hombre, con libertad y conocimiento, rechaza a Dios, su ley, la alianza de amor que Dios le propone, prefiriendo volverse a sí mismo, a alguna realidad creada y finita» (conversio ad creaturam). No todos los pecados mortales tienen la misma gravedad: «El que me ha entregado a ti tiene mayor pecado» (Jn 19, 11); el desorden puede ser más o menos grande. La gravedad depende de la intensidad de la voluntad al aceptar el desorden, y la materia del acto tiene valor decisivo.
 
-[Contenido de esta sección...]
+**Condiciones del pecado grave** — Se requieren tres condiciones simultáneas: materia grave, advertencia plena y perfecto consentimiento. «La afirmación del Concilio de Trento no considera solamente la "materia grave" del pecado mortal, sino que recuerda también, como una condición necesaria suya, el "pleno conocimiento y consentimiento deliberado"» (VS n. 70). La materia es grave cuando el objeto del acto es de por sí incompatible con la caridad, es decir, cuando se opone a una exigencia esencial de una virtud moral o teologal. Por la gravedad de la materia los pecados pueden ser: mortales ex toto genere suo (materia importante e indivisible; blasfemia, odio contra Dios, quitar la vida a un inocente), mortales ex genere suo (materia importante pero divisible, que admite parvitas materiae: el robo y la injuria) y leves ex genere suo (materia de modesta entidad: la mentira piadosa que no daña seriamente). La cualidad de las personas lesionadas cuenta también: la violencia contra los padres es más grave que contra un extraño (CEC n. 1858).
 
-## No todos los pecados mortales tienen la misma gravedad 85; Jesús dijo a Pilato:
+**Debate reciente sobre el pecado mortal** — Se han propuesto críticas a la doctrina tradicional: 1) la división teológica habría sido «inventada» por los escolásticos; 2) algunos rigoristas habrían asimilado el pecado grave con el mortal; 3) sería errónea la facilidad para cometer pecados mortales y pasar del pecado a la gracia; 4) ningún error categorial, incluso en materia grave, sería mortal, ni tampoco los pecados de fragilidad o de la adolescencia. El magisterio pone en guardia contra quienes rechazan la distinción tradicional apoyándose en la opción fundamental. Observaciones complementarias: 1) la distinción no es invención de los teólogos, sino enseñanza de la Iglesia basada en el Decálogo y en la experiencia humana de todos los tiempos; 2) no depende de un planteamiento rigorista sino de la Sagrada Escritura (los catálogos de vicios indican los pecados que excluyen del reino); 3) también los pecados aislados y de fragilidad pueden ser mortales; 4) es extraña a la Biblia y a la experiencia la idea de que la gracia se pierda solo por una radical opción realizable pocas veces en la vida (las negaciones de San Pedro); 5) la Iglesia es realista porque sabe que «llevamos este tesoro en vasos de barro»: no se sorprende de los pecados, pero quiere que los hombres se arrepientan y se acerquen al sacramento de la penitencia. La Iglesia rechaza la división tripartita (veniales, graves, mortales): «Queda siempre firme el principio de que la distinción esencial y decisiva está entre el pecado que destruye la caridad y el pecado que no mata la vida sobrenatural; entre la vida y la muerte no existe una vía intermedia». «El pecado mortal es una posibilidad radical de la libertad humana como lo es también el amor. Entraña la pérdida de la caridad y la privación de la gracia santificante… Si no es rescatado por el arrepentimiento y el perdón de Dios, causa la exclusión del Reino de Cristo y la muerte eterna del infierno; de modo que nuestra libertad tiene poder de hacer elecciones para siempre, sin retorno». San Agustín advierte: «No usemos balanzas engañosas… usemos la balanza divina de las Sagradas Escrituras». La Iglesia enseña: «Aunque podamos juzgar que un acto es en sí una falta grave, el juicio sobre las personas debemos confiarlo a la justicia y a la misericordia de Dios» (CEC n. 1861).
 
-[Contenido de esta sección...]
+### b) Pecados internos y pecados externos
 
-# VI.
+Los pecados externos se cometen con una acción observable (robo, adulterio); los internos permanecen en el interior del hombre (pensamiento, voluntad, sentidos internos). Jesús habla de pecados meramente internos: «Todo el que mira a una mujer deseándola, ya ha cometido adulterio en su corazón» (Mt 5, 28). El acto moral es propiamente el acto interno de la voluntad: los actos puramente interiores pueden ser pecado e incluso grave (los dos últimos mandamientos del Decálogo los prohíben). En principio los pecados interiores, también los mortales, son menos graves que los exteriores correspondientes, pues la voluntariedad es normalmente menor, pero son altamente peligrosos por la facilidad con que se realizan y pueden degenerar en vicios. Tradicionalmente se distinguen tres tipos: 1) el pensamiento consentido (delectatio morosa), que no es el simple pensamiento ni la imaginación, sino un querer pensar o imaginar un acto inmoral en su formalidad de malicia; 2) el deseo (desiderium), deseo interior y genérico en el que la persona se complace, distinto de la intención (querer eficaz); 3) la satisfacción (gaudium) por el acto realizado, gozar de algo hecho en el pasado sin asumir la decisión de repetirlo: «Quien se complace en el mal será condenado» (Si 19, 5); puede ser también la tristeza ante un mal no realizado (afligirse de no haber aprovechado una ocasión de robar fácil).
 
-[Contenido de esta sección...]
+### c) El pecado social y el problema de la responsabilidad colectiva
 
-## Testamento muestra la malicia de los pecados internos , Jesús reprocha
+La Revelación enseña la existencia de un «pecado del mundo» y de una responsabilidad social de los pecados. Puede hablarse de pecado social en un triple sentido: todo pecado, incluso el más oculto, afecta a toda la sociedad; hay pecados que hieren más directamente la vida social; existen situaciones colectivas que inducen al pecado (estructuras de pecado: Sollicitudo rei socialis, nn. 35-40). La moralidad depende de la advertencia y del libre querer de cada persona: una persona no es responsable del bien o del mal ejecutado por otros. En sentido riguroso la responsabilidad moral se reduce siempre a la responsabilidad individual; la «responsabilidad colectiva» se usa normalmente en sentido impropio y comporta el riesgo de confundir conceptos. Pero el reconocimiento del carácter personal de la responsabilidad no debe hacernos insensibles a la dimensión cultural y social: el pleno desarrollo de los principios morales requiere la educación recibida en las comunidades (familia, sociedad civil y económica, Iglesia, Estado). Las costumbres, leyes y modelos forjan modos de percibir y valorar; caminar contracorriente es posible y muchas veces un deber. La conciencia moral conserva siempre la capacidad de juzgar, pero su constitución se realiza en un contexto concreto: el conocimiento de la ley natural es natural «como lo es la capacidad de hablar». Existe un aspecto propiamente cultural de los fenómenos morales («cultura de la vida» y «cultura de la muerte»). Ante situaciones, estructuras o leyes injustas, cada uno ha de examinar su responsabilidad por comisión o, más frecuentemente, por omisión. En los bienes de naturaleza pública no basta la acción individual: es necesaria la organización (movimientos pro vida, asociaciones familiares y de consumidores, etc.).
 
-[Contenido de esta sección...]
+### d) Otras divisiones de los pecados
 
-## GRANADOS, La casa costruita sulla sabbia, cit., pp. 247-261.
+1) **Original y actual**: el pecado original lo cometieron nuestros primeros padres y se transmite por generación; el actual lo comete el mismo sujeto y de él es plenamente responsable. 2) **Formal y material**: el formal es la voluntaria transgresión de la ley divina; el material es un acto objetivamente desordenado en el que falta la voluntariedad (ignorancia invencible, violencia externa, falta de uso de razón); no hace culpable al sujeto, pero produce un daño objetivo. 3) **Acto pecaminoso y estado de pecado** (pecado habitual): el acto produce un estado (macula peccati), el desorden dejado en el pecador, reato de culpa y de pena y, en el mortal, privación de la gracia. 4) **De ignorancia, de fragilidad y de malicia**, según el factor interno que induce a pecar; la ignorancia y la fragilidad disminuyen la voluntariedad y la culpa, los de malicia nacen de la mala voluntad. 5) **Carnales y espirituales**, según tiendan a un bien sensible (lujuria) o espiritual (soberbia); los segundos son de por sí más graves, aunque los carnales son más vehementes. 6) **De comisión y de omisión**, según el acto voluntario se traduzca en acción o en omitir algo debido.
 
-[Contenido de esta sección...]
+## 5. Distinción específica y numérica de los pecados
 
-## Nicolás de Autrecourt, n. 58: DS 1409; CONC. DE TRENTO, De iustificatione, can. 6: DS 1556.
+Son específicamente distintos los pecados contra virtudes o preceptos diversos (el homicidio es específicamente diverso del robo). La distinción numérica indica la cantidad de pecados de un mismo tipo. Ambas son importantes porque en el sacramento de la penitencia es necesario arrepentirse y manifestar los pecados en su especie y número, en la medida moralmente posible, para que el ministro pueda emitir un juicio de gracia y salvación, curar las heridas y guiar al penitente. La integridad formal de la confesión requiere la acusación de todos los pecados mortales recordados tras un diligente examen de conciencia, especificando el número y las circunstancias moralmente importantes; la confesión genérica con absolución colectiva solo se puede realizar en casos muy excepcionales y no elimina la obligación de manifestar sucesivamente los pecados mortales perdonados. Principios para la distinción numérica: 1) los actos son diversos cuando se interrumpe la unidad moral de la decisión (en los internos basta una interrupción temporal; en los externos son numéricamente distintas las acciones concebidas como diversas —pequeños robos sin conexión—; las que confluyen en el mismo fin constituyen una unidad moral —robar poco a poco una gran cantidad es un pecado grave—); 2) en materia indivisible habrá tantas acciones mortales cuantos actos concretos se realicen (el odio a Dios, la lujuria).
 
-[Contenido de esta sección...]
+## 6. La causa del pecado
 
-## Señor, para que lo preserve en la hora de la prueba . 2) Con ayuda de la gra-
+### a) Causa remota y causa próxima
 
-[Contenido de esta sección...]
+Dios no puede ser de ningún modo la causa del pecado; la causa hay que buscarla en la criatura libre que lo comete. Se distingue la causa remota (la defectibilidad natural del hombre y el desorden moral producido por los pecados) y la causa próxima (la malicia de la propia voluntad). La causa remota explica la presencia del pecado en general, no cada pecado singular: «la raíz del pecado está en el corazón del hombre, en su libre voluntad» (CEC n. 1853).
 
-## San Pablo– tendríais que salir de este mundo» . Los criterios morales sobre
+### b) Los pecados y los vicios capitales
 
-[Contenido de esta sección...]
+Los vicios son hábitos operativos moralmente malos, opuestos a las virtudes; consolidan modos equivocados de sentir, juzgar y apreciar, y son origen de ulteriores pecados. Desde principios del siglo V se habla de vicios capitales; con San Gregorio Magno la lista se estabiliza en siete: 1) vanagloria o amor desordenado de la propia excelencia; 2) avaricia o amor desordenado de los bienes exteriores; 3) lujuria y 4) gula, que derivan del amor desordenado del placer sensible; 5) acidia (y pereza), rechazo y fuga del esfuerzo necesario para conseguir el bien moral o espiritual; 6) envidia, tristeza por el bien de los otros; 7) ira o intolerancia violenta ante la contrariedad. «Capital» viene de caput, la parte directiva del cuerpo: son fuente y principio directivo de otros pecados. La soberbia, amor propio desordenado, más que pecado capital es la raíz de todo pecado ex parte aversionis; es pecado grave de por sí, pues rechaza la sumisión a Dios. La avaricia es la raíz de todo pecado ex parte conversionis: «La raíz de todos los males es la avaricia» (1 Tm 6, 10).
 
-## Gracewing, Leominster (UK) 2014.
+### c) La tentación
 
-[Contenido de esta sección...]
+**Naturaleza** — «Tentar» puede significar probar las fuerzas de alguien (la prueba: «Dios los puso a prueba y los encontró dignos de Él», Sb 3, 5; la tentatio por antonomasia del AT es la prueba de Abrahán, Gn 22, 1), pero aquí se usa en el sentido de incitación al mal: la instigación al mal moral que se propone bajo la apariencia de bien para engañar a la voluntad. Las tentaciones, si no se buscan, tienen significado positivo: el mismo Jesús fue conducido al desierto para ser tentado; afrontadas con espíritu sobrenatural ayudan a crecer en gracia, virtudes y mérito (St 1, 12).
 
-## VI-2005; CONGR. PER LA DOTTRINA DELLA FEDE, Istr. Dignitas personae, 8-XII-2008, nn.
+**Tipos** — Las tentaciones proceden del mundo, del demonio y de la carne. 1) El mundo: no el mundo como criatura de Dios, sino el mundo pervertido por el pecado, enemigo de Dios; el «pecado del mundo» (Jn 1, 29) significa también la influencia negativa de las situaciones comunitarias y estructuras sociales fruto de los pecados (CEC n. 408); el Papa Francisco ha insistido en la «mundanidad espiritual» (Evangelii gaudium nn. 93-97; Gaudete et exsultate n. 75). 2) El demonio: el tentador por antonomasia; instiga al hombre a ofender a Dios por odio contra Él (Ef 6, 12). 3) La carne: el hombre viejo marcado por el pecado; concupiscencia como inclinación interior al mal, desorden de las fuerzas del alma resultado de los pecados (fomes peccati).
 
-[Contenido de esta sección...]
+**Principios morales** — 1) Las tentaciones no pueden vencerse únicamente con las propias fuerzas; hay que ser fiel al Señor. 2) Con ayuda de la gracia siempre se puede vencer la tentación: Dios no permite que seamos tentados por encima de nuestras fuerzas ayudadas por la gracia (1 Co 10, 13); «Dios no manda lo imposible; mas cuando manda, te anima a hacer lo que puedes, a pedir lo que no puedes» (Trento, De iustificatione, cap. 11). 3) Hay que luchar con prontitud: contra las tentaciones contra la fe, la esperanza y la caridad, con actos directamente opuestos; contra las de sensualidad, ocupando la mente en otras cosas. 4) Sentir la tentación no es pecado, lo es solo el consentir: el fomes peccati fue dejado ad agonem, para luchar, pero no perjudica a quien no consiente. 5) No es lícito ponerse voluntariamente en la tentación; si hay causa proporcionada, deben usarse medios para que el peligro sea remoto, y conviene pedir consejo de una persona prudente.
 
-## Dios que más se recuerdan en la Escritura . De hecho, el Señor llama a los
+**Ocasión de pecado** — Son las circunstancias exteriores que se presentan más o menos voluntariamente y suponen una tentación. Puede ser: a) próxima (peligro serio) o remota (peligro ligero); b) absoluta (peligro para cualquier persona normal) o relativa (solo para algunas); c) continua o discontinua; d) libre (depende de la voluntad) o necesaria (depende del estado de vida); e) grave o leve. El deber de evitar el pecado lleva al deber de evitar la ocasión, pero no se puede evitar toda ocasión: «tendríais que salir de este mundo» (1 Co 5, 10). Criterios: 1) obligación grave de evitar las ocasiones graves, próximas y libres; 2) hacer lo posible para que una ocasión próxima y necesaria se convierta en remota; 3) conviene evitar las ocasiones remotas, continuas y libres, pues corroen la vida espiritual. Quien no quisiera alejarse de una ocasión grave, próxima y libre manifiesta que no se arrepiente de sus pecados ni está dispuesto a evitarlos; con esas disposiciones no puede recibir válidamente la absolución sacramental (Inocencio XI condenó la proposición laxista opuesta; cfr. Mt 5, 29).
 
-[Contenido de esta sección...]
+## 7. Efectos del pecado
 
-## Hablando de la conversión del pecador, la S. Escritura subraya cinco ideas: 1)
+Los efectos derivan principalmente de la aversio a Deo y secundariamente de la conversio ad creaturas. El primer efecto del pecado mortal es la exclusión de la amistad divina: priva de la inhabitación de las tres Personas divinas, de la vida sobrenatural, de la gracia santificante y de la caridad; se pierden las virtudes infusas y los dones del Espíritu Santo, aunque la fe y la esperanza pueden permanecer en estado informe. Se pierden los méritos sobrenaturales, que pueden recuperarse con el arrepentimiento. El pecado mortal merece la pena eterna. El hombre, creado para vivir en comunión con Dios, contradice su profunda verdad: la narración del pecado de los primeros padres manifiesta el conflicto íntimo que el pecado introduce en la persona (esconderse de Dios, la desnudez, los espinos, la desconfianza entre las personas). El pecado influye negativamente en las dimensiones teocéntrica, personal, social y material. Los conflictos íntimos producen el remordimiento de conciencia, que puede ayudar a arrepentirse y a expiar; el veredicto de la conciencia queda también como signo de esperanza y misericordia (VS n. 61). «El pecado disminuye al hombre mismo impidiéndole la consecución de su propia plenitud» (GS n. 13): división entre hombre y Creador, en el corazón, entre los hombres y entre el hombre y la naturaleza (Reconciliatio et paenitentia, n. 23). El pecado tiene consecuencias en la comunidad eclesial y civil: el vínculo de la caridad que une a Cristo y a los miembros del cuerpo místico se debilita; el dogma de la comunión de los santos supone la influencia del actuar moral de cada uno sobre los demás: los pecadores dificultan la edificación de la Iglesia «a la que ofendieron con sus pecados». Los efectos antisociales son mayores cuando la repercusión pública es más directa.
 
-[Contenido de esta sección...]
+## 8. La cooperación al mal
 
-## Rm 5, 8.10; 2 Co 5, 18; 1 Jn 3, 9; 4, 10.
+Se entiende por cooperación al mal la realización de un acto humano que de algún modo facilita que otro efectúe una acción inmoral, de la que este es el autor principal. Jueces, empresarios, educadores, políticos, padres y amigos se ven afectados. Se distingue de la cooperación el escándalo: «El escándalo es la actitud o el comportamiento que induce a otro a hacer el mal»; el que escandaliza es causa de la mala voluntad del prójimo, mientras que la cooperación facilita la ejecución de una intención inmoral que otro decide autónomamente. La cooperación puede ser formal (querida directamente o por libre iniciativa, con aprobación de la acción inmoral) o material (tolerada o sufrida, sin aprobación). La cooperación material puede ser: a) inmediata o directa (ayudar a un ladrón a robar) o mediata o indirecta (vender vino a quien lo usará para embriagarse); b) próxima o remota según la concatenación física o moral con la acción del autor principal (el director de banco que concede préstamos a una revista que fomenta comportamientos inmorales coopera próximamente; quien invierte sus ahorros en ese banco, remotamente). La cooperación material inmediata es siempre próxima; la mediata puede ser próxima o remota.
 
-[Contenido de esta sección...]
+**Principios morales** — La cooperación formal al mal es siempre ilícita. La cooperación material, en términos generales, es también ilícita, porque la sociabilidad tiene un sentido eminentemente positivo. Pero hay circunstancias que pueden hacerla lícita: la primera condición es que se dé realmente la necesidad de realizarla, que no exista otra posibilidad de conseguir un bien necesario o evitar un mal oneroso; si existe la posibilidad de hacerlo sin cooperar, aunque comporte mayor esfuerzo, no es admisible. Si no hay otra posibilidad, el problema se resuelve con los criterios de la acción de doble efecto (cap. VI): la acción no puede comportar por sí misma la lesión de una virtud; la intención ha de ser recta; la acción inmoral ajena no puede ser el medio por el cual se consigue el bien necesario; ha de existir proporción entre el efecto bueno y el negativo. En las acciones especialmente graves (homicidio, aborto) nunca es lícito cooperar materialmente de manera inmediata (Evangelium vitae, n. 74). Cuando la cooperación es lícita, hay que tomar precauciones para evitar el peligro de pecado y el escándalo. Conviene insistir en el deber ético de cooperar al bien y de promover estructuras sociales que faciliten el recto obrar, evitando la casuística minimalista.
 
-## Lc 3, 8-14; Hch 3, 19; Ga 5, 16-17.24-26; 1 Ts 1, 9; St 5, 19-20; 1 P 2, 1.11; Ap 2, 5; 3, 3.19.
+## 9. Conversión del pecado
 
-[Contenido de esta sección...]
+La gran novedad del anuncio bíblico es que la realidad del pecado no es definitiva: se puede conseguir el perdón de un «Dios compasivo y misericordioso, lento a la cólera y rico en misericordia»; «Dios de nada se alegra tanto como de la conversión y de la salvación del hombre». La conciencia del pecado no comporta una actitud pasiva; la realidad de la culpa manifiesta por contraste cuatro ideas: la profundidad de la misericordia divina, la necesidad de aceptar la debilidad humana, la sobreabundancia de la gracia y el requisito de la cooperación humana (Reconciliatio et paenitentia, nn. 19-22).
+
+### a) La misericordia de Dios
+
+El mysterium pietatis es más grande que el mysterium iniquitatis: ningún pecado puede extinguir la misericordia divina; el perdón del pecado revela el amor del Padre por medio del sacrificio del Hijo y el don del Espíritu. El Señor llama a los pecadores a la penitencia, facilita su realización y muestra el camino: la parábola del hijo pródigo, cuyo centro es «el padre misericordioso» (Lc 15, 11-24), describe el proceso de conversión: la fascinación de una libertad ilusoria, la miseria, la humillación, la reflexión sobre los bienes perdidos, el arrepentimiento, el retorno, la acogida generosa y la alegría del padre; «el mejor vestido, el anillo y el banquete de fiesta son símbolos de esta vida nueva… que es la vida del hombre que vuelve a Dios y al seno de su familia, que es la Iglesia» (CEC n. 1439).
+
+### b) La «metánoia»
+
+La misericordia y la gracia cancelan el pecado y confieren fuerza de no pecar más, pero al cristiano se le pide una actitud penitente: «Reconocer el propio pecado… reconocerse pecador, capaz de pecado e inclinado al pecado, es el principio indispensable para volver a Dios» (Reconciliatio et paenitentia, n. 13). La palabra griega más empleada es metánoia: la imagen semita evoca a quien se da cuenta de haber equivocado el camino y se aparta de él tomando una dirección nueva. Metánoia significa: a) arrepentimiento y dolor del pecado cometido; b) conversión de la mente y transformación del modo de pensar, que lleva a confiar en Dios y a decidir cumplir su voluntad; c) respuesta positiva a la gracia divina; d) esfuerzo por adoptar una actitud moral nueva que involucre todas las energías personales. La Escritura subraya cinco ideas: 1) los pecados alejan de Dios; 2) la iniciativa de la reconciliación es divina (no hay penitencia auténtica sin gracia preveniente); 3) la conversión exige un cambio «del corazón», más que un rito externo; 4) el pecador ha de reconocer y confesar sus pecados; 5) ha de cambiar de vida. La metánoia no es propia solo del inicio de la vida cristiana: ha de ser permanente, y también quienes se creen «justos» necesitan convertirse.
+
+### c) Los sacramentos del perdón
+
+En la actual economía de la salvación, la reconciliación con Dios es posible solamente en Cristo y mediante Cristo, y se realiza a través de la Iglesia, sacramento universal de salvación. Jesucristo, con su misterio pascual, es la causa meritoria y eficiente de la conversión y la salvación; para perpetuar esa acción instituyó los sacramentos, que justifican y transforman a la persona, expresan y perfeccionan la imagen de la Santísima Trinidad en el alma. La moral cristiana es necesariamente una moral sacramental: la primera gracia se recibe siempre a través de un sacramento, el bautismo, al menos de deseo; la vía ordinaria para la remisión de los pecados cometidos después del bautismo es el sacramento de la penitencia (Reconciliatio et paenitentia, n. 31). Nada es más personal e íntimo que este sacramento, en el que el pecador se encuentra ante Dios solo con su culpa, su arrepentimiento y su confianza; pero es innegable su dimensión social: es la Iglesia entera —la militante, la purgante y la gloriosa— la que interviene para socorrer al penitente y lo acoge de nuevo en su regazo.
+
+## 10. Conversión, vida moral y lucha ascética
+
+La conversión comporta una radical reorientación de toda la vida: retorno a Dios con todo el corazón, ruptura con el pecado y aversión a las malas acciones; requiere el deseo y la resolución de cambiar de vida, contando con la misericordia y la gracia. El Señor concede siempre la gracia a quien hace lo que está de su parte, sin olvidar que es Él quien mueve la libertad humana para convertirse (GS n. 17). La plena comprensión de la llamada a la santidad difícilmente se alcanza sin la previa experiencia del pecado y de la conversión: solo quien entiende que necesita ser liberado y salvado está en condiciones de encontrar a Cristo, «al cual hizo Dios para nosotros sabiduría, justicia, santificación y redención» (1 Co 1, 30); la regeneración en Cristo es un acontecimiento de alcance ontológico que se manifiesta moralmente como tránsito de los vicios a las virtudes cristianas (cfr. 1 Co 6, 9-11).
+
+Este cambio no es inmediato. Cristo es el principio de la nueva vida, imposible sin la posesión inicial de las virtudes teologales y morales infusas. La vida informada por ellas comienza a expresarse como lucha contra el pecado y la concupiscencia, progresivo esclarecimiento de la conciencia, interiorización de las indicaciones normativas de la ley moral, educación de la capacidad de juicio, de la voluntad y de los sentimientos, corrección de nuestra actitud frente a los bienes terrenos, recurso a los medios de santificación, aceptación de las exigencias de la caridad fraterna y esfuerzo por no dejarse arrastrar del desánimo. Los enunciados normativos de la ley moral son en esta fase una ayuda insustituible: indican los límites que el creyente no puede traspasar. Pero el dinamismo intrínseco de la gracia del Espíritu Santo va mucho más allá: cuando el creyente lo secunda con docilidad, va al encuentro de sucesivas conversiones, cada una de las cuales representa un crecimiento de Cristo en nosotros, hasta poder decir «no vivo yo, sino que Cristo vive en mí» (Ga 2, 20). Se pasa al libre y pleno desarrollo de las virtudes cristianas y de los dones del Espíritu Santo, que regulan íntimamente nuestras elecciones, de modo que todos los bienes y actividades se conviertan en medio eficaz de unión con Cristo. El camino no es fácil: hay resistencias, titubeos, momentos de oscuridad y de crisis, que quizá son también de purificación y crecimiento; solo después de nuestra resurrección en Jesús la transformación a imagen del Hijo será completa. Con la ayuda de la gracia, la llamada a la santidad es ya en este mundo algo concretamente realizable: Dios nos ha elegido en Cristo «antes de la creación del mundo, para que fuéramos santos y sin mancha en su presencia, por el amor» (Ef 1, 4). Recordar este designio del amor divino y actualizarlo es la tarea principal y perenne de la teología moral.

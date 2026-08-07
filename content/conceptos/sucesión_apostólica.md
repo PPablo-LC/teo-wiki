@@ -40,6 +40,12 @@ Eusebio estableció que la sucesión apostólica es el criterio fundamental para
 - La unanimidad geográfica (desde Roma hasta Siria, desde Galia hasta Egipto) confirma la autenticidad.
 - Los apócrifos no tienen punto de origen en iglesias apostólicas.
 
+## Perspectivas por fuente
+
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La sucesión apostólica garantiza que la Iglesia conserve y transmita íntegro el depósito de la fe —la [[sagrada_escritura]], la [[tradición_apostólica]] y la enseñanza del [[magisterio_de_la_iglesia]]— de generación en generación. En ella se apoya la permanencia de la [[comunión_eclesial]] a través de los siglos: por la sucesión de los apóstoles, la comunión en la fe y en la vida de Cristo que no se puede dividir se mantiene viva hasta la consumación (Cap. I, §1b).
+
 ## Distinciones importantes
 
 - La sucesión apostólica no garantiza la infalibilidad individual de cada obispo, sino la fidelidad de la enseñanza de la Iglesia.

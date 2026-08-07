@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Pecado
 tags: ["moral"]
 
-timestamp: 2026-06-02
+timestamp: 2026-08-06
 description: "El pecado es «una trasgresión voluntaria de la ley de Dios». Supone tres elementos esenciales: materia prohibida, advertencia del entendimiento y consentimiento de la voluntad."
 ---
 # Pecado
 
 > Área: Moral
-> Última actualización: 2026-06-02
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -110,6 +110,10 @@ El P. Jorge Loring define el pecado como «toda acción u omisión voluntaria co
 
 Las causas principales que incitan al pecado son tres: el mundo con sus criterios relajados y ambientes corruptos, el demonio con sus tentaciones, y la carne con sus inclinaciones desordenadas. La inclinación al pecado se concreta en los siete pecados capitales: soberbia, avaricia, lujuria, ira, gula, envidia y pereza (PS §11,56,5). Loring advierte que el pecado no es algo que cae inesperadamente, sino que «se va fraguando poco a poco dentro de nosotros mismos» mediante repetidas infidelidades consentidas (PS §11,56,1).
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+En el anuncio cristiano el pecado no es un tema primario, sino indirecto y reflejo: en la arcaica formulación de fe de la Primera Carta a los Corintios —«Cristo murió por nuestros pecados, según las Escrituras; fue sepultado y resucitó al tercer día» (1 Co 15, 3-5)— la mención de los pecados se pone en segundo lugar, en función del hecho de que Cristo ha muerto por ellos: la confesión de fe es cristológica. Esta consideración, lejos de desvirtuar la importancia del pecado, la subraya colocándola en su justa perspectiva. El que vive en Cristo está muerto al pecado: «consideraos muertos al pecado, pero vivos para Dios en Cristo Jesús. Por lo tanto, que no reine el pecado en vuestro cuerpo mortal» (Rm 6, 11-12). Entre la vida del hombre en Cristo y el pecado existe una total incompatibilidad: el pecado se opone a la santidad de Dios y a la vida en Cristo, supone un «no» del hombre a la llamada divina, es el alejamiento de Dios que en Cristo se ha acercado y se acerca a nosotros [Ele_Xto_Stos, Cap. III, §3a].
+
 
 ## Distinciones importantes
 
@@ -137,3 +141,4 @@ Las causas principales que incitan al pecado son tres: el mundo con sus criterio
 - SmTh Ia-IIae q.71-89
 - [San Juan de la Cruz, Subida I,11]
 - [PS §11,56]
+- Ele_Xto_Stos, Cap. III, §3a

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Imprudencia
 tags: ["moral"]
 
-timestamp: 2026-06-09
+timestamp: 2026-08-06
 description: "La imprudencia es el vicio opuesto a la virtud de la [[prudencia]]."
 ---
 # Imprudencia
 
 > Área: Moral
-> Última actualización: 2026-06-09
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -44,6 +44,12 @@ La imprudencia es pecado mortal cuando hay desviación de las reglas divinas con
 
 La imprudencia puede tomarse en doble sentido: como privación (mera falta de prudencia, que puede no ser pecado si no hay obligación de tenerla) y como contrariedad (obrar contra la prudencia, que siempre es pecado). Como contrariedad incluye tres especies principales según el acto de la razón en que se produce el defecto: precipitación (consejo), inconsideración (juicio) e inconstancia (imperio). La raíz de todos ellos es la lujuria (q.53 a.6). En la ley antigua no se dieron preceptos prohibitivos explícitos contra la imprudencia directa, a diferencia de la astucia (q.56 a.2).
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+Según el proceso normal del comportamiento ético, la elección equivocada presupone un desorden moral de la voluntad: la imprudencia (el razonamiento y juicio práctico de donde proviene la elección contraria a la virtud) es una culpa moral, no un error técnico de valoración, y la imprudencia habitual es un vicio (Ele_Xto_Stos, Cap. VII, §3c).
+
+El vicio fija en el ánimo una finalidad torcida («todo lo que produce placer ha de ser gozado», «hay que evitar todo esfuerzo fastidioso»), a partir de la cual la razón delibera imprudentemente de modo habitual (Ele_Xto_Stos, Cap. VII, §3b).
+
 ## Distinciones importantes
 
 - **Imprudencia como privación vs. como contrariedad**: la primera es mera ausencia; la segunda es oposición activa
@@ -66,3 +72,5 @@ La imprudencia puede tomarse en doble sentido: como privación (mera falta de pr
 - SmTh IIa-IIae q.53 (imprudencia)
 - SmTh IIa-IIae q.54 (negligencia)
 - TPCr, Tercera Parte, Libro I, Cap. V
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §3c
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §3b

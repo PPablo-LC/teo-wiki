@@ -60,6 +60,9 @@ El canon 760 establece que el ministerio de la palabra, que incluye la predicaci
 
 Loring enseña que la Sagrada Escritura es la Palabra de Dios escrita por inspiración del Espíritu Santo, que tiene a Dios como Autor [PS §06,7-06,8]. El canon de los libros inspirados fue promulgado oficialmente por el Concilio de Trento en 1546, basándose en la Tradición de la Iglesia, y ya en el Concilio de Hipona (393) se había hecho la primera lista. La Biblia consta de 73 libros: 46 del Antiguo Testamento y 27 del Nuevo [PS §38,2]. La inerrancia de la Escritura se da en lo que Dios quiso enseñar para nuestra salvación; su lenguaje es popular y acomodado a la época, no pretende enseñar ciencias profanas [PS §06,8]. «El desconocimiento de las Escrituras es desconocimiento de Cristo» (San Jerónimo) [PS §06,8]. La Escritura y la Tradición son las dos fuentes de la Revelación, y deben recibirse con el mismo espíritu de devoción [PS §38,2].
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La sagrada Escritura es inspirada por Dios y ha sido confiada a la Iglesia, en la cual debe ser leída e interpretada. Aunque la [[revelación_divina]] se contiene en la Escritura y en la [[tradición_apostólica]] como en un solo depósito, la Escritura sin la Tradición resulta formalmente insuficiente para conocer el contenido íntegro de la revelación. Por eso la teología moral se apoya a la vez en la Escritura inspirada, en la Tradición viva y en el [[magisterio_de_la_iglesia]] que la interpreta auténticamente (Cap. I, §3a).
 
 ## Distinciones importantes
 

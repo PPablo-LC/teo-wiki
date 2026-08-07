@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Bienaventuranzas
 tags: ["moral"]
 
-timestamp: 2026-07-23
+timestamp: 2026-08-06
 description: "Las bienaventuranzas son las ocho declaraciones de Jesús en el Sermón de la Montaña (Mt 5,3-12) que están en el centro de su predicación."
 ---
 # Bienaventuranzas
 
 > Área: Moral
-> Última actualización: 2026-07-23
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -135,6 +135,10 @@ La Vida de Jesús (VJ) desarrolla las Bienaventuranzas como la «Carta Magna del
 
 Juan Pablo II afirma que el Evangelio es exigente. La «puerta estrecha» (Mt 7,14). La moral y el esplendor de la verdad (UDE, Cap. XXVII).
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+Las bienaventuranzas son el núcleo del «Sermón de la montaña», uno de los discursos morales de Jesús por el que la tradición ha mostrado predilección. Junto con el «mandamiento del amor» y la confirmación del «decálogo», se pueden considerar como el resumen del obrar moral cristiano (Mt 5, 48; St 1, 4; 1 P 1, 15-16) (Ele_Xto_Stos, Cap. III, §4a).
+
 ## Analizado para
 
 - [[adam_farber_fortitude_through_excellence_in_patience]]
@@ -149,3 +153,4 @@ Juan Pablo II afirma que el Evangelio es exigente. La «puerta estrecha» (Mt 7,
 - [Mt 5,3-12]
 - [Lc 6,20-26]
 - WoF, Lección 2: "Somos bienaventurados"
+- Ele_Xto_Stos, Cap. III, §4a

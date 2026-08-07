@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Contemplación
 tags: ["mística"]
 
-timestamp: 2026-07-14
+timestamp: 2026-08-06
 description: "La contemplación infusa es una simple intuición de la verdad divina procedente de la fe ilustrada por los dones de entendimiento, sabiduría y ciencia en estado perfecto."
 ---
 # Contemplación
 
 > Área: Mística
-> Última actualización: 2026-05-20
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -67,6 +67,14 @@ El Santo distingue el «recogimiento interior» de la mera meditación: «No sab
 
 **D‑1343**: «Las almas contemplativas están privadas de la vista distinta, sensible y refleja de Jesucristo en dos tiempos diversos. Primero, en el fervor naciente de su contemplación; segundo, pierde el alma la vista de Jesucristo en las pruebas extremas.» Condenada. La condena afirma que la consideración de la humanidad de Cristo es permanente en la vida cristiana y no se pierde en ningún estado de contemplación.
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La vida de unión con Dios alcanzada a través de las virtudes teologales y los dones del Espíritu Santo, especialmente de la [[caridad]], da lugar a una verdadera contemplación de Cristo y de Dios. Esta contemplación ordinaria no consiste en los fenómenos místicos extraordinarios, sino en el esfuerzo y la capacidad de descubrir a Dios en todo acontecimiento de la propia vida, incluso en medio de las muchas ocupaciones terrenas, sin olvidar que Él se encuentra en el centro del alma en gracia —«*interior intimo meo*», más íntimo a mí que yo mismo, decía San Agustín—. En ella se inserta la amistad con el Señor a través de la oración y los actos de piedad y de culto.
+
+San Josemaría Escrivá ilustra eficazmente la contemplación ordinaria alcanzable por todo cristiano: «Primero una jaculatoria, y luego otra, y otra..., hasta que parece insuficiente ese fervor [...]: y se deja paso a la intimidad divina, en un mirar a Dios sin descanso y sin cansancio [...]. Mientras realizamos con la mayor perfección posible las tareas propias de nuestra condición y de nuestro oficio, el alma ansía escaparse [...]. No me refiero a situaciones extraordinarias. Son, pueden muy bien ser, fenómenos ordinarios de nuestra alma [...]. Al elevar todo ese quehacer a Dios, la criatura diviniza el mundo» (Ele_Xto_Stos, Cap. II, §4b).
+
+En el Cap. III, §4c se precisa que la contemplación consiste en tener la «mirada» de la fe fija en Jesús, para conocer mejor su querer y para identificarse más y más con Él. Esta contemplación no exige la *fuga mundi*: al contrario, se puede y se debe realizar en la vida ordinaria y por medio de las actividades terrenas: «Cuando nuestro espíritu va en busca de los bienes temporales para hallar en ellos su reposo, queda esclavizado a ellos. Pero cuando los busca en orden a la bienaventuranza, no es arrastrado hacia abajo por ellos, sino que, más bien, es él quien los eleva a un nivel superior» (S.Th., II-II, q. 82, a. 3, ad 2), y los utiliza para establecer en todo momento un diálogo amoroso con el Señor (Ele_Xto_Stos, Cap. III, §4c).
+
 ## Distinciones importantes
 
 - Contemplación natural (sensible, imaginativa, intelectual) vs. sobrenatural o infusa.
@@ -90,3 +98,5 @@ Se relaciona con los [[grados_de_oración]], la [[meditación]] (como preparaci�
 
 - TPCr, Tercera Parte, Libro II, Cap. III, n.514-552
 - Denzinger D-1341–D-1343 (Inocencio XII, *Cum alias*)
+- Ele_Xto_Stos, Cap. II, §4b
+- Ele_Xto_Stos, Cap. III, §4c

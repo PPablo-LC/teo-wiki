@@ -27,7 +27,7 @@ La razón humana tiene la capacidad de conocer el bien moral mediante la ley nat
 - **Gaudium et Spes, n. 16**: La conciencia humana como lugar donde se manifiesta la ley natural.
 - **Dignitatis Humanae, nn. 1-2**: La libertad religiosa y la autonomía de la conciencia.
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor presenta la justa autonomía como:
 

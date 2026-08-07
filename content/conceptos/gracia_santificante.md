@@ -75,6 +75,10 @@ El P. Jorge Loring dedica el capítulo 9 de *Para Salvarte* a la vida sobrenatur
 
 La gracia santificante es «un don personal sobrenatural y gratuito, que nos hace verdaderos hijos de Dios y herederos del cielo». Se recibe en el bautismo, es un don permanente mientras no se pierde por pecado mortal, y nos concede las virtudes teologales y morales. Hace al hombre «participante de la naturaleza divina», elevándolo por encima de todas las demás criaturas. Sin ella, el alma está como una bombilla sin corriente eléctrica: por fuera parece igual, pero por dentro no funciona para el cielo (PS §09,42,1).
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La primera gracia santificante recibida en el bautismo es una «auténtica participación en la naturaleza divina» que configura ontológicamente al hombre con Cristo y lo hace verdaderamente hijo de Dios. La teología trinitaria explica este don: el Padre comunica enteramente su naturaleza al Hijo, y ambos al Espíritu Santo; el designio del Amor divino de comunicar la vida y la bienaventuranza divinas se realiza mediante una «comunicación parcial», una participación, de la naturaleza y de la vida divinas que permite alcanzar la visión de Dios y la bienaventuranza eterna (Bula *Exsultate Deo*, DS 1314; *Lumen gentium* n. 7). Esta «comunicación parcial» es la gracia santificante que configura con Cristo (Cap. I, §1a).
+
 ## Distinciones importantes
 
 - **Gracia increada**: Dios mismo, que se comunica al alma inhabitante.

@@ -22,7 +22,7 @@ Aristóteles desarrolla una ética de la virtud (ética nicomáquea) que se preg
 
 ## Perspectivas por fuente
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor presenta la ética aristotélica como:
 

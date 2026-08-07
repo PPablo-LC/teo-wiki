@@ -27,7 +27,7 @@ Jesucristo no vino a abolir la ley, sino a darle cumplimiento pleno (cf. Mt 5, 1
 - **§1965-1974**: La nueva ley como cumplimiento de la antigua.
 - **§1213-1216**: La continuidad entre Antiguo y Nuevo Testamento.
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor insiste en que:
 

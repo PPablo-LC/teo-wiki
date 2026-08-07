@@ -22,7 +22,7 @@ La ética filosófica (como la aristotélica o kantiana) es anterior al cristian
 
 ## Perspectivas por fuente
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor presenta la relación como:
 

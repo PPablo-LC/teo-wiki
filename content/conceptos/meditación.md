@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Meditación
 tags: ["ascética"]
 
-timestamp: 2026-05-20
+timestamp: 2026-08-06
 description: "La meditación discursiva es la aplicación razonada de la mente a una verdad sobrenatural para convencernos de ella y movernos a amarla y practicarla con ayuda de la gracia."
 ---
 # Meditación
 
 > Área: Ascética
-> Última actualización: 2026-05-20
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -33,6 +33,10 @@ La meditación es convenientísima para salvarse y absolutamente imprescindible 
 
 Royo Marín recoge múltiples métodos históricos: el de Casiano, San Bernardo, Hugo de San Víctor, Guido Cartujano, Fray Luis de Granada, San Pedro de Alcántara, San Ignacio de Loyola (aplicación de las tres potencias), San Francisco de Sales, San Alfonso de Ligorio, el método de San Sulpicio, y San Juan Bautista de la Salle. Todos coinciden en el fondo: presencia de Dios, recapacitación, conversación afectiva con Dios, y resolución concreta (n.500).
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+Para mantener la continua intimidad con Dios es conveniente dedicar ratos concretos a la meditación y a la plegaria; es este un deber —como el de la santidad— que atañe a todo cristiano: «preciso orar siempre sin desfallecer» (Lc 18, 1). Entre las prácticas de piedad recomendadas por los distintos autores se cuenta la práctica metódica de la meditación y de la oración mental, conforme a la definición de Santa Teresa de Jesús: «No es otra cosa oración mental, a mi parecer, sino tratar de amistad, estando muchas veces tratando a solas con quien sabemos nos ama» (Libro de la Vida, cap. 8, 5) (Ele_Xto_Stos, Cap. III, §4c).
+
 ## Distinciones importantes
 
 - La meditación no es simple lectura espiritual; esta última no es oración.
@@ -51,3 +55,4 @@ La meditación es el segundo grado de oración, precedido por la [[oración]] vo
 ## Referencias
 
 - TPCr, Tercera Parte, Libro II, Cap. III, n.498-502
+- Ele_Xto_Stos, Cap. III, §4c

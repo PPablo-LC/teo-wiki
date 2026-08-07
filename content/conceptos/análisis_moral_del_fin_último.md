@@ -27,7 +27,7 @@ El fin último del hombre no es un bien particular, sino el bien supremo (Deus u
 - **I-II, q. 1, a. 5**: El fin último del hombre es la beatitud.
 - **I-II, q. 1, a. 6**: La beatitud consiste en la visión de la esencia divina.
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor presenta el análisis como:
 

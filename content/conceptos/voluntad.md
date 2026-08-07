@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Voluntad
 tags: ["antropología"]
 
-timestamp: 2026-06-05
+timestamp: 2026-08-06
 description: "La voluntad es una facultad espiritual del alma humana, propia del entendimiento intelectivo, que inclina al hombre hacia el bien conocido por el entendimiento."
 ---
 # Voluntad
 
 > Área: Antropología
-> Última actualización: 2026-06-05
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -99,6 +99,13 @@ La versión femenina insiste en la misma distinción entre querer y desear: «Ha
 
 La voluntad es una de las potencias del alma donde reside la virtud de la justicia. La conformidad con la voluntad de Dios es uno de los grandes resortes psicológicos para el adelantamiento en la vida espiritual, junto con la energía de carácter, el deseo ardiente de la perfección y la fidelidad a la gracia.
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La voluntad no es una tendencia más, sino una instancia superior de control. Autores como Wundt sostienen que el querer es solo una emoción del fondo endotímico; esta equiparación no es aceptable. Las tendencias tienen un [[carácter_pathico_de_las_tendencias|carácter pathico]] (del griego *pâschein*, padecer); en el querer, en cambio, el hombre se percibe como centro activo, consciente y unitario: es él mismo quien se determina activamente, planifica y gestiona su querer. La experiencia del autodominio y la autodeterminación se diferencia del flujo de los fenómenos endotímicos (Ele_Xto_Stos, Cap. V, §2d).
+
+Muchas temáticas de la voluntad proceden «materialmente» de las tendencias, pero la distinción subsiste porque la voluntad aparece como una toma de posición personal acerca de lo que sugieren las tendencias: acepta, rechaza, favorece, elabora, modifica o reprime. La autonomía del querer se basa en una dinámica específica, la aspiración que sigue a la inteligencia (*voluntas ut natura*): el deseo del bien captado como tal por la inteligencia. La voluntad es también deseo, y tiene una temática específica, al menos formal: incluso las temáticas de las tendencias son evaluadas en relación con el bienestar global de la persona (Ele_Xto_Stos, Cap. V, §2d).
+
+La voluntad no es solo deseo: para no reducirla a deseo es necesario asumir un [[concepto_hiperteleológico_de_voluntad|concepto hiperteleológico de voluntad]], característico de la antropología cristiana. Para el pensamiento griego la voluntad era una facultad básicamente tendencial y desiderativa; solo el conocimiento era considerado la operación inmanente que posee su propio fin. Por eso Santo Tomás dice que más o menos todos los filósofos vislumbraron que Dios es Logos, pero que Dios es amor no lo vislumbró ninguno. El cristianismo sabe que Dios es Amor: el amor —que consiste en darse— es una actuación específica de la voluntad. En el don de sí se reúnen y purifican los elementos procedentes de las tendencias, en particular los de las [[tendencias_transitivas]] (Ele_Xto_Stos, Cap. V, §2d).
 
 ## Distinciones importantes
 
@@ -126,3 +133,4 @@ La voluntad es la facultad donde residen la [[caridad]] y la [[justicia]]. Se re
 - SmTh Ia-IIae qq.11-17
 - SmTh Ia-IIae q.19 aa.1-9
 - [Santo Tomás, I, q.82-83; I-II, q.6-17]
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. V, §2d

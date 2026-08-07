@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Ignorancia
 tags: ["moral"]
 
-timestamp: 2026-06-12
+timestamp: 2026-08-06
 description: "La ignorancia es la privación del conocimiento que uno está obligado a tener. En cuanto causa del pecado, consiste en la falta de conocimiento perfectivo de la razón que impide el acto pecaminoso."
 ---
 # Ignorancia
 
 > Área: Moral
-> Última actualización: 2026-06-12
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -52,6 +52,10 @@ La ignorancia invencible del pecado puede atenuar o incluso eximir de la imputab
 
 El canon 1323 establece que no quedan sujetos a pena quienes obraron por ignorancia sin culpa. El canon 1325 señala que no se toma en cuenta la ignorancia crasa, supina o afectada.
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La ignorancia se refiere al conocimiento erróneo de las circunstancias de la acción o de su moralidad; se estudiará al tratar la conciencia moral, en el capítulo X. Se distingue de la inadvertencia, que es la ausencia de conocimiento: mientras la inadvertencia procede de un obstáculo que anula el conocimiento, la ignorancia es un conocimiento erróneo de las circunstancias de la acción o de su moralidad (Ele_Xto_Stos, Cap. VI, §6b).
+
 ## Distinciones importantes
 
 - **Ignorancia vencible** (puede superarse con diligencia ordinaria) ≠ **ignorancia invencible** (no puede superarse).
@@ -73,3 +77,4 @@ La ignorancia se relaciona con [[pecado]], [[conciencia]], [[imputabilidad]], [[
 - SmTh IIIª q.15 a.3
 - CEC §1859-1860
 - CIC cc.1323, 1325
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VI, §6b

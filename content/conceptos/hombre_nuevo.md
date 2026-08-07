@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Hombre nuevo
 tags: ["dogmática", "antropología_teológica"]
 
-timestamp: 2026-06-29
+timestamp: 2026-08-06
 description: "El «hombre nuevo» es el hombre redimido y recreado en Cristo, llamado a la filiación divina por la gracia de la adopción en el Unigénito Hijo de Dios."
 ---
 # Hombre nuevo
 
 > Área: Dogmática / Antropología teológica
-> Última actualización: 2026-06-29
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -41,6 +41,10 @@ San Pablo describe dos conductas: la moral de la carne (hombre viejo) y la moral
 
 [FMC cap. V:2 (B.1-2)]
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La cooperación moral del hombre al don de Dios se expresa en los Escritos Apostólicos según dos momentos, que la Carta a los Efesios describe como «abandonar la conducta del hombre viejo» y «renovarse y revestirse de Cristo»: «abandonar la antigua conducta del hombre viejo, que se corrompe conforme a su concupiscencia seductora, para renovaros en el espíritu de vuestra mente y revestiros del hombre nuevo, que ha sido creado conforme a Dios en justicia y santidad verdaderas» (Ef 4, 22-24). En definitiva, es necesario tanto el esfuerzo de luchar contra el pecado y el vicio (el «hombre viejo») cuanto la práctica de las virtudes y el uso de los medios de santificación (el «hombre nuevo») [Ele_Xto_Stos, Cap. III, §2].
+
 ## Distinciones importantes
 
 La *Redemptor Hominis* distingue entre la condición del hombre caído (sujeto al pecado, a la vanidad de la creación, a la muerte) y el hombre redimido en Cristo (nuevamente creado, elevado a la filiación divina, destinado a la vida eterna). El paso de una condición a otra se realiza por la unión con Cristo en el misterio de la Redención.
@@ -56,3 +60,4 @@ El hombre nuevo se vincula con [[filiación_divina]], [[adopción_divina]], [[re
 ## Referencias
 
 - RH §10, §13, §18
+- Ele_Xto_Stos, Cap. III, §2

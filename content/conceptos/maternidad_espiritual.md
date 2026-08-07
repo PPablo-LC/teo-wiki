@@ -2,11 +2,12 @@
 type: Concepto Teológico
 title: Maternidad espiritual
 description: "La maternidad espiritual de Maria Santisima es su cooperacion en el orden de la gracia para engendrar y educar a los hijos de Dios."
+timestamp: 2026-08-06
 ---
 # Maternidad espiritual
 
 > Area: Mariología
-> Ultima actualización: 2026-06-21
+> Ultima actualización: 2026-08-06
 
 ## Definición
 
@@ -40,6 +41,10 @@ Juan Pablo II desarrolla la maternidad espiritual de María en el contexto de la
 
 Scott Hahn (BMV, lecciones 3, 4 y 12) fundamenta la maternidad espiritual en la tipología de la [[nueva_eva]] y en las palabras de la cruz. Como nueva Eva, María es «madre de todos los vivientes» (Gn 3,20 aplicado a la nueva creación); como madre del discípulo amado (Jn 19,26-27), cada creyente la recibe como madre personalmente. Hahn enmarca esta maternidad en la mujer del Apocalipsis (Ap 12,17), cuya descendencia —la Iglesia— es objeto de su cuidado materno. Subraya que la maternidad espiritual es participación en la obra de Cristo, en el orden de la gracia, y fundamento de su intercesión.
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+[Ele_Xto_Stos, Cap. III, §5] María «colaboró de manera totalmente singular a la obra del Salvador por su fe, esperanza y ardiente amor, para restablecer la vida sobrenatural de los hombres. Por esta razón es nuestra madre en el orden de la gracia» (LG, n. 61). María es verdaderamente Madre espiritual de los cristianos y, en relación con nosotros, ejercita una constante y eficaz mediación materna. En la cruz, Cristo no fue privado por el Padre del apoyo de su Madre, que estaba «junto a la cruz de Jesús» (Jn 19, 25); dándonos a María por Madre, Cristo confirma que nadie de cuantos seguirán sus huellas quedará privado de la presencia consoladora y maternal de la Virgen. A la protección maternal y al ejemplo que nos ofrece María, el cristiano corresponde confiándose enteramente a Ella: «La dimensión mariana de la vida de un discípulo de Cristo se manifiesta de un modo especial precisamente mediante esta entrega filial respecto a la Madre de Dios, iniciada con el testamento del Redentor en el Gólgota. Entregándose filialmente a María, el cristiano, como el apóstol Juan, acoge "entre sus cosas propias" a la Madre de Cristo y la introduce en todo el espacio de su vida interior, es decir, en su yo humano y cristiano» (Redemptoris Mater, n. 45).
+
 ## Distinciones importantes
 
 - Maternidad divina (de naturaleza) vs maternidad espiritual (de gracia)
@@ -58,3 +63,4 @@ Se relaciona con [[virgen_maría]], [[maternidad_divina]], [[mediación_de_marí
 
 - [CEC §501, 963-970]
 - [Nota: analizados/autentica_día_2_lidera_tu_vida_con_dios.md]
+- Ele_Xto_Stos, Cap. III, §5

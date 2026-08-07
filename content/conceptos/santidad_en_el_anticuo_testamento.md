@@ -27,7 +27,7 @@ En el Antiguo Testamento, la santidad es un atributo esencial de Dios ("Santo, s
 - **§153-154**: La santidad de Dios y la llamada a Israel.
 - **§623-625**: La santidad de Dios en el Antiguo Testamento.
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor presenta la santidad en el AT como:
 

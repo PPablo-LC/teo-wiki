@@ -27,7 +27,7 @@ La elevación al orden sobrenatural no es una simple mejora o perfeccionamiento 
 - **§1265-1266**: El bautismo como incorporación a Cristo y participación en la naturaleza divina.
 - **§1987-1992**: La gracia como participación en la naturaleza divina.
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor presenta la elevación como:
 

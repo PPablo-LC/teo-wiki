@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Sociabilidad humana
 tags: ["moral", "doctrina_social"]
 
-timestamp: 2026-06-19
+timestamp: 2026-08-06
 description: "La sociabilidad humana es la propiedad de la persona humana por la que esta necesita la vida social como exigencia de su propia naturaleza, no como algo sobreañadido (CEC §1879)."
 ---
 # Sociabilidad humana
 
 > Área: Moral / Doctrina Social
-> Última actualización: 2026-06-19
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -65,6 +65,10 @@ SmTh III q.65 a.1: «el hombre, por naturaleza, es un animal social».
 
 El hombre es un ser social por su misma naturaleza (carne), no en virtud de un mandamiento extrínseco. La diferencia fundamental de los sexos es el tipo y la fuente de la vida en sociedad, fundada no en la fuerza sino en el amor (VocTeoBib, «hombre», I.c.).
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La sociabilidad es una [[tendencias_transitivas|tendencia transitiva]] del hombre: la tendencia a estar con los otros, la sociabilidad, es distinta del instinto gregario, pues la sociedad humana es algo diferente del instinto gregario por el lenguaje. A ella se añade la [[tendencia_a_ser_para_los_otros]], caracterizada por la conciencia de responsabilidad y la verdadera dedicación. La existencia de la inclinación a estar con los otros y ser para los otros ilumina el fundamento antropológico de la justicia, la solidaridad y la ética social y política: presuponen el reconocimiento de los otros como iguales a sí mismo. La capacidad de autotrascendencia supera el rompecabezas de querer fundamentar la ética social en el self-interest (Ele_Xto_Stos, Cap. V, §2c).
+
 ## Distinciones importantes
 
 - **Sociabilidad natural vs sociabilidad sobrenatural**: la primera pertenece a la naturaleza humana creada por Dios; la segunda se refiere a la comunión de los santos y a la vida en Cristo, que eleva y perfecciona la sociabilidad natural (CompDS §52; GS 32).
@@ -88,3 +92,4 @@ La sociabilidad humana es el fundamento de la vida social política y por tanto 
 - [ConcVatII, DH 2, 4]
 - [SmTh I-II q.95 a.4; I q.96 a.4; II-II q.109 a.3 ad 1; II-II q.129 a.6 ad 1; III q.65 a.1]
 - [VocTeoBib, «hombre»]
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. V, §2c

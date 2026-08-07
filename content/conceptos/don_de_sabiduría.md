@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Don de sabiduría
 tags: ["ascética", "mística"]
 
-timestamp: 2026-05-21
+timestamp: 2026-08-06
 description: "El don de sabiduría es el primero y más excelente de los [[siete_dones_del_espíritu_santo]] que perfecciona la virtud de la [[caridad]]."
 ---
 # Don de sabiduría
 
 > Área: Ascética / Mística
-> Última actualización: 2026-05-21
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -78,6 +78,10 @@ El don de sabiduría juzga todas las cosas por Dios:
 
 «Quien tiene el don de sabiduría ve todo a la luz de Dios. Las cosas del mundo no le engañan, porque las compara con la bondad infinita del Señor. Las dificultades de la vida no le desesperan, porque las ve en la providencia divina. Las alegrías terrenas no le desvían, porque sabe que hay un gozo infinito mucho más excelente. Este don es el principio de la paz verdadera.»
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+El don de sabiduría es uno de los siete dones a través de los cuales el Espíritu Santo mueve a los fieles, enumerados a partir de Is 11, 2: consiste en conocer y amar con prontitud las cosas divinas. (Ele_Xto_Stos, Cap. VII, §5b)
+
 ## Distinciones importantes
 
 - **Don de sabiduría vs. sabiduría adquirida**: la primera es infusa y experimental; la segunda es natural y adquirida por el estudio
@@ -113,3 +117,4 @@ El don de sabiduría juzga todas las cosas por Dios:
 - Santo Tomás, S.Th., I-II, q. 68; II-II, q. 45
 - San Juan de la Cruz
 - Santa Teresa de Jesús
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §5b

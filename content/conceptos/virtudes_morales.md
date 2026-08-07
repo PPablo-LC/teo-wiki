@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Virtudes Morales
 tags: ["moral"]
 
-timestamp: 2026-05-26
+timestamp: 2026-08-06
 description: "Virtudes que ordenan los actos humanos según la razón y la fe, disponiendo las potencias del alma con relación a los medios conducentes al fin sobrenatural."
 ---
 # Virtudes Morales
 
 > Área: Moral
-> Última actualización: 2026-05-26
+> Última actualización: 2026-08-06
 
 ## Definición
 Virtudes que ordenan los actos humanos según la razón y la fe, disponiendo las potencias del alma con relación a los medios conducentes al fin sobrenatural. Se distinguen de las teologales en que no tienen a Dios por objeto inmediato, sino el bien honesto distinto de Dios.
@@ -38,6 +38,14 @@ Las virtudes morales infusas son hábitos que disponen las potencias del alma pa
 
 El P. Jorge Loring, al explicar los dones que la gracia santificante concede al alma, enumera las cuatro virtudes morales o cardinales con definiciones prácticas: la prudencia es «para ver lo que conviene en orden a la salvación eterna»; la justicia, «para que todos tengan lo que les corresponde»; la fortaleza, «para afrontar las dificultades»; la templanza, «para moderar los placeres» (PS §09,42,1). Estas virtudes, junto con las teologales, constituyen el equipamiento sobrenatural que Dios da al alma en gracia para vivir conforme a la fe y alcanzar la salvación.
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+Las virtudes éticas son, en la expresión clásica de Aristóteles, la perfección habitual y estable (héxis) de las facultades apetitivas del hombre: regulan las pasiones y la voluntad, y se distinguen de las virtudes dianoéticas o intelectuales, que perfeccionan las facultades intelectuales. (Ele_Xto_Stos, Cap. VII, §1a)
+
+La virtud puede definirse como hábito operativo bueno: una disposición estable de una facultad humana (la inteligencia, la voluntad, los apetitos de la sensibilidad) por la que resulta bien o mal estructurada en orden a sus acciones. Los hábitos que perfeccionan las facultades humanas son las virtudes; los que las degradan son los vicios. Las virtudes permiten realizar las acciones buenas e incluso excelentes con facilidad, prontitud, agrado y naturalidad. Las virtudes, en cuanto hábitos operativos, se distinguen de los hábitos entitativos, que disponen bien o mal la naturaleza del hombre y no directamente las facultades. (Ele_Xto_Stos, Cap. VII, §2a)
+
+Los hábitos operativos se dividen en virtudes sobrenaturales o infusas, que el hombre recibe como un don unido a la gracia, y virtudes humanas o adquiridas, que el hombre adquiere con el ejercicio y el esfuerzo personal; las humanas o adquiridas pueden ser intelectuales o morales. Las virtudes morales perfeccionan la voluntad y las tendencias; prudencia, justicia, fortaleza y templanza son las principales virtudes morales, llamadas por eso cardinales. (Ele_Xto_Stos, Cap. VII, §2a)
+
 
 ## Distinciones importantes
 - Virtud moral infusa (sobrenatural en su esencia) ≠ virtud moral adquirida (natural, adquirida por actos)
@@ -54,3 +62,4 @@ Se relaciona con [[virtud]], [[virtudes_cardinales]], [[virtudes_infusas]], [[pr
 - [CEC §1804-1809; §1812-1813; §1839-1841]
 - [TPCr, Segunda Parte, Cap. 1, Art. 2; Tercera Parte, Libro II, Cap. 2, Sección B]
 - [PS §09,42,1]
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §1a; §2a

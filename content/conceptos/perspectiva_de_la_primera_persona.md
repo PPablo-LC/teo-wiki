@@ -22,7 +22,7 @@ La ética clásica (aristotélica y tomista) adopta la perspectiva de la primera
 
 ## Perspectivas por fuente
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor presenta la perspectiva de la primera persona como:
 

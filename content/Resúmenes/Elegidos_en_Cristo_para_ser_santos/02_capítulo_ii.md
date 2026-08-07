@@ -1,130 +1,150 @@
 ---
 type: ResumenFuente
-title: "CAPÍTULO II"
+title: "CAPÍTULO II — Elegidos en Cristo antes de la creación del mundo: la llamada universal a la santidad"
 fuente: Elegidos_en_Cristo_para_ser_santos
 capítulo: 2
-timestamp: 2026-08-03
-description: "Resumen de 'CAPÍTULO II' — Elegidos_en_Cristo_para_ser_santos"
-tags: ["resumen", "elegidos en cristo para ser santos"]
+timestamp: 2026-08-06
+description: "Resumen del capítulo II de Elegidos en Cristo para ser santos: el fin último de la vida humana y la llamada universal a la santidad."
+tags: ["resumen", "elegidos en cristo para ser santos", "santidad", "fin último", "teología moral"]
 ---
 
-# CAPÍTULO II
+# CAPÍTULO II — ELEGIDOS EN CRISTO ANTES DE LA CREACIÓN DEL MUNDO: LA LLAMADA UNIVERSAL A LA SANTIDAD
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[fin_último]] — la gloria de Dios y la visión de su esencia como término de la creación
+- [[gloria_de_dios]] — fin de las cosas creadas, alcanzado de modo diversificado
+- [[visión_de_dios]] — fin sobrenatural al que Dios ha ordenado al hombre
+- [[elevación_al_orden_sobrenatural]] — ordenación del hombre a un fin sobrenatural
+- [[pecado_original]] — pérdida de la santidad y de la justicia originales
+- [[redención]] — envío de Jesucristo para rescatar a los hombres
+- [[filiacion_divina]] — plenitud de la santidad cristiana como fin último de la vida humana
+- [[santidad_cristiana]] — aspiración al bien absoluto vivida como seguimiento e imitación de Cristo
+- [[santidad_inicial]] — don divino recibido con la fe y el bautismo
+- [[santidad_de_dios]] — característica propia del ser divino, modelo de la santidad del hombre
+- [[vida_eterna]] — cumplimiento escatológico de la santidad cristiana
+- [[reino_de_dios]] — carácter escatológico e inmanente de la santidad cristiana
+- [[casa_del_padre]] — lugar de la residencia definitiva de los fieles con Jesús junto al Padre
+- [[participación_de_la_santidad_de_dios]] — la imitación de Dios conecta la conducta actual con la plenitud escatológica
+- [[seguimiento_de_cristo]] — fundamento esencial y original de la moral cristiana
+- [[caridad]] — forma de todas las otras virtudes y esencia de la perfección cristiana
+- [[virtudes_teologales]] — principios intrínsecos de la vida en Cristo
+- [[dones_del_espíritu_santo]] — medios de la vida de unión con Dios
+- [[llamada_universal_a_la_santidad]] — la santidad como fin práctico alcanzable por todos los cristianos
+- [[iglesia_como_sacramento_universal_de_salvación]] — la santidad se realiza en la Iglesia, Cuerpo místico de Cristo
+- [[cuerpo_místico_de_cristo]] — la santidad es participación de la vida trinitaria en Jesús
+- [[configuración_con_cristo]] — el seguimiento de Cristo configura al discípulo con su Señor
+- [[contemplación]] — esfuerzo de descubrir a Dios en todo acontecimiento de la propia vida
+- [[perspectiva_de_la_primera_persona]] — exigencia de comenzar la teología moral con el estudio del fin último
+- [[bien_de_la_vida_humana]] — el bien de la vida humana tomada como un todo
+- [[felicidad_humana]] — el bien perfecto deseado y buscado por sí mismo
+- [[ética_de_la_virtud]] — la moral clásica orienta las decisiones hacia la plena realización de la vida humana
+- [[vida_cristiana]] — camino hacia la casa del Padre con Cristo como punto de referencia
+- [[alter_christus]] — el cristiano llamado a ser ya en este mundo otro Cristo
+- [[imitacion_de_cristo]] — la santidad consiste en imitar y seguir a Cristo
+- [[perfección_cristiana]] — plenitud de la caridad
+- [[misterio_del_hombre]] — solo se esclarece en el misterio del Verbo encarnado
+- [[vocación_divina]] — la vocación última del hombre es realmente una sola
+- [[providencia_divina]] — dirige todos los acontecimientos hacia el plan salvífico de Dios
 
+## 1. Teología dogmática y teología moral ante la pregunta sobre el sentido de la existencia humana
 
-## Contenido
+### a) La doctrina dogmática sobre el fin último de la vida humana
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `01_capítulo_ii.md`
+La pregunta sobre el sentido último de la existencia humana (¿de dónde vengo y adónde voy?) puede indagarse desde un punto de vista especulativo (metafísica, antropología, teología dogmática) o práctico. Tomás de Aquino, en la I Parte de la Summa Theologiae, considera la acción creadora de Dios y el fin de la creación: «Al primer agente [Dios], que es exclusivamente activo, no le corresponde actuar para adquirir algún fin, sino que tan solo intenta comunicar su perfección, que es su bondad. En cambio, todas las criaturas intentan alcanzar su perfección, que consiste en asemejarse a la perfección y bondad divinas. Por lo tanto, la bondad divina es el fin de todas las cosas» (C.G., III, c. 25).
 
+La razón natural concluye que Dios crea para manifestar su gloria y comunicar su perfección; la gloria de Dios es el fin de las cosas creadas. Las criaturas inteligentes lo alcanzan mediante una operación propia: el conocimiento intelectivo de Dios, que es su fin.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+Esta verdad racional está confirmada en la Revelación: «El mundo ha sido creado para la gloria de Dios» (Conc. Vaticano I: DS 3025). Dios no tiene otra razón para crear que su amor y su bondad (Catecismo, n. 293; Gaudium et spes, n. 12). La doctrina dogmática de la elevación del hombre al orden sobrenatural, el pecado original y la redención completan la respuesta teológica: «Dios, en su infinita bondad, ha ordenado el hombre a un fin sobrenatural», destinándolo a la visión de la esencia de Dios. Con la caída original el hombre perdió la santidad y la justicia en las que había sido establecido; en la plenitud de los tiempos Dios envió a Jesucristo para que todos «recibiéramos la filiación adoptiva» (Ga 4, 5; Concilio de Trento, De iustificatione, cap. 2: DS 1522).
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | CAPÍTULO II |
-| 4 | H2 | ELEGIDOS EN CRISTO ANTES DE LA CREACIÓN DEL MUNDO: LA LLAMADA UNIVERSA |
-| 64 | H3 | Theologiae , retome el problema del fin último como partiendo de cero, |
-| 141 | H3 | Summa Theologiae, LAS, Roma 2017. |
-| 211 | H3 | Así se pueden determinar cuáles son las virtudes propias del mejor mod |
-| 381 | H3 | Amados, ya ahora somos hijos de Dios, pero aún no se ha manifestado lo |
-| 421 | H3 | El Reino de Dios es también el Reino de Cristo , y está ligado a la pe |
-| 430 | H3 | Reino. Hacer presente a todos los hombres la llamada de Cristo constit |
-| 447 | H3 | I, §§ 1 b) y 3 a); cap. IX, § 2; etc. |
-| 481 | H3 | Así lo enseña Jesús: «Si tu mano te escandaliza, córtatela. Más te val |
-| 505 | H3 | Veritatis splendor, «Annales theologici» 7 (1993) 281-322. |
-| 529 | H3 | Beati Dionysii De Divinis Nominibus Expositio, 7, lect. 4, Marietti, T |
-| 551 | H3 | Mt 25,14-30; Jn 15,1-11), que puede ser treinta, sesenta o cien (Mt 13 |
-| 555 | H3 | BOSCH, Llamados a ser santos: historia contemporánea de una doctrina,  |
-| 570 | H3 | Dios, conservar y llevar a plenitud en su vida la santidad que recibie |
-| 625 | H3 | Cistercienses, Roma 1974, vol. VII, p. 240, ln. 18-19). |
-| 711 | H3 | Bilbao 1957; F. OCÁRIZ, Amor a Dios. Amor a los hombres, Palabra, Madr |
-| 737 | H3 | La caridad es así forma de todas las otras virtudes , principio mediat |
+Todos los hombres están destinados a alcanzar en Cristo la comunión con Dios por obra del Espíritu Santo, a través del conocimiento y del amor. Lo expresa el Concilio Vaticano II: «El misterio del hombre solo se esclarece en el misterio del Verbo encarnado [...]. Cristo, el nuevo Adán, en la misma revelación del misterio del Padre y de su amor, manifiesta plenamente el hombre al propio hombre y le descubre la grandeza de su vocación [...]. Cristo murió por todos y la vocación última del hombre es realmente una sola, es decir, la vocación divina» (Gaudium et spes, n. 22).
 
+### b) La consideración moral del fin último de la existencia humana
 
-## Secciones incluidas
+Estas consideraciones dogmáticas son un dato indiscutible para el teólogo moralista. Por eso sorprende que Santo Tomás, en las primeras cuestiones de la parte moral de la Summa, retome el problema del fin último como partiendo de cero, con una metodología dialéctico-inductiva que parece no considerar las bases dogmáticas.
 
-# CAPÍTULO II
+Günthör ofrece una interpretación equilibrada: el planteamiento de la Sagrada Escritura es concreto y teocéntrico, pues habla de la acción salvífica de Dios y reclama luego la conducta moral como respuesta; la línea de Santo Tomás es abstracta, filosófica y en cierto modo antropocéntrica, pues parte del análisis de las estructuras del hombre polarizado hacia un fin último. Las objeciones posibles (reducción a una teoría filosófica de la felicidad, riesgo de eudemonismo hedonista o egoísta, antropocentrismo) se basan en un desconocimiento del verdadero pensamiento de Santo Tomás, que aclara «la correspondencia entre el fin último que se nos ha asignado de hecho por gracia, y la profunda polarización estructural del hombre hacia su consecución». Se trata de dos puntos de vista que no se excluyen, sino que se integran: solo la perspectiva bíblica no haría propiamente teología, y solo la visión de Santo Tomás arriesgaría un desarrollo unilateral del aspecto filosófico-especulativo.
 
-[Contenido de esta sección...]
+Comenzar la teología moral con un estudio sobre el fin último, que no sea simple repetición de los resultados dogmáticos (puesto que el estudio se realiza con método y óptica diversos), es una exigencia indispensable de la perspectiva de la «primera persona» propia de la teología moral como ciencia práctica: el análisis debe encuadrarse en la óptica del hombre que, como imagen de Dios, es verdadero sujeto agente y autor de su propia conducta, que «se conduce a sí mismo» hacia su bien completo y definitivo. El sentido último de la existencia es fundamento de todas las demás realidades y estructuras morales (virtud, norma, conciencia, pecado), que no se entienden sin su relación esencial con el fin último (MacIntyre, Tras la virtud).
 
-# ELEGIDOS EN CRISTO ANTES DE LA CREACIÓN DEL MUNDO: LA LLAMADA UNIVERSAL A LA SANTIDAD
+La historia de la teología moral muestra que, si las bases dogmáticas no se reelaboran en la perspectiva de la «primera persona», acaban por no cumplir papel alguno. En la «ética normativista» las personas no resultan atraídas por el bien último, sino que pueden elegir autónomamente, y la función de la razón práctica se reduce a reconocer mandamientos y elegir obedecerlos; los mandamientos acaban considerándose un dato positivo y extrínseco al hombre, y las virtudes resultan superfluas. Por eso hay que partir de la consideración del papel que ocupa el fin en la vida moral, empezando por la experiencia ética natural, para estudiar después la enseñanza cristiana.
 
-[Contenido de esta sección...]
+## 2. El bien de la vida humana tomado como un todo en la experiencia ética natural
 
-## Theologiae , retome el problema del fin último como partiendo de cero, con
+Con frecuencia una persona llega a considerar su propia vida con insatisfacción o frustración: quizá no ha cometido acciones desordenadas desde el punto de vista de la moral normativa, pero percibe que la vida tendría que rehacerse enteramente. La moral clásica considera su principal tarea evitar estos fallos globales e irremediables y orientar las principales decisiones personales hacia la plena realización de la vida humana. La aspiración humana al bien sigue a la razón, está marcada por su amplitud trascendental y potencialmente infinita, e induce a buscar la verdad sobre el bien. Tal análisis requiere elevarse sobre las exigencias inmediatas del momento y contemplar globalmente la propia vida tomada como un todo: solo a la luz de esta reflexión se pueden considerar y modificar las propias prioridades y decisiones.
 
-[Contenido de esta sección...]
+Aristóteles inicia la Ética Nicomáquea: «Todo arte y toda investigación e, igualmente, toda acción y libre elección parecen tender a algún bien». Las acciones humanas se estructuran en secuencias en las que ciertos bienes se ordenan a otros; en la serie de fines ordenados no se puede proceder hasta el infinito. Ha de existir un bien perfecto, deseado y buscado por sí mismo, que genéricamente se llama felicidad. Lo explica Santo Tomás: en el orden de la intención y en el orden de la ejecución debe haber algo primero; el principio de la intención es el último fin, y si no hubiera último fin no habría apetencia de nada ni se llevaría a cabo acción alguna.
 
-## Summa Theologiae, LAS, Roma 2017.
+La objeción de que existen diversos fines últimos por sectores de actividad desaparece al continuar la reflexión: muchas actividades tienen un papel instrumental; otras causan satisfacción profunda pero no apagan toda aspiración; y, sobre todo, los fines de las distintas actividades entran en conflicto entre sí a lo largo de la vida (trabajo, familia, salud, convicciones morales y religiosas). Ante los conflictos es necesario escoger según un criterio: la idea de la contribución que cada actividad puede dar al pleno éxito de la propia vida, a la propia felicidad. La sensación de frustración procede precisamente de no haber sabido establecer el debido orden y las debidas prioridades.
 
-[Contenido de esta sección...]
+Se plantea así la pregunta: ¿cuál es el fin último o bien perfecto de la vida tomada como un todo, el bien que hace la vida digna de ser amada? Es la pregunta sobre la felicidad humana. No presupone que la felicidad consista en un solo bien, pero sí que la respuesta definirá un modo de vida mejor que otros (el programa o criterio que define qué bienes y según qué prioridades, medida y modalidad deben desearse y realizarse). El análisis racional no siempre justifica todas las preferencias posibles entre bienes, pero sí puede justificar que debe establecerse un orden y proporción entre las actividades humanas, e individuar ciertos modos de regulación racional que siempre deben respetarse (la justicia, por ejemplo). Así se pueden determinar las virtudes propias del mejor modo de vida para el hombre, aunque deban vivirse según las condiciones de vida y la personalidad de cada uno. La teología moral encontrará en la Revelación divina la respuesta completa sobre el sentido último de la vida humana.
 
-## Así se pueden determinar cuáles son las virtudes propias del mejor modo de vivir para el hombre.
+## 3. La santidad, plenitud de la filiación divina del cristiano, como fin último de la vida humana
 
-[Contenido de esta sección...]
+Según la fe cristiana, ¿existe alguna actividad humana o algún programa de vida deseable en sí mismo y no en relación con otro? No basta repetir los datos dogmáticos: hablar de la visión de Dios como fin último ¿significa que los cristianos deben abandonar las actividades cotidianas y retirarse al desierto, o que la vida presente es como un juego de niños en espera del más allá, o que el fin puede lograrse imperfecta e incoativamente en esta vida ordenando las actividades terrenas de un determinado modo?
 
-## Amados, ya ahora somos hijos de Dios, pero aún no se ha manifestado lo que seremos.
+Entre las respuestas de la Sagrada Escritura y de la tradición moral católica, el concepto de santidad es el que mejor puede fundamentar una respuesta articulada. La Carta a los Efesios contiene una de las fórmulas más completas: «Nos eligió antes de la creación del mundo para que fuéramos santos y sin mancha en su presencia, por el amor; nos predestinó a ser sus hijos adoptivos por Jesucristo» (Ef 1, 4-5). La aspiración al bien absoluto es tematizada y vivida por el cristiano como una aspiración a la santidad, entendida como plenitud de la filiación divina, que se realiza concretamente en esta vida en el seguimiento y la imitación de Cristo. Como hijo de Dios, el cristiano está llamado a ser ya en este mundo alter Christus, ipse Christus, en perfecta obediencia a la voluntad del Padre, viviendo según las virtudes que Cristo enseñó y que gratuitamente se nos entregan con la gracia bautismal en estado de una pequeña semilla destinada a crecer.
 
-[Contenido de esta sección...]
+El concepto de santidad cristiana contiene una rica analogía semántica: en su actuación plena representa una única actividad unitaria (la visión directa de Dios en la gloria); en su realización terrena implica un programa global de vida, de criterio y de regulación de las actividades humanas (las virtudes). No del solo concepto de santidad pueden deducirse analíticamente todas las reglas morales. La santidad es el fin que da sentido a la vida cristiana; el problema de la norma viene después. Lo que interesa ahora es el análisis de los significados de la santidad cristiana.
 
-## El Reino de Dios es también el Reino de Cristo , y está ligado a la per-
+### a) La santidad en la enseñanza bíblica
 
-[Contenido de esta sección...]
+**Antiguo Testamento** — La santidad gira en torno a la santidad de Dios: «No hay nadie tan santo como el Señor» (1 S 2, 2). La palabra hebrea *qadosh* procede de una raíz que significa cortar, separar: Dios es santo por su radical separación y trascendencia. Pero la santidad divina no es estática: se manifiesta dinámicamente en todas sus obras, sobre todo en su voluntad de salvar a la humanidad, empezando por el pueblo de Israel. El hombre se ve interpelado por el mandamiento de vivir según el modelo de la santidad divina: «Sed santos, porque yo, el Señor, vuestro Dios, soy santo» (Lv 19, 2). Los profetas subrayan el carácter soteriológico de la santidad; la literatura sacerdotal la pone en relación con el culto (el templo, los sacerdotes, el sábado, las fiestas); Israel es un pueblo santo; los libros sapienciales combinan la santidad con la sabiduría.
 
-## Reino. Hacer presente a todos los hombres la llamada de Cristo constituye la misión de la Iglesia.
+**Nuevo Testamento** — La santidad tiene un campo semántico muy amplio. En diversos pasajes se usa en sentido semejante al Antiguo Testamento (santo el nombre de Dios, su alianza, los ángeles, los profetas, las Escrituras, la ley). Pero lo más característico es que la santidad aparece ligada al Espíritu Santo que, como don de la era mesiánica, conduce al creyente a una participación de la santidad de Dios previamente impensable. Desde la perspectiva de la teología moral sistemática se distinguen tres acepciones: 1) la santidad ontológica inicial; 2) la vida eterna como cumplimiento escatológico de la santidad cristiana; 3) la santidad moral y espiritual, camino que va de la primera a la segunda, incoación y participación de la vida eterna.
 
-[Contenido de esta sección...]
+### b) El don divino de la santidad inicial
 
-## I, §§ 1 b) y 3 a); cap. IX, § 2; etc.
+Jesús, como Santo de Dios, hace partícipe de su santidad a la Iglesia y a los cristianos, santificados en Jesucristo por la identificación con Él y el baño de regeneración del Espíritu. San Pablo llama a los fieles «los santificados en Cristo Jesús» (1 Co 1, 2). Esta acepción, en sentido directo, no tiene un significado moral; se refiere al don de la santidad inicial recibido por quienes han acogido la fe y el bautismo: los cristianos han sido purificados y santificados por la gracia —principio ontológico formal de la vida de los fieles—, enriquecidos con las virtudes cristianas y configurados con Cristo, hechos hijos de Dios y partícipes de la naturaleza divina. Según esta acepción, la santidad no es el fin último, sino el don divino inicial que hace posible y obligatorio tender hacia la santidad en los otros dos sentidos. La santidad cristiana es ante todo recibida, y su desarrollo es una correspondencia a este don.
 
-[Contenido de esta sección...]
+### c) El cumplimiento escatológico de la santidad cristiana
 
-## Así lo enseña Jesús: «Si tu mano te escandaliza, córtatela. Más te vale entrar
+El don divino (filiación divina, gracia, virtudes cristianas) puede parangonarse a un pequeño grano de mostaza destinado a crecer, o a la levadura que hace fermentar la masa. La Revelación presenta en términos escatológicos el fin último al que tiende tal desarrollo. La santidad como bien definitivo se estudia a través de varios conceptos:
 
-[Contenido de esta sección...]
+**La vida eterna** — Representa el cumplimiento escatológico de la santidad cristiana. Los fieles que gozan de la visión de Dios son llamados «santos»; al canonizarlos, la Iglesia proclama que han practicado heroicamente las virtudes y los propone como modelos e intercesores (Catecismo, n. 828). Los escritos del Nuevo Testamento presentan la vida eterna como término de una vida ya iniciada en este mundo, con exigencias éticas precisas: en los sinópticos se promete a quienes adoptan determinadas actitudes («Bienaventurados los limpios de corazón, porque verán a Dios», Mt 5, 8); el IV Evangelio la presenta como algo ya comenzado —pertenecer a Cristo por la fe, el amor y los mandamientos—, ligada a la resurrección y expresada en términos de conocimiento: «Esta es la vida eterna: que te conozcan a Ti, el único Dios verdadero, y a Jesucristo, a quien Tú has enviado» (Jn 17, 3). Es la meta de la misión de Cristo (Jn 3, 16). La I Carta de Juan y San Pablo la enlazan con la manifestación plena de la vida de los hijos de Dios y con la herencia: «Ya no eres siervo, sino hijo; y como eres hijo, también heredero por gracia de Dios» (Ga 4, 7); la condición filial comporta caminar según el Espíritu, sin dejarse arrastrar por las obras de la carne (Ga 5, 19-21). Benedicto XVI reconoce que el término «vida eterna» puede resultar insuficiente, pero nombra «la vida misma, la verdadera vida, que ni siquiera es tocada por la muerte»: el momento pleno de satisfacción, el sumergirse en el océano del amor infinito.
 
-## Veritatis splendor, «Annales theologici» 7 (1993) 281-322.
+**El Reino de Dios** — En los sinópticos expresa el carácter escatológico y al mismo tiempo inmanente de la santidad cristiana («escatología en fase de realización»). Es una realidad futura y también presente, que viene e irrumpe en nuestra vida: con la presencia y las obras de Jesús «ha llegado ya el reino de Dios» (Lc 11, 20), aunque se espera aún su forma plena (banquete festivo y nupcial, cosecha, la petición del Padrenuestro). Su dimensión principal es la escatológica: la participación en el reino futuro de Dios, que se anuncia como un don divino que el hombre puede recibir si se hace como un niño. El Reino de Dios es la vida eterna, y ambas expresiones se usan indistintamente; las condiciones para «entrar en el Reino» son las mismas que para «entrar en la vida» o «heredar la vida». El Reino es también el Reino de Cristo, ligado a la persona de Jesús: la postura tomada respecto a Jesús determina la postura final del hombre (Mt 10, 32-33). La realización del Reino se inició en la tierra con la predicación de Jesús, y la respuesta positiva a su llamada —el seguimiento de Cristo— es el camino para entrar en el Reino.
 
-[Contenido de esta sección...]
+Hacer presente a todos los hombres la llamada de Cristo constituye la misión de la Iglesia: «La Iglesia, o reino de Cristo presente ya en misterio, crece visiblemente en el mundo por el poder de Dios» (Lumen gentium, n. 5). Es el germen y el comienzo del Reino en la tierra. La Iglesia es el sacramento universal de la salvación y de la santidad: Dios «quiso santificar y salvar a los hombres no individualmente y aislados, sin conexión entre sí, sino hacer de ellos un pueblo que le conociera de verdad y le sirviera con una vida santa» (LG, n. 9). La santidad es un empeño personal, pero no individualista: es participación de la vida trinitaria en Jesús y se realiza en la Iglesia, Cuerpo místico de Cristo. De ahí se deduce la índole eclesial de la vida cristiana y de su estudio sistemático, la teología moral.
 
-## Beati Dionysii De Divinis Nominibus Expositio, 7, lect. 4, Marietti, Taurini-Romae 1950, n. 733.
+**La casa del Padre** — La idea de casa del Padre pone de relieve que la santidad definitiva es la plenitud y el término de la vida de los hijos de Dios, expresada en la completa docilidad a la voluntad paterna vivida por Cristo: «En la casa de mi Padre hay muchas moradas [...]. Cuando me haya marchado y os haya preparado un lugar, de nuevo vendré y os llevaré junto a mí» (Jn 14, 2-3). La casa del Padre es el lugar de la residencia definitiva de los fieles con Jesús.
 
-[Contenido de esta sección...]
+**La plena participación de la santidad de Dios** — Conecta la conducta actual de los fieles con su plenitud escatológica, subrayando la imitación de Dios: «Sed también vosotros santos en toda vuestra conducta, conforme a lo que dice la Escritura: Sed santos, porque Yo soy santo» (1 P 1, 15-16). Se establece una íntima relación entre santidad y gloria en doble sentido: descendente (Dios comunica su gloria al hombre llamándolo a participar de su santidad) y ascendente (el hombre da gloria a Dios cuando corresponde a la gracia con una conducta santa, porque Dios es «glorificado en sus santos», 2 Ts 1, 10).
 
-## Mt 25,14-30; Jn 15,1-11), que puede ser treinta, sesenta o cien (Mt 13,8).
+**La santidad como bien definitivo de la vida humana** — Los conceptos de vida eterna, reino de Dios, casa del Padre y santidad iluminan la vida moral cristiana a la luz de su bien global y definitivo, y exhortan al esfuerzo moral y a la vigilancia: «Velad, porque no sabéis a qué hora volverá el señor de la casa» (Mc 13, 35-37). Velar significa ordenar el deseo hacia lo que es verdadera y definitivamente bueno —la unión con Dios por el conocimiento y el amor— y revisar los propios valores y elecciones. Solo a la luz del cumplimiento escatológico se comprende el valor relativo de la «mano», el «pie» y el «ojo» (Mc 9, 43-47). El administrador infiel es alabado por actuar sagazmente (*fronímôs*), por haber preparado el momento en que le sería quitada la administración; es reprendido el rico que disfrutó de sus bienes pensando solo en la vida presente, sin tener en cuenta la futura: «Insensato (*afrôn*), esta misma noche te van a reclamar el alma» (Lc 12, 20). La reflexión sobre la propia vida a la luz del cumplimiento escatológico determina la prudencia o la necedad en el uso de los bienes. En la parábola del hijo pródigo, el alejamiento de la casa del padre coincide con el despilfarro de la herencia «viviendo lujuriosamente»; el pensamiento de la vida definitiva en la casa del Padre estimula la purificación del corazón, liberado de un intemperante apego a los bienes terrenos.
 
-[Contenido de esta sección...]
+### d) La santidad moral
 
-## BOSCH, Llamados a ser santos: historia contemporánea de una doctrina, Palabra, Madrid 2008.
+La conducta santa es precisamente la santidad moral, que supone el desarrollo de la santidad inicial mediante el obrar bueno y excelente y encamina a su cumplimiento escatológico: es la santidad del obrar. El desarrollo, a través de la conducta, de la condición de hijo de Dios recibida con la fe y el bautismo es una concreción del principio metafísico de que el obrar conlleva el crecimiento del propio ser. A través de las buenas obras —también en el plano de la ética natural— alcanzamos una mayor semejanza con el Señor: el hombre ha alcanzado la dignidad de la imagen, mientras que la perfección de la semejanza le ha sido reservada para el final, y debe conseguirla imitando a Dios con las propias obras. El designio de Dios es que los seres espirituales alcancen la propia plenitud no pasivamente, sino como partícipes de la obra divina; este designio es intrínseco al acto creador y forma parte del núcleo más íntimo de cada persona: existe una relación íntima e inseparable entre la persona humana, la perfección que debe alcanzar y el acto humano o moral.
 
-[Contenido de esta sección...]
+La santificación o santidad moral constituye el fin último próximo de la vida humana: el único tipo de vida que, a la luz de la Revelación, es razonable querer en sí misma, no subordinándola a ningún otro bien, y que debe ordenarse a la comunión definitiva con Dios en la vida eterna y, en último término, a la gloria de Dios, fin último absoluto del hombre.
 
-## Dios, conservar y llevar a plenitud en su vida la santidad que recibieron» . (note: Ibíd., n. 40.)
+Desde un punto de vista específico, la santidad moral no consiste en una actividad particular yuxtapuesta a las otras: debe buscarse y alcanzarse a través y en la realización de las normales actividades del hombre, según la vocación de cada uno (trabajo profesional, vida familiar, actividades sociales y políticas, deberes religiosos). Desde un punto de vista formal, consiste en los principios que inspiran y orientan tales actividades —sobre todo la caridad— y en los criterios que las regulan. Es un tipo de vida que admite muchas modalidades de realización práctica: diversos son el modo y los contenidos de la santidad del fiel laico casado, del célibe, del sacerdote o del religioso. Lo común es que la santidad cristiana consiste en imitar y seguir a Cristo, configurándose cada vez más con Él, hasta llegar a la plenitud de la caridad, esencia de la perfección cristiana. No existe una única forma privilegiada de seguir a Cristo: seguirlo es hacer que las virtudes teologales y morales —las virtudes practicadas por Cristo— constituyan la inspiración profunda y los criterios de regulación práctica de la vida que cada uno desarrolla según su vocación. La santidad es siempre excelencia: la actuación de las virtudes no se entiende en sentido minimalista, como lucha contra las acciones pecaminosas; requiere alcanzar y consolidar las expresiones máximas de vida divina que Dios concede y pide a cada persona.
 
-[Contenido de esta sección...]
+### e) La doctrina sobre la llamada universal a la santidad
 
-## Cistercienses, Roma 1974, vol. VII, p. 240, ln. 18-19).
+Desde el punto de vista bíblico y dogmático, la llamada a la santidad ha sido siempre un dato pacíficamente aceptado; pero la aserción de esta doctrina con todo su valor práctico-moral por parte del Concilio Vaticano II puede considerarse una verdadera novedad teológica: proponer la santidad, con cuanto implica de excelencia, como el fin práctico y alcanzable por todos los cristianos, también por la mayoría que no ha recibido vocación al estado sacerdotal ni a la vida consagrada. Esta enseñanza fue preparada por el soplo del Espíritu en la vida misma de la Iglesia: la teología de las realidades terrenas, la renovación litúrgica con su reflexión sobre el bautismo y su carácter santificante, la experiencia del apostolado laical y la vitalidad de fenómenos pastorales como el Opus Dei, caracterizado por la importancia dada al valor santificante del trabajo profesional y de los deberes ordinarios del cristiano.
 
-[Contenido de esta sección...]
+El capítulo V de la Lumen gentium empieza señalando el fundamento último de este empeño: la santidad de Dios —Padre, Hijo y Espíritu Santo— que Cristo ha transmitido a la Iglesia; por eso «todos en la Iglesia, pertenezcan a la Jerarquía o sean regidos por ella, están llamados a la santidad» (LG, n. 39). La santidad inicial y la santidad moral se relacionan así: «El bautismo y la fe los ha hecho verdaderamente hijos de Dios, participan de la naturaleza divina y son, por tanto, realmente santos. Por eso deben, con la gracia de Dios, conservar y llevar a plenitud en su vida la santidad que recibieron» (LG, n. 40). La santidad es una y la misma para todos: «En los diversos géneros de vida y ocupación, todos cultivan la misma santidad» (LG, n. 41); no se pueden distinguir diversos grados de vocación a la santidad. El capítulo ilustra las vías y medios de la santidad y recuerda: «Todos los cristianos, por tanto, están llamados y obligados a tender a la santidad y a la perfección de su propio estado de vida» (LG, n. 42).
 
-## Bilbao 1957; F. OCÁRIZ, Amor a Dios. Amor a los hombres, Palabra, Madrid 1973.
+Esta vocación universal se traduce en buscar a Dios sobre todas las cosas: cada persona está llamada a amar a Dios con una intensidad suma (Dt 6, 5; Mc 12, 30). El amor de Cristo nos urge a responder con un amor máximo, sin fijar límites a este crecimiento: «Te desagrade siempre lo que eres, si quieres llegar a lo que no eres [...]. Si dijiste: Basta; pereciste» (San Agustín, Sermo 169, 15, 18). La caridad lleva consigo una intrínseca tensión hacia el crecimiento: «El mandamiento del amor de Dios y del prójimo no tiene en su dinámica positiva ningún límite superior, sino más bien uno inferior» (Veritatis splendor, n. 52). «La perfección cristiana solo tiene un límite: el de no tener límite» (San Bernardo). En último término, o amamos a Dios sobre todas las cosas y procuramos crecer continuamente en este amor, o nos amaremos a nosotros mismos más que a Dios: estamos llamados a corresponder a un don que nos compromete totalmente, tomando el Amor como regla de todo el querer y el obrar.
 
-[Contenido de esta sección...]
+## 4. El seguimiento de Cristo como fundamento esencial y original de la santidad cristiana
 
-## La caridad es así forma de todas las otras virtudes , principio mediato de
+### a) Cristo como «camino, verdad y vida»
 
-[Contenido de esta sección...]
+La realización terrena de la vocación a la santidad (la santidad moral) es la tarea moral y espiritual que necesita ser iluminada y orientada por la reflexión teológica. La vida moral cristiana es el camino hacia la casa del Padre, que tiene en Cristo su fundamental punto de referencia: Cristo lo ha hecho posible y constituye su fin, su norma y su modelo, humano y divino al mismo tiempo. Él es «el Camino, la Verdad y la Vida» (Jn 14, 6): es el camino hacia la casa del Padre en cuanto mediador personal de la salvación y norma de vida; es el camino porque es la verdad, la revelación personal del Padre y de su designio de amor; es la vida porque su Espíritu habita en los creyentes y los capacita para vivir como Él.
+
+La santidad cristiana en su actuación terrena consiste en el seguimiento de Cristo. «Es Jesús mismo quien toma la iniciativa y llama a seguirle. [...] Seguir a Cristo es el fundamento esencial y original de la moral cristiana» (Veritatis splendor, n. 19). No se trata solo de escuchar una enseñanza y cumplir un mandamiento, sino de adherirse a la persona misma de Jesús, compartir su vida y su destino, participar de su obediencia libre y amorosa a la voluntad del Padre. «Seguir a Cristo no es una imitación exterior, porque toca al hombre en su interioridad más profunda. Ser discípulo de Jesús significa configurarse con Él, que se hizo siervo hasta la entrega en la cruz (cf. Flp 2, 5-8). Por la fe, Cristo habita en el corazón del creyente (cf. Ef 3, 17), y así el discípulo se asimila a su Señor y se configura con Él. Este es el fruto de la gracia, de la presencia operante del Espíritu Santo en nosotros». Para el cristiano, Cristo no es solo un modelo admirable y un maestro sabio; por la comunión de vida con Él, recibida por la gracia, se hace progresivamente capaz de conocer y amar como Cristo, hasta poder decir con San Pablo: «Ya no vivo yo, sino que Cristo vive en mí» (Ga 2, 20).
+
+### b) El seguimiento de Cristo como vida según las virtudes cristianas hasta la plenitud de la caridad
+
+Seguir a Cristo significa concretamente vivir según las virtudes cristianas, enseñadas con las palabras y el ejemplo de Cristo, «perfectus Deus, perfectus homo». La teología moral no es otra cosa que una explicación de esta realidad, de sus presupuestos antropológicos, de sus implicaciones normativas y de sus modalidades de actuación.
+
+Las virtudes teologales y morales son, simultáneamente, los principios intrínsecos —poseídos como hábitos— de la vida en Cristo, su norma y, en cierto sentido, también su fin (progresar en las virtudes e identificarse con Cristo es, en la práctica, lo mismo). La función de principio vital es preeminente en las virtudes teologales —la fe, la esperanza y la caridad—, que hacen al hombre capaz de creer, desear y amar a Dios en Cristo por medio del Espíritu Santo, purifican y elevan el conocimiento y la voluntad humana dirigiéndolos hacia el fin de la vida cristiana. Las virtudes no son normas en el mismo sentido que las leyes humanas; son normas en cuanto actúan como principios cognoscitivos, apetitivos y dispositivos de la racionalidad práctica (prudencia), de la rectitud en el amar y sentir, y de la recta elección.
+
+Entre las virtudes teologales debe subrayarse la función central de la caridad: expresa el valor moral de la persona y el grado de su unión con Cristo; esta unión mediante el amor está por encima de todos los valores humanos. A través de las virtudes teologales y los dones del Espíritu Santo, especialmente de la caridad, se alcanza la vida de unión con Dios, el bien más grande de que es capaz el hombre en este mundo. Esta unión, que consiste esencialmente en el amor, da lugar a una verdadera contemplación de Cristo y de Dios: no los fenómenos místicos extraordinarios, sino el esfuerzo y la capacidad de descubrir a Dios en todo acontecimiento de la propia vida, incluso en medio de las muchas ocupaciones terrenas, sin olvidar que Él se encuentra en el centro del alma en gracia —«interior intimo meo», más íntimo a mí que yo mismo, decía San Agustín—. Aquí se inserta la amistad con el Señor a través de la oración y los actos de piedad y de culto.
+
+San Josemaría Escrivá ilustra eficazmente la contemplación ordinaria alcanzable por todo cristiano: «Primero una jaculatoria, y luego otra, y otra..., hasta que parece insuficiente ese fervor [...]: y se deja paso a la intimidad divina, en un mirar a Dios sin descanso y sin cansancio [...]. Mientras realizamos con la mayor perfección posible las tareas propias de nuestra condición y de nuestro oficio, el alma ansía escaparse [...]. No me refiero a situaciones extraordinarias. Son, pueden muy bien ser, fenómenos ordinarios de nuestra alma [...]. Al elevar todo ese quehacer a Dios, la criatura diviniza el mundo».
+
+La caridad es así forma de todas las otras virtudes, principio mediato de todas las obras justas y su fruto. El seguimiento de Jesús, aun unificando toda la vida cristiana, no es unidimensional ni puede reducirse a un único tipo de actividad humana: requiere la actuación de las diversas dimensiones humanas según un orden virtuoso que, en sus expresiones concretas, depende de las circunstancias y sobre todo de la vocación personal de cada uno. El valor profundo y definitivo del obrar humano se mide por su relación con la vocación personal a la unión con Cristo. Como explica Santo Tomás, «cuando de dos cosas una es la razón de la otra, la ocupación del alma en una no impide ni disminuye la ocupación en la otra [...]. Y como Dios es aprehendido por los santos como la razón de todo cuanto hacen o conocen, su ocupación en las cosas sensibles, o en contemplar o hacer otras cosas, en nada les impide la contemplación divina, ni viceversa». La unión con Cristo, bien trascendente destinado a durar eternamente, se realiza o se frustra en la regulación moral de las diversas actividades humanas y de los diversos bienes personales y sociales.

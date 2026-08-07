@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Mérito
 tags: ["dogmática", "moral"]
 
-timestamp: 2026-06-12
+timestamp: 2026-08-06
 description: "El mérito es la retribución debida por parte de una comunidad o sociedad a la acción de uno de sus miembros, considerada como obra buena, digna de recompensa."
 ---
 # Mérito
 
 > Área: Dogmática / Moral
-> Última actualización: 2026-06-12
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -85,6 +85,14 @@ Poseer un bien por el propio esfuerzo (mérito) es más noble que recibirlo sin 
 **q.19 a.4 — Cristo mereció para nosotros:**
 Cristo tuvo la gracia no solo como hombre particular, sino como cabeza de toda la Iglesia. Por ser cabeza del Cuerpo Místico, su mérito se extiende a todos sus miembros: así como el pecado de Adán se propagó a todos por generación carnal, el mérito de Cristo se comunica a todos por la regeneración espiritual (bautismo), por la cual somos incorporados a Cristo. El mérito de Cristo es de condigno perfecto y es la fuente de toda gracia y salvación para los hombres.
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+El término mérito indica la retribución debida a una acción o conducta. La Sagrada Escritura pone de manifiesto que el Creador no debe nada a la criatura, pero enseña claramente que Dios recompensa las acciones buenas y castiga las malas (Ele_Xto_Stos, Cap. VI, §7).
+
+En el Nuevo Testamento es omnipresente la idea de la retribución, que tiene lugar ya en este mundo pero sobre todo en la vida eterna: «No hay nadie que haya dejado casa, hermanos o hermanas, madre o padre, o hijos o campos por mí y por el Evangelio, que no reciba en este mundo cien veces más [...]; y en el siglo venidero, la vida eterna» (Mc 10, 29-30). La remuneración será dada «a cada uno según su conducta» (Mt 16, 27), pero «somos unos siervos inútiles» (Lc 17, 10): el premio depende de lo que Dios ha preparado, pues la obra de la salvación es un don gratuito del amor del Padre (Ele_Xto_Stos, Cap. VI, §7).
+
+San Pablo recuerda que el hombre no puede gloriarse de sus obras, porque es Dios quien llama, justifica y glorifica; pero la libertad humana es real y puede aceptar o rechazar el don divino. El significado de la noción bíblica de mérito excede la idea humana de recompensa, porque Dios mismo, con sus dones gratuitos, nos hace idóneos para las buenas obras: el Señor «es tan bueno hacia todos los hombres, que quiere que sus dones se conviertan en méritos de los hombres» (San Juan Damasceno) (Ele_Xto_Stos, Cap. VI, §7).
+
 ## Distinciones importantes
 
 - Mérito de condigno (exige igualdad perfecta entre acto y recompensa, solo Cristo) vs. mérito de congruo (conveniente, no estrictamente debido).
@@ -118,3 +126,4 @@ Se relaciona con [[gracia_santificante]], [[gracias_actuales]], [[justificación
 - [TPCr, Segunda Parte, Cap. 1, Art. 1]
 - SmTh Ia-IIae q.21 aa.1-4
 - SmTh IIIa q.19 aa.3-4
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VI, §7

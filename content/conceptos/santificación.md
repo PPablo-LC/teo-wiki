@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Santificación
 tags: ["dogmática", "moral", "ascética"]
 
-timestamp: 2026-06-19
+timestamp: 2026-08-06
 description: "La santificación es la obra divina por la cual el alma, justificada por la gracia, es progresivamente renovada a imagen de Dios, configurada con Cristo y hecha partícipe de la vida trinitaria."
 ---
 # Santificación
 
 > Área: Dogmática / Moral / Ascética
-> Última actualización: 2026-06-19
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -35,6 +35,10 @@ Royo Marín dedica el capítulo primero de su obra a establecer que la vida cris
 
 La santidad, plenitud de la santificación, consiste en: (a) vivir el misterio de la inhabitación trinitaria; (b) la perfecta configuración con Cristo o cristificación; (c) la perfección de la caridad; (d) la perfecta conformidad de la voluntad humana con la divina (TPCr n.37). Cristo es el único Camino: «El proceso de la santificación es un proceso de cristificación» (TPCr n.49). La Virgen María es «el camino más corto y seguro para llegar a Cristo, y por Él al Padre» (TPCr n.70). Los sacramentos —especialmente la Eucaristía— son los medios principales de santificación (TPCr n.50). La santificación del cristiano tiene proyección eclesial, pero debe anteponerse la propia santificación individual a la actividad apostólica desordenada (TPCr n.86).
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La santificación como voluntad de Dios es una enseñanza especialmente patente en las Cartas del Nuevo Testamento. San Pablo a los tesalonicenses: «Esta es la voluntad de Dios: vuestra santificación; que os abstengáis de la fornicación [...]. Dios no nos llamó a la impureza, sino a la santidad» (1 Ts 4, 3-8). Y la I Carta de Juan: «Todo el que permanece en él, no peca. En cambio, el que peca no le ha visto ni le ha conocido [...]. El que comete pecado, es del diablo, porque el diablo peca desde el principio. Para esto se manifestó el Hijo de Dios: para destruir las obras del diablo» (1 Jn 3, 5-8). Los que siguen a Cristo no pecan: pertenece a la misma realidad de la filiación divina la ausencia del pecado; pecar supone rechazar la filiación divina y herir el amor de Dios que la otorga como un don. Estas ideas no se oponen al hecho de que en esta vida todos, incluso los cristianos, son pecadores; solo pretenden subrayar que una característica esencial de la vida cristiana es no contentarse con el propio pecado y, por tanto, esforzarse por superarlo [Ele_Xto_Stos, Cap. III, §3a].
+
 ## Distinciones importantes
 
 - **Santificación inicial (justificación)**: la primera infusión de la gracia santificante que remite el pecado y hace al alma hija de Dios.
@@ -54,3 +58,4 @@ La santificación se vincula intrínsecamente con la [[gracia_santificante]], qu
 
 - [CEC §190, §235, §1152, §1157, §1989, §1995, §1999–2001, §2010, §2013]
 - [TPCr, Parte I, Cap. 1, nn. 36–37; Parte I, Cap. 3, n. 49; Parte I, Cap. 4, n. 70]
+- Ele_Xto_Stos, Cap. III, §3a

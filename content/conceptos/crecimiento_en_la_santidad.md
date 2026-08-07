@@ -15,7 +15,7 @@ Proceso de progresiva santificación expresado como crecimiento en la unión con
 La vida moral cristiana es un proceso de progresiva santificación que se manifiesta en tres dimensiones interrelacionadas: (1) crecimiento en la unión con Cristo (cf. Ef 4,13-15), (2) mayor identificación con la voluntad de Dios Padre (cf. Rm 12,2; Col 1,9-12), y (3) desarrollo de la caridad como virtud unitiva. Este crecimiento no es estático sino dinámico, requiriendo el ejercicio constante de las virtudes y la cooperación con la gracia divina.
 
 ## Perspectivas por fuente
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 El crecimiento en la santidad se describe como "proceso de progresiva santificación expresado como crecimiento en la unión con Cristo, mayor identificación con la voluntad del Padre, desarrollo de la caridad" (Cap. III, §4). La obra señala que este crecimiento encuentra su expresión en el Nuevo Testamento mediante la unión con Cristo, la conformidad a la voluntad divina y el desarrollo del amor caritativo.
 
 ## Distinciones importantes

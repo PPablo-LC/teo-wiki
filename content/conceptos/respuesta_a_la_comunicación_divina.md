@@ -17,7 +17,7 @@ Respuesta libre del hombre a la comunicación divina de amor que requiere corres
 La teología moral cristiana entiende la vida moral como respuesta al don divino de la gracia. La iniciativa de Dios exige una respuesta libre del hombre, que se manifiesta en la acogida de la justicia de Dios por medio de la fe en Jesucristo. Esta respuesta implica una correspondencia activa al don divino, alejándose de lo que aleja del Señor y practicando lo que lo acerca.
 
 ## Perspectivas por fuente
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 El cristiano responde a una comunicación divina fruto de su insondable amor que requiere correspondencia libre. Esta respuesta no es meramente reaccional a una petición divina de contenido preciso, sino que es el fruto de reconocer a Dios como origen y fundamento de todo bien, y comprometerse obedientemente con todo lo que resulta bueno, tanto a la luz de la razón natural como de la fe. La teología moral tiene la tarea de ayudar al cristiano a desarrollar este esfuerzo activo y creativo para lograr la unión con Cristo.
 
 ## Distinciones importantes

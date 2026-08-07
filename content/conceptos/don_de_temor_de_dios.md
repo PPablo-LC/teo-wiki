@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Don de temor de Dios
 tags: ["ascética", "mística"]
 
-timestamp: 2026-06-08
+timestamp: 2026-08-06
 description: "El don de temor de Dios es uno de los [[siete_dones_del_espíritu_santo]], un hábito sobrenatural por el cual el justo, bajo el instinto del Espíritu Santo."
 ---
 # Don de temor de Dios
 
 > Área: Ascética / Mística
-> Última actualización: 2026-06-08
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -41,6 +41,10 @@ Santo Tomás dedica doce artículos al don de temor en la Secunda Secundae. Dios
 
 El temor filial es propiamente don del Espíritu Santo (a.9): por él el alma se torna dócil a la moción divina, sometiéndose a Dios sin resistencia. Es principio de la sabiduría (a.7): el servil dispone externamente; el filial es su primer efecto. Al crecer la caridad, el temor filial crece y el temor de la pena disminuye (a.10). El temor filial permanece en la patria como temor reverencial y admirativo (a.11). La bienaventuranza correspondiente a este don es la pobreza de espíritu (a.12).
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+El don de temor de Dios es uno de los siete dones a través de los cuales el Espíritu Santo mueve a los fieles, enumerados a partir de Is 11, 2: consiste en evitar los estímulos de las pasiones desordenadas que ofenderían al Señor. (Ele_Xto_Stos, Cap. VII, §5b)
+
 ## Distinciones importantes
 
 - **Temor filial vs. temor servil**: el primero teme ofender a Dios por amor; el segundo teme el castigo. Solo el filial es don del Espíritu Santo.
@@ -67,3 +71,4 @@ El don de temor de Dios es el último y más imperfecto de los [[siete_dones_del
 - [CEC §1831; §1845; §1041]
 - [TPCr, Tercera Parte, Libro II, Cap. 2 (don de temor, n.353-358)]
 - SmTh IIª-IIae q.19 aa.1-12
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §5b

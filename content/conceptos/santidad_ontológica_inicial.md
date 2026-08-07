@@ -27,7 +27,7 @@ El bautismo confiere una santidad real que no es solo un título honorífico, si
 - **§1265-1266**: El bautismo como incorporación a Cristo.
 - **§1269-1270**: El carácter bautismal como configuración con Cristo.
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor presenta la santidad ontológica como:
 

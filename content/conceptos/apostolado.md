@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Apostolado
 tags: ["ascética"]
 
-timestamp: 2026-05-20
+timestamp: 2026-08-06
 description: "El apostolado es la obra y actividad propia del apóstol, es decir, del enviado de Dios para predicar el Evangelio a los hombres."
 ---
 # Apostolado
 
 > Área: Ascética
-> Última actualización: 2026-05-20
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -41,6 +41,10 @@ La vida mixta (contemplación y apostolado) es la más perfecta. Pero el apostol
 
 La *Redemptor Hominis* aborda el apostolado desde la corresponsabilidad de todos los bautizados en la misión de la Iglesia. En el §5, Juan Pablo II constata que el espíritu de colaboración y corresponsabilidad se ha difundido entre los laicos, «confirmando no sólo las organizaciones de apostolado seglar ya existentes, sino también creando otras nuevas con perfil muchas veces distinto y con un dinamismo excepcional». Los laicos, «conscientes de su responsabilidad en la Iglesia, se han empeñado de buen grado en la colaboración con los Pastores, con los representantes de los Institutos de vida consagrada en el ámbito de los Sínodos diocesanos o de los Consejos pastorales en las parroquias y en las diócesis» (RH §5). En el §21, sitúa el apostolado en el marco de la participación en la misión real de Cristo: la vocación cristiana, que puede definirse como «realeza», se expresa en la disponibilidad a servir. La pertenencia a la Iglesia proviene de una llamada particular («Sígueme») y constituye una «comunidad de discípulos» donde cada uno sigue a Cristo de forma diversa (RH §21). El principio del «servicio real» —fidelidad a la vocación recibida— es la regla-clave de toda la praxis cristiana, incluyendo la praxis apostólica y pastoral (RH §21).
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+[Ele_Xto_Stos, Cap. III, §6] La respuesta del cristiano a la llamada a la santidad comprende también la activa participación en la misión de Cristo y de la Iglesia: «La vocación cristiana, por su misma naturaleza, es también vocación al apostolado» (Apostolicam actuositatem, n. 2). El empeño apostólico está intrínsecamente ligado al seguimiento de Cristo y es propio de todos los fieles, también de los fieles laicos. El fin de la Iglesia es «hacer partícipes a todos los hombres de la redención salvadora, y, por medio de estos hombres, ordenar realmente todo el mundo hacia Cristo» (AA, n. 2). La llamada radical al apostolado deriva no de un ministerio o de particulares circunstancias, sino de la unión con Cristo Cabeza (AA, n. 3). El apostolado cristiano es siempre evangelización y santificación: se dirige «a manifestar al mundo el mensaje de Cristo con palabras y obras y a comunicar su gracia» (AA, n. 6). Tarea específica de los laicos es la animación cristiana del orden temporal. El apostolado cristiano comporta también «el anuncio y la propuesta moral» (Veritatis splendor, n. 107): mostrar mediante el ejemplo y las palabras la vía que se debe seguir para ser discípulo de Cristo.
+
 ## Distinciones importantes
 
 - Apostolado como estado (Pontífice, obispos), como vida (sacerdotes con misión), como práctica (todo fiel).
@@ -63,3 +67,4 @@ Se relaciona con la [[contemplación]], la [[vida_de_oración]], la [[dirección
 ## Referencias
 
 - TPCr, Tercera Parte, Libro II, Cap. V, Art. 4, n.664-669
+- Ele_Xto_Stos, Cap. III, §6

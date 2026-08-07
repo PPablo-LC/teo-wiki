@@ -1,15 +1,15 @@
 ---
 type: Concepto Teológico
-title: Consecuencialismo
+title: "Consecuencialismo"
 tags: ["moral_fundamental"]
 
-timestamp: 2026-06-20
+timestamp: 2026-08-06
 description: "El consecuencialismo es una teoría ética que pretende determinar la moralidad de los actos humanos basándose exclusivamente en el balance de sus consecuencias buenas o malas."
 ---
 # Consecuencialismo
 
 > Área: Moral Fundamental
-> Última actualización: 2026-06-20
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -24,6 +24,10 @@ La Veritatis Splendor rechaza el consecuencialismo y el proporcionalismo como m�
 ### Según la Veritatis Splendor (VS)
 
 La Veritatis Splendor (§74-75) rechaza el consecuencialismo y el proporcionalismo como métodos para determinar la moralidad de los actos humanos. Estas teorías pretenden que la bondad o malicia de un acto dependa del balance de sus consecuencias buenas y malas o de la proporción entre bienes perseguidos y males causados. La encíclica afirma que ninguna ponderación de bienes y males puede hacer moralmente bueno un acto que es intrínsecamente malo por su objeto (§75). El Magisterio de la Iglesia ha rechazado constantemente estas teorías como contrarias a la doctrina revelada (§76). La bondad moral del acto humano se determina primariamente por el objeto elegido, no por las consecuencias (§71-72, 78).
+
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La encíclica Veritatis splendor critica el consecuencialismo y el proporcionalismo porque niegan la existencia de actos intrínsecamente malos y el valor absoluto de las normas que los prohíben: «Hay que rechazar como errónea la opinión que considera imposible calificar moralmente como mala según su especie la elección deliberada de algunos comportamientos o actos determinados» (n. 82). Sin esta determinación racional sería imposible afirmar un orden moral objetivo y establecer normas que obliguen sin excepciones. Estas teorías justifican como moralmente buenas elecciones de comportamientos contrarios a la ley divina y natural (n. 76) (Ele_Xto_Stos, Cap. VI, §4e).
 
 ## Distinciones importantes
 
@@ -43,3 +47,4 @@ Se relaciona con [[acto_humano]], [[mal_intrínseco]], [[norma_moral]], [[concie
 ## Referencias
 
 - VS §71-78
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VI, §4e

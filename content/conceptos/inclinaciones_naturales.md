@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Inclinaciones naturales
 description: "Tendencias fundamentales de la naturaleza humana que constituyen la base de la ley natural y el fundamento de la libertad de calidad; incluyen las inclinaciones al bien, a la conservación de la vida, a la unión sexual y educación de los hijos, al conocimiento de la verdad y a la vida en sociedad."
 tags: ["moral_fundamental", "antropología_teológica"]
-timestamp: 2026-06-29
+timestamp: 2026-08-06
 ---
 
 # Inclinaciones naturales
 
 > Área: Moral Fundamental / Antropología Teológica
-> Última actualización: 2026-06-29
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -55,6 +55,14 @@ Pinckaers dedica el capítulo XVII de *Las Fuentes de la Moral Cristiana* al est
 
 **Ockham y la ruptura.** Frente a la doctrina tomista, Ockham elimina las inclinaciones naturales del núcleo del acto libre. Para él, la voluntad puede querer o no querer la felicidad, el fin último y la propia existencia. Las inclinaciones caen por debajo de la libertad como impulsos de orden inferior. Pinckaers considera esta ruptura como la destrucción de la piedra angular de la construcción moral de santo Tomás, que ha provocado una inversión total de la arquitectura de la moral.
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+El concepto tomista de inclinación natural es un concepto metafísico, no psicológico. Desde el planteamiento creacionista, toda naturaleza creada tiene una ordenación a su perfección propia, que Santo Tomás llama genéricamente apetito natural: una ordenación objetiva hacia el fin de la propia naturaleza, previa a cualquier acto del individuo. En los animales es instinto; en el hombre es tendencia consciente que se manifiesta en deseo sensible y en querer voluntario. (Ele_Xto_Stos, Cap. V, §2)
+
+Santo Tomás se ocupa de las inclinaciones naturales al estudiar la ley natural: la razón práctica capta "naturalmente" como bienes humanos los objetivos hacia los que el hombre está naturalmente inclinado. Los preceptos de la ley natural se adecúan a la temática de las inclinaciones naturales y constituyen la regulación moral básica. (Ele_Xto_Stos, Cap. V, §2)
+
+Distingue tres grandes grupos de inclinaciones: las que el hombre tiene en común con todas las substancias (permanencia en el ser: conservación de la vida, autodefensa, nutrición); las que tiene en común con los animales (reproducción y cuidado de la prole, que en el hombre se extiende al matrimonio); y las propias del hombre como ser racional (sociabilidad, amistad, conocimiento, amor, trascendencia metafísica). Esta explicación es esquemática: solo intenta ilustrar la relación entre las inclinaciones naturales y los preceptos de la ley moral natural. Como son las virtudes morales las que contienen los criterios de regulación en la búsqueda de los bienes humanos, solo su estudio permite captar en profundidad la visión tomista de los bienes humanos fundamentales. (Ele_Xto_Stos, Cap. V, §2)
+
 ## Distinciones importantes
 
 - **Inclinación natural espiritual vs. inclinación biológica:** la primera es «sobreluminosa» y funda la libertad; la segunda es constrictora y pertenece al orden sensible.
@@ -74,3 +82,4 @@ Se relaciona con [[ley_natural]], [[libertad_de_calidad]], [[libertad_de_indifer
 - [Pinckaers, FMC, cap. XVII]
 - [Santo Tomás, S.Th. I-II, q. 94, a. 2]
 - [Cicerón, *De officiis*; *De finibus bonorum et malorum*]
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. V, §2

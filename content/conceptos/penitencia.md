@@ -2,13 +2,13 @@
 type: Concepto Teológico
 title: "Penitencia"
 tags: ["ascética", "moral", "sacramental"]
-timestamp: 2026-08-04
+timestamp: 2026-08-06
 description: "Acto de reparar el mal cometido con un gesto de sacrificio: virtud y práctica ascética que se distingue del sacramento de la reconciliación, del que es disposición y prolongación."
 ---
 # Penitencia
 
 > Área: Ascética / Moral
-> Última actualización: 2026-08-04
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -70,6 +70,10 @@ La RSB entiende la penitencia como sistema ascético de corrección fraterna reg
 
 **Fuentes:** San Benito de Nursia, *Regla de San Benito*, caps. 23–28.
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+Cristo instituyó el sacramento de la Penitencia en favor de todos los miembros pecadores de su Iglesia, ante todo para los que, después del Bautismo, hayan caído en el pecado grave y así hayan perdido la gracia bautismal y lesionado la comunión eclesial. El sacramento de la Penitencia ofrece a estos una nueva posibilidad de convertirse y de recuperar la gracia de la justificación (CEC, n. 1446). Incluso para quienes lo reciben sin haber cometido pecado mortal, este sacramento acrecienta la gracia, aumenta las fuerzas espirituales para el combate cristiano, sana progresivamente la concupiscencia y las heridas causadas por los pecados de la vida pasada, contribuye a la formación de la conciencia y es ocasión de eficaz dirección espiritual. No es solo un remedio contra las culpas graves, sino también un importante medio de santificación y de unión con Cristo; por eso la Iglesia aconseja la práctica de la confesión frecuente (CIC, can. 988, 2; CEC, n. 1458) (Ele_Xto_Stos, Cap. III, §4b).
+
 ## Distinciones importantes
 
 - **Penitencia (virtud y acto) vs. sacramento de la reconciliación**: la penitencia en sentido estricto es la reparación con sacrificio; el sacramento (también llamado de la penitencia) es el medio instituido por Cristo para el perdón de los pecados. La penitencia dispone al sacramento y lo prolonga en obras de satisfacción.
@@ -103,3 +107,4 @@ La RSB entiende la penitencia como sistema ascético de corrección fraterna reg
 - CEC §1423-1424
 - CIC cc. 1312 §3, 1324 §1, 1340, 1344, 1357 §2, 1358 §2
 - San Benito de Nursia, *Regla de San Benito*, caps. 23-28
+- Ele_Xto_Stos, Cap. III, §4b

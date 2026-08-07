@@ -22,7 +22,7 @@ La teología moral es una ciencia teológica práctica que se distingue de la é
 
 ## Perspectivas por fuente
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor presenta la teología moral como:
 

@@ -54,6 +54,9 @@ La revelación, sin embargo, «está llena de misterio» (FR, Cap. I, §13). El 
 
 Loring define la Revelación como «la manifestación que Dios ha hecho a los hombres de Sí mismo y de aquellas otras verdades necesarias o convenientes para la salvación eterna» [PS §38,2]. La Revelación concluyó con los Apóstoles. La doctrina revelada se encuentra en la Sagrada Escritura y en la Tradición, pues «no todas las verdades de la fe están en la Biblia» [PS §38,2]. El principio protestante de «solo la Escritura» no es válido, porque ni siquiera esa doctrina está en la Biblia. La Revelación presupone hechos y palabras exteriores, pero «acontece fundamentalmente en el corazón del hombre», y tiene su expresión correlativa en la fe, que es igualmente don divino [PS §38,2].
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La revelación divina es la fuente y fundamento de la teología moral: sin ella no se puede conocer adecuadamente el orden moral sobrenatural que Dios ha querido. La teología se apoya en la verdad revelada, contenida principalmente en la [[sagrada_escritura]] inspirada, en la [[tradición_apostólica]] viva y en la enseñanza auténtica del [[magisterio_de_la_iglesia]]. De ahí que el teólogo deba trabajar siempre sobre esta base revelada y en comunión eclesial (Cap. I, §3a).
 
 ## Distinciones importantes
 

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Hábito
 tags: ["moral"]
 
-timestamp: 2026-05-25
+timestamp: 2026-08-06
 description: "Disposición permanente y estable que perfecciona las facultades del alma (entendimiento y voluntad) para obrar con facilidad y prontitud."
 ---
 # Hábito
 
 > Área: Moral
-> Última actualización: 2026-05-25
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -52,6 +52,12 @@ El CEC define las virtudes como «disposiciones permanentes del alma» (§1804) 
 
 Royo Marín dedica la Parte 2 al organismo sobrenatural, donde expone la doctrina tomista del hábito. El hábito se distingue de la potencia y del acto: la potencia es la capacidad de obrar; el hábito es la disposición que perfecciona esa capacidad; el acto es el ejercicio de la misma. Las virtudes infusas son hábitos sobrenaturales que se reciben con la [[gracia_santificante]] y que perfeccionan las facultades del alma para obrar actos sobrenaturalmente meritorios.
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La virtud puede definirse como hábito operativo bueno. Un hábito operativo es una disposición estable de una facultad humana (la inteligencia, la voluntad, los apetitos de la sensibilidad) por la que resulta bien o mal estructurada en orden a sus acciones. Los hábitos que perfeccionan las facultades humanas son las virtudes; los que las degradan son los vicios. Las virtudes permiten realizar las acciones buenas e incluso excelentes con facilidad, prontitud, agrado y naturalidad (Ele_Xto_Stos, Cap. VII, §2a).
+
+Las virtudes, en cuanto hábitos operativos, se distinguen de los hábitos entitativos, que disponen bien o mal la naturaleza del hombre y no directamente las facultades: la gracia santificante es un hábito entitativo sobrenatural, infundido por Dios, que eleva la naturaleza humana convirtiéndola en principio mediato de las acciones propias del hijo de Dios (Ele_Xto_Stos, Cap. VII, §2a).
+
 
 ## Distinciones importantes
 
@@ -83,3 +89,4 @@ Se relaciona con la [[gracia_santificante]], las [[virtudes_infusas]], las [[vir
 - [CEC §1804]
 - [CEC §1833]
 - [TPCr, Parte 2, Organismo sobrenatural]
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §2a

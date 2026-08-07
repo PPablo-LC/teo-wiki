@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Prudencia
 tags: ["moral"]
 
-timestamp: 2026-06-09
+timestamp: 2026-08-06
 description: "La prudencia es la primera y principal de las virtudes cardinales, virtud infusa que reside en la razón práctica."
 ---
 # Prudencia
 
 > Área: Moral
-> Última actualización: 2026-06-09
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -30,6 +30,12 @@ La prudencia radica en el entendimiento práctico (q.47 a.1). Es virtud especial
 ### Según Royo Marín (TPCr)
 «Es la virtud que ilumina la inteligencia para conocer qué es lo que se debe hacer en cada caso concreto. Las otras virtudes inclinan la voluntad al bien; la prudencia muestra el camino para llegar a él.»
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La prudencia es la recta ratio agibilium, el hábito de la razón práctica que determina y dicta lo que se debe hacer en cada caso concreto para obrar virtuosamente. Se distingue de los saberes técnicos (recta ratio factibilium) a partir de la distinción entre «obrar» (agere) y «hacer» o «producir» (facere). Aunque es un hábito intelectual por la facultad en la que inhiere (la razón práctica), es una virtud moral por su objeto y porque su requisito esencial es la rectitud de la voluntad: su tarea no es tanto conocer lo que debe hacerse cuanto impulsar el recto obrar; su acto principal no es el juicio, sino el imperio, con el que guía las otras potencias conforme a las exigencias de las virtudes morales. La prudencia no puede existir si antes la persona no quiere ser virtuosa: presupone la buena voluntad y las otras virtudes morales (Ele_Xto_Stos, Cap. VII, §2a).
+
+El acto de la virtud es el que individua e impera el juicio de la razón, pero no una razón cualquiera, sino la razón recta: la razón práctica perfeccionada por la virtud moral de la prudencia. Corresponde a la inteligencia interpretar, evaluar y dirigir los fenómenos de índole afectiva, y la prudencia es la virtud que perfecciona la razón práctica para realizar esta función; por eso se la llama justamente «auriga virtutum», guía de las virtudes (Ele_Xto_Stos, Cap. VII, §2e).
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[virtud_de_la_prudencia]]
@@ -46,3 +52,5 @@ Ver artículo principal: [[virtud_de_la_prudencia]]
 - CEC §1806
 - SmTh IIa-IIae q.47-56
 - TPCr, Tercera Parte, Libro I, Cap. VI
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §2a
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §2e

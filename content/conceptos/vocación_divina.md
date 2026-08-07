@@ -27,7 +27,7 @@ Dios llama a todos los hombres a la santidad y a la misión. Esta llamada no es 
 - **§856-860**: La vocación universal a la santidad.
 - **§1813-1816**: La vocación del cristiano a la vida moral.
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor presenta la vocación como:
 

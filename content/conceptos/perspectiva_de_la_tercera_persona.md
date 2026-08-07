@@ -22,7 +22,7 @@ La ética moderna tiende a privilegiar la perspectiva de la tercera persona: se 
 
 ## Perspectivas por fuente
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor presenta la perspectiva de la tercera persona como:
 

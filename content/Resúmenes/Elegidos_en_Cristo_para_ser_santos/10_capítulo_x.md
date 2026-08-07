@@ -1,120 +1,162 @@
 ---
 type: ResumenFuente
-title: "CAPÍTULO X"
+title: "CAPÍTULO X — La conciencia moral"
 fuente: Elegidos_en_Cristo_para_ser_santos
 capítulo: 10
-timestamp: 2026-08-03
-description: "Resumen de 'CAPÍTULO X' — Elegidos_en_Cristo_para_ser_santos"
-tags: ["resumen", "elegidos en cristo para ser santos"]
+timestamp: 2026-08-06
+description: "Resumen del capítulo X de Elegidos en Cristo para ser santos: la conciencia moral, su doctrina en la Escritura y el magisterio, el juicio moral, las modalidades de la conciencia y la conciencia como camino hacia la santidad."
+tags: ["resumen", "elegidos en cristo para ser santos", "teología moral", "conciencia moral", "juicio moral", "epiqueya", "formación de la conciencia"]
 ---
 
-# CAPÍTULO X
+# CAPÍTULO X — LA CONCIENCIA MORAL
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[conciencia]] — el «sagrario del hombre», núcleo moral más profundo de la persona
+- [[conciencia_moral]] — juicio de la razón práctica sobre el bien y el mal moral de una acción singular
+- [[sindéresis]] — hábito de los primeros principios morales que presupone la conciencia
+- [[prudencia]] — virtud práctica por excelencia, guía del juicio moral hacia su cumplimiento
+- [[virtud_de_la_prudencia]] — perfección habitual de la actividad directiva de la razón práctica
+- [[epiqueya]] — virtud que perfecciona el juicio moral en situaciones excepcionales
+- [[ignorancia]] — causa del error de conciencia; puede ser invencible o vencible
+- [[norma_moral]] — enunciado normativo que expresa las exigencias de las virtudes
+- [[discernimiento]] — acto de discernimiento complejo que es el juicio de conciencia
+- [[ley_moral]] — contenido de la conciencia en su dimensión cognoscitiva
+- [[ley_natural]] — conocida por el hombre; la conciencia formula la obligación moral a su luz
+- [[ley_eterna]] — fundamento último de la verdad sobre el bien
+- [[ley_divina]] — revelada al hombre y perfeccionada por la gracia
+- [[ley_de_cristo]] — la ley de la gracia en la que se funda la moral de la virtud
+- [[ley_positiva]] — las leyes humanas obligan en conciencia
+- [[ley_humana]] — normas legales perfectibles, ámbito de la epiqueya
+- [[ley_eclesiástica]] — norma legal que obliga en conciencia
+- [[virtud]] — la moral cristiana se fundamenta en las virtudes
+- [[virtudes_teologales]] — connaturalidad con el bien para la formación de la conciencia
+- [[virtudes_morales]] — actitudes virtuosas del hombre que fundan la connaturalidad con el bien
+- [[dones_del_espíritu_santo]] — perfeccionan las virtudes teologales y morales
+- [[casuística]] — moral post-tridentina condicionada por el voluntarismo
+- [[moral_autónoma]] — propuesta que contrapone libertad y ley de Dios
+- [[voluntad]] — la ignorancia vencible deriva de un acto voluntario
+- [[libertad]] — vínculo entre la libertad y la verdad en el juicio práctico
+- [[pecado]] — contraposición entre el juicio de elección y el juicio de conciencia
+- [[santidad]] — crece cuando el juicio de elección coincide con el juicio de conciencia
+- [[seguimiento_de_cristo]] — la conciencia facilita la identificación con Cristo
+- [[unión_con_cristo]] — finalidad de la conciencia en la vida cristiana
+- [[caridad]] — evitar el escándalo de los hermanos de conciencia débil
+- [[fe]] — la conciencia del cristiano juzga a la luz de la fe
+- [[esperanza]] — virtud que acompaña el crecimiento moral
+- [[gracia]] — ayuda divina que perfecciona las capacidades naturales
+- [[escándalo]] — la caridad exige evitar el escándalo de los débiles
+- [[magisterio_de_la_iglesia]] — ayuda para la formación de la conciencia
+- [[examen_de_conciencia]] — práctica de reflexión sobre los propios actos
+- [[objeción_de_conciencia]] — derecho de no ser forzado a obrar contra la conciencia
+- [[gaudium_et_spes]] — doctrina magisterial sobre la conciencia (n. 16)
+- [[veritatis_splendor]] — exposición substancialmente completa de la doctrina sobre la conciencia
+- [[catecismo_de_la_iglesia_católica]] — doctrina sobre la conciencia (nn. 1776-1802)
+- [[lumen_gentium]] — la Iglesia, signo e instrumento de salvación
+- [[cristo_camino]] — la identificación con Cristo como meta de la vida moral
+- [[san_pablo]] — doctrina bíblica de la conciencia (syneídêsis)
+- [[san_agustín]] — interpretación de Rm 14, 23 sobre la conciencia
+- [[santo_tomás_de_aquino]] — la conciencia como acto valorativo de la razón práctica
+- [[san_alfonso_de_ligorio]] — moralista y espiritual de la tradición casuística
+- [[san_jerónimo]] — fuente de la doctrina de la conciencia en Santo Tomás
+- [[juan_pablo_ii]] — Veritatis splendor; discurso sobre la conciencia (17-VIII-1983)
+- [[benedicto_xvi]] — estudio sobre la conciencia y la verdad
+- [[catecismo]] — sobre la contemplación que enseña el conocimiento interno del Señor
 
+## 1. Aclaración terminológica
 
-## Contenido
+El camino hacia la identificación con Cristo en una vida plenamente virtuosa necesita, además de los presupuestos naturales (las estructuras de racionalidad moral de la ley natural), la ayuda divina (que instruye con la ley y perfecciona las capacidades naturales con la gracia), las leyes humanas que inician la acción recta y la conciencia moral, esa íntima capacidad de reflexionar sobre los propios actos a la luz del conocimiento moral para reconocer su valor y así rectificar el proceder o reafirmarse en él. Como norma «última» o «próxima» de la moral personal, la conciencia tiene una importancia existencial innegable.
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `09_capítulo_x.md`
+Siempre nos enfrentamos al delicado equilibrio entre dos experiencias que deben mantenerse unidas: nadie debe actuar en contra de su conciencia (siempre hay que seguir la propia conciencia) y la conciencia individual no «crea» la verdad moral, sino que es un «testigo», una voz que remite a una verdad que la trasciende. Este equilibrio se ha visto amenazado por una visión legalista que exigía obediencia a las normas sin convicción personal y por una visión subjetivista que consideraba la conciencia como «regla suprema» e inapelable.
 
+La teología católica distingue entre la **conciencia moral en sentido global** (conciencia habitual), que designa la sensibilidad o percepción moral propia de una persona e incluye la sindéresis, la ley moral natural, la dimensión cognoscitiva de las virtudes morales adquiridas e infusas, la prudencia y la misma conciencia actual — noción usada con frecuencia por la Sagrada Escritura y los Padres —, y la **conciencia moral en sentido estricto** (conciencia actual), un acto de la razón práctica: el juicio sobre la bondad o malicia moral de un acto singular que nos proponemos realizar o ya hemos realizado, distinto de la sindéresis, la ley natural, la ciencia moral y la prudencia, aunque mantenga estrechas relaciones con ellas.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+## 2. La doctrina cristiana sobre la conciencia moral
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | CAPÍTULO X |
-| 4 | H2 | LA CONCIENCIA MORAL |
-| 52 | H3 | DELHAYE, La conciencia moral del cristiano, Herder, Barcelona 1969. |
-| 74 | H3 | VIII; ID., Etica general, cit., cap. X; C. CAFFARRA, Vida en Cristo, c |
-| 77 | H3 | Rapid (MI) 2021. |
-| 114 | H3 | SCHNACKENBURG, El mensaje moral del Nuevo Testamento, cit., vol. II, p |
-| 119 | H3 | Quien me juzga es el Señor» . La conciencia, como instancia humana, es |
-| 211 | H3 | CARLOTTI, La morale di papa Francesco, EDB, Bolonia 2017, especialment |
-| 288 | H3 | Ep. Española» 14 (1997) 118). |
-| 302 | H3 | De ahí la necesidad de esforzarse por formar bien la propia conciencia |
-| 316 | H3 | Magisterio ha realizado en las últimas décadas. |
-| 347 | H3 | RODRÍGUEZ LUÑO, La conciencia del penitente, «Scripta Theologica» 50 ( |
-| 489 | H2 | VI. |
-| 693 | H3 | LUÑO, Ética general, cit., pp. 198-200, 288-290. |
-| 717 | H3 | Además, como hemos dicho anteriormente , el error subjetivo invencible |
-| 784 | H3 | Insegnamenti, VI-2 (1983) 256). Este texto se recoge en Veritatis sple |
+### a) La conciencia en la Sagrada Escritura
 
+**Antiguo Testamento** — El Antiguo Testamento no usa un término específico para la conciencia (en los LXX la palabra syneídêsis solo aparece en tres pasajes tardíos), pero el contenido —la voz interior del juez divino que alaba lo bueno y reprende lo malo— está presente, sobre todo en el término hebreo lêb («corazón»): «el corazón de David le hizo sentir remordimiento» (2 Sm 24, 10); «Crea en mí, oh Dios, un corazón puro» (Sal 51, 12); y, en sentido opuesto, el «corazón endurecido» (Ez 2, 4). En el Antiguo y el Nuevo Testamento la conciencia moral es siempre «conciencia ante Dios»: el hombre está en la presencia de Dios, que es santo, y en esta luz adquiere la conciencia de haber obrado bien o mal. Las expresiones indican al hombre entero, y de ahí la preferencia por lêb, el centro más íntimo de la persona donde entra en relación con el Señor.
 
-## Secciones incluidas
+**Nuevo Testamento** — Los Evangelios tampoco usan un término específico; la conciencia se nombra con «corazón» (kardía) y «espíritu» (pnéuma), subrayando con mayor vigor la interioridad del comportamiento y del juicio moral: «De la abundancia del corazón habla la boca» (Mt 12, 34). En el corpus paulino el término syneídêsis entra en la doctrina cristiana. San Pablo invoca la conciencia como testigo: «mi conciencia me lo atestigua en el Espíritu Santo» (Rm 9, 1); «el testimonio de nuestra conciencia» (2 Co 1, 12). La conciencia es un testigo fiel, pero no le corresponde la última palabra: «Ni siquiera yo mismo me juzgo… Quien me juzga es el Señor» (1 Co 4, 3-4). La última instancia es el juicio de Dios. En Rm 2, 14-16 la conciencia aparece como testigo de naturaleza genuinamente moral para todos los hombres.
 
-# CAPÍTULO X
+De gran interés son los pasajes sobre las relaciones entre ciencia, conciencia y caridad hacia los hermanos de conciencia débil (1 Cor 8; Rm 14): la conciencia presupone la ciencia, y según esta juzga; la conciencia del cristiano juzga a la luz de la fe; la caridad requiere evitar el escándalo de quienes tienen conciencia débil. «El que duda, comiendo se condena a sí mismo, porque no actúa según la conciencia; todo lo que no procede de la conciencia es pecado» (Rm 14, 23). En las Cartas Pastorales la conciencia puede ser recta o errónea: no se debe «identificar siempre y absolutamente la voz de la conciencia con la voz de Dios» (Álvaro del Portillo). Con mayor acento cristológico, la Carta a los Hebreos atribuye al sacrificio de Cristo la liberación de la mala conciencia (Hb 9, 13-14). La conciencia moral, en su función de guía y testigo, posee ella misma una dimensión verdaderamente moral.
 
-[Contenido de esta sección...]
+### b) Enseñanzas recientes del magisterio eclesiástico
 
-# LA CONCIENCIA MORAL
+Las enseñanzas más importantes se recogen en la Gaudium et spes (n. 16), el Catecismo (nn. 1776-1802), la Veritatis splendor (nn. 54-64) y la Amoris laetitia (nn. 291-312), que ha puesto de manifiesto la centralidad de la conciencia del penitente en el discernimiento pastoral de algunos casos difíciles. La Veritatis splendor ofrece una exposición breve pero substancialmente completa, dividida en tres partes: problemas doctrinales actuales (nn. 54-56), noción de conciencia (nn. 57-61) y conciencia errónea y formación de la conciencia (nn. 62-64).
 
-[Contenido de esta sección...]
+**Problemas actuales** — Se reivindica con justicia la interioridad de la instancia moral: el «corazón» o la conciencia moral es «el sagrario del hombre, en el que está solo con Dios, cuya voz resuena en lo más íntimo de ella» (GS n. 16; VS n. 54). Lo problemático es la propuesta que, contraponiendo libertad humana y ley de Dios, defiende «una interpretación "creativa" de la conciencia moral», según la cual sería posible «la realización práctica, con buena conciencia, de lo que está calificado por la ley moral como intrínsecamente malo», instaurando una separación entre la doctrina del precepto válido en general y la norma de la conciencia individual, que decidiría de hecho, en última instancia, sobre el bien y el mal (VS n. 56).
 
-## DELHAYE, La conciencia moral del cristiano, Herder, Barcelona 1969.
+**Naturaleza de la conciencia moral** — Fundándose en Rm 2, 14-15, la conciencia es «el testigo exclusivo de cuanto acaece en la intimidad de la persona», «testigo de su fidelidad e infidelidad a la ley, o sea, de su esencial rectitud o maldad moral». Instaura un diálogo del hombre consigo mismo pero, más profundamente, «el diálogo del hombre con Dios, autor de la ley»; por eso es «testimonio de Dios mismo, cuya voz y cuyo juicio penetran la intimidad del hombre hasta las raíces de su alma» (VS n. 58). En sentido restringido (conciencia actual) tiene tres notas: 1) es un juicio práctico —una aserción sobre la moralidad de una acción singular («realizar ahora la acción X es moralmente bueno/malo»), no una elección ni una opción; pertenece al orden de lo verdadero o de lo falso—, y en él «se manifiesta el vínculo de la libertad con la verdad»; 2) formula «la obligación moral a la luz de la ley natural»; 3) es «la norma próxima de la moralidad personal», contra la que nunca es lícito actuar; este papel le pertenece no porque sea norma suprema (norma normans), sino porque, aun siendo norma normata, es norma última, ineludible: no es posible un juicio del juicio, pues se procedería hasta el infinito.
 
-[Contenido de esta sección...]
+**Conciencia errónea y formación de la conciencia** — La conciencia no es un juicio infalible; puede errar. El error «puede ser el fruto de una ignorancia invencible», y en este caso la conciencia no pierde su dignidad; la pierde «cuando es errónea culpablemente, o sea, cuando el hombre no trata de buscar la verdad y el bien, y cuando, de esta manera, la conciencia se hace casi ciega como consecuencia de su hábito de pecado» (VS n. 63; GS n. 16). El error subjetivo inculpable, aunque no sea formalmente imputable, no puede ser equiparado a la verdad: «no deja de ser un mal, un desorden con relación a la verdad sobre el bien»; «debemos meditar sobre las palabras del Salmo: "¿Quién se da cuenta de sus yerros? De las faltas ocultas límpiame" (Sal 19, 13)». De ahí la necesidad de formar bien la propia conciencia: es indispensable, aunque no suficiente, el conocimiento de la ley de Dios; también se requiere la connaturalidad del sujeto con el bien, que «se fundamenta y se desarrolla en las actitudes virtuosas del hombre mismo: la prudencia y las otras virtudes cardinales, y en primer lugar las virtudes teologales». Una ulterior ayuda proviene de la Iglesia, de su vida y sobre todo de su magisterio, que se pone siempre al servicio de la conciencia.
 
-## VIII; ID., Etica general, cit., cap. X; C. CAFFARRA, Vida en Cristo, cit., pp. 111-131; M.
+## 3. Lugar del tratado sobre la conciencia en la teología moral fundamental
 
-[Contenido de esta sección...]
+### a) Las dos tradiciones de la enseñanza moral católica
 
-## Rapid (MI) 2021.
+La enseñanza católica en el ámbito moral está constituida por dos tradiciones que han dado lugar a dos sistemas diversos: la tradición moral post-tridentina (moral casuística) y la tradición más antigua que ha encontrado en Santo Tomás su mejor expresión sistemática.
 
-[Contenido de esta sección...]
+La **moral post-tridentina**, condicionada por el voluntarismo de Occam, nace del encuentro de la libertad divina, que se expresa en la ley obligatoria, con la libertad humana; libertad y ley terminan por enfrentarse «como dos propietarios que se disputan el campo de los actos humanos». La conciencia adquiere una importancia siempre mayor: no es una virtud como la prudencia que se forma con el ejercicio, sino una instancia intermediaria entre la ley y la libertad; en su relación con la ley es pasiva, se limita a recibir la ley, presentarla a la libertad y aplicarla a sus actos. La ley se concibe de modo reductivo y negativo (acto de la voluntad de Dios sin relación directa con el ser de las cosas), como un límite de la libertad; la conciencia busca, a través de mil expedientes interpretativos, hacer más amplia la esfera de la libertad y más restringido el ámbito de la ley: relación antitética que tiende al minimalismo. El tratado sobre el fin último, las virtudes y la prudencia, y el estudio profundo de la libertad cristiana, desaparecen o se reducen a formalidad.
 
-## SCHNACKENBURG, El mensaje moral del Nuevo Testamento, cit., vol. II, pp. 57-69 (con bibliografía).
+En el **enfoque tomista**, que sigue este libro, la moral se fundamenta en las virtudes teologales y morales perfeccionadas por los dones del Espíritu Santo. «La virtud práctica por excelencia, guía del juicio moral hacia su propio cumplimiento, es la prudencia, no la conciencia, como se presenta, en cambio, en la tradición moderna». La gracia y las virtudes son tanto el contenido de la ley moral cuanto los principios a partir de los cuales la razón práctica llega a individuar los modos concretos de regular los bienes y las actividades humanas para realizar el seguimiento de Cristo. No tiene sentido «liberar» ámbitos operativos de la regla de las virtudes o de la ley moral: no hay espacios del actuar humano ajenos a la razón iluminada por la fe. En Santo Tomás la conexión entre la prudencia y la doctrina sobre la conciencia (derivada de San Pablo, los Padres y especialmente San Jerónimo) concibe el papel de la conciencia de modo diverso. La crítica a la moral casuística es una crítica de su enfoque científico de base, no de las posiciones doctrinales que transmitió; muchas críticas actuales a la casuística continúan construyéndose sobre la relación antitética entre ley y libertad, sesgándola a favor de una libertad subjetivista (moral autónoma y hermenéutica), y los problemas de fondo siguen sin superarse.
 
-[Contenido de esta sección...]
+### b) El papel de la conciencia moral en la ética teológica de la virtud
 
-## Quien me juzga es el Señor» . La conciencia, como instancia humana, es
+Siguiendo la interpretación de Abbà, es necesario distinguir el plano del **ejercicio directo** (ratio practica in actu exercito) y el plano del **ejercicio reflexivo** (ratio practica in actu signato) de la razón práctica. En el ejercicio directo, la razón práctica aspira a individuar la elección que regula los bienes humanos conforme a la regla de las virtudes; su perfección habitual es la prudencia, que presupone no solo el conocimiento de los fines virtuosos sino sobre todo su deseo. El juicio de conciencia se coloca en el ámbito de la actividad refleja, donde los principios prácticos se formulan por la ciencia moral en forma de enunciados normativos. La conciencia actual es un juicio sobre la acción concreta fundado sobre tales enunciados. Su conexión con las disposiciones de los apetitos es menos estrecha que la de la prudencia; por eso la conciencia posee un carácter eminentemente, si no exclusivamente, cognoscitivo, y la experimentamos como algo «objetivo».
 
-[Contenido de esta sección...]
+La conciencia aspira a juzgar rectamente según la ciencia moral; la prudencia, en cambio, no consiste solo en la consideración sino en la aplicación a la obra. El mal moral se consuma cuando el juicio de elección no concuerda con el juicio de conciencia: «como cuando el deseo de una acción deshonesta oscurece la razón hasta impedirle decidir su rechazo… uno se equivoca en la elección, pero no en la conciencia, puesto que actúa precisamente contra la propia conciencia» (De veritate, q. 17, a. 1 ad 4). No debe confundirse el «juicio de conciencia» con el juicio de elección: tal identificación equivaldría a admitir que cualquier decisión, con una genérica «buena voluntad», es un juicio de conciencia — concepción cercana a la de la conciencia creadora. La conciencia moral es un acto y no un hábito: no es el acto propio de un solo hábito, sino un acto valorativo de la razón práctica que se realiza a diversos niveles y sobre el que influyen diferentes hábitos. Es un fenómeno más amplio que la prudencia, pero en la individuación y actuación de la elección concreta la prudencia se extiende a más cosas y desempeña más funciones: delibera, juzga, escoge e impera, sirviéndose también de los juicios de la conciencia.
 
-## CARLOTTI, La morale di papa Francesco, EDB, Bolonia 2017, especialmente pp. 19-25 y ss.
+## 4. Estudio teológico sistemático de los problemas del juicio moral
 
-[Contenido de esta sección...]
+La noción de conciencia actual de la Veritatis splendor sigue la tradición de Santo Tomás, para quien la conciencia es el juicio resultante de la aplicación del saber moral a una acción singular. El juicio de conciencia no es la ejecución mecánica de un silogismo deductivo, sino un acto de discernimiento extremadamente complejo en el que deben interrelacionarse el saber moral, el conocimiento de la acción y de la situación, el sentido de la obligación moral y los componentes afectivos de la elección.
 
-## Ep. Española» 14 (1997) 118).
+### a) Conciencia y ciencia moral
 
-[Contenido de esta sección...]
+La conciencia juzga sobre la base de un conocimiento moral preexistente: presupone no solo la sindéresis (hábito de los primeros principios) y el conocimiento natural irreflejo de los criterios virtuosos, sino también su formulación reflexiva en forma de preceptos o normas. El hábito de la ciencia moral se presupone en cierto modo, aunque normalmente se posea de forma no científica (adquirido por reflexión, educación, costumbres, estudio, ejemplo de personas buenas). La ciencia moral es un saber práctico —un saber sobre lo que es bueno que yo desee—: la norma debe convertirse en convicción personal. Las normas morales son uno de los principales medios para comunicar y recibir el saber moral reflejo: son proposiciones universalmente lógicas («moralmente bueno», «moralmente malo», «moralmente obligatorio»); no son solo mandato o prohibición, sino también instrucción y enseñanza. La aplicación del saber moral no siempre es sencilla: se requiere la exacta comprensión de la índole y el sentido de la norma, teniendo presente la doctrina sobre las fuentes de moralidad (cap. VI). Ejemplo: la mujer casada que debe tomar una medicina anovulatoria como terapia única y juzga que es contracepción, sin conocer bien su significado moral; la contracepción es «toda acción que, o en previsión del acto conyugal, o en su realización, o en el desarrollo de sus consecuencias naturales, se proponga, como fin o como medio, hacer imposible la procreación», y es lícito el uso de medios terapéuticos verdaderamente necesarios aunque sigan un impedimento para la procreación no directamente querido: no es una excepción, sino que la acción no entra en la especie «contracepción».
 
-## De ahí la necesidad de esforzarse por formar bien la propia conciencia.
+### b) Conciencia moral, normas de comportamiento, excepciones
 
-[Contenido de esta sección...]
+Se distingue entre **normas legales** y **normas morales**. Las normas legales son reglas constitutivas de la licitud o ilicitud moral (o al menos jurídica) de las acciones en orden a promover o tutelar un bien o un estado de cosas ventajoso: algunas leyes civiles y eclesiásticas y algunas normas establecidas por la ciencia moral; no tienen positividad o negatividad intrínseca con independencia de la norma. Estas normas dejan abierta la posibilidad de excepciones o correcciones según la epiqueya (ejemplo: el código de circulación; en una ciudad desierta no es culpa moral no detenerse en un semáforo rojo si hay certeza de no peligro, porque no hay desorden intrínseco en esas acciones). Las normas morales son enunciados cuyo fundamento es la positividad o negatividad ética intrínseca de las acciones que mandan o prohíben (adulterio, aborto, estupro): no son constitutivas de la licitud, sino que la licitud de la acción funda la validez de la norma; al observarlas realizamos un acto de virtud o omitimos un acto opuesto. En relación a estas normas no es posible la excepción ni la epiqueya en sentido propio; si en algún caso parece posible una excepción, sucede porque la acción no entra de hecho en la norma, y entonces no se trata de una excepción sino de una defectuosa comprensión de la especie moral del hecho. En ámbito propiamente moral se debe abandonar el concepto mismo de excepción: aceptarla implicaría sostener que «un poco de injusticia» o «un poco de lujuria» son compatibles con el seguimiento de Cristo.
 
-## Magisterio ha realizado en las últimas décadas.
+Se distinguen también las **normas morales positivas** (manda hacer algo: honra a tu padre y a tu madre), que obligan semper sed non pro semper — siempre es posible que al hombre le sea imposible realizar determinadas acciones buenas, pero nunca se le puede impedir que no haga determinadas acciones malas, sobre todo si está dispuesto a morir antes que hacer el mal —, y las **normas morales negativas** (prohíbe hacer algo: no cometerás adulterio), que obligan semper et pro semper, en toda circunstancia, porque la elección del comportamiento prohibido «en ningún caso es compatible con la bondad de la voluntad de la persona que actúa, con su vocación a la vida con Dios y a la comunión con el prójimo».
 
-[Contenido de esta sección...]
+### c) Conciencia moral y situación
 
-## RODRÍGUEZ LUÑO, La conciencia del penitente, «Scripta Theologica» 50 (2018) pp. 9-21.
+El juicio de conciencia requiere la recta comprensión y valoración de la situación. El concepto de situación ha sido utilizado a veces para relativizar la validez absoluta de las normas morales negativas y negar las acciones intrínsecamente malas: la «ética de situación» contiene algunas instancias positivas pero adolece de graves problemas doctrinales que motivaron intervenciones del magisterio. Sin embargo, la situación personal puede y debe interpretarse correctamente: manifiesta la encarnación, la vocación y la sociabilidad del sujeto moral humano, que desvelan el camino de cada persona hacia la única verdad y el único Señor. El estado, la profesión y otras características personales son fuente de deberes y derechos específicos, pero los deberes particulares presuponen las exigencias éticas comunes a la condición humana y cristiana, que no pueden anularse ni relativizarse en su sustancia. A menudo es el propio sujeto el único capaz de calibrar, gracias a su conciencia, las exigencias particulares de la situación, y es importante respetar las decisiones de los demás cuando no son contrarias a la ley moral y se toman en conciencia. Toda verdadera exigencia moral es potencialmente universal: incumbe a cualquier persona que se hallara en aquella concreta situación.
 
-[Contenido de esta sección...]
+### d) La virtud de la epiqueya
 
-# VI.
+La tradición teológico-moral católica ha concedido un amplio espacio a la epiqueya, que perfecciona el juicio moral permitiendo alcanzar la verdad incluso en situaciones excepcionales; se considera, en sentido estricto, como una virtud moral, una cualidad perteneciente a la plena formación moral de la persona. No es algo menos bueno, un «descuento» tolerado: para Aristóteles «lo equitativo es justo y mejor que cierta clase de justicia»; para San Alberto Magno la epiqueya es «superiustitia». Su aplicación originaria comprende los comportamientos regulados por las leyes civiles, a los que los escolásticos añadieron los del derecho canónico; se refiere a las leyes humanas perfectibles (las «normas legales»). Cayetano la define: «Directio legis ubi deficit propter universale»: dirección de la ley donde esta es defectuosa a causa de su universalidad. El hombre moralmente bien formado entiende el porqué de los comportamientos lícitos o ilícitos; cuando la observancia literal de la ley se traduciría en un comportamiento lesivo de la justicia o del bien común, se convierte en deber buscar la consecución de la justicia considerando prescrito lo que el legislador mismo diría si estuviese presente. No es una actitud invocable benévolamente ni tiene que ver con el principio de tolerancia: cuando se presenta el caso, es la regla que hay que seguir necesariamente (ejemplo: no acudir en ayuda de ciudadanos en peligro para no pisar la hierba del jardín municipal). Suárez amplió la noción (ley aliquo modo contrarie en tres hipótesis), pero no la consideró virtud moral sino interpretación benigna de la ley, con carácter jurídico propio de la tradición post-tridentina. Las normas propiamente morales, en cuanto formulan las exigencias de las virtudes, no pueden ser corregidas por la epiqueya: los preceptos de la ley moral natural como tales quedan fuera de su ámbito. Sin embargo, si la formulación lingüística de una exigencia moral es inadecuada por su generalidad, la epiqueya permite la perfecta adecuación del comportamiento a la ratio virtutis (devolver un arma a quien manifiesta intención de cometer un delito no es acto de justicia). La epiqueya es «como una regla superior de los actos humanos» (S.Th., II-II, q. 120, a. 2): cuando los criterios comunes fallan, el acto debe identificarse por un juicio directivo —la gnome— inspirado en los altiora principia: la propia ratio iustitiae y el bien común. La justicia y las demás virtudes éticas no admiten excepciones.
 
-[Contenido de esta sección...]
+### e) Conciencia y obligación moral
 
-## LUÑO, Ética general, cit., pp. 198-200, 288-290.
+En la ética de la virtud el deber desempeña un papel importante pero derivado: la regla moral de las virtudes es una regla del deber, pero el deber no es ni la única ni la principal motivación (que compete a la caridad), ni presupone necesariamente una inclinación contraria: se orienta en la misma línea que las inclinaciones sensibles y espirituales y el dinamismo de la gracia del Espíritu Santo. Para la teología, la obligación moral contiene una necesaria referencia a la vocación a la santidad: es algo más que el puro sentido del deber. La conciencia moral es la sede privilegiada donde el carácter teónomo de la obligación se advierte de modo claro y reflejo: la regla moral «es debida ya que tiene como fin normativo a Dios Bien perfecto; y es también obligatoria, ya que es una regla que está en nosotros, pero que proviene de Dios… Si la regla moral fuese solo una regla y no también una ley, el desorden moral sería solo un error culpable… Sin embargo, tenemos la certidumbre de que violando una regla moral violamos una obligación. En la doctrina cristiana, esta certidumbre de que la regla moral es también una ley obligatoria que procede de Dios se denomina conciencia moral».
 
-[Contenido de esta sección...]
+## 5. Modalidades de la conciencia moral
 
-## Además, como hemos dicho anteriormente , el error subjetivo invencible, aun
+### a) Clasificación de los estados de la conciencia
 
-[Contenido de esta sección...]
+1) **Por su relación con la acción juzgada**: conciencia antecedente, que juzga el acto que se va a realizar (mandándolo, permitiéndolo, prohibiéndolo), y conciencia consecuente, que aprueba o desaprueba una acción ya realizada.
 
-## Insegnamenti, VI-2 (1983) 256). Este texto se recoge en Veritatis splendor, n. 58.
+2) **En razón de su conformidad con la verdad**: conciencia recta o verdadera, que juzga con verdad la cualidad moral de un acto, y conciencia errónea, que no alcanza la verdad. La causa del error es la ignorancia, que puede referirse a la norma (ignorantia iuris) o al hecho (ignorantia facti). La **ignorancia invencible** domina hasta tal punto la conciencia que no deja ninguna posibilidad de reconocerla ni de alejarla: cuando la persona ni siquiera sospecha que su opinión es errónea, o cuando tras reflexión, estudio y consultas llega sinceramente a una solución objetivamente errónea. La **ignorancia vencible** se puede reconocer y eliminar pero permanece porque no se ha querido superar: surge cuando hay dudas sobre la verdad de la propia opinión y, disponiendo de medios aptos, no se actúa con diligencia por pereza o malicia. La ignorancia invencible elimina la libertad y la imputabilidad moral en la medida de su amplitud: es inculpable, y la acción es no-voluntaria o involuntaria (quien dispara a una persona que no ha reconocido como su propio padre es culpable de homicidio, no de parricidio). La ignorancia vencible no quita la libertad ni la imputabilidad —el sujeto ignora porque quiere—, aunque a veces la atenúa; es culpable porque presupone un desorden moral voluntario, al menos por negligencia (ignorancia crasa o supina si hay voluntad expresa de ignorar; ignorancia simplemente vencible si es simple negligencia que atenúa la responsabilidad).
 
-[Contenido de esta sección...]
+3) **Según el grado de seguridad del juicio**: conciencia cierta (juzga con firmeza), conciencia probable (el juicio no es seguro y admite la posibilidad opuesta) y conciencia dudosa (no sabe qué parte tomar y suspende el juicio).
+
+### b) Principios para seguir la conciencia
+
+1) **Solo la conciencia cierta es regla moral.** Debe seguirse; quien actúa contra ella obra necesariamente mal, pues contradice la exigencia moral conocida. No es decisivo que la conciencia sea verdadera o falsa: quien quiere una acción juzgada con certeza como mala, aunque objetivamente sea buena, peca formalmente.
+
+2) **Además de cierta, la conciencia debe ser verdadera o invenciblemente errónea** para ser regla de moralidad. Solo la conciencia verdadera es regla en sentido estricto, pero la falibilidad humana hace posible que el hombre, aun con la diligencia debida, estime sin culpa como recta una conciencia errónea. La conciencia cierta invenciblemente errónea también debe seguirse, pero no de modo absoluto: obliga solo mientras permanece el error, per accidens, en la medida en que invenciblemente se considera verdadera. El error subjetivo invencible, aunque no imputable, es nocivo y no puede confundirse con la verdad: la formación de la conciencia es una de las tareas morales más urgentes.
+
+3) **La conciencia venciblemente errónea nunca es norma moral.** No es lícito seguirla, pues la acción consiguiente a un error culpable es culpable en la causa. Pero tampoco se puede actuar contra ella, pues se haría lo que aquí y ahora aparece como malo: hay obligación de salir del error antes de actuar. Quien está en error vencible no tiene conciencia cierta.
+
+4) **No es lícito actuar con conciencia probable.** Quien actúa con incertidumbre positiva (fundada en razones y sospechas serias) acerca de la maldad del acto, se expone voluntariamente a actuar mal; debe asegurar el juicio antes de pasar a la acción.
+
+5) **La conciencia dudosa, que suspende el juicio, tampoco puede ser regla moral**: para serlo, la conciencia debe juzgar con seguridad. Ante ella se aplican los mismos criterios que ante la probable.
+
+## 6. Conciencia y santidad
+
+La conciencia puede identificarse con el núcleo moral más profundo y basilar de la persona: es su corazón, el sagrario íntimo donde el hombre escucha la voz de Dios; es «una especie de sentido moral que nos lleva a discernir lo que está bien de lo que está mal… es como un ojo interior, una capacidad visual del espíritu en condiciones de guiar nuestros pasos por el camino del bien» (Reconciliatio et paenitentia, n. 26). La aparente paradoja entre esta grandeza de la conciencia y su identificación con un juicio de la razón práctica se plantea solo en una óptica moral normativista que contrapone ley/verdad y conciencia. En una moral de la «primera persona» no existe tal contraposición: es la misma persona en toda su verdad la que realiza el juicio de conciencia. La conciencia constituye la «personalización» del obrar moral y hace posible que la persona se realice en su irrepetible singularidad de acuerdo con su profunda verdad de hombre y de cristiano. Al realizar el juicio de conciencia, con ayuda del conocimiento de la ley moral y de las buenas disposiciones personales, la persona en su integridad se pone en diálogo con Dios; y esa voz de Dios, que resuena en el núcleo más íntimo de su ser, le muestra cómo debe comportarse aquí y ahora para identificarse con Cristo. La finalidad de la conciencia no es solo realizar un juicio práctico, sino facilitar a través de ese juicio la obtención del bien humano y la perfección de la persona: seguir la voz de la conciencia es el camino seguro —en cierto sentido, el único camino— para avanzar en santidad. La santidad moral crece cuando el juicio de elección coincide con el juicio de conciencia, y el pecado no es otra cosa que una contraposición entre esos dos juicios.
+
+La conciencia exige la vida de oración, en la que «la luz de la mirada de Jesús ilumina los ojos de nuestro corazón; nos enseña a ver todo a la luz de su verdad y de su compasión por todos los hombres… Aprende así el "conocimiento interno del Señor" para más amarle y seguirle» (CEC n. 2715). Se resalta la importancia moral de la conciencia, la necesidad de educarla adecuadamente y el derecho de no ser forzado a obrar contra ella. Mediante la conciencia, la persona construye y recorre —en diálogo con Dios— el camino de su vocación personal: la llamada universal a la santidad recibe su especificación personal en la conciencia moral. La conciencia suscita el sentido de responsabilidad y de personalidad; para el cristiano que recapacita sobre su carácter bautismal genera los conceptos fundamentales de la teología sobre el hombre que se sabe y se siente hijo de Dios, miembro de Cristo, incorporado a la Iglesia, dotado del sacerdocio común de los fieles, de donde procede el empeño de cada cristiano por ser santo y llegar a la plenitud de la vida cristiana, a la perfección de la caridad. El juicio de conciencia, como reflejo de la voz de Dios, es siempre una llamada a la santidad, que exige auténtica docilidad a las mociones del Espíritu Santo. Dos breves máximas de San Josemaría lo resumen: «No tomes una decisión sin detenerte a considerar el asunto delante de Dios»; «Recógete. —Busca a Dios en ti y escúchale» (Camino, nn. 266 y 319).

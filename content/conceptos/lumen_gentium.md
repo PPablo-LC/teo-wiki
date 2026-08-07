@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Lumen Gentium
 tags: ["eclesiología", "dogmática"]
 
-timestamp: 2026-05-26
+timestamp: 2026-08-06
 description: "Constitución dogmática *Lumen Gentium* del Concilio Vaticano II sobre la Iglesia, promulgada el 21 de noviembre de 1964."
 ---
 # Lumen Gentium
 
 > Área: Eclesiología / Dogmática
-> Última actualización: 2026-05-26
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -25,6 +25,10 @@ La constitución consta de ocho capítulos: el misterio de la Iglesia (LG 1-8), 
 
 [JPII, Redemptoris Mater §1-52]: *Lumen Gentium*, especialmente su capítulo VIII (*De Beata Virgine Maria Matre Dei in mysterio Christi et Ecclesiae*), es el fundamento conciliar de toda la *Redemptoris Mater*. La encíclica retoma el concepto de «peregrinación de la fe» de María (LG §58) como su hilo conductor. Desarrolla las afirmaciones de LG sobre la mediación materna de María (LG §60-62), su maternidad espiritual (LG §53-54) y su presencia en el misterio de Cristo y de la Iglesia (LG §52-53). La encíclica profundiza en la enseñanza de LG sobre María como tipo y modelo de la Iglesia [RM §42-44], como Madre de la Iglesia [RM §47] y como signo de esperanza segura para el Pueblo de Dios peregrinante (cf. LG §68-69) [RM §50].
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+El capítulo V de la *Lumen gentium* señala el fundamento último del empeño por la santidad: la santidad de Dios —Padre, Hijo y Espíritu Santo— que Cristo ha transmitido a la Iglesia; por eso «todos en la Iglesia, pertenezcan a la Jerarquía o sean regidos por ella, están llamados a la santidad» (LG, n. 39). El n. 40 relaciona la santidad inicial y la santidad moral: «El bautismo y la fe los ha hecho verdaderamente hijos de Dios, participan de la naturaleza divina y son, por tanto, realmente santos. Por eso deben, con la gracia de Dios, conservar y llevar a plenitud en su vida la santidad que recibieron» (LG, n. 40). El n. 41 precisa que «en los diversos géneros de vida y ocupación, todos cultivan la misma santidad», y el n. 42 concluye: «Todos los cristianos, por tanto, están llamados y obligados a tender a la santidad y a la perfección de su propio estado de vida». Esta doctrina propone la santidad como fin práctico y alcanzable por todos los cristianos, también por quienes no han recibido vocación al estado sacerdotal ni a la vida consagrada (Ele_Xto_Stos, Cap. II, §3e).
+
 ## Relaciones doctrinales
 
 ## Ver también
@@ -33,3 +37,4 @@ La constitución consta de ocho capítulos: el misterio de la Iglesia (LG 1-8), 
 
 - [ConcVatII, Lumen Gentium, 21 de noviembre de 1964]
 - [JPII, Redemptoris Mater, 25 de marzo de 1987]
+- Ele_Xto_Stos, Cap. II, §3e

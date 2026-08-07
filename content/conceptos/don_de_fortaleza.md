@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Don de fortaleza
 tags: ["ascética", "mística"]
 
-timestamp: 2026-06-23
+timestamp: 2026-08-06
 description: "El don de fortaleza es uno de los [[siete_dones_del_espíritu_santo]] que perfecciona la [[virtud_de_la_fortaleza]]."
 ---
 # Don de fortaleza
 
 > Área: Ascética / Mística
-> Última actualización: 2026-06-23
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -81,6 +81,10 @@ Juan Pablo II, en la audiencia general del 15-XI-1978 sobre la fortaleza, culmin
 
 JPII subraya que el don de fortaleza es necesario **cuando las fuerzas humanas no bastan** para superarse hacia esos valores superiores. Es un auxilio divino, un «don de lo alto», que transforma al hombre débil en hombre fuerte. Su acción íntima se manifiesta como una palabra interior de aliento: «¡Ánimo!», eco de la palabra que el cardenal susurró a Juan Pablo I en el Cónclave y que JPII recoge como lema de toda su catequesis.
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+El don de fortaleza es uno de los siete dones a través de los cuales el Espíritu Santo mueve a los fieles, enumerados a partir de Is 11, 2: consiste en estar dispuestos a rechazar prontamente las sugestiones negativas en los peligros. (Ele_Xto_Stos, Cap. VII, §5b)
+
 ## Distinciones importantes
 
 - **Don de fortaleza vs. virtud de la fortaleza**: la virtud da firmeza humana; el don da fuerza sobrehumana
@@ -128,3 +132,4 @@ JPII subraya que el don de fortaleza es necesario **cuando las fuerzas humanas n
 - Concilio de Trento
 - SmTh Ia-IIae q.68; IIª-IIae q.139 aa.1-4
 - [7_Lamps, JPII La fortaleza — Audiencia general, 15-XI-1978]
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §5b

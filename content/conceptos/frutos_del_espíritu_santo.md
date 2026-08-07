@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Frutos del Espíritu Santo
 tags: ["moral", "mística"]
 
-timestamp: 2026-05-22
+timestamp: 2026-08-06
 description: "Perfecciones que forma en nosotros el Espíritu Santo como primicias de la gloria eterna."
 ---
 # Frutos del Espíritu Santo
 
 > Área: Moral / Mística
-> Última actualización: 2026-05-22
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -38,6 +38,12 @@ Los frutos del Espíritu son perfecciones que forma en nosotros el Espíritu San
 
 Cada don del Espíritu Santo produce frutos propios. Al don de entendimiento corresponden como fruto la fides (certeza de la fe) y el gaudium (gozo espiritual). Al don de sabiduría corresponden la caridad, el gozo espiritual y la paz. Al don de ciencia corresponden la certeza de la fe (fides) y el gozo espiritual (gaudium). Al don de piedad corresponden la bondad y la benignidad, e indirectamente la mansedumbre. Al don de temor corresponden la modestia, la continencia y la castidad (TPCr, Parte III, Libro II, Cap. II).
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+A las obras de la carne San Pablo contrapone «el fruto del Espíritu»: amor, alegría, paz, paciencia, afabilidad, bondad, fidelidad, mansedumbre, dominio de sí (Ga 5, 22-23). Estos frutos son disposiciones estables moralmente buenas, fruto de la sumisión a la acción salvífica del Espíritu Santo [Ele_Xto_Stos, Cap. III, §3c].
+
+En la Sagrada Escritura, la iniciativa del esfuerzo por adquirir las virtudes no parte del hombre, sino de Dios: las virtudes cristianas son «frutos del Espíritu», conectadas con la acción del Espíritu Santo. El catálogo bíblico de los frutos del Espíritu comprende el amor, la alegría, la paz, la paciencia, la afabilidad, la bondad, la fidelidad, la mansedumbre y el dominio de sí (Ga 5, 22-23), resultantes de la acción del Espíritu. (Ele_Xto_Stos, Cap. VII, §1b)
+
 
 ## Distinciones importantes
 
@@ -62,3 +68,5 @@ Cada don del Espíritu Santo produce frutos propios. Al don de entendimiento cor
 - CEC §1832
 - TPCr, Parte III, Libro II, Cap. II
 - Gálatas 5,22-23
+- Ele_Xto_Stos, Cap. III, §3c
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §1b

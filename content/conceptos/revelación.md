@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Revelación
 tags: ["dogmática", "teología_fundamental"]
 
-timestamp: 2026-05-26
+timestamp: 2026-08-06
 description: "La revelación es la comunicación que Dios hace de sí mismo y de su designio salvífico a los hombres."
 ---
 # Revelación
 
 > Área: Dogmática / Teología fundamental
-> Última actualización: 2026-05-26
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -53,6 +53,10 @@ El Concilio de Trento (Sesión IV, D-785-D-786) declaró la Vulgata como edició
 
 [VocTeoBib, «Revelación»] La revelación bíblica es un hecho histórico que se desarrolla durante siglos hasta alcanzar su plenitud en Cristo. En el AT, Dios revela sus designios por la ley, los profetas y la sabiduría; se revela a sí mismo a través de la creación, la historia y su nombre (Ex 3,14), pero manteniendo su trascendencia. En el NT, la revelación se concentra en Jesucristo: por sus hechos, sus palabras y su persona (Mt 11,27 p). Los apóstoles la comunican bajo la guía del Espíritu Santo (Act 1,8), y la Iglesia la transmite fielmente. La revelación pública se cierra con los Apóstoles, pero su inteligencia progresa en la Iglesia hasta la manifestación final (1Cor 13,12). El Apocalipsis es el libro que sella la revelación, orientando la mirada de la Iglesia hacia la parusía.
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+El análisis puramente filosófico considera la vida moral como un proyecto con el que el hombre pretende realizar, a través de sus acciones, el bien completo y definitivo de la propia vida. A la luz de la Revelación comprendemos que el bien humano completo es asumido, purificado, elevado e integrado —mas no alterado— por la llamada a la santidad que se actúa en la configuración con Cristo. La natural capacidad práctica de la razón humana es enriquecida por el horizonte de sentido y por las concretas enseñanzas morales de la Revelación, y las demás facultades operativas son sanadas y elevadas por las virtudes cristianas. La vida moral cristiana significa la activa búsqueda de la santidad, sostenida por la gracia del Espíritu Santo; toda la existencia moral puede entenderse como la respuesta del hombre al don divino que lo ha elevado a la dignidad de hijo de Dios en Cristo por medio del Espíritu Santo. El cristiano sabe que es destinatario de enseñanzas morales precisas que ilustran los modos fundamentales de su respuesta a la llamada divina [Ele_Xto_Stos, Cap. III, §1].
+
 ## Distinciones importantes
 
 - **Revelación natural vs. sobrenatural**: la primera por las criaturas; la segunda por comunicación directa de Dios
@@ -72,3 +76,4 @@ Se relaciona con [[revelación_divina]], [[revelaciones]], [[virtud_de_la_fe]], 
 - CEC §50-73, §142-143, §153, §156
 - TPCr, Primera Parte, Cap. III, n.38
 - Concilio Vaticano II, Dei Verbum 2-6
+- Ele_Xto_Stos, Cap. III, §1

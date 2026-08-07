@@ -27,7 +27,7 @@ La razón humana tiene la capacidad de conocer el bien moral mediante la ley nat
 - **Gaudium et Spes, n. 16**: La conciencia humana como lugar donde se manifiesta la ley natural.
 - **Fides et Ratio, nn. 43-48**: La complementariedad entre fe y razón.
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor presenta la relación como:
 

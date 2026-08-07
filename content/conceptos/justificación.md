@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Justificación
 tags: ["dogmática"]
 
-timestamp: 2026-06-29
+timestamp: 2026-08-06
 description: "La justificación es la obra de la gracia del Espíritu Santo por la cual el hombre, movido por Dios, se vuelve a Él y se aparta del pecado, acogiendo el perdón y la justicia de lo alto (CEC §1989)."
 ---
 # Justificación
 
 > Área: Dogmática
-> Última actualización: 2026-06-29
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -100,8 +100,14 @@ Pío V condenó los errores de Bayo sobre la justificación (D‑1042–D‑1044
 - D‑1069: La justificación del impío se realiza formalmente por la obediencia a la ley, no por la comunicación e inspiración de la gracia.
 - D‑1071: Por la contrición unida a la caridad perfecta y al deseo del sacramento, sin la recepción actual del sacramento, no se remite el pecado fuera del caso de necesidad o martirio.
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+En términos generales, se puede afirmar que toda iniciativa de Dios en relación al ser humano exige la respuesta libre del hombre. Incluso la santidad inicial supone ya una primera y fundamental respuesta: la libre acogida de la justicia de Dios por medio de la fe en Jesucristo, en la cual se realiza la justificación. La fe, a la que siguen la caridad y el deseo de llegar a la plena comunión con Dios (esperanza), debe fortalecerse cada día: ni siquiera la santidad inicial puede considerarse una realidad indefectible. Como escribe San Agustín: «Todo procede de Dios; pero no permaneciendo nosotros como somnolientos, como reacios a todo esfuerzo, casi contra voluntad. Sin tu voluntad, en ti no se hallará la justicia de Dios. [...] Quien te creó sin ti, no te justificará sin ti». Del hombre depende la continua correspondencia al don divino, que se manifiesta en la decisión siempre actual de vivir ante todo como santo en Cristo [Ele_Xto_Stos, Cap. III, §2].
+
 ## Ver también
 
 [[gracia_santificante]], [[gracias_actuales]], [[virtudes_infusas]], [[bautismo]], [[perfección_cristiana]], [[pecado]]
 
 ## Referencias
+
+- Ele_Xto_Stos, Cap. III, §2

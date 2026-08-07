@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Temor
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-06-12
+timestamp: 2026-08-06
 description: "El temor de Dios es un don del Espíritu Santo que inspira respeto reverencial hacia la majestad divina y aparta del pecado. No es miedo servil, sino amor filial que teme ofender a Dios."
 ---
 # Temor
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-06-12
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -64,6 +64,24 @@ Cristo tuvo temor como propasión (no pasión perfecta), pues en el apetito sens
 
 La TPCr dedica una sección completa al don de temor (n. 353ss). «El don de temor es un hábito sobrenatural por el cual el justo, bajo el instinto del Espíritu Santo, adquiere docilidad especial para someterse totalmente a la divina voluntad por reverencia a la excelencia y majestad de Dios» (n. 333). Dios, como suprema Bondad, no puede ser temido sino amado; pero en cuanto puede infligir un mal en castigo de las culpas, debe ser temido (n. 335). Distingue temor mundano (pecaminoso), servil y filial o reverencial (propio del justo). El don de temor perfecciona la esperanza (n. 166, 331) y permanecerá en la patria como temor reverencial (n. 958).
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+El temor, como pasión, disminuye y en algunos casos anula la responsabilidad moral. Puede ser grave o leve (subjetivo), justo (causado por un justo motivo, como la presencia de un policía) o injusto (Ele_Xto_Stos, Cap. VI, §6d).
+
+Principios sobre el temor y la imputabilidad:
+
+1) El temor disminuye la voluntariedad según su gravedad objetiva y subjetiva: el bien hecho solo por temor no es meritorio por falta de intención recta (Ele_Xto_Stos, Cap. VI, §6d).
+
+2) Las leyes positivas no obligan en caso de temor grave (*non obligant cum gravi incommodo*): no peca quien no asiste a Misa por temor a perder la vida; pero obligan con temor leve (no asistir por temor a acatarrarse) (Ele_Xto_Stos, Cap. VI, §6d).
+
+3) Las leyes negativas (que se refieren a actos intrínsecamente malos) obligan incluso con temor grave: no se puede apostatar ni por temor a la muerte (Ele_Xto_Stos, Cap. VI, §6d).
+
+4) Superar el temor es signo de mayor voluntariedad (Ele_Xto_Stos, Cap. VI, §6d).
+
+5) El temor puede hacer nulos o rescindibles actos que requieren libertad plena: el matrimonio bajo presión de temor grave injustamente causado puede ser nulo (Ele_Xto_Stos, Cap. VI, §6d).
+
+La persona que no consigue dominar el temor puede tener problemas caracteriales (ansiedad, pusilanimidad, formas neuróticas); la regulación virtuosa de las pasiones coincide con el equilibrio y la madurez de la persona (Ele_Xto_Stos, Cap. VI, §6d).
+
 
 ## Distinciones importantes
 
@@ -91,3 +109,4 @@ Se relaciona con [[don_de_temor]], [[sabiduría]], [[espíritu_santo]], [[dones_
 - Prov 1,7; 9,10; Eclo 1,14; Rom 8,15; Flp 2,12; 1 Jn 4,18
 - SmTh Ia-IIae q.41-44; IIª-IIae q.125 aa.1-4
 - SmTh IIIª q.15 a.7
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VI, §6d

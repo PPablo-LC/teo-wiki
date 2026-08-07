@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Gracia
 tags: ["dogmática"]
 
-timestamp: 2026-06-27
+timestamp: 2026-08-06
 description: "Don gratuito que Dios nos da para responder a su llamada: llegar a ser hijos de Dios, partícipes de la naturaleza divina y de la vida eterna."
 ---
 # Gracia
 
 > Área: Dogmática
-> Última actualización: 2026-06-29
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -107,6 +107,14 @@ Pío V, en la bula *Ex omnibus afflictionibus* (1567), condenó los errores de M
 
 **D‑1384–D‑1387** — Gracia de Adán vs. gracia cristiana: «La gracia de Adán no producía sino merecimientos humanos... La gracia de Adán es secuela de la creación y era debida a la naturaleza sana e íntegra... La diferencia esencial entre la gracia de Adán y del estado de inocencia y la gracia cristiana está en que la primera la hubiera cada uno recibido en su propia persona; ésta, empero, no se recibe sino en la persona de Jesucristo resucitado.» Condenadas. La gracia de Adán era ya sobrenatural y gratuita, no debida a la naturaleza.
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La gracia es la fuente originaria de todo mérito humano: «El mérito del hombre ante Dios en la vida cristiana proviene de que Dios ha dispuesto libremente asociar al hombre a la obra de su gracia. La acción paternal de Dios es lo primero... el libre obrar del hombre es lo segundo» (CEC, n. 2008) (Ele_Xto_Stos, Cap. VI, §7a).
+
+Dios mismo, con sus dones gratuitos, nos hace idóneos para las buenas obras: el Señor «es tan bueno hacia todos los hombres, que quiere que sus dones se conviertan en méritos de los hombres» (San Juan Damasceno). Los santos han tenido siempre conciencia de que sus méritos eran pura gracia (CEC, n. 2011) (Ele_Xto_Stos, Cap. VI, §7a).
+
+El hombre que, ayudado por la gracia, se entrega a Dios en la acción buena recibe como recompensa la donación del mismo Señor: una unión más plena con la Santísima Trinidad. «Si alguno me ama, guardará mi palabra, y mi Padre le amará, y vendremos a él y haremos morada en él» (Jn 14, 23). Al crecimiento de la gracia santificante se une un incremento de las gracias actuales, ayudas transeúntes en el camino de la santidad. Como la gracia es la semilla de la vida bienaventurada, mediante el mérito se injerta más sólidamente el germen del paraíso (Ele_Xto_Stos, Cap. VI, §7a).
+
 ## Distinciones importantes
 
 - Gracia santificante (habitual) vs. gracias actuales
@@ -133,3 +141,4 @@ Pío V, en la bula *Ex omnibus afflictionibus* (1567), condenó los errores de M
 - CEC §1996-2026
 - TPCr, Parte II, Cap. 1
 - Denzinger D‑1351–D‑1375, D‑1384–D‑1387 (Clemente XI, *Unigenitus*)
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VI, §7a

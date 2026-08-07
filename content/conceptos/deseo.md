@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Deseo
 tags: ["teología_bíblica", "moral", "ascética"]
 
-timestamp: 2026-06-19
+timestamp: 2026-08-06
 description: "El deseo es la dimensión fundamental de la indigencia humana que, lejos de ser negada por la Escritura, es asumida y purificada."
 ---
 # Deseo
 
 > Área: Teología Bíblica / Moral / Ascética
-> Última actualización: 2026-06-19
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -33,6 +33,14 @@ La **conversión del deseo** comienza con la proclamación evangélica: lo que p
 
 El **deseo de comunión** tiene su origen en el deseo de Jesucristo mismo: el deseo de dar gloria al Padre (Jn 17,4), el deseo de comer la Pascua con los suyos (Lc 22,15). Este deseo divino suscita un eco en Pablo (Flp 4,1; 1,8; 2Cor 7,7.11) y culmina en el deseo de estar con Cristo (Flp 1,23; 2Cor 5,8). El grito del Espíritu y de la esposa es: «¡Ven!» (Ap 22,17).
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+El deseo o impulso es la forma en que se manifiestan las necesidades del hombre en su diálogo con el mundo: a cada necesidad corresponde un impulso. Las tendencias humanas tienen un campo mucho mayor que los impulsos animales (sociabilidad, necesidad de amar, deseo de saber, religiosidad), que se amplía ulteriormente en el cristiano. Los deseos constituyen un principio de selección de los objetos significativos y un principio configurador del propio mundo. (Ele_Xto_Stos, Cap. V, §2)
+
+La dimensión "cognoscitiva" del deseo es muy importante para la percepción del bien: en la experiencia moral concreta, el bien no es solo objeto de la inteligencia abstracta, sino que presupone condiciones personales y una adecuada estabilidad emocional. Es la base antropológica de la función cognoscitiva de las virtudes morales. (Ele_Xto_Stos, Cap. V, §2)
+
+El estudio del desear humano se aborda desde dos perspectivas complementarias: el concepto tomista de inclinación natural, como fundamento ontológico, y el punto de vista descriptivo de la psicología, como mapa del sistema tendencial humano. (Ele_Xto_Stos, Cap. V, §2)
+
 ## Distinciones importantes
 
 - **Deseo natural vs. deseo desordenado (concupiscencia)**: el primero está dentro del orden creado y es querido por Dios; el segundo es fruto del pecado y debe ser combatido.
@@ -50,3 +58,4 @@ El deseo se vincula con la [[concupiscencia]], la [[tentación]], el [[pecado]],
 ## Referencias
 
 - VocTeoBib, «Deseo»
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. V, §2

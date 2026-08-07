@@ -1,14 +1,14 @@
 ---
 type: Concepto Teológico
 title: Ética de la virtud
-description: "Enfoque ético que se formula desde la perspectiva de la primera persona, preguntándose por el tipo de persona que se debe ser y por el bien global del hombre, privilegiando la virtud como hábito electivo."
+description: "Enfoque ético desde la perspectiva de la primera persona: se pregunta por el tipo de persona que se debe ser y por el bien global del hombre, privilegiando la virtud como hábito electivo."
 tags: ["teología_moral", "ética"]
-timestamp: 2026-08-04
+timestamp: 2026-08-06
 ---
 # Ética de la virtud
 
 > Área: Teología moral / Ética
-> Última actualización: 2026-08-04
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -30,7 +30,7 @@ Santo Tomás adopta la perspectiva de la primera persona:
 - **I-II, q. 64, a. 3**: El término medio de la virtud se determina según la recta razón.
 - **I-II, q. 66, a. 3**: La caridad como forma de todas las virtudes, elevando la ética aristotélica.
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor presenta la ética de la virtud como:
 
@@ -38,6 +38,8 @@ El autor presenta la ética de la virtud como:
 - Correspondiente a la forma clásica de elaborar la ética (Aristóteles, Santo Tomás).
 - Se opone a la perspectiva de la tercera persona (ética de las normas).
 - Fundamental para la teología moral, que no puede reducirse a normas abstractas.
+
+La ética de la virtud es la forma clásica de elaborar la ética: se pregunta por el bien global del hombre y por la vida buena. En la expresión clásica de Aristóteles, la vida según las virtudes es la vida mejor del hombre, la vida buena o felicidad. (Ele_Xto_Stos, Cap. VII, §1a)
 
 ## Distinciones importantes
 
@@ -55,5 +57,5 @@ Se relaciona con [[virtudes_morales_infusas]], [[ética_aristotélica]], [[persp
 
 ## Referencias
 
-- Ele_Xto_Stos, Cap. I, §1c
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. I, §1c; Cap. VII, §1a
 - SmTh, I-II, q. 55, a. 4; q. 64, a. 3; q. 66, a. 3

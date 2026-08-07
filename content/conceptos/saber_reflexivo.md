@@ -22,7 +22,7 @@ La teología moral no es una ciencia abstracta, sino que se origina en la vida c
 
 ## Perspectivas por fuente
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor explica que:
 

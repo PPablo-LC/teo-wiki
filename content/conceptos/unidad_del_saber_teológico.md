@@ -22,7 +22,7 @@ La teología no es un mosaico de disciplinas inconexas, sino una ciencia unitari
 
 ## Perspectivas por fuente
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor subraya que:
 

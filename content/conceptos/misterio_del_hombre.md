@@ -27,7 +27,7 @@ El Concilio Vaticano II proclamó que solo en el misterio del Verbo encarnado se
 - **Gaudium et Spes, nn. 12-22**: El misterio del hombre y su vocación.
 - **Gaudium et Spes, n. 22**: Solo en Cristo se aclara el misterio del hombre.
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor presenta el misterio del hombre como:
 

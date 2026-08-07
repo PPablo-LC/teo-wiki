@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Carismas
 tags: ["dogmática"]
 
-timestamp: 2026-06-12
+timestamp: 2026-08-06
 description: "Gracias especiales del Espíritu Santo que hacen a los fieles aptos para asumir diversas tareas o ministerios que contribuyen a edificar la Iglesia y al bien común."
 ---
 # Carismas
 
 > Área: Dogmática
-> Última actualización: 2026-06-12
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -65,6 +65,12 @@ La Carta Apostólica *Una fidelidad que genera futuro* (2025) aborda los carisma
 
 El documento «Los carismas y las nuevas realidades eclesiales» (2014) retoma la enseñanza de LG 12 sobre los carismas como fundamento de los [[movimientos_eclesiales]]. Cita el pasaje de *Lumen Gentium* que dice que el Espíritu Santo «distribuye gracias especiales entre los fieles de cualquier condición, distribuyendo a cada uno según quiere sus dones». El documento desarrolla la **co-esencialidad de las dimensiones institucional y carismática** de la Iglesia (Ratzinger, 1998): la dimensión carismática consiste en las continuas «irrupciones del Espíritu» que aseguran la vitalidad y la radicalidad evangélica. Los carismas no son un patrimonio cerrado entregado a un grupo para que lo custodie, sino «regalos del Espíritu integrados en el cuerpo eclesial, atraídos hacia el centro que es Cristo» (Francisco, EG 130). La eclesialidad es signo claro de la autenticidad de un carisma: su capacidad para integrarse armónicamente en la vida del Pueblo de Dios [RC-MovEcles-2014, B.1, D].
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La palabra griega carisma significa favor, don gratuito, beneficio, y en este sentido aparece en el Nuevo Testamento catorce veces en las cartas paulinas. En las lenguas modernas la palabra carisma ha adquirido un significado técnico, usado en el Nuevo Testamento pocas veces (Rm 12, 6-11; 1 Co 12, 4; 1 P 4, 10-11). En esta acepción, los carismas son múltiples dones —diversidad de carismas (Rm 12, 6; 1 Co 12, 4)— que el Espíritu distribuye como quiere «para utilidad común» (1 Co 12, 7.11; 14, 12; CEC n. 951), y que no todas las personas reciben, porque no son necesarios a cada cristiano para desarrollar la propia santidad. (Ele_Xto_Stos, Cap. VII, §5c)
+
+Tanto la etimología como las indicaciones explícitas de la Escritura muestran que los carismas son dones gratuitos de Dios en orden al fin sobrenatural: «Extraordinarios o sencillos y humildes, los carismas son gracias del Espíritu Santo, que tienen directa o indirectamente una utilidad eclesial; los carismas están ordenados a la edificación de la Iglesia, al bien de los hombres y a las necesidades del mundo» (CEC n. 799). (Ele_Xto_Stos, Cap. VII, §5c)
+
 ## Distinciones importantes
 
 - Carismas ≠ gracia santificante: los carismas son para el bien de la Iglesia, no directamente para la santificación personal
@@ -86,3 +92,4 @@ El documento «Los carismas y las nuevas realidades eclesiales» (2014) retoma l
 - [VocTeoBib, «Carisma»]
 - SmTh IIIª q.7 a.7
 - [RC-Carismas-2023, 3.1, 4.1-4.2]
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §5c

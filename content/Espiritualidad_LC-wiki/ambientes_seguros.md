@@ -45,6 +45,18 @@ El documento «Proteger y sanar» establece los principios fundamentales:
 
 Los estándares Praesidium incluyen: políticas de selección; formación continua; supervisión; respuesta a denuncias; transparencia.
 
+### Según el Informe de Verdad, Justicia y Sanación (LC-InfAnual-2020)
+
+El informe anual de 2020 documenta los avances en la implementación de la política de ambientes seguros:
+
+**Actualización de estándares.** En 2020 se trabajó en la actualización de los estándares de ambientes seguros, extendiendo su aplicación a las personas vulnerables y adaptando los protocolos a la normativa de la Santa Sede [LC-InfAnual-2020, política ambientes seguros].
+
+**Comisiones en las obras.** La política promueve el funcionamiento de comisiones de ambientes seguros en las obras, con la figura del coordinador territorial y la formación permanente del personal [LC-InfAnual-2020, política ambientes seguros].
+
+**Formación Praesidium.** Se continuó la formación del personal mediante la metodología de Praesidium, orientada a la detección y prevención de abusos [LC-InfAnual-2020, política ambientes seguros].
+
+**Órganos de escucha.** La implementación de la política incluye órganos de escucha y recepción de denuncias en los distintos ámbitos, garantizando confidencialidad, protección y seguimiento [LC-InfAnual-2020, política ambientes seguros].
+
 ## Distinciones importantes
 
 - Ambientes seguros (cultura de protección) vs. normas punitivas (castigo post facto)
@@ -65,4 +77,5 @@ Los estándares Praesidium incluyen: políticas de selección; formación contin
 - [VJyS-II, Compromisos 2022 n. 5-6 — Concluir acreditaciones, ampliar colaboración externa]
 - [VJyS-II, Línea de tiempo — evolución de la política de ambientes seguros]
 - [CRPS-2020, PS — Proteger y Sanar, principios y normas]
+- [LC-InfAnual-2020, Política de ambientes seguros — actualización, comisiones, formación, órganos de escucha]
 - [Estándares de Ambientes Seguros de la Legión de Cristo]

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Cruz
 tags: ["cristología", "soteriología"]
 
-timestamp: 2026-07-20
+timestamp: 2026-08-06
 description: "La cruz es el instrumento de la muerte redentora de Jesucristo y el símbolo central de la fe cristiana."
 ---
 # Cruz
 
 > Área: Cristología / Soteriología
-> Última actualización: 2026-07-20
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -119,6 +119,10 @@ La cruz en San Francisco es el centro de la gloria cristiana y la imitación de 
 
 **Cruz y pobreza:** En la Regla, los hermanos deben «seguir la doctrina y huellas de Cristo» (RGl I.1), lo que incluye abrazar la cruz de la pobreza evangélica.
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+Jesús «decía a todos: Si alguno quiere venir detrás de mí, que se niegue a sí mismo, que tome su cruz cada día, y que me siga» (Lc 9, 23). Todos los discípulos del Señor deben llevar la cruz cada día; más aún, la cruz es lo que distingue a los que son cristianos auténticos de los que no lo son: «El mensaje de la cruz es necedad para los que se pierden, pero para los que se salvan, para nosotros, es fuerza de Dios» (1 Co 1, 18). Difícilmente puede darse una vida cristiana coherente sin la disponibilidad a morir con Jesús, a completar en la propia carne lo que falta a la Pasión de Cristo. «El camino de la perfección pasa por la cruz. No hay santidad sin renuncia y sin combate espiritual. El progreso espiritual implica la ascesis y la mortificación que conducen gradualmente a vivir en la paz y el gozo de las bienaventuranzas» (CEC, n. 2015) (Ele_Xto_Stos, Cap. III, §4d).
+
 ## Distinciones importantes
 
 - **Cruz material**: instrumento de la pasión.
@@ -149,3 +153,4 @@ La cruz es el acto consumativo de la [[redención]] y el sacrificio de la [[alia
 - [SFrAs, Adm. 5-6 — Gloria en la cruz e imitación del Buen Pastor]
 - [SFrAs, Test. 11 — Cruz y oración]
 - [SFrAs, RGl I.1 — Cruz y pobreza evangélica]
+- Ele_Xto_Stos, Cap. III, §4d

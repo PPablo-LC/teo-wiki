@@ -27,7 +27,7 @@ La vida moral cristiana no se reduce a la observancia de normas, sino que es una
 - **§1708-1712**: La dignidad de la persona humana y su llamada a la felicidad.
 - **§1803-1845**: Las virtudes morales.
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor presenta la vida moral cristiana como:
 

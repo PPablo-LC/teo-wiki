@@ -27,7 +27,7 @@ La vida cristiana posee una índole esencialmente sacramental: la mediación sal
 - **§1213-1214**: El bautismo como sacramento de la iniciación cristiana.
 - **§1271-1274**: El carácter sacramental como participación en la configuración con Cristo.
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor subraya que:
 

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Don de entendimiento
 tags: ["ascética", "mística"]
 
-timestamp: 2026-05-21
+timestamp: 2026-08-06
 description: "El don de entendimiento es uno de los [[siete_dones_del_espíritu_santo]], que perfecciona y sobrenaturaliza la virtud de la [[fe]], iluminando el entendimiento para penetrar con facilidad."
 ---
 # Don de entendimiento
 
 > Área: Ascética / Mística
-> Última actualización: 2026-05-21
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -63,6 +63,10 @@ El don de entendimiento es fundamental para la vida contemplativa:
 
 «Los contemplativos gozan de un don de entendimiento muy eminente. Sus inteligencias están iluminadas por el Espíritu Santo para penetrar los misterios de la fe con una claridad que los simples fieles no alcanzan. No es que vean a Dios cara a cara (eso es propio de la visión beatífica), sino que perciben con una luz especial la belleza y la profundidad de las verdades reveladas.»
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+El don de entendimiento es uno de los siete dones a través de los cuales el Espíritu Santo mueve a los fieles, enumerados a partir de Is 11, 2: consiste en entender con profundidad las verdades de la fe. (Ele_Xto_Stos, Cap. VII, §5b)
+
 ## Distinciones importantes
 
 - **Don de entendimiento vs. don de sabiduría**: el entendimiento penetra las verdades; la sabiduría juzga de todas las cosas por Dios
@@ -94,3 +98,4 @@ El don de entendimiento es fundamental para la vida contemplativa:
 - Santo Tomás, S.Th., I-II, q. 68; II-II, q. 8, 45
 - San Juan de la Cruz, Subida del Monte Carmelo
 - Santa Teresa de Jesús, Vida
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §5b

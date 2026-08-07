@@ -50,6 +50,9 @@ El Concilio de Trento (Sesión IV, D-783) definió que la verdad y disciplina de
 
 Loring defiende la necesidad de la Tradición junto a la Escritura. El Antiguo Testamento se transmitió oralmente de generación en generación; [[cristo_maestro|Cristo no escribió nada]], sino que «se limitó a predicar», y a los Apóstoles no les dijo «escribid», sino «predicad» [PS §38,2]. La Tradición apostólica es más amplia que la Escritura: «Los Apóstoles enseñaron principalmente de palabra, como ellos habían sido enseñados por Nuestro Señor» [PS §38,2]. Ambas proceden de la misma fuente divina y son los dos canales por los que nos llega el contenido de la Revelación. La Tradición fue la clave para establecer el canon de los libros inspirados. Distingue entre la Tradición Apostólica (con mayúscula, objeto de fe) y las tradiciones humanas (con minúscula, costumbres) [PS §38,2].
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La Tradición apostólica es la transmisión viva del Evangelio: por ella la Iglesia conserva y comunica íntegramente el depósito de la fe recibido de los apóstoles. No es una fuente estática, sino una realidad viva que la Iglesia custodia y hace llegar a todas las generaciones mediante la [[sucesión_apostólica]]. La [[sagrada_escritura]] sin la Tradición es formalmente insuficiente: ambas, junto al [[magisterio_de_la_iglesia]], constituyen la base de la verdad revelada sobre la que se apoya la teología moral (Cap. I, §1b y §3a).
 
 ## Distinciones importantes
 

@@ -1,14 +1,14 @@
 ---
 type: Concepto Teológico
 title: Auditoría de wikilinks huérfanos
-timestamp: 2026-08-04
-description: "Registro de wikilinks sin artículo propio en el wiki. 2026-08-04: limpieza de nombres con paréntesis (6 huérfanos menos) y separación penitencia/sacramento → 1495 registrados."
+timestamp: 2026-08-06
+description: "Registro de wikilinks sin artículo propio en el wiki. 2026-08-06: Cap. VII de Ele_Xto_Stos (4 huérfanos nuevos: precipitación, inconsideración, inconstancia, recta_razón)."
 ---
 # Auditoría de wikilinks huérfanos
 
 > Generado originalmente: 2026-06-19
-> Última actualización: **2026-08-04 — Separación penitencia/sacramento de la reconciliación** (ver Notas de sesión)
-> Total de wikilinks huérfanos registrados: **1495** (pendientes de artículo; detector 2026-08-04, excluido el falso positivo `[[concepto]]`)
+> Última actualización: **2026-08-06 — Cap. VII de Elegidos en Cristo** (ver Notas de sesión)
+> Total de wikilinks huérfanos registrados: **1513** (pendientes de artículo; detector 2026-08-06, excluido el falso positivo `[[concepto]]`; 4 nuevos sembrados por el procesamiento del Cap. VII)
 > Resueltos: 35+29+11+14+19+6 (6 en 2026-07-15/16 — ver sección final; 26 por re-auditoría 2026-08-01; 3 por BMV 2026-08-03; 29 por alta densidad 2026-08-03; 11 por alta densidad 2ª tanda 2026-08-03; 14 por alta densidad 3ª tanda 2026-08-03, neto −11; 19 por alta densidad 4ª tanda 2026-08-04; 6 por limpieza de paréntesis 2026-08-04, neto −5 por el re-sembrado de `[[respuesta_divina]]`)
 
 ## Metodología
@@ -1533,6 +1533,34 @@ los de mayor densidad son candidatos prioritarios a artículo propio.
 | 1495 | `[[zenon]]` | 1 | Miscelánea (1249) |
 ## Notas de sesión
 
+- **2026-08-05 (procesamiento de informes de abusos LC):** procesadas las
+  fuentes LC-InfAbusos-2020, LC-InfAnual-2020 y LC-InfComisión-ES-2020
+  (ver `LC_progress.md`). **36 artículos nuevos** creados en
+  `wiki/Espiritualidad_LC-wiki/` (serie abusos: `cultura_cero_abuso`,
+  `encubrimiento`, `estadísticas_globales`, `víctimas_de_abusos`,
+  `situación_judicial`, `etapas_de_respuesta`, `sacerdotes_que_abusaron`,
+  `cadenas_de_abuso`, `lugares_de_abusos`, `medidas_y_sanciones`,
+  `investigación_previa`, `comisión_de_casos`, `comisión_interáreas`,
+  `comisión_de_acercamiento`, `marco_del_informe`, `0abusos.org`,
+  `interés_superior_del_menor`, `sanación_y_reconciliación`,
+  `órganos_de_escucha`, `respuesta_rápida`, `comité_de_revisión`,
+  `estándares_de_ambientes_seguros`, `persona_vulnerable`,
+  `límites_en_el_trato`, `negligencia_culpable`, `diálogos_restaurativos`,
+  `reparación_económica`, `publicación_de_casos`, `compromisos_2020_2026`,
+  `prioridades_2021`, `atención_terapéutica`, `praesidium`,
+  `denuncias_públicas`, `compromiso_de_enmienda`, `carencias_institucionales`,
+  `purificación_eclesial`). Se enriquecieron `abuso_de_autoridad` y
+  `ambientes_seguros`. **13 huérfanos nuevos sembrados** (forward
+  references intencionales de la serie): `comunicacion_y_transparencia`
+  (5), `justicia_y_derechos` (2), `vademecum_cdf_2020` (2),
+  `plan_de_seguridad_personal` (2), `proteccion_de_menores` (2),
+  `protocolos_de_actuacion` (1), `plan_de_respuesta_rapida` (1),
+  `estandares_de_acreditacion` (1), `confidencialidad` (1),
+  `expulsion_del_estado_clerical` (1), `comite_de_ambientes_seguros`
+  (1), `transgresion_de_limites` (1), `capacitacion_en_acompanamiento`
+  (1). Detector actual: **1510 huérfanos únicos** (incl. el falso
+  positivo `[[concepto]]`).
+
 - **2026-08-04 (separación penitencia / sacramento de la reconciliación):**
   `wiki/conceptos/penitencia.md` quedó como artículo del **concepto** (virtud
   y acto de reparación con sacrificio; SmTh IIIª q.85/q.90, RSB, CIC remedio
@@ -1976,3 +2004,21 @@ artículo fuente; queda pendiente de artículo.
 neto −5 por el re-sembrado de `[[respuesta_divina]]`). La tabla del registro
 quedó regenerada (1495 huérfanos únicos, excluido el falso positivo
 `[[concepto]]`).
+
+## Cap. VII de Elegidos en Cristo para ser santos (2026-08-06)
+
+Huérfanos sembrados por el procesamiento del Cap. VII (virtudes morales y
+dones del Espíritu Santo). Son partes de la imprudencia (especies según el
+acto de la razón) y una expresión de la prudencia.
+
+**Nuevos huérfanos (4):**
+
+| Wikilink | Referencias | Nota |
+|----------|-------------|------|
+| `[[precipitación]]` | 2 | Especie de la imprudencia (defecto en el consejo); desde `imprudencia.md` |
+| `[[inconsideración]]` | 2 | Especie de la imprudencia (defecto en el juicio); desde `imprudencia.md` |
+| `[[inconstancia]]` | 1 | Especie de la imprudencia (defecto en el imperio); desde `imprudencia.md` |
+| `[[recta_razón]]` | 1 | Expresión de la prudencia (recta ratio agibilium); desde `prudencia_presupone_virtudes_morales.md` |
+
+Los tres primeros son candidatos a un único artículo sobre las especies de
+la imprudencia; `[[recta_razón]]` podría resolverse enlazando a `[[prudencia]]`.

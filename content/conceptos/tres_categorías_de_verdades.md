@@ -26,7 +26,7 @@ No todas las enseñanzas del magisterio tienen el mismo grado de autoridad. El C
 
 - **nn. 11-12**: Las tres categorías de verdades y los correspondientes niveles de asentimiento.
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor presenta las tres categorías como:
 

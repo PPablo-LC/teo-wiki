@@ -26,7 +26,7 @@ La teología moral no puede prescindir de las ciencias humanas, que aportan cono
 
 - **nn. 31-33**: La importancia del diálogo entre fe y ciencias humanas.
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor presenta el diálogo como:
 

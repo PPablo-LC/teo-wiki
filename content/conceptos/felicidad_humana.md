@@ -27,7 +27,7 @@ La felicidad verdadera no se reduce a placeres pasajeros o bienes materiales, si
 - **§1716-1729**: El bien supremo y la beatitud.
 - **§1720-1724**: La felicidad como don de Dios.
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor presenta la felicidad como:
 

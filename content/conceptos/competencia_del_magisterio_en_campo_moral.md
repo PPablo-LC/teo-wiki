@@ -31,7 +31,7 @@ El magisterio no se limita a las verdades de fe, sino que se extiende también a
 - **nn. 110-116**: El magisterio tiene la misión de enseñar la verdad moral.
 - **nn. 117-118**: La infalibilidad del magisterio se extiende también a la moral.
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor presenta la competencia del magisterio como:
 

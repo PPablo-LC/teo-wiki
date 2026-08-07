@@ -36,6 +36,14 @@ El abuso de autoridad, en cambio, constituye una realidad cualitativamente disti
 - desarrollar mecanismos concretos para la atención de abusos;
 - promover la formación en estos ámbitos.
 
+### Según el Informe de Abusos del Capítulo General (LC-InfAbusos-2020)
+
+**Análisis del fenómeno.** El Informe 1941-2019 identifica el abuso de autoridad como uno de los fenómenos del problema de abusos en la Congregación, junto a las víctimas, los sacerdotes que abusaron, los lugares, la situación judicial y las cadenas de abuso [LC-InfAbusos-2020, informe n. 2; LC-InfComisión-ES-2020, análisis del fenómeno].
+
+**Dato estadístico.** El 42,4% de los sacerdotes que abusaron lo hicieron mientras eran superiores, lo que muestra la estrecha vinculación entre el ejercicio de la autoridad y la comisión de los abusos [LC-InfAbusos-2020, anexo II].
+
+**Compromiso.** El comunicado del Capítulo General se compromete a responder a los abusos de poder y de conciencia con el mismo rigor que a los abusos sexuales, reconociéndolos como formas de abuso que también requieren atención y prevención [LC-InfAbusos-2020, comunicado n. 8].
+
 ### Según Vos estis lux mundi (VELM)
 
 VELM (2023) incluye el «abuso de autoridad» como elemento calificante de los delitos contra el sexto mandamiento (art. 1 §1 a). En concreto, tipifica como delito la conducta sexual cometida «con violencia, amenazas o abuso de autoridad, o en el que se obliga a alguien a realizar o sufrir actos sexuales». El abuso de autoridad opera como circunstancia que agrava la ilicitud del acto sexual, equiparándolo en gravedad canónica a la violencia física o las amenazas. Esta tipificación reconoce que la [[autoridad]] eclesial — por su naturaleza espiritual y la relación de confianza que implica — puede ser instrumentalizada para obtener actos sexuales, lesionando gravemente la dignidad de la persona y la naturaleza ministerial del poder eclesiástico.
@@ -83,5 +91,7 @@ Se relaciona con [[autoridad]], [[obediencia]], [[obediencia_de_la_fe]], [[conci
 
 - [CapGral-2026, Comunicado temático «El ejercicio evangélico de la autoridad y la obediencia», n. 26-35]
 - [CapGral-2026, n. 33 y 34]
+- [LC-InfAbusos-2020, Informe n. 2; Comunicado n. 8; Anexo II]
+- [LC-InfComisión-ES-2020, Análisis del fenómeno]
 - [Dicasterio para la Doctrina de la Fe, *Falso misticismo y abuso espiritual* (22 de noviembre de 2024)]
 - [CIC, c. 1378]

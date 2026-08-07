@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Don de piedad
 tags: ["ascética", "mística"]
 
-timestamp: 2026-05-21
+timestamp: 2026-08-06
 description: "El don de piedad es uno de los [[siete_dones_del_espíritu_santo]] que perfecciona la virtud de la [[justicia]], dándonos un afecto filial y sobrenatural hacia Dios como Padre."
 ---
 # Don de piedad
 
 > Área: Ascética / Mística
-> Última actualización: 2026-05-21
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -83,6 +83,10 @@ El don de piedad y la misericordia:
 
 «Este don es especialmente propio de los santos que se distinguen por su misericordia hacia los pobres y sufrientes. Ven en cada hombre la imagen de Dios y a cada pobre a Cristo mismo. No dan por deber, sino por amor, como hermanos que ayudan a hermanos.»
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+El don de piedad es uno de los siete dones a través de los cuales el Espíritu Santo mueve a los fieles, enumerados a partir de Is 11, 2: consiste en cumplir con solicitud y ánimo filial lo que hace referencia a Dios y, secundariamente, a los hombres. (Ele_Xto_Stos, Cap. VII, §5b)
+
 ## Distinciones importantes
 
 - **Don de piedad vs. virtud de la justicia**: la justicia da lo debido; la piedad da por amor filial
@@ -120,3 +124,4 @@ El don de piedad y la misericordia:
 - Romanos 8,14-17
 - Concilio de Trento
 - Santo Tomás, S.Th., I-II, q. 68; II-II, q. 121
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §5b

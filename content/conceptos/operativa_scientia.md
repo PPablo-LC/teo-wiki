@@ -22,7 +22,7 @@ La teología moral se distingue de las ciencias especulativas porque su objeto n
 
 ## Perspectivas por fuente
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor presenta la teología moral como:
 

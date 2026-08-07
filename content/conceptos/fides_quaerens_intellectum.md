@@ -22,7 +22,7 @@ La fe cristiana no es un acto ciego o irracional, sino que busca comprender sus 
 
 ## Perspectivas por fuente
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor presenta esta fórmula como:
 

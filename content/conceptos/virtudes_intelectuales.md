@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Virtudes intelectuales
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-06-07
+timestamp: 2026-08-06
 description: "Hábitos que perfeccionan el entendimiento para el conocimiento de la verdad (especulativas) o para la recta razón en el obrar o el hacer (prácticas)."
 ---
 # Virtudes intelectuales
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-06-07
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -41,6 +41,14 @@ Las virtudes intelectuales se dividen en especulativas (entendimiento, ciencia, 
 
 Las virtudes intelectuales perfeccionan el entendimiento en el orden natural (entendimiento de principios, ciencia, sabiduría, arte) y en el orden sobrenatural (fe, prudencia). Las virtudes intelectuales especulativas, por sí mismas, no tienen conexión esencial con la bondad moral, pues no implican rectitud del apetito. La prudencia ocupa un lugar único por ser a la vez intelectual (reside en la razón) y moral (requiere rectitud del apetito). La sabiduría es la más excelente de las virtudes intelectuales.
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+En la expresión clásica de Aristóteles, las virtudes dianoéticas o intelectuales son la perfección habitual y estable (héxis) de las facultades intelectuales del hombre —el entendimiento y la razón—, y se distinguen de las virtudes éticas, que perfeccionan las facultades apetitivas. (Ele_Xto_Stos, Cap. VII, §1a)
+
+Las virtudes intelectuales son los hábitos operativos que perfeccionan la razón, tanto en el aspecto especulativo como en el práctico. A la razón especulativa pertenecen: 1) los hábitos de los primeros principios especulativos (entendimiento) y morales (sindéresis); 2) la sabiduría, hábito de considerar las cosas a partir de las causas últimas de toda la realidad; 3) las diversas ciencias. A la razón práctica pertenecen: 4) la prudencia (recta ratio agibilium), que determina y dicta lo que se debe hacer en cada caso concreto para obrar virtuosamente, y 5) las artes o técnicas (recta ratio factibilium). (Ele_Xto_Stos, Cap. VII, §2a)
+
+La distinción entre prudencia y saberes técnicos presupone la distinción entre «obrar» (agere) y «hacer» o «producir» (facere). Los hábitos intelectuales proporcionan la capacidad de obrar bien pero no aseguran el recto uso de esa capacidad: se puede usar la ciencia o la técnica para hacer el mal; por eso no cumplen plenamente la razón de virtud. Se exceptúa la prudencia: aunque es un hábito intelectual por la facultad en la que inhiere (la razón práctica), es una virtud moral por su objeto y porque su requisito esencial es la rectitud de la voluntad; su acto principal no es el juicio, sino el imperio, con el que guía las otras potencias conforme a las exigencias de las virtudes morales. La prudencia no puede existir si antes la persona no quiere ser virtuosa: presupone la buena voluntad y las otras virtudes morales. (Ele_Xto_Stos, Cap. VII, §2a)
+
 ## Distinciones importantes
 
 - **Virtudes intelectuales especulativas** (entendimiento, ciencia, sabiduría) vs. **prácticas** (arte, prudencia): las primeras versan sobre lo necesario; las segundas, sobre lo contingente
@@ -60,3 +68,4 @@ Se relaciona con [[virtud]], [[virtudes_morales]], [[prudencia]], [[hábito]], [
 
 - [SmTh Iª-IIae q.57]
 - [TPCr, Tercera Parte, Libro I, Cap. VI]
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §1a; §2a

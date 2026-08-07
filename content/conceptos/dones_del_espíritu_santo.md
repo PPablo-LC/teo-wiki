@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Dones del Espíritu Santo
 tags: ["dogmática", "mística"]
 
-timestamp: 2026-06-12
+timestamp: 2026-08-06
 description: "Los dones del Espíritu Santo son hábitos sobrenaturales infundidos por Dios en el alma junto con la gracia santificante y las virtudes infusas."
 ---
 # Dones del Espíritu Santo
 
 > Área: Dogmática / Mística
-> Última actualización: 2026-06-29
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -69,6 +69,15 @@ Los dones más íntimos (sabiduría y entendimiento) producen el conocimiento ex
 
 [TPCr, Parte II, Cap. 3]
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+Los dones del Espíritu Santo son, junto con las [[virtudes_teologales]] y las virtudes morales infusas, principios operativos de la [[vida_cristiana]]. El Espíritu Santo, por sus dones, es el agente principal del crecimiento moral del hombre hacia la santidad: conduce y orienta el proceso de configuración con Cristo. La persona, como colaboradora libre, debe dejarse conducir dócilmente por la acción del Espíritu; cuando la respuesta es fiel, el don de Dios —recibido como semilla en el bautismo— se desarrolla hasta la madurez espiritual (Cap. I, §1a).
+
+Otro modo más elevado de actuar se verifica cuando Dios mismo obra en nosotros: «Los que son guiados por el Espíritu de Dios, éstos son hijos de Dios» (Rm 8, 14); el Espíritu «acude en ayuda de nuestra flaqueza: porque no sabemos lo que debemos pedir como conviene; pero el mismo Espíritu intercede por nosotros» (Rm 8, 26). Las obras buenas del cristiano son verdaderamente frutos del Espíritu Santo. Para secundar con prontitud la guía y las inspiraciones divinas se requiere una cierta disposición estable, una cierta connaturalidad en lo íntimo de la persona infundida por Dios en el alma: los dones del Espíritu Santo son «disposiciones permanentes que hacen al hombre dócil para seguir los impulsos del Espíritu Santo» (CEC n. 1830). (Ele_Xto_Stos, Cap. VII, §5b)
+
+Basándose sobre todo en un texto de Isaías (Is 11, 2), se enumeran siete dones a través de los cuales el Espíritu mueve a los fieles: sabiduría (conocer y amar con prontitud las cosas divinas); entendimiento (entender con profundidad las verdades de la fe); ciencia (valorar las cosas humanas en relación al último fin); consejo (discernir las cosas que hay que hacer); piedad (cumplir con solicitud y ánimo filial lo que hace referencia a Dios y, secundariamente, a los hombres); fortaleza (estar dispuestos a rechazar prontamente las sugestiones negativas en los peligros); temor de Dios (evitar los estímulos de las pasiones desordenadas que ofenderían al Señor). (Ele_Xto_Stos, Cap. VII, §5b)
+
+Existe actualmente un debate sobre la forma de actuación de los dones (ver [[debate_actual_sobre_actuación_de_dones]]). El libro coincide con la postura de Knobel en cuanto rechaza la distinción entre una vida cristiana de primera clase (virtudes infusas y dones) y una de segunda clase (solo virtudes infusas); al mismo tiempo, la actuación de los dones se manifiesta de forma gradual, en función de la mayor o menor profundidad de la vida espiritual de cada persona. (Ele_Xto_Stos, Cap. VII, §5b)
 
 ## Distinciones importantes
 
@@ -95,3 +104,4 @@ Los dones del Espíritu Santo son la clave de la [[naturaleza_de_la_mística]] (
 
 - [TPCr, Parte II, Cap. 3]
 - SmTh IIIª q.7 a.5
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §5b

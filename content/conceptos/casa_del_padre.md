@@ -26,7 +26,7 @@ La imagen de la casa del Padre subraya la dimensión familiar de la Iglesia: no 
 
 - **nn. 47-48**: La Iglesia como casa del Padre, donde todos son bienvenidos.
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor presenta la casa del Padre como:
 

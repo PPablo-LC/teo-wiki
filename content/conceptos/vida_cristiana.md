@@ -25,6 +25,10 @@ El Catecismo presenta la vida cristiana como «una vida en Cristo» (§1691-1698
 
 La vida cristiana es la vida sobrenatural del alma en gracia, que tiene por principio la [[gracia_santificante]] y por acto propio el ejercicio de las [[virtudes_infusas]]. Se desarrolla mediante la [[ascética]] (esfuerzo humano asistido por la gracia) hasta la [[mística]] (acción predominante del Espíritu Santo).
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La vida cristiana es «la vida del hombre como hijo de Dios en Cristo por medio del Espíritu Santo». En su sustancia es un don de Dios que se recibe inicialmente con el [[bautismo]] y que requiere la libre aceptación y colaboración de la persona. Tiene como principios operativos inmediatos las [[virtudes_teologales]] (fe, esperanza y caridad), las [[virtudes_morales_infusas]] y los [[dones_del_espíritu_santo]]. La gracia de la filiación divina recibida en el bautismo es solo el inicio, la semilla de una vida nueva que debe crecer y desarrollarse hasta alcanzar «el estado de hombre perfecto, a la medida de la plenitud de Cristo»; agente principal de ese progreso moral es el Espíritu Santo, del que el hombre es colaborador libre (Cap. I, §1).
+
 ## Relaciones doctrinales
 
 Se fundamenta en la inhabitación trinitaria y la [[gracia_santificante]], se expresa en las [[virtudes]], la [[oración]] y los [[sacramentos]], y tiende a la [[perfección_cristiana]] como plenitud.

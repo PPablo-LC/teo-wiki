@@ -27,7 +27,7 @@ La razón humana no es meramente reproductiva, sino creadora: puede generar nuev
 - **nn. 56-57**: La razón creadora como capacidad de la filosofía para generar nuevas síntesis.
 - **nn. 105-108**: El diálogo entre fe y razón como fuente de creatividad.
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor presenta la razón creadora como:
 

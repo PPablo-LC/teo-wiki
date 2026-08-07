@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Justicia Original
 tags: ["dogmática"]
 
-timestamp: 2026-07-03
+timestamp: 2026-08-06
 description: "Estado de santidad y justicia en que Dios constituyó a nuestros primeros padres Adán y Eva antes del pecado original."
 ---
 # Justicia Original
 
 > Área: Dogmática
-> Última actualización: 2026-07-03
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -105,6 +105,10 @@ La Iglesia enseña que nuestros primeros padres fueron constituidos en un estado
 
 El hombre fue creado en estado de justicia original, con el don de integridad (perfecto dominio de las pasiones), inmortalidad, ciencia infusa y gracia santificante. El pecado original supuso la pérdida de estos dones preternaturales y sobrenaturales, quedando la naturaleza humana herida (TPCr, I Parte).
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+En el estado de justicia original existía perfecta armonía entre las tendencias sensitivas y la voluntad; el pecado original alteró esta armonía, pues la naturaleza humana quedó herida por la concupiscencia (fomes peccati), que proviene del pecado e inclina a pecar. La gracia no ha restaurado plenamente la armonía: el hombre caído, aunque redimido, no posee total dominio de los propios movimientos sensitivos, si bien con la gracia es capaz de vencer los desórdenes graves (Ele_Xto_Stos, Cap. V, §4).
+
 ## Distinciones importantes
 
 - La justicia original incluía dones preternaturales (inmortalidad, integridad, ciencia infusa) y sobrenaturales (gracia santificante)
@@ -114,7 +118,7 @@ El hombre fue creado en estado de justicia original, con el don de integridad (p
 
 ## Relaciones doctrinales
 
-[[pecado_original]], [[gracia_santificante]], [[integridad]],[[inmortalidad]], [[redención]], [[adán]]
+[[pecado_original]], [[gracia_santificante]], [[integridad]],[[inmortalidad]], [[redención]], [[adán]], [[concupiscencia]], [[pasiones]]
 
 ## Referencias
 
@@ -122,3 +126,4 @@ El hombre fue creado en estado de justicia original, con el don de integridad (p
 - CEC §398
 - TPCr, I Parte
 - SmTh Iª q.94 aa.1-4; q.95 aa.1-4; q.96 aa.1-4; q.97 aa.1-4; q.98 aa.1-2; q.99 aa.1-2; q.100 aa.1-2; q.101 aa.1-2; q.102 aa.1-4
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. V, §4

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Éxodo
 tags: ["teología_bíblica"]
 
-timestamp: 2026-06-02
+timestamp: 2026-08-06
 description: "El Éxodo (del griego ἔξοδος, «salida») es el acontecimiento fundacional de Israel como pueblo de Dios."
 ---
 # Éxodo
 
 > Área: Teología bíblica
-> Última actualización: 2026-06-02
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -41,6 +41,10 @@ El VocTeoBib presenta el Éxodo como el verdadero nacimiento del pueblo de Dios,
 
 En el NT, la tradición apostólica ve en Cristo el cumplimiento del misterio prefigurado por el Éxodo. Pablo presenta a Jesús como el verdadero cordero pascual (1Cor 5,7) y los prodigios del Éxodo como figuras de las realidades espirituales de Cristo (1Cor 10,1-6). Pedro desarrolla una perspectiva eclesial: los cristianos, rescatados por la sangre del Cordero, constituyen el nuevo pueblo de Dios en peregrinación hacia la patria celestial (1Pe 1,18s; 2,9s). Juan ofrece la teología más elaborada: Jesús es el pan vivo y el agua que brota de su costado; su resurrección es el «paso de este mundo al Padre» (Jn 13,1), y los cristianos realizarán su éxodo definitivo pasando de este mundo al de lo alto (Jn 8,23).
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+En el Antiguo Testamento el episodio del Éxodo ocupa un lugar importante: Dios ha visto la opresión de su pueblo y decide liberarlo para conducirlo a la tierra prometida. Se trata de una liberación con un inmediato aspecto socio-político, que no puede interpretarse ni individualistamente ni como liberación de una clase: es todo el pueblo elegido, y no es el hombre quien se emancipa, sino que recibe la liberación de Dios, aunque esto implique la mediación humana. La liberación socio-política no agota el sentido del Éxodo ni es su significado principal: la liberación se encamina a la [[alianza]], tiene un valor trascendente de relación con el Señor. El profundo sentido del Éxodo es religioso-moral. [Ele_Xto_Stos, Cap. IV, §3a].
+
 ## Distinciones importantes
 
 - **Éxodo histórico vs. Éxodo figurado**: el acontecimiento histórico de la salida de Egipto es figura de la redención en Cristo; no se trata de una mera alegoría, sino de un cumplimiento real y analógico.
@@ -63,3 +67,4 @@ El Éxodo es inseparable de la [[alianza]] sinaítica, del [[decálogo]], de la 
 
 - CEC §62, 72, 109, 1363, 2057, 2060-2064, 2574-2577
 - [VocTeoBib, «Éxodo»]
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. IV, §3a

@@ -27,7 +27,7 @@ En Cristo, la santidad alcanza su plenitud. Todos los bautizados participan de l
 - **§823-829**: La santidad de la Iglesia.
 - **§2013-2016**: La llamada universal a la santidad.
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor presenta la santidad en el NT como:
 

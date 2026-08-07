@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Elección
 tags: ["dogmática", "bíblica"]
 
-timestamp: 2026-06-02
+timestamp: 2026-08-06
 description: "Iniciativa soberana y gratuita de Dios que separa a una persona o pueblo para una misión particular en la historia de la salvación."
 ---
 # Elección
 
 > Área: Dogmática / Bíblica
-> Última actualización: 2026-06-02
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -31,6 +31,14 @@ En el NT, Jesucristo es el Elegido por excelencia. Solo él merece plenamente es
 
 [JPII, Redemptoris Mater §8-9]: María fue elegida por Dios desde la eternidad para ser Madre del Hijo. La encíclica cita Ef 1,4: Dios nos ha bendecido en Cristo «con toda clase de bendiciones espirituales, nos eligió en Él antes de la fundación del mundo para ser santos e inmaculados en su presencia». Esta elección se cumple en María de modo singular: ella es la «llena de gracia» precisamente por haber sido «elegida en Cristo para ser santa e inmaculada» [RM §8]. Su elección no se funda en méritos propios sino en la iniciativa divina: «el Padre la ha elegido como Madre de su Hijo en la Encarnación, y con ella ha preparado el don de la gracia inmerecida para todos los hombres» [RM §9].
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+**§3 — La elección como acto de la voluntad:**
+
+La elección es el acto elícito de la voluntad que tiene por objeto la acción inmediatamente realizable en vista del fin deseado; presupone la deliberación y el juicio práctico y supone la intención (Ele_Xto_Stos, Cap. VI, §3).
+
+El objeto de la deliberación y la elección no puede ser un fin: deliberar sobre un bien y elegirlo significa ordenarlo a otro, considerarlo como medio (Ele_Xto_Stos, Cap. VI, §3).
+
 ## Distinciones importantes
 
 - Elección gratuita vs. mérito humano: la elección no se funda en cualidades del elegido sino en el amor de Dios
@@ -48,3 +56,4 @@ En el NT, Jesucristo es el Elegido por excelencia. Solo él merece plenamente es
 ## Referencias
 
 - [VocTeoBib, «Elección»]
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VI, §3

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Afectividad
 tags: ["dogmática", "moral", "ascética"]
 
-timestamp: 2026-06-10
+timestamp: 2026-08-06
 description: "Dimensión esencial del ser humano, junto con la razón y la voluntad, que integra las emociones y los sentimientos en la verdad de la persona creada a imagen y semejanza de Dios."
 ---
 # Afectividad
 
 > Área: Dogmática / Moral / Ascética
-> Última actualización: 2026-06-10
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -31,6 +31,12 @@ La afectividad, dimensión esencial del ser humano junto con la razón y la volu
 
 Todo se unifica en el corazón, que integra las dimensiones afectiva y corporal, racional e intelectual, así como la volitiva y el compromiso (Dilexit nos 9, 21).
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La afectividad humana comprende sentimientos y pasiones. Si las tendencias son un movimiento que sale del sujeto y se proyecta sobre el mundo, las emociones y los sentimientos constituyen la resonancia interior consiguiente a la percepción: en los sentimientos se advierte y valora la respuesta que da el mundo al interrogante contenido en la tendencia. Tienen carácter pasivo, y por eso la filosofía los ha llamado pasiones. No son aún una toma de posición deliberada, aunque de suyo tienden y sugieren una toma de posición y un comportamiento libre. El sentimiento es una reacción a la vez orgánica, psíquica y espiritual, causada por la percepción del bien (alegría, entusiasmo) o del mal (tristeza, temor, preocupación) en relación con las tendencias (Ele_Xto_Stos, Cap. V, §3).
+
+La esfera tendencial y sentimental es una de las expresiones más claras de la personalidad moral: cada persona tiene la estructura afectiva que poco a poco se ha dado a sí misma. El temperamento innato y los condicionamientos educativos influyen, pero la persona conserva siempre la capacidad de tomar posición frente a ellos (Ele_Xto_Stos, Cap. V, §4).
+
 ## Distinciones importantes
 
 - **Afectividad vs. sentimentalismo**: la afectividad integra emociones y sentimientos en la verdad del ser; el sentimentalismo los absolutiza desconectándolos de la razón y la voluntad
@@ -39,13 +45,14 @@ Todo se unifica en el corazón, que integra las dimensiones afectiva y corporal,
 
 ## Relaciones doctrinales
 
-Se relaciona con [[emociones_y_fe]], [[corazon]], [[pasiones]], [[emotivismo]], [[fe]], [[sentidos_externos]], [[sentidos_internos]], [[guardia_del_corazón]]
+Se relaciona con [[emociones_y_fe]], [[corazon]], [[pasiones]], [[emotivismo]], [[fe]], [[sentidos_externos]], [[sentidos_internos]], [[guardia_del_corazón]], [[sentimientos]], [[educación_moral_de_la_afectividad]]
 
 ## Ver también
 
-[[emociones_y_fe]], [[corazon]], [[pasiones]], [[emotivismo]]
+[[emociones_y_fe]], [[corazon]], [[pasiones]], [[emotivismo]], [[sentimientos]], [[apetito_sensitivo]], [[educación_moral_de_la_afectividad]]
 
 ## Referencias
 
 - NotaEmocionesFe, nn. 7, 16, 19
 - Francisco, Dilexit nos (2024), nn. 9, 21
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. V, §3

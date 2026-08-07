@@ -1,295 +1,218 @@
 ---
 type: ResumenFuente
-title: "CAPÍTULO VIII"
+title: "CAPÍTULO VIII — La ley en el contexto de la doctrina de las virtudes"
 fuente: Elegidos_en_Cristo_para_ser_santos
 capítulo: 8
-timestamp: 2026-08-03
-description: "Resumen de 'CAPÍTULO VIII' — Elegidos_en_Cristo_para_ser_santos"
-tags: ["resumen", "elegidos en cristo para ser santos"]
+timestamp: 2026-08-06
+description: "Resumen del capítulo VIII de Elegidos en Cristo para ser santos: la ley eterna, la ley moral natural, la ley del Antiguo Testamento y la ley de Cristo como lex gratiae."
+tags: ["resumen", "elegidos en cristo para ser santos", "teología moral", "ley eterna", "ley natural", "ley antigua", "ley nueva", "ley de Cristo"]
 ---
 
-# CAPÍTULO VIII
+# CAPÍTULO VIII — LA LEY EN EL CONTEXTO DE LA DOCTRINA DE LAS VIRTUDES
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
-
-## Contenido
-
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `07_capítulo_viii.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+- [[ley_eterna]] — ordinatio o plan de la Sabiduría divina; razón de la sabiduría divina en cuanto principio directivo de todo acto y movimiento
+- [[ley_moral]] — concepto análogo: leyes divinas (natural, antigua, nueva) y leyes humanas (civil y eclesiástica)
+- [[ley_natural]] — ley moral natural: luz de la inteligencia infusa en nosotros por Dios; participación de la ley eterna en la criatura racional
+- [[ley_de_cristo]] — lex gratiae, ley nueva; perfección aquí abajo de la ley divina, natural y revelada
+- [[ley_nueva]] — ley del Nuevo Testamento, fundamentalmente interna, no escrita; ley de libertad
+- [[ley_evangélica]] — enseñanzas del Señor (Discurso de la montaña, bienaventuranzas) y catequesis moral de los Apóstoles
+- [[ley_mosaica]] — ley del Antiguo Testamento; pedagogo que condujo a Cristo
+- [[ley_positiva]] — promulgación positiva de la ley moral natural en el Antiguo Testamento
+- [[ley_humana]] — ley civil y ley eclesiástica, determinaciones de la ley moral natural y de la ley divina
+- [[ley_eclesiástica]] — derecho canónico, regulación humana de la vida de los cristianos en la Iglesia
+- [[derecho_canónico]] — ley eclesiástica como explicitación o determinación de la ley moral natural y divina
+- [[decálogo]] — preceptos secundarios próximos de la ley moral natural; estructura básica de la catequesis moral cristiana
+- [[alianza]] — marco del ethos de la Torá; relación singular entre el Señor e Israel
+- [[nueva_alianza]] — prometida por los profetas; corazón nuevo y espíritu nuevo
+- [[antiguo_testamento]] — economía ordenada a preparar, anunciar y significar al Salvador; parte esencial de la Palabra de Dios
+- [[nuevo_testamento]] — restablece, actualiza y profundiza la ley y sobre todo el decálogo
+- [[torá]] — «Ley» en sentido estricto: contenido esencial del Pentateuco; «Ley de Moisés»
+- [[sábado]] — santificación del sábado, dimensión cultual y social
+- [[profetas]] — subrayan las exigencias éticas como exigencia primaria del Dios verdadero
+- [[sabiduría]] — ética sapiencial; valor fundamental de la sabiduría divina
+- [[sabiduría_divina]] — ley eterna identificada con la sabiduría de Dios
+- [[sindéresis]] — hábito intelectual de los primeros principios prácticos
+- [[razón]] — la ley es aliquid rationis; orden operativo de la razón
+- [[razón_natural]] — parte esencial de la naturaleza práctica del hombre
+- [[conciencia]] — testimonio de la ley escrita en los corazones
+- [[conciencia_moral]] — juicio que acusa o defiende
+- [[gracia]] — sanación y elevación de las facultades; elemento principal de la ley de Cristo
+- [[gracia_santificante]] — eleva la naturaleza; se manifiesta en la fe que obra por el amor
+- [[virtud]] — los fines virtuosos son conocidos por naturaleza
+- [[virtudes_morales]] — modos de regulación racional de las acciones, pasiones y tendencias
+- [[virtudes_teologales]] — fe, esperanza y caridad; alma de la vida cristiana
+- [[virtudes_morales_infusas]] — elevan el medium rationis de las virtudes éticas humanas
+- [[virtudes_infusas]] — nuevos principios morales que asumen, finalizan y elevan los principios naturales
+- [[virtud_infusa]] — don sobrenatural unido a la gracia
+- [[virtud_moral]] — bien moral es conformidad con la virtud
+- [[fe]] — ilustra la inteligencia; condición del conocimiento del designio divino
+- [[esperanza]] — eleva e inclina la voluntad
+- [[caridad]] — forma de todas las virtudes cristianas
+- [[prudencia]] — interviene en el tercer momento del conocimiento práctico manteniendo coherencia con la sindéresis
+- [[justicia]] — fin virtuoso; todos los preceptos del decálogo se encaminan a la justicia
+- [[fortaleza]] — virtud moral
+- [[templanza]] — virtud moral
+- [[dones_del_espíritu_santo]] — acción bajo la cual el cristiano virtuoso identifica el modo idóneo de comportarse
+- [[frutos_del_espíritu_santo]] — expresión de la gracia infusa en el creyente
+- [[obras_de_la_carne]] — se oponen a la gracia y la caridad en sentido absoluto
+- [[filiación_divina]] — plenitud a la que abre el camino la ley de Cristo
+- [[santidad]] — camino hacia la santidad cristiana como plenitud de la filiación divina
+- [[ética_de_la_virtud]] — la ética de la virtud no es una ética sin ley moral
+- [[bien_común]] — la ley siempre apunta de alguna manera al bien común
+- [[providencia]] — el hombre participa de la providencia de Dios; la ley eterna es designio actuado por la providencia
+- [[predestinación]] — decreto por el cual Dios eligió a los hombres en Cristo
+- [[palabra_de_dios]] — el Antiguo Testamento es parte esencial de la Palabra de Dios
+- [[escritura]] — fundamento bíblico de la ley moral natural
+- [[revelación_divina]] — revelación divina gradual e histórica; moralmente necesaria
+- [[amor_de_dios]] — primer principio de la ley moral natural, máximamente «arquitectónico»
+- [[amor_al_prójimo]] — primer principio de la ley moral natural
+- [[mandamientos]] — intentan conducir al pueblo hacia actitudes virtuosas
+- [[mandamiento_del_amor]] — resumen de la catequesis moral de los Apóstoles
+- [[bienaventuranzas]] — parte de la ley escrita del Señor
+- [[evangelio]] — conduce la Ley a su plenitud mediante la imitación de la perfección del Padre
+- [[israel]] — pueblo de la Alianza; destinatario de la ley
+- [[mesías]] — la ley antigua promete y prepara la obra del Mesías
+- [[pueblo_de_dios]] — la ley dada al pueblo de Israel
+- [[espíritu_santo]] — gracia del Espíritu Santo dada a los que creen en Cristo
+- [[corazón]] — la ley de Cristo reforma la raíz de los actos, el corazón
+- [[catequesis]] — el decálogo como estructura básica de la catequesis moral cristiana
+- [[iglesia]] — custodia y transmite el subsidio normativo de la ley de Cristo
+- [[cristo]] — «El fin de la Ley es Cristo»
+- [[jesucristo]] — con su obra redentora se abandona la economía del Antiguo Testamento
+- [[matrimonio]] — Jesús se remonta «al principio», a la verdad originaria del matrimonio
+- [[celibato]] — iluminado por la gracia en su valor
+- [[humildad]] — virtud sapiencial (Si 3, 19-32)
+- [[orgullo]] — vicio sapiencial; expresión del pecado en los profetas
+- [[avaricia]] — vicio sapiencial (Si 31, 5-7)
+- [[pereza]] — vicio que hay que huir
+- [[amistad]] — virtud sapiencial
+- [[trabajo]] — esfuerzo y perseverancia (Si 11, 20)
+- [[castidad]] — virtud sapiencial y precepto del decálogo
+- [[mansedumbre]] — virtud sapiencial
+- [[docilidad]] — virtud sapiencial
+- [[solidaridad]] — virtud sapiencial
+- [[paciencia]] — virtud sapiencial
+- [[pecado_original]] — tendencias malsanas que oscurecen la razón
+- [[redención]] — obra de Cristo que hace justos a los hombres
+- [[reino_de_dios]] — el Antiguo Testamento ordenado a anunciar el reino mesiánico
+- [[san_pablo]] — ley escrita en los corazones (Rm 2); «El fin de la Ley es Cristo»
+- [[san_agustín]] — definición de ley eterna; tradición de los Padres
+- [[san_ambrosio]] — «fin no en cuanto defecto, sino en cuanto plenitud de la ley»
+- [[santo_tomás_de_aquino]] — definición de ley eterna, ley natural y ley nueva; preceptos de la ley natural
+- [[león_xiii]] — ley natural «voz e intérprete de una razón más alta»
+- [[juan_pablo_ii]] — Catequesis sobre el amor humano (5-IX-1979); Veritatis splendor
+- [[veritatis_splendor]] — doctrina sobre la ley de Cristo, la ley natural y la connaturalidad con el bien
+- [[catecismo_de_la_iglesia_católica]] — «Toda ley tiene en la ley eterna su verdad primera y última»
+- [[humani_generis]] — la razón encuentra dificultades; la revelación es moralmente necesaria
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | CAPÍTULO VIII |
-| 4 | H2 | LA LEY EN EL CONTEXTO DE LA DOCTRINA DE LAS VIRTUDES |
-| 21 | H3 | Moralia» 19/2 (1981) 153-175; M. RHONHEIMER, Ragione pratica e verità  |
-| 61 | H3 | DS 3973; Veritatis splendor, n. 43. |
-| 87 | H3 | Opuscula theologica, vol. II, cit., n. 1129. Cfr. Veritatis splendor,  |
-| 112 | H3 | Explicamos esta dinámica en el capítulo VII, párrafos 2-3. |
-| 205 | H3 | Concilio Vaticano II y el Catecismo de la Iglesia Católica promulgado  |
-| 208 | H3 | Juan Pablo II , que en la Enc. Veritatis splendor ha retomado con pro- |
-| 222 | H3 | VI-1881: DS 3152; Enc. Libertas praestantissimum, 20-VI-1888: DS 3247. |
-| 223 | H3 | VIII-1950: DS 3892, y numerosos discursos. |
-| 226 | H3 | AUBERT, Ley de Dios, leyes de los hombres, Herder, Barcelona 1969. |
-| 255 | H3 | LUCAS LUCAS (ed.), «Veritatis splendor». Testo e commento filosofico-t |
-| 321 | H3 | INTERNACIONAL, En busca de una ética universal, nn. 52-54. |
-| 374 | H3 | Desde el punto de vista gnoseológico se puede añadir que el primer |
-| 407 | H3 | Natura e ragione. Studio delle inclinazioni naturali in rapporto al di |
-| 494 | H3 | LUÑO, Cultura política y conciencia cristiana. Ensayos de ética políti |
-| 529 | H3 | Según la expresión paulina, la “Ley” es buena y santa , pero no (note: |
-| 575 | H3 | Testamento se refiere a menudo como la «Ley de Moisés» . Junto a la 'L |
-| 585 | H3 | Testamento. |
-| 591 | H3 | SCHMIDT, Einführung in das Alte Testament, De Gruyter, Berlín 19822 . |
-| 627 | H3 | BELLOCQ - F. INSA, Avviamento alla teologia morale, cit., cap. II, 2. |
-| 634 | H3 | Dios, soy santo» . Por tanto, la vida moral no se concibe como una dim |
-| 684 | H3 | Isaac bendijo a Jacob y Esaú en orden al futuro; etc. |
-| 728 | H3 | Sabiduría. |
-| 743 | H3 | Dios, se identifica con la revelación sinaítica y ha de buscarse con “ |
-| 762 | H3 | Testamento» (Ibíd., p. 31). |
-| 795 | H3 | Cfr. Sb cap. 10-19; Si cap. 44-50. |
-| 798 | H3 | Este es el punto central de la sugerente interpretación propuesta por  |
-| 800 | H3 | Teologia Morale Fondamentale, cit., pp. 335-388. |
-| 818 | H3 | Cfr. Pr 18, 20-21. |
-| 819 | H3 | Cfr. Pr 11, 12; 15, 28; 17, 28; Si 1, 30; 20, 20-22. |
-| 820 | H3 | Cfr. Si 20, 5-8. |
-| 821 | H3 | Cfr. Pr 12, 8; Si 5, 13-17. |
-| 822 | H3 | Cfr. Pr 11, 13; Si 19, 7-12. |
-| 823 | H3 | Cfr. Si 8, 20-22. |
-| 824 | H3 | Cfr. Si 10, 6; 20, 1. |
-| 825 | H3 | Cfr. Si 22, 6. |
-| 826 | H3 | Cfr. Pr 12, 17; Si 5, 16-17; 20, 26-28; 21, 31. |
-| 827 | H3 | Cfr. Pr 6, 12-15; 10, 10; Si 27, 26-27. |
-| 828 | H3 | Cfr. Si 23, 9-14. |
-| 829 | H3 | Cfr. Si 23, 17. |
-| 830 | H3 | Si 28, 19-23. |
-| 831 | H3 | Cfr. Si 31, 12-40. |
-| 832 | H3 | Si 6, 2-4. |
-| 833 | H3 | Cfr. Pr 5, 15-21. |
-| 834 | H3 | Cfr. Pr 6, 20-7, 27; Sb 3, 16-19; Si 23, 25-36. |
-| 835 | H3 | Cfr. Sb 3, 13-15. |
-| 836 | H3 | Si 23, 22-24. |
-| 860 | H3 | Testamento se refieren a las virtudes y, por tanto, a la regulación de |
-| 923 | H3 | Jesús» , con la cual se supera y se abandona la economía del Antiguo T |
-| 1018 | H2 | D.C. 2005. |
+## 1. El designio salvífico de Dios en Cristo y su participación en el hombre
 
+### a) El originario designio salvífico divino como ley eterna
 
-## Secciones incluidas
+El capítulo se abre subrayando que la ética de la virtud no es una ética sin ley moral: la perspectiva que ve las virtudes como fundamento y razón de las normas morales es el modo más adecuado de interpretar la doctrina de la ley moral según el pensamiento cristiano. La noción de ley eterna tiene antecedentes en la reflexión greco-romana, particularmente el estoicismo, y San Agustín y otros teólogos se sirvieron de la definición de Cicerón. Sin embargo, el papel atribuido por el pensamiento cristiano a la ley moral depende de modo mucho más profundo del concepto bíblico de ley de Dios, ligado en el Antiguo Testamento a la Alianza entre el Señor y su pueblo: la «Ley y los Profetas» que Jesús declara no querer abolir, sino llevar a la perfección. Para los estoicos la ley eterna está en el cosmos y la razón humana puede comprenderla y adaptarse a ella sometiendo a ella las pasiones; para los primeros cristianos, detrás del orden cósmico hay un Dios personal que creó todas las cosas con sabiduría y amor e hizo al hombre a su imagen y semejanza, partícipe de esta sabiduría. Después de la primera caída, en las Alianzas posteriores Dios quiso restituir progresivamente esta capacidad mediante la revelación de la ley y la infusión de la gracia.
 
-# CAPÍTULO VIII
+Se puede y se debe llamar ley eterna al decreto por el cual Dios «en él [Cristo] nos eligió antes de la creación del mundo, para que fuéramos santos y sin mancha en su presencia, por el amor; nos predestinó a ser sus hijos adoptivos por Jesucristo» (Ef 1, 4-5). Se llama ley porque es una ordinatio o plan de la Sabiduría divina, que «alcanza con vigor de un confín a otro confín» (Sb 8, 1); eterna porque se trata del «misterio que durante siglos estuvo escondido en Dios» (Ef 3, 9) y de «las múltiples formas de la sabiduría de Dios» (Ef 3, 10). Tratándose del plan de la infinita sabiduría creadora de Dios, comprende y mide todas las realidades creadas, alcanzándolas en su singularidad. Santo Tomás precisa que la ley eterna no es solo el plan de la creación, sino también el designio actuado por la providencia de Dios, y la define como «la razón de la sabiduría divina en cuanto principio directivo de todo acto y de todo movimiento». El Concilio Vaticano II afirma que «la norma suprema de la vida humana es la misma ley divina, eterna, objetiva y universal mediante la cual Dios ordena, dirige y gobierna, con el designio de su sabiduría y de su amor, el mundo entero y los caminos de la comunidad humana»; el Catecismo añade que «toda ley tiene en la ley eterna su verdad primera y última» (CEC n. 1951).
 
-[Contenido de esta sección...]
+Todos los seres creados participan de la ley eterna en la medida en que Dios los guía hasta su fin, pero el modo en que Dios guía a los seres irracionales y al hombre es muy distinto: no desde fuera, mediante las leyes inmutables de la naturaleza física, sino desde dentro, mediante la razón. Dios llama así al hombre a participar de su providencia, queriendo dirigir por medio del cuidado razonable y responsable del hombre el mundo de la naturaleza y el de las personas humanas. No podemos, sin embargo, conocer directamente la ordinatio de la Sabiduría divina en sí misma: su designio es «el misterio que estuvo escondido durante siglos y generaciones» (Col 1, 26). Se nos hace accesible solo mediatamente, a través de las vías previstas por la providencia de Dios para hacernos partícipes de la verdad moral y salvífica.
 
-# LA LEY EN EL CONTEXTO DE LA DOCTRINA DE LAS VIRTUDES
+### b) La comunicación de la ley eterna: de la ley moral natural a las virtudes cristianas como la más perfecta participación humana en el plan de la sabiduría divina
 
-[Contenido de esta sección...]
+La primera y fundamental participación del hombre en la ley eterna es la «ley moral natural», que consiste en la «luz de la inteligencia infusa en nosotros por Dios», gracias a la cual conocemos lo que se debe cumplir y lo que se debe evitar. La ley moral natural no es otra cosa que el hecho de que el hombre ha sido creado por Dios como ser moral, y que la razón humana es, de por sí, una razón moral capaz de ordenar la conducta en vista del bien humano: la instancia moral nace inmediatamente del interior del hombre. Siguiendo a Santo Tomás, la criatura racional está sometida a la divina Providencia de manera especial, ya que se hace partícipe de esa providencia siendo providente para sí y para los demás; «semejante participación de la ley eterna en la criatura racional se llama ley natural» (S.Th., I-II, q. 91, a. 2).
 
-## Moralia» 19/2 (1981) 153-175; M. RHONHEIMER, Ragione pratica e verità della subjvità:
+La ley moral natural es primera y fundamental en sentido lógico, pues hace posible la inteligibilidad de cualquier otra disposición ético-positiva, divina o humana. Pero es objetivamente insuficiente y fragmentaria: insuficiente para ordenar la convivencia social (ha de ser explicitada por la ley civil) e insuficiente en la práctica para garantizar la realización del bien personal, porque no posee la fuerza para evitar el oscurecimiento de la percepción de algunas exigencias éticas debido al desorden introducido por el pecado. Además, el bien sobrenatural del hombre excede completamente el alcance de la ley moral natural. La totalidad del designio salvífico ha sido objeto de una revelación divina gradual e histórica, a través de la cual se instaura la participación sobrenatural del hombre en la ley eterna, llamada ley moral divino-positiva. En ella se distingue la ley del Antiguo Testamento (provisional e imperfecta, pero pedagógicamente importante: confirma los aspectos esenciales de la ley moral natural y promete y prepara la obra del Mesías) y la ley del Nuevo Testamento, llamada también lex gratiae porque consiste primariamente en la gracia del Espíritu Santo dada a los que creen en Cristo. A esto hay que añadir la ley eclesiástica o derecho canónico, regulación humana en buena parte explicitación o determinación de la ley moral natural y de la ley divina.
 
-[Contenido de esta sección...]
+Desde el punto de vista normativo, la ley del Nuevo Testamento conserva y lleva a cumplimiento las exigencias de la ley moral natural, representando la plenitud final a la cual tiende todo el cuerpo de las leyes. Desde un punto de vista real, la perfecta participación en el designio salvífico de Dios se verifica en el cristiano virtuoso: la persona interiormente renovada por la gracia que, a través de las virtudes y bajo la acción de los dones del Espíritu Santo, está en condiciones de identificar y realizar en cada situación el modo idóneo de comportarse. Solo el cristiano virtuoso participa de tal manera en el plan de la sabiduría de Dios que el conocimiento práctico humano llega a captar el designio divino. Así lo enseña la Veritatis splendor: para poder distinguir la voluntad de Dios «es indispensable una especie de "connaturalidad" entre el hombre y el verdadero bien», fundamentada y desarrollada en las actitudes virtuosas del hombre: la prudencia y las otras virtudes cardinales, y en primer lugar las virtudes teologales de la fe, la esperanza y la caridad (n. 64).
 
-## DS 3973; Veritatis splendor, n. 43.
+La visión de conjunto muestra que el concepto de ley moral es un concepto análogo: leyes divinas (la ley natural, la ley antigua y la ley nueva) y leyes humanas (la ley civil y la ley eclesiástica), algunas internas (ley natural, ley nueva) y otras externas. En cualquier caso, la ley es aliquid rationis, un orden operativo de la razón: la ley es regla o medida de acción, y ordenar las acciones con vistas al bien es una tarea que solo la razón práctica puede realizar; la formalidad de la ley viene dada por la razón práctica y no por la voluntad. Una segunda característica es que la ley apunta de alguna manera al bien común; por último, la ley está ordenada a la virtud, ya que solo a través de las virtudes el hombre participa plena y activamente en el plan de la sabiduría divina. En resumen, la primera regla del bien humano es la conformidad con la razón, entendiendo por esto lo que en sí mismo es razonable desear, no lo que cada uno piensa sobre el bien. El conocimiento moral es muy frágil y necesita muchas condiciones para desarrollarse (cultura, educación, buenas relaciones, buena voluntad); Dios sale al encuentro de esta fragilidad haciendo al hombre capaz de vivir según su plan, que supera la mera razón humana pero está en continuidad con ella.
 
-[Contenido de esta sección...]
+## 2. La radical constitución del hombre como ser moral: la ley moral natural
 
-## Opuscula theologica, vol. II, cit., n. 1129. Cfr. Veritatis splendor, n. 40.
+### a) La ley moral natural en la doctrina católica
 
-[Contenido de esta sección...]
+**La ley moral natural en la Sagrada Escritura** — El concepto está claramente fundamentado en la Sagrada Escritura, aunque no se utilice explícitamente como expresión técnica. Uno de los lugares clásicos es la Epístola a los Romanos: en el capítulo I San Pablo ve una conexión directa entre las formas más perversas de inmoralidad y el rechazo de un Dios cognoscible por la razón humana; en el capítulo II afirma: «Cuando los gentiles, que no tienen la Ley, actúan por naturaleza según la Ley, son ley para sí mismos. Demuestran que lo que la Ley exige está escrito en sus corazones, como se desprende del testimonio de su conciencia y de su propio razonamiento» (Rm 2, 14-15). La Escritura confirma la existencia de un poder cognoscitivo natural del bien y del mal, pero también la imposibilidad práctica de vivir conforme a ella: todos, paganos y judíos, necesitan la salvación. Una perspectiva complementaria se encuentra en la discusión del Señor con los fariseos sobre la indisolubilidad del matrimonio (Mt 19, 3-9): ante la indulgencia de la ley mosaica, Jesús se remonta «al principio», a la verdad de la creación, entendida como verdad originaria sobre el matrimonio según el designio creador de Dios, que la ley moral natural expresa y participa. San Juan Pablo II hizo importantes reflexiones en sus Catequesis de los miércoles, precisando que las palabras del Génesis expresan la ley del Creador.
 
-## Explicamos esta dinámica en el capítulo VII, párrafos 2-3.
+**Concepto de ley moral natural** — La reflexión de los Padres y de la tradición teológica toma con frecuencia como punto de referencia la Carta a los Romanos. Durante mucho tiempo no fue necesario un desarrollo doctrinal específico porque era doctrina pacíficamente admitida; desde hace algún tiempo León XIII, Pío XI, Pío XII, Juan XXIII y Pablo VI se han ocupado abundantemente de esta ley, igual que el Concilio Vaticano II, el Catecismo, la Veritatis splendor (nn. 35-53) y la Comisión Teológica Internacional («En busca de una ética universal»). Las discusiones de la segunda mitad del siglo XX están ligadas al debate sobre la especificidad de la moral cristiana y al tema de la autonomía moral; el concepto filosófico de naturaleza es muy insidioso, y aun grandes representantes de la teología clásica (Santo Tomás y Suárez) ofrecen explicaciones diferentes, aunque coinciden en las tesis fundamentales. El Catecismo, la Veritatis splendor y el documento de la Comisión Teológica Internacional se inclinan en sustancia por el enfoque de Santo Tomás, como ya había hecho León XIII.
 
-[Contenido de esta sección...]
+El Catecismo enseña que «la ley natural expresa el sentido moral original que permite al hombre discernir mediante la razón lo que son el bien y el mal, la verdad y la mentira» (CEC n. 1954). Es una ley divina, «expuesta, en sus principales preceptos, en el Decálogo»; se llama natural no por referencia a la naturaleza de los seres irracionales, sino porque la razón que la proclama pertenece propiamente a la naturaleza humana. La Veritatis splendor ofrece una explicación más compleja, aunque substancialmente idéntica: el hombre, creado a imagen de Dios, está guiado por la Providencia «"desde dentro", mediante la razón que, conociendo con la luz natural la ley eterna de Dios, es por esto mismo capaz de indicar al hombre la justa dirección de su libre actuación» (cfr. S.Th., I-II, q. 90, a. 4 ad 1). Existe una «esencial subordinación de la razón y de la ley humana a la Sabiduría de Dios y a su ley». La Veritatis splendor cita a León XIII: la ley natural «"está escrita y grabada en el ánimo de todos los hombres"», pero la prescripción de la razón humana no podría tener fuerza de ley «si no fuese la voz e intérprete de una razón más alta»; de ello se deduce «que la ley natural es la misma ley eterna, ínsita en los seres dotados de razón, que los inclina al acto y al fin que les conviene» (Libertas praestantissimum).
 
-## Concilio Vaticano II y el Catecismo de la Iglesia Católica promulgado por
+**Universalidad e inmutabilidad de la ley moral natural** — La ley moral natural es universal: «sus preceptos, y su autoridad se extienden a todos los hombres» (CEC n. 1956). Esta universalidad tiene su fundamento en la igualdad esencial de la razón humana y de su participación en la ley eterna; sin una razón moral substancialmente unitaria no sería posible el diálogo entre las culturas ni el reconocimiento universal de los derechos humanos. No hace ilegítimas las diferencias en algunas aplicaciones concretas: la ley natural puede exigir una reflexión adaptada a la multiplicidad de las condiciones de vida, pero en la diversidad de culturas permanece como norma que une entre sí a los hombres (CEC n. 1957). Es también «inmutable y permanente a través de las variaciones de la historia; subsiste bajo el flujo de ideas y costumbres y sostiene su progreso» (CEC n. 1958). La inmutabilidad de los principios morales fundamentales no se opone al progreso histórico de la conciencia moral, ni a un progreso en la expresión lingüística de las exigencias morales naturales. Universalidad e inmutabilidad no significan que todos los hombres perciban todos los principios con igual claridad: la ley moral natural es natural para el hombre de modo parecido a como lo es el lenguaje —capacidad natural que requiere un largo aprendizaje—. Del hecho de que una capacidad pueda desarrollarse defectuosamente no es lícito concluir que no existe; nunca hay hombres completamente amorales.
 
-[Contenido de esta sección...]
+### b) Profundización filosófica sobre la ley natural
 
-## Juan Pablo II , que en la Enc. Veritatis splendor ha retomado con pro- (note: Cfr. nn. 35-53.)
+**La razón natural y los principios prácticos** — Partiendo de la evidencia más inmediata del bien (conocimiento natural), en contacto con la experiencia la razón descubre las determinaciones más particulares del bien (conocimiento inventivo), según las cuales está preparada para tomar decisiones concretas (conocimiento prudencial). El conocimiento natural de los fines virtuosos no puede interpretarse como un mero hecho psicológico sin relevancia moral: significa que la razón práctica dispone de principios naturales en los que se basa toda su actividad, ya que en el orden práctico los fines tienen el carácter de principios, de puntos de partida del razonamiento práctico que termina en elección; fines conocidos por naturaleza equivale a fines que son necesariamente criterios de rectitud moral. La ley moral natural es así una ordinatio rationis natural hacia el bien, como participación de la ley eterna; se puede hablar de una ratio naturalis, parte esencial de la naturaleza práctica del hombre. Si no existiese una razón natural, no existiría racionalidad en el obrar, sino solamente un ciego deseo.
 
-[Contenido de esta sección...]
+**El primer principio de la razón práctica** — La razón práctica tiene un primer y fundamental principio, constituido por la percepción práctica del bien como lo que debe ser hecho y del mal como lo que debe ser evitado. La expresión «bonum est faciendum et prosequendum, et malum vitandum» (S.Th., I-II, q. 94, a. 2) no es propiamente un juicio, sino la primera y fundamental expresión de la razón humana como razón práctica, a cuya luz todo objeto práctico se hace visible en cuanto práctico. Es presupuesto en todo razonamiento práctico y tiene en el orden práctico un papel análogo al del principio de no contradicción en el orden especulativo: del razonamiento especulativo «los hombres tienen necesidad de alimento; yo soy un hombre; por tanto necesito alimentarme» se pasa al razonamiento práctico que concluye imperativamente «debo alimentarme». Gnoseológicamente el primer principio práctico pertenece al hábito intelectual de la sindéresis, que incluye también los fines de las virtudes con una cierta universalidad, sin juzgar minuciosamente las exigencias concretas de la justicia, de la templanza, etc.
 
-## VI-1881: DS 3152; Enc. Libertas praestantissimum, 20-VI-1888: DS 3247.
+**Los fines virtuosos como principios prácticos** — Las virtudes morales son los modos de regulación racional de las acciones y pasiones que se refieren a determinados bienes. La percepción de los fines virtuosos está ligada a la percepción de ciertos bienes humanos fundamentales: «todas las cosas que hay que hacer o evitar pertenecen a la ley natural, en cuanto la razón práctica las conoce naturalmente como bienes humanos» (cfr. S.Th., I-II, q. 94, a. 2). El Aquinate indica tres grandes grupos de inclinaciones naturales, pero estas tendencias no nos dan a conocer aún los bienes propiamente humanos ni las virtudes: la razón ha de entender cuál es el modo justo de satisfacer esas tendencias. La nutrición y la sexualidad son cosas que la naturaleza ha enseñado a todos los animales, pero solo la razón enseña qué cosa es la nutrición y la sexualidad como bien para el hombre; las inclinaciones ofrecen solo la materia o temática que ha de ser ordenada por la razón práctica. Las virtudes son los modos de regulación racional de las inclinaciones naturales y de los bienes a los que tienden. Existe un sentido natural de la justicia, de la templanza, etc., del que proceden los principios prácticos que siguen al primer principio: en la percepción natural de los fines virtuosos convergen la razón y las inclinaciones, relacionándose como forma y materia. Los modos virtuosos no se encuentran en la razón como ideas innatas, pero en sus términos generales son fácilmente conocidos gracias al natural ejercicio de la sindéresis. En definitiva, el bien y el mal moral solo pueden ser determinados en relación con la virtud: bien moral es conformidad con la virtud; mal moral, disconformidad con ella.
 
-[Contenido de esta sección...]
+**El desarrollo del conocimiento moral y su coherencia** — A partir de los primeros principios prácticos, la razón procede a determinar los contenidos más concretos de las virtudes en un proceso que ya no es natural, sino inventivo: requiere un razonamiento en contacto con la experiencia y puede conducir a resultados diferentes según la experiencia, la educación y las disposiciones personales. Cuanto más concreto es el principio regulador, más diversidad y más defectos pueden surgir. Por último, la razón práctica determina la acción concreta que realiza aquí y ahora los principios prácticos; en este conocimiento prudencial intervienen las circunstancias, las pasiones del momento y el juicio de conciencia. Debe haber coherencia entre las distintas dimensiones del conocimiento práctico, expresiones todas de una única racionalidad humana: los principios prácticos captados por la sindéresis, que son de hecho la dimensión intelectual de las virtudes morales, tienen un contenido y una estructura normativa que expresa en sentido general el papel de cada bien. Solo en un tercer momento interviene la prudencia, manteniendo la coherencia con la sindéresis y el saber moral. Un juicio moral concreto contrario a los principios prácticos no sería un juicio racional y prudencial, sino un juicio deformado por el error o la pasión. Por eso Santo Tomás afirma que todos los actos de virtud pertenecen a la ley natural, ya que esta exige actuar siempre según la razón.
 
-## VIII-1950: DS 3892, y numerosos discursos.
+**Primer principio de la razón práctica y primer principio de la ley moral natural** — Considerado el pleno desarrollo de la actividad reguladora de la razón —conocible a través de las virtudes intelectuales (ciencia, sabiduría) y, por el cristiano, mediante la fe—, el primer principio de la ley moral natural, en el sentido de más importante y máximamente «arquitectónico», es el amor de Dios y del prójimo. Las virtudes expresan así los modos en que han de ser regulados los bienes humanos para ser congruentes con una voluntad dirigida a la perfección en Dios.
 
-[Contenido de esta sección...]
+### c) Los preceptos de la ley moral natural
 
-## AUBERT, Ley de Dios, leyes de los hombres, Herder, Barcelona 1969.
+Se habla de preceptos de la ley moral natural cuando se pasa del plano del ejercicio directo de la razón práctica (ratio practica in actu exercito) al plano del ejercicio reflejo (in actu signato), es decir, a la reflexión sistemática que pertenece a la ciencia moral. Es en este nivel donde la ciencia moral establece enunciados normativos —proposiciones en términos de «se debe» o «no se debe»—: la proposición «se debe dar a cada uno lo suyo» expresa el principio de la justicia en un nivel general, mientras «se debe restituir lo robado» expresa una exigencia más concreta.
 
-[Contenido de esta sección...]
+Siguiendo a Santo Tomás se distinguen tres categorías de preceptos según su evidencia o proximidad a los principios evidentes: 1) los principios primeros y comunes, que gozan de máxima evidencia y se extienden a diversos ámbitos del actuar («no se debe hacer daño a nadie», la regla de oro); responden a los fines virtuosos considerados en su máxima generalidad y no han sido promulgados en el decálogo, pues su evidencia hacía superflua la promulgación; 2) los preceptos secundarios muy próximos a los primeros, que se refieren a ámbitos específicos del actuar y pueden ser conocidos con razonamientos asequibles a todos: a este grupo pertenecen los preceptos del decálogo; 3) los preceptos de la tercera categoría, que derivan de la segunda a través de razonamientos más complicados, solo accesibles a los sabios, esto es, a los que cultivan la ciencia moral: «estos preceptos llegan al pueblo mediante la enseñanza de los doctos».
 
-## LUCAS LUCAS (ed.), «Veritatis splendor». Testo e commento filosofico-teologico, cit., pp.
+En el plano reflexivo, lo decisivo para establecer si un principio moral pertenece a la ley natural no es la índole inmediata o mediata de la evidencia, sino el hecho de que tenga una conexión necesaria con los primeros principios o con las virtudes. Si la conexión necesaria existe —aunque los hombres la hayan descubierto con el paso del tiempo— estamos ante un precepto de la ley moral natural; si no existe, estaremos sin más ante una disposición ética establecida por una autoridad política o religiosa.
 
-[Contenido de esta sección...]
+## 3. La ley moral del Antiguo Testamento: alianza, don y promesa
 
-## INTERNACIONAL, En busca de una ética universal, nn. 52-54.
+### a) El Antiguo Testamento en la historia de la salvación
 
-[Contenido de esta sección...]
+La entera economía del Antiguo Testamento está ordenada, sobre todo, a preparar, anunciar y significar el acontecimiento del Salvador y del reino mesiánico. La Revelación hecha a Israel contenía verdades religiosas sobre Dios, el hombre, el origen del mundo, el origen del bien y del mal y la necesidad de salvación; además de preparar la inteligencia, Dios tenía que preparar el corazón, por eso el Antiguo Testamento tiene una evidente dimensión moral. Según la expresión paulina, la «Ley» es buena y santa (Rm 7, 12) pero no definitiva: «La ley ha sido nuestro pedagogo, que nos condujo a Cristo» (Ga 3, 24). Está ordenada a Cristo, que constituye su cumplimiento: «El fin de la Ley es Cristo» (Rm 10, 4). San Ambrosio comenta: «Fin no en cuanto defecto, sino en cuanto plenitud de la ley; la cual se cumple en Cristo, por cuanto Él no vino a abolir la ley, sino a darle cumplimiento». La polémica paulina no quiere decir que la «Ley» sea contraria a la gracia, sino que se dirige contra aquellos para quienes ella, «a pesar de la venida de la gracia, persiste en mantener su dominio» (San Juan Crisóstomo).
 
-## Desde el punto de vista gnoseológico se puede añadir que el primer
+El Antiguo Testamento es, sin embargo, parte esencial de la Palabra de Dios, y sus libros conservan un valor permanente: «Aunque contienen elementos imperfectos y pasajeros, [...] expresan un vivo sentido de Dios, contienen enseñanzas sublimes sobre Dios y una sabiduría salvadora acerca del hombre» (Dei Verbum n. 15). La ley —y sobre todo el decálogo— ha sido ampliamente restablecida, actualizada y profundizada en el Nuevo Testamento y en la tradición teológica y catequética cristiana. «La Iglesia ha rechazado siempre vigorosamente la idea de prescindir del Antiguo Testamento so pretexto de que el Nuevo lo habría hecho caduco»; el decálogo se sigue usando como estructura básica de la catequesis moral cristiana. Los libros del Antiguo Testamento presentan la enseñanza moral sirviéndose de géneros literarios muy diversos (legal, histórico, poético, sapiencial, etc.), lo que muestra la naturaleza y las condiciones de la vida moral de modo más exacto que los discursos de la moral normativista.
 
-[Contenido de esta sección...]
+En sentido estricto, la «Ley» es solo una parte del Antiguo Testamento: el contenido esencial del Pentateuco, al que el Nuevo Testamento se refiere a menudo como la «Ley de Moisés»; junto a ella se denominan «los Profetas» y «los Salmos». En la teología bíblica se acepta la distinción entre una ética de la ley, una ética de los profetas y una ética sapiencial, que no debe entenderse como una separación, pues existen claras conexiones y puntos en común entre las tres fuentes de la ética del Antiguo Testamento.
 
-## Natura e ragione. Studio delle inclinazioni naturali in rapporto al diritto naturale, cit.
+### b) La ética de la ley
 
-[Contenido de esta sección...]
+En el Pentateuco es habitual distinguir entre preceptos morales, ceremoniales y judiciales. Las leyes judiciales comprenden normas de derecho penal, civil y procesal, y se encuentran principalmente en el «código de la alianza» y en el Deuteronomio; las prescripciones ceremoniales se hallan sobre todo en el Levítico (normas sobre el culto, la pureza legal y el «código de la santidad»); las normas morales están dispersas en el Éxodo, el Levítico y el Deuteronomio, y contienen prescripciones sobre el comportamiento con el prójimo, la vida sexual, etc., y sobre todo el decálogo. Según la tradición teológica, las normas ceremoniales y judiciales hay que considerarlas abrogadas con la venida de Jesucristo; las normas morales, en su contenido, responden substancialmente a la ley moral natural y, por tanto, a las virtudes: «Versando los preceptos morales sobre las buenas costumbres, [...] síguese que todos los preceptos morales son de ley natural, aunque en diverso modo» (S.Th., I-II, q. 100, a. 1).
 
-## LUÑO, Cultura política y conciencia cristiana. Ensayos de ética política, cit., pp. 15-34.
+El ethos de la Torá tiene un carácter religioso-teológico: la fe en el Señor como Dios único que mantiene con Israel una relación singular, concebida como alianza, es el marco del ethos, de modo que todas las prescripciones se consideran procedentes de Dios y su observancia la parte del pueblo en la alianza. Los mandamientos se entienden como revelación del modo de actuar de Dios que el hombre está llamado a imitar: «Sed santos, porque yo, el Señor, vuestro Dios, soy santo» (Lv 19, 2). La vida moral no se concibe como dimensión terrenal autónoma: está impregnada de religiosidad dialógica, y la instrucción moral divina se experimenta como un don y una gracia. La ley tiene también un acentuado carácter social: es la ley dada al pueblo de Israel para asegurar la justicia, la paz, la prosperidad y sobre todo la fidelidad a la Alianza. Todos los preceptos del decálogo se encaminan a la justicia: a la justicia con Dios y con el prójimo; tras los preceptos referidos a Dios, se prescribe la santificación del sábado (dimensión cultual y social), el respeto a los padres, a la vida inocente, al matrimonio y a la propiedad, y por último la justicia en los procesos y el deseo del prójimo. La ley condesciende con la «dureza de vuestro corazón» (Mt 19, 8), y aunque sus preceptos se enuncian como mandatos o prohibiciones, intentan conducir al pueblo hacia actitudes virtuosas: la fe y el amor a Dios, la justicia y el amor al prójimo. En el telón de fondo se encuentra una exigencia de fe y confianza en Dios: se reprende al pueblo por su falta de fe y se alaba la de los justos y héroes de Israel (la Carta a los Hebreos pone de relieve la fe de Abel, Henoc, Noé, Abrahán, Sara y los demás patriarcas).
 
-[Contenido de esta sección...]
+### c) La ética de los profetas
 
-## Según la expresión paulina, la “Ley” es buena y santa , pero no (note: Cfr. Rm 7, 12.)
+Los profetas subrayan vigorosamente las exigencias éticas, que no resultan satisfechas únicamente por los actos rituales: «El eje central de su pensamiento es que la dimensión ética es la exigencia primaria del Dios verdadero». No son contrarios al culto, pero sí a un culto sin alma que podría coexistir con la injusticia y la transgresión de los preceptos divinos. Hay en ellos una fuerte insistencia en los deberes sociales, en la justicia y en el derecho: la solicitud por los desheredados, la defensa de los débiles, la superación de las desigualdades («Sino que el derecho fluya como agua, y la justicia como arroyo perenne», Am 5, 21-24; Is 5, 7; Ez 22). Hay un vivísimo sentido del pecado, considerado como expresión del orgullo humano. Desde el punto de vista temático no hay substanciales novedades respecto al Pentateuco: los profetas recuerdan las normas de la Torá en una situación en la que el respeto de la ley parecía haberse perdido. También su moral está enmarcada en el contexto religioso: detrás del prójimo y de los deberes sociales está el Señor («Si tu padre comía y bebía era porque ejercía el derecho y la justicia... ¿No es eso reconocerme?», Jr 22, 15-16); subrayan la necesidad de la fe en Dios, de quien procede la salvación («Aguardaré al Señor, que oculta su rostro a la casa de Jacob, en Él esperaré», Is 8, 17). Además de reprender al pueblo por su infidelidad, anuncian una nueva intervención divina para salvar definitivamente a un hombre incapaz de recorrer los caminos indicados por Dios.
 
-[Contenido de esta sección...]
+### d) La ética sapiencial
 
-## Testamento se refiere a menudo como la «Ley de Moisés» . Junto a la 'Ley'
+**Características generales** — Los libros sapienciales presentan características específicas dentro del Antiguo Testamento: su conexión con la literatura extrabíblica (egipcia, mesopotámica, helenística) es particularmente relevante y su contenido ético-racional es conspicuo. La referencia habitual es Jr 18, 18: «No nos faltará el dictamen del sacerdote, ni el consejo del sabio, ni la palabra del profeta». En la sabiduría tradicional (sobre todo Proverbios 10-31), las afirmaciones éticas proceden de la verificación experimental de nexos reales: «El sabio transmite, en primer lugar, una cultura de la que sacar motivaciones para el comportamiento», con criterio principal la realización del hombre en la sociedad de su tiempo; el fundamento de la ética sapiencial es antropológico. Para la sabiduría crítica (Job y Qohélet), «no se trata del modelo o de la lista de comportamientos a seguir, sino de por qué hay que hacerlo», ya que el justo sin tacha como Job sufre sin proporción y sin explicación; existe una sabiduría superior que se nos escapa, pertenece solo a Dios y a Él debemos confiar los resultados de nuestras acciones. Para la sabiduría revelada (Proverbios 1-9, Sirácida y Sabiduría), el valor fundamental es la sabiduría divina: para el Sirácida la sabiduría es propiedad de Dios, se identifica con la revelación sinaítica y ha de buscarse con «temor de Dios»; el himno del capítulo 24 habla de una sabiduría personificada que hace morada en Israel para difundirse después por toda la tierra; el libro de la Sabiduría aporta la convicción de una existencia después de la muerte, sobre la que se contraponen las concepciones del justo y del impío.
 
-[Contenido de esta sección...]
+Los libros sapienciales dedican un espacio muy amplio a los temas éticos, aunque no de modo sistemático. El lenguaje típicamente normativo está casi ausente: se transmiten experiencias, intuiciones, máximas, consejos y argumentaciones racionales; su presentación aforística estimula la reflexión. Se ponen de relieve los resultados de las acciones, quizá como expresión de una retribución inmediata o mediata, aunque no se les puede atribuir un planteamiento utilitario. Prestan una gran atención a las formas virtuosas y viciosas de la vida humana. El horizonte religioso ocupa siempre el primer lugar: todo se desarrolla sobre la base de la fe en Dios Creador; el temor de Dios es «gloria y honor, felicidad y corona de júbilo» (Si 1, 11), «principio de la sabiduría» (Si 1, 14.16). La vida conforme a la ley del Señor se presenta normalmente como vida virtuosa: prudente, equilibrada, serena, previsora, templada, ajena a los excesos, y sobre todo basada en la fe y el temor de Dios.
 
-## Testamento.
+**Virtudes y vicios en la ética sapiencial** — Las virtudes son omnipresentes al menos en Proverbios, Sabiduría y Sirácida. Si 3, 19-32 ofrece una bella instrucción sobre la humildad y el orgullo como modo de comportarse ante la sabiduría: «Cuanto más grande seas, tanto más debes humillarte»; «para llaga de soberbio no hay curación». Abundan las reflexiones sobre el uso de la lengua: en el hablar y en el callar se manifiestan la sabiduría y la necedad, la virtud y el vicio, el amor y el odio, la amistad y la envidia; «golpe de lengua quebranta los huesos» (Si 28, 19-23). La moderación ha de presidir todas las dimensiones de la vida: en el comer y en el beber (Si 31, 12-40), y en general en todas las pasiones: «No te engrías en tu propio parecer, que tu vigor no sea desgarrado como por un toro» (Si 6, 2-4). Hay exhortaciones a la monogamia, a la fidelidad conyugal y a la castidad, así como advertencias contra la lujuria (Si 23, 22-24); para vivir la castidad se recomienda también la prudencia en las relaciones sociales (Si 9, 8-9). El trabajo ha de realizarse con esfuerzo y perseverancia: «Sé constante en tus obligaciones, ocúpate de ellas, y envejece cumpliendo tu trabajo» (Si 11, 20); hay que huir de la pereza, gozar con moderación de los haberes pero sin confiar demasiado en ellos. La avaricia no conduce al bien: «El que ama el oro no estará ausente de culpa» (Si 31, 5-7). Se proponen además las máximas y condiciones de la prudencia, de la justicia, de la mansedumbre, de la docilidad, de la verdadera amistad y de la solidaridad. El Sirácida pone de relieve la dimensión cognoscitiva de la virtud y del vicio, es decir, su influjo sobre el juicio: «No consultes con quien te mire de reojo... Al contrario, acude al hombre piadoso» (Si 37). No obstante sus límites, la ética sapiencial ofrece una visión bastante completa de la virtud y del vicio, sobre la base de una aguda y realista observación empírica y de la fidelidad a la instrucción divina.
 
-[Contenido de esta sección...]
+### e) La promulgación positiva de la ley moral natural en el Antiguo Testamento
 
-## SCHMIDT, Einführung in das Alte Testament, De Gruyter, Berlín 19822 .
+La teología clásica considera que en el Antiguo Testamento se realiza una promulgación positiva de la ley moral natural, al menos en sus contenidos fundamentales. Santo Tomás indica que los preceptos morales del Antiguo Testamento se refieren a las virtudes y, por tanto, a la regulación de las acciones según su conformidad con la razón: son preceptos de la ley moral natural. ¿Por qué fue necesario promulgar positivamente una ley que está inscrita en el corazón de los hombres? Santo Tomás consideró cuatro motivos: primero, porque muchos caían en pecado a causa de una costumbre contraria, y la razón natural en la que se encuentran escritos los preceptos estaba oscurecida; segundo, porque aunque algunos mantenían lúcida la razón, les faltaba el amor por el bien y debían ser inducidos al bien a través de una cierta coacción de la ley obligatoria; tercero, a fin de que no fuese solamente la naturaleza la que inspirase las obras de la virtud, sino también el respeto de los mandamientos divinos; cuarto, para que fuesen fácilmente recordados y meditados con frecuencia (Scriptum super Sententiis, lib. III, d. 37, q. 1, a. 1).
 
-[Contenido de esta sección...]
+Así lo explica, basándose en las enseñanzas del Concilio Vaticano I (Dei Filius, DS 3005), la Encíclica Humani generis: aunque la razón humana con sus solas fuerzas puede alcanzar el conocimiento de la ley natural inscrita por el Creador en nuestras almas, encuentra no pocas dificultades para usar eficazmente esta capacidad, por el influjo de los sentidos y de la imaginación y por las tendencias malsanas nacidas del pecado original; «por estos motivos se debe decir que la "revelación" divina es moralmente necesaria para que aquellas verdades que en materia religiosa y moral no son por sí mismas inasequibles, puedan ser conocidas por todos con facilidad, con firme certeza y sin error alguno». La misma doctrina ha sido propuesta por el Catecismo (nn. 37-38 y 1960) y por la Veritatis splendor. Verdad revelada no es sinónimo de misterio: la verdad revelada puede confirmar verdades accesibles a la razón.
 
-## BELLOCQ - F. INSA, Avviamento alla teologia morale, cit., cap. II, 2.
+En cualquier caso, la promulgación divina de la ley moral todavía no era suficiente para que el hombre viviera de acuerdo con el plan divino. La ley ordenaba la santidad, pero no transformaba al hombre desde dentro para que fuera capaz de cumplirla plenamente; en este sentido la Antigua Ley seguía siendo «externa». La Nueva Alianza anunciada por los profetas tendría una importante dimensión moral, ya que Dios prometió dar al hombre un «corazón nuevo» y un «espíritu nuevo» para que pudiera vivir según sus mandamientos.
 
-[Contenido de esta sección...]
+## 4. La ley de Cristo
 
-## Dios, soy santo» . Por tanto, la vida moral no se concibe como una dimensión
+### a) La ley de Cristo como "lex gratiae"
 
-[Contenido de esta sección...]
+Las profecías mesiánicas anunciaron un reino fundado sobre una ley justa y completa, consistente en un principio interior infundido en el corazón: «Pondré mi Ley en su pecho y la escribiré en su corazón» (Jr 31, 33). Todo esto se cumple con la obra redentora de Cristo, que hace justos a los hombres con una justicia superior a la de los escribas y fariseos, que cambia su corazón por obra del Espíritu y los hace hijos de Dios. San Pablo habla de «la ley del Espíritu de la vida que está en Cristo Jesús» (Rm 8, 2), con la cual se supera y se abandona la economía del Antiguo Testamento: no una oposición a la Antigua Alianza, sino una renovación fundamental en la historia de la alianza, en la que Dios da a su pueblo la capacidad innata de vivir según la Torá sobre la base del perdón de su iniquidad y del don del Espíritu Santo (Ga 3, 23-27). Se abre así el camino hacia la santidad cristiana como plenitud de la filiación divina.
 
-## Isaac bendijo a Jacob y Esaú en orden al futuro; etc.
+La Veritatis splendor expone la doctrina cristiana: «Santo Tomás afirma que la Ley Nueva es la gracia del Espíritu Santo dada mediante la fe en Cristo. Los preceptos externos, de los que también habla el Evangelio, preparan para esta gracia o despliegan sus efectos en la vida» (n. 24). Se distinguen dos elementos en la ley de Cristo. El primero y principal es la gracia del Espíritu Santo, que sana al hombre entero y eleva sus facultades operativas mediante las virtudes teologales y las virtudes morales infusas; el constitutivo esencial de la nueva ley está en la gracia, que se manifiesta en la fe que obra por el amor. Por esta razón la ley nueva es fundamentalmente una ley interna, y no una ley escrita, porque el Espíritu Santo instruye interiormente a los fieles; es además «ley de libertad», pues quien evita el mal por causa del mal es libre, y esto lo realiza el Espíritu Santo, que perfecciona interiormente la mente «de tal modo que se guarda del mal por amor» (Super II Epistolam ad Corinthios Lectura, cap. 3, n. 113). En segundo lugar, la ley nueva es también una ley escrita, que se encuentra en las enseñanzas del Señor (el Discurso de la montaña, las bienaventuranzas) y en la catequesis moral de los Apóstoles, que pueden resumirse en el doble mandamiento del amor; Santo Tomás habla sintéticamente de los sacramentos y de las virtudes, pues la nueva ley no debió determinar otras obras mandándolas o prohibiéndolas, a no ser los sacramentos y los preceptos morales que pertenecen a la esencia de la virtud (S.Th., I-II, q. 108, a. 2).
 
-[Contenido de esta sección...]
+Debe evitarse un malentendido: las normas morales escritas no son secundarias en el sentido de menos importantes; la gracia infusa implica necesariamente «vivir según el Espíritu» y se expresa a través de los «frutos del Espíritu», a los cuales se oponen las «obras de la carne». La libertad cristiana no es «un pretexto para la carne», sino un estímulo para servir a todos en la caridad; las obras de la carne y la gracia y la caridad del Espíritu Santo se autoexcluyen en sentido absoluto. Como dijo Jesús al joven rico: «Si quieres entrar en la Vida, guarda los mandamientos» (Mt 19, 17).
 
-## Sabiduría.
+### b) Las virtudes teologales y las virtudes morales infusas como principios de la vida cristiana
 
-[Contenido de esta sección...]
+«El amor y la vida según el Evangelio no pueden proponerse ante todo bajo la categoría de precepto, porque lo que exigen supera las fuerzas del hombre. Solo son posibles como fruto de un don de Dios, que sana, cura y transforma el corazón del hombre por medio de su gracia». En su obra de sanación y transformación, la gracia se adecua a la estructura fundamental de la moralidad humana, en la cual los preceptos, en el sentido de enunciados normativos, no son una realidad primera, sino expresiones normativas reflejas de la ley constitutiva de la razón práctica. En la ley de Cristo sucede una cosa análoga: la ley de Cristo es esencialmente la gracia del Espíritu Santo, que lleva consigo los nuevos principios morales (las virtudes y los dones infusos) que asumen, finalizan y elevan los principios naturales de la razón humana, dando lugar a una nueva ley interior del hombre.
 
-## Dios, se identifica con la revelación sinaítica y ha de buscarse con “temor de
+En la lex gratiae los diversos dones sobrenaturales cumplen funciones específicas. La fe ilustra la inteligencia; la esperanza y la caridad elevan e inclinan la voluntad para que el hombre pueda adherirse a Dios con un amor sobrenatural, participación del amor con el que el Hijo ama al Padre en el Espíritu Santo. Bajo el influjo de la caridad, forma de todas las virtudes cristianas, las virtudes morales infusas elevan el criterio regulador (medium rationis) de las virtudes éticas humanas, capacitándolas para estructurar las relaciones del hombre con el prójimo, consigo mismo y con los diversos bienes humanos de modo que pueda realizar la vida propia del hijo de Dios en Cristo. Gracias a esta «renovación de la mente» (Rm 12, 2) realizada por la gracia, se transforma la capacidad de discernimiento moral: los principios de la vida cristiana iluminan el valor y el sentido de los bienes con los que el hombre se enfrenta cada día —salud y enfermedad, placer y dolor, vida y muerte, riqueza y pobreza, libertad y esclavitud, matrimonio y celibato—. Si cambian el valor y el significado de los bienes, también debe cambiar la actitud del hombre ante su posesión o privación.
 
-[Contenido de esta sección...]
+La filiación divina puede ser conocida, deseada, poseída y traducida en conducta práctica solo porque el hombre ha recibido como don la gracia y las virtudes, que son los principios operativos de esa vida. Sin la posesión real de dichos principios, las mismas enseñanzas evangélicas y apostólicas serían letra muerta que mata; contando con ellos, esas enseñanzas son luz divina que instruye acerca de las actitudes, deseos y obras que expresan, consolidan y acrecientan la vida divina infusa en nuestros corazones.
 
-## Testamento» (Ibíd., p. 31).
+Esta enseñanza es rica de consecuencias para la teología moral. Recuerda la debilidad del hombre, incluso del cristiano mientras vive en este mundo, y subraya la importancia práctica del elemento externo de la ley de Cristo, que, custodiado y transmitido por la Iglesia, constituye el necesario subsidio normativo para la formación de las virtudes cristianas en los fieles y también para resolver los problemas que presenta, ya en el plano de la moral natural, la formación de la prudencia. Insistir sobre la importancia del elemento interno de la ley de Cristo con el propósito de eliminar o relativizar el valor normativo de su elemento externo sería teológicamente incorrecto y pastoralmente deletéreo. Pero igualmente nocivo sería perder de vista el carácter prevalentemente interno de la ley de Cristo: un error semejante llevaría a usar una metodología teológica defectuosa y a examinar las enseñanzas morales del Nuevo Testamento de modo inadecuado, rebajando la dimensión cognoscitiva de las virtudes cristianas a una simple ayuda para practicar exigencias conocidas independientemente de ellas; emerge entonces la perspectiva propia de la ética de la obligación, y esta «precomprensión normativista» condiciona negativamente la percepción de la identidad específica de la moral cristiana, ya al nivel de la teología bíblica. La precomprensión normativista impide también la conciencia de la plena correspondencia entre el elemento interno y el elemento externo de la ley nueva, ya que el primero consiste en la gracia, en la caridad y en las otras virtudes, mientras que el segundo ha de ser interpretado bajo la perspectiva de la ética de la obligación.
 
-[Contenido de esta sección...]
-
-## Cfr. Sb cap. 10-19; Si cap. 44-50.
-
-[Contenido de esta sección...]
-
-## Este es el punto central de la sugerente interpretación propuesta por G. ANGELINI,
-
-[Contenido de esta sección...]
-
-## Teologia Morale Fondamentale, cit., pp. 335-388.
-
-[Contenido de esta sección...]
-
-## Cfr. Pr 18, 20-21.
-
-[Contenido de esta sección...]
-
-## Cfr. Pr 11, 12; 15, 28; 17, 28; Si 1, 30; 20, 20-22.
-
-[Contenido de esta sección...]
-
-## Cfr. Si 20, 5-8.
-
-[Contenido de esta sección...]
-
-## Cfr. Pr 12, 8; Si 5, 13-17.
-
-[Contenido de esta sección...]
-
-## Cfr. Pr 11, 13; Si 19, 7-12.
-
-[Contenido de esta sección...]
-
-## Cfr. Si 8, 20-22.
-
-[Contenido de esta sección...]
-
-## Cfr. Si 10, 6; 20, 1.
-
-[Contenido de esta sección...]
-
-## Cfr. Si 22, 6.
-
-[Contenido de esta sección...]
-
-## Cfr. Pr 12, 17; Si 5, 16-17; 20, 26-28; 21, 31.
-
-[Contenido de esta sección...]
-
-## Cfr. Pr 6, 12-15; 10, 10; Si 27, 26-27.
-
-[Contenido de esta sección...]
-
-## Cfr. Si 23, 9-14.
-
-[Contenido de esta sección...]
-
-## Cfr. Si 23, 17.
-
-[Contenido de esta sección...]
-
-## Si 28, 19-23.
-
-[Contenido de esta sección...]
-
-## Cfr. Si 31, 12-40.
-
-[Contenido de esta sección...]
-
-## Si 6, 2-4.
-
-[Contenido de esta sección...]
-
-## Cfr. Pr 5, 15-21.
-
-[Contenido de esta sección...]
-
-## Cfr. Pr 6, 20-7, 27; Sb 3, 16-19; Si 23, 25-36.
-
-[Contenido de esta sección...]
-
-## Cfr. Sb 3, 13-15.
-
-[Contenido de esta sección...]
-
-## Si 23, 22-24.
-
-[Contenido de esta sección...]
-
-## Testamento se refieren a las virtudes y, por tanto, a la regulación de las
-
-[Contenido de esta sección...]
-
-## Jesús» , con la cual se supera y se abandona la economía del Antiguo Testa-
-
-[Contenido de esta sección...]
-
-# D.C. 2005.
-
-[Contenido de esta sección...]
+Se entiende ahora en qué sentido la ley de Cristo «es la perfección aquí abajo de la ley divina, natural y revelada» (S.Th., I-II, q. 106, a. 1): lleva a su plenitud tanto la ley moral natural cuanto la ley moral del Antiguo Testamento. En relación a esta última, la ley nueva, «lejos de abolir o devaluar las prescripciones morales de la Ley antigua, extrae de ella sus virtualidades ocultas y hace surgir de ella nuevas exigencias. [...] Llega a reformar la raíz de los actos, el corazón, donde el hombre elige entre lo puro y lo impuro (cfr. Mt 15, 18-19), donde se forman la fe, la esperanza y la caridad, y con ellas las otras virtudes. El Evangelio conduce así la Ley a su plenitud mediante la imitación de la perfección del Padre celestial (cfr. Mt 5, 48), mediante el perdón de los enemigos y la oración por los perseguidores, según el modelo de la generosidad divina (cfr. Mt 5, 44)» (VS n. 15). Con la ley nueva, el libre y eterno decreto divino por el que hemos sido escogidos en Cristo para ser hijos de Dios llega a cumplimiento, y con la ayuda de la gracia se hace posible la virtud perfecta.

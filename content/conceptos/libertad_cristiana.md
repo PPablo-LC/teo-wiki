@@ -37,7 +37,7 @@ En *Jesús de Nazaret III*, Benedicto XVI aborda la libertad de Jesús en el ep�
 
 [JPII, Redemptoris Mater §41]: María ha conseguido plenamente aquel «estado de libertad real» propio de los discípulos de Cristo: ¡servir quiere decir reinar! [RM §41].
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 La libertad de los hijos de Dios se entiende como la capacidad de obrar bien, de amar a Dios y al prójimo, de responder libremente a la llamada divina. Esta libertad no es la ausencia de vínculos, sino la liberación de la esclavitud del pecado. Por el bautismo, el cristiano pasa de la servidumbre del pecado a la libertad de los hijos de Dios, lo que implica una transformación radical de su modo de obrar.
 

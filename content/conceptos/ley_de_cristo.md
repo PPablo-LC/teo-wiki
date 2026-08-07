@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: "Ley de Cristo"
 tags: ["dogmática", "moral"]
 
-timestamp: 2026-07-25
+timestamp: 2026-08-06
 description: "La ley de Cristo es la nueva Torá mesiánica que, lejos de abolir la Ley de Moisés, la lleva a su plenitud mediante la libertad del Espíritu y el amor al prójimo."
 ---
 # Ley de Cristo
 
 > Área: Dogmática / Moral
-> Última actualización: 2026-07-25
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -37,6 +37,12 @@ El Catecismo enseña que la ley nueva es «la gracia del Espíritu Santo» que h
 
 **Universalización de la fe:** La ley de Cristo universaliza el pueblo de Dios: ya no es decisiva la «carne» (la descendencia física de Abraham), sino el «espíritu» (el participar en la herencia de fe de Israel mediante la comunión con Jesucristo). El Señor «espiritualiza» la Ley convirtiéndola así en camino de vida abierto a todos los pueblos.
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La teología moral presenta la ley de Cristo (lex nova) como solución teológica al problema de la prudencia imperfecta: «Para el problema de la prudencia imperfecta existe, ciertamente, una solución teológica: la "sanación de la naturaleza" por la gracia y la revelación de los principios morales fundamentales como ley divina» (Ele_Xto_Stos, Cap. VII, §4c).
+
+Solo la ley de Cristo (lex nova), que consiste primariamente en la gracia del Espíritu Santo, puede hacer al hombre perfectamente virtuoso (Ele_Xto_Stos, Cap. VII, §4c).
+
 ## Distinciones importantes
 
 - **Ley de Cristo** (libertad en el Espíritu, amor) ≠ **ley mosaica** (ordenamiento jurídico concreto para Israel)
@@ -58,3 +64,4 @@ Se relaciona con [[ley_mosaica]], [[libertad_cristiana]], [[bienaventuranzas]], 
 - Mt 5, 17-20
 - CEC §1965-1974
 - JdN_I, cap. 2: «La Torá del Mesías»
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §4c

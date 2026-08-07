@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Don de consejo
 tags: ["ascética", "mística"]
 
-timestamp: 2026-06-23
+timestamp: 2026-08-06
 description: "El don de consejo es uno de los [[siete_dones_del_espíritu_santo]] que perfecciona la virtud de la [[prudencia]]."
 ---
 # Don de consejo
 
 > Área: Ascética / Mística
-> Última actualización: 2026-06-23
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -91,6 +91,10 @@ Juan Pablo II, al tratar de la prudencia en su primera audiencia general (25-X-1
 
 **La Madre del Buen Consejo como intercesora:** El Papa invoca la intercesión especial de la Virgen María bajo la advocación de Madre del Buen Consejo, para obtener este don tanto para sí mismo como para todos los fieles que desean comportarse prudentemente.
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+El don de consejo es uno de los siete dones a través de los cuales el Espíritu Santo mueve a los fieles, enumerados a partir de Is 11, 2: consiste en discernir las cosas que hay que hacer. (Ele_Xto_Stos, Cap. VII, §5b)
+
 ## Distinciones importantes
 
 - **Don de consejo vs. prudencia**: la prudencia discurre; el don de consejo ilumina directamente
@@ -124,3 +128,4 @@ Juan Pablo II, al tratar de la prudencia en su primera audiencia general (25-X-1
 - Santo Tomás, S.Th., I-II, q. 68; II-II, q. 52
 - San Juan de la Cruz
 - 7_Lamps, JPII La prudencia — Audiencia general, 25-X-1978
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §5b

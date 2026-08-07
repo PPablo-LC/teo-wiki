@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Comunión
 tags: ["sacramental", "eclesiología"]
 
-timestamp: 2026-06-27
+timestamp: 2026-08-06
 description: "La comunión designa tanto la recepción sacramental del Cuerpo y la Sangre de Cristo en la Eucaristía como la participación en la vida divina y la unidad de los fieles entre sí y con Dios."
 ---
 # Comunión
 
 > Área: Sacramental / Eclesiología
-> Última actualización: 2026-06-27
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -66,6 +66,10 @@ La palabra «comunión» (*koinonía*) expresa la participación en los bienes d
 
 **Inocencio XI** (1679, D‑1147–D‑1150) — Decreto de la Sagrada Congregación del Concilio sobre la comunión frecuente y diaria: declaró que, aunque el uso frecuente y hasta diario de la Eucaristía fue siempre aprobado, nunca se establecieron días determinados para recibirla o abstenerse. El frecuente acceso ha de dejarse al juicio de los confesores, atendida la pureza de conciencia, el fruto de la frecuencia y el adelantamiento en la piedad. A los casados se les debe amonestar sobre la continencia por reverencia a la Eucaristía. Prohibió que se aparte a nadie de la comunión frecuente por una fórmula única de mandato, ni que se establezcan días generales para recibirla. A las monjas que piden la comunión diaria debe concedérseles según su fervor. Los obispos deben alimentar la devoción eucarística con prudencia. Se condenó la afirmación de que la comunión diaria es de derecho divino, y se prohibió que la confesión de pecados veniales se haga a un sacerdote no aprobado.
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+Un segundo aspecto de la Eucaristía es la Comunión, por la que el cristiano se une íntimamente a Cristo y se identifica con Él: como tal identificación coincide con la meta de la santidad, la santidad cristiana no puede prescindir de la Comunión asidua. La Eucaristía refuerza las energías humanas en el camino de la santidad, previene los peligros, las dificultades y los pecados, facilita la lucha ascética, es prenda de la vida eterna y consolida la unión entre los hombres. Conviene estar bien dispuestos para recibir la comunión con fruto y dar gracias al Señor con profundo fervor (Ele_Xto_Stos, Cap. III, §4b).
+
 ## Distinciones importantes
 
 - **Comunión sacramental**: recepción del Cuerpo de Cristo en la Eucaristía
@@ -97,3 +101,4 @@ La palabra «comunión» (*koinonía*) expresa la participación en los bienes d
 - CEC §1382-1401; §946-959
 - TPCr, Tercera Parte, Libro II, Cap. I, Art. 5
 - [VocTeoBib, «Comunión»]
+- Ele_Xto_Stos, Cap. III, §4b

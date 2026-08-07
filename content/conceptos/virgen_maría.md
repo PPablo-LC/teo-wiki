@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Virgen María
 tags: ["mariología", "ascética"]
 
-timestamp: 2026-06-20
+timestamp: 2026-08-06
 description: "La Virgen María, Madre de Dios y Madre nuestra, ocupa un lugar singular en la economía de la salvación y en la vida cristiana."
 ---
 # Virgen María
 
 > Área: Mariología / Ascética
-> Última actualización: 2026-06-20
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -166,6 +166,10 @@ Benedicto XVI profundiza en la figura de María a partir de los relatos lucanos 
 
 [JdN_III, cap. II]
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+[Ele_Xto_Stos, Cap. III, §5] La vida cristiana tiene una esencial dimensión mariana: la función de María en la vida de la Iglesia y de cada uno de los cristianos deriva de su singular unión con Cristo y, en último término, de su maternidad divina. «Por su total adhesión a la voluntad del Padre, a la obra redentora de su Hijo, a toda moción del Espíritu Santo, la Virgen María es para la Iglesia el modelo de la fe y de la caridad» (Lumen gentium, n. 61). María es además el modelo que la Iglesia y los cristianos deben imitar: «Por eso dirigen sus ojos a María, que resplandece ante toda la comunidad de los elegidos como modelo de todas las virtudes» (LG, n. 65). Es un preclaro espejo de vida moral: «Acogiendo y meditando en su corazón acontecimientos que no siempre puede comprender (cfr. Lc 2, 19), se convierte en el modelo de todos aquellos que escuchan la palabra de Dios y la cumplen (cfr. Lc 11, 28)».
+
 ## Distinciones importantes
 
 - **Maternidad divina**: María es Madre de Dios (Theotókos), verdadera Madre de Jesús, que es verdadero Dios y verdadero hombre.
@@ -190,3 +194,4 @@ María es modelo de [[configuración_con_cristo]], ayuda para alcanzar la [[perf
 - [TPCr, Parte I, Cap. 5]
 - [PS §29-30]
 - [VJ, Cap. I-II, Cap. VI]
+- Ele_Xto_Stos, Cap. III, §5

@@ -22,7 +22,7 @@ La moral autónoma tiene una larga tradición en la filosofía moderna (Kant, et
 
 ## Perspectivas por fuente
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor presenta la moral autónoma como:
 

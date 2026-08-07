@@ -27,7 +27,7 @@ La santidad del cristiano no es un mérito propio, sino un don de Dios que parti
 - **§1269-1270**: El carácter bautismal como participación de la santidad de Dios.
 - **§823-829**: La santidad de la Iglesia como participación de la santidad de Dios.
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El autor presenta la participación como:
 

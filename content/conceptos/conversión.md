@@ -125,7 +125,7 @@ Pinufio enseña que la penitencia exige humildad, paciencia y perseverancia. La 
 
 La conversión interior de la persona es el presupuesto esencial de una renovación real de sus relaciones con los demás: «Es preciso entonces apelar a las capacidades espirituales y morales de la persona y a la exigencia permanente de su conversión interior para obtener cambios sociales que estén realmente a su servicio» (§42, citando CEC §1888). La prioridad de la conversión del corazón no elimina la obligación de introducir en las instituciones y condiciones de vida las mejoras convenientes para que se conformen a las normas de la justicia (§42). Dios ofrece la gracia para ayudar al hombre a superar sus fracasos, arrancarlo de la mentira y la violencia, y sostenerlo para tejer una red de relaciones auténticas con sus semejantes (§43).
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 La conversión es la respuesta libre y generosa del hombre a la llamada de Dios. No es un acto puntual sino un proceso continuo de retorno a Dios que abarca toda la vida cristiana. La conversión supone la gracia de Dios como movimiento primero, y la respuesta libre del hombre como movimiento segundo. Sin la gracia, la conversión es imposible; sin la libertad humana, la conversión es vacía.
 

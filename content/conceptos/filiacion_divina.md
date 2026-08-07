@@ -29,7 +29,7 @@ El Catecismo enseña que por el bautismo el hombre participa en la naturaleza di
 - **§1265-1266**: El bautismo configura con Cristo, da acceso a la participación de la naturaleza divina.
 - **§1692-1698**: La vida del bautizado como hijo de Dios.
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 La filiación divina constituye el fundamento de la vida moral cristiana. El autor destaca que:
 

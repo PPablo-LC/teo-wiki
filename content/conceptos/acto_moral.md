@@ -63,7 +63,7 @@ La cooperación formal es siempre ilícita cuando el acto principal es intrínse
 
 ## Perspectivas por fuente
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 La estructura del acto moral se analiza en tres elementos: objeto, intención y circunstancias. La imputabilidad depende del conocimiento y la libertad del agente. La conciencia moral es la norma próxima de valoración del acto. El principio de doble efecto y la cooperación formal/material son herramientas de análisis moral que permiten valorar acciones complejas.
 

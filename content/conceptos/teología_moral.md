@@ -44,7 +44,7 @@ Aunque la teología se divide en partes (dogmática, moral, bíblica, etc.) por 
 
 ## Perspectivas por fuente
 
-### Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 La teología moral es «la parte de la teología que tiene como objeto propio la inteligencia de la vida de los fieles en Cristo». Se configura como una ciencia teológica práctica o *operativa scientia*. Su atención se centra en el fin, que es el bien de la vida humana tomada como un todo. Debe ser elaborada desde la perspectiva de la primera persona, asumiendo el orden inmanente de la vida cristiana y explicitando sus principios y su lógica interna. El nacimiento y desarrollo de la reflexión teológico-moral responde a instancias comunes a toda la teología (la fe que busca entenderse) y a instancias específicas (los cambios históricos y las nuevas cuestiones morales).
 

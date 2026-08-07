@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Concupiscencia
 tags: ["moral"]
 
-timestamp: 2026-06-29
+timestamp: 2026-08-06
 description: "La concupiscencia es el movimiento o inclinación desordenada de los apetitos sensibles que, como consecuencia del pecado original, habita en el hombre y lo inclina al pecado."
 ---
 # Concupiscencia
 
 > Área: Moral
-> Última actualización: 2026-06-29
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -100,6 +100,10 @@ Pío V, en la bula *Ex omnibus afflictionibus* (1567), condenó los errores de B
 
 - [D‑1001–D‑1082]
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+Después del pecado, la conducta moral recta comporta esfuerzo: la natural ordenación a Dios es contrastada por el desorden causado por el pecado original y por los pecados actuales; este principio de desorden, llamado «concupiscencia» o «fomes peccati», se atribuye a la «carne» (Catecismo, n. 2515). Este desorden moral se manifiesta sobre todo en el inmoderado amor de sí mismo, en el deseo de autoafirmación y, especialmente, en cerrarse al querer de Dios, es decir, en el orgullo: lo peor de la concupiscencia se encuentra en el amor propio, que toma cuerpo en los diversos apetitos humanos (en el espiritual y en los sensitivos) e impulsa al pecado. San Pablo describe la tensión y la lucha que turba el corazón humano: «La carne tiene apetencias contrarias al espíritu, y el espíritu contrarias a la carne [...] de forma que no hacéis lo que quisierais» (Ga 5, 16-17). Ya en el hombre en cuanto ser compuesto existe una cierta tensión entre el «espíritu» y la «carne»; pero esta lucha pertenece a la herencia del pecado, del que es una consecuencia y, a la vez, una confirmación. Pablo no discrimina ni condena el cuerpo, que con el alma espiritual constituye la naturaleza del hombre y su subjetividad personal: «Si vivimos según el Espíritu, obremos también según el Espíritu» (Ga 5, 25) [Ele_Xto_Stos, Cap. III, §3c].
+
 ## Distinciones importantes
 
 - **Concupiscencia** ≠ **pecado**: la concupiscencia es inclinación al mal; el pecado es el acto de la voluntad que consiente en ella.
@@ -125,3 +129,4 @@ La concupiscencia es consecuencia del [[pecado_original]] y pérdida del don pre
 - SmTh Ia-IIae q.82 a.3
 - [7_Lamps, JPII La templanza — Audiencia general, 22-XI-1978]
 - SmTh Ia-IIae q.84 a.1
+- Ele_Xto_Stos, Cap. III, §3c

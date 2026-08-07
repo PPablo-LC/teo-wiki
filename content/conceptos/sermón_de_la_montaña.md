@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Sermón de la montaña
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-06-29
+timestamp: 2026-08-06
 description: "El sermón de la montaña es el discurso programático de Jesús recogido en los capítulos 5 al 7 del Evangelio de San Mateo, que contiene la promulgación de la Ley Nueva y las bienaventuranzas."
 ---
 # Sermón de la montaña
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-05-22
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -63,6 +63,10 @@ Cristo comienza su sermón ofreciendo a todos el ideal altísimo de las bienaven
 
 La Vida de Jesús (VJ) presenta el Sermón de la Montaña como «el mapa de nuestro camino al Cielo» (Cap. III). Es la Carta Magna del Cristianismo. En las breves frases del Sermón, Jesús propuso la clave de la nueva era que había venido a proclamar: el nuevo espíritu tiene que ser amable, generoso, sencillo y sincero. Los discípulos del nuevo reino deben buscar la felicidad también entre la pobreza, las lágrimas y la opresión. El Sermón traza el mapa del viaje hacia la verdadera felicidad. Las ocho Bienaventuranzas son las señales de tránsito. Es un camino cuesta arriba, pero Jesús lo ha caminado antes que nosotros. Quien le sigue no camina en la oscuridad.
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+Entre los muchos discursos morales de Jesús recogidos en los Evangelios, la tradición ha mostrado predilección por el «Sermón de la montaña», que tiene como núcleo «las bienaventuranzas». Estas, junto con el «mandamiento del amor» y la confirmación del «decálogo», se pueden considerar como el resumen del obrar moral cristiano (Mt 5, 48; St 1, 4; 1 P 1, 15-16) (Ele_Xto_Stos, Cap. III, §4a).
+
 ## Distinciones importantes
 
 - El sermón de la montaña no es solo un código moral, sino la revelación del rostro de Cristo
@@ -82,3 +86,4 @@ Se relaciona con [[bienaventuranzas]], [[ley_evangélica]], [[padre_nuestro]], [
 
 - CEC §1716-1729, §1965-1986, §2608
 - TPCr, Primera Parte, Cap. VII, n.56; Segunda Parte, Cap. V, n.137; Cap. VI, n.165
+- Ele_Xto_Stos, Cap. III, §4a

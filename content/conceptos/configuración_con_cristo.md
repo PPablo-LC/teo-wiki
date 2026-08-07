@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Configuración con Cristo
 tags: ["ascética", "dogmática"]
 
-timestamp: 2026-08-04
+timestamp: 2026-08-06
 description: "La configuración con Cristo es el proceso por el cual el cristiano, mediante la gracia, las virtudes y la imitación de Cristo, se asemeja progresivamente al Hijo de Dios hecho hombre."
 ---
 # Configuración con Cristo
 
 > Área: Ascética / Dogmática
-> Última actualización: 2026-08-04
+> Última actualización: 2026-08-06
 
 ## Definición
 
@@ -59,6 +59,8 @@ A la luz de la Revelación, el bien humano completo es asumido, purificado, elev
 Esta configuración implica una respuesta activa y creativa del cristiano: no se trata de una mera reacción pasiva a una petición divina de contenido preciso, sino de reconocer a Dios como origen y fundamento de todo bien y comprometerse obedientemente con todo lo que resulta bueno, tanto a la luz de la razón natural (ley moral natural) como a la luz de la fe (ley evangélica). La teología moral tiene la tarea de ayudar al cristiano a desarrollar este esfuerzo activo y creativo para alcanzar la unión con Cristo a través de su vida y acciones.
 
 [Ele_Xto_Stos, Cap. III]
+
+En el capítulo II la obra enlaza directamente la configuración con el seguimiento de Cristo: «Seguir a Cristo no es una imitación exterior, porque toca al hombre en su interioridad más profunda. Ser discípulo de Jesús significa configurarse con Él, que se hizo siervo hasta la entrega en la cruz (cf. Flp 2, 5-8). Por la fe, Cristo habita en el corazón del creyente (cf. Ef 3, 17), y así el discípulo se asimila a su Señor y se configura con Él. Este es el fruto de la gracia, de la presencia operante del Espíritu Santo en nosotros» (Ele_Xto_Stos, Cap. II, §4a). La configuración es así el resultado del seguimiento del discípulo: por la comunión de vida con Cristo, recibida por la gracia, el cristiano se hace progresivamente capaz de conocer y amar como Cristo, hasta poder decir con San Pablo: «Ya no vivo yo, sino que Cristo vive en mí» (Ga 2, 20).
 
 ## Distinciones importantes
 
