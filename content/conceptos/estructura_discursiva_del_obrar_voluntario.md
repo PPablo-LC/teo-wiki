@@ -43,7 +43,7 @@ Este análisis es estructural, no psicológico: individúa las modalidades de la
 
 ## Relaciones doctrinales
 
-[[intención]], [[elección]], [[deliberación]], [[consentimiento]], [[voluntas_intendens_y_voluntas_eligens]], [[fin_(sentido_restringido)]], [[voluntad]]
+[[intención]], [[elección]], [[deliberación]], [[consentimiento]], [[voluntas_intendens_y_voluntas_eligens]], [[fin]], [[voluntad]]
 
 ## Ver también
 

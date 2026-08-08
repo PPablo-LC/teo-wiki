@@ -39,11 +39,11 @@ La distinción entre fines y medios organiza los comportamientos morales complej
 
 ## Relaciones doctrinales
 
-[[fin_(sentido_restringido)]], [[bien_honesto]], [[bien_deleitable]], [[bien_finalizado]], [[objeto_indirecto_de_la_voluntad]], [[intención]], [[elección]], [[voluntad]]
+[[fin]], [[bien_honesto]], [[bien_deleitable]], [[bien_finalizado]], [[objeto_indirecto_de_la_voluntad]], [[intención]], [[elección]], [[voluntad]]
 
 ## Ver también
 
-[[fin_(sentido_restringido)]], [[bien_honesto]], [[bien_deleitable]], [[bien_finalizado]], [[objeto_indirecto_de_la_voluntad]]
+[[fin]], [[bien_honesto]], [[bien_deleitable]], [[bien_finalizado]], [[objeto_indirecto_de_la_voluntad]]
 
 ## Referencias
 

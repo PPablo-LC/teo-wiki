@@ -12,7 +12,7 @@ timestamp: 2026-08-06
 
 ## Definición
 
-Los actos imperados son actos voluntarios realizados inmediatamente por una facultad diferente de la [[voluntad]] bajo su influjo y moción, como leer un libro o golpear la mesa. La [[voluntad]] los impera, pero la ejecución corresponde a otra facultad operativa del sujeto.
+Los actos imperados son actos voluntarios realizados inmediatamente por una facultad diferente de la  bajo su influjo y moción, como leer un libro o golpear la mesa. La [[voluntad]] los impera, pero la ejecución corresponde a otra facultad operativa del sujeto.
 
 ## Desarrollo doctrinal
 
@@ -37,7 +37,7 @@ Santo Tomás llama actos internos a los elícitos y actos externos a los imperad
 
 ## Relaciones doctrinales
 
-Los [[actos_elícitos]] y los actos imperados son las dos modalidades de realización de la [[voluntariedad]]. Los actos imperados corresponden a los [[actos_humanos]] de las otras facultades en cuanto imperados o consentidos libremente por la [[voluntad]]. La descripción moral de la acción debe captar la [[intencionalidad_(libertad)|intencionalidad]] que anima al acto imperado, pues el objeto moral reside en el propósito deliberado que la acción encarna.
+Los [[actos_elícitos]] y los actos imperados son las dos modalidades de realización de la [[voluntariedad]]. Los actos imperados corresponden a los [[actos_humanos]] de las otras facultades en cuanto imperados o consentidos libremente por la [[voluntad]]. La descripción moral de la acción debe captar la [[intencionalidad]] que anima al acto imperado, pues el objeto moral reside en el propósito deliberado que la acción encarna.
 
 ## Ver también
 

@@ -73,6 +73,12 @@ Benedicto XVI desarrolla la relación entre la voluntad humana y la voluntad div
 
 **La voluntad de Dios como medicina.** Benedicto XVI comenta el «cáliz» de Getsemaní: Jesús no niega el dolor, sino que lo asume hasta el extremo. La voluntad de Dios no es un mal que se debe soportar, sino el camino de la salvación. «El Padre no quiere el mal, pero lo permite para un bien mayor». En la cruz, Jesús entrega su voluntad humana al Padre, cumpliendo así el designio eterno.
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+Como escribe San Cipriano, «la voluntad de Dios es la que Cristo cumplió y enseñó. Es la humildad en la conducta, la firmeza en la fe, el respeto en las palabras, la rectitud en las acciones, la misericordia en las obras, la moderación en las costumbres; es no hacer agravio a los demás y tolerar los que nos hacen a nosotros [...]; es mantenernos inseparablemente unidos a su amor, estar junto a su cruz con fortaleza y confianza [...] esto es querer ser coherederos de Cristo, esto es cumplir el precepto de Dios y la voluntad del Padre» (Ele_Xto_Stos, Cap. III, §4).
+
+El amor y la [[unión_con_cristo|unión con el Señor]], que conllevan el cumplimiento de su voluntad, se alimentan, en primer lugar, a través de un conjunto de comportamientos en relación con Dios, entre los que resaltan: la adoración; la [[oración]]; la aceptación de la [[cruz]] de Cristo; la acción de gracias; la petición; la docilidad; la conducta propia de un hijo de Dios que lleva a un confiado abandono en la divina providencia; la humildad; la penitencia por los pecados (Ele_Xto_Stos, Cap. III, §4).
+
 ## Relaciones doctrinales
 
 Se relaciona con la [[providencia]], la [[ley_divina]], la [[libertad_humana]], la [[oración]], la [[perfección_cristiana]], la [[conformidad_con_la_voluntad_de_dios]] y la [[indiferencia_ignaciana]].
@@ -85,3 +91,5 @@ Se relaciona con la [[providencia]], la [[ley_divina]], la [[libertad_humana]], 
 
 - CEC §2822-2827, 303-314, 1730-1737
 - TPCr, Parte II, Libro I (conformidad con la voluntad de Dios)
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. III, §4
+- San Cipriano, citado en Ele_Xto_Stos, Cap. III, §4

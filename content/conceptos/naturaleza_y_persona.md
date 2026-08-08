@@ -1,11 +1,11 @@
 ---
 type: Concepto Teológico
-title: "Naturaleza / persona (distinción rahneriana)"
+title: "Naturaleza y persona"
 tags: ["teología_moral", "antropología_teológica", "libertad"]
 timestamp: 2026-08-06
 description: "Rahner distingue al hombre como persona (disponer de la libertad sobre sí mismo) y como naturaleza (corporeidad vivificada); el libro rechaza la distinción."
 ---
-# Naturaleza / persona (distinción rahneriana)
+# Naturaleza y persona
 
 > Área: Moral / Antropología teológica
 > Última actualización: 2026-08-06

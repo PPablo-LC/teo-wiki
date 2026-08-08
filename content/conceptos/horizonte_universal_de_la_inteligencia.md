@@ -34,11 +34,11 @@ La valoración cognoscitiva de los bienes concretos no introduce necesidad en el
 
 ## Relaciones doctrinales
 
-Se relaciona con el [[libre_albedrío]], la [[razón_práctica]], la [[autodeterminación]], la [[intencionalidad_(libertad)]] y la [[libertad_humana]].
+Se relaciona con el [[libre_albedrío]], la [[razón_práctica]], la [[autodeterminación]], la [[intencionalidad]] y la [[libertad_humana]].
 
 ## Ver también
 
-[[libre_albedrío]], [[razón_práctica]], [[autodeterminación]], [[intencionalidad_(libertad)]], [[libertad_humana]]
+[[libre_albedrío]], [[razón_práctica]], [[autodeterminación]], [[intencionalidad]], [[libertad_humana]]
 
 ## Referencias
 

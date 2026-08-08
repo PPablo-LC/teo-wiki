@@ -33,6 +33,12 @@ Santo Tomás trata la justicia y la misericordia de Dios en SmTh Iª q.21, con c
 
 **a.4 — En toda obra de Dios hay justicia y misericordia:** La obra de la justicia presupone la de la misericordia y se funda en ella. Pues a la criatura no se le debe nada sino por algo previo, y ese algo previo depende en último término de la sola bondad divina. Así, la misericordia es la raíz de toda obra divina: incluso en la condenación hay misericordia (el castigo es menor de lo merecido), y en la justificación hay justicia (se quita la culpa por amor).
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La cooperación de la voluntad humana en la justicia de Dios: la justicia de Dios existe sin la voluntad humana, pero no puede existir en el hombre sin ella. Se puede afirmar en términos generales que toda iniciativa de Dios en relación al ser humano exige la respuesta libre del hombre. Incluso la santidad inicial supone ya una primera y fundamental respuesta: la libre acogida de la justicia de Dios por medio de la fe en Jesucristo, en la cual se realiza la [[justificación]] (Ele_Xto_Stos, Cap. III, §2).
+
+La fe, a la que sigue la caridad y el deseo de llegar a la plena comunión con Dios (esperanza), debe fortalecerse cada día: ni siquiera la santidad inicial puede considerarse una realidad indefectible. Como escribe San Agustín: «Todo procede de Dios; pero no permaneciendo nosotros como somnolientos, como reacios a todo esfuerzo, casi contra voluntad. Sin tu voluntad, en ti no se hallará la justicia de Dios. [...] Quien te creó sin ti, no te justificará sin ti». Del hombre depende la continua correspondencia al don divino, que se manifiesta en la decisión siempre actual de vivir ante todo como santo en Cristo. Este deseo se realiza según dos líneas: alejar cuanto nos aleja del Señor y practicar cuanto nos acerca a Él (Ele_Xto_Stos, Cap. III, §2).
+
 ## Distinciones importantes
 
 - **Justicia conmutativa vs. justicia distributiva**: la primera no se da en Dios (nadie le da nada); la segunda sí (da a cada uno según su dignidad).
@@ -40,10 +46,11 @@ Santo Tomás trata la justicia y la misericordia de Dios en SmTh Iª q.21, con c
 - **Justicia de Dios como don**: la justificación del pecador por la fe (sentido paulino).
 - **Justicia y verdad en Dios**: son realmente idénticas; la justicia divina es llamada verdad porque las cosas se adecúan a la sabiduría divina que es su ley.
 - **Justicia y misericordia**: no se oponen; la misericordia es la plenitud de la justicia y la presupone como su raíz.
+- **Justicia de Dios en sí vs. en el hombre**: la justicia de Dios existe sin la voluntad humana, pero no puede existir en el hombre sin ella; la voluntad humana es condición de su recepción.
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[justificación]], la [[misericordia_divina]], la [[ira_de_dios]], la [[fe]], la [[gracia]], la [[redención]], el [[juicio_final]] y la [[fidelidad_de_dios]].
+Se relaciona con la [[justificación]], la [[misericordia_divina]], la [[ira_de_dios]], la [[fe]], la [[gracia]], la [[redención]], el [[juicio_final]], la [[fidelidad_de_dios]], la [[santidad_cristiana]] y la [[correspondencia_al_don_divino]].
 
 ## Ver también
 
@@ -55,3 +62,5 @@ Se relaciona con la [[justificación]], la [[misericordia_divina]], la [[ira_de_
 - CEC §2542: la justicia de Dios
 - CEC §1996: la justificación
 - SmTh Iª q.21 (La justicia y misericordia de Dios)
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. III, §2
+- San Agustín, citado en Ele_Xto_Stos, Cap. III, §2

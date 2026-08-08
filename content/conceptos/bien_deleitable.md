@@ -34,11 +34,11 @@ Se distingue del bien honesto, querido en sí mismo por ser objetivamente bueno 
 
 ## Relaciones doctrinales
 
-[[objeto_directo_de_la_voluntad]], [[bien_honesto]], [[bien_finalizado]], [[fin_(sentido_restringido)]], [[voluntad]]
+[[objeto_directo_de_la_voluntad]], [[bien_honesto]], [[bien_finalizado]], [[fin]], [[voluntad]]
 
 ## Ver también
 
-[[bien_honesto]], [[bien_finalizado]], [[fin_(sentido_restringido)]], [[objeto_directo_de_la_voluntad]]
+[[bien_honesto]], [[bien_finalizado]], [[fin]], [[objeto_directo_de_la_voluntad]]
 
 ## Referencias
 

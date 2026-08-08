@@ -47,6 +47,12 @@ GS 17: «La verdadera libertad es signo eminente de la imagen divina en el hombr
 
 GS 31: «La libertad humana con frecuencia se debilita cuando el hombre cae en extrema necesidad, de la misma manera que se envilece cuando el hombre, satisfecho por una vida demasiado fácil, se encierra como en una dorada soledad. Por el contrario, la libertad se vigoriza cuando el hombre acepta las inevitables obligaciones de la vida social.»
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La ética filosófica, y lo mismo vale para la teología moral, presupone la realidad de la libertad humana. Si no tuviésemos la real posibilidad psicológica de decidir libremente entre bien y mal, no existiría la conducta humana, ni se nos podría imputar responsabilidad alguna, ni tendría sentido la alabanza o el reproche. La existencia de múltiples factores que condicionan el actuar humano no comporta una objeción esencial a la realidad de la libertad, siempre que dejen cierto margen para la decisión autónoma última; nadie ha conseguido demostrar rigurosamente que tal margen no exista (Ele_Xto_Stos, Cap. IV, §2).
+
+La libertad humana es una realidad profunda, poliédrica y, en cierto sentido, misteriosa. Considerando la expresión «debemos tener la libertad para ser libres de ser libres», el concepto de libertad se usa con tres significados diferentes: «debemos tener la libertad» (ausencia de restricciones o de coacción), «para ser libres» ([[libre_albedrío|libertad de elección]], capacidad de elegir autónomamente) y «de ser libres» (una condición de la persona que se alcanza a través de la elección, cualidad de orden genuinamente ético) (Ele_Xto_Stos, Cap. IV, §2).
+
 ### Según Memoria e Identidad (MI)
 
 Juan Pablo II sitúa la libertad como el tema central de la reflexión moral tras la caída de los sistemas totalitarios. «Después de la caída de los sistemas totalitarios, las sociedades se sintieron libres, pero casi simultáneamente surgió un problema de fondo: el del uso de la libertad» [MI, cap. 7].
@@ -61,16 +67,15 @@ La libertad es «una categoría ética» que se realiza por medio de la verdad. 
 
 - [[jeff_lacour_true_freedom_through_prayer]]
 
-
-- [CEC §1730-1748]
-- [GS 17]
-- [Santo Tomás, S.Th. I, q. 83; I-II, q. 13]
-
 ## Analizado en contexto cultural
 
 - [[computer_power_and_human_reason]] — convergencia en la defensa de la libertad humana frente a la tiranía de los sistemas tecnológicos y en la distinción entre *decidir* y *elegir*; el análisis permanece en el plano filosófico sin alcanzar la dimensión sobrenatural de la libertad (CEC §1741-1742).
 
 ## Ver también
-[[actos_humanos]], [[conciencia_moral]], [[ley_natural]], [[gracia_santificante]], [[pecado]], [[virtudes]]
+[[actos_humanos]], [[conciencia_moral]], [[ley_natural]], [[gracia_santificante]], [[pecado]], [[virtudes]], [[libre_albedrío]], [[libertad-de]], [[libertad-para]]
 
 ## Referencias
+
+- CEC §1730-1748
+- GS 17
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. IV, §2

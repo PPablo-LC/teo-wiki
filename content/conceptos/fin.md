@@ -1,11 +1,11 @@
 ---
 type: Concepto Teológico
-title: "Fin (sentido restringido)"
+title: "Fin"
 description: "Bien deseable en sí mismo, querido y realizado por sí mismo; aquello que interesa en sí mismo y es principio de actuación de la voluntad."
 tags: ["teología_moral", "antropología", "fin"]
 timestamp: 2026-08-06
 ---
-# Fin (sentido restringido)
+# Fin
 
 > Área: Teología moral
 > Última actualización: 2026-08-06

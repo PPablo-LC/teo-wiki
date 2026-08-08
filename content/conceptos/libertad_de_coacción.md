@@ -1,11 +1,11 @@
 ---
 type: Concepto Teológico
-title: "Libertad de coacción (restricción)"
+title: "Libertad de coacción"
 tags: ["teología_moral", "libertad"]
 timestamp: 2026-08-06
 description: "La libertad de coacción o de restricción, condición del sujeto no obligado ni impedido por agentes externos; esclavo y prisionero, Hobbes, Locke, Hume, Voltaire y Leibniz."
 ---
-# Libertad de coacción (restricción)
+# Libertad de coacción
 
 > Área: Moral
 > Última actualización: 2026-08-06

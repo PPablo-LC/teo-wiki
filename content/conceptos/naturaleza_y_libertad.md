@@ -39,11 +39,11 @@ La distinción entre naturaleza y libertad no puede entenderse como distinción 
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[naturaleza_humana]], la [[libertad_humana]], el [[libre_albedrío]], la [[voluntas_ut_natura]], la [[voluntas_ut_ratio]], la [[ratio_naturalis]], la [[voluntad]], la [[inteligencia]], la [[naturaleza_y_gracia]] y la [[naturaleza_y_persona_(distinción_rahneriana)|distinción naturaleza/persona]].
+Se relaciona con la [[naturaleza_humana]], la [[libertad_humana]], el [[libre_albedrío]], la [[voluntas_ut_natura]], la [[voluntas_ut_ratio]], la [[ratio_naturalis]], la [[voluntad]], la [[inteligencia]], la [[naturaleza_y_gracia]] y la [[naturaleza_y_persona|distinción naturaleza/persona]].
 
 ## Ver también
 
-[[naturaleza_humana]], [[libertad_humana]], [[voluntas_ut_natura]], [[voluntas_ut_ratio]], [[ratio_naturalis]], [[naturaleza_y_persona_(distinción_rahneriana)]]
+[[naturaleza_humana]], [[libertad_humana]], [[voluntas_ut_natura]], [[voluntas_ut_ratio]], [[ratio_naturalis]], [[naturaleza_y_persona]]
 
 ## Referencias
 

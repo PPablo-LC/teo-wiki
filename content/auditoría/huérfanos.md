@@ -7,9 +7,9 @@ description: "Registro de wikilinks sin artículo propio en el wiki. 2026-08-06:
 # Auditoría de wikilinks huérfanos
 
 > Generado originalmente: 2026-06-19
-> Última actualización: **2026-08-06 — Cap. VII de Elegidos en Cristo** (ver Notas de sesión)
-> Total de wikilinks huérfanos registrados: **1513** (pendientes de artículo; detector 2026-08-06, excluido el falso positivo `[[concepto]]`; 4 nuevos sembrados por el procesamiento del Cap. VII)
-> Resueltos: 35+29+11+14+19+6 (6 en 2026-07-15/16 — ver sección final; 26 por re-auditoría 2026-08-01; 3 por BMV 2026-08-03; 29 por alta densidad 2026-08-03; 11 por alta densidad 2ª tanda 2026-08-03; 14 por alta densidad 3ª tanda 2026-08-03, neto −11; 19 por alta densidad 4ª tanda 2026-08-04; 6 por limpieza de paréntesis 2026-08-04, neto −5 por el re-sembrado de `[[respuesta_divina]]`)
+> Última actualización: **2026-08-08 — Normalización de nombres con paréntesis** (ver Notas de sesión)
+> Total de wikilinks huérfanos registrados: **1512** (pendientes de artículo; detector 2026-08-08, excluido el falso positivo `[[concepto]]`; 4 nuevos sembrados por el procesamiento del Cap. VII; 1 resuelto por normalización de nombres con paréntesis 2026-08-08)
+> Resueltos: 35+29+11+14+19+6+1 (6 en 2026-07-15/16 — ver sección final; 26 por re-auditoría 2026-08-01; 3 por BMV 2026-08-03; 29 por alta densidad 2026-08-03; 11 por alta densidad 2ª tanda 2026-08-03; 14 por alta densidad 3ª tanda 2026-08-03, neto −11; 19 por alta densidad 4ª tanda 2026-08-04; 6 por limpieza de paréntesis 2026-08-04, neto −5 por el re-sembrado de `[[respuesta_divina]]`; 1 por normalización de nombres con paréntesis 2026-08-08)
 
 ## Metodología
 
@@ -923,8 +923,7 @@ los de mayor densidad son candidatos prioritarios a artículo propio.
 | 885 | `[[institutos_seculares]]` | 1 | Biblia (86) |
 | 886 | `[[integridad_corporal]]` | 1 | Miscelánea (1249) |
 | 887 | `[[integridad_perfecta]]` | 1 | Miscelánea (1249) |
-| 888 | `[[intencionalidad]]` | 1 | Miscelánea (1249) |
-| 889 | `[[intencionalidad_de_la_existencia]]` | 1 | Miscelánea (1249) |
+| 888 | `[[intencionalidad_de_la_existencia]]` | 1 | Miscelánea (1249) |
 | 890 | `[[intensidad_subjetiva]]` | 1 | Miscelánea (1249) |
 | 891 | `[[interpretacion_biblica]]` | 1 | Miscelánea (1249) |
 | 892 | `[[interpretacion_de_lenguas]]` | 1 | Miscelánea (1249) |
@@ -2022,3 +2021,15 @@ acto de la razón) y una expresión de la prudencia.
 
 Los tres primeros son candidatos a un único artículo sobre las especies de
 la imprudencia; `[[recta_razón]]` podría resolverse enlazando a `[[prudencia]]`.
+
+## Normalización de nombres con paréntesis (2026-08-08)
+
+Resueltos al renombrar a filenames planos los artículos de `wiki/conceptos/`
+con paréntesis (convención: ni `/` ni `()`). `intencionalidad.md` pasó a
+existir como artículo propio, resolviendo el huérfano sembrado antes.
+
+**Resueltos (1):**
+
+| Wikilink | Referencias | Nota |
+|----------|-------------|------|
+| `[[intencionalidad]]` | 1 | Creado `intencionalidad.md` (antes `intencionalidad_(libertad).md`) |

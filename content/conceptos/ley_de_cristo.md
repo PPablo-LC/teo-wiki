@@ -43,6 +43,8 @@ La teología moral presenta la ley de Cristo (lex nova) como solución teológic
 
 Solo la ley de Cristo (lex nova), que consiste primariamente en la gracia del Espíritu Santo, puede hacer al hombre perfectamente virtuoso (Ele_Xto_Stos, Cap. VII, §4c).
 
+La ley de Cristo es la ley de la libertad y del amor: quien ha sido liberado por Cristo es al mismo tiempo siervo de Cristo, sometido a esa ley. La [[libertad_cristiana]] se manifiesta como liberación del propio egoísmo y, por tanto, como disponibilidad para el servicio de Dios, de la justicia y del prójimo. No queda espacio para la oposición dialéctica entre libertad y «ley de Cristo» (o «ley del Espíritu»), perspectiva completamente ajena a la antropología cristiana (Ele_Xto_Stos, Cap. IV, §3b).
+
 ## Distinciones importantes
 
 - **Ley de Cristo** (libertad en el Espíritu, amor) ≠ **ley mosaica** (ordenamiento jurídico concreto para Israel)
@@ -64,4 +66,4 @@ Se relaciona con [[ley_mosaica]], [[libertad_cristiana]], [[bienaventuranzas]], 
 - Mt 5, 17-20
 - CEC §1965-1974
 - JdN_I, cap. 2: «La Torá del Mesías»
-- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §4c
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §4c; Cap. IV, §3b

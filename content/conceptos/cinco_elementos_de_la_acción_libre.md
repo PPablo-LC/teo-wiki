@@ -24,7 +24,7 @@ Este quinto elemento cierra el círculo y pasa a ser en realidad el primer eleme
 
 ### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
-En este proceso es posible distinguir analíticamente cinco elementos fundamentales: 1) las inclinaciones y las tendencias, que se llaman genéricamente deseo, en el sentido de deseo no deliberado, previo a la libre elección; 2) la percepción de la presencia o ausencia de bienes a los que propende el deseo humano; 3) las reacciones afectivas (sentimientos, emociones, pasiones) que siguen a la percepción; 4) los actos humanos o actos libres, gobernados por la inteligencia y la voluntad, a través de los que la persona se conduce a sí misma (conducta) para realizar el tipo de vida que ha elegido; 5) los [[hábitos_morales_(infusos_y_adquiridos)]], principal expresión de la [[libertad_humana]], mediante los cuales la libertad modifica, para bien o para mal, la propia estructura operativa [Ele_Xto_Stos, Cap. IV, §1].
+En este proceso es posible distinguir analíticamente cinco elementos fundamentales: 1) las inclinaciones y las tendencias, que se llaman genéricamente deseo, en el sentido de deseo no deliberado, previo a la libre elección; 2) la percepción de la presencia o ausencia de bienes a los que propende el deseo humano; 3) las reacciones afectivas (sentimientos, emociones, pasiones) que siguen a la percepción; 4) los actos humanos o actos libres, gobernados por la inteligencia y la voluntad, a través de los que la persona se conduce a sí misma (conducta) para realizar el tipo de vida que ha elegido; 5) los [[hábito]], principal expresión de la [[libertad_humana]], mediante los cuales la libertad modifica, para bien o para mal, la propia estructura operativa [Ele_Xto_Stos, Cap. IV, §1].
 
 Este quinto elemento cierra el círculo y pasa a ser en realidad el primer elemento de la serie, ya que en la vida real las inclinaciones y tendencias no se encuentran en estado puro: han sido modificadas por los hábitos morales, es decir, por la conducta ética y la correspondencia a la acción santificadora del Espíritu Santo. Los tres primeros elementos se estudian en el capítulo V; los dos últimos, en los capítulos VI (la acción moral) y VII (los hábitos morales) [Ele_Xto_Stos, Cap. IV, §1].
 
@@ -35,11 +35,11 @@ Este quinto elemento cierra el círculo y pasa a ser en realidad el primer eleme
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[libertad_humana]], el [[libre_albedrío]], el [[hábito]], los [[hábitos_morales_(infusos_y_adquiridos)]] y la [[ética_de_la_virtud]].
+Se relaciona con la [[libertad_humana]], el [[libre_albedrío]], el [[hábito]] y la [[ética_de_la_virtud]].
 
 ## Ver también
 
-[[libertad_humana]], [[libre_albedrío]], [[hábito]], [[hábitos_morales_(infusos_y_adquiridos)]], [[ética_de_la_virtud]]
+[[libertad_humana]], [[libre_albedrío]], [[hábito]], [[ética_de_la_virtud]]
 
 ## Referencias
 

@@ -1,11 +1,11 @@
 ---
 type: Concepto Teológico
-title: "Intencionalidad (libertad)"
+title: "Intencionalidad"
 tags: ["teología_moral", "libertad"]
 timestamp: 2026-08-06
 description: "Dimensión derivada de la libertad: apertura de la voluntad hacia su objeto, que no determina necesariamente el acto voluntario."
 ---
-# Intencionalidad (libertad)
+# Intencionalidad
 
 > Área: Moral
 > Última actualización: 2026-08-06

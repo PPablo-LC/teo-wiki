@@ -33,7 +33,7 @@ La malicia de los hombres ha hecho que el pecado posea una dimensión universal 
 
 ## Relaciones doctrinales
 
-Se relaciona con [[pecado_original]], [[pecado]], [[nuevo_adán]], [[muerte]], [[redención]], [[jesucristo]], [[poder_del_pecado_(hamartía)]].
+Se relaciona con [[pecado_original]], [[pecado]], [[nuevo_adán]], [[muerte]], [[redención]], [[jesucristo]], [[poder_del_pecado]].
 
 ## Ver también
 

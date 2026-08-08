@@ -64,6 +64,14 @@ Las páginas del Génesis que describen la creación del hombre y de la mujer a 
 
 Royo Marín distingue tres niveles de imagen de Dios: las criaturas irracionales tienen una simple semejanza o vestigio; las criaturas racionales, dotadas de inteligencia, se llaman imagen natural de Dios; las almas en gracia, unidas a Dios por amor de amistad, son propiamente imagen sobrenatural de Dios (TPCr, Segunda Parte, Cap. I, Art. 1). Esta imagen sobrenatural exige una verdadera participación física y formal de la naturaleza misma de Dios, que es la [[gracia_santificante]].
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+«La verdadera libertad es signo eminente de la imagen divina en el hombre» (GS, n. 17) [Ele_Xto_Stos, Cap. IV, §3a]. Esta tesis característica de la antropología cristiana resalta la trascendencia del hombre sobre el mundo material: «En su interioridad, el hombre es superior al universo entero; retorna a esta profunda interioridad cuando vuelve a su corazón, donde Dios, que escruta los corazones, le aguarda y donde él mismo, bajo los ojos de Dios, decide sobre su propio destino» (GS, n. 14) [Ele_Xto_Stos, Cap. IV, §3a].
+
+En el plano natural, la [[libertad_humana]] es el don más grande que Dios ha concedido a los hombres. Su valor consiste en que solo ella hace posible la libre afirmación del bien porque es bien, y por tanto el amor a Dios en cuanto bien sumo. Sin libertad no sería posible la unión con Dios a través del [[amor]] ni la bienaventuranza eterna del hombre. «Quiso Dios dejar al hombre "en manos de su propia decisión" (cfr. Si 15, 14), de modo que busque sin coacciones a su Creador y, adhiriéndose a Él, llegue libremente a la plena y feliz perfección. La dignidad del hombre requiere, en efecto, que actúe según una elección consciente y libre, es decir, movido e inducido personalmente desde dentro y no bajo la presión de un ciego impulso interior o de la mera coacción externa» (Veritatis splendor, n. 34) [Ele_Xto_Stos, Cap. IV, §3a].
+
+«El hombre logra esta dignidad cuando, liberándose totalmente de toda esclavitud de las pasiones, persigue su fin en la libre elección del bien [...]. La libertad del hombre, herida por el pecado, solo puede hacer plenamente activa esta ordenación a Dios con la ayuda de la gracia de Dios» (GS, n. 17) [Ele_Xto_Stos, Cap. IV, §3a].
+
 ### Según los Ejercicios Espirituales 2026 a la Curia Romana (EjEsp2026)
 
 Mons. Erik Varden desarrolla la imagen de Dios en el capítulo 7, siguiendo a San Agustín y San Bernardo. La imagen de Dios nunca se pierde del todo en el ser humano; puede quedar sepultada bajo capas de oscuridad, pero siempre puede ser rescatada y hecha resplandeciente.
@@ -108,7 +116,7 @@ La vocación cristiana, participando en la misión real de Cristo, consiste en l
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[creación]] del hombre, el [[pecado_original]] que la desfigura, la [[redención]] que la restaura, la [[gracia_santificante]] que la perfecciona sobrenaturalmente, y la [[configuración_con_cristo]] que la lleva a su plenitud escatológica.
+Se relaciona con la [[creación]] del hombre, el [[pecado_original]] que la desfigura, la [[redención]] que la restaura, la [[gracia_santificante]] que la perfecciona sobrenaturalmente, la [[libertad_humana]] como signo eminente de la imagen divina, y la [[configuración_con_cristo]] que la lleva a su plenitud escatológica.
 
 
 ## Analizado para
@@ -133,3 +141,6 @@ Se relaciona con la [[creación]] del hombre, el [[pecado_original]] que la desf
 - [TdC 14.11.1979]
 - [TdC 14.05.1980]
 - [RH §8-9, §13, §21]
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. IV, §3a
+- GS, n. 14 y n. 17, citado en Ele_Xto_Stos, Cap. IV, §3a
+- Veritatis splendor, n. 34, citado en Ele_Xto_Stos, Cap. IV, §3a

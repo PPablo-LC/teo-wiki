@@ -36,7 +36,7 @@ Desde principios del siglo V los escritores cristianos —como ya habían hecho 
 
 ## Relaciones doctrinales
 
-Se relaciona con [[siete_vicios_capitales]], [[pecados_capitales]], [[vicio]], [[virtud]], [[pecado]], [[hábitos_morales_(infusos_y_adquiridos)]], [[ascética]].
+Se relaciona con [[siete_vicios_capitales]], [[pecados_capitales]], [[vicio]], [[virtud]], [[pecado]], [[hábito]], [[ascética]].
 
 ## Ver también
 

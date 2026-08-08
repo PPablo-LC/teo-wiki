@@ -36,11 +36,11 @@ Ya San Pablo advertía que la libertad cristiana no es ni puede ser "un pretexto
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[ley_nueva]], la [[ley_de_libertad]], la [[ley_de_cristo_(ley_de_libertad)]], la [[ley_de_cristo]], el [[espíritu_santo]], la [[libertad_cristiana]], la [[vida_según_el_espíritu]] y la [[caridad]].
+Se relaciona con la [[ley_nueva]], la [[ley_de_libertad]], la [[ley_de_cristo]], el [[espíritu_santo]], la [[libertad_cristiana]], la [[vida_según_el_espíritu]] y la [[caridad]].
 
 ## Ver también
 
-[[ley_nueva]], [[ley_de_libertad]], [[ley_de_cristo_(ley_de_libertad)]], [[espíritu_santo]], [[libertad_cristiana]]
+[[ley_nueva]], [[ley_de_libertad]], [[ley_de_cristo]], [[espíritu_santo]], [[libertad_cristiana]]
 
 ## Referencias
 

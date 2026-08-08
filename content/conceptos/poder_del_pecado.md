@@ -1,11 +1,11 @@
 ---
 type: Concepto Teológico
-title: "Poder del pecado (hamartía)"
+title: "Poder del pecado"
 tags: ["teología_moral", "doctrina_del_pecado", "pecado"]
 timestamp: 2026-08-06
 description: "El pecado como poder personificado (hamartía) que reduce a esclavitud a la humanidad, más fuerte que la ley de Moisés y la sabiduría pagana."
 ---
-# Poder del pecado (hamartía)
+# Poder del pecado
 
 > Área: Moral / Doctrina del pecado
 > Última actualización: 2026-08-06

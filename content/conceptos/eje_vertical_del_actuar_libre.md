@@ -33,11 +33,11 @@ La [[libertad_humana]] es una realidad espiritual, pero no la opción pura de un
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[libertad_humana]], la [[gracia_santificante]] y los [[hábitos_morales_(infusos_y_adquiridos)]].
+Se relaciona con la [[libertad_humana]], la [[gracia_santificante]] y los [[hábito]].
 
 ## Ver también
 
-[[libertad_humana]], [[gracia_santificante]], [[hábitos_morales_(infusos_y_adquiridos)]]
+[[libertad_humana]], [[gracia_santificante]], [[hábito]]
 
 ## Referencias
 

@@ -58,6 +58,9 @@ La virtud puede definirse como hábito operativo bueno. Un hábito operativo es 
 
 Las virtudes, en cuanto hábitos operativos, se distinguen de los hábitos entitativos, que disponen bien o mal la naturaleza del hombre y no directamente las facultades: la gracia santificante es un hábito entitativo sobrenatural, infundido por Dios, que eleva la naturaleza humana convirtiéndola en principio mediato de las acciones propias del hijo de Dios (Ele_Xto_Stos, Cap. VII, §2a).
 
+En el proceso de la acción libre, los hábitos morales son el quinto elemento: principal expresión de la [[libertad_humana|libertad personal]], mediante los cuales la libertad modifica, para bien o para mal, la propia estructura operativa. Este quinto elemento cierra el círculo y pasa a ser en realidad el primer elemento de la serie, ya que en la vida real las inclinaciones y tendencias no se encuentran en estado puro: han sido modificadas por los hábitos morales, es decir, por la conducta ética y la correspondencia a la acción santificadora del Espíritu Santo (Ele_Xto_Stos, Cap. IV, §1).
+
+Junto a los hábitos adquiridos, la antropología moral cristiana debe estudiar los hábitos infusos (las [[virtudes_morales_infusas]] y los [[dones_del_espíritu_santo]]), por los que el Espíritu Santo guía al cristiano hacia la vida de los hijos de Dios. Los hábitos infusos son dones que no proceden de la propia iniciativa, sino de la gracia del Espíritu Santo (Ele_Xto_Stos, Cap. IV, §1).
 
 ## Distinciones importantes
 
@@ -89,4 +92,4 @@ Se relaciona con la [[gracia_santificante]], las [[virtudes_infusas]], las [[vir
 - [CEC §1804]
 - [CEC §1833]
 - [TPCr, Parte 2, Organismo sobrenatural]
-- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §2a
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §2a; Cap. IV, §1

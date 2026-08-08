@@ -35,11 +35,11 @@ La existencia de múltiples factores que condicionan el actuar humano no comport
 
 ## Relaciones doctrinales
 
-Se relaciona con la [[libertad_humana]], el [[libre_albedrío]] y la [[libertad_de_coacción_(restricción)]].
+Se relaciona con la [[libertad_humana]], el [[libre_albedrío]] y la [[libertad_de_coacción]].
 
 ## Ver también
 
-[[libertad_humana]], [[libre_albedrío]], [[libertad_de_coacción_(restricción)]]
+[[libertad_humana]], [[libre_albedrío]], [[libertad_de_coacción]]
 
 ## Referencias
 

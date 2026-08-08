@@ -46,11 +46,11 @@ La intención y la elección pueden realizarse por separado (el estudiante decid
 
 ## Relaciones doctrinales
 
-[[intención]], [[elección]], [[objeto_directo_de_la_voluntad]], [[fin_(sentido_restringido)]], [[rectitud_de_intención]], [[moralidad_de_los_actos]], [[voluntas_intendens_y_voluntas_eligens]]
+[[intención]], [[elección]], [[objeto_directo_de_la_voluntad]], [[fin]], [[rectitud_de_intención]], [[moralidad_de_los_actos]], [[voluntas_intendens_y_voluntas_eligens]]
 
 ## Ver también
 
-[[intención]], [[elección]], [[fin_(sentido_restringido)]], [[objeto_directo_de_la_voluntad]], [[rectitud_de_intención]]
+[[intención]], [[elección]], [[fin]], [[objeto_directo_de_la_voluntad]], [[rectitud_de_intención]]
 
 ## Referencias
 

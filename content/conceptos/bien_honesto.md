@@ -34,11 +34,11 @@ Su carácter es objetivo: la bondad que lo hace querible no depende de la resona
 
 ## Relaciones doctrinales
 
-[[objeto_directo_de_la_voluntad]], [[bien_deleitable]], [[bien_finalizado]], [[fin_(sentido_restringido)]], [[voluntad]]
+[[objeto_directo_de_la_voluntad]], [[bien_deleitable]], [[bien_finalizado]], [[fin]], [[voluntad]]
 
 ## Ver también
 
-[[bien_deleitable]], [[bien_finalizado]], [[fin_(sentido_restringido)]], [[objeto_directo_de_la_voluntad]]
+[[bien_deleitable]], [[bien_finalizado]], [[fin]], [[objeto_directo_de_la_voluntad]]
 
 ## Referencias
 
