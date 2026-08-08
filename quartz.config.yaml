@@ -3,7 +3,7 @@ configuration:
   pageTitle: Quartz 5
   pageTitleSuffix: ""
   enableSPA: true
-  enablePopovers: true
+  enablePopovers: false
   analytics:
     provider: plausible
   locale: en-US
@@ -140,7 +140,7 @@ plugins:
   - source: github:quartz-community/favicon
     enabled: true
   - source: github:quartz-community/og-image
-    enabled: true
+    enabled: false
   - source: github:quartz-community/cname
     enabled: true
   - source: github:quartz-community/canvas-page
@@ -150,14 +150,14 @@ plugins:
   - source: github:quartz-community/folder-page
     enabled: true
   - source: github:quartz-community/tag-page
-    enabled: true
+    enabled: false
   - source: github:quartz-community/explorer
     enabled: true
     layout:
       position: left
       priority: 50
   - source: github:quartz-community/graph
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10
@@ -249,7 +249,6 @@ plugins:
       includeAll: false
       includedProperties:
         - description
-        - tags
         - aliases
       excludedProperties: []
       hidePropertiesView: false

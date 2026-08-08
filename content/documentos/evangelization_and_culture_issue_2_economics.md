@@ -1,6 +1,6 @@
 ---
 type: Documento
-title: Evangelization & Culture — Issue 2: Economics
+title: "Evangelization & Culture — Issue 2: Economics"
 description: "Segundo número de la revista del Word on Fire Institute (Winter 2019), dedicado a la economía desde la perspectiva de la doctrina social católica."
 timestamp: 2026-08-08
 tags:

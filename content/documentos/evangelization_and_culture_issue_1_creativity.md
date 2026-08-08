@@ -1,6 +1,6 @@
 ---
 type: Documento
-title: Evangelization & Culture — Issue 1: Creativity
+title: "Evangelization & Culture — Issue 1: Creativity"
 description: "Primer número de la revista del Word on Fire Institute (2019), dedicado a la creatividad como don divino y herramienta evangelizadora."
 timestamp: 2026-08-08
 tags:

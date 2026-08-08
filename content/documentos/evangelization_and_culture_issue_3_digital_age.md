@@ -1,6 +1,6 @@
 ---
 type: Documento
-title: Evangelization & Culture — Issue 3: The Digital Age
+title: "Evangelization & Culture — Issue 3: The Digital Age"
 description: "Tercer número de la revista del Word on Fire Institute (Spring 2020), dedicado a la evangelización en la era digital."
 timestamp: 2026-08-08
 tags:
