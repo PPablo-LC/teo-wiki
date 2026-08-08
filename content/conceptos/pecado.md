@@ -114,6 +114,8 @@ Las causas principales que incitan al pecado son tres: el mundo con sus criterio
 
 En el anuncio cristiano el pecado no es un tema primario, sino indirecto y reflejo: en la arcaica formulación de fe de la Primera Carta a los Corintios —«Cristo murió por nuestros pecados, según las Escrituras; fue sepultado y resucitó al tercer día» (1 Co 15, 3-5)— la mención de los pecados se pone en segundo lugar, en función del hecho de que Cristo ha muerto por ellos: la confesión de fe es cristológica. Esta consideración, lejos de desvirtuar la importancia del pecado, la subraya colocándola en su justa perspectiva. El que vive en Cristo está muerto al pecado: «consideraos muertos al pecado, pero vivos para Dios en Cristo Jesús. Por lo tanto, que no reine el pecado en vuestro cuerpo mortal» (Rm 6, 11-12). Entre la vida del hombre en Cristo y el pecado existe una total incompatibilidad: el pecado se opone a la santidad de Dios y a la vida en Cristo, supone un «no» del hombre a la llamada divina, es el alejamiento de Dios que en Cristo se ha acercado y se acerca a nosotros [Ele_Xto_Stos, Cap. III, §3a].
 
+San Agustín elabora un cuerpo de doctrina sobre el pecado que, en sus trazos fundamentales, perdura todavía. Profundizando las enseñanzas de la Sagrada Escritura y la praxis de la Iglesia, y teniendo en cuenta la propia experiencia pecadora y su lucha contra los maniqueos, muestra la psicología de la culpa distinguiendo entre sugestión, delectación y consentimiento, y afirma que el pecado proviene de la libre voluntad desordenada cuando pierde el bien y la rectitud moral debida. Desarrolla la doctrina del pecado como [[aversio_a_deo]] (separación de Dios) y [[conversio_ad_creaturas]] (tendencia desordenada hacia los bienes terrenos): el hombre está ordenado al Bien absoluto, al cual se puede unir también a través de las criaturas; cuando, movido por el amor propio, busca la satisfacción en los bienes finitos contra la voluntad de Dios, contraría la ley divina y se separa de Dios, a la vez que produce un desorden en la vida eclesial y social. En armonía con la Biblia, Agustín enlaza la doctrina sobre el pecado con la fe en la redención realizada por Jesús, la posibilidad de recibir el perdón y la necesidad de la conversión personal. (Ele_Xto_Stos, Cap. XI, §2)
+
 
 ## Distinciones importantes
 
@@ -125,7 +127,7 @@ En el anuncio cristiano el pecado no es un tema primario, sino indirecto y refle
 
 ## Relaciones doctrinales
 
-[[gracia_santificante]], [[virtud_infusa]], [[pecado_mortal]], [[pecado_venial]], [[imperfección]], [[purificación_activa]]
+[[gracia_santificante]], [[virtud_infusa]], [[pecado_mortal]], [[pecado_venial]], [[imperfección]], [[purificación_activa]], [[aversio_a_deo]], [[conversio_ad_creaturas]]
 
 ## Analizado para
 
@@ -141,4 +143,4 @@ En el anuncio cristiano el pecado no es un tema primario, sino indirecto y refle
 - SmTh Ia-IIae q.71-89
 - [San Juan de la Cruz, Subida I,11]
 - [PS §11,56]
-- Ele_Xto_Stos, Cap. III, §3a
+- Ele_Xto_Stos, Cap. III, §3a; Cap. XI, §2

@@ -57,6 +57,16 @@ Santo Tomás trata la ley nueva (evangélica) en las cuestiones 106–108 de la 
 
 **Contenido de la ley nueva** (q.108). La ley nueva prescribe los actos exteriores necesarios para recibir la gracia (sacramentos) y los necesarios para el recto uso de la gracia (preceptos morales; a.1). Las demás determinaciones exteriores (ritos, ceremonias, preceptos judiciales) se dejan a la libertad de los fieles (a.2). Instruye sobre los actos interiores (a.3), ordenando los afectos del corazón. Añade [[consejos_evangélicos]] a los preceptos (a.4), como medios de perfección para quienes quieren alcanzar más plenamente la caridad.
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+Se distinguen, por tanto, dos elementos en la ley de Cristo. El primero y principal es la gracia del Espíritu Santo, que sana al hombre entero y eleva sus facultades operativas mediante las virtudes teologales y las virtudes morales infusas. La ley nueva es verdaderamente lex gratiae, no solo porque la gracia ayuda a observarla, sino también porque «el constitutivo esencial de la nueva ley está en la gracia del Espíritu Santo, que se manifiesta en la fe, que obra por el amor». Por esta razón, la ley nueva es fundamentalmente una ley interna, y no una ley escrita, porque el Espíritu Santo instruye interiormente a los fieles; es, además, "ley de libertad". (Ele_Xto_Stos, Cap. VIII, §4a)
+
+En segundo lugar, la ley nueva es también una ley escrita, que se encuentra en las enseñanzas del Señor (el Discurso de la montaña, las bienaventuranzas, etc.) y en la catequesis moral de los Apóstoles, que pueden resumirse en el doble mandamiento del amor. Es una ley que enseña las cosas que disponen a la adquisición o recuperación de la gracia, y las actitudes y las obras a través de las cuales la gracia se expresa y crece. Santo Tomás habla sintéticamente de los sacramentos y de las virtudes. (Ele_Xto_Stos, Cap. VIII, §4a)
+
+La encíclica Veritatis splendor expone sintéticamente la doctrina cristiana sobre la ley de Cristo: «Resumiendo lo que constituye el núcleo del mensaje moral de Jesús y de la predicación de los Apóstoles, y volviendo a ofrecer en admirable síntesis la gran tradición de los Padres de Oriente y de Occidente —en particular San Agustín—, Santo Tomás afirma que la Ley Nueva es la gracia del Espíritu Santo dada mediante la fe en Cristo. Los preceptos externos, de los que también habla el Evangelio, preparan para esta gracia o despliegan sus efectos en la vida» (Veritatis splendor, n. 24). (Ele_Xto_Stos, Cap. VIII, §4a)
+
+Se debe evitar un posible malentendido: las normas morales escritas no son secundarias en el sentido de menos importantes o en el sentido de no esenciales; la gracia del Espíritu Santo infusa en el corazón del creyente implica necesariamente "vivir según el Espíritu" y se expresa a través de los "frutos del Espíritu", a los cuales se oponen las "obras de la carne". Ya San Pablo advertía que la libertad cristiana no es ni puede ser "un pretexto para la carne", sino un estímulo para servir a todos en la caridad. Como dijo Jesús al joven rico: «Si quieres entrar en la Vida, guarda los mandamientos». (Ele_Xto_Stos, Cap. VIII, §4a)
+
 ## Distinciones importantes
 
 - Ley antigua: ley exterior, escrita en tablas de piedra, pedagoga hacia Cristo

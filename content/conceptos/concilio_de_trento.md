@@ -29,6 +29,12 @@ El CEC cita el Concilio de Trento en numerosas ocasiones como fuente magisterial
 
 Trento enseñó que la justificación no es solo imputación de la justicia de Cristo (como sostenía Lutero), sino transformación interior del alma por la gracia santificante (DS 1529). La justificación es gratuita, pero exige la cooperación del hombre con la gracia mediante la fe y los sacramentos. Define que el justo puede crecer en la gracia por las buenas obras y los sacramentos, y que la gracia puede perderse por el pecado mortal.
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+El Concilio de Trento puso al día las enseñanzas sobre el pecado, como respuesta a la doctrina protestante. El protestantismo subraya, de acuerdo con la doctrina evangélica, que la esencia del pecado consiste en la oposición a Dios por el deseo de plena autonomía, que surge de la falta de confianza en el Señor y se refleja en la soberbia, en la rebelión, en la desobediencia. Esta doctrina pone de relieve puntos centrales de la amartología cristiana —el carácter antidivino del pecado, su gravedad y su enorme influjo en la actuación moral y en la vida social—, pero, en contraste con la fe católica, no resulta clara en su planteamiento la distinción entre el pecado original y los pecados actuales singulares: el primero sería la corrupción de la naturaleza que pervierte a todas las personas sin posibilidad de ser superada, de modo que el hombre nacería y permanecería siempre pecador —no es pecador porque peca, sino que peca por su condición «natural» de pecador— y el hombre con fe fiducial sería *simul peccator et iustus*; no se ve cómo el hombre redimido pueda ser verdaderamente una «nueva criatura». (Ele_Xto_Stos, Cap. XI, §2)
+
+El Concilio de Trento se ocupó del pecado sobre todo en tres momentos. En la sesión V expone la doctrina sobre el pecado original. En la sesión VI, recorriendo las etapas de la justificación, muestra que no solo la falta de fe, sino todo pecado mortal priva de la gracia de Cristo; que es necesario mantener la distinción entre pecado mortal y venial; y que el pecado no destruye totalmente la libertad humana. En la sesión XIV, a propósito del sacramento de la penitencia, se pronuncia sobre la necesidad de confesar todos y cada uno de los pecados mortales. (Ele_Xto_Stos, Cap. XI, §2)
+
 ## Distinciones importantes
 
 - Trento vs. Vaticano II: no se oponen; Trento definió la doctrina frente a la Reforma, Vaticano II la expuso en clave pastoral y ecuménica
@@ -48,3 +54,4 @@ Trento definió la doctrina sobre la [[justificación]] y los [[sacramentos]], r
 - CEC §158, §1535, §1356-1381, §1987-1995
 - Concilio de Trento, Sesiones IV-XXV (DS 1500-1860)
 - *Catechismus Romanus* (Catecismo de Trento)
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. XI, §2

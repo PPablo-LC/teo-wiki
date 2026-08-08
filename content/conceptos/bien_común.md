@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Bien común
 tags: ["moral", "eclesiología"]
 
-timestamp: 2026-05-22
+timestamp: 2026-08-07
 description: "El bien común es «el conjunto de aquellas condiciones de la vida social que permiten a los grupos y a cada uno de sus miembros conseguir más plena y fácilmente su propia perfección» (CEC §1906.)"
 ---
 # Bien común
 
 > Área: Moral / Eclesiología
-> Última actualización: 2026-05-22
+> Última actualización: 2026-08-07
 
 ## Definición
 
@@ -62,6 +62,16 @@ El bien común es un horizonte constante en *Ecclesia in America*. Convertirse a
 A nivel internacional, se debe buscar «el bien común nacional e internacional, la distribución equitativa de los bienes y la promoción integral de los pueblos» [EA §52]. El orden económico debe regirse no solo por el criterio del lucro, sino también por «la búsqueda del bien común nacional e internacional» [EA §52]. La economía globalizada debe ser analizada «ante las exigencias del bien común internacional» [EA §55].
 
 Los derechos fundamentales de la persona humana «están inscritos en su misma naturaleza, son queridos por Dios y, por tanto, exigen su observancia y aceptación universal»; las leyes deben expresar principios y valores morales «conformes con una sana antropología y que tengan presente el bien común» [EA §19].
+
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+El bien común político es el bien específico de la sociedad política: existe un conjunto de acciones propias del todo político en cuanto tal, resultantes de la colaboración de las partes en orden al bien específico de la sociedad política, que es el bien común. La moral política valora desde el punto de vista del bien común la rectitud (o su falta) de los actos a través de los cuales la sociedad política se da a sí misma una forma y una organización política, jurídica, fiscal, administrativa, económica, etc. (Ele_Xto_Stos, Cap. IX, §1b)
+
+En su ámbito específico, el Estado tiene una misión propia como poder de orden y disposición, que debe ponerse al servicio del bien común (economía, seguridad) (Ele_Xto_Stos, Cap. IX, §1a). La doctrina eclesial sobre el bien común se puede sintetizar afirmando que este implica el reconocimiento y la defensa de los derechos fundamentales de la persona, y la promoción de la paz y de la moralidad pública: la función de la ley civil consiste en garantizar una ordenada convivencia social en la verdadera justicia, para que todos podamos vivir una vida tranquila y apacible con toda piedad y dignidad (1 Tm 2, 2). (Ele_Xto_Stos, Cap. IX, §1c)
+
+La autoridad pública puede, a veces, renunciar a reprimir aquello que, de estar prohibido, provocaría un daño más grave (cfr. S.Th., I-II, q. 96, a. 2), pero nunca puede aceptar legitimar la ofensa infligida a otras personas mediante la negación de un derecho suyo; toda disposición de los poderes públicos que no reconozca los derechos humanos o los viole, se opone a su misma razón de ser y carece de valor jurídico. (Ele_Xto_Stos, Cap. IX, §1c)
+
+La obligatoriedad de la ley civil presenta una gradualidad que depende de la mayor o menor conexión de cada ley con el bien común, y es efecto de la responsabilidad humana en relación con la realidad social, por lo que se refiere tanto a la relación con la autoridad como a la realidad y a los fines sociales de que se trate en cada caso concreto. (Ele_Xto_Stos, Cap. IX, §1d)
 
 ## Analizado para
 

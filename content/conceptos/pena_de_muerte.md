@@ -17,7 +17,7 @@ La **pena de muerte** es una sanción penal que consiste en la privación de la 
 
 ## Relaciones
 
-[[vida_humana]], [[dignidad_humana]], [[legítima_defensa]], [[doctrina_social_de_la_iglesia]], [[evangelium_vitae]], [[non_letales]], [[justicia_penal]], [[quinta_cosa]], [[quinta_cosa]], [[quinta_cosa]]
+[[vida_humana]], [[dignidad_humana]], [[legítima_defensa]], [[doctrina_social_de_la_iglesia]], [[evangelium_vitae]], [[non_letales]], [[justicia_penal]], [[quinta_cosa]]
 
 ## Ver también
 

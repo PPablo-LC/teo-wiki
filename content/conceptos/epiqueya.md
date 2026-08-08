@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Epiqueya
 tags: ["moral"]
 
-timestamp: 2026-06-10
+timestamp: 2026-08-07
 description: "La epiqueya (del griego *epi* + *dikaion*, «sobre lo justo».)"
 ---
 # Epiqueya
 
 > Área: Moral
-> Última actualización: 2026-06-10
+> Última actualización: 2026-08-07
 
 ## Definición
 
@@ -37,6 +37,14 @@ El CEC no trata la epiqueya explícitamente, pero la ley natural y la equidad en
 
 La equidad es principio que debe regir la distribución de recursos y la aplicación de la justicia social (CompDS §303; §355). La igualdad de oportunidades y la justa distribución requieren equidad, especialmente en la justicia distributiva.
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La tradición teológico-moral católica ha concedido un amplio espacio a la epiqueya, que perfecciona el juicio moral permitiendo alcanzar la verdad incluso en situaciones excepcionales. La epiqueya se considera, a todos los efectos y en el sentido más estricto, una virtud moral, es decir, una cualidad perteneciente a la plena formación moral de la persona. Esto supone que la epiqueya es un principio de elecciones no solo buenas, sino incluso excelentes y óptimas: para Aristóteles «lo equitativo (epieikés) es justo y mejor que cierta clase de justicia»; para San Alberto Magno la epiqueya es «superiustitia». No es, por tanto, algo menos bueno, un «descuento» que sería tolerado. La aplicación originaria de la epiqueya comprende el ámbito de los comportamientos regulados por las leyes civiles, a las cuales los escolásticos añadieron los comportamientos regulados por el derecho canónico; en todo caso, se refiere a las leyes humanas perfectibles (las llamadas «normas legales»). (Ele_Xto_Stos, Cap. X, §4d)
+
+Retomando fielmente el pensamiento de Aristóteles y de Santo Tomás, Cayetano explica sintéticamente la naturaleza de la epiqueya: «Directio legis ubi deficit propter universale», dirección de la ley donde esta es defectuosa a causa de su universalidad. El hombre moralmente bien formado no solo sabe qué comportamientos son lícitos o ilícitos, sino que entiende también su porqué. Como la ley habla en universal, puede presentarse algo que, a pesar de las apariencias, no entre en la norma universal; en tal caso, la observancia literal de la ley se traduciría en un comportamiento lesivo de la justicia o del bien común, que son los supremos principios inspiradores de toda ley y de todo legislador. La epiqueya no es una actitud que pueda ser benévolamente invocada, ni tiene que ver con el principio de tolerancia; cuando se presenta el caso, es la regla que hay que seguir necesariamente. (Ele_Xto_Stos, Cap. X, §4d)
+
+Las normas propiamente morales, en la medida en que formulan las exigencias de las virtudes, no pueden ser corregidas por la epiqueya. Las exigencias de justicia o templanza formuladas por la norma nunca pueden ser contrarias a la justicia o al bien común; los preceptos de la ley moral natural como tales quedan fuera del ámbito de la epicheia. Sin embargo, puede suceder que la formulación lingüístico-normativa de una exigencia moral sea inadecuada porque en su generalidad no puede prever las circunstancias excepcionales en las que se encuentra el agente. Entonces la epicheia permite una perfecta adecuación del comportamiento concreto a la ratio virtutis: por ejemplo, en los casos excepcionales en los que la devolución del depósito ya no es un acto de justicia (devolver un arma a una persona que manifiesta la intención de cometer un delito), la virtud de la epicheia permite llegar al juicio prudencial de que aquí y ahora no se debe devolver el depósito. La epiqueya es necesaria precisamente porque —diga lo que diga la letra del enunciado normativo— la justicia y las demás virtudes éticas no admiten excepciones. (Ele_Xto_Stos, Cap. X, §4d)
+
 ## Distinciones importantes
 
 - Epiqueya vs. dispensa: la dispensa la concede la autoridad; la epiqueya la aplica el súbdito en caso evidente
@@ -57,3 +65,4 @@ Se relaciona con [[ley_humana]], [[ley_natural]], [[ley_moral]], [[virtud_de_la_
 - SmTh IIa-IIae q.120 a.1-2
 - SmTh Ia-IIae q.96 a.6 (epiqueya en el contexto de la ley humana)
 - CompDS §303, §355
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. X, §4d

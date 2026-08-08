@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Doctrina Social de la Iglesia
 tags: ["moral"]
 
-timestamp: 2026-07-25
+timestamp: 2026-08-07
 description: "Cuerpo de doctrina que articula la enseñanza de la Iglesia en materia económica y social."
 ---
 # Doctrina Social de la Iglesia
 
 > Área: Moral
-> Última actualización: 2026-07-25
+> Última actualización: 2026-08-07
 
 ## Definición
 
@@ -89,6 +89,14 @@ En la doctrina social ocupa un lugar importante el derecho a un trabajo digno: �
 **León XIII** — Encíclica *Quod Apostolici muneris* (1878, D‑1849–D‑1852): Definió la doctrina católica sobre la desigualdad social y el derecho de propiedad frente al socialismo. Afirmó que la desigualdad de derecho y poder dimana del autor mismo de la naturaleza. La Iglesia reconoce la desigualdad entre los hombres aun en la posesión de los bienes y manda que cada uno tenga intacto el derecho de propiedad. Rechazó la comunidad de bienes propugnada por los socialistas y afirmó que el hurto y la rapiña están prohibidos por Dios. Sin embargo, la Iglesia abraza con maternal afecto a los pobres, recordando a los ricos el gravísimo mandamiento de dar lo superfluo a los pobres.
 
 **León XIII** — Encíclica *Immortale Dei* (1885, D‑1866–D‑1888): Sobre la constitución cristiana de los Estados. Afirmó que Dios ha distribuido el gobierno del género humano entre dos potestades: la eclesiástica y la civil. La Iglesia es una sociedad perfecta por su género y derecho, y no puede estar sujeta a la potestad civil en el desempeño de sus deberes. Rechazó la separación de la Iglesia y el Estado como contraria a los consejos de Dios. Afirmó que los católicos tienen causa justa de intervenir en el gobierno del Estado para dirigir los regímenes al bien público.
+
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La dimensión política de la vida moral cristiana es materia de gran complejidad, sobre la cual existe una interminable bibliografía. Es objeto de estudio de una parte de la teología moral conocida como doctrina social de la Iglesia. La teología moral fundamental se ocupa de algunos aspectos generales de este ámbito, que son la base necesaria para ulteriores profundizaciones. (Ele_Xto_Stos, Cap. IX, §1)
+
+En los dos últimos siglos, el magisterio eclesiástico ha desarrollado ampliamente las enseñanzas conocidas como doctrina social de la Iglesia. Esta es objeto de un tratado teológico específico que, por obvias razones de espacio, no puede ser presentado en ese tratado general de moral; por eso se limita a algunas consideraciones de carácter general. (Ele_Xto_Stos, Cap. IX, §1e)
+
+Para la actuación eficaz del derecho y deber de participación política de los fieles laicos es «absolutamente indispensable –sobre todo para los fieles laicos comprometidos de diversos modos en el campo social y político– un conocimiento más exacto de la doctrina social de la Iglesia». (Ele_Xto_Stos, Cap. IX, §1e)
 
 ## Relaciones doctrinales
 

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Delectación morosa
 tags: ["moral"]
 
-timestamp: 2026-06-08
+timestamp: 2026-08-07
 description: "La delectación morosa es el entretenimiento deliberado de la razón en una delectación ilícita, sin determinarse a ponerla por obra."
 ---
 # Delectación morosa
 
 > Área: Moral
-> Última actualización: 2026-06-08
+> Última actualización: 2026-08-07
 
 ## Definición
 
@@ -36,6 +36,12 @@ La razón inferior puede consentir en la delectación sin que la razón superior
 ### Según Royo Marín (TPCr)
 
 El pecado de pensamiento consumado internamente (delectación morosa) es un verdadero pecado mortal si la materia es grave y hay plena advertencia y consentimiento. La tradición ascética distingue tres grados en el pecado interno: la sugestión (presentación del objeto), la delectación (complacencia en él) y el consentimiento (aceptación deliberada).
+
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+El pensamiento consentido (delectatio morosa) no es el simple pensamiento, ni mucho menos la imaginación, sino un querer pensar o imaginar un determinado acto inmoral, en su formalidad de malicia. En este sentido es diverso pensar en el pecado de injuria estudiando teología moral, que consentir un pensamiento que se configura como una injuria concreta contra una persona. (Ele_Xto_Stos, Cap. XI, §4b)
+
+Los malos pensamientos —de orgullo, impureza, crítica injusta, etc.— pervierten moralmente al hombre, extraviándolo en una medida siempre creciente. (Ele_Xto_Stos, Cap. XI, §4b)
 
 ## Distinciones importantes
 

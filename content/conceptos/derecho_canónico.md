@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Derecho canónico
 tags: ["derecho_canónico"]
 
-timestamp: 2026-05-26
+timestamp: 2026-08-07
 description: "El derecho canónico es el cuerpo orgánico de leyes que rige la organización y disciplina de la Iglesia católica, tanto latina como oriental."
 ---
 # Derecho canónico
 
 > Área: Derecho Canónico
-> Última actualización: 2026-05-26
+> Última actualización: 2026-08-07
 
 ## Definición
 
@@ -32,6 +32,12 @@ El CIC es en sí mismo la fuente primaria. Se estructura en siete libros: Normas
 ### Según el Comentario al CIC (Eunsa)
 
 El Comentario Eunsa, obra dirigida por el Instituto Martín de Azpilcueta de la Universidad de Navarra, analiza sistemáticamente cada canon. Destaca que el derecho canónico tiene como finalidad la salvación de las almas (c. 1752), suprema ley de la Iglesia. Subraya la naturaleza pastoral del derecho canónico, que no es un fin en sí mismo sino instrumento de la misión de la Iglesia.
+
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+El estudio pormenorizado de las leyes eclesiásticas corresponde a una disciplina específica llamada Derecho Canónico. Las leyes de la Iglesia son disposiciones normativas generales, promulgadas por las autoridades eclesiásticas que tienen potestad legislativa (principalmente, el Romano Pontífice para toda la Iglesia y el Obispo diocesano para la propia diócesis), referentes a la promoción y tutela de la misión de la Iglesia, a la justa regulación de las actividades de los creyentes y de las instituciones eclesiásticas y, en último término, a la salvación y a la santificación de los hombres. (Ele_Xto_Stos, Cap. IX, §2)
+
+Existirá diversidad de opiniones sobre cuál sea el carácter específico de la juridicidad de las normas canónicas, pero no hay duda de que se está frente a un verdadero derecho: el ordenamiento canónico, en obediencia a la voluntad de Cristo, aplica el principio fundamental de la justicia de reconocer y atribuir «a cada uno lo suyo» («unicuique suum») en la comunidad eclesial, y lo hace con normas que cumplen la triple exigencia técnica de generalidad, estabilidad y obligatoriedad. Con esta afirmación no se propone ninguna reducción «juridicista», porque se trata siempre de la dimensión jurídica de los bienes salvíficos y eclesiales. (Ele_Xto_Stos, Cap. IX, §2a)
 
 ## Distinciones importantes
 

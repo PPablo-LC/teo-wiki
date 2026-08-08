@@ -51,6 +51,16 @@ El PdB también data la composición de los principales libros: Pentateuco (sigl
 
 [PdB, Cr3-5, Cro-1]
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La entera economía del Antiguo Testamento está, sobre todo, ordenada a preparar, anunciar y significar el acontecimiento del Salvador y del reino mesiánico. Como preparación, la Revelación hecha a Israel no solo contenía verdades religiosas sobre Dios, el hombre, el origen del mundo, el origen del bien y del mal, la necesidad de salvación, etc. Además de preparar la inteligencia, Dios tenía que preparar el corazón para que estuviera bien dispuesto para recibir al Salvador. Por eso el Antiguo Testamento tiene una evidente dimensión moral: contiene muchas enseñanzas sobre cómo vivir para estar a la altura del plan divino sobre el hombre. (Ele_Xto_Stos, Cap. VIII, §3a)
+
+Según la expresión paulina, la "Ley" es buena y santa, pero no definitiva: «La ley ha sido nuestro pedagogo, que nos condujo a Cristo, para que fuéramos justificados por la fe». Está, por tanto, ordenada a Cristo, que constituye su cumplimiento: «El fin de la Ley es Cristo». «Fin no en cuanto defecto —comenta San Ambrosio—, sino en cuanto plenitud de la ley; la cual se cumple en Cristo, por cuanto Él no vino a abolir la ley, sino a darle cumplimiento». (Ele_Xto_Stos, Cap. VIII, §3a)
+
+El Antiguo Testamento es parte esencial de la Palabra de Dios, y sus libros conservan un valor permanente. Junto con algunos elementos evidentemente caducos, estos libros muestran instrucciones y ejemplos de considerable valor moral, incluso excelente: «Aunque contienen elementos imperfectos y pasajeros, [...] expresan un vivo sentido de Dios, contienen enseñanzas sublimes sobre Dios y una sabiduría salvadora acerca del hombre, encierran tesoros de oración y esconden el misterio de nuestra salvación» (Dei Verbum, n. 15). Por eso «la Iglesia ha rechazado siempre vigorosamente la idea de prescindir del Antiguo Testamento so pretexto de que el Nuevo lo habría hecho caduco», y el decálogo, por ejemplo, se sigue usando como estructura básica para la catequesis moral cristiana. (Ele_Xto_Stos, Cap. VIII, §3a)
+
+En sentido estricto, la "Ley" es solo una parte del Antiguo Testamento; concretamente, el contenido esencial del Pentateuco, al que el Nuevo Testamento se refiere a menudo como la «Ley de Moisés». Junto a la 'Ley' se denominan «los Profetas», o «los Profetas y los Salmos». En la teología bíblica se acepta generalmente la distinción entre una ética de la ley, una ética de los profetas y una ética sapiencial, distinción que, sin embargo, no debe entenderse como una separación, ya que existen claras conexiones y puntos en común entre las tres fuentes de la ética del Antiguo Testamento. (Ele_Xto_Stos, Cap. VIII, §3a)
+
 ## Distinciones importantes
 
 - **Antiguo Testamento vs. Nuevo Testamento**: el Nuevo da cumplimiento al Antiguo; ambos se esclarecen mutuamente

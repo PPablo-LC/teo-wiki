@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Pecados capitales
 tags: ["moral"]
 
-timestamp: 2026-06-08
+timestamp: 2026-08-07
 description: "Los siete pecados o vicios capitales son aquellas faltas morales que constituyen la raíz o cabeza de otros pecados y vicios."
 ---
 # Pecados capitales
 
 > Área: Moral
-> Última actualización: 2026-06-08
+> Última actualización: 2026-08-07
 
 ## Definición
 
@@ -52,6 +52,14 @@ El Catecismo menciona los pecados capitales en el contexto de la gravedad del pe
 
 Royo Marín trata extensamente los pecados capitales como parte de la lucha ascética contra el pecado (TPCr, Parte III, Libro I). Considera la soberbia como el pecado capital por excelencia y raíz de todos los demás. Dentro de los «enemigos del alma» —mundo, demonio y carne—, los pecados capitales son los instrumentos a través de los cuales estos enemigos atacan al alma. La lucha contra los pecados capitales requiere la práctica de las virtudes opuestas: humildad contra la soberbia, generosidad contra la avaricia, castidad contra la lujuria, etc. La purificación de estas inclinaciones desordenadas es condición necesaria para progresar en la [[vía_iluminativa]] y alcanzar la [[unión_con_dios]].
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+Desde principios del siglo V los escritores cristianos —como ya habían hecho algunos paganos— hablan de vicios y de pecados capitales y hacen de ellos diversas listas. Con San Gregorio Magno, la lista se estabiliza en siete pecados capitales. Capital viene de *caput*, que es como la parte directiva de todo el cuerpo; por eso se llaman metafóricamente vicios y pecados capitales los hábitos y los actos que por sus características actúan como fuente y principio directivo de otros pecados. La expresión se utiliza no solo para los concretos actos desordenados, sino también para el vicio correspondiente, en el que se encuentra propiamente el origen de otros pecados. (Ele_Xto_Stos, Cap. XI, §6b)
+
+Los siete vicios capitales son: vanagloria o amor desordenado de la propia excelencia; avaricia o amor desordenado de los bienes exteriores; lujuria y gula, que derivan del amor desordenado del placer sensible; acidia (y pereza), que es el rechazo y la fuga del esfuerzo necesario para conseguir el bien moral o espiritual; envidia, que es la tristeza por el bien de los otros considerado como mal propio, o bien el deseo y la alegría por el mal sufrido por otros; e ira o intolerancia violenta ante la contrariedad. (Ele_Xto_Stos, Cap. XI, §6b)
+
+La soberbia, o amor propio desordenado, más que un pecado capital es la raíz de todo pecado ex parte aversionis, en cuanto el alejamiento de Dios surge de un amor desordenado de sí mismo; la soberbia plena es un pecado grave de por sí, pues se yergue contra Dios. La avaricia es la raíz de todo pecado ex parte conversionis, en cuanto todo pecado supone un amor desordenado a un bien relativo: «La raíz de todos los males es la avaricia» (1 Tm 6, 10). (Ele_Xto_Stos, Cap. XI, §6b)
+
 ## Distinciones importantes
 
 - Pecado capital ≠ pecado mortal: un pecado capital puede ser venial si la materia es leve
@@ -75,3 +83,4 @@ Se relacionan con [[pecado_capital]], [[vicio]], [[virtud]], [[concupiscencia]],
 - [San Juan Casiano, *Colaciones*]
 - [San Gregorio Magno, *Morales sobre Job*]
 - SmTh Ia-IIae q.84 aa.1-4; q.72 a.2; q.88 a.2
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. XI, §6b

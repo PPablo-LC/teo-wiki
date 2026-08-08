@@ -96,14 +96,28 @@ Pinckaers dedica el capítulo XVII de *Las Fuentes de la Moral Cristiana* a las 
 
 ### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
+La primera y fundamental participación del hombre en la ley eterna es llamada por la teología "ley moral natural". Consiste en la «luz de la inteligencia infusa en nosotros por Dios. Gracias a ella conocemos lo que se debe cumplir y lo que se debe evitar. Esta luz y esta ley, Dios las ha dado en la creación». (Ele_Xto_Stos, Cap. VIII, §1b)
+
+La ley moral natural no es otra cosa que el hecho, incontestable, de que el hombre ha sido creado por Dios como un ser moral, y de que la razón humana es, de por sí, una razón moral, capaz de ordenar nuestra conducta en vista del bien humano. La instancia moral nace inmediatamente del interior del hombre, y encuentra en él una estructura que la alimenta y la sostiene. Es la primera y fundamental participación del hombre en la ley eterna en sentido lógico, pues supone la originaria constitución del hombre como sujeto moral, que hace posible la inteligibilidad y la recepción de cualquier otra disposición ético-positiva, tanto divina como humana. (Ele_Xto_Stos, Cap. VIII, §1b)
+
 La ley se inserta en la doctrina de las virtudes como principio que orienta y ordena el obrar humano hacia el bien. La ley eterna es la sabiduría divina que dirige todas las cosas hacia su fin; la ley natural es la participación de la ley eterna en la criatura racional, inscrita en el corazón del hombre por la luz de la inteligencia. La ley positiva —tanto divina como humana— se deriva de la ley natural y la concreta en normas particulares.
 
 El Decálogo no es solo una colección de normas morales, sino la expresión de la alianza entre Dios e Israel. Los mandamientos son la respuesta concreta del pueblo a la llamada de Dios, y su cumplimiento es condición de fidelidad a la alianza. La ley natural, cuyos preceptos principales están contenidos en el Decálogo, constituye el fundamento de toda moralidad y de toda legislación humana.
 
 La relación entre ley y virtudes es íntima: la ley natural expresa las inclinaciones naturales del hombre hacia el bien, y las virtudes son los hábitos que permiten obrar conforme a estas inclinaciones. La ley no se opone a la libertad, sino que la orienta hacia el bien verdadero. El cumplimiento de la ley, lejos de ser una constricción, es el camino para alcanzar la plenitud de la vida humana y la felicidad verdadera.
 
+El Catecismo enseña que «la ley natural expresa el sentido moral original que permite al hombre discernir mediante la razón lo que son el bien y el mal, la verdad y la mentira» (CEC n. 1954). Esta ley se llama natural no por referencia a la naturaleza de los seres irracionales, sino porque la razón que la proclama pertenece propiamente a la naturaleza humana; no es otra cosa que la luz de la inteligencia que Dios nos ha dado en la creación en cuanto permite discernir lo que hay que observar y lo que hay que evitar (cfr. CEC nn. 1954-1955). La ley moral natural es una ley divina, cuyos preceptos principales están expuestos en el Decálogo. (Ele_Xto_Stos, Cap. VIII, §2a)
+
+El Catecismo y la encíclica Veritatis splendor, sin entrar en cuestiones de escuela, han favorecido un notable esclarecimiento de la doctrina de la ley natural, inclinándose en sustancia por el enfoque de Santo Tomás, como ya había hecho León XIII. Mientras la definición catequística del CEC presenta la ley natural como el sentido moral original discernible por la razón, la Veritatis splendor la presenta además como participación activa del hombre en la ley eterna en la criatura racional y como presencia natural de la ley eterna en la luz de la razón humana. (Ele_Xto_Stos, Cap. VIII, §2a)
+
+Siguiendo a Santo Tomás, se distinguen tres categorías de preceptos de la ley moral natural según su evidencia o su proximidad o lejanía de los principios evidentes. Los principios primeros y comunes gozan de la máxima evidencia para todos y se extienden a diversos ámbitos del actuar («no se debe hacer daño a nadie», la regla de oro); responden a los fines virtuosos considerados en su máxima generalidad y no han sido promulgados en el decálogo, pues su evidencia hacía superflua la promulgación. Los preceptos secundarios próximos se refieren a ámbitos específicos del actuar y pueden ser conocidos con razonamientos asequibles a la capacidad de todos; a este grupo pertenecen los preceptos del decálogo. Los preceptos de la tercera categoría derivan de la segunda a través de razonamientos más complicados, solo accesibles a los sabios: «estos preceptos llegan al pueblo mediante la enseñanza de los doctos»; no están explícitamente contenidos en el decálogo, aunque encuentran en él las premisas de las que proceden. En el plano reflexivo, lo decisivo para establecer si un principio moral pertenece a la ley natural no es la índole inmediata o mediata de la evidencia, sino que tenga una conexión necesaria con los primeros principios o con las virtudes. (Ele_Xto_Stos, Cap. VIII, §2c)
+
 ## Ver también
 
-[[conciencia_moral]], [[decálogo]], [[ley_evangélica]], [[virtud_de_la_prudencia]]
+[[conciencia_moral]], [[decálogo]], [[ley_evangélica]], [[virtud_de_la_prudencia]], [[ley_eterna]], [[ley_moral]], [[ratio_naturalis]]
 
 ## Referencias
+
+- CEC nn. 1954-1955
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VIII, §2a y §2c
+- S.Th., I-II, q. 94, a. 6; q. 100, a. 3; II-II, q. 122, a. 1

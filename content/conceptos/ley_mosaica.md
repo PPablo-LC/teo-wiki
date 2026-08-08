@@ -71,6 +71,20 @@ Santo Tomás trata la ley antigua en las cuestiones 98–105 de la Ia-IIae, que 
 
 [VocTeoBib, «Ley»] La *torah* hebrea significa «enseñanza» dada por Dios para reglar la conducta. Comprende la ley natural (desde Adán hasta Moisés, grabada en el corazón, Rom 2,14s), la ley mosaica (prescripciones morales, ceremoniales y judiciales, centradas en el Decálogo) y la ley nueva de Cristo. La ley mosaica, santa y espiritual (Rom 7,12.14), no da la fuerza para cumplirla (Rom 7,16ss); su función es pedagógica, preparar para Cristo (Gal 3,23s). Jesús la cumple y la perfecciona (Mt 5,17ss), inaugurando la ley de Cristo, inscrita en los corazones por el Espíritu (Jer 31,33; Ez 36,26s; 2Cor 3,3).
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La entera economía del Antiguo Testamento está, sobre todo, ordenada a preparar, anunciar y significar el acontecimiento del Salvador y del reino mesiánico. Además de preparar la inteligencia, Dios tenía que preparar el corazón para que estuviera bien dispuesto para recibir al Salvador; por eso el Antiguo Testamento tiene una evidente dimensión moral, con muchas enseñanzas sobre cómo vivir para estar a la altura del plan divino. (Ele_Xto_Stos, Cap. VIII, §3a)
+
+Según la expresión paulina, la «Ley» es buena y santa (Rm 7, 12), pero no definitiva: «La ley ha sido nuestro pedagogo, que nos condujo a Cristo, para que fuéramos justificados por la fe» (Ga 3, 24). Está, por tanto, ordenada a Cristo, que constituye su cumplimiento: «El fin de la Ley es Cristo». «Fin no en cuanto defecto —comenta San Ambrosio—, sino en cuanto plenitud de la ley; la cual se cumple en Cristo, por cuanto Él no vino a abolir la ley, sino a darle cumplimiento». (Ele_Xto_Stos, Cap. VIII, §3a)
+
+El Antiguo Testamento es parte esencial de la Palabra de Dios, y sus libros conservan un valor permanente. Junto con algunos elementos evidentemente caducos, muestran instrucciones y ejemplos de considerable valor moral, incluso excelente (Dei Verbum, n. 15). Por eso la ley —y sobre todo el decálogo— ha sido ampliamente restablecida, actualizada y profundizada en el Nuevo Testamento y en la tradición teológica y catequética cristiana; el decálogo se sigue usando como estructura básica para la catequesis moral cristiana. En sentido estricto, la «Ley» es solo una parte del Antiguo Testamento: concretamente el contenido esencial del Pentateuco (la «Ley de Moisés»), junto al que se denominan «los Profetas», o «los Profetas y los Salmos» (Lc 24, 44); es frecuente hablar de la «Ley» (pars pro toto) para referirse a las enseñanzas morales del Antiguo Testamento. (Ele_Xto_Stos, Cap. VIII, §3a)
+
+En el Pentateuco es habitual distinguir entre preceptos morales, ceremoniales y judiciales. Las leyes judiciales comprenden normas de derecho penal, civil y procesal, y se encuentran principalmente en el «código de la alianza» y en el Deuteronomio. Las prescripciones ceremoniales se hallan sobre todo en el Levítico (normas sobre el culto, la pureza legal y el «código de la santidad»). Las normas morales están dispersas en el Éxodo, el Levítico y el Deuteronomio y contienen, sobre todo, el decálogo. Según la tradición teológica, las normas ceremoniales y judiciales hay que considerarlas abrogadas con la venida de Jesucristo; las normas morales, en su contenido, responden substancialmente a la ley moral natural y, por tanto, a las virtudes. (Ele_Xto_Stos, Cap. VIII, §3b)
+
+El ethos de la «Torá» tiene un carácter religioso-teológico: la fe en el Señor como Dios único que mantiene una relación singular con Israel, concebida como una alianza, es el marco en el que debe situarse todo el ethos. Todas las prescripciones éticas se consideran procedentes de Dios, y su observancia se considera la parte del pueblo en la alianza. Estos mandamientos se entienden como una revelación del modo de actuar de Dios que el hombre está llamado a imitar: «Sed santos, porque yo, el Señor, vuestro Dios, soy santo». La vida moral no se concibe como una dimensión terrenal autónoma: está impregnada de religiosidad entendida en sentido dialógico, y la instrucción moral divina se experimenta como un don y una gracia, un signo de la cercanía y el cuidado de Dios por el pueblo. (Ele_Xto_Stos, Cap. VIII, §3b)
+
+La ley tiene también un acentuado carácter social: es la ley dada al pueblo de Israel para asegurar la justicia, la paz, la prosperidad y, sobre todo, la fidelidad a la Alianza. Todos los preceptos del decálogo se encaminan a la justicia: a la justicia con Dios y a la justicia con el prójimo. La ley tiene en cuenta la debilidad moral de los hombres y, en algunos puntos, condesciende con la «dureza de vuestro corazón». Aunque los preceptos se enuncian como mandatos o prohibiciones, se advierte que intentan conducir al pueblo hacia actitudes virtuosas: la fe y el amor a Dios, la justicia y el amor al prójimo; en el telón de fondo de los mandamientos se encuentra una exigencia de fe y confianza en Dios. (Ele_Xto_Stos, Cap. VIII, §3b)
+
 ## Distinciones importantes
 
 - Ley ceremonial: preceptos sobre el culto, abrogados por Cristo
@@ -89,3 +103,6 @@ Se relaciona con el [[decálogo]], la [[ley_nueva]], la [[alianzas|Antigua Alian
 
 - [CEC §1961-1964, §1981, §579, §2052-2054]
 - [TPCr, Primera Parte, Cap. I]
+- Dei Verbum, n. 15
+- Rm 7, 12; Ga 3, 24
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VIII, §3a y §3b

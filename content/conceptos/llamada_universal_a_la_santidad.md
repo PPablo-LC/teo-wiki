@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Llamada universal a la santidad
 tags: ["dogmática", "espiritualidad"]
 
-timestamp: 2026-06-12
+timestamp: 2026-08-07
 description: "La llamada universal a la santidad es la doctrina según la cual todos los fieles cristianos, cualquiera que sea su estado o condición."
 ---
 # Llamada universal a la santidad
 
 > Área: Dogmática / Espiritualidad
-> Última actualización: 2026-06-12
+> Última actualización: 2026-08-07
 
 ## Definición
 
@@ -49,6 +49,8 @@ La gracia santificante, infundida en el alma por el bautismo, hace al hombre hij
 
 El camino de la santidad se realiza en la fidelidad cotidiana a la gracia, mediante el ejercicio de las virtudes teologales y morales, la oración, los sacramentos y la docilidad a los dones del Espíritu Santo. La perfección de la caridad a la que todos están llamados no se alcanza por fuerzas humanas, sino por la acción de la gracia divina que santiifica y transforma el obrar del creyente.
 
+La plena comprensión y la acogida sin reserva de la llamada divina a la santidad difícilmente se alcanza sin la previa experiencia del pecado y de la conversión. Con la ayuda de la gracia, la llamada a la santidad es ya en este mundo algo concretamente realizable y que debe realizarse, por cuanto Dios nos ha elegido en Cristo «antes de la creación del mundo, para que fuéramos santos y sin mancha en su presencia, por el amor» (Ef 1, 4). Recordar este designio del amor divino y actualizarlo para los hombres de cada época es la tarea principal y perenne de la teología moral. (Ele_Xto_Stos, Cap. XI, §10)
+
 ## Distinciones importantes
 
 - Llamamiento remoto y suficiente: para todos los bautizados, mediante la gracia suficiente
@@ -78,3 +80,4 @@ Se relaciona con la [[santidad]], la [[perfección_cristiana]], la [[vocación]]
 - [EjEsp2026, cap. 5: «El esplendor de la Verdad»]
 - [JorSant-2026, 12.06.2026]
 - Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, cap. sobre la llamada universal a la santidad
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. XI, §10

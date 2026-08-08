@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Conversión
 tags: ["moral", "ascética"]
 
-timestamp: 2026-07-20
+timestamp: 2026-08-07
 description: "Movimiento del alma que, movida por la gracia, se vuelve a Dios apartándose del pecado."
 ---
 # Conversión
 
 > Área: Moral / Ascética
-> Última actualización: 2026-07-20
+> Última actualización: 2026-08-07
 
 ## Definición
 
@@ -133,6 +133,16 @@ El pecado puede presentarse como un «anti-testimonio»: la vida del creyente, c
 
 El sacramento de la Reconciliación es el lugar sacramental donde la conversión se realiza plenamente. En la confesión, el penitente reconoce sus pecados, se arrepiente de ellos, confiesa su culpa al ministro de Dios y recibe el perdón mediante la absolución. Este sacramento restaura la gracia santificante y fortaleza al creyente para proseguir en el camino de la santidad. La conversión es, en definitiva, el camino permanente de la vida cristiana: convertirse sin cesar a Dios mediante la gracia, la oración y el ejercicio de las virtudes.
 
+La palabra griega más empleada en la Biblia para la actitud humana de penitencia es *metánoia*: arrepentimiento y dolor del pecado cometido; conversión de la mente y transformación de la manera de pensar, que lleva a confiar en Dios y a la firme decisión de cumplir su voluntad; respuesta positiva a la gracia divina en la que se encuentra la salvación; y esfuerzo por adoptar una actitud moral nueva, en relación a Dios y al prójimo, que involucre todas las energías personales. La *metánoia* no es una actitud propia solamente del inicio de la vida cristiana: ha de ser permanente a lo largo de toda la existencia, para poder así convertirse cada vez más al Señor. También quienes se creen «justos» necesitan convertirse. (Ele_Xto_Stos, Cap. XI, §9)
+
+La misericordia y la gracia de Dios cancelan el pecado y confieren la fuerza de no pecar más. Pero al cristiano se le pide una actitud penitente: «Reconocer el propio pecado, es más —yendo aún más a fondo en la consideración de la propia personalidad—, reconocerse pecador, capaz de pecado e inclinado al pecado, es el principio indispensable para volver a Dios» (Reconciliatio et paenitentia, n. 13). (Ele_Xto_Stos, Cap. XI, §9)
+
+Hablando de la conversión del pecador, la Sagrada Escritura subraya cinco ideas: 1) los pecados alejan de Dios y hacen que el Señor abandone a su pueblo; 2) la iniciativa en la obra de la reconciliación es divina —no se puede llegar a una auténtica penitencia y, por tanto, a la amistad con el Señor y a la liberación integral y a la salvación, sin una gracia preveniente de Dios—; 3) la conversión, más que un rito externo, exige un cambio «del corazón»; 4) el pecador ha de reconocer y confesar sus pecados; 5) y, además, ha de cambiar de vida, alejándose de sus caminos perversos. (Ele_Xto_Stos, Cap. XI, §9)
+
+La conversión comporta una radical reorientación de toda la vida: retorno a Dios con todo el corazón, ruptura con el pecado y aversión a las malas acciones cometidas; al mismo tiempo, requiere el deseo y la resolución de cambiar de vida, contando con la misericordia de Dios y la ayuda de su gracia. El Señor concede siempre la gracia a quien hace lo que está de su parte, sin olvidar que es también Él quien mueve la libertad humana en sus disposiciones para convertirse (cfr. Gaudium et spes, n. 17). (Ele_Xto_Stos, Cap. XI, §10)
+
+La consideración de la conversión como empeño moral y ascético permite recorrer sintéticamente los principales temas de la teología moral fundamental. La plena comprensión y la acogida sin reserva de la llamada divina a la santidad difícilmente se alcanza sin la previa experiencia del pecado y de la conversión. Solo quien entiende de manera suficientemente clara que tiene necesidad de ser liberado del pecado y de ser salvado, está en condiciones de encontrar auténticamente a Cristo, «al cual hizo Dios para nosotros sabiduría, justicia, santificación y redención» (1 Co 1, 30). La regeneración en Cristo es un acontecimiento profundo, de alcance ontológico, que se manifiesta moralmente como tránsito de los vicios a las virtudes cristianas (cfr. 1 Co 6, 9-11). (Ele_Xto_Stos, Cap. XI, §10)
+
 ### Según Benedicto XVI (JdN_I)
 
 Benedicto XVI analiza la conversión a partir de la parábola del hijo pródigo (Lc 15,11-32) en *Jesús de Nazaret I*. La conversión comienza cuando el hijo pródigo «recapacita» (Lc 15,17): «se da cuenta de que está perdido», de que en su casa era un hombre libre y que los esclavos de su padre son más libres que él (JdN_I).
@@ -168,6 +178,7 @@ La conversión no es solo un acto individual: Benedicto XVI señala que el herma
 - ColCas-II, Conferencias XIX, XX
 - [VJ, Cap. III, Cap. VI]
 - Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, cap. sobre la conversión
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. XI, §9-§10
 - [SFrAs, Test. 1-3, 15 — Conversión experiencial y pobreza]
 - [SFrAs, CFi. 19, 25, 27, 29, 35, 47-49 — Conversión universal]
 - [SFrAs, Adm. 2 — Conversión y renuncia a la propia voluntad]

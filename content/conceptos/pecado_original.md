@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Pecado original
 tags: ["dogmática"]
 
-timestamp: 2026-06-11
+timestamp: 2026-08-07
 description: "El pecado original es el pecado cometido por nuestros primeros padres (Adán y Eva) en el origen de la humanidad."
 ---
 # Pecado original
 
 > Área: Dogmática
-> Última actualización: 2026-06-26
+> Última actualización: 2026-08-07
 
 ## Definición
 
@@ -162,6 +162,12 @@ Miguel Bayo sostuvo errores sobre el pecado original condenados por Pío V (D‑
 - D‑1052–D‑1053: Todo crimen puede inficionar a los descendientes como la primera transgresión; los que nacen con vicios menores contraen tanto desmérito como los que nacen con mayores.
 - D‑1055: Dios no hubiera podido crear al hombre desde el principio tal como ahora nace.
 - D‑1073: Nadie fuera de Cristo está sin pecado original; por tanto, la Virgen María murió a causa del pecado contraído de Adán.
+
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+El pecado original es el que cometieron nuestros primeros padres y que se transmite por generación a todos los hombres; es un desorden inherente en toda persona desde el momento de la concepción. Pecado actual es el cometido por el mismo sujeto y del cual es plenamente responsable. (Ele_Xto_Stos, Cap. XI, §4d)
+
+El texto subraya la importancia del estudio del pecado original para comprender tanto la existencia del mal en el mundo y la peculiar naturaleza pecadora del hombre en la condición actual, como la dinámica fundamental de todo pecado. (Ele_Xto_Stos, Cap. XI, §1a)
 
 ## Distinciones importantes
 

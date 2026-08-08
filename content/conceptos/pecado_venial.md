@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Pecado venial
 tags: ["moral"]
 
-timestamp: 2026-06-20
+timestamp: 2026-08-07
 description: "El pecado venial es una trasgresión de la ley de Dios en materia leve, o en materia grave pero sin plena advertencia o sin pleno consentimiento de la voluntad."
 ---
 # Pecado venial
 
 > Área: Moral
-> Última actualización: 2026-06-20
+> Última actualización: 2026-08-07
 
 ## Definición
 
@@ -81,6 +81,12 @@ El pecado venial deliberado y habitual es incompatible con la perfección cristi
 ### Según la Veritatis Splendor (VS)
 
 La Veritatis Splendor (§69) confirma la distinción tradicional entre pecados mortales y veniales según la enseñanza del Concilio de Trento y de la exhortación apostólica Reconciliatio et paenitentia. Mientras el pecado mortal separa al hombre de Dios y pierde la gracia santificante, el pecado venial no rompe la alianza con Dios ni priva de la gracia santificante, aunque debilita la vida moral y dispone al pecado más grave.
+
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+El término «pecado» se emplea en sentido análogo al referirse al mortal y al venial: entre ambos existe una cierta semejanza, pero al mismo tiempo una enorme diferencia, precisamente en lo que se refiere a la misma razón de pecado. No se trata solo de una mayor o menor gravedad, de una diferencia de grado, sino que son pecados de manera esencialmente diversa; por eso se habla de distinción teológica del pecado. (Ele_Xto_Stos, Cap. XI, §4a)
+
+La razón de pecado se encuentra plenamente solo en el pecado mortal y, de manera imperfecta, en el venial, pues el pecado mortal es del todo incompatible con la gracia y la caridad, y, por tanto, implica la separación de Dios, mientras que el pecado venial no es incompatible con la [[caridad]], aunque la debilite. Así pues, el pecado mortal hace perder la vida divina en el alma, y el venial solo la menoscaba y hace difícil el ejercicio de las [[virtudes_infusas]]; como consecuencia, solo el pecado mortal cierra la entrada en el reino de los Cielos. (Ele_Xto_Stos, Cap. XI, §4a)
 
 ## Distinciones importantes
 

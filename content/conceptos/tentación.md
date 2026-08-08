@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Tentación
 tags: ["ascética_y_moral"]
 
-timestamp: 2026-06-10
+timestamp: 2026-08-07
 description: "La tentación es toda incitación al mal, ya proceda del demonio, del mundo o de la propia concupiscencia."
 ---
 # Tentación
 
 > Área: Ascética y Moral
-> Última actualización: 2026-06-10
+> Última actualización: 2026-08-07
 
 ## Definición
 
@@ -73,6 +73,13 @@ Royo Marín enseña que la tentación vencida es fuente de grandes méritos. Dio
 
 Cita abundantemente la Escritura (Ef 6,11-12; 1 Pe 5,8; St 1,12) y expone la doctrina de Santo Tomás sobre la distinción entre tentación diabólica y tentación de la concupiscencia.
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+La palabra tentar puede tener el significado de probar las fuerzas de alguien y, más en concreto, su prontitud para hacer el bien —las versiones de la Biblia suelen traducir por «prueba»: «Dios los puso a prueba y los encontró dignos de Él» (Sb 3, 5)—; pero aquí se usa la palabra en un sentido diverso: se llama tentación a la incitación al mal. La causa del pecado, como se ha dicho, es la voluntad misma; esta, sin embargo, puede estar influenciada y atraída, aunque no dominada, por la presencia de bienes aparentes: la tentación es precisamente la instigación al mal moral que se propone bajo la apariencia de bien para engañar a la voluntad. (Ele_Xto_Stos, Cap. XI, §6c)
+
+Las tentaciones, si no se buscan y se aprovechan como motivo de esfuerzo moral, tienen un significado positivo para la vida cristiana; el argumento más evidente es que el mismo Jesús fue conducido «al desierto por el Espíritu para ser tentado por el diablo» (Mt 4, 1). Las tentaciones, afrontadas con espíritu sobrenatural, ayudan a crecer en gracia, en virtudes y en mérito: «Bienaventurado el hombre que soporta con paciencia la adversidad (*tentationem*), porque, una vez probado, recibirá como corona la vida que Dios prometió a los que le aman» (St 1, 12). (Ele_Xto_Stos, Cap. XI, §6c)
+
+Tradicionalmente se ha dicho que las tentaciones proceden de tres fuentes. 1) **El mundo**: no el mundo en cuanto criatura de Dios, que es bueno, sino el mundo pervertido por el pecado, que se comporta como enemigo de Dios e incita a los hombres a separarse de Él; las consecuencias del pecado original y de todos los pecados personales confieren al mundo en su conjunto una condición pecadora, que puede designarse con la expresión de San Juan «el pecado del mundo» (Jn 1, 29). 2) **El demonio**: es el tentador por antonomasia; su tarea es instigar al hombre a ofender a Dios por odio contra Él: «No es nuestra lucha —enseña San Pablo— contra la sangre o la carne, sino contra los principados, las potestades, las dominaciones de este mundo de tinieblas, y contra los espíritus malignos que están en los aires» (Ef 6, 12). 3) **La carne**: la palabra carne significa el hombre viejo marcado por el pecado; se llama también concupiscencia, no como apetito sensitivo, sino como inclinación interior al mal, es decir, el desorden de las fuerzas del alma como resultado de los pecados, original y actuales (*fomes peccati*). (Ele_Xto_Stos, Cap. XI, §6c)
 
 ## Distinciones importantes
 
@@ -97,3 +104,4 @@ Dios no tienta al mal (St 1,13); permite la tentación para mayor bien del alma.
 - SmTh Iª q.114, sobre la insidia de los demonios
 - SmTh IIIª q.41, sobre la tentación de Cristo
 - [EjEsp2026, cap. 1, 5, 8]
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. XI, §6c

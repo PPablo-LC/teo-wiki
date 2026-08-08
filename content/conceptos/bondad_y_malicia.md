@@ -35,6 +35,12 @@ SmTh Ia-IIae q.18-20: Santo Tomás analiza la bondad y malicia de los actos huma
 
 La Veritatis Splendor reafirma la doctrina de los actos intrínsecamente malos (VS §79-83). La razón de ser del orden moral es la verdad del bien, que se expresa en la ley moral natural. El juicio sobre la bondad o malicia del acto no puede reducirse a la intención subjetiva ni a las consecuencias previsibles.
 
+### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
+
+Las virtudes son los modos de regulación racional de las inclinaciones naturales y de los bienes a los cuales ellas tienden; por ejemplo, la regulación racional de lo que se refiere a la convivencia humana es la justicia, y así las demás virtudes. Entendidas como criterio genérico según el cual deben ser deseados, gestionados y realizados los bienes a los que miran las tendencias humanas para que contribuyan efectivamente al bien del hombre, los fines virtuosos se captan naturalmente. (Ele_Xto_Stos, Cap. VIII, §2b)
+
+En definitiva, el bien y el mal moral solo pueden ser determinados, en último término, en relación con la virtud. Bien moral significa conformidad con la virtud; mal moral, disconformidad con ella. De este modo, el bien propiamente humano (moral) es siempre un bien inteligible: las tendencias ofrecen la materia, pero el bien humano conforme a la virtud requiere la forma de la razón. (Ele_Xto_Stos, Cap. VIII, §2b)
+
 ## Distinciones importantes
 
 - **Bondad natural vs. bondad moral**: todo acto tiene bondad entitativa (ontológica), pero la bondad moral depende de su ordenación a la ley moral
@@ -54,3 +60,4 @@ Se relaciona con [[acto_humano]], [[moralidad]], [[intención]], [[circunstancia
 - [CEC §1749-1761]
 - [SmTh Ia-IIae q.18-20]
 - [Veritatis Splendor §79-83]
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VIII, §2b
