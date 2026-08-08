@@ -107,6 +107,14 @@ En *Jesús de Nazaret III*, Benedicto XVI aborda la verdad desde la pregunta de 
 
 Se relaciona con [[libertad_humana]], [[justicia]], [[caridad]], [[conciencia_moral]], [[ley_natural]]
 
+### Según Evangelization & Culture (WoF-3)
+
+George Orwell es analizado como un profeta de la defensa de la verdad objetiva. Durante la Guerra Civil española, Orwell vio «grandes batallas reportadas donde no las había y silencio completo donde cientos de hombres habían sido asesinados... la historia escrita no en términos de lo que ocurrió sino de lo que «debería haber ocurrido según las líneas del partido» [WoF-3, 10_minds_orwell]. Su experiencia española sembró las semillas de *1984*, con su «newspeak», la reescritura de la historia y la corrupción del lenguaje por parte del poder político.
+
+Orwell denunció que «el pecado de casi todos los izquierdistas desde 1933 es que querían ser antifascistas sin ser antitotalitarios». Su lección para la era digital: la verdad objetiva es incompatible con cualquier ideología que priorice el poder sobre los hechos [WoF-3, 10_minds_orwell].
+
+Matt Nelson, en «Where Aristotle Meets Twitter», señala que las redes sociales premian la opinión sin acción: «en Twitter, incluso los perdedores ganan simplemente por aprobación subjetiva» [WoF-3, 21_peripheries_aristotle]. La verdad, sin embargo, no se construye por popularidad: en los deportes —a diferencia de Twitter— «los ganadores ganan y reciben su debida recompensa; los perdedores no tienen dónde esconderse».
+
 ## Ver también
 
 [[libertad_humana]], [[justicia]], [[caridad]], [[conciencia_moral]]

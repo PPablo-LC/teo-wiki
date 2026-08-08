@@ -1112,6 +1112,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[evangelizacion_de_america]]
 - [[evangelización_de_europa]]
 - [[evangelización_de_la_cultura]]
+- [[evangelización_digital]]
 - [[evolución_del_dogma]]
 - [[ex_opere_operato]]
 - [[exaltación]]
@@ -3033,6 +3034,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[vida_religiosa]]
 - [[vida_según_el_espíritu]]
 - [[vida_sobrenatural]]
+- [[videojuegos]]
 - [[viernes_santo]]
 - [[vigilancia]]
 - [[vigilia]]
@@ -3151,6 +3153,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[anastasio_ii]]
 - [[antonio_royo_marín]]
 - [[apolinar_de_laodicea]]
+- [[aristóteles]]
 
 ### B (Personas)
 
@@ -3231,11 +3234,13 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[francisco_de_vitoria]]
 - [[francisco_fenelón]]
 - [[francisco_suárez]]
+- [[fulton_sheen]]
 
 ### G (Personas)
 
 - [[gaudí]]
 - [[gelasio_i]]
+- [[george_orwell]]
 - [[gianfranco_ghirlanda]]
 - [[gottschalk_de_orbais]]
 - [[grant_petrie]]
@@ -3372,6 +3377,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[raymond_brown]]
 - [[réginald_garrigou-lagrange]]
 - [[ricardo_blázquez]]
+- [[robert_barron]]
 
 ### S (Personas)
 
@@ -3400,6 +3406,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[san_hilario_de_poitiers]]
 - [[san_ignacio_de_loyola]]
 - [[san_irineo_de_león]]
+- [[san_isidoro_de_sevilla]]
 - [[san_jerónimo]]
 - [[san_jeronimo]]
 - [[san_josé]]
@@ -3526,6 +3533,10 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[elegidos_en_cristo_para_ser_santos]]
 - [[evangelii_gaudium]]
 - [[evangelium_vitae]]
+- [[evangelization_and_culture]]
+- [[evangelization_and_culture_issue_1_creativity]]
+- [[evangelization_and_culture_issue_2_economics]]
+- [[evangelization_and_culture_issue_3_digital_age]]
 
 ### F (Documentos)
 

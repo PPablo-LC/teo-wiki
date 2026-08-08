@@ -40,3 +40,5 @@ Se conecta con [[evangelización]] (que forja la identidad cristiana), [[santida
 ## Referencias
 
 - EA §14-15
+- [WoF-3, 11_science_video_games.md] (Fr. Blake Britton: la crisis de identidad milenial y los videojuegos)
+- [WoF-3, 17_lee_self_love.md] (James K. Lee: la identidad en San Agustín)

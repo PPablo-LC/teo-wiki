@@ -92,6 +92,12 @@ Se relaciona con [[oración_contemplativa]], [[recogimiento_interior]], [[guardi
 
 [[oración_contemplativa]], [[recogimiento_interior]], [[noche_oscura]], [[contemplación_infusa]], [[vos_estis_lux_mundi]], [[clausura]], [[sentido_de_lo_sagrado]]
 
+Benedicto XVI, en su Mensaje para la 46.ª Jornada Mundial de las Comunicaciones Sociales (2012), enfatiza que «el silencio es un elemento integral de la comunicación; en su ausencia, las palabras ricas en contenido no pueden existir. En el silencio, podemos mejor escucharnos y entendernos a nosotros mismos; las ideas nacen y adquieren profundidad; comprendemos con mayor claridad lo que queremos decir y lo que esperamos de los demás; y elegimos cómo expresarnos» [WoF-3, 14_lopez_news_addict]. El silencio permite la escucha auténtica y genera relaciones humanas más profundas.
+
+### Según Evangelization & Culture (WoF-3)
+
+Kathryn Jean Lopez recuerda que el ruido de las redes sociales y las pantallas nos aleja del silencio, de la escucha y del encuentro humano real. Benedicto XVI advierte que «a menudo es en el silencio donde observamos la comunicación más auténtica entre personas que se aman: los gestos, las expresiones faciales y el lenguaje corporal son signos por los cuales se revelan el uno al otro» [WoF-3, 14_lopez_news_addict]. La falta de silencio impide discernir lo importante de lo secundario y dificulta la contemplación del plan de salvación de Dios en la historia.
+
 ## Referencias
 
 - TPCr, Segunda Parte, caps. sobre mortificación y guarda del corazón

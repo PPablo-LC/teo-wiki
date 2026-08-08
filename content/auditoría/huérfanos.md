@@ -7,8 +7,8 @@ description: "Registro de wikilinks sin artículo propio en el wiki. 2026-08-06:
 # Auditoría de wikilinks huérfanos
 
 > Generado originalmente: 2026-06-19
-> Última actualización: **2026-08-08 — Normalización de nombres con paréntesis** (ver Notas de sesión)
-> Total de wikilinks huérfanos registrados: **1512** (pendientes de artículo; detector 2026-08-08, excluido el falso positivo `[[concepto]]`; 4 nuevos sembrados por el procesamiento del Cap. VII; 1 resuelto por normalización de nombres con paréntesis 2026-08-08)
+> Última actualización: **2026-08-08 — Incorporación de Evangelization & Culture (WoF-1, WoF-2, WoF-3)**
+> Total de wikilinks huérfanos registrados: **1521** (pendientes de artículo; detector 2026-08-08, excluido el falso positivo `[[concepto]]`;WoF-3 introduce 9 huérfanos nuevos: `[[blas_pascal]]`, `[[nietzsche]]`, `[[nones]]`, `[[periferias]]`, `[[micro_moralidad]]`, `[[macro_moralidad]]`, `[[evangelización_digital]]` (ya creado), `[[videojuegos]]` (ya creado), `[[aristóteles]]` (ya creado); 7 artículos nuevos creados: san_isidoro_de_sevilla, fulton_sheen, george_orwell, robert_barron, evangelización_digital, videojuegos, aristóteles)
 > Resueltos: 35+29+11+14+19+6+1 (6 en 2026-07-15/16 — ver sección final; 26 por re-auditoría 2026-08-01; 3 por BMV 2026-08-03; 29 por alta densidad 2026-08-03; 11 por alta densidad 2ª tanda 2026-08-03; 14 por alta densidad 3ª tanda 2026-08-03, neto −11; 19 por alta densidad 4ª tanda 2026-08-04; 6 por limpieza de paréntesis 2026-08-04, neto −5 por el re-sembrado de `[[respuesta_divina]]`; 1 por normalización de nombres con paréntesis 2026-08-08)
 
 ## Metodología

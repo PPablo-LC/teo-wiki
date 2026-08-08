@@ -159,6 +159,12 @@ Las Constituciones identifican la **meditación** como oración primaria y prior
 
 El *Salterio de mis Días* (manual de oración del Regnum Christi) describe la oración como **diálogo personal con Cristo**: no recitación mecánica, sino conversación amistosa con quien se sabe que nos ama. El *desapego* es señal de oración auténtica: desprenderse de las criaturas para adherirse a Dios. La oración aprende a amar más a Dios que las consolaciones sensibles.
 
+### Según Evangelization & Culture (WoF-3)
+
+La evangelización digital exige una vida interior sólida. «El mayor peligro para los evangelizadores online es el cinismo» —los que se desaniman ante la falta de respuestas o los ataques de los críticos. La solución es desarrollar una «profunda vida de oración afectiva que anude constantemente la voluntad a la de Cristo» y mantenerse ligado a la identidad de «hijo amado de Dios», de modo que la resistencia no desvíe de la misión [WoF-3, 15_vogt_media_evangelist].
+
+James K. Lee propone tres sugerencias augustinas para la era digital: (1) orar tanto o más de lo que se pasa en redes sociales; (2) ser social y comunitario de manera concreta; (3) participar frecuentemente en la vida sacramental [WoF-3, 17_lee_self_love]. Oliver Jeges, en su testimonio de conversión, destaca que la oración —aunque sea infantil— es buena para el alma y que las respuestas llegan de maneras inesperadas [WoF-3, 19_mission_oliver_jeges].
+
 ## Referencias
 
 - TPCr, Tercera Parte, Libro II, Cap. III, Secc. I, n.475-483

@@ -46,3 +46,6 @@ Se relaciona con [[templanza]], [[pecado]], [[esclavitud_del_pecado]], [[surrend
 
 - [CEC §1809, 1739-1742, 2291]
 - [Nota: analizados/brian_cochran_my_personal_emmaus.md]
+- [WoF-3, 01_from_the_desk.md] (Barron: los nuevos medios presentan peligros espirituales, incluida la adicción)
+- [WoF-3, 14_lopez_news_addict.md] (Lopez: la adicción a las noticias como idolatría del trabajo)
+- [WoF-3, 16_scalia_twitter.md] (Scalia: la dopamina de los «likes» como mecanismo de adicción)
