@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Bautismo
 tags: ["sacramental"]
 
-timestamp: 2026-07-25
+timestamp: 2026-08-09
 description: "El bautismo es el primer sacramento de la Nueva Ley, instituido por Nuestro Señor Jesucristo, que purifica al hombre del pecado original y de todos los pecados actuales."
 ---
 # Bautismo
 
 > Área: Sacramental
-> Última actualización: 2026-06-26
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -238,6 +238,10 @@ Todo bautizado tiene derecho y obligación a participar plenamente en la liturgi
 
 El bautismo es el sacramento del nuevo nacimiento: por él el hombre, libre de la culpa, es incorporado a Cristo crucificado y glorificado y regenerado para la participación en la vida divina (cf. Col 2,12). La primera gracia santificante recibida en el bautismo es una «auténtica participación en la naturaleza divina» que configura ontológicamente con Cristo. Es el fundamento de la [[vida_cristiana]], cuya sustancia —don de Dios— se recibe inicialmente con el bautismo y requiere la libre aceptación y colaboración de la persona; la gracia recibida es solo la semilla de una vida nueva que debe crecer hasta la plenitud de Cristo (Cap. I, §1a).
 
+### Según la conferencia «La catedral interior del sacerdote» (CIS)
+
+En el elemento de la pila bautismal, Mons. Munilla subraya que el bautismo recuerda al sacerdote que «somos hijos antes que pastores»: «nuestro gran tesoro es la condición de hijos, en la cual se integra nuestra paternidad». La pila bautismal es el lugar donde «nace el pueblo de Dios», y su presencia en la catedral custodia la identidad fundamental del ministro frente a la tentación de definirse solo por su función o sus resultados. La condición de hijos precede y fundamenta la paternidad espiritual del pastor [CIS, 2026].
+
 ## Distinciones importantes
 
 - **Bautismo de agua vs. bautismo de deseo vs. bautismo de sangre**
@@ -279,3 +283,4 @@ El bautismo es el sacramento del nuevo nacimiento: por él el hombre, libre de l
 - SmTh IIIª q.66 a.1-12; q.67 a.1-8; q.68 a.1-12; q.69 a.1-10; q.70 a.1-4; q.71 a.1-4
 - [VJ, Cap. VIII]
 - [JdN_I, cap. 4]
+- [CIS, «La catedral interior del sacerdote», 2026]

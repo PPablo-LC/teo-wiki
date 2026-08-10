@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Agua Bendita
 tags: ["sacramental"]
 
-timestamp: 2026-05-22
+timestamp: 2026-08-09
 description: "El agua bendita es un sacramental instituido por la Iglesia, consistente en agua natural bendecida por un sacerdote con una fórmula y rito especiales, que se usa para purificar."
 ---
 # Agua Bendita
 
 > Área: Sacramental
-> Última actualización: 2026-05-22
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -39,6 +39,10 @@ El uso frecuente y devoto del agua bendita purifica de los pecados veniales, ale
 
 [TPCr, Parte III, Libro II, Caps. IV-V — Medios Secundarios]
 
+### Según la conferencia «La catedral interior del sacerdote» (CIS)
+
+En el umbral de la catedral, Mons. Munilla recupera el sentido del agua bendita como gesto de purificación: «el agua bendita es una conciencia de que me purifico para poder entrar. Se trata de remarcar la conciencia de indignidad, así como de la necesidad de desmundanizarse para poder entrar al encuentro con Dios». «Se nos pega el polvo del mundo»: no es fácil pasar de la calle a recibir la comunión sin más; hace falta un «tránsito, un tránsito de despojarte», preparándote para el encuentro «pidiendo a Dios que te purifique». Munilla lamenta que con la pandemia se haya perdido en parte esta práctica [CIS, 2026].
+
 ## Distinciones importantes
 
 - **Agua bendita** ≠ **agua bautismal**: el agua bautismal es consagrada en la Vigilia Pascual para el sacramento del Bautismo; el agua bendita es bendecida para usos varios.
@@ -57,3 +61,4 @@ El agua bendita es un [[sacramental]] que prepara para recibir los [[sacramentos
 
 - [CEC §1668]
 - [TPCr, Parte III, Libro II, Caps. IV-V]
+- [CIS, «La catedral interior del sacerdote», 2026]

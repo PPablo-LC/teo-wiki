@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Sacerdocio
 tags: ["sacramental", "eclesiología"]
 
-timestamp: 2026-06-20
+timestamp: 2026-08-09
 description: "Institución divina por la cual algunos fieles son consagrados por el sacramento del Orden para actuar en la persona de Cristo Cabeza (in persona Christi Capitis)."
 ---
 # Sacerdocio
 
 > Área: Sacramental / Eclesiología
-> Última actualización: 2026-06-20
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -88,6 +88,21 @@ Juan Pablo II presenta el sacerdocio como «administrador de los misterios de Di
 
 La función principal del sacerdote es presidir la celebración eucarística, en la que actúa *in persona Christi*; la Eucaristía es su función principal, y todo el ministerio sacerdotal se ordena a ella (§19). El sacerdote ejerce en la Misa las facultades propias de su ordenación: es quien preside, ofrece el sacrificio, y puede impartir la bendición final (§24, §31). La homilía está reservada al sacerdote o al diácono que preside; ningún laico puede pronunciarla (§66).
 
+### Según la conferencia «La catedral interior del sacerdote» (CIS)
+
+Mons. Munilla desarrolla la imagen de la catedral propuesta por León XIV (DC-Convivium) como metáfora de la arquitectura interior del alma sacerdotal. El sacerdote es, ante todo, *alter Christus*: no un hombre definido por la multiplicación de tareas o la presión de los resultados, sino «un varón configurado con Cristo». Sus rasgos se despliegan en los elementos del templo:
+
+1. **La fachada**: visibilidad externa que conduce al misterio. El sacerdote no vive para exhibirse ni para esconderse; su vida remite a Dios «sin usurpar su lugar». Riesgos: la sobreexposición (redes sociales, autoreferencialidad) y la tentación opuesta de invisibilizarse por timidez.
+2. **El umbral**: vía purificativa y separación necesaria; en él se sitúan los consejos evangélicos (celibato, pobreza, obediencia) como despojamiento del yo.
+3. **La nave**: el sacerdote se purifica de la tentación clericalista y aprende a amar la comunidad real que Dios le confía —«amar a la iglesia abstracta es fácil, pero amar la nave concreta con sus ritmos lentos y sus heridas es la verdadera caridad pastoral».
+4. **Las columnas**: fundamento apostólico, fidelidad doctrinal y estabilidad afectiva; el sacerdote «no responde desde sí mismo sino desde Cristo, la roca».
+5. **La pila bautismal y el confesionario**: los sacramentos como cauce de gracia —«no sois la fuente sino el cauce»—; el sacerdote también necesita confesarse.
+6. **Las capillas laterales**: los carismas y espiritualidades, todos orientados al centro.
+7. **El altar y el sagrario**: la Eucaristía como centro de la vida sacerdotal; adoración antes que administración.
+8. **Los espacios de comunión sacerdotal** (añadido creativo de Munilla): coro, claustro, sala capitular; fraternidad presbiteral frente al individualismo.
+
+Conclusión: «el sacerdote no es el arquitecto, no es la luz, no es el centro. Es parte de una obra que Dios construye, y su mayor dignidad consiste en permitir que Cristo sea el templo».
+
 ## Distinciones importantes
 - El sacerdocio común de los fieles se recibe en el Bautismo; el sacerdocio ministerial se recibe en el Orden.
 - Solo el sacerdocio ministerial puede celebrar la Eucaristía y perdonar los pecados.
@@ -108,6 +123,7 @@ Se relaciona con [[orden_sacerdotal]], [[obispo]], [[presbítero]], [[diácono]]
 - TPCr, Parte III, Libro II, Cap. 1; Parte III, Libro III
 - CIC cc. 1008-1054 (Libro III)
 - [DC-Convivium, 09.02.2026]
+- [CIS, «La catedral interior del sacerdote», 2026]
 - [L_XIV-ClerRom, 19.02.2026]
 - [JorSant-2026, 12.06.2026]
 - SmTh IIIª q.22 aa.1-6

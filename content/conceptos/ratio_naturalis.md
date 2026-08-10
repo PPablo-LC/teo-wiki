@@ -24,6 +24,8 @@ La inteligencia posee una dimensión natural que no depende de la libre elecció
 
 La inteligencia posee también una dimensión natural, la *ratio naturalis*, formada por evidencias fundamentales especulativas y prácticas: los primeros principios. Tanto la composición de [[alma|alma y cuerpo]] como la síntesis de [[naturaleza_y_libertad|naturaleza y libertad]] entrañan que la libertad humana no es una iniciativa pura: el hombre tiene inclinaciones y necesidades que solo pueden satisfacerse mediante un comportamiento libre. En la vida moral, la persona debe tomar decisiones sobre temas que no ha elegido (el deseo de plenitud y felicidad, la necesidad de alimentos, la pulsión sexual), también en la vida moral del cristiano (Ele_Xto_Stos, Cap. V, §1).
 
+En el contexto de la [[ley_natural]], la *ratio naturalis* es parte esencial de la naturaleza práctica del hombre, es decir, de la naturaleza propia del hombre en cuanto agente racional o sujeto moral. La ley moral natural es la ley que la razón posee por naturaleza, en virtud de la cual algunos fines son naturalmente conocidos por el hombre en cuanto tal, como principios de la actividad práctica de la razón. Si no existiese una razón natural —si no existiese nada en la razón propio de su naturaleza que fuese principio de todo razonar práctico— entonces no existiría ninguna racionalidad en el obrar, sino solamente un ciego deseo (Ele_Xto_Stos, Cap. VIII, §2b).
+
 ## Distinciones importantes
 
 - **Inteligencia vs. razón**: la inteligencia es la facultad de conocer; la *ratio naturalis* es su dimensión natural, formada por los primeros principios, tanto especulativos como prácticos.
@@ -39,4 +41,4 @@ Se relaciona con la [[inteligencia]], la [[naturaleza_y_libertad]], la [[volunta
 
 ## Referencias
 
-- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. V, §1
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. V, §1; Cap. VIII, §2b

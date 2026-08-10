@@ -3,13 +3,13 @@ type: Persona
 title: Orígenes
 tags: ["historia_—_padres_de_la_iglesia", "herejías"]
 
-timestamp: 2026-06-25
+timestamp: 2026-08-09
 description: "Orígenes fue el teólogo más influyente y prolífico de la Iglesia antigua."
 ---
 # Orígenes
 
 > Área: Historia — Padres de la Iglesia, Herejías
-> Última actualización: 2026-06-25
+> Última actualización: 2026-08-09
 
 ## Identificación
 
@@ -41,6 +41,10 @@ El emperador Justiniano convocó un sínodo en Constantinopla (543) que promulg�
 
 El II Concilio de Constantinopla (553) incluyó a Orígenes en la lista de herejes condenados (D-223), junto a Arrio, Eunomio, Macedonio, Apolinar, Nestorio y Eutiques.
 
+### Según la conferencia «La catedral interior del sacerdote» (CIS)
+
+Mons. Munilla recoge la valoración de Orígenes sobre el cuarto Evangelio —«el Evangelio de Juan es el tesoro, el corazón de la Escritura»— para fundamentar la centralidad del pasaje del discípulo amado que reclina su cabeza en el costado de Cristo (Jn 13,23), presentado como el corazón del Evangelio de Juan y la imagen del descanso del sacerdote en la Eucaristía. La cita muestra la continuidad de la tradición exegética alejandrina en la espiritualidad sacerdotal [CIS, 2026].
+
 ## Ver también
 
 [[origenismo]], [[apocatástasis]], [[preexistencia_de_las_almas]], [[exégesis_patrística]], [[escuela_alejandrina]], [[II_concilio_de_constantinopla]]
@@ -48,3 +52,4 @@ El II Concilio de Constantinopla (553) incluyó a Orígenes en la lista de herej
 ## Referencias
 
 - Denzinger D-203–211 (condena de 543), D-223 (condena en 553)
+- [CIS, «La catedral interior del sacerdote», 2026]

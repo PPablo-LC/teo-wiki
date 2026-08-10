@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Clericalismo
 tags: ["moral", "eclesiología"]
 
-timestamp: 2026-05-29
+timestamp: 2026-08-09
 description: "Actitud o sistema de pensamiento que atribuye al clero un estatus de privilegio o superioridad sobre los fieles laicos."
 ---
 # Clericalismo
 
 > Área: Moral / Eclesiología
-> Última actualización: 2026-05-29
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -49,6 +49,10 @@ Ghirlanda estableció una distinción terminológica precisa:
 
 Ambas formas de abuso de autoridad comparten la misma raíz: la confusión entre el servicio y el poder, y la resistencia a la rendición de cuentas y a la sinodalidad. La Asamblea, al aplicar esta distinción a la realidad del Regnum Christi, reconoció que el clericalismo en la Legión y el despotismo en otras ramas son dos caras de un mismo problema que la Federación debe abordar institucionalmente.
 
+### Según la conferencia «La catedral interior del sacerdote» (CIS)
+
+En la nave de la catedral —el espacio del pueblo de Dios—, el sacerdote «aprende a purificarse de la tentación clericalista»: a experimentarse como miembro de una familia, «como alguien que sirve a una comunidad real, a la que ama, no una comunidad ideal». La tentación clericalista es la de soñar «en otro pueblo de Dios, con más cualidades, con otras edades distintas, con otras formaciones académicas», en lugar de amar a la Iglesia real que Dios confía, «la nave concreta con sus ritmos lentos y sus heridas». El clericalismo, en esta línea, se desactiva no solo con el reconocimiento del sacerdocio común, sino con la actitud del pastor que ama y escucha a las personas concretas [CIS, 2026].
+
 ## Necesidad de conversión
 
 La superación del clericalismo requiere:
@@ -78,3 +82,4 @@ La superación del clericalismo requiere:
 ## Referencias
 
 - PMI (Discurso conclusivo del Encuentro sobre la Protección de los Menores en la Iglesia, 24 febrero 2019), §75-77
+- [CIS, «La catedral interior del sacerdote», 2026]

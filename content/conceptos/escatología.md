@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Escatología
 tags: ["escatología"]
 
-timestamp: 2026-07-23
+timestamp: 2026-08-09
 description: "Rama de la teología que trata de las realidades últimas o finales."
 ---
 # Escatología
 
 > Área: Escatología
-> Última actualización: 2026-07-23
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -80,6 +80,10 @@ Bishop Robert Barron dedica la Lección 10 completa ("Mundo sin fin") a la escat
 
 > «El infierno es real porque la libertad es real — la posibilidad del rechazo definitivo de Dios» (WoF, L10)
 
+
+### Según el Pórtico de la Biblia (PdB)
+
+La cronología de la Nueva Alianza del PdB se presenta como una cronología «abierta», porque «la historia de la salvación continúa en la vida de la Iglesia y continuará hasta el final de los tiempos, cuando Jesús regrese en su segunda venida». La infografía del Apocalipsis presenta la historia narrada así: «Dios desvela cómo dirige los destinos del mundo y de la Iglesia, y muestra que el mal no tendrá la última palabra al final de los tiempos». En Cristo, Dios ha vencido al mal: «El Señor, en su segunda venida, establecerá su Reino para siempre» [PdB, Apocalipsis].
 
 ## Distinciones importantes
 

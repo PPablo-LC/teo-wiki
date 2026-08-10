@@ -3,13 +3,13 @@ type: Persona
 title: Benedicto XVI
 tags: ["personajes", "teólogos"]
 
-timestamp: 2026-05-29
+timestamp: 2026-08-09
 description: "Joseph Aloisius Ratzinger (Marktl am Inn, Baviera, 16 de abril de 1927 — Ciudad del Vaticano, 31 de diciembre de 2022)."
 ---
 # Benedicto XVI
 
 > Área: Personajes / Teólogos
-> Última actualización: 2026-05-29
+> Última actualización: 2026-08-09
 
 ## Contexto histórico
 
@@ -43,6 +43,10 @@ El documento recoge el magisterio de Benedicto XVI sobre los [[movimientos_ecles
 
 La reforma de 2010 significó un punto de inflexión en la respuesta de la Iglesia al abuso sexual de menores. Por primera vez se tipificó autónomamente el delito de pornografía infantil (art. 6 §1 n. 2), se fijó la edad del menor en 18 años, y se estableció que los delitos contra el sexto mandamiento con menores prescriben a los 20 años, con facultad de la [[dicasterio_para_la_doctrina_de_la_fe]] para derogar la prescripción en casos singulares (art. 7 §1).
 
+### Según la conferencia «La catedral interior del sacerdote» (CIS)
+
+Mons. Munilla reconoce el precedente de Benedicto XVI en el uso de la imagen de la catedral: «sí que había visto a Benedicto XVI hacer un poco catequesis de los elementos de una catedral, eso sí, pero no referido al alma sacerdotal; eso me parece que es original» de León XIV. La conferencia se apoya así en esta tradición catequética, aplicándola a la vida interior del sacerdote [CIS, 2026].
+
 ## Analizado para
 
 - [[auténtica_día_3_aporta_al_mundo_con_tus_talentos]] — convergencia en cita «Cada persona lleva consigo un proyecto de Dios» como expresión de la providencia divina
@@ -56,3 +60,4 @@ La reforma de 2010 significó un punto de inflexión en la respuesta de la Igles
 - SST-2010, Benedicto XVI, *Normae de gravioribus delictis*, 21 mayo 2010.
 - Benedicto XVI, *Audiencia general sobre la reforma de las normas*, 15 septiembre 2010.
 - Benedicto XVI, *Carta circular a los Obispos sobre los casos de abuso*, 2011.
+- [CIS, «La catedral interior del sacerdote», 2026]

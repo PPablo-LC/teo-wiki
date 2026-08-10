@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Sacerdocio de Cristo
 tags: ["cristología", "sacramental"]
 
-timestamp: 2026-06-21
+timestamp: 2026-08-09
 description: "Jesucristo es el único y eterno Sumo Sacerdote de la Nueva Alianza, que se ofreció a sí mismo en sacrificio perfecto y único por la salvación de todos los hombres."
 ---
 # Sacerdocio de Cristo
 
 > Área: Cristología / Sacramental
-> Última actualización: 2026-06-21
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -44,6 +44,10 @@ Benedicto XVI aborda el sacerdocio de Cristo en el contexto de la oración sacer
 **Sumo sacerdote según el orden de Melquisedec.** El sacerdocio de Cristo es «eterno» y «según el orden de Melquisedec» (Sal 110,4; Hb 7,17.21), no según el orden levítico. Melquisedec, figura del Antiguo Testamento, ofrece pan y vino (Gn 14,18) y bendice a Abrahán. En él se unen la realeza y el sacerdocio: Cristo es Rey y Sacerdote, como lo será el sacerdote ministerial en la Iglesia. Benedicto XVI subraya que la Eucaristía es el culto nuevo instituido por Cristo, en el que el sacrificio de la cruz se hace presente sacramentalmente como ofrenda del Sumo Sacerdote.
 
 **El sacerdocio ministerial en la Iglesia.** La oración sacerdotal es también la raíz del sacerdocio ministerial: Jesús ora «por los que crean en mí por la palabra de ellos» (Jn 17,20), extendiendo su intercesión a través de los Apóstoles y sus sucesores. Los presbíteros participan del único sacerdocio de Cristo, actuando in persona Christi capitis en la Eucaristía.
+
+### Según el Pórtico de la Biblia (PdB)
+
+La infografía de la carta a los Hebreos del PdB destaca que es «el único texto del Nuevo Testamento donde se afirma explícitamente que Jesucristo es el Sumo y Eterno Sacerdote». El escrito muestra la «superioridad» del sacerdocio de Cristo «como Hijo» sobre los sacerdotes de la Antigua Alianza, y que la Nueva Ley supone «el cumplimiento y la superación de la Antigua Alianza». Este es el fundamento doctrinal que respalda la exhortación a la perseverancia en la fe, motivo principal de la carta.
 
 ## Relaciones doctrinales
 

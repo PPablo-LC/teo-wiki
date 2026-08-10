@@ -3,13 +3,13 @@ type: Persona
 title: Agustín de Hipona
 tags: ["patrística"]
 
-timestamp: 2026-06-25
+timestamp: 2026-08-09
 description: "San Agustín de Hipona (354-430) fue obispo de Hipona, Padre y Doctor de la Iglesia. Nacido en Tagaste (Numidia), es uno de los teólogos más influyentes del cristianismo occidental."
 ---
 # Agustín de Hipona
 
 > Área: Patrística
-> Última actualización: 2026-06-25
+> Última actualización: 2026-08-09
 
 ## Biografía
 
@@ -33,6 +33,10 @@ El Denzinger recoge la recomendación de Celestino I sobre Agustín (D-128) y la
 
 James K. Lee, en su artículo sobre San Agustín y la era digital, destaca la enseñanza augustina sobre el amor propio: «¿Quieres amarte a ti mismo? Ama a Dios con todo tu ser: allí encontrarás tu ser, o en ti mismo te perderás». Para Agustín, el pecado es amor desordenado; amar a uno mismo más que a Dios es amarse mal, es decir, autodestruirse. El remedio es la caridad —amar a Dios y al prójimo— y la participación en los sacramentos, especialmente la Eucaristía, donde recibimos nuestra identidad como miembros del Cuerpo de Cristo [WoF-3, 17_lee_self_love].
 
+### Según la conferencia «La catedral interior del sacerdote» (CIS)
+
+Mons. Munilla cita a San Agustín en dos momentos clave de la conferencia. Al hablar del doble proceso de secularización y nueva inquietud espiritual: «Nos hiciste, Señor, para ti, y nuestro corazón está inquieto hasta que no descansa en ti» (Confesiones I,1) —y constata que la frase se muestra «súper verdadera» ante el resurgir de la búsqueda religiosa, especialmente entre jóvenes catecúmenos. Y al tratar el despojamiento del yo propio del umbral: «Yo soy yo, pero no soy mío, soy de Jesús», frase que resume la desposesión que exigen los consejos evangélicos. Ambas citas subrayan la doctrina agustiniana del corazón inquieto y de la pertenencia radical a Cristo [CIS, 2026].
+
 ## Obras principales
 
 - Confesiones
@@ -51,3 +55,4 @@ James K. Lee, en su artículo sobre San Agustín y la era digital, destaca la en
 
 - Denzinger D-128, D-129-141, D-173a (Enchiridion Symbolorum)
 - [WoF-3, 17_lee_self_love.md] (James K. Lee: San Agustín y el amor propio en la era digital)
+- [CIS, «La catedral interior del sacerdote», 2026]

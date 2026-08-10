@@ -3,13 +3,13 @@ type: Persona
 title: Papa Francisco
 tags: ["personajes", "teólogos"]
 
-timestamp: 2026-05-29
+timestamp: 2026-08-09
 description: "Jorge Mario Bergoglio (Buenos Aires, 17 de diciembre de 1936)."
 ---
 # Papa Francisco
 
 > Área: Personajes / Teólogos
-> Última actualización: 2026-05-29
+> Última actualización: 2026-08-09
 
 ## Contexto histórico
 
@@ -53,6 +53,10 @@ El documento recoge la cercanía del Papa Francisco a los [[movimientos_eclesial
 
 El [[vademécum_del_ddf]] (2022) fue promulgado durante su pontificado como instrumento práctico para unificar la praxis procesal en los casos de abuso, desarrollando la legislación de SST, VELM y PGD.
 
+### Según la conferencia «La catedral interior del sacerdote» (CIS)
+
+Mons. Munilla presenta las fotografías del Papa Francisco confesándose y administrando la confesión como «una de las fotografías más emblemáticas del pontificado», junto con las imágenes en las que abraza rostros heridos con todo el cariño. Las considera «los momentos carismáticos de su pontificado», y las aduce como estímulo para que los sacerdotes se entreguen al sacramento de la confesión y se dejen interpelar por él [CIS, 2026].
+
 ## Ver también
 
 [[papa]], [[vos_estis_lux_mundi]], [[pascite_gregem_dei]], [[como_una_madre_amorosa]], [[benedicto_xvi]], [[león_xiv]], [[dicasterio_para_la_doctrina_de_la_fe]], [[vademécum_del_ddf]], [[adulto_vulnerable]], [[protección_de_menores_en_la_iglesia]], [[curia_romana]], [[derecho_canónico]]
@@ -67,4 +71,5 @@ El [[vademécum_del_ddf]] (2022) fue promulgado durante su pontificado como inst
 - Francisco, *Encuentro sobre la Protección de Menores*, discursos (2019).
 - Francisco, Constitución Apostólica *Pascite Gregem Dei* (2021).
 - Francisco, Constitución Apostólica *Praedicate Evangelium* (2022).
+- [CIS, «La catedral interior del sacerdote», 2026]
 - Vademécum del DDF, v. 2.0 (2022).

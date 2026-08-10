@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Adoración eucarística
 tags: ["dogmática_—_litúrgica"]
 
-timestamp: 2026-06-10
+timestamp: 2026-08-09
 description: "Culto de latría dirigido a Jesucristo realmente presente en la Sagrada Eucaristía bajo las especies del pan y del vino."
 ---
 # Adoración eucarística
 
 > Área: Dogmática — Litúrgica
-> Última actualización: 2026-06-10
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -65,6 +65,10 @@ La *Redemptor Hominis* establece el fundamento del culto eucarístico fuera de l
 
 El Papa advierte que la Eucaristía «no puede ser tratada sólo como una 'ocasión' para manifestar esta fraternidad», reafirmando la dimensión vertical del culto eucarístico más allá de su aspecto comunitario [RH §20].
 
+### Según la conferencia «La catedral interior del sacerdote» (CIS)
+
+En el elemento del altar y el sagrario, León XIV pide «hombres adoradores, hombres de profunda oración, y enseñad a vuestro pueblo a hacer lo mismo». Munilla desarrolla esta exigencia: «estamos llamados a ser primero adoradores y después administradores». «Si no hay sagrario, si no hay vida interior, todo se vuelve autorreferencial, todo es fugaz y provisional.» La adoración ante el sagrario es el descanso del sacerdote: la pregunta clave es «¿en dónde tengo yo mi descanso?» —«si un día no me encuentran, ¿por dónde empiezan a buscarme?»—, porque la Eucaristía debe ser el descanso, a imagen del discípulo amado que reclina su cabeza en el costado de Cristo. La adoración precede y sostiene la administración: sin ella, la celebración se degrada a un «rito ante un público» [CIS, 2026].
+
 ## Distinciones importantes
 
 - **Adoración eucarística vs. comunión**: una es culto de presencia, la otra es recepción sacramental
@@ -88,3 +92,4 @@ La adoración eucarística es expresión máxima de la [[virtud_de_la_religión]
 - [CEC §1378-1381, §1418]
 - [TPCr, Parte III, Libro II, Cap. I, Art. 5]
 - [DC-Convivium, 09.02.2026]
+- [CIS, «La catedral interior del sacerdote», 2026]

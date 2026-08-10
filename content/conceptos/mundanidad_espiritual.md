@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Mundanidad espiritual
 tags: ["espiritualidad", "eclesiología"]
 
-timestamp: 2026-07-14
+timestamp: 2026-08-09
 description: "Tentación que afecta a los creyentes y comunidades eclesiales cuando la fe se reduce a apariencias externas y se busca la gloria humana en vez de la gloria de Dios."
 ---
 # Mundanidad espiritual
 
 > Área: Espiritualidad / Eclesiología
-> Última actualización: 2026-07-14
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -37,6 +37,10 @@ De Lubac describe la mundanidad espiritual como la tentación de la Iglesia de c
 
 Pablo VI anticipó advertencias contra esta tentación al enseñar que la evangelización requiere una conversión permanente: «El Evangelio, en efecto, es de una eficacia que nadie puede limitar, pero actúa por la vía de la libre disponibilidad de quienes lo reciben. Por eso la conversión es siempre una renovación» (EN 29). La EN también señala el riesgo de una Iglesia que se convierte en «estructura» sin vida (EN 18).
 
+### Según la conferencia «La catedral interior del sacerdote» (CIS)
+
+Mons. Munilla aplica el riesgo de la mundanidad espiritual al sacerdote mediante la imagen de la fachada. La fachada «no puede convertirse en espectáculo, ni en autorreferencia»: el riesgo de la sobreexposición —especialmente en las redes sociales— y de buscar el protagonismo. Como ejemplo, analiza el caso del sacerdote joven de Milán que anunció su secularización en Instagram: un estudio de sus mensajes mostró cómo «con el paso del tiempo ha pasado de ser Jesucristo el centro de los mensajes» a acabar siendo él mismo, «autoreferencial». El riesgo opuesto es la invisibilización por timidez o por el peso de la vocación pública. La visibilidad del sacerdote debe ser «auténtica pero humilde», un «sacramento de una presencia de Dios»: mostrar «un rostro convencido de sí mismo, pero al mismo tiempo humilde, porque remitimos a un misterio». También la caridad sin la verdad —advierte Munilla con la carta del Papa— «es un engaño que, con frecuencia, esconde la búsqueda de reconocimiento o también la mundanización» [CIS, 2026].
+
 ## Distinciones importantes
 
 - **Mundanidad espiritual vs. mundanidad secular:** La mundanidad secular es la tentación de acomodarse al mundo sin fe. La mundanidad espiritual es la tentación de vivir la fe como una realidad que busca satisfacer el ego en lugar de glorificar a Dios.
@@ -56,3 +60,4 @@ Se relaciona con [[conversión_pastoral]], [[conversión_eclesial]], [[clericali
 - [EG §§93-98]
 - [Henri de Lubac, *Méditation sur l'Église* (1953)]
 - [Pablo VI, EN §§18, 29]
+- [CIS, «La catedral interior del sacerdote», 2026]

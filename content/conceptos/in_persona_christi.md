@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: In persona Christi
 tags: ["sacramental", "cristología"]
 
-timestamp: 2026-06-15
-description: "Expresión latina que significa «en la persona de Cristo»."
+timestamp: 2026-08-09
+description: "Expresión latina que significa «en la persona de Cristo»: el sacerdote ministerial actúa en la persona de Cristo Cabeza en la celebración de los sacramentos, especialmente la Eucaristía."
 ---
 # In persona Christi
 
 > Área: Sacramental / Cristología
-> Última actualización: 2026-06-15
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -31,6 +31,10 @@ Juan Pablo II desarrolla el *in persona Christi* desde su experiencia personal d
 
 La postración del ordenando —«yacer por tierra en forma de Cruz antes de la Ordenación»— significa «acoger en la propia vida —como Pedro— la Cruz de Cristo y hacerse con el Apóstol "suelo" para los hermanos», lo cual constituye «el sentido más profundo de toda la espiritualidad sacerdotal» [DyM, IV].
 
+### Según la conferencia «La catedral interior del sacerdote» (CIS)
+
+Mons. Munilla precisa el sentido de la expresión *alter Christus* en la carta de León XIV: el sacerdote actúa *in persona Christi*, y por ello «es Cristo vivo quien actúa en nosotros». Esta convicción centra el ministerio y purifica el activismo: no es el sacerdote quien produce los efectos de la gracia, sino Cristo que actúa a través de él. La sacramentalidad de la identidad sacerdotal se visualiza especialmente en la celebración de los sacramentos, donde el sacerdote es «cauce», no «fuente». Cuando el sacerdote pierde esta conciencia y pasa a hablar desde sí mismo —en lugar de «este es mi cuerpo que se entrega por vosotros»— deja de estar configurado con Cristo y el ministerio se vacía [CIS, 2026].
+
 ## Distinciones importantes
 
 - *In persona Christi* en la acción sacramental (especialmente Eucaristía y Penitencia) vs. acción del sacerdote en su propia persona (predicación, consejo)
@@ -49,3 +53,4 @@ La postración del ordenando —«yacer por tierra en forma de Cruz antes de la 
 
 - [DyM, cap. IV, VIII]
 - [CEC §1348, §1548]
+- [CIS, «La catedral interior del sacerdote», 2026]

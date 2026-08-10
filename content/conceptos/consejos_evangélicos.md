@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Consejos evangélicos
 tags: ["moral", "ascética"]
 
-timestamp: 2026-05-25
+timestamp: 2026-08-09
 description: "Los consejos evangélicos son las invitaciones que Cristo dirige en el Evangelio a una vida de mayor perfección, más allá de lo estrictamente mandado."
 ---
 # Consejos evangélicos
 
 > Área: Moral / Ascética
-> Última actualización: 2026-06-29
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -57,6 +57,10 @@ La práctica de los consejos evangélicos constituye un verdadero holocausto ofr
 
 Juan Pablo II aborda los [[consejos_evangélicos]] especialmente en el [[celibato_sacerdotal]] como don que permite la plena disponibilidad para la [[cura_animarum]] [DyM, V]. La castidad sacerdotal, vivida por los santos como San Juan María Vianney, es testimonio profético del Reino y configuración con Cristo [DyM, V].
 
+### Según la conferencia «La catedral interior del sacerdote» (CIS)
+
+Mons. Munilla sitúa los consejos evangélicos en el umbral de la catedral (elemento segundo de la carta de León XIV). El umbral marca «una separación necesaria»: el sacerdocio se vive «estando en el mundo, pero sin ser del mundo» (cf. Jn 17,14). En este cruce se sitúan el celibato, la pobreza y la obediencia, «no como negación de la vida sino como la forma concreta que permite al sacerdote pertenecer enteramente a Dios sin dejar de caminar entre los hombres». Los tres suponen un despojamiento del yo: la obediencia despoja de la voluntad propia, la pobreza de las seguridades materiales y el celibato purifica los afectos «para que sean plenamente esponsales en Cristo». «Ser de Dios requiere desposeerse de uno mismo.» El umbral es así una «pedagogía»: se trata de la progresiva desmundanización necesaria para entrar al encuentro con Dios [CIS, 2026].
+
 ## Distinciones importantes
 
 - **Consejos vs. mandamientos**: los mandamientos obligan bajo pecado; los consejos son invitaciones a mayor perfección
@@ -78,3 +82,4 @@ Los consejos evangélicos se ordenan a la [[perfección_cristiana]] ya la [[cari
 - [TPCr, Parte II, n.171; Parte III, Libro III, n.728]
 - [Santo Tomás, I-II, q.108, a.4; II-II, q.184-189]
 - [CIC cc. 573 §1, 575, 599-601]
+- [CIS, «La catedral interior del sacerdote», 2026]

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Juicio final
 tags: ["escatología"]
 
-timestamp: 2026-06-16
+timestamp: 2026-08-09
 description: "El Juicio final (también llamado Juicio universal) es el juicio definitivo que Cristo pronunciará sobre toda la humanidad al final de los tiempos, cuando vuelva en gloria."
 ---
 # Juicio final
 
 > Área: Escatología
-> Última actualización: 2026-06-16
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -64,6 +64,10 @@ Según las obras de caridad (Mt 25). El juicio a través del amor. El infierno c
 ### Según el Enchiridion Symbolorum (Denzinger)
 
 El **Papa Pelagio I** (557), en su carta *Humani generis* al rey Childeberto (D-228a), profesó la fe de la Iglesia en los novísimos: «Todos los hombres, desde Adán hasta la consumación del tiempo, [...] confieso que entonces han de resucitar y presentarse ante el tribunal de Cristo, a fin de recibir cada uno lo propio de su cuerpo, según su comportamiento, ora bienes, ora males». Los justos recibirán «los premios de la vida eterna, es decir, que vivirán sin fin en la compañía de los ángeles, sin miedo alguno a la caída suya». Los inicuos, «que por albedrío de su propia voluntad permanecen vasos de ira aptos para la ruina», serán entregados «por justísimo juicio a las penas del fuego eterno e inextinguible, para que ardan sin fin».
+
+### Según el Pórtico de la Biblia (PdB)
+
+La infografía del Apocalipsis del PdB describe entre sus visiones escatológicas los «últimos combates, con el triunfo de Cristo, el juicio final y la aparición de la nueva Jerusalén mesiánica». El libro concluye con la victoria definitiva de Cristo: el mal no tendrá la última palabra y el Señor, en su segunda venida, establecerá su Reino para siempre. La nueva Jerusalén es presentada como la consumación escatológica donde «las naciones caminarán a la luz del Cordero, y los reyes de la tierra le rendirán su gloria» [PdB, Apocalipsis].
 
 ## Distinciones importantes
 

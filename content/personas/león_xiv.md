@@ -3,13 +3,13 @@ type: Persona
 title: León XIV
 tags: ["personas", "papas"]
 
-timestamp: 2026-06-12
+timestamp: 2026-08-09
 description: "Robert Francis Prevost (Chicago, 14 de septiembre de 1955), religioso agustino, 267.º papa de la Iglesia católica desde el 8 de mayo de 2025."
 ---
 # León XIV
 
 > Área: Personas / Papas
-> Última actualización: 2026-06-12
+> Última actualización: 2026-08-09
 
 ## Contexto histórico
 
@@ -180,6 +180,10 @@ Evocó la inscripción de la Capilla Paulina —«Para mí la vida es Cristo, y 
 
 Mencionó explícitamente al Cardenal John Henry Newman y su poema *El sueño de Geroncio*, como prisma para contemplar el miedo a la muerte. También agradeció al coro por la música, señalando que «la música nos ayuda de una manera que las palabras no pueden alcanzar, elevando nuestro espíritu hacia el Señor».
 
+### Según la conferencia «La catedral interior del sacerdote» (CIS)
+
+La conferencia de Mons. Munilla (2026) se inspira directamente en la carta del Papa al Convivium de Madrid (28-01-2026), de la que destaca su «iniciativa pedagógica» de desarrollar el perfil del sacerdote mediante los elementos de una catedral. Munilla valora especialmente la definición del sacerdote como *alter Christus* —frente a la crítica de algún teólogo que la calificó de «invención del siglo XIX»—, la precisión de que la carta se refiere al sacerdote que actúa *in persona Christi*, y la imagen de la catedral como metáfora de la arquitectura interior del alma sacerdotal. El orador amplía el elenco del Papa añadiendo un octavo elemento, los espacios de comunión sacerdotal, porque «el Papa ha integrado esta dimensión en otros lugares» [CIS, 2026].
+
 ## Ver también
 
 [[legión_de_cristo]], [[john_connor]], [[carlos_gutiérrez]], [[erik_varden]], [[john_henry_newman]], [[viaje_apostólico_españa_2026]]
@@ -195,3 +199,4 @@ Mencionó explícitamente al Cardenal John Henry Newman y su poema *El sueño de
 - [JorSant-2026, 12.06.2026]
 - [L_XIV-ViajeEspaña-2026, 01-23]
 - [EjEsp2026, epílogo]
+- [CIS, «La catedral interior del sacerdote», 2026]

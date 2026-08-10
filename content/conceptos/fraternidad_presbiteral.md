@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Fraternidad presbiteral
 tags: ["eclesiología", "espiritualidad_sacerdotal"]
 
-timestamp: 2026-06-12
+timestamp: 2026-08-09
 description: "Vínculo de comunión entre los presbíteros de una diócesis que, bajo la autoridad del obispo, forman un único presbiterio."
 ---
 # Fraternidad presbiteral
 
 > Área: Eclesiología / Espiritualidad sacerdotal
-> Última actualización: 2026-06-12
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -39,6 +39,10 @@ En su diálogo con el clero romano, León XIV aborda la fraternidad presbiteral 
 
 Como antídoto, propone la iniciativa personal para crear vínculos: «no tengamos miedo de llamar a la puerta del otro, de tomar la iniciativa». Narra el ejemplo de un grupo de sacerdotes de Chicago que desde su ordenación pactaron reunirse mensualmente para orar, estudiar y compartir la vida, manteniendo el encuentro hasta la ancianidad. Recomienda el estudio permanente como contenido de estos encuentros: «cuando escucho a alguien decirme —'no he vuelto a abrir un libro desde que salí del seminario'— ¡qué tristeza! Y qué triste es para sus fieles». Subraya que estos encuentros deben ser presenciales: «no a través de una pantalla... también puede tener su valor, pero en persona» [L_XIV-ClerRom, 19.02.2026].
 
+### Según la conferencia «La catedral interior del sacerdote» (CIS)
+
+Mons. Munilla añade —como octavo elemento creativo de su conferencia— los «espacios de comunión sacerdotal» de la catedral: el coro (donde se ora juntos), el claustro (que respira fraternidad) y la sala capitular (discernimiento compartido), porque «el Papa ha integrado esta dimensión en otros lugares». Cita la carta de León XIV: «Y así ha de vivirse la fraternidad presbiteral como la experiencia concreta de saberse en casa, responsables unos de otros, atentos a la vida del hermano y dispuestos a sostenernos mutuamente. Hijos míos, nadie debería sentirse expuesto o solo en el ejercicio del ministerio; resistir juntos al individualismo que empobrece el corazón y debilita la misión». El presbiterio «no es una suma de individualidades, no es una suma de peculiaridades, sino que conforma un cuerpo vivo por la acción del Espíritu Santo». «Un sacerdote aislado es un edificio agrietado»; «el maligno va por pasos, y el primer paso es hartarte de los demás». Entre las cinco razones del sacerdote secularizado de Milán, Munilla destaca la «desconexión con los demás sacerdotes» —«cada vez me he ido sintiendo más a disgusto entre ellos»—, que sitúa como causa primera aunque él la declarase última. Propone un discernimiento pendiente sobre formas de vida en común en el presbiterio, distinta de la vida comunitaria religiosa: «una cosa es la vida comunitaria y otra ciertas formas de vida en común», como existían en las catedrales. La fraternidad exige dar prioridad al cuidado de los hermanos sacerdotes: «entre mis prioridades, lo principal es cuidar de mis hermanos» [CIS, 2026].
+
 ## Distinciones importantes
 
 - Fraternidad presbiteral vs. simple compañerismo: la fraternidad se funda en el sacramento del Orden y en la misión compartida
@@ -59,3 +63,4 @@ Se relaciona con [[presbítero]], [[presbiterio]], [[caridad_pastoral]], [[obisp
 - [L_XIV-ClerRom, 19.02.2026]
 - [JorSant-2026, 12.06.2026]
 - [UFGF, 22.12.2025]
+- [CIS, «La catedral interior del sacerdote», 2026]

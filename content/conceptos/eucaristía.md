@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Eucaristía
 tags: ["sacramental"]
 
-timestamp: 2026-08-06
+timestamp: 2026-08-09
 description: "La eucaristía es el sacramento y sacrificio del Cuerpo y Sangre de Nuestro Señor Jesucristo, realmente, verdadera y sustancialmente presente bajo las especies de pan y vino."
 ---
 # Eucaristía
 
 > Área: Sacramental
-> Última actualización: 2026-08-06
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -275,6 +275,10 @@ San Francisco de Asís muestra una devoción eucarística profunda y teológicam
 
 **Caná como anticipación eucarística (JdN_I, cap. 4):** El milagro de Caná es una anticipación de la hora de Jesús: la sobreabundancia de vino es signo de que ha comenzado la fiesta de Dios con la humanidad. «Así como Jesús, ante el ruego de su madre, anticipa simbólicamente su hora y, al mismo tiempo, se remite a ella, lo mismo ocurre siempre de nuevo en la Eucaristía: ante la oración de la Iglesia, el Señor anticipa en ella su segunda venida, viene ya, celebra ahora la boda con nosotros, nos hace salir de nuestro tiempo lanzándonos hacia aquella "hora"».
 
+### Según la conferencia «La catedral interior del sacerdote» (CIS)
+
+Mons. Munilla desarrolla el elemento del altar y el sagrario de la carta de León XIV como centro de la vida sacerdotal. En el altar, por las manos del sacerdote, «se actualiza el sacrificio de Cristo en la más alta acción confiada a manos humanas»; en el sagrario permanece «aquel que habéis ofrecido». El Papa pide «hombres adoradores, hombres de profunda oración». La Eucaristía es «la piedra fundamental» que identifica al sacerdote: el obispo confiesa que su «momento favorito del día» es celebrar la Misa, incluso en soledad en su capilla, porque «no hay nada más fundante». Munilla contrapone esta centralidad a la causa de abandono del sacerdocio citada por el sacerdote secularizado de Milán: la «pérdida del sentido de la misa», que gestionaba «un rito que ya veía que no hablaba a las personas». La respuesta es que la Eucaristía «no es un rito que haces ante un público», sino que «lo central es que te estás configurando con Cristo»: el sacerdote no habla como el mismo Cristo («este es mi cuerpo que se entrega por vosotros») para buscar un público, sino para configurarse. «Si la vida sacerdotal no es eso, todo es decoración»; si no hay vida interior ante el sagrario, «todo se vuelve autorreferencial, todo es fugaz y provisional». Los sacerdotes están llamados a ser «primero adoradores y después administradores». La pregunta clave de la vida sacerdotal es «¿en dónde tengo yo mi descanso?»: «si un día no me encuentran, ¿por dónde empiezan a buscarme?» El pasaje del discípulo amado reclinando su cabeza en el costado de Cristo —corazón del Evangelio de Juan, que Orígenes llama «el tesoro, el corazón de la Escritura»— es la imagen de la Eucaristía como descanso y clave para configurar la vida: «ser Cristo para la vida del mundo» [CIS, 2026].
+
 ## Distinciones importantes
 
 - **Transubstanciación**: cambio de sustancia, permaneciendo los accidentes
@@ -337,6 +341,10 @@ El ápice de la vida sacramental es la Eucaristía. El amor de Jesús a los homb
 
 El Santo Sacrificio no es solo el recuerdo de un acontecimiento pasado, sino un memorial, una representación —re-presentar: hacer de nuevo presente— del acontecimiento salvífico de la cruz, que se renueva y se aplica a lo largo de la historia. Finalmente, Jesús se encuentra verdadera, real y substancialmente presente en las especies eucarísticas. Esto explica que la Iglesia haya multiplicado los actos de culto eucarístico: visitas al Santísimo Sacramento, exposiciones y bendiciones, procesiones, congresos eucarísticos. «La Iglesia y el mundo tienen una gran necesidad del culto eucarístico. Jesús nos espera en este Sacramento del Amor. No escatimemos tiempo para ir a encontrarlo en la adoración, en la contemplación llena de fe y abierta a reparar las graves faltas y delitos del mundo. No cese nunca nuestra adoración» (San Juan Pablo II, *Dominicae cenae*, n. 3) (Ele_Xto_Stos, Cap. III, §4b).
 
+### Según el Pórtico de la Biblia (PdB)
+
+La infografía de la primera carta a los Corintios del PdB señala que san Pablo transmite un contenido doctrinal importante «acerca de la institución de la Eucaristía, su carácter sacrificial y su relación con la Iglesia, y la presencia real de Cristo bajo las especies del pan y del vino». En el material de Tierra Santa que acompaña a la obra, la Eucaristía —la «Fracción del Pan»— aparece junto a la Sagrada Escritura como lugar privilegiado del encuentro con Jesús resucitado, al hilo del episodio de los discípulos de Emaús (Lc 24) [PdB, Presentación].
+
 ## Analizado para
 
 - [[ali_ghaffari_courage]]
@@ -375,6 +383,7 @@ El Santo Sacrificio no es solo el recuerdo de un acontecimiento pasado, sino un 
 - [SFrAs, P1_03 — Reverencia eucarística]
 - [SFrAs, CFr. 19-20, 25-26 — Dignidad sacerdotal]
 - [SFrAs, CFi. 25, 27 — Adoración y comunión]
+- [CIS, «La catedral interior del sacerdote», 2026]
 - [SFrAs, Cust. 14-15 — Comunión necesaria]
 - [SFrAs, Laud. 21 — Pan cotidiano como Cristo]
 - [JdN_I, cap. 4]

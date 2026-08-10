@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Tradición apostólica
 tags: ["dogmática", "teología_fundamental"]
 
-timestamp: 2026-05-26
+timestamp: 2026-08-09
 description: "La Tradición apostólica es la transmisión viva, llevada a cabo en el Espíritu Santo, del Evangelio que Cristo confió a los Apóstoles."
 ---
 # Tradición apostólica
 
 > Área: Dogmática / Teología fundamental
-> Última actualización: 2026-05-26
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -54,6 +54,10 @@ Loring defiende la necesidad de la Tradición junto a la Escritura. El Antiguo T
 
 La Tradición apostólica es la transmisión viva del Evangelio: por ella la Iglesia conserva y comunica íntegramente el depósito de la fe recibido de los apóstoles. No es una fuente estática, sino una realidad viva que la Iglesia custodia y hace llegar a todas las generaciones mediante la [[sucesión_apostólica]]. La [[sagrada_escritura]] sin la Tradición es formalmente insuficiente: ambas, junto al [[magisterio_de_la_iglesia]], constituyen la base de la verdad revelada sobre la que se apoya la teología moral (Cap. I, §1b y §3a).
 
+### Según la conferencia «La catedral interior del sacerdote» (CIS)
+
+En el elemento cuarto de la catedral, las columnas, León XIV ve en ellas «la imagen de los apóstoles»: «la vida sacerdotal no se sostiene por sí misma, sino en el testimonio apostólico recibido y transmitido en la tradición viva de la Iglesia y custodiado por el magisterio». Munilla lo desarrolla: «Cuando el sacerdote permanece anclado en este fundamento, evita edificar sobre la arena de interpretaciones parciales o acentos circunstanciales y se apoya en la roca firme que le precede y lo supera». Las columnas son «silenciosas pero estructurales»: sin ellas «la bóveda se cae». La fidelidad doctrinal y la madurez afectiva son las dos virtudes que las columnas simbolizan, y la caridad sin la verdad «es un engaño que, con frecuencia, esconde la búsqueda de reconocimiento o también la mundanización» [CIS, 2026].
+
 ## Distinciones importantes
 
 - **Tradición apostólica** (la gran Tradición): viene de los Apóstoles, transmite lo recibido de Cristo.
@@ -72,3 +76,4 @@ Se relaciona con la [[revelación_divina]] (contenido transmitido), la [[sagrada
 - [CEC §74-83]
 - [Concilio Vaticano II, DV 7-10]
 - [PS §38,2]
+- [CIS, «La catedral interior del sacerdote», 2026]

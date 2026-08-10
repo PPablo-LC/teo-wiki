@@ -2,13 +2,13 @@
 type: Concepto Teológico
 title: "Sacramento de la reconciliación"
 tags: ["sacramental"]
-timestamp: 2026-08-04
+timestamp: 2026-08-09
 description: "Sacramento instituido por Jesucristo para el perdón de los pecados cometidos después del bautismo, por la contrición, la confesión y la satisfacción."
 ---
 # Sacramento de la reconciliación
 
 > Área: Sacramental
-> Última actualización: 2026-08-04
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -229,6 +229,10 @@ PS defiende que la confesión fue instituida por Jesucristo cuando dijo a los Ap
 
 Tóth destaca el valor educativo de la [[confesión]] frecuente: examen de conciencia, arrepentimiento, firme propósito y satisfacción. La confesión conoce el defecto dominante y ayuda al proceso de liberación del [[pecado]]. El conocimiento propio es esencial para el crecimiento espiritual. San Alfonso María de Ligorio y San Francisco de Sales son referentes de la dirección de almas [JvC-Rel, Archivo 16].
 
+### Según la conferencia «La catedral interior del sacerdote» (CIS)
+
+Mons. Munilla presenta el confesionario como «lugar de discreción y de discernimiento», donde «se toca la miseria humana» y se entra en la herida del hombre. El sacerdote no solo administra el sacramento: es él mismo «mendigo» de la misericordia que anuncia, pues León XIV le pide «volver siempre a la misericordia que anunciáis» y «no dejar de confesaros». Munilla narra una anécdota vivida en Santiago de Compostela: una penitente inglesa que no podía confesarse pidió a otra que transmitiera sus pecados y preguntara si el sacerdote podía perdonarla; la italiana que hizo de intermediaria quedó tan impactada que se acercó después a confesarse. La conclusión es que «cuántas veces lo que acontece en el sacramento de la confesión es un impacto para nosotros»: la fe de las almas interpela al sacerdote y lo llama a la conversión. Por eso los sacerdotes están llamados a entregarse a este sacramento «para no desfigurar la parábola de la oveja perdida» (Lc 15) [CIS, 2026].
+
 ## Distinciones importantes
 
 - **Contrición perfecta vs. atrición**: según el motivo del dolor del pecado
@@ -277,3 +281,4 @@ Tóth destaca el valor educativo de la [[confesión]] frecuente: examen de conci
 - CEC §1420-1498, §2490
 - CIC cc. 959-997
 - PS §11
+- [CIS, «La catedral interior del sacerdote», 2026]

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Fidelidad
 tags: ["moral"]
 
-timestamp: 2026-05-22
+timestamp: 2026-08-09
 description: "La fidelidad es la virtud moral que inclina la voluntad a cumplir lo prometido, conformando la promesa con los hechos. Está íntimamente relacionada con la veracidad y la simplicidad."
 ---
 # Fidelidad
 
 > Área: Moral
-> Última actualización: 2026-05-22
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -64,6 +64,10 @@ La fidelidad de Cristo alcanza en la Cruz su máxima expresión, por lo que «se
 
 > **Referencia:** VocExp, §Perseverancia y fidelidad
 
+### Según la conferencia «La catedral interior del sacerdote» (CIS)
+
+La fachada de la catedral enseña que la diversidad de estilos sacerdotales es una riqueza «siempre y cuando se mantenga un doble compromiso de fidelidad: de fidelidad al Dios que se nos ha revelado y fidelidad a los hombres que buscan a Dios». En las columnas, León XIV pide fidelidad doctrinal: «la caridad sin la verdad es un engaño que, con frecuencia, esconde la búsqueda de reconocimiento o también la mundanización». Munilla subraya que «tú tenías que estar afianzado en la revelación de la Iglesia, que tú no respondías desde ti mismo»: el sacerdote que deja de hablar desde Cristo «pierde el fundamento» y acaba contagiándose de las dudas de los demás (como el sacerdote secularizado de Milán, que citaba entre sus razones «dudas doctrinales por preguntas de los jóvenes»). La fidelidad es la condición de las columnas: «sin columnas, la bóveda se cae» [CIS, 2026].
+
 ## Distinciones importantes
 
 - **Fidelidad a la gracia**: respuesta generosa a las mociones e inspiraciones divinas
@@ -86,3 +90,4 @@ La fidelidad se relaciona con la [[veracidad]] y la [[justicia]]. La [[fidelidad
 - [Santo Tomás, II-II, q.109-110]
 - [UFGF, 22.12.2025]
 - [VocExp, §Perseverancia y fidelidad]
+- [CIS, «La catedral interior del sacerdote», 2026]

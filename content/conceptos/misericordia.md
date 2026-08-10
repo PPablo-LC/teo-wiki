@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Misericordia
 tags: ["dogmática"]
 
-timestamp: 2026-07-20
+timestamp: 2026-08-09
 description: "La misericordia es el atributo divino por el cual Dios, movido por su infinita bondad, se compadece de la miseria humana."
 ---
 # Misericordia
 
 > Área: Dogmática
-> Última actualización: 2026-07-20
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -113,6 +113,10 @@ La misericordia en San Francisco es el corazón de la vida espiritual y se ejerc
 
 **Misericordia en la corrección fraterna:** En la Carta a los fieles: «No esté enojado con un hermano a causa de su ofensa, sino que le aconseje amablemente y le anime con toda paciencia y humildad» (CFi. 37).
 
+### Según la conferencia «La catedral interior del sacerdote» (CIS)
+
+El confesionario es, para Mons. Munilla, «el lugar del descenso donde se toca la miseria humana»: el sacerdote «entra en la herida del hombre» y allí se aprende misericordia y humildad. Es «escuela de humildad, porque escuchando el pecado ajeno uno se siente interpelado en su propia fragilidad». Munilla confiesa que uno de los instrumentos más efectivos de los que Dios se sirve para llamar a un sacerdote a la conversión es «ver cómo las almas en el sacramento de la confesión buscan una verdadera conversión». Los sacerdotes están llamados a dejarse interpelar por este sacramento y a entregarse a él «para no desfigurar la parábola de la oveja perdida». En el confesionario se piden los dones del Espíritu Santo «para poder compartir una palabra adecuada de aliento, de consolación, de esperanza». El Papa León XIV, citado por Munilla, pide volver siempre «a la misericordia que anunciáis»: también el sacerdote necesita confesarse [CIS, 2026].
+
 ## Distinciones importantes
 
 - **Misericordia** ≠ **justicia**: la misericordia no se opone a la justicia, sino que la perfecciona y la trasciende.
@@ -150,3 +154,4 @@ La misericordia se relaciona con la [[justicia_divina]], la [[penitencia]], el [
 - [SFrAs, Test. 1-3 — Misericordia y conversión]
 - [SFrAs, CFi. 31, 35, 37 — Misericordia, juicio y caridad]
 - [SFrAs, SalV. 1-9 — Misericordia como caridad]
+- [CIS, «La catedral interior del sacerdote», 2026]

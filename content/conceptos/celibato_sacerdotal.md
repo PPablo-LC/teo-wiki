@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Celibato sacerdotal
 tags: ["ascética", "derecho_canónico"]
 
-timestamp: 2026-06-14
+timestamp: 2026-08-09
 description: "El celibato sacerdotal es la disciplina eclesiástica de la Iglesia latina por la cual los candidatos al presbiterado y al episcopado asumen libremente el estado de vida célibe y casto \"por el Reino..."
 ---
 # Celibato sacerdotal
 
 > Área: Ascética / Derecho Canónico
-> Última actualización: 2026-06-14
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -53,6 +53,10 @@ La Carta Apostólica *Una fidelidad que genera futuro* (2025) aborda el celibato
 
 León XIV sitúa el celibato, junto con la pobreza y la obediencia, en el umbral de la catedral: «El umbral marca un paso, una separación necesaria. Antes de entrar, algo queda fuera. También el sacerdocio se vive así: estando en el mundo, pero sin ser del mundo (cf. Jn 17,14). En este cruce se sitúan el celibato, la pobreza y la obediencia; no como negación de la vida, sino como la forma concreta que permite al sacerdote pertenecer enteramente a Dios sin dejar de caminar entre los hombres.» El celibato no es una mera renuncia sino una forma positiva de pertenencia total a Dios que configura la vida sacerdotal en el umbral entre el mundo y lo sagrado [DC-Convivium, 09.02.2026].
 
+### Según la conferencia «La catedral interior del sacerdote» (CIS)
+
+Mons. Munilla subraya que la carta de León XIV sitúa el celibato en el umbral, junto a la pobreza y la obediencia, porque los tres suponen un despojamiento del yo: la obediencia despoja de la voluntad propia, la pobreza de las seguridades materiales y el celibato purifica los afectos «para que sean plenamente esponsales en Cristo». El celibato no es negación de la vida sino una forma concreta de pertenecer enteramente a Dios sin dejar de caminar entre los hombres. «Ser de Dios requiere desposeerse de uno mismo», recuerda Munilla con la frase de San Agustín: «Yo soy yo, pero no soy mío, soy de Jesús». El umbral es así «criterio de purificación»: se trata de la progresiva desmundanización que permite entrar en el templo [CIS, 2026].
+
 ### Según Don y Misterio (DyM)
 
 Juan Pablo II aborda el [[celibato_sacerdotal]] a través del testimonio de San Juan María Vianney, cuyo celibato fue una entrega total a Cristo y a las almas. El Papa lo presenta como un don que permite al sacerdote estar plenamente disponible para la [[cura_animarum]] [DyM, V]. El celibato se inscribe en la lógica del [[admirabile_commercium]]: el sacerdote ofrece a Cristo su humanidad y recibe a cambio la capacidad de ser instrumento de salvación [DyM, VIII].
@@ -80,3 +84,4 @@ El celibato sacerdotal está íntimamente unido a la identidad del [[presbítero
 - [Concilio Vaticano II, Presbyterorum Ordinis 16]
 - [DC-Convivium, 09.02.2026]
 - [UFGF, 22.12.2025]
+- [CIS, «La catedral interior del sacerdote», 2026]

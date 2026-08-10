@@ -34,6 +34,15 @@ Obra de referencia visual que ofrece cronologías de la historia de la salvació
 - **Jesús Gil** (Logroño, 1976): sacerdote de la Prelatura del Opus Dei, doctor en Teología Espiritual por la Pontificia Universidad de la Santa Cruz (Roma, 2014).
 - **Joseángel Domínguez** (Sevilla, 1984): doctor en Teología Bíblica por la Pontificia Universidad de la Santa Cruz (Roma, 2019).
 
+## Resúmenes
+
+Los resúmenes estructurados de la obra están en `wiki/Resúmenes/Portico de la Biblia - Jesus Gil, Joseangel Dominguez/`, con un archivo por sección:
+
+| # | Archivo | Contenido |
+|---|---------|-----------|
+| 01 | [[01_presentación_y_formación_de_la_biblia]] | Presentación, formación de la Biblia, cánones, alianza de Dios, tierras de la Biblia |
+| 02 | [[02_libros_del_nuevo_testamento]] | Hechos, cartas paulinas, cartas católicas, Apocalipsis |
+
 ## Ver también
 
 [[canon_bíblico]], [[historia_de_la_salvación]], [[alianza]], [[antigua_alianza]], [[nueva_alianza]], [[biblia]]

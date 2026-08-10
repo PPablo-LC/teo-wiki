@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Madurez afectiva
 tags: ["teología_espiritual", "ascética"]
 
-timestamp: 2026-06-14
+timestamp: 2026-08-09
 description: "Capacidad de la persona para integrar armónicamente la afectividad y la sexualidad en la propia personalidad, estableciendo relaciones interpersonales sanas, equilibradas y auténticamente libres."
 ---
 # Madurez afectiva
 
 > Área: Teología espiritual / Ascética
-> Última actualización: 2026-06-14
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -35,6 +35,10 @@ PDV 46 subraya la importancia de educar la afectividad para vivir el celibato: �
 
 La madurez afectiva se relaciona también con la educación de la **libertad interior** (PDV 48): la capacidad de obrar según la verdad del propio ser, sin dejarse dominar por los afectos desordenados o las pasiones.
 
+### Según la conferencia «La catedral interior del sacerdote» (CIS)
+
+Mons. Munilla, comentando las columnas de la catedral, las presenta también como símbolo de «estabilidad afectiva»: junto a la fidelidad doctrinal, las columnas sostienen el conjunto. «El sacerdote está llamado a transmitir seguridad por su madurez afectiva y espiritual. En medio de una cultura que vive en una montaña rusa emocional, en el sacerdote buscamos estabilidad afectiva.» No se espera de él «un recetario preparado para todo tipo de preguntas», sino que «sea alguien en quien se encuentre seguridad, porque Dios es la roca y lo experimento en el sacerdote, que es columna firme». La estabilidad afectiva se fundamenta en estar el sacerdote «afianzado sobre roca», pues «una columna tiene que tener buena cimentación» [CIS, 2026].
+
 ## Distinciones importantes
 
 - Madurez afectiva vs. inmadurez psicológica: la primera es condición para el ministerio; la segunda es incompatible con la vocación sacerdotal
@@ -52,3 +56,4 @@ La madurez afectiva se relaciona también con la educación de la **libertad int
 ## Referencias
 
 - [PDV §45-48]
+- [CIS, «La catedral interior del sacerdote», 2026]

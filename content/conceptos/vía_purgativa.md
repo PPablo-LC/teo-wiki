@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Vía Purgativa
 tags: ["ascética"]
 
-timestamp: 2026-05-20
+timestamp: 2026-08-09
 description: "La vía purgativa es el primer grado de la vida espiritual, correspondiente a la caridad incipiente."
 ---
 # Vía Purgativa
 
 > Área: Ascética
-> Última actualización: 2026-05-20
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -41,6 +41,10 @@ Esta etapa se ilustra con la conversación de Jesús con el joven rico: cuando e
 
 Juan Pablo II se refiere a las vías purgativa, iluminativa y unitiva de la mística cristiana. San Juan de la Cruz: purificación activa y pasiva, noches del sentido y del espíritu. [UDE, Cap. XIV]
 
+### Según la conferencia «La catedral interior del sacerdote» (CIS)
+
+Mons. Munilla identifica el umbral de la catedral con la vía purificativa: «el umbral marca un paso, una separación necesaria»; se trata de la «pedagogía del umbral», despojarse para poder entrar. La conciencia de indignidad —simbolizada en el agua bendita— y la necesidad de desmundanizarse son el tránsito que prepara el encuentro con Dios: «se nos pega el polvo del mundo; no es tan fácil pasar de la calle a recibir la comunión sin más». Como el tirón de orejas a Pedro («tú piensas como los hombres, no como Dios», Mt 16,23), el sacerdote ha de purificarse de la visión carnal. Los consejos evangélicos (celibato, pobreza, obediencia) son el despojamiento del yo propio de esta vía [CIS, 2026].
+
 ## Distinciones importantes
 
 La vía purgativa no es un mero período inicial que se abandona por completo al entrar en la iluminativa; aspectos de purificación permanecen en toda la vida espiritual. Sin embargo, marca el tránsito decisivo del alma que se decide a vivir cristianamente.
@@ -67,3 +71,4 @@ La vía purgativa no es un mero período inicial que se abandona por completo al
 
 - TPCr, Tercera Parte, Introducción, n.192
 - [Santo Tomás, II-II,24,9]
+- [CIS, «La catedral interior del sacerdote», 2026]

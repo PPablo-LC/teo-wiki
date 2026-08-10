@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Caridad pastoral
 tags: ["teología_pastoral", "moral"]
 
-timestamp: 2026-06-14
+timestamp: 2026-08-09
 description: "Virtud teologal de la [[caridad]] en cuanto ejercida por los pastores de la Iglesia en el cuidado de las almas."
 ---
 # Caridad pastoral
 
 > Área: Teología Pastoral / Moral
-> Última actualización: 2026-06-14
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -62,6 +62,10 @@ León XIV describe la caridad pastoral como don sincero de sí, servicio concret
 
 La Carta Apostólica *Una fidelidad que genera futuro* (2025) retoma el paradigma de la caridad pastoral como principio unificador de la vida presbiteral, citando a san Juan Pablo II (PDV 23) y al Papa Francisco (EG 104). La caridad pastoral —«el amor del Buen Pastor»— es lo que permite al sacerdote discernir lo beneficioso de lo que es *proprium* del ministerio (UFGF §24). El documento advierte contra dos tentaciones que se oponen a la caridad pastoral: el *eficientismo* (medir el valor por el rendimiento) y el *quietismo* (repliegue por miedo al contexto), proponiendo en cambio un ministerio gozoso y apasionado que asuma la tarea de evangelizar todas las dimensiones de la sociedad (UFGF §24). La dimensión pascual del ministerio —darse sin reservas sin renunciar a la oración, al estudio y a la fraternidad— es el horizonte en el que la caridad pastoral se comprende y se vive (UFGF §25) [UFGF, 22.12.2025].
 
+### Según la conferencia «La catedral interior del sacerdote» (CIS)
+
+Mons. Munilla precisa la caridad pastoral como «amar la nave concreta que Dios me confía con sus ritmos lentos, con sus heridas»: «amar a la Iglesia abstracta es fácil, pero amar la nave concreta... esa es la verdadera caridad pastoral». Consiste en amar a las personas concretas que se sientan en los bancos, ser «pastor de rostros concretos, de sus historias, de sus heridas, de sus procesos», y estar llamados «no solo a predicarles, sino a escucharles». La caridad pastoral se apoya en la verdad: en las columnas de la catedral, la caridad sin la verdad «es un engaño que, con frecuencia, esconde la búsqueda de reconocimiento o también la mundanización». Se ejerce también con los hermanos sacerdotes: la prioridad del cuidado de los hermanos es «la más cierta» expresión de cómo se cuida a los demás, y la corrección solo es fecunda cuando se ama y se valora previamente al otro [CIS, 2026].
+
 ## Distinciones importantes
 
 - **Caridad pastoral vs. falsa misericordia**: la caridad pastoral incluye la corrección firme y la aplicación de penas; la falsa misericordia dilata indebidamente la acción disciplinaria, agravando el escándalo (PGD).
@@ -95,3 +99,4 @@ La Carta Apostólica *Una fidelidad que genera futuro* (2025) retoma el paradigm
 - [JorSant-2026, 12.06.2026]
 - [DC-Convivium, 09.02.2026]
 - [UFGF, 22.12.2025]
+- [CIS, «La catedral interior del sacerdote», 2026]

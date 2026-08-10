@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Pueblo de Dios
 tags: ["eclesiología"]
 
-timestamp: 2026-05-25
+timestamp: 2026-08-09
 description: "Categoría bíblica y teológica para designar a la Iglesia: el nuevo pueblo reunido por Dios, que ya no se define por descendencia carnal sino por la fe en Cristo y el Bautismo."
 ---
 # Pueblo de Dios
 
 > Área: Eclesiología
-> Última actualización: 2026-05-25
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -80,6 +80,10 @@ La Iglesia como Pueblo de Dios es también «Cuerpo Místico de Cristo» [RH §2
 
 La entrada «Pueblo» del VocTeoBib es una de las más extensas. Israel fue elegido por amor (Dt 7,7s), constituido en pueblo santo y reino de sacerdotes (Ex 19,6). La antigua alianza unía la realidad nacional con la trascendente, preparando la promesa del pueblo nuevo (Jer 31,31-34). En Cristo, la Iglesia es el nuevo Pueblo de Dios, formado por judíos y gentiles (Ef 2,14-16), definido no por la raza sino por la fe. La Iglesia, pueblo escatológico, peregrina hacia la patria celestial (Heb 11,13-16; Flp 3,20), siendo en la tierra «raza elegida, sacerdocio real, nación santa» (1Pe 2,9). El destino de la Iglesia presenta paralelismos con el de Israel: las mismas infidelidades, persecuciones y la necesidad de abandonar Babilonia (Ap 18,4).
 
+### Según la conferencia «La catedral interior del sacerdote» (CIS)
+
+En el elemento tercero de la catedral, la nave, León XIV describe a la Iglesia como «hogar común donde todos tienen lugar», una casa que acoge, protege y no abandona. Munilla la llama «la barca en travesía»: el pueblo de Dios en camino. La nave recuerda al sacerdote que la pila bautismal lo constituye primero como hijo del pueblo de Dios antes que como pastor: «nuestro gran tesoro es la condición de hijos, en la cual se integra nuestra paternidad». El sacerdote debe amar a la comunidad real que Dios le confía —«las personas concretas que se sientan en los bancos»— y «no soñar en otro pueblo de Dios, con más cualidades». «Amar la Iglesia abstracta es fácil, pero amar la nave concreta que Dios me confía con sus ritmos lentos, con sus heridas, esa es la verdadera caridad pastoral»; ser «pastor de rostros concretos, de sus historias, de sus heridas, de sus procesos», llamado no solo a predicar sino a escuchar [CIS, 2026].
+
 ## Distinciones importantes
 
 - No es un pueblo étnico ni político sino religioso y sobrenatural
@@ -92,3 +96,5 @@ La entrada «Pueblo» del VocTeoBib es una de las más extensas. Israel fue eleg
 [[iglesia_cuerpo_místico]], [[cristo]], [[sacerdocio_bautismal]], [[sacerdocio]], [[reinado_de_cristo]]
 
 ## Referencias
+
+- [CIS, «La catedral interior del sacerdote», 2026]

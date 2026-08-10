@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Comunión
 tags: ["sacramental", "eclesiología"]
 
-timestamp: 2026-08-06
+timestamp: 2026-08-09
 description: "La comunión designa tanto la recepción sacramental del Cuerpo y la Sangre de Cristo en la Eucaristía como la participación en la vida divina y la unidad de los fieles entre sí y con Dios."
 ---
 # Comunión
 
 > Área: Sacramental / Eclesiología
-> Última actualización: 2026-08-06
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -70,6 +70,10 @@ La palabra «comunión» (*koinonía*) expresa la participación en los bienes d
 
 Un segundo aspecto de la Eucaristía es la Comunión, por la que el cristiano se une íntimamente a Cristo y se identifica con Él: como tal identificación coincide con la meta de la santidad, la santidad cristiana no puede prescindir de la Comunión asidua. La Eucaristía refuerza las energías humanas en el camino de la santidad, previene los peligros, las dificultades y los pecados, facilita la lucha ascética, es prenda de la vida eterna y consolida la unión entre los hombres. Conviene estar bien dispuestos para recibir la comunión con fruto y dar gracias al Señor con profundo fervor (Ele_Xto_Stos, Cap. III, §4b).
 
+### Según la conferencia «La catedral interior del sacerdote» (CIS)
+
+Mons. Munilla propone las capillas laterales de la catedral como imagen de la comunión de los carismas: «todas comparten una misma orientación, ninguna está girada hacia sí misma, ninguna rompe la armonía del conjunto». La comunión exige «admirarse mutuamente entre los carismas», superando «particularismos exacerbados», y «ser hijos de un carisma no tiene que incapacitarnos para valorar los demás carismas». La corrección fraterna solo es posible en la comunión: «la importancia de amar para poder corregir», porque «si la gente no se siente amada, las correcciones que le hagas se van a sentir agredidas». Los espacios de comunión sacerdotal —coro, claustro, sala capitular— hacen de la fraternidad presbiteral una experiencia concreta de comunión [CIS, 2026].
+
 ## Distinciones importantes
 
 - **Comunión sacramental**: recepción del Cuerpo de Cristo en la Eucaristía
@@ -102,3 +106,4 @@ Un segundo aspecto de la Eucaristía es la Comunión, por la que el cristiano se
 - TPCr, Tercera Parte, Libro II, Cap. I, Art. 5
 - [VocTeoBib, «Comunión»]
 - Ele_Xto_Stos, Cap. III, §4b
+- [CIS, «La catedral interior del sacerdote», 2026]

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Las Tres Vías
 tags: ["ascética_y_mística"]
 
-timestamp: 2026-05-20
+timestamp: 2026-08-09
 description: "Las tres vías —purgativa, iluminativa y unitiva— son la clasificación clásica de las etapas del desarrollo normal de la vida espiritual cristiana."
 ---
 # Las Tres Vías
 
 > Área: Ascética y Mística
-> Última actualización: 2026-05-20
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -36,6 +36,10 @@ Cada vía se subdivide en grados que corresponden a las Moradas de Santa Teresa:
 - Vía iluminativa: cuartas y quintas moradas
 - Vía unitiva: sextas y séptimas moradas
 
+### Según la conferencia «La catedral interior del sacerdote» (CIS)
+
+Mons. Munilla encuentra la triple vía «bien marcada» en la arquitectura de la catedral: «el umbral es la vía purificativa, el templo ya será la vía iluminativa y luego la vía unitiva será más bien en el altar, el sagrario». La purificación precede a la iluminación y a la unión: «necesitamos primero la purificación». El hombre ha de disponerse a un «recorrido de purificación para llegar a unirnos con el Señor», con la imagen de la esponja que se estruja para despojarse del agua sucia y empaparse del agua limpia. La progresiva desmundanización —despojarse del yo, como en el umbral con los consejos evangélicos— es el camino de entrada al templo de Dios [CIS, 2026].
+
 ## Distinciones importantes
 
 Las tres vías no deben entenderse como compartimentos estancos. En la práctica se compenetran y complementan. Royo Marín opta por estudiar la materia por secciones homogéneas (aspecto negativo, positivo y la perfección) en lugar de seguir rígidamente el orden cronológico de las tres vías.
@@ -52,3 +56,4 @@ Las tres vías no deben entenderse como compartimentos estancos. En la práctica
 
 - TPCr, Tercera Parte, Introducción, n.189-194
 - [Santo Tomás, II-II,24,9]
+- [CIS, «La catedral interior del sacerdote», 2026]

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Carismas
 tags: ["dogmática"]
 
-timestamp: 2026-08-06
+timestamp: 2026-08-09
 description: "Gracias especiales del Espíritu Santo que hacen a los fieles aptos para asumir diversas tareas o ministerios que contribuyen a edificar la Iglesia y al bien común."
 ---
 # Carismas
 
 > Área: Dogmática
-> Última actualización: 2026-08-06
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -71,6 +71,10 @@ La palabra griega carisma significa favor, don gratuito, beneficio, y en este se
 
 Tanto la etimología como las indicaciones explícitas de la Escritura muestran que los carismas son dones gratuitos de Dios en orden al fin sobrenatural: «Extraordinarios o sencillos y humildes, los carismas son gracias del Espíritu Santo, que tienen directa o indirectamente una utilidad eclesial; los carismas están ordenados a la edificación de la Iglesia, al bien de los hombres y a las necesidades del mundo» (CEC n. 799). (Ele_Xto_Stos, Cap. VII, §5c)
 
+### Según la conferencia «La catedral interior del sacerdote» (CIS)
+
+Las capillas laterales de la catedral son, en la carta de León XIV, «imagen de los carismas y espiritualidades»: «Cada una tiene su historia y su advocación. A pesar de ser distintas en arte y composición, todas comparten una misma orientación. Ninguna está girada hacia sí misma, ninguna rompe la armonía del conjunto». Munilla las desarrolla como la riqueza de los carismas: «¿Qué sería de la Iglesia católica sin ellos?». En medio de la crisis, «el Espíritu Santo nos sorprende con carismas», y muchas iniciativas de primer anuncio «no nacen de la cátedra, nacen de las capillas laterales». Ser hijo de un carisma «no tiene que incapacitarnos para valorar los demás carismas», y no serlo «no tiene que impedirte acompañarlos a todos», siempre hacia la comunión y la evangelización. La corrección fraterna exige valorar antes: «si la gente no se siente amada, las correcciones que le hagas se van a sentir agredidas» [CIS, 2026].
+
 ## Distinciones importantes
 
 - Carismas ≠ gracia santificante: los carismas son para el bien de la Iglesia, no directamente para la santificación personal
@@ -93,3 +97,4 @@ Tanto la etimología como las indicaciones explícitas de la Escritura muestran 
 - SmTh IIIª q.7 a.7
 - [RC-Carismas-2023, 3.1, 4.1-4.2]
 - Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §5c
+- [CIS, «La catedral interior del sacerdote», 2026]

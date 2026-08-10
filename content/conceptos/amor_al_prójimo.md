@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Amor al prójimo
 tags: ["moral"]
 
-timestamp: 2026-06-23
+timestamp: 2026-08-09
 description: "Virtud de la caridad en cuanto ordenada al amor de todos los hombres por amor de Dios, que constituye el segundo gran mandamiento de la Ley divina y es inseparable del amor a Dios."
 ---
 # Amor al prójimo
 
 > Área: Moral
-> Última actualización: 2026-06-23
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -60,6 +60,10 @@ Benedicto XVI desarrolla el amor al prójimo a partir de la parábola del buen s
 Lo decisivo es la inversión de la pregunta: «No se trata de establecer quién sea o no mi prójimo entre los demás. Se trata de mí mismo. Yo tengo que convertirme en prójimo» (JdN_I). El amor al prójimo no comienza por definir quién lo es, sino por dejarse conmover por la necesidad del otro. «Tengo que llegar a ser una persona que ama, una persona de corazón abierto que se conmueve ante la necesidad del otro» (JdN_I).
 
 Benedicto XVI subraya que el amor al prójimo tiene una dimensión universal que trasciende todo orden político: «el *agapē* traspasa todo tipo de orden político con su principio del *do ut des*, superándolo» (Helmut Kuhn, cit. en JdN_I). La compasión —la «conmoción de las entrañas»— es la fuente que mueve a convertirse en prójimo, y esta compasión tiene su modelo en el samaritano, imagen de Cristo que se hace cargo de la humanidad alienada.
+
+### Según el Pórtico de la Biblia (PdB)
+
+La infografía de la primera carta de san Juan del PdB resume su enseñanza en la afirmación «Dios es amor: amar al prójimo», junto a las exigencias de santidad de la vida cristiana. El PdB señala que, «en las dos primeras» cartas de Juan, «el autor recuerda el mandamiento del amor, que es la señal de los cristianos» [PdB, Cartas de san Juan]. En el Evangelio de Juan se destaca igualmente la llamada a amar al prójimo como característica del discípulo de Cristo.
 
 ## Distinciones importantes
 

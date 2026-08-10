@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Kenosis
 tags: ["cristología"]
 
-timestamp: 2026-06-21
+timestamp: 2026-08-09
 description: "La kenosis (del griego κένωσις.)"
 ---
 # Kenosis
 
 > Área: Cristología
-> Última actualización: 2026-06-21
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -50,6 +50,10 @@ JPII profundiza en la kenosis en la catequesis 40 (17 de febrero de 1988). Citan
 ### Según CJeS (1987-1988)
 
 Juan Pablo II trata la kenosis en el contexto del Siervo de Yahvé y de la verdadera humanidad de Cristo. El himno cristológico de Flp 2,6-8 —«el cual, siendo de condición divina, no retuvo ávidamente el ser igual a Dios, sino que se despojó a sí mismo, tomando la condición de siervo»— expresa el misterio del amor humilde de Dios. Cristo se vacía de su gloria, no de su divinidad: la kenosis no es una reducción ontológica sino una manifestación de amor y de solidaridad con la humanidad (CJeS, primera parte: catequesis sobre el Siervo de Yahvé). Juan Pablo II subraya que la kenosis revaloriza la condición humana: al asumir la humanidad, Cristo eleva la naturaleza humana a una dignidad incomparable. El despojamiento llega hasta la muerte de cruz, pero es seguido de la exaltación: «Por lo cual Dios lo exaltó y le dio el nombre que está sobre todo nombre» (Flp 2,9; CJeS, sexta parte: catequesis sobre la verdadera humanidad de Cristo).
+
+### Según el Pórtico de la Biblia (PdB)
+
+La infografía de la carta a los Filipenses del PdB subraya la kenosis como modelo para la vida cristiana: ser cristiano «es identificarse con Cristo, procurar tener "los mismos sentimientos que tuvo Cristo Jesús" (Flp 2, 5), seguir su ejemplo, pues Él se dio como modelo acabado "haciéndose obediente hasta la muerte, y muerte de cruz" (Flp 2, 8)».
 
 ## Distinciones importantes
 

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Pentecostés
 tags: ["dogmática"]
 
-timestamp: 2026-06-20
+timestamp: 2026-08-09
 description: "Fiesta cristiana que conmemora la venida del Espíritu Santo sobre los Apóstoles y la Virgen María, reunidos en el Cenáculo, y la manifestación pública de la Iglesia."
 ---
 # Pentecostés
 
 > Área: Dogmática
-> Última actualización: 2026-06-20
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -45,6 +45,10 @@ JPII denomina a Pentecostés «Galilea de las naciones», subrayando que allí n
 ### Según la Redemptoris Mater (RM)
 
 [JPII, Redemptoris Mater §26]: María está presente en el Cenáculo después de la Ascensión, perseverando unánimemente en la oración con los Apóstoles, las mujeres y los hermanos de Jesús (Hch 1,14). Su presencia en Pentecostés no es casual: María, que concibió a Cristo por obra del Espíritu Santo, está ahora presente cuando el mismo Espíritu desciende sobre la Iglesia naciente [RM §26]. Su presencia en el cenáculo significa que la Iglesia nace bajo el signo de la maternidad de María: así como ella estuvo presente en el nacimiento temporal de Cristo, ahora lo está en el nacimiento de su Cuerpo Místico. La Iglesia, congregada en el cenáculo, recibe al Espíritu Santo teniendo a María como Madre y como modelo de docilidad al Espíritu [RM §26].
+
+### Según el Pórtico de la Biblia (PdB)
+
+El PdB presenta Pentecostés como punto de arranque del libro de los Hechos: tras la Ascensión, donde Lucas finalizaba su Evangelio, narra la venida del Espíritu Santo y la propagación inicial del Evangelio desde Jerusalén. La Iglesia aparece como «la prolongación de la obra redentora de Jesucristo y el instrumento de Dios para el cumplimiento de las promesas del Antiguo Testamento». Los discípulos, guiados por el Espíritu Santo, encontraron en todo momento la fortaleza y la sabiduría para ser testigos de Jesús.
 
 ## Distinciones importantes
 

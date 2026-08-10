@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Unción de los enfermos
 tags: ["sacramental"]
 
-timestamp: 2026-06-15
+timestamp: 2026-08-09
 description: "La unción de los enfermos es el sacramento instituido por Cristo nuestro Señor, confiado a la Iglesia por el apóstol Santiago."
 ---
 # Unción de los enfermos
 
 > Área: Sacramental
-> Última actualización: 2026-06-15
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -58,6 +58,10 @@ Santo Tomás trata la Extremaunción en el Suplemento, cuestiones 29-33, al ser 
 ### Según Una Visita de Dios (UVD)
 
 Juan Pablo II presenta la Unción de Enfermos como sacramento que «sana cuerpo y alma»: «Un beso de Dios que sana el cuerpo y el alma» [UVD]. El Papa recuerda que «la Unción de Enfermos es un Sacramento que sana cuerpo y alma» [UVD], subrayando su doble dimensión física y espiritual. La Unción une al enfermo a la Pasión de Cristo y le da la fuerza para ofrecer su sufrimiento como participación en la obra redentora.
+
+### Según el Pórtico de la Biblia (PdB)
+
+La infografía de la carta de Santiago del PdB señala que es el único lugar del Nuevo Testamento donde se habla expresamente de la Unción de los enfermos: «¿Está enfermo alguno de vosotros? Que llame a los presbíteros de la Iglesia, y que oren sobre él, ungiéndole con aceite en el nombre del Señor. Y la oración de la fe salvará al enfermo, y el Señor le hará levantarse, y si hubiera cometido pecados, le serán perdonados» (St 5, 14-15). El PdB subraya que se enseña así que «la oración sobre el enfermo y la unción por las autoridades reconocidas constituye una acción sagrada que continúa la de Jesús» [PdB, Santiago].
 
 ## Analizado para
 

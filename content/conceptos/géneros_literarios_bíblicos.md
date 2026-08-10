@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Géneros literarios bíblicos
 tags: ["sagrada_escritura", "hermenéutica_bíblica"]
 
-timestamp: 2026-06-05
+timestamp: 2026-08-09
 description: "Los géneros literarios bíblicos son las diversas formas de expresión y composición literaria empleadas por los autores inspirados de la Sagrada Escritura."
 ---
 # Géneros literarios bíblicos
 
 > Área: Sagrada Escritura / Hermenéutica bíblica
-> Última actualización: 2026-06-05
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -36,6 +36,10 @@ Aborda dos malentendidos comunes (HEB §28):
 Tras la determinación del género, el segundo paso es la historia de la redacción (*Redaktionsgeschichte*), que estudia cómo se utilizaron estas piezas literarias al servicio de la intención general del autor (HEB §29-30).
 
 [HEB §25-31]
+
+### Según el Pórtico de la Biblia (PdB)
+
+El PdB dedica una infografía a los géneros de la Biblia, enseñando que «reconocer el género literario de los textos de la Sagrada Escritura ayuda a captar la intención de sus autores cuando los escribieron y comprender así la verdad profunda que deseaban transmitir». Además, «también resulta necesario leer cada libro en la unidad de toda la Biblia y en la fe y la Tradición viva de la Iglesia (cfr. Concilio Vaticano II, Constitución dogmática Dei Verbum, n. 12)» [PdB, Presentación]. La Biblia se presenta como «una biblioteca: una recopilación de libros de géneros literarios diversos, escritos por muchos autores que vivieron en épocas y contextos culturales e históricos diferentes».
 
 ## Distinciones importantes
 

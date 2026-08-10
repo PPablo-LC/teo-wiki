@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Matrimonio
 tags: ["sacramental"]
 
-timestamp: 2026-06-28
+timestamp: 2026-08-09
 description: "El matrimonio es el sacramento instituido por Nuestro Señor Jesucristo que santifica la unión legítima entre un varón y una mujer."
 ---
 # Matrimonio
 
 > Área: Sacramental
-> Última actualización: 2026-06-28
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -212,6 +212,10 @@ Asimismo, condenó el error de que «si uno toma una tercera o cuarta mujer o m�
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 [VocTeoBib, «Matrimonio»] En el AT, el matrimonio es instituido por Dios desde la creación: «una sola carne» (Gen 2,24), ordenado a la ayuda mutua y la fecundidad (Gen 1,28). La ley mosaica lo regula por la dureza de los corazones (Dt 24,1s), tolerando la poligamia y el repudio. Los profetas elevan el ideal: Mal 2,14ss condena el repudio; Tob 8,4-9 presenta el matrimonio fundado en la oración. En el NT, Jesús lo restaura a la indisolubilidad original (Mt 19,1-9) y lo eleva a sacramento, imagen de la unión de Cristo y la Iglesia (Ef 5,32). Pablo distingue entre matrimonio y virginidad, recomendando esta última por el Reino (1Cor 7).
+
+### Según el Pórtico de la Biblia (PdB)
+
+La infografía de las cartas de la cautividad del PdB destaca la enseñanza paulina sobre el matrimonio cristiano en la carta a los Efesios: «Pablo explica la grandeza del matrimonio cristiano: el amor de los esposos refleja la unión de Cristo con la Iglesia» [PdB, Efesios]. En la primera carta a los Corintios, el PdB sitúa el matrimonio entre las «grandes cuestiones» planteadas por los fieles, que afectaban a su vida cotidiana: «el comportamiento de los esposos entre sí y la opción o no por el matrimonio» [PdB, Corintios].
 
 ## Distinciones importantes
 

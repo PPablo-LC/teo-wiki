@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Cuidado pastoral
 tags: ["pastoral", "eclesiología"]
 
-timestamp: 2026-06-03
+timestamp: 2026-08-09
 description: "El conjunto de deberes, actividades y virtudes del pastor de almas (obispo, presbítero) ordenados al bien espiritual de los fieles, imitando a Cristo Buen Pastor que da la vida por sus ovejas."
 ---
 # Cuidado pastoral
 
 > Área: Pastoral / Eclesiología
-> Última actualización: 2026-06-03
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -37,6 +37,10 @@ La cura de almas es el mayor de los oficios eclesiásticos (II-II q.185). El obi
 
 El cuidado pastoral incluye la virtud del liderazgo virtuoso: justicia, templanza, fortaleza y prudencia aplicadas al ministerio. El pastor debe ser «hombre de caridad» que conduce con el ejemplo. La humildad y la oración son fundamentales para el cuidado pastoral auténtico (John Wissler, Leading with Charity; Virtuous Leadership).
 
+### Según la conferencia «La catedral interior del sacerdote» (CIS)
+
+El cuidado de los hermanos sacerdotes se convierte, en la conferencia, en una prioridad de la vida presbiteral: «la más cierta» expresión de cómo uno cuida de los demás es el cuidado de los hermanos. «Entre mis prioridades, lo principal es yo cuidar de mis hermanos»: si hay que elegir entre visitar a los enfermos o visitar a un hermano sacerdote que está en soledad o en dificultad, se ha de dar prioridad al cuidado del hermano, «estar atento a quien está aislado, a quien lleva su vida presbiteral con riesgo de no sentirse arropado». La fraternidad presbiteral es «la experiencia concreta de saberse en casa, responsables unos de otros, atentos a la vida del hermano y dispuestos a sostenernos mutuamente» (León XIV). «Un sacerdote aislado es un edificio agrietado» [CIS, 2026].
+
 ## Distinciones importantes
 
 - **Cuidado pastoral ordinario vs. extraordinario**: el ordinario corresponde a la parroquia; el extraordinario incluye misiones y ministerios especiales
@@ -58,3 +62,4 @@ Se relaciona con [[obispo]], [[presbítero]], [[sacerdocio]], [[ministerio_pasto
 - [CEC §874-896, §1548-1565, §2135]
 - [SmTh II-II q.185]
 - [Jn 10,11-18; Jn 21,15-17]
+- [CIS, «La catedral interior del sacerdote», 2026]

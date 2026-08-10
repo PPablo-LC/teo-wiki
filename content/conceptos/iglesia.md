@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Iglesia
 tags: ["eclesiología"]
 
-timestamp: 2026-06-28
+timestamp: 2026-08-09
 description: "La Iglesia es el Pueblo de Dios, el Cuerpo Místico de Cristo y el Templo del Espíritu Santo, instituida por Jesucristo como sacramento universal de salvación."
 ---
 # Iglesia
 
 > Área: Eclesiología
-> Última actualización: 2026-06-28
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -101,6 +101,10 @@ La Iglesia es **madre y maestra** (*Mater et Magistra*). Como madre, debe ser am
 
 **Concilio Vaticano I** — Constitución *Pastor Aeternus* (1870, D‑1821–D‑1835): Definió que el Romano Pontífice tiene primado de jurisdicción ordinario e inmediato sobre toda la Iglesia, tanto en materia de fe y costumbres como en disciplina y régimen (D‑1821–D‑1827). Definió que el Papa posee aquella misma infalibilidad de la que el divino Redentor quiso que estuviera provista su Iglesia cuando define *ex cathedra* una doctrina sobre fe y costumbres (D‑1832–D‑1835). Tales definiciones son irreformables por sí mismas y no por el consentimiento de la Iglesia (*ex sese, non autem ex consensu Ecclesiae*).
 
+### Según la conferencia «La catedral interior del sacerdote» (CIS)
+
+León XIV describe a la Iglesia, en la nave de la catedral, como «hogar común donde todos tienen lugar», una «casa que acoge, que protege y que no abandona». Munilla desarrolla además la imagen de las capillas laterales: «la Iglesia es apostólica y, al mismo tiempo, carismática», y las dos cosas «están integradas»; muchas iniciativas «no nacen de la cátedra, nacen de las capillas laterales», pero todas comparten «una misma orientación» hacia el centro. La Iglesia peregrina («la barca en travesía») es la comunidad real y concreta a la que el sacerdote ama y sirve, «con sus ritmos lentos, con sus heridas», y su sacramentalidad se manifiesta en que «en la pila bautismal nace el pueblo de Dios» [CIS, 2026].
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[iglesia_cuerpo_místico]]
@@ -118,3 +122,4 @@ Ver artículo principal: [[iglesia_cuerpo_místico]]
 - CEC §748-975
 - PS §07-08
 - [VJ, Cap. VIII]
+- [CIS, «La catedral interior del sacerdote», 2026]

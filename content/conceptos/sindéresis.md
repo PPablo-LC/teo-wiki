@@ -55,6 +55,8 @@ La sindéresis es, para la tradición escolástica, una chispa del alma (scintil
 
 Entre los hábitos de la razón especulativa se distinguen los hábitos de los primeros principios especulativos (entendimiento) y morales (sindéresis): la sindéresis es el hábito natural de los primeros principios morales, principio innato de rectitud moral en la razón práctica (Ele_Xto_Stos, Cap. VII, §2a).
 
+Desde el punto de vista gnoseológico, el primer principio práctico pertenece al hábito intelectual de la "sindéresis". La sindéresis incluye también los fines de las virtudes con una cierta universalidad, sin juzgar minuciosamente las exigencias concretas de la justicia, de la templanza, etc. Los modos virtuosos de regulación de las tendencias naturales no se encuentran en la razón como ideas innatas; sin embargo, en sus términos generales son fácilmente conocidos gracias al natural ejercicio de la sindéresis, que presupone una comprensión espontánea del sentido de las inclinaciones naturales y de la relación que tienen entre sí y con la totalidad de la persona (Ele_Xto_Stos, Cap. VIII, §2b).
+
 ## Distinciones importantes
 
 - **Sindéresis** (hábito de primeros principios) vs. **conciencia** (acto de aplicación)
@@ -74,4 +76,4 @@ La sindéresis es el fundamento de la [[conciencia]] moral y de la [[ley_natural
 
 - SmTh Iª q.79 aa.9-11
 - CEC §1779-1780
-- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §2a
+- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §2a; Cap. VIII, §2b

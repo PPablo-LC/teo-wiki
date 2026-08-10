@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Fe y obras
 tags: ["dogmática_—_gracia"]
 
-timestamp: 2026-06-25
+timestamp: 2026-08-09
 description: "La relación entre la fe y las obras es un tema central de la soteriología católica."
 ---
 # Fe y obras
 
 > Área: Dogmática — Gracia
-> Última actualización: 2026-06-25
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -26,6 +26,10 @@ El Papa San Gelasio I, en su carta a Honorio de Dalmacia (D-161), defiende la tr
 ### Según el Enchiridion Symbolorum (Denzinger)
 
 El Denzinger recoge la doctrina antipriscilianista (D-35) que condena la astrología como incompatible con la fe en la providencia divina. El II Concilio de Orange (D-174–200) establece que toda obra buena comienza por la gracia (D-179), que sin la gracia no podemos pensar ningún bien para la salvación (D-180), y que la fe es don de la gracia preveniente (D-200a-b).
+
+### Según el Pórtico de la Biblia (PdB)
+
+El PdB recoge la aparente tensión entre san Pablo y Santiago sobre la fe y las obras. San Pablo enseña que «el hombre no es justificado por las obras de la Ley, sino por medio de la fe en Jesucristo» (Ga 2,16). Santiago aclara que «la fe, si no va acompañada de obras, está realmente muerta» (St 2,17). El PdB subraya que no hay oposición entre ellos: para san Pablo, en polémica con los judaizantes, las obras son las normas legales de la Antigua Ley; para Santiago, las obras son el comportamiento moral del que cree ya en Jesús.
 
 ## Relaciones doctrinales
 

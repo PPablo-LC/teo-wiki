@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Secularización
 tags: ["teología_fundamental"]
 
-timestamp: 2026-06-10
+timestamp: 2026-08-09
 description: "Proceso sociocultural por el cual las referencias cristianas comunes que durante siglos facilitaron la transmisión del mensaje evangélico y la comprensión del lenguaje moral y las grandes preguntas..."
 ---
 # Secularización
 
 > Área: Teología Fundamental
-> Última actualización: 2026-06-10
+> Última actualización: 2026-08-09
 
 ## Definición
 
@@ -35,6 +35,10 @@ La nueva evangelización debe diversificarse según dos situaciones: la de los p
 
 La piedad popular, bien orientada, ofrece «una respuesta válida a los actuales desafíos de la secularización» [EA §16]. Los daños derivados de la difusión del secularismo en los ambientes dirigentes «muestran la urgencia de una evangelización de los mismos» [EA §67].
 
+### Según la conferencia «La catedral interior del sacerdote» (CIS)
+
+Mons. Munilla sitúa la carta de León XIV en el contexto cultural presente: una sociedad secularizada, con escasas referencias cristianas, donde el sacerdote vive en «tierra de misión» y debe mantenerse fiel sin estar amargado por el ambiente. La configuración con Cristo y la vida interior —«la catedral interior»— son la fuente de donde el sacerdote saca la fuerza para sostenerse en este contexto sin resentimiento ni ideologización. La vocación en la secularización se vive en la «nave»: amar a la iglesia real y concreta, con sus ritmos lentos y sus heridas, sin exigir una comunidad ideal. Frente a la tentación de reducir la identidad sacerdotal a un rol sociológico (psicología, pedagogía, redes) o a un activismo de resultados, el sacerdote ha de recordar que «no es el arquitecto ni la luz»: su identidad le precede como un don recibido y no como una construcción propia [CIS, 2026].
+
 ## Distinciones importantes
 
 - Secularización (pérdida de referencias cristianas compartidas) vs. secularismo (ideología que niega explícitamente la trascendencia)
@@ -52,3 +56,4 @@ Se relaciona con [[evangelización]], [[nueva_evangelización]], [[cultura]], [[
 ## Referencias
 
 - [DC-Convivium, 09.02.2026]
+- [CIS, «La catedral interior del sacerdote», 2026]
