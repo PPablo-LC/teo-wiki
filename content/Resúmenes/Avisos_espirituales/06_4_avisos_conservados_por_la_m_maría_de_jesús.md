@@ -3,43 +3,33 @@ type: ResumenFuente
 title: "4. Avisos conservados por la M. María de Jesús"
 fuente: Avisos_espirituales
 capítulo: 6
-timestamp: 2026-08-03
+timestamp: 2026-08-10
 description: "Resumen de '4. Avisos conservados por la M. María de Jesús' — Avisos_espirituales"
-tags: ["resumen", "avisos espirituales"]
+tags: ["resumen", "avisos espirituales", "teología_mística", "san_juan_de_la_cruz"]
 ---
 
 # 4. Avisos conservados por la M. María de Jesús
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[humildad]] — levantarse sobre sí, no hacer asiento en nada
+- [[combate_espiritual]] — estar vuelta contra sí, airada y jamás parada
+- [[silencio_interior]] — huir con el pensamiento de las cosas, cerrar la puerta
+- [[purgativa]] — limpieza de aficiones, pensamientos e imágenes
+- [[oración]] — dulce canto con compunción y lágrimas
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `06_4._avisos_conservados_por_la_m._maría_de_jesús.md`
+Cinco avisos breves conservados por la M. María de Jesús:
 
+1. **Levantarse sobre sí:** levantarse sobre sí y no hacer asiento en cosa alguna ([[humildad]]).
+2. **Vuelta contra sí:** estar vuelta contra sí, airada contra el propio yo y jamás parada ([[combate_espiritual]]).
+3. **Huir con el pensamiento:** huir con el pensamiento de las cosas y cerrar la puerta a todas, para conservar el recogimiento ([[silencio_interior]]).
+4. **Limpieza interior:** estar limpia de todas las aficiones, pensamientos e imágenes ([[purgativa]]).
+5. **Dulce canto:** el dulce canto se suspira con compunción y lágrimas ([[oración]]).
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 6 | H2 | 4. Avisos conservados por la M. María de Jesús |
-
-
-## Secciones incluidas
-
-# 4. Avisos conservados por la M. María de Jesús
-
-[Contenido de esta sección...]

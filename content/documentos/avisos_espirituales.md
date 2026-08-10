@@ -3,14 +3,14 @@ type: Documento
 title: Avisos Espirituales
 tags: ["documentos_—_espiritualidad", "teología_mística"]
 
-timestamp: 2026-07-14
+timestamp: 2026-08-10
 description: "Recopilación de dichos y avisos de San Juan de la Cruz, Doctor Místico de la Iglesia, sobre vida espiritual y mística."
 ---
 
 # Avisos Espirituales
 
 > Área: Documentos — Espiritualidad
-> Última actualización: 2026-07-14
+> Última actualización: 2026-08-10
 
 ## Identificación
 
@@ -47,6 +47,21 @@ La obra se organiza en seis secciones:
 ## Relación con otras obras de San Juan de la Cruz
 
 Los Avisos Espirituales son la expresión más condensada y práctica de la doctrina mística del Santo. Mientras las obras mayores (*Subida del Monte Carmelo*, *Noche Oscura*, *Cántico Espiritual*, *Llama de Amor Viva*) exponen sistemáticamente el proceso de purificación y unión, los Avisos ofrecen consejos breves y directos para la vida cotidiana del alma que camina hacia Dios. Son complementarios a las obras mayores y reflejan el mismo contenido teológico en formato aforístico.
+
+## Resúmenes
+
+Los resúmenes estructurados de la obra están en `wiki/Resúmenes/Avisos_espirituales/`, con un archivo por sección:
+
+| # | Archivo | Contenido |
+|---|---------|-----------|
+| 01 | [[01_avisos_espirituales]] | Portada: presentación general de la obra |
+| 02 | [[02_san_juan_de_la_cruz]] | San Juan de la Cruz: autor de los avisos |
+| 03 | [[03_1_dichos_de_luz_y_amor]] | 1. Dichos de luz y amor (prólogo + 79 dichos) |
+| 04 | [[04_2_puntos_de_amor_reunidos_en_beas]] | 2. Puntos de amor, reunidos en Beas (42 puntos) |
+| 05 | [[05_3_avisos_copiados_por_magdalena_del_espíritu_santo_en_beas]] | 3. Avisos copiados por Magdalena del Espíritu Santo |
+| 06 | [[06_4_avisos_conservados_por_la_m_maría_de_jesús]] | 4. Avisos conservados por la M. María de Jesús |
+| 07 | [[07_5_avisos_procedentes_de_antequera]] | 5. Avisos procedentes de Antequera |
+| 08 | [[08_6_otros_avisos_recogidos_por_la_edición_de_gerona]] | 6. Otros avisos recogidos por la edición de Gerona |
 
 ## Ver también
 

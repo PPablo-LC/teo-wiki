@@ -33,6 +33,14 @@ Reflexión pastoral sobre el sacerdocio que desarrolla la imagen de la catedral 
 
 Conclusión: el sacerdote no es el arquitecto, ni la luz, ni el centro. Es parte de una obra que Dios construye, y su mayor dignidad consiste en permitir que Cristo sea el templo.
 
+## Resúmenes
+
+El resumen estructurado de la conferencia está en `wiki/Resúmenes/La catedral interior del sacerdote [5KzTuo34DVA]/`:
+
+| # | Archivo | Contenido |
+|---|---------|-----------|
+| 01 | [[01_la_catedral_interior_del_sacerdote]] | Conferencia completa: los ocho elementos de la catedral como metáfora del alma sacerdotal |
+
 ## Personas
 
 - [[josé_ignacio_munilla]] — ponente de la conferencia

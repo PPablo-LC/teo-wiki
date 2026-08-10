@@ -2033,3 +2033,23 @@ existir como artículo propio, resolviendo el huérfano sembrado antes.
 | Wikilink | Referencias | Nota |
 |----------|-------------|------|
 | `[[intencionalidad]]` | 1 | Creado `intencionalidad.md` (antes `intencionalidad_(libertad).md`) |
+
+## Sembrados por los resúmenes de Avisos espirituales (2026-08-10)
+
+Al completar los 8 resúmenes de la fuente AvEsp se sembraron intencionalmente
+los siguientes wikilinks sin artículo (forward references). Su contenido está
+tratado en `wiki/Resúmenes/Avisos_espirituales/` y en la fuente raw:
+
+| Wikilink | Referencias | Fuente |
+|----------|-------------|--------|
+| `[[amor_del_prójimo]]` | 1 | AvEsp §7.9 |
+| `[[entrega_total_a_dios]]` | 1 | AvEsp §8.6 |
+| `[[imitación_de_cristo]]` | 2 | AvEsp §5.2, §8.35 |
+| `[[imperfecciones]]` | 1 | AvEsp §4.42 |
+| `[[muerte_mística]]` | 1 | AvEsp §7.2 |
+| `[[providencia_de_dios]]` | 1 | AvEsp §3.64 |
+| `[[pureza_de_conciencia]]` | 1 | AvEsp §3.12 |
+| `[[purgativa]]` | 2 | AvEsp §3.49, §6.4 |
+| `[[soledad_sagrada]]` | 1 | AvEsp §3.79 |
+| `[[suplicio_místico]]` | 1 | AvEsp §7.13 |
+| `[[virtud_cardinal_prudencia]]` | 1 | AvEsp §3.45 |

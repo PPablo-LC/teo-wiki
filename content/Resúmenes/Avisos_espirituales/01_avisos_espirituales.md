@@ -3,40 +3,29 @@ type: ResumenFuente
 title: "AVISOS ESPIRITUALES"
 fuente: Avisos_espirituales
 capítulo: 1
-timestamp: 2026-08-03
+timestamp: 2026-08-10
 description: "Resumen de 'AVISOS ESPIRITUALES' — Avisos_espirituales"
-tags: ["resumen", "avisos espirituales"]
+tags: ["resumen", "avisos espirituales", "teología_mística", "san_juan_de_la_cruz"]
 ---
 
 # AVISOS ESPIRITUALES
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[san_juan_de_la_cruz]] — autor de la obra (1542-1591), Doctor de la Iglesia
+- [[contemplación]] — tema central: recogimiento, desapego y unión con Dios
+- [[desapego]] — negación de apetitos como vía de perfección
+- [[mortificación]] — purificación de los apetitos y pasiones
+- [[oración]] — camino de unión con Dios
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `01_avisos_espirituales.md`
+Obra de San Juan de la Cruz compuesta por seis colecciones de «dichos» y «avisos» espirituales breves, recopiladas por discípulas y por distintas ediciones: *Dichos de luz y amor*, *Puntos de amor, reunidos en Beas*, *Avisos copiados por Magdalena del Espíritu Santo*, *Avisos conservados por la M. María de Jesús*, *Avisos procedentes de Antequera* y *Otros avisos recogidos por la edición de Gerona*.
 
+La obra condensa, en forma de sentencias prácticas, la doctrina ascético-mística del Santo: la [[vía_purgativa]] (desnudez, mortificación de apetitos), el [[desapego]] de todo lo criado, la [[humildad]], la [[obediencia]], el [[silencio_interior]], la vida de [[oración]] y [[contemplación]], y la unión transformante del alma con Dios. Cada colección procede de un contexto histórico distinto (Beas, Antequera, Gerona) y se compone de avisos dirigidos principalmente a religiosas, aunque su doctrina es universal.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 6 | H1 | AVISOS ESPIRITUALES |
-
-
-## Secciones incluidas
-
