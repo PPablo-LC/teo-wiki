@@ -3,94 +3,64 @@ type: ResumenFuente
 title: "¿QUÉ PASA CON LOS HIJOS?"
 fuente: morir-con-cero
 capítulo: 6
-timestamp: 2026-08-03
-description: "Resumen de '¿QUÉ PASA CON LOS HIJOS?' — morir-con-cero"
-tags: ["resumen", "morir-con-cero"]
+timestamp: 2026-08-11
+description: "Resumen de '¿QUÉ PASA CON LOS HIJOS?' de morir-con-cero — la herencia y el momento oportuno para dar"
+tags: ["resumen", "morir-con-cero", "análisis_cultural", "herencia"]
 ---
 
 # ¿QUÉ PASA CON LOS HIJOS?
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[familia]] — la comunidad a la que se transmite el patrimonio y el ejemplo.
+- [[herencia]] — la transmisión de bienes a los hijos, cuestionada en su momento óptimo.
+- [[liberalidad]] — la virtud de dar generosamente, no solo tras la muerte sino en vida.
+- [[don]] — el bien que se entrega a otros sin esperar retorno.
+- [[administración]] — la gestión de los bienes recibidos, considerando el bien de los demás.
+- [[pobreza_de_espíritu]] — la disposición a desprenderse de los bienes materiales.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `06_qué_pasa_con_los_hijos.md`
+### Norma número 5:
 
+**«Dales dinero a tus hijos o a las asociaciones benéficas cuando mayor impacto tenga.»**
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### Muriéndote por regalar el dinero: El problema de las herencias
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | ¿QUÉ PASA CON LOS HIJOS? |
-| 3 | H2 | Norma número 5: |
-| 23 | H2 | Muriéndote por regalar el dinero: El problema de las herencias |
-| 35 | H2 | Probabilidad de recibir una herencia por grupo de ingresos |
-| 49 | H2 | Predica con el ejemplo |
-| 59 | H2 | Los enemigos del pensamiento racional: El piloto automático y el miedo |
-| 73 | H2 | La elección del momento oportuno lo es todo |
-| 99 | H2 | Tu verdadero legado no es el dinero |
-| 139 | H2 | La beneficencia no puede esperar |
-| 149 | H2 | No puedes ser generoso una vez muerto |
-| 155 | H2 | Una terrible ineficiencia |
-| 169 | H2 | Tu legado es ahora |
+Perkins responde a la objeción clásica de «¿y qué pasa con los hijos?». La pregunta habitual esconde la imagen de la hipocresía santurrona: dejar dinero tras la muerte suele tener menos impacto que entregarlo en vida. El autor critica la costumbre de ahorrar toda la vida para heredar, en lugar de dar cuando el momento es oportuno.
 
+### Probabilidad de recibir una herencia por grupo de ingresos
 
-## Secciones incluidas
+El autor presenta datos sobre la probabilidad de recibir una herencia según el grupo de ingresos. La herencia se concentra en las familias acomodadas, y su efecto suele ser menor de lo que se piensa. Esta evidencia refuerza la tesis: el momento de dar importa más que la cantidad acumulada.
 
-# Norma número 5:
+### Predica con el ejemplo
 
-[Contenido de esta sección...]
+El dinero entregado a los hijos en el momento adecuado —cuando más lo necesitan, como la compra de una vivienda o la educación— enseña más que una herencia póstuma. El ejemplo del padre que administra bien sus bienes educa en la [[administración]] y la [[liberalidad]]: «predica con el ejemplo» al dar en vida.
 
-# Muriéndote por regalar el dinero: El problema de las herencias
+### Los enemigos del pensamiento racional: El piloto automático y el miedo
 
-[Contenido de esta sección...]
+Los dos grandes obstáculos para dar en vida son el piloto automático (seguir ahorrando por inercia, sin decidir) y el miedo (a no tener suficiente para uno mismo). Ambos impiden el uso deliberado y racional de los recursos.
 
-# Probabilidad de recibir una herencia por grupo de ingresos
+### La elección del momento oportuno lo es todo
 
-[Contenido de esta sección...]
+El momento óptimo para dar a los hijos está en torno a los 26-35 años, cuando el dinero tiene mayor impacto: hipoteca, estudios, negocios. Dar tarde reduce el beneficio; dar a tiempo multiplica el efecto del [[don]].
 
-# Predica con el ejemplo
+### Tu verdadero legado no es el dinero
 
-[Contenido de esta sección...]
+El legado más valioso que se transmite a los hijos no es el patrimonio, sino los valores, el carácter y el ejemplo. El dinero heredado puede incluso perjudicar; el verdadero legado es la formación de las personas.
 
-# Los enemigos del pensamiento racional: El piloto automático y el miedo
+### La beneficencia no puede esperar
 
-[Contenido de esta sección...]
+El autor presenta el caso de Sylvia Bloom, secretaria de 96 años que donó 8,2 millones de dólares (6,24 millones a Henry Street Settlement y 2 millones a Hunter College). Vivía en alquiler regulado y usaba el metro incluso nonagenaria; fue calificada como «el paradigma del altruismo». El ejemplo muestra cómo una persona común puede ser enormemente generosa, pero también plantea la pregunta de si el momento de dar fue el mejor.
 
-# La elección del momento oportuno lo es todo
+### No puedes ser generoso una vez muerto
 
-[Contenido de esta sección...]
+La generosidad póstuma es una contradicción: quien da tras la muerte no disfruta del dar ni puede adaptar su ayuda a las necesidades cambiantes. El autor defiende que la [[liberalidad]] se ejerce en vida.
 
-# Tu verdadero legado no es el dinero
+### Una terrible ineficiencia
 
-[Contenido de esta sección...]
+Dejar grandes cantidades sin gastar ni donar es una ineficiencia: recursos que podrían haber mejorado vidas quedan inmovilizados hasta la muerte. El dinero se malgasta tanto gastándolo mal como no gastándolo nunca.
 
-# La beneficencia no puede esperar
+### Tu legado es ahora
 
-[Contenido de esta sección...]
-
-# No puedes ser generoso una vez muerto
-
-[Contenido de esta sección...]
-
-# Una terrible ineficiencia
-
-[Contenido de esta sección...]
-
-# Tu legado es ahora
-
-[Contenido de esta sección...]
+La conclusión del capítulo: el momento de vivir, dar y construir el legado es el presente. La [[familia]], las obras benéficas y la propia vida se benefician más de la entrega oportuna que de la acumulación póstuma.

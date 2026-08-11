@@ -3,34 +3,34 @@ type: ResumenFuente
 title: "Moraleja del cuento"
 fuente: Caperucita_roja
 capítulo: 1
-timestamp: 2026-08-03
-description: "Resumen de 'Moraleja del cuento' — Caperucita_roja"
-tags: ["resumen", "caperucita roja"]
+timestamp: 2026-08-11
+description: "Resumen de 'Caperucita roja' de Charles Perrault — fábula moral sobre la seducción y la imprudencia"
+tags: ["resumen", "caperucita roja", "análisis_cultural", "tentación"]
 ---
 
 # Moraleja del cuento
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[inocencia]] — estado de la niña antes del encuentro con el lobo; confianza sin malicia.
+- [[vulnerabilidad]] — condición de Caperucita, niña joven y bella, presa fácil del engaño.
+- [[desobediencia]] — la niña se desvía del encargo materno y se entretiene en el bosque.
+- [[prudencia]] — virtud ausente en la niña, que el cuento busca inculcar como lección.
+- [[tentación]] — el lobo seduce con palabras dulces y grandes promesas.
+- [[mal]] / [[demonio]] — el lobo como figura del mal astuto, mentiroso y seductor.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `Caperucita_roja.md`
+### Caperucita roja
 
+La narración comienza presentando a una niña, la más linda de las aldeanas, conocida por la caperuza roja que le ha hecho su abuela. Su madre le encarga llevar una torta y un tarrito de manteca a la abuela enferma, que vive en otra aldea.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+Al pasar por un bosque, Caperucita encuentra al lobo, que «tuvo ganas de comérsela» pero no se atreve porque hay leñadores cerca. La niña, ignorando el peligro de detenerse a hablar con él, le revela su destino y la casa de su abuela. El lobo propone una carrera: él irá por el camino corto y ella por el largo.
 
-## Secciones incluidas
+El lobo llega primero, engaña a la abuela imitando la voz de Caperucita, la devora y se acuesta en su cama. Cuando la niña llega y entra, se desnuda y se mete en la cama sin sospechar nada. Se inicia entonces el diálogo célebre de las preguntas y respuestas — «Abuelita, tenéis los brazos muy largos» («Así te abrazaré mejor»), las piernas, las orejas, los ojos, los dientes («Así comeré mejor») — hasta que el lobo se arroja sobre la niña y se la come.
 
+### Moraleja del cuento
+
+La moraleja, en verso, se dirige a todas las jóvenes: «Mucho miedo, mucho, / Al lobo le tenga». Advierte que el lobo no siempre es un animal salvaje: «a veces es joven / De buena presencia, / De palabras dulces, / De grandes promesas, / Tan pronto olvidadas / Como fueron hechas».
+
+El cuento de Perrault funciona así como una **fábula pedagógica**: la niña perece por su imprudencia, su distracción y su credulidad, y el peligro real no es la fuerza bruta del mal sino su capacidad de **seducción**. No hay salvación ni leñador (a diferencia de la versión posterior de los Grimm): la versión de Perrault es una advertencia sin redención sobre los peligros de la confianza ingenua y la falta de discernimiento.

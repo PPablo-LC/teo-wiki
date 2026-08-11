@@ -3,69 +3,43 @@ type: ResumenFuente
 title: "INVIERTE EN EXPERIENCIAS"
 fuente: morir-con-cero
 capítulo: 3
-timestamp: 2026-08-03
-description: "Resumen de 'INVIERTE EN EXPERIENCIAS' — morir-con-cero"
-tags: ["resumen", "morir-con-cero"]
+timestamp: 2026-08-11
+description: "Resumen de 'INVIERTE EN EXPERIENCIAS' de morir-con-cero — las experiencias como inversión que paga dividendos"
+tags: ["resumen", "morir-con-cero", "análisis_cultural", "experiencias"]
 ---
 
 # INVIERTE EN EXPERIENCIAS
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[tiempo]] — la inversión en experiencias convierte tiempo presente en recuerdos y bienestar futuros.
+- [[bienaventuranza]] — la felicidad plena a la que las experiencias y la alegría vivida apuntan de modo imperfecto.
+- [[alegría_cristiana]] — la alegría profunda que brota de vivir plenamente y compartir con los demás.
+- [[vida_económica]] — la administración de los bienes materiales para financiar experiencias vitales.
+- [[don]] — lo recibido gratuitamente que puede multiplicarse al invertirse en la vida.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `03_invierte_en_experiencias.md`
+### Norma número 2:
 
+**«Empieza a invertir en experiencias pronto.»** Las experiencias son la inversión más rentable de la vida, y conviene comenzar cuanto antes.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### El negocio de tu vida
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | INVIERTE EN EXPERIENCIAS |
-| 3 | H2 | Norma número 2: |
-| 29 | H2 | El negocio de tu vida |
-| 39 | H2 | Entre la hormiga y la cigarra |
-| 47 | H2 | ¿Qué valor tiene una experiencia? |
-| 105 | H2 | Empieza pronto, empieza pronto y empieza pronto |
-| 113 | H2 | Escoge tu propia aventura |
+Perkins plantea tratar la vida como un negocio cuyo producto son las experiencias. Los «dividendos» de la inversión en experiencias son los recuerdos y las habilidades que permanecen: una experiencia vivida a los 20 años se disfruta durante toda la vida.
 
+### Entre la hormiga y la cigarra
 
-## Secciones incluidas
+Frente a la fábula de la cigarra y la hormiga, el autor rechaza tanto el despilfarro irresponsable como el ahorro esclavizante. Propone una vía intermedia: ahorrar lo necesario, pero invertir en experiencias que hagan la vida rica y plena.
 
-# Norma número 2:
+### ¿Qué valor tiene una experiencia?
 
-[Contenido de esta sección...]
+El autor examina cómo valorar las experiencias: por su intensidad, su novedad, su duración y su calidad social (compartidas con [[familia]] y amigos). Una experiencia se convierte en una fuente renovable de [[alegría_cristiana]] y satisfacción porque puede recordarse y contarse, multiplicando su valor con el paso del [[tiempo]].
 
-# El negocio de tu vida
+### Empieza pronto, empieza pronto y empieza pronto
 
-[Contenido de esta sección...]
+La idea central se repite con insistencia: comenzar a invertir en experiencias a una edad temprana tiene un efecto multiplicador. A igual coste, las experiencias vividas pronto reportan más «dividendos» que las postergadas, porque dan más tiempo a su disfrute y a su integración en la vida.
 
-# Entre la hormiga y la cigarra
+### Escoge tu propia aventura
 
-[Contenido de esta sección...]
-
-# ¿Qué valor tiene una experiencia?
-
-[Contenido de esta sección...]
-
-# Empieza pronto, empieza pronto y empieza pronto
-
-[Contenido de esta sección...]
-
-# Escoge tu propia aventura
-
-[Contenido de esta sección...]
+El autor invita a cada persona a elegir deliberadamente sus propias experiencias en lugar de copiar los planes de otros. La optimización vital es personal: hay que decidir qué experiencias dan más valor a la propia vida y organizar los recursos para poder vivirlas.

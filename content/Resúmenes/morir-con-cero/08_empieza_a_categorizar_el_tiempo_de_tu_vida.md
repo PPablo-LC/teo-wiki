@@ -3,64 +3,38 @@ type: ResumenFuente
 title: "EMPIEZA A CATEGORIZAR EL TIEMPO DE TU VIDA"
 fuente: morir-con-cero
 capítulo: 8
-timestamp: 2026-08-03
-description: "Resumen de 'EMPIEZA A CATEGORIZAR EL TIEMPO DE TU VIDA' — morir-con-cero"
-tags: ["resumen", "morir-con-cero"]
+timestamp: 2026-08-11
+description: "Resumen de 'EMPIEZA A CATEGORIZAR EL TIEMPO DE TU VIDA' de morir-con-cero — los cubos de tiempo y las estaciones de la vida"
+tags: ["resumen", "morir-con-cero", "análisis_cultural", "tiempo"]
 ---
 
 # EMPIEZA A CATEGORIZAR EL TIEMPO DE TU VIDA
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[tiempo]] — el recurso finito que se organiza en estaciones y cubos.
+- [[muerte]] — el final que da forma a la categorización de la vida.
+- [[sabiduría]] — el saber vivir que permite distribuir las experiencias en el tiempo oportuno.
+- [[familia]] — las relaciones que ocupan estaciones determinadas de la vida.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `08_empieza_a_categorizar_el_tiempo_de_tu_vida.md`
+### Norma número 7:
 
+**«Piensa en tu vida como en las distintas estaciones.»** El autor recuerda cuando sus hijas eran pequeñas y veían juntos *La película de Héffalump*; un día, cuando su hija pequeña tenía 10 años, la película ya no le interesaba: había pasado la estación. Cada etapa de la vida tiene sus experiencias propias, que solo pueden vivirse en su momento.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### Sin unos momentos finales claros
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | EMPIEZA A CATEGORIZAR EL TIEMPO DE TU VIDA |
-| 3 | H2 | Norma número 7: |
-| 13 | H2 | Sin unos momentos finales claros |
-| 29 | H2 | Una vida libre de arrepentimientos |
-| 55 | H2 | Aprende de tus «categorías o cubos de tiempo» |
-| 75 | H2 | Hay un tiempo para todo: Los cubos de tiempo frente a la lista de dese |
+Muchas personas no tienen un final definido para sus etapas vitales: no se fijan cuándo termina una etapa ni qué experiencias les quedan por vivir. Sin una conciencia de los momentos finales, se desperdician oportunidades que ya no volverán.
 
+### Una vida libre de arrepentimientos
 
-## Secciones incluidas
+Las personas moribundas se arrepienten con frecuencia de no haber vivido ciertas experiencias o de no haber pasado más tiempo con los suyos. El autor propone organizar la vida para evitar esos arrepentimientos, anticipando qué experiencias se quieren vivir en cada estación.
 
-# Norma número 7:
+### Aprende de tus «categorías o cubos de tiempo»
 
-[Contenido de esta sección...]
+Perkins propone dividir la vida en «cubos de tiempo»: categorías de años (0-10, 10-20, 20-30, etc.) en las que se colocan las experiencias posibles de cada edad. Esta herramienta permite ver de un vistazo qué experiencias ya no podrán vivirse y cuáles conviene priorizar ahora.
 
-# Sin unos momentos finales claros
+### Hay un tiempo para todo: Los cubos de tiempo frente a la lista de deseos de cosas que hacer antes de morir
 
-[Contenido de esta sección...]
-
-# Una vida libre de arrepentimientos
-
-[Contenido de esta sección...]
-
-# Aprende de tus «categorías o cubos de tiempo»
-
-[Contenido de esta sección...]
-
-# Hay un tiempo para todo: Los cubos de tiempo frente a la lista de deseos de cosas que hacer antes de morir
-
-[Contenido de esta sección...]
+A diferencia de la típica «lista de deseos», los cubos de tiempo obligan a ordenar las experiencias por edad oportuna: hay un tiempo para cada cosa, como enseña la [[sabiduría]]. El autor propone usar los cubos para distribuir las experiencias a lo largo de la vida, de modo que ninguna estación quede vacía y ninguna experiencia se intente vivir fuera de su momento.

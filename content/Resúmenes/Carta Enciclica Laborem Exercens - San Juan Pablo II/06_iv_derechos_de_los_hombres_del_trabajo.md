@@ -3,79 +3,57 @@ type: ResumenFuente
 title: "IV. DERECHOS DE LOS HOMBRES DEL TRABAJO"
 fuente: Carta Enciclica Laborem Exercens - San Juan Pablo II
 capítulo: 6
-timestamp: 2026-08-03
-description: "Resumen de 'IV. DERECHOS DE LOS HOMBRES DEL TRABAJO' — Carta Enciclica Laborem Exercens - San Juan Pablo II"
-tags: ["resumen", "carta enciclica laborem exercens - san juan pablo ii"]
+timestamp: 2026-08-11
+description: "Resumen de 'IV. DERECHOS DE LOS HOMBRES DEL TRABAJO' — Laborem Exercens: derechos de los trabajadores, salario justo, sindicatos y empleo"
+tags: ["resumen", "laborem exercens", "doctrina_social"]
 ---
 
 # IV. DERECHOS DE LOS HOMBRES DEL TRABAJO
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[derechos_de_los_trabajadores]] — derechos que brotan del trabajo en el amplio contexto de los derechos fundamentales de la persona.
+- [[derechos_humanos]] — el respeto de los derechos del hombre como condición fundamental para la paz.
+- [[salario_justo]] — la justa remuneración por el trabajo como verificación concreta de la justicia del sistema socio-económico.
+- [[familia]] — el salario justo debe ser suficiente para fundar y mantener dignamente una familia.
+- [[sindicatos]] — asociaciones para la defensa de los intereses vitales de los hombres del trabajo, exponentes de la lucha por la justicia social.
+- [[justicia_social]] — la doctrina social católica y la lucha por los justos derechos de los trabajadores.
+- [[trabajo_agrícola]] — el mundo agrícola y la dignidad del trabajo del campo.
+- [[emigración_por_trabajo]] — el hombre tiene derecho a abandonar su país de origen y buscar mejores condiciones de vida.
+- [[bien_común]] — los sindicatos en el marco del bien común de la sociedad entera.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `06_iv_derechos_de_los_hombres_del_trabajo.md`
+El trabajo, en el múltiple sentido de la palabra, es una obligación y a la vez una fuente de derechos del trabajador. Estos derechos deben examinarse en el amplio contexto de los [[derechos_humanos]] que le son connaturales; su respeto constituye la condición fundamental para la paz del mundo contemporáneo, como ha enseñado el Magisterio desde *Pacem in terris*.
 
+### 16. En el amplio contexto de los derechos humanos
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+Los [[derechos_de_los_trabajadores]] entran dentro del más amplio contexto de los derechos fundamentales de la persona, con un carácter peculiar correspondiente a la naturaleza específica del trabajo. El trabajo es una obligación, un deber del hombre, en múltiples sentidos: por el ordenamiento del Creador, por su propia humanidad, por respeto al prójimo, a la familia, a la sociedad, a la nación y a la entera familia humana, de la que es heredero y coartífice del futuro. Hablando de la obligación del trabajo y de los derechos del trabajador se tiene presente la relación entre el empresario —directo e indirecto— y el trabajador. El empresario directo es la persona o institución con la que el trabajador estipula directamente el contrato de trabajo; como empresario indirecto se entienden los muchos factores diferenciados que ejercen influjo sobre el contrato y sobre las relaciones más o menos justas en el sector del trabajo.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | IV. DERECHOS DE LOS HOMBRES DEL TRABAJO |
-| 3 | H3 | 16. En el amplio contexto de los derechos humanos |
-| 15 | H3 | 17. Empresario: «indirecto» y «directo» |
-| 27 | H3 | 18. El problema del empleo |
-| 41 | H3 | 19. Salario y otras prestaciones sociales |
-| 55 | H3 | 20. Importancia de los sindicatos |
-| 71 | H3 | 21. Dignidad del trabajo agrícola |
-| 79 | H3 | 22. La persona minusválida y el trabajo |
-| 87 | H3 | 23. El trabajo y el problema de la emigración |
+### 17. Empresario: «indirecto» y «directo»
 
+En el concepto de empresario indirecto entran personas e instituciones de diverso tipo, los contratos colectivos y los principios de comportamiento que determinan el sistema socio-económico. Su responsabilidad es menos directa pero sigue siendo verdadera: condiciona el comportamiento del empresario directo. La política laboral correcta desde el punto de vista ético es aquella en que los derechos objetivos del hombre del trabajo son plenamente respetados. El concepto de empresario indirecto se aplica a toda sociedad y en primer lugar al Estado, que debe realizar una política laboral justa. Las múltiples conexiones entre Estados crean dependencias recíprocas que pueden convertirse en ocasión de explotación: los Países altamente industrializados y las sociedades multinacionales ponen precios altos a sus productos y precios bajos a las materias primas, aumentando la distancia entre Países ricos y pobres. Los derechos del hombre del trabajo no pueden ser un derivado de los sistemas económicos guiados por el máximo beneficio: la consideración de esos derechos debe constituir el criterio fundamental para la formación de toda la economía. Las Organizaciones Internacionales (ONU, OIT, FAO) deben ejercer su influencia en esta dirección.
 
-## Secciones incluidas
+### 18. El problema del empleo
 
-## 16. En el amplio contexto de los derechos humanos
+En relación con el empresario indirecto se debe prestar atención al problema de encontrar un empleo adecuado para todos los sujetos capaces de él. Lo contrario es el desempleo, que es en todo caso un mal y puede convertirse en verdadera calamidad social, particularmente doloroso cuando afecta a los jóvenes. La obligación de prestar subsidio a los desocupados y sus familias brota del principio del uso común de los bienes, del derecho a la vida y a la subsistencia. Las instancias del empresario indirecto deben proveer a una planificación global que no signifique una centralización unilateral de los poderes públicos, sino una coordinación justa y racional en la que se garantice la iniciativa de las personas y de los grupos libres, teniendo en cuenta el carácter subjetivo del trabajo. Se requiere la colaboración internacional mediante tratados y acuerdos, con el trabajo como derecho fundamental de todos los hombres. Se puede realizar así el plan de un progreso universal siguiendo el hilo conductor de *Populorum Progressio*, cuya verificación es la continua revalorización del [[trabajo_humano]]. Un hecho desconcertante: mientras se desaprovechan recursos de la naturaleza, existen grupos enteros de desocupados y multitudes hambrientas.
 
-[Contenido de esta sección...]
+### 19. Salario y otras prestaciones sociales
 
-## 17. Empresario: «indirecto» y «directo»
+Los derechos del trabajador surgen de la relación entre el trabajador y el empresario directo. El problema-clave de la ética social es el de la justa remuneración por el trabajo realizado, la vía concreta a través de la cual la gran mayoría de los hombres accede a los bienes destinados al uso común. El [[salario_justo]] se convierte en la verificación concreta de la justicia de todo el sistema socio-económico. Tal verificación afecta sobre todo a la [[familia]]: la justa remuneración debe ser suficiente para fundar y mantener dignamente una familia, ya sea mediante el salario familiar (un salario único al cabeza de familia suficiente para las necesidades de la familia sin que la esposa asuma trabajo retribuido fuera de casa), ya sea mediante medidas sociales como subsidios familiares o ayudas a la madre. Hay que esforzarse por la revalorización social de las funciones maternas: el abandono obligado de tales tareas por una ganancia retribuida fuera de casa es incorrecto desde el punto de vista del bien de la sociedad y de la familia. La verdadera promoción de la mujer exige que el trabajo se estructure de modo que no deba pagar su promoción con el abandono del carácter específico propio. Además del salario, otras prestaciones sociales: asistencia sanitaria (en caso de accidentes), derecho al descanso (semanal, al menos el domingo, y vacaciones), pensión y seguro de vejez, y ambientes de trabajo que no perjudiquen la salud física ni la integridad moral.
 
-[Contenido de esta sección...]
+### 20. Importancia de los sindicatos
 
-## 18. El problema del empleo
+Junto a la necesidad de asegurar los derechos brota el derecho a asociarse, a formar [[sindicatos]] para la defensa de los intereses vitales de los hombres empleados en las diversas profesiones. Los sindicatos tienen su origen, de algún modo, en las corporaciones artesanas medievales, pero se diferencian: los sindicatos modernos han crecido sobre la base de la lucha de los trabajadores para la tutela de sus justos derechos frente a los empresarios. Son un elemento indispensable de la vida social, especialmente en las sociedades modernas industrializadas. La doctrina social católica no los considera exponentes de la lucha de clase: son un exponente de la lucha por la [[justicia_social]], una dedicación normal «en favor» del justo bien, no una lucha «contra» los demás. La unión de los hombres para asegurarse sus derechos es un factor constructivo de orden social y solidaridad. Las exigencias sindicales no pueden transformarse en un «egoísmo» de grupo o de clase, con miras al [[bien_común]]. La actividad de los sindicatos entra en el campo de la «política» entendida como prudente solicitud por el bien común, pero no son partidos políticos que luchan por el poder ni deberían someterse a ellos. Los sindicatos deben tener un empeño instructivo, educativo y de promoción de la autoeducación, para que el trabajador pueda no solo «tener» más, sino sobre todo «ser» más. Se sirven también del método de la huelga, reconocido por la doctrina social católica como legítimo en las debidas condiciones y justos límites, sin que se pueda abusar de él ni en función de los «juegos políticos»; en los servicios esenciales para la convivencia civil deben asegurarse en todo caso las medidas legales apropiadas.
 
-[Contenido de esta sección...]
+### 21. Dignidad del trabajo agrícola
 
-## 19. Salario y otras prestaciones sociales
+La dignidad del trabajo tiene aplicación directa en el [[trabajo_agrícola]] y en la situación del hombre que cultiva la tierra. El mundo agrícola, que ofrece a la sociedad los bienes necesarios para su sustento diario, reviste una importancia fundamental. El trabajo del campo conoce no leves dificultades: esfuerzo físico continuo, escasa estima social, marginación, fuga masiva del campo a la ciudad, falta de formación profesional, y situaciones objetivamente injustas. En algunos Países en vía de desarrollo, millones de hombres cultivan las tierras de otros y son explotados por los latifundistas, sin esperanza de poseer ni un pedazo mínimo de tierra; faltan formas de tutela legal para el trabajador agrícola y su familia; largas jornadas de pesado trabajo físico son pagadas miserablemente. También en los Países desarrollados se puede lesionar el derecho al trabajo cuando se niega al campesino la participación en las opciones decisorias o el derecho a la libre asociación. En muchas situaciones son necesarios cambios radicales y urgentes para dar a la agricultura el justo valor como base de una sana economía. Hay que proclamar y promover la dignidad del trabajo, de todo trabajo, y en particular del agrícola, en el cual el hombre «somete» la tierra recibida en don de Dios.
 
-[Contenido de esta sección...]
+### 22. La persona minusválida y el trabajo
 
-## 20. Importancia de los sindicatos
+Las comunidades nacionales y las organizaciones internacionales han dirigido su atención a las personas minusválidas. Son sujetos plenamente humanos, con derechos innatos, sagrados e inviolables, que ponen de relieve la dignidad y grandeza del hombre. Debe facilitársele la participación en la vida de la sociedad en todas las dimensiones accesibles a sus posibilidades. Sería una grave forma de discriminación admitir en la vida social y en el trabajo únicamente a los miembros plenamente funcionales. El trabajo en sentido objetivo debe estar subordinado, también en esta circunstancia, a la dignidad del hombre, al sujeto del trabajo, y no a las ventajas económicas. Corresponde al empresario directo e indirecto promover con medidas eficaces el derecho de la persona minusválida a la preparación profesional y al trabajo, para que se le ofrezca un trabajo según sus posibilidades (empresas públicas y privadas, ambientes «protegidos»). Debe prestarse atención a sus condiciones físicas y psicológicas, a la justa remuneración y a las posibilidades de promoción, para que se sienta sujeto de trabajo de pleno derecho, útil y respetado por su dignidad humana.
 
-[Contenido de esta sección...]
+### 23. El trabajo y el problema de la emigración
 
-## 21. Dignidad del trabajo agrícola
-
-[Contenido de esta sección...]
-
-## 22. La persona minusválida y el trabajo
-
-[Contenido de esta sección...]
-
-## 23. El trabajo y el problema de la emigración
-
-[Contenido de esta sección...]
+La [[emigración_por_trabajo]] es un fenómeno antiguo con grandes implicaciones en la vida contemporánea. El hombre tiene derecho a abandonar su país de origen por varios motivos, como también a volver a él, y a buscar mejores condiciones de vida en otro país. La emigración constituye generalmente una pérdida para el país del que se emigra: se aleja un sujeto de trabajo que podría contribuir al bien común del propio país. Aunque es bajo cierto aspecto un mal, en determinadas circunstancias es un mal necesario. Hay que hacer todo lo posible para que no comporte mayores males en sentido moral; mucho depende de una justa legislación. Lo más importante es que el hombre que trabaja fuera de su país natal no se encuentre en desventaja en el ámbito de los derechos concernientes al trabajo respecto a los demás trabajadores de esa sociedad: la emigración no puede convertirse en ocasión de explotación financiera o social. El valor del trabajo debe medirse con el mismo metro, no en relación con las nacionalidades, religión o raza. Se repite el principio fundamental: la jerarquía de valores exige que el capital esté en función del trabajo y no el trabajo en función del capital.

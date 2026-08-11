@@ -3,64 +3,39 @@ type: ResumenFuente
 title: "¿POR QUÉ MORIR CON CERO?"
 fuente: morir-con-cero
 capítulo: 4
-timestamp: 2026-08-03
-description: "Resumen de '¿POR QUÉ MORIR CON CERO?' — morir-con-cero"
-tags: ["resumen", "morir-con-cero"]
+timestamp: 2026-08-11
+description: "Resumen de '¿POR QUÉ MORIR CON CERO?' de morir-con-cero — la meta de gastar la riqueza y no el exceso de precaución"
+tags: ["resumen", "morir-con-cero", "análisis_cultural", "ahorro"]
 ---
 
 # ¿POR QUÉ MORIR CON CERO?
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[previsión]] — la actitud de asegurar el futuro, que puede degenerar en exceso de precaución.
+- [[virtud_de_la_prudencia]] — la virtud que ordena los medios a los fines; su exceso distorsiona la vida.
+- [[muerte]] — el horizonte final que da sentido a la administración de los bienes.
+- [[riquezas]] — los bienes materiales que, si no se usan, no cumplen su fin.
+- [[trabajo]] — la actividad por la que se adquieren las riquezas y que puede convertirse en fin en sí misma.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `04_por_qué_morir_con_cero.md`
+### Norma número 3:
 
+**«Aspira a morir con cero.»** El autor propone como ideal terminar la vida habiendo dado uso pleno a los recursos, en lugar de dejar un saldo sin gastar.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### «¡Pero me encanta mi trabajo!»
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | ¿POR QUÉ MORIR CON CERO? |
-| 3 | H2 | Norma número 3: |
-| 63 | H2 | «¡Pero me encanta mi trabajo!» |
-| 77 | H2 | «Pero… Pero…» |
-| 89 | H2 | La gente que ahorra demasiado |
-| 129 | H2 | Exceso de precaución |
+Perkins responde a la objeción de quienes disfrutan tanto su [[trabajo]] que no desean jubilarse ni gastar. Señala que el [[trabajo]], aun siendo amado, consume tiempo vital que podría dedicarse a otras experiencias; el apego excesivo al trabajo puede ser una forma de evitar decidir cómo vivir la vida.
 
+### «Pero… Pero…»
 
-## Secciones incluidas
+El autor enumera las objeciones habituales a la idea de morir con cero: el miedo a quedarse sin recursos, la incertidumbre de la esperanza de vida, el deseo de dejar [[herencia]]. Responde que se trata de un ideal orientativo que obliga a deliberar sobre el uso del dinero, no de una regla rígida.
 
-# Norma número 3:
+### La gente que ahorra demasiado
 
-[Contenido de esta sección...]
+Presenta ejemplos de personas que acumulan riqueza sin disfrutarla, como el caso de los «milmillonarios honoríficos» que nunca gastan. Aunque la acumulación sea prudente en abstracto, la falta de gasto en experiencias convierte las [[riquezas]] en un fin en lugar de un medio. La [[previsión]] necesaria se convierte en exceso cuando se ahorra toda la vida para un futuro que nunca llega.
 
-# «¡Pero me encanta mi trabajo!»
+### Exceso de precaución
 
-[Contenido de esta sección...]
-
-# «Pero… Pero…»
-
-[Contenido de esta sección...]
-
-# La gente que ahorra demasiado
-
-[Contenido de esta sección...]
-
-# Exceso de precaución
-
-[Contenido de esta sección...]
+El autor describe cómo el miedo al riesgo lleva a ahorrar más de lo necesario, aplazando experiencias que después ya no podrán vivirse por edad o por [[salud]]. La prudencia verdadera —la [[virtud_de_la_prudencia]]— equilibra la seguridad con el uso pleno de la vida, mientras que el exceso de precaución empobrece el presente a costa de un futuro incierto. Ante la [[muerte]] inevitable, la vida no vivida es el verdadero despilfarro.

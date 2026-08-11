@@ -3,74 +3,46 @@ type: ResumenFuente
 title: "SÉ VALIENTE, NO INSENSATO"
 fuente: morir-con-cero
 capítulo: 10
-timestamp: 2026-08-03
-description: "Resumen de 'SÉ VALIENTE, NO INSENSATO' — morir-con-cero"
-tags: ["resumen", "morir-con-cero"]
+timestamp: 2026-08-11
+description: "Resumen de 'SÉ VALIENTE, NO INSENSATO' de morir-con-cero — asumir riesgos calculados cuando hay poco que perder"
+tags: ["resumen", "morir-con-cero", "análisis_cultural", "riesgo"]
 ---
 
 # SÉ VALIENTE, NO INSENSATO
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[previsión]] — la valoración prudente de los riesgos antes de asumirlos.
+- [[virtud_de_la_prudencia]] — la deliberación que distingue la valentía de la insensatez.
+- [[providencia_divina]] — la confianza en Dios que sostiene al asumir riesgos legítimos.
+- [[trabajo]] — el ámbito en que se toman las decisiones profesionales y vitales.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `10_sé_valiente_no_insensato.md`
+### Norma número 9:
 
+**«Asume tus mayores riesgos cuando tengas poco que perder.»** El autor presenta el ejemplo de Mark Cuban, propietario de los Dallas Mavericks y «tiburón» de *Shark Tank*. A los 12 años vendía bolsas de basura a los vecinos; a los 16 compraba y revendía sellos. Creció en una familia de clase trabajadora de Pittsburgh; su madre le apremiaba a aprender un oficio, pero estudió empresariales y se pagó los estudios dando clases de baile disco, además de comprar un pub del campus que la policía clausuró por servir alcohol a menores. Tras graduarse, seguía en bancarrota, pero poseía las habilidades y la confianza necesarias para los negocios. A los 23 años metió sus pocas posesiones en un viejo Fiat y condujo hasta Dallas, donde compartió piso con varios compañeros y durmió en un saco de dormir, trabajando de camarero y dependiente. Su juventud le permitió arriesgarse cuando tenía poco que perder.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### Apuesta allá donde no tengas nada (o poco) que perder
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | SÉ VALIENTE, NO INSENSATO |
-| 3 | H2 | Norma número 9: |
-| 11 | H2 | Apuesta allá donde no tengas nada (o poco) que perder |
-| 19 | H2 | Cuanto más joven seas más valiente deberías ser |
-| 31 | H2 | Elecciones de trayectorias profesionales |
-| 49 | H2 | Cuantifica el miedo: El caso de mudarse |
-| 71 | H2 | ¿Cómo ser audaz cuando se es mayor? |
-| 75 | H2 | ¿Qué pasa si soy reacio al riesgo? |
+La norma propone asumir los mayores riesgos en los momentos en que las pérdidas posibles son pequeñas. El riesgo asimétrico —mucho por ganar, poco por perder— es el más razonable, y suele presentarse en la juventud.
 
+### Cuanto más joven seas más valiente deberías ser
 
-## Secciones incluidas
+El joven tiene menos responsabilidades y más tiempo para recuperarse de un fracaso: puede permitirse ser audaz. La valentía temprana permite aprender, acumular experiencias y aprovechar oportunidades que más adelante serán imposibles.
 
-# Norma número 9:
+### Elecciones de trayectorias profesionales
 
-[Contenido de esta sección...]
+Las decisiones de [[trabajo]] deben evaluarse en función del riesgo y la recompensa a lo largo de toda la vida: apostar por una trayectoria prometedora cuando se es joven compensa más que quedarse en la seguridad improductiva. La [[previsión]] guía esas elecciones sin paralizarlas.
 
-# Apuesta allá donde no tengas nada (o poco) que perder
+### Cuantifica el miedo: El caso de mudarse
 
-[Contenido de esta sección...]
+Perkins propone cuantificar el miedo ante decisiones como mudarse: analizar el peor escenario, su probabilidad y su coste real. Muchas veces el temido desastre es improbable o recuperable, y el análisis racional libera de la parálisis. La [[virtud_de_la_prudencia]] no elimina el riesgo, sino que lo pondera.
 
-# Cuanto más joven seas más valiente deberías ser
+### ¿Cómo ser audaz cuando se es mayor?
 
-[Contenido de esta sección...]
+El mayor tiene más que perder, pero puede ser audaz de otras formas: asumir riesgos proporcionados, hacer cambios vitales meditados y aprovechar el capital acumulado. La audacia no es exclusiva de la juventud, pero debe ser más medida.
 
-# Elecciones de trayectorias profesionales
+### ¿Qué pasa si soy reacio al riesgo?
 
-[Contenido de esta sección...]
-
-# Cuantifica el miedo: El caso de mudarse
-
-[Contenido de esta sección...]
-
-# ¿Cómo ser audaz cuando se es mayor?
-
-[Contenido de esta sección...]
-
-# ¿Qué pasa si soy reacio al riesgo?
-
-[Contenido de esta sección...]
+Para quien es reacio al riesgo, el autor recomienda empezar con pasos pequeños y confiar en la [[providencia_divina]]: tomar decisiones valientes no es insensatez, sino parte de una vida plena. La valentía se aprende gradualmente, siempre guiada por la razón y la medida.

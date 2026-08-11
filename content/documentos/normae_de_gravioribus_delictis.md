@@ -23,6 +23,14 @@ description: "Reforma de las *Normae* de 2001 que introduce cambios sustanciales
 
 Reforma de las *Normae* de 2001 que introduce cambios sustanciales: ampliación de la prescripción a 20 años, inclusión de delitos contra la fe (apostasía, herejía, cisma), nuevos delitos contra la Eucaristía y la Penitencia, atentada ordenación de mujer, equiparación al menor de la persona con uso imperfecto de la razón, pornografía infantil, y facultades procesales ampliadas (vía extrajudicial, dimisión del estado clerical).
 
+## Resúmenes
+
+El resumen estructurado de la fuente está en `wiki/Resúmenes/Cambios_Gravioribus_delictis/`:
+
+| # | Archivo | Contenido |
+|---|---------|-----------|
+| 01 | [[01_breve_relación_sobre_los_cambios_introducidos_en_las_normae_de_gravioribus_delic]] | Breve relación sobre los cambios introducidos en las *Normae de gravioribus delictis*: las 17 modificaciones de 2010 (facultades del Romano Pontífice y delitos reservados) |
+
 ## Ver también
 
 [[sacramentorum_sanctitatis_tutela]], [[código_de_derecho_canónico]], [[delicta_graviora]]

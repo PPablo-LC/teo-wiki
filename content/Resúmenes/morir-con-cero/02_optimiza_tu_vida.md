@@ -3,79 +3,51 @@ type: ResumenFuente
 title: "OPTIMIZA TU VIDA"
 fuente: morir-con-cero
 capítulo: 2
-timestamp: 2026-08-03
-description: "Resumen de 'OPTIMIZA TU VIDA' — morir-con-cero"
-tags: ["resumen", "morir-con-cero"]
+timestamp: 2026-08-11
+description: "Resumen de 'OPTIMIZA TU VIDA' de morir-con-cero — maximizar las experiencias positivas de la vida"
+tags: ["resumen", "morir-con-cero", "análisis_cultural", "experiencias"]
 ---
 
 # OPTIMIZA TU VIDA
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[tiempo]] — el recurso finito que debe convertirse en experiencias vividas, no solo en dinero acumulado.
+- [[trabajo]] — la actividad que se intercambia por dinero y que consume la energía vital del trabajador.
+- [[muerte]] — el horizonte que hace finita la vida y obliga a priorizar experiencias.
+- [[salud]] — la condición corporal que permite disfrutar las experiencias.
+- [[familia]] — las relaciones en las que la persona invierte tiempo y energía.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `02_optimiza_tu_vida.md`
+### Norma número 1:
 
+**«Maximiza tus experiencias positivas de la vida.»** Esta es la norma fundamental del libro: la vida debe medirse por las experiencias vividas, no por la riqueza acumulada.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### El problema de todos nosotros
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | OPTIMIZA TU VIDA |
-| 3 | H2 | Norma número 1: |
-| 29 | H2 | El problema de todos nosotros |
-| 37 | H2 | Todos somos parecidos y todos, diferentes |
-| 47 | H2 | El milmillonario honorífico |
-| 55 | H2 | Una conversación que me cambió la vida |
-| 83 | H2 | La bolsa o la vida |
-| 97 | H2 | Tu vida es la suma de tus experiencias |
-| 107 | H2 | ¿Por qué este libro? |
+Perkins describe el problema de la optimización vital: la gente se centra en maximizar el patrimonio neto en lugar de la «valía vital» (la suma de experiencias). El dinero no es el fin, sino la herramienta. La pregunta no es «¿cuánto tienes?», sino «¿cómo estás viviendo tu vida?».
 
+### Todos somos parecidos y todos, diferentes
 
-## Secciones incluidas
+Aunque las circunstancias difieren, todos los seres humanos se enfrentan al mismo problema de fondo: convertir un tiempo y una energía limitados en una vida plena. Las diferencias económicas, culturales o sociales cambian los medios, pero no la tarea de fondo.
 
-# Norma número 1:
+### El milmillonario honorífico
 
-[Contenido de esta sección...]
+El autor ironiza sobre el «milmillonario honorífico»: quien, con salud y energía, es rico en posibilidades vitales aunque no en dinero. La verdadera riqueza está en poder vivir experiencias, y se desaprovecha cuando el ahorro excesivo impide gastar en la vida.
 
-# El problema de todos nosotros
+### Una conversación que me cambió la vida
 
-[Contenido de esta sección...]
+Perkins narra la historia de Erin y John. A John le diagnosticaron sarcoma de células claras (octubre de 2008), con un tumor «del tamaño de una pelota de béisbol»; la radiografía apareció «iluminada como un árbol de Navidad». La pareja cambió su escala de valores: en lugar de seguir ahorrando, empezaron a disfrutar de los placeres sencillos de Iowa y a organizar su vida en torno a la calidad del tiempo compartido. Erin se sometió a un ensayo clínico en noviembre. La lección: la inminencia de la [[muerte]] reordena las prioridades y revela qué es lo importante.
 
-# Todos somos parecidos y todos, diferentes
+### La bolsa o la vida
 
-[Contenido de esta sección...]
+La vida se intercambia por dinero en el [[trabajo]]: cada hora de trabajo es una hora de vida entregada. Por eso, ganar dinero no puede justificar el desperdicio de la vida misma. El autor invita a tratar el tiempo como el recurso más valioso y a preguntarse si el intercambio compensa.
 
-# El milmillonario honorífico
+### Tu vida es la suma de tus experiencias
 
-[Contenido de esta sección...]
+La vida equivale a la suma de las experiencias vividas. Optimizar la vida significa elegir experiencias que maximicen el valor de esa suma, considerando el momento, la salud y las relaciones ([[familia]], amigos).
 
-# Una conversación que me cambió la vida
+### ¿Por qué este libro?
 
-[Contenido de esta sección...]
-
-# La bolsa o la vida
-
-[Contenido de esta sección...]
-
-# Tu vida es la suma de tus experiencias
-
-[Contenido de esta sección...]
-
-# ¿Por qué este libro?
-
-[Contenido de esta sección...]
+El autor explica el propósito del libro: ayudar a las personas a optimizar su vida mediante decisiones deliberadas sobre el uso del tiempo y el dinero, en lugar de seguir el patrón automático de ahorrar sin rumbo.

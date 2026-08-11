@@ -57,6 +57,20 @@ La última parte de la encíclica es una de sus contribuciones más originales: 
 - Espiritualidad del trabajo como participación en la creación, redención y consumación
 - Aplicación de la doctrina social a problemas concretos: trabajo agrícola, minusválidos, emigración, sindicatos, huelga
 
+## Resúmenes
+
+Los resúmenes estructurados de la obra están en `wiki/Resúmenes/Carta Enciclica Laborem Exercens - San Juan Pablo II/`, con un archivo por sección:
+
+| # | Archivo | Contenido |
+|---|---------|-----------|
+| 01 | [[01_carta_encíclica_laborem_exercens]] | Portada: datos de edición del documento |
+| 02 | [[02_carta_encíclica_laborem_exercens]] | Portada: título, destinatarios y 90.º aniversario de la *Rerum Novarum* |
+| 03 | [[03_i_introducción]] | I. Introducción: el trabajo humano 90 años después de la *Rerum Novarum*, línea de desarrollo orgánico, el trabajo como clave de la cuestión social |
+| 04 | [[04_ii_el_trabajo_y_el_hombre]] | II. El trabajo y el hombre: Génesis, sentido objetivo y subjetivo, economismo, solidaridad, dignidad de la persona, familia y nación |
+| 05 | [[05_iii_conflicto_entre_trabajo_y_capital_en_la_presente_fase_histórica]] | III. Conflicto trabajo-capital: dimensión del conflicto, prioridad del trabajo, economismo y materialismo, propiedad, argumento personalista |
+| 06 | [[06_iv_derechos_de_los_hombres_del_trabajo]] | IV. Derechos de los hombres del trabajo: empresario indirecto, empleo, salario, sindicatos, trabajo agrícola, minusválidos, emigración |
+| 07 | [[07_v_elementos_para_una_espiritualidad_del_trabajo]] | V. Elementos para una espiritualidad del trabajo: cometido de la Iglesia, participación en la obra del Creador, Cristo hombre del trabajo, cruz y resurrección |
+
 ## Ver también
 
 [[trabajo_humano]], [[dignidad_del_trabajo]], [[capital_y_trabajo]], [[derechos_de_los_trabajadores]], [[salario_justo]], [[sindicatos]], [[espiritualidad_del_trabajo]], [[evangelio_del_trabajo]], [[destino_universal_de_los_bienes]], [[descanso_festivo]], [[doctrina_social_de_la_iglesia]], [[propiedad_privada]]

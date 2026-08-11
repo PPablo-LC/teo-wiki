@@ -3,59 +3,35 @@ type: ResumenFuente
 title: "¿CÓMO GASTARTE TU DINERO (SIN QUEDARTE SIN BLANCA ANTES DE MORIR)?"
 fuente: morir-con-cero
 capítulo: 5
-timestamp: 2026-08-03
-description: "Resumen de '¿CÓMO GASTARTE TU DINERO (SIN QUEDARTE SIN BLANCA ANTES DE MORIR)?' — morir-con-cero"
-tags: ["resumen", "morir-con-cero"]
+timestamp: 2026-08-11
+description: "Resumen de '¿CÓMO GASTARTE TU DINERO (SIN QUEDARTE SIN BLANCA ANTES DE MORIR)?' de morir-con-cero — el gasto como herramienta para morir con cero"
+tags: ["resumen", "morir-con-cero", "análisis_cultural", "previsión"]
 ---
 
 # ¿CÓMO GASTARTE TU DINERO (SIN QUEDARTE SIN BLANCA ANTES DE MORIR)?
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[previsión]] — la planificación del gasto a lo largo de la vida para no quedarse sin recursos antes de morir.
+- [[administración]] — el gobierno responsable de los bienes propios.
+- [[muerte]] — el final inevitable que debe tenerse presente en la planificación económica.
+- [[providencia_divina]] — el cuidado de Dios sobre la vida humana, frente al afán de control absoluto del futuro.
+- [[virtud_de_la_prudencia]] — la deliberación correcta sobre el uso de los recursos.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `05_cómo_gastarte_tu_dinero_sin_quedarte_sin_blanca_antes_de_mor.md`
+### Norma número 4:
 
+**«Emplea todas las herramientas disponibles para ayudarte a morir con cero.»**
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### ¡Tú no eres un buen agente de seguros!
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | ¿CÓMO GASTARTE TU DINERO (SIN QUEDARTE SIN BLANCA ANTES DE MORIR)? |
-| 3 | H2 | Norma número 4: |
-| 35 | H2 | ¡Tú no eres un buen agente de seguros! |
-| 63 | H2 | ¿Qué problema estás resolviendo? |
-| 83 | H2 | La cuenta atrás final |
+Perkins aborda el miedo a quedarse sin dinero antes de morir. Muchos ahorran excesivamente porque se comportan como si fueran su propio «agente de seguros», intentando cubrirse contra cualquier eventualidad. El autor sostiene que no se puede anticipar con precisión la esperanza de vida, y que protegerse contra todo es imposible: la [[previsión]] tiene límites que la [[virtud_de_la_prudencia]] debe reconocer.
 
+### ¿Qué problema estás resolviendo?
 
-## Secciones incluidas
+El autor invita a identificar el problema real antes de elegir la herramienta: no se trata de acumular por acumular, sino de asegurar ingresos suficientes hasta el final de la vida. Las anualidades y otros instrumentos financieros pueden resolver el problema de quedarse sin dinero sin necesidad de sobre-ahorrar. Hay que elegir la herramienta según el problema concreto que se quiera resolver.
 
-# Norma número 4:
+### La cuenta atrás final
 
-[Contenido de esta sección...]
-
-# ¡Tú no eres un buen agente de seguros!
-
-[Contenido de esta sección...]
-
-# ¿Qué problema estás resolviendo?
-
-[Contenido de esta sección...]
-
-# La cuenta atrás final
-
-[Contenido de esta sección...]
+Perkins presenta la necesidad de planificar el final: la [[muerte]] es segura, aunque la fecha sea incierta. La administración sabia de los bienes tiene como horizonte toda la vida, y deja espacio a la [[providencia_divina]]: no se puede controlar el futuro, pero sí disponer bien de lo que se tiene.

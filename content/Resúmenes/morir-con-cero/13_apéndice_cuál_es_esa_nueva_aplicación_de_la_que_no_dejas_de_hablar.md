@@ -3,54 +3,31 @@ type: ResumenFuente
 title: "Apéndice: ¿Cuál es esa nueva aplicación de la que no dejas de hablar?"
 fuente: morir-con-cero
 capítulo: 13
-timestamp: 2026-08-03
-description: "Resumen de 'Apéndice: ¿Cuál es esa nueva aplicación de la que no dejas de hablar?' — morir-con-cero"
-tags: ["resumen", "morir-con-cero"]
+timestamp: 2026-08-11
+description: "Resumen de 'Apéndice: ¿Cuál es esa nueva aplicación de la que no dejas de hablar?' de morir-con-cero — la aplicación que traduce los principios del libro"
+tags: ["resumen", "morir-con-cero", "análisis_cultural", "administración"]
 ---
 
 # Apéndice: ¿Cuál es esa nueva aplicación de la que no dejas de hablar?
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[administración]] — el gobierno racional de los propios recursos económicos.
+- [[previsión]] — la planificación financiera a lo largo de la vida.
+- [[vida_económica]] — la ordenación de los bienes al servicio de la vida plena.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `13_apéndice_cuál_es_esa_nueva_aplicación_de_la_que_no_dejas_de_.md`
+### ¿Qué hace (y qué no hace) la aplicación?
 
+Perkins presenta la aplicación desarrollada por su equipo para traducir los principios del libro a la práctica. La aplicación expresa las ideas de morir con cero «de una forma matemática precisa», modelando los ingresos, los gastos, las tasas de interés y las experiencias. Calcula cuánto puede gastarse en cada etapa para maximizar la vida de experiencias sin quedarse sin recursos: optimiza el equilibrio entre gasto presente y futuro.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+El autor aclara lo que la aplicación no hace: no es un planificador financiero general ni sustituye el asesoramiento profesional; se limita a aplicar los principios del libro sobre cuándo y cuánto gastar.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Apéndice: ¿Cuál es esa nueva aplicación de la que no dejas de hablar? |
-| 9 | H2 | ¿Qué hace (y qué no hace) la aplicación? |
-| 25 | H2 | ¿Dónde conseguir la aplicación? |
-| 29 | H2 | ¿Cómo usar la aplicación? |
+### ¿Dónde conseguir la aplicación?
 
+La aplicación se ofrece a través de los canales vinculados al libro. Perkins indica dónde encontrarla para que los lectores puedan aplicarla a su propia vida.
 
-## Secciones incluidas
+### ¿Cómo usar la aplicación?
 
-# ¿Qué hace (y qué no hace) la aplicación?
-
-[Contenido de esta sección...]
-
-# ¿Dónde conseguir la aplicación?
-
-[Contenido de esta sección...]
-
-# ¿Cómo usar la aplicación?
-
-[Contenido de esta sección...]
+El autor explica el uso básico: introducir los datos personales (edad, ingresos, gastos, esperanza de vida) y la aplicación sugiere un plan de gasto que tiende a la meta de morir con cero. Las cifras sirven como guía orientativa, sujeta a la [[previsión]] y a la [[administración]] prudente de cada persona; ayudan a tomar decisiones deliberadas sobre el uso del dinero a lo largo de la vida.

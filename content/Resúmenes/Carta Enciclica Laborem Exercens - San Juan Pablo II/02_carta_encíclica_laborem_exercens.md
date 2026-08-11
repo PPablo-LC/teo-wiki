@@ -3,40 +3,18 @@ type: ResumenFuente
 title: "CARTA ENCÍCLICA LABOREM EXERCENS"
 fuente: Carta Enciclica Laborem Exercens - San Juan Pablo II
 capítulo: 2
-timestamp: 2026-08-03
-description: "Resumen de 'CARTA ENCÍCLICA LABOREM EXERCENS' — Carta Enciclica Laborem Exercens - San Juan Pablo II"
-tags: ["resumen", "carta enciclica laborem exercens - san juan pablo ii"]
+timestamp: 2026-08-11
+description: "Resumen de la portada de 'Laborem Exercens' de San Juan Pablo II — el trabajo humano en el 90 aniversario de la Rerum Novarum"
+tags: ["resumen", "laborem exercens", "doctrina_social"]
 ---
 
 # CARTA ENCÍCLICA LABOREM EXERCENS
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[trabajo_humano]] — objeto propio de la encíclica, anunciado en su título.
+- [[doctrina_social_de_la_iglesia]] — tradición magisterial en la que se inscribe la carta.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `02_carta_encíclica_laborem_exercens.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | CARTA ENCÍCLICA LABOREM EXERCENS |
-
-
-## Secciones incluidas
-
+La portada presenta la encíclica *Laborem Exercens* del Sumo Pontífice Juan Pablo II, dirigida «sobre el trabajo humano». Sus destinatarios son los venerables hermanos en el Episcopado, los sacerdotes, las familias religiosas, los hijos e hijas de la Iglesia y todos los hombres de buena voluntad. El documento se publica con ocasión del 90 aniversario de la encíclica *Rerum Novarum* de León XIII y comienza con la salutación apostólica: «Venerables hermanos, amadísimos hijos e hijas, salud y Bendición Apostólica».

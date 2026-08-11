@@ -42,6 +42,25 @@ La encíclica realiza un recorrido histórico por las relaciones entre fe y filo
 
 El Magisterio de la Iglesia, afirma Juan Pablo II, no propone una filosofía propia, pero tiene el deber de discernir qué concepciones filosóficas son incompatibles con la fe. La encíclica insiste en la necesidad de una filosofía de alcance metafísico, capaz de trascender los datos empíricos para llegar al ser y a la verdad última. La teología, por su parte, necesita la aportación de la filosofía para desarrollar el *intellectus fidei*.
 
+## Resúmenes
+
+Los resúmenes estructurados de la obra están en `wiki/Resúmenes/Carta Enciclica Fides Et Ratio - Juan Pablo II/`, con un archivo por sección:
+
+| # | Archivo | Contenido |
+|---|---------|-----------|
+| 01 | [[01_carta_encíclicafides_et_ratio]] | Portada de la encíclica |
+| 02 | [[02_venerables_hermanos_en_el_episcopado]] | Saludo inicial: la fe y la razón como dos alas del espíritu humano hacia la verdad |
+| 03 | [[03_introducción]] | Introducción (§1–6): el «conócete a ti mismo» de Delfos, la diaconía de la verdad y la vocación de la filosofía |
+| 04 | [[04_capítulo_i]] | Capítulo I (§7–15): la revelación de la sabiduría de Dios, Jesús revela al Padre y la razón ante el misterio |
+| 05 | [[05_capítulo_ii]] | Capítulo II (§16–23): *credo ut intellegam*, la sabiduría bíblica y el vínculo entre conocimiento de fe y de razón |
+| 06 | [[06_capítulo_iii]] | Capítulo III (§24–35): *intelligo ut credam*, el deseo natural de la verdad y sus diversas facetas |
+| 07 | [[07_capítulo_iv]] | Capítulo IV (§36–48): relación entre fe y razón, sus etapas históricas, santo Tomás y el drama de la separación |
+| 08 | [[08_capítulo_v]] | Capítulo V (§49–63): las intervenciones del Magisterio en cuestiones filosóficas y el interés de la Iglesia por la filosofía |
+| 09 | [[09_capítulo_vi]] | Capítulo VI (§64–79): interacción entre teología y filosofía, la ciencia de la fe y las exigencias de la razón filosófica |
+| 10 | [[10_diferentes_estados_de_la_filosofía]] | Diferentes estados de la filosofía: la filosofía independiente, la filosofía cristiana y la filosofía al servicio de la teología |
+| 11 | [[11_capítulo_vii]] | Capítulo VII (§80–99): exigencias irrenunciables de la palabra de Dios y cometidos actuales de la teología |
+| 12 | [[12_conclusión]] | Conclusión (§100–108): fe y razón se ayudan mutuamente, llamadas finales y la Virgen como Trono de la Sabiduría |
+
 ## Ver también
 
 [[fe_y_razón]], [[revelación_divina]], [[verdad_revelada]], [[teología_fundamental]], [[filosofía_cristiana]], [[razón_natural]], [[conocimiento_de_dios]], [[teología]], [[verdad]], [[magisterio]], [[diálogo_fe_y_ciencia]], [[antropología_cristiana]], [[evangelización_de_la_cultura]]

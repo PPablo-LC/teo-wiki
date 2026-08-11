@@ -3,74 +3,48 @@ type: ResumenFuente
 title: "CONOCE TU CIMA"
 fuente: morir-con-cero
 capítulo: 9
-timestamp: 2026-08-03
-description: "Resumen de 'CONOCE TU CIMA' — morir-con-cero"
-tags: ["resumen", "morir-con-cero"]
+timestamp: 2026-08-11
+description: "Resumen de 'CONOCE TU CIMA' de morir-con-cero — la fecha en que se deja de hacer crecer la riqueza"
+tags: ["resumen", "morir-con-cero", "análisis_cultural", "previsión"]
 ---
 
 # CONOCE TU CIMA
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[previsión]] — la planificación del momento en que se deja de acumular riqueza.
+- [[administración]] — el gobierno de los bienes, que incluye saber cuándo detener su crecimiento.
+- [[salud]] — la condición que limita cuándo pueden disfrutarse las experiencias.
+- [[tiempo]] — el recurso que se agota y que la desacumulación quiere liberar.
+- [[muerte]] — el horizonte final que da sentido a la fecha de la cima.
+- [[providencia_divina]] — el cuidado de Dios, frente a la pretensión de controlar el futuro.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `09_conoce_tu_cima.md`
+### Norma número 8:
 
+**«Cuándo dejar de hacer crecer tu riqueza.»**
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### La fiesta de toda una vida
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | CONOCE TU CIMA |
-| 3 | H2 | Norma número 8: |
-| 19 | H2 | La fiesta de toda una vida |
-| 59 | H2 | Pero ¿dispondrás de suficiente dinero para arreglártelas? |
-| 101 | H2 | Conocer tu cima: Es una fecha, no una cifra |
-| 147 | H2 | «Pero me encanta mi trabajo» (segunda parte) |
-| 179 | H2 | El reto de la desacumulación |
-| 201 | H2 | Reorganiza tu vida |
+Perkins narra la fiesta de su cuadragésimo quinto cumpleaños en San Bartolomé, la «fiesta de toda una vida»: reunió a familiares y amigos de todas las etapas. Su madre ya era mayor, su padre estaba debilitado, y algunos amigos no podían permitirse el viaje, por lo que él corrió con los gastos. La experiencia reveló que algunas de las personas más importantes no siempre podrían acompañarlo: había que vivirla en ese momento.
 
+### Pero ¿dispondrás de suficiente dinero para arreglártelas?
 
-## Secciones incluidas
+El autor se enfrenta al temor de gastar demasiado pronto y quedarse sin recursos. Distingue entre ahorrar para experiencias vitales antes de la jubilación y malgastar: no se trata de gastarlo todo antes de los 60, sino de asegurar ingresos para la vejez sin dejar de vivir el presente. La [[previsión]] no es enemiga del gasto, sino su ordenación.
 
-# Norma número 8:
+### Conocer tu cima: Es una fecha, no una cifra
 
-[Contenido de esta sección...]
+La «cima» de la riqueza no es una cantidad, sino una fecha: el momento en que se deja de hacer crecer el patrimonio y se empieza a gastarlo. Conocer esa fecha cambia la mentalidad de acumulación por la de disfrute. La mayoría de las experiencias memorables ocurren entre los 20 y los 60 años, por lo que la cima debe situarse mientras hay salud para vivirlas.
 
-# La fiesta de toda una vida
+### «Pero me encanta mi trabajo» (segunda parte)
 
-[Contenido de esta sección...]
+Perkins retoma la objeción del capítulo 4: quien ama su trabajo no quiere dejar de trabajar. Pero seguir trabajando solo por dinero tras haber alcanzado la cima es un despilfarro de tiempo y energía; el trabajo debe continuar por gusto, no para acumular más.
 
-# Pero ¿dispondrás de suficiente dinero para arreglártelas?
+### El reto de la desacumulación
 
-[Contenido de esta sección...]
+Pasar de ahorrar a gastar es psicológicamente difícil: tras años de acumular, el cambio ahorro→gasto no resulta natural. El [[tiempo]] se mueve solo en una dirección, y cada día pospuesto es una experiencia que no volverá. El autor anima a vencer ese miedo y reorganizar la vida en torno al disfrute deliberado.
 
-# Conocer tu cima: Es una fecha, no una cifra
+### Reorganiza tu vida
 
-[Contenido de esta sección...]
-
-# «Pero me encanta mi trabajo» (segunda parte)
-
-[Contenido de esta sección...]
-
-# El reto de la desacumulación
-
-[Contenido de esta sección...]
-
-# Reorganiza tu vida
-
-[Contenido de esta sección...]
+El capítulo concluye invitando a reorganizar la vida en función de la fecha de la cima: planificar las experiencias mientras hay salud, confiar en la [[providencia_divina]] para el futuro y gastar la riqueza cuando su uso puede mejorar la vida. La [[administración]] sabia culmina en el gasto oportuno, no en la acumulación indefinida.
