@@ -7,8 +7,8 @@ description: "Registro de wikilinks sin artículo propio en el wiki. 2026-08-06:
 # Auditoría de wikilinks huérfanos
 
 > Generado originalmente: 2026-06-19
-> Última actualización: **2026-08-14 — Lote 1 de resúmenes del Catecismo de la Iglesia Católica (CEC). 2 huérfanos nuevos sembrados (`[[vida_en_cristo]]`, `[[simbolo_de_nicea_constantinopla]]`); se incrementan los conteos de `[[pedagogia_divina]]` (1→2) y `[[simbolo_de_los_apostoles]]` (1→2). Ver sección «Sembrados por los resúmenes del Catecismo de la Iglesia Católica».**
-> Total de wikilinks huérfanos registrados: **1522** (pendientes de artículo; detector 2026-08-14, excluido el falso positivo `[[concepto]]`;WoF-3 introduce 9 huérfanos nuevos: `[[blas_pascal]]`, `[[nietzsche]]`, `[[nones]]`, `[[periferias]]`, `[[micro_moralidad]]`, `[[macro_moralidad]]`, `[[evangelización_digital]]` (ya creado), `[[videojuegos]]` (ya creado), `[[aristóteles]]` (ya creado); 7 artículos nuevos creados: san_isidoro_de_sevilla, fulton_sheen, george_orwell, robert_barron, evangelización_digital, videojuegos, aristóteles; 2026-08-13: CBL introduce 3 huérfanos nuevos; 2026-08-14: 1 resuelto por renombrado de preexistencia_de_cristo → preexistencia_del_verbo; 2026-08-14: CEC Lote 1 introduce 2 huérfanos nuevos)
+> Última actualización: **2026-08-14 — Lote 2 de resúmenes del Catecismo de la Iglesia Católica (CEC). 21 huérfanos nuevos sembrados (ver sección «Sembrados por los resúmenes del Catecismo de la Iglesia Católica»); se incrementan los conteos de `[[cristo_cabeza_de_la_iglesia]]` (3→4), `[[diaconos]]` (1→2), `[[esposa_de_cristo]]` (1→2), `[[hombre_y_mujer]]` (1→2), `[[institutos_seculares]]` (1→2) y `[[padre]]` (1→2).**
+> Total de wikilinks huérfanos registrados: **1543** (pendientes de artículo; detector 2026-08-14, excluido el falso positivo `[[concepto]]`;WoF-3 introduce 9 huérfanos nuevos: `[[blas_pascal]]`, `[[nietzsche]]`, `[[nones]]`, `[[periferias]]`, `[[micro_moralidad]]`, `[[macro_moralidad]]`, `[[evangelización_digital]]` (ya creado), `[[videojuegos]]` (ya creado), `[[aristóteles]]` (ya creado); 7 artículos nuevos creados: san_isidoro_de_sevilla, fulton_sheen, george_orwell, robert_barron, evangelización_digital, videojuegos, aristóteles; 2026-08-13: CBL introduce 3 huérfanos nuevos; 2026-08-14: 1 resuelto por renombrado de preexistencia_de_cristo → preexistencia_del_verbo; 2026-08-14: CEC Lote 1 introduce 2 huérfanos nuevos; 2026-08-14: CEC Lote 2 introduce 21 huérfanos nuevos)
 > Resueltos: 35+29+11+14+19+6+1 (6 en 2026-07-15/16 — ver sección final; 26 por re-auditoría 2026-08-01; 3 por BMV 2026-08-03; 29 por alta densidad 2026-08-03; 11 por alta densidad 2ª tanda 2026-08-03; 14 por alta densidad 3ª tanda 2026-08-03, neto −11; 19 por alta densidad 4ª tanda 2026-08-04; 6 por limpieza de paréntesis 2026-08-04, neto −5 por el re-sembrado de `[[respuesta_divina]]`; 1 por normalización de nombres con paréntesis 2026-08-08)
 
 ## Metodología
@@ -2161,3 +2161,40 @@ actualizará en la re-auditoría integral):
 |----------|---------------|---------------|------|
 | `[[pedagogia_divina]]` | 1 | 2 | Nuevo en resumen 04 (ya figuraba en la tabla, fila 1141) |
 | `[[simbolo_de_los_apostoles]]` | 1 | 2 | Nuevo en resumen 05 (ya figuraba en la tabla, fila 1335) |
+
+### Lote 2 (2026-08-14)
+
+Al completar los resúmenes 06-08 (Primera Parte Sección 2, Capítulo Tercero,
+Artículos 8-12 del Credo) se sembraron intencionalmente los siguientes
+wikilinks sin artículo (forward references). Su contenido está tratado en
+`wiki/Resúmenes/Catecismo_Iglesia_Católica/` y en la fuente raw:
+
+| Wikilink | Referencias | Resúmenes |
+|----------|-------------|-----------|
+| `[[creo_en_dios]]` | 1 | 06 |
+| `[[revelacion_del_nombre_divino]]` | 1 | 06 |
+| `[[yave]]` | 1 | 06 |
+| `[[dios_es_amor]]` | 1 | 06 |
+| `[[dios_es_verdad]]` | 1 | 06 |
+| `[[creatio_ex_nihilo]]` | 1 | 06 |
+| `[[caida_de_los_angeles]]` | 1 | 06 |
+| `[[hombre_imagen_de_dios]]` | 1 | 06 |
+| `[[nombre_de_jesus]]` | 1 | 07 |
+| `[[ley_antigua]]` | 1 | 07 |
+| `[[templo_de_jerusalen]]` | 1 | 07 |
+| `[[tentaciones_de_jesus]]` | 1 | 07 |
+| `[[misterios_de_la_vida_de_cristo]]` | 1 | 07 |
+| `[[cristo_total]]` | 1 | 08 |
+| `[[consolador]]` | 1 | 08 |
+| `[[ruah]]` | 1 | 08 |
+| `[[simbolos_del_espiritu_santo]]` | 1 | 08 |
+| `[[iglesia_una]]` | 1 | 08 |
+| `[[iglesia_santa]]` | 1 | 08 |
+| `[[culto_mariano]]` | 1 | 08 |
+| `[[muerte_cristiana]]` | 1 | 08 |
+| `[[economia_sacramental]]` | 1 | 08 |
+
+Dos huérfanos ya registrados en secciones anteriores aumentan sus conteos
+(`[[sepulcro_vacio]]` pasa de 1 a 2 con el resumen 07, además del resumen 24
+de CJeS; `[[institutos_seculares]]` de 1 a 2 con el resumen 08). Los conteos
+de la tabla principal se actualizarán en la re-auditoría integral.
