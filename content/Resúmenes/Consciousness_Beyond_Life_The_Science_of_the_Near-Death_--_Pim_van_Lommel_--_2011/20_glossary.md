@@ -4,39 +4,49 @@ title: "Glossary"
 fuente: Consciousness_Beyond_Life_The_Science_of_the_Near-Death_--_Pim_van_Lommel_--_2011
 capítulo: 20
 timestamp: 2026-08-03
-description: "Resumen de 'Glossary' — Consciousness_Beyond_Life_The_Science_of_the_Near-Death_--_Pim_van_Lommel_--_2011"
-tags: ["resumen", "consciousness beyond life the science of the near-death -- pim van lommel -- 2011"]
+description: "Glosario de términos del libro: definiciones de los conceptos de la ECM, la conciencia, la física cuántica, la neurología y la medicina que se usan a lo largo de la obra"
+tags: ["resumen", "análisis_cultural", "conciencia", "física_cuántica", "neurología", "experiencias_cercanas_a_la_muerte", "glosario"]
 ---
 
 # Glossary
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[conciencia]] — las definiciones de los estados y formas de conciencia (sueño lúcido, trance, hipnosis, experiencia cercana a la muerte).
+- [[ciencia_y_fe]] — los términos del vocabulario científico (materialismo, dualismo, panpsiquismo, epifenomenalismo, metafísica, espiritualidad).
+- [[inmortalidad_del_alma]] — los conceptos relacionados con la vida tras la muerte (experiencia postmortem, perimortem, reencarnación, comunicación con fallecidos).
+- [[muerte]] — los términos médicos sobre la muerte y el morir (muerte cerebral, muerte clínica, estado vegetativo, cuidados paliativos, hospicio, eutanasia).
+- [[unidad_alma_cuerpo]] — los términos de la relación mente-cerebro (no localidad, telepatía, clariaudiencia, clairsentiencia, clarividencia, telequinesia).
+- [[alma_separada]] — la experiencia extracorporal, la percepción remota y la visión no local.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `20_glossary.md`
+### Definiciones de los conceptos de la ECM y la conciencia
 
+El glosario define la *experiencia cercana a la muerte* (ECM) como "un estado especial de conciencia que surge durante un periodo inminente o real de muerte física, psicológica o emocional". Define también la *muerte clínica* (pérdida de conciencia por cese del latido y la respiración, reversible en 5–10 minutos), la *muerte cerebral* (coma con daño irreparable de la corteza cerebral y el tronco encefálico), el *coma* ("muerte aparente"), el *estado vegetativo* (coma con respiración espontánea y reflejos del tronco) y la *fibrilación ventricular* (caos cardiaco tratable solo con desfibrilación).
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+Las definiciones de percepción no local incluyen: *intuición* ("manifestación de la conciencia no local, una forma de conocimiento directo sin base racional, acompañada de certeza interior y familiaridad"), *telepatía* (conexión no local entre conciencias), *clarividencia* (saber qué ocurre a gran distancia), *clariaudiencia* (saber qué piensa otra persona), *clairsentiencia* (saber qué siente otra persona), *percepción remota intuitiva* (capacidad de percibir no localmente objetos seleccionados al azar o por coordenadas), *telequinesis* (influir o mover la materia no localmente con la mente, también llamada psicocinesis o perturbación no local), *teleportación* (mover objetos materiales con la mente), *sincronicidad* (concurrencia no estrictamente causal de eventos) y *sensibilidad intuitiva aumentada* (información verificablemente correcta sobre eventos, personas o el futuro, no obtenible por los sentidos o la memoria).
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Glossary |
+Define los fenómenos en torno a la muerte: *visión de lecho de muerte* (experiencia de conciencia no local en la fase terminal), *experiencia perimortem* (sensación de la presencia de alguien en el momento de su muerte sin saberlo aún), *experiencia postmortem* (sensación de contacto con la conciencia de un ser querido fallecido semanas, meses o años después), *reencarnación* (creencia de que la conciencia de un ser vivo no desaparece tras la muerte sino que renace en otro ser vivo) y *terapia de regresión* (regresión a un tiempo anterior al nacimiento, también llamada terapia de reencarnación).
 
+### Definiciones de física cuántica
 
-## Secciones incluidas
+Agrupa los términos físicos: *fotón* (partícula portadora de la fuerza electromagnética, un "paquete" de luz), *onda de probabilidad* o *función de onda* (onda que indica la probabilidad de hallar una partícula en un lugar), *superposición* (una partícula de ubicación desconocida está rodeada de una nube de posibles ubicaciones), *complementariedad* (la luz se comporta como partícula o como onda según el diseño del experimento, nunca como ambas a la vez), *entrelazamiento no local* o *conexión no local* (fenómeno cuántico por el que partículas separadas poseen propiedades conectadas más allá del tiempo y el lugar), *espacio no local* ("un espacio donde el tiempo y el lugar no juegan ningún papel, donde todo está instantánea y continuamente conectado; representa una realidad oculta que ejerce una influencia constante sobre nuestro mundo material"), *principio de incertidumbre* de Heisenberg (límite fundamental a la precisión de medición de propiedades complementarias), *problema de la medición cuántica* (las infinitas posibilidades de la onda de probabilidad se pierden en cuanto se mide un resultado), *decoherencia* (pérdida de información en sistemas cuánticos vivos), *efecto Zeno cuántico* (tras observaciones rápidamente sucesivas, el sistema parece congelarse), *condensado de Bose-Einstein* (sistema cuántico en el que muchas partes dejan de comportarse como un todo para convertirse en un todo), *holograma* (imagen tridimensional con patrones de interferencia en la que cada parte contiene la imagen completa), *superholograma* (holograma multidimensional), *espín* y *correlación de espín cuántico* (oscilación rítmica del espín de todas las partículas mínimas del núcleo celular), *energía de punto cero* (el vacío no está vacío: a cero absoluto está lleno de energía, con fluctuaciones cuánticas que crean y destruyen cuantos "de la nada"), *campo* ("área inmaterial e invisible que se extiende por todo el espacio y que puede ejercer influencia sobre nuestro mundo material visible"), *hiperbola* y reacción *no lineal* (específicas de un proceso cuántico), *procesos estadísticos* y *no estadísticos* (procesos cuánticos predecibles u ordenados frente a impredecibles o caóticos de la materia viva), *no periódico* (impredecible; los procesos cuántico-mecánicos en la materia viva son no periódicos), *periodicidad* (procesos regulares de la materia muerta), *velocidad de fase* (proporcional a la longitud de onda) y *teoría de cuerdas* (líneas de energía oscilante unidimensionales).
 
+### Definiciones médicas y neurocientíficas
+
+Recoge los términos clínicos: *anoxia* (pérdida total de oxígeno), *hipoxia* (falta de oxígeno), *aneurisma*, *edema*, *epilepsia*, *enfermedad de Parkinson*, *estado vegetativo*, *hipotermia*, *hiperestesia* (hipersensibilidad), *reanimación* y *desfibrilación*. Del sistema nervioso: *corteza cerebral* (con lóbulos frontal, temporal, parietal y occipital), *tronco encefálico* (gobierna latido, respiración y presión arterial), *tálamo* (estación de relevo entre partes del cerebro), *hipotálamo*, *hipófisis* o glándula pituitaria, *epífisis* o glándula pineal, *hipocampo*, *sistema límbico*, *sinapsis*, *dendritas*, *neurotransmisores*, *potencial de membrana*, *neuroplasticidad* (proceso constante de adaptación de la corteza por el que las actividades mentales, intelectuales y físicas influyen en el número y la ubicación de las sinapsis) y *mitocondrias*.
+
+Define las técnicas de imagen y medición: *EEG* (electroencefalograma), *MEG* (magnetoencefalograma), *ECG* (electrocardiograma), *fMRI* (imagen por resonancia magnética funcional), *PET-scan*, *SPECT-scan*, *ecografía* (echo) y *análisis de isótopos*. Las técnicas de estimulación cerebral: *CES*, *DBS* (estimulación cerebral profunda), *TDCS* (corriente directa transcraneal), *TES* (estimulación eléctrica transcraneal) y *TMS* (estimulación magnética transcraneal). Dispositivos: *ICD* (desfibrilador cardioversor implantable) y *marcapasos* relacionados. El *jaula de Faraday* (construcción aislante que bloquea toda radiación electromagnética) y el *reflejo corneal*.
+
+### Definiciones de filosofía y espiritualidad
+
+Incluye los términos filosóficos: *materialismo* (filosofía que reduce toda la realidad a la materia), *reduccionismo*, *dualismo* (premisa de dos principios básicos irreducibles), *epifenomenalismo* (los fenómenos mentales son meros subproductos de los procesos cerebrales), *panpsiquismo* o *idealismo* (todos los sistemas materiales contienen una forma de conciencia subjetiva a un nivel elemental o fundamental), *interaccionismo*, *metafísica* ("escuela de filosofía que no estudia la realidad material percibida por los sentidos sino la realidad que trasciende la materia"), *espiritualidad* ("la búsqueda de significado a través de la experiencia interior"), *inmaterial* (mental, incorpóreo, espiritual), *trascendencia* (elevarse por encima de), *transpersonal* (aspectos de la conciencia que van más allá de lo personal o del ego), *paradigma* (marco filosófico con reglas y regulaciones) y *fenoménico* (basado en la percepción subjetiva de la mente). Define también *ilusión* (realidad aparente o falsa sensación de realidad), *alucinación* (percepción sensorial experimentada como real pero que no corresponde con la realidad), *delirio* (interpretación incorrecta de una percepción correcta) y *disociación* (escape de la realidad aterradora de un trauma o perturbación de identidad, memoria o conciencia).
+
+### Definiciones médicas y sociales del final de la vida
+
+Recoge los términos de cuidados: *hospicio* (lugar especializado en cuidados terminales), *cuidados paliativos* (dirigidos a aliviar el dolor cuando la recuperación no es posible), *paciente terminal*, *eutanasia* (literalmente "buena muerte"; el fin deliberado de la vida de otra persona a petición suya y según pautas estrictas; la eutanasia activa implica la administración de una inyección letal), *prevención del donante* (prevención de la muerte cerebral) y *morgue*. Define también los conceptos metodológicos: *estudio prospectivo* (aborda todos los pacientes consecutivos con un diagnóstico predefinido, de mucho mayor valor científico), *estudio retrospectivo* (menos fiable, con selección aleatoria de pacientes), *investigación empírica*, *cognición* (capacidad de entender, pensar, razonar y recordar), *placebo* (efecto de autocuración producido por las creencias y expectativas), *empatía*, *fobia*, *trauma* y *crisis existencial* (crisis acompañada de ansiedad, pánico y sensación de impotencia).
+
+### Nota teológica
+
+El glosario define *espiritualidad* como "búsqueda de significado a través de la experiencia interior" y *metafísica* como estudio de la realidad que trasciende la materia, pero lo hace en clave inmanente y sin referencia a Dios ni a la revelación. Los conceptos de conciencia no local, telepatía y reencarnación se presentan como fenómenos verificables o creencias sin discernimiento teológico. El vocabulario de la inmortalidad (experiencia postmortem, comunicaciones con fallecidos) describe experiencias fenoménicas, no la doctrina católica de la inmortalidad del alma y la resurrección; se requiere discernimiento al incorporar estos términos a un marco teológico.

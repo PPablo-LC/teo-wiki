@@ -108,6 +108,26 @@ Su gran aporte es la defensa explícita del hombre como ser irreductible a compu
 
 Estas divergencias no invalidan el libro, pero sí obligan a leerlo con discernimiento: su diagnóstico de la deshumanización tecnocrática es certero, pero incompleto. La fe cristiana puede reconocer en él semillas del Verbo (semina Verbi), pero no puede suscribir su antropología ni su ética secular. El libro es un aliado natural para el diálogo entre fe y cultura en el mundo tecnológico, pero la teología debe complementar su análisis con la fundamentación metafísica de la dignidad (creación a imagen de Dios, Encarnación) y con la esperanza escatológica que el autor excluye.
 
+## Resúmenes
+
+Los resúmenes estructurados de la obra están en `wiki/Resúmenes/Computer Power and Human Reason -- Joseph Weizenbaum/`, con un archivo por capítulo:
+
+| # | Archivo | Contenido |
+|---|---------|-----------|
+| 01 | [[01_editors_note]] | Nota del editor |
+| 02 | [[02_preface]] | Prefacio |
+| 03 | [[03_introduction]] | Introducción |
+| 04 | [[04_on_tools]] | Sobre las herramientas |
+| 05 | [[05_where_the_power_of_the_computer_comes_from]] | De dónde viene el poder del computador |
+| 06 | [[06_how_computers_work]] | Cómo funcionan los computadores |
+| 07 | [[07_science_and_the_compulsive_programmer]] | La ciencia y el programador compulsivo |
+| 08 | [[08_theories_and_models]] | Teorías y modelos |
+| 09 | [[09_computer_models_in_psychology]] | Los modelos computacionales en psicología |
+| 10 | [[10_the_computer_and_natural_language]] | El computador y el lenguaje natural |
+| 11 | [[11_artificial_intelligence]] | La inteligencia artificial |
+| 12 | [[12_incomprehensible_programs]] | Los programas incomprensibles |
+| 13 | [[13_against_the_imperialism_of_instrumental_reason]] | Contra el imperialismo de la razón instrumental |
+
 ## Ver también
 
 [[dignidad_humana]], [[imagen_de_dios]], [[libertad_humana]], [[responsabilidad]], [[cultura]], [[evangelización_de_la_cultura]], [[fe_y_razón]]

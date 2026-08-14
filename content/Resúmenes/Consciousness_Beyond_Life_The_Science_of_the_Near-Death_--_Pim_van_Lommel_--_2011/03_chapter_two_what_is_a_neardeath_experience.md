@@ -1,166 +1,123 @@
 ---
 type: ResumenFuente
-title: "Chapter Two: **What Is a Near-Death Experience?**"
+title: "Chapter Two: What Is a Near-Death Experience?"
 fuente: Consciousness_Beyond_Life_The_Science_of_the_Near-Death_--_Pim_van_Lommel_--_2011
 capítulo: 3
 timestamp: 2026-08-03
-description: "Resumen de 'Chapter Two: **What Is a Near-Death Experience?**' — Consciousness_Beyond_Life_The_Science_of_the_Near-Death_--_Pim_van_Lommel_--_2011"
-tags: ["resumen", "consciousness beyond life the science of the near-death -- pim van lommel -- 2011"]
+description: "Capítulo 2 — definición e incidencia de las ECM, clasificaciones de Moody, Ring, Sabom y Greyson, profundidad de la experiencia y los doce elementos con ejemplos"
+tags: ["resumen", "análisis_cultural", "experiencias_cercanas_a_la_muerte", "conciencia", "muerte", "escatología"]
 ---
 
-# Chapter Two: **What Is a Near-Death Experience?**
+# Chapter Two: What Is a Near-Death Experience?
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[conciencia]] — la ECM como recuerdo de las impresiones vividas durante un "estado especial de conciencia", incluida la conciencia lúcida con el cerebro sin actividad.
+- [[muerte]] — la ECM durante la muerte clínica (paro cardíaco) y la "conciencia de estar muerto" que reportan los pacientes.
+- [[alma_separada]] — las experiencias extracorporales con percepción verificable desde fuera y encima del cuerpo.
+- [[inmortalidad_del_alma]] — la experiencia de que la conciencia y la identidad persisten tras dejar el cuerpo.
+- [[vida_eterna]] — la dimensión "celestial" o luminosa de la ECM, descrita en términos de un paisaje sin tiempo ni distancia.
+- [[revisión_de_vida]] — la revisión panorámica de la vida desde el nacimiento, con conciencia del efecto de los propios pensamientos, palabras y acciones sobre otros (forward reference).
+- [[cuerpo]] — el cuerpo visto como "un abrigo viejo" del que los NDErs se desprenden conservando la identidad.
+- [[escatología]] — los encuentros con fallecidos, el ser de luz y la frontera que no debe cruzarse.
+- [[ciencia_y_fe]] — el testimonio de ciegos de nacimiento y las percepciones verificables que cuestionan el paradigma médico materialista.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `03_chapter_two_what_is_a_near_death_experience.md`
+### Circumstances That May Prompt an NDE Report
 
+Van Lommel define la ECM como el recuerdo reportado de las impresiones obtenidas durante un estado especial de conciencia, con elementos como el túnel, la luz, la revisión de vida, los fallecidos o la propia reanimación. Puede ocurrir durante un paro cardíaco, una enfermedad grave o sin indicación médica aparente. Cita las definiciones de Bruce Greyson y Janice Holden. Las circunstancias más frecuentes son las que alteran gravemente la función cerebral (paro cardíaco, coma, shock, cuasi-ahogamiento), pero también se dan experiencias idénticas por miedo agudo a una muerte inminente (*fear-death experiences*), visiones del lecho de muerte (*deathbed visions*) o, sin indicación médica, durante depresión, aislamiento, meditación o paseos por la naturaleza. El argumento de que la ECM se debe a déficit de oxígeno no explica las experiencias sin riesgo vital.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### The Incidence of Near-Death Experiences
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Chapter Two: **What Is a Near-Death Experience?** |
-| 13 | H2 | ***Circumstances That May Prompt an NDE Report*** |
-| 21 | H2 | ***The Incidence of Near-Death Experiences*** |
-| 29 | H2 | ***Moody’s NDE Classification*** |
-| 52 | H2 | ***Other NDE Classifications*** |
-| 56 | H3 | **Ring’s Five NDE Phases** |
-| 62 | H3 | **Sabom’s Three NDE Categories** |
-| 74 | H3 | **Greyson’s Four NDE Components** |
-| 78 | H2 | ***Retrospective Versus Prospective Scientific Studies*** |
-| 84 | H2 | ***The Depth of an Experience*** |
-| 94 | H2 | ***The Twelve NDE Elements, with Some Striking Examples*** |
-| 100 | H3 | **1. Ineffability** |
-| 108 | H3 | **2. A Feeling of Peace and Quiet; the Pain Has Gone** |
-| 114 | H3 | **3. The Awareness of Being Dead** |
-| 120 | H3 | **4. An Out-of-Body Experience** |
-| 168 | H3 | **5. A Dark Space** |
-| 176 | H4 | *The Tunnel Experience* |
-| 192 | H4 | *A Frightening NDE* |
-| 220 | H3 | **6. The Perception of an Unearthly Environment** |
-| 228 | H3 | **7. Meeting and Communicating with Deceased Persons** |
-| 246 | H3 | **8. The Perception of a Brilliant Light or a Being of Light** |
-| 262 | H3 | **9. The Panoramic Life Review** |
-| 272 | H3 | **10. The Preview or Flash Forward** |
-| 278 | H3 | **11. The Perception of a Border** |
-| 288 | H3 | **12. The Conscious Return to the Body** |
-| 296 | H2 | ***Empathetic NDE*** |
+Se estima que más de 25 millones de personas en el mundo han tenido una ECM en los últimos cincuenta años; el 4,2 % de la población de EE. UU. y Alemania reporta una (≈600.000 en Holanda, 2 millones en el Reino Unido, más de 9 millones en EE. UU.). El subregistro en hospitales es enorme: los médicos no están abiertos al fenómeno y los pacientes callan por miedo a no ser creídos. Narra la anécdota del congreso de 1994 en el que un cardiólogo calificó los relatos de absurdo sin saber que uno de sus propios pacientes estaba en la sala y nunca se lo habría contado.
 
+### Moody's NDE Classification
 
-## Secciones incluidas
+En 1975 Raymond Moody describió doce elementos de la ECM (que la mayoría experimenta solo en parte, como episodio coherente): inefabilidad; paz y cese del dolor; conciencia de estar muerto; experiencia extracorporal; espacio oscuro (túnel o ECM aterradora, el 1-2 %); percepción de un entorno sobrenatural; encuentro con fallecidos; luz brillante o ser de luz con aceptación total y amor incondicional; revisión panorámica de la vida; flash forward o previsión del futuro; percepción de una frontera; y retorno consciente al cuerpo. Un estudio comparativo mostró que los elementos se reportan igual de frecuentemente antes y después de 1975 (salvo el túnel), lo que indica que la publicidad de Moody no condicionó el contenido.
 
-# ***Circumstances That May Prompt an NDE Report***
+### Other NDE Classifications
 
-[Contenido de esta sección...]
+#### Ring's Five NDE Phases
 
-# ***The Incidence of Near-Death Experiences***
+Kenneth Ring (1980) propone cinco fases: afectiva (paz, calma, fin del dolor; 60 %), dejar el cuerpo (37 %), llegar a un espacio oscuro y pacífico (23 %), atravesar el túnel hacia una luz que irradia amor y aceptación (16 %), y entrar en otra dimensión de belleza increíble donde se producen la revisión de vida y los encuentros con fallecidos (10 %). Coincide en lo esencial con Moody.
 
-[Contenido de esta sección...]
+#### Sabom's Three NDE Categories
 
-# ***Moody’s NDE Classification***
+Michael Sabom (1982), escéptico, estudió pacientes cardíacos reanimados y halló tres categorías: autoscópica o extracorporal (53 %), con percepción verificable de la propia reanimación desde el techo; transcendental (54 %), con espacio oscuro, luz al final del túnel y comunicación no verbal con fallecidos o una "entidad espiritual"; y una combinación de ambas en secuencia (20 %). Los pacientes sin ECM describían la reanimación con al menos un error, mientras que los NDErs recordaban detalles muy específicos.
 
-[Contenido de esta sección...]
+#### Greyson's Four NDE Components
 
-# ***Other NDE Classifications***
+Bruce Greyson (1983) redujo ochenta características a dieciséis elementos agrupados en cuatro componentes: cognitivo (pérdida del sentido del tiempo, pensamiento acelerado, revisión de vida, conocimiento universal), afectivo (paz, alegría, unidad cósmica, luz), paranormal (sentidos hiperagudos, percepción de eventos remotos, premoniciones, experiencia extracorporal) y transcendental (viaje a otro reino, encuentro con seres místicos o fallecidos, frontera). Los componentes afectivo y transcendental se reportan con más frecuencia.
 
-[Contenido de esta sección...]
+### Retrospective Versus Prospective Scientific Studies
 
-## **Ring’s Five NDE Phases**
+Los estudios retrospectivos se basan en voluntarios autoseleccionados cuyas experiencias pueden datar de hace diez o veinte años, sin datos médicos verificables. Los estudios prospectivos abordan a todos los pacientes consecutivos tras un coma o paro cardíaco, registrando los datos médicos, y tienen mucho mayor valor científico. Moody, Ring, Sabom y Greyson basaron sus clasificaciones en estudios retrospectivos.
 
-[Contenido de esta sección...]
+### The Depth of an Experience
 
-## **Sabom’s Three NDE Categories**
+El índice WCEI de Ring puntúa la profundidad según el número de elementos reportados (0-6 insuficiente; 7-9 moderada; 10-29 profunda). La escala de Greyson (0-32; punto de corte 7) permite descartar falsos positivos. Van Lommel defiende que en los estudios prospectivos incluso una experiencia con un solo elemento merece el nombre de ECM, pues en el estudio holandés todos esos casos mostraron los cambios de personalidad típicos.
 
-[Contenido de esta sección...]
+### The Twelve NDE Elements, with Some Striking Examples
 
-## **Greyson’s Four NDE Components**
+#### 1. Ineffability
 
-[Contenido de esta sección...]
+Lo vivido queda fuera de la esfera normal de experiencia y no puede ponerse en palabras: "estaba allí, al otro lado", con un amor puro e inmenso que la dimensión humana solo sombrea.
 
-# ***Retrospective Versus Prospective Scientific Studies***
+#### 2. A Feeling of Peace and Quiet; the Pain Has Gone
 
-[Contenido de esta sección...]
+La paz, la alegría y la dicha son el primer elemento mejor recordado; el dolor intenso desaparece de golpe.
 
-# ***The Depth of an Experience***
+#### 3. The Awareness of Being Dead
 
-[Contenido de esta sección...]
+Confunde oír que te declaran muerto en un momento en que te sientes muy vivo y completo; a veces se oye un zumbido o un silbido.
 
-# ***The Twelve NDE Elements, with Some Striking Examples***
+#### 4. An Out-of-Body Experience
 
-[Contenido de esta sección...]
+Desde fuera y encima del cuerpo, los pacientes tienen percepciones verificables, como si se hubieran quitado el cuerpo como un abrigo viejo conservando la identidad, la vista, las emociones y una conciencia lúcida. Se sienten como un cuerpo espiritual que atraviesa paredes, con visión de 360 grados; los ciegos ven y los sordos oyen. Cita la revisión de Holden: de 93 percepciones extracorporales verificables, el 92 % eran completamente precisas. Narra el caso del paciente con la dentadura (verificado, publicado en *The Lancet*), el caso de la mujer declarada "muerto cerebral" que oyó la conversación sobre retirar el ventilador, y el caso de Vicki, ciega de nacimiento, que durante su coma vio desde arriba los detalles del accidente y del hospital — imposible según la medicina actual. La experiencia extracorporal no puede ser una alucinación, un delirio o una ilusión, pues está arraigada en la realidad objetiva.
 
-## **1. Ineffability**
+#### 5. A Dark Space
 
-[Contenido de esta sección...]
+Un espacio oscuro, cerrado, un vacío o un pozo; el 15 % lo vive como aterrador. 
 
-## **2. A Feeling of Peace and Quiet; the Pain Has Gone**
+##### The Tunnel Experience
 
-[Contenido de esta sección...]
+Un punto de luz hacia el que se es arrastrado a gran velocidad; el túnel es un paso de nuestro mundo físico a otra dimensión sin tiempo ni distancia, con un sentimiento de dicha y amor incondicional.
 
-## **3. The Awareness of Being Dead**
+##### A Frightening NDE
 
-[Contenido de esta sección...]
+El 1-2 % de los NDErs queda atrapado en el espacio oscuro en una experiencia aterradora ("experiencia de infierno"), con culpa y trauma duraderos, comparable a la descripción de Dante; pero también ellos pueden acabar mostrando cambios positivos si logran integrarla. Relata el caso de George Ritchie y su visión del "mundo inferior".
 
-## **4. An Out-of-Body Experience**
+#### 6. The Perception of an Unearthly Environment
 
-[Contenido de esta sección...]
+Un paisaje deslumbrante con colores, flores y música de una belleza indescriptible.
 
-## **5. A Dark Space**
+#### 7. Meeting and Communicating with Deceased Persons
 
-[Contenido de esta sección...]
+Encuentro y reconocimiento de familiares o amigos fallecidos, a veces con aspecto rejuvenecido y sanado; también de personas nunca conocidas o de cuya muerte no se podía saber, como el padre biológico desconocido o el hermano muerto antes de nacer.
 
-### *The Tunnel Experience*
+#### 8. The Perception of a Brilliant Light or a Being of Light
 
-[Contenido de esta sección...]
+Una luz no deslumbrante que todo lo impregna, a veces vivida como ser; los creyentes la identifican como Jesús, un ángel o un ser de luz según su trasfondo religioso. Comunicación directa y mental, aceptación total, amor incondicional y acceso a un conocimiento profundo y universal: "las preguntas más profundas se responden antes de ser formuladas".
 
-### *A Frightening NDE*
+#### 9. The Panoramic Life Review
 
-[Contenido de esta sección...]
+En presencia de la luz, se revive toda la vida desde el nacimiento como espectador y como actor: cada pensamiento, palabra y acción, y sus efectos sobre los demás, sin sentirse juzgado. No hay tiempo ni distancia; el paro cardíaco dura unos minutos pero la revisión puede ocupar horas o días de relato. Se habla de una "ley cósmica" según la cual todo lo que se hace a otro revierte en uno mismo.
 
-## **6. The Perception of an Unearthly Environment**
+#### 10. The Preview or Flash Forward
 
-[Contenido de esta sección...]
+Visión de partes de la vida futura, verificables después (la enfermedad y muerte de la esposa, por ejemplo), lo que plantea preguntas sobre el libre albedrío.
 
-## **7. Meeting and Communicating with Deceased Persons**
+#### 11. The Perception of a Border
 
-[Contenido de esta sección...]
+Una niebla, una pared, un río, una puerta; cruzarla significa no poder volver al cuerpo. A veces una figura comunica que "su tiempo aún no ha llegado". Relata el niño sordo de nacimiento que comunicó por telepatía con veinte ancestros al otro lado de la frontera.
 
-## **8. The Perception of a Brilliant Light or a Being of Light**
+#### 12. The Conscious Return to the Body
 
-[Contenido de esta sección...]
+El retorno es brusco y desagradable: se es empujado de vuelta al cuerpo enfermo y dolorido, con decepción, indignación o furia por haber perdido algo tan bello. Muchos callan durante cincuenta años o más por el rechazo de médicos y familiares.
 
-## **9. The Panoramic Life Review**
+### Empathetic NDE
 
-[Contenido de esta sección...]
+Una ECM por empatía: no brota de un peligro propio sino de las emociones fuertes ante la muerte de un ser querido, compartiendo su tránsito. El contenido es idéntico al de una ECM clásica (el novio que acompaña al niño moribundo hasta la luz; el sobrino que recibe al tío recién fallecido).
 
-## **10. The Preview or Flash Forward**
-
-[Contenido de esta sección...]
-
-## **11. The Perception of a Border**
-
-[Contenido de esta sección...]
-
-## **12. The Conscious Return to the Body**
-
-[Contenido de esta sección...]
-
-# ***Empathetic NDE***
-
-[Contenido de esta sección...]
+Conclusión: quienes han tenido una ECM y pueden expresarla enseñan mucho sobre la relación entre conciencia y cerebro; explicar su causa y contenido es un gran desafío científico. Nota teológica: la fenomenología de la ECM (percepción extracorporal, encuentro con fallecidos, revisión de vida) es afín a la doctrina de la [[alma_separada]], si bien van Lommel la interpreta como estados de conciencia y no como alma espiritual inmortal, en tensión con la [[unidad_alma_cuerpo]] católica.

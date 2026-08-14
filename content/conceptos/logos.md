@@ -39,11 +39,11 @@ En *Jesús de Nazaret III*, Benedicto XVI interpreta el Prólogo de Juan como la
 
 ## Relaciones doctrinales
 
-Se relaciona con [[verbo_divino]], [[verbo_de_dios]], [[prólogo_joánico]], [[trinidad]], [[encarnación]], [[divinidad_de_cristo]], [[sabiduría]], [[preexistencia_de_cristo]].
+Se relaciona con [[verbo_divino]], [[verbo_de_dios]], [[prólogo_joánico]], [[trinidad]], [[encarnación]], [[divinidad_de_cristo]], [[sabiduría]], [[preexistencia_del_verbo]].
 
 ## Ver también
 
-[[yo_soy]], [[verbo_de_dios]], [[prólogo_joánico]], [[divinidad_de_cristo]], [[preexistencia_de_cristo]]
+[[yo_soy]], [[verbo_de_dios]], [[prólogo_joánico]], [[divinidad_de_cristo]], [[preexistencia_del_verbo]]
 
 ## Referencias
 

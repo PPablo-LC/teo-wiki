@@ -4,108 +4,83 @@ title: "Chapter Twelve: **The Brain and Consciousness**"
 fuente: Consciousness_Beyond_Life_The_Science_of_the_Near-Death_--_Pim_van_Lommel_--_2011
 capítulo: 13
 timestamp: 2026-08-03
-description: "Resumen de 'Chapter Twelve: **The Brain and Consciousness**' — Consciousness_Beyond_Life_The_Science_of_the_Near-Death_--_Pim_van_Lommel_--_2011"
-tags: ["resumen", "consciousness beyond life the science of the near-death -- pim van lommel -- 2011"]
+description: "Capítulo 12 — los seis modelos de la relación cerebro-conciencia de Chalmers, la crítica al materialismo, la hipótesis de la continuidad, la conciencia no local como origen, la teoría de la complementariedad y los tres modelos del interfaz cerebro-conciencia (fotones virtuales, efecto Zeno, correlación de espín cuántico)"
+tags: ["resumen", "análisis_cultural", "conciencia", "alma", "cuerpo", "ciencia_y_fe", "inmortalidad_del_alma"]
 ---
 
 # Chapter Twelve: **The Brain and Consciousness**
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[conciencia]] — los seis modelos de la relación cerebro-conciencia (materialistas y no reduccionistas); la conciencia como ente no local que el cerebro no produce sino facilita (cerebro como transceptor).
+- [[alma]] — la postura de Eccles: "somos seres espirituales con alma en un mundo espiritual y seres materiales con cuerpo y cerebro en un mundo material".
+- [[alma_separada]] — la experiencia de una conciencia ampliada independiente del cuerpo durante la pérdida de toda función cerebral (ECM).
+- [[unidad_alma_cuerpo]] — la relación entre la conciencia no local y el cerebro entendida como complementariedad (no dualismo) de dos manifestaciones de una misma realidad.
+- [[ciencia_y_fe]] — la crítica al paradigma materialista y reduccionista dominante en la ciencia occidental; las anomalías como motor de cambio de paradigma (Kuhn).
+- [[inmortalidad_del_alma]] — la "hipótesis de la continuidad": la conciencia no local que perdura tras la muerte del cuerpo en un espacio no local.
+- [[conciencia_habitual]] — la conciencia de vigilia como aspecto "partícula" de la conciencia total, frente a la conciencia no local como aspecto "onda".
+- [[libre_albedrío]] — la negación materialista del libre albedrío ("somos una máquina") frente a la neuroplasticidad como prueba de la influencia de la mente sobre el cerebro.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `13_chapter_twelve_the_brain_and_consciousness.md`
+### Chalmers's Six Models of the Brain-Consciousness Relationship
 
+El filósofo David Chalmers ofrece una visión general de las teorías sobre la relación cerebro-conciencia. Presenta tres modelos materialistas y reduccionistas: (A) "monismo materialista" (todo es materia; la conciencia es una ilusión, la explicación de los procesos cerebrales explicará la conciencia); (B) la conciencia es idéntica a procesos cerebrales porque existe un vínculo entre ciertas actividades del cerebro y ciertas experiencias de conciencia; y (C) la conciencia aún no puede reducirse a la función cerebral, pero el progreso científico lo logrará con el tiempo. Chalmers argumenta en contra: (1) explicar la estructura y función del cerebro no basta para explicar la conciencia; (2) el argumento de los zombis (criaturas físicamente idénticas al ser humano sin conciencia: si son posibles, la ausencia de conciencia implica que es inmaterial); (3) hay hechos conocidos sobre la conciencia que no pueden explicarse con la actividad fisiológica del cerebro.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+Chalmers describe después tres modelos no reduccionistas e inmateriales: (D) "interaccionismo-dualista" (Eccles y Popper sobre la base del dualismo radical de Descartes: conciencia y cerebro son radicalmente distintos pero altamente interactivos; la física clásica lo considera incompatible, aunque conceptos cuánticos como el colapso de la onda de probabilidad por la observación podrían respaldarlo; Chalmers señala que los filósofos rechazan el interaccionismo con argumentos de la física cuántica y los físicos con argumentos filosóficos); (E) "epifenomenalismo" o "dualismo débil" (ciertas áreas del cerebro desencadenan experiencias de conciencia, pero la conciencia no influye en la función cerebral o corporal; la neuroplasticidad —la mente cambia permanentemente la anatomía y función del cerebro— lo refuta); y (F) "fenomenalismo" o "monismo inmaterial (o neutral)", también llamado panpsiquismo o idealismo (toda la materia contiene una forma de conciencia subjetiva a nivel elemental; la conciencia tiene presencia primaria en el universo; la realidad física está formada por la conciencia; Chalmers prefiere "panprotopisquismo": las propiedades intrínsecas del mundo físico no *son* propiedades fenoménicas sino que *poseen* propiedades protofenoménicas). Van Lommel afirma que la investigación empírica de la ECM parece corroborar el modelo F y declara su fuerte preferencia por el panprotopisquismo.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Chapter Twelve: **The Brain and Consciousness** |
-| 21 | H2 | ***The Materialist Approach*** |
-| 35 | H2 | ***Near-Death Experience, Consciousness, and the Brain*** |
-| 50 | H2 | ***The Continuity of Consciousness*** |
-| 56 | H2 | ***New Scientific Concepts*** |
-| 66 | H2 | ***A New Perspective on Consciousness and the Brain*** |
-| 74 | H2 | ***Nonlocal Consciousness in Nonlocal Space*** |
-| 80 | H2 | ***Theory of Complementarity*** |
-| 84 | H2 | ***A Comparison with Global Communication*** |
-| 90 | H2 | ***Scientific Proof of the Nonlocal Entanglement of Consciousness*** |
-| 98 | H2 | ***The Interface Between Nonlocal Consciousness and the Brain*** |
-| 104 | H2 | ***Theories Addressing the Transition from Nonlocal Consciousness to t |
-| 112 | H3 | **The Link Between Consciousness and (Virtual) Photons** |
-| 118 | H3 | **The Influence of Consciousness via the Quantum Zeno Effect** |
-| 122 | H3 | **Information Transfer via Quantum Spin Correlation in the Brain** |
+### The Materialist Approach
 
+La mayoría de los científicos occidentales contemporáneos (neurocientíficos, psicólogos, psiquiatras, filósofos) defiende una explicación materialista y reduccionista (modelos A, B o C). Dennett adhiere al modelo A: la conciencia es solo materia, una ilusión; el comportamiento es resultado inevitable de la actividad neuronal y el libre albedrío es una ilusión. Van Lommel responde con Eccles: el reduccionismo científico "degrada increíblemente el misterio humano"; el materialismo promisorio es una superstición; "somos seres espirituales con almas que existen en un mundo espiritual, además de seres materiales con cuerpos y cerebros que existen en un mundo material". El enfoque materialista se enseña en muchas facultades de medicina occidentales sin debate explícito: la inmensa mayoría de los médicos cree que la conciencia es resultado de la función cerebral. Si el materialismo fuera correcto, la experiencia de conciencia durante un paro cardíaco o coma sería imposible. Cita a van Eeden (1894): los científicos disputan los nuevos hallazgos a priori, con motivos emocionales y burla, no con investigación.
 
-## Secciones incluidas
+### Near-Death Experience, Consciousness, and the Brain
 
-# ***The Materialist Approach***
+Recapitula lo visto en capítulos anteriores: personas serias y dignas de confianza han experimentado una conciencia ampliada independiente del cuerpo; los estudios prospectivos concluyen que el conocimiento científico actual no explica la causa y el contenido de la ECM; hay pruebas de conciencia lúcida y ampliada durante un paro cardíaco; la corteza cerebral y el tronco encefálico están sin actividad medible durante el paro; la deficiencia de oxígeno no explica las ECM (se producen también sin riesgo vital); la mente altera la anatomía y función del cerebro (neuroplasticidad); la conciencia y la función cerebral siguen siendo un gran misterio. Los elementos de la ECM corresponden a principios de la mecánica cuántica: no localidad, entrelazamiento o interconexión e intercambio instantáneo de información en una dimensión sin tiempo ni lugar, donde pasado, presente y futuro están en todas partes a la vez.
 
-[Contenido de esta sección...]
+### The Continuity of Consciousness
 
-# ***Near-Death Experience, Consciousness, and the Brain***
+Van Lommel prefiere el término "hipótesis de la continuidad" a "trascendencia" (que sugiere elevarse sobre el cuerpo y se asocia a lo sobrenatural o a la meditación trascendental). La ECM se ve como un estado alterado de conciencia en el que memorias, identidad, pensamiento lúcido y emociones pueden experimentarse independientemente del cuerpo inconsciente, con percepción (extrasensorial) fuera del cuerpo. Como la conciencia es continua y no local, no "se eleva sobre" el cuerpo: está siempre presente fuera y a menudo dentro del cuerpo. El mayor desafío es explicar que una conciencia ampliada pueda experimentarse independientemente del cuerpo durante la pérdida temporal de toda función cortical y del tronco encefálico.
 
-[Contenido de esta sección...]
+### New Scientific Concepts
 
-# ***The Continuity of Consciousness***
+La ciencia es preguntar con mente abierta. El problema está menos en aceptar el contenido de las ideas nuevas que en rechazar viejas concepciones familiares. Bohm: las "ideas fijas" que subyacen a las hipótesis científicas son obstáculos, no ayudas. Kuhn: la mayoría de los científicos son conservadores que aceptan lo aprendido y aplican su conocimiento a resolver los problemas que dictan sus teorías; el paradigma es esencialmente una colección de "artículos de fe compartidos por los científicos"; los resultados inexplicables se etiquetan como "anomalías" y se ignoran, rechazan o ridiculizan. Las ECM son tales anomalías, y las anomalías son la clave de los cambios de paradigma (el comportamiento inexplicable del metal calentado condujo a la física cuántica).
 
-[Contenido de esta sección...]
+### A New Perspective on Consciousness and the Brain
 
-# ***New Scientific Concepts***
+La conciencia completa y sin fin, con memorias recuperables, tiene su origen en un espacio no local en forma de funciones de onda indestructibles y no directamente observables que almacenan todos los aspectos de la conciencia como información, siempre presentes dentro y alrededor del cuerpo (no localmente). El cerebro y el cuerpo funcionan como estación de retransmisión que recibe parte de la conciencia total y parte de nuestras memorias en la conciencia de vigilia en forma de campos electromagnéticos mensurables y en constante cambio. Estos campos electromagnéticos del cerebro no son la causa sino el efecto o consecuencia de la conciencia sin fin. El cerebro es como un televisor que recibe información de los campos electromagnéticos y la decodifica en sonido e imagen, o como una cámara de televisión que codifica; es un transceptor: no produce sino que facilita la conciencia. La DMT (dimetiltriptamina) de la glándula pineal podría desempeñar un papel en perturbar este proceso. "La conciencia informa y in-forma" (Bohm).
 
-[Contenido de esta sección...]
+### Nonlocal Consciousness in Nonlocal Space
 
-# ***A New Perspective on Consciousness and the Brain***
+El término de van Lommel para las funciones de onda en el espacio no local con información personal y universal es *conciencia no local*: la conciencia no tiene base material. El espacio no local es más que una descripción matemática: es un espacio metafísico en el que la conciencia puede ejercer influencia porque posee propiedades subjetivas de conciencia. La conciencia es no local y funciona como origen o fundamento de todo, incluido el mundo material. La observación es imposible en el espacio no local porque todo se basa en campos de probabilidad (funciones de onda), sin tiempo ni distancia. El aspecto físico de nuestra conciencia en el mundo material —la conciencia de vigilia, comparable al aspecto partícula de la luz— procede del aspecto onda de la conciencia "completa" y "sin fin" creada por el colapso de la función de onda. Es observable en el cerebro mediante EEG, MEG, fMRI y PET, mientras que la conciencia en el espacio no local no es directamente demostrable: "todo lo visible emana de lo invisible". Analogía con la gravedad: no directamente demostrable, pero sí sus efectos físicos.
 
-[Contenido de esta sección...]
+### Theory of Complementarity
 
-# ***Nonlocal Consciousness in Nonlocal Space***
+Los aspectos de la conciencia deben resonar en diferentes partes del cerebro para experimentarse como conciencia de vigilia (resonancia = oscilación con la misma frecuencia). Las técnicas de imagen muestran qué centros cerebrales se activan en los distintos estados de conciencia, pero sin dar cuenta del contenido de los diferentes aspectos de la conciencia: señalan solo el lugar de resonancia. La conciencia de vigilia tiene base biológica porque el cuerpo funciona como interfaz, pero la conciencia sin fin o ampliada no tiene base biológica: está arraigada en un espacio no local multidimensional. La relación entre conciencia no local y conciencia de vigilia constituye una teoría complementaria, no dualista (como los aspectos partícula y onda de la luz): las experiencias conscientes subjetivas y sus correspondientes actividades cerebrales objetivas son dos manifestaciones diferentes de una misma realidad subyacente que no pueden reducirse la una a la otra.
 
-[Contenido de esta sección...]
+### A Comparison with Global Communication
 
-# ***Theory of Complementarity***
+Compara la interacción mente-cuerpo con la comunicación mundial moderna: las ondas de información electromagnética nos rodean y penetran sin que seamos conscientes de ellas hasta que encendemos un teléfono móvil, televisor, radio u ordenador. Lo que recibimos no está dentro del aparato: la voz no está en el teléfono, el concierto no está en la radio; el programa continúa aunque apaguemos el aparato. La conexión es no local y la información se difunde a la velocidad de la luz. Igual que el ordenador no produce Internet sino que lo recibe y lo hace visible (el ordenador no produce Internet más de lo que el cerebro produce conciencia), el cerebro funciona como transceptor. Cuando el cuerpo muere, la conciencia ya no puede tener aspecto partícula porque se pierde toda función cerebral, pero la conciencia sin fin (no local) existirá siempre como funciones de onda en el espacio no local.
 
-[Contenido de esta sección...]
+### Scientific Proof of the Nonlocal Entanglement of Consciousness
 
-# ***A Comparison with Global Communication***
+Experimentos con pares de personas muy conectadas (padres e hijos, o meditadores conjuntos) en dos jaulas de Faraday separadas (que bloquean la transferencia de información electromagnética): la estimulación sensorial de una persona con destellos de luz aleatorios generaba potenciales evocados visuales en su EEG, y esta actividad era recibida instantáneamente por la otra persona no estimulada en la segunda jaula: los patrones EEG de la no estimulada cambiaban en el mismo momento. Estos "potenciales transferidos" solo pueden atribuirse a influencia no local. Fred H. Thaheld esbozó una base científica para este entrelazamiento no local macroscópico y biológico. Los primeros estudios (Grinberg-Zylberbaum, Universidad de México) fueron criticados por su diseño, pero tres laboratorios distintos replicaron las correlaciones EEG idénticas; dos estudios de fMRI hallaron evidencia de entrelazamiento no local entre cerebros de individuos aislados; se identificó influencia no local en sujetos cuya fMRI cambió significativamente cuando un sanador a distancia centraba su atención en ellos; y un estudio reciente con láser y EEG local mostró entrelazamiento no local macroscópico entre dos cultivos aislados de redes neuronales humanas. Ningún modelo clásico de la física ni las teorías biológicas contemporáneas explican esta correlación.
 
-[Contenido de esta sección...]
+### The Interface Between Nonlocal Consciousness and the Brain
 
-# ***Scientific Proof of the Nonlocal Entanglement of Consciousness***
+Penrose sostiene que por razones teóricas la conciencia no puede ser producida por el cerebro y que los ordenadores nunca podrán replicar o producir totalmente la conciencia. La física cuántica no puede explicar el origen de la conciencia, pero la conciencia no local tiene mucho en común con conceptos ampliamente aceptados de la física cuántica, y puede ayudar a entender la transición de la conciencia en el espacio no local a la conciencia de vigilia encarnada en el mundo físico visible. El entrelazamiento no local de la conciencia (transferencia instantánea de información entre cerebros de dos sujetos separados con patrones EEG y fMRI idénticos) puede considerarse una contribución inicial a la explicación de esa transición.
 
-[Contenido de esta sección...]
+### Theories Addressing the Transition from Nonlocal Consciousness to the Physical Brain
 
-# ***The Interface Between Nonlocal Consciousness and the Brain***
+Presenta tres modelos complementarios de interfaz o lugar de resonancia, en los que las experiencias conscientes subjetivas y las actividades cerebrales físicas objetivas son manifestaciones fundamentalmente diferentes de la misma realidad no local, no reducibles entre sí. En los tres, los campos electromagnéticos del cerebro no son la causa sino el efecto de la conciencia. Cómo ocurre exactamente la transición nunca será plenamente cognoscible o verificable, y el papel potencial de la DMT será difícil de probar. Su preferencia personal es el tercer modelo.
 
-[Contenido de esta sección...]
+**(1) La conexión entre la conciencia y los fotones (virtuales).** La conciencia es no local y desencadena el colapso de la función de onda, siendo la fuente de la conciencia de vigilia encarnada. Romijn: los campos eléctricos y magnéticos cambiantes de las redes neuronales pueden verse como un fenómeno biológico de coherencia cuántica basado en "fotones virtuales" (fotones aparentes o posibles, en constante creación y aniquilación), los portadores o el producto de la conciencia no local. Esto evita la crítica de que el cerebro es un sistema macroscópico cálido que sufre decoherencia. Analogía con el experimento de la doble rendija: cuando la luz se reduce a fotones individuales, se pasa de onda electromagnética a onda de probabilidad; cuando la actividad electromagnética del cerebro ya no puede medirse (paro cardíaco), no significa que no haya ondas de probabilidad: en teoría, la pérdida completa de la función cerebral va acompañada de ondas de probabilidad (inmensurables).
 
-# ***Theories Addressing the Transition from Nonlocal Consciousness to the Physical Brain***
+**(2) La influencia de la conciencia mediante el efecto Zeno cuántico.** Stapp llama a las teorías cuánticas leyes "psicofísicas" que explican el efecto causal de la conciencia sobre los procesos neurales. Si hacemos una serie de observaciones sucesivas en un sistema cuántico, el efecto de la observación parece congelarse (efecto Zeno cuántico). Stapp lo compara con la atención constante de la mente sobre una idea que produce un cambio permanente en la función cerebral: la neuroplasticidad podría ser un indicador de la función cuántica del cerebro. Su descripción cuántica del cerebro es esencialmente holística. Como la de Romijn, su teoría no explica por qué ciertos procesos de conciencia activan ciertos centros cerebrales.
 
-[Contenido de esta sección...]
+**(3) Transferencia de información mediante la correlación de espín cuántico en el cerebro.** La transferencia de información no local podría ocurrir mediante la resonancia de espín nuclear (correlación de espín cuántico o coherencia de espín cuántico). El espín es una propiedad fundamental de la naturaleza, como la carga eléctrica o la masa; todas las partículas más pequeñas (protones, neutrones, electrones) tienen un espín positivo o negativo, siempre múltiplo de 1/2. El espín no apareado desempeña un papel importante en la resonancia magnética. La función cerebral global debe entenderse como un holograma cuántico y el cerebro como una unidad de procesamiento cuántico en paralelo capaz de decodificar información no local. La resonancia de espín nuclear es el principio de la MRI. El experimento de Aspect también usó influencia magnética y medición del espín. El intercambio recíproco de información entre la conciencia no local y el cerebro podría basarse en la coherencia de espín cuántico, establecida bajo la influencia de fotones (virtuales). La única explicación es que el cerebro es capaz de realizar una transformada de Fourier (operación matemática que convierte un sistema lineal —tiempo— en funciones de onda o frecuencias y viceversa), comparable a la del músico con oído absoluto. Su preferencia se basa en publicaciones recientes: coherencia cuántica en la fotosíntesis en sistemas vivos (Nature), transferencia de información entre materia y luz mediante espín electrónico y nuclear (Science y Nature), y estudios que sugieren un efecto terapéutico no local de fármacos como la morfina cuando la sustancia se colocó entre una fuente magnética pulsante y el cerebro (o el agua expuesta a la misma), que los autores atribuyen al entrelazamiento cuántico entre el espín nuclear/electrónico del agua y el del cerebro. La ADN puede desempeñar un papel importante en esta forma de transferencia de información, que se tratará en el capítulo siguiente.
 
-## **The Link Between Consciousness and (Virtual) Photons**
+### Conclusión
 
-[Contenido de esta sección...]
+Estos tres modelos de interfaz entre la conciencia no local y el cerebro deberán desarrollarse en investigaciones futuras: el intercambio no local y recíproco de información entre conciencia y cerebro nunca será plenamente cognoscible o verificable. La conciencia no puede localizarse en ningún lugar, ni siquiera en el cerebro: es no local (en todas partes) en forma de ondas de probabilidad. Hay una continuidad de la conciencia independiente del cuerpo, intrínsecamente conectada o entrelazada con el espacio no local, aunque no idéntica a él. La esencia o fundamento de la conciencia (protoconciencia) probablemente reside en el vacío o pleno del universo (panprotopisquismo). La conciencia abarca el espacio no local; cada parte de la conciencia abarca todo el espacio porque cada parte de lo infinito es infinito. La conciencia no local es la fuente de la conciencia de vigilia; ambas son aspectos complementarios. La DMT podría desempeñar un papel clave en establecer y perturbar el interfaz, probablemente basado en la coherencia de espín cuántico (resonancia de espín nuclear). La conciencia no local es sin fin, pero el cuerpo no lo es: cada día se degradan y regeneran cincuenta mil millones de células, y sin embargo experimentamos el cuerpo como continuo — cuestión que se abordará en el capítulo siguiente.
 
-## **The Influence of Consciousness via the Quantum Zeno Effect**
-
-[Contenido de esta sección...]
-
-## **Information Transfer via Quantum Spin Correlation in the Brain**
-
-[Contenido de esta sección...]
+Nota teológica: la "conciencia no local sin fin" es funcionalmente afín a la inmortalidad del alma, pero se presenta como propiedad impersonal y cósmica de la materia (panpsiquismo/panprotopisquismo), sin un Dios personal que cree y sostenga el alma; en tensión con la doctrina del alma espiritual creada e inmortal, y con la unidad sustancial alma-cuerpo.

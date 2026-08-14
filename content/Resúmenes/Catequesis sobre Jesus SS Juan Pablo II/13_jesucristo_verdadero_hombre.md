@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "(JESUCRISTO: VERDADERO HOMBRE)"
 fuente: Catequesis sobre Jesus SS Juan Pablo II
 capítulo: 13
-timestamp: 2026-08-03
+timestamp: 2026-08-12
 description: "Resumen de '(JESUCRISTO: VERDADERO HOMBRE)' — Catequesis sobre Jesus SS Juan Pablo II"
 tags: ["resumen", "catequesis sobre jesus ss juan pablo ii"]
 ---
@@ -12,34 +12,41 @@ tags: ["resumen", "catequesis sobre jesus ss juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[jesucristo]] — verdadero Dios y verdadero hombre, misterio central de la fe cristiana.
+- [[humanidad_de_cristo]] — la realidad humana de Jesús: nacimiento, cuerpo pasible, vida psicológica, muerte y resurrección.
+- [[encarnación]] — el Verbo se hizo carne; la asunción de la naturaleza humana en unidad con la Persona divina.
+- [[kenosis]] — el «despojamiento» de Cristo según Flp 2, 6-8.
+- [[aniquilamiento]] — el «anonadarse» de Cristo que restablece la verdad del hombre universal.
+- [[redención]] — la «humillación» de Cristo como obediencia hasta la muerte y muerte de cruz.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `13_jesucristo_verdadero_hombre.md`
+### 27-01-88 Jesucristo, verdadero hombre
 
+Jesucristo verdadero Dios y verdadero hombre es el misterio central de la fe y la verdad-clave de las catequesis cristológicas. Los Evangelios lo presentan como Dios-Hijo: «Yo y el Padre somos una sola cosa» (Jn 10, 30), el nombre divino «Yo soy» (Jn 8, 58), el poder sobre el juicio (Mt 28, 18; Jn 5, 22), el poder sobre la ley (Mt 5, 22. 28. 32. 34. 39. 44) y el poder de perdonar los pecados (Jn 20, 22-23), pues vino «a buscar y salvar lo que estaba perdido» (Lc 19, 10); sus milagros son «signos» de que con Él ha venido el reino de Dios. Pero ese mismo Jesús se da a conocer como verdadero hombre, verdad hoy indispensable frente a la tendencia moderna a verlo sólo como hombre, antitética al «docetismo» de los primeros siglos que lo hacía hombre «aparente». La Iglesia profesa una sola Persona —la divina del Verbo— subsistente en dos naturalezas, la divina y la humana. El punto de arranque es la Encarnación: «Y el Verbo se hizo carne y habitó entre nosotros» (Jn 1, 14); «carne» (sarx) significa el hombre concreto, con su corporeidad y caducidad («Toda carne es hierba»: Is 40, 6). Esa carne la recibió de María: San Ignacio de Antioquía llama a Jesús «sarcóforos» (Ad Smirn., 5) y San Pablo dice que Dios «envió a su Hijo, nacido de mujer» (Gal 4, 4).
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+El nacimiento de Belén (Lc 2, 6-7), la circuncisión y el nombre de Jesús (Lc 2, 21), la presentación en el templo (Lc 2, 22-24) y el crecimiento del Niño (Lc 2, 40. 52) testimonian su humanidad. De adulto, Jesús experimentó el cansancio, el hambre y la sed (Mt 4, 2; Jn 4, 6), tenía un cuerpo sometido al cansancio, al sufrimiento y a la muerte, que culminó en el «Tengo sed» de la cruz (Jn 19, 28). Sólo un verdadero hombre pudo sufrir en el Gólgota y morir como murió Jesús, constatado por los soldados que le atravesaron el costado y de cuyo costado «salió sangre y agua» (Jn 19, 33-34); con el Símbolo de los Apóstoles la Iglesia profesa que «nació de Santa María Virgen, padeció bajo el poder de Poncio Pilato, fue crucificado, muerto y sepultado» y «al tercer día resucitó de entre los muertos». La resurrección confirma de modo nuevo su humanidad: resucitó con su propio cuerpo, transformado y glorificado, que los Apóstoles vieron, tocaron y con el que Él comió (Lc 24, 42-43), ascendiendo al cielo para sentarse «a la derecha del Padre». No existe en Cristo antinomia entre lo divino y lo humano: si el hombre fue creado a imagen de Dios (Gen 1, 27; 5, 1), en Cristo lo humano manifestó lo divino; su humanidad sirvió para revelar su divinidad, y por ser Dios-Hijo era «plenamente» hombre.
+
+### 03-02-88 Jesucristo, plenamente hombre
+
+La verdad de que Jesucristo es verdadero hombre está basada en la palabra de Cristo, confirmada por los Apóstoles y transmitida por la Iglesia: «*Credimus… Deum verum et hominem verum non phantasticum, sed unum et unicum Filium Dei*» (Concilio Lugdunense II: DS, 852). El Concilio Vaticano II recordó la misma doctrina: «El Hijo de Dios con su encarnación se ha unido, en cierto modo, con todo hombre. Trabajó con manos de hombre, pensó con inteligencia de hombre, obró con voluntad de hombre, amó con corazón de hombre. Nacido de la Virgen María se hizo verdaderamente uno de nosotros, semejante en todo a nosotros, excepto en el pecado» (Gaudium et Spes, 22). La catequesis entra ahora en el mundo interior de la vida psicológica de Jesús: experimentaba verdaderamente los sentimientos humanos. Se sintió «inundado de gozo en el Espíritu Santo» (Lc 10, 21), lloró sobre Jerusalén (Lc 19, 41-42) y por la muerte de Lázaro (Jn 11, 33-35), y en Getsemaní «comenzó a sentir temor y angustia» (Mc 14, 33-34) hasta sudar «como gruesas gotas de sangre» (Lc 22, 44). Los Evangelios muestran también su indignación (Mc 3, 5; Mt 21, 12-13), su admiración (Mc 6, 6; Lc 12, 27; Mt 15, 28) y, sobre todo, su amor: amó al joven rico (Mc 10, 21), a Marta, María y Lázaro (Jn 11, 5; Jn 13, 23), a los niños (Mc 10, 13-16), y proclamó «que os améis unos a otros como yo os he amado» (Jn 15, 12).
+
+La hora de la pasión es el cenit del amor —«habiendo amado a los suyos que estaban en el mundo, los amó hasta el fin» (Jn 13, 1); «Nadie tiene amor mayor que éste de dar uno la vida por sus amigos» (Jn 15, 13)— y, a la vez, el cenit de la tristeza y el abandono, expresado en el «Eloí, Eloí, lama sabachtani?» (Mc 15, 34), tomado del Salmo 22. Jesús se hizo semejante a los hombres asumiendo la condición de siervo (Flp 2, 7); la Epístola a los Hebreos dice que «fue tentado en todo a semejanza nuestra, fuera del pecado» (Heb 4, 15), pues «no había conocido el pecado» (2 Cor 5, 21; Jn 8, 46). El Concilio de Florencia proclama que «fue concebido, nació y murió sin mancha de pecado» (DS 1347): Él es el hombre verdaderamente justo y santo. Gracias a esta semejanza, «Cristo, el nuevo Adán…, manifiesta plenamente el hombre al propio hombre y le descubre la sublimidad de su vocación» (Gaudium et Spes, 22); así responde el Concilio a la pregunta de San Anselmo, *Cur Deus homo?*: puesto que el pecado no enriquece sino que deprecia al hombre, la recuperación y salvación del hombre caído es la respuesta fundamental al porqué de la Encarnación.
+
+### 10-02-88 La Encarnación del Verbo, revaloriza la humanidad
+
+Jesucristo, verdadero hombre, es «semejante a nosotros en todo excepto en el pecado»: es *verus homo* pero no *merus homo*, y toda su vida testimonia su absoluta impecabilidad: «¿Quién de vosotros me argüirá de pecado?» (Jn 8, 46). Hombre sin pecado, Jesús luchó durante toda su vida con el pecado y con Satanás, «padre de la mentira» (Jn 8, 44), desde la tentación (Mc 1, 13; Mt 4, 1-11; Lc 4, 1-13) hasta su culmen en la cruz y la resurrección, terminando con la victoria. Esta lucha no lo aleja del hombre sino que lo acerca a los pecadores. Jesús mismo se compara con Juan el Bautista: «Vino el Hijo del hombre, comiendo y bebiendo, y dicen: Es un comilón y bebedor de vino, amigo de publicanos y pecadores» (Mt 11, 18-19). Era «amigo de publicanos»: se auto-invitó a casa del jefe de los publicanos Zaqueo, a quien dijo «Hoy ha venido la salud a tu casa… pues el Hijo del hombre ha venido a buscar y salvar lo que estaba perdido» (Lc 19, 1-10); llamó a Leví, sentado al mostrador de los impuestos, para hacerlo Apóstol, y comió con publicanos y pecadores diciendo «No tienen necesidad de médico los sanos, sino los enfermos; ni he venido yo a llamar a los justos, sino a los pecadores» (Mc 2, 13-17). Se sentó a la mesa también con fariseos (Lc 7, 36), perdonó a la mujer pecadora —«le son perdonados sus muchos pecados, porque amó mucho… Tu fe te ha salvado, vete en paz» (Lc 7, 36-50)— y a la mujer sorprendida en adulterio: «Vete y no peques más» (Jn 8, 11).
+
+Esta solidaridad es la manifestación del amor que tiene su fuente en Dios mismo: el Hijo de Dios se hizo hombre, uno como nosotros, y por ello la Encarnación es una «revalorización» inefable del hombre y de la humanidad, como había profetizado Isaías: «Él tomó nuestras enfermedades y cargó con nuestras dolencias» (Mt 8, 17; cf. Is 53, 4). En el vértice de su camino está «la entrega de su propia vida para rescate de muchos» (Mc 10, 45): «El Hijo del hombre no ha venido para ser servido, sino a servir y a dar su vida en rescate por muchos» (Mc 10, 45; Mt 20, 28). Fue niño como todo niño humano, trabajó con sus propias manos junto a José (Laborem Exercens, 26), participó de la cultura y esperanza de su pueblo, conoció la incomprensión e incluso la traición de uno de sus Apóstoles (Jn 13, 21), y se ofreció voluntariamente a Sí mismo (Jn 10, 18). Pilato, al presentarlo flagelado, dijo: «Ahí tenéis al hombre» (Jn 19, 5): palabra de un pagano que dice todo sobre la realidad humana de Cristo, víctima por el pecado y solidario con todos hasta la muerte de cruz.
+
+### 17-02-88 «Se anonadó a sí mismo»
+
+«Aquí tenéis al hombre» (Jn 19, 5): Jesús, llagado, coronado de espinas y escarnecido, es el emblema de la humanidad sufriente; la expresión encierra la verdad sobre Cristo verdadero hombre, sobre Aquel que «se ha unido en cierto modo con todo hombre» (Gaudium et Spes, 22). Pero en esa condición de víctima resalta un último aspecto de su humanidad, el misterio de su «despojamiento» (kenosis): «siendo de condición divina, no retuvo ávidamente el ser igual a Dios. Sino que se despojó de sí mismo tomando condición de siervo, haciéndose semejante a los hombres y apareciendo en su porte como hombre, y se humilló a sí mismo obedeciendo hasta la muerte y muerte de cruz» (Flp 2, 6-8). El «se despojó» se refiere sobre todo a la Encarnación: «la Palabra se hizo carne» (Jn 1, 14); no significa en modo alguno que cesó de ser Dios, sino que, siendo de condición divina, asumió una naturaleza humana privada de gloria, sometida al sufrimiento y a la muerte. Asumir «la condición de siervo» comportó una renuncia voluntaria incluso a los «privilegios» que habría podido gozar como hombre: no quiso pertenecer a los poderosos, quiso ser como el que sirve (Mc 10, 45). Su vida terrena estuvo marcada por la pobreza: nacido en un establo y acostado en un pesebre (Lc 2, 7), prófugo en sus primeros meses (Mt 2, 13-15), vida oculta en Nazaret en condiciones modestas (Mt 13, 55; Mc 6, 3), y la precariedad de su ministerio: «Las zorras tienen guaridas y las aves del cielo nidos; pero el Hijo del hombre no tiene dónde reclinar la cabeza» (Lc 9, 58). Finalmente fue acusado, condenado y crucificado con la más infamante de las penas, reservada a esclavos y no ciudadanos romanos: literalmente asumió la «condición de siervo» (Flp 2, 7).
+
+Con este despojamiento se restablece y se «repara» la verdad del hombre universal: si el hombre cayó en la tentación de ser «igual a Dios» («seréis como dioses, conocedores del bien y del mal»: Gen 3, 5), Aquel que es Dios-Hijo «no retuvo ávidamente el ser igual a Dios» y, al hacerse hombre, rehabilitó con esta opción a todo hombre. La palabra «se humilló» se inserta en el contexto de la redención: «se humilló a sí mismo, obedeciendo hasta la muerte y muerte de cruz» (Flp 2, 8). Es la dimensión del despojamiento mediante la pasión y la muerte infamante y, desde el punto de vista divino, la redención que realiza el amor misericordioso del Padre por medio del Hijo que obedeció voluntariamente: «Por lo cual Dios le exaltó y le otorgó el nombre, que está sobre todo nombre» (Flp 2, 9). San Atanasio comenta que «le exaltó» indica la exaltación de la naturaleza humana, pues sólo lo que es humilde es susceptible de ser ensalzado (Adversus Arianos, Oratio 1, 41); toda la humanidad humillada por el pecado halla en la exaltación de Cristo-hombre la fuente de su nueva gloria. Finalmente, Jesús habló de sí mismo como «Hijo del hombre» (Mc 2, 10. 28; Dn 7, 13-14): la expresión, cargada de sentido bíblico, abarca lo divino y lo humano, cielo y tierra, historia y escatología, como cuando testificó ante Caifás: «a partir de ahora veréis al Hijo del hombre sentado a la diestra del Padre y venir sobre las nubes del cielo» (Mt 26, 64). Estamos ante el único Hombre-Dios, verdadero Hombre y verdadero Dios.
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H2 | (JESUCRISTO: VERDADERO HOMBRE) |
-
-
-## Secciones incluidas
-
-# (JESUCRISTO: VERDADERO HOMBRE)
-
-[Contenido de esta sección...]

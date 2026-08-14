@@ -4,93 +4,69 @@ title: "Chapter Thirteen: **The Continuity of the Changing Body**"
 fuente: Consciousness_Beyond_Life_The_Science_of_the_Near-Death_--_Pim_van_Lommel_--_2011
 capítulo: 14
 timestamp: 2026-08-03
-description: "Resumen de 'Chapter Thirteen: **The Continuity of the Changing Body**' — Consciousness_Beyond_Life_The_Science_of_the_Near-Death_--_Pim_van_Lommel_--_2011"
-tags: ["resumen", "consciousness beyond life the science of the near-death -- pim van lommel -- 2011"]
+description: "Capítulo 13 — la continuidad del cuerpo en constante cambio: el papel del ADN como interfaz entre la conciencia no local y el cuerpo, epigenética, ADN basura, biofotones, memoria transplantada y la herencia como memoria"
+tags: ["resumen", "análisis_cultural", "conciencia", "cuerpo", "ciencia_y_fe", "alma", "inmortalidad_del_alma"]
 ---
 
 # Chapter Thirteen: **The Continuity of the Changing Body**
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[conciencia]] — la conciencia no local que intercambia información con el cuerpo en constante cambio; la conciencia como depósito no local de todas las experiencias pasadas (memorias).
+- [[cuerpo]] — el cuerpo como totalidad que cambia por completo (cada célula, molécula y átomo se reemplaza), cuya continuidad se explica por el ADN como interfaz.
+- [[alma]] — la continuidad de la identidad personal frente a la renovación permanente de la materia corporal (afinidad con la pregunta por lo que permanece en el ser humano).
+- [[inmortalidad_del_alma]] — la conciencia no local que continúa existiendo tras la muerte del cuerpo; la memoria inmunológica "almacenada" en el espacio no local.
+- [[alma_separada]] — los casos de "memoria transplantada" en receptores de órganos de donantes fallecidos.
+- [[memoria]] — la herencia entendida como memoria: la preservación de posibilidades físicas y propiedades conscientes e inconscientes vía ADN (forward reference).
+- [[ciencia_y_fe]] — la crítica a la explicación exclusivamente materialista (darwinista) del origen de la vida; la no localidad cuántica aplicada a procesos biológicos.
+- [[unidad_alma_cuerpo]] — la relación entre la conciencia no local y cada célula del cuerpo mediante la resonancia de espín nuclear (ADN como lugar de resonancia).
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `14_chapter_thirteen_the_continuity_of_the_changing_body.md`
+### DNA
 
+¿Cómo es posible una interacción constante entre la conciencia no local y el cerebro en un cuerpo que cambia continuamente? La sustancia cambia todo el tiempo, pero el patrón permanece igual. Unas cincuenta mil millones de células (500.000 por segundo) se degradan y regeneran cada día; cada dos semanas se reemplazan todas las moléculas y átomos de las células; en el nivel subnuclear los quarks y gluones se destruyen y regeneran en 10⁻²³ segundos. De hecho, a lo largo de la vida el cuerpo se destruye y reconstruye una vez cada 10⁻²³ segundos, y sin embargo lo experimentamos como continuo. El ADN es la única parte permanente y específica de cada persona en cada célula, desde la concepción hasta la tumba: por eso podría desempeñar un papel clave en el intercambio de información en constante cambio entre el cuerpo y la conciencia no local. Las cien trillones de células del cuerpo proceden de la única molécula de ADN creada en la concepción; la primera división celular ocurre unas 36 horas después, y en la cuarta división las dieciséis células ya tienen el potencial de diferenciación para funciones futuras. La estructura molecular del ADN permanece idéntica en todas las células, pero su función cambia: no basta la estructura del ADN para explicar la diferenciación (analogía del árbol cortado cuyas células de corteza podrían producir un árbol completo, y la oruga que se transforma en crisálida y mariposa con el mismo ADN).
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### Nontechnical Synopsis
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Chapter Thirteen: **The Continuity of the Changing Body** |
-| 9 | H2 | ***DNA*** |
-| 15 | H2 | ***Nontechnical Synopsis*** |
-| 35 | H2 | ***What Exactly Is DNA?*** |
-| 45 | H2 | ***Epigenetics*** |
-| 53 | H2 | ***The Possible Function of Junk DNA*** |
-| 63 | H2 | ***Biophotons*** |
-| 71 | H2 | ***DNA as a Source of Information for Each Cell*** |
-| 81 | H2 | ***Nonlocal Information Transfer via DNA*** |
-| 99 | H2 | ***DNA, Heredity, and Consciousness*** |
-| 109 | H2 | ***Communication with Remote Cells*** |
-| 117 | H2 | ***Transplanted Memory*** |
+Síntesis no técnica para lectores que no quieran adentrarse en el probable papel del ADN. El ADN humano es una molécula de doble hélice con 23 pares de cromosomas, unos 30.000 genes y más de 3.000 millones de pares de bases. Solo el 5 % codifica proteínas; el 95 % restante se llama ADN "basura" (junk DNA), "la mayor sorpresa del genoma humano": cuanto más complejo es un organismo, mayor es su porcentaje. Algunos científicos creen que el ADN basura se usa para identificación, comparable a un código de barras, recibiendo instrucciones mediante intercambio no local de información — idea que conecta con la epigenética (cambios reversibles en la función génica causados por factores externos al ADN sin alterar su estructura). Las células vivas emiten luz coherente en forma de biofotones (miles de fotones por segundo y cm², unas cien millones de veces más débil que la luz del día), un "láser biológico" cuya fuente es el ADN, involucrado en la comunicación intracelular que dirige el crecimiento, la diferenciación y la división celular (bioinformación). La diferenciación de las funciones celulares en la fase embrionaria no puede explicarse solo por el código genético: descansa también en información no local (campos morfogenéticos); el ADN tiene capacidad no local de recibir información hereditaria y morfogenética. La conciencia no local contiene toda la experiencia pasada (memorias); el ADN individual proporciona a las distintas formas de conciencia distintos lugares de resonancia, tanto en el cerebro como en otros sistemas celulares. Hay pruebas de comunicación remota entre células: los glóbulos blancos aislados responden a los pensamientos y sentimientos de su dueño (Backster). Esto también explica la "memoria transplantada": el órgano donado conserva el ADN específico del donante y puede transmitir fragmentos de sentimientos e ideas del donante fallecido (memoria celular). En resumen, el ADN tiene una función de interfaz en cada célula mediante la resonancia de espín nuclear, lo que permite explicar la continuidad del cuerpo en constante cambio por el intercambio con toda la información hereditaria y con la conciencia no local del espacio no local; también coordina el intercambio de información entre células, sistemas celulares y órganos.
 
+### What Exactly Is DNA?
 
-## Secciones incluidas
+El ADN es una molécula de doble hélice hecha de nucleótidos; cada gen tiene unas 100.000 pares de bases, combinaciones de adenina, guanina, timina y citosina (A, G, T, C). El ADN de cada célula mide unos tres metros de largo, enrollado en un núcleo de una milésima de milímetro; se encuentra también en las mitocondrias. La mayor parte de la investigación se hace in vitro sobre hebras cortadas; pocos laboratorios estudian la función del ADN vivo. La función del ADN es distinta en cada tipo celular porque algunos genes están activos y otros desactivados; la pregunta de por qué se activan o desactivan no la responde la estructura. Analogía del teclado de piano: la estructura del instrumento no es la música; la estructura del ADN no es su función. Cómo puede contener una sola célula tantas instrucciones que llenarían mil libros de 1.600 páginas es un misterio: "cuanto más aprendemos, más nos damos cuenta de cuán inteligente es el sistema y cuánto ignoramos". El 5 % que codifica proteínas se llama exón; el 95 % restante, de función desconocida, ADN basura o intrón. No es el número de genes lo que determina la complejidad de un organismo sino el número de patrones de colaboración entre los genes — aunque queda por saber qué mecanismo los determina.
 
-# ***DNA***
+### Epigenetics
 
-[Contenido de esta sección...]
+La epigenética busca explicar las diferencias funcionales entre genes y por qué algunos están activos y otros no. Según Joshua Lederberg (premio Nobel), las diferencias funcionales no siempre son consecuencia de la estructura hereditaria del ADN sino del entorno que lo rodea: la función del ADN cambia sin que cambie su estructura. Los gemelos idénticos tienen el mismo ADN pero su material epigenético puede variar: la función del ADN está determinada por información exterior al propio ADN, y el intercambio no local de información vía resonancia podría desempeñar un papel esencial. Investigaciones recientes apoyan el intercambio remoto de información: hebras de ADN intactas se reconocen a distancia sin contacto físico ni proteínas (reconocimiento remoto de secuencias homólogas, base de la recombinación). La epigenética también estudia los procesos de desarrollo del organismo, con un enfoque fundamentalmente distinto del evolucionismo darwinista (donde solo la selección natural y la variación aleatoria desempeñan un papel decisivo, independiente del entorno). ¿Pueden explicarse por la casualidad el origen de la vida y de las especies y la increíble complejidad del ADN? Cita de Edwin Grant Conklin: "la probabilidad de que la vida se originara por accidente es comparable a la probabilidad de que el diccionario completo resultara de una explosión en una imprenta".
 
-# ***Nontechnical Synopsis***
+### The Possible Function of Junk DNA
 
-[Contenido de esta sección...]
+¿La información se almacena dentro del gen (por la secuencia de A, G, T, C) o el gen solo proporciona acceso a la información? ¿Puede el ADN recibir instrucciones mediante intercambio (no local) de información — premisa teórica de la epigenética? Simon Berkovich postula que el 95 % del ADN (ADN basura o intrón) se usa para identificación, comparable a los códigos de barras: el ADN como código de acceso individual a información individual, compartida (de la especie) y morfogenética almacenada en el espacio no local. Mantegna sugiere que las regiones no codificantes podrían desempeñar un papel importante en el intercambio de información biológica. El desarrollo del ADN en organismos vivos es un asunto no local y, por tanto, un proceso cuántico fundamentalmente incognoscible (interpretación de Copenhague). Bohr: la vida es complementaria a lo verificable físicamente, como ondas y partículas. Schrödinger (1944) propuso que el ADN podría ser una macromolécula no estadística que funciona como "antena cuántica" para la comunicación no local. Marcer: un organismo vivo solo puede obtener su información no local y holográfica a través del ADN. Hameroff ve el ADN como un potencial ordenador cuántico cuyos tres mil millones de pares de bases funcionan como qubits (superposición de 1 y 0 a la vez).
 
-# ***What Exactly Is DNA?***
+### Biophotons
 
-[Contenido de esta sección...]
+Desde 1972 se estudia la liberación de fotones en organismos vivos (bioluminiscencia), principalmente por Fritz-Albert Popp y Marco Bischof. Las células vivas emiten luz coherente (flujo pulsante de decenas de miles de fotones por segundo y cm², cien millones de veces más débil que la luz del día) con frecuencias de 200 a 800 nanómetros (de ultravioleta a infrarrojo). Este "láser biológico" de muy baja intensidad está involucrado en la comunicación intracelular que dirige funciones biológicas (crecimiento, diferenciación, división celular): bioinformación. Como la emisión de biofotones se ha demostrado solo en el ADN y los núcleos celulares de células vivas, Popp y Bischof ven la molécula de ADN como la probable fuente de creación del campo coherente de fotones: podría funcionar como interfaz entre el espacio no local y el organismo vivo. Los campos electromagnéticos del cerebro y del corazón son mucho más potentes que los de los biofotones, pero si se ven los campos electromagnéticos como un fenómeno cuántico biológico, los más débiles también pueden considerarse efecto de la información del espacio no local que las células reciben a través de su ADN. La reacción no lineal e hiperbólica de los biofotones a la luz del sol es específica de un proceso cuántico, idéntica a la fotosíntesis (hoy considerada proceso cuántico biológico). La teoría de los biofotones aún carece de prueba definitiva, aunque nada de ella ha sido refutado y muchos aspectos han sido corroborados.
 
-# ***Epigenetics***
+### DNA as a Source of Information for Each Cell
 
-[Contenido de esta sección...]
+Como único componente permanente y específico de cada célula, el ADN desempeña un papel esencial como interfaz para el diseño del cuerpo, la continuidad de todas las funciones corporales y la interacción entre la conciencia no local (y las memorias) y el cuerpo, manteniendo el modelo de interfaz basado en la resonancia de espín nuclear (correlación de espín cuántico). Toda la materia está hecha de 99,999 % de vacío, y ese vacío está lleno de energía e información que se origina en el espacio no local: el ADN está siempre en contacto con todas las formas posibles de información no local. El ADN transmite información directa y no localmente mediante sistemas coherentes en moléculas, células y órganos remotos; e indirectamente mediante proteínas señalizadoras y mensajeras, anticuerpos, campos electromagnéticos inducidos por el ADN en las neuronas (vía sistema nervioso autónomo y central), y hormonas y neuropéptidos producidos por el ADN (hipófisis, epífisis, tronco encefálico). El ADN es el coordinador directo e indirecto de toda la información necesaria para el óptimo funcionamiento del cuerpo, recibiendo la información del espacio no local. El sistema inmunitario, gobernado por el ADN, debe identificar lo propio y lo extraño, generar anticuerpos y mantener una memoria inmunológica accesible toda la vida. ¿Dónde se almacena esa memoria si el cuerpo cambia cada segundo? Según van Lommel, también podría almacenarse en el espacio no local y ser accesible al ADN individual mediante intercambio no local: lo corrobora la evidencia de resistencia a antibióticos en bacterias salvajes de zonas remotísimas, sin contacto con el antibiótico — información recibida, presumiblemente, desde el espacio no local.
 
-# ***The Possible Function of Junk DNA***
+### Nonlocal Information Transfer via DNA
 
-[Contenido de esta sección...]
+Van Lommel compara el ADN con el procesador de alta velocidad de un ordenador: un cristal de cuarzo oscilante que transmite información codificada en ondas electromagnéticas de ciertas frecuencias, sin contener la información en sí. Para los sistemas vivos, la oscilación rítmica es esencial para el intercambio (no local) de información: cada célula vibra con frecuencias características entre 100 y 1.000 gigahertz; la actividad oscilatoria de las células y la propagación de ondas son procesos no lineales (cuánticos), demostrados en iones de calcio, proteínas, redes neuronales y células musculares cardíacas. La resonancia (vibración con la misma frecuencia) produce un todo coherente cuyas partes pierden su identidad individual: experimentos con células epiteliales del intestino mostraron que células detectoras idénticas, separadas mecánicamente y sin comunicación química ni eléctrica, respondieron igual que células dañadas por sustancias tóxicas — respuesta síncrona a distancia (no se excluyen los biofotones como fuente). La diferenciación de funciones celulares no puede explicarse solo por el código genético: Goodwin propone campos auto-organizadores en y entre las células. Todas las células están interconectadas porque proceden de una única fuente: el óvulo fecundado con el ADN específico de la persona (analogía con el experimento de Aspect, que usó dos partículas de la misma fuente). El ECG se registra en la piel de brazos, piernas y tórax porque la actividad eléctrica del corazón está en cada célula del cuerpo; probablemente todas las células están interconectadas vía el campo electromagnético rítmicamente cambiante del corazón; el EEG también revela la actividad eléctrica del corazón. La coordinación no local aparece también en colonias de millones de organismos (abejas, avispas, hormigas, termitas), coordinadas por la reina desde la distancia (si muere lejos de la colonia, sobreviene el caos) — probablemente por su función del ADN, creando una conciencia colectiva; y en bandadas de estorninos o bancos de peces, con velocidades de reacción (38 milisegundos) demasiado rápidas para la comunicación normal: los animales se comportan como una entidad coherente, no como seres separados.
 
-# ***Biophotons***
+### DNA, Heredity, and Consciousness
 
-[Contenido de esta sección...]
+Según esta teoría el ADN no contiene el material hereditario en sí, sino que es capaz de recibir información hereditaria, morfogenética (formativa) y específica de la persona desde la conciencia no local. Los campos morfogenéticos (concepto de Weiss y Gurwitsch, desarrollado por Sheldrake) implican una transferencia de información no energética, comparable a los campos de probabilidad de la física cuántica; el intercambio entre el campo y las estructuras celulares vivas se produce por resonancia con frecuencias específicas, hasta en el nivel subcelular de la resonancia de espín electrónico y la resonancia magnética nuclear (correlación de espín cuántico). Cada célula debe estar en contacto con la "conciencia morfogenética" a través del ADN del núcleo. Ejemplo de la célula madre: omnipotente, crece según el entorno (cultivada entre neuronas solo da neuronas): el entorno contiene la información (conciencia morfogenética) que las células necesitan para desarrollarse y especializarse. Todas las células se comunican entre sí y con los campos de conciencia vía resonancia, campos electromagnéticos, hormonas y proteínas mensajeras; dado el reemplazo de 500.000 células por segundo, la colaboración celular debe ocurrir en nanosegundos y la velocidad del intercambio acercarse a la velocidad de la luz. La herencia es la capacidad de recordar lo que fue y lo que puede ser: la preservación de posibilidades físicas y de propiedades inconscientes y conscientes ("ser consciente"), nuestra capacidad de recuerdo consciente, de expresión de la voluntad y de decisiones guiadas por la experiencia. "La herencia es, por tanto, otra palabra para memoria." Tanto la herencia como la conciencia con memorias forman, vía ADN, el vínculo entre pasado y futuro. La conciencia es el depósito no local de toda la experiencia pasada; la recepción de información del espacio no local descansa en el libre albedrío (intención), la atención y el estado de la conciencia de vigilia. El ADN específico de la persona da a las distintas manifestaciones de la conciencia (conciencia de vigilia, subconsciente individual) sus distintos lugares de resonancia, con un código de acceso individual comparable a un número de teléfono privado; hay también una conciencia humana universal o colectiva que vincula a cada ser humano con todo lo existente, con un código de acceso compartido (ADN humano universal), comparable a un código internacional — distinto del de animales y plantas. Jung (quien tuvo una ECM en 1944), además del yo (conciencia de vigilia), reconoce el *self*: un aspecto más elevado o más amplio alrededor del yo que abarca los componentes conscientes e inconscientes de la personalidad; la individualidad es distinta del yo encarnado; el componente inconsciente individual está en contacto con el inconsciente colectivo humano, del que forma parte: cada parte está vinculada no localmente con el todo.
 
-# ***DNA as a Source of Information for Each Cell***
+### Communication with Remote Cells
 
-[Contenido de esta sección...]
+Hay evidencia de que células remotas comunican y responden a los pensamientos y sentimientos de su dueño. Cleve Backster, inventor del detector de mentiras, registró cambios en la conductividad de la superficie de hojas de plantas que respondían a pensamientos negativos o emocionales; y midió glóbulos blancos (leucocitos) tomados de un hisopo bucal y mantenidos vivos en un medio de cultivo. Aun transportadas de doce a veinte kilómetros de su dueño, o en una jaula de Faraday (protegida de radiación electromagnética), las células reaccionaron cuando al sujeto se le mostraban imágenes horripilantes o sexualmente excitantes, con anomalías simultáneas en la conductividad de su piel: prueba de comunicación instantánea y no local entre la conciencia del sujeto y sus glóbulos blancos. Cada célula es capaz de responder, vía su ADN específico, al estado de ánimo de su dueño.
 
-# ***Nonlocal Information Transfer via DNA***
+### Transplanted Memory
 
-[Contenido de esta sección...]
+El órgano de un trasplante de corazón contiene el ADN específico del donante; por ser material extraño provoca rechazo que requiere inmunosupresión. Pero a veces el ADN del órgano trasplantado continúa funcionando como lugar de resonancia o interfaz de la conciencia del donante, permitiendo al receptor sentir fragmentos de sentimientos e ideas que coinciden con la personalidad y conciencia del donante fallecido. Fenómeno documentado en el documental de Discovery Channel *Transplanting Memories* (2003), en el libro de Claire Sylvia *Change of Heart* y en *The Heart's Code* del médico Paul Pearsall; un artículo reciente presenta diez casos bien documentados de pacientes con trasplante de corazón que experimentaron cambios emocionales y de conducta reconocidos por los familiares del donante como propios de su personalidad. Explicación posible: el ADN funciona como lugar de resonancia de la conciencia no local específica de la persona, y continúa siéndolo para la conciencia no local del donante fallecido, que el receptor puede experimentar a través del ADN del órgano. Las reservas de los centros de trasplantes han impedido hasta ahora una investigación científica sistemática de este fenómeno.
 
-# ***DNA, Heredity, and Consciousness***
+### Conclusión
 
-[Contenido de esta sección...]
-
-# ***Communication with Remote Cells***
-
-[Contenido de esta sección...]
-
-# ***Transplanted Memory***
-
-[Contenido de esta sección...]
+El ADN parece ser más que una compleja molécula que codifica proteínas sobre la base de información hereditaria: hay evidencia creciente de que el 95 % del ADN (ADN basura, de función desconocida) desempeña un papel significativo como interfaz entre la conciencia no local y el cuerpo, permitiendo que cada célula individual funcione como interfaz. La herencia es una forma de memoria: la preservación, vía ADN, de posibilidades físicas y de propiedades conscientes e inconscientes (individualidad). El ADN podría además coordinar la colaboración de células, sistemas celulares, órganos y del organismo entero mediante el intercambio recíproco de información regulado por el ADN (biocomunicación). El hecho de que el ADN de cada célula tenga función de interfaz y facilite el intercambio con la información hereditaria del espacio no local y con la conciencia no local puede explicar la continuidad del cuerpo en constante cambio; se necesitan análisis adicionales del ADN vivo para elaborar y confirmar esta hipótesis. Nota teológica: la identidad personal que permanece por la conciencia no local y su "memoria" no depende ya de Dios creador sino del ADN como interfaz material; la herencia como memoria y la conciencia colectiva (Jung) se acercan funcionalmente a la inmortalidad del alma y a la solidaridad del género humano, pero sin Dios personal ni dimensión sobrenatural — en tensión con la doctrina de la creación del alma.

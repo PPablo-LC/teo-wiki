@@ -3,40 +3,78 @@ type: ResumenFuente
 title: "On Tools"
 fuente: Computer Power and Human Reason -- Joseph Weizenbaum
 capítulo: 4
-timestamp: 2026-08-03
-description: "Resumen de 'On Tools' — Computer Power and Human Reason -- Joseph Weizenbaum"
-tags: ["resumen", "computer power and human reason -- joseph weizenbaum"]
+timestamp: 2026-08-11
+description: "Weizenbaum sobre las herramientas como agentes de transformación: herramientas protésicas, máquinas autónomas (el reloj) y la invención del computador como motor de cambio social e imaginativo."
+tags: ["resumen", "computer power and human reason -- joseph weizenbaum", "razón_instrumental", "cultura", "técnica"]
 ---
 
 # On Tools
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[razón_instrumental]] — la racionalidad técnica que las máquinas protésicas y autónomas imponen progresivamente
+- [[cultura]] — el marco simbólico que las herramientas reconstituyen
+- [[tiempo]] — su nueva percepción como variable abstracta, en buena parte por obra del reloj
+- [[autonomía]] — la cesión progresiva de la autonomía humana a máquinas autónomas
+- [[razón]] — la racionalidad científica que se confunde con logicidad
+- [[ciencia]] — su progresiva conversión en veneno lento por la ecuación racionalidad = logicalidad
+- [[progreso]] — el mito del progreso que la herramienta del computador parece confirmar
+- [[sociedad]] — la organización social transformada por las grandes herramientas
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `03_On_Tools.md`
+### Las historias del hombre y de sus máquinas son inseparables
 
+Weizenbaum abre el capítulo recordando que máquinas y hombre han tejido sus historias inseparablemente: transforman el entorno físico (arado, ciudades, canales) e inducen mutaciones en los arreglos sociales; más decisivamente, las máquinas determinan la comprensión que el hombre tiene de su mundo y de sí mismo. El hombre es consciente de sí, de los demás y de un mundo en parte maleable; sobre todo, prevé. Al diseñar implementos, los ensaya imaginariamente; por ser consciente de su ser social y de su muerte, es necesariamente maestro: las herramientas son, junto a su función práctica, instrumentos pedagógicos, símbolos de las actividades que hacen posibles y modelos para la reproducción de la habilidad que encarnan. Transcienden su rol práctico y entran en el cálculo imaginativo que construye su mundo: en ese sentido, son agentes de cambio, fragmentos de un plano del mundo.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### Herramientas, símbolos y autoimagen
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | On Tools |
+Weizenbaum pone varios ejemplos: la lanza que volvió a los grandes animales en presa del cazador y amplió el dominio humano; el revólver del «salvaje Oeste», que transformó la autoimagen de quienes lo llevaban (el «gran ecualizador»); la imprenta y los navíos, que modificaron la autoimagen de sociedades enteras; las máquinas recolectoras de algodón (desde 1955), que destruyeron el mercado laboral del Sur negro y provocaron la migración masiva a ciudades como Detroit, Chicago, Nueva York, Birmingham o Atlanta. La pregunta es por qué la máquina puede llegar a penetrar la materia misma con que el hombre construye su mundo.
 
+### Prótesis, autónomos y la ciencia moderna
 
-## Secciones incluidas
+Hay máquinas que prolongan el cuerpo humano: el vapor, la pala mecánica, el telescopio, el microscopio, la lanza, la radio, los vehículos. Extienden la potencia muscular, los sentidos, el alcance. Muestran al hombre que puede rehacerse a sí mismo y permiten reconstruir el pasado (la historia) y diseñar el futuro. Si toda relación del hombre con la naturaleza se leyera como lucha pura por el poder agregado por las prótesis, se llegaría a una visión equivocada: el triunfo sobre la naturaleza logrado en nuestra edad transformó tanto a la naturaleza como a la percepción humana. El truco que permitió el auge de la ciencia moderna fue justamente esa transformación.
 
+### Cambio en la percepción del tiempo y del espacio
+
+A partir aproximadamente del siglo XIV, la percepción del tiempo (y por tanto del espacio) cambió: donde se buscaba una regularidad cósmica vivida como repeticiones temáticas (a la manera de las grandes fugas de Bach, con la obra entera pensada de antemano, sin comienzo ni fin, eterna como el cosmos), se pasó a la idea de un sistema de la naturaleza gobernado por leyes expresables como funciones del tiempo. Antes se contaba el tiempo por eventos —el sol sobre ciertas rocas, la yunta o la desyunta de los bueyes, el hervor de cierta cantidad de agua, la partida de las aves—; la duración era relativa a tareas conocidas. La cosmología era periódica: una compleja batida de revoluciones y epiciclos. Darwin cambió todo al ver la naturaleza como proceso irreversible, pero su pensamiento sólo fue posible porque ya circulaba una idea casi igual a la nuestra del tiempo. La cuestión decisiva es qué máquina no protésica facilitó este tránsito.
+
+### El reloj: clave de la edad industrial
+
+El reloj no es una máquina protésica; su producto no son músculos ni sentidos sino horas, minutos y segundos. Weizenbaum cita a Lewis Mumford, que llama al reloj «la máquina clave de la edad industrial moderna»: los monasterios medievales, regulando su vida con las horas canónicas, dieron a la empresa humana un compás maquinal; los relojes se extendieron a partir del siglo XIII, se hicieron municipales, marcaron la existencia urbana y pasaron de «llevar la cuenta» del tiempo a «servir al tiempo» y «racionarlo»; gradualmente la Eternidad dejó de ser el foco de las acciones humanas. Mumford formula el efecto central: el reloj disoció el tiempo de los hechos humanos y contribuyó a crear la fe en un mundo independiente de secuencias matemáticamente medibles: el mundo propio de la ciencia. Esa percepción está tan arraigada que nos es casi imposible identificar hoy su papel; las ciencias son a su vez «time-factored», y aun las dos ecuaciones más básicas de la física (F = ma, E = mc²) llevan impreso el tiempo. El reloj no fue el único determinante de la nueva racionalidad científica (también líneas de longitud/latitud, etc.), pero basta para mostrar que las máquinas protésicas por sí solas no explican el nuevo dominio del hombre sobre la naturaleza.
+
+### El reloj como primera máquina autónoma
+
+Una máquina automática requiere ser puesta en marcha y luego se regula por sensores o conductores humanos; una máquina autónoma, una vez arrancada, corre por sí misma sobre la base de un modelo internalizado de algún aspecto del mundo real. Los relojes son modelos del sistema planetario: las primeras máquinas autónomas, y hasta la llegada del computador las únicas verdaderamente importantes. Cuando el hombre reguló su vida por el estado de un modelo autónomo, se superpuso una nueva realidad al mundo existente, como un cataclismo geográfico; hubo que desarrollar nuevos sentidos para orientarse. La nueva realidad era una versión empobrecida de la anterior: rechaza la experiencia directa en favor de estados del modelo abstracto (el hambre como estímulo para comer se sustituye por la hora que señala el reloj; la persona dormida se despierta por una señal del modelo; etc.). Esa rejection de la experiencia directa llegó a ser una de las características principales de la ciencia moderna: las experiencias debían ser representables como números, medidas por instrumentos que reportan sus fenómenos con agujas y son traducidas a cifras; hoy manipulaciones intrincadas de grandes conjuntos de números parecen capaces de producir nuevos aspectos de la realidad, validados por más lecturas de más instrumentos que median entre hombre y naturaleza y producen más números. Como dijo Karl Pearson en 1892, «el hombre científico tiene sobre todo que esforzarse por autoeliminarse en sus juicios»: urge convertirse en inteligencia desencarnada, en instrumento, en máquina. A una cultura así «fabricada» irrumpió el computador.
+
+### Dewey: toda invención pone en peligro un mundo estable
+
+Weizenbaum recuerda la frase de John Dewey —«todo pensador pone en peligro alguna porción de un mundo aparentemente estable, y nadie puede predecir qué surgirá en su lugar»— y la aplica a todo el que inventa una herramienta nueva o encuentra un nuevo uso para una antigua. La perspectiva histórica ayuda a entender cómo Clasicidad, Edad Media y Modernidad temprana reconstruyeron realidades; al acercarnos al computador, la perspectiva se aplana y no queda más que proyectar las lecciones plausibles del pasado sobre el presente. Pero la dificultad es enorme, porque las herramientas modernas impactan en la sociedad mucho más críticamente y en mucho menos tiempo que las antiguas. La imprenta necesitó siglos para permear la humanidad; la máquina de vapor llegó cuando tiempo y espacio ya estaban cuantificados y la autoridad cuasi-constitucional del orden eterno se había desplazado por la autoridad relativamente sin constricciones del dinero y del valor cuantificado del trabajo; el teléfono, el automóvil, la radio cayeron sobre una cultura ya hechizada por el «pig principle» (si algo es bueno, más es mejor).
+
+### El computador «llegó justo a tiempo»
+
+Cuando se tendió la primera línea de telégrafo entre Texas y Nueva York se dudó de que la gente tuviera algo que decirse. Cuando el computador digital emergió de los laboratorios y entró en la empresa, lo militar y la industria estadounidenses, ya no había dudas: se dijo que llegaba justo a tiempo para evitar crisis catastróficas (bancos, problemas logísticos de fuerzas armadas dispersas por el mundo, bolsas de valores y de commodities); el «command and control» de la gran corporación asemejaba al del Pentágono. Es cierto que problemas enormes fueron resueltos sin computadores electrónicos —el Proyecto Manhattan produjo la bomba atómica y sus ingentes problemas de gestión sin ellos, lo cual desmiente la presunta indispensabilidad del computador en la gestión de grandes corporaciones, de la milicia y hasta de la ciencia—. La creencia en la indispensabilidad no es del todo falsa: el computador se vuelve indispensable cuando está tan integrado en una estructura que ya no puede separarse sin dañarla fatalmente. Pero no era un prerequisito para la supervivencia de la sociedad moderna de posguerra; su abrazo entusiasta y acrítico por los elementos «progresistas» del gobierno, la empresa y la industria lo convirtieron en esencial para la supervivencia de la sociedad en la forma que el computador mismo contribuyó a moldear.
+
+### Hubo alternativas que no se eligieron
+
+Citando la experiencia de J. W. Forrester (en 1947 y 1961), Weizenbaum observa que la «incapacidad de actuar» (la velocidad interna insuficiente de las organizaciones humanas ante el ritmo creciente) pudo motivar, en otra situación histórica, no ya buscar técnicas para que las organizaciones cumpliesen mejor sus misiones tradicionales, sino reestructurar las organizaciones humanas con misiones nuevas, más relevantes para preguntas fundamentales sobre cómo convivirán pueblos de intereses diversos. En lugar de eso, el computador sirvió para construir un servomecanismo distribuido por un área comparable al continente americano (el sistema SAGE de defensa aérea); una vez que «nosotros» tuvimos tal sistema, debió asumirse que «ellos» también lo tenían; debimos diseñar armas y estrategias ofensivas para superar las defensas; las defensas «de ellos»迫使 «nosotros» a seguir reforzando, hasta los MIRVs, MARVs y ABMs de hoy. Análogamente, en lugar de dar a la gente una elección entre cien vehículos que difieren sustancialmente, el computador se usó para automatizar el flujo de piezas en líneas de producción de modo que el consumidor «eligiera» entre un número astronómico de opciones triviales; y en lugar de administrar los servicios sociales con criterio humano descentralizado, el computador sirvió para automatizar y centralizar la administración del welfare según líneas políticas establecidas, levantando un aparato enorme y complejo cuyo mantenimiento se convierte él mismo en barrera a la innovación.
+
+### El computador salvó estructuras que podían haberse renovado
+
+Las muchas presiones que urgían respuesta durante la posguerra podían haber servido de incentivos a la innovación social y política: una aceleración enorme de invención social habría parecido hoy tan natural como el torrente de innovación tecnológica que efectivamente se produjo. Pero el computador llegó «justo a tiempo» para otra cosa: para salvar —casi intactas, además— las estructuras sociales y políticas que de otro modo habrían sido radicalmente renovadas o habrían cedido bajo las demandas. El computador se usó para conservar las instituciones estadounidenses y las apuntaló y las inmunizó, al menos temporalmente, contra las presiones de cambio; lo mismo ocurrió en Japón y Alemania. Entre los muchos caminos a la innovación social que abrió al hombre, el más funesto fue el de permitirle eludir todo pensamiento deliberado sobre cambio sustantivo. Se ha anunciado muchas veces la revolución del computador; pero si el triunfo de una revolución se mide por la profundidad de las revisiones sociales que entraña, no ha habido revolución del computador; y por profundas que sean las transformaciones actuales, el computador no las eponymiza: hizo las cosas más o menos como siempre se habían hecho, sólo que más aprisa o, según ciertos criterios, más eficientemente.
+
+### Herramientas, símbolos y desplazamiento imaginativo
+
+Como pocas veces una herramienta y un trabajo enteramente original se inventan juntos; pero las herramientas como símbolos invitan a su desplazamiento imaginativo a contextos distintos del original, y en esos nuevos marcos de referencia pueden transformarse y transformar el cálculo preexistente. Esas transformaciones crean a su vez problemas enteramente nuevos, que engendran herramientas literalmente inimaginables antes. Weizenbaum cita el caso de Thomas Savery, constructor de la primera máquina de vapor aplicada industrialmente (~1700), que también fue el primero en usar el término «horsepower» en sentido aproximadamente moderno; el vocablo —tan sugerente— pudo provocar a Trevithik el salto creativo que combinó la máquina de vapor y el tranvía de caballos en un marco unificado (1804). La invención es proyección imaginativa de símbolos de un marco de referencia bien desarrollado a otro; cabe esperar que símbolos potentes sobrevivan casi intactos y ejerzan influencia aun en el nuevo marco. Trasladando la analogía, los computadores tenían «caballos de otro color» que reemplazar: los «tab rooms» del mundo empresarial previo a 1951, que perforaban, ordenaban y tabulaban tarjetas por montones, eran los tranvías-hipo del procesamiento de datos, las máquinas tabuladoras los caballos; los primeros UNIVAC I hicieron posible un procesamiento enteramente nuevo, como la vaporera podía haber sido montada sobre un tranvía en principio; sin embargo, la primera década se usó el computador simplemente para «automatizar» las tab rooms. La transición crucial —del computador como sustituto de las máquinas tabuladoras al computador versátil como motor de información— ocurrió cuando el poder del computador se proyectó sobre el marco ya establecido por la investigación operativa y el análisis de sistemas, desarrollados durante y justo después de la Segunda Guerra Mundial casi hasta su plena madurez.
+
+### «Poner músculos» no valida una técnica
+
+Aún cuando el computador se instaló por moda o prestigio, los análisis de sistemas revelaron oportunidades de mejora radical aun sin computadores. El efecto colateral fue consolidar el análisis de sistemas (y, en menor grado, la investigación operativa) como metodología para tomar decisiones empresariales. Con el tiempo, el computador se hizo cualitativamente distinto de sus precursores manuales y ya no puede separarse del análisis de sistemas. Sin embargo, poner músculos en una técnica no contribuye a su validez: hay programas que calculan con precisión horóscopos completos, pero la astrología computerizada es tan sinsentido como la manual; algunos problemas pueden ser inviables por equipo humano (caso del pronóstico numérico del tiempo), y ahí el computador puede hacer viable una técnica antes impracticable, pero la validez sigue siendo cuestión de la técnica y de su objeto. La abundancia de cálculo puede disfrazar la pobreza de la técnica: se generan subproblemas computacionales que, por su magnitud, llegan a dominar la tarea y convertirse en el centro de atención; a medida que se avanza en ellos crece la ilusión de que se avanza en el problema principal, mientras la técnica, impotente frente a su objeto pretendido, queda oculta tras el esfuerzo. El computador habilita objetos nuevos (la órbita al espacio exterior, el salvamento de instituciones amenazadas por el crecimiento demográfico) pero también cierra puertas otrora abiertas, sin que sepamos si irreversiblemente.
+
+### Las herramientas como lenguaje de la acción social
+
+Weizenbaum cierra con un paréntesis sobre el lenguaje: las herramientas constituyen un lenguaje para la sociedad que las emplea, un lenguaje de la acción social. La lengua gana su expresividad por tener cada palabra un dominio restringido de significado (no hay herramientas de propósito general, como no hay palabras de propósito general; «like» y «yknow», hipergeneralizados, impoverecen el inglés); inventar herramientas nuevas y originales es tan difícil como inventar palabras nuevas y originales; los nuevos modos de acción habilitados por las nuevas invenciones eliminan a menudo la posibilidad de obrar de los modos viejos. Ejemplos: «inoperative» (el eufemismo con que altos funcionarios designan «mentira» ya no comunica su antiguo sentido), «free», «final solution», «defense», «aggression», desgastados por el uso corrupto; las autopistas permiten viajar entre los centros geográficos que conectan, pero, sinérgicamente con otros factores, encarcelan a los pobres en ciudades interiores; los medios de comunicación masiva dicen haber reducido la tierra a una aldea global y habilitado reuniones nacionales y globales, pero, en contraste con la tradicional reunión de pueblo de Nueva Inglaterra —ejercicio de política participativa—, apenas permiten hablar de vuelta. Los medios, como las autopistas y los automóviles, permiten nuevas formas de acción social pero irreversiblemente invalidan modos anteriormente disponibles.
+
+### El computador como herramienta que también cierra puertas
+
+El computador ayudó a abrir la puerta del espacio exterior y salvó ciertas instituciones amenazadas por el crecimiento demográfico; pero su impacto también ha cerrado ciertas puertas otrora abiertas. Existe el mito de que los computadores hoy toman decisiones otrora humanas; más bien, la gente ha traspasado el procesamiento de la información en que las decisiones se basan a sistemas enormemente complejos, reservándose el derecho formal a decidir. Un sistema computerizado que permite sólo ciertos tipos de preguntas, que acepta sólo ciertos tipos de «datos» y que no puede ser entendido por quienes dependen de él ha cerrado efectivamente muchas puertas que estaban abiertas antes de su instalación. Para entender cómo el computador alcanzó tanta potencia —como actor y como fuerza en la imaginación humana— hay que explicar primero de dónde viene su poder y cómo hace lo que hace: temas de los dos capítulos siguientes.

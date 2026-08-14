@@ -17,7 +17,7 @@ timestamp: 2026-07-02
 
 ## Ver también
 
-[[cristo_último_adán]], [[nuevo_adán]], [[cristo_primicias]], [[resurrección]], [[preexistencia_de_cristo]]
+[[cristo_último_adán]], [[nuevo_adán]], [[cristo_primicias]], [[resurrección]], [[preexistencia_del_verbo]]
 
 ## Referencias
 

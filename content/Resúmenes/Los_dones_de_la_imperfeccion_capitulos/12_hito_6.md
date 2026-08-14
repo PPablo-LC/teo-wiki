@@ -12,31 +12,23 @@ tags: ["resumen", "los dones de la imperfeccion capitulos"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[creatividad]] — expresión de nuestra originalidad: «la única contribución exclusiva que podamos hacer a este mundo nacerá de nuestra creatividad».
+- [[imagen_de_dios]] — afinidad: el ser humano creado a imagen de Dios es creador; la creatividad como participación en la obra creadora.
+- [[autenticidad]] — la creatividad es expresión de la autenticidad; dejar de crear es perder el contacto con el propio yo.
+- [[vergüenza]] — la vergüenza y el miedo al ridículo sofocan la creatividad.
+- [[juego]] — afinidad: el juego es «el núcleo de la creatividad y la innovación» (Stuart Brown).
+- [[dicha]] — mientras creamos, cultivamos el significado que alimenta la dicha.
+- [[comunidad]] — encontrar una comunidad de personas con actitud similar (los Lovebombers) sostiene la práctica creativa.
+- [[vulnerabilidad]] — apuntarse a una clase y exponer lo creado es arriesgarse a ser vulnerable, nuevo e imperfecto.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `12_hito_6.md`
+### Cultivar la creatividad
 
+Brown recuerda sus años de creatividad infantil en Nueva Orleans (artesanías con su madre, guisar sola) y su desaparición tras la mudanza a Houston, cuando sus padres se sumergieron en «la corriente de los logros y las adquisiciones» y la creatividad dio paso a «esa combinación asfixiante de encajar y ser mejor que los demás, también conocida como comparación». La comparación tiene que ver con la conformidad y la competición: queremos ser los mejores dentro del propio grupo; su mandato es la «aplastante paradoja de encajar y destacar» — «ser como todos los demás, pero mejor». «La comparación es el ladrón de la felicidad» (Laura Williams). Brown llegó a repetir «no soy una persona creativa» y a mirar la creatividad con desdén.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+Lo que aprendió de quienes viven de todo corazón: no hay gente creativa y gente no creativa, «solo hay gente que utiliza su creatividad y gente que no la utiliza»; la única contribución exclusiva que podemos hacer al mundo nacerá de nuestra creatividad; y si la vida ha de tener significado, debe incluir arte («cocina, escribe, dibuja... lo que sea; mientras estemos creando, estaremos cultivando el significado»). Un mes después se apuntó a una clase de pintar calabazas y desde entonces no ha dejado de crear (fotografía, películas con Steve). Reconoce que gran parte de su trabajo es creativo: la creatividad como «el poder de conectar lo aparentemente inconexo» (William Plomer). Desechar la comparación exige atención constante; la creatividad, como expresión de la originalidad, «nos ayuda a permanecer conscientes de que lo que aportamos al mundo es completamente original y no puede compararse».
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Hito 6 |
+### Dar más
 
-
-## Secciones incluidas
-
+**Deliberación:** reservar tiempo semanal para crear (hacer y revelar fotografías, rodar películas, manualidades con los niños); cuando crear es una prioridad, la vida funciona mejor. **Inspiración:** los Lovebombers, su comunidad de artistas, escritores y fotógrafos; es importantísimo encontrar y compartir ideas con una comunidad de personas con actitud similar. **Responder activamente:** apuntarse a una clase, «arriésgate a sentirte vulnerable, nuevo e imperfecto»; probar algo que dé miedo o que se haya soñado hacer.

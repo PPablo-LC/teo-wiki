@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "(JESUCRISTO: VERDADERO DIOS, SU AUTORIDAD)"
 fuente: Catequesis sobre Jesus SS Juan Pablo II
 capítulo: 9
-timestamp: 2026-08-03
+timestamp: 2026-08-12
 description: "Resumen de '(JESUCRISTO: VERDADERO DIOS, SU AUTORIDAD)' — Catequesis sobre Jesus SS Juan Pablo II"
 tags: ["resumen", "catequesis sobre jesus ss juan pablo ii"]
 ---
@@ -12,34 +12,57 @@ tags: ["resumen", "catequesis sobre jesus ss juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[jesucristo]] — verdadero Dios y verdadero hombre, Hijo del Padre e Hijo de María
+- [[divinidad_de_cristo]] — Jesús se aplica el nombre de Dios, los atributos divinos y los poderes divinos
+- [[preexistencia_del_verbo]] — el Verbo «salido del Padre», eterno y consubstancial al Padre
+- [[cristo_maestro]] — Jesucristo, Legislador divino que enseña «como quien tiene autoridad»
+- [[perdón_de_los_pecados]] — poder divino que Jesús ejerce y transmite a los Apóstoles
+- [[juicio_final]] — poder de juzgar entregado por el Padre al Hijo
+- [[reino_de_dios]] — instaurado por Jesucristo en la historia de la humanidad
+- [[milagros]] — obras de Jesús que exigen y suscitan la fe
+- [[fe]] — condición de la salvación, adhesión a la divinidad del Hijo
+- [[seguimiento_de_cristo]] — llamada radical a dejar todo, tomar la cruz y seguirle
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `09_jesucristo_verdadero_dios_su_autoridad.md`
+### 26-08-87 Verdadero Dios y verdadero hombre
 
+La catequesis inicia la profundización del misterio del Dios-Hombre, acogido mediante el «*rationabile obsequium fidei*», el obsequio razonable de la fe. Jesús hablaba de sí mismo como «Hijo del hombre» siguiendo una pedagogía de la fe, que culmina en la profesión de Simón Pedro en Cesarea de Filipo: «bienaventurado tú, porque no es la carne ni la sangre quien esto te ha revelado sino mi Padre» (Cfr. Mt 16, 17). La verdad de su filiación divina se manifestó de forma definitiva en el proceso ante el Sanedrín: «Yo soy, y veréis al Hijo del hombre sentado a la diestra del Poder y venir sobre las nubes del cielo» (Mc 14, 61-62); por ello fue acusado de blasfemia, «reo es de muerte» (Mt 26, 65-66; Lev 24, 16). También «Yo y el Padre somos una sola cosa» (Jn 10, 30) y «Antes que Abrahán naciese, era yo» (Jn 8, 58) provocaron la amenaza de lapidación. Cristo se aplica el «YO SOY» con el que Dios se reveló a Moisés (Ex 3, 14), indicando así que es el verdadero Dios, y la catequesis concluye con la profesión de Pedro: «Tú eres el Mesías, el Hijo de Dios vivo» (Mt 16, 16).
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+### 02-09-87 La preexistencia del Verbo
+
+Las afirmaciones de Cristo con la expresión «YO SOY» (Cfr. Ex 3, 14), sobre todo «Antes que Abrahán naciese, YO SOY» (Jn 8, 58), manifiestan su divina preexistencia. La expresión más sintética del misterio de su Persona es: «Salí del Padre y vine al mundo; de nuevo dejo el mundo y me voy al Padre» (Jn 16, 28), completada por textos como «Nadie sube al cielo sino el que bajó del cielo, el Hijo del hombre» (Jn 3, 13) y la oración sacerdotal: «glorifícame... con la gloria que tuve cerca de ti antes que el mundo existiese» (Jn 17, 4-5). La síntesis definitiva está en el Prólogo de Juan: «Al principio era el Verbo, y el Verbo estaba en Dios, y el Verbo era Dios» (Jn 1, 1-5), reflejada por el Concilio de Nicea: el Hijo es «Dios de Dios», de la misma naturaleza que el Padre. El Verbo supera y transciende la Sabiduría del Antiguo Testamento (Cfr. Sir 24, 12-14; Sab 7, 27) y confirma la verdad del Emmanuel, «Dios con nosotros» (Is 7, 14; Mt 1, 23; Jn 1, 14). «El Verbo se hizo carne» tiene un significado soteriológico: «A cuantos lo recibieron, dióles poder de venir a ser hijos de Dios» (Jn 1, 12-13); como dijo San Ireneo, «por su inmenso amor Él se ha hecho lo que nosotros somos, para darnos la posibilidad de ser lo que Él es».
+
+### 09-09-87 Jesucristo Dios, Camino, Verdad y Vida
+
+Jesucristo es verdadero Dios, Dios-Hijo consubstancial al Padre y al Espíritu Santo. El «YO SOY» que se aplica (Cfr. Jn 13, 19) es eco del nombre de Dios (Ex 3, 14) y contiene un significado soteriológico: habla del Dios de la alianza que está con el hombre para salvarlo, el Emmanuel (Is 7, 14). En el Evangelio de Juan el «YO SOY» indica la preexistencia divina del Verbo y reclama el cumplimiento de la profecía del «Dios con nosotros»: «Salí del Padre y vine al mundo» (Jn 16, 28), «a buscar y salvar lo que estaba perdido» (Lc 19, 10). Jesús proclama «Yo soy el camino, la verdad y la vida» (Jn 14, 6): «ser la verdad» es atributo exclusivamente divino (Cfr. Jn 18, 37; Jn 8, 12), y «Yo soy la resurrección y la vida» (Jn 11, 25), el «pan de vida» (Cfr. Jn 6, 35-48.51) y la vid que vivifica los sarmientos (Cfr. Jn 15, 1). También se atribuye las imágenes veterotestamentarias del Buen Pastor (Jn 10, 11; Cfr. Ez 34, 11-31) y del Esposo de Israel (Cfr. Is 54, 5; Os 2, 21-22), que San Pablo aplicará a Cristo y su Iglesia (Cfr. Ef 5, 25-29).
+
+### 30-09-87 Jesucristo, Dios y Hombre, juez del mundo
+
+San Pedro proclama que Cristo «por Dios ha sido instituido juez de vivos y muertos» (Hech 10, 42). El texto del juicio final de Mateo describe al Hijo del hombre sentado en su trono de gloria separando a las ovejas de los cabritos, con la sentencia de aprobación y la de condena (Mt 25, 31-32.34.41). Jesús explica: «El Padre no juzga a nadie, sino que ha entregado al Hijo todo su poder de juzgar» (Jn 5, 22-23), y vincula este poder a la facultad de dar la vida (Jn 5, 21.26-27); el orden de la justicia está inscrito desde el principio en el orden de la gracia, y la medida del juicio será la colaboración o el rechazo del don recibido (parábola de los talentos, Mt 25, 14-30). Según Mateo 25, 35-45, se será juzgado sobre todo por el amor, identificándose Cristo con el prójimo: «Cuantas veces hicisteis eso a uno de estos mis hermanos menores, a mí me lo hicisteis» (Mt 25, 40); pero también por la fe: «A quien me confesare delante de los hombres, el Hijo del hombre le confesará delante de los ángeles de Dios» (Lc 12, 8). Cristo es ante todo Salvador: «Dios no ha enviado a su Hijo al mundo para que juzgue al mundo, sino para que el mundo sea salvado por Él» (Jn 3, 17), pues «el juicio consiste en que vino la luz al mundo, y los hombres amaron más las tinieblas que la luz» (Jn 3, 19); el que no cree «ya está juzgado» (Jn 3, 18). El juicio que el Padre confía a Cristo no es fría justicia ni venganza, sino «el último anillo del amor de Dios»: Dios juzga porque ama y en vistas al amor, según la medida del amor del Padre y de nuestra libertad.
+
+### 07-10-87 El poder de Cristo de perdonar los pecados
+
+El primer momento de realización de la salvación es el perdón de los pecados, poder que pertenece sólo a Dios; si el Hijo del hombre lo tiene, es que es Dios: «Yo y el Padre somos una sola cosa» (Jn 10, 30). Jesús afirma sin vacilación: «El Hijo del hombre tiene poder en la tierra para perdonar los pecados» (Cfr. Mc 2, 10), y ante los escribas de Cafarnaum confirma el perdón con la curación del paralítico: «levántate, toma tu camilla y vete» (Cfr. Mc 2, 5-12). El escándalo acompaña siempre a este poder: la pecadora —«¿Quién es éste para perdonar los pecados?» (Lc 7, 49)— y la mujer adúltera, a quien Jesús dice: «Ni yo tampoco te condeno; vete y no peques más» (Jn 8, 10-11). La parábola de los dos deudores enseña que «le son perdonados sus muchos pecados, porque amó mucho» (Cfr. Lc 7, 41-47), y el Padrenuestro incluye la petición «Perdónanos nuestras deudas» (Mt 6, 12). Tras la resurrección Jesús confía a los Apóstoles el «ministerio» del perdón: «a quienes perdonaréis los pecados les serán perdonados» (Jn 20, 22-23). En comunión trinitaria y unión hipostática, Cristo perdona por propio poder, expía nuestros pecados con su muerte y confiere a los Apóstoles el poder de perdonarlos, en la infinita misericordia del Padre «rico en misericordia» (Ef 2, 4).
+
+### 14-10-87 Jesucristo, Legislador divino
+
+La gente «se maravillaba de su doctrina, pues les enseñaba como quien tiene autoridad y no como los escribas» (Mc 1, 22; Mt 7, 29; Lc 4, 32): Jesús no es un comentador de la Ley mosaica sino un Legislador que actúa como «igual a Dios» (Cfr. Flp 2, 6). No abroga la Ley: «No penséis que he venido abrogar la ley o los Profetas; no he venido a abrogarla, sino a consumarla» (Mt 5, 17); «ni una jota ni una tilde pasará de la Ley hasta que todo se cumpla» (Mt 5, 18). En el sermón de la montaña reclama una «justicia» superior a la de los escribas y fariseos: la victoria sobre la ira y el deber de reconciliarse (Mt 5, 21-24), la condena de los deseos impuros (Mt 5, 27-29), la restauración de la indisolubilidad del matrimonio frente al repudio (Cfr. Mt 19, 8-9), la prohibición de jurar (Mt 5, 33-38), la exclusión de la Ley del talión (Mt 5, 38-42) y, sobre todo, el amor a los enemigos: «Amad a vuestros enemigos y orad por los que os persiguen... Sed... perfectos como perfecto es vuestro Padre celestial» (Mt 5, 43-48). El «Pero yo os digo» repetido seis veces resuena como eco del «Yo soy» divino (Cfr. Jn 8, 58); Jesús se proclama «más grande que el templo» y «señor del sábado» (Mt 12, 6.8; Cfr. Mc 2, 27-28), y concluye: «El cielo y la tierra pasarán, pero mis palabras no pasarán» (Mt 24, 35).
+
+### 21-10-87 Necesidad de creer en la divinidad del Hijo
+
+Jesús afirma abiertamente «Yo y el Padre somos una misma cosa» (Jn 10, 30) y pide fe en su divinidad: «Creed en Dios, creed también en mí» (Jn 14, 1). En el discurso de la última Cena, a Tomás le responde que Él es «el camino, la verdad y la vida» (Jn 14, 6), y a Felipe: «El que me ha visto a mí, ha visto al Padre... Creedme, que yo estoy en el Padre y el Padre en mí» (Jn 14, 9-11). Cristo se identifica con Dios como objeto de la fe: «El que cree en mí, no cree en mí, sino en el que me ha enviado» (Jn 12, 44). La fe es condición de su acción salvífica: el padre del epiléptico confiesa «¡Creo! Ayuda a mi incredulidad» (Mc 9, 22-23), mientras que en Nazaret Jesús «se admiraba de su incredulidad» (Mc 6, 4-6) y enseña que «si tuvierais fe como un grano de mostaza... nada os sería imposible» (Mt 17, 19-20). La fe culmina en los actos de fe del ciego de nacimiento (Jn 9, 35-38) y de Marta ante el sepulcro de Lázaro (Jn 11, 23-27). En el coloquio con Nicodemo, la fe en el Hijo es condición constitutiva de la salvación: «tanto amó Dios al mundo, que le dio a su unigénito Hijo, para que todo el que crea en él no perezca, sino que tenga la vida eterna» (Jn 3, 15-16). Tomás, superada la prueba pascual, prorrumpe: «¡Señor mío y Dios mío!» (Jn 20, 28), y Jesús proclama bienaventurados «los que sin ver creyeron» (Jn 20, 29); «éstas fueron escritas para que creáis que Jesús es el Mesías, Hijo de Dios, y para que creyendo tengáis vida en su nombre» (Jn 20, 30-31).
+
+### 28-10-87 Exigencias del seguimiento de Cristo
+
+La fe que Jesús exige se refiere a una realidad invisible, «*argumentum non apparentium*», prueba de las cosas que no se ven (Heb 11, 1), que se identifica con el Bien infinito de Dios, Amor eterno. Por eso junto a la interpelación de la fe Jesús coloca el mandamiento del amor a Dios sobre todas las cosas (Mt 22, 37; Cfr. Dt 6, 5): sólo Dios «es bueno» en sentido absoluto (Cfr. Mc 10, 18) y «es amor» (1 Jn 4, 16). Jesús llama a seguirle personalmente: «Sígueme y deja a los muertos sepultar a sus muertos» (Mt 8, 21-22), vocación que aceptan Mateo (Mt 9, 9) y los Apóstoles, aunque el joven rico «se fue triste, porque tenía muchos bienes» (Mt 19, 22). Pedro y los Apóstoles lo dejan todo: «nosotros lo hemos dejado todo y te hemos seguido» (Mt 19, 27), y Jesús promete «mucho más en este siglo, y la vida eterna en el venidero» (Lc 18, 29-30; Cfr. Mc 10, 29-30). La exigencia es radical: «El que ama al padre o a la madre más que a mí, no es digno de mí; y el que no toma su cruz y sigue en pos de mí, no es digno de mí» (Mt 10, 37-38; Cfr. Lc 14, 26); según Santo Tomás, los consejos evangélicos comprometen a todos «*secundum praeparationem animi*» (S.Th. II-II q. 184, a. 7, ad 1). Jesús no esconde que el seguimiento requiere sacrificio: «El que quiera venir en pos de mí, niéguese a sí mismo, tome su cruz y sígame» (Mt 16, 24-25), y proclama la bienaventuranza de los perseguidos «por amor del Hijo del hombre» (Lc 6, 22; Mt 5, 12). Sólo quien tenía la conciencia de ser Hijo de Dios podía hablar así, y por eso repetimos con Tomás: «Señor mío y Dios mío».
+
+### 04-11-87 Instauración del Reino de Dios por Jesucristo
+
+Tras recorrer los signos evangélicos de su divinidad, la catequesis afirma que Jesucristo se ha revelado como Aquel que instaura el reino de Dios en la historia de la humanidad. El terreno estaba preparado en el Antiguo Testamento: «Tu reino es reino de todos los siglos, y tu señorío de generación en generación» (Sal 144/145, 13), y el reino de Daniel que «no será destruido jamás» (Cfr. 2, 44). Jesús proclama desde el comienzo de su misión: «Cumplido es el tiempo, y el reino de Dios está cercano» (Mc 1, 15), un reino que comienza a realizarse ya en la tierra y «está presente en su misma persona». Cristo no sólo lo adoctrina sino que lo instaura, y al final de su misión declara: «Me ha sido dado todo poder en el cielo y en la tierra», enviando a enseñar a todas las gentes (Mt 28, 18-20). En el conflicto con los adversarios afirma: «Si expulso a los demonios por el dedo de Dios, sin duda que el reino de Dios ha llegado a vosotros» (Lc 11, 20). La preparación incluye la vocación de los Doce (Mc 3, 14-15) y el poder de las llaves dado a Pedro: «tú eres Pedro, y sobre esta piedra edificaré yo mi Iglesia... Yo te daré las llaves del reino de los cielos» (Mt 16, 18-19). La instauración del reino se transmite a los Apóstoles (Lc 22, 29; Jn 17, 18), unida al poder de perdonar los pecados (Jn 20, 21-23) y al misterio pascual; Jesús advierte: «Os envío como ovejas en medio de lobos» (Mt 10, 16), pero su reino no será vencido: *et portae inferi non praevalebunt*, como enseña el Concilio Vaticano II (Lumen Gentium, 39).
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H2 | (JESUCRISTO: VERDADERO DIOS, SU AUTORIDAD) |
-
-
-## Secciones incluidas
-
-# (JESUCRISTO: VERDADERO DIOS, SU AUTORIDAD)
-
-[Contenido de esta sección...]

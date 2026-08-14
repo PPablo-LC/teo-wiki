@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "(JESUCRISTO: UNGIDO POR EL ESPÍRITU SANTO)"
 fuente: Catequesis sobre Jesus SS Juan Pablo II
 capítulo: 7
-timestamp: 2026-08-03
+timestamp: 2026-08-12
 description: "Resumen de '(JESUCRISTO: UNGIDO POR EL ESPÍRITU SANTO)' — Catequesis sobre Jesus SS Juan Pablo II"
 tags: ["resumen", "catequesis sobre jesus ss juan pablo ii"]
 ---
@@ -12,34 +12,30 @@ tags: ["resumen", "catequesis sobre jesus ss juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[jesucristo]] — el tema central del archivo: Jesucristo, el Mesías ungido por el Espíritu Santo, que trae el Espíritu y revela la Trinidad.
+- [[mesías]] — «Mesías» significa «consagrado con unción»: el que viene de la potencia del Espíritu del Señor (Lc 4, 18-19; Is 61, 1-2).
+- [[espíritu_santo]] — el Espíritu en cuya potencia Jesús cumple su misión mesiánica, que le es dado «sin medida» y que Él trae a los discípulos y a la Iglesia.
+- [[filiación_divina]] — Jesús, «constituido Hijo de Dios, poderoso según el Espíritu de Santidad» por la resurrección (Rom 1, 4); la Encarnación como fundamento de nuestra filiación divina.
+- [[trinidad]] — Jesucristo revela el misterio del Dios único en la Santísima Trinidad: Padre, Hijo y Espíritu Santo.
+- [[encarnación]] — el Hijo de Dios se hace hombre por obra del Espíritu Santo en el seno de la Virgen María; la Encarnación es obra de Dios Uno y Trino.
+- [[voluntad_de_dios]] — el Espíritu, junto al Hijo, lleva a cabo en los hombres la voluntad del Padre (San Ireneo).
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `07_jesucristo_ungido_por_el_espíritu_santo.md`
+### 05-08-87 Jesucristo, el Mesías ungido por el Espíritu Santo
 
+«Salí del Padre y vine al mundo; de nuevo dejo el mundo y me voy al Padre» (Jn 16, 28): Jesucristo tiene el conocimiento de su origen del Padre, y su misión (missio), radicada en su origen eterno de Hijo de la misma naturaleza que el Padre, se lleva a cabo como hombre «en la potencia del Espíritu Santo». En Nazaret, Jesús aplica a sí mismo las palabras de Isaías: «El Espíritu del Señor está sobre mí, porque me ungió para evangelizar a los pobres…» (Lc 4, 17-21; Is 61, 1-2); «Mesías» significa «consagrado con unción», el que viene de la potencia del Espíritu del Señor. El bautismo en el Jordán confirma esta verdad: el Bautista vio al Espíritu descender como paloma y posarse sobre Jesús y da testimonio: «éste es el Hijo de Dios» (Jn 1, 32-34; cfr. Mc 1, 8); también la concepción virginal del Hijo de Dios en María se cumple por obra del Espíritu Santo (Lc 1, 34-35). Tras el bautismo, «el Espíritu le empujó hacia el desierto» (Mc 1, 12; Lc 4, 1-14), donde Jesús obtiene la primera victoria mesiánica sobre el espíritu de las tinieblas; en su actividad pública arroja los demonios «con el Espíritu de Dios» (Mt 12, 28), y sus discípulos recuerdan que Dios «ungió» a Jesús de Nazaret «con el Espíritu Santo y con poder» (Hech 10, 38; cfr. Is 42, 1; Mt 12, 18). Este poder se manifestó hasta el final en el sacrificio redentor y en la resurrección: Jesús se ofrece al Padre mediante el Espíritu como víctima inmaculada (Heb 9, 14), el mismo Espíritu «resucitó a Cristo Jesús de entre los muertos» (Rom 8, 11) y por esa resurrección fue revelado «constituido Hijo de Dios, poderoso según el Espíritu de Santidad» (Rom 1, 4). Hoy, gracias al Espíritu Santo, la divinidad del Hijo resplandece ante el mundo: «nadie puede decir: Jesús es el Señor, sino en el Espíritu Santo» (1 Cor 12, 3).
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+### 12-08-87 Jesucristo trae al Espíritu Santo
+
+Jesucristo, el Hijo de Dios mandado por el Padre, llega a ser hombre por obra del Espíritu Santo en el seno de María y cumple su misión mesiánica en la fuerza del Espíritu; San Ireneo escribe que el Espíritu Santo, descendiendo sobre el Hijo de Dios hecho Hijo del hombre, «se habituaba junto a Él a habitar en el género humano» (Adv. haer. III, 17, 1). Jesús anuncia la venida del Espíritu con la metáfora del agua viva: «Si alguno tiene sed, venga a mí y beba… ríos de agua viva manarán de sus entrañas» (Jn 7, 37-39), que los discípulos recibirán cuando Jesús sea «glorificado» —por la cruz y la resurrección—, pues «el espíritu es el que da la vida» (Jn 6, 63). En el discurso del Cenáculo promete el Paráclito: «yo rogaré al Padre y os dará otro Abogado… el Espíritu de verdad» (Jn 14, 16-17; 14, 26; 15, 26; 16, 7-8); su partida por la cruz y la resurrección es la causa de la venida del Espíritu, que el Padre enviará «en nombre del Hijo» (Jn 15, 26; cfr. la Encíclica «Dominum et Vivificantem»). Jesús cumplió la promesa el día de la resurrección: «sopló y les dijo: ¡Recibid el Espíritu Santo; a quien perdonareis los pecados, les serán perdonados!» (Jn 20, 22-23), mostrándoles las manos y el costado (Jn 20, 20); junto con el Espíritu que da la vida, los Apóstoles reciben el poder de perdonar los pecados, y en Pentecostés el Espíritu desciende de forma definitiva y nace la Iglesia: «seréis mis testigos… hasta el extremo de la tierra» (Hech 1, 8; 2, 33). Jesucristo, que «va al Padre», «da» a sus discípulos y manda sobre la Iglesia el mismo Espíritu en cuya potencia actuaba como hombre; el Espíritu que «procede del Padre» (Jn 15, 26) es al mismo tiempo «el Espíritu de su Hijo» (Gal 4, 6). Dios ha dado a Cristo el Espíritu «sin medida» (Jn 3, 34): los profetas lo recibieron «con medida» y profetizaban «parcialmente», mientras que Cristo, según Santo Tomás, lo tiene «sin medida» —como Dios, en cuanto que el Padre le da el espirar el Espíritu mediante la generación eterna, y como hombre, en cuanto que la plenitud de la gracia lo colmó para efundirlo en todo creyente (Super Evang. S. Ioannis, c. III, nn. 541-544)—; «de su plenitud todos hemos recibido» (Jn 1, 16) y Cristo es el «último Adán» convertido en «Espíritu vivificante» (1 Cor 15, 45).
+
+### 19-08-87 Jesucristo revela la Trinidad
+
+Las catequesis sobre Jesucristo encuentran su núcleo en la verdad fundamental que nace de la Revelación: Jesucristo, hombre nacido de la Virgen María, es el Hijo de Dios; testimonio que constituye la base del Magisterio solemne de la Iglesia en los Concilios, reflejada en los símbolos de la fe —ante todo en el niceno-constantinopolitano—, en la liturgia y en la vida espiritual. Esta verdad es el punto clave de la autorrevelación de Dios mediante el cual se desvela el misterio de un Dios único en la Santísima Trinidad: cuando Dios «últimamente en estos días, nos habló por su Hijo» (Heb 1, 2) desveló la realidad de su vida íntima, pues solo el Hijo, «que está en el seno del Padre, ése le ha dado a conocer» (Jn 1, 18), mientras el Antiguo Testamento, cuando Dios habló por los profetas (Heb 1, 1), no conocía este misterio. El misterio trinitario está ya presente en la anunciación —el hijo que nacerá de la Virgen es el Hijo del Altísimo, por obra del Espíritu Santo (Lc 1, 35)— y en la teofanía del bautismo en el Jordán, donde el Padre da testimonio del Hijo «predilecto» y el Espíritu baja sobre Jesús en forma de paloma (Mt 3, 16). Jesús introduce a sus oyentes en el misterio con la «gozosa declaración» (Mt 11, 25-27; Lc 10, 21-22), pronunciada «inundado de gozo en el Espíritu Santo» (Lc 10, 21), y con la aserción «Yo y el Padre somos una sola cosa» (Jn 10, 30), desarrollada en la oración sacerdotal (Jn 17) y en el discurso del Cenáculo. En la óptica de su partida, Jesús revela el Espíritu: «el Espíritu de verdad, que procede del Padre» (Jn 15, 26), que el Padre enviará «en mi nombre» (Jn 14, 26) después de que Él se haya ido (Jn 16, 7); por obra de este Espíritu, que «escudriña las profundidades de Dios» (1 Cor 2, 10), se clarifica la unidad del Padre y del Hijo: «En aquel día vosotros sabréis que yo estoy en el Padre» (Jn 14, 20). La Encarnación, aunque hace referencia directamente al Hijo, es «obra» de Dios Uno y Trino (Concilio Lateranense IV), como testimonia la anunciación, y es fundamento de nuestra filiación divina por medio de Cristo y base del misterio de la Iglesia como cuerpo de Cristo; Jesús abrió «perspectivas cerradas a la razón humana» (Gaudium et Spes, 24) y, al dejar definitivamente a los Apóstoles, entregó a la Iglesia la verdad suprema de su revelación: «Id, pues; enseñad a todas las gentes, bautizándolas en el nombre del Padre, y del Hijo, y del Espíritu Santo» (Mt 28, 19).
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H2 | (JESUCRISTO: UNGIDO POR EL ESPÍRITU SANTO) |
-
-
-## Secciones incluidas
-
-# (JESUCRISTO: UNGIDO POR EL ESPÍRITU SANTO)
-
-[Contenido de esta sección...]

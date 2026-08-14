@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "CRISTOLOGÍA −4-"
 fuente: Catequesis sobre Jesus SS Juan Pablo II
 capítulo: 8
-timestamp: 2026-08-03
+timestamp: 2026-08-12
 description: "Resumen de 'CRISTOLOGÍA −4-' — Catequesis sobre Jesus SS Juan Pablo II"
 tags: ["resumen", "catequesis sobre jesus ss juan pablo ii"]
 ---
@@ -12,34 +12,8 @@ tags: ["resumen", "catequesis sobre jesus ss juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[cristología]] — sección del ciclo de catequesis sobre Jesucristo
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `08_cristología_4.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | CRISTOLOGÍA −4- |
-
-
-## Secciones incluidas
-
-# CRISTOLOGÍA −4-
-
-[Contenido de esta sección...]
+Portadilla divisoria de la cuarta parte del ciclo de cristología de las catequesis de Juan Pablo II, titulada «CRISTOLOGÍA −4-». Introduce el bloque de catequesis dedicado a Jesucristo verdadero Dios y a su autoridad (julio-agosto de 1987), que comienza en el archivo siguiente con «Jesucristo: verdadero Dios, su autoridad».

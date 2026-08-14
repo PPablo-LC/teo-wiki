@@ -45,11 +45,11 @@ El Prólogo del cuarto Evangelio contiene la síntesis más plena: «Al principi
 
 ## Relaciones doctrinales
 
-Se relaciona con [[divinidad_de_cristo]], [[humanidad_de_cristo]], [[unión_hipostática]], [[hijo_de_dios]], [[yo_soy]], [[preexistencia_de_cristo]], [[encarnación]], [[cristología]], [[concilio_de_calcedonia]].
+Se relaciona con [[divinidad_de_cristo]], [[humanidad_de_cristo]], [[unión_hipostática]], [[hijo_de_dios]], [[yo_soy]], [[preexistencia_del_verbo]], [[encarnación]], [[cristología]], [[concilio_de_calcedonia]].
 
 ## Ver también
 
-[[divinidad_de_cristo]], [[humanidad_de_cristo]], [[unión_hipostática]], [[hijo_de_dios]], [[yo_soy]], [[preexistencia_de_cristo]], [[encarnación]]
+[[divinidad_de_cristo]], [[humanidad_de_cristo]], [[unión_hipostática]], [[hijo_de_dios]], [[yo_soy]], [[preexistencia_del_verbo]], [[encarnación]]
 
 ## Referencias
 

@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "CATEQUESIS SOBRE JESUCRISTO"
 fuente: Catequesis sobre Jesus SS Juan Pablo II
 capítulo: 1
-timestamp: 2026-08-03
+timestamp: 2026-08-12
 description: "Resumen de 'CATEQUESIS SOBRE JESUCRISTO' — Catequesis sobre Jesus SS Juan Pablo II"
 tags: ["resumen", "catequesis sobre jesus ss juan pablo ii"]
 ---
@@ -12,31 +12,17 @@ tags: ["resumen", "catequesis sobre jesus ss juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[jesucristo]] — el tema de la obra: las catequesis sobre Jesucristo de San Juan Pablo II, anunciadas ya desde la portada.
+- [[juan_pablo_ii]] — autor de la obra, San Juan Pablo II.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `01_catequesis_sobre_jesucristo.md`
+Portadilla de la obra **CATEQUESIS SOBRE JESUCRISTO**, firmada por **Autor: San Juan Pablo II** y perteneciente a la **Colección**: https://www.ebookscatolicos.com.
 
+Esta primera página es solo la portada del libro: identifica la obra, su autor y la colección de procedencia, sin contenido doctrinal. El ciclo catequético se desarrolla a partir del archivo siguiente (02), que presenta el índice general de las catequesis celebradas entre el **07-01-87** y el **19-04-89**.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H1 | CATEQUESIS SOBRE JESUCRISTO |
-
-
-## Secciones incluidas
-

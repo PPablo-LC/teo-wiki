@@ -41,11 +41,11 @@ Jesús mismo, al decir «Antes que Abrahán naciese, YO SOY» (Jn 8,58) y «Sal�
 
 ## Relaciones doctrinales
 
-Se relaciona con [[prólogo_joánico]], [[preexistencia_de_cristo]], [[divinidad_de_cristo]], [[sabiduría_divina]], [[encarnación]], [[unión_hipostática]], [[trinidad]], [[consubstancialidad]].
+Se relaciona con [[prólogo_joánico]], [[preexistencia_del_verbo]], [[divinidad_de_cristo]], [[sabiduría_divina]], [[encarnación]], [[unión_hipostática]], [[trinidad]], [[consubstancialidad]].
 
 ## Ver también
 
-[[prólogo_joánico]], [[preexistencia_de_cristo]], [[sabiduría_divina]], [[logos]], [[verbo_encarnado]]
+[[prólogo_joánico]], [[preexistencia_del_verbo]], [[sabiduría_divina]], [[logos]], [[verbo_encarnado]]
 
 ## Referencias
 

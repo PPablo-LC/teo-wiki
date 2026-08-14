@@ -129,6 +129,37 @@ Van Lommel se sitúa en la tradición de una "ciencia inclusiva" (siguiendo a Ab
 
 En resumen: una obra valiosa para el diálogo ciencia-fe, con datos empíricos significativos y una crítica legítima al materialismo, pero que requiere una interpretación teológica cuidadosa para evitar lecturas dualistas, universalistas o deísta incompatibles con la doctrina católica.
 
+## Resúmenes
+
+Los resúmenes estructurados de la obra están en `wiki/Resúmenes/Consciousness_Beyond_Life_The_Science_of_the_Near-Death_--_Pim_van_Lommel_--_2011/`, con un archivo por sección:
+
+| # | Archivo | Contenido |
+|---|---------|-----------|
+| 01 | [[01_introduction]] | Introducción |
+| 02 | [[02_chapter_one_a_neardeath_experience_and_its_impact_on_life]] | Cap. 1 — Una ECM y su impacto en la vida |
+| 03 | [[03_chapter_two_what_is_a_neardeath_experience]] | Cap. 2 — Qué es una ECM |
+| 04 | [[04_chapter_three_changed_by_a_neardeath_experience]] | Cap. 3 — Transformados por una ECM |
+| 05 | [[05_chapter_four_neardeath_experiences_in_childhood]] | Cap. 4 — ECM en la infancia |
+| 06 | [[06_chapter_five_there_is_nothing_new_under_the_sun]] | Cap. 5 — No hay nada nuevo bajo el sol |
+| 07 | [[07_chapter_six_research_into_neardeath_experiences]] | Cap. 6 — Investigación de las ECM |
+| 08 | [[08_chapter_seven_the_dutch_study_of_neardeath_experience]] | Cap. 7 — El estudio holandés de la ECM |
+| 09 | [[09_chapter_eight_what_happens_in_the_brain_when_the_heart_suddenly_stops]] | Cap. 8 — Qué ocurre en el cerebro al pararse el corazón |
+| 10 | [[10_chapter_nine_what_do_we_know_about_brain_function]] | Cap. 9 — Qué sabemos de la función cerebral |
+| 11 | [[11_chapter_ten_a_comprehensive_nde_monique_hennequin]] | Cap. 10 — La ECM integral de Monique Hennequin |
+| 12 | [[12_chapter_eleven_quantum_physics_and_consciousness]] | Cap. 11 — Física cuántica y conciencia |
+| 13 | [[13_chapter_twelve_the_brain_and_consciousness]] | Cap. 12 — El cerebro y la conciencia |
+| 14 | [[14_chapter_thirteen_the_continuity_of_the_changing_body]] | Cap. 13 — La continuidad del cuerpo cambiante |
+| 15 | [[15_chapter_fourteen_endless_consciousness]] | Cap. 14 — La conciencia interminable |
+| 16 | [[16_chapter_fifteen_some_implications_of_nde_studies]] | Cap. 15 — Algunas implicaciones de los estudios de ECM |
+| 17 | [[17_chapter_sixteen_epilogue]] | Cap. 16 — Epílogo |
+| 18 | [[18_appendix_the_practical_significance_of_nde_in_health_care]] | Apéndice — La importancia práctica de la ECM en la sanidad |
+| 19 | [[19_notes]] | Notas |
+| 20 | [[20_glossary]] | Glosario |
+| 21 | [[21_bibliography]] | Bibliografía |
+| 22 | [[22_searchable_terms]] | Términos buscables |
+| 23 | [[23_acknowledgments]] | Agradecimientos |
+| 24 | [[24_about_the_author]] | Sobre el autor |
+
 ## Ver también
 
 [[la_biblia_del_ateo_joan_konner]], [[inmortalidad_del_alma]], [[unidad_alma_cuerpo]], [[vida_eterna]], [[juicio_final]]

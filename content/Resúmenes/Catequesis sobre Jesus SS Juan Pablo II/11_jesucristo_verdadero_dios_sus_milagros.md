@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "(JESUCRISTO: VERDADERO DIOS -SUS MILAGROS)"
 fuente: Catequesis sobre Jesus SS Juan Pablo II
 capítulo: 11
-timestamp: 2026-08-03
+timestamp: 2026-08-12
 description: "Resumen de '(JESUCRISTO: VERDADERO DIOS -SUS MILAGROS)' — Catequesis sobre Jesus SS Juan Pablo II"
 tags: ["resumen", "catequesis sobre jesus ss juan pablo ii"]
 ---
@@ -12,34 +12,42 @@ tags: ["resumen", "catequesis sobre jesus ss juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[jesucristo]] — Hijo del hombre / Hijo de Dios, que obra los milagros en nombre propio
+- [[divinidad_de_cristo]] — los milagros, manifestación de su poder divino
+- [[milagros]] — «milagros, prodigios y señales» como signos del poder salvífico de Cristo
+- [[reino_de_dios]] — los milagros, signos de la irrupción del reino en la historia
+- [[fe]] — condición y efecto del milagro: el milagro, llamada a la fe
+- [[perdón_de_los_pecados]] — el milagro del paralítico, signo del poder de perdonar los pecados
+- [[sobrenatural]] — los milagros demuestran la existencia del orden sobrenatural
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `11_jesucristo_verdadero_dios_sus_milagros.md`
+### 18-11-87 El milagro, manifestación del poder divino de Cristo
 
+Observando los «milagros, prodigios y señales» con que Dios acreditó la misión de Cristo (Cfr. Hech 2, 22), se constata que Jesús obra en nombre propio, convencido de su poder divino y en íntima unión con el Padre. De sus palabras brota una voluntad y un poder que corresponden a Dios: al leproso —«Quiero, sé limpio» (Cfr. Mc 1, 40-42)—, al paralítico —«levántate, toma tu camilla y vete» (Cfr. Mc 2, 11-12)—, a la hija de Jairo —«Talitha qumi... Niña, a ti te lo digo, levántate» (Mc 5, 41-42)— y al joven de Naín —«Joven, a ti te hablo, levántate» (Lc 7, 14-15)—. La resurrección de Lázaro (Jn 11, 41-44) confirma las palabras «Mi Padre sigue obrando todavía, y por eso obro yo también» (Jn 5, 17). El poder divino se extiende a las fuerzas de la naturaleza: la tempestad calmada —«Calla, enmudece... ¿Quién será éste, que hasta el viento y el mar le obedecen?» (Cfr. Mc 4, 37-41)—, las pescas milagrosas (Cfr. Lc 5, 4-8; Jn 21, 3-6) y el primer signo de Caná (Cfr. Jn 2, 7-9). Los Apóstoles, conmovidos ante el misterio divino, exclaman: «Señor, apártate de mí, que soy un pecador» (Lc 5, 8). Tras la ascensión, los «prodigios y señales» se realizan por los Apóstoles no en nombre propio sino en el nombre de Jesucristo: «en nombre de Jesucristo Nazareno, anda» (Hech 3, 6-7; Cfr. Hech 2, 43; 5, 15; 9, 34), y San Pablo atribuye su ministerio a «milagros y prodigios y el poder del Espíritu Santo» (Rom 15, 17-19). Estas señales, repetidas en la historia de la salvación desde el Éxodo hasta hoy, dibujan el rostro del «Hijo del hombre/Hijo de Dios».
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+### 25-11-87 Significado salvífico de los milagros
+
+Un texto de San Agustín ofrece la clave interpretativa: «El haberse hecho hombre por nosotros ha contribuido más a nuestra salvación que los milagros que ha realizado en medio de nosotros» (In Io. Ev. Tr., 17, 1): Cristo realiza también milagros corporales para manifestar su poder de salvar el alma inmortal. La curación del paralítico de Cafarnaum lo revela: «¡Hijo, tus pecados te son perdonados!» (Cfr. Mc 2, 1-12), y Jesús explica que la curación es signo del poder salvífico por el que Él perdona los pecados, liberando al hombre del mal espiritual. Con la misma clave se explican las expulsiones de demonios: «Sal, espíritu inmundo, de ese hombre» (Mc 5, 8); el espíritu inmundo admite, contra su voluntad, «Hijo del Dios Altísimo» y se llama «Legión» (Cfr. Mc 5, 7-9), y Jesús cura al epiléptico ordenando al «espíritu mudo y sordo»: «Sal de él y no vuelvas a entrar más en él» (Cfr. Mc 9, 17-27). Jesús declara el sentido de su obra: «Veía yo a Satanás caer del cielo como un rayo» (Lc 10, 18-19), y confiere a los Doce «poder de expulsar a los demonios» (Mc 3, 14-15; Cfr. Lc 10, 17). El nombre de Jesús significa Salvador, y esta potencia salvífica alcanza su cumplimiento definitivo en el sacrificio de la cruz, la «potencia de la cruz», que vence en la debilidad. Forma parte de esta misión la victoria sobre la muerte, consecuencia del pecado: «los muertos resucitan» (Mt 11, 5); la resurrección de Lázaro es «preludio» de la cruz, en la que Caifás profetiza que «conviene que muera un hombre por todo el pueblo» (Jn 11, 49-52), y Jesús dice a Marta: «Yo soy la resurrección y la vida; el que cree en mí, aunque muera vivirá» (Jn 11, 25-26). Todos los milagros están en función de revelar a Cristo como Mesías e Hijo de Dios, único Salvador del mundo.
+
+### 02-12-87 Los milagros, signos de salvación (2.XII.87)
+
+Los milagros de Cristo son presentados como signos del reino de Dios que ha irrumpido en la historia: «Mas si yo arrojo a los demonios con el Espíritu de Dios, entonces es que ha llegado a vosotros el reino de Dios» (Mt 12, 28). Los primeros cristianos oyeron narrar estos hechos de labios de testigos oculares, y de las fuentes genuinas emerge la certeza de que veían en cada milagro el supremo poder de Cristo sobre la naturaleza, revelándose como Hijo consubstancial al Padre. Algunos milagros presentan aspectos complementarios: Caná de Galilea «manifestó su gloria y creyeron en Él sus discípulos» (Jn 2, 11), y por celebrarse en unas bodas evoca la imagen del matrimonio y del banquete del reino (Cfr. Mt 22, 2), anuncio simbólico de la «hora» de Jesús. La multiplicación de los panes prepara el discurso de Cafarnaum sobre el Pan que «da la vida al mundo» (Cfr. Jn 6, 29.33.51), preanuncio de la Eucaristía. La tempestad calmada es «señal» de la presencia constante de Cristo en la «barca» de la Iglesia: «¿Por qué sois tan tímidos? ¿Aún no tenéis fe?» (Mc 4, 40); y caminar sobre las aguas, con el «Soy yo, no temáis» (Cfr. Mc 6, 49-50), la amonestación a Pedro —«Hombre de poca fe, ¿por qué has dudado?» (Mt 14, 31)— y la confesión «Verdaderamente, tú eres Hijo de Dios» (Mt 14, 33). Las pescas milagrosas son señales de la fecundidad de la misión: «No temas, en adelante vas a ser pescador de hombres» (Lc 5, 10) y «Apacienta mis corderos, apacienta mis ovejas» (Cfr. Jn 21, 15-17). Los milagros preparan a los hombres para acoger la salvación: «¿Quién será éste, que hasta el viento y el mar le obedecen?» (Mc 4, 41), y la historia continúa con los obrados «en nombre de Jesús Nazareno» (Hech 3, 6).
+
+### 09-12-87 Los milagros, signos del amor
+
+Los milagros de Cristo son también revelación del amor misericordioso de Dios hacia el hombre que sufre (Cfr. Encíclica *Dives in misericordia*): nacen del corazón amoroso de Jesús, que los realiza para superar todo mal, el físico, el moral —el pecado— y a Satanás, «padre del pecado». La gente se admiraba: «Todo lo ha hecho bien; a los sordos hace oír y a los mudos hablar» (Mc 7, 37). Ningún motivo, a no ser el amor, explica los milagros: a diferencia de Elías, que se sirvió del «fuego del cielo» (Cfr. 2 Re 1, 10), Jesús reprende a Santiago y Juan que pedían castigar a una aldea samaritana (Lc 9, 55), y ningún milagro fue realizado para castigar. En Getsemaní, tras curar la oreja de Malco (Cfr. Lc 22, 51), no pide «más de doce legiones de ángeles» (Cfr. Mt 26, 53), y al comienzo de su misión rechaza las propuestas del Tentador (Cfr. Mt 4, 3-4): el poder mesiánico no sirve al asombro ni a la vanagloria. Su modo de obrar muestra sencillez y delicadeza: ante la hija de Jairo dice «La niña no ha muerto, duerme» (Mc 5, 39) y recomienda silencio (Cfr. Mc 5, 43; 7, 36; 8, 29-30); al sordomudo lo toma aparte y con el «efeta» («¡ábrete!») le abre los oídos (Cfr. Mc 7, 33-35). Los milagros en sábado no violan su santidad sino que la ponen de relieve: «El sábado fue hecho a causa del hombre, y no el hombre por el sábado» (Mc 2, 27-28). El único obstáculo para aceptarlos es el prejuicio antisobrenatural, que limita el poder del Dios infinito, subsistente y omnipotente; esta infinitud en el ser y en el poder es también infinitud en el amor: «*Sic dilexit*!» (Jn 3, 16), a la que corresponde nuestra gratitud en testimonio coherente.
+
+### 16-12-87 El milagro, llamada a la fe
+
+Los milagros de Jesús están ordenados a la llamada a la fe, que tiene dos formas: la fe precede al milagro como condición para que se realice, y el milagro produce la fe en quienes lo reciben o lo presencian. La fe es respuesta del hombre a la palabra de la revelación divina, y el milagro es su signo particularmente intenso. María es el punto culminante de la adhesión a la fe: «Dichosa la que ha creído que se cumplirá lo que se te ha dicho de parte del Señor» (Lc 1, 45), pues creyó que «para Dios nada hay imposible» (Cfr. Lc 1, 37); en Caná, por su intercesión, los discípulos «creyeron en él» (Jn 2, 11), anticipando lo que enseña el Concilio Vaticano II (Cfr. Lumen Gentium, 58.63). La llamada se repite: a Jairo, «No temas, ten sólo fe» (Mc 5, 36); al padre del epiléptico, «¡Si puedes! Todo es posible al que cree», y su respuesta: «¡Creo! Ayuda a mi incredulidad» (Cfr. Mc 9, 22-24); a Marta, «Yo soy la resurrección y la vida... ¿Crees esto?» (Cfr. Jn 11, 25-27). El vínculo se confirma por oposición: en Nazaret «no pudo hacer... ningún milagro» porque «Él se admiraba de su incredulidad» (Mc 6, 5-6), y a Pedro: «Hombre de poca fe, ¿por qué has dudado?» (Mt 14, 29-31). Jesús subraya que sus milagros están vinculados a la fe: «Tu fe te ha curado» (Cfr. Mt 9, 20-22), «tu fe te ha salvado» al ciego Bartimeo (Cfr. Mc 10, 46-52; Lc 18, 42), «Hágase en vosotros, según vuestra fe» (Mt 9, 28-29), y ante la cananea: «¡Mujer, grande es tu fe! Hágase contigo como tú quieres» (Mt 15, 21-28). Cuando Jesús «ve la fe» realiza el milagro (Cfr. Mc 2, 5), y los Apóstoles confiesan: «Tú tienes palabras de vida eterna» (Cfr. Jn 6, 66-69); «éstas fueron escritas para que creáis que Jesús es el Mesías, Hijo de Dios, y para que creyendo tengáis vida en su nombre» (Jn 20, 30-31).
+
+### 13-01-88 Los milagros demuestran la existencia del mundo sobrenatural
+
+San Agustín escribe: «Los milagros que hizo Nuestro Señor Jesucristo son obras divinas que enseñan a la mente humana a elevarse por encima de las cosas visibles, para comprender lo que Dios es» (In Io. Ev. Tr., 24, 1). Los milagros demuestran la existencia del orden sobrenatural, objeto de la fe: el universo no está encerrado en lo accesible a los sentidos, pues el «Poder de lo alto» (Cfr. Lc 24, 49) está por encima del orden entero de la naturaleza, y el destino del hombre es el reino de Dios. Los milagros no se contraponen a las fuerzas y leyes naturales: implican una «suspensión» de su función ordinaria, no su anulación, activando la potencialidad creada más allá de su capacidad normal, sin frustrar la causalidad de Dios en la creación. La fe enseña que la creación está abierta a un destino eterno completado por la salvación, una «creación nueva» (Cfr. 2 Cor 5, 17; Gal 6, 15), la *re-creatio totius universi* (Cfr. Rom 8, 19-21), de la que los milagros son signos salvíficos que llaman a la conversión. El orden soteriológico tiene su eje en la Encarnación, el «milagro de los milagros», del que irradian todos los demás signos (Cfr. Jn 1, 14). El signo último y definitivo es el signo de Jonás: «como estuvo Jonás en el vientre del cetáceo tres días y tres noches, así estará el Hijo del hombre tres días y tres noches en el corazón de la tierra» (Mt 12, 40), la resurrección, mantenida bajo el «secreto mesiánico» (Cfr. Mc 9, 9-10) y que, según San Pablo, es el fundamento de nuestra fe (Cfr. 1 Cor 15, 12-19). Tras la resurrección, los «milagros-signos» se prolongan por los Apóstoles y los santos (Cfr. Hech 3, 1-8; 5, 15; 6, 8; 9, 32-41; 14, 8-10), confirmados incluso por la crítica histórica y médica en las causas de canonización, con el fin de hacer ver el destino del hombre al reino de Dios y de llamar a los hombres, mediante la Iglesia, al camino de la fe.
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H2 | (JESUCRISTO: VERDADERO DIOS -SUS MILAGROS) |
-
-
-## Secciones incluidas
-
-# (JESUCRISTO: VERDADERO DIOS -SUS MILAGROS)
-
-[Contenido de esta sección...]

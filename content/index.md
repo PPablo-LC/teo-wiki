@@ -3,7 +3,7 @@ tags:
   - meta
   - index
 title: Wiki Index
-updated: '2026-08-11'
+updated: '2026-08-14'
 note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts/regenerar-indice.py'
 ---
 
@@ -2305,8 +2305,8 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[predicación]]
 - [[predicación_de_jesús]]
 - [[predicar]]
-- [[preexistencia_de_cristo]]
 - [[preexistencia_de_las_almas]]
+- [[preexistencia_del_verbo]]
 - [[prefiguraciones_de_cristo]]
 - [[prelatura_personal]]
 - [[premio_eterno]]

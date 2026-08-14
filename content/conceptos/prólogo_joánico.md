@@ -49,11 +49,11 @@ El prólogo es ciertamente el texto clave en el que la verdad sobre la filiació
 
 ## Relaciones doctrinales
 
-Se relaciona con [[verbo_de_dios]], [[preexistencia_de_cristo]], [[divinidad_de_cristo]], [[sabiduría_divina]], [[filiación_divina]], [[encarnación]], [[evangelio_de_juan]], [[consubstancialidad]].
+Se relaciona con [[verbo_de_dios]], [[preexistencia_del_verbo]], [[divinidad_de_cristo]], [[sabiduría_divina]], [[filiación_divina]], [[encarnación]], [[evangelio_de_juan]], [[consubstancialidad]].
 
 ## Ver también
 
-[[verbo_de_dios]], [[preexistencia_de_cristo]], [[divinidad_de_cristo]], [[evangelio_de_juan]]
+[[verbo_de_dios]], [[preexistencia_del_verbo]], [[divinidad_de_cristo]], [[evangelio_de_juan]]
 
 ## Referencias
 

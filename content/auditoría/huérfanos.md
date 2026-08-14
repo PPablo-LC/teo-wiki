@@ -7,8 +7,8 @@ description: "Registro de wikilinks sin artículo propio en el wiki. 2026-08-06:
 # Auditoría de wikilinks huérfanos
 
 > Generado originalmente: 2026-06-19
-> Última actualización: **2026-08-08 — Incorporación de Evangelization & Culture (WoF-1, WoF-2, WoF-3)**
-> Total de wikilinks huérfanos registrados: **1521** (pendientes de artículo; detector 2026-08-08, excluido el falso positivo `[[concepto]]`;WoF-3 introduce 9 huérfanos nuevos: `[[blas_pascal]]`, `[[nietzsche]]`, `[[nones]]`, `[[periferias]]`, `[[micro_moralidad]]`, `[[macro_moralidad]]`, `[[evangelización_digital]]` (ya creado), `[[videojuegos]]` (ya creado), `[[aristóteles]]` (ya creado); 7 artículos nuevos creados: san_isidoro_de_sevilla, fulton_sheen, george_orwell, robert_barron, evangelización_digital, videojuegos, aristóteles)
+> Última actualización: **2026-08-14 — Lote 1 de resúmenes del Catecismo de la Iglesia Católica (CEC). 2 huérfanos nuevos sembrados (`[[vida_en_cristo]]`, `[[simbolo_de_nicea_constantinopla]]`); se incrementan los conteos de `[[pedagogia_divina]]` (1→2) y `[[simbolo_de_los_apostoles]]` (1→2). Ver sección «Sembrados por los resúmenes del Catecismo de la Iglesia Católica».**
+> Total de wikilinks huérfanos registrados: **1522** (pendientes de artículo; detector 2026-08-14, excluido el falso positivo `[[concepto]]`;WoF-3 introduce 9 huérfanos nuevos: `[[blas_pascal]]`, `[[nietzsche]]`, `[[nones]]`, `[[periferias]]`, `[[micro_moralidad]]`, `[[macro_moralidad]]`, `[[evangelización_digital]]` (ya creado), `[[videojuegos]]` (ya creado), `[[aristóteles]]` (ya creado); 7 artículos nuevos creados: san_isidoro_de_sevilla, fulton_sheen, george_orwell, robert_barron, evangelización_digital, videojuegos, aristóteles; 2026-08-13: CBL introduce 3 huérfanos nuevos; 2026-08-14: 1 resuelto por renombrado de preexistencia_de_cristo → preexistencia_del_verbo; 2026-08-14: CEC Lote 1 introduce 2 huérfanos nuevos)
 > Resueltos: 35+29+11+14+19+6+1 (6 en 2026-07-15/16 — ver sección final; 26 por re-auditoría 2026-08-01; 3 por BMV 2026-08-03; 29 por alta densidad 2026-08-03; 11 por alta densidad 2ª tanda 2026-08-03; 14 por alta densidad 3ª tanda 2026-08-03, neto −11; 19 por alta densidad 4ª tanda 2026-08-04; 6 por limpieza de paréntesis 2026-08-04, neto −5 por el re-sembrado de `[[respuesta_divina]]`; 1 por normalización de nombres con paréntesis 2026-08-08)
 
 ## Metodología
@@ -1529,7 +1529,27 @@ los de mayor densidad son candidatos prioritarios a artículo propio.
 | 1492 | `[[voto_religioso]]` | 1 | Miscelánea (1249) |
 | 1493 | `[[votos_privados]]` | 1 | Biblia (86) |
 | 1494 | `[[votum]]` | 1 | Miscelánea (1249) |
-| 1495 | `[[zenon]]` | 1 | Miscelánea (1249) |
+ | 1495 | `[[zenon]]` | 1 | Miscelánea (1249) |
+| 1496 | `[[autenticidad]]` | 8 | Miscelánea (1249) |
+| 1497 | `[[conexión]]` | 13 | Miscelánea (1249) |
+| 1498 | `[[coraje]]` | 11 | Miscelánea (1249) |
+| 1499 | `[[valía_personal]]` | 10 | Miscelánea (1249) |
+| 1500 | `[[dicha]]` | 5 | Miscelánea (1249) |
+| 1501 | `[[juego]]` | 4 | Miscelánea (1249) |
+| 1502 | `[[límites_sanos]]` | 3 | Miscelánea (1249) |
+| 1503 | `[[perfeccionismo]]` | 3 | Miscelánea (1249) |
+| 1504 | `[[resiliencia]]` | 3 | Miscelánea (1249) |
+| 1505 | `[[autocompasión]]` | 2 | Miscelánea (1249) |
+| 1506 | `[[creatividad]]` | 2 | Miscelánea (1249) |
+| 1507 | `[[señorío_de_cristo]]` | 2 | Miscelánea (1249) |
+| 1508 | `[[abandono_de_dios]]` | 1 | Miscelánea (1249) |
+| 1509 | `[[aniquilamiento]]` | 1 | Miscelánea (1249) |
+| 1510 | `[[calma]]` | 1 | Miscelánea (1249) |
+| 1511 | `[[identidad_de_cristo]]` | 1 | Miscelánea (1249) |
+| 1512 | `[[intuición]]` | 1 | Miscelánea (1249) |
+| 1513 | `[[los_dones_de_la_imperfeccion_brene_brown]]` | 1 | Miscelánea (1249) |
+| 1514 | `[[sepulcro_vacío]]` | 1 | Miscelánea (1249) |
+| 1515 | `[[vencedor_de_la_muerte]]` | 1 | Miscelánea (1249) |
 ## Notas de sesión
 
 - **2026-08-05 (procesamiento de informes de abusos LC):** procesadas las
@@ -2053,3 +2073,91 @@ tratado en `wiki/Resúmenes/Avisos_espirituales/` y en la fuente raw:
 | `[[soledad_sagrada]]` | 1 | AvEsp §3.79 |
 | `[[suplicio_místico]]` | 1 | AvEsp §7.13 |
 | `[[virtud_cardinal_prudencia]]` | 1 | AvEsp §3.45 |
+
+## Sembrados por los resúmenes de Computer Power and Human Reason (2026-08-13)
+
+Al completar los 13 resúmenes de la fuente CPA se sembraron intencionalmente
+los siguientes wikilinks sin artículo (forward references). Su contenido está
+tratado en `wiki/Resúmenes/Computer Power and Human Reason -- Joseph Weizenbaum/`
+y en la fuente raw:
+
+| Wikilink | Referencias | Resúmenes |
+|----------|-------------|-----------|
+| `[[razón_instrumental]]` | 11 | 01, 02, 03, 04, 05, 06, 07, 10, 11, 12, 13 |
+| `[[computador]]` | 2 | 01, 13 |
+| `[[autonomía]]` | 1 | 04 |
+| `[[lógica]]` | 1 | 08 |
+| `[[progreso]]` | 1 | 09 |
+
+## Sembrados por los resúmenes de Consciousness Beyond Life (2026-08-13)
+
+Al completar los 24 resúmenes de la fuente CBL se sembraron intencionalmente
+los siguientes wikilinks sin artículo (forward references). Su contenido está
+tratado en `wiki/Resúmenes/Consciousness_Beyond_Life_The_Science_of_the_Near-Death_--_Pim_van_Lommel_--_2011/`
+y en la fuente raw:
+
+| Wikilink | Referencias | Resúmenes |
+|----------|-------------|-----------|
+| `[[amor_incondicional]]` | 3 | 02, 04, 05 |
+| `[[experiencia_extracorporal]]` | 1 | 05 |
+| `[[reencarnación]]` | 1 | 06 |
+
+## Sembrados por los resúmenes de Catequesis sobre Jesús SS JPII (2026-08-14)
+
+Al completar los 26 resúmenes de la fuente CJeS se sembraron intencionalmente
+los siguientes wikilinks sin artículo (forward references). Su contenido está
+tratado en `wiki/Resúmenes/Catequesis sobre Jesus SS Juan Pablo II/` y en la
+fuente raw:
+
+| Wikilink | Referencias | Resúmenes |
+|----------|-------------|-----------|
+| `[[abandono_de_dios]]` | 1 | 22 |
+| `[[aniquilamiento]]` | 1 | 13 |
+| `[[identidad_de_cristo]]` | 1 | 03 |
+| `[[señorío_de_cristo]]` | 2 | 24, 26 |
+| `[[sepulcro_vacío]]` | 1 | 24 |
+| `[[vencedor_de_la_muerte]]` | 1 | 24 |
+
+## Sembrados por los resúmenes de Los dones de la imperfección (2026-08-14)
+
+Al completar el resumen 19 restante de la fuente LDI (ya tenía 18) se
+sembraron intencionalmente los siguientes wikilinks sin artículo (forward
+references). Su contenido está tratado en
+`wiki/Resúmenes/Los_dones_de_la_imperfeccion_capitulos/` y en la fuente raw:
+
+| Wikilink | Referencias | Resúmenes |
+|----------|-------------|-----------|
+| `[[autenticidad]]` | 8 | 01-19 |
+| `[[conexión]]` | 13 | 01-19 |
+| `[[coraje]]` | 11 | 01-19 |
+| `[[valía_personal]]` | 10 | 01-19 |
+| `[[dicha]]` | 5 | 01-19 |
+| `[[juego]]` | 4 | 01-19 |
+| `[[límites_sanos]]` | 3 | 01-19 |
+| `[[perfeccionismo]]` | 3 | 01-19 |
+| `[[resiliencia]]` | 3 | 01-19 |
+| `[[autocompasión]]` | 2 | 01-19 |
+| `[[creatividad]]` | 2 | 01-19 |
+| `[[calma]]` | 1 | 01-19 |
+| `[[intuición]]` | 1 | 01-19 |
+| `[[los_dones_de_la_imperfeccion_brene_brown]]` | 1 | 19 |
+
+## Sembrados por los resúmenes del Catecismo de la Iglesia Católica (2026-08-14)
+
+Al completar los primeros 5 resúmenes de la fuente CEC (Lote 1: README,
+Prólogo y Primera Parte Sección 1) se sembraron intencionalmente los
+siguientes wikilinks sin artículo (forward references). Su contenido está
+tratado en `wiki/Resúmenes/Catecismo_Iglesia_Católica/` y en la fuente raw:
+
+| Wikilink | Referencias | Resúmenes |
+|----------|-------------|-----------|
+| `[[vida_en_cristo]]` | 1 | 01 |
+| `[[simbolo_de_nicea_constantinopla]]` | 1 | 05 |
+
+Dos huérfanos ya registrados aumentan sus conteos (la tabla principal se
+actualizará en la re-auditoría integral):
+
+| Wikilink | Conteo previo | Conteo actual | Nota |
+|----------|---------------|---------------|------|
+| `[[pedagogia_divina]]` | 1 | 2 | Nuevo en resumen 04 (ya figuraba en la tabla, fila 1141) |
+| `[[simbolo_de_los_apostoles]]` | 1 | 2 | Nuevo en resumen 05 (ya figuraba en la tabla, fila 1335) |

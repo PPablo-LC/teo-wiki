@@ -12,31 +12,18 @@ tags: ["resumen", "los dones de la imperfeccion capitulos"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[vulnerabilidad]] — la autora investiga el concepto que denomina «vivir de todo corazón»: implicarse en la vida desde la autenticidad y la valía personal.
+- [[vergüenza]] — objeto de los primeros siete años de investigación: cómo nos afectan la vergüenza y el miedo, y cómo la resiliencia transforma la vida.
+- [[coraje]], [[compasión]] y [[conexión]] — virtudes necesarias para aceptar las imperfecciones, reconocer que somos suficientes tal cual somos y desarrollar la pertenencia.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `19_acerca_de_la_autora.md`
+### Acerca de la autora
 
+Brené Brown es investigadora, escritora y catedrática, miembro del grupo de investigación de la Escuela de Posgrado de Trabajo Social de la Universidad de Houston. Durante diez años ha estudiado un concepto que denomina «vivir de todo corazón», partiendo de preguntas como: cómo implicarse en la vida desde una postura de autenticidad y sensación de valía personal, y cómo cultivar el coraje, la compasión y la conexión necesarios para aceptar nuestras imperfecciones, reconocer que somos suficientes y merecemos vivir con amor y dicha, y desarrollar un sentido de pertenencia.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+Los primeros siete años de la investigación los dedicó a estudiar cómo nos afectan las experiencias universales de la vergüenza y el miedo, y de qué manera la práctica de la resiliencia en la vida cotidiana puede cambiar nuestra forma de vivir, de amar, de educar y de trabajar.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Acerca de la autora |
+En 2008 fue nombrada investigadora residente de Salud Conductual en el Consejo sobre Alcohol y Drogas de Houston. Su trabajo ha sido divulgado por la cadena PBS y por Oprah and Friends Radio Network; sus artículos han aparecido en *Self* y *Elle*, y la revista *Houston Women* Magazine la nombró una de las «50 mujeres más influyentes de 2009».
 
-
-## Secciones incluidas
-
+Además de este libro, es autora de *Creía que solo me pasaba a mí (pero no es así)*, sobre el perfeccionismo, la ineptitud y el poder, y de *Wholehearted: Spiritual Adventures in Falling Apart, Growing Up, and Finding Joy*; también es obra suya *Connections*, un programa psicoeducativo sobre la resiliencia a la vergüenza distribuido por profesionales de la salud mental y la lucha contra las adicciones. Vive en Houston con su marido, Steve, y sus dos hijos, Ellen y Charlie.

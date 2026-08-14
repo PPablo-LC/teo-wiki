@@ -4,48 +4,54 @@ title: "Bibliography"
 fuente: Consciousness_Beyond_Life_The_Science_of_the_Near-Death_--_Pim_van_Lommel_--_2011
 capítulo: 21
 timestamp: 2026-08-03
-description: "Resumen de 'Bibliography' — Consciousness_Beyond_Life_The_Science_of_the_Near-Death_--_Pim_van_Lommel_--_2011"
-tags: ["resumen", "consciousness beyond life the science of the near-death -- pim van lommel -- 2011"]
+description: "Bibliografía del libro: páginas web de referencia y lista alfabética de la literatura científica, médica, filosófica y espiritual citada a lo largo de la obra"
+tags: ["resumen", "análisis_cultural", "conciencia", "ciencia_y_fe", "física_cuántica", "experiencias_cercanas_a_la_muerte", "bibliografía"]
 ---
 
 # Bibliography
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[conciencia]] — las obras científicas y filosóficas sobre la conciencia y su relación con el cerebro.
+- [[ciencia_y_fe]] — la bibliografía del debate entre el paradigma materialista y las interpretaciones no materialistas.
+- [[inmortalidad_del_alma]] — los estudios y ensayos sobre la supervivencia de la conciencia y la vida tras la muerte.
+- [[muerte]] — la literatura médica sobre paro cardiaco, muerte cerebral, coma, cuidados terminales y eutanasia.
+- [[unidad_alma_cuerpo]] — las obras sobre la interacción mente-cerebro y la no localidad de la conciencia.
+- [[alma_separada]] — las publicaciones sobre percepción extracorporal, percepción remota y comunicación con fallecidos.
+- [[vida_eterna]] — los libros y artículos sobre visiones de lecho de muerte, experiencias postmortem y la creencia en la vida eterna.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `21_bibliography.md`
+### Web Sites
 
+El libro cita cinco páginas web: el sitio personal del autor (www.pimvanlommel.nl); la IANDS de Estados Unidos (Asociación Internacional de Estudios de Experiencias Cercanas a la Muerte, www.iands.org); la Fundación de Investigación de la ECM (www.nderf.org); la rama holandesa de IANDS (www.merkawah.nl); y el protocolo modelo de donación de órganos y tejidos postmortem (www.transplantatiestichting.nl, con errata tipográfica en el original).
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### Literature
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Bibliography |
-| 3 | H2 | ***Web Sites*** |
-| 15 | H2 | ***Literature*** |
+La bibliografía es una lista alfabética de unos 300 títulos de libros, artículos y capítulos. Por contenido temático agrupa:
 
+**Estudios prospectivos y clínicos de la ECM:** los artículos de van Lommel y colaboradores (*Lancet* 2001), Greyson (estudios de incidencia, la Near-Death Experience Scale, ECM y valores, conducta antisuicida, estrés postraumático), Parnia y Fenwick (*Resuscitation* 2001, 2002), Schwaninger (estudio prospectivo en paro cardiaco), Sartori, Badham y Fenwick (ECM corroborada prospectivamente), Sabom (*Recollections of Death*), Ring (*Life at Death*), Yamamura (ECM en ancianos en cuidados terminales) y la obra de Kübler-Ross (*On Death and Dying*).
 
-## Secciones incluidas
+**Explicaciones biológicas y psicológicas de la ECM:** Woerlee (*Mortal Minds*), Blackmore (*Dying to Live*; "There Is No Stream of Consciousness"), Whinnery (pérdida de conciencia por aceleración), Lempert (síncope), Meduna (terapia con CO2), Jansen (ketamina y receptores NMDA), Strassman (*DMT, the Spirit Molecule*), Newberg (*Why God Won't Go Away*), Grof y Halifax, Rodin, Saavedra-Aguilar y Gómez-Jeria (modelo neurobiológico), Persinger (campos magnéticos), Britton y Bootzin (lóbulo temporal), Nelson (sistema de activación), Blanke (percepción extracorporal inducida), Granqvist (refutación de Persinger) y Long y Holden.
 
-# ***Web Sites***
+**Fisiología del paro cardiaco y el cerebro:** Gopalan, Mayer y Marx, Clute y Levy, Losasso, Branston, Smith, Buunk, Paradis, Herlitz, Hossmann y Kleihues, Safar, Coimbra, Fujioka, Kinney (Karen Ann Quinlan), de Vries, van Dijk (manual de reanimación), Ebert (hipotermia profunda) y el caso de Pam Reynolds (Sabom, *Light and Death*).
 
-[Contenido de esta sección...]
+**Neurociencia y conciencia:** Desmedt y Robertson, Roland y Friberg, Eccles (*Evolution of the Brain, Creation of the Self*), Penfield, Edelman y Tononi, Koch, Noë (*Out of Our Heads*), Schwartz y Begley (*The Mind and the Brain*), Doidge (*The Brain That Changes Itself*), Hallett (TMS), Liebetanz (TDCS), Mayberg (estimulación cerebral profunda; placebo), Schiff, Massimini, White y Alkire, Alkire (anestesia), Balkin, Jack y Roepstorff (introspección), Beauregard (*The Spiritual Brain*; mística en carmelitas), Davidson (meditación mindfulness), Lutz (ondas gamma), Baringa (budismo y neurociencia), Sperry y Libet (potencial de disposición), Den Boer (*Neurofilosofía*), Lewin ("Is Your Brain Really Necessary?"), Pribram (cerebro holográfico), Lashley (en grama), Huttenlocher, Acosta y Borgstein (hemisferectomía), Nahm y Greyson (lucidez terminal), Ghoneim (memoria y anestesia), Cheek (percepción inconsciente bajo anestesia), John (QEEG) y la Puma (conversación con pacientes en coma).
 
-# ***Literature***
+**Filosofía de la mente:** Chalmers ("Facing Up to the Problem of Consciousness"; "The Puzzle of Conscious Experience"), Dennett (*Consciousness Explained*), Popper y Eccles (*The Self and Its Brain*), Eccles, James (*The Principles of Psychology*; *The Varieties of Religious Experience*; *Human Immortality*), Myers (conciencia subliminal; supervivencia de la personalidad), Bergson (*L'Énergie Spirituelle*), Kant (*Crítica de la razón pura*), Kuhn (*The Structure of Scientific Revolutions*), Maslow, Freeman, Kellehear (*Experiences Near Death*), Noë, Kelly y Kelly (*Irreducible Mind*), Beauregard y O'Leary, y Wolf (*The Spiritual Universe*; *Taking the Quantum Leap*).
 
-[Contenido de esta sección...]
+**Física cuántica, no localidad y conciencia:** Bohr (*Atomic Physics and Human Knowledge*; *Collected Works*), Born, Schrödinger (*What Is Life*; artículo sobre sistemas separados de 1935), Heisenberg (*Physics and Beyond*; *Physics and Philosophy*), von Neumann (*Mathematical Foundations of Quantum Theory*), Wigner, Stapp (*Mind, Matter and Quantum Mechanics*), Aspect (prueba de la desigualdad de Bell), Marcikic (entrelazamiento a 50 km), Greenberger y Zeilinger (paradoja GHZ), Mermin ("¿Existe la luna cuando nadie la mira?"), Einstein ("The Concept of Space"), Hawking (*The Universe in a Nutshell*), Penrose (*Shadows of the Mind*), Hameroff y Penrose (microtúbulos), Bohm (*Wholeness and the Implicate Order*; *The Undivided Universe*), Romijn ("Are Virtual Photons the Elementary Carriers of Consciousness?"), Marcer y Schempp (holografía cuántica y neuronas), Schempp, Prigogine y Stengers (*Order Out of Chaos*), Fröhlich, Misra y Sudarshan (efecto Zeno cuántico), 't Hooft (gravedad cuántica), Greene (*The Fabric of the Cosmos*), Pagels, Laszlo (*The Connectivity Hypothesis*; *Science and the Akashic Field*), Nadeau y Kafatos, Zohar (*The Quantum Self*), Rosenblum y Kuttner, Goswami (*The Self-Aware Universe*; *Physics of the Soul*), Radin (*Entangled Minds*), Hu y Wu (efectos no locales de los anestésicos), Engel (coherencia cuántica fotosintética), Julsgaard y Matsukevich (memoria cuántica de la luz), Chanelière y Schempp (holografía) y los experimentos de Grinberg-Zylberbaum, Wackermann, Standish, Richards, Achterberg y Pizzi (correlaciones entre sujetos separados).
+
+**Biología, genética y campos formativos:** Ridley (*Genome*), Mantegna (ADN no codificante), Lederberg y Esteller (epigenética), Baldwin (reconocimiento de homología del ADN), Berkovich (funcionalidad "código de barras" del ADN), Hameroff (computación cuántica en ADN), Gurwitsch (campo embrionario; división celular), Bischof (*Biophotonen*), Popp y Beloussov (biofotónica), van Wijk (biofotones y comunicación), Robinson (genoma ciliado), Goldbeter (ritmos celulares), Gilliver (resistencia a antibióticos), Farhadi (señalización intercelular), Goodwin (organismos como campos autoorganizados), Weiss (*Principles of Development*), Sheldrake (*A New Science of Life*; *The Presence of the Past*), Backster (percepción de las plantas), Stone (*The Secret Life of Your Cells*), Pearsall (*The Heart's Code*; cambios en receptores de trasplantes de corazón), Sylvia y Novak (*Change of Heart*) y van der Greef (farmacología de sistemas).
+
+**Parapsicología y fenómenos no locales:** Puthoff y Targ (visión remota), Dunne, Jahn y Nelson (percepción remota precognitiva; *Margins of Reality*), Schwartz (*Opening to the Infinite*), Wade (terapia de regresión), Barbato (fenómenos parapsicológicos en el lecho de muerte), Osis y Haraldsson (*At the Hour of Death*), Greeley y Rees (alucinaciones de viudedad), Guggenheim (*Hello from Heaven*), Smit y Rivas (corroboración de la dentadura), van der Sluijs (tres informes antiguos de ECM), Alexander (Uri Geller y el ejército de EE. UU.), Davis (estudio de teleportación del laboratorio de la Fuerza Aérea), Zeilinger (*Einsteins Schleier*; *Einsteins Spuk*), los informes chinos de ciencia somática (Banghui; Kongzhi; Shuhuang) y el *Chinese Journal of Somatic Science*.
+
+**Historia, religiones y tradiciones:** Zaleski (*Otherworld Journeys*), Ritchie (*Return from Tomorrow*), Moody (*Life After Life*), Gallup y Proctor (*Adventures in Immortality*), Fox (*Religion, Spirituality and the Near-Death Experience*), Coppes (ECM y religiones del mundo), Badham (*Death and Immortality in the Religions of the World*), Hampe (*To Die Is Gain*), Küng (*Eternal Life?*), Fletcher (*The Egyptian Book of Living and Dying*), Evans-Wentz (*The Tibetan Book of the Dead*), Sogyal Rinpoche (*The Tibetan Book of Living and Dying*), Swami Rama, Mascoró (Upanishads), Plato (*Phaedo*; *The Republic*), Caesar (*The Gallic Wars*), Ovidio (*Metamorphoses*), Dante, Swedenborg (*Awaken from Death*), Besant (*Death—and After?*), Steiner (*Death as Metamorphosis of Life*), Bailey (*Death: The Great Adventure*), Byskov, Huffman (Robert Fludd), Raphael y Solomon (visiones judías del más allá), el Corán, Beda (*Ecclesiastical History*), Beaufort y Boismont (informes del siglo XIX), Heim (experiencia de caídas de 1892), Kellehear (cultura y ECM) y Athappilly, Greyson y Stevenson (modelos sociales).
+
+**Reencarnación:** Fisher (*The Case for Reincarnation*), Stevenson (*Where Reincarnation and Biology Intersect*) y las encuestas de creencia en la reencarnación (Haraldsson; Halman; Pew Forum).
+
+**Donación de órganos, muerte y cuidados:** Kompanje (*Geven en Nemen*), Stark (*De hele waarheid*), Lodewick, Sperling (*Management of Post-mortem Pregnancy*), Emanuel (definición de muerte), Machado y Shewmon (*Brain Death and Disorders of Consciousness*), Laureys (función cerebral en estado vegetativo), Owen (detección de conciencia en estado vegetativo), Jordan (movimientos espontáneos en pacientes con muerte cerebral), Wetzel y Pennefather (respuestas hemodinámicas en donantes), Sanghavi (*New York Times*, "When Does Death Start?"), el protocolo holandés de donación, Callanan y Kelley (*Final Gifts*), De Hennezel (*La mort intime*; *L'art de mourir*), Lerma (*Into the Light*), Fenwick (*The Art of Dying*), Elsaesser-Valarino (*Talking with Angel*), Stolp (*The Golden Bird*), Brandt (eutanasia en los Países Bajos), van Schuijlenburg, Corbeau, Derogatis (escala SCL-90), Tosch, Schouterden y vander Linden, Lensink, Waanders, Halman (European Values Study), Becker y de Hart, Curlin (creencias religiosas de los médicos), Larson y Witham (*Nature*, científicos y religión), Leuba, Pew Forum, Rando y los informes de transplantatiestichting.nl.
+
+### Nota teológica
+
+La bibliografía combina fuentes científicas legítimas (estudios clínicos de la ECM, neurociencia, física cuántica) con obras esotéricas y de religiones no cristianas (teosofía de Besant y Bailey, antroposofía de Steiner, hinduismo, budismo, campo akáshico de Laszlo) citadas como paralelos o explicaciones de los fenómenos. También incluye obras católicas y cristianas (Küng, Hampe, Zaleski, Fox). Para la valoración teológica, el conjunto debe discriminarse: las fuentes científicas documentan hechos fenomenológicos, mientras que las obras esotéricas no son fuentes de doctrina y sus interpretaciones de la inmortalidad deben contrastarse con la revelación católica.
