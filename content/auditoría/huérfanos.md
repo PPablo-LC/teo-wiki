@@ -7,8 +7,8 @@ description: "Registro de wikilinks sin artículo propio en el wiki. 2026-08-06:
 # Auditoría de wikilinks huérfanos
 
 > Generado originalmente: 2026-06-19
-> Última actualización: **2026-08-14 — Lote 2 de resúmenes del Catecismo de la Iglesia Católica (CEC). 21 huérfanos nuevos sembrados (ver sección «Sembrados por los resúmenes del Catecismo de la Iglesia Católica»); se incrementan los conteos de `[[cristo_cabeza_de_la_iglesia]]` (3→4), `[[diaconos]]` (1→2), `[[esposa_de_cristo]]` (1→2), `[[hombre_y_mujer]]` (1→2), `[[institutos_seculares]]` (1→2) y `[[padre]]` (1→2).**
-> Total de wikilinks huérfanos registrados: **1543** (pendientes de artículo; detector 2026-08-14, excluido el falso positivo `[[concepto]]`;WoF-3 introduce 9 huérfanos nuevos: `[[blas_pascal]]`, `[[nietzsche]]`, `[[nones]]`, `[[periferias]]`, `[[micro_moralidad]]`, `[[macro_moralidad]]`, `[[evangelización_digital]]` (ya creado), `[[videojuegos]]` (ya creado), `[[aristóteles]]` (ya creado); 7 artículos nuevos creados: san_isidoro_de_sevilla, fulton_sheen, george_orwell, robert_barron, evangelización_digital, videojuegos, aristóteles; 2026-08-13: CBL introduce 3 huérfanos nuevos; 2026-08-14: 1 resuelto por renombrado de preexistencia_de_cristo → preexistencia_del_verbo; 2026-08-14: CEC Lote 1 introduce 2 huérfanos nuevos; 2026-08-14: CEC Lote 2 introduce 21 huérfanos nuevos)
+> Última actualización: **2026-08-14 — Lote 3 de resúmenes del Catecismo de la Iglesia Católica (CEC). 16 huérfanos nuevos sembrados (ver sección «Sembrados por los resúmenes del Catecismo de la Iglesia Católica»); se incrementan los conteos de `[[cristo_cabeza_de_la_iglesia]]` (4→5), `[[cristo_total]]` (1→2), `[[lex_orandi_lex_credendi]]` (1→2), `[[marana_tha]]` (1→2), `[[memorial]]` (1→3), `[[sacrificio_de_la_misa]]` (1→2), `[[vida_en_cristo]]` (1→2) y `[[virtudes_humanas]]` (1→2).**
+> Total de wikilinks huérfanos registrados: **1559** (pendientes de artículo; detector 2026-08-14, excluido el falso positivo `[[concepto]]`;WoF-3 introduce 9 huérfanos nuevos: `[[blas_pascal]]`, `[[nietzsche]]`, `[[nones]]`, `[[periferias]]`, `[[micro_moralidad]]`, `[[macro_moralidad]]`, `[[evangelización_digital]]` (ya creado), `[[videojuegos]]` (ya creado), `[[aristóteles]]` (ya creado); 7 artículos nuevos creados: san_isidoro_de_sevilla, fulton_sheen, george_orwell, robert_barron, evangelización_digital, videojuegos, aristóteles; 2026-08-13: CBL introduce 3 huérfanos nuevos; 2026-08-14: 1 resuelto por renombrado de preexistencia_de_cristo → preexistencia_del_verbo; 2026-08-14: CEC Lote 1 introduce 2 huérfanos nuevos; 2026-08-14: CEC Lote 2 introduce 21 huérfanos nuevos; 2026-08-14: CEC Lote 3 introduce 16 huérfanos nuevos; 2026-08-14: se retira `[[templo_de_jerusalen]]` del registro del Lote 2 por no ser huérfano — existe `wiki/conceptos/templo_de_Jerusalén.md`)
 > Resueltos: 35+29+11+14+19+6+1 (6 en 2026-07-15/16 — ver sección final; 26 por re-auditoría 2026-08-01; 3 por BMV 2026-08-03; 29 por alta densidad 2026-08-03; 11 por alta densidad 2ª tanda 2026-08-03; 14 por alta densidad 3ª tanda 2026-08-03, neto −11; 19 por alta densidad 4ª tanda 2026-08-04; 6 por limpieza de paréntesis 2026-08-04, neto −5 por el re-sembrado de `[[respuesta_divina]]`; 1 por normalización de nombres con paréntesis 2026-08-08)
 
 ## Metodología
@@ -2181,7 +2181,6 @@ wikilinks sin artículo (forward references). Su contenido está tratado en
 | `[[hombre_imagen_de_dios]]` | 1 | 06 |
 | `[[nombre_de_jesus]]` | 1 | 07 |
 | `[[ley_antigua]]` | 1 | 07 |
-| `[[templo_de_jerusalen]]` | 1 | 07 |
 | `[[tentaciones_de_jesus]]` | 1 | 07 |
 | `[[misterios_de_la_vida_de_cristo]]` | 1 | 07 |
 | `[[cristo_total]]` | 1 | 08 |
@@ -2198,3 +2197,49 @@ Dos huérfanos ya registrados en secciones anteriores aumentan sus conteos
 (`[[sepulcro_vacio]]` pasa de 1 a 2 con el resumen 07, además del resumen 24
 de CJeS; `[[institutos_seculares]]` de 1 a 2 con el resumen 08). Los conteos
 de la tabla principal se actualizarán en la re-auditoría integral.
+
+### Lote 3 (2026-08-14)
+
+Al completar los resúmenes 09-14 (Segunda Parte Sección 2, Capítulos 1-4:
+sacramentos de la iniciación cristiana, de curación y al servicio de la
+comunidad, y otras celebraciones litúrgicas, más el inicio de la Tercera
+Parte) se sembraron intencionalmente los siguientes wikilinks sin artículo
+(forward references). Su contenido está tratado en
+`wiki/Resúmenes/Catecismo_Iglesia_Católica/` y en la fuente raw:
+
+| Wikilink | Referencias | Resúmenes |
+|----------|-------------|-----------|
+| `[[liturgia_celestial]]` | 2 | 09, 10 |
+| `[[presencia_de_cristo]]` | 1 | 09 |
+| `[[catolicidad_de_la_iglesia]]` | 1 | 10 |
+| `[[culturas]]` | 1 | 10, 13, 14 |
+| `[[canto_sagrado]]` | 1 | 10 |
+| `[[iconos]]` | 1 | 10 |
+| `[[santo_crisma]]` | 1 | 11 |
+| `[[pena_temporal]]` | 1 | 12 |
+| `[[pena_eterna]]` | 1 | 12 |
+| `[[sacerdocio_de_la_antigua_alianza]]` | 1 | 13 |
+| `[[alianza_matrimonial]]` | 1 | 13 |
+| `[[nulidad_del_matrimonio]]` | 1 | 13 |
+| `[[apertura_a_la_fecundidad]]` | 1 | 13 |
+| `[[virginidad_por_el_reino]]` | 1 | 13 |
+| `[[exequias_cristianas]]` | 1 | 14 |
+| `[[unidad_de_los_cristianos]]` | 1 | 11 |
+
+Huérfanos ya registrados en secciones anteriores que aumentan sus conteos
+(los de la tabla principal se actualizarán en la re-auditoría integral):
+
+| Wikilink | Conteo previo | Conteo actual | Nota |
+|----------|---------------|---------------|------|
+| `[[cristo_cabeza_de_la_iglesia]]` | 4 | 5 | Nuevo en resumen 09 (tras Lote 2) |
+| `[[cristo_total]]` | 1 | 2 | Nuevo en resumen 10 (ya en Lote 2, resumen 08) |
+| `[[lex_orandi_lex_credendi]]` | 1 | 2 | Nuevo en resumen 09 |
+| `[[marana_tha]]` | 1 | 2 | Nuevo en resumen 11 |
+| `[[memorial]]` | 1 | 3 | Nuevo en resúmenes 09-13 |
+| `[[sacrificio_de_la_misa]]` | 1 | 2 | Nuevo en resumen 11 |
+| `[[vida_en_cristo]]` | 1 | 2 | Nuevo en resumen 14 (ya en Lote 1, resumen 01) |
+| `[[virtudes_humanas]]` | 1 | 2 | Nuevo en resumen 14 |
+
+Nota: se retira del registro del Lote 2 la fila `[[templo_de_jerusalen]]`:
+no es huérfano, pues existe `wiki/conceptos/templo_de_Jerusalén.md` (el
+detector normaliza acentos y no lo reporta).
