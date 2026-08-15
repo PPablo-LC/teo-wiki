@@ -2,13 +2,13 @@
 type: Concepto Teológico
 title: Auditoría de wikilinks huérfanos
 timestamp: 2026-08-06
-description: "Registro de wikilinks sin artículo propio en el wiki. 2026-08-06: Cap. VII de Ele_Xto_Stos (4 huérfanos nuevos: precipitación, inconsideración, inconstancia, recta_razón)."
+description: "Registro de wikilinks sin artículo propio en el wiki. 2026-08-14: CEC Lote 5 de resúmenes (21-24, Cuarta Parte) introduce 1 huérfano nuevo: doxologia."
 ---
 # Auditoría de wikilinks huérfanos
 
 > Generado originalmente: 2026-06-19
-> Última actualización: **2026-08-14 — Lote 3 de resúmenes del Catecismo de la Iglesia Católica (CEC). 16 huérfanos nuevos sembrados (ver sección «Sembrados por los resúmenes del Catecismo de la Iglesia Católica»); se incrementan los conteos de `[[cristo_cabeza_de_la_iglesia]]` (4→5), `[[cristo_total]]` (1→2), `[[lex_orandi_lex_credendi]]` (1→2), `[[marana_tha]]` (1→2), `[[memorial]]` (1→3), `[[sacrificio_de_la_misa]]` (1→2), `[[vida_en_cristo]]` (1→2) y `[[virtudes_humanas]]` (1→2).**
-> Total de wikilinks huérfanos registrados: **1559** (pendientes de artículo; detector 2026-08-14, excluido el falso positivo `[[concepto]]`;WoF-3 introduce 9 huérfanos nuevos: `[[blas_pascal]]`, `[[nietzsche]]`, `[[nones]]`, `[[periferias]]`, `[[micro_moralidad]]`, `[[macro_moralidad]]`, `[[evangelización_digital]]` (ya creado), `[[videojuegos]]` (ya creado), `[[aristóteles]]` (ya creado); 7 artículos nuevos creados: san_isidoro_de_sevilla, fulton_sheen, george_orwell, robert_barron, evangelización_digital, videojuegos, aristóteles; 2026-08-13: CBL introduce 3 huérfanos nuevos; 2026-08-14: 1 resuelto por renombrado de preexistencia_de_cristo → preexistencia_del_verbo; 2026-08-14: CEC Lote 1 introduce 2 huérfanos nuevos; 2026-08-14: CEC Lote 2 introduce 21 huérfanos nuevos; 2026-08-14: CEC Lote 3 introduce 16 huérfanos nuevos; 2026-08-14: se retira `[[templo_de_jerusalen]]` del registro del Lote 2 por no ser huérfano — existe `wiki/conceptos/templo_de_Jerusalén.md`)
+> Última actualización: **2026-08-14 — Lote 5 de resúmenes del Catecismo de la Iglesia Católica (CEC). 1 huérfano nuevo sembrado (ver sección «Sembrados por los resúmenes del Catecismo de la Iglesia Católica»): `[[doxologia]]`. Aumenta su conteo el ya registrado `[[marana_tha]]` (2→3, resumen 24).**
+> Total de wikilinks huérfanos registrados: **1563** (pendientes de artículo; detector 2026-08-14, excluido el falso positivo `[[concepto]]`;WoF-3 introduce 9 huérfanos nuevos: `[[blas_pascal]]`, `[[nietzsche]]`, `[[nones]]`, `[[periferias]]`, `[[micro_moralidad]]`, `[[macro_moralidad]]`, `[[evangelización_digital]]` (ya creado), `[[videojuegos]]` (ya creado), `[[aristóteles]]` (ya creado); 7 artículos nuevos creados: san_isidoro_de_sevilla, fulton_sheen, george_orwell, robert_barron, evangelización_digital, videojuegos, aristóteles; 2026-08-13: CBL introduce 3 huérfanos nuevos; 2026-08-14: 1 resuelto por renombrado de preexistencia_de_cristo → preexistencia_del_verbo; 2026-08-14: CEC Lote 1 introduce 2 huérfanos nuevos; 2026-08-14: CEC Lote 2 introduce 21 huérfanos nuevos; 2026-08-14: CEC Lote 3 introduce 16 huérfanos nuevos; 2026-08-14: se retira `[[templo_de_jerusalen]]` del registro del Lote 2 por no ser huérfano — existe `wiki/conceptos/templo_de_Jerusalén.md`)
 > Resueltos: 35+29+11+14+19+6+1 (6 en 2026-07-15/16 — ver sección final; 26 por re-auditoría 2026-08-01; 3 por BMV 2026-08-03; 29 por alta densidad 2026-08-03; 11 por alta densidad 2ª tanda 2026-08-03; 14 por alta densidad 3ª tanda 2026-08-03, neto −11; 19 por alta densidad 4ª tanda 2026-08-04; 6 por limpieza de paréntesis 2026-08-04, neto −5 por el re-sembrado de `[[respuesta_divina]]`; 1 por normalización de nombres con paréntesis 2026-08-08)
 
 ## Metodología
@@ -2243,3 +2243,37 @@ Huérfanos ya registrados en secciones anteriores que aumentan sus conteos
 Nota: se retira del registro del Lote 2 la fila `[[templo_de_jerusalen]]`:
 no es huérfano, pues existe `wiki/conceptos/templo_de_Jerusalén.md` (el
 detector normaliza acentos y no lo reporta).
+
+### Lote 4 (2026-08-14)
+
+Al completar los resúmenes 15-20 (Tercera Parte: la vida en Cristo — el
+Decálogo) se sembraron intencionalmente los siguientes wikilinks sin
+artículo (forward references). Su contenido está tratado en
+`wiki/Resúmenes/Catecismo_Iglesia_Católica/` y en la fuente raw:
+
+| Wikilink | Referencias | Resúmenes |
+|----------|-------------|-----------|
+| `[[segundo_mandamiento]]` | 1 | 18 |
+| `[[septimo_mandamiento]]` | 1 | 18 |
+| `[[suicidio]]` | 1 | 18 |
+
+### Lote 5 (2026-08-14)
+
+Al completar los resúmenes 21-24 (Cuarta Parte: la oración cristiana — la
+oración del Señor "Padre Nuestro") se sembró intencionalmente el siguiente
+wikilink sin artículo (forward reference). Su contenido está tratado en
+`wiki/Resúmenes/Catecismo_Iglesia_Católica/` y en la fuente raw:
+
+| Wikilink | Referencias | Resúmenes |
+|----------|-------------|-----------|
+| `[[doxologia]]` | 2 | 21, 24 |
+
+Huérfano ya registrado en secciones anteriores que aumenta su conteo (el de
+la tabla principal se actualizará en la re-auditoría integral):
+
+| Wikilink | Conteo previo | Conteo actual | Nota |
+|----------|---------------|---------------|------|
+| `[[marana_tha]]` | 2 | 3 | Nuevo en resumen 24 (ya en Lote 3, resumen 11) |
+
+Nota: en el resumen 22 se corrigió `[[mónada|santos]]` → `[[santos]]` (el
+destino `mónada` no existe y no se sembró como huérfano).
