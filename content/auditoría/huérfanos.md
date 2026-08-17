@@ -2,12 +2,12 @@
 type: Concepto Teológico
 title: Auditoría de wikilinks huérfanos
 timestamp: 2026-08-06
-description: "Registro de wikilinks sin artículo propio en el wiki. 2026-08-14: CEC Lote 5 de resúmenes (21-24, Cuarta Parte) introduce 1 huérfano nuevo: doxologia."
+description: "Registro de wikilinks sin artículo propio en el wiki. 2026-08-16: los resúmenes 16-31 de Formación religiosa de jóvenes (Tihamer Toth) introducen 10 huérfanos nuevos (ver sección «Sembrados por los resúmenes de Formación religiosa de jóvenes -- Tihamer Toth»)."
 ---
 # Auditoría de wikilinks huérfanos
 
 > Generado originalmente: 2026-06-19
-> Última actualización: **2026-08-14 — Lote 5 de resúmenes del Catecismo de la Iglesia Católica (CEC). 1 huérfano nuevo sembrado (ver sección «Sembrados por los resúmenes del Catecismo de la Iglesia Católica»): `[[doxologia]]`. Aumenta su conteo el ya registrado `[[marana_tha]]` (2→3, resumen 24).**
+> Última actualización: **2026-08-16 — Resúmenes 16-31 de Formación religiosa de jóvenes -- Tihamer Toth (FRD). 10 huérfanos nuevos sembrados (ver sección «Sembrados por los resúmenes de Formación religiosa de jóvenes -- Tihamer Toth»): `[[alegría_espiritual]]`, `[[confesión_frecuente]]`, `[[contracepción]]`, `[[defecto_dominante]]`, `[[escrúpulos]]`, `[[gracia_sanativa]]`, `[[maría]]`, `[[moral_católica]]`, `[[reato_de_pena_temporal]]`, `[[santidad_de_vida]]`. Aumentan su conteo los ya registrados `[[historia_de_la_iglesia]]` (3→5), `[[imitación_de_cristo]]` (2→4) y `[[padres]]` (1→2).**
 > Total de wikilinks huérfanos registrados: **1563** (pendientes de artículo; detector 2026-08-14, excluido el falso positivo `[[concepto]]`;WoF-3 introduce 9 huérfanos nuevos: `[[blas_pascal]]`, `[[nietzsche]]`, `[[nones]]`, `[[periferias]]`, `[[micro_moralidad]]`, `[[macro_moralidad]]`, `[[evangelización_digital]]` (ya creado), `[[videojuegos]]` (ya creado), `[[aristóteles]]` (ya creado); 7 artículos nuevos creados: san_isidoro_de_sevilla, fulton_sheen, george_orwell, robert_barron, evangelización_digital, videojuegos, aristóteles; 2026-08-13: CBL introduce 3 huérfanos nuevos; 2026-08-14: 1 resuelto por renombrado de preexistencia_de_cristo → preexistencia_del_verbo; 2026-08-14: CEC Lote 1 introduce 2 huérfanos nuevos; 2026-08-14: CEC Lote 2 introduce 21 huérfanos nuevos; 2026-08-14: CEC Lote 3 introduce 16 huérfanos nuevos; 2026-08-14: se retira `[[templo_de_jerusalen]]` del registro del Lote 2 por no ser huérfano — existe `wiki/conceptos/templo_de_Jerusalén.md`)
 > Resueltos: 35+29+11+14+19+6+1 (6 en 2026-07-15/16 — ver sección final; 26 por re-auditoría 2026-08-01; 3 por BMV 2026-08-03; 29 por alta densidad 2026-08-03; 11 por alta densidad 2ª tanda 2026-08-03; 14 por alta densidad 3ª tanda 2026-08-03, neto −11; 19 por alta densidad 4ª tanda 2026-08-04; 6 por limpieza de paréntesis 2026-08-04, neto −5 por el re-sembrado de `[[respuesta_divina]]`; 1 por normalización de nombres con paréntesis 2026-08-08)
 
@@ -2277,3 +2277,33 @@ la tabla principal se actualizará en la re-auditoría integral):
 
 Nota: en el resumen 22 se corrigió `[[mónada|santos]]` → `[[santos]]` (el
 destino `mónada` no existe y no se sembró como huérfano).
+
+## Sembrados por los resúmenes de Formación religiosa de jóvenes -- Tihamer Toth (2026-08-16)
+
+Al completar los resúmenes 16-31 de la fuente FRD (plantillas 16-31) se
+sembraron intencionalmente los siguientes wikilinks sin artículo (forward
+references). Su contenido está tratado en
+`wiki/Resúmenes/Formación religiosa de jóvenes -- Tihamer Toth/` y en la
+fuente raw:
+
+| Wikilink | Referencias | Resúmenes |
+|----------|-------------|-----------|
+| `[[santidad_de_vida]]` | 2 | 19 |
+| `[[reato_de_pena_temporal]]` | 2 | 17 |
+| `[[moral_católica]]` | 2 | 16 |
+| `[[gracia_sanativa]]` | 1 | 17 |
+| `[[escrúpulos]]` | 1 | 17 |
+| `[[defecto_dominante]]` | 1 | 17 |
+| `[[contracepción]]` | 1 | 23 |
+| `[[confesión_frecuente]]` | 1 | 17 |
+| `[[alegría_espiritual]]` | 1 | 16 |
+| `[[maría]]` | 1 | 24 |
+
+Huérfanos ya registrados que aumentan sus conteos (los de la tabla
+principal se actualizarán en la re-auditoría integral):
+
+| Wikilink | Conteo previo | Conteo actual | Nota |
+|----------|---------------|---------------|------|
+| `[[historia_de_la_iglesia]]` | 3 | 5 | Nuevo en resumen 16 |
+| `[[imitación_de_cristo]]` | 2 | 4 | Nuevo en resumen 19 (ya en AvEsp §5.2, §8.35) |
+| `[[padres]]` | 1 | 2 | Nuevo en resumen 29 |
