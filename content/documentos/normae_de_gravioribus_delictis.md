@@ -25,11 +25,14 @@ Reforma de las *Normae* de 2001 que introduce cambios sustanciales: ampliación 
 
 ## Resúmenes
 
-El resumen estructurado de la fuente está en `wiki/Resúmenes/Cambios_Gravioribus_delictis/`:
+El resumen estructurado de la fuente está en `wiki/Resúmenes/Normae_de_delictis_gravioribus/`:
 
 | # | Archivo | Contenido |
 |---|---------|-----------|
-| 01 | [[01_breve_relación_sobre_los_cambios_introducidos_en_las_normae_de_gravioribus_delic]] | Breve relación sobre los cambios introducidos en las *Normae de gravioribus delictis*: las 17 modificaciones de 2010 (facultades del Romano Pontífice y delitos reservados) |
+| 01 | [[01_introducción]] | Carta de la CDF sobre las modificaciones a SST |
+| 02 | [[02_normas_sustanciales]] | Arts. 1–7: delitos contra la fe, Eucaristía, Penitencia, moral y ordenación |
+| 03 | [[03_normas_procesales]] | Arts. 8–31: constitución del tribunal, competencia y procedimiento |
+| 04 | [[04_breve_relación]] | Breve Relación: 17 modificaciones de 2010 |
 
 ## Ver también
 

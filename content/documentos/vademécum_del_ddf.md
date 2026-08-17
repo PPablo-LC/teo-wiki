@@ -23,6 +23,14 @@ description: "Guía paso a paso desde la *notitia criminis* hasta la conclusión
 
 Guía paso a paso desde la *notitia criminis* hasta la conclusión definitiva del proceso. Aborda: configuración del delito (art. 6 SST), definición de menor y adulto vulnerable, recepción de la notitia, investigación previa, opciones del DDF (archivo, medidas disciplinarias, precepto penal, proceso penal), tipos de proceso (judicial, extrajudicial, art. 26 SST) y desarrollo del proceso extrajudicial según el CIC.
 
+## Resúmenes
+
+El resumen estructurado de la fuente está en `wiki/Resúmenes/Vademecum_casos_de_abuso/`:
+
+| # | Archivo | Contenido |
+|---|---------|-----------|
+| 01 | [[01_vademécum]] | Resumen completo: configuración del delito, notitia criminis, investigación previa, medidas cautelares, opciones de la DDF, proceso penal y recursos |
+
 ## Ver también
 
 [[sacramentorum_sanctitatis_tutela]], [[código_de_derecho_canónico]], [[abuso_sexual_de_menores]]

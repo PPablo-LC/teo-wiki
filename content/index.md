@@ -3,7 +3,7 @@ tags:
   - meta
   - index
 title: Wiki Index
-updated: '2026-08-15'
+updated: '2026-08-17'
 note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts/regenerar-indice.py'
 ---
 
@@ -3642,6 +3642,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 ### V (Documentos)
 
 - [[v_concilio_de_letran]]
+- [[vademecum_casos_de_abuso]]
 - [[vademécum_del_ddf]]
 - [[veritatis_splendor]]
 - [[viaje_apostólico_españa_2026]]

@@ -23,6 +23,14 @@ description: "Reforma el Libro VI del CIC sobre las sanciones penales en la Igle
 
 Reforma el Libro VI del CIC sobre las sanciones penales en la Iglesia, respondiendo al «cambio de época». Busca hacer del derecho penal un instrumento pastoral ágil para la corrección y la sanación. Subraya la relación entre caridad y disciplina sancionatoria, los tres fines de la pena (justicia, enmienda del reo, reparación del escándalo) y la necesidad de superar la negligencia pastoral. Cita como antecedentes «Como una madre amorosa» (2016) y «Vos estis lux mundi» (2019).
 
+## Resúmenes
+
+El resumen estructurado de la fuente está en `wiki/Resúmenes/Pascite_gregem_dei/`:
+
+| # | Archivo | Contenido |
+|---|---------|-----------|
+| 01 | [[01_constitución_apostólica]] | Constitución Apostólica: contexto, relación caridad-disciplina penal, tres fines de la pena, principios de la reforma |
+
 ## Ver también
 
 [[código_de_derecho_canónico]], [[como_una_madre_amorosa]], [[vos_estis_lux_mundi]]
