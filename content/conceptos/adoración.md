@@ -66,6 +66,10 @@ En la IIIª q.25, Santo Tomás aplica la doctrina de la adoración a Cristo en r
 
 El amor y la unión con el Señor, que conllevan el cumplimiento de su voluntad, se alimentan, en primer lugar, a través de un conjunto de comportamientos en relación con Dios, entre los que resalta la adoración como el primer comportamiento. A la adoración siguen la oración, la aceptación de la cruz de Cristo, la acción de gracias, la petición, la docilidad, la conducta propia de un hijo de Dios que lleva a un confiado abandono en la divina providencia, la humildad y la penitencia por los pecados (Ele_Xto_Stos, Cap. III, §4a).
 
+### Perspectivas por fuente — WoF-5
+
+**Sreyro** presenta la adoración como la más profunda *metamorphosis*: transforma lo que haces en aquello que adoras. La adoración re-ordena la vida entera, estableciendo un ritmo continuo de la vida divina — no como acto aislado sino como disposition permanente que configura cada dimensión de la existencia. Adorar a Dios es permitir que Él se convierta en el centro de todo lo que se es y se hace, de modo que la vida misma se convierte en un acto de culto.
+
 ## Distinciones importantes
 
 - **Adoración (latría) vs. veneración (dulía)**: la adoración se debe solo a Dios; a los santos y ángeles se les da culto de dulía

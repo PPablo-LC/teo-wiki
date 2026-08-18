@@ -118,6 +118,14 @@ Nesteros también enseña en la Conferencia XV que los carismas divinos —inclu
 
 [VocTeoBib, «Oración»] La oración en el AT está constantemente vinculada al designio salvífico de Dios: Moisés intercede por el pueblo (Ex 32,11-14; 33,17), los profetas oran como intercesores (Jer 15,1; 2Mac 15,14), y el salterio constituye la oración de la asamblea, donde la alabanza, la súplica y la acción de gracias se entrelazan. Jesús enseña el padrenuestro como centro de la oración filial (Lc 11,2ss; Mt 6,9-13). Su propia oración abarca toda su misión: en el Getsemaní ofrece la obediencia filial (Mc 14,36), y su oración sacerdotal revela el misterio de su intercesión (Jn 17). La Iglesia, desde Pentecostés, persevera en la oración comunitaria (Act 1,14; 2,42). Pablo concibe la oración como lucha (Rom 15,30) y acción de gracias (Flp 4,6), subrayando que el Espíritu del Hijo ora en nosotros: «Abba, Padre» (Gal 4,6; Rom 8,15).
 
+### Perspectivas por fuente — WoF-5
+
+**Taylor** presenta la oración como antidote against the Pelagianism of "we can do it ourselves": la oración es el reconocimiento radical de que el hombre no puede bastarse a sí mismo para alcanzar la salvación o la santidad, y que necesita del auxilio divino en cada paso del camino espiritual. Contra toda tentación de autosuficiencia, la oración restituye la dependencia filial de Dios.
+
+**Woodyard** afirma con crudeza que God shows up more powerfully when we shut up: la oración auténtica implica silencio interior, vaciamiento de las propias pretensiones y apertura a la voz de Dios que se manifiesta precisamente en el vacío que dejamos cuando callamos nuestro ruido interior.
+
+**Lacy** define la oración como conversation with the Divine is «an act of love in its purest form»: la oración es el acto de amor más puro porque en ella el alma se dirige a Dios sin intermediarios, sin cálculos, simplemente como amante que busca al Amado.
+
 ## Distinciones importantes
 
 - Oración en sentido amplio: cualquier movimiento del alma hacia Dios por cualquier virtud infusa.

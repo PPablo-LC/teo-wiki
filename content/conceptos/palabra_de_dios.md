@@ -1,69 +1,89 @@
 ---
-type: Concepto Teológico
-title: Palabra de Dios
-tags: ["dogmática", "teología_fundamental"]
-
-timestamp: 2026-05-26
-description: "La Palabra de Dios es la comunicación de Dios mismo y de su designio salvífico a los hombres, que se expresa de modo supremo en Jesucristo, el Verbo encarnado."
+type: "Concepto Teológico"
+title: "Palabra de Dios"
+description: "La Palabra de Dios es Cristo mismo, el Verbo encarnado que revela plenamente al Padre y la fuente de toda revelación."
+timestamp: 2026-08-18
+tags:
+  - dogmática
+  - revelación
+  - palabra_de_dios
 ---
-# Palabra de Dios
 
-> Área: Dogmática / Teología fundamental
-> Última actualización: 2026-05-26
+> Área: Teología Dogmática / Revelación
+> Última actualización: 2026-08-18
 
 ## Definición
 
-La Palabra de Dios es la comunicación de Dios mismo y de su designio salvífico a los hombres, que se expresa de modo supremo en Jesucristo, el Verbo encarnado, y se transmite por la Sagrada Escritura y la Sagrada Tradición bajo la guía del Magisterio de la Iglesia.
+**Palabra de Dios** (*Verbum Dei*) designa, en primerísimo lugar, a Cristo Jesús, el Verbo eterno del Padre, encarnado para la salvación del mundo (Jn 1,1-14; Col 1,15-20). El Concilio Vaticano II afirma que «Dios, invisible» puede ser conocido «mediante las obras suyas» con la luz de la razón humana (LG 14), pero la plenitud de su autorevelación se encuentra en la persona de Jesucristo.
+
+En un sentido derivado pero legítimo, la expresión «Palabra de Dios» se aplica también a la Escritura sagrada, que es Palabra de Dios escrita bajo la inspiración del Espíritu Santo (2Tim 3,16; DV 11). La Escritura no es simplemente un registro humano del encuentro con Dios, sino que contiene la Palabra de Dios misma, transmitida de manera inerrante en lo que afirma para nuestra salvación.
 
 ## Desarrollo doctrinal
 
-### Cristo, la Palabra suprema
+### La Palabra de Dios en la Dei Verbum
 
-Jesucristo, el Verbo eterno hecho carne, es la Palabra única, perfecta e insuperable del Padre. En Él lo dice todo; no habrá otra palabra más que esta. La economía cristiana, como alianza nueva y definitiva, nunca pasará (CEC §65-66).
+La Constitución Dogmática *Dei Verbum* del Concilio Vaticano II (1965) constituye la referencia fundamental para el estudio de la Palabra de Dios en su doble dimensión: Cristo y la Escritura. El documento distingue con claridad entre la revelación — acto libre de Dios por el que se da a conocer — y la Palabra de Dios — el contenido mismo de esa revelación, que se encarna en Cristo y se transmite en la Escritura y la Tradición.
 
-### Palabra escrita y transmitida
+### La dualidad de la Palabra
 
-La Sagrada Escritura es la palabra de Dios en cuanto se consigna por escrito bajo la inspiración del Espíritu Santo (DV 9). La Sagrada Tradición transmite íntegramente a los sucesores de los Apóstoles la palabra de Dios confiada por Cristo (DV 9). Ambas constituyen un solo depósito sagrado de la palabra de Dios (DV 10).
+La teología católica mantiene una dualidad esencial en el concepto de Palabra de Dios:
 
-### Eficacia de la Palabra
+1. **Palabra primera — Cristo**: el Verbo eterno del Padre, «que era en el principio junto a Dios, y era Dios» (Jn 1,1). Cristo no solo *anuncia* la Palabra, sino que *es* la Palabra. En Él se da la unidad perfecta entre el mensajero y el mensaje.
 
-«La palabra de Dios es viva y eficaz» (Hb 4,12). Es apoyo y vigor de la Iglesia, fortaleza de la fe, alimento del alma, fuente pura y perenne de la vida espiritual (DV 21). La predicación eclesiástica debe nutrirse de la Sagrada Escritura (DV 21).
+2. **Palabra segunda — la Escritura**: la Palabra de Dios escrita, que bajo la asistencia del Espíritu Santo fue consignada por autores humanos para perpetuar la revelación a lo largo de los siglos (DV 12).
+
+### La Palabra como alimento del alma
+
+La tradición patrística y espiritual ha desarrollado extensamente la idea de la Palabra de Dios como alimento espiritual del alma. San Jerónimo decía: «Ignorar la Escritura es ignorar a Cristo». Los Padres de la Iglesia veían en la lectura de la Escritura un acto sacramental: al recibir la Palabra, el fiel recibe a Cristo mismo.
+
+### La Palabra en la liturgia y en la predicación
+
+La Constitución sobre la Sagrada Liturgia (*Sacrosanctum Concilium*, 7) establece la conexión íntima entre la Palabra celebrada en la liturgia y la Palabra predicada por el ministerio eclesial. La homilía tiene como función específica hacer resonar la Palabra de Dios en la vida concreta de los fieles (SC 52; GIRM 66).
 
 ## Perspectivas por fuente
 
-### Según el Catecismo (CEC)
+### Word on Fire — Words Become Flesh (WoF-4)
 
-«La palabra de Dios es viva y eficaz» (CEC §128, Hb 4,12). La Iglesia ha venerado siempre las Sagradas Escrituras al igual que el Cuerpo del Señor (CEC §103). «Es tan grande el poder y la fuerza de la Palabra de Dios, que constituye sustento y vigor para la Iglesia» (CEC §131).
-### Según el Concilio Vaticano II (ConcVatII)
+**Hahn** señala que «la oración presupone que la fe ha precedido». La Palabra de Dios no puede ser recibida auténticamente sin fe previa: es la fe la que abre el corazón para escuchar. La oración es, en cierto sentido, la respuesta de la fe a la Palabra que Dios dirige al hombre.
 
-*Dei Verbum* comienza declarando que el Concilio escucha religiosamente la palabra de Dios y la proclama confiadamente (DV 1). Jesucristo, Verbo encarnado, completa la revelación y es mediador y plenitud de toda la revelación (DV 2). La palabra de Dios se transmite por la Tradición y la Escritura (DV 7-10). La palabra de Dios es viva y eficaz (DV 21). «El desconocimiento de las Escrituras es desconocimiento de Cristo» (DV 25).
+**Thompson** profundiza en cómo la Palabra de Dios se convierte en carne a través de la predicación y los sacramentos. La Encarnación no es un evento concluido en el pasado; se perpetúa cada vez que la Palabra es proclamada con fidelidad y cuando los sacramentos la hacen presente de manera sacramental.
 
+### Word on Fire — Word of God (WoF-5)
 
-### Según Don y Misterio (DyM)
+**Braga** estudia el Evangelio de Juan como escrito que apunta a demostrar que Jesús es el Hijo de Dios. El «prólogo johánico» (Jn 1,1-18) es la síntesis más densa de la teología de la Palabra de Dios en el Nuevo Testamento: el Verbo que era Dios, que se hizo carne, que trajo gracia y verdad.
 
-Juan Pablo II describe al sacerdote como «hombre de la Palabra» [DyM, IX]. La [[palabra_de_dios]] es fundamento de la predicación y de la catequesis. El Papa testimonia que una de sus ocupaciones habituales como sacerdote era el estudio teológico, pues la inteligencia de la fe es necesaria para anunciar el Evangelio al hombre contemporáneo [DyM, IX].
+**Hare** sostiene que la Escritura proporciona el contexto de inteligibilidad para la revelación. Sin la Escritura, la revelación se deshistoriciza y pierde su concreción. La Palabra escrita es el marco que permite comprender el sentido profundo de los acontecimientos salvíficos.
 
-### Según el Vocabulario de Teología Bíblica (VocTeoBib)
+**Iverson** observa que las Escrituras muestran a Jesús en toda su riqueza: humano y divino, servidor y Señor, sufriente y glorioso. La lectura atenta de la Escritura revela dimensiones de la persona de Cristo que la cultura dominante tiende a ocultar.
 
-[VocTeoBib, «Palabra de Dios»] La palabra de Dios es un hecho central de la revelación bíblica: Dios habla a los hombres por los profetas, y su palabra es a la vez revelación y poder eficaz. En el AT la palabra divina crea (Sal 33,6-9), legisla (Ex 20,1-17), promete (Is 55,10s) y juzga. Es una realidad dinámica que opera infaliblemente lo que anuncia. El hombre debe acogerla con fe, esperanza y amor (Dt 6,4ss; Sal 119). En el NT, la palabra de Dios se concentra en la persona de Jesús: él mismo es el Verbo hecho carne (Jn 1,1-14). Su palabra tiene poder creador (milagros) y revelador (Jn 6,63; 8,28). La predicación apostólica prolonga esta palabra, que es «viva y eficaz» (Heb 4,12) y engendra la fe (1Pe 1,23). La respuesta al Verbo encarnado determina el destino eterno de cada hombre (Jn 1,12; 3,17ss).
+**Taylor** afirma que la conversión es la esencia del Evangelio. La Palabra de Dios tiene una fuerza transformadora: quien la recibe con fe es conducido a una conversión permanente, un retorno continuo al centro de la vida que es Cristo.
+
+**Tiffany** investiga qué significa creer según el Nuevo Testamento. La fe no es asentimiento intelectual puro sino adhesión personal a la Palabra revelada, un acto que compromete toda la existencia del creyente.
 
 ## Distinciones importantes
 
-- **Palabra de Dios increada**: el Verbo eterno, segunda Persona de la Trinidad
-- **Palabra de Dios encarnada**: Jesucristo, Palabra hecha carne
-- **Palabra de Dios inspirada**: la Sagrada Escritura
-- **Palabra de Dios transmitida**: la Tradición apostólica
-- **Palabra de Dios predicada**: el ministerio de la palabra
+- **Palabra de Dios (Cristo) vs. Escritura (Palabra escrita)**: Cristo es la Palabra primera y definitiva; la Escritura es Palabra de Dios en sentido analógico, derivado y subordinado. La Escritura *contiene* la Palabra de Dios sin ser *idéntica* a ella.
+
+- **Escritura vs. Tradición**: ambas fluyen de la misma fuente divina y constituyen un único depósito de la fe (DV 9-10). La Escritura es la Palabra de Dios consignada por escrito; la Tradición es la transmisión viva de la Palabra a través de la comunidad eclesial.
+
+- **Revelación pública vs. revelación privada**: la revelación pública se ha completado con la muerte del último apóstol y se contiene íntegramente en la Escritura y la Tradición. Las revelaciones privadas (apariciones, visiones) no añaden nada al depósito de la fe, aunque pueden ayudar a vivirlo mejor en una época determinada.
 
 ## Relaciones doctrinales
 
-Se relaciona con [[revelación_divina]], [[sagrada_escritura]], [[tradición_apostólica]], [[verbo_divino]], [[encarnación]] y [[ministerio_de_la_palabra]].
+La [[palabra_de_dios]] es inseparable de la [[encarnación]: la Palabra eterna del Padre se hace carne en Cristo, y esa misma Palabra sigue haciéndose presente en la Escritura y los sacramentos. La relación con la [[Escritura_sagrada]] es de continuidad orgánica: la Escritura es la transmisión escrita de la Palabra de Dios.
+
+La [[exégesis_católica]] se ocupa de la interpretación científica de la Escritura a la luz de la Tradición y del Magisterio. La [[interpretación_bíblica]], en su dimensión más amplia, incluye también la lectura espiritual y la predicación.
 
 ## Ver también
 
-[[revelación_divina]], [[sagrada_escritura]], [[tradición_apostólica]], [[dei_verbum]]
+- [[encarnación]]
+- [[Escritura_sagrada]]
+- [[exégesis_católica]]
+- [[interpretación_bíblica]]
 
 ## Referencias
 
-- [ConcVatII, DV §1-26]
-- [CEC §101-141]
+- **DV**: *Dei Verbum*, Constitución Dogmática sobre la Divina Revelación, Concilio Vaticano II (1965).
+- **SC**: *Sacrosanctum Concilium*, Constitución sobre la Sagrada Liturgia, Concilio Vaticano II (1963).
+- **WoF-4**: *Words Become Flesh*, Word on Fire, ciclo de conferencias (edición 4).
+- **WoF-5**: *Word of God*, Word on Fire, ciclo de conferencias (edición 5). Conferencias de Braga, Hare, Iverson, Taylor y Tiffany.

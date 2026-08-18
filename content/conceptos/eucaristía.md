@@ -279,6 +279,16 @@ San Francisco de Asís muestra una devoción eucarística profunda y teológicam
 
 Mons. Munilla desarrolla el elemento del altar y el sagrario de la carta de León XIV como centro de la vida sacerdotal. En el altar, por las manos del sacerdote, «se actualiza el sacrificio de Cristo en la más alta acción confiada a manos humanas»; en el sagrario permanece «aquel que habéis ofrecido». El Papa pide «hombres adoradores, hombres de profunda oración». La Eucaristía es «la piedra fundamental» que identifica al sacerdote: el obispo confiesa que su «momento favorito del día» es celebrar la Misa, incluso en soledad en su capilla, porque «no hay nada más fundante». Munilla contrapone esta centralidad a la causa de abandono del sacerdocio citada por el sacerdote secularizado de Milán: la «pérdida del sentido de la misa», que gestionaba «un rito que ya veía que no hablaba a las personas». La respuesta es que la Eucaristía «no es un rito que haces ante un público», sino que «lo central es que te estás configurando con Cristo»: el sacerdote no habla como el mismo Cristo («este es mi cuerpo que se entrega por vosotros») para buscar un público, sino para configurarse. «Si la vida sacerdotal no es eso, todo es decoración»; si no hay vida interior ante el sagrario, «todo se vuelve autorreferencial, todo es fugaz y provisional». Los sacerdotes están llamados a ser «primero adoradores y después administradores». La pregunta clave de la vida sacerdotal es «¿en dónde tengo yo mi descanso?»: «si un día no me encuentran, ¿por dónde empiezan a buscarme?» El pasaje del discípulo amado reclinando su cabeza en el costado de Cristo —corazón del Evangelio de Juan, que Orígenes llama «el tesoro, el corazón de la Escritura»— es la imagen de la Eucaristía como descanso y clave para configurar la vida: «ser Cristo para la vida del mundo» [CIS, 2026].
 
+### Perspectivas por fuente — WoF-4
+
+**Barron** subraya la conexión profunda entre las palabras de la consagración y la narrativa de la salvación: en cada celebración eucarística se reactiva el relato salvífico que culmina en la muerte y resurrección de Cristo. La Eucaristía no es un rito aislado sino la celebración viva del misterio pascual.
+
+**Harrison y Krótki** presentan la perspectiva sacerdotal (*priestly narrative*): la fórmula «*reme*» —«os perdona los pecados»— encapsula la misión salvífica de Cristo que se renueva en la Eucaristía. El sacerdote, al actuar *in persona Christi*, proclama y aplica este perdón en cada misa.
+
+**Thompson y Sapier** muestran cómo las prefiguraciones del Antiguo Testamento —el sacrificio de Melquisedec, el maná en el desierto— prefigure Christ's final self-offering: la Eucaristía es el cumplimiento de todas las figuras veterotestamentarias que apuntaban al sacrificio único y definitivo del Cordero de Dios.
+
+**Thompson y Sapier** presentan también a Jesus as the ultimate host at a sacred meal: la Eucaristía como banquete donde Cristo mismo es el anfitrión que invita, alimenta y comunica su propia vida a los comensales, realizando la plenitud de la hospitalidad divina.
+
 ## Distinciones importantes
 
 - **Transubstanciación**: cambio de sustancia, permaneciendo los accidentes

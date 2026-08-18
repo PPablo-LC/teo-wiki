@@ -29,6 +29,14 @@ Dios es la fuente de toda belleza (CEC §41). El arte sacro debe ser bello, expr
 
 León XIV destacó la belleza como vehículo de evangelización durante su visita a la Sagrada Familia de Barcelona (14 de junio): «La belleza es un eminente canal de evangelización» [L_XIV-ViajeEspaña-2026, Sagrada Familia 14 — discurso]. Describió la arquitectura de Gaudí como «teología en piedra» y afirmó que «la fe cristiana no solo es verdad y bondad, también es belleza» [L_XIV-ViajeEspaña-2026, Sagrada Familia 14 — discurso]. En el encuentro en el Movistar Arena (5 de junio), presentó la belleza como camino hacia la trascendencia [L_XIV-ViajeEspaña-2026, Movistar Arena 05 — discurso].
 
+### Perspectivas por fuente — WoF-4
+
+La misión a los judíos incluye la belleza del mismísimo Dios, cuya faz se revela en la creación y culmina en la Encarnación. El arte se presenta como puente entre lo finito y lo infinito, mediación sensible de la belleza divina. Los misterios centrales de la fe —la Encarnación, la Resurrección, la Ascensión, el Pentecostés, la Natividad— no son «pequeñeces», sino los acontecimientos supremos de la historia de la salvación, fuente inagotable de belleza cósmica.
+
+### Perspectivas por fuente — WoF-5
+
+Dilley presenta el *eros* como fuerza de vida en diálogo con la belleza: el deseo, el apetito y la fama se comprenden a la luz de la Belleza divina como orientación última de todo anhelo humano.
+
 ## Relaciones doctrinales
 
 La belleza se relaciona con el [[arte_sacro]], con [[dios]] como fuente de toda belleza, con la [[gloria]] divina, y con la [[cultura]] como expresión de la creatividad humana elevada por la gracia.

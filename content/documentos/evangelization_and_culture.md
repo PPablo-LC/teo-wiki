@@ -27,6 +27,8 @@ tags:
 | 1 | Issue 1 | Creativity | 2019 | [[evangelization_and_culture_issue_1_creativity]] |
 | 2 | Issue 2 | Economics | Winter 2019 | [[evangelization_and_culture_issue_2_economics]] |
 | 3 | Issue 3 | The Digital Age | Spring 2020 | [[evangelization_and_culture_issue_3_digital_age]] |
+| 4 | Issue 4 | Cinema | Summer 2020 | [[evangelization_and_culture_issue_4_cinema]] |
+| 5 | Issue 5 | Scripture | Autumn 2020 | [[evangelization_and_culture_issue_5_scripture]] |
 
 ## Temas centrales por número
 
@@ -64,6 +66,33 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - Silencio y oración en la era de la información
 - Entrevistas con Dave Rubin y Oliver Jeges
 
+### Issue 4: Cinema (Summer 2020)
+Para el desarrollo completo de este número, véase [[evangelization_and_culture_issue_4_cinema]].
+- San Genesio de Roma: del burlón al mártir
+- Tomás Moro en *A Man for All Seasons*
+- Cine clásico de Hollywood y el Production Code (ley natural)
+- Elizabeth Anscombe: filosofía y fe
+- La Word on Fire Bible: diseño como evangelización
+- Metanarrativa cristiana en el cine (Pageau)
+- Terrence Malick y la vuelta a la fe
+- Ética de la contemplación cinematográfica (Hibbs)
+- Los católicos en el cine: León XIII, Pío XI, Pío XII, Juan Pablo II
+
+### Issue 5: Scripture (Autumn 2020)
+Para el desarrollo completo de este número, véase [[evangelization_and_culture_issue_5_scripture]].
+- San Mateo: del publicano al evangelista
+- Russell Kirk y sus thrillers agustinos
+- *Waco*: la Biblia como libro de la Iglesia
+- El genio de San Pablo (N.T. Wright)
+- Dignidad vs. autonomía en bioética (Kaczor)
+- Caravaggio y San Mateo
+- Dispositivos literarios de la evangelización de Jesús (Ordway)
+- Salmos imprecatorios y «odio perfecto» (Ramage)
+- La ley como forma de gracia (Petrusek)
+- Hermenéutica bíblica católica (Rowland)
+- Oración imaginativa ignaciana (Scalia)
+- El arte de la oración (Fr. Jacques Philippe)
+
 ## Autores destacados
 
 - Bishop Robert Barron (director, Word on Fire)
@@ -77,6 +106,15 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - James K. Lee
 - Matt Nelson
 - Sr. Maria Kim-Ngân Bùi, FSP
+- N.T. Wright (biblista anglicano)
+- Dr. Tracey Rowland (teología de Communio)
+- Dr. Holly Ordway (apologeta)
+- Fr. Jacques Philippe (Comunidad de las Bienaventuranzas)
+- Dr. Christopher Kaczor (bioética)
+- Jonathan Pageau (iconógrafo)
+- Andrew Graham-Dixon (historiador del arte)
+- Jennifer Frey (filósofa)
+- Elizabeth Anscombe (filósofa)
 
 ## Relación con otras fuentes
 

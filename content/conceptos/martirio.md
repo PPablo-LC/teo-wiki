@@ -61,6 +61,10 @@ El máximo testimonio «es el martirio» [EA §26]. Es necesario que los ejemplo
 
 La Veritatis Splendor (§90-94) presenta el martirio como el testimonio más elevado de la verdad moral. Los mártires de la Iglesia antigua y contemporánea dan su vida antes que realizar un acto intrínsecamente malo. El martirio manifiesta la santidad de la ley de Dios y la inviolabilidad de la dignidad personal. Citando las *Sátiras* de Juvenal («Summum crede nefas animam praeferre pudori / et propter vitam vivendi perdere causas»), la encíclica afirma que el martirio es un acto de suprema libertad (§90). Los mártires no se dejan vencer por el mal, sino que vencen el mal con el bien, entregándose a la misericordia de Dios (§93). El martirio es la confirmación más plena de que las normas morales negativas obligan siempre y sin excepción (§90-92). La sangre de los mártires hace fecunda la Iglesia y renueva la vida del pueblo de Dios (§93).
 
+### Perspectivas por fuente — WoF-4
+
+Bulman identifica tres tipos de testigos paradigmáticos del martirio: Egeria, la mujer peregrina cuyas memorias constituyen uno de los testimonios más preciados sobre la Iglesia primitiva; Genesio, el actor que se convirtió durante una representación burlona de los sacramentos y fue martirizado; y Antonino de Apamea, el filósofo cuyo testimonio de fe unitiva selló su vida con el sello del martirio. La catequesis tardía tendió a antepasar los martirios más antiguos a las necesidades catequéticas actuales, subrayando su valor ejemplar y pastoral. Desde la perspectiva del teo-drama, la vida del mártir se convierte en representación: la existencia entera del creyente es escena donde se manifiesta la gracia de Dios. Barron, por su parte, afirma que «la gracia puede usar incluso la blasfemia como instrumento de conversión», recordando que el testimonio mártir puede despertar la fe incluso en quien la rechaza con violencia.
+
 ## Distinciones importantes
 
 - **Martirio** ≠ **suicidio**: el mártir no busca la muerte, la acepta por amor a Cristo.

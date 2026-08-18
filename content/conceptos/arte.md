@@ -33,6 +33,10 @@ La Iglesia siempre ha cultivado las artes y las admite al servicio del culto, pe
 
 León XIV, en la Misa en la Sagrada Familia de Barcelona, presentó a Gaudí como «arquitecto de fe» y la basílica como «catequesis en piedra» [L_XIV-ViajeEspaña-2026, 14 — Misa en la Sagrada Familia]. Afirmó que «la belleza es un eminente canal de evangelización en este tiempo de la imagen» [L_XIV-ViajeEspaña-2026, 14 — Misa en la Sagrada Familia]. En el Encuentro con la cultura en el Movistar Arena presentó el arte como expresión del anhelo humano de trascendencia [L_XIV-ViajeEspaña-2026, 05 — Encuentro con la cultura].
 
+### Perspectivas por fuente — WoF-4
+
+Bulman afirma que «la belleza del arte es una invitación a la trascendencia». Wolfe añade que «la belleza tiene la capacidad de capturar la atención, redirigir y transformar». El cine, como medio, se presenta como una de las herramientas más poderosas para la conversión y la experiencia de los sacramentos, pues puede comunicar la fe de un modo que supera «el lenguaje puramente lógico o racional». Hahn declara que «estamos en busca de la Belleza que nos seduce de una manera que trasciende el universo». Newman sostiene que «el corazón se alcanza por la imaginación antes que por la inteligencia». Barron insiste en que «si realmente quieres ver virtud y vicio, tienes que verlos en forma dramática». En la tradición literaria cristiana, autores como Tolstoy, Dostoievski y Flannery O'Connor encarnan esta convicción, demostrando que la belleza narrativa puede ser vehículo privilegiado de la verdad revelada.
+
 ## Relaciones doctrinales
 
 Se vincula con la [[belleza]] divina, la [[liturgia]], el [[templo]] como casa de Dios y la [[música_sacra]] como arte al servicio del culto.

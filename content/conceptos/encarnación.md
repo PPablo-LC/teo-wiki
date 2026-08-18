@@ -135,6 +135,16 @@ En D-429, el mismo concilio confiesa el misterio de la Encarnación: Jesucristo 
 
 **Paulo IV** (1555), Constitución *Cum quorundam* (D-993): condenó a quienes niegan que Nuestro Señor Jesucristo fue concebido según la carne en el vientre de la siempre Virgen María por obra del Espíritu Santo; o que no sufrió la muerte de cruz para redimirnos de los pecados y reconciliarnos con el Padre.
 
+### Perspectivas por fuente — WoF-4
+
+**Bulman** presenta la divina providencia como ubiquitous, indistinguible de la *cueille dans les rues* —la Provvidenza divina se manifiesta en la captación cotidiana de los acontecimientos de la calle, de la vida ordinaria. La Encarnación es el paradigma de esta providencia: Dios se inserta en la realidad humana de manera tan concreta que su presencia resulta inseparable del tejido mismo de la existencia diaria.
+
+**Barron** desarrolla la narrativa encarnacional como surrender to the communicative power of God: la Encarnación no es solo un dato dogmático sino el movimiento supremo de Dios hacia la comunicación, que exige del hombre una respuesta de entrega. La Palabra hecha carne es el acto comunicativo definitivo de Dios con la humanidad.
+
+**Burgess** aboga por embrace every aspect of Catholic imagination, encontrando en la Encarnación el fundamento de la imaginación católica integral: la fe no se reduce a un ámbito privado sino que abarca la totalidad de la experiencia humana, desde el arte hasta la vida cotidiana, porque el Verbo se hizo carne y asumió toda la realidad humana.
+
+**Musgrave** propone connect with the Word on Fire culture, identificando en la Encarnación la fuente de la cultura católica viva: el Verbo encarnado enciende la cultura con la presencia de Dios, y los creyentes son llamados a participar de esa cultura encendida, viviendo la fe como una realidad que transforma todos los ámbitos de la vida.
+
 ## Distinciones importantes
 
 - **Unión hipostática**: unión de las dos naturalezas (divina y humana) en una sola Persona (la del Verbo).

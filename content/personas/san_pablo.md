@@ -35,6 +35,14 @@ La espiritualidad legionaria se fundamenta constantemente en citas paulinas: «V
 
 San Pablo es presentado como modelo de «sufrir con alegría» en la cárcel, convergente con la doctrina paulina del sufrimiento redentor. Su figura es también usada como ejemplo de perseverancia apostólica frente a las adversidades.
 
+### Perspectivas por fuente — WoF-4
+
+Illingworth destaca que Pablo predicó en Listra (Act 14), un hecho que revela su transformación de perseguidor a apóstol. Lo presenta como transformador de una comunidad mesiánica helenística, articulando la fe cristiana en el contexto cultural del helenismo. La Resurrección se presenta como agente decisivo en la vida de Pablo: fue el acontecimiento que cambió radicalmente su existencia y motivó su misión entre los gentiles. Raymond Brown señala las brechas que separan el Jesús histórico del Cristo celestial predicado por Pablo, abriendo una reflexión sobre la relación entre la narración evangélica y la teología paulina.
+
+### Perspectivas por fuente — WoF-5
+
+Iverson sostiene que la doctrina de la Resurrección constituye una convicción teológica necesaria para la lectura de la Biblia. Sin la resurrección, la Escritura pierde su centro y la fe cristiana se desmorona. Esta perspectiva subraya que la interpretación bíblica no puede separarse de la confesión pascual que anima todo el Nuevo Testamento.
+
 ## Ver también
 
 [[conversión]], [[justificación]], [[gracia]], [[redención]], [[cuerpo_místico]], [[virtudes_teologales]], [[nuevo_adán]], [[cruz]], [[evangelización]], [[apóstoles]]

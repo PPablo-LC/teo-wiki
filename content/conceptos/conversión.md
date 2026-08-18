@@ -60,6 +60,10 @@ La conversión en San Francisco es un camino experiencial y radical de transform
 
 **Conversión y pobreza:** En el Testamento, la conversión se vive en la pobreza: «Dieron a los pobres todo lo que pudieron tener y se contentaron con una túnica» (Test. 15). La conversión implica renunciar a la propia voluntad, como Adán que pecó al apropiarse su propia voluntad (Adm. 2).
 
+### Perspectivas por fuente — WoF-4
+
+Hahn presenta la conversión como «el mayor tesoro que podemos poseer», subrayando que es un proceso «profundamente intelectual, filosófico y teológico» que involucra la totalidad de la persona. La oración precede a la fe, preparando el corazón para recibir la verdad. El Padre Solanus Casey enseña que «en la quietud de la mente todos pueden escuchar la voz de Dios», invocando la apertura interior como condición para el encuentro. G.K. Chesterton, convertido del agnosticismo, lo expresó con la fórmula «cero o una»: la conversión no es un compromiso intermedio sino la renovación constante del ser. Bulman completa esta visión señalando que las estrategias, las destrezas y la diplomacia no son necesarias para el Espíritu: la conversión es obra de la gracia que supera los cálculos humanos.
+
 ## Distinciones importantes
 
 - Conversión primera (Bautismo) vs. segunda conversión (penitencia continua)

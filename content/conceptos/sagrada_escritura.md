@@ -64,6 +64,16 @@ Loring enseña que la Sagrada Escritura es la Palabra de Dios escrita por inspir
 
 La sagrada Escritura es inspirada por Dios y ha sido confiada a la Iglesia, en la cual debe ser leída e interpretada. Aunque la [[revelación_divina]] se contiene en la Escritura y en la [[tradición_apostólica]] como en un solo depósito, la Escritura sin la Tradición resulta formalmente insuficiente para conocer el contenido íntegro de la revelación. Por eso la teología moral se apoya a la vez en la Escritura inspirada, en la Tradición viva y en el [[magisterio_de_la_iglesia]] que la interpreta auténticamente (Cap. I, §3a).
 
+### Perspectivas por fuente — WoF-5
+
+**Braga** subraya el apologetical purpose of John's Gospel: el Evangelio de Juan no es solo un relato devocional sino una obra con finalidad apologética explícita, destinada a probar que Jesús es el Mesías y Hijo de Dios, y a conducir a la fe (Jn 20,31). La estructura teológica de Juan —con sus signos, discursos y la «hora» de Jesús— constituye una argumentación sistemática a favor de la identidad divina de Cristo.
+
+**Illich** afirma que the Bible makes people dangerous to tyrants: la Escritura, al revelar la dignidad radical de cada persona como imagen de Dios y al proclamar la libertad de los hijos de Dios, resulta inherentemente subversiva frente a todo sistema de opresión. Los tiranos temen la Biblia porque libera a los oprimidos de la sumisión ideológica.
+
+**Hare** propone que Scripture provides the context of intelligibility: sin la Escritura, los hechos de la historia de la salvación —la Encarnación, la Pasión, la Resurrección— carecerían de marco interpretativo. La Biblia no es solo fuente de datos sino el horizonte mismo que hace inteligible el plan de Dios.
+
+**Múltiples autores** coinciden en how Scripture transforms: la lectura asidua de la Palabra de Dios no es meramente informativa sino transformativa. La Escritura cambia al que la lee,因为 la Palabra de Dios es viva y eficaz (Heb 4,12), y penetrar en ella es dejarse penetrar por Dios mismo, que habita en su Palabra.
+
 ## Distinciones importantes
 
 - **Escritura vs. Tradición**: dos modos de transmisión de la misma Palabra de Dios.
