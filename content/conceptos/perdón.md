@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Perdón
 tags: ["dogmática", "moral"]
 
-timestamp: 2026-05-22
+timestamp: 2026-08-19
 description: "Remisión de los pecados otorgada por Dios al pecador arrepentido, por los méritos de Jesucristo."
 ---
 # Perdón
 
 > Área: Dogmática / Moral
-> Última actualización: 2026-05-22
+> Última actualización: 2026-08-19
 
 ## Definición
 
@@ -44,6 +44,14 @@ Cristo enseña a perdonar siempre: a Pedro le indica la cifra simbólica de «se
 
 La parábola del hijo pródigo muestra que «aquel que perdona y aquel que es perdonado se encuentran en un punto esencial, que es la dignidad, es decir, el valor esencial del hombre que no puede dejarse perder» [DM §14]. La Iglesia debe custodiar la autenticidad del perdón custodiando «la fuente, esto es, el misterio de la misericordia de Dios mismo, revelado en Jesucristo» [DM §14].
 
+### Según Evangelization & Culture, Issue 6 — Hope (EcC6)
+
+**El perdón en Tolstoy: pasos diminutos hacia la sublimidad** (Gary Saul Morson, §06): En *Ana Karenina*, el personaje de Karenin —un hombre rígido y legalista— experimenta una transformación interior cuando perdona a Anna. Morson describe este proceso como la «prosaica» de Tolstoy: «Los pequeños cambios de conciencia determinan actos grandes.» El perdón de Karenin no es un acto súbito sino el resultado de «minúltimos pasos interiores» que culminan en un acto de misericordia. Tolstoy muestra que «los grandes hechos se realizan en pasos pequeños», y que la sublimidad moral puede ser alcanzada por quien, paso a paso, transforma su corazón.
+
+**El perdón como liberación del corazón** (Jared Zimmerer, §10): La intuición ilativa de Newman incluye la capacidad de ofrecer el perdón «incluso a quien no lo merece». Zimmerer describe el perdón como «una liberación del peso del corazón» que permite al evangelizador acercarse al otro con caridad y discernimiento. El perdón no es solo un acto de justicia sino una herramienta de la esperanza que abre rutas de acceso al corazón del otro.
+
+**El perdón en la oración** (Tod Worner, §01): Mr. Rogers es presentado como ejemplo de perdón cotidiano: su práctica de orar por las personas por su nombre, su paciencia con Lloyd Vogel, su capacidad de escuchar sin juzgar. El perdón se vive en la presencia, la escucha y la oración por el otro.
+
 ## Distinciones importantes
 
 - Perdón de la culpa vs. remisión de la pena temporal
@@ -66,3 +74,4 @@ La parábola del hijo pródigo muestra que «aquel que perdona y aquel que es pe
 - CEC §2839-2845
 - CEC §2631
 - TPCr, Tercera Parte, Libro II, cap. I
+- Evangelization & Culture, Issue 6 (EcC6): §§01, 06, 10 (Worner, Morson, Zimmerer)

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Encarnación
 tags: ["cristología"]
 
-timestamp: 2026-06-21
+timestamp: 2026-08-19
 description: "La Encarnación es el misterio de la admirable unión de la naturaleza divina y de la naturaleza humana en la única Persona del Verbo (CEC §483)."
 ---
 # Encarnación
 
 > Área: Cristología
-> Última actualización: 2026-06-21
+> Última actualización: 2026-08-19
 
 ## Definición
 
@@ -145,6 +145,14 @@ En D-429, el mismo concilio confiesa el misterio de la Encarnación: Jesucristo 
 
 **Musgrave** propone connect with the Word on Fire culture, identificando en la Encarnación la fuente de la cultura católica viva: el Verbo encarnado enciende la cultura con la presencia de Dios, y los creyentes son llamados a participar de esa cultura encendida, viviendo la fe como una realidad que transforma todos los ámbitos de la vida.
 
+### Según Evangelization & Culture, Issue 6 — Hope (EcC6)
+
+**La Encarnación en el arte de Van Gogh** (Dr. William Havlicek, §09): Van Gogh es presentado como ejemplo de «natural-supernaturalism»: la unión directa de lo espiritual y lo físico, reflejando la unión de espíritu y materia en la Encarnación. Para Van Gogh, el Evangelio está escrito en el paisaje: «la tierra se convierte en una página blanca del Evangelio». Su ministerio entre mineros es cumplimiento del mandamiento del amor. *La Noche Estrellada* nace de «una terrible necesidad de religión»: la Encarnación se manifiesta en la capacidad de ver lo divino en lo creado.
+
+**La Encarnación en el hogar** (Haley Stewart, §11): La iglesia doméstica es «un símbolo encarnacional de la esperanza hecha carne, diseñada para reflejar la Sagrada Familia y educarnos en el amor sacrificial». Caryll Houselander escribe: «Sabemos por la fe que Cristo está en nuestra propia familia; es Él a quien fomentamos en nuestros hijos. Cuando le cuentas una historia a tu hijo, cuando juegas con tu pequeño hijo, cuentas una historia, juegas un juego con el Niño Jesús.» En la Misa de Navidad, «el llanto de un niño que atraviesa la oscuridad por primera vez en décadas hace que el mundo se silencie».
+
+**El Misterio Magnífico** (Sr. Josephine Garrett, §17): El himno *O Magnum Mysterium* traduce: «¡Oh gran misterio y admirable sacramento!» La Encarnación es descrita como el sacramento que «realmente tiene el poder de llevar a cabo nuestros mayores anhelos, porque este sacramento es Jesús mismo, buscando unirse a nosotros, en una relación sanadora y salvadora, conformándonos a su semejanza» (cf. Rom 8,29). La Encarnación no es una varita mágica sino la presencia de Dios que sana y salva.
+
 ## Distinciones importantes
 
 - **Unión hipostática**: unión de las dos naturalezas (divina y humana) en una sola Persona (la del Verbo).
@@ -173,3 +181,4 @@ La Encarnación es el fundamento de la [[redención]], la causa de la [[gracia_s
 - [PS §25-30]
 - SmTh IIIª q.1 aa.1-6; q.4 a.1; q.5 aa.1-4; q.6 aa.1-5; q.31 aa.1-8; q.32 aa.1-4; q.33 aa.1-4
 - [RH §1, §8, §13, §22]
+- Evangelization & Culture, Issue 6 (EcC6): §§09, 11, 17 (Havlicek, Stewart, Garrett)

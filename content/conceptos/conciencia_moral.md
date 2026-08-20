@@ -1,77 +1,86 @@
 ---
 type: Concepto Teológico
-title: Conciencia moral
-tags: ["moral"]
-
-timestamp: 2026-05-25
-description: "La conciencia moral es el juicio de la razón por el que la persona humana reconoce la cualidad moral de un acto concreto que piensa hacer, está haciendo o ha hecho."
+title: Consciencia moral
+description: "Facultad del ser humano para discernir el bien del mal, donde la voz de Dios se manifiesta en el corazón."
+timestamp: 2026-08-20
+tags:
+  - moral
+  - epistemologia
+  - newman
+  - sensibilidad_católica
 ---
-# Conciencia moral
 
-> Área: Moral
-> Última actualización: 2026-05-25
+# Consciencia moral
+
+> Área: Teología Moral / Epistemología
+> Última actualización: 2026-08-20
 
 ## Definición
 
-La conciencia moral es el juicio de la razón por el que la persona humana reconoce la cualidad moral de un acto concreto que piensa hacer, está haciendo o ha hecho. Es el núcleo más secreto y el sagrario del hombre, en el que está solo con Dios, cuya voz resuena en lo más íntimo de él (CEC §1776).
+La **consciencia moral** (o *conscience*) es la facultad del ser humano para discernir el bien del mal, donde la voz de Dios se manifiesta en el corazón. Según la tradición católica, la consciencia no es simplemente la capacidad de distinguir entre el bien y el mal (aunque también lo es), sino la voz interior de Dios que nos llama a la verdad y al bien.
 
 ## Desarrollo doctrinal
 
-La conciencia moral comprende tres momentos: la percepción de los principios de la moralidad (sindéresis), su aplicación a las circunstancias concretas, y el juicio formado sobre los actos concretos (§1780). La conciencia debe ser formada mediante la asimilación de la Palabra de Dios, la oración, los dones del Espíritu Santo, el consejo de otros y la enseñanza de la Iglesia (§1783-1785).
+### Fundamento bíblico
 
-El hombre debe obedecer siempre el juicio cierto de su conciencia. Sin embargo, la conciencia puede formar juicios erróneos. Si la ignorancia es invencible, el mal cometido no puede ser imputado al sujeto; pero si la ignorancia es culpable, la persona es responsable (§1791-1793).
+La consciencia tiene raíces profundas en la Escritura. San Pablo habla de la «ley escrita en los corazones» (Rm 2:15), y la tradición patrística desarrolla la idea de la consciencia como «testigo de Dios» (Agustín, *De Vera Religione*).
+
+### Newman y la consciencia
+
+John Henry Newman profundiza la comprensión de la consciencia como «primer obispo» del ser humano:
+
+> «La consciencia tiene sus derechos, porque la consciencia tiene sus derechos» (Newman, *A Letter to His Grace the Duke of Norfolk*, 1875).
+
+Para Newman, la consciencia no es simplemente una guía moral, sino la voz de Dios que nos interpela. Es un asentimiento real: la adhesión personal a Dios que se manifiesta en la experiencia moral.
+
+### Distinción entre consciencia y opinión
+
+La consciencia no es la opinión personal, ni el sentimiento subjetivo, ni la convención social. Es la voz de Dios que nos llama a la verdad, incluso cuando esa verdad es incómoda o contraria a nuestra cultura.
 
 ## Perspectivas por fuente
 
-### Según el Catecismo (CEC)
+### Evangelization & Culture 7 (EcC7)
 
-La conciencia moral es «el núcleo más secreto y el sagrario del hombre, en el que está solo con Dios, cuya voz resuena en lo más íntimo de ella» (§1776, citando GS 16). Es el primer vicario de Cristo, la mensajera de Dios (J.H. Newman, §1778).
+**Eileen Wilson** dedica su artículo a Newman y su influencia en Barron:
 
-### Según el Código de Derecho Canónico (CIC)
+> «Newman define la conciencia como "el eco de Dios en nuestros corazones" y dice que es un "juicio reflexivo" que hace el alma» (Wilson, "The Soul of Bishop Barron: A Newman Intuition," *Evangelization & Culture*, No. 7, Spring 2021, p. 380).
 
-El CIC regula la imputabilidad moral en los cc. 1321-1330, que establecen los criterios para determinar cuándo una infracción es atribuible a la conciencia del sujeto. La imputabilidad grave por dolo o culpa es requisito para la imposición de penas (c. 1321 §1). El que obra deliberadamente (dolo) es plenamente responsable; el que obra por omisión de la debida diligencia (culpa) tiene responsabilidad atenuada (c. 1321 §2). La ignorancia sin culpa exime de pena (c. 1323, 2º), mientras que la ignorancia crasa, supina o afectada no se toma en cuenta (c. 1325). El miedo grave, la violencia, el caso fortuito y la legítima defensa son causas que excluyen o atenúan la imputabilidad (cc. 1323-1324). Estos principios canónicos reflejan la doctrina moral sobre la conciencia: el juicio de la conciencia debe estar informado por la ley divina y natural, y el sujeto responde moralmente en la medida de su conocimiento y libertad.
+Wilson explica la distinción entre consciencia y sentimiento moral:
 
-### Según el Compendio (CompDS)
+> «Newman no cree que la conciencia sea un simple sentimiento o una convención social. La conciencia es la voz de Dios que nos llama a la verdad y al bien. Es una experiencia de verdad que nos interpela» (Wilson, p. 381).
 
-La verdad sobre el bien y el mal se reconoce en modo práctico y concreto en el juicio de la conciencia, que lleva a asumir la responsabilidad del bien cumplido o del mal cometido [CompDS §139]. En el juicio práctico de la conciencia se manifiesta el vínculo de la libertad con la verdad: la conciencia se expresa con actos de «juicio» que reflejan la verdad sobre el bien, no como «decisiones» arbitrarias [CompDS §139]. La madurez de estos juicios se demuestra no con la liberación de la conciencia de la verdad objetiva, sino con una apremiante búsqueda de la verdad y dejándose guiar por ella en el obrar [CompDS §139].
+### Otros documentos
 
-### Según el Concilio Vaticano II (ConcVatII)
+- **Gaudium et Spes 16:** El Concilio Vaticano II afirma: «En el fondo de la conciencia descubre el hombre una ley que no es él quien se ha dado, sino que debe obedecer. Esta voz, que lo llama a amar y a hacer el bien y a evitar el mal, resuena en lo más íntimo de su corazón cuando se pone al descubierto la verdad y el bien que ha de realizar.»
 
-La Declaración «Dignitatis humanae» enseña que «el hombre percibe y reconoce por medio de su conciencia los dictámenes de la ley divina; conciencia que tiene obligación de seguir fielmente, en toda su actividad, para llegar a Dios, que es su fin» (DH §3). De este principio se deriva que «no se le puede forzar a obrar contra su conciencia. Ni tampoco se le puede impedir que obre según su conciencia, principalmente en materia religiosa» (DH §3).
+- **Catecismo 1776-1794:** El Catecismo de la Iglesia Católica dedica una sección completa a la «consciencia moral», definiéndola como «el juicio de la razón que indica al obrar concreto lo que debe hacerse o evitarse».
 
-El Concilio vincula estrechamente la conciencia con la búsqueda de la verdad: la verdad debe buscarse de modo apropiado a la dignidad humana, mediante libre investigación, el magisterio, la educación, la comunicación y el diálogo (DH §3). Una vez conocida la verdad, «hay que aceptarla firmemente con asentimiento personal» (DH §3). La obligación de formar la conciencia con la doctrina de la Iglesia se reafirma en DH §14: «los fieles, en la formación de su conciencia, deben prestar diligente atención a la doctrina sagrada y cierta de la Iglesia».
+## Distinciones importantes
 
-### Según el Concilio Vaticano II (ConcVatII)
+- **Consciencia y sentimiento:** La consciencia no es un sentimiento subjetivo, sino un juicio de la razón iluminada por la fe.
 
-GS 16 contiene el tratamiento más conocido de la conciencia moral en el magisterio conciliar: «En lo más profundo de su conciencia descubre el hombre la existencia de una ley que él no se dicta a sí mismo, pero a la cual debe obedecer, y cuya voz resuena, cuando es necesario, en los oídos de su corazón, advirtiéndole que debe amar y practicar el bien y que debe evitar el mal». La conciencia es «el núcleo más secreto y el sagrario del hombre, en el que éste se siente a solas con Dios, cuya voz resuena en el recinto más íntimo de aquélla». La fidelidad a la conciencia une a los cristianos con los demás hombres para buscar la verdad. «No rara vez, sin embargo, ocurre que yerra la conciencia por ignorancia invencible, sin que ello suponga la pérdida de su dignidad.»
+- **Consciencia y opinión:** La consciencia no es la opinión personal, sino la voz de Dios que nos llama a la verdad.
 
-### Según la Veritatis Splendor (VS)
+- **Consciencia y convención social:** La consciencia no es la convención social, sino la voz de Dios que puede contradecir la cultura.
 
-La Veritatis Splendor dedica toda la sección II del Capítulo II a la conciencia moral (§54-64). La conciencia es el «sagrario del hombre» donde Dios escribe su ley en el corazón. No es una instancia autónoma que fija el bien y el mal, sino el acto de la inteligencia que aplica el conocimiento universal del bien a una situación concreta. La conciencia es norma próxima de moralidad, pero está subordinada a la ley divina como norma universal. Existe el deber grave de formar la conciencia y de buscar la verdad (§60-64). La conciencia errónea por ignorancia invencible tiene dignidad, pero la conciencia errónea culpable es fruto del hábito del pecado (§62-63).
+- **Consciencia y asentimiento real:** La consciencia es una forma de asentimiento real: la adhesión personal a Dios que se manifiesta en la experiencia moral.
 
-### Según UDE (1994)
+## Relaciones doctrinales
 
-La conciencia es el «santuario del hombre» (GS 16). Debe ser seguida incluso si es errónea por ignorancia invencible. Santo Tomás (I-II q.19 a.5). Newman: la conciencia está por encima de la autoridad. [UDE, Cap. XXIX]
-
-### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
-
-La conciencia moral es la norma próxima de moralidad: es el juicio práctico de la razón que aplica los principios generales de la ley moral a la situación concreta del obrar humano. En la conciencia, la persona humana discierne qué es bueno y qué es malo en cada acto concreto. La conciencia no es una ley que el hombre se dicta a sí mismo, sino que refleja la ley divina inscrita en el corazón.
-
-La formación de la conciencia es un deber grave y permanente. Se forma mediante la asimilación de la Palabra de Dios, la oración, la recepción de los sacramentos, el consejo de los demás y la enseñanza de la Iglesia. Una conciencia bien formada permite al hombre juzgar rectamente sobre la moralidad de sus actos y obrar en consecuencia.
-
-La ignorancia puede ser invencible o vencible. La ignorancia invencible —aquella que no se puede superar con medios ordinarios de diligencia— no es culpable, pues el sujeto no puede conocer la verdad que se le pide. La ignorancia vencible —aquella que podría superarse con un uso diligente de los medios a disposición del sujeto— sí puede ser imputable, en mayor o menor grado según la negligencia de quien la padece. La culpabilidad de un acto moral depende siempre de la medida del conocimiento y de la libertad con que se obra.
-
-## Analizado en contexto cultural
-
-- [[pinocho]] — el Grillo Parlante como personificación de la conciencia moral; tensión entre conciencia natural y ley divina
+- Se relaciona con la [[sensibilidad_católica]] como modo de percibir la realidad
+- Se conecta con la [[razón]] y la [[fe]] como vías de conocimiento
+- Se articula con el [[asentimiento_real_y_notional]] como epistemología
+- Se nutre de la tradición newmaniana y patrística
 
 ## Ver también
 
-[[ley_natural]], [[virtud_de_la_prudencia]], [[examen_de_conciencia]], [[actos_humanos]]
+- [[sensibilidad_católica]]
+- [[asentimiento_real_y_notional]]
+- [[razón]]
 
 ## Referencias
 
-- [CEC §1776-1802]
-- [GS 16]
-- [Santo Tomás, S.Th. I, q. 79, aa. 12-13]
-- Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, cap. sobre la conciencia moral
+- Wilson, Eileen. "The Soul of Bishop Barron: A Newman Intuition." *Evangelization & Culture*, No. 7, Spring 2021.
+- Newman, John Henry. *A Letter to His Grace the Duke of Norfolk*. 1875.
+- Concilio Vaticano II. *Gaudium et Spes* 16.
+- Catecismo de la Iglesia Católica, 1776-1794.

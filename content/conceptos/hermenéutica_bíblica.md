@@ -1,73 +1,82 @@
 ---
 type: Concepto Teológico
 title: Hermenéutica bíblica
-tags: ["sagrada_escritura"]
-
-timestamp: 2026-06-05
-description: "La hermenéutica bíblica es la ciencia y el arte de la interpretación de la Sagrada Escritura, que establece los principios y reglas para descubrir el sentido auténtico del texto bíblico."
+description: "Método de interpretación de la Escritura que distingue entre la interpretación literal-histórica y la interpretación espiritual (tipológica), fundamentada en la regla de fe."
+timestamp: 2026-08-20
+tags:
+  - exegesis
+  - biblia
+  - tradición
+  - evangelización
 ---
+
 # Hermenéutica bíblica
 
-> Área: Sagrada Escritura
-> Última actualización: 2026-06-05
+> Área: Exégesis / Hermenéutica / Teología Bíblica
+> Última actualización: 2026-08-20
 
 ## Definición
 
-La hermenéutica bíblica es la ciencia y el arte de la interpretación de la Sagrada Escritura, que establece los principios y reglas para descubrir el sentido auténtico del texto bíblico, teniendo en cuenta su origen divino y humano, su contexto histórico y literario, y su inserción en la Tradición viva de la Iglesia.
+La **hermenéutica bíblica** es el método de interpretación de la Escritura que distingue entre el sentido literal-histórico (lo que el autor humano quiso decir en su contexto) y el sentido espiritual (lo que el Espíritu Santo quiso comunicar a través de ese mismo texto). La Iglesia católica, especialmente desde la interpretación patrística, privilegia la lectura tipológica que distingue entre el Antiguo Testamento (T) y el Nuevo Testamento (NT), donde el NT se presenta como la interpretación divina del AT.
 
 ## Desarrollo doctrinal
 
-La interpretación de la Escritura debe realizarse según el Espíritu que la inspiró y en el seno de la Iglesia, que es su custodio e intérprete auténtico. La Dei Verbum del Concilio Vaticano II estableció los principios fundamentales de la hermenéutica católica: atender a la unidad de toda la Escritura, a la Tradición viva de la Iglesia y a la analogía de la fe.
+### Interpretación tipológica
+
+La interpretación tipológica distingue entre:
+
+- **Tipos (TP):** Personajes, eventos e instituciones del AT que prefiguran realidades futuras en Cristo (Adán como tipo de Cristo, la serpiente de bronce como tipo de la Cruz, el maná como tipo de la Eucaristía).
+- **Antitipos (ATP):** Las realidades NT que son la plenitud de los tipos (Cristo como nuevo Adán, la Cruz como nueva serpiente de bronce, la Eucaristía como nuevo maná).
+
+### Dei Verbum 11
+
+El Concilio Vaticano II estableció que la Iglesia siempre ha venerado las Escrituras al modo de los santos padres, en la lectura tipológica: «La Iglesia siempre ha venerado las Escrituras divinas igual que al mismo Cuerpo del Señor, no tomando de la mesa de la Palabra de Dios y de la del Cuerpo de Cristo el pan de vida, sino tanto uno como otro, alimentándose de aquel pan con alimento de deleite».
+
+### Regula fidei
+
+La *regula fidei* (regla de fe) es el criterio que orienta la interpretación. No se trata de imponer una doctrina preconcebida al texto, sino de leer la Escritura dentro de la tradición viva de la Iglesia, donde el sentido pleno del texto se manifiesta progresivamente.
 
 ## Perspectivas por fuente
 
-### Según el Catecismo (CEC)
+### Evangelization & Culture 7 (EcC7)
 
-El CEC dedica una sección a la interpretación de la Escritura (§§109-119). Los criterios de interpretación son: atención al contenido y a la unidad de toda la Escritura, lectura en la Tradición viva de la Iglesia, y atención a la analogía de la fe (§112-114). El sentido literal es el fundamento de los sentidos espirituales (alegórico, moral, anagógico) (§115-119). La Sagrada Escritura debe ser leída con la ayuda del Espíritu Santo y en comunión con la Iglesia.
+**Scott Hahn** analiza la hermenéutica bíblica de Barron en su artículo:
 
-### Según el Concilio Vaticano II (ConcVatII)
+> «Leemos en los Evangelios del NT sobre Jesús y sus acciones, y si no prestamos atención, parece que estamos leyendo sobre otro Jesús que aquel que vemos en el AT. No así para Jesús, los apóstoles y los primeros cristianos» (Hahn, "The Biblical Hermeneutics of Bishop Robert Barron," *Evangelization & Culture*, No. 7, Spring 2021, p. 336).
 
-*Dei Verbum* 12 es el texto fundacional de la hermenéutica bíblica católica contemporánea. Establece el principio de que la Escritura debe interpretarse «con el mismo Espíritu con que se escribió». Señala tres criterios hermenéuticos: 1) atender al contenido y a la unidad de toda la Escritura; 2) leer en la Tradición viva de toda la Iglesia; 3) la analogía de la fe. Reconoce la diversidad de géneros literarios como clave para descubrir la intención del hagiógrafo. La interpretación última corresponde a la Iglesia, que tiene el ministerio divino de conservar e interpretar la palabra de Dios (DV 12).
+Hahn destaca que Barron sigue la *regula fidei* como clave hermenéutica:
 
-### Según Royo Marín (TPCr)
+> «La regla de fe guía a la Iglesia en su lectura de las Escrituras del AT, que incluye su interpretación de lo que se podría llamar las " figurasTP"» (p. 341).
 
-Royo Marín no trata sistemáticamente la hermenéutica bíblica, pero hace referencia a la exégesis de los Santos Padres, especialmente en la interpretación de Isaías 11,2-3 (los siete dones). Cita a San Gregorio Magno y su exégesis alegórica de los siete hijos de Job. Menciona también la exégesis científica moderna.
+El sacerdote greco-católico ucraniano Mykhailo Petrilak explica la distinción:
 
-[TPCr, Segunda Parte, Cap. 1 (los dones); referencias dispersas]
-### Según Raymond Brown (HEB)
-
-Brown define la hermenéutica como el término griego *herméneia* que abarcaba tres aspectos del proceso interpretativo: la interpretación por medio del lenguaje, la traducción de un idioma a otro, y la interpretación mediante el comentario y la explicación (HEB §3). En la concepción moderna, la hermenéutica se distingue de la exégesis «como la teoría de la práctica»: «la exégesis viene a ser la aplicación práctica de las normas teóricas que proporciona la hermenéutica» (HEB §3).
-
-Brown aborda la complicación peculiar de la hermenéutica bíblica: la doble autoría (divina y humana), que plantea la cuestión de qué intentó el autor divino y qué añadió esta intención a la del autor humano (HEB §8). Ofrece una historia completa de la exégesis supraliteral desde la época neotestamentaria hasta el siglo XX, y trata las corrientes modernas: la nueva hermenéutica (Fuchs, Ebeling, Gadamer), la desmitologización de Bultmann, y la interpretación cristiana del AT.
-
-Brown distingue tres reacciones ante la exégesis supraliteral en la actualidad: 1) el intento de mantener la antigua exégesis simbólica (tanto en su forma extremista fundamentalista como en la moderada de De Lubac y Daniélou); 2) la aceptación de una exégesis supraliteral «moderna» (sentido pleno, tipología, nueva hermenéutica); 3) la repulsa de toda exégesis supraliteral (HEB §45-55).
-
-[HEB §3-8, §32-79]
-
+> «Tales figuras en el AT tienen su plenitud en el NT... Esto significa que lo que los santos padres dijeron no es una simple opinión o un simple juguete, sino que su interpretación fue una continuación de la que comenzó Cristo mismo y sus apóstoles» (Petrilak, "Al-Fatiha and the Immaculate Conception," *Evangelization & Culture*, No. 7, Spring 2021, p. 344).
 
 ## Distinciones importantes
 
-- **Hermenéutica vs. exégesis**: la hermenéutica proporciona las normas teóricas; la exégesis las aplica (HEB §3).
-- **Noemática, heurística, proforística**: las tres partes clásicas de la hermenéutica (HEB §4).
-- **Sentido literal**: el significado de las palabras según la intención del autor humano.
-- **Sentido espiritual**: el significado que las realidades significadas por las palabras tienen en el plan divino.
-- **Sentido pleno (sensus plenior)**: sentido más profundo intentado por Dios pero no claramente por el autor humano (HEB §57).
-- **Analogía de la fe**: la coherencia de las verdades de fe entre sí y con el conjunto de la Revelación.
-- **Hermenéutica católica vs. racionalista**: la primera lee la Escritura en la fe de la Iglesia; la segunda prescinde de la fe.
+- **Hermenéutica tipológica vs. alegorismo:** La tipología no es alegorismo arbitrario. Los tipos tienen un fundamento histórico: son personas, eventos o instituciones reales del AT que, en la providencia de Dios, prefiguran realidades futuras. La alegoría, en cambio, puede atribuir significados arbitrarios al texto.
+
+- **Sentido literal vs. sentido espiritual:** No se oponen, sino que se complementan. El sentido literal es la base; el sentido espiritual es la plenitud.
+
+- **Dei Verbum 11 y la interpretación patrística:** El Concilio afirma que la interpretación de los Padres es un guía seguro, no un dogma infalible. Pero la tradición tipológica es parte de la fe viva de la Iglesia.
 
 ## Relaciones doctrinales
 
-La hermenéutica bíblica se relaciona con la [[sagrada_escritura]], con la [[interpretación_de_la_escritura]], con la [[tradición_apostólica]], con el [[magisterio_de_la_iglesia]], con la [[tipología]], con la [[exégesis_patrística]], con los [[géneros_literarios_bíblicos]] y con el [[sentido_pleno]].
-
-## Analizado para
-
-- [[horn_hard_sayings_jesus]] — convergencia en la analogía de la fe y la interpretación contextual de la Escritura; aporta clasificación tripartita de dificultades bíblicas y aplicación a seis pasajes difíciles
+- Se relaciona con la [[reinterpretación_tipológica]] como método interpretativo
+- Se conecta con la [[tradición_(teología)]] como transmisión viva de la fe
+- Se articula con la [[razón]] y la [[fe]] en la interpretación
+- Se nutre de la Exhortación Apostólica *Verbum Domini* (Benedicto XVI)
 
 ## Ver también
-[[sagrada_escritura]], [[interpretación_de_la_escritura]], [[exégesis_patrística]], [[tradición_apostólica]], [[tipología]], [[magisterio_de_la_iglesia]], [[sentido_pleno]], [[géneros_literarios_bíblicos]], [[acomodación_bíblica]], [[raymond_brown]]
+
+- [[reinterpretación_tipológica]]
+- [[tradición_(teología)]]
+- [[razón]]
+- [[fe]]
 
 ## Referencias
 
-- [CEC §§109-119]
-- [Concilio Vaticano II, Dei Verbum]
-- [HEB §1-102]
+- Hahn, Scott. "The Biblical Hermeneutics of Bishop Robert Barron." *Evangelization & Culture*, No. 7, Spring 2021.
+- Petrilak, Mykhailo. "Al-Fatiha and the Immaculate Conception." *Evangelization & Culture*, No. 7, Spring 2021.
+- Concilio Vaticano II. *Dei Verbum* 11.
+- Benedicto XVI. Exhortación Apostólica *Verbum Domini* (2010).

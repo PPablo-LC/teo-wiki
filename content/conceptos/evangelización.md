@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Evangelización
 tags: ["doctrina_social", "eclesiología"]
 
-timestamp: 2026-08-06
+timestamp: 2026-08-19
 description: "La evangelización es la misión fundamental de la Iglesia de anunciar y actualizar el Evangelio en todas las dimensiones de la vida humana, incluida la compleja red de las relaciones sociales."
 ---
 # Evangelización
 
 > Área: Doctrina Social / Eclesiología
-> Última actualización: 2026-08-06
+> Última actualización: 2026-08-19
 
 ## Definición
 
@@ -105,6 +105,26 @@ La evangelización digital se enfrenta a tres peligros principales: la adicción
 
 Brandon Vogt propone cinco lecciones para el evangelizador digital: (1) desarrollar una vida interior profunda para evitar el cinismo; (2) estudiar la cultura online como Cirilo y Metodio estudiaron el lenguaje eslav0; (3) salir de la burbuja católica hacia las «periferias existenciales»; (4) encontrar el nicho propio en el «theo-drama»; (5) buscar pequeñas victorias, pues la mayoría del evangelismo online es pre-evangelización [WoF-3, 15_vogt_media_evangelist].
 
+### Según Evangelization & Culture, Issue 7 — Catholic Sensibility (EcC7)
+
+**La ortodoxia afirmativa como paradigma evangelizador** (John P. Cush): Barron presenta la evangelización como un acto de amor que propone la fe con gozo, no como imposición moral. «La Iglesia católica afirma, fortalece y expande lo más noble, bello y sagrado del proyecto humano» (Card. Dolan, *A People of Hope*, 2012). La evangelización debe ser positiva y propositiva, superando tanto el apologismo defensivo como el liberalismo teológico.
+
+**La vía de la belleza como camino evangelizador** (Cush): Barron integra la *via pulchritudinis* en su ministerio: «Los transcendenciales del ser —verdad, bondad y belleza— están interconectados... los transcendenciales del ser desembocan unos en otros» (Cush, p. 329). La belleza fascina primero, luego la bondad conduce a la virtud, y finalmente la verdad establece la libertad en Cristo.
+
+**La ortodoxia afirmativa y el catolicismo beige** (Cush): Barron opone la ortodoxia afirmativa al «catolicismo beige» —versión simplificada, apagada y defensiva de la fe—. «La Iglesia solo dice no a otro no, y dos noes hacen un sí. Solo cuando el sí de la humanidad está amenazado, la Iglesia dirá no, para proteger el sí» (Dolan).
+
+### Según Evangelization & Culture, Issue 6 — Hope (EcC6)
+
+**El "quizá" como semilla de fe** (Andrew Petiprin, §05): Petiprin describe una serie de 20 videos para evangelizar a los "nones" (sin afiliación religiosa) y a los catequizados mal informados. El punto de partida no es la certeza sino la duda productiva: el «quizá» (*maybe*) que abre el corazón a la posibilidad de la fe. La evangelización no comienza con imponer verdades sino con sembrar preguntas que permitan al Espíritu obrar.
+
+**La autoridad como servicio** (Andrew Petiprin, §05): La Dei Verbum presenta la autoridad de la Iglesia no como poder worldly sino como servicio a la verdad: la Iglesia participa en la autoridad de Cristo mismo. La evangelización requiere esta autoridad para ser creíble, pero debe ejercerse como servicio, no como dominio.
+
+**La intuición ilativa como herramienta evangelizadora** (Jared Zimmerer, §10): La intuición ilativa de Newman permite al evangelizador «reconocer las numerosas rutas por las que Dios está obrando en el alma del otro». No se trata de imponer argumentos sino de discernir las vías de acceso al corazón: «Es una agilidad socrática impulsada por el Espíritu Santo. Trae la capacidad de captar más que la pregunta o preocupación en cuestión. En cambio, apunta a comprender a una persona y sus ideas en su totalidad.»
+
+**Ejemplos concretos de intuición ilativa** (Zimmerer, §10): Un cristiano con reservas sobre la Eucaristía y María puede ser alcanzado a través de un amor compartido por la literatura o El Señor de los Anillos. Un satanista que entra a una librería católica puede ser alcanzado a través de la escucha y el perdón. Un ateo endurecido puede ser alcanzado a través de Shakespeare, Ptolomeo o Freud: «la filosofía puede abrir la puerta, pero un poema puede llevar al mundo de Cristo».
+
+**La evangelización y la cultura** (Tod Worner, §05): Sin los fundamentos de la fe, es difícil llegar a la cultura con el Evangelio. La evangelización requiere arraigo en la propia fe para poder dialogar con la cultura contemporánea.
+
 ## Ver también
 [[misión_de_la_iglesia]], [[doctrina_social_de_la_iglesia]], [[promoción_humana]], [[caridad]], [[justicia]]
 
@@ -116,3 +136,5 @@ Brandon Vogt propone cinco lecciones para el evangelizador digital: (1) desarrol
 - [L_XIV-ClerRom, 19.02.2026]
 - [VJ, Cap. VIII]
 - Ele_Xto_Stos, Cap. III, §6
+- Evangelization & Culture, Issue 6 (EcC6): §§05, 10 (Petiprin, Zimmerer, Worner)
+- Evangelization & Culture, Issue 7 (EcC7): Cush, "Theology as an Eight-Part Symphony," pp. 325-333

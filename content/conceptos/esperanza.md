@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Esperanza
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-06-12
+timestamp: 2026-08-19
 description: "La esperanza es la segunda de las virtudes teologales, virtud infusa sobrenatural por la que deseamos y esperamos de Dios la vida eterna y los medios necesarios para alcanzarla."
 ---
 # Esperanza
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-06-12
+> Última actualización: 2026-08-19
 
 ## Definición
 
@@ -114,6 +114,40 @@ La esperanza fue un tema constante a lo largo del viaje apostólico de León XIV
 
 La esperanza expresa el lugar del porvenir en la vida religiosa del pueblo de Dios: un porvenir de felicidad al que están llamados todos los hombres (1Tim 2,4), una «patria mejor, es decir, celestial» (Heb 11,16) [VocTeoBib, «Esperanza»]. La fe garantiza la realidad de este porvenir; la esperanza, enraizada en la fe, se despliega hacia el futuro. En el AT, la esperanza de Israel comenzó con Abraham —una tierra y una posteridad— y fue purificada por los profetas, que denunciaron la falsa esperanza del culto formalista y anunciaron que Yahveh mismo es «la esperanza de Israel» (Jer 14,8). La esperanza se hizo personal y se orientó al más allá con los mártires (Dan 12,1ss; 2Mac 7) y los sabios (Sab 3,4). Jesús realizó la esperanza de Israel proclamando el Reino, aunque manteniéndola como espera de la vida eterna (Mt 18,8s). Pablo formula la tríada fe, esperanza y caridad (1Tes 1,3; 1Cor 13,13); su esperanza personal consiste en estar con Cristo (Flp 1,23). El Apocalipsis recoge el grito de la Iglesia: «¡Ven, Señor Jesús!» (Ap 22,20).
 
+### Según Evangelization & Culture, Issue 6 — Hope (EcC6)
+
+El número 6 de *Evangelization & Culture* está enteramente dedicado a la esperanza como virtud teológica, ofreciendo múltiples perspectivas complementarias:
+
+**La esperanza en gestos silenciosos** (Tod Worner, §01): La esperanza se manifiesta en actos imperceptibles y momentáneos. El ejemplo paradigmático es el gesto del protestante que sostiene la mano del católico en una fila de fusilamiento en Irlanda del Norte: «The hand let go, but never truly did. You are one of us. A child of God.» La esperanza no always se presenta como algo grandioso; a menudo se esconde en la pequeñez de la bondad cotidiana, en la presencia silenciosa de quien acompaña al otro.
+
+**La esperanza y María** (Tod Worner, §01): La Virgen María es presentada como modelo de esperanza en la oscuridad. Su sufrimiento durante la Pasión —desde la Anunciación hasta el Gólgota— no la llevó a la desesperanza, sino que fue una esperanza activa: «She loved, prayed, and pondered. She held fast to incontrovertible truth, even when it seemed imposible.» El Magnificat (Lc 1,46-55) es descrito como «la poesía de la esperanza»: María confía en que Dios cumple sus promesas.
+
+**La esperanza en la infancia** (Tod Worner, §01; Sr. Josephine Garrett, §17): La esperanza se asocia con la niñez espiritual. Mr. Rogers es presentado como ejemplo de presencia y bondad que nutre la esperanza. La pregunta terapéutica de la «varita mágica» revela que los niños responden con claridad y sinceridad a la esperanza, mientras que los adultos pierden esta capacidad. San Agustín describe a todos en el vientre de María, quien «labura hasta que nacemos a la eternidad».
+
+**San Judas Tadeo y la esperanza en la desesperación** (Matthew Becklo, §02): San Judas es invocado como patrón de las causas desesperadas. La confusión con Judas Iscariote lo hizo ser olvidado por siglos, pero precisamente su abandono lo hizo «muy deseoso de ayudar» cuando alguien finalmente recurría a él. Ejemplos de Danny Thomas, Aaron Neville y Brian Setzer muestran su poder intercesor.
+
+**La esperanza en la infancia perdida y la eternidad** (Paul Maher Jr., §03): Jack Kerouac escribe sobre la muerte de su hermano Gerard como meditación sobre la inocencia y la eternidad. Gerard percibe el cielo como presente: «La esperanza para la eternidad comienza a menudo en la oscuridad.» La muerte de un inocente plantea el misterio del sufrimiento y la confianza en que la vida eterna ya ha comenzado para él.
+
+**La esperanza en la creación y la cooperación** (Elizabeth Scalia, §04): En *Amadeus*, Mozart piensa en el Dies Irae como meditación sobre misericordia y justicia. Salieri representa la desesperanza nacida de la envidia: su negativa a cooperar con los dones de Dios lo condena a un infierno de olvido. La esperanza se vive en la cooperación con la creación de Dios: «To promote the giftedness of others is to assist in creation itself.»
+
+**La esperanza en la fe y la conversión** (Andrew Petiprin, §05): La evangelización depende de la esperanza de que el Evangelio puede transformar la cultura. Sin los fundamentos de la fe, es difícil llegar a la cultura con el Evangelio. El «quizá» (*maybe*) puede ser una semilla de fe que abre la puerta a la esperanza.
+
+**La esperanza en la bondad cotidiana** (Gary Saul Morson, §06): Tolstoy muestra que la esperanza se vive en los pequeños actos de bondad. El perdón de Karenin a Anna se construye con pasos diminutos: «los grandes hechos se realizan en pasos pequeños.» La prosaica (pequeños cambios de conciencia) es el antídoto contra la desesperanza.
+
+**La esperanza como virtud vivida** (Dr. William Havlicek, §09): Van Gogh ve el Evangelio escrito en el paisaje. Su definición de esperanza es: «la aprehensión de las tinieblas con visión de la luz que las atraviesa.» *La Noche Estrellada* nace de «una terrible necesidad de religión». San Maximiliano Kolbe ofrece su vida en Auschwitz como ejemplo de esperanza heroica.
+
+**La intuición ilativa como herramienta de esperanza** (Jared Zimmerer, §10): La intuición ilativa de Newman permite al evangelizador reconocer las rutas por las que Dios obra en el alma del otro. Es una «agilidad socrática impulsada por el Espíritu Santo» que trasciende la mera argumentación racional.
+
+**La esperanza como niña** (Haley Stewart, §11): Charles Péguy describe la esperanza como «esta niña pequeña» que camina entre sus hermanas Fe y Caridad: «Ella sola, cargando con las otras, cruzará mundos enteros.» La esperanza sobrenatural se distingue de la natural: la natural apunta a bienes temporales que pasan; la sobrenatural, sostenida por la [[gracia_santificante]], se dirige a la visión beatífica. La [[iglesia_doméstica]] es un símbolo de esperanza desafiante: «Casas llenas de cosas pero vacías de hijos» (Papa Francisco) es una forma de desesperanza.
+
+**La esperanza nunca muere** (Peter Seewald, §12): Benedicto XVI nace en Sábado Santo, día de espera entre la muerte y la resurrección. Su vida entera es un testimonio de esperanza: «La esperanza no es un asunto teórico para Ratzinger. Enfrentó el riesgo de la caída, pero al mismo tiempo experimentó nuevas oportunidades.» En Spe Salvi, «el hecho de que este futuro exista cambia el presente»: la oración es la «escuela de esperanza». «Todos pueden estar seguros de que soy definitivamente amado, y lo que me suceda — estoy esperado por este amor.»
+
+**La esperanza frente al faccionalismo** (Dr. Jessica Hooten Wilson, §13): Dante en el Infierno: «Los que entran aquí abandonan toda esperanza.» El faccionalismo político es una forma de idolatría que destruye la esperanza al sustituirla por ideologías. Los poetas y profetas ofrecen una «conciencia alternativa» que desafía el statu quo mentiroso. La verdadera esperanza se dirige a la visión escatológica: «El león acunará al cordero».
+
+**La esperanza y la hospitalidad** (Haley Stewart, §11): La Iglesia como familia debe tener puertas abiertas: «Nadie está sin familia en este mundo: la Iglesia es hogar y familia para todos, especialmente los que laburan y están cansados.» La hospitalidad es expresión de esperanza encarnada.
+
+**La esperanza encarnada** (Haley Stewart, §11; Sr. Josephine Garrett, §17): El Niño Jesús en el hogar es fuente de gracia sobrenatural. «Tomad valor, Yo he vencido al mundo» (Jn 16,33). La esperanza se encarna en la relación: «Es la relación que sana» (Yalom). La Encarnación es el «Misterio Magnífico»: Jesús mismo como sacramento que cumple nuestros mayores anhelos.
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[virtud_de_la_esperanza]]
@@ -124,7 +158,7 @@ Ver artículo principal: [[virtud_de_la_esperanza]]
 - [[adam_farber_fortitude_through_excellence_in_patience]]
 
 ## Ver también
-[[virtud_de_la_esperanza]], [[virtudes_teologales]], [[virtudes_infusas]], [[amor_puro]], [[francisco_fenelón]]
+[[virtud_de_la_esperanza]], [[virtudes_teologales]], [[virtudes_infusas]], [[amor_puro]], [[francisco_fenelón]], [[san_judas_tadeo]], [[spe_salvi]], [[benedicto_xvi]], [[iglesia_doméstica]], [[perdón]]
 
 ## Referencias
 
@@ -136,3 +170,4 @@ Ver artículo principal: [[virtud_de_la_esperanza]]
 - SmTh IIIª q.7 a.4
 - [EjEsp2026, cap. 11: «Comunicar Esperanza»]
 - Denzinger D-1331–D-1332, D-1337 (Inocencio XII, *Cum alias*)
+- Evangelization & Culture, Issue 6 — Hope (EcC6): §§01-17 (Worner, Becklo, Maher, Scalia, Petiprin, Morson, Havlicek, Zimmerer, Stewart, Seewald, Hooten Wilson, Garrett)

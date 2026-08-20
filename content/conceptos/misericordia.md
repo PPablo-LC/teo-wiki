@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Misericordia
 tags: ["dogmática"]
 
-timestamp: 2026-08-09
+timestamp: 2026-08-19
 description: "La misericordia es el atributo divino por el cual Dios, movido por su infinita bondad, se compadece de la miseria humana."
 ---
 # Misericordia
 
 > Área: Dogmática
-> Última actualización: 2026-08-09
+> Última actualización: 2026-08-19
 
 ## Definición
 
@@ -117,6 +117,18 @@ La misericordia en San Francisco es el corazón de la vida espiritual y se ejerc
 
 El confesionario es, para Mons. Munilla, «el lugar del descenso donde se toca la miseria humana»: el sacerdote «entra en la herida del hombre» y allí se aprende misericordia y humildad. Es «escuela de humildad, porque escuchando el pecado ajeno uno se siente interpelado en su propia fragilidad». Munilla confiesa que uno de los instrumentos más efectivos de los que Dios se sirve para llamar a un sacerdote a la conversión es «ver cómo las almas en el sacramento de la confesión buscan una verdadera conversión». Los sacerdotes están llamados a dejarse interpelar por este sacramento y a entregarse a él «para no desfigurar la parábola de la oveja perdida». En el confesionario se piden los dones del Espíritu Santo «para poder compartir una palabra adecuada de aliento, de consolación, de esperanza». El Papa León XIV, citado por Munilla, pide volver siempre «a la misericordia que anunciáis»: también el sacerdote necesita confesarse [CIS, 2026].
 
+### Según Evangelization & Culture, Issue 6 — Hope (EcC6)
+
+**La misericordia en la música y el Réquiem** (Elizabeth Scalia, §04): En *Amadeus*, el Dies Irae del Réquiem es descrito como meditación sobre «la confluencia de la misericordia y la justicia — el poderoso grito del corazón por la primera, incluso cuando la última se reconoce como necesaria.» La Misa de Réquiem fue reformada tras el Vaticano II y, según Scalia, quizá se perdió algo al eliminar la mediación del este momento. El Réquiem nos eleva a la humildad con «expectación boyante»: la justicia y la misericordia encuentran el equilibrio en la cruz de Cristo.
+
+**La paradoja de la santidad y la misericordia** (Tod Worner, §07): Mark Galli, al convertirse al catolicismo, descubre que la Iglesia es tanto la del «whiskey priest» de Graham Greene (un sacerdote pecador) como la de San Damián (un santo que sirvió a los leprosos): «La misericordia es más alta que la santidad esperada.» Esta paradoja revela que la Iglesia no es una institución de justos sino de pecadores que buscan la misericordia divina.
+
+**La misericordia en la encíclica Spe Salvi** (Peter Seewald, §12): Benedicto XVI, en Spe Salvi, presenta la misericordia como fundamento de la esperanza: «Todos pueden estar seguros de que soy definitivamente amado, y lo que me suceda — estoy esperado por este amor. Y así mi vida es buena.» La oración es la «escuela de esperanza» donde se aprende la misericordia.
+
+**La misericordia como límite al mal** (Peter Seewald, §12): En Spe Salvi, el juicio de Dios no es arbitrario sino liberador: «El juicio es esperanza.» La misericordia divina no elimina la justicia sino que la trasciende: la justicia de Dios nace del amor y hacia él tiende.
+
+**El perdón como expresión de misericordia** (Jared Zimmerer, §10): La intuición ilativa permite al evangelizador reconocer las rutas por las que Dios obra en el alma del otro. El perdón es «una liberación del peso del corazón», ofrecido incluso a quien no lo merece.
+
 ## Distinciones importantes
 
 - **Misericordia** ≠ **justicia**: la misericordia no se opone a la justicia, sino que la perfecciona y la trasciende.
@@ -146,7 +158,7 @@ La misericordia se relaciona con la [[justicia_divina]], la [[penitencia]], el [
 - [RH §9]
 
 ## Ver también
-[[justicia_divina]], [[penitencia]], [[conversión]], [[caridad]], [[sacramento_de_la_reconciliación]], [[perdón]]
+[[justicia_divina]], [[penitencia]], [[conversión]], [[caridad]], [[sacramento_de_la_reconciliación]], [[perdón]], [[esperanza]], [[spe_salvi]]
 
 ## Referencias
 - [VJ, Cap. III, Cap. VI]
@@ -155,3 +167,4 @@ La misericordia se relaciona con la [[justicia_divina]], la [[penitencia]], el [
 - [SFrAs, CFi. 31, 35, 37 — Misericordia, juicio y caridad]
 - [SFrAs, SalV. 1-9 — Misericordia como caridad]
 - [CIS, «La catedral interior del sacerdote», 2026]
+- Evangelization & Culture, Issue 6 (EcC6): §§04, 07, 10, 12 (Scalia, Worner, Zimmerer, Seewald)
