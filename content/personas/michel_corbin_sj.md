@@ -1,7 +1,7 @@
 ---
 type: Persona
 title: Michel Corbin SJ
-description: "Jesuita francés, exégeta y teólogo, conocido por su enfoque de la "narración de Dios" como alternativa al tomismo narrativo."
+description: "Jesuita francés, exégeta y teólogo, conocido por su enfoque de la narración de Dios como alternativa al tomismo narrativo."
 timestamp: 2026-08-20
 tags:
   - teologia
