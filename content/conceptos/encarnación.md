@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Encarnación
 tags: ["cristología"]
 
-timestamp: 2026-08-19
+timestamp: 2026-08-22
 description: "La Encarnación es el misterio de la admirable unión de la naturaleza divina y de la naturaleza humana en la única Persona del Verbo (CEC §483)."
 ---
 # Encarnación
 
 > Área: Cristología
-> Última actualización: 2026-08-19
+> Última actualización: 2026-08-22
 
 ## Definición
 
@@ -153,6 +153,10 @@ En D-429, el mismo concilio confiesa el misterio de la Encarnación: Jesucristo 
 
 **El Misterio Magnífico** (Sr. Josephine Garrett, §17): El himno *O Magnum Mysterium* traduce: «¡Oh gran misterio y admirable sacramento!» La Encarnación es descrita como el sacramento que «realmente tiene el poder de llevar a cabo nuestros mayores anhelos, porque este sacramento es Jesús mismo, buscando unirse a nosotros, en una relación sanadora y salvadora, conformándonos a su semejanza» (cf. Rom 8,29). La Encarnación no es una varita mágica sino la presencia de Dios que sana y salva.
 
+### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
+
+**La Encarnación como chiste divino:** «Todo comienza con un chiste»: la esencia de lo cómico es «la unión de opuestos, la yuxtaposición de cosas incongruentes», y en Belén el Infinito abrazó lo finito: Dios se hizo niño en un pequeño puesto fronterizo del Imperio romano (Barron, *Catholicism* cap. 1). Bobby Angel extiende la idea: Jesús nace bebé desvalido, subvirtiendo las expectativas mesiánicas de poder — guiño divino que mezcla humor y asombro, en línea con la risa de Sara ante Dios (Gn 18) o la burra de Balaam (Nm 22). «Se ha sugerido que el corazón del pecado es tomarse uno mismo demasiado en serio; quizá por esto Dios eligió salvarnos haciéndonos reír». Joel Berry completa el arco: la Resurrección como remate del chiste a Satanás, fundado en Is 53,6.
+
 ## Distinciones importantes
 
 - **Unión hipostática**: unión de las dos naturalezas (divina y humana) en una sola Persona (la del Verbo).
@@ -171,7 +175,7 @@ La Encarnación es el fundamento de la [[redención]], la causa de la [[gracia_s
 - [[the_search_serie_análisis]] — convergencia: encarnación como evento único, Jesús afirma explícitamente ser Dios; tensión: no desarrolla la unión hipostática ni la Mariología
 
 ## Ver también
-[[redención]], [[unión_hipostática]], [[concepción_virginal]], [[maternidad_divina]], [[cuerpo_místico]], [[jesucristo]], [[jorge_loring]]
+[[redención]], [[unión_hipostática]], [[concepción_virginal]], [[maternidad_divina]], [[cuerpo_místico]], [[jesucristo]], [[jorge_loring]], [[humor]]
 
 ## Referencias
 
@@ -182,3 +186,4 @@ La Encarnación es el fundamento de la [[redención]], la causa de la [[gracia_s
 - SmTh IIIª q.1 aa.1-6; q.4 a.1; q.5 aa.1-4; q.6 aa.1-5; q.31 aa.1-8; q.32 aa.1-4; q.33 aa.1-4
 - [RH §1, §8, §13, §22]
 - Evangelization & Culture, Issue 6 (EcC6): §§09, 11, 17 (Havlicek, Stewart, Garrett)
+- [EAC-8, Issue 8 «Humor», archivos 02, 13, 15]

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Ironía
 tags: ["moral"]
 
-timestamp: 2026-06-10
+timestamp: 2026-08-22
 description: "La ironía (del griego *eironeia*, «disimulo») es, en sentido moral, el vicio opuesto a la virtud de la verdad por defecto, consistente en que uno finge ser menos de lo que es en realidad."
 ---
 # Ironía
 
 > Área: Moral
-> Última actualización: 2026-06-10
+> Última actualización: 2026-08-22
 
 ## Definición
 
@@ -40,16 +40,18 @@ La ironía que ridiculiza o menosprecia al prójimo constituye una falta contra 
 - Ironía moral (vicio) vs. ironía retórica (figura literaria lícita)
 - Rebajarse respetando la verdad (no es pecado) vs. rebajarse falseando la verdad (ironía, siempre pecado)
 - Ironía por falsa humildad (generalmente venial) vs. ironía para engañar o sacar provecho (potencialmente mortal)
+- Ironía como vicio moral (SmTh) vs. ironía cómica (mecanismo del humor): la teoría de la incongruencia describe la risa ante conceptos incompatibles y soluciones inesperadas — fenómeno natural lícito cuando respeta la verdad y la caridad
 
 ## Relaciones doctrinales
 
-Se opone a la [[virtud_de_la_verdad]] como la [[jactancia]] (vicio por exceso), pero por defecto. Se relaciona con la [[humildad]] (virtud de la que es simulacro vicioso), la [[soberbia]] (puede esconderse tras la falsa humildad), la [[hipocresía]] (cuando el rebajamiento es fingimiento de santidad) y la [[vanagloria]].
+Se opone a la [[virtud_de_la_verdad]] como la [[jactancia]] (vicio por exceso), pero por defecto. Se relaciona con la [[humildad]] (virtud de la que es simulacro vicioso), la [[soberbia]] (puede esconderse tras la falsa humildad), la [[hipocresía]] (cuando el rebajamiento es fingimiento de santidad) y la [[vanagloria]]. Como mecanismo cómico se vincula con el [[humor]] y la [[eutrapelia]].
 
 ## Ver también
 
-[[virtud_de_la_verdad]], [[jactancia]], [[mentira]], [[humildad]], [[hipocresía]], [[vanagloria]]
+[[virtud_de_la_verdad]], [[jactancia]], [[mentira]], [[humildad]], [[hipocresía]], [[vanagloria]], [[humor]]
 
 ## Referencias
 
 - SmTh IIa-IIae q.113 a.1-2
 - CEC §2481
+- [EAC-8, Issue 8 «Humor», archivo 15]

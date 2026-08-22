@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Alegría cristiana
 tags: ["ascética", "espiritualidad"]
 
-timestamp: 2026-06-21
+timestamp: 2026-08-22
 description: "Gozo interior y sobrenatural que brota de la respuesta generosa a la llamada de Dios y de la coherencia de la entrega total a Cristo."
 ---
 # Alegría cristiana
 
 > Área: Ascética / Espiritualidad
-> Última actualización: 2026-06-21
+> Última actualización: 2026-08-22
 
 ## Definición
 
@@ -59,6 +59,15 @@ La *Ecclesia in America* presenta la alegría cristiana como fruto de la evangel
 
 El CEC enseña que la alegría es fruto del Espíritu Santo (§§736, 1832) y que el cristiano puede participar de la alegría del Señor incluso en el sufrimiento (§301). La bienaventuranza eterna es la alegría perfecta y sin fin (§§1720-1724).
 
+### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
+
+- **La alegría como señal segura de Dios vivo:** «La señal segura de que Dios vive en ti es la alegría» (Barron), fundada en Jn 15,11 («para que mi alegría esté en vosotros y vuestra alegría sea plena») y Flp 4,4 («Alegraos siempre en el Señor»). La alegría es principio de la ortodoxia afirmativa: compartir alegremente el gran «sí» de Dios a la humanidad en Cristo.
+- **Creados para la alegría:** Alfred Delp, desde su celda de condenado: «El hombre debería tomar la alegría tan en serio como se toma a sí mismo… [fue] creado para la alegría» (*Advent of the Heart*).
+- **Valor de lo innecesario:** C.S. Lewis: el humor «no tiene valor de supervivencia; es de esas cosas que dan valor a la supervivencia» (*Los cuatro amores*).
+- **Coraje para regocijarse:** Benedicto XVI: «La alegría sin pudor se ha vuelto más rara… la pérdida de alegría no mejora el mundo… [hace falta] coraje para regocijarse» (*Salt of the Earth*).
+- **Escuela de la Alegría Cristiana:** la habitación de San Felipe Neri era conocida así; su consejo: «Hijo mío, persevera en esa alegría, porque este es el verdadero camino para progresar en virtud».
+- **La risa como eco del gozo divino:** Chesterton: quizá Dios retuvo un poco su jovialidad para protegernos de su éxtasis; «nuestra risa es eco del gozo inestimable de nuestro Padre». Reímos «porque es nuestra respuesta encarnada al gozo. ¡Gracias sean dadas a Dios!» (Angel).
+
 ## Distinciones importantes
 
 - **Alegría cristiana** (gozo de la entrega generosa a Dios y de la coherencia con su llamada) vs. **alegría espiritual** (fruto del Espíritu Santo, gozo de la posesión de Dios en general)
@@ -75,7 +84,7 @@ Se relaciona con [[caridad]], [[vocación_cristiana]], [[vocación_sacerdotal]],
 
 ## Ver también
 
-[[alegría]], [[vocación_sacerdotal]], [[vocación_religiosa]], [[vocación_laical]], [[ecclesia_in_america]], [[vocación_cristiana]]
+[[alegría]], [[vocación_sacerdotal]], [[vocación_religiosa]], [[vocación_laical]], [[ecclesia_in_america]], [[vocación_cristiana]], [[humor]], [[gozo_espiritual]]
 
 ## Referencias
 
@@ -84,3 +93,4 @@ Se relaciona con [[caridad]], [[vocación_cristiana]], [[vocación_sacerdotal]],
 - [EA §4, §34]
 - [CEC §736, §1832, §301, §1720-1724]
 - [TPCr, obra completa]
+- [EAC-8, Issue 8 «Humor», archivos 02, 05, 14, 15]

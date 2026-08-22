@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Verdad
 tags: ["filosofía", "doctrina_social", "moral"]
 
-timestamp: 2026-06-10
+timestamp: 2026-08-22
 description: "La verdad es uno de los valores fundamentales de la vida social, inherente a la dignidad de la persona humana."
 ---
 # Verdad
 
 > Área: Filosofía / Doctrina Social / Moral
-> Última actualización: 2026-06-10
+> Última actualización: 2026-08-22
 
 ## Definición
 
@@ -115,9 +115,19 @@ Orwell denunció que «el pecado de casi todos los izquierdistas desde 1933 es q
 
 Matt Nelson, en «Where Aristotle Meets Twitter», señala que las redes sociales premian la opinión sin acción: «en Twitter, incluso los perdedores ganan simplemente por aprobación subjetiva» [WoF-3, 21_peripheries_aristotle]. La verdad, sin embargo, no se construye por popularidad: en los deportes —a diferencia de Twitter— «los ganadores ganan y reciben su debida recompensa; los perdedores no tienen dónde esconderse».
 
+### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
+
+- **La risa como vehículo de verdad:** George Bernard Shaw: «Si quieres decirle a alguien la verdad, mejor hazlo reír, o te matará». El humor desarma las defensas y permite decir lo que la agresividad cerraría (Angel). Chesterton: la risa «descongela el orgullo y desenrolla el secretismo».
+- **Verdad bajo la burla:** Steve Martin se burló durante décadas del relativismo (lista paródica de libros absurdos: «El relativismo es absurdo») y de la fe; sin embargo, incluso burlándose de la verdad, «Dios siempre está ahí»; sus canciones tardías celebran un universo «diseñado con propósito». La burla presupone la verdad que parodia.
+- **Sin verdad no hay chiste:** Joel Berry: en la cultura post-verdad no hay base para la comedia; cincuenta años de deconstrucción dejaron «nada que derribar». El chiste exige juicio sobre la realidad (cf. Scruton).
+
 ## Ver también
 
-[[libertad_humana]], [[justicia]], [[caridad]], [[conciencia_moral]]
+[[libertad_humana]], [[justicia]], [[caridad]], [[conciencia_moral]], [[humor]], [[sátira]]
+
+### Según Mons. Tihámer Tóth (JvC)
+
+Decir siempre la verdad es «otro medio estupendo para ser hombre de carácter, sin doblez» [JvC, Cap. III]. La consigna debe ser: «Nunca mentiré». La mentira no solo es un pecado contra Dios, que es la Verdad viviente, sino que degrada moralmente al que miente. El hombre de palabra cumple lo prometido cueste lo que cueste: «La verdad a cualquier precio, debe ser tu consigna» [JvC, Cap. III].
 
 ## Referencias
 
@@ -126,7 +136,3 @@ Matt Nelson, en «Where Aristotle Meets Twitter», señala que las redes sociale
 - SmTh Iª q.16 (La verdad)
 - [Juan XXIII, Pacem in Terris]
 - [EjEsp2026, cap. 5: «El esplendor de la Verdad»]
-
-### Según Mons. Tihámer Tóth (JvC)
-
-Decir siempre la verdad es «otro medio estupendo para ser hombre de carácter, sin doblez» [JvC, Cap. III]. La consigna debe ser: «Nunca mentiré». La mentira no solo es un pecado contra Dios, que es la Verdad viviente, sino que degrada moralmente al que miente. El hombre de palabra cumple lo prometido cueste lo que cueste: «La verdad a cualquier precio, debe ser tu consigna» [JvC, Cap. III].

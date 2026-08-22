@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Providencia divina
 tags: ["dogmática"]
 
-timestamp: 2026-06-20
+timestamp: 2026-08-22
 description: "La divina providencia son las disposiciones por las que Dios conduce con sabiduría y amor todas las criaturas hacia su fin último."
 ---
 # Providencia divina
 
 > Área: Dogmática
-> Última actualización: 2026-06-20
+> Última actualización: 2026-08-22
 
 ## Definición
 
@@ -48,6 +48,12 @@ La providencia se manifiesta también en el bien que surge de la experiencia del
 
 La Veritatis Splendor (§43) enseña que la sabiduría de Dios es providencia, amor solícito. Dios provee a los hombres de manera diversa respecto a los demás seres: no desde fuera, mediante leyes físicas inmutables, sino desde dentro, mediante la razón, que conociendo con la luz natural la ley eterna de Dios, es capaz de indicar al hombre la dirección de su libre actuación. Dios llama al hombre a participar de su providencia, queriendo por medio del hombre mismo, a través de su cuidado razonable y responsable, dirigir el mundo. La ley natural es la participación de la criatura racional en la divina Providencia.
 
+### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
+
+- **La vida como montaña rusa:** en *Parenthood* (Ron Howard), la abuela resume con un juguete la pedagogía de la providencia frente al control parental ansioso: la vida es montaña rusa — «me daba miedo, me asqueaba, me emocionaba y me entusiasmaba todo junto» — mientras el tiovivo solo gira sin llevar a ninguna parte. Confiarse al diseño del Creador frente al control absoluto (Worner).
+- **Tiempo dado por Dios:** Jeremy McLellan narra cómo un show planeado para otra fecha terminó sirviendo a la comunidad musulmana por los rohingyas: «tiempo que no debía existir, tiempo dado por Dios». La existencia misma es regalo recibido con gratitud.
+- **Providencia en las vocaciones:** Doug Cummins, sobre su paso de la arquitectura a la técnica audiovisual para Word on Fire: «veo providencia actuando: fui formado para esta carrera toda mi vida»; «Doug fue enviado por Dios».
+
 ## Analizado para
 
 - [[kevin_mulaney_prudence_decisions]]
@@ -57,7 +63,7 @@ La Veritatis Splendor (§43) enseña que la sabiduría de Dios es providencia, a
 - [[morir-con-cero]] — convergencia en la crítica a la ansiedad excesiva por el futuro; tensión por la confianza depositada en el cálculo actuarial y no en la Providencia divina
 
 ## Ver también
-[[creación]], [[gobierno_divino]], [[conservación]], [[milagro]], [[hado]], [[oración]], [[conformidad_con_la_voluntad_de_dios]], [[gloria_de_Dios]], [[hombre]]
+[[creación]], [[gobierno_divino]], [[conservación]], [[milagro]], [[hado]], [[oración]], [[conformidad_con_la_voluntad_de_dios]], [[gloria_de_dios]], [[hombre]], [[criaturidad]]
 
 ## Referencias
 
@@ -67,3 +73,4 @@ La Veritatis Splendor (§43) enseña que la sabiduría de Dios es providencia, a
 - SmTh Iª q.103, sobre el gobierno del mundo en general
 - SmTh Iª q.104, sobre los efectos del gobierno divino en especial
 - SmTh Iª q.105, sobre la mutación de las criaturas por Dios
+- [EAC-8, Issue 8 «Humor», archivos 04, 11, 19]

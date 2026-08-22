@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Llamada universal a la santidad
 tags: ["dogmática", "espiritualidad"]
 
-timestamp: 2026-08-07
+timestamp: 2026-08-22
 description: "La llamada universal a la santidad es la doctrina según la cual todos los fieles cristianos, cualquiera que sea su estado o condición."
 ---
 # Llamada universal a la santidad
 
 > Área: Dogmática / Espiritualidad
-> Última actualización: 2026-08-07
+> Última actualización: 2026-08-22
 
 ## Definición
 
@@ -62,6 +62,9 @@ La plena comprensión y la acogida sin reserva de la llamada divina a la santida
 
 Se relaciona con la [[santidad]], la [[perfección_cristiana]], la [[vocación]], la [[caridad]], los [[consejos_evangélicos]], el [[concilio_vaticano_ii]], y los diferentes estados de vida ([[estado_seglar]], [[estado_religioso]], [[estado_sacerdotal]]).
 
+### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
+
+Sor Regina María Gorman OCD da testimonio carmelita de la llamada universal: «Quienes somos llamadas a la vida religiosa damos testigo del gozo de una vida plenamente humana, vivida en comunión y orientada al cielo». La amistad con Cristo hace «brotar creatividad y humor» — la comunidad carmelita ríe (las hermanas que ahogan risas en la liturgia, la parodia de Barron en presencia de Barron, el Salve Regina solemne en plena fila del supermercado), y ese humor es señal de santidad plenamente humana, no de solemnidad desencarnada.
 
 ## Analizado para
 
@@ -76,6 +79,7 @@ Se relaciona con la [[santidad]], la [[perfección_cristiana]], la [[vocación]]
 
 - [CEC §2013, §2015, §826, §1968]
 - [TPCr, Segunda Parte, Cap. II; Tercera Parte]
+- [EAC-8, Issue 8 «Humor», archivo 21]
 - [Concilio Vaticano II, Lumen Gentium, Cap. V]
 - [EjEsp2026, cap. 5: «El esplendor de la Verdad»]
 - [JorSant-2026, 12.06.2026]

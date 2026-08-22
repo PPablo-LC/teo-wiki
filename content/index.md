@@ -3,7 +3,7 @@ tags:
   - meta
   - index
 title: Wiki Index
-updated: '2026-08-21'
+updated: '2026-08-22'
 note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts/regenerar-indice.py'
 ---
 
@@ -653,6 +653,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[credo_niceno]]
 - [[credo_niceno-constantinopolitano]]
 - [[cremación]]
+- [[criaturidad]]
 - [[crisis_de_fe]]
 - [[crisis_de_la_teología_moral]]
 - [[crisis_modernista]]
@@ -1376,6 +1377,8 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[humildad_de_cristo]]
 - [[humildad_de_maría]]
 - [[humillación_de_cristo]]
+- [[humor]]
+- [[humor_negro]]
 - [[hurto]]
 
 ### I
@@ -2684,6 +2687,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[santuarios]]
 - [[sarabaítas]]
 - [[satanás]]
+- [[sátira]]
 - [[satisfacción]]
 - [[satisfacción_de_cristo]]
 - [[schola_cantorum]]
@@ -3195,6 +3199,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[alejandro_iii]]
 - [[alejandro_vii]]
 - [[alejandro_viii]]
+- [[alfred_delp]]
 - [[alvaro_corcuera]]
 - [[anastasio_ii]]
 - [[antonio_royo_marín]]
@@ -3220,6 +3225,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 
 ### C (Personas)
 
+- [[c_s_lewis]]
 - [[carlomagno]]
 - [[carlos_gutiérrez]]
 - [[casiano]]
@@ -3289,8 +3295,10 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 
 ### G (Personas)
 
+- [[g_k_chesterton]]
 - [[gaudí]]
 - [[gelasio_i]]
+- [[geoffrey_chaucer]]
 - [[george_orwell]]
 - [[gianfranco_ghirlanda]]
 - [[gottschalk_de_orbais]]
@@ -3328,6 +3336,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 
 ### J (Personas)
 
+- [[j_r_r_tolkien]]
 - [[jack_kerouac]]
 - [[james_dunn]]
 - [[jansenio]]
@@ -3338,6 +3347,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[jose_anacoreta]]
 - [[josé_ignacio_munilla]]
 - [[josef_fuchs]]
+- [[josef_pieper]]
 - [[juan_azor]]
 - [[juan_bautista]]
 - [[juan_calvino]]
@@ -3396,6 +3406,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 
 - [[ockham]]
 - [[orígenes]]
+- [[oscar_wilde]]
 
 ### P (Personas)
 
@@ -3434,6 +3445,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[ricardo_blázquez]]
 - [[robert_barron]]
 - [[robert_sokolowski]]
+- [[roger_scruton]]
 
 ### S (Personas)
 
@@ -3480,6 +3492,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[san_juan_evangelista]]
 - [[san_judas_tadeo]]
 - [[san_leon_magno]]
+- [[san_lorenzo]]
 - [[san_lucas]]
 - [[san_luis_gonzaga]]
 - [[san_marcos]]
@@ -3543,6 +3556,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 
 - [[velasio_de_paolis]]
 - [[vigilio]]
+- [[viktor_frankl]]
 - [[vincent_van_gogh]]
 - [[visita_apostolica_2009_2010]]
 
@@ -3604,6 +3618,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[evangelization_and_culture_issue_5_scripture]]
 - [[evangelization_and_culture_issue_6_hope]]
 - [[evangelization_and_culture_issue_7_catholic_sensibility]]
+- [[evangelization_and_culture_issue_8_humor]]
 
 ### F (Documentos)
 

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Señal de contradicción
 tags: ["mariología", "cristología"]
 
-timestamp: 2026-06-18
+timestamp: 2026-08-22
 description: "«Señal de contradicción» es la expresión profética de Simeón sobre el Niño Jesús en el templo (Lc 2,34)."
 ---
 # Señal de contradicción
 
 > Área: Mariología / Cristología
-> Última actualización: 2026-06-18
+> Última actualización: 2026-08-22
 
 ## Definición
 
@@ -29,15 +29,20 @@ La señal de contradicción indica que Cristo es el punto de inflexión de la hi
 
 La Vida de Jesús (VJ) desarrolla el oráculo de Simeón en la Presentación (Cap. II). Simeón anuncia que Jesús «está puesto para caída y elevación de muchos en Israel, y para ser señal de contradicción». A María le anuncia que «una espada te atravesará el alma». Simeón une al sufrimiento de Cristo la visión del alma de María atravesada por la espada, asociando a la Madre al destino doloroso de su Hijo. Esta es la profecía de la señal de contradicción: Jesús será signo de contradicción y María participará en ese destino. El sufrimiento materno llegará al culmen en la pasión, cuando se una a su Hijo en el sacrificio redentor. A partir de la profecía de Simeón, María une de modo intenso y misterioso su vida a la misión dolorosa de Cristo.
 
+### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
+
+Elizabeth Scalia extiende la categoría a la condición cristiana contemporánea: los católicos, capaces de reírse de quiénes son y de sus propias instituciones («continuamos como signo de contradicción ante un mundo cada vez menos inclinado a la risa»). La risa del creyente es forma del testimonio contradictorio: mientras la cultura se vuelve hipersensible y solemne (cultura de la cancelación), el cristiano que sabe reírse de sí mismo permanece contracultural. El humor santo —San Lorenzo, Teresa de Ávila, Felipe Neri— ejemplifica esa libertad interior que contradice al mundo sin agresividad.
+
 ## Relaciones doctrinales
 
 Se relaciona con [[cruz]], [[virgen_maría]], [[simeón]], [[presentación_en_el_templo]], [[kenosis]], [[maternidad_espiritual]].
 
 ## Ver también
 
-[[cruz]], [[virgen_maría]], [[kenosis]], [[obediencia_de_la_fe]]
+[[cruz]], [[virgen_maría]], [[kenosis]], [[obediencia_de_la_fe]], [[humor]], [[santidad]]
 
 ## Referencias
 
 - [JPII, Redemptoris Mater §16, §18]
 - Lc 2,34-35
+- [EAC-8, Issue 8 «Humor», archivo 16]

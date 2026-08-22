@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Imagen de Dios
 tags: ["dogmática", "antropología_teológica"]
 
-timestamp: 2026-06-20
+timestamp: 2026-08-22
 description: "El hombre ha sido creado \"a imagen y semejanza de Dios\" (Gn 1,26)."
 ---
 # Imagen de Dios
 
 > Área: Dogmática / Antropología teológica
-> Última actualización: 2026-06-20
+> Última actualización: 2026-08-22
 
 ## Definición
 
@@ -108,6 +108,10 @@ La vocación cristiana, participando en la misión real de Cristo, consiste en l
 
 [VocTeoBib, «Imagen»] El hombre, creado a imagen de Dios (Gn 1,26), expresa esta semejanza en el dominio sobre la creación y en la procreación. La sabiduría de Dios es «imagen de su excelencia» (Sab 7,26), preparando la revelación de Cristo como «imagen del Dios invisible» (Col 1,15). Solo Cristo es la Imagen perfecta; el hombre es creado «a imagen» (con preposición que indica acercamiento entre cosas distantes). La imagen divina, desfigurada por el pecado, es restaurada en Cristo, y el cristiano es transformado «de gloria en gloria» en esa misma imagen (2Cor 3,18).
 
+### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
+
+Bobby Angel sitúa la comedia dentro del imago Dei: «En materia teológica, la comedia es una faceta de nuestra creación a imagen de Dios». El fenómeno de la risa —no replicado en el reino animal— revela que el hombre refleja un Dios que «se deleita gozosamente en su creación». La capacidad de percibir lo incongruente, jugar con las ideas y responder con risa al desvelamiento de la verdad pertenece a la sublimidad de la vocación humana descrita por GS 22: la imagen divina incluye el gozo.
+
 ## Distinciones importantes
 
 - Imagen natural: la inteligencia y voluntad libres que todo ser humano posee por naturaleza
@@ -144,3 +148,4 @@ Se relaciona con la [[creación]] del hombre, el [[pecado_original]] que la desf
 - Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. IV, §3a
 - GS, n. 14 y n. 17, citado en Ele_Xto_Stos, Cap. IV, §3a
 - Veritatis splendor, n. 34, citado en Ele_Xto_Stos, Cap. IV, §3a
+- [EAC-8, Issue 8 «Humor», archivo 15]

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Prudencia
 tags: ["moral"]
 
-timestamp: 2026-08-06
+timestamp: 2026-08-22
 description: "La prudencia es la primera y principal de las virtudes cardinales, virtud infusa que reside en la razón práctica."
 ---
 # Prudencia
 
 > Área: Moral
-> Última actualización: 2026-08-06
+> Última actualización: 2026-08-22
 
 ## Definición
 
@@ -36,12 +36,16 @@ La prudencia es la recta ratio agibilium, el hábito de la razón práctica que 
 
 El acto de la virtud es el que individua e impera el juicio de la razón, pero no una razón cualquiera, sino la razón recta: la razón práctica perfeccionada por la virtud moral de la prudencia. Corresponde a la inteligencia interpretar, evaluar y dirigir los fenómenos de índole afectiva, y la prudencia es la virtud que perfecciona la razón práctica para realizar esta función; por eso se la llama justamente «auriga virtutum», guía de las virtudes (Ele_Xto_Stos, Cap. VII, §2e).
 
+### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
+
+Bobby Angel aplica la prudencia al arte del chiste: cultivar prudencia y caridad al fijar «la línea» de la comedia — qué se dice, a quién, cuándo. Proverbio judío: «Quien puede retener un chiste es un héroe». George Bernard Shaw: «Si quieres decirle a alguien la verdad, mejor hazlo reír, o te matará»; pero el motivo debe ser «la diversión, no la maldad» (Rubin). «El timing lo es todo»: la oportunidad (kairós) es dimensión esencial del humor virtuoso.
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[virtud_de_la_prudencia]]
 
 ## Ver también
-[[virtud_de_la_prudencia]], [[virtudes_cardinales]], [[virtudes_infusas]], [[don_de_consejo]], [[imprudencia]], [[negligencia]], [[astucia]]
+[[virtud_de_la_prudencia]], [[virtudes_cardinales]], [[virtudes_infusas]], [[don_de_consejo]], [[imprudencia]], [[negligencia]], [[astucia]], [[humor]]
 
 ## Analizado en contexto cultural
 
@@ -52,5 +56,6 @@ Ver artículo principal: [[virtud_de_la_prudencia]]
 - CEC §1806
 - SmTh IIa-IIae q.47-56
 - TPCr, Tercera Parte, Libro I, Cap. VI
+- [EAC-8, Issue 8 «Humor», archivo 15]
 - Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §2a
 - Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §2e

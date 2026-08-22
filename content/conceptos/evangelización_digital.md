@@ -2,13 +2,13 @@
 type: Concepto Teológico
 title: Evangelización digital
 tags: ["evangelización", "medios_de_comunicación_social", "nueva_evangelización"]
-timestamp: 2026-08-08
+timestamp: 2026-08-22
 description: "La evangelización a través de los medios digitales: internet, redes sociales y plataformas online como nuevo Areopago para proclamar el Evangelio."
 ---
 # Evangelización digital
 
 > Área: Evangelización / Medios de comunicación
-> Última actualización: 2026-08-08
+> Última actualización: 2026-08-22
 
 ## Definición
 
@@ -58,6 +58,10 @@ Los evangelizadores digitales se dirigen especialmente a los «nones» (no afili
 
 WoF-3, 01_from_the_desk.md (Barron), WoF-3, 03_word_from_institute.md, WoF-3, 15_vogt_media_evangelist.md, WoF-3, 09_spotlight_sheen_microphone.md.
 
+### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
+
+EAC-8 (archivo 19) recoge la visión mediática de Word on Fire: los medios digitales como frontera misionera — «las redes sociales toman los atributos que les demos… alguien tiene que predicar el Evangelio ahí; es la nueva frontera de la evangelización» (Gloor/Cummins). La producción de calidad industrial elevada «espiritual, intelectual y creativamente» sirve a la Nueva Evangelización con enfoque ad-extra; el «Christianese» (lenguaje cristiano autorreferencial) debe superarse para hablar al hombre contemporáneo.
+
 ## Ver también
 
 [[evangelización]], [[nueva_evangelización]], [[medios_de_comunicación_social]], [[periferias]], [[nones]]
@@ -67,3 +71,4 @@ WoF-3, 01_from_the_desk.md (Barron), WoF-3, 03_word_from_institute.md, WoF-3, 15
 - WoF-3, 01_from_the_desk.md (Bishop Robert Barron)
 - WoF-3, 15_vogt_media_evangelist.md (Brandon Vogt)
 - EG 14
+- [EAC-8, Issue 8 «Humor», archivo 19]

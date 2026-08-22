@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Santidad
 tags: ["dogmática", "ascética"]
 
-timestamp: 2026-06-12
+timestamp: 2026-08-22
 description: "La santidad (del latín *sanctitas*) es la perfección de la caridad por la cual el hombre, elevado por la gracia, participa de la santidad misma de Dios."
 ---
 # Santidad
 
 > Área: Dogmática / Ascética
-> Última actualización: 2026-06-12
+> Última actualización: 2026-08-22
 
 ## Definición
 
@@ -79,6 +79,10 @@ Juan Pablo II desarrolla la llamada universal a la santidad (cf. *Lumen Gentium*
 
 **Santidad moral.** La conducta santa es precisamente la santidad moral, que supone el desarrollo de la santidad inicial mediante el obrar bueno y aun excelente, y encamina a su cumplimiento escatológico; la santidad moral es la santidad del obrar. El desarrollo, a través de la conducta, de la condición de hijo de Dios recibida con la fe y con el bautismo es una concreción, por analogía, de un principio metafísico general: el obrar conlleva el crecimiento del propio ser, que brota del ser mismo. Desde ese punto de vista se entiende cómo a través de las buenas obras —también en el plano de la ética natural— alcanzamos una mayor semejanza con el Señor. La santidad moral constituye el fin último próximo de la vida humana, es decir, el único tipo de vida que a la luz de la Revelación es razonable querer en sí misma, no subordinándola a ningún otro bien o condición terrena, y que debe ordenarse a la comunión definitiva con Dios en la vida eterna y, en último término, a la gloria de Dios, fin último absoluto del hombre. No consiste en una actividad particular yuxtapuesta a las otras: debe buscarse y alcanzarse a través y en la realización de las normales actividades del hombre según la vocación de cada uno —trabajo profesional, vida familiar, actividades sociales y políticas, deberes religiosos—; formalmente consiste en los principios que inspiran y orientan tales actividades (sobre todo la caridad) y en el modo de llevarlas a cabo. Lo común a todos es que la santidad cristiana consiste en imitar y seguir a Cristo, configurándose cada vez más con Él, hasta llegar a la plenitud de la caridad, que es la esencia de la perfección cristiana (Ele_Xto_Stos, Cap. II, §3d).
 
+### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
+
+**El santo como persona de humor divino:** «Un santo puede definirse como alguien con divino sentido del humor, pues un santo nunca toma este mundo en serio como la Ciudad Permanente» (Fulton Sheen). El número documenta el humor de los santos: Felipe Neri con media barba rapada y su «Escuela de la Alegría Cristiana»; San Lorenzo desde la parrilla («¡Denme la vuelta!»); Teresa de Ávila («Hay tiempo de penitencia y tiempo de perdices»; «Si así tratas a tus amigos, no te extraña que tengas tan pocos»); Tomás Moro bromeando sobre su barba ante el verdugo; Santa Teresita imitada con humor en un convento carmelita. La santidad no anula la humanidad: los carmelitas que ahogan risas durante la liturgia muestran que «estas mujeres santas eran plenamente humanas» (Sor Gorman). El humor es fruto de la amistad con Cristo, que hace «brotar creatividad y humor», y testigo del gozo de una vida plenamente humana orientada al cielo.
+
 ## Distinciones importantes
 
 - **Santidad ontológica**: la gracia santificante en el alma (santidad de estado).
@@ -97,10 +101,11 @@ La santidad se funda en la [[gracia_santificante]], se expresa en las [[virtudes
 - [[tim_barry_the_strength_of_meekness]]
 
 ## Ver también
-[[perfección_cristiana]], [[gracia_santificante]], [[caridad]], [[virtudes_infusas]], [[dones_del_espíritu_santo]], [[comunión_de_los_santos]], [[llamada_universal_a_la_santidad]]
+[[perfección_cristiana]], [[gracia_santificante]], [[caridad]], [[virtudes_infusas]], [[dones_del_espíritu_santo]], [[comunión_de_los_santos]], [[llamada_universal_a_la_santidad]], [[humor]], [[gozo_espiritual]]
 
 ## Referencias
 
 - [CEC §823-829]
 - [TPCr, Parte II, Cap. 2]
 - [JorSant-2026, 12.06.2026]
+- [EAC-8, Issue 8 «Humor», archivos 05, 16, 21]

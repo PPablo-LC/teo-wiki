@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Idolatría
 tags: ["moral"]
 
-timestamp: 2026-05-26
+timestamp: 2026-08-22
 description: "Pecado contra el primer mandamiento del Decálogo que consiste en tributar a una criatura —ídolo, persona, poder, riqueza o cualquier realidad creada— la adoración debida solo a Dios."
 ---
 # Idolatría
 
 > Área: Moral
-> Última actualización: 2026-05-26
+> Última actualización: 2026-08-22
 
 ## Definición
 
@@ -44,6 +44,10 @@ Santo Tomás distingue tres tipos históricos de idolatría: la teología mític
 
 [SmTh IIa-IIae q.94]
 
+### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
+
+La sátira profética como arma contra la idolatría: Dios mismo se burla del leñador que quema medio tronco para calentarse y del resto hace un dios al que postra (Is 44,15-19); Elías mofa a los profetas de Baal (1 Re 18,26-27). La sátira cristiana hereda este oficio: «burlar implacablemente los ídolos y torres de Babel señalando a Alguien infinitamente mejor» (Berry). Kyle Mann extiende el diagnóstico a la modernidad: el progresismo social funciona como religión idolátrica — con sacerdotes (científicos militantes), dogma, indulgencias (offsets de carbono) y escatología — y su rasgo revelador: «lo que el ciego religioso no puede hacer es tomar un chiste». La incapacidad de ser burlada delata al ídolo.
+
 ## Relaciones doctrinales
 
 La idolatría se opone a la [[adoración]] debida a Dios, viola el [[primer_mandamiento]] y vicia la virtud de la [[religión]]. Se distingue de la [[superstición]] (que da culto al verdadero Dios de modo indebido) y de la [[herejía]] (error intelectual sobre la fe).
@@ -54,9 +58,10 @@ La idolatría se opone a la [[adoración]] debida a Dios, viola el [[primer_mand
 - [[brian_cochran_my_personal_emmaus]]
 
 ## Ver también
-[[adoración]], [[superstición]], [[primer_mandamiento]], [[religión]], [[pecado_mortal]], [[virtud_de_la_religión]]
+[[adoración]], [[superstición]], [[primer_mandamiento]], [[religión]], [[pecado_mortal]], [[virtud_de_la_religión]], [[sátira]]
 
 ## Referencias
 
 - CEC §2112-2114, §2130
 - TPCr, tratado de la virtud de la religión
+- [EAC-8, Issue 8 «Humor», archivos 13, 18]

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Humildad
 tags: ["moral", "ascética"]
 
-timestamp: 2026-07-20
+timestamp: 2026-08-22
 description: "La humildad es una virtud derivada de la templanza —a través de la modestia— que inclina a cohibir el desordenado apetito de la propia excelencia."
 ---
 # Humildad
 
 > Área: Moral / Ascética
-> Última actualización: 2026-07-20
+> Última actualización: 2026-08-22
 
 ## Definición
 
@@ -115,6 +115,16 @@ La humildad de San Francisco es concreta, práctica y radical, basada en la imit
 
 **Humildad de Cristo:** En la Carta a todos los hermanos, San Francisco contempla la humildad de Cristo en la Eucaristía: «¡Qué humilde sublimidad! ¡Qué sublime humildad! Que el Señor del universo, Dios y Hijo de Dios, se humilla de tal manera que por nuestra salvación se esconde bajo un trozo de pan» (CFr. 25).
 
+### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
+
+El número dedicado al humor presenta la risa de uno mismo como ejercicio privilegiado de humildad:
+
+- **Reírse de sí mismo como oportunidad de conversión:** «Si somos demasiado orgullosos para reír de nuestra propia absurdez, hemos perdido una oportunidad de conversión» (Zimmerer). La sátira funciona como espejo de feria: quien tiene buen humor responde «mi nariz no es así»; «si no podemos reírnos de nosotros mismos, hemos perdido el argumento» (Mann).
+- **Felipe Neri como modelo:** usaba el humor «para mantener la humildad y aumentar la paciencia»: llegó con media barba rapada a una fiesta en su honor; nunca se tomó en serio a sí mismo. Sus penitencias casi ridículas tenían por meta «producir humildad y mantener la sencillez».
+- **Joel Berry:** el orgullo descubierto al fundar *The Babylon Bee*: «descubrí que era un pelele que se creía un dios»; el humor sin maldad presupone conciencia de la común naturaleza caída.
+- **Chesterton sobre solemnidad y gravedad:** «Pride is the downward drag of all things into easy solemnity… Seriousness is not a virtue… Solemnity flows out of men naturally, but laughter is a leap. It is easy to be heavy, hard to be light. Satan fell by the force of gravity». La ligereza humilde es salto ascendente.
+- **La risa que libera:** «[La risa] descongela el orgullo y desenrolla el secretismo; olvida al hombre ante algo mayor que él» (Chesterton, «Laughter»).
+
 ## Distinciones importantes
 
 - **Humildad vs. magnanimidad**: no son opuestas sino complementarias; una inclina hacia abajo (conteniendo el apetito desordenado), la otra hacia arriba (empujando a empresas grandes por Dios)
@@ -150,7 +160,7 @@ Los Avisos Espirituales presentan la humildad como el camino central de la perfe
 La humildad se manifiesta en la obediencia, el silencio y la renuncia a la propia opinión: «Déjate enseñar, déjate mandar, déjate sujetar y despreciar y serás perfecta» (Punto 32). El amor no consiste en sentir grandes cosas, sino en tener grande desnudez y padecer por el Amado (Punto 35). El alma humilde se regocija en ser desconocida y no busca ser vista: «Ama el no ser conocida de ti ni de los otros. Nunca mirar los bienes ni los males ajenos» (Avisos de Gerona, §13).
 
 ## Ver también
-[[soberbia]], [[don_de_temor]], [[mansedumbre]], [[virgen_maría]], [[perfección_cristiana]], [[virtud_de_la_religión]], [[modestia]], [[magnanimidad]]
+[[soberbia]], [[don_de_temor]], [[mansedumbre]], [[virgen_maría]], [[perfección_cristiana]], [[virtud_de_la_religión]], [[modestia]], [[magnanimidad]], [[humor]], [[san_felipe_neri]], [[g_k_chesterton]]
 
 ## Referencias
 
@@ -161,5 +171,6 @@ La humildad se manifiesta en la obediencia, el silencio y la renuncia a la propi
 - [L_XIV-ClerRom, 19.02.2026]
 - [SFrAs, Adm. 20, 24, 25 — Humildad verdadera y del siervo]
 - [SFrAs, SalV. 1-9 — Humildad como virtud que confunde vicios]
+- [EAC-8, Issue 8 «Humor», archivos 03, 05, 13, 16, 18]
 - [SFrAs, RGl II.10 — Humildad en la vida religiosa]
 - [SFrAs, CFr. 25 — Humildad de Cristo en la Eucaristía]

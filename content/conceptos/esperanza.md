@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Esperanza
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-08-19
+timestamp: 2026-08-22
 description: "La esperanza es la segunda de las virtudes teologales, virtud infusa sobrenatural por la que deseamos y esperamos de Dios la vida eterna y los medios necesarios para alcanzarla."
 ---
 # Esperanza
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-08-19
+> Última actualización: 2026-08-22
 
 ## Definición
 
@@ -148,6 +148,13 @@ El número 6 de *Evangelization & Culture* está enteramente dedicado a la esper
 
 **La esperanza encarnada** (Haley Stewart, §11; Sr. Josephine Garrett, §17): El Niño Jesús en el hogar es fuente de gracia sobrenatural. «Tomad valor, Yo he vencido al mundo» (Jn 16,33). La esperanza se encarna en la relación: «Es la relación que sana» (Yalom). La Encarnación es el «Misterio Magnífico»: Jesús mismo como sacramento que cumple nuestros mayores anhelos.
 
+### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
+
+- **Reír para no llorar:** Lincoln: «Río porque no debo llorar»; llamados a «gran alegría y regocijo ilimitado» pese a la condición rota (Worner). La risa es forma de esperanza ante el sufrimiento.
+- **El reino que gana:** Joel Berry, sobre su sátira cristiana: «Soy ciudadano de un reino que no será destruido… nuestro lado gana»; la verdad trae consuelo además de risas. Titular de *The Babylon Bee* como acto de esperanza: «Election Results Are In: Christ Still On His Throne».
+- **Consuelo que convierte:** las cartas de lectores —una viuda en duelo, un hombre que pide a Dios hablarle— muestran que la sátira puede abrir a la conversión y al consuelo (Mann).
+- **Esperanza tardía:** Steve Martin: tras décadas de risas y burlas, sus canciones celebran el amor y la vida («quizá después de décadas de risas, el amor haya llegado para Steve Martin», Petiprin).
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[virtud_de_la_esperanza]]
@@ -169,5 +176,6 @@ Ver artículo principal: [[virtud_de_la_esperanza]]
 - SmTh IIª-IIae q.17 aa.1-8; q.18 aa.1-4; q.22 aa.1-2
 - SmTh IIIª q.7 a.4
 - [EjEsp2026, cap. 11: «Comunicar Esperanza»]
+- [EAC-8, Issue 8 «Humor», archivos 04, 09, 13, 18]
 - Denzinger D-1331–D-1332, D-1337 (Inocencio XII, *Cum alias*)
 - Evangelization & Culture, Issue 6 — Hope (EcC6): §§01-17 (Worner, Becklo, Maher, Scalia, Petiprin, Morson, Havlicek, Zimmerer, Stewart, Seewald, Hooten Wilson, Garrett)

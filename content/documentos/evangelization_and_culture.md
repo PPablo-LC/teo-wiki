@@ -1,8 +1,8 @@
 ---
 type: Documento
 title: Evangelization & Culture
-description: "Trimestral del Word on Fire Institute (Bishop Robert Barron) con números sobre Creatividad, Economía, Era Digital, Cine, Escritura, Esperanza y la sensibilidad católica"
-timestamp: 2026-08-19
+description: "Trimestral del Word on Fire Institute (Bishop Robert Barron) con números sobre Creatividad, Economía, Era Digital, Cine, Escritura, Esperanza, sensibilidad católica y Humor"
+timestamp: 2026-08-22
 tags:
   - evangelización
   - cultura
@@ -15,7 +15,7 @@ tags:
 # Evangelization & Culture
 
 > Área: Teología pastoral / Evangelización
-> Última actualización: 2026-08-19
+> Última actualización: 2026-08-22
 
 ## Descripción
 
@@ -32,6 +32,7 @@ tags:
 | 5 | Issue 5 | Scripture | Autumn 2020 | [[evangelization_and_culture_issue_5_scripture]] |
 | 6 | Issue 6 | Hope | Winter 2020 | [[evangelization_and_culture_issue_6_hope]] |
 | 7 | Issue 7 | The Catholic Sensibility of Bishop Barron | Spring 2021 | [[evangelization_and_culture_issue_7_catholic_sensibility]] |
+| 8 | Issue 8 | Humor | Summer 2021 | [[evangelization_and_culture_issue_8_humor]] |
 
 ## Temas centrales por número
 
@@ -141,6 +142,26 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - Predicación como mosaico (Mauriac, Newman)
 - Thomas Merton: contemplación, *le point vierge*, ascesis equilibrada
 
+### Issue 8: Humor (Summer 2021)
+Para el desarrollo completo de este número, véase [[evangelization_and_culture_issue_8_humor]].
+- La Encarnación como chiste divino: «todo comienza con un chiste» (Barron)
+- Humor como don y señal de Dios vivo; ortodoxia afirmativa
+- Chaucer y la sátira como espejo del pecador; humildad para reírse de uno mismo
+- *Parenthood* y *The Office*: la condición humana caída como materia del humor
+- San Felipe Neri, patrono del humor: Escuela de la Alegría Cristiana
+- Oscar Wilde y la eutrapelia (Aristóteles, SmTh II-II q.168 a.2)
+- *El gran Lebowski*: nihilismo, comedia y fertilidad
+- Tolkien lector de literatura moderna (Holly Ordway)
+- Steve Martin y la anticomedia; búsqueda de la verdad
+- La risa recuerda que somos criaturas (Pieper)
+- Los bufones en la pintura: espejo de la verdad
+- The Babylon Bee e Isaías 53,6: la Resurrección como chiste a Satanás
+- Santos con humor: Sheen, San Lorenzo, Teresa de Ávila, Tomás Moro
+- Sátira profética en una era sin humor (Elías, Isaías)
+- Nueva Evangelización y el nuevo estudio de Word on Fire
+- Santidad y hilaridad en el convento carmelita (Sor Gorman OCD)
+- En defensa del humor negro: tres criterios morales (Nelson)
+
 ## Autores destacados
 
 - Bishop Robert Barron (director, Word on Fire)
@@ -184,14 +205,27 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - Matthew Nelson (apologética, Word on Fire Institute)
 - Rev. Connor Danstrom (capellán, University of Illinois at Chicago)
 - James Matthew Wilson (poeta)
+- Rachel Bulman (Lives: San Felipe Neri)
+- Dr. Jennifer Frey (filosofía, University of South Carolina)
+- Robert Mixa (cine, Word on Fire)
+- Dr. Holly Ordway (literatura, Word on Fire Academic)
+- Andrew Petiprin (teología, Word on Fire Institute)
+- Tom Zampino (poesía)
+- Jeremy McLellan (comediante)
+- Joel Berry (editor de The Babylon Bee)
+- Bobby Angel (ensayista y poeta)
+- John Kenneth Muir (crítico de cine)
+- Kyle Mann (editor jefe de The Babylon Bee)
+- Tim Westermeyer (pastor luterano)
+- Sor Regina María Gorman OCD (carmelita descalza)
 
 ## Relación con otras fuentes
 
-Esta fuente complementa los artículos sobre [[evangelización]], [[evangelización_digital]], [[medios_de_comunicación_social]], [[belleza]], [[arte]], [[doctrina_social]], [[nueva_evangelización]], y [[cultura]].
+Esta fuente complementa los artículos sobre [[evangelización]], [[evangelización_digital]], [[medios_de_comunicación_social]], [[belleza]], [[arte]], [[doctrina_social_de_la_iglesia]], [[nueva_evangelización]], [[cultura]], [[humor]], [[eutrapelia]] y [[alegría_cristiana]].
 
 ## Ver también
 
-[[evangelización]], [[evangelización_digital]], [[belleza]], [[arte]], [[doctrina_social]], [[nueva_evangelización]]
+[[evangelización]], [[evangelización_digital]], [[belleza]], [[arte]], [[doctrina_social_de_la_iglesia]], [[nueva_evangelización]], [[humor]], [[eutrapelia]]
 
 ## Referencias
 
@@ -202,3 +236,4 @@ Esta fuente complementa los artículos sobre [[evangelización]], [[evangelizaci
 - Evangelization & Culture, Issue 5 (2020) — Scripture
 - Evangelization & Culture, Issue 6 (2020) — Hope
 - Evangelization & Culture, Issue 7 (2021) — The Catholic Sensibility of Bishop Barron
+- Evangelization & Culture, Issue 8 (2021) — Humor

@@ -3,8 +3,8 @@ type: ResumenFuente
 title: "LIBRO IV"
 fuente: Codex_Iuri_Canonici
 capítulo: 4
-timestamp: 2026-08-21
-description: "Resumen de 'LIBRO IV' — Codex_Iuri_Canonici"
+timestamp: 2026-08-22
+description: "Resumen del Libro IV del CIC: la función de santificar — sacramentos, liturgia de las horas, culto, tiempo sagrado y lugares (cann. 849–1253)"
 tags: ["resumen", "codex iuri canonici"]
 ---
 
@@ -12,25 +12,56 @@ tags: ["resumen", "codex iuri canonici"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+[[sacramento]], [[liturgia]], [[bautismo]], [[confirmación]], [[eucaristía]], [[penitencia]], [[confesión]], [[absolución]], [[unción_de_los_enfermos]], [[orden_sacerdotal]], [[matrimonio]], [[carácter]], [[iniciación_cristiana]], [[catecumenado]], [[padrinos]], [[materia_y_forma]], [[sigilo_sacramental]], [[indulgencia]], [[viático]], [[estipendio_de_misa]], [[impedimento]], [[consentimiento_matrimonial]], [[forma_canónica]], [[matrimonio_mixto]], [[disparidad_de_cultos]], [[privilegio_paulino]], [[separación_conyugal]], [[convalidación_del_matrimonio]], [[sanación_en_la_raíz]], [[sacramental]], [[exorcismo]], [[liturgia_de_las_horas]], [[exequias_eclesiásticas]], [[cremación]], [[voto]], [[juramento]], [[culto_de_los_santos]], [[imagen_sagrada]], [[reliquias]], [[lugar_sagrado]], [[iglesia]], [[oratorio]], [[capilla_privada]], [[santuario]], [[altar]], [[cementerio]], [[dedicación]], [[bendición]], [[domingo]], [[fiesta_de_precepto]], [[días_de_penitencia]], [[ayuno]], [[abstinencia]], [[cuaresma]], [[celibato]], [[irregularidad]], [[dimisorias]]
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `libro_04_funcion_santificar.md`
+### Disposiciones preliminares (cann. 834–839)
 
+La Iglesia cumple la función de santificar de modo peculiar por la sagrada liturgia, ejercicio de la función sacerdotal de Cristo, en la que la santificación se significa con signos sensibles y se realiza, mientras el Cuerpo místico tributa íntegro el culto público a Dios (c. 834). La ejercen primero los Obispos (plenitud del sacerdocio, principales dispensadores de los misterios de Dios, moderadores de toda la vida litúrgica), luego presbíteros y diáconos; los fieles participan activamente, sobre todo en la Eucaristía, y los padres educando cristianamente a sus hijos (c. 835). El culto procede de la fe y debe suscitarse con el ministerio de la palabra (c. 836). Las acciones litúrgicas no son privadas sino celebraciones de la Iglesia, «sacramento de unidad» (c. 837). La ordenación de la liturgia corresponde exclusivamente a la autoridad eclesiástica: Sede Apostólica (libros litúrgicos), Conferencias Episcopales (traducciones y adaptaciones) y Obispo diocesano (normas obligatorias) (c. 838); además santifica la Iglesia con oraciones, obras de penitencia y caridad (c. 839).
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+### PARTE I — DE LOS SACRAMENTOS (cann. 840–1165)
+
+**Comunes (cc. 840–848).** Los sacramentos del Nuevo Testamento, instituidos por Cristo, son signos y medios que expresan y fortalecen la fe, rinden culto a Dios y realizan la santificación, contribuyendo a la comunión eclesiástica (c. 840); sólo la autoridad suprema define su validez (c. 841). Sin bautismo no hay admisión válida a los demás; bautismo, confirmación y Eucaristía son necesarios para la plena iniciación cristiana (c. 842). No negarse a quienes los piden oportunamente bien dispuestos (c. 843); comunión con no católicos en necesidad o utilidad espiritual, con Iglesias orientales y, en peligro de muerte, con otros cristianos que profesen la fe católica (penitencia, Eucaristía y unción) (c. 844). Bautismo, confirmación y orden imprimen carácter y no se reiteran; ante duda prudente, bajo condición (c. 845). Fidelidad a los libros litúrgicos: nadie añada, suprima o cambie nada; cada uno según su propio rito (c. 846); santos óleos bendecidos recientemente por el Obispo (c. 847); sin pedir nada fuera de las oblaciones determinadas, atendiendo a los pobres (c. 848).
+
+#### TÍTULO I — Del bautismo (cc. 849–878)
+
+Puerta de los sacramentos, necesaria para la salvación de hecho o al menos de deseo: libera de los pecados, reengendra hijos de Dios e incorpora a la Iglesia configurando con Cristo por el carácter indeleble; válido sólo por ablución con agua verdadera y debida forma verbal (c. 849). **Celebración:** ritual aprobado salvo necesidad urgente (c. 850); catecumenado del adulto e instrucción de padres y padrinos (c. 851); adultos son quienes tienen uso de razón (c. 852); agua bendecida fuera de necesidad (c. 853), por inmersión o infusión (c. 854), nombre conforme al sentir cristiano (c. 855), preferible el domingo o la vigilia Pascual (c. 856); lugar propio: iglesia u oratorio, ordinariamente parroquial (cc. 857–859), no casas particulares ni hospitales fuera de necesidad (c. 860). **Ministro:** ordinarios Obispo, presbítero y diácono; en necesidad cualquier persona con la debida intención (c. 861); no en territorio ajeno sin licencia (c. 862); el de adultos (≥14 años) ofrézcase al Obispo (c. 863). **Candidatos:** todo ser humano aún no bautizado (c. 864); el adulto requiere deseo manifestado, instrucción, probación catecumenal y dolor de sus pecados (c. 865); el adulto bautizado confírmese inmediatamente y participe de la Eucaristía (c. 866); padres: primeras semanas, sin demora en peligro de muerte (c. 867); liceidad infantil: consentimiento paterno y esperanza fundada de educación católica (c. 868); ante duda tras investigación diligente, bajo condición, valorando materia y fórmula e intención del ministro (c. 869); expósitos (c. 870); fetos abortivos si viven (c. 871). **Padrinos:** uno solo o uno y una (cc. 872–873); requisitos: ≥16 años, católico confirmado y comulgado, vida congruente, sin pena canónica, no padre o madre; el bautizado no católico sólo como testigo (c. 874). **Prueba y anotación:** testigo o declaración única (cc. 875–876); libro de bautismos (c. 877); aviso al párroco (c. 878).
+
+#### TÍTULO II — De la confirmación (cc. 879–896)
+
+Imprime carácter: don del Espíritu Santo, vínculo más perfecto con la Iglesia, fortalecimiento como testigos de Cristo (c. 879). Se administra por unción con crisma en la frente, con imposición de la mano y las palabras prescritas (c. 880); crisma consagrado por el Obispo; conviene dentro de la Misa (c. 881). Ministro ordinario el Obispo; válidamente también el presbítero con facultad (c. 882); gozan ipso iure los equiparados al Obispo diocesano, el presbítero que bautiza a adultos o admite a la plena comunión y cualquier presbítero en peligro de muerte (c. 883). Capacidad: todo bautizado aún no confirmado, convenientemente instruido y dispuesto (c. 889); obligación de recibirlo en tiempo oportuno (c. 890); edad: la discreción, salvo otra determinación de la Conferencia Episcopal (c. 891). Padrino según el c. 874, conveniente el mismo del bautismo (cc. 892–893); registro en libro de confirmaciones (cc. 894–896).
+
+#### TÍTULO III — De la santísima Eucaristía (cc. 897–958)
+
+Sacramento más augusto, contiene, ofrece y recibe a Cristo; el Sacrificio eucarístico, memorial de la muerte y resurrección del Señor, perpetúa el Sacrificio de la cruz y es culmen y fuente de todo el culto y la vida cristiana, a él se ordenan los demás sacramentos (c. 897); máxima veneración (c. 898). **Celebración:** acción de Cristo y de la Iglesia, presente substancialmente bajo las especies del pan y del vino (c. 899). *Ministro:* sólo el sacerdote válidamente ordenado confecciona el sacramento actuando en la persona de Cristo (c. 900); aplicación por vivos y difuntos (c. 901); concelebración (c. 902) y carta comendaticia (c. 903); celebración diaria recomendada (c. 904); una sola Misa al día, dos o tres por escasez de sacerdotes o necesidad pastoral (c. 905); no sin algún fiel sin causa justa (c. 906); diáconos y laicos no dicen la plegaria eucarística (c. 907); prohibida concelebración con ministros no católicos (c. 908); ministros ordinarios de la comunión: obispo, presbítero y diácono; extraordinario: acólito u otro fiel designado (c. 910); Viático a los enfermos (c. 911). *Participación:* todo bautizado no impedido puede y debe ser admitido (c. 912); niños con conocimiento y preparación suficientes (cc. 913–914); excluidos excomulgados y persistentes en pecado grave manifiesto (c. 915); pecado grave exige confesión previa salvo motivo grave con contrición perfecta (c. 916); segunda comunión el mismo día sólo dentro de la Misa (cc. 917–918); ayuno eucarístico de una hora, con excepciones para ancianos y enfermos (c. 919); precepto anual pascual (c. 920); Viático en peligro de muerte, aun recomulgando ese día (cc. 921–922); cualquier rito católico (c. 923). *Ritos:* pan de trigo ázimo hecho recientemente y vino natural de vid con un poco de agua (cc. 924, 926); especies según leyes litúrgicas (c. 925); prohibido consagrar una materia sin la otra o fuera de la celebración (c. 927); latina u otra lengua aprobada (c. 928); ornamentos sagrados (c. 929). *Tiempo y lugar:* todos los días a cualquier hora (c. 931); lugar sagrado y altar dedicado o bendecido (c. 932). **Reserva y veneración:** catedrales, parroquias y casas religiosas; iglesia abierta para la oración; único sagrario noble, inamovible y seguro; lámpara especial encendida; exposición con copón o custodia nunca durante la Misa; bendición por sacerdote o diácono; procesiones sobre todo en la solemnidad del Cuerpo y Sangre de Cristo (cc. 934–944). **Estipendio de Misa:** posible ofrenda para aplicar la Misa por intención, sin apariencia de negociación o comercio; una Misa distinta por cada intención; ofrenda fijada por decreto provincial o costumbre; cargas satisfacibles en un año; transmisión íntegra y libros anotados bajo vigilancia del Ordinario (cc. 945–958).
+
+#### TÍTULO IV — De la penitencia (cc. 959–997)
+
+Confesados los pecados a ministro legítimo, arrepentidos y con propósito de enmienda, se obtiene el perdón mediante la absolución y la reconciliación con la Iglesia herida (c. 959). La confesión individual e íntegra es el único modo ordinario (c. 960); absolución general sólo en peligro de muerte sin tiempo o necesidad grave de confesores, juzgada por el Obispo diocesano, con deber posterior de confesión individual (cc. 961–963); confesonarios con rejilla accesible (c. 964). **Ministro:** sólo el sacerdote, con potestad de orden más facultad de ejercerla (cc. 965–966); ipso iure Cardenales y Obispos (c. 967); por oficio Ordinario, penitenciario y párroco (c. 968); concedida por el Ordinario tras examen (cc. 969–970), habitualmente por escrito, revocable sólo por causa grave (cc. 973–974); todo sacerdote absuelve válida y lícitamente en peligro de muerte (c. 976); inválida la absolución del cómplice en pecado contra el sexto mandamiento (c. 977); el confesor hace las veces de juez y médico, ministro de justicia y misericordia divina (c. 978); prudencia al interrogar (c. 979); no negar la absolución al bien dispuesto (c. 980); imponer satisfacción saludable (c. 981); sigilo sacramental inviolable por ningún motivo, obligando también a intérpretes y conocedores (cc. 983–984); prohibición de oír a propios alumnos y dirigidos salvo petición espontánea (c. 985); deber de dar ocasión de confesión (c. 986). **Penitente:** conversión con propósito de enmienda (c. 987); obligación de confesar según especie y número los pecados graves (c. 988), al menos una vez al año desde el uso de razón (c. 989); libertad de elegir confesor aprobado incluso de otro rito (cc. 990–991). **Indulgencias:** remisión ante Dios de la pena temporal de pecados ya perdonados en cuanto a la culpa, por mediación de la Iglesia, administradora del tesoro de las satisfacciones de Cristo y de los Santos; parcial o plenaria; aplicables por los difuntos a manera de sufragio; potestad de la autoridad suprema; requieren bautismo, estado de gracia, intención general y obras prescritas (cc. 992–997).
+
+#### TÍTULO V — De la unción de los enfermos (cc. 998–1007)
+
+La Iglesia encomienda los fieles gravemente enfermos al Señor doliente y glorificado, ungiéndolos con óleo y las palabras prescritas (c. 998); óleo bendecido por Obispo o, en necesidad, presbítero dentro de la celebración (c. 999); unciones cuidadosas, bastando en necesidad una sola con la fórmula completa; reconforto oportuno y posible celebración común (cc. 1000–1002). Ministro: todo sacerdote y sólo él (c. 1003). Receptor: el fiel con uso de razón que comienza a estar en peligro por enfermedad o vejez; reiterable si agrava el peligro; adminístrese ante la duda; a quienes lo pidieron implícitamente; no a persistentes obstinadamente en pecado grave manifiesto (cc. 1004–1007).
+
+#### TÍTULO VI — Del orden (cc. 1008–1054)
+
+Por institución divina constituye ministros sagrados marcados con carácter indeleble, consagrados a enseñar, santificar y regir en la persona de Cristo Cabeza (c. 1008); grados: episcopado, presbiterado y diaconado, por imposición de manos y oración consecratoria (c. 1009). **Celebración y ministro:** Misa solemne dominical o festiva, generalmente en la catedral (cc. 1010–1011); ministro el Obispo consagrado (c. 1012); ordenación episcopal siempre con mandato pontificio previo y dos co-consagrantes al menos (cc. 1013–1014); dimisorias del Obispo propio o Superiores mayores competentes, con verificación de autenticidad (cc. 1015–1023). **Ordenandos:** sólo el varón bautizado recibe válidamente la ordenación (c. 1024); libertad exigida, prohibida toda coacción (c. 1026); cualidades: fe íntegra, recta intención, ciencia debida, buena fama, virtudes probadas y aptitudes físicas y psíquicas congruentes, a juicio del Obispo propio o Superior mayor (c. 1029); edades: presbiterado a los 25 años, diaconado a los 23; diácono permanente casado a los 35 con consentimiento de la mujer; intersticios de seis meses (cc. 1031–1032). Requisitos previos: confirmación (c. 1033), admisión como candidato por escrito (c. 1034), ministerios de lector y acólito (c. 1035), declaración de recepción libre y dedicación perpetua (c. 1036), asunción pública del celibato antes del diaconado (c. 1037), ejercicios espirituales de cinco días (c. 1039). *Irregularidades e impedimentos:* el impedimento perpetuo se llama irregularidad (c. 1040); irregulares: amencia u enfermedad psíquica incapacitante; apostasía, herejía o cisma; atentado de matrimonio; homicidio voluntario o aborto procurado y cooperadores; mutilación dolosa o suicidio intentado; acto ilícito reservado al orden (c. 1041); impedidos simplemente: varón casado salvo diaconado permanente, cargos prohibidos a clérigos, neófito (c. 1042); dispensas muchas reservadas a la Sede Apostólica (cc. 1047–1048). Documentos y escrutinio sobre doctrina recta, piedad sincera, buenas costumbres y aptitud ministerial (cc. 1050–1052); inscripción en libro especial y certificado auténtico (cc. 1053–1054).
+
+#### TÍTULO VII — Del matrimonio (cc. 1055–1165)
+
+La alianza matrimonial, consorcio de toda la vida ordenado por su índole natural al bien de los cónyuges y a la generación y educación de la prole, fue elevada por Cristo a sacramento entre bautizados; entre éstos no hay contrato válido que no sea sacramento (c. 1055). Propiedades esenciales: unidad e indisolubilidad (c. 1056); lo produce el consentimiento legítimamente manifestado que ningún poder humano puede suplir: entrega y aceptación mutuas en alianza irrevocable (c. 1057); favor del derecho ante la duda (c. 1060); rato, rato y consumado, putativo (c. 1061); esponsales según derecho particular (c. 1062). **Preparación pastoral:** predicación, preparación personal, celebración litúrgica fructuosa y ayuda posterior (c. 1063); confirmación recomendada antes de contraer y acercamiento a penitencia y Eucaristía (c. 1065); investigación previa y proclamas matrimoniales (cc. 1066–1067); deber de denunciar impedimentos conocidos (c. 1069); licencias especiales para ciertos matrimonios (vagos, abandonadores notorios de la fe, censurados, menores opuestos por padres) (c. 1071). **Impedimentos dirimentes:** inhabilitan para contraer válidamente (c. 1073); sólo la autoridad suprema declara los divinos y establece otros (c. 1075); dispensables por el Ordinario los eclesiásticos, salvo órdenes sagradas, voto público perpetuo de castidad y crimen; jamás la consanguinidad en línea recta o segundo grado colateral (c. 1078); potestades amplias en peligro de muerte (cc. 1079–1080). En particular: edad mínima 16 varón y 14 mujer (c. 1083); impotencia antecedente y perpetua nulifica, no así la esterilidad (c. 1084); ligamen anterior (c. 1085); disparidad de cultos (c. 1086); órdenes sagradas (c. 1087); voto público perpetuo de castidad (c. 1088); rapto (c. 1089); crimen (c. 1090); consanguinidad hasta cuarto grado colateral (c. 1091); afinidad en línea recta (c. 1092); pública honestidad (c. 1093); parentesco legal por adopción (c. 1094). **Consentimiento:** incapaces quienes carecen de uso de razón, de discreción de juicio o no pueden asumir las obligaciones esenciales por causas de naturaleza psíquica (c. 1095); invalidan error sobre la persona, dolo perturbador grave y exclusión positiva simulada del matrimonio o de un elemento o propiedad esencial; el error sobre unidad, indisolubilidad o dignidad sacramental no vicia si no determina la voluntad; la condición de futuro invalida; violencia o miedo grave externo invalidan (cc. 1097–1103); presencia conjunta con palabras o signos equivalentes (c. 1104); posible por procurador con mandato especial (c. 1105).
+
+**Forma canónica:** sólo son válidos los contraídos ante Ordinario o párroco, o sacerdote o diácono delegado, y ante dos testigos (c. 1108); posible delegación a laicos donde no haya ministros con permisos especiales (c. 1112); lugar: parroquia del domicilio o residencia mensual de un contrayente (cc. 1115–1118); ante solos testigos en peligro de muerte o imposibilidad previsible por un mes (c. 1116); obligatoria para el bautizado católico no apartado formalmente (c. 1117); registro matrimonial y anotación en bautismos (cc. 1121–1123). **Matrimonios mixtos:** prohibidos sin licencia expresa entre católico y bautizado no católico (c. 1124); condiciones: promesa de la parte católica de bautizar y educar católicamente toda la prole, información a la otra parte e instrucción sobre fines y propiedades esenciales inexcluibles (c. 1125); forma canónica, dispensable ante graves dificultades conservando alguna forma pública; prohibida la doble ceremonia religiosa (cc. 1127–1129). **En secreto** por causa grave y urgente, con registro en archivo secreto (cc. 1130–1133). **Efectos:** vínculo perpetuo y exclusivo; cónyuges fortalecidos y como consagrados por un sacramento peculiar; igualdad en el consorcio de vida; obligación gravísima y derecho primario de los padres sobre la educación de la prole; hijos legítimos del matrimonio válido o putativo (cc. 1134–1140). **Separación:** el rato y consumado es indisoluble por ningún poder humano fuera de la muerte (c. 1141); el no consumado puede disolverlo el Romano Pontífice (c. 1142); privilegio paulino en favor de la fe de la parte bautizada, con interpelación a la parte no bautizada (cc. 1143–1150); separación permaneciendo el vínculo: derecho del inocente ante el adulterio no condonado y motivos legítimos de peligro grave o vida demasiado dura, con autorización del Ordinario; cuidado del sustento y educación de los hijos (cc. 1151–1155). **Convalidación:** simple, cesando o dispensándose el impedimento y renovando el consentimiento como nuevo acto de voluntad; defecto de forma exige nueva forma canónica (cc. 1156–1160); sanación en la raíz: convalidación sin renovación del consentimiento, con dispensas incluidas y retrotracción al pasado de los efectos canónicos, imposible si falta el consentimiento; concedida por la Sede Apostólica o el Obispo diocesano (cc. 1161–1165).
+
+### PARTE II — DE LOS DEMÁS ACTOS DEL CULTO DIVINO (cann. 1166–1204)
+
+**Sacramentales (cc. 1166–1172):** signos sagrados que, a imitación de los sacramentos, significan y obtienen por intercesión de la Iglesia efectos principalmente espirituales (c. 1166); sólo la Sede Apostólica los establece o modifica (c. 1167); ministro el clérigo con potestad, algunos por laicos idóneos (c. 1168); consagraciones y dedicaciones episcopales; bendiciones de cualquier presbítero salvo reservadas; exorcismos sobre posesos sólo con licencia peculiar y expresa del Ordinario a presbítero piadoso, docto, prudente y de vida íntegra (cc. 1169–1172). **Liturgia de las horas (cc. 1173–1175):** ejercicio de la función sacerdotal de Cristo, alabanza sin cesar e intercesión por la salvación del mundo (c. 1173); obliga a clérigos y miembros de institutos de vida consagrada conforme a sus constituciones; invitados los demás fieles (c. 1174); observar el curso natural de cada hora (c. 1175). **Exequias eclesiásticas (cc. 1176–1185):** ayuda espiritual al difunto, honor a su cuerpo y consuelo de esperanza a los vivos (c. 1176); sepultura recomendada, cremación no prohibida salvo razones contrarias a la doctrina cristiana (c. 1176 §3); celebración en la propia parroquia y enterramiento en cementerio propio o elegido (cc. 1177–1180); negadas, sin señal de arrepentimiento, a notorios apóstatas, herejes o cismáticos, cremación contraria a la fe y pecadores manifiestos escandalosos; igualmente se niega la Misa exequial (cc. 1183–1185); catecúmenos equiparados a fieles (c. 1183). **Culto de los Santos, imágenes y reliquias (cc. 1186–1190):** veneración filial a la Bienaventurada Virgen María Madre de Dios y culto verdadero y auténtico de los Santos (c. 1186); sólo culto público a Santos y Beatos del catálogo (c. 1187); imágenes moderadas y debidamente ordenadas; restauraciones con licencia escrita del Ordinario (cc. 1188–1189); prohibida la venta de reliquias y su traslado sin licencia pontificia (c. 1190). **Voto y juramento (cc. 1191–1204):** voto, promesa deliberada y libre hecha a Dios de un bien posible y mejor, cumplida por virtud de la religión, nulo por miedo grave injusto o dolo; público o privado, solemne o simple, personal, real o mixto; cesa por plazo, cambio sustancial, condición fallida, dispensa o conmutación (cc. 1191–1198); juramento, invocación del Nombre de Dios como testigo de la verdad, sólo con verdad, sensatez y justicia, nulo por dolo, violencia o miedo grave; interpretación estricta (cc. 1199–1204).
+
+### PARTE III — DE LOS TIEMPOS Y LUGARES SAGRADOS (cann. 1205–1253)
+
+**Lugares sagrados (cc. 1205–1243):** destinados al culto divino o a la sepultura mediante dedicación o bendición (c. 1205); dedica el Obispo diocesano, bendice el Ordinario reservadas las iglesias al Obispo (cc. 1206–1207); acta archivada en curia e iglesia (c. 1208); sólo lo que favorece culto, piedad y religión; la injuria grave impide el culto hasta su reparación por rito penitencial; pierden su condición si destruidos o reducidos a usos profanos (cc. 1210–1212). *Iglesias:* edificio sagrado destinado al culto con derecho de entrada de los fieles (c. 1214); edificación con consentimiento escrito del Obispo, oído el consejo presbiteral (c. 1215); normas de liturgia y arte sagrado; dedicación cuanto antes, solemne en catedrales y parroquiales; título inmutable; entrada libre durante las celebraciones; reducción posible a uso profano no sórdido (cc. 1216–1222). *Oratorios y capillas privadas:* con licencia del Ordinario, para comunidad o grupo (oratorio) o personas físicas (capilla privada) (cc. 1223–1229). *Santuarios:* lugares de peregrinación numerosa por peculiar motivo de piedad; calificaciones nacional e internacional; estatutos jerarquizados; medios de salvación abundantes: palabra de Dios, Eucaristía y penitencia, piedad popular y exvotos conservados (cc. 1230–1234). *Altares:* fijo y móvil; mesa tradicionalmente de un solo bloque de piedra natural; reliquias de Mártires bajo el altar fijo; reservado absolutamente al culto, ningún cadáver bajo él (cc. 1235–1239). *Cementerios:* propios o espacio bendecido en cementerios civiles; no cadáveres en iglesias salvo Romano Pontífice, Cardenales u Obispos diocesanos (cc. 1240–1243). **Tiempos sagrados (cc. 1244–1253):** la autoridad suprema establece fiestas y días de penitencia; dispensa parroquial en casos particulares (cc. 1244–1245). El domingo, fiesta primordial de precepto donde se celebra el misterio pascual, más Navidad, Epifanía, Ascensión, Santísimo Cuerpo y Sangre de Cristo, Santa María Madre de Dios, Inmaculada Concepción y Asunción, San José, Santos Apóstoles Pedro y Pablo y Todos los Santos; las Conferencias pueden suprimir o trasladar algunas a domingo (c. 1246); obligación de Misa y descanso dominical, cumplible la víspera por la tarde (cc. 1247–1248). Días penitenciales: todos los viernes del año y la cuaresma; abstinencia de carne los viernes, ayuno y abstinencia el miércoles de Ceniza y Viernes Santo; abstinencia desde los catorce años, ayuno hasta los cincuenta y nueve; las Conferencias determinan modos y sustituciones por obras de caridad y piedad (cc. 1249–1253).
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
@@ -98,82 +129,3 @@ Instrucciones para el agente:
 | 1745 | H4 | TÍTULO II |
 | 1754 | H5 | CAPÍTULO I |
 | 1769 | H5 | CAPÍTULO II |
-
-
-## Secciones incluidas
-
-# LIBRO IV
-
-[Contenido de esta sección...]
-
-## LA FUNCIÓN DE SANTIFICAR DE LA IGLESIA (Cann. 849 – 1253)
-
-[Contenido de esta sección...]
-
-## PARTE I
-
-[Contenido de esta sección...]
-
-### TÍTULO I
-
-[Contenido de esta sección...]
-
-### TÍTULO II
-
-[Contenido de esta sección...]
-
-### TÍTULO III
-
-[Contenido de esta sección...]
-
-### TÍTULO IV
-
-[Contenido de esta sección...]
-
-### TÍTULO V
-
-[Contenido de esta sección...]
-
-### TÍTULO VI
-
-[Contenido de esta sección...]
-
-### TÍTULO VII
-
-[Contenido de esta sección...]
-
-## PARTE II
-
-[Contenido de esta sección...]
-
-### TÍTULO I
-
-[Contenido de esta sección...]
-
-### TÍTULO II
-
-[Contenido de esta sección...]
-
-### TÍTULO III
-
-[Contenido de esta sección...]
-
-### TÍTULO IV
-
-[Contenido de esta sección...]
-
-### TÍTULO V
-
-[Contenido de esta sección...]
-
-## PARTE III
-
-[Contenido de esta sección...]
-
-### TÍTULO I
-
-[Contenido de esta sección...]
-
-### TÍTULO II
-
-[Contenido de esta sección...]

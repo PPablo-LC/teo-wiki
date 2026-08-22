@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Dignidad humana
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-06-20
+timestamp: 2026-08-22
 description: "La dignidad humana es el valor intrínseco e inalienable de la persona humana por el hecho de haber sido creada a imagen y semejanza de Dios."
 ---
 # Dignidad humana
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-06-20
+> Última actualización: 2026-08-22
 
 ## Definición
 
@@ -124,6 +124,10 @@ JPII desarrolla la relación entre la Encarnación y la dignidad humana en las c
 - [[fr_michael_luxbacher_life_in_abundance]]
 - [[jeff_lacour_true_freedom_through_prayer]]
 
+### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
+
+Bobby Angel cita a Viktor Frankl (*Man's Search for Meaning*) al tratar la comedia frente al problema del mal: «El hombre inventó las cámaras de gas de Auschwitz; pero también es ese ser que entró en ellas erguido, con el Padrenuestro o el Shemá Israel en los labios». La dignidad humana permanece incluso en el abismo del mal: libertad y sentido sobreviven al sufrimiento extremo, y con ellas el humor como una de las formas de esa última libertad interior.
+
 ## Ver también
 [[hombre]], [[persona_humana]], [[gracia_santificante]], [[libertad_humana]], [[conciencia_moral]], [[ley_natural]], [[creación]]
 
@@ -138,4 +142,5 @@ JPII desarrolla la relación entre la Encarnación y la dignidad humana en las c
 - CEC §27; §356-358; §362-368; §1700-1715; §1730; §2278-2279; §2479
 - TPCr, Tercera Parte, Libro I, Cap. IV (La lucha contra la carne)
 - Concilio Vaticano II, Gaudium et Spes 12-22
+- [EAC-8, Issue 8 «Humor», archivo 15]
 - [RH §8, §10, §13-17]

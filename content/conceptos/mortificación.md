@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Mortificación
 tags: ["ascética"]
 
-timestamp: 2026-08-06
+timestamp: 2026-08-22
 description: "La mortificación es el ejercicio deliberado de renuncia y dolor voluntario por el que el alma doma las pasiones desordenadas."
 ---
 # Mortificación
 
 > Área: Ascética
-> Última actualización: 2026-08-06
+> Última actualización: 2026-08-22
 
 ## Definición
 
@@ -73,6 +73,9 @@ La abnegación o mortificación cristiana tiene como objetivo principal la ident
 
 Se relaciona con la [[abnegación]], el [[desprendimiento]], la [[purificación_activa]] y las [[purificaciones_pasivas]]. Es instrumento de la [[vía_purgativa]] y preparación para la [[contemplación_infusa]].
 
+### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
+
+San Felipe Neri equilibra ascesis y gozo: 18 años de pobreza radical en Roma, mortificaciones corporales severas, amante de la Summa Theologiae; pero su ascetismo se alivia con «una contagiosa ligereza de corazón». Sus penitencias casi ridículas (llegar con media barba rapada a una fiesta en su honor, leer libros frívolos durante las comidas para bajarlo a tierra) tenían por meta «producir humildad y mantener la sencillez». La mortificación cristiana no excluye el humor: lo perfecciona.
 
 ## Analizado para
 
@@ -88,6 +91,7 @@ Se relaciona con la [[abnegación]], el [[desprendimiento]], la [[purificación_
 ## Referencias
 
 - TPCr, Tercera Parte, Libro I, Cap. IV, n.225-252
+- [EAC-8, Issue 8 «Humor», archivo 05]
 - TPCr, Tercera Parte, Libro I, Cap. V, n.261-262
 - CEC §2015
 - ColCas-II, Conferencias XVIII, XXIV

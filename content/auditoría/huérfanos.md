@@ -2,12 +2,12 @@
 type: Concepto Teológico
 title: Auditoría de wikilinks huérfanos
 timestamp: 2026-08-06
-description: "Registro de wikilinks sin artículo propio en el wiki. 2026-08-16: los resúmenes 16-31 de Formación religiosa de jóvenes (Tihamer Toth) introducen 10 huérfanos nuevos (ver sección «Sembrados por los resúmenes de Formación religiosa de jóvenes -- Tihamer Toth»)."
+description: "Registro de wikilinks sin artículo propio en el wiki. 2026-08-22: el procesamiento de Evangelization & Culture n.º 8 «Humor» (EAC-8) siembra 6 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 8 «Humor»»)."
 ---
 # Auditoría de wikilinks huérfanos
 
 > Generado originalmente: 2026-06-19
-> Última actualización: **2026-08-16 — Resúmenes 16-31 de Formación religiosa de jóvenes -- Tihamer Toth (FRD). 10 huérfanos nuevos sembrados (ver sección «Sembrados por los resúmenes de Formación religiosa de jóvenes -- Tihamer Toth»): `[[alegría_espiritual]]`, `[[confesión_frecuente]]`, `[[contracepción]]`, `[[defecto_dominante]]`, `[[escrúpulos]]`, `[[gracia_sanativa]]`, `[[maría]]`, `[[moral_católica]]`, `[[reato_de_pena_temporal]]`, `[[santidad_de_vida]]`. Aumentan su conteo los ya registrados `[[historia_de_la_iglesia]]` (3→5), `[[imitación_de_cristo]]` (2→4) y `[[padres]]` (1→2).**
+> Última actualización: **2026-08-22 — Procesamiento de Evangelization & Culture n.º 8 «Humor» (EAC-8). 6 huérfanos nuevos sembrados (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 8 «Humor»»): `[[ocio]]`, `[[amor_sacrificial]]`, `[[cultura_de_la_cancelación]]`, `[[imaginación_creativa]]`, `[[literatura_moderna]]`, `[[mártires]]`. Aumenta su conteo `[[problema_del_mal]]` (4→5). 2026-08-16 — Resúmenes 16-31 de Formación religiosa de jóvenes -- Tihamer Toth (FRD). 10 huérfanos nuevos sembrados (ver sección «Sembrados por los resúmenes de Formación religiosa de jóvenes -- Tihamer Toth»): `[[alegría_espiritual]]`, `[[confesión_frecuente]]`, `[[contracepción]]`, `[[defecto_dominante]]`, `[[escrúpulos]]`, `[[gracia_sanativa]]`, `[[maría]]`, `[[moral_católica]]`, `[[reato_de_pena_temporal]]`, `[[santidad_de_vida]]`. Aumentan su conteo los ya registrados `[[historia_de_la_iglesia]]` (3→5), `[[imitación_de_cristo]]` (2→4) y `[[padres]]` (1→2).**
 > Total de wikilinks huérfanos registrados: **1563** (pendientes de artículo; detector 2026-08-14, excluido el falso positivo `[[concepto]]`;WoF-3 introduce 9 huérfanos nuevos: `[[blas_pascal]]`, `[[nietzsche]]`, `[[nones]]`, `[[periferias]]`, `[[micro_moralidad]]`, `[[macro_moralidad]]`, `[[evangelización_digital]]` (ya creado), `[[videojuegos]]` (ya creado), `[[aristóteles]]` (ya creado); 7 artículos nuevos creados: san_isidoro_de_sevilla, fulton_sheen, george_orwell, robert_barron, evangelización_digital, videojuegos, aristóteles; 2026-08-13: CBL introduce 3 huérfanos nuevos; 2026-08-14: 1 resuelto por renombrado de preexistencia_de_cristo → preexistencia_del_verbo; 2026-08-14: CEC Lote 1 introduce 2 huérfanos nuevos; 2026-08-14: CEC Lote 2 introduce 21 huérfanos nuevos; 2026-08-14: CEC Lote 3 introduce 16 huérfanos nuevos; 2026-08-14: se retira `[[templo_de_jerusalen]]` del registro del Lote 2 por no ser huérfano — existe `wiki/conceptos/templo_de_Jerusalén.md`)
 > Resueltos: 35+29+11+14+19+6+1 (6 en 2026-07-15/16 — ver sección final; 26 por re-auditoría 2026-08-01; 3 por BMV 2026-08-03; 29 por alta densidad 2026-08-03; 11 por alta densidad 2ª tanda 2026-08-03; 14 por alta densidad 3ª tanda 2026-08-03, neto −11; 19 por alta densidad 4ª tanda 2026-08-04; 6 por limpieza de paréntesis 2026-08-04, neto −5 por el re-sembrado de `[[respuesta_divina]]`; 1 por normalización de nombres con paréntesis 2026-08-08)
 
@@ -2307,3 +2307,31 @@ principal se actualizarán en la re-auditoría integral):
 | `[[historia_de_la_iglesia]]` | 3 | 5 | Nuevo en resumen 16 |
 | `[[imitación_de_cristo]]` | 2 | 4 | Nuevo en resumen 19 (ya en AvEsp §5.2, §8.35) |
 | `[[padres]]` | 1 | 2 | Nuevo en resumen 29 |
+
+## Sembrados por el procesamiento de Evangelization & Culture n.º 8 «Humor» (2026-08-22)
+
+Al procesar la fuente EAC-8 (24 archivos) se sembraron intencionalmente los
+siguientes wikilinks sin artículo (forward references). Su contenido está
+tratado en `wiki/documentos/evangelization_and_culture_issue_8_humor.md`,
+en los artículos nuevos ([[humor]], [[sátira]], [[humor_negro]],
+[[criaturidad]]) y en las personas creadas:
+
+| Wikilink | Referencias | Ubicación |
+|----------|-------------|-----------|
+| `[[ocio]]` | 1 | oscar_wilde (leisure como base de la cultura; Pieper) |
+| `[[amor_sacrificial]]` | 1 | oscar_wilde (El príncipe feliz) |
+| `[[cultura_de_la_cancelación]]` | 1 | evangelization_and_culture_issue_8_humor |
+| `[[imaginación_creativa]]` | 1 | j_r_r_tolkien (Ordway) |
+| `[[literatura_moderna]]` | 1 | j_r_r_tolkien |
+| `[[mártires]]` | 1 | alfred_delp (testigos hasta el martirio) |
+
+Huérfano ya registrado que aumenta su conteo:
+
+| Wikilink | Conteo previo | Conteo actual | Nota |
+|----------|---------------|---------------|------|
+| `[[problema_del_mal]]` | 4 | 5 | Nuevo en viktor_frankl (EAC-8, archivo 15) |
+
+Correcciones aplicadas durante la auditoría (evitaron huérfanos falsos):
+`[[gloria_de_Dios]]` → `[[gloria_de_dios]]` (providencia_divina) y
+`[[doctrina_social]]` → `[[doctrina_social_de_la_iglesia]]`
+(evangelization_and_culture).

@@ -2,7 +2,7 @@
 type: Concepto Teológico
 title: Ortodoxia afirmativa
 description: "Enfoque evangelizador que presenta las enseñanzas católicas de forma positiva, propositiva y atractiva, sin caer en el apologismo defensivo."
-timestamp: 2026-08-20
+timestamp: 2026-08-22
 tags:
   - evangelización
   - apologetica
@@ -13,7 +13,7 @@ tags:
 # Ortodoxia afirmativa
 
 > Área: Teología pastoral / Evangelización
-> Última actualización: 2026-08-20
+> Última actualización: 2026-08-22
 
 ## Definición
 
@@ -46,6 +46,10 @@ En su lugar, la ortodoxia afirmativa presenta la fe como lo que es: una respuest
 
 - **Lumen Gentium 11:** La Eucaristía como «fuente y cumbre de la vida cristiana» fundamenta la positividad de la fe: no es un peso sino un alimento.
 
+### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
+
+Barron conecta la ortodoxia afirmativa con la alegría: compartir alegremente el gran «sí» de Dios a la humanidad en Cristo, fundado en Jn 15,11 («para que mi alegría esté en vosotros») y Flp 4,4 («Alegraos siempre en el Señor»). «La señal segura de que Dios vive en ti es la alegría». La risa del creyente es manifestación de esa ortodoxia afirmativa frente al catolicismo beige quejumbroso y a la solemnidad defensiva: quien posee el gran «sí» puede permitirse reírse de sí mismo.
+
 ## Distinciones importantes
 
 - **Ortodoxia afirmativa vs. ortodoxia triunfalista:** No se trata de proclamar la victoria de la Iglesia sobre el mundo, sino de presentar la belleza de la verdad con humildad y gozo.
@@ -74,6 +78,7 @@ En su lugar, la ortodoxia afirmativa presenta la fe como lo que es: una respuest
 ## Referencias
 
 - Cush, John P. "Theology as an Eight-Part Symphony: The Theological Worldview of Bishop Robert Barron." *Evangelization & Culture*, No. 7, Spring 2021.
+- [EAC-8, Issue 8 «Humor», archivo 02]
 - Allen, John L., Jr. *A People of Hope: Archbishop Timothy Dolan in Conversation*. Image Books, 2012.
 - Barron, Robert E. *To Light a Fire on the Earth: Proclaiming the Gospel in a Secular Age*. Image Books, 2017.
 - Papa Francisco. *Evangelii Gaudium* (2013).

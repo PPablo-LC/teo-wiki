@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Nueva evangelización
 tags: ["doctrina_social", "eclesiología"]
 
-timestamp: 2026-06-14
+timestamp: 2026-08-22
 description: "La nueva evangelización es el renovado impulso misionero de la Iglesia para anunciar el Evangelio en un mundo marcado por la secularización."
 ---
 # Nueva evangelización
 
 > Área: Doctrina Social / Eclesiología
-> Última actualización: 2026-06-14
+> Última actualización: 2026-08-22
 
 ## Definición
 
@@ -71,6 +71,9 @@ Juan Pablo II expresa la urgencia de la evangelización ante el año 2000. Recor
 
 Se relaciona con [[evangelización]], [[doctrina_social_de_la_iglesia]], [[misión_de_la_iglesia]], [[reino_de_dios]], [[concilio_vaticano_ii]]
 
+### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
+
+Joseph Gloor y Doug Cummins narran la construcción del nuevo estudio de Word on Fire (antiguo salón de fiestas de una Misión histórica, transformado en 30 días) como instrumento de la Nueva Evangelización: «alcanzar el estándar de la industria y elevarlo espiritual, intelectual y creativamente», con enfoque ad-extra hacia los no practicantes. Crítica del «Christianese»: el lenguaje artístico cristiano autorreferencial (voces suavizadas, agua/desierto como tópicos) debe superarse mirando más allá del propio carril. Los medios digitales como frontera misionera: «las redes sociales toman los atributos que les demos… alguien tiene que predicar el Evangelio ahí».
 
 ## Analizado para
 
@@ -88,3 +91,4 @@ Se relaciona con [[evangelización]], [[doctrina_social_de_la_iglesia]], [[misi�
 
 - [CompDS §62-65]
 - [Juan Pablo II, Centesimus Annus]
+- [EAC-8, Issue 8 «Humor», archivo 19]

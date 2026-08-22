@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Eutrapelia
 tags: ["moral"]
 
-timestamp: 2026-06-11
+timestamp: 2026-08-22
 description: "La eutrapelia es una virtud derivada de la [[virtud_de_la_templanza]], perteneciente a la modestia exterior, que tiene por objeto regular según el recto orden de la razón los juegos y diversiones."
 ---
 # Eutrapelia
 
 > Área: Moral
-> Última actualización: 2026-06-11
+> Última actualización: 2026-08-22
 
 ## Definición
 
@@ -52,11 +52,14 @@ Royo Marín desarrolla la eutrapelia siguiendo a Santo Tomás (n.472). La define
 
 [TPCr, Tercera Parte, Libro II, Cap. 2 (n.472)]
 
-## Distinciones importantes
+### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
 
-- **Eutrapelia vs. necia alegría**: la primera ordena la diversión al bien; la segunda se entrega a diversiones ilícitas.
-- **Eutrapelia vs. austeridad excesiva**: la primera reconoce la necesidad del descanso; la segunda lo rechaza rígidamente.
-- **Recreo necesario vs. diversión pecaminosa**: el primero es un medio para reponer fuerzas; la segunda es un fin en sí mismo que aparta de Dios.
+Jennifer Frey (*Stacks*) recupera la genealogía aristotélico-tomista del ingenio para leer el humor literario:
+
+- **Aristóteles** (*Ética a Nicómaco*): el ingenio es virtud, término medio entre la bufonadería vulgar y la torpeza hosca; forma parte del ocio lúdico necesario para la vida feliz.
+- **Santo Tomás**: la eutrapelia regula «palabras u obras en las que no se busca otra cosa que el deleite del alma» (SmTh II-II q.168 a.2).
+- **Aplicación al ingenio significativo de [[oscar_wilde]]:** los epigramas y comedias de Wilde —crítica a la respetabilidad victoriana y al utilitarismo— ilustran cómo el ingenio puede ser exploración artística de la verdad sin caer en bufonadería; su conversión final sella esa lectura.
+- **Puente con el concepto moderno:** la eutrapelia es el fundamento virtuoso sobre el que la teología contemporánea del [[humor]] construye: risa como criaturidad, humildad y vía de evangelización.
 
 ## Distinciones importantes
 
@@ -64,6 +67,7 @@ Royo Marín desarrolla la eutrapelia siguiendo a Santo Tomás (n.472). La define
 - **Eutrapelia vs. austeridad excesiva**: la primera reconoce la necesidad del descanso; la segunda lo rechaza rígidamente.
 - **Recreo necesario vs. diversión pecaminosa**: el primero es un medio para reponer fuerzas; la segunda es un fin en sí mismo que aparta de Dios.
 - **Virtud en movimientos serios (modestia corporal) vs. eutrapelia**: una ordena los movimientos en lo serio; la otra en el juego.
+- **Eutrapelia vs. humor (concepto amplio):** la eutrapelia es la virtud moral que regula la dimensión lúdica; el [[humor]] designa la capacidad humana que dicha virtud perfecciona y ordena.
 
 ## Relaciones doctrinales
 
@@ -71,9 +75,10 @@ La eutrapelia es parte de la [[virtud_de_la_templanza]] a través de la [[modest
 
 ## Ver también
 
-[[virtud_de_la_templanza]], [[modestia]], [[descanso]], [[alegría]], [[virtud_de_la_religión]], [[ornato]]
+[[virtud_de_la_templanza]], [[modestia]], [[descanso]], [[alegría]], [[virtud_de_la_religión]], [[ornato]], [[humor]], [[oscar_wilde]]
 
 ## Referencias
 
 - [TPCr, Tercera Parte, Libro II, Cap. 2 (n.472)]
 - [SmTh II-II, q.168 a.1-4]
+- [EAC-8, Issue 8 «Humor», archivo 06]

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Soberbia
 tags: ["moral"]
 
-timestamp: 2026-06-11
+timestamp: 2026-08-22
 description: "La soberbia es el apetito desordenado de la propia excelencia."
 ---
 # Soberbia
 
 > Área: Moral
-> Última actualización: 2026-06-11
+> Última actualización: 2026-08-22
 
 ## Definición
 
@@ -78,6 +78,16 @@ La soberbia se opone al don de temor de una manera más profunda y radical que a
 
 San Juan de la Cruz describe extensamente la soberbia de los principiantes, que disfrazan sus imperfecciones y no quieren ser conocidos en sus faltas. La humildad profunda y sincera es «la señal más clara e inconfundible del espíritu de Dios».
 
+### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
+
+El número dedicado al humor diagnostica la soberbia desde su síntoma más visible: la incapacidad de reír, especialmente de uno mismo.
+
+- **Tomarse demasiado en serio como corazón del pecado:** «Se ha sugerido que el corazón del pecado es tomarse uno mismo demasiado en serio; quizá por esto Dios eligió salvarnos haciéndonos reír» (Barron). El antídoto divino contra la soberbia fue un chiste: la Encarnación.
+- **Orgullo que vuelve ininteligible la risa:** «Quizá el orgullo sea la raíz de todo mal porque vuelve ininteligible la risa» (Zimmerer).
+- **La gravedad como caída:** Chesterton: «Pride is the downward drag of all things into easy solemnity… It is easy to be heavy, hard to be light. **Satan fell by the force of gravity**»; la solemnidad arrastra hacia abajo, la risa es salto.
+- **Negación de la criaturidad:** Pieper: el orgullo «niega anti-realísticamente la relación entre criatura y Creador»; quien no ríe se ha olvidado de que no es Dios.
+- **Satanás burlado:** el orgulloso que trama en serio es el destinatario del chiste supremo: «la Encarnación y la Resurrección es uno de los mayores chistes jamás gastados a un Satanás orgulloso, serio y tramando» (Berry).
+
 
 ## Distinciones importantes
 
@@ -97,10 +107,11 @@ La soberbia es el vicio opuesto a la [[humildad]]. Es la raíz de todos los peca
 - [[joe_mcinerny_humble_greatness]]
 
 ## Ver también
-[[humildad]], [[vanidad]], [[presunción]], [[pecado_capital]], [[don_de_temor]], [[orgullo]], [[ángeles]], [[pecado_de_los_ángeles]], [[pecado_original]]
+[[humildad]], [[vanidad]], [[presunción]], [[pecado_capital]], [[don_de_temor]], [[orgullo]], [[ángeles]], [[pecado_de_los_ángeles]], [[pecado_original]], [[humor]], [[criaturidad]]
 
 ## Referencias
 
 - [CEC §1866, §2514]
 - [TPCr, Parte III, Libro I, Cap. I; Parte III, Libro II, Cap. II, n.357, 413]
 - [Santo Tomás, II-II, q.162]
+- [EAC-8, Issue 8 «Humor», archivos 02, 03, 13, 16]

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Pentecostés
 tags: ["dogmática"]
 
-timestamp: 2026-08-09
+timestamp: 2026-08-22
 description: "Fiesta cristiana que conmemora la venida del Espíritu Santo sobre los Apóstoles y la Virgen María, reunidos en el Cenáculo, y la manifestación pública de la Iglesia."
 ---
 # Pentecostés
 
 > Área: Dogmática
-> Última actualización: 2026-08-09
+> Última actualización: 2026-08-22
 
 ## Definición
 
@@ -50,6 +50,10 @@ JPII denomina a Pentecostés «Galilea de las naciones», subrayando que allí n
 
 El PdB presenta Pentecostés como punto de arranque del libro de los Hechos: tras la Ascensión, donde Lucas finalizaba su Evangelio, narra la venida del Espíritu Santo y la propagación inicial del Evangelio desde Jerusalén. La Iglesia aparece como «la prolongación de la obra redentora de Jesucristo y el instrumento de Dios para el cumplimiento de las promesas del Antiguo Testamento». Los discípulos, guiados por el Espíritu Santo, encontraron en todo momento la fortaleza y la sabiduría para ser testigos de Jesús.
 
+### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
+
+Rachel Bulman relata el Pentecostés personal de San Felipe Neri: orando en las catacumbas de San Sebastián en vísperas de Pentecostés (1544), vio una bola de fuego que entró por su boca y descendió a su corazón, produciéndole calor físico, temblor y «un sentido extraordinario de gozo»; tras su muerte se hallaron costillas rotas o desplazadas sobre el corazón. El gozo pentecostal quedó sellado en su cuerpo y definió su apostolado: el Espíritu que desciende produce alegría contagiosa — Felipe Neri fue declarado patrono del humor y del gozo.
+
 ## Distinciones importantes
 
 - Pentecostés culmina el tiempo pascual (50 días después de Pascua)
@@ -72,4 +76,5 @@ El PdB presenta Pentecostés como punto de arranque del libro de los Hechos: tra
 - TPCr, Tercera Parte, Libro II, cap. I
 - TPCr, Tercera Parte, Libro II, cap. II
 - [VocTeoBib, «Pentecostés»]
+- [EAC-8, Issue 8 «Humor», archivo 05]
 - [VJ, Cap. VIII]
