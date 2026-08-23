@@ -1,8 +1,8 @@
 ---
 type: Documento
 title: Evangelization & Culture
-description: "Trimestral del Word on Fire Institute (Bishop Robert Barron) con números sobre Creatividad, Economía, Era Digital, Cine, Escritura, Esperanza, sensibilidad católica y Humor"
-timestamp: 2026-08-22
+description: "Trimestral del Word on Fire Institute (Bishop Robert Barron) con números sobre Creatividad, Economía, Era Digital, Cine, Escritura, Esperanza, sensibilidad católica, Humor y Poesía"
+timestamp: 2026-08-23
 tags:
   - evangelización
   - cultura
@@ -10,12 +10,13 @@ tags:
   - doctrina_social
   - arte
   - esperanza
+  - poesía
 ---
 
 # Evangelization & Culture
 
 > Área: Teología pastoral / Evangelización
-> Última actualización: 2026-08-22
+> Última actualización: 2026-08-23
 
 ## Descripción
 
@@ -33,6 +34,8 @@ tags:
 | 6 | Issue 6 | Hope | Winter 2020 | [[evangelization_and_culture_issue_6_hope]] |
 | 7 | Issue 7 | The Catholic Sensibility of Bishop Barron | Spring 2021 | [[evangelization_and_culture_issue_7_catholic_sensibility]] |
 | 8 | Issue 8 | Humor | Summer 2021 | [[evangelization_and_culture_issue_8_humor]] |
+| 9 | Issue 9 | Poetry | Autumn 2021 | [[evangelization_and_culture_issue_9_poetry]] |
+| 10 | Issue 10 | Freedom | Winter 2021 | [[evangelization_and_culture_issue_10_freedom]] |
 
 ## Temas centrales por número
 
@@ -162,6 +165,48 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - Santidad y hilaridad en el convento carmelita (Sor Gorman OCD)
 - En defensa del humor negro: tres criterios morales (Nelson)
 
+### Issue 9: Poetry (Autumn 2021)
+Para el desarrollo completo de este número, véase [[evangelization_and_culture_issue_9_poetry]].
+- Dante en Friburgo: «los poetas lo dicen mejor»; encuentro con la Belleza misma (Barron)
+- La gran poesía como oración; mente liberalmente educada = mente católica (Zimmerer)
+- Wojtyła poeta y la resistencia cultural polaca; el presente especioso (Worner)
+- Santa Brígida de Kildare, patrona de los poetas; hospitalidad escatológica (Francois Angel)
+- Sufrimiento, pérdida y misión en la Eneida de Virgilio; visión comisionadora de Balthasar
+- Dead Poets Society y carpe diem como memento mori; discurso Nobel de Faulkner (Becklo)
+- Spotlight Dante: infierno-purgatorio-cielo como ensimismamiento→purga→anonadamiento; guías hasta María
+- Gerard Manley Hopkins: Wreck of the Deutschland, sprung rhythm, sonetos terribles (Mariani)
+- Poesía y cerebro humano: el frisson estético y las redes neuronales (Holyoak)
+- Bob Dylan baladista: la forma de la balada como narrativa sagrada (Petiprin)
+- En alabanza del lenguaje trascendente contra el paradigma tecnocrático; poesis y carmen (Carl)
+- Sonetos marianos y eucarísticos de Vittoria Colonna para Miguel Ángel
+- Silencio del místico vs. palabra del poeta: Raïssa Maritain, Marion, Dana Gioia (Hren)
+- El humanismo integral de la poesía: metro, metáfora y memoria (Wilson)
+- Asombro ante lo ordinario: Mc 8, unselfing de Murdoch, Oración de Jesús (Cording)
+- Spotlight Faulkner «No Grasping, No Hiding»: el Misterio inabarcable; pecado original como aferrar/esconderse
+- Conversión de Cory Mendenhall: de los mormones al catolicismo vía Gilson y Merton
+- Poesía y oración: Coleridge, Herbert, Heaney («lee poemas como oraciones») (Guite)
+- El P. Joel Kelly OSB: sanación por presencia y cuidado fraterno en las periferias
+
+### Issue 10: Freedom (Winter 2021)
+Para el desarrollo completo de este número, véase [[evangelization_and_culture_issue_10_freedom]].
+- Whittaker Chambers y la libertad del alma que tiende a Dios; la Iglesia como anti-ideología; ocio sagrado (Worner)
+- Edith Stein: «libertad cristiana de la renuncia total»; «Vamos por nuestro pueblo» (Hitz)
+- Orwell y *1984*: verdad y libertad con *Centesimus Annus* 29/46/62; sensibilidad católica latente (Petiprin)
+- *I Confess* de Hitchcock: sello de confesión y ley moral escrita en el corazón, Rm 2,15 (McGraw)
+- Educación católica y Cristo: Santa Isabel Ana Seton, Wojtyła personalista, quaerere Deum (Mixa)
+- La mente liberada en una era no libre: More, Kolbe, mártires de Compiègne (Scalia)
+- ¿Existe una ciencia del libre albedrío? Harris/Libet vs Swinburne y Aquino I q.83 a.1 (Nelson)
+- Fe y libertad en la cautividad: Jasieński en Auschwitz; Is 49,16; Flp 2,6-11 (hermanas SV)
+- ¿Qué es la libertad? JPII Baltimore 1995: «derecho a hacer lo que debemos»; Bernanos
+- Católicos en la esfera pública de la Ilustración: Agnesi, Muratori, Benedicto XIV; Dignitatis Humanae (Stuart)
+- Jane Austen y criar hijos en libertad: Fanny Price; Mt 11,30; libertad desde el yo (Stewart)
+- Leer para ver la plenitud de las cosas: Mt 5,8; icono vs espejo; «myriad eyes» de Lewis (Wilson)
+- Libertad de prensa y conciencia: escombros del periodismo partidista (Ferguson); Newman vs Mill: «la conciencia tiene derechos porque tiene deberes» (George)
+- El Credo como contornos de la gran Historia; Resurrección subversiva; cultura de auto-invención (Barron)
+- Conversión de Rachel Bulman: receptividad al amor de Dios; campesino de Ars (CEC 2715)
+- La libertad en la obediencia: SmTh II-II q.104; el acto más libre es el más donante (Todd OP)
+- Los medios católicos: Inter Mirifica; Benedicto XVI South Lawn 2008 (Liaugminas)
+
 ## Autores destacados
 
 - Bishop Robert Barron (director, Word on Fire)
@@ -218,14 +263,25 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - Kyle Mann (editor jefe de The Babylon Bee)
 - Tim Westermeyer (pastor luterano)
 - Sor Regina María Gorman OCD (carmelita descalza)
+- Paul Mariani (poeta y biógrafo de Hopkins)
+- Keith Holyoak (poeta y psicólogo cognitivo, UCSB)
+- Katy Carl (editora de Dappled Things)
+- Anna Key (reconstrucción de los sonetos de Vittoria Colonna)
+- Joshua Hren (fundador de Wiseblood Books)
+- Robert Cording (poeta y ensayista)
+- Rev. Malcolm Guite (sacerdote anglicano y poeta)
+- Fr. Paul Murray OP (dominico, Angelicum)
+- Grace Savard (Word on Fire, periferias)
+- Cory Mendenhall (artista converso)
+- Jackie Francois Angel (Lives: Santa Brígida de Kildare)
 
 ## Relación con otras fuentes
 
-Esta fuente complementa los artículos sobre [[evangelización]], [[evangelización_digital]], [[medios_de_comunicación_social]], [[belleza]], [[arte]], [[doctrina_social_de_la_iglesia]], [[nueva_evangelización]], [[cultura]], [[humor]], [[eutrapelia]] y [[alegría_cristiana]].
+Esta fuente complementa los artículos sobre [[evangelización]], [[evangelización_digital]], [[medios_de_comunicación_social]], [[belleza]], [[arte]], [[doctrina_social_de_la_iglesia]], [[nueva_evangelización]], [[cultura]], [[humor]], [[eutrapelia]], [[alegría_cristiana]] y [[poesía]].
 
 ## Ver también
 
-[[evangelización]], [[evangelización_digital]], [[belleza]], [[arte]], [[doctrina_social_de_la_iglesia]], [[nueva_evangelización]], [[humor]], [[eutrapelia]]
+[[evangelización]], [[evangelización_digital]], [[belleza]], [[arte]], [[doctrina_social_de_la_iglesia]], [[nueva_evangelización]], [[humor]], [[eutrapelia]], [[poesía]], [[vía_pulchritudinis]]
 
 ## Referencias
 
@@ -237,3 +293,5 @@ Esta fuente complementa los artículos sobre [[evangelización]], [[evangelizaci
 - Evangelization & Culture, Issue 6 (2020) — Hope
 - Evangelization & Culture, Issue 7 (2021) — The Catholic Sensibility of Bishop Barron
 - Evangelization & Culture, Issue 8 (2021) — Humor
+- Evangelization & Culture, Issue 9 (2021) — Poetry
+- Evangelization & Culture, Issue 10 (2021) — Freedom

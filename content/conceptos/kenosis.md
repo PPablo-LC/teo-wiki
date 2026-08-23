@@ -55,6 +55,14 @@ Juan Pablo II trata la kenosis en el contexto del Siervo de Yahvé y de la verda
 
 La infografía de la carta a los Filipenses del PdB subraya la kenosis como modelo para la vida cristiana: ser cristiano «es identificarse con Cristo, procurar tener "los mismos sentimientos que tuvo Cristo Jesús" (Flp 2, 5), seguir su ejemplo, pues Él se dio como modelo acabado "haciéndose obediente hasta la muerte, y muerte de cruz" (Flp 2, 8)».
 
+### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
+
+**El humanismo cristiano supremo (Dante).** Dios se hizo uno de nosotros para que entremos en su vida divina; su amor nos abraza y nos ofrece salvación; «el cristianismo representa el humanismo posible más alto»; ninguna cultura ofrece una visión tan alta del ser humano.
+
+**Anonadamiento creciente.** En la estructura dantesca, el Cielo consiste en grados crecientes de anonadamiento (self-emptying), cada vez más luminosos; la visión beatífica revela «la amable cortesía de vivir por el otro».
+
+**La Anunciación como kenosis mariana.** «Que mi ego gire en torno a lo que Tú quieres, Señor»: el contraste mariano frente a toda soberbia en el Purgatorio.
+
 ## Distinciones importantes
 
 - La kenosis no es una negación de la divinidad de Cristo, sino la asunción libre de la condición humana.

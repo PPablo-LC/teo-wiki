@@ -45,6 +45,16 @@ Santo Tomás distingue además entre la visión como acto (que es la bienaventur
 
 Visión «cara a cara» de Dios (1 Cor 13,12). Participación en la vida trinitaria. Plenitud de verdad, bondad y belleza. [UDE, Cap. XII]
 
+### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
+
+**Estructura dantesca.** Infierno: radicalización del ensimismamiento que produce dolor, plena en Satanás; Purgatorio: purga de esa tendencia; Cielo: grados crecientes de anonadamiento (self-emptying), cada vez más luminosos; la visión beatífica al final revela «la amable cortesía de vivir por el otro».
+
+**Sucesión de guías.** Virgilio encarna la razón y entrega a Dante a Beatriz (teología); Beatriz entrega a San Bernardo de Claraval (mística más allá incluso de la articulación teológica); Bernardo da paso a María, Madre de Dios, que introduce a Dante en la visión beatífica: «esa sucesión de razón a teología a mística pretende entregarte finalmente a una experiencia de Dios».
+
+**Caridad entre órdenes religiosas.** Bonaventura (franciscano) narra la vida de Santo Domingo; Tomás de Aquino (dominico) narra la vida de San Francisco de Asís, pese a la rivalidad histórica: «simplemente caritativo y hermoso: así es la vida en el cielo».
+
+**Anticipación eucarística (Colonna).** Soneto n.º 58: «Te vuelves parte de mí y, lentamente, la frontera entre tú y yo empieza a disolverse hasta vernos cara a cara»: la adoración eucarística como inicio de la visión.
+
 ## Distinciones importantes
 - Visión beatífica (contemplación intuitiva de Dios en el cielo) ≠ contemplación infusa (oscura y por fe en esta vida)
 - Gloria esencial (visión beatífica en sí misma) ≠ gloria accidental (premios secundarios)

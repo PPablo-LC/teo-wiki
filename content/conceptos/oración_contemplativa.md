@@ -50,6 +50,16 @@ La contemplación infusa requiere necesariamente la gracia habitual o santifican
 La contemplación no es propia de los principiantes sino de los perfectos, aunque pueden darse actos transitorios de contemplación infusa en los comienzos de la vida espiritual por disposición especial de Dios (n.529).
 
 
+### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
+
+**Carmen: conjuro, canto y oración (Gioia).** Los actos de nombrar conducen la mente al misterio más allá del sentido y «nos arrastran, como una marea, en dirección al asombro»; en esa orilla espera la barca de Pedro: «la artesanía de la poesía puede ser balsa salvavidas para llevar almas perdidas hacia el barco».
+
+**Oración de Jesús (Cording).** A los 18 años, bajo el influjo de *Franny and Zooey*, busca *El peregrino ruso* y practica la Oración de Jesús («Señor Jesucristo, ten piedad de mí»); su meta errónea: pasar cuanto antes de la oración vocal a la continua del corazón; quería sentir a Dios moverse «como la sangre en mi mano»; no quería el silencio de Dios.
+
+**Disciplinas espirituales (Faulkner).** Como hay disciplinas para sobrevivir en el bosque, hay disciplinas en la vida espiritual: *Itinerarium mentis in Deum* (Bonaventura), Ejercicios Espirituales (Ignacio), *Subida del Monte Carmelo* (Juan de la Cruz); tedio sano de la vida religiosa (mesas, retretes, horas de canto y silencio); «Dios no responde a demandas ni horarios nuestros: aparece cuando aparece, y por sus razones».
+
+**Sal 139 y Ars.** Gran inversión: el divino que busco me está buscando; «la condición de posibilidad de nuestro encontrar es que ya hemos sido encontrados»; el campesino de Ars ante el Sagrario: «Lo miro a él y él me mira a mí» (CEC 2715).
+
 ## Distinciones importantes
 
 - Contemplación infusa ≠ meditación discursiva (aquella es intuitiva, ésta discursiva)

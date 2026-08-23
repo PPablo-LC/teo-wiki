@@ -117,6 +117,15 @@ La Regla hace de la obediencia la piedra angular de la vida monástica:
 - **Cumplimiento por satisfacción (cap. 71, §6-8)**: Si un hermano es corregido, debe postrarse inmediatamente ante el superior hasta que con la bendición se calme la inquietud. La obediencia incluye la humildad de la recepción de la corrección.
 - **Objetivo supremo (cap. 5, §10-13)**: La obediencia conduce a la vida eterna y allana el camino angosto de la salvación.
 
+### Según Evangelization & Culture n.º 10 «Freedom» (EAC-10)
+
+La Hna. Mary Madeline Todd OP («Freedom in Obedience») plantea la pregunta central del fascículo: ¿es la obediencia la muerte de la libertad o su garante?
+
+- **Fundamento tomista:** Aquino trata la obediencia bajo la justicia mayor (SmTh II-II q.104 a.1): Dios diseñó al hombre libre, pero esa libertad se encuentra dentro del orden de la creación, que incluye el orden de autoridad: «así como las acciones de las cosas naturales proceden de potencias naturales… lo superior debe mover a lo inferior por voluntad en virtud de una autoridad establecida divinamente». Los seres irracionales obedecen las leyes naturales escritas por el Creador: ¿por qué habría de ser distinto el hombre?
+- **Doble resistencia:** a la obediencia resisten (1) la voluntad debilitada tras el pecado original y (2) la sospecha justificada ante autoridades que no gobiernan hacia el bien verdadero; frente a los dictadores es legítima la desobediencia civil; pero obedecer a Dios, cuya ordenación siempre mira nuestro bien verdadero y eterno, es «la altura de la sabiduría»: la autoridad legítima que gobierna a la luz de la ley eterna participa la sabiduría de Dios, y entonces la obediencia puede ser acto de amor sublime.
+- **El voto como empeñamiento de la libertad:** votar obediencia no pierde la libertad, la compromete — análogo al matrimonio: «todo compromiso bien ordenado limita opciones mientras expande el amor». Lewis (*Los cuatro amores*): quien encierra su corazón en el ataúd del egoísmo para no perderlo lo vuelve irrompible e irredimible; solo el amor libra de la prisión existencial del egoísmo.
+- **Conclusión:** «el acto más libre no es el más autónomo sino el más donante»; Cristo, que sudó sangre y aun así dijo sí al Padre (Jn 10,18), muestra hasta dónde puede aspirar la libertad humana.
+
 ## Relaciones doctrinales
 
 Se relaciona con [[obediencia_de_la_fe]], [[consejos_evangélicos]], [[voto_de_obediencia]], [[humildad]], [[estado_religioso]] y [[cristo]].

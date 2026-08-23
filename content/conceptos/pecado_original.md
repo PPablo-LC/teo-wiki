@@ -169,6 +169,14 @@ El pecado original es el que cometieron nuestros primeros padres y que se transm
 
 El texto subraya la importancia del estudio del pecado original para comprender tanto la existencia del mal en el mundo y la peculiar naturaleza pecadora del hombre en la condición actual, como la dinámica fundamental de todo pecado. (Ele_Xto_Stos, Cap. XI, §1a)
 
+### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
+
+**Aferrar y esconderse.** Los dos movimientos de Adán y Eva: robarle a Dios (como Prometeo) y luego, avergonzados, esconderse de Él; tendencia a ponernos al centro del universo, hacernos incondicionados y absolutos. El dios-rival es invención del ego pecaminoso: mala teología venenosa para el espíritu. Lutero: la mente está caída igual que la voluntad y produce sistemas elaborados al servicio del egoísmo.
+
+**Nombrar a Dios medica el alma.** La tradición cristiana nombra a Dios no como rival patético del ego sino como la potencia en la que el ego temeroso puede hallarse mediante la entrega; nombrar adecuadamente «medica el alma», fomenta la relación correcta con el Misterio y deshace parcialmente los efectos del pecado original.
+
+**La deshecha del pecado original (Ex 3).** Dios «tan bajo como para estar presente en gracia salvadora a los esclavos en Egipto, y tan alto como para ser incapturable por cualquier nombre»: las dos opciones fáciles (inmanencia pura o trascendencia pura) apelan a nosotros los pecadores; el Éxodo frustra control y evitación —estrategias gemelas del Edén—.
+
 ## Distinciones importantes
 
 - Pecado original contraído ≠ pecado personal cometido.

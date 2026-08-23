@@ -73,6 +73,10 @@ Juan Pablo II expresa el esfuerzo por la reunificación según la oración de Cr
 
 **Pío XI** — Decreto del Santo Oficio (8 de julio de 1927, D‑2199): Respondió negativamente a si es lícito a los católicos asistir o favorecer las reuniones, asociaciones o congresos de acatólicos cuyo fin es unir a cuantos se llaman cristianos en una sola alianza religiosa. Este decreto se inscribe en el contexto de la encíclica *Mortalium animos* (1928), que rechazó el falso ecumenismo que iguala a todas las religiones o minimiza las diferencias doctrinales.
 
+### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
+
+**Ecumenismo que parte de la belleza.** Renacimiento ferviente de la poesía devotamente católica (Dappled Things, Presence: A Journal of Catholic Poetry, Catholic Poetry Room) con fenómeno espejo entre poetas protestantes, ortodoxos y no cristianos: terreno maduro para un ecumenismo «que parte de la belleza», construyendo puentes sin glosar diferencias.
+
 ## Distinciones importantes
 
 - **Ecumenismo espiritual**: oración, conversión y santidad como alma del movimiento ecuménico.

@@ -3,7 +3,7 @@ type: Concepto Teológico
 title: Libertad
 tags: ["moral_fundamental", "antropología_teológica"]
 
-timestamp: 2026-06-29
+timestamp: 2026-08-23
 description: "Facultad de la voluntad por la cual el hombre puede determinar sus propios actos hacia su fin último sin coacción externa ni necesidad interna. Pinckaers distingue dos concepciones antitéticas: libertad de indiferencia y libertad de calidad."
 ---
 # Libertad
@@ -76,6 +76,16 @@ La verdadera libertad es dominio de sí, no libertinaje. «No hay palabra que gu
 ### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
 
 En su discurso ante el Parlamento español, León XIV ofreció una definición de la libertad que retoma la tradición clásica: «La libertad no es hacer lo que se quiere, sino querer lo que se debe» [L_XIV-ViajeEspaña-2026, Parlamento — discurso]. Presentó la libertad como orientada al bien, no como elección arbitraria. Defendió la libertad religiosa como la primera libertad, por tocar la relación fundamental del hombre con Dios [L_XIV-ViajeEspaña-2026, Parlamento — discurso].
+
+### Según Evangelization & Culture n.º 10 «Freedom» (EAC-10)
+
+El fascículo décimo de la revista del Word on Fire Institute está dedicado íntegramente a este concepto:
+
+- **Whittaker Chambers:** «La libertad es una necesidad del alma y nada más»; es tendiendo hacia Dios que el alma busca continuamente la condición de libertad; «Dios solo es el incitador y garante de la libertad». El Occidente está en crisis en la medida en que es indiferente a Dios.
+- **Juan Pablo II en Baltimore (1995):** en democracia moderna la libertad sigue siendo vital cuando se ejerce «el derecho a hacer lo que debemos»; los Fundadores americanos sabían que sin virtud moral la democracia no puede ser un régimen de libertad sostenida.
+- **Definición positiva:** la libertad como espacio intencional para el don: Bernanos — la santidad como «la única aventura»; Haley Stewart: los santos son más libres que sus opresores porque han ordenado sus deseos (MLK, Pablo de Tarso, Tomás Moro); «un libertino, no un hombre verdaderamente libre» (Henry Crawford).
+- **Obediencia como empeñamiento:** Hna. Mary Madeline Todd OP: «el acto más libre no es el más autónomo sino el más donante»; Cristo entregando su vida por propia voluntad (Jn 10,18) muestra la altura a que la libertad humana puede aspirar.
+- **Libertad y verdad frente a la ideología:** Orwell/*1984* con *Centesimus Annus* 46: la cultura totalitaria nace de la negación de la verdad; la dictadura del relativismo como su forma suave pero igualmente coercitiva.
 
 ## Relaciones doctrinales
 

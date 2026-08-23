@@ -39,6 +39,14 @@ La noche del sentido es común y necesaria para todos los que han de pasar de pr
 
 [VocTeoBib, «Noche»] La noche tiene en la Escritura un simbolismo centrado en la noche pascual del Éxodo: tiempo de la prueba liberadora, en que la palabra de Dios se lanza desde el trono regio (Sab 18,14s). El AT retiene la ambivalencia: temerosa como la muerte (Sal 91,5), pero también tiempo de oración y espera vigilante (Sal 130,6; 63,7). El día de Yahveh puede ser tinieblas para los infieles (Am 5,18). En el NT, la pasión de Cristo es la «hora del poder de las tinieblas» (Lc 22,53), pero la resurrección instaura el día que no conoce ocaso (2Cor 4,6). El cristiano, «hijo del día» (1Tes 5,5), no es ya de la noche, aunque aguarda la luz plena. La noche presente avanza hacia el día (Rom 13,12), y los fieles velan con las lámparas encendidas (Mt 25,6; Ap 21,25; 22,5).
 
+### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
+
+**Los sonetos terribles de Dublín (Hopkins).** Años difíciles con depresiones periódicas; poemas escritos en retales de papel compartidos con nadie: «Spelt from Sybil's Leaves» (versos larguísimos, casi canto gregoriano), «To seem the stranger», «I wake and feel the fell of dark», «No worst, there is none»: registro de su noche oscura del alma.
+
+**«Carrion Comfort».** «No, no cebaré en ti, Desesperación, mi carroña»; resolución dolorosa: «¿Por qué? Para que mi paja vuele; mi grano quede, puro y claro»; «Aquella noche, aquel año / de oscuridad ya cumplida, yo, desdichado, luchaba con (¡mi Dios!) mi Dios»: Jacob con el ángel, Getsemaní y el «Elí, Elí, lamá sabactani» del Salmo 22.
+
+**Confianza final.** «That Nature is a Heraclitean Fire…» (1888, menos de un año antes de su muerte): «Este Jack, burla, pobre tiesto… diamante inmortal, / Es diamante inmortal»; confianza en Dios pase lo que pase, como [[santa_teresa_de_lisieux]] o [[madre_teresa_de_calcuta]], que atravesaron la noche con confianza.
+
 ## Distinciones importantes
 
 - Noche del sentido: afecta a la parte sensitiva; tránsito a la [[vía_iluminativa]]

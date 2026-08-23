@@ -63,6 +63,16 @@ La Veritatis Splendor (§31, §34) sitúa la libertad religiosa en el contexto d
 
 Juan Pablo II se remite a *Dignitatis humanae*: la libertad religiosa. La verdad debe buscarse de modo conforme a la dignidad de la persona. La conciencia es el «santuario del hombre» (GS 16). Debe ser siempre escuchada, incluso si es errónea por ignorancia invencible. Cita a Santo Tomás (I-II q.19 a.5): el acto de fe contra la conciencia es ilícito. Cita a Newman: la conciencia está por encima de la autoridad. Plantea la fe implícita: quien busca sinceramente a Dios, incluso sin conocer el Evangelio, puede salvarse (LG 16). Advertencia anti-pelagiana: la gracia es necesaria para la salvación. Sinergismo: colaboración del hombre con Dios (UDE, Cap. XXIX).
 
+### Según Evangelization & Culture n.º 10 «Freedom» (EAC-10)
+
+Robert P. George («On Liberty and Conscience») aporta el fundamento filosófico y los límites:
+
+- **La religión como bien humano básico:** las personas tienen derechos — incluidos derechos a libertades — porque hay bienes humanos básicos que constituyen su florecimiento; la defensa plena de la libertad religiosa requiere identificar el bien humano de la religión: «la búsqueda activa de la verdad espiritual y el esfuerzo consciente de vivir con integridad según los juicios últimos sobre las fuentes de sentido y valor», en lo público y lo privado.
+- **La primera libertad:** las libertades civiles forman una túnica sin costuras que se sostienen mutuamente — los regímenes tiránicos comienzan deshonrando unas y acaban deshonrando todas; pero la libertad religiosa tiene prioridad especial (*primacía*): protege un aspecto arquitectónico del florecimiento; la religión atañe a lo último y da coherencia a toda la vida.
+- **Papel social:** la religión sana es institución clave de la sociedad civil: colchón entre individuo y Estado, servicios de salud, educación y bienestar, y capacidad de resistencia profética — como la Iglesia católica ante la tiranía comunista en Polonia.
+- **Límites:** la presunción a favor del respeto es poderosa y amplia, pero no ilimitada: ni sacrificios humanos ni coerción religiosa pueden tolerarse en nombre de la libertad religiosa; el test jurídico (RFRA) exige interés estatal imperativo y medio menos restrictivo.
+- Sheila Liaugminas añade desde *Inter Mirifica* 5 el derecho a la información con responsabilidad moral de veracidad, amenazado hoy por la manipulación del lenguaje editorial.
+
 ## Relaciones doctrinales
 
 Se relaciona con [[iglesia_y_estado]], [[conciencia_moral]], [[dignidad_humana]], [[derechos_humanos]], [[laicidad_positiva]], [[estado]]

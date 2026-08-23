@@ -105,6 +105,12 @@ La Iglesia es **madre y maestra** (*Mater et Magistra*). Como madre, debe ser am
 
 León XIV describe a la Iglesia, en la nave de la catedral, como «hogar común donde todos tienen lugar», una «casa que acoge, que protege y que no abandona». Munilla desarrolla además la imagen de las capillas laterales: «la Iglesia es apostólica y, al mismo tiempo, carismática», y las dos cosas «están integradas»; muchas iniciativas «no nacen de la cátedra, nacen de las capillas laterales», pero todas comparten «una misma orientación» hacia el centro. La Iglesia peregrina («la barca en travesía») es la comunidad real y concreta a la que el sacerdote ama y sirve, «con sus ritmos lentos, con sus heridas», y su sacramentalidad se manifiesta en que «en la pila bautismal nace el pueblo de Dios» [CIS, 2026].
 
+### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
+
+**Centro inmóvil (Mendenhall).** Converso del mormonismo vía ateísmo, recibido en la Iglesia en Pascua de 2020 tras RCIA; las otras iglesias sentían «imitación de algo más hondo de lo que todas bebían»: «esa raíz principal, descubriríamos, es el catolicismo»; «importante que una Iglesia sea un centro inmóvil mientras el mundo se agita caóticamente a su alrededor», resistiendo ante una cultura desenraizada de la moral objetiva e incluso de la realidad.
+
+**La barca de Pedro (Gioia/Carl).** «La barca de Pedro está ya en el muelle, llena de puentes divinamente revelados hacia la relación con la Fuente de todo misterio; la artesanía de la poesía puede ser balsa salvavidas para llevar almas perdidas hacia el barco»: la Iglesia como destino de la búsqueda poética de trascendencia.
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[iglesia_cuerpo_místico]]

@@ -31,6 +31,20 @@ La evangelización de la cultura urbana es un reto apremiante. La Iglesia que su
 
 Los ámbitos privilegiados de la evangelización de la cultura son: los centros educativos católicos (universidades y escuelas), los medios de comunicación social (que contribuyen a modelar la cultura y mentalidad contemporánea), y la piedad popular como expresión de la inculturación de la fe católica [EA §16, 71-72].
 
+### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
+
+**Dante evangelizador.** Dante no se queda en la visión: regresa para contarlo; la Comedia recuerda que, vista la visión beatífica, no hay que quedarse ahí: se vuelve para presentar a otros esa misma realidad; «programa espiritual profundamente católico para gente perdida», y hoy mucha gente está perdida.
+
+**Crisis y defensa de las humanidades.** Caída drástica de matrículas (Historia −45% desde 2007; Filología Inglesa casi a la mitad desde fines de los 90); riesgo: mayor inhumanidad y sinsentido en medio de vidas exitosas y cómodas; Wieseltier: «No os dejéis amedrentar por los números, que nunca serán manantiales de sabiduría»; sostener las humanidades es sostener el honor de una civilización fundada en la búsqueda de lo verdadero, lo bueno y lo bello.
+
+**Lectura renovada de los clásicos.** La Eneida como obra introspectiva que produce gozo más profundo y sensibilidad poética renovada; leer el viaje de Eneas como el propio en un mundo desmitologizado.
+
+**Raíz bíblica de Faulkner.** Las raíces más profundas de su narrativa mística están en los encuentros bíblicos siempre extraños y transformadores con el Misterio de Dios: puiente hacia la zarza ardiente.
+
+**Renacer de la poesía católica.** *Dappled Things* (16 años), *Presence: A Journal of Catholic Poetry* (2017), Catholic Poetry Room: renacimiento ferviente de la poesía devotamente católica; terreno maduro para un ecumenismo «que parte de la belleza».
+
+**Testimonios de conversión.** Las catedrales europeas «fueron construidas con la intención específica de ser casas de Dios»: Mendenhall encuentra allí «una quietud que no podía nombrar ni entender»; Word on Fire instrumental en su conversión; bendición de pertenecer a una Iglesia que resiste: «importante que una Iglesia sea un centro inmóvil mientras el mundo se agita caóticamente a su alrededor». Véase también [[santa_brígida_de_kildare]] evangelizando al caudillo moribundo.
+
 ## Distinciones importantes
 
 - Evangelización de la cultura vs. inculturación: la evangelización de la cultura es el proceso; la inculturación es el método teológico-pastoral mediante el cual el Evangelio se encarna en una cultura sin perder su identidad.

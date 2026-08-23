@@ -33,6 +33,14 @@ TPCr trata la cristología en el contexto de la perfección cristiana: Cristo es
 
 El ciclo de catequesis «Catequesis sobre Jesús SS» constituye un curso completo de cristología impartido por Juan Pablo II en las audiencias de los miércoles (1987-1988). Sigue un método que integra Escritura, Tradición y Magisterio, recorriendo la identidad de Cristo (¿quién es?), su filiación divina, su unción por el Espíritu Santo, su autoridad divina, sus milagros como signos de su divinidad y su verdadera humanidad. Las catequesis se articulan en torno a la pregunta central de Jesús: «Y vosotros, ¿quién decís que soy yo?» (Mc 8,29), mostrando que la cristología no es una especulación abstracta sino el corazón de la fe cristiana. JPII aborda los títulos cristológicos —Mesías, Hijo de Dios, Hijo del hombre, Siervo de Yahvé, Verbo, Señor— y los desarrolla a la luz de la tradición patrística, de los concilios cristológicos (Nicea, Constantinopla, Éfeso, Calcedonia) y del magisterio contemporáneo (CJeS, primera parte: identidad de Cristo).
 
+### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
+
+**Presencia pascual de Cristo (Hopkins).** Christ's «eastering presence»: momento transfigurativo en el monte con tres discípulos; anonadamiento desde la detención entre los olivos y el prensar de Getsemaní.
+
+**Tríptico «Christ Sightings» (O'Donnell).** i. Vadeando las aguas del Jordán «como niños en busca de una bendición»: «¿habrían saludado también a Ti, mientras Juan vertía el Jordán sobre tu cabeza desnuda?» ([[bautismo_de_jesús]]); ii. La mujer sorprendida en adulterio y la misericordia que escribe en la arena ([[misericordia_divina]]); iii. Belén: «Nacido cuando menos se le espera y más se le necesita… el amor duerme en un pesebre sucio» ([[navidad]]).
+
+**La Encarnación según Colonna.** «En carne vino y desafió toda lógica, no asustando sino consolando como el rubor rojo del atardecer».
+
 ## Relaciones doctrinales
 
 La cristología se articula con la [[trinidad]] (Cristo es la Segunda Persona), con la [[soteriología]] (obra salvífica de Cristo), con la [[mariología]] (María como Madre de Dios), y con la [[escatología]] (Cristo como juez y consumador del Reino). Informa toda la vida cristiana como [[configuración_con_cristo]].

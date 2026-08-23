@@ -170,6 +170,14 @@ Benedicto XVI profundiza en la figura de María a partir de los relatos lucanos 
 
 [Ele_Xto_Stos, Cap. III, §5] La vida cristiana tiene una esencial dimensión mariana: la función de María en la vida de la Iglesia y de cada uno de los cristianos deriva de su singular unión con Cristo y, en último término, de su maternidad divina. «Por su total adhesión a la voluntad del Padre, a la obra redentora de su Hijo, a toda moción del Espíritu Santo, la Virgen María es para la Iglesia el modelo de la fe y de la caridad» (Lumen gentium, n. 61). María es además el modelo que la Iglesia y los cristianos deben imitar: «Por eso dirigen sus ojos a María, que resplandece ante toda la comunidad de los elegidos como modelo de todas las virtudes» (LG, n. 65). Es un preclaro espejo de vida moral: «Acogiendo y meditando en su corazón acontecimientos que no siempre puede comprender (cfr. Lc 2, 19), se convierte en el modelo de todos aquellos que escuchan la palabra de Dios y la cumplen (cfr. Lc 11, 28)».
 
+### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
+
+**María contraejemplo de la soberbia.** En el Purgatorio de Dante, María se propone como contraste ante cada pecado purgado; frente a la soberbia, la Anunciación: «hágase en mí según tu palabra»; responde a la exigencia soberbia «que toda la realidad gire alrededor de mí» con «que mi ego gire en torno a lo que Tú quieres, Señor».
+
+**Guía última hacia la visión.** En la Comedia, tras la razón (Virgilio) y la teología (Beatriz), San Bernardo da paso a María, Madre de Dios, que introduce a Dante en la visión beatífica.
+
+**La lactancia de María (Colonna).** Soneto n.º 51: «¿no prensaste y vertiste en tu leche, como aceites esenciales estrujados, todo tu ser… para nutrir a todo tu divino Hijo?»; el fuego vivo abrasó tu pecho santo rompiéndote «en luz pura y canto puro»; el espíritu se hendió en el mundo material «sin quemarlo sino alumbrándolo… blanqueando como nieve el oscuro mundo»: total donación materna transfigurada en luz.
+
 ## Distinciones importantes
 
 - **Maternidad divina**: María es Madre de Dios (Theotókos), verdadera Madre de Jesús, que es verdadero Dios y verdadero hombre.

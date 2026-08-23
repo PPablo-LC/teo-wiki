@@ -2,14 +2,14 @@
 type: Concepto Teológico
 title: Obediencia de Cristo
 tags: ["dogmática_(cristología)", "soteriología"]
-timestamp: 2026-06-30
+timestamp: 2026-08-23
 description: "Actitud de sumisión perfecta del Hijo a la voluntad del Padre, desde la Encarnación hasta la muerte en cruz, que constituye el núcleo de la obra redentora y el modelo de toda obediencia cristiana."
 ---
 
 # Obediencia de Cristo
 
 > Área: Dogmática — Cristología, Soteriología
-> Última actualización: 2026-06-30
+> Última actualización: 2026-08-23
 
 ## Definición
 
@@ -46,6 +46,12 @@ TPCr, Cuarta Parte, cap. I: La obediencia de Cristo es el modelo supremo de la v
 ### Según el Enchiridion Symbolorum (Denzinger)
 
 D-263 (III Concilio de Constantinopla, 681): Define dos voluntades naturales en Cristo (divina y humana), no opuestas entre sí, sino subordinadas —la voluntad humana sigue a la divina, sin resistencia ni contradicción—, refutando el monotelismo.
+
+### Según Evangelization & Culture n.º 10 «Freedom» (EAC-10)
+
+- **Jn 10,18 como clave de la libertad de Cristo:** «Nadie me la quita, sino que yo la entrego por mi propia voluntad; tengo poder para entregarla y poder para recuperarla». Incluso cuando, en su naturaleza humana, sudó sangre ante lo que venía (Lc 22,44), dijo sí al Padre con una totalidad y perfección de amor capaces de sanar todo acto de rechazo y desafío en la historia humana. ¿Cesó Cristo de ser libre al entregarse todo al Padre? Sus palabras muestran «la altura a que la libertad humana puede aspirar».
+- **Romano Guardini (*El Señor*):** «Sentimos la terrible soledad que hay en Él y comprendemos lo que debió costarle creer y seguir hasta el fin. Y sin embargo, la voluntad del Padre es el amor del Padre. Mediante su completa aceptación, Jesús entra en la intimidad de Dios, donde todas las cosas son luminosas con su ternura y poder». La obediencia de Cristo revela que obedecer no es someterse a un poder externo sino dejarse llevar por el amor que ya habita la voluntad del Padre.
+- **La elección última:** desde el alba del Edén, pasando por la ley dada a Moisés, hasta hoy, hay siempre ante cada hombre la elección detrás de todas sus elecciones: obediencia amorosa hacia la vida o desobediencia voluntaria hacia la muerte. Por la obediencia de fe amorosa entramos en la intimidad divina para la que fuimos creados.
 
 ## Distinciones importantes
 

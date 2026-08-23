@@ -81,6 +81,16 @@ La Vida de Jesús (VJ) narra la Pasión desde la agonía en Getsemaní hasta la 
 
 Juan Pablo II examina las causas históricas de la muerte de Cristo: la envidia, el conflicto con el Sanedrín, el proceso ante Pilato y la condena. Jesús tenía plena conciencia mesiánica y vocación al sacrificio redentor, manifestada en los tres anuncios de la Pasión. La kénosis y la obediencia hasta la muerte (Flp 2,6-8) contrastan con la desobediencia de Adán. Las siete palabras de Cristo en la Cruz revelan las dimensiones de la Pasión: el perdón («Padre, perdónalos, porque no saben lo que hacen», Lc 23,34), la promesa del Paraíso al buen ladrón (Dismas: «Hoy estarás conmigo en el Paraíso», Lc 23,43), el don de María a la humanidad («Mujer, he ahí a tu hijo», Jn 19,26-27), el grito de abandono («Dios mío, Dios mío, ¿por qué me has abandonado?», Mc 15,34; Sal 22), la sed de conversión y humanidad nueva («Tengo sed», Jn 19,28), la consumación de la obra redentora («Todo está cumplido», Jn 19,30), y la entrega confiada («Padre, en tus manos encomiendo mi espíritu», Lc 23,46; Sal 31). La sangre y el agua del costado traspasado (Jn 19,34) simbolizan el Bautismo, la Eucaristía y el don del Espíritu Santo. Cristo es el [[cordero_pascual]] de la Nueva Alianza: «no le quebrarán hueso alguno» (Ex 12,46), y «mirarán al que traspasaron» (Zac 12,10) (CJeS, tercera parte: valor redentivo de la Pasión; cuarta parte: palabras de Cristo en la Cruz).
 
+### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
+
+**La Pasión en *The Wreck of the Deutschland* (Hopkins).** Dios caminó entre nosotros hasta morir por nosotros en «densa y apremiante Pasión y sudor espantoso»; el «discharge» divino final cuando el deber se cumplió y el rescate de la humanidad quedó pagado; solo el corazón «acorralado» lo proclama: «¿Qué nadie habría sabido de ello? ¡Solo el corazón, duro en la refriega, lo exclama!».
+
+**«The Windhover».** El Rey que se quiebra en Pasión, coronado de espinas por los soldados de Pilato; «Y el fuego que de ti entonces estalla, mil veces contado más bello, más peligroso, oh mi caballero»; la sangre de Cristo convertida en oro suficiente para rescatarnos a todos.
+
+**«One of Many Centurions» (Ryan Wilson).** Un soldado romano que participó en la burla a Cristo vendado («nos turnábamos y, riendo, lo golpeábamos… osando que adivinara nuestros nombres») recuerda su rabia juvenil camuflada; ante Cristo crucificado —«colina oscura, sangre vertiendo, sus brazos abiertos en cruz»— ya no pudo reír: confesión del verdugo tocado por la misericordia.
+
+**El Cristo cazado (Faulkner).** «La cacería de Dios» culminó cuando lo divino apareció en carne humana y fue perseguido y matado por el poder del pecado: Cristo crucificado y cazado revela cómo responde el ego pecaminoso ante lo sagrado.
+
 ## Distinciones importantes
 
 - La Pasión no fue una fatalidad sino una entrega voluntaria

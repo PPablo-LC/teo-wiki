@@ -97,6 +97,15 @@ Benedicto XVI dedica el capítulo 9 de *Jesús de Nazaret II* a la Resurrección
 
 **Cuerpo glorioso.** Jesús resucitó con un cuerpo transformado —el «cuerpo espiritual» (1 Co 15,44)— que conserva su identidad (señales de las llagas) pero posee cualidades nuevas: no está sujeto al espacio ni al tiempo ordinarios. Es el «primogénito de entre los muertos» (Col 1,18) y principio de la nueva creación.
 
+### Según Evangelization & Culture n.º 10 «Freedom» (EAC-10)
+
+Mons. Barron («Contours of the Great Story») presenta la Resurrección como **el mensaje subversivo de la Iglesia**:
+
+- **Resurrección corporal, no mito:** contra la demitologización de moda en la teología del s. XX (la Resurrección como símbolo de que «la causa del amor y la justicia sigue adelante»), N.T. Wright y otros han mostrado que la afirmación judía de resurrección era inequívocamente corporal: Jesús — el mismo crucificado — ha resucitado corporalmente en la gloria de Dios.
+- **«Tú lo mataste, Dios lo resucitó»:** César lo mató, Dios lo resucitó: Dios es más poderoso que el César, más poderoso que tu pecado, más poderoso que la muerte misma. Ese era el mensaje de los primeros cristianos.
+- **La cruz como burla (*taunt*):** cuán extraño colocar para siempre ante los ojos un instrumento de tortura; lo hacemos burlándonos del mundo: «¿Es eso lo peor que puedes echarnos? Nuestro Dios es más poderoso que eso».
+- **Por qué desmitologizar:** los poderes mundanos quieren una Resurrección mítica porque domesticada no desafía nada; si se convierte en «bonito mito y símbolo», pierde su reto. La Iglesia católica es «la única rival seria del relativismo y la cultura de la auto-invención» precisamente porque porta el mensaje de la cruz y la Resurrección: por eso tantos primeros cristianos acabaron muertos o en la cárcel.
+
 ## Distinciones importantes
 
 - Resurrección de Cristo (única y gloriosa) vs. resurrecciones milagrosas anteriores (vuelta a la vida mortal)

@@ -75,6 +75,14 @@ San Josemaría Escrivá ilustra eficazmente la contemplación ordinaria alcanzab
 
 En el Cap. III, §4c se precisa que la contemplación consiste en tener la «mirada» de la fe fija en Jesús, para conocer mejor su querer y para identificarse más y más con Él. Esta contemplación no exige la *fuga mundi*: al contrario, se puede y se debe realizar en la vida ordinaria y por medio de las actividades terrenas: «Cuando nuestro espíritu va en busca de los bienes temporales para hallar en ellos su reposo, queda esclavizado a ellos. Pero cuando los busca en orden a la bienaventuranza, no es arrastrado hacia abajo por ellos, sino que, más bien, es él quien los eleva a un nivel superior» (S.Th., II-II, q. 82, a. 3, ad 2), y los utiliza para establecer en todo momento un diálogo amoroso con el Señor (Ele_Xto_Stos, Cap. III, §4c).
 
+### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
+
+**Interioridad y Trinidad (Carl).** La Iglesia, funcionando rectamente, conduce a la persona hacia una experiencia más rica y profunda de interioridad para establecer relación con Cristo y abrir espacio a la morada de la Santísima Trinidad en el alma.
+
+**Asombro ante lo ordinario (Cording).** Vigilia pascual a los 19 años: tacones de mujer en la calle macadam, cochecito de bebé crujiendo, rama de liquidámbar, olor a bacon y huevos: «la radical sensualidad» de lo ordinario era sobrenatural y abrumadora; Sal 19: «Los cielos proclaman la gloria de Dios»; la «thisness» (haecceitas) de Hopkins; escribir el asombro de lo ordinario en un mundo que sigue siendo «bueno» como declara Génesis 1.
+
+**Adoración recta = percepción recta.** Robinson (*Gilead*): «la adoración recta es la percepción recta»; el asombro inocente por la dación del mundo exige alabanza y gratitud como consumación necesaria.
+
 ## Distinciones importantes
 
 - Contemplación natural (sensible, imaginativa, intelectual) vs. sobrenatural o infusa.

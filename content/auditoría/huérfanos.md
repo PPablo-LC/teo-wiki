@@ -2,14 +2,14 @@
 type: Concepto Teológico
 title: Auditoría de wikilinks huérfanos
 timestamp: 2026-08-06
-description: "Registro de wikilinks sin artículo propio en el wiki. 2026-08-22: el procesamiento de Evangelization & Culture n.º 8 «Humor» (EAC-8) siembra 6 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 8 «Humor»»)."
+description: "Registro de wikilinks sin artículo propio en el wiki. 2026-08-23: el procesamiento de Evangelization & Culture n.º 10 «Freedom» (EAC-10) siembra 12 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 10 «Freedom»»). 2026-08-23: el procesamiento de Evangelization & Culture n.º 9 «Poetry» (EAC-9) siembra 3 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 9 «Poetry»»). 2026-08-22: el procesamiento de Evangelization & Culture n.º 8 «Humor» (EAC-8) siembra 6 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 8 «Humor»»)."
 ---
 # Auditoría de wikilinks huérfanos
 
 > Generado originalmente: 2026-06-19
-> Última actualización: **2026-08-22 — Procesamiento de Evangelization & Culture n.º 8 «Humor» (EAC-8). 6 huérfanos nuevos sembrados (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 8 «Humor»»): `[[ocio]]`, `[[amor_sacrificial]]`, `[[cultura_de_la_cancelación]]`, `[[imaginación_creativa]]`, `[[literatura_moderna]]`, `[[mártires]]`. Aumenta su conteo `[[problema_del_mal]]` (4→5). 2026-08-16 — Resúmenes 16-31 de Formación religiosa de jóvenes -- Tihamer Toth (FRD). 10 huérfanos nuevos sembrados (ver sección «Sembrados por los resúmenes de Formación religiosa de jóvenes -- Tihamer Toth»): `[[alegría_espiritual]]`, `[[confesión_frecuente]]`, `[[contracepción]]`, `[[defecto_dominante]]`, `[[escrúpulos]]`, `[[gracia_sanativa]]`, `[[maría]]`, `[[moral_católica]]`, `[[reato_de_pena_temporal]]`, `[[santidad_de_vida]]`. Aumentan su conteo los ya registrados `[[historia_de_la_iglesia]]` (3→5), `[[imitación_de_cristo]]` (2→4) y `[[padres]]` (1→2).**
-> Total de wikilinks huérfanos registrados: **1563** (pendientes de artículo; detector 2026-08-14, excluido el falso positivo `[[concepto]]`;WoF-3 introduce 9 huérfanos nuevos: `[[blas_pascal]]`, `[[nietzsche]]`, `[[nones]]`, `[[periferias]]`, `[[micro_moralidad]]`, `[[macro_moralidad]]`, `[[evangelización_digital]]` (ya creado), `[[videojuegos]]` (ya creado), `[[aristóteles]]` (ya creado); 7 artículos nuevos creados: san_isidoro_de_sevilla, fulton_sheen, george_orwell, robert_barron, evangelización_digital, videojuegos, aristóteles; 2026-08-13: CBL introduce 3 huérfanos nuevos; 2026-08-14: 1 resuelto por renombrado de preexistencia_de_cristo → preexistencia_del_verbo; 2026-08-14: CEC Lote 1 introduce 2 huérfanos nuevos; 2026-08-14: CEC Lote 2 introduce 21 huérfanos nuevos; 2026-08-14: CEC Lote 3 introduce 16 huérfanos nuevos; 2026-08-14: se retira `[[templo_de_jerusalen]]` del registro del Lote 2 por no ser huérfano — existe `wiki/conceptos/templo_de_Jerusalén.md`)
-> Resueltos: 35+29+11+14+19+6+1 (6 en 2026-07-15/16 — ver sección final; 26 por re-auditoría 2026-08-01; 3 por BMV 2026-08-03; 29 por alta densidad 2026-08-03; 11 por alta densidad 2ª tanda 2026-08-03; 14 por alta densidad 3ª tanda 2026-08-03, neto −11; 19 por alta densidad 4ª tanda 2026-08-04; 6 por limpieza de paréntesis 2026-08-04, neto −5 por el re-sembrado de `[[respuesta_divina]]`; 1 por normalización de nombres con paréntesis 2026-08-08)
+> Última actualización: **2026-08-23 — Procesamiento de Evangelization & Culture n.º 10 «Freedom» (EAC-10). 12 huérfanos nuevos sembrados (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 10 «Freedom»»): `[[virtud_de_la_estudia]]`, `[[icono]]`, `[[duc_in_altum]]`, `[[sello_de_la_confesion]]`, `[[santa_teresa_de_ávila]]`, `[[vida_intelectual]]`, `[[paternidad_divina]]`, `[[oracion_poetica]]`, `[[revelación_progresiva]]`, `[[belleza_bondad_verdad]]`, `[[formación_en_la_fe]]`, `[[ideología]]`. 2026-08-23 — Procesamiento de Evangelization & Culture n.º 9 «Poetry» (EAC-9). 3 huérfanos nuevos sembrados (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 9 «Poetry»»): `[[conversión_cristiana]]`, `[[dana_gioia]]`, `[[milagros_de_jesús]]`. 2026-08-22 — Procesamiento de Evangelization & Culture n.º 8 «Humor» (EAC-8). 6 huérfanos nuevos sembrados (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 8 «Humor»»): `[[ocio]]`, `[[amor_sacrificial]]`, `[[cultura_de_la_cancelación]]`, `[[imaginación_creativa]]`, `[[literatura_moderna]]`, `[[mártires]]`. Aumenta su conteo `[[problema_del_mal]]` (4→5). 2026-08-16 — Resúmenes 16-31 de Formación religiosa de jóvenes -- Tihamer Toth (FRD). 10 huérfanos nuevos sembrados (ver sección «Sembrados por los resúmenes de Formación religiosa de jóvenes -- Tihamer Toth»): `[[alegría_espiritual]]`, `[[confesión_frecuente]]`, `[[contracepción]]`, `[[defecto_dominante]]`, `[[escrúpulos]]`, `[[gracia_sanativa]]`, `[[maría]]`, `[[moral_católica]]`, `[[reato_de_pena_temporal]]`, `[[santidad_de_vida]]`. Aumentan su conteo los ya registrados `[[historia_de_la_iglesia]]` (3→5), `[[imitación_de_cristo]]` (2→4) y `[[padres]]` (1→2).**
+> Total de wikilinks huérfanos registrados: **1565** (pendientes de artículo; detector 2026-08-14, excluido el falso positivo `[[concepto]]`;WoF-3 introduce 9 huérfanos nuevos: `[[blas_pascal]]`, `[[nietzsche]]`, `[[nones]]`, `[[periferias]]`, `[[micro_moralidad]]`, `[[macro_moralidad]]`, `[[evangelización_digital]]` (ya creado), `[[videojuegos]]` (ya creado), `[[aristóteles]]` (ya creado); 7 artículos nuevos creados: san_isidoro_de_sevilla, fulton_sheen, george_orwell, robert_barron, evangelización_digital, videojuegos, aristóteles; EAC-9 introduce 3 huérfanos nuevos (2026-08-23): `[[conversión_cristiana]]`, `[[dana_gioia]]` (resuelto el mismo día con la creación de `wiki/personas/dana_gioia.md`), `[[milagros_de_jesús]]`; EAC-10 introduce 12 huérfanos nuevos (2026-08-23): ver sección correspondiente; 7 artículos nuevos creados: san_isidoro_de_sevilla, fulton_sheen, george_orwell, robert_barron, evangelización_digital, videojuegos, aristóteles; 2026-08-13: CBL introduce 3 huérfanos nuevos; 2026-08-14: 1 resuelto por renombrado de preexistencia_de_cristo → preexistencia_del_verbo; 2026-08-14: CEC Lote 1 introduce 2 huérfanos nuevos; 2026-08-14: CEC Lote 2 introduce 21 huérfanos nuevos; 2026-08-14: CEC Lote 3 introduce 16 huérfanos nuevos; 2026-08-14: se retira `[[templo_de_jerusalen]]` del registro del Lote 2 por no ser huérfano — existe `wiki/conceptos/templo_de_Jerusalén.md`)
+> Resueltos: 35+29+11+14+19+6+1 (6 en 2026-07-15/16 — ver sección final; 26 por re-auditoría 2026-08-01; 3 por BMV 2026-08-03; 29 por alta densidad 2026-08-03; 11 por alta densidad 2ª tanda 2026-08-03; 14 por alta densidad 3ª tanda 2026-08-03, neto −11; 19 por alta densidad 4ª tanda 2026-08-04; 6 por limpieza de paréntesis 2026-08-04, neto −5 por el re-sembrado de `[[respuesta_divina]]`; 1 por normalización de nombres con paréntesis 2026-08-08; +1 el 2026-08-23: `[[dana_gioia]]` resuelto con la creación de su artículo en `wiki/personas/`)
 
 ## Metodología
 
@@ -2331,7 +2331,62 @@ Huérfano ya registrado que aumenta su conteo:
 |----------|---------------|---------------|------|
 | `[[problema_del_mal]]` | 4 | 5 | Nuevo en viktor_frankl (EAC-8, archivo 15) |
 
+## Sembrados por el procesamiento de Evangelization & Culture n.º 9 «Poetry» (2026-08-23)
+
+Al procesar la fuente EAC-9 (22 archivos) se sembraron intencionalmente los
+siguientes wikilinks sin artículo (forward references). Su contenido está
+tratado en `wiki/documentos/evangelization_and_culture_issue_9_poetry.md`,
+en los artículos nuevos ([[poesía]], [[mysterium_tremendum_et_fascinans]],
+[[teología_negativa]], [[verdadero_y_falso_yo]], [[summum_bonum]],
+[[memento_mori]]), las personas creadas ([[gerard_manley_hopkins]],
+[[virgilio]], [[william_faulkner]], [[bob_dylan]],
+[[santa_brígida_de_kildare]], [[vittoria_colonna]], [[jacques_maritain]])
+y los resúmenes en `wiki/Resúmenes/Evangelization and culture - 9/`:
+
+| Wikilink | Referencias | Ubicación |
+|----------|-------------|-----------|
+| `[[conversión_cristiana]]` | 3 | 17_the_journey_of_cory_mendenhall, summum_bonum, verdadero_y_falso_yo |
+| `[[dana_gioia]]` ✅ resuelto 2026-08-23 | 1 | evangelization_and_culture_issue_9_poetry (persona: poeta, ex-presidente NEA) — artículo creado: `wiki/personas/dana_gioia.md` |
+| `[[milagros_de_jesús]]` | 1 | 18_southern_sacramental__miracle («Miracle» de Heaney, Mc 2) |
+
+Nota: ningún huérfano ya registrado aumenta su conteo con EAC-9. Los
+huérfanos intencionales del índice de la fuente (`rudolf_otto`,
+`etienne_gilson`, etc.) ya figuraban en el registro de procesamientos
+previos o quedan cubiertos por artículos existentes.
+
 Correcciones aplicadas durante la auditoría (evitaron huérfanos falsos):
 `[[gloria_de_Dios]]` → `[[gloria_de_dios]]` (providencia_divina) y
 `[[doctrina_social]]` → `[[doctrina_social_de_la_iglesia]]`
 (evangelization_and_culture).
+
+## Sembrados por el procesamiento de Evangelization & Culture n.º 10 «Freedom» (2026-08-23)
+
+Al procesar la fuente EAC-10 (19 archivos) se sembraron intencionalmente los
+siguientes wikilinks sin artículo (forward references). Su contenido está
+tratado en `wiki/documentos/evangelization_and_culture_issue_10_freedom.md`,
+en los artículos nuevos ([[dictadura_del_relativismo]], [[ocio_sagrado]],
+[[libertad_de_prensa]]), las personas creadas ([[whittaker_chambers]],
+[[alfred_hitchcock]], [[jane_austen]], [[john_stuart_mill]],
+[[san_juan_maría_vianney]], [[santa_isabel_ana_seton]], [[romano_guardini]],
+[[zena_hitz]]) y los resúmenes en `wiki/Resúmenes/Evangelization and culture - 10/`:
+
+| Wikilink | Referencias | Ubicación |
+|----------|-------------|-----------|
+| `[[virtud_de_la_estudia]]` | 1 | 12_reading_to_see_the_fullness_of_things, lectura_espiritual (trabajo intelectual del alma) |
+| `[[icono]]` | 2 | evangelization_and_culture_issue_10_freedom, 12_reading_to_see..., lectura_espiritual (Marion: el icono nos mira) |
+| `[[duc_in_altum]]` | 1 | 15_the_journey_of_rachel_bulman, evangelization_and_culture_issue_10_freedom (echarse al agua) |
+| `[[sello_de_la_confesion]]` | 2 | alfred_hitchcock, 04_hitchcocks_i_confess... (sello sacramental) |
+| `[[santa_teresa_de_ávila]]` | 1 | 02_the_freedom_of_edith_stein__zena_hitz (conversión de Stein vía su autobiografía) |
+| `[[vida_intelectual]]` | 1 | zena_hitz (Lost in Thought; aprendizaje interior) |
+| `[[paternidad_divina]]` | 1 | 15_the_journey_of_rachel_bulman (padres primer rostro de Dios) |
+| `[[oracion_poetica]]` | 1 | índice EAC-10 (poema «Daily Bread Adorned in Gold» de Becklo) |
+| `[[revelación_progresiva]]` | 1 | 14_contours_of_the_great_story... (Ireneo: Dios educa a sus hijos) |
+| `[[belleza_bondad_verdad]]` | 1 | 17_the_calling_of_catholic_media (anhelo trascendente en la crisis del alma) |
+| `[[formación_en_la_fe]]` | 1 | índice EAC-10 (Clarence Thomas y Myers Anderson) |
+| `[[ideología]]` | 2 | índice EAC-10, dictadura_del_relativismo (la Iglesia como anti-ideología) |
+
+Nota: ningún huérfano ya registrado aumenta su conteo con EAC-10. Los
+huérfanos intencionales del índice de la fuente (`libertad_de_los_hijos_de_dios`,
+`testimonio_cristiano`, etc.) ya figuraban en el registro de procesamientos
+previos o quedan cubiertos por artículos existentes ([[testimonio_cristiano]],
+[[cine]], [[esperanza_cristiana]], [[cristo_rey]], [[amor_de_dios]]).

@@ -41,6 +41,10 @@ Los méritos de Cristo tienen eficacia sobreabundante; nuestra debilidad constit
 
 En sus catequesis cristológicas, Juan Pablo II vincula la misericordia divina con la misión salvífica de Cristo. Los milagros de Jesús son «signos del amor misericordioso» por el que Dios ha enviado a su Hijo para salvar al mundo. El perdón de los pecados, que Jesús ejerce por propia autoridad divina —«El Hijo del hombre tiene poder en la tierra para perdonar los pecados» (Mc 2, 10)—, brota de esa infinita misericordia del Padre manifestada en Cristo. El juicio mismo, lejos de ser fría justicia o venganza, «aparece como el último anillo del amor de Dios: Dios juzga porque ama y en vistas al amor» [CrSJP, Catequesis 30]. La parábola de los dos deudores (Lc 7, 41-43) enseña que el perdón misericordioso suscita el amor agradecido: «Le son perdonados sus muchos pecados, porque amó mucho» [CrSJP, Catequesis 31].
 
+### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
+
+**La mujer sorprendida en adulterio (Jn 8).** Tríptico «Christ Sightings» de Angela Alaimo O'Donnell (ii. The Mount of Olives): «Ella no habló. Las mujeres nunca son creídas cuando lo hacen»; se plantó para ser juzgada, sin buscar misericordia de esos hombres; Él se agachó y escribió en la arena sus nombres y junto a cada uno sus pecados, cada falta diaria, cada deuda; «Uno a uno se fueron los pecadores».
+
 ## Distinciones importantes
 
 - Misericordia divina vs. justicia divina: no se oponen, sino que se complementan en el plan salvífico de Dios.

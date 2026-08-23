@@ -35,6 +35,14 @@ El concepto de paradigma tecnocrático fue desarrollado sistemáticamente por el
 
 **La absolutización de una facultad rompe la armonía (§113).** Así como en un ecosistema la armonía se rompe cuando una especie prolifera en detrimento de las demás, en lo humano ocurre lo mismo cuando una facultad pretende ser la medida de todo. La inteligencia absolutizada vela otras dimensiones esenciales: el afecto, la voluntad, la entrega y la relación. El poder técnico no equilibrado nos aísla y nos expone a lógicas de dominio y exclusión.
 
+### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
+
+**Resistencia espiritual al dominio técnico.** *Laudato Si'* 111: «Hace falta una manera peculiar de mirar las cosas… una espiritualidad que genere resistencia al intento de dominación técnica sobre el conjunto de la existencia»; Octavio Paz: «La poesía es el antídoto de la tecnología y del mercado»; ten Boom: «Si el diablo no puede hacernos malos, nos hará ocupados»; hacer café despacio como estado meditativo: resistencia pequeña contra los poderes del mal.
+
+**Crisis de atención y dignidad (DFW).** «El agua en la que nadamos»: ociosidad destruida, atención destrozada, entendimiento degradado de los bienes humanos; la dignidad de la persona se reduce radicalmente cuando miramos a otros primero como «recurso humano» (horas laborables, ingresos, clics); devaluación de la vida interior: si una experiencia no es comunicable a todos, «no puede pertenecer legítimamente a nadie».
+
+**El poeta católico como contrapunto.** Exponente de una tradición que insiste en el valor del silencio, la atención y la paz frente al ruido: habla poderosamente a esta situación; actos de poesis que rehusen reducir la particularidad humana y sostengan la dignidad enraizada en la vida del espíritu.
+
 ## Distinciones importantes
 
 - **Técnica como herramienta** vs. **técnica como paradigma**: la técnica en sí misma es un hecho profundamente humano y puede servir al desarrollo integral; el paradigma tecnocrático surge cuando la lógica técnica se vuelve criterio absoluto y autónomo, sin referencia a la dignidad de la persona ni al bien común.

@@ -35,6 +35,18 @@ El Papa afirma que «el sufrimiento capacita para la santidad, dado que encierra
 
 Juan Pablo II, en su Carta Apostólica *Salvifici Doloris* (1984), enseña que el sufrimiento tiene una dimensión cristológica: «El hombre sufre cuando no puede amar» [SD §20]. El sufrimiento de Cristo en la Cruz es la fuente de todo sufrimiento redentor: «Cristo ha abierto su propio sufrimiento al hombre para que éste pueda participar en él» [SD §19]. El sufrimiento «convierte en bien todo lo que hay de malo en la experiencia humana» [SD §27].
 
+### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
+
+**Sufrimiento con propósito (Eneida).** Cada pérdida sirve a la misión; el discurso de Eneas: «Peor que esto habéis sufrido; Dios pondrá fin también a esto… algún día quizá hasta serán cosas dignas de recordarse», dicho con el corazón «enfermo de angustia»; el [[summum_bonum]] ordena el sufrimiento sin eliminarlo.
+
+**El escudo de Eneas.** No el mundo bello del escudo de Aquiles, sino «la larga y violenta historia de Roma»: el sufrimiento como proceso fundacional; Eneas responde ante Dios por su parte en ella.
+
+**Lamento paterno (2 Sm 18).** El suicidio de Neil Perry hace ecoar el lamento de David por Absalón: «¡Oh, hijo mío… hijo mío, pobre hijo mío!»: fragilidad de la vida y finalidad de la muerte.
+
+**Paradoja de la tristeza (Holyoak).** Los escalofríos estéticos son altamente placenteros, pero ¡la tristeza dispara más escalofríos que la alegría!: los poemas que evocan tristeza resultan especialmente eficaces; Stevenson: «Casa está el marino, casa desde el mar».
+
+**Moisés purgado antes de la misión (Ex 2).** Príncipe acostumbrado a que todo salga a su manera; mata al egipcio sin prudencia; huida a Madián como proceso de purgación (como Abraham, Jacob, José, Pablo): vida humilde pastoreando rebaños; Gershom: «forastero he sido en tierra extranjera». Véase [[purificación_del_corazón]].
+
 ## Distinciones importantes
 
 - **Sufrimiento redentor vs. sufrimiento inútil**: el sufrimiento tiene valor cuando se une a Cristo; sin esta unión es solo padecer

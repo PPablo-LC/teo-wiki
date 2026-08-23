@@ -59,6 +59,12 @@ Thomas O'Loughlin, en *The Rites and Wrongs of Liturgy: Why Good Liturgy Matters
 
 La *Institutio Generalis Missalis Romani* (edición típica revisada del año 2000) es la prolongación orgánica de la Constitución *Sacrosanctum Concilium* del Concilio Vaticano II, que estableció los principios de la reforma litúrgica. La IGMR recoge y desarrolla esos principios en la práctica concreta de la celebración (§1-7). El desarrollo orgánico de las formas litúrgicas no puede prescindir de la tradición viva de la Iglesia; las formas nuevas deben nacer del ya existente, por reforma orgánica, y no por invención arbitraria (§398).
 
+### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
+
+**Cantar es cosa de enamorados.** San Agustín citado vía Ratzinger (*Espíritu de la liturgia*, 142): la montaña de himnos y poemas irlandeses como prueba del amor del pueblo; la poesía como materia viva de la oración de la Iglesia.
+
+**Arquitectura litúrgica.** Las catedrales «fueron construidas con la intención específica de ser casas de Dios y elevar nuestra atención más allá del mundo material» (Mendenhall): arcos volados, escultura, velas parpaderantes, incienso producen quietud sagrada incluso en el visitante sin fe explícita.
+
 ## Ver también
 
 [[sacramentos]], [[eucaristía]], [[oración_litúrgica]], [[iglesia_cuerpo_místico]], [[sacramentales]]

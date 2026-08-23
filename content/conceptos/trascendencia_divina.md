@@ -59,6 +59,16 @@ El CompDS aborda la trascendencia desde la perspectiva de la persona humana: la 
 
 La persona humana no puede ni debe ser instrumentalizada por las estructuras sociales, económicas y políticas, porque todo hombre posee la libertad de orientarse hacia su fin último. Toda realización cultural, social, económica y política debe considerarse siempre en su aspecto de realidad relativa y provisional, porque « la apariencia de este mundo pasa » (§48). Cualquier visión totalitaria de la sociedad y del Estado y cualquier ideología puramente intramundana del progreso son contrarias a la verdad integral de la persona humana y al designio de Dios sobre la historia (§48).
 
+### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
+
+**Invitación y distanciamento (zarza ardiente).** Moisés quiere examinar: «Debo apartarme y ver»; «¡No te acerques! Quita las sandalias de tus pies, porque el lugar en que estás, suelo santo es» (Ex 3,5): ritmo divino característico; la inmanencia sagrada atrae, la trascendencia sagrada impide acercarse intrusivamente; deben ponerse abajo las herramientas de voluntariedad e intelecto.
+
+**Yo soy el que soy (Ex 3,14).** Ante la pregunta de Moisés, la respuesta no describe una realidad entre muchas: especie de no-respuesta, rechazo a entrar en la red de la mente que Moisés tiende. Véase [[yo_soy]].
+
+**Tan bajo y tan alto.** «Dios es tan bajo como para estar presente en gracia salvadora a los esclavos en Egipto, y tan alto como para ser incapturable por cualquier nombre»: en el barro con los más pobres y en el reino más allá de las nubes.
+
+**El oso que no queda atrapado ni esquivado.** Old Ben figura del Misterio: «Dios siempre es visto y no visto, disponible pero siempre esquivo»; el objetivo de la ciencia ilustrada (dominio por conocimiento) es irreconciliable con el conocer espiritual: ser agarrado por el fundamento mismo de la razón.
+
 ## Distinciones importantes
 
 La trascendencia divina no equivale a deísmo (Dios ausente del mundo) ni la inmanencia divina a panteísmo (Dios identificado con el mundo). Ambas verdades se mantienen simultáneamente: Dios es íntimo a cada criatura sin confundirse con ella, y la supera infinitamente sin estar ausente de ella.

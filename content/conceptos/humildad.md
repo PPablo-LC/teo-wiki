@@ -125,6 +125,14 @@ El número dedicado al humor presenta la risa de uno mismo como ejercicio privil
 - **Chesterton sobre solemnidad y gravedad:** «Pride is the downward drag of all things into easy solemnity… Seriousness is not a virtue… Solemnity flows out of men naturally, but laughter is a leap. It is easy to be heavy, hard to be light. Satan fell by the force of gravity». La ligereza humilde es salto ascendente.
 - **La risa que libera:** «[La risa] descongela el orgullo y desenrolla el secretismo; olvida al hombre ante algo mayor que él» (Chesterton, «Laughter»).
 
+### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
+
+**María contraejemplo de toda soberbia (Dante).** En el Purgatorio María se propone como contraste ante cada pecado purgado; frente a la soberbia, la Anunciación: «hágase en mí según tu palabra»; responde a la exigencia soberbia «que toda la realidad gire alrededor de mí» con «que mi ego gire en torno a lo que Tú quieres, Señor»; «la humildad es el corazón del Padrenuestro y la clave de la felicidad: hecha esa jugada, todo lo demás es pie de página».
+
+**«Todavía no has mirado bien» (Faulkner).** Sam Fathers al joven Ike: destreza consumada, huella hallada, pero el oso no aparece; «Todavía no has mirado bien… Probablemente te ha estado observando»; elección entre la seguridad de la escopeta y la experiencia de ver al oso de cerca: paciencia y humildad como virtudes gemelas del conocimiento espiritual.
+
+**Humildad intelectual (Mendenhall).** «Descubrir verdaderamente el cristianismo requiere cierta madurez y humildad»; la arrogancia juvenil («opio de los pueblos») ofrece sensación de superioridad intelectual que impide ver.
+
 ## Distinciones importantes
 
 - **Humildad vs. magnanimidad**: no son opuestas sino complementarias; una inclina hacia abajo (conteniendo el apetito desordenado), la otra hacia arriba (empujando a empresas grandes por Dios)

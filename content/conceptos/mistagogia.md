@@ -37,6 +37,14 @@ El RICA (1972) restaura la mistagogia como etapa del [[catecumenado]]. Después 
 
 Los Padres de la Iglesia son los maestros de la mistagogia por excelencia. San Cirilo de Jerusalén (siglo IV) impartió sus célebres Catequesis Mistagógicas a los neófitos durante la octava de Pascua, explicándoles los ritos del bautismo, la confirmación y la eucaristía a la luz de la Escritura. San Ambrosio de Milán, en sus tratados De Sacramentis y De Mysteriis, sigue el mismo método: parte del rito vivido para remontarse al misterio que significa. Teodoro de Mopsuestia, en sus Catequesis, desarrolla una explicación tipológica de la liturgia bautismal y eucarística. Para todos ellos, la mistagogia no es una explicación teórica previa sino una «post-celebración» que ilumina desde dentro la experiencia litúrgica ya recibida.
 
+### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
+
+**Sam Fathers, mistagogo.** Ike McCaslin entra al campamento «como un novicio en una comunidad religiosa»; Sam Fathers será su mistagogo en los caminos de la cacería; aprende que «paciencia y humildad» son esenciales; siente que «asiste a su propio nacimiento»; el oso viene cada año «a ver quién está aquí»: el cazado resulta ser también cazador, mirando «sin ser visto» desde las sombras.
+
+**Catedrales como mistagogía arquitectónica (Mendenhall).** «Esos lugares sagrados estaban haciendo exactamente lo que fueron diseñados para hacer»: arcos volados, escultura, velas parpadeantes, incienso producen «una quietud que no podía nombrar ni entender, pero disfrutaba y ansiaba».
+
+**Dante como programa mistagógico.** La Comedia: «programa espiritual profundamente católico para gente perdida»; la sucesión de guías (razón → teología → mística → María) pretende «entregarte finalmente a una experiencia de Dios».
+
 ## Distinciones importantes
 
 - **Catequesis prebautismal vs. mistagogia posbautismal**: la primera prepara la fe del catecúmeno; la segunda profundiza en el misterio celebrado

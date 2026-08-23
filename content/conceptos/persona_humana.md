@@ -61,6 +61,12 @@ El alma humana, por ser espiritual, es inmortal. La unión del alma con el cuerp
 [TPCr, Parte II — El Organismo Sobrenatural y la Perfección Cristiana]
 
 
+### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
+
+**Contra la reducción a «recurso humano».** La dignidad de la persona se reduce radicalmente cuando miramos a otros primero como horas laborables, ingresos, clics; devaluación de la vida interior: si una experiencia no es comunicable a todos, «no puede pertenecer legítimamente a nadie» (David Foster Wallace: «el agua en la que nadamos»).
+
+**Humanismo integral (Wilson/Maritain).** El poema muestra la bondad y la radical incompletitud de lo humano: la dignidad de la criatura halla su centro y justificación viajando «verticalmente» hacia lo divino; esto es lo que todo «humanismo integral» debe hacer (Maritain); «iniciándonos en las cosas como misterio inteligible, la poesía humaniza».
+
 ## Distinciones importantes
 
 - **Persona** ≠ **individuo**: la persona es un individuo de naturaleza racional con dignidad intrínseca.

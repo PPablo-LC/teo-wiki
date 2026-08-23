@@ -195,6 +195,16 @@ Pío V condenó los errores de Bayo sobre la caridad (D‑1031–D‑1034, D‑1
 
 **D‑1524**: En cuanto entre la concupiscencia dominante y la caridad dominante no se pone ningún afecto medio laudable (inserto por la naturaleza misma, como el amor de la bienaventuranza y la natural propensión al bien), «como si entre el amor divino que nos conduce al reino y el amor humano ilícito no se diera el amor humano lícito». Condenada como falsa y otras veces condenada.
 
+### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
+
+**Caridad entre órdenes religiosas (Dante).** Bonaventura (franciscano) narra la vida de Santo Domingo; Tomás de Aquino (dominico) narra la vida de San Francisco de Asís, pese a la rivalidad franciscano-dominica: «simplemente caritativo y hermoso: así es la vida en el cielo».
+
+**Los portadores del milagro (Heaney).** «Miracle» celebra no al paralítico que anda, sino «los que lo han conocido siempre / y lo cargan — hombros entumecidos, dolor y encorvamiento clavados en sus espaldas… hasta alzarlo al tejado de tejas y bajarlo para la curación»; «Acuérdate de ellos mientras esperan de pie / a que enfríe la quemadura de las cuerdas pagadas»: la caridad anónima que hace posible el milagro ajeno.
+
+**Santa Brígida de Kildare.** Repartía mantequilla a pobres y huéspedes «prefiriendo obedecer a Dios antes que a los hombres»; multiplicación prodigiosa; espada del padre regalada a un mendigo; hospitalidad escatológica gozosa.
+
+**Cuidado fraterno en las periferias (P. Joel Kelly OSB).** Capellán que cuidó cuerpos y almas hasta la muerte (ELA); gratitud sin voz, sanación por presencia y escucha.
+
 ## Analizado para
 
 [[pascasio_quesnel]], [[unigenitus]]

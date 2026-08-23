@@ -31,6 +31,14 @@ El testimonio del fiel laico nace de un don de gracia, reconocido, cultivado y l
 El apostolado es exigencia de la catolicidad de la Iglesia y la vocación cristiana es esencialmente vocación al apostolado. Los laicos están llamados a evangelizar el mundo, participando de la misión profética de Cristo. El testimonio cristiano brota de la unión vital con Cristo.
 
 
+### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
+
+**La monja testigo del naufragio (Hopkins).** La monja alta, «leona», grita como testigo en la tormenta: «¡Cristo, ven pronto!»; «hubo ojo único! … Leyó la noche de choque informe / Y supo el quién y el porqué»: la noticia del Times transformada en Buena Noticia.
+
+**Una ciudad sin testimonio (Gioia/Hren).** La compartimentación de los poetas = sordera ensordecedora: «una ciudad desprovista de profecía y testimonio»; William Carlos Williams: «Es difícil obtener la noticia de los poemas, sin embargo los hombres mueren miserablemente cada día por falta de lo que allí se encuentra».
+
+**Presencia testimonial (P. Joel Kelly OSB).** Monje benedictino capellán de periferias, muerto en 2020 de ELA: sanación por presencia y escucha; cuidado fraterno hasta el final.
+
 ## Distinciones importantes
 - Testimonio de palabra ≠ testimonio de vida: el primero es el anuncio explícito, el segundo es la coherencia de vida
 - Testimonio ordinario (vida cristiana cotidiana) ≠ testimonio heroico (martirio)

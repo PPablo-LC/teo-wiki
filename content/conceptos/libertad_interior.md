@@ -2,14 +2,14 @@
 type: Concepto Teológico
 title: Libertad interior
 tags: ["teología_espiritual", "ascética"]
-timestamp: 2026-06-28
+timestamp: 2026-08-23
 description: "La libertad interior es la capacidad de la persona para obrar según la verdad del propio ser, libre de apegos, complejos y miedos, para poder entregarse generosamente a Dios y al prójimo."
 ---
 
 # Libertad interior
 
 > Área: Teología espiritual / Ascética
-> Última actualización: 2026-06-28
+> Última actualización: 2026-08-23
 
 ## Definición
 
@@ -32,6 +32,13 @@ La libertad interior se manifiesta en dos direcciones:
 «Solo un corazón libre puede amar en plenitud y solo el que se sabe amado emprende el camino hacia la liberación de lo que le impide responder con amor» (CVV §215). Para alcanzar esta libertad no puede prescindirse de la ascesis cristiana y el combate espiritual (CVV §215, citando VC 38).
 
 San Pablo es modelo de hombre interiormente libre: «Para mí lo de menos es que me pidáis cuentas vosotros o un tribunal humano; ni siquiera yo me pido cuentas» (1Cor 4,3-4). «El legionario que es interiormente libre se reconoce por ser firme sin rigidez, suelto sin arrogancia, sencillo sin timidez» (CVV §217). El sentido del humor respecto de uno mismo, dejar a Dios ser Dios y no tomarse tan en serio ayudan a alcanzar esta libertad (CVV §218).
+
+### Según Evangelization & Culture n.º 10 «Freedom» (EAC-10)
+
+- **Elizabeth Scalia («The Liberated Mind in an Unfree Age»):** la mente liberada como espacio de la libertad interior en la era de la dictadura del relativismo: el cerebro como portal de la libertad — lo que dejamos entrar y lo que no; el auto-conocimiento cristiano (Kierkegaard) frente al yo fabricado; los santos como mentes más libres que sus carceleros: Tomás Moro escribiendo con humor en la Torre, Maximiliano Kolbe ofreciendo su vida en Auschwitz, las mártires de Compiègne cantando hasta el patíbulo.
+- **Hermanas de la Vida («Darkness Is Not Dark to You»):** la interior libertad independiente de las circunstancias externas: Juan de la Cruz en su celda-prisión, Tomás Moro, Wojtyła dirigiendo teatro clandestino bajo la ocupación nazi; el grabado del Jesús Misericordioso hecho por Stefan Jasieński en la celda 21 de Auschwitz (Is 49,16: «te llevo grabado en las palmas de mis manos») testimonia que ni la oscuridad material puede oscurecer el alma que mora en Dios.
+- **Zena Hitz sobre Edith Stein:** la libertad liberal no basta; Stein buscó la «libertad cristiana de la renuncia total», hallada en el Carmelo y sellada en Auschwitz: «Vamos, vamos por nuestro pueblo»; nada podrá separarnos del amor de Cristo (Rm 8,35-39).
+- **Hna. Mary Madeline Todd OP:** «el acto más libre no es el más autónomo sino el más donante»: la libertad interior se perfecciona cuando la voluntad, ordenada a lo verdaderamente bueno, puede entregarse sin reservas.
 
 ## Distinciones importantes
 

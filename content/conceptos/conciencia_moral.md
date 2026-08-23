@@ -55,6 +55,16 @@ Wilson explica la distinción entre consciencia y sentimiento moral:
 
 - **Catecismo 1776-1794:** El Catecismo de la Iglesia Católica dedica una sección completa a la «consciencia moral», definiéndola como «el juicio de la razón que indica al obrar concreto lo que debe hacerse o evitarse».
 
+### Según Evangelization & Culture n.º 10 «Freedom» (EAC-10)
+
+Robert P. George («On Liberty and Conscience») contrasta a Newman con Mill y extrae la clave antropológica:
+
+- **«La conciencia tiene derechos porque tiene deberes»** (Newman, *Carta al Duque de Norfolk*, 1875): incluso después de su conversión, Newman brindó «el Papa, sí, pero la conciencia primero». La obligación de seguir la conciencia es primaria e invencible — pero no porque la conciencia sea autónoma en el sentido liberal.
+- **La conciencia no es escritora de permisos:** es el «último mejor juicio» que aplica principios morales que uno capta pero de ningún modo se inventa; identifica los deberes bajo la ley moral; habla de lo que hay que hacer y no hacer. Por eso Newman la llamó **monitor severo** (*a stern monitor*).
+- **Su falsificación moderna:** la conciencia como *self-will* (autovoluntad): asunto de sentimientos, no de razón; departamento de permisos que autoriza lo que uno no se siente mal haciendo. El eslogan que condensa esta falsificación: «Si te sienta bien, hazlo».
+- **Ventaja cristiana sobre Mill:** Newman cree en la caída (pecado original), así que no comparte el optimismo progresista ni el utilitarismo; sabe que la libertad necesita restricciones «para que los hombres no desciendan al vicio», y a la vez que las libertades centrales son condiciones del florecimiento integral de criaturas racionales hechas a imagen de Dios.
+- **Límites:** ni siquiera la conciencia religiosa justifica males graves (sacrificios humanos aztecas, coerción religiosa): la presunción a favor de respetar la libertad es poderosa y amplia pero no ilimitada.
+
 ## Distinciones importantes
 
 - **Consciencia y sentimiento:** La consciencia no es un sentimiento subjetivo, sino un juicio de la razón iluminada por la fe.

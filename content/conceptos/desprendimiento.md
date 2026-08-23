@@ -35,6 +35,16 @@ En los proficientes, el desprendimiento de todas las cosas de la tierra llega m�
 El don de ciencia produce en los santos esa visión profunda sobre la necesidad del desprendimiento absoluto. Para un alma iluminada por este don, la creación es un libro abierto donde descubre sin esfuerzo la nada de las criaturas y el todo del Creador.
 
 
+### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
+
+**Eneas: ataduras que no sean la misión.** El viaje de Eneas como refinamiento del «yo verdadero»; cada pérdida sirve a un propósito mayor: despojarse de ataduras terrenas «no sea que se conviertan en la misión misma»; paralelo con Lc 14,26-27; «la resistencia a la pérdida forma parte del proceso de convertirnos en misión». Véase [[verdadero_y_falso_yo]].
+
+**Renuncia de brújula y arma (Faulkner).** Antes del alba, Ike McCaslin sale sin arma (solo palo contra serpientes), luego cuelga hasta la brújula: despojado de todos los instrumentos de dirección y defensa; debe abandonar «todos aquellos descendientes de los taparrabos del Edén, aquellos instrumentos de protección»; solo, desnudo, sin miedo, el alma se presenta al Misterio.
+
+**Unselfing (Murdoch).** Estar presente = «una mirada justa y amorosa dirigida a una realidad individual», que exige «unselfing»; perder el «yo» para ver; si el yo se impone, se pierde la individualidad, la «thisness» del otro.
+
+**Resistencia pequeña.** Hacer café despacio como estado meditativo: resistencia pequeña contra los poderes del mal; ten Boom: «Si el diablo no puede hacernos malos, nos hará ocupados».
+
 ## Distinciones importantes
 
 - Desprendimiento real: renuncia efectiva a los bienes

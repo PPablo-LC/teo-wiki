@@ -289,6 +289,12 @@ Mons. Munilla desarrolla el elemento del altar y el sagrario de la carta de Leó
 
 **Thompson y Sapier** presentan también a Jesus as the ultimate host at a sacred meal: la Eucaristía como banquete donde Cristo mismo es el anfitrión que invita, alimenta y comunica su propia vida a los comensales, realizando la plenitud de la hospitalidad divina.
 
+### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
+
+**Adoración eucarística (Colonna).** Soneto n.º 58: «La reverencia me detiene, pero el gran amor me urge a tomar a mi Dios bajo mi pobre techo, indigna aunque sea; y lo adoro en el Santo Sacramento, donde la fe se agita más allá del sentido, y la mente incrédula se purga de su incredulidad»; «Te vuelves parte de mí y, lentamente, la frontera entre tú y yo empieza a disolverse hasta vernos cara a cara»: anticipación de la visión beatífica.
+
+**El campesino de Ars (CEC 2715).** Citado por Barron en su lectura de Faulkner: «Lo miro a él y él me mira a mí»: la reciprocidad de la mirada ante el Sagrario como condición de nuestro encuentro con Dios.
+
 ## Distinciones importantes
 
 - **Transubstanciación**: cambio de sustancia, permaneciendo los accidentes
@@ -354,6 +360,16 @@ El Santo Sacrificio no es solo el recuerdo de un acontecimiento pasado, sino un 
 ### Según el Pórtico de la Biblia (PdB)
 
 La infografía de la primera carta a los Corintios del PdB señala que san Pablo transmite un contenido doctrinal importante «acerca de la institución de la Eucaristía, su carácter sacrificial y su relación con la Iglesia, y la presencia real de Cristo bajo las especies del pan y del vino». En el material de Tierra Santa que acompaña a la obra, la Eucaristía —la «Fracción del Pan»— aparece junto a la Sagrada Escritura como lugar privilegiado del encuentro con Jesús resucitado, al hilo del episodio de los discípulos de Emaús (Lc 24) [PdB, Presentación].
+
+### Según Evangelization & Culture n.º 10 «Freedom» (EAC-10)
+
+El testimonio de Rachel Bulman añade la dimensión existencial de la adoración:
+
+- **La mirada del amor auténtico:** citando al campesino del Cura de Ars (CEC 2715): «Yo lo miro y él me mira». La mirada del amor auténtico es simultáneamente invitante y alarmante: ¿cómo puede el Dios del universo amarme tanto y pedirme tan poco?
+- **Diagnóstico de la duda eucarística:** a quien duda sobre la Eucaristía hay que invitarle a orar por la razón de su incertidumbre: «o dudas de tu capacidad para creerlo o del amor que contiene».
+- **Fuente y cumbre:** es la manera en que nuestra humanidad queda unida a la divinidad de Cristo; de ella recibimos sustento y fuerza, y hacia ella caminamos: «En cada tabernáculo del mundo te espera. Permanece con nosotros, como prometió, hasta el fin de los siglos».
+- **La reverencia sigue a la verdad:** si esto es realmente el Cuerpo de Cristo, entonces nuestro acercamiento, postura y culto deben reflejar esta verdad.
+- **El anhelo como pedagogía:** durante el RCIA, sentada en el banco llorando porque aún no podía recibir; la primera vez apenas pudo pronunciar el «Amén», sobrecogida.
 
 ## Analizado para
 

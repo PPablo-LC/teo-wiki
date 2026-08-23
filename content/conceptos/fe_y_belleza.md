@@ -41,6 +41,14 @@ Benedicto XVI desarrolló la *via pulchritudinis* como una de las tres vías de 
 
 **La belleza y la fe como «gran ambos»** (Rozann Lee, §14): La fe católica no elige entre verdad y amor sino que los integra: «Verdad y amor igualmente vinculados; Catolicismo como totalidad, no como extremos.» La belleza es la dimensión que permite esta integración: la verdad se manifiesta en la belleza, y la belleza atrae hacia la verdad.
 
+### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
+
+**Hopkins: el mundo cargado de gloria.** «El mundo está cargado con la grandeza de Dios»: el *instress*, carga eléctrica de la belleza divina en montaña, río y paisaje marino; «Pied Beauty» celebra la belleza moteada de la creación (vacas, truchas, castañas, alas de pinzones): estamos cargados de proclamar esa belleza agradeciendo al Creador; brilla «como destello de oro batido» o se reúne gota a gota como aceite de prensa.
+
+**Crítica de Dorian Gray (Wilson).** El amor especializado de la belleza sirve mal a las cosas bellas: las aísla de la plenitud de la realidad (verdad y bondad) y pervierte el amor a la belleza en narcisismo autoencerrante; la poesía, en cambio, une verdad, bondad y belleza.
+
+**El frisson estético (Holyoak).** Escalofríos con piel de gallina como signo corporal de ser conmovido; áreas cerebrales cercanas (no idénticas) a las de la música; el estriado dorsal responde también a reforzadores biológicos: los placeres estéticos descansan en estructuras cerebrales antiguas ligadas a la supervivencia.
+
 ## Distinciones importantes
 
 | Concepto | Diferencia |

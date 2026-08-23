@@ -37,6 +37,18 @@ La misión a los judíos incluye la belleza del mismísimo Dios, cuya faz se rev
 
 Dilley presenta el *eros* como fuerza de vida en diálogo con la belleza: el deseo, el apetito y la fama se comprenden a la luz de la Belleza divina como orientación última de todo anhelo humano.
 
+### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
+
+**El frisson estético (Holyoak).** «Escalofríos» con piel de gallina, signo corporal de ser conmovido por una experiencia estética; fiables tanto con poemas elegidos por el participante como por los experimentadores; mayoría de participantes no iniciados también los sienten; los placeres estéticos descansan en estructuras cerebrales antiguas ligadas a la supervivencia; metro y rima guían hacia puntos de cierre donde el placer es máximo.
+
+**Defensa de lo bello (Wieseltier).** Sostener las humanidades es sostener el honor de una civilización fundada en la búsqueda de lo verdadero, lo bueno y lo bello; mientras seamos criaturas que piensan, sienten, aman, imaginan, sufren y mueren, las humanidades nunca serán prescindibles.
+
+**Los santos, reflejo de la Belleza singular.** «Los santos son el reflejo luminoso y el testimonio atrayente de la belleza singular de Cristo» (*Via Pulchritudinis*): Brígida de Kildare como arquetipo.
+
+**Metro como elevación.** El metro no decora el lenguaje sino que lo eleva, transformando discurso en canto; sentido amplio de *measure*: proporción cuidadosamente discernida en pintura, arquitectura, novela, cine.
+
+**Auden.** «Cada poema está enraizado en el asombro imaginativo… debe alabar todo lo que pueda por ser y por acontecer».
+
 ## Relaciones doctrinales
 
 La belleza se relaciona con el [[arte_sacro]], con [[dios]] como fuente de toda belleza, con la [[gloria]] divina, y con la [[cultura]] como expresión de la creatividad humana elevada por la gracia.
