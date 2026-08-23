@@ -367,9 +367,21 @@ El testimonio de Rachel Bulman añade la dimensión existencial de la adoración
 
 - **La mirada del amor auténtico:** citando al campesino del Cura de Ars (CEC 2715): «Yo lo miro y él me mira». La mirada del amor auténtico es simultáneamente invitante y alarmante: ¿cómo puede el Dios del universo amarme tanto y pedirme tan poco?
 - **Diagnóstico de la duda eucarística:** a quien duda sobre la Eucaristía hay que invitarle a orar por la razón de su incertidumbre: «o dudas de tu capacidad para creerlo o del amor que contiene».
-- **Fuente y cumbre:** es la manera en que nuestra humanidad queda unida a la divinidad de Cristo; de ella recibimos sustento y fuerza, y hacia ella caminamos: «En cada tabernáculo del mundo te espera. Permanece con nosotros, como prometió, hasta el fin de los siglos».
+- **Fuente y cumbre:** es la manera en que nuestra humanidad queda unida a la divinidad de Cristo; de ella recibimos sustanto y fuerza, y hacia ella caminamos: «En cada tabernáculo del mundo te espera. Permanece con nosotros, como prometió, hasta el fin de los siglos».
 - **La reverencia sigue a la verdad:** si esto es realmente el Cuerpo de Cristo, entonces nuestro acercamiento, postura y culto deben reflejar esta verdad.
 - **El anhelo como pedagogía:** durante el RCIA, sentada en el banco llorando porque aún no podía recibir; la primera vez apenas pudo pronunciar el «Amén», sobrecogida.
+
+### Según Evangelization & Culture n.º 11 «The Four Last Things» (EAC-11)
+
+El Feature central de Nicholas Healy Jr. («The Eucharist and the Beatific Vision») desarrolla la **dimensión escatológica** de la Eucaristía:
+
+- **Medicina de inmortalidad**: los Padres llaman así a la Eucaristía (Ignacio de Antioquía, *Ad Eph.* 20,2): prenda y promesa de la resurrección para vida eterna.
+- **Viático que contiene la meta**: la Eucaristía es «pan para el camino» cuyo contenido es la meta misma del camino — comunión con Dios (Aquino: SmTh III q.73 a.4); no medio instrumental que se descarta al llegar. Véase [[viático]].
+- **Cristo simul viator et comprehensor en su Cuerpo Místico**: quien muere en gracia entra inmediatamente en la comunión que ya vivía eucarísticamente (*Benedictus Deus* leído cristológicamente); no hay disyuntiva entre unión perfecta y misión continua.
+- **Anticipo del banquete final**: Benedicto XVI (*Sacramentum Caritatis* 31-32): «La celebración eucarística realiza sacramentalmente la reunión escatológica del Pueblo de Dios... anticipo real del banquete final, "las bodas del Cordero"» (Ap 19,7-9).
+- **Digestión del secreto de la resurrección**: Juan Pablo II (*Ecclesia de Eucharistia* 18): quienes se alimentan de Cristo ya poseen en la tierra la vida eterna como primicias; «con la Eucaristía digerimos, por así decirlo, el 'secreto' de la resurrección».
+- **Solidaridad escatológica**: Cabasilas: la Eucaristía es «la meta última de todo deseo humano»; Thérèse quiere «pasar su cielo haciendo bien en la tierra»: los bienaventurados participan más perfectamente en la misión continua de Cristo.
+- **Escatología litúrgica de Ratzinger** (Millare): «cada Eucaristía es Parusía»; la liturgia anticipa el escatón sin imanentizarlo: «tensada expectativa de que revele su Gloria oculta»; una Eucaristía sin caridad concreta está «intrínsecamente fragmentada» (*Deus Caritas Est* 14). Véase [[imanentización_del_escatón]].
 
 ## Analizado para
 
@@ -392,6 +404,9 @@ El testimonio de Rachel Bulman añade la dimensión existencial de la adoración
 - [[orden_sacerdotal]]
 - [[sacramento_de_la_reconciliación]]
 - [[jorge_loring]]
+- [[viático]]
+- [[visión_beatífica]]
+- [[evangelization_and_culture_issue_11_four_last_things]]
 
 ## Referencias
 
@@ -414,3 +429,4 @@ El testimonio de Rachel Bulman añade la dimensión existencial de la adoración
 - [SFrAs, Laud. 21 — Pan cotidiano como Cristo]
 - [JdN_I, cap. 4]
 - Ele_Xto_Stos, Cap. III, §4b
+- Healy Jr., Nicholas J.; Millare, Roland. Artículos en *Evangelization & Culture* 11 (Spring 2022).

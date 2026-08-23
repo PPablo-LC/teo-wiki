@@ -34,6 +34,16 @@ La Escritura enseña a contar los días: «los días del mortal son como hierba�
 
 **El discurso Nobel de Faulkner:** el hombre prevalecerá porque tiene alma capaz de compasión, sacrificio y resistencia; el deber del poeta es elevar el corazón recordando coraje, honor, esperanza, orgullo, compasión, piedad y sacrificio.
 
+### Según Evangelization & Culture n.º 11 «The Four Last Things» (EAC-11)
+
+**Hamlet y Yorick (Tod Worner).** La calavera desenterrada del bufón de la infancia es el memento mori literario por antonomasia: «la muerte tiene un modo de silenciarnos, conmocionarnos y movernos»; el contacto con la mortalidad da foco: lo limitado deja de ser insuperable, lo distractivo se aparta. El movimiento se transfiere a Cristo en cruz — Yorick supremo que «nos llevó a sus espaldas mil veces». Véase [[muerte]].
+
+**La muerte diaria ante los ojos según san Benito (Fr. Eric Hollas OSB).** La Regla exhorta al monje a «mantener la muerte diariamente ante sus ojos»; lejos de invitar a la depresión, es mandato de vivir con intensidad: hacer de cada oportunidad un encuentro con Cristo; «preparación soberbia para el cielo». Aplicación laical: tiempo sagrado (oración, lectura, descanso equilibrado), espacio sagrado (retiros para conversar con el Señor), personas sagradas (cada huésped recibido como Cristo).
+
+**Teresita y la muerte sin miedo.** «No es la Muerte la que vendrá a buscarme; es el buen Dios... No temo a una separación que me unirá al buen Dios para siempre»: el memento mori consumado en confianza filial.
+
+**Media vita in morte sumus (Elizabeth Scalia).** El canto gregoriano («en medio de la vida estamos en muerte») se invierte gozosamente: «en medio de tanta muerte estamos en la vida», siempre que levantemos los ojos de las pantallas hacia lo creado: florecimiento humano, amor, realce espiritual.
+
 ## Distinciones importantes
 
 - **Memento mori vs. carpe diem hedonista:** el «aprovecha el día» cristiano nace de la conciencia de la muerte, no del pánico existencialista; no dice «cómete la vida» sino «vive con propósito».
@@ -54,7 +64,9 @@ La Escritura enseña a contar los días: «los días del mortal son como hierba�
 - [[muerte]]
 - [[poesía]]
 - [[resurrección_de_los_muertos]]
+- [[evangelization_and_culture_issue_11_four_last_things]]
 
 ## Referencias
 
 - Becklo, Matthew. "Film: Dead Poets Society." *Evangelization & Culture*, No. 9, Autumn 2021.
+- Worner, Tod; Hollas, Eric OSB; Scalia, Elizabeth. Artículos en *Evangelization & Culture* 11 (Spring 2022).

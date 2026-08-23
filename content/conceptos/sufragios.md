@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Sufragios
 tags: ["escatología"]
 
-timestamp: 2026-05-26
+timestamp: 2026-08-23
 description: "Oraciones, sacrificios, limosnas y obras de piedad ofrecidas por los fieles en favor de las almas de los difuntos que se encuentran en el Purgatorio."
 ---
 # Sufragios
 
 > Área: Escatología
-> Última actualización: 2026-05-26
+> Última actualización: 2026-08-23
 
 ## Definición
 
@@ -42,6 +42,15 @@ La cuestión 71 del Suplemento trata ex professo de los sufragios por los difunt
 
 Los sufragios **no aprovechan** a los condenados (infierno), porque están separados de la caridad, han recibido su retribución final y su pena no puede ser disminuida [SmTh, Suppl. q.71 a.5]. **Aprovechan sin duda** a las almas del purgatorio, porque la pena del purgatorio suple la satisfacción incompleta [SmTh, Suppl. q.71 a.6]. **No aprovechan** a los niños no bautizados (limbo), porque su estado no puede cambiar después de la muerte [SmTh, Suppl. q.71 a.7]. **No aprovechan** a los santos en el cielo, pues no tienen necesidad alguna [SmTh, Suppl. q.71 a.8]. Los tres sufragios principales son: el sacrificio del altar (eucaristía), la limosna y la oración; el ayuno también puede aprovechar por razón de la caridad [SmTh, Suppl. q.71 a.9].
 
+### Evangelization & Culture 11 (EAC-11)
+
+La sección «Lives» (Bert Ghezzi / Nicholas Healy Jr.) presenta a [[san_nicolás_de_tolentino]] como el santo de los sufragios llevado a la heroicidad:
+
+- **Vida como sufragio permanente**: Nicolás oraba largas horas de noche ante el Santísimo «por su liberación de la purificación»; la aparición del hermano Peregrino — que le suplicó celebrar la Misa por su liberación — le confirmó que su intercesión podía liberar miles: dedicó Misas diarias y adoración nocturna durante una semana.
+- **El sufragio más eficaz es la Misa**: el hermano Peregrino no pide penitencias extraordinarias sino «celebrar hoy la Misa de difuntos para ser rescatado de estas llamas»; el sacrificio eucarístico aplicado por los difuntos queda así ilustrado en clave hagiográfica.
+- **Matiz doctrinal del sufragio**: al rezar por las almas no esperamos librarlas de un lugar de castigo sino «acelerar su purificación»: el purgatorio no es un lugar sino condición de existencia (Juan Pablo II, 4-VIII-1999); el fuego es interior (Benedicto XVI con Catalina de Génova). Véase [[purgatorio]].
+- **Llamado a imitar**: «Unámonos a san Nicolás de Tolentino y vaciemos el purgatorio»: práctica cotidiana de oración por los difuntos, incluida en las ocho preguntas finales del número (Meditatio & Contemplatio).
+
 ## Distinciones importantes
 
 - **Sufragios por los difuntos vs. oración por los vivos**: los sufragios son específicamente por las almas del purgatorio, que no pueden valerse por sí mismas
@@ -55,7 +64,7 @@ Los sufragios **no aprovechan** a los condenados (infierno), porque están separ
 
 ## Ver también
 
-[[purgatorio]], [[ánimas_del_purgatorio]], [[indulgencias]], [[comunión_de_los_santos]]
+[[purgatorio]], [[ánimas_del_purgatorio]], [[indulgencias]], [[comunión_de_los_santos]], [[san_nicolás_de_tolentino]]
 
 ## Referencias
 
@@ -63,3 +72,4 @@ Los sufragios **no aprovechan** a los condenados (infierno), porque están separ
 - TPCr, Cuarta Parte, Cap. VII
 - ConcVatII, LG §50
 - CIC cc. 901, 945-946, 1180
+- Ghezzi, Bert / Healy Jr., Nicholas J. «The Patron Saint of Holy Souls», en *Evangelization & Culture* 11 (Spring 2022).

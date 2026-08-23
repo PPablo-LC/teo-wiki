@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Novísimos
 description: "Las realidades últimas del hombre después de la muerte: muerte, juicio, infierno, purgatorio y cielo, definidas doctrinalmente por la Iglesia."
 tags: ["escatología"]
-timestamp: 2026-06-26
+timestamp: 2026-08-23
 ---
 
 # Novísimos
 
 > Área: Escatología
-> Última actualización: 2026-06-26
+> Última actualización: 2026-08-23
 
 ## Definición
 
@@ -31,6 +31,20 @@ La fe de la Iglesia sobre los novísimos se ha ido definiendo progresivamente a 
 
 **Concilio de Florencia** (1439, D-693), Bula *Laetentur coeli*: definió que las almas de los verdaderos penitentes que mueren «antes de haber satisfecho con frutos dignos de penitencia» son purgadas «con penas purificatorias después de la muerte», y les aprovechan los sufragios de los fieles vivos (misa, oraciones, limosnas). Las almas de los que no incurrieron en pecado después del bautismo, o que ya fueron purgadas, «son inmediatamente recibidas en el cielo y ven claramente a Dios mismo, trino y uno, tal como es, unos sin embargo con más perfección que otros, conforme a la diversidad de los merecimientos». Las almas de los que mueren «en pecado mortal actual o con solo el original, bajan inmediatamente al infierno, para ser castigadas, si bien con penas diferentes».
 
+### Evangelization & Culture 11 (EAC-11)
+
+El Issue 11 de *Evangelization & Culture* está íntegramente dedicado a los novísimos («The Four Last Things», Spring 2022):
+
+- **Los novísimos como respuesta a la sed de justicia** (Bishop Barron): las doctrinas de las últimas cosas son «las más fascinantes y las más objetables» del catolicismo; responden a la intuición de que demasiados buenos mueren sin recompensa suficiente y malvados sin pagar; si Dios es justo debe existir un estado donde estas injusticias se restablezcan. Ante la certeza de la muerte: no el «la vida es absurda» de Sartre sino «¡Ven, Señor Jesús!» (Ap 22,20).
+- **Muerte como memento mori que despierta** (Tod Worner): Hamlet ante Yorick — la muerte silencia, conmociona y mueve; Cristo muerto en cruz repite el movimiento: «un hombre infinito y excelente que nos llevó a sus espaldas mil veces cuelga impalado y muerto en una cruz».
+- **Juicio con estándar pero sin jueces usurpadores**: Mt 7,1-5; Jn 8,3-7; St 4,12; Scalia: «If I had my way... But I am not king»; criterio positivo de Ratzinger (homilía pre-cónclave 2005): fe adulta arraigada en amistad con Cristo.
+- **Infierno como autoencierro**: Lucifer dantesco-Doré: patético, frío, absorto; pecado como [[incurvatus_in_se]] y libido dominandi (Agustín vía Barron); Eliot: «el infierno es uno mismo».
+- **Purgatorio como condición, no lugar** ([[san_nicolás_de_tolentino|San Nicolás de Tolentino]]): CEC Compendio 210; Juan Pablo II (4-VIII-1999): «no indica un lugar sino una condición de existencia»; Benedicto XVI con Catalina de Génova: fuego interior.
+- **Cielo cristológico** (Jared Zimmerer citando *Eschatology* de Ratzinger): el cielo no es un lugar extra-histórico; «uno está en el cielo cuando, y en la medida en que, está en Cristo»; realidad personal moldeada por el misterio pascual.
+- **Cielo como estado de ser** (Richard DeClue): no recompensa extrínseca sino perfección interior: naturaleza limpiada y elevada, comunicación inmediata de la esencia divina; «la salvación no va tanto de adónde vamos sino de qué nos convertimos».
+- **Dios todo en todos** (Matthew Levering): contra imágenes domesticadas del cielo; solo Dios satisface el corazón inquieto; 1 Cor 15,28 como clave: deificación con cuerpos glorificados.
+- **Escatología litúrgica** (Roland Millare sobre Ratzinger): los novísimos leídos desde la liturgia: muerte (ya muertos con Cristo en el bautismo), juicio (medida de nuestra comunión), cielo (comunión de santos), infierno (separación de esa comunión); «cada Eucaristía es Parusía».
+
 ## Distinciones importantes
 
 - **Juicio particular**: ocurre inmediatamente después de la muerte de cada persona.
@@ -43,10 +57,11 @@ La fe de la Iglesia sobre los novísimos se ha ido definiendo progresivamente a 
 
 ## Ver también
 
-[[muerte]], [[juicio_particular]], [[juicio_final]], [[cielo]], [[infierno]], [[purgatorio]], [[visión_beatífica]]
+[[muerte]], [[juicio_particular]], [[juicio_final]], [[cielo]], [[infierno]], [[purgatorio]], [[visión_beatífica]], [[evangelization_and_culture_issue_11_four_last_things]]
 
 ## Referencias
 
 - D-464 (II Concilio de Lyon)
 - D-493a (Juan XXII)
 - D-530–531 (Benedicto XII, *Benedictus Deus*)
+- *Evangelization & Culture* 11 (Spring 2022): «The Four Last Things».

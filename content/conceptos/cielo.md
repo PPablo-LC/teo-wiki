@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Cielo
 tags: ["escatología_—_dogmática"]
 
-timestamp: 2026-06-02
+timestamp: 2026-08-23
 description: "Estado de felicidad eterna y perfecta de quienes, habiendo muerto en gracia de Dios y estando completamente purificados, gozan de la visión beatífica de Dios."
 ---
 # Cielo
 
 > Área: Escatología — Dogmática
-> Última actualización: 2026-06-02
+> Última actualización: 2026-08-23
 
 ## Definición
 
@@ -42,6 +42,16 @@ El fin de la vida cristiana es la visión beatífica, que constituye la perfecci
 
 Loring describe el cielo como «el conjunto de todos los bienes sin mezcla de mal alguno» [PS §100]. La felicidad del cielo será proporcional a los méritos de cada uno, pero todos serán «totalmente felices, pues no les cabrá más felicidad» —como vasos de distintos tamaños llenos de agua [PS §100,1]. El cielo, más que un espacio, es una relación con Dios; las almas son espirituales y no necesitan espacio material. La felicidad del cielo consiste en la posesión intuitiva de Dios, Bien infinito, que proporciona una felicidad insuperable [PS §100,1-100,2]. «Sólo en Dios encontrará el hombre la verdad y la dicha que no cesa de buscar» [PS §100,2]. Dios ha hecho al hombre para el cielo, por eso «ninguna felicidad completa se encuentra en la Tierra» [PS §100,2]. Para salvarse y ganar el cielo es necesario servir a Dios y guardar los mandamientos, y la oración perseverante es el medio principal [PS §100,3].
 
+### Evangelization & Culture 11 (EAC-11)
+
+El Issue 11 («The Four Last Things») aporta cuatro perspectivas complementarias sobre el cielo:
+
+- **Cielo cristológico** (Jared Zimmerer citando Ratzinger, *Eschatology*): el cielo debe entenderse cristológicamente; «no es un lugar extra-histórico al cual uno va. La existencia del cielo depende del hecho de que Jesucristo, siendo Dios, es hombre, y hace espacio para la existencia humana en la existencia del mismo Dios. Uno está en el cielo cuando, y en la medida en que, está en Cristo». El cielo es ante todo realidad personal, moldeada por su origen histórico en el misterio pascual.
+- **Cielo como estado de ser** (Richard DeClue): no recompensa extrínseca — si lo fuera, la única diferencia entre santo y pecador sería el ambiente; es un modo de existencia perfeccionada: naturaleza limpia y elevada, pasiones desordenadas sanadas, comunicación inmediata de la esencia divina. «La salvación (y su opuesto, la condenación) no va tanto de adónde vamos sino de qué nos convertimos».
+- **Dios todo en todos** (Matthew Levering): contra imágenes domesticadas (Russell: pastel, pianos, perros) y contra el activismo escatológico de N.T. Wright («habrá trabajo que hacer»), Levering re-centra: solo Dios satisface el corazón inquieto (Agustín); dos series de imágenes bíblicas — banquete y bodas (Mt 26,29; Mt 25,1-13) y luego directamente Dios (Ap 21: Nueva Jerusalén sin templo ni sol porque Dios ilumina) — culminan en 1 Cor 15,28: Dios «todo en todos», deificándonos con su propia vida trinitaria; comunión marital con el Creador humilde y amoroso.
+- **Goces anticipados** (Tod Worner): el cielo excede toda comprensión presente («la paz que sobrepasa todo entendimiento», Flp 4,7; «veremos cara a cara», 1 Cor 13,12); pero hay «gracias en miniatura» cotidianas — el murmullo de una hija, la sonrisa de un paciente moribundo, la mano de la esposa — «páginas sueltas destinadas a ser encuadernadas en el Libro de la Vida» (Paraíso de Dante: todas las cosas dispersas atadas «en un solo libro por amor»).
+- **El cielo comienza ahora** (Fr. Eric Hollas OSB): la escala de Jacob hace porosas las fronteras cielo-tierra; san Benito diseñó una cultura donde el monje encuentra a Dios a cada paso: «la experiencia del cielo puede y debe comenzar ahora»; «mantener la muerte diariamente ante los ojos» no invita a la depresión sino a vivir con intensidad.
+
 
 ## Distinciones importantes
 
@@ -56,7 +66,7 @@ El cielo se relaciona con la [[visión_beatífica]], la [[gloria]], la [[bienave
 
 ## Ver también
 
-[[bienaventuranza]], [[gloria_de_Dios]], [[visión_beatífica]], [[comunión_de_los_santos]], [[fin_último]], [[purgatorio]], [[infierno]], [[novísimos]], [[jorge_loring]]
+[[bienaventuranza]], [[gloria_de_Dios]], [[visión_beatífica]], [[comunión_de_los_santos]], [[fin_último]], [[purgatorio]], [[infierno]], [[novísimos]], [[jorge_loring]], [[viático]], [[evangelization_and_culture_issue_11_four_last_things]]
 
 ## Referencias
 
@@ -65,3 +75,4 @@ El cielo se relaciona con la [[visión_beatífica]], la [[gloria]], la [[bienave
 - [Santo Tomás, I, q.12; Supl., q.69-99]
 - [PS §100]
 - [VocTeoBib, «Cielo»]
+- Healy Jr., Nicholas J.; DeClue, Richard; Levering, Matthew; Millare, Roland; Worner, Tod; Hollas, Eric. Artículos en *Evangelization & Culture* 11 (Spring 2022).

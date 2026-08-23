@@ -2,12 +2,12 @@
 type: Concepto Teológico
 title: Auditoría de wikilinks huérfanos
 timestamp: 2026-08-06
-description: "Registro de wikilinks sin artículo propio en el wiki. 2026-08-23: el procesamiento de Evangelization & Culture n.º 10 «Freedom» (EAC-10) siembra 12 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 10 «Freedom»»). 2026-08-23: el procesamiento de Evangelization & Culture n.º 9 «Poetry» (EAC-9) siembra 3 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 9 «Poetry»»). 2026-08-22: el procesamiento de Evangelization & Culture n.º 8 «Humor» (EAC-8) siembra 6 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 8 «Humor»»)."
+description: "Registro de wikilinks sin artículo propio en el wiki. 2026-08-23: el procesamiento de Evangelization & Culture n.º 11 «The Four Last Things» (EAC-11) siembra 35 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 11»). 2026-08-23: EAC-10 siembra 12 (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 10 «Freedom»»). 2026-08-23: el procesamiento de Evangelization & Culture n.º 9 «Poetry» (EAC-9) siembra 3 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 9 «Poetry»»). 2026-08-22: el procesamiento de Evangelization & Culture n.º 8 «Humor» (EAC-8) siembra 6 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 8 «Humor»»)."
 ---
 # Auditoría de wikilinks huérfanos
 
 > Generado originalmente: 2026-06-19
-> Última actualización: **2026-08-23 — Procesamiento de Evangelization & Culture n.º 10 «Freedom» (EAC-10). 12 huérfanos nuevos sembrados (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 10 «Freedom»»): `[[virtud_de_la_estudia]]`, `[[icono]]`, `[[duc_in_altum]]`, `[[sello_de_la_confesion]]`, `[[santa_teresa_de_ávila]]`, `[[vida_intelectual]]`, `[[paternidad_divina]]`, `[[oracion_poetica]]`, `[[revelación_progresiva]]`, `[[belleza_bondad_verdad]]`, `[[formación_en_la_fe]]`, `[[ideología]]`. 2026-08-23 — Procesamiento de Evangelization & Culture n.º 9 «Poetry» (EAC-9). 3 huérfanos nuevos sembrados (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 9 «Poetry»»): `[[conversión_cristiana]]`, `[[dana_gioia]]`, `[[milagros_de_jesús]]`. 2026-08-22 — Procesamiento de Evangelization & Culture n.º 8 «Humor» (EAC-8). 6 huérfanos nuevos sembrados (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 8 «Humor»»): `[[ocio]]`, `[[amor_sacrificial]]`, `[[cultura_de_la_cancelación]]`, `[[imaginación_creativa]]`, `[[literatura_moderna]]`, `[[mártires]]`. Aumenta su conteo `[[problema_del_mal]]` (4→5). 2026-08-16 — Resúmenes 16-31 de Formación religiosa de jóvenes -- Tihamer Toth (FRD). 10 huérfanos nuevos sembrados (ver sección «Sembrados por los resúmenes de Formación religiosa de jóvenes -- Tihamer Toth»): `[[alegría_espiritual]]`, `[[confesión_frecuente]]`, `[[contracepción]]`, `[[defecto_dominante]]`, `[[escrúpulos]]`, `[[gracia_sanativa]]`, `[[maría]]`, `[[moral_católica]]`, `[[reato_de_pena_temporal]]`, `[[santidad_de_vida]]`. Aumentan su conteo los ya registrados `[[historia_de_la_iglesia]]` (3→5), `[[imitación_de_cristo]]` (2→4) y `[[padres]]` (1→2).**
+> Última actualización: **2026-08-23 — Procesamiento de Evangelization & Culture n.º 11 «The Four Last Things» (EAC-11). 35 huérfanos nuevos sembrados (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 11»): destacan `[[benedictus_deus]]`, `[[deificación]]`, `[[theosis]]`, `[[causa_final]]`, `[[cristo_viator_y_comprehensor]]`, `[[eterno_retorno]]`, `[[los_hermanos_karamázov]]`, `[[solo_Dios_basta]]`, `[[escala_de_jacob]]`, `[[media_vita_in_morte_sumus]]`, `[[santo_tomás_moro]]`, `[[descartes]]`, `[[utopía]]`. 2026-08-23 — Procesamiento de Evangelization & Culture n.º 10 «Freedom» (EAC-10). 12 huérfanos nuevos sembrados (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 10 «Freedom»»): `[[virtud_de_la_estudia]]`, `[[icono]]`, `[[duc_in_altum]]`, `[[sello_de_la_confesion]]`, `[[santa_teresa_de_ávila]]`, `[[vida_intelectual]]`, `[[paternidad_divina]]`, `[[oracion_poetica]]`, `[[revelación_progresiva]]`, `[[belleza_bondad_verdad]]`, `[[formación_en_la_fe]]`, `[[ideología]]`. 2026-08-23 — Procesamiento de Evangelization & Culture n.º 9 «Poetry» (EAC-9). 3 huérfanos nuevos sembrados (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 9 «Poetry»»): `[[conversión_cristiana]]`, `[[dana_gioia]]`, `[[milagros_de_jesús]]`. 2026-08-22 — Procesamiento de Evangelization & Culture n.º 8 «Humor» (EAC-8). 6 huérfanos nuevos sembrados (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 8 «Humor»»): `[[ocio]]`, `[[amor_sacrificial]]`, `[[cultura_de_la_cancelación]]`, `[[imaginación_creativa]]`, `[[literatura_moderna]]`, `[[mártires]]`. Aumenta su conteo `[[problema_del_mal]]` (4→5). 2026-08-16 — Resúmenes 16-31 de Formación religiosa de jóvenes -- Tihamer Toth (FRD). 10 huérfanos nuevos sembrados (ver sección «Sembrados por los resúmenes de Formación religiosa de jóvenes -- Tihamer Toth»): `[[alegría_espiritual]]`, `[[confesión_frecuente]]`, `[[contracepción]]`, `[[defecto_dominante]]`, `[[escrúpulos]]`, `[[gracia_sanativa]]`, `[[maría]]`, `[[moral_católica]]`, `[[reato_de_pena_temporal]]`, `[[santidad_de_vida]]`. Aumentan su conteo los ya registrados `[[historia_de_la_iglesia]]` (3→5), `[[imitación_de_cristo]]` (2→4) y `[[padres]]` (1→2).**
 > Total de wikilinks huérfanos registrados: **1565** (pendientes de artículo; detector 2026-08-14, excluido el falso positivo `[[concepto]]`;WoF-3 introduce 9 huérfanos nuevos: `[[blas_pascal]]`, `[[nietzsche]]`, `[[nones]]`, `[[periferias]]`, `[[micro_moralidad]]`, `[[macro_moralidad]]`, `[[evangelización_digital]]` (ya creado), `[[videojuegos]]` (ya creado), `[[aristóteles]]` (ya creado); 7 artículos nuevos creados: san_isidoro_de_sevilla, fulton_sheen, george_orwell, robert_barron, evangelización_digital, videojuegos, aristóteles; EAC-9 introduce 3 huérfanos nuevos (2026-08-23): `[[conversión_cristiana]]`, `[[dana_gioia]]` (resuelto el mismo día con la creación de `wiki/personas/dana_gioia.md`), `[[milagros_de_jesús]]`; EAC-10 introduce 12 huérfanos nuevos (2026-08-23): ver sección correspondiente; 7 artículos nuevos creados: san_isidoro_de_sevilla, fulton_sheen, george_orwell, robert_barron, evangelización_digital, videojuegos, aristóteles; 2026-08-13: CBL introduce 3 huérfanos nuevos; 2026-08-14: 1 resuelto por renombrado de preexistencia_de_cristo → preexistencia_del_verbo; 2026-08-14: CEC Lote 1 introduce 2 huérfanos nuevos; 2026-08-14: CEC Lote 2 introduce 21 huérfanos nuevos; 2026-08-14: CEC Lote 3 introduce 16 huérfanos nuevos; 2026-08-14: se retira `[[templo_de_jerusalen]]` del registro del Lote 2 por no ser huérfano — existe `wiki/conceptos/templo_de_Jerusalén.md`)
 > Resueltos: 35+29+11+14+19+6+1 (6 en 2026-07-15/16 — ver sección final; 26 por re-auditoría 2026-08-01; 3 por BMV 2026-08-03; 29 por alta densidad 2026-08-03; 11 por alta densidad 2ª tanda 2026-08-03; 14 por alta densidad 3ª tanda 2026-08-03, neto −11; 19 por alta densidad 4ª tanda 2026-08-04; 6 por limpieza de paréntesis 2026-08-04, neto −5 por el re-sembrado de `[[respuesta_divina]]`; 1 por normalización de nombres con paréntesis 2026-08-08; +1 el 2026-08-23: `[[dana_gioia]]` resuelto con la creación de su artículo en `wiki/personas/`)
 
@@ -2390,3 +2390,61 @@ huérfanos intencionales del índice de la fuente (`libertad_de_los_hijos_de_dio
 `testimonio_cristiano`, etc.) ya figuraban en el registro de procesamientos
 previos o quedan cubiertos por artículos existentes ([[testimonio_cristiano]],
 [[cine]], [[esperanza_cristiana]], [[cristo_rey]], [[amor_de_dios]]).
+
+## Sembrados por el procesamiento de Evangelization & Culture n.º 11 «The Four Last Things» (2026-08-23)
+
+Al procesar la fuente EAC-11 (24 archivos) se sembraron intencionalmente los
+siguientes wikilinks sin artículo (forward references). Su contenido está
+tratado en `wiki/documentos/evangelization_and_culture_issue_11_four_last_things.md`,
+en los artículos nuevos ([[imanentización_del_escatón]], [[incurvatus_in_se]],
+[[viático]], [[novísimos]] enriquecido), las personas creadas
+([[san_nicolás_de_tolentino]], [[walker_percy]],
+[[georg_wilhelm_friedrich_hegel]], [[charles_péguy]], [[henri_de_lubac]])
+y los resúmenes en `wiki/Resúmenes/Evangelization and culture - 11/`:
+
+| Wikilink | Referencias | Ubicación |
+|----------|-------------|-----------|
+| `[[benedictus_deus]]` | 3 | vision_beatifica, viático, índice EAC-11 (bula de Benedicto XII, 1336) |
+| `[[santo_tomás_moro]]` | 2 | walker_percy, índice EAC-11 (antepasado ficticio del Dr. Tom More; «la tierra no tiene pena que el cielo no pueda curar») |
+| `[[deificación]]` | 3 | viático, novisimos, cielo, juicio... (2 Pe 1,4; Atanasio) |
+| `[[theosis]]` | 2 | vision_beatifica, henri_de_lubac (participación de la vida divina) |
+| `[[causa_final]]` | 2 | DeClue resumen, índice EAC-11 (telos constitutivo de la naturaleza) |
+| `[[gracia_y_naturaleza]]` | 1 | 16_last_things_first (gratia praesupponit naturam) |
+| `[[Dios_todo_en_todos]]` | 1 | 17_recentering_christian_eschatology (1 Cor 15,28) |
+| `[[esponsales_de_cristo_y_la_iglesia]]` | 1 | 17_recentering... (Mt 25; Ap 19,7-9; Pitre) |
+| `[[cristo_viator_y_comprehensor]]` | 2 | vision_beatifica, 14_the_eucharist... (SmTh III q.15 a.10) |
+| `[[eterno_retorno]]` | 1 | 11_science (Nietzsche, amor fati; de Lubac) |
+| `[[los_hermanos_karamázov]]` | 1 | 11_science / índice (Gran Inquisidor) |
+| `[[solo_Dios_basta]]` | 1 | 11_science (santa Teresa de Jesús) |
+| `[[escatología_bíblica]]` | 1 | 11_science (Biblia: historia como drama hacia un punto) |
+| `[[muerte_como_encuentro]]` | 1 | índice/12_art («no es la Muerte, es el buen Dios», Teresita) |
+| `[[descartes]]` | 1 | walker_percy (separación cuerpo-mente; angelism-bestialism) |
+| `[[dualismo_cuerpo_alma]]` | 2 | walker_percy, 07_stacks resumen |
+| `[[utopía]]` | 2 | imanentización_del_escatón, 11_science (Kojève: la sombra de la utopía) |
+| `[[orden_de_san_agustín]]` | 1 | san_nicolás_de_tolentino (agustinos de Tolentino) |
+| `[[oración_por_los_difuntos]]` | 1 | san_nicolás_de_tolentino (sufragio como práctica cotidiana) |
+| `[[media_vita_in_morte_sumus]]` | 2 | memento_mori, 23_peripheries (canto de completas) |
+| `[[escala_de_jacob]]` | 2 | 22_soul resumen, cielo (fronteras porosas cielo-tierra) |
+| `[[james_matthew_barrie]]` | 1 | 15_tolkien (Peter Pan; esquive de lo oscuro) |
+| `[[peter_pan]]` | 1 | 15_tolkien («morir será una gran aventura»; Peterpantismo) |
+| `[[george_macdonald]]` | 1 | 15_tolkien (*Lilith*; duelo por sus hijos) |
+| `[[caída_de_númenor]]` | 1 | 15_tolkien (rebelión contra la mortalidad) |
+| `[[identidad_en_cristo]]` | 1 | 03_word_from_institute resumen (primer principio WoF) |
+| `[[vocación_del_artista]]` | 1 | 09_stevens (Carta a los artistas de JPII) |
+| `[[bautismo_con_fuego]]` | 1 | 09_stevens (Mt 3,11; lava bautismal) |
+| `[[fin_del_mundo]]` | 1 | 23_peripheries (Moody Lizzie; doomsday-ism) |
+| `[[word_on_fire]]` | 2 | masthead resumen, 19_bible resumen (ministerio editor) |
+| `[[medicina_y_fe]]` | 2 | 20_ken_may resumen, índice (curación como arte guiado por el Espíritu) |
+| `[[método_histórico_crítico]]` | 1 | 20_ken_may resumen (limitaciones que despiertan la fe intelectual) |
+| `[[imaginación]]` | 2 | 15_tolkien resumen + preexistente en resúmenes TPCr/Youth and Chastity (facultad de dar sentido) |
+| `[[caos_y_orden]]` | 1 | 21_chaos_magick resumen (orden ordinario vs caos ritual) |
+| `[[presencia_de_Dios]]` | 1 | 24_meditatio resumen (Dios camina entre nosotros, Hollas) |
+| `[[escasez_y_abundancia]]` | 1 | 08_film resumen (anti-cristiana sobreestimación de la escasez; agua de la roca) |
+
+Nota: ningún huérfano ya registrado aumenta su conteo con EAC-11. Las
+variantes fueron corregidas antes del registro: `[[justicia_de_Dios]]` →
+`[[justicia_de_dios]]`, `[[nueva_jerusalén]]` → `[[nueva_jerusalen]]`,
+`[[reino_de_Dios]]` → `[[reino_de_dios]]`, `[[maría_madre_de_dios]]` →
+`[[madre_de_dios]]`, `[[cs_lewis]]` → `[[c_s_lewis]]`, `[[arte_sagrado]]` →
+`[[arte_sacro]]`, `[[regla_de_san_benito]]` → `[[la_regla_de_san_benito]]`,
+`[[alma_y_cuerpo]]` → `[[dualismo_cuerpo_alma]]`.

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Muerte
 tags: ["escatología", "moral"]
 
-timestamp: 2026-05-22
+timestamp: 2026-08-23
 description: "La muerte es la separación del alma y el cuerpo, fin de la vida terrena del hombre."
 ---
 # Muerte
 
 > Área: Escatología / Moral
-> Última actualización: 2026-05-22
+> Última actualización: 2026-08-23
 
 ## Definición
 
@@ -43,6 +43,17 @@ Royo Marín aborda la muerte dentro de la lucha ascética, especialmente en rela
 
 [VocTeoBib, «Muerte»] El AT contempla la muerte con lucidez: es destino universal, morada en el *seol* (sombra, silencio, olvido). La muerte no es mero fenómeno natural: entró en el mundo por el pecado de Adán (Sab 2,23s). Pero Dios no se complace en la muerte del pecador; quiere su conversión (Ez 18,23; 33,11). La esperanza de liberación definitiva se abre paso en el AT tardío: resurrección de los justos (Dan 12,2; Is 26,19). En el NT, Cristo asume nuestra muerte y, por su obediencia, triunfa de ella (Rom 6,9; Heb 2,14). El bautismo nos une a su muerte (Rom 6,3ss), y el cristiano «muere cada día» (1Cor 15,31) para que la vida de Jesús se manifieste en su carne mortal (2Cor 4,10ss). La muerte corporal se transforma así en ganancia (Flp 1,21) y en entrada a la paz (Ap 14,13), en espera de la resurrección final donde «ya no habrá muerte» (Ap 21,4).
 
+### Evangelization & Culture 11 (EAC-11)
+
+El número dedicado a las postrimerías aporta una pedagogía cultural de la muerte:
+
+- **La muerte como memento mori que despierta** (Tod Worner): Hamlet sosteniendo la calavera de Yorick — «la muerte tiene un modo de silenciarnos, conmovernos y movernos»; ante la propia mortalidad, lo limitado deja de ser insuperable y lo distractivo se aparta; «esto es lo que importa, y ahora». El eco cristológico: «un hombre infinito y excelente que nos llevó a sus espaldas mil veces cuelga impalado y muerto en una cruz. Nos conmociona».
+- **La muerte sin terror** (Santa Teresita de Lisieux): «No es la Muerte la que vendrá a buscarme; es el buen Dios... En el catecismo se dice que la muerte es la separación del alma y del cuerpo: ¡eso es todo! No temo a una separación que me unirá al buen Dios para siempre».
+- **Muerte y solidaridad**: John Donne: «La muerte de cada hombre me disminuye, porque estoy involucrado en la humanidad»; Chesterton: «todos en la misma barca en mar tormentoso; nos debemos una terrible y trágica lealtad».
+- **Muerte cotidiana benedictina** (Fr. Eric Hollas OSB): «mantener la muerte diariamente ante nuestros ojos» (RB) como invitación a vivir con intensidad, no a la depresión.
+- **Tolkien y la aceptación de la mortalidad** (Holly Ordway): «los niños deben crecer y morir, no convertirse en Peter Pans»; la vida larguísima como tentación (Númenor); la muerte como parte del orden creado, no enemiga absoluta.
+- **Muerte en el cine apocalíptico** (Andrew Petiprin): contemplar el fin del mundo puede volver la mirada hacia el Creador — McCarthy (*The Road*): «quizá en la destrucción del mundo sería posible por fin ver cómo fue hecho».
+
 ## Distinciones importantes
 
 - Muerte natural (consecuencia del pecado original) vs. muerte mística (unión con Cristo crucificado).
@@ -64,9 +75,10 @@ Se relaciona con [[pecado_original]], [[redención]], [[resurrección]], [[juici
 - [[morir-con-cero]] — convergencia en la conciencia de la finitud como motor de una vida plena; tensión por la ausencia de trascendencia (muerte como fin absoluto, no como paso a la vida eterna)
 
 ## Ver también
-[[resurrección]], [[juicio_final]], [[purgatorio]], [[cielo]], [[pecado_original]]
+[[resurrección]], [[juicio_final]], [[purgatorio]], [[cielo]], [[pecado_original]], [[memento_mori]], [[viático]], [[evangelization_and_culture_issue_11_four_last_things]]
 
 ## Referencias
 
 - [CEC §1007-1014, §1021-1022, §1524-1525]
 - [TPCr, Tercera Parte, Libro I, Cap. 4, Art. 2]
+- Worner, Tod; Ordway, Holly; Petiprin, Andrew. Artículos en *Evangelization & Culture* 11 (Spring 2022).

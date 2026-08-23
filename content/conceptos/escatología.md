@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Escatología
 tags: ["escatología"]
 
-timestamp: 2026-08-09
+timestamp: 2026-08-23
 description: "Rama de la teología que trata de las realidades últimas o finales."
 ---
 # Escatología
 
 > Área: Escatología
-> Última actualización: 2026-08-09
+> Última actualización: 2026-08-23
 
 ## Definición
 
@@ -85,6 +85,18 @@ Bishop Robert Barron dedica la Lección 10 completa ("Mundo sin fin") a la escat
 
 La cronología de la Nueva Alianza del PdB se presenta como una cronología «abierta», porque «la historia de la salvación continúa en la vida de la Iglesia y continuará hasta el final de los tiempos, cuando Jesús regrese en su segunda venida». La infografía del Apocalipsis presenta la historia narrada así: «Dios desvela cómo dirige los destinos del mundo y de la Iglesia, y muestra que el mal no tendrá la última palabra al final de los tiempos». En Cristo, Dios ha vencido al mal: «El Señor, en su segunda venida, establecerá su Reino para siempre» [PdB, Apocalipsis].
 
+### Según Evangelization & Culture 11 (EAC-11)
+
+El número monográfico sobre las postrimerías aporta perspectivas metodológicas y críticas sobre cómo hacer escatología:
+
+- **«Lo último primero»** (Richard DeClue): la escatología no es apéndice sino clave de toda la teología; un profesor del autor exigía enseñarla primero en los programas: solo con el fin a la vista se entiende la lógica interna de la fe. Fundamento: la causa final es constitutiva de la naturaleza (Aristóteles, Aquino); gratia praesupponit naturam.
+- **Re-centrar la escatología en Dios** (Matthew Levering): contra las imágenes domesticadas del cielo (Russell) y contra el activismo de N.T. Wright; las imágenes bíblicas del banquete y las bodas culminan en Dios mismo: «Dios será todo en todos» (1 Cor 15,28); ni platonismo desencarnado ni consumación meramente terrena.
+- **Escatología cristológica y litúrgica** (Roland Millare sobre Ratzinger): *Eschatology* como su obra más trabajada; equilibrio trascendencia/inmanencia; «cada Eucaristía es Parusía»; separación entre escatología y política como tarea fundamental de la teología.
+- **Contra la imanentización** (D.C. Schindler; Whittington): Hegel imanentiza la escatología agotando el misterio en filosofía; Voegelin: marxismo como «falaz imanentización del escatón cristiano»; el Gran Inquisidor como paradigma de la religión sustitutiva ([[imanentización_del_escatón]]).
+- **Eucaristía y visión beatífica** (Nicholas Healy Jr.): lectura cristológica de *Benedictus Deus*; la Eucaristía como viático que contiene la meta ([[viático]]).
+- **Imaginación escatológica** (Holly Ordway sobre Tolkien): la literatura cultiva el sentido de muerte y deathlessness; contra el «Peterpantismo» y la obsesión numenórea por evitar la muerte.
+- **Pedagogía cultural de los novísimos** (Worner; Petiprin; Scalia): Hamlet/Yorick, cine apocalíptico como desvelamiento, *media vita in morte sumus*: la cultura puede despertar — o anestesiar — la memoria de las postrimerías.
+
 ## Distinciones importantes
 
 - Escatología individual (muerte, juicio particular) y escatología universal (parusía, juicio final)
@@ -94,7 +106,7 @@ La cronología de la Nueva Alianza del PdB se presenta como una cronología «ab
 
 ## Relaciones doctrinales
 
-[[resurrección]], [[resurrección_de_la_carne]], [[juicio_particular]], [[juicio_final]], [[cielo]], [[infierno]], [[purgatorio]], [[muerte]], [[vida_eterna]], [[jorge_loring]]
+[[resurrección]], [[resurrección_de_la_carne]], [[juicio_particular]], [[juicio_final]], [[cielo]], [[infierno]], [[purgatorio]], [[muerte]], [[vida_eterna]], [[jorge_loring]], [[novísimos]], [[imanentización_del_escatón]], [[viático]], [[evangelization_and_culture_issue_11_four_last_things]]
 
 ## Analizado para
 
@@ -110,3 +122,4 @@ La cronología de la Nueva Alianza del PdB se presenta como una cronología «ab
 - [TdC 27.01.1982]
 - [TdC 12.05.1982]
 - WoF, Lección 10: "Mundo sin fin"
+- *Evangelization & Culture* 11 (Spring 2022): «The Four Last Things»

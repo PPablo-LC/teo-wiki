@@ -155,6 +155,15 @@ El número 6 de *Evangelization & Culture* está enteramente dedicado a la esper
 - **Consuelo que convierte:** las cartas de lectores —una viuda en duelo, un hombre que pide a Dios hablarle— muestran que la sátira puede abrir a la conversión y al consuelo (Mann).
 - **Esperanza tardía:** Steve Martin: tras décadas de risas y burlas, sus canciones celebran el amor y la vida («quizá después de décadas de risas, el amor haya llegado para Steve Martin», Petiprin).
 
+### Según Evangelization & Culture n.º 11 «The Four Last Things» (EAC-11)
+
+- **La esperanza entre desesperación y presunción** (Richard DeClue): CEC 1817; la esperanza se vicia por defecto —desesperación: creer los pecados demasiado grandes para ser perdonados, endureciéndose en ellos— y por exceso —presunción: dar por segura la salvación sin conversión verdadera (CEC 2091-2092). La esperanza auténtica posibilita la conversión real: confía en las promesas de Cristo tomando en serio el arrepentimiento.
+- **La esperanza como niña de Péguy** (Roland Millare): *Le Porche du Mystère de la deuxième vertu*: la esperanza es niña pequeña que debe apoyarse en sus dos madres mayores, fe y caridad; «no es fácil no creer... lo difícil es esperar». Nació «en Navidad»: entra en el mundo con la Encarnación visible; Jesús solo es fuente de nuestra esperanza. Véase [[charles_péguy]].
+- **La esperanza litúrgica** (Millare sobre Ratzinger): la liturgia es «fiesta de presencia llena de esperanza dirigida hacia Cristo»: anticipa lo que espera («ya/no todavía»); la esperanza nunca es virtud individualista: en la liturgia el yo entra en el nosotros del Cuerpo de Cristo y adora al eterno Tú.
+- **Amor como esperanza eterna** (Millare citando *Of Gods and Men*): Fr. Christian de Chergé a sus monjes: «Somos mártires del amor... Recordad que el amor es esperanza eterna. El amor lo soporta todo».
+- **Contra la falsa esperanza política** (D.C. Schindler sobre Hegel; Whittington sobre Voegelin): toda [[imanentización_del_escatón]] — hacer el cielo con medios políticos — es una falsificación de la esperanza teologal; termina en hastío (Kojève) o terror. Véase [[imanentización_del_escatón]].
+- **«¡Ven, Señor Jesús!»** (Barron; Petiprin): Ap 22,20 como síntesis de la actitud escatológica cristiana frente a la certeza de la muerte y del fin.
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[virtud_de_la_esperanza]]
@@ -165,7 +174,7 @@ Ver artículo principal: [[virtud_de_la_esperanza]]
 - [[adam_farber_fortitude_through_excellence_in_patience]]
 
 ## Ver también
-[[virtud_de_la_esperanza]], [[virtudes_teologales]], [[virtudes_infusas]], [[amor_puro]], [[francisco_fenelón]], [[san_judas_tadeo]], [[spe_salvi]], [[benedicto_xvi]], [[iglesia_doméstica]], [[perdón]]
+[[virtud_de_la_esperanza]], [[virtudes_teologales]], [[virtudes_infusas]], [[amor_puro]], [[francisco_fenelón]], [[san_judas_tadeo]], [[spe_salvi]], [[benedicto_xvi]], [[iglesia_doméstica]], [[perdón]], [[imanentización_del_escatón]], [[charles_péguy]], [[evangelization_and_culture_issue_11_four_last_things]]
 
 ## Referencias
 
@@ -179,3 +188,4 @@ Ver artículo principal: [[virtud_de_la_esperanza]]
 - [EAC-8, Issue 8 «Humor», archivos 04, 09, 13, 18]
 - Denzinger D-1331–D-1332, D-1337 (Inocencio XII, *Cum alias*)
 - Evangelization & Culture, Issue 6 — Hope (EcC6): §§01-17 (Worner, Becklo, Maher, Scalia, Petiprin, Morson, Havlicek, Zimmerer, Stewart, Seewald, Hooten Wilson, Garrett)
+- Evangelization & Culture 11 (Spring 2022): DeClue «Last Things First»; Millare «It's the End of the World as Ratzinger Knows It».

@@ -36,6 +36,7 @@ tags:
 | 8 | Issue 8 | Humor | Summer 2021 | [[evangelization_and_culture_issue_8_humor]] |
 | 9 | Issue 9 | Poetry | Autumn 2021 | [[evangelization_and_culture_issue_9_poetry]] |
 | 10 | Issue 10 | Freedom | Winter 2021 | [[evangelization_and_culture_issue_10_freedom]] |
+| 11 | Issue 11 | The Four Last Things | Spring 2022 | [[evangelization_and_culture_issue_11_four_last_things]] |
 
 ## Temas centrales por número
 
@@ -207,6 +208,29 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - La libertad en la obediencia: SmTh II-II q.104; el acto más libre es el más donante (Todd OP)
 - Los medios católicos: Inter Mirifica; Benedicto XVI South Lawn 2008 (Liaugminas)
 
+### Issue 11: The Four Last Things (Spring 2022)
+Para el desarrollo completo de este número, véase [[evangelization_and_culture_issue_11_four_last_things]].
+- Las postrimerías: doctrinas fascinantes y objetables; sed de justicia; «¡Ven, Señor Jesús!» (Barron)
+- El cielo entendido cristológicamente: no lugar extra-histórico sino estar-en-Cristo (Zimmerer/Ratzinger)
+- Hamlet y Yorick: memento mori que despierta (Worner)
+- El Satanás dantesco-Doré: pecado como incurvatus in se y libido dominandi (Agustín vía Barron); Eliot: «el infierno es uno mismo»
+- Juicio con estándar sin jueces usurpadores: «But I am not king»; amistad con Cristo como criterio (Worner/Ratzinger)
+- San Nicolás de Tolentino, patrono de las Almas del Purgatorio; vaciar el purgatorio; purgatorio como condición no lugar (Ghezzi/Healy)
+- Walker Percy *Love in the Ruins*: lapsómetro ontológico; angelism-bestialism; deseo secreto del apocalipsis (Becklo)
+- Cine apocalíptico como desvelamiento: escasez superada por abundancia; «carry the fire» (Petiprin)
+- Michael Stevens *The Pentecost*: tradición e innovación; Maíno, Cézanne, Koons; Carta a los artistas
+- Hegel y la imanentización de la escatología; María como lo omitido (Schindler/Ulrich)
+- Nihilismo y sustitutos del escatón: eterno retorno, Gran Inquisidor; «solo Dios basta» (Nelson/Whittington)
+- Eucaristía y visión beatífica: Benedictus Deus, Orígenes vía de Lubac; viático que contiene la meta (Healy Jr.)
+- Tolkien: muerte y deseo de deathlessness; contra el Peterpantismo; caída de Númenor (Ordway)
+- Last Things First: causa final constitutiva; cielo estado de ser; esperanza entre desesperación y presunción (DeClue)
+- Re-centrar la escatología en Dios: Dios todo en todos; contra Wright y Platón (Levering)
+- Escatología litúrgica de Ratzinger: cada Eucaristía Parusía; logos sobre ethos; separar escatología y política (Millare)
+- WoF Bible Vol. II: Cathedral in Print; providencia de san José (Seseske/Pultorak)
+- Medicina como vocación; Jesús se puso límites (Ken May)
+- La escala de Jacob: fronteras porosas; el cielo comienza ahora; muerte diaria ante los ojos (Hollas OSB)
+- Media vita in morte sumus; Juliana de Norwich: «todo estará bien» (Scalia)
+
 ## Autores destacados
 
 - Bishop Robert Barron (director, Word on Fire)
@@ -295,3 +319,4 @@ Esta fuente complementa los artículos sobre [[evangelización]], [[evangelizaci
 - Evangelization & Culture, Issue 8 (2021) — Humor
 - Evangelization & Culture, Issue 9 (2021) — Poetry
 - Evangelization & Culture, Issue 10 (2021) — Freedom
+- Evangelization & Culture, Issue 11 (2022) — The Four Last Things

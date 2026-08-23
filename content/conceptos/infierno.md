@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Infierno
 tags: ["escatología"]
 
-timestamp: 2026-06-16
+timestamp: 2026-08-23
 description: "El infierno es el estado de autoexclusión definitiva de la comunión con Dios y con los bienaventurados, en el que se incurre por la muerte en pecado mortal sin arrepentimiento."
 ---
 # Infierno
 
 > Área: Escatología
-> Última actualización: 2026-06-26
+> Última actualización: 2026-08-23
 
 ## Definición
 
@@ -60,6 +60,15 @@ Loring enseña que el infierno «es el conjunto de todos los males sin mezcla de
 
 [VocTeoBib, «Infierno»] El AT distingue entre el *seol*, morada común de todos los muertos, y el infierno de los pecadores, asociado al fuego de Sodoma y la Gehena (Is 66,24). Jesús utiliza estas imágenes violentas (llanto, crujir de dientes, fuego inextinguible) para afirmar la realidad de la condenación eterna (Mt 5,22; Mc 9,43-48). Cristo descendió a los infiernos para liberar a los justos que le precedieron, forzando las puertas infernales y triunfando sobre la muerte (1Pe 3,19; Ef 4,9-10). La Iglesia es fruto e instrumento de esta victoria (Mt 16,18).
 
+### Evangelization & Culture 11 (EAC-11)
+
+Tod Worner («Midnight Oil») propone una lectura escatológica del infierno centrada en su cualidad de autoencierro:
+
+- **El Satanás de Dante** (vía ilustraciones de Gustave Doré): no un monarca rugiente ni «oscuro majestuoso y amenazante», sino patético: sumergido hasta la cintura en hielo, lloroso, sordo a todo, con alas que solo generan más frío. Pregunta al Bishop Barron: ¿cómo puede el pecado hacernos *incurvatus in se*? Respuesta de Barron citando san Agustín: «Eso es lo que el pecado es... una definición es *incurvatus in se*, curvarse hacia sí mismo; la otra gran definición es *libido dominandi*, la lujuria de dominar... El Satanás de Dante es la expresión plena de lo que el pecado hace con nosotros» ([[incurvatus_in_se]]).
+- **El infierno como soledad absoluta**: T.S. Eliot (*The Cocktail Party*): «¿Qué es el infierno? El infierno es uno mismo; el infierno es la soledad; las otras figuras en él meras proyecciones. No hay nada de qué escapar ni adónde escapar. Uno está siempre solo». El infierno encarna contracción no expansión, desubicación no comunidad, desesperación no alegría, tinieblas no luz.
+- **Realismo sobre el demonio**: Benedicto XVI: «el diablo... es una presencia personal real, no meramente simbólica... una libertad sobrehumana nefanda dirigida contra la libertad de Dios»; lobo voraz empeñado en separar las ovejas del Verdadero Pastor — pero «más que nada», menos de lo que parece: «horriblemente mucho menos».
+- **Contraste pastoral**: frente al diablo infantil de la infancia del autor (tridentes y trajes rojos), la imagen dantesca enseña que lo infernal es la clausura en sí mismo; su antídoto escatológico es la comunión (Chesterton: «todos en la misma barca»; Donne: «cada muerte de un hombre me disminuye»).
+
 ## Distinciones importantes
 
 - Infierno de los condenados: estado eterno de separación de Dios
@@ -77,10 +86,11 @@ Se relaciona con el [[pecado_mortal]], la [[justicia_divina]], el [[juicio_parti
 
 ## Ver también
 
-[[pecado_mortal]], [[juicio_particular]], [[juicio_final]], [[justicia_divina]], [[conversión]], [[demonio]], [[jorge_loring]], [[cuerpos_de_los_condenados]]
+[[pecado_mortal]], [[juicio_particular]], [[juicio_final]], [[justicia_divina]], [[conversión]], [[demonio]], [[jorge_loring]], [[cuerpos_de_los_condenados]], [[incurvatus_in_se]], [[evangelization_and_culture_issue_11_four_last_things]]
 
 ## Referencias
 
 - [CEC §1033-1037, §1056-1057, §631-637]
 - [TPCr, Tercera Parte, Libro I, Cap. I]
 - [PS §99]
+- Worner, Tod. «Midnight Oil», en *Evangelization & Culture* 11 (Spring 2022).

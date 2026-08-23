@@ -1,35 +1,54 @@
 ---
 type: Concepto Teológico
 title: Viático
-tags: ["sacramental"]
+description: "Viático: la Eucaristía como pan para el viaje hacia la muerte y la vida eterna; contiene la meta misma del camino — comunión con Dios (Aquino, CEC 1020, 1524)."
+tags: ["eucaristía", "escatología", "sacramentos"]
 
-timestamp: 2026-05-25
-description: "El viático es la sagrada comunión administrada a los fieles que se hallan en peligro de muerte, como alimento espiritual para el tránsito de esta vida a la eternidad."
+timestamp: 2026-08-23
 ---
 # Viático
 
-> Área: Sacramental
-> Última actualización: 2026-05-25
+> Área: Sacramentos / Escatología
+> Última actualización: 2026-08-23
 
 ## Definición
 
-El viático es la sagrada comunión administrada a los fieles que se hallan en peligro de muerte, como alimento espiritual para el tránsito de esta vida a la eternidad. Es el sacramento propio de los cristianos que pasan de esta vida a la Patria.
+El viático es la Eucaristía recibida como preparación para el tránsito de la muerte a la vida eterna. Del latín *viaticum*, «provisiones para el camino», nombra el sentido escatológico del Santísimo Sacramento: no solo alimento del peregrino durante la vida, sino pan que introduce en la patria.
 
 ## Desarrollo doctrinal
 
-El viático, etimológicamente «alimento para el camino», es la última comunión del cristiano. La Iglesia lo considera el «sacramento de los que pasan de esta vida a la Patria» (CEC §1524). Prepara al alma para el encuentro con Cristo y es prenda de la resurrección futura. No debe retrasarse indebidamente.
+Santo Tomás enseña que este sacramento, «en cuanto significa la fruición divina que tendrá lugar en el cielo, se llama viático, porque nos provee el camino de llegada allá» (SmTh III q.73 a.4). El Catecismo recoge esta doble vertiente: la Eucaristía es «anticipación de la gloria celestial» (CEC 1402) y, para los que van a morir, «semilla de vida eterna y poder de resurrección» (CEC 1524). La peculiaridad teológica subrayada por Nicholas Healy Jr. es que el viático no es un medio meramente instrumental que se abandona al llegar: «el pan del camino contiene la meta del camino» — la comunión con Dios mismo.
 
 ## Perspectivas por fuente
 
-### Según el Código de Derecho Canónico (CIC)
+### Evangelization & Culture 11 (EAC-11)
 
-El CIC regula el viático en los cánones 911 y 921-922. Tienen obligación y derecho a llevar la santísima Eucaristía a los enfermos como Viático: el párroco, los vicarios parroquiales, los capellanes y el Superior de la comunidad en los institutos religiosos o sociedades de vida apostólica clericales (c. 911 §1). En caso de necesidad o con licencia al menos presunta, debe hacerlo cualquier sacerdote u otro ministro de la sagrada comunión (c. 911 §2). Se debe administrar el Viático a los fieles que, por cualquier motivo, se hallen en peligro de muerte (c. 921 §1). Aunque hubieran recibido la sagrada comunión el mismo día, es muy aconsejable que vuelvan a comulgar quienes lleguen a encontrarse en peligro de muerte (c. 921 §2). Mientras dure el peligro, es aconsejable administrar la comunión varias veces, en días distintos (c. 921 §3). No debe retrasarse demasiado el Viático a los enfermos; los pastores de almas han de vigilar diligentemente para que los enfermos lo reciban cuando tienen aún pleno uso de sus facultades (c. 922).
+Nicholas Healy Jr. («The Eucharist and the Beatific Vision») desarrolla la dimensión escatológica del viático contra toda lectura puramente instrumental:
+
+- **Tradición antigua**: los Padres llaman a la Eucaristía «medicina de inmortalidad» (Ignacio de Antioquía, *Ad Eph.* 20,2), prenda y promesa de la resurrección.
+- **Aquino**: Cristo es *simul viator et comprehensor*; tras la Ascensión permanece peregrino en su Cuerpo Místico, intercediendo «siempre vivo para interceder por nosotros» (SmTh III q.57 a.6). El viático une al moribundo con ese Cristo que cruza la meta.
+- **Contenido del don**: recibir en fe el Cuerpo y Sangre de Cristo es entrar en comunión con Dios y con todos los miembros del Cuerpo; Cristo otorga además el Espíritu — participación del amor del Padre.
+- **Magisterio reciente**: Benedicto XVI (*Sacramentum Caritatis* 31-32): la celebración eucarística «realiza sacramentalmente la reunión escatológica del Pueblo de Dios», anticipando «el banquete de bodas del Cordero»; Juan Pablo II (*Ecclesia de Eucharistia* 18): quienes se alimentan de Cristo «no necesitan esperar el más allá para tener vida eterna... Con la Eucaristía digerimos, por así decirlo, el 'secreto' de la resurrección».
+- **Consecuencia**: *Benedictus Deus* (visión inmediata tras la muerte) armoniza con la forma eucarística de la bienaventuranza: no hay disyuntiva entre unión perfecta con Cristo y participación en su misión continua.
+
+## Distinciones importantes
+
+- **Viático vs unción de los enfermos**: ambos integran la penitencia cristiana final; el viático es la Eucaristía misma, culminación de los sacramentos del tránsito (CEC 1524-1525).
+- **Medio vs meta**: el viático es sacramento-metáfora invertida: el pan del camino que ya contiene la patria.
+- **Anticipación vs posesión**: en la tierra la Eucaristía es prenda y anticipo (*pignus futurae gloriae*); en el cielo cesa bajo especies, no en verdad.
+
+## Relaciones doctrinales
+
+[[eucaristía]], [[visión_beatífica]], [[novísimos]], [[muerte]], [[resurrección_de_los_muertos]], [[cuerpo_místico_de_cristo]], [[benedicto_xii]]
 
 ## Ver también
 
-[[sagrada_comunión]], [[eucaristía]], [[unción_de_los_enfermos]], [[sacramento_de_la_reconciliación]], [[enfermedad]], [[peligro_de_muerte]]
+- [[eucaristía]]
+- [[visión_beatífica]]
+- [[evangelization_and_culture_issue_11_four_last_things]]
 
 ## Referencias
 
-- CIC cc. 911, 921-922
-- CEC §1524-1525
+- Healy Jr., Nicholas J. «The Eucharist and the Beatific Vision», en *Evangelization & Culture* 11 (Spring 2022).
+- Tomás de Aquino. *Summa Theologiae* III q.73 a.4.
+- Catecismo de la Iglesia Católica 1402, 1524-1525.

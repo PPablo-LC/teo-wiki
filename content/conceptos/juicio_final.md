@@ -69,6 +69,12 @@ El **Papa Pelagio I** (557), en su carta *Humani generis* al rey Childeberto (D-
 
 La infografía del Apocalipsis del PdB describe entre sus visiones escatológicas los «últimos combates, con el triunfo de Cristo, el juicio final y la aparición de la nueva Jerusalén mesiánica». El libro concluye con la victoria definitiva de Cristo: el mal no tendrá la última palabra y el Señor, en su segunda venida, establecerá su Reino para siempre. La nueva Jerusalén es presentada como la consumación escatológica donde «las naciones caminarán a la luz del Cordero, y los reyes de la tierra le rendirán su gloria» [PdB, Apocalipsis].
 
+### Según Evangelization & Culture 11 (EAC-11)
+
+- **El juicio exige estándar, no jueces usurpadores** (Tod Worner): «No juzguéis» (Mt 7,1-5; Jn 8,3-7; St 4,12) no significa que no haya verdad ni Juez final, sino que reconocemos la verdad eterna de Dios, humillados por nuestras faltas y dispuestos al bien del prójimo; «el juicio y el estándar por el cual juzgar están cósmicamente asegurados, pero es trabajo de Dios, no tuyo ni mío». Scalia: «If I had my way... But I am not king». Criterio positivo: Ratzinger (homilía pre-cónclave 2005): la amistad con Cristo como medida del humanismo verdadero.
+- **El juicio en clave litúrgica** (Roland Millare sobre Ratzinger): Vermeer, *Woman Holding a Balance* — la mujer embarazada pesa perlas ante el Juicio Final pintado al fondo: los bienes de este mundo se leen desde el escatón; la balanza simboliza tanto el juicio particular a la muerte como el Dies Irae comunitario. Síntesis ratzingeriana de las postrimerías: «el Juicio es la medida de nuestra comunión con Dios y con los demás».
+- **Juicio y sed de justicia** (Bishop Barron): el juicio final responde a la intuición moral de que demasiados buenos mueren sin recompensa suficiente y malvados sin pagar; si Dios es justo, debe haber un estado donde las injusticias se restablezcan.
+
 ## Distinciones importantes
 
 - Juicio particular: ocurre inmediatamente después de la muerte de cada persona
@@ -81,7 +87,7 @@ Se relaciona con el [[juicio_particular]], la [[resurrección_de_la_carne]], la 
 
 ## Ver también
 
-[[juicio_particular]], [[resurrección_de_la_carne]], [[justicia_divina]], [[escatología]], [[conversión]], [[cristo_juez]], [[valle_de_Josafat]]
+[[juicio_particular]], [[resurrección_de_la_carne]], [[justicia_divina]], [[escatología]], [[conversión]], [[cristo_juez]], [[valle_de_Josafat]], [[evangelization_and_culture_issue_11_four_last_things]]
 
 ## Analizado en contexto cultural
 
@@ -92,3 +98,4 @@ Se relaciona con el [[juicio_particular]], la [[resurrección_de_la_carne]], la 
 - [CEC §1038-1041, §678-682]
 - [SmTh, Suppl. q.73 a.1-3, q.74 a.1-9, q.87 a.1-3, q.88 a.1-4, q.89 a.1-8, q.90 a.1-3]
 - [TPCr, Tercera Parte, Libro III]
+- Worner, Tod; Millare, Roland. Artículos en *Evangelization & Culture* 11 (Spring 2022).

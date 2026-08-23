@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Purgatorio
 tags: ["escatología"]
 
-timestamp: 2026-05-26
+timestamp: 2026-08-23
 description: "Estado de purificación final de los elegidos que mueren en la gracia y amistad de Dios, pero imperfectamente purificados, para alcanzar la santidad necesaria para entrar en la gloria del cielo."
 ---
 # Purgatorio
 
 > Área: Escatología
-> Última actualización: 2026-06-26
+> Última actualización: 2026-08-23
 
 ## Definición
 
@@ -49,6 +49,16 @@ El **II Concilio de Lyon** (1274, D-464) definió que las almas de los que muere
 
 El purgatorio es uno de los cinco estados de las almas después de la muerte: el estado donde las almas son detenidas de recibir su recompensa final por un defecto de la persona (pecados personales que necesitan purificación) [SmTh, Suppl. q.69 a.7 co-ad]. El alma separada puede padecer el fuego corpóreo como instrumento de la justicia divina; el fuego detiene al alma y esta lo aprehende como dañino [SmTh, Suppl. q.70 a.3]. Los sufragios (oraciones, limosnas, sacrificio del altar) aprovechan sin duda a quienes están en el purgatorio, porque la pena del purgatorio está destinada a suplir la satisfacción no completada en vida, y las obras de uno pueden valer para la satisfacción de otro [SmTh, Suppl. q.71 a.6].
 
+### Evangelization & Culture 11 (EAC-11)
+
+La sección «Lives» (Bert Ghezzi / Nicholas Healy Jr.) presenta a [[san_nicolás_de_tolentino]], patrono de las Almas del Purgatorio desde 1884 (León XIII), como modelo del compromiso de «vaciar el purgatorio»:
+
+- **Modelo de sufragio**: Nicolás oraba de noche ante el Santísimo por los difuntos; tras la aparición del hermano Peregrino — alma que le pidió celebrar la Misa por su liberación — dedicó una semana de Misas y adoración, liberando según se le anunció una multitud del purgatorio.
+- **Precisión doctrinal sobre el fuego**: Nicolás mantuvo la imaginería medieval del purgatorio como lugar con llamas; pero la enseñanza definida debe prevalecer: el Compendio del CEC (n. 210) define el purgatorio como «el estado de quienes mueren en amistad de Dios, seguros de su salvación eterna, pero que necesitan aún de purificación para entrar en la felicidad del cielo». Juan Pablo II (audiencia del 4-VIII-1999), citando Florencia y Trento: «el término no indica un lugar, sino una condición de existencia. Los que están en estado de purificación después de la muerte están ya en el amor de Cristo, que les libera de los restos de imperfección».
+- **Fuego interior** (Benedicto XVI, audiencia del 12-I-2011, citando a santa Catalina de Génova): el purgatorio «no es un fuego exterior sino interior... que purifica»; sus penas no son castigo vengativo sino misericordia.
+- **Orar por las almas hoy**: al rezar por los difuntos, especialmente en la Misa, no esperamos librarlos de un lugar de castigo sino acelerar su purificación; invitación a imitar a san Nicolás «vaciando el purgatorio».
+- **Contexto escatológico general del número**: el purgatorio figura entre los novísimos como respuesta a la sed de justicia (Barron): muchos mueren buenos sin recompensa suficiente — ni malvados sin pagar; el purgatorio completa esa justicia misericordiosa para los salvados.
+
 
 ## Distinciones importantes
 
@@ -59,7 +69,7 @@ El purgatorio es uno de los cinco estados de las almas después de la muerte: el
 
 ## Relaciones doctrinales
 
-[[escatología]], [[juicio_particular]], [[infierno]], [[cielo]], [[indulgencias]], [[comunión_de_los_santos]], [[jorge_loring]]
+[[escatología]], [[juicio_particular]], [[infierno]], [[cielo]], [[indulgencias]], [[comunión_de_los_santos]], [[jorge_loring]], [[san_nicolás_de_tolentino]], [[ánimas_del_purgatorio]]
 
 ## Referencias
 
@@ -68,3 +78,4 @@ El purgatorio es uno de los cinco estados de las almas después de la muerte: el
 - Concilio de Trento
 - TPCr, passim (especialmente sobre el sufragio por las almas del purgatorio)
 - [PS §98]
+- Healy Jr., Nicholas J. / Ghezzi, Bert. «The Patron Saint of Holy Souls», en *Evangelization & Culture* 11 (Spring 2022).
