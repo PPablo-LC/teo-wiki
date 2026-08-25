@@ -3,40 +3,34 @@ type: ResumenFuente
 title: "The Sublime St. John's Bible"
 fuente: Evangelization and culture - 1
 capítulo: 12
-timestamp: 2026-08-24
-description: "Resumen de 'The Sublime St. John's Bible' — Evangelization and culture - 1"
-tags: ["resumen", "evangelization and culture - 1"]
+timestamp: 2026-08-25
+description: "La Biblia de San Juan: manuscrito iluminado monumental"
+tags: ["resumen", "biblia", "arte", "liturgia", "belleza"]
 ---
 
 # The Sublime St. John's Bible
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[biblia]] — Palabra de Dios viva en una página
+- [[arte]] — Artes y oficios al servicio de lo sagrado
+- [[belleza]] — Comunicación visual de la verdad divina
+- [[liturgia]] — Fundamento de la espiritualidad católica
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `12_art_st_johns_bible.md`
+**El proyecto:** La Abadía de San Juan encargó al calígrafo Donald Jackson crear una Biblia manuscrita e iluminada monumental — la primera en casi 500 años por una abadía benedictina.
 
+**Materiales:** Vitela, plumas de ave, tintes artesanales, pan de oro. Siete volúmenes con expectativa de vida de 2.000+ años.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**Propósito:** Reflejar la experiencia cristiana del siglo XXI y testificar la importancia perenne de la [[Biblia]] como fundamento de la espiritualidad, teología, liturgia y oración católica.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 3 | H1 | The Sublime St. John's Bible |
+**Iluminaciones destacadas:**
+- **Wisdom Woman:** La face de una mujer mayor como rostro de la verdadera belleza
+- **Genealogía de Jesús:** Sobre una Menorá (árbol de la vida); linaje en hebreo e inglés
+- **Glory to God:** Trompeta anunciacional del nacimiento de Jesús
+- **Death of Moses:** El desaliento de Moisés al mirar la Tierra Prometida
 
+Jackson: «Cada vez que la Palabra de Dios viaja de la página a tus ojos, a través de tu cerebro, nervios y músculos, y luego a través de tus dedos a la pluma y a la página, has dejado que la Palabra de Dios se lave a través de tu cuerpo.»
 
-## Secciones incluidas
-
+Las artes deben estar al servicio de lo sagrado. Cada generación debe enlistar el talento artístico en esta búsqueda.

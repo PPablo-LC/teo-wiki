@@ -3,40 +3,36 @@ type: ResumenFuente
 title: "In Defense of Common Art"
 fuente: Evangelization and culture - 1
 capítulo: 15
-timestamp: 2026-08-24
-description: "Resumen de 'In Defense of Common Art' — Evangelization and culture - 1"
-tags: ["resumen", "evangelization and culture - 1"]
+timestamp: 2026-08-25
+description: "Por qué la ficción importa en la cultura católica"
+tags: ["resumen", "literatura", "encarnación", "evangelización", "empatía"]
 ---
 
 # In Defense of Common Art
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[literatura]] — Condición necesaria para relaciones humanas
+- [[encarnación]] — «La Encarnación no solo trajo salvación sino que dio nacimiento a la novela»
+- [[evangelización]] — Empatía como habilidad clave
+- [[empatía]] — Desarrollada por la lectura de ficción
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `15_in_defense_of_common_art.md`
+**La literatura importa:** La capacidad de ponderar historias, ideas y temas es prerequisito necesario para relaciones humanas, estudios avanzados, liturgia y oración personal.
 
+**Arte común vs. arte sagrado:**
+- Arte sagrado: eleva hacia lo trascendente, para liturgia
+- Arte común (ficción): responde a «¿Qué ahora?» tras la experiencia de lo sagrado
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**Walker Percy:** «La Encarnación no solo trajo salvación sino que dio nacimiento a la novela. El judaísmo-cristianismo trata de peregrinos con algo mal, buscando salida. Las novelas también.»
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 7 | H1 | In Defense of Common Art |
+**Catolicismo y creatividad son aliados naturales:** Las mayores ventajas naturales del novelista son también las del apologista.
 
+**Empatía y evangelización:**
+- La lectura de ficción desarrolla empatía
+- El evangelizador efectivo trata a su interlocutor como persona, no como error a desmantelar
+- «Imaginar generosamente» (George Saunders): la buena ficción te imagina generosamente
+- La evangelización requiere imaginar generosamente al oyente
 
-## Secciones incluidas
-
+Cuando nos hacemos creíbles sobre cosas terrenales, podemos ser persuasivos sobre cosas celestiales.

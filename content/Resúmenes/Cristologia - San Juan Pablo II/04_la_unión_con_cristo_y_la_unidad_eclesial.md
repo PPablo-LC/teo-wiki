@@ -1,45 +1,67 @@
 ---
 type: ResumenFuente
-title: "La unión con Cristo y la unidad eclesial."
+title: "La unión con Cristo y la unidad eclesial"
 fuente: Cristologia - San Juan Pablo II
 capítulo: 4
-timestamp: 2026-08-24
-description: "Resumen de 'La unión con Cristo y la unidad eclesial.' — Cristologia - San Juan Pablo II"
-tags: ["resumen", "cristologia - san juan pablo ii"]
+timestamp: 2026-08-25
+description: "Catequesis sobre la unión con Cristo y la unidad de los cristianos"
+tags: ["resumen", "cristologia", "catequesis", "juan_pablo_ii", "ecumenismo", "bautismo", "unidad"]
 ---
 
-# La unión con Cristo y la unidad eclesial.
+# La unión con Cristo y la unidad eclesial
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[unidad_eclesial]] — Unión de todos los cristianos en Cristo
+- [[ecumenismo]] — Movimiento por la unidad de los cristianos
+- [[bautismo]] — Vínculo sacramental de unidad
+- [[reconciliación]] — Nuevo nacimiento en Cristo
+- [[cristo]] — Centro de unidad cristiana
+- [[iglesia]] — Sacramento de unidad
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `04_la_unión_con_cristo_y_la_unidad_eclesial.md`
+### Catequesis del 21 de enero de 1987
 
+**Semana de Oración por la unidad:**
+- Lema: «Unidos en Cristo, una nueva creación» (2 Cor 5, 17-6, 4a)
+- Católicos, ortodoxos, anglicanos y protestantes en asambleas comunes
+- Invocar perdón por pecado de la división
+- Oración común como dinamismo espiritual hacia la unidad
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**Unión en Cristo como raíz de unidad:**
+- Sacrificio de Jesucristo nos reconcilia con Dios
+- Incorporados a Él, participamos de su vida
+- Llamados a vida nueva (Rom 6, 4)
+- «El que es de Cristo se ha hecho una criatura nueva» (2 Cor 5, 17)
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | La unión con Cristo y la unidad eclesial. |
+**Vínculo sacramental del bautismo:**
+- Concilio Vaticano II: base en «vínculo sacramental de unidad»
+- Bautismo incorpora realmente a Cristo crucificado y glorificado
+- Regeneración para consorcio de vida divina
+- Poderoso vínculo entre todos los regenerados
+- Fundamento sólido pero no estático de unidad
 
+**Exigencia de plena comunión:**
+- Del bautismo común emana exigencia de unidad plena
+- Comunión eclesial sin división de fe
+- Variedad legítima de tradiciones litúrgicas y disciplinares
+- Testimonio convincente de nueva creación
 
-## Secciones incluidas
+**Encuentro de Asís:**
+- Oración común basada en fe en Jesucristo
+- Expresión de lo específicamente cristiano que une
+- Experiencia anticipada del día sin divisiones
+- Servicio común al hombre de nuestro tiempo
 
-# La unión con Cristo y la unidad eclesial.
+**Ecumenismo en conciencia de Iglesia:**
+- Sínodo Extraordinario: ecumenismo inscrito en conciencia
+- Diálogo ecuménico muestra Iglesia como sacramento de unidad
+- Comunión incompleta llama a colaboración
+- Testimonio común del amor salvífico de Dios
 
-[Contenido de esta sección...]
+**Oración por la unidad:**
+- Ministerio de reconciliación requiere plena reconciliación
+- Antes que nada con quienes comparten fe en Dios Trino
+- Oración por hermanos en la fe
+- Petición de unidad plena que Cristo quiso para su Iglesia

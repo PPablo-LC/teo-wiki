@@ -3,34 +3,22 @@ type: ResumenFuente
 title: "Momentos que requieren contexto visual"
 fuente: Discurso a los Jóvenes Chilenos Juan Pablo II [59J1PWb_DZY]
 capítulo: 3
-timestamp: 2026-08-24
-description: "Resumen de 'Momentos que requieren contexto visual' — Discurso a los Jóvenes Chilenos Juan Pablo II [59J1PWb_DZY]"
-tags: ["resumen", "discurso a los jóvenes chilenos juan pablo ii [59j1pwb dzy]"]
+timestamp: 2026-08-25
+description: "Momentos del discurso que requieren contexto visual"
+tags: ["resumen", "discurso", "juan_pablo_ii", "juventud", "chile"]
 ---
 
 # Momentos que requieren contexto visual
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[juventud]] — Multitud presente en el evento
+- [[testimonio_cristiano]] — Cartas y testimonios de jóvenes
+- [[encuentro_con_cristo]] — Gestos del orador
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `analisis.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-
-## Secciones incluidas
-
+- **Referencias a la multitud:** El Papa hace alusión a la alegría del encuentro y a la mirada de los jóvenes. Momentos en los que se muestran los rostros y la reacción de la multitud añadirían contexto.
+- **Referencias a testimonios:** El Papa menciona haber leído cartas y testimonios. Momentos donde se muestran jóvenes leyendo o expresando sus inquietudes.
+- **Gestos del orador:** El Papa enfatiza sus palabras con gestos. En varios puntos donde dice "mirad al Señor", "no tengáis miedo", el contexto visual de su presencia física y su mirada es importante.
+- **Entorno:** El marco físico del discurso (un estadio, un campo, una plaza) ayuda a entender la magnitud del evento.

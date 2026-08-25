@@ -3,45 +3,44 @@ type: ResumenFuente
 title: "PREFACIO"
 fuente: Colaciones II - Juan Casiano
 capítulo: 8
-timestamp: 2026-08-24
-description: "Resumen de 'PREFACIO' — Colaciones II - Juan Casiano"
-tags: ["resumen", "colaciones ii - juan casiano"]
+timestamp: 2026-08-25
+description: "Resumen del segundo Prefacio de las Colaciones II de Juan Casiano"
+tags: ["resumen", "colaciones_ii", "juan_casiano", "cenobitismo", "anacorétismo"]
 ---
 
 # PREFACIO
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[cenobitismo]] — Vida monástica en comunidad bajo una regla
+- [[anacorétismo]] — Vida solitaria de ermitaños
+- [[conferencias-padres-desierto]] — Enseñanzas de los monjes egipcios
+- [[disciplina-monástica]] — Regla y costumbres de la vida religiosa
+- [[obispos-heladio-leonceo]] — Destinatarios de las primeras diez conferencias
 
+## A JOVINIANO, MINERVO, LEONCIO Y TEODORO
 
-## Contenido
+Juan Casiano dedica estas conferencias a cuatro destinatarios:
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `09_prefacio.md`
+1. **Teodoro**: ha establecido en las provincias de la Galia la santa y egregia disciplina cenobítica, con todo el rigor de las antiguas virtudes
+2. **Joviniano, Minervo, Leoncio**: han logrado engendrar en las almas de los monjes un vivo amor a la profesión cenobítica y un anhelo sin igual por la grandeza sublime de la soledad
 
+### Estructura de las Colaciones de Juan Casiano:
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+- **Diez primeras conferencias**: compuestas a petición de los obispos Heladio y Leoncio (Padres del desierto de Escete)
+- **Siete conferencias anteriores** (XI-XVII): dedicadas al obispo Honorato y al venerable Euquerio
+- **Las restantes** (XVIII-XXIV): dedicadas a Joviniano, Minervo, Leoncio y Teodoro
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 5 | H1 | PREFACIO |
-| 7 | H2 | A JOVINIANO, MINERVO, LEONCIO YTEODORO[1] |
-| 19 | H1 | XVIII. |
+### Utilidad de las conferencias:
 
+Están estructuradas de tal suerte que son igualmente útiles a:
+- **Cenobitas**: los que persisten en llevar el laudable yugo de la sujeción dentro de la comunidad
+- **Anacoretas**: los que desean seguir la disciplina anacorética no lejos de los cenobios
 
-## Secciones incluidas
+Los monjes encontrarán en ellas una más completa instrucción, en consonancia con el ambiente en que viven y el estado que han escogido.
 
-# A JOVINIANO, MINERVO, LEONCIO YTEODORO[1]
+### Valor de las conferencias:
 
-[Contenido de esta sección...]
+Los monjes recibirán en sus propias celdas a sus auténticos autores. En cierto modo gozarán cada día de su compañía, alternando las preguntas y acogiendo sus respuestas. Con ello no se moverán a impulsos de su propio criterio por esta senda tan ardua como desconocida.
+
+Es de esperar que se acostumbren a vivir en la disciplina anacorética según las máximas de aquellos que se han regido en todo por la antigua tradición y el trabajo de una larga experiencia.

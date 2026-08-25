@@ -2873,3 +2873,51 @@ raw ([[apostolado_laical]], [[autoridad_evangélica]], [[laicado_apostólico]],
 (residen solo en raw/, fuera del escaneo); su contenido está incorporado
 en [[dirección_espiritual]], [[formación_cristiana]], [[seminario]],
 [[catequesis]], [[adolescencia]] y [[educación]] respectivamente.
+
+## Sembrados por los resúmenes de Catholicism (Word on Fire, 2026-08-25)
+
+La generación de los 10 resúmenes por lección siembra seis huérfanos
+nuevos (forward references que documentan dónde reside su contenido):
+
+| Wikilink | Referencias | Contenido actual / artículo futuro |
+|----------|-------------|-------------------------------------|
+| `[[teotocos]]` | 1 | Contenido en `wiki/Resúmenes/Catholicism-Word_on_Fire/04_lección_4_la_solitaria_presunción.md` (Éfeso 431); candidato a artículo propio en mariología |
+| `[[sacrificio_expiatorio]]` | 1 | Contenido en el resumen 04 (Girard: chivo expiatorio vs Cristo víctima); relacionado con [[sacrificio]] y [[cruz]] |
+| `[[marcas_de_la_iglesia]]` | 1 | Contenido en el resumen 06 (una, santa, católica, apostólica); candidato a artículo propio eclesiológico |
+| `[[caminito]]` | 2 | Contenido en el resumen 08 (niñez espiritual de Santa Teresita); candidato a artículo propio |
+| `[[castillo_interior]]` | 2 | Contenido en el resumen 09 (Teresa de Ávila); candidato a artículo propio |
+| `[[desarrollo_de_la_doctrina]]` | 1 | Contenido en el resumen 06 (Newman); candidato a artículo propio |
+
+## Sembrados por los resúmenes de Colaciones I — Juan Casiano (2026-08-25)
+
+La generación de los 12 resúmenes siembra trece huérfanos nuevos
+(forward references que documentan dónde reside su contenido). Los
+wikilinks [[casiano]], [[san_antonio_abad]] y los conceptos principales
+([[fin_ultimo_del_monje]], [[pureza_del_corazon]], [[tres_renuncias]],
+[[ocho_vicios_capitales]], [[discrecion]], [[movilidad_del_alma]]) ya
+resuelven a artículos existentes.
+
+| Wikilink | Referencias | Contenido actual / artículo futuro |
+|----------|-------------|-------------------------------------|
+| `[[yermo_de_escete]]` | 1 | Contexto en todos los resúmenes de Colaciones I; candidato a artículo propio |
+| `[[oracion_continua]]` | 2 | Contenido en resúmenes IX-X de Colaciones I; núcleo de la doctrina casianense |
+| `[[especies_de_oracion]]` | 1 | Resumen IX: las cuatro especies de 1 Tim 2,1 |
+| `[[compuncion]]` | 1 | Resumen IX; relacionado con [[compuncion_del_corazon]] y [[espiritu_de_compuncion]] ya registrados |
+| `[[formula_de_oracion]]` | 1 | Resumen X: el versículo «Deus in adiutorium» |
+| `[[recuerdo_continuo_de_dios]]` | 1 | Resumen X |
+| `[[herejia_antropomorfita]]` | 1 | Resumen X (Serapión) |
+| `[[marta_y_maria]]` | 1 | Resumen I (Lc 10, vida activa vs contemplativa) |
+| `[[centurion_espiritual]]` | 1 | Resumen VII (Mt 8,9) |
+| `[[armas_espirituales]]` | 1 | Resumen VII (Ef 6) |
+| `[[ambidextros]]` | 1 | Resumen VI (Job, José; 2 Cor 6,7) |
+| `[[caida_de_lucifer]]` | 1 | Resumen VIII (Ez 28, Is 14) |
+| `[[hijos_de_set]]` | 1 | Resumen VIII (Gén 6 interpretado) |
+
+## Sembrados por la consulta «Predicación: la fe que transforma lo imposible» (2026-08-25)
+
+La nota de consulta `wiki/notas/consultas/predicación_la_fe_que_transforma_lo_imposible.md`
+siembra un huérfano intencional como forward reference al pasaje de referencia.
+
+| Wikilink | Referencias | Contenido actual / artículo futuro |
+|----------|-------------|-------------------------------------|
+| `[[curación_del_hijo_del_funcionario_real]]` | 1 | Nota de consulta (Jn 4,46-54); candidato a artículo propio sobre el segundo signo de Cana |

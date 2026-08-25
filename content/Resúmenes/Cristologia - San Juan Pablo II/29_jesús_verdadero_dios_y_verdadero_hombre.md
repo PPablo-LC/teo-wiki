@@ -1,45 +1,60 @@
 ---
 type: ResumenFuente
-title: "Jesús: verdadero Dios y verdadero hombre."
+title: "Jesús: verdadero Dios y verdadero hombre"
 fuente: Cristologia - San Juan Pablo II
 capítulo: 29
-timestamp: 2026-08-24
-description: "Resumen de 'Jesús: verdadero Dios y verdadero hombre.' — Cristologia - San Juan Pablo II"
-tags: ["resumen", "cristologia - san juan pablo ii"]
+timestamp: 2026-08-25
+description: "Catequesis sobre la doble naturaleza de Cristo"
+tags: ["resumen", "cristologia", "catequesis", "juan_pablo_ii", "humanidad", "divinidad", "unidad_personal"]
 ---
 
-# Jesús: verdadero Dios y verdadero hombre.
+# Jesús: verdadero Dios y verdadero hombre
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[humanidad_de_cristo]] — Verdadero hombre, Hijo de María
+- [[divinidad_de_cristo]] — Verdadero Dios, Hijo del Padre
+- [[unidad_personal]] — Naturaleza divina y humana en una sola persona
+- [[yo_soy]] — Nombre divino aplicado por Jesús a sí mismo
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `29_jesús_verdadero_dios_y_verdadero_hombre.md`
+### Catequesis del 26 de agosto de 1987
 
+**Fe en el Símbolo Apostólico:**
+- «Creo en Jesucristo, su único Hijo»
+- Concebido por obra del Espíritu Santo
+- Verdadero Dios y verdadero hombre
+- «Rationabile obsequium fidei»
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**Pedagogía de Jesús:**
+- Se llama «Hijo del hombre»
+- Deseaba que discípulos descubrieran filiación divina
+- Confesión de Pedro: revelación del Padre (Mt 16, 17)
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Jesús: verdadero Dios y verdadero hombre. |
+**Verdad cada vez más patente:**
+- Para unos: objeto de fe
+- Para otros: contradicción y acusación
+- Proceso ante Sanedrín: «¿Eres el Hijo del Bendito?» (Mc 14, 61-62)
+- «YO SOY»: eco de nombre divino (Ex 3, 14)
 
+**Acusación de blasfemia:**
+- Levítico: blasfemo reo de muerte (Lev 24, 16)
+- «Hijo de Dios» = «hacerse Dios» (Jn 10, 33)
+- Condena: crucifixión según legislación romana
 
-## Secciones incluidas
+**Amenazas anteriores:**
+- Apedreamiento por «Yo y el Padre somos una sola cosa» (Jn 10, 30)
+- «Antes que Abrahán naciese, era yo» (Jn 8, 58)
+- Reacción radical: fe y oposición
 
-# Jesús: verdadero Dios y verdadero hombre.
+**Expresión «YO SOY»:**
+- Referencia a Éxodo 3, 14
+- Contextos significativos: Jn 8, 24. 28. 58; 13, 19; Mt 28, 20
+- «Entonces conoceréis que YO SOY»
+- Indica que Jesús es verdadero Dios
 
-[Contenido de esta sección...]
+**Conclusión:**
+- «Todo lo mío es tuyo, y lo tuyo es mío» (Jn 17, 10)
+- «Yo y el Padre somos una sola cosa» (Jn 10, 30)
+- Unión con Pedro: «Tú eres el Hijo de Dios vivo» (Mt 16, 16)

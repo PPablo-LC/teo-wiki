@@ -1,45 +1,63 @@
 ---
 type: ResumenFuente
-title: "Jesús y el poder divino."
+title: "Jesús y el poder divino"
 fuente: Cristologia - San Juan Pablo II
 capítulo: 37
-timestamp: 2026-08-24
-description: "Resumen de 'Jesús y el poder divino.' — Cristologia - San Juan Pablo II"
-tags: ["resumen", "cristologia - san juan pablo ii"]
+timestamp: 2026-08-25
+description: "Catequesis sobre los milagros de Jesús como manifestación de poder divino"
+tags: ["resumen", "cristologia", "catequesis", "juan_pablo_ii", "milagros", "poder_divino"]
 ---
 
-# Jesús y el poder divino.
+# Jesús y el poder divino
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[milagros]] — Señales de poder divino
+- [[poder_divino]] — Omnipotencia sobre creación
+- [[resurrección_de_lázaro]] — Poder sobre la muerte
+- [[iglesia_primitiva]] — Milagros como confirmación
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `37_jesús_y_el_poder_divino.md`
+### Catequesis del 8 de noviembre de 1987
 
+**Milagros como acreditación:**
+- «Milagros, prodigios y señales» (Act 2, 22)
+- Jesús actuó en nombre propio
+- Convencido de su poder divino
+- Íntima unión con el Padre
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**Poder sobre enfermedad y muerte:**
+- Leproso: «Quiero, sé limpio» (Mc 1, 41-42)
+- Paralítico: «Levántate, toma tu camilla» (Mc 2, 11-12)
+- Hija de Jairo: «Talitha qumi» (Mc 5, 41-42)
+- Joven de Naín: «Joven, levántate» (Lc 7, 14-15)
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Jesús y el poder divino. |
+**Resurrección de Lázaro:**
+- «Lázaro, sal fuera» (Jn 11, 43)
+- Propio poder en unión con Padre
+- «Mi Padre sigue obrando, y yo también» (Jn 5, 17)
+- Confirmación de identidad sustancial con Padre
 
+**Poder sobre naturaleza:**
+- Tempestad calmada: «Calla, enmudece» (Mc 4, 39)
+- «¿Quién es éste que obedece el viento y el mar?» (Mc 4, 41)
+- Pescas milagrosas (Lc 5, 4-6; Jn 21, 3-6)
+- Caná: agua convertida en vino (Jn 2, 7-9)
 
-## Secciones incluidas
+**Reacción ante el misterio:**
+- Pedro: «Señor, apártate de mí» (Lc 5, 8)
+- Temor reverencial ante ala del misterio divino
+- Emoción de Apóstoles y gente
 
-# Jesús y el poder divino.
+**Milagros en la Iglesia primitiva:**
+- Sombras de Pedro sanando (Act 5, 15)
+- «En nombre de Jesucristo Nazareno, anda» (Act 3, 6-7)
+- Pablo: «Mediante poder de milagros y prodigios» (Rom 15, 17-19)
 
-[Contenido de esta sección...]
+**Permanencia en la historia:**
+- Abundaron en comienzos de Iglesia
+- Se repiten siempre en historia de salvación
+- Momentos decisivos del designio de Dios
+- También hoy se obran milagros
+- En cada uno se dibuja rostro del Hijo del hombre/Hijo de Dios

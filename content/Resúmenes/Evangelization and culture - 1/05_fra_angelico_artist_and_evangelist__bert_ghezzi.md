@@ -3,40 +3,40 @@ type: ResumenFuente
 title: "Fra Angelico: Artist and Evangelist — Bert Ghezzi"
 fuente: Evangelization and culture - 1
 capítulo: 5
-timestamp: 2026-08-24
-description: "Resumen de 'Fra Angelico: Artist and Evangelist — Bert Ghezzi' — Evangelization and culture - 1"
-tags: ["resumen", "evangelization and culture - 1"]
+timestamp: 2026-08-25
+description: "Fra Angelico como artista y evangelizador"
+tags: ["resumen", "fra_angelico", "arte", "evangelización", "belleza"]
 ---
 
 # Fra Angelico: Artist and Evangelist — Bert Ghezzi
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[fra_angelico]] — Beato dominico y artista
+- [[arte]] — Evangelización a través del arte
+- [[belleza]] — De lo bello a lo bueno a lo verdadero
+- [[santidad]] — Vida de Fra Angelico
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `05_lives_fra_angelico.md`
+**Estrategia evangelizadora de Bishop Barron:** «La mejor estrategia evangelizadora va de lo bello a lo bueno y finalmente a lo verdadero.»
 
+Fra Angelico (c. 1390-1455) proclamó el Evangelio con su arte, no con palabras. Ingresó a la comunidad dominica como Fra Giovanni.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**Obras principales:**
+- Frescos en San Marco, Florencia (bajo patrocinio de Cosimo de' Medici)
+- La Virgen de la Anunciación: recordatorio del fiat mariano
+- Frescos devocionales en las celdas de los frailes
+- Retablo de San Marco (1439): Santos realistas en conversación
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 7 | H1 | Fra Angelico: Artist and Evangelist — Bert Ghezzi |
+Giorgio Vasari: «Los santos de Fra Angelico se acercan más a la verdad que los de cualquier otro artista.»
 
+En 1447, el papa le ofreció ser Arzobispo de Florencia; declinó: «Puedo pintar cuadros, pero no puedo gobernar hombres.»
 
-## Secciones incluidas
+**Beatificación por Juan Pablo II** (1982) y nombramiento patrono de los artistas (1984).
 
+**Axiomas:**
+- «Quien quiere pintar la historia de Cristo, debe vivir con Cristo»
+- «Quien hace la obra de Cristo, debe permanecer siempre con Cristo»
+
+Evangelización uno a uno a través de la amistad. Vivía simplemente, servía a los pobres, siempre alegre.

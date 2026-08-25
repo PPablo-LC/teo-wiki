@@ -1,45 +1,76 @@
 ---
 type: ResumenFuente
-title: "Jesús, cumple las profecías sobre el Mesías."
+title: "Jesús cumple las profecías sobre el Mesías"
 fuente: Cristologia - San Juan Pablo II
 capítulo: 13
-timestamp: 2026-08-24
-description: "Resumen de 'Jesús, cumple las profecías sobre el Mesías.' — Cristologia - San Juan Pablo II"
-tags: ["resumen", "cristologia - san juan pablo ii"]
+timestamp: 2026-08-25
+description: "Catequesis sobre cómo Jesús cumple las profecías mesiánicas"
+tags: ["resumen", "cristologia", "catequesis", "juan_pablo_ii", "profecías", "messías", "cumplimiento"]
 ---
 
-# Jesús, cumple las profecías sobre el Mesías.
+# Jesús cumple las profecías sobre el Mesías
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[cumplimiento_profético]] — Jesús como plenitud de las profecías
+- [[messías]] — Esperanza de Israel
+- [[juan_bautista]] — Precursor que señala al Mesías
+- [[pedro]] — Primera profesión de fe: «Tú eres el Cristo»
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `13_jesús_cumple_las_profecías_sobre_el_mesías.md`
+### Catequesis del 4 de marzo de 1987
 
+**Convicción de los discípulos:**
+- Andrés: «Hemos encontrado al Mesías» (Jn 1, 41)
+- Imagen difundida de Mesías que Jesús no quiso adaptar
+- «Hizo y enseñó» (Act 1, 1)
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**Juan Bautista y la duda:**
+- Señaló a Jesús como «El que tenía que venir»
+- «Cordero de Dios que quita los pecados del mundo»
+- Desde la cárcel pregunta: «¿Eres Tú o esperamos a otro?» (Mt 11, 3)
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Jesús, cumple las profecías sobre el Mesías. |
+**Respuesta de Jesús:**
+- «Los ciegos ven, los cojos andan, los muertos resucitan»
+- Referencia a palabras de Isaías (Is 35, 4-5; 6, 1)
+- «Bienaventurado quien no se escandaliza de mí» (Lc 7, 23)
+- Juan esperaba juez severo; Jesús es anunciador de buenas nuevas
 
+**Evitación de título ambiguo:**
+- Jesús evita proclamarse Mesías abiertamente
+- Título resultaba ambiguo (interpretado en sentido político)
+- Prefiere testimonio de sus obras
 
-## Secciones incluidas
+**Diálogo con samaritana:**
+- «Yo soy, el que habla contigo» (Jn 4, 25-26)
+- Samaritana: «¿No será el Mesías?» (Jn 4, 28-29)
+- Samaritanos: «Este es verdaderamente el Salvador del mundo» (Jn 4, 22)
 
-# Jesús, cumple las profecías sobre el Mesías.
+**Reacciones en Jerusalén:**
+- «De éste sabemos de dónde viene, mas del Mesías nadie sabrá» (Jn 7, 27)
+- «¿Podrá hacer signos más grandes?» (Jn 7, 31)
+- Sanedrín: expulsión de sinagoga si confesaba Mesías (Jn 9, 22)
 
-[Contenido de esta sección...]
+**Profesión de fe en Cesarea:**
+- «¿Quién decís que soy yo?»
+- Pedro: «Tú eres el Cristo» (Mc 8, 29)
+- Orden de no difundir la verdad sobre su identidad
+- Obras y palabras como base suficiente de fe
+
+**Anuncio de la pasión:**
+- «El Hijo del Hombre padeciese mucho, fuese muerto y resucitado» (Mc 8, 31)
+- Pedro reprende a Jesús: «No quiera Dios que esto suceda»
+- Jesús: «Quítate allá, Satán, tus pensamientos no son los de Dios» (Mc 8, 33)
+
+**Mesías sufriente:**
+- Eco de tentación en el desierto
+- Concepción humana y terrena del Mesías
+- Jesús defendió firmeza la verdad del Siervo sufriente
+- Isaías 53: «Fue traspasado por nuestras iniquidades»
+- «El Justo justificará a muchos» (Is 53, 11)
+
+**Preparación para Pascua:**
+- Preparación personal y de los suyos
+- Misterio mesiánico halla realización plena en Pascua
+- Muerte y resurrección de Jesús

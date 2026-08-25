@@ -1,45 +1,77 @@
 ---
 type: ResumenFuente
-title: "Jesús, Mesías Sacerdote."
+title: "Jesús, Mesías Sacerdote"
 fuente: Cristologia - San Juan Pablo II
 capítulo: 10
-timestamp: 2026-08-24
-description: "Resumen de 'Jesús, Mesías Sacerdote.' — Cristologia - San Juan Pablo II"
-tags: ["resumen", "cristologia - san juan pablo ii"]
+timestamp: 2026-08-25
+description: "Catequesis sobre el sacerdocio mesiánico de Jesús"
+tags: ["resumen", "cristologia", "catequesis", "juan_pablo_ii", "sacerdocio", "melquisedec", "sacrificio"]
 ---
 
-# Jesús, Mesías Sacerdote.
+# Jesús, Mesías Sacerdote
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[sacerdocio_de_cristo]] — Sacerdocio eterno según Melquisedec
+- [[melquisedec]] — Rey-sacerdote, prototipo del Mesías
+- [[sacerdocio_levítico]] — Sacerdocio de la antigua Alianza
+- [[carta_a_los_hebreos]] — Teología del sacerdocio de Cristo
+- [[sacrificio_eucarístico]] — Continuación del sacerdocio de Cristo
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `10_jesús_mesías_sacerdote.md`
+### Catequesis del 18 de febrero de 1987
 
+**Cristo incluye sacerdocio:**
+- Nombre «Cristo» incluye carácter sacerdotal
+- Aspectos real y sacerdotal complementarios
+- Misión mesiánica con profunda unidad
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**Melquisedec como prototipo:**
+- Rey de Salem, contemporáneo de Abrahán (Gen 14, 18-19)
+- Sacró pan y vino, bendijo a Abrahán
+- Figura de rey-sacerdote en tradición mesiánica
+- Salmo 109/110: «Tú eres sacerdote eterno según el rito de Melquisedec»
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Jesús, Mesías Sacerdote. |
+**Sacerdocio en Israel:**
+- Comienza con Arón, hermano de Moisés
+- Tribu de Leví como estirpe sacerdotal
+- Elección para culto, ofrenda de sacrificios, expiación
+- Sacerdocio ligado a enseñanza sobre Dios y su ley
 
+**Jesús y el sacerdocio levítico:**
+- No procede de tribu de Leví, sino de Judá
+- No parece corresponderle carácter sacerdotal
+- Ausencia aparente de tradición de Melquisedec
 
-## Secciones incluidas
+**Cumplimiento pascual:**
+- Proceso ante Sanedrín
+- «A partir de ahora veréis al Hijo del hombre sentado a la diestra» (Mt 26, 64)
+- Referencia clara al Salmo 109/110
 
-# Jesús, Mesías Sacerdote.
+**Carta a los Hebreos:**
+- «Declarado por Dios Pontífice según el orden de Melquisedec» (Heb 5, 9-10)
+- Melquisedec: rey de justicia, rey de paz
+- «Sin padre, sin madre, sin genealogía… sacerdote para siempre» (Heb 7, 2-3)
+- Cristo como cumplimiento de figuras y promesas
 
-[Contenido de esta sección...]
+**Sacerdocio único de Cristo:**
+- Sumo Sacerdote misericordioso y fiel (Heb 2,17)
+- «Sacerdocio perpetuo» (Heb 7, 24)
+- Se ofreció a sí mismo inmaculado (Heb 9, 14)
+- No necesita ofrecer víctimas cada día (Heb 7, 27)
+
+**Ofrenda de Cristo:**
+- «No quisiste sacrificios, pero me has preparado un cuerpo» (Heb 10, 5-7)
+- «Heme aquí que vengo para hacer tu voluntad»
+- Sumo Sacerdote que sabe compadecerse (Heb 4, 15)
+- Redención eterna con su propia sangre (Heb 9, 11-12)
+
+**Fuerza salvífica del sacerdocio:**
+- «Su poder es perfecto para salvar» (Heb 7, 25)
+- «Siempre vive para interceder por ellos»
+- Sacerdocio eterno por poder de vida indestructible (Heb 7, 15-16)
+
+**Testimonio eclesial:**
+- Concilio de Éfeso (431), Trento (1562), Vaticano II
+- Eucaristía: sacrificio según el rito de Melquisedec

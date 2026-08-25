@@ -1,45 +1,59 @@
 ---
 type: ResumenFuente
-title: "En el corazón del testimonio evangélico."
+title: "En el corazón del testimonio evangélico"
 fuente: Cristologia - San Juan Pablo II
 capítulo: 18
-timestamp: 2026-08-24
-description: "Resumen de 'En el corazón del testimonio evangélico.' — Cristologia - San Juan Pablo II"
-tags: ["resumen", "cristologia - san juan pablo ii"]
+timestamp: 2026-08-25
+description: "Catequesis sobre el testimonio central del Evangelio"
+tags: ["resumen", "cristologia", "catequesis", "juan_pablo_ii", "testimonio", "filiación_divina", "revelación"]
 ---
 
-# En el corazón del testimonio evangélico.
+# En el corazón del testimonio evangélico
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[filiación_divina]] — Verdad central de la fe cristiana
+- [[símbolos_de_la_fe]] — Profesión de fe concisa
+- [[revelación_trinitaria]] — Dios se revela como Padre, Hijo y Espíritu
+- [[autorrevelación_de_dios]] — Novedad del Evangelio
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `18_en_el_corazón_del_testimonio_evangélico.md`
+### Catequesis del 20 de mayo de 1987
 
+**Centro de las catequesis:**
+- «Creo en Jesucristo, Hijo único de Dios»
+- Promesa del Mesías encuentra cumplimiento en Jesús
+- Verdadero Hijo de Dios y verdadero hombre
+- Mentalidad monoteísta dificultaba esta verdad
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**Símbolos de la fe:**
+- Apostólico: «Jesucristo, su único Hijo»
+- Niceno-constantinopolitano: «Dios de Dios, Luz de Luz, de la misma naturaleza que el Padre»
+- Concisión esculpe verdades esenciales
+- «Engendrado, no creado, de la misma naturaleza que el Padre»
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | En el corazón del testimonio evangélico. |
+**Plenitud de la Revelación:**
+- «Muchas veces habló Dios; finalmente por su Hijo» (Heb 1, 1-2)
+- Dios mismo como sujeto de la Palabra
+- Autorrevelación de Dios: gran novedad del Evangelio
+- Originalidad del cristianismo como religión del Hijo de Dios
 
+**Testimonio del Hijo sobre el Padre:**
+- Relación filial exclusiva
+- «Nadie conoce al Padre sino el Hijo» (Mt 11, 27)
+- «Nadie conoce al Hijo sino el Padre»
+- Revelación mutua Padre-Hijo
+- Alegría del corazón: «Ocultaste a los sabios, revelaste a los pequeñuelos» (Mt 11, 25)
 
-## Secciones incluidas
+**Esencia de la Revelación trinitaria:**
+- Verdad sobre Cristo como Hijo de Dios pertenece a esencia
+- Dios se revela como unidad de Trinidad
+- Fuente definitiva del testimonio: el mismo Padre
+- Padre que conoce al Hijo y se conoce en el Hijo
 
-# En el corazón del testimonio evangélico.
-
-[Contenido de esta sección...]
+**Conclusión:**
+- Jesús revela al Padre y comparte conocimiento
+- Mediante filiación eterna, Dios es eternamente Padre
+- Confesión con espíritu de fe y alegría
+- «Todo te lo ha confiado el Padre» (Mt 11, 27)

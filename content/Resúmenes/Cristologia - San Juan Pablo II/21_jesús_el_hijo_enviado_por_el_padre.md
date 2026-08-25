@@ -1,45 +1,63 @@
 ---
 type: ResumenFuente
-title: "Jesús, el Hijo enviado por el Padre."
+title: "Jesús, el Hijo enviado por el Padre"
 fuente: Cristologia - San Juan Pablo II
 capítulo: 21
-timestamp: 2026-08-24
-description: "Resumen de 'Jesús, el Hijo enviado por el Padre.' — Cristologia - San Juan Pablo II"
-tags: ["resumen", "cristologia - san juan pablo ii"]
+timestamp: 2026-08-25
+description: "Catequesis sobre la misión del Hijo enviado por el Padre"
+tags: ["resumen", "cristologia", "catequesis", "juan_pablo_ii", "misión", "envío", "redención"]
 ---
 
-# Jesús, el Hijo enviado por el Padre.
+# Jesús, el Hijo enviado por el Padre
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[envío_del_hijo]] — Misión mesiánica de parte del Padre
+- [[redención]] — Entrega del Hijo por amor al mundo
+- [[kénosis]] — Anonadamiento del Hijo en forma de siervo
+- [[obediencia]] — Hasta la muerte de cruz
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `21_jesús_el_hijo_enviado_por_el_padre.md`
+### Catequesis del 24 de junio de 1987
 
+**Verdad central:**
+- Venida del Dios-Hijo al mundo
+- Misión especial de parte del Padre
+- Realización suprema del designio salvífico
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**Envío del Hijo en Juan:**
+- «He salido y vengo de Dios» (Jn 8, 42)
+- «No estoy solo, sino yo y el Padre que me ha mandado» (Jn 8, 16)
+- «El Padre que me ha enviado da testimonio de mí» (Jn 8, 18)
+- «Procedo de Él y Él me ha enviado» (Jn 7, 28-29)
+- «Mi alimento es hacer la voluntad del que me envió» (Jn 4, 34)
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Jesús, el Hijo enviado por el Padre. |
+**Oração sacerdotal:**
+- «Creyeron que tú me has enviado» (Jn 17, 8)
+- «Como tú me enviaste al mundo, así los envié yo» (Jn 17, 18)
+- «Como me envió mi Padre, así os envío yo» (Jn 20, 21)
 
+**Parábola de los viñadores:**
+- Hijo amado enviado como último (Mc 12, 6-8)
+- Carácter sacrificial y redentor del envío
+- «El Padre santificó y envió al mundo» (Jn 10, 36)
 
-## Secciones incluidas
+**Amor de Dios en el envío:**
+- «Tanto amó Dios al mundo que dio a su Hijo» (Jn 3, 16)
+- «Dios ha mandado a su Hijo como salvador del mundo»
+- «Dios es amor» (1 Jn 4, 8)
+- Víctima de expiación por nuestros pecados
+- «No perdonó a su propio Hijo, le entregó por todos nosotros» (Rom 8, 32)
 
-# Jesús, el Hijo enviado por el Padre.
+**Kénosis:**
+- «Reputó como botín el ser igual a Dios» (Flp 2, 6)
+- «Se anonadó tomando la forma de siervo» (Flp 2, 7)
+- «Obediente hasta la muerte» (Flp 2, 8)
+- «Padre es mayor que yo» (Jn 14, 28)
 
-[Contenido de esta sección...]
+**Unión con el Padre:**
+- Obediencia libremente aceptada
+- «Conviene que el mundo conozca que yo amo al Padre» (Jn 14, 31)
+- Unión de voluntades para salvación del hombre
+- Revela verdad sobre Dios: el Amor

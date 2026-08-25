@@ -3,40 +3,36 @@ type: ResumenFuente
 title: "Swallows of Grace — Elizabeth Scalia"
 fuente: Evangelization and culture - 1
 capítulo: 14
-timestamp: 2026-08-24
-description: "Resumen de 'Swallows of Grace — Elizabeth Scalia' — Evangelization and culture - 1"
-tags: ["resumen", "evangelization and culture - 1"]
+timestamp: 2026-08-25
+description: "Ensayo y cuento sobre la imaginación católica y la gracia"
+tags: ["resumen", "imaginación_católica", "literatura", "gracia", "miedo"]
 ---
 
 # Swallows of Grace — Elizabeth Scalia
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[imaginación_católica]] — Capacidad de vivir en cualquier medio
+- [[literatura]] — Escasez de ficción católica contemporánea
+- [[gracia]] — Metáfora de la golondrina
+- [[miedo]] — Trinidad del miedo como obstáculo
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `14_swallows_of_grace.md`
+**La trinidad del miedo:**
+1. Escritores que tienen miedo de escribir
+2. Editores que tienen miedo de publicar
+3. Lectores que tienen miedo de leer
 
+La influencia de Flannery O'Connor, Greene, Percy y Waugh es tan grande que muchos escritores se sienten intimidados. Los lectores católicos a veces se escandalizan si alguien pregunta si Sebastian y Charles de Brideshead Revisited podrían haberse querido.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**La imaginación católica es «católica» en capacidades:** puede vivir provocativamente en cualquier medio: cómics, canciones, juegos, madera, jardinería.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 7 | H1 | Swallows of Grace — Elizabeth Scalia |
+**Cuento: Golondrinas de gracia:**
+- Encuentro ficticio de los Beatles (Lennon y McCartney) con dos estudiantes universarias
+- Discusión sobre la [[gracia]] como «golondrina» que entra silenciosamente
+- Charlie Brown en la lluvia: «Go ahead, rain all over me» — consentimiento a la gracia
+- La gracia como don libre que puede trabajar incluso a través del sufrimiento
+- Lennon escribe un poema: «Grace is a swallow»
 
-
-## Secciones incluidas
-
+Chesterton: «Si una cosa vale la pena hacerla, vale la pena hacerla mal.»

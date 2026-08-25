@@ -3,40 +3,37 @@ type: ResumenFuente
 title: "Introduction to the Features"
 fuente: Evangelization and culture - 1
 capítulo: 13
-timestamp: 2026-08-24
-description: "Resumen de 'Introduction to the Features' — Evangelization and culture - 1"
-tags: ["resumen", "evangelization and culture - 1"]
+timestamp: 2026-08-25
+description: "Introducción a las secciones principales de la revista"
+tags: ["resumen", "creatividad", "encarnación", "evangelización"]
 ---
 
 # Introduction to the Features
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[creatividad]] — Acto nacido de generosidad y amor
+- [[encarnación]] — El acto creativo supremo
+- [[belleza]] — Buscar la belleza, bondad y verdad
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `13_features_intro.md`
+Desde el Génesis 1:1-3,31: «Dios vio todo lo que había hecho, y era muy bueno.»
 
+El acto creativo nace de generosidad, vaciamiento de sí, amor por el prójimo. Une lo efímero con lo eterno.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**El acto creativo como imagen de Dios:**
+- MODELO: Dios que dio forma y sustancia, significado y propósito
+- CRISTO: preguntas atemporales, paráblicas, crucifixión y resurrección
+- Chesterton: el poeta pidiendo «meter su cabeza en el cielo»
+- Saint-Exupéry: el hombre solitario contempla una pila de rocas que deja de ser porque «lleva en sí la imagen de una catedral»
+- Michelangelo: siente al ángel dentro del mármol y talla hasta liberarlo
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 31 | H1 | Introduction to the Features |
+**Artículos incluidos:**
+- Elizabeth Scalia: músicos buscando conversación sobre cosas inefables
+- Katy Carl: por qué la literatura católica importa
+- Anthony Pagliarini: primeros impulsos artísticos del cristianismo
+- Joseph Susanka: responsabilidad de los lectores católicos
+- Rev. Dr. Malcolm Guite: el acto creativo como intento glorioso de aprehender
 
-
-## Secciones incluidas
-
+Somos todos llamados al acto creativo. El Señor quiso algo en lugar de nada, y lo logró gloriosamente.

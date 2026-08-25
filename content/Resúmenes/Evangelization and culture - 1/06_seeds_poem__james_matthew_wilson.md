@@ -3,40 +3,27 @@ type: ResumenFuente
 title: "Seeds (poem) — James Matthew Wilson"
 fuente: Evangelization and culture - 1
 capítulo: 6
-timestamp: 2026-08-24
-description: "Resumen de 'Seeds (poem) — James Matthew Wilson' — Evangelization and culture - 1"
-tags: ["resumen", "evangelization and culture - 1"]
+timestamp: 2026-08-25
+description: "Poema Seeds sobre la parábola del sembrador y la generosidad de la creación"
+tags: ["resumen", "poesía", "creación", "generosidad"]
 ---
 
 # Seeds (poem) — James Matthew Wilson
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[creación]] — Generosidad de la naturaleza
+- [[parábola_del_sembrador]] — Referencia evangélica
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `06_poetry_seeds.md`
+Poema que parte de la parábola del sembrador (Mt 13, 1-9) y la invierte: las semillas se quejan de la teoría de Malthus sobre escasez y decadencia, pero la realidad muestra generosidad:
 
+- Lila que crece entre arces
+- Arce que brota entre azaleas
+- Dientes de león que llenan las laderas
+- Niños corriendo, manos dibujando ángeles, música que escapa de un coche
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+«Todas las cosas declaran su ser y su bondad yéndose más allá de sí mismas como semillas, su casi interminable círculo de nuevo nacimiento mucho como el giro de planetas y estrellas que imitan el círculo de su fuente.»
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 3 | H1 | Seeds (poem) — James Matthew Wilson |
-
-
-## Secciones incluidas
-
+La creación como acto de generosidad que se expande más allá de sí misma.

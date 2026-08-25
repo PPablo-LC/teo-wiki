@@ -3,43 +3,60 @@ type: ResumenFuente
 title: "Se anonadó a sí mismo"
 fuente: Cristologia - San Juan Pablo II
 capítulo: 41
-timestamp: 2026-08-24
-description: "Resumen de 'Se anonadó a sí mismo' — Cristologia - San Juan Pablo II"
-tags: ["resumen", "cristologia - san juan pablo ii"]
+timestamp: 2026-08-25
+description: "Catequesis sobre la kénosis de Cristo"
+tags: ["resumen", "cristologia", "catequesis", "juan_pablo_ii", "kénosis", "encarnación", "pobreza"]
 ---
 
 # Se anonadó a sí mismo
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[kénosis]] — Despojamiento voluntario del Hijo de Dios
+- [[encarnación]] — Asumir condición de siervo
+- [[pobreza_de_cristo]] — Vida marcada por la precariedad
+- [[obediencia]] — Hasta la muerte de cruz
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `41_se_anonadó_a_sí_mismo.md`
+### Catequesis del 17 de febrero de 1988
 
+**«Aquí tenéis al hombre» (Jn 19, 5):**
+- Humanidad sufriente: llagado, coronado de espinas
+- Emblema de humanidad sufriente
+- Víctima por el pecado, solidario con todos
+- Kenosis: despojamiento de sí mismo
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**Texto de Filipenses (2, 6-8):**
+- «Siendo de condición divina, no retuvo ávidamente el ser igual a Dios»
+- «Se despojó tomando condición de siervo»
+- «Se humilló obedeciendo hasta la muerte de cruz»
+- No cesó de ser Dios: asumió naturaleza humana
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Se anonadó a sí mismo |
+**Condición de siervo:**
+- Renuncia a privilegios
+- «El Hijo del hombre no ha venido a ser servido, sino a servir» (Mc 10, 45)
+- Pobreza desde nacimiento: establo, pesebre (Lc 2, 7)
+- Vida oculta en Nazaret: familia de carpintero
+- «El Hijo del hombre no tiene dónde reclinar la cabeza» (Lc 9, 58)
 
+**Condena y cruz:**
+- Acusado, condenado, crucificado
+- Infamante pena de muerte: esclavos y no ciudadanos
+- Literalmente: condición de siervo
 
-## Secciones incluidas
+**Reparación de la dignidad humana:**
+- Tentación original: «Seréis como dioses» (Gn 3, 5)
+- Dios-Hijo no retuvo ser igual a Dios
+- Rehabilita dignidad originaria del hombre
+- Exaltación de naturaleza humana (Atanasio)
 
-# Se anonadó a sí mismo
+**Exaltación:**
+- «Dios le exaltó y le otorgó el nombre sobre todo nombre» (Flp 2, 9)
+- Toda humanidad humillada halla gloria en exaltación de Cristo
 
-[Contenido de esta sección...]
+**Hijo del hombre:**
+- Expresión de verdadera humanidad
+- Contexto: profecía de Daniel (Dn 7, 13)
+- Sentido pleno: divino y humano, cielo y tierra
+- «Veréis al Hijo del hombre sentado a la diestra del Padre» (Mt 26, 64)

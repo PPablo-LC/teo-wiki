@@ -3,40 +3,41 @@ type: ResumenFuente
 title: "Creativity and Jordan Peterson"
 fuente: Evangelization and culture - 1
 capítulo: 10
-timestamp: 2026-08-24
-description: "Resumen de 'Creativity and Jordan Peterson' — Evangelization and culture - 1"
-tags: ["resumen", "evangelization and culture - 1"]
+timestamp: 2026-08-25
+description: "Creatividad humana y sus límites según la perspectiva tomista"
+tags: ["resumen", "creatividad", "imagen_de_Dios", "pecado_original", "soberbia"]
 ---
 
 # Creativity and Jordan Peterson
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[creatividad]] — Reflejo de la creatividad divina
+- [[imagen_de_Dios]] — El ser humano creativo a imagen de Dios
+- [[pecado_original]] — Tentación de ser Dios
+- [[soberbia]] — Intentar reemplazar a Dios
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `10_minds_creativity.md`
+**Creatividad divina vs. humana:**
+- Dios crea ex nihilo; los humanos crean reformando lo existente
+- McCartney, Shakespeare, Michelangelo: reconfiguran materia preexistente
+- En términos de «lo que hacemos», todos somos creativos
 
+**Creatividad ética como tentación:**
+- Nietzsche: los humanos debían crear sus propios valores
+- Übermensch → nazismo
+- El árbol del conocimiento del bien y el mal: intentar reemplazar a Dios
+- Conocimiento total = divino, imposible para criaturas
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**Consecuencias de intentar ser Dios:**
+- Perder la humildad: olvidar que somos criaturas de carne y hueso
+- Perder la justicia: olvidar dar a Dios y al prójimo lo que les corresponde
+- Perder el amor: basado en la realidad del ser amado
+- Los tiranos más malvados reclamaron poder absoluto que pertenece solo a Dios
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 3 | H1 | Creativity and Jordan Peterson |
+**Analogía del perro:**
+- Intentar convertirse en perro → perder bienes humanos
+- Intentar ser Dios → aún más imposible, con consecuencias devastadoras
 
-
-## Secciones incluidas
-
+Sartre: «El hombre fundamentalmente es el deseo de ser Dios.»

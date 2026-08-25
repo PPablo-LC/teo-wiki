@@ -3,37 +3,24 @@ type: ResumenFuente
 title: "Fotogramas extraídos"
 fuente: Discurso a los Jóvenes Chilenos Juan Pablo II [59J1PWb_DZY]
 capítulo: 7
-timestamp: 2026-08-24
-description: "Resumen de 'Fotogramas extraídos' — Discurso a los Jóvenes Chilenos Juan Pablo II [59J1PWb_DZY]"
-tags: ["resumen", "discurso a los jóvenes chilenos juan pablo ii [59j1pwb dzy]"]
+timestamp: 2026-08-25
+description: "Fotogramas extraídos del discurso de Juan Pablo II"
+tags: ["resumen", "discurso", "juan_pablo_ii", "juventud", "chile"]
 ---
 
 # Fotogramas extraídos
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[juventud]] — Multitud en el evento
+- [[encuentro_con_cristo]] — Gestos del orador
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `informe.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-
-## Secciones incluidas
-
 ## Momentos descartados
 
-[Contenido de esta sección...]
+- **Momento 1** (10s) — ❌ Retrato decorativo/ambiente sin contenido teórico.
+- **Momento 2** (127s) — ❌ Retrato decorativo sin contenido teórico.
+- **Momento 3** (257s) — ❌ Retrato decorativo sin contenido teórico.
+
+Los tres fotogramas extraídos fueron descartados por no contener información teórica relevante: retratos decorativos del orador o de la multitud sin valor doctrinal adicional.

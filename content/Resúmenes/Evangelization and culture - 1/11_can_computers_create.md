@@ -3,40 +3,46 @@ type: ResumenFuente
 title: "Can Computers Create?"
 fuente: Evangelization and culture - 1
 capítulo: 11
-timestamp: 2026-08-24
-description: "Resumen de 'Can Computers Create?' — Evangelization and culture - 1"
-tags: ["resumen", "evangelization and culture - 1"]
+timestamp: 2026-08-25
+description: "Análisis filosófico de si las computadoras pueden crear verdaderamente"
+tags: ["resumen", "creatividad", "inteligencia_artificial", "libre_albedrío", "alma"]
 ---
 
 # Can Computers Create?
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[creatividad]] — Diferencia entre creación divina, humana y artificial
+- [[libre_albedrío]] — Decisión libre de crear
+- [[alma]] — Reflexividad como rasgo de la mente racional
+- [[imagen_de_Dios]] — Procreación como reflejo de la creación divina
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `11_science_can_computers_create.md`
+**Diferencia fundamental:**
+- Dios crea de la nada
+- Los humanos crean reformando lo existente
+- Las máquinas ejecutan algoritmos predeterminados
 
+**Apreciación artística:**
+- Las computadoras no pueden apreciar la belleza; no tienen estados subjetivos
+- Turing: computadoras no pueden «ser amables, ingeniosas, hermosas, tener sentido del humor, saber distinguir bien de mal»
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**Decisión de crear:**
+- La creatividad humana implica decisión libre
+- Las computadoras solo ejecutan programas; el azar no añade elección genuina
+- Solo Dios o nosotros somos creativos — la máquina no
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 3 | H1 | Can Computers Create? |
+**Reflexividad:**
+- Ninguna entidad material puede reflexionar sobre sí misma
+- La reflexividad implica distancia no espacial ni temporal
+- El algoritmo no puede reflexionar sobre sí mismo
 
+**Intencionalidad:**
+- La intencionalidad distingue la mente de las cosas materiales
+- El artista incorpora intencionalidad; la computadora ejecuta causalidad
 
-## Secciones incluidas
-
+**Procreación vs. creación:**
+- Los humanos no podemos crear otros creadores, pero sí engendrarlos
+- La procreación comienza con la apreciación de la belleza
+- Solo seres hechos a imagen de Dios pueden engendrar otros creadores

@@ -3,40 +3,28 @@ type: ResumenFuente
 title: "The Word on Fire Institute Team"
 fuente: Evangelization and culture - 1
 capítulo: 2
-timestamp: 2026-08-24
-description: "Resumen de 'The Word on Fire Institute Team' — Evangelization and culture - 1"
-tags: ["resumen", "evangelization and culture - 1"]
+timestamp: 2026-08-25
+description: "Equipo editorial del Word on Fire Institute"
+tags: ["resumen", "word_on_fire", "equipo_editorial"]
 ---
 
 # The Word on Fire Institute Team
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[word_on_fire]] — Organización fundada por Bishop Robert Barron
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `02_masthead.md`
+Lista del equipo editorial y organizativo de Word on Fire:
 
+- **Bishop Robert Barron** — Fundador
+- **Fr. Steve Grunow** — CEO
+- **Sean Lee** — Director de Operaciones
+- **Jared Zimmerer** — Director del Instituto
+- **Matt Nelson** — Subdirector del Instituto
+- **Tod Worner** — Editor Managing
+- **Matthew Becklo** — Editor Senior
+- **Elizabeth Scalia** — Editor Senior
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | The Word on Fire Institute Team |
-
-
-## Secciones incluidas
-
+Equipo creativo, marketing y servicios profesionales incluidos.

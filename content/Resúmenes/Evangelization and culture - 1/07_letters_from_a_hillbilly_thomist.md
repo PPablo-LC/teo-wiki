@@ -3,40 +3,30 @@ type: ResumenFuente
 title: "Letters from a Hillbilly Thomist"
 fuente: Evangelization and culture - 1
 capítulo: 7
-timestamp: 2026-08-24
-description: "Resumen de 'Letters from a Hillbilly Thomist' — Evangelization and culture - 1"
-tags: ["resumen", "evangelization and culture - 1"]
+timestamp: 2026-08-25
+description: "Reseña de The Habit of Being de Flannery O'Connor"
+tags: ["resumen", "flannery_o'connor", "thomismo", "nihilismo", "fe_y_razón"]
 ---
 
 # Letters from a Hillbilly Thomist
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[flannery_o'connor]] — Escritora católica del Sur de Estados Unidos
+- [[thomismo]] — Filosofía de Tomás de Aquino
+- [[nihilismo]] — Lo que O'Connor rechaza
+- [[fe_y_razón]] — Fe e intelecto en O'Connor
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `07_stacks_hillbilly_thomist.md`
+**Misión artística de O'Connor:** «Mi audiencia son las personas que piensan que Dios ha muerto.» Su ficción es oscura, violenta, grotesca y siempre brillantemente artística.
 
+**«Hillbilly Thomist»:** O'Connor quería dar la impresión de ser una «hillbilly Thomist», no una «nihilista de backwoods». El [[thomismo]] le enseñó que Dios existe, que es razonable creer en Él, y que el mundo fue creado y redimido por Él.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**Fe e intelecto:** «Para saber sobre la fe, hay que ir a las personas que la tienen y a los más inteligentes.» Referencias constantes a Agustín, Aquino, Juan de la Cruz, Edith Stein, Simone Weil.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 9 | H1 | Letters from a Hillbilly Thomist |
+**Crítica a la superficialidad piadosa:** O'Connor era suspicaz de la piedad superficial; criticaba seminaristas, sacerdotes y monjas por presentaciones vacías de la fe.
 
+**La Iglesia como lugar de encuentro con el pecado y la gracia:** «Es nuestro negocio cambiar los defectos externos de la Iglesia — la vulgaridad, la falta de erudición, la falta de honestidad intelectual.»
 
-## Secciones incluidas
-
+**Realismo y esperanza:** O'Connor era realista pero su visión era de esperanza. «La Iglesia está fundada en Pedro que negó a Cristo tres veces.»

@@ -3,172 +3,420 @@ type: ResumenFuente
 title: "Comentario General"
 fuente: Comentarios_al_CIC-Eunsa
 capítulo: 2
-timestamp: 2026-08-24
-description: "Resumen de 'Comentario General' — Comentarios_al_CIC-Eunsa"
-tags: ["resumen", "comentarios al cic-eunsa"]
+timestamp: 2026-08-25
+description: "Resumen de los comentarios al Libro I del Código de Derecho Canónico"
+tags: ["resumen", "derecho_canónico", "cic_1983", "leyes_eclesiásticas", "normas_generales"]
 ---
 
 # Comentario General
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[ley_canónica]] — Norma jurídica emanada de la autoridad eclesiástica
+- [[promulgación]] — Acto por el cual la ley se da a conocer y entra en vigor
+- [[costumbre]] — Práctica reiterada que adquiere fuerza de ley
+- [[derechos_adquiridos]] — Derechos consolidados bajo legislación anterior
+- [[interpretación_de_la_ley]] — Operación intelectual para precisar el sentido de la norma
+- [[actos_administrativos]] — Actos singulares de la autoridad eclesiástica
+- [[privilegio]] — Concesión especial que dispensa de la ley general
+- [[dispensa]] — Excepción de la observancia de una ley particular
+- [[rescripto]] — Respuesta escrita de la autoridad competente a una petición
 
+## Comentario General (Título IV)
 
-## Contenido
+El título sobre actos administrativos singulares es una novedad del CIC que responde a:
+- La necesidad de una normativa que regulara la formación de los actos administrativos
+- Una opción del legislador que da un nuevo planteamiento técnico a institutos canónicos tradicionales (rescripto, precepto singular, privilegio y dispensa)
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `01_libro_I.md`
+El título se estructura en cinco capítulos:
+1. Normas comunes
+2. Decretos y preceptos singulares
+3. Rescriptos
+4. Privilegios
+5. Dispensas
 
+## Comentarios a los Cánones 1-22 (Leyes Eclesiásticas)
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### Canon 1: Ámbito de aplicación
+El Código se aplica exclusivamente a la **Iglesia latina**. Las Iglesias orientales, incluso las unidas a Roma, tienen su propio Derecho (Codex canonum Ecclesiarum Orientalum, promulgado en 1990).
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 5 | H1 | Comentario General |
-| 28 | H1 | Comentario al Canon 1 |
-| 37 | H1 | Comentario al Canon 2 |
-| 46 | H1 | Comentario al Canon 3 |
-| 55 | H1 | Comentario al Canon 4 |
-| 64 | H1 | Comentario al Canon 5 |
-| 73 | H1 | Comentario al Canon 6 |
-| 82 | H1 | Comentario al Canon 8 |
-| 91 | H1 | Comentario al Canon 9 |
-| 100 | H1 | Comentario al Canon 10 |
-| 109 | H1 | Comentario al Canon 11 |
-| 118 | H1 | Comentario al Canon 12 |
-| 134 | H1 | Comentario al Canon 12-13 |
-| 143 | H1 | Comentario al Canon 14 |
-| 152 | H1 | Comentario al Canon 15 |
-| 161 | H1 | Comentario al Canon 16 |
-| 170 | H1 | Comentario al Canon 18 |
-| 179 | H1 | Comentario al Canon 22 |
-| 188 | H1 | Comentario al Canon 23 |
-| 197 | H1 | Comentario al Canon 24 |
-| 206 | H1 | Comentario al Canon 25 |
-| 215 | H1 | Comentario al Canon 26 |
-| 224 | H1 | Comentario al Canon 27 |
-| 233 | H1 | Comentario al Canon 28 |
-| 242 | H1 | Comentario al Canon 29 |
-| 251 | H1 | Comentario al Canon 30 |
-| 260 | H1 | Comentario al Canon 31-33 |
-| 269 | H1 | Comentario al Canon 34 |
-| 278 | H1 | Comentario al Canon 35 |
-| 287 | H1 | Comentario al Canon 38 |
-| 296 | H1 | Comentario al Canon 40-47 |
-| 305 | H1 | Comentario al Canon 48-49 |
-| 314 | H1 | Comentario al Canon 50 |
-| 323 | H1 | Comentario al Canon 51 |
-| 332 | H1 | Comentario al Canon 57 |
-| 348 | H1 | Comentario al Canon 58 |
-| 357 | H1 | Comentario al Canon 59 |
-| 366 | H1 | Comentario al Canon 62 |
-| 375 | H1 | Comentario al Canon 63 |
-| 384 | H1 | Comentario al Canon 76 |
-| 393 | H1 | Comentario al Canon 77 |
-| 402 | H1 | Comentario al Canon 79-80 |
-| 411 | H1 | Comentario al Canon 82 |
-| 424 | H1 | Comentario General |
-| 446 | H1 | Comentario al Canon 84 |
-| 455 | H1 | Comentario al Canon 85 |
-| 464 | H1 | Comentario al Canon 86 |
-| 473 | H1 | Comentario al Canon 87 |
-| 482 | H1 | Comentario al Canon 90 |
-| 495 | H1 | Comentario General |
-| 499 | H1 | Comentario al Canon 96 |
-| 508 | H1 | Comentario al Canon 97 |
-| 517 | H1 | Comentario al Canon 98 |
-| 526 | H1 | Comentario al Canon 99 |
-| 535 | H1 | Comentario al Canon 100-107 |
-| 544 | H1 | Comentario al Canon 108-109 |
-| 553 | H1 | Comentario al Canon 110 |
-| 562 | H1 | Comentario al Canon 111 |
-| 571 | H1 | Comentario al Canon 112 |
-| 584 | H1 | Comentario General |
-| 600 | H1 | Comentario al Canon 113 |
-| 609 | H1 | Comentario al Canon 114 |
-| 618 | H1 | Comentario al Canon 115 |
-| 627 | H1 | Comentario al Canon 116-117 |
-| 636 | H1 | Comentario al Canon 119 |
-| 645 | H1 | Comentario al Canon 120 |
-| 654 | H1 | Comentario al Canon 121-123 |
-| 663 | H1 | Comentario al Canon 124 |
-| 679 | H1 | Comentario al Canon 125 |
-| 688 | H1 | Comentario al Canon 126 |
-| 697 | H1 | Comentario al Canon 127 |
-| 706 | H1 | Comentario al Canon 128 |
-| 715 | H1 | Comentario al Canon 129 |
-| 724 | H1 | Comentario al Canon 130 |
-| 733 | H1 | Comentario al Canon 131 |
-| 749 | H1 | Comentario al Canon 132 |
-| 765 | H1 | Comentario al Canon 133 |
-| 774 | H1 | Comentario al Canon 134 |
-| 783 | H1 | Comentario al Canon 136 |
-| 792 | H1 | Comentario al Canon 137 |
-| 801 | H1 | Comentario al Canon 138 |
-| 810 | H1 | Comentario al Canon 139 |
-| 819 | H1 | Comentario al Canon 140-141 |
-| 828 | H1 | Comentario al Canon 143 |
-| 837 | H1 | Comentario al Canon 144 |
-| 846 | H1 | Comentario al Canon 145 |
-| 862 | H1 | Comentario al Canon 146-148 |
-| 871 | H1 | Comentario al Canon 149-150 |
-| 880 | H1 | Comentario al Canon 151 |
-| 889 | H1 | Comentario al Canon 152 |
-| 898 | H1 | Comentario al Canon 153-154 |
-| 907 | H1 | Comentario al Canon 155 |
-| 916 | H1 | Comentario al Canon 156 |
-| 925 | H1 | Comentario al Canon 157 |
-| 934 | H1 | Comentario al Canon 158 |
-| 943 | H1 | Comentario al Canon 159 |
-| 952 | H1 | Comentario al Canon 160 |
-| 961 | H1 | Comentario al Canon 161-162 |
-| 970 | H1 | Comentario al Canon 163 |
-| 979 | H1 | Comentario al Canon 164 |
-| 988 | H1 | Comentario al Canon 165 |
-| 997 | H1 | Comentario al Canon 166 |
-| 1006 | H1 | Comentario al Canon 167 |
-| 1015 | H1 | Comentario al Canon 168 |
-| 1024 | H1 | Comentario al Canon 169-170 |
-| 1033 | H1 | Comentario al Canon 171 |
-| 1042 | H1 | Comentario al Canon 172 |
-| 1051 | H1 | Comentario al Canon 173 |
-| 1060 | H1 | Comentario al Canon 174-175 |
-| 1069 | H1 | Comentario al Canon 176 |
-| 1078 | H1 | Comentario al Canon 177 |
-| 1087 | H1 | Comentario al Canon 178-179 |
-| 1096 | H1 | Comentario al Canon 180 |
-| 1105 | H1 | Comentario al Canon 181 |
-| 1121 | H1 | Comentario al Canon 182 |
-| 1130 | H1 | Comentario al Canon 183 |
-| 1143 | H1 | Comentario General |
-| 1172 | H1 | Comentario al Canon 184 |
-| 1181 | H1 | Comentario al Canon 185 |
-| 1190 | H1 | Comentario al Canon 186 |
-| 1199 | H1 | Comentario al Canon 187 |
-| 1208 | H1 | Comentario al Canon 188 |
-| 1217 | H1 | Comentario al Canon 189 |
-| 1226 | H1 | Comentario al Canon 190-191 |
-| 1235 | H1 | Comentario al Canon 192 |
-| 1244 | H1 | Comentario al Canon 193 |
-| 1253 | H1 | Comentario al Canon 194 |
-| 1262 | H1 | Comentario al Canon 195 |
-| 1271 | H1 | Comentario al Canon 196 |
-| 1280 | H1 | Comentario al Canon 197 |
-| 1289 | H1 | Comentario al Canon 198 |
-| 1298 | H1 | Comentario al Canon 199 |
-| 1307 | H1 | Comentario al Canon 423 |
+### Canon 2: Liturgia
+Referencia al decreto sobre variaciones en ediciones de libros litúrgicos.
 
+### Canon 3: Concordatos
+Aplicación del principio *pacta sunt servanda* a las convenciones concordatarias.
 
-## Secciones incluidas
+### Canon 4: Derechos adquiridos
+El CIC respeta los derechos adquiridos bajo legislación anterior, salvo revocación expresa. Los privilegios de la Santa Sede requieren además estar en uso.
 
+### Canon 5: Costumbres
+- Las costumbres anteriores reprobadas por el CIC quedan derogadas
+- Las costumbres contrarias pero no reprobadas pueden tolerarse si son centenarias
+- Las costumbres no contrarias al CIC perviven si eran jurídicamente vinculantes
+
+### Canon 6: Relación con el CIC 17
+A diferencia del CIC 17, el nuevo Código no conserva generalmente la disciplina anterior, sino que pretende sustituirlo por completo.
+
+### Canon 8: Promulgación
+- La ley se instituye cuando se promulga
+- Modo ordinario de promulgación: inserción en *Acta Apostolicae Sedis*
+- Período de vacación: 3 meses para universales, 1 para particulares
+- Distinción entre promulgación y divulgación
+
+### Canon 9: Irretroactividad
+- La ley es irretroactiva como regla
+- Excepciones: deben constar expresamente en la ley
+- Retroactividad en favor del delincuente: c. 1313
+
+### Canon 10: Actos contrarios a la ley
+Principio característico del ordenamiento canónico: los actos contrarios a la ley no son necesariamente nulos. La nulidad es excepción, no regla.
+
+### Canon 11: Sujetos pasivos de la ley
+Están obligados:
+- Bautizados en la Iglesia católica o admitidos en ella
+- Quienes, una vez católicos, abandonaron la Iglesia
+- Requisitos: suficiente uso de razón y haber cumplido 7 años
+
+### Canon 12-13: Territorialidad
+- **Leyes universales:** aplicables a todo fiel de rito latino
+- **Leyes particulares:** aplicables a una parte de los fieles (personales o territoriales)
+- **Territorialidad absoluta:** se aplica a quien se encuentra en el territorio, independientemente del domicilio
+
+### Canon 14: Dudas
+- **Duda de derecho:** sobre el alcance del supuesto de hecho → ley dudosa es nula
+- **Duda de hecho:** sobre las circunstancias del caso → Ordinarios pueden dispensar *ad cautelam*
+
+### Canon 15: Ignorancia de la ley
+- La ignorancia de leyes irritantes e inhabilitantes no impide sus efectos
+- Para el resto, la relevancia de la ignorancia no puede excluirse
+- Presunciones *iuris tantum* sobre conocimiento de la ley
+
+### Canon 16: Interpretación
+- Disposiciones aclaratorias innovadoras requieren: potestad legislativa y promulgación
+- El Pontificio Consejo para la interpretación de los textos legislativos tiene competencia para interpretaciones generales
+
+### Canon 18: Regla de interpretación
+*Favorabilia amplianda, odiosa restringenda*. Interpretación estricta obligatoria en:
+- Materias penales (garantía del delincuente)
+- Normas que limitan derechos
+- Excepciones a la ley general
+
+### Canon 22: Canonización de leyes civiles
+El legislador eclesiástico remite a leyes del Estado para su aplicación en ámbito canónico.
+
+## Comentarios a los Cánones 23-28 (Costumbre)
+
+### Canon 23: Papel de la comunidad
+- La costumbre requiere consentimiento del legislador
+- El legislador puede aprobar expresamente una costumbre
+- Puede reprobar una costumbre mediante ley
+- Se elimina la discusión sobre consentimiento tácito
+
+### Canon 24: Requisitos de la costumbre
+- Debe ser introducida por la comunidad
+- No puede ser contraria al derecho divino
+- Si es contraria a la ley humana, necesita tiempo inmemorial
+
+### Canon 25: Costumbre contra legem
+- Si el legislador la reprueba expresamente, no puede adquirir eficacia normativa
+- Si no la reprueba, puede tolerarse si es centenaria o inmemorial
+
+### Canon 26: Costumbre praeter legem
+- Debe ser introducida por la comunidad jurídicamente capaz
+- Debe observarse con la intención de obligar
+- Debe durar el tiempo requerido por el derecho
+
+### Canon 27: Costumbre secundum legem
+- Debe ser observada con intención de obligar
+- Debe durar el tiempo requerido por el derecho
+
+### Canon 28: Costumbre general o particular
+- La costumbre general puede ser introducida por toda la comunidad
+- La costumbre particular puede ser introducida por una parte de ella
+
+## Comentarios a los Cánones 29-34 (Actos Administrativos Singulares)
+
+### Canon 29: Concepto
+El acto administrativo singular es una disposición, mandate o autenticación por escrito de un superior eclesiástico competente.
+
+### Canon 30: Elementos esenciales
+- La autoridad competente
+- La forma prescrita por el derecho
+- La finalidad legítima
+
+### Canon 31: Decretos
+- **Decreto general:** acto administrativo singular con fuerza de ley
+- **Decreto particular:** acto administrativo singular que afecta a personas determinadas
+
+### Canon 32: Precepto singular
+Mandato concreto de un superior eclesiástico competente a una persona determinada.
+
+### Canon 33: Contenido del precepto
+- Debe ser posible
+- Debe ser útil
+- Debe ser justo
+
+### Canon 34: Ejecución
+- El precepto debe ser ejecutado en el plazo fijado
+- Si no se ejecuta, puede ser revocado o sustituido
+
+## Comentarios a los Cánones 35-43 (Rescriptos)
+
+### Canon 35: Concepto
+El rescripto es la respuesta escrita de la autoridad competente a una petición legítima.
+
+### Canon 36: Requisitos
+- Petición legítima
+- Autoridad competente
+- Forma prescrita
+
+### Canon 37: Nulidad
+El rescripto es nulo si:
+- No emana de autoridad competente
+- No contiene las formalidades prescritas
+- Se obtiene por dolo o fraude
+
+### Canon 38: Indicación de la causa
+El rescripto debe contener la causa por la que se concede.
+
+### Canon 39: Término
+El rescripto debe ser ejecutado en el plazo fijado.
+
+### Canon 40: Duda de la causa
+Si hay duda sobre la causa, el rescripto puede ejecutarse provisionalmente.
+
+### Canon 41: Interpretación
+El rescripto debe interpretarse según su tenor literal.
+
+### Canon 42: Revocación
+El rescripto puede ser revocado por la autoridad que lo concedió.
+
+### Canon 43: Notificación
+El rescripto debe ser notificado al interesado.
+
+## Comentarios a los Cánones 44-47 (Actos Singulares Administrativos)
+
+### Canon 44: Nulidad
+El acto es nulo si no contiene los elementos esenciales.
+
+### Canon 45: Anulabilidad
+El acto es anulable si adolece de un vicio que lo invalida.
+
+### Canon 46: Rectificación
+El acto viciado puede ser rectificado por la autoridad que lo dictó.
+
+### Canon 47: Eficacia
+El acto produce sus efectos desde que es notificado al interesado.
+
+## Comentarios a los Cánones 48-50 (Parte General de los Actos Administrativos)
+
+### Canon 48: Concepto
+El acto administrativo singular es un acto jurídico por el cual la autoridad eclesiástica manifiesta su voluntad.
+
+### Canon 49: Elementos
+- Objeto
+- Causa
+- Fin
+- Forma
+- Consentimiento (cuando sea necesario)
+
+### Canon 50: Forma
+La forma puede ser:
+- Escrita (cuando el derecho la exige)
+- Oral (cuando el derecho no exige forma escrita)
+
+## Comentarios a los Cánones 51-55 (Actos Singulares de Derecho Público)
+
+### Canon 51: Concepto
+El acto de derecho público es aquel que afecta a la comunidad eclesial.
+
+### Canon 52: Requisitos
+- Autoridad competente
+- Forma prescrita
+- Finalidad legítima
+
+### Canon 53: Publicidad
+El acto de derecho público debe ser publicado.
+
+### Canon 54: Eficacia
+El acto produce sus efectos desde su publicación.
+
+### Canon 55: Revocación
+El acto puede ser revocado por la autoridad competente.
+
+## Comentarios a los Cánones 56-59 (Parte General de los Actos Singulares de Derecho Privado)
+
+### Canon 56: Concepto
+El acto de derecho privado es aquel que afecta a personas determinadas.
+
+### Canon 57: Requisitos
+- Autoridad competente
+- Forma prescrita
+- Finalidad legítima
+
+### Canon 58: Notificación
+El acto debe ser notificado al interesado.
+
+### Canon 59: Eficacia
+El acto produce sus efectos desde que es notificado al interesado.
+
+## Comentarios a los Cánones 60-66 (Actos Singulares en los que Interviene el Consentimiento)
+
+### Canon 60: Concepto
+El acto en el que interviene el consentimiento es aquel para cuya validez se requiere la aceptación del interesado.
+
+### Canon 61: Requisitos
+- Autoridad competente
+- Forma prescrita
+- Consentimiento válido
+- Finalidad legítima
+
+### Canon 62: Consentimiento
+El consentimiento debe ser:
+- Libre
+- Informado
+- No viciado
+
+### Canon 63: Revocación
+El acto puede ser revocado por la autoridad que lo dictó, si concurre justa causa.
+
+### Canon 64: Término
+El acto debe ser aceptado en el plazo fijado.
+
+### Canon 65: Duda
+Si hay duda sobre la validez del consentimiento, el acto puede ejecutarse provisionalmente.
+
+### Canon 66: Interpretación
+El acto debe interpretarse según su tenor literal.
+
+## Comentarios a los Cánones 67-69 (Actos Singulares que Afectan a la Comunidad)
+
+### Canon 67: Concepto
+El acto que afecta a la comunidad es aquel que tiene repercusión en la vida eclesial.
+
+### Canon 68: Requisitos
+- Autoridad competente
+- Forma prescrita
+- Finalidad legítima
+
+### Canon 69: Publicidad
+El acto debe ser publicado para que produzca efectos.
+
+## Comentarios a los Cánones 70-73 (Actos Singulares de los Obispos)
+
+### Canon 70: Concepto
+El acto del obispo es aquel que dicta en ejercicio de su potestad de gobierno.
+
+### Canon 71: Requisitos
+- Autoridad competente
+- Forma prescrita
+- Finalidad legítima
+
+### Canon 72: Eficacia
+El acto produce sus efectos desde que es notificado al interesado.
+
+### Canon 73: Revocación
+El acto puede ser revocado por el obispo que lo dictó, si concurre justa causa.
+
+## Comentarios a los Cánones 74-82 (Actos Singulares de la Santa Sede)
+
+### Canon 74: Concepto
+El acto de la Santa Sede es aquel que dicta la autoridad vaticana.
+
+### Canon 75: Requisitos
+- Autoridad competente
+- Forma prescrita
+- Finalidad legítima
+
+### Canon 76: Publicidad
+El acto debe ser publicado para que produzca efectos.
+
+### Canon 77: Eficacia
+El acto produce sus efectos desde su publicación.
+
+### Canon 78: Revocación
+El acto puede ser revocado por la autoridad que lo dictó.
+
+### Canon 79: Interpretación
+El acto debe interpretarse según su tenor literal.
+
+### Canon 80: Notificación
+El acto debe ser notificado al interesado.
+
+### Canon 81: Término
+El acto debe ser ejecutado en el plazo fijado.
+
+### Canon 82: Duda
+Si hay duda sobre la validez del acto, puede ejecutarse provisionalmente.
+
+## Comentarios a los Cánones 83-90 (Privilegios)
+
+### Canon 83: Concepto
+El privilegio es una concesión especial que dispensa de la ley general.
+
+### Canon 84: Requisitos
+- Autoridad competente
+- Forma prescrita
+- Finalidad legítima
+
+### Canon 85: Concesión
+El privilegio puede ser concedido:
+- Expresa o tácitamente
+- Por escrito o de palabra
+
+### Canon 86: Interpretación
+El privilegio debe interpretarse según su tenor literal.
+
+### Canon 87: Revocación
+El privilegio puede ser revocado por la autoridad que lo concedió.
+
+### Canon 88: Término
+El privilegio puede ser:
+- Perpetuo
+- Temporal
+
+### Canon 89: Uso
+El privilegio debe ser usado para que mantenga su eficacia.
+
+### Canon 90: Renuncia
+El privilegio puede ser renunciado por el beneficiario.
+
+## Comentarios a los Cánones 91-98 (Dispensas)
+
+### Canon 91: Concepto
+La dispensa es la exención de la observancia de una ley particular.
+
+### Canon 92: Requisitos
+- Autoridad competente
+- Forma prescrita
+- Justa causa
+
+### Canon 93: Concesión
+La dispensa puede ser concedida:
+- Expresa o tácitamente
+- Por escrito o de palabra
+
+### Canon 94: Interpretación
+La dispensa debe interpretarse según su tenor literal.
+
+### Canon 95: Revocación
+La dispensa puede ser revocada por la autoridad que la concedió.
+
+### Canon 96: Término
+La dispensa puede ser:
+- Perpetua
+- Temporal
+
+### Canon 97: Uso
+La dispensa debe ser usada para que mantenga su eficacia.
+
+### Canon 98: Renuncia
+La dispensa puede ser renunciada por el beneficiario.
+
+## Comentarios a los Cánones 99-100 (Disposiciones Finales)
+
+### Canon 99: Disposiciones complementarias
+El legislador puede dictar disposiciones complementarias para la aplicación del Código.
+
+### Canon 100: Disposiciones transitorias
+El legislador puede dictar disposiciones transitorias para la transición al nuevo régimen.

@@ -3,40 +3,43 @@ type: ResumenFuente
 title: "Socrates on Stage"
 fuente: Evangelization and culture - 1
 capítulo: 8
-timestamp: 2026-08-24
-description: "Resumen de 'Socrates on Stage' — Evangelization and culture - 1"
-tags: ["resumen", "evangelization and culture - 1"]
+timestamp: 2026-08-25
+description: "Reseña de la obra de teatro Sócrates de Tim Blake Nelson"
+tags: ["resumen", "sócrates", "platón", "verdad", "diálogo"]
 ---
 
 # Socrates on Stage
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[sócrates]] — Filósofo y búsqueda de la verdad
+- [[platón]] — Influencia en la teología occidental
+- [[verdad]] — Búsqueda en diálogo público
+- [[martirio]] — Persecución por hablar la verdad
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `08_stage_socrates.md`
+La tradición teológica occidental ha sido indeleblemente marcada por el [[platónismo]] a través de Filón, Orígenes, Agustín y Pseudo-Dionisio. Pero los diálogos de Platón son incomprensibles sin Sócrates.
 
+**La obra de Tim Blake Nelson** (estrenada en The Public Theater, NYC):
+- Platón guía a Aristóteles (y al público) por el Atenas del siglo V a.C.
+- Sócrates aparece no como figura solemne, sino joven, exuberante, bebiendo y bromeando
+- Alcibiades elogia su sabiduría y valentía
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**La búsqueda de la verdad:**
+- Oráculo de Delfos: Sócrates es el más sabio
+- Búsqueda en diálogo público: «Examinar la vida cada día — y públicamente — es la única manera de vivir»
+- Verdad no como función de voluntad o autoexpresión, sino verdad misma
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 7 | H1 | Socrates on Stage |
+**El peligro de hablar la verdad:**
+- «Nadie lo odiaba más que aquellos que usaban el engaño de las palabras en la plaza pública»
+- Preguntas por sabiduría, muerte, virtud, retórica
+- Acusaciones contradictorias: ateísmo y dios no sancionado
 
+**Muerte de Sócrates:**
+- Esposa implora que cese su terquedad
+- Se baña para la muerte en silencio inquieto
+- Amigos lloran mientras la cicuta hace efecto
+- Rechazado definitivamente por su pueblo
 
-## Secciones incluidas
-
+La persecución por buscar la verdad es parte integral de la vida filosófica.

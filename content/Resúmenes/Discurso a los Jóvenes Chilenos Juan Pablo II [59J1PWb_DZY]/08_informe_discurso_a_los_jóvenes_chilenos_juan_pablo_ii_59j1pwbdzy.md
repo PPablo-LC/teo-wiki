@@ -3,34 +3,50 @@ type: ResumenFuente
 title: "Informe: Discurso a los Jóvenes Chilenos Juan Pablo II [59J1PWb_DZY]"
 fuente: Discurso a los Jóvenes Chilenos Juan Pablo II [59J1PWb_DZY]
 capítulo: 8
-timestamp: 2026-08-24
-description: "Resumen de 'Informe: Discurso a los Jóvenes Chilenos Juan Pablo II [59J1PWb_DZY]' — Discurso a los Jóvenes Chilenos Juan Pablo II [59J1PWb_DZY]"
-tags: ["resumen", "discurso a los jóvenes chilenos juan pablo ii [59j1pwb dzy]"]
+timestamp: 2026-08-25
+description: "Informe completo del discurso de Juan Pablo II a los jóvenes chilenos"
+tags: ["resumen", "discurso", "juan_pablo_ii", "juventud", "chile"]
 ---
 
 # Informe: Discurso a los Jóvenes Chilenos Juan Pablo II [59J1PWb_DZY]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[juventud]] — Jóvenes chilenos
+- [[resurrección_espiritual]] — Necesidad espiritual
+- [[encuentro_con_cristo]] — Centro del mensaje
+- [[solidaridad]] — Nueva civilización
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `informe.md`
+### Esquema e ideas relevantes
 
+- **Introducción:** Saludo y alegría por el encuentro con los jóvenes chilenos.
+- **Diagnóstico:** Reconocimiento de los problemas, inquietudes y [[esperanza_cristiana]] manifestados en cartas. Necesidad de una [[resurrección_espiritual]].
+- **Llamada a la acción:** Los jóvenes son el futuro y deben asumir su [[responsabilidad]]; no permanecer pasivos.
+- **Fe y Compromiso:** La [[fe]] en [[Cristo]] como motor para el cambio social, superando el [[pecado]] y el pesimismo.
+- **Mensaje central:** Buscar, mirar y vivir en Cristo como piedra angular de una nueva civilización basada en la [[solidaridad]].
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+### Ideas más relevantes
 
-## Secciones incluidas
+1. **Responsabilidad de los jóvenes:** El futuro de Chile depende de las decisiones y acciones presentes de los jóvenes; no deben ser indiferentes ante la [[injusticia]].
+2. **Cristo como centro:** La fe no es algo abstracto, es Cristo vivo; es necesario mirar a Cristo para descubrir el rostro de Dios y dar razón de la esperanza.
+3. **El amor vence siempre:** A pesar de las dificultades y situaciones que parecen injustas o desesperanzadoras, el [[amor]] y la fe en Cristo son la fuerza salvadora.
+4. **Resistencia contra el mal:** La lucha contra el pecado (personal y social) es fundamental para la [[dignidad_humana]] y el progreso.
+5. **Propuestas de solución:** No basta con denunciar los males; es necesario que los jóvenes articulen propuestas de solución compatibles con su fe.
 
+### Transcripción
+
+El archivo completo de la transcripción refinada se encuentra en: `output/Discurso a los Jóvenes Chilenos Juan Pablo II [59J1PWb_DZY]/ready_for_llm/Discurso a los Jóvenes Chilenos Juan Pablo II [59J1PWb_DZY].formatted.txt`
+
+### Contenido de diapositivas extraído
+
+No hay contenido teórico de diapositivas en este vídeo (es un discurso).
+
+### Fotogramas extraídos
+
+#### Momentos descartados
+
+- **Momento 1** (10s) — ❌ Retrato decorativo/ambiente sin contenido teórico.
+- **Momento 2** (127s) — ❌ Retrato decorativo sin contenido teórico.
+- **Momento 3** (257s) — ❌ Retrato decorativo sin contenido teórico.

@@ -3,40 +3,33 @@ type: ResumenFuente
 title: "Welcome Letter — Bishop Robert Barron"
 fuente: Evangelization and culture - 1
 capítulo: 1
-timestamp: 2026-08-24
-description: "Resumen de 'Welcome Letter — Bishop Robert Barron' — Evangelization and culture - 1"
-tags: ["resumen", "evangelization and culture - 1"]
+timestamp: 2026-08-25
+description: "Carta de bienvenida de Bishop Robert Barron al primer número de Evangelization & Culture"
+tags: ["resumen", "evangelización", "belleza", "creatividad", "word_on_fire"]
 ---
 
 # Welcome Letter — Bishop Robert Barron
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[evangelización]] — Propósito principal de la revista
+- [[belleza]] — Liderar con la belleza como principio
+- [[creatividad]] — Tema del primer número
+- [[arte]] — Poder evangelizador del arte
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `01_welcome_letter.md`
+Evangelization & Culture es el periódico del Word on Fire Institute. Su propósito no es principalmente académico, artístico o pastoral, sino evangelizar la cultura y formar a otros para que se conviertan en evangelizadores.
 
+El tema del primer número es **Creatividad**, porque un principio clave del movimiento Word on Fire es liderar con la [[belleza]]. Barron aboga por un catolicismo inteligente y hermoso, pues la tradición católica es hermosa y esa belleza tiene poder evangelizador.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+Ejemplos citados:
+- **Michelangelo**: expresa las texturas de la relación con Dios
+- **Flannery O'Connor**: historias que hablan de la verdad de la [[gracia]]
+- **Notre Dame**: por qué el incendio conmovió al mundo
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Welcome Letter — Bishop Robert Barron |
+El propio viaje de Barron hacia la tradición católica fue intelectual pero también creativo: Thomas Merton, Dante, las catedrales góticas, Chesterton, Bob Dylan.
 
+El catolicismo usa la creatividad y resiste el impulso puritano. Después del Vaticano II no hubo un gran renacimiento artístico como tras el Concilio de Trento. Barron espera que la revista inspire a escritores, pintores y poetas católicos.
 
-## Secciones incluidas
-
+Su mayor esperanza: formar una generación de evangelizadores católicos inteligentes y artísticamente comprometidos.

@@ -3,125 +3,117 @@ type: ResumenFuente
 title: "Comentario General"
 fuente: Comentarios_al_CIC-Eunsa
 capítulo: 7
-timestamp: 2026-08-24
-description: "Resumen de 'Comentario General' — Comentarios_al_CIC-Eunsa"
-tags: ["resumen", "comentarios al cic-eunsa"]
+timestamp: 2026-08-25
+description: "Resumen de los comentarios al Libro VI del Código de Derecho Canónico (Sanciones penales)"
+tags: ["resumen", "derecho_canónico", "cic_1983", "derecho_penal_canónico", "penas", "censuras", "delitos"]
 ---
 
 # Comentario General
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[derecho_penal_canónico]] — Sistema de sanciones penales de la Iglesia
+- [[penas]] — Privación de bienes impuesta por autoridad legítima
+- [[censuras]] — Penas que implican ruptura de comunión jurídica
+- [[delitos]] — Violación de normas penales eclesiásticas
+- [[latae_sententiae]] — Penas que se incurren ipso facto por la comisión del delito
+- [[ferendae_sententiae]] — Penas que deben ser impuestas por autoridad competente
+- [[imputabilidad]] — Capacidad de ser responsable de las propias acciones
+- [[Concilio_Vaticano_II]] — Concilio que renovó el derecho penal de la Iglesia
 
+## Comentario General
 
-## Contenido
+### Principios del derecho penal de la Iglesia
+Los principios generales que informan la revisión del Código responden al espíritu del Concilio Vaticano II:
+1. El fuero externo es el propio del Derecho penal
+2. Siempre se ha de respetar la dignidad de la persona humana y la defensa de sus derechos
+3. La misericordia tendrá un lugar primordial
+4. La instancia penal debe ser el último remedio a utilizar
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `06_libro_VI.md`
+## Comentario al Canon 1311
 
+### Potestad de la Iglesia para sancionar
+La Iglesia, como sociedad originaria e independiente, tiene su fin propio y los medios adecuados para alcanzarlo, incluyendo la potestad para crear leyes y hacerlas cumplir también de forma coercitiva con sanciones penales.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+## Comentario al Canon 1312
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 5 | H1 | Comentario General |
-| 11 | H1 | Comentario al Canon 1311 |
-| 20 | H1 | Comentario al Canon 1312 |
-| 29 | H1 | Comentario al Canon 1313 |
-| 38 | H1 | Comentario al Canon 1314 |
-| 47 | H1 | Comentario al Canon 1315 |
-| 56 | H1 | Comentario al Canon 1316-1318 |
-| 65 | H1 | Comentario al Canon 1319 |
-| 74 | H1 | Comentario al Canon 1321 |
-| 83 | H1 | Comentario al Canon 1322 |
-| 92 | H1 | Comentario al Canon 1323 |
-| 101 | H1 | Comentario al Canon 1324 |
-| 110 | H1 | Comentario al Canon 1325 |
-| 119 | H1 | Comentario al Canon 1326 |
-| 128 | H1 | Comentario al Canon 1327 |
-| 137 | H1 | Comentario al Canon 1328 |
-| 146 | H1 | Comentario al Canon 1329 |
-| 155 | H1 | Comentario al Canon 1330 |
-| 164 | H1 | Comentario al Canon 1332 |
-| 173 | H1 | Comentario al Canon 1333 |
-| 182 | H1 | Comentario al Canon 1334 |
-| 191 | H1 | Comentario al Canon 1335 |
-| 200 | H1 | Comentario al Canon 1336 |
-| 209 | H1 | Comentario al Canon 1338 |
-| 222 | H1 | Comentario General |
-| 258 | H1 | Comentario al Canon 1339 |
-| 267 | H1 | Comentario al Canon 1340 |
-| 276 | H1 | Comentario al Canon 1341 |
-| 285 | H1 | Comentario al Canon 1342 |
-| 294 | H1 | Comentario al Canon 1343 |
-| 303 | H1 | Comentario al Canon 1344 |
-| 312 | H1 | Comentario al Canon 1344-1346 |
-| 321 | H1 | Comentario al Canon 1346 |
-| 330 | H1 | Comentario al Canon 1347 |
-| 339 | H1 | Comentario al Canon 1348 |
-| 348 | H1 | Comentario al Canon 1349 |
-| 357 | H1 | Comentario al Canon 1350 |
-| 366 | H1 | Comentario al Canon 1351 |
-| 375 | H1 | Comentario al Canon 1352 |
-| 384 | H1 | Comentario al Canon 1353 |
-| 393 | H1 | Comentario al Canon 1354 |
-| 402 | H1 | Comentario al Canon 1355 |
-| 418 | H1 | Comentario al Canon 1356 |
-| 427 | H1 | Comentario al Canon 1357 |
-| 436 | H1 | Comentario al Canon 1358 |
-| 445 | H1 | Comentario al Canon 1359 |
-| 454 | H1 | Comentario al Canon 1360 |
-| 463 | H1 | Comentario al Canon 1361 |
-| 472 | H1 | Comentario al Canon 1362 |
-| 481 | H1 | Comentario al Canon 1363 |
-| 490 | H1 | Comentario al Canon 1364 |
-| 506 | H1 | Comentario al Canon 1365 |
-| 515 | H1 | Comentario al Canon 1366 |
-| 524 | H1 | Comentario al Canon 1367 |
-| 533 | H1 | Comentario al Canon 1368 |
-| 542 | H1 | Comentario al Canon 1369 |
-| 551 | H1 | Comentario al Canon 1370 |
-| 560 | H1 | Comentario al Canon 1371 |
-| 569 | H1 | Comentario al Canon 1372 |
-| 578 | H1 | Comentario al Canon 1373 |
-| 587 | H1 | Comentario al Canon 1375 |
-| 596 | H1 | Comentario al Canon 1376 |
-| 605 | H1 | Comentario al Canon 1377 |
-| 614 | H1 | Comentario al Canon 1378 |
-| 623 | H1 | Comentario al Canon 1379 |
-| 632 | H1 | Comentario al Canon 1380 |
-| 641 | H1 | Comentario al Canon 1381 |
-| 650 | H1 | Comentario al Canon 1382 |
-| 659 | H1 | Comentario al Canon 1383 |
-| 668 | H1 | Comentario al Canon 1384 |
-| 677 | H1 | Comentario al Canon 1385 |
-| 686 | H1 | Comentario al Canon 1386 |
-| 695 | H1 | Comentario al Canon 1387 |
-| 704 | H1 | Comentario al Canon 1388 |
-| 713 | H1 | Comentario al Canon 1389 |
-| 722 | H1 | Comentario al Canon 1390 |
-| 731 | H1 | Comentario al Canon 1391 |
-| 740 | H1 | Comentario al Canon 1392 |
-| 749 | H1 | Comentario al Canon 1393 |
-| 758 | H1 | Comentario al Canon 1394 |
-| 767 | H1 | Comentario al Canon 1395 |
-| 776 | H1 | Comentario al Canon 1396 |
-| 785 | H1 | Comentario al Canon 1397 |
-| 794 | H1 | Comentario al Canon 1398 |
-| 803 | H1 | Comentario al Canon 1399 |
-| 812 | H1 | Comentario al Canon 2214 |
+### División de las penas
+**Clasificación de las penas:**
+1. **Censuras:** Excomunión, entredicho, suspensión
+2. **Penas expiatorias:** Privaciones de bienes
 
+**Remedio penal vs. penitencia:**
+- El remedio penal está establecido principalmente para prevenir los delitos
+- Las penitencias canónicas sustituyen o aumentan las penas
 
-## Secciones incluidas
+La pena canónica se define como «privación de algún bien, impuesto por la autoridad legítima para corrección del delincuente y castigo del delito» (CIC 17, c. 2215).
 
+## Comentario al Canon 1313
+
+### Derogación de las penas
+**Principios:**
+1. La ley posterior deroga la anterior contraria
+2. Si la ley posterior suprime la pena, ésta queda derogada
+3. Si previamente ha sido impuesta, cesa inmediatamente
+
+**Excepción (§ 1):** La ley más favorable al reo no siempre coincide con la que contiene una pena más suave. El juez debe aplicar la ley más favorable al delincuente.
+
+## Comentario al Canon 1314
+
+### Clasificación de las penas por aplicación
+- **Latae sententiae:** Se incurre en ella por el mismo hecho de haberse cometido el delito
+- **Ferendae sententiae:** Es necesario que el juez o superior la aplique
+
+**División ad iure y ab homine:**
+- **A iure:** Constituida en la norma penal (ley o precepto)
+- **Ab homine:** Impuesta por decreto gubernativo o sentencia condenatoria
+
+La pena latae sententiae es siempre *a iure*; la ferendae sententiae es *a iure* en su momento constitutivo y *ab homine* en su momento impositivo.
+
+## Comentario al Canon 1315
+
+### Potestad legislativa en materia penal
+El superior dotado de potestad legislativa puede crear leyes penales dentro del ámbito de su competencia.
+
+**Límites (§ 3):** La ley particular puede añadir nuevas penas a las establecidas por ley universal solo si existe «gravísima necesidad».
+
+**Pena facultativa vs. obligatoria:**
+- **Facultativa:** El juez puede aplicar o no la pena
+- **Obligatoria (preceptiva):** El juez debe aplicar la pena siempre
+
+## Comentario al Canon 1316-1318
+
+### Amplitud legislativa de los Obispos
+El Código reconoce al Obispo diocesano gran amplitud legislativa-penal, pero con varios criterios para evitar efectos negativos:
+
+**Principio 9 de la Comisión pontificia:**
+- Las penas deben ser, generalmente, ferendae sententiae
+- Las penas latae sententiae deben reducirse a poquísimos delitos, y éstos gravísimos
+- La excomunión, como censura más grave, debe ser excepcionalísima
+
+La pena latae sententiae es una figura híbrida (jurídico-moral) que crea confusión entre el fuero externo e interno.
+
+## Comentario al Canon 1319
+
+### Precepto como fuente de derecho penal
+El precepto puede emanar de cualquier superior investido de potestad de régimen.
+
+**Límites (§§ 1-2):**
+- No pueden establecerse penas expiatorias perpetuas
+- No puede imponerse la dimisión del estado clerical
+- No puede establecerse una suspensión latae sententiae sin determinación o límite
+
+El precepto singular es una fuente de derecho más ágil y rápida que la ley, lo que permite conjugar la defensa del orden justo con el respeto a la dignidad de la persona.
+
+## Comentario al Canon 1321
+
+### Elementos del delito
+**Elementos fundamentales:**
+1. **Elemento subjetivo:** Imputabilidad grave, dolosa o culposa
+2. **Elemento objetivo:** Violación externa de la ley o precepto
+
+**Definiciones:**
+- **Delito doloso:** Violación deliberada de una ley o precepto penal
+- **Delito culposo:** Omisión de la debida diligencia en el cumplimiento de una ley o precepto penal
+
+**Presunción de imputabilidad (§ 3):** No se presume el dolo, sino la imputabilidad (libertad en la acción u omisión). La cesación de la presunción puede basarse en cualquier prueba contraria.

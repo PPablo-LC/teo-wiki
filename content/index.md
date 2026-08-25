@@ -4179,6 +4179,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 
 ### P (Notas de consulta)
 
+- [[predicación_la_fe_que_transforma_lo_imposible]]
 - [[predicaciones_mision_caritas_christi_urget_nos]]
 - [[primeros_pasos_en_la_vida_espiritual]]
 

@@ -1,45 +1,70 @@
 ---
 type: ResumenFuente
-title: "Jesús se dirige al Padre en la oración."
+title: "Jesús se dirige al Padre en la oración"
 fuente: Cristologia - San Juan Pablo II
 capítulo: 24
-timestamp: 2026-08-24
-description: "Resumen de 'Jesús se dirige al Padre en la oración.' — Cristologia - San Juan Pablo II"
-tags: ["resumen", "cristologia - san juan pablo ii"]
+timestamp: 2026-08-25
+description: "Catequesis sobre la oración de Jesús como expresión de unión con el Padre"
+tags: ["resumen", "cristologia", "catequesis", "juan_pablo_ii", "oración", "unión_con_el_padre", "oración_sacerdotal"]
 ---
 
-# Jesús se dirige al Padre en la oración.
+# Jesús se dirige al Padre en la oración
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[oración_de_cristo]] — Expresión suprema de unión con el Padre
+- [[oración_sacerdotal]] — Intercesión por discípulos
+- [[getsemaní]] — Oración en la agonía
+- [[imiter]] — La Iglesia aprende a orar de Jesús
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `24_jesús_se_dirige_al_padre_en_la_oración.md`
+### Catequesis del 22 de julio de 1987
 
+**La oración como vida:**
+- Jesús oraba en todo tiempo sin desfallecer
+- Oración era vida de su alma
+- Toda su vida era oración
+- Ningún personaje se relacionó con Dios con tanta plenitud
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**Momentos de oración:**
+- Mañana antes del amanecer (Mc 1, 35)
+- Durante el día y por la tarde (Lc 5, 15-16)
+- De noche en lugares apartados (Mt 14, 23)
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Jesús se dirige al Padre en la oración. |
+**Oración en momentos clave:**
+- Bautismo: se abrió el cielo (Lc 3, 21)
+- Transfiguración: rostro transformado (Lc 9, 28-29)
+- Inicio ministerio: retiro al desierto (Mt 4, 1-11)
+- Elección de Apóstoles: noche entera orando (Lc 6, 12)
+- Confesión de Pedro (Lc 9, 18-20)
+- Resurrección de Lázaro: «Te doy gracias porque me has escuchado» (Jn 11, 41-42)
 
+**Oración sacerdotal (Jn 17):**
+- «Glorifica a tu Hijo para que tu Hijo te glorifique» (Jn 17, 1-2)
+- «Esta es la vida eterna: que te conozcan» (Jn 17, 3)
+- Hijo rinde cuentas al Padre por su misión
+- Ruega por los discípulos, no por el mundo
+- Pide que «sean uno» (Jn 17, 21)
+- «No pido que los saques del mundo, sino que los libres del mal» (Jn 17, 15)
+- «Santifícalos en la verdad» (Jn 17, 17)
+- Abraza a futuras generaciones
+- Pide que vean su gloria (Jn 17, 24)
 
-## Secciones incluidas
+**Síntesis de autorrevelación:**
+- Oración sacerdotal: síntesis de autorrevelación de Dios en Hijo
+- Hijo habla al Padre en nombre de unidad
+- Abre perspectiva de gloria para todos los que acogen
 
-# Jesús se dirige al Padre en la oración.
+**Oración en Getsemaní:**
+- «Triste está mi alma hasta la muerte» (Mc 14, 34)
+- «Abbá, Padre, todo te es posible» (Mc 14, 36)
+- «No se haga lo que yo quiero sino lo que tú quieres»
+- Hebreos 5, 7: oraciones con poderosos clamores y lágrimas
+- «Fue escuchado por su reverencial temor»
+- Unión con Padre en voluntad de redimir
 
-[Contenido de esta sección...]
+**En la Iglesia:**
+- Jesús oraba según tradición y ley de Israel
+- Oración personal como fuente de la oración de la Iglesia
+- En Jesús orante se expresa misterio del Hijo

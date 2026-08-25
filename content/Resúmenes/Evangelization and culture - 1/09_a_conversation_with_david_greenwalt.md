@@ -3,40 +3,43 @@ type: ResumenFuente
 title: "A Conversation with David Greenwalt"
 fuente: Evangelization and culture - 1
 capítulo: 9
-timestamp: 2026-08-24
-description: "Resumen de 'A Conversation with David Greenwalt' — Evangelization and culture - 1"
-tags: ["resumen", "evangelization and culture - 1"]
+timestamp: 2026-08-25
+description: "Entrevista con el escritor y productor David Greenwalt sobre fe, ficción y creatividad"
+tags: ["resumen", "creatividad", "fe", "conversión", "narrativa"]
 ---
 
 # A Conversation with David Greenwalt
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[creatividad]] — Proceso creativo como oración
+- [[conversión]] — Del Cristianismo Científico al catolicismo
+- [[narrativa]] — El cuento como forma humana fundamental
+- [[redención]] — Necesidad de historias redentoras
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `09_spotlight_david_greenwalt.md`
+**Proceso creativo:**
+- «El proceso es un poco como la oración — la parte de escuchar — necesitas presentarte y estar presente, y necesitas atravesar desiertos»
+- Disciplina: nueve a cinco, luego dieciséis horas como show runner
+- «Soy el escritor prolífico más perezoso que conozco»
 
+**El poder del género:**
+- Buffy the Vampire Slayer: la gente puede ir más lejos emocionalmente con personajes y situaciones de género
+- Carta de una abogada con agorafobia que salió a caminar después de ver el show
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**Conversión al catolicismo:**
+- Criado en Cristianismo Científico; rechazó esa fe en la adolescencia
+- Argumento «mentiroso, lunático o Señor»
+- Bishop Barron «cerró el trato»: amable, inteligente, sin aguas
+- «Nadie puede ser escritor sin leer la [[Biblia]]»
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 3 | H1 | A Conversation with David Greenwalt |
+**La felicidad no está en las cosas:**
+- «No hay alegría que encontrar dentro de uno mismo, excepto a través del Señor»
+- Noches oscuras del alma entre Angel y Grimm
 
-
-## Secciones incluidas
-
+**Consejo a escritores jóvenes:**
+- Leer gran literatura, observarse a uno mismo
+- Diez mil horas de escritura
+- El viaje de crear es la victoria
+- «Siempre necesitarán historias»

@@ -3,40 +3,55 @@ type: ResumenFuente
 title: "Midnight Oil — Tod Worner"
 fuente: Evangelization and culture - 1
 capítulo: 4
-timestamp: 2026-08-24
-description: "Resumen de 'Midnight Oil — Tod Worner' — Evangelization and culture - 1"
-tags: ["resumen", "evangelization and culture - 1"]
+timestamp: 2026-08-25
+description: "Reflexiones de Tod Worner sobre la necesidad de una revista católica"
+tags: ["resumen", "evangelización", "belleza", "lectura", "vida_espiritual"]
 ---
 
 # Midnight Oil — Tod Worner
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[evangelización]] — Propósito de la revista
+- [[belleza]] — Liderar con la belleza
+- [[vida_espiritual]] — Formación del interior
+- [[cultura]] — Engagement cultural católico
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `04_midnight_oil.md`
+### ¿Por qué otra revista católica?
 
+El panorama de publicaciones católicas es vasto (Magnificat, Commonweal, America, etc.). Evangelization & Culture es extensión natural del trabajo de Word on Fire.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**Tres grupos目标:**
+1. Miembros del Word on Fire Institute
+2. Escépticos buscadores
+3. Fieles no formados
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 7 | H1 | Midnight Oil — Tod Worner |
+El tono: comprometido pero desafiante, hermoso pero sustancial, estimulante pero fiel a la verdad.
 
+### Formación
 
-## Secciones incluidas
+El objetivo principal es la **formación**: de la vida interior, intelectual y estética. Cultivar una fe más profunda y una amistad cálida con [[Cristo]].
 
+Chesterton: «Sentí nostalgia en casa» — la revista recuerda el hogar espiritual (Agustín: «Nuestro corazón está inquieto hasta que descanse en Ti»).
+
+### Robert Caro y la búsqueda de la verdad
+
+Ejemplo del biógrafo Robert Caro: meticuloso investigador que escribe a mano para pensar más. Su obra no es mera acumulación de datos, sino narración de un alma.
+
+### Notre Dame
+
+Reflexión sobre el incendio de Notre Dame: la catedral como símbolo de civilización. Kenneth Clark: «No sé definir la civilización, pero la reconozco cuando la veo».
+
+### La compra de libros
+
+Celebración del placer de comprar y leer libros. Thomas Merton: «Cuando tengo un poco de dinero, compro libros».
+
+### Eficiencia vs. ser
+
+La eficiencia ayuda, pero no es todo. «Las virtudes se han vuelto locas porque han sido aisladas» (Chesterton). Robert Frost: «Stopping by Woods on a Snowy Evening» — producto del ser, no del hacer.
+
+### Julian de Norwich
+
+«Debería haber pecado; pero todo estará bien, todo estará bien, todo estará bien.»

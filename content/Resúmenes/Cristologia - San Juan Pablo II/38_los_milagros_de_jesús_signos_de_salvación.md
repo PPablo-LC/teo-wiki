@@ -1,45 +1,63 @@
 ---
 type: ResumenFuente
-title: "Los milagros de Jesús, signos de salvación."
+title: "Los milagros de Jesús, signos de salvación"
 fuente: Cristologia - San Juan Pablo II
 capítulo: 38
-timestamp: 2026-08-24
-description: "Resumen de 'Los milagros de Jesús, signos de salvación.' — Cristologia - San Juan Pablo II"
-tags: ["resumen", "cristologia - san juan pablo ii"]
+timestamp: 2026-08-25
+description: "Catequesis sobre los milagros como signos del Reino"
+tags: ["resumen", "cristologia", "catequesis", "juan_pablo_ii", "milagros", "reino_de_dios", "señales"]
 ---
 
-# Los milagros de Jesús, signos de salvación.
+# Los milagros de Jesús, signos de salvación
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[milagros]] — Signos del reino de Dios
+- [[reino_de_dios]] — Irrumpido en la historia
+- [[eucaristía]] — Preanuncio en multiplicación de panes
+- [[iglesia]] — Barca en medio de la tempestad
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `38_los_milagros_de_jesús_signos_de_salvación.md`
+### Catequesis del 2 de diciembre de 1987
 
+**Milagros como signos del Reino:**
+- «Si arrojo demonios, el reino ha llegado» (Mt 12, 28)
+- No separables del contexto evangélico
+- Testigos oculares en predicación apostólica
+- Supremo poder sobre naturaleza y leyes
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**Caná: signo de alianza (Jn 2, 11):**
+- «Manifestó su gloria, creyeron sus discípulos»
+- Relación con imagen de matrimonio
+- Parábola del banquete de bodas (Mt 22, 2)
+- Anuncio simbólico de la «hora» pascual
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Los milagros de Jesús, signos de salvación. |
+**Multiplicación de panes: signo eucarístico:**
+- «Alimento que permanece hasta vida eterna» (Jn 6, 29)
+- Pan verdadero que da la vida al mundo (Jn 6, 33)
+- Preanuncio de pasión y Eucaristía
+- «Da su carne para vida del mundo» (Jn 6, 51)
 
+**Tempestad calmada: presencia en Iglesia (Mc 4, 35-41):**
+- Jesús como presencia en «barca» de la Iglesia
+- Orden a vientos y mar: gran bonanza
+- «¿Por qué sois tímidos? ¿Aún no tenéis fe?»
+- Fe en presencia operante y protectora
 
-## Secciones incluidas
+**Caminar sobre las aguas:**
+- «Soy yo, no temáis» (Mc 6, 50)
+- Vigilancia constante sobre discípulos
+- Pedro: «Hombre de poca fe, ¿por qué dudaste?» (Mt 14, 31)
+- «Verdaderamente tú eres Hijo de Dios» (Mt 14, 33)
 
-# Los milagros de Jesús, signos de salvación.
+**Pescas milagrosas: fecundidad de la misión:**
+- «Vas a ser pescador de hombres» (Lc 5, 10)
+- «Apacienta mis ovejas» (Jn 21, 15-17)
+- Señales de fecundidad si unidas a poder salvífico
 
-[Contenido de esta sección...]
+**Significado salvífico:**
+- Manifestación de omnipotencia divina
+- Señales de obra divina de salvación
+- Preparación para acoger salvación
+- «En nombre de Jesús Nazareno, anda» (Act 3, 6)

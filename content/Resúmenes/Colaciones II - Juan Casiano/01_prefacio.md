@@ -3,45 +3,36 @@ type: ResumenFuente
 title: "PREFACIO"
 fuente: Colaciones II - Juan Casiano
 capítulo: 1
-timestamp: 2026-08-24
-description: "Resumen de 'PREFACIO' — Colaciones II - Juan Casiano"
-tags: ["resumen", "colaciones ii - juan casiano"]
+timestamp: 2026-08-25
+description: "Resumen del PREFACIO de las Colaciones II de Juan Casiano"
+tags: ["resumen", "colaciones_ii", "juan_casiano", "espiritualidad_monástica"]
 ---
 
 # PREFACIO
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[vid-monástica]] — Forma de vida dedicada a la oración y la contemplación
+- [[caridad]] — Amor perfecto que une al alma con Dios
+- [[perfección-cristiana]] — Meta última de la vida espiritual
+- [[conferencias-padres-desierto]] — Enseñanzas de los monjes egipcios
+- [[vida-cenobítica]] — Comunidad de monjes bajo una regla
 
+## AL OBISPO HONORATO Y A EUQUERIO
 
-## Contenido
+Casiano dedica esta obra a dos obispos: **Honorato** (fundador del monasterio de Lérins y luego obispo de Arlés, fallecido en 429) y **EUQUERIO** (que aún no era obispo al recibir la dedicatoria; había dejado el mundo con consentimiento de su esposa, abrazó la vida monástica en Lérins y luego sería obispo de Lyon hacia 435).
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `02_prefacio.md`
+Casiano explica que:
+- Honorato desea instruir al inmenso monasterio que rige
+- Euquerio tiene el propósito más ambicioso de ir a Egipto para edificarse con las virtudes de los Padres del desierto
+- La caridad le ha movido a escribir para no defraudar el deseo de ambos
 
+Esta obrita completa otras dos obras anteriores:
+1. **Doce libros sobre las instituciones cenobíticas**, dirigidos al obispo Castor
+2. **Diez conferencias de los Padres del desierto de Escete**, compuestas a ruegos de los obispos Heladio y Leoncio
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+Casiano ofrece ahora **siete nuevas conferencias** que ha oído de labios de tres Padres que vivían en otro desierto. Anuncia también siete conferencias más que proyecta enviar a los monjes de las islas Estécades (islas de Hyères, cerca de Marsella).
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 5 | H1 | PREFACIO |
-| 7 | H2 | AL OBISPOHONORATO Y AEUQUERIO |
-| 21 | H1 | XI. |
+## Nota sobre la estructura
 
-
-## Secciones incluidas
-
-# AL OBISPOHONORATO Y AEUQUERIO
-
-[Contenido de esta sección...]
+El archivo incluye una marca "XI." al final, que corresponde al inicio de la siguiente sección (Primera Conferencia del abad Queremón), lo cual indica que el prefacio se trata como una introducción a la serie de conferencias.

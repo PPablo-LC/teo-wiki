@@ -3,34 +3,26 @@ type: ResumenFuente
 title: "Esquema general"
 fuente: Discurso a los Jóvenes Chilenos Juan Pablo II [59J1PWb_DZY]
 capítulo: 1
-timestamp: 2026-08-24
-description: "Resumen de 'Esquema general' — Discurso a los Jóvenes Chilenos Juan Pablo II [59J1PWb_DZY]"
-tags: ["resumen", "discurso a los jóvenes chilenos juan pablo ii [59j1pwb dzy]"]
+timestamp: 2026-08-25
+description: "Esquema general del discurso de Juan Pablo II a los jóvenes chilenos"
+tags: ["resumen", "discurso", "juan_pablo_ii", "juventud", "chile"]
 ---
 
 # Esquema general
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[juventud]] — Futuro de Chile
+- [[dignidad_humana]] — Responsabilidad de los jóvenes
+- [[encuentro_con_cristo]] — Centro del mensaje
+- [[solidaridad]] — Nueva civilización
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `analisis.md`
+### Estructura del discurso
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-
-## Secciones incluidas
-
+- **Introducción:** [[saludo]] y alegría por el encuentro con los jóvenes chilenos.
+- **Diagnóstico:** Reconocimiento de los problemas, inquietudes y [[esperanza_cristiana]] manifestados en cartas. Necesidad de una [[resurrección_espiritual]].
+- **Llamada a la acción:** Los jóvenes son el futuro y deben asumir su [[responsabilidad]]; no permanecer pasivos.
+- **Fe y Compromiso:** La [[fe]] en [[Cristo]] como motor para el cambio social, superando el [[pecado]] y el pesimismo.
+- **Mensaje central:** Buscar, mirar y vivir en [[Cristo]] como piedra angular de una nueva civilización basada en la [[solidaridad]].
