@@ -91,7 +91,7 @@ El número tiene como hilo conductor la definición de esperanza como **virtud v
 
 ## Ver también
 
-[[esperanza]], [[virtudes_teológicas]], [[escatología]], [[misericordia]], [[evangelización]], [[maría_(madre_de_jesús)]], [[iglesia_doméstica]], [[san_judas_tadeo]], [[peregrinaje]], [[noche_oscura_del_alma]], [[perdón]], [[fe_y_razón]], [[encarnación]], [[arte_y_fe]], [[intuición_ilativa]], [[spe_salvi]], [[benedicto_xvi]]
+[[esperanza]], [[virtudes_teológicas]], [[escatología]], [[misericordia]], [[evangelización]], [[maría_(madre_de_jesús)]], [[iglesia_doméstica]], [[san_judas_tadeo]], [[peregrinaje]], [[noche_oscura]], [[perdón]], [[fe_y_razón]], [[encarnación]], [[arte_y_fe]], [[intuición_ilativa]], [[spe_salvi]], [[benedicto_xvi]]
 
 ## Referencias
 

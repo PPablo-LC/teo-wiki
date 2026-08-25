@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Virtud adquirida
 tags: ["moral"]
 
-timestamp: 2026-08-06
+timestamp: 2026-08-24
 description: "La virtud adquirida es un hábito operativo bueno, obtenido por la repetición de actos moralmente rectos."
 ---
 # Virtud adquirida
 
 > Área: Moral
-> Última actualización: 2026-08-06
+> Última actualización: 2026-08-24
 
 ## Definición
 
@@ -36,6 +36,9 @@ Las virtudes adquiridas no bastan para la salvación, porque no pueden producir 
 
 Los hábitos operativos (virtudes) se dividen en virtudes sobrenaturales o infusas, que el hombre recibe como un don unido a la gracia, y virtudes humanas o adquiridas, que el hombre adquiere con el ejercicio y el esfuerzo personal. Las humanas o adquiridas pueden ser intelectuales o morales: las intelectuales perfeccionan la razón en el aspecto especulativo y en el práctico; las morales perfeccionan la voluntad y las tendencias (Ele_Xto_Stos, Cap. VII, §2a).
 
+### Según Evangelization & Culture n.º 3 «The Digital Age» (EAC-3)
+
+Matt Nelson, analizando la renuncia de PewDiePie a Twitter, recupera la doctrina aristotélico-tomista del hábito virtuoso contra la lógica de las redes sociales. Las virtudes —prudencia, templanza, fortaleza, justicia— «no se forman por éxitos episódicos. Más bien, las virtudes son algo así como habilidades: deben practicarse y ejercitarse. La virtud es un hábito bueno adquirido», y para identificar qué hábitos son buenos hay que atender a lo que el hombre es: animal racional compuesto de cuerpo y alma. El contraste con el entorno digital es estructural: en el deporte real, «los ganadores ganan y reciben su debida recompensa —y los perdedores no tienen dónde esconderse—», mientras que «en Twitter, Facebook y YouTube, incluso los perdedores ganan simplemente por aprobación subjetiva»; por eso «las redes sociales proporcionan un ambiente fértil para que los no virtuosos sean empoderados y potencialmente incluso fortalecidos en sus vicios»: premian la palabra sin acción, cuando «para ser veraces debemos hacer la verdad» (Anscombe, siguiendo a Wittgenstein). La formación de la virtud exige pues un medio —familia, deporte, trabajo manual, vida sacramental— donde el acto encuentre resistencia, riesgo y consecuencia reales.
 
 ## Distinciones importantes
 
@@ -58,3 +61,4 @@ Los hábitos operativos (virtudes) se dividen en virtudes sobrenaturales o infus
 - CEC §1804; §1810; §1839
 - TPCr, Segunda Parte, Cap. 2
 - Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §2a
+- [EAC-3, Issue 3 «The Digital Age», archivo 21 (Nelson)]

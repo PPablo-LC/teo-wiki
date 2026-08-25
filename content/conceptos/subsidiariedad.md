@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Subsidiariedad
 tags: ["moral", "doctrina_social"]
 
-timestamp: 2026-05-22
+timestamp: 2026-08-24
 description: "El principio de subsidiariedad es un principio de la doctrina social de la Iglesia según el cual «una estructura social de orden superior no debe interferir en la vida interna de un grupo social de»..."
 ---
 # Subsidiariedad
 
 > Área: Moral / Doctrina social
-> Última actualización: 2026-05-22
+> Última actualización: 2026-08-24
 
 ## Definición
 
@@ -44,6 +44,14 @@ León XIV retoma el principio de subsidiariedad en los §§68-72 de *Magnífica 
 La visión moral de la Iglesia sobre la economía globalizada «se apoya en las tres piedras angulares fundamentales de la dignidad humana, la solidaridad y la subsidiariedad» [EA §55].
 
 En el campo de la educación, el Estado tiene la obligación de «garantizar a todos la educación y la obligación de respetar y defender la libertad de enseñanza». «Debe denunciarse el monopolio del Estado como una forma de totalitarismo que vulnera los derechos fundamentales que debe defender, especialmente el derecho de los padres de familia a la educación religiosa de sus hijos» [EA §71].
+
+### Según Evangelization & Culture n.º 2 «Economics» (EAC-2)
+
+El obispo Robert Barron define el principio en su carta editorial: «en la adjudicación de los asuntos políticos y económicos, debe darse una opción preferencial al nivel más local de autoridad. Solo cuando una solución satisfactoria no es alcanzada por el gobierno local se debe pasar al siguiente nivel más alto de autoridad». El principio «no pone en cuestión la legitimidad de un poder federal superior, pero sí implica un prejuicio a favor de lo local»; Barron ve ese espíritu en el movimiento *small is beautiful* e incluso en el *Señor de los Anillos* de Tolkien, «que exhibe una constante desconfianza del poder imperial y una constante simpatía por lo local, el vecindario, el pequeño negocio» [EAC-2, 01_from_the_desk].
+
+La subsidiariedad exige equilibrarse con la [[solidaridad]]: «La solidaridad sin subsidiariedad puede degenerar fácilmente en una especie de totalitarismo, por el cual la "justicia" se logra ya sea mediante manipulación abierta e intimidación, ya sea mediante formas más sutiles de ingeniería social» [EAC-2, 01_from_the_desk]. En el marco económico de los obispos estadounidenses (principio 9), la responsabilidad primaria de vigilar los derechos económicos pertenece no al Estado, «sino a los individuos y a los diversos grupos y asociaciones que componen la sociedad» (CEC §2431); los agentes económicos —trabajadores, propietarios, gestores, accionistas y consumidores— son agentes morales llamados a aprovechar las oportunidades locales de justicia social [EAC-2, 13_framework_economic_life, Principios 8-9].
+
+[[dorothy_day]] aplicó el principio contra el que llamaba «Santa Madre Estado»: cuando el Estado asume tareas que corresponden a personas o grupos pequeños y localizados —cuidar del enfermo, del huérfano, del pobre— viola la subsidiariedad; aunque esa invasión suele forzarse por el fracaso de la responsabilidad personal, «no es una circunstancia que deba promoverse». Sus casas de hospitalidad, modeladas sobre la familia y no sobre la institución pública, son ejemplo de respuesta subsidiaria al prójimo necesitado: «Solo una persona puede servir plenamente a otra persona», también en sus necesidades espirituales [EAC-2, 14_dorothy_day_personalist].
 
 ## Distinciones importantes
 

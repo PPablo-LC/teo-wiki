@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Belleza
 tags: ["dogmática_(dios)", "teología_de_la_cultura"]
 
-timestamp: 2026-05-26
+timestamp: 2026-08-24
 description: "La belleza es un atributo divino y, por participación, una propiedad del ser creado."
 ---
 # Belleza
 
 > Área: Dogmática (Dios) / Teología de la Cultura
-> Última actualización: 2026-05-26
+> Última actualización: 2026-08-24
 
 ## Definición
 
@@ -49,6 +49,18 @@ Dilley presenta el *eros* como fuerza de vida en diálogo con la belleza: el des
 
 **Auden.** «Cada poema está enraizado en el asombro imaginativo… debe alabar todo lo que pueda por ser y por acontecer».
 
+### Según Evangelization & Culture n.º 1 «Creativity» (EAC-1)
+
+**El poder evangélico de la belleza (Barron).** La revista inaugura su andadura con el principio de Word on Fire: *liderar con la belleza*. «Gran música, arquitectura, pinturas, poesía e historias dan gloria a Dios y pueden llevarnos a una apreciación más profunda de la verdad de lo que jamás podría un tratado filosófico». La catedral de Notre Dame, incendiada en 2019, conmovió al mundo entero porque «la gente se dio cuenta, al menos implícitamente, de que este edificio hermoso proclama el cristianismo en pleno corazón de una de las ciudades más importantes del mundo».
+
+**La religión necesita las artes (Murray OP).** Sin el testimonio vivo de los artistas, la propia religión tiende, según T.S. Eliot, a volverse «una melodía sentimental o una orgía emocional; o en teología, una danza de esqueletos con dogmas descarnados; o en eclesiasticismo, un club político sin alma». El poeta Heaney testifica que el catolicismo da desde el comienzo «una maravillosa sensación de resplandor, de ilimitación, y también de un lugar significativo dentro de lo ilimitado... profundamente importante para la poesía».
+
+**La Belleza cumple la obra de los tres (Murray).** Ante el «la belleza salvará al mundo» de Dostoevski, Solzhenitsyn pasó del rechazo juvenil a la sospecha madura de que la trinidad Verdad-Bondad-Belleza no era «una fórmula vacía y desvaída»: cuando «los tallos de la Verdad y la Bondad están aplastados, cortados, se les deja pasar... quizá los tallos fantásticos, imprevisibles e inesperados de la Belleza brotarán y remontarán hasta ese mismo lugar, cumpliendo así la obra de los tres». Miłosz: «Cuando la gente deje de creer que hay bien y mal, solo la belleza los llamará y los salvará, para que todavía sepan decir: esto es verdadero y esto es falso».
+
+**La belleza desarma (Murray).** Las obras maestras «no solo nos encantan sino que nos desarman»: su belleza y su visión logran, «por pura fuerza de integridad», cuestionar nuestras viejas maneras de ver, captando simultáneamente imaginación, pasiones y razón.
+
+**Formar en lo bello para volver a lo bueno y lo verdadero (Worner).** La revista se propone «sumergir a sus lectores en lo bello, señalando siempre de regreso hacia lo bueno y, en último término, hacia lo verdadero»; la formación estética acompaña a la formación interior e intelectual.
+
 ## Relaciones doctrinales
 
 La belleza se relaciona con el [[arte_sacro]], con [[dios]] como fuente de toda belleza, con la [[gloria]] divina, y con la [[cultura]] como expresión de la creatividad humana elevada por la gracia.
@@ -64,3 +76,4 @@ La belleza se relaciona con el [[arte_sacro]], con [[dios]] como fuente de toda 
 ## Referencias
 
 - CEC §41, §2500-2501, §2513
+- [EAC-1, Issue 1 «Creativity»: archivos 01, 04, 22]

@@ -110,12 +110,12 @@ El Catecismo habla de la esperanza como virtud teológica:
 - **[[benedicto_xvi]]**: La encíclica refleja la experiencia vital de Ratzinger, nacido en Sábado Santo.
 - **[[escatología]]**: La encíclica aborda las cuestiones escatológicas fundamentales: muerte, juicio, vida eterna.
 - **[[deus_caritas_est]]**: Primera encíclica de Benedicto XVI, sobre el amor; Spe Salvi es su complemento sobre la esperanza.
-- **[[noche_oscura_del_alma]]**: La encíclica aborda el sufrimiento como lugar de aprendizaje de la esperanza.
+- **[[noche_oscura]]**: La encíclica aborda el sufrimiento como lugar de aprendizaje de la esperanza.
 - **[[oración]]**: La oración es identificada como el lugar fundamental donde se aprende la esperanza.
 
 ## Ver también
 
-[[esperanza]], [[benedicto_xvi]], [[escatología]], [[deus_caritas_est]], [[noche_oscura_del_alma]], [[oración]], [[juicio_final]], [[vida_eterna]]
+[[esperanza]], [[benedicto_xvi]], [[escatología]], [[deus_caritas_est]], [[noche_oscura]], [[oración]], [[juicio_final]], [[vida_eterna]]
 
 ## Referencias
 

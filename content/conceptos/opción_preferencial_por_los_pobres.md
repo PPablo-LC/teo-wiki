@@ -47,6 +47,10 @@ La Iglesia debe «vivir con los pobres y participar de sus dolores […] testifi
 
 Los pobres han de ser «los primeros destinatarios de la evangelización, a semejanza de Jesús» [EA §67]. Sin embargo, el amor preferencial no es excluyente: el haber descuidado la atención pastoral de los ambientes dirigentes ha causado el alejamiento de la Iglesia de no pocos de ellos [EA §67].
 
+### Según Mons. Tihámer Tóth (JvC-Rel)
+
+Tóth recoge la formulación de Aparecida: «la opción preferencial por los pobres está implícita en la fe cristológica en aquel Dios que se ha hecho pobre por nosotros»; no es «ni exclusiva, ni excluyente». Los discípulos están llamados a contemplar en los rostros sufrientes de los hermanos el rostro de Cristo que llama a servirlo en ellos: «Los rostros sufrientes de los pobres son rostros sufrientes de Cristo… Todo lo que tenga que ver con Cristo, tiene que ver con los pobres» (cf. Mt 25,40) [JvC-Rel, archivo 41]. En clave educativa y apologética, Tóth añade su propio argumento: la gran epopeya de las misiones católicas es «todo un derroche de generosidad, solidaridad y fraternidad con los pueblos más pobres y marginados», y la Iglesia debe mostrar ante los jóvenes esa labor caritativa como prueba histórica de su fuerza vivificadora [archivo 15].
+
 ## Distinciones importantes
 
 - **Opción preferencial** ≠ **exclusión de los demás**: es primacía, no exclusión

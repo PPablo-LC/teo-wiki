@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Soledad
 tags: ["ascética", "mística"]
 
-timestamp: 2026-06-10
+timestamp: 2026-08-24
 description: "La soledad es la condición de quien permanece apartado de la compañía humana."
 ---
 # Soledad
 
 > Área: Ascética / Mística
-> Última actualización: 2026-06-10
+> Última actualización: 2026-08-24
 
 ## Definición
 
@@ -39,6 +39,10 @@ En el NT, la soledad por el Reino es vocación (1 Cor 7,32-34). Pablo habla de l
 
 La soledad es condición necesaria para el trato íntimo con Dios. En la vía unitiva el alma experimenta «amor a la soledad, espíritu de desasimiento» (TPCr, n. 99). San Juan de la Cruz advierte que la afición desordenada a conversaciones puede hacer «caer de la alegría y entereza en los ejercicios espirituales… guardándose en soledad para Dios» (n. 353). El don de entendimiento requiere «recogimiento interior y soledad»: el Espíritu Santo «sólo allí habla en silencio a las almas» (n. 156).
 
+### Según Evangelization & Culture n.º 3 «The Digital Age» (EAC-3)
+
+Fr. Blake Britton describe una epidemia de soledad en la era digital: aunque cada generación anhela comunidad, «el anhelo es particularmente fuerte entre los millennials», y por una razón simple: la tecnología. El 22 % de los millennials estadounidenses dice no tener amigos y el 30 % reporta soledad constante o frecuente; el uso creciente del smartphone ha producido torpeza e incomodidad en los encuentros sociales reales. La soledad digital tiene además una raíz espiritual que Elizabeth Scalia precisa: quien busca en los «me gusta» un sustituto del amor descubre, cuando ese flujo se corta, que se sentía amado solo químicamente: «no solo me sentí atacada, o rodeada de lobos sedientos de sangre: me sentí no amada. Y cuando nos sentimos no amados, nos sentimos invisibles, no sostenidos, no aceptados y cortados. No solo de los demás, sino de Dios, quien es todo Amor y su misma Fuente y Ser». Esa experiencia, «aunque el sentimiento sea ilusorio, como suele serlo», revela que la soledad contemporánea no se cura con más conexión sino reencontrando al Amor en su fuente.
+
 ## Distinciones importantes
 
 - Soledad eremítica (búsqueda de Dios) vs. soledad de abandono (sufrimiento)
@@ -63,3 +67,4 @@ León XIV aborda la soledad sacerdotal como uno de los riesgos más graves del m
 - VocTeoBib, artículo «Soledad», Xavier León-Dufour (ed.)
 - Mc 1,35; Lc 6,12; Mc 15,34; Jn 16,32; Os 2,16
 - [L_XIV-ClerRom, 19.02.2026]
+- [EAC-3, Issue 3 «The Digital Age»: archivos 11 (Britton), 16 (Scalia)]

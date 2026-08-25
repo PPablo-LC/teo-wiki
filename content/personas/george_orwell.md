@@ -44,7 +44,7 @@ Aunque era escéptico religioso y ateo declarado, algunos comentaristas han vist
 
 ## Relación con otras fuentes
 
-WoF-3, 10_minds_orwell.md (Dr. John P. Rossi) analiza su relevancia para la defensa de la verdad objetiva y la corrupción del lenguaje en la era digital.
+EAC-3, 10_minds_orwell.md (Dr. John P. Rossi) analiza su relevancia para la defensa de la verdad objetiva y la corrupción del lenguaje en la era digital.
 
 ## Ver también
 
@@ -52,5 +52,5 @@ WoF-3, 10_minds_orwell.md (Dr. John P. Rossi) analiza su relevancia para la defe
 
 ## Referencias
 
-- WoF-3, 10_minds_orwell.md (Dr. John P. Rossi)
+- EAC-3, 10_minds_orwell.md (Dr. John P. Rossi)
 - Orwell, *The Collected Essays, Journalism, and Letters*

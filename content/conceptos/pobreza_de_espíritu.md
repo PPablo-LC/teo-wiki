@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Pobreza de Espíritu
 tags: ["ascética"]
 
-timestamp: 2026-05-22
+timestamp: 2026-08-23
 description: "La primera bienaventuranza del Sermón de la Montaña: \"Bienaventurados los pobres en el espíritu, porque de ellos es el reino de los cielos\" (Mt 5,3). Consiste en el desprendimiento interior de los ..."
 ---
 # Pobreza de Espíritu
 
 > Área: Ascética
-> Última actualización: 2026-05-22
+> Última actualización: 2026-08-23
 
 ## Definición
 
@@ -28,6 +28,16 @@ La pobreza de espíritu no se reduce a la pobreza material, sino que designa una
 ### Según Royo Marín (TPCr)
 
 Con el don de temor se relaciona la primera bienaventuranza: "Bienaventurados los pobres de espíritu", que impulsa a no buscar el engrandecimiento ni en la soberbia ni en los bienes exteriores. La pobreza de espíritu incluye el aniquilamiento del espíritu soberbio y el desprendimiento de todas las cosas temporales (TPCr, Parte III, Libro II, Cap. II).
+
+### Según San Juan de la Cruz (AvEsp)
+
+En los Avisos Espirituales la pobreza espiritual es desnudez activa del apetito y de la voluntad, no mera actitud:
+
+- «Al pobre que está desnudo le vestirán, y al alma que se desnudare de sus apetitos, quereres y no quereres, la vestirá Dios de su pureza, gusto y voluntad» (Beas §19).
+- «Si quieres ser perfecto, vende tu voluntad y dala a los pobres de espíritu, y ven a Cristo por la mansedumbre y humildad y síguelo hasta el Calvario y sepulcro» (Antequera §7; eco de Mt 19,21).
+- «Traer desnudez y vacío y pobreza por Jesucristo de cuanto hay en el mundo», como programa de mortificación de las cuatro pasiones (Magdalena §3).
+- La perfección consiste en «andar a perder»: darse a sí mismos hasta quedar poseídos por Dios, no poseer (Gerona §15).
+- La pobreza figura entre las «doce estrellas para llegar a la suma perfección» (Gerona §34).
 
 ## Distinciones importantes
 

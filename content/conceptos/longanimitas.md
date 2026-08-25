@@ -58,11 +58,11 @@ La longanimidad se relaciona con la *makrothumia* griega (apaciguamiento, tolera
 - **[[virtudes]]**: La longanimidad es una de las virtudes morales que perfeccionan la voluntad en la perseverancia del bien.
 - **[[peregrinaje]]**: El peregrinaje es escuela de longanimidad: cada paso es pequeño pero la meta es eterna.
 - **[[caridad]]**: El amor es longánimo (1 Co 13,4); la caridad persevera en el amor al prójimo a pesar de las dificultades.
-- **[[noche_oscura_del_alma]]**: La longanimidad permite perseverar en la fe durante las noches oscuras.
+- **[[noche_oscura]]**: La longanimidad permite perseverar en la fe durante las noches oscuras.
 
 ## Ver también
 
-[[esperanza]], [[virtudes]], [[peregrinaje]], [[caridad]], [[noche_oscura_del_alma]], [[perseverancia]]
+[[esperanza]], [[virtudes]], [[peregrinaje]], [[caridad]], [[noche_oscura]], [[perseverancia]]
 
 ## Referencias
 

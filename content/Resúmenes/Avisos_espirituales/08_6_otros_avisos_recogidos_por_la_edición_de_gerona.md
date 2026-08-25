@@ -24,7 +24,7 @@ tags: ["resumen", "avisos espirituales", "teología_mística", "san_juan_de_la_c
 - [[fe]] — desancillar; mejor no ver en las cosas de Dios
 - [[humildad]] — amar el no ser conocida; no mirar bienes ni males ajenos
 - [[contemplación]] — andar a solas con Dios; obrar en el medio
-- [[pobreza_espiritual]] — andar a perder; ser poseídos, no poseer
+- [[pobreza_de_espíritu]] — andar a perder; ser poseídos, no poseer
 - [[amor_de_dios]] — no tener más ojo a los bienes de Dios que al mismo Dios
 - [[silencio_interior]] — hablar poco; callar lo que Dios diere
 - [[presencia_de_dios]] — traer a Dios presente, conservar la pureza
@@ -54,7 +54,7 @@ Colección final de 36 avisos recogidos por la edición de Gerona:
 12. **Bienes de Dios:** más se granjea en los bienes de Dios en una hora que en los nuestros toda la vida ([[gracia]]).
 13. **No ser conocida:** ama el no ser conocida de ti ni de los otros; nunca mires los bienes ni los males ajenos ([[humildad]]).
 14. **A solas con Dios:** andar a solas con Dios; obrar en el medio; esconder los bienes de Dios ([[contemplación]]).
-15. **Andar a perder:** andar a perder y que todos nos ganen es de ánimos valerosos; los corazones dadivosos se dan a sí mismos, pues tienen por gran carga poseerse; «más gustan de ser poseídos y ajenos de sí, pues somos más propios de aquel infinito Bien que nuestros» ([[pobreza_espiritual]]).
+15. **Andar a perder:** andar a perder y que todos nos ganen es de ánimos valerosos; los corazones dadivosos se dan a sí mismos, pues tienen por gran carga poseerse; «más gustan de ser poseídos y ajenos de sí, pues somos más propios de aquel infinito Bien que nuestros» ([[pobreza_de_espíritu]]).
 16. **Ojo al mismo Dios:** grande mal es tener más ojo a los bienes de Dios que al mismo Dios; oración y desapropio ([[amor_de_dios]]).
 17. **Ciencia anagógica:** mire aquel infinito saber y aquel secreto escondido; qué paz, qué amor, qué silencio en aquel pecho divino; qué ciencia tan levantada enseña Dios allí, que son los actos anagógicos, que tanto encienden el corazón ([[contemplación_infusa]]).
 18. **Secreto de conciencia:** se menoscaba el secreto de la conciencia cuando alguien manifiesta a los hombres el fruto de ella, pues recibe por galardón el fruto de la fama transitoria ([[humildad]]).

@@ -32,14 +32,14 @@ La obra se organiza en seis secciones:
 
 4. **Avisos conservados por la M. María de Jesús** (5 avisos): Aforismos breves sobre levantarse sobre sí mismo, huir con el pensamiento, limpiar de aficiones, y el canto con compunción.
 
-5. **Avisos procedentes de Antequera** (13 avisos): Sentencias que resumen la vida espiritual: apartarse de lo terreno, morir a todo, humildad, mansedumbre, [[pobreza_espiritual]], amor del prójimo, y la excelencia de [[sufrimiento]] por Dios sobre los milagros.
+5. **Avisos procedentes de Antequera** (13 avisos): Sentencias que resumen la vida espiritual: apartarse de lo terreno, morir a todo, humildad, mansedumbre, [[pobreza_de_espíritu]], amor del prójimo, y la excelencia de [[sufrimiento]] por Dios sobre los milagros.
 
 6. **Otros avisos recogidos por la edición de Gerona** (36 avisos): Aforismos de diversos orígenes sobre desapropio, oración, humildad, obediencia, silencio, paz interior, y los «doce estrellas» para la suma [[perfección_cristiana]]: amor de Dios, amor del prójimo, obediencia, castidad, pobreza, asistir al coro, penitencia, humildad, mortificación, oración, silencio, paz (§34).
 
 ## Temas teológicos principales
 
 - **Contemplación y vida mística**: [[contemplación]], [[contemplación_infusa]], [[matrimonio_espiritual]], [[unión_transformante]], [[vía_purgativa]]
-- **Virtudes y ascética**: [[humildad]], [[obediencia]], [[mortificación]], [[paciencia]], [[pobreza_espiritual]], [[desapego]]
+- **Virtudes y ascética**: [[humildad]], [[obediencia]], [[mortificación]], [[paciencia]], [[pobreza_de_espíritu]], [[desapego]]
 - **Oración y vida de oración**: [[oración]], [[oración_contemplativa]], [[presencia_de_dios]], [[silencio_interior]], [[paz_interior]]
 - **Amor de Dios y caridad**: [[amor_de_dios]], [[caridad]], [[acto_de_caridad]], [[voluntad_de_dios]]
 - **Espiritualidad práctica**: [[dirección_espiritual]], [[examen_de_conciencia]], [[devoción]], [[perseverancia]], [[sequedad_espiritual]]

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Pobreza
 tags: ["moral", "ascética"]
 
-timestamp: 2026-05-25
+timestamp: 2026-08-24
 description: "Desprendimiento de los bienes terrenos por amor a Cristo, que constituye la primera bienaventuranza (\"pobreza de espíritu\") y uno de los consejos evangélicos."
 ---
 # Pobreza
 
 > Área: Moral / Ascética
-> Última actualización: 2026-05-25
+> Última actualización: 2026-08-24
 
 ## Definición
 
@@ -50,6 +50,16 @@ El V Capítulo General ordinario de los Legionarios de Cristo (2026) constata un
 ### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
 
 León XIV abordó la pobreza desde el servicio y el encuentro personal con los pobres durante su viaje a España. En la visita al CEDIA (2 de junio), el servicio a los inmigrantes fue presentado como expresión concreta del amor cristiano [L_XIV-ViajeEspaña-2026, CEDIA 02]. En el encuentro con voluntarios, subrayó que «la pobreza no es un dato estadístico; tiene rostro, tiene nombre, tiene historia» [L_XIV-ViajeEspaña-2026, encuentro con voluntarios — discurso]. La pobreza fue presentada no como una realidad abstracta sino como encuentro personal con Cristo sufriente en los pobres.
+
+### Según Evangelization & Culture n.º 2 «Economics» (EAC-2)
+
+**Amor preferencial de la Iglesia.** El marco económico de los obispos estadounidenses funda el principio 3 en la enseñanza constante: el amor de la Iglesia por los pobres es «parte de su constante tradición» (CEC §2444) y los pobres son «objeto de un amor preferencial por parte de la Iglesia» (CEC §2448). San Juan Crisóstomo es citado con dureza: «No permitir que los pobres participen de nuestros bienes es robarles y privarlos de la vida» (CEC §2446); y la Iglesia, según Benedicto XVI, «no puede ni debe permanecer al margen de la lucha por la justicia», combatiendo las «estructuras de pecado» que generan y perpetúan la pobreza (CompDS §332) [EAC-2, 13_framework_economic_life].
+
+**Pobreza voluntaria (Dorothy Day).** Day distinguía entre pobreza y **destitución**: esta última es la carencia involuntaria de lo necesario que puede aplastar el espíritu humano; la primera es el prescindir voluntario, un «ascetismo saludable» hecho significativo por el vuelto consciente desde las cosas del hombre hacia las cosas de Dios —esa pobreza «eleva y libera el espíritu humano». Tres aspectos prácticos: rechazar posesiones excesivas mientras otros están en necesidad («El abrigo que cuelga en tu armario pertenece a los pobres»); sencillez de vida que libera más de lo propio para la limosna; y negativa a comprar bienes producidos mediante explotación ajena. Su consejo espiritual: «Ruega por el deseo, e incluso desea tener el deseo de la pobreza» [EAC-2, 14_dorothy_day_personalist].
+
+**La pobreza existencial (Fr. Gadberry).** El encuentro con los pobres revela una verdad incómoda: «un encuentro con los pobres revela la pobreza existencial que maldice a todo ser humano, una pobreza que no puede ser rescatada con ningún bien material». Es irónico que «cuantas más cosas poseemos, más parecidos somos poseídos por esas cosas»; las posesiones materiales no dan vida ni libertad —«Cristo sí»—. Si la guerra revela por qué estamos dispuestos a morir, la pobreza predica el hecho de que debemos morir [EAC-2, 20_peripheries_war_poverty].
+
+**Cristo en su «disfraz angustioso» (Br. Pius Marie Gagne).** Los frailes Franciscanos de la Renovación eligen vivir solo en barrios pobres para ser accesibles a los más necesitados. El encuentro personal con los pobres hace vivas las Escrituras mejor que cualquier comentario: caminar con los pobres romperá tu corazón, «pero es permitiendo que nuestros corazones sean rotos como comienzan a asemejarse al Corazón roto y traspasado por nosotros» [EAC-2, 19_soul_notes_from_inside].
 
 ## Distinciones importantes
 

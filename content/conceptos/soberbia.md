@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Soberbia
 tags: ["moral"]
 
-timestamp: 2026-08-22
+timestamp: 2026-08-24
 description: "La soberbia es el apetito desordenado de la propia excelencia."
 ---
 # Soberbia
 
 > Área: Moral
-> Última actualización: 2026-08-22
+> Última actualización: 2026-08-24
 
 ## Definición
 
@@ -89,6 +89,14 @@ El número dedicado al humor diagnostica la soberbia desde su síntoma más visi
 - **Satanás burlado:** el orgulloso que trama en serio es el destinatario del chiste supremo: «la Encarnación y la Resurrección es uno de los mayores chistes jamás gastados a un Satanás orgulloso, serio y tramando» (Berry).
 
 
+### Según Evangelization & Culture n.º 1 «Creativity» (EAC-1)
+
+**«El hombre es fundamentalmente el deseo de ser Dios» (Kaczor sobre Sartre).** El ser humano caído «desea reemplazar a Dios consigo mismo, volverse su propio Dios, de modo que no Dios sino ellos mismos tengan la libertad absoluta». Kaczor lo ilustra con la sentencia del Tribunal Supremo estadounidense: «En el corazón de la libertad está el derecho a definir el propio concepto de existencia, de significado, del universo y del misterio de la vida humana» — el orden creado puesto cabeza abajo, imitando el grito del Satanás de Milton: «Sea el mal mi bien».
+
+**La analogía imposible (Kaczor).** Casi nadie desea ser perro, pero casi todos desean ser Dios. Una mujer que intentara convertirse en perra jamás lo lograría, pero se privaría de los bienes de la vida humana; del mismo modo, «el intento de ser Dios no puede triunfar... pero el intento puede acarrear la pérdida de los bienes que podríamos haber tenido abrazando nuestra humanidad»: humildad, justicia y amor.
+
+**Tiranos como soberbios consumados (Kaczor).** «No es casualidad que los tiranos más malvados de la historia reclamaran un poder absoluto que pertenece legítimamente solo a Dios. Al actuar como si fueran Dios, estos tiranos exhibieron una crueldad diabólica».
+
 ## Distinciones importantes
 
 - **Soberbia espiritual**: la más peligrosa, disfrazada de virtud; propio de los principiantes según San Juan de la Cruz
@@ -115,3 +123,4 @@ La soberbia es el vicio opuesto a la [[humildad]]. Es la raíz de todos los peca
 - [TPCr, Parte III, Libro I, Cap. I; Parte III, Libro II, Cap. II, n.357, 413]
 - [Santo Tomás, II-II, q.162]
 - [EAC-8, Issue 8 «Humor», archivos 02, 03, 13, 16]
+- [EAC-1, Issue 1 «Creativity», archivo 10]

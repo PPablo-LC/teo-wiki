@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Clausura
 tags: ["vida_consagrada"]
 
-timestamp: 2026-05-29
+timestamp: 2026-08-24
 description: "La clausura es la separación física y jurídica del mundo que caracteriza a ciertas formas de vida consagrada, especialmente la contemplativa."
 ---
 # Clausura
 
 > Área: Vida Consagrada
-> Última actualización: 2026-05-29
+> Última actualización: 2026-08-24
 
 ## Definición
 
@@ -32,6 +32,10 @@ En todas las casas religiosas se observará la clausura adaptada al carácter y 
 ### Según el Concilio Vaticano II (Perfectae Caritatis)
 
 La clausura papal de las monjas de vida estrictamente contemplativa debe conservarse inalterada, adaptándose a las condiciones de tiempos y lugares (PC §16). Las monjas dedicadas a obras externas quedan eximidas de la clausura papal y la observan según sus constituciones.
+
+### Según Juan Pablo II (VocExp)
+
+En *La vocación explicada*, Juan Pablo II reafirma «con fuerza el papel eminentemente apostólico de las monjas de clausura»: «Dejar el mundo para dedicarse —en la soledad— a una oración más profunda y constante no es más que una forma particular... de ser apóstol». Corrige el error de considerarlas «criaturas separadas de sus contemporáneos, aisladas y como apartadas del mundo y de la Iglesia; están, por el contrario, presentes de la manera más profunda posible, con la misma ternura de Cristo». Prueba de su valor eclesial es que los Obispos de las nuevas Iglesias solicitan como gracia especial acoger un monasterio de religiosas contemplativas aun cuando el número de religiosas activas sea insuficiente. Recuerda además a las 400 religiosas contemplativas de España unidas «a través de la oración en el silencio del claustro», dedicadas a rezar por la Iglesia y por los jóvenes para que sepan responder a la llamada de Jesús [VocExp, §Vocación religiosa].
 
 ## Distinciones importantes
 

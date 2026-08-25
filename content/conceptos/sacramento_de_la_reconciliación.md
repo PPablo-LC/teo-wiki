@@ -227,7 +227,7 @@ PS defiende que la confesión fue instituida por Jesucristo cuando dijo a los Ap
 
 ### Según Mons. Tihámer Tóth (JvC-Rel)
 
-Tóth destaca el valor educativo de la [[confesión]] frecuente: examen de conciencia, arrepentimiento, firme propósito y satisfacción. La confesión conoce el defecto dominante y ayuda al proceso de liberación del [[pecado]]. El conocimiento propio es esencial para el crecimiento espiritual. San Alfonso María de Ligorio y San Francisco de Sales son referentes de la dirección de almas [JvC-Rel, Archivo 16].
+Tóth destaca el valor educativo de la [[confesión]] frecuente: examen de conciencia, arrepentimiento, firme propósito y satisfacción. La confesión conoce el defecto dominante y ayuda al proceso de liberación del [[pecado]]. El conocimiento propio es esencial para el crecimiento espiritual. San Alfonso María de Ligorio y San Francisco de Sales son referentes de la dirección de almas [JvC-Rel, Archivo 16]. Aparecida, citada por Tóth, confirma esta urgencia pastoral: en una cultura de relativismo y pérdida del sentido del pecado, los pastores están llamados a «fomentar la confesión frecuente»; el sacramento es «el lugar donde el pecador experimenta de manera singular el encuentro con Jesucristo… nos devuelve la alegría y el entusiasmo de anunciarlo» [Archivo 39].
 
 ### Según la conferencia «La catedral interior del sacerdote» (CIS)
 

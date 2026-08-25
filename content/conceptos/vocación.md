@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Vocación
 tags: ["dogmática", "moral", "ascética"]
 
-timestamp: 2026-06-14
+timestamp: 2026-08-24
 description: "La vocación es la llamada de Dios al hombre para que, en libertad, responda al designio divino sobre su vida."
 ---
 # Vocación
 
 > Área: Dogmática / Moral / Ascética
-> Última actualización: 2026-06-14
+> Última actualización: 2026-08-24
 
 ## Definición
 
@@ -58,6 +58,14 @@ El V Capítulo General ordinario de los Legionarios de Cristo (2026) presenta un
 ### Según el Viaje Apostólico a España 2026 (L_XIV-ViajeEspaña-2026)
 
 León XIV dirigió una fuerte llamada vocacional a los jóvenes: «Cristo te mira y te dice: "Sígueme"» [L_XIV-ViajeEspaña-2026, 03-VigiliaMadrid; 11-VigiliaBarcelona]. Animó a la apertura al sacerdocio, a la vida consagrada y al matrimonio cristiano: «No tengáis miedo de responder a la llamada del Señor, aunque parezca exigente. Vale la pena» [L_XIV-ViajeEspaña-2026, 03-VigiliaMadrid]. Presentó la vocación como respuesta de amor, no como carga: «la santidad no es un ideal imposible; es tu vida vivida con amor» [L_XIV-ViajeEspaña-2026, 11-VigiliaBarcelona]. En el encuentro con seminaristas y sacerdotes, trató la vocación sacerdotal como don y misión [L_XIV-ViajeEspaña-2026].
+
+### Según Juan Pablo II (VocExp)
+
+En *La vocación explicada*, Juan Pablo II presenta la vocación como un misterio de iniciativa divina: «En la raíz de toda vocación no se da una iniciativa humana o personal con sus inevitables limitaciones, sino una misteriosa iniciativa de Dios». Dios nos llamó desde la eternidad: «Desde que comenzamos a existir en los designios del Creador y Él nos quiso criaturas, también nos quiso llamados, preparándonos con dones y condiciones para la respuesta personal, consciente y oportuna». La vocación es «un misterio que el hombre acoge y vive en lo más íntimo de su ser», que depende de la soberana libertad divina y escapa a nuestra comprensión.
+
+El Papa describe el **proceso vocacional** en tres momentos humanos: el descubrimiento («encontrar la perla de gran valor»), el diálogo en la oración entre Jesús y el llamado, y la respuesta como «Sí lleno de fe». La llamada se percibe como «suave soplo a través del toque esclarecedor de la gracia; un soplo del Espíritu Santo» que enciende una luz nueva e infunde fuerza extraordinaria. Ante las reservas que la razón opone, «Dios aporta el poder de su gracia», y ciertas experiencias de entusiasmo religioso son solo gracias iniciales y pasajeras que empujan hacia la conversión. La vocación puede ser incluso «el resultado de una batalla con Él».
+
+La medida del éxito de la vida es la generosidad: encontrar la vida entregándola, «perdiéndola», compartiéndola (Jn 12,25). Los medios para ver claro el camino son la oración, los sacramentos —singularmente la Penitencia como medio eficaz de crecimiento espiritual— y la dirección espiritual, que «ayuda a superar el peligro de la arbitrariedad a la hora de conocer y decidir la propia vocación a la luz de Dios». La vocación es siempre apostólica: Dios quiere llamar a través de otras personas (Andrés condujo a Pedro; Felipe a Natanael), y exige perseverancia: «solo puede llamarse fidelidad a una coherencia que dure toda la vida» [VocExp].
 
 ## Distinciones importantes
 

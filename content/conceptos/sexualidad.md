@@ -49,6 +49,10 @@ La distinción entre «excitación» (reacción corpórea, sexual) y «emoción�
 
 La masculinidad y feminidad están interiormente ordenadas a la comunión de personas (communio personarum): este es su «significado nupcial» (TdC 07.11.1984). La castidad conyugal, como «vida según el Espíritu» (Gál 5,25), permite el desarrollo de las manifestaciones afectivas en su justa proporción y significado, vinculada al don del respeto (donum pietatis) (TdC 14.11.1984).
 
+### Según Mons. Tihámer Tóth (JvC-Rel)
+
+Tóth recoge el principio rector del Pontificio Consejo para la Familia: «la sexualidad humana es un misterio sagrado que debe ser presentado según la enseñanza doctrinal y moral de la Iglesia, teniendo siempre en cuenta los efectos del pecado original» [JvC-Rel, archivo 29]. Este principio exige «reverencia y realismo cristiano» y el respeto profundo de la diferencia entre hombre y mujer, que refleja el amor y la fecundidad de Dios mismo [archivo 29]. En clave positiva: la sexualidad «no es algo puramente biológico», sino que mira al núcleo íntimo de la persona; es un bien creado —parte del don que Dios vio que «era muy bueno»— cuyo fin intrínseco es el amor como donación y acogida; su uso tiene plena verdad solo cuando expresa la donación personal hasta la muerte (véase [[matrimonio]], [[castidad]]) [archivo 21, Apéndice II]. El desorden en su uso destruye progresivamente la capacidad de amar y lleva al desprecio de la vida naciente: «solo un amor verdadero sabe custodiar la vida» [archivo 27].
+
 ## Relaciones doctrinales
 
 Se relaciona con [[amor_conyugal]], [[matrimonio]], [[castidad]], [[educación_sexual]], [[significado_esponsal_del_cuerpo]], [[anticoncepción]], [[paternidad_responsable]]

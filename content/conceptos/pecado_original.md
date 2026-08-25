@@ -177,6 +177,12 @@ El texto subraya la importancia del estudio del pecado original para comprender 
 
 **La deshecha del pecado original (Ex 3).** Dios «tan bajo como para estar presente en gracia salvadora a los esclavos en Egipto, y tan alto como para ser incapturable por cualquier nombre»: las dos opciones fáciles (inmanencia pura o trascendencia pura) apelan a nosotros los pecadores; el Éxodo frustra control y evitación —estrategias gemelas del Edén—.
 
+### Según Evangelization & Culture n.º 1 «Creativity» (EAC-1)
+
+**El árbol como intento de reemplazar a Dios (Kaczor).** ¿Qué significa comer «del árbol del conocimiento del bien y del mal»? Si alguien dice «conozco esta tierra de norte a sur», reclama conocerla en su totalidad; pretender un conocimiento que va de un extremo («bien») al otro («mal») «es otra forma de hablar de conocimiento completo, conocimiento total, conocimiento divino». Pero el conocimiento divino no solo reconoce lo que existe: **crea todo lo que existe**. «Solo Dios tiene conocimiento divino, así que comer del árbol es un intento de volverse Dios». Peterson lo lee como rechazo implícito de Cristo: «La presunción de conocimiento absoluto... es *prima facie* equivalente al rechazo del héroe —al rechazo de Cristo, del Verbo de Dios—».
+
+**Por qué se prohíbe el árbol (Kaczor).** El intento de hacerse Dios no puede triunfar («criaturas causadas y limitadas como nosotros nunca pueden llegar a ser el Creador increado e ilimitado»), pero sí destruye los bienes propios de la humanidad abrazada: pierde la **humildad** («olvidará que es criatura de carne y barro»), la **justicia** («olvidará dar a Dios y a las demás criaturas lo que les es debido») y el **amor** (pues «el amor se basa en la realidad del amado y en la realidad sobre nosotros mismos»). «No es casualidad que los tiranos más malvados de la historia reclamaran un poder absoluto que pertenece legítimamente solo a Dios».
+
 ## Distinciones importantes
 
 - Pecado original contraído ≠ pecado personal cometido.
@@ -200,6 +206,7 @@ El texto subraya la importancia del estudio del pecado original para comprender 
 - [PS §09,43]
 - SmTh Ia-IIae q.81-83
 - SmTh Ia-IIae q.85 a.3 (cuatro heridas)
+- [EAC-1, Issue 1 «Creativity», archivo 10]
 
 ## Analizado en contexto cultural
 

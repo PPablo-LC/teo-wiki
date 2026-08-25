@@ -36,7 +36,7 @@ Si los cristianos se quedan detrás de la curva en los nuevos medios —o, en el
 
 ## Métodos de evangelización digital
 
-Brandon Vogt (WoF-3) propone cinco lecciones:
+Brandon Vogt (EAC-3) propone cinco lecciones:
 
 1. **Desarrollar una vida interior**: La oración, la Liturgia de las Horas y la dirección espiritual son esenciales para evitar el cinismo y la vanidad.
 2. **Aprender los lenguajes**: Estudiar la cultura online (Reddit, YouTube, Twitter, Instagram) antes de anunciar el Evangelio en esos formatos.
@@ -56,7 +56,7 @@ Los evangelizadores digitales se dirigen especialmente a los «nones» (no afili
 
 ## Relación con otras fuentes
 
-WoF-3, 01_from_the_desk.md (Barron), WoF-3, 03_word_from_institute.md, WoF-3, 15_vogt_media_evangelist.md, WoF-3, 09_spotlight_sheen_microphone.md.
+EAC-3, 01_from_the_desk.md (Barron), EAC-3, 03_word_from_institute.md, EAC-3, 15_vogt_media_evangelist.md, EAC-3, 09_spotlight_sheen_microphone.md.
 
 ### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
 
@@ -68,7 +68,7 @@ EAC-8 (archivo 19) recoge la visión mediática de Word on Fire: los medios digi
 
 ## Referencias
 
-- WoF-3, 01_from_the_desk.md (Bishop Robert Barron)
-- WoF-3, 15_vogt_media_evangelist.md (Brandon Vogt)
+- EAC-3, 01_from_the_desk.md (Bishop Robert Barron)
+- EAC-3, 15_vogt_media_evangelist.md (Brandon Vogt)
 - EG 14
 - [EAC-8, Issue 8 «Humor», archivo 19]

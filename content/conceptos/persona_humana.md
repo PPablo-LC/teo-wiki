@@ -67,6 +67,10 @@ El alma humana, por ser espiritual, es inmortal. La unión del alma con el cuerp
 
 **Humanismo integral (Wilson/Maritain).** El poema muestra la bondad y la radical incompletitud de lo humano: la dignidad de la criatura halla su centro y justificación viajando «verticalmente» hacia lo divino; esto es lo que todo «humanismo integral» debe hacer (Maritain); «iniciándonos en las cosas como misterio inteligible, la poesía humaniza».
 
+### Según Mons. Tihámer Tóth (JvC-Rel)
+
+Tóth aplica el principio personalista a la pedagogía: «todo niño es una persona única e irrepetible y debe recibir una formación individualizada» [JvC-Rel, archivo 25]. «Dios no se repite en ninguno de los seres humanos. Los caminos de la gracia son variadísimos, y Él sabe hablar al alma de mil modos»; «cada alma es distinta; cada joven tiene su propia personalidad. No se puede aplicar el mismo patrón para todos» [archivo 08]. Por eso «no se puede conducir el joven hacia Dios si no se conoce su alma»: la dirección espiritual exige conocer el temperamento, inclinaciones y debilidades de cada uno, pues «cuanto mejor conozcamos el alma del joven mejor podremos aprovechar sus buenas inclinaciones naturales, para acrecentarlas, espiritualizarlas a la mayor gloria de Dios» [archivo 08]. La gracia no destruye sino que supone la naturaleza: el respeto a la singularidad de cada niño es exigencia teológica además de pedagógica (véase [[gracia_santificante]]).
+
 ## Distinciones importantes
 
 - **Persona** ≠ **individuo**: la persona es un individuo de naturaleza racional con dignidad intrínseca.

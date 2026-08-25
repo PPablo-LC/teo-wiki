@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Propiedad privada
 tags: ["moral", "doctrina_social"]
 
-timestamp: 2026-06-17
+timestamp: 2026-08-24
 description: "Derecho legítimo a poseer bienes, subordinado al principio del destino universal de los bienes."
 ---
 # Propiedad privada
 
 > Área: Moral / Doctrina Social
-> Última actualización: 2026-06-17
+> Última actualización: 2026-08-24
 
 ## Definición
 
@@ -46,6 +46,17 @@ LE especifica que la propiedad «se adquiere ante todo mediante el trabajo, para
 La encíclica critica tanto el «rígido» capitalismo (que defiende el derecho exclusivo a la propiedad privada de los medios de producción como un dogma intocable) como el colectivismo (la simple substracción de los medios de producción de las manos de sus propietarios privados no es suficiente para socializarlos de modo satisfactorio). Propone formas de copropiedad y participación de los trabajadores en la gestión y beneficios (LE §14).
 
 El **argumento personalista** (LE §15) sostiene que la propiedad privada de los medios de producción se justifica porque permite al trabajador la conciencia de trabajar «en algo propio», siendo corresponsable y coartífice en el puesto de trabajo.
+
+### Según Evangelization & Culture n.º 2 «Economics» (EAC-2)
+
+El obispo Barron expone las **cuatro razones** por las que la Iglesia, desde León XIII, afirmó el elemento central de la economía de mercado frente al marxismo («la propiedad es un robo») [EAC-2, 15_cst_market_economy]:
+
+1. **Dignidad y libertad de la persona**: la legitimidad de la propiedad se funda en la dignidad y libertad del individuo; dotado de intelecto y voluntad, «la persona humana tiene la prerrogativa de disponer de sí misma, eligiendo su propio camino política, social y económicamente». Negar la propiedad equivale a reducir a la persona a elemento del Estado o del orden económico —precisamente lo que ocurrió en las economías comunistas opresivas del siglo XX—.
+2. **El argumento de John Locke**: con nuestro esfuerzo y trabajo «nos mezclamos con los bienes del mundo y los hacemos propios» (*propre* → property): al mezclar nuestra energía con el mundo, lo hacemos legítimamente nuestro.
+3. **Difusión del poder**: cuando la propiedad se hiperconcentra en pocas manos surgen naturalmente oligarquías y tiranías; difundir la propiedad difunde el poder como baluarte contra la tiranía («cada hombre en su propia casa es rey»). De aquí deriva el [[distributismo]] de Chesterton.
+4. **Incentivos y creación de riqueza**: sin propiedad desaparecen los incentivos para ejercitar el ingenio y la destreza, y «las mismas fuentes de la riqueza se secarían»; el socialismo es una teoría de la distribución de la riqueza, no de su creación.
+
+Junto a esta afirmación, Barron recuerda su límite: siguiendo a santo Tomás, los papas distinguen entre la **propiedad** (derecho legítimo) y el **uso** (moralmente condicionado por el bien común), fundamento de la índole social de la propiedad (GS 71). León XIII cita al Doctor Angélico: «El hombre no debe considerar sus bienes materiales como propios, sino como comunes a todos», y tras cubrir la necesidad y el decoro propio «se hace deber dar a los indigentes de lo que sobra» (RN 22) —no coerción estatal, sino impulso moral que nace de la conciencia—. Y remata con san Ambrosio: si tienes dos camisas en tu armario, «una te pertenece y la otra es del hombre que no tiene camisa». Las preguntas decisivas para quien posee: «¿Por qué Dios me ha permitido tener tal riqueza? ¿Qué quiere que yo haga con ella?» [EAC-2, 15_cst_market_economy].
 
 ## Relaciones doctrinales
 

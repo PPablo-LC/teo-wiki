@@ -15,7 +15,7 @@ tags: ["resumen", "normae_de_gravioribus_delictis", "congregación_para_la_doctr
 - [[congregación_para_la_doctrina_de_la_fe]] — Dicasterio competente para delitos reservados
 - [[normas_sustanciales]] — Delitos tipificados y penas aplicables
 - [[normas_procesales]] — Procedimiento judicial y extrajudicial
-- [[prescripción_acción_penal]] — Plazo de extinción de la acción criminal
+- [[prescripción_de_la_acción_criminal]] — Plazo de extinción de la acción criminal
 
 ## Contenido
 

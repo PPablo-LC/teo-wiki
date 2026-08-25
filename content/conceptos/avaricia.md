@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Avaricia
 tags: ["moral"]
 
-timestamp: 2026-05-22
+timestamp: 2026-08-24
 description: "Vicio capital que consiste en el deseo desordenado de poseer bienes terrenos, acumulándolos sin medida y apegándose a ellos de modo inmoderado."
 ---
 # Avaricia
 
 > Área: Moral
-> Última actualización: 2026-05-22
+> Última actualización: 2026-08-24
 
 ## Definición
 
@@ -52,6 +52,14 @@ Santo Tomás trata la avaricia en la q.118 en ocho artículos, ofreciendo el tra
 **Hijas de la avaricia** (q.118 a.8): Son siete: la dureza de corazón (por retener), la inquietud (por el afecto interior desordenado), y por el efecto exterior en la adquisición: la violencia, y dentro del engaño, la mentira (palabras), el perjurio (con juramento), el fraude (obras sobre cosas) y la traición (obras sobre personas).
 
 [SmTh IIa-IIae, q.118, a.1-8]
+
+### Según Evangelization & Culture n.º 2 «Economics» (EAC-2)
+
+Matt Nelson desarrolla el texto paulino que da título a su ensayo: «La raíz de todos los males es el amor al dinero» (1 Tim 6,10). No condena la riqueza material en sí: «Dios quiere que tengamos abundancia. Pero quiere que todos nuestros deseos —incluido nuestro deseo de riqueza— estén templados por la virtud». Siguiendo a santo Tomás (I-II, q.84, a.1), el amor al dinero o codicia designa «el deseo desordenado de riquezas»; y de todos los bienes temporales, el dinero es el que más poder presta al hombre en el orden material —«todas las cosas obedecen al dinero» (Ecl 10,19)—: las riquezas no solo capacitan al hombre para cualquier pecado, sino que aguzan su apetito hacia él, pues cuando el costo deja de ser preocupación, «el discernimiento de las propias acciones y el ejercicio de la prudencia se convierten también, con demasiada facilidad, en una no-preocupación» [EAC-2, 07_film_root_of_all_evils].
+
+El excesivamente rico es el más fácilmente engañado haciéndose creer omnipotente: vive como si fuera radicalmente autosuficiente y semejante a Dios, «y cae». El remedio es un **deseo ordenado de riqueza**, guiado por tres preguntas: ¿cuánto es suficiente? ¿cuánto puedo poseer antes de que mis adquisiciones arrastren a otros a un estado menor de existencia? ¿qué clase de vida me ha llamado Dios? Pues «a todo aquel a quien se le haya dado mucho, mucho se le exigirá» (Lc 12,48) [EAC-2].
+
+Nelson condensa la lógica íntima del vicio: «Vivir como cristiano rico no es intrínsecamente pecaminoso; vivir sin generosidad sí lo es. Lo opuesto de la generosidad es la codicia, y la codicia nunca puede glorificar a Aquel que es Generosidad Infinita». El amor al dinero ahoga la humildad, la gratitud y la generosidad —virtudes que impiden el *incurvatus in se* agustiniano—; por eso el amor al dinero es raíz de todos los males [EAC-2, 07_film_root_of_all_evils].
 
 ## Distinciones importantes
 

@@ -1,0 +1,40 @@
+---
+type: ResumenFuente
+title: "CAPÍTULO III — «PARA NO DESVIRTUAR LA CRUZ DE CRISTO» (1 Cor 1,17)"
+fuente: Veritatis Splendor - San Juan Pablo II
+capítulo: 8
+timestamp: 2026-08-25
+description: "Resumen del Cap. III (§§84-117): libertad y verdad en Cristo crucificado, fe y moral, martirio, normas universales, renovación social, gracia, nueva evangelización y servicio de los teólogos"
+tags: ["resumen", "veritatis splendor"]
+---
+
+# CAPÍTULO III — «PARA NO DESVIRTUAR LA CRUZ DE CRISTO» (1 Cor 1,17)
+
+## Conceptos básicos referenciados
+
+- [[libertad_cristiana|libertad]] — sólo la sometida a la Verdad conduce al verdadero bien
+- [[martirio]] — confirmación de la inviolabilidad del orden moral
+- [[fe_católica|fe y moral]] — contra su separación; la fe como verdad que se hace vida
+- [[gracia|gracia y obediencia]] — los mandamientos nunca son imposibles con la ayuda divina
+- [[nueva_evangelización]] — comporta anuncio y propuesta moral
+- [[magisterio]] — responsabilidades de pastores y teólogos moralistas
+
+## Contenido
+
+**«Para ser libres nos libertó Cristo» (§§84-87).** La cuestión fundamental es la relación libertad-verdad: sólo la libertad sometida a la Verdad conduce al verdadero bien. La cultura contemporánea ha perdido este vínculo (pregunta de Pilato); urge una intensa acción pastoral. El secreto formativo de la Iglesia es *tener la mirada fija en el Señor Jesús*: en Jesús crucificado encuentra la respuesta sobre cómo la obediencia a las normas universales respeta la unicidad de la persona y no atenta contra su libertad. La libertad humana es real pero contingente, donada, criatural; inclinada misteriosamente a traicionar la apertura a la Verdad y el Bien («Seréis como dioses», Gn 3,5): necesita ser liberada. Cristo libertador manifiesta que el reconocimiento abierto de la verdad es condición de la libertad auténtica (Jn 8,32; 18,37) y que la libertad se realiza en el amor, don de uno mismo hasta la cruz. Contemplación del Crucificado como vía maestra para comprender la libertad como servicio a Dios y a los hermanos («En la casa del Señor libre es la esclavitud... porque eres amado», Agustín). Su carne crucificada es plena revelación del vínculo indisoluble entre libertad y verdad.
+
+**Caminar en la luz (§§88-89).** La separación radical entre libertad y verdad es consecuencia de otra más grave: **entre fe y moral**, preocupación pastoral aguda ante el secularismo. Urge descubrir la novedad y fuerza de juicio de la fe: no conjunto de proposiciones sino conocimiento vivido de Cristo, verdad que se hace vida. La fe tiene contenido moral: suscita compromiso coherente, acogida y observancia de los mandamientos (1 Jn 2,3-6). La vida moral es confesión y testimonio hasta el don total de sí, incluso el martirio.
+
+**El martirio (§§90-94).** El respeto incondicionado a las exigencias de la dignidad personal resplandece en el martirio cristiano. Testimonios bíblicos: Susana (Dn 13), Juan Bautista (mártir de la verdad y la justicia), Esteban, Santiago, innumerables mártires ante la estatua imperial. La Iglesia canoniza el testimonio de santos y santas que prefirieron morir antes que cometer un solo pecado mortal. En el martirio resplandecen la santidad de la ley de Dios y la intangibilidad de la dignidad personal: demuestra ilusorio todo significado humano atribuido a un acto moralmente malo, aunque sea en condiciones excepcionales; es signo preclaro de la santidad de la Iglesia frente a la crisis más peligrosa: la *confusión del bien y del mal*. Los cristianos encuentran confirmación en el sentido moral de los pueblos y las grandes tradiciones (semilla del Verbo).
+
+**Normas universales al servicio de la persona (§§95-97).** La firmeza de la Iglesia no es intransigencia sin maternidad: la verdadera comprensión y compasión significan amor a la persona y a su verdadero bien, sin esconder ni debilitar la verdad moral («intransigente con el mal, misericordioso hacia las personas», Pablo VI). La defensa categórica de las exigencias irrenunciables de la dignidad es camino y condición de la libertad, dirigida a cada hombre y a todos: ante las normas que prohíben el mal intrínseco no hay privilegios ni excepciones. Los mandamientos de la segunda tabla son reglas primordiales de toda vida social.
+
+**Renovación social y política (§§98-101).** Ante injusticias y corrupciones crece la exigencia de renovación personal y social; en el centro de la cuestión cultural está el sentido moral, fundamentado en el sentido religioso. Sólo Dios es base de la moralidad: el totalitarismo nace de la negación de la verdad objetiva y de la dignidad trascendente de la persona. La doctrina social pertenece a la teología moral; el Catecismo enumera virtudes (templanza, justicia, solidaridad) y actos contrarios a la dignidad (fraudes, salarios injustos, especulación, esclavitud económica). En política: veracidad, transparencia, imparcialidad, respeto a los adversarios, uso honesto del dinero público; tras las ideologías totalitarias existe hoy el riesgo de la **alianza entre democracia y relativismo ético**: «una democracia sin valores se convierte con facilidad en un totalitarismo visible o encubierto».
+
+**Gracia y obediencia (§§102-105).** Incluso en situaciones difíciles debe observarse la norma moral: jamás es imposible observar la ley de Dios (Trento: Dios no manda cosas imposibles, sino que al mandar invita a hacer lo que puedas y pedir lo que no puedas). Las posibilidades «concretas» del hombre están sólo en el misterio de la Redención: Cristo nos ha redimido dándonos la posibilidad de realizar toda la verdad de nuestro ser. Se abre así el justo espacio a la misericordia y comprensión por la debilidad humana, sin comprometer la medida del bien y del mal; parábola del fariseo y el publicano: conciencia penitente frente a conciencia satisfecha de sí misma. Aceptar la desproporción entre ley y capacidades propias suscita el deseo de la gracia (Rm 7,24-25).
+
+**Moral y nueva evangelización (§§106-108).** Desafío de la nueva evangelización («nueva en su ardor, métodos y expresión») frente a la descristianización que comporta decadencia u oscurecimiento del sentido moral. La evangelización comporta también anuncio y propuesta moral; manifiesta su fuerza mediante la palabra vivida: la vida de santidad constituye el camino más simple y fascinante para percibir la belleza de la verdad. María, llena de gracia y toda santa, modelo de vida según mandamientos y bienaventuranzas. En la raíz está el Espíritu de Cristo, principio y fuerza de toda evangelización.
+
+**Servicio de los teólogos moralistas (§§109-113).** Vocación del teólogo en la Iglesia (*Donum veritatis*): búsqueda creyente de la comprensión de la fe en comunión con el Magisterio; la teología es ciencia eclesial. La teología moral, reflexión científica sobre el Evangelio como don y mandamiento, no puede reducirse a las ciencias humanas: éstas estudian el fenómeno moral, aquélla mira a la dimensión espiritual del corazón y su vocación al amor divino. Los principios morales no dependen del momento histórico; la «normalidad» empírica lleva las huellas de la caída. El disenso por contestaciones calculadas es contrario a la comunión eclesial y a la recta comprensión de la constitución jerárquica del pueblo de Dios.
+
+**Responsabilidades como pastores (§§114-117).** Deber de los obispos: enseñar la doctrina moral (munus propheticum), dispensar la gracia (munus sacerdotale), vigilar pastoralmente (munus regale). Por primera vez el Magisterio expone con amplitud los elementos fundamentales de esta doctrina; gravedad de lo que está en juego en la reafirmación de la universalidad e inmutabilidad de los mandamientos y de la prohibición de los actos intrínsecamente malos. Vigilancia personal sobre la «sana doctrina» y responsabilidad sobre las instituciones católicas (escuelas, universidades, clínicas). Cuando los hombres presentan a la Iglesia los interrogantes de su conciencia, *en su respuesta está la voz de Jesucristo, la voz de la verdad sobre el bien y el mal*.

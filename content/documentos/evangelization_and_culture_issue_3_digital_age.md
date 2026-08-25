@@ -17,7 +17,7 @@ tags:
 > **Tema:** The Digital Age
 > **Fecha:** Spring 2020
 > **Fuente:** `raw/Bases_doctrinales-raw/Evangelization and culture - 3/`
-> **Código fuente:** WoF-3
+> **Código fuente:** EAC-3
 > **Archivos:** 23
 
 ## Resumen temático

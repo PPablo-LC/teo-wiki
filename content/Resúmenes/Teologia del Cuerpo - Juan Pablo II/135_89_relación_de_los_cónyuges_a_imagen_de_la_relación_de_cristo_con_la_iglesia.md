@@ -17,7 +17,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[sumisión_recíproca]] — «sujetos los unos a los otros»
 - [[amor_conyugal]] — el amor como expresión de la pietas
 - [[constro_vin_divino]] — el contrato no como dominio
-- [[cristo_cabeza_de_la_iglesia]] — la relación de Cristo con la Iglesia
+- [[cabeza_de_la_iglesia]] — la relación de Cristo con la Iglesia
 - [[salvación_de_su_cuerpo]] — el Salvador del cuerpo
 - [[gran_analogía]] — la gran analogía en el ch. 5 (vv. 22-33)
 - ∗[[comportamiento_objeto_de explicación]] — el comportamiento conyugal

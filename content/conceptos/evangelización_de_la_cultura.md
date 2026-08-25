@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Evangelización de la cultura
 tags: ["evangelización", "cultura"]
 
-timestamp: 2026-06-20
+timestamp: 2026-08-24
 description: "La evangelización de la cultura es el esfuerzo lúcido, serio y ordenado por llevar el Evangelio al corazón de las culturas."
 ---
 # Evangelización de la cultura
 
 > Área: Evangelización / Cultura
-> Última actualización: 2026-06-20
+> Última actualización: 2026-08-24
 
 ## Definición
 
@@ -45,6 +45,14 @@ Los ámbitos privilegiados de la evangelización de la cultura son: los centros 
 
 **Testimonios de conversión.** Las catedrales europeas «fueron construidas con la intención específica de ser casas de Dios»: Mendenhall encuentra allí «una quietud que no podía nombrar ni entender»; Word on Fire instrumental en su conversión; bendición de pertenecer a una Iglesia que resiste: «importante que una Iglesia sea un centro inmóvil mientras el mundo se agita caóticamente a su alrededor». Véase también [[santa_brígida_de_kildare]] evangelizando al caudillo moribundo.
 
+### Según Evangelization & Culture n.º 1 «Creativity» (EAC-1)
+
+**El propósito fundacional de Word on Fire (Barron).** La revista del Word on Fire Institute nace con un propósito explícito: «no primariamente académico, artístico o pastoral; el propósito de nuestra revista sería **evangelizar la cultura** —y más aún, formar a otros para que se conviertan ellos mismos en evangelizadores de la cultura—». Barron recoge la consigna del cardenal George: «evangelizar a las personas, pero también, como decía siempre el cardenal George, evangelizar la cultura». Los tres destinatarios privilegiados: los miembros del Instituto, los escépticos buscadores y los fieles no catequizados.
+
+**Cómo entender una cultura para evangelizarla (Nelson).** Siguiendo a Ratzinger, la cultura es «un intento de comprender el mundo y la existencia del hombre en el mundo»; por eso «haríamos bien en comenzar la evangelización de la cultura con esta pregunta: ¿cómo se entiende a sí misma la cultura —o subcultura—?». Es lo que hicieron los monjes fundadores de *Death to the World*: comprendieron que el núcleo de la subcultura punk es la actitud de rebelión y la «bautizaron», ofreciendo al mundo punk «la última verdadera rebelión»: un acto de genio evangélico, modo creativo de hacerse «todo para todos» (1 Cor 9,22).
+
+**Formar una generación de evangelizadores cultos (Barron).** «Mi mayor esperanza para *Evangelization & Culture* es que ayude a formar una generación de evangelizadores católicos inteligentes y artísticamente conectados. Todos los papas vienen llamando a esto desde el Vaticano II, pero creo que todavía no estamos allí».
+
 ## Distinciones importantes
 
 - Evangelización de la cultura vs. inculturación: la evangelización de la cultura es el proceso; la inculturación es el método teológico-pastoral mediante el cual el Evangelio se encarna en una cultura sin perder su identidad.
@@ -64,3 +72,4 @@ Se conecta con [[inculturación]] (método para evangelizar la cultura), [[nueva
 ## Referencias
 
 - EA §16, 21, 70-72
+- [EAC-1, Issue 1 «Creativity»: archivos 01, 03, 23]

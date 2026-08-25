@@ -18,7 +18,7 @@ tags: ["resumen", "normae_de_gravioribus_delictis", "delicta_graviora", "derecho
 - [[sacramento_penitencia]] — Delitos contra la santidad del sacramento de la Reconciliación
 - [[ordenación_sagrada]] — Atentada ordenación de una mujer
 - [[delitos_contra_la_moral]] — Delitos cometidos por clérigos con menores
-- [[prescripción_acción_penal]] — Extinción de la acción criminal por trascurso del tiempo
+- [[prescripción_de_la_acción_criminal]] — Extinción de la acción criminal por trascurso del tiempo
 
 ## Contenido
 

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Amor propio
 tags: ["ascética_—_moral"]
 
-timestamp: 2026-05-22
+timestamp: 2026-08-24
 description: "El amor propio desordenado es la inclinación viciosa del hombre a buscarse a sí mismo en todo, constituyendo al propio yo en centro de gravedad alrededor del cual han de girar todas las cosas."
 ---
 # Amor propio
 
 > Área: Ascética — Moral
-> Última actualización: 2026-05-22
+> Última actualización: 2026-08-24
 
 ## Definición
 
@@ -35,6 +35,10 @@ Las purificaciones pasivas son necesarias para vencer completamente el egoísmo 
 
 [TPCr, Parte III, Libro I, Cap. 5-6; n.241]
 
+### Según Evangelization & Culture n.º 3 «The Digital Age» (EAC-3)
+
+James K. Lee aplica el diagnóstico agustiniano del amor propio a la era digital. La enseñanza central sigue siendo la homilía al rebaño de Hipona: «¿Quieres amarte a ti mismo? Ama a Dios con todo tu ser: allí, verás, te encontrarás a ti mismo; o de lo contrario, en ti mismo podrías perderte». El pecado es amor desordenado y «en su raíz equivale a un amor inordinado de sí por encima de Dios»: amar los dones más que al Dador —«el Dador es más precioso que el don» (CEC §2604)—. Amar-se «en ti mismo» es una forma de autodestrucción: «amar-se a uno mismo más que a Dios es una especie de odio a sí mismo, porque el resultado es la autodestrucción». Las plataformas digitales iluminan esta patología: junto a sus usos buenos, incitan ansiedad, envidia, soledad y vanagloria mediante perfiles falsos o superficiales que fomentan un insano autocontemplamiento (*navel-gazing*); el anhelo de amar y ser amado queda insatisfecho en la interacción online. El remedio agustiniano es triple: orar tanto o más tiempo del que se dedica a las redes sociales (la oración ensancha el corazón hasta hacerlo capaz de poseer a Dios); ser social y comunitario de manera concreta (inscribirse en la parroquia, servir a los vecinos, usar las redes para organizar encuentros y no para publicar frivolidades); y participar frecuentemente de la vida sacramental, pues como en la parábola del buen samaritano el aceite y el vino son los sacramentos que curan las heridas de la humanidad caída, y la posada donde se prosigue la curación es la Iglesia.
+
 ## Distinciones importantes
 
 - **Amor propio desordenado vs. amor propio santo**: el primero se busca a sí mismo contra Dios; el segundo, ordenado, es la base de la legítima autoestima
@@ -58,3 +62,4 @@ El amor propio se opone a la [[humildad]] y a la [[caridad]]. Es fuente de la [[
 - [CEC §1045]
 - [TPCr, Parte III, Libro I, Cap. 5-6; n.241, n.1424-1428]
 - [San Agustín, De Civitate Dei XIV, 28]
+- [EAC-3, Issue 3 «The Digital Age», archivo 17 (Lee); San Agustín, Sermones 179A y 272]

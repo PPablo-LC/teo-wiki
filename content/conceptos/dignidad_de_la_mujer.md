@@ -71,6 +71,12 @@ El cristianismo contribuyó directamente a devolver a la mujer toda su dignidad 
 
 En las notas se vincula la doctrina del matrimonio como sacramento con la dignidad de la mujer, destacando a la esposa como «roca» y sostén de la familia (john_wissler_leading_with_charity). Las conferencias de Auténtica afirman la identidad femenina como hija amada de Dios, creada para la comunión, en plena sintonía con la antropología teológica de igual dignidad y diversidad complementaria de varón y mujer.
 
+### Según Mons. Tihámer Tóth (JvC-Rel)
+
+Tóth aporta dos registros. En clave histórica, muestra que la Iglesia «siempre ha estado a favor de la emancipación de la mujer»: Benedicto XIV nombró mujeres para las facultades de Matemáticas y Física de Bolonia «en la época en que Rousseau y Kant no proferían más que palabras sarcásticas respecto de la capacidad intelectual de la mujer»; Angela Merici fundó las Ursulinas para responder a las exigencias culturales de la mujer; y hay que remarcar «la labor caritativa, silenciosa y heroica de la mujer en estos dos milenios» [JvC-Rel, archivo 15]. Frente a Lutero —que redujo la vocación de la mujer al matrimonio y desdeñó la virginidad—, la Iglesia honra tanto el matrimonio como la virginidad consagrada femenina [archivo 15].
+
+En clave educativa, cita a Aparecida: la antropología cristiana resalta «la igual dignidad entre varón y mujer… El misterio de la Trinidad nos invita a vivir una comunidad de iguales en la diferencia»; la práctica de Jesús fue decisiva en una época de machismo; María, discípula por excelencia, es fundamental en la recuperación de la identidad de la mujer. La relación entre varón y mujer es de reciprocidad: «la mujer es corresponsable, junto con el hombre, por el presente y el futuro de nuestra sociedad humana»; su maternidad es misión excelente sin oponerse a su desarrollo profesional, pues «la mujer es insustituible en el hogar, la educación de los hijos y la transmisión de la fe» [archivo 40]. En el desafío educativo del amor, la exhortación de Tóth a los muchachos es programática: «Toda mujer ha de ser santa para ti… Ultrajas a la mujer cuando te acercas a cualquiera de ellas con intenciones aviesas» (véase [[educación_a_la_castidad]]) [archivo 12].
+
 ## Distinciones importantes
 
 - La igualdad en dignidad no implica identidad de funciones: la complementariedad es constitutiva de la persona humana.

@@ -39,6 +39,12 @@ La vocación cristiana es una llamada universal a la santidad, que es la perfecc
 
 Las notas de las conferencias de «Auténtica» desarrollan la relación entre la libertad del discípulo y la gracia, afirmando la importancia de la respuesta libre ante la iniciativa divina. Se destaca la «unión de voluntades» como el núcleo del seguimiento: el discípulo quiere lo que Dios quiere, no al revés.
 
+### Según Mons. Tihámer Tóth (JvC-Rel)
+
+Tóth recoge el lenguaje de Aparecida sobre los «discípulos y misioneros de Jesucristo»: «conocer a Jesucristo por la fe es nuestro gozo; seguirlo es una gracia, y transmitir este tesoro a los demás es un encargo que el Señor nos ha confiado». La alegría del discípulo «no es un sentimiento de bienestar egoísta sino una certeza que brota de la fe»; y la vida se alcanza dándola: «los que más disfrutan de la vida son los que dejan la seguridad de la orilla y se apasionan en la misión de comunicar vida a los demás» [JvC-Rel, archivo 31]. Los rasgos del discípulo que apunta la iniciación cristiana son plenamente tótistas: «que tenga como centro la persona de Jesucristo… espíritu de oración, sea amante de la Palabra, practique la confesión frecuente y participe de la Eucaristía; que se inserte cordialmente en la comunidad eclesial, sea solidario en el amor y fervoroso misionero» [archivo 32].
+
+En clave juvenil: los adolescentes «buscan una experiencia de amistad con Jesús»; los jóvenes «son sensibles a descubrir su vocación a ser amigos y discípulos de Cristo… No temen el sacrificio ni la entrega de la propia vida, pero sí una vida sin sentido» [archivo 33]. Tóth mismo hace del encuentro personal con Cristo la meta del catequista: «que cada joven tenga un encuentro con Jesús es la meta que se debe proponer todo catequista», pues Cristo no es «una doctrina» sino Alguien vivo, amigo ideal del joven (véase [[jesucristo]]) [archivo 10].
+
 ## Distinciones importantes
 
 - Todo cristiano es discípulo de Cristo, llamado a la perfección de la caridad.

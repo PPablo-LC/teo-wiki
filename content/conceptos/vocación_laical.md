@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Vocación laical
 tags: ["eclesiología", "espiritualidad"]
 
-timestamp: 2026-05-31
+timestamp: 2026-08-24
 description: "La vocación laical es la llamada divina que reciben los fieles laicos a vivir su compromiso bautismal en medio de las realidades temporales, santificándose y santificando el mundo desde dentro."
 ---
 # Vocación laical
 
 > Área: Eclesiología / Espiritualidad
-> Última actualización: 2026-05-31
+> Última actualización: 2026-08-24
 
 ## Definición
 
@@ -28,6 +28,10 @@ El Concilio Vaticano II, en *Lumen Gentium* (caps. IV-V) y *Apostolicam Actuosit
 ### Según los Estatutos de la Federación Regnum Christi (FRC-2019)
 
 El Reglamento de los Fieles Asociados (RFA 1) describe a los miembros laicos del Regnum Christi como fieles que, sin asumir los consejos evangélicos con vínculo sagrado, acogen personalmente una vocación divina a vivir su compromiso bautismal en medio de las realidades temporales según el carisma del Regnum Christi. Su lema es «Cristo Rey Nuestro: ¡Venga tu Reino!» (RFA 9). Viven su vocación en cinco ámbitos: vida espiritual, formación, apostolado, acompañamiento personal y vida de equipo.
+
+### Según Juan Pablo II (VocExp)
+
+En *La vocación explicada*, la entrega total en medio del mundo (§3a) describe la vocación laical como santificación de la vida permaneciendo en el mundo, «en el propio puesto de trabajo y de profesión: vivir el Evangelio en el mundo, viviendo verdaderamente inmersos en el mundo, pero para transformarlo y redimirlo con el propio amor de Cristo». Su mensaje y espiritualidad: «vivir unidos a Dios en medio del mundo, en cualquier situación, cada uno luchando por ser mejor con la ayuda de la gracia, y dando a conocer a Jesucristo con el testimonio de la propia vida». Cada laico es una obra extraordinaria de la gracia llamada a las más altas cimas de santidad; su misión específica es «meter el Evangelio en la realidad del mundo en que viven» como levadura [VocExp].
 
 ## Distinciones importantes
 

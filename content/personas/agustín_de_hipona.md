@@ -29,9 +29,9 @@ El *Indiculus* de Celestino I (D-129-141) recoge sentencias de los Papas anterio
 
 El Denzinger recoge la recomendación de Celestino I sobre Agustín (D-128) y la referencia de Hormisdas (D-173a) a sus escritos sobre la gracia. La autoridad de Agustín fue invocada en la controversia pelagiana y semipelagiana como norma de fe católica.
 
-### Según Evangelization & Culture (WoF-3)
+### Según Evangelization ### Según Evangelization & Culture (EAC-3) Culture n.º 3 «The Digital Age» (EAC-3)
 
-James K. Lee, en su artículo sobre San Agustín y la era digital, destaca la enseñanza augustina sobre el amor propio: «¿Quieres amarte a ti mismo? Ama a Dios con todo tu ser: allí encontrarás tu ser, o en ti mismo te perderás». Para Agustín, el pecado es amor desordenado; amar a uno mismo más que a Dios es amarse mal, es decir, autodestruirse. El remedio es la caridad —amar a Dios y al prójimo— y la participación en los sacramentos, especialmente la Eucaristía, donde recibimos nuestra identidad como miembros del Cuerpo de Cristo [WoF-3, 17_lee_self_love].
+James K. Lee, en su artículo sobre San Agustín y la era digital, destaca la enseñanza augustina sobre el amor propio: «¿Quieres amarte a ti mismo? Ama a Dios con todo tu ser: allí encontrarás tu ser, o en ti mismo te perderás». Para Agustín, el pecado es amor desordenado; amar a uno mismo más que a Dios es amarse mal, es decir, autodestruirse. El remedio es la caridad —amar a Dios y al prójimo— y la participación en los sacramentos, especialmente la Eucaristía, donde recibimos nuestra identidad como miembros del Cuerpo de Cristo [EAC-3, 17_lee_self_love].
 
 ### Según la conferencia «La catedral interior del sacerdote» (CIS)
 
@@ -54,5 +54,5 @@ Mons. Munilla cita a San Agustín en dos momentos clave de la conferencia. Al ha
 ## Referencias
 
 - Denzinger D-128, D-129-141, D-173a (Enchiridion Symbolorum)
-- [WoF-3, 17_lee_self_love.md] (James K. Lee: San Agustín y el amor propio en la era digital)
+- [EAC-3, 17_lee_self_love.md] (James K. Lee: San Agustín y el amor propio en la era digital)
 - [CIS, «La catedral interior del sacerdote», 2026]

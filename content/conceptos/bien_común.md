@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Bien común
 tags: ["moral", "eclesiología"]
 
-timestamp: 2026-08-07
+timestamp: 2026-08-24
 description: "El bien común es «el conjunto de aquellas condiciones de la vida social que permiten a los grupos y a cada uno de sus miembros conseguir más plena y fácilmente su propia perfección» (CEC §1906.)"
 ---
 # Bien común
 
 > Área: Moral / Eclesiología
-> Última actualización: 2026-08-07
+> Última actualización: 2026-08-24
 
 ## Definición
 
@@ -72,6 +72,14 @@ En su ámbito específico, el Estado tiene una misión propia como poder de orde
 La autoridad pública puede, a veces, renunciar a reprimir aquello que, de estar prohibido, provocaría un daño más grave (cfr. S.Th., I-II, q. 96, a. 2), pero nunca puede aceptar legitimar la ofensa infligida a otras personas mediante la negación de un derecho suyo; toda disposición de los poderes públicos que no reconozca los derechos humanos o los viole, se opone a su misma razón de ser y carece de valor jurídico. (Ele_Xto_Stos, Cap. IX, §1c)
 
 La obligatoriedad de la ley civil presenta una gradualidad que depende de la mayor o menor conexión de cada ley con el bien común, y es efecto de la responsabilidad humana en relación con la realidad social, por lo que se refiere tanto a la relación con la autoridad como a la realidad y a los fines sociales de que se trate en cada caso concreto. (Ele_Xto_Stos, Cap. IX, §1d)
+
+### Según Evangelization & Culture n.º 2 «Economics» (EAC-2)
+
+El obispo Barron sitúa la economía bajo la égida del bien común: «la economía —el tema elegido de este segundo número de *Evangelization & Culture*— es vista por la Iglesia como crucial para el mantenimiento del bien común. Mantener la salud y viabilidad de nuestro sistema económico es una cuestión ética apremiante» [EAC-2, 01_from_the_desk]. El segundo principio del marco económico de los obispos estadounidenses exige que las elecciones e instituciones económicas se juzguen por cómo protegen o socavan la vida y dignidad de la persona, sostienen a la familia y sirven al bien común. El fundamento magisterial es la *Centesimus Annus*: «El lucro es un regulador de la vida de una empresa. Pero no es el único; deben considerarse también otros factores humanos y morales» (CA 35); el bien común «concierne a la vida de todos» (CEC §1907) y existe «para él la sociedad civil» (RN 51). Cuando la empresa se ve como autónoma e incluso absoluta, «la libertad económica acaba alienando y oprimiendo a la persona humana» (CA 39) [EAC-2, 13_framework_economic_life, Principio 2; 15_cst_market_economy].
+
+En cuanto al uso de la propiedad privada, «el bien común —no mi propio bien— debe estar siempre presente en mi mente». Siguiendo a santo Tomás, León XIII enseñó: «El hombre no debe considerar sus bienes materiales como propios, sino como comunes a todos», de modo que, cubiertas las necesidades propias, «se hace deber dar a los indigentes de lo que sobra» (RN 22) [EAC-2, 15_cst_market_economy].
+
+Barron añade la condición cultural: los sistemas económicos y políticos deben inscribirse en valores morales firmes, absolutos e inmutables —no sometidos a los vaivenes del mercado ni de la opinión—. Por eso «la dictadura del relativismo es enemiga de la política y de la economía»: es en la Misa y los sacramentos donde se aprenden los valores que deben circunscribir un mercado que funcione rectamente, y donde la familia se rompe, se rompe también la sociedad —incluida su vida económica— [EAC-2, 15_cst_market_economy].
 
 ## Analizado para
 

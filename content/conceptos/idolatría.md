@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Idolatría
 tags: ["moral"]
 
-timestamp: 2026-08-22
+timestamp: 2026-08-24
 description: "Pecado contra el primer mandamiento del Decálogo que consiste en tributar a una criatura —ídolo, persona, poder, riqueza o cualquier realidad creada— la adoración debida solo a Dios."
 ---
 # Idolatría
 
 > Área: Moral
-> Última actualización: 2026-08-22
+> Última actualización: 2026-08-24
 
 ## Definición
 
@@ -48,6 +48,10 @@ Santo Tomás distingue tres tipos históricos de idolatría: la teología mític
 
 La sátira profética como arma contra la idolatría: Dios mismo se burla del leñador que quema medio tronco para calentarse y del resto hace un dios al que postra (Is 44,15-19); Elías mofa a los profetas de Baal (1 Re 18,26-27). La sátira cristiana hereda este oficio: «burlar implacablemente los ídolos y torres de Babel señalando a Alguien infinitamente mejor» (Berry). Kyle Mann extiende el diagnóstico a la modernidad: el progresismo social funciona como religión idolátrica — con sacerdotes (científicos militantes), dogma, indulgencias (offsets de carbono) y escatología — y su rasgo revelador: «lo que el ciego religioso no puede hacer es tomar un chiste». La incapacidad de ser burlada delata al ídolo.
 
+### Según Evangelization & Culture n.º 3 «The Digital Age» (EAC-3)
+
+Kathryn Jean Lopez ofrece una confesión de «recuperada adicta a las noticias» que ilustra la forma contemporánea de esta idolatría: siendo editora de la web de National Review, perdió la Misa dominical del día en que Saddam Hussein fue capturado —la única vez en su vida fuera de enfermedad grave—. «Nunca me propuse hacer del trabajo una religión, y sin embargo ahí estaba… Por la manera en que vivía mi vida, había hecho un ídolo de mi trabajo. Me había tomado como una especie de salvadora». La idolatría no requiere apostasía declarada: se instala mediante pequeños hábitos que desplazan a Cristo del centro mientras la conciencia duerme. Su variante política corre el riesgo de convertirse en adicción colectiva: «muchos de nosotros somos adictos a la política nacional como el mejor reality show jamás emitido». El remedio es práctico y litúrgico: Lopez sustituyó el liveblogging de los comicios por la Liturgia de las Horas, y recuperó la prioridad absoluta de la Misa; el ídolo de las noticias solo cae cuando se le retira el sacrificio que le estaba tributando.
+
 ## Relaciones doctrinales
 
 La idolatría se opone a la [[adoración]] debida a Dios, viola el [[primer_mandamiento]] y vicia la virtud de la [[religión]]. Se distingue de la [[superstición]] (que da culto al verdadero Dios de modo indebido) y de la [[herejía]] (error intelectual sobre la fe).
@@ -65,3 +69,4 @@ La idolatría se opone a la [[adoración]] debida a Dios, viola el [[primer_mand
 - CEC §2112-2114, §2130
 - TPCr, tratado de la virtud de la religión
 - [EAC-8, Issue 8 «Humor», archivos 13, 18]
+- [EAC-3, Issue 3 «The Digital Age», archivo 14 (Lopez)]

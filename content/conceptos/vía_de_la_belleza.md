@@ -2,7 +2,7 @@
 type: Concepto Teológico
 title: Vía de la belleza
 description: "Camino de acceso a Dios a través de la contemplación de la belleza, especialmente de la belleza artística, como expresión de la verdad divina."
-timestamp: 2026-08-20
+timestamp: 2026-08-24
 tags:
   - belleza
   - arte
@@ -13,7 +13,7 @@ tags:
 # Vía de la belleza
 
 > Área: Filosofía / Estética / Evangelización
-> Última actualización: 2026-08-20
+> Última actualización: 2026-08-24
 
 ## Definición
 
@@ -59,6 +59,14 @@ En el número anterior, la *via pulchritudinis* ya aparecía como principio evan
 
 - **Gaudium et Spes 62:** El Concilio Vaticano II reconoce que las artes auténticas «están en íntima relación con la fe» y contribuyen a «la gloria de Dios y a la elevación del espíritu humano».
 
+### Según Evangelization & Culture n.º 1 «Creativity» (EAC-1)
+
+**La estrategia evangelizadora de Barron.** El número inaugural de la revista articula la vía en su fórmula más citada: «La mejor estrategia evangelizadora es aquella que va de lo bello a lo bueno y finalmente a lo verdadero» (Barron, citado por Ghezzi). Worner la traduce en programa editorial: «sumergir a sus lectores en lo bello, señalando siempre de regreso hacia lo bueno y, en último término, hacia lo verdadero», como parte de la formación de la vida interior, intelectual y estética.
+
+**Fra Angelico, caso ejemplar.** La vida del beato dominico ilustra la vía completa: con «obras magníficas que representaban escenas evangélicas» atraía a las personas al Señor (lo bello), las exhortaba a vivir como discípulos fieles (lo bueno) y les comunicaba así la Buena Nueva (lo verdadero). Véase [[fra_angelico]].
+
+**La belleza tiene poder evangélico.** Barron: «Gran música, arquitectura, pinturas, poesía e historias dan gloria a Dios y pueden llevarnos a una apreciación más profunda de la verdad de lo que jamás podría un tratado filosófico». La sensibilidad católica cree «en liderar con la belleza, involucrar la cultura y defender una fe católica intelectualmente robusta y místicamente rica».
+
 ## Distinciones importantes
 
 - **Vía de la belleza vs. esteticismo:** No se trata de buscar la belleza como fin en sí mismo, sino como camino hacia Dios. La belleza no es autónoma, sino que remite al Creador.
@@ -90,3 +98,4 @@ En el número anterior, la *via pulchritudinis* ya aparecía como principio evan
 - Balthasar, Hans Urs von. *The Glory of the Lord: A Theological Aesthetics*. Ignatius Press, 1982.
 - Tomás de Aquino. *Summa Theologiae* I, q. 39, a. 8; I-II, q. 27, a. 1-3.
 - Agustín de Hipona. *Confesiones* X, 27.38.
+- [EAC-1, Issue 1 «Creativity»: archivos 01, 04, 05]

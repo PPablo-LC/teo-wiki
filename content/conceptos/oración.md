@@ -126,6 +126,12 @@ Nesteros también enseña en la Conferencia XV que los carismas divinos —inclu
 
 **Lacy** define la oración como conversation with the Divine is «an act of love in its purest form»: la oración es el acto de amor más puro porque en ella el alma se dirige a Dios sin intermediarios, sin cálculos, simplemente como amante que busca al Amado.
 
+### Según Mons. Tihámer Tóth (JvC-Rel)
+
+Tóth llama a la oración «la respiración del alma» y enseña que «rezar bien es un arte… y como todo arte tiene su método» [JvC-Rel, archivo 10]. Cita a Santo Tomás: «la oración es propiamente el acto de religión» (IIª IIae q.81). El catequista «nada conseguirá mientras no enseñe a sus discípulos a rezar bien», pues muchos jóvenes salen del colegio sabiendo las oraciones de memoria «pero no saben rezar, ni menos orar»: «la oración es realmente la conversación del alma con Dios, y no la recitación mecánica de ciertas fórmulas» [archivo 10].
+
+Su método progresivo va de la oración vocal bien hecha —recitada despacio, con recogimiento, postura y orden— a la oración personal: «es de importancia decisiva acostumbrar a los jóvenes a la oración personal. En la oración el alma aprende a conocer y amar a Cristo»; usa la analogía del músico: al principio se reza leyendo un libro de meditación; más adelante «se componen oraciones nuevas, utilizando palabras y sentimientos propios» [archivo 10]. Da reglas prácticas: recojerse antes de rezar, rezar despacio («mejor es rezar poco, atendiendo a lo que se dice, que rezar mucho sin atención»), preguntarse «¿por qué rezo?», y saborear la presencia de Dios durante el día [archivo 10]. Insiste en la meditación diaria y en el examen de conciencia nocturno como medios de progreso [archivo 10], y motiva humanamente la oración: «no simplemente repitamos que la oración es un mandato divino; mostremos cómo es la actividad más noble del alma humana» [archivo 10].
+
 ## Distinciones importantes
 
 - Oración en sentido amplio: cualquier movimiento del alma hacia Dios por cualquier virtud infusa.
@@ -167,11 +173,11 @@ Las Constituciones identifican la **meditación** como oración primaria y prior
 
 El *Salterio de mis Días* (manual de oración del Regnum Christi) describe la oración como **diálogo personal con Cristo**: no recitación mecánica, sino conversación amistosa con quien se sabe que nos ama. El *desapego* es señal de oración auténtica: desprenderse de las criaturas para adherirse a Dios. La oración aprende a amar más a Dios que las consolaciones sensibles.
 
-### Según Evangelization & Culture (WoF-3)
+### Según Evangelization ### Según Evangelization & Culture (EAC-3) Culture n.º 3 «The Digital Age» (EAC-3)
 
-La evangelización digital exige una vida interior sólida. «El mayor peligro para los evangelizadores online es el cinismo» —los que se desaniman ante la falta de respuestas o los ataques de los críticos. La solución es desarrollar una «profunda vida de oración afectiva que anude constantemente la voluntad a la de Cristo» y mantenerse ligado a la identidad de «hijo amado de Dios», de modo que la resistencia no desvíe de la misión [WoF-3, 15_vogt_media_evangelist].
+La evangelización digital exige una vida interior sólida. «El mayor peligro para los evangelizadores online es el cinismo» —los que se desaniman ante la falta de respuestas o los ataques de los críticos. La solución es desarrollar una «profunda vida de oración afectiva que anude constantemente la voluntad a la de Cristo» y mantenerse ligado a la identidad de «hijo amado de Dios», de modo que la resistencia no desvíe de la misión [EAC-3, 15_vogt_media_evangelist].
 
-James K. Lee propone tres sugerencias augustinas para la era digital: (1) orar tanto o más de lo que se pasa en redes sociales; (2) ser social y comunitario de manera concreta; (3) participar frecuentemente en la vida sacramental [WoF-3, 17_lee_self_love]. Oliver Jeges, en su testimonio de conversión, destaca que la oración —aunque sea infantil— es buena para el alma y que las respuestas llegan de maneras inesperadas [WoF-3, 19_mission_oliver_jeges].
+James K. Lee propone tres sugerencias augustinas para la era digital: (1) orar tanto o más de lo que se pasa en redes sociales; (2) ser social y comunitario de manera concreta; (3) participar frecuentemente en la vida sacramental [EAC-3, 17_lee_self_love]. Oliver Jeges, en su testimonio de conversión, destaca que la oración —aunque sea infantil— es buena para el alma y que las respuestas llegan de maneras inesperadas [EAC-3, 19_mission_oliver_jeges].
 
 ## Referencias
 

@@ -75,13 +75,13 @@ Jesús enfrenta la desesperación en sus encuentros con los enfermos, los pecado
 - **[[esperanza]]**: La desesperanza es el pecado contra la esperanza; la esperanza es su remedio.
 - **[[presunción]]**: La presunción es el otro pecado contra la esperanza (esperar sin la ayuda de Dios).
 - **[[virtudes_teologales]]**: La desesperanza destruye la virtud de la esperanza, que es fundamental para la vida cristiana.
-- **[[noche_oscura_del_alma]]**: La noche oscura puede llevar a la tentación de desesperanza, pero también puede ser camino de purificación.
+- **[[noche_oscura]]**: La noche oscura puede llevar a la tentación de desesperanza, pero también puede ser camino de purificación.
 - **[[desesperación]]**: Sinónimo teológico de desesperanza.
 - **[[pecado_capital]]**: La desesperación puede estar conectada con la tristeza como pecado capital.
 
 ## Ver también
 
-[[esperanza]], [[presunción]], [[virtudes_teologales]], [[noche_oscura_del_alma]], [[pecado_capital]], [[esperanza_de_la_resurrección]]
+[[esperanza]], [[presunción]], [[virtudes_teologales]], [[noche_oscura]], [[pecado_capital]], [[esperanza_de_la_resurrección]]
 
 ## Referencias
 

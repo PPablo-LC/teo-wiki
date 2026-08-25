@@ -1,0 +1,76 @@
+---
+type: ResumenFuente
+title: "Cumplir"
+fuente: Vocabulario_bíblico
+capítulo: 60
+timestamp: 2026-08-24
+description: "Resumen de 'Cumplir' — Vocabulario_bíblico"
+tags: ["resumen", "vocabulario bíblico"]
+---
+
+# Cumplir
+
+## Conceptos básicos referenciados
+
+[Lista de conceptos teológicos tratados aquí.]
+
+
+## Contenido
+
+[ESTA ES UNA PLANTILLA VACÍA.
+Debe ser completada por el agente de IA con un resumen fiel del texto original.
+📄 **Fuente original:** `cumplir.md`
+
+
+Instrucciones para el agente:
+1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
+2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
+3. Verificar que cada sección del mapa fue leída antes de redactar.
+4. Preservar enunciados y títulos originales.
+5. Redactar resumen conciso pero completo.
+6. Incluir wikilinks [[concepto]] para términos teológicos.
+7. Mantener jerarquía de encabezados del original.
+]
+## Mapa del archivo fuente
+
+| Línea | Nivel | Sección |
+|-------|-------|---------|
+| 1 | H1 | Cumplir |
+| 6 | H2 | AT: PERSPECTIVAS DE CUMPLIMIENTO |
+| 8 | H3 | Palabra de Dios y ley. |
+| 11 | H3 | Profecías. |
+| 14 | H3 | Los tiempos se cumplen. |
+| 17 | H2 | NT: «SE HA CONSUMADO» |
+| 24 | H3 | La ley. |
+| 31 | H3 | Fin de los tiempos. |
+
+
+## Secciones incluidas
+
+# AT: PERSPECTIVAS DE CUMPLIMIENTO
+
+[Contenido de esta sección...]
+
+## Palabra de Dios y ley.
+
+[Contenido de esta sección...]
+
+## Profecías.
+
+[Contenido de esta sección...]
+
+## Los tiempos se cumplen.
+
+[Contenido de esta sección...]
+
+# NT: «SE HA CONSUMADO»
+
+[Contenido de esta sección...]
+
+## La ley.
+
+[Contenido de esta sección...]
+
+## Fin de los tiempos.
+
+[Contenido de esta sección...]

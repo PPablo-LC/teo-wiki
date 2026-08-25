@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Imagen de Dios
 tags: ["dogmática", "antropología_teológica"]
 
-timestamp: 2026-08-22
+timestamp: 2026-08-24
 description: "El hombre ha sido creado \"a imagen y semejanza de Dios\" (Gn 1,26)."
 ---
 # Imagen de Dios
 
 > Área: Dogmática / Antropología teológica
-> Última actualización: 2026-08-22
+> Última actualización: 2026-08-24
 
 ## Definición
 
@@ -112,6 +112,14 @@ La vocación cristiana, participando en la misión real de Cristo, consiste en l
 
 Bobby Angel sitúa la comedia dentro del imago Dei: «En materia teológica, la comedia es una faceta de nuestra creación a imagen de Dios». El fenómeno de la risa —no replicado en el reino animal— revela que el hombre refleja un Dios que «se deleita gozosamente en su creación». La capacidad de percibir lo incongruente, jugar con las ideas y responder con risa al desvelamiento de la verdad pertenece a la sublimidad de la vocación humana descrita por GS 22: la imagen divina incluye el gozo.
 
+### Según Evangelization & Culture n.º 1 «Creativity» (EAC-1)
+
+**La creatividad como nota del imago Dei (Kaczor).** «Según el Génesis, la creatividad de Dios se expresa a través de la racionalidad que da origen a la creación... Si la persona humana está a imagen de Dios, nuestra creatividad humana también será manifestación de racionalidad que dará origen a algo nuevo». El hombre no crea *ex nihilo* —solo Dios—, pero crea en dos sentidos: en lo que **hace** (refaccionar lo existente en nuevos patrones) y en lo que **hace de sí mismo** («forjamos nuestras elecciones, nuestros caracteres y nuestros destinos»). En ambos ejercicios usamos razón y voluntad, «y así actuamos a imagen de Dios».
+
+**Hacedores e «encarnadores» (Guite).** Una clave del imago Dei es el poder de la imaginación: «el deseo de crear, de hacer y modelar un arte que pueda, aunque sea fugazmente, hacer una morada y dar voz a nuestros anhelos más profundos». Si la Encarnación es el acto supremo de *poesis* divina, entonces «somos hechos como hacedores nosotros mismos, como "encarnadores" imaginativos», y toda obra humana participa del gran hacer divino.
+
+**Engendrar hacedores (Ramelow).** No podemos fabricar otros hacedores como hacemos máquinas, «pero podemos engendrarlos, así como Dios engendra a su Hijo»: lo que la procreación comparte con el arte es que «comienza en la apreciación de la belleza». Incluso en Dios hay engendramiento que no es hacer —el Logos, Hijo eterno—, y mediante ese Logos crea todas las demás cosas. «Las computadoras ni crean ni engendran otras computadoras. Solo los seres hechos a imagen y semejanza de Dios pueden hacerlo».
+
 ## Distinciones importantes
 
 - Imagen natural: la inteligencia y voluntad libres que todo ser humano posee por naturaleza
@@ -149,3 +157,4 @@ Se relaciona con la [[creación]] del hombre, el [[pecado_original]] que la desf
 - GS, n. 14 y n. 17, citado en Ele_Xto_Stos, Cap. IV, §3a
 - Veritatis splendor, n. 34, citado en Ele_Xto_Stos, Cap. IV, §3a
 - [EAC-8, Issue 8 «Humor», archivo 15]
+- [EAC-1, Issue 1 «Creativity»: archivos 10, 11, 19]

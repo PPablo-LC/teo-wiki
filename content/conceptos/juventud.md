@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Juventud
 tags: ["pastoral", "moral"]
 
-timestamp: 2026-06-10
+timestamp: 2026-08-24
 description: "La juventud es la etapa de la vida humana comprendida entre la adolescencia y la edad adulta, caracterizada por la búsqueda de identidad, la consolidación de la personalidad."
 ---
 # Juventud
 
 > Área: Pastoral / Moral
-> Última actualización: 2026-06-10
+> Última actualización: 2026-08-24
 
 ## Definición
 
@@ -32,6 +32,10 @@ El Capítulo General de 2026 reconoce que el contexto sociocultural de los jóve
 ### Según Mons. Tihámer Tóth (JvC)
 
 Toda la obra de JvC está dirigida a los jóvenes. «Cada joven es una mina de diamantes inagotable, un caudal lleno de promesas» [JvC, Prólogo]. La primavera de la vida es el momento decisivo para formar el carácter: «Has de educar, por tanto, tu voluntad para que se compenetre con la voluntad de Dios. Lograrás la más valiosa autoeducación si tras tus acciones puedes contestar afirmativamente a la pregunta: "Señor, ¿ha sido de veras tu voluntad lo que he hecho?" Y esta educación del carácter has de empezarla ahora. En la edad madura es mucho más difícil. Quien llega sin carácter firme al ajetreo del mundo, es fácil que pierda hasta lo poco que haya podido tener» [JvC, Cap. I].
+
+### Según Juan Pablo II (VocExp)
+
+En *La vocación explicada*, la juventud es presentada como el tiempo teologal de las decisiones decisivas: «Durante los años de la juventud se va configurando en cada uno la propia personalidad. El futuro comienza ya a hacerse presente... Es también el tiempo adecuado para discernir y tomar conciencia con más radicalidad de que la vida no puede desarrollarse al margen de Dios y de los demás. Es la hora de afrontar las grandes cuestiones, de la opción entre el egoísmo o la generosidad». La medida del éxito de la vida «dependerá de vuestra generosidad». JPII defiende la capacidad vocacional de los jóvenes frente al desaliento: tienen «capacidad de una entrega total aunque algunas aparezcan vacilantes o bloqueadas», y el corazón joven, movido por la gracia, siente «un deseo de más generosidad, de más entrega, de más amor; porque un corazón enamorado no calcula, no regatea, quiere darse sin medida» [VocExp].
 
 ### Según León XIV (L_XIV-ClerRom)
 

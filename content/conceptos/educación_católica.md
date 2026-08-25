@@ -47,6 +47,10 @@ Las escuelas católicas deben «proveer una formación integral de la persona hu
 
 La Iglesia necesita «un espacio de libertad en el campo de la enseñanza». Los padres tienen el derecho fundamental de decidir sobre la educación de sus hijos. «Debe denunciarse el monopolio del Estado como una forma de totalitarismo» [EA §71].
 
+### Según Mons. Tihámer Tóth (JvC-Rel)
+
+Tóth recoge el diagnóstico de Aparecida sobre la «emergencia educativa»: las reformas centradas en conocimientos y habilidades denotan «un claro reduccionismo antropológico» que concibe la educación en función de la producción, la competitividad y el mercado, e incluyen factores contrarios a la vida y a la familia [JvC-Rel, archivo 34]. Frente a ello, la escuela está llamada a ser «lugar privilegiado de formación y promoción integral», poniendo de relieve «la dimensión ética y religiosa de la cultura»; no se da libertad ética sino en confrontación con los valores absolutos [archivo 34]. En el proyecto educativo de la escuela católica «Cristo, el Hombre perfecto, es el fundamento, en quien todos los valores humanos encuentran su plena realización»; su meta es conducir al encuentro con Jesucristo vivo [archivo 35]. Aparecida pide «rescatar la identidad católica de nuestros centros… por medio de un impulso misionero valiente y audaz», con identidad eclesial, excelencia académica y solidaridad con los más pobres; y una educación en la fe integral y transversal con verdaderos procesos de iniciación cristiana [archivo 35]. Para la universidad se requiere pastoral universitaria que acompañe a toda la comunidad, diálogo entre fe, razón y ciencias —«Fe y razón son dos alas por las cuales el espíritu humano se eleva en la contemplación de la verdad»— y presencia dialogante en las universidades públicas [archivo 36].
+
 ## Relaciones doctrinales
 
 La [[escuela_católica]] es un medio primordial para la educación católica. Se relaciona con el derecho de los padres (c. 793), la libertad de enseñanza (c. 797) y el derecho de la Iglesia a erigir universidades (c. 807).

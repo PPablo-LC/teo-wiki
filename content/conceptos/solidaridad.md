@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Solidaridad
 tags: ["moral"]
 
-timestamp: 2026-06-17
+timestamp: 2026-08-24
 description: "Virtud social, principio de la doctrina social de la Iglesia, que expresa la exigencia directa de la fraternidad humana y cristiana."
 ---
 # Solidaridad
 
 > Área: Moral
-> Última actualización: 2026-06-17
+> Última actualización: 2026-08-24
 
 ## Definición
 
@@ -90,6 +90,14 @@ Deriva para las Iglesias particulares «el deber de la recíproca solidaridad y 
 La Iglesia en América ha de alentar a los organismos internacionales para «establecer un orden económico en el que no domine sólo el criterio del lucro, sino también el de la búsqueda del bien común nacional e internacional, la distribución equitativa de los bienes y la promoción integral de los pueblos» [EA §52].
 
 Ante la globalización, la Iglesia ofrece su visión moral «que se apoya en las tres piedras angulares fundamentales de la dignidad humana, la solidaridad y la subsidiariedad» [EA §55]. La Iglesia está llamada a promover «una verdadera cultura globalizada de la solidaridad» [EA §55].
+
+### Según Evangelization & Culture n.º 2 «Economics» (EAC-2)
+
+El obispo Barron define la solidaridad como «un agudo sentido del bien común, de las conexiones naturales y sobrenaturales que nos vinculan unos a otros, de nuestra responsabilidad mutua». El pensamiento social católico reconoce que, siempre en acuerdo con la [[subsidiariedad]], a veces los gobiernos federal y estatales son los vehículos legítimos por los que se logra la solidaridad social [EAC-2, 01_from_the_desk]. El equilibrio es esencial: «Pero la subsidiariedad sin solidaridad puede resultar en una sociedad marcada por un individualismo desenfrenado, una mentalidad "la codicia es buena" al estilo de Gordon Gekko, y un objetivismo a lo Ayn Rand/Nietzsche que celebra positivamente el dominio de la persona poderosa sobre el débil»; la doctrina social consiste en el sutil equilibrio de ambos principios para evitar estos dos escollos característicos —totalitarismo y egoísmo individualista— [EAC-2, 01_from_the_desk].
+
+En el marco económico de los obispos estadounidenses, la solidaridad se traduce en dos principios complementarios: la sociedad tiene obligación moral —incluida la acción gubernativa cuando sea necesaria— de asegurar oportunidades, atender las necesidades humanas básicas y procurar la justicia en la vida económica (principio 8); y trabajadores, propietarios, gestores, accionistas y consumidores son agentes morales que, con sus elecciones e iniciativas, aumentan o disminuyen la oportunidad económica, la vida comunitaria y la justicia social (principio 9). La unidad de la familia humana implica un bien común universal que llama a atender a los migrantes y a las naciones en desarrollo (CEC §1911; *Mater et Magistra*) [EAC-2, 13_framework_economic_life, Principios 8-10].
+
+Arthur Brooks aporta el matiz del corazón: junto al deber de cuidar a «estos mis hermanos más pequeños», el cristiano debe velar por la «necesidad-de-ser-necesitado» (*neededness*) del hermano —que todos puedan ganarse su éxito y vivir su igual dignidad—, buscando el equilibrio entre redes de seguridad y autosuficiencia: «Ser un "cristiano de Mateo 25:40" exige velar por la necesidad-de-ser-necesitado de nuestros hermanos, recordando también las necesidades básicas siempre presentes: que la gente no pase hambre ni frío, que tenga abrigo» [EAC-2, 08_spotlight_economics_of_heart].
 
 ## Distinciones importantes
 

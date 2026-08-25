@@ -3,12 +3,12 @@ type: Documento
 title: "Formación religiosa de jóvenes"
 description: "Obra de teología pastoral de Mons. Tihámer Tóth sobre la educación religiosa y moral de la juventud."
 tags: ["teología_pastoral", "formación_espiritual", "educación"]
-timestamp: 2026-07-14
+timestamp: 2026-08-24
 ---
 # Formación religiosa de jóvenes
 
 > Área: Documento
-> Última actualización: 2026-07-14
+> Última actualización: 2026-08-24
 
 ## Identificación
 
@@ -83,6 +83,21 @@ La obra desarrolla una pedagogía de la educación religiosa basada en:
 ## Fuentes
 
 - raw/Bases_doctrinales-raw/Formación religiosa de jóvenes -- Tihamer Toth/
+
+## Procesamiento
+
+Enriquecimiento conceptual **completado (2026-08-24)**: las 74 filas del mapa
+de conceptos del `índice.md` están procesadas. Artículos creados con sección
+JvC-Rel: [[educación_de_la_voluntad]], [[confesión_frecuente]],
+[[defecto_dominante]], [[imitación_de_los_santos]], [[libertad_de_espíritu]],
+[[adolescencia]], [[educación_a_la_castidad]], [[estado_de_gracia]],
+[[religiosidad_natural]], [[fe_madura]], [[homosexualidad]],
+[[fervor_espiritual]]. Artículos enriquecidos: [[gracia_santificante]],
+[[matrimonio]], [[eucaristía]], [[oración]], [[fe_y_razón]], [[discipulado]],
+[[templo_del_espíritu_santo]], [[alegría_cristiana]], [[pudor]], [[acedia]],
+[[seminario]], [[persona_humana]], [[dignidad_de_la_mujer]], [[sexualidad]],
+[[virgen_maría]], [[educación_católica]],
+[[opción_preferencial_por_los_pobres]].
 
 ## Ver también
 

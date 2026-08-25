@@ -70,7 +70,7 @@ El deseo de disolución en Dios expresa la tensión ascética hacia la unidad pe
 - La [[comunión_de_los_santos]] es la trama concreta de la fraternidad que edifica el Cuerpo místico
 
 ## Ver también
-[[cristo_cabeza_de_la_iglesia]], [[caridad]], [[iglesia]], [[comunión_de_los_santos]], [[eucaristía]], [[espíritu_santo]], [[voto_privado]], [[unidad_y_caridad]]
+[[cabeza_de_la_iglesia]], [[caridad]], [[iglesia]], [[comunión_de_los_santos]], [[eucaristía]], [[espíritu_santo]], [[voto_privado]], [[unidad_y_caridad]]
 
 ## Referencias
 

@@ -35,7 +35,7 @@ En el NT, Jesús restaura el sentido del sábado: «El sábado se ha hecho para 
 [[sábado]], [[creación]], [[tierra_prometida]], [[cielo]], [[liberación_y_libertad]], [[descanso]]
 
 ## Ver también
-[[día_del_señor]], [[fiesta]], [[gozo]], [[paz]], [[presencia_de_dios]]
+[[día_del_señor]], [[fiestas]], [[gozo]], [[paz]], [[presencia_de_dios]]
 
 ## Referencias
 - [VocTeoBib, «Reposo»]

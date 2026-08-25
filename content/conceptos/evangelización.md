@@ -97,13 +97,13 @@ Se relaciona con [[doctrina_social_de_la_iglesia]], [[misión_de_la_iglesia]], [
 - [[fr_michael_luxbacher_life_in_abundance]]
 - [[joey_stevens_grit_perseverance]]
 
-### Según Evangelization & Culture (WoF-3)
+### Según Evangelization ### Según Evangelization & Culture (EAC-3) Culture n.º 3 «The Digital Age» (EAC-3)
 
 Bishop Robert Barron recuerda que «la nueva evangelización es nueva no solo en ardor y expresión, sino también en método». Los nuevos medios —internet, smartphones y redes sociales— ofrecen un poder extraordinario para proclamar Cristo a la cultura. Con ellos podemos alcanzar a millones de personas que de otra manera jamás tendrían contacto con la Iglesia. Así como Pablo usó los métodos de su época —pergamino, tinta y caminos romanos— para difundir el Evangelio, los evangelizadores de hoy deben dominar los nuevos medios.
 
-La evangelización digital se enfrenta a tres peligros principales: la adicción a las pantallas, la falta de conexión auténtica (somos almas encarnadas, pero en el espacio desencarnado de Internet los encuentros a menudo se vuelven crueles y tribalistas), y el uso nefasto de la tecnología para difundir pornografía y desinformación. Sin embargo, el mayor peligro es el de quedarse rezagados: «Si los cristianos abandonan estos métodos, quedarán irreversiblemente rezagados y desnarrados; los no católicos y ex católicos escucharán versiones distortadas del Evangelio, o nunca lo escucharán en absoluto» [WoF-3, 01_from_the_desk].
+La evangelización digital se enfrenta a tres peligros principales: la adicción a las pantallas, la falta de conexión auténtica (somos almas encarnadas, pero en el espacio desencarnado de Internet los encuentros a menudo se vuelven crueles y tribalistas), y el uso nefasto de la tecnología para difundir pornografía y desinformación. Sin embargo, el mayor peligro es el de quedarse rezagados: «Si los cristianos abandonan estos métodos, quedarán irreversiblemente rezagados y desnarrados; los no católicos y ex católicos escucharán versiones distortadas del Evangelio, o nunca lo escucharán en absoluto» [EAC-3, 01_from_the_desk].
 
-Brandon Vogt propone cinco lecciones para el evangelizador digital: (1) desarrollar una vida interior profunda para evitar el cinismo; (2) estudiar la cultura online como Cirilo y Metodio estudiaron el lenguaje eslav0; (3) salir de la burbuja católica hacia las «periferias existenciales»; (4) encontrar el nicho propio en el «theo-drama»; (5) buscar pequeñas victorias, pues la mayoría del evangelismo online es pre-evangelización [WoF-3, 15_vogt_media_evangelist].
+Brandon Vogt propone cinco lecciones para el evangelizador digital: (1) desarrollar una vida interior profunda para evitar el cinismo; (2) estudiar la cultura online como Cirilo y Metodio estudiaron el lenguaje eslav0; (3) salir de la burbuja católica hacia las «periferias existenciales»; (4) encontrar el nicho propio en el «theo-drama»; (5) buscar pequeñas victorias, pues la mayoría del evangelismo online es pre-evangelización [EAC-3, 15_vogt_media_evangelist].
 
 ### Según Evangelization & Culture, Issue 7 — Catholic Sensibility (EcC7)
 

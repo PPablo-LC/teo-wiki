@@ -65,7 +65,7 @@ Es necesario reconocer y alentar la valiosa misión de los catequistas: «Su fe 
 
 ### Según Mons. Tihámer Tóth (JvC-Rel)
 
-Tóth distingue entre una enseñanza religiosa meramente teórica —que fracasa— y una que forme el carácter y la vida interior. La religión como asignatura tiene fisonomía propia: requiere obsequio racional de la [[fe]], participación del corazón y calidad educativa. Los métodos activos (dramatización bíblica, aplicaciones prácticas) son esenciales. La [[catequesis]] debe ser mistagógica e iniciática, conduciendo al encuentro personal con [[jesucristo]]. El catequista debe ser testigo vivo de lo que enseña [JvC-Rel, Archivos 13, 14, 15, 32].
+Tóth distingue entre una enseñanza religiosa meramente teórica —que fracasa— y una que forme el carácter y la vida interior. La religión como asignatura tiene fisonomía propia: requiere obsequio racional de la [[fe]], participación del corazón y calidad educativa. Los métodos activos (dramatización bíblica, aplicaciones prácticas) son esenciales. La [[catequesis]] debe ser mistagógica e iniciática, conduciendo al encuentro personal con [[jesucristo]]. El catequista debe ser testigo vivo de lo que enseña [JvC-Rel, Archivos 13, 14, 15, 32]. La enseñanza ha de incluir además la dimensión social: «cada uno de mis actos tiene responsabilidad social», y —como pide Aparecida— una catequesis social apoyada en el Compendio de la doctrina social de la Iglesia, pues «la vida cristiana no se expresa solamente en las virtudes personales, sino también en las virtudes sociales y políticas» [Archivos 15, 32].
 
 ## Analizado para
 

@@ -16,7 +16,7 @@ tags: ["resumen", "sacramentorum_sanctitatis_tutela", "derecho_canónico", "deli
 - [[congregación_para_la_doctrina_de_la_fe]] — Dicasterio competente para juzgar delitos contra la fe y la moral
 - [[normas_sustanciales]] — Primera parte: delitos tipificados y penas
 - [[normas_procesales]] — Segunda parte: procedimiento judicial y extrajudicial
-- [[prescripción_acción_penal]] — Extinción de la acción criminal por trascurso del tiempo
+- [[prescripción_de_la_acción_criminal]] — Extinción de la acción criminal por trascurso del tiempo
 - [[secreto_sacramental]] — Inviolabilidad del sigilo de confesión
 - [[sacramento_penitencia]] — Delitos contra la santidad del sacramento de la Reconciliación
 - [[eucaristía]] — Delitos contra la santidad del sacramento eucarístico

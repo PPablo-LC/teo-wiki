@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Doctrina Social de la Iglesia
 tags: ["moral"]
 
-timestamp: 2026-08-07
+timestamp: 2026-08-24
 description: "Cuerpo de doctrina que articula la enseñanza de la Iglesia en materia económica y social."
 ---
 # Doctrina Social de la Iglesia
 
 > Área: Moral
-> Última actualización: 2026-08-07
+> Última actualización: 2026-08-24
 
 ## Definición
 
@@ -97,6 +97,25 @@ La dimensión política de la vida moral cristiana es materia de gran complejida
 En los dos últimos siglos, el magisterio eclesiástico ha desarrollado ampliamente las enseñanzas conocidas como doctrina social de la Iglesia. Esta es objeto de un tratado teológico específico que, por obvias razones de espacio, no puede ser presentado en ese tratado general de moral; por eso se limita a algunas consideraciones de carácter general. (Ele_Xto_Stos, Cap. IX, §1e)
 
 Para la actuación eficaz del derecho y deber de participación política de los fieles laicos es «absolutamente indispensable –sobre todo para los fieles laicos comprometidos de diversos modos en el campo social y político– un conocimiento más exacto de la doctrina social de la Iglesia». (Ele_Xto_Stos, Cap. IX, §1e)
+
+### Según Evangelization & Culture n.º 2 «Economics» (EAC-2)
+
+El obispo Barron recuerda la palabra de Juan Pablo II: la proclamación de la doctrina social es esencial para la nueva evangelización, pues evangelizar es declarar el señorío de Jesucristo sobre todas las dimensiones de la vida —«no se puede decir coherentemente que Jesús es Señor manteniendo la vida económica, social y política recluida en un supuesto ámbito "secular" independiente de su influjo»— [EAC-2, 15_cst_market_economy].
+
+**La genealogía magisterial.** Barron traza la línea completa: *Rerum Novarum* (León XIII, 1891), fuente o manantial de la doctrina social moderna —juicio claro contra las opciones socialistas y afirmación mitigada y matizada de la economía de mercado—; *Quadragesimo Anno* (Pío XI); *Mater et Magistra* y *Pacem in Terris* (Juan XXIII); *Populorum Progressio* (Pablo VI); *Laborem Exercens* (1981) y *Sollicitudo Rei Socialis* (1987) de Juan Pablo II. Su recomendación: si hay que leer un solo documento de la tradición, léase la *Centesimus Annus*, que «resume la doctrina social católica mejor que cualquier otro documento» [EAC-2].
+
+**Un marco para la vida económica.** El número presenta íntegro el marco elaborado por la Conferencia Episcopal Estadounidense (1996), construido sobre el Catecismo, las encíclicas sociales y la carta pastoral *Economic Justice for All*, con diez principios ilustrados cada uno por una figura ejemplar [EAC-2, 13_framework_economic_life]:
+
+1. La economía existe para la persona, no la persona para la economía
+2. Toda la vida económica debe estar moldeada por principios morales: proteger la vida y dignidad humanas, sostener la familia, servir al bien común
+3. Una medida moral fundamental de toda economía es cómo les va a los pobres y vulnerables
+4. Todos tienen derecho a la vida y a asegurar las necesidades básicas (alimento, vestido, vivienda, educación, salud, seguridad económica)
+5. Derecho a la iniciativa económica, al trabajo productivo, a salarios y condiciones justos, a organizarse en sindicatos
+6. Correlativo deber de trabajar, sostener a la familia y contribuir a la sociedad
+7. Los mercados libres tienen ventajas claras y límites; el Estado tiene responsabilidades y límites esenciales; los grupos voluntarios tienen papeles insustituibles
+8. Obligación moral de la sociedad —incluida acción gubernativa cuando sea necesaria— de asegurar oportunidades, atender necesidades básicas y procurar justicia
+9. Trabajadores, propietarios, gestores, accionistas y consumidores son agentes morales de la vida económica
+10. La economía global tiene dimensiones morales: inversión, comercio, ayuda y desarrollo deben proteger la vida y los derechos humanos
 
 ## Relaciones doctrinales
 

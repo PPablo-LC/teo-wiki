@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Comunidad
 tags: ["eclesiología"]
 
-timestamp: 2026-06-10
+timestamp: 2026-08-24
 description: "Realidad eclesial fundada por Cristo en la cual los fieles, unidos por el vínculo de la caridad y los sacramentos, forman un solo Cuerpo cuya cabeza es Cristo."
 ---
 # Comunidad
 
 > Área: Eclesiología
-> Última actualización: 2026-06-10
+> Última actualización: 2026-08-24
 
 ## Definición
 
@@ -32,6 +32,9 @@ El principio de solidaridad: todos los hombres son responsables unos de otros. E
 
 La vida en gracia une a todos los miembros de la Iglesia en la comunión de los santos. La caridad fraterna es señal de la verdadera comunidad cristiana. La perfección cristiana no se alcanza en el aislamiento sino en la comunión eclesial (TPCr, Tercera Parte, Libro II).
 
+### Según Evangelization & Culture n.º 3 «The Digital Age» (EAC-3)
+
+Fr. Blake Britton diagnostica en la generación milenial un hambre aguda de comunidad: el 22 % de los millennials estadounidenses dice no tener amigos y el 30 % reporta soledad constante o frecuente. La paradoja de la era digital es que «los millennials son las personas más tecnológicamente avanzadas y globalmente conectadas de la historia mundial, y sin embargo sufren simultáneamente los mayores índices de aislamiento»: «al final, ninguna cantidad de mensajes de Facebook puede llenar el vacío de la interacción humana básica». Los videojuegos multijugador canalizan ese anhelo mediante compañerismo virtual —«hermanos de armas» frente a tareas imposibles—, pero solo artificialmente: «Lo que el gaming proporciona solo artificialmente, nosotros podemos proporcionarlo en realidad», pues en el corazón de la religión hay un Dios trino de comunión interpersonal a cuya imagen somos hechos. Kathryn Jean Lopez confirma el riesgo desde la experiencia periodística: «antes de que nos demos cuenta, la comunidad virtual puede llegar a sustituir a la comunidad real». Desde la fenomenología, Robert Mixa (glosando a Dreyfus) precisa el límite estructural de toda comunidad online: «uno puede abandonar fácilmente una comunidad virtual sin consecuencia, mientras que no puede abandonar así de fácilmente un pueblo»; la red «es un gran medio de conexión, pero no puede replicar la presencia corporal necesaria para la comunión íntima».
 
 ## Distinciones importantes
 
@@ -63,3 +66,4 @@ Thomas O'Loughlin (2017, cap. 5, Principio III) hace de la dimensión comunitari
 - [LG 48; GS 24-32]
 - [DSI, Principios de Solidaridad y Subsidiariedad]
 - [L_XIV-ClerRom, 19.02.2026]
+- [EAC-3, Issue 3 «The Digital Age»: archivos 11 (Britton), 14 (Lopez), 07 (Mixa)]

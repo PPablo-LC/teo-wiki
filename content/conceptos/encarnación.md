@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Encarnación
 tags: ["cristología"]
 
-timestamp: 2026-08-22
+timestamp: 2026-08-24
 description: "La Encarnación es el misterio de la admirable unión de la naturaleza divina y de la naturaleza humana en la única Persona del Verbo (CEC §483)."
 ---
 # Encarnación
 
 > Área: Cristología
-> Última actualización: 2026-08-22
+> Última actualización: 2026-08-24
 
 ## Definición
 
@@ -157,6 +157,18 @@ En D-429, el mismo concilio confiesa el misterio de la Encarnación: Jesucristo 
 
 **La Encarnación como chiste divino:** «Todo comienza con un chiste»: la esencia de lo cómico es «la unión de opuestos, la yuxtaposición de cosas incongruentes», y en Belén el Infinito abrazó lo finito: Dios se hizo niño en un pequeño puesto fronterizo del Imperio romano (Barron, *Catholicism* cap. 1). Bobby Angel extiende la idea: Jesús nace bebé desvalido, subvirtiendo las expectativas mesiánicas de poder — guiño divino que mezcla humor y asombro, en línea con la risa de Sara ante Dios (Gn 18) o la burra de Balaam (Nm 22). «Se ha sugerido que el corazón del pecado es tomarse uno mismo demasiado en serio; quizá por esto Dios eligió salvarnos haciéndonos reír». Joel Berry completa el arco: la Resurrección como remate del chiste a Satanás, fundado en Is 53,6.
 
+### Según Evangelization & Culture n.º 1 «Creativity» (EAC-1)
+
+**La Encarnación como acto supremo de «poesis» divina (Guite).** Comentarios del poeta Shakespeare sobre el arte poético ayudan a entender la Encarnación: «lo que ocurre en la Encarnación es que el Verbo que habitaba en el principio con Dios —el Logos divino, que de otro modo sería una aprehensión o abstracción en la mente humana— es literalmente "corporificado" (*bodied forth*), recibe literalmente "una morada local y un nombre"». Por eso la primera pregunta de los discípulos en Juan es «Rabbi, ¿dónde vives?» (Jn 1,38). En Cristo vemos «un intercambio continuo entre tierra y cielo, cielo y tierra»: él «corporifica» el Amor que es la esencia del cielo y es «puerta» (Jn 10,9) y «camino» (Jn 14,6). «La plena encarnación de la verdad en Cristo, el Verbo hecho carne, es el acto imaginativo o comunicativo primordial que sostiene y hace posibles todos los demás»: Dios como el gran hacedor, el «encarnador» primordial.
+
+**Reconciliación de lo dividido (Guite).** El poema «Reason» de C.S. Lewis suplica: «¿Quién reconciliará en mí doncella y madre, quién hará en mí una concordia de la profundidad y la altura?». Las diosas paganas deben ser o doncella o madre, «pero la Virgen María es ambas, doncella y madre»; en su *sí* a Dios viene Cristo reconciliador, «el que reconcilia al hombre con Dios, y al tiempo con la eternidad, y es en sí mismo la concordia de toda profundidad y altura» (cf. Ef 3,16-19). La Encarnación es la respuesta a toda división interior: razón e imaginación, altura y hondura.
+
+**La Encarnación da a luz la novela (Percy, citado por Carl).** «En un sentido muy real, puede decirse que la Encarnación no solo trajo salvación a la humanidad sino que dio a luz la novela... El judeocristianismo trata de peregrinos que tienen algo mal y se han embarcado en una búsqueda para encontrar una salida. Esto es también de lo que tratan las novelas». Al asumir la naturaleza humana en Cristo, Dios ennobleció todos los relatos humanos individuales y la historia entera: las dimensiones encarnacional y sacramental del catolicismo son «los mayores recursos naturales de un novelista».
+
+### Según Evangelization & Culture n.º 3 «The Digital Age» (EAC-3)
+
+Robert Mixa, reseñando *On the Internet* de Hubert Dreyfus, muestra que la crítica fenomenológica a Internet es en el fondo una defensa del principio encarnacional. La red lleva implícita una ontología cartesiana: «un yo desencarnado, sin compromiso y descomprometido (*res cogitans*) en un mundo intrínsecamente carente de sentido (*res extensa*)». Frente a ella, Merleau-Ponty recuerda que «el cuerpo es nuestro medio general de tener un mundo»: los límites corporales, tan a menudo lamentados, deben ser abrazados, porque son los que hacen posible la comunión que todos buscamos. Todo lo humano decisivo es encarnado: en la educación, «es difícil dominar una disciplina sin alguna forma de discipulado encarnado —observar las respuestas cotidianas e imitar el estilo de un maestro—»; en el afecto, «un abrazo virtual no es lo mismo que un abrazo real»; en la vida cristiana, el evento focal por antonomasia es la Eucaristía, donde Jesús «se ofrece como presencia encarnada en el mundo dándonos un anticipo del escaton (es decir, la plena comunión con Dios)». De ahí el criterio teológico final: la red debe evaluarse según si conduce o no a una «vida eucarística»; «el mundo virtual debería ser un recordatorio del mundo real, que solo puede ser encontrado dejando el dispositivo y entrando corporalmente en el Misterio».
+
 ## Distinciones importantes
 
 - **Unión hipostática**: unión de las dos naturalezas (divina y humana) en una sola Persona (la del Verbo).
@@ -187,3 +199,5 @@ La Encarnación es el fundamento de la [[redención]], la causa de la [[gracia_s
 - [RH §1, §8, §13, §22]
 - Evangelization & Culture, Issue 6 (EcC6): §§09, 11, 17 (Havlicek, Stewart, Garrett)
 - [EAC-8, Issue 8 «Humor», archivos 02, 13, 15]
+- [EAC-1, Issue 1 «Creativity»: archivos 15, 19]
+- [EAC-3, Issue 3 «The Digital Age», archivo 07 (Mixa); Dreyfus, *On the Internet*]

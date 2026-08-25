@@ -37,7 +37,7 @@ Su estilo se caracterizaba por la simplicidad y la autenticidad: no necesitaba a
 
 ## Citas célebres
 
-- «La libertad no consiste en hacer lo que nos gusta, sino en tener el derecho de hacer lo que debemos.» (atribuida a JPII, citada en WoF-3)
+- «La libertad no consiste en hacer lo que nos gusta, sino en tener el derecho de hacer lo que debemos.» (atribuida a JPII, citada en EAC-3)
 - «Hay tres cosas que duran: la fe, la esperanza y el amor. Pero la mayor de ellas es el amor.»
 - «El pecado no es solo una error; es una enfermedad del alma.»
 
@@ -51,6 +51,6 @@ Bishop Robert Barron considera a Sheen como su predecesor más directo en el uso
 
 ## Referencias
 
-- WoF-3, 09_spotlight_sheen_microphone.md (Matt Leonard)
+- EAC-3, 09_spotlight_sheen_microphone.md (Matt Leonard)
 - Word on Fire, *Pivotal Players: Fulton J. Sheen*
 - CATHOLICISM series, Word on Fire

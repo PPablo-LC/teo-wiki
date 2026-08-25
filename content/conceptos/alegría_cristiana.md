@@ -68,6 +68,12 @@ El CEC enseña que la alegría es fruto del Espíritu Santo (§§736, 1832) y qu
 - **Escuela de la Alegría Cristiana:** la habitación de San Felipe Neri era conocida así; su consejo: «Hijo mío, persevera en esa alegría, porque este es el verdadero camino para progresar en virtud».
 - **La risa como eco del gozo divino:** Chesterton: quizá Dios retuvo un poco su jovialidad para protegernos de su éxtasis; «nuestra risa es eco del gozo inestimable de nuestro Padre». Reímos «porque es nuestra respuesta encarnada al gozo. ¡Gracias sean dadas a Dios!» (Angel).
 
+### Según Mons. Tihámer Tóth (JvC-Rel)
+
+Tóth dedica un capítulo al valor pedagógico de la alegría. Contra quienes acusan a la educación católica de formar escrupulosos y tristes, afirma que «no puede haber santidad en una cara sombría»: «no puede haber santidad de vida sin verdadera alegría espiritual» [JvC-Rel, archivo 19]. La alegría es fuerza: «la verdadera alegría espiritual brota de la virtud»; es «don del Espíritu Santo» (Gal 5,22) y don pascual de Cristo resucitado; preserva al joven de la mediocridad y del cansancio en la lucha espiritual [archivo 19]. La Iglesia considera la tristeza como un gran mal (San Francisco de Asís la llama «mal babilónico»; Santa Catalina descubre en ella influencia diabólica) — véase [[acedia]] — y reza para recuperarla: «Líbranos de la tristeza presente y haznos gozar de la alegría eterna» [archivo 19].
+
+Su fuente es la vida espiritual: «para el alma que ama a Dios y tiene su conciencia en paz, la santa comunión, las oraciones cotidianas… son una fuente inagotable de alegría interior»; «vivir en gracia es un tesoro magnífico» (véase [[estado_de_gracia]]) [archivo 19]. Pedagógicamente, «mucho más lograremos si educamos a los jóvenes en el amor al bien que si los educamos en el temor del mal»: mostrar la belleza y bondad de la virtud antes que la maldad del pecado; «no se puede educar sin alegría», siguiendo a San Felipe Neri: «Dejad que estén alegres, con tal que no cometan pecado» [archivo 19]. También la naturaleza educa en la alegría contemplativa: «en los bosques encontrarás algo más que en los libros» (San Bernardo); su silencio facilita la oración y sus bellezas levantan el alma al Creador [archivo 19].
+
 ## Distinciones importantes
 
 - **Alegría cristiana** (gozo de la entrega generosa a Dios y de la coherencia con su llamada) vs. **alegría espiritual** (fruto del Espíritu Santo, gozo de la posesión de Dios en general)

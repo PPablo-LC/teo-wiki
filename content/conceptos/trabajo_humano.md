@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Trabajo humano
 tags: ["doctrina_social"]
 
-timestamp: 2026-06-17
+timestamp: 2026-08-24
 description: "Dimensión fundamental de la existencia humana mediante la cual el hombre participa en la obra de la creación y de la redención, sometiendo y dominando la tierra."
 ---
 # Trabajo humano
 
 > Área: Doctrina Social
-> Última actualización: 2026-06-17
+> Última actualización: 2026-08-24
 
 ## Definición
 
@@ -44,6 +44,10 @@ LE establece el principio de la prioridad del trabajo sobre el capital: el traba
 ### Según la Encíclica Magnífica Humanitas (MH)
 
 León XIV aborda la dignidad del trabajo en la transición digital en los §§148-156 de *Magnífica Humanitas*. Reafirma que el trabajo «no es un simple instrumento, sino que expresa y acrecienta la dignidad de nuestra vida» (§149). Denuncia que la automatización y la IA frecuentemente «desespecializan a los trabajadores, los someten a una vigilancia automatizada y los relegan a tareas rígidas y repetitivas» (§150, citando *Antiqua et nova*). Advierte que el desempleo masivo por la automatización es «un mal grave» que requiere responsabilidad del Estado (§151). Subraya que «el objetivo de obtener mayores beneficios no puede justificar decisiones que sacrifiquen sistemáticamente el empleo» (§152). Propone criterios para gestionar la transición: «establecer criterios sociales para la innovación», «políticas activas de formación continua», y «responsabilidad empresarial que incluya la calidad y la dignidad del trabajo entre los indicadores de éxito» (§156). Retoma la intuición de san Benito de Nursia que unió oración y trabajo (§148).
+
+### Según Juan Pablo II (VocExp)
+
+En *La vocación explicada* (§3a), Juan Pablo II afirma una fórmula sorprendente sobre la dimensión espiritual del trabajo laical: «No hay vocación más religiosa que el trabajo. Un laico católico, hombre o mujer, es alguien que toma el trabajo en serio. Sólo el cristianismo ha dado un sentido religioso al trabajo y reconoce el valor espiritual del progreso tecnológico». El trabajo es el lugar de la santificación del laico: su finalidad es «la santificación de la vida permaneciendo en el mundo, en el propio puesto de trabajo y de profesión: vivir el Evangelio en el mundo, viviendo verdaderamente inmersos en el mundo, pero para transformarlo y redimirlo con el propio amor de Cristo» [VocExp].
 
 ## Relaciones doctrinales
 

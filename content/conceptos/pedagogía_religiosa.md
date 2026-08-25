@@ -25,7 +25,7 @@ Requiere métodos activos que movilicen la participación del corazón, la prác
 
 ### Según Mons. Tihámer Tóth (JvC-Rel)
 
-Tóth critica tres errores pedagógicos recurrentes: el [[intelectualismo]], que reduce la formación a doctrina; el [[voluntarismo]], que se limita a la buena voluntad; y el [[sentimentalismo]], que confunde la emoción con la fe genuina. Propone una pedagogía que forme simultáneamente la mente, la voluntad y los sentimientos, integrando conocimiento, hábito y afecto. Los métodos activos incluyen la dramatización bíblica, la aplicación práctica de la doctrina y la lectura meditada de textos religiosos. El educador debe ser ante todo testigo de vida, pues «la religión se enseña viviéndola». [Archivos 02, 13, 14]
+Tóth critica tres errores pedagógicos recurrentes: el [[intelectualismo]], que reduce la formación a doctrina; el [[voluntarismo]], que se limita a la buena voluntad; y el [[sentimentalismo]], que confunde la emoción con la fe genuina. Propone una pedagogía que forme simultáneamente la mente, la voluntad y los sentimientos, integrando conocimiento, hábito y afecto. Los métodos activos incluyen la dramatización bíblica, la aplicación práctica de la doctrina y la lectura meditada de textos religiosos. El educador debe ser ante todo testigo de vida, pues «la religión se enseña viviéndola». [Archivos 02, 13, 14] Tóth aplica el método activo también a los temas escatológicos —muerte, juicio particular, purgatorio, resurrección, infierno y cielo— mediante preparación en casa, asimilación en clase y práctica posterior (oraciones por los difuntos, jaculatorias para una buena muerte), siempre con aplicación vital: «la fe debe hacerse vida» [Archivo 14].
 
 ## Ver también
 

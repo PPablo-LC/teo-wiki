@@ -38,7 +38,7 @@ El Papa Benedicto XVI, en su audiencia general del 18 de junio de 2008, recordó
 
 ## Relación con otras fuentes
 
-La figura de San Isidoro se menciona en WoF-3 (Evangelization & Culture, Issue 3) como modelo de sabiduría y organización del conocimiento en la era digital.
+La figura de San Isidoro se menciona en EAC-3 (Evangelization & Culture, Issue 3) como modelo de sabiduría y organización del conocimiento en la era digital.
 
 ## Ver también
 
@@ -46,6 +46,6 @@ La figura de San Isidoro se menciona en WoF-3 (Evangelization & Culture, Issue 3
 
 ## Referencias
 
-- WoF-3, 05_lives_patron_internet.md (Matthew Becklo)
+- EAC-3, 05_lives_patron_internet.md (Matthew Becklo)
 - Benedicto XVI, Audiencia general, 18 de junio de 2008
 - Order of Saint Isidore of Seville website

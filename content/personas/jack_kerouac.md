@@ -73,14 +73,14 @@ Paul Maher Jr., en "Kerouac's Visions of Gerard" (§03), desarrolla una teologí
 ## Relaciones doctrinales
 
 - **[[esperanza]]**: La esperanza nace en la oscuridad del sufrimiento; Gerard es testimonio de la esperanza eterna.
-- **[[noche_oscura_del_alma]]**: La muerte de Gerard y la desesperación de la familia son ejemplo de la noche oscura.
+- **[[noche_oscura]]**: La muerte de Gerard y la desesperación de la familia son ejemplo de la noche oscura.
 - **[[martirio]]**: Gerard es visto como un «mártir verde»: un inocente cuya muerte tiene significado espiritual.
 - **[[arte_y_fe]]**: La escritura de Kerouac es un acto de fe: la belleza como vía de acceso a la esperanza.
 - **[[san_judas_tadeo]]**: Como San Judas Tadeo, Gerard es patrono de las cosas desesperadas.
 
 ## Ver también
 
-[[esperanza]], [[noche_oscura_del_alma]], [[martirio]], [[arte_y_fe]], [[san_judas_tadeo]], [[san_maximiliano_kolbe]]
+[[esperanza]], [[noche_oscura]], [[martirio]], [[arte_y_fe]], [[san_judas_tadeo]], [[san_maximiliano_kolbe]]
 
 ## Referencias
 

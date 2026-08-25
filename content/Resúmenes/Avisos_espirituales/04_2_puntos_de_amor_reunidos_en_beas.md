@@ -37,7 +37,7 @@ tags: ["resumen", "avisos espirituales", "teología_mística", "san_juan_de_la_c
 - [[amor_de_dios]] — el amor no consiste en sentir grandes cosas sino en desnudez y padecer
 - [[caridad]] — el alma que anda en amor ni cansa ni se cansa
 - [[fortaleza]] — fortaleza en el corazón contra lo que no es Dios
-- [[pobreza_espiritual]] — alma desnuda de apetitos vestida de pureza
+- [[pobreza_de_espíritu]] — alma desnuda de apetitos vestida de pureza
 - [[confesión_de_fe]] — confesar a Cristo delante de los hombres
 - [[voluntad_de_dios]] — no tener determinación en nada sino en su voluntad
 - [[perfección_cristiana]] — perfección en las virtudes que Dios ve
@@ -64,7 +64,7 @@ Colección de 42 puntos de amor dirigidos a las religiosas carmelitas de Beas:
 16. **Fortaleza:** fortaleza en el corazón contra todo lo que mueve a lo que no es Dios; ser amiga de la pasión de Cristo ([[fortaleza]]).
 17. **Desasimiento interior:** interior desasimiento a todas las cosas; no poner el gusto en temporalidad alguna, y el alma se recogerá a bienes que no sabe ([[desapego]]).
 18. **Amor:** el alma que anda en amor ni cansa ni se cansa ([[caridad]]).
-19. **Desnudez:** al alma que se desnuda de sus apetitos, quereres y no quereres, la viste Dios de su pureza, gusto y voluntad ([[pobreza_espiritual]]).
+19. **Desnudez:** al alma que se desnuda de sus apetitos, quereres y no quereres, la viste Dios de su pureza, gusto y voluntad ([[pobreza_de_espíritu]]).
 20. **Almas que vuelan:** hay almas que se revuelcan en el cieno como animales y otras que vuelan como aves que en el aire se purifican y limpian ([[contemplación]]).
 21. **La palabra del Padre:** una palabra habló el Padre, que fue su Hijo, y esta habla siempre en eterno silencio, y en silencio ha de ser oída del alma ([[verbo_divino]]).
 22. **Medir los trabajos:** los trabajos se han de medir a nosotros, y no nosotros a los trabajos ([[paciencia]]).

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Humildad
 tags: ["moral", "ascética"]
 
-timestamp: 2026-08-22
+timestamp: 2026-08-24
 description: "La humildad es una virtud derivada de la templanza —a través de la modestia— que inclina a cohibir el desordenado apetito de la propia excelencia."
 ---
 # Humildad
 
 > Área: Moral / Ascética
-> Última actualización: 2026-08-22
+> Última actualización: 2026-08-24
 
 ## Definición
 
@@ -133,6 +133,10 @@ El número dedicado al humor presenta la risa de uno mismo como ejercicio privil
 
 **Humildad intelectual (Mendenhall).** «Descubrir verdaderamente el cristianismo requiere cierta madurez y humildad»; la arrogancia juvenil («opio de los pueblos») ofrece sensación de superioridad intelectual que impide ver.
 
+### Según Evangelization & Culture n.º 3 «The Digital Age» (EAC-3)
+
+Elizabeth Scalia narra su propia caída y restauración en Twitter como lección de humildad digital. La complacencia espiritual la había adormecido —«quizás un poco orgullosa: ¡mira qué buena era al no ser mala!»— cuando publicó un tuit mal pensado y especulativo en plena noticia de última hora; «la retribución fue rápida y, hasta cierto punto, justa»: acusaciones de sacrilege y maldad, peticiones de cancelación de su carrera, un «Calendario de Adviento de Malos Católicos». Su balance: «tener que pedir perdón me hizo bien, tanto porque una buena dosis de humildad suele llegar justo cuando la necesitamos». La experiencia le enseñó además el mecanismo inverso: la plataforma inflaba antes su ego con cada «me gusta» (como a Podhoretz, cuya voz se volvió «beligerante, reactiva y despectiva»), y su retirada repentina dejó al descubierto cuánto dependía del afecto químico de la aprobación. El antídoto propuesto es doblemente público, a imagen de Matthew Schmitz, que dedicó la semana de Navidad a pedir disculpas públicas a quienes había menospreciado injustamente: admitir el error —en un medio donde pocos se atreven— y perdonar públicamente, mostrando que «extender una mano en perdón es muestra de fortaleza, antes que de debilidad».
+
 ## Distinciones importantes
 
 - **Humildad vs. magnanimidad**: no son opuestas sino complementarias; una inclina hacia abajo (conteniendo el apetito desordenado), la otra hacia arriba (empujando a empresas grandes por Dios)
@@ -180,5 +184,6 @@ La humildad se manifiesta en la obediencia, el silencio y la renuncia a la propi
 - [SFrAs, Adm. 20, 24, 25 — Humildad verdadera y del siervo]
 - [SFrAs, SalV. 1-9 — Humildad como virtud que confunde vicios]
 - [EAC-8, Issue 8 «Humor», archivos 03, 05, 13, 16, 18]
+- [EAC-3, Issue 3 «The Digital Age», archivo 16 (Scalia)]
 - [SFrAs, RGl II.10 — Humildad en la vida religiosa]
 - [SFrAs, CFr. 25 — Humildad de Cristo en la Eucaristía]

@@ -27,7 +27,7 @@ Los videojuegos satisfacen el anhelo innato de propósito. En un mundo que ofrec
 
 ## La tarea de la Iglesia
 
-Fr. Blake Britton (WoF-3) argumenta que la Iglesia está mejor equipada para satisfacer estas necesidades:
+Fr. Blake Britton (EAC-3) argumenta que la Iglesia está mejor equipada para satisfacer estas necesidades:
 - **Comunidad**: Dios trinitario como fundamento de la comunión interpersonal; la Iglesia como comunidad de hermanos.
 - **Identidad**: Cada persona es hija de Dios, «personalmente reclamada en su Unigénito y única y libremente querida por el amor del Espíritu Santo».
 - **Misión**: Cada ser humano está dotado por el Espíritu con un «invaluable misión, un propósito irremplazable».
@@ -45,7 +45,7 @@ Fr. Blake Britton concluye que la mejor respuesta a la cultura de los videojuego
 
 ## Relación con otras fuentes
 
-WoF-3, 11_science_video_games.md (Fr. Blake Britton).
+EAC-3, 11_science_video_games.md (Fr. Blake Britton).
 
 ## Ver también
 
@@ -53,4 +53,4 @@ WoF-3, 11_science_video_games.md (Fr. Blake Britton).
 
 ## Referencias
 
-- WoF-3, 11_science_video_games.md (Fr. Blake Britton)
+- EAC-3, 11_science_video_games.md (Fr. Blake Britton)

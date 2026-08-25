@@ -35,7 +35,7 @@ Santo Tomás trata la perfección de Cristo en las cuestiones 7-13 de la Tertia 
 
 ## Relaciones doctrinales
 
-Se relaciona con [[gracia_habitual]], [[humanidad_de_cristo]], [[unión_hipostática]], [[conocimiento_de_cristo]], [[voluntad_humana_de_cristo]], [[plenitud_de_gracia]], [[cristo_cabeza_de_la_iglesia]].
+Se relaciona con [[gracia_habitual]], [[humanidad_de_cristo]], [[unión_hipostática]], [[conocimiento_de_cristo]], [[voluntad_humana_de_cristo]], [[plenitud_de_gracia]], [[cabeza_de_la_iglesia]].
 
 ## Ver también
 

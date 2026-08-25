@@ -2,7 +2,7 @@
 type: Persona
 title: Flannery O'Connor
 description: "Escritora católica estadounidense (1925-1964), conocida por sus cuentos y novelas que exploran la gracia, el pecado y lo grotesco en el Sur de EE.UU."
-timestamp: 2026-08-20
+timestamp: 2026-08-24
 tags:
   - literatura
   - arte
@@ -14,7 +14,7 @@ tags:
 # Flannery O'Connor
 
 > Área: Literatura / Teología pastoral
-> Última actualización: 2026-08-20
+> Última actualización: 2026-08-24
 
 ## Definición
 
@@ -39,6 +39,16 @@ Esta cita encapsula la convicción de O'Connor —y de Barron— de que la belle
 **John P. Cush** la incluye entre las figuras que definen la sensibilidad católica de Barron: «la crudeza de O'Connor y la alegría de Chesterton, la poesía de Hopkins y el poder de la Pequeña Teresa».
 
 **Matthew Becklo** la menciona en el contexto de la relación entre misterio y gracia en el arte: «Si no hay misterio en la obra, no hay gracia.»
+
+### Según Evangelization & Culture n.º 1 «Creativity» (EAC-1)
+
+**«Hillbilly Thomist» (Ferenza).** El número inaugural presenta a O'Connor a partir de sus cartas (*The Habit of Being*): «Todos los que han leído *Wise Blood* piensan que soy una nihilista de montaña, mientras que me gustaría crear la impresión, ante la televisión, de que soy una *hillbilly Thomist*». Su rechazo del nihilismo y su fidelidad al tomismo —Dios existe, es razonable creer en Él, el mundo fue creado y redimido por Él— son «esenciales para entenderla». El realismo metafísico tomista moldeó su imaginación religiosa y artística, alimentando su visión «profética, encarnacional y sacramental».
+
+**Fe como fuente de libertad artística.** «Escribo como escribo porque (no aunque) soy católica»; «nunca he tenido la sensación de que ser católica sea un límite para la libertad del escritor, sino todo lo contrario». Vivió ya lo que el Concilio anunciaría: laica católica nutrida por los sacramentos y la tradición intelectual, consagrada a su misión de artista.
+
+**El coste de la fe.** Su consejo pastoral más célebre: «Lo que la gente no se da cuenta es cuánto cuesta la religión. Creen que la fe es una gran manta eléctrica, cuando en realidad es la cruz. Es mucho más difícil creer que no creer... guarda una mente abierta hacia la fe, sigue deseándola, pidiéndola, y deja el resto a Dios».
+
+**Reforma de la Iglesia desde dentro.** Desconfiada de la piedad superficial, no dudaba en criticar presentaciones vacías de la fe: «Lo nuestro es intentar cambiar los defectos externos de la Iglesia —la vulgaridad, la falta de erudición, la falta de honestidad intelectual— dondequiera que los encontremos y como podamos». Y sobre sobrellevar sus crisis: «Es de la naturaleza de la Iglesia sobrevivir a todas las crisis —por muy malparada que salga—»; «La Iglesia está fundada sobre Pedro, que negó a Cristo tres veces y no pudo caminar sobre las aguas por sí mismo». Resumía su experiencia: «Hay que sufrir tanto por la Iglesia como por ella», permaneciendo siempre hija fiel.
 
 ## Distinciones importantes
 
@@ -68,3 +78,4 @@ Esta cita encapsula la convicción de O'Connor —y de Barron— de que la belle
 - Nelson, Matthew. "The Catholic Sensibility of Bishop Barron & The Pivotal Influence of Robert Sokolowski." *Evangelization & Culture*, No. 7, Spring 2021.
 - Cush, John P. "Theology as an Eight-Part Symphony." *Evangelization & Culture*, No. 7, Spring 2021.
 - Becklo, Matthew. "Film: Amadeus." *Evangelization & Culture*, No. 7, Spring 2021.
+- Ferenza, Damian. "Letters from a Hillbilly Thomist." *Evangelization & Culture*, No. 1 (2019); [EAC-1, archivos 07 y 20].

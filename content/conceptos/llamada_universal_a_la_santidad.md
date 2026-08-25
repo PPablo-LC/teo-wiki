@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Llamada universal a la santidad
 tags: ["dogmática", "espiritualidad"]
 
-timestamp: 2026-08-22
+timestamp: 2026-08-24
 description: "La llamada universal a la santidad es la doctrina según la cual todos los fieles cristianos, cualquiera que sea su estado o condición."
 ---
 # Llamada universal a la santidad
 
 > Área: Dogmática / Espiritualidad
-> Última actualización: 2026-08-22
+> Última actualización: 2026-08-24
 
 ## Definición
 
@@ -50,6 +50,12 @@ La gracia santificante, infundida en el alma por el bautismo, hace al hombre hij
 El camino de la santidad se realiza en la fidelidad cotidiana a la gracia, mediante el ejercicio de las virtudes teologales y morales, la oración, los sacramentos y la docilidad a los dones del Espíritu Santo. La perfección de la caridad a la que todos están llamados no se alcanza por fuerzas humanas, sino por la acción de la gracia divina que santiifica y transforma el obrar del creyente.
 
 La plena comprensión y la acogida sin reserva de la llamada divina a la santidad difícilmente se alcanza sin la previa experiencia del pecado y de la conversión. Con la ayuda de la gracia, la llamada a la santidad es ya en este mundo algo concretamente realizable y que debe realizarse, por cuanto Dios nos ha elegido en Cristo «antes de la creación del mundo, para que fuéramos santos y sin mancha en su presencia, por el amor» (Ef 1, 4). Recordar este designio del amor divino y actualizarlo para los hombres de cada época es la tarea principal y perenne de la teología moral. (Ele_Xto_Stos, Cap. XI, §10)
+
+### Según Juan Pablo II (VocExp)
+
+En *La vocación explicada*, Juan Pablo II proclama la universalidad de la llamada: «La convicción que debemos compartir y extender es que la llamada a la santidad está dirigida a todos los cristianos. No se trata del privilegio de una élite espiritual... No se trata de un tranquilo refugio adaptado a cierta forma de piedad o a ciertos temperamentos naturales. Se trata de una gracia propuesta a todos los bautizados, según modalidades y grados diversos».
+
+Define la santidad cristiana en clave de lucha y misericordia: «La santidad cristiana no consiste en ser impecables, sino en la lucha por no ceder y volver a levantarse siempre, después de cada caída». Y precisa su fuente: «no deriva tanto de la fuerza de voluntad del hombre, sino más bien del esfuerzo por no obstaculizar nunca la acción de la gracia en la propia alma, y ser, más bien, sus humildes colaboradores». Cada laico es «una obra extraordinaria de la gracia de Dios» llamado «a las más altas cimas de santidad», con la misión específica de meter el Evangelio, como levadura, en la realidad del mundo [VocExp].
 
 ## Distinciones importantes
 

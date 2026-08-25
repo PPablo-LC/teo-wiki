@@ -35,7 +35,7 @@ Catechism 843 reconoce que los pensadores paganos como Platón y Aristóteles pu
 
 ## Relación con otras fuentes
 
-WoF-3, 21_peripheries_aristotle.md (Matt Nelson) analiza la relevancia de la ética aristotélica para la crítica de las redes sociales y la búsqueda de la verdadera felicidad.
+EAC-3, 21_peripheries_aristotle.md (Matt Nelson) analiza la relevancia de la ética aristotélica para la crítica de las redes sociales y la búsqueda de la verdadera felicidad.
 
 ## Ver también
 
@@ -43,6 +43,6 @@ WoF-3, 21_peripheries_aristotle.md (Matt Nelson) analiza la relevancia de la ét
 
 ## Referencias
 
-- WoF-3, 21_peripheries_aristotle.md (Matt Nelson)
+- EAC-3, 21_peripheries_aristotle.md (Matt Nelson)
 - CEC 843
 - Aristóteles, *Ética a Nicómaco*

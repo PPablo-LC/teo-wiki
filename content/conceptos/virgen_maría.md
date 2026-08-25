@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Virgen María
 tags: ["mariología", "ascética"]
 
-timestamp: 2026-08-06
+timestamp: 2026-08-24
 description: "La Virgen María, Madre de Dios y Madre nuestra, ocupa un lugar singular en la economía de la salvación y en la vida cristiana."
 ---
 # Virgen María
 
 > Área: Mariología / Ascética
-> Última actualización: 2026-08-06
+> Última actualización: 2026-08-24
 
 ## Definición
 
@@ -177,6 +177,16 @@ Benedicto XVI profundiza en la figura de María a partir de los relatos lucanos 
 **Guía última hacia la visión.** En la Comedia, tras la razón (Virgilio) y la teología (Beatriz), San Bernardo da paso a María, Madre de Dios, que introduce a Dante en la visión beatífica.
 
 **La lactancia de María (Colonna).** Soneto n.º 51: «¿no prensaste y vertiste en tu leche, como aceites esenciales estrujados, todo tu ser… para nutrir a todo tu divino Hijo?»; el fuego vivo abrasó tu pecho santo rompiéndote «en luz pura y canto puro»; el espíritu se hendió en el mundo material «sin quemarlo sino alumbrándolo… blanqueando como nieve el oscuro mundo»: total donación materna transfigurada en luz.
+
+### Según Juan Pablo II (VocExp)
+
+En *La vocación explicada* (cap. 4), Juan Pablo II presenta a María como Maestra y modelo de la respuesta vocacional, especialmente para los jóvenes: «Ella es portadora de un signo indeleble de juventud y belleza que no pasan jamás». En las bodas de Caná, tras decir a su Hijo «No tienen vino» (Jn 2,3), pronuncia la frase en que «María se manifiesta realmente como Maestra»: «Haced lo que Él os diga» (Jn 2,5) — mensaje válido para todos los hombres de todos los tiempos: escuchad a Jesús, actuad según su palabra y confiad en Él.
+
+Estas palabras encierran «el secreto más profundo de su vida»: toda Ella está en ese «Sí» profundo al Señor, «lleno de gozo y de confianza». En la Anunciación —«He aquí la esclava del Señor; hágase en mí según tu palabra» (Lc 1,38)— tuvo lugar «el momento de la vocación de María. Y de ese momento dependió la posibilidad misma de la Navidad: sin el "sí" de María, Jesús no hubiera nacido». El Papa exhorta a acoger a María en la propia vida como el Apóstol Juan la acogió «en su casa», dejando que sea Madre y que ayude a encontrar siempre a Cristo para seguirlo por cada uno de los caminos de la vida [VocExp].
+
+### Según Mons. Tihámer Tóth (JvC-Rel)
+
+Tóth recoge de Aparecida la figura de María como «discípula y misionera»: por su fe (Lc 1,45) y obediencia a la voluntad de Dios, y su constante meditación de la Palabra, es «la discípula más perfecta del Señor»; mujer libre y fuerte que vivió toda la peregrinación de la fe hasta estar al pie de la cruz [JvC-Rel, archivo 44]. En clave pedagógica, María es imagen ejemplar de las madres —«guardianas de la vida», maestras del arte de vivir y amar— [archivo 05]; los jóvenes deben empeñarse en fomentar su devoción a la Inmaculada Madre de Dios como ayuda para vivir la castidad [archivo 25]; y bajo su guía los educadores piden audacia apostólica: «Nos ayude la compañía siempre cercana… de María Santísima», que nos enseñe a salir de nosotros mismos «en camino de sacrificio, amor y servicio» [archivo 44].
 
 ## Distinciones importantes
 

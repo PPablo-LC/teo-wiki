@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Gracia actual
 tags: ["dogmática"]
 
-timestamp: 2026-06-08
+timestamp: 2026-08-24
 description: "La gracia actual es un auxilio sobrenatural transitorio que Dios concede al alma para iluminar el entendimiento y mover la voluntad a obrar el bien sobrenatural."
 ---
 # Gracia actual
 
 > Área: Dogmática
-> Última actualización: 2026-06-08
+> Última actualización: 2026-08-24
 
 ## Definición
 
@@ -26,6 +26,10 @@ La gracia actual es un auxilio sobrenatural transitorio que Dios concede al alma
 **Ia-IIae q.111 a.2-3 — Gracia operante, cooperante, preveniente y subsiguiente:** La gracia entendida como moción divina se divide en operante (cuando Dios mueve la voluntad a querer el bien, sin que esta se mueva a sí misma) y cooperante (cuando la voluntad ya movida coopera en la ejecución). También se divide en preveniente (la que precede a un efecto) y subsiguiente (la que sigue a otro), según los cinco efectos de la gracia: sanar, querer el bien, realizarlo, perseverar y alcanzar la gloria (q.111 a.2-3).
 
 **Ia-IIae q.112 a.2 — Preparación para la gracia:** La preparación para la gracia habitual es ya obra de la gracia actual, pues el movimiento del libre albedrío por el que el hombre se dispone procede de la moción divina. Dios es quien mueve interiormente al alma e inspira el buen propósito (q.112 a.2).
+
+### Según Juan Pablo II (VocExp)
+
+En *La vocación explicada*, Juan Pablo II describe la acción de la gracia actual en el proceso vocacional. Ciertas «experiencias de entusiasmo religioso que a veces concede el Señor son únicamente gracias iniciales y pasajeras que tienen por objeto empujar hacia una decidida voluntad de conversión caminando con generosidad en fe, esperanza y amor». La llamada se percibe como «suave soplo a través del toque esclarecedor de la gracia; un soplo del Espíritu Santo que, al mismo tiempo que perfila de verdad nuestra frágil realidad humana, enciende en nuestros corazones una luz nueva» e infunde una fuerza extraordinaria. Ante las reservas que la razón opone a la llamada, «Dios aporta el poder de su gracia», con el cual el hombre consigue la realización de su vocación [VocExp].
 
 ## Relaciones doctrinales
 

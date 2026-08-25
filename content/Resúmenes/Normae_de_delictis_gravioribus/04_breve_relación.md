@@ -13,7 +13,7 @@ tags: ["resumen", "normae_de_gravioribus_delictis", "derecho_canónico", "delict
 ## Conceptos básicos referenciados
 
 - [[delicta_graviora]] — Delitos más graves reservados a la CDF
-- [[prescripción_acción_penal]] — Ampliación a 20 años
+- [[prescripción_de_la_acción_criminal]] — Ampliación a 20 años
 - [[delitos_contra_la_fe]] — Apostasía, herejía y cisma
 - [[eucaristía]] — Delitos contra la santidad del sacramento eucarístico
 - [[sacramento_penitencia]] — Delitos contra la santidad del sacramento de la Reconciliación

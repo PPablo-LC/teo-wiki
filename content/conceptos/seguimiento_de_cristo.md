@@ -63,6 +63,10 @@ El autor insiste en que seguir a Jesús es un proceso permanente e inacabable. L
 
 Cabestrero destaca la dimensión comunitaria del seguimiento: no es un camino solitario, sino que se vive en comunión de amor, de vida y de misión con el Señor y con la comunidad eclesial. La alegoría de la vid y los sarmientos (Jn 15,1-11) expresa esta comunión: «Ningún sarmiento puede producir fruto por sí solo, sin estar unido a la vid».
 
+### Según Juan Pablo II (VocExp)
+
+En *La vocación explicada*, el seguimiento de Cristo se presenta como respuesta a la mirada amorosa del Señor: «Jesús fijando en él la mirada, lo amó y le dijo: ven y sígueme» (Mc 10,21). Descubrir la llamada es «caer en la cuenta de que Cristo tiene fijos los ojos en ti y que te invita con la mirada a la entrega total en el amor». A los que ya cumplen los mandamientos, el Señor les propone metas más elevadas: «Una sola cosa te falta» — más amor, más generosidad, más sacrificio. El Papa contrapone al joven rico, que invitado por Cristo no supo decidirse y permaneció con sus bienes y con su tristeza, a los pescadores que «llamados por Jesús, dejaron todo inmediatamente y llegaron a ser pescadores de hombres». El seguimiento pide no tener miedo «cuando el premio que espera es Dios mismo, a quien, a veces sin saberlo, todo joven busca», y su promesa es la amistad: «Ya no os llamo siervos..., sino que os llamo amigos» (Jn 15,15) [VocExp].
+
 ## Distinciones importantes
 
 - **Seguimiento vs. admiración**: seguir a Cristo implica acción y transformación real de la existencia, no una contemplación distante.

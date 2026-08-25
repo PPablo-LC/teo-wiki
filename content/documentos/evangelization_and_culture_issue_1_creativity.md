@@ -17,7 +17,7 @@ tags:
 > **Tema:** Creativity
 > **Fecha:** 2019
 > **Fuente:** `raw/Bases_doctrinales-raw/Evangelization and culture - 1/`
-> **Código fuente:** WoF-1
+> **Código fuente:** EAC-1
 > **Archivos:** 24
 
 ## Resumen temático
@@ -75,7 +75,7 @@ El editor Bishop Robert Barron abre con una carta que invita a los lectores a «
 
 ## Ver también
 
-[[evangelización]], [[evangelización_digital]], [[belleza]], [[arte]], [[creatividad]], [[encarnación]], [[imagen_de_Dios]], [[nueva_evangelización]]
+[[evangelización]], [[evangelización_digital]], [[belleza]], [[arte]], [[creatividad]], [[imaginación]], [[nihilismo]], [[fra_angelico]], [[encarnación]], [[imagen_de_Dios]], [[vía_de_la_belleza]], [[nueva_evangelización]]
 
 ## Referencias
 

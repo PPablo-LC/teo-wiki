@@ -37,6 +37,10 @@ Benedicto XVI desarrolla el tema del templo en conexión con la purificación de
 
 **El templo del Espíritu y la moral.** La conciencia de ser templo del Espíritu Santo es fundamento de la vida moral cristiana: el cuerpo no es un bien propio del que disponer libremente, sino el santuario donde Dios habita. Esta verdad es la raíz de la moral sexual y de la llamada a la pureza.
 
+### Según Mons. Tihámer Tóth (JvC-Rel)
+
+Tóth aplica la doctrina paulina del cuerpo como templo a la educación de la juventud en la pureza: «al hablar de la dignidad del cuerpo humano, hay que decir que es la morada del alma y templo del Espíritu Santo» [JvC-Rel, archivo 12]. El argumento funda tanto la positiva como la negativa de la castidad educativa: «no podemos tratar al cuerpo a nuestro antojo, porque es templo del Espíritu Santo»; pero tampoco el cuerpo es malo: «no solo nuestra alma es santa, sino también nuestro cuerpo es santo. Nuestro cuerpo es obra de Dios… no es impuro ni es pecaminosa ninguna de sus partes, sino el abuso del mismo. Gracias al instinto sexual nos hacemos partícipes de la fuerza creadora de Dios» [archivo 12]. El Señor «ha querido venir a morar en él (Comunión) y también él está llamado a disfrutar de los goces de la vida eterna» [archivo 12]. Enseñanza práctica para los adolescentes varones: explicarles con serenidad las señales de la maduración sexual, respetando la santidad del propio cuerpo [archivo 12].
+
 ## Distinciones importantes
 
 - El cristiano es templo del Espíritu Santo por la inhabitación divina, no por mérito propio

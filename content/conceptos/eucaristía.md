@@ -295,6 +295,12 @@ Mons. Munilla desarrolla el elemento del altar y el sagrario de la carta de Leó
 
 **El campesino de Ars (CEC 2715).** Citado por Barron en su lectura de Faulkner: «Lo miro a él y él me mira a mí»: la reciprocidad de la mirada ante el Sagrario como condición de nuestro encuentro con Dios.
 
+### Según Mons. Tihámer Tóth (JvC-Rel)
+
+Tóth presenta la comunión como «el centro de la vida cristiana» y complemento educador de la confesión: «la confesión frecuente y bien hecha asegura los frutos de la santa comunión, y la santa comunión aviva el fuego del amor y ayuda a extirpar la raíz de los pecados» [JvC-Rel, archivo 17]. En la comunión «Jesucristo, el divino Maestro, el primer educador de todos los tiempos, entra en el alma y ejerce su tarea educadora»: en los instantes que siguen, «la voluntad se robustece y se afirman los buenos propósitos»; es «la savia que corre de la vid a los sarmientos para santificarlos» [archivo 17]. Recuerda a San Pío X, «el gran Papa de la Eucaristía», que aconsejó la comunión temprana y frecuente [archivo 17].
+
+Los efectos mayores de la comunión es hacernos semejantes a Jesucristo, «que ya no seamos nosotros quienes actuemos sino Cristo en nosotros»; en ella «percibimos el amor inmenso que Jesucristo nos tiene», fuente que elimina «el desaliento ni la baja autoestima» [archivo 17]. Tóth propone una pedagogía concreta: acción de gracias fervorosa tras comulgar, conversación con el Divino Huésped («El Señor está conmigo… ¡No hay cosa más hermosa que poder tener al Señor en la propia alma permanentemente!»), ofrecer la comunión por intenciones apostólicas (los padres, los enfermos, los misioneros), lo cual despierta «el espíritu apostólico»; y unir pequeñas mortificaciones a la preparación [archivo 17]. La comunión frecuente purifica de los defectos cotidianos, refrena las malas inclinaciones y fortalece para no pecar; sus únicos requisitos son «vivir en estado de gracia y hacerlo con buena intención» (véase [[estado_de_gracia]], [[comunión_frecuente]]) [archivo 17]. Aparecida confirma esta centralidad: «La Eucaristía es el lugar privilegiado del encuentro del discípulo con Jesucristo… fuente inagotable de la vocación cristiana e inextinguible del impulso misionero», que da forma eucarística a toda la existencia [archivo 38].
+
 ## Distinciones importantes
 
 - **Transubstanciación**: cambio de sustancia, permaneciendo los accidentes

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Dirección espiritual
 tags: ["ascética", "mística"]
 
-timestamp: 2026-06-14
+timestamp: 2026-08-24
 description: "La dirección espiritual es el arte de conducir las almas progresivamente desde los comienzos de la vida espiritual hasta las cumbres de la perfección cristiana (n.671)."
 ---
 # Dirección espiritual
 
 > Área: Ascética / Mística
-> Última actualización: 2026-06-14
+> Última actualización: 2026-08-24
 
 ## Definición
 
@@ -42,6 +42,10 @@ Además de la dirección espiritual, las Constituciones establecen el diálogo p
 ### Según Mons. Tihámer Tóth (JvC-Rel)
 
 Tóth insiste en la [[dirección_espiritual]] como necesaria en todas las etapas: pequeños escolares, adolescentes y universitarios. El director debe conocer el alma, ser optimista pedagógico, tener coherencia de vida y amor sobrenatural. La dirección espiritual de universitarios requiere abordar la crisis de fe en la universidad y el diálogo [[fe]]-[[razón]]. El acompañamiento espiritual personalizado es irremplazable para el crecimiento en la vida interior [JvC-Rel, Archivos 06, 07, 08, 11, 21].
+
+### Según Juan Pablo II (VocExp)
+
+En *La vocación explicada*, la dirección espiritual aparece como uno de los tres medios para «ver claro el camino» vocacional, junto con la oración y los sacramentos. Juan Pablo II le reconoce una doble nota: puede llevarse **fuera del contexto del sacramento de la Penitencia** e incluso **ser llevada por quien no tiene el orden sagrado**; y su función específica es «ayudar a superar el peligro de la arbitrariedad a la hora de conocer y decidir la propia vocación a la luz de Dios» [VocExp, §Para ver claro el camino]. La recomienda a los jóvenes en el momento decisivo de la elección: meditar en el recogimiento y la oración la elección, escuchar si la voz del Señor resuena en lo más íntimo del corazón, y tras la elección, rezar todavía más por la fortaleza de permanecer [VocExp].
 
 ## Distinciones importantes
 
