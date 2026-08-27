@@ -1,42 +1,41 @@
 ---
 type: ResumenFuente
-title: "Glimpses of the Faith in Rome"
+title: "Glimpses of the Faith in Rome — Dr. Anthony Pagliarini"
 fuente: Evangelization and culture - 1
 capítulo: 16
-timestamp: 2026-08-24
-description: "Resumen de 'Glimpses of the Faith in Rome' — Evangelization and culture - 1"
-tags: ["resumen", "evangelization and culture - 1"]
+timestamp: 2026-08-26
+description: "Resumen del artículo sobre arte cristiano primitivo en Roma"
+tags: ["resumen", "evangelization_and_culture", "arte"]
 ---
 
-# Glimpses of the Faith in Rome
+# Glimpses of the Faith in Rome — Dr. Anthony Pagliarini
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[arte]] — el arte cristiano primitivo como lenguaje de traducción del Verbo
+- [[encarnación]] — la encarnación como modelo del arte que hace perceptible lo divino
+- [[misticismoCristiano]] — la Iglesia como Cuerpo Místico de Cristo
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `16_glimpses_of_the_faith_in_rome.md`
+### La ausencia del crucifijo
 
+Pagliarini comienza con el grafito de Alexamenos (~siglo III) — la representación más antigua de la crucifixión, hecha con burla. Los cristianos tardaron siglos en representar la crucifixión directamente: las puertas de Santa Sabina (siglo V) muestran figuras en oración, no víctimas. La primera representación occidental del sufrimiento de Cristo en la ejecución no aparece hasta el siglo IX. Sin embargo, la muerte de Cristo era central para la fe: Pablo «anuncia a Cristo crucificado» (1 Cor 1,23).
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### La estrategia visual de la victoria
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 3 | H1 | Glimpses of the Faith in Rome |
+La iglesia primitiva en Roma eligió comunicar la Pasión a través de la victoria de Cristo, usando la imaginería del mundo romano. El mosaico del Cristo-Sol (~266) en la Tumba de los Julios muestra a Cristo como Sol Invictus — el Sol invencible. La luz cruciforme de su cabeza recuerda la Pasión, pero presentada como victoria. Junto al mosaico hay imágenes de pescador (Mt 4,19), pastor (Jn 10,1-18) y Jonás — referencias bíblicas.
 
+### Las catacumbas de Santa Priscilla
 
-## Secciones incluidas
+El Buen Pastor se asemeja a Apolo, el hijo de Zeus. En Juan, la imagen del pastor está en un discurso donde Jesús predice su muerte y resurrección (Jn 10,11.17-18). La imagen del Buen Pastor se acompaña de imágenes proféticas: el sacrificio de Isaac (Gn 22) y los tres jóvenes en el horno (Dan 3). Los pavos, cuya carne incorruptible simboliza la resurrección. La mujer en posición de orans, cuya semejanza con Cristo en la cruz no habría pasado desapercibida.
 
+### El sarcófago de Domitilla
+
+Cristo es coronado ante Pilato, pero con una diadema de joyas en lugar de espinas. El chi-rho (☧) en la cruz está rodeado de imaginería imperial: corona de laurel, cabeza de águila (Júpiter), y personificaciones del Sol y la Luna. La escena se presenta como triunfo — no a pesar de la crucifixión sino por medio de ella.
+
+### El arte como traducción
+
+Hopkins: «Cristo juega en diez mil lugares». Los santos no son sustitutos de Cristo, sino sitios donde el Verbo se hace más perceptible. Los rendering de Jesús en el «lenguaje» del mundo romano no estaban divorciados de la realidad histórica del primer siglo. La apropiación de algo romano abre un compromiso más robusto con la fe en toda su realidad histórica.
+
+> «Christus Invictus — Cristo invencible».

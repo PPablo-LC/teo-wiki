@@ -3,40 +3,38 @@ type: ResumenFuente
 title: "The Genius of Paul — N.T. Wright"
 fuente: Evangelization and culture - 5
 capítulo: 9
-timestamp: 2026-08-24
-description: "Resumen de 'The Genius of Paul — N.T. Wright' — Evangelization and culture - 5"
-tags: ["resumen", "evangelization and culture - 5"]
+timestamp: 2026-08-26
+description: "Resumen del artículo sobre el genio de San Pablo"
+tags: ["resumen", "evangelization_and_culture", "paulo", "eclesiología"]
 ---
 
 # The Genius of Paul — N.T. Wright
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[san_pablo]] — el genio teológico, espiritual, literario y organizativo de Pablo
+- [[eclesiología]] — la Iglesia como nuevo templo y signo del reinado de Cristo
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `09_minds_paul.md`
+### El genio de Pablo
 
+Wright compara a Pablo con Mozart, Hopkins y Schweitzer — genios que dominaron campos jóvenes y luego «despegaron verticalmente» para producir resultados que nadie más podría haber pensado. Pablo tenía «fluidez fácil con las Escrituras en hebreo y griego» y luego, «en una ráfaga, una nueva dirección, una nueva coherencia, una nueva pasión». Romanos 8 se lee como «el coda prestissimo de una sonata de Mozart».
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### La eschatología judía
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | The Genius of Paul — N.T. Wright |
+No simplemente «cómo ir al cielo» — Pablo anunciaba que «la nueva creación de Dios había comenzado». El problema cósmico-político judío: «Si nuestro Dios es quien decimos, ¿por qué los adoradores de ídolos nos gobiernan?» Pablo creía que con Jesús, «todas las promesas de Dios encuentran su Sí en él» (2 Co 1:20). Su respuesta mantuvo junto lo cósmico, lo político y lo personal — «una pincelada de genialidad».
 
+### Las tres culturas
 
-## Secciones incluidas
+Pablo estaba en la confluencia de las tres grandes culturas: judía, griega y romana. No era pragmatismo — «era la convicción de que toda verdad es la verdad de Dios y debe, por tanto, ser "capturada"». La fe (pistis) significaba «lealtad» o «confiabilidad» — cuando la gente creía que Jesús había resucitado, eso era la señal de que eran parte de «la nueva familia real».
 
+### La visión de la Iglesia
+
+La comunidad paulina era «multiétnica, polícroma, igualitaria, mutuamente solidaria, basada en la adoración, espiritualmente renovada, culturalmente creativa, socialmente responsable, un grupo de parentesco ficticio, generosa y mirando hacia afuera». La Iglesia como nuevo templo — «donde Dios mismo vendría a habitar por su Espíritu». La Iglesia como signo de que Jesús es el Señor legítimo del mundo, no César.
+
+### La tragedia moderna
+
+«La Iglesia moderna ha olvidado casi por completo esta visión. Hemos tomado las partes de su enseñanza que queremos... y dejado el resto a recoger polvo». «Debimos haber sido, todo este tiempo, el signo al mundo de una manera diferente de ser humanos».
+
+> «La comunidad que Pablo tenía en mente era multiétnica, polícroma, igualitaria, mutuamente solidaria, basada en la adoración, espiritualmente renovada, culturalmente creativa, socialmente responsable».

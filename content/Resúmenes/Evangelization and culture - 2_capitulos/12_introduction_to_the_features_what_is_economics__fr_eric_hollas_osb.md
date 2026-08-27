@@ -1,42 +1,24 @@
 ---
 type: ResumenFuente
-title: "Introduction to the Features: What Is Economics? — Fr. Eric Hollas OSB"
+title: "Introduction to the Features: What Is Economics?"
 fuente: Evangelization and culture - 2_capitulos
 capítulo: 12
 timestamp: 2026-08-24
-description: "Resumen de 'Introduction to the Features: What Is Economics? — Fr. Eric Hollas OSB' — Evangelization and culture - 2_capitulos"
-tags: ["resumen", "evangelization and culture - 2 capitulos"]
+description: "Resumen de la introducción de Fr. Eric Hollas OSB — qué es la economía desde la fe"
+tags: ["resumen", "evangelization_and_culture", "economía"]
 ---
 
 # Introduction to the Features: What Is Economics? — Fr. Eric Hollas OSB
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[economía]] — visión integral de la economía desde la fe católica
+- [[justicia]] — render a César lo que es de César y a Dios lo que es de Dios
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `12_features_intro.md`
+Fr. Eric Hollas presenta la sección de artículos destacados del número sobre economía. Define la economía desde el diccionario Merriam-Webster como «una ciencia social preocupada principalmente por la descripción y el análisis de la producción, distribución y consumo de bienes y servicios». Pero la economía es mucho más: es la madre soltera que sostiene dos trabajos, el agricultor que pierde su sustento, la empresaria emocionada por su empresa.
 
+Desde la perspectiva católica, la economía es render a César lo que es de César y a Dios lo que es de Dios; invertir talentos en lugar de enterrarlos; cuidar a los pobres, cojos y viudas. Es el valor del óbolo de la viuda y la vacuidad del exceso del rico. Es Lázaro pobre en el cielo y el rico atormentado en el infierno.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Introduction to the Features: What Is Economics? — Fr. Eric Hollas OSB |
-
-
-## Secciones incluidas
-
+Presenta los cuatro artículos principales: Matthew Becklo sobre el marco católico de vida económica, Terrence Wright sobre Dorothy Day, Bishop Robert Barron sobre la sabiduría de León XIII y Juan Pablo II, y Mary Hirschfeld sobre la santidad verdadera en la cultura comercial.

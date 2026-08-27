@@ -3,44 +3,38 @@ type: ResumenFuente
 title: "The Havoc & The Glory (original fiction) — Elizabeth Scalia"
 fuente: Evangelization and culture - 4
 capítulo: 18
-timestamp: 2026-08-24
-description: "Resumen de 'The Havoc & The Glory (original fiction) — Elizabeth Scalia' — Evangelization and culture - 4"
-tags: ["resumen", "evangelization and culture - 4"]
+timestamp: 2026-08-26
+description: "Resumen de un guion de ficción cristiana sobre el sufrimiento y la esperanza"
+tags: ["resumen", "evangelization_and_culture", "arte", "ficción"]
 ---
 
 # The Havoc & The Glory (original fiction) — Elizabeth Scalia
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[arte]] — la ficción cristiana como evangelización
+- [[crucifixión]] — el sufrimiento con sentido frente al caos
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `18_fiction_havoc_glory.md`
+### Contexto
 
+Elizabeth Scalia, editora en Word on Fire, argumenta que todos los católicos deberían explorar cómo evangelizar dentro de sus talentos, intereses y pasatiempos — «no limitar nuestra producción a las artes y letras». Chesterton: «Cualquier cosa que valga la pena hacer vale la pena hacerla mal». Ofrece un ejemplo de lo que un guion con temática cristiana podría parecer cuando «es tan desordenado como la vida real, sin llamadas al altar, sin momento iluminado, sin resolución fácil».
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### La escena
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | The Havoc & The Glory (original fiction) — Elizabeth Scalia |
-| 5 | H2 | SCENE |
+Londres de posguerra. Sean, sacerdote católico de unos treinta años, recibe la visita nocturna de Brian, un joven de veintitrés años empapado bajo la lluvia. Brian trae una botella de ginebra — un intento de «suavizar al viejo». Sean lo recibe con humor irlandés, le ofrece whiskey en su lugar. Brian está angustiado: quiere proponer matrimonio a Jane, pero «algo» lo perturba.
 
+### La conversación
 
-## Secciones incluidas
+Sean explore: «¿Es posible que te estás apresurando?». Brian admite que no se siente «fuerte». Sean: «No sé lo que 'fuerte' siente ya». Brian reflexiona sobre su sufrimiento — parece que no tiene propósito a diferencia del sufrimiento de Cristo. Sean responde con la teología del sufrimiento: «Es el gran misterio del amor y del dolor, y por qué nos toca a todos. Cómo respondimos a estas miserias es lo que destruye o salva, al final». La conversación revela cómo Brian busca «arreglar» su vida a través del matrimonio o el servicio militar — como si pudiera declararse a sí mismo fuerte.
 
-# SCENE
+### El sacramento de la confesión
 
-[Contenido de esta sección...]
+Brian refleja la necesidad de hablar — de nombrar sus demonios. «Tienes que decir la palabra si quieres tener dominio sobre ella» — idea de la confession repetida. La amistad cívica y el acompañamiento espiritual son centrales. Sean no ofrece una resolución fácil — solo presencia, humor y verdad.
+
+### Cierre
+
+El guion termina con los dos hombres jugando cartas, conversación animada enmudecida. No hay momento de iluminación, no hay llamada al altar — solo «la gran misterio del amor y del dolor». La fe se presenta como camino, no como respuesta instantánea.
+
+> «Cosas que valen la pena hacer valen la pena hacerlas mal. Hagamos nuestro peor mejor».

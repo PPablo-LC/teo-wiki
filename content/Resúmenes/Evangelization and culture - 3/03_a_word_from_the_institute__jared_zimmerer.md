@@ -4,39 +4,17 @@ title: "A Word from the Institute — Jared Zimmerer"
 fuente: Evangelization and culture - 3
 capítulo: 3
 timestamp: 2026-08-24
-description: "Resumen de 'A Word from the Institute — Jared Zimmerer' — Evangelization and culture - 3"
-tags: ["resumen", "evangelization and culture - 3"]
+description: "Resumen de la palabra del Instituto sobre evangelización digital"
+tags: ["resumen", "evangelization_and_culture", "evangelización_digital"]
 ---
 
 # A Word from the Institute — Jared Zimmerer
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[evangelización_digital]] — el Areopago digital
+- [[nones]] — personas sin afiliación religiosa que buscan sentido
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `03_word_from_institute.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | A Word from the Institute — Jared Zimmerer |
-
-
-## Secciones incluidas
-
+Jared Zimmerer presenta la visión del número sobre la era digital. San Pablo proclamó al «dios desconocido» en el Areopago; las redes sociales son el nuevo Areopago para la evangelización. El Instituto ofrece formación para evangelistas, incluyendo el curso de Fr. Gadberry sobre personalidades y sistemas de creencias. Los «nones» (no afiliados) buscan respuestas a preguntas de sentido, propósito y amor; los debates «ad intra» no les interesan. Dave Rubin se presenta como modelo de cortesía digital.

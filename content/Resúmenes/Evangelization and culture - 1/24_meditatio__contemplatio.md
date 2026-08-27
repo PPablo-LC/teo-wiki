@@ -1,42 +1,33 @@
 ---
 type: ResumenFuente
-title: "Meditatio & Contemplatio"
+title: "Meditatio & Contemplatio — Word on Fire"
 fuente: Evangelization and culture - 1
 capítulo: 24
-timestamp: 2026-08-24
-description: "Resumen de 'Meditatio & Contemplatio' — Evangelization and culture - 1"
-tags: ["resumen", "evangelization and culture - 1"]
+timestamp: 2026-08-26
+description: "Preguntas de reflexión para el lector"
+tags: ["resumen", "evangelization_and_culture"]
 ---
 
 # Meditatio & Contemplatio
 
-## Conceptos básicos referenciados
-
-[Lista de conceptos teológicos tratados aquí.]
-
-
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `24_parting_thoughts.md`
+Ocho preguntas de reflexión para el lector, basadas en el contenido de la revista:
 
+1. ¿Qué acto creativo (arte, arquitectura, música, novelas, cuentos, poesía) ha edificado o desafiado tu fe? Si eres converso o revertido, ¿algún acto creativo jugó un papel en tu conversión?
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+2. ¿Qué ofertas creativas en la cultura moderna has encontrado con un mensaje más profundo y trascendente?
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 3 | H1 | Meditatio & Contemplatio |
+3. ¿Nuestra era científica y técnica está mejorando o sofocando nuestra capacidad creativa? ¿La inteligencia artificial es una amenaza o una campeona de la creatividad?
 
+4. ¿Somos demasiado reacios a comprometernos y evangelizar la cultura moderna? ¿Por qué sí o por qué no?
 
-## Secciones incluidas
+5. ¿Puede lo grotesco y lo impactante, como el que se encuentra en las obras de Flannery O'Connor, ayudarte a crecer en tu fe?
 
+6. ¿Qué lecciones podemos aprender del arte cristiano primitivo?
+
+7. Cada viaje de fe es una historia. Si fueras a contar la tuya, ¿qué dirías?
+
+8. En la evangelización, ¿qué significa «liderar con la belleza»?
+
+Se invita al lector a unirse a la discusión en el sitio web del Word on Fire Institute.

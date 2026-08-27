@@ -4,39 +4,32 @@ title: "The Patron Saint of the Internet — Matthew Becklo"
 fuente: Evangelization and culture - 3
 capítulo: 5
 timestamp: 2026-08-24
-description: "Resumen de 'The Patron Saint of the Internet — Matthew Becklo' — Evangelization and culture - 3"
-tags: ["resumen", "evangelization and culture - 3"]
+description: "Resumen de 'The Patron Saint of the Internet' — San Isidro de Sevilla como patrono digital"
+tags: ["resumen", "evangelization_and_culture", "santos", "evangelización_digital"]
 ---
 
 # The Patron Saint of the Internet — Matthew Becklo
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[santos]] — San Isidro de Sevilla como patrono de internet
+- [[evangelización_digital]] — nueva evangelización en el «continente digital»
+- [[razón]] — enciclopedia de Isidro como sistema de conocimiento
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `05_lives_patron_internet.md`
+### San Isidro, patrono de internet
 
+No hay un santo patrono oficial de internet, pero San Isidro de Sevilla (siglo VI) es cada vez más reconocido como tal. La «Orden de San Isidro» se fundó en 2000 con tres metas: celebrar el tercer milenio, honrar a Isidro como patrono de internet y promover los ideales de caballería cristiana en línea. En 2001, fuentes vaticanas confirmaron que Isidro era el candidato principal, aunque el documento final del consejo pontificio no lo mencionó.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### ¿Por qué Isidro?
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | The Patron Saint of the Internet — Matthew Becklo |
+El internet se define por su capacidad de almacenar y transmitir enormes cantidades de datos. Isidro fue el primer erudito en compilar y sistematizar todo el conocimiento humano existente. Sus *Etymologiae* son una enciclopedia que cita a 154 autores (cristianos y paganos), cubriendo gramática, retórica, medicina, derecho, teología, geografía, agricultura, guerra y más. Influyó en las instituciones educativas de la Edad Media y continuó popular hasta el Renacimiento.
 
+### Contemplación y acción
 
-## Secciones incluidas
+Benedicto XVI reconoció que Isidro entendió el equilibrio entre contemplación y vida activa. «Así como debemos amar a Dios en contemplación, así debemos amar a nuestro prójimo con acción». Su proyecto enciclopédico tenía un fin práctico y evangelizador: los visigodos arrianos gobernaban España en tinieblas intelectuales; Isidro usó el aprendizaje clásico y cristiano para convertir a los reyes visigodos al catolicismo, logrando un renacimiento educativo en Sevilla.
 
+### Ejército de Isidros
+
+El internet nos da acceso instantáneo a casi toda la información humana, pero la desperdiciamos con «estupidez implacable». Necesitamos un «ejército de Isidros» — hombres y mujeres que habiten en la «Etymologiae de Google», tamizando y organizando el conocimiento para humanizar y civilizar el mundo, comunicar el Evangelio y invitar a otros a la Iglesia. Incluye la Oración a San Isidro para rezar antes de usar internet.

@@ -3,40 +3,38 @@ type: ResumenFuente
 title: "Tolstoy's Prosaic Wisdom — Gary Saul Morson"
 fuente: Evangelization and culture - 6_capitulos
 capítulo: 6
-timestamp: 2026-08-24
-description: "Resumen de 'Tolstoy's Prosaic Wisdom — Gary Saul Morson' — Evangelization and culture - 6_capitulos"
-tags: ["resumen", "evangelization and culture - 6 capitulos"]
+timestamp: 2026-08-26
+description: "Resumen del artículo sobre la sabiduría prosaica de Tolstoy"
+tags: ["resumen", "evangelization_and_culture", "literatura"]
 ---
 
 # Tolstoy's Prosaic Wisdom — Gary Saul Morson
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[literatura]] — el «prosaísmo» como comprensión de la vida real
+- [[ética]] — el mal y el bien como productos de pequeños cambios de conciencia
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `06_minds.md`
+### El prosaísmo de Tolstoy
 
+Mientras la mayoría ve la vida como «eventos dramáticos realizados por grandes héroes», Tolstoy argumenta que lo que realmente da forma a la vida son «innumerables eventos prosaicos, generalmente pasados por alto». Creer que los eventos notables son los efectivos es un «error perceptivo, una especie de ilusión óptica mental». En realidad, «los muchos eventos demasiado ordinarios para que alguien los registre pueden ser mucho más poderosos».
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### La experiencia de la guerra
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Tolstoy's Prosaic Wisdom — Gary Saul Morson |
+Como soldado-reportero en Crimea, Tolstoy notó que la experiencia directa de la batalla es «puro caos, una masa de impresiones que no encajan en ningún patrón». Pero los oficiales deben informar, y construyen «relatos coherentes pero falsos — falsos precisamente porque son tan coherentes». Si vuelves a los soldados, «recordarán las cosas de acuerdo con la versión oficial».
 
+### Los «pequeñísimos cambios»
 
-## Secciones incluidas
+El asesinato de Raskolnikov: no fue causado por una teoría, ni decidió en un solo momento. «La suma total de los pequeñísimos cambios de conciencia de Raskolnikov, ocurriendo en el tiempo sin un solo momento decisivo, lo llevaron a cometer el crimen». Tolstoy: «La verdadera vida comienza donde comienza lo diminuto — donde lo que parecen alteraciones diminutas e infinitesimalmente pequeñas tienen lugar».
 
+### El amor por el enemigo
+
+Tolstoy logró lo que Dostoyevsky no pudo: una descripción creíble de amar al enemigo. En *Anna Karenina*, Karenin perdona y ama a su esposa adúltera — no en un salto de sublimidad, sino en «pasos cada vez más finos. El cambio de cada uno al siguiente es tan pequeño que uno no puede dudar de su posibilidad».
+
+### El mal prosaico
+
+El personaje verdaderamente malvado de *Anna Karenina* no es Anna — es Stiva, el encantador hermano de Anna, «que nunca desea daño a nadie. Su mal es enteramente negativo, consistente en lo que no hace». Nunca pudo «mantener en su mente que tenía esposa e hijos». «El mal habita en nuestros pensamientos más ordinarios. Por eso es tan difícil de eliminar».
+
+> «La verdadera vida comienza donde comienza lo diminuto — donde lo que parecen alteraciones diminutas e infinitesimalmente pequeñas tienen lugar».

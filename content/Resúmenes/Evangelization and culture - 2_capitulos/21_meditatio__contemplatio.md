@@ -1,42 +1,33 @@
 ---
 type: ResumenFuente
-title: "Meditatio & Contemplatio"
+title: "Meditatio & Contemplatio — Word on Fire"
 fuente: Evangelization and culture - 2_capitulos
 capítulo: 21
-timestamp: 2026-08-24
-description: "Resumen de 'Meditatio & Contemplatio' — Evangelization and culture - 2_capitulos"
-tags: ["resumen", "evangelization and culture - 2 capitulos"]
+timestamp: 2026-08-26
+description: "Preguntas de reflexión para el lector"
+tags: ["resumen", "evangelization_and_culture"]
 ---
 
 # Meditatio & Contemplatio
 
-## Conceptos básicos referenciados
-
-[Lista de conceptos teológicos tratados aquí.]
-
-
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `21_parting_thoughts.md`
+Ocho preguntas de reflexión para el lector, basadas en el contenido de la revista:
 
+1. ¿Qué aspecto tiene una economía católica? ¿Qué dice la Iglesia sobre la propiedad privada, el empresariado, las ganancias y el bien común? ¿Qué significan los términos subsidiariedad y solidaridad en tu vida?
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+2. La Dra. Mary Hirschfeld señala que a menudo «nuestras aspiraciones en el mercado están en tensión con las afirmaciones del Evangelio». ¿Estás trabajando en ser económicamente virtuoso? ¿Cómo se evidencia tu fe católica en las decisiones económicas que tomas cada día?
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Meditatio & Contemplatio |
+3. ¿Cómo se entrelazan las vidas de los santos y la economía? ¿Qué podemos aprender de los santos descritos por Matthew Becklo?
 
+4. ¿Cómo es relevante el pensamiento de Dorothy Day en nuestras vidas de hoy?
 
-## Secciones incluidas
+5. En la entrevista de Mission, Peggy Haslar habló sobre la importancia de una «iglesia hogar». ¿Estás de acuerdo? ¿Tienes una «iglesia hogar»?
 
+6. ¿Cuál es el problema con el cientifismo, y cuál es la respuesta del catolicismo?
+
+7. El Papa San Pablo VI afirmó que los artistas cumplen un «ministerio casi sacerdotal». ¿Estarías de acuerdo? ¿Cómo es así?
+
+8. ¿Cómo podemos evitar pasar por alto los «milagros cotidianos» en nuestras vidas? ¿Cuál es nuestro papel en servir como instrumentos de Dios para efectuarlos?
+
+Se invita al lector a unirse a la discusión en el sitio web del Word on Fire Institute.

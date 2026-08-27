@@ -4,39 +4,31 @@ title: "Pascal and the Dark Quest — Dr. Thomas Hibbs"
 fuente: Evangelization and culture - 3
 capítulo: 8
 timestamp: 2026-08-24
-description: "Resumen de 'Pascal and the Dark Quest — Dr. Thomas Hibbs' — Evangelization and culture - 3"
-tags: ["resumen", "evangelization and culture - 3"]
+description: "Resumen de 'Pascal and the Dark Quest' — las búsquedas oscuras en el cine y la filosofía"
+tags: ["resumen", "evangelization_and_culture", "cine", "filosofía"]
 ---
 
 # Pascal and the Dark Quest — Dr. Thomas Hibbs
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[fe]] — la búsqueda de luz en la oscuridad
+- [[razón]] — límites del progresismo y la Ilustración
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `08_film_pascal_dark_quest.md`
+### Dark quests en el cine
 
+Hibbs distingue entre películas que buscan y celebran la oscuridad por sí mismas, y aquellas que sitúan personajes en la oscuridad y los envían a una búsqueda de luz. Las dark quests cuestionan las suposiciones ingenuas de la Ilustración secular sobre progreso, conocimiento y libertad. El cine clásico noir y la ciencia ficción encarnan una «dialéctica de la Ilustración» — el deseo de controlar todo genera una nueva esclavitud.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### Pascal y el progresismo
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Pascal and the Dark Quest — Dr. Thomas Hibbs |
+Pascal, matemático y apologista católico, reconoció que la ambición progresista de ser «señores y poseedores de la naturaleza» (Descartes) aumenta la alienación humana. La negación de un propósito inherente en la vida humana, la aspiración a controlar toda la naturaleza, deja a la persona humana a la deriva en un cosmos silencioso y carente de sentido, «llenándola de espanto».
 
+### Joker vs. Breaking Bad
 
-## Secciones incluidas
+Joker reduce el mal del protagonista a abuso físico y mental, presentando a sus víctimas como merecedoras de su ira. A diferencia, Breaking Bad muestra el gran costo — para víctimas inocentes, la familia, y el alma — del abrazo de los pecados capitales (orgullo, envidia, ira). La degeneración en el mal se basa en mentiras a uno mismo. Pascal: «Nos ocultamos y disfrazamos de nosotros mismos». La aspiración a liberarse de todo orden humano y natural es una libertad ilusoria.
 
+### Revelación limitada
+
+Cita de Flannery O'Connor: el arte es «una revelación limitada pero una revelación no obstante». O'Connor: «No debemos buscar en el artista aseguranza, sino una revelación de lo que somos».

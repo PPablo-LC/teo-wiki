@@ -4,58 +4,22 @@ title: "Christ Sightings: A Triptych (poem) — Angela Alaimo O'Donnell"
 fuente: Evangelization and culture - 3
 capítulo: 6
 timestamp: 2026-08-24
-description: "Resumen de 'Christ Sightings: A Triptych (poem) — Angela Alaimo O'Donnell' — Evangelization and culture - 3"
-tags: ["resumen", "evangelization and culture - 3"]
+description: "Resumen del poema 'Christ Sightings: A Triptych' de Angela Alaimo O'Donnell"
+tags: ["resumen", "evangelization_and_culture", "poesía"]
 ---
 
 # Christ Sightings: A Triptych (poem) — Angela Alaimo O'Donnell
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[jesucristo]] — presencia de Cristo en la historia y la vida
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `06_poetry_christ_sightings.md`
+Poema triptico que busca la presencia de Cristo en tres escenarios de Tierra Santa:
 
+**I. The Storm Chaser** — Montaña de las Bienaventuranzas, Lago de Galilea. Jesús de pie en la proa de la barca, brazos levantados en súplica a los cielos, mientras los discípulos yacen postrados en el temor. Cristo como figura de puro movimiento divino, su amor infinito desafiando al mar.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**II. The Thief** — Capilla del Encuentro, Magdala. La mujer hemorroísa que toca el manto de Jesús (Mc 5:31). La poeta la llama «mujer Prometeo que no aceptó un no por respuesta». «Robó su fuego» — un «momento Midas inverso» donde ella tomó lo que su dios anterior no le daría. Su fe súbita, su largo tormento, su toma del centro palpitante del amor del Señor.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Christ Sightings: A Triptych (poem) — Angela Alaimo O'Donnell |
-| 3 | H2 | The Storm Chaser I. |
-| 39 | H2 | II. — The Thief |
-| 73 | H2 | III. |
-| 77 | H2 | Via Dolorosa |
-
-
-## Secciones incluidas
-
-# The Storm Chaser I.
-
-[Contenido de esta sección...]
-
-# II. — The Thief
-
-[Contenido de esta sección...]
-
-# III.
-
-[Contenido de esta sección...]
-
-# Via Dolorosa
-
-[Contenido de esta sección...]
+**III. Via Dolorosa** — Estación V, Capilla de San Simón de Cirene. La piedra lisa con una hollow donde Jesús supuestamente apoyó su mano al tropezar con la cruz. «Pon tu mano en mi costado, dijo Cristo a Tomás. Yo puse mi mano en el hueco de la pared.» La mano del hombre sufriente, del tamaño del pecado de la poeta. «En este lugar sentí que nuestras manos se tocaban».

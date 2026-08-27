@@ -3,40 +3,24 @@ type: ResumenFuente
 title: "A Word from the Institute — Jared Zimmerer"
 fuente: Evangelization and culture - 4
 capítulo: 3
-timestamp: 2026-08-24
-description: "Resumen de 'A Word from the Institute — Jared Zimmerer' — Evangelization and culture - 4"
-tags: ["resumen", "evangelization and culture - 4"]
+timestamp: 2026-08-26
+description: "Resumen de la palabra del Instituto sobre cine y evangelización"
+tags: ["resumen", "evangelization_and_culture", "cine"]
 ---
 
 # A Word from the Institute — Jared Zimmerer
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[cine]] — el cine como medio de evangelización
+- [[belleza]] — la belleza como poder transformador del cine
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `03_word_from_institute.md`
+Jared Zimmerer presenta la visión del número: el cine tiene una «cualidad transformadora única» que los evangelizadores deben usar. Bishop Barron ha comunicado verdades espirituales perennes con reseñas de películas como *The Departed*, *Gran Torino* y *Cinderella*. Las imágenes e historias del cine tienen la cualidad arrestante que Hans Urs von Balthasar conectó con el poder de la belleza. Los evangelizadores deben amar el cine tanto como la cultura lo ama.
 
+### Actualizaciones del Instituto
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | A Word from the Institute — Jared Zimmerer |
-
-
-## Secciones incluidas
-
+- Subvención de la John Templeton Foundation para un proyecto de 3 años: cursos filmados, eventos públicos y películas sobre la relación entre ciencia y fe (la falsa dicotomía entre ambas está entre las principales razones por las que la gente deja de creer en Dios).
+- Curso de Dr. Jennifer Frey: *Happiness and the Meaning of Life* — análisis filosófico y literario del deseo humano de felicidad (Platón, Aristóteles, Tomás de Aquino, Elizabeth Anscombe).
+- Curso de Zimmerer: *The Evangelical Spirituality of Thomas Merton* — marcos para la espiritualidad en un tiempo de «espiritual pero no religioso». Referencias a Bruce Lee, Joe Rogan, Jocko Willink como ejemplos de ascetismo.

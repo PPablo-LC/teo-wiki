@@ -3,40 +3,34 @@ type: ResumenFuente
 title: "The Saint of the Hopeless — Matthew Becklo"
 fuente: Evangelization and culture - 6_capitulos
 capítulo: 2
-timestamp: 2026-08-24
-description: "Resumen de 'The Saint of the Hopeless — Matthew Becklo' — Evangelization and culture - 6_capitulos"
-tags: ["resumen", "evangelization and culture - 6 capitulos"]
+timestamp: 2026-08-26
+description: "Resumen del artículo sobre San Judas Tadeo como patrón de las causas desesperadas"
+tags: ["resumen", "evangelization_and_culture", "santos"]
 ---
 
 # The Saint of the Hopeless — Matthew Becklo
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[sanJudasTadeo]] — el patrón de las causas desesperadas
+- [[esperanza]] — la intercesión de los santos en momentos de desesperación
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `02_lives.md`
+### San Judas y la confusión con Judas Iscariote
 
+San Judas Tadeo, uno de los doce apóstoles, fue «olvidado por muchos» porque su nombre fue confundido con el de Judas Iscariote. «El nombre del traidor ha causado que muchos te olviden, pero la Iglesia verdadera te invoca universalmente como patrón de las causas desesperadas». La traducción al inglés «Jude» buscaba aclarar esta confusión.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### Los testimonios
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | The Saint of the Hopeless — Matthew Becklo |
+**Danny Thomas** (comediante maronita): puso sus últimos $7 en la colecta. Al día siguiente le ofrecieron un papel que pagaba 10 veces más. Hizo una promesa a San Judas: «Ayúdame a encontrar mi camino en la vida, y te construiré un santuario». Fundó el St. Jude Children's Research Hospital.
 
+**Aaron Neville** (cantante de soul): marcado por delitos menores y prisión, atribuyó su liberación a la devoción a San Judas, transmitida por su madre. Enfrentó una sentencia de 1-14 años por allanamiento — escapó. En una recaída en heroína, volvió a Judas — de nuevo escapó.
 
-## Secciones incluidas
+**Brian Setzer** (The Brian Setzer Orchestra): escribió la canción «St. Jude» — «Estamos solos en este gran mundo / y el tiempo se nos escapa / la espiritualidad es cosa del pasado / y es algo que el dinero no puede comprar».
 
+### La experiencia personal de Becklo
+
+En 2019 — «año de desorden, enfermedad y muerte» — asistía a una Misa diaria en una capilla. Solo después se dio cuenta de que era la Capilla de San Judas, con una estatua del santo. «Por supuesto que este apóstol olvidado también estaría cerca de nosotros, sutilmente, en nuestra hora de oscuridad».
+
+> «Quizás San Judas es justo la persona con la que deberías hablar».

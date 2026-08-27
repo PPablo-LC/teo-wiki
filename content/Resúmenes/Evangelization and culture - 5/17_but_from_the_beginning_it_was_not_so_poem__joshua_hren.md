@@ -3,40 +3,23 @@ type: ResumenFuente
 title: "But From the Beginning It Was Not So (poem) — Joshua Hren"
 fuente: Evangelization and culture - 5
 capítulo: 17
-timestamp: 2026-08-24
-description: "Resumen de 'But From the Beginning It Was Not So (poem) — Joshua Hren' — Evangelization and culture - 5"
-tags: ["resumen", "evangelization and culture - 5"]
+timestamp: 2026-08-26
+description: "Resumen del poema sobre el divorcio y la reconciliación"
+tags: ["resumen", "evangelization_and_culture", "arte"]
 ---
 
 # But From the Beginning It Was Not So (poem) — Joshua Hren
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[sacramento_del_matrimonio]] — el divorcio y la gracia de la reconciliación
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `17_poetry_hren.md`
+El poema de Joshua Hren ofrece una meditación sobre el divorcio, la culpa y la reconciliación. La epígrafe de Kierkegaard (*Either/Or*): «Uno siempre debe guardar contra establecer una relación vital por la cual uno pueda llegar a ser muchos... Si tiene una esposa, es difícil; si tiene una esposa y quizás hijos, es formidable; si tiene una esposa y niños, es imposible».
 
+El poema narra a un hombre que repite «los ardides que había forjado» —/frases estereotipadas de un grupo de apoyo de divorcio: «Solíamos ayudarnos el uno al otro, ya no lo hacemos, te estoy estorbando, y tú a mí, ¿cuándo fue la última vez que fuiste feliz, cariño?» Huye del grupo, embriagado por «el consejo que me había engordado como a un cerdo». Encuentra a su esposa limpiando manchas de inodoros — «despojada de palabras con las que ser discreta, te robé lana de acero, limpié hasta ruinas la enorme torre que rodeaba mi alma».
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+La reconciliación llega a través del acto cotidiano — limpiar juntos —, no de una epifanía dramática. «Libre de la viga y viendo solo motas, besé la torre de marfil — tu cuello. Tú diste la misericordia tartamudea a través de tus labios, la llevaste como a nuestros niños a través de tus caderas».
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | But From the Beginning It Was Not So (poem) — Joshua Hren |
-
-
-## Secciones incluidas
-
+El poema cierra con la imagen del beso y la misericordia encarnada — la gracia que llega a través del acto humilde de servicio, no de la grandilocuencia.

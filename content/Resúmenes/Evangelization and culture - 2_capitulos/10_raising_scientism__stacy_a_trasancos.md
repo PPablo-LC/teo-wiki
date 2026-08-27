@@ -4,39 +4,32 @@ title: "Raising Scientism — Stacy A. Trasancos"
 fuente: Evangelization and culture - 2_capitulos
 capítulo: 10
 timestamp: 2026-08-24
-description: "Resumen de 'Raising Scientism — Stacy A. Trasancos' — Evangelization and culture - 2_capitulos"
-tags: ["resumen", "evangelization and culture - 2 capitulos"]
+description: "Resumen de 'Raising Scientism' de Stacy A. Trasancos — el scientismo como adolescencia de la ciencia"
+tags: ["resumen", "evangelization_and_culture", "ciencia", "filosofía"]
 ---
 
 # Raising Scientism — Stacy A. Trasancos
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[ciencia]] — nacida del cristianismo occidental según la tesis de Fr. Jaki
+- [[filosofía]] — necesidad de unidad entre ciencia, filosofía y teología
+- [[razón]] — límites del método científico
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `10_science_raising_scientism.md`
+### La ciencia nacida del cristianismo
 
+Trasancos presenta la tesis del padre Stanley L. Jaki: la ciencia moderna surgió como disciplina viable en el Occidente cristiano como resultado directo de la revelación divina del Dios trino y encarnado. Otras religiones (China, Babilonia, Grecia, India, Mesopotamia, Egipto, Arabia) mantenían formas de panteísmo: Dios(es) existía(n) dentro de o era(n) idéntico(s) a la naturaleza. Si el tiempo es un ciclo eterno, no se espera progreso; si el universo tiene voluntad propia, no puede seguir leyes matemáticas rígidas. En contraste, la psicología cultural del cristianismo inspiró a los estudiosos a descubrir las leyes sistemáticas de la naturaleza.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### La analogía del nacimiento
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 3 | H1 | Raising Scientism — Stacy A. Trasancos |
+Jaki usa la analogía del nacimiento: otras culturas antiguas produjeron logros científicos (griegos, árabes), pero la ciencia moderna fue «nacida muerta» en esas matrices culturales. El cristianismo no produjo la ciencia solo, del mismo modo que una madre no produce un bebé sin un esposo, familia o comunidad.
 
+### El scientismo como adolescencia
 
-## Secciones incluidas
+La ciencia moderna creció rápidamente desde la revolución científica del siglo XVI, pero su crecimiento trajo «dolores de crecimiento». El scientismo — «incómodo con sus ideas, largo con su alcance, hubristic con su arrogancia» — es la creencia de que la ciencia es el único medio para descubrir nuevo conocimiento. Piensan como Sam Harris (libre albedrío como ilusión), Stephen Hawking (el cerebro es una computadora que se desgasta) y Richard Dawkins (no hay diseño, propósito, bien ni mal).
 
+### La ciencia necesita a su madre
+
+La Iglesia Católica es «madre de la ciencia». Los católicos deben «criar al scientismo» — completar la revolución científica y llevar a la ciencia de vuelta a su unidad con filosofía y teología, pero de manera nueva y madura. «La naturaleza es creación. La ciencia es el estudio de la obra de Dios. Las teorías científicas son solo nuestra forma de intentar comprender la mente de Dios.» Los católicos no deben burlarse de los no creyentes, sino ser «los adultos en la sala»: tranquilos, seguros y claros.

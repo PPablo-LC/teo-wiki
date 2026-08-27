@@ -1,56 +1,48 @@
 ---
 type: ResumenFuente
-title: "The Literary Devices of Jesus’ Evangelization — Dr. Holly Ordway"
+title: "The Literary Devices of Jesus' Evangelization — Dr. Holly Ordway"
 fuente: Evangelization and culture - 5
 capítulo: 13
-timestamp: 2026-08-24
-description: "Resumen de 'The Literary Devices of Jesus’ Evangelization — Dr. Holly Ordway' — Evangelization and culture - 5"
-tags: ["resumen", "evangelization and culture - 5"]
+timestamp: 2026-08-26
+description: "Resumen de los dispositivos literarios de Jesús en la evangelización"
+tags: ["resumen", "evangelization_and_culture", "biblia", "literatura"]
 ---
 
-# The Literary Devices of Jesus’ Evangelization — Dr. Holly Ordway
+# The Literary Devices of Jesus' Evangelization — Dr. Holly Ordway
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[literatura]] — la Biblia como obra literaria inspirada
+- [[parábola]] — la metáfora como herramienta de evangelización
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `13_feature_ordway.md`
+### La Escritura como obra literaria
 
+«La inspiración por el Espíritu Santo no las hace menos literarias, del mismo modo que la gracia del Bautismo no nos hace menos encarnados». La Biblia tiene «su propia forma, estilo y propósito». Dios podría haber causado que las Escrituras se escribieran de manera uniforme — «pero no lo hizo». Los autores humanos eligieron una amplia gama de formas: «poesía así como prosa, historia así como historia, cartas así como listas, imágenes fantásticas así como eventos factuales».
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### Jesús como maestro literario
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | The Literary Devices of Jesus’ Evangelization — Dr. Holly Ordway |
-| 39 | H2 | VINES AND SHEPHERDS |
-| 73 | H2 | THE SAVOR OF A TRUE METAPHOR |
-| 85 | H2 | BECOMING SCRIBES OF THE KINGDOM |
+Jesús era «un maestro en el uso de dispositivos literarios — hipérbole, humor, color, contraste — y si la Palabra encarnada de Dios encuentra valiosas estas técnicas, debemos prestar atención».
 
+### Dos enfoques: logos y poeima
 
-## Secciones incluidas
+C.S. Lewis en *An Experiment in Criticism*: debemos acercarnos a la Escritura tanto como «algo dicho» (logos) como «algo hecho» (poeima). El primer paso es examinar los textos como cosas que han sido «hechas» — entender cómo funciona como obra de arte literaria antes de entender qué dice.
 
-# VINES AND SHEPHERDS
+### La parábola como herramienta evangélica
 
-[Contenido de esta sección...]
+La parábola no es mero adorno — «es parte del enfoque completo de Jesús para predicar y enseñar». «Las personas solo comienzan a preguntarse si algo es verdadero o falso si encuentran la afirmación significativa». La metáfora presenta un concepto mediante una comparación de dos cosas que parecen muy diferentes — «su poder en la evangelización radica en que nos involucra activamente, guiándonos a comprender una idea más completamente de lo que podríamos con una afirmación literal de hecho».
 
-# THE SAVOR OF A TRUE METAPHOR
+### La vid y el pastor
 
-[Contenido de esta sección...]
+Jesús: «Yo soy la vid verdadera» (Jn 15:1) — la combinación de metáfora y explicación involucra tanto la imaginación como la razón. «Un jardinero sabe que una rama cortada de una planta parecerá verde y llena de vida por un tiempo, pero inevitablemente se marchitará y secará». El «Buen Pastor» (Jn 10:11) — Juan aclara que es una «figura de habla» (Jn 10:6) cuando hay «la más leve posibilidad» de confusión.
 
-# BECOMING SCRIBES OF THE KINGDOM
+### La Eucaristía como no-metáfora
 
-[Contenido de esta sección...]
+Jn 6:51: «Yo soy el pan vivo que bajó del cielo». La audiencia estaba confundida — «¿Cómo puede este hombre darnos su carne para comer?» (Jn 6:52). Pero Juan NO lo identifica como «figura de habla» — a diferencia del Buen Pastor. «Sería extraño que dejara esta afirmación sin interpretación si fuera una metáfora, especialmente dado que es precisamente por esta enseñanza que pierde a muchos de sus discípulos» (Jn 6:66). «Si no fuera literal, ¿de qué exactamente sería metáfora?».
+
+### Ser escribas del Reino
+
+Mt 13:52: «Todo escriba bien instruido en el Reino de los cielos es semejante a un señor de casa que saca de su tesoro cosas nuevas y antiguas». Los artistas visuales, cineastas y escritores creativos pueden «dar vida a estas imágenes vitales para que la gente tenga un rico almacén de significado y asociaciones adecuadas».
+
+> «Jesús era un maestro en el uso de dispositivos literarios — y si la Palabra encarnada de Dios encuentra valiosas estas técnicas, debemos prestar atención».

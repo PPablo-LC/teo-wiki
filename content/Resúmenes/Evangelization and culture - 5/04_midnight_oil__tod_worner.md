@@ -3,49 +3,38 @@ type: ResumenFuente
 title: "Midnight Oil — Tod Worner"
 fuente: Evangelization and culture - 5
 capítulo: 4
-timestamp: 2026-08-24
-description: "Resumen de 'Midnight Oil — Tod Worner' — Evangelization and culture - 5"
-tags: ["resumen", "evangelization and culture - 5"]
+timestamp: 2026-08-26
+description: "Resumen de las reflexiones sobre lectura, El tordo de Camus y la fe"
+tags: ["resumen", "evangelization_and_culture", "filosofía"]
 ---
 
 # Midnight Oil — Tod Worner
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[fe]] — el sentido de la vida en medio del caos
+- [[filosofía]] — Camus y el absurdo frente al misterio crístico
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `04_midnight_oil.md`
+### Los dos lectores
 
+Fenómeno: al releer un libro, somos «el mismo pero bastante diferente». El lector joven: entusiasta, impaciente, a menudo deja el libro a medias. El lector mayor: «más sabio y más discerniente» — busca no solo lo que el libro es, sino lo que significa. «Una segunda lectura no es una re-lectura; es una lectura más completa». Heraclito: «Ningún hombre pisa dos veces el mismo río».
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### El tardo de Camus
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Midnight Oil — Tod Worner |
-| 107 | H2 | Sea Fever — John Masefield |
-| 131 | H2 | Books Received |
+Releyó *La peste* en medio de la pandemia. Una ciudad portuaria francesa en Argelia se ve afectada por una epidemia de peste bubónica. Los líderes son inciertos, las burocracias ineficientes — cada persona enfrenta la pregunta urgente: «¿Qué debo hacer en un tiempo de peste?». Dr. Rieux, ateu, trabaja hasta el agotamiento ayudando a enfermos — «no es cuestión de heroísmo. Es una cuestión de decencia común». Camus, ateu pero buscador, «lucha con sensibilidades profundamente católicas relevantes para nuestro propio tiempo de peste: el sentido de la vida en una era de incertidumbre. La llamada a la decencia en una era de dureza. Si estas sensibilidades no son insinuaciones de Cristo, no sé qué son».
 
+### El mito de Sísifo
 
-## Secciones incluidas
+Sísifo condenado a empujar una roca cuesta arriba para verla caer de nuevo. Los nazis usaron tareas sísifas para destruir el espíritu. Camus: la respuesta no es rendirse al sinsentido, sino «encontrar un significado extrañamente satisfactorio en la lucha misma». Pero como católicos, «no estamos inciertos de la respuesta a la pregunta del significado: es Cristo y su Iglesia». «La piedra que empujamos es ayudada por el Espíritu Santo. Y al llegar a nuestro destino, la piedra no rebota penosamente cuesta abajo — es asumida a hombros de Cristo». «Nuestra piedra ya ha sido retirada. Está en paz, Sísifo».
 
-# Sea Fever — John Masefield
+### Memento mori
 
-[Contenido de esta sección...]
+La esposa de Worner: «Solo hay dos momentos para preocuparse verdaderamente: ahora y en la hora de mi muerte». Mr. Crouchback en *Sword of Honor* de Waugh: en Misa diaria y caminatas diarias, solo dos cosas importaban — ahora y la hora de su muerte. La medalla de Nuestra Señora de Lourdes que protegió a Gervase «no solo en la muerte, sino en la vida». «La eternidad importa no simplemente cuando estamos en el umbral de la muerte. Importa ahora — este minuto y cada minuto».
 
-# Books Received
+### Naturaleza y asombro
 
-[Contenido de esta sección...]
+«Ve y observa: Las montañas imponentes. El mar sin fondo. Los bosques impenetrables. El cielo sin límites. Ve y admira. En este viaje incierto, en estos tiempos inquietantes, recuerda: Dios está aquí. Majestuosamente, gobierna. Pero íntimamente, alivia. Sé quieta, mis amigos, y está en paz».
+
+> «La piedra que empujamos es ayudada por el Espíritu Santo. Al llegar a nuestro destino, la piedra no rebota penosamente cuesta abajo — es asumida a hombros de Cristo».

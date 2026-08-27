@@ -1,42 +1,41 @@
 ---
 type: ResumenFuente
-title: "Encounters with Flannery O'Connor"
+title: "Encounters with Flannery O'Connor — Tod Worner & Joe Gloor"
 fuente: Evangelization and culture - 1
 capítulo: 20
-timestamp: 2026-08-24
-description: "Resumen de 'Encounters with Flannery O'Connor' — Evangelization and culture - 1"
-tags: ["resumen", "evangelization and culture - 1"]
+timestamp: 2026-08-26
+description: "Resumen de la entrevista sobre la producción documental de Flannery O'Connor"
+tags: ["resumen", "evangelization_and_culture", "cine"]
 ---
 
-# Encounters with Flannery O'Connor
+# Encounters with Flannery O'Connor — Tod Worner & Joe Gloor
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[cultura]] — el cine como herramienta de evangelización
+- [[evangelización]] — contar la historia de un alma para evangelizar
+- [[arte]] — Flannery O'Connor como escritora católica del Sur profundo
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `20_spotlight_flannery_oconnor.md`
+### Por qué O'Connor es una Jugadoraclave
 
+Gloor: «Flannery es una narradora católica sin igual». Su vida es santa y trágica. Su escritura revela algo único sobre la Iglesia y sobre Dios. Los documentales exitosos entretienen llevando a los espectadores a una subcultura a la que de otro modo no tendrían acceso. El mundo denso de pensamiento de O'Connor, en los bosques del Sur profundo, tiene una calidad incomparable lista para ser admitida.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### Filmar a Flannery
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Encounters with Flannery O'Connor |
+Gloor: «Mostrar toda a Flannery con sus maravillosas complejidades y yuxtaposiciones». Ella se describe a sí misma como «una hillbilly tomista» — un título amplio. Estilísticamente es «una sinfonía de banjo a toda marcha, tocando himnos extraños en un mundo sordo». El equipo filmó cada lugar donde O'Connor vivió: su dormitorio de infancia, sus universidades, su granja de muerte, los bosques donde sus historias viven.
 
+### El equipo detrás de cámara
 
-## Secciones incluidas
+Bishop Barron como autor y presentador, Fr. Steve Grunow como productor ejecutivo, Gloor como productor, Matt Leonard como director, John Cummings como camarógrafo. Un equipo pequeño y comprometido. Barron: «One Take Bob» — siempre graba en una toma, memorizando cantidades increíbles de texto cada día.
 
+### La señal de O'Connor
+
+O'Connor: «No puedo pensar en nadie en el siglo XX que muestre la extrañeza del catolicismo mejor que Flannery O'Connor.» En un tiempo en que la cultura intenta desesperadamente conformar todas las cosas a sí misma, necesitamos mantener el catolicismo extraño. «Nuestra extrañeza nos hace santos — apartados — y ofrece una alternativa stark y hermosa al indifferentismo secular insípido.»
+
+### El impacto personal de Gloor
+
+«Parker's Back» — la historia de un hombre con un tatuaje de Jesús — hizo la impresión más grande en Gloor, que él mismo se hizo un tatuaje gigante de ángeles y diablos antes de ser católico. Seis años después se convirtió. La oración journal de O'Connor: «Por favor ayúdame, querido Dios, a ser una buena escritora» — Gloor vio en la película la respuesta de Dios a esas oraciones.
+
+> «La extrañeza del catolicismo nos hace santos».

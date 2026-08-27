@@ -3,59 +3,38 @@ type: ResumenFuente
 title: "The Art of Prayer — Fr. Jacques Philippe"
 fuente: Evangelization and culture - 5
 capítulo: 21
-timestamp: 2026-08-24
-description: "Resumen de 'The Art of Prayer — Fr. Jacques Philippe' — Evangelization and culture - 5"
-tags: ["resumen", "evangelization and culture - 5"]
+timestamp: 2026-08-26
+description: "Resumen del artículo sobre el arte de la oración"
+tags: ["resumen", "evangelization_and_culture", "oración"]
 ---
 
 # The Art of Prayer — Fr. Jacques Philippe
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[oración]] — la oración como arte que requiere aprendizaje y perseverancia
+- [[pobreza_espiritual]] — la oración del pobre que alcanza los cielos
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `21_soul_prayer.md`
+### La urgencia de la oración
 
+Juan Pablo II en *Novo Millennio Inuente*: necesitamos «una vida cristiana distinguida sobre todo por el arte de la oración». La epidemia de coronavirus nos recuerda «la gran fragilidad de nuestra sociedad» — hay una invitación clara a aferrarnos, en la oración, «a la única realidad estable de este mundo, a la única y única roca sobre la que pueden fundarse nuestras vidas, el amor inquebrantable del Señor».
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### Los obstáculos a la oración
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | The Art of Prayer — Fr. Jacques Philippe |
-| 7 | H2 | THE URGENCY OF PRAYER |
-| 15 | H2 | SOME OBSTACLES TO PRAYER |
-| 27 | H2 | THE PRAYER OF THE POOR |
-| 47 | H2 | –MARTIN STEFFENS |
+El ruido cómodo: «El hiperactivismo del mundo moderno y las solicitudes incessantes de los medios hacen difícil que practiquemos la recogida silenciosa». Debemos protegernos con «tiempos regulares de 'desconexión', soledad y silencio». El miedo: «Tenemos una percepción muy aguda de que si empezamos a tomarnos la oración en serio, Dios atacará el estado de mediocridad espiritual en el que a menudo nos asentamos». Dar tiempo a Dios es «una 'pérdida fecunda', en palabras de Teresa de Lisieux».
 
+### La confusión sobre la oración
 
-## Secciones incluidas
+La mentalidad tecnocrática nos hace pensar que la oración es «un deber que debemos cumplir de la mejor manera posible, o una obra que tenemos que lograr con nuestro propio esfuerzo». Pero «Dios no nos pide que logremos nada, sino que permanezcamos en su presencia. Dios no necesita nuestras obras, sino que tiene sed de nuestro amor».
 
-# THE URGENCY OF PRAYER
+### La oración de los pobres
 
-[Contenido de esta sección...]
+San Juan de la Cruz: «Muchas personas creen que no están orando, cuando, en realidad, su oración es intensa. Otras dan gran valor a su oración, mientras que es poco más que inexistente». El paradoja: «cuanto más libremente se ofrece nuestra oración, menos buscará un resultado, y más fruto dará». Martin Steffens: «En nuestra vida ordinaria, compartimos nuestras habilidades con el mundo. En nuestra oración, compartimos nuestra cuota de impotencia».
 
-# SOME OBSTACLES TO PRAYER
+### La lógica descendente
 
-[Contenido de esta sección...]
+«La lógica de la oración es también una lógica descendente, un camino de humildad». Jesús a Zaqueo: «¡Baja rápido, porque hoy tengo que quedarme contigo!» (Lc 19:5). «Debemos descender de nuestro orgullo, de nuestra autosuficiencia, de la falsa pretensión de salvarnos por nuestros propios esfuerzos». La oración se vuelve verdadera «cuando nace de la conciencia clara de nuestra pobreza radical, de nuestra dependencia absoluta de la misericordia divina».
 
-# THE PRAYER OF THE POOR
-
-[Contenido de esta sección...]
-
-# –MARTIN STEFFENS
-
-[Contenido de esta sección...]
+> «El camino de la oración es a veces comparado con escalar una montaña, pero la lógica de la oración es también una lógica descendente, un camino de humildad».

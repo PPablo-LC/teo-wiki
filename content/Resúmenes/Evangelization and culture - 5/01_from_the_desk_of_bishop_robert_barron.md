@@ -3,40 +3,38 @@ type: ResumenFuente
 title: "From the Desk of Bishop Robert Barron"
 fuente: Evangelization and culture - 5
 capítulo: 1
-timestamp: 2026-08-24
-description: "Resumen de 'From the Desk of Bishop Robert Barron' — Evangelization and culture - 5"
-tags: ["resumen", "evangelization and culture - 5"]
+timestamp: 2026-08-26
+description: "Resumen de la carta editorial sobre la renovación del estudio bíblico"
+tags: ["resumen", "evangelization_and_culture", "biblia"]
 ---
 
 # From the Desk of Bishop Robert Barron
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[biblia]] — la Escritura como «alma» de la teología
+- [[evangelización]] — renovar la conciencia bíblica en el pueblo de Dios
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `01_from_the_desk.md`
+### La Biblia como «alma» de la teología
 
+Concilio Vaticano II: la Sagrada Escritura es el «alma» de la teología. Pero estudiar la Biblia no es solo cosa de sacerdotes o teólogos — *Dei Verbum* pide que todos los fieles tengan fácil acceso a la Escritura y lean frecuentemente sus «sagradas palabras» para aprender la «supervisvalencia de conocer a Cristo Jesús» (Flp 3:8).
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### La urgenta necesidad de renovación
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | From the Desk of Bishop Robert Barron |
+La llamada del Vaticano II a renovar el estudio de las Escrituras ha sido «en gran medida no realizada». Las investigaciones sobre los religiosamente no afiliados muestran que la Biblia es a menudo «razón principal por la que la gente, especialmente los jóvenes, se aliena de la fe cristiana». El literalismo bíblico — «un modernismo ajeno a las mentes patrísticas y medievales» — ha dado lugar a «una terrible reacción racionalista»: la Biblia como «mitología de la Edad del Bronce».
 
+### El Proyecto Biblia Word on Fire
 
-## Secciones incluidas
+Lanzada para responder a esta necesidad. Primer volumen: *The Gospels* — extraordinariamente bien recibido. Segundo volumen: *Acts, the Letters, and Revelation* — en preparación. Cuatro características:
+1. Orientada especialmente a los «nones» — los sin afiliación religiosa
+2. Comentarios centrados en dos preguntas fundamentales: ¿Quién es Dios? y ¿Quién es Jesucristo?
+3. Coro de voces de toda la tradición teológica y espiritual — desde los Padres de la Iglesia hasta G.K. Chesterton y Flannery O'Connor
+4. Lidera con la belleza — producción y diseño de alta calidad, grandes obras de arte
 
+### El tema del número: Escritura
+
+Ensayos de N.T. Wright sobre San Pablo, Tracey Rowland sobre el enfoque «Communio-style» a la exégesis, Holly Ordway sobre el significado evangélico de las parábolas, y más. Como San Jerónimo observó: «Ignorancia de la Escritura es ignorancia de Cristo».
+
+> «Para proclamar Cristo a la cultura, debemos conocer a Cristo; y para conocer a Cristo, debemos conocer la Escritura».

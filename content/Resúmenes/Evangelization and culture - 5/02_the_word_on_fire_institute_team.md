@@ -3,40 +3,17 @@ type: ResumenFuente
 title: "The Word on Fire Institute Team"
 fuente: Evangelization and culture - 5
 capítulo: 2
-timestamp: 2026-08-24
-description: "Resumen de 'The Word on Fire Institute Team' — Evangelization and culture - 5"
-tags: ["resumen", "evangelization and culture - 5"]
+timestamp: 2026-08-26
+description: "Resumen del equipo del Word on Fire Institute"
+tags: ["resumen", "evangelization_and_culture"]
 ---
 
 # The Word on Fire Institute Team
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[evangelización]] — el equipo detrás del ministerio Word on Fire
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `02_masthead.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | The Word on Fire Institute Team |
-
-
-## Secciones incluidas
-
+Plantilla del equipo editorial de la revista Evangelization & Culture. El equipo está liderado por el obispo Robert Barron (fundador) y Fr. Steve Grunow (CEO). Jared Zimmerer es director del Instituto, Matt Nelson asistente del director, y Tod Worner editor gerente. El equipo incluye editores (Elizabeth Scalia, Matthew Becklo), diseño creativo (Rozann Lee), marketing (Jon Bator) y operaciones. Agradecimiento especial al personal y junta directiva de Word on Fire Catholic Ministries.
