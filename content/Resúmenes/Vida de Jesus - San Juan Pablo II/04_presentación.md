@@ -12,31 +12,15 @@ tags: ["resumen", "vida de jesus - san juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[jesucristo]] — Jesucristo, «gran Amor de la vida» de Juan Pablo II y protagonista del volumen
+- [[juan_pablo_ii]] — San Juan Pablo II, autor de los textos recogidos
+- [[vida_de_cristo]] — materia del libro: la vida de Jesús
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `04_presentación.md`
+Presentación del libro de Pedro Beteta López (Madrid, 27 de abril de 2015, primer aniversario de la canonización de Juan Pablo II). Se ofrece una sencilla, profunda y amable *Vida de Jesús* elaborada mediante textos escogidos de la predicación de san Juan Pablo II, quien no dejó una *Vida de Jesús* específica, pues su gran preocupación y ocupación era conocer y dar a conocer a Jesucristo, ante una «humanidad sin Padre, huérfana y desorientada».
 
+Para el Cardenal Julián Herranz, Juan Pablo II es «el hombre que más horas ha pasado metiéndose en las escenas del Evangelio, para tratar la humanidad de Cristo con esa intimidad con que lo hacían san Juan de la Cruz o santa Teresa»; un místico enamorado apasionadamente de Cristo, cuyo amor es difusivo, y el Papa que más horas pasó rezando delante del Sagrario.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | PRESENTACIÓN |
-
-
-## Secciones incluidas
+Los textos elegidos responden literalmente a las palabras del Papa; solo los ladillos son de los editores. Se omite la referencia evangélica (manteniendo los textos en cursiva) para facilitar la lectura, consultable en las fuentes citadas, y se suprimen párrafos de contenido similar. El propósito es que la belleza de los textos introduzca al lector en el gran amor de Juan Pablo II y de todo cristiano: ¡Cristo!
 
