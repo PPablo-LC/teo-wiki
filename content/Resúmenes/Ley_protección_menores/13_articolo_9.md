@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "Articolo 9"
 fuente: Ley_protección_menores
 capítulo: 13
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'Articolo 9' — Ley_protección_menores"
 tags: ["resumen", "ley protección menores"]
 ---
@@ -12,25 +12,10 @@ tags: ["resumen", "ley protección menores"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[servicio_de_acompañamiento]] — funciones del servicio de acompañamiento.
+- [[asistencia_a_víctimas]] — asistencia médica, social y psicológica.
+- [[derechos_de_la_víctima]] — información e ilustración de los derechos de la persona ofendida.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `Ley_protección_menores.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-
-## Secciones incluidas
-
+**(Servicio de acompañamiento)** El [[servicio_de_acompañamiento|Servicio de acompañamiento]]: (a) ofrece un servicio de escucha; (b) garantiza la [[asistencia_a_víctimas|asistencia médica y social]] a las personas ofendidas y a sus familiares, incluida la asistencia terapéutica y psicológica de urgencia; (c) ilustra a la persona ofendida sus [[derechos_de_la_víctima|derechos]] y el modo de hacerlos valer; (d) facilita el recurso de la persona ofendida a la autoridad judicial; (e) tiene en cuenta la opinión y las necesidades de la persona ofendida, tutelando su imagen y su esfera privada, así como la reserva de sus datos personales; (f) adopta líneas guía para el tratamiento de los menores que acuden a él.

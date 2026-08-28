@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "Capítulo 49"
 fuente: "La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 capítulo: 50
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'Capítulo 49' — La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 tags: ["resumen", "la regla de san benito latín español san benito de nursia monjes benedictinos"]
 ---
@@ -12,35 +12,18 @@ tags: ["resumen", "la regla de san benito latín español san benito de nursia m
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[cuaresma]] — tiempo en que el monje intensifica su penitencia
+- [[oración]] — la oración con lágrimas
+- [[lectio_divina]] — la lectura en la observancia cuaresmal
+- [[abstinencia]] — en la comida y en la bebida
+- [[abad]] — padre espiritual cuya aprobación se requiere
+- [[vida_monastica]] — la vida del monje como perpetua observancia cuaresmal
+- [[obediencia]] — hacer todo con la aprobación del abad
 
+## La observancia de la Cuaresma
 
-## Contenido
+Aunque en todo tiempo la vida del monje debe tener una observancia de [[cuaresma|Cuaresma]], como son pocos los de esta virtud, se exhorta en estos días de Cuaresma a guardar la vida con toda pureza y a borrar en estos días santos las negligencias de otros tiempos. Esto se hará dignamente si nos abstenemos de todo vicio y nos entregamos a la [[oración]] con lágrimas, a la lectura, a la compunción del corazón y a la [[abstinencia]].
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `50_capítulo_49.md`
+Por eso se añade en estos días algo a la penitencia acostumbrada: oraciones peculiares y abstinencia en la comida y bebida, para que cada uno ofrezca de su propia voluntad algo a Dios, sobre la medida establecida, con el gozo del Espíritu Santo: esto es, substraer a su cuerpo algo de alimento, bebida, sueño, conversación y bromas, y esperar la Pascua con la alegría del deseo espiritual.
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H2 | Capítulo 49 |
-| 8 | H5 | La observancia de la cuaresma |
-
-
-## Secciones incluidas
-
-# Capítulo 49
-
-[Contenido de esta sección...]
+Lo que cada uno ofrece, sugiéraselo a su [[abad]] y hágalo con su oración y aprobación, porque lo que se hace sin permiso del padre espiritual hay que considerarlo más como presunción y vanagloria que como algo meritorio. Así, todas las cosas han de hacerse con la aprobación del abad.

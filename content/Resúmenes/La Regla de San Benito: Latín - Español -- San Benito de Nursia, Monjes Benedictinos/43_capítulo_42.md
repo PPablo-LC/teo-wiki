@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "Capítulo 42"
 fuente: "La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 capítulo: 43
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'Capítulo 42' — La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 tags: ["resumen", "la regla de san benito latín español san benito de nursia monjes benedictinos"]
 ---
@@ -12,35 +12,16 @@ tags: ["resumen", "la regla de san benito latín español san benito de nursia m
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[silencio]] — guardado con especial esmero en las horas nocturnas
+- [[vida_monastica]] — la lectura común y el rezo de Completas
+- [[liturgia_de_las_horas]] — Completas, que sella el silencio de la noche
+- [[lectio_divina]] — la lectura de las Colaciones y Vidas de los Padres
+- [[obediencia]] — salvedad de las órdenes del abad
 
+## Que nadie hable después de Completas
 
-## Contenido
+En todo tiempo los monjes deben esforzarse en guardar silencio, pero más en las horas nocturnas. Si no es día de ayuno, al levantarse de la cena se sientan todos juntos y uno lee las «Colaciones» o las «Vidas de los Padres», u otra cosa que edifique a los oyentes; pero no el Heptateuco ni los libros de los Reyes, porque a los de mentes débiles no les será útil escuchar esa Escritura en aquella hora, aunque puede leerse en otras horas.
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `43_capítulo_42.md`
+Si es día de ayuno, una vez dichas las Vísperas y tras un breve tiempo, se acude enseguida a la lectura de las «Colaciones»; se leen cuatro o cinco hojas o lo que permita la hora, para que todos puedan reunirse, incluso el que estuvo ocupado en alguna comisión. Reunidos todos, rezan juntos Completas; al salir de Completas, ninguno tiene permiso para hablar nada a nadie.
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H2 | Capítulo 42 |
-| 8 | H5 | Que nadie hable después de Completas |
-
-
-## Secciones incluidas
-
-# Capítulo 42
-
-[Contenido de esta sección...]
+Quien quebrante esta regla del silencio será sometido a un grave castigo, salvo que sobrevenga la necesidad de atender a los huéspedes o que el [[abad]] mande algo; y aun esto se hará con mucho cuidado y la adecuada moderación.

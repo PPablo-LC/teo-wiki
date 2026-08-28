@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "Articolo 4"
 fuente: Ley_protección_menores
 capítulo: 8
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'Articolo 4' — Ley_protección_menores"
 tags: ["resumen", "ley protección menores"]
 ---
@@ -12,25 +12,9 @@ tags: ["resumen", "ley protección menores"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[derechos_de_la_víctima]] — derechos reconocidos a la persona ofendida en el proceso.
+- [[protección_de_menores_en_la_iglesia]] — medidas generales de protección procesal.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `Ley_protección_menores.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-
-## Secciones incluidas
-
+**(Medidas generales de protección)** En el proceso penal, la persona ofendida: (a) es informada de los [[derechos_de_la_víctima|derechos]] y servicios a su disposición y, si lo solicita, de los resultados de las fases del procedimiento; (b) es informada de la adopción y del cese a cualquier título de las medidas restrictivas de la libertad personal dispuestas contra el imputado; (c) directamente o por medio de su defensor, puede aportar pruebas, solicitar la realización de actividades investigativas específicas y pedir ser escuchada; (d) tiene derecho a la tutela de su imagen y esfera privada, así como a la reserva de sus datos personales; (e) tiene derecho a la adopción de medidas idóneas para evitar el contacto directo con el imputado, salvas las exigencias irrenunciables del procedimiento. Estas garantías integran las [[protección_de_menores_en_la_iglesia|medidas de protección]] de los menores y de las personas vulnerables en el ordenamiento vaticano.

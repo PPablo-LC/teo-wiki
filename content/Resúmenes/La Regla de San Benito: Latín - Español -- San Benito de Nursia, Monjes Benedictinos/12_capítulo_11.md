@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "Capítulo 11"
 fuente: "La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 capítulo: 12
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'Capítulo 11' — La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 tags: ["resumen", "la regla de san benito latín español san benito de nursia monjes benedictinos"]
 ---
@@ -12,40 +12,15 @@ tags: ["resumen", "la regla de san benito latín español san benito de nursia m
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[oficio_divino]] — Vigilias dominicales
+- [[salmos]] — salmodia y cánticos de las Vigilias dominicales
+- [[liturgia_de_las_horas]] — orden litúrgico de las Vigilias del domingo
+- [[oración]] — oración litúrgica en el orden dominical
 
+## Cómo han de celebrarse las Vigilias de los domingos
 
-## Contenido
+El domingo se levantan más temprano para las Vigilias, con esta disposición: se modulan seis salmos como está dispuesto, con su verso, y sentados todos por orden en los bancos se leen cuatro lecturas en el libro con sus responsorios; solo en el cuarto responsorio el cantor dice *Gloria*, momento en el que todos se levantan con reverencia.
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `12_capítulo_11.md`
+Después siguen otros seis salmos con antífonas y su verso; luego se leen de nuevo cuatro lecturas con responsorios en el orden mencionado. Tras estas, se dicen tres cánticos de los profetas, los que determine el abad, salmodiados con *Aleluya*. Terminado el verso, el abad da la bendición y se leen otras cuatro lecturas del Nuevo Testamento; después del cuarto responsorio el abad comienza el himno *Te Deum laudamus*. Dicho este, el abad lee la lectura de los Evangelios, estando todos de pie con honor y temor; al terminar responden *Amén*. Prosigue el abad con el himno *Te decet laus* y, dada la bendición, comienzan los Laudes.
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H2 | Capítulo 11 |
-| 8 | H5 | Como han de celebrarse las Vigilias de los domingos |
-| 27 | H4 | ^6^ Post quibus dicantur tria cantica de prophetarum, quas instituerit |
-
-
-## Secciones incluidas
-
-# Capítulo 11
-
-[Contenido de esta sección...]
-
-### ^6^ Post quibus dicantur tria cantica de prophetarum, quas instituerit abbas; quæ cantica cum alleluia psallantur.
-
-[Contenido de esta sección...]
+Este orden se mantiene en todo tiempo, tanto en verano como en invierno. Solo en el caso de levantarse tarde (lo que se espera no suceda) se abrevia algo de las lecturas o de los responsorios; se ponga todo cuidado para que esto no ocurra, y si ocurre, el responsable de la negligencia dé digna satisfacción a Dios en el oratorio.

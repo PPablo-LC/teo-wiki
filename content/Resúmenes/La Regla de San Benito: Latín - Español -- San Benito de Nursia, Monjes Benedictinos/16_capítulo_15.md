@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "Capítulo 15"
 fuente: "La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 capítulo: 16
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'Capítulo 15' — La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 tags: ["resumen", "la regla de san benito latín español san benito de nursia monjes benedictinos"]
 ---
@@ -12,39 +12,13 @@ tags: ["resumen", "la regla de san benito latín español san benito de nursia m
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[liturgia_de_las_horas]] — tiempos litúrgicos del canto del aleluya
+- [[salmos]] — salmos de los Nocturnos con aleluya
+- [[cuaresma]] — tiempo en el que cesa el aleluya y se usa la antífona
+- [[oficio_divino]] — regulación del aleluya en los oficios
 
+## En qué tiempos se ha de decir el aleluya
 
-## Contenido
+Desde la santa Pascua hasta Pentecostés se dice el *Aleluya* sin interrupción, tanto en los salmos como en los responsorios. Desde Pentecostés hasta el inicio de la [[cuaresma]], todas las noches se dirá con los últimos seis salmos de los Nocturnos.
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `16_capítulo_15.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H2 | Capítulo 15 |
-| 8 | H3 | En qué tiempos se ha de decir aleluya |
-
-
-## Secciones incluidas
-
-# Capítulo 15
-
-[Contenido de esta sección...]
-
-## En qué tiempos se ha de decir aleluya
-
-[Contenido de esta sección...]
+Todos los domingos fuera de Cuaresma se dirán los cánticos, los Laudes, Prima, Tercia, Sexta y Nona con *Aleluya*; las Vísperas, en cambio, con antífona. Los responsorios nunca se dicen con *Aleluya*, sino únicamente desde Pascua hasta Pentecostés.

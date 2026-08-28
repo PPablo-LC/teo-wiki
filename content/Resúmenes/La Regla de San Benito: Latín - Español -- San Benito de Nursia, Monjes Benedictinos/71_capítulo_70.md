@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "capítulo 70"
 fuente: "La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 capítulo: 71
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'capítulo 70' — La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 tags: ["resumen", "la regla de san benito latín español san benito de nursia monjes benedictinos"]
 ---
@@ -12,35 +12,14 @@ tags: ["resumen", "la regla de san benito latín español san benito de nursia m
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[abad]] — única autoridad que puede dar permiso para excomulgar o golpear
+- [[corrección_fraterna]] — los que pecan sean corregidos públicamente para que los demás teman
+- [[niños_monjes]] — los pequeños hasta quince años han de ser formados con esmero
+- [[obediencia]] — sometimiento a la disciplina regular
+- [[vida_monastica]] — evitar toda ocasión de presunción
 
+## Que nadie se atreva a golpear a otro arbitrariamente
 
-## Contenido
+Queda prohibida en el monasterio toda ocasión de presunción; por eso establecemos que a nadie le sea permitido excomulgar o golpear a cualquiera de sus hermanos, a menos que para eso tenga autorización del abad. En cambio, «los que pecan sean corregidos públicamente para que los demás teman» (1 Tim 5,20). Los niños, hasta la edad de los quince años, recibirán por parte de todos una formación esmerada y cuidadosa, pero en todo se actuará con moderación y prudencia.
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `71_capítulo_70.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H3 | Capítulo 70 |
-| 8 | H5 | Que nadie se atreva a golpear a otro arbitrariamente |
-
-
-## Secciones incluidas
-
-## Capítulo 70
-
-[Contenido de esta sección...]
+El que sin permiso del abad se atreva a hacer algo contra uno de mayor edad, o el que desmedidamente se enoje con los niños, será sometido a la disciplina regular, porque está escrito: «No hagas a otro lo que no quieres que hagan contigo».

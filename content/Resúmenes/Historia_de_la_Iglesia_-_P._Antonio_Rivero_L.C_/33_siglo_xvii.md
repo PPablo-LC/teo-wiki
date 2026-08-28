@@ -3,40 +3,11 @@ type: ResumenFuente
 title: "SIGLO XVII"
 fuente: Historia_de_la_Iglesia_-_P._Antonio_Rivero_L.C_
 capítulo: 33
-timestamp: 2026-08-24
-description: "Resumen de 'SIGLO XVII' — Historia_de_la_Iglesia_-_P._Antonio_Rivero_L.C_"
+timestamp: 2026-08-27
+description: "Cabecera del siglo XVII. El contenido de este siglo se desarrolla en el capítulo 'Absolutismo, regalismo, galicanismo. Galileo. América cristiana'."
 tags: ["resumen", "historia de la iglesia - p. antonio rivero l.c "]
 ---
 
 # SIGLO XVII
 
-## Conceptos básicos referenciados
-
-[Lista de conceptos teológicos tratados aquí.]
-
-
-## Contenido
-
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `33_siglo_xvii.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H1 | SIGLO XVII |
-
-
-## Secciones incluidas
-
+Esta es la cabecera del siglo XVII, el siglo del absolutismo de los príncipes y del nacionalismo religioso (galicanismo, regalismo, jansenismo), del avance de la ciencia moderna con el caso Galileo, y de una intensa vida de santidad y de misión en Europa y América. El contenido de este siglo se desarrolla en el capítulo 34: [[absolutismo_regalismo_galicanismo_galileo_américa_cristiana]].

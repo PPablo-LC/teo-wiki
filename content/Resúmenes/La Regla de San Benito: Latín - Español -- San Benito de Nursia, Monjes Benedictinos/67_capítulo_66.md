@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "capítulo 66"
 fuente: "La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 capítulo: 67
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'capítulo 66' — La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 tags: ["resumen", "la regla de san benito latín español san benito de nursia monjes benedictinos"]
 ---
@@ -12,40 +12,17 @@ tags: ["resumen", "la regla de san benito latín español san benito de nursia m
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[portero]] — anciano sabio puesto en la puerta del monasterio
+- [[caridad]] — fervor de caridad en la acogida de quien llega
+- [[temor_de_dios]] — dulzura que da el temor de Dios
+- [[clausura]] — los monjes no deben tener necesidad de salir fuera
+- [[la_regla_de_san_benito]] — ha de leerse muchas veces para que nadie se excuse por ignorancia
+- [[vida_monastica]] — la estabilidad y recogimiento del monasterio
 
+## Los porteros del monasterio
 
-## Contenido
+Se pondrá en la puerta del monasterio a un anciano sabio, que pueda recibir y responder recados, cuya madurez no le permita estar de vago. Este portero deberá tener su celda junto a la puerta, para que los que lleguen encuentren siempre quién les reciba. En cuanto alguien toque a la puerta, o llame un pobre, responda enseguida «Deo gratias» o «Benedic», y con la mayor dulzura, que da el temor de Dios y el fervor de la caridad, responda con prontitud. Si el portero necesita un auxiliar, se le dará un hermano más joven.
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `67_capítulo_66.md`
+El monasterio, si es posible, debe construirse con todo lo necesario, esto es, agua, molino, huerta y panadería, y además se ejercerán diversos oficios dentro del monasterio, para que los monjes no tengan necesidad de salir fuera, porque esto de ninguna manera conviene a sus almas.
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H3 | Capítulo 66 |
-| 8 | H5 | Los porteros del monasterio |
-| 27 | H4 | 6. Añade*:* Panadería. |
-
-
-## Secciones incluidas
-
-## Capítulo 66
-
-[Contenido de esta sección...]
-
-### 6. Añade*:* Panadería.
-
-[Contenido de esta sección...]
+Queremos que esta Regla se lea muchas veces en la comunidad, para que ninguno de los hermanos se excuse por ignorancia.

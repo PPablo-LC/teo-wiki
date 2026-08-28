@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "Yo lo Glori caré Incluso en el abandono del Calvario, Juan reconoce la gloria de Cristo."
 fuente: Iluminados por una gloria oculta - Ejercicios espirituales 2026 a la Curia Romana - Mons. Varden
 capítulo: 8
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'Yo lo Glori caré Incluso en el abandono del Calvario, Juan reconoce la gloria de Cristo.' — Iluminados por una gloria oculta - Ejercicios espirituales 2026 a la Curia Romana -..."
 tags: ["resumen", "iluminados por una gloria oculta - ejercicios espirituales 2026 a la curia romana - mons. varden"]
 ---
@@ -12,31 +12,26 @@ tags: ["resumen", "iluminados por una gloria oculta - ejercicios espirituales 20
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[kenosis]] — el vaciamiento de Jesús narrado de forma descarnada por Juan en el Calvario.
+- [[cruz]] — el «lagar» donde es triturado el amor divino y compasivo de Cristo.
+- [[pasión_de_cristo]] — escena de desamparo y traición que, sin embargo, manifiesta la gloria.
+- [[gloria]] — «gloria oculta» perceptible ya en esta vida en los santos, los sacramentos y la gracia.
+- [[santos]] — pruebas de que la enfermedad y la degradación pueden servir a un propósito glorioso.
+- [[sacramentos]] — canales de la «gloria oculta» que iluminan la vida del creyente.
+- [[eucaristía]] — la más espléndida y velada manifestación de la gloria oculta.
+- [[gracia]] — la fuerza que Dios concede a través del Cuerpo Místico de Cristo.
+- [[imagen_de_dios]] — nunca se pierde del todo en el ser humano, puede ser rescatada y hecha resplandeciente.
 
+## La kénosis de Jesús en el Calvario
 
-## Contenido
+Cuando Jesús explicó lo que significaba permanecer con él y entrar en el Reino, «muchos de sus discípulos se echaron atrás y ya no andaban con él», incapaces de tolerar su realismo sacramental, la indisolubilidad del matrimonio y la necesidad de la [[cruz]]. Cuando Cristo fue crucificado, el sínodo que había caminado con él ya no existía: solo quedaban su Madre y Juan, el Discípulo Amado. Juan ofrece un relato descarnado de la [[kenosis]] de Jesús, que se desarrolla en dos niveles: el del amor divino y compasivo triturado en el lagar de la Cruz, y el de la traición de las lealtades humanas. Sin embargo, Juan insiste en que esta escena de desamparo manifiesta la gloria de Cristo.
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `08_capitulo_7.md`
+## La gloria oculta
 
+Bernardo asegura que la «glorificación» sucederá ante la presencia del rostro de Dios cuando, terminado nuestro viaje terrenal, contemplemos aquello que en esta vida hemos esperado firmemente, poniendo nuestra confianza en el nombre de Jesús: «Spes in nomine, res in facie est» («Nuestra esperanza está en el nombre del Señor; la realidad esperada será revelada cara a cara»). No obstante, una «gloria oculta» es perceptible ya: a Agustín le gustaba decir que llevamos la imagen de la gloria en una «forma oscura» que, tras atravesar esta vida, se revelará explícita y luminosa, apta para presentarse ante Dios. Cualquier deformidad infligida por una [[libertad]] mal empleada será entonces reformada, de modo que la forma aparezca en su belleza original, como forma formosa.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+Agustín subraya que la gloria de la [[imagen_de_dios]] nunca puede perderse: está impresa en nuestro ser, aunque pueda quedar sepultada bajo capas acumuladas de oscuridad que deben ser removidas. La Iglesia recuerda a hombres y mujeres la gloria que vive secretamente en ellos, mostrando que la mediocridad y la desesperación actuales no son definitivas, que el plan de Dios es infinitamente hermoso y que Dios, a través del Cuerpo Místico de Cristo, dará [[gracia]] y fuerza si las pedimos.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Yo lo Glori caré Incluso en el abandono del Calvario, Juan reconoce la |
+## La gloria en los santos, los sacramentos y la Eucaristía
 
-
-## Secciones incluidas
-
+La Iglesia manifiesta el resplandor de la «gloria oculta» en sus [[santos]], que se alzan como prueba de que incluso la enfermedad y la degradación pueden ser medios de la Providencia para un propósito glorioso, confiriendo fuerza a los débiles y haciéndolos radiantes. La Iglesia canaliza esta gloria en sus [[sacramentos]]: todo católico sabe qué luz puede irrumpir en el confesionario, la unción, la ordenación o una boda. La más espléndida y velada es la gloria de la Santa [[eucaristía]]: el sacerdote que ofrece la Misa conoce un asombro glorioso, como la gran música dijo de un instrumento en una luminosa comunicación de belleza, sanación y verdad: «la muerte no sería realmente una tragedia, pues lo mejor de lo que está en el centro de la vida humana ha sido visto y vivido».

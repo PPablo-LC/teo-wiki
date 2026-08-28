@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "**SUMARIO**"
 fuente: La vocacion explicada - Juan Pablo II
 capítulo: 3
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de '**SUMARIO**' — La vocacion explicada - Juan Pablo II"
 tags: ["resumen", "la vocacion explicada - juan pablo ii"]
 ---
@@ -12,34 +12,26 @@ tags: ["resumen", "la vocacion explicada - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[vocación_cristiana]] — estructura general de la obra sobre la vocación
+- [[discernimiento_vocacional]] — discernimiento y respuesta a la llamada
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `03_sumario.md`
+Índice o guion de la obra. El sumario presenta el recorrido de la catequesis:
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | **SUMARIO** |
-
-
-## Secciones incluidas
-
-# **SUMARIO**
-
-[Contenido de esta sección...]
+1. **¿A qué te llama Dios?** — universalidad de la llamada a la santidad.
+2. **¿Cuándo y cómo llama Dios?** — la iniciativa divina en el origen de la vocación.
+3. **Vocación a una entrega total a Cristo**, con los pasos del proceso vocacional:
+   - Dios llama desde muy jóvenes;
+   - es Dios quien llama, y lo hizo desde la eternidad;
+   - el proceso de la vocación;
+   - la respuesta a la vocación es siempre un «sí» lleno de fe;
+   - dificultades para la vocación;
+   - para ver claro el camino: oración, sacramentos y [[dirección_espiritual]];
+   - prontitud para decir «sí» ante la grandeza de la llamada;
+   - la alegría de ser generosos;
+   - perseverancia y fidelidad;
+   - la vocación es siempre apostólica.
+   
+   Y las cuatro formas de entrega total: **3a)** la entrega total en medio del mundo ([[vocación_laical]]); **3b)** [[vocación_matrimonial]]; **3c)** [[vocación_sacerdotal]]; **3d)** [[vocación_religiosa]].
+4. **El ejemplo de María** — María como modelo de disponibilidad.

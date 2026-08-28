@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "CAPÍTULO VI"
 fuente: Las Fuentes de la Moral cristiana - Servais Pinkaers, OP
 capítulo: 7
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'CAPÍTULO VI' — Las Fuentes de la Moral cristiana - Servais Pinkaers, OP"
 tags: ["resumen", "las fuentes de la moral cristiana - servais pinkaers, op"]
 ---
@@ -12,246 +12,195 @@ tags: ["resumen", "las fuentes de la moral cristiana - servais pinkaers, op"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[sermón_de_la_montaña]] — código fundamental de la vida cristiana
+- [[bienaventuranzas]] — siete grados de la vida cristiana
+- [[bienaventuranza]] — recompensa y plenitud de la perfección cristiana
+- [[dones_del_espíritu_santo]] — correlacionados con las bienaventuranzas
+- [[siete_dones_del_espíritu_santo]] — dones infusos que perfeccionan las virtudes
+- [[don_de_temor_de_dios]] — primer don, unido a la primera bienaventuranza
+- [[don_de_piedad]] — segundo don según el orden de las bienaventuranzas
+- [[don_de_ciencia]] — don ligado a la bienaventuranza de los misericordiosos
+- [[don_de_fortaleza]] — don que sostiene a los perseguidos
+- [[don_de_consejo]] — don ordenado a la paz del corazón
+- [[don_de_sabiduría]] — cumplimiento de los limpios de corazón
+- [[padrenuestro]] — siete peticiones correlativas a grados y dones
+- [[san_agustín]] — intérprete del Sermón como ley de libertad
+- [[catequesis]] — redescubrimiento de la catequesis moral primitiva
+- [[exégesis_patrística]] — método de lectura del Sermón en los Padres
+- [[teología_moral]] — disciplina que debe renovarse desde el Sermón
+- [[moral_cristiana]] — moral específicamente cristiana del Sermón
+- [[ley_evangélica]] — síntesis de la moral de santo Tomás
+- [[ley_nueva]] — ley de gracia
+- [[ley_nueva_como_ley_de_libertad]] — ley de libertad por la gracia
+- [[consejos_evangélicos]] — perfección de la ley evangélica
+- [[santo_tomás_de_aquino]] — autor de la moral cuya cristiandad se examina
+- [[escolástica]] — contexto del tratado tomista
+- [[moral_escolástica]] — moral de la gran escolástica
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `06_capitulo_VI.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | CAPÍTULO VI |
-| 3 | H1 | EL SERMÓN DE LA MONTAÑA Y LA MORAL CRISTIANA |
-| 5 | H2 | 1. EL SERMÓN DE LA MONTAÑA Y SUS INTERPRETACIONES |
-| 15 | H2 | El problema moderno del Sermón de la Montaña |
-| 27 | H4 | 1. La interpretación católica |
-| 37 | H4 | 2. Una moral del ideal |
-| 47 | H4 | 3. Una. moral para un tiempo de excepción |
-| 55 | H4 | 4. El Sermón como programa social |
-| 61 | H4 | 5. La interpretación luterana |
-| 105 | H4 | 1. El Sermón de la Montaña como código fundamental de la vida cristian |
-| 133 | H4 | 2. Las bienaventuranzas comprendidas como los siete grados de la vida  |
-| 149 | H4 | Los grados de la vida cristiana en las bienaventuranzas |
-| 167 | H4 | Prolongación histórica |
-| 171 | H4 | 3. Interpretación del Sermón a partir de las bienaventuranzas |
-| 195 | H4 | 4. La. conexión entre las bienaventuranzas y los dones del Espíritu Sa |
-| 207 | H4 | Las relaciones entre las bienaventuranzas y los dones |
-| 237 | H4 | 5. Las siete peticiones del Padrenuestro |
-| 291 | H4 | La prolongación histórica |
-| 311 | H4 | En resumen |
-| 319 | H4 | Respuesta agustiniana a la cuestión de la impracticabilidad del Sermón |
-| 335 | H4 | Una moral específicamente cristiana |
-| 339 | H4 | Lecciones para una renovación de la teología moral |
-| 343 | H4 | a) El Sermón del Señor es el modelo perfecto o el código fundamental d |
-| 351 | H4 | b) Interpretación del Sermón y, por consiguiente, organización de la t |
-| 357 | H4 | c) La interpretación de las bienaventuranzas como los siete grados de  |
-| 361 | H4 | d) La correlación entre las bienaventuranzas y los dones del Espíritu  |
-| 365 | H4 | e) La relación establecida entre el Padrenuestro, los dones y las bien |
-| 375 | H2 | 3. HACIA UN REDESCUBRIM1ENTO DE LA CATEQUESIS MORAL PRIMITIVA |
-| 427 | H1 | CAPITULO VII |
-| 429 | H1 | ¿ES CRISTIANA LA MORAL DE SANTO TOMÁS? |
-| 433 | H4 | El problema |
-| 443 | H2 | 1. DOS DEFECTOS DE LECTURA |
-| 447 | H2 | La miopía |
-| 455 | H2 | La esquizoscopia |
-| 477 | H2 | 2. EL TRATADO DE LA LEY EVANGÉLICA, SUMA DE LA MORAL DE SANTO TOMÁS |
-| 483 | H2 | La historia del tratado de la Ley evangélica |
-| 497 | H2 | La definición de la Ley evangélica |
-| 525 | H2 | 3. LA LEY EVANGÉLICA, PIEDRA ANGULAR DE LA TEOLOGÍA |
-| 541 | H2 | La Ley evangélica como cabeza del cuerpo de la moral. |
-| 617 | H2 | La Ley evangélica, suma de la legislación divina |
-| 641 | H2 | 4. EL SERMÓN DE LA MONTAÑA, TEXTO DE LA LEY EVANGÉLICA |
-| 661 | H2 | La Ley evangélica y los preceptos morales |
-| 673 | H2 | 5. LA LEY EVANGÉLICA, COMO «LEY DE LIBERTAD» |
-| 677 | H2 | La Ley evangélica y la espontaneidad voluntaria |
-| 687 | H2 | La Ley evangélica y los consejos |
-| 699 | H2 | CONCLUSIÓN: SANTO TOMÁS, EL EVANGELIO Y ARISTÓTELES |
-| 715 | H1 | SEGUNDA PARTE |
-| 717 | H1 | ESBOZO DE UNA HISTORIA |
-| 719 | H1 | DE LA TEOLOGÍA MORAL |
+## EL SERMÓN DE LA MONTAÑA Y LA MORAL CRISTIANA
 
+### 1. EL SERMÓN DE LA MONTAÑA Y SUS INTERPRETACIONES
 
-## Secciones incluidas
+#### El problema moderno del Sermón de la Montaña
 
-# 1. EL SERMÓN DE LA MONTAÑA Y SUS INTERPRETACIONES
+El [[sermón_de_la_montaña]] ha sido puesto en cuestión por los autores modernos: se duda de su practicabilidad, de su valor normativo para la vida corriente e incluso de su autenticidad. Las interpretaciones modernas tienden a «salvar» el Sermón limitándolo, privándolo de su función de ley de vida cristiana. Se examinan cinco hipótesis.
 
-[Contenido de esta sección...]
+#### 1. La interpretación católica
 
-# El problema moderno del Sermón de la Montaña
+La tradición católica sostiene que el Sermón es verdaderamente practicable: sus preceptos pueden cumplirse con la ayuda de la gracia, y constituyen la moral de la vida cristiana ordinaria. No se trata de un ideal irrealizable, sino de la regla concreta del seguimiento de Cristo.
 
-[Contenido de esta sección...]
+#### 2. Una moral del ideal
 
-### 1. La interpretación católica
+Otros lo entienden como una moral del ideal: el Sermón propondría una perfección sublime, admirable como ideal, pero no exigible como obligación. Pinckaers observa que esta lectura relativiza el mandato de Cristo y separa la santidad de la vida real.
 
-[Contenido de esta sección...]
+#### 3. Una moral para un tiempo de excepción
 
-### 2. Una moral del ideal
+La interpretación «intermediaria» o de excepción, ligada al inminente fin del mundo, sostiene que el Sermón valdría solo para un tiempo breve (el del tránsito entre la Pascua y la Parusía) o para una minoría. Así se explica su rigor extremo sin obligar a la vida ordinaria.
 
-[Contenido de esta sección...]
+#### 4. El Sermón como programa social
 
-### 3. Una. moral para un tiempo de excepción
+También se ha leído el Sermón como programa de reforma social y política (pobreza, no violencia, paz), convirtiéndolo en una doctrina sociológica. Pinckaers rechaza esta visión: el Sermón no es ante todo un programa social sino una doctrina de vida cristiana.
 
-[Contenido de esta sección...]
+#### 5. La interpretación luterana
 
-### 4. El Sermón como programa social
+Lutero y el protestantismo ven el Sermón como ley imposible, cuya función sería convencer al hombre de su impotencia y remitirlo a Cristo, no formar una moral. De esta forma se niega que el Sermón encierre una moral cristiana practicable y se separa la ley del Evangelio.
 
-[Contenido de esta sección...]
+#### 1. El Sermón de la Montaña como código fundamental de la vida cristiana
 
-### 5. La interpretación luterana
+Frente a las interpretaciones modernas, san Agustín y la tradición patrística leen el Sermón como el código fundamental de la vida cristiana: «el sermón del Señor, según Mateo, es el modelo perfecto o el código fundamental de la vida cristiana». En él Jesús enseña la conducta de la ciudad celestial y todas las virtudes del discípulo.
 
-[Contenido de esta sección...]
+#### 2. Las bienaventuranzas comprendidas como los siete grados de la vida cristiana
 
-### 1. El Sermón de la Montaña como código fundamental de la vida cristiana
+San Agustín presenta las [[bienaventuranzas]] como los siete grados de la vida cristiana, es decir, como el itinerario que conduce desde el temor a la [[sabiduría]], culminando en la contemplación y en la paz. No son promesas aisladas sino etapas de la transformación del hombre en Cristo.
 
-[Contenido de esta sección...]
+#### Los grados de la vida cristiana en las bienaventuranzas
 
-### 2. Las bienaventuranzas comprendidas como los siete grados de la vida cristiana
+Los grados recorren el proceso espiritual: 1. pobreza de espíritu (humildad, temor de Dios); 2. mansedumbre (piedad); 3. llanto (ciencia del pecado propio); 4. hambre y sed de justicia (fortaleza); 5. misericordia (consejo); 6. limpieza de corazón (inteligencia); 7. paz y perseverancia (sabiduría). San Agustín vincula cada grado con la vida contemplativa y activa.
 
-[Contenido de esta sección...]
+#### Prolongación histórica
 
-### Los grados de la vida cristiana en las bienaventuranzas
+Esta interpretación de las bienaventuranzas como grados de la vida cristiana se prolonga en autores posteriores como Rábano Mauro, Pedro Damián y Pascasio Radberto, que la transmiten a lo largo de la Edad Media.
 
-[Contenido de esta sección...]
+#### 3. Interpretación del Sermón a partir de las bienaventuranzas
 
-### Prolongación histórica
+Si las bienaventuranzas son el resumen del Sermón, este se interpreta correctamente leyéndolo a partir de ellas: Jesús propone la vida cristiana como un camino de perfección y de felicidad en el Reino, no como un código de prohibiciones.
 
-[Contenido de esta sección...]
+#### 4. La conexión entre las bienaventuranzas y los dones del Espíritu Santo
 
-### 3. Interpretación del Sermón a partir de las bienaventuranzas
+San Agustín (y con él la tradición medieval desde Rábano Mauro y otros) correlaciona las bienaventuranzas con los [[siete_dones_del_espíritu_santo]], afirmando que cada grado corresponde a un don que perfecciona la vida sobrenatural del cristiano.
 
-[Contenido de esta sección...]
+#### Las relaciones entre las bienaventuranzas y los dones
 
-### 4. La. conexión entre las bienaventuranzas y los dones del Espíritu Santo
+La correspondencia agustiniana es: pobreza de espíritu → temor de Dios; mansedumbre → piedad; llanto → ciencia; hambre y sed de justicia → fortaleza; misericordia → consejo; limpieza de corazón → inteligencia; paz → sabiduría. Así, las bienaventuranzas se vuelven obra de los dones del Espíritu Santo, es decir, de la gracia, y no de solas fuerzas humanas.
 
-[Contenido de esta sección...]
+#### 5. Las siete peticiones del Padrenuestro
 
-### Las relaciones entre las bienaventuranzas y los dones
+El [[padrenuestro]] presenta siete peticiones que san Agustín correlaciona con los grados de las bienaventuranzas y con los dones: santificado sea tu nombre, venga tu reino, hágase tu voluntad, el pan de cada día, el perdón de las deudas, la tentación y la liberación del mal. Las tres primeras se refieren a la vida eterna y las cuatro siguientes a las necesidades presentes.
 
-[Contenido de esta sección...]
+#### La prolongación histórica
 
-### 5. Las siete peticiones del Padrenuestro
+Esta correlación entre Padrenuestro, dones y bienaventuranzas tiene larga historia en la tradición patrística y medieval, y llega hasta santo Tomás, que la asume en su [[moral_escolástica|tratado moral]].
 
-[Contenido de esta sección...]
+#### En resumen
 
-### La prolongación histórica
+El Sermón de la Montaña no es un ideal inaccesible ni una moral de excepción: es la regla de la vida cristiana en su totalidad, cuya clave se encuentra en las bienaventuranzas, los dones del Espíritu y el Padrenuestro.
 
-[Contenido de esta sección...]
+#### Respuesta agustiniana a la cuestión de la impracticabilidad del Sermón
 
-### En resumen
+San Agustín responde a la objeción de que el Sermón es impracticable: sus preceptos pueden cumplirse gracias a la gracia, y el que se considera débil debe apelar a la misericordia de Dios. La ley del Sermón es la ley de la fe, obra del Espíritu en el corazón.
 
-[Contenido de esta sección...]
+#### Una moral específicamente cristiana
 
-### Respuesta agustiniana a la cuestión de la impracticabilidad del Sermón
+El Sermón funda una [[moral_cristiana|moral específicamente cristiana]]: no se limita a prohibir o a exigir mínimos, sino que introduce la calidad evangélica de los actos (la intención, el corazón, la superabundancia de la justicia) elevando la moral filantrópica y legalista del tiempo.
 
-[Contenido de esta sección...]
+#### Lecciones para una renovación de la teología moral
 
-### Una moral específicamente cristiana
+##### a) El Sermón del Señor es el modelo perfecto o el código fundamental de la vida cristiana
 
-[Contenido de esta sección...]
+La tradición patrística considera el Sermón como norma suprema de la moral: toda la vida cristiana —virtudes, consejos, caridad— se ordena a él.
 
-### Lecciones para una renovación de la teología moral
+##### b) Interpretación del Sermón y organización de la teología moral a partir de las bienaventuranzas
 
-[Contenido de esta sección...]
+Una teología moral renovada debe organizarse desde las bienaventuranzas como resumen del Sermón, y no desde un catálogo de leyes o prohibiciones.
 
-### a) El Sermón del Señor es el modelo perfecto o el código fundamental de la vida cristiana
+##### c) La interpretación de las bienaventuranzas como los siete grados de la vida cristiana
 
-[Contenido de esta sección...]
+Las bienaventuranzas describen el crecimiento espiritual completo, de la humildad inicial a la sabiduría de la contemplación, uniendo moral y espiritualidad.
 
-### b) Interpretación del Sermón y, por consiguiente, organización de la teología moral a partir de las bienaventuranzas
+##### d) La correlación entre las bienaventuranzas y los dones del Espíritu Santo
 
-[Contenido de esta sección...]
+Las bienaventuranzas solo pueden vivirse por los [[dones_del_espíritu_santo|dones del Espíritu Santo]]: la moral cristiana es teologal, obra de la gracia.
 
-### c) La interpretación de las bienaventuranzas como los siete grados de la vida cristiana
+##### e) La relación establecida entre el Padrenuestro, los dones y las bienaventuranzas
 
-[Contenido de esta sección...]
+La oración (Padrenuestro) expresa y sostiene la vida de las bienaventuranzas: la moral cristiana es inseparable de la oración y de la vida en el Espíritu.
 
-### d) La correlación entre las bienaventuranzas y los dones del Espíritu Santo
+### 2. HACIA UN REDESCUBRIMIENTO DE LA CATEQUESIS MORAL PRIMITIVA
 
-[Contenido de esta sección...]
+Pinckaers propone redescubrir la catequesis moral primitiva de la Iglesia (Didaché, Catequesis de los Padres apostólicos), que exponía la moral cristiana a partir del doble camino de la vida y de la muerte, de los mandamientos, del Sermón y de la caridad, uniendo fe y costumbres. Esta catequesis muestra que la moral de los primeros siglos era una catequesis de la vida cristiana en Cristo, y no un sistema abstracto de deberes.
 
-### e) La relación establecida entre el Padrenuestro, los dones y las bienaventuranzas
+## CAPITULO VII
 
-[Contenido de esta sección...]
+## ¿ES CRISTIANA LA MORAL DE SANTO TOMÁS?
 
-# 3. HACIA UN REDESCUBRIM1ENTO DE LA CATEQUESIS MORAL PRIMITIVA
+#### El problema
 
-[Contenido de esta sección...]
+La pregunta surge porque santo Tomás construyó su moral con categorías recibidas de Aristóteles y de la filosofía antigua. Se examina si la moral de la Suma es verdaderamente cristiana o si el aristotelismo la desnaturalizó. Pinckaers responde mostrando que el edificio moral de la Suma está vertebrado por la fe, la gracia y el Evangelio.
 
-### El problema
+### 1. DOS DEFECTOS DE LECTURA
 
-[Contenido de esta sección...]
+#### La miopía
 
-# 1. DOS DEFECTOS DE LECTURA
+Santo Tomás se suele leer «miopemente», sometiendo su pensamiento a nuestras propias preguntas (por ejemplo, la cuestión moderna de la obligación), lo que impide ver su organización propia y su centro: la bienaventuranza y la caridad.
 
-[Contenido de esta sección...]
+#### La esquizoscopia
 
-# La miopía
+Este defecto separa artificialmente en santo Tomás lo natural y lo sobrenatural, lo racional y lo revelado, los preceptos y los dones, dividiendo su moral en dos sectores inconexos. Tal lectura deforma la unidad orgánica de la Suma, donde la naturaleza se ordena a la gracia.
 
-[Contenido de esta sección...]
+### 2. EL TRATADO DE LA LEY EVANGÉLICA, SUMA DE LA MORAL DE SANTO TOMÁS
 
-# La esquizoscopia
+#### La historia del tratado de la Ley evangélica
 
-[Contenido de esta sección...]
+En los comentarios a las Sentencias y en la moral anterior no existía un tratado de la ley evangélica. Santo Tomás lo elabora por primera vez en la [[moral_escolástica|Segunda parte de la Suma]] (I-II, q. 106 ss.), dándole una función capital.
 
-# 2. EL TRATADO DE LA LEY EVANGÉLICA, SUMA DE LA MORAL DE SANTO TOMÁS
+#### La definición de la Ley evangélica
 
-[Contenido de esta sección...]
+La [[ley_nueva|ley evangélica]] es definida por santo Tomás principalmente como «la gracia misma del Espíritu Santo dada a los fieles en Cristo», y solo secundariamente como los escritos y la enseñanza que disponen a esa gracia. No es, pues, una ley escrita impuesta desde fuera, sino una ley de vida recibida en el corazón.
 
-# La historia del tratado de la Ley evangélica
+### 3. LA LEY EVANGÉLICA, PIEDRA ANGULAR DE LA TEOLOGÍA
 
-[Contenido de esta sección...]
+#### La Ley evangélica como cabeza del cuerpo de la moral
 
-# La definición de la Ley evangélica
+El tratado de la [[ley_evangélica]] corona toda la moral de la Suma: con él se iluminan los actos humanos, las pasiones, las virtudes y las leyes que la preceden. Es la «cabeza» que da unidad al cuerpo de la moral tomista.
 
-[Contenido de esta sección...]
+#### La Ley evangélica, suma de la legislación divina
 
-# 3. LA LEY EVANGÉLICA, PIEDRA ANGULAR DE LA TEOLOGÍA
+La ley evangélica contiene en sí, por la gracia de Cristo, lo esencial de toda la legislación divina (eterna, natural, moral): no aboliendo la ley sino llevándola a plenitud. De ahí su centralidad en la [[moral_escolástica|moral de santo Tomás]].
 
-[Contenido de esta sección...]
+### 4. EL SERMÓN DE LA MONTAÑA, TEXTO DE LA LEY EVANGÉLICA
 
-# La Ley evangélica como cabeza del cuerpo de la moral.
+#### La Ley evangélica y los preceptos morales
 
-[Contenido de esta sección...]
+El [[sermón_de_la_montaña]] es el texto donde Jesús promulgó la ley evangélica: contiene los preceptos morales de la ley nueva. Por eso el lugar propio de la moral cristiana es la lectura del Sermón como ley de Cristo.
 
-# La Ley evangélica, suma de la legislación divina
+### 5. LA LEY EVANGÉLICA, COMO «LEY DE LIBERTAD»
 
-[Contenido de esta sección...]
+#### La Ley evangélica y la espontaneidad voluntaria
 
-# 4. EL SERMÓN DE LA MONTAÑA, TEXTO DE LA LEY EVANGÉLICA
+La [[ley_nueva_como_ley_de_libertad|ley evangélica es ley de libertad]]: porque es obra del Espíritu, que actúa en el interior y hace amar lo que la ley ordena; el justo cumple la voluntad de Dios con gozo y espontaneidad, no por coacción externa.
 
-[Contenido de esta sección...]
+#### La Ley evangélica y los consejos
 
-# La Ley evangélica y los preceptos morales
+Los [[consejos_evangélicos]] (pobreza, virginidad, obediencia) no se añaden como carga sino como expresión de la libertad del amor: quien sigue los consejos no se obliga por necesidad sino que responde con generosidad a la vocación recibida, según la medida de cada uno.
 
-[Contenido de esta sección...]
+#### CONCLUSIÓN: SANTO TOMÁS, EL EVANGELIO Y ARISTÓTELES
 
-# 5. LA LEY EVANGÉLICA, COMO «LEY DE LIBERTAD»
+La moral de santo Tomás es profundamente cristiana: su estructura (bienaventuranza, virtudes, dones, ley evangélica) procede del Sermón y del Evangelio, mientras que Aristóteles solo le aporta instrumentos filosóficos. El aristotelismo queda subordinado y transformado por la gracia, la fe y la caridad. Por eso la teología moral tomista puede y debe leerse a la luz del Evangelio.
 
-[Contenido de esta sección...]
+## SEGUNDA PARTE
 
-# La Ley evangélica y la espontaneidad voluntaria
+## ESBOZO DE UNA HISTORIA
 
-[Contenido de esta sección...]
-
-# La Ley evangélica y los consejos
-
-[Contenido de esta sección...]
-
-# CONCLUSIÓN: SANTO TOMÁS, EL EVANGELIO Y ARISTÓTELES
-
-[Contenido de esta sección...]
+## DE LA TEOLOGÍA MORAL

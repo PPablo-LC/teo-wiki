@@ -3,40 +3,19 @@ type: ResumenFuente
 title: "SIGLO XVIII"
 fuente: Historia_de_la_Iglesia_-_P._Antonio_Rivero_L.C_
 capítulo: 36
-timestamp: 2026-08-24
-description: "Resumen de 'SIGLO XVIII' — Historia_de_la_Iglesia_-_P._Antonio_Rivero_L.C_"
-tags: ["resumen", "historia de la iglesia - p. antonio rivero l.c "]
+timestamp: 2026-08-27
+description: "Resumen de la cabecera del siglo XVIII, cuyo desarrollo se encuentra en el archivo siguiente de la fuente"
+tags: ["resumen", "historia de la iglesia - p. antonio rivero l.c", "siglo_xviii"]
 ---
 
 # SIGLO XVIII
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- (La cabecera del siglo XVIII no desarrolla conceptos teológicos; su contenido se despliega en el capítulo siguiente de la fuente.)
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `36_siglo_xviii.md`
+Este archivo constituye la cabecera del siglo XVIII dentro de la historia de la Iglesia. El texto se limita a anunciar el comienzo de esta centuria, cuyo desarrollo histórico completo se encuentra en el capítulo siguiente de la fuente.
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H1 | SIGLO XVIII |
-
-
-## Secciones incluidas
-
+El contenido de este siglo XVIII se desarrolla en profundidad en el archivo sucesivo, donde se estudian la [[ilustración]] y el culto a la razón, la [[revolución_francesa]], la [[masonería]], los movimientos despóticos del [[febronianismo]] y el [[josefismo]], la [[supresión_de_la_compañía_de_jesús]] y el auge del protestantismo en nuevas ramas. Fue un siglo muy convulso para la Iglesia, que hubo de defenderse ante el asalto del mundo ilustrado y revolucionario.

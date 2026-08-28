@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "CAPÍTULO XVII"
 fuente: Las Fuentes de la Moral cristiana - Servais Pinkaers, OP
 capítulo: 17
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'CAPÍTULO XVII' — Las Fuentes de la Moral cristiana - Servais Pinkaers, OP"
 tags: ["resumen", "las fuentes de la moral cristiana - servais pinkaers, op"]
 ---
@@ -12,307 +12,226 @@ tags: ["resumen", "las fuentes de la moral cristiana - servais pinkaers, op"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[inclinaciones_naturales]] — las disposiciones naturales del hombre a la verdad y al bien, en el origen de la libertad y de la moral.
+- [[ley_natural]] — ley inscrita en el corazón, conocida por la razón, que ordena las inclinaciones naturales.
+- [[libertad_de_calidad]] — la libertad que se arraiga en las inclinaciones naturales y se desarrolla mediante las virtudes.
+- [[virtud]] — disposición que trae a su madurez las inclinaciones naturales, coordinándolas hacia el fin.
+- [[bienaventuranza]] — la felicidad y el fin último hacia los que tiende la inclinación natural al bien.
+- [[matrimonio]] — fin y culminación de la inclinación natural sexual, ordenada a la procreación y la educación.
+- [[virginidad]] — estado que, por el reino de los cielos, guía la inclinación sexual hacia la vida eterna y muestra su coherencia con la naturaleza.
+- [[decálogo]] — la ley moral que formula las prescripciones que la razón práctica descubre a partir de las inclinaciones naturales.
+- [[principiantes_adelantados_perfectos]] — los grados del progreso que suponen una moral creciente de las inclinaciones y las virtudes.
+- [[santo_tomás_de_aquino]] — fuente de la doctrina de las inclinaciones naturales aquí expuesta.
+- [[integridad]] — la incorporación de las inclinaciones naturales a la moral como integridad debida por la virtud.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `17_capitulo_XVII.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | CAPÍTULO XVII |
-| 3 | H1 | LAS INCLINACIONES NATURALES EN EL ORIGEN |
-| 5 | H1 | DE LA LIBERTAD Y DE LA MORAL |
-| 9 | H2 | 1. Inclinación natural y libertad |
-| 37 | H2 | Verificación en el lenguaje comente |
-| 47 | H2 | Los términos «inclinación» y «determinación» |
-| 57 | H2 | Inclinaciones naturales y ley natural |
-| 67 | H2 | 2. La lista de las inclinaciones naturales |
-| 99 | H2 | 3. LA Inclinación natural al bien |
-| 103 | H2 | 1. La definición del bien |
-| 107 | H4 | El bien es lo que todo ser desea, lo que todo hombre desea |
-| 123 | H4 | La universalidad del bien |
-| 129 | H2 | 2. La noción de bien: perfección, felicidad y fin El bien como perfecc |
-| 141 | H4 | El bien como fin |
-| 161 | H4 | El bien honesto, útil, deleitable |
-| 175 | H4 | La generosidad y la fecundidad del bien |
-| 185 | H2 | 3. El bien propio del hombre es el bien conocido |
-| 201 | H4 | El bien verdadero y el bien aparente |
-| 215 | H2 | 4. «Bonum est faciendum, malum est vitandum» |
-| 229 | H4 | El alcance general de la inclinación al bien |
-| 239 | H2 | 4. La inclinación natural a la conservación del ser |
-| 243 | H2 | La substancia y la persona |
-| 249 | H2 | El deseo de ser y de vivir |
-| 253 | H2 | El amor natural a si mismo |
-| 261 | H2 | Una inclinación dinámica |
-| 273 | H2 | 5. La inclinación natural al conocimiento de la verdad |
-| 275 | H4 | El deseo de conocer |
-| 285 | H4 | Redescubrir la verdad |
-| 295 | H2 | Derecho y deber relativos a la verdad. |
-| 301 | H2 | La cuestión actual de la verdad |
-| 315 | H4 | El amor a la verdad por sí misma y la objetividad |
-| 323 | H2 | Dimensión contemplativa y universalidad |
-| 329 | H2 | 6. La inclinación natural a la vida en sociedad |
-| 331 | H2 | En el origen de la sociedad |
-| 337 | H2 | La inclinación a la amistad |
-| 347 | H2 | Justicia y amistad |
-| 355 | H2 | La sociedad, obra natural o creación artificial |
-| 363 | H2 | Divergencias en la interpretación de los dos primeros mandamientos |
-| 371 | H2 | Otra concepción de la justicia |
-| 379 | H2 | Realizaciones múltiples |
-| 385 | H2 | 7. La inclinación sexual |
-| 387 | H2 | A. La sexualidad en el hombre |
-| 397 | H2 | Una doctrina nueva |
-| 405 | H4 | El combate moral |
-| 411 | H4 | La interpretación dualista |
-| 425 | H2 | B. La convergencia de las otras inclinaciones naturales con la inclina |
-| 445 | H4 | La relación única con Dios |
-| 453 | H2 | C. Los dos fines del matrimonio |
-| 471 | H2 | D. El matrimonio y la virginidad |
-| 473 | H4 | La conformidad de la virginidad con la naturaleza humana |
-| 491 | H4 | La dimensión sobrenatural de la virginidad y de la vida religiosa |
-| 503 | H4 | La complementariedad entre el matrimonio y la virginidad en la Iglesia |
-| 511 | H2 | Conclusión |
-| 513 | H2 | La coordinación entre las inclinaciones, la ley natural y las virtudes |
-| 529 | H2 | Correspondencia detallada |
-| 569 | H2 | Conclusión |
-| 611 | H4 | La moral y el pecado |
-| 615 | H4 | Eudemonismo y espontaneidad espiritual |
+## LAS INCLINACIONES NATURALES EN EL ORIGEN DE LA LIBERTAD Y DE LA MORAL
 
+## 1. Inclinación natural y libertad
 
-## Secciones incluidas
+La cuestión de las inclinaciones naturales (naturalia) ha vuelto a ser nuclear en la moral cristiana, ya que en ellas se arraiga la libertad según santo Tomás. En la experiencia corriente, la libertad se opone a las inclinaciones o impulsos. En la moral de santo Tomás acontece lo contrario: la libertad se conjuga con las inclinaciones naturales y las desarrolla; se habla incluso de inclinación a la libertad.
 
-# 1. Inclinación natural y libertad
+#### Verificación en el lenguaje comente
 
-[Contenido de esta sección...]
+El lenguaje común confirma esta unión: se dice que alguien «tiene aptitudes» para ciertas cualidades, que posee el «sentido musical», que «siente una inclinación por la equidad», o que la razón «se inclina» a la virtud. Hablamos del «natural» de una persona, del «genio» que indica un carácter según las inclinaciones congénitas. Nuestras facultades (ver, oír, desear, juzgar, amar) funcionan espontáneamente. El ejercicio de la libertad reclama la colaboración de una espontaneidad natural que la fundamenta.
 
-# Verificación en el lenguaje comente
+#### Los términos «inclinación» y «determinación»
 
-[Contenido de esta sección...]
+Santo Tomás sitúa las inclinaciones naturales en estrecha relación con la libertad: fundamentan y alimentan el ejercicio del libre arbitrio. Un hábito es una «inclinación» (habitus est inclinatio), y el habitus natural es la inclinación natural a lo que conviene según la forma de la naturaleza. La naturaleza se define como «inclinación», por lo que las inclinaciones naturales constituyen la naturaleza humana. Las inclinaciones implican una «determinación» natural de la libertad por la forma del bien. La libertad de calidad se arraiga así en la determinación, que no se opone a la libertad sino que la constituye: cuanto mayor es la inclinación y determinación al bien, tanto más libre es el hombre.
 
-# Los términos «inclinación» y «determinación»
+#### Inclinaciones naturales y ley natural
 
-[Contenido de esta sección...]
+Las inclinaciones naturales son el fundamento de la ley natural: «todas aquellas cosas a las que el hombre se inclina naturalmente, la razón las aprehende como buenas y, por consiguiente, como dignas de prosecución activa, mientras que sus contrarios, como malos y evitables» (I-II, q. 94, a. 2). La bondad natural de las inclinaciones se transparenta en la bondad de sus fines. Los tratados tomistas de la prudencia se abren con la sindéresis, el primer principio «bonum est faciendum, malum est vitandum», que traduce jurídicamente el sentido de las inclinaciones naturales. La naturaleza es así el fundamento de la ley natural, no la libertad.
 
-# Inclinaciones naturales y ley natural
+## 2. La lista de las inclinaciones naturales
 
-[Contenido de esta sección...]
+Santo Tomás en el artículo 2 de la cuestión 94 de la I-II señala el orden de las inclinaciones: (1) el ser del hombre se inclina al bien conforme a su naturaleza común con todos los seres (conservarse en el ser); (2) conforme a su naturaleza animal, a lo que la naturaleza enseña a todos los animales (unión macho-hembra, educación de los hijos, y similares); (3) conforme a su naturaleza racional, a lo que es propio de la razón (conocer la verdad, conocer a Dios y vivir en sociedad). Se añadirá también la inclinación natural a la virtud (genus, species, virtus). No es preciso presuponer la jerarquía tomista de los fines para una primera aproximación cristiana a las inclinaciones naturales: se comprende la unidad de la persona, que integra éxito y fracaso moral, y la realidad de la gracia.
 
-# 2. La lista de las inclinaciones naturales
+## 3. La inclinación natural al bien
 
-[Contenido de esta sección...]
+## 1. La definición del bien
 
-# 3. LA Inclinación natural al bien
+#### El bien es lo que todo ser desea, lo que todo hombre desea
 
-[Contenido de esta sección...]
+El bien es «lo que todos desean» (Aristóteles). Santo Tomás lo entiende como «lo que todas las cosas apetecen» (omnes expetunt). El bien se proporciona al apetito o deseo: aquello hacia lo cual se inclina el deseo. Esta definición es una de las más grandes de la metafísica, pues, unida a la del ser, basta para construir la moral entera.
 
-# 1. La definición del bien
+#### La universalidad del bien
 
-[Contenido de esta sección...]
+El bien es común a todo lo que existe y abarca todo lo deseable. Su universalidad es la del ser: el bien se identifica con el ser en cuanto deseable. Todo lo que existe es bueno, y la bondad del ser satura todos los órdenes (ontológico, moral, sobrenatural).
 
-### El bien es lo que todo ser desea, lo que todo hombre desea
+## 2. La noción de bien: perfección, felicidad y fin El bien como perfección y felicidad
 
-[Contenido de esta sección...]
+El término «bien» se usa en dos sentidos: como lo que conviene a la naturaleza (utilidad) y como la perfección o felicidad (bien humano). El bien puede definirse como aquello cuya aprehensión y posesión satisface al deseo humano y constituye la felicidad. La felicidad es la posesión estable del bien que sacia el deseo; el hombre la busca para sí, por sí misma y siempre.
 
-### La universalidad del bien
+#### El bien como fin
 
-[Contenido de esta sección...]
+El fin es el término del apetito, del deseo y de la inclinación: es el bien hacia el que tiende el deseo y la acción. El fin, que es el principio y el término de la acción, la determina y la orienta.
 
-# 2. La noción de bien: perfección, felicidad y fin El bien como perfección y felicidad
+#### El bien honesto, útil, deleitable
 
-[Contenido de esta sección...]
+Son tres aspectos del bien según la relación con el deseo: el bien honesto (decoro, digno de alabanza), el bien útil (referido a otro bien) y el bien deleitable (que satisface el deseo). La moral cristiana ha tomado una connotación severa de esta distinción, aunque no siempre esté justificada.
 
-### El bien como fin
+#### La generosidad y la fecundidad del bien
 
-[Contenido de esta sección...]
+El bien es esencialmente comunicable y difunde su luz sobre la totalidad del ser y de la vida. La caridad es el amor del bien en cuanto querido por sí mismo, de donde el amor de caridad es el más fuerte y el amor más perfecto. La bendición de Dios es la fecundidad del bien.
 
-### El bien honesto, útil, deleitable
+## 3. El bien propio del hombre es el bien conocido
 
-[Contenido de esta sección...]
+La definición del bien como objeto del deseo se ha de precisar para el hombre: su bien propio es el bien conocido, pues el deseo humano procede del conocimiento. La inclinación al bien se desarrolla entre dos polos: la apetencia de lo que entra por los sentidos (bien concreto) y la apetencia de lo conocido por el espíritu (bien universal). El hombre se distingue por el conocimiento del bien universal, que hace posible su libertad.
 
-### La generosidad y la fecundidad del bien
+#### El bien verdadero y el bien aparente
 
-[Contenido de esta sección...]
+El bien puede presentarse bajo dos especies: el bien verdadero (conforme a la razón) y el bien aparente (que deleita los sentidos pero no es conforme a la razón). El bien verdadero es objeto del apetito racional conforme al conocimiento; el bien aparente, objeto del apetito sensitivo. La virtud de la templanza hace del gusto un juicio conforme a la razón.
 
-# 3. El bien propio del hombre es el bien conocido
+## 4. «Bonum est faciendum, malum est vitandum»
 
-[Contenido de esta sección...]
+El primer principio de la razón práctica, «hay que hacer el bien y evitar el mal», traduce la inclinación al bien en forma de ley. Lo que está incluido en las inclinaciones naturales pertenece a la ley natural; si no fuera así, no habría ninguna ley natural: el bien propuesto por la razón práctica no sería ya «razón natural de las cosas».
 
-### El bien verdadero y el bien aparente
+#### El alcance general de la inclinación al bien
 
-[Contenido de esta sección...]
+La inclinación al bien encierra todas las demás inclinaciones: todas se ordenan al bien y se integran en su movimiento. El bien es el tema capital de la moral, que abraza todas las cuestiones: del bien, de la felicidad, del fin último, de la virtud y del amor.
 
-# 4. «Bonum est faciendum, malum est vitandum»
+## 4. La inclinación natural a la conservación del ser
 
-[Contenido de esta sección...]
+La primera inclinación es a conservar el ser, común a todos los seres. Es la inclinación de la persona y a la vez de la substancia. Implica aseveraciones importantes para la moral: la substancia tiende a conservarse en el ser, de donde el instinto de conservación y el deseo de vivir, que no es egoísmo sino exigencia del amor natural a sí mismo. Es una inclinación dinámica, que no se detiene en la mera conservación sino que tiende al desarrollo, la perfección, la felicidad y el fin: el deseo de vivir más, de que la vida sea plena.
 
-### El alcance general de la inclinación al bien
+## La substancia y la persona
 
-[Contenido de esta sección...]
+Se subraya el sentido profundo de la conservación del ser, propio de la persona, que acarrea una infinidad de consecuencias para la moral y la sociedad.
 
-# 4. La inclinación natural a la conservación del ser
+## El deseo de ser y de vivir
 
-[Contenido de esta sección...]
+La inclinación a la conservación del ser se expresa en el respeto del derecho a la vida (primer mandamiento) y en las cuestiones actuales de la vida naciente y de la vida humana en todas sus dimensiones.
 
-# La substancia y la persona
+## El amor natural a si mismo
 
-[Contenido de esta sección...]
+El amor natural a sí mismo es la raíz del amor de Dios y de los demás; supone una visión positiva de sí mismo, indispensable para amar a los otros. La moral cristiana no proscribe el amor de sí sino que lo ordena a Dios y al prójimo, y distingue el amor de sí ordenado del amor de sí desordenado (egoísmo, orgullo).
 
-# El deseo de ser y de vivir
+## Una inclinación dinámica
 
-[Contenido de esta sección...]
+La inclinación a la conservación del ser es dinámica: tiende a la consecución de la felicidad. El primer mandamiento de la ley de Dios, que invita a adorarle, supone esta inclinación constitutiva. La moral se abre al sentido de la vida, de la persona y de la conciencia.
 
-# El amor natural a si mismo
+## 5. La inclinación natural al conocimiento de la verdad
 
-[Contenido de esta sección...]
+El deseo de conocer es espontáneo y universal en el hombre: la sorpresa de la curiosidad infantil ante las maravillas del mundo y las preguntas fundamentales sobre el sentido de la vida, la muerte, el amor y Dios. La tradición ha distinguido dos órdenes de conocimiento: el conocimiento sensible (ciencias empíricas, técnica) y el conocimiento de la verdad por la razón y el espíritu (filosofía, contemplación, sabiduría). El deseo de conocer es propio de la naturaleza racional: el hombre, por naturaleza, desea saber (Aristóteles). El amor a la verdad por sí misma y la objetividad forman parte de esta inclinación, que la moral debe respetar y orientar.
 
-# Una inclinación dinámica
+## El deseo de conocer
 
-[Contenido de esta sección...]
+El deseo de conocer la verdad es innato y se manifiesta en la búsqueda de explicaciones y certezas, en el estudio y la investigación. La moral de la verdad se entronca en esta inclinación.
 
-# 5. La inclinación natural al conocimiento de la verdad
+## Redescubrir la verdad
 
-[Contenido de esta sección...]
+Hay una tendencia del hombre al conocimiento de la verdad, base de la catequesis y la educación cristianas. El desconocimiento de esta inclinación lleva a una visión meramente jurídica de la verdad (deberes y derechos), que olvida el deseo natural de conocerla.
 
-### El deseo de conocer
+## Derecho y deber relativos a la verdad.
 
-[Contenido de esta sección...]
+Un análisis moral de la verdad exige distinguir el derecho-deber de conocer la verdad (que pertenece a la naturaleza racional) de las obligaciones relativas a la manifestación de la verdad (evitar la mentira en el hablar). Son dos planos complementarios.
 
-### Redescubrir la verdad
+## La cuestión actual de la verdad
 
-[Contenido de esta sección...]
+La cuestión principal de la moral actual es el relativismo: la negación de una verdad objetiva y universal. La inclinación natural al conocimiento de la verdad es el fundamento para superar el relativismo y afirmar la búsqueda sincera de la verdad como exigencia moral.
 
-# Derecho y deber relativos a la verdad.
+## El amor a la verdad por sí misma y la objetividad
 
-[Contenido de esta sección...]
+El amor a la verdad por sí misma implica objetividad: referir el juicio a la realidad conocida y no a los intereses. La moral de la verdad exige esta objetividad en el conocer y en el decir.
 
-# La cuestión actual de la verdad
+## Dimensión contemplativa y universalidad
 
-[Contenido de esta sección...]
+La inclinación al conocimiento de la verdad tiene una dimensión contemplativa: la verdad se ama por sí misma y la contemplación es el gozo de la verdad. Su universalidad la abre al conocimiento de Dios, al que pertenece la visión beatífica.
 
-### El amor a la verdad por sí misma y la objetividad
+## 6. La inclinación natural a la vida en sociedad
 
-[Contenido de esta sección...]
+El hombre es naturalmente social: tiende a vivir en sociedad por su naturaleza, no sólo por utilidad. Santo Tomás sigue a Aristóteles (el hombre es animal social) y lo completa con la predicación del Evangelio. La sociabilidad se ordena a la comunicación del conocimiento del bien, al intercambio de bienes y a la vida de la amistad. La inclinación a la vida en sociedad es la base de una moral de la justicia y la amistad.
 
-# Dimensión contemplativa y universalidad
+## En el origen de la sociedad
 
-[Contenido de esta sección...]
+En el origen de la sociedad está la tendencia natural del hombre a asociarse: la unión de los sexos, la generación y la educación de los hijos, y la mutua comunicación entre los hombres. La sociabilidad es «natural» al hombre, no un pacto artificial.
 
-# 6. La inclinación natural a la vida en sociedad
+## La inclinación a la amistad
 
-[Contenido de esta sección...]
+La inclinación a vivir en sociedad culmina en la amistad. La amistad es una forma de amor entre personas que se quieren por sí mismas y comparten bienes. Es la base de la vida moral y de la vida espiritual, y se ordena a la amistad con Dios.
 
-# En el origen de la sociedad
+## Justicia y amistad
 
-[Contenido de esta sección...]
+La sociedad se funda sobre la justicia, pero su perfección es la amistad. Hay una justicia «commutativa», «distributiva» y «legal»; la amistad añade la dimensión del amor a las relaciones humanas. La sociabilidad cristiana une la justicia y la caridad.
 
-# La inclinación a la amistad
+## La sociedad, obra natural o creación artificial
 
-[Contenido de esta sección...]
+Contra las concepciones nominalistas y contractualistas (que ven la sociedad como artificio, como «hombre lobo para el hombre»), santo Tomás la considera obra natural. La sociabilidad es constitutiva de la persona humana.
 
-# Justicia y amistad
+## Divergencias en la interpretación de los dos primeros mandamientos
 
-[Contenido de esta sección...]
+San Agustín comentó la ley natural fundándola en los dos primeros mandamientos del Decálogo (amar a Dios y al prójimo). Existen divergencias de interpretación entre los autores antiguos y modernos, sobre todo en torno a la distinción y el orden de estos dos mandamientos.
 
-# La sociedad, obra natural o creación artificial
+## Otra concepción de la justicia
 
-[Contenido de esta sección...]
+Santo Tomás define la justicia como «el hábito según el cual uno, con voluntad constante y perpetua, da a cada uno su derecho» (II-II, q. 58, a. 1). Es una justicia de las inclinaciones y los fines, distinta de la justicia meramente deontológica y legalista.
 
-# Divergencias en la interpretación de los dos primeros mandamientos
+## Realizaciones múltiples
 
-[Contenido de esta sección...]
+La inclinación a la vida en sociedad se realiza de múltiples formas: la familia, las asociaciones, los cuerpos profesionales, la nación y la Iglesia. Cada realización aporta una dimensión de la sociabilidad y de la amistad.
 
-# Otra concepción de la justicia
+## 7. La inclinación sexual
 
-[Contenido de esta sección...]
+## A. La sexualidad en el hombre
 
-# Realizaciones múltiples
+La moral de la sexualidad se apoya en la inclinación natural sexual, única en el reino animal en tener un sentido humano y una finalidad. Para el cristiano, la sexualidad, fundada en la creación (Gén 1-2) y elevada por la Redención (Ef 5; Mt 19), presenta un misterio. El matrimonio, en el orden de la naturaleza, y la virginidad por el reino de los cielos, en el orden de la gracia, son las dos grandes realizaciones de la inclinación sexual.
 
-[Contenido de esta sección...]
+## Una doctrina nueva
 
-# 7. La inclinación sexual
+La doctrina cristiana de la sexualidad es nueva respecto a la pagana: valora la vocación matrimonial con una dignidad nueva, la ordena a fines que la superan y la une al misterio de Cristo y de la Iglesia. Se subraya el peligro de un dualismo que desvalorice el cuerpo.
 
-[Contenido de esta sección...]
+#### El combate moral
 
-# A. La sexualidad en el hombre
+La vida moral implica un combate para ordenar la sexualidad, sobre todo los sentidos y la imaginación; la virtud de la castidad lo hace posible en continuidad con la inclinación natural.
 
-[Contenido de esta sección...]
+#### La interpretación dualista
 
-# Una doctrina nueva
+Se denuncia la interpretación dualista que opone el cuerpo (considerado malo) al espíritu; contra ella, la moral católica afirma la bondad del cuerpo y de la sexualidad, creados por Dios.
 
-[Contenido de esta sección...]
+## B. La convergencia de las otras inclinaciones naturales con la inclinación al matrimonio
 
-### El combate moral
+La inclinación al matrimonio es el punto de convergencia de las demás inclinaciones: la conservación del ser (perpetuación de la vida), la vida en sociedad (la familia como célula primera), el conocimiento de la verdad y el bien (la educación de los hijos), y la unión de las personas. El matrimonio aparece como la realización plena y armoniosa de las inclinaciones naturales, ordenada a un fin trascendente.
 
-[Contenido de esta sección...]
+#### La relación única con Dios
 
-### La interpretación dualista
+La inclinación matrimonial converge también en la relación única del hombre con Dios: la familia es imagen de la vida trinitaria y de la Iglesia, y el amor conyugal se ordena al amor de Dios.
 
-[Contenido de esta sección...]
+## C. Los dos fines del matrimonio
 
-# B. La convergencia de las otras inclinaciones naturales con la inclinación al matrimonio
+El matrimonio tiene dos fines: la procreación y educación de los hijos (fin primario) y el amor y la ayuda mutua de los esposos (fin secundario). Los dos fines se complementan y se integran en la ordenación de la comunidad conyugal. La moral del matrimonio distingue y coordina estos fines, que no se oponen sino que se completan.
 
-[Contenido de esta sección...]
+## D. El matrimonio y la virginidad
 
-### La relación única con Dios
+#### La conformidad de la virginidad con la naturaleza humana
 
-[Contenido de esta sección...]
+La virginidad es conforme a la naturaleza humana: no niega la inclinación sexual, sino que la orienta hacia una finalidad más alta, la consagración a Dios, y así la mantiene en su verdad. La virginidad es posible y armoniosa porque la inclinación sexual no agota el sentido de la persona, que se ordena a Dios.
 
-# C. Los dos fines del matrimonio
+#### La dimensión sobrenatural de la virginidad y de la vida religiosa
 
-[Contenido de esta sección...]
+La virginidad y la vida religiosa tienen una dimensión sobrenatural: por el reino de los cielos (Mt 19, 12), significan la entrega total a Cristo y la esperanza de la vida eterna. La vida consagrada es signo del amor escatológico y de la primacía de Dios.
 
-# D. El matrimonio y la virginidad
+#### La complementariedad entre el matrimonio y la virginidad en la Iglesia y la vida cristiana
 
-[Contenido de esta sección...]
+Matrimonio y virginidad se complementan en la Iglesia: el matrimonio es signo del amor de Cristo por la Iglesia, y la virginidad significa la esperanza escatológica. Ambos estados se apoyan en la misma inclinación natural y se integran en la vida cristiana, en la que son igualmente dignos y fecundos.
 
-### La conformidad de la virginidad con la naturaleza humana
+## Conclusión
 
-[Contenido de esta sección...]
+## La coordinación entre las inclinaciones, la ley natural y las virtudes
 
-### La dimensión sobrenatural de la virginidad y de la vida religiosa
+Las inclinaciones naturales se coordinan con la ley natural y las virtudes en la unidad de la persona. El tratado de las virtudes muestra que son disposiciones que llevan a madurez las inclinaciones naturales. La ley natural, por su parte, formula en forma de mandamientos las exigencias que la razón práctica descubre en las inclinaciones. Las virtudes, la ley natural y las inclinaciones cooperan en la realización del bien.
 
-[Contenido de esta sección...]
+## Correspondencia detallada
 
-### La complementariedad entre el matrimonio y la virginidad en la Iglesia y la vida cristiana
+Se establece una correspondencia detallada entre las inclinaciones naturales, los preceptos de la ley natural y las virtudes particulares: la inclinación a la conservación del ser con la virtud de la templanza (vida), la inclinación al conocimiento de la verdad con la prudencia y la ciencia, la inclinación a la vida en sociedad con la justicia y la amistad, y la inclinación sexual con la castidad. La correspondencia muestra la unidad del orden moral.
 
-[Contenido de esta sección...]
+## Conclusión
 
-# Conclusión
+## La moral y el pecado
 
-[Contenido de esta sección...]
+La moral no es un orden artificial de preceptos sino el desarrollo de las inclinaciones naturales a la luz de la fe. El pecado se entiende como el fracaso de la persona en el ejercicio de sus inclinaciones hacia el bien: la desviación de las inclinaciones naturales, no su supresión. La moral cristiana integra la realidad del pecado y la redención.
 
-# La coordinación entre las inclinaciones, la ley natural y las virtudes
+## Eudemonismo y espontaneidad espiritual
 
-[Contenido de esta sección...]
-
-# Correspondencia detallada
-
-[Contenido de esta sección...]
-
-# Conclusión
-
-[Contenido de esta sección...]
-
-### La moral y el pecado
-
-[Contenido de esta sección...]
-
-### Eudemonismo y espontaneidad espiritual
-
-[Contenido de esta sección...]
+La moral de las inclinaciones naturales es eudemonista (orientada a la felicidad) y se abre a la espontaneidad espiritual: la vida moral es obra de la gracia y de los dones del Espíritu, que perfeccionan las inclinaciones naturales y las ordenan a Dios. La libertad de calidad encuentra así su plenitud en la vida según el Espíritu.

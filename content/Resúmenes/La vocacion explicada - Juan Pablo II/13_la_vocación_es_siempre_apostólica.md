@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "**La vocación es siempre apostólica**"
 fuente: La vocacion explicada - Juan Pablo II
 capítulo: 13
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de '**La vocación es siempre apostólica**' — La vocacion explicada - Juan Pablo II"
 tags: ["resumen", "la vocacion explicada - juan pablo ii"]
 ---
@@ -12,34 +12,19 @@ tags: ["resumen", "la vocacion explicada - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[vocación_cristiana]] — la vocación como llamada que tiende al apostolado
+- [[apostolado]] — responsabilidad apostólica de todo cristiano
+- [[vocación_laical]] — participación del laico en la misión
+- [[evangelización]] — llevar a Cristo a quienes no lo conocen
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `13_la_vocación_es_siempre_apostólica.md`
+**La vocación es siempre apostólica**
 
+Dios llama a quien quiere, por libre iniciativa de su amor, pero quiere llamar a través de otras personas. Así lo hizo el Señor Jesús: fue *Andrés* quien condujo a Jesús a su hermano *Pedro*; Jesús llamó a Felipe, pero fue Felipe quien llevó a Natanael (cf. Jn 1, 40-46).
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+No debe existir temor en proponer directamente a una persona la llamada del Señor: es un acto de estima y de confianza, y puede ser un momento de luz y de gracia.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | **La vocación es siempre apostólica** |
+Ningún cristiano está exento de su responsabilidad apostólica; ninguno puede ser sustituido en las exigencias de su apostolado personal. Ninguna actividad humana puede quedar ajena a la pasión apostólica. Muchos coetáneos no conocen a Cristo o no lo conocen lo suficiente; por eso no se puede permanecer callado e indiferente.
 
-
-## Secciones incluidas
-
-# **La vocación es siempre apostólica**
-
-[Contenido de esta sección...]
+La mies es mucha y se necesitan obreros en abundancia (cf. Mt 9, 37). Cristo confía en los jóvenes y cuenta con su colaboración; el Papa los invita a renovar su compromiso apostólico: «¡Cristo tiene necesidad de vosotros!». Hay que responder a su llamamiento con el valor y el entusiasmo característicos de la juventud. Toda vocación es, por naturaleza, apostólica.

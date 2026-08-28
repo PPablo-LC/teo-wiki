@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "Bernardo el Idealista San Bernardo llegó a Cîteaux a los años con una naturaleza apasionada y llena de tensiones. Hombre de grandes ideales, auténtico y genuinamente humilde, fue aprendiendo con el tiempo que el camino propio no es siempre el correcto. Su enseñanza sobre la conversión nace tanto de la Escritura como desus propias heridas y luchas personales."
 fuente: Iluminados por una gloria oculta - Ejercicios espirituales 2026 a la Curia Romana - Mons. Varden
 capítulo: 3
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'Bernardo el Idealista San Bernardo llegó a Cîteaux a los años con una naturaleza apasionada y llena de tensiones. Hombre de grandes ideales, auténtico y genuinamente humilde, ..."
 tags: ["resumen", "iluminados por una gloria oculta - ejercicios espirituales 2026 a la curia romana - mons. varden"]
 ---
@@ -12,31 +12,19 @@ tags: ["resumen", "iluminados por una gloria oculta - ejercicios espirituales 20
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[san_bernardo]] — figura que se alza imponente sobre el movimiento cisterciense del siglo XII
+- [[cistercienses]] — orden a la que se incorporó al llegar a Cîteaux en 1113 con treinta compañeros
+- [[conversión]] — enseñanza nacida tanto de la Escritura como de las propias heridas y luchas personales
+- [[humildad]] — autenticidad y humildad genuina de su carácter, que aprende que el camino propio no es siempre el correcto
 
+## Un hombre que domina el siglo XII
 
-## Contenido
+La pregunta se impone: ¿qué clase de hombre era San Bernardo, de dónde venía? Se alza imponente sobre el movimiento cisterciense del siglo XII, tal era su carisma y su laboriosidad. Muchos, incluidos algunos que deberían estar mejor informados, suponen que fue él quien puso en marcha la orden; no fue así, aunque es cierto que causó una gran conmoción cuando apareció en 1113, a la edad de veintidós años, con un grupo de treinta compañeros.
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `03_capitulo_2.md`
+## Cîteaux: novum monasterium
 
+El monasterio al que se unió, Cîteaux, era un proyecto tanto de innovación como de reforma. Sus fundadores lo establecieron en 1098 y llamaron a su casa novum monasterium: estaban haciendo algo nuevo, no reaccionando principalmente contra nada, lo cual es una suerte, porque los proyectos de reacción tarde o temprano terminan encallando. A primera vista el proyecto cisterciense era conservador; sin embargo, sus protagonistas introdujeron novedades, y esta dialéctica resultó fructífera.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+## Un idealista que aprende de sus heridas
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Bernardo el Idealista San Bernardo llegó a Cîteaux a los años con una  |
-
-
-## Secciones incluidas
-
+La confianza de Bernardo en su propio juicio podía hacerlo flexible en la observancia de procedimientos convencionales que, por lo demás, decía defender. Hombre de grandes ideales, auténtico y genuinamente humilde, fue aprendiendo con el tiempo que el camino propio no es siempre el correcto: su enseñanza sobre la [[conversión]] nace tanto de la Escritura como de sus propias heridas y luchas personales.

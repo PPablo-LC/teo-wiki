@@ -3,40 +3,13 @@ type: ResumenFuente
 title: "SIGLO II"
 fuente: Historia_de_la_Iglesia_-_P._Antonio_Rivero_L.C_
 capítulo: 3
-timestamp: 2026-08-24
-description: "Resumen de 'SIGLO II' — Historia_de_la_Iglesia_-_P._Antonio_Rivero_L.C_"
-tags: ["resumen", "historia de la iglesia - p. antonio rivero l.c "]
+timestamp: 2026-08-27
+description: "Resumen de 'SIGLO II' — cabecera del siglo II de la Historia de la Iglesia; el contenido se desarrolla en el archivo 04"
+tags: ["resumen", "historia de la iglesia - p. antonio rivero l.c"]
 ---
 
 # SIGLO II
 
-## Conceptos básicos referenciados
-
-[Lista de conceptos teológicos tratados aquí.]
-
-
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `03_siglo_ii.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H1 | SIGLO II |
-
-
-## Secciones incluidas
-
+Este archivo es la cabecera del **siglo II** en la *Historia de la Iglesia* (P. Antonio Rivero L.C.). Solo recoge el título del siglo, sin contenido doctrinal propio. El desarrollo histórico de este siglo se encuentra en el archivo `04_las_persecuciones_de_los_emperadores_romanos_cristianos_a_las_fieras_respuesta_de_la_iglesia.md`, donde se tratan las calumnias contra los cristianos y las persecuciones de los emperadores romanos, las herejías del siglo (docetismo, gnosticismo, montanismo, novacianismo), la respuesta de la Iglesia con los padres apostólicos y apologistas, y la celebración de la [[eucaristía]], el [[bautismo]], la [[penitencia]] y la [[cuaresma]].

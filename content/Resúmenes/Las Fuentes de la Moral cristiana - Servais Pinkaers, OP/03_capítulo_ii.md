@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "CAPÍTULO II"
 fuente: Las Fuentes de la Moral cristiana - Servais Pinkaers, OP
 capítulo: 3
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'CAPÍTULO II' — Las Fuentes de la Moral cristiana - Servais Pinkaers, OP"
 tags: ["resumen", "las fuentes de la moral cristiana - servais pinkaers, op"]
 ---
@@ -12,118 +12,96 @@ tags: ["resumen", "las fuentes de la moral cristiana - servais pinkaers, op"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+[[teología_moral]], [[moral_de_la_obligación]], [[imperativo_categórico]], [[bienaventuranza]], [[bienaventuranzas]], [[felicidad_humana]], [[fin_último]], [[virtud]], [[virtudes_teologales]], [[amor]], [[caridad]], [[amistad]], [[justicia]], [[verdad]], [[pecado]], [[sermón_de_la_montaña]], [[ley_natural]], [[conciencia]], [[dones_del_espíritu_santo]], [[reino_de_dios]], [[santo_tomás_de_aquino]], [[san_agustín]], [[san_pablo]]
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `02_capitulo_II.md`
+El capítulo recorre, como desde lo alto de una colina, algunas de las cuestiones principales de la [[teología_moral]] para dar una visión de conjunto de su dominio; no pretende ser ni sistemático ni exhaustivo.
 
+### 1. LA CUESTIÓN DE LA OBLIGACIÓN MORAL
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+Es la primera cuestión que viene a la mente al hablar de moral: ¿qué debo hacer? ¿qué está permitido, qué prohibido, qué es pecado?, como diría Kant. Todas estas preguntas giran en torno a la [[moral_de_la_obligación|obligación]]. A. Janssen hacía notar la unanimidad de los moralistas sobre el papel decisivo de la obligación, que se desvanece al buscar su fundamento. El trabajo del moralista comprende dos tareas: la exposición de las obligaciones a partir de leyes, preceptos o normas, y su aplicación a los actos concretos, especialmente en los casos de conciencia (el manual de los padres Génicot-Salsmans se divide en moral fundamental y casos de conciencia; el tomo III estudia 1339 casos). Esta concepción se encuentra en autores profanos: Littré define la moral como «conjunto de reglas que deben dirigir la actividad libre del hombre».
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | CAPÍTULO II |
-| 3 | H1 | PANORÁMICA DEL DOMINIO DE LA TEOLOGÍA MORAL: |
-| 5 | H1 | ALGUNAS CUESTIONES PRINCIPALES |
-| 9 | H2 | 1. LA CUESTIÓN DE LA OBLIGACIÓN MORAL |
-| 37 | H2 | 2. LA CUESTIÓN DE LA FELICIDAD |
-| 87 | H2 | 3. LA CUESTIÓN DEL SENTIDO Y DEL FIN DE LA VIDA |
-| 105 | H2 | 4. LA CUESTIÓN DEL SUFRIMIENTO |
-| 131 | H2 | 5. LA CUESTIÓN DEL AMOR |
-| 155 | H3 | El tema de la belleza |
-| 165 | H3 | Caridad, y mística |
-| 169 | H3 | Caridad y violencia |
-| 177 | H2 | 6. LA CUESTIÓN DE LA VERDAD |
-| 193 | H2 | 7. LA CUESTIÓN DE LA JUSTICIA |
-| 205 | H3 | Las variaciones del concepto de justicia |
-| 209 | H4 | 1. La justicia en la Escritura |
-| 217 | H4 | 2. La justicia en santo Tomás de Aquino |
-| 233 | H4 | 3. La justicia moderna y el derecho subjetivo |
-| 245 | H4 | 4. Las fuentes de la justicia |
-| 261 | H2 | 8. LA CUESTIÓN DEL PECADO |
-| 291 | H2 | CONCLUSIÓN |
-| 297 | H1 | PRIMERA PARTEUNA MORAL HUMANA Y CRISTIANA |
+La cuestión de la obligación es importante, pero el problema es saber si es tan central que circunscribe los límites del dominio moral, reduciendo la moral a la cuestión de la obligación y relegando lo demás a la ascética y a la espiritualidad. Problemas reveladores por su mismo exceso: cuántas veces se está obligado a un acto explícito de [[caridad]] (los Carmelitas de Salamanca: una vez al año; san Alfonso: una vez al mes), o a orar. Hay que tener en cuenta el contexto de la confesión obligatoria, pero los peligros son reales: se escapa a la moral de la obligación la mejor enseñanza evangélica (la caridad que inspira progresivamente todos los actos, el «orad sin cesar»). La primacía de la obligación se encuentra también en filosofía: Renouvier define al hombre como «animal de preceptos», prioridad de la justicia sobre el amor; los diccionarios definen la moral como «conjunto de reglas... válidas de manera absoluta». El moralista se vuelve guardián de las leyes, juez de las obligaciones; se extiende a la predicación y a los catecismos la imagen del sacerdote que enseña obligaciones y prohibiciones. Se concede que el sentido del deber bien asumido puede engendrar alta calidad moral; queda en discusión si la obligación reduce a ella todo lo demás.
 
+### 2. LA CUESTIÓN DE LA FELICIDAD
 
-## Secciones incluidas
+A. Janssen recordaba que los tomistas se dieron cuenta de que [[santo_tomás_de_aquino|santo Tomás]] es singularmente lacónico sobre la obligación: una simple ojeada a la *Prima Secundae* muestra que no dedica ninguna cuestión al estudio de la obligación (Janssen hablaba de «preterición»). Tras las virtudes hay un tratado de las leyes, pero la ley es en santo Tomás de naturaleza más sapiencial que voluntarista. En cambio, santo Tomás da el primer lugar a la cuestión de la felicidad, al tratado de la [[bienaventuranza]], que es la clave de bóveda de todo el edificio moral. Para los antiguos —Aristóteles, que consagra a la felicidad el primero y el último libro de su *Ética a Nicómaco*, y los Padres, especialmente [[san_agustín|san Agustín]]— la cuestión de la felicidad era la primera en moral: «Sin duda, todos queremos vivir felices», y san Agustín definirá la filosofía misma por el deseo de ser feliz (*Ciudad de Dios*); a Proba le responde: «Ora beatam vitam», «pide la vida feliz». La historia de la moral se divide en dos grandes épocas: la primera dominada por la cuestión de la felicidad, la segunda por la de la obligación, que dejó la felicidad fuera del dominio moral «por preterición» (el manual de Vittrant no contiene la palabra «felicidad» ni «bienaventuranza»).
 
-# 1. LA CUESTIÓN DE LA OBLIGACIÓN MORAL
+No se trata de una nueva querella entre antiguos y modernos con opción simple. La cuestión de la felicidad tiene dos consecuencias importantes:
 
-[Contenido de esta sección...]
+1. La moral de los antiguos incluía temas desaparecidos en la obligación: la [[bienaventuranza]], la [[amistad]] (libre por esencia, no puede caer bajo obligación; culmina en santo Tomás con la definición de la [[caridad]] como amistad con Dios, II-II q. 23, y en la obra del Espíritu Santo como obra de amistad, *Contra Gentes* IV), y la valentía (entre las cuatro virtudes cardinales, ligada por santo Tomás al ideal del martirio). Partiendo de la felicidad, estos temas se reintroducen sin dificultad.
 
-# 2. LA CUESTIÓN DE LA FELICIDAD
+2. Las relaciones con la Sagrada Escritura: una moral de la felicidad y las virtudes halla sin dificultad respuestas en la Escritura (bienaventuranzas, promesas, enseñanza evangélica y paulina, libros sapienciales); los moralistas de la obligación citan poco la Escritura, centrándose en el Decálogo como código de obligaciones. Se juega aquí la dimensión escriturística, evangélica y cristiana de la teología moral.
 
-[Contenido de esta sección...]
+La resistencia al eudemonismo es grande desde Kant. El padre Háring opone a la moral de la perfección personal la moral del Evangelio fundada en los mandamientos. La respuesta: la cualidad del deseo de felicidad depende del amor que lo inspira y de la concepción del hombre. Si el amor es interesado y el hombre un ser de necesidades, el deseo será egocéntrico y la moral utilitaria; si el hombre es capaz de amor de amistad, el deseo de felicidad abre a Dios y al otro. Se puede amar a Dios y al prójimo deseando su felicidad: «Hay más alegría en dar que en recibir». Los Padres propusieron un deseo de felicidad amigable, abierto y generoso, compaginable con el Evangelio.
 
-# 3. LA CUESTIÓN DEL SENTIDO Y DEL FIN DE LA VIDA
+Una moral de la bienaventuranza bien comprendida puede asumir la obligación y conceder a los mandamientos un lugar que no los disminuya, pero en un horizonte muy diferente: ciencia de la felicidad y de los caminos que a ella conducen. Dios, al dirigirse al hombre, comienza siempre ofreciéndole promesas de bienaventuranza. La función del moralista y del sacerdote se transforma: enseñar las [[bienaventuranzas]], el [[reino_de_dios|Reino de Dios]] y llevar a los hombres la respuesta de Cristo a la gran pregunta por la felicidad. Pero la cuestión de la felicidad llama a otras cuestiones.
 
-[Contenido de esta sección...]
+### 3. LA CUESTIÓN DEL SENTIDO Y DEL FIN DE LA VIDA
 
-# 4. LA CUESTIÓN DEL SUFRIMIENTO
+Alfred Adler reconocía que la vida psíquica está determinada por un fin; todo lo humano —pensar, sentir, querer, soñar— se dirige a una meta. La cuestión del sentido y del [[fin_último|fin de la vida]] es primordial, aunque a menudo no se exprese: el hombre tiene «horror al vacío» y llena su vida con riquezas, trabajo, placer, ciencia, política, amor. La filosofía y la teología han definido la bienaventuranza como el fin último, querido por sí mismo y nunca por otro, meta suprema que se busca incluso sin saberlo —como el avaro, para quien todo se convierte en dinero. La cuestión del fin último es la columna vertebral de la cuestión de la felicidad, y por eso santo Tomás comienza con ella. Los moralistas modernos dejaron de lado el tratado del fin último por demasiado especulativo, practicando una moral de los actos singulares en relación con la ley. Un ejemplo: la asistencia a misa del avaro y la de la religiosa son parecidas como casos de conciencia, pero difieren profundamente por la finalidad que las inspira. La moral puede definirse como la ciencia que enseña al hombre el sentido de la vida; el moralista debe ayudar a cada uno a responder personalmente a esta cuestión según el Evangelio.
 
-[Contenido de esta sección...]
+### 4. LA CUESTIÓN DEL SUFRIMIENTO
 
-# 5. LA CUESTIÓN DEL AMOR
+Los manuales de moral hablan poco del sufrimiento; incluso Háring no lo aborda más que a propósito de cuestiones particulares. La Escritura, en cambio, muestra que el sufrimiento ocupa el centro de la vida de Cristo —su Pasión— y de la de sus discípulos; las [[bienaventuranzas]] giran en torno a formas de sufrimiento presentadas como vías de acceso al Reino. La prueba del sufrimiento lleva al hombre a plantearse la cuestión del sentido de su vida: el justo oprimido se escandaliza por el éxito de los impíos (salmo 73), y en el debate de Job se pone a prueba todo el universo moral. El sufrimiento es la forma concreta del problema del mal: primera objeción contra la existencia de Dios que menciona santo Tomás (I, q. 2, a. 3). De su ambigüedad surge una cuestión existencial decisiva: o destruye la esperanza y arrastra a la desesperanza, o hace descubrir valores nuevos y firmes, los del Evangelio, esa «esperanza contra toda esperanza». No parecen posibles valores morales sólidos sin la experiencia del sufrimiento, gran tema de la filosofía antigua (Cicerón, *Tusculanas*) y punto de partida de la moral budista.
 
-[Contenido de esta sección...]
+Los moralistas de la obligación no han comprendido su importancia porque el sufrimiento escapa a la obligación. Partiendo de la cuestión de la felicidad, el sufrimiento es exactamente su reverso y entra en la moral desde el comienzo. Santo Tomás le concede un gran lugar: 25 artículos al dolor y a la tristeza (I-II, q. 35-39), la valentía con el don de fortaleza y el martirio (II-II, q. 123-140). Trasladarlo a la ascética es propio de una concepción racionalista que divide al hombre en una zona racional (dominio de la ética) y una afectiva que debe someterse. El racionalismo no reconoció la sensibilidad espiritual superior a la razón razonante, donde se unen el conocimiento por connaturalidad y el [[amor]] de amistad: santo Tomás habla del «instinctus rationis» y llama «instinctus Spiritus Sancti» a los [[dones_del_espíritu_santo|dones del Espíritu Santo]] (I-II, q. 68). Termina con una cita de René Le Senne: en el punto de partida de la vida moral está la conciencia del dolor y del fracaso. A la cuestión del sufrimiento se añade la de la muerte, el envés de la del sentido de la vida: la moral cristiana debe transmitir el mensaje de la muerte de Cristo, origen de una vida nueva.
 
-## El tema de la belleza
+### 5. LA CUESTIÓN DEL AMOR
 
-[Contenido de esta sección...]
+Todos los moralistas cristianos reconocen que la [[caridad]] debe ocupar un lugar de preferencia: es la forma de las virtudes (Rom 13, 8-10; 1 Cor 13). Desde los Padres se ha desarrollado el tema de la primacía de la caridad: en su *De moribus Ecclesiae catholicae*, [[san_agustín|san Agustín]] redefine las cuatro virtudes cardinales como formas del amor: «la virtud no es otra cosa que el amor soberano de Dios». El vocabulario varía (ágape, filia, eros, dilectio, caritas, amor), pero la tradición atribuye siempre a la caridad el primer lugar. Santo Tomás considera el acto de amar como el movimiento primero de la voluntad: amor de amistad que culmina en la caridad, definida como amistad suscitada por la gracia del Espíritu Santo; sin la caridad, ninguna otra virtud, incluida la fe, está verdaderamente viva.
 
-## Caridad, y mística
+En los manuales modernos la perspectiva se ha estrechado: el interés se concentra en las obligaciones que impone la caridad, y el primado real se otorga a la obediencia de la ley, vuelta verdadera «forma de las virtudes». Se explica la sorprendente cuestión de cuántas veces debe hacerse un acto de caridad. La cuestión fundamental (también kantiana): ¿interpretar los dos primeros mandamientos a partir del precepto, como la moral de la obligación, o partir del amor recto y verdadero para explicar las obligaciones, como los Padres? En términos simples: ¿amar por obediencia u obedecer por amor? Los moralistas de los manuales cortaron en dos el campo de la caridad: los deberes a la moral, los progresos a la ascética y la mística; Gilleman escribió su libro para restablecer «el primado de la caridad en la teología moral». Jamás una moral de la obligación otorgará realmente a la caridad su primado.
 
-[Contenido de esta sección...]
+El problema sigue: desconfianza instintiva ante el amor y la sensibilidad, y, por otra parte, una atracción por el amor y la espontaneidad que se abusa de la frase de [[san_agustín|san Agustín]] «Ama y haz lo que quieras»: para san Agustín, cuanto más se ama, mejor se observan las prescripciones; no hay amor verdadero sin disposición al sacrificio (Mt 19,5; Lc 14, 26-27). La cuestión del lugar de la caridad determina la representación de Dios: la moral de la obligación presenta a Dios como legislador temible y juez soberano; la reacción actual revaloriza la Bondad de Dios pero arriesga quitarle todo poder de juicio. Se trata de superar la oposición entre amor y justicia: Cristo nos revela el amor del Padre obrando por su misericordia, más poderosa que todos los [[pecado|pecados]].
 
-## Caridad y violencia
+#### El tema de la belleza
 
-[Contenido de esta sección...]
+La cuestión del amor permite reintroducir el tema de la belleza, causa primera y específica del amor según santo Tomás (I-II, q. 27, a. 1, ad 3m). San Agustín: «Tarde te amé, hermosura tan antigua y tan nueva»; san Basilio pone la belleza de Dios como causa directa de la caridad; la Escritura atribuye la belleza a Dios y a la sabiduría (Sab 8, 2). La belleza no queda en los Padres en una estética moderna: afecta al interior de los seres y de las acciones. Los moralistas modernos perdieron el sentido de la belleza porque no se ve cómo hacerla entrar en las obligaciones: la frecuente degradación del arte religioso testimonia una disociación entre fe y belleza.
 
-# 6. LA CUESTIÓN DE LA VERDAD
+#### Caridad, y mística
 
-[Contenido de esta sección...]
+El lugar del amor determina la relación de la moral con la mística: en sentido original, todo amor es místico («mysterion» = escondido), pues introduce en el secreto de la persona amada. La mística cristiana tuvo por tema principal la caridad, con su crecimiento hacia la perfección. Se ha separado de la moral como un conocimiento reservado, como si la moral pudiera prescindir del aliento de la caridad.
 
-# 7. LA CUESTIÓN DE LA JUSTICIA
+#### Caridad y violencia
 
-[Contenido de esta sección...]
+La cuestión del amor tiene su envés: la violencia. Los antiguos veían en el amor y en el odio los dos principios del movimiento; pensadores modernos explican todas las relaciones desde la violencia (Girard). Para responder cristianamente no basta un amor sentimental: se necesita una caridad que se atreva a afrontar la violencia y la combata hasta sus raíces —primero en nuestro corazón—, un redescubrimiento de la caridad y de la amistad como fuerza de combate.
 
-## Las variaciones del concepto de justicia
+### 6. LA CUESTIÓN DE LA VERDAD
 
-[Contenido de esta sección...]
+La cuestión de la [[verdad]] está ligada a las precedentes: sin verdad no hay felicidad ni amor que dure, y la verdad sin amor reseca al hombre. No se reduce a la cuestión de la mentira de la casuística: va en ello la verdad sobre Dios, sobre uno mismo, sobre los otros, sobre la vida, en toda nuestra personalidad. El racionalismo ha hecho de la verdad una abstracción que separó la cabeza del corazón. La Escritura otorga a la verdad una significación mucho más rica: se asocia con el amor como las dos caras de una misma realidad (salmo 25, 10; salmo 85, 11: «Amor y Verdad se han dado cita, justicia y Paz se abrazan»); en san Juan, «verdad» designa la rectitud de la vida moral: «caminar en la verdad», «hacer la verdad». Frente a la duda metódica de Descartes, se trata de una experiencia concreta y global: la definición clásica «adaequatio rei et intellectus» recibe una interpretación nueva —la «res» es la realidad personal que se revela, el «intellectus» es la inteligencia unida a la voluntad, al amor y al deseo, asociada a la sensibilidad. Es una inteligencia activa (hacer la verdad), benevolente y penetrante («intus-legere», II-II, q. 8, a. 1), de tipo global, sintético e intuitivo, que procede por connaturalidad y que recibe el nombre de sabiduría, alcanzando su plenitud por los dones de sabiduría y de inteligencia. La «adaequatio» no es estática: designa una línea de progreso continuo, todo el movimiento del conocimiento amoroso. Novela y actualidad lo confirman (Bernanos, los disidentes rusos). La tarea del moralista es la investigación de la «verdad toda entera» para que sea la luz de nuestros actos: es la dimensión contemplativa que hay que devolver a una teología moral profundamente voluntarista.
 
-### 1. La justicia en la Escritura
+### 7. LA CUESTIÓN DE LA JUSTICIA
 
-[Contenido de esta sección...]
+No puede reprocharse a los moralistas no haber concedido lugar a la justicia: Vittrant, que da 25 números a las virtudes teologales, dedica 306 a la [[justicia]]. El reproche sería haber hinchado su estudio con una concepción demasiado jurídica de la moral. Homenaje a los teólogos españoles del siglo XVI —Vitoria— por fundar el derecho internacional moderno; los manuales posteriores se limitan a la justicia conmutativa y descuidan la justicia general, y esto ocurría cuando los filósofos elaboraban nuevas estructuras para los Estados. Hoy los cristianos redescubren las dimensiones sociales y políticas del obrar a la luz de las encíclicas desde León XIII hasta Juan Pablo II y de la teología de la liberación.
 
-### 2. La justicia en santo Tomás de Aquino
+#### Las variaciones del concepto de justicia
 
-[Contenido de esta sección...]
+La noción de justicia ha conocido modificaciones de sentido tan sutiles que ningún diccionario puede dar cuenta de ellas.
 
-### 3. La justicia moderna y el derecho subjetivo
+##### 1. La justicia en la Escritura
 
-[Contenido de esta sección...]
+En la Escritura la justicia no tiene el sentido impersonal, jurídico y legalista que solemos atribuirle: se sitúa en las relaciones directas de Dios con su pueblo y designa la rectitud de estas relaciones en conformidad con la Alianza y la Ley, formando con el amor una única realidad —la rectitud en el amor—. Constituye la calidad moral suprema en la Escritura. Mateo no es legalista en el [[sermón_de_la_montaña|Sermón de la Montaña]]: la nueva justicia es el movimiento interno del amor que procede del corazón, sobreabundante en el don y en el perdón. Es la justicia que alegraba a Isaías (Is 61, 10-11).
 
-### 4. Las fuentes de la justicia
+##### 2. La justicia en santo Tomás de Aquino
 
-[Contenido de esta sección...]
+El siglo XIII reanuda a nivel teológico el debate entre Platón y Aristóteles. Platón definió la justicia interior como armonía entre las facultades del hombre (razón, apetitos perfeccionados por la prudencia, la fortaleza y la templanza), extendida a la sociedad; san Agustín siguió esta línea en la perspectiva de la Escritura: justicia como armonía activa en la que la sumisión de la razón a Dios condiciona el dominio sobre la sensibilidad, perdida por el pecado y recobrada por la gracia. Para Aristóteles, en cambio, la justicia es ante todo política y exterior por su objeto. Santo Tomás asumió la concepción aristotélica: la justicia propiamente dicha implica la relación con los otros, según la regla de la igualdad, con el derecho como medida objetiva (II-II, q. 58, a. 2); el sentido interior es derivado y metafórico. Se distingue con nitidez de las [[virtudes_teologales|virtudes teologales]], que cumplen la justificación. Para todos estos autores la justicia es una virtud, una cualidad del alma que nos inclina a dar a otro de buen grado, en el mismo sentido que la amistad, coronada por la caridad; pero al hacerse jurídica y exterior pierde parte de su carácter personal.
 
-# 8. LA CUESTIÓN DEL PECADO
+##### 3. La justicia moderna y el derecho subjetivo
 
-[Contenido de esta sección...]
+La época moderna se caracteriza por la concepción subjetiva del derecho, formada por el nominalismo en el siglo XIV: el derecho designa ya no lo que reconozco como debido a otro, sino aquello a lo que yo tengo derecho. La orientación de la justicia se invierte: de mí hacia los otros pasa a ser de los otros hacia mí; consiste en tomar antes que en dar. La sociedad deja de fundarse en la inclinación natural del hombre para ser una creación artificial que evita la destrucción mutua. La justicia se endurece y asume dos caras: reivindicación de derechos subjetivos y presión de la sociedad ejercida en nombre de la ley, fácilmente sentida como opresión. Las relaciones entre justicia y caridad se deterioran: como reclamar y dar son contrarios, la justicia deja a la caridad sólo los restos. La encíclica *Dives in misericordia* ha intentado reconciliar la justicia con la misericordia, mostrando que sin ella la justicia engendra inevitablemente la injusticia. Es indispensable tener en cuenta esta evolución para comprender el Evangelio.
 
-# CONCLUSIÓN
+##### 4. Las fuentes de la justicia
 
-[Contenido de esta sección...]
+La moral debe salir del individualismo y recuperar su dimensión política y social; se perfila entonces la cuestión del centro y la fuente primera de la justicia. Si el punto de partida reside en la sociedad política, la moral corre el riesgo de ser instrumento de políticos o ideologías. Tres fuentes coordinadas: 1) la fuente suprema reside en Dios, que crea, gobierna y redime en Jesucristo, único justo capaz de restituir la justicia y el amor; 2) la segunda fuente está en el «corazón» del hombre, donde se recibe la justicia de Dios como un germen y donde se forma como virtud; 3) la tercera tiene su lugar en la sociedad civil, expresada en las leyes y el Derecho. A la mirada del teólogo las tres se reúnen y compenetran: la reivindicación de los derechos del hombre procede de la primacía de la persona y de la conciencia, de la prioridad de la ética sobre lo social; pero la ética misma reposa en la relación con Dios como fin último: la justicia ética hunde sus raíces en la justicia teológica.
+
+### 8. LA CUESTIÓN DEL PECADO
+
+La cuestión del [[pecado]] ha ocupado siempre a los moralistas: los manuales le dieron mucha atención siguiendo las indicaciones del Concilio de Trento, para proporcionar a los sacerdotes la ciencia del sacramento de la Penitencia. La atención particular a los pecados, introducidos como tratado de la moral fundamental en lugar de las virtudes, ha dado un sesgo negativo a los manuales: moral de los pecados o de las prohibiciones. La crítica en nombre de la psicología ha atacado esta moral (favorece los escrúpulos); por reacción se ha querido una «moral sin pecado» y se ha criticado el sacramento de la Penitencia. Pero la realidad del pecado no ha disminuido en el mundo. El Evangelio otorga un gran espacio al pecado, pero nunca ocupa el puesto central sino la gracia: la buena nueva es la victoria de la gracia sobre el pecado (Mt 1, 21); san Pablo en Romanos no habla del pecado original más que para subrayar la salvación en Jesús, la sobreabundancia de la gracia. El teólogo que da al pecado más atención que a la gracia es como quien desecha la luz.
+
+Debe precisarse también el modo de abordar el pecado: la casuística lo estudió como actos singulares diversificados por los mandamientos y la gravedad; el Evangelio indica la unidad del pecado por su enraizamiento en la persona: detrás de los pecados está el pecado (Jn 1, 29); del corazón salen las intenciones malas (Mt 15, 18-20). Siguiendo a [[san_agustín|san Agustín]], hay una elección entre dos amores que forman dos libertades: una abierta y generosa (amor a Dios y al prójimo hasta el olvido de sí) y una cerrada y replegada (amor a sí por encima de todo hasta el desprecio de Dios y del prójimo). La raíz del pecado es el cerrarse sobre sí mismo: el amor propio, egocéntrico hasta en sus generosidades aparentes («El yo es odioso», Pascal). Hay que distinguir el amor natural a sí mismo —bueno, fundamento del amor al prójimo según el mandamiento— del amor propio: el «yo» se desdobla en un «mi yo», amor interesado de sí, raíz del orgullo. El paso del «yo» al «mi yo» es tan sutil que precede a la reflexión; liberarse exige la renuncia a sí mismo de la que habla el Evangelio; el amor propio es «el más natural de los parásitos» (deseo de «hacerse como dioses» de Adán y Eva, voluntad de poder de Nietzsche, egotismo de Montherlant). Vicia todas las cuestiones: «yo amo» se convierte en «yo me amo», «deseo la felicidad» en «deseo mi felicidad», «busco la verdad» en «me hago mi verdad», «quiero la justicia» en «quiero mi justicia». Su obra maestra es vestirse con los hábitos de la religión y la justicia, como los fariseos atacados por Jesús. Sólo la humildad, que obra por la renuncia hasta el «desprecio de sí mismo», libera del amor propio. En la perspectiva teológica de santo Tomás, la «muerte de sí mismo» no destruye el «yo» primitivo creado por Dios: rompe el «mi yo» y libera el amor verdadero. Este es el pecado interior, padre de la muchedumbre de nuestros pecados.
+
+### CONCLUSIÓN
+
+Hay muchas otras cuestiones competencia de la moral: algunos se asombrarán de que la sexualidad no haya sido mencionada; el sexto mandamiento no es más que un dominio particular del obrar humano que conviene relacionar con la cuestión del amor. Se pretendía una visión de conjunto a partir de cuestiones de alcance general para ampliar una mirada demasiado limitada por el predominio de las obligaciones. Todo se reúne en una definición global: *la teología moral es la parte de la sabiduría teológica que estudia las acciones humanas, para ordenarlas a la visión amorosa de Dios, como felicidad verdadera y plena, y al fin último del hombre, bajo la moción de las virtudes teologales y morales, en particular de la caridad y de la justicia, con los dones del Espíritu Santo, a través de las experiencias de la condición humana, como el sufrimiento y el pecado, con la ayuda de las leyes morales y los mandamientos que nos indican los caminos de Dios*.

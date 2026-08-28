@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "Capítulo 19"
 fuente: "La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 capítulo: 20
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'Capítulo 19' — La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 tags: ["resumen", "la regla de san benito latín español san benito de nursia monjes benedictinos"]
 ---
@@ -12,35 +12,11 @@ tags: ["resumen", "la regla de san benito latín español san benito de nursia m
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[liturgia_de_las_horas]] — el Oficio Divino, ocasión privilegiada de la presencia divina
+- [[oración]] — la salmodia como oración en la que la mente concuerda con la voz
+- [[vida_monastica]] — el marco de la disciplina del canto de los salmos
+- [[la_regla_de_san_benito]] — norma monástica «De disciplina psallendi»
 
+## La forma en que se han de cantar los salmos
 
-## Contenido
-
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `20_capítulo_19.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H2 | Capítulo 19 |
-| 8 | H5 | La forma en que se han de cantar los salmos |
-
-
-## Secciones incluidas
-
-# Capítulo 19
-
-[Contenido de esta sección...]
+Creemos que Dios está presente en todas partes y que sus ojos vigilan en todo lugar a los buenos y a los malos, pero lo creemos con mayor razón cuando asistimos al Oficio Divino. Por eso recuerda el profeta que se ha de «servir al Señor con temor», «cantar los salmos con inteligencia» y que «en presencia de los ángeles» se cantarán salmos para Dios. Se debe considerar, entonces, cómo conviene estar en presencia de la divinidad y de sus ángeles, y salmodiar de tal manera que la mente concuerde con la voz.

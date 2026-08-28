@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "capítulo 29"
 fuente: "La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 capítulo: 30
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'capítulo 29' — La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 tags: ["resumen", "la regla de san benito latín español san benito de nursia monjes benedictinos"]
 ---
@@ -12,35 +12,10 @@ tags: ["resumen", "la regla de san benito latín español san benito de nursia m
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[vida_monastica]] — la pertenencia estable al monasterio
+- [[humildad]] — prueba mediante la recepción en el último lugar
+- [[monjes]] — el hermano que sale y pide regresar
 
+## Si los hermanos que se van del monasterio deben ser recibidos nuevamente
 
-## Contenido
-
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `30_capítulo_29.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H3 | Capítulo 29 |
-| 8 | H5 | Si los hermanos que se van del monasterio deben ser recibidos nuevamen |
-
-
-## Secciones incluidas
-
-## Capítulo 29
-
-[Contenido de esta sección...]
+El hermano que por su propia culpa sale del monasterio, si quiere regresar, primero prometa enmendarse completamente de aquello que fue la causa de su salida, y sea recibido en el último lugar, para que así se ponga a prueba su humildad. Pero si de nuevo vuelve a salir, sea recibido de igual modo hasta una tercera vez, sabiendo que en adelante le será negada toda posibilidad de regreso.

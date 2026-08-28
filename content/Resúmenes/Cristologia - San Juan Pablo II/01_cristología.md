@@ -3,8 +3,8 @@ type: ResumenFuente
 title: "CRISTOLOGÍA"
 fuente: Cristologia - San Juan Pablo II
 capítulo: 1
-timestamp: 2026-08-24
-description: "Resumen de 'CRISTOLOGÍA' — Cristologia - San Juan Pablo II"
+timestamp: 2026-08-27
+description: "Portada de la Cristología de San Juan Pablo II: título de la obra, autor y procedencia"
 tags: ["resumen", "cristologia - san juan pablo ii"]
 ---
 
@@ -12,31 +12,19 @@ tags: ["resumen", "cristologia - san juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+Esta es la portada de la obra, sin contenido doctrinal propio. La
+colección completa se referencia en los resúmenes de las catequesis
+siguientes ([[jesucristo]], [[encarnación]], [[salvación]]).
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `01_cristología.md`
+## Portada
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | CRISTOLOGÍA |
-
-
-## Secciones incluidas
-
+El archivo `01_cristología.md` es la portada de la obra «Cristología» de
+San Juan Pablo II. Recoge el título general de la colección y su autoría:
+las catequesis cristológicas pronunciadas por el Papa Juan Pablo II.
+La procedencia del texto se indica como la colección de ebooks católicos
+(`ebookscatolicos.com`). No contiene cuerpo doctrinal; el desarrollo se
+encuentra en los resúmenes posteriores (catequesis 1-42), que abarcan la
+identidad de Cristo, su naturaleza y encarnación, su misión salvífica,
+las relaciones trinitarias, su poder y sus milagros.

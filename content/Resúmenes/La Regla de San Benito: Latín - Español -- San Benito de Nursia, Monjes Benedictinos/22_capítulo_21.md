@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "Capítulo 21"
 fuente: "La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 capítulo: 22
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'Capítulo 21' — La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 tags: ["resumen", "la regla de san benito latín español san benito de nursia monjes benedictinos"]
 ---
@@ -12,35 +12,11 @@ tags: ["resumen", "la regla de san benito latín español san benito de nursia m
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[abad]] — comparte su cargo con los decanos y dispone su deposición
+- [[obediencia]] — los decanos velan según los mandamientos de Dios y los preceptos del abad
+- [[corrección_fraterna]] — corrección del decano soberbio hasta tres veces
+- [[vida_monastica]] — gobierno de la comunidad numerosa del monasterio
 
+## Los decanos del monasterio
 
-## Contenido
-
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `22_capítulo_21.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H2 | Capítulo 21 |
-| 8 | H5 | Los decanos del monasterio |
-
-
-## Secciones incluidas
-
-# Capítulo 21
-
-[Contenido de esta sección...]
+Si la comunidad es numerosa se constituirán decanos elegidos de entre los hermanos de buena reputación y vida santa, que velarán con mucho cuidado sobre sus decanías de acuerdo con los mandamientos de Dios y los preceptos de su abad. Serán elegidos entre aquellos con quienes el abad pueda compartir su cargo con confianza, no por orden sino según el mérito de su vida y la sabiduría de su doctrina. Si algún decano, inflado por el espíritu de soberbia, se hace digno de reprensión, será corregido hasta tres veces; si no quisiere enmendarse, será depuesto y en su lugar se pondrá a otro digno. Lo mismo se establece respecto del prior.

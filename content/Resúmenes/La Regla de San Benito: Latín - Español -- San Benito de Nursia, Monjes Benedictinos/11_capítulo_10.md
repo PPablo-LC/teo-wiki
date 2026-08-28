@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "Capítulo 10"
 fuente: "La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 capítulo: 11
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'Capítulo 10' — La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 tags: ["resumen", "la regla de san benito latín español san benito de nursia monjes benedictinos"]
 ---
@@ -12,35 +12,12 @@ tags: ["resumen", "la regla de san benito latín español san benito de nursia m
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[salmos]] — salmodia de la alabanza nocturna de verano
+- [[oficio_divino]] — Vigilias nocturnas en tiempo de verano
+- [[liturgia_de_las_horas]] — marco de la regulación estival de las Vigilias
 
+## Cómo se hará la alabanza nocturna durante el verano
 
-## Contenido
+Desde Pascua hasta las calendas de noviembre (1º de noviembre) se mantiene «toda la cantidad de salmodia» ya dispuesta para el invierno, con una excepción: por la brevedad de las noches no se leen las lecturas en el libro. En lugar de las tres lecturas se dice solo una lectura del Antiguo Testamento de memoria, seguida enseguida de un responsorio breve.
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `11_capítulo_10.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H2 | Capítulo 10 |
-| 8 | H5 | Como se hará la alabanza nocturna durante el verano |
-
-
-## Secciones incluidas
-
-# Capítulo 10
-
-[Contenido de esta sección...]
+Todo lo demás se hace como se dijo antes, de modo que en las Vigilias nocturnas nunca se digan menos de doce salmos, exceptuados el salmo 3 y el salmo 94.

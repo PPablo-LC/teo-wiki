@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "Capítulo 53"
 fuente: "La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 capítulo: 54
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'Capítulo 53' — La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 tags: ["resumen", "la regla de san benito latín español san benito de nursia monjes benedictinos"]
 ---
@@ -12,45 +12,22 @@ tags: ["resumen", "la regla de san benito latín español san benito de nursia m
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[hospitalidad]] — la recepción de los huéspedes como a Cristo
+- [[caridad]] — la muestra de caridad en el encuentro con los huéspedes
+- [[humildad]] — la reverencia y postración ante los huéspedes
+- [[oración]] — la oración en común antes del beso de la paz
+- [[ayuno]] — el ayuno que el superior rompe en atención al huésped
+- [[temor_de_dios]] — la disposición del hermano encargado de la hospedería
+- [[obediencia]] — la sujeción a quien tiene permiso de tratar a los huéspedes
 
+## La recepción de los huéspedes
 
-## Contenido
+Todos los huéspedes que llegan serán recibidos como a Cristo, pues Él mismo ha de decir: «Fui huésped y me recibieron», y a todos se les dará el honor correspondiente, en especial a los hermanos en la fe y a los peregrinos. Tan pronto se anuncie la llegada de un huésped, el superior o los hermanos salen a su encuentro con la mejor muestra de [[caridad]]; en primer lugar hacen oración juntos y así se reúnen en paz. El beso de la paz no se ofrece sino después de haber orado, por las ilusiones diabólicas.
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `54_capítulo_53.md`
+En este saludo se da muestra de gran [[humildad]] a todos los huéspedes, tanto a los que llegan como a los que se despiden, de modo que Cristo sea adorado en ellos, inclinando la cabeza o postrando todo el cuerpo en tierra, pues es Él a quien se recibe.
 
+Al recibir a los huéspedes los llevan a orar y luego se sienta con ellos el superior o aquel que fuera mandado por él. Se lee delante del huésped la Ley divina para su edificación, y luego lo tratan de la mejor manera. El superior rompe el [[ayuno]] en atención al huésped, salvo que sea un día principal de ayuno que no pueda quebrantarse; los hermanos, en cambio, prosiguen los ayunos según las costumbres. El abad vierte agua en las manos de los huéspedes y les lava los pies junto con toda la comunidad; tras lavarlos, dicen el verso «Recibimos, oh Dios, tu misericordia en medio de tu templo».
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+Al recibir a los pobres y a los peregrinos se tendrá mayor cuidado y solicitud, porque en ellos se recibe de manera especial a Cristo; al recibir a los ricos, el mismo temor que inspiran exige que se les honre.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H2 | Capítulo 53 |
-| 8 | H5 | La recepción de los huéspedes |
-| 50 | H4 | 20*. *Pero si están desocupados, obedezcan a quien manda. |
-| 52 | H4 | 22*. *Y la casa de Dios sea administrada por varones prudentes y sabio |
-
-
-## Secciones incluidas
-
-# Capítulo 53
-
-[Contenido de esta sección...]
-
-### 20*. *Pero si están desocupados, obedezcan a quien manda.
-
-[Contenido de esta sección...]
-
-### 22*. *Y la casa de Dios sea administrada por varones prudentes y sabios.
-
-[Contenido de esta sección...]
+La cocina del abad y de los huéspedes ha de estar separada, para que los visitantes que llegan a horas inciertas —que nunca faltan en el monasterio— no incomoden a los hermanos. Estarán a cargo de esta cocina, por un año, dos hermanos que cumplan bien el oficio; se les proporcionarán ayudantes para que sirvan sin [[murmuración|murmuración]] y, cuando tengan menos ocupaciones, vayan a trabajar donde se les mande. Esta misma consideración se tendrá con todos los oficios del monasterio. La hospedería será asignada a un hermano cuya alma esté repleta del [[temor_de_dios|temor de Dios]], con suficientes camas limpias; así la casa de Dios será administrada prudentemente por varones sabios. Quien no tenga permiso no acompañe ni hable con los huéspedes; pero si los encuentra o los ve, los saludará humildemente y, tras pedir la bendición, seguirá su camino, diciendo que no le es lícito hablar con un huésped.

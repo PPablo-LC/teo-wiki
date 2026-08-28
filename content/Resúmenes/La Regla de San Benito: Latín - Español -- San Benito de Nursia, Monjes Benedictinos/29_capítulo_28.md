@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "capítulo 28"
 fuente: "La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 capítulo: 29
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'capítulo 28' — La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 tags: ["resumen", "la regla de san benito latín español san benito de nursia monjes benedictinos"]
 ---
@@ -12,35 +12,11 @@ tags: ["resumen", "la regla de san benito latín español san benito de nursia m
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[abad]] — actúa como sabio médico y recurre a la oración por el enfermo
+- [[corrección_fraterna]] — correcciones sucesivas, azotes y, en último término, amputación
+- [[excomunión]] — cauterio que se aplica antes de la última separación
+- [[oración]] — la del abad y de todos los hermanos como remedio más eficaz
 
+## Los que no se enmiendan a pesar de ser muchas veces corregidos
 
-## Contenido
-
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `29_capítulo_28.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H3 | Capítulo 28 |
-| 8 | H5 | Los que no se enmiendan a pesar de ser muchas veces corregidos |
-
-
-## Secciones incluidas
-
-## Capítulo 28
-
-[Contenido de esta sección...]
+Si alguno es corregido frecuentemente por cualquier culpa, e incluso excomulgado, y no se enmienda, se le aplicará una corrección más severa, es decir, el castigo con azotes. Si ni así se corrige, o se llena de soberbia y pretende justificar su mal proceder, el abad actúe como un sabio médico: si ya aplicó los fomentos y ungüentos de las exhortaciones, los medicamentos de las divinas Escrituras y, por último, el cauterio de la excomunión y las heridas de los azotes, y ve que nada logra con sus esfuerzos, aplique lo más eficaz: su oración y la de todos los hermanos por aquel, para que el Señor, que todo lo puede, sane al hermano enfermo. Pero si ni con esto sana, use el abad el cuchillo de la amputación, como dice el Apóstol: «Arranquen al malo de entre ustedes», y «el infiel, si se va, que se vaya», no sea que una oveja enferma contagie todo el rebaño.

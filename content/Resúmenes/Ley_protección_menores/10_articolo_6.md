@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "Articolo 6"
 fuente: Ley_protección_menores
 capítulo: 10
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'Articolo 6' — Ley_protección_menores"
 tags: ["resumen", "ley protección menores"]
 ---
@@ -12,25 +12,11 @@ tags: ["resumen", "ley protección menores"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[investigación_prioritaria]] — indagaciones con carácter prioritario y célere.
+- [[medidas_cautelares_canónicas]] — medidas cautelares y provisionales de protección.
+- [[servicio_de_acompañamiento]] — remisión de la persona ofendida al servicio.
+- [[protección_de_menores_en_la_iglesia]] — marco general de las indagaciones.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `Ley_protección_menores.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-
-## Secciones incluidas
-
+**(Indagaciones)** El promotor de justicia solicita la adopción, también en vía provisional, de las providencias necesarias para: (a) garantizar la seguridad e integridad física de la persona ofendida; (b) alejar al indagado de la persona ofendida o de otros menores; (c) prevenir la reiteración de los delitos; (d) tutelar a la persona ofendida y a su familia frente a cualquier intimidación o represalia. Cuando los representantes legales estén en conflicto de intereses con el menor, el promotor de justicia pide al juez único el nombramiento de un curador especial que represente sus intereses a expensas del Estado. A tutela de la persona ofendida, el promotor de justicia: asegura que las indagaciones se lleven a cabo con [[investigación_prioritaria|carácter prioritario]] y en el respeto de la dignidad e integridad física y psíquica de la persona ofendida; asume sin demora su deposición; y la dirige al [[servicio_de_acompañamiento|Servicio de acompañamiento]] del artículo 9. De concierto con la Dirección de los Servicios de Seguridad y Protección Civil y con el Servicio de acompañamiento, adopta líneas guía sobre las modalidades a seguir en las actividades de policía judicial que involucren a menores. Estas [[medidas_cautelares_canónicas|medidas cautelares]] refuerzan la [[protección_de_menores_en_la_iglesia|protección de los menores]] en el sistema procesal.

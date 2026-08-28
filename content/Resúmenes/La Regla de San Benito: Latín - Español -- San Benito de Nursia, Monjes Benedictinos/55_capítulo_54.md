@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "Capítulo 54"
 fuente: "La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 capítulo: 55
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'Capítulo 54' — La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 tags: ["resumen", "la regla de san benito latín español san benito de nursia monjes benedictinos"]
 ---
@@ -12,35 +12,12 @@ tags: ["resumen", "la regla de san benito latín español san benito de nursia m
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[obediencia]] — la sujeción de todo al permiso del abad
+- [[abad]] — quien determina a quién se ha de dar lo recibido
+- [[vida_monastica]] — la renuncia del monje a recibir cosas sin permiso
+- [[pobreza_religiosa]] — la renuncia a la propiedad y a los dones particulares
+- [[castigo]] — la disciplina regular para quien obre de otra manera
 
+## Si el monje debe recibir cartas o cualquier otra cosa
 
-## Contenido
-
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `55_capítulo_54.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H2 | Capítulo 54 |
-| 8 | H5 | Si el monje debe recibir cartas o cualquier otra cosa |
-
-
-## Secciones incluidas
-
-# Capítulo 54
-
-[Contenido de esta sección...]
+De ninguna manera le es lícito al monje, sin el permiso del [[abad]], dar o recibir, ni siquiera de sus padres ni de otra persona ni entre los propios monjes, cartas, eulogias o cualquier pequeñez. Aunque fueran sus padres quienes le enviaran algo, no se atreva a tomarlo sin antes haber informado primeramente al abad. Si éste manda recibirlo, el propio abad podrá determinar a quién se lo ha de dar, y no se entristezca el hermano a quien se lo enviaron, para no dar ocasión al diablo. Quien se atreva a obrar de otra manera será sometido a la disciplina regular.

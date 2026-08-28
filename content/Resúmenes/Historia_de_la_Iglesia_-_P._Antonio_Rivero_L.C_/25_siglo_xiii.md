@@ -3,40 +3,11 @@ type: ResumenFuente
 title: "SIGLO XIII"
 fuente: Historia_de_la_Iglesia_-_P._Antonio_Rivero_L.C_
 capítulo: 25
-timestamp: 2026-08-24
-description: "Resumen de 'SIGLO XIII' — Historia_de_la_Iglesia_-_P._Antonio_Rivero_L.C_"
+timestamp: 2026-08-27
+description: "Cabecera del siglo XIII. El contenido de este siglo se desarrolla en el capítulo 'Inocencio III. Órdenes Mendicantes. Inquisición. Universidades'."
 tags: ["resumen", "historia de la iglesia - p. antonio rivero l.c "]
 ---
 
 # SIGLO XIII
 
-## Conceptos básicos referenciados
-
-[Lista de conceptos teológicos tratados aquí.]
-
-
-## Contenido
-
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `25_siglo_xiii.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H1 | SIGLO XIII |
-
-
-## Secciones incluidas
-
+Esta es la cabecera del siglo XIII, el máximo esplendor de la cultura forjada durante la Edad Media. Es el siglo del papa Inocencio III, de las grandes órdenes mendicantes (san Francisco y santo Domingo), de la inquisición, de las universidades y de las grandes lumbreras intelectuales como santo Tomás de Aquino. El contenido de este siglo se desarrolla en el capítulo 26: [[inocencio_iii_órdenes_mendicantes_inquisición_universidades]].

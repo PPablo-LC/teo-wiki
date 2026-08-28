@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "Capítulo 61"
 fuente: "La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 capítulo: 62
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'Capítulo 61' — La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 tags: ["resumen", "la regla de san benito latín español san benito de nursia monjes benedictinos"]
 ---
@@ -12,35 +12,18 @@ tags: ["resumen", "la regla de san benito latín español san benito de nursia m
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[peregrinos]] — monjes llegados de provincias lejanas que quieren habitar como huéspedes
+- [[hospitalidad]] — acogida del monje peregrino
+- [[humildad]] — con humildad y caridad reprende o advierte algo
+- [[caridad]] — humildad de caridad en la corrección del peregrino
+- [[abad]] — trata prudentemente al peregrino y dispone su lugar
+- [[estabilidad_religiosa]] — el peregrino que quiere fijar su estabilidad
+- [[vida_monastica]] — incorporación a la comunidad y servicio al único Señor
 
+## Cómo han de ser recibidos los monjes peregrinos
 
-## Contenido
+Si algún monje peregrino, llegado de provincias lejanas, quiere habitar en el monasterio como huésped, se contenta con las costumbres del lugar, no perturba el monasterio con sus superficialidades y está simplemente contento con lo que encuentra, ha de ser recibido el tiempo que quiera. Y si con mucha razón, humildad y caridad reprende o advierte algo, el abad lo tratará prudentemente, no sea que para esto lo haya encaminado el Señor. Si después desea vivir en el monasterio, no se rehúse tal deseo, y máxime si durante el tiempo de hospedaje pudo evaluarse su vida.
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `62_capítulo_61.md`
+En cambio, si es superfluo y vicioso, y esto se descubre durante el tiempo de hospedaje, no solo se le debe negar la incorporación al monasterio, sino que se le dirá honestamente que se vaya, no sea que otros se envicien por su miseria. Pero si no es tal que merezca ser despedido, no solo será recibido asociándolo a la comunidad, si lo pide, sino que incluso se le ha de convencer de que se quede, para que con su ejemplo edifique a los demás, puesto que en todo lugar se sirve al único Señor, militando bajo el mismo Rey.
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H2 | Capítulo 61 |
-| 8 | H5 | Cómo han de ser recibidos los monjes peregrinos, |
-
-
-## Secciones incluidas
-
-# Capítulo 61
-
-[Contenido de esta sección...]
+El abad podrá colocarlo en un puesto un poco más arriba, si ve que lo merece; y no solo al monje, sino también a los del orden sacerdotal y a los clérigos, si los ve dignos por su vida. Cuide el abad de no recibir nunca a un monje de otro monasterio conocido, para que se quede, sin el consentimiento de su abad o de cartas comendaticias, pues está escrito: «Lo que no quieres que te hagan a ti, no lo hagas a otro».

@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "Articolo 11"
 fuente: Ley_protección_menores
 capítulo: 15
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'Articolo 11' — Ley_protección_menores"
 tags: ["resumen", "ley protección menores"]
 ---
@@ -12,25 +12,9 @@ tags: ["resumen", "ley protección menores"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[verificación_idoneidad_personal]] — verificación de la idoneidad de los candidatos.
+- [[protección_de_menores_en_la_iglesia]] — criterios de selección del personal que trata con menores.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `Ley_protección_menores.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-
-## Secciones incluidas
-
+**(Reclutamiento del personal)** En la selección y asunción del personal del Governatorato, así como de quienes prestan colaboración en forma voluntaria, debe verificarse la [[verificación_idoneidad_personal|idoneidad del candidato]] para interactuar con menores. La Comisión para la Selección del Personal se sirve del Servicio de acompañamiento para adoptar orientaciones y definir procedimientos destinados a verificar la idoneidad de los candidatos, en el marco de la [[protección_de_menores_en_la_iglesia|protección de los menores]].

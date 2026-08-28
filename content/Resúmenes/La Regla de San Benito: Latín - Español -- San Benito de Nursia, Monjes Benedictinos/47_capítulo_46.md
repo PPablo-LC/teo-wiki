@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "Capítulo 46"
 fuente: "La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 capítulo: 47
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'Capítulo 46' — La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 tags: ["resumen", "la regla de san benito latín español san benito de nursia monjes benedictinos"]
 ---
@@ -12,35 +12,14 @@ tags: ["resumen", "la regla de san benito latín español san benito de nursia m
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[vida_monastica]] — la corrección de las faltas en los distintos oficios
+- [[abad]] — ante quien se manifiestan las faltas
+- [[humildad]] — la confesión espontánea de la propia falta
+- [[castigo]] — la pena más dura si la falta se conoce por otro
+- [[dirección_espiritual]] — la manifestación del pecado oculto a los ancianos espirituales
 
+## Los que cometen faltas en cualquier otra cosa
 
-## Contenido
+Si alguno, en cualquier trabajo —en la cocina, la despensa, el taller, la panadería, la huerta u otro oficio o lugar— comete una falta, rompe o pierde algo, o se excede en algo, y no se presenta él mismo de manera espontánea ante el [[abad]] y la comunidad para satisfacer y manifestar su falta, si esta llega a conocerse por otro, será sometido a un castigo más duro.
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `47_capítulo_46.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H2 | Capítulo 46 |
-| 8 | H5 | Los que cometen faltas en cualquier otra cosa |
-
-
-## Secciones incluidas
-
-# Capítulo 46
-
-[Contenido de esta sección...]
+Si en cambio se trata de un pecado oculto del alma, lo manifestará únicamente al abad o a los ancianos espirituales, que saben curar las heridas propias y ajenas, sin descubrirlas ni publicarlas.

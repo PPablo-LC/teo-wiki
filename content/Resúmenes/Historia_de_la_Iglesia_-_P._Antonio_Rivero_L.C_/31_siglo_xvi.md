@@ -3,40 +3,11 @@ type: ResumenFuente
 title: "SIGLO XVI"
 fuente: Historia_de_la_Iglesia_-_P._Antonio_Rivero_L.C_
 capítulo: 31
-timestamp: 2026-08-24
-description: "Resumen de 'SIGLO XVI' — Historia_de_la_Iglesia_-_P._Antonio_Rivero_L.C_"
+timestamp: 2026-08-27
+description: "Cabecera del siglo XVI. El contenido de este siglo se desarrolla en el capítulo 'Reforma de Lutero y Reforma católica. Trento. Jesuitas'."
 tags: ["resumen", "historia de la iglesia - p. antonio rivero l.c "]
 ---
 
 # SIGLO XVI
 
-## Conceptos básicos referenciados
-
-[Lista de conceptos teológicos tratados aquí.]
-
-
-## Contenido
-
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `31_siglo_xvi.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H1 | SIGLO XVI |
-
-
-## Secciones incluidas
-
+Esta es la cabecera del siglo XVI, el siglo de la ruptura protestante y de la reacción católica. En él se sitúan la reforma de Lutero y de Calvino, el concilio de Trento como gran respuesta doctrinal y disciplinar de la Iglesia, y el nacimiento de la Compañía de Jesús. El contenido de este siglo se desarrolla en el capítulo 32: [[reforma_de_lutero_y_reforma_católica_trento_jesuitas]].

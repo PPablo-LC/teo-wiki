@@ -2,6 +2,7 @@
 type: Documento
 title: Las Fuentes de la Moral Cristiana (FMC)
 description: "«Las Fuentes de la Moral Cristiana» (Servais Pinckaers OP) es una obra de teología moral que examina el método, contenido e historia de la moral cristiana, oponiendo la libertad de indiferencia (nominalismo) a la libertad de calidad (Santo Tomás)."
+timestamp: 2026-08-27
 ---
 
 # Las Fuentes de la Moral Cristiana
@@ -63,6 +64,30 @@ Diagnóstico de la crisis de la teología moral tras el Concilio Vaticano II. Pi
 ## Ver también
 
 [[teología_moral]], [[libertad_de_indiferencia]], [[libertad_de_calidad]], [[ley_natural]], [[inclinaciones_naturales]], [[bienaventuranza]], [[sermón_de_la_montaña]], [[ley_evangélica]], [[virtud]], [[dones_del_espíritu_santo]], [[ockham]], [[santo_tomás_de_aquino]], [[san_pablo]], [[san_agustín]], [[teología_perfección_cristiana]]
+
+## Resúmenes
+
+Resúmenes de *Las Fuentes de la Moral Cristiana* (17 fichas: prólogo + capítulos I-XVII):
+
+| # | Resumen |
+|---|---------|
+| 01 | [[01_prólogo|PRÓLOGO]] |
+| 02 | [[02_capítulo_i|CAPÍTULO I]] |
+| 03 | [[03_capítulo_ii|CAPÍTULO II]] |
+| 04 | [[04_capítulo_iiiel_carácter_humano|CAPÍTULO IIIEL CARÁCTER HUMANO]] |
+| 05 | [[05_capítulo_iv|CAPÍTULO IV]] |
+| 06 | [[06_capítulo_v|CAPÍTULO V]] |
+| 07 | [[07_capítulo_vi|CAPÍTULO VI]] |
+| 08 | [[08_capítulo_viii|CAPÍTULO VIII]] |
+| 09 | [[09_capítulo_ix|CAPÍTULO IX]] |
+| 10 | [[10_capítulo_x|CAPÍTULO X]] |
+| 11 | [[11_capítulo_xi|CAPÍTULO XI]] |
+| 12 | [[12_capítulo_xii|CAPÍTULO XII]] |
+| 13 | [[13_capítulo_xiii|CAPÍTULO XIII]] |
+| 14 | [[14_capítulo_xiv|CAPÍTULO XIV]] |
+| 15 | [[15_capítulo_xv|CAPÍTULO XV]] |
+| 16 | [[16_capítulo_xvi|CAPÍTULO XVI]] |
+| 17 | [[17_capítulo_xvii|CAPÍTULO XVII]] |
 
 ## Referencias
 

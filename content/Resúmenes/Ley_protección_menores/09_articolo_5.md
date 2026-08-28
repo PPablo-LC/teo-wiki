@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "Articolo 5"
 fuente: Ley_protección_menores
 capítulo: 9
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'Articolo 5' — Ley_protección_menores"
 tags: ["resumen", "ley protección menores"]
 ---
@@ -12,25 +12,9 @@ tags: ["resumen", "ley protección menores"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[audición_del_menor]] — régimen especial de declaración del menor.
+- [[protección_de_menores_en_la_iglesia]] — modalidades de protección en la audición.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `Ley_protección_menores.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-
-## Secciones incluidas
-
+**(Audición del menor)** Cuando se procede a la [[audición_del_menor|audición del menor]]: (a) el menor puede ser acompañado por su abogado y por un mayor de edad de su confianza admitido por la autoridad que procede; (b) la audición del menor de catorce años se realiza siempre con el auxilio de un psicólogo y según modalidades adecuadas a tal fin, y la autoridad judicial procede del mismo modo en todo otro caso en que lo repute oportuno; (c) la deposición se documenta también mediante videograbación, que debe ser adquirida como prueba en el juicio. El conjunto de estas garantías integra la [[protección_de_menores_en_la_iglesia|tutela procesal de los menores]].

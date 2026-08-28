@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "capítulo 24"
 fuente: "La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 capítulo: 25
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'capítulo 24' — La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 tags: ["resumen", "la regla de san benito latín español san benito de nursia monjes benedictinos"]
 ---
@@ -12,39 +12,10 @@ tags: ["resumen", "la regla de san benito latín español san benito de nursia m
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
-
-## Contenido
-
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `25_capítulo_24.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H3 | Capítulo 24 |
-| 8 | H3 | Como debe ser el modo de la excomunión |
-
-
-## Secciones incluidas
-
-## Capítulo 24
-
-[Contenido de esta sección...]
+- [[excomunión]] — medida proporcional a la gravedad de la culpa
+- [[abad]] — juez del modo y medida de la excomunión o del castigo
+- [[liturgia_de_las_horas]] — privación de entonar salmos, antífonas y lecturas en el oratorio
 
 ## Como debe ser el modo de la excomunión
 
-[Contenido de esta sección...]
+La medida de la excomunión o del castigo se ha de extender según la gravedad de la culpa, y este cálculo queda a consideración del abad. Si un hermano es hallado en faltas leves, se le privará de la participación de la mesa: no entonará en el oratorio ni salmo ni antífona, ni recitará la lectura, hasta dar satisfacción. Recibirá su alimento solo y después de que los hermanos hayan comido; por ejemplo, si los hermanos comen a la hora de Sexta, él comerá a la de Nona, y si los hermanos a la de Nona, él a la de Vísperas, hasta que, por medio de una satisfacción conveniente, obtenga el perdón.

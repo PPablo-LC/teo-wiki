@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "**1. ¿A QUÉ TE LLAMA DIOS?**"
 fuente: La vocacion explicada - Juan Pablo II
 capítulo: 4
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de '**1. ¿A QUÉ TE LLAMA DIOS?**' — La vocacion explicada - Juan Pablo II"
 tags: ["resumen", "la vocacion explicada - juan pablo ii"]
 ---
@@ -12,34 +12,21 @@ tags: ["resumen", "la vocacion explicada - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[vocación_cristiana]] — la llamada universal a la santidad
+- [[santidad]] — meta de toda vocación cristiana
+- [[vocación_laical]] — misión del laico de «meter el Evangelio» en el mundo
+- [[gracia]] — acción divina en la que el creyente colabora
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `04_1_a_qué_te_llama_dios.md`
+**1. ¿A QUÉ TE LLAMA DIOS?**
 
+Juan Pablo II se dirige de corazón a los jóvenes que se hallan «en el momento decisivo de su elección», en la encrucijada de sus vidas. Les formula las preguntas decisivas: ¿Qué vas a hacer de tu vida? ¿Has pensado en entregar tu existencia totalmente a Cristo? ¿Hay algo más grande que llevar a Jesús a los hombres y a los hombres a Jesús?
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+Les asegura que **no están solos** en esa decisión, y que no deben decidir su futuro pensando solo en sí mismos.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | **1. ¿A QUÉ TE LLAMA DIOS?** |
+La convicción central que deben compartir es que **la llamada a la santidad está dirigida a todos los cristianos**: no es privilegio de una élite espiritual, ni fruto de audacia heroica, ni un refugio piadoso. Es una gracia propuesta a todos los [[bautismo|bautizados]], según modalidades y grados diversos.
 
+La [[santidad]] cristiana no consiste en ser impecables, sino en «la lucha por no ceder y volver a levantarse siempre» después de cada caída; no deriva tanto de la fuerza de voluntad humana cuanto del esfuerzo por no obstaculizar nunca la acción de la **gracia** en el alma, llegando a ser sus humildes «colaboradores».
 
-## Secciones incluidas
-
-# **1. ¿A QUÉ TE LLAMA DIOS?**
-
-[Contenido de esta sección...]
+Cada laico cristiano es una obra extraordinaria de la gracia de Dios y está llamado a las más altas cimas de santidad. Su vocación específica consiste en, como **levadura**, meter el Evangelio en la realidad del mundo en que viven. La exhortación final resume todo: «¡Seguid a Cristo!», dirigida a solteros, novios, jóvenes, viejos, enfermos y ancianos.

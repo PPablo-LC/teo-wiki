@@ -2921,3 +2921,164 @@ siembra un huérfano intencional como forward reference al pasaje de referencia.
 | Wikilink | Referencias | Contenido actual / artículo futuro |
 |----------|-------------|-------------------------------------|
 | `[[curación_del_hijo_del_funcionario_real]]` | 1 | Nota de consulta (Jn 4,46-54); candidato a artículo propio sobre el segundo signo de Cana |
+
+## Sembrados por los resúmenes del Concilio Vaticano II (2026-08-27)
+
+La generación de los 16 resúmenes de los documentos del Concilio
+siembra 34 huérfanos nuevos (forward references que documentan dónde
+reside su contenido).
+
+| Wikilink | Referencias | Contenido actual / artículo futuro |
+|----------|-------------|-------------------------------------|
+| `[[actividad_misionera]]` | 1 | Resumen Ad Gentes (15_ad_gentes); candidato a artículo propio misionológico |
+| `[[acto_de_fe]]` | 1 | Resumen Dignitatis Humanae (05); naturaleza del acto de fe |
+| `[[adaptación_cultural]]` | 1 | Resumen Ad Gentes (15); inculturación de la fe |
+| `[[adaptación_litúrgica]]` | 1 | Resumen Sacrosanctum Concilium (04); principios de adaptación |
+| `[[búsqueda_de_la_verdad]]` | 1 | Resumen Dignitatis Humanae (05) |
+| `[[consejo_pastoral]]` | 1 | Resumen Christus Dominus (11); diócesis |
+| `[[conversión_del_corazón]]` | 1 | Resumen Unitatis Redintegratio (10); ecumenismo práctico |
+| `[[cristo_hombre_nuevo]]` | 1 | Resumen Gaudium et Spes (03); Cristo modelo del hombre |
+| `[[cumbre_y_fuente]]` | 1 | Resumen Sacrosanctum Concilium (04); la liturgia como cumbre y fuente |
+| `[[derecho_a_la_educación]]` | 1 | Resumen Gravissimum Educationis (06) |
+| `[[derecho_a_la_información]]` | 1 | Resumen Inter Mirifica (08) |
+| `[[diálogo_iglesia_mundo]]` | 1 | Resumen Gaudium et Spes (03) |
+| `[[educación_religiosa]]` | 1 | Resumen Dignitatis Humanae (05) |
+| `[[espiritualidad_laical]]` | 1 | Resumen Apostolicam Actuositatem (14) |
+| `[[hinduismo]]` | 1 | Resumen Nostra Aetate (07); religiones no cristianas |
+| `[[inmunidad_de_coacción]]` | 1 | Resumen Dignitatis Humanae (05); núcleo de la libertad religiosa |
+| `[[institutos_seculares]]` | 1 | Resumen Perfectae Caritatis (13) |
+| `[[ley_divina_eterna]]` | 1 | Resumen Dignitatis Humanae (05) |
+| `[[liturgia_celestial]]` | 1 | Resumen Sacrosanctum Concilium (04) |
+| `[[matrimonio_y_familia]]` | 1 | Resumen Gaudium et Spes (03) |
+| `[[matrimonios_mixtos]]` | 1 | Resumen Orientalium Ecclesiarum (09) |
+| `[[misterio_de_la_iglesia]]` | 1 | Resumen Lumen Gentium (02); cap. I |
+| `[[necesidad_de_la_iglesia_para_la_salvación]]` | 1 | Resumen Lumen Gentium (02) |
+| `[[orden_público]]` | 1 | Resumen Dignitatis Humanae (05); límites de la libertad religiosa |
+| `[[paz_y_guerra]]` | 1 | Resumen Gaudium et Spes (03); cap. V de la Parte II |
+| `[[pedagogía_divina]]` | 1 | Resumen Dei Verbum (01); revelación gradual |
+| `[[presencia_de_cristo_en_la_liturgia]]` | 1 | Resumen Sacrosanctum Concilium (04) |
+| `[[religiones_no_cristianas]]` | 1 | Resumen Nostra Aetate (07) |
+| `[[ritos_orientales]]` | 1 | Resumen Orientalium Ecclesiarum (09) |
+| `[[sacramento_universal_de_salvación]]` | 1 | Resumen Lumen Gentium (02) |
+| `[[sínodo_episcopal]]` | 1 | Resumen Christus Dominus (11) |
+| `[[tradición_apóstólica]]` | 1 | Resumen Dei Verbum (01); transmisión de la revelación |
+| `[[universidades_católicas]]` | 1 | Resumen Gravissimum Educationis (06) |
+
+## Sembrados por los resúmenes de Historia de la Iglesia (2026-08-27)
+
+La generación de los 41 resúmenes de la *Historia de la Iglesia* de
+P. Antonio Rivero L.C. siembra 57 huérfanos nuevos (forward references
+que documentan dónde reside su contenido).
+
+| Wikilink | Referencias | Contenido actual / artículo futuro |
+|----------|-------------|-------------------------------------|
+| `[[absolutismo]]` | 1 | Resumen 34; absolutismo regio en la Edad Moderna |
+| `[[absolutismo_regalismo_galicanismo_galileo_américa_cristiana]]` | 1 | Cabecera del siglo XVII (resumen 33) |
+| `[[brígida_de_suecia]]` | 1 | Resumen 28; mística del siglo XIV, santa |
+| `[[catalina_de_siena]]` | 1 | Resumen 28; mística y doctora de la Iglesia |
+| `[[cisma_de_acacio]]` | 1 | Resumen 10; cisma del siglo V |
+| `[[cisma_de_oriente_avión]]` | 1 | Cabecera del siglo XIV (resumen 27) |
+| `[[cister]]` | 1 | Resumen 24; orden cisterciense |
+| `[[concilio_de_constantinopla]]` | 1 | Resumen 08; II Concilio Ecuménico |
+| `[[concilio_de_jerusalén]]` | 1 | Resumen 02; concilio apostólico |
+| `[[concordato_de_1801]]` | 1 | Resumen 39; Napoleón y la Santa Sede |
+| `[[cristiandad]]` | 1 | Resumen 14; ideal de la Edad Media |
+| `[[cruzadas_císter_escolástica]]` | 1 | Cabecera del siglo XII (resumen 23) |
+| `[[deísmo]]` | 1 | Resumen 37; racionalismo religioso del s. XVIII |
+| `[[descubrimiento_de_américa]]` | 1 | Resumen 30; 1492 |
+| `[[encomienda]]` | 1 | Resumen 30; institución colonial americana |
+| `[[era_constantiniana]]` | 1 | Resumen 08; Constantino y la libertad de la Iglesia |
+| `[[erasmo_de_rotterdam]]` | 1 | Resumen 32; humanista cristiano del Renacimiento |
+| `[[evangelización_de_américa]]` | 1 | Resumen 30; primera evangelización del Nuevo Mundo |
+| `[[galileo_galilei]]` | 1 | Resumen 34; el caso Galileo |
+| `[[gregorio_vii]]` | 1 | Resumen 22; reforma gregoriana |
+| `[[ilustración]]` | 1 | Resumen 35; filosofía del siglo XVIII |
+| `[[imperio_bizantino]]` | 1 | Resumen 16; Constantinopla |
+| `[[inocencio_iii_órdenes_mendicantes_inquisición_universidades]]` | 1 | Cabecera del siglo XIII (resumen 25) |
+| `[[josefismo]]` | 1 | Resumen 35/37; regalismo austríaco del s. XVIII |
+| `[[juana_de_arco]]` | 1 | Resumen 28; heroína y santa del s. XV |
+| `[[justificación_por_la_fe]]` | 1 | Resumen 32; doctrina de la Reforma protestante |
+| `[[leyenda_negra]]` | 1 | Resumen 30; polémica anti-hispánica |
+| `[[martín_lutero]]` | 1 | Resumen 32; iniciador de la Reforma |
+| `[[marxismo]]` | 1 | Resumen 39; ideología del s. XIX (mov. obrero) |
+| `[[napoleón_bonaparte]]` | 1 | Resumen 39; emperador francés |
+| `[[nazismo_alemán]]` | 1 | Resumen 40; totalitarismo del s. XX |
+| `[[píos_x]]` | 1 | Resumen 40; papa de la crisis modernista (nota: nombre con tilde inusual, revisar normalización) |
+| `[[pío_vii]]` | 1 | Resumen 39; papa de Napoleón |
+| `[[reducciones_del_paraguay]]` | 1 | Resumen 34; misiones jesuíticas guaraníes |
+| `[[reforma_de_lutero_y_reforma_católica_trento_jesuitas]]` | 1 | Cabecera del siglo XVI (resumen 31) |
+| `[[regla_de_san_benito]]` | 1 | Resumen 12; monacato occidental |
+| `[[renacimiento_descubrimiento_conquista_y_evangelización_de_américa]]` | 1 | Cabecera del siglo XV (resumen 29) |
+| `[[revolución_francesa]]` | 1 | Resumen 35/37; 1789 |
+| `[[revolución_industrial]]` | 1 | Resumen 39; s. XIX |
+| `[[revolución_rusa]]` | 1 | Resumen 40; 1917, comunismo |
+| `[[san_basilio]]` | 1 | Resumen 08; Padre capadocio |
+| `[[san_bernardo_de_claraval]]` | 1 | Resumen 24; místico del Císter |
+| `[[san_domingo_de_guzmán]]` | 1 | Resumen 26; fundador de los Dominicos |
+| `[[san_gregorio_de_nisa]]` | 1 | Resumen 08; Padre capadocio |
+| `[[san_ignacio_de_antioquía]]` | 1 | Resumen 04; mártir del siglo I/II |
+| `[[san_juan_bautista_de_la_salle]]` | 1 | Resumen 34; educación cristiana popular |
+| `[[san_pedro_claver]]` | 1 | Resumen 34; apóstol de los esclavos |
+| `[[san_rosa_de_lima]]` | 1 | Resumen 34; santa peruana, patrona de América |
+| `[[santa_teresa_de_ávila]]` | 1 | Resumen 32; doctora de la Iglesia, mística |
+| `[[san_vicente_de_paúl]]` | 1 | Resumen 34; caridad y formación sacerdotal |
+| `[[supresión_de_la_compañía_de_jesús]]` | 1 | Resumen 37; supresión de la orden en 1773 |
+| `[[teocracia]]` | 1 | Resumen 28; aspiración medieval del poder temporal |
+| `[[teología_de_la_liberación]]` | 1 | Resumen 40; corriente teológica del s. XX |
+| `[[tomás_de_kempis]]` | 1 | Resumen 28; autor de la Imitación de Cristo |
+| `[[unam_sanctam]]` | 1 | Resumen 30; bula de Bonifacio VIII (1302) |
+| `[[virgen_de_guadalupe]]` | 1 | Resumen 32; patrona de América |
+| `[[voltaire]]` | 1 | Resumen 37; filósofo de la Ilustración |
+
+## Sembrados por los resúmenes de Iluminados por una gloria oculta (Ejercicios Espirituales 2026 a la Curia Romana, 2026-08-27)
+
+La generación de los 14 resúmenes de los Ejercicios Espirituales de
+Cuaresma de 2026 (Mons. Erik Varden) siembra 3 huérfanos nuevos.
+
+| Wikilink | Referencias | Contenido actual / artículo futuro |
+|----------|-------------|-------------------------------------|
+| `[[ángeles_de_la_guarda]]` | 1 | Resumen 09 (cap. 8 Los Ángeles de Dios); custodios de la santidad |
+| `[[cistercienses]]` | 1 | Resumen 03 (cap. 2 Bernardo el Idealista); movimiento cisterciense del siglo XII |
+| `[[san_juan_xxiii]]` | 1 | Resumen 12 (cap. 11 Comunicar Esperanza); apertura del Concilio Vaticano II (1962) |
+
+## Sembrados por los resúmenes de La Regla de San Benito (2026-08-27)
+
+La generación de los 74 resúmenes de la Regla de San Benito de Nursia
+(prólogo + 73 capítulos, edición bilingüe BAC) siembra 3 huérfanos nuevos
+(`superior` ya constaba en la tabla global).
+
+| Wikilink | Referencias | Contenido actual / artículo futuro |
+|----------|-------------|-------------------------------------|
+| `[[anacoreta]]` | 1 | Cap. 1 (¿clases de monjes): eremitas que tras años en el cenobio pasan a la soledad |
+| `[[portero]]` | 1 | Cap. 66 (los porteros del monasterio): monje prudente que recibe a los huéspedes y pobres |
+| `[[superior]]` | 1 | Cap. 40 (la medida de la bebida): el superior puede aumentar la ración según la necesidad (ya en tabla global) |
+
+## Sembrados por los resúmenes de La vocación explicada (Juan Pablo II, 2026-08-27)
+
+La generación de los 18 resúmenes de la catequesis *La vocación explicada*
+(juan Pablo II, audiencias generales 1978) siembra 3 huérfanos nuevos
+(`maría` ya constaba en la tabla global; hay artículo `virgen_maría`).
+
+| Wikilink | Referencias | Contenido actual / artículo futuro |
+|----------|-------------|-------------------------------------|
+| `[[coherencia]]` | 1 | Resumen 09 (dificultades para la vocación): firmeza cristiana frente al ambiente contrario; toda época exige «coherencia» |
+| `[[maría]]` | 1 | Resumen 18 (el ejemplo de María): Madre y Maestra, modelo de disponibilidad; su «sí» hizo posible la Navidad (ya en tabla global; artículo `virgen_maría`) |
+| `[[vocación_matrimonial]]` | 3 | Resúmenes 03 (sumario), 06 (entrega total), 15 (vocación matrimonial): el matrimonio como vocación al amor, la familia y la santidad; defensa de la vida y la indisolubilidad |
+
+## Sembrados por los resúmenes de Ley_protección_menores (Legge N. CCXCVII, 2026-08-27)
+
+La generación de los 16 resúmenes de la Ley N. CCXCVII del Estado de la
+Ciudad del Vaticano sobre la protección de los menores y de las personas
+vulnerables (29.03.2019) siembra 9 huérfanos nuevos.
+
+| Wikilink | Referencias | Contenido actual / artículo futuro |
+|----------|-------------|-------------------------------------|
+| `[[obligación_de_denuncia]]` | 1 | Art. 3 (denuncia): obligación de denunciar los delitos contra menores y personas vulnerables |
+| `[[derechos_de_la_víctima]]` | 2 | Art. 4 (medidas generales): derechos de la víctima y su defensa durante el procedimiento |
+| `[[audición_del_menor]]` | 2 | Art. 5 (audición): escucha del menor con asistencia psicológica; videodeposición como prueba |
+| `[[investigación_prioritaria]]` | 1 | Art. 6 (investigación): carácter prioritario y medidas cautelares |
+| `[[juicio_a_puerta_cerrada]]` | 1 | Art. 7 (juicio): proceso a puerta cerrada y videoconferencia para declarar |
+| `[[servicio_de_acompañamiento]]` | 3 | Arts. 8-9: servicio de acompañamiento y asistencia a las víctimas |
+| `[[asistencia_a_víctimas]]` | 2 | Arts. 8-9: asistencia médica, social y psicológica a las víctimas |
+| `[[formación_prevención_abusos]]` | 1 | Art. 10 (formación): formación en identificación y prevención de abusos |
+| `[[verificación_idoneidad_personal]]` | 1 | Art. 11 (selección): verificación de idoneidad del personal que trabaja con menores |

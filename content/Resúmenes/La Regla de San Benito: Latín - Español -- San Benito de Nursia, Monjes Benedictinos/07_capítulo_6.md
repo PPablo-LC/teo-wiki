@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "capítulo 6"
 fuente: "La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 capítulo: 7
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'capítulo 6' — La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 tags: ["resumen", "la regla de san benito latín español san benito de nursia monjes benedictinos"]
 ---
@@ -12,35 +12,14 @@ tags: ["resumen", "la regla de san benito latín español san benito de nursia m
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[vida_monastica]] — ambiente de la disciplina del silencio
+- [[obediencia]] — del discípulo, que debe callar y escuchar al maestro
+- [[la_regla_de_san_benito]] — fuente de la norma de taciturnidad
 
+## El silencio
 
-## Contenido
+El capítulo trata de la taciturnidad, fundada en el salmista: «Dije: guardaré mis caminos, para no pecar con mi lengua… Guardé silencio, me humillé y me abstuve de hablar aun palabras buenas». Si hasta las buenas palabras deben callarse «por amor al silencio», con mayor razón deben evitarse las malas palabras «por el castigo del pecado».
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `07_capítulo_6.md`
+Por la importancia del silencio, rara vez se conceda permiso de hablar a los discípulos perfectos, incluso para palabras buenas, santas y edificantes, pues está escrito: «En el mucho hablar no evitarás el pecado», y «La muerte y la vida están en las manos de la lengua». El hablar y el enseñar corresponde al maestro; al discípulo le conviene callar y escuchar.
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H3 | Capítulo 6 |
-| 8 | H5 | El silencio |
-
-
-## Secciones incluidas
-
-## Capítulo 6
-
-[Contenido de esta sección...]
+Si se necesita pedir algo al superior, se solicitará con la mayor humildad y sumisión respetuosa. Las bromas, las palabras ociosas y las que provocan la risa se condenan «a una eterna clausura», y no se permite que el discípulo abra su boca para tales conversaciones.

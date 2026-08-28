@@ -9,7 +9,7 @@ description: "*Ad Gentes* (misiones), *Apostolicam Actuositatem* (laicado), *Chr
 # Concilio Vaticano II
 
 > Área: Documentos
-> Última actualización: 2026-06-11
+> Última actualización: 2026-08-27
 
 ## Identificación
 
@@ -45,6 +45,29 @@ description: "*Ad Gentes* (misiones), *Apostolicam Actuositatem* (laicado), *Chr
 ## Contenido doctrinal principal
 
 El Concilio Vaticano II es el concilio ecuménico más reciente de la Iglesia Católica. Su enseñanza marcó un giro en la autocomprensión eclesial (Iglesia como Pueblo de Dios), la relación con las demás confesiones cristianas y religiones, la libertad religiosa, la colegialidad episcopal, la participación de los laicos, la reforma litúrgica y el diálogo con el mundo moderno.
+
+## Resúmenes
+
+Los resúmenes estructurados del Concilio están en `wiki/Resúmenes/Concilio_Vaticano_II/`, con un archivo por documento:
+
+| # | Archivo | Documento |
+|---|---------|-----------|
+| 01 | [[01_dei_verbum]] | *Dei Verbum* — Constitución dogmática sobre la Divina Revelación |
+| 02 | [[02_lumen_gentium]] | *Lumen Gentium* — Constitución dogmática sobre la Iglesia |
+| 03 | [[03_gaudium_et_spes]] | *Gaudium et Spes* — Constitución pastoral sobre la Iglesia en el mundo actual |
+| 04 | [[04_sacrosanctum_concilium]] | *Sacrosanctum Concilium* — Constitución sobre la Sagrada Liturgia |
+| 05 | [[05_dignitatis_humanae]] | *Dignitatis Humanae* — Declaración sobre la libertad religiosa |
+| 06 | [[06_gravissimum_educationis]] | *Gravissimum Educationis* — Declaración sobre la educación cristiana |
+| 07 | [[07_nostra_aetate]] | *Nostra Aetate* — Declaración sobre las religiones no cristianas |
+| 08 | [[08_inter_mirifica]] | *Inter Mirifica* — Decreto sobre los medios de comunicación social |
+| 09 | [[09_orientalium_ecclesiarum]] | *Orientalium Ecclesiarum* — Decreto sobre las Iglesias orientales católicas |
+| 10 | [[10_unitatis_redintegratio]] | *Unitatis Redintegratio* — Decreto sobre el ecumenismo |
+| 11 | [[11_christus_dominus]] | *Christus Dominus* — Decreto sobre el ministerio pastoral de los obispos |
+| 12 | [[12_optatam_totius]] | *Optatam Totius* — Decreto sobre la formación sacerdotal |
+| 13 | [[13_perfectae_caritatis]] | *Perfectae Caritatis* — Decreto sobre la adecuada renovación de la vida religiosa |
+| 14 | [[14_apostolicam_actuositatem]] | *Apostolicam Actuositatem* — Decreto sobre el apostolado de los laicos |
+| 15 | [[15_ad_gentes]] | *Ad Gentes* — Decreto sobre la actividad misionera de la Iglesia |
+| 16 | [[16_presbyterorum_ordinis]] | *Presbyterorum Ordinis* — Decreto sobre el ministerio y la vida de los presbíteros |
 
 ## Ver también
 

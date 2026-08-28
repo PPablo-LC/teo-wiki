@@ -3,40 +3,13 @@ type: ResumenFuente
 title: "SIGLO V"
 fuente: Historia_de_la_Iglesia_-_P._Antonio_Rivero_L.C_
 capítulo: 9
-timestamp: 2026-08-24
-description: "Resumen de 'SIGLO V' — Historia_de_la_Iglesia_-_P._Antonio_Rivero_L.C_"
-tags: ["resumen", "historia de la iglesia - p. antonio rivero l.c "]
+timestamp: 2026-08-27
+description: "Resumen de 'SIGLO V' — cabecera del siglo V de la Historia de la Iglesia; el contenido se desarrolla en el archivo 10"
+tags: ["resumen", "historia de la iglesia - p. antonio rivero l.c"]
 ---
 
 # SIGLO V
 
-## Conceptos básicos referenciados
-
-[Lista de conceptos teológicos tratados aquí.]
-
-
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `09_siglo_v.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H1 | SIGLO V |
-
-
-## Secciones incluidas
-
+Este archivo es la cabecera del **siglo V** en la *Historia de la Iglesia* (P. Antonio Rivero L.C.). Solo recoge el título del siglo, sin contenido doctrinal propio. El desarrollo histórico de este siglo se encuentra en el archivo `10_los_bárbaros_nuevas_herejías_respuesta_de_la_iglesia.md`, donde se narran el avance de los bárbaros y la caída del Imperio romano de Occidente, las nuevas herejías ([[monofisismo]], [[nestorianismo]], [[pelagianismo]]), la respuesta de la Iglesia con los concilios de [[concilio_de_éfeso|Éfeso]] y [[concilio_de_calcedonia|Calcedonia]], la labor de los Santos Padres, el cisma de Acacio y el surgimiento de las parroquias rurales.

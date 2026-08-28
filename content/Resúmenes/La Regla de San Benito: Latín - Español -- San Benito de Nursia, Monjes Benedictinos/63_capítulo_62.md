@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "capítulo 62"
 fuente: "La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 capítulo: 63
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'capítulo 62' — La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 tags: ["resumen", "la regla de san benito latín español san benito de nursia monjes benedictinos"]
 ---
@@ -12,35 +12,17 @@ tags: ["resumen", "la regla de san benito latín español san benito de nursia m
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[sacerdotes_en_el_monasterio]] — presbíteros y diáconos ordenados por petición del abad
+- [[abad]] — elige quién sea digno de ejercer el sacerdocio
+- [[obediencia]] — someterse a la disciplina de la regla
+- [[humildad]] — sin altanería ni soberbia
+- [[la_regla_de_san_benito]] — regla establecida de decanos y prepósitos
+- [[vida_monastica]] — progreso cada vez mayor en Dios
 
+## Los sacerdotes del monasterio
 
-## Contenido
+Si el abad pide que le ordenen un presbítero o diácono, elija de entre los suyos a quien sea digno de ejercer el sacerdocio. El ordenado, en tanto, cuídese de la altanería y la soberbia, y no quiera hacer nada sin el permiso del abad, sabiendo que debe someterse mucho más a la disciplina de la regla. No por ser sacerdote olvide la obediencia a la regla y la disciplina, sino que progrese cada vez más y más en Dios.
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `63_capítulo_62.md`
+Siempre ponga atención al lugar que le corresponde por su ingreso al monasterio, excepto en el servicio del altar, o también si la elección de la comunidad y la voluntad del abad quieren promoverlo por el mérito de su vida. Pero sepa que debe observar la regla establecida de los decanos y prepósitos.
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H3 | Capítulo 62 |
-| 8 | H5 | Los sacerdotes del monasterio |
-
-
-## Secciones incluidas
-
-## Capítulo 62
-
-[Contenido de esta sección...]
+Pero si se atreve a obrar de otro modo, sea juzgado no como sacerdote, sino como rebelde. Y si no se corrige después de ser amonestado muchas veces, se tendrá por testigo al obispo. Pero si ni así se enmienda y las culpas son muy claras, tendrá que ser expulsado del monasterio, si tal fuera su persistencia al no querer someterse ni obedecer a la regla.

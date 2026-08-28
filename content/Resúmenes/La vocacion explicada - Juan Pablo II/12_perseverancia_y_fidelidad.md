@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "**Perseverancia y fidelidad**"
 fuente: La vocacion explicada - Juan Pablo II
 capítulo: 12
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de '**Perseverancia y fidelidad**' — La vocacion explicada - Juan Pablo II"
 tags: ["resumen", "la vocacion explicada - juan pablo ii"]
 ---
@@ -12,34 +12,20 @@ tags: ["resumen", "la vocacion explicada - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[fidelidad]] — la fidelidad como coherencia que dura toda la vida
+- [[perseverancia_final]] — perseverancia en la vocación
+- [[mortificación]] — renuncia y ascética necesarias para amar de veras
+- [[amor]] — el amor como norma y motor de las acciones
+- [[vocación_cristiana]] — la vocación abordable solo a la luz de la entrega
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `12_perseverancia_y_fidelidad.md`
+**Perseverancia y fidelidad**
 
+Es fácil ser coherente por un día o algunos días; difícil e importante es serlo **toda la vida**. Es fácil ser coherente en la exaltación y difícil en la tribulación; solo puede llamarse fidelidad a una coherencia que dure toda la vida.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+La llamada de Cristo es una declaración de amor; la respuesta vocacional es entrega, amistad y amor manifestado en la donación de la propia vida, como seguimiento definitivo. Ser fiel a Cristo es amarlo con toda el alma y con todo el corazón, de modo que ese amor sea la norma y el motor de todas las acciones.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | **Perseverancia y fidelidad** |
+La fidelidad de Cristo alcanza su máxima expresión en la **Cruz**; por eso son imprescindibles la renuncia y la **[[mortificación]]**. Sin una ascética exigente, sin una disponibilidad para servir enraizada en el corazón y sin el hábito del olvido de sí, sería imposible amar de veras y ocuparse solo de los intereses de Cristo.
 
-
-## Secciones incluidas
-
-# **Perseverancia y fidelidad**
-
-[Contenido de esta sección...]
+Juan Pablo II abre su corazón para decir que la principal preocupación ha de ser la **fidelidad**, la lealtad a la propia vocación, como discípulo que quiere seguir al Señor con entrega total y disponibilidad apostólica sin condicionamientos ni fronteras. Solo a la luz de esta entrega se pueden afrontar los demás problemas.

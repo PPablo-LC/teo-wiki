@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "Articolo 2"
 fuente: Ley_protección_menores
 capítulo: 6
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'Articolo 2' — Ley_protección_menores"
 tags: ["resumen", "ley protección menores"]
 ---
@@ -12,25 +12,9 @@ tags: ["resumen", "ley protección menores"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[protección_de_menores_en_la_iglesia]] — régimen de perseguibilidad de los delitos contra menores.
+- [[prescripción_canónica]] — plazo de prescripción de veinte años.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `Ley_protección_menores.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-
-## Secciones incluidas
-
+**(Procedibilidad y plazos de prescripción)** Los delitos previstos en el artículo 1 son perseguibles de oficio. El plazo de [[prescripción_canónica|prescripción]] de los delitos del artículo 1 es de veinte años y, en caso de ofensa a un menor, comienza a correr desde el cumplimiento de los dieciocho años de edad de la víctima, reforzando así la [[protección_de_menores_en_la_iglesia|tutela de los menores]].

@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "capítulo 47"
 fuente: "La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 capítulo: 48
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'capítulo 47' — La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 tags: ["resumen", "la regla de san benito latín español san benito de nursia monjes benedictinos"]
 ---
@@ -12,35 +12,14 @@ tags: ["resumen", "la regla de san benito latín español san benito de nursia m
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[liturgia_de_las_horas]] — la Obra de Dios de día y de noche
+- [[abad]] — responsable de anunciar la hora del oficio divino
+- [[humildad]] — la disposición con que se canta y se lee
+- [[temor_de_dios]] — el temor reverente al desempeñar el oficio
+- [[vida_monastica]] — el orden y la edificación en el canto y la lectura
 
+## Quien ha de indicar la hora de la Obra de Dios
 
-## Contenido
+Es responsabilidad del [[abad]] anunciar la hora de la Obra de Dios, de día y de noche; puede hacerlo él mismo o encomendar esta tarea a un hermano responsable, para que todo se haga a tiempo.
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `48_capítulo_47.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H3 | Capítulo 47 |
-| 8 | H5 | Quien ha de indicar la hora de la Obra de Dios |
-
-
-## Secciones incluidas
-
-## Capítulo 47
-
-[Contenido de esta sección...]
+Después del abad entonarán por orden los salmos y las antífonas aquellos a quienes se les mande. No se atreva a cantar ni a leer sino sólo quien pueda desempeñar este oficio para edificación de los oyentes; y sólo lo hará aquel a quien el abad se lo ordene, pero con humildad, gravedad y [[temor_de_dios|temor]].

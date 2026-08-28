@@ -3,40 +3,13 @@ type: ResumenFuente
 title: "SIGLO III"
 fuente: Historia_de_la_Iglesia_-_P._Antonio_Rivero_L.C_
 capítulo: 5
-timestamp: 2026-08-24
-description: "Resumen de 'SIGLO III' — Historia_de_la_Iglesia_-_P._Antonio_Rivero_L.C_"
-tags: ["resumen", "historia de la iglesia - p. antonio rivero l.c "]
+timestamp: 2026-08-27
+description: "Resumen de 'SIGLO III' — cabecera del siglo III de la Historia de la Iglesia; el contenido se desarrolla en el archivo 06"
+tags: ["resumen", "historia de la iglesia - p. antonio rivero l.c"]
 ---
 
 # SIGLO III
 
-## Conceptos básicos referenciados
-
-[Lista de conceptos teológicos tratados aquí.]
-
-
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `05_siglo_iii.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H1 | SIGLO III |
-
-
-## Secciones incluidas
-
+Este archivo es la cabecera del **siglo III** en la *Historia de la Iglesia* (P. Antonio Rivero L.C.). Solo recoge el título del siglo, sin contenido doctrinal propio. El desarrollo histórico de este siglo se encuentra en el archivo `06_las_herejías_ayudan_a_la_iglesia_a_profundizar_su_doctrina.md`, donde se narran la crisis del Imperio romano y el avance de los bárbaros, las herejías sobre la Trinidad (adopcionismo, modalismo, monarquianismo, patripasianismo), las persecuciones de Septimio Severo, Decio, Valeriano y Diocleciano, y la respuesta de la Iglesia: el [[catecumenado]], la institución de los ministerios y la consolidación de la fe por la [[tradición]].

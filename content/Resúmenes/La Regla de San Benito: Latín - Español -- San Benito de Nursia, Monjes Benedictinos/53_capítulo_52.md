@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "capítulo 52"
 fuente: "La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 capítulo: 53
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'capítulo 52' — La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 tags: ["resumen", "la regla de san benito latín español san benito de nursia monjes benedictinos"]
 ---
@@ -12,35 +12,13 @@ tags: ["resumen", "la regla de san benito latín español san benito de nursia m
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[oración]] — la oración particular en el oratorio
+- [[liturgia_de_las_horas]] — la Obra de Dios, tras la cual se sale en silencio
+- [[silencio]] — el sumo silencio al salir del oratorio
+- [[vida_monastica]] — el oratorio reservado a la oración y la reverencia a Dios
 
+## El oratorio del monasterio
 
-## Contenido
+El oratorio sea lo mismo que significa su nombre: no se haga ni se guarde allí otra cosa. Al terminar la Obra de Dios, todos salen con sumo silencio y dando a Dios la debida reverencia, para que si algún hermano quiere orar en particular no se lo impida la incomodidad de otro.
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `53_capítulo_52.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H3 | Capítulo 52 |
-| 8 | H5 | El oratorio del monasterio |
-
-
-## Secciones incluidas
-
-## Capítulo 52
-
-[Contenido de esta sección...]
+Si en otra ocasión quiere orar a solas con mayor recogimiento, sencillamente entre y ore, pero no en voz alta, sino con lágrimas y con el corazón atento. Por tanto, al terminar la Obra de Dios no se permita permanecer en el oratorio, como se dijo, a quien no actúe así, para que otro no sea molestado.

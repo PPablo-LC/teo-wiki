@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "Capítulo 17"
 fuente: "La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 capítulo: 18
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'Capítulo 17' — La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 tags: ["resumen", "la regla de san benito latín español san benito de nursia monjes benedictinos"]
 ---
@@ -12,35 +12,16 @@ tags: ["resumen", "la regla de san benito latín español san benito de nursia m
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[liturgia_de_las_horas]] — las horas canónicas diurnas y vespertinas
+- [[salmos]] — número de salmos de cada hora
+- [[oficio_divino]] — estructura de Prima, Tercia, Sexta, Nona, Vísperas y Completas
+- [[oración]] — preces finales y oración del Padre nuestro
 
+## Cuántos salmos se han de cantar en esas horas del día
 
-## Contenido
+Dispuesto el orden de la salmodia de los nocturnos y de los Laudes, el capítulo regula las horas siguientes:
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `18_capítulo_17.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H2 | Capítulo 17 |
-| 8 | H5 | Cuántos salmos se han de cantar en esas horas del día |
-
-
-## Secciones incluidas
-
-# Capítulo 17
-
-[Contenido de esta sección...]
+- **Prima**: se dicen tres salmos separadamente, no bajo un solo *Gloria*. El himno de esta hora se dice después del verso «Oh Dios, ven en mi auxilio», antes de iniciar los salmos. Terminados los tres salmos, se recita una lectura, el verso, el *Kyrie eleison* y las preces finales.
+- **Tercia, Sexta y Nona**: se celebran con el mismo orden —verso, himnos de esas horas, tres salmos, lectura y verso, *Kyrie eleison* y preces finales—. Si la comunidad es numerosa, se salmodia con antífonas; si es reducida, seguidos.
+- **Vísperas** (sinaxis vespertina): consta de cuatro salmos con antífona; después se recita la lectura, el responsorio, el himno ambrosiano, el verso, el cántico de los Evangelios, la letanía, y con el Padre nuestro se terminan las preces finales.
+- **Completas**: tres salmos dichos seguidos, sin antífona; después, el himno de esta hora, una lectura, el verso, el *Kyrie eleison*, y se termina con una bendición.

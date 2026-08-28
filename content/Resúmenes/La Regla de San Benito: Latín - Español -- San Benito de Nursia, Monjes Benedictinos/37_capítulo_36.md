@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "Capítulo 36"
 fuente: "La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 capítulo: 37
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'Capítulo 36' — La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 tags: ["resumen", "la regla de san benito latín español san benito de nursia monjes benedictinos"]
 ---
@@ -12,35 +12,11 @@ tags: ["resumen", "la regla de san benito latín español san benito de nursia m
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[caridad]] — servir a los enfermos como a Cristo en persona
+- [[abad]] — máxima solicitud con los enfermos y responsable de las faltas de sus discípulos
+- [[vida_monastica]] — celda aparte y servidor para los hermanos enfermos
+- [[monjes]] — los hermanos enfermos y quienes les sirven
 
+## Los hermanos enfermos
 
-## Contenido
-
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `37_capítulo_36.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H2 | Capítulo 36 |
-| 8 | H5 | Los hermanos enfermos |
-
-
-## Secciones incluidas
-
-# Capítulo 36
-
-[Contenido de esta sección...]
+Ante todo y sobre todo se ha de cuidar a los hermanos enfermos, sirviéndoles como a Cristo en persona, pues Él mismo dijo: «Estuve enfermo y me visitaron», y «lo que hicieron a uno de estos pequeños, a mí me lo hicieron». Pero consideren los enfermos que es por el honor de Dios que se les sirve, y no molesten a sus hermanos con excesivas exigencias; no obstante, se les debe soportar pacientemente, ya que con tales enfermos se consigue una recompensa mucho mayor. El abad tenga el mayor cuidado de que no sufran ninguna negligencia. Se destinará una celda aparte para los enfermos, atendida por un servidor temeroso de Dios, diligente y atento. Se permitirá a los enfermos el uso de baños cuantas veces sea conveniente, pero rara vez a los sanos, y más aún a los jóvenes. También se permitirá comer carne a los enfermos muy débiles para que se repongan; pero, cuando mejoren, todos se abstendrán de la carne del modo acostumbrado. El abad cuide de que los mayordomos y servidores no sean negligentes con los enfermos, pues él es responsable de cualquier falta cometida por sus discípulos.

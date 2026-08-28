@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "Capítulo 16"
 fuente: "La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 capítulo: 17
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'Capítulo 16' — La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 tags: ["resumen", "la regla de san benito latín español san benito de nursia monjes benedictinos"]
 ---
@@ -12,35 +12,13 @@ tags: ["resumen", "la regla de san benito latín español san benito de nursia m
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[oficio_divino]] — las horas diarias del oficio divino
+- [[liturgia_de_las_horas]] — las siete horas del día y las Vigilias nocturnas
+- [[oración]] — alabanza al Creador en las horas del día y de la noche
+- [[salmos]] — la alabanza salmódica «siete veces al día» y «a media noche»
 
+## Cómo se han de celebrar los oficios divinos en el día
 
-## Contenido
+Como dice el Profeta: «Siete veces al día te alabé». Este sagrado número de siete se cumple si se realiza el servicio en los oficios de Laudes, Prima, Tercia, Sexta, Nona, Vísperas y Completas, de los cuales se dijo: «Siete veces al día te alabé». De las Vigilias nocturnas el mismo Profeta dijo: «A media noche me levantaba para alabarte».
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `17_capítulo_16.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H2 | Capítulo 16 |
-| 8 | H5 | Como se han de celebrar los oficios divinos en el día |
-
-
-## Secciones incluidas
-
-# Capítulo 16
-
-[Contenido de esta sección...]
+En estas horas se ofrecen alabanzas al Creador «por los juicios de su justicia» —Laudes, Prima, Tercia, Sexta, Nona, Vísperas y Completas—, y en la noche se levanta uno para alabarle.

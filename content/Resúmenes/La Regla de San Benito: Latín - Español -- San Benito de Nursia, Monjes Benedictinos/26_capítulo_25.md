@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "capítulo 25"
 fuente: "La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 capítulo: 26
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'capítulo 25' — La Regla de San Benito: Latín - Español -- San Benito de Nursia, Monjes Benedictinos"
 tags: ["resumen", "la regla de san benito latín español san benito de nursia monjes benedictinos"]
 ---
@@ -12,35 +12,10 @@ tags: ["resumen", "la regla de san benito latín español san benito de nursia m
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[excomunión]] — suspensión de la mesa y del oratorio para las culpas más graves
+- [[penitencia]] — llanto de penitencia en que persevera el hermano culpable
+- [[abad]] — determina la medida y la hora del alimento del suspendido
 
+## Las culpas más graves
 
-## Contenido
-
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `26_capítulo_25.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 6 | H3 | Capítulo 25 |
-| 8 | H5 | Las culpas más graves |
-
-
-## Secciones incluidas
-
-## Capítulo 25
-
-[Contenido de esta sección...]
+El hermano que tenga una culpa más grave será suspendido de la mesa y del oratorio. Ninguno de los hermanos se le acerque para hacerle compañía o conversar. Trabaje solo en lo que le manden, y persevere en el llanto de penitencia, meditando aquella sentencia del Apóstol: «Este hombre ha sido entregado a la muerte de la carne, para que su espíritu se salve en el día del Señor». Tomará su alimento solo, en la medida y hora que el abad juzgue convenirle. Nadie lo bendiga al pasar, ni se bendiga el alimento que se le da.

@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "LEGGE"
 fuente: Ley_protección_menores
 capítulo: 4
-timestamp: 2026-08-24
+timestamp: 2026-08-27
 description: "Resumen de 'LEGGE' — Ley_protección_menores"
 tags: ["resumen", "ley protección menores"]
 ---
@@ -12,25 +12,8 @@ tags: ["resumen", "ley protección menores"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[protección_de_menores_en_la_iglesia]] — ley adoptada para la tutela de los menores y de las personas vulnerables.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `Ley_protección_menores.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-
-## Secciones incluidas
-
+Título que introduce el cuerpo normativo adoptado por el Santo Padre. Tras el preámbulo, el documento pasa a la parte dispositiva titulada «LEGGE», articulada en doce artículos que configuran el régimen de [[protección_de_menores_en_la_iglesia|protección de los menores]] y de las personas vulnerables en el Estado de la Ciudad del Vaticano.

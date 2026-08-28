@@ -1,45 +1,32 @@
 ---
 type: ResumenFuente
-title: "**4. EL EJEMPLO DE MARíA**"
+title: "**4. EL EJEMPLO DE MARÍA**"
 fuente: La vocacion explicada - Juan Pablo II
 capítulo: 18
-timestamp: 2026-08-24
-description: "Resumen de '**4. EL EJEMPLO DE MARíA**' — La vocacion explicada - Juan Pablo II"
+timestamp: 2026-08-27
+description: "Resumen de '**4. EL EJEMPLO DE MARÍA**' — La vocacion explicada - Juan Pablo II"
 tags: ["resumen", "la vocacion explicada - juan pablo ii"]
 ---
 
-# **4. EL EJEMPLO DE MARíA**
+# **4. EL EJEMPLO DE MARÍA**
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[maría|María]] — modelo de disponibilidad y de «sí» a la vocación
+- [[fe_de_maría]] — el «sí» lleno de gozo y confianza de María
+- [[vocación_cristiana]] — el «sí» de María como modelo de respuesta vocacional
+- [[madre_de_dios|Madre de Dios]] — María, Madre y Maestra de los jóvenes
+- [[encarnación]] — la vocación de María hizo posible la Navidad
+- [[advocaciones_marianas]] — María como refugio de confianza de la juventud
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `18_4_el_ejemplo_de_maría.md`
+**4. EL EJEMPLO DE MARÍA**
 
+Juan Pablo II desea que la juventud del mundo entero se acerque más a **[[maría|María]]**, portadora de un signo indeleble de juventud y belleza que no pasan jamás; que los jóvenes confíen en Ella y le confíen la vida que se abre ante ellos.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+En el Evangelio hay una frase en la que María se manifiesta como **Maestra**: la que pronunció en las bodas de Caná. Después de decir a su Hijo «No tienen vino», dice a los sirvientes: **«Haced lo que Él os diga»** (cf. Jn 2, 5). Estas palabras encierran un mensaje válido para todos los hombres de todos los tiempos: escuchad a Jesús, actuad según su palabra y confiad en Él; aprended a decir «sí» al Señor en cada circunstancia de la vida.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | **4. EL EJEMPLO DE MARíA** |
+«Haced lo que Él os diga» expresa el secreto más profundo de la vida de María: toda su vida ha sido un «sí» profundo al Señor, un «sí» lleno de gozo y de confianza. El Papa pide acoger a María en las jóvenes vidas, igual que el Apóstol Juan la acogió «en su casa», permitirle ser Madre, abrirle el corazón y la conciencia, para que Ella ayude a encontrar siempre a Cristo.
 
-
-## Secciones incluidas
-
-# **4. EL EJEMPLO DE MARíA**
-
-[Contenido de esta sección...]
+«He aquí la esclava del Señor; hágase en mí según tu palabra» (cf. Lc 1, 38). Este fue el **momento de la vocación de María**, y de ese momento dependió la posibilidad misma de la [[navidad|Navidad]]: sin el «sí» de María, Jesús no hubiera nacido. La obediencia y disponibilidad de María son el modelo por excelencia de la respuesta a toda vocación.
