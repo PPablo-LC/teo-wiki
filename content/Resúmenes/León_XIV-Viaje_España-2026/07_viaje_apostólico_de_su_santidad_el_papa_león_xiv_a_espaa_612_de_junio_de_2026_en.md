@@ -3,54 +3,61 @@ type: ResumenFuente
 title: "VIAJE APOSTÓLICO DE SU SANTIDAD EL PAPA LEÓN XIV A ESPAÑA (6-12 DE JUNIO DE 2026) ENCUENTRO CON LOS MIEMBROS DEL PARLAMENTO ESPAÑOL DISCURSO DEL SANTO PADRE Congreso de los Diputados (Madrid) Lunes, 8 de junio de 2026"
 fuente: León_XIV-Viaje_España-2026
 capítulo: 7
-timestamp: 2026-08-24
-description: "Resumen de 'VIAJE APOSTÓLICO DE SU SANTIDAD EL PAPA LEÓN XIV A ESPAÑA (6-12 DE JUNIO DE 2026) ENCUENTRO CON LOS MIEMBROS DEL PARLAMENTO ESPAÑOL DISCURSO DEL SANTO PADRE Congreso de los Di..."
+timestamp: 2026-08-28
+description: "Discurso de León XIV al Parlamento español: dignidad de la persona, vida humana, bien común, familia, educación, migración y paz."
 tags: ["resumen", "león xiv-viaje españa-2026"]
 ---
 
 # VIAJE APOSTÓLICO DE SU SANTIDAD EL PAPA LEÓN XIV A ESPAÑA (6-12 DE JUNIO DE 2026) ENCUENTRO CON LOS MIEMBROS DEL PARLAMENTO ESPAÑOL DISCURSO DEL SANTO PADRE Congreso de los Diputados (Madrid) Lunes, 8 de junio de 2026
 
-## Conceptos básicos referenciados
+## Conceptos básicos referenciados en este capítulo
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[dignidad_humana]] — dignidad inviolable de la persona, fundamento de toda sociedad justa y de todo ordenamiento jurídico
+- [[bien_común]] — «forma social de la dignidad humana»; horizonte compartido de la acción pública
+- [[escuela_de_salamanca]] — herencia moral y jurídica española sobre el valor irreductible de todo ser humano y los límites del poder
+- [[límites_del_poder_político]] — la dignidad de la persona precede a toda concesión del Estado y a los consensos mudables
+- [[vida_humana]] — defensa de la vida desde la concepción hasta su ocaso natural como meta de civilización
+- [[cultura_del_descarte]] — amenaza a la convivencia social, advertida por el Papa Francisco
+- [[familia]] — primera escuela de humanidad y fundamento natural de la comunidad
+- [[migrantes]] — cuestión moral y jurídica que interpela la conciencia de las naciones
+- [[derecho_a_no_emigrar]] — doble exigencia de justicia social ante la migración: acogida e integración y derecho a permanecer en la propia tierra
+- [[libertad_religiosa]] — derecho fundamental que tutela el ámbito más íntimo de las personas
+- [[sigilo_sacramental]] — espacio sagrado de libertad interior, amparado por la libertad religiosa
+- [[paz]] — aspiración política y exigencia moral frente al rearme
+- [[derecho_internacional]] — caminos pacíficos para resolver las controversias entre Estados
+- [[autonomía_de_las_realidades_terrenas]] — distinción entre comunidad eclesial y comunidad política
+- [[inteligencia_artificial]] — discernimiento ético sobre el lugar de la persona en el desarrollo tecnológico
 
+## **Señoras y señores:**
 
-## Contenido
+El Papa agradece a la Presidenta del Congreso las palabras y la acogida en el histórico Palacio del Congreso de los Diputados. Se presenta como Obispo de Roma y Pastor de la Iglesia católica, consciente de que la misión del Sucesor de Pedro como «principio y fundamento de unidad de los Obispos y de los fieles» (*Lumen gentium*, 23) coloca a la Santa Sede en diálogo con los pueblos y los Estados. La Iglesia «camina con la humanidad» y, al dirigirse a la vida pública, respeta la misión propia de las instituciones y reconoce [[autonomía_de_las_realidades_terrenas|la autonomía de las realidades terrenas]] y la distinción entre comunidad eclesial y comunidad política (cf. *Magnifica humanitas*, 18-19); desde esa conciencia aporta una reflexión al servicio del [[bien_común]].
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `07-parlamento.md`
+En el hemiciclo se da forma jurídica a la convivencia social. Más allá de la legítima diversidad de posiciones, toda tarea legislativa se encuentra con la pregunta decisiva: qué concepción de la [[persona_humana|persona humana]] inspira las leyes y qué tipo de sociedad construye esas leyes. El Papa evoca la memoria rica de España, donde fe y razón, arte y derecho, tradición y pensamiento se han encontrado fecundamente: desde el *Quijote*, donde Cervantes proclama que la libertad es «uno de los más preciosos dones que a los hombres dieron los cielos», hasta la hondura espiritual de santa Teresa de Jesús y la inquietud metafísica de Unamuno, que recordaba que el hombre «no se resigna a morir del todo». España ha reconocido al ser humano como criatura abierta a la verdad, dotada de libertad y movida por una sed de eternidad: alguien cuya dignidad precede a toda utilidad y a cuyo servicio está sujeta la acción legislativa.
 
+Esta memoria conduce a Salamanca: ante las responsabilidades históricas de alcance universal de la España de los Reyes Isabel y Fernando, la [[escuela_de_salamanca|Escuela de Salamanca]] —particularmente fray Francisco de Vitoria, junto con otros dominicos y jesuitas— introdujo la pregunta por el valor irreductible de todo ser humano y los límites morales del poder, con la intuición del *totus orbis* de una comunidad humana más amplia que cualquier poder particular. El Papa reconoce que la sociedad y la misma Iglesia no siempre estuvieron a la altura de esas intuiciones. Ese legado vive en las Cortes cada vez que el legislador se pregunta cómo hacer que lo posible sea justo, que lo legal sea verdaderamente humano y que la voluntad de la mayoría custodie los bienes que pertenecen a todos.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+Hoy los nuevos mundos se despliegan en la técnica, la economía, la biomedicina y el universo digital. La tecnología no es neutral, porque toma el rostro de quien la concibe, la financia, la regula y la utiliza (cf. *Magnifica humanitas*, 9); el discernimiento debe centrarse en qué lugar ocupa la [[persona_humana|persona humana]] en las decisiones, y en cómo se plantean la [[dignidad_del_trabajo|dignidad del trabajo]], la [[solidaridad]], la política social y el bien común.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | VIAJE APOSTÓLICO DE SU SANTIDAD EL PAPA LEÓN XIV A ESPAÑA (6-12 DE JUN |
-| 10 | H4 | **Señoras y señores:** |
-| 50 | H4 | **Señorías:** |
-| 72 | H4 | **Señoras y Señores:** |
+La afirmación primera es que toda sociedad justa se edifica sobre el reconocimiento de la [[dignidad_humana|dignidad inviolable de la persona]], que precede a toda concesión del Estado y no puede quedar subordinada a consensos mudables o al vaivén de las mayorías (cf. Benedicto XVI, *Discurso ante el Parlamento Federal alemán*, 22 septiembre 2011). La fe la proclama a partir de la Revelación; la [[razón_natural|razón humana]] puede reconocerla como exigencia inscrita en la verdad del hombre. Sobre este fundamento, el Papa pronuncia una palabra serena y firme: la convivencia puede verse amenazada por la [[cultura_del_descarte|cultura del descarte]] (cf. Francisco, *Discurso a la Asamblea Plenaria de la Pontificia Academia para la Vida*, 27 septiembre 2021). La defensa de la [[vida_humana|vida humana]], desde la concepción hasta su ocaso natural, no es cuestión parcial ni interés confesional: es una meta de civilización. La grandeza moral de una nación se manifiesta en acompañar, proteger y amar las vidas que atraviesan mayor fragilidad.
 
+El bien común es «la forma social de la dignidad humana» (cf. *Magnifica humanitas*, 59): no la mera suma de intereses particulares, sino «el conjunto de condiciones de la vida social que hacen posible a las asociaciones y a cada uno de sus miembros el logro más pleno y más fácil de la propia perfección» (*Gaudium et spes*, 26). Reviste particular importancia la [[familia]], realidad primera y fundamento natural de la comunidad, primera escuela de humanidad donde se aprende a recibir la vida, cuidar al otro, perdonar, servir y pertenecer. También las instituciones educativas colaboran en la búsqueda de la verdad, respetando siempre el «derecho primario e inalienable» de los padres a elegir la educación de sus hijos en coherencia con sus convicciones morales, culturales y religiosas (cf. *Magnifica humanitas*, 143; *Pacto Internacional de Derechos Civiles y Políticos*, art. 18.4).
 
-## Secciones incluidas
+El drama [[migrantes|migratorio]] constituye una cuestión eminentemente moral y jurídica: donde una persona es discriminada por su origen, se vulnera la igual dignidad de todos los seres humanos. Nace una doble exigencia de justicia social: ofrecer vías seguras y legales, acogida respetuosa y posibilidades reales de integración; y promover el [[derecho_a_no_emigrar|derecho a permanecer en la propia tierra]], combatiendo las causas que obligan a partir (cf. *Magnifica humanitas*, 81). Es necesario fortalecer la prevención, el rescate y la asistencia a las víctimas de traficantes, en el marco de una cooperación regional y multilateral, de modo que las fronteras se conviertan en espacios de protección responsable de la dignidad humana.
 
-### **Señoras y señores:**
+## **Señorías:**
 
-[Contenido de esta sección...]
+El mundo atraviesa una profunda crisis espiritual y cultural, con formas de violencia, polarización y desconfianza recíproca. La [[paz]] se presenta como aspiración política y exigencia moral: reclama una palabra pública que respete a quien piensa distinto, instituciones al servicio del encuentro, memoria histórica que busque la verdad y reconciliación, y amistad cívica en medio de la discrepancia. En el plano internacional, la paz exige valentía diplomática, responsabilidad ética y respeto a la identidad de los pueblos, con la obligación de resolver controversias por los caminos pacíficos del [[derecho_internacional]]. Las armas imponen un silencio temporal pero nunca edifican una paz auténtica.
 
-### **Señorías:**
+Preocupa que reaparezca en Europa el [[desarme|rearme]] como respuesta casi inevitable: la verdadera seguridad nace de la justicia, del diálogo paciente, del respeto al derecho internacional y de una política que ponga la vida de los pueblos por encima de los intereses que se benefician de la guerra. El desarrollo de la [[inteligencia_artificial|inteligencia artificial]] en el ámbito militar exige vigilancia ética rigurosa, para que las decisiones sobre la vida y la muerte nunca sean descargadas sobre automatismos (cf. *Discurso en la Universidad «La Sapienza»*, 14 mayo 2026). La comunidad internacional está llamada a redescubrir el diálogo como camino paciente hacia acuerdos justos. Como recuerda el lema de la Unión Europea, *In varietate concordia*, la unidad verdadera no uniforma, sino que cohesiona en la diversidad.
 
-[Contenido de esta sección...]
+Dentro de las sociedades urge construir una cultura de la reciprocidad: la pluralidad política no debería degenerar en descalificación permanente del adversario; incluso el conflicto puede convertirse en camino hacia la paz cuando las diferencias se ordenan a la escucha. La paz nace también en la conciencia y se protege a través del lenguaje; quienes ejercen responsabilidad pública tienen la obligación de custodiar la palabra para «desarmar el lenguaje» (*Mensaje para la Cuaresma de 2026*). La firmeza no exige desprecio; la discrepancia no conlleva humillación.
 
-### **Señoras y Señores:**
+Del respeto al otro nace el deber de custodiar el espacio donde maduran sus convicciones, su conciencia y su relación con Dios: la [[libertad_religiosa|libertad de pensamiento, de conciencia y de religión]] es derecho fundamental que tutela el ámbito más íntimo de las personas. La libertad necesita una comprensión plena de sí misma: no es sólo estar libre de coacciones, sino poder reconocer el bien y adherirse a él responsablemente; requiere una justa delimitación del poder público (cf. *Dignitatis humanae*, 1). La legítima autonomía del orden temporal jamás debe interpretarse como hostilidad hacia el fenómeno religioso: la fe no pretende imponerse mediante privilegios ni coerciones, pero tampoco puede ser relegada al silencio en la vida pública. En este contexto, el [[sigilo_sacramental|sigilo sacramental de la confesión]] —inserto en la libertad religiosa que garantiza a las comunidades creyentes un espacio propio de vida y disciplina interna (cf. *Acta Final de Helsinki*, Principio VII; Corte Penal Internacional, *Reglas de Procedimiento y Prueba*, Regla 73.3)— preserva un espacio sagrado de libertad interior donde el creyente puede abrir su alma ante Dios sin temor a presiones externas.
 
-[Contenido de esta sección...]
+## **Señoras y Señores:**
+
+El Papa se detiene en las imágenes del Salón de Sesiones: la luz que entra por el lucernario recuerda que la política necesita reconocer una medida que la precede y la supera; las pinturas de la recepción del Evangelio y del Decálogo evocan que la libertad moderna fue preparada por una larga educación de la [[conciencia|cultura de la conciencia]], marcada por la tradición cristiana. En esa escuela interior los pueblos aprendieron que el derecho debe servir al bien, que la justicia pone límites a la fuerza, que el poder necesita legitimidad, que los pobres pertenecen plenamente a la comunidad, que el extranjero debe ser acogido y que la vida humana jamás puede ser tratada como mercancía.
+
+Una ley no alcanza su grandeza por el mero hecho de ser formalmente aprobada; la alcanza cuando, además de ser válida en su forma, puede comparecer ante la dignidad de la persona y salir sin avergonzarse. El Papa invita a alzar la mirada: toda decisión de las autoridades públicas toca a personas de carne y hueso, especialmente a quienes tienen menos fuerza para hacerse oír. Junto a las respuestas técnicas y las reformas legales hace falta una renovación moral.
+
+España ofrece mucho en este camino: una lengua que une continentes, una tradición cultural, jurídica y espiritual que ha sabido poner en diálogo fe y razón, derecho y conciencia, unidad y pluralidad. El Papa desea que esta nación no pierda la memoria de sus raíces ni la audacia de mirar al futuro, y que su vida pública sepa unir la firmeza de las convicciones con la nobleza del diálogo y la grandeza del servicio. Concluye pidiendo a Dios paz para las naciones, concordia para las familias y serenidad para las conciencias, y bendice al Reino de España —marcado por la huella apostólica de Santiago y por la presencia maternal de la Virgen del Pilar— con prosperidad, justicia y paz duradera.

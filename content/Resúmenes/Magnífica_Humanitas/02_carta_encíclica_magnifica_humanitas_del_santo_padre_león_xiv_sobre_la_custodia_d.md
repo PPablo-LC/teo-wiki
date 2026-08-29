@@ -2,35 +2,24 @@
 type: ResumenFuente
 title: "CARTA ENCÍCLICA MAGNIFICA HUMANITAS DEL SANTO PADRE LEÓN XIV SOBRE LA CUSTODIA DE LA PERSONA HUMANA EN EL TIEMPO DE LA INTELIGENCIA ARTIFICIAL"
 fuente: Magnífica_Humanitas
-capítulo: 2
-timestamp: 2026-08-24
-description: "Resumen de 'CARTA ENCÍCLICA MAGNIFICA HUMANITAS DEL SANTO PADRE LEÓN XIV SOBRE LA CUSTODIA DE LA PERSONA HUMANA EN EL TIEMPO DE LA INTELIGENCIA ARTIFICIAL' — Magnífica_Humanitas"
-tags: ["resumen", "magnífica humanitas"]
+capítulo: Portada
+timestamp: 2026-08-28
+description: "Presentación de la encíclica Magnífica Humanitas de León XIV sobre la custodia de la persona humana en el tiempo de la inteligencia artificial"
+tags: ["resumen", "magnífica humanitas", "inteligencia_artificial"]
 ---
 
 # CARTA ENCÍCLICA MAGNIFICA HUMANITAS DEL SANTO PADRE LEÓN XIV SOBRE LA CUSTODIA DE LA PERSONA HUMANA EN EL TIEMPO DE LA INTELIGENCIA ARTIFICIAL
 
-## Conceptos básicos referenciados
+## Conceptos básicos referenciados en esta sección
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[inteligencia_artificial]] — tema central de la encíclica
+- [[doctrina_social_de_la_iglesia]] — marco doctrinal
+- [[dignidad_de_la_persona_humana]] — objeto de la custodia
 
+## El documento y su título
 
-## Contenido
+Esta es la primera encíclica social del pontificado de León XIV, publicada el 15 de mayo de 2026 (segundo año de su pontificado) en el 135.º aniversario de *Rerum novarum*, y firmada en Roma, junto a San Pedro.
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `magnifica-humanitas.md`
+Recibe el nombre de *Magnífica Humanitas* (la "magnífica humanidad") y su subtítulo la define como "sobre la custodia de la persona humana en el tiempo de la inteligencia artificial". A lo largo de la carta, la expresión "magnífica humanidad" designa la dignidad y grandeza del ser humano creado a imagen de Dios, revelada en plenitud en Cristo, que se debe custodiar ante los retos de la revolución tecnológica.
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-
-## Secciones incluidas
-
+La estructura de la encíclica comprende una introducción, cinco capítulos y una conclusión, que desarrollan respectivamente: la doctrina social viva (cap. I), sus fundamentos y principios (cap. II), la técnica y el dominio ante las promesas de la IA (cap. III), la custodia de lo humano en la transformación (verdad, trabajo, libertad) (cap. IV) y la cultura del poder frente a la civilización del amor (cap. V).

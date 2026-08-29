@@ -23,6 +23,14 @@ description: "Establece medidas para la Curia Romana y el Estado Vaticano."
 
 Establece medidas para la Curia Romana y el Estado Vaticano: jurisdicción penal sobre delitos contra menores y personas vulnerables, obligación de denuncia (salvo sigilo sacramental), asistencia espiritual, médica y social a las víctimas, programas de formación del personal y exigencia de idoneidad para interactuar con menores en la selección de personal.
 
+## Resúmenes
+
+Los resúmenes estructurados del documento están en `wiki/Resúmenes/Motu_proprio_protección_menores/`:
+
+| # | Archivo | Contenido |
+|---|---------|-----------|
+| 01 | [[01_lettera_apostolica]] | Carta Apostólica en forma de Motu Proprio: fundamento evangélico, objetivos, disposiciones 1-6 y promulgación |
+
 ## Ver también
 
 [[vos_estis_lux_mundi]], [[como_una_madre_amorosa]], [[ley_protección_menores]]

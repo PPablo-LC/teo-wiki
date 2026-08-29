@@ -3082,3 +3082,34 @@ vulnerables (29.03.2019) siembra 9 huérfanos nuevos.
 | `[[asistencia_a_víctimas]]` | 2 | Arts. 8-9: asistencia médica, social y psicológica a las víctimas |
 | `[[formación_prevención_abusos]]` | 1 | Art. 10 (formación): formación en identificación y prevención de abusos |
 | `[[verificación_idoneidad_personal]]` | 1 | Art. 11 (selección): verificación de idoneidad del personal que trabaja con menores |
+
+## Sembrados por los resúmenes del Viaje Apostólico de León XIV a España (2026-08-28)
+
+La generación de los 23 resúmenes del Viaje Apostólico del Papa León XIV a
+España (6-12 junio 2026) siembra los siguientes huérfanos nuevos (conceptos
+sin artículo propio). Nota: varios enlaces con display text (p. ej.
+`[[escuela_de_salamanca|Escuela de Salamanca]]`) apuntan a artículos ya
+existentes (como `wiki/conceptos/escuela_de_salamanca.md`), por lo que no se
+listan aquí.
+
+| Wikilink | Contenido actual / artículo futuro |
+|----------|-------------------------------------|
+| `[[migración_e_integración]]` | Acogida e integración de migrantes (Arguineguín, Las Raíces, La Laguna): integración como camino recíproco |
+| `[[amistad_con_cristo]]` | Realidades de caridad: ser cristiano como gracia y amistad con Jesús |
+| `[[carta_a_diogneto]]` | Vigilia con jóvenes: «el alma en el cuerpo» (Diogneto 6) |
+| `[[ignacio_de_loyola]]` | Encuentro con Autoridades: discernimiento ignaciano, preferir la paz a las armas |
+| `[[santo_tomás_de_villanueva]]` | Vigilia con jóvenes: santos referentes de la Iglesia en España y América |
+| `[[santo_toribio_de_mogrovejo]]` | Vigilia con jóvenes: santos referentes de la Iglesia en España y América |
+
+## Sembrados por el resumen del Motu Proprio sobre protección de menores (2026-08-28)
+
+El resumen consolidado del Motu Proprio *Sulla protezione dei minori e delle
+persone vulnerabili* (Francisco, 26-III-2019) siembra 2 huérfanos nuevos.
+Nota: `[[obligación_de_denuncia]]` y `[[derechos_de_la_víctima]]` ya estaban
+registrados (sección de la Ley N. CCXCVII); `[[sigilo_sacramental]]` y
+`[[justicia]]` tienen artículo propio.
+
+| Wikilink | Contenido actual / artículo futuro |
+|----------|-------------------------------------|
+| `[[protección_de_los_menores]]` | Tutela de los menores y personas vulnerables como parte del mensaje evangélico (Mt 18,5) |
+| `[[prevención_de_abusos]]` | Formación del personal y verificación de idoneidad para prevenir y contrastar abusos |

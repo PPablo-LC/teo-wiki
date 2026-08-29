@@ -3,44 +3,63 @@ type: ResumenFuente
 title: "VIAJE APOSTÓLICO DE SU SANTIDAD EL PAPA LEÓN XIV A ESPAÑA (6-12 DE JUNIO DE 2026)) ENCUENTRO CON LOS OBISPOS DE ESPAÑA SALUDO DEL SANTO PADRE Sede de la Conferencia Episcopal (Madrid) Lunes, 8 de junio de 2026"
 fuente: León_XIV-Viaje_España-2026
 capítulo: 8
-timestamp: 2026-08-24
-description: "Resumen de 'VIAJE APOSTÓLICO DE SU SANTIDAD EL PAPA LEÓN XIV A ESPAÑA (6-12 DE JUNIO DE 2026)) ENCUENTRO CON LOS OBISPOS DE ESPAÑA SALUDO DEL SANTO PADRE Sede de la Conferencia Episcopal ..."
+timestamp: 2026-08-28
+description: "León XIV a los obispos de España: el viaje hacia Dios, sinodalidad, comunión, ministerio episcopal, pastoral vocacional y nueva evangelización."
 tags: ["resumen", "león xiv-viaje españa-2026"]
 ---
 
 # VIAJE APOSTÓLICO DE SU SANTIDAD EL PAPA LEÓN XIV A ESPAÑA (6-12 DE JUNIO DE 2026)) ENCUENTRO CON LOS OBISPOS DE ESPAÑA SALUDO DEL SANTO PADRE Sede de la Conferencia Episcopal (Madrid) Lunes, 8 de junio de 2026
 
-## Conceptos básicos referenciados
+## Conceptos básicos referenciados en este capítulo
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[sinodalidad]] — camino sinodal como proceso de escucha en profundidad de la voz de Dios en la comunidad
+- [[comunión_eclesial]] — reavivar la comunión, principio visible del ministerio del obispo
+- [[ministerio_episcopal]] — custodiar la unidad, favorecer el diálogo, sanar las fracturas y acompañar al pueblo
+- [[colegialidad_episcopal|colegialidad]] — comunión con el Sucesor de Pedro y con la Iglesia universal
+- [[iglesia_en_salida]] — modelo de obispo en salida en tiempo de misión (santo Toribio de Mogrovejo)
+- [[nueva_evangelización]] — anuncio del Evangelio ante el patrimonio cristiano y la secularización
+- [[eucaristía]] — Viático del peregrino, Pan de la Palabra y de la Eucaristía
+- [[palabra_de_dios]] — alimento necesario para el camino de salvación
+- [[pastoral_vocacional]] — «¿Para quién soy?»; comunidades vivas que hacen escuchar la llamada
+- [[vocación]] — el corazón humano se colma cuando descubre una llamada y la vida se dona
+- [[seminario]] — auténticas casas de formación para seminaristas bien formados
+- [[presbítero]] — los «simples sacerdotes», compañeros más cercanos del obispo
+- [[laicos]] — corresponsabilidad y vocación laical en las obras eclesiales
+- [[unidad_de_la_iglesia]] — testimonio de unidad en la pluralidad, mosaico de la belleza del único Señor
+- [[pueblo_de_dios]] — riqueza de dones y carismas que el Espíritu suscita
+- [[protección_de_menores_en_la_iglesia]] — escucha, verdad, justicia, reparación y prevención ante las heridas infligidas por clérigos
+- [[secularización]] — desafíos de un mundo que guarda sed de sentido y de esperanza
+- [[santidad]] — la fuerza de la Iglesia nace de la santidad de sus hijos
+- [[virgen_maría]] — «Tierra de María», primera compañera de camino y principal tesoro
 
+## **Queridos hermanos en el Episcopado:**
 
-## Contenido
+El Papa se presenta con gran gozo ante los obispos españoles en el tercer día de su viaje apostólico, deseando reavivar la [[comunión_eclesial|comunión]] «tal y como Jesús aconsejaba a sus apóstoles» (cf. *Mc* 6,31). Agradece a Mons. Luis Javier Argüello García, Presidente de la Conferencia Episcopal, sus palabras, y las suyas quieren confluir en un diálogo en el Espíritu que acoge todo lo bueno que el Señor dice a través del hermano. El camino [[sinodalidad|sinodal]] es «un proceso de escucha en profundidad»: reconocer la voz de Dios que habla a través de la comunidad eclesial es uno de sus valores fundamentales.
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `08-vescovi.md`
+Ese diálogo fecundo se define en los congresos que realiza la Iglesia en España, especialmente los de 2020 y 2025: *Pueblo de Dios en salida* y *¿Para quién soy? Asamblea de llamados para la misión*. Sus temas inciden en las cuestiones esenciales: cómo afrontar los retos actuales y quiénes están llamados a acoger este desafío. El Papa propone la imagen de un viaje cuyo destino es Dios, hacia quien «alzamos nuestra mirada»; un viaje *sui generis* en el que no nos movemos materialmente pero queremos dejar volar el corazón.
 
+Una tentación en los viajes es obsesionarse con lo que dejamos —lugares, cosas, formas— sin abrirnos, en docilidad al Espíritu, a la novedad; otra es la del equipaje lleno de cosas inútiles que se vuelve un lastre. Tampoco conviene olvidar la lección de los emigrantes: una persona sola, sin raíces y sin recursos, sufre terriblemente y difícilmente establece vínculos sólidos. La respuesta debe conjugar prudentemente la libertad y la valentía: dejar estructuras que no ayudan, no responden o alejan del fin, y conservar como tesoro lo que lo facilita. El Papa evoca el inmenso patrimonio cristiano de España —con su belleza que llega hasta el no creyente y con los vínculos de pertenencia tejidos en la identidad espiritual de cada rincón— como enorme desafío al que responder con valentía para que produzca sus frutos.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+Otro tesoro de la alforja es el [[viático|Viático del peregrino]]: el Pan de la Palabra y de la [[eucaristía|Eucaristía]] nos es más necesario que el alimento material porque abre el camino de la salvación. No es un problema de hacer más o menos atractiva la celebración: si somos parte de Él, su ausencia produce un desasosiego comparable al hambre material. La [[sacramentos|vida sacramental]] va acompasando nuestra existencia como el alimento del niño o las fuerzas que el deportista mide para llegar a la meta.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | VIAJE APOSTÓLICO DE SU SANTIDAD EL PAPA LEÓN XIV A ESPAÑA (6-12 DE JUN |
-| 3 | H4 | **Queridos hermanos en el Episcopado:** |
+Al viajar, cuesta comunicarse con el otro —por lengua y cultura distintas, por desconfianza o rencillas—, experiencia que se puede llevar al anuncio del Evangelio, a la acogida del otro, a la capacidad de responder a los cuestionamientos del mundo y a la necesidad de activar la corresponsabilidad pastoral. El patrimonio debe ser siempre «instrumento y oportunidad de diálogo» con quienes encontramos en el camino.
 
+Como en el Camino de Santiago, el viaje cruza planicies castellanas «vacías a nuestros ojos»: los pocos encuentros con personas mayores o trabajadores extranjeros son metáfora de muchas situaciones sociales percibidas en las realidades eclesiales. No es la primera vez que España enfrenta una situación análoga: cuando la Iglesia reconstruyó su presencia en las franjas de tierra quemada surgieron modelos de evangelización que después se exportaron a América. Estamos llamados a construir una nueva realidad mediante el diálogo respetuoso y nuevos lenguajes, como hizo fray Hernando de Talavera, «santo alfaquí de Granada», y después santo Toribio de Mogrovejo en América, del que se celebra el tercer centenario de su canonización, presentado como modelo de obispo en salida en un tiempo de misión y reorganización eclesial. Cambian los lenguajes y las culturas, pero el espíritu debe permanecer.
 
-## Secciones incluidas
+Los puntos esenciales de ese espíritu son dos: primero, la capacidad de comunicar, de hablar con cada realidad presente en el territorio, de abajarse no sólo para comprender sino para compartir —aprendiendo el lenguaje del otro, iniciando procesos y tejiendo vínculos donde sembrar la semilla del [[reino_de_dios|Reino]]—; segundo, crear realidades capaces de comunicar la propia experiencia de fe, como Toribio llevó la experiencia de Granada a América. En las grandes ciudades el silencio y la lejanía son íntimos, no espaciales, pero los procesos para llegar hasta ellas son análogos: escucha, comprensión, respeto, generosidad y franqueza.
 
-### **Queridos hermanos en el Episcopado:**
+Los peregrinos salen de noche, y esa oscuridad inicial puede asustarlos; el himno de vísperas *La noche es tiempo de salvación* recuerda que, en buena compañía, las dificultades y el peligro de extraviarse se reducen. Es el Señor quien conduce: Él es dueño de la historia y determina los tiempos; caminamos tras Él y con Él como miembros de un solo cuerpo. Ese vínculo profundo exige a la Iglesia, en tiempo de polarizaciones, un testimonio de [[unidad_de_la_iglesia|unidad en la pluralidad]]: una comunión capaz de acoger dones, carismas y sensibilidades que el Espíritu suscita en el [[pueblo_de_dios|Pueblo de Dios]]. La imagen de Cristo se deja reconocer en el mosaico vivo de la Iglesia, donde muchas teselas sin confundirse convergen en la belleza del único Señor.
 
-[Contenido de esta sección...]
+El ministerio del [[obispo|obispo]] asume una responsabilidad peculiar: ser principio visible de comunión —primero con Cristo, custodiando la fe recibida en docilidad a la Palabra y a la Tradición viva; después con el Sucesor de Pedro y la Iglesia universal, con el presbiterio, la comunidad diocesana, la [[vida_consagrada|vida consagrada]], los movimientos, las asociaciones y cada carisma auténtico—. La misión del obispo reclama custodiar la unidad, favorecer el diálogo, sanar las fracturas y acompañar el camino del pueblo. La comunión vivida así tiene fuerza misionera: una Iglesia reconciliada por dentro habla con mayor libertad a hermanos de otras confesiones, a otras religiones, a los que no creen y a las autoridades civiles.
+
+Esta llamada toca la dificultad de asumir compromisos definitivos: en tantos jóvenes la pregunta «¿Para quién soy?» resuena como búsqueda sincera de sentido, pertenencia y don. El corazón humano se colma cuando descubre una llamada, cuando comprende que la vida llega a plenitud sólo si es donada. La [[pastoral_vocacional]] no puede reducirse a una búsqueda de números: nace de comunidades vivas, de sacerdotes felices, de familias capaces de testimoniar la fidelidad, de una Iglesia que muestra que seguir a Cristo expande la existencia.
+
+En la mochila del peregrino debe cargarse sólo lo esencial: como propuso el Papa Francisco, la conservación de estructuras no puede prevalecer sobre el bien de la [[vocación]]. Los seminaristas tienen derecho a la mejor formación posible y la Iglesia tiene derecho a sacerdotes bien formados. Los [[seminario|seminarios]] son auténticas casas de formación cuando aseguran experiencia de vida comunitaria, formadores totalmente dedicados al estudio y la enseñanza con experiencia en el acompañamiento espiritual, y Centros Superiores de Teología dotados de los medios necesarios; para ello es imprescindible aprender a trabajar juntos. Las dificultades pueden vivirse como oportunidades: la integración de los [[laicos|colaboradores laicos]] en obras tradicionalmente gestionadas por religiosos puede convertirse en ocasión de encuentro, de modo que perciban su participación como llamada a asumir su responsabilidad cristiana.
+
+El viaje está hecho de encuentros, y en ellos no faltarán quienes viven momentos de oscuridad y nos reclaman hacernos samaritanos. Uno de los más dolorosos es con quienes han sido heridos por quienes debían cuidarlos, incluso por miembros del clero: la comunidad eclesial está llamada a responder con escucha, verdad, justicia, reparación y un compromiso decidido en la prevención y la cultura del cuidado (cf. [[protección_de_menores_en_la_iglesia]]). Esta misma lógica vale para la [[secularización|secularización]]: muchos hombres y mujeres no rechazan a Dios sino que llevan en el corazón una sed profunda de sentido, verdad, pertenencia y esperanza. La Iglesia está llamada a reconocer esos anhelos y ofrecer, como Pedro y Juan al paralítico junto a la puerta del templo (cf. *Hch* 3,1-10), el tesoro confiado: Jesucristo, en cuyo nombre el hombre puede levantarse y caminar. Aun colaborando con otras instituciones religiosas o civiles, la Iglesia no deja nunca de ofrecer lo que le es propio: el amor de Dios revelado en Cristo; cada gesto de caridad nacido del Evangelio restituye a la persona el convencimiento de ser amada.
+
+España es aquella «Tierra de María» (cf. San Juan Pablo II, *Homilía en Zaragoza*, 6 noviembre 1982): en la Santísima Virgen los obispos tienen a su primera compañera de camino y su principal tesoro, pues ella muestra cómo acoger la Palabra y custodiarla en el corazón, y permanece en el camino de la Iglesia como madre de comunión y de esperanza. El Papa encomienda a ella su ministerio, para que sean la levadura escondida del Evangelio (cf. *Mt* 13,33): pequeña a los ojos del mundo pero capaz de hacer fermentar la masa. «La fuerza de la Iglesia no nace de la grandeza de los medios, sino de la santidad de sus hijos, de la comunión de sus pastores, de la fidelidad humilde y perseverante de quien se deja guiar por el Espíritu» (cf. [[santidad]]).
+
+Os acompaña también san Juan de Ávila, patrono del clero español, en el quinto centenario de su ordenación presbiteral. San Pablo VI lo definió «un maestro de vida espiritual benévolo y sabio, un renovador ejemplar de la vida eclesiástica y de las costumbres cristianas» y, al mismo tiempo, «un simple sacerdote». Mirándole a él, el Papa piensa en los más cercanos compañeros de los obispos, esos «simples sacerdotes» en el sentido más alto y exigente del término: [[presbítero|presbíteros]] enamorados de Cristo, radicados en la oración, fieles a la Iglesia, cercanos al pueblo, capaces de unir doctrina sólida, celo apostólico y caridad pastoral; que encuentren en el obispo no sólo una autoridad sino un padre que les acompaña, y en los otros sacerdotes hermanos con quienes compartir fatigas y alegrías.
+
+El Papa concluye con la oración del santo doctor: «Si me mandáis, Señor, hacer lo que vos hicisteis, dadme vuestro corazón» (*Sermón* 57,20). Pide un corazón capaz de alzar la mirada, ponerse en camino, escuchar, discernir, servir, corregir con caridad, atender con paciencia y anunciar con alegría; porque la Iglesia que recibe el corazón de Cristo lleva consigo la columna de fuego que la guía, la sostiene, la defiende y la conforta. Termina con la bendición: «Que Dios os bendiga. Muchas gracias».

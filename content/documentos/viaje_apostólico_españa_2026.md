@@ -54,6 +54,36 @@ El viaje constituye la primera visita apostólica de León XIV a España y desar
 
 9. **María**: Devoción a Nuestra Señora de la Almudena, Virgen de Montserrat, Virgen del Pilar, Madre de la Iglesia, modelo de acogida y caridad.
 
+## Resúmenes
+
+Los resúmenes estructurados del viaje están en `wiki/Resúmenes/León_XIV-Viaje_España-2026/`, con un archivo por intervención:
+
+| # | Intervención (día, lugar) | Archivo |
+|---|---------------------------|---------|
+| 01 | Palabras a los periodistas (vuelo Roma-Madrid, sáb 6) | [[01_viaje_apostólico_de_su_santidad_el_papa_león_xiv_a_espaa_612_de_junio_de_2026_pa]] |
+| 02 | Encuentro con Autoridades y sociedad civil (Palacio Real) | [[02_viaje_apostólico_de_su_santidad_el_papa_león_xiv_a_espaa_612_de_junio_de_2026_en]] |
+| 03 | Visita al CEDIA 24 Horas (proyecto social) | [[03_viaje_apostólico_de_su_santidad_el_papa_león_xiv_a_espaa_612_de_junio_de_2026_vi]] |
+| 04 | Vigilia de Oración con Jóvenes (Plaza de Lima) | [[04_viaje_apostólico_de_su_santidad_el_papa_león_xiv_a_espaa_612_de_junio_de_2026_vi]] |
+| 05 | Misa y procesión del Corpus Christi (Cibeles) | [[05_viaje_apostólico_de_su_santidad_el_papa_león_xiv_a_espaa_612_de_junio_de_2026_sa]] |
+| 06 | Encuentro con Cultura y Deporte «Tejer redes» (Movistar Arena) | [[06_viaje_apostólico_de_su_santidad_el_papa_león_xiv_a_espaa_612_de_junio_de_2026_en]] |
+| 07 | Encuentro con el Parlamento (Congreso de los Diputados) | [[07_viaje_apostólico_de_su_santidad_el_papa_león_xiv_a_espaa_612_de_junio_de_2026_en]] |
+| 08 | Encuentro con los Obispos de España (Conferencia Episcopal) | [[08_viaje_apostólico_de_su_santidad_el_papa_león_xiv_a_espaa_612_de_junio_de_2026_en]] |
+| 09 | Oración a la Virgen de la Almudena (Catedral) | [[09_viaje_apostólico_de_su_santidad_el_papa_león_xiv_a_espaa_612_de_junio_de_2026_or]] |
+| 10 | Comunidad diocesana (Estadio Bernabéu) | [[10_viaje_apostólico_de_su_santidad_el_papa_león_xiv_a_espaa_612_de_junio_de_2026_en]] |
+| 11 | Encuentro con Voluntarios (IFEMA) | [[11_viaje_apostólico_de_su_santidad_el_papa_león_xiv_a_espaa_612_de_junio_de_2026_en]] |
+| 12 | Oración Hora Media (Catedral de Barcelona) | [[12_viaje_apostólico_de_su_santidad_el_papa_león_xiv_a_espaa_612_de_junio_de_2026_or]] |
+| 13 | Vigilia de Oración (Estadio Olímpico, Barcelona) | [[13_viaje_apostólico_de_su_santidad_el_papa_león_xiv_a_espaa_612_de_junio_de_2026_vi]] |
+| 14 | Centro Penitenciario Brians 1 | [[14_viaje_apostólico_de_su_santidad_el_papa_león_xiv_a_espaa_612_de_junio_de_2026_vi]] |
+| 15 | Oración del Rosario (Montserrat) | [[15_viaje_apostólico_de_su_santidad_el_papa_león_xiv_a_espaa_612_de_junio_de_2026_or]] |
+| 16 | Realidades de caridad y asistencia (Sant Agustí) | [[16_viaje_apostólico_de_su_santidad_el_papa_león_xiv_a_espaa_612_de_junio_de_2026_en]] |
+| 17 | Misa en la Sagrada Familia | [[17_viaje_apostólico_de_su_santidad_el_papa_león_xiv_a_espaa_612_de_junio_de_2026_sa]] |
+| 18 | Acogida de migrantes (Arguineguín) | [[18_viaje_apostólico_de_su_santidad_el_papa_león_xiv_a_espaa_612_de_junio_de_2026_en]] |
+| 19 | Con Obispos, sacerdotes y agentes pastorales (Catedral de Santa Ana) | [[19_viaje_apostólico_de_su_santidad_el_papa_león_xiv_a_espaa_612_de_junio_de_2026_en]] |
+| 20 | Misa del Sagrado Corazón (Estadio de Gran Canaria) | [[20_viaje_apostólico_de_su_santidad_el_papa_león_xiv_a_espaa_612_de_junio_de_2026_sa]] |
+| 21 | Migrantes del Centro «Las Raíces» (Tenerife) | [[21_viaje_apostólico_de_su_santidad_el_papa_león_xiv_a_espaa_612_de_junio_de_2026_en]] |
+| 22 | Integración de migrantes (Plaza del Cristo de La Laguna) | [[22_viaje_apostólico_de_su_santidad_el_papa_león_xiv_a_espaa_612_de_junio_de_2026_en]] |
+| 23 | Misa (Puerto de Santa Cruz de Tenerife) | [[23_viaje_apostólico_de_su_santidad_el_papa_león_xiv_a_espaa_612_de_junio_de_2026_sa]] |
+
 ## Ver también
 
 [[león_xiv]], [[magnífica_humanitas]], [[discurso_al_clero_de_roma]], [[carta_al_presbiterio_de_madrid]], [[mensaje_santificación_sacerdotal]]
