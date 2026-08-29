@@ -12,25 +12,13 @@ tags: ["resumen", "normae de delictis gravioribus"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[congregación_para_la_doctrina_de_la_fe]] — emisor de la Carta
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `Normae_de_delictis_gravioribus.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+Continuación del título de la Carta introductoria, que anuncia el objeto de la comunicación: dar cuenta **acerca de las modificaciones introducidas** en el texto de las *Normae de gravioribus delictis*. El cuerpo de la Carta explica que, a nueve años de la promulgación de la *Sacramentorum sanctitatis tutela*, se ha considerado necesario reformar el texto normativo enmendándolo **no íntegramente, sino solo en algunas de sus partes**, para mejorar su operatividad concreta.
 
 ## Secciones incluidas
 
+- Objeto de la Carta: las modificaciones introducidas
+- Contexto: reforma parcial tras nueve años de vigencia

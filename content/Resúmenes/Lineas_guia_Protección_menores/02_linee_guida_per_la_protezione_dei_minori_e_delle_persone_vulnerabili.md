@@ -12,25 +12,14 @@ tags: ["resumen", "lineas guia protección menores"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[persona_vulnerable]] — las personas vulnerables son equiparadas a los menores a efectos de estas directrices
+- [[protección_de_menores_en_la_iglesia]] — objeto de las presentes líneas guía
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `Lineas_guia_Protección_menores.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+Título principal del documento: *Líneas guía para la protección de los menores y de las personas vulnerables* del Vicariato de la Ciudad del Vaticano, fechado el **26 de marzo de 2019**. Establece el objeto de la normativa: la salvaguarda de los menores y de las personas vulnerables dentro de las actividades pastorales desarrolladas en el ámbito del Vicariato.
 
 ## Secciones incluidas
 
+- Título del documento
+- Fecha de emisión (26 marzo 2019)

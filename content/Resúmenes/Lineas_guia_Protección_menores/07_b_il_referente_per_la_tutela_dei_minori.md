@@ -12,25 +12,24 @@ tags: ["resumen", "lineas guia protección menores"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[referente_para_la_tutela_de_menores]] — figura que coordina y verifica la aplicación de las líneas guía
+- [[coordinación_prevención_abusos]] — actividad del Referente en prevención y formación
+- [[acompañamiento_de_víctimas]] — acogida y acompañamiento de quienes afirman haber sido víctimas
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `Lineas_guia_Protección_menores.md`
+El **Vicario General nombra un Referente para la tutela de los menores**, que coordina y verifica la aplicación de las líneas guía, con el fin de que en el Vicariato se mantenga una comunidad respetuosa y consciente de los derechos y necesidades de los menores, atenta a **prevenir toda forma de violencia o de abuso**.
 
+El Referente tiene dos funciones principales:
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+1. **Coordinar las actividades de prevención y de formación** de los operadores pastorales.
+2. Tener especial cuidado en **acoger y acompañar** a quienes afirman haber sido víctimas de explotación, abuso sexual o maltrato, así como a sus **familiares**.
+
+Se avala del **apoyo profesional** del Servicio de acompañamiento, gestionado por la Dirección de Sanidad e Higiene del Governatorato, y del **Ufficio del Lavoro** de la Sede Apostólica.
 
 ## Secciones incluidas
 
+- Nombramiento del Referente por el Vicario General
+- Coordinación de prevención y formación
+- Acogida y acompañamiento de víctimas y familiares
+- Apoyo profesional (Servicio de acompañamiento y Ufficio del Lavoro)

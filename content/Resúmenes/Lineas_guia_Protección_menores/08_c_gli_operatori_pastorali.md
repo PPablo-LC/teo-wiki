@@ -12,25 +12,21 @@ tags: ["resumen", "lineas guia protección menores"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[verificación_idoneidad_personal]] — verificación de la idoneidad de los candidatos a interactuar con menores
+- [[formación_prevención_abusos]] — formación obligatoria sobre riesgos y medios de prevención
+- [[información_a_colaboradores]] — información a los colaboradores ocasionales
+- [[operadores_pastorales]] — sujetos a los que se dirigen estas normas
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `Lineas_guia_Protección_menores.md`
+**1.** En la elección de los operadores pastorales se debe acertar, en particular, la **idoneidad de los candidatos a interactuar con menores**, mediante una indagación adecuada y verificando también la **ausencia de cargas judiciales prejuiciosas**.
 
+**2.** Los operadores pastorales deben recibir una **formación adecuada** sobre los riesgos en materia de explotación, abuso sexual y maltrato de menores, así como sobre los medios para **identificar y prevenir** estas ofensas. Están obligados a participar en los programas de formación organizados por el **Ufficio del Lavoro** de la Sede Apostólica, de concierto con el Servicio de acompañamiento.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+**3.** Los **colaboradores ocasionales** son informados sobre los comportamientos a tener en la interacción con los menores, así como sobre los comportamientos prohibidos.
 
 ## Secciones incluidas
 
+- Verificación de idoneidad y antecedentes judiciales
+- Formación obligatoria sobre prevención
+- Información a colaboradores ocasionales

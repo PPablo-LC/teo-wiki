@@ -12,25 +12,20 @@ tags: ["resumen", "lineas guia protección menores"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[protección_de_menores_en_la_iglesia]] — parte integrante de la misión de la Iglesia
+- [[dignidad_humana]] — toda persona posee un valor único en cuanto creada a imagen y semejanza de Dios
+- [[referente_para_la_tutela_de_menores]] — referencia al Chirografo que instituye la Pontificia Comisión para la Tutela de los Menores
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `Lineas_guia_Protección_menores.md`
+La **salvaguardia de los menores y de las personas vulnerables es parte integrante de la misión de la Iglesia**. El Vicariato de la Ciudad del Vaticano, al que está confiada la cura pastoral de los fieles residentes en el Estado y en las Villas Pontificias de Castel Gandolfo, participa plenamente de esta misión.
 
+El fundamento radica en la convicción de que **toda persona tiene un valor único en cuanto creada a imagen y semejanza de Dios**. Se cita textualmente el Chirografo *per l'istituzione della Pontificia Commissione per la Tutela dei Minori* (22 de marzo de 2014):
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+> «La efectiva tutela de los menores y el compromiso de garantizarles un desarrollo humano y espiritual conforme a la dignidad de la persona humana forman parte integrante del mensaje evangélico que la Iglesia y todos sus miembros están llamados a difundir en el mundo».
 
 ## Secciones incluidas
 
+- La salvaguardia como misión eclesial
+- Fundamento en la dignidad de la persona (imagen de Dios)
+- Cita del Chirografo de 2014 (Pontificia Comisión para la Tutela de los Menores)

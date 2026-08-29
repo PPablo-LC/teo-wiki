@@ -10,33 +10,16 @@ tags: ["resumen", "para salvarte-p jorge loring sj"]
 
 # PRÓLOGO
 
-## Conceptos básicos referenciados
+## Conceptos básicos referenciados en este capítulo
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[catecismo_de_la_iglesia_católica]] — nuevo catecismo aprobado por Juan Pablo II, texto de referencia seguro y auténtico
+- [[iglesia]] — fuente de la doctrina que el libro transmite
+- [[espíritu_santo]] — guía de la vida en Jesucristo
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `02_prólogo.md`
+El autor da gracias a Dios por la gran difusión del libro entre jóvenes, casados, obreros y estudiantes, aunque la primera edición se hizo para los soldados de Aviación que oyeron sus conferencias semanales, y pide que el Señor siga bendiciendo el libro con el bien espiritual que hace en las almas.
 
+Recuerda que el 25 de junio de 1992 el Papa Juan Pablo II aprobó el Nuevo Catecismo de la Iglesia Católica, fruto del trabajo de miles de especialistas de todo el mundo que a lo largo de seis años presentaron 24.000 sugerencias. El Papa dijo el 11 de octubre de 1992 que «este Nuevo Catecismo es un texto de referencia seguro y auténtico para la enseñanza de la doctrina católica», y concluía la Constitución Fidei Depositum con el deseo de «que la luz de la verdadera fe libre a la humanidad de la ignorancia y de la esclavitud del pecado para conducirla a la única libertad digna de este nombre: la de la vida en Jesucristo, bajo la guía del Espíritu Santo».
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | PRÓLOGO |
-
-
-## Secciones incluidas
-
+En esta 56.ª edición de «Para Salvarte» se han incluido más de trescientas citas de este Nuevo Catecismo de la Iglesia Católica.

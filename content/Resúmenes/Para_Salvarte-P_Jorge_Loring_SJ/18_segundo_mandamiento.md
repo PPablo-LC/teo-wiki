@@ -10,33 +10,32 @@ tags: ["resumen", "para salvarte-p jorge loring sj"]
 
 # SEGUNDO MANDAMIENTO
 
-## Conceptos básicos referenciados
+## Conceptos básicos referenciados en este capítulo
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[segundo_mandamiento]] — no tomar el nombre de Dios en vano
+- [[juramento]] — no jurar en falso ni sin necesidad
+- [[blasfemia]] — blasfemar contra Dios, la Virgen o las cosas santas
+- [[respeto_humano]] — temor a manifestar la fe
+- [[voto]] y [[promesa]] — obligaciones hechas a Dios
+- [[dignidad_del_templo]] — respeto debido en el templo
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `18_segundo_mandamiento.md`
+Examen de conciencia sobre el segundo mandamiento (no tomar el nombre de Dios en vano):
 
+1. ¿Has jurado en falso?
+2. ¿Has jurado con duda de la verdad de lo que jurabas? (Sobre el grado de certeza necesario en el juramento se remite al número 64).
+3. ¿Has jurado con verdad, pero sin necesidad y por costumbre?
+4. ¿Has jurado hacer algo malo, como vengarse?
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | SEGUNDO MANDAMIENTO |
-
-
-## Secciones incluidas
-
+5. ¿Has blasfemado a conciencia contra Dios, la Virgen o cosas santas?
+6. ¿Delante de otros?
+7. ¿Has dicho palabras irreverentes de Dios, la Hostia, la Virgen o los Santos?
+8. ¿Has dicho chistes irreligiosos o ridiculizando cosas de la Religión?
+9. ¿Has tenido respeto humano en mostrar tu catolicismo?
+10. ¿Has hablado mal de la Iglesia o de cosas santas?
+11. ¿Has criticado, sin fundamento y sin razón, a los sacerdotes?
+12. ¿Has hablado o propagado algo contra la Religión?
+13. ¿Te has burlado de las personas buenas por el hecho de ser buenas?
+14. ¿Has faltado al respeto debido en el templo?
+15. ¿Has cumplido, pudiendo, los votos y las promesas hechas a Dios? (Si tienes pendiente algo de esto que te cuesta cumplir, díselo al confesor, por si conviene cambiarte la obligación).

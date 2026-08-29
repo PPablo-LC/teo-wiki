@@ -10,42 +10,51 @@ tags: ["resumen", "para salvarte-p jorge loring sj"]
 
 # 3. Adáptate a su vida y no intentes que la cambie por ti.
 
-## Conceptos básicos referenciados
+## Conceptos básicos referenciados en este capítulo
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[matrimonio]] — sacramento que constituye la entrega comprometida y definitiva de un hombre y una mujer ante Dios y la comunidad
+- [[amor_conyugal]] — amor que une a los esposos, asociando lo humano y lo divino, y que lleva a la entrega libre y mutua
+- [[fecundidad_conyugal]] — ordenación natural del matrimonio a la procreación y educación de los hijos
+- [[paternidad_responsable]] — juicio recto de los esposos sobre transmitir la vida, dócil a la ley divina y al Magisterio
+- [[unción_de_los_enfermos]] — sacramento para los enfermos graves, que confiere la salud del alma y la del cuerpo si les conviene
+- [[regulación_natural_de_la_natalidad]] — métodos que se limitan a elegir los días infecundos, sin acto positivo contra la concepción
 
+## El modo de ser del esposo y de la esposa
 
-## Contenido
+Para procurar la felicidad del esposo hay que caer en la cuenta de que su psicología es muy distinta de la de la esposa; la clave de la psicología masculina está en el predominio de las facultades de acción (razón y voluntad) y en el desarrollo menor de la sensibilidad. El hombre tiene necesidad de trabajar, organizar y construir, y su felicidad está en entregarse a los negocios, la actividad y una obra, sin que esto excluya su dedicación a la familia; por eso la esposa no debe asombrarse de que su marido no piense tanto en ella como ella piensa en él, ni debe acosarle exigiéndole que le dedique más tiempo. La mujer solo desenvuelve su verdadera naturaleza entregándose a un gran amor y sacrificándose por los seres que ama.
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `14_adaptate_a_su_vida.md`
+## No exijas a tu marido una delicadeza y una ternura que «a él no le va».
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 3. Adáptate a su vida y no intentes que la cambie por ti. |
-| 28 | H3 | No exijas a tu marido una delicadeza y una ternura que «a él no le |
-| 104 | H3 | Que el marido esté en casa cómodo y a gusto. Los griegos decían: «Much |
-
-
-## Secciones incluidas
-
-## No exijas a tu marido una delicadeza y una ternura que «a él no le
-
-[Contenido de esta sección...]
+Los hombres son más fáciles a expresar su desagrado que su satisfacción: están acostumbrados a que en su trabajo no se les felicite por lo bien hecho (eso es lo normal) y en cambio se les reprende si algo no está bien, y fácilmente emplean la misma táctica en casa. La esposa debe hacer bien las cosas pero no esperar una alabanza por ello; si su marido no le agradece el esmero, no lo lleve a mal, pues es el modo de ser del hombre. La esposa debe ayudar al marido a que la vaya conociendo cada vez mejor, descubriéndole el alma femenina: sus anhelos íntimos, sus quejas, sus ilusiones, lo que le duele, lo que espera o desencanta de él. El marido quiere que necesite de su amor y disfruta si ella disfruta con él; cuando haya que negarse, debe hacerse con delicadeza, dejando claro que no se rechaza a él sino que se desea complacerle en otro momento.
 
 ## Que el marido esté en casa cómodo y a gusto. Los griegos decían: «Mucho hogar, esposo firme».
 
-[Contenido de esta sección...]
+La esposa debe ser una celosa y prudente administradora, sin permitir lujos que su posición no admita; no debe protestar porque los ingresos del marido le impiden competir socialmente, ni dar demasiada importancia a su propia familia o demasiada poca a la del esposo. El primero y más grande amor de su vida es su marido, y no debe amargarle manteniendo relaciones tirantes con su familia: a sus padres debe mirarlos como si fueran los suyos, no tener celos de las atenciones del marido con su madre. Debe embellecer su hogar y ser ella misma el motivo central de la decoración, resultando atractiva solo para su marido (ante los demás basta estar presentable y dominar la vanidad). El cariño matrimonial debe expresarse en hechos y palabras: a la mujer, más sentimental y afectuosa, le gusta oír que se la quiere, sobre todo sin haberlo preguntado.
+
+## La mutua entrega y el amor conyugal
+
+El amor exige respeto, ternura, delicadeza, generosidad y fidelidad; muchos matrimonios fracasan no por falta de conocimientos sexuales sino porque no han llegado a valorarse y respetarse como personas. El amor es un ejercicio de jardinería: hay que arrancar lo que hace daño, preparar el terreno, sembrar, esperar, regar y cuidar, es decir, aceptar, valorar, respetar, admirar y comprender a la pareja y darle afecto; el amor se alimenta con pequeños detalles. El acto matrimonial no debe ser una relación mecánica cuerpo a cuerpo sino una relación amorosa persona a persona, saturada de amor. Para que haya familia tiene que haber matrimonio, que queda constituido con la entrega comprometida y definitiva ante Dios y la comunidad. El marido debe dedicar tiempo a su mujer y a sus hijos, hacer sentir a su mujer que necesita de ella, reconocer y agradecer sus atenciones, y dejarla gobernar con cierta libertad los gastos de la casa (se sugiere hacer tres partes: gastos necesarios administrados por la mujer, gastos del marido y una cuota libre para ella). Debe llevarla consigo cuando sea posible, escucharla de buena gana, interesarse por su salud, adivinar y satisfacer sus deseos, y no escatimarle alabanzas, sin prodigar elogios a otras mujeres, comentar viejos amores ni humillarla jamás. La intimidad no debe ser origen de descuidos; si va a llegar tarde, debe avisar, y debe cuidar los defectos que en público pueden poner en ridículo, así como los detalles que se relacionan con ella (andar a un paso que ella no puede seguir, leer el periódico cuando ella le habla, responder con desagrado).
+
+## El decálogo de la esposa
+
+1) El hogar será lo que tú hagas de él, la gran obra de tu vida. 2) Te corresponde la administración inmediata de los bienes: sé previsora, prudente y con sentido común. 3) Que tu buen gusto y tus desvelos, más que tu dinero, hagan del hogar un refugio acogedor. 4) Procura seguir siendo siempre la novia de tu marido, tanto en tus palabras como en tu presentación. 5) Jamás olvides que antes que tus hijos —y por supuesto tus padres— está tu esposo. 6) Que tus palabras, tu alegría y tu sosiego sean alivio y descanso para cuantos están en tu hogar. 7) Tu primer deber hacia tus hijos se llama ternura, y sobre esa base podrás ir educándolos con tu marido. 8) No grites ni pierdas los estribos; te harás obedecer mejor con calma. 9) Pon especial cuidado en el orden del hogar, en las comidas y en una prudente economía. 10) Si tienes la dicha de tener fe, busca tu apoyo en Dios, pues en Él encontrarás la fuerza y la gracia para tu misión.
+
+## El decálogo del esposo
+
+1) Soluciona tu vida, al menos en lo fundamental, antes de constituir una familia. 2) Tu trabajo es importante, pero que no te absorba de modo que te robe el tiempo que debes a los tuyos. 3) El buen humor y la serenidad son el regalo más valioso que puedes ofrecer. 4) Tu esposa debe ser tu mejor amiga y compañera, con las mismas atenciones que le tenías cuando era tu novia. 5) Respeta su campo de trabajo, sin ser quisquilloso ni entrometido. 6) Si tu esposa está en condiciones de ejercer una profesión salvando el cuidado del hogar, permíteselo. 7) Educar es un arte, difícil y delicado, integrado por ciencia, buen sentido y mucho amor. 8) El ejemplo es la clave de la educación: gánate con tu proceder el respeto y la obediencia.
+
+## El decálogo del matrimonio y del hogar
+
+1) Antes que la profesión, e incluso antes que los hijos —precisamente por el bien de ellos— está vuestro amor de esposos, para el cual tenéis que saber encontrar «vuestro tiempo». 2) Paternidad responsable, sí; pero si el Señor os da una familia numerosa, aceptadla como el mayor de los bienes. 3) Que vuestro hogar esté siempre abierto para familiares y amigos. 4) Que haya siempre un sitio de honor para quienes os dieron la vida. 5) Respetaos mutuamente vuestro campo de acción. 6) Sed con vuestros hijos enérgicos en lo esencial y flexibles en lo accidental. 7) No dramaticéis las cosas sencillas ni simplificáis las trágicas. 8) La belleza, el buen gusto y el orden deben caracterizar vuestro hogar. 9) Que una religiosidad sencilla y auténtica envuelva vuestro hogar. 10) Aceptad vuestra situación: si no podéis construir el castillo soñado, construid una cabaña, pero no seréis felices en ella mientras sigáis soñando con el castillo.
+
+## El amor conyugal y la procreación
+
+El Señor ha sanado, perfeccionado y elevado el amor de los esposos por el don especial de la gracia y de la caridad; un tal amor, uniendo lo humano y lo divino, lleva a una entrega libre y mutua de sí mismos e impregna toda su vida, superando con mucho la inclinación puramente erótica. La Iglesia alaba a las familias numerosas, pero también recomienda una paternidad responsable: el matrimonio y el amor conyugal están ordenados por su propia naturaleza a la procreación y educación de los hijos, que son don excelentísimo del matrimonio. Al transmitir la vida, los cónyuges son cooperadores del amor de Dios Creador y sus intérpretes; con responsabilidad humana y cristiana formarán un juicio recto ante Dios, teniendo en cuenta el bien propio, el de los hijos, el de la familia, la sociedad y la Iglesia, dóciles al Magisterio que interpreta auténticamente la ley divina. El cuerpo del hombre y de la mujer no son solo para la procreación, sino que deben expresar el amor mutuo en una donación recíproca que refleje la unión de los espíritus y la comunión íntima de las personas, imágenes de Dios. El amor matrimonial se ve frecuentemente profanado por el egoísmo, el hedonismo y las prácticas ilícitas contra la generación. El niño debe ser amado y deseado desde el primer momento de su concepción, pues las hormonas que la mujer embarazada transmite al feto dependen de su estado de ánimo y por ellas el niño se entera si es amado y deseado o rechazado.
+
+## La planificación familiar
+
+Los hijos son un don de Dios y la transmisión de la vida lo más grande que podemos hacer a nivel humano; deben ser fruto del amor y de la paternidad responsable. Pablo VI, en la Humanae vitae, enseña que en la misión de transmitir la vida los esposos no quedan libres para proceder arbitrariamente, sino que cualquier acto matrimonial debe quedar abierto a la transmisión de la vida; los que por alguna razón no lleguen a ese ideal no se desanimen y recurran con humilde perseverancia a la misericordia de Dios. A veces puede haber razones para limitar o espaciar el número de hijos (no es prudente que la mujer quede embarazada a partir de los cuarenta años). Los métodos naturales de regulación de nacimientos son morales: se limitan a elegir los días infecundos sin ningún acto positivo que destruya las posibilidades naturales de una concepción; los métodos artificiales, en cambio, usan medios físicos (preservativo, DIU abortivo), químicos (espermicidas) u hormonales (píldoras) para frustrar la concepción, y al truncar artificialmente la procreación impiden la creación de un alma por parte de Dios. La «espontaneidad» a nivel sexual no significa seguir el impulso del instinto en cada momento, sino saber integrar, valorar y escoger lo bueno para sí y para el otro, lo cual puede incluir la abstinencia periódica por un bien mayor. Desde el Concilio Vaticano II el lenguaje de la Iglesia ya no distingue entre fin primario y secundario del matrimonio, sino que habla de dos dimensiones fundamentales: el bien de los esposos y la transmisión de la vida, unidas bajo la doble exigencia de la fidelidad y la fecundidad. El capítulo expone los métodos naturales de regulación (el rítmico de Ogino-Knaus de 1923, la gráfica de la temperatura basal, el aparato «OVULATOR», y sobre todo el método Billings, muy eficaz y natural), las objeciones de salud contra la píldora, y las direcciones de los centros de enseñanza y control del método natural (WOOMB, Pro-Vida, ADEHFA, CIFER).
+
+## La unción de los enfermos
+
+La unción de los enfermos, también llamada extremaunción por ser el último sacramento antes de salir de este mundo, es un sacramento en el que, por la unción con óleo bendecido y la oración del sacerdote, se confiere a los fieles que han alcanzado el uso de la razón, están gravemente enfermos y arrepentidos de sus pecados (al menos con atrición) la salud del alma y la del cuerpo si les conviene. Cuando uno está en peligro de muerte hay que avisar al sacerdote para que le confiese, le dé el Santo Viático y la unción; no se debe esperar a que el enfermo esté demasiado grave con peligro de perder la lucidez, pues «nadie se muere por llamar a tiempo al sacerdote; en cambio, son muchos los que mueren en pecado por haber llamado al sacerdote demasiado tarde» (el autor narra un caso en que el enfermo y la familia deseaban llamarlo y por un miedo absurdo estuvieron a punto de no hacerlo). Este sacramento debe recibirse en estado de gracia, por lo que el enfermo en uso de sus sentidos debe confesarse antes, o hacer un acto de contrición si hay peligro de perder el sentido; el peligro de muerte debe estar dentro del cuerpo de la persona, por lo que no puede administrarse a un criminal antes de ser ejecutado ni a los soldados antes de la batalla. En caso de necesidad puede administrarse a los recién fallecidos, pues la muerte aparente no coincide siempre con la real. Basta la atrición, aunque el enfermo no haya podido confesar, para que con este sacramento se le perdonen sus pecados incluso graves. Debe recibirse cuando el enfermo está todavía en uso de sus sentidos, pues para dar la unción no hay que esperar a que la situación sea irreversible (la unción, de suyo, no hace milagros); basta que haya amenaza de peligro real por enfermedad o vejez, y puede administrarse otra vez si, recobrada la salud, vuelve la gravedad; a los muy ancianos se les puede administrar aunque no estén enfermos, pues la vejez es ya una enfermedad incurable. Hoy la Iglesia permite la incineración de los cadáveres, y las cenizas deben guardarse con todo respeto.

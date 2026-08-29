@@ -12,25 +12,17 @@ tags: ["resumen", "normae de delictis gravioribus"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[sacramentorum_sanctitatis_tutela]] — Carta Apostólica base de las Normas
+- [[congregación_para_la_doctrina_de_la_fe]] — dicasterio emisor
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `Normae_de_delictis_gravioribus.md`
+Último encabezado del título de la Carta introductoria, que nombra expresamente la **Carta Apostólica *Motu proprio data «Sacramentorum sanctitatis tutela»***, relativa a las *Normae de gravioribus delictis* reservados a la Congregación para la Doctrina de la Fe. Se completa el marco: la reforma se introduce en dicha Carta Apostólica, y se anexa una **Breve Relación** en la que se exponen las enmiendas aportadas, para poder individualizarlas más fácilmente.
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+La Carta está fechada en Roma, en la sede de la Congregación, el **21 de mayo de 2010**, y la firman el Prefecto **William Card. Levada** y el Secretario **Luis F. Ladaria, S.I.**
 
 ## Secciones incluidas
 
+- Identificación de la Carta Apostólica reformada
+- Anexo de la Breve Relación de enmiendas
+- Fecha y firmas (Levada, Ladaria)

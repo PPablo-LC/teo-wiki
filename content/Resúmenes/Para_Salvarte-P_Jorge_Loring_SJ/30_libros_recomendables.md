@@ -10,33 +10,27 @@ tags: ["resumen", "para salvarte-p jorge loring sj"]
 
 # LIBROS RECOMENDABLES
 
-## Conceptos básicos referenciados
+## Conceptos básicos referenciados en este capítulo
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[formación_religiosa]] — lecturas recomendadas para la educación en la fe
+- [[castidad]] — tema de varios libros recomendados (juventud, pureza, noviazgo)
+- [[noviazgo]] — libros sobre amor y preparación cristiana al matrimonio
+- [[matrimonio]] — libros de vida conyugal y educación de los hijos
+- [[biblia]] y [[evangelios]] — estudios bíblicos recomendados
+- [[doctrina_social_de_la_iglesia]] — monografías sobre la cuestión social
+- [[apologética]] — obras de defensa razonada de la fe
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `30_libros_recomendables.md`
+El autor explica que, entre más de 2.000 libros de formación religiosa leídos y enjuiciados por él, pone aquí los que creé mejores para el lector; advierte, sin embargo, que los libros citados a pie de página de este libro no todos son recomendables.
 
+La lista, agrupada por materias, incluye numerosas obras de autores (mayormente jesuitas, O.P. y otros):
+- **Para jóvenes** y formación de la juventud: Loetscher, Quoist (`Diario de Ana María`), Pereira, Medialdea, Juan el Presbítero, Sánchez Gil, Schilgen, y varios de Tihamer Toth (`Energía y pureza`, `El joven creyente`, `El joven y Cristo`, `El joven de carácter`), Tomás Morales, Llanos, Tarancón, Calcerrada, Irala, Kelly, etc.
+- **Noviazgo, amor y pureza**: Dantec, López Pedraz, Vega, Jouvenroux, Lebrato, Sobrino (las drogas), Charbonneau, Hornaert, Carnot, Sayés (`Moral de la sexualidad`), Robinson, Corti, Echevarría, Boneta, Heredia.
+- **Biblia y Evangelios**: Daiber, Daniel Rops, Páramo, Igartua, José Julio Martínez, Simón, Vilariño, Lumbreras, Laburu.
+- **Espiritualidad y oración**: Cerro, Agacino, Jiménez Duque (la dirección espiritual), Urrutia, Montfort (`Verdadera devoción a la Santísima Virgen`).
+- **Doctrina social y pastoral social**: Vila Creus, Brugarola, Van Gestel, Cardijn.
+- **Apologética y defensa de la fe**: Balmes, Lellotte, Hillaire, Vizmanos, Royo Marín (`Teología de la salvación`, `Teología Moral para seglares`), Aurelio Fernández, Viejo Feliu, Leguizamón, Borruso, Conway, Simón, Liebig, López Pedraz, Juan Rivas, Vittorio Messori (`Algunas razones para creer`, `Leyendas negras de la Iglesia`, `Los desafíos del católico`), Ciurana, Sandbow, Boyer, Linden, Lord, Monsegú, Lamping, Lellotte (convertidos).
+- **Matrimonio y familia**: Cardijn, Corominas, Gotor, Streng, Camacho, Ángel del Hogar, Duhr, Armentia, Rey, Urteaga (`Dios y los hijos`), Buck, Meseguer, Leclercq, Billings (`Regulación natural de la natalidad`), Luis Riesgo, Monelli, López Arroniz, Marabel Morgan, Trobish, Bernage, Oheim, Dantec.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | LIBROS RECOMENDABLES |
-
-
-## Secciones incluidas
-
+Se anuncia al final un nuevo libro señalado como de gran interés.

@@ -10,33 +10,23 @@ tags: ["resumen", "para salvarte-p jorge loring sj"]
 
 # DECÁLOGO DEL PREDICADOR
 
-## Conceptos básicos referenciados
+## Conceptos básicos referenciados en este capítulo
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[evangelización]] — misión de la predicación: evangelizar, no entretener
+- [[predicación]] — arte de anunciar el mensaje cristiano
+- [[magisterio_de_la_iglesia]] — contenido que se transmite fielmente
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `29_decalogo_del_predicador.md`
+Diez consejos para la predicación:
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | DECÁLOGO DEL PREDICADOR |
-
-
-## Secciones incluidas
-
+1. No subir al estrado sin saber lo que se va a decir; y cuando se haya dicho, bajarse, sin alargarse inútilmente.
+2. Hacerse el guion de lo que se va a decir, en el papel o en la cabeza.
+3. Procurar despertar en el oyente interés por lo que se dice; si no, desconectará.
+4. Que lo que se dice sea provechoso para el oyente. Nuestra misión no es entretener, sino evangelizar.
+5. La brevedad no es el supremo de los valores; no se debe sacrificar lo importante para ser breves, aunque «lo bueno y breve es dos veces bueno».
+6. Hablar con naturalidad; lo teatral es repelente.
+7. Hablar de modo que todo el mundo entienda, pero con toda exactitud para que las personas cultas acepten lo que se dice.
+8. Para comunicar una idea es necesario estar convencido de lo que se dice.
+9. Si se usan aparatos técnicos, preocuparse de que funcionen perfectamente: es un desprestigio para el Evangelio usar aparatos malos mientras el mal se difunde con técnica excelente; la técnica punta debe estar al servicio de la evangelización.
+10. No pretender jamás el propio éxito personal, sino el bien de las almas; buscar el éxito tan solo para facilitar la evangelización.

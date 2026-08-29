@@ -12,25 +12,13 @@ tags: ["resumen", "lineas guia protección menores"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[protección_de_menores_en_la_iglesia]] — la tutela de los menores y de las personas vulnerables forma parte de la misión de la Iglesia
+- [[dignidad_humana]] — toda persona tiene un valor único en cuanto creada a imagen y semejanza de Dios
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `Lineas_guia_Protección_menores.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+Encabezado documental de las *Linee guida per la protezione dei minori e delle persone vulnerabili* del Vicariato de la Ciudad del Vaticano. Identifica la autoridad emisora: el **Vicariato della Città del Vaticano** —el organismo con jurisdicción pastoral sobre los fieles residentes en el Estado y en las Villas Pontificias de Castel Gandolfo— que emite estas directrices en materia de protección de menores y de personas vulnerables.
 
 ## Secciones incluidas
 
+- Título del documento (encabezado)

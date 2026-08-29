@@ -12,25 +12,14 @@ tags: ["resumen", "normae de delictis gravioribus"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[sacramentorum_sanctitatis_tutela]] — Carta Apostólica motu proprio reformada
+- [[congregación_para_la_doctrina_de_la_fe]] — dicasterio reformador
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `Normae_de_delictis_gravioribus.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+Continuación del título de la Carta introductoria: las modificaciones se introducen **en la Carta Apostólica motu proprio data** que regula las *Normae de gravioribus delictis*. La Carta recuerda que este Dicasterio, tras un atento estudio de las reformas propuestas, sometió al Romano Pontífice sus determinaciones, aprobadas el 21 de mayo de 2010 y autorizada su promulgación.
 
 ## Secciones incluidas
 
+- Referencia al instrumento normativo reformado (Carta Apostólica motu proprio)
+- Aprobación pontificia de las reformas (21 de mayo de 2010)

@@ -12,25 +12,20 @@ tags: ["resumen", "normae de delictis gravioribus"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[tribunal_supremo_apostólico_cdf]] — supremo tribunal apostólico para la Iglesia latina y orientales
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `Normae_de_delictis_gravioribus.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+Subtítulo del Título I, que precisa el objeto de los artículos 8 a 20: la **constitución y competencia del tribunal**. Regula:
+- la naturaleza del tribunal de la CDF como supremo tribunal apostólico (art. 8);
+- la composición de los jueces (arts. 9-10);
+- los oficios de promotor de justicia, notario, canciller, abogado y procurador (arts. 11-13);
+- los requisitos para tales oficios y su dispensa (arts. 14-15);
+- la investigación previa y su relación con la CDF (arts. 16-17);
+- la sanación de actos procesales (art. 18);
+- las medidas cautelares (art. 19);
+- la jurisdicción en segunda instancia (art. 20).
 
 ## Secciones incluidas
 
+- Subtítulo: Constitución y competencia del tribunal

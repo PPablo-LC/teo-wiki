@@ -12,31 +12,22 @@ tags: ["resumen", "paradoxes of faith"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[paradoja_teológica]] — noción central del libro; la paradoja misma es paradójica
+- [[evangelio]] — lleno de paradojas
+- [[encarnación]] — según los Padres de la Iglesia, la paradoja suprema
+- [[vida_espiritual]] — tema frecuente de estos fragmentos
+- [[apostolado]] — tema frecuente de estos fragmentos
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `00_preface.md`
+La expresión del pensamiento es siempre parcial e incompleta; la presentación fragmentaria evita en cierta medida que parezca tendenciosa. Estos fragmentos tratan sobre la vida espiritual y el apostolado, y procuran apartarse de ciertas tentaciones que el momento presente ha hecho más acuciantes, sin ignorar las necesidades de la acción temporal ni los problemas que plantea al cristiano. No se trata de crítica negativa, sino de una profunda simpatía con la inmensa labor de investigación que hoy se realiza en diversos sectores de la Iglesia.
 
+La palabra «paradoja» es en sí misma paradójica. Estas reflexiones no pretenden ser descubrimientos de una mente solitaria: el Evangelio está lleno de paradojas, el hombre es una paradoja viviente y, según los Padres de la Iglesia, la [[encarnación]] es la paradoja suprema.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H1 | Author's Preface |
 
-
 ## Secciones incluidas
-

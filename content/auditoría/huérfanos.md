@@ -2,12 +2,12 @@
 type: Concepto Teológico
 title: Auditoría de wikilinks huérfanos
 timestamp: 2026-08-06
-description: "Registro de wikilinks sin artículo propio en el wiki. 2026-08-23: cobertura por lotes — lote 1 (silencio_interior, conexión, coraje, razón_instrumental, valía_personal); lote 2 (reinterpretación_tipológica, autenticidad, lenguaje; retargets noche_oscura_del_alma y pobreza_espiritual); lote 3 (pertenencia, castigo, problema_del_mal, adulterio_en_el_corazón; comunicación_y_transparencia en Espiritualidad LC); lote 4 (dicha, espiritualización, historia_de_la_iglesia, moralidad_secular); lote 5 (ocio, recta_razón, significado_nupcial_del_cuerpo, antropología; retarget prescripción_acción_penal). 2026-08-23: el procesamiento de Evangelization & Culture n.º 11 «The Four Last Things» (EAC-11) siembra 35 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 11»). 2026-08-23: EAC-10 siembra 12 (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 10 «Freedom»»). 2026-08-23: el procesamiento de Evangelization & Culture n.º 9 «Poetry» (EAC-9) siembra 3 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 9 «Poetry»»). 2026-08-22: el procesamiento de Evangelization & Culture n.º 8 «Humor» (EAC-8) siembra 6 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 8 «Humor»»). 2026-08-24: el procesamiento de Evangelization & Culture n.º 2 «Economics» (EAC-2) siembra 4 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 2 «Economics»»)."
+description: "Registro de wikilinks sin artículo propio en el wiki. 2026-08-23: cobertura por lotes — lote 1 (silencio_interior, conexión, coraje, razón_instrumental, valía_personal); lote 2 (reinterpretación_tipológica, autenticidad, lenguaje; retargets noche_oscura_del_alma y pobreza_espiritual); lote 3 (pertenencia, castigo, problema_del_mal, adulterio_en_el_corazón; comunicación_y_transparencia en Espiritualidad LC); lote 4 (dicha, espiritualización, historia_de_la_iglesia, moralidad_secular); lote 5 (ocio, recta_razón, significado_nupcial_del_cuerpo, antropología; retarget prescripción_acción_penal). 2026-08-23: el procesamiento de Evangelization & Culture n.º 11 «The Four Last Things» (EAC-11) siembra 35 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 11»). 2026-08-23: EAC-10 siembra 12 (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 10 «Freedom»»). 2026-08-23: el procesamiento de Evangelization & Culture n.º 9 «Poetry» (EAC-9) siembra 3 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 9 «Poetry»»). 2026-08-22: el procesamiento de Evangelization & Culture n.º 8 «Humor» (EAC-8) siembra 6 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 8 «Humor»»). 2026-08-24: el procesamiento de Evangelization & Culture n.º 2 «Economics» (EAC-2) siembra 4 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 2 «Economics»»). 2026-08-29: los resúmenes de Lineas_guia_Protección_menores siembran 24 huérfanos nuevos (ver sección «Sembrados por los resúmenes de Lineas_guia_Protección_menores»). 2026-08-29: los resúmenes de Normae de delictis gravioribus siembran 36 huérfanos nuevos (ver sección «Sembrados por los resúmenes de Normae de delictis gravioribus»). 2026-08-29: los resúmenes de Para Salvarte siembran 30 huérfanos nuevos (ver sección «Sembrados por los resúmenes de Para Salvarte»). 2026-08-29: los resúmenes de Paradoxes of Faith siembran 22 huérfanos nuevos (ver sección «Sembrados por los resúmenes de Paradoxes of Faith»)."
 ---
 # Auditoría de wikilinks huérfanos
 
 > Generado originalmente: 2026-06-19
-> Última actualización: **2026-08-23 — Cobertura de huérfanos por lotes (de mayor a menor densidad), 5 lotes completados. L5: [[ocio]], [[recta_razón]], [[significado_nupcial_del_cuerpo]], [[antropología]]; retarget `[[prescripción_acción_penal]]` → [[prescripción_de_la_acción_criminal]]. L4: [[dicha]], [[espiritualización]], [[historia_de_la_iglesia]], [[moralidad_secular]]; retarget `[[cristo_cabeza_de_la_iglesia]]` → [[cabeza_de_la_iglesia]]. L3: [[pertenencia]], [[castigo]], [[problema_del_mal]], [[adulterio_en_el_corazón]], [[comunicación_y_transparencia]] (LC). L2: [[reinterpretación_tipológica]], [[autenticidad]], [[lenguaje]]; retargets noche_oscura_del_alma y pobreza_espiritual. L1: silencio_interior (18), conexión (13), coraje (11), razón_instrumental (11), valía_personal (10). Ver secciones «Resueltos por lote N». Tabla regenerada con el detector (total 1796).**
+> Última actualización: **2026-08-29 — Resúmenes de Paradoxes of Faith (PoF): 16/16 completados; siembran 22 huérfanos nuevos (ver sección «Sembrados por los resúmenes de Paradoxes of Faith»). Resúmenes de Para Salvarte (PS): 31/31 completados; siembran 30 huérfanos nuevos (ver sección «Sembrados por los resúmenes de Para Salvarte»). Resúmenes de Normae de delictis gravioribus (NDG): 47/47 completados; siembran 36 huérfanos nuevos (ver sección «Sembrados por los resúmenes de Normae de delictis gravioribus»). 2026-08-23 — Cobertura de huérfanos por lotes (de mayor a menor densidad), 5 lotes completados. L5: [[ocio]], [[recta_razón]], [[significado_nupcial_del_cuerpo]], [[antropología]]; retarget `[[prescripción_acción_penal]]` → [[prescripción_de_la_acción_criminal]]. L4: [[dicha]], [[espiritualización]], [[historia_de_la_iglesia]], [[moralidad_secular]]; retarget `[[cristo_cabeza_de_la_iglesia]]` → [[cabeza_de_la_iglesia]]. L3: [[pertenencia]], [[castigo]], [[problema_del_mal]], [[adulterio_en_el_corazón]], [[comunicación_y_transparencia]] (LC). L2: [[reinterpretación_tipológica]], [[autenticidad]], [[lenguaje]]; retargets noche_oscura_del_alma y pobreza_espiritual. L1: silencio_interior (18), conexión (13), coraje (11), razón_instrumental (11), valía_personal (10). Ver secciones «Resueltos por lote N». Tabla regenerada con el detector (total 1796).**
 > Total de wikilinks huérfanos registrados: **1797** (pendientes de artículo; detector 2026-08-14, excluido el falso positivo `[[concepto]]`;EAC-3 introduce 9 huérfanos nuevos: `[[blas_pascal]]`, `[[nietzsche]]`, `[[nones]]`, `[[periferias]]`, `[[micro_moralidad]]`, `[[macro_moralidad]]`, `[[evangelización_digital]]` (ya creado), `[[videojuegos]]` (ya creado), `[[aristóteles]]` (ya creado); 7 artículos nuevos creados: san_isidoro_de_sevilla, fulton_sheen, george_orwell, robert_barron, evangelización_digital, videojuegos, aristóteles; EAC-9 introduce 3 huérfanos nuevos (2026-08-23): `[[conversión_cristiana]]`, `[[dana_gioia]]` (resuelto el mismo día con la creación de `wiki/personas/dana_gioia.md`), `[[milagros_de_jesús]]`; EAC-10 introduce 12 huérfanos nuevos (2026-08-23): ver sección correspondiente; 7 artículos nuevos creados: san_isidoro_de_sevilla, fulton_sheen, george_orwell, robert_barron, evangelización_digital, videojuegos, aristóteles; 2026-08-13: CBL introduce 3 huérfanos nuevos; 2026-08-14: 1 resuelto por renombrado de preexistencia_de_cristo → preexistencia_del_verbo; 2026-08-14: CEC Lote 1 introduce 2 huérfanos nuevos; 2026-08-14: CEC Lote 2 introduce 21 huérfanos nuevos; 2026-08-14: CEC Lote 3 introduce 16 huérfanos nuevos; 2026-08-14: se retira `[[templo_de_jerusalen]]` del registro del Lote 2 por no ser huérfano — existe `wiki/conceptos/templo_de_Jerusalén.md`; 2026-08-24: completado del procesamiento EAC-3 (Issue 3 «The Digital Age») introduce 1 huérfano nuevo intencional: `[[atención]]`, sembrado desde [[redes_sociales]] como forward reference
 > Resueltos (acumulado; ver secciones «Resueltos…» y notas finales): 35+29+11+14+19+6+1 (6 en 2026-07-15/16 — ver sección final; 26 por re-auditoría 2026-08-01; 3 por BMV 2026-08-03; 29 por alta densidad 2026-08-03; 11 por alta densidad 2ª tanda 2026-08-03; 14 por alta densidad 3ª tanda 2026-08-03, neto −11; 19 por alta densidad 4ª tanda 2026-08-04; 6 por limpieza de paréntesis 2026-08-04, neto −5 por el re-sembrado de `[[respuesta_divina]]`; 1 por normalización de nombres con paréntesis 2026-08-08; +1 el 2026-08-23: `[[dana_gioia]]` resuelto con la creación de su artículo en `wiki/personas/`; +5 por lote 1 de alta densidad (2026-08-23): silencio_interior, conexión, coraje, razón_instrumental, valía_personal; +5 por lote 2 (2026-08-23): 3 artículos nuevos (reinterpretación_tipológica, autenticidad, lenguaje) y 2 retargets a artículos canónicos (noche_oscura_del_alma → noche_oscura; pobreza_espiritual → pobreza_de_espíritu); +5 por lote 3 (2026-08-23): pertenencia, castigo, problema_del_mal, adulterio_en_el_corazón y comunicación_y_transparencia); +5 por lote 4 (2026-08-23): dicha, espiritualización, historia_de_la_iglesia, moralidad_secular + retarget cristo_cabeza_de_la_iglesia → cabeza_de_la_iglesia); +5 por lote 5 (2026-08-23): ocio, recta_razón, significado_nupcial_del_cuerpo, antropología + retarget prescripción_acción_penal → prescripción_de_la_acción_criminal)
 
@@ -3113,3 +3113,169 @@ registrados (sección de la Ley N. CCXCVII); `[[sigilo_sacramental]]` y
 |----------|-------------------------------------|
 | `[[protección_de_los_menores]]` | Tutela de los menores y personas vulnerables como parte del mensaje evangélico (Mt 18,5) |
 | `[[prevención_de_abusos]]` | Formación del personal y verificación de idoneidad para prevenir y contrastar abusos |
+
+## Sembrados por los resúmenes de Lineas_guia_Protección_menores (2026-08-29)
+
+La generación de los 11 resúmenes de las *Linee guida per la protezione dei
+minori e delle persone vulnerabili* del Vicariato de la Ciudad del Vaticano
+(29.03.2019) siembra 24 huérfanos nuevos. Los conceptos
+`[[verificación_idoneidad_personal]]`, `[[formación_prevención_abusos]]`,
+`[[derechos_de_la_víctima]]`, `[[asistencia_a_víctimas]]`,
+`[[obligación_de_denuncia]]` y `[[prevención_de_abusos]]` ya estaban
+registrados (Ley N. CCXCVII / Motu Proprio) y ven reforzadas sus
+referencias; `[[acompañamiento_de_víctimas]]` tiene artículo propio.
+
+| Wikilink | Contenido actual / artículo futuro |
+|----------|-------------------------------------|
+| `[[información_a_colaboradores]]` | Secc. C.3: información a los colaboradores ocasionales sobre comportamientos en la interacción con menores |
+| `[[prudencia_en_relación_con_menores]]` | Secc. D.1: prudencia y respeto al relacionarse con los menores |
+| `[[visibilidad_obligatoria_operadores]]` | Secc. D.1: ser siempre visibles cuando están en presencia de menores |
+| `[[tutela_de_la_imagen_privada]]` | Secc. D.1 y F.11: respeto de la esfera de reserva, la imagen y la confidencialidad |
+| `[[información_a_padres_tutores]]` | Secc. D.1 y E.1: información a padres o tutores de las actividades propuestas |
+| `[[prudencia_en_comunicación_digital]]` | Secc. D.1: prudencia en la comunicación telefónica y en redes sociales |
+| `[[prohibición_de_castigos_corporales]]` | Secc. D.2: prohibición severa de todo castigo corporal |
+| `[[prohibición_relación_preferencial_menor]]` | Secc. D.2: prohibición de relación preferencial con un solo menor |
+| `[[prohibición_pedir_secreto_al_menor]]` | Secc. D.2: prohibición de pedir a un menor mantener un secreto |
+| `[[prohibición_regalos_discriminatorios]]` | Secc. D.2: prohibición de hacer regalos discriminando al resto del grupo |
+| `[[consentimiento_escrito_fotos_videos]]` | Secc. D.2 y E.2: consentimiento escrito para fotografiar o filmar |
+| `[[prohibición_publicar_imágenes_menores]]` | Secc. D.2: prohibición de publicar imágenes reconocibles sin consentimiento |
+| `[[espacios_seguros_para_menores]]` | Secc. D.3: locales adecuados y no ocultos a la vista ni sin control |
+| `[[atención_a_bullying_entre_menores]]` | Secc. D.4: afrontar prontamente el bullying entre menores, informando a padres o tutores |
+| `[[consentimiento_escrito_padres]]` | Secc. E.1: consentimiento escrito indispensable para la participación de los menores |
+| `[[custodia_de_datos_sensibles]]` | Secc. E.3: conservación cuidadosa de las autorizaciones con datos sensibles |
+| `[[formalización_por_escrito_denuncia]]` | Secc. F.4: formalización escrita de la señalación para el promotor de justicia |
+| `[[comunicación_a_ordinario]]` | Secc. F.5: comunicación al Ordinario propio o Superior Mayor si el autor es clérigo o consagrado |
+| `[[separación_del_presunto_autor]]` | Secc. F.6: alejamiento del presunto autor de las actividades pastorales |
+| `[[colaboración_con_autoridades_civiles]]` | Secc. F.8 y F.10: indagación previa sin perjuicio de las investigaciones civiles |
+| `[[rehabilitación_de_culpables]]` | Secc. F.15: remoción de culpables con apoyo para la rehabilitación psicológica, espiritual y la reinserción |
+| `[[coordinación_prevención_abusos]]` | Secc. B: coordinación de las actividades de prevención y formación por el Referente |
+| `[[operadores_pastorales]]` | Secc. A: destinatarios de las líneas guía; secc. C: selección, formación y actuación |
+| `[[persona_vulnerable]]` | Secc. A: equiparación de las personas vulnerables a los menores |
+
+## Sembrados por los resúmenes de Normae de delictis gravioribus (2026-08-29)
+
+La generación de los 47 resúmenes de las *Normae de delictis gravioribus*
+(reforma 2010, Benedicto XVI) siembra 36 huérfanos nuevos. Refuerzan
+huérfanos ya registrados (sin siembra nueva): `[[congregación_para_la_doctrina_de_la_fe]]`,
+`[[delitos_contra_la_fe]]`, `[[derecho_a_la_defensa]]` y `[[abogado_canónico]]`;
+tienen artículo propio `[[abuso_sexual_de_menores]]`, `[[promotor_de_justicia]]`,
+`[[secreto_pontificio]]`, `[[prescripción_canónica]]`, `[[medidas_cautelares_canónicas]]`,
+`[[proceso_penal_canónico]]`, `[[deposición]]`, `[[absolución_del_cómplice]]`,
+`[[solicitación]]`, `[[violación_del_sigilo_sacramental]]`, `[[derecho_canónico]]` y
+`[[sacramentorum_sanctitatis_tutela]]` (documento).
+
+| Wikilink | Contenido actual / artículo futuro |
+|----------|-------------------------------------|
+| `[[tribunal_supremo_apostólico_cdf]]` | CDF como supremo tribunal apostólico (art. 8-9) |
+| `[[delitos_contra_la_penitencia]]` | Delitos contra la Penitencia (art. 4) |
+| `[[presentación_directa_al_papa]]` | Presentación de casos gravísimos al Sumo Pontífice (art. 21 §2 n.2) |
+| `[[delitos_contra_la_eucaristía]]` | Delitos eucarísticos (art. 3) |
+| `[[cosa_juzgada_canónica]]` | Adquisición de la cosa juzgada (art. 28) |
+| `[[sanación_de_actos_procesales]]` | Sanación de actos por la CDF (art. 18) |
+| `[[recurso_contra_actos_ddf]]` | Recurso a la Congregación Ordinaria (art. 27) |
+| `[[proceso_penal_extrajudicial]]` | Vía por decreto extrajudicial (art. 21 §2 n.1) |
+| `[[preliminares_por_cdf_directamente]]` | Preliminares realizados por la propia CDF (art. 17) |
+| `[[pornografía_infantil]]` | Pornografía infantil <14 años (art. 6 §1 n.2) |
+| `[[excomunión_latae_sententiae]]` | Penas latae sententiae (arts. 2-6) |
+| `[[dispensa_de_requisitos_para_jueces]]` | Dispensa de sacerdocio y doctorado (art. 15) |
+| `[[competencia_ddf_sobre_obispos]]` | Derecho de juzgar a Cardenales, Patriarcas y Obispos (art. 1) |
+| `[[atentada_ordenación_de_mujer]]` | Atentada ordenación de una mujer (art. 5) |
+| `[[uso_imperfecto_de_la_razón]]` | Equiparación al menor de la persona con uso imperfecto de la razón (art. 6) |
+| `[[tutela_del_sigilo_en_procesos]]` | Tutela del sigilo sacramental en procesos (art. 24) |
+| `[[turno_de_jueces_cdf]]` | Turno de tres o cinco jueces (art. 22) |
+| `[[transmisión_de_actas_a_cdf]]` | Transmisión de los actos a la CDF (art. 26) |
+| `[[sentencias_cdf_sin_aprobación_papal]]` | Sentencias no sujetas a aprobación pontificia (art. 8 §3) |
+| `[[segunda_instancia_cdf]]` | Jurisdicción en segunda instancia (art. 20) |
+| `[[sanción_por_violación_de_secreto]]` | Sanción por violación del secreto (art. 30 §2) |
+| `[[sacerdotes_para_funciones_judiciales]]` | Solo sacerdotes en otros tribunales (art. 14) |
+| `[[requisitos_para_jueces_canónicos]]` | Requisitos de los jueces (art. 10) |
+| `[[presentación_a_cdf_tras_investigación]]` | Presentación a la CDF tras la investigación previa (art. 16) |
+| `[[notario_canónico]]` | Oficio de notario y canciller (art. 12) |
+| `[[jueces_del_tribunal_cdf]]` | Padres de la Congregación como jueces (art. 9) |
+| `[[grabación_divulgación_confesión]]` | Captación y divulgación de la confesión (art. 4 §2) |
+| `[[dimisión_y_deposición]]` | Dimisión del estado clerical o deposición (art. 21 §2 n.2) |
+| `[[delitos_reservados_ddf]]` | Delitos reservados a la CDF |
+| `[[delitos_conexos]]` | Delitos juzgados por conexión de personas y complicidad (art. 8 §2) |
+| `[[cuestiones_incidentales_en_proceso]]` | Cuestiones incidentales resueltas por decreto (art. 25) |
+| `[[costas_judiciales_canónicas]]` | Costas judiciales (art. 29) |
+| `[[consagración_sacrífega]]` | Consagración sacrífega de materia (art. 3) |
+| `[[autorización_extrajudicial_por_cdf]]` | Mandato de la CDF para penas expiatorias perpetuas (art. 21 §2 n.1) |
+| `[[aplicación_código_cic_cceo]]` | Aplicación de los cánones del CIC y el CCEO (art. 31) |
+| `[[acusación_en_apelación]]` | Acusación diversa en grado de apelación (art. 23) |
+
+## Sembrados por los resúmenes de Para Salvarte (2026-08-29)
+
+La generación de los 31 resúmenes del manual *Para Salvarte* de Jorge Loring
+SJ siembra 30 huérfanos nuevos. Refuerzan huérfanos ya registrados (sin
+siembra nueva): `[[coronación_de_maría]]`, `[[espiritismo]]`, `[[hostia]]`,
+`[[protestantismo]]`, `[[reencarnación]]` y `[[segundo_mandamiento]]`.
+
+| Wikilink | Contenido actual / artículo futuro |
+|----------|-------------------------------------|
+| `[[alma_inmortal]]` | El más allá: inmortalidad del alma y retribución |
+| `[[apostolado_de_la_oración]]` | Reza todos los días: Apostolado de la Oración |
+| `[[autoestima]]` | En el hombre y en la mujer: amor propio y egoísmo |
+| `[[autoridad_de_la_iglesia]]` | Iglesia: la autoridad eclesiástica frente a la libre interpretación |
+| `[[bendición_de_la_mesa]]` | La Salve: bendición de la mesa y devociones |
+| `[[cáliz]]` | Eucaristía: vasos sagrados |
+| `[[corazón_de_maría]]` | Reza todos los días: devoción al Corazón de María |
+| `[[corazón_inmaculado_de_maría]]` | Al comulgar: consagración al Corazón Inmaculado de María |
+| `[[credo_de_los_apóstoles]]` | Santo Rosario: el Credo |
+| `[[culto_de_dulía]]` | Eucaristía: culto de latría y dulía a los santos |
+| `[[cumplimiento_pascual]]` | Al confesarte: precepto pascual |
+| `[[dignidad_del_templo]]` | Segundo mandamiento: reverencia al templo |
+| `[[dolor_de_los_pecados]]` | En el hombre y en la mujer: dolor de los pecados |
+| `[[erotismo]]` | En el hombre y en la mujer: erotismo y lujuria |
+| `[[fecundidad_conyugal]]` | Adáptate a su vida: fecundidad y paternidad responsable |
+| `[[formación_religiosa]]` | Libros recomendables: necesidad de formación |
+| `[[indulgencia_plenaria]]` | Santo Rosario: indulgencias |
+| `[[jaculatorias]]` | Reza todos los días: jaculatorias |
+| `[[letanías_lauretanas]]` | Santo Rosario: letanías |
+| `[[libre_interpretación]]` | Iglesia: libre interpretación de la Biblia y desunión |
+| `[[muerte_eterna]]` | El más allá: infierno y muerte eterna |
+| `[[ofrecimiento_de_obras]]` | Reza todos los días: ofrecimiento de obras |
+| `[[pecado_grave]]` | No olvides nunca / Al confesarte: gravedad del pecado |
+| `[[persignarse]]` | Reza todos los días: la señal de la cruz |
+| `[[propósito_de_enmienda]]` | Examen para la confesión: propósito de enmienda |
+| `[[regulación_natural_de_la_natalidad]]` | Al confesarte / Adáptate a su vida: métodos naturales |
+| `[[religión_verdadera]]` | Redención: la religión verdadera |
+| `[[salve]]` | La Salve: oración a la Virgen |
+| `[[secreto_de_confesión]]` | Acto de contrición: sigilo sacramental |
+| `[[séptimo_mandamiento]]` | Cuarto mandamiento: examen de conciencia (robo) |
+
+## Sembrados por los resúmenes de Paradoxes of Faith (2026-08-29)
+
+La generación de los 16 resúmenes de *Paradoxes of Faith* (Henri de Lubac,
+1948) siembra 22 huérfanos nuevos. Refuerzan huérfanos ya registrados (sin
+siembra nueva): `[[acto_de_fe]]`, `[[beatitud]]`, `[[cristianismo]]`,
+`[[felicidad]]`, `[[marxismo]]`, `[[nietzsche]]`, `[[ortodoxia]]`,
+`[[sacerdote]]` y `[[tolerancia]]`. Se retargetean a variantes canónicas:
+`[[paradoja]]`→[[paradoja_teológica]], `[[beatitudes]]`→[[bienaventuranzas]],
+`[[péguy]]`→[[charles_péguy]], `[[dante]]`→[[dante_alighieri]],
+`[[newman]]`→[[john_henry_newman]], `[[pobre]]`→[[pobres]],
+`[[mediocridad]]`→[[mediocridad_cristiana]].
+
+| Wikilink | Contenido actual / artículo futuro |
+|----------|-------------------------------------|
+| `[[bergson]]` | Testimonio: crítica a la intuición bergsoniana como criterio |
+| `[[compromiso_cristiano]]` | Socialización: el cristiano comprometido sin integrarse al mundo |
+| `[[conciencia_del_pecado]]` | El hombre: pérdida del sentido del pecado en el hombre moderno |
+| `[[creencia_en_el_pecado]]` | Socialización: fe en el pecado original y el mal |
+| `[[decadencia]]` | Paradoja: decadencia por instalarse sin autocrítica ni renuncia |
+| `[[dialéctica]]` | Paradoja: diferencia entre paradoja y dialéctica |
+| `[[diferencia]]` | Los otros: la diferencia no es enemistad sino armonía |
+| `[[ens_et_verum_convertuntur]]` | Verdad: el ser y la verdad se convierten (principio tomista) |
+| `[[espíritu_de_infancia]]` | Cristianismo: infancia espiritual como grandeza |
+| `[[fanatismo]]` | Los otros: diferencia frente a fanatismo |
+| `[[fariseísmo]]` | La fe: el fariseo que se instala en la verdad poseída |
+| `[[léon_bloy]]` | Encarnación: autor citado sobre la encarnación del cristianismo |
+| `[[orden_social]]` | Socialización: orden social cristiano como ideal futuro |
+| `[[pascal]]` | Cristianismo/Adaptación/Espíritu/Fe: Blaise Pascal, apologética de la paradoja |
+| `[[platón]]` | Desinterés: el desinterés contemplativo platónico |
+| `[[psicología]]` | El hombre: ciencia psicológica, útil pero no exhaustiva |
+| `[[santa_catalina_de_génova]]` | Paradoja: purgatorio, alegría en el sufrimiento |
+| `[[sociología]]` | El hombre: ciencia sociológica, útil pero no exhaustiva |
+| `[[sociología_de_la_religión]]` | El hombre: sociología de la religión y su límite |
+| `[[sócrates]]` | Desinterés: la sabiduría socrática desinteresada |
+| `[[unidad_cristiana]]` | El mundo: unidad de los cristianos en la comunión |
+| `[[vida_mística]]` | Paradoja/Interioridad: la vida mística como triunfo de la paradoja |

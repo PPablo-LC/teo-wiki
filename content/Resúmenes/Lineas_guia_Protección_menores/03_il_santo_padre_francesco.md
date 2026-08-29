@@ -12,25 +12,21 @@ tags: ["resumen", "lineas guia protección menores"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[derecho_canónico]] — marco normativo del documento
+- [[protección_de_menores_en_la_iglesia]] — objeto del documento
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `Lineas_guia_Protección_menores.md`
+Preámbulo normativo («Visto... vista...») por el que el **Papa Francisco** adopta estas líneas guía, invocando:
 
+- el **Chirografo de San Juan Pablo II** *per la cura spirituale nella Città del Vaticano* (14 de enero de 1991);
+- la **Ley N. CCXCVII**, *sulla protezione dei minori e delle persone vulnerabili* (26 de marzo de 2019);
+- la **naturaleza particular de las actividades pastorales** desarrolladas en el ámbito del Estado de la Ciudad del Vaticano.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+Con ello introduce medidas específicas en el Vicariato para la cura y la protección de los menores y de las personas vulnerables.
 
 ## Secciones incluidas
 
+- Vistos normativos (Chirografo de Juan Pablo II, Ley N. CCXCVII)
+- Considerandos sobre la naturaleza particular de la actividad pastoral vaticana
+- Adopción de las líneas guía

@@ -12,25 +12,12 @@ tags: ["resumen", "normae de delictis gravioribus"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[proceso_penal_canónico]] — proceso judicial para perseguir los delitos reservados
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `Normae_de_delictis_gravioribus.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+Encabezado del **Título II** de la Segunda Parte (Normas Procesales): **«El orden judicial»**. Comprende los artículos 21 a 31, que regulan: la persecución de los delitos en proceso judicial y las vías excepcionales (extrajudicial y presentación directa al Papa) (art. 21); el turno de jueces (art. 22); la acusación en apelación (art. 23); la tutela del sigilo (art. 24); las cuestiones incidentales (art. 25); la transmisión de actos a la CDF (art. 26); el recurso contra actos administrativos (art. 27); la cosa juzgada (art. 28); las costas (art. 29); el secreto pontificio (art. 30); y la aplicación de las normas del CIC y el CCEO (art. 31).
 
 ## Secciones incluidas
 
+- Encabezado del Título II: El orden judicial (arts. 21-31)

@@ -12,25 +12,19 @@ tags: ["resumen", "normae de delictis gravioribus"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[tribunal_supremo_apostólico_cdf]] — constitución y competencia del tribunal
+- [[proceso_penal_canónico]] — el orden judicial
+- [[medidas_cautelares_canónicas]] — medidas cautelares durante la investigación previa
+- [[cosa_juzgada_canónica]] — cosa juzgada
+- [[secreto_pontificio]] — secreto sobre las causas
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `Normae_de_delictis_gravioribus.md`
+Encabezado que abre la **Segunda Parte** del documento: las **Normas Procesales** de las *Normae de gravioribus delictis*, organizada en dos títulos:
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+- **Título I (arts. 8-20)**: Constitución y competencia del tribunal (supremo tribunal apostólico, jueces y oficiales, requisitos, investigación previa, sanación de actos, medidas cautelares y segunda instancia);
+- **Título II (arts. 21-31)**: El orden judicial (proceso judicial y vías excepcionales, turno de jueces, acusación en apelación, tutela del sigilo, cuestiones incidentales, transmisión de actos, recurso contra actos administrativos, cosa juzgada, costas, secreto pontificio y aplicación de los Códigos).
 
 ## Secciones incluidas
 
+- Encabezado de la Segunda Parte: Normas Procesales (Títulos I-II, arts. 8-31)

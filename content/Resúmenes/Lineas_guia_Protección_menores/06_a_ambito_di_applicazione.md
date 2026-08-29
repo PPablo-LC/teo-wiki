@@ -12,25 +12,28 @@ tags: ["resumen", "lineas guia protección menores"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[derecho_canónico]] — normativa canónica que debe respetarse escrupulosamente
+- [[persona_vulnerable]] — equiparada al menor a efectos de las líneas guía
+- [[prevención_de_abusos]] — atención a los riesgos de explotación, abuso sexual y maltrato
+- [[protección_de_menores_en_la_iglesia]] — objeto de las políticas y procedimientos
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `Lineas_guia_Protección_menores.md`
+La normativa canónica y la legislación del Estado de la Ciudad del Vaticano en materia de protección de menores y de personas vulnerables **deben ser escrupulosamente respetadas**.
 
+Las políticas y procedimientos de estas líneas guía están orientadas a establecer y mantener una **comunidad eclesial respetuosa y consciente de los derechos y necesidades de los menores** y de las personas vulnerables, atenta a los riesgos de explotación, abuso sexual y maltrato. Se dirigen a:
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+- los **canónigos, coadjutores y clero** de la Basílica de San Pedro;
+- los **párrocos y coadjutores** de las parroquias de San Pedro y de Sant'Anna en el Vaticano;
+- los **capellanes y asistentes espirituales** con encargo pastoral del Vicario General;
+- los **sacerdotes, diáconos y educadores** del Preseminario San Pío X;
+- los miembros de **Institutos de vida consagrada y Sociedades de vida apostólica** con residencia estable en el Estado;
+- **todos los que operan a cualquier título**, individual o asociado, dentro de la comunidad eclesial del Vicariato.
+
+A efectos de estas líneas guía, las **«personas vulnerables» son equiparadas a los «menores»**.
 
 ## Secciones incluidas
 
+- Obligación de respeto de la normativa canónica y estatal
+- Destinatarios de las líneas guía (clero, consagrados, educadores, operadores)
+- Equiparación de personas vulnerables a menores

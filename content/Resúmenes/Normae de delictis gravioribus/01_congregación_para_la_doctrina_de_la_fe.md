@@ -12,25 +12,13 @@ tags: ["resumen", "normae de delictis gravioribus"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[congregación_para_la_doctrina_de_la_fe]] — dicasterio emisor de las Normae de gravioribus delictis
+- [[sacramentorum_sanctitatis_tutela]] — Carta Apostólica cuyas Normas se enmiendan
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `Normae_de_delictis_gravioribus.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+Encabezado documental de las *Normae de gravioribus delictis* (2010). Identifica al dicasterio emisor competente para juzgar los delitos reservados en materia de fe, moral y sacramentos: la **Congregación para la Doctrina de la Fe** (CDF). El documento comprende la Carta introductoria a los Obispos, las Normas Sustanciales, las Normas Procesales y una Breve Relación sobre los cambios introducidos respecto de la Carta Apostólica *Sacramentorum sanctitatis tutela*.
 
 ## Secciones incluidas
 
+- Encabezado: autoridad emisora (Congregación para la Doctrina de la Fe)

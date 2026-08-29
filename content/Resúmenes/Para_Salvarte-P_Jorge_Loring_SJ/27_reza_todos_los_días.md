@@ -10,33 +10,29 @@ tags: ["resumen", "para salvarte-p jorge loring sj"]
 
 # REZA TODOS LOS DÍAS
 
-## Conceptos básicos referenciados
+## Conceptos básicos referenciados en este capítulo
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[persignarse]] — oración de la señal de la cruz
+- [[ofrecimiento_de_obras]] — ofrecimiento de obras del Apostolado de la Oración
+- [[padrenuestro]] — oración enseñada por Jesús
+- [[avemaría]] — oración mariana
+- [[gloria]] — doxología trinitaria
+- [[jaculatorias]] — oraciones breves
+- [[apostolado_de_la_oración]] — asociación de oración
+- [[sagrado_corazón_de_jesús]] y [[corazón_de_maría]] — devoción del Sagrado e Inmaculado Corazón
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `27_reza_todos_los_dias.md`
+Oraciones recomendadas para rezar todos los días:
 
+**Persignarse:** «Por la señal de la santa Cruz, de nuestros enemigos líbranos, Señor, Dios nuestro. En el nombre del Padre, y del Hijo y del Espíritu Santo. Amén.»
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**Ofrecimiento de Obras del Apostolado de la Oración:** por el Corazón Inmaculado de María, consagrarse al Corazón de Jesús y ofrecerse con él al Padre en su Santo Sacrificio del altar, con la oración, trabajo, sufrimientos y alegrías del día, en reparación de los pecados y para que venga su Reino; se pide en especial por el Papa, el Obispo y el Párroco y sus intenciones.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | REZA TODOS LOS DÍAS |
+**Padrenuestro:** el texto completo («Padre nuestro que estás en el cielo... líbranos del mal. Amén»).
 
+**Avemaría:** el texto completo («Dios te salve, María... ahora y en la hora de nuestra muerte. Amén»), para rezarla tres veces.
 
-## Secciones incluidas
+**Gloria:** «Gloria al Padre, y al Hijo, y al Espíritu Santo. Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.»
 
+**Jaculatorias:** oraciones breves como «Jesús, José y María, os doy el corazón y el alma mía»; «Jesús, José y María, asistidme en mi última agonía»; «Jesús, José y María, con vosotros descanse en paz el alma mía»; «Sagrado Corazón de Jesús, en Vos confío»; «Dulce Corazón de María, sed mi salvación»; «San José, rogad por nosotros»; «Ángel de mi guarda, velad por mí»; y «Creo en Dios, espero en Dios, amo a Dios, que me quiere perdonar y me quiere salvar» (tres veces).

@@ -12,25 +12,16 @@ tags: ["resumen", "normae de delictis gravioribus"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[proceso_penal_canónico]] — el proceso judicial como vía ordinaria
+- [[proceso_penal_extrajudicial]] — vía por decreto extrajudicial
+- [[presentación_directa_al_papa]] — presentación directa al Sumo Pontífice en casos gravísimos
+- [[cosa_juzgada_canónica]] — cosa juzgada
+- [[secreto_pontificio]] — secreto sobre las causas
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `Normae_de_delictis_gravioribus.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+Subtítulo del Título II, que regula el **orden judicial** aplicable a los delitos reservados. Sus artículos (21-31) determinan cómo se persiguen los delitos (proceso judicial, con las excepciones extrajudicial y de presentación directa al Papa); la composición del turno; la admisión de acusación diversa en apelación; la protección del denunciante y del sigilo sacramental; las cuestiones incidentales; la transmisión de los actos a la CDF; el recurso contra actos administrativos ante la Congregación Ordinaria; la cosa juzgada; las costas; el secreto pontificio y la aplicación supletoria de los Códigos.
 
 ## Secciones incluidas
 
+- Subtítulo: El orden judicial
