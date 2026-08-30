@@ -1,8 +1,8 @@
 ---
 type: Documento
 title: Evangelization & Culture
-description: "Trimestral del Word on Fire Institute (Bishop Robert Barron) con números sobre Creatividad, Economía, Era Digital, Cine, Escritura, Esperanza, sensibilidad católica, Humor y Poesía"
-timestamp: 2026-08-23
+description: "Trimestral del Word on Fire Institute (Bishop Robert Barron) con números sobre Creatividad, Economía, Era Digital, Cine, Escritura, Esperanza, sensibilidad católica, Humor, Poesía, Libertad, Postrimerías e Infancia"
+timestamp: 2026-08-29
 tags:
   - evangelización
   - cultura
@@ -16,7 +16,7 @@ tags:
 # Evangelization & Culture
 
 > Área: Teología pastoral / Evangelización
-> Última actualización: 2026-08-23
+> Última actualización: 2026-08-29
 
 ## Descripción
 
@@ -37,6 +37,7 @@ tags:
 | 9 | Issue 9 | Poetry | Autumn 2021 | [[evangelization_and_culture_issue_9_poetry]] |
 | 10 | Issue 10 | Freedom | Winter 2021 | [[evangelization_and_culture_issue_10_freedom]] |
 | 11 | Issue 11 | The Four Last Things | Spring 2022 | [[evangelization_and_culture_issue_11_four_last_things]] |
+| 12 | Issue 12 | Childhood | Summer 2022 | [[evangelization_and_culture_issue_12_childhood]] |
 
 ## Temas centrales por número
 
@@ -231,6 +232,25 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - La escala de Jacob: fronteras porosas; el cielo comienza ahora; muerte diaria ante los ojos (Hollas OSB)
 - Media vita in morte sumus; Juliana de Norwich: «todo estará bien» (Scalia)
 
+### Issue 12: Childhood (Summer 2022)
+Para el desarrollo completo de este número, véase [[evangelization_and_culture_issue_12_childhood]].
+- Mt 18,2-5: el niño como icono del Reino; la infancia espiritual (Barron)
+- La influencia de los padres «termina alrededor del quinto grado»; pequeñas epifanías (Worner)
+- San Nicolás de Myra, patrono de los niños; intercesión de los santos (Scalia)
+- La infancia como luz y el sufrimiento (Tom Martin; Rom 8,18)
+- Santa Isabel Ana Seton: «Nuestro único maestro es Cristo»; renacimiento de la escuela católica (DeSanctis)
+- Faith, Medicine, and the Anxiety of Children (Dr. Michelle Stanford)
+- El arte de ser niño: *childish* vs. *childlike*; inocencia y maravilla (McNamara)
+- «The Toys» de Coventry Patmore: paternidad divina compasiva (Gioia)
+- Desear hijos como luz para el mundo: consentir la cruz en la infertilidad (Jeffries)
+- Autismo y gracia: la cruz como respuesta al «¿por qué?» del inocente (Svellinger)
+- La belleza de la creación evangeliza: *The Secret Garden* (Stewart)
+- Condiciones para evangelizar a los jóvenes: atención, sensibilidad al sufrimiento; misericordia de dos partes; imitación siniestra digital (DeLorenzo)
+- Cultura gamer: God and Gaming (Britton, Angel, Bulman); Beato Carlo Acutis
+- Misiones: Charles Lewis; misas de niños (Van Sloun)
+- El arte de evangelizar al adolescente moderno: formación humana integral; redes sociales y salud mental (Angel)
+- Beato Carlo Acutis: ciberapóstol de la Eucaristía (Spotlight WoF)
+
 ## Autores destacados
 
 - Bishop Robert Barron (director, Word on Fire)
@@ -298,6 +318,14 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - Grace Savard (Word on Fire, periferias)
 - Cory Mendenhall (artista converso)
 - Jackie Francois Angel (Lives: Santa Brígida de Kildare)
+- Leonard J. DeLorenzo (teología, University of Notre Dame)
+- Carolyn Svellinger (autismo y gracia)
+- Emily H. Jeffries (deseo de hijos e infertilidad)
+- Haley Stewart (familia, esperanza y creación)
+- Dr. Michelle Stanford (medicina y ansiedad infantil)
+- Andrew Petiprin (teología y cultura popular)
+- Alexandra DeSanctis (educación, Santa Isabel Ana Seton)
+- Dana Gioia (poeta, poeta laureado de California)
 
 ## Relación con otras fuentes
 
@@ -320,3 +348,4 @@ Esta fuente complementa los artículos sobre [[evangelización]], [[evangelizaci
 - Evangelization & Culture, Issue 9 (2021) — Poetry
 - Evangelization & Culture, Issue 10 (2021) — Freedom
 - Evangelization & Culture, Issue 11 (2022) — The Four Last Things
+- Evangelization & Culture, Issue 12 (2022) — Childhood

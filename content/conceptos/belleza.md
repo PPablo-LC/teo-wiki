@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Belleza
 tags: ["dogmática_(dios)", "teología_de_la_cultura"]
 
-timestamp: 2026-08-24
+timestamp: 2026-08-29
 description: "La belleza es un atributo divino y, por participación, una propiedad del ser creado."
 ---
 # Belleza
 
 > Área: Dogmática (Dios) / Teología de la Cultura
-> Última actualización: 2026-08-24
+> Última actualización: 2026-08-29
 
 ## Definición
 
@@ -60,6 +60,16 @@ Dilley presenta el *eros* como fuerza de vida en diálogo con la belleza: el des
 **La belleza desarma (Murray).** Las obras maestras «no solo nos encantan sino que nos desarman»: su belleza y su visión logran, «por pura fuerza de integridad», cuestionar nuestras viejas maneras de ver, captando simultáneamente imaginación, pasiones y razón.
 
 **Formar en lo bello para volver a lo bueno y lo verdadero (Worner).** La revista se propone «sumergir a sus lectores en lo bello, señalando siempre de regreso hacia lo bueno y, en último término, hacia lo verdadero»; la formación estética acompaña a la formación interior e intelectual.
+
+### Según Evangelization & Culture, Issue 12 (EAC-12)
+
+**La belleza de la creación evangeliza (Haley Stewart).** En «The Beauty of Creation Beckons» [EAC-12, 18], Stewart lee *The Secret Garden* de Frances Hodgson Burnett como una historia anti-*coming of age*: el desafío de sus personajes no es dejar la infancia atrás sino descubrirla. Mary Lennox «despierta del cinismo a la alegría infantil» (*childlike joy*) gracias al contacto con la naturaleza y a la amistad de Dickon Sowerby. El jardín secreto «ilumina cómo la belleza puede evangelizarnos: es una respuesta convincente a las afirmaciones del modernismo que niegan que Dios nos hable a través de su creación». La belleza de la creación «llama» («the beauty of creation beckons»): el paisaje, los sentidos y la comunión de las criaturas median el mensaje de amor de Dios al alma humana. Como escribe el Papa Francisco (Laudato Sí'): «más que un problema a resolver, el mundo es un misterio gozoso que se contempla con alegría y alabanza». Los niños de la novela, sin conocer todavía el nombre del Creador *ex nihilo*, lo llaman «magia», y la Doxología —«Alabad a Dios de quien fluyen todas las bendiciones»— da nombre a la fuerza de amor y de vida que los ha transformado. *The Secret Garden* muestra también que «cuando abrazamos una actitud de asombro y gratitud infantiles, nosotros mismos nos convertimos en evangelizadores»: la participación en la maravilla y la belleza de la creación es contagiosa [EAC-12, 18].
+
+El jardín transforma también a Colin: el primo inválido, aislado en su cuarto y tiranizando al servicio desde la muerte de su madre, se pone en pie, camina y corre; su curación es interior y exterior — aprende a jugar, a saltar, a trabajar la tierra y a amar a otros. El jardín es un «símbolo de los niños mismos»: un lugar de potencial oculto bajo el abandono de quienes debieron cuidarlo. La fuerza invisible que obra tras el telón es el amor materno de Susan Sowerby: madre práctica, abnegada y sabia (distinta de los padres narcisistas de Mary y del padre ausente de Colin), interesada por cualquier niño necesitado de cuidado materno, que aconseja al señor Craven sobre lo que los niños necesitan para vivir [EAC-12, 18].
+
+El encuentro final tiene explícito simbolismo mariano: el desconsolado Colin, al verla por primera vez, agarra el pliegue del manto azul de Susan Sowerby — «eras justo lo que... lo que quería [...] Ojalá fueras mi madre» — y ella lo estrecha contra su pecho bajo su manto azul: el color y el abrazo materno evocan el manto de María. Susan actúa además como intercesora: escribe al señor Craven instándole a volver y a reconciliarse con su hijo. Ella «intercede» por Colin como María por los hombres. Por último, el señor Craven, lejos y sumido en depresión, encuentra una flor azul — «también yo siento como si estuviera vivo» — y la creación lo llama como las montañas y árboles de Isaías (Is 55,12), devolviéndolo a su hijo y a la vida [EAC-12, 18].
+
+**La niña sin vista y la belleza invisible para el mundo (Carolyn Svellinger).** En su testimonio sobre el autismo y la hipoplasia del nervio óptico de su hijo Emmett, Carolyn Svellinger reconoce que su vida «ya está rebosante de belleza»: «la belleza que el mundo no puede ver a causa de las escamas en sus ojos, que también habían cubierto los míos». El «ideal de vida plena y hermosa» que había imaginado —anclado en arena— queda superado por la belleza invisible que solo ven los ojos del alma: la dignidad real de cada hijo como imagen de Dios («son realeza coronada para heredar mi Reino»), 1 Cor 12,31 («procurad los carismas más grandes... un camino todavía más excelente») y la paz de Jn 14,27, «no como el mundo la da». La belleza cristiana no se mide por las escalas del mundo [EAC-12, 17].
 
 ## Relaciones doctrinales
 

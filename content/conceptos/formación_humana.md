@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Formación humana
 description: "Dimensión de la formación sacerdotal que tiene como fin educar al candidato al presbiterado en las virtudes humanas fundamentales —madurez afectiva, capacidad de relación, libertad interior."
 tags: ["teología_espiritual", "ascética"]
-timestamp: 2026-06-14
+timestamp: 2026-08-29
 ---
 
 # Formación humana
 
 > Área: Teología espiritual / Ascética
-> Última actualización: 2026-06-14
+> Última actualización: 2026-08-29
 
 ## Definición
 
@@ -58,6 +58,17 @@ Las *Normas de Urbanidad* del Regnum Christi desarrollan la formación humana a 
 
 El fundamento teológico de la formación humana en la espiritualidad legionaria reside en que Cristo asumió la naturaleza humana y la elevó sin destruirla: al encarnarse, el Verbo santificó toda la naturaleza humana — cuerpo, sentidos, afectos, voluntad—. De ahí el imperativo de **forjar el hombre nuevo**: no repudiando lo humano, sino elevándolo por la gracia. La formación humana es el camino por el que la gracia divina va transformando la naturaleza, sin confundirse con ella; el candidato es llamado a cultivar sus cualidades humanas como terreno donde la gracia produce fruto abundante.
 
+### Según la Evangelization & Culture, Issue 12 (EAC-12)
+
+Jackie François Angel («The Art of Evangelizing the Modern Teenager») amplía la formación humana más allá del ámbito sacerdotal hacia la pastoral juvenil: la evangelización de los adolescentes exige «una formación humana que puede entenderse en términos de la integración básica de toda la persona —cuerpo, mente, corazón y alma—» al servicio de una vida «sana y santa» [EAC-12, 23]. La clave es que la formación humana precede o acompaña inseparablemente a la formación espiritual:
+
+> «Parte de la evangelización es el concepto fundacional de sanar a toda la persona de las heridas que con frecuencia impiden vivir vidas de libertad, paz y gozo. Jesús, médico divino, vino a poner en libertad a los cautivos.» [EAC-12, 23]
+
+En el contexto de la Generación Z (redes sociales, ciberacoso, porno temprano, crisis de salud mental), la formación humana integral incluye el cuidado de la salud mental —la terapia es un bien reconocible—, la interacción social en persona y el servicio voluntario. Los ministerios juveniles eficaces combinan «formación humana y formación espiritual» [EAC-12, 23].
+
+Michelle Stanford (11_science.md) refuerza desde la medicina y la psicología de base cristiana: en la ansiedad infantil y juvenil (agravada por el COVID — la respuesta post-pandémica duplicó las tasas, «epidemia dentro de una pandemia»), el trastorno de ansiedad se manifiesta como estrés dominante y preocupación magnificada, con síntomas que incluyen evitación de la escuela, explosividad, problemas de sueño, dificultad con las transiciones y quejas físicas. Los desencadenantes son la tecnología (conexiones superficiales, autoestima ligada a «me gusta» → vuelta patológica hacia uno mismo) y el aislamiento (pérdida de maestría, apoyo y confianza). El tratamiento más eficaz es la **terapia cognitivo-conductual** (CBT), que trabaja pensamientos y sentimientos para producir conductas saludables; la medicación (ISRS) es un coadyuvante de corta duración — «un yeso para una fractura»: el cerebro sana mientras aprende CBT — y los católicos pueden recurrir a orientación de base cristiana (cathmed.org, catholictherapist.com). El orden, la rutina, la gratitud y el servicio son herramientas terapéuticas reales que la fe integra con la CBT [EAC-12, 11].
+
 ## Referencias
 
 - [PDV §45-48]
+- [EAC-12, 11, 23]

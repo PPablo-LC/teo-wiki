@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Educación católica
 tags: ["derecho_canónico"]
 
-timestamp: 2026-05-26
+timestamp: 2026-08-29
 description: "La educación católica es el conjunto de medios e instituciones mediante los cuales la Iglesia, en cumplimiento de su misión divina, ayuda a los hombres a alcanzar la plenitud de la vida cristiana."
 ---
 # Educación católica
 
 > Área: Derecho Canónico
-> Última actualización: 2026-05-26
+> Última actualización: 2026-08-29
 
 ## Definición
 
@@ -51,6 +51,22 @@ La Iglesia necesita «un espacio de libertad en el campo de la enseñanza». Los
 
 Tóth recoge el diagnóstico de Aparecida sobre la «emergencia educativa»: las reformas centradas en conocimientos y habilidades denotan «un claro reduccionismo antropológico» que concibe la educación en función de la producción, la competitividad y el mercado, e incluyen factores contrarios a la vida y a la familia [JvC-Rel, archivo 34]. Frente a ello, la escuela está llamada a ser «lugar privilegiado de formación y promoción integral», poniendo de relieve «la dimensión ética y religiosa de la cultura»; no se da libertad ética sino en confrontación con los valores absolutos [archivo 34]. En el proyecto educativo de la escuela católica «Cristo, el Hombre perfecto, es el fundamento, en quien todos los valores humanos encuentran su plena realización»; su meta es conducir al encuentro con Jesucristo vivo [archivo 35]. Aparecida pide «rescatar la identidad católica de nuestros centros… por medio de un impulso misionero valiente y audaz», con identidad eclesial, excelencia académica y solidaridad con los más pobres; y una educación en la fe integral y transversal con verdaderos procesos de iniciación cristiana [archivo 35]. Para la universidad se requiere pastoral universitaria que acompañe a toda la comunidad, diálogo entre fe, razón y ciencias —«Fe y razón son dos alas por las cuales el espíritu humano se eleva en la contemplación de la verdad»— y presencia dialogante en las universidades públicas [archivo 36].
 
+### Según la Evangelization & Culture, Issue 12 (EAC-12)
+
+**Santa Isabel Ana Seton y el renacimiento de la escuela católica (Alexandra DeSanctis):** El artículo «Minds» de EAC-12 presenta a Santa Isabel Ana Seton (1774-1821), fundadora de las Hermanas de la Caridad y de la primera escuela católica gratuita de Estados Unidos, como modelo de la educación católica americana. Su lema —«Nuestro único maestro es Cristo»— condensa una teología de la educación: enseñar es cooperar con Cristo Maestro. La escuela católica no añade religión a un currículo neutro, sino que ordena todo el saber hacia Cristo [EAC-12, 10].
+
+Tras la pandemia de COVID, las escuelas católicas vivieron un «renacimiento» en Estados Unidos: la flexibilidad de su modelo educativo durante los cierres (presencialidad, tutoría, valores) atrajo a más de 62.000 estudiantes nuevos, incluida a familias no católicas que buscan una educación que forme el carácter, no solo habilidades. La educación católica se presenta así como obra de caridad que forma personas libres para el don [EAC-12, 10].
+
+**Formación humana integral de los jóvenes (Jackie François Angel):** La evangelización de los adolescentes exige «una formación humana que puede entenderse en términos de la integración básica de toda la persona —cuerpo, mente, corazón y alma—» y que cultiva la salud física y mental. «Parte de la evangelización es el concepto fundacional de sanar a toda la persona de las heridas que con frecuencia impiden vivir vidas de libertad, paz y gozo. Jesús, médico divino, vino a poner en libertad a los cautivos.» Los ministerios juveniles eficaces combinan «formación humana y formación espiritual» [EAC-12, 23].
+
+**Misas de niños (P. Michael Van Sloun):** La educación católica se ejerce también en la liturgia: las misas de niños son «una excelente oportunidad para evangelizar», en las que el sacerdote «se convierte en un estrecho colaborador de los padres y maestros en el más importante deber, obligación y oportunidad de sus respectivas vocaciones: transmitir el don de la fe a sus hijos y alumnos». Jesús es «el modelo maestro perfecto» y «el modelo aprendiz» (Lc 2,46-52) [EAC-12, 22].
+
+**Un ambiente gozoso y cómplices:** En estas misas los niños participan emocionados y sus respuestas son imprevisibles e iluminadoras; los adultos aprenden con los niños y de los niños [EAC-12, 22].
+
+**Cómo predicar a los niños (P. Michael Van Sloun):** Predicar en las misas de niños exige un «esfuerzo A+»: la homilía debe ser interesante, comprometida, terrenal y comprensible — nunca una disertación teológica abstracta. El homilista ha de mostrarse alegre y entusiasta, con reverencia por el milagro de que Dios haya creado a cada niño «milagrosamente» (orgullo de los padres incluido); amar a los niños es amar a Dios y a sus padres. Regla clave: «nunca hablarles por debajo de ellos» — los niños son capaces y aprenden rápido, son esponjas; subestimarlos es un error. Método de preguntas y respuestas: primero preguntas factuales (la introducción, las Escrituras), cuyas respuestas correctas generan confianza y participación futura; luego respuestas abiertas sobre el significado («¿Qué quería decir Jesús?», «¿Por qué es importante?», «¿Cómo lo aplicamos?») que producen insights agudos y «ajá» contagiosos. **Nunca hay respuesta mala** — siempre hay algo bueno que decir de una respuesta incorrecta; nunca avergonzar a un niño (es un pecado contra la caridad y le disuade de volver a participar). Frutos: cuando varios niños conectan los puntos, la congregación ve la lección — «Jesús está complacido», «esta es la misión de la Iglesia», «esta es la razón de la escuela católica», «vale la pena»; el Espíritu Santo trabaja «en overdrive» [EAC-12, 22].
+
+**Toda fuente de la EAC-12 converge en el principio:** la educación católica es la transmisión de la fe en el contexto de una vida ordinaria compartida —la lectura en familia, la oración, el orden, la rutina, la gratitud y el servicio—, como muestra la escuela en casa y la catequesis familiar [EAC-12, 12, 17, 18].
+
 ## Relaciones doctrinales
 
 La [[escuela_católica]] es un medio primordial para la educación católica. Se relaciona con el derecho de los padres (c. 793), la libertad de enseñanza (c. 797) y el derecho de la Iglesia a erigir universidades (c. 807).
@@ -61,9 +77,10 @@ La [[escuela_católica]] es un medio primordial para la educación católica. Se
 
 ## Ver también
 
-[[escuela_católica]], [[magisterio_eclesiástico]]
+[[escuela_católica]], [[magisterio_eclesiástico]], [[evangelization_and_culture_issue_12_childhood]], [[santa_isabel_ana_seton]]
 
 ## Referencias
 
 - CIC cc. 793-821
 - Com-CIC-Eunsa, comentarios a los cc. 793-821
+- [EAC-12, 10, 22, 23]

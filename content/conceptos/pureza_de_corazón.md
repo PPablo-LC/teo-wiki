@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Pureza de Corazón
 tags: ["ascética", "moral"]
 
-timestamp: 2026-05-22
+timestamp: 2026-08-29
 description: "La sexta bienaventuranza: \"Bienaventurados los limpios de corazón, porque ellos verán a Dios\" (Mt 5,8). Designa a los que han ajustado su inteligencia y su voluntad a las exigencias de la santidad ..."
 ---
 # Pureza de Corazón
 
 > Área: Ascética / Moral
-> Última actualización: 2026-05-22
+> Última actualización: 2026-08-29
 
 ## Definición
 
@@ -42,6 +42,16 @@ Conclusión: «La pureza es exigencia del amor. Es la dimensión de su verdad in
 La pureza, según 1 Tes 4,3-5, es una virtud que consiste no solo en la abstención de la impureza sino también en el mantenimiento del cuerpo «en santidad y respeto». El «respeto» hacia lo corpóreo y sexual es fuerza espiritual esencial para la pureza (TdC 28.01.1981).
 
 La pureza tiene una función positiva: aliada con el don de la piedad (donum pietatis), sensibiliza al sujeto a la dignidad del cuerpo y realiza en él una plenitud de dignidad en las relaciones interpersonales, de modo que «Dios mismo es glorificado en él» (1 Cor 6,20) (TdC 18.03.1981).
+
+### Según Evangelization & Culture, Issue 12 (EAC-12)
+
+Andrew Petiprin («Sometimes They Know Better: Glimpses of Holiness in Children's Films») ||8|| desarrolla la pureza de corazón de los niños como camino de edificación para los adultos. Los niños aparecen en la Biblia y en la historia de la Iglesia confiados a tareas que dependen de su pureza de corazón —David ante Goliat, Jesús enseñando en el templo, los pastorcitos de Fátima—: «las experiencias de los niños son particularmente valiosas para Dios en la transmisión de su poder, verdad y misericordia». En la Iglesia, «el corazón» es el mejor nombre para el asiento más profundo de la identidad espiritual de la persona (Lc 9,47: Jesús «percibió los pensamientos de sus corazones»), eco de Mt 5,8: «Bienaventurados los limpios de corazón, porque ellos verán a Dios» ||8||.
+
+Petiprin recurre a Luigi Giussani: el corazón es «la experiencia elemental, el impulso original con el que el ser humano se lanza hacia la realidad». Los corazones de los niños «a menudo permanecen centrados en la maravilla de la bondad de Dios», mientras la miopía espiritual vence con frecuencia al corazón de los adultos. Las películas infantiles de calidad (E.T., The Goonies, Stand by Me, My Neighbor Totoro) capturan el delicado estadio intermedio en que los niños se hacen plenamente conscientes de la realidad antes de quedar «desengañados» por los problemas del pecado original. Incluso el animismo de *My Neighbor Totoro* llega a «una conclusión similar sobre la pureza de corazón y la visión de la vida divina» que Jesús describe en el Sermón del Monte ||8||.
+
+La lección del artículo es que «a veces los niños saben más»: los adultos redescubren un corazón puro mediante el arrepentimiento y el perdón, capaces de dejar el orgullo infantil (*childish*) para llegar a Dios con la maravilla de los niños (*childlike*) — la dinámica del lema de Newman «Cor ad cor loquitur». Como dice Juan Pablo II en su «Carta a los niños» (1994): «Todo el Evangelio podría leerse realmente como el "Evangelio de los niños"» ||8||.
+
+Petiprin extiende el argumento incluso a las películas sobre niños profundamente problemáticos — *Los 400 golpes* (Truffaut, 1959) y *El niño de la bicicleta* (hermanos Dardenne, 2011) — donde encontramos «la inconfundible sinceridad del corazón de un niño». Las historias perturbadoras, quizá más que las de final feliz, recuerdan a los adultos «los dones preciosos que se nos han confiado»: el amor de los niños —propios y ajenos— imparte la bendición del Señor como ninguna otra cosa, y puede difundir el amor de Cristo por toda la comunidad. La conclusión de la «Carta a los niños» («este amor debe extenderse a toda vuestra comunidad, incluso al mundo entero, precisamente a través de vosotros, queridos niños») invita a tomar a Jesús por su palabra y hacerse «como ellos» ||8|| [EAC-12, 08].
 
 ## Distinciones importantes
 

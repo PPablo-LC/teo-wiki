@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Sufrimiento cristiano
 tags: ["espiritualidad", "moral"]
 
-timestamp: 2026-06-19
+timestamp: 2026-08-29
 description: "El sufrimiento cristiano es la participación en las tribulaciones de Cristo, ofrecida libremente como acto de amor y reparación, que adquiere valor salvífico cuando se une al sacrificio de la Cruz."
 ---
 # Sufrimiento cristiano
 
 > Área: Espiritualidad / Moral
-> Última actualización: 2026-06-19
+> Última actualización: 2026-08-29
 
 ## Definición
 
@@ -47,6 +47,14 @@ Juan Pablo II, en su Carta Apostólica *Salvifici Doloris* (1984), enseña que e
 
 **Moisés purgado antes de la misión (Ex 2).** Príncipe acostumbrado a que todo salga a su manera; mata al egipcio sin prudencia; huida a Madián como proceso de purgación (como Abraham, Jacob, José, Pablo): vida humilde pastoreando rebaños; Gershom: «forastero he sido en tierra extranjera». Véase [[purificación_del_corazón]].
 
+### Según Evangelization & Culture, Issue 12 (EAC-12)
+
+**Sufrimiento del niño inocente y la pregunta «¿por qué?» (Carolyn Svellinger).** La autista Carolyn Svellinger plantea la pregunta inefable del sufrimiento de los inocentes: «¿Por qué este niño inocente? ¿Por qué yo?» — pregunta sin respuesta especulativa. Su respuesta es la Cruz: «La cruz es la única respuesta» [EAC-12, 17]. El descubrimiento de la Cruz —«Jesús murió en la Cruz; es su forma de consolarnos»— revela a Dios que sufre con el que sufre y transforma el sufrimiento en participación redentora. Svellinger recalca el papel de la familia como místicosdoméstico y de la generosidad de tantos que han acompañado su camino [EAC-12, 17].
+
+**Consentir la cruz en la prueba de la infertilidad (Emily H. Jeffries).** Jeffries, que sufrió endometriosis e infertilidad (concepción tras la abstinencia pedida por la fe y la peregrinación a un santuario mariano), se apoya en Fr. Jacques Philippe (*Interior Freedom*) para enseñar que el sufrimiento encuentra paz cuando se «consiente la cruz»: confiar en el plan de Dios aunque no se tenga «una esperanza perfecta, pero sí esperanza». El «¿por qué?» no encuentra respuesta en esta vida; lo único sólido es el abandono amoroso en la voluntad de Dios. El testimonio público de esta prueba —no avergonzarse de la infertilidad, alegrarse de los embarazos ajenos, atender a los niños— revela que el propósito del propio sufrimiento brota de la cruz consentida: «¿qué impacto tendría abrir el corazón de los hombres hacia otros hombres en su oración por la paternidad?» [EAC-12, 16].
+
+**Paz que el mundo no da (Rachel Bulman).** El sufrimiento —el COVID de Rachel Bulman con posibilidad real de muerte, durante el embarazo— hace valorar la paz que «el mundo no da» (Jn 14,27) y da sentido al dolor: la enfermedad vivida en la fe enseña a apoyarse en Cristo, que comparte la cruz de cada uno [EAC-12, 09].
+
 ## Distinciones importantes
 
 - **Sufrimiento redentor vs. sufrimiento inútil**: el sufrimiento tiene valor cuando se une a Cristo; sin esta unión es solo padecer
@@ -66,3 +74,4 @@ Se relaciona con la [[corredención]], la [[cruz]], el [[misterio_pascual]], la 
 - [CEC §1508, §1520]
 - [SD §19-20, §27]
 - [UVD, Primera parte]
+- [EAC-12, 09, 16, 17]

@@ -3279,3 +3279,34 @@ siembra nueva): `[[acto_de_fe]]`, `[[beatitud]]`, `[[cristianismo]]`,
 | `[[sócrates]]` | Desinterés: la sabiduría socrática desinteresada |
 | `[[unidad_cristiana]]` | El mundo: unidad de los cristianos en la comunión |
 | `[[vida_mística]]` | Paradoja/Interioridad: la vida mística como triunfo de la paradoja |
+
+## Sembrados por el procesamiento de Evangelization & Culture n.º 12 «Childhood» (2026-08-29)
+
+Al procesar la fuente EAC-12 (24 archivos) se sembraron intencionalmente los
+siguientes wikilinks sin artículo (forward references). Su contenido está
+tratado en `wiki/documentos/evangelization_and_culture_issue_12_childhood.md`,
+en los artículos nuevos ([[atención_como_principio_de_oración]],
+[[autismo_y_fe]], [[evangelización_de_la_cultura_gamer]], [[deseo_de_hijos]]),
+las personas creadas ([[san_nicolás_de_myra]], [[beato_carlo_acutis]],
+[[san_vicente_de_paúl]], [[santa_luisa_de_marillac]], [[santa_isabel_ana_seton]]
+ya existente) y los artículos enriquecidos ([[infancia_espiritual]], [[niño]],
+[[paternidad]], [[misericordia]], [[pureza_de_corazón]], [[sufrimiento_cristiano]],
+[[intercesión_de_los_santos]], [[educación_católica]], [[jóvenes]],
+[[videojuegos]], [[belleza]], [[formación_humana]]):
+
+| Wikilink | Referencias | Contenido actual / artículo futuro |
+|----------|-------------|------------------------------------|
+| `[[atención_en_la_oración]]` | 1 | atención_como_principio_de_oración (práctica de la atención como condición natural de la oración) |
+| `[[semillas_del_verbo]]` | 1 | evangelización_de_la_cultura_gamer (verdades y deseos religiosos presentes en los videojuegos; LG 16) |
+| `[[predilección_divina_por_los_débiles]]` | 1 | autismo_y_fe (la cruz y la misericordia brotan del amor preferencial de Dios por el débil) |
+
+`[[escucha_de_la_palabra]]` ya registrado (n.º 860) aumenta su contexto con
+atención_como_principio_de_oración (la escucha atenta de la Palabra como
+fundamento de la oración). Variantes corregidas antes del registro:
+`[[paternidad_divina]]` → `[[paternidad]]`, `[[misericordia_dos_partes]]` →
+`[[misericordia]]`, `[[atencion_principio_oracion]]` →
+`[[atención_como_principio_de_oración]]`, `[[comunión_personas_trinidad]]` →
+`[[comunión_de_personas]]`, `[[salvifici_doloris]]` → `[[sufrimiento_redentor]]`,
+`[[maria_madre_dolorosa]]` → `[[dolor_de_maría]]`, `[[agustin_dinamica_conversion]]`
+→ `[[conversión]]`, `[[fiesta_de_los_niños]]` → `[[navidad]]`,
+`[[mujer_y_vocación]]` → `[[dignidad_de_la_mujer]]`.

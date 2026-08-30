@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Misericordia
 tags: ["dogmática"]
 
-timestamp: 2026-08-19
+timestamp: 2026-08-29
 description: "La misericordia es el atributo divino por el cual Dios, movido por su infinita bondad, se compadece de la miseria humana."
 ---
 # Misericordia
 
 > Área: Dogmática
-> Última actualización: 2026-08-19
+> Última actualización: 2026-08-29
 
 ## Definición
 
@@ -129,12 +129,26 @@ El confesionario es, para Mons. Munilla, «el lugar del descenso donde se toca l
 
 **El perdón como expresión de misericordia** (Jared Zimmerer, §10): La intuición ilativa permite al evangelizador reconocer las rutas por las que Dios obra en el alma del otro. El perdón es «una liberación del peso del corazón», ofrecido incluso a quien no lo merece.
 
+### Según Evangelization & Culture, Issue 12 (EAC-12)
+
+Leonard J. DeLorenzo analiza la **misericordia como virtud de dos partes** en el contexto de la cultura digital [EAC-12, 19]:
+
+1. **Dolor sensorial por el sufrimiento ajeno**, que requiere la capacidad de reconocer el sufrimiento concreto del que sufre.
+2. **Acción volitiva —** la disposición a actuar sobre el sufrimiento reconocido, compartiendo la carga o sanando a quien sufre.
+
+La cultura digital socava ambas dimensiones: «el mundo digital amplía nuestra visión, no nuestro alcance». Es decir, trae imágenes y sonidos cerca, pero no permite un encuentro encarnado con los que vemos y oímos. La conexión virtual separa el conocimiento de la acción, que el espacio físico mantiene unidos. DeLorenzo identifica una **imitación siniestra** de la misericordia: la persona que vislumbra el sufrimiento desde lejos siente el dolor sensorial —incluso momentáneamente— lo que «da la sensación de ser misericordioso, sin cumplir realmente» con la segunda parte de la virtud.
+
+La parábola del Buen Samaritano presupone «una geografía moral muy específica donde el conocimiento de la necesidad y la capacidad de abordarla están unidos por el espacio, creando una obligación moral en medio de un riesgo serio» (Vincent Miller). A diferencia de la «carretera de Jericó», las autopistas digitales no obligan a nadie a un lugar o a una persona. La Palabra de Dios —la misericordia encarnada— «se acercó y se limitó»: descendió a nosotros que sufrimos «en la cuneta». Quien recibe la Palabra y ejercita la misericordia se convierte en misericordioso: «Ve y haz tú lo mismo» (Lc 10,37). La conclusión pastoral, en palabras de Dorothy Day y Peter Maurin: «crear el tipo de condiciones donde es más fácil para la gente ser buena» — donde sea más probable que los jóvenes sean misericordiosos [EAC-12, 19].
+
+DeLorenzo conecta esta geografía de la misericordia con la evangelización de los jóvenes: la «sensibilidad al sufrimiento» es, junto con la atención, una de las dos condiciones naturales que deben restaurarse para que el Evangelio arraigue.
+
 ## Distinciones importantes
 
 - **Misericordia** ≠ **justicia**: la misericordia no se opone a la justicia, sino que la perfecciona y la trasciende.
 - **Misericordia divina** ≠ **misericordia humana**: la divina es infinita y creadora; la humana es participación de la divina.
 - **Obras de misericordia corporales**: dar de comer al hambriento, dar de beber al sediento, vestir al desnudo, etc.
 - **Obras de misericordia espirituales**: enseñar al ignorante, corregir al que yerra, consolar al triste, etc.
+- **Misericordia real vs. imitación siniestra digital**: sentir el dolor ajeno sin actuar (dimensión meramente sensorial) es la «imitación siniestra» que da sensación de ser misericordioso sin serlo — DeLorenzo (EAC-12).
 
 ## Relaciones doctrinales
 

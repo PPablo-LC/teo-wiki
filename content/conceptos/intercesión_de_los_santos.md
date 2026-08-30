@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Intercesión de los santos
 tags: ["dogmática"]
 
-timestamp: 2026-06-16
+timestamp: 2026-08-29
 description: "Acto por el cual los santos que gozan de la visión beatífica en el cielo interceden ante Dios por los hombres que peregrinan en la tierra."
 ---
 # Intercesión de los santos
 
 > Área: Dogmática
-> Última actualización: 2026-06-16
+> Última actualización: 2026-08-29
 
 ## Definición
 
@@ -29,12 +29,17 @@ La intercesión de los santos en el cielo se funda en el orden establecido por D
 
 **Eficacia de sus oraciones (a.3):** Las oraciones de los santos son siempre escuchadas en cuanto ellas mismas. Pueden orar por nosotros de dos modos: (1) oración expresa, pidiendo la clemencia divina; (2) oración interpretativa, por sus méritos conocidos por Dios. Sus oraciones en sí mismas obtienen lo que piden, pero pueden fallar por nuestra parte si no estamos dispuestos. En cuanto piden conforme a su voluntad —y los santos solo quieren lo que Dios quiere— sus oraciones son siempre concedidas. Así como Dios quiere que los predestinados se salven mediante las oraciones de los santos, así también las oraciones de estos son instrumentos de la providencia divina. Los santos no están en estado de mérito para sí mismos, pero sí de impetración por la liberalidad de Dios, y mientras vivieron merecieron que sus oraciones fueran escuchadas después de su muerte.
 
+### Según Evangelization & Culture, Issue 12 (EAC-12)
+
+Elizabeth Scalia presenta la **intercesión de San Nicolás de Myra** como modelo de intercesión de los santos por los niños. San Nicolás, «patrono de los niños» y «defensor de la inocencia», es invocado por los padres para la protección de sus pequeños. Su vida — obispo de Myra que distribuyó su herencia entre los pobres y protegió a los vulnerables — lo convierte en intercesor privilegiado de la infancia. La intercesión de los santos por los niños se manifiesta en la oración perseverante de los padres y en la devoción familiar (la memoria litúrgica del 6 de diciembre, festividad infantil en muchas culturas) [EAC-12, 05].
+
 ## Distinciones importantes
 
 - **Conocimiento en el Verbo vs. conocimiento natural:** Los santos conocen nuestras oraciones en el Verbo divino, no por conocimiento natural del alma separada. Antes de la Pasión de Cristo nadie gozaba de la visión beatífica (cf. respuesta a obj. 1).
 - **Oración expresa vs. oración interpretativa:** La primera es la petición explícita; la segunda es el mérito de los santos que, conocido por Dios, obra como sufragio a nuestro favor.
 - **Voluntad antecedente vs. consecuente:** Dios quiere antecedente que todos se salven, pero esta voluntad no siempre se cumple; los santos conforman su oración a la voluntad consecuente, que siempre se cumple.
 - **Invocación a Cristo vs. invocación a los santos:** A Cristo no se le dice «ruega por nosotros» por razones cristológicas; a los santos sí, como intercesores subordinados.
+- **Intercesión general vs. patronazgo específico:** Además de la intercesión de todos los santos por todos los hombres, existe el patronazgo particular (p. ej., San Nicolás de Myra como patrono de los niños) [EAC-12, 05].
 
 ## Relaciones doctrinales
 
@@ -47,3 +52,4 @@ La intercesión de los santos en el cielo se funda en el orden establecido por D
 ## Referencias
 
 - [SmTh, Suppl. q.72 a.1-3]
+- [EAC-12, 05 — San Nicolás de Myra, intercesor de los niños]
