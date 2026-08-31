@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Liturgia de las horas
 tags: ["liturgia"]
 
-timestamp: 2026-05-26
+timestamp: 2026-08-30
 description: "La liturgia de las horas, también llamada oficio divino, es la oración pública y comunitaria de la Iglesia por la que se alaba a Dios sin cesar con el canto y la oración."
 ---
 # Liturgia de las horas
 
 > Área: Liturgia
-> Última actualización: 2026-05-26
+> Última actualización: 2026-08-30
 
 ## Definición
 
@@ -43,6 +43,21 @@ Las vísperas solemnes se celebran para las siguientes fiestas: Inmaculada Conce
 
 Para el canto en la liturgia de las horas se aplica el criterio de «solemnización progresiva», dando prioridad a las aclamaciones, respuestas, antífonas y salmos, himnos y cánticos [GLit-2024, n. 193].
 
+### Según Evangelization & Culture n.º 13 «The Eucharist» (EAC-13)
+
+Brandon Vogt y Michael Stevens (Word on Fire's Liturgy of the Hours) presentan la iniciativa editorial de publicar la Liturgia de las Horas en cuadernillos mensuales para laicos y familias, con una catequesis de primera mano:
+
+- **Oración pública, no devoción privada**: la Liturgia de las Horas es una oración pública, «como la Misa y los otros sacramentos», distinta de devociones privadas (Rosario, novenas).
+- **Cristo ora con su Cuerpo**: cita de *Sacrosanctum Concilium* 84: «Es la misma oración que Cristo mismo, junto con su Cuerpo, dirige al Padre». Une al cristiano con la Iglesia terrestre y celestial (comunión de los santos).
+- **«Orar sin cesar» como Iglesia**: aunque el individuo no puede «orar sin cesar» (1 Tes 5,17), la Iglesia lo hace en su conjunto, pues los horarios escalonados del mundo hacen que siempre haya alguien orando.
+- **Santificación del día**: «todo el curso del día y de la noche es santificado por las alabanzas de Dios»; la oración se convierte en «la nueva bisagra del día», reorientando la mente hacia las cosas de Dios.
+- **Oración más alta después de la Misa / oración familiar**: *Marialis Cultus* 54 llama a la Liturgia de las Horas «el punto culminante que puede alcanzar la oración familiar».
+- **Oración bíblica por antonomasia**: sus lecturas proceden de la Sagrada Escritura; los salmos de Dios se cantan en su presencia; las intercesiones y himnos están inspirados en la Escritura (*GILH* 14).
+- **Los cinco Horas**: Laudes, Hora Intermedia, Vísperas, Completas y Oficio de Lecturas; las de duración breve (Laudes/Vísperas ~15 min; Completas 5-10 min).
+- **La oración de los laicos**: la constitución invita a los seglares a ella; no es obligación para los laicos, pero sí «el punto culminante» de la oración familiar.
+- **Dimensión material / estética**: el libro impreso frente a la pantalla («las distracciones están incorporadas en nuestros smartphones»); la tradición de la *rúbrica* medieval (tinta roja) aplicada al diseño; la familia como «iglesia doméstica» cuya cultura «se ha vuelto más litúrgica y orante».
+- **Salmodia y expansión del alma**: los santos se «anclaron en los Salmos»; esta oración «expande la vida interior».
+
 ## Ver también
 
 [[liturgia]], [[oración]], [[salterio]], [[clérigos]], [[oración_litúrgica]]
@@ -51,3 +66,4 @@ Para el canto en la liturgia de las horas se aplica el criterio de «solemnizaci
 
 - CIC cc. 1173-1175
 - CEC §1174-1178
+- Vogt, Brandon; Stevens, Michael. «Word on Fire's Liturgy of the Hours», entrevista en *Evangelization & Culture* 13 (Autumn 2022).

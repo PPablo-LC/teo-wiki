@@ -1,8 +1,8 @@
 ---
 type: Documento
 title: Evangelization & Culture
-description: "Trimestral del Word on Fire Institute (Bishop Robert Barron) con números sobre Creatividad, Economía, Era Digital, Cine, Escritura, Esperanza, sensibilidad católica, Humor, Poesía, Libertad, Postrimerías e Infancia"
-timestamp: 2026-08-29
+description: "Trimestral del Word on Fire Institute (Bishop Robert Barron) con números sobre Creatividad, Economía, Era Digital, Cine, Escritura, Esperanza, sensibilidad católica, Humor, Poesía, Libertad, Postrimerías, Infancia y Eucaristía"
+timestamp: 2026-08-30
 tags:
   - evangelización
   - cultura
@@ -16,7 +16,7 @@ tags:
 # Evangelization & Culture
 
 > Área: Teología pastoral / Evangelización
-> Última actualización: 2026-08-29
+> Última actualización: 2026-08-30
 
 ## Descripción
 
@@ -38,6 +38,7 @@ tags:
 | 10 | Issue 10 | Freedom | Winter 2021 | [[evangelization_and_culture_issue_10_freedom]] |
 | 11 | Issue 11 | The Four Last Things | Spring 2022 | [[evangelization_and_culture_issue_11_four_last_things]] |
 | 12 | Issue 12 | Childhood | Summer 2022 | [[evangelization_and_culture_issue_12_childhood]] |
+| 13 | Issue 13 | The Eucharist | Autumn 2022 | [[evangelization_and_culture_issue_13_eucharist]] |
 
 ## Temas centrales por número
 
@@ -251,6 +252,21 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - El arte de evangelizar al adolescente moderno: formación humana integral; redes sociales y salud mental (Angel)
 - Beato Carlo Acutis: ciberapóstol de la Eucaristía (Spotlight WoF)
 
+### Issue 13: The Eucharist (Autumn 2022)
+Para el desarrollo completo de este número, véase [[evangelization_and_culture_issue_13_eucharist]].
+- La Eucaristía como fuente y cumbre; Pew 2019 (solo 31% cree en la presencia real); cristificación (Barron)
+- La Hora Santa: Getsemaní, primer mandato; oración en el Santísimo (Becklo, Johnson)
+- La espiritualidad eucarística de Chesterton: agradecimiento, temor de Dios (Ahlquist)
+- La Eucaristía y la propia vida de fe: Scalia
+- Eucaristía y sanación: estar despiertos con Cristo, misión y etnias (Johnson)
+- Presencia real y transubstanciación: controversia intra-protestante, creación *ex nihilo*, Marburgo (Salkeld)
+- Persona eucarística: recordar, recibir, adorar, velar; hipermodernidad (O'Malley)
+- Viático: etimología Caronte, cruce del Jordán, comulgante como Arca (Whittington)
+- Milagros eucarísticos en una era científica: signos no pruebas (Nelson)
+- Babette's Feast y la Eucaristía (Petiprin); el genio de de Lubac (De Clue)
+- Adoración en el seno de las tensiones étnicas; ecumenismo contemplativo (Johnson)
+- Liturgia de las Horas y oración continua; la iglesia doméstica (Vogt/Stevens, Pihl)
+
 ## Autores destacados
 
 - Bishop Robert Barron (director, Word on Fire)
@@ -326,6 +342,16 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - Andrew Petiprin (teología y cultura popular)
 - Alexandra DeSanctis (educación, Santa Isabel Ana Seton)
 - Dana Gioia (poeta, poeta laureado de California)
+- Fr. Josh Johnson (pastor y director de vocaciones, diócesis de Baton Rouge)
+- Brett Salkeld (teólogo, apologista; transubstanciación y ecumenismo)
+- Timothy P. O'Malley (director académico del Notre Dame Center for Liturgy)
+- Richard De Clue (teología, Henri de Lubac)
+- Sr. Alicia Torres (Misioneras de la Inmaculada)
+- Gabe Pihl (teología, University of Maryland)
+- Fr. Richard T. Whittington (viático y Eucaristía)
+- Andrew Petiprin (teología y cultura)
+- Gloria Purvis (Lives: Beato Carlo Acutis)
+- Dr. Jason Stevens (Liturgia de las Horas)
 
 ## Relación con otras fuentes
 
@@ -349,3 +375,4 @@ Esta fuente complementa los artículos sobre [[evangelización]], [[evangelizaci
 - Evangelization & Culture, Issue 10 (2021) — Freedom
 - Evangelization & Culture, Issue 11 (2022) — The Four Last Things
 - Evangelization & Culture, Issue 12 (2022) — Childhood
+- Evangelization & Culture, Issue 13 (2022) — The Eucharist

@@ -2,7 +2,7 @@
 type: Persona
 title: Madre Teresa de Calcuta
 description: "Agnes Gonxha Bojaxhiu (1910-1997), fundadora de las Misioneras de la Caridad, Premio Nobel de la Paz 1979"
-timestamp: 2026-07-23
+timestamp: 2026-08-30
 tags:
   - persona
   - caridad
@@ -11,7 +11,7 @@ tags:
 ---
 
 > Área: Persona
-> Última actualización: 2026-07-23
+> Última actualización: 2026-08-30
 
 ## Contexto histórico
 
@@ -29,6 +29,14 @@ Barron subraya que Madre Teresa, junto con otros santos modernos como Maximilian
 
 > «La vida de un santo vale más que mil tratados teológicos» (WoF, L5)
 
+### Evangelization & Culture 13 (EAC-13)
+
+**La Hora Santa diaria de 1973 (Fr. Josh Johnson).** En «Sit with Him Awhile» (16_feature_salkeld) y en la experiencia de las Misioneras de la Caridad, Johnson narra cómo Madre Teresa instituyó en 1973 la **Hora Santa diaria** con el Santísimo: «El trabajo que tenemos que hacer es enorme… Pero desde el momento en que comenzamos a tener una hora de adoración cada día, el amor de Jesús se hizo más íntimo en nuestros corazones, nuestra caridad entre nosotros fue más comprensiva, el amor a los pobres fue más compasivo, y de este modo nuestras vocaciones se duplicaron». La Eucaristía como raíz de la caridad que se derrama hacia los pobres (ver [[hora_santa]], [[adoración_eucarística]]).
+
+**Ecumenismo contemplativo (Fr. Josh Johnson).** Su congregación acoge a voluntarios de todas las creencias (católicos, protestantes, judíos, musulmanes, hindúes, ateos) para servir a los pobres; cada noche invitan a todos a la Hora Santa ante el Santísimo en la capilla de la Casa Madre. Johnson cuenta el caso de un seminarista luterano cuyo corazón se transformó en la adoración hasta confesar la fe católica en la presencia real (ver [[ecumenismo]]).
+
+**Hospitalidad universal (Sr. Alicia Torres).** Torres recuerda haber estado a los pies de Madre Teresa en la Jornada Mundial de la Juventud de 1984, junto a san Juan Pablo II y Nuestra Señora de Akita, como consolaciones que le señalaron a Jesús en medio del duelo.
+
 ## Relaciones doctrinales
 
 - [[vocación_a_la_santidad]]: Madre Teresa es ejemplo paradigmático de la llamada universal a la santidad
@@ -43,8 +51,13 @@ Barron subraya que Madre Teresa, junto con otros santos modernos como Maximilian
 - [[óscar_romero]]
 - [[francisco_de_asís]]
 - [[teresa_de_jesús]]
+- [[hora_santa]]
+- [[adoración_eucarística]]
+- [[ecumenismo]]
 
 ## Referencias
 
 - WoF, Lección 5: "Los hombres indispensables" — §601-640
 - WoF, Lección 8: "Una multitud de testigos" — §§ sobre santos contemporáneos
+- Johnson, Fr. Josh. «Sit with Him Awhile» y «Adoration in the Midst of Ethnic Tensions», en *Evangelization & Culture* 13 (Autumn 2022).
+- Torres, Alicia. «The Sacred Heart of Home», en *Evangelization & Culture* 13 (Autumn 2022).

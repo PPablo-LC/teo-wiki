@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Ecumenismo
 tags: ["eclesiología"]
 
-timestamp: 2026-06-28
+timestamp: 2026-08-30
 description: "El ecumenismo es el movimiento impulsado por el Espíritu Santo que busca la restauración de la unidad visible entre todos los cristianos, según la voluntad de Cristo."
 ---
 # Ecumenismo
 
 > Área: Eclesiología
-> Última actualización: 2026-06-28
+> Última actualización: 2026-08-30
 
 ## Definición
 
@@ -77,6 +77,14 @@ Juan Pablo II expresa el esfuerzo por la reunificación según la oración de Cr
 
 **Ecumenismo que parte de la belleza.** Renacimiento ferviente de la poesía devotamente católica (Dappled Things, Presence: A Journal of Catholic Poetry, Catholic Poetry Room) con fenómeno espejo entre poetas protestantes, ortodoxos y no cristianos: terreno maduro para un ecumenismo «que parte de la belleza», construyendo puentes sin glosar diferencias.
 
+### Según Evangelization & Culture n.º 13 «The Eucharist» (EAC-13)
+
+**Disputa eucarística intra-protestante.** Brett Salkeld sostiene que el protestantismo no rechazó en bloque la presencia real: las primeras fracturas protestantes fueron precisamente sobre *cómo* está Cristo presente. Los reformadores suizos leyeron el «es» de «Esto es mi cuerpo» como «significa»; Lutero lo rechazó (firma sobre la mesa en el Coloquio de Marburgo) y escribió que prefería «estar de acuerdo con el Papa en que hay solo sangre» antes que «mero vino con los fanáticos». La posición católica resulta así «apreciablemente más cercana» a una de las dos partes del debate intra-protestante — analogía del debate Arminio vs. Calvino sobre providencia y libre albedrío.
+
+**Transubstanciación como «marcador de identidad» y promesa ecuménica.** En quinientos años la transubstanciación se convirtió en insignia tribal que los católicos afirman y los protestantes niegan «sin poder explicarla»; por eso los diálogos oficiales la eluden, aunque aceptan que la Iglesia siempre sostuvo la presencia real. Salkeld propone que, entendida en su contexto tomista originario —presencia sacramental «más real que lo meramente físico»—, la transubstanciación describe exactamente la división actual y podría ser una promesa ecuménica más que un lastre: «es ampliamente aceptado que la transubstanciación rechazada en la época de la Reforma no era la transubstanciación de Santo Tomás». Una visión meramente simbólica de la Eucaristía es, en palabras de George Hunsinger (protestante), «pelagianismo litúrgico».
+
+**Ecumenismo de la adoración y de la belleza.** Fr. Josh Johnson narra el ecumenismo contemplativo de las Misioneras de la Caridad: voluntarios no católicos (un seminarista luterano) adoran ante el Santísimo y son transformados — el seminarista acaba confesando la fe católica en la presencia real. Zimmerer, por su parte, vincula el conocimiento de los hermanos separados con la comunión eclesial y la comunicación del amor cristiano sin ocultar las diferencias doctrinales.
+
 ## Distinciones importantes
 
 - **Ecumenismo espiritual**: oración, conversión y santidad como alma del movimiento ecuménico.
@@ -97,3 +105,4 @@ El ecumenismo se conecta con la [[iglesia_cuerpo_místico]] (unidad del Cuerpo d
 - [CEC §§813-822; §§1398-1401]
 - [Concilio Vaticano II, Unitatis Redintegratio]
 - [D‑2199]
+- Salkeld, Brett; Johnson, Fr. Josh; Zimmerer, Jared. Artículos en *Evangelization & Culture* 13 (Autumn 2022).

@@ -3,13 +3,13 @@ type: Persona
 title: Santa Faustina Kowalska
 tags: ["espiritualidad", "mística"]
 
-timestamp: 2026-06-18
+timestamp: 2026-08-30
 description: "**Santa María Faustina Kowalska** (1905-1938), religiosa polaca de la Congregación de las Hermanas de la Madre Misericordiosa."
 ---
 # Santa Faustina Kowalska
 
 > Área: Espiritualidad / Mística
-> Última actualización: 2026-06-18
+> Última actualización: 2026-08-30
 
 ## Identificación
 
@@ -47,6 +47,10 @@ El patrimonio espiritual de Santa Faustina «tuvo una gran importancia para la r
 
 DM presenta la misericordia divina como el núcleo del mensaje mesiánico de Cristo, en continuidad con la revelación de Santa Faustina. «Cristo no sólo habla de ella y la explica usando semejanzas y parábolas, sino que además, y ante todo, él mismo la encarna y personifica» [DM §2].
 
+### Según Evangelization & Culture n.º 13 «The Eucharist» (EAC-13)
+
+En el análisis de *Babette's Feast* (Andrew Petiprin), Santa Faustina es citada para expresar la fuente de la gracia eucarística: «El valor y la fuerza que están en mí no son míos, sino de Aquel que vive en mí — es la Eucaristía» (07_film). La cita enlaza la espiritualidad de la Divina Misericordia con la Eucaristía como presencia que sostiene y actúa en el alma.
+
 ## Relaciones doctrinales
 
 Santa Faustina se relaciona con la [[misericordia_divina]], la [[misericordia]], la [[divina_misericordia]], la [[conversión]], la [[penitencia]], la [[dies_irae]] y el [[misterio_pascual]].
@@ -60,3 +64,4 @@ Santa Faustina se relaciona con la [[misericordia_divina]], la [[misericordia]],
 - [MI, cap. 2, 10]
 - [DM §1–15]
 - Diario de Santa Faustina Kowalska
+- Petiprin, Andrew. «Of Babette's Feast», en *Evangelization & Culture* 13 (Autumn 2022).

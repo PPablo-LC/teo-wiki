@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Presencia Real
 tags: ["eucaristía"]
 
-timestamp: 2026-06-15
+timestamp: 2026-08-30
 description: "Presencia verdadera, real y substancial de Jesucristo —Dios y hombre verdadero— en el sacramento de la Eucaristía, bajo las especies del pan y del vino consagrados."
 ---
 # Presencia Real
 
 > Área: Eucaristía
-> Última actualización: 2026-06-15
+> Última actualización: 2026-08-30
 
 ## Definición
 
@@ -65,12 +65,34 @@ La *Redemptor Hominis* enseña que la Eucaristía es «al mismo tiempo Sacrament
 
 Juan Pablo II, citando a Pablo VI, recuerda que la Eucaristía contiene al mismo Cristo realmente presente, razón por la cual exige un culto de latría y la observancia rigurosa de las normas litúrgicas [RH §20].
 
+### Según Evangelization & Culture n.º 13 «The Eucharist» (EAC-13)
+
+Brett Salkeld («What is the Catholic Teaching on Christ's Eucharistic Presence?») ofrece una historia y un marco ecuménico de la presencia real:
+
+- **Controversia intra-protestante sobre «Esto es mi cuerpo»**: los reformadores suizos leyeron el «es» como «significa»; Lutero lo rechazó (firma sobre la mesa en el Coloquio de Marburgo). Lutero escribió que prefería «estar de acuerdo con el Papa en que hay solo sangre» antes que «mero vino con los fanáticos». La posición católica es «apreciablemente más cercana» a una de las partes del debate intra-protestante.
+- **Falso dilema real vs. simbólico**: las categorías «real» y «simbólico» son ajenas a los Padres. En la cosmovisión platónica, «los símbolos participan de la realidad que representan»; preguntados si Cristo está real o simbólicamente, los Padres habrían respondido «Sí». Los *prooftexts* realistas y simbolistas modernos son un anacronismo.
+- **Berengario de Tours (s. XI)** provocó —como las controversias cristológicas que produjeron el Credo— un desarrollo del lenguaje clarificador en un nuevo contexto cultural y filosófico.
+- **La transubstanciación tomista**: para Santo Tomás «la mejor analogía del cambio de sustancia era el acto de creación mismo, el propio dar del ser». El pan eucarístico «hizo lo que el pan fue siempre creado para hacer — ser incorporado a un cuerpo»; «Dios no destruye y reemplaza; Dios redime y glorifica».
+- **Malentendido reformador**: «es ampliamente aceptado que la transubstanciación rechazada en la época de la Reforma no era la transubstanciación de Santo Tomás»; los *Thirty-nine Articles* anglicanos la acusaban de derrocar la naturaleza del sacramento.
+- **Promesa ecuménica**: una eucaristía meramente simbólica haría de la acción central del culto «lo que nosotros hacemos en lugar de lo que Dios ha hecho y está haciendo» — «pelagianismo litúrgico» (George Hunsinger).
+
+Bishop Robert Barron («If It's a Symbol, to Hell with It»), desde el exabrupto de Flannery O'Connor, defiende la presencia real:
+
+- **Presencia «real, verdadera y sustancial»** (fórmula del Vaticano II y Trento); en los demás sacramentos opera la *virtus* de Cristo, pero en el altar está *ipse Christus* (SmTh 3.62.5; 3.73.5): «la presencia real es el pegamento que mantiene juntos comida y sacrificio».
+- **Realismo joánico**: el discurso del pan de vida (Juan 6) emplea el verbo *trogein* («roer, masticar»), no *phagein*, subrayando el realismo intencionado; «mi carne es verdadera comida y mi sangre verdadera bebida» (Jn 6,55). Las prohibiciones veterotestamentarias de sangre (Gn 9,3-4; Lv 3,17; Dt 12,23) agravan la ofensa de las palabras de Jesús, que pudo espiritualizar (contraste con Nicodemo, Jn 3,3-5) y no lo hizo.
+- **Punto de inflexión (*fulcrum*)**: la queja «esta doctrina es dura» (Jn 6,60) prueba que los discípulos entendieron literalmente; Jesús perdió a muchos (Jn 6,66) y la confesión petrina (Jn 6,68-69) quedó ligada a la fe eucarística: «la Iglesia se ha dividido precisamente sobre esta cuestión de la presencia real».
+- **Modo de la presencia (SmTh 3.75 a.1)**: el verdadero Cuerpo y Sangre no es perceptible por los sentidos, sino solo por la fe en la autoridad divina (*Adoro Te Devote*). El cuerpo de Cristo puede estar simultáneamente en muchos lugares según la *especie sacramental* sin contradicción; uno no «carrea» ni «encarcela» a Jesús en el sagrario, sino que «cruje los accidentes del pan», no el cuerpo de Cristo.
+- **Escatología de la presencia**: los elementos no son aniquilados sino transfigurados, «puros signos de la presencia de Cristo» (Ratzinger), prolepsis de la recapitulación cósmica (1 Cor 15,28; Ef 4,13).
+
+Según Timothy O'Malley («Eucharistic Personhood»), la presencia real «no compite con otras presencias» y forma al receptor a buscar «la presencia oculta del Señor en las víctimas de la historia» (con Flannery O'Connor y 1 Cor 15,28: Dios «todo en todo»): «Dios es el fundamento de la realidad, y así algo es realmente real si es lo que Dios hace que sea».
+
 ## Distinciones importantes
 
 - Presencia real no es solo presencia simbólica ni espiritual
 - La transubstanciación difiere de la consubstanciación (luterana) y del simbolismo (zwingliano)
 - Las especies sacramentales conservan las propiedades físicas del pan y del vino (accidentes)
 - Cristo está presente entero en cada especie y en cada parte de ella
+- Presencia en *especie propia* vs. *especie sacramental* (posibilidad de ubicuidad sacramental sin contradicción)
 
 ## Relaciones doctrinales
 
@@ -82,3 +104,6 @@ Juan Pablo II, citando a Pablo VI, recuerda que la Eucaristía contiene al mismo
 - TPCr, Parte III, Libro II, Cap. I
 - PS §10
 - Concilio de Trento, Sesión XIII
+- Salkeld, Brett. «What is the Catholic Teaching on Christ's Eucharistic Presence?», en *Evangelization & Culture* 13 (Autumn 2022).
+- Barron, Robert. «If It's a Symbol, to Hell with It: Bishop Barron on the Eucharist», en *Evangelization & Culture* 13 (Autumn 2022).
+- O'Malley, Timothy P. «Eucharistic Personhood», en *Evangelization & Culture* 13 (Autumn 2022).

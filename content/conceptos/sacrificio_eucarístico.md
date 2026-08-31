@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Sacrificio eucarístico
 tags: ["sacramental", "dogmática"]
 
-timestamp: 2026-06-15
+timestamp: 2026-08-30
 description: "El sacrificio eucarístico es la actualización incruenta del único sacrificio de Cristo en la cruz, realizada en la Misa por el ministerio del sacerdote."
 ---
 # Sacrificio eucarístico
 
 > Área: Sacramental / Dogmática
-> Última actualización: 2026-06-15
+> Última actualización: 2026-08-30
 
 ## Definición
 
@@ -47,12 +47,19 @@ Santo Tomás desarrolla la dimensión sacrificial de la eucaristía en las cuest
 
 **Inmolación de Cristo en la misa (Q83 a.1):** En la misa, Cristo es inmolado de modo incruento. Aunque murió una sola vez en la cruz, en cada misa se actualiza sacramentalmente su muerte. La inmolación consiste en la consagración separada del Cuerpo y de la Sangre, que representa la muerte del Señor.
 
+### Según Evangelization & Culture n.º 13 «The Eucharist» (EAC-13)
+
+**Timothy O'Malley («Eucharistic Personhood»)** presenta, siguiendo a Ratzinger (*Spirit of the Liturgy*), el sacrificio eucarístico como **divinización**, no destrucción: el mundo deviene «espacio definido por el don de amor». Esta lectura concuerda con la transubstanciación tomista, que no aniquila el pan y el vino sino que los incorpora al Cuerpo de Cristo («Dios no destruye y reemplaza; Dios redime y glorifica»).
+
+**Brett Salkeld (cola del Academic Feature)** señala que el sacrificio eucarístico puede ser afirmación de lo que católicos y protestantes comparten: la primacía de la cruz. La mera visión simbólica hace de la Eucaristía «lo que nosotros hacemos en lugar de lo que Dios ha hecho y está haciendo», es decir, un «pelagianismo litúrgico» (George Hunsinger); la posición católica sobre el sacrificio re-presentado se acerca a una de las partes del debate intra-protestante.
+
 ## Distinciones importantes
 
 - El sacrificio de la Misa es el mismo que el de la cruz, pero ofrecido de modo incruento
 - Es memorial (actualiza el pasado), sacrificio (presente) y banquete (anticipa la gloria futura)
 - Solo el sacerdote ordenado puede ofrecer el sacrificio eucarístico
 - Tiene carácter propiciatorio: se ofrece por vivos y difuntos
+- Sacrificio como divinización (Ratzinger) frente a lectura meramente destructiva o aniquiladora
 
 ## Relaciones doctrinales
 
@@ -70,3 +77,5 @@ Se relaciona con [[eucaristía]], [[misa]], [[sacrificio]], [[cruz]], [[redenci�
 
 - CEC §1323-1372, §1382-1414
 - TPCr, Tercera Parte, Libro II, Cap. I
+- O'Malley, Timothy P.; Salkeld, Brett. Artículos en *Evangelization & Culture* 13 (Autumn 2022).
+- Ratzinger, Joseph. *Spirit of the Liturgy*.

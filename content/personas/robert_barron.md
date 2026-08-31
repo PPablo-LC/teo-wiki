@@ -2,13 +2,13 @@
 type: Persona
 title: Robert Barron
 tags: ["obispos", "teólogos", "comunicadores", "fundadores"]
-timestamp: 2026-08-24
+timestamp: 2026-08-30
 description: "Bishop Robert Barron (b. 1959), arzobispo católico estadounidense, fundador de Word on Fire y del Word on Fire Institute."
 ---
 # Robert Barron
 
 > Área: Obispos / Comunicadores
-> Última actualización: 2026-08-24
+> Última actualización: 2026-08-30
 
 ## Biografía
 
@@ -56,6 +56,14 @@ Barron es autor de dos piezas centrales del número dedicado a la economía.
 
 **Ensayo sobre doctrina social y economía de mercado.** Fundamenta por qué la Iglesia debe hablar de economía (Dios como *ipsum esse* que impregna toda la realidad; Ap 21,22: en la Jerusalén celestial no hay templo porque toda la ciudad es templo de alabanza) y recorre la genealogía magisterial desde la *Rerum Novarum*, recomendando la *Centesimus Annus* como mejor síntesis de la doctrina social. Expone tres dimensiones positivas del mercado (propiedad privada con sus cuatro razones, emprendimiento, lucro) y tres cautelas (el bien común como límite del uso de la propiedad; la intervención estatal legítima pero limitada —como el árbitro en el baloncesto—; la inscripción del mercado en una cultura de la vida con valores morales firmes) [EAC-2, 15_cst_market_economy]. Ver [[economía_de_mercado]], [[propiedad_privada]], [[doctrina_social_de_la_iglesia]].
 
+### Según Evangelization & Culture n.º 13 «The Eucharist» (EAC-13)
+
+Barron es el autor de la carta editorial del número y del extracto de su libro *Eucharist* (Word on Fire, 2021).
+
+**Carta editorial (From the Desk).** Sitúa la Eucaristía como «la fuente y la cumbre de la vida cristiana… el Alfa y la Omega» de la fe católica, de la que «fluye el cristianismo auténtico y hacia la que tiende». Advierte del dato del Pew 2019: solo el 31% de los católicos cree en la presencia real; el 69% dice que Jesús solo está simbólicamente presente. Por eso «si nuestra teología eucarística falla, todo el proyecto cristiano se descarrila». Introduce la tesis de la **cristificación**: citando a Feuerbach («eres lo que comes»), afirma: «si la Eucaristía es Cristo mismo, entonces somos *cristificados* por ella» (ver [[cristificación]]).
+
+**Extracto de *Eucharist* (If It's a Symbol, to Hell with It).** Desde el exabrupto de Flannery O'Connor, defiende la presencia real: el realismo de Juan 6 (*trogein*), la confesión petrina ligada a la fe eucarística, la distinción entre la *virtus* de Cristo en los demás sacramentos y *ipse Christus* en el altar, el modo de la presencia según la *especie sacramental* (SmTh 3.75 a.1), la transubstanciación (sustancia/accidente), los efectos de la comunión (gracia, remisión de veniales, deleitación como anticipo del banquete celestial) y la escatología de la presencia transfigurada. En la sección «Here We Have No Lasting City» (ver [[cristificación]]) subraya que la Eucaristía «cristifica y por tanto eterniza» (Padres), con la paradoja de que quien se eterniza es más efectivo y feliz aquí (Chesterton, Dorothy Day).
+
 ## Ver también
 
 [[evangelización]], [[nueva_evangelización]], [[evangelización_digital]], [[Word_on_Fire_Institute]]
@@ -65,4 +73,6 @@ Barron es autor de dos piezas centrales del número dedicado a la economía.
 - EAC-3, 01_from_the_desk.md
 - WoF-1, 01_welcome_letter.md
 - WoF-2, 01_from_the_desk.md
+- EAC-13, 01_from_the_desk.md y 18_spotlight_barron.md
+- Barron, Robert. *Eucharist* (Word on Fire Institute, 2021).
 - Word on Fire website

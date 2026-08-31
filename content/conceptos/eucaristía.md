@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Eucaristía
 tags: ["sacramental"]
 
-timestamp: 2026-08-09
+timestamp: 2026-08-30
 description: "La eucaristía es el sacramento y sacrificio del Cuerpo y Sangre de Nuestro Señor Jesucristo, realmente, verdadera y sustancialmente presente bajo las especies de pan y vino."
 ---
 # Eucaristía
 
 > Área: Sacramental
-> Última actualización: 2026-08-09
+> Última actualización: 2026-08-30
 
 ## Definición
 
@@ -389,6 +389,24 @@ El Feature central de Nicholas Healy Jr. («The Eucharist and the Beatific Visio
 - **Solidaridad escatológica**: Cabasilas: la Eucaristía es «la meta última de todo deseo humano»; Thérèse quiere «pasar su cielo haciendo bien en la tierra»: los bienaventurados participan más perfectamente en la misión continua de Cristo.
 - **Escatología litúrgica de Ratzinger** (Millare): «cada Eucaristía es Parusía»; la liturgia anticipa el escatón sin imanentizarlo: «tensada expectativa de que revele su Gloria oculta»; una Eucaristía sin caridad concreta está «intrínsecamente fragmentada» (*Deus Caritas Est* 14). Véase [[imanentización_del_escatón]].
 
+### Según Evangelization & Culture n.º 13 «The Eucharist» (EAC-13)
+
+El número 13 de *Evangelization & Culture* está dedicado íntegramente a la Eucaristía, en el marco del *National Eucharistic Revival* de EE.UU. Barron abre el número con la alarmante cifra del Pew 2019: solo el 31% de los católicos cree en la presencia real; el 69% dice que Jesús está solo simbólicamente presente. La Eucaristía es «la fuente y la cumbre de la vida cristiana… el Alfa y la Omega» de la fe católica; si la teología eucarística falla, «todo el proyecto cristiano se descarrila».
+
+**Presencia real y transubstanciación (Barron, Salkeld, O'Malley):** véase [[presencia_real]] y [[transubstanciación]]. Barron defiende el realismo joánico (*trogein* en Juan 6), la confesión petrina ligada a la fe eucarística, el modo de la presencia según la *especie sacramental*, y el efecto de la Eucaristía: causa gracia, remite los pecados veniales (SmTh 3.79 a.4) y deleita como anticipo del banquete celestial; no debe recibirse en pecado mortal (1 Cor 11,29). El Papa Urbano IV (1264, bula *Transiturus*) instauró la fiesta del Corpus Christi y encargó a Santo Tomás sus himnos eucarísticos.
+
+**Eucaristía y cristificación (Barron):** véase [[cristificación]]. La Eucaristía «cristifica y por tanto eterniza» (Padres); quien la recibe se configura con Cristo hasta poder decir «ya no vivo yo, es Cristo quien vive en mí» (Gal 2,20); Dorothy Day es presentada como modelo de activismo social brotado de la devoción eucarística.
+
+**Persona eucarística (O'Malley):** véase [[persona_eucarística]]. La reforma litúrgica (SC 2) buscaba formar personas capaces de recordar, recibir, adorar y velar, creando una cultura eucarística frente a la hipermodernidad (Hervieu-Léger, MacIntyre, Pieper).
+
+**Adoración, hora santa y misión (Worner, Becklo, Johnson):** véase [[adoración_eucarística]] y [[hora_santa]]. La adoración es el primer mandato (Getsemaní, Mt 26,36-38) y fundamento de la misión universal (Mt 28,19); la hora santa diaria de Madre Teresa duplicó las vocaciones.
+
+**Eucaristía y sanación de la identidad (Torres):** la verdadera sanación es «ser transformados en otro Cristo»; la certeza de ser «hijos amados del Padre» recibida en la Eucaristía purifica y profundiza los vínculos humanos. El «milagro de Navidad» de Santa Teresita ilustra cómo la comunión con Jesús eucarístico capacita para «ser su presencia» para el prójimo.
+
+**Viático (Whittington):** véase [[viático]]. La Eucaristía como alimento para el paso de la muerte: la etimología pagana del *viaticum* (el óbolo de Caronte) es «reescrita» por la economía de la gracia; el comulgante se vuelve imagen del Arca, como María al encarnar al Verbo; Cristo es el Nuevo Moisés/Josué en el cruce del Jordán.
+
+**Corrientes diversas:** cosmovisión sacramental en *Babette's Feast* (Petiprin) — «Babette simplemente vive una cosmovisión sacramental»; liturgia de las horas como oración pública de Cristo con su Cuerpo (SC 84) en la iniciativa editorial de Word on Fire (Vogt/Stevens); teología sacramental como punto de partida de la dogmática en José Granados — «el cristianismo del futuro será sacramental o no será cristiano»; la Eucaristía como raíz de la Iglesia en Henri de Lubac y la *ressourcement* (De Clue); milagros eucarísticos como signos en un mundo científico (Nelson) y en la compilación del beato Carlo Acutis (Bulman).
+
 ## Analizado para
 
 - [[ali_ghaffari_courage]]
@@ -413,6 +431,11 @@ El Feature central de Nicholas Healy Jr. («The Eucharist and the Beatific Visio
 - [[viático]]
 - [[visión_beatífica]]
 - [[evangelization_and_culture_issue_11_four_last_things]]
+- [[evangelization_and_culture_issue_13_eucharist]]
+- [[persona_eucarística]]
+- [[cristificación]]
+- [[milagros_eucarísticos]]
+- [[hora_santa]]
 
 ## Referencias
 
@@ -436,3 +459,4 @@ El Feature central de Nicholas Healy Jr. («The Eucharist and the Beatific Visio
 - [JdN_I, cap. 4]
 - Ele_Xto_Stos, Cap. III, §4b
 - Healy Jr., Nicholas J.; Millare, Roland. Artículos en *Evangelization & Culture* 11 (Spring 2022).
+- Barron, Robert; Salkeld, Brett; O'Malley, Timothy P.; Worner, Tod; Becklo, Matthew; Johnson, Fr. Josh; Torres, Sr. Alicia; Whittington, Fr. Richard T.; Granados, José; De Clue, Richard; Nelson, Dr. Matt; Bulman, Rachel; Petiprin, Andrew. Artículos en *Evangelization & Culture* 13 (Autumn 2022).

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Adoración eucarística
 tags: ["dogmática_—_litúrgica"]
 
-timestamp: 2026-08-09
+timestamp: 2026-08-30
 description: "Culto de latría dirigido a Jesucristo realmente presente en la Sagrada Eucaristía bajo las especies del pan y del vino."
 ---
 # Adoración eucarística
 
 > Área: Dogmática — Litúrgica
-> Última actualización: 2026-08-09
+> Última actualización: 2026-08-30
 
 ## Definición
 
@@ -69,11 +69,22 @@ El Papa advierte que la Eucaristía «no puede ser tratada sólo como una 'ocasi
 
 En el elemento del altar y el sagrario, León XIV pide «hombres adoradores, hombres de profunda oración, y enseñad a vuestro pueblo a hacer lo mismo». Munilla desarrolla esta exigencia: «estamos llamados a ser primero adoradores y después administradores». «Si no hay sagrario, si no hay vida interior, todo se vuelve autorreferencial, todo es fugaz y provisional.» La adoración ante el sagrario es el descanso del sacerdote: la pregunta clave es «¿en dónde tengo yo mi descanso?» —«si un día no me encuentran, ¿por dónde empiezan a buscarme?»—, porque la Eucaristía debe ser el descanso, a imagen del discípulo amado que reclina su cabeza en el costado de Cristo. La adoración precede y sostiene la administración: sin ella, la celebración se degrada a un «rito ante un público» [CIS, 2026].
 
+### Según Evangelization & Culture n.º 13 «The Eucharist» (EAC-13)
+
+**Tod Worner (Midnight Oil)** desarrolla la adoración unida al silencio: ante el Santísimo «a veces simplemente me siento mirando a Jesús... y Jesús me devuelve la mirada». La presencia silenciosa del Señor es donde «se plantean las preguntas reales de la vida» (Cardenal Sarah); Job, Pedro tras la negación y María ante el cuerpo muerto de Jesús son figuras de esa mirada silenciosa — Dios mira y espera. No se debe confundir el silencio de Dios con inacción: «las cosas grandes se logran en el silencio» (Guardini). La adoración es la disciplina que impide «domesticar» el misterio eucarístico y reducirlo a símbolo.
+
+**Matthew Becklo (The Holy Hour Revival)** presenta la hora santa como un «revival» contemporáneo: la adoración eucarística como respuesta a un mundo desacralizado y a la necesidad de recuperar la contemplación ante el Santísimo en el marco del National Eucharistic Revival (EE.UU.).
+
+**Fr. Josh Johnson (Making Disciples of All Ethnicities)** presenta la adoración como *fundamento de la misión*: el «primer mandato» que Jesús dio a los Apóstoles tras la Última Cena no fue enseñar, predicar ni hacer discípulos, sino invitarlos a «sentarse y quedarse despiertos conmigo» en Getsemaní (Mt 26,36-38). De ese «holy huddle» orante brotó Pentecostés (Hch 2) y, con él, la misión universal (Mt 28,19; *ethnos*). Nadie puede sentarse ante el Cuerpo, Sangre, Alma y Divinidad de Cristo «sin ser transformado»: «informará nuestras mentes con su lógica, conformará nuestros corazones a sus deseos y transformará nuestras vidas para entregarlas a sus planes». La hora santa diaria que Madre Teresa instauró en las Misioneras de la Caridad (1973) duplicó las vocaciones. La adoración es hospitalaria de modo universal: «cualquiera y todos son bienvenidos», sin necesidad de catequesis previa, y en ella el ecumenismo se vive contemplativamente (el seminarista luterano que increpa la Hostia y acaba confesando la presencia real).
+
+**Sr. Alicia Torres (The Sacrament of Restored Identity)** une la adoración a la sanación de la identidad: al abrir el sagrario uno se encuentra con Cristo como Tomás tocando el costado: «¡Señor mío y Dios mío!» (Jn 20). De la presencia eucarística se recibe la certeza de ser «hijos amados del Padre», lo que purifica y profundiza los lazos humanos.
+
 ## Distinciones importantes
 
 - **Adoración eucarística vs. comunión**: una es culto de presencia, la otra es recepción sacramental
 - **Presencia real vs. presencia simbólica**: la presencia de Cristo en la Eucaristía es verdadera, real y substancial, no meramente simbólica o figurada
 - **Culto a la Eucaristía vs. culto a las imágenes**: la Eucaristía contiene al mismo Cristo realmente presente; las imágenes representan a Cristo o los santos
+- **Adoración como fundamento previo a la misión**: el «primer mandato» de Jesús fue sentarse y velar con Él (Getsemaní), antes que la gran comisión (Mt 28,19) — Fr. Josh Johnson
 
 ## Relaciones doctrinales
 
@@ -93,3 +104,4 @@ La adoración eucarística es expresión máxima de la [[virtud_de_la_religión]
 - [TPCr, Parte III, Libro II, Cap. I, Art. 5]
 - [DC-Convivium, 09.02.2026]
 - [CIS, «La catedral interior del sacerdote», 2026]
+- Worner, Tod; Becklo, Matthew; Johnson, Fr. Josh; Torres, Sr. Alicia. Artículos en *Evangelization & Culture* 13 (Autumn 2022).

@@ -2,7 +2,7 @@
 type: Persona
 title: Flannery O'Connor
 description: "Escritora católica estadounidense (1925-1964), conocida por sus cuentos y novelas que exploran la gracia, el pecado y lo grotesco en el Sur de EE.UU."
-timestamp: 2026-08-24
+timestamp: 2026-08-30
 tags:
   - literatura
   - arte
@@ -14,7 +14,7 @@ tags:
 # Flannery O'Connor
 
 > Área: Literatura / Teología pastoral
-> Última actualización: 2026-08-24
+> Última actualización: 2026-08-30
 
 ## Definición
 
@@ -50,6 +50,12 @@ Esta cita encapsula la convicción de O'Connor —y de Barron— de que la belle
 
 **Reforma de la Iglesia desde dentro.** Desconfiada de la piedad superficial, no dudaba en criticar presentaciones vacías de la fe: «Lo nuestro es intentar cambiar los defectos externos de la Iglesia —la vulgaridad, la falta de erudición, la falta de honestidad intelectual— dondequiera que los encontremos y como podamos». Y sobre sobrellevar sus crisis: «Es de la naturaleza de la Iglesia sobrevivir a todas las crisis —por muy malparada que salga—»; «La Iglesia está fundada sobre Pedro, que negó a Cristo tres veces y no pudo caminar sobre las aguas por sí mismo». Resumía su experiencia: «Hay que sufrir tanto por la Iglesia como por ella», permaneciendo siempre hija fiel.
 
+### Según Evangelization & Culture n.º 13 «The Eucharist» (EAC-13)
+
+**«If it's a symbol, to hell with it» (Barron).** En el extracto de *Eucharist* (18_spotlight_barron), el título retoma el célebre exabrupto de O'Connor durante una comida: cuando un hombre comentó que la Eucaristía era «un símbolo muy bueno», ella respondió «si es un símbolo, al diablo con él» (*if it's a symbol, to hell with it*). Barron lo usa como epígrafe de su defensa de la presencia real: la fe católica no se contenta con un mero símbolo, sino que afirma que Cristo está *realmente* presente.
+
+**Presencia oculta en las víctimas (O'Malley).** Timothy O'Malley («Eucharistic Personhood») cita a O'Connor (relato «A Temple of the Holy Spirit») para enseñar que la persona eucarística aprende a buscar «la presencia oculta del Señor en las víctimas de la historia»: la misma presencia real que se adora en el sagrario debe reconocerse en los crucificados del mundo, allí donde Dios, incluso en medio de la violencia, se está convirtiendo en nuestro «todo en todos» (1 Cor 15,28) (ver [[persona_eucarística]]).
+
 ## Distinciones importantes
 
 - **Lo grotesco como revelación:** O'Connor utiliza personajes excéntricos, violentos e incluso repulsivos para mostrar la acción de la gracia. No busca la belleza convencional sino la verdad teológica.
@@ -79,3 +85,5 @@ Esta cita encapsula la convicción de O'Connor —y de Barron— de que la belle
 - Cush, John P. "Theology as an Eight-Part Symphony." *Evangelization & Culture*, No. 7, Spring 2021.
 - Becklo, Matthew. "Film: Amadeus." *Evangelization & Culture*, No. 7, Spring 2021.
 - Ferenza, Damian. "Letters from a Hillbilly Thomist." *Evangelization & Culture*, No. 1 (2019); [EAC-1, archivos 07 y 20].
+- Barron, Robert. "If It's a Symbol, to Hell with It", en *Evangelization & Culture* 13 (Autumn 2022); *Eucharist* (Word on Fire, 2021).
+- O'Malley, Timothy. "Eucharistic Personhood", en *Evangelization & Culture* 13 (Autumn 2022).
