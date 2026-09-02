@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "Introduction"
 fuente: Writings_of_Saint_Francis_of_Assisi
 capítulo: 1
-timestamp: 2026-08-24
+timestamp: 2026-08-31
 description: "Resumen de 'Introduction' — Writings_of_Saint_Francis_of_Assisi"
 tags: ["resumen", "writings of saint francis of assisi"]
 ---
@@ -12,45 +12,40 @@ tags: ["resumen", "writings of saint francis of assisi"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[san_francis_de_asis]] — Autor de los escritos; su personalidad mística y humana
+- [[vía_mística]] — Los escritos reflejan la unión entre lo sobrenatural y lo natural
+- [[ascética_franciscana]] — Tradición literaria que nace de los escritos del Fundador
+- [[sagrada_escritura]] — Base doctrinal de la enseñanza franciscana (Sermón de la Montaña)
+- [[regla_de_los_frailes_menores]] — Primeras legislaciones de San Francisco
+- [[canonización]] — Proceso de autenticidad y edición crítica de los escritos
+- [[ediciones_críticas]] — Edición de Quaracchi (1904) como primera edición científica
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
 📄 **Fuente original:** `00_introduction.md`
 
+### Sección I: Valor de los escritos de San Francisco
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+Los escritos de San Francisco de Asís reflejan fielmente su personalidad y espíritu: son a la vez profundamente místicos y exquisitamente humanos, combinando gran elevación de pensamiento con expresión pintoresca. Esta doble cualidad se desarrolló después en místicos como [[san_buenaventura]] y poetas como Jacopone da Todi. San Francisco tenía alma de asceta y corazón de poeta; su fe ilimitada tenía una dulzura casi lírica, y su profundo sentido de lo espiritual se revestía con frecuencia de romanticismo.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Introduction |
-| 35 | H3 | Printed Editions |
-| 39 | H3 | Wadding’s Edition |
-| 53 | H3 | First Critical Edition |
+En cuanto al aspecto doctrinal, la enseñanza de San Francisco es esencialmente una paráfrasis del Sermón de la Montaña. No contiene ningún mensaje nuevo; simplemente insiste en verdades eternas muy antiguas y familiares, repetidas con insistencia según las necesidades de los distintos destinatarios. Sus escritos se agrupan en tres categorías: aquellos en que San Francisco aparece como legislador (como las Reglas), los que lo muestran como padre espiritual (como la Carta a un Ministro), y aquellos en que se le ve como orador (como las Alabanzas y Salutaciones).
 
+Desde el punto de vista literario, San Francisco era un escritor modesto. Su formación incluyó instrucción elemental de los sacerdotes de San Giorgio, conocimiento del francés por su madre, y la influencia de los trovadores italianos del siglo XII. Era original: sus escritos abundaban en alegoría, personificación y conceptos singulares. Su método de composición era fragmentario, escribiendo según el espíritu lo movía, lo que explica las modificaciones y adiciones a lo largo del tiempo. El *Cántico de las Criaturas* es ejemplo de la rima umbriana espontánea que enseñó a sus seguidores poetas.
 
-## Secciones incluidas
+### Sección II: Historia de los escritos
 
-## Printed Editions
+La historia de los escritos desde el siglo XIII hasta la época moderna presenta dos familias de manuscritos que reflejan la doble tradición franciscana. La primera colección, representada por el manuscrito 338 de Assisi (comienzos del siglo XIV), contiene once de las diecinueve obras. La segunda familia, representada por el códice de Ognissanti y otros, difiere en detalles como la inclusión de la Carta a cierto Ministro y la omisión de la Instrucción sobre la Eucaristía.
 
-[Contenido de esta sección...]
+### Printed Editions
 
-## Wadding’s Edition
+Las primeras compilaciones impresas aparecieron a principios del siglo XVI: el *Speculum Vitae* y el *Speculum Minorum* / *Firmamenta Trium Ordinum*. Estas ediciones eran incompletas y a menudo inexactas.
 
-[Contenido de esta sección...]
+### Wadding's Edition
 
-## First Critical Edition
+Father Luke Wadding realizó el primer intento serio de recopilar todos los escritos. Su edición incluyó muchos *dicta* de las Leyendas junto con los escritos auténticos, lo que la vicia por investigación imperfecta. Sin embargo, su trabajo fue meritorio considerando las dificultades de la época.
 
-[Contenido de esta sección...]
+### First Critical Edition
+
+La primera edición crítica fue publicada en 1904 por los Frailes Menores de Quaracchi. Basada en la tradición manuscrita temprana, redujo las diecisiete cartas atribuidas a San Francisco a solo seis, eliminó las Reglas de la Segunda y Tercera Órdenes, y purgó el texto de muchas piezas dudosas y apócrifas. Los escritos auténticos que quedan son: las Admoniciones, la Salutación de las Virtudes, la Instrucción sobre el Santísimo Sacramento, la Primera y Segunda Regla de los Frailes Menores, el Testamento, la Reglamentación de los Eremitorios, fragmentos de la Regla de las Clarisas, seis Cartas, las Alabanzas de Dios, la Salutación a la Virgen, la *Chartula* con las *Laudes* y la Bendición para Hermano León, la oración *Absorbeat* y la Oficina de la Pasión.
+
+El traductor, Fr. Paschal Robinson, O.F.M., ofreció esta traducción al inglés basada en el texto latino de la edición crítica de Quaracchi, incluyendo también el *Cántico de las Criaturas* y materiales originales recogidos en Italia.

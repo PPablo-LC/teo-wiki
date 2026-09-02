@@ -3,34 +3,26 @@ type: ResumenFuente
 title: "Abreviaturas"
 fuente: Federación_RC-Estatutos-Reglamentos
 capítulo: 1
-timestamp: 2026-08-24
-description: "Resumen de 'Abreviaturas' — Federación_RC-Estatutos-Reglamentos"
-tags: ["resumen", "federación rc-estatutos-reglamentos"]
+timestamp: 2026-08-31
+description: "Resumen de las abreviaturas y siglas usadas en los Estatutos y Reglamentos de la Federación Regnum Christi"
+tags: ["resumen", "federación_rc-estatutos-reglamentos"]
 ---
 
 # Abreviaturas
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[codigo_de_derecho_canonico]] — Código de Derecho Canónico (1983)
+- [[federacion_regnum_christi]] — Federación Regnum Christi
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `02_abreviaturas.md`
+Listado de siglas y abreviaturas utilizadas a lo largo de los documentos de la Federación Regnum Christi:
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+- **CIC**: Código de Derecho Canónico, en latín *Codex Iuris Canonici* (25 de enero de 1983).
 
 ## Secciones incluidas
 
+| Sección | Contenido |
+|---------|-----------|
+| Abreviaturas | Lista de siglas y sus significados |

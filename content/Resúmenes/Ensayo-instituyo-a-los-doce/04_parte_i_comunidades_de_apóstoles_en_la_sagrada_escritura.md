@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "Parte I: Comunidades de apóstoles en la Sagrada Escritura"
 fuente: Ensayo-instituyo-a-los-doce
 capítulo: 4
-timestamp: 2026-08-24
+timestamp: 2026-08-31
 description: "Resumen de 'Parte I: Comunidades de apóstoles en la Sagrada Escritura' — Ensayo-instituyo-a-los-doce"
 tags: ["resumen", "ensayo-instituyo-a-los-doce"]
 ---
@@ -12,25 +12,16 @@ tags: ["resumen", "ensayo-instituyo-a-los-doce"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[comunidad_de_apóstoles]] — grupo de discípulos reunidos en torno a Cristo y enviados en misión
+- [[sagrada_escritura]] — fundamento bíblico de la identidad de las comunidades de apóstoles
+- [[regnum_christi]] — comunidad que hunde sus raíces en la Sagrada Escritura y las primeras comunidades cristianas
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `Ensayo-instituyo-a-los-doce-1.md`
+La Parte I del ensayo examina los fundamentos bíblicos de las comunidades de apóstoles en el [[regnum_christi]], abarcando dos capítulos principales:
 
+- **I. Cristo el Apóstol del Padre** (resumido en [[02_i_cristo_el_apóstol_del_padre]]): analiza la identidad de Jesús como enviado del Padre y el fundamento del envío apostólico a partir del griego *apóstolos* y los textos joánicos.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+- **II. Los apóstoles del Reino** (resumido en [[03_ii_los_apóstoles_del_reino]]): desarrolla cómo Cristo instituye a los Doce como comunidad de apóstoles, analizando los elementos clave del relato de Mc 3, 13-15 — la llamada, la comunión con Él, el envío en misión y la institución del grupo estable —, así como la experiencia de las primeras comunidades cristianas en los Hechos de los Apóstoles.
 
-## Secciones incluidas
-
+Esta primera parte establece que la identidad de las comunidades del [[regnum_christi]] como «comunidades de apóstoles» tiene su raíz en el modo de actuar del Señor durante su vida pública y en la experiencia de la iglesia primitiva, ofreciendo un modelo toujours actual para la misión evangelizadora.

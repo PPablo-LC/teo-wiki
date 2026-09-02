@@ -3,34 +3,43 @@ type: ResumenFuente
 title: "Estado de `input/` tras el procesamiento"
 fuente: Alpha
 capítulo: 7
-timestamp: 2026-08-24
+timestamp: 2026-08-31
 description: "Resumen de 'Estado de `input/` tras el procesamiento' — Alpha"
 tags: ["resumen", "alpha"]
 ---
 
 # Estado de `input/` tras el procesamiento
 
+> 📄 **Fuente original:** `REPORT.md`
+> Estado de la carpeta `input/` tras el procesamiento de los 16 vídeos.
+
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- Aspecto técnico del pipeline (no conceptos teológicos en este capítulo).
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `REPORT.md`
+### Estado de `input/` tras el procesamiento
 
+Tras el procesamiento queda en `input/` **1 vídeo pendiente** (sin momentos
+visuales, no se elimina):
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+- Episodio_11-Retiro_3.mp4 (vídeo sin diapositivas ni elementos visuales, sin frames extraídos)
+
+**Conservados (sin momentos visuales):**
+
+- Episodio_11-Retiro_3.mp4 (vídeo sin elementos visuales; no se elimina per regla del Paso 10)
+
+**Eliminados** (15 vídeos que sí tenían momentos visuales con frames extraídos y
+por tanto se eliminaban de `input/` al finalizar):
+
+- Episodio_1.mp4, Episodio_2.mp4, Episodio_3.mp4, Episodio_4.mp4,
+  Episodio_5.mp4, Episodio_6.mp4, Episodio_7.mp4, Episodio_8-Intro_Retiro.mp4,
+  Episodio_9-Retiro_1.mp4, Episodio_10-Retiro_2.mp4,
+  Episodio_12-Retiro_final-post.mp4 (procesado y eliminado),
+  Episodio_13.mp4 (procesado y eliminado), Episodio_14.mp4 (procesado y
+  eliminado), Episodio_15.mp4 (procesado y eliminado) y Episodio_16.mp4.
 
 ## Secciones incluidas
 
+- Estado de `input/` tras el procesamiento

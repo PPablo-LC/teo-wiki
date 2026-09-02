@@ -9,7 +9,7 @@ description: "El Misterio Pascual es el acontecimiento central de la economía d
 # Misterio Pascual
 
 > Área: Dogmática / Soteriología
-> Última actualización: 2026-05-26
+> Última actualización: 2026-09-02
 
 ## Definición
 
@@ -61,6 +61,16 @@ La Redención como «límite divino impuesto al mal» se realiza en el misterio 
 
 La Resurrección pone de relieve que «sólo la medida del bien instaurado por Dios en la historia del hombre mediante el misterio de la Redención es capaz de satisfacer plenamente la verdad del ser humano» [MI, cap. 5]. El misterio pascual se convierte en «la medida definitiva de la existencia del hombre en el mundo creado por Dios» [MI, cap. 5].
 
+### Según Evangelization & Culture, Issue 15 «Suffering» (EAC-15)
+
+**El Misterio Pascual como clave del sufrimiento (Robert Barron).** El crucificado es Dios: Dios toma sobre sí todo el dolor humano; «el dolor no tiene la última palabra»; es la misericordia divina, no el dolor, lo metafísicamente básico; la paz que «sobrepasa todo entendimiento» (Flp 4,7) se halla en él, confiando en su providencia [EAC-15, 01].
+
+**La Reversión pascual (Raniero Cantalamessa).** La Pascua (*pasqa* = paso) es la fiesta de la Reversión: la víctima se ha convertido en vencedora y el condenado en juez (Hch 4,11: la piedra rechazada se hace piedra angular); la muerte de Cristo «llevó el amor de Dios al lugar más distante y oscuro...: la muerte» y la ha revertido; la cruz restauró la esperanza de los desheredados [EAC-15, 19].
+
+**La mixity y el Misterio Pascual (Michael Casey).** La «mixity» de Qoheleth —la combinación de contrarios en el tiempo— puede verse «como expresión de la vigencia del Misterio Pascual: la vida surge por la muerte» [EAC-15, 15].
+
+**La cruz, árbol de vida (Matthew Becklo, sobre *The Tree of Life*).** Cristo, Amor encarnado, sufre con nosotros y abre un camino de sufrimiento más fuerte que la muerte; la cruz cambia el sentido de la vida humana y es «nuestra respuesta última al sufrimiento, nuestra única esperanza, nuestro árbol de vida» [EAC-15, 08].
+
 ## Distinciones importantes
 
 - **Misterio Pascual vs. solo Pasión**: el Misterio Pascual incluye también la Resurrección y Ascensión, no solo el sufrimiento y muerte
@@ -82,6 +92,7 @@ El Misterio Pascual es el núcleo de la [[redención]] y se relaciona con la [[p
 - [CEC §571-664, pasión, muerte, resurrección, ascensión]
 - [CEC §1067-1089, el Misterio Pascual en la liturgia]
 - [TPCr, Parte I, Cristología]
+- [EAC-15, 01, 08, 15, 19]
 
 ## Ver también
 [[pasión_de_cristo]], [[redención]], [[resurrección_de_cristo]], [[ascensión]], [[eucaristía]], [[triduo_pascual]], [[sacerdocio_de_cristo]], [[nuevo_adán]]

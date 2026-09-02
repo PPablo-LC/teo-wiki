@@ -3,8 +3,8 @@ type: ResumenFuente
 title: "IV. To the Rulers of the People"
 fuente: Writings_of_Saint_Francis_of_Assisi
 capítulo: 13
-timestamp: 2026-08-24
-description: "Resumen de 'IV. To the Rulers of the People' — Writings_of_Saint_Francis_of_Assisi"
+timestamp: 2026-08-31
+description: "Resumen de la Carta a los gobernantes del pueblo de San Francisco"
 tags: ["resumen", "writings of saint francis of assisi"]
 ---
 
@@ -12,39 +12,26 @@ tags: ["resumen", "writings of saint francis of assisi"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[juicio_final]] — Cuenta que habrán de rendir los gobernantes ante Dios
+- [[muerte]] — Muerte como realidad ineludible que se aproxima
+- [[santísimo_sacramento]] — Recibir el Cuerpo y Sangre del Señor en santa conmemoración
+- [[autoridad_civil]] — Responsabilidad de los gobernantes ante Dios
+- [[devoción_eucarística]] — Exhortación al pueblo a dar gracias a Dios
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
 📄 **Fuente original:** `P2_04_to_the_rulers_of_the_people.md`
 
+### Contexto
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+Esta carta solo se conoce por el testimonio del Venerable Francisco Gonzaga, O.F.M., quien mencionó que el Beato Juan Parenti, primer ministro general después de San Francisco (1227-1232), trajo una copia de la carta a España. Wadding la incluyó como Epístola XV. Su estilo e ideas se corresponden admirablemente con los escritos de San Francisco, y tanto los editores de Quaracchi como el profesor Goetz la aceptan como genuina. No se ha encontrado ningún otro manuscrito que la transcripción de Wadding.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | IV. To the Rulers of the People |
-| 5 | H3 | to the rulers of the people |
+### Contenido de la Carta
 
+San Francisco se dirige "a todos los podestás, cónsules, jueces y gobernantes, en cualquier parte del mundo", llamándose "su pequeño y despreciable siervo".
 
-## Secciones incluidas
+Exhorta a considerar que el día de la muerte se aproxima. Les pide, con toda la reverencia que puede, no olvidar al Señor por las preocupaciones y solicitudes del mundo, ni apartarse de sus mandamientos. Quienes los olvidan y se desvían de sus mandamientos serán malditos y olvidados por Dios. Cuanto más sabios y poderosos hayan sido en el mundo, mayores tormentos sufrirán en el infierno.
 
-# IV. To the Rulers of the People
+Les aconseja con vehemencia que dejen toda preocupación y reciban el más santo Cuerpo y Sangre del Señor en santa conmemoración. Que hagan render tal honor al Señor por el pueblo que les está encomendado, que cada anochecer se anuncie por pregonero u otra señal para que las alabanzas y gracias resuenen al Señor Dios Todopoderoso de parte de todo el pueblo.
 
-[Contenido de esta sección...]
-
-## to the rulers of the people
-
-[Contenido de esta sección...]
+Quienes guarden esta escritura y la observen serán bendecidos por el Señor. Quienes no lo hagan sabrán que deben rendir cuentas ante su Señor Dios Jesucristo en el día del Juicio.

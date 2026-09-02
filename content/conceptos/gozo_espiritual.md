@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Gozo espiritual
 tags: ["ascética", "mística"]
 
-timestamp: 2026-08-22
+timestamp: 2026-08-31
 description: "El gozo espiritual es la alegría sobrenatural que procede del Espíritu Santo como fruto de la caridad y de la presencia de Dios en el alma."
 ---
 # Gozo espiritual
 
 > Área: Ascética / Mística
-> Última actualización: 2026-08-22
+> Última actualización: 2026-08-31
 
 ## Definición
 
@@ -31,6 +31,12 @@ TPCr trata el gozo espiritual como uno de los doce frutos del Espíritu Santo (c
 - **Gozo en la persecución:** las hermanas carmelitas refugiadas de la persecución mexicana de 1927 conservaron «espíritus gozosos» pese a presenciar atrocidades, obrando maravillas con recursos míseros: testimonio del gozo que no depende de las circunstancias.
 - **Testimonio escatológico:** «Quienes somos llamadas a la vida religiosa damos testigo del gozo de una vida plenamente humana, vivida en comunión y orientada al cielo»; la vida religiosa apunta al cielo «donde la comunión y el gozo serán eternos» (Sor Gorman OCD).
 
+### Según Evangelization & Culture n.º 14 «Joy» (EAC-14)
+
+Zimmerer (03) define el gozo cristiano en clave escatológica y sapiencial: «El gozo del cristiano no es felicidad pasajera, sino esperanza escatológica mezclada con el temor del Señor, que es el comienzo de la sabiduría». Gadberry (17) la vincula a la gracia y al amor: «La alegría es la gracia que nos permite ver las cosas desde la perspectiva de Dios»; «si quieres mera satisfacción, haz lo que quieras; si deseas alegría, haz lo que exige el amor».
+
+[EAC-14, 03_word_from_institute.md, 17_feature_gadberry.md]
+
 ## Relaciones doctrinales
 
 El gozo espiritual es fruto del [[espíritu_santo]] y de la [[caridad]]. Se relaciona con la [[alegría]], la [[esperanza]], la [[paz]] y la [[contemplación]] en el camino de perfección cristiana.
@@ -45,3 +51,4 @@ El gozo espiritual es fruto del [[espíritu_santo]] y de la [[caridad]]. Se rela
 - TPCr, Tratado de los dones del Espíritu Santo y de los frutos
 - Ga 5,22
 - [EAC-8, Issue 8 «Humor», archivos 05, 21]
+- [EAC-14, 03_word_from_institute.md, 17_feature_gadberry.md]

@@ -2,7 +2,7 @@
 type: Concepto Teológico
 title: Vía de la belleza
 description: "Camino de acceso a Dios a través de la contemplación de la belleza, especialmente de la belleza artística, como expresión de la verdad divina."
-timestamp: 2026-08-24
+timestamp: 2026-08-31
 tags:
   - belleza
   - arte
@@ -13,7 +13,7 @@ tags:
 # Vía de la belleza
 
 > Área: Filosofía / Estética / Evangelización
-> Última actualización: 2026-08-24
+> Última actualización: 2026-08-31
 
 ## Definición
 
@@ -67,6 +67,17 @@ En el número anterior, la *via pulchritudinis* ya aparecía como principio evan
 
 **La belleza tiene poder evangélico.** Barron: «Gran música, arquitectura, pinturas, poesía e historias dan gloria a Dios y pueden llevarnos a una apreciación más profunda de la verdad de lo que jamás podría un tratado filosófico». La sensibilidad católica cree «en liderar con la belleza, involucrar la cultura y defender una fe católica intelectualmente robusta y místicamente rica».
 
+### Según Evangelization & Culture n.º 14 «Joy» (EAC-14)
+
+Los correlatos del número 14 ilustran la vía de la belleza como instrumento evangelizador:
+
+- **Haley Stewart** (09_spotlight_stewart.md) presenta la evangelización por la belleza en la literatura infantil: «si podemos enseñar a nuestros hijos a amar historias que son verdaderas, buenas y bellas, estarán un paso más cerca de amar la fuente de la Verdad, la Bondad y la Belleza».
+- **Gerard Manley Hopkins** (07_poetry_pied_beauty.md) canta en «Gloria a Dios por las cosas moteadas» a Dios «cuya belleza es el más allá del cambio»: la belleza cambiante de la creación remite a la belleza inmutable del Creador.
+- **Barron/EG** (19_spotlight_barron.md) evoca el *bonum diffusivum sui*: «el bien se difunde a sí mismo», y la creación por el «intenso deseo de compartir su infinita bondad».
+- **McNamara** (12_art.md) presenta el arte barroco de Bernini como instrumento de evangelización que captura la paradoja gozo/espera del peregrino.
+
+[EAC-14, 09_spotlight_stewart.md, 07_poetry_pied_beauty.md, 19_spotlight_barron.md, 12_art.md]
+
 ## Distinciones importantes
 
 - **Vía de la belleza vs. esteticismo:** No se trata de buscar la belleza como fin en sí mismo, sino como camino hacia Dios. La belleza no es autónoma, sino que remite al Creador.
@@ -84,6 +95,7 @@ En el número anterior, la *via pulchritudinis* ya aparecía como principio evan
 - Se conecta con la [[belleza]] como transcendental del ser
 - Se complementa con la [[razón]] y la [[fe]] como vías de conocimiento
 - Se nutre de la tradición tomista y agustiniana
+- Se articula con la [[fe_y_belleza]] y la evangelización a través de la literatura ([[haley_stewart]]) y de la poesía ([[gerard_manley_hopkins]])
 
 ## Ver también
 
@@ -91,6 +103,9 @@ En el número anterior, la *via pulchritudinis* ya aparecía como principio evan
 - [[sensibilidad_católica]]
 - [[evangelización]]
 - [[arte_y_fe]]
+- [[fe_y_belleza]]
+- [[haley_stewart]]
+- [[gerard_manley_hopkins]]
 
 ## Referencias
 
@@ -99,3 +114,4 @@ En el número anterior, la *via pulchritudinis* ya aparecía como principio evan
 - Tomás de Aquino. *Summa Theologiae* I, q. 39, a. 8; I-II, q. 27, a. 1-3.
 - Agustín de Hipona. *Confesiones* X, 27.38.
 - [EAC-1, Issue 1 «Creativity»: archivos 01, 04, 05]
+- [EAC-14, archivos 07, 09, 12, 19]

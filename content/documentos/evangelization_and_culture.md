@@ -39,6 +39,8 @@ tags:
 | 11 | Issue 11 | The Four Last Things | Spring 2022 | [[evangelization_and_culture_issue_11_four_last_things]] |
 | 12 | Issue 12 | Childhood | Summer 2022 | [[evangelization_and_culture_issue_12_childhood]] |
 | 13 | Issue 13 | The Eucharist | Autumn 2022 | [[evangelization_and_culture_issue_13_eucharist]] |
+| 14 | Issue 14 | Joy | Winter 2022 | [[evangelization_and_culture_issue_14_joy]] |
+| 15 | Issue 15 | Suffering | Spring 2023 | [[evangelization_and_culture_issue_15_suffering]] |
 
 ## Temas centrales por número
 
@@ -267,7 +269,52 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - Adoración en el seno de las tensiones étnicas; ecumenismo contemplativo (Johnson)
 - Liturgia de las Horas y oración continua; la iglesia doméstica (Vogt/Stevens, Pihl)
 
-## Autores destacados
+### Issue 14: Joy (Winter 2022)
+
+Para el desarrollo completo de este número, véase [[evangelization_and_culture_issue_14_joy]].
+- La alegría como «la paz de estar arraigado en Cristo»; «primero la alegría, luego la ética» (Barron)
+- La alegría como esperanza escatológica y temor del Señor; la victoria sobre la muerte (Zimmerer)
+- Libertad, reglas y gozo; el arte sacro gótico; «la alegría... es el gigantesco secreto del cristiano» (Worner)
+- La alegría de Don Bosco, educador y santo; devoción a María y comunión frecuente (Zimmerer)
+- La alegría y el escape de la lectura (Nelson)
+- «Pied Beauty» de Hopkins: la belleza moteada de la creación alaba al Creador inmutable
+- La apuesta pascaliana y la fe como «experiencia de una realidad abundante»; *Mi noche con Maud* (Petiprin)
+- La evangelización por la narrativa y la literatura infantil; *Spark* y Jane Austen (Stewart)
+- Duns Escoto, «ministril de la Encarnación»: primacía de Cristo como motivo de la creación (Ward)
+- El éxtasis de Santa Teresa y la alegría como posesión del amor de Dios (McNamara)
+- La alegría como descanso del deseo y el «ya sí/no aún»; el fruto único del Espíritu (Baird)
+- La alegría de la vida en un mundo post-Roe: el «sí» a la vida, *Evangelium Vitae*, Teología del Cuerpo (DeSanctis/Anderson)
+- La alegría del párroco rural: abandono cooperativo, silencio; el Beato Stanley Rother (Gadberry)
+- La alegría de la evangelización católica: esencial, litúrgica, instrumento de conversión (Britton)
+- El Evangelio de la alegría y *Evangelii Gaudium*: *bonum diffusivum sui*, «discípulos misioneros» (Barron)
+- El Rosario perpetuo y los misterios gozosos: «doble fuente de alegría», «escuela de María» (Monjas Dominicas)
+
+### Issue 15: Suffering (Spring 2023)
+
+Para el desarrollo completo de este número, véase [[evangelization_and_culture_issue_15_suffering]].
+- El problema del mal y del sufrimiento como objeción al teísmo (la formulación de los contrarios de Aquino); Dios «permite» el mal para un bien mayor; el Misterio Pascual: el crucificado es Dios (Barron)
+- El sufrimiento, la comunión de los santos y «ofrecerlo» (offer it up); el Vía Crucis y el sufrimiento como vía de evangelización (Zimmerer)
+- El mal como misterio (Heydrich, Wannsee, Lidice); la gracia no es vencida por el mal; «be not afraid» (Worner; Bernanos)
+- El sufrimiento redentor de Santa Faustina, la Divina Misericordia y la oración como cauce de toda gracia (McNichol)
+- La *kenosis* y el sufrimiento vicario del cura rural; la verdad que salva antes que consuela (Hren; Bernanos)
+- La soledad y los «lugares desiertos» propios del alma sufriente (Frost)
+- El sufrimiento envuelto por el amor y la sabiduría de Dios en *The Tree of Life*; la cruz como árbol de vida (Becklo; Malick)
+- La *privatio boni*, el libre albedrío y la sumisión al misterio; el libro de Job como la reflexión bíblica más profunda (Barron)
+- La «muerte de Dios» de Nietzsche y el Cristo abandonado en la cruz como respuesta (Mixa)
+- Los límites de la medicina ante el sufrimiento del alma; *Salvifici Doloris*; la compasión y el acompañamiento (May; Nouwen)
+- El arte cristiano ante el sufrimiento: la Piedad (amor que une) frente a la obra de Hirst (división) (Stevens)
+- El sufrimiento que aísla (Frankl); la cruz como comienzo: Dios sufre con nosotros y por nosotros
+- El problema del mal, el infierno y el libre albedrío; Cristo como respuesta (Kreeft)
+- La «mixity» de Qoheleth y la providencia; la aceptación de las estaciones de la vida (Casey)
+- El «defeat» del sufrimiento y el conocimiento dominicano/franciscano (Kaczor; Stump)
+- El sufrimiento y la literatura rusa: Chejov, Tolstoi, Dostoievski; el amor al enemigo; el pecado original (Morson)
+- Juan Pablo II y el sufrimiento «desde dentro»: *Salvifici Doloris* (1984), el Buen Samaritano y la cruz como eje de la historia (Weigel)
+- El Siervo Sufriente (Is 53), la Reversión pascual y la opción por los pobres (Cantalamessa)
+- La confianza y la providencia en la ansiedad; el abandono confiado (Fowerbaugh)
+- La vocación monástica cisterciense; la belleza que apunta a Cristo y evangeliza (Sr. Garbelli)
+- La desolación y el discernimiento de espíritus (San Ignacio); Elías y la voz mansa y suave (Andrie)
+- La sanación post-aborto: misericordia, reconciliación y acompañamiento pastoral (McClusky; Proyecto Rachel)
+
 
 - Bishop Robert Barron (director, Word on Fire)
 - Tod Worner (Managing Editor)
@@ -352,6 +399,20 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - Andrew Petiprin (teología y cultura)
 - Gloria Purvis (Lives: Beato Carlo Acutis)
 - Dr. Jason Stevens (Liturgia de las Horas)
+- George Weigel (biógrafo de Juan Pablo II; expresión de la fe católica)
+- Dr. Christopher Kaczor (filosofía, Loyola Marymount University)
+- Fr. Michael Casey OCSO (teología monástica, Tarrawarra Abbey)
+- Peter Kreeft (filosofía, Boston College)
+- Cardinal Raniero Cantalamessa (predicador de la Casa Pontificia)
+- Dr. Ken May MD, PhD (medicina y fe)
+- Mary McClusky (Project Rachel Ministry, USCCB)
+- Sr. Giovanna Garbelli (trapistina, Word on Fire Institute)
+- Michael Stevens (arte y fe, Word on Fire)
+- Hannah Marie Fowerbaugh (poesía)
+- Robert Frost (poeta)
+- Tod Worner (editor, Word on Fire)
+- Joshua Hren (fundador de Wiseblood Books)
+- Edyta McNichol (hagiografía, St. Faustina)
 
 ## Relación con otras fuentes
 
@@ -376,3 +437,5 @@ Esta fuente complementa los artículos sobre [[evangelización]], [[evangelizaci
 - Evangelization & Culture, Issue 11 (2022) — The Four Last Things
 - Evangelization & Culture, Issue 12 (2022) — Childhood
 - Evangelization & Culture, Issue 13 (2022) — The Eucharist
+- Evangelization & Culture, Issue 14 (2022) — Joy
+- Evangelization & Culture, Issue 15 (2023) — Suffering

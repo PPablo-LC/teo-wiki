@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Misericordia divina
 tags: ["dogmática", "moral"]
 
-timestamp: 2026-06-02
+timestamp: 2026-09-02
 description: "La misericordia divina es el atributo de Dios por el cual, movido por su infinito amor, socorre al hombre en su miseria, especialmente en su estado de pecado."
 ---
 # Misericordia divina
 
 > Área: Dogmática / Moral
-> Última actualización: 2026-06-02
+> Última actualización: 2026-09-02
 
 ## Definición
 
@@ -44,6 +44,18 @@ En sus catequesis cristológicas, Juan Pablo II vincula la misericordia divina c
 ### Según Evangelization & Culture n.º 9 «Poetry» (EAC-9)
 
 **La mujer sorprendida en adulterio (Jn 8).** Tríptico «Christ Sightings» de Angela Alaimo O'Donnell (ii. The Mount of Olives): «Ella no habló. Las mujeres nunca son creídas cuando lo hacen»; se plantó para ser juzgada, sin buscar misericordia de esos hombres; Él se agachó y escribió en la arena sus nombres y junto a cada uno sus pecados, cada falta diaria, cada deuda; «Uno a uno se fueron los pecadores».
+
+### Según Evangelization & Culture, Issue 15 «Suffering» (EAC-15)
+
+**La misericordia divina, no el dolor, es lo metafísicamente básico (Robert Barron).** Frente a la impresión de que el dolor es «metafísicamente básico» (todos sufren), la fe cristiana proclama lo contrario: el crucificado era Dios, que tomó sobre sí todo el dolor de la condición humana, y por eso «el dolor no tiene la última palabra». «El amor de Dios es más poderoso que el sufrimiento, y es la misericordia divina, no el dolor, lo que es metafísicamente básico» [EAC-15, 01].
+
+**El manantial de misericordia y el amor que transforma todo lo que toca (Edyta McNichol, sobre santa Faustina).** De los «muy profundos» de la tierna misericordia de Dios brotaron la sangre y el agua cuando el Corazón de Cristo fue abierto por la lanza en la Cruz —los dos rayos de la Imagen de la Divina Misericordia—; paradójicamente, Jesús hace del momento del mayor sufrimiento y oscuridad la ocasión del mayor amor y la mayor misericordia. Esa misericordia es un manantial («fount of mercy») para nosotros. «El amor es un misterio que transforma todo lo que toca»: la misericordia divina no solo consuela, sino que transforma el sufrimiento, purifica el amor y lo introduce en la esperanza de la gloria [EAC-15, 05].
+
+**El Dios de la misericordia que consuela a los que sufren (George Weigel, sobre Juan Pablo II).** La misericordia divina se manifiesta en el acompañamiento compasivo del que sufre: quien «se detiene junto al sufrimiento de otra persona» es como el Buen Samaritano — «detenerse no significa curiosidad, sino disponibilidad» (SD 28). El sufrimiento, aunque reflejo de la caída, «puede desatar el amor en la persona humana», y así «el mundo del sufrimiento humano» convoca «el mundo del amor humano» (SD 29), en el que se hace presente la misericordia consoladora de Dios [EAC-15, 18].
+
+**Puentes de misericordia y el sentido del pecado imperdonable (Mary McClusky).** Quienes están sumidos en la culpa, la vergüenza y la desolación tras el aborto creen con frecuencia haber cometido «el pecado imperdonable» y merecer el infierno. Pero «la misericordia de Dios y su profundo amor por cada uno de nosotros es insondablemente mayor que cualquier pecado»; «los que conocen las profundidades más hondas de la vergüenza, la culpa, la desesperación y el duelo, experimentan más profundamente la magnificencia de la insondable misericordia de Dios». La Iglesia es «puente de misericordia» que guía a los penitentes a recibir, aceptar y creer en el perdón de Dios [EAC-15, 23].
+
+**Un corazón que confía en la misericordia (Hannah Marie Fowerbaugh).** La litania invoca a Jesús para pedir «un corazón que confía en tu misericordia» (trusting in Your mercy), así como la liberación de la tentación de dudar de la bondad y presencia de Dios; la misericordia divina es el fundamento de la paz en medio de la ansiedad y el sufrimiento [EAC-15, 20].
 
 ## Distinciones importantes
 
@@ -85,6 +97,8 @@ Juan Pablo II sitúa la misericordia divina como la respuesta definitiva al *mys
 El patrimonio espiritual de Santa Faustina «tuvo una gran importancia para la resistencia contra el mal practicado en aquellos sistemas inhumanos de entonces» [MI, cap. 10]. «¡El mal nunca consigue la victoria definitiva! El misterio pascual confirma que, a la postre, vence el bien; que la vida prevalece sobre la muerte y el amor triunfa sobre el odio» [MI, cap. 10].
 
 ## Ver también
-[[redención]], [[conversión]], [[penitencia]], [[esperanza]], [[misericordia]]
+[[redención]], [[conversión]], [[penitencia]], [[esperanza]], [[misericordia]], [[divina_misericordia]], [[sufrimiento_redentor]], [[acompañamiento_pastoral]]
 
 ## Referencias
+
+- [EAC-15, 01, 05, 18, 20, 23]

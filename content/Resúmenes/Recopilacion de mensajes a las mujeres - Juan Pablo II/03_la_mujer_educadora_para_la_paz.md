@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "LA MUJER, EDUCADORA PARA LA PAZ"
 fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
 capítulo: 3
-timestamp: 2026-08-24
+timestamp: 2026-08-31
 description: "Resumen de 'LA MUJER, EDUCADORA PARA LA PAZ' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
@@ -12,34 +12,25 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[educacion_para_la_paz]] — misión de la mujer como testigo, mensajera y maestra de paz
+- [[dignidad_de_la_persona_humana]] — fundamento de la convivencia humana ordenada
+- [[paz]] — objetivo que requiere el reconocimiento de la dignidad de cada persona
+- [[Pacem_in_terriss]] — Encíclica de [[san_juan_XXIII]] sobre los fundamentos de la paz
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `03_la_mujer_educadora_para_la_paz.md`
+## LA MUJER, EDUCADORA PARA LA PAZ
 
+En la meditación del Ángelus del 1 de enero de 1995, Solemnidad de Santa María Madre de Dios y XXVIII Jornada Mundial de la Paz, el Santo Padre explica el contenido del mensaje enviado a todos los Jefes de Estado con el lema «La mujer, educadora para la paz», firmado el 8 de diciembre de 1994.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+El Papa destaca la contribución significativa que las mujeres pueden prestar para el establecimiento de una paz que influya en todos los aspectos de la vida humana. Invita a las mujeres a ser educadoras para la paz «con todo ser y en todas sus actuaciones: que sean testigos, mensajeras, maestras de paz de las relaciones entre las personas y las generaciones, en la familia, en la vida cultural, social y política de las naciones, de modo particular en las situaciones de conflicto y de guerra».
+
+Reitera su llamada angustiada por la [[paz]], señalando que la violencia, las guerras y la injusticia no pueden tolerarse por más tiempo. Es hora de pasar de las palabras a los hechos, y todos —ciudadanos, familias, creyentes, Iglesias, Estados y organismos internacionales— están llamados a colaborar. Para que la paz sea eficaz y duradera, no puede limitarse a los aspectos exteriores de la convivencia, sino que debe incidir sobre todo en los ánimos, fomentando una nueva conciencia de la [[dignidad_de_la_persona_humana]].
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H2 | LA MUJER, EDUCADORA PARA LA PAZ |
 
-
 ## Secciones incluidas
-
-# LA MUJER, EDUCADORA PARA LA PAZ
-
-[Contenido de esta sección...]

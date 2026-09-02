@@ -2,14 +2,14 @@
 type: Concepto Teológico
 title: Providencia
 tags: ["dogmática"]
-timestamp: 2026-07-01
+timestamp: 2026-09-02
 description: "La divina providencia es la disposición con que Dios conduce todas las criaturas hacia su fin último."
 ---
 
 # Providencia
 
 > Área: Dogmática
-> Última actualización: 2026-07-01
+> Última actualización: 2026-09-02
 
 ## Definición
 
@@ -47,6 +47,18 @@ La confianza en la divina Providencia es el fundamento del sufrimiento cristiano
 
 Royo Marín trata la providencia divina en el contexto del abandono en Dios y la vida de oración (TPCr, Parte II, Libro I, Cap. 12-13). La confianza en la providencia es fundamento de la vida espiritual. La aceptación de la voluntad de Dios —tanto la significada (mandamientos) como la de beneplácito (circunstancias)— es requisito para la perfección cristiana. La doctrina de la providencia sostiene teológicamente la virtud de la [[confianza_en_dios]] y el [[abandono_en_la_providencia_divina]].
 
+### Según Evangelization & Culture, Issue 15 «Suffering» (EAC-15)
+
+**Dios «permite» el mal para un bien mayor (Robert Barron).** El sufrimiento, «misteriosamente, es ingrediente en el plan de Dios»; Dios «permite» el mal dentro de su creación «para sacar un bien mayor», y se halla nuestra paz, una paz que «sobrepasa todo entendimiento» (Flp 4,7), confiando en su providencia y esperando una vida con él más allá de esta [EAC-15, 01]. No es el dolor, sino la misericordia divina, lo que es metafísicamente básico [EAC-15, 01].
+
+**La providencia como misterio último (Robert Barron).** Dios no solo crea el universo, sino que «lo sustenta y gobierna continuamente»; la sabiduría de Dios «se extiende con fuerza de un extremo a otro y ordena todo con suavidad» (Sb 8,1); nada escapa a su dirección activa (Is 45,7) [EAC-15, 09]. Dios no causa el mal —que es privación del bien (*privatio boni*)— sino que lo «permite» para un bien mayor; «lo que precisamente el Dios sumamente bueno pretende cuando permite el mal en su cosmos sigue siendo un misterio, y la «solución» más profunda de nuestro problema se encuentra en la entrega a ese misterio» [EAC-15, 09]. El universo es como la obra de un artista «en curso» o un puntillismo de Seurat que solo cobra sentido desde la distancia; todas las hojas dispersas de la historia están «atadas en un solo libro por el amor» (Dante), cuyo autor es Dios [EAC-15, 09].
+
+**La «porción» de los tiempos duros y la dependencia de Dios (Michael Casey).** Qoheleth «no usa la palabra "providencia", pero la idea es central en su pensamiento» [EAC-15, 15]. Dios es trascendente («Dios está en el cielo y tú en la tierra», Ecl 5,2), Creador y Sustentador de todo (Ecl 12,1); «los justos, los sabios y sus obras están en la mano de Dios» (Ecl 9,1) [EAC-15, 15]. Los tiempos de prueba y de «mixity» (la combinación de contrarios de Ecl 3,1) forman parte de nuestra «porción»; hay un plan superior en nuestras vidas, y «todo lo que viene de la mano de Dios es bueno, nos guste o no, lo comprendamos o no» [EAC-15, 15].
+
+**Dios provee al que sufre (Leonard Andrie).** Tras el colapso de Elías en la desolación (1 Re 19,4-5), «el Señor siempre responde a tu sufrimiento»: Dios permite a Elías dormir y le da el «pastel y el jarro de agua» que la viuda de Sarepta le había ofrecido antes, recordándole que «como proveyó a la viuda, así proveerá a Elías»; «cuando llegan los momentos difíciles, asegúrate de que el Señor siempre proveerá para ti» [EAC-15, 22]. Dios se revela en la «voz mansa» (1 Re 19,12) y ofrece compañía (Eliseo; los 7.000 fieles), desmintiendo la acusación de estar solo [EAC-15, 22].
+
+**Encomendarse a la providencia en el sufrimiento (Hannah Fowerbaugh).** La litania pide «aunque tu silencio amoroso no signifique ausencia»; que la vida está «cuidadosamente sostenida en tus manos», que Dios «no desperdicia nada para acercarme a ti» y que «tus planes para mi vida son buenos» [EAC-15, 20]. La confianza en la providencia aparece así como respuesta espiritual a la ansiedad y al miedo del sufrimiento.
+
 ## Distinciones importantes
 
 - **Providencia (razón del orden) vs. gobierno (ejecución del orden)**: la primera es eterna; la segunda, temporal.
@@ -75,3 +87,4 @@ Se relaciona con la [[predestinación]] (q.23, que es la providencia respecto al
 - CEC §321-324, providencia y oración
 - TPCr, Parte II, Libro I, Cap. 12-13, providencia y abandono
 - SmTh Iª q.22 (La providencia de Dios); q.23 (La predestinación)
+- [EAC-15, 01, 09, 15, 20, 22]

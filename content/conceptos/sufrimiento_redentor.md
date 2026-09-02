@@ -9,7 +9,7 @@ description: "El sufrimiento redentor es el sufrimiento afrontado exclusivamente
 # Sufrimiento redentor
 
 > Área: Dogmática / Espiritualidad
-> Última actualización: 2026-06-20
+> Última actualización: 2026-09-02
 
 ## Definición
 
@@ -49,6 +49,16 @@ La Vida de Jesús (VJ) presenta el sufrimiento redentor desde la oración en Get
 
 Juan Pablo II desarrolla el sufrimiento cristiano como participación en la Cruz de Cristo (Col 1,24; Gal 2,20). El cristiano completa en su carne «lo que falta a las tribulaciones de Cristo» —no porque la Cruz sea insuficiente, sino porque Cristo asocia a los suyos a su obra redentora. La Cruz es «puente» (Santa Catalina de Siena) que une al cristiano con Dios y modelo para todos los que sufren. El sufrimiento cristiano no es solo castigo, sino que adquiere poder redentor cuando se une al amor de Cristo. El sufrimiento del Inocente —«el Santo que sufre»— revela el sentido pleno del dolor humano. El sufrimiento es una llamada a la caridad y al servicio, siguiendo el ejemplo del buen samaritano y la enseñanza del Juicio Final (Mt 25). La parábola del grano de trigo que muere para dar fruto (Jn 12,24) ilustra la fecundidad del sufrimiento aceptado por amor (CJeS, tercera parte: valor redentivo de la Pasión).
 
+### Según Evangelization & Culture, Issue 15 «Suffering» (EAC-15)
+
+**«Ofrecerlo» (*offer it up*) (Jared Zimmerer).** El cristiano ofrece sus sufrimientos —grandes o pequeños— a Dios «para que Él pueda usar esos momentos como cauces de gracia para los que más lo necesitan»; esto se enmarca en la comunión de los santos y en el sufrimiento redentor [EAC-15, 03].
+
+**Santa Faustina y el sufrimiento redentor (Edyta McNichol).** El sufrimiento como «el mayor tesoro de la tierra» y «una gran gracia»; en un mundo caído, sufrimiento y amor están misteriosamente unidos; «cuanto mayor el sufrimiento, más puro el amor»; «no hay camino al cielo sino el camino de la cruz»; ofrecer el sufrimiento a Jesús en unión con su cruz; el amor mismo eligió el sufrimiento como medio de salvación (Jn 3,16); la cruz no es la última palabra (participación en la resurrección) [EAC-15, 05].
+
+**La participación en el sufrimiento redentor (George Weigel, sobre Juan Pablo II).** *Salvifici Doloris* 13: el amor es «la fuente más plena de la respuesta al sentido del sufrimiento», demostrado «en la cruz de Jesucristo»; «el Cristo que murió por todos ofrece a todos una participación en la redención que efectuó... también nosotros podemos participar en su sufrimiento redentor por el mundo»; el sufrimiento se «transforma de absurdo en misión» [EAC-15, 18].
+
+**El sufrimiento redentor en medicina (Ken May).** Ofrecer el dolor y compartir el sufrimiento de Cristo «para la redención del mundo» (Jeff Cavins); los santos como testigos del sufrimiento redentor (Juan Pablo II, Padre Pío, Teresa de Lisieux); el sufrimiento no es bueno en sí mismo sino que lo bueno es la sumisión a la voluntad de Dios (C.S. Lewis) [EAC-15, 11].
+
 ## Distinciones importantes
 
 - **Sufrimiento redentor ≠ masoquismo**: no se busca el sufrimiento por sí mismo, sino que se acepta por amor.
@@ -70,3 +80,4 @@ El sufrimiento redentor se relaciona con [[cruz]], [[pasión_de_cristo]], [[mist
 - [CEC §2633]
 - Col 1,24; Is 53,5
 - [VJ, Cap. VI]
+- [EAC-15, 03, 05, 11, 18]

@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "Introducción"
 fuente: Ensayo-instituyo-a-los-doce
 capítulo: 1
-timestamp: 2026-08-24
+timestamp: 2026-08-31
 description: "Resumen de 'Introducción' — Ensayo-instituyo-a-los-doce"
 tags: ["resumen", "ensayo-instituyo-a-los-doce"]
 ---
@@ -12,25 +12,14 @@ tags: ["resumen", "ensayo-instituyo-a-los-doce"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[comunidad_de_apóstoles]] — grupo de discípulos reunidos en torno a Cristo y enviados a hacer presente su Reino
+- [[regnum_christi]] — comunidad de apóstoles que forma comunidades de apóstoles
+- [[evangelio]] — fuente bíblica en la que hunde sus raíces la identidad legionaria
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `Ensayo-instituyo-a-los-doce-1.md`
+Una comunidad de apóstoles es un grupo de discípulos que, reunidos en torno a Cristo, son enviados a hacer presente su Reino en el mundo. El [[regnum_christi]] es una comunidad de apóstoles que forma comunidades de apóstoles. Esta identidad, que define y configura la espiritualidad y misión legionaria, hunde sus raíces en el [[evangelio]] y en la experiencia de las primeras comunidades cristianas.
 
+El ensayo tiene como objetivo iluminar este rasgo identitario del [[regnum_christi]] a partir de su fundamento bíblico, concretamente del modo de actuar del Señor durante su vida pública con sus discípulos (primera parte), para después concretar esta enseñanza al hoy de las comunidades según el carisma del [[regnum_christi]] (segunda parte).
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-
-## Secciones incluidas
-
+El recorrido pretende principalmente que cada comunidad renueve su conciencia de ser enviada y logre fortalecer sus vínculos de comunión para discernir cómo responder, en cada lugar, al llamado de Cristo de ser comunidades de apóstoles para el mundo de hoy. El versículo clave que inspira todo el ensayo es: «Como el Padre me ha enviado, así también os envío yo» (Jn 20, 21).

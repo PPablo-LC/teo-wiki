@@ -3,34 +3,42 @@ type: ResumenFuente
 title: "Pasos del workflow ejecutados"
 fuente: Alpha
 capítulo: 4
-timestamp: 2026-08-24
+timestamp: 2026-08-31
 description: "Resumen de 'Pasos del workflow ejecutados' — Alpha"
 tags: ["resumen", "alpha"]
 ---
 
 # Pasos del workflow ejecutados
 
+> 📄 **Fuente original:** `REPORT.md`
+> Pasos del pipeline de procesamiento ejecutados sobre los 16 vídeos.
+
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- Documentación técnica del pipeline (no conceptos teológicos en este capítulo).
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `REPORT.md`
+### Pasos del workflow ejecutados
 
+Lista de los pasos del pipeline de procesamiento de vídeo ejecutados sobre los
+16 vídeos:
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+- [x] Paso 0 — Detección automática Modo 2 (MANIFEST.md existe en `output/{stem}/ready_for_llm/`)
+- [x] Paso 0b — Lectura MANIFEST.md y transcripción formateada
+- [x] Paso 3-bis — Revisión ortográfica (comparación `.formatted.txt` vs `.txt` original → `ortho_review.md`)
+- [x] Paso 4 — Análisis del contenido (`analisis.md`)
+- [x] Paso 5 — Plan de fotogramas (`frame_plan.json`)
+- [x] Paso 6 — Extracción fotogramas (`scripts/extract_frames.py` → `frames/` + `frames.json`)
+- [x] Paso 6b — Contact sheet (`frames_contact_sheet.jpg`) + revisión visual automática (`visual_review.md`)
+- [x] Paso 7 — Análisis fotogramas + transcripción enriquecida (`transcripcion_enriquecida.md`)
+- [x] Paso 8 — Re-análisis con info visual (`analisis.md` actualizado)
+- [x] Paso 9 — Informe final (`informe.md`)
+- [x] Paso 10 — Cleanup condicional (vídeo eliminado de `input/` al tener momentos con frames)
+- [x] Paso 11 — Reporte global (`output/REPORT.md`)
+
+Todos los pasos fueron completados (`[x]`) para los 16 vídeos.
 
 ## Secciones incluidas
 
+- Pasos del workflow ejecutados

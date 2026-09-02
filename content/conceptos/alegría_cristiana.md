@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Alegría cristiana
 tags: ["ascética", "espiritualidad"]
 
-timestamp: 2026-08-22
+timestamp: 2026-08-31
 description: "Gozo interior y sobrenatural que brota de la respuesta generosa a la llamada de Dios y de la coherencia de la entrega total a Cristo."
 ---
 # Alegría cristiana
 
 > Área: Ascética / Espiritualidad
-> Última actualización: 2026-08-22
+> Última actualización: 2026-08-31
 
 ## Definición
 
@@ -80,6 +80,16 @@ Su fuente es la vida espiritual: «para el alma que ama a Dios y tiene su concie
 - Alegría cristiana no excluye el sufrimiento: es compatible con la purificación y la cruz
 - Alegría vocacional (discernimiento y respuesta a la llamada) es una modalidad específica
 
+### Según Evangelization & Culture n.º 14 «Joy» (EAC-14)
+
+El número 14 de la revista completa la definición de alegría cristiana distinguiéndola de la mera felicidad emocional:
+
+- **La alegría como arraigo en Cristo (Barron):** «esta alegría no es un estado emocional pasajero en el interior ni una pasajera sensación de éxito en el exterior. Más bien, es la paz de estar arraigado en Cristo» [EAC-14, 01_from_the_desk.md].
+- **La alegría como esperanza escatológica y temor del Señor (Zimmerer):** «Nuestra alegría como cristianos no es una felicidad pasajera. Es una esperanza escatológica mezclada con el temor del Señor — el comienzo de la sabiduría». Y: «En la alegría cristiana yace el simple hecho de que, aunque el hombre puso a Dios en una cruz para morir, la muerte misma ahora tiembla ante el nombre de Jesús» [EAC-14, 03_word_from_institute.md].
+- **La alegría como gracia que ve con los ojos de Dios (Gadberry):** «La alegría es la gracia que nos permite ver las cosas desde la perspectiva de Dios»; «Si quieres mera satisfacción, haz lo que quieras; si deseas alegría, haz lo que exige el amor» [EAC-14, 17_feature_gadberry.md].
+- **Dios vivo y amante como fundamento último (Britton):** «¡Soy amado! Pase lo que pase, ¡soy amado!» y «Dios está vivo y te ama. Por eso reímos». La alegría cristiana no es optimismo sino certeza del amor divino [EAC-14, 18_special_feature_britton.md].
+- **El «ya sí/no aún» del peregrino (Baird):** podemos «ser gozosos mientras sentimos» felicidad o tristeza, pues la alegría verdadera se ancla en la promesa «yo estoy con vosotros todos los días» (Mt 28,20) más allá de las alternancias emocionales [EAC-14, 14_feature_baird.md].
+
 ## Analizado en contexto cultural
 
 - [[morir-con-cero]] — convergencia en la búsqueda de la alegría a través de experiencias compartidas; tensión por la identificación de la alegría con satisfacción subjetiva, sin apertura al gozo sobrenatural que transfigura el sufrimiento
@@ -90,7 +100,7 @@ Se relaciona con [[caridad]], [[vocación_cristiana]], [[vocación_sacerdotal]],
 
 ## Ver también
 
-[[alegría]], [[vocación_sacerdotal]], [[vocación_religiosa]], [[vocación_laical]], [[ecclesia_in_america]], [[vocación_cristiana]], [[humor]], [[gozo_espiritual]]
+[[alegría]], [[vocación_sacerdotal]], [[vocación_religiosa]], [[vocación_laical]], [[ecclesia_in_america]], [[vocación_cristiana]], [[humor]], [[gozo_espiritual]], [[alegría_de_evangelizar]]
 
 ## Referencias
 
@@ -100,3 +110,4 @@ Se relaciona con [[caridad]], [[vocación_cristiana]], [[vocación_sacerdotal]],
 - [CEC §736, §1832, §301, §1720-1724]
 - [TPCr, obra completa]
 - [EAC-8, Issue 8 «Humor», archivos 02, 05, 14, 15]
+- *Evangelization & Culture*, n.º 14 «Joy» (EAC-14): 01_from_the_desk.md, 03_word_from_institute.md, 14_feature_baird.md, 17_feature_gadberry.md, 18_special_feature_britton.md

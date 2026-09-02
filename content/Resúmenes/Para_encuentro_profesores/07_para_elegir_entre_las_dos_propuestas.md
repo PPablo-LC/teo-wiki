@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "Para elegir entre las dos propuestas"
 fuente: Para_encuentro_profesores
 capítulo: 7
-timestamp: 2026-08-24
+timestamp: 2026-08-31
 description: "Resumen de 'Para elegir entre las dos propuestas' — Para_encuentro_profesores"
 tags: ["resumen", "para encuentro profesores"]
 ---
@@ -12,25 +12,32 @@ tags: ["resumen", "para encuentro profesores"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[Encuentro con Cristo]]
+- [[Revisión de vida]]
+- [[Discernimiento apostólico]]
+- [[Santa Misa]]
+- [[Eucaristía]]
+- [[Oración contemplativa]]
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `Vive_el_Misterio_2_v4_completo.md`
+### Cuadro comparativo
 
+| | PROPUESTA A | PROPUESTA B |
+|---|---|---|
+| **Movimiento** | Del [[Evangelio]] a la vida | De la vida al [[Evangelio]] |
+| **Evangelios** | Jn 1,37-39 · Jn 15,1-5 · Mt 28,18-20 | Jn 1,35-39 · Lc 10,30-34 · Lc 10,1-9 |
+| **Énfasis** | Contemplativo y espiritual | Evangelizador y apostólico |
+| **Adecuado para** | Grupos con menos práctica de discernimiento grupal | Grupos con experiencia en [[Revisión de vida]] |
+| **Estructura** | Lectura Orante · Compromisos · [[Discernimiento apostólico]] | VER · JUZGAR · ACTUAR |
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+### Nota sobre la Santa Misa — cierre de la jornada
+
+La [[Santa Misa]] no es el "final" de la jornada sino su punto culminante. En ella, los compromisos asumidos se ofrecen al Padre junto con el Pan y el Vino. Se sugiere al P. Luis que en la homilía o en las moniciones integre los compromisos recogidos en los plenarios, para que la [[Eucaristía]] sea verdaderamente el envío de toda la jornada. El documento señala:
+
+> "El medio privilegiado para encontrar a Cristo es el texto de la Sagrada Escritura y el gesto de la fracción del Pan." — Parte II.
 
 ## Secciones incluidas
 
+- Cuadro comparativo entre las dos propuestas (líneas 162–171)
+- Nota sobre la Santa Misa (líneas 173–175)

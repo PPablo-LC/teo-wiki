@@ -55,6 +55,22 @@ Juan Pablo II, en su Carta Apostólica *Salvifici Doloris* (1984), enseña que e
 
 **Paz que el mundo no da (Rachel Bulman).** El sufrimiento —el COVID de Rachel Bulman con posibilidad real de muerte, durante el embarazo— hace valorar la paz que «el mundo no da» (Jn 14,27) y da sentido al dolor: la enfermedad vivida en la fe enseña a apoyarse en Cristo, que comparte la cruz de cada uno [EAC-12, 09].
 
+### Según Evangelization & Culture, Issue 15 «Suffering» (EAC-15)
+
+**El sufrimiento da sentido a la fe (Jared Zimmerer).** La «belleza de la fe cristiana es que da sentido a nuestro sufrimiento»: la fe cristiana da sentido al sufrimiento físico, mental y espiritual; el dolor refocaliza la mente en lo esencial [EAC-15, 03].
+
+**El problema del mal y la respuesta del Misterio Pascual (Robert Barron).** El sufrimiento como objeción al teísmo (formulación de Aquino de los dos contrarios); Dios «permite» el mal para sacar un bien mayor; el crucificado es Dios, que toma sobre sí todo el dolor humano; «el dolor no tiene la última palabra»; es la misericordia divina, no el dolor, lo metafísicamente básico [EAC-15, 01].
+
+**El sufrimiento que moldea el carácter (George Weigel, sobre Juan Pablo II).** El sufrimiento conocido «desde dentro» moldea el carácter como un «diamante humano»; solo el ser humano sufre, y el sufrimiento descubre la naturaleza espiritual y transcendente del alma; es «uno de esos puntos en los que el hombre está... 'destinado' a ir más allá de sí mismo» (SD 2); el amor —demostrado «en la cruz de Jesucristo»— es la fuente plena del sentido del sufrimiento (SD 13); el sufrimiento se «transforma de absurdo en misión»; la cruz es «el eje alrededor del cual giran la historia y el cosmos» [EAC-15, 18].
+
+**El sufrimiento que enseña y el que envilece (Gary Saul Morson).** El sufrimiento puede exaltar o envilecer: la elección moral fundamental es entre el resentimiento que justifica la crueldad (lo demoníaco) y el que, por haber sufrido, evita el sufrimiento a otros (lo cristiano); «la verdadera prueba de quiénes somos es cómo respondemos al sufrimiento profundo» [EAC-15, 17].
+
+**El sufrimiento que aísla y la cruz como comienzo (Introducción a los features).** El sufrimiento aísla (Viktor Frankl); pero en la cruz vemos «al Dios que no solo sufre con nosotros, sino por nosotros»; la cruz es el comienzo, no el final [EAC-15, 13].
+
+**La desolación de Elías (Leonard Andrie).** El desánimo del profeta tras el Carmelo (1 Re 19,4) como desolación (San Ignacio); Dios responde a la necesidad y se revela en la «voz mansa y suave» (1 Re 19,11-12); el silencio necesario para la gracia; «Dios no llama al éxito sino a la fidelidad» (Madre Teresa) [EAC-15, 22].
+
+**Los límites de la medicina (Ken May).** El sufrimiento del alma frente al físico; la medicina «cuida aun cuando no puede curar» (USCCB ERD); *Salvifici Doloris* 5: el sufrimiento es «más amplio que la enfermedad, más complejo y... más profundamente arraigado en la humanidad misma»; la compasión y el acompañamiento (Nouwen); «lo bueno de cualquier experiencia dolorosa es, para el que sufre, su sumisión a la voluntad de Dios, y, para los espectadores, la compasión suscitada y las obras de misericordia a las que conduce» (C.S. Lewis) [EAC-15, 11].
+
 ## Distinciones importantes
 
 - **Sufrimiento redentor vs. sufrimiento inútil**: el sufrimiento tiene valor cuando se une a Cristo; sin esta unión es solo padecer
@@ -75,3 +91,4 @@ Se relaciona con la [[corredención]], la [[cruz]], el [[misterio_pascual]], la 
 - [SD §19-20, §27]
 - [UVD, Primera parte]
 - [EAC-12, 09, 16, 17]
+- [EAC-15, 01, 03, 11, 13, 17, 18, 22]

@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "Mensaje de Su Santidad Juan Pablo II para la Jornada Mundial de la Paz"
 fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
 capítulo: 2
-timestamp: 2026-08-24
+timestamp: 2026-08-31
 description: "Resumen de 'Mensaje de Su Santidad Juan Pablo II para la Jornada Mundial de la Paz' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
@@ -12,35 +12,13 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[paz]] — bien fundamental de la humanidad, fruto de la justicia, la verdad, el amor y la libertad
+- [[dignidad_de_la_persona_humana]] — fundamento de todos los derechos humanos universales
+- [[educacion_para_la_paz]] — proyecto educativo que abarca toda la vida para formar personas responsables
+- [[mulieris_dignitatem]] — Carta Apostólica sobre la dignidad de la mujer
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `02_mensaje_de_su_santidad_juan_pablo_ii_para_la_jornada_mundial.md`
+#### 1 de enero de 1995
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Mensaje de Su Santidad Juan Pablo II para la Jornada Mundial de la Paz |
-| 3 | H4 | 1 de enero de 1995 |
-
-
-## Secciones incluidas
-
-### 1 de enero de 1995
-
-[Contenido de esta sección...]
+El Papa [[san_juan_pablo_ii]] dirige su llamada anual por la paz al comenzar 1995, con la mirada puesta en el nuevo milenio. Rechaza la violencia, las guerras y la injusticia que afectan a numerosas partes del mundo, e insta a pasar de las palabras a los hechos. Subraya que una verdadera [[paz]] solo es posible si se promueve el reconocimiento de la [[dignidad_de_la_persona_humana]] a todos los niveles. Cita a [[san_juan_XXIII]] en la Encíclica *Pacem in terris*: todo ser humano es persona, dotada de inteligencia y libre albedrío, con derechos y deberes universales e inviolables. Educar en esta verdad es uno de los caminos más fecundos para consolidar el valor de la paz.

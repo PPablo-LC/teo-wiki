@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "Meditaciones dominicales del Santo Padre"
 fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
 capítulo: 20
-timestamp: 2026-08-24
+timestamp: 2026-08-31
 description: "Resumen de 'Meditaciones dominicales del Santo Padre' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
@@ -12,34 +12,24 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[santa_Brigida_de_Suecia]] — figura femenina destacada por su obra de paz
+- [[santa_Catalina_de_Siena]] — figura femenina destacada por su obra de paz
+- [[santa_Francisca_Xavier_Cabrini]] — figura femenina destacada por su obra de paz
+- [[Edith_Stein]] — Beata, figura femenina destacada por su obra de paz
+- [[paz]] — misión de la mujer como educadora para la paz
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `20_meditaciones_dominicales_del_santo_padre.md`
+## Meditaciones dominicales del Santo Padre
 
+Durante el Ángelus del primer domingo de febrero de 1995, el Vicario de Cristo anunció su intención de comentar en las Meditaciones marianas de los domingos el testimonio de algunas mujeres que, en la historia de la Iglesia, se han distinguido por su obra de [[paz]].
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+Han sido cuatro las figuras destacadas a lo largo del mes de febrero de este año 1995: [[santa_Brigida_de_Suecia]], [[santa_Catalina_de_Siena]], [[santa_Francisca_Xavier_Cabrini]] y la Beata [[Edith_Stein]].
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H2 | Meditaciones dominicales del Santo Padre |
 
-
 ## Secciones incluidas
-
-# Meditaciones dominicales del Santo Padre
-
-[Contenido de esta sección...]

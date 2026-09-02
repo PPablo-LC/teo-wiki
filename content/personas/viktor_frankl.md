@@ -3,7 +3,7 @@ type: Persona
 title: "Viktor Frankl"
 description: "Psiquiatra vienés (1905-1997), superviviente de Auschwitz y fundador de la logoterapia; testigo de la grandeza y depravación humanas."
 tags: ["antropología", "siglo_xx"]
-timestamp: 2026-08-22
+timestamp: 2026-09-02
 ---
 
 # Viktor Frankl
@@ -30,6 +30,10 @@ Bobby Angel lo cita al tratar la comedia frente al problema del mal:
 - La cita sirve para sostener que ante el mal —que no anula la risa sino que le da su gravedad— la libertad humana permanece como espacio de sentido.
 - Conexión con la teología del [[humor]]: el humor como una de las formas de la libertad interior que ni el sufrimiento puede abolir.
 
+### Según Evangelization & Culture n.º 15 «Suffering» (EAC-15)
+
+En la introducción a los ensayos del número (*What Is Suffering?*, archivo 13), Frankl es citado desde *Man's Search for Meaning* para expresar la dimensión aislante del sufrimiento: «Cuando el hombre encuentra que su destino es sufrir, tendrá que aceptar su sufrimiento como su tarea, su única e irrepetible tarea. Tendrá que reconocer el hecho de que incluso en su sufrimiento es único y está solo en el universo. Nadie puede aliviarlo de su sufrimiento ni sufrir en su lugar». La cita ilustra el punto de partida del número —que el sufrimiento «aisla»— y abre a la respuesta cristiana de la [[cruz]], donde se ve «al Dios que no solo sufre con nosotros, sino por nosotros» (ver [[sufrimiento_cristiano]]).
+
 ## Relevancia teológica
 
 La antropología frankliana dialoga con la doctrina católica de la dignidad humana: el hombre, imagen de Dios, conserva libertad y sentido aun en el abismo del mal. Su testimonio apoya la respuesta cristiana al problema del mal centrada en la libertad y el acompañamiento de Dios al que sufre.
@@ -41,3 +45,4 @@ La antropología frankliana dialoga con la doctrina católica de la dignidad hum
 ## Referencias
 
 - EAC-8, archivo 15
+- EAC-15, archivo 13 (*What Is Suffering?*)

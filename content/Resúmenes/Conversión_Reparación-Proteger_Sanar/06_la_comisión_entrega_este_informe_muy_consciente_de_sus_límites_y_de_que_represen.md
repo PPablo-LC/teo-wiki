@@ -1,121 +1,93 @@
 ---
 type: ResumenFuente
-title: "La comisión entrega este informe muy consciente de sus límites y de que representa solo un paso en el camino de conversión y mejora continua que queremos seguir recorriendo como Congregación. Hemos tocado con nuestras manos la llaga que los abusos han abierto en las víctimas, en la Iglesia y en nuestra propia Congregación. Hemos experimentado que cualquier paso de acercamiento a una víctima es un paso esencial hacia la justicia en la verdad, y que hacer luz sobre el pasado, por doloroso que sea, es liberador y fundamento indispensable para construir el futuro."
+title: "Informe 1941-2019 — Epílogo, Anexo I y Anexo II"
 fuente: Conversión_Reparación-Proteger_Sanar
 capítulo: 6
-timestamp: 2026-08-24
-description: "Resumen de 'La comisión entrega este informe muy consciente de sus límites y de que representa solo un paso en el camino de conversión y mejora continua que queremos seguir recorriendo co..."
-tags: ["resumen", "conversión reparación-proteger sanar"]
+timestamp: 2026-08-31
+description: "Resumen de 'Epílogo del informe, pasos hacia cultura de protección (2014-2019) y gráficos estadísticos' — Conversión_Reparación-Proteger_Sanar"
+tags: ["resumen", "conversión_reparación-proteger_sanar"]
 ---
 
-# La comisión entrega este informe muy consciente de sus límites y de que representa solo un paso en el camino de conversión y mejora continua que queremos seguir recorriendo como Congregación. Hemos tocado con nuestras manos la llaga que los abusos han abierto en las víctimas, en la Iglesia y en nuestra propia Congregación. Hemos experimentado que cualquier paso de acercamiento a una víctima es un paso esencial hacia la justicia en la verdad, y que hacer luz sobre el pasado, por doloroso que sea, es liberador y fundamento indispensable para construir el futuro.
+# Informe 1941-2019 — Epílogo, Anexo I y Anexo II
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[conversion_y_reparacion]] — compromiso de conversión personal e institucional como respuesta a los abusos
+- [[ambientes_seguros]] — estándares de prevención, respuesta y supervisión implementados desde 2014
+- [[politica_de_ambientes_seguros]] — normativa con 25 estándares articulados en prevención, respuesta y supervisión
+- [[acreditacion_praesidium]] — proceso de certificación externa por agencia estadounidense de estándares
+- [[encuentro_con_las_victimas]] — compromiso continuo de escucha, acogida y caminos de reparación
+- [[justicia_restaurativa]] — procesos de justicia restaurativa como herramienta de sanación
+- [[cadena_de_abuso_del_p_maciel]] — 111 de 175 víctimas (63,43%) ligadas al fundador o sus víctimas
+- [[estadisticas_de_abuso_1941-2019]] — datos consolidados: 175 víctimas, 33 sacerdotes, 74 seminaristas
+- [[comision_de_abusos_del_pasado]] — comisión que entregó el informe al Capítulo General 2020
+- [[legionarios_de_cristo]] — Congregación que elaboró y publicó el informe
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `08_informe_epilogo.md`
+### III. Epílogo
 
+La comisión entrega el informe consciente de sus límites, como un paso en el camino de conversión y mejora continua. Hemos tocado con nuestras manos la llaga que los abusos han abierto en las víctimas, en la Iglesia y en la Congregación. Hemos experimentado que cualquier paso de acercamiento a una víctima es un paso esencial hacia la justicia en la verdad, y que hacer luz sobre el pasado, por doloroso que sea, es liberador y fundamento indispensable para construir el futuro.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+La comisión deplora y condena los abusos cometidos en su historia, así como las prácticas institucionales o personales que pudieron favorecer cualquier forma de abuso o revictimización. Pide perdón a las víctimas, sus familias, la Iglesia y la sociedad. Reconoce con honestidad y vergüenza la realidad de los delitos, con deseo sincero de continuada conversión personal e institucional.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | La comisión entrega este informe muy consciente de sus límites y de qu |
-| 14 | H3 | Comisión de casos de abuso de menores del pasado y atención a las pers |
-| 79 | H3 | Anexo II: Gráficos 1941-2019 |
-| 82 | H3 | Caminos de reconciliación institucional Gráfico 1 |
-| 85 | H3 | Sacerdotes LC que abusaron siendo sacerdotes* Gráfico 2 2,44% |
-| 96 | H3 | Estado de los 33 sacerdotes LC que abusaron siendo sacerdotes Gráfico  |
-| 101 | H3 | Fallecidos 24% 18% 1     Dejó la 3%             Congregación Total 33 |
-| 116 | H3 | Sacerdotes LC que abusaron, por tipo de abuso y número de víctimas Grá |
-| 119 | H3 | Abusaron de una 4     víctima una única vez |
-| 133 | H3 | Víctimas en la cadena de abusos del P. Maciel Gráfico 6 |
-| 139 | H3 | Sacerdotes LC que abusaron durante su ejercicio como superiores Gráfic |
-| 141 | H3 | Total sacerdotes LC que abusaron   33 |
-| 147 | H3 | Actuación respecto a los seminaristas LC culpables de abuso Gráfico 8 |
-| 159 | H3 | Estado de los 14 sacerdotes LC que abusaron siendo seminaristas* |
-| 171 | H3 | Sacerdores LC vivos que han abusado en algún momento de su vida en la  |
-| 177 | H3 | Respecto de los 2,43%                          986 sacerdotes LC hoy |
-| 189 | H3 | Sin                                     25,0% 14     ministerio   58,3 |
+El estudio ha llevado a elaborar propuestas y recomendaciones para el Capítulo General, confirmando la necesidad y acierto de los estándares de prevención implementados desde 2015. Entre los pendientes está examinar dónde puede haber habido encubrimiento, negligencias u omisiones.
 
+Se reitera el compromiso de ofrecer ambientes seguros, con políticas estrictas de prevención y protocolos de respuesta rápidos y justos, incluyendo siempre la colaboración con autoridades civiles y eclesiásticas.
+
+### Anexo I: Pasos hacia una nueva cultura de protección (2014-2019)
+
+El Capítulo General de 2014 pidió establecer procedimientos de ambientes seguros. El 30 de diciembre de 2014 se aprobaron los Estándares de Acreditación con 25 estándares en tres áreas:
+
+**Medidas de prevención:** selección de candidatos, formación inicial (especialmente dimensión afectivo-sexual), códigos de conducta, formación sobre abuso sexual, intervención inmediata ante traspasos de límites, apoyo a miembros con dificultades afectivas, medios de perseverancia.
+
+**Medidas de respuesta:** respuesta pronta ante denuncias, atención pastoral a afectados, investigación sobre hechos, colaboración con autoridades.
+
+**Medidas de supervisión:** planes de seguimiento para culpables de abusos.
+
+El 13 de marzo de 2017 se contrató a Praesidium, Inc. para certificación externa. España se convirtió en el segundo país acreditado (septiembre 2018). Chile, Brasil, Colombia-Venezuela, México, Monterrey, Italia y Roma iniciaron procesos posteriores. Los estándares se actualizaron en 2017 (presencia en redes sociales, certificados de aptitud, deber de notificar a agencia certificadora).
+
+En junio de 2018 se reflexionó con directores territoriales sobre cultura de ambientes seguros: importancia de códigos de conducta, medios de apoyo y perseverancia, corrección fraterna, comprensión del sufrimiento de víctimas, planes de respuesta rápida y seguimiento de legionarios con historial de abuso.
+
+En febrero de 2019 se actualizaron estándares con canales independientes de denuncia y conservación indefinida de información sobre posibles abusos. Se aprobaron líneas guía para atención pastoral de víctimas. En marzo de 2019, el superior general dio conferencia sobre cultura de ambientes seguros para el territorio de México, distribuida a todos los legionarios del mundo.
+
+### Anexo II: Gráficos 1941-2019
+
+**Gráfico 1 — Caminos de reconciliación institucional:** Con 45 de las 175 víctimas se ha avanzado en camino de reparación.
+
+**Gráfico 2 — Sacerdotes LC que abusaron siendo sacerdotes:** 33 de 1.353 ordenados (2,44%).
+
+**Gráfico 3 — Estado de los 33 sacerdotes:** 6 fallecidos (18%), 8 dejaron el sacerdocio (24%), 1 dejó la Congregación (3%), 18 siguen en la Congregación (55%). De los 18: 14 sin ministerio público (72%), 4 con ministerio restringido y plan de seguridad (28%).
+
+**Gráfico 4 — Tipo de abuso y número de víctimas:** 2 por sexting, 4 de una víctima una vez, 9 repetidamente de una víctima, 11 de 2-5 víctimas, 5 de 6-10 víctimas, 1 de 13 víctimas (ya sin estado clerical), P. Maciel de al menos 60.
+
+**Gráfico 5 — Sacerdotes que fueron víctimas:** 14 de 33 (42,42%) eran a su vez víctimas de abuso en la Congregación.
+
+**Gráfico 6 — Cadena de abusos de Maciel:** 111 víctimas (63,43%) del P. Maciel, de una de sus víctimas o de una víctima de sus víctimas. 64 víctimas (36,6%) de otros sacerdotes LC.
+
+**Gráfico 7 — Abuso de autoridad:** 14 de 33 sacerdotes (42,4%) abusaron durante su ejercicio como superiores.
+
+**Gráfico 8 — Actuación respecto a seminaristas:** De 74 seminaristas que abusaron, 60 (81,1%) no llegaron a la ordenación ni continuaron en la Congregación. De los 14 ordenados: 2 fallecidos, 2 con restricciones, 4 bajo investigación, 6 fuera de jurisdicción.
+
+**Gráfico 9 — Sacerdotes LC vivos que abusaron:** 24 de 986 sacerdotes hoy (2,43%). De ellos: 14 sin ministerio público (58,3%), 6 con restricciones (25%), 4 siendo investigados (16,7%).
+
+**Gráfico 10 — Evolución histórica comparativa:**
+
+| Período | Víctimas acumuladas | Sacerdotes abusadores | Sacerdotes ordenados |
+|---------|--------------------|-----------------------|---------------------|
+| 1941-49 | 30 | 2 | 2 |
+| 1959 | 77 | 4 | 16 |
+| 1969 | 100 | 8 | 60 |
+| 1979 | 104 | 10 | 125 |
+| 1989 | 123 | 13 | 250 |
+| 1999 | 141 | 19 | 471 |
+| 2009 | 168 | 26 | 974 |
+| 2019 | 175 | 33 | 1.353 |
 
 ## Secciones incluidas
 
-## Comisión de casos de abuso de menores del pasado y atención a las personas implicadas
-
-[Contenido de esta sección...]
-
-## Anexo II: Gráficos 1941-2019
-
-[Contenido de esta sección...]
-
-## Caminos de reconciliación institucional Gráfico 1
-
-[Contenido de esta sección...]
-
-## Sacerdotes LC que abusaron siendo sacerdotes* Gráfico 2 2,44%
-
-[Contenido de esta sección...]
-
-## Estado de los 33 sacerdotes LC que abusaron siendo sacerdotes Gráfico 3
-
-[Contenido de esta sección...]
-
-## Fallecidos 24% 18% 1     Dejó la 3%             Congregación Total 33
-
-[Contenido de esta sección...]
-
-## Sacerdotes LC que abusaron, por tipo de abuso y número de víctimas Gráfico 4
-
-[Contenido de esta sección...]
-
-## Abusaron de una 4     víctima una única vez
-
-[Contenido de esta sección...]
-
-## Víctimas en la cadena de abusos del P. Maciel Gráfico 6
-
-[Contenido de esta sección...]
-
-## Sacerdotes LC que abusaron durante su ejercicio como superiores Gráfico 7
-
-[Contenido de esta sección...]
-
-## Total sacerdotes LC que abusaron   33
-
-[Contenido de esta sección...]
-
-## Actuación respecto a los seminaristas LC culpables de abuso Gráfico 8
-
-[Contenido de esta sección...]
-
-## Estado de los 14 sacerdotes LC que abusaron siendo seminaristas*
-
-[Contenido de esta sección...]
-
-## Sacerdores LC vivos que han abusado en algún momento de su vida en la Congregación Gráfico 9
-
-[Contenido de esta sección...]
-
-## Respecto de los 2,43%                          986 sacerdotes LC hoy
-
-[Contenido de esta sección...]
-
-## Sin                                     25,0% 14     ministerio   58,3%      Total 24
-
-[Contenido de esta sección...]
+| Sección | Contenido |
+|---------|-----------|
+| Epílogo | Reconocimiento de límites, pedido de perdón, compromiso de conversión continua y ambientes seguros |
+| Anexo I (2014-2019) | Cronología de implementación de estándares, certificación Praesidium, actualizaciones y capacitaciones |
+| Anexo II (Gráficos) | 10 gráficos estadísticos consolidados: víctimas, sacerdotes, cadenas de abuso, evolución histórica |

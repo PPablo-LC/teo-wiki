@@ -2,12 +2,12 @@
 type: Concepto Teológico
 title: Auditoría de wikilinks huérfanos
 timestamp: 2026-08-06
-description: "Registro de wikilinks sin artículo propio en el wiki. 2026-08-23: cobertura por lotes — lote 1 (silencio_interior, conexión, coraje, razón_instrumental, valía_personal); lote 2 (reinterpretación_tipológica, autenticidad, lenguaje; retargets noche_oscura_del_alma y pobreza_espiritual); lote 3 (pertenencia, castigo, problema_del_mal, adulterio_en_el_corazón; comunicación_y_transparencia en Espiritualidad LC); lote 4 (dicha, espiritualización, historia_de_la_iglesia, moralidad_secular); lote 5 (ocio, recta_razón, significado_nupcial_del_cuerpo, antropología; retarget prescripción_acción_penal). 2026-08-23: el procesamiento de Evangelization & Culture n.º 11 «The Four Last Things» (EAC-11) siembra 35 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 11»). 2026-08-23: EAC-10 siembra 12 (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 10 «Freedom»»). 2026-08-23: el procesamiento de Evangelization & Culture n.º 9 «Poetry» (EAC-9) siembra 3 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 9 «Poetry»»). 2026-08-22: el procesamiento de Evangelization & Culture n.º 8 «Humor» (EAC-8) siembra 6 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 8 «Humor»»). 2026-08-24: el procesamiento de Evangelization & Culture n.º 2 «Economics» (EAC-2) siembra 4 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 2 «Economics»»). 2026-08-29: los resúmenes de Lineas_guia_Protección_menores siembran 24 huérfanos nuevos (ver sección «Sembrados por los resúmenes de Lineas_guia_Protección_menores»). 2026-08-29: los resúmenes de Normae de delictis gravioribus siembran 36 huérfanos nuevos (ver sección «Sembrados por los resúmenes de Normae de delictis gravioribus»). 2026-08-29: los resúmenes de Para Salvarte siembran 30 huérfanos nuevos (ver sección «Sembrados por los resúmenes de Para Salvarte»). 2026-08-29: los resúmenes de Paradoxes of Faith siembran 22 huérfanos nuevos (ver sección «Sembrados por los resúmenes de Paradoxes of Faith»). 2026-08-30: el procesamiento de Evangelization & Culture n.º 13 «The Eucharist» (EAC-13) siembra 10 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 13 «The Eucharist»»)."
+description: "Registro de wikilinks sin artículo propio en el wiki. 2026-09-02: EAC-15 «Suffering» siembra 25 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 15 «Suffering»»). 2026-08-31: el procesamiento de Evangelization & Culture n.º 14 «Joy» (EAC-14) siembra 2 huérfanos nuevos (condición_humana, univocidad; ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 14 «Joy»»). 2026-08-23: cobertura por lotes — lote 1 (silencio_interior, conexión, coraje, razón_instrumental, valía_personal); lote 2 (reinterpretación_tipológica, autenticidad, lenguaje; retargets noche_oscura_del_alma y pobreza_espiritual); lote 3 (pertenencia, castigo, problema_del_mal, adulterio_en_el_corazón; comunicación_y_transparencia en Espiritualidad LC); lote 4 (dicha, espiritualización, historia_de_la_iglesia, moralidad_secular); lote 5 (ocio, recta_razón, significado_nupcial_del_cuerpo, antropología; retarget prescripción_acción_penal). 2026-08-23: el procesamiento de Evangelization & Culture n.º 11 «The Four Last Things» (EAC-11) siembra 35 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 11»). 2026-08-23: EAC-10 siembra 12 (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 10 «Freedom»»). 2026-08-23: el procesamiento de Evangelization & Culture n.º 9 «Poetry» (EAC-9) siembra 3 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 9 «Poetry»»). 2026-08-22: el procesamiento de Evangelization & Culture n.º 8 «Humor» (EAC-8) siembra 6 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 8 «Humor»»). 2026-08-24: el procesamiento de Evangelization & Culture n.º 2 «Economics» (EAC-2) siembra 4 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 2 «Economics»»). 2026-08-29: los resúmenes de Lineas_guia_Protección_menores siembran 24 huérfanos nuevos (ver sección «Sembrados por los resúmenes de Lineas_guia_Protección_menores»). 2026-08-29: los resúmenes de Normae de delictis gravioribus siembran 36 huérfanos nuevos (ver sección «Sembrados por los resúmenes de Normae de delictis gravioribus»). 2026-08-29: los resúmenes de Para Salvarte siembran 30 huérfanos nuevos (ver sección «Sembrados por los resúmenes de Para Salvarte»). 2026-08-29: los resúmenes de Paradoxes of Faith siembran 22 huérfanos nuevos (ver sección «Sembrados por los resúmenes de Paradoxes of Faith»). 2026-08-30: el procesamiento de Evangelization & Culture n.º 13 «The Eucharist» (EAC-13) siembra 10 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 13 «The Eucharist»»)."
 ---
 # Auditoría de wikilinks huérfanos
 
 > Generado originalmente: 2026-06-19
-> Última actualización: **2026-08-30 — Procesamiento de Evangelization & Culture n.º 13 «The Eucharist» (EAC-13): siembra 10 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 13 «The Eucharist»»); se corrigen 3 variantes (santa_teresita_de_lisieux→santa_teresa_de_lisieux; sufrir→sufrimiento_redentor; santa_misa→misa). 2026-08-29 — Resúmenes de Paradoxes of Faith (PoF): 16/16 completados; siembran 22 huérfanos nuevos (ver sección «Sembrados por los resúmenes de Paradoxes of Faith»). Resúmenes de Para Salvarte (PS): 31/31 completados; siembran 30 huérfanos nuevos (ver sección «Sembrados por los resúmenes de Para Salvarte»). Resúmenes de Normae de delictis gravioribus (NDG): 47/47 completados; siembran 36 huérfanos nuevos (ver sección «Sembrados por los resúmenes de Normae de delictis gravioribus»). 2026-08-23 — Cobertura de huérfanos por lotes (de mayor a menor densidad), 5 lotes completados. L5: [[ocio]], [[recta_razón]], [[significado_nupcial_del_cuerpo]], [[antropología]]; retarget `[[prescripción_acción_penal]]` → [[prescripción_de_la_acción_criminal]]. L4: [[dicha]], [[espiritualización]], [[historia_de_la_iglesia]], [[moralidad_secular]]; retarget `[[cristo_cabeza_de_la_iglesia]]` → [[cabeza_de_la_iglesia]]. L3: [[pertenencia]], [[castigo]], [[problema_del_mal]], [[adulterio_en_el_corazón]], [[comunicación_y_transparencia]] (LC). L2: [[reinterpretación_tipológica]], [[autenticidad]], [[lenguaje]]; retargets noche_oscura_del_alma y pobreza_espiritual. L1: silencio_interior (18), conexión (13), coraje (11), razón_instrumental (11), valía_personal (10). Ver secciones «Resueltos por lote N». Tabla regenerada con el detector (total 1796).**
+> Última actualización: **2026-09-02 — Procesamiento de Evangelization & Culture n.º 15 «Suffering» (EAC-15): siembra 25 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 15 «Suffering»»); se corrigen 6 variantes (cruz_de_cristo→cruz; amor_por_los_enemigos→amor_al_enemigo; sufrimiento_de_cristo→sufrimiento_cristiano; acompañamiento→acompañamiento_pastoral; san_juan_pablo_ii→juan_pablo_ii; incarnación→encarnación). 2026-08-31 — Procesamiento de Evangelization & Culture n.º 14 «Joy» (EAC-14): siembra 2 huérfanos nuevos (condición_humana, univocidad; ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 14 «Joy»»); se corrigen 2 variantes (cinema_y_fe→cine; persecución_religiosa→persecución). 2026-08-30 — Procesamiento de Evangelization & Culture n.º 13 «The Eucharist» (EAC-13): siembra 10 huérfanos nuevos (ver sección «Sembrados por el procesamiento de Evangelization & Culture n.º 13 «The Eucharist»»); se corrigen 3 variantes (santa_teresita_de_lisieux→santa_teresa_de_lisieux; sufrir→sufrimiento_redentor; santa_misa→misa). 2026-08-29 — Resúmenes de Paradoxes of Faith (PoF): 16/16 completados; siembran 22 huérfanos nuevos (ver sección «Sembrados por los resúmenes de Paradoxes of Faith»). Resúmenes de Para Salvarte (PS): 31/31 completados; siembran 30 huérfanos nuevos (ver sección «Sembrados por los resúmenes de Para Salvarte»). Resúmenes de Normae de delictis gravioribus (NDG): 47/47 completados; siembran 36 huérfanos nuevos (ver sección «Sembrados por los resúmenes de Normae de delictis gravioribus»). 2026-08-23 — Cobertura de huérfanos por lotes (de mayor a menor densidad), 5 lotes completados. L5: [[ocio]], [[recta_razón]], [[significado_nupcial_del_cuerpo]], [[antropología]]; retarget `[[prescripción_acción_penal]]` → [[prescripción_de_la_acción_criminal]]. L4: [[dicha]], [[espiritualización]], [[historia_de_la_iglesia]], [[moralidad_secular]]; retarget `[[cristo_cabeza_de_la_iglesia]]` → [[cabeza_de_la_iglesia]]. L3: [[pertenencia]], [[castigo]], [[problema_del_mal]], [[adulterio_en_el_corazón]], [[comunicación_y_transparencia]] (LC). L2: [[reinterpretación_tipológica]], [[autenticidad]], [[lenguaje]]; retargets noche_oscura_del_alma y pobreza_espiritual. L1: silencio_interior (18), conexión (13), coraje (11), razón_instrumental (11), valía_personal (10). Ver secciones «Resueltos por lote N». Tabla regenerada con el detector (total 1796).**
 > Total de wikilinks huérfanos registrados: **1797** (pendientes de artículo; detector 2026-08-14, excluido el falso positivo `[[concepto]]`;EAC-3 introduce 9 huérfanos nuevos: `[[blas_pascal]]`, `[[nietzsche]]`, `[[nones]]`, `[[periferias]]`, `[[micro_moralidad]]`, `[[macro_moralidad]]`, `[[evangelización_digital]]` (ya creado), `[[videojuegos]]` (ya creado), `[[aristóteles]]` (ya creado); 7 artículos nuevos creados: san_isidoro_de_sevilla, fulton_sheen, george_orwell, robert_barron, evangelización_digital, videojuegos, aristóteles; EAC-9 introduce 3 huérfanos nuevos (2026-08-23): `[[conversión_cristiana]]`, `[[dana_gioia]]` (resuelto el mismo día con la creación de `wiki/personas/dana_gioia.md`), `[[milagros_de_jesús]]`; EAC-10 introduce 12 huérfanos nuevos (2026-08-23): ver sección correspondiente; 7 artículos nuevos creados: san_isidoro_de_sevilla, fulton_sheen, george_orwell, robert_barron, evangelización_digital, videojuegos, aristóteles; 2026-08-13: CBL introduce 3 huérfanos nuevos; 2026-08-14: 1 resuelto por renombrado de preexistencia_de_cristo → preexistencia_del_verbo; 2026-08-14: CEC Lote 1 introduce 2 huérfanos nuevos; 2026-08-14: CEC Lote 2 introduce 21 huérfanos nuevos; 2026-08-14: CEC Lote 3 introduce 16 huérfanos nuevos; 2026-08-14: se retira `[[templo_de_jerusalen]]` del registro del Lote 2 por no ser huérfano — existe `wiki/conceptos/templo_de_Jerusalén.md`; 2026-08-24: completado del procesamiento EAC-3 (Issue 3 «The Digital Age») introduce 1 huérfano nuevo intencional: `[[atención]]`, sembrado desde [[redes_sociales]] como forward reference
 > Resueltos (acumulado; ver secciones «Resueltos…» y notas finales): 35+29+11+14+19+6+1 (6 en 2026-07-15/16 — ver sección final; 26 por re-auditoría 2026-08-01; 3 por BMV 2026-08-03; 29 por alta densidad 2026-08-03; 11 por alta densidad 2ª tanda 2026-08-03; 14 por alta densidad 3ª tanda 2026-08-03, neto −11; 19 por alta densidad 4ª tanda 2026-08-04; 6 por limpieza de paréntesis 2026-08-04, neto −5 por el re-sembrado de `[[respuesta_divina]]`; 1 por normalización de nombres con paréntesis 2026-08-08; +1 el 2026-08-23: `[[dana_gioia]]` resuelto con la creación de su artículo en `wiki/personas/`; +5 por lote 1 de alta densidad (2026-08-23): silencio_interior, conexión, coraje, razón_instrumental, valía_personal; +5 por lote 2 (2026-08-23): 3 artículos nuevos (reinterpretación_tipológica, autenticidad, lenguaje) y 2 retargets a artículos canónicos (noche_oscura_del_alma → noche_oscura; pobreza_espiritual → pobreza_de_espíritu); +5 por lote 3 (2026-08-23): pertenencia, castigo, problema_del_mal, adulterio_en_el_corazón y comunicación_y_transparencia); +5 por lote 4 (2026-08-23): dicha, espiritualización, historia_de_la_iglesia, moralidad_secular + retarget cristo_cabeza_de_la_iglesia → cabeza_de_la_iglesia); +5 por lote 5 (2026-08-23): ocio, recta_razón, significado_nupcial_del_cuerpo, antropología + retarget prescripción_acción_penal → prescripción_de_la_acción_criminal)
 
@@ -3344,3 +3344,82 @@ Granados/Mixa). Variantes corregidas antes del registro:
 `[[sufrir]]` → `[[sufrimiento_redentor]]`,
 `[[santa_misa]]` → `[[misa]]` (ya registrado), `[[maría]]` (ya registrado),
 `[[word_on_fire]]` (ya registrado).
+
+## Sembrados por el procesamiento de Evangelization & Culture n.º 14 «Joy» (2026-08-31)
+
+Al procesar la fuente EAC-14 (24 archivos) se sembraron intencionalmente los
+siguientes wikilinks sin artículo (forward references). Su contenido está
+tratado en `wiki/documentos/evangelization_and_culture_issue_14_joy.md`,
+en las personas creadas ([[blaise_pascal]], [[beato_stanley_rother]],
+[[eric_rohmer]], [[haley_stewart]]), las personas enriquecidas
+([[duns_escoto]], [[san_juan_bosco]], [[gerard_manley_hopkins]]) y los
+artículos enriquecidos ([[alegría]], [[gozo]], [[alegría_litúrgica]],
+[[alegría_cristiana]], [[alegría_de_evangelizar]], [[evangelización]],
+[[primacía_de_cristo]], [[inmaculada_concepción]], [[misterios_del_rosario]],
+[[unión_transformante]], [[frutos_del_espíritu_santo]], [[vida_humana]],
+[[vía_de_la_belleza]], [[libertad]]), así como en los 24 resúmenes del número
+en `wiki/Resúmenes/Evangelization and culture - 14/`:
+
+| Wikilink | Referencias | Contenido actual / artículo futuro |
+|----------|-------------|------------------------------------|
+| `[[condición_humana]]` | 1 | blaise_pascal (grandeza y miseria del hombre, la «condición humana» según Pascal) |
+| `[[univocidad]]` | 1 | duns_escoto (univocidad del ser aplicada a Dios como doctrina escotista frente al analógico tomista; Ward) |
+
+Variantes corregidas antes del registro (`cinema_y_fe` → [[cine]],
+`persecución_religiosa` → [[persecución]]). `[[vicios]]` y
+`[[imaginación_formadora]]` del detector corresponden a otros procesamientos,
+no a EAC-14.
+
+## Sembrados por el procesamiento de Evangelization & Culture n.º 15 «Suffering» (2026-09-02)
+
+Al procesar la fuente EAC-15 (25 archivos) se sembraron intencionalmente los
+siguientes wikilinks sin artículo (forward references). Su contenido está
+tratado en `wiki/documentos/evangelization_and_culture_issue_15_suffering.md`,
+en las personas creadas ([[friedrich_nietzsche]], [[raniero_cantalamessa]],
+[[george_weigel]], [[christopher_kaczor]], [[gary_saul_morson]],
+[[michael_casey]], [[peter_kreeft]], [[henri_nouwen]]), los conceptos creados
+([[amor_al_enemigo]], [[libro_de_job]], [[qoheleth]], [[divina_misericordia]],
+[[acompañamiento_pastoral]], [[parábola_del_buen_samaritano]],
+[[consolación_espiritual]], [[salvifici_doloris]]) y los artículos enriquecidos
+([[sufrimiento_cristiano]], [[problema_del_mal]], [[teodicea]],
+[[misterio_pascual]], [[sufrimiento_redentor]], [[siervo_de_yahvé]],
+[[desolación_espiritual]], [[kenosis]], [[cruz]], [[redención]],
+[[providencia]], [[fe_y_razón]], [[opción_preferencial_por_los_pobres]],
+[[pecado_original]], [[misericordia_divina]]), así como en los 24 resúmenes del
+número en `wiki/Resúmenes/Evangelization and culture - 15/`:
+
+| Wikilink | Referencias | Contenido actual / artículo futuro |
+|----------|-------------|------------------------------------|
+| `[[amor_kenótico]]` | 1 | mixa/nietzsche: el amor kenótico de Cristo frente a la «muerte de Dios» |
+| `[[autoestima_cristiana]]` | 1 | hren/bernanos: el amor santo de sí mismo como «gracia suprema» del cura |
+| `[[calvario]]` | 1 | weigel: el Gólgota, el sufrimiento en el que Dios «no ahorró a su propio Hijo» |
+| `[[carpe_diem]]` | 1 | casey/qoheleth: gozar el presente donado por Dios en contraste con el hedonismo |
+| `[[comunidad_eclesial]]` | 1 | meditatio_contemplatio: el sufrimiento vivido y cargado en comunidad |
+| `[[cristianismo]]` | 1 | mixa/nietzsche: la fe cristiana como anuncio frente a la «muerte de Dios» |
+| `[[cuidado_paliativo]]` | 1 | may/medicina: límites de la medicina y cuidado del sufrimiento del alma |
+| `[[cultura_de_la_muerte]]` | 1 | mixa/nietzsche: nihilismo y negación del sufrimiento en la cultura contemporánea |
+| `[[heroísmo]]` | 1 | worner/whitman: el heroísmo cristiano atravesado por el sufrimiento |
+| `[[hevel]]` | 1 | casey/qoheleth: «vapor»/vanidad como categoría cosmológica del Eclesiastés |
+| `[[literatura_rusa]]` | 2 | morson + meditatio_contemplatio: el sufrimiento como tema capital de la novela rusa |
+| `[[maría_de_betania]]` | 1 | kaczor/stump: figura narrativa de la defensa de Dios frente al sufrimiento |
+| `[[mezcla_de_vida]]` | 1 | casey/qoheleth: «mixity», la condición mixta de tiempos buenos y malos |
+| `[[misterio_de_la_iniquidad]]` | 1 | becklo/malick: el sufrimiento que nos infligimos unos a otros |
+| `[[mixity]]` | 1 | casey/qoheleth: la coexistencia de gracia y miseria, gozo y sufrimiento |
+| `[[paz_de_cristo]]` | 1 | fowerbaugh/litania: la paz que «sobrepasa todo entendimiento» (Flp 4,7) |
+| `[[proceso_de_conocimiento]]` | 1 | kaczor/stump: conocimiento «dominicano» vs. «franciscano» (familiar vs. proposicional) |
+| `[[proyecto_rachel]]` | 1 | mcclusky: ministerio de reconciliación y sanación tras el aborto |
+| `[[ressentiment]]` | 1 | hren/bernanos: el resentimiento como tentación frente al sufrimiento |
+| `[[sansón]]` | 1 | kaczor/stump: figura bíblica de la narración de la defensa de Dios |
+| `[[soledad_espiritual]]` | 1 | frost: el «lugar desierto» del alma, la desolación interior |
+| `[[sufrimiento_espiritual]]` | 1 | may/medicina: el sufrimiento del alma frente al dolor físico |
+| `[[teodrama]]` | 1 | mixa/nietzsche: el drama de Dios como clave teológica (Balthasar) |
+| `[[vanidad_de_vanidades]]` | 1 | casey/qoheleth: «vanidad de vanidades» (Qo 1,2) |
+| `[[árbol_de_la_vida]]` | 1 | becklo/malick: la cruz como árbol de la vida frente al árbol del conocimiento |
+
+Variantes corregidas antes del registro (`cruz_de_cristo` → [[cruz]],
+`amor_por_los_enemigos` → [[amor_al_enemigo]],
+`sufrimiento_de_cristo` → [[sufrimiento_cristiano]], `acompañamiento` →
+[[acompañamiento_pastoral]], `san_juan_pablo_ii` → [[juan_pablo_ii]],
+`incarnación` → [[encarnación]]). `[[misterio_del_mal]]` ya estaba registrado
+y `[[sufrimiento_de_cristo]]`/`[[cruz_de_cristo]]` se retargetaron a variantes
+canónicas; los demás huérfanos del detector pertenecen a otros procesamientos.

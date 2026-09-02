@@ -65,6 +65,10 @@ Benedicto XVI subraya que «la exégesis más antigua ha considerado que lo real
 
 Jesús se ve a sí mismo como el que está sentado «a la derecha de Dios» (Sal 110), como el futuro rey y sacerdote, pero al mismo tiempo se identifica con el siervo de Dios que padece y muere. «El servir es la verdadera forma de reinar y nos deja presentir algo de cómo Dios es Señor, del "reinado de Dios". En la pasión y en la muerte, la vida del Hijo del hombre se convierte también en "pro-existencia" (existir para los demás); se convierte en liberador y salvador para "todos": no sólo para los hijos de Israel dispersos, sino para todos los hijos de Dios dispersos» (JdN_I, 6.1).
 
+### Según Evangelization & Culture, Issue 15 «Suffering» (EAC-15)
+
+**El Siervo Sufriente y los desheredados (Raniero Cantalamessa).** El crucificado es «el arquetipo y la encarnación de todos los rechazados, desheredados y descartados de la tierra» (Is 53,3); Cristo se identificó con los pobres y marginados desde Belén (Lc 2,7; 2,24) hasta «no tener dónde reclinar la cabeza» (Mt 8,20); el *Ecce homo* (Jn 19,5) proclama la dignidad humana de los vilipendiados; Jesús es «el hombre» de los despreciados, a la luz de *Si esto es un hombre* de Primo Levi; la muerte redentora del Siervo «llevó el amor de Dios» hasta la muerte y la revierte en la resurrección, devolviendo la esperanza a los desheredados; la intercesión del Siervo (Is 53,11-12) [EAC-15, 19].
+
 ## Ver también
 [[jesucristo]], [[redentor]], [[expiación]], [[misterio_pascual]], [[isaías]], [[cordero_de_dios]]
 
@@ -73,3 +77,4 @@ Jesús se ve a sí mismo como el que está sentado «a la derecha de Dios» (Sal
 - VocTeoBib, artículo «Siervo de Yahvé», Xavier León-Dufour (ed.)
 - Is 42,1-9; 49,1-6; 50,4-11; 52,13-53,12; Hch 8,26-40; 1 Pe 2,21-25
 - Benedicto XVI, Jesús de Nazaret I, 6.1
+- EAC-15, archivo 19 (Raniero Cantalamessa)

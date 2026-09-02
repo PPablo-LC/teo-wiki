@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Primacía de Cristo
 tags: ["cristología", "dogmática"]
 
-timestamp: 2026-06-22
+timestamp: 2026-08-31
 description: "La primacía de Cristo es la absoluta superioridad de su persona y autoridad sobre toda realidad creada."
 ---
 # Primacía de Cristo
 
 > Área: Cristología / Dogmática
-> Última actualización: 2026-06-22
+> Última actualización: 2026-08-31
 
 ## Definición
 
@@ -31,14 +31,26 @@ El que promete a quien lo deja todo «recibir el ciento por uno y heredar la vid
 
 Jesús exige un amor mayor que el debido a los padres y a la propia vida. Solo Dios, en virtud de la exigencia de amor radical y total, puede llamar al hombre para que lo siga sin reservas, sin limitaciones, de forma indivisible. Solo Dios «es bueno» en sentido absoluto (Mc 10,18). Solo Él «es amor» por esencia y por definición (1 Jn 4,16) (CrSJP 34 §2).
 
+### Según Evangelization & Culture n.º 14 «Joy» (EAC-14)
+
+Thomas M. Ward presenta la primacía de Cristo en sentido escotista como «el motivo de toda la creación»: Dios creó el mundo por amor, y de todas las criaturas posibles amó sobre todo la naturaleza humana de Cristo (EAC-14, 10_minds.md).
+
+- **Cristo, centro y corona de la creación:** «Desde toda la eternidad, Dios quiso crear un mundo para Jesús, su Hijo encarnado»; «de todas las criaturas que podía crear, Dios amó sobre todo la naturaleza humana de Cristo».
+- **La Encarnación no depende del pecado:** «Tanto si Adán hubiera pecado como si no, Dios se habría encarnado»: la primacía de Cristo es absoluta y primordial, no meramente reparadora. La Encarnación es «un acto primordial de amor», no una contingencia de la caída.
+- **La gloria de Dios como fin de la creación:** la supremacía de Cristo se une a la libertad y racionalidad del «amante metódico» que crea «por el intenso deseo de compartir su infinita bondad».
+- **La alegría de la creación:** fiel al tema del número (la alegría), la primacía de Cristo fundamenta la alegría del universo: la creación entera existe para Cristo, «joya en la corona de la sabiduría cristiana» y en su inserción en el plan de amor que culmina en la unión del alma con Dios.
+
+Véase también [[duns_escoto]], [[inmaculada_concepción]].
+
 ## Relaciones doctrinales
 
-Se relaciona con [[seguimiento_de_cristo]], [[renuncia_y_seguimiento]], [[divinidad_de_cristo]], [[autoridad_divina_de_cristo]], [[vocación_cristiana]].
+Se relaciona con [[seguimiento_de_cristo]], [[renuncia_y_seguimiento]], [[divinidad_de_cristo]], [[autoridad_divina_de_cristo]], [[vocación_cristiana]], [[duns_escoto]], [[encarnación]].
 
 ## Ver también
 
-[[seguimiento_de_cristo]], [[divinidad_de_cristo]], [[autoridad_divina_de_cristo]]
+[[seguimiento_de_cristo]], [[divinidad_de_cristo]], [[autoridad_divina_de_cristo]], [[duns_escoto]], [[encarnación]]
 
 ## Referencias
 
 - CrSJP, Catequesis 34, 28 de octubre de 1987, §§2-5
+- Thomas M. Ward, «Minstrel of the Incarnation» (EAC-14, 10_minds.md)

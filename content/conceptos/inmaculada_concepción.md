@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Inmaculada Concepción
 tags: ["dogmática_(mariología)"]
 
-timestamp: 2026-06-28
+timestamp: 2026-08-31
 description: "Dogma definido por Pío IX el 8 de diciembre de 1854 (Bula *Ineffabilis Deus*)."
 ---
 # Inmaculada Concepción
 
 > Área: Dogmática (Mariología)
-> Última actualización: 2026-06-28
+> Última actualización: 2026-08-31
 
 ## Definición
 
@@ -64,6 +64,14 @@ Loring explica que la Inmaculada Concepción significa que María fue preservada
 
 Scott Hahn (BMV, lecciones 8-9) fundamenta la Inmaculada Concepción en el saludo «llena de gracia» (*kecharitomene*, Lc 1,28): el nombre que el ángel da a María expresa la plenitud total de gracia, incompatible con el pecado. El curso presenta el dogma de *Ineffabilis Deus* (1854) como la explicitación dogmática de lo que la Escritura ya contenía en clave tipológica: María, la llena de gracia y la mujer del protoevangelio (Gn 3,15), es preservada del pecado original desde el primer instante. La tradición oriental (san Efrén, san Juan de Damasco) cantó la pureza total de María; Lourdes (1858) la confirmaría: «Yo soy la Inmaculada Concepción».
 
+### Según Evangelization & Culture n.º 14 «Joy» (EAC-14)
+
+El análisis de Escoto en el número 14 conecta la Inmaculada Concepción con la lógica de la primacía de [[jesucristo]]. Juan Pablo II llamó a Escoto «Defensor de la Inmaculada Concepción y Ministril de la Encarnación». Escoto defendió la Inmaculada Concepción mediante su distinción sobre la redención preventiva: María fue preservada del pecado original por los méritos de Cristo aplicados anticipadamente (ya desarrollado en [[duns_escoto]]).
+
+La lógica escotista de la primacía de Cristo fundamenta la conveniencia del privilegio: si la Encarnación es el motivo primordial de la creación («Tanto si Adán hubiera pecado como si no, Dios se habría encarnado»), entonces la elección de María como Madre del Verbo encarnado es también primordial y gratuita, fundando así la conveniencia de su Inmaculada Concepción. La redención preventiva de María queda, por tanto, inscrita en el plan gratuito de [[primacía_de_cristo]].
+
+[EAC-14, 10_minds.md]
+
 ## Distinciones importantes
 - **Inmaculada Concepción**: María fue concebida sin pecado original
 - **Concepción virginal**: Jesús fue concebido por obra del Espíritu Santo sin intervención de varón
@@ -71,11 +79,11 @@ Scott Hahn (BMV, lecciones 8-9) fundamenta la Inmaculada Concepción en el salud
 
 ## Relaciones doctrinales
 
-La Inmaculada Concepción es fundamento de la [[asunción]] (quien no tuvo pecado no debía sufrir corrupción), presupone la [[gracia_santificante]] como estado original del alma de María, y se vincula con la [[maternidad_divina]] como razón de este privilegio singular.
+La Inmaculada Concepción es fundamento de la [[asunción]] (quien no tuvo pecado no debía sufrir corrupción), presupone la [[gracia_santificante]] como estado original del alma de María, y se vincula con la [[maternidad_divina]] como razón de este privilegio singular. Se liga además con la [[primacía_de_cristo]] y la [[redención]] en la lógica escotista de la redención preventiva, desarrollada en [[duns_escoto]].
 
 ## Ver también
 
-[[virgen_maría]], [[pecado_original]], [[asunción]], [[gracia_santificante]], [[concepción_virginal]], [[maternidad_divina]], [[adán]], [[redención]], [[jorge_loring]]
+[[virgen_maría]], [[pecado_original]], [[asunción]], [[gracia_santificante]], [[concepción_virginal]], [[maternidad_divina]], [[adán]], [[redención]], [[jorge_loring]], [[duns_escoto]], [[primacía_de_cristo]]
 
 ## Referencias
 
@@ -83,3 +91,6 @@ La Inmaculada Concepción es fundamento de la [[asunción]] (quien no tuvo pecad
 - Pío IX, *Ineffabilis Deus* (1854)
 - TPCr, Tratado de la Virgen María
 - [PS §29-30]
+- Redemptoris Mater §9-11
+- Denzinger D-734, D-735, D-1100, D-1314, D-1641-1642
+- [EAC-14, 10_minds.md]

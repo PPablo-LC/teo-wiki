@@ -3,40 +3,26 @@ type: ResumenFuente
 title: "5 Conclusión"
 fuente: Consideraciones_carismas
 capítulo: 10
-timestamp: 2026-08-24
+timestamp: 2026-08-31
 description: "Resumen de '5 Conclusión' — Consideraciones_carismas"
 tags: ["resumen", "consideraciones carismas"]
 ---
 
 # 5 Conclusión
 
-## Conceptos básicos referenciados
+## Conceptos básicos referenciados en este capítulo
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[carismas_del_espíritu_santo]] — dones del Espíritu que siguen actuando en el «hoy» de la Iglesia
+- [[espíritu_santo]] — protagonista de toda renovación verdadera
+- [[renovación_carismática]] — gracia pentecostal para toda la Iglesia reconocida por el Papa Francisco
+- [[discernimiento_espiritual]] — examinarlo todo y quedarse con lo bueno (1 Tes 5, 19-21)
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
 📄 **Fuente original:** `11_conclusion.md`
 
+Estas consideraciones no son la última palabra sobre los [[carismas_del_espíritu_santo]]. Pretenden cumplir el encargo de estudiar el tema y ofrecer indicaciones doctrinales y orientaciones pastorales, siendo útiles a quienes pidieron mayor claridad y a quienes ejercen la autoridad.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+El [[espíritu_santo]] sigue actuando en el «hoy» de la Iglesia, como en Pentecostés. El Papa Francisco afirmó que «la [[renovación_carismática]] es una gracia pentecostal para toda la Iglesia» (Discurso, 3 de julio de 2015). El mismo Espíritu que suscita los carismas interviene a lo largo de la historia para revitalizarlos. Las expresiones externas pueden variar con el tiempo, pero el secreto de toda renovación verdadera pasa por una mayor apertura y docilidad al Espíritu. Cuando el Espíritu derrama sus dones y revitaliza un carisma, los frutos siempre son buenos.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 5 Conclusión |
-
-
-## Secciones incluidas
-
+Se pide a la Santísima Virgen, Reina de los Apóstoles, que interceda por todos los miembros del Regnum Christi, como hizo en el Cenáculo la vigilia de Pentecostés, para que estas consideraciones ayuden a no apagar el Espíritu, a examinarlo todo y quedarse con lo bueno (1 Tes 5, 19-21).

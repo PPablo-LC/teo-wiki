@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "POSTURA DE LA IGLESIA"
 fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
 capítulo: 9
-timestamp: 2026-08-24
+timestamp: 2026-08-31
 description: "Resumen de 'POSTURA DE LA IGLESIA' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
@@ -12,31 +12,19 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[Iglesia_católica]] — postura oficial frente a la Conferencia de Pekín sobre la mujer
+- [[dignidad_de_la_mujer]] — fundamento de la posición eclesial
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `09_postura_de_la_iglesia.md`
+## POSTURA DE LA IGLESIA
 
+Este apartado sirve como título de sección que engloba los mensajes y discursos del Papa [[san_juan_pablo_ii]] en el contexto de la IV Conferencia Mundial de la ONU sobre la Mujer (Pekín, 1995). La postura de la [[Iglesia_católica]] se centra en la defensa de la [[dignidad_de_la_mujer]] como persona humana creada a imagen y semejanza de Dios, y en la promoción de la igualdad, el desarrollo y la paz como objetivos fundamentales para la condición femenina.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H1 | POSTURA DE LA IGLESIA |
 
-
 ## Secciones incluidas
-

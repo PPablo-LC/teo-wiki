@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Fe y Razón
 tags: ["dogmática"]
 
-timestamp: 2026-05-22
+timestamp: 2026-09-02
 description: "La relación entre la fe y la razón designa la armonía y mutua colaboración entre el conocimiento sobrenatural (fe) y el conocimiento natural (razón)."
 ---
 # Fe y Razón
 
 > Área: Dogmática
-> Última actualización: 2026-06-29
+> Última actualización: 2026-09-02
 
 ## Definición
 
@@ -65,6 +65,16 @@ Tóth aplica la armonía fe-razón a la educación religiosa de la juventud. La 
 
 El Apéndice I (P. Manuel Carreira S.J.) desarrolla esta armonía en clave científica: la ciencia misma descansa sobre los principios de identidad, no contradicción y razón suficiente; casi todo lo que sabemos lo recibimos por «fe humana» (conocimiento por testimonio), que da certeza incluso contra la experiencia sensible —como quien cree la teoría atómica sin haberla demostrado—. La fe cristiana es «aceptar una revelación para la cual tenemos pruebas históricas»; el milagro es «un hecho externo, comprobable por cualquiera, que no es explicable por el modo bien conocido de actuar de la naturaleza». No puede haber conflicto entre teología y ciencia porque cada una tiene «su metodología limitada a su campo» [archivo 21]. En la apologética escolar hay que mostrar que «nuestra fe es tan racional que puede creerla un hombre sensato, y tan apetecible que tampoco hay dificultad para que un hombre equilibrado la acepte»: la existencia de Dios puede conocerse «por sus obras, a la sola luz de la razón» —el diseño del macrocosmos y microcosmos, las maravillas de la naturaleza— [archivo 15]. Aparecida lo ratifica: «Fe y razón son dos alas por las cuales el espíritu humano se eleva en la contemplación de la verdad… el libro de la naturaleza y la Sagrada Escritura hablan del mismo Verbo que se hizo carne» [archivo 36].
 
+### Según Evangelization & Culture, Issue 15 «Suffering» (EAC-15)
+
+**Las dos alas del alma (Peter Kreeft).** En el relato ficcional *The Grand Inveigler*, el narrador ha «valorado siempre la razón y la fe como las dos perfecciones más importantes» de las dos potencias más humanas, y las ha pensado «como aliadas, no enemigas, como las dos alas con las que volamos, o los dos pulmones con los que respiramos» [EAC-15, 14]. El alma es un pájaro cuyas dos alas son la razón (perfección de la mente) y la fe (perfección del corazón); cuando una crisis hace batir esas alas en direcciones contrarias, se teme no poder ya volar [EAC-15, 14]. La respuesta a la duda no es un argumento que la refute, sino Cristo mismo: «Él no nos da una respuesta, él es nuestra respuesta», como en el final del libro de Job, donde Dios no contesta las preguntas de Job porque es la respuesta [EAC-15, 14].
+
+**La filosofía necesaria para la apologética (Jared Zimmerer).** El Instituto insiste en «la necesidad de la filosofía en la evangelización»: como afirma Barron, se necesitan evangelizadores «capaces de hacer argumentos inteligentes»; el buen debate filosófico «es una manera excelente de mostrar la tradición intelectual y baluarte de la fe católica» [EAC-15, 03].
+
+**Fe y razón compatibles en la experiencia de la fe (Giussani, Sr. Giovanna Garbelli).** Don Luigi Giussani enseñó a la Hermana Garbelli, en su crisis de sentido adolescente, «que la razón y la fe no son mutuamente excluyentes» y que «la fe es el principio rector último para comprender la realidad» [EAC-15, 21]. Con él leyó a Dante, Leopardi, Claudel, Péguy y Eliot y escuchó música clásica; la fe «se hizo tan atractiva que era imposible no caer en ella», pues «Cristo estaba presente en la música, la literatura, la filosofía, la ciencia y todo lo demás» [EAC-15, 21].
+
+**La defensa racional de la compatibilidad de Dios con el sufrimiento (Christopher Kaczor y Eleonore Stump).** El sufrimiento es «la objeción más fuerte a la existencia de Dios», pero la filosofía sí progresa: a lo largo del siglo XX se abandonó la tesis de que cualquier sufrimiento demuestra la no existencia de Dios, y se mostró que «Dios existe» y «hay sufrimiento en el mundo» no son proposiciones necesariamente contradictorias [EAC-15, 16]. *Wandering in Darkness* de Stump «defiende» la tesis de que la existencia de Dios «no es incompatible con la realidad del sufrimiento» mediante la rigurosidad analítica «dominicana», complementada con el conocimiento narrativo «franciscano» (Job, Sansón, Abraham, María de Betania), mostrando que fe y razón cooperan en la «derrota» (defeat) del sufrimiento [EAC-15, 16].
+
 ## Distinciones importantes
 
 - **Preámbulos de la fe**: verdades racionales que preparan para la fe (existencia de Dios, inmortalidad del alma).
@@ -96,3 +106,4 @@ La relación entre fe y razón es fundamental para la [[teología_fundamental]],
 - [CEC §154-159]
 - [CEC §36-38]
 - [TPCr, Introducción General]
+- [EAC-15, 03, 14, 16, 21]

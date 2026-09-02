@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Evangelización
 tags: ["doctrina_social", "eclesiología"]
 
-timestamp: 2026-08-19
+timestamp: 2026-08-31
 description: "La evangelización es la misión fundamental de la Iglesia de anunciar y actualizar el Evangelio en todas las dimensiones de la vida humana, incluida la compleja red de las relaciones sociales."
 ---
 # Evangelización
 
 > Área: Doctrina Social / Eclesiología
-> Última actualización: 2026-08-19
+> Última actualización: 2026-08-31
 
 ## Definición
 
@@ -125,6 +125,20 @@ Brandon Vogt propone cinco lecciones para el evangelizador digital: (1) desarrol
 
 **La evangelización y la cultura** (Tod Worner, §05): Sin los fundamentos de la fe, es difícil llegar a la cultura con el Evangelio. La evangelización requiere arraigo en la propia fe para poder dialogar con la cultura contemporánea.
 
+### Según Evangelization & Culture, Issue 14 «Joy» (EAC-14)
+
+El número 14, dedicado a la alegría, desarrolla la evangelización como testimonio de gozo:
+
+**La alegría como fundamento del anuncio (Barron):** «Los mejores portadores del Evangelio son aquellos cuya alegría en Cristo es contagiosa». El fracaso de la evangelización en la propia generación de Barron se explica por una Iglesia «peleando consigo misma por la ley ética» que «se olvidó de invitar a la gente a una gozosa amistad con Cristo Jesús». La ética debe ser posterior al encuentro gozoso: «Primero la alegría, luego la ética» [EAC-14, 01_from_the_desk.md].
+
+**Evangelizar por la difusión del bien (Barron, EG):** El principio *bonum diffusivum sui* (el bien se difunde a sí mismo) es el motor del anuncio: «Queremos, con un abandono imprudente, regalar esta buena noticia suprema». Una Iglesia «llena de la alegría de la Resurrección se convierte en una banda de "discípulos misioneros"» [EAC-14, 19_spotlight_barron.md].
+
+**La alegría como icono y herramienta de conversión (Britton):** retomando *Evangelii nuntiandi* 75, «el mundo busca la Buena Nueva de evangelizadores cuyas vidas irradien fervor, que hayan recibido primero la alegría de Cristo». La alegría no es un accesorio sino «un poderoso instrumento de conversión»; «un católico gozoso es uno de los iconos más conmovedores» [EAC-14, 18_special_feature_britton.md].
+
+**Evangelización y narrativa (Stewart):** «los seres humanos están hechos para la historia»; por eso Jesús enseña en parábolas. La buena literatura —que cultiva la verdad, la bondad y la belleza— «prepara el terreno en el corazón de los niños para orientarlos hacia un Dios que los ama» [EAC-14, 09_spotlight_stewart.md].
+
+**Evangelización en el testimonio del mártir (Gadberry/Rother):** el pastor que «no puede huir al primer signo de peligro» (Beato Stanley Rother) y que vive en «santo abandono» hace creíble la Buena Nueva: «Dios no me pide éxito, sino amor» (Card. Sarah) [EAC-14, 17_feature_gadberry.md]. Véase [[beato_stanley_rother]].
+
 ## Ver también
 [[misión_de_la_iglesia]], [[doctrina_social_de_la_iglesia]], [[promoción_humana]], [[caridad]], [[justicia]]
 
@@ -138,3 +152,4 @@ Brandon Vogt propone cinco lecciones para el evangelizador digital: (1) desarrol
 - Ele_Xto_Stos, Cap. III, §6
 - Evangelization & Culture, Issue 6 (EcC6): §§05, 10 (Petiprin, Zimmerer, Worner)
 - Evangelization & Culture, Issue 7 (EcC7): Cush, "Theology as an Eight-Part Symphony," pp. 325-333
+- Evangelization & Culture, Issue 14 (EAC-14 «Joy»): 01_from_the_desk.md, 09_spotlight_stewart.md, 17_feature_gadberry.md, 18_special_feature_britton.md, 19_spotlight_barron.md

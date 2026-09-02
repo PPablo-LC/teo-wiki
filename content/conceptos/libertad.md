@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Libertad
 tags: ["moral_fundamental", "antropología_teológica"]
 
-timestamp: 2026-08-23
+timestamp: 2026-08-31
 description: "Facultad de la voluntad por la cual el hombre puede determinar sus propios actos hacia su fin último sin coacción externa ni necesidad interna. Pinckaers distingue dos concepciones antitéticas: libertad de indiferencia y libertad de calidad."
 ---
 # Libertad
 
 > Área: Moral Fundamental / Antropología Teológica
-> Última actualización: 2026-06-29
+> Última actualización: 2026-08-31
 
 ## Definición
 
@@ -87,9 +87,17 @@ El fascículo décimo de la revista del Word on Fire Institute está dedicado í
 - **Obediencia como empeñamiento:** Hna. Mary Madeline Todd OP: «el acto más libre no es el más autónomo sino el más donante»; Cristo entregando su vida por propia voluntad (Jn 10,18) muestra la altura a que la libertad humana puede aspirar.
 - **Libertad y verdad frente a la ideología:** Orwell/*1984* con *Centesimus Annus* 46: la cultura totalitaria nace de la negación de la verdad; la dictadura del relativismo como su forma suave pero igualmente coercitiva.
 
+### Según Evangelization & Culture n.º 14 «Joy» (EAC-14)
+
+Worner (04_midnight_oil.md) presenta las reglas no como límites sino como protección de la libertad. Chesterton lo expresa con su imagen del patio de recreo: «La doctrina y la disciplina católicas pueden ser muros, pero son los muros de un patio de recreo». Worner lo confirma desde la experiencia: «Las reglas, descubrimos, nunca nos retuvieron — nos liberaron para entrar en la plenitud».
+
+Esta libertad interior dispone a recibir la gracia: «La alegría es a menudo antagonizada por la ansiedad. No hay suficiente espacio en la sala para ambas». Desprenderse de las preocupaciones es condición para la alegría: «Disfrutar libremente de las gracias de Dios requiere disipar las preocupaciones díscolas y los temores infundados».
+
+[EAC-14, 04_midnight_oil.md]
+
 ## Relaciones doctrinales
 
-La libertad se relaciona con el [[libre_albedrío]] (su fundamento ontológico), con el [[acto_humano]] (su ejercicio), con la [[gracia]] (su elevación), con la [[libertad_humana]] (su dimensión natural) y con la [[conciencia_moral]] (su regla próxima).
+La libertad se relaciona con el [[libre_albedrío]] (su fundamento ontológico), con el [[acto_humano]] (su ejercicio), con la [[gracia]] (su elevación), con la [[libertad_humana]] (su dimensión natural) y con la [[conciencia_moral]] (su regla próxima). Las reglas y la ley, lejos de coartarla, protegen y perfeccionan la [[libertad_cristiana]], en la línea de la [[ley_nueva_como_ley_de_libertad]].
 
 
 ## Analizado para
@@ -97,10 +105,11 @@ La libertad se relaciona con el [[libre_albedrío]] (su fundamento ontológico),
 - [[jeff_lacour_true_freedom_through_prayer]]
 
 ## Ver también
-[[libertad_humana]], [[libre_albedrío]], [[acto_humano]], [[gracia]], [[conciencia_moral]], [[ley_natural]], [[dignidad_humana]]
+[[libertad_humana]], [[libre_albedrío]], [[acto_humano]], [[gracia]], [[conciencia_moral]], [[ley_natural]], [[dignidad_humana]], [[libertad_cristiana]], [[ley_nueva_como_ley_de_libertad]]
 
 ## Referencias
 
 - CEC §1730-1748, §1804
 - TPCr, Tratado de la libertad
 - [EjEsp2026, cap. 4: «Llegar a ser Libre»]
+- [EAC-14, 04_midnight_oil.md]

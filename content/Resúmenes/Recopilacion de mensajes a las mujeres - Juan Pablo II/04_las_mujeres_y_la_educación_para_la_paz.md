@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "Las mujeres y la educación para la paz"
 fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
 capítulo: 4
-timestamp: 2026-08-24
+timestamp: 2026-08-31
 description: "Resumen de 'Las mujeres y la educación para la paz' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
@@ -12,34 +12,23 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[educacion_para_la_paz]] — proyecto formativo basado en verdad, justicia, amor y libertad
+- [[Pacem_in_terris]] — Encíclica de [[san_juan_XXIII]] que establece valores para una sociedad pacífica
+- [[Populorum_progressio]] — Encíclica de [[san_pablo_VI]] sobre el desarrollo de los pueblos
+- [[mulieris_dignitatem]] — Carta Apostólica sobre la dignidad de la mujer
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `04_las_mujeres_y_la_educación_para_la_paz.md`
+## Las mujeres y la educación para la paz
 
+Educar para la paz significa abrir las mentes y los corazones para acoger los valores indicados por [[san_juan_XXIII]] en la Encíclica *Pacem in terris* como básicos para una sociedad pacífica: la verdad, la justicia, el amor y la libertad. Se trata de un proyecto educativo que abarca toda la vida, que hace de la persona un ser responsable de sí mismo y de los demás, capaz de promover el bien de todo el hombre y de todos los hombres, como señaló también [[san_pablo_VI]] en *Populorum progressio* (n. 14). La formación para la paz será tanto más eficaz cuanto más convergente sea la acción de quienes comparten responsabilidades educativas y sociales.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+El Papa dirige su Mensaje particularmente a las mujeres, pidiéndoles que sean educadoras para la paz con todo su ser y en todas sus actuaciones: testigos, mensajeras y maestras de paz en las relaciones entre personas y generaciones, en la familia, en la vida cultural, social y política, especialmente en situaciones de conflicto y guerra.
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H2 | Las mujeres y la educación para la paz |
 
-
 ## Secciones incluidas
-
-# Las mujeres y la educación para la paz
-
-[Contenido de esta sección...]

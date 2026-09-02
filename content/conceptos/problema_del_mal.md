@@ -41,6 +41,16 @@ Frankl, desde su experiencia de los campos de concentración, encarna la respues
 
 Bobby Angel propone responder a Ricky Gervais desde Chesterton y Tomás de Aquino (la libertad como condición de posibilidad del mal permitido; Cristo acompañando el sufrimiento hasta los abismos) y cita a Frankl. El humor, lejos de evadir la tragedia, «ayuda a sobrellevar las partes más oscuras»: la risa criatural arraiga en la verdad de lo que somos ante Dios.
 
+### Según Evangelization & Culture, Issue 15 «Suffering» (EAC-15)
+
+**El problema en su formulación clásica y la respuesta de la providencia (Robert Barron).** El número abre con la objeción de Aquino: «si uno de dos contrarios fuera infinito, el otro quedaría destruido del todo»; por tanto, si existiera Dios, no habría mal. La respuesta clásica: Dios «permite» el mal para sacar de él un bien mayor; el sufrimiento es, misteriosamente, ingrediente del plan de Dios; el Misterio Pascual es la clave (el crucificado es Dios, que toma sobre sí todo el dolor humano); «el dolor no tiene la última palabra»; es la misericordia divina, no el dolor, lo metafísicamente básico [EAC-15, 01]. En el desarrollo del Spotlight (*The Holy Quest*): la «vía negativa» —cómo no pensar el problema (Barth, la «divinidad de Dios»); el dilema de John Stuart Mill y las falsas negaciones de la omnipotencia (Kushner, maniqueísmo, Star Wars) que disuelven el problema a costa de la divinidad de Dios; Dios Creador *ex nihilo*, no un ser entre muchos, que sustenta y gobierna el universo (Sb 8,1; Is 45,7); el mal como *privatio boni* (Agustín y Aquino); el libre albedrío y el «proceso libre» (Polkinghorne); el libro de Job como la reflexión bíblica más profunda: la respuesta es el misterio de la providencia, y la «solución» más profunda está en la sumisión a ese misterio [EAC-15, 09].
+
+**El infierno y el libre albedrío; Cristo como respuesta (Peter Kreeft).** En *The Grand Inveigler*, el problema del mal se conecta con el infierno y el libre albedrío: Dios es justicia además de amor; Cristo, tentado en el desierto, custodia el dilema entre el amor al Padre y el amor a las almas; «solo un amor infinito podría ser tentado a cometer un pecado infinito»; «la única forma de vivir sin sufrimiento es vivir sin amor; porque amar significa entregar tu corazón, y ese corazón siempre será roto»; como en Job, «Dios no da respuestas... porque Él es la respuesta»; «¿a quién iremos?» (Jn 6,68) [EAC-15, 14].
+
+**La defensa («defeat») del sufrimiento (Christopher Kaczor).** El sufrimiento como «la objeción más fuerte a la existencia de Dios» (a partir de *Wandering in Darkness* de Eleonore Stump); «derrotar el sufrimiento» es recibir un bien que justifica la permisibilidad del mal; el conocimiento «dominicano» frente al «franciscano» (narrativo, experiencial); Dios permite el sufrimiento por el bien del individuo; los deseos del corazón convergen en Dios; el libre albedrío: Dios no puede forzar el amor libre («ni siquiera Dios puede lo imposible»); Sheen: «a veces la única forma de entrar en algunos corazones es romperlos» [EAC-15, 16].
+
+**El sufrimiento natural y la cruz como árbol de vida (Matthew Becklo, sobre *The Tree of Life*).** El misterio de la iniquidad (sufrimiento infligido y autoinfligido) y el sufrimiento natural del mundo; la pregunta «¿dónde estabas tú?...» (Job 38,4.7); la respuesta de Malick: el sufrimiento está envuelto por el amor y la sabiduría de Dios; el pecado, el sufrimiento y la muerte no tienen la última palabra; la cruz de Cristo como «nuestra respuesta última al sufrimiento, nuestra única esperanza, nuestro árbol de vida» [EAC-15, 08].
+
 ## Distinciones importantes
 
 - Problema del mal ≠ teodicea: aquel es la objeción; esta es la disciplina que la examina y responde.
@@ -61,3 +71,4 @@ Se relaciona con [[teodicea]], [[castigos]], [[libertad_humana]], [[dignidad_hum
 - Konner, J. *The Atheist's Bible* (análisis cultural: `wiki/analisis_cultural/la_biblia_del_ateo_joan_konner.md`)
 - Angel, B. "The Lifegiving Nature of Comedy." *Evangelization & Culture*, No. 8 (2022)
 - Frankl, V. (véase `wiki/personas/viktor_frankl.md`)
+- *Evangelization & Culture*, No. 15 (2023), archivos 01, 08, 09, 14, 16

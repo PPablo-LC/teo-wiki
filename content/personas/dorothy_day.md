@@ -2,13 +2,13 @@
 type: Persona
 title: Dorothy Day
 tags: ["persona", "doctrina_social", "laicado", "opción_preferencial"]
-timestamp: 2026-08-24
+timestamp: 2026-09-02
 description: "Dorothy Day (1897-1980), sierva de Dios, periodista y conversa católica, cofundadora con Peter Maurin del Movimiento Obrero Católico (Catholic Worker)."
 ---
 # Dorothy Day
 
 > Área: Persona / Doctrina social
-> Última actualización: 2026-08-24
+> Última actualización: 2026-09-02
 
 ## Contexto histórico
 
@@ -34,6 +34,12 @@ Terrence Wright dedica al «economía personalista» de Day un ensayo completo d
 
 En el marco económico de los obispos estadounidenses presentado en el mismo número, Day aparece como figura ejemplar del principio 5 (derecho a la iniciativa económica, al trabajo productivo, a salarios justos y a organizarse) [EAC-2, 13_framework_economic_life, Principio 5].
 
+### Según Evangelization & Culture n.º 15 «Suffering» (EAC-15)
+
+En «Bridges of Mercy for Healing After Abortion» (Mary McClusky, archivo 23), Dorothy Day es presentada como «un ejemplo moderno de conversión y santidad para las mujeres que han tenido abortos». Citando al cardenal John O'Connor al abrir su causa de canonización: tras «su conversión desde una vida similar a la de un Agustín preconverso», se mostró «una firme defensora de la vida humana»; su conversión de mente y corazón «demuestra la misericordia de Dios» —que una mujer que pecó tan gravemente pudiera hallar tal unión con Dios— y que «es posible pasar del acto último de violencia contra la vida inocente en el seno materno a una posición de santidad total y pacifismo». Concluye: «mantengo que su aborto no debe impedir su causa sino que la intensifica». Day aparece así, junto a la [[parábola_del_buen_samaritano|mujer samaritana]] (Jn 4), como modelo de que la [[misericordia_divina]] es mayor que todo pecado en el acompañamiento pastoral post-aborto (ver [[conversión]], [[sacramento_de_la_penitencia]]).
+
+Además, en *The Holy Quest* de Robert Barron (archivo 09), Day figura —junto a Agustín, Aquino, Buenaventura, Teresa de Ávila y Newman— entre los grandes maestros en los que «no existe una división sustancial entre teología y espiritualidad».
+
 ## Ver también
 
 [[distributismo]], [[pobreza_voluntaria]], [[desprendimiento]], [[subsidiariedad]], [[trabajo_digno]], [[opción_preferencial_por_los_pobres]], [[pier_giorgio_frassati]], [[movimiento_obrero_católico]], [[peter_maurin]]
@@ -42,3 +48,4 @@ En el marco económico de los obispos estadounidenses presentado en el mismo nú
 
 - [EAC-2, 14_dorothy_day_personalist.md]
 - [EAC-2, 13_framework_economic_life.md, Principios 5]
+- EAC-15, archivos 23 y 09 (*Bridges of Mercy for Healing After Abortion*; *The Holy Quest*)

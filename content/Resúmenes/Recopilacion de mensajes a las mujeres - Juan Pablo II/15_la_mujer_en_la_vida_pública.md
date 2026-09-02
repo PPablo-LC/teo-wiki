@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "La mujer en la vida pública"
 fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
 capítulo: 15
-timestamp: 2026-08-24
+timestamp: 2026-08-31
 description: "Resumen de 'La mujer en la vida pública' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
@@ -12,34 +12,25 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[dignidad_de_la_mujer]] — igualdad de dignidad como base del derecho a la participación pública
+- [[vida_pública]] — pleno derecho de la mujer a insertarse en todos los ámbitos
+- [[mujer_educadora_de_paz]] — papel único de la mujer para humanizar la sociedad
+- [[solidaridad_y_paz]] — objetivos positivos hacia los que la mujer conduce a la sociedad
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `15_la_mujer_en_la_vida_pública.md`
+## La mujer en la vida pública
 
+El Papa recuerda su mensaje de la Jornada Mundial de la Paz de 1995: el mundo necesita escuchar «las aspiraciones de paz» que las mujeres expresan. Debería ser evidente que cuando las mujeres transmiten plenamente sus dones a toda la comunidad, cambia positivamente el modo de comprenderse y organizarse la sociedad (Mensaje n. 9). Se trata de un reconocimiento del papel único de la mujer para humanizar la sociedad y conducirla hacia los objetivos de la solidaridad y la paz.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+La Santa Sede no pretende limitar la influencia y actividad de la mujer en la sociedad. Sin apartarla de su función en la familia, la Iglesia reconoce que su contribución al bienestar y al progreso de la sociedad es incalculable. La mujer puede ayudar a salvar a la sociedad del virus mortal de la degradación y la violencia.
+
+Sobre la base de su igual dignidad con el hombre, «las mujeres tienen pleno derecho a insertarse activamente en todos los ámbitos públicos» (Mensaje n. 9). Es preciso cambiar profundamente las actitudes y la organización de la sociedad para facilitar la participación de la mujer en la vida pública, tomando las medidas necesarias para que tanto la mujer como el hombre puedan cumplir sus obligaciones especiales con respecto a la familia. No se debería descuidar las dificultades de la mujer que vive sola o que es jefe de familia.
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H2 | La mujer en la vida pública |
 
-
 ## Secciones incluidas
-
-# La mujer en la vida pública
-
-[Contenido de esta sección...]

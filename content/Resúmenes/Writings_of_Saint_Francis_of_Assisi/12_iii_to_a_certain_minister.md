@@ -3,8 +3,8 @@ type: ResumenFuente
 title: "III. To a Certain Minister"
 fuente: Writings_of_Saint_Francis_of_Assisi
 capítulo: 12
-timestamp: 2026-08-24
-description: "Resumen de 'III. To a Certain Minister' — Writings_of_Saint_Francis_of_Assisi"
+timestamp: 2026-08-31
+description: "Resumen de la Carta a cierto ministro de San Francisco"
 tags: ["resumen", "writings of saint francis of assisi"]
 ---
 
@@ -12,39 +12,26 @@ tags: ["resumen", "writings of saint francis of assisi"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[misericordia]] — Exhortación a la misericordia con los hermanos pecadores
+- [[obediencia_franciscana]] — Obediencia al superior como señal de amor a Dios
+- [[penitencia]] — Procedimiento para hermanos que pecan mortalmente
+- [[caridad_fraterna]] — Amar más al hermano pecador que a uno mismo
+- [[disciplina_franciscana]] — Procedimiento canónico para hermanos que pecan
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
 📄 **Fuente original:** `P2_03_to_a_certain_minister.md`
 
+### Contexto
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+La carta parece escrita antes de la confirmación de la Segunda Regla por Honorio III, probablemente a principios de 1223. Todos los códices tempranos la atribuyen a San Francisco. Por la última frase, referente al capítulo "estarás allí con tus hermanos", probablemente fue dirigida a un ministro provincial más que al ministro general. El inicio abrupto sugiere que este ministro había planteado dudas sobre cómo tratar a hermanos que habían caído en pecado.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | III. To a Certain Minister |
-| 11 | H3 | to a certain minister |
+### Contenido de la Carta
 
+San Francisco habla "sobre el asunto de tu alma". Exhorta al ministro a amar a Dios y a no dejarse impedir por nada, ni siquiera por golpes de hermanos, reckonándolo como favor. Esto es verdadera obediencia. "Ama a aquellos que te hagan tales cosas... y que esto te sea más que un eremitorio."
 
-## Secciones incluidas
+La exhortación central es la misericordia con los hermanos pecadores: "Que no haya ningún hermano en el mundo que haya pecado, por grande que sea su pecado, que después de haber visto tu rostro se vaya jamás sin tu misericordia, si busca misericordia; y si no busca misericordia, pregúntale tú si desea misericordia. Y si después aparece ante tu rostro mil veces, ámalo más que a mí, para que puedas atraerlo al Señor, y sobre tales ten siempre misericordia."
 
-# III. To a Certain Minister
+Anuncia que en el capítulo de Pentecostés se establecerá que: si algún hermano peca mortalmente, esté obligado por obediencia a acudir a su guardian; los hermanos que lo sepan no le causen vergüenza ni lo difamen, sino que tengan gran misericordia y guarden secreto su pecado, "porque los sanos no necesitan médico, sino los enfermos". El custos cuidará de él misericordiosamente.
 
-[Contenido de esta sección...]
-
-## to a certain minister
-
-[Contenido de esta sección...]
+Para los pecados veniales, basta la confesión al hermano sacerdote; donde no haya sacerdote, confessar al hermano hasta encontrar uno que absuelva canónicamente. La única penitencia posible es: "ve y no peques más."

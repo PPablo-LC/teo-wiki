@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Opción preferencial por los pobres
 tags: ["doctrina_social", "moral"]
 
-timestamp: 2026-05-25
+timestamp: 2026-09-02
 description: "La opción preferencial por los pobres es la forma especial de primacía en el ejercicio de la caridad cristiana, fundada en el Evangelio y en la constante tradición de la Iglesia."
 ---
 # Opción preferencial por los pobres
 
 > Área: Doctrina Social / Moral
-> Última actualización: 2026-05-25
+> Última actualización: 2026-09-02
 
 ## Definición
 
@@ -51,6 +51,14 @@ Los pobres han de ser «los primeros destinatarios de la evangelización, a seme
 
 Tóth recoge la formulación de Aparecida: «la opción preferencial por los pobres está implícita en la fe cristológica en aquel Dios que se ha hecho pobre por nosotros»; no es «ni exclusiva, ni excluyente». Los discípulos están llamados a contemplar en los rostros sufrientes de los hermanos el rostro de Cristo que llama a servirlo en ellos: «Los rostros sufrientes de los pobres son rostros sufrientes de Cristo… Todo lo que tenga que ver con Cristo, tiene que ver con los pobres» (cf. Mt 25,40) [JvC-Rel, archivo 41]. En clave educativa y apologética, Tóth añade su propio argumento: la gran epopeya de las misiones católicas es «todo un derroche de generosidad, solidaridad y fraternidad con los pueblos más pobres y marginados», y la Iglesia debe mostrar ante los jóvenes esa labor caritativa como prueba histórica de su fuerza vivificadora [archivo 15].
 
+### Según Evangelization & Culture, Issue 15 «Suffering» (EAC-15)
+
+**Cristo, arquetipo de los pobres y desheredados (Raniero Cantalamessa).** El crucificado es «el arquetipo y la encarnación de todos los rechazados, los desheredados, los descartados de la tierra» (Is 53,3) [EAC-15, 19]. Jesús se identificó con este grupo a lo largo de toda su vida: nace en un establo «porque no había lugar para ellos en la posada» (Lc 2,7); sus padres ofrecen en la presentación «un par de tórtolas o dos pichones» (Lc 2,24), la ofrenda prescrita por la ley para los pobres que no podían costear un cordero —una especie de «certificación de ser pobre»—; y durante su vida pública no tenía dónde reclinar la cabeza (Mt 8,20): era un sin techo [EAC-15, 19]. Profanado y torturado (Mc 15,16-20), Jesús es «el arquetipo de todos los encadenados, abandonados y a merced de soldados y matones». «*Ecce homo*» —«¡He aquí el hombre!» (Jn 19,5)— «son palabras que se aplican al interminable desfile de mujeres y hombres después de Cristo que son vilipendiados, tratados como objetos, privados de toda dignidad humana»; «vosotros, los parias de la tierra… el ser humano más grande de todos los tiempos fue uno de los vuestros» [EAC-15, 19].
+
+**La opción por los pobres y la Reversión pascual (Cantalamessa).** En Cristo, «víctima» se ha vuelto «vencedor»: «la piedra que desecharon los constructores se ha convertido en piedra angular» (Hch 4,11) [EAC-15, 19]. La Pascua es la «fiesta de la Reversión» dirigida por Dios: «podemos decir a los pobres, a los marginados, a quienes están atrapados en las diversas formas de esclavitud aún presentes en nuestra sociedad: ¡la Pascua es vuestra fiesta!» [EAC-15, 19]. «Por la autoridad de su fundador, la Iglesia está encargada de estar al lado de los pobres y los débiles y de ser la voz de los que no tienen voz» [EAC-15, 19]. Cantalamessa denuncia además la desigualdad: «unos pocos privilegiados poseen muchos más bienes de los que podrían necesitar… mientras innumerables masas de pobres carecen de un mendrugo de pan o de un sorbo de agua», y ninguna religión puede permanecer indiferente «porque el Dios de todas las religiones no es indiferente a ello» [EAC-15, 19].
+
+**Los pobres como objeto de la misericordia y el Buen Samaritano (George Weigel, sobre Juan Pablo II).** El sufrimiento humano, aunque es reflejo de la caída del mundo, puede «desencadenar el amor en la persona humana», de modo que «el mundo del sufrimiento humano» convoca «el mundo del amor humano» [EAC-15, 18]. Juan Pablo II cierra *Salvifici Doloris* con la parábola del Buen Samaritano: quien «se detiene junto al sufrimiento de otra persona» es como el Buen Samaritano, y ese «detenerse no significa curiosidad sino disponibilidad» [EAC-15, 18]. La compasión se presenta así como la respuesta cristiana concreta que pone a los que sufren —incluidos los pobres y marginados— en el centro de la solicitud de la Iglesia.
+
 ## Distinciones importantes
 
 - **Opción preferencial** ≠ **exclusión de los demás**: es primacía, no exclusión
@@ -70,3 +78,4 @@ Se relaciona con [[pobreza]], [[destino_universal_de_los_bienes]], [[caridad]], 
 - [CompDS §182-184]
 - [Juan Pablo II, Sollicitudo Rei Socialis, 42]
 - [CEC §2443-2449]
+- [EAC-15, 18, 19]

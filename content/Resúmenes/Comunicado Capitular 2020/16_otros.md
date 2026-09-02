@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "Otros"
 fuente: Comunicado Capitular 2020
 capítulo: 16
-timestamp: 2026-08-24
+timestamp: 2026-08-31
 description: "Resumen de 'Otros' — Comunicado Capitular 2020"
 tags: ["resumen", "comunicado capitular 2020"]
 ---
@@ -12,31 +12,16 @@ tags: ["resumen", "comunicado capitular 2020"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[capítulo_general]]
+- [[informe_de_cumplimiento]]
+- [[gobierno_congregacional]]
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `16_otros.md`
+Encabezado de sección «Otros», a modo de divisoria que agrupa los documentos restantes del Capítulo General 2020, en particular el archivo 17: el Informe de cumplimiento del gobierno general sobre los encargos del Capítulo General 2020. Este archivo contiene solo el título de la sección.
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H1 | Otros |
-
-
-## Secciones incluidas
-

@@ -2,13 +2,13 @@
 type: Persona
 title: Robert Barron
 tags: ["obispos", "teólogos", "comunicadores", "fundadores"]
-timestamp: 2026-08-30
+timestamp: 2026-09-02
 description: "Bishop Robert Barron (b. 1959), arzobispo católico estadounidense, fundador de Word on Fire y del Word on Fire Institute."
 ---
 # Robert Barron
 
 > Área: Obispos / Comunicadores
-> Última actualización: 2026-08-30
+> Última actualización: 2026-09-02
 
 ## Biografía
 
@@ -64,12 +64,21 @@ Barron es el autor de la carta editorial del número y del extracto de su libro 
 
 **Extracto de *Eucharist* (If It's a Symbol, to Hell with It).** Desde el exabrupto de Flannery O'Connor, defiende la presencia real: el realismo de Juan 6 (*trogein*), la confesión petrina ligada a la fe eucarística, la distinción entre la *virtus* de Cristo en los demás sacramentos y *ipse Christus* en el altar, el modo de la presencia según la *especie sacramental* (SmTh 3.75 a.1), la transubstanciación (sustancia/accidente), los efectos de la comunión (gracia, remisión de veniales, deleitación como anticipo del banquete celestial) y la escatología de la presencia transfigurada. En la sección «Here We Have No Lasting City» (ver [[cristificación]]) subraya que la Eucaristía «cristifica y por tanto eterniza» (Padres), con la paradoja de que quien se eterniza es más efectivo y feliz aquí (Chesterton, Dorothy Day).
 
+### Según Evangelization & Culture n.º 15 «Suffering» (EAC-15)
+
+Barron es el autor de la carta editorial («From the Desk») y del ensayo principal *The Holy Quest: Searching for Meaning in the Problem of Suffering* (archivos 01 y 09).
+
+**Carta editorial (From the Desk).** Parte de la objeción atea al teísmo a partir del [[problema_del_mal]], citando la formulación de [[santo_tomás_de_aquino]]: «si uno de dos contrarios fuera infinito, el otro quedaría totalmente destruido… luego Dios no existe». Recuerda la respuesta clásica de que Dios «permite» el mal para sacar un bien mayor, y que el sufrimiento es «extrañamente, ingrediente del plan de Dios». El Misterio Pascual es la clave: el crucificado no era solo un hombre sino Dios, que «ha tomado sobre sí todo el dolor que atormenta la condición humana»; por eso «el dolor no tiene la última palabra»: «el amor de Dios es más poderoso que el sufrimiento, y es la misericordia divina, no el dolor, lo metafísicamente básico» [01_from_the_desk].
+
+***The Holy Quest* (problema del sufrimiento).** Nace de un encuentro real: un abuelo con dos nietas terminales y que quedarían ciegas preguntaba «por qué Dios hace esto». Barron sostiene que la teología y la espiritualidad no se dividen (Agustín, Aquino, Buenaventura, Teresa de Ávila, Newman, Dorothy Day) y que predicar el problema exige pensar con claridad. Recorre la «vía negativa»: no negar «la divinidad de Dios» (Barth) —las negaciones de la omnipotencia de Kushner, el maniqueísmo o *Star Wars* disuelven el dilema a costa de la divinidad—; Dios es Creador *ex nihilo*, no un ser entre muchos, y sustenta y gobierna el cosmos (Sb 8,1; Is 45,7). Con Agustín y Aquino, el [[mal]] es *privatio boni*: «no tanto una cosa como una carencia o privación de un bien que debería estar presente»; Dios no causa el mal, lo «permite» para un bien mayor, con la defensa del libre albedrío y del «proceso libre» (Polkinghorne). Pero el «solución» última es el misterio: «lo que precisamente el Dios todo bueno pretende cuando permite el mal en su cosmos permanece un misterio, y la 'solución' más profunda está en la entrega a ese misterio». El [[libro_de_job]] es la reflexión bíblica más honda: la respuesta de Dios desde el torbellino (Behemot y Leviatán) no humilla a Job sino que ensancha su mente ante el misterio de la providencia. Cierra con imágenes: Dios como [[arte_sacro|artista]] (la creación como «obra en curso», el puntillismo de Seurat), el perro en la biblioteca (William James), y la cirugía del niño que confía en el padre: «¿no miramos nosotros, como ese niño, a nuestro Padre Dios, cuando sufrimos, con una mezcla de perplejidad e ira?» La perseverancia del abuelo fue «señal de que, incluso en la oscuridad, la gracia operaba en él» [09_spotlight_barron].
+
 ## Ver también
 
 [[evangelización]], [[nueva_evangelización]], [[evangelización_digital]], [[Word_on_Fire_Institute]]
 
 ## Referencias
 
+- EAC-15, 01_from_the_desk.md y 09_spotlight_barron.md (Barron, Robert. «The Holy Quest: Searching for Meaning in the Problem of Suffering»)
 - EAC-3, 01_from_the_desk.md
 - WoF-1, 01_welcome_letter.md
 - WoF-2, 01_from_the_desk.md

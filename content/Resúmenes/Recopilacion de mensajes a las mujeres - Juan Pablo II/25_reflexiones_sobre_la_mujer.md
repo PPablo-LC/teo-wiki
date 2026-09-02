@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "REFLEXIONES SOBRE LA MUJER"
 fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
 capítulo: 25
-timestamp: 2026-08-24
+timestamp: 2026-08-31
 description: "Resumen de 'REFLEXIONES SOBRE LA MUJER' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
@@ -12,25 +12,21 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[dignidad_de_la_mujer]] — condición femenina y denuncia de las injusticias
+- [[Conferencia_de_Pekin]] — IV Conferencia Mundial sobre la Mujer (1995)
+- [[plan_de_Dios]] — anuncio positivo para que madure una cultura respetuosa con la femineidad
+- [[genio_femenino]] — reflexiones del Papa sobre los dones de la mujer
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `25_reflexiones_sobre_la_mujer.md`
+## REFLEXIONES SOBRE LA MUJER
 
+#### A LA HORA DEL ÁNGELUS
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+Son muchas las Meditaciones que a la hora del Ángelus el Vicario de Cristo ha dedicado a la mujer. Son reflexiones en torno a la IV Conferencia Mundial sobre la Mujer que, convocada por la ONU, tuvo lugar en la primera quincena de septiembre de 1995 en Pekín.
+
+El Papa denuncia todas las injusticias que pesan sobre la condición femenina y anuncia de forma positiva el Plan de Dios para que madure una cultura respetuosa y acogedora con respecto a la femineidad.
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
@@ -38,9 +34,4 @@ Instrucciones para el agente:
 | 1 | H1 | REFLEXIONES SOBRE LA MUJER |
 | 3 | H4 | A LA HORA DEL ÁNGELUS |
 
-
 ## Secciones incluidas
-
-### A LA HORA DEL ÁNGELUS
-
-[Contenido de esta sección...]

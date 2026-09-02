@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Cruz
 tags: ["cristología", "soteriología"]
 
-timestamp: 2026-08-06
+timestamp: 2026-09-02
 description: "La cruz es el instrumento de la muerte redentora de Jesucristo y el símbolo central de la fe cristiana."
 ---
 # Cruz
 
 > Área: Cristología / Soteriología
-> Última actualización: 2026-08-06
+> Última actualización: 2026-09-02
 
 ## Definición
 
@@ -123,6 +123,20 @@ La cruz en San Francisco es el centro de la gloria cristiana y la imitación de 
 
 Jesús «decía a todos: Si alguno quiere venir detrás de mí, que se niegue a sí mismo, que tome su cruz cada día, y que me siga» (Lc 9, 23). Todos los discípulos del Señor deben llevar la cruz cada día; más aún, la cruz es lo que distingue a los que son cristianos auténticos de los que no lo son: «El mensaje de la cruz es necedad para los que se pierden, pero para los que se salvan, para nosotros, es fuerza de Dios» (1 Co 1, 18). Difícilmente puede darse una vida cristiana coherente sin la disponibilidad a morir con Jesús, a completar en la propia carne lo que falta a la Pasión de Cristo. «El camino de la perfección pasa por la cruz. No hay santidad sin renuncia y sin combate espiritual. El progreso espiritual implica la ascesis y la mortificación que conducen gradualmente a vivir en la paz y el gozo de las bienaventuranzas» (CEC, n. 2015) (Ele_Xto_Stos, Cap. III, §4d).
 
+### Según Evangelization & Culture, Issue 15 «Suffering» (EAC-15)
+
+**La cruz como árbol de la vida y árbol del conocimiento (Matthew Becklo).** Becklo, en su análisis de *The Tree of Life* de Malick, presenta la cruz como la respuesta definitiva al sufrimiento y como el «árbol de la vida»: «La cruz de Cristo: nuestra respuesta definitiva al sufrimiento, nuestra única esperanza, nuestro árbol de vida». La imagen del árbol de la vida del Génesis se transforma en la cruz de Cristo: donde el árbol del conocimiento del bien y del mal trajo la caída, la cruz trae la restauración. El sufrimiento «está envuelto por el amor y la sabiduría de Dios»; «el pecado, el sufrimiento y la muerte no tienen la última palabra». En el corazón de la obra maestra divina está «Jesús, Amor encarnado, que sufre con nosotros, abriendo un camino de sufrimiento más fuerte que la muerte. El camino de la cruz cambia el sentido de toda la vida humana» [EAC-15, 08].
+
+**La cruz como respuesta concreta a la «ruptura» del amor (Peter Kreeft).** Kreeft, en un relato ficcional sobre la tentación de Cristo en el desierto, presenta la cruz como la respuesta no abstracta sino concreta al dilema entre el amor al Padre (primer mandamiento) y el amor a las almas (segundo mandamiento): el demonio ofrece a Cristo las almas de todos los condenados si se arrodilla, pero Cristo obedece al Padre y acepta que muchos queden en el infierno. «Es como el final del libro de Job: Dios no da a Job respuestas a ninguna de las preguntas de Job, porque Él es la respuesta. La respuesta es concreta, no abstracta: basta con estar unido a Él, hacer lo que Él hizo y amar como Él amó.» La cruz es el lugar donde Cristo, que es a la vez Dios y hombre, resuelve la tensión absoluta: «No nos da una respuesta, Él es nuestra respuesta» (Jn 6,68) [EAC-15, 14].
+
+**La cruz como eje de la historia y del cosmos (George Weigel).** Weigel, al presentar la espiritualidad de Juan Pablo II, enseña que la cruz de Cristo «es el eje alrededor del cual giran la historia y el cosmos». La *Salvifici Doloris* presenta el sufrimiento como algo transformado por la Resurrección: «El Cristo que nos redime por su sufrimiento transforma y redime el sufrimiento». El amor es «la fuente más plena de la respuesta a la pregunta del sentido del sufrimiento», demostrada «en la cruz de Jesucristo». El cristiano que configura su sufrimiento con el sufrimiento cruciforme de Cristo tiene «una participación en la redención continuada de Cristo para el mundo». La cruz transforma el sufrimiento «de absurdo en misión»; el sufrimiento se convierte «en expresión de libertad humana, no de esclavitud humana» [EAC-15, 18].
+
+**El crucificado es Dios (Robert Barron).** Barron subraya que la clave del Misterio Pascual es que «quien colgaba de esa terrible cruz no era solo un hombre; era también Dios. Y esta verdad es el eje sobre el que gira el Misterio Pascual. Dios ha tomado sobre sí todo el dolor que aqueja a la condición humana: físico, psicológico y espiritual». La cruz es el lugar donde Dios «va a los lugares más oscuros que habitamos» y «experimenta el hecho brutal del sufrimiento en todas sus dimensiones». Por eso «el dolor no tiene la última palabra»: «el amor de Dios es más poderoso que el sufrimiento, y es la misericordia divina, no el dolor, lo que es metafísicamente básico» [EAC-15, 01].
+
+**La cruz como respuesta al sufrimiento en el libro de Job (Robert Barron).** Barron presenta el discurso de Dios desde el torbellino como la más profunda reflexión bíblica sobre el sufrimiento. El libro de Job no duda de que Dios es plenamente Dios ni afirma que Dios es la causa directa del sufrimiento. La respuesta de Dios —el Behemot, el Leviatán, la ampliación de la mente de Job— no es una explicación sino una invitación al misterio de la providencia. La perseverancia de quien busca a Dios en la oscuridad es «un signo de que, incluso en la oscuridad, la gracia estaba operante en él». Las imágenes de Aquino (Dios artista cuya obra es «un trabajo en progreso»), de Dante (las hojas dispersas del libro cuyo autor es Dios) y del perro en la biblioteca de William James ilustran la limitación del conocimiento humano ante el designio divino [EAC-15, 09].
+
+**La cruz y el Siervo sufriente (Raniero Cantalamessa).** Cantalamessa presenta al crucificado como «el arquetipo y la encarnación de todos los rechazados, los desheredados, los desechados de la tierra». Jesús, nacido en un establo, sin dónde reclinar la cabeza, fue torturado por los soldados; es el símbolo de toda la humanidad vilipendiada. Pero la cruz no tiene solo un significado social sino «espiritual y místico»: «La muerte de Cristo redimió al mundo del pecado. Llevó el amor de Dios al lugar más distante y oscuro donde la humanidad había sido atrapada en su huida de Dios: a saber, la muerte». En la Pascua se produce una «reversión completa de papeles: la víctima se ha hecho vencedor; el condenado se ha hecho juez; "la piedra que los constructores rechazaron se ha convertido en piedra angular" (Hch 4,11)». La cruz es «el memorial y el símbolo de un acontecimiento» que restaura la dignidad de los desheredados y les da esperanza [EAC-15, 19].
+
 ## Distinciones importantes
 
 - **Cruz material**: instrumento de la pasión.
@@ -146,7 +160,7 @@ La cruz es el acto consumativo de la [[redención]] y el sacrificio de la [[alia
 
 ## Ver también
 
-[[redención]], [[pasión_de_cristo]], [[eucaristía]], [[resurrección]], [[perfección_cristiana]], [[alianzas]]
+[[redención]], [[pasión_de_cristo]], [[eucaristía]], [[resurrección]], [[perfección_cristiana]], [[alianzas]], [[siervo_de_yahvé]], [[sufrimiento_redentor]]
 
 ## Referencias
 
@@ -154,3 +168,9 @@ La cruz es el acto consumativo de la [[redención]] y el sacrificio de la [[alia
 - [SFrAs, Test. 11 — Cruz y oración]
 - [SFrAs, RGl I.1 — Cruz y pobreza evangélica]
 - Ele_Xto_Stos, Cap. III, §4d
+- [EAC-15, 08 — Becklo: la cruz como árbol de la vida]
+- [EAC-15, 14 — Kreeft: la cruz como respuesta concreta a la «ruptura» del amor]
+- [EAC-15, 18 — Weigel: la cruz como eje de la historia y del cosmos]
+- [EAC-15, 01 — Barron: el crucificado es Dios]
+- [EAC-15, 09 — Barron: la cruz y el libro de Job]
+- [EAC-15, 19 — Cantalamessa: la cruz y el Siervo sufriente]

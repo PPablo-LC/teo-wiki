@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "El testimonio de Santa Catalina de Siena"
 fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
 capítulo: 22
-timestamp: 2026-08-24
+timestamp: 2026-08-31
 description: "Resumen de 'El testimonio de Santa Catalina de Siena' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
@@ -12,34 +12,32 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[santa_Catalina_de_Siena]] — mística del siglo XIV, mensajera de paz
+- [[mujer_educadora_de_paz]] — caso ejemplar del papel de la mujer en la sociedad
+- [[reconciliación]] — fruto de la palabra firme y dulce de Catalina
+- [[diálogo]] — modo apropiado y evangélico para afrontar los problemas entre pueblos
+- [[sacramento_de_unidad]] — vocación de la Iglesia a ser unidad para el género humano
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `22_el_testimonio_de_santa_catalina_de_siena.md`
+## El testimonio de Santa Catalina de Siena
 
+#### (Angelus 12-02-95)
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+Siguiendo la reflexión sobre la misión de paz de la mujer, el Papa presenta el testimonio de [[santa_Catalina_de_Siena]]. Tiene algo de increíble la vida de esta mujer, que vivió sólo 33 años y desempeñó un papel de primer plano en la Iglesia de su tiempo. El secreto de su personalidad excepcional era el fuego interior que la consumía: la pasión por Cristo y por la Iglesia.
+
+La situación de la cristiandad en la segunda mitad del siglo XIV le parecía insoportable: el Papa estaba lejos de Roma y los príncipes cristianos no lograban vivir en paz. Por eso se hizo mensajera de paz. Su palabra ardiente corría en todas las direcciones, con un timbre materno, caracterizado por una firmeza intrépida y una dulzura persuasiva. A su alrededor se ablandaba la dureza de los corazones, y las familias y comunidades enteras volvían a gustar la alegría de la [[reconciliación]].
+
+La experiencia de Catalina es un caso ejemplar de lo escrito en el Mensaje de comienzo de año: «Cuando las mujeres tienen la posibilidad de transmitir plenamente sus dones a toda la comunidad, cambia positivamente el modo mismo de comprenderse y organizarse la sociedad».
+
+Son conocidas sus palabras al Papa Gregorio XI: «¡Paz, paz, paz, mi dulce padre, y no más guerra!» (Carta 218). No dudaba en emprender difíciles viajes para despertar sentimientos de reconciliación. El Papa reconoce que Catalina era hija de su tiempo cuando hacía suya la mentalidad de que la defensa de los santos lugares podía requerir el recurso a las armas. Hoy hay que agradecer al Espíritu que se comprenda que el modo apropiado es el del [[diálogo]] paciente, firme y respetuoso. Sin embargo, el celo de Catalina sigue siendo ejemplo de amor valiente y fuerte.
+
+Invocamos a [[santa_María]], Reina de la Paz, para que la Iglesia llegue a ser cada vez más eficaz [[sacramento_de_unidad]] para todo el género humano, y suscite mujeres emprendedoras y valientes como Catalina, artífices de unidad y paz.
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H2 | El testimonio de Santa Catalina de Siena |
 
-
 ## Secciones incluidas
-
-# El testimonio de Santa Catalina de Siena
-
-[Contenido de esta sección...]

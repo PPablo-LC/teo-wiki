@@ -2,13 +2,13 @@
 type: Persona
 title: Terrence Malick
 tags: ["cine", "cultura", "arte"]
-timestamp: 2026-08-18
+timestamp: 2026-09-02
 description: "Terrence Malick (1943-): director de cine estadounidense cuyas películas exploran la peregrinación espiritual del hombre hacia Dios."
 ---
 # Terrence Malick
 
 > Área: Arte / Cine
-> Última actualización: 2026-08-18
+> Última actualización: 2026-09-02
 
 ## Biografía
 
@@ -80,6 +80,16 @@ La reflexión subraya que el cine de Malick opera de manera análoga a los ícon
 
 La perspectiva destaca también la dimensión ecológica del cine de Malick: su insistencia en la belleza de la naturaleza como libro de Dios conecta con la ecología integral promovida por el Papa Francisco en *Laudato Si'*. La naturaleza en Malick no es un escenario pasivo sino un personaje activo de la historia de salvación, un «sacramento» de la presencia divina.
 
+### Según Evangelization & Culture n.º 15 «Suffering» (EAC-15)
+
+Matthew Becklo dedica a *The Tree of Life* el ensayo «The Way of Suffering Love» (archivo 08), enmarcándola como respuesta fílmica al [[problema_del_mal]].
+
+- **«Una forma de oración» (Roger Ebert)** y, en el fondo, «una historia de amor sufriente»; su corazón y su grandeza son «muy simples».
+- **El epígrafe del [[libro_de_job]]** («¿Dónde estabas tú cuando fundé la tierra?», Job 38,4.7) y el cántico funeral de [[san_juan_de_damasco]] («¿Qué dulzura terrena permanece sin mezcla de pena?») abren la película, basada en la muerte real de un hermano de Malick.
+- **El sufrimiento humano y natural:** el «misterio de la iniquidad» —el sufrimiento que nos infligimos unos a otros y a nosotros mismos (el padre y R.L.; el episodio de la escopeta de perdigones)— y el sufrimiento que el mundo inflige (el dinosaurio que oprime a otro, el niño que se ahoga). El joven Jack pregunta a Dios: «¿Dónde estabas? Dejaste morir a un niño. Dejaste que ocurriera cualquier cosa».
+- **La respuesta de Malick:** no es que el sufrimiento carezca de sentido, ni que baste compensarlo con alegrías, sino que «el sufrimiento está envuelto por el amor y la sabiduría de Dios», una respuesta «holística» que compromete corazón y mente. Tres momentos lo expresan: la secuencia de la creación, la homilía sobre Job con la imagen del Cristo sufriente, y la visión de la reunión de la familia «en la nueva creación» (Berlioz, *Agnus Dei*).
+- **La cruz como [[cruz|árbol de la vida]]:** «que el pecado, el sufrimiento y la muerte no tienen la última palabra»; Jesús, Amor encarnado, sufre con nosotros y abre «un camino de sufrimiento más fuerte que la muerte»; «la cruz de Cristo: nuestra respuesta última al sufrimiento, nuestra única esperanza, nuestro árbol de la vida».
+
 ## Relaciones doctrinales
 
 La obra de Terrence Malick conecta con múltiples temas teológicos:
@@ -99,6 +109,7 @@ La obra de Terrence Malick conecta con múltiples temas teológicos:
 ## Referencias
 
 - WoF-4, análisis del cine de Terrence Malick como instrumento de conversión.
+- Becklo, Matthew. «The Way of Suffering Love: Terrence Malick's *The Tree of Life*», en *Evangelization & Culture* 15 (Spring 2023).
 - Schick, Ted, *Terrence Malick's Film Philosophy* (2019).
 - Crittenden, Daniel, *Terrence Malick: Rehearsing the Unexpected* (2015).
 - McCarthy, Todd, «The Tree of Life», *Variety* (2011).

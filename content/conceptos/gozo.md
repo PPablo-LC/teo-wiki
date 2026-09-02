@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Gozo
 tags: ["moral", "ascética"]
 
-timestamp: 2026-06-06
+timestamp: 2026-08-31
 description: "El gozo espiritual es un fruto del [[espíritu_santo]] y un efecto de la [[virtud_de_la_caridad]], que consiste en la alegría profunda y estable que experimenta el alma que vive en la gracia de Dios."
 ---
 # Gozo
 
 > Área: Moral / Ascética
-> Última actualización: 2026-06-06
+> Última actualización: 2026-08-31
 
 ## Definición
 
@@ -52,6 +52,14 @@ Royo Marín trata el gozo principalmente como fruto del Espíritu Santo. La cont
 
 [VocTeoBib, «Gozo»] La revelación del Dios creador y salvador provoca en el hombre un gozo desbordante, desde las alegrías legítimas de la vida hasta el gozo de la alianza expresado en el culto comunitario. En el NT, Jesús es la fuente del gozo mesiánico; el gozo es fruto del Espíritu Santo (Gal 5,22) y nota característica del reino de Dios (Rom 14,17). El gozo cristiano, lejos de ser incompatible con la cruz, se realiza precisamente en la participación de los sufrimientos de Cristo (1Pe 4,13).
 
+### Según Evangelization & Culture n.º 14 «Joy» (EAC-14)
+
+Baird y Barron distinguen la alegría (gozo) de la felicidad como estado emocional: «podría ser imposible ser feliz y triste a la vez, pero podemos estar gozosos mientras sentimos cualquiera de las dos» (Baird). La «alegría verdadera subsiste a un nivel más profundo que la mera emoción, y no se distorsiona al contacto con sus aparentes contrarios».
+
+Este gozo vive la paradoja del "ya sí/no aún" del peregrino: nos alegramos porque «yo estoy con vosotros todos los días» (Mt 28,20) mientras lloramos porque «un poco, y ya no me veréis» (Jn 16,16). Barron (01) define la alegría como algo más que un estado emocional pasajero: «no es un estado emocional pasajero... es la paz de estar arraigado en Cristo».
+
+[EAC-14, 14_feature_baird.md, 01_from_the_desk.md]
+
 ## Distinciones importantes
 
 - **Gozo espiritual vs. alegría sensible**: el primero reside en la voluntad y se funda en la razón sobrenatural; la segunda reside en los sentidos.
@@ -71,3 +79,4 @@ El gozo se relaciona con los [[frutos_del_espíritu_santo]] (segundo fruto), con
 - [CEC §301; §1832; §2579]
 - [TPCr, Tercera Parte, Libro II, Cap. 3]
 - [SmTh Ia-IIae q.31, q.34; II-II q.28]
+- [EAC-14, 14_feature_baird.md, 01_from_the_desk.md]

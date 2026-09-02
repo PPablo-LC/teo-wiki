@@ -3,8 +3,8 @@ type: ResumenFuente
 title: "V. Fragments from the Rule of the Sisters of St. Clare"
 fuente: Writings_of_Saint_Francis_of_Assisi
 capítulo: 6
-timestamp: 2026-08-24
-description: "Resumen de 'V. Fragments from the Rule of the Sisters of St. Clare' — Writings_of_Saint_Francis_of_Assisi"
+timestamp: 2026-08-31
+description: "Resumen de los fragmentos de la Regla de las Clarisas escritos por San Francisco"
 tags: ["resumen", "writings of saint francis of assisi"]
 ---
 
@@ -12,44 +12,28 @@ tags: ["resumen", "writings of saint francis of assisi"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[santa_clara_de_asis]] — Fundadora de las Clarisas; destinataria de los fragmentos
+- [[pobreza_espiritual]] — Compromiso radical con la pobreza de Cristo
+- [[regla_de_las_clarisas]] — Formula vitae escrita por San Francisco para las Clarisas
+- [[voto_de_pobreza]] — La más santa pobreza como camino de salvación
+- [[evangelio_santo]] — Seguir la perfección del santo Evangelio
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
 📄 **Fuente original:** `P1_05_fragments_from_the_rule_of_the_sisters_of_st_clare.md`
 
+### Contexto histórico
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+De los "muchos escritos" que San Francisco dejó para las Pobres Damas en San Damián, solo se conservan dos fragmentos, preservados por la propia Santa Clara en el capítulo sexto de su Regla. El Papa Gregorio IX atestigua que San Francisco escribió una *fórmula vitae* o "pequeña regla" para Santa Clara y sus primeras compañeras al inicio de su vida religiosa. Sin embargo, fue el mismo Papa Gregorio IX (entonces Cardenal Ugolino) quien hacia 1219 compuso una Regla para las Damas Pobres, aceptada por San Francisco y confirmada por Honorio III.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | V. Fragments from the Rule of the Sisters of St. Clare |
-| 11 | H3 | 1. form of life which st. francis wrote for st. clare |
-| 15 | H3 | 2. last wish which st. francis wrote to st. clare |
+Es error afirmar, como hacen Wadding y otros, que Santa Clara abandonó esta Regla en 1224. La Regla escrita por el Cardenal Ugolino fue refundida por la propia Santa Clara hacia el final de su vida para conformarla con la Segunda Regla de los Frailes Menores, y fue confirmada por Inocencio IV el 9 de agosto de 1253, dos días antes de la muerte de la santa abadesa.
 
+### 1. Forma de vida que San Francisco escribió para Santa Clara
 
-## Secciones incluidas
+"Ya que por inspiración divina os habéis hecho hijas y siervas del Altísimo Rey celestial y os habéis desposado con el Espíritu Santo, eligiendo vivir según la perfección del santo Evangelio, yo quiero y prometo tener siempre, por mí y por mis hermanos, una solicitud diligente y especial por vosotras, como por ellos."
 
-# V. Fragments from the Rule of the Sisters of St. Clare
+### 2. Último deseo que San Francisco escribió a Santa Clara
 
-[Contenido de esta sección...]
+"Yo, pequeño hermano Francisco, quiero seguir la vida y pobreza de Jesucristo nuestro Altísimo Señor y de su Santísima Madre, y perseverar en ello hasta el fin. Y os suplico a todas, mis señoras, y os aconsejo, que viváis siempre en esta santísima vida y pobreza. Y guardaos bien de que no os apartéis de ella por la enseñanza o consejo de nadie."
 
-## 1. form of life which st. francis wrote for st. clare
-
-[Contenido de esta sección...]
-
-## 2. last wish which st. francis wrote to st. clare
-
-[Contenido de esta sección...]
+Ambos fragmentos reflejan la devoción de San Francisco a la [[pobreza_espiritual]] como camino esencial de santificación, y su compromiso de proteger a las Clarisas en esa vocación.

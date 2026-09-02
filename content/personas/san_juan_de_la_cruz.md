@@ -3,13 +3,13 @@ type: Persona
 title: San Juan de la Cruz
 tags: ["persona", "teología_mística"]
 
-timestamp: 2026-07-14
+timestamp: 2026-09-02
 description: "Juan de Yepes Álvarez (1542-1591), religioso carmelita descalzo, Doctor Místico de la Iglesia. Nacido en Fontiveros (Ávila), fue cofundador de la Reforma del Carmelo con Santa Teresa de Jesús."
 ---
 # San Juan de la Cruz
 
 > Área: Persona
-> Última actualización: 2026-07-14
+> Última actualización: 2026-09-02
 
 ## Contexto histórico
 Juan de Yepes Álvarez (1542-1591), religioso carmelita descalzo, Doctor Místico de la Iglesia. Nacido en Fontiveros (Ávila), fue cofundador de la Reforma del Carmelo con Santa Teresa de Jesús. Sufrió persecución y cárcel dentro de su propia orden.
@@ -34,6 +34,10 @@ Los Avisos reflejan también la experiencia mística del Santo en la imagen del 
 
 La fuente incluye avisos diversos procedentes de sus estancias en Beas de Segura, Antequera y Granada, recogidos por diversas monjas y transcritos en ediciones posteriores.
 
+### Según Evangelization & Culture n.º 15 «Suffering» (EAC-15)
+
+En el artículo «John Paul II: Knowing Suffering from Inside» (George Weigel, archivo 18), San Juan de la Cruz es presentado junto a Santa Teresa de Ávila como uno de los dos Doctores del Carmelo reformado bajo cuya tutela espiritual (a través del místico laico Jan Tyranowski) Juan Pablo II descubrió «la teología espiritual cruciforme»: de ambos aprendió que «la cruz de Cristo es el eje alrededor del cual giran la historia y el cosmos». En la cruz el sufrimiento redentor alcanzó su forma más radical y fue transformado por la Resurrección en revelación de la verdad sobre el futuro humano: no la aniquilación sino «la vida eterna más allá del alcance del sufrimiento y de la muerte» [18_special_feature_weigel]. La mención integra la espiritualidad carmelitana de la cruz como eje de la historia en la teología del [[sufrimiento_redentor]] de Juan Pablo II (ver [[san_juan_pablo_ii]], [[salvifici_doloris]]).
+
 ## Obras principales
 
 - *Subida del Monte Carmelo*
@@ -56,3 +60,4 @@ San Juan de la Cruz es reconocido como Doctor Místico de la Iglesia (1926, Pío
 - [TPCr, Índice Onomástico]
 - [AvEsp, Sección 1: Dichos de luz y amor]
 - [AvEsp, Sección 2: Puntos de amor, reunidos en Beas]
+- EAC-15, archivo 18 (George Weigel), *John Paul II: Knowing Suffering from Inside*

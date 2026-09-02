@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "RECOPILACIÓN DE MENSAJES A LAS MUJERES"
 fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
 capítulo: 1
-timestamp: 2026-08-24
+timestamp: 2026-08-31
 description: "Resumen de 'RECOPILACIÓN DE MENSAJES A LAS MUJERES' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
@@ -12,31 +12,21 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[dignidad_de_la_mujer]] — dignidad inherente e inalienable de la mujer como persona humana
+- [[educacion_para_la_paz]] — formación integral para la paz en todas las dimensiones de la vida
+- [[vocacion_materna]] — misión propia de la mujer en la acogida y cuidado de la vida
+- [[genio_femenino]] — dones singulares de la feminidad al servicio de la sociedad y la Iglesia
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `01_recopilación_de_mensajes_a_las_mujeres.md`
+Esta obra reúne una colección de mensajes, discursos, meditaciones dominicales (Ángelus) y documentos del Papa [[san_juan_pablo_ii]] dirigidos a las mujeres, abarcando desde 1994 hasta 1995. La recopilación fue publicada por la editorial con ISBN 5705547533428 y constituye un compendio sistemático de la enseñanza papal sobre la [[dignidad_de_la_mujer]], su papel en la [[familia]], la sociedad, la [[Iglesia_católica]] y la construcción de la [[paz]].
 
+Los mensajes se estructuran en tres grandes bloques temáticos: (1) el Mensaje para la XXVIII Jornada Mundial de la Paz sobre «La mujer, educadora para la paz»; (2) los discursos y mensajes relacionados con la IV Conferencia Mundial de la ONU sobre la Mujer en Pekín (1995); y (3) las meditaciones dominicales del Ángelus dedicadas a figuras femeninas ejemplares y reflexiones sobre la mujer.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H1 | RECOPILACIÓN DE MENSAJES A LAS MUJERES |
 
-
 ## Secciones incluidas
-

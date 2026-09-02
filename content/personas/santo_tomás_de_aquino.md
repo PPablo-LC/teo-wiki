@@ -3,13 +3,13 @@ type: Persona
 title: Santo Tomás de Aquino
 tags: ["persona"]
 
-timestamp: 2026-08-30
+timestamp: 2026-09-02
 description: "Tomás de Aquino (1225-1274), religioso dominico, Doctor Angélico y Doctor Común de la Iglesia."
 ---
 # Santo Tomás de Aquino
 
 > Área: Persona
-> Última actualización: 2026-08-30
+> Última actualización: 2026-09-02
 
 ## Contexto histórico
 Tomás de Aquino (1225-1274), religioso dominico, Doctor Angélico y Doctor Común de la Iglesia. Nacido en el castillo de Roccasecca (Italia), estudió en Montecasino, Nápoles, París y Colonia, donde fue discípulo de San Alberto Magno. Es la cumbre de la escolástica medieval y el teólogo más influyente de la historia de la Iglesia.
@@ -44,6 +44,15 @@ El extracto de *Eucharist* de Robert Barron (18_spotlight_barron) presenta a Tom
 - **SmTh 3.79 — efectos de la comunión.** La gracia como efecto principal; la Eucaristía remite los pecados veniales («algo se pierde cada día de nuestra espiritualidad por el calor de la concupiscencia»); el alimento que sostiene, repara y deleita el alma.
 - **El «O Sacrum Convivium».** Su antífona del Corpus resume los tres tiempos de la persona eucarística: «memorial de la pasión, mente llena de gracia y prenda de la gloria futura» (retomada por O'Malley, ver [[persona_eucarística]]).
 
+## Teodicea según Evangelization & Culture n.º 15 «Suffering» (EAC-15)
+
+Tomás es la autoridad central en la reflexión de Robert Barron sobre el [[problema_del_mal]] y la [[teodicea]] en el número dedicado al sufrimiento.
+
+- **La formulación del problema (archivo 01 y 09).** Barron cita como «devastadoramente convincente» el argumento de Aquino contra la existencia de Dios: «si uno de dos contrarios fuera infinito, el otro quedaría totalmente destruido; pero el nombre 'Dios' significa que es bondad infinita; luego, si Dios existiera no habría mal; pero hay mal en el mundo; por tanto Dios no existe» (SmTh, objeciones al artículo sobre la existencia de Dios). Lo considera de hecho «un muy buen argumento», que exige una respuesta seria.
+- **La vía negativa del conocimiento de Dios.** Aquino enseñó que «conocemos con mucha más seguridad lo que Dios no es que lo que Dios es»; por eso, ante el problema del mal, conviene emplear una *via negativa*, determinando cómo *no* pensar el problema.
+- **El mal como *privatio boni*.** Con Agustín, Tomás sostiene que «el mal no es tanto una cosa como una carencia o privación de un bien que debería estar presente». Como Dios es el Ser mismo y el fundamento creador de cuanto existe, no puede «causar» lo que no es (el mal); de ahí que la tradición hable de que Dios «permite» el mal para un bien mayor.
+- **Dios como artista.** Una de las imágenes favoritas de Aquino para Dios es la del artista: cada criatura es objeto de su esfuerzo estético, pero el universo entero es «la principal y propia finalidad»; la creación es «una obra en curso» cuya coherencia solo se alcanzará en el *eschaton*. El Génesis expresa que Dios vio buenas las criaturas particulares pero «muy bueno» el conjunto.
+- **Dios no puede forzar el amor (archivo 16, Kaczor).** En la defensa tomista de la teodicea, [[libre_albedrío|la libertad]] es tal que ni siquiera Dios puede forzar un amor libre ni hacer lo imposible.
 
 ## Analizado para
 
@@ -61,3 +70,4 @@ El extracto de *Eucharist* de Robert Barron (18_spotlight_barron) presenta a Tom
 - [TPCr, Índice Onomástico]
 - Barron, Robert. «If It's a Symbol, to Hell with It», en *Evangelization & Culture* 13 (Autumn 2022); *Eucharist* (Word on Fire, 2021).
 - O'Malley, Timothy. «Eucharistic Personhood», en *Evangelization & Culture* 13 (Autumn 2022).
+- Barron, Robert. «The Holy Quest: Searching for Meaning in the Problem of Suffering»; Kaczor, Christopher. «Faith and the Defeat of Suffering», en *Evangelization & Culture* 15 (Spring 2023).

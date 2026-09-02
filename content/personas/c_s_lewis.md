@@ -3,7 +3,7 @@ type: Persona
 title: "C.S. Lewis"
 description: "Escritor y apologista británico (1898-1963), converso del ateísmo; autor de Las crónicas de Narnia, Mero cristianismo y Cartas de Screwtape."
 tags: ["apologética", "literatura_católica", "siglo_xx"]
-timestamp: 2026-08-22
+timestamp: 2026-09-02
 ---
 
 # C.S. Lewis
@@ -30,6 +30,10 @@ Profesor de literatura medieval y renacentista en Oxford y Cambridge, Lewis pas�
 - **Chronological snobbery:** el «snobismo cronológico» —creer que lo posterior es necesariamente superior— es clave en la conversión de Tim Westermeyer ante la historia milenaria de la Iglesia.
 - **Crítica al racionalismo:** *La abolición del hombre* como denuncia del racionalismo que destruye sin ver lo que destruye.
 
+### Según Evangelization & Culture n.º 15 «Suffering» (EAC-15)
+
+En «Suffering and the Limits of Medicine» (Ken May, MD, PhD, archivo 11), C.S. Lewis es citado desde *The Problem of Pain* para precisar en qué sentido el sufrimiento es bueno. Frente a quienes romantizan el dolor, Lewis advierte: «El sufrimiento no es bueno en sí mismo. Lo que es bueno en cualquier experiencia dolorosa es, para el que sufre, su sumisión a la voluntad de Dios, y, para los espectadores, la compasión despertada y los actos de misericordia a los que conduce». La cita enmarca la vocación médica de cuidar el [[sufrimiento_cristiano]] del alma —no solo el dolor físico— y conecta con el [[sufrimiento_redentor]] cuando el dolor se ofrece a Dios en sumisión a su voluntad.
+
 ## Relevancia teológica
 
 Lewis demuestra que la sátira, la fantasía y el humor pueden ser vehículos de ortodoxia. Aunque anglicano, su antropología (ley moral natural, deseo, razón) es plenamente armonizable con la tradición católica y ha sido recibida como tal.
@@ -41,3 +45,4 @@ Lewis demuestra que la sátira, la fantasía y el humor pueden ser vehículos de
 ## Referencias
 
 - EAC-8, archivos 08, 15, 18, 20
+- EAC-15, archivo 11 (Ken May), *Suffering and the Limits of Medicine*

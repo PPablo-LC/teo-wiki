@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "Documentos capitulares"
 fuente: Comunicado Capitular 2020
 capítulo: 5
-timestamp: 2026-08-24
+timestamp: 2026-08-31
 description: "Resumen de 'Documentos capitulares' — Comunicado Capitular 2020"
 tags: ["resumen", "comunicado capitular 2020"]
 ---
@@ -12,31 +12,14 @@ tags: ["resumen", "comunicado capitular 2020"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[capítulo_general]]
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `05_documentos_capitulares.md`
+Encabezado de sección «Documentos capitulares», a modo de divisoria que agrupa los documentos emanados por el Capítulo General 2020 (comunicado capitular, decreto capitular, comunicado sobre «Conversión y reparación», y el documento «Proteger y sanar»), cuyos textos se desarrollan en los archivos 06 a 09. Este archivo contiene solo el título de la sección.
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H1 | Documentos capitulares |
-
-
-## Secciones incluidas
-

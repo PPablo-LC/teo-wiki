@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Pecado original
 tags: ["dogmática"]
 
-timestamp: 2026-08-07
+timestamp: 2026-09-02
 description: "El pecado original es el pecado cometido por nuestros primeros padres (Adán y Eva) en el origen de la humanidad."
 ---
 # Pecado original
 
 > Área: Dogmática
-> Última actualización: 2026-08-07
+> Última actualización: 2026-09-02
 
 ## Definición
 
@@ -183,6 +183,16 @@ El texto subraya la importancia del estudio del pecado original para comprender 
 
 **Por qué se prohíbe el árbol (Kaczor).** El intento de hacerse Dios no puede triunfar («criaturas causadas y limitadas como nosotros nunca pueden llegar a ser el Creador increado e ilimitado»), pero sí destruye los bienes propios de la humanidad abrazada: pierde la **humildad** («olvidará que es criatura de carne y barro»), la **justicia** («olvidará dar a Dios y a las demás criaturas lo que les es debido») y el **amor** (pues «el amor se basa en la realidad del amado y en la realidad sobre nosotros mismos»). «No es casualidad que los tiranos más malvados de la historia reclamaran un poder absoluto que pertenece legítimamente solo a Dios».
 
+### Según Evangelization & Culture, Issue 15 «Suffering» (EAC-15)
+
+**El mal como privación del bien (Robert Barron).** Siguiendo a Agustín y Aquino, el mal no es una cosa sino «una falta o privación de un bien que debería estar presente, una *privatio boni*»: el cáncer es malo en la medida en que corrompe órganos y tejidos; la ceguera es un mal porque es la ausencia de la visión; el pecado es «una inclinación o deformación de la voluntad» —en la expresión de Henri de Lubac, «esta misteriosa cojera». Dios, que es el Ser mismo y el fundamento creador de cuanto existe, no puede causar lo que no es; por eso la tradición habla de que Dios «permite» el mal. [EAC-15, 09]
+
+**El pecado original como origen del sufrimiento (George Weigel, sobre Juan Pablo II).** La humanidad prelapsaria no sufría; la humanidad comenzó a sufrir cuando, como escribió Juan Pablo II en su *Teología del Cuerpo*, la auto-afirmación prevaleció sobre el auto-don cuando Adán y Eva comieron «del árbol del conocimiento del bien y del mal» (Gn 2,17). Sin embargo, el mal que entró en la creación no canceló el bien que Dios había declarado sobre el orden creado en los «seis días» (Gn 1,1-31). El sufrimiento, aunque reflejo de la caída del mundo y de la humanidad, puede «desatar el amor en la persona humana» cuando es infundido por la gracia cruciforme. [EAC-15, 18]
+
+**En un mundo caído, sufrimiento y amor están misteriosamente unidos (Edyta McNichol, sobre santa Faustina).** Faustina comprendió que «en un mundo caído, el sufrimiento y el amor están misteriosa pero inextricablemente unidos»: «por el sufrimiento el alma se vuelve semejante al Salvador»; «cuanto mayor es el sufrimiento, más puro el amor». El sufrimiento, arraigado en la condición caída, es el camino por el que se aprende a amar a Dios y a amar como Dios: «no hay camino al cielo excepto el camino de la cruz» [EAC-15, 05].
+
+**La condición caída y la necesidad de redención (Gary Saul Morson).** En la reflexión de Dostoievski sobre la literatura rusa, la doctrina del pecado original expresa que la capacidad del mal es esencial al ser humano —pero también lo es la capacidad del bien: los hombres aman a Sodoma y a la Madona; están sumidos en la pecaminosidad pero también han sido hechos a imagen de Dios [EAC-15, 17].
+
 ## Distinciones importantes
 
 - Pecado original contraído ≠ pecado personal cometido.
@@ -217,3 +227,5 @@ El texto subraya la importancia del estudio del pecado original para comprender 
 [[creación]], [[hombre]], [[redención]], [[bautismo]], [[gracia_santificante]], [[jesucristo]], [[ángeles]], [[jorge_loring]], [[soberbia]], [[tentación]]
 
 ## Referencias
+
+- [EAC-15, 05, 09, 17, 18]

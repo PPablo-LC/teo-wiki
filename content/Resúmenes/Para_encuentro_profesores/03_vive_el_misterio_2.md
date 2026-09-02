@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "Vive el Misterio 2"
 fuente: Para_encuentro_profesores
 capítulo: 3
-timestamp: 2026-08-24
+timestamp: 2026-08-31
 description: "Resumen de 'Vive el Misterio 2' — Para_encuentro_profesores"
 tags: ["resumen", "para encuentro profesores"]
 ---
@@ -12,25 +12,45 @@ tags: ["resumen", "para encuentro profesores"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[Encuentro con Cristo]]
+- [[Discernimiento apostólico]]
+- [[Oración contemplativa]]
+- [[Lectio Divina]]
+- [[Revisión de vida]]
+- VER-JUZGAR-ACTUAR
+- [[Dios que sale al encuentro]]
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `Vive_el_Misterio_2_v4_completo.md`
+### Presentación general
 
+*Vive el Misterio 2 — El Encuentro con Cristo* es una Jornada de Capacitación Institucional del Instituto Humanista de la Santísima Trinidad (IHST) de Salta, impartida por Legionarios de Cristo:
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+- **Nivel Inicial:** P. Santiago Pérez, L.C.
+- **Nivel Primaria:** P. Pablo Redondo, L.C.
+- **Nivel Secundario:** P. José Eduardo Sánchez, L.C.
+- **Santa Misa:** P. Luis González de Aguilar, L.C.
+
+El documento presenta dos esquemas alternativos para que los padres elijan:
+
+### Propuesta A: Lectura Orante · Compromisos de Vida Cristiana · Discernimiento Apostólico
+
+- Movimiento: del [[Evangelio]] a la vida.
+- Énfasis contemplativo y espiritual.
+- Estructura: Lectura Orante → Compromisos → [[Discernimiento apostólico]]
+- Evangelios: Jn 1,37-39 · Jn 15,1-5 · Mt 28,18-20
+- Adecuada para grupos con menos práctica de discernimiento grupal.
+
+### Propuesta B: VER — Encuentro · JUZGAR — Convicciones · ACTUAR — Decisiones
+
+- Movimiento: de la vida al [[Evangelio]].
+- Énfasis evangelizador y apostólico.
+- Estructura: VER → JUZGAR → ACTUAR (esquema ECYD / [[Revisión de vida]])
+- Evangelios: Jn 1,35-39 · Lc 10,30-34 · Lc 10,1-9
+- Adecuada para grupos con experiencia en revisión de vida.
+
+Ambas propuestas comparten la misma duración (8:00 a 12:20 hs.) y culminan en la [[Santa Misa]].
 
 ## Secciones incluidas
 
+- Presentación general del documento (líneas 1–17)

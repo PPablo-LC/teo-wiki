@@ -3,34 +3,48 @@ type: ResumenFuente
 title: "Resumen ejecutivo"
 fuente: Alpha
 capítulo: 2
-timestamp: 2026-08-24
+timestamp: 2026-08-31
 description: "Resumen de 'Resumen ejecutivo' — Alpha"
 tags: ["resumen", "alpha"]
 ---
 
 # Resumen ejecutivo
 
+> 📄 **Fuente original:** `REPORT.md`
+> Reporte global de procesamiento de los 16 vídeos del curso Alpha.
+
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[fe]] — tema central de la serie Alpha, tratada como relación y evidencia
+- [[evangelización]] — finalidad pastoral del curso Alpha
+- [[espíritu_santo]] — tema de los episodios de retiro (8-11)
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `REPORT.md`
+### Resumen ejecutivo
 
+Tabla resumen de las métricas del procesamiento completo de la serie:
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+| Métrica | Valor |
+|---------|-------|
+| Vídeos procesados | **16 / 16** |
+| Modo de procesamiento | 2 (preparación local con `run.sh prepare-fast`) |
+| Idioma detectado por Whisper | es |
+| Fotogramas extraídos | **711 total** |
+| Fotogramas conservados tras revisión visual | **535 total** |
+| Fotogramas eliminados por irrelevancia | **176 total** |
+| Momentos visuales identificados | **234 total** |
+| Correcciones ortográficas aplicadas | **146 total** |
+| Vídeos eliminados de `input/` al finalizar | **15** |
+
+Los 16 vídeos se procesaron íntegramente en **Modo 2**. El pipeline detectó
+Windows/Manifest ya existentes en cada carpeta de salida, transcribió el audio
+en español, realizó revisión ortográfica comparando la transcripción formateada
+con la cruda, extrajo y auditaron fotogramas visualmente, y generó informe final
+por vídeo. Al final, 15 vídeos se eliminaron de `input/` al tener momentos
+visuales con frames extraídos, mientras que el Episodio_11-Retiro_3 se conservó
+al no contener elementos visuales.
 
 ## Secciones incluidas
 
+- Resumen ejecutivo (tabla de métricas)

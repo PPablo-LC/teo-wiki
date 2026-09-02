@@ -2,7 +2,7 @@
 type: Persona
 title: Madre Teresa de Calcuta
 description: "Agnes Gonxha Bojaxhiu (1910-1997), fundadora de las Misioneras de la Caridad, Premio Nobel de la Paz 1979"
-timestamp: 2026-08-30
+timestamp: 2026-09-02
 tags:
   - persona
   - caridad
@@ -11,7 +11,7 @@ tags:
 ---
 
 > Área: Persona
-> Última actualización: 2026-08-30
+> Última actualización: 2026-09-02
 
 ## Contexto histórico
 
@@ -37,6 +37,10 @@ Barron subraya que Madre Teresa, junto con otros santos modernos como Maximilian
 
 **Hospitalidad universal (Sr. Alicia Torres).** Torres recuerda haber estado a los pies de Madre Teresa en la Jornada Mundial de la Juventud de 1984, junto a san Juan Pablo II y Nuestra Señora de Akita, como consolaciones que le señalaron a Jesús en medio del duelo.
 
+### Según Evangelization & Culture n.º 15 «Suffering» (EAC-15)
+
+En «Lessons from Elijah» (Fr. Leonard Andrie, archivo 22), Madre Teresa es citada para condensar el sentido de la fidelidad en medio del sufrimiento y del desánimo ministerial: «Dios no nos ha llamado a tener éxito, sino a ser fieles» (*God has called us not to be successful, but to be faithful*). El autor la aplica a la prueba del profeta Elías, cuya misión «no era cambiar la nación sino cumplir su tarea dada por Dios», llena tanto de triunfos como de lucha y sensación de abrumo. La cita subraya la distinción entre resultados visibles y fidelidad a la vocación, clave para [[acompañamiento_pastoral|acompañar]] a quienes sufren el desánimo y la [[desolación_espiritual]] (ver [[vocación]], [[sufrimiento_cristiano]]).
+
 ## Relaciones doctrinales
 
 - [[vocación_a_la_santidad]]: Madre Teresa es ejemplo paradigmático de la llamada universal a la santidad
@@ -61,3 +65,4 @@ Barron subraya que Madre Teresa, junto con otros santos modernos como Maximilian
 - WoF, Lección 8: "Una multitud de testigos" — §§ sobre santos contemporáneos
 - Johnson, Fr. Josh. «Sit with Him Awhile» y «Adoration in the Midst of Ethnic Tensions», en *Evangelization & Culture* 13 (Autumn 2022).
 - Torres, Alicia. «The Sacred Heart of Home», en *Evangelization & Culture* 13 (Autumn 2022).
+- Andrie, Leonard. «Lessons from Elijah», en *Evangelization & Culture* 15 (Spring 2023).

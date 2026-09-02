@@ -38,6 +38,14 @@ Convertido al anglocatolicismo bajo el influjo de John Henry Newman, ingresó en
 - **«Carrion Comfort»:** «No, no cebaré en ti, Desesperación, mi carroña»; resolución dolorosa: «¿Por qué? Para que mi paja vuele; mi grano quede, puro y claro»; «Aquella noche, aquel año / de oscuridad ya cumplida, yo, desdichado, luchaba con (¡mi Dios!) mi Dios»: Jacob con el ángel, Cristo en Getsemaní y el «Elí, Elí, lamá sabactani» de la cruz.
 - **Confianza final:** «That Nature is a Heraclitean Fire and of the comfort of the Resurrection» (julio de 1888), menos de un año antes de su muerte: «Este Jack, burla, pobre tiesto, | remiendo, astilla, madera de naufragio, diamante inmortal, / Es diamante inmortal». Confianza en Dios pase lo que pase, como Santa Teresita de Lisieux o Madre Teresa de Calcuta, que atravesaron la noche oscura con confianza.
 
+### Evangelization & Culture 14 «Joy» (EAC-14)
+
+El número 14, dedicado a la alegría, incluye en su sección de poesía el poema «Pied Beauty» (EAC-14, 07_poetry_pied_beauty.md), cuya lectura se inserta en el marco de la [[fe_y_belleza]]:
+
+- **La belleza «moteada» (*dappled*) como alabanza:** «Gloria a Dios por las cosas moteadas» (*Glory be to God for dappled things*) — la diversidad, la mezcla, lo «contradictorio, original, sobrio, extraño» (*counter, original, spare, strange*) de la creación es motivo de alabanza y de gozo.
+- **La celebración de la alegría en el particular:** fiel a su teología de la *haecceitas* (la «thisness» individual de cada criatura), Hopkins ve en la variedad infinita de lo creado (vacas manchadas, truchas rosadas, pinzones de alas partidas) el esplendor del Creador.
+- **La fuente inmutable de toda belleza cambiante:** el poema culmina alabando a Dios «cuya belleza es el más allá del cambio» (*whose beauty is past change*): la alegría de la creación se ancla en la inmutabilidad del que la sostiene y la hace ser.
+
 ## Distinciones importantes
 
 - **Instress y inscape:** El *instress* es la carga eléctrica de la belleza divina presente en cada criatura; Hopkins percibe en lo creado una individualidad sagrada (la «thisness» o haecceitas) que llama a la alabanza.
@@ -65,3 +73,4 @@ Convertido al anglocatolicismo bajo el influjo de John Henry Newman, ingresó en
 
 - Mariani, Paul. "Minds: Gerard Manley Hopkins." *Evangelization & Culture*, No. 9, Autumn 2021.
 - Hopkins, Gerard Manley. *Poems and Prose*. Ed. W.H. Gardner. Penguin Classics, 1985.
+- «Pied Beauty», *Evangelization & Culture*, No. 14 «Joy» (EAC-14, 07_poetry_pied_beauty.md)

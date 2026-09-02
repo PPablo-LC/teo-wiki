@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Kenosis
 tags: ["cristología"]
 
-timestamp: 2026-08-09
+timestamp: 2026-09-02
 description: "La kenosis (del griego κένωσις.)"
 ---
 # Kenosis
 
 > Área: Cristología
-> Última actualización: 2026-08-09
+> Última actualización: 2026-09-02
 
 ## Definición
 
@@ -63,6 +63,14 @@ La infografía de la carta a los Filipenses del PdB subraya la kenosis como mode
 
 **La Anunciación como kenosis mariana.** «Que mi ego gire en torno a lo que Tú quieres, Señor»: el contraste mariano frente a toda soberbia en el Purgatorio.
 
+### Según Evangelization & Culture, Issue 15 «Suffering» (EAC-15)
+
+**El auto-vaciamiento del cura como kenosis (Joshua Hren).** Hren analiza *El diario de un cura de aldea* de Bernanos y describe la kenosis del sacerdote como un empobrecimiento que se abre al dolor ajeno: el cura calla su sufrimiento para no ser despedido, pero al mismo tiempo «comparte estos pequeños inconvenientes con Nuestro Señor solo»; su soledad se vuelve aún más profunda porque el odio a sí mismo dificulta la paz interior. La kenosis sacerdotal se revela en la comunión con el Cuerpo Místico: los vínculos que nos unen en el bien y en el mal son tan estrechos que, «si Dios nos diera un conocimiento claro de lo estrechamente que estamos unidos unos a otros tanto en el bien como en el mal, no podríamos seguir viviendo». Balthasar identifica la «experiencia principal» de los personajes de Bernanos como «un movimiento desde la angustia propia hacia la angustia de Cristo». La victoria final es el amor santo a sí mismo, la gracia suprema de «amarse a sí mismo con toda sencillez —como se amaría a cualquiera de aquellos que han sufrido y amado en Cristo». La kenosis del bautismo (Rom 6,3: «¿No sabéis que todos los que hemos sido bautizados en Cristo Jesús hemos sido bautizados en su muerte?») se encarna en el rostro del cura, «gastado por la oración» como un antiguo misal [EAC-15, 06].
+
+**El amor kenótico y la «muerte de Dios» (Robert Mixa).** Mixa examina la respuesta de Nietzsche al cristianismo y subraya que el ataque de Nietzsche a la fe decadente puede ser herramienta para la fe auténtica: la parábola del loco (La gaya ciencia §125) destruye el ídolo de un Dios extrínseco que hay que superar para llegar al «Dios más allá de Dios» que la fe cristiana proclama. El cristianismo mismo es kenosis, amor kenótico, pues el Cristo crucificado y su grito de abandono («Dios mío, Dios mío, ¿por qué me has abandonado?») muestran que Dios mismo se vacía. La crítica nietzscheana a un Dios meramente externo ayuda a descubrir al Dios que es «al mismo tiempo transcendencia infinita e interior intimo meo [Agustín] —más íntimo a mí de lo que yo soy a mí mismo». Con los santos, hay que unirse a Cristo y a su grito de desamparo en la cruz: «es en el Dios más allá de la muerte de Dios donde hallamos la resurrección» [EAC-15, 10].
+
+**La cruz como árbol de la vida (Matthew Becklo).** En su análisis de *The Tree of Life* de Malick, Becklo presenta la cruz como el «árbol de la vida»: el sufrimiento «está envuelto por el amor y la sabiduría de Dios»; «el pecado, el sufrimiento y la muerte no tienen la última palabra». En el corazón de la obra maestra divina está «Jesús, Amor encarnado, que sufre con nosotros, abriendo un camino de sufrimiento más fuerte que la muerte». La cruz cambia «el sentido de toda la vida humana, e incluso la vida misma»: Cristo, el árbol de la vida, se ofrece en kenosis en la cruz, transformando el sufrimiento en participación en la nueva creación [EAC-15, 08].
+
 ## Distinciones importantes
 
 - La kenosis no es una negación de la divinidad de Cristo, sino la asunción libre de la condición humana.
@@ -81,7 +89,7 @@ Este concepto se vincula con [[encarnación]], [[humildad_de_cristo]], [[obedien
 
 ## Ver también
 
-[[encarnación]], [[humildad_de_cristo]], [[obediencia_de_cristo]], [[pasión_de_cristo]], [[exaltación_de_cristo]], [[redención]], [[cristología]], [[imitación_de_Cristo]]
+[[encarnación]], [[humildad_de_cristo]], [[obediencia_de_cristo]], [[pasión_de_cristo]], [[exaltación_de_cristo]], [[redención]], [[cristología]], [[imitación_de_Cristo]], [[cruz]]
 
 ## Referencias
 
@@ -89,3 +97,6 @@ Este concepto se vincula con [[encarnación]], [[humildad_de_cristo]], [[obedien
 - [TPCr, Tercera Parte, Libro II, Cap. II]
 - [PS, Cap. 6, 20]
 - [Flp 2,6-11]
+- [EAC-15, 06 — Hren: kenosis del cura de aldea, auto-vaciamiento y comunión del Cuerpo Místico]
+- [EAC-15, 10 — Mixa: amor kenótico en Nietzsche y el «Dios más allá de la muerte de Dios»]
+- [EAC-15, 08 — Becklo: la cruz como árbol de la vida y kenosis en The Tree of Life]

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Frutos del Espíritu Santo
 tags: ["moral", "mística"]
 
-timestamp: 2026-08-06
+timestamp: 2026-08-31
 description: "Perfecciones que forma en nosotros el Espíritu Santo como primicias de la gloria eterna."
 ---
 # Frutos del Espíritu Santo
 
 > Área: Moral / Mística
-> Última actualización: 2026-08-06
+> Última actualización: 2026-08-31
 
 ## Definición
 
@@ -44,6 +44,11 @@ A las obras de la carne San Pablo contrapone «el fruto del Espíritu»: amor, a
 
 En la Sagrada Escritura, la iniciativa del esfuerzo por adquirir las virtudes no parte del hombre, sino de Dios: las virtudes cristianas son «frutos del Espíritu», conectadas con la acción del Espíritu Santo. El catálogo bíblico de los frutos del Espíritu comprende el amor, la alegría, la paz, la paciencia, la afabilidad, la bondad, la fidelidad, la mansedumbre y el dominio de sí (Ga 5, 22-23), resultantes de la acción del Espíritu. (Ele_Xto_Stos, Cap. VII, §1b)
 
+### Según Evangelization & Culture n.º 14 «Joy» (EAC-14)
+
+Baird subraya que la alegría es el fruto del Espíritu por excelencia (Gál 5,22-23: «el fruto del Espíritu es amor, alegría, paz, paciencia, amabilidad, bondad, fidelidad, mansedumbre, dominio propio»). Cita la enumeración del «fruto del Espíritu — amor, alegría, paz, paciencia, bondad, fidelidad, mansedumbre, templanza» y ofrece una imagen de unidad del fruto: «la paz, la paciencia y la bondad no son las manzanas, naranjas y piñas de frutos espirituales separados, sino las capas dulces, ácidas y terrosas del perfil de sabor de un único fruto». La alegría madura orgánicamente: «compartir la propia alegría de Dios... es muy parecido al crecimiento de un fruto».
+
+[EAC-14, 14_feature_baird.md]
 
 ## Distinciones importantes
 
@@ -70,3 +75,4 @@ En la Sagrada Escritura, la iniciativa del esfuerzo por adquirir las virtudes no
 - Gálatas 5,22-23
 - Ele_Xto_Stos, Cap. III, §3c
 - Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. VII, §1b
+- [EAC-14, 14_feature_baird.md]

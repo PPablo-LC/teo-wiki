@@ -3,14 +3,14 @@ type: Concepto Teológico
 title: Alegría litúrgica
 tags: ["liturgia", "espiritual"]
 
-timestamp: 2026-06-28
+timestamp: 2026-08-31
 description: "La alegría litúrgica es el tono fundamental de la celebración cristiana, reflejo de la alegría escatológica del Reino y expresión de la victoria de Cristo sobre la muerte."
 ---
 
 # Alegría litúrgica
 
 > Área: Liturgia / Espiritual
-> Última actualización: 2026-06-28
+> Última actualización: 2026-08-31
 
 ## Definición
 
@@ -97,6 +97,17 @@ tiene la última palabra» en la liturgia cristiana, porque «Dios ha
 plantado su tienda entre nosotros» (Jn 1,14). Cita a C. S. Lewis y
 al *homo ludens* de Huizinga.
 
+### Según Evangelization & Culture n.º 14 «Joy» (EAC-14)
+
+Blake Britton (EAC-14, 18_special_feature_britton.md) subraya el origen **litúrgico** de la alegría judeocristiana como su dato distintivo:
+
+- **La alegría es esencial, no accidental, a la experiencia cristiana:** «Tanto la Escritura como la Tradición dejan claro que la alegría es esencial, no accidental, a la experiencia cristiana». Lejos de un mero sentimiento o placer pasajero, la alegría del catolicismo es «al mismo tiempo fruto de una espiritualidad genuina y poderoso instrumento de conversión».
+- **Su origen es el culto recto:** «Este es el día que hizo el Señor; alegrémonos y gocémonos en él» (Sal 118,24). «Surge aquí el origen fundamental y único de la alegría judeocristiana: es litúrgica. La alegría proviene del culto recto». Según la Antigua Ley, la alegría nace de «una redención de nuestra fragilidad humana, que permite la libertad de participar en la vida de Dios mediante el culto recto».
+- **La razón de la alegría es primaria (Josef Pieper):** citando a Pieper (*Faith, Hope, Love*): «el hombre puede (y quiere) alegrarse solo cuando hay una razón para la alegría. Y esta razón, por tanto, es primaria; la alegría misma es secundaria». Y: «todo amor tiene la alegría como su fruto natural».
+- **La alegría de Cristo en nosotros (San Agustín):** «¿Qué otra cosa es la alegría de Cristo en nosotros sino que él se complace en regocijarse sobre nosotros? ¿Y qué es esta alegría nuestra que dice que ha de ser plena, sino nuestra comunión con él?» (*Tratados sobre el Evangelio de Juan* 83,1).
+
+Véase también [[alegría_cristiana]], [[liturgia]], [[eucaristía]].
+
 ## Distinciones importantes
 
 - **Alegría cristiana ≠ felicidad emocional**: la alegría cristiana
@@ -110,7 +121,7 @@ al *homo ludens* de Huizinga.
 ## Ver también
 
 [[alegría_cristiana]], [[liturgia]], [[frutos_del_espíritu_santo]],
-[[misterio_pascual]], [[diez_principios_de_buena_liturgia]]
+[[misterio_pascual]], [[diez_principios_de_buena_liturgia]], [[alegría]]
 
 ## Referencias
 
@@ -118,3 +129,4 @@ al *homo ludens* de Huizinga.
 - CEC §1832 (frutos del Espíritu).
 - ConcVatII, GS §§38, 45.
 - SmTh, I-II, q.28 (gaudium como efecto del amor).
+- *Evangelization & Culture*, n.º 14 «Joy» (EAC-14, 18_special_feature_britton.md)

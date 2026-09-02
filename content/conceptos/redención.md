@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Redención
 tags: ["dogmática", "soteriología"]
 
-timestamp: 2026-06-20
+timestamp: 2026-09-02
 description: "La Redención es la obra por la cual Jesucristo, el Hijo de Dios hecho hombre, nos libera del pecado y de la muerte mediante su sacrificio en la cruz, reconcilia al hombre con Dios."
 ---
 # Redención
 
 > Área: Dogmática / Soteriología
-> Última actualización: 2026-06-20
+> Última actualización: 2026-09-02
 
 ## Definición
 
@@ -115,6 +115,19 @@ Juan Pablo II desarrolla la redención como liberación del pecado y del «padre
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 La entrada «Redención» del VocTeoBib muestra la continuidad entre AT y NT: el Éxodo es la redención fundante, en la que Dios libera a su pueblo y lo constituye como propiedad suya mediante la alianza (Ex 6,6s). Los profetas anuncian una nueva redención mesiánica (Sal 130,7s). En el NT, Cristo realiza la redención con su muerte voluntaria (Mt 20,28), pagando el rescate con su sangre (1Pe 1,18s). Muerte y resurrección son dos aspectos indisociables de un único misterio (Rom 6,4.11). La redención es esencialmente un misterio de amor (Jn 3,16; 15,13): Jesús «amó hasta el fin» (Jn 13,1), y su amor obediente repara la desobediencia de Adán (Rom 5,19; Flp 2,8).
+
+### Según Evangelization & Culture, Issue 15 «Suffering» (EAC-15)
+
+**El sufrimiento redentor unido a la cruz (Edyta McNichol, sobre Santa Faustina).** McNichol presenta la vida de Santa Faustina como el testimonio de que el sufrimiento y el amor están «misteriosa pero inseparablemente unidos» en un mundo caído. Dios elige el sufrimiento como medio de salvación: «el Amor mismo eligió el sufrimiento como medio de salvación». La cruz es el signo seguro de que «Dios amó tanto al mundo» (Jn 3,16): «No hay camino al cielo sino el camino de la cruz. Yo lo seguí primero» (Jesús a Faustina). Ofrecer el sufrimiento a Jesús es unirse a su cruz: «cuando ofrecemos nuestro sufrimiento a Jesús, nos unimos a su sufrimiento en la cruz». La redención que el amor realiza por medio del sufrimiento se consuma en la imagen de la Divina Misericordia: los rayos rojo y azul que «brotaron de las profundidades de mi tierna misericordia cuando mi Corazón agónico fue abierto por la lanza en la Cruz». La cruz, sin embargo, no es la última palabra: la participación en la vida de Cristo es participación no solo en su muerte sino en su Resurrección [EAC-15, 05].
+
+**La redención y la justicia divina (Peter Kreeft).** Kreeft, en un relato ficcional sobre la tentación de Cristo, presenta la redención en el contexto del carácter absoluto de los mandamientos y de la justicia divina: el pecado tiene consecuencias eternas porque «Dios es justicia además de amor»; por eso Cristo tuvo que morir —«por qué Dios no podía simplemente chasquear los dedos y salvar a todos»—, pues el demonio tenía «derecho» a las almas por justicia eterna. La agonía de Getsemaní revela el sufrimiento espiritual de Cristo, mayor que el físico, al contemplar los sufrimientos de las almas: «cuanto más amamos, más podemos sufrir». Cristo, en la cruz, resuelve la tensión entre los dos grandes mandamientos: no da una respuesta, «es» la respuesta, «porque es a la vez Dios y hombre» [EAC-15, 14].
+
+**Cristo toma sobre sí el dolor humano (Robert Barron).** Barron enseña que el Misterio Pascual es la clave del sufrimiento: «el crucificado es Dios». Dios «ha tomado sobre sí todo el dolor que aqueja a la condición humana: físico, psicológico y espiritual»; «Dios entra en los lugares más oscuros que habitamos; Dios experimenta el hecho brutal del sufrimiento en todas sus dimensiones». Por eso «el dolor no tiene la última palabra»: «el amor de Dios es más poderoso que el sufrimiento, y es la misericordia divina, no el dolor, lo que es metafísicamente básico». En esto consiste nuestra salvación [EAC-15, 01].
+
+**La salvación y el Médico divino (Christopher Kaczor).** Kaczor, siguiendo a Eleonore Stump, enmarca el sufrimiento en el contexto de la salvación: si solo existiera este mundo, el sufrimiento no estaría justificado; pero si esta vida no es la única, «la posibilidad de la salvación eterna es necesaria para pensar adecuadamente sobre el sufrimiento». Los deseos del corazón y el florecimiento humano más alto «encuentran su culminación en Dios». La redención no fuerza el amor libre, pues «ni siquiera Dios puede forzar a un ser humano a amar libremente a Dios a cambio». El Médico divino usa el sufrimiento como «medicina amarga para sanar a alguien de la soledad autoimpuesta»: «A veces la única forma en que el buen Dios puede entrar en algunos corazones es rompiéndolos» (Fulton Sheen). Lo que hace cruz a una cruz «es que mata al que la lleva» (Mankowski). Los que sufren reconocerán la justificación del sufrimiento en el bien recibido [EAC-15, 16].
+
+**La semilla de trigo y la victoria sobre el mal (Gary Saul Morson).** Morson, al estudiar a Dostoievski, explica que el epígrafe de *Los hermanos Karamázov* —«si el grano de trigo no cae en tierra y muere, queda solo; pero si muere, da mucho fruto» (Jn 12,24)— enseña que hay que sufrir (morir como grano de trigo) antes de que el alma pueda ver la luz y dar fruto. El sufrimiento puede exaltar o envilecer; la elección moral fundamental es la del que, por haber sufrido, evita el sufrimiento a otros (lo cristiano) frente al resentimiento que justifica la crueldad (lo demoníaco). La doctrina del pecado original afirma que «la capacidad del mal es esencial al ser humano. Pero también lo es la capacidad del bien»: los hombres están hechos a imagen de Dios. «La verdadera prueba de quiénes somos es cómo respondemos al sufrimiento profundo» [EAC-15, 17].
+
 .
 
 - [CEC §571-623]
@@ -123,9 +136,14 @@ La entrada «Redención» del VocTeoBib muestra la continuidad entre AT y NT: el
 - [PS §33-34]
 - SmTh IIIª q.1 aa.1-3; q.48 aa.1-6; q.49 aa.1-6; q.6 a.4
 - [VJ, Cap. VI]
+- [EAC-15, 05 — McNichol: sufrimiento redentor unido a la cruz (Santa Faustina)]
+- [EAC-15, 14 — Kreeft: la redención y la justicia divina]
+- [EAC-15, 01 — Barron: Cristo toma sobre sí el dolor humano]
+- [EAC-15, 16 — Kaczor: la salvación y el Médico divino]
+- [EAC-15, 17 — Morson: la semilla de trigo y la victoria sobre el mal]
 
 ## Ver también
 
-[[jesucristo]], [[pecado_original]], [[eucaristía]], [[bautismo]], [[gracia_santificante]], [[iglesia_cuerpo_místico]], [[jorge_loring]]
+[[jesucristo]], [[pecado_original]], [[eucaristía]], [[bautismo]], [[gracia_santificante]], [[iglesia_cuerpo_místico]], [[jorge_loring]], [[cruz]], [[sufrimiento_redentor]]
 
 ## Referencias

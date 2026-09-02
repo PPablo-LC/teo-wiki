@@ -3,7 +3,7 @@ type: ResumenFuente
 title: "María, modelo de paz"
 fuente: Recopilacion de mensajes a las mujeres - Juan Pablo II
 capítulo: 8
-timestamp: 2026-08-24
+timestamp: 2026-08-31
 description: "Resumen de 'María, modelo de paz' — Recopilacion de mensajes a las mujeres - Juan Pablo II"
 tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 ---
@@ -12,34 +12,27 @@ tags: ["resumen", "recopilacion de mensajes a las mujeres - juan pablo ii"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[santa_María]] — Reina de la Paz, modelo de disponibilidad y servicio
+- [[maternidad_de_María]] — vivió con responsabilidad el proyecto de Dios para la salvación
+- [[Magnificat]] — canto de gratitud de María a Dios (Lc 1, 46-55)
+- [[paz]] — vocación de los hombres y mujeres al servicio de la vida
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `08_maría_modelo_de_paz.md`
+## María, modelo de paz
 
+[[santa_María]], Reina de la Paz, con su [[maternidad_de_María]], con el ejemplo de su disponibilidad a las necesidades de los demás y con el testimonio de su dolor, está cercana a las mujeres de nuestro tiempo. Vivió con profundo sentido de responsabilidad el proyecto que Dios quería realizar en Ella para la salvación de toda la humanidad. Consciente del prodigio de ser Madre de su Hijo hecho hombre, tuvo como primer pensamiento el de ir a visitar a su anciana prima Isabel.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+El encuentro le ofreció la ocasión de manifestar, con el admirable canto del [[Magnificat]] (Lc 1, 46-55), su gratitud a Dios que, con Ella y a través de Ella, había dado comienzo a una nueva creación, una historia nueva.
+
+El Papa pide a la Virgen Santísima que proteja a los hombres y mujeres que, sirviendo a la vida, se esfuerzan por construir la paz, para que testimonien a todos —especialmente a quienes viven en la oscuridad y en el sufrimiento— la presencia amorosa del Dios de la Paz.
+
+*Vaticano, 8 de diciembre de 1994.*
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H2 | María, modelo de paz |
 
-
 ## Secciones incluidas
-
-# María, modelo de paz
-
-[Contenido de esta sección...]
