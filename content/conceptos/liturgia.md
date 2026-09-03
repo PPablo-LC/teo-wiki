@@ -65,6 +65,18 @@ La *Institutio Generalis Missalis Romani* (edición típica revisada del año 20
 
 **Arquitectura litúrgica.** Las catedrales «fueron construidas con la intención específica de ser casas de Dios y elevar nuestra atención más allá del mundo material» (Mendenhall): arcos volados, escultura, velas parpaderantes, incienso producen quietud sagrada incluso en el visitante sin fe explícita.
 
+### Según EAC-16 — Word on Fire Institute
+
+**La liturgia como «Obra de Dios» (Bert Ghezzi / San Benito).** Ghezzi recuerda que la Regla de San Benito establece como principio supremo: «Que no se prefiera nada a la Obra de Dios», es decir, la Liturgia de las Horas [EAC-16, 04_lives.md]. Benedicto XVI describió la vida monástica como «una escuela del servicio del Señor», donde la oración como escucha se expresa en la acción litúrgica.
+
+**El hombre no puede «fabricar» el culto (Dan Seseske / Ratzinger).** En *El espíritu de la liturgia*, Ratzinger afirma: «El hombre mismo no puede simplemente 'fabricar' el culto. Si Dios no se revela, el hombre aferra el espacio vacío. Moisés dice a Faraón: "No sabemos con qué debemos servir al Señor" (Éx 10,26). Estas palabras revelan una ley fundamental de toda liturgia» [EAC-16, 07_spotlight_reader.md]. La liturgia implica «una relación real con Otro, que se revela a nosotros y da a nuestra existencia una nueva dirección». No puede nacer de la imaginación ni de la creatividad propia; sería solo «un grito en la oscuridad o mera autoafirmación».
+
+**La liturgia que dice «nosotros» (Roland Millare / Guardini).** Guardini enseñó que la liturgia «no dice 'yo', sino 'Nosotros'» [EAC-16, 08_minds.md]. La naturaleza comunitaria de la liturgia se opone a la autonomía individualista dentro de la adoración. La «subordinación del yo se facilita» dentro de la liturgia, donde el creyente individual es llamado a responder y participar en concierto con los demás miembros del Cuerpo de Cristo.
+
+**La belleza en la liturgia y la capacidad de símbolo (Guardini / Ratzinger).** Para comprender la naturaleza simbólica de la liturgia es crítica para captar la naturaleza simbólica del mundo. Ratzinger argumenta que el símbolo «es el epítome real de la unidad de espíritu y materia, la espiritualidad de la materia y la materialidad de lo espiritual» [EAC-16, 08_minds.md]. La unidad entre ambos es esencial para la liturgia y para que la persona humana comprenda su ser fundamental. Guardini preguntó si el hombre moderno es capaz del acto litúrgico; la respuesta es que es cada vez más difícil a menos que recuperemos el significado de los símbolos.
+
+**La inseparabilidad de liturgia y vida de oración.** Benedicto XVI, identificado como *homo liturgicus* — nacido y bautizado en la Vigilia Pascual, murió en la vigilia de María Madre de Dios —, encarna la inseparabilidad de teología, liturgia y espiritualidad [EAC-16, 07_spotlight_reader.md]. La lectio divina y la espiritualidad benedictina son el marco de referencia para su comprensión de la liturgia como revelación de Dios.
+
 ## Ver también
 
 [[sacramentos]], [[eucaristía]], [[oración_litúrgica]], [[iglesia_cuerpo_místico]], [[sacramentales]]
@@ -75,3 +87,4 @@ La *Institutio Generalis Missalis Romani* (edición típica revisada del año 20
 - [CEC §1135-1209]
 - [CEC §1667-1690]
 - [SC, Sacrosanctum Concilium]
+- [EAC-16, 04_lives.md, 07_spotlight_reader.md, 08_minds.md]

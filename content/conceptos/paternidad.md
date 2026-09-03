@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: "Paternidad"
 description: "Atributo divino revelado por Cristo (Dios Padre) y vocación humana que participa de la fecundidad creadora y educadora de Dios; se ejercita en el amor, la corrección compasiva y la presencia ordinaria."
 tags: ["teología", "dios_padre", "moral"]
-timestamp: 2026-08-29
+timestamp: 2026-09-02
 ---
 
 # Paternidad
 
 > Área: Teología / Moral
-> Última actualización: 2026-08-29
+> Última actualización: 2026-09-02
 
 ## Definición
 
@@ -33,6 +33,10 @@ La paternidad se vive en los ritos cotidianos: leer en voz alta con los hijos (*
 
 **Precedentes patrísticos (Elizabeth Scalia):** La paternidad humana se vive también en la oración perseverante por los hijos: San Nicolás de Myra, «patrono de los niños» y «defensor de la inocencia», es invocado por los padres para la protección de sus pequeños [EAC-12, 05].
 
+### Según EAC-17 — Word on Fire Institute
+
+**La paternidad humana como participación en la paternidad eterna (Reginald Floeder, 23_soul_floeder.md).** La paternidad auténtica no es una invención cultural ni un arquetipo sociológico, sino participación en la única paternidad de Dios: «solo hay un Padre: el Padre». Toda paternidad humana — y en sentido eminente la del sacerdote, que es «icono del Padre» en la persona de Cristo — comunica la vida recibida de Dios. La condición de la paternidad verdadera es ser primero hijo: «los que llegan a una celestial altura son los que primero aprenden a vivir como hijos», recibiendo del Padre el ser y la vida que han de transmitir. Este ordenación teocéntrica vacía la paternidad de toda pretensión autocéntrica y la constituye como don y misión.
+
 ## Distinciones importantes
 
 - **Paternidad divina vs. paternidad humana**: la divina es infalible y perfecta; la humana es participación limitada y falible
@@ -51,3 +55,4 @@ La paternidad se vive en los ritos cotidianos: leer en voz alta con los hijos (*
 
 - CEC 221–222, 239–240
 - EAC-12, 04, 05, 15, 16
+- EAC-17, Reginald Floeder. «The Soul of Man: Christian Fatherhood as Participation in the Eternal Fatherhood of God», in *Evangelization & Culture, Issue 17 — Education* (Autumn 2023), Word on Fire Institute.

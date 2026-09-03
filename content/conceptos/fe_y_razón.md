@@ -75,6 +75,26 @@ El Apéndice I (P. Manuel Carreira S.J.) desarrolla esta armonía en clave cient
 
 **La defensa racional de la compatibilidad de Dios con el sufrimiento (Christopher Kaczor y Eleonore Stump).** El sufrimiento es «la objeción más fuerte a la existencia de Dios», pero la filosofía sí progresa: a lo largo del siglo XX se abandonó la tesis de que cualquier sufrimiento demuestra la no existencia de Dios, y se mostró que «Dios existe» y «hay sufrimiento en el mundo» no son proposiciones necesariamente contradictorias [EAC-15, 16]. *Wandering in Darkness* de Stump «defiende» la tesis de que la existencia de Dios «no es incompatible con la realidad del sufrimiento» mediante la rigurosidad analítica «dominicana», complementada con el conocimiento narrativo «franciscano» (Job, Sansón, Abraham, María de Betania), mostrando que fe y razón cooperan en la «derrota» (defeat) del sufrimiento [EAC-15, 16].
 
+### Según EAC-16 — Word on Fire Institute
+
+**La inteligibilidad del mundo como argumento de Dios (Fr. Stephen Grunow).** La obra *Introduction to Christianity* de Ratzinger se distingue por su argumento sobre «la misteriosa realidad de la inteligibilidad del mundo» que es «simultáneamente lógico, místico y profundamente memorable» [EAC-16, 02_word_from_institute.md]. El mundo es inteligible — la razón puede comprender su estructura — y esto constituye un indicio de que existe una Razón eterna detrás de la creación.
+
+**El «experimento de la fe» (Matthew Ramage).** La verdad de la fe no se demuestra en un laboratorio científico, sino que se descubre en el laboratorio de la vida mediante lo que Ratzinger denomina el «experimento de la fe»: «Solo entrando se experimenta; solo cooperando en el experimento se pregunta; y solo el que recibe una respuesta» [EAC-16, 05_stacks.md]. Ratzinger recuerda que «no hay observador puro, no hay objetividad pura»: el que pretende juzgar la fe desde fuera sin comprometerse en ella se condena a no comprenderla. La analogía con las ciencias experimentales es deliberada: en un experimento físico, el observador mismo forma parte del experimento.
+
+**Jesucristo como Logos (Bishop Robert Barron).** El discurso de Ratisbona (2006) es la pieza clave: «La creencia cristiana de que Jesús es el Logos o Palabra construye efectivamente un puente entre el cristianismo y cualquier religión, filosofía o ciencia que trate con la verdad y haga afirmaciones 'lógicas'» [EAC-16, 01_from_the_desk.md]. Ratzinger defendió que ciertas verdades — morales, intelectuales y estéticas — pueden ser conocidas, y que ese conocimiento «sirve de hecho para unir a los pueblos a través de las divisiones religiosas y culturales».
+
+**Fe y razón frente al secularismo (Matthew Ramage).** En *Introduction to Christianity*, Ratzinger pasó su carrera entera trabajando para mostrar cómo la fe y la razón «se refuerzan mutuamente»: la tarea de la razón es «asegurar una recepción responsable de la fe —ayudar en el proceso de hacer que lo recibido sea cada vez más nuestro entregándonos a la verdad» [EAC-16, 05_stacks.md]. El cristianismo no es ideología ni filosofía, sino «relación con una persona, con el Jesús vivo» [EAC-16, 01_from_the_desk.md]; sin embargo, esta relación no prescinde de la razón, sino que la asume y eleva.
+
+**El rescate de la verdad (Dr. Tracey Rowland).** Rowland sitúa la defensa de la verdad en el contexto más amplio del legado intelectual de Ratzinger. La «cuarteta alemana» (Lutero, Kant, Marx, Nietzsche) provocó males modernos que incluyen la «separación de la filosofía de la teología y la subordinación de la verdad a la práctica» [EAC-16, 15_feature_rowland.md]. Ratzinger rescató la verdad —frente al marxismo— y la bondad —frente al nihilismo nietzscheano— como legado perdurable. La fe y la razón, la naturaleza y la gracia, la historia y la ontología, la Escritura y la Tradición, la Iglesia y el mundo constituyen los «pareados de la verdad» que articulan toda su teología.
+
+### Según EAC-17 — Word on Fire Institute
+
+**Santo Tomás y san Alberto, hijos de la armonía fe-razón (Gregory B. Petrusek, 05_lives.md).** La síntesis medieval de fe y razón tiene su parábola en la vida de [[san_alberto_magno]] y su discípulo [[santo_tomás_de_aquino]]. Alberto, «patrón de los científicos», unió en su vida la piedad y el laboratorio, demostrando que la ciencia y la fe no compiten sino que cooperan. En la era moderna, marcada por la escisión entre la ciencia y la fe, este binomio recuerda que el mundo natural es inteligible precisamente porque es creación del Dios razonable ([[logos]]): toda verdad que la razón descubre — física o metafísica — remite a la Verdad primera.
+
+**Fe y razón ante el secularismo moderno (Matthew Minnis, 19_special_feature_minnis.md).** La educación ha perdido el vínculo entre la libertad y la verdad que la tradición ([[john_henry_newman]]) había establecido. La universidad moderna, «desechando los atributos del cristianismo», sacrificó la fe en beneficio de la razón y, a la larga, también la razón misma: sin referencia a la verdad trascendente, la libertad se vuelve autodeterminación y la razón puro instrumento técnico. Solo el redescubrimiento de la armonía fe-razón devuelve a la educación su fin y su unidad.
+
+**La unidad del saber como preparación del diálogo fe-razón (Andrew Youngblood, 20_spotlight_youngblood.md).** La educación clásica católica forma «hombres y mujeres de mentalidad teológica», munidos de una cosmovisión metafísica en la que todo saber se integra «a la luz de la unidad de la verdad». Esta formación prepara para dar razón de la fe y para el encuentro con quienes han basado su ateísmo en la supuesta quiebra entre fe y razón.
+
 ## Distinciones importantes
 
 - **Preámbulos de la fe**: verdades racionales que preparan para la fe (existencia de Dios, inmortalidad del alma).
@@ -107,3 +127,5 @@ La relación entre fe y razón es fundamental para la [[teología_fundamental]],
 - [CEC §36-38]
 - [TPCr, Introducción General]
 - [EAC-15, 03, 14, 16, 21]
+- [EAC-16, 01_from_the_desk.md, 02_word_from_institute.md, 05_stacks.md, 15_feature_rowland.md]
+- EAC-17, *Evangelization & Culture, Issue 17 — Education* (Autumn 2023), Word on Fire Institute (Petrusek, 05_lives.md; Minnis, 19_special_feature_minnis.md; Youngblood, 20_spotlight_youngblood.md)

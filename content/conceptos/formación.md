@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Formación
 tags: ["doctrina_social"]
 
-timestamp: 2026-05-25
+timestamp: 2026-09-02
 description: "Proceso de educación integral de la persona, especialmente de los fieles laicos, para capacitarlos en el compromiso social y político según las enseñanzas de la doctrina social de la Iglesia."
 ---
 # Formación
 
 > Área: Doctrina Social
-> Última actualización: 2026-05-25
+> Última actualización: 2026-09-02
 
 ## Definición
 
@@ -42,6 +42,11 @@ El V Capítulo General ordinario de los Legionarios de Cristo (2026) evalúa la 
 
 [CapGral-2026, n. 104-118]
 
+### Según EAC-17 — Word on Fire Institute
+
+**La formación del deseo y la virtud (D.C. Schindler, 14_feature_schindler.md).** La formación verdadera es formación del deseo: educar la disposición interior de la persona a la verdadera, la bondad y la belleza, ordenando el asombro y el eros hacia Dios. El olvido y el extravío del deseo —el «error» del alma que se aparta de su fin— son el principio de la deformación. Frente al aprendizaje meramente técnico o mecánico, la formación cristiana cultiva la disposición contemplativa y las virtudes que hacen al hombre plenamente humano.
+
+**La metamorfosis intelectual (Andrew Youngblood, 20_spotlight_youngblood.md).** El objetivo de la formación clásica católica es la *metamorphosis intellectualis*: la transformación de la mente por la cual uno «se vuelve más plenamente humano» y capaz de pensamiento teológico, integrando el saber en una cosmovisión unificada por la verdad y orientada a Dios.
 
 ## Relaciones doctrinales
 
@@ -63,3 +68,4 @@ Se relaciona con [[doctrina_social_de_la_iglesia]], [[apostolado_seglar]], [[com
 - [CompDS §528-533]
 - [CompDS §549]
 - [CIC cc. 232-264, 279]
+- EAC-17, *Evangelization & Culture, Issue 17 — Education* (Autumn 2023), Word on Fire Institute (Schindler, 14_feature_schindler.md; Youngblood, 20_spotlight_youngblood.md)

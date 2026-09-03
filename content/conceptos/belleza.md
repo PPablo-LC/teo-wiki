@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Belleza
 tags: ["dogmática_(dios)", "teología_de_la_cultura"]
 
-timestamp: 2026-08-29
+timestamp: 2026-09-02
 description: "La belleza es un atributo divino y, por participación, una propiedad del ser creado."
 ---
 # Belleza
 
 > Área: Dogmática (Dios) / Teología de la Cultura
-> Última actualización: 2026-08-29
+> Última actualización: 2026-09-02
 
 ## Definición
 
@@ -71,6 +71,12 @@ El encuentro final tiene explícito simbolismo mariano: el desconsolado Colin, a
 
 **La niña sin vista y la belleza invisible para el mundo (Carolyn Svellinger).** En su testimonio sobre el autismo y la hipoplasia del nervio óptico de su hijo Emmett, Carolyn Svellinger reconoce que su vida «ya está rebosante de belleza»: «la belleza que el mundo no puede ver a causa de las escamas en sus ojos, que también habían cubierto los míos». El «ideal de vida plena y hermosa» que había imaginado —anclado en arena— queda superado por la belleza invisible que solo ven los ojos del alma: la dignidad real de cada hijo como imagen de Dios («son realeza coronada para heredar mi Reino»), 1 Cor 12,31 («procurad los carismas más grandes... un camino todavía más excelente») y la paz de Jn 14,27, «no como el mundo la da». La belleza cristiana no se mide por las escalas del mundo [EAC-12, 17].
 
+### Según EAC-17 — Word on Fire Institute
+
+**La belleza objetiva como trascendental (Todd Flanders, 12_architecture.md).** Flanders parte de la pregunta «¿es real la belleza?»: ¿es un valor objetivo, un atributo trascendental del Ser mismo, cognoscible a través de tiempos y culturas, o es meramente subjetiva, una opinión que varía con el ojo y el medio de cada espectador? La fe católica afirma la primera respuesta. El Catecismo enseña que la belleza, junto con la verdad y la bondad, «refleja la perfección infinita de Dios» [CEC 41]; las personas son creadas capaces de percibir ese reflejo. La belleza se relaciona con las simetrías, las armonías, las relaciones de las partes con el todo, el orden de las cosas.
+
+**El papel de la arquitectura educativa.** Si la belleza es objetiva, entonces la escuela tiene el papel de presentar e inculcar sensibilidades artísticas acordes con una realidad que eleva; si fuera subjetiva, la escuela solo podría ofrecer espacios neutros. Flanders defiende que «en este caso la forma no sigue a la función —contra la máxima de gran parte de la arquitectura del siglo XX—; la función sigue a, y está conformada por, la forma. Una escuela bella se convierte en una escuela de la belleza». Los niños son creados por Dios para compartir una naturaleza humana común que busca las cosas que reflejan las perfecciones infinitas de Dios: «se deleitan en el asombro, en el canto, en la oración, en la danza, en las cosas bellas». Contra el *Abolition of Man* de [[c_s_lewis]] —que denunció la sustitución de los valores objetivos (como la belleza) por sentimentos subjetivos, donde la educación nueva «condiciona» en vez de «inicia»—, la belleza objetiva educa: los niños, elevados, pueden ver su mundo «cargado con la grandeza de Dios».
+
 ## Relaciones doctrinales
 
 La belleza se relaciona con el [[arte_sacro]], con [[dios]] como fuente de toda belleza, con la [[gloria]] divina, y con la [[cultura]] como expresión de la creatividad humana elevada por la gracia.
@@ -87,3 +93,4 @@ La belleza se relaciona con el [[arte_sacro]], con [[dios]] como fuente de toda 
 
 - CEC §41, §2500-2501, §2513
 - [EAC-1, Issue 1 «Creativity»: archivos 01, 04, 22]
+- EAC-17, *Evangelization & Culture, Issue 17 — Education* (Autumn 2023), Word on Fire Institute (Flanders, 12_architecture.md)

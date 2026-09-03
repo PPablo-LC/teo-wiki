@@ -72,6 +72,16 @@ Barron es el autor de la carta editorial («From the Desk») y del ensayo princi
 
 ***The Holy Quest* (problema del sufrimiento).** Nace de un encuentro real: un abuelo con dos nietas terminales y que quedarían ciegas preguntaba «por qué Dios hace esto». Barron sostiene que la teología y la espiritualidad no se dividen (Agustín, Aquino, Buenaventura, Teresa de Ávila, Newman, Dorothy Day) y que predicar el problema exige pensar con claridad. Recorre la «vía negativa»: no negar «la divinidad de Dios» (Barth) —las negaciones de la omnipotencia de Kushner, el maniqueísmo o *Star Wars* disuelven el dilema a costa de la divinidad—; Dios es Creador *ex nihilo*, no un ser entre muchos, y sustenta y gobierna el cosmos (Sb 8,1; Is 45,7). Con Agustín y Aquino, el [[mal]] es *privatio boni*: «no tanto una cosa como una carencia o privación de un bien que debería estar presente»; Dios no causa el mal, lo «permite» para un bien mayor, con la defensa del libre albedrío y del «proceso libre» (Polkinghorne). Pero el «solución» última es el misterio: «lo que precisamente el Dios todo bueno pretende cuando permite el mal en su cosmos permanece un misterio, y la 'solución' más profunda está en la entrega a ese misterio». El [[libro_de_job]] es la reflexión bíblica más honda: la respuesta de Dios desde el torbellino (Behemot y Leviatán) no humilla a Job sino que ensancha su mente ante el misterio de la providencia. Cierra con imágenes: Dios como [[arte_sacro|artista]] (la creación como «obra en curso», el puntillismo de Seurat), el perro en la biblioteca (William James), y la cirugía del niño que confía en el padre: «¿no miramos nosotros, como ese niño, a nuestro Padre Dios, cuando sufrimos, con una mezcla de perplejidad e ira?» La perseverancia del abuelo fue «señal de que, incluso en la oscuridad, la gracia operaba en él» [09_spotlight_barron].
 
+### Según EAC-17 — Word on Fire Institute
+
+Barron es el autor de la carta editorial del número dedicado a la educación («From the Desk», 02_from_the_desk.md), donde expone su visión de la educación liberal.
+
+**Educación liberal.** Tras su larga inmersión en instituciones educativas eclesiásticas, Barron afirma que «en su mejor momento, la educación nos abre a lo que eleva el alma y, en definitiva, nos muestra que todo lo que estudiamos está relacionado con Dios». Invocando a [[john_henry_newman]] (*Idea of a University*), el propósito de la educación universitaria es cultivar la mente «liberal», la mente libre (*liber*), libre precisamente de la utilidad. Religión, filosofía, historia, literatura y arte son las disciplinas más altas porque no están subordinadas a nada externo: existen por su propio valor intrínseco, a diferencia de las artes y ciencias prácticas.
+
+**Jerarquía de disciplinas y Dios como bien supremo.** Entre las artes liberales mismas hay una jerarquía, pues todas reflejan y sirven finalmente al bien supremo, que es Dios. «La disciplina más inútil y, por tanto, más alta de todas es la que habla de la fuente del sentido, la que trata de Dios.»
+
+**Crisis por la desaparición de las artes liberales.** Barron cree que hay una correlación entre la desaparición de las artes liberales y el aumento demostrable de ansiedad, depresión y pensamientos suicidas, especialmente entre los jóvenes: «Cuando apartamos las disciplinas que tratan del sentido, ¿nos sorprendemos de que la gente encuentre la vida cada vez menos significativa?».
+
 ## Ver también
 
 [[evangelización]], [[nueva_evangelización]], [[evangelización_digital]], [[Word_on_Fire_Institute]]
@@ -83,5 +93,6 @@ Barron es el autor de la carta editorial («From the Desk») y del ensayo princi
 - WoF-1, 01_welcome_letter.md
 - WoF-2, 01_from_the_desk.md
 - EAC-13, 01_from_the_desk.md y 18_spotlight_barron.md
+- EAC-17, 02_from_the_desk.md (carta editorial sobre educación)
 - Barron, Robert. *Eucharist* (Word on Fire Institute, 2021).
 - Word on Fire website

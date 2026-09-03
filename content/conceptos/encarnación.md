@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Encarnación
 tags: ["cristología"]
 
-timestamp: 2026-08-24
+timestamp: 2026-09-02
 description: "La Encarnación es el misterio de la admirable unión de la naturaleza divina y de la naturaleza humana en la única Persona del Verbo (CEC §483)."
 ---
 # Encarnación
 
 > Área: Cristología
-> Última actualización: 2026-08-24
+> Última actualización: 2026-09-02
 
 ## Definición
 
@@ -169,6 +169,14 @@ En D-429, el mismo concilio confiesa el misterio de la Encarnación: Jesucristo 
 
 Robert Mixa, reseñando *On the Internet* de Hubert Dreyfus, muestra que la crítica fenomenológica a Internet es en el fondo una defensa del principio encarnacional. La red lleva implícita una ontología cartesiana: «un yo desencarnado, sin compromiso y descomprometido (*res cogitans*) en un mundo intrínsecamente carente de sentido (*res extensa*)». Frente a ella, Merleau-Ponty recuerda que «el cuerpo es nuestro medio general de tener un mundo»: los límites corporales, tan a menudo lamentados, deben ser abrazados, porque son los que hacen posible la comunión que todos buscamos. Todo lo humano decisivo es encarnado: en la educación, «es difícil dominar una disciplina sin alguna forma de discipulado encarnado —observar las respuestas cotidianas e imitar el estilo de un maestro—»; en el afecto, «un abrazo virtual no es lo mismo que un abrazo real»; en la vida cristiana, el evento focal por antonomasia es la Eucaristía, donde Jesús «se ofrece como presencia encarnada en el mundo dándonos un anticipo del escaton (es decir, la plena comunión con Dios)». De ahí el criterio teológico final: la red debe evaluarse según si conduce o no a una «vida eucarística»; «el mundo virtual debería ser un recordatorio del mundo real, que solo puede ser encontrado dejando el dispositivo y entrando corporalmente en el Misterio».
 
+### Según EAC-17 — Word on Fire Institute
+
+**El Logos encarnado y la bondad de la creación (Christopher Baglow, 11_science.md).** Desde Ratzinger, la creación toda es «en y mediante la Razón», el *Logos* que «es también el Hijo de Dios que se encarnó en Jesucristo». La Encarnación es, así, la confirmación última de que el universo físico es creado, ordenado y bueno — hecho «un espacio apto para la bondad humana». El cosmos no es solo origen («vieja creación») sino camino hacia la «nueva creación» encarnada, eclesial y cósmica que Cristo inaugura con su cuerpo resucitado.
+
+**El intercambio inaudito en la cruz (Julia Hejduk, 17_feature_hejduk.md).** Como los Padres, Hejduk subraya el «intercambio inaudito» de la Encarnación: «Dios entró en la carne», asumiendo lo creado para elevarlo. La cruz, «la obra maestra consumada del drama de la redención», vence «incluso al mal más atroz». La Encarnación y la Redención son la raíz de la catolicidad: el cristiano está llamado a reconciliar todo —los clásicos, la sexualidad, la cultura— con Dios mediante esta lógica encarnacional.
+
+**La Encarnación y la unidad de la verdad (Andrew Youngblood, 20_spotlight_youngblood.md).** Toda la realidad, porque fue creada en Cristo y tiende a Él, comparte la unidad de la verdad, la bondad y la belleza. La educación clásica católica se apoya en este principio encarnacional: aprender a pensar con la mente de Cristo, que se encarnó para asumir y elevar todo lo humano, es el núcleo de la *metamorphosis intellectualis* cristiana.
+
 ## Distinciones importantes
 
 - **Unión hipostática**: unión de las dos naturalezas (divina y humana) en una sola Persona (la del Verbo).
@@ -201,3 +209,4 @@ La Encarnación es el fundamento de la [[redención]], la causa de la [[gracia_s
 - [EAC-8, Issue 8 «Humor», archivos 02, 13, 15]
 - [EAC-1, Issue 1 «Creativity»: archivos 15, 19]
 - [EAC-3, Issue 3 «The Digital Age», archivo 07 (Mixa); Dreyfus, *On the Internet*]
+- EAC-17, *Evangelization & Culture, Issue 17 — Education* (Autumn 2023), Word on Fire Institute (Baglow, 11_science.md; Hejduk, 17_feature_hejduk.md; Youngblood, 20_spotlight_youngblood.md)

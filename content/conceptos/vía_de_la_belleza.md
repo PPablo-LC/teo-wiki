@@ -2,7 +2,7 @@
 type: Concepto Teológico
 title: Vía de la belleza
 description: "Camino de acceso a Dios a través de la contemplación de la belleza, especialmente de la belleza artística, como expresión de la verdad divina."
-timestamp: 2026-08-31
+timestamp: 2026-09-02
 tags:
   - belleza
   - arte
@@ -13,7 +13,7 @@ tags:
 # Vía de la belleza
 
 > Área: Filosofía / Estética / Evangelización
-> Última actualización: 2026-08-31
+> Última actualización: 2026-09-02
 
 ## Definición
 
@@ -78,6 +78,28 @@ Los correlatos del número 14 ilustran la vía de la belleza como instrumento ev
 
 [EAC-14, 09_spotlight_stewart.md, 07_poetry_pied_beauty.md, 19_spotlight_barron.md, 12_art.md]
 
+### Según Evangelization & Culture n.º 16 «Pope Benedict XVI» (EAC-16)
+
+**El arte como camino hacia la trascendencia.** En el discurso a los artistas en la Capilla Sixtina (21 de noviembre de 2009), Benedicto XVI presentó la vía de la belleza (*via pulchritudinis*) como «un camino de belleza que es a la vez un viaje artístico y estético, un viaje de fe, una investigación teológica» [EAC-16, 10_art.md]. La belleza, «ya sea la del universo natural o la expresada en el arte, precisamente porque abre y amplía los horizontes de la conciencia humana, apuntando más allá de nosotros mismos, trayéndonos frente a cara con el abismo de lo Infinito, puede convertirse en un camino hacia lo trascendente, hacia el Misterio último, hacia Dios».
+
+**Los artistas como «custodios de la belleza» (Pablo VI / Benedicto XVI).** Pablo VI proclamó: «Este mundo en el que vivimos necesita belleza para no hundirse en la desesperación… Recordad que sois los custodios de la belleza en el mundo» [EAC-16, 10_art.md]. Benedicto XVI retomó este legado: «Sois los custodios de la belleza: gracias a vuestro talento, tenéis la oportunidad de hablar al corazón de la humanidad». La belleza «despierta» al hombre —el «shock» platónico—, lo arranca de la resignación y lo abre al sentido; «lo reaviva», «abre de nuevo los ojos de su corazón y su mente, dándole alas, llevándolo en alto».
+
+**La belleza auténtica frente a la belleza ilusoria.** Benedicto XVI distinguió con precisión entre la belleza auténtica y la que es «ilusoria y engañosa, superficial y cegadora»: esta última «aprisiona dentro de uno mismo y esclaviza aún más, privando de esperanza y gozo» [EAC-16, 10_art.md]. La belleza auténtica, en cambio, «desbloquea el anhelo del corazón humano, el profundo deseo de conocer, de amar, de ir hacia el Otro, de alcanzar lo de más allá». La belleza es «clave del misterio y llamada a la trascendencia» (Juan Pablo II, *Carta a los artistas* n. 16).
+
+**Hans Urs von Balthasar y la teología estética.** Benedicto XVI citó el inicio de *La gloria del Señor*: «La belleza es la palabra con la que comenzaremos. La belleza es la última palabra que el intelecto pensante se atreve a pronunciar» [EAC-16, 10_art.md]. La belleza, «la desinteresada, sin la cual el mundo antiguo se negó a comprenderse a sí mismo», ha abandonado el mundo moderno, dejándolo «a su propia avaricia y tristeza»: «podemos estar seguros de que quien se burla de su nombre… ya no puede rezar y pronto no podrá amar».
+
+**La belleza como puente entre fe y arte.** El discurso subraya que «la fe no quita nada a vuestro genio ni a vuestro arte: por el contrario, lo exalta y lo nutre» [EAC-16, 10_art.md]. La belleza conduce «del fragmento al Todo, de lo finito al Infinito, de Dios en la historia de la humanidad». Simone Weil atestigua: «En todo lo que despierta en nosotros el sentimiento puro y auténtico de belleza, allí, verdaderamente, está la presencia de Dios… La belleza es la prueba experimental de que la encarnación es posible».
+
+### Según EAC-17 — Word on Fire Institute
+
+**La escuela bella se vuelve escuela de la belleza (Todd Flanders, 12_architecture.md).** La belleza objetiva, como atributo trascendental del ser, es un medio educativo: «una escuela bella se convierte en una escuela de la belleza». El edificio escolar que refleja armonías, simetrías y el orden de las cosas eleva la mirada de los niños «a las cosas del cielo»; su arquitectura, con el sagrario en el centro, los orienta hacia lo trascendente. Contra la educación moderna que «condiciona» (Lewis), la vía de la belleza «inicia»: los niños, criados para compartir una naturaleza humana común, «se deleitan en el asombro, en el canto, en la oración, en la danza» y, contemplando la belleza, pueden ver su mundo «cargado con la grandeza de Dios» y descubrir una vocación a hacerlo «más verdadero, mejor y más bello».
+
+**La belleza de la santidad (Julia Hejduk, 17_feature_hejduk.md).** Tras presentar la catolicidad como encarnacional, intertextual y nupcial, Hejduk afirma que «la Nueva Evangelización enfatiza acertadamente poner nuestra confianza en la belleza de la santidad —y en la santidad de la belleza». Los clásicos y la redención del eros muestran cómo la belleza conduce a Dios: incluso el amor desordenado es un espejo del anhelo divino, y «cada pecado capital es la distorsión de un anhelo divino» que la belleza puede reordenar.
+
+**La vía de la belleza y la cosmovisión metafísica (Andrew Youngblood, 20_spotlight_youngblood.md).** La educación clásica católica inmerge a los estudiantes en la unidad de la verdad y los transforma mediante una cosmovisión metafísica: toda la realidad comparte la verdad, la bondad y la belleza —los [[trascendentales]]—. Esta formación orienta a lo que es «verdadero, bueno y bello» y, en último término, a «verse a sí mismos como hijos de Dios, incondicionalmente amados por el Padre».
+
+**La *via pulchritudinis* en el hogar (Kathleen Vogt, 22_mission_vogt.md).** La familia Vogt usa la vía de la belleza en la educación en casa (homeschooling): «Atraemos también a nuestros hijos a las cosas celestiales mediante lo bello, la *via pulchritudinis* (el camino de la belleza) que defiende el obispo Barron». Sus hijos contemplan y comentan obras de arte hermosas, escuchan música bella y leen y memorizan poemas hermosos.
+
 ## Distinciones importantes
 
 - **Vía de la belleza vs. esteticismo:** No se trata de buscar la belleza como fin en sí mismo, sino como camino hacia Dios. La belleza no es autónoma, sino que remite al Creador.
@@ -115,3 +137,5 @@ Los correlatos del número 14 ilustran la vía de la belleza como instrumento ev
 - Agustín de Hipona. *Confesiones* X, 27.38.
 - [EAC-1, Issue 1 «Creativity»: archivos 01, 04, 05]
 - [EAC-14, archivos 07, 09, 12, 19]
+- [EAC-16, 10_art.md]
+- EAC-17, *Evangelization & Culture, Issue 17 — Education* (Autumn 2023), Word on Fire Institute (Flanders, 12_architecture.md; Hejduk, 17_feature_hejduk.md; Youngblood, 20_spotlight_youngblood.md; Vogt, 22_mission_vogt.md)

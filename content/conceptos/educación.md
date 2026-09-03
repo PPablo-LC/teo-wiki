@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Educación
 tags: ["doctrina_social", "moral"]
 
-timestamp: 2026-06-28
+timestamp: 2026-09-02
 description: "Proceso de formación integral de la persona humana que desarrolla armónicamente sus dotes físicas, morales e intelectuales, capacitándola para conocer la verdad."
 ---
 # Educación
 
 > Área: Doctrina Social / Moral
-> Última actualización: 2026-06-28
+> Última actualización: 2026-09-02
 
 ## Definición
 
@@ -65,6 +65,16 @@ El designio de Dios se realiza en el tiempo como una educación: Israel vivió b
 
 Tóth enseña que la [[educación]] religiosa no puede ser meramente intelectualista, sino que debe formar la voluntad y los sentimientos junto con la razón. La [[moral]] católica se fundamenta en [[dios]] como base y centro de toda educación eficaz. Señala tres errores a evitar: el intelectualismo exagerado, el voluntarismo y el sentimentalismo. La [[gracia]] divina coopera con la libertad humana, y [[jesucristo]] es el punto central de la pedagogía religiosa. La educación integral requiere atender las tres dimensiones del alma racional [JvC-Rel, Archivos 02-04].
 
+### Según EAC-17 — Word on Fire Institute
+
+**La jerarquía de las disciplinas (Robert Barron, 02_from_the_desk.md).** La crisis educativa contemporánea procede de la desaparición de las artes liberales, el trivium y el quadrivium, que ordenaban las disciplinas en una jerarquía en cuya cima estaba lo divino y lo metafísico. Hoy la universidad, al proclamar la «muerte de lo alto», ha quedado sin centro y sin dirección espiritual. Barron advierte contra la confusión moderno-utilitarista: el arte, el orden y la política no son meros hechos o reacciones decorativas, sino participación en la realidad. La excelencia de una disciplina se mide por su cercanía al Ser y a Dios, no por su utilidad inmediata.
+
+**La educación clásica como cosmovisión metafísica (Andrew Youngblood, 20_spotlight_youngblood.md).** La crisis educativa es de cosmovisión: «la educación clásica católica es radicalmente distinta: comienza en la infancia con la unidad de la verdad y transforma a los estudiantes mediante la inmersión en una cosmovisión metafísica». El alumno aprende todas las disciplinas —lenguaje, historia, matemáticas, ciencias— «a la luz de la unidad de la verdad», orientando la vida a lo verdaderamente valioso y a «verse a sí mismos como hijos de Dios, incondicionalmente amados por el Padre».
+
+**La fascinación y la pedagogía del deseo (D.C. Schindler, 14_feature_schindler.md).** La educación auténtica cultiva la fascinación y el deseo, moviendo al estudiante del asombro inicial hacia la inteligencia teológica. La verdadera vida intelectual exige sobreponerse al olvido y al extravío del deseo: el maestro debe hacer presente la belleza de la verdad para despertar la búsqueda (fasis→filosofía) y ordenar el asombro hacia Dios.
+
+**Libertad ordenada y fin (Matthew Minnis, 19_special_feature_minnis.md).** La educación en la era moderna se ha desvinculado de su fin: la libertad se ha confundido con la elección autodeterminada (fin propio del sujeto) y se ha desvinculado de la naturaleza y de la verdad. La educación cristiana sitúa el fin en la libertad ordenada a Dios, no en el capricho del individuo.
+
 ## Relaciones doctrinales
 
 Se relaciona con [[educación_católica]], [[cultura]], [[familia]], [[escuela_católica]], [[formación]], [[verdad]]
@@ -76,3 +86,4 @@ Se relaciona con [[educación_católica]], [[cultura]], [[familia]], [[escuela_c
 ## Referencias
 
 - ConcVatII, GS §31, §60-62, §75
+- EAC-17, *Evangelization & Culture, Issue 17 — Education* (Autumn 2023), Word on Fire Institute (Barron, 02_from_the_desk.md; Youngblood, 20_spotlight_youngblood.md; Schindler, 14_feature_schindler.md; Minnis, 19_special_feature_minnis.md)

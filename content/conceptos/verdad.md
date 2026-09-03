@@ -103,6 +103,16 @@ En *Jesús de Nazaret III*, Benedicto XVI aborda la verdad desde la pregunta de 
 
 **La verdad en el Prólogo de Juan.** En la interpretación del Prólogo joánico, Benedicto XVI conecta la verdad con el Logos: «En el principio ya existía la Palabra, y la Palabra estaba junto a Dios, y la Palabra era Dios» (Jn 1,1). El origen de Jesús es el «principio» mismo, la causa primera de la que todo proviene. Jesús es la verdad porque viene de Dios y es Dios; su venida al mundo inaugura «un nuevo modo de ser hombres» (Jn 1,12-13).
 
+### Según EAC-16 — Word on Fire Institute
+
+**El rescate de la verdad frente al marxismo y el relativismo (Dr. Tracey Rowland).** Rowland sitúa la defensa de la verdad como uno de los dos grandes legados intelectuales de Ratzinger: mientras Marx revolucionó la comprensión de la verdad («la verdad se convirtió en algo que los humanos construyen para sus propios fines políticos»), Ratzinger rescató la verdad como valor objetivo frente al pragmatismo marxista [EAC-16, 15_feature_rowland.md]. «Lo que hace que Ratzinger/Benedict sea un héroe católico es su profundo conocimiento de los movimientos destructivos de esta cuarteta y su igualmente profundo conocimiento de la tradición intelectual católica como antídoto contra这些 ideological toxins».
+
+**Los «pareados de la verdad» (Dr. Tracey Rowland).** Rowland enumera los «pareados de la verdad» como clave para entender el legado intelectual de Benedicto XVI: verdad y conciencia, verdad y razón, verdad y libertad, verdad y amor, verdad y tolerancia, verdad y democracia, verdad y marxismo, verdad y ideología, verdad y pragmatismo [EAC-16, 15_feature_rowland.md]. Estos pareados articulan la respuesta católica a las crisis de la modernidad.
+
+**La verdad y la conciencia según Newman (Rowland / Ratzinger).** Ratzinger defendió la comprensión de la conciencia de San Juan Henry Newman frente a las múltiples variantes de conciencia que surgieron tras el Concilio. Para Newman, «el término medio que establece la conexión entre la autoridad y la subjetividad es la verdad» [EAC-16, 15_feature_rowland.md]. Ratzinger advirtió que si el juicio de conciencia fuese siempre infalible, «significaría que no hay verdad —al menos no en asuntos morales y religiosos, que constituyen los pilares mismos de nuestra existencia».
+
+**La verdad como fundamento de la unidad de los pueblos (Bishop Robert Barron).** Ratzinger afirmó, «en línea con la gran tradición católica, que ciertas verdades — morales, intelectuales y estéticas — pueden ser conocidas y que este conocimiento sirve de hecho para unir a los pueblos a través de las divisiones religiosas y culturales» [EAC-16, 01_from_the_desk.md]. La verdad no divide sino que une.
+
 ## Relaciones doctrinales
 
 Se relaciona con [[libertad_humana]], [[justicia]], [[caridad]], [[conciencia_moral]], [[ley_natural]]
@@ -136,3 +146,4 @@ Decir siempre la verdad es «otro medio estupendo para ser hombre de carácter, 
 - SmTh Iª q.16 (La verdad)
 - [Juan XXIII, Pacem in Terris]
 - [EjEsp2026, cap. 5: «El esplendor de la Verdad»]
+- [EAC-16, 15_feature_rowland.md, 01_from_the_desk.md]

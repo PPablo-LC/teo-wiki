@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Administración de la creación
 tags: ["doctrina_social", "dogmática"]
 
-timestamp: 2026-05-25
+timestamp: 2026-09-02
 description: "Responsabilidad del hombre, conferida por Dios, de custodiar y cultivar la creación como don del Creador, reconociendo su fisonomía propia y su destino anterior dados por Dios."
 ---
 # Administración de la creación
 
 > Área: Doctrina Social / Dogmática
-> Última actualización: 2026-05-25
+> Última actualización: 2026-09-02
 
 ## Definición
 
@@ -29,6 +29,10 @@ El hombre no debe «disponer arbitrariamente de la tierra, sometiéndola sin res
 
 Si el hombre interviene sobre la naturaleza sin abusar de ella ni dañarla, se puede decir que «interviene no para modificar la naturaleza, sino para ayudarla a desarrollarse en su línea, la de la creación, la querida por Dios» [CompDS §460]. Es Dios mismo quien ofrece al hombre el honor de cooperar con todas las fuerzas de su inteligencia en la obra de la creación [CompDS §460].
 
+### Según EAC-17 — Word on Fire Institute
+
+**La custodia de la creación como ética de la vida (Christopher Barnard, 24_peripheries_barnard.md).** El mandato de Génesis 1,26 ordena ejercer custodia exclusiva sobre la creación. Barnard aclara que «ejercer dominio» sobre la creación no es una licencia para la explotación, sino un mandato de cuidar: el hombre administra la creación conforme al carácter de Dios, que «creó el mundo y le dio al hombre una responsabilidad única». La ética cristiana de la creación integra tres «mandatos»: crecer en santidad, administrar la creación de forma armoniosa («sed fecundos») y trabajar para la gloria de Dios. El Nuevo Testamento muestra la reconciliación de Dios con la naturaleza (Col 1,19-20). La administración de la creación incluye proteger al más vulnerable, pues íntimamente ligada a la [[cultura_de_la_vida]]: «debemos proteger el medio ambiente para proteger la vida y permitir que la humanidad florezca» (cf. Juan Pablo II, *Evangelium Vitae* 42; Francisco, *Laudato Si'*).
+
 ## Relaciones doctrinales
 
 Se relaciona con [[creación]], [[medio_ambiente]], [[ecología]], [[destino_universal_de_los_bienes]], [[desarrollo_sostenible]], [[hombre]]
@@ -41,3 +45,4 @@ Se relaciona con [[creación]], [[medio_ambiente]], [[ecología]], [[destino_uni
 
 - [CompDS §456-460]
 - [CompDS §473]
+- EAC-17, Christopher Barnard. «Creation Care and the Environment», in *Evangelization & Culture, Issue 17 — Education* (Autumn 2023), Word on Fire Institute.

@@ -33,6 +33,17 @@ El CEC cita la *Regla de San Benito* al hablar de la oración litúrgica: «Lema
 ### Según Royo Marín (TPCr)
 Mencionado en el Índice Onomástico (n.6, 467, 502). Su doctrina sobre los grados de humildad es recogida por Santo Tomás en la *Suma Teológica*.
 
+### Según Evangelization & Culture n.º 16 «Pope Benedict XVI» (EAC-16)
+
+En el número dedicado a Benedicto XVI (verano de 2023), Bert Ghezzi presenta a San Benito como **patrono y origen del nombre papal**, evocando la memoria y la defensa de la tradición monástica benedictina en el pontificado:
+
+- **La Regla y la «Obra de Dios»**: la Regla caracteriza la vida monástica como «escuela del servicio del Señor» y aconseja «que nada se prefiera a la Obra de Dios» — la [[liturgia_de_las_horas]] —; «preferir nada al amor de Cristo». El abad ocupa el lugar de Cristo, enseñando «más con el ejemplo que con la palabra» [EAC-16, 04].
+- **La oración como escucha**: la vida monástica benedictina es «una escuela del servicio del Señor» donde la [[oración]] es escucha que se expresa en acción; el *theo-drama* frente al *ego-drama* (vivir la vida como participación en la historia de Dios frente al teatro del propio yo) [EAC-16, 04].
+- **Fuerza cultural de Europa**: el monacato benedictino como infraestructura cultural de Europa y agente de la cristianización (con San Bonifacio); Montecasino «debe dar visibilidad a la fe como fuerza de vida» (Benedicto XVI) [EAC-16, 04, 06].
+- **Humildad y fidelidad**: la [[humildad]], la obediencia y el combate contra la tentación en la vida solitaria, enraizadas en la Regla y en la tradición de Santa Escolástica [EAC-16, 04].
+
+Perpetuando esta herencia, el propio Joseph Ratzinger, al tomar el nombre de Benedicto XVI, pidió a San Benito «ayudarnos a mantener a Cristo firmemente en el corazón de nuestras vidas» [EAC-16, 04].
+
 ## Ver también
 [[santo_tomás_de_aquino]], [[teología_ascética_y_mística]]
 
@@ -40,3 +51,4 @@ Mencionado en el Índice Onomástico (n.6, 467, 502). Su doctrina sobre los grad
 - [CEC §2701]
 - [TPCr, n.467]
 - [TPCr, Índice Onomástico]
+- EAC-16, *Evangelization & Culture, Issue 16 — Pope Benedict XVI* (Summer 2023), Word on Fire Institute (Ghezzi).

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Creación
 tags: ["dogmática"]
 
-timestamp: 2026-07-01
+timestamp: 2026-09-02
 description: "La creación es la obra por la cual Dios, en su libérrima voluntad, saca de la nada todo lo que existe (cielo y tierra, lo visible y lo invisible) por su Palabra y su Espíritu."
 ---
 # Creación
 
 > Área: Dogmática
-> Última actualización: 2026-07-01
+> Última actualización: 2026-09-02
 
 ## Definición
 
@@ -69,6 +69,14 @@ La creación entera «gime y siente dolores de parto» y «está esperando la ma
 
 El Dios de la creación se revela también como Dios de la redención, fiel a su amor al hombre y al mundo ya revelado el día de la creación [RH §9].
 
+### Según EAC-17 — Word on Fire Institute
+
+**El método de Ratzinger: forma de representación y contenido (Christopher Baglow, 11_science.md).** Para interpretar la «vieja creación» y la «nueva creación», Ratzinger usa un método de dos pasos. Primero, distinguir entre la «forma de representación» y el contenido más profundo que simboliza: los detalles de Génesis 1 (los siete días, el orden de la creación, el dosel del cielo) son imágenes que apuntan más allá de sí mismas a una verdad más profunda — que el universo fue creado en y mediante la Razón divina, el Logos que es también el Hijo de Dios, y es por ello ordenado, verdadero y bueno. Son, como el agua bendita o la sal bendita, «sacramentales verbales». Segundo, apreciar el significado perdurable de las imágenes: «los detalles también expresan la verdad —en otro modo, ciertamente, del de la física y la biología; representan la verdad como lo hacen los símbolos». Por ejemplo, Dios habla diez veces en el relato (→ los Diez Mandamientos), lo que simboliza que el universo es creado como un espacio para la bondad humana.
+
+**La creación y el hombre (Ratzinger/11_science.md).** Dios solo delibera al crear a los seres humanos, lo que simboliza la unicidad de lo humano como imagen de su propia Razón. Dios no declara la bondad del hombre simplemente por su existencia, como hace con las demás criaturas, sino que le da una misión: la bondad humana no está solo en manos de Dios, sino de Dios y del hombre — una cooperación.
+
+**La custodia de la creación *creation care* (Christopher Barnard, 24_peripheries_barnard.md).** La ética ambiental cristiana se fundamenta en que Dios creó el mundo y dio al hombre la responsabilidad exclusiva de administrarlo. En Génesis 1,26 Dios ordena ejercer custodia sobre toda la creación. Contra el anti-natalismo del activismo climático, el mandato de «sed fecundos y multiplicaos» (Gn 1,28) ofrece una relación armoniosa —no explotadora— con la naturaleza. El Nuevo Testamento subraya la reconciliación de toda la creación con Dios (Col 1,19-20). Juan Pablo II (*Evangelium Vitae* 42) y Francisco (*Laudato Si'*) llaman al cuidado de la creación: «debemos proteger el medio ambiente para proteger la vida y permitir que la humanidad florezca».
+
 ## Distinciones importantes
 
 - **Creación ≠ emanación**: Dios no «emana» el mundo de su substancia; lo crea libremente de la nada.
@@ -102,3 +110,4 @@ El Dios de la creación se revela también como Dios de la redención, fiel a su
 - SmTh Iª q.66, materia prima y diversificación
 - SmTh Iª q.67-74, obra de los seis días
 - [RH §8-9]
+- EAC-17, *Evangelization & Culture, Issue 17 — Education* (Autumn 2023), Word on Fire Institute (Baglow, 11_science.md; Barnard, 24_peripheries_barnard.md)

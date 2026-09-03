@@ -132,6 +132,20 @@ Tóth llama a la oración «la respiración del alma» y enseña que «rezar bie
 
 Su método progresivo va de la oración vocal bien hecha —recitada despacio, con recogimiento, postura y orden— a la oración personal: «es de importancia decisiva acostumbrar a los jóvenes a la oración personal. En la oración el alma aprende a conocer y amar a Cristo»; usa la analogía del músico: al principio se reza leyendo un libro de meditación; más adelante «se componen oraciones nuevas, utilizando palabras y sentimientos propios» [archivo 10]. Da reglas prácticas: recojerse antes de rezar, rezar despacio («mejor es rezar poco, atendiendo a lo que se dice, que rezar mucho sin atención»), preguntarse «¿por qué rezo?», y saborear la presencia de Dios durante el día [archivo 10]. Insiste en la meditación diaria y en el examen de conciencia nocturno como medios de progreso [archivo 10], y motiva humanamente la oración: «no simplemente repitamos que la oración es un mandato divino; mostremos cómo es la actividad más noble del alma humana» [archivo 10].
 
+### Según EAC-16 — Word on Fire Institute
+
+**La oración como acto fundamental de la religión (Tod Worner / Benedicto XVI).** Benedicto XVI definió la oración como «el acto fundamental de la religión, que en la religión cristiana adquiere un carácter muy específico: es el acto de autoentrega por el que entramos en el Cuerpo de Cristo» [EAC-16, 03_midnight_oil.md]. Esta definición conecta la oración no solo con la piedad individual, sino con la realidad eclesial: orar es entregarse a Cristo y ser incorporado a su Cuerpo.
+
+**Los «períodos secos» y la fe: «el pan crece en invierno» (Ida Friederike Görres / Ratzinger).** Görres, amiga de Ratzinger, escribió durante la crisis de la Iglesia en los años 60 que el sufrimiento de los sacerdotes fieles «es sangre de mártires invisible. Germina las semillas que crecen en la noche de invierno» [EAC-16, 03_midnight_oil.md]. Ratzinger retomó esta imagen: «La fe también necesita la disciplina de los períodos secos; entonces algo crece en el silencio. Así como en los campos de invierno, a pesar de las apariencias, el crecimiento yace oculto. 'El pan crece en invierno', dijo Ida Friederike Görres».
+
+**La oración como disposición frente al dominio (Dan Seseske / Ratzinger).** En *God and the World*, Ratzinger distingue la actitud de dominio —propia de quien investiga las cosas materiales— de la actitud de disponibilidad ante Dios: «Solo empiezo a buscar a Dios cuando dejo a un lado esta actitud de dominio. En su lugar tengo que desarrollar una actitud de disponibilidad, de abrirme, de buscar» [EAC-16, 07_spotlight_reader.md]. La oración exige «esperar con toda humildad y permitir que Él se muestre de la manera en que quiera hacerlo».
+
+**El ateísmo práctico (*etsi Deus non daretur*).** Benedicto XVI advirtió contra el ateísmo práctico: «las verdades de la fe o los ritos religiosos no se niegan pero se consideran irrelevantes para la vida cotidiana, desvinculados de la vida, inútiles. La gente cree a menudo en Dios de manera superficial y vive "como si Dios no existiera". Al final, sin embargo, esta forma de vida resulta aún más destructiva porque conduce a la indiferencia hacia la fe y hacia la cuestión de Dios» [EAC-16, 07_spotlight_reader.md].
+
+**La inseparabilidad de teología y oración (Evagrio Póntico / Seseske).** Seseske destaca que en el corpus de Benedicto XVI «se manifiesta la profunda armonía entre la reflexión teológica y la devoción espiritual personal al Señor». Cita a Evagrio Póntico: «Un teólogo es quien ora, y quien ora es un teólogo» [EAC-16, 07_spotlight_reader.md]. En nuestro tiempo, donde la teología a menudo se reduce a materia académica, Benedicto XVI es un recordatorio poderoso de la inseparabilidad de ambas.
+
+**La sanación de los sacerdotes a través de la oración (Tod Worner).** Worner relata que el arzobispo, al abordar sacerdotes con problemas en su ministerio, comenzaba por la pregunta: «¿Cuándo dejaste de orar?» [EAC-16, 03_midnight_oil.md]. Las narrativas de vidas de oración que habían dejado de florecer eran el punto central de partida; la reinvigoración de la vida de oración estaba en el centro de la sanación.
+
 ## Distinciones importantes
 
 - Oración en sentido amplio: cualquier movimiento del alma hacia Dios por cualquier virtud infusa.
@@ -188,3 +202,4 @@ James K. Lee propone tres sugerencias augustinas para la era digital: (1) orar t
 - ColCas-II, Conferencia XIV, §§1-19; Conferencia XV, §§1-10
 - Denzinger D‑1409, D‑1418 (Clemente XI, *Unigenitus*)
 - AvEsp, Dicho 26 (oración del alma enamorada); Dicho 66-67 (acudir a Dios en tribulación y gozo); Dicho 79 (soledad santa y oración); Avisos de Antequera §11 (quien huye de oración huye de todo bueno)
+- [EAC-16, 03_midnight_oil.md, 07_spotlight_reader.md]

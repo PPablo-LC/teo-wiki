@@ -3,12 +3,12 @@ type: Concepto Teológico
 title: Eros
 description: "Fuerza interior que atrae al hombre hacia lo verdadero, bueno y bello (sentido platónico) o, en el sentido común y «sexológico», la atracción de naturaleza sexual entre el hombre y la mujer."
 tags: ["antropología_teológica", "teología_del_cuerpo"]
-timestamp: 2026-08-04
+timestamp: 2026-09-02
 ---
 # Eros
 
 > Área: Antropología teológica / Teología del cuerpo
-> Última actualización: 2026-08-04
+> Última actualización: 2026-09-02
 
 ## Definición
 
@@ -27,6 +27,10 @@ San Juan Pablo II, en la teología del cuerpo, toma en consideración la amplia 
 - La concupiscencia indica la «intensidad subjetiva» de la tendencia al objeto por su carácter sexual: la atracción extiende su dominio sobre la esfera emotiva e implica la corporeidad (TdC, cateq. 47).
 - En el ámbito erótico, el eros y el ethos no divergen ni se contraponen, sino que están llamados a encontrarse en el corazón humano (TdC, cateq. 47).
 
+### Según EAC-17 — Word on Fire Institute
+
+**La redención del eros (Julia Hejduk, 17_feature_hejduk.md).** Hejduk aborda la cuestión del eros y la sexualidad desde la catolicidad clásica. Contra la visión del amor y del deseo como una dinámica meramente «devoradora» que la tradición cristiana habría venido a destruir, los clásicos (Virgilio, Ovidio) muestran que el dolor del amor es una puerta hacia el conocimiento más profundo del cosmos y de uno mismo. La «catolicidad» redime el eros: la tradición clásica y la fe cristiana se reconcilian cuando el amor se entiende como el anhelo del alma hacia el Bien que la llena, de modo que «cada pecado capital es la distorsión de un anhelo divino». La sexualidad, creada buena, es reordenada por la gracia: la masculinidad y la feminidad (el amor nupcial) se integran en el orden del teo-drama y de la voluntad de Dios, pudiendo incluso el amor desordenado ser «un espejo del anhelo divino» que se redime mediante el afecto y el compromiso.
+
 ## Distinciones importantes
 
 - **Eros platónico vs. eros sexológico:** el primero es fuerza del espíritu hacia lo trascendente; el segundo, atracción de naturaleza sexual.
@@ -44,3 +48,4 @@ Se relaciona con [[eros_y_ethos]], [[ethos]], [[amor_humano]], [[concupiscencia]
 
 - TdC, Catequesis 47, 22 (Juan Pablo II)
 - Gn 2,24
+- EAC-17, Julia Hejduk. «Catholicity and Classics: The Vitality of the Classical Heritage», in *Evangelization & Culture, Issue 17 — Education* (Autumn 2023), Word on Fire Institute.

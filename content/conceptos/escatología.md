@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Escatología
 tags: ["escatología"]
 
-timestamp: 2026-08-23
+timestamp: 2026-09-02
 description: "Rama de la teología que trata de las realidades últimas o finales."
 ---
 # Escatología
 
 > Área: Escatología
-> Última actualización: 2026-08-23
+> Última actualización: 2026-09-02
 
 ## Definición
 
@@ -97,6 +97,22 @@ El número monográfico sobre las postrimerías aporta perspectivas metodológic
 - **Imaginación escatológica** (Holly Ordway sobre Tolkien): la literatura cultiva el sentido de muerte y deathlessness; contra el «Peterpantismo» y la obsesión numenórea por evitar la muerte.
 - **Pedagogía cultural de los novísimos** (Worner; Petiprin; Scalia): Hamlet/Yorick, cine apocalíptico como desvelamiento, *media vita in morte sumus*: la cultura puede despertar — o anestesiar — la memoria de las postrimerías.
 
+### Según EAC-16 — Word on Fire Institute
+
+**La salvación individual plena solo con la del cosmos (Dr. Richard DeClue / Ratzinger).** La escatología de Ratzinger es inseparable de la comunión: la salvación individual «es completa y entera solo cuando la salvación del cosmos y de todos los elegidos ha llegado a su plenitud» [EAC-16, 13_feature_declue.md]. Los redentos «no están simplemente adyacentes unos a otros en el cielo. Más bien, en su ser juntos como un solo Cristo, son el cielo».
+
+**El cielo como comunión (Ratzinger / Blanco Sarto).** Pablo Blanco Sarto elucid el pensamiento de Ratzinger: «El cielo cristiano —el fin último de la persona humana— es personal e interpersonal, individual y relacional» [EAC-16, 13_feature_declue.md]. «El cielo es ajeno al aislamiento. Es la sociedad abierta de la comunión de los santos, y de este modo la consumación de toda comunión humana».
+
+**El juicio como parte de la comunión (Ratzinger).** La resurrección tiene un «carácter comunitario de la inmortalidad humana»: «La persona es constitutivamente relacional; si ha de vivir, esta dimensión no puede excluirse» [EAC-16, 13_feature_declue.md]. La resurrección de los muertos al fin de los tiempos incluye la consumación de toda la creación: «Toda la creación gime con dolores de parto esperando la manifestación de los hijos de Dios» (Rm 8,19-22).
+
+**La resurrección como comunión consumada.** La resurrección «significa la consumación definitiva de la redención del cuerpo» (Rm 8,23) [EAC-16, 13_feature_declue.md]. No es un destino individual aislado, sino la incorporación a la plenitud de la comunión trinitaria y de la humanidad redenta. «Incluso cuando han cruzado el umbral del mundo de más allá, los seres humanos aún pueden cargarse mutuamente y soportar las cargas de los demás».
+
+### Según EAC-17 — Word on Fire Institute
+
+**Hacia la «nueva creación» (Christopher Baglow, 11_science.md).** Ratzinger corrige la lectura «immanentista» de la creación en la teología moderna (que la limita a estar *detrás* de nosotros, como origen) desplazándola hacia delante: la historia completa de la creación es el viaje de la «vieja creación» hacia la «nueva creación», de la cual la resurrección de Cristo y la emergencia de la Iglesia son la inauguración. La nueva creación no es meramente «física» sino «encarnada», «eclesial» y «cósmica»: prefigurada en los años sabáticos y en el quinto mandamiento, anticipada ya en la Eucaristía. La consumación escatológica unirá a los santos —«aquellos que están despiertos a la bondad y el ser»— en una unión eucarística con Dios y con el cosmos, la realidad misma que el cosmos espera.
+
+**El misterio escatológico como lámpara encendida (D.C. Schindler, 14_feature_schindler.md).** Aunque su ensayo se centra en la pedagogía del deseo, Schindler evoca la estructura escatológica del misterio: el misterio (de Dios y de la propia vocación) no se resuelve en esta vida, sino que permanece como «una lámpara necesaria» que sostiene el impulso teológico y la alegría. La vida cristiana vigila con esa lámpara encendida, en la expectativa de que Dios, que «permanece semejante a sí mismo», obre más allá de nuestra comprehensión presente.
+
 ## Distinciones importantes
 
 - Escatología individual (muerte, juicio particular) y escatología universal (parusía, juicio final)
@@ -123,3 +139,5 @@ El número monográfico sobre las postrimerías aporta perspectivas metodológic
 - [TdC 12.05.1982]
 - WoF, Lección 10: "Mundo sin fin"
 - *Evangelization & Culture* 11 (Spring 2022): «The Four Last Things»
+- [EAC-16, 13_feature_declue.md]
+- EAC-17, *Evangelization & Culture, Issue 17 — Education* (Autumn 2023), Word on Fire Institute (Baglow, 11_science.md; Schindler, 14_feature_schindler.md)

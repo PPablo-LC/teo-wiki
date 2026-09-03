@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Imagen de Dios
 tags: ["dogmática", "antropología_teológica"]
 
-timestamp: 2026-08-24
+timestamp: 2026-09-02
 description: "El hombre ha sido creado \"a imagen y semejanza de Dios\" (Gn 1,26)."
 ---
 # Imagen de Dios
 
 > Área: Dogmática / Antropología teológica
-> Última actualización: 2026-08-24
+> Última actualización: 2026-09-02
 
 ## Definición
 
@@ -120,6 +120,20 @@ Bobby Angel sitúa la comedia dentro del imago Dei: «En materia teológica, la 
 
 **Engendrar hacedores (Ramelow).** No podemos fabricar otros hacedores como hacemos máquinas, «pero podemos engendrarlos, así como Dios engendra a su Hijo»: lo que la procreación comparte con el arte es que «comienza en la apreciación de la belleza». Incluso en Dios hay engendramiento que no es hacer —el Logos, Hijo eterno—, y mediante ese Logos crea todas las demás cosas. «Las computadoras ni crean ni engendran otras computadoras. Solo los seres hechos a imagen y semejanza de Dios pueden hacerlo».
 
+### Según EAC-16 — Word on Fire Institute
+
+**El hombre como relación inmediata con Dios (Daniel Kuebler / Benedicto XVI).** Ratzinger enseñó que «el ser humano está directamente relacionado con Dios… Cada uno lleva en sí mismo el aliento de Dios, cada uno es imagen de Dios» [EAC-16, 09_science.md]. La imagen de Dios en el hombre no se reduce a rasgos biológicos ni a la posición evolutiva, sino que se constituye en la capacidad de relación personal con el Creador.
+
+**El alma espiritual: «el ascenso del espíritu no puede excavarse con una pala» (Benedicto XVI).** La antropogénesis — el origen del espíritu — «no puede determinarse mediante la paleontología» porque «no es el uso de armas o del fuego… lo que constituye al hombre, sino su capacidad de estar directamente en relación con Dios. El ascenso del espíritu no puede excavarse con una pala» [EAC-16, 09_science.md]. La relación con Dios no es reducible a huesos o genes; el «divino destello» trasciende el mundo medible y cuantificable.
+
+**El hombre definido por la adoración.** La creación está «diseñada de tal manera que está orientada hacia la adoración», y el hombre, corona de la creación, solo encuentra su plenitud cuando entra en la «pura relación de amor, que es lo que la adoración debe ser» [EAC-16, 09_science.md]. La imagen de Dios se realiza plenamente en el culto: el hombre es imagen de Dios en la medida en que se orienta libremente hacia Él.
+
+**La dignidad de la persona frente al cientificismo.** El reduccionismo que ve en el hombre el «producto casual y sin sentido de la evolución» destruye la imagen de Dios. En cambio, «ser el resultado amoroso de un proceso evolutivo» — un proceso que ayudó a sacar adelante la criatura que Dios pretendía desde toda la eternidad — funda una dignidad que ninguna teoría científica puede otar ni arrebatar [EAC-16, 09_science.md].
+
+**El hombre, imagen de la Razón divina (Christopher Baglow, 11_science.md).** En el relato de la creación, Dios solo delibera (consejo/vacilación interior, *bara* con deliberación interna) al crear a los seres humanos: «Hagamos al hombre a nuestra imagen y semejanza» (Gn 1,26). Este gesto singular simboliza la unicidad de lo humano como creado a imagen de la propia Razón divina — el *Logos*. A diferencia de las demás criaturas, cuya bondad Dios declara simplemente por su existencia, al hombre le da una misión: su bondad no queda solo en manos de Dios, sino «de Dios y del hombre» — una cooperación que refleja la dignidad del ser racional llamado a colaborar con su Creador.
+
+**El hombre, infinitamente creativo (Christopher Barnard, 24_peripheries_barnard.md).** Contra el anti-natalismo del activismo climático, que desvalora la dignidad humana y la reproducción, Barnard subraya que el hombre, hecho a imagen de Dios, es «infinitamente creativo» como su Creador. La ética del cuidado de la creación no degrada al hombre a mero problema, sino que lo confirma como administrador único y responsable de la creación en alianza con su Dios.
+
 ## Distinciones importantes
 
 - Imagen natural: la inteligencia y voluntad libres que todo ser humano posee por naturaleza
@@ -158,3 +172,5 @@ Se relaciona con la [[creación]] del hombre, el [[pecado_original]] que la desf
 - Veritatis splendor, n. 34, citado en Ele_Xto_Stos, Cap. IV, §3a
 - [EAC-8, Issue 8 «Humor», archivo 15]
 - [EAC-1, Issue 1 «Creativity»: archivos 10, 11, 19]
+- [EAC-16, 09_science.md]
+- EAC-17, *Evangelization & Culture, Issue 17 — Education* (Autumn 2023), Word on Fire Institute (Baglow, 11_science.md; Barnard, 24_peripheries_barnard.md)

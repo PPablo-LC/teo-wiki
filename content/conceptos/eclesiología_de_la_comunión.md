@@ -31,6 +31,17 @@ La Iglesia es esencialmente comunión (CEC §787-795). La comunión de los santo
 
 El documento «Los carismas y las nuevas realidades eclesiales» sitúa explícitamente a los movimientos en el marco de la eclesiología de la comunión. El Concilio Vaticano II retoma la concepción de la Iglesia como misterio de comunión, y «los movimientos enraízan su propia esencia en la eclesiología de la comunión: sólo en ésta se entienden, desarrollan y nacen estas nuevas realidades asociativas» [RC-MovEcles-2014, A]. La cita de LG 12 sobre los carismas es el fundamento conciliar de esta comprensión.
 
+### Según EAC-16 — Word on Fire Institute
+
+En *Evangelization & Culture, Issue 16* (verano de 2023), Dr. Richard DeClue identifica la **comunión** como el *leitmotiv* unificador de toda la teología de [[benedicto_xvi|Joseph Ratzinger / Benedicto XVI]]. Sus tesis:
+
+- **La Trinidad como fundamento**: en Dios, persona significa relación — «relación, ser-relacionado, no es algo superpuesto a la persona, sino que es la persona misma». La eclesiología de la comunión arraiga en la [[comunión_trinitaria]] y en la doctrina trinitaria de los Padres y de San Agustín.
+- **La Iglesia como proceso de unificación vertical y horizontal**: «la Iglesia es el proceso dinámico de unificación horizontal y vertical» — la comunión vertical con Dios y la horizontal entre los hombres; «solo por la fuerza impulsora de la unificación vertical puede tener lugar también con éxito la unificación horizontal».
+- **La Eucaristía y la Iglesia mutuamente constitutivas**: la Iglesia «se genera en la Eucaristía»; la Iglesia es el Cuerpo de Cristo. Los sacramentos del [[bautismo]] y la [[eucaristía]] configuran y expresan la comunión.
+- **El pecado como pérdida de comunión y la redención como restauración**: Cristo, centro y «punto de inflexión» de la historia, restaura la comunión rota; la [[encarnación]] (unión hipostática) es la máxima comunión entre Dios y el hombre.
+- **La comunión de los santos y el cielo**: el cielo no es el aislamiento sino «la sociedad abierta de la comunión de los santos»; el hombre no puede realizarse solo: «la salvación del individuo es plena solo cuando la salvación del cosmos y de todos los elegidos ha llegado a su plena consumación».
+- **La moral y la escatología como comunión**: los dos mandamientos del amor (amar a Dios y al prójimo) son la expresión moral de la comunión; Dios, culto y ethos quedan «entrelazados» en la reunión eucarística (*Deus Caritas Est* 14).
+
 ## Distinciones importantes
 
 - Eclesiología de la comunión ≠ eclesiología jurídica (la comunión es previa y fundante de la estructura)
@@ -49,3 +60,4 @@ Se relaciona con la [[comunión_eclesial]], los [[carismas]], los [[movimientos_
 - [RC-MovEcles-2014, A]
 - CEC §787-795, 815-816, 946-953
 - Concilio Vaticano II, Lumen Gentium 1, 9-17
+- EAC-16, DeClue, Dr. Richard. «The Unity of Pope Benedict XVI's Theology», in *Evangelization & Culture, Issue 16* (Summer 2023), Word on Fire Institute.

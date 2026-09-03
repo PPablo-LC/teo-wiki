@@ -83,6 +83,14 @@ En el Cap. III, §4c se precisa que la contemplación consiste en tener la «mir
 
 **Adoración recta = percepción recta.** Robinson (*Gilead*): «la adoración recta es la percepción recta»; el asombro inocente por la dación del mundo exige alabanza y gratitud como consumación necesaria.
 
+### Según EAC-17 — Word on Fire Institute
+
+**La primacía de la contemplación (Augusto Del Noce, 06_stacks.md).** Contra la disolución moderna del ser en la historia y de la verdad en ideología, Del Noce insiste en «la primacía de la contemplación» y en la recuperación de la visión metafísica de la Iglesia: «Primacía de la contemplación significa simplemente la superioridad de lo inmutable sobre lo mudable». Es el principio metafísico esencial de la tradición católica, que dice que todo lo que es participa en principios universales —las esencias eternas e inmutables contenidas en la actualidad permanente del entendimiento divino. La primacía de la contemplación, la primacía de lo inmutable y la realidad de un orden eterno son afirmaciones equivalentes, que coinciden en tomar la intuición intelectual como modelo del conocimiento; el reconocimiento de esta forma de conocimiento es inseparable de la propia posibilidad del pensamiento metafísico.
+
+**La filosofía como contemplación de la verdad (D.C. Schindler, 14_feature_schindler.md).** Los antiguos identificaron el acto humano más alto como la contemplación de la verdad; la tradición cristiana extendió esta actividad a la eternidad y a todo ser humano sin excepción: «estamos todos llamados a contemplar al Dios verdadero en asombro, en amor y en gozo extático, para siempre en el cielo». Para Schindler, la filosofía «tiene que ser 'sufrida'» (*mathein pathein*): exige presencia real, y por eso «la clase a distancia es positivamente antifilosófica». La contemplación de la verdad es lo que acerca más a la felicidad humana, el propósito de la educación como preparación para el eschaton: «aprendemos a amar a Dios en las cosas para poder amarlo a Él en sí mismo en el gozo de la vida eterna».
+
+**Educación instrumental vs. contemplación (James Matthew Wilson, 21_poetry_wilson.md).** En el poema *An Impasse*, Wilson contrasta la educación instrumental —«todo aprender tiene por fin hacer y trabajar máquinas», «y eso, a su vez, solo para ganar»— con los viejos filósofos cuyas «palabras eran inútiles y sus preguntas extrañas», que «nunca cesaron hasta su último aliento» y que «solo ellos caminan sin temor hacia la muerte»: la filosofía que se vive incluso ante la muerte es, en su raíz, contemplativa.
+
 ## Distinciones importantes
 
 - Contemplación natural (sensible, imaginativa, intelectual) vs. sobrenatural o infusa.
@@ -108,3 +116,4 @@ Se relaciona con los [[grados_de_oración]], la [[meditación]] (como preparaci�
 - Denzinger D-1341–D-1343 (Inocencio XII, *Cum alias*)
 - Ele_Xto_Stos, Cap. II, §4b
 - Ele_Xto_Stos, Cap. III, §4c
+- EAC-17, *Evangelization & Culture, Issue 17 — Education* (Autumn 2023), Word on Fire Institute (Del Noce, 06_stacks.md; Schindler, 14_feature_schindler.md; Wilson, 21_poetry_wilson.md)

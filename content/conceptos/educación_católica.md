@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Educación católica
 tags: ["derecho_canónico"]
 
-timestamp: 2026-08-29
+timestamp: 2026-09-02
 description: "La educación católica es el conjunto de medios e instituciones mediante los cuales la Iglesia, en cumplimiento de su misión divina, ayuda a los hombres a alcanzar la plenitud de la vida cristiana."
 ---
 # Educación católica
 
 > Área: Derecho Canónico
-> Última actualización: 2026-08-29
+> Última actualización: 2026-09-02
 
 ## Definición
 
@@ -67,6 +67,12 @@ Tras la pandemia de COVID, las escuelas católicas vivieron un «renacimiento» 
 
 **Toda fuente de la EAC-12 converge en el principio:** la educación católica es la transmisión de la fe en el contexto de una vida ordinaria compartida —la lectura en familia, la oración, el orden, la rutina, la gratitud y el servicio—, como muestra la escuela en casa y la catequesis familiar [EAC-12, 12, 17, 18].
 
+### Según EAC-17 — Word on Fire Institute
+
+**Educación católica y ciencia (Christopher Barnard, 16_feature_bradford.md).** El genetista Jérôme Lejeune, «padre de la genética moderna», fue educado y trabajó dentro de una cosmovisión católica que le permitió ser «rigurosamente científico» y a la vez «profundamente fiel a las enseñanzas de su fe». Lejeune defendió la dignidad del no nacido apelando a la ciencia —no contra ella—: la vida humana comienza en la concepción, y la ciencia misma confirma la unicidad de cada persona humana. Su vida muestra que la educación católica no obstaculiza sino potencia la excelencia científica, y que la defensa de una [[cultura_de_la_vida]] es parte integral de la misión educativa católica.
+
+**La metamorfosis intelectual clásica (Andrew Youngblood, 20_spotlight_youngblood.md).** «La educación clásica existe para producir lo que los antiguos llamaban *metamorphosis intellectualis* —una transformación de la mente por la cual uno se vuelve más plenamente humano». La educación católica clásica crea «hombres y mujeres de mentalidad teológica» que aprenden a orar con la inteligencia y a pensar con el corazón, preparándolos para una vida de virtud, servicio público y evangelización.
+
 ## Relaciones doctrinales
 
 La [[escuela_católica]] es un medio primordial para la educación católica. Se relaciona con el derecho de los padres (c. 793), la libertad de enseñanza (c. 797) y el derecho de la Iglesia a erigir universidades (c. 807).
@@ -84,3 +90,4 @@ La [[escuela_católica]] es un medio primordial para la educación católica. Se
 - CIC cc. 793-821
 - Com-CIC-Eunsa, comentarios a los cc. 793-821
 - [EAC-12, 10, 22, 23]
+- EAC-17, *Evangelization & Culture, Issue 17 — Education* (Autumn 2023), Word on Fire Institute (Barnard, 16_feature_bradford.md; Youngblood, 20_spotlight_youngblood.md)

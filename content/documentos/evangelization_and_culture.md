@@ -41,6 +41,8 @@ tags:
 | 13 | Issue 13 | The Eucharist | Autumn 2022 | [[evangelization_and_culture_issue_13_eucharist]] |
 | 14 | Issue 14 | Joy | Winter 2022 | [[evangelization_and_culture_issue_14_joy]] |
 | 15 | Issue 15 | Suffering | Spring 2023 | [[evangelization_and_culture_issue_15_suffering]] |
+| 16 | Issue 16 | Pope Benedict XVI | Summer 2023 | [[evangelization_and_culture_issue_16_benedict_xvi]] |
+| 17 | Issue 17 | Education | Autumn 2023 | [[evangelization_and_culture_issue_17_education]] |
 
 ## Temas centrales por número
 
@@ -414,13 +416,101 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - Joshua Hren (fundador de Wiseblood Books)
 - Edyta McNichol (hagiografía, St. Faustina)
 
+### Issue 16: Pope Benedict XVI (Summer 2023)
+
+Para el desarrollo completo de este número, véase [[evangelization_and_culture_issue_16_benedict_xvi]].
+- Homenaje a Benedicto XVI como «hombre del concilio» y teólogo: el cristianismo no es una ideología ni una filosofía sino una relación con la persona viva de Jesucristo; Jesús como Logos/Palabra tiende un puente con la religión, la filosofía y la ciencia (Barron)
+- La *Introduction to Christianity* (1968) y la inteligibilidad del mundo como argumento de la existencia de Dios; el cristianismo como iniciación a un misticismo profundo y encuentro personal con Cristo (Grunow)
+- La oración como acto fundamental de la religión y autoentrega en el Cuerpo de Cristo; la «dictadura del relativismo»; el heroísmo y la fe adulta; Mozart y la esperanza ante la muerte; «el pan crece en invierno» (Worner; Ratzinger; Görres)
+- San Benito de Nursia, patrono y raíz del nombre; la Regla («nada se prefiera a la Obra de Dios»); el monacato occidental como fuerza cultural de Europa (Ghezzi)
+- La fe como entrega y confianza («experimento de la fe»); la fe y la razón se refuerzan mutuamente; el *Wesen* del catolicismo de Karl Adam (Ramage)
+- Europa como concepto cultural e histórico; las «minorías creativas» cristianas; el monacato y la cristianización de Europa (Petiprin)
+- El legado escrito de Benedicto XVI; el ateísmo práctico (*etsi Deus non daretur*); la liturgia como relación real con Dios que se revela; teología y espiritualidad inseparables (Seseske)
+- La visión sacramental del mundo de Romano Guardini; la primacía del logos sobre el ethos; la liturgia que dice «nosotros»; el «catolicismo beige» frente a la verdad y la belleza (Millare)
+- La creación del hombre frente a la evolución: «no somos un producto casual y sin sentido de la evolución»; el hombre como relación inmediata con Dios; evolución y creación como realidades complementarias (Kuebler)
+- La amistad de la Iglesia con el arte; la vía de la belleza (*via pulchritudinis*); «custodios de la belleza»; la belleza auténtica frente a la ilusoria (Benedicto XVI, Capilla Sixtina 2009)
+- La **comunión** como leitmotiv de toda la teología de Ratzinger: «en Dios, persona significa relación»; la Trinidad como fundamento; la eclesiología de comunión; la Eucaristía e Iglesia mutuamente constitutivas; la comunión de los santos (DeClue)
+- Retrato humano frente al «Gran Inquisidor» mediático: sencillez, humildad, humor; la combinación de fe y razón; «si a la fe le va mal, a la sociedad no le puede ir bien» (Seewald)
+- El legado intelectual: «el Newman del siglo XX»; la cuarteta alemana (Lutero, Kant, Marx, Nietzsche); el rescate de la verdad y de la bondad; la conciencia (Newman) y los absolutos morales; el cristocentrismo bonaventuriano y la eclesiología agustiniana (Rowland)
+- La dignidad de la persona con discapacidad intelectual y del desarrollo; la cultura del descarte y el «ableísmo»; la dignidad ontológica dada por Dios frente al valor asignado; la inclusión en el Cuerpo de Cristo (Bradford; Lejeune)
+- *Benedict* (poema de Holly Ordway): el nombre «benedictus» («hablar bien»); el Verbo encarnado, *infans*; *Anglicanorum Coetibus* (Ordway)
+- El testimonio de un laico y la evangelización por el ejemplo; la oración, los sacramentos y la fidelidad; Cristo como centro (Pauli)
+- La formación sacerdotal (humana, intelectual, espiritual, pastoral); la verdad en la caridad; el sufrimiento que hace creíble al testigo de la verdad (LoCoco)
+- El desfase entre la imagen mediática («Rottweiler», «Gran Inquisidor») y la realidad del «sencillo y humilde trabajador en la viña del Señor»; la libertad interior (Gallagher)
+- El legado: sus escritos como recurso inmenso; la denuncia de la «suciedad» (*filth*) en la Iglesia; la purificación de la Iglesia; la renuncia papal como acto de libertad y honestidad; «siempre dispuestos a dar razón de la esperanza» (Gallagher)
+
+- Bishop Robert Barron (director, Word on Fire)
+- Fr. Stephen Grunow (Word on Fire Institute)
+- Tod Worner (Managing Editor)
+- Matthew Ramage (teología bíblica, Benedictine College)
+- Fr. Joseph Fessio, SJ (editor, Ignatius Press)
+- Dr. Richard DeClue (teología, Henri de Lubac)
+- Peter Seewald (biógrafo de Benedicto XVI)
+- Dr. Tracey Rowland (teología de Communio)
+- Roland Millare (director del Liturgical Institute)
+- Dr. Daniel Kuebler (biología, Franciscan University)
+- Andrew Petiprin (teología y cultura)
+- Bert Ghezzi (escritor católico)
+- Dan Seseske (labrador de la palabra; editor)
+- Dr. Holly Ordway (literatura, Word on Fire Academic)
+- Mark Bradford (Jérôme Lejeune Fellow, Haus of Life)
+- Maura Pauli (miembro del Word on Fire Institute)
+- Rev. John LoCoco (director vocacional, diócesis de Baton Rouge)
+- Delia Buckley Gallagher (comunicaciones, diócesis de Lafayette)
+- Raúl Berzosa (artista, portada)
+
+### Issue 17: Education (Autumn 2023)
+
+Para el desarrollo completo de este número, véase [[evangelization_and_culture_issue_17_education]].
+- La educación como apertura a lo que eleva el alma; el valor intrínseco de las artes liberales; la correlación entre la desaparición de las artes liberales y la crisis (ansiedad, depresión) (Barron)
+- La educación doctrinal de la Iglesia; el testimonio y la catequesis; nuevas formas de instituciones religiosas y universidades (Grunow)
+- La educación arraigada en las preguntas prácticas; autodidacta vs. mentor; conocimiento vs. «realización»; educar vs. formar (Worner)
+- La virtud de ser generalista: St. Alberto Magno y la síntesis de fe y razón; la «expertocracia» secular (Petrusek)
+- La «irreligión» y el «nuevo totalitarismo» de Augusto Del Noce; el scientismo y el eroticismo; la primacía de la contemplación (Hanby)
+- La educación como comunicación de la pasión; el ego-drama frente al teo-drama (*School of Rock*) (Becklo)
+- La filosofía como amor de sabiduría; las ideas tienen consecuencias; razón y conciencia como profetas de Dios; la adoración eucarística como cumbre de la filosofía (Kreeft)
+- Newman educador: la universidad y la Iglesia; el racionalismo; el desarrollo del dogma; la infalibilidad; «fe y razón navegan o se hunden juntas» (Levering)
+- Ratzinger sobre la creación: el método de dos pasos; la parusía como cumplimiento de la liturgia (Baglow)
+- La belleza objetiva y la arquitectura escolar; el *Abolition of Man* de Lewis (Flanders)
+- La filosofía como banquete para el alma: la contemplación de la verdad, el asombro, la preparación para el eschaton (Schindler)
+- Los enunciados autodefensivos y el principio de noncontradicción; el scientismo y el relativismo; Hume y Kant (Kaczor)
+- De «ineducable» a incluido: la dignidad de las personas con discapacidad intelectual; la educación católica y la inclusión (Bradford)
+- El catolicismo como encarnacional, intertextual y nupcial; el *fiat* de María; el eros y el anhelo divino; los clásicos y la redención (Hejduk)
+- La lectura de gran literatura como educación permanente del corazón; el corazón como unidad de razón y afectividad (Giussani); *Well-Read Mom* (Stokman)
+- La universidad católica que existe para transformar la cultura; comunidad, fe y beca; *Ex Corde Ecclesiae* (Minnis)
+- La educación clásica católica: Sócrates, el «conócete a ti mismo», el trivium, los trascendentales, la Encarnación (Youngblood)
+- Homeschooling católico: la fe como fundamento; la vía de la belleza; fe y razón; la liturgia de las horas (Vogt)
+- La paternidad espiritual: ser padre exige ser hijo; la participación en la única paternidad de Dios; el sacerdote como icono del Padre (Floeder)
+- La ética ambiental cristiana: custodia de la creación; el anti-natalismo del clima activismo vs. el mandato de prosperar; *Laudato Si'* (Barnard)
+
+- Bishop Robert Barron (director, Word on Fire)
+- Fr. Stephen Grunow (Word on Fire Institute)
+- Tod Worner (Managing Editor)
+- Dr. Matthew Petrusek (filosofía, Word on Fire Institute)
+- Michael Hanby (religión y filosofía de la ciencia, JPII Institute)
+- Matthew Becklo (cultura, Word on Fire)
+- Dr. Peter Kreeft (filosofía, Boston College)
+- Dr. Matthew Levering (teología, Mundelein Seminary)
+- Christopher T. Baglow (ciencia y religión, University of Notre Dame)
+- Todd Flanders (Providence Academy)
+- Dr. D.C. Schindler (metafísica y antropología, JPII Institute)
+- Dr. Christopher Kaczor (filosofía, Loyola Marymount University)
+- Mark Bradford (Jerome Lejeune Fellow)
+- Dr. Julia D. Hejduk (clásicos, Baylor University)
+- Marcie Stokman (Well-Read Mom)
+- Stephen D. Minnis (presidente, Benedictine College)
+- Andrew Youngblood (educación clásica)
+- Kathleen Vogt (Word on Fire Institute)
+- Fr. John P. Floeder (Saint Paul Seminary)
+- Christopher Barnard (American Conservation Coalition)
+
 ## Relación con otras fuentes
 
-Esta fuente complementa los artículos sobre [[evangelización]], [[evangelización_digital]], [[medios_de_comunicación_social]], [[belleza]], [[arte]], [[doctrina_social_de_la_iglesia]], [[nueva_evangelización]], [[cultura]], [[humor]], [[eutrapelia]], [[alegría_cristiana]] y [[poesía]].
+Esta fuente complementa los artículos sobre [[evangelización]], [[evangelización_digital]], [[medios_de_comunicación_social]], [[belleza]], [[arte]], [[doctrina_social_de_la_iglesia]], [[nueva_evangelización]], [[cultura]], [[humor]], [[eutrapelia]], [[alegría_cristiana]], [[poesía]], [[fe_y_razón]], [[eclesiología_de_la_comunión]], [[dignidad_de_la_persona]], [[educación]], [[formación]], [[artes_liberales]] y [[educación_católica]].
 
 ## Ver también
 
-[[evangelización]], [[evangelización_digital]], [[belleza]], [[arte]], [[doctrina_social_de_la_iglesia]], [[nueva_evangelización]], [[humor]], [[eutrapelia]], [[poesía]], [[vía_pulchritudinis]]
+[[evangelización]], [[evangelización_digital]], [[belleza]], [[arte]], [[doctrina_social_de_la_iglesia]], [[nueva_evangelización]], [[humor]], [[eutrapelia]], [[poesía]], [[vía_pulchritudinis]], [[educación]], [[formación]], [[artes_liberales]]
 
 ## Referencias
 
@@ -439,3 +529,5 @@ Esta fuente complementa los artículos sobre [[evangelización]], [[evangelizaci
 - Evangelization & Culture, Issue 13 (2022) — The Eucharist
 - Evangelization & Culture, Issue 14 (2022) — Joy
 - Evangelization & Culture, Issue 15 (2023) — Suffering
+- Evangelization & Culture, Issue 16 (2023) — Pope Benedict XVI
+- Evangelization & Culture, Issue 17 (2023) — Education

@@ -62,6 +62,16 @@ La razón es participante de la ley eterna en cuanto puede ordenar los actos hac
 - **Fe y razón**: dos órdenes de conocimiento distintos pero complementarios
 - **Recta razón** (*recta ratio*): la razón que obra conforme a la verdad y al bien
 
+### Según EAC-16 — Word on Fire Institute
+
+**La primacía del logos sobre el ethos (Roland Millare sobre Romano Guardini).** La tesis de Guardini sobre la primacía del logos («palabra», «razón», «sentido», «ser») sobre el ethos («ética», «acción», «hacer») tuvo un impacto muy significativo en la teología logos-céntrica de Joseph Ratzinger / Benedicto XVI [EAC-16, 08_minds.md]. En *El fin del mundo moderno*, Guardini presenta la modernidad como caracterizada por una subordinación del logos al ethos, que ha conducido a la autonomía de la política, la alienación del hombre, la reducción de la libertad a licencia y la entronización de la técnica.
+
+**Razón y significado frente a la tecnocracia (Guardini / Millare).** Guardini describe esta «nueva cultura» como «querida por el espíritu del hombre, construida abstractamente por sus propias manos» [EAC-16, 08_minds.md]. La autonomía y la licencia amenazan al hombre porque «él no tiene aún poder sobre su propio poder». La modernidad fractura el vínculo esencial entre lo visible y lo invisible, el cuerpo y el alma; para Guardini, la primera tarea de la formación litúrgica es que el hombre «se haga capaz de símbolo», lo que presupone la primacía del logos sobre la mera acción.
+
+**La influencia de Guardini en Ratzinger (Millare).** Millare identifica paralelismos notables entre Guardini y Benedicto XVI: ambos escribieron una tesis doctoral sobre san Buenaventura, ambos escribieron libros sobre la liturgia con el mismo título, ambos escribieron textos de eclesiología centrados en la comunión y reflexiones teológicas sobre Jesús [EAC-16, 08_minds.md]. La primacía del logos — la razón como fundamento del obrar — es «una clave importante para desbloquear la sinfonía teológica de Benedicto».
+
+**Fe no aislada y testimonio de los santos.** Ratzinger, siguiendo a Guardini, afirma que la fe no es un acto aislado: «No puedo construir mi propia fe personal en un diálogo privado con Jesús» [EAC-16, 08_minds.md]. «Nuestra mayor necesidad en el momento histórico presente es gente que haga creíble a Dios en este mundo mediante la fe iluminada que vive». La razón iluminada por la fe se encarna en el testimonio de los santos.
+
 ## Relaciones doctrinales
 
 Se relaciona con la [[fe]], la [[verdad]], la [[libertad]], la [[ley_natural]], la [[revelación]], la [[gracia]], la [[filosofía]], la [[teología]] y el [[conocimiento_de_dios]].
@@ -76,3 +86,4 @@ Se relaciona con la [[fe]], la [[verdad]], la [[libertad]], la [[ley_natural]], 
 - [Fides et Ratio, passim, especialmente §§4, 16, 22, 36-48, 83-84]
 - [ConcVatII, DV §5; GS §15; GE passim]
 - [SmTh Ia, q.79-82; Ia-IIae, q.90-108]
+- [EAC-16, 08_minds.md]

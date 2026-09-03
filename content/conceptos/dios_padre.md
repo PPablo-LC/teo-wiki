@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Dios Padre
 tags: ["dogmática"]
 
-timestamp: 2026-05-29
+timestamp: 2026-09-02
 description: "Dios Padre es la primera Persona de la Santísima Trinidad, principio sin principio, que engendra eternamente al Hijo y, con Él, espira al Espíritu Santo."
 ---
 # Dios Padre
 
 > Área: Dogmática
-> Última actualización: 2026-05-29
+> Última actualización: 2026-09-02
 
 ## Definición
 
@@ -36,6 +36,9 @@ El Denzinger recoge la forma romana del Símbolo Apostólico que profesa: «Creo
 
 «Creo en un solo Dios, Padre todopoderoso, Creador del cielo y de la tierra, de todo lo visible y lo invisible.» La fe de la Iglesia comienza confesando a Dios Padre como origen de todo, principio sin principio, de quien proceden el Hijo por generación eterna y el Espíritu Santo por espiración.
 
+### Según EAC-17 — Word on Fire Institute
+
+**El único Padre y la participación (Reginald Floeder, 23_soul_floeder.md).** Contra la confusión moderna que entiende la paternidad como mera proyección o figura cultural, Floeder insiste con radicalidad en que «solo hay un Padre: el Padre» — el Padre eterno que engendra al Hijo en el seno de la Trinidad. Toda paternidad humana, y de modo singular la del sacerdote, es únicamente *participación* en esta única paternidad divina. La estatura espiritual del padre se mide por su capacidad de ser hijo: «los que llegan a una celestial altura son los que primero aprenden a vivir como hijos», recibiendo de Dios lo que no pueden procurarse a sí mismos. La paternidad verdadera no se fabrica ni se produce, sino que se engendra «por vía de comunicación de la vida recibida de Dios». Esto da a la paternidad humana (y a la misión del sacerdote como «icono del Padre» en la persona de Cristo) un carácter radicalmente teocéntrico: el padre es puente hacia aquel que es el único Padre.
 
 ## Distinciones importantes
 
@@ -56,3 +59,4 @@ Se relaciona con la [[santísima_trinidad]], el [[persona_del_hijo|Hijo]] y el [
 - [CEC §232-267, §277-278, §294]
 - [Símbolo Niceno-Constantinopolitano]
 - [TPCr, Segunda Parte, Cap. I, Art. I (gracia santificante e inhabitación trinitaria)]
+- EAC-17, Reginald Floeder. «The Soul of Man: Christian Fatherhood as Participation in the Eternal Fatherhood of God», in *Evangelization & Culture, Issue 17 — Education* (Autumn 2023), Word on Fire Institute.

@@ -28,6 +28,16 @@ La imagen de la *dictadura* señala tres rasgos: (1) imposición — el relativi
 - Homilía pre-cónclave (18-IV-2005): definición canónica de la expresión; contraste entre fe adulta con raíces profundas y la marea de doctrinas; Cristo como medida del humanismo verdadero.
 - Discurso ante la Casa Blanca (16-IV-2008): complemento positivo — la libertad «no es solo un don sino una llamada a la responsabilidad personal»; su conservación exige virtud, autodisciplina y sacrificio por el bien común.
 
+### Según EAC-16 — Word on Fire Institute
+
+**La homilía *Pro Eligendo* en su contexto completo (Tod Worner / Fr. John LoCoco).** La expresión «dictadura del relativismo» fue pronunciada por Ratzinger el 18 de abril de 2005 en la homilía previa al cónclave. Worner reproduce el diagnóstico de Ratzinger: en la homilía, el cardenal estableció la «medida de la plenitud de Cristo» como estándar del cristiano adulto, Frente a los «vientos de doctrina» de Ef 4,14 —«llevados de aquí para allá por todo viento de doctrina»—, una descripción «muy actual» de la inmadurez espiritual [EAC-16, 03_midnight_oil.md]. LoCoco recuerda que Ratzinger yuxtapuso la dictadura del relativismo con la afirmación de que «lo único que perdura eternamente es el alma humana, la persona creada por Dios para la eternidad» [EAC-16, 19_soul.md].
+
+**Raíz de la dictadura: la inmadurez en la fe (Tod Worner).** La dictadura del relativismo no es solo un fenómeno cultural externo, sino que opera también dentro de la Iglesia cuando los fieles se comportan como niños en la fe. Ratzinger enumera los «muchos vientos de doctrina» que han zarandeado la barca del pensamiento cristiano: «del marxismo al liberalismo, hasta el libertinaje; del colectivismo al individualismo radical; del ateísmo a un vago misticismo religioso; del agnosticismo al sincretismo» [EAC-16, 03_midnight_oil.md]. Esta dispersión doctrinal es propia de la minoría de edad espiritual.
+
+**La respuesta: fe adulta como amistad con Cristo (Tod Worner).** Frente a la dictadura del relativismo, Ratzinger propone un objetivo distinto: «El Hijo de Dios, el hombre verdadero. Él es la medida del humanismo verdadero» [EAC-16, 03_midnight_oil.md]. La fe adulta no es la que sigue las modas y la última novedad, sino la «profundamente enraizada en la amistad con Cristo», que abre a todo lo bueno y ofrece un criterio para distinguir lo verdadero de lo falso. La ideología dura es reemplazada por una «ontología cálida»; la tiranía, por la amistad.
+
+**La dictadura como diagnóstico cultural (Bishop Robert Barron).** Barron sitúa la expresión en el contexto de la defensa de la razón: Ratzinger «resistió lo que llamó 'la dictadura del relativismo'» en un momento en que «muchos representantes de la cultura secular cuestionaban nuestra capacidad de conocer algo como verdadero» [EAC-16, 01_from_the_desk.md]. Su respuesta fue afirmar, en línea con la gran tradición católica, que ciertas verdades — morales, intelectuales y estéticas — pueden ser conocidas.
+
 ### Según Evangelization & Culture n.º 10 «Freedom» (EAC-10)
 
 - Tod Worner: la dictadura del relativismo opera mediante ideología y sus armas — censura, cancelación, adoctrinación —; frente a ella, la Iglesia católica como anti-ideología: acoge las preguntas difíciles (Balthasar), no busca dominar sino liberar del pecado.
@@ -57,3 +67,4 @@ La imagen de la *dictadura* señala tres rasgos: (1) imposición — el relativi
 - Worner, Tod. «Midnight Oil», *Evangelization & Culture* 10 (Winter 2021).
 - Scalia, Elizabeth. «The Liberated Mind in an Unfree Age», *Evangelization & Culture* 10 (Winter 2021).
 - Barron, Robert. «Contours of the Great Story», *Evangelization & Culture* 10 (Winter 2021).
+- [EAC-16, 01_from_the_desk.md, 03_midnight_oil.md, 19_soul.md]

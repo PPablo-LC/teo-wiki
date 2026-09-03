@@ -37,6 +37,18 @@ En este relato ficcional (Alex y Yvonne), Kreeft aborda:
 - **El amor como condición del sufrimiento:** «la única forma de vivir sin sufrimiento es vivir sin amor; porque amar significa entregar tu corazón, y ese corazón siempre será roto».
 - **Cristo como respuesta:** como en el libro de Job, «Dios no da respuestas a ninguna de las preguntas de Job porque Él es la respuesta. La respuesta es concreta, no abstracta: sé uno con Él, haz lo que Él hizo y ama como Él amó». «¿A quién iremos?» (Jn 6,68).
 
+### Según EAC-17 — Word on Fire Institute
+
+En la entrevista sobre su serie *Socrates' Children* [EAC-17, 09_spotlight_kreeft.md], Kreeft expone su visión de la filosofía y la educación:
+
+- **Filosofía como amor a la sabiduría:** «Filosofía», según quienes la inventaron y nombraron, es «el amor a la sabiduría», y sin sabiduría —el entendimiento de la verdad y la bondad en todas las cosas— toda la vida distintivamente humana regresa al nivel animal.
+- **Las ideas tienen consecuencias:** p. ej., «¡Vamos a intentar controlar esa cosa terrorífica que llamamos fuego!».
+- **Thomismo como filosofía perenne**: la filosofía que más ha perdurado, es más fundacional y es capaz de asimilar otras ramas (existencialismo, fenomenología, personalismo, filosofía analítica). La Iglesia ha recomendado constantemente la «dorada sabiduría» de Sto. Tomás.
+- **Razón y conciencia como profetas universales de Dios:** la razón, como la conciencia, es «invención e instrumento de Dios»; son los «profetas universales» de Dios. Al evangelizar se debe apelar a la autoridad común del interlocutor (la Biblia o el Corán según el caso), y a la razón común a toda la humanidad.
+- **El problema del mal y Romanos 8,28:** el uso de la razón sostiene la fe —como en *A Grief Observed* de [[c_s_lewis]]—; la razón «valida» el texto quizá más maravilloso y difícil de creer de la Escritura: «todas las cosas cooperan para el bien de los que aman a Dios».
+- **El verdadero experto conoce a los maestros reales:** «Buenas autoridades, 'expertos' y maestros siempre miran a sus superiores y los recomiendan». Una de las cosas más importantes que un maestro puede dar al estudiante es «dirigirlo hacia otros, mejores, maestros».
+- **La adoración eucarística como cumbre de la filosofía:** «no hay manera más poderosa de hacer filosofía que la adoración eucarística», pues la filosofía es amor a la sabiduría y la sabiduría ha de vivirse.
+
 ## Relevancia teológica
 
 Kreeft presenta el problema del mal no como una cuestión a resolver conceptualmente sino como una invitación a la unión con Cristo, que es la respuesta; vincula el sufrimiento, el amor, la [[libertad]] y el [[infierno]].
@@ -48,3 +60,4 @@ Kreeft presenta el problema del mal no como una cuestión a resolver conceptualm
 ## Referencias
 
 - EAC-15, archivo 14 (Peter Kreeft), *The Grand Inveigler*
+- EAC-17, *Evangelization & Culture, Issue 17 — Education* (Autumn 2023), Word on Fire Institute (09_spotlight_kreeft.md)

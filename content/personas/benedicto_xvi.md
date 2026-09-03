@@ -47,6 +47,20 @@ La reforma de 2010 significó un punto de inflexión en la respuesta de la Igles
 
 Mons. Munilla reconoce el precedente de Benedicto XVI en el uso de la imagen de la catedral: «sí que había visto a Benedicto XVI hacer un poco catequesis de los elementos de una catedral, eso sí, pero no referido al alma sacerdotal; eso me parece que es original» de León XIV. La conferencia se apoya así en esta tradición catequética, aplicándola a la vida interior del sacerdote [CIS, 2026].
 
+### Según EAC-16 — Word on Fire Institute
+
+El número especial *Evangelization & Culture, Issue 16 — Pope Benedict XVI* (verano de 2023) está íntegramente dedicado a su figura, su pensamiento y su legado, y lo retrata desde varias perspectivas convergentes:
+
+- **«El Newman del siglo XX» y Doctor de la Iglesia en potencia** — Rowland afirma que su contribución a la resolución de numerosas crisis teológicas justificará su declaración como [[doctores_de_la_iglesia|Doctor de la Iglesia]], y Fessio lo ve como candidato futuro [EAC-16, 15, 12].
+- **Hombre del Concilio** — perito del [[concilio_vaticano_ii]], «equilibrado y matizado», que encarnó la renovación del diálogo entre la fe y el mundo contemporáneo; su vida estuvo centrada en «una sola cosa: Jesucristo» [EAC-16, 01, 07].
+- **Homo liturgicus** — nació y fue bautizado en la Vigilia Pascual y murió en la vigilia de María Madre de Dios; «por nacimiento y por vocación y por sus escritos, fue homo liturgicus» [EAC-16, 12].
+- **Teólogo de la comunión** — su *leitmotiv* unificador es la [[comunión]]: «en Dios, persona significa relación»; la Trinidad como fundamento; la Iglesia como proceso de unificación vertical y horizontal; la Eucaristía e Iglesia mutuamente constitutivas [EAC-16, 13].
+- **Defensor de la fe y de la razón** — la inteligibilidad del mundo como argumento de Dios; Jesús como [[cristo|Logos]] tiende un puente con la religión, la filosofía y la ciencia; la fe como relación con Cristo y no ideología [EAC-16, 01, 05].
+- **La «[[dictadura_del_relativismo]]»** — homilía *Pro Eligendo* 2005: la «medida de la plenitud de Cristo» frente a los «vientos de doctrina» (Ef 4,14) y el relativismo que no reconoce nada como definitivo [EAC-16, 03, 19].
+- **Sencillez y libertad interior** — el «sencillo, humilde trabajador en la viña del Señor», reticente al papado («llevado a la guillotina»), frente a la imagen mediática del «Rottweiler» y el «Gran Inquisidor» [EAC-16, 20, 21].
+- **Purificación de la Iglesia** — denunció la «suciedad» (*filth*) en la Iglesia, especialmente en el sacerdocio (Vía Crucis 2005), y su renuncia papal (2013) fue un acto de libertad y honestidad [EAC-16, 21].
+- **Legado escrito** — sus escritos y discursos son «un recurso inmenso para quienes buscan sentido»; su vida adulta, de humildad y humor, fue un testimonio de la verdad [EAC-16, 15, 21].
+
 ## Analizado para
 
 - [[auténtica_día_3_aporta_al_mundo_con_tus_talentos]] — convergencia en cita «Cada persona lleva consigo un proyecto de Dios» como expresión de la providencia divina
@@ -61,3 +75,4 @@ Mons. Munilla reconoce el precedente de Benedicto XVI en el uso de la imagen de 
 - Benedicto XVI, *Audiencia general sobre la reforma de las normas*, 15 septiembre 2010.
 - Benedicto XVI, *Carta circular a los Obispos sobre los casos de abuso*, 2011.
 - [CIS, «La catedral interior del sacerdote», 2026]
+- EAC-16, *Evangelization & Culture, Issue 16 — Pope Benedict XVI* (Summer 2023), Word on Fire Institute.

@@ -37,6 +37,16 @@ Juan Pablo II aborda la comunión de los santos en los Capítulos XXIII-XXIV, en
 
 El Papa habla de la oración por los difuntos como expresión del vínculo viviente entre la Iglesia militante y la Iglesia purgante. La comunión de los santos es la expresión de la fe en Cristo, «que es la única fuente de vida y de santidad para todos». En el contexto de las religiones no cristianas, menciona que la veneración de los antepasados en las religiones animistas puede ser «una cierta preparación para la fe cristiana en la comunión de los santos, por la que todos los creyentes —vivos o muertos— forman una única comunidad, un único cuerpo» (UDE, Cap. XIII, XXIII-XXIV).
 
+### Según EAC-16 — Word on Fire Institute
+
+**El cielo como «sociedad abierta de la comunión de los santos» (Dr. Richard DeClue / Ratzinger).** La escatología de Ratzinger es inherentemente comunitaria: «El cielo es ajeno al aislamiento. Es la sociedad abierta de la comunión de los santos, y de este modo la consumación de toda comunión humana» [EAC-16, 13_feature_declue.md]. Esta comunión no compite «con la perfecta revelación del rostro de Dios, sino que, por el contrario, es su consecuencia misma»: al estar unidos con Dios, estamos unidos con todos los demás que están unidos con Dios, reflejando la perfecta comunión trinitaria.
+
+**El hombre no se salva solo (DeClue / Ratzinger).** La salvación individual es inseparable de la dimensión comunitaria: «La salvación del individuo es completa y entera solo cuando la salvación del cosmos y de todos los elegidos ha llegado a su plenitud. Porque los redentos no están simplemente adyacentes unos a otros en el cielo. Más bien, en su ser juntos como un solo Cristo, son el cielo» [EAC-16, 13_feature_declue.md]. La comunión de los santos es la expresión de esta realidad: el cielo es personal e interpersonal, individual y relacional.
+
+**La comunión de los santos como artículo de fe (DeClue).** DeClue sitúa la comunión de los santos en la secuencia lógica de la teología de Ratzinger: fundada en la Trinidad, centrada en Cristo, con la Iglesia como efecto principal y la comunión eterna de los santos como «objetivo último» [EAC-16, 13_feature_declue.md]. «Incluso cuando han cruzado el umbral del mundo de más allá, los seres humanos aún pueden cargarse mutuamente y soportar las cargas de los demás».
+
+**El carácter comunitario de la inmortalidad humana.** Ratzinger insiste en que «la resurrección está esperada en el "Último Día", al final de la historia, y en compañía de toda la humanidad, lo que indica el carácter comunitario de la inmortalidad humana, que se relaciona con la humanidad entera» [EAC-16, 13_feature_declue.md]. «La persona es constitutivamente relacional; si ha de vivir, esta dimensión no puede excluirse».
+
 ## Distinciones importantes
 
 - No es solo comunión entre santos canonizados, sino entre todos los bautizados en estado de gracia
@@ -62,3 +72,4 @@ El Papa habla de la oración por los difuntos como expresión del vínculo vivie
 - CEC §946-962
 - CEC §1474-1477
 - SmTh, Suppl. q.71 a.1-2, q.72 a.1-3
+- [EAC-16, 13_feature_declue.md]

@@ -37,6 +37,13 @@ James K. Lee, en su artículo sobre San Agustín y la era digital, destaca la en
 
 Mons. Munilla cita a San Agustín en dos momentos clave de la conferencia. Al hablar del doble proceso de secularización y nueva inquietud espiritual: «Nos hiciste, Señor, para ti, y nuestro corazón está inquieto hasta que no descansa en ti» (Confesiones I,1) —y constata que la frase se muestra «súper verdadera» ante el resurgir de la búsqueda religiosa, especialmente entre jóvenes catecúmenos. Y al tratar el despojamiento del yo propio del umbral: «Yo soy yo, pero no soy mío, soy de Jesús», frase que resume la desposesión que exigen los consejos evangélicos. Ambas citas subrayan la doctrina agustiniana del corazón inquieto y de la pertenencia radical a Cristo [CIS, 2026].
 
+### Según Evangelization & Culture n.º 16 «Pope Benedict XVI» (EAC-16)
+
+En el número dedicado a Benedicto XVI (verano de 2023), Agustín es invocado en dos registros:
+
+- **La eclesiología agustiniana de Ratzinger**: Rowland sintetiza que el núcleo del legado de Ratzinger es «una eclesiología agustiniana fuertemente influida por Henri de Lubac y Hans Urs von Balthasar» — es decir, una concepción de la Iglesia como [[comunión]] y [[iglesia_cuerpo_místico|Cuerpo de Cristo]], no como institución secularizada [EAC-16, 15]. También DeClue subraya que la teología trinitaria de Ratzinger (la persona como «relación») se apoya en la doctrina trinitaria de los Padres y de Agustín [EAC-16, 13].
+- **La justicia y el Estado**: Ratzinger glosa a Agustín (Ciudad de Dios) en su discurso al Bundestag (2008): «sin justicia, ¿qué es el Estado sino una gran banda de ladrones?» — la justicia y los derechos humanos fundados en la fe en un Dios Creador; «una vez que aboláis a Dios, el gobierno se convierte en el Dios» (Chesterton) [EAC-16, 03].
+
 ## Obras principales
 
 - Confesiones
@@ -56,3 +63,4 @@ Mons. Munilla cita a San Agustín en dos momentos clave de la conferencia. Al ha
 - Denzinger D-128, D-129-141, D-173a (Enchiridion Symbolorum)
 - [EAC-3, 17_lee_self_love.md] (James K. Lee: San Agustín y el amor propio en la era digital)
 - [CIS, «La catedral interior del sacerdote», 2026]
+- EAC-16, *Evangelization & Culture, Issue 16 — Pope Benedict XVI* (Summer 2023), Word on Fire Institute (Rowland, DeClue).

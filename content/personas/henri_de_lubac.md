@@ -25,6 +25,10 @@ En *Catholicism: Christ and the Common Destiny of Man* (citado extensamente por 
 
 Richard De Clue («The Genius of Henri de Lubac») destaca la aportación eucarística de de Lubac en el marco del *ressourcement*: la Eucaristía como raíz de la Iglesia y la íntima conexión entre el sacramento del Cuerpo y la Sangre y el Cuerpo Místico de Cristo. La lectura de De Clue subraya cómo de Lubac recupera a los Padres para mostrar que «la Eucaristía hace la Iglesia» — una eclesiología y una ética fundadas en el misterio eucarístico, en continuidad con la tesis de *Catholicism* sobre el carácter social de la salvación. Véase [[eucaristía]] e [[iglesia_cuerpo_místico]].
 
+### Según Evangelization & Culture n.º 16 «Pope Benedict XVI» (EAC-16)
+
+En el número dedicado a Benedicto XVI (verano de 2023), de Lubac aparece como uno de los **mentores intelectuales de Joseph Ratzinger** y fuente de su eclesiología. Rowland resume que en el núcleo del vasto legado de Ratzinger hay «una eclesiología agustiniana fuertemente influida por Henri de Lubac y Hans Urs von Balthasar» [EAC-16, 15]. Fessio lo nombra entre los maestros de Ratzinger junto a Balthasar [EAC-16, 12]. A través de la noción de la Iglesia como «proceso dinámico de unificación vertical y horizontal» y de la [[eclesiología_de_la_comunión]], Ratzinger prolonga la intuición de de Lubac sobre la naturaleza esencialmente social y eucarística de la salvación y de la Iglesia. Véase [[eclesiología_de_la_comunión]] y [[iglesia_cuerpo_místico]].
+
 ## Relaciones doctrinales
 
 [[visión_beatífica]], [[comunión_de_los_santos]], [[cuerpo_místico_de_cristo]], [[theosis]], [[novísimos]], [[orígenes_de_alejandría]]
@@ -40,5 +44,6 @@ Richard De Clue («The Genius of Henri de Lubac») destaca la aportación eucar�
 
 - Healy Jr., Nicholas J. «The Eucharist and the Beatific Vision», en *Evangelization & Culture* 11 (Spring 2022).
 - De Clue, Richard. «The Genius of Henri de Lubac», en *Evangelization & Culture* 13 (Autumn 2022).
+- EAC-16, *Evangelization & Culture, Issue 16 — Pope Benedict XVI* (Summer 2023), Word on Fire Institute (Rowland, Fessio).
 - de Lubac, Henri. *Catholicism: Christ and the Common Destiny of Man*. Ignatius Press, 1988.
 - de Lubac, Henri. *The Drama of Atheist Humanism*. Ignatius Press, 1995.

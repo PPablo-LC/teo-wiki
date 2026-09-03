@@ -2,13 +2,13 @@
 type: Concepto Teológico
 title: Scientismo
 tags: ["apologética", "razón_y_fe", "cultura"]
-timestamp: 2026-08-24
+timestamp: 2026-09-02
 description: "Creencia de que la ciencia empírica es el único medio válido para descubrir todo conocimiento nuevo; una ideología que excede los límites propios del método científico."
 ---
 # Scientismo
 
 > Área: Apologética / Razón y fe / Cultura
-> Última actualización: 2026-08-24
+> Última actualización: 2026-09-02
 
 ## Definición
 
@@ -30,6 +30,12 @@ Stacy Trasancos dedica al scientismo un ensayo completo con la tesis del P. Stan
 
 **El remedio: «criar» el scientismo.** La tarea del científico católico es «criar al scientismo»: llevar la ciencia moderna de vuelta a su unidad con la filosofía y la teología, de modo maduro. La respuesta ante quien dice que la evolución prueba que no hay Dios no es disputar la evolución —eso sería sucumbir al propio scientismo— sino afirmar: «La naturaleza es creación. La ciencia es el estudio de la obra de las manos de Dios. Las teorías científicas son apenas nuestro modo de intentar comprender la mente de Dios» [EAC-2].
 
+### Según EAC-17 — Word on Fire Institute
+
+**El scientismo como nueva «religión» totalitaria (Augusto Del Noce, 06_stacks.md).** Del Noce identifica en la irreligión moderna que sigue a la secularización una nueva forma de totalitarismo espiritual: el hombre posmoderno conserva la fe en la ciencia, en la técnica y en la sexualidad como sustitutos religiosos. El triunfo del pensamiento científico-tecnológico sobre el filosófico niega la posibilidad de la verdad metafísica y reduce la razón a instrumento técnico, deviniendo así una ideología que «matematiza» la vida y despoja al hombre de su vocación contemplativa. Su concepto de «neo-modernismo» (continuación del modernismo posconciliar) radicaliza este pinnacle: la fe se subordina y se entiende solo en términos de los poderes dominantes — entre ellos, la ciencia y la técnica.
+
+**El relativismo como reducto del scientismo (Andy Kaczor, 15_feature_kaczor.md).** Kaczor muestra cómo el relativismo defiende tesis sobre la realidad (que no hay verdad objetiva) que no pueden establecerse científicamente: son «enunciados autodefensivos» que se aplican a todo menos a sí mismos. El relativismo, que pretende negar la verdad, es en sí mismo una pretensión de verdad; y su dogma paralizante —«no se puede conocer la verdad acerca del bien y del mal»— refuerza, desde otra vía, el mismo reduccionismo del scientismo: que la objetividad pertenece solo al reino empírico y no al orden moral y metafísico.
+
 ## Distinciones importantes
 
 - **Ciencia vs. scientismo**: la ciencia es estudio legítimo de la creación; el scientismo es una ideología que absolutiza ese método
@@ -47,3 +53,4 @@ Se relaciona con [[fe_y_razón]], [[idolatría]], [[alma_humana]], [[libre_albed
 ## Referencias
 
 - [EAC-2, 10_science_raising_scientism.md]
+- EAC-17, *Evangelization & Culture, Issue 17 — Education* (Autumn 2023), Word on Fire Institute (Del Noce, 06_stacks.md; Kaczor, 15_feature_kaczor.md)
