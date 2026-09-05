@@ -14,7 +14,7 @@ tags: ["resumen", "razón", "fanatismo_religioso", "fe_vs_razón", "secta"]
 
 - [[razón]] — La razón como salvaguardia contra el error religioso.
 - [[fanatismo_religioso]] — El fanatismo como locura continua.
-- [[fe_vs_razón]] — Creer en absurdos lleva a cometer atrocidades.
+- [[fe_y_razón]] — Creer en absurdos lleva a cometer atrocidades.
 - [[secta]] — Secta y error como sinónimos.
 
 ## Contenido

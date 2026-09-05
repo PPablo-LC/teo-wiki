@@ -70,14 +70,14 @@ La Constitución sobre la Sagrada Liturgia (*Sacrosanctum Concilium*, 7) estable
 
 ## Relaciones doctrinales
 
-La [[palabra_de_dios]] es inseparable de la [[encarnación]: la Palabra eterna del Padre se hace carne en Cristo, y esa misma Palabra sigue haciéndose presente en la Escritura y los sacramentos. La relación con la [[Escritura_sagrada]] es de continuidad orgánica: la Escritura es la transmisión escrita de la Palabra de Dios.
+La [[palabra_de_dios]] es inseparable de la [[encarnación]: la Palabra eterna del Padre se hace carne en Cristo, y esa misma Palabra sigue haciéndose presente en la Escritura y los sacramentos. La relación con la [[sagrada_escritura]] es de continuidad orgánica: la Escritura es la transmisión escrita de la Palabra de Dios.
 
 La [[exégesis_católica]] se ocupa de la interpretación científica de la Escritura a la luz de la Tradición y del Magisterio. La [[interpretación_bíblica]], en su dimensión más amplia, incluye también la lectura espiritual y la predicación.
 
 ## Ver también
 
 - [[encarnación]]
-- [[Escritura_sagrada]]
+- [[sagrada_escritura]]
 - [[exégesis_católica]]
 - [[interpretación_bíblica]]
 

@@ -3,40 +3,33 @@ type: ResumenFuente
 title: "II. Análisis del fenómeno de los abusos en la Congregación"
 fuente: informe-comision-abusos-es-1941-2019
 capítulo: 2
-timestamp: 2026-08-24
-description: "Resumen de 'II. Análisis del fenómeno de los abusos en la Congregación' — informe-comision-abusos-es-1941-2019"
-tags: ["resumen", "informe-comision-abusos-es-1941-2019"]
+timestamp: 2026-09-05
+description: "Estructura del análisis del fenómeno: etapas en la forma de afrontar los abusos, estadísticas globales de sacerdotes y de víctimas, lugares, situación judicial, cadenas de abuso y abuso de autoridad."
+tags: ["resumen", "informe_1941_2019", "abuso_sexual", "análisis_del_fenómeno"]
 ---
 
 # II. Análisis del fenómeno de los abusos en la Congregación
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[informe_1941_2019]] — Informe sobre el fenómeno del abuso sexual de menores en la Congregación
+- [[abuso_sexual_de_menores]] — Fenómeno estudiado en el informe
+- [[cadena_de_abuso]] — Repetición del abuso en víctimas que a su vez abusan
+- [[0abusos.org]] — Canal público de denuncias y datos estadísticos
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `01_ii_análisis_del_fenómeno_de_los_abusos_en_la_congr.md`
+El apartado **II. Análisis del fenómeno de los abusos en la Congregación** presenta la estructura con la que se dimensiona el fenómeno del abuso sexual de menores desde la fundación en 1941 hasta diciembre de 2019:
 
+1. **Etapas en la forma de afrontar los abusos en la Congregación**
+2. **Estadísticas globales de abusos de menores de parte de sacerdotes de la Congregación**
+   - a) Las víctimas
+   - b) Sacerdotes que cometieron abusos de menores
+   - c) Los principales lugares en los que ocurrieron los abusos
+   - d) Situación judicial (civil y eclesial) de los casos
+   - e) Las cadenas de abuso
+   - f) El abuso de autoridad y los superiores
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+## Referencia original
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | II. Análisis del fenómeno de los abusos en la Congregación |
-
-
-## Secciones incluidas
-
+📄 Fuente original: `01_ii_análisis_del_fenómeno_de_los_abusos_en_la_congr.md`

@@ -12,7 +12,7 @@ tags: ["resumen", "fe_vs_razón", "evolución", "ignorancia_religiosa", "ateísm
 
 ## Conceptos básicos referenciados en este capítulo
 
-- [[fe_vs_razón]] — El conocimiento como opuesto a la fe religiosa.
+- [[fe_y_razón]] — El conocimiento como opuesto a la fe religiosa.
 - [[evolución]] — La evolución como base intelectual del ateísmo.
 - [[ignorancia_religiosa]] — La ignorancia como condición de la religión.
 - [[ateísmo]] — El ateísmo como postura intelectual.

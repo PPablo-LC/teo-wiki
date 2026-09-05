@@ -12,7 +12,7 @@ tags: ["resumen", "fe_vs_razón", "educación_religiosa", "ateísmo_ilustrado", 
 
 ## Conceptos básicos referenciados en este capítulo
 
-- [[fe_vs_razón]] — La fe como creencia sin evidencia, opuesta al razonamiento.
+- [[fe_y_razón]] — La fe como creencia sin evidencia, opuesta al razonamiento.
 - [[educación_religiosa]] — La educación religiosa como condicionamiento desde la infancia.
 - [[ateísmo_ilustrado]] — El ateísmo como resultado de la ilustración y el pensamiento crítico.
 - [[inmortalidad_del_alma]] — La inmortalidad del alma como creencia cuestionada.

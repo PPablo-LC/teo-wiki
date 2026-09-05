@@ -16,7 +16,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[don]] — la hermenéutica del don arraigada en el amor
 - [[inocencia_originaria]] — el misterio de la inocencia antes del pecado
 - [[gracia]] — la gracia como comunicación de la santidad
-- [[felicidad]] — la felicidad como arraigarse en el amor
+- [[felicidad_humana]] — la felicidad como arraigarse en el amor
 - [[justicia_originaria]] — el estado del hombre antes del pecado original
 - [[vergüenza]] — la inmunidad originaria de la vergüenza por efecto del amor
 - [[desnudez_originaria]] — el Gén 2, 25 como huella de la inocencia

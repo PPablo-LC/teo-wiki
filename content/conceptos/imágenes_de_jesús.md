@@ -55,11 +55,11 @@ Cabestrero dedica el Capítulo II de su obra al análisis exhaustivo de las imá
 
 ## Relaciones doctrinales
 
-Las imágenes de Jesús se relacionan con [[imagen_vital_de_jesús]] (la representación interior que condiciona la fe), [[ídolo]] (la distorsión de la imagen en sustituto de la persona), [[encarnación]] (Jesús como imagen de Dios visible), [[conocimiento_de_jesucristo]] (el proceso de conocimiento que las imágenes condicionan), [[seguimiento_de_cristo]] (la respuesta que las imágenes estimulan o dificultan), [[espíritu_santo]] (el que corrige y purifica las imágenes) y [[arte_sacro]] (la expresión artística de las imágenes).
+Las imágenes de Jesús se relacionan con [[imagen_vital_de_jesús]] (la representación interior que condiciona la fe), [[idolatría]] (la distorsión de la imagen en sustituto de la persona), [[encarnación]] (Jesús como imagen de Dios visible), [[conocimiento_de_jesucristo]] (el proceso de conocimiento que las imágenes condicionan), [[seguimiento_de_cristo]] (la respuesta que las imágenes estimulan o dificultan), [[espíritu_santo]] (el que corrige y purifica las imágenes) y [[arte_sacro]] (la expresión artística de las imágenes).
 
 ## Ver también
 
-[[imagen_vital_de_jesús]], [[ídolo]], [[encarnación]], [[conocimiento_de_jesucristo]], [[seguimiento_de_cristo]], [[arte_sacro]]
+[[imagen_vital_de_jesús]], [[idolatría]], [[encarnación]], [[conocimiento_de_jesucristo]], [[seguimiento_de_cristo]], [[arte_sacro]]
 
 ## Referencias
 

@@ -48,13 +48,13 @@ El autor presenta la competencia del magisterio como:
 ## Relaciones doctrinales
 
 - [[magisterio]] — El magisterio como autoridad en materia moral
-- [[infallibilidad]] — Los límites de la infalibilidad
+- [[infalibilidad]] — Los límites de la infalibilidad
 - [[conciencia_moral]] — La conciencia debe formarse con el magisterio
 
 ## Ver también
 
 - [[magisterio]]
-- [[infallibilidad]]
+- [[infalibilidad]]
 - [[conciencia_moral]]
 
 ## Referencias

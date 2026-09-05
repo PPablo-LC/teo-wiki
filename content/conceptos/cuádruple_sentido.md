@@ -41,11 +41,11 @@ Sin embargo, la erosión nominalista moderna —particularmente desde el nominal
 
 ## Relaciones doctrinales
 
-El cuádruple sentido se articula directamente con la [[interpretación_bíblica]], que es el proceso hermenéutico del que esta doctrina constituye la arquitectura teórica. Se vincula con la [[exégesis_católica]] como disciplina que aplica estos principios. Se relaciona también con la [[escritura_sagrada]] como objeto de interpretación, y con la tradición viva de la Iglesia que custodia y transmite la plenitud del sentido de los textos bíblicos.
+El cuádruple sentido se articula directamente con la [[interpretación_bíblica]], que es el proceso hermenéutico del que esta doctrina constituye la arquitectura teórica. Se vincula con la [[exégesis_católica]] como disciplina que aplica estos principios. Se relaciona también con la [[sagrada_escritura]] como objeto de interpretación, y con la tradición viva de la Iglesia que custodia y transmite la plenitud del sentido de los textos bíblicos.
 
 ## Ver también
 
-[[interpretación_bíblica]], [[exégesis_católica]], [[escritura_sagrada]], [[nominalismo]], [[lectura_espiritual]]
+[[interpretación_bíblica]], [[exégesis_católica]], [[sagrada_escritura]], [[nominalismo]], [[lectura_espiritual]]
 
 ## Referencias
 

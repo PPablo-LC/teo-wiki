@@ -47,13 +47,13 @@ El autor presenta las tres categorías como:
 ## Relaciones doctrinales
 
 - [[magisterio]] — El magisterio como fuente de autoridad
-- [[infallibilidad]] — La infalibilidad limitada a las verdades reveladas
+- [[infalibilidad]] — La infalibilidad limitada a las verdades reveladas
 - [[conciencia_moral]] — La conciencia debe formarse con las enseñanzas del magisterio
 
 ## Ver también
 
 - [[magisterio]]
-- [[infallibilidad]]
+- [[infalibilidad]]
 - [[conciencia_moral]]
 
 ## Referencias

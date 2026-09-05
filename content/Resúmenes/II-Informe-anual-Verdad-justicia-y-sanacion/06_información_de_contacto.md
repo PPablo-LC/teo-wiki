@@ -3,40 +3,42 @@ type: ResumenFuente
 title: "Información de contacto"
 fuente: II-Informe-anual-Verdad-justicia-y-sanacion
 capítulo: 6
-timestamp: 2026-08-24
-description: "Resumen de 'Información de contacto' — II-Informe-anual-Verdad-justicia-y-sanacion"
-tags: ["resumen", "ii-informe-anual-verdad-justicia-y-sanacion"]
+timestamp: 2026-09-03
+description: "Canales oficiales de denuncia y atención: web institucional 0abusos.org/denuncias, canal independiente Eshmá (eshma.eus, escuchamos@eshma.eus, +34 615 26 36 99 WhatsApp/Telegram), retroalimentación informe (ceroabusos@legionaries.org), prensa (asmith@legionaries.org, +39 328 987 26 15)."
+tags: ["resumen", "espiritualidad_legionaria", "informe_anual", "vjys_ii", "canales_denuncia", "eshma", "contacto_institucional"]
 ---
 
 # Información de contacto
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[canales_denuncia]] — Vías institucionales e independientes para reportar abusos
+- [[eshma]] — Institución independiente atención víctimas (web, email, teléfono/WhatsApp/Telegram)
+- [[0abusos.org]] — Portal oficial Congregación para denuncias, informes, estándares, acreditación
+- [[transparencia_institucional]] — Publicación de contactos para accesibilidad y rendición cuentas
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `07_contacto.md`
+Listado de **canales oficiales** para denuncias, atención a víctimas, retroalimentación y prensa:
 
+**Canales institucionales de denuncia:**
+- Web: **https://www.0abusos.org/denuncias/**
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**Canal independiente de atención a víctimas (Eshmá):**
+- Web: **eshma.eus**
+- Email: **escuchamos@eshma.eus**
+- Teléfono / WhatsApp / Telegram: **+34 615 26 36 99**
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Información de contacto |
+**Retroalimentación sobre el II Informe Anual:**
+- Email: **ceroabusos@legionaries.org**
 
+**Contacto de prensa:**
+- Email: **asmith@legionaries.org**
+- Teléfono: **+39 328 987 26 15**
 
-## Secciones incluidas
+**Portales de referencia:**
+- **0abusos.org** | **0abuse.org**
 
+## Referencia original
+
+📄 Fuente original: `07_contacto.md` (línea 1–11)

@@ -25,7 +25,7 @@ tags: ["resumen", "avisos espirituales", "teología_mística", "san_juan_de_la_c
 - [[voluntad_de_dios]] — negar la propia voluntad, dar a Dios lo que pide
 - [[matrimonio_espiritual]] — tomar a Dios por esposo y amigo
 - [[unión_transformante]] — «Yéndome yo por doquiera contigo»
-- [[purgativa]] — purificar el alma de posesiones extrañas
+- [[vía_purgativa]] — purificar el alma de posesiones extrañas
 - [[fe]] — Dios inaccesible: no reparar en comprender y sentir
 - [[juicio_particular]] — dar cuenta de toda palabra y pensamiento
 - [[vocación]] — llamados muchos, escogidos pocos
@@ -72,7 +72,7 @@ El autor declara que, careciendo de la obra y virtud que sus dichos enseñan, lo
 
 **Sobre la misericordia y la justicia divina (§47-48):** Dios vuelve con alegría y amor a levantar al que le ofende, y el hombre no vuelve a honrar al que le enoja ([[misericordia_de_dios]]). Si una centella de la justicia divina tanto hace en el príncipe mortal, «¿qué hará tu omnipotente justicia sobre el justo y el pecador?» ([[justicia_divina]]).
 
-**Sobre la purificación y la presencia de Dios (§49-53):** Si se purifica el alma de posesiones extrañas y apetitos, se entienden las cosas en espíritu ([[purgativa]]). «No eres tú extraño a quien no se extraña contigo» ([[presencia_de_dios]]). Tiene vencidas todas las cosas quien ni el gusto le mueve a gozo ni el desabrimiento a tristeza. Para el santo recogimiento «no has de venir admitiendo sino negando». «Yéndome yo, Dios mío, por doquiera contigo» ([[unión_transformante]]).
+**Sobre la purificación y la presencia de Dios (§49-53):** Si se purifica el alma de posesiones extrañas y apetitos, se entienden las cosas en espíritu ([[vía_purgativa]]). «No eres tú extraño a quien no se extraña contigo» ([[presencia_de_dios]]). Tiene vencidas todas las cosas quien ni el gusto le mueve a gozo ni el desabrimiento a tristeza. Para el santo recogimiento «no has de venir admitiendo sino negando». «Yéndome yo, Dios mío, por doquiera contigo» ([[unión_transformante]]).
 
 **Sobre la perfección (§54-58):** No llega a la perfección quien no procura satisfacerse con nonada, hasta que la concupiscencia natural y espiritual estén contentas en vacío; entonces el [[amor_de_dios]] está casi siempre en acto ([[perfección_cristiana]]). Como Dios es inaccesible, no reparar en lo que las potencias comprenden ni el sentido siente ([[fe]]). El alma que no sacude el cuidado y apaga el apetito camina como el que tira el carro cuesta arriba. No es voluntad de Dios que el alma se turbe; el alma del perfecto «se goza en lo que se pena la imperfecta» ([[paz_interior]]). El camino de la vida requiere «más mortificación de la voluntad que mucho saber» ([[voluntad]]).
 

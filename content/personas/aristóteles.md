@@ -39,7 +39,7 @@ EAC-3, 21_peripheries_aristotle.md (Matt Nelson) analiza la relevancia de la ét
 
 ## Ver también
 
-[[virtud]], [[eudaimonía]], [[tomás_de_aquino]], [[ética]], [[felicidad]]
+[[virtud]], [[eudaimonía]], [[tomás_de_aquino]], [[ética]], [[felicidad_humana]]
 
 ## Referencias
 

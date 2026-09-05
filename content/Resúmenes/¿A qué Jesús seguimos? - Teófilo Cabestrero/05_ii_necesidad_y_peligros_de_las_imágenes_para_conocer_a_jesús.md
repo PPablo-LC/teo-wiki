@@ -14,7 +14,7 @@ tags: ["resumen", "a que jesus seguimos"]
 
 - [[confesión_de_pedro]] — Cesarea de Filipo: «Ponte detrás de mí, Satanás»
 - [[imagen_vital_de_jesús]] — imágenes inevitables, necesarias y peligrosas
-- [[ídolo]] — la absolutización de las imágenes relativas
+- [[idolatría]] — la absolutización de las imágenes relativas
 - [[cruz]] — rasgo esencial que no puede faltar: el Siervo sufriente
 - [[espíritu_santo]] — «el Espíritu, exegeta de Jesús» (von Balthasar)
 

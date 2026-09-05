@@ -1,42 +1,35 @@
 ---
 type: ResumenFuente
-title: "5. Estadísticas globales de abusos de menores por parte de seminaristas de la Congregación, aplicando los criterios de 'Proteger y sanar'"
+title: "5. Estadísticas globales de abusos de menores por parte de seminaristas de la Congregación, aplicando los criterios de \"Proteger y sanar\""
 fuente: informe-comision-abusos-es-1941-2019
 capítulo: 6
-timestamp: 2026-08-24
-description: "Resumen de '5. Estadísticas globales de abusos de menores por parte de seminaristas de la Congregación, aplicando los criterios de 'Proteger y sanar'' — informe-comision-abusos-es-1941-2019"
-tags: ["resumen", "informe-comision-abusos-es-1941-2019"]
+timestamp: 2026-09-05
+description: "Actualización 2020 de las estadísticas de abusos por parte de seminaristas de la Congregación según los criterios de 'Proteger y sanar': 7 casos confirmados de los 11 que llegaron al sacerdocio."
+tags: ["resumen", "informe_1941_2019", "abuso_sexual", "seminaristas", "proteger_y_sanar"]
 ---
 
 # 5. Estadísticas globales de abusos de menores por parte de seminaristas de la Congregación, aplicando los criterios de "Proteger y sanar"
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[informe_1941_2019]] — Informe sobre el fenómeno del abuso sexual de menores en la Congregación
+- [[proteger_y_sanar]] — Criterios aplicados al estudio de los casos
+- [[abuso_sexual_de_menores]] — Fenómeno estudiado en el informe
+- [[0abusos.org]] — Canal público con los gráficos estadísticos actualizados
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `05_5_estadísticas_globales_de_abusos_de_menores_por.md`
+De los legionarios que el Informe 1941-2019 individuó como legionarios que habrían abusado siendo novicios o religiosos en formación, el **81,08% no llegaron a ordenarse sacerdotes** en la Congregación.
 
+Durante 2020 se han estudiado ulteriormente, según los criterios de "Proteger y sanar", los casos que sí llegaron al sacerdocio, y se ha concluido cuanto sigue:
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+- En **uno de los casos**, un sacerdote fallecido, la persona que en su momento informó aclaró, después de la publicación del Informe 1941-2019, que no se trató de un abuso sexual.
+- En **tres de los casos**, que el Informe 1941-2019 señaló como «bajo investigación», los respectivos consejos de revisión llegaron a la conclusión de que los hechos fueron **transgresiones de límites y no abusos sexuales**.
+- **Tres casos siguen en proceso de investigación.**
+- Los **restantes siete casos han sido confirmados**. De estos, uno de los miembros ha fallecido, dos están sin ministerio sacerdotal público, uno no está bajo la jurisdicción de la Congregación y tres han dejado el sacerdocio. **Dos de estos siete han abusado también siendo sacerdotes.**
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | 5. Estadísticas globales de abusos de menores por parte de seminarista |
+La actualización de los gráficos estadísticos se puede encontrar en **0abusos.org**.
 
+## Referencia original
 
-## Secciones incluidas
-
+📄 Fuente original: `05_5_estadísticas_globales_de_abusos_de_menores_por.md`

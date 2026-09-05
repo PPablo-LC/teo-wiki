@@ -1,45 +1,38 @@
 ---
 type: ResumenFuente
-title: "Capítulo 5"
+title: "Capítulo 5: Casas de formación"
 fuente: Sapientia Christi - Ratio studiorum
 capítulo: 10
-timestamp: 2026-08-24
-description: "Resumen de 'Capítulo 5' — Sapientia Christi - Ratio studiorum"
-tags: ["resumen", "sapientia christi - ratio studiorum"]
+timestamp: 2026-09-06
+description: "Las casas de formación de la Congregación: centros vocacionales, noviciados, centros de humanidades y de filosofado y teologado, con exigencias de ambiente, medios y proyección internacional."
+tags: ["resumen", "ratio_studiorum", "sapientia_christi", "casas_de_formación"]
 ---
 
-# Capítulo 5
+# Capítulo 5: Casas de formación
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[casas_de_formación]] — Lugares donde se vive la formación académica
+- [[centros_vocacionales]] — Una de las casas de formación
+- [[noviciado]] — Casa de formación donde comienza la vida en el instituto
+- [[formación_intelectual]] — Formación que se imparte en las casas de formación
+- [[comunidad_educativa]] — La casa de formación como comunidad educativa en camino
+- [[formación_internacional]] — Principio de la formación internacional e intercultural
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `10_capítulo_5_casas_de_formación.md`
+**Casas de formación (n. 154-160).** Las etapas de formación académica se viven, ordinariamente, en las **casas de formación** de la Congregación, que son: los **centros vocacionales** (cuyos alumnos no pertenecen canónicamente a la Congregación, pero se consideran posibles candidatos a un futuro ingreso), los **noviciados**, los **centros de estudios de humanidades y ciencias**, y los **centros de filosofado y teologado**.
 
+Ordinariamente, con la excepción del noviciado, los estudios se realizan en **instituciones académicas independientes** de la casa de formación, que permitan obtener los títulos y grados académicos.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+La casa de formación «es sobre todo *una comunidad educativa en camino*» que ofrece «la posibilidad de revivir la experiencia formativa que el Señor dedicó a los Doce» (cf. *PDV* 60). Está totalmente orientada a la formación integral de los religiosos y futuros sacerdotes: **todo en ella es formación** (cf. *CVV* 466).
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Capítulo 5 |
+Exigencias concretas:
+- **Ambiente:** debe reinar un ambiente de silencio habitual y una vida disciplinar que propicien el estudio (cf. *CVV* 470-471); los superiores han de evitar que otras responsabilidades aparten del estudio.
+- **Medios:** contar con el personal necesario y equiparse con aulas adecuadas, bibliotecas apropiadas y medios pedagógicos actualizados.
+- **Ubicación:** lugares que ofrezcan un profesorado selecto y competente y faciliten actividades de apostolado o formación cultural.
+- **Proyección internacional (n. 160):** de acuerdo con las *Constituciones* (cf. *CLC* 6; *CVV* 294), a partir de la etapa de humanidades ha de haber religiosos de diversas nacionalidades y proveniencias culturales, y los religiosos han de cursar al menos una etapa de la formación en otro país distinto del propio.
 
+## Referencia original
 
-## Secciones incluidas
-
-# Capítulo 5
-
-[Contenido de esta sección...]
+📄 Fuente original: `10_capítulo_5_casas_de_formación.md`

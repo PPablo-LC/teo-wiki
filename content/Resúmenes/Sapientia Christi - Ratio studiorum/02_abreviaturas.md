@@ -3,40 +3,25 @@ type: ResumenFuente
 title: "Abreviaturas"
 fuente: Sapientia Christi - Ratio studiorum
 capítulo: 2
-timestamp: 2026-08-24
-description: "Resumen de 'Abreviaturas' — Sapientia Christi - Ratio studiorum"
-tags: ["resumen", "sapientia christi - ratio studiorum"]
+timestamp: 2026-09-06
+description: "Lista de siglas y abreviaturas usadas en la Ratio studiorum Sapientia Christi: documentos eclesiales y documentos del derecho propio de la Legión."
+tags: ["resumen", "ratio_studiorum", "sapientia_christi", "abreviaturas"]
 ---
 
 # Abreviaturas
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[sapientia_christi]] — Ratio studiorum de la Legión de Cristo (2021)
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `02_abreviaturas.md`
+La sección de **Abreviaturas** que abre *Sapientia Christi* reúne las siglas empleadas a lo largo del documento, agrupadas en tres apartados:
 
+- **Siglas**
+- **Documentos eclesiales**
+- **Documentos del derecho propio**
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+## Referencia original
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Abreviaturas |
-
-
-## Secciones incluidas
-
+📄 Fuente original: `02_abreviaturas.md`

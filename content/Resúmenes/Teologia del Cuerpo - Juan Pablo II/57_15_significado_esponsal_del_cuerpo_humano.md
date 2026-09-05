@@ -25,7 +25,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[varón_y_mujer]] — el varón y la mujer en su masculinidad y feminidad
 - [[amor]] — el amor en el que el hombre-persona se convierte en don
 - [[creación]] — el misterio de la creación por el Amor
-- [[felicidad]] — la felicidad originaria del hombre
+- [[felicidad_humana]] — la felicidad originaria del hombre
 - [[virginidad]] — la renuncia al matrimonio por el Reino
 - [[reino_de_dios]] — la vocación a renunciar al matrimonio por el Reino
 - [[redención_del_cuerpo]] — el camino de la creación a la «redención del cuerpo» (Rom 8)

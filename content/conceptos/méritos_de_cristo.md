@@ -27,7 +27,7 @@ Los méritos de Cristo se aplican a los fieles principalmente por el [[bautismo]
 
 ## Relaciones
 
-Se relaciona con [[tesoro_de_la_iglesia]], [[gracia_de_cristo]], [[sangre_de_cristo]], [[sacrificio_de_cristo]], [[redención]], [[satisfacción_de_cristo]], [[indulgencia]]
+Se relaciona con [[tesoro_de_la_iglesia]], [[gracia_de_cristo]], [[sangre_de_cristo]], [[sacrificio_de_cristo]], [[redención]], [[satisfacción_de_cristo]], [[indulgencias]]
 
 ## Ver también
 

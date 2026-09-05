@@ -1,61 +1,53 @@
 ---
 type: ResumenFuente
-title: "Algunas notas al proceso de elaboración de laRatio studiorum"
+title: "Algunas notas al proceso de elaboración de la Ratio studiorum + Presentación del Director General"
 fuente: Sapientia Christi - Ratio studiorum
 capítulo: 1
-timestamp: 2026-08-24
-description: "Resumen de 'Algunas notas al proceso de elaboración de laRatio studiorum' — Sapientia Christi - Ratio studiorum"
-tags: ["resumen", "sapientia christi - ratio studiorum"]
+timestamp: 2026-09-06
+description: "Carta de presentación del P. John Connor (DG-LC 1650-2021) de la nueva Ratio studiorum de la Legión de Cristo: cristocentrismo como hilo conductor, estructura en dos partes y novedades."
+tags: ["resumen", "ratio_studiorum", "sapientia_christi", "cristocentrismo", "formación_intelectual"]
 ---
 
-# Algunas notas al proceso de elaboración de laRatio studiorum
+# Algunas notas al proceso de elaboración de la Ratio studiorum
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[sapientia_christi]] — Título de la Ratio studiorum de la Legión de Cristo (2021)
+- [[cristocentrismo]] — Hilo conductor del documento: Cristo como criterio, centro y modelo de la formación intelectual
+- [[ratio_institutionis_christus_vita_vestra]] — Ratio institutionis de la Congregación (2ª ed.)
+- [[constituciones_lc_2020]] — Constituciones aprobadas por la Santa Sede en octubre de 2020
+- [[john_connor]] — Director general de la Legión de Cristo
+- [[perfil_intelectual]] — Rasgos esenciales del perfil intelectual del legionario
+- [[formación_intelectual]] — Dimensión intelectual de la formación del legionario
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `01_algunas_notas_al_proceso_de_elaboración_de_laratio_studiorum.md`
+### Carta de presentación del Director General
 
+**Departamento de Publicaciones Institucionales.** Derechos Reservados © Legionarios de Cristo, 2021. ¡Venga tu Reino!
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**Prot. DG-LC 1650-2021, Clas. I.3.38. Roma, 16 de abril de 2021.** El P. **John Connor, L.C.**, director general, presenta la nueva edición de la *Ratio studiorum* de la Legión de Cristo, **aprobada por el Capítulo General en febrero de 2020**. Sale a la luz tras la aprobación del nuevo texto de las *Constituciones* (octubre de 2020) por la Santa Sede y de la publicación de la segunda edición de la *Ratio institutionis*, *Christus vita vestra*.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 71 | H1 | Algunas notas al proceso de elaboración de laRatio studiorum |
-| 75 | H3 | Ratio studiorum **previa** |
-| 77 | H3 | Encargo del Capítulo General del 2014 y constitución de la Comisión |
-| 79 | H3 | Trabajo de la Comisión |
-| 81 | H3 | Presentación al Capítulo General 2020 y aprobación |
+**1. Camino recorrido en la renovación de documentos.** La *Ratio institutionis* (*Christus vita vestra*) supuso un momento significativo en la aplicación de los códigos primarios a los códigos secundarios en el área de la formación inicial y permanente. La nueva *Ratio studiorum* está al **mismo nivel normativo** que la *Ratio institutionis* y es un paso importante en la institucionalización del área de la **formación intelectual**.
 
+**2. Hilo conductor: cristocentrismo.** El título *Sapientia Christi* presenta el hilo conductor: así como el ideal de la formación integral del legionario es asimilar la vida de Cristo (*Christus vita vestra*), la dimensión intelectual tiene a **Cristo como criterio, centro y modelo**. Más que una lista de conocimientos, se trata de conformarse con la «Sabiduría de Cristo», Camino, Verdad y Vida (cf. *Jn* 14,6). Desde esta transformación en Cristo se abre el horizonte de la misión de **formar apóstoles, líderes cristianos** y transformar la cultura.
 
-## Secciones incluidas
+**3. Estructura.** Dos grandes partes:
+- **Primera parte, «Tener la mente de Cristo»** (cf. *1 Co* 2,16): metas y rasgos esenciales del perfil intelectual del legionario y principios formativos.
+- **Segunda parte, «Crecer en sabiduría, en estatura, y en gracia»** (cf. *Lc* 2,52): carácter analítico, con las etapas de la formación, elementos comunes, casas de formación y agentes.
 
-## Ratio studiorum **previa**
+**4. Estilo y sentido del texto.** Integra aspectos normativos, inspiracionales y de orientación, con enfoque pedagógico y referencia constante a las fuentes: el **carisma y espiritualidad propios, la Sagrada Escritura y el magisterio** de la Iglesia. Estilo transversal — los principios tocan todas las etapas, salvo el Capítulo 3 — y orientaciones no exhaustivas.
 
-[Contenido de esta sección...]
+**5. Novedad respecto a la Ratio anterior.** Señala algunas de las principales novedades de *Sapientia Christi* con respecto a la *Ratio studiorum* anterior.
 
-## Encargo del Capítulo General del 2014 y constitución de la Comisión
+La carta concluye deseando que la *Ratio studiorum* sea un instrumento para descubrir la riqueza del carisma, enriquecer la identidad legionaria y fortalecer la entrega apostólica (cf. *Apóstoles según el Corazón de Cristo*, n. 5), con la intercesión de la Virgen María, trono de la Sabiduría y reina de los apóstoles.
 
-[Contenido de esta sección...]
+**Anexos:** Anexo 1: *Ratio studiorum*; Anexo 2: Decreto de promulgación; Anexo 3: Algunas notas sobre el proceso de redacción de la *Ratio studiorum*.
 
-## Trabajo de la Comisión
+### Algunas notas al proceso de elaboración de la Ratio studiorum (Anexo al DG-LC 1650-2021)
 
-[Contenido de esta sección...]
+Se reseñan: la **Ratio studiorum previa**, el **encargo del Capítulo General del 2014 y constitución de la Comisión**, el **trabajo de la Comisión**, y la **presentación al Capítulo General 2020 y aprobación**.
 
-## Presentación al Capítulo General 2020 y aprobación
+## Referencia original
 
-[Contenido de esta sección...]
+📄 Fuente original: `01_algunas_notas_al_proceso_de_elaboración_de_laratio_studiorum.md`

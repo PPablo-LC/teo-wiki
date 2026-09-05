@@ -27,7 +27,7 @@ tags: ["resumen", "teologia del cuerpo - juan pablo ii"]
 - [[procreación]] — la finalidad procreadora de la masculinidad-feminidad
 - [[libertad]] — la libertad interior respecto a la coacción del cuerpo
 - [[persona_humana]] — la existencia personal y la imagen de Dios
-- [[felicidad]] — el comienzo subjetivamente beatificante de la existencia
+- [[felicidad_humana]] — el comienzo subjetivamente beatificante de la existencia
 - [[amor]] — el Amor como fuente del donar creador
 - [[imagen_de_dios]] — el nivel de «imagen de Dios» en la teología del cuerpo
 

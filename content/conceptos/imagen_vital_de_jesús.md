@@ -55,11 +55,11 @@ Cabestrero desarrolla el concepto de «imagen vital» como eje central de su obr
 
 ## Relaciones doctrinales
 
-La imagen vital de Jesús se relaciona con [[conocimiento_de_jesucristo]] (el proceso de conocer a Jesús), [[seguimiento_de_cristo]] (la respuesta al conocimiento), [[imágenes_de_jesús]] (las imágenes que condicionan la imagen vital), [[espíritu_santo]] (el revelador de la verdadera imagen), [[encarnación]] (Jesús como imagen de Dios), [[ídolo]] (la distorsión de la imagen), [[fe_viva]] (la fe que actúa en el conocimiento) y [[dios_abbá]] (el Dios que Jesús revela).
+La imagen vital de Jesús se relaciona con [[conocimiento_de_jesucristo]] (el proceso de conocer a Jesús), [[seguimiento_de_cristo]] (la respuesta al conocimiento), [[imágenes_de_jesús]] (las imágenes que condicionan la imagen vital), [[espíritu_santo]] (el revelador de la verdadera imagen), [[encarnación]] (Jesús como imagen de Dios), [[idolatría]] (la distorsión de la imagen), [[fe_viva]] (la fe que actúa en el conocimiento) y [[dios_abbá]] (el Dios que Jesús revela).
 
 ## Ver también
 
-[[conocimiento_de_jesucristo]], [[imágenes_de_jesús]], [[seguimiento_de_cristo]], [[espíritu_santo]], [[ídolo]], [[fe_viva]]
+[[conocimiento_de_jesucristo]], [[imágenes_de_jesús]], [[seguimiento_de_cristo]], [[espíritu_santo]], [[idolatría]], [[fe_viva]]
 
 ## Referencias
 

@@ -13,7 +13,7 @@ tags: ["resumen", "razón", "fe_vs_razón", "milagros", "infierno", "resurrecci�
 ## Conceptos básicos referenciados en este capítulo
 
 - [[razón]] — La razón como el arma más formidable contra el error.
-- [[fe_vs_razón]] — La fe como opuesta a la razón y al pensamiento crítico.
+- [[fe_y_razón]] — La fe como opuesta a la razón y al pensamiento crítico.
 - [[milagros]] — Los milagros como superstición, no como evidencia.
 - [[infierno]] — El infierno como castigo eterno, cuestionado como moralmente inaceptable.
 - [[resurrección_de_cristo]] — La resurrección como relato inverosímil.

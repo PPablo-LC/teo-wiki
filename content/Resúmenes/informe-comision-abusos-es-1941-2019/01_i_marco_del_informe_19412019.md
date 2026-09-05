@@ -3,40 +3,32 @@ type: ResumenFuente
 title: "I. Marco del Informe 1941-2019"
 fuente: informe-comision-abusos-es-1941-2019
 capítulo: 1
-timestamp: 2026-08-24
-description: "Resumen de 'I. Marco del Informe 1941-2019' — informe-comision-abusos-es-1941-2019"
-tags: ["resumen", "informe-comision-abusos-es-1941-2019"]
+timestamp: 2026-09-05
+description: "Estructura del marco del Informe 1941-2019: origen y objetivo del estudio, metodología de trabajo, límites y alcance, la página 0abusos.org y los destinatarios del informe."
+tags: ["resumen", "informe_1941_2019", "espiritualidad_legionaria", "marco_del_informe"]
 ---
 
 # I. Marco del Informe 1941-2019
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[informe_1941_2019]] — Informe sobre el fenómeno del abuso sexual de menores en la Congregación desde su fundación
+- [[marco_del_informe]] — Presentación de origen, metodología, límites y destinatarios del informe
+- [[comisión_de_casos]] — Comisión interna de la Dirección General que elaboró el informe
+- [[0abusos.org]] — Espacio público con estadísticas, políticas y comunicados
+- [[origen_y_objetivo_del_estudio]] — Razón y metas de la comisión
+- [[límites_y_alcance_del_estudio]] — Alcance y límites metodológicos
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `00_i_marco_del_informe_1941_2019.md`
+El **I. Marco del Informe 1941-2019** enumera los cinco apartados que estructuran en su inicio el documento:
 
+1. **Origen y objetivo del estudio**
+2. **Metodología de trabajo**
+3. **Límites y alcance del estudio**
+4. **0abusos.org**
+5. **¿A quién está dirigido el informe?**
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+## Referencia original
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | I. Marco del Informe 1941-2019 |
-
-
-## Secciones incluidas
-
+📄 Fuente original: `00_i_marco_del_informe_1941_2019.md`

@@ -3,40 +3,36 @@ type: ResumenFuente
 title: "IV. Prioridades 2021"
 fuente: Informe-2020-legionarios-de-Cristo-verdad-justicia-y-sanacion-abusos-victimas-ambientes-seguros
 capítulo: 10
-timestamp: 2026-08-24
-description: "Resumen de 'IV. Prioridades 2021' — Informe-2020-legionarios-de-Cristo-verdad-justicia-y-sanacion-abusos-victimas-ambientes-seguros"
-tags: ["resumen", "informe-2020-legionarios-de-cristo-verdad-justicia-y-sanacion-abusos-victimas-ambientes-seguros"]
+timestamp: 2026-09-05
+description: "Las siete prioridades de la Congregación para 2021: acercamiento activo a las víctimas, programa independiente de reparación económica, procedimientos canónicos pendientes, examen de posibles encubrimientos, conclusión de acreditaciones, colaboración externa y abusos de autoridad y conciencia."
+tags: ["resumen", "informe_anual_2020", "espiritualidad_legionaria", "prioridades_2021", "conversión"]
 ---
 
 # IV. Prioridades 2021
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[prioridades_2021]] — Siete prioridades para el año 2021
+- [[reparación_económica]] — Programa independiente para la reparación económica y el apoyo a víctimas
+- [[encubrimiento_o_negligencia]] — Examen con expertos externos de indicios de encubrimiento o negligencia grave
+- [[acreditación]] — Conclusión de los procesos de acreditación externa de los protocolos
+- [[abusos_de_autoridad_y_conciencia]] — Realidad compleja señalada por el Capítulo General
+- [[proteger_y_sanar]] — Referente normativo (cf. PS 6 y 8)
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `09_prioridades_2021.md`
+La Congregación establece las siguientes **prioridades para 2021**:
 
+1. **Reforzar un acercamiento activo y más sistemático** a las víctimas con las que todavía no hay contacto.
+2. **Establecer un programa independiente** para la reparación económica y el apoyo a víctimas de abusos sexuales por parte de sacerdotes de la Congregación (cf. *Proteger y sanar*, 6).
+3. **Llevar a cabo los procedimientos canónicos pendientes** según las indicaciones que la Congregación para la Doctrina de la Fe da en cada caso, constituyendo los tribunales correspondientes y asegurando la **participación de canonistas externos** como jueces y asesores.
+4. **Examinar con expertos externos** eventuales indicios de encubrimiento o negligencia grave en relación con casos de abuso del pasado (cf. *Proteger y sanar*, 8).
+5. **Concluir los procesos de acreditación externa** de los protocolos de ambientes seguros en curso en varios territorios.
+6. **Ampliar la colaboración con instituciones y expertos externos** y establecer espacios de consulta y asesoría con **sobrevivientes de abusos sexuales** para la mejora continua.
+7. **Afrontar el tema de los abusos de autoridad y conciencia**, como lo señaló el Capítulo General: «Pedimos al gobierno general analizar esta realidad compleja y proponer medidas apropiadas en vista de la formación pastoral, de la prevención de cualquier tipo de abuso y de la sanación de las personas afectadas».
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+La Congregación dará a conocer puntualmente los avances más significativos y ofrecerá un **resumen internacional en el próximo informe anual**.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | IV. Prioridades 2021 |
+## Referencia original
 
-
-## Secciones incluidas
-
+📄 Fuente original: `09_prioridades_2021.md`
