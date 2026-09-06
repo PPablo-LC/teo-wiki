@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Evangelización
 tags: ["doctrina_social", "eclesiología"]
 
-timestamp: 2026-08-31
+timestamp: 2026-09-05
 description: "La evangelización es la misión fundamental de la Iglesia de anunciar y actualizar el Evangelio en todas las dimensiones de la vida humana, incluida la compleja red de las relaciones sociales."
 ---
 # Evangelización
 
 > Área: Doctrina Social / Eclesiología
-> Última actualización: 2026-08-31
+> Última actualización: 2026-09-05
 
 ## Definición
 
@@ -138,6 +138,14 @@ El número 14, dedicado a la alegría, desarrolla la evangelización como testim
 **Evangelización y narrativa (Stewart):** «los seres humanos están hechos para la historia»; por eso Jesús enseña en parábolas. La buena literatura —que cultiva la verdad, la bondad y la belleza— «prepara el terreno en el corazón de los niños para orientarlos hacia un Dios que los ama» [EAC-14, 09_spotlight_stewart.md].
 
 **Evangelización en el testimonio del mártir (Gadberry/Rother):** el pastor que «no puede huir al primer signo de peligro» (Beato Stanley Rother) y que vive en «santo abandono» hace creíble la Buena Nueva: «Dios no me pide éxito, sino amor» (Card. Sarah) [EAC-14, 17_feature_gadberry.md]. Véase [[beato_stanley_rother]].
+
+### Según EAC-18 — Word on Fire Institute
+
+Robert Barron recuerda que la evangelización auténtica no es imposición ni proselitismo, sino propuesta: proclamar con audacia y confianza el Evangelio de Jesucristo, dejando el resultado a la [[gracia_divina]]. La Iglesia anuncia «porque ha sido alcanzada» y evangeliza con confianza, sabiendo que el mensaje tiene poder para transformar a quien lo acoge [EAC-18, 18_spotlight_barron.md].
+
+El fascículo vincula la conversión con la renovación de la vida moral: la respuesta al anuncio no es un cambio superficial, sino la reorientación del corazón que reordena la conducta entera según el Evangelio, y la fe obra por la caridad [EAC-18, 11]. David Rinaldi, en la sección «Peripheries», sostiene que «la fe se contagia más que se enseña»: la evangelización se transmite sobre todo a través del [[testimonio_cristiano]] y del encuentro con personas concretas configuradas por Cristo [EAC-18, 22_peripheries.md].
+
+De ahí que el fascículo presente la familia, la comunidad y la vida ordinaria como ámbitos privilegiados de la nueva evangelización: la [[iglesia_doméstica]] y la parroquia son los lugares donde el mensaje se hace creíble y se propone a los alejados [EAC-18, 18, 22].
 
 ## Ver también
 [[misión_de_la_iglesia]], [[doctrina_social_de_la_iglesia]], [[promoción_humana]], [[caridad]], [[justicia]]

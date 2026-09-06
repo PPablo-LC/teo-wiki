@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Presencia Real
 tags: ["eucaristía"]
 
-timestamp: 2026-08-30
+timestamp: 2026-09-05
 description: "Presencia verdadera, real y substancial de Jesucristo —Dios y hombre verdadero— en el sacramento de la Eucaristía, bajo las especies del pan y del vino consagrados."
 ---
 # Presencia Real
 
 > Área: Eucaristía
-> Última actualización: 2026-08-30
+> Última actualización: 2026-09-05
 
 ## Definición
 
@@ -85,6 +85,14 @@ Bishop Robert Barron («If It's a Symbol, to Hell with It»), desde el exabrupto
 - **Escatología de la presencia**: los elementos no son aniquilados sino transfigurados, «puros signos de la presencia de Cristo» (Ratzinger), prolepsis de la recapitulación cósmica (1 Cor 15,28; Ef 4,13).
 
 Según Timothy O'Malley («Eucharistic Personhood»), la presencia real «no compite con otras presencias» y forma al receptor a buscar «la presencia oculta del Señor en las víctimas de la historia» (con Flannery O'Connor y 1 Cor 15,28: Dios «todo en todo»): «Dios es el fundamento de la realidad, y así algo es realmente real si es lo que Dios hace que sea».
+
+### Según EAC-18 — Word on Fire Institute
+
+Los testimonios del bloque «Emmaus» muestran la [[presencia_real]] de Cristo en la Eucaristía como fuente de la conversión: la adoración eucarística en Phoenix y la comunión diaria de los nuevos conversos alimentan una vida nueva configurada por el encuentro con el Señor [EAC-18, 09_spotlight_stories.md].
+
+Andrew Allen subraya que la [[mistagogia]] del itinerario del [[catecumenado]] introduce a los neófitos en el misterio eucarístico: antes que una doctrina por explicar, la Eucaristía es una Persona a la que se aprende a adorar (RCIA 244) [EAC-18, 16_feature_allen.md].
+
+La sección «Soul» añade que, en la [[era_secular]], el escepticismo ante la presencia real puede ser una puerta de entrada a la fe: reconocer la propia increencia y pedir ayuda es ya el comienzo de la entrega que realiza la gracia [EAC-18, 21_soul.md].
 
 ## Distinciones importantes
 

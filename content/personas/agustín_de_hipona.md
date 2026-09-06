@@ -3,13 +3,13 @@ type: Persona
 title: Agustín de Hipona
 tags: ["patrística"]
 
-timestamp: 2026-08-09
+timestamp: 2026-09-05
 description: "San Agustín de Hipona (354-430) fue obispo de Hipona, Padre y Doctor de la Iglesia. Nacido en Tagaste (Numidia), es uno de los teólogos más influyentes del cristianismo occidental."
 ---
 # Agustín de Hipona
 
 > Área: Patrística
-> Última actualización: 2026-08-09
+> Última actualización: 2026-09-05
 
 ## Biografía
 
@@ -44,6 +44,13 @@ En el número dedicado a Benedicto XVI (verano de 2023), Agustín es invocado en
 - **La eclesiología agustiniana de Ratzinger**: Rowland sintetiza que el núcleo del legado de Ratzinger es «una eclesiología agustiniana fuertemente influida por Henri de Lubac y Hans Urs von Balthasar» — es decir, una concepción de la Iglesia como [[comunión]] y [[iglesia_cuerpo_místico|Cuerpo de Cristo]], no como institución secularizada [EAC-16, 15]. También DeClue subraya que la teología trinitaria de Ratzinger (la persona como «relación») se apoya en la doctrina trinitaria de los Padres y de Agustín [EAC-16, 13].
 - **La justicia y el Estado**: Ratzinger glosa a Agustín (Ciudad de Dios) en su discurso al Bundestag (2008): «sin justicia, ¿qué es el Estado sino una gran banda de ladrones?» — la justicia y los derechos humanos fundados en la fe en un Dios Creador; «una vez que aboláis a Dios, el gobierno se convierte en el Dios» (Chesterton) [EAC-16, 03].
 
+### Según EAC-18 — Word on Fire Institute
+
+En el número dedicado a la conversión, Agustín es el converso clásico por excelencia, invocado en dos piezas:
+
+- **Clemmons, «Minds: The Conversion of St. Augustine» (10_minds.md).** Dr. Thomas Clemmons defiende una relectura de las *Confesiones* centrada en el *totus Christus*: Agustín no se convirtió a una filosofía o a una vida moral sino **a la entrada plena en la Iglesia católica**, hacerse «uno con el *totus Christus*» mediante su recepción sacramental en el Bautismo, la crismación y la recepción eucarística. Los lugares comunes del libro 7 (conversión del intelecto por los platónicos) y el libro 8 (conversión de la voluntad en el huerto) «desdibujan la plenitud del relato»: la conversión no se completa en un momento notable —como muestra su madre [[santa_monica]], cristiana sin «momento de conversión», transformada libro a libro— y continúa en el libro 9. Recupera la historia de Marius Victorinus: «¿Así que las paredes hacen cristianos?», a lo que la respuesta agustiniana es «Sí»: «una mera conversión espiritual o intelectual no hace cristiano a nadie, si los cristianos los hace Cristo». La lectura del pagano Cicerón (*Hortensio*) fue, vista desde el huerto milanés, «un acto de la gracia de Dios»; la continencia y las ambiciones matrimoniales de las *Confesiones* aparecen como obstáculos y pasos necesarios —no el contenido— de la conversión. Cierra con C.S. Lewis: «Toda historia de conversión es la historia de una derrota bendita» [EAC-18, 10_minds.md].
+- **Barron, «Spotlight: Bishop Barron on Conversion» (18_spotlight_barron_on_conversion.md).** Barron presenta las *Confesiones* como «una de las mejores narraciones de alguien que sufre una conversión» y recuerda la conversión del joven Agustín por la predicación de [[san_ambrosio]]: «este, sin saberlo, estaba transformando a quien transformaría toda la civilización occidental» — la Palabra como instrumento de conversión [EAC-18, 18].
+
 ## Obras principales
 
 - Confesiones
@@ -56,7 +63,7 @@ En el número dedicado a Benedicto XVI (verano de 2023), Agustín es invocado en
 
 ## Ver también
 
-[[gracia]], [[predestinación]], [[libre_albedrío]], [[semipelagianismo]], [[pelagianismo]], [[pecado_original]], [[trinidad]], [[ciudad_de_dios]]
+[[gracia]], [[predestinación]], [[libre_albedrío]], [[semipelagianismo]], [[pelagianismo]], [[pecado_original]], [[trinidad]], [[ciudad_de_dios]], [[san_agustín]]
 
 ## Referencias
 

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Testimonio Cristiano
 tags: ["moral", "eclesiología"]
 
-timestamp: 2026-05-22
+timestamp: 2026-09-05
 description: "Confesión de la fe cristiana mediante palabras y obras, que transmite el Evangelio a otros."
 ---
 # Testimonio Cristiano
 
 > Área: Moral / Eclesiología
-> Última actualización: 2026-05-22
+> Última actualización: 2026-09-05
 
 ## Definición
 Confesión de la fe cristiana mediante palabras y obras, que transmite el Evangelio a otros. El testimonio cristiano es una dimensión esencial de la vocación bautismal, por la que el fiel da a conocer a Cristo con su vida y, cuando es necesario, con sus palabras.
@@ -38,6 +38,14 @@ El apostolado es exigencia de la catolicidad de la Iglesia y la vocación cristi
 **Una ciudad sin testimonio (Gioia/Hren).** La compartimentación de los poetas = sordera ensordecedora: «una ciudad desprovista de profecía y testimonio»; William Carlos Williams: «Es difícil obtener la noticia de los poemas, sin embargo los hombres mueren miserablemente cada día por falta de lo que allí se encuentra».
 
 **Presencia testimonial (P. Joel Kelly OSB).** Monje benedictino capellán de periferias, muerto en 2020 de ELA: sanación por presencia y escucha; cuidado fraterno hasta el final.
+
+### Según EAC-18 — Word on Fire Institute
+
+El bloque «Emmaus» del fascículo presenta el [[testimonio_cristiano]] en su forma narrativa: la adoración eucarística de la parroquia de Phoenix, la fe familiar de los Jumbam en Camerún y la Eucaristía diaria de los nuevos conversos — cada vida es un relato de la [[gracia_divina]] que se ofrece a los demás [EAC-18, 09_spotlight_stories.md].
+
+Fernanda Psihas, misionera en la sección «Mission», resume el testimonio con una fórmula sencilla: «ser yo misma ya es evangelizar». En medio de rechazos e incomprensiones, descubrió que la presencia fiel y humilde muestra a Cristo más que cualquier discurso [EAC-18, 20_mission_psihas.md].
+
+David Rinaldi sintetiza la convicción del fascículo: «la fe se contagia más que se enseña». El testimonio es el cauce ordinario de la [[evangelización]], porque precede y acompaña a la palabra, y porque la vida transformada por el encuentro con Cristo es el argumento más elocuente [EAC-18, 22_peripheries.md].
 
 ## Distinciones importantes
 - Testimonio de palabra ≠ testimonio de vida: el primero es el anuncio explícito, el segundo es la coherencia de vida

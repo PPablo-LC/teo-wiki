@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Conversión
 tags: ["moral", "ascética"]
 
-timestamp: 2026-08-07
+timestamp: 2026-09-05
 description: "Movimiento del alma que, movida por la gracia, se vuelve a Dios apartándose del pecado."
 ---
 # Conversión
 
 > Área: Moral / Ascética
-> Última actualización: 2026-08-07
+> Última actualización: 2026-09-05
 
 ## Definición
 
@@ -154,6 +154,16 @@ Benedicto XVI analiza la conversión a partir de la parábola del hijo pródigo 
 Los Padres de la Iglesia interpretaron que, viviendo lejos de casa, «se había alejado también de sí mismo, vivía alejado de la verdad de su existencia». La conversión «consiste en que reconoce todo esto, que se ve a sí mismo alienado; se da cuenta de que se ha ido realmente "a un país lejano" y que ahora vuelve hacia sí mismo» (JdN_I). Es un retorno que incluye sufrimiento y purificación interna: «podemos decir tranquilamente que, con ello, han entendido correctamente la esencia de la parábola y nos ayudan a reconocer su actualidad» (JdN_I).
 
 La conversión no es solo un acto individual: Benedicto XVI señala que el hermano mayor también necesita convertirse, de la obediencia amargada al amor filial. «En la amargura frente a la bondad de Dios se aprecia una amargura interior por la obediencia prestada que muestra los límites de esa sumisión» (JdN_I). El padre le recuerda: «Hijo, tú estás siempre conmigo, y todo lo mío es tuyo» — la grandeza de ser hijo.
+
+### Según EAC-18 — Word on Fire Institute
+
+El fascículo «Conversion» de *Evangelization & Culture* (EAC-18, Word on Fire Institute) presenta la conversión como el corazón del mensaje cristiano. Robert Barron parte del «cambio radical de mente y corazón» (*metanoia*) al que convoca Jesús en Mc 1,15: quien entra en la escuela del Resucitado es gradualmente configurado a Cristo y recibe una vida nueva [EAC-18, 01_from_the_desk.md]. Barron contrapone el orgullo del que se cierra en sí mismo al encuentro con la misericordia, y evoca el pozo de la samaritana como imagen del alma sedienta a la que solo Cristo puede saciar (Jn 4) [EAC-18, 18_spotlight_barron.md].
+
+Matthew Petrusek distingue la *conversio* —el acontecimiento inicial— de la [[conversión_continua]], puesto que el cristiano vive en conversión permanente, reordenando progresivamente su existencia en torno a Cristo [EAC-18, 03_a_word_from_the_institute.md]. Elizabeth Worner insiste en que la conversión nace de la [[gracia_divina]], que sorprende al alma y la lleva a rendirse al amor de Dios [EAC-18, 04_midnight_oil.md]. La historia de María Magdalena muestra que la gracia precede a todo: Cristo ama primero, posee el corazón y envía a la misión [EAC-18, 05_lives.md]; en *Quo Vadis*, la providencia acompaña a Pedro hasta el martirio [EAC-18, 06_stacks.md]; y en *The Mission*, Mendoza descubre que la penitencia auténtica se ordena a la caridad, pues solo «la caridad» (1 Co 13) da sentido a la ascesis [EAC-18, 07_film.md].
+
+Chesterton, en «The Convert», describe una fe donada en el momento menos esperado [EAC-18, 08_poetry_convert.md]. El bloque «Emmaus» ofrece testimonios de la adoración eucarística en Phoenix, de la familia como [[iglesia_doméstica]] en Camerún y de la Eucaristía diaria como escuela permanente de conversión [EAC-18, 09_spotlight_stories.md]. El arte de Caravaggio muestra que la conversión reordena la mirada: el alma pasa de la oscuridad del pecado a la luz de Cristo [EAC-18, 12_art.md].
+
+Andrew Allen presenta el camino del [[catecumenado]] y de los [[rito_de_iniciación_cristiana_de_adultos]] como itinerario sacramental de conversión: la respuesta al primer anuncio del [[kerygma]], los escrutinios y la [[mistagogia]] configuran al neófito con Cristo (CEC 1432) [EAC-18, 16_feature_allen.md]. Robert Barron cierra el fascículo recordando que la gracia precede y obra toda conversión, y que la fe se transmite sobre todo por el testimonio del que ha sido alcanzado y vive en la misión [EAC-18, 18_spotlight_barron.md]; la sección «Soul» añade que esta misión alcanza al hombre de la [[era_secular]], llamado a entrar por el camino de la fe en la comunidad eclesial [EAC-18, 21_soul.md].
 
 ## Analizado en contexto cultural
 

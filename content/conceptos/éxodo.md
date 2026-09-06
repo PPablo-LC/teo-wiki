@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Éxodo
 tags: ["teología_bíblica"]
 
-timestamp: 2026-08-06
+timestamp: 2026-09-05
 description: "El Éxodo (del griego ἔξοδος, «salida») es el acontecimiento fundacional de Israel como pueblo de Dios."
 ---
 # Éxodo
 
 > Área: Teología bíblica
-> Última actualización: 2026-08-06
+> Última actualización: 2026-09-05
 
 ## Definición
 
@@ -44,6 +44,14 @@ En el NT, la tradición apostólica ve en Cristo el cumplimiento del misterio pr
 ### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 En el Antiguo Testamento el episodio del Éxodo ocupa un lugar importante: Dios ha visto la opresión de su pueblo y decide liberarlo para conducirlo a la tierra prometida. Se trata de una liberación con un inmediato aspecto socio-político, que no puede interpretarse ni individualistamente ni como liberación de una clase: es todo el pueblo elegido, y no es el hombre quien se emancipa, sino que recibe la liberación de Dios, aunque esto implique la mediación humana. La liberación socio-política no agota el sentido del Éxodo ni es su significado principal: la liberación se encamina a la [[alianza]], tiene un valor trascendente de relación con el Señor. El profundo sentido del Éxodo es religioso-moral. [Ele_Xto_Stos, Cap. IV, §3a].
+
+### Según EAC-18 — Word on Fire Institute
+
+Robert Barron toma como hilo conductor del fascículo el [[éxodo]]: la conversión es una salida —de la esclavitud del pecado y del falso yo— hacia la libertad de los hijos de Dios, del mismo modo que Israel salió de Egipto hacia la Tierra Prometida (Mc 1,15) [EAC-18, 01_from_the_desk.md]. La vida cristiana es, así, un itinerario permanente: se entra en la escuela del Resucitado para aprender a vivir la nueva alianza [EAC-18, 01_from_the_desk.md].
+
+J.R.R. Tolkien describe su propia conversión con esta misma imagen: «salí de Egipto». Tras la muerte de su madre Mabel, la acogida providencial del padre Francis Morgan y el don de la fe lo condujeron desde una infancia marcada por la soledad hasta una vida plena, confirmando que la [[providencia_divina]] ordena los hilos dispersos de la historia [EAC-18, 13_feature_tolkien.md].
+
+El fascículo muestra así que la conversión tiene estructura de éxodo: comienza con la salida, prosigue por el desierto de la purificación y culmina en la entrada en la comunión eucarística y eclesial [EAC-18, 01, 13].
 
 ## Distinciones importantes
 

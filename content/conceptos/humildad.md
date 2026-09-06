@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Humildad
 tags: ["moral", "ascética"]
 
-timestamp: 2026-08-24
+timestamp: 2026-09-05
 description: "La humildad es una virtud derivada de la templanza —a través de la modestia— que inclina a cohibir el desordenado apetito de la propia excelencia."
 ---
 # Humildad
 
 > Área: Moral / Ascética
-> Última actualización: 2026-08-24
+> Última actualización: 2026-09-05
 
 ## Definición
 
@@ -170,6 +170,14 @@ León XIV une la humildad a la gratitud como virtudes esenciales del sacerdote. 
 Los Avisos Espirituales presentan la humildad como el camino central de la perfección. El Santo enseña que la humildad no es reconocerse inferior a otros, sino reconocer la propia nada ante Dios: «Humilde es el que se esconde en su propia nada y se sabe dejar a Dios» (Avisos de Antequera, §5). La perfección consiste en las virtudes que Dios ve en el alma, no en las que el alma conoce de sí: «La perfección no está en las virtudes que el alma conoce de sí, mas consiste en las que nuestro Señor ve en el alma, la cual es carta cerrada» (Punto 34).
 
 La humildad se manifiesta en la obediencia, el silencio y la renuncia a la propia opinión: «Déjate enseñar, déjate mandar, déjate sujetar y despreciar y serás perfecta» (Punto 32). El amor no consiste en sentir grandes cosas, sino en tener grande desnudez y padecer por el Amado (Punto 35). El alma humilde se regocija en ser desconocida y no busca ser vista: «Ama el no ser conocida de ti ni de los otros. Nunca mirar los bienes ni los males ajenos» (Avisos de Gerona, §13).
+
+### Según EAC-18 — Word on Fire Institute
+
+Robert Barron presenta la [[humildad]] como la condición de la conversión: solo el alma que reconoce sus límites y su pecado puede acoger la [[gracia_divina]] que precede a toda obra buena. El orgullo del [[verdadero_y_falso_yo]] cierra el paso a Cristo, mientras que el humilde —como la samaritana del pozo o el publicano del Evangelio— se abre al don [EAC-18, 18_spotlight_barron.md].
+
+Elizabeth Worner subraya la humildad como rendición al amor: sorprende comprobar que Dios obra con los pequeños y con los que no confían en sí mismos, mientras que la autosuficiencia impide dejarse llevar [EAC-18, 04_midnight_oil.md].
+
+La humildad aparece así como la virtud que hace posible la metanoia y la [[vía_purgativa]]: el alma despojada de sí puede ser reconfigurada por Cristo, pues solo el que se abaja es capaz de recibir el don de la fe [EAC-18, 04, 18].
 
 ## Ver también
 [[soberbia]], [[don_de_temor]], [[mansedumbre]], [[virgen_maría]], [[perfección_cristiana]], [[virtud_de_la_religión]], [[modestia]], [[magnanimidad]], [[humor]], [[san_felipe_neri]], [[g_k_chesterton]]

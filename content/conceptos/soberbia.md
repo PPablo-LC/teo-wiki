@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Soberbia
 tags: ["moral"]
 
-timestamp: 2026-08-24
+timestamp: 2026-09-05
 description: "La soberbia es el apetito desordenado de la propia excelencia."
 ---
 # Soberbia
 
 > Área: Moral
-> Última actualización: 2026-08-24
+> Última actualización: 2026-09-05
 
 ## Definición
 
@@ -96,6 +96,14 @@ El número dedicado al humor diagnostica la soberbia desde su síntoma más visi
 **La analogía imposible (Kaczor).** Casi nadie desea ser perro, pero casi todos desean ser Dios. Una mujer que intentara convertirse en perra jamás lo lograría, pero se privaría de los bienes de la vida humana; del mismo modo, «el intento de ser Dios no puede triunfar... pero el intento puede acarrear la pérdida de los bienes que podríamos haber tenido abrazando nuestra humanidad»: humildad, justicia y amor.
 
 **Tiranos como soberbios consumados (Kaczor).** «No es casualidad que los tiranos más malvados de la historia reclamaran un poder absoluto que pertenece legítimamente solo a Dios. Al actuar como si fueran Dios, estos tiranos exhibieron una crueldad diabólica».
+
+### Según EAC-18 — Word on Fire Institute
+
+Robert Barron señala la [[soberbia]] como el obstáculo radical para la gracia: el orgullo que se repliega sobre sí impide recibir el don, mientras que la conversión exige reconocer la propia indigencia y abrirse a Cristo [EAC-18, 18_spotlight_barron.md]. El [[verdadero_y_falso_yo]] del pecador —la imagen de sí que fabrica para no depender de Dios— es el bastión que la gracia debe derribar para que nazca la vida nueva [EAC-18, 18_spotlight_barron.md].
+
+Elizabeth Worner conecta la soberbia con la incapacidad de dejarse amar: quien se cree autosuficiente no puede rendirse a la misericordia, mientras que la [[humildad]] del que acepta ser amado es la puerta de la conversión [EAC-18, 04_midnight_oil.md].
+
+Fernanda Psihas descubre en la misión que los rechazos hieren el orgullo y lo purifican: la soberbia herida es ocasión de gracia cuando el misionero acepta su pequeñez y aprende que «ser yo misma ya es evangelizar» [EAC-18, 20_mission_psihas.md].
 
 ## Distinciones importantes
 

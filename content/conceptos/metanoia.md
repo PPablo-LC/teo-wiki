@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: "Metanoia"
 description: "La metanoia es la conversión del corazón: la transformación radical que inicia la vida cristiana y se renueva continuamente por la gracia."
 tags: ["moral_católica", "teología_moral"]
-timestamp: 2026-08-18
+timestamp: 2026-09-05
 ---
 
 # Metanoia
 
 > Área: Moral / Espiritualidad
-> Última actualización: 2026-08-18
+> Última actualización: 2026-09-05
 
 ## Definición
 
@@ -34,6 +34,14 @@ La *Lumen Gentium* del Concilio Vaticano II presenta la adoración como un movim
 **Stegman** plantea la cuestión de la estructura temporal de la metanoia: ¿es una decisión singular, un punto de inflexión irreversible, o es un proceso continuo de conversión que abarca toda la vida cristiana? La respuesta teológica más madura integra ambas dimensiones: hay un acto fundacional (el bautismo, la primera conversión) y hay un crecimiento continuo en la santidad (la metanoia como camino permanente).
 
 **Sreyro** describe la adoración como la «metamorfosis» más profunda: transformar lo que haces en lo que adoras. Cuando el creyente se pone ante la Eucaristía, su vida entera se reordena en torno al Señor: sus prioridades, sus deseos, su manera de ver el mundo. La adoración no es un acto aislado sino el motor de la metanoia permanente.
+
+### Según EAC-18 — Word on Fire Institute
+
+Robert Barron parte del «cambio radical de mente y corazón» con que Jesús inaugura su predicación («Convertíos y creed en el Evangelio», Mc 1,15): la *metanoia* no es un simple cambio de opinión ni un arreglo moral superficial, sino una reorientación completa que reordena la vida entera en torno a Cristo y a su Reino [EAC-18, 01_from_the_desk.md]. El mismo Barron describe su propia trayectoria juvenil como el paso de una religiosidad estrecha a la apertura del alma a la [[gracia_divina]], semejante al encuentro de la samaritana con Cristo en el pozo [EAC-18, 18_spotlight_barron.md].
+
+Matthew Petrusek profundiza en la diferencia entre la *conversio* como acontecimiento puntual y la *metanoia* como transformación permanente: el cristiano no solo se convierte, sino que permanece en [[conversión_continua]], reordenando progresivamente su existencia en torno a Cristo [EAC-18, 03_a_word_from_the_institute.md].
+
+La metanoia así entendida es el movimiento interior que acompaña toda la vida cristiana: se abre con el encuentro con Cristo, se alimenta de los sacramentos y culmina en el amor, pues la caridad es la forma de la vida nueva.
 
 ## Distinciones importantes
 

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Caridad
 description: "La caridad es la más excelente de las virtudes teologales, virtud infusa sobrenatural por la que amamos a Dios sobre todas las cosas por Sí mismo."
 tags: ["moral", "dogmática"]
-timestamp: 2026-07-20
+timestamp: 2026-09-05
 ---
 
 # Caridad
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-07-20
+> Última actualización: 2026-09-05
 
 ## Definición
 
@@ -204,6 +204,14 @@ Pío V condenó los errores de Bayo sobre la caridad (D‑1031–D‑1034, D‑1
 **Santa Brígida de Kildare.** Repartía mantequilla a pobres y huéspedes «prefiriendo obedecer a Dios antes que a los hombres»; multiplicación prodigiosa; espada del padre regalada a un mendigo; hospitalidad escatológica gozosa.
 
 **Cuidado fraterno en las periferias (P. Joel Kelly OSB).** Capellán que cuidó cuerpos y almas hasta la muerte (ELA); gratitud sin voz, sanación por presencia y escucha.
+
+### Según EAC-18 — Word on Fire Institute
+
+El análisis de *The Mission* ofrece la clave del fascículo: la [[caridad]] es el alma de la conversión. Mendoza descubre que la penitencia sin amor es estéril; solo el amor (1 Co 13) da sentido a la ascesis y hace fructificar la justicia — la gracia de Cristo ordena al pecador a la entrega de sí [EAC-18, 07_film.md].
+
+Mary Cording afirma que convertirse es «aprender a amar»: la vida cristiana no es primeramente un conjunto de deberes, sino la respuesta al amor primero de Dios, que hace del corazón un amante; de ahí que el amor sea la forma de toda virtud y de toda misión [EAC-18, 17_special_feature_cording.md].
+
+Robert Barron integra la caridad en la predicación: la fe obra por el amor (Ga 5,6), y la evangelización auténtica comunica el amor de Dios que precede y transforma [EAC-18, 18_spotlight_barron.md].
 
 ## Analizado para
 

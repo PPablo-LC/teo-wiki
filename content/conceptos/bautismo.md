@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Bautismo
 tags: ["sacramental"]
 
-timestamp: 2026-08-09
+timestamp: 2026-09-05
 description: "El bautismo es el primer sacramento de la Nueva Ley, instituido por Nuestro Señor Jesucristo, que purifica al hombre del pecado original y de todos los pecados actuales."
 ---
 # Bautismo
 
 > Área: Sacramental
-> Última actualización: 2026-08-09
+> Última actualización: 2026-09-05
 
 ## Definición
 
@@ -241,6 +241,14 @@ El bautismo es el sacramento del nuevo nacimiento: por él el hombre, libre de l
 ### Según la conferencia «La catedral interior del sacerdote» (CIS)
 
 En el elemento de la pila bautismal, Mons. Munilla subraya que el bautismo recuerda al sacerdote que «somos hijos antes que pastores»: «nuestro gran tesoro es la condición de hijos, en la cual se integra nuestra paternidad». La pila bautismal es el lugar donde «nace el pueblo de Dios», y su presencia en la catedral custodia la identidad fundamental del ministro frente a la tentación de definirse solo por su función o sus resultados. La condición de hijos precede y fundamenta la paternidad espiritual del pastor [CIS, 2026].
+
+### Según EAC-18 — Word on Fire Institute
+
+El arte de la conversión que EAC-18 estudia (Caravaggio y otros maestros) está en íntima conexión con la catequesis bautismal: la iluminación del neófito, el paso de las tinieblas a la luz y la incorporación a Cristo son escenas que el arte supo plasmar para la memoria de la Iglesia [EAC-18, 12_art.md].
+
+Robert Barron insiste en que la gracia precede y obra el [[bautismo]]: el bautizando no se convierte por sus propias fuerzas, sino que es alcanzado por la iniciativa divina, purificado de la herencia del [[fomes_peccati]] y configurado con la muerte y resurrección de Cristo [EAC-18, 18_spotlight_barron.md].
+
+El fascículo presenta así el bautismo como la puerta de la vida nueva: por él el cristiano es miembro del [[cuerpo_místico]], recibe el don del Espíritu y es enviado a la misión [EAC-18, 18_spotlight_barron.md].
 
 ## Distinciones importantes
 

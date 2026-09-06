@@ -2,7 +2,7 @@
 type: Persona
 title: Thomas Merton
 description: "Monje trapense, escritor y místico católico (1915-1968), conocido por sus reflexiones sobre la oración, la contemplación y la vida interior."
-timestamp: 2026-08-20
+timestamp: 2026-09-05
 tags:
   - espiritualidad
   - oración
@@ -13,7 +13,7 @@ tags:
 # Thomas Merton
 
 > Área: Espiritualidad / Misticismo
-> Última actualización: 2026-08-20
+> Última actualización: 2026-09-05
 
 ## Definición
 
@@ -47,6 +47,12 @@ Zimmerer conecta este concepto con la sensibilidad católica de Barron:
 
 - **Conjectures of a Guilty Bystander (1966):** Contiene el famoso pasaje del «point virgen».
 
+### Según EAC-18 — Word on Fire Institute
+
+En la entrevista *Spotlight* del número dedicado a la conversión, Barron presenta a Merton como converso paradigmático: lo descubrió de joven leyendo *La montaña de los siete círculos*. Merton se convirtió desde ninguna religión —«un secularismo modernista completo»—; iba por el camino de la mundanalidad, quería ser rico y famoso. Fue el descubrimiento de Dios, mediado por Aquino y la filosofía medieval, lo que lo despertó. Cuando explicó a su perplejo amigo filósofo Dan Walsh por qué quería ser monje trapense, dijo: «Quiero darlo todo a Dios». «Eso habla un convertido».
+
+Barron recoge además la célebre fórmula de la [[conversión_continua]]: «No somos convertidos solo una vez en nuestras vidas, sino muchas veces, en esa serie interminable de conversiones, y las revoluciones interiores conducen a nuestra transformación» — respondiendo a por qué los conversos apasionados caen en el *backsliding*. Y recomienda *La montaña de los siete círculos* como «una de las grandes historias de conversión» [EAC-18, 18_spotlight].
+
 ## Distinciones importantes
 
 - **Merton y la contemplación:** Para Merton, la contemplación no es una técnica, sino un don de Dios que se recibe en silencio y humildad.
@@ -74,3 +80,4 @@ Zimmerer conecta este concepto con la sensibilidad católica de Barron:
 - Merton, Thomas. *The Seven Storey Mountain*. Harcourt, 1948.
 - Merton, Thomas. *New Seeds of Contemplation*. New Directions, 1961.
 - Merton, Thomas. *Conjectures of a Guilty Bystander*. Doubleday, 1966.
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (18_spotlight_barron_on_conversion.md).

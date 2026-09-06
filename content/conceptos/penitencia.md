@@ -2,13 +2,13 @@
 type: Concepto Teológico
 title: "Penitencia"
 tags: ["ascética", "moral", "sacramental"]
-timestamp: 2026-08-06
+timestamp: 2026-09-05
 description: "Acto de reparar el mal cometido con un gesto de sacrificio: virtud y práctica ascética que se distingue del sacramento de la reconciliación, del que es disposición y prolongación."
 ---
 # Penitencia
 
 > Área: Ascética / Moral
-> Última actualización: 2026-08-06
+> Última actualización: 2026-09-05
 
 ## Definición
 
@@ -73,6 +73,14 @@ La RSB entiende la penitencia como sistema ascético de corrección fraterna reg
 ### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 Cristo instituyó el sacramento de la Penitencia en favor de todos los miembros pecadores de su Iglesia, ante todo para los que, después del Bautismo, hayan caído en el pecado grave y así hayan perdido la gracia bautismal y lesionado la comunión eclesial. El sacramento de la Penitencia ofrece a estos una nueva posibilidad de convertirse y de recuperar la gracia de la justificación (CEC, n. 1446). Incluso para quienes lo reciben sin haber cometido pecado mortal, este sacramento acrecienta la gracia, aumenta las fuerzas espirituales para el combate cristiano, sana progresivamente la concupiscencia y las heridas causadas por los pecados de la vida pasada, contribuye a la formación de la conciencia y es ocasión de eficaz dirección espiritual. No es solo un remedio contra las culpas graves, sino también un importante medio de santificación y de unión con Cristo; por eso la Iglesia aconseja la práctica de la confesión frecuente (CIC, can. 988, 2; CEC, n. 1458) (Ele_Xto_Stos, Cap. III, §4b).
+
+### Según EAC-18 — Word on Fire Institute
+
+El análisis de *The Mission* muestra la penitencia como respuesta del pecador a la [[gracia_divina]]: Mendoza, el traficante de esclavos arrepentido, asume una penitencia que no es mera autopunición, sino disposición al amor que le precede; la conversión del corazón se prueba en la caridad, pues solo el amor (1 Co 13) da sentido a la ascesis [EAC-18, 07_film.md].
+
+Francis Beckwith, desde su propia [[reversión]], subraya que el arrepentimiento no es un acto aislado, sino un movimiento continuo de retorno a la casa del Padre: «la gracia te traerá de regreso», incluso cuando el pecador se ha alejado durante años [EAC-18, 15_feature_beckwith.md].
+
+Robert Barron integra la penitencia en la [[vía_purgativa]]: el alma, purificada por la gracia y el combate contra el [[fomes_peccati]], aprende a rendir su [[verdadero_y_falso_yo]] y a abrirse al amor [EAC-18, 18_spotlight_barron.md].
 
 ## Distinciones importantes
 

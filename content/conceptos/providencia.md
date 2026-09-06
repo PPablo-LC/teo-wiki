@@ -2,14 +2,14 @@
 type: Concepto Teológico
 title: Providencia
 tags: ["dogmática"]
-timestamp: 2026-09-02
+timestamp: 2026-09-05
 description: "La divina providencia es la disposición con que Dios conduce todas las criaturas hacia su fin último."
 ---
 
 # Providencia
 
 > Área: Dogmática
-> Última actualización: 2026-09-02
+> Última actualización: 2026-09-05
 
 ## Definición
 
@@ -58,6 +58,16 @@ Royo Marín trata la providencia divina en el contexto del abandono en Dios y la
 **Dios provee al que sufre (Leonard Andrie).** Tras el colapso de Elías en la desolación (1 Re 19,4-5), «el Señor siempre responde a tu sufrimiento»: Dios permite a Elías dormir y le da el «pastel y el jarro de agua» que la viuda de Sarepta le había ofrecido antes, recordándole que «como proveyó a la viuda, así proveerá a Elías»; «cuando llegan los momentos difíciles, asegúrate de que el Señor siempre proveerá para ti» [EAC-15, 22]. Dios se revela en la «voz mansa» (1 Re 19,12) y ofrece compañía (Eliseo; los 7.000 fieles), desmintiendo la acusación de estar solo [EAC-15, 22].
 
 **Encomendarse a la providencia en el sufrimiento (Hannah Fowerbaugh).** La litania pide «aunque tu silencio amoroso no signifique ausencia»; que la vida está «cuidadosamente sostenida en tus manos», que Dios «no desperdicia nada para acercarme a ti» y que «tus planes para mi vida son buenos» [EAC-15, 20]. La confianza en la providencia aparece así como respuesta espiritual a la ansiedad y al miedo del sufrimiento.
+
+### Según EAC-18 — Word on Fire Institute
+
+Elizabeth Worner describe la [[providencia_divina]] como la sorpresa de la gracia: la vida de los conversos muestra que Dios conduce por caminos imprevisibles, y que quienes se le confían descubren al final «un plan más grande» [EAC-18, 04_midnight_oil.md].
+
+En *Quo Vadis*, la providencia acompaña a Pedro hasta el martirio: la promesa de Cristo de rogar por la fe del pescador (Lc 22,32) se cumple en medio de la persecución, y la caída y el retorno de Pedro manifiestan que Dios gobierna la historia y la vida de cada apóstol [EAC-18, 06_stacks.md].
+
+J.R.R. Tolkien, por su parte, confesó haber «salido de Egipto» por la providencia: tras la muerte de su madre Mabel, la acogida del padre Francis Morgan y el don de la fe fueron los hilos visibles de un designio mayor que lo condujo a una vida plena [EAC-18, 13_feature_tolkien.md].
+
+Fernanda Psihas confirma la misma convicción desde la misión: no hay casualidades; los rechazos y fracasos aparentes estaban ordenados al bien, de modo que la confianza en la providencia sostiene la perseverancia y disuelve la [[soberbia]] [EAC-18, 20_mission_psihas.md].
 
 ## Distinciones importantes
 

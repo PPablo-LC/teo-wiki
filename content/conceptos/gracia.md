@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Gracia
 tags: ["dogmática"]
 
-timestamp: 2026-08-06
+timestamp: 2026-09-05
 description: "Don gratuito que Dios nos da para responder a su llamada: llegar a ser hijos de Dios, partícipes de la naturaleza divina y de la vida eterna."
 ---
 # Gracia
 
 > Área: Dogmática
-> Última actualización: 2026-08-06
+> Última actualización: 2026-09-05
 
 ## Definición
 
@@ -122,6 +122,14 @@ El hombre que, ayudado por la gracia, se entrega a Dios en la acción buena reci
 **Barron** desarrolla la imagen del return home of a prodigal son como paradigma de la gracia: así como el padre del Evangelio sale al encuentro del hijo pródigo con los brazos abiertos antes de que este termine de pronunciar su arrepentimiento, así la gracia de Dios se adelanta siempre al retorno del pecador, no como respuesta merecida sino como don gratuito e inmerecido.
 
 **Barron** afirma que la gracia se manifiesta también en God's permissive will: Dios permite el pecado y el sufrimiento no por impotencia sino por respeto a la libertad humana, y de ese mismo permiso brota la posibilidad de la gracia redentora que transfigura el mal en bien.
+
+### Según EAC-18 — Word on Fire Institute
+
+La historia de María Magdalena ilustra la doctrina central del fascículo: la [[gracia_divina]] precede a toda conversión. Cristo toma la iniciativa y posee al alma amándola primero; solo entonces la pecadora responde con amor y es enviada a la misión [EAC-18, 05_lives.md]. El relato de *The Mission* muestra la misma lógica: Mendoza, el traficante de esclavos, es alcanzado por el amor que le precede, y su [[penitencia]] no se ordena al mérito, sino a dejarse transformar por la caridad [EAC-18, 07_film.md].
+
+Francis Beckwith confirma el primado de la gracia desde su experiencia de [[reversión]]: «la gracia te traerá de regreso» — Dios no abandona al pecador, sino que lo busca y obra en él aun cuando este se ha alejado [EAC-18, 15_feature_beckwith.md].
+
+Robert Barron subraya que la gracia es causa de la vida nueva y no su consecuencia: precede al [[bautismo]], a la fe y a toda obra buena, y su recepción exige la humildad que desarma al [[verdadero_y_falso_yo]] [EAC-18, 18_spotlight_barron.md]. Cuando la gracia es acogida, el hombre entra en la [[divinización]] y en la unión transformante con Dios; cuando es rechazada por la [[soberbia]], se cierra el paso a la salvación [EAC-18, 18, 21].
 
 ## Distinciones importantes
 

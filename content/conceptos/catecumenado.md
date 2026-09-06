@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Catecumenado
 tags: ["iniciación_cristiana", "liturgia"]
 
-timestamp: 2026-05-26
+timestamp: 2026-09-05
 description: "El catecumenado es el período de formación catequética y litúrgica por el que los adultos que desean recibir el bautismo son preparados gradualmente para la iniciación cristiana."
 ---
 # Catecumenado
 
 > Área: Iniciación cristiana / Liturgia
-> Última actualización: 2026-05-26
+> Última actualización: 2026-09-05
 
 ## Definición
 
@@ -32,6 +32,14 @@ Los cc. 788-789 establecen que el catecumenado debe estar organizado según las 
 ### Según el Comentario al CIC (Eunsa)
 
 El Comentario Eunsa subraya que el catecumenado no es mera instrucción doctrinal sino verdadera iniciación en la vida cristiana que integra catequesis, ritos litúrgicos y vida comunitaria. Los catecúmenos gozan ya de ciertos derechos (matrimonio, exequias eclesiásticas) aunque no reciben aún los sacramentos. Su estatuto jurídico es peculiar: pertenecen al Pueblo de Dios por el deseo y la fe, sin estar aún plenamente incorporados por el bautismo.
+
+### Según EAC-18 — Word on Fire Institute
+
+Andrew Allen describe el [[catecumenado]] como el itinerario por el que la Iglesia acompaña la conversión: desde el primer anuncio del [[kerygma]] hasta la iniciación sacramental, con los escrutinios, las entregas de la Tradición y la [[mistagogia]] posterior al bautismo, el neófito es configurado progresivamente con Cristo (CEC 1432) [EAC-18, 16_feature_allen.md].
+
+Allen subraya que el camino catecumenal no es un mero programa doctrinal, sino una escuela de discipulado en comunidad: la parroquia entera acompaña a los catecúmenos con la oración, el testimonio y la vida sacramental [EAC-18, 16_feature_allen.md].
+
+La sección «Soul» del fascículo conecta el catecumenado con el desafío de la [[era_secular]]: la iniciación cristiana debe reconfigurar el imaginario del hombre contemporáneo, ofreciéndole una pertenencia concreta al [[cuerpo_místico]] de Cristo [EAC-18, 21_soul.md].
 
 ## Distinciones importantes
 

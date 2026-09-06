@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Fe
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-07-25
+timestamp: 2026-09-05
 description: "La fe es la primera de las virtudes teologales, virtud infusa sobrenatural por la que creemos firmemente todas las verdades que Dios ha revelado y la Iglesia nos propone para creer."
 ---
 # Fe
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-07-25
+> Última actualización: 2026-09-05
 
 ## Definición
 
@@ -131,6 +131,14 @@ Pío V condenó los errores de Bayo relacionados con la fe (D‑1022, D‑1025, 
 **D‑1302**: «Cuando en los grandes pecadores falta todo amor, falta también la fe; y aun cuando parezca que creen, no es fe divina, sino humana.» Condenada. La condena afirma que la fe divina puede coexistir con el estado de pecado mortal: el pecador puede conservar la fe sobrenatural aunque haya perdido la caridad.
 
 **Pío VI** (1794, D‑1522) — Constitución *Auctorem Fidei*. Condenó la proposición que insinúa que «la fe, por la que empieza la serie de las gracias y por la que, como por voz primera, somos llamados a la salvación y a la Iglesia, es la misma excelente virtud de la fe, por la que los hombres se llaman fieles y lo son», «como si no fuera antes aquella gracia que, como previene la voluntad, así previene también la fe». Declarada sospechosa de herejía, errónea y condenada en Quesnel (D‑1377). La condena afirma que la fe no es la primera gracia, sino que está precedida por una gracia preveniente que dispone la voluntad para creer.
+
+### Según EAC-18 — Word on Fire Institute
+
+Elizabeth Worner presenta la fe como respuesta de confianza a la [[gracia_divina]]: la conversión nace de la sorpresa de sentirse amado y de la decisión de rendirse a Aquel que ha tomado la iniciativa [EAC-18, 04_midnight_oil.md].
+
+El fascículo vincula la fe con la renovación de la vida moral: la verdadera conversión no es un cambio superficial, sino la reorientación del corazón que reordena la conducta entera según el Evangelio; la fe obra por la caridad [EAC-18, 11].
+
+Fernanda Psihas confirma, desde la misión, que la fe se vive y se transmite en medio de las contradicciones: el testimonio fiel, aun en los rechazos de la [[era_secular]], manifiesta que la fe es un don que sostiene y que se ofrece [EAC-18, 20_mission_psihas.md].
 
 ## Analizado para
 

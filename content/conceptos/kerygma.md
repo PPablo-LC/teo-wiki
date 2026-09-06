@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Kerygma
 tags: ["dogmática", "evangelización"]
 
-timestamp: 2026-07-14
+timestamp: 2026-09-05
 description: "Anuncio central y proclamación solemne del acontecimiento de la salvación: muerte, resurrección y venida gloriosa de Jesucristo."
 ---
 # Kerygma
 
 > Área: Dogmática / Evangelización
-> Última actualización: 2026-07-14
+> Última actualización: 2026-09-05
 
 ## Definición
 
@@ -40,6 +40,14 @@ El CompDS presenta el kerygma como fuente de la doctrina social: «La doctrina s
 ### Según el Concilio Vaticano II (ConcVatII)
 
 El Concilio Vaticano II, en *Ad Gentes* §6, enseña que «la actividad misional, es decir, la evangelización y la implantación de la Iglesia entre los pueblos o grupos en los que todavía no ha echado raíces, constituye una actividad central de la Iglesia» (AG §6). El Decreto *Ad gentes* sitúa la predicación del Evangelio de Jesucristo como «medio principal» de la implantación de la Iglesia (AG §6), y la Constitución *Dei Verbum* enseña que la Palabra de Dios debe ser «anunciada con la misma fe» y «comunicada sin alteración» (DV §7).
+
+### Según EAC-18 — Word on Fire Institute
+
+Andrew Allen recuerda que el anuncio del [[kerygma]] —el primer anuncio de Jesucristo muerto y resucitado— es el corazón del itinerario del [[catecumenado]]: la conversión responde a ese anuncio, pues «la fe nace de la escucha», y el camino catecumenal se ordena a hacer de cada bautizando un discípulo (CEC 1432) [EAC-18, 16_feature_allen.md].
+
+David Rinaldi, desde las periferias misioneras, sostiene que el kerygma se proclama de modo privilegiado con el testimonio: «la fe se contagia más que se enseña», porque el primer anuncio es más que doctrina — es el encuentro con una Persona viva que se comunica en la Iglesia y por la evangelización [EAC-18, 22_peripheries.md].
+
+De ahí que el fascículo presente el kerygma como mensaje de alegría dirigido a los alejados y a los tibios, anunciado con confianza y humildad, confiando su eficacia a la [[gracia_divina]] [EAC-18, 16, 22].
 
 ## Distinciones importantes
 

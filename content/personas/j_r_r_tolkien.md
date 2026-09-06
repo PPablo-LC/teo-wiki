@@ -3,7 +3,7 @@ type: Persona
 title: "J.R.R. Tolkien"
 description: "Filólogo y escritor católico inglés (1892-1973), autor de El Señor de los Anillos; puente entre la cultura medieval y la moderna, creador de la eucatastrofa."
 tags: ["literatura_católica", "siglo_xx"]
-timestamp: 2026-08-22
+timestamp: 2026-09-05
 ---
 
 # J.R.R. Tolkien
@@ -33,6 +33,19 @@ La sección *Spotlight* entrevista a Holly Ordway sobre su libro *Tolkien's Mode
 - **Personalidad juguetona:** sentido del juego con hipérboles deliberadas en lo que no importa; leerlo literalmente es error de lector, no defecto del autor.
 - **Relevancia apologética:** reconocer cómo dialoga con la cultura moderna hace su crítica de los fracasos de la modernidad más relevante y significativa.
 
+### Según Evangelization & Culture n.º 18 «Conversion» (EAC-18)
+
+**Holly Ordway** («J.R.R. Tolkien's Journey of Faith», 13_jrr_tolkiens_journey_of_faith.md) narra el viaje espiritual de Tolkien:
+
+- **Una conversión, no una fe de cuna.** Tolkien fue bautizado de niño en la Iglesia de Inglaterra, en Bloemfontein (Sudáfrica). Su madre Mabel fue recibida en la Iglesia Católica en 1900, cuando Tolkien tenía ocho años, causando disgusto familiar y pobreza; la diabetes que acabaría con su vida comenzaba a manifestarse.
+- **La recepción «adulta».** Con ocho años superaba la «edad de la razón», por lo que no fue recibido automáticamente: lo fue formalmente en su Primera Comunión y Confirmación, el día de Navidad de 1903, a nueve días de cumplir doce años.
+- **Una fe que no era un *fait accompli*.** Tras la muerte de Mabel (1904) se habló entre los parientes de impugnar su testamento y enviar a los muchachos a un internado protestante. Reconocer que el muchacho pudo haberse vuelto resentido —como el poeta Robert Graves, que dijo «adiós a todo eso»— ayuda a atender a la profundidad de su vida espiritual.
+- **«Salí de Egipto».** Tolkien enmarcó su conversión en términos de [[éxodo]]: «Soy uno que salió de Egipto, y pido a Dios que ninguna de mi semilla vuelva allá»; «Canaán parece distinto a quienes han entrado en ella desde el desierto». Vio su entrada en la Iglesia como un movimiento del erastianismo a la [[libertad_religiosa]].
+- **El ecumenismo cálido de Tolkien.** «Dios no puede ser limitado… y puede usar cualquier canal para su gracia». Su actitud cálidamente [[ecumenismo|ecuménica]] fue el fundamento de profundas amistades con anglicanos como [[c_s_lewis]].
+- **La Iglesia como realidad sacramental.** Tolkien deseaba que su amigo Raymond Chambers (que se llamaba bromeando «anglo-gato») entrara en la Iglesia: ser católico es más que asentir a ciertas doctrinas; es una realidad sacramental, una comunión «encarnada», la continuación de la [[encarnación]] de Cristo en el tiempo y el espacio. «El deseo es tan intenso… de que aquellos a quienes amamos y reverenciamos compartan esa comunión, que no es mera palabra teológica».
+
+El ensayo está adaptado de *Tolkien's Faith: A Spiritual Biography* (Word on Fire Academic, 2023), publicado el 2 de septiembre de 2023, quincuagésimo aniversario de la muerte de Tolkien.
+
 ## Relevancia teológica
 
 Tolkien demuestra la fecundidad de la [[inculturación]] intelectual: la fe no teme a la modernidad sino que la lee, la discierne y la transfigura. Su sentido del juego y del humor medieval (la risa de los hobbits, la eucatastrofa) lo emparenta con la teología del [[humor]].
@@ -44,3 +57,4 @@ Tolkien demuestra la fecundidad de la [[inculturación]] intelectual: la fe no t
 ## Referencias
 
 - EAC-8, archivo 08
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (Holly Ordway, 13_jrr_tolkiens_journey_of_faith.md).

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Divinización
 tags: ["soteriología", "gracia"]
 
-timestamp: 2026-06-23
+timestamp: 2026-09-05
 description: "La divinización (*theosis*) es la participación del hombre en la naturaleza divina por la gracia (2 P 1,4)."
 ---
 # Divinización
 
 > Área: Soteriología / Gracia
-> Última actualización: 2026-06-23
+> Última actualización: 2026-09-05
 
 ## Definición
 
@@ -32,6 +32,14 @@ Juan Pablo II completa con su audiencia sobre la [[templanza]] el ciclo de las �
 Aunque JPII no emplea explícitamente el término «divinización» en esta audiencia, su enseñanza sobre la templanza apunta a la elevación sobrenatural del hombre. La virtud —dice— brota de la vida misma y la configura; no es algo abstracto sino que se encarna en el hombre concreto que vive virtuosamente. La templanza, al hacer al hombre dueño de sí («dominio del yo superior sobre el yo inferior»), lo dispone para la belleza interior y para participar de la vida divina. «El hombre debe ser hermoso sobre todo interiormente» —esta belleza interior es reflejo de la participación en la naturaleza divina, a la que el hombre está llamado desde la creación y que es restaurada por la gracia.
 
 La «humildad del cuerpo y del corazón» que exige la templanza es condición para la armonía interior que permite al hombre ordenarse a Dios, en quien se realiza plenamente la divinización.
+
+### Según EAC-18 — Word on Fire Institute
+
+Matthew David Bulman relaciona la conversión con la [[divinización]]: el fin del camino cristiano es la participación en la vida divina (la *theosis* de la tradición oriental), pues Dios se hizo hombre para que el hombre se hiciera Dios por gracia [EAC-18, 14_feature_bulman.md]. Bulman recupera la enseñanza de que el hombre solo se encuentra a sí mismo «en la entrega sincera de sí mismo» (GS 24), citada también por Benedicto XVI, y llama a recuperar la mística como meta de la vida cristiana.
+
+Andrew Allen muestra el itinerario de la iniciación cristiana como el camino sacramental de la divinización: por el [[bautismo]] y las demás etapas del [[catecumenado]], el cristiano es incorporado a Cristo e introducido progresivamente en la comunión trinitaria [EAC-18, 16_feature_allen.md].
+
+La divinización aparece así no como una doctrina exótica, sino como la consumación de la gracia bautismal: el cristiano participa de la vida de Dios (2 Pe 1,4) y es llamado a vivir ya como hijo en el Hijo [EAC-18, 14, 16].
 
 ## Distinciones importantes
 

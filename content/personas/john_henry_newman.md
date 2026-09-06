@@ -3,13 +3,13 @@ type: Persona
 title: John Henry Newman
 tags: ["personas", "teólogos", "santos"]
 
-timestamp: 2026-06-10
+timestamp: 2026-09-05
 description: "John Henry Newman (1801-1890), cardenal de la Santa Iglesia Romana, teólogo, poeta y Doctor de la Iglesia (canonizado en 2019)."
 ---
 # John Henry Newman
 
 > Área: Personas / Teólogos / Santos
-> Última actualización: 2026-09-02
+> Última actualización: 2026-09-05
 
 ## Contexto histórico
 
@@ -72,9 +72,13 @@ En suma, para Newman la Iglesia necesita a la universidad y la universidad neces
 
 **Newman en Barron (02_from_the_desk.md).** El propio Barron, en su carta editorial, invoca a Newman para definir la educación: el propósito de la educación universitaria es cultivar la mente «liberal», la mente libre (*liber*), libre precisamente de la utilidad.
 
+### Según EAC-18 — Word on Fire Institute
+
+En el número dedicado a la conversión, Barron presenta a Newman —junto a Agustín y Edith Stein— como ejemplo de [[conversión]] **intelectual**: se convirtió desde el anglo-catolicismo del Movimiento de Oxford, puramente por motivos intelectuales, tras años de estudio de los Padres de la Iglesia y de la historia de la Iglesia primitiva que lo condujeron casi inexorablemente a Roma. Barron subraya el punto newmaniano esencial: **no podemos ser indiferentes acerca de lo que creemos**. Newman se negó a reducir la religión a la ética —a «abandonar la doctrina y quedarse con la conducta moral»—; la conversión intelectual es la respuesta a la cuestión de la verdad [EAC-18, 18_spotlight_barron_on_conversion.md].
+
 ## Ver también
 
-[[erik_varden]], [[san_bernardo]], [[león_xiv]], [[ejercicios_espirituales_2026]]
+[[erik_varden]], [[san_bernardo]], [[león_xiv]], [[ejercicios_espirituales_2026]], [[conversión]], [[metanoia]]
 
 ## Referencias
 
@@ -82,3 +86,4 @@ En suma, para Newman la Iglesia necesita a la universidad y la universidad neces
 - [EjEsp2026, epílogo]
 - EAC-16, *Evangelization & Culture, Issue 16 — Pope Benedict XVI* (Summer 2023), Word on Fire Institute (Rowland, Bradford).
 - EAC-17, *Evangelization & Culture, Issue 17 — Education* (Autumn 2023), Word on Fire Institute (Levering, 10_minds.md; Minnis, 19_special_feature_minnis.md; Barron, 02_from_the_desk.md).
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (18_spotlight_barron_on_conversion.md).

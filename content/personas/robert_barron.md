@@ -2,13 +2,13 @@
 type: Persona
 title: Robert Barron
 tags: ["obispos", "teólogos", "comunicadores", "fundadores"]
-timestamp: 2026-09-02
+timestamp: 2026-09-05
 description: "Bishop Robert Barron (b. 1959), arzobispo católico estadounidense, fundador de Word on Fire y del Word on Fire Institute."
 ---
 # Robert Barron
 
 > Área: Obispos / Comunicadores
-> Última actualización: 2026-09-02
+> Última actualización: 2026-09-05
 
 ## Biografía
 
@@ -82,9 +82,29 @@ Barron es el autor de la carta editorial del número dedicado a la educación (�
 
 **Crisis por la desaparición de las artes liberales.** Barron cree que hay una correlación entre la desaparición de las artes liberales y el aumento demostrable de ansiedad, depresión y pensamientos suicidas, especialmente entre los jóvenes: «Cuando apartamos las disciplinas que tratan del sentido, ¿nos sorprendemos de que la gente encuentre la vida cada vez menos significativa?».
 
+### Según EAC-18 — Word on Fire Institute
+
+En el número dedicado a la conversión, Barron es el autor de la carta editorial y el entrevistado de la sección central *Spotlight*, que recoge el tema editorial del año de Word on Fire.
+
+**Carta editorial (From the Desk, 01_from_the_desk.md).** Barron propone una teología de la conversión que no es «un mero cambio de opinión» sino la raíz nueva que la gracia planta en la totalidad de la persona. Cinco claves:
+- **La conversión es don de Dios**: «ciertamente podemos cooperar, pero en el fondo es un don de lo alto… Es Dios quien nos da un nuevo corazón», como en *La conversión* de Antonio Machado.
+- **Cristo es el fundamento**: la conversión exige a la vez «la perdición del falso yo y la resurrección del verdadero yo». El falso yo —el ego, «un demonio»— es esa imagen de nosotros mismos que fabricamos (y que las redes sociales amplifican) para orientar la vida; el verdadero yo es quien somos a los ojos de Dios, imagen de Cristo redimido. «Conócete a ti mismo» se vuelve: «sígueme y no te conozcas a ti mismo — deja que yo te defina».
+- **Metanoia**: la llamada de Jesús «convertíos» (cf. Mt 4,17) significa originariamente «ir más allá de la mente». La mente herida por el pecado se desplaza hacia el **camino, y la verdad, y la vida**.
+- **Conversión y cultura**: HVTech y las redes sociales erigen a escala industrial un falso yo como producto de consumo, y la conversión de la cultura es ese movimiento contrario.
+- **Deificación / cristificación**: el destino de la conversión es «llegar a ser como Dios… compartir la vida divina»: la *theosis* que Agustín y Aquino leen en «Dios se hizo hombre para que el hombre se hiciera Dios» (cf. 2 Pe 1,4).
+
+**Spotlight: Bishop Barron on Conversion (18_spotlight_barron_on_conversion.md).** Entrevistado por Tod Worner, Barron despliega su visión pastoral de la conversión:
+- **Definición**: la conversión es el «despojo» (*stripping*) del yo viejo y la reordenación del deseo: el ciego Bartimeo que «tira su manto», lo que «significa abandonar su antigua vida», para ir tras Jesús. Es misterio y viaje.
+- **Los conversos del número como ejemplos**: [[thomas_merton]] y [[dorothy_day]] (conversión desde la mundanalidad), Newman y Edith Stein (conversión intelectual), Agustín (conversión por la predicación de [[san_ambrosio]]).
+- **Conversión como gracia**: no forzar; hay que presentar a Cristo y dejar que la gracia actúe.
+- **Conversión continua**: Barron cita a Merton («No somos convertidos solo una vez en nuestras vidas, sino muchas veces»), y explica el *backsliding*: hasta el *fomes peccati* del pecado (Trento) permanece tras el bautismo; piensa en Pedro (Mt 16) confesando a Cristo, y luego acercándose a paso pesado (cf. Mt 16,17-23; Lc 22,33.60).
+- **Gracia cara**: el film *The Mission* no enseña «gracia barata» (Bonhoeffer): Mendoza paga un precio real por no ser libre; el fuego destruye lo que se aferra al pasado; «cuando Cristo llama a un hombre, le pide venir y morir» (Bonhoeffer). La pretensión de guardarse algo es el fracaso de la gracia; la conversión cuesta.
+- **La conversión y la Iglesia**: la [[rito_de_iniciación_cristiana_de_adultos|OCIA]] como cauce de las conversiones, y que la evangelización ha de ser con confianza y no a la defensiva; «la mejor forma de evangelizar es vivir tu propia vida como católico de forma vibrante, entusiasta y alegremente».
+- **Ecumenismo y secularismo**: la «nación de conversos» de más rápido crecimiento exige al converso una hospitalidad que sabe ver la imagen de Dios en todo hombre.
+
 ## Ver también
 
-[[evangelización]], [[nueva_evangelización]], [[evangelización_digital]], [[Word_on_Fire_Institute]]
+[[evangelización]], [[nueva_evangelización]], [[evangelización_digital]], [[Word_on_Fire_Institute]], [[conversión]], [[metanoia]], [[verdadero_y_falso_yo]], [[conversión_continua]], [[cristificación]], [[deificación]], [[gracia]], [[cuerpo_místico]], [[rito_de_iniciación_cristiana_de_adultos]], [[catecumenado]]
 
 ## Referencias
 
@@ -94,5 +114,6 @@ Barron es el autor de la carta editorial del número dedicado a la educación (�
 - WoF-2, 01_from_the_desk.md
 - EAC-13, 01_from_the_desk.md y 18_spotlight_barron.md
 - EAC-17, 02_from_the_desk.md (carta editorial sobre educación)
+- EAC-18, 01_from_the_desk.md y 18_spotlight_barron_on_conversion.md (entrevista de Tod Worner sobre la conversión)
 - Barron, Robert. *Eucharist* (Word on Fire Institute, 2021).
 - Word on Fire website

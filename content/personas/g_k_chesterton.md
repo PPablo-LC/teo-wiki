@@ -3,7 +3,7 @@ type: Persona
 title: "G.K. Chesterton"
 description: "Ensayista y apologista católico inglés (1874-1936), maestro del paradojo y del humor como acto de fe; influencia decisiva en la apologética del siglo XX."
 tags: ["hagiografía", "apologética", "literatura_católica"]
-timestamp: 2026-08-22
+timestamp: 2026-09-05
 ---
 
 # G.K. Chesterton
@@ -46,6 +46,14 @@ Dale Ahlquist («The Eucharistic Spirituality of G.K. Chesterton») desarrolla l
 - **El «materialismo místico» cristiano.** El cristianismo estuvo marcado desde su nacimiento por un «materialismo místico», centrado en el altar y el sacrificio, que es la continuidad histórica que solo la Iglesia católica preserva.
 - **La Eucaristía como acción de gracias.** Su espiritualidad eucarística se resume en la etimología de *eucaristía*: **agradecimiento**. «El agradecimiento es la forma más alta de pensamiento»; «la prueba de toda felicidad es la gratitud». Vivió la contrición y la contemplación como hábito: «estaba completamente consciente de la Cosa… trajo la contemplación a esta tierra y la convirtió en un hábito». De ahí su humildad, bondad y santidad — y por eso fue un hombre feliz.
 
+### Según Evangelization & Culture n.º 18 «Conversion» (EAC-18)
+
+Chesterton es invocado en el número dedicado a la conversión en tres registros:
+
+- **«The Convert» (poema).** El artículo de poesía presenta el poema «The Convert», compuesto el mismo día (1922) en que Chesterton fue recibido en la Iglesia católica y que, según Tod Worner, celebra una resurrección —la suya propia—. El poema condensa la conversión como transformación total y despertar a la vida nueva: «Los sabios tienen cien mapas que ofrecer… hacen pasar la razón por muchos tamices / que guardan la arena y dejan ir libre el oro: / y todas estas cosas son menos que polvo para mí, / porque mi nombre es Lázaro y vivo» [EAC-18, 08_poetry].
+- **La casa con cien puertas.** Barron cita a Chesterton en la entrevista *Spotlight*: «La Iglesia es una casa con cien puertas, y no hay dos hombres que entren por exactamente el mismo ángulo» — cada conversión es única porque cada persona es única, y la gracia nos alcanza por caminos diversos. También: «La Iglesia Católica es la única cosa que salva al hombre de la esclavitud degradante de ser un hijo de su época» [EAC-18, 18].
+- **La ligereza de los ángeles.** Barron recuerda en la misma entrevista: «Los ángeles pueden volar porque se toman a sí mismos a la ligera», en el contexto del despojo del ego en la conversión bautismal [EAC-18, 18].
+
 ## Relevancia teológica
 
 Chesterton demuestra que el humor no es lo contrario de la seriedad dogmática sino su aliado: solo una fe segura puede permitirse reír. Su apologética del paradojo (el cristianismo como respuesta que abraza ambos cuernos de cada dilema falso) anticipa la crítica contemporánea al relativismo.
@@ -58,3 +66,4 @@ Chesterton demuestra que el humor no es lo contrario de la seriedad dogmática s
 
 - EAC-8, archivos 02, 04, 13, 14, 16, 18, 20
 - Ahlquist, Dale. «The Eucharistic Spirituality of G.K. Chesterton», en *Evangelization & Culture* 13 (Autumn 2022).
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (08_poetry_the_convert.md; 18_spotlight_barron_on_conversion.md).

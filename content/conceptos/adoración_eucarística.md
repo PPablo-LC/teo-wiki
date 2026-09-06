@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Adoración eucarística
 tags: ["dogmática_—_litúrgica"]
 
-timestamp: 2026-08-30
+timestamp: 2026-09-05
 description: "Culto de latría dirigido a Jesucristo realmente presente en la Sagrada Eucaristía bajo las especies del pan y del vino."
 ---
 # Adoración eucarística
 
 > Área: Dogmática — Litúrgica
-> Última actualización: 2026-08-30
+> Última actualización: 2026-09-05
 
 ## Definición
 
@@ -78,6 +78,14 @@ En el elemento del altar y el sagrario, León XIV pide «hombres adoradores, hom
 **Fr. Josh Johnson (Making Disciples of All Ethnicities)** presenta la adoración como *fundamento de la misión*: el «primer mandato» que Jesús dio a los Apóstoles tras la Última Cena no fue enseñar, predicar ni hacer discípulos, sino invitarlos a «sentarse y quedarse despiertos conmigo» en Getsemaní (Mt 26,36-38). De ese «holy huddle» orante brotó Pentecostés (Hch 2) y, con él, la misión universal (Mt 28,19; *ethnos*). Nadie puede sentarse ante el Cuerpo, Sangre, Alma y Divinidad de Cristo «sin ser transformado»: «informará nuestras mentes con su lógica, conformará nuestros corazones a sus deseos y transformará nuestras vidas para entregarlas a sus planes». La hora santa diaria que Madre Teresa instauró en las Misioneras de la Caridad (1973) duplicó las vocaciones. La adoración es hospitalaria de modo universal: «cualquiera y todos son bienvenidos», sin necesidad de catequesis previa, y en ella el ecumenismo se vive contemplativamente (el seminarista luterano que increpa la Hostia y acaba confesando la presencia real).
 
 **Sr. Alicia Torres (The Sacrament of Restored Identity)** une la adoración a la sanación de la identidad: al abrir el sagrario uno se encuentra con Cristo como Tomás tocando el costado: «¡Señor mío y Dios mío!» (Jn 20). De la presencia eucarística se recibe la certeza de ser «hijos amados del Padre», lo que purifica y profundiza los lazos humanos.
+
+### Según EAC-18 — Word on Fire Institute
+
+En el bloque «Emmaus» de EAC-18, Erika Walker narra cómo la [[adoración_eucarística]] en Phoenix se convirtió en el corazón de una comunidad misionera: ante el [[presencia_real|Santísimo Sacramento]], los fieles aprenden a escuchar, a adorar y a salir después a servir [EAC-18, 09_spotlight_stories.md]. La adoración se presenta así como escuela de conversión permanente, en íntima conexión con la [[eucaristía]].
+
+El testimonio de quien encuentra en la Eucaristía diaria el pan que sostiene la vida cotidiana completa este cuadro: el contacto asiduo con el Señor en el Sacramento va configurando al alma y la prepara para el anuncio [EAC-18, 09_spotlight_stories.md].
+
+De la adoración brota la misión: el que ha contemplado a Cristo no puede callar, sino que lo comunica con la vida y la palabra, haciendo de la Eucaristía la fuente y la cumbre de la vida cristiana [EAC-18, 09].
 
 ## Distinciones importantes
 

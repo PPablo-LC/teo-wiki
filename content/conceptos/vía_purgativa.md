@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Vía Purgativa
 tags: ["ascética"]
 
-timestamp: 2026-08-09
+timestamp: 2026-09-05
 description: "La vía purgativa es el primer grado de la vida espiritual, correspondiente a la caridad incipiente."
 ---
 # Vía Purgativa
 
 > Área: Ascética
-> Última actualización: 2026-08-09
+> Última actualización: 2026-09-05
 
 ## Definición
 
@@ -44,6 +44,14 @@ Juan Pablo II se refiere a las vías purgativa, iluminativa y unitiva de la mís
 ### Según la conferencia «La catedral interior del sacerdote» (CIS)
 
 Mons. Munilla identifica el umbral de la catedral con la vía purificativa: «el umbral marca un paso, una separación necesaria»; se trata de la «pedagogía del umbral», despojarse para poder entrar. La conciencia de indignidad —simbolizada en el agua bendita— y la necesidad de desmundanizarse son el tránsito que prepara el encuentro con Dios: «se nos pega el polvo del mundo; no es tan fácil pasar de la calle a recibir la comunión sin más». Como el tirón de orejas a Pedro («tú piensas como los hombres, no como Dios», Mt 16,23), el sacerdote ha de purificarse de la visión carnal. Los consejos evangélicos (celibato, pobreza, obediencia) son el despojamiento del yo propio de esta vía [CIS, 2026].
+
+### Según EAC-18 — Word on Fire Institute
+
+Robert Barron presenta la conversión como un camino de purificación en el que la [[gracia_divina]] va despojando al alma de su [[verdadero_y_falso_yo]]: el orgullo, la autosuficiencia y el apego al pecado (el [[fomes_peccati]]) ceden progresivamente a la acción de Cristo, que configura al discípulo a su muerte y resurrección [EAC-18, 18_spotlight_barron.md].
+
+Esta fase purgativa no es puro esfuerzo humano, sino la obra del Señor en el alma que se deja amar: la ascesis cristiana, la [[penitencia]] y la recepción humilde de la corrección se ordenan a la caridad, pues solo el amor hace madurar la vida nueva [EAC-18, 18_spotlight_barron.md].
+
+El testimonio de los conversos del fascículo muestra que la vía purgativa se recorre en comunidad —la [[iglesia_doméstica]], la parroquia, la escuela del discipulado— y que su término es la unión transformante con Cristo [EAC-18, 18_spotlight_barron.md].
 
 ## Distinciones importantes
 

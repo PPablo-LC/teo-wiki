@@ -1,8 +1,8 @@
 ---
 type: Documento
 title: Evangelization & Culture
-description: "Trimestral del Word on Fire Institute (Bishop Robert Barron) con números sobre Creatividad, Economía, Era Digital, Cine, Escritura, Esperanza, sensibilidad católica, Humor, Poesía, Libertad, Postrimerías, Infancia y Eucaristía"
-timestamp: 2026-08-30
+description: "Trimestral del Word on Fire Institute (Bishop Robert Barron) con números sobre Creatividad, Economía, Era Digital, Cine, Escritura, Esperanza, sensibilidad católica, Humor, Poesía, Libertad, Postrimerías, Infancia, Eucaristía, Alegría, Sufrimiento, Benedicto XVI, Educación y Conversión"
+timestamp: 2026-09-05
 tags:
   - evangelización
   - cultura
@@ -16,7 +16,7 @@ tags:
 # Evangelization & Culture
 
 > Área: Teología pastoral / Evangelización
-> Última actualización: 2026-08-30
+> Última actualización: 2026-09-05
 
 ## Descripción
 
@@ -43,6 +43,7 @@ tags:
 | 15 | Issue 15 | Suffering | Spring 2023 | [[evangelization_and_culture_issue_15_suffering]] |
 | 16 | Issue 16 | Pope Benedict XVI | Summer 2023 | [[evangelization_and_culture_issue_16_benedict_xvi]] |
 | 17 | Issue 17 | Education | Autumn 2023 | [[evangelization_and_culture_issue_17_education]] |
+| 18 | Issue 18 | Conversion | Winter 2023 | [[evangelization_and_culture_issue_18_conversion]] |
 
 ## Temas centrales por número
 
@@ -504,9 +505,52 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - Fr. John P. Floeder (Saint Paul Seminary)
 - Christopher Barnard (American Conservation Coalition)
 
+### Issue 18: Conversion (Winter 2023)
+
+Para el desarrollo completo de este número, véase [[evangelization_and_culture_issue_18_conversion]].
+- La *metanoia* como renovación de la visión, actitud y comportamiento; «el reino de Dios ha llegado; arrepentíos y creed en el Evangelio» (Mc 1,15); el Éxodo como símbolo de la conversión (Barron)
+- La etimología latina *conversio* («giro»); la conversión como proceso continuo y como evento fijo (analogía del matrimonio); la paradoja «ya sí / todavía no» (Petrusek)
+- La sorpresa y la rendición: el fracaso del «programa» humano; «el hombre propone y Dios dispone»; Dios construye un palacio distinto al de nuestros planos (C.S. Lewis) (Worner)
+- Chesterton y la conversión: la conversión como «mil pinceladas»; «la Iglesia es una casa con cien puertas»; *The Catholic Church and Conversion* (Worner, Barron)
+- La conversión de Santa María Magdalena: posesión completa, primero por el diablo y luego por Cristo; «somos convertidos para poder ser enviados» (Lee)
+- *Quo Vadis* y la *conversio* aplicable a todos: Pedro, la Roca, debe volverse a la providencia; «Señor, ¿a quién iremos?» (Jn 6,68) (Susanka)
+- *The Mission*: la penitencia de Mendoza; la gracia no cancela el sufrimiento sino que lo santifica; la misión de la Iglesia como indefectible (Ward)
+- La conversión de San Agustín: el *tolle lege* del huerto de Milán; la conversión del intelecto y de la voluntad; la conversión a la Iglesia, al *totus Christus* (Clemmons)
+- Caravaggio y las imágenes de conversión: la llamada de Mateo, Emaús, la incredulidad de Tomás, la conversión de Saulo; «la conversión es un cambio fundamental y consecuente» (Stevens)
+- La conversión de Tolkien: Mabel Tolkien, «salí de Egipto»; la Iglesia como realidad sacramental (Ordway)
+- De la oscuridad del ego al diaconado: Sócrates y la divinización; el matrimonio como escuela de auto-donación; GS 24 (Bulman)
+- La reversión de Beckwith: las cuatro cuestiones (penitencia, eucaristía, sucesión apostólica, justificación); lo que buscaba era la unión con Dios
+- La OCIA como proceso de conversión: el catecumenado; el encuentro con el Cristo vivo (*Deus Caritas Est* 1); la mystagogia (Allen, Whittington)
+- El señuelo del «proselitismo»: el verdadero peligro es no evangelizar; la fe crece solo por invitación (CEC 116); el fin de la evangelización es la conversión (Petrusek)
+- El duelo y la poesía como camino de conversión: Dante, Eliot, Frost, Miłosz, Weil; «porque la verdad de Dios es amor, la conversión a Dios es conversión al amor» (Cording)
+- Barron en podcast: «venir y morir» (Bonhoeffer); Bartimeo y la tiranía del ego; la gracia barata vs. costosa; Merton, Day, Newman, Edith Stein; el *fomes peccati*; Emaús como estructura de la Misa (Palabra, Eucaristía, Misión)
+- La conversión de San Ignacio: el guerrero herido que encuentra su verdadera valía (Scharl)
+- Ciencia y fe: la ciencia como admiración de la creación; la rendición a la providencia; evangelizar siendo uno mismo (Psihas)
+- La conversión en la era secular: la secularidad como opcionalidad (Charles Taylor); la mystagogia; el encuentro con Cristo, Cuerpo Místico (Whittington)
+- El kerygma y el ministerio relacional: «la fe se contagia más que se enseña»; *Evangelii Nuntiandi*; NET Ministries (Rinaldi)
+- Los cinco testimonios de conversión (Emmaus Writing Groups): la paz en Camerún, la Adoración, el duelo, la adicción y el perdón
+
+- Bishop Robert Barron (director, Word on Fire)
+- Dr. Matthew R. Petrusek (filosofía, Word on Fire Institute)
+- Tod Worner (Managing Editor)
+- Rozann Lee (diseño creativo, Word on Fire)
+- Joseph Susanka (Word on Fire)
+- Fr. Michael Ward (literatura, Oxford)
+- Dr. Thomas Clemmons (teología)
+- Michael Stevens (arte y fe, Word on Fire)
+- Dr. Holly Ordway (literatura, Word on Fire Academic)
+- Dcn. Jason Bulman (diácono)
+- Dr. Francis J. Beckwith (filosofía, Baylor University)
+- Andrew Allen (OCIA/RCIA)
+- Robert Cording (poeta y ensayista)
+- J.C. Scharl (poeta)
+- Fernanda Psihas (física de partículas)
+- Fr. Richard T. Whittington (pastoral)
+- David Rinaldi (NET Ministries)
+
 ## Relación con otras fuentes
 
-Esta fuente complementa los artículos sobre [[evangelización]], [[evangelización_digital]], [[medios_de_comunicación_social]], [[belleza]], [[arte]], [[doctrina_social_de_la_iglesia]], [[nueva_evangelización]], [[cultura]], [[humor]], [[eutrapelia]], [[alegría_cristiana]], [[poesía]], [[fe_y_razón]], [[eclesiología_de_la_comunión]], [[dignidad_de_la_persona]], [[educación]], [[formación]], [[artes_liberales]] y [[educación_católica]].
+Esta fuente complementa los artículos sobre [[evangelización]], [[evangelización_digital]], [[medios_de_comunicación_social]], [[belleza]], [[arte]], [[doctrina_social_de_la_iglesia]], [[nueva_evangelización]], [[cultura]], [[humor]], [[eutrapelia]], [[alegría_cristiana]], [[poesía]], [[fe_y_razón]], [[eclesiología_de_la_comunión]], [[dignidad_de_la_persona]], [[educación]], [[formación]], [[artes_liberales]], [[educación_católica]], [[conversión]], [[metanoia]], [[kerygma]], [[catecumenado]] y [[testimonio_cristiano]].
 
 ## Ver también
 
@@ -531,3 +575,4 @@ Esta fuente complementa los artículos sobre [[evangelización]], [[evangelizaci
 - Evangelization & Culture, Issue 15 (2023) — Suffering
 - Evangelization & Culture, Issue 16 (2023) — Pope Benedict XVI
 - Evangelization & Culture, Issue 17 (2023) — Education
+- Evangelization & Culture, Issue 18 (2023) — Conversion

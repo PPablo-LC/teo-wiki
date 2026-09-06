@@ -2,13 +2,13 @@
 type: Persona
 title: Dorothy Day
 tags: ["persona", "doctrina_social", "laicado", "opción_preferencial"]
-timestamp: 2026-09-02
+timestamp: 2026-09-05
 description: "Dorothy Day (1897-1980), sierva de Dios, periodista y conversa católica, cofundadora con Peter Maurin del Movimiento Obrero Católico (Catholic Worker)."
 ---
 # Dorothy Day
 
 > Área: Persona / Doctrina social
-> Última actualización: 2026-09-02
+> Última actualización: 2026-09-05
 
 ## Contexto histórico
 
@@ -40,6 +40,10 @@ En «Bridges of Mercy for Healing After Abortion» (Mary McClusky, archivo 23), 
 
 Además, en *The Holy Quest* de Robert Barron (archivo 09), Day figura —junto a Agustín, Aquino, Buenaventura, Teresa de Ávila y Newman— entre los grandes maestros en los que «no existe una división sustancial entre teología y espiritualidad».
 
+### Según EAC-18 — Word on Fire Institute
+
+En la entrevista *Spotlight* del número dedicado a la conversión (18_spotlight_barron_on_conversion.md), Barron presenta la conversión de Dorothy Day como ejemplo de converso desde la mundanalidad: «no buscaba triunfar en el mundo literario sino marcar la diferencia en el mundo de la justicia social, ayudando a los pobres». Cuando tuvo a su única hija, meciéndola en el porche, «sintió una gratitud tan grande que no podía corresponder a nada de este mundo, y entregó toda su vida a Dios. "Eso es un converso"». Barron recomienda además su autobiografía *The Long Loneliness* entre los grandes relatos de conversión [EAC-18].
+
 ## Ver también
 
 [[distributismo]], [[pobreza_voluntaria]], [[desprendimiento]], [[subsidiariedad]], [[trabajo_digno]], [[opción_preferencial_por_los_pobres]], [[pier_giorgio_frassati]], [[movimiento_obrero_católico]], [[peter_maurin]]
@@ -49,3 +53,4 @@ Además, en *The Holy Quest* de Robert Barron (archivo 09), Day figura —junto 
 - [EAC-2, 14_dorothy_day_personalist.md]
 - [EAC-2, 13_framework_economic_life.md, Principios 5]
 - EAC-15, archivos 23 y 09 (*Bridges of Mercy for Healing After Abortion*; *The Holy Quest*)
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (18_spotlight_barron_on_conversion.md).

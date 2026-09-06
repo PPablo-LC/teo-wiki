@@ -3,7 +3,7 @@ type: Persona
 title: "C.S. Lewis"
 description: "Escritor y apologista británico (1898-1963), converso del ateísmo; autor de Las crónicas de Narnia, Mero cristianismo y Cartas de Screwtape."
 tags: ["apologética", "literatura_católica", "siglo_xx"]
-timestamp: 2026-09-02
+timestamp: 2026-09-05
 ---
 
 # C.S. Lewis
@@ -34,6 +34,15 @@ Profesor de literatura medieval y renacentista en Oxford y Cambridge, Lewis pas�
 
 En «Suffering and the Limits of Medicine» (Ken May, MD, PhD, archivo 11), C.S. Lewis es citado desde *The Problem of Pain* para precisar en qué sentido el sufrimiento es bueno. Frente a quienes romantizan el dolor, Lewis advierte: «El sufrimiento no es bueno en sí mismo. Lo que es bueno en cualquier experiencia dolorosa es, para el que sufre, su sumisión a la voluntad de Dios, y, para los espectadores, la compasión despertada y los actos de misericordia a los que conduce». La cita enmarca la vocación médica de cuidar el [[sufrimiento_cristiano]] del alma —no solo el dolor físico— y conecta con el [[sufrimiento_redentor]] cuando el dolor se ofrece a Dios en sumisión a su voluntad.
 
+### Según Evangelization & Culture n.º 18 «Conversion» (EAC-18)
+
+Lewis es citado en el número dedicado a la conversión como testigo y apologista del converso:
+
+- **«Creo en el cristianismo como creo que ha salido el sol».** Michael Stevens (12_art.md) cita a Lewis para explicar la teología de la luz en *La conversión en el camino de Damasco* de Caravaggio: «Creo en el cristianismo como creo que ha salido el sol: no solo porque lo veo, sino porque por él veo todo lo demás».
+- **La «derrota bendita».** Thomas Clemmons (10_minds.md) cierra su ensayo sobre la conversión de San Agustín con Lewis: «Toda historia de conversión es la historia de una derrota bendita». Tod Worner (04_midnight_oil.md) describe su propia conversión en el RCIA con las mismas palabras.
+- **La importancia infinita del cristianismo.** Worner (04_midnight_oil.md) recoge la máxima de Lewis a propósito de la Encarnación: el cristianismo «si es falso, no tiene importancia; si es verdadero, tiene una importancia infinita. Lo único que no puede ser es moderadamente importante».
+- **El lagarto de la lujuria.** Rozann Lee (05_lives.md) evoca *The Great Divorce* para la conversión de Santa María Magdalena: como el lagarto de la lujuria, debemos dejar que nuestra vieja vida sea quemada y muera, cooperando con la gracia para ser hechos nuevos.
+
 ## Relevancia teológica
 
 Lewis demuestra que la sátira, la fantasía y el humor pueden ser vehículos de ortodoxia. Aunque anglicano, su antropología (ley moral natural, deseo, razón) es plenamente armonizable con la tradición católica y ha sido recibida como tal.
@@ -46,3 +55,4 @@ Lewis demuestra que la sátira, la fantasía y el humor pueden ser vehículos de
 
 - EAC-8, archivos 08, 15, 18, 20
 - EAC-15, archivo 11 (Ken May), *Suffering and the Limits of Medicine*
+- EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (12_art.md; 10_minds.md; 04_midnight_oil.md; 05_lives.md).

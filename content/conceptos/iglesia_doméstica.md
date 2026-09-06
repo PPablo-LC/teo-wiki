@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Iglesia doméstica
 tags: ["eclesiología", "sacramental"]
 
-timestamp: 2026-08-19
+timestamp: 2026-09-05
 description: "La familia cristiana es llamada «Iglesia doméstica» o pequeña Iglesia, en cuanto que, íntimamente unida a la Iglesia por el vínculo sacramental del matrimonio."
 ---
 # Iglesia doméstica
 
 > Área: Eclesiología / Sacramental
-> Última actualización: 2026-08-19
+> Última actualización: 2026-09-05
 
 ## Definición
 
@@ -70,6 +70,14 @@ Haley Stewart, en "The Hope of the Domestic Church" (§11), presenta la iglesia 
 **Caryll Houselander:** «Sabemos por la fe que Cristo está en nuestra propia familia; es Él a quien fomentamos en nuestros hijos. Cuando le cuentas una historia a tu hijo, cuando juegas con tu pequeño hijo, cuentas una historia, juegas un juego con el Niño Jesús.»
 
 **Catecismo:** Stewart cita CEC §1657: la familia es «la primera escuela de vida cristiana».
+
+### Según EAC-18 — Word on Fire Institute
+
+En el bloque «Emmaus», el testimonio de la familia Jumbam en Camerún muestra a la [[iglesia_doméstica]] como el primer lugar de la conversión y de la transmisión de la fe: el hogar donde la oración, la Palabra y la fraternidad hacen de cada miembro un discípulo misionero [EAC-18, 09_spotlight_stories.md]. La familia emerge así como ámbito privilegiado de la nueva evangelización.
+
+Francis Beckwith, desde su experiencia de [[reversión]], evoca el papel decisivo del hogar y de las amistades fieles en el retorno a la fe: la gracia se abre camino a través de las mediaciones humanas —la familia, los amigos, la comunidad— hasta traer de regreso al alejado [EAC-18, 15_feature_beckwith.md].
+
+El fascículo presenta de este modo la iglesia doméstica como primera célula de la vida cristiana: escuela de caridad, de adoración y de [[testimonio_cristiano]], en la que se aprende a vivir la fe que luego se lleva a la comunidad y a las periferias [EAC-18, 09, 15].
 
 ## Relaciones doctrinales
 

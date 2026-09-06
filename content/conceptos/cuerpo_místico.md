@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Cuerpo Místico
 tags: ["eclesiología"]
 
-timestamp: 2026-08-09
+timestamp: 2026-09-05
 description: "La Iglesia considerada en su unión íntima con Cristo, como un cuerpo orgánico cuya cabeza es Cristo y cuyos miembros son los fieles, animados por el Espíritu Santo que es como su alma."
 ---
 # Cuerpo Místico
 
 > Área: Eclesiología
-> Última actualización: 2026-08-09
+> Última actualización: 2026-09-05
 
 ## Definición
 
@@ -54,6 +54,14 @@ El cuerpo de Cristo tiene tres sentidos en el NT: el cuerpo individual de Jesús
 ### Según el Pórtico de la Biblia (PdB)
 
 En la infografía de la primera carta a los Corintios, el PdB señala que san Pablo transmite, a la vez que corrige los errores o resuelve las dudas de los corintios, «un contenido doctrinal importante acerca del carácter sobrenatural de la Iglesia, Cuerpo místico de Cristo». En la carta a los Efesios, el PdB destaca que «Jesucristo tiene señorío sobre toda la Creación, es quien une en armonía a la humanidad redimida, y es Cabeza de la Iglesia, que es su cuerpo».
+
+### Según EAC-18 — Word on Fire Institute
+
+La sección «Soul» del fascículo presenta la pertenencia al [[cuerpo_místico]] de Cristo como la meta de la conversión: el que se convierte no queda aislado, sino que es incorporado a una comunidad concreta —la parroquia y la Iglesia universal— donde la fe se vive y se transmite [EAC-18, 21_soul.md].
+
+En la [[era_secular]], el hombre contemporáneo busca pertenencia y sentido; la Iglesia ofrece el lugar del encuentro con Cristo, pues todo el cuerpo —con sus carismas y ministerios— está al servicio de la comunión y de la misión [EAC-18, 21_soul.md].
+
+La conversión inaugura así una vida en la Iglesia, familia de familias y comunidad de discípulos, que culmina en la participación eucarística y en el envío misionero a las periferias [EAC-18, 21_soul.md].
 
 ## Distinciones importantes
 

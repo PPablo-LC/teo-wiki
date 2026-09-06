@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Eucaristía
 tags: ["sacramental"]
 
-timestamp: 2026-08-30
+timestamp: 2026-09-05
 description: "La eucaristía es el sacramento y sacrificio del Cuerpo y Sangre de Nuestro Señor Jesucristo, realmente, verdadera y sustancialmente presente bajo las especies de pan y vino."
 ---
 # Eucaristía
 
 > Área: Sacramental
-> Última actualización: 2026-08-30
+> Última actualización: 2026-09-05
 
 ## Definición
 
@@ -406,6 +406,14 @@ El número 13 de *Evangelization & Culture* está dedicado íntegramente a la Eu
 **Viático (Whittington):** véase [[viático]]. La Eucaristía como alimento para el paso de la muerte: la etimología pagana del *viaticum* (el óbolo de Caronte) es «reescrita» por la economía de la gracia; el comulgante se vuelve imagen del Arca, como María al encarnar al Verbo; Cristo es el Nuevo Moisés/Josué en el cruce del Jordán.
 
 **Corrientes diversas:** cosmovisión sacramental en *Babette's Feast* (Petiprin) — «Babette simplemente vive una cosmovisión sacramental»; liturgia de las horas como oración pública de Cristo con su Cuerpo (SC 84) en la iniciativa editorial de Word on Fire (Vogt/Stevens); teología sacramental como punto de partida de la dogmática en José Granados — «el cristianismo del futuro será sacramental o no será cristiano»; la Eucaristía como raíz de la Iglesia en Henri de Lubac y la *ressourcement* (De Clue); milagros eucarísticos como signos en un mundo científico (Nelson) y en la compilación del beato Carlo Acutis (Bulman).
+
+### Según EAC-18 — Word on Fire Institute
+
+En el bloque «Emmaus» de EAC-18, los testimonios de adoración eucarística en Phoenix y de la comunión diaria de los nuevos conversos muestran la [[eucaristía]] como escuela permanente de conversión: quien ha sido alcanzado por la gracia se alimenta del Sacramento y aprende a adorar, hasta poder ser presencia de Cristo para los demás [EAC-18, 09_spotlight_stories.md]. La referencia constante al *National Eucharistic Revival* da a estos testimonios el contexto de una cultura eucarística que ha de reconstruirse.
+
+Andrew Allen, en su estudio sobre la iniciación cristiana, subraya que la [[mistagogia]] del itinerario del [[catecumenado]] introduce a los neófitos en el misterio eucarístico: antes que una doctrina que se explica, la Eucaristía es una Persona a la que se aprende a adorar, culminación y fuente de la vida cristiana (RCIA 244) [EAC-18, 16_feature_allen.md].
+
+De este modo, el fascículo conecta directamente el camino de la conversión con el banquete pascual: la [[presencia_real]] de Cristo en la Eucaristía sostiene al alma en la [[vía_purgativa]] y la configura con él hasta poder decir «ya no vivo yo, es Cristo quien vive en mí» (Ga 2,20) [EAC-18, 16].
 
 ## Analizado para
 
