@@ -12,45 +12,33 @@ tags: ["resumen", "ratio institutionis-christus vita vestra"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[ratio_institutionis]] — proyecto formativo de un instituto de vida consagrada, parte del derecho propio
+- [[carisma_legionario]] — don recibido por la Legión que se conserva, transmite y desarrolla a través de la formación
+- [[formación_legionaria]] — proceso de configuración con Cristo en las diversas etapas de la vida
+- [[vida_religiosa]] — renovación de la vida consagrada, uno de los motores de la Ratio
+- [[derecho_canónico]] — la Ratio forma parte del derecho propio y tiene carácter normativo
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `01_algunas_notas_sobre_el_proceso_de_redacción_de_laratio_insti.md`
+### Algunas notas sobre el proceso de redacción de la Ratio institutionis
+
+El documento recoge las notas anexas al Prot. DG-LC 1796-2017 que describen el proceso de elaboración de la *Ratio institutionis* de la Legión de Cristo.
+
+#### Encargo del Capítulo General y constitución de la Comisión
+
+El Capítulo General encomendó al gobierno general la elaboración de la Ratio y la definición de algunos elementos del itinerario formativo en la Legión (cf. CCG2014, 148). Para llevar adelante el encargo se constituyó una Comisión encargada de redactar el texto.
+
+#### Trabajo de la Comisión
+
+Tras las debidas consultas y análisis, la Comisión fue definiendo los elementos del itinerario formativo, que quedaron recogidos en la Ratio. El documento resultante forma parte del derecho propio y por ello posee carácter normativo: expresa cómo la Legión concibe y organiza la formación, propone la manera en que se conserva, transmite y desarrolla el [[carisma_legionario]], y ofrece a sus miembros los medios para vivirlo en las diversas etapas de su vida.
+
+El texto concluye con una sección de normas propiamente dichas que aplican y concretizan los principios del documento y dan directrices para la elaboración de los reglamentos de las casas de formación inicial. No pretende normar el modo de vivir las virtudes ni el crecimiento en la santidad personal, sino garantizar y determinar procedimientos institucionales que ayuden a crear el ambiente formativo más propicio.
+
+#### Aprobación del texto
+
+La Ratio nace en el contexto de la profunda renovación de la Legión, recoge la riqueza del pasado y ayuda a mejorar en los aspectos que la Iglesia ha ayudado a identificar. Está pensada para quienes emprenden el camino del seguimiento de Cristo en la Legión y también para quienes llevan más tiempo en la vida religiosa y el sacerdocio. Corresponderá al próximo Capítulo General de 2020 revisarla y autorizar los ajustes necesarios a la luz de la experiencia de su aplicación. El núcleo del documento es la identidad del legionario de Cristo y la misión de formar apóstoles, líderes cristianos al servicio de la Iglesia, haciendo presente el misterio de Cristo que reúne a los apóstoles, les revela el amor de su corazón, los forma y los envía (cf. CLC2014, 4).
 
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 91 | H1 | Algunas notas sobre el proceso de redacción de laRatio institutionis |
-| 95 | H3 | Encargo del Capítulo General y constitución de la Comisión |
-| 97 | H3 | Trabajo de la Comisión |
-| 99 | H3 | Aprobación del texto |
 
 
-## Secciones incluidas
 
-## Encargo del Capítulo General y constitución de la Comisión
-
-[Contenido de esta sección...]
-
-## Trabajo de la Comisión
-
-[Contenido de esta sección...]
-
-## Aprobación del texto
-
-[Contenido de esta sección...]

@@ -12,79 +12,60 @@ tags: ["resumen", "ratio institutionis-christus vita vestra"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[formación_personalizada]] — el adjetivo «personalizada» expresa amor y respeto por cada persona en su irrepetible individualidad
+- [[formación_integral]] — desarrollar e integrar todos los dones naturales y sobrenaturales en la unidad de vida
+- [[formación_basada_en_convicciones]] — las virtudes arraigan en convicciones interiorizadas, actitudes y comportamientos
+- [[formación_experiencial]] — las experiencias reflexionadas y oradas forjan las convicciones
+- [[formación_en_relación]] — la formación es eficaz en la medida en que da importancia a las relaciones de comunión
+- [[formación_gradual]] — el Espíritu Santo tiene su modo y ritmo de donación a cada persona
+- [[formación_permanente]] — la formación abarca la vida entera, sin reducirse al periodo inicial
+- [[formación_inicial]] — debe engarzarse con la formación permanente
+- [[carisma_legionario]] — principio y término de la sabiduría formativa; ideal encarnado en personas concretas
+- [[configuración_con_cristo]] — meta de toda la formación, permanente hasta la muerte
+- [[dirección_espiritual]] — papel esencial en la formación del hombre interior
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `08_capítulo_4_características_del_proceso_formativo.md`
+### Capítulo 4. Características del proceso formativo
 
+*Bendito el Señor, mi Roca, que adiestra mis manos para el combate, mis dedos para la pelea (Sal 144,1)*
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+Definidos a grandes rasgos los contenidos formativos, el capítulo reflexiona sobre el modo de inculcarlos. Todo proceso educativo requiere una pedagogía basada en grandes principios que han de aplicarse caso por caso y generan una experiencia; principios y experiencia conforman una «sabiduría formativa», nunca estática, siempre en tensión hacia una mayor fidelidad al carisma y una mejor respuesta a las necesidades de los miembros de la Congregación. Las características se complementan e iluminan mutuamente: la formación personalizada requiere la formación en relación; la formación basada en convicciones será fecunda si es experiencial y gradual; la formación integral requiere que se den las demás notas. Su concreción y aplicación es responsabilidad de cada uno y de la comunidad formativa en su conjunto.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Capítulo 4. |
-| 14 | H3 | A. Formación personalizada |
-| 30 | H3 | B. Formación integral |
-| 44 | H3 | C. Formación motivada por amor |
-| 70 | H3 | D. Formación basada en convicciones |
-| 86 | H3 | E. Formación experiencial |
-| 106 | H3 | F. Formación en relación |
-| 130 | H3 | G. Formación gradual |
-| 142 | H3 | H. Formación permanente→864-871 |
-| 156 | H3 | I. Formación para la misión |
+#### A. Formación personalizada
 
+La naturaleza humana no se da en abstracto, sino en personas concretas (cf. Tomás de Aquino, *Comentario a las Sentencias*, I, 5, 1, 3). Cada persona ha sido pensada por Dios, llamada por su nombre (cf. Éx 33,12) y posee un valor infinito a los ojos de su Creador. El adjetivo «personalizada» expresa ante todo el amor y el respeto por cada persona en su irrepetible individualidad, por parte de Dios, del instituto, de la comunidad y de los formadores; indica también el amor y respeto de la persona por sí misma, con su historia de logros, fracasos y posibles heridas: cada uno ha de trabajar por conocerse, aceptarse y superarse con realismo, consciente de que en las manos de Dios «todo material nuestro, por humilde e indigno que nos parezca, puede entrar a formar parte del edificio de la santidad» (cf. Rom 8,28; *DVP*, 28).
 
-## Secciones incluidas
+La formación de la Legión busca «educar», en el sentido etimológico de «sacar» lo mejor de cada persona, ayudarla a realizar el designio de amor por el que Dios la creó, la llamó y la envió. Es personalizante porque orienta a la persona a su plenitud: al final de la formación inicial cada religioso «ha de ser plenamente legionario y plenamente él mismo». Es propio de un carisma encarnarse en personas: Dios no tiene en mente un «legionario ideal» sino legionarios con rostro y nombre; el ideal encarnado cuenta plenamente con las características de cada persona. Una formación personalizada es lo contrario de una formación generalista: no fuerza desde fuera la asimilación de un modelo, sino que lo desarrolla desde las posibilidades, riquezas y límites de cada uno —en la persona, no a pesar de ella. Necesita de la comunidad: entre las necesidades de la persona y las de la comunidad se crea una polaridad necesaria y fecunda (cf. *PoI*, 29). Los formadores dedican la mayor parte de su tiempo al acompañamiento personal, buscando conocer, ayudar y seguir a cada religioso en concreto, partiendo de sus resortes, adecuándose a su ritmo, «pero sin transigir nunca con su mediocridad, pues el amor verdadero busca la plenitud del que se ama».
 
-# Capítulo 4.
+#### B. Formación integral
 
-[Contenido de esta sección...]
+«Es propio de la madurez del amor que abarque todas las potencialidades del hombre e incluya, por así decir, al hombre en su integridad» (cf. *DCE*, 17). La formación ha de desarrollar e integrar todos los dones naturales y sobrenaturales, todos los límites y toda la historia personal en el proyecto de Dios: ningún aspecto de la humanidad puede quedar al margen, pues sería «un lastre, fuente de división interior y de insatisfacción». Debe ser formación de toda la persona, en las intenciones y en los gestos exteriores (cf. *VC*, 65). Se realiza además como armoniosa fusión de las diversas dimensiones, contribuyendo a la unidad de vida (cf. *PC*, 18): es integral e integradora. No basta un desarrollo por separado de cada dimensión; estas se desarrollan de manera convergente: una espiritualidad que impregne la acción, un celo apostólico penetrado de misericordia, una formación doctrinal amasada de sabiduría y sencillez, una formación humana informada por un sentido de misión. Se opone a una formación desarticulada y desequilibrada. Al director espiritual corresponde el hombre interior, al prefecto de estudios la curiosidad intelectual, al mentor la introducción al apostolado, y «al superior corresponde velar por que todas las facetas de la vida del legionario crezcan en armonía, sin detrimento unas de otras».
 
-## A. Formación personalizada
+#### C. Formación motivada por amor
 
-[Contenido de esta sección...]
+La vida espiritual descubre a la persona cuánto la quiere Dios y la mueve a acoger este amor: *Él nos amó primero* (1Jn 4,19). El recuerdo de la mirada de Jesús suscita el deseo de corresponderle con «un amor real, personal, viril y apasionado» (cf. *CLC*, 3, 1.º). Hay dos modos de manifestar el amor (cf. Nicolás Cabasilas): hacer el bien a la persona amada —amor de generosidad, en la creación— y sufrir por ella —amor de sufrimiento, en la redención—. El consagrado ama a Cristo de estas dos maneras, en la entrega de sí mismo y aceptando el dolor en la propia vida (cf. Lc 9,23). De aquí provienen el significado de la ascesis, el espíritu de sacrificio y la aceptación de la fatiga y de la cruz, elementos particularmente difíciles para candidatos acostumbrados a condiciones de comodidad (cf. *PDV*, 48). La ascesis no es un esfuerzo agónico por merecer el amor de Dios, sino desbordarse de la vitalidad del hombre nuevo que, para no perder a quien ama, «golpea su cuerpo y lo somete» (cf. 1Cor 9,27); para ser fecunda ha de ir acompañada de la alegría del que ha encontrado un tesoro (cf. Mt 13,44). Es de la acogida de los planes de Dios y de la dejarse purificar por las circunstancias de donde brotan los frutos maduros: madurez para amar desprendido de sí mismo, libertad interior, humildad, fecundidad. El «sí» al amor es fuente de sufrimiento, porque el amor exige renuncias del propio yo (cf. *SS*, 38). Esta formación se distingue de la basada en los sentimientos y se opone a una orientada al cumplimiento formalista del deber y de la ley. Concreción para los superiores: el principio *suaviter in forma, fortiter in re* (cf. Sab 8,1), por el que no deben quitar a los religiosos la cruz que el Señor les ofrece ni disminuir la exigencia vocacional, a la vez que reflejan la alegría, bondad y mansedumbre de Cristo (cf. Mt 11,30): «No hay verdadera exigencia sin comprender el corazón del otro, y no hay verdadera comprensión sin esperar lo mejor del otro».
 
-## B. Formación integral
+#### D. Formación basada en convicciones
 
-[Contenido de esta sección...]
+La dignidad humana exige que cada uno «actúe según una elección consciente y libre» (cf. *AL*, 267). Es error querer saltar inmediatamente a las actitudes y comportamientos sin interiorizar las convicciones. En la medida en que una persona ama el plan de Dios, se fascina y hace suyos sus valores, puede abrazar un camino con decisión y perseverar con coherencia. Las convicciones no pueden quedarse en simples verdades: representan valores que la persona quiere con todas sus fuerzas. Para obrar bien no basta juzgar adecuadamente: hace falta que el bien captado se arraigue como profunda inclinación afectiva, como un gusto por el bien que pese más que otros atractivos (cf. *AL*, 265); una formación ética eficaz muestra «hasta qué punto le conviene a ella misma obrar bien» a la persona. Este arraigo se logra por el camino de la Virgen María, que *conservaba todas estas cosas, meditándolas en su corazón* (Lc 2,19): dar vueltas en el corazón a las verdades hasta quedar cautivados por la bondad y belleza de Dios, de su Reino y de la amistad de Cristo. Se opone a una formación de ambiente, vivida pasivamente, sin interiorizar. El crecimiento en edad exige volver a dar vueltas a convicciones ya interiorizadas, que revelan nueva hondura. Los formadores aportan luz a la conciencia, recordando que «estamos llamados a formar las conciencias, pero no a pretender sustituirlas» (cf. *AL*, 37); las indicaciones han de ir acompañadas de los motivos para que el formando se adhiera con entendimiento y voluntad al mandato.
 
-## C. Formación motivada por amor
+#### E. Formación experiencial
 
-[Contenido de esta sección...]
+Estrechamente unida a la formación por la interiorización de convicciones está la formación experiencial: muchas veces es una experiencia vivida lo que forja las convicciones y permite entender que una enseñanza es verdadera y valiosa. El principio tiene carácter circular: las convicciones se concretan en la vida y las experiencias asimiladas iluminan y fortalecen las mismas convicciones. Las «pruebas», tradicionales en la vida religiosa, son experiencias significativas que permiten tomar conciencia del grado de coherencia entre lo que se profesa y lo que se vive: la humildad para dejarse acompañar, el trabajo en equipo, la seriedad en los estudios, la servicialidad, el cuidado de los enfermos y ancianos, la renuncia a los propios gustos; también las prácticas apostólicas. Una experiencia es formativa si ayuda a crecer en la identidad de hijos de Dios; no toda experiencia lo es. Para que deje fruto hay que reflexionarla, llevarla a la oración y compartirla con el formador, quien suscita preguntas en el interior del formando y lo anima a encontrar sus propias respuestas. La formación experiencial facilita la integral, porque en una experiencia vital se integran la inteligencia, la voluntad y los afectos, y se actúan convicciones, actitudes y comportamientos. Se diferencia de una formación meramente teórica en que añade una dimensión vital: la alternativa es «convertir la formación en una simple comunicación de principios, idearios y frases hechas». Fruto palpable en la predicación: «todo lo que se experimenta se puede transmitir también de forma existencial». El formador debe presentar todo lo que desea enseñar a la vez como valores por interiorizar y como experiencias por vivir —no basta estudiar la pobreza de Cristo si no se experimenta—, y acompañar al formando hasta que el dinamismo de discernir las mociones se convierta en hábito. Una experiencia particularmente fecunda que el formador ofrece es la relación personal que entabla con sus hermanos.
 
-## D. Formación basada en convicciones
+#### F. Formación en relación
 
-[Contenido de esta sección...]
+La persona humana ha sido creada a imagen de Dios para la comunión personal con el Padre, el Hijo y el Espíritu Santo y, en ellos, con los demás hombres (cf. Comisión Teológica Internacional, *Comunión y servicio*, 2004, 4). Como la comunión es la vocación de todo ser humano, la formación será eficaz en la medida en que dé importancia a las relaciones que generan comunión (cf. *DVP*, 50): con Dios, en la oración, los sacramentos, su Palabra y su Iglesia; con la comunidad, en la experiencia de la pertenencia y del amor fraterno; con los demás, en las personas que conoce en sus tareas, en los santos, en los maestros; y consigo mismo, al tomar conciencia de los propios talentos, riquezas y límites, reconociendo que «solos no podemos crecer, que estamos hechos para amar y ser amados». La formación busca siempre los encuentros; el aprendizaje enfocado así es más significativo que uno centrado en logros individuales. Una dimensión que no se trabaje dentro de una relación formativa corre el riesgo de volverse «desencarnada y egocéntrica, y por lo tanto, estéril». Este enfoque facilita la formación experiencial: toda auténtica relación vivida desde la identidad religiosa y sacerdotal es ocasión para formarse y dejarse formar. Se opone a una visión individualista, autorreferencial e instrumentalizadora, que fomenta «actitudes de rivalidad y celos tan contrarias al espíritu de cuerpo característico de la Legión». Los formadores ayudan a descubrir el valor y la belleza de la diversidad y cómo el encuentro con el otro desvela quiénes somos. Es especialmente relevante la relación con los demás miembros del Regnum Christi —consagrados, consagradas y laicos— y con la Iglesia local.
 
-## E. Formación experiencial
+#### G. Formación gradual
 
-[Contenido de esta sección...]
+El Espíritu Santo tiene un modo y un ritmo en su donación a cada persona y conoce sus tiempos de maduración. La formación es gradual porque va arraigando progresivamente en el alma y forjando actitudes y comportamientos; el acompañamiento ha de verificar el progresivo grado de asimilación de los valores. Ejemplo en *Proverbios* (2,1-5): de la dependencia de quien introduce en la vida de fe, al interés, al deseo personal, a la pasión por buscar la sabiduría «igual que el dinero», hasta comprender «el temor al Señor» y alcanzar «el conocimiento de Dios». La formación gradual permite construir sobre roca y es lo opuesto a una formación sin cimientos (cf. Mt 7,27); cada etapa debe llevar al formando a un mayor sentido de responsabilidad personal en la organización de su vida cotidiana. Los reglamentos, disciplina y horarios han de reflejar este principio. Al formador se le invita a vivir los principios «hacer hacer» y «dejar hacer»: dar confianza y crear espacios donde cada religioso ejerza responsabilidad real, permaneciendo cercano para alentar en los éxitos y acompañar en los errores. «Dejar hacer es más importante que asegurar a toda costa que las cosas salgan bien o que evitar a un religioso un fracaso.» Lo mismo que Dios es paciente, el formador ha de acompañar con paciencia la maduración de cada persona y compaginar ritmos diversos de crecimiento.
 
-## F. Formación en relación
+#### H. Formación permanente
 
-[Contenido de esta sección...]
+El compromiso por la formación comprende la vida entera de todos los miembros de la Congregación, sin reducirse al periodo inicial: «la persona consagrada no podrá jamás suponer que ha completado la gestación de aquel hombre nuevo que experimenta dentro de sí» (cf. *VC*, 69). Son palabras aplicables las de san Pablo: *No que ya lo haya conseguido o que ya sea perfecto: yo lo persigo* (Flp 3,12-14). Lo opuesto es el estancamiento, las vidas a mitad de camino —en la vida no avanzar es retroceder— y la rigidez del «yo soy así». Dios nunca deja de salirnos al encuentro con dones y retos inesperados. Ninguna fase de la vida puede considerarse tan segura y fervorosa como para excluir toda oportunidad de ser asistida, ni existe edad en la que se pueda dar por concluida la completa madurez de la persona. La formación inicial debe engarzarse con la formación permanente, creando en el sujeto la disponibilidad para dejarse formar cada día de su vida. Esta actitud de apertura y flexibilidad, presupuesto de la formación permanente, se debe desarrollar y poner a prueba desde las primeras etapas de la formación inicial (cf. *DVP*, 56). Además de la actitud personal, la Congregación ofrece medios comunitarios para las diversas edades de la vida.
 
-## G. Formación gradual
+#### I. Formación para la misión
 
-[Contenido de esta sección...]
-
-## H. Formación permanente→864-871
-
-[Contenido de esta sección...]
-
-## I. Formación para la misión
-
-[Contenido de esta sección...]
+«Toda la formación del legionario ha de tener un enfoque apostólico, orientada a comunicar a Cristo y su mensaje» (cf. *CLC*, 100): el legionario vive siempre en misión, de modo que «toda su vida esté impregnada de espíritu apostólico y toda su acción apostólica esté sostenida por la contemplación» (cf. *VC*, 9). El hecho de que «la misión orienta, unifica y determina el proceso formativo» (cf. *CCG2014*, 141) significa que las dimensiones formativas deben estar guiadas por este sentido misionero: no solo para hacer apostolado, sino para ser apóstoles apasionados de Cristo. Formarse para la misión es capacitarse para formar al hombre y a la mujer de hoy como discípulos y apóstoles, cuidando «el crecimiento espiritual, la formación integral y la proyección apostólica» de los miembros del Regnum Christi (cf. *CLC*, 4, 1.º). Requiere también atención constante a las oportunidades que el Espíritu abre al mensaje de Cristo en el mundo de hoy, para emprender «las acciones que más contribuyan, en profundidad y en extensión, a construir el Reino de Cristo en la sociedad» (cf. *CLC*, 4, 2.º), con los métodos apropiados a los diversos grupos humanos y ámbitos profesionales (cf. *VC*, 98). Una formación que no se orienta a la misión puede ser apática o vanidosa: de todo crecimiento que no mire al bien de los hombres se aplica lo que dice san Pablo: *el conocimiento engríe, mientras que el amor edifica* (1Cor 8,1). Los superiores aplican aquí el discernimiento de los dones personales para desencadenar el dinamismo misionero a partir de los talentos de cada religioso al servicio del carisma común (cf. *MR*, 12); como elemento de prueba y maduración, durante la formación inicial siempre se ha de procurar ejercer el apostolado en contacto directo con las personas.

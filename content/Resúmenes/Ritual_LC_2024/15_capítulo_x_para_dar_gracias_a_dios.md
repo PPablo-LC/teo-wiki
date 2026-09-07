@@ -5,38 +5,20 @@ fuente: Ritual_LC_2024
 capítulo: 15
 timestamp: 2026-08-24
 description: "Resumen de 'CAPÍTULO X PARA DAR GRACIAS A DIOS' — Ritual_LC_2024"
-tags: ["resumen", "ritual lc 2024"]
+tags: ["resumen", "ritual lc 2024", "acción de gracias"]
 ---
 
 # CAPÍTULO X PARA DAR GRACIAS A DIOS
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[bendición_eucarística]] — el Te Deum precede a la bendición
+- [[eucaristía]] — acción de gracias por excelencia
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `15_cap10_gracias.md`
+### CAPÍTULO X PARA DAR GRACIAS A DIOS
 
+#### Te Deum
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | CAPÍTULO X PARA DAR GRACIAS A DIOS |
-
-
-## Secciones incluidas
-
+El *Te Deum* se canta de pie antes de la bendición eucarística los días 31 de diciembre y 3 de enero (fin de año y aniversario de la fundación de la Congregación). Un cantor entona cada estrofa y todos responden, en alternancia: un cantor — todos — un cantor — todos. El que preside introduce la oración; todos responden; el que preside ora unos instantes en silencio y concluye; todos responden. La bendición sigue del modo acostumbrado con el *Tantum ergo*.

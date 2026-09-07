@@ -12,25 +12,31 @@ tags: ["resumen", "christus vita vestra-2020"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[ratio_institutionis]] — evolución entre las ediciones 2017 y 2020
+- [[formación_legionaria]] — contenidos ampliados en los medios y criterios formativos
+- [[formación_personalizada]] — énfasis renovado en la formación personalizada
+- [[discernimiento_vocacional]] — criterios detallados para candidatado y noviciado
+- [[carisma_legionario]] — fundamento de la propuesta formativa renovada
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `diferencias_2017_2020.md`
+### Cifras globales de la comparación
 
+- **Párrafos en 2017:** 724
+- **Párrafos en 2020:** 782
+- **Sin cambios (texto idéntico):** 546
+- **Modificados (cambio real en el texto):** 95
+- **Nuevos en 2020:** 141
+- **Eliminados en 2020:** 83
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+### Principales cambios detectados
 
-## Secciones incluidas
+- **Capítulo 1 (Fundamentos):** se añaden §§58-62 que desarrollan la vocación e identidad. Se eliminan §§11, 14, 22, 37, 42 (contenido que se reubica o integra en otros párrafos).
+- **Capítulo 3 (Dimensiones):** varios párrafos reelaborados, especialmente en las dimensiones espiritual y humana.
+- **Capítulo 4 (Características):** nueva estructura con más énfasis en la formación personalizada.
+- **Capítulo 6 (Actividades):** se amplía la sección sobre los medios generales de formación (oración, liturgia, etc.).
+- **Capítulo 8 (Formación inicial):** se añaden criterios más detallados para el candidatado y el noviciado.
+- **Normas:** se reorganiza completamente la sección normativa con numeración actualizada.
+- **Frontispicio:** la presentación del 2017 (carta del Director General) se reemplaza por el Decreto de promulgación de 2020.
 
+> Nota: estos cambios se infieren de la comparación automática entre las versiones 2017 y 2020 de la Christus Vita Vestra.

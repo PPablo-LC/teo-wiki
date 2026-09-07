@@ -12,196 +12,227 @@ tags: ["resumen", "ratio institutionis-christus vita vestra"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[eucaristía]] — fuente y culmen de toda la vida cristiana, centro del día del legionario
+- [[adoración_eucarística]] — tiempo prolongado de intimidad, contemplación y diálogo con Cristo
+- [[liturgia_de_las_horas]] — extiende a las horas del día el Sacrificio eucarístico
+- [[oración_mental]] — relación viva y personal con Dios, encuentro matutino con Cristo
+- [[meditación]] — la meditación discursivo-afectiva, la contemplación y la lectio divina en el noviciado
+- [[conversión]] — la penitencia y el sacramento de la reconciliación
+- [[pobreza_evangélica]] — el trabajo manual y la sobriedad en el descanso
+- [[obediencia_religiosa]] — la disciplina religiosa y la proyección apostólica
+- [[dirección_espiritual]] — medio central de la vida interior y del discernimiento vocacional
+- [[discernimiento_vocacional]] — relación entre el superior (fuero externo) y el director espiritual (fuero interno)
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `10_capítulo_6_actividades_y_medios_generales.md`
+### Capítulo 6. Actividades y medios generales
 
+*Fijos los ojos en el que inició y completa nuestra fe, Jesús (Heb 12,2)*
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+Mediante el proceso formativo cada legionario se encamina *al hombre perfecto, a la medida de Cristo en su plenitud* (Ef 4,13). Para ser hombre perfecto lo primero que hace falta es ser hombre: formarse significa abrirse a Dios precisamente en los actos ordinarios que impone nuestro ser hombres. Por eso, en la tradición de la Legión, ningún acto humano, por humilde que sea, deja de ser un momento formativo, «y por eso mismo un acto de culto y alabanza a Dios, una ofrenda espiritual»: *Os exhorto, pues, hermanos, por la misericordia de Dios, a que presentéis vuestros cuerpos como sacrificio vivo, santo, agradable a Dios; este es vuestro culto espiritual* (Rom 12,1). El capítulo explica las posibilidades formativas de las actividades de la vida, dejando que estos actos humanos, realizados como ofrenda a Dios, modelen mediante las alegrías y fatigas que nos procuran y sean ocasión de asimilar las virtudes propuestas en las diversas dimensiones. En un segundo apartado se examinan medios formativos de carácter más general, transversales o de sostén complementario.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Capítulo 6. |
-| 18 | H3 | A. Actividades de la vida ordinaria y su sentido formativo |
-| 20 | H4 | 1. Medios de vida eucarística |
-| 22 | H5 | Celebración eucarística |
-| 32 | H5 | Visitas a Jesucristo Eucaristía |
-| 38 | H5 | Adoración eucarística |
-| 44 | H5 | Hora eucarística |
-| 50 | H4 | 2. La penitencia y la conversión del corazón |
-| 62 | H4 | 3. Medios de devoción mariana |
-| 70 | H5 | Rosario |
-| 80 | H5 | Saludo a la Virgen |
-| 86 | H5 | Visita sabatina |
-| 90 | H5 | Peregrinación mariana |
-| 94 | H4 | 4. Año litúrgico |
-| 112 | H4 | 5. Liturgia de las horas |
-| 122 | H4 | 6. Oración mental |
-| 160 | H4 | 7. Lectura espiritual |
-| 176 | H4 | 8. Ejercicios espirituales y retiros |
-| 194 | H4 | 9. Examen de conciencia y examen práctico→207-212 |
-| 216 | H4 | 10. Dirección espiritual |
-| 246 | H4 | 11. Diálogo personal de formación |
-| 264 | H4 | 12. Mentoría apostólica |
-| 276 | H4 | 13. Medios para compartir los bienes espirituales |
-| 294 | H4 | 14. Corrección fraterna evangélica |
-| 316 | H4 | 15. Estudio y clases |
-| 340 | H4 | 16. Conversaciones |
-| 362 | H4 | 17. Reuniones |
-| 378 | H4 | 18. Oficios y labores |
-| 388 | H4 | 19. Descanso |
-| 408 | H5 | Juego |
-| 416 | H5 | Paseos, fines de semana de descanso y vacaciones |
-| 424 | H4 | 20. Comidas |
-| 444 | H3 | B. Medios generales de formación |
-| 446 | H4 | 1. Disciplina religiosa |
-| 464 | H4 | 2. Evaluación formativa periódica |
-| 466 | H5 | Naturaleza y finalidad |
-| 480 | H5 | Responsables de la evaluación |
-| 494 | H5 | Aplicaciones a la formación inicial |
-| 516 | H5 | Aplicaciones a la formación permanente |
-| 528 | H4 | 3. Proyección apostólica del legionario |
-| 532 | H5 | Principios generales |
-| 546 | H5 | El proceso de proyección apostólica |
-| 584 | H4 | 4. Recurso a profesionales en campo psicológico |
-| 590 | H5 | Fines específicos en diversas circunstancias |
-| 600 | H5 | Fin evaluativo |
-| 606 | H5 | Fin formativo |
-| 624 | H5 | Fin terapéutico |
-| 648 | H5 | Respeto por la persona |
-| 672 | H5 | Criterios para la elección de psicólogos |
-| 686 | H5 | Preparación de los formadores |
-| 690 | H4 | 5. Formación para el mundo digital |
-| 698 | H5 | Ayuda que ofrecen los medios |
-| 710 | H5 | Criterios de uso |
-| 726 | H5 | Posibles riesgos y ayudas para superarlos |
-| 748 | H5 | Indicaciones para las etapas de formación inicial |
+#### A. Actividades de la vida ordinaria y su sentido formativo
 
+##### 1. Medios de vida eucarística
 
-## Secciones incluidas
+###### Celebración eucarística
 
-# Capítulo 6.
+En la Eucaristía «se contiene todo el bien espiritual de la Iglesia, Cristo mismo» (cf. *PO*, 5). Por eso la santa misa es el centro del día: nuestros esfuerzos humanos, unidos en la patena al ofrecimiento de Cristo, suben a Dios, le dan perfecta gloria y reciben un valor eterno; de Dios desciende gracia sobreabundante. La Eucaristía es «fuente y culmen de toda la vida cristiana» (cf. *LG*, 11). Consta de la liturgia de la Palabra y la liturgia eucarística, que no son dos «mesas» separadas: la una conduce a la otra, como en el capítulo 6 de san Juan (cf. *FES*, 2). En la misa alcanzamos el mundo entero y pedimos por todos los hombres, especialmente los más alejados y los que más sufren; quienes se preparan al sacerdocio han de considerar la celebración eucarística «el momento esencial de su jornada» (cf. *PDV*, 48) y ofrecer la Hostia *juntamente con Él* (cf. *CLC*, 51, 2.º). Quienes tengan encomendado un servicio litúrgico se preparen para vivirlo desde el interior, ayudando a la participación activa.
 
-[Contenido de esta sección...]
+###### Visitas a Jesucristo Eucaristía
 
-## A. Actividades de la vida ordinaria y su sentido formativo
+El Sagrario es el lugar donde se dan cita Jesucristo y el legionario: *El Maestro está ahí y te llama* (Jn 11,28). Las casas de formación cuentan con varios oratorios además de la capilla principal. De esos ratos de intimidad brotan la gratitud, el aliento en la lucha, la confianza y la alegría: el Señor vivo «ordena las costumbres, forja el carácter, alimenta las virtudes, consuela a los afligidos, fortalece a los débiles, incita a su imitación y santifica a los que se acercan a Él» (cf. *CLC*, 52). Durante la formación inicial hasta las prácticas apostólicas se tiene una visita eucarística comunitaria con oración vocal en forma de letanías cristocéntricas, que educa en la oración coral y sugiere expresiones de fe, esperanza, amor, alabanza y súplica.
 
-[Contenido de esta sección...]
+###### Adoración eucarística
 
-### 1. Medios de vida eucarística
+Los legionarios buscan «dedicar cada día un tiempo prolongado a la adoración» (cf. *CLC*, 52), como momento de intimidad, contemplación y diálogo con Cristo Amigo. En los días ordinarios está marcada por el deseo de estar con el Señor y la oración de intercesión; en algunas fiestas, por la acción de gracias; en torno al viernes primero de mes y al triduo de carnaval, por la reparación. «La llamada a la santidad es acogida y puede ser cultivada solo en el silencio de la adoración ante la infinita trascendencia de Dios» (cf. *VC*, 38).
 
-[Contenido de esta sección...]
+###### Hora eucarística
 
-### 2. La penitencia y la conversión del corazón
+Momentos particularmente entrañables son la hora de adoración del jueves por la noche, vivida en comunidad para escuchar su Palabra y acompañar espiritualmente al Señor en su agonía en Getsemaní: *¿No habéis podido velar una hora conmigo?* (Mt 26,40). La vida religiosa es una «alianza esponsal con Cristo» (cf. *VC*, 93): compartir su suerte y sus sentimientos, no dejarlo solo en su oración al Padre por el mundo entero.
 
-[Contenido de esta sección...]
+##### 2. La penitencia y la conversión del corazón
 
-### 3. Medios de devoción mariana
+«El bautismo es el primer y principal sacramento del perdón de los pecados» (cf. *CCE*, 977). El legionario renueva sus promesas bautismales tres veces al año: en la Vigilia Pascual, al concluir los ejercicios espirituales, y privadamente el día de su bautismo, llevando en la mano el propio cirio encendido, símbolo de la fe (cf. Jn 8,12). «Por medio del sacramento de la penitencia, el bautizado puede reconciliarse con Dios y con la Iglesia» (cf. *CCE*, 980): un encuentro con Cristo y con su Cuerpo Místico. Es recomendable la confesión frecuente (cf. *CLC*, 50 § 1), «introducido por la Iglesia no sin la inspiración del Espíritu Santo, con el que aumenta el conocimiento propio, crece la humildad, se desarraigan las malas costumbres, se hace frente a la tibieza espiritual, se purifica la conciencia, se robustece la voluntad, se lleva a cabo la dirección de las conciencias y aumenta la gracia en virtud del sacramento mismo» (cf. Pío XII, *Mystici Corporis Christi*, 39). El fruto del sacramento depende del dolor de los pecados, por lo que se une al examen de conciencia la súplica de esta gracia al Espíritu Santo, que convence «al mundo del pecado» en referencia a la cruz de Cristo (cf. *DVi*, 32). Es muy bueno contar con un confesor habitual; «es deseable que, para una formación integral, el director espiritual pueda ser también el confesor habitual» (cf. *DVP*, 108).
 
-[Contenido de esta sección...]
+##### 3. Medios de devoción mariana
 
-### 4. Año litúrgico
+El legionario toma a María como Madre y maestra de vida espiritual; la devoción consiste muy especialmente en la «imitación de sus virtudes» (cf. *LG*, 67), y «la Virgen le comunica aquel amor que permite ofrecer cada día la vida por Cristo» (cf. *VC*, 28). Una expresión de este amor filial es detenerse durante el día ante alguna imagen suya; cada noche, en la visita, se le pide la gracia de las gracias: la perseverancia final en la fe y en la vocación.
 
-[Contenido de esta sección...]
+###### Rosario
 
-### 5. Liturgia de las horas
+«El Rosario forma parte de la mejor y más reconocida tradición de la contemplación cristiana» (cf. *CLC*, 12); es «una oración típicamente meditativa», que se corresponde con la «oración del corazón» oriental (cf. Juan Pablo II, *Rosarium Virginis Mariae*, 5). Sobre el padrenuestro, avemaría y gloria se recorren los misterios de la vida, muerte, pasión y resurrección de Cristo, vistos con los ojos de la Virgen, que los va inculcando en el corazón de sus hijos: dejamos que sea Ella quien nos forme en los sentimientos del Corazón de su Hijo. Trae la paz al alma y renueva la confianza; puede elevar la mente a Dios espontáneamente entre una actividad y otra. En las solemnidades de la Virgen, quienes no están obligados a la liturgia de las horas recen diversas partes del rosario.
 
-[Contenido de esta sección...]
+###### Saludo a la Virgen
 
-### 6. Oración mental
+La mañana, el mediodía y la tarde marcan los tiempos de la actividad humana e invitan a hacer un alto para orar con el Ángelus o el *Regina Coeli*: oración de «estructura sencilla, carácter bíblico y ritmo casi litúrgico» que santifica diversos momentos de la jornada (cf. Pablo VI, *Marialis Cultus*, 41).
 
-[Contenido de esta sección...]
+###### Visita sabatina
 
-### 7. Lectura espiritual
+Los sábados se reúnen los legionarios ante la gruta de la Virgen para una breve oración; en mayo se acompaña con un canto y una breve exhortación mariana.
 
-[Contenido de esta sección...]
+###### Peregrinación mariana
 
-### 8. Ejercicios espirituales y retiros
+Una vez al año, en comunidad, una peregrinación a un santuario o iglesia dedicados a la Santísima Virgen, para que Ella vivifique el testimonio de amor fraterno y para poner en sus manos el apostolado y las necesidades de todos.
 
-[Contenido de esta sección...]
+##### 4. Año litúrgico
 
-### 9. Examen de conciencia y examen práctico→207-212
+El año litúrgico es el desarrollo de los misterios de la vida, muerte y resurrección de Cristo: nos permite vivir —y no solo recordar— la historia de la salvación, participando en el tiempo presente de lo que Dios obró ya con valor eterno. La Iglesia ha dado al ciclo anual (*anni circulus*) un valor pedagógico, para que contemplemos sucesivamente las facetas de la persona y obra del Redentor y ahondemos en *la riqueza insondable de Cristo* (Ef 3,8). El recorrido del año, personal y comunitario, fomenta la vida fraterna y ofrece un modo concreto de vivir el cristocentrismo (cf. *CLC*, 49 § 1). Fundamento y núcleo es el domingo, *día del Señor* (Ap 1,10), fiesta primordial, «día de alegría y de liberación del trabajo» (cf. *SC*, 106). Durante Navidad, Semana Santa y Pascua toda la vida de la comunidad gira en torno al misterio celebrado. Son días penitenciales todos los viernes del año y la Cuaresma (cf. *CIC*, c. 1250); forma concreta de vivir la penitencia es el vía crucis (cf. *CLC*, 53, 1, 2.º), oración contemplativa que graba en el corazón el amor de Cristo Redentor (cf. *CCE*, 2669). Los viernes primeros están dedicados a amar al Corazón de Jesús y reparar. La Legión da especial realce al Sagrado Corazón, la Virgen de los Dolores, Cristo Rey y las fiestas de los patronos (cf. *CLC*, 7).
 
-[Contenido de esta sección...]
+##### 5. Liturgia de las horas
 
-### 10. Dirección espiritual
+La liturgia de las horas extiende a las horas del día, como en círculos concéntricos, el Sacrificio eucarístico, y expande sus frutos de gracia al Cuerpo Místico y al mundo entero (cf. *CLC*, 49 § 2). Celebrada comunitaria o individualmente, «manifiesta la vocación a la alabanza y a la intercesión propia de las personas consagradas» (cf. *VC*, 95). El derecho propio señala el rezo común de una de las horas del oficio divino (cf. *NC*, 30); los miembros pueden acordar rezarse alguna hora juntos. Por los salmos la Iglesia recibe del mismo Dios las palabras inspiradas, «molde» donde introduce pensamientos y sentimientos humanos: así rezaba Jesús y así rezaba María en su *Magnificat* (cf. *FES*, 1). Al rezo personal —digno, atento, devoto— ha de darse el tiempo necesario, sin precipitaciones.
 
-[Contenido de esta sección...]
+##### 6. Oración mental
 
-### 11. Diálogo personal de formación
+La oración es «una relación viva y personal con Dios vivo y verdadero» (cf. *CCE*, 2558); la vida del cristiano es una continua oración que necesita momentos de silencio y exclusiva intimidad: «no se puede orar “en todo momento” si no se ora, con particular dedicación, en algunos momentos: son los tiempos fuertes de la oración cristiana» (cf. *CCE*, 2697). La oración litúrgica, con ser excelente, no abarca toda la vida espiritual: hay que entrar en el aposento para orar al Padre en secreto (cf. *SC*, 12). *Oh Dios, tú eres mi Dios, por ti madrugo* (Sal 63,2): quien madruga para orar es un alma enamorada que desea el encuentro a solas con Cristo; este encuentro matutino marca la orientación espiritual y apostólica de la jornada. La hora de oración comienza con un momento comunitario de invocación al Espíritu Santo con el *Veni Creator Spiritu*s: *acudiendo en ayuda de nuestra debilidad* (Rom 8,26). Nuestra oración de bautizados se hace en unión con Cristo Cabeza y con su Cuerpo Místico: estamos acompañados de María, los santos, nuestra familia espiritual y los cristianos esparcidos por el mundo. El encuentro con Dios parte del conocimiento y aceptación de uno mismo ante quien «me sondea y me conoce» (cf. Sal 139,1). Estos tres actos —invocar al Espíritu, abrirse a la comunión de los santos, acogerse en la propia verdad— introducen en la oración propiamente dicha; además de la capilla, se recomienda el propio cuarto. La oración supone recogerse: no solo concentrarse, sino pasar de las realidades visibles a la presencia invisible de Dios en la fe.
 
-[Contenido de esta sección...]
+En el noviciado se enseñan tres métodos de oración de probada validez: la meditación discursivo-afectiva, la contemplación y la *lectio divina*; pero el legionario no está vinculado a un método particular y ha de personalizar su oración bajo la guía del Espíritu y del director espiritual: «un método no es más que un guía; lo importante es avanzar, con el Espíritu Santo, por el único camino de la oración: Cristo Jesús» (cf. *CCE*, 2707). La oración comienza escuchando a Dios que nos habla en la Escritura. La puerta de la oración es el encuentro con el rostro de Cristo: *Tu rostro buscaré, Señor* (Sal 27,8). El alma de la oración mental es la fe, la esperanza y el amor; no consiste en concebir pensamientos sublimes sino en creer, esperar y amar, «tanto en la sequedad como en el consuelo». Es también lugar de discernimiento de la voluntad de Dios: los últimos minutos se dedican al examen de las mociones y estados; «las convicciones que sostienen la vida son las que han madurado al calor de la oración». La vida de oración se simplifica y profundiza con los años, hasta la quietud y la oración de unión, siempre como gracia no lineal y con la ayuda del director espiritual para evitar ilusiones. «Se ora como se vive, porque se vive como se ora»; el «combate espiritual» es inseparable del combate de la oración (cf. *CCE*, 2725). La oración del apóstol está a veces marcada por la fatiga: hacer compañía al Señor sin poder articular pensamientos también es oración, porque es búsqueda sincera de Dios.
 
-### 12. Mentoría apostólica
+##### 7. Lectura espiritual
 
-[Contenido de esta sección...]
+La vida interior necesita como sustrato la lectura espiritual reflexiva: proporciona conceptos y vocabulario espiritual, alimenta el alma, enseña a encarnar la fe, ayuda a superar la rutina, amplía horizontes y multiplica la alegría de seguir a Cristo. Es imprescindible en la formación inicial para madurar convicciones, y también en la permanente (cf. Dan 12,3). Hay que escoger las lecturas como alimento sano: libros que propongan un camino realista, con los que se crezca hacia un mayor conocimiento y amor a Cristo (cf. Pío X, *Haerent animo*). Ante todo leer y releer la Sagrada Escritura (cf. *CLC*, 48), con buenos comentarios en el surco de la Tradición, reflejada en los Padres de la Iglesia; se recomiendan además los documentos del Magisterio y «los grandes autores de la tradición espiritual de la Iglesia, sin limitarse a lecturas espirituales de moda» (cf. *PoI*, 47). Es aconsejable la lectura pausada con breves anotaciones; la lectura convertida en pasión desordenada puede embotar el espíritu. En la oración, las ideas asimiladas bajan de la cabeza al corazón; en el apostolado, se transforman en alimento espiritual para la predicación y la dirección espiritual.
 
-### 13. Medios para compartir los bienes espirituales
+##### 8. Ejercicios espirituales y retiros
 
-[Contenido de esta sección...]
+Cada año se practican durante ocho días los ejercicios espirituales ignacianos, «según el espíritu de la Congregación» (cf. *CLC*, 53 § 1, 2.º), «un verdadero troquel de santos y de apóstoles». Su repetición anual ahonda en certezas inagotables y asimila las verdades en las nuevas circunstancias, con una gradualidad según las etapas (cf. *CLC*, 53 § 2). La clave para que no resulten un peso es que sea el ejercitante quien haga los ejercicios: la predicación se ha de reducir a la proposición de algunos puntos, propiciando sin sustituir el encuentro personal con el Señor, en ambiente de silencio. Son un momento privilegiado para escuchar el querer de Dios en el presente y determinarse a actuarlo; puede resumirse en un «programa de vida». La llama encendida se mantiene viva con los retiros espirituales mensuales: pausa para examinar las relaciones con Dios, los hermanos y la misión, a través de la Palabra, el examen personal y el diálogo con Jesucristo. Hay que acercarse al retiro con determinación de separarse del mundo para estar a solas con Cristo; el horario ha de permitir espacios de oración y análisis del progreso según el programa de vida. El director del retiro debe predicar simplemente para introducir a la oración.
 
-### 14. Corrección fraterna evangélica
+##### 9. Examen de conciencia y examen práctico
 
-[Contenido de esta sección...]
+El examen de conciencia es un breve encuentro con Dios y consigo mismo en un clima de oración, un momento de discernimiento espiritual: alegrarse por el bien realizado, descubrir la acción de Dios y separarse del mal cometido. *El día nos dispersa, el examen nos vuelve a unificar* (cf. Sal 86,11); un hombre de examen difícilmente será abatido por las tentaciones y contrariedades. Puede hacerse siguiendo cinco pasos: *lauda* (comenzar con gratitud, en clima de confianza y alabanza), *pete lucem* (súplica de luz al Espíritu Santo, venciendo la vanidad y el amor propio, cf. Mt 7,3), *examina* (examen particular sobre una virtud, y después el examen general recorriendo las actividades del día, en diálogo con el Señor y atendiendo a los movimientos espontáneos del corazón, para que no sea simple introspección), *dole* (dolor de los pecados, de modo especial los de omisión en el consagrado inmerso en tantas gracias), y *propone* (*¿Qué debo hacer, Señor?* —Hch 22,10—, preguntando el siguiente paso y convirtiéndolo en propósito). El momento central puede hacerse reflejándose en la mirada de Jesucristo: qué ha podido realizar por medio del legionario durante el día y qué le han impedido la pereza, el respeto humano, la soberbia, el rencor. Lo dicho vale también para el examen práctico, complemento de las pláticas espirituales: ayuda a profundizar en alguna actitud o principio, y todo examen «comporta una cierta conversión del corazón y un propósito».
 
-### 15. Estudio y clases
+##### 10. Dirección espiritual
 
-[Contenido de esta sección...]
+Cada uno es responsable de su respuesta al don de la vida y de la gracia; esa responsabilidad es insustituible e indelegable. La firme voluntad de discernir el designio de Dios lleva a buscar un acompañamiento espiritual estable que favorezca la objetividad y verdad en la fidelidad amorosa. Ya desde los comienzos de la Iglesia, quienes se consagraban totalmente a Cristo buscaban una persona más experimentada; la Iglesia maduró la convicción del bien de elegir un maestro del espíritu en ámbito diverso al del gobierno, para la buena comunicación de los asuntos íntimos. En medio de muchas voces interiores, «el director espiritual es una voz en la que confiar»; la dirección espiritual no es un intercambio de opiniones sino una relación formativa en la que director y dirigido se ponen a la escucha del Espíritu Santo. Por eso el dirigido abre, no solo su corazón, sino su conciencia (cf. *CIC*, c. 246 § 4), con sencillez y confianza sobrenatural; fruto de esta fe es acoger y llevar a la práctica los consejos recibidos. Todos los religiosos deben tener un director espiritual elegido libremente (cf. *CLC*, 59; *SCDE*, 110-121), tras pedir luz en la oración; no es bueno cambiarlo con facilidad. Se recomienda escoger un director cerca del lugar de trabajo; se debe buscar «el consuelo de Dios y la certeza de construir la vida según sus designios». Es contenido de la dirección: las mociones interiores (luces, tentaciones, consolación y desolación); los caminos de la oración y vida interior; la integración con la vocación, los consejos evangélicos y virtudes; los procesos de discernimiento. El discernimiento vocacional tiene relevancia en el fuero externo, que la Iglesia encomienda al superior; el director espiritual aporta su contribución en el ámbito de la conciencia. Director y dirigido se ponen de acuerdo sobre la frecuencia: la dirección solo da frutos con regularidad, como acompañamiento en un camino.
 
-### 16. Conversaciones
+##### 11. Diálogo personal de formación
 
-[Contenido de esta sección...]
+En el marco de la relación cotidiana con el superior, el legionario tiene el diálogo personal de formación, momento privilegiado de comunicación entre ambos, en la fe, en el contexto del voto de obediencia y en la unión de una vocación común. Los miembros «pueden abrir su corazón libre y espontáneamente» (cf. *CIC*, c. 630 § 5), pero el superior no puede inducir a la manifestación de la conciencia. El superior vela por el progreso y bien humano y espiritual de quienes le son encomendados; cada legionario es responsable de pedir el diálogo (cf. *CLC*, 60 § 1), y si no lo hace, el superior ha de salir al encuentro. Es materia del diálogo todo lo relativo a la formación integral y la vida religiosa, sacerdotal, comunitaria y apostólica: el superior comparte las alegrías, alienta en las dificultades, sugiere caminos de crecimiento, hace observaciones, ofrece su experiencia y vela por el orden y el equilibrio. Al conocerse mutuamente, el superior puede tomar prudentemente las decisiones como mediador de la voluntad de Dios. Hay que prepararse para el encuentro; el superior puede proponer temas específicos. Los religiosos en formación inicial ponen a su formador al corriente de su situación espiritual, académica, comunitaria, apostólica y vocacional, y tratan el desarrollo de las virtudes humanas basilares: sinceridad, lealtad, bondad de corazón, buena educación, generosidad, capacidad de reflexión, constancia, dominio de sí. El superior ayuda a los sacerdotes a perseverar en la búsqueda de la santidad (cf. *CLC*, 110 y 114). Los frutos son la paz en la vida religiosa, la mejor integración en la comunidad y el aliento en la formación permanente: al acoger en la fe las palabras del superior se reconoce una actuación de la gracia y un don de Dios.
 
-### 17. Reuniones
+##### 12. Mentoría apostólica
 
-[Contenido de esta sección...]
+Las prácticas apostólicas y los primeros años de ministerio son periodos de formación eminentemente prácticos, que se aprovechan mejor con un acompañamiento apropiado: así como el director de apostolado introduce en la tarea, un mentor ofrece un acompañamiento personal con una metodología adecuada. Dicha metodología es flexible y se basa en unos objetivos: número de encuentros, contenidos, posibilidad de acompañamiento *in situ*. El mentor asiste en la adquisición de habilidades (metodología de trabajo, procesos pedagógicos, administrativos…), ayuda a conocerse de forma objetiva en capacidades y límites, muestra cómo conciliar la vida comunitaria y apostólica, y ayuda a reflexionar y orar sobre las experiencias. El director territorial ha de velar para que se asigne un mentor a quienes inician las prácticas o el primer ministerio; también es aconsejable contar con uno, al menos informal, al recibir una nueva misión.
 
-### 18. Oficios y labores
+##### 13. Medios para compartir los bienes espirituales
 
-[Contenido de esta sección...]
+La Iglesia y el mundo esperan de las comunidades religiosas el testimonio de una vida fraterna que refleje el ideal cristiano (cf. Rom 12,9-21); para crecer en ella es preciso compartir los bienes materiales y espirituales. La convicción de que cada persona posee un valor irrepetible es presupuesto para compartirlos: *A cada cual se le otorga la manifestación del Espíritu para el bien común* (1Cor 12,7). Cada religioso ha de desarrollar una capacidad de escucha humilde y de apertura a los demás: conocer y dejarse conocer. Compartir bienes espirituales es parte esencial de la vida fraterna y no puede reducirse a actividades programadas. La tradición religiosa ofrece actividades específicas: el *encuentro con Cristo* (reflexión evangélica, discusión del caso de vida, revisión de compromisos, según la metodología del Regnum Christi); las *pláticas espirituales y predicación* a los hermanos, donde se comparte el propio corazón y experiencia (*cor ad cor loquitur*), con un examen práctico o una sesión de preguntas; la *reflexión en comunidad* sobre las Constituciones, los Estatutos del Regnum Christi u otros documentos; y *otras actividades ocasionales*; en las casas de apostolado es de primera importancia el proyecto comunitario.
 
-### 19. Descanso
+##### 14. Corrección fraterna evangélica
 
-[Contenido de esta sección...]
+«La corrección fraterna evangélica favorece la práctica de las virtudes, el progreso espiritual y la vida comunitaria» (cf. *CLC*, 42). Dios ha querido convocarnos en la Iglesia como pueblo y no como seres aislados: «nadie se salva solo» (cf. *EG*, 113). La corrección no tiene como fin eliminar la diversidad de dones sino contribuir a la buena marcha de cada uno, de la comunidad y de la Congregación; debe tocar aspectos objetivos y relevantes —es el «criterio de relevancia»— y no meras molestias subjetivas. «Quien corrige proceda con auténtica caridad, prudencia, pureza de intención y delicadeza […]; quien sea corregido, acoja de buen grado las aportaciones, ponderando la verdad de las mismas, con deseo de crecer, con humildad y gratitud de corazón» (cf. *CCG2014*, 78). Las tres formas ordinarias (cf. *CCG2014*, 77): los *avisos* del superior, que alientan el fervor y comparten en familia las preocupaciones; las *reuniones de intercambio comunitario o en equipo*, dedicadas expresamente a la corrección (cf. *CLC*, 42); y la *corrección personal*, que en la formación inicial ha de hacerse «ordinariamente tras haberse aconsejado con el superior», con franqueza y nobleza: «las indirectas e ironías no son un medio de corrección». Es profundamente evangélico pedir perdón y salir al encuentro del hermano del que se ha recibido una ofensa.
 
-### 20. Comidas
+##### 15. Estudio y clases
 
-[Contenido de esta sección...]
+El estudio es una actividad a la que el legionario dedica una parte significativa de sus energías, como exigencia intrínseca de la vocación y misión. Implica: aprender un método y personalizarlo; correspondencia con unos intereses y preguntas; motivación —amor a la Iglesia y sufrimiento ante las necesidades de las almas—; perseverancia, precisión, formalidad y trabajo con metas. Ha de contribuir a hacer del estudio una actividad fructuosa y agradable durante toda la vida. En las clases hay que pasar de la recepción pasiva a una escucha activa con humildad intelectual. Cada uno ha de rendir según sus dones, trazarse un plan de lecturas personales y cultivar temas de interés pastoral, de acuerdo con el prefecto de estudios; quien está en formación permanente busca un conocimiento claro, profundo y actualizado de la vida eclesial. Medios que ayudan a pensar el estudio en clave de comunicación y misión: redacción de artículos, adaptar el contenido al medio, prácticas de hablar en público y de predicación, academias.
 
-## B. Medios generales de formación
+##### 16. Conversaciones
 
-[Contenido de esta sección...]
+Las conversaciones son los momentos para compartir el fruto del propio estudio, vida interior y experiencias; el legionario busca ser un hombre de conversación interesante, profunda, amena y agradable. Saber dialogar es un arte que manifiesta el dominio de sí y la madurez. Pautas: elegir temas de interés para un religioso, evitando *cuestiones necias y estúpidas* que acaban en peleas (2Tim 2,23-24); usar un tono de voz moderado; mirar a la persona; escuchar con atención, sin interrumpir, buscando lo que nos acerca al otro —«dialogar es dar y recibir, enseñar y aprender»—; ceder la palabra; interrumpir, si es preciso, con cortesía. Como consagrados a predicar una «palabra buena» (cf. Sal 45,2), lo que el legionario dice tiene virtualidad de hacer bien, pero también mal: *malas palabras no salgan de vuestra boca* (Ef 4,29). Frente al espontaneísmo, la Legión promueve una espontaneidad educada, un vocabulario rico y preciso, *corregir con dulzura* (2Tim 2,25), y la naturalidad con personas de todas las edades y condiciones.
 
-### 1. Disciplina religiosa
+##### 17. Reuniones
 
-[Contenido de esta sección...]
+Las reuniones realizan la comunión y la colaboración en los diversos campos de la vida del legionario; cada reunión es ocasión de actuar la fe en la presencia de Jesucristo: *donde dos o tres están reunidos en mi nombre, ahí estoy yo en medio de ellos* (Mt 18,20). Orientaciones: elaborar un orden del día con finalidad, temas y duración; prepararse llegando puntuales y estudiando los temas, para que las aportaciones sean ágiles y sustanciales; participar con serenidad, equilibrio y dominio personal, dispuestos a escuchar y a cambiar de opinión sobre la base de los argumentos, permitiendo al moderador ejercer su tarea; no temer las discrepancias, que ayudan a profundizar, evitando querer tener la razón a toda costa y el resentimiento; al finalizar, el moderador resume lo tratado y los acuerdos; en reuniones periódicas se aprueba el acta de la precedente.
 
-### 2. Evaluación formativa periódica
+##### 18. Oficios y labores
 
-[Contenido de esta sección...]
+El trabajo manual se considera una faceta a imitar de la vida de Cristo; ayuda a comprender a quienes ganan su sustento con la fatiga del trabajo físico, y es elemento importante de la formación, pues contribuye a formar el carácter, a contrastar la comodidad y a vivir la pobreza evangélica. El trabajo bien hecho muestra a una persona capaz de comportarse del mismo modo en sus tareas apostólicas. Los legionarios deben sentir su casa como propia, cuidando la limpieza y orden de la habitación personal y participando con responsabilidad en el aseo de las dependencias comunes. Se invita a aprovechar estos tiempos para actuarse en la presencia de Dios, con comuniones espirituales o jaculatorias, y a ofrecer el propio trabajo por quienes necesitan trabajar para lograr su sustento: los oficios «son también una escuela de unión con Dios en medio de la actividad».
 
-### 3. Proyección apostólica del legionario
+##### 19. Descanso
 
-[Contenido de esta sección...]
+El buen cansancio de quien ha consagrado su vida al Reino es santo: es la fatiga de quien ha trabajado para llevar a los hombres a la experiencia del amor de Cristo, *me desgastaré yo mismo por vosotros* (2Cor 12,15). Puede darse una fatiga excesiva y no querida por Dios (cf. *EG*, 82), por afrontar el trabajo de forma equivocada y verse protagonista. El descanso es un medio necesario para la salud física y emocional y entra de lleno en la formación integral: «todos siéntanse responsables del propio descanso y ayuden a descansar a los demás» (cf. *CCG2014*, 76). La forma de afrontar la pausa puede resumirse: «descanso sí, ociosidad no»; hay que privilegiar formas que desarrollen otras facetas —contacto con la naturaleza, lectura, deporte, música…—; la mejor forma de descansar es «divertirse», en el sentido etimológico de «cambiar de dirección». El legionario sabe que el descanso no es el sentido de la vida: *somos ciudadanos del cielo* (Flp 3,20); se puede decir que «reserva sus vacaciones para el cielo». Los momentos de esparcimiento deben favorecer, no contradecir, la vida religiosa, y servir al desarrollo personal y la edificación mutua; la comunidad necesita la presencia de los miembros en las actividades de convivencia. El domingo se vive como día marcado por la alegría de la resurrección, la gratitud y el anhelo del cielo, a imitación de Dios que *descansó el día séptimo* (Gén 2,2). El legionario aprende a descansar con cosas sencillas: *la espiritualidad cristiana propone un crecimiento con sobriedad y una capacidad de gozar con poco* (cf. *Laudato Si'*, 222).
 
-### 4. Recurso a profesionales en campo psicológico
+###### Juego
 
-[Contenido de esta sección...]
+En el juego se compite sanamente, con interés y jovialidad, para descansar y hacer descansar; es propio del hombre cabal el juego limpio, ser humilde en la victoria y en la derrota, gobernar las propias reacciones y emociones: «en la mesa y en el juego se conoce al caballero». En la medida de lo posible, todos han de hacer deporte o ejercicio al aire libre con frecuencia; en los deportes de equipo cada uno marca lealmente sus faltas o acepta las decisiones del árbitro.
 
-### 5. Formación para el mundo digital
+###### Paseos, fines de semana de descanso y vacaciones
 
-[Contenido de esta sección...]
+En los momentos de convivencia comunitaria se busca retomar un trato más profundo, recuperar energías y renovar el fervor de la vida interior, disfrutando de la presencia de Dios en la creación. Ofrecen ocasiones de servicialidad ingeniosa: *hay más dicha en dar que en recibir* (Hch 20,35). Se desarrollan de acuerdo con la propia identidad consagrada: elección de lugares, presentación personal, trato y espíritu.
+
+##### 20. Comidas
+
+Todos los alimentos han germinado por el poder de Dios, que pensó en nosotros para que nos sirviesen de sustento; por eso se bendicen antes de tomarlos. El dominio de sí al comer se manifiesta en la buena educación y la atención a los demás. En las casas de formación las comidas son un momento de formación con lectura: durante las comidas, libros de historia de la Iglesia, cultura, biografías, ensayos de actualidad, concluyendo con el santoral; durante las cenas, textos de espiritualidad, Magisterio y vidas de santos, para recoger el espíritu. En los momentos previstos hay ocasión de conversar para fomentar el ambiente de familia. Es signo de verdadera pobreza tomar con gratitud la comida; se recomienda no levantarse de la mesa sin haber ofrecido un pequeño sacrificio; al concluir, se da gracias y se recuerda a los difuntos, prolongándose en la tradición laudable en una breve visita a Cristo Eucaristía (o, fuera de casa, con un pasaje del Evangelio y unos instantes de reflexión).
+
+#### B. Medios generales de formación
+
+##### 1. Disciplina religiosa
+
+Cuando la Iglesia aprueba un proyecto carismático como un instituto religioso, garantiza que las inspiraciones y normas que lo rigen «abren un itinerario de búsqueda de Dios y de santidad» (cf. *SAO*, 9; *OT*, 11). Una ventaja de las familias religiosas es «una doctrina experimentada para conseguir la perfección» (cf. *LG*, 43), entendida como doctrina de vida que debe vivirse. No se debe caer en el error «un excesivo deseo de flexibilidad y de espontaneidad creativas» que tache de rigidez el mínimo de regularidad que exige la vida de comunidad (cf. *ET*, 32): «la comunidad sin mística no tiene alma, pero sin ascesis no tiene cuerpo» (cf. *VFC*, 23). Las normas, horarios y tradiciones «se convierten también en mediación de la voluntad del Señor: mediación humana, sí, pero autorizada; imperfecta y al mismo tiempo vinculante» (cf. *SAO*, 9; *ElEs*, 34). El legionario interioriza los valores, expresa por medio de ellas su identidad, pero no cae en el formalismo: hay que reavivar las formas exteriores por el impulso interior (cf. *ET*, 12). La disciplina religiosa tiene tres fines: «dar testimonio de su consagración, fomentar la vida fraterna en común y progresar en el amor a Dios» (cf. *CLC*, 40). El religioso maduro vive la disciplina «interiorizando las normas y viviéndolas con fidelidad y madurez, bajo la guía de los superiores»; si se descuidan, se reciben las correcciones y penitencias «con fe y humildad» (cf. *CLC*, 93, 5.º). La caridad de Cristo es norma suprema de la vida del religioso (cf. *CLC*, 237).
+
+##### 2. Evaluación formativa periódica
+
+###### Naturaleza y finalidad
+
+La formación es un proceso continuo y gradual; contar con evaluación es un recurso pedagógico que permite ver con objetividad la propia situación, revelar las facetas en las que crecer y aprovechar los medios a su alcance: el hábito de evaluarse ayuda a ir *semper altius*. La formación es sobre todo obra del Espíritu Santo en un hombre que se identifica progresivamente con Cristo; por tanto los criterios no pueden ser los de una empresa humana y la evaluación debe ser personalizada, porque cada uno crece a su ritmo. La Legión ha de establecer indicadores en las actitudes y comportamientos, conforme al derecho universal y propio; los objetivos formativos de las dimensiones son piedra de toque. El mismo ejercicio de evaluarse es formativo.
+
+###### Responsables de la evaluación
+
+Cada legionario es el principal responsable de su propia formación (cf. *DVP*, 130): de esta convicción brota el propósito de conocerse, aceptarse y superarse mediante el examen y el discernimiento. Pero es preciso contar con instancias externas que den objetividad: los formadores, cuyo diálogo honesto ayuda a comprenderse. A los formadores corresponde dar un juicio sobre el progreso con el espíritu de Cristo, Buen Pastor, llevando cada caso a la oración hasta alcanzar certeza interior. Un medio son los informes personales, preparados en nombre de la Iglesia Madre, con «coherencia y objetividad» (cf. *DVP*, 58) y confidencialidad; es bueno pedir al formando que exprese su visión de sí mismo como parte del informe; en ocasiones (antes de la profesión perpetua y la ordenación diaconal) puede recabarse el sentir de la comunidad, pero el informe es del superior y expresa su juicio. El director espiritual participa con su propia evaluación, que comunica directamente al dirigido.
+
+###### Aplicaciones a la formación inicial
+
+Los hitos de admisión —profesión religiosa, renovaciones de votos, profesión perpetua, ministerios, órdenes— constituyen momentos privilegiados de evaluación. Antes de solicitar su admisión, el religioso debe examinar si cumple los requisitos del *Código de Derecho Canónico* (cf. c. 1029: fe íntegra, recta intención, conocimientos, buena reputación, moral íntegra, salud física y psicológica) y de las *Constituciones* (nn. 66, 85, 93, 106, 107), y si ha alcanzado los objetivos de su estadio; el superior, escuchando a su Consejo y tras la oración, completa el análisis y emite el juicio de idoneidad, comunicando las carencias con claridad en el momento oportuno. Los momentos de transición son grandes ocasiones de ponerse delante de Dios, no simples formalidades. Hasta la profesión perpetua se presta atención a la idoneidad; en la preparación inmediata a las órdenes se verifica la madurez y virtud requeridas. La evaluación no se limita a las admisiones: al final de cada curso el religioso hace una evaluación escrita de su progreso y dialoga sobre ella con su director espiritual y formadores; también durante las prácticas apostólicas, con la valoración de su mentor y superior. Después de las prácticas, la evaluación anual coincide con los procesos de admisión. Ante un cambio de comunidad, el superior elabora un informe para la continuidad del acompañamiento. Durante las etapas de estudio se presta atención a la evaluación académica —que va más allá de las calificaciones, ayudando además a la pureza de intención—.
+
+###### Aplicaciones a la formación permanente
+
+Después de la ordenación, la evaluación ayuda al sacerdote a mantenerse en el fervor. Durante los primeros tres años se evalúa por escrito al final del curso y se trata en diálogo con el director espiritual, el superior y el director de apostolado o mentor; en lo sucesivo se recomienda continuar la práctica. Al concluir un encargo, el superior indica si hay razón para la renovación; al cambiar de comunidad, elabora un informe.
+
+##### 3. Proyección apostólica del legionario
+
+Se llama proyección apostólica al proceso por el cual se discierne el ámbito apostólico (pastoral juvenil y familiar, promoción vocacional, formación de legionarios, ámbito académico, administración, etc., definidos por el director general) al que se enfoca un legionario y el tipo de misión que se le asigna; se da durante toda la vida, se concreta en momentos determinados y sigue principios.
+
+###### Principios generales
+
+Primero, la inserción en la misión de la Congregación y del Regnum Christi: «formar apóstoles, líderes cristianos al servicio de la Iglesia» (cf. *CLC*, 4). Segundo, la obediencia: el legionario se siente «soldado raso» y vive como tal, con una obediencia motivada que aúne dependencia e iniciativa responsable (cf. *CLC*, 33 § 2 y 34); la proyección apostólica y la asignación de la misión son ocasión de vivir la obediencia «sobrenatural, pronta, alegre, perseverante y heroica»; los superiores fomentan «el dinamismo de la iniciativa personal como la obediencia oblativa» (cf. *CLC*, 36, 2.º). Identificándose con Cristo, que vino *a servir y dar su vida* (Mc 10,45), el legionario hace efectivo el sentido oblativo de su consagración. Tercero, la relación entre misión particular y talentos personales: al destinar a los religiosos, se tenga en cuenta «el bien del interesado y el de la Congregación» (cf. *CLC*, 128), conjugando los dones con las necesidades apostólicas mediante el diálogo sincero.
+
+###### El proceso de proyección apostólica
+
+Para servir mejor a la misión se debe: ofrecer una formación esmerada en los conocimientos y habilidades necesarios; ofrecer herramientas para conocer la propia personalidad y aptitudes; diseñar, cuando sea preciso, un camino personalizado de capacitación a mediano y largo plazo; preparar programas de introducción a cada nueva misión y medios de evaluación. Antes de las prácticas apostólicas, el religioso realiza una evaluación personal sobre su asimilación de la dimensión apostólica; el rector, tras consultarlo, propone al director general la asignación de la misión, y el religioso elabora un plan de competencias. Durante las prácticas será acompañado por un mentor; al concluir, evaluará su progreso y presentará un plan de crecimiento. Durante el tercer año de teología tiene lugar el proceso de asignación de la misión: consulta al religioso, juicio del rector tras oír a su Consejo, y asignación del primer destino apostólico o inicio de licencia por el director general. Los jóvenes sacerdotes deben ir perfilando un programa de capacitación con vistas a su proyección; para la docencia universitaria conviene comenzar antes. Cada legionario complementa su formación al menos con una licenciatura, generalmente en teología, entre tres y nueve años después de la ordenación, aprobada por el director general; al concluirla, este puede asignar al sacerdote a un ámbito específico.
+
+##### 4. Recurso a profesionales en campo psicológico
+
+Al discernir la vocación e idoneidad de los candidatos, la Iglesia busca «salvaguardar el bien de la propia misión y, al mismo tiempo, el de los candidatos» (cf. *OUP*, 1): dos bienes convergentes. El ministerio sacerdotal «reclama unas cualidades y unas virtudes morales y teologales que han de encontrar su fundamento en un equilibrio humano y psíquico, especialmente en el campo afectivo» (cf. *OUP*, 2); la psicología puede ofrecer una ayuda que «debe integrarse en el cuadro de la formación global del candidato» (cf. *OUP*, 6), con tres fines: evaluativo, formativo y terapéutico.
+
+###### Fin evaluativo
+
+Se realiza sobre todo en la admisión al noviciado, para «conocer mejor la índole y la personalidad de los candidatos» (cf. *DVP*, 192), a través del llamado «examen psicomédico de personalidad, capacidad y aptitudes», iluminando la decisión sobre bases objetivas; pueden surgir nuevas evaluaciones en momentos posteriores.
+
+###### Fin formativo
+
+Para lograr un conocimiento y comprensión más profundo de uno mismo (la llamada psicología no terapéutica), de cara a una mejor integración de la persona con su consagración. Motivos: notable dificultad para la convivencia en comunidad, la relación con la autoridad, el cumplimiento de los deberes, la normal maduración afectiva, la capacidad de reconocer las propias dificultades. En las casas de formación se ofrecerán conferencias sobre crecimiento humano integral.
+
+###### Fin terapéutico
+
+Motivos: experiencias traumáticas, dificultad para controlar el impulso sexual, dudas sobre la orientación sexual, ideas suicidas, depresión, ansiedad, adicciones, alteraciones de conducta o problemas somáticos, dificultades de atención. El recurso no debe prolongarse innecesariamente y ha de integrarse en el crecimiento espiritual, en compañía del director espiritual y el superior; el religioso se mantiene en la vida ordinaria activa, salvo raras excepciones; su oración debería intensificarse, pues «la gracia que deriva de la oración humilde y de la recepción de los sacramentos contribuirá a la buena marcha de la terapia».
+
+###### Respeto por la persona
+
+Principios básicos (cf. *OUP*, 12): el consentimiento «previo, explícito, informado y libre» para cualquier entrevista y prueba, con derecho a ser informado de la naturaleza, fin, confidencialidad, uso y conservación de la información; y el deber de respetar la buena fama y la intimidad (cf. *CIC*, c. 220). Indicaciones: todo religioso ha de sentirse libre para solicitar ayuda profesional; si rechaza la consulta, los superiores no forzarán su voluntad y procederán prudentemente (cf. *OUP*, 12), sin admitir a la profesión sin certeza positiva de idoneidad, y pudiendo restringir el ministerio en caso de duda fundada; la relación con el psicólogo es estrictamente confidencial, con autorización explícita y por escrito para integrar información al expediente; el parecer profesional debe ser accesible exclusivamente a los responsables de la formación, con la prohibición de uso ajeno al discernimiento vocacional. Lo importante es que el proceso le resulte útil al religioso: ha de acordar con el terapeuta el objetivo de las sesiones; el reporte escrito debe estar redactado en clave de crecimiento personal; el superior puede participar solo con su consentimiento.
+
+###### Criterios para la elección de psicólogos
+
+No precipitarse en la elección; en caso de duda, pedir consejo. Elementos a sopesar: buen conocimiento de la fe, sana antropología, visión cristiana de la sexualidad, conocimiento de la vida religiosa y sacerdotal; que tengan claro que su función no es determinar si hay vocación sino ayudar a conocerse; que la terapia facilite la integración de la dimensión humana y sobrenatural. Conviene que el director territorial y el rector mantengan una lista de psicólogos que cumplen los requisitos.
+
+###### Preparación de los formadores
+
+La Congregación se preocupará de que los formadores adquieran suficiente capacitación en este campo (cf. *OUP*, 3), mediante una adecuada cultura pedagógica y psicológica.
+
+##### 5. Formación para el mundo digital
+
+Los «medios de comunicación social» no son solo herramientas, sino un nuevo ambiente en continua evolución: «las nuevas tecnologías digitales están provocando hondas transformaciones en los modelos de comunicación y en las relaciones humanas» (cf. Benedicto XVI, 2009); las «periferias digitales» son nuevos «lugares» donde no puede faltar la propuesta de una auténtica cultura del encuentro, en el nombre de Jesús (cf. *DVP*, 98). La Iglesia valora positivamente esta realidad como plaza pública «de la que los futuros pastores no pueden permanecer excluidos» (cf. *DVP*, 97).
+
+###### Ayuda que ofrecen los medios
+
+El legionario se forma aunando un uso adecuado de los medios «con una sólida preparación teológica y una honda espiritualidad sacerdotal» (cf. Benedicto XVI, 2010), pues a través de ellos encuentra el rostro de Cristo. El silencio se hace esencial para discernir lo importante de lo superficial en la abundancia de mensajes (cf. Benedicto XVI, 2012). La realidad digital puede favorecer la cultura del encuentro, un renovado sentido de unidad de la familia humana y la solidaridad (cf. Francisco, 2014); y extiende «de forma asombrosa» la posibilidad de predicar a Cristo: el «confín de la tierra» se ha ampliado a través de los medios y las redes sociales (cf. *DVP*, 97).
+
+###### Criterios de uso
+
+Principios morales objetivos: dignidad de la persona y bien común (cf. *Compendio de Doctrina Social de la Iglesia*, 416). Criterios: *de identidad* (predicar el amor a partir de la configuración con Cristo); *de verdad, de caridad y de buena fama*; *de misión* (no sustituir las obligaciones del ministerio ordenado, como los sacramentos y la dirección espiritual); *de sobriedad* (primer lugar a los espacios de intimidad con Dios; la abstinencia total en ejercicios y retiros tiene repercusión benéfica, cf. *VC*, 99); *de comunión* (al servicio de la comunión en el Regnum Christi y la Legión). El legionario ha de comprender que su presencia en las redes nunca es meramente personal: siempre representa a la Legión, al Regnum Christi y a la Iglesia.
+
+###### Posibles riesgos y ayudas para superarlos
+
+Riesgos (cf. *DVP*, 99): dispersión y pérdida de tiempo; la adicción de vivir «en línea»; cultivo de relaciones virtuales preferidas a la atención personal; buscar el aprecio de los seguidores comprometiendo la identidad; aceptación acrítica y difusión de información sin contrastar; perder el gusto del silencio y del contacto sencillo con Dios; el abuso como evasión de la realidad. Se recomienda el uso de programas que permitan apoyarse en personas de confianza que reciban información del propio uso de internet: «la conciencia de no estar nunca solos al navegar es una gran ayuda». Los formadores deben capacitarse y crear ocasiones de hablar abiertamente en comunidad.
+
+###### Indicaciones para las etapas de formación inicial
+
+La vida del llamado a la misión ha de comenzar en el desierto, a ejemplo de Jesucristo (cf. Mc 1,12-13) y san Pablo (cf. Gál 1,15-18). En el noviciado se propone a los novicios una experiencia de abandono de las redes sociales y un uso muy limitado de internet, dialogando sobre sus frutos con el instructor; el internet sigue siendo accesible, y son los novicios los que asumen la abstinencia como propia. Después del noviciado los formadores acompañan la gradual reintegración al uso de estos medios, para que los religiosos aprendan a servirse de ellos como corresponde a su identidad, con la libertad interior para dejarlos; el uso de los medios y el tiempo dedicado ha de ser tema del diálogo formativo.

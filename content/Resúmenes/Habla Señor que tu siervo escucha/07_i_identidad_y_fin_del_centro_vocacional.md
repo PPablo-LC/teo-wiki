@@ -12,31 +12,12 @@ tags: ["resumen", "habla señor que tu siervo escucha"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[centro_vocacional]] — realidad cuya identidad y fin se desarrollan en este capítulo
+- [[vocación]] — horizonte personal hacia el que se orienta la formación del centro vocacional
+- [[discernimiento_vocacional]] — proceso que articula la finalidad del centro vocacional
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `07_i_identidad_y_fin_del_centro_vocacional.md`
+### I. Identidad y fin del centro vocacional
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | I. Identidad y fin del centro vocacional |
-
-
-## Secciones incluidas
-
+El capítulo primero abre la parte expositiva del documento presentando los fundamentos del centro vocacional. Se divide en dos apartados: la **identidad del centro vocacional** (el centro como seminario menor–escuela apostólica, como parte de la familia espiritual legionaria y del Movimiento Regnum Christi, y como comunidad de vida cristiana según el carisma de la Legión de Cristo) y la **finalidad del centro vocacional** (su finalidad específica, las características de la maduración vocacional, el discernimiento y la decisión vocacional, y el perfil de egreso del alumno).

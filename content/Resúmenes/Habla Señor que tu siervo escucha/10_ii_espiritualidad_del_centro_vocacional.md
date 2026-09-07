@@ -12,55 +12,38 @@ tags: ["resumen", "habla señor que tu siervo escucha"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[cristocentrismo]] — el cristocentrismo como elemento fundamental de la espiritualidad del centro vocacional
+- [[amistad]] — la amistad con Jesucristo como experiencia viva propuesta a los alumnos
+- [[reino_de_dios]] — el Reino de Cristo que los alumnos buscan hacer presente en la sociedad
+- [[caridad]] — virtud más característica de los centros vocacionales
+- [[cinco_amores]] — respuesta al amor de Dios vivida por la Legión y el Regnum Christi
+- [[espiritualidad_legionaria]] — espiritualidad propia de la Legión de Cristo y del Regnum Christi
+- [[eucaristía]] — lugar donde los alumnos buscan constantemente a Jesucristo
+- [[centro_vocacional]] — ámbito donde se vive esta espiritualidad
+- [[sagrado_corazón_de_jesús]] — dedicatoria de los centros vocacionales y devoción central
+- [[inmaculada_concepción]] — dedicatoria de los centros vocacionales
+- [[virgen_maría]] — amor filial a la Santísima Virgen María
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `10_ii_espiritualidad_del_centro_vocacional.md`
+### Cristocentrismo y amistad con Jesucristo28
 
+Al promover el cristocentrismo como elemento fundamental de la propia espiritualidad, los formadores presentan a los alumnos del centro vocacional una experiencia viva de la persona de Jesucristo, que quiere compartir su vida con cada uno de ellos y ser su mejor Amigo. Los animan a buscarle constantemente en la Eucaristía y en el prójimo, a conocerle cada vez más en el Evangelio, y a dejarse comprometer por su amor, que les acogerá siempre como son, con misericordia y bondad.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### El Reino de Cristo
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | II. Espiritualidad del centro vocacional |
-| 3 | H3 | Cristocentrismo y amistad con Jesucristo28 |
-| 9 | H3 | El Reino de Cristo |
-| 13 | H3 | La vivencia de la caridad, corazón del espíritu de la Legión y del Reg |
-| 19 | H3 | Cinco amores de la Legión de Cristo y del Regnum Christi32 |
-| 23 | H3 | Dedicación y patronos |
+Jesucristo invita a los alumnos del centro vocacional a una amistad más cercana con Él. Los alumnos, por su parte, buscan que Cristo reine en sus corazones, en el de todos los hombres y en el mundo entero. Esta amistad les involucra en la misión de hacer presente este Reino en la sociedad, por medio del testimonio de sus vidas jóvenes que buscan en todo complacer a Dios, y con apostolados adecuados a su edad y condición.
 
+### La vivencia de la caridad, corazón del espíritu de la Legión y del Regnum Christi30
 
-## Secciones incluidas
+La caridad es el amor del Corazón de Jesucristo que nos manda amarnos como Él nos ha amado (cf. Jn 13, 34). La experiencia de este amor nos mueve a transmitirlo a los demás. Por ello, es la virtud más característica de los centros vocacionales. El fruto natural de la vivencia de esta caridad será el buen espíritu y el ambiente de armonía y cordialidad en la convivencia diaria. La servicialidad ingeniosa y abnegada, la bondad y sencillez en el trato, el hábito de hablar bien de los demás, de rechazar la envidia y la murmuración, etc., son manifestaciones concretas de esta caridad, que los formadores enseñan y promueven entre los alumnos con el propio ejemplo.
 
-## Cristocentrismo y amistad con Jesucristo28
+### Cinco amores de la Legión de Cristo y del Regnum Christi32
 
-[Contenido de esta sección...]
+Los alumnos del centro vocacional buscan vivir los cinco amores que la Legión y el Movimiento proponen a sus miembros, como respuesta al amor de Dios en sus vidas: el amor a Cristo, el amor filial a la Santísima Virgen María, el amor a la Iglesia y al papa, el amor a los hombres, y el amor a la Legión de Cristo y a la familia del Regnum Christi, que en este momento de su vida se traduce de modo especial en el amor a la propia comunidad del centro vocacional.
 
-## El Reino de Cristo
+### Dedicación y patronos
 
-[Contenido de esta sección...]
+Los centros vocacionales están dedicados al Sagrado Corazón de Jesús y a la Inmaculada Concepción. Reconocen como patronos a san Juan Evangelista —el joven apóstol que gozó de una especial amistad con Jesús— y a san Pablo —que por su fe y amor a Jesucristo superó con pasión y energía todo tipo de dificultades con tal de anunciar el Evangelio. Están puestos bajo la especial protección de san José, esposo de la Virgen, y de san Miguel Arcángel.
 
-## La vivencia de la caridad, corazón del espíritu de la Legión y del Regnum Christi30
-
-[Contenido de esta sección...]
-
-## Cinco amores de la Legión de Cristo y del Regnum Christi32
-
-[Contenido de esta sección...]
-
-## Dedicación y patronos
-
-[Contenido de esta sección...]
+Las jaculatorias tradicionales que los alumnos rezan en los momentos comunitarios son: «Cristo Rey Nuestro», a la que responden «¡Venga tu Reino!», y «Madre purísima», a la que responden «ruega por nosotros».

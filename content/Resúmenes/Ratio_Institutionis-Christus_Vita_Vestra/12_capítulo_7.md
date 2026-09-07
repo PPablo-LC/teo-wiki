@@ -12,34 +12,32 @@ tags: ["resumen", "ratio institutionis-christus vita vestra"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[discernimiento_vocacional]] — proceso de verificación de la vocación a lo largo de las etapas
+- [[vida_religiosa]] — la idoneidad para abrazarla como criterio del discernimiento
+- [[formación_inicial]] — el candidatado, el noviciado y los votos temporales
+- [[profesión_religiosa]] — los votos temporales y la profesión perpetua
+- [[dirección_espiritual]] — ayuda del director espiritual y del superior en los procesos
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `12_capítulo_7_proceso_de_discernimiento_vocacional.md`
+### Capítulo 7. Proceso de discernimiento vocacional
 
+*¿Qué debo hacer, Señor? (Hch 22,10)*
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+«Jesús subió a un monte, y llamando a los que quiso, vinieron a él» (Mc 3,13): por un lado la decisión absolutamente libre de Jesús y por otro el «venir» de los Doce, el «seguir» a Jesús. «La primacía absoluta de la gracia en la vocación encuentra su proclamación perfecta» en la palabra de Jesús: *no me elegisteis vosotros a mí, sino que yo os elegí a vosotros y os he destinado para que vayáis y deis fruto y que vuestro fruto permanezca* (Jn 15,16; cf. *PDV*, 36).
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Capítulo 7. |
+No es pretensión de la *Ratio* elaborar una teología vocacional: la doctrina de la Iglesia subraya la rectitud de intención y la idoneidad (cf. *CIC*, c. 241 § 1 y 597). Se parte del presupuesto de que querer y poder son requisitos suficientes para entrever una posible vocación. El «querer» se identifica con lo que el joven experimenta en la intimidad de su relación con Cristo: el anhelo de pertenecerle por completo, el deseo de trabajar por la salvación de los hombres, la atracción por la vida fraterna; no es infrecuente que al inicio estos motivos rectos se entremezclen con otros menos puros —la atracción por un modelo humano, una visión idealizada del sacerdocio, un cierto deseo de protagonismo— que Dios irá purificando. El «poder» se verifica por la ausencia de impedimentos y la posesión de cualidades, según los puntos de referencia objetivos del *Código de Derecho Canónico* (cf. c. 642: salud, carácter adecuado y cualidades de madurez; c. 643: invalidez en la admisión al noviciado, menor de 17 años; c. 241: dotes humanas y morales, espirituales e intelectuales, salud física, equilibrio psíquico y recta intención) y de las *Constituciones* (cf. *CLC*, 66. 85. 93. 106. 107) para la admisión al noviciado, a la profesión, a los ministerios y a las órdenes.
 
+Se habla de «discernir» porque es necesario un juicio prudencial: valorar si las categorías de las *Constituciones* se encuentran suficientemente presentes en el candidato a la luz de su proceso de crecimiento interior durante un tiempo significativo. Este proceso es diverso para cada persona: para algunos la certeza se impondrá con evidencia desde el inicio, para otros alcanzar una certeza moral será más sufrido y prolongado. De ahí la importancia del acompañamiento personal, atento, sobrenatural y paterno en cada etapa del camino.
 
-## Secciones incluidas
+La participación en el candidatado requiere que el joven cuente con indicios de un posible llamado de Dios; la finalidad de esta etapa es realizar una primera verificación de dichos indicios en la experiencia de vida como candidato, con un programa y actividades que incorporan algunos elementos de la vida religiosa en la Legión. Si la inquietud se ha mantenido viva, se verifica inicial y suficientemente que cuenta con las cualidades que señalan las *Constituciones* (cf. *CLC*, 66 § 2: inteligencia suficiente, voluntad firme y tenaz, prudencia en determinar, decisión, valentía y constancia en la ejecución, honestidad, psicología equilibrada y buena salud, discreción, afabilidad, buen trato, sinceridad y lealtad), y no hay impedimentos evidentes, puede ingresar al noviciado; se presta especial atención a la generosidad y disposición para vivir el espíritu de la Congregación, la vida común y los apostolados propios (cf. *CLC*, 66 § 2, 5.º). Quien ha mantenido dudas persistentes valorará con sus formadores si conviene seguir discerniendo fuera de la Legión o afrontar el noviciado, que requiere un mínimo de serenidad, espíritu positivo y [[libertad_interior]] para dejarse modelar con docilidad.
 
-# Capítulo 7.
+El noviciado es el periodo de discernimiento vocacional por excelencia. El instructor de novicios tiene la doble tarea de ayudar al novicio en su formación y en el examen profundo de su inclinación y de su idoneidad para la vida religiosa y sacerdotal en la Legión: repasar juntos la historia personal del novicio, la huella de su educación familiar y sucesiva, la atracción que Dios le hace experimentar, sus deseos, esperanzas y temores. El instructor cuenta con una particular gracia de estado para ayudar al novicio y a la Congregación a hacer luz sobre su llamado, con bases sólidas que den garantías para el futuro, o para ayudarlo a responder a la voz de Dios que lo guía por otro camino.
 
-[Contenido de esta sección...]
+Para hacer la profesión de votos temporales ni el novicio ni sus formadores deben albergar dudas serias sobre la vocación. Si el novicio vacila, no es recomendable que dé el paso; si los formadores dudan de su idoneidad, el instructor puede solicitar al director territorial la prolongación del noviciado por seis meses más (cf. *CIC*, c. 653 § 2; *CLC*, 76), aunque en línea de principio dos años deberían bastar para formarse un juicio. La intención del novicio al profesar debe ser abrazar la vida legionaria para siempre, con el firme propósito de servir a Dios y renovar los votos hasta la profesión perpetua (cf. *CLC*, 85 § 1), pues «aunque tengan el carácter de una prueba por el hecho de ser temporales, la emisión de los primeros votos hace ya al que los emite realmente partícipe de la consagración propia del estado religioso» (cf. *PoI*, 56).
+
+Los períodos de votos temporales tienen la finalidad primaria de formar a los hombres que Dios llama a ser legionarios: tiempo precioso para «continuar su propio crecimiento humano y espiritual por la práctica animosa de aquello a lo que se ha comprometido» (cf. *PoI*, 59). Los momentos de duda o vacilación se pueden dar y convertirse en oportunidades para afianzarse, pero estos años no deben caracterizarse por un continuo cuestionamiento del llamado, sino por una gradual confirmación de la mano del proceso de maduración personal. Pueden emerger entonces factores fisiológicos o psicológicos no percibidos antes, o acentuarse problemas y tendencias cuya superabilidad no se podía prever; pueden también surgir elementos que lleven a un sano cuestionamiento del discernimiento anterior e incluso a desaconsejar la renovación de votos. En estos procesos es decisivo distinguir entre dificultades normales o periodos de purificación —que siempre los habrá— y problemas que por su relevancia y profundidad hacen pertinente replantear la cuestión vocacional; el director espiritual y el superior ayudarán a distinguir una cosa de otra.
+
+El discernimiento vocacional ha de ser un proceso limitado en el tiempo. Al emitir la profesión perpetua, el religioso y la Congregación tienen la confianza de que se ha confirmado el discernimiento que condujo a la primera profesión. Este paso exige muestras de crecimiento y profundización: abrazar plenamente el espíritu de la Legión, sólida vida interior, evitar incluso los pequeños defectos, ser ejemplares en la virtud y en la vivencia de las *Constituciones* y normas (cf. *CLC*, 93); si hubiera evidente falta habitual de compromiso y responsabilidad, los superiores consideren seriamente la admisión. La verificación de la idoneidad debe ser ante todo una constatación positiva, no el cumplimiento de requisitos mínimos o la simple ausencia de impedimentos: siendo la Legión un instituto clerical (cf. *CLC*, 1), la admisión a la profesión perpetua no puede darse si persistieran dudas sobre la aptitud para el sacerdocio.
+
+Así como es grande la responsabilidad de los superiores que presentan a la Iglesia a los candidatos, es importante tomar conciencia de la propia responsabilidad al «presentarse» cada uno a los superiores: es cada religioso quien se evalúa, se examina delante de Dios y emite su propio juicio, que luego deposita en manos de sus superiores. Después de la profesión perpetua, la salida de la Congregación no debería pedirse sino por causas gravísimas consideradas ante Dios (cf. *CIC*, c. 691 § 1). El sí dado a Cristo hay que renovarlo todos los días: con santo temor hay que reconocer que el libre albedrío abre la posibilidad de un camino de enfriamiento que cambie la respuesta de un sí a un no; a ese proceso no es lícito llamarlo discernimiento vocacional.

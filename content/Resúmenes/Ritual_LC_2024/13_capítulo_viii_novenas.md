@@ -5,87 +5,48 @@ fuente: Ritual_LC_2024
 capítulo: 13
 timestamp: 2026-08-24
 description: "Resumen de 'CAPÍTULO VIII NOVENAS' — Ritual_LC_2024"
-tags: ["resumen", "ritual lc 2024"]
+tags: ["resumen", "ritual lc 2024", "piedad popular"]
 ---
 
 # CAPÍTULO VIII NOVENAS
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[novena]] — preces de las seis novenas de la Congregación
+- [[san_josé]] — novena de san José (A)
+- [[pentecostés]] — novena de Pentecostés (B), con los dones del Espíritu Santo
+- [[espíritu_santo]] — tema de la novena de Pentecostés
+- [[sagrado_corazón_de_jesús]] — novena del Sagrado Corazón (C)
+- [[virgen_de_los_dolores]] — novena de la Virgen de los Dolores (D)
+- [[cristo_rey]] — novena de Cristo Rey (E)
+- [[navidad]] — novena de Navidad (F), con las antífonas O
+- [[don_de_ciencia]], [[don_de_entendimiento]], [[don_de_consejo]], [[don_de_fortaleza]] — dones pedidos en la novena de Pentecostés
+- [[don_de_temor_de_dios]], [[don_de_piedad]], [[don_de_sabiduría]] — dones pedidos en la novena de Pentecostés
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `13_cap8_novenas.md`
+### CAPÍTULO VIII NOVENAS
 
+Norma común: cuando una solemnidad recae después de Semana Santa o el día indicado no se celebra lo previsto, se adapta u omite la novena correspondiente. La novena suele rezarse al inicio de las oraciones de la noche —si hay adoración, después de haber expuesto el Santísimo—, salvo que sea preferible otro momento en que pueda reunirse la comunidad. Quien dirige lo puede hacer desde su lugar en la capilla; la lectura la puede hacer el director u otro miembro designado. El noveno día, si no se rezan estas preces antes de las primeras vísperas, se omiten.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**A. NOVENA DE SAN JOSÉ.** El día 10 de marzo —o nueve días antes de la solemnidad de san José cuando esta no se celebre el 19 de marzo— inicia la novena; si san José se celebra después de la Semana Santa, se omite. *Salmo invitatorio* (Sal 100): «A Cristo, Hijo de Dios, que quiso ser tenido por hijo de José, venid, adoremos». *Lecturas* (10-18 de marzo): Lc 1,26-27 (anunciación a María, desposada con José, de la casa de David); Mt 1,20-21 (el ángel a José: «no temas acoger a María... Dará a luz un hijo y tú le pondrás por nombre Jesús»); Lc 2,4-5 (subida a Belén); Lc 2,15-16 (los pastores encuentran a María, a José y al niño en el pesebre); Mt 2,13-14 (huida a Egipto); Mt 2,19-21 (regreso a Israel tras la muerte de Herodes); Lc 2,27-28.33 (Simeón toma al niño en brazos); Lc 2,48-49 («¿No sabíais que yo debía estar en las cosas de mi Padre?»); Lc 3,23 («se pensaba que era hijo de José»). *Versículo* (cf. LH, Solemnidad de san José, Hora tercia): Gén 39,4: «Lo nombró administrador de su casa. Y señor de todas sus posesiones». *Oración* (cf. MR, Solemnidad de san José, Oración colecta): «Concédenos, Dios todopoderoso, que tu Iglesia conserve siempre y lleve a su plenitud los primeros misterios de la salvación humana que confiaste a la fiel custodia de san José».
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | CAPÍTULO VIII NOVENAS |
-| 4 | H2 | A. NOVENA DE SAN JOSÉ |
-| 66 | H3 | Lectura |
-| 78 | H3 | Sábado de la semana anterior |
-| 80 | H3 | Lectura |
-| 97 | H3 | Domingo anterior |
-| 128 | H3 | Lectura |
-| 145 | H3 | Lectura |
-| 159 | H3 | Lectura |
-| 175 | H3 | Lectura |
-| 192 | H3 | Lectura |
+**B. NOVENA DE PENTECOSTÉS.** Inicia el viernes de la VI semana de Pascua. *Salmo invitatorio* (Sal 95,1-7): «Aleluya. El Espíritu del Señor llenó toda la tierra». *Lectura* (Hch 2,1-2): la venida del Espíritu en Pentecostés. *Versículo* (cf. MR, Solemnidad de Pentecostés, Antífona de entrada): Sab 1,7: «El Espíritu del Señor llenó la tierra. Aleluya. Y todo lo abarca, y conoce cada sonido». *Oración* (basada en una compuesta por el Card. Jean Verdier, 1864-1940): «Oh, Espíritu Santo, inspírame lo que debo pensar, lo que debo decir, lo que debo callar, lo que debo escribir, lo que debo hacer, cómo debo obrar para procurar el bien de los hombres, el cumplimiento de mi misión y el triunfo del reino de Cristo». Cada día pide un don del Espíritu:
 
+- *Viernes anterior* — oración del don de la piedad (cf. Juan Pablo II, Catequesis del 11 de junio de 1989): «concédeme el don de temor de Dios, mi Padre...» (nota: en el texto se cruza con el temor de Dios). Lectura previa confirmada.
+- *Sábado* — Is 11,1-3 (el espíritu del Señor sobre el renuevo de Jesé); *Oración* (cf. Juan Pablo II, Catequesis del 28 de mayo de 1989): «concédeme el don de temor de Dios, mi Padre, para que, poniéndome ante Él con un corazón contrito y humillado, no le disguste en nada».
+- *Domingo* — Gal 4,6-7 (el Espíritu del Hijo que clama «¡Abba, Padre!», herederos); *Oración* (cf. Juan Pablo II, Catequesis del 11 de junio de 1989): «concédeme el don de piedad que, sanando mi corazón de todo tipo de dureza, me abra a la ternura para con Dios y para con mis hermanos».
+- *Lunes* — 1 Cor 2,15-16 (el hombre espiritual juzga todas las cosas; «tenemos la mente de Cristo»); *Oración* (cf. Juan Pablo II, Catequesis del 23 de abril de 1989): «concédeme el don de ciencia para que, conociendo el verdadero valor de las criaturas en su relación con el Creador, ponga solo en Dios el fin de mi propia vida».
+- *Martes* — Ef 6,10-11 (las armas de Dios contra las asechanzas del diablo); *Oración* (cf. Juan Pablo II, Catequesis del 14 de mayo de 1989): «concédeme el don de fortaleza para perseverar fielmente en la voluntad del Padre y resistir las instigaciones del enemigo de mi alma».
+- *Miércoles* — Flp 1,9-11 (amor creciente en penetración y sensibilidad para apreciar los valores); *Oración* (cf. Juan Pablo II, Catequesis del 7 de mayo de 1989): «concédeme el don de consejo para que, penetrando en el verdadero sentido de los valores evangélicos, sepa discernir en todo momento lo que debo hacer según la voluntad del Padre».
+- *Jueves* — Lc 24,44-45 (las Escrituras se cumplen en Cristo; les abrió el entendimiento); *Oración* (cf. Juan Pablo II, Catequesis del 16 de abril de 1989): «concédeme el don de entendimiento para que, escrutando las profundidades de Dios, abra mi corazón a su designio amoroso sobre mi vida y sobre el mundo».
+- *Viernes* — Sab 9,1-4 (pedido de la sabiduría «asistente de tu trono»); *Oración* (cf. Juan Pablo II, Catequesis del 9 de abril de 1989): «concédeme el don de la sabiduría para que, experimentando y saboreando las realidades divinas, valore desde Dios las cosas de este mundo».
+- *Sábado* — Jn 16,12-13 (el Espíritu de la verdad os guiará hasta la verdad plena); *Oración*: «Oh, Espíritu Santo, dulce huésped y consolador de mi alma: ilumina mi entendimiento para conocer la voluntad divina sobre mí; inflama mi corazón para amarla con pasión y da fuerza a mi voluntad para cumplirla con la perfección que tú me pides. Finalmente te pido, oh, Espíritu de amor, que me concedas las gracias necesarias para corresponder fielmente a tus santas inspiraciones».
 
-## Secciones incluidas
+**C. NOVENA DEL SAGRADO CORAZÓN DE JESÚS.** Inicia el miércoles después de la solemnidad de la Santísima Trinidad. *Salmo invitatorio* (Sal 67): «Al Corazón de Cristo, herido de amor por nosotros, venid, adoremos». *Lecturas*: miércoles Is 12,2-3 («sacaréis aguas con gozo de las fuentes de la salvación»); jueves Is 49,14-15 (aunque una madre se olvidara, yo no te olvidaré); viernes Mt 11,28-30 («aprended de mí, que soy manso y humilde de corazón»); sábado Jn 3,16-17 (Dios entregó a su Unigénito); domingo Jn 13,1 (los amó hasta el extremo); lunes Jn 15,13-15 (dar la vida por los amigos; ya no os llamo siervos); martes Jn 19,33-34.36-37 (sangre y agua del costado traspasado); miércoles Jn 20,26-28 («¡Señor mío y Dios mío!»); jueves Ef 3,17-19 (el amor de Cristo que trasciende todo conocimiento). *Versículo* (cf. MI, Apéndice, Invocaciones piadosas, 4): «Corazón de Jesús, ardiente de amor a nosotros: inflama nuestro corazón en el amor a ti». *Oración* (cf. MR, Solemnidad del Sagrado Corazón, Oración colecta, segunda opción): «Oh, Dios, que en el Corazón de tu Hijo, herido por nuestros pecados, te has dignado regalarnos misericordiosamente infinitos tesoros de amor, te pedimos que, al rendirle el homenaje de nuestra piedad, manifestemos también una conveniente reparación».
 
-# A. NOVENA DE SAN JOSÉ
+**D. NOVENA DE LA BIENAVENTURADA VIRGEN MARÍA DE LOS DOLORES.** Inicia el 6 de septiembre. *Himno* (cf. MR, Memoria de la Virgen de los Dolores, Secuencia): el *Stabat Mater dolorosa* («La Madre piadosa estaba junto a la cruz... cuya alma triste y llorosa, traspasada y dolorosa, fiero cuchillo tenía... Oh, dulce fuente de amor, hazme sentir tu dolor... y que por mi Cristo amado mi corazón abrasado más viva en él que conmigo»). *Lecturas* (6-14 de septiembre): Lc 1,29-31.38 (anunciación); Lc 2,34-35 («a ti misma una espada te traspasará el alma»); Mt 2,13-15 (huida a Egipto); Lc 2,48-50 (el niño en las cosas de su Padre); Lc 23,27-31 (hijas de Jerusalén); Jn 19,25-27 («Mujer, ahí tienes a tu hijo»); Mc 15,42-45 (José de Arimatea pide el cuerpo); Jn 19,40-42 (sepultura en el huerto); Lc 2,19 (María conservaba todas estas cosas, meditándolas en su corazón). *Versículo* (cf. LH, Responsorio breve): «Estaba santa María, Reina del cielo y Señora del mundo, junto a la cruz del Señor. Feliz ella que, sin morir, mereció la palma del martirio». *Oración* (cf. MR, Memoria de la Virgen de los Dolores, Oración colecta): «Oh, Dios, junto a tu Hijo elevado en la cruz quisiste que estuviese la Madre dolorosa; concede a tu Iglesia que, asociándose con María a la pasión de Cristo, merezca participar en su resurrección».
 
-[Contenido de esta sección...]
+**E. NOVENA DE CRISTO REY.** Inicia el viernes de la XXXII semana del Tiempo Ordinario. *Salmo invitatorio* (Sal 24,1-2;7-10): «A Jesucristo, Rey de reyes, venid, adoremos». *Lecturas*: viernes 1 Cor 15,25.27-28 (Cristo tiene que reinar... Dios será todo en todos); sábado Dn 7,13-14 (el hijo de hombre recibe poder, honor y reino eterno); domingo Ap 1,4-6 (el príncipe de los reyes de la tierra nos ha hecho reino y sacerdotes); lunes Ap 11,15-16 («El reino del mundo ha pasado a nuestro Señor y a su Cristo»); martes Lc 1,32-33 (reinará sobre la casa de Jacob; cf. 2 Sam 7,12-13); miércoles Sal 45,7-8 (tu trono, oh Dios, permanece para siempre; cf. Heb 1,8-9); jueves Col 1,16-18 (todo fue creado por él y para él; es la cabeza de la Iglesia); viernes Col 1,19-20 (reconciliar todas las cosas por la sangre de su cruz); sábado Is 9,5 («Un niño nos ha nacido... Príncipe de la paz»). *Versículo* (cf. Mt 28,18): «Me ha sido dado todo poder, en el cielo y en la tierra». *Oración* (cf. MR, Solemnidad de Cristo Rey, Oración colecta): «Dios todopoderoso y eterno, que quisiste recapitular todas las cosas en tu Hijo muy amado, Rey del Universo, haz que la creación entera, liberada de la esclavitud, sirva a tu majestad y te glorifique sin fin».
 
-## Lectura
-
-[Contenido de esta sección...]
-
-## Sábado de la semana anterior
-
-[Contenido de esta sección...]
-
-## Lectura
-
-[Contenido de esta sección...]
-
-## Domingo anterior
-
-[Contenido de esta sección...]
-
-## Lectura
-
-[Contenido de esta sección...]
-
-## Lectura
-
-[Contenido de esta sección...]
-
-## Lectura
-
-[Contenido de esta sección...]
-
-## Lectura
-
-[Contenido de esta sección...]
-
-## Lectura
-
-[Contenido de esta sección...]
+**F. NOVENA DE NAVIDAD.** Inicia el 16 de diciembre. *Salmo invitatorio* (Sal 24,1-2;7-10): «Al Rey que ha de venir, venid, adoremos». *Lecturas* (cf. LH, antífona del *Magníficat* de los días respectivos): 16 dic. «Mira, el Rey viene, el Señor de la tierra, y él romperá el yugo de nuestra cautividad»; 17 dic. «Oh, Sabiduría... ven y muéstranos el camino de la salvación»; 18 dic. «Oh, Adonai, Pastor de la casa de Israel... ven a librarnos con el poder de tu brazo»; 19 dic. «Oh, Renuevo del tronco de Jesé... ven a librarnos, no tardes más»; 20 dic. «Oh, Llave de David y Cetro de la casa de Israel... ven y libra a los cautivos»; 21 dic. «Oh, Sol que naces de lo alto... ven ahora a iluminar a los que viven en tinieblas»; 22 dic. «Oh, Rey de las naciones y Deseado de los pueblos, Piedra angular de la Iglesia... ven y salva al hombre»; 23 dic. «Oh, Enmanuel, rey y legislador nuestro... ven a salvarnos»; 24 dic. «Cuando salga el sol, veréis al Rey de reyes, que viene del Padre, como el esposo sale de su cámara nupcial». *Versículo* (cf. Lc 21,28): «Levantaos, alzad la cabeza. Se acerca vuestra liberación». *Oración* (cf. MR, 24 de diciembre, Oración colecta): «Apresúrate, Señor Jesús, y no tardes, para que tu venida consuele y fortalezca a los que lo esperan todo de tu amor».

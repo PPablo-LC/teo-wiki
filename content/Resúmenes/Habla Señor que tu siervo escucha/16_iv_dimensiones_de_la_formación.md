@@ -12,31 +12,10 @@ tags: ["resumen", "habla señor que tu siervo escucha"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[formación_integral]] — desarrollo integrado y armónico de todas las facultades del ser humano
+- [[formación_legionaria]] — formación que la Legión ofrece en el centro vocacional
+- [[centro_vocacional]] — ámbito donde se desarrollan las dimensiones formativas
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `16_iv_dimensiones_de_la_formación.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | IV. Dimensiones de la formación |
-
-
-## Secciones incluidas
-
+La formación integral del alumno implica el desarrollo integrado y armónico de todas las facultades del ser humano y, por tanto, abarca también todas sus dimensiones: humana, espiritual, intelectual y apostólica. En el proceso formativo no se consideran, de ningún modo, como elementos independientes o capítulos sucesivos, pues todas ellas están simultáneamente presentes a lo largo de dicho proceso en armonía y unidad. Por tratarse de la formación de adolescentes, la presentación de la dimensión humana adquiere una relevancia especial.

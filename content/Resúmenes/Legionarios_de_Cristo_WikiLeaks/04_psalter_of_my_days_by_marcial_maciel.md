@@ -12,31 +12,36 @@ tags: ["resumen", "legionarios de cristo wikileaks"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[oración]] — la relación íntima del alma con Dios
+- [[fe]] — la confianza en Dios aún en la oscuridad
+- [[desapego]] — liberación de los afectos terrenos para entregarse a Dios
+- [[abandono_en_dios]] — la entrega confiada en la providencia
+- [[santidad]] — la meta de la vida cristiana
 
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `04_Psalter_of_my_Days_by_Marcial_Maciel.md`
+### Prefacio
 
+El libro se abre con los versos de César Vallejo ("Los heraldos negros": "Hay golpes en la vida tan fuertes... yo no sé!") y otros poemas, presentando el Salterio de mis Días como una obra de oración poética. Los poemas reflejan el anhelo del alma por Dios, la confianza en su providencia y el abandono en sus manos.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### ¡Qué bueno eres, Señor!
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Psalter of my Days, by Marcial Maciel |
+Poema de acción de gracias por la bondad de Dios: "¡Qué bueno eres, Señor, aunque por mi pecado no me abandonas!..." Reconoce la fidelidad de Dios a pesar de la ceguera e indiferencia del hombre. Dios levanta al que tropieza, sale a buscar al descarriado y venda las heridas.
 
+El poema plantea interrogantes sobre la naturaleza de Dios: "¿Eres el Padre que escudriña el horizonte esperando al Hijo Pródigo?..." — afirmando al final: "¡Qué bueno que Tú, Señor, eres todo eso!". Incluye la profesión: "Sé, Señor, que sin Ti nada puedo, pero también sé que contigo lo puedo todo".
 
-## Secciones incluidas
+### II — Salmo de Fe
+
+"Creo, como Job, cuando tu luz se apaga, creo en Ti, Señor. Visto mi fe como armadura contra el choque del mundo". La fe se presenta como protección ante las tribulaciones diarias y nocturnas, confiando en la palabra de Dios: "nada me sucederá sin tu permiso".
+
+### X — Salmo de desapego
+
+"Líbrame, Señor, de mí mismo". El salmo pide el desapego total de las cosas terrenas que impiden la entrega total a Dios, liberándolo de las preocupaciones por el futuro ("porque no es en el lodo de este mundo, sino en Ti, donde quiero poner mi corazón"). No basta la liberación de los afectos externos; el alma aún queda atada a la miseria de su mundo interior. Se desea la santa indiferencia que disuelve el yo en Dios.
+
+Incluye el poema asociado del sueño de la colmena y el sol ardiendo "en lo profundo de mi alma" — símbolos de la presencia de Dios en el alma.
+
+### Cierre
+
+"Conociste la soledad que sentiríamos al seguir tus consejos, contrarios a los caminos del mundo, y por eso bajaste a nuestras vidas para hacer fragante y fecunda nuestra soledad... Nuestro Padre, nuestro hermano, el rincón tranquilo donde descansamos cuando la fiebre del día termina".
 

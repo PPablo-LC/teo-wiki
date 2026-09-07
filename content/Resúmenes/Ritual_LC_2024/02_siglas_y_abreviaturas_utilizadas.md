@@ -12,31 +12,32 @@ tags: ["resumen", "ritual lc 2024"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[código_de_derecho_canónico]] — recogido con la sigla CIC
+- [[constituciones_legionarios_de_cristo]] — recogidas con la sigla CLC
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `02_siglas.md`
+### SIGLAS Y ABREVIATURAS UTILIZADAS
 
+Relación de siglas y abreviatura utilizadas en el Ritual:
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | SIGLAS Y ABREVIATURAS UTILIZADAS |
-
-
-## Secciones incluidas
-
+| Sigla | Documento |
+|-------|-----------|
+| AAS | *Acta Apostolicæ Sedis* |
+| ARCh | Congregación para la Doctrina de la Fe, Instrucción *Ad resurgendum cum Christo* acerca de la sepultura de los difuntos y la conservación de las cenizas en caso de cremación (15 de agosto de 2016) |
+| ASS | *Acta Sanctæ Sedis* |
+| CIC | Código de Derecho Canónico, en latín *Codex Iuris Canonici* (25 de enero de 1983) |
+| CE | Sagrada Congregación para el Culto Divino, *Comunión y culto eucarístico fuera de la misa* (21 de junio de 1973) |
+| CLC | Constituciones de la Congregación de los Legionarios de Cristo (15 de octubre de 2020) |
+| CO | Congregación para el Culto Divino, Decreto *Ceremonial de los Obispos* (14 de septiembre de 1984) |
+| CR | Sagrada Congregación de Ritos, *Calendarium Romanum* (21 de marzo de 1969) |
+| LH | Sagrada Congregación para el Culto Divino, *Liturgia Horarum* (2 de febrero de 1971) |
+| MartR | Congregación para el Culto Divino y la Disciplina de los Sacramentos, *Martirologio Romano* (29 de junio de 2001) |
+| MI | Penitenciaría Apostólica, *Manual de Indulgencias* (16 de julio de 1999) |
+| MR | Congregación para el Culto Divino y la Disciplina de los Sacramentos, *Misal Romano* (20 de abril de 2000³) |
+| Notitiæ | Sagrada Congregación para el Culto Divino, *Documentorum Explanatio* (*Notitiæ*) |
+| PDV | Juan Pablo II, Exhortación apostólica postsinodal *Pastores dabo vobis* (25 de marzo de 1992) |
+| RE | Congregación para el Culto Divino, *Ritual de exequias* (15 de junio de 1969) |
+| RBN | Sagrada Congregación para el Culto Divino, *Ritual del bautismo de niños*, Edición de España (15 de mayo de 1969) |
+| RPR | Sagrada Congregación para el Culto Divino, *Ritual de la profesión religiosa* (2 de febrero de 1970) |
+| SCCE | Sagrada Congregación para el Culto Divino, *Ritual de la sagrada comunión y culto eucarístico fuera de la misa* (21 de junio de 1973) |

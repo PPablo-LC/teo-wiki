@@ -12,99 +12,69 @@ tags: ["resumen", "ratio institutionis-christus vita vestra"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[formación_inicial]] — reglamentos, proyectos de formación integral y etapas
+- [[formación_permanente]] — programas de formación en los territorios y renovación espiritual
+- [[profesión_religiosa]] — duración de los votos temporales y procesos de admisión
+- [[discernimiento_vocacional]] — escrutinios y entrevistas de admisión
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `15_normas.md`
+### Normas
 
+#### A. Normas para los superiores y formadores
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+El **director general**: supervisa la formación en los territorios y verifica que se realice conforme a esta *Ratio* y a los capítulos generales; cuida que los reglamentos y proyectos de formación integral de las casas de formación sean convergentes para la progresión armónica de etapa en etapa; impulsa el plan institucional de formación de formadores; vela por los programas de formación permanente en los territorios; y ofrece la renovación espiritual a los sacerdotes, aprobando el reglamento, nombrando a los directores y velando por su capacitación.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Normas |
-| 3 | H3 | A. Normas para los superiores y formadores |
-| 91 | H3 | B. Normas generales para la formación inicial |
-| 135 | H4 | Normas para los procesos de admisión^[618](nota: Cf. *DVP* , 204: «Se  |
-| 155 | H3 | C. Normas específicas para las etapas de formación inicial |
-| 157 | H4 | Normas para la etapa previa al noviciado |
-| 187 | H4 | Normas para el noviciado |
-| 231 | H4 | Normas para la etapa de humanidades |
-| 237 | H4 | Normas para la etapa de filosofía |
-| 243 | H4 | Normas para las prácticas apostólicas |
-| 259 | H4 | Normas para la etapa de teología |
-| 275 | H3 | D. Normas para la formación permanente |
-| 277 | H4 | Normas para los primeros años de sacerdocio |
-| 289 | H4 | Normas generales para los sacerdotes |
+El **director territorial** (puede delegar lo que no requiera el parecer o consentimiento de su Consejo): nombra a los rectores de las casas de formación e instructores de novicios (con previa aprobación del director general), a los superiores de casas de apostolado y consejeros; nombra, a tenor de las *Normas complementarias*, a vicerrectores (con previa aprobación del director general), asistentes, directores espirituales, prefectos de estudios, confesores, profesores, secretarios y administradores (cf. *NC*, 54); supervisa, dirige y acompaña a los superiores y vela para que no se ocupen en tareas que les impidan su deber; impulsa la formación de superiores y directores espirituales; se mantiene cercano a las comunidades y miembros mediante la visita canónica (cf. *CLC*, 185-186); impulsa la aplicación de la *Ratio*; aprueba el reglamento y el proyecto de formación integral de cada comunidad de formación inicial y vela por su aplicación; impulsa un proyecto de formación permanente para el territorio; atiende en diálogo al menos una vez al año a cada sacerdote (cf. *NC*, 32 § 3); vela por la atención a los sacerdotes más jóvenes y asigna mentor a quienes inician el ministerio; se preocupa por los hermanos en prácticas apostólicas asignándoles mentor; entrevista a novicios y religiosos para la admisión a la profesión o renovación de votos, y presenta al director general a quienes piden la profesión perpetua o las órdenes; nombra al director del candidatado y directores vocacionales; nombra un encargado de ambientes seguros; e informa periódicamente al director general.
 
+El **rector de la casa de formación** y el **superior de la casa de apostolado**: velan por la aplicación del reglamento; elaboran y aplican con el equipo de formadores el proyecto de formación integral (o proyecto comunitario, en la casa de apostolado) proponiendo mejoras; elaboran los informes personales con su juicio sobre la idoneidad para las admisiones, y el informe para la continuidad del acompañamiento al cambiar un miembro de comunidad; dedican especial atención al equipo de formadores; atienden regularmente en diálogo personal a los miembros; velan para que cada hermano acuda con frecuencia a un director espiritual designado, dando su consentimiento si propone otro sacerdote legionario (cf. *CLC*, 59, 2.º); establecen el calendario de la comunidad; nombran un sacerdote como encargado de liturgia o prefecto de capilla (cf. *GL*, 24-26); encargan a un sacerdote la formación apostólica en las comunidades de formación inicial; y elaboran un informe periódico al director territorial (los rectores de las casas de formación envían copia al director general).
 
-## Secciones incluidas
+Los **asistentes** son sacerdotes nombrados por el director territorial por tres años: acompañan personalmente a cada religioso y dirigen su grupo, trabajando en estrecha comunicación y dependencia con el rector; atienden en diálogo a los religiosos de su grupo con la periodicidad establecida; fomentan el espíritu de familia, propician la integración y colaboran en las necesidades generales de la casa. Los **directores espirituales** de las casas de formación son nombrados por tres años; cuando dedican prevalentemente su tiempo a este ministerio forman parte ordinariamente del equipo de formadores, y participan en algunas reuniones de programación y evaluación. Al **prefecto de estudios** compete organizar el acompañamiento personal en la dimensión intelectual y realizar una evaluación anual de los objetivos alcanzados.
 
-# Normas
+#### B. Normas generales para la formación inicial
 
-[Contenido de esta sección...]
+Cada comunidad de formación inicial se rige por un **reglamento propio** aprobado por el director territorial: disciplina, horarios ordinarios y aplicaciones normativas para la vida fraterna, el uso de los medios, la pobreza, el trato con la familia, sin multiplicar las normas sin necesidad (cf. *CIC*, c. 587 § 3). Cada comunidad cuenta además con un **proyecto de formación integral** o itinerario formativo (cf. *DVP*, 10): plan bienal (noviciado y humanidades de dos años), trienal (teología) o cuatrienal (un año de humanidades más tres de filosofía), elaborado por el rector con el equipo de formadores y el Consejo, aprobado por el director territorial, que incluya la periodicidad y modalidades de las actividades formativas. Para la atención personalizada, las comunidades se organizan en **grupos** encomendados a un asistente, núcleo de referencia constante, que pueden dividirse en equipos; un grupo ordinariamente no rebasa los treinta hermanos.
 
-## A. Normas para los superiores y formadores
+El **diálogo con los formadores** (cf. *DVP*, 45-46) tiene especial importancia: los religiosos acudan cada quince días durante el primer año de vida religiosa; al menos cada mes durante el resto de la formación inicial; si el diálogo habitual es con el asistente, acudan al rector al menos cada tres meses (cada dos meses en humanidades). Sobre las **prácticas de vida espiritual** (cf. *CLC*, 53) se especifica: el reglamento fija los horarios ordinarios (ofrecimiento de obras, oración mental, misa, oraciones e himno a mediodía, oraciones de la noche); durante el noviciado, humanidades y filosofía se hace examen de conciencia diario a mediodía y en las oraciones de la noche, se tienen quince minutos diarios de lectura o plática espiritual, cada viernes se reza el vía crucis, y durante una visita eucarística se rezan en comunidad las letanías o invocaciones a Jesucristo; desde las prácticas apostólicas se rigen por el reglamento de las casas de apostolado, manteniendo la lectura espiritual diaria. La renovación de votos por devoción se hace el 2 de febrero y el 15 de septiembre, precedida de un retiro de un día completo, un triduo u otra actividad equivalente. Al terminar cada año académico, el religioso hace una **autoevaluación** de su formación integral y la dialoga con sus formadores (los procesos de admisión la suplen). El superior facilita acceso a **ayuda psicológica** al religioso que lo pida, con selección cuidadosa y prudente (cf. *DVP*, 192); cuando la propone el superior, el interesado da su consentimiento previo, explícito, informado y libre, y solo con su consentimiento escrito dicha información puede pasar al expediente. Los religiosos reciben formación en **protección de menores y ambientes seguros**, conociendo y aceptando el *Código de conducta* del territorio. Los superiores velan para que la carga de trabajo de mantenimiento y logística de la casa no menoscabe la formación integral.
 
-[Contenido de esta sección...]
+##### Normas para los procesos de admisión
 
-## B. Normas generales para la formación inicial
+La **duración de los votos temporales** se armoniza con las etapas: todos los novicios emiten la profesión por dos años, a menos que pasen directamente a filosofía (entonces tres años); quienes hacen dos años de humanidades renuevan por tres años (coincidentes con la filosofía); antes de las prácticas apostólicas se renuevan por cuatro años. De modo extraordinario puede ser otra duración, sin que el total supere los nueve años (cf. *CIC*, c. 657 § 2). El proceso de admisión a la **profesión perpetua** se realiza ordinariamente tras las prácticas, después de al menos un año en la casa de formación y los ejercicios de mes (cf. *CCG2014*, 149). El rector da a conocer al inicio del curso el calendario institucional para las admisiones. La **solicitud de admisión** es una carta con firma manuscrita que manifiesta la petición libre y consciente con sus motivos; se entrega al superior inmediato, quien con su informe y juicio sobre la idoneidad, habiendo escuchado a su Consejo, la entrega al superior mayor. El **informe** es responsabilidad del superior, puede ayudarse del asistente, prefecto de estudios o el mismo religioso; lleva firma manuscrita, sigue el formulario previsto y el superior hace de su contenido tema de diálogo con el religioso.
 
-[Contenido de esta sección...]
+#### C. Normas específicas para las etapas de formación inicial
 
-### Normas para los procesos de admisión^[618](nota: Cf. *DVP* , 204: «Se denomina “escrutinio” al acto de discernimiento de la idoneidad de un candidato [...] Estos escrutinios no constituyen actos burocráticos y meramente formales, en los que se emplean fórmulas protocolarias y genéricas; más bien implican el reconocimiento oficial de la vocación de una persona concreta y de su desarrollo por parte de quienes son designados para ello, por encargo y a nombre de la Iglesia. Los escrutinios tienen como finalidad verificar las cualidades y condiciones personales de un candidato en cada uno de los momentos referidos del itinerario formativo. Por tanto, deben ser redactados por escrito y contener una evaluación bien argumentada, positiva o negativa, respecto al camino recorrido hasta ese momento».)^
+##### Normas para la etapa previa al noviciado
 
-[Contenido de esta sección...]
+El director territorial aprueba el reglamento del candidatado y define su duración ordinaria, no menor a dos meses, y la modalidad de candidatado de los alumnos del centro vocacional. A los candidatos se les propone antes del noviciado un **examen psicológico**; con consentimiento previo dado por escrito (del candidato, o de los padres si es menor), el resultado se envía al director territorial, a quien compete la admisión; si es admitido, una copia pasa al instructor y al expediente. Requisitos para ser admitido al candidatado: ser presentado por un legionario; haber tenido acompañamiento vocacional previo suficiente; conocimiento de la familia y del ambiente por algún legionario; petición escrita con la documentación requerida; y estar dispuesto a vivir el reglamento. El director vocacional presenta a aprobación del director territorial un plan de pastoral y promoción vocacional. El **director del candidatado** (nombrado por el director territorial con su Consejo) admite a los jóvenes, elabora y dirige el programa y emite su juicio final sobre la admisión al noviciado, y vela por el acompañamiento de quienes no son admitidos pero podrían resultar aptos con mejor preparación. Al concluir, el director del candidatado y el instructor entrevistan a cada candidato y presentan su parecer al director territorial. El director territorial (personalmente o por delegado) entrevista a cada candidato para conocer su personalidad, verificar la madurez, intención e inclinación a la vida en la Legión y asegurarse de la ausencia de impedimentos (cf. *CLC*, 67); atento a los requisitos de las *Constituciones* (cf. *CLC*, 66), tras escuchar a su Consejo, admite al noviciado a los que considera idóneos (cf. *CLC*, 68).
 
-## C. Normas específicas para las etapas de formación inicial
+##### Normas para el noviciado
 
-[Contenido de esta sección...]
+El noviciado es una comunidad formativa en la que los novicios no hacen vida común habitual con legionarios de otras etapas, excepto sus formadores (sin excluir momentos ocasionales de convivencia). El instructor cuenta al menos con otro legionario que le apoye para las funciones de asistente y prefecto de estudios (que en algún caso puede asumir el mismo instructor). Los novicios tienen la dirección espiritual con el instructor (cf. *CLC*, 59, 1.º) y orientación complementaria con el asistente cada dos o tres semanas sobre formación humana y apostólica. Prácticas espirituales adicionales: oración vespertina diaria de media hora en comunidad; media hora de adoración al Santísimo Sacramento solemnemente expuesto (por turnos, de ser posible); hora eucarística a la medianoche de la víspera de los viernes primero de mes (prolongada por turnos por la noche); retiro espiritual mensual de día completo. Sobre internet y correo, se propone a los novicios la experiencia de «desierto»: renunciar por convicción personal a las redes sociales y usar internet solo lo imprescindible según el reglamento. Trato con la familia: visita de tres días a partir del noveno mes; visita de tres o cuatro días al inicio del segundo año (los de otra zona geográfica pueden recibir, en cambio, una visita más larga de su familia, cf. *NC*, 27 § 1); visitas con ocasión de acontecimientos familiares extraordinarios a juicio del instructor; llamadas a casa una vez cada dos meses. Se presenta una explicación detallada de las *Constituciones*, y una introducción a los *Estatutos de la Federación Regnum Christi* y a los *Estatutos del ECYD*. Ordinariamente hay un tiempo diario de ejercicio o deporte en comunidad y paseo al campo cada quince días. Cada año se dedica un mes al trabajo físico o al servicio de los necesitados. A su llegada, cada novicio revisa con un formador sus pertenencias y entrega las no estrictamente necesarias (que le serán devueltas si deja el noviciado); se cambian de celda o habitación varias veces al año como desprendimiento. La comunidad de noviciado debe contar con un mínimo de seis novicios; si no se alcanza, el director territorial puede proponer al director general el traslado a otro noviciado, pudiéndose instituir un candidatado de mayor duración en el país. En esta etapa prima la búsqueda de las condiciones más favorables para el discernimiento: ordinariamente se hace el noviciado en el territorio de origen (cf. *PoI*, 47); cuando no existe, el director territorial propone la asignación; el director general puede destinar a los noviciados más pequeños algunos novicios de otros territorios, si se manifiestan disponibles y tienen perfil adecuado, teniendo en cuenta la situación familiar.
 
-### Normas para la etapa previa al noviciado
+##### Normas para la etapa de humanidades
 
-[Contenido de esta sección...]
+Dos modalidades: programa de dos años, o programa de un año formando ya parte de una comunidad de filosofía. A propuesta del director territorial, el director general puede dispensar de cursar los estudios de humanidades.
 
-### Normas para el noviciado
+##### Normas para la etapa de filosofía
 
-[Contenido de esta sección...]
+El prefecto general de estudios vela por la armonía y complementariedad entre humanidades y filosofía. Durante el tercer año de filosofía, el religioso hace con sus formadores una evaluación personal de su formación apostólica y elabora un plan de formación de habilidades; el rector, tras consultar sus inclinaciones, propone al director general la asignación de la misión para las prácticas.
 
-### Normas para la etapa de humanidades
+##### Normas para las prácticas apostólicas
 
-[Contenido de esta sección...]
+A propuesta del director territorial, el director general define a qué comunidades y ámbitos se asignan los religiosos: comunidades bien constituidas con un superior capaz de acompañar y con dos o más religiosos en prácticas (si es posible); trabajo apostólico con contacto directo con las personas, responsabilidad real pero adecuada a su edad —ordinariamente no la última sobre una obra—, acompañados por un mentor, con trabajo en equipo y sin vivir la mayor parte del tiempo fuera de la comunidad. La duración es de dos o tres años; el tercero lo aprueba el director general con su Consejo, a propuesta del director territorial (cf. *CCG2014*, 149). El director territorial, habiendo escuchado al rector de filosofía, asigna comunidad y trabajo apostólico, y puede cambiar la asignación posteriormente. Asigna un mentor a cada hermano, vela por una adecuada introducción y organiza encuentros formativos para religiosos en prácticas. El superior de comunidad busca conocer sus expectativas, ayuda a fijar objetivos de formación integral, atiende en diálogo personal cada mes y colabora en la evaluación anual.
 
-### Normas para la etapa de filosofía
+##### Normas para la etapa de teología
 
-[Contenido de esta sección...]
+Hacia el final de las prácticas, el religioso propone comenzar la teología o estudiar una licencia en filosofía, indicando sus motivos; compete al director general aprobarlo. Los de licencia en filosofía se integran en una comunidad de teología. Ordinariamente el ministerio del **lectorado** se recibe hacia el final del primer año de teología y el del **acolitado** durante el segundo, según el calendario; además del intersticio de seis meses entre el acolitado y el diaconado (cf. *CIC*, c. 1035 § 2), se observe un intersticio de al menos seis meses entre el lectorado y el acolitado. Durante el tercer año de teología el rector consulta al religioso sobre sus inclinaciones frente al primer destino apostólico y ofrece su juicio al director general (adscripción a territorio o inicio de licencia); el director territorial asigna la comunidad y el trabajo apostólico. Se respetan los tiempos canónicos entre diaconado y presbiterado: al menos seis meses (cf. *DVP*, 76; *CIC*, c. 1031 § 1 y 1032 § 2).
 
-### Normas para las prácticas apostólicas
+#### D. Normas para la formación permanente
 
-[Contenido de esta sección...]
+##### Normas para los primeros años de sacerdocio
 
-### Normas para la etapa de teología
+Procúrese asignar al recién ordenado un ministerio y una comunidad que le permitan una experiencia ministerial positiva. Al llegar a su primer destino, el director territorial le asigna un **mentor** que lo introduce y acompaña en su nueva misión. Durante los primeros tres años desde la ordenación diaconal, al final de cada año se hace una autoevaluación escrita, materia de diálogo con el superior. Ordinariamente todo legionario obtiene un **grado de licencia**; quien no la hizo antes, la cursará al terminar el bachillerato en teología o después de tres, seis o como máximo nueve años de ministerio, ordinariamente en una comunidad de sacerdotes estudiantes.
 
-[Contenido de esta sección...]
+##### Normas generales para los sacerdotes
 
-## D. Normas para la formación permanente
+Los sacerdotes acuden algunas veces al año a diálogo personal con su superior y al menos una vez al año con el director territorial (cf. *NC*, 32 § 3); se recomienda la práctica de la **autoevaluación anual** como materia de ese diálogo. Al concluir el periodo de un encargo, el superior, después de hablar con el interesado, indica al director territorial si hay razón en favor o en contra de la renovación. Al cambiar de comunidad, el superior elabora un informe para la continuidad del acompañamiento. Para su **renovación espiritual**, la Legión propone un periodo dedicado exclusivamente a esta finalidad en una comunidad constituida para ello, bajo la guía de un director: modalidad breve, de alrededor de dos meses, y otra más prolongada, de alrededor de un semestre.
 
-[Contenido de esta sección...]
-
-### Normas para los primeros años de sacerdocio
-
-[Contenido de esta sección...]
-
-### Normas generales para los sacerdotes
-
-[Contenido de esta sección...]
+*Per Regnum Christi ad Gloriam Dei*

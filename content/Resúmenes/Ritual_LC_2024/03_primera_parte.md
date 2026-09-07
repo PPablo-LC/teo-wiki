@@ -8,35 +8,14 @@ description: "Resumen de 'Primera parte' — Ritual_LC_2024"
 tags: ["resumen", "ritual lc 2024"]
 ---
 
-# Primera parte
+# PRIMERA PARTE. DIVERSOS RITOS EN LA VIDA DEL LEGIONARIO
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[vida_religiosa]] — marco general de los ritos de la Primera parte
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `03_parte1.md`
+### Primera parte. Diversos ritos en la vida del legionario
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Primera parte |
-
-
-## Secciones incluidas
-
+La Primera parte del Ritual recoge los ritos propios de la [[vida_religiosa]] del legionario: entrega del hábito (cap. I), profesiones religiosas (cap. II), profesión de fe y juramento de fidelidad (cap. III) y exequias (cap. IV).

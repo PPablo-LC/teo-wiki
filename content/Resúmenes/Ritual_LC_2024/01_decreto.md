@@ -12,35 +12,17 @@ tags: ["resumen", "ritual lc 2024"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+Documento normativo (decreto de aprobación); no desarrolla conceptos teológicos.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `01_decreto.md`
+### DECRETO
 
+Decreto del Director general de la Congregación de los Legionarios de Cristo (DG-LC 3432-2024, Clas. I.3.23) por el que se aprueba la segunda edición del Ritual de la Congregación.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### APRUEBO
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | DECRETO |
-| 19 | H2 | APRUEBO |
-
-
-## Secciones incluidas
-
-# APRUEBO
-
-[Contenido de esta sección...]
+- Vista la recomendación § 3. 6.º del *Comunicado Capitular de 2020*; tras haber realizado las oportunas consultas; con el consentimiento del Consejo General, se aprueba la segunda edición del Ritual de la Congregación de los Legionarios de Cristo.
+- Entrada en vigor: 24 de noviembre de 2024, Solemnidad de Cristo Rey.
+- Dado en Roma, el 22 de octubre de 2024, Memoria de san Juan Pablo II.
+- Firmado por P. John Connor, L.C. (director general) y P. Luis Alberto Henao, L.C. (secretario general).

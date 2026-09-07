@@ -12,34 +12,16 @@ tags: ["resumen", "habla señor que tu siervo escucha"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[formación]] — los formadores de los centros vocacionales reciben este plan general
+- [[promoción_vocacional]] — los equipos de promoción vocacional son destinatarios del documento
+- [[familia]] — las familias de los alumnos, primeros responsables de la formación de sus hijos
+- [[regnum_christi]] — Movimiento del que forma parte el centro vocacional
+- [[centro_vocacional]] — realidad fundamental de la Legión de Cristo
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `05_destinatarios.md`
+### Destinatarios
 
+4. El plan general de formación está dirigido principalmente a los formadores de los centros vocacionales, a las familias de los alumnos —que son los primeros responsables de la formación de sus hijos— y a los equipos de promoción vocacional.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Destinatarios |
-
-
-## Secciones incluidas
-
-# Destinatarios
-
-[Contenido de esta sección...]
+5. El centro vocacional es una realidad fundamental dentro de la Legión de Cristo, que a su vez forma parte del Movimiento Regnum Christi. Por lo tanto, es necesario que este documento sea conocido por todos los legionarios, especialmente por quienes trabajan con adolescentes y con familias. Es conveniente que sea conocido también por los miembros del Regnum Christi.

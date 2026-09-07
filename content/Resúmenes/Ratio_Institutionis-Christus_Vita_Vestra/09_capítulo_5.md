@@ -12,109 +12,105 @@ tags: ["resumen", "ratio institutionis-christus vita vestra"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[vida_religiosa]] — contexto en que se realiza la formación, en comunión con la Iglesia
+- [[autoformación]] — responsabilidad del legionario en su propia formación bajo la primacía de la gracia
+- [[discernimiento_vocacional]] — búsqueda de la voluntad de Dios como centro de la autoformación
+- [[formación_inicial]] — marco en que actúan los agentes y mediaciones de la formación
+- [[formación_permanente]] — compromiso continuo de todo formador y de todos los miembros
+- [[formación_integral]] — objeto del acompañamiento personal y del diálogo periódico
+- [[dirección_espiritual]] — guía del área espiritual, corazón de toda la formación
+- [[carisma_legionario]] — reflejado en el ambiente, los reglamentos y las tradiciones de las casas
+- [[obediencia_religiosa]] — actitud del legionario ante formadores y superiores como mediaciones de Dios
+- [[comunidad]] — ambiente en que se lleva a cabo la formación inicial y permanente
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `09_capítulo_5_agentes_y_mediaciones.md`
+### Capítulo 5. Agentes y mediaciones
 
+*A sus ángeles ha dado órdenes para que te guarden en tus caminos (Sal 91,11)*
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+El legionario no está solo en su camino. Dios, que le dice: *Yo estoy contigo* (Éx 3,12), es el mismo que obra como autor principal al santificar a sus elegidos (cf. Rom 8,30). Lo hace a través de las mediaciones que Él mismo ha instituido, principalmente los formadores, pero también la comunidad, los reglamentos y tradiciones que conforman el estilo de vida y reflejan el carisma. Con su ayuda, el legionario se esfuerza por desentrañar el sentido de los acontecimientos de su vida, en los que se deja interpelar por Dios.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Capítulo 5. |
-| 10 | H3 | A. Dios, formador por excelencia |
-| 24 | H3 | B. El legionario, responsable de su propia formación→620 |
-| 52 | H3 | C. La Iglesia, Madre y Maestra |
-| 66 | H3 | D. La Virgen María, modelo y formadora de almas consagradas |
-| 76 | H3 | E. Los formadores |
-| 78 | H5 | Perfil del formador |
-| 94 | H5 | La tarea formativa y el acompañamiento personal |
-| 108 | H5 | Cualidades de la relación formativa |
-| 122 | H4 | 1. Los superiores mayores |
-| 140 | H4 | 2. Los rectores, los instructores de novicios y los asistentes en la c |
-| 154 | H5 | a. El instructor de novicios y sus asistentes |
-| 164 | H5 | b. El rector de la casa de formación |
-| 174 | H5 | c. Los asistentes del rector |
-| 180 | H4 | 3. El superior de la casa de apostolado |
-| 194 | H4 | 4. Los profesores y el prefecto de estudios |
-| 218 | H5 | El prefecto de estudios en las casas de formación |
-| 228 | H4 | 5. El director espiritual→548-554 |
-| 254 | H4 | 6. Los confesores |
-| 262 | H3 | F. La comunidad |
-| 278 | H3 | G. El ambiente formativo de las casas |
-| 284 | H5 | La casa de formación |
-| 292 | H5 | Silencio |
-| 304 | H5 | Estilo de las casas |
+#### A. Dios, formador por excelencia
 
+«Dios Padre, en el don continuo de Cristo y del Espíritu, es el formador por excelencia de quien se consagra a Él» (cf. *VC*, 66). Puesto que la iniciativa en la consagración está en la llamada de Dios, Él es el primer y principal agente de la formación del religioso: «actúa a través de su palabra y de los sacramentos, de la oración y la liturgia, del magisterio de la Iglesia y, en forma más inmediata, a través de aquellos que han sido llamados por la obediencia a secundar de modo especial la formación de sus hermanos» (cf. *ElEs*, 47). Solamente Él, el Santo, puede santificar; Él comunica la gracia, los dones y las virtudes que transforman el corazón humano y lo asemejan al Corazón del Hijo. *Tus manos me hicieron y me formaron* (Sal 119,3): las «manos» de Dios son el Hijo y el Espíritu Santo (cf. San Ireneo, *Contra las herejías*, V, 28, 4). El Hijo, haciéndose hombre, es modelo concreto y camino de nuestra vida; el Espíritu Santo, como artífice divino, reproduce los rasgos del Hijo de forma profundamente original en cada legionario. Dios, Señor de la historia, nos acompaña; por ello el continuo «hacer memoria» para reconocer en nuestra historia personal la presencia de Dios es determinante en toda etapa formativa: al descubrir cómo nos acompañó en el pasado, aprendemos a descubrir cómo actúa en el hoy de nuestra vida.
 
-## Secciones incluidas
+#### B. El legionario, responsable de su propia formación
 
-# Capítulo 5.
+*Es Dios quien activa en vosotros el querer y el obrar* (Flp 2,13). La gracia precede y acompaña nuestra acción, pero Dios no quiere llevar nada a plenitud sin nuestra libre, generosa, madura y responsable colaboración; a este principio de primacía de la gracia y de responsabilidad personal lo llamamos [[autoformación]] (cf. *CLC*, 55). Implica ante todo la búsqueda activa de la voluntad de Dios a través del discernimiento espiritual, que exige dos actitudes fundamentales: «la humildad que se abandona a la sabiduría de Dios, la ciencia y la práctica del discernimiento espiritual» (cf. *PoI*, 19). Buscar el querer de Dios comporta: la *escucha teologal*, a la luz de la Sagrada Escritura y de las constituciones; la «*indiferencia*» ante las creaturas, para encontrar a Dios en todas las cosas (cf. Ejercicios espirituales, 23); la *disponibilidad* a dejarse formar por la vida de cada día (cf. *CCr*, 15); *abrirse* con humildad y confianza a quienes Dios nos ha dado para acompañarnos; la *confianza* en el amor y poder de Dios, en sus mediaciones y en uno mismo; y la *responsabilidad* para aprovechar los retos de la vida. El discernimiento, para ser auténtico, requiere una conciencia rectamente formada y la libertad interior no solo de los apegos, sino de los propios deseos, «incluso de aquellos más santos» (cf. *DVP*, 43). Un buen discernimiento conduce a una mayor coherencia de vida y a una creciente fidelidad en los deberes contraídos con Dios, con la Iglesia, con la Legión y con los demás; «deja en el alma la alegría de Cristo y lleva el sello de la audacia del Espíritu». El legionario asume el trabajo de su formación con inteligencia, orden y método, sin dejarse desalentar por las dificultades.
 
-[Contenido de esta sección...]
+#### C. La Iglesia, Madre y Maestra
 
-## A. Dios, formador por excelencia
+Toda la vida del legionario, también su formación, se da en el seno de la Iglesia, en la adhesión filial a las enseñanzas y normas del Magisterio de Pedro y de los pastores en comunión con él (cf. *CLC*, 14). La labor de la Iglesia como educadora se extiende mucho más allá de la doctrina y la disciplina: es toda la vida de la Iglesia la que educa, con sus tristezas y momentos de gracia, con sus eventos ordinarios y extraordinarios —canonizaciones, sínodos, jubileos—, con la variedad de ritos y carismas, con las nuevas sensibilidades pastorales. Durante la formación inicial el legionario aprende a amar de forma creciente a la Iglesia y a sentir con ella, «ensanchando el corazón en la amplitud de sus horizontes»: «Aprendan a participar con corazón dilatado en la vida de toda la Iglesia, según el aviso de san Agustín: “En la medida en que uno ama a la Iglesia de Cristo, posee el Espíritu Santo”» (cf. *OT*, 9). Para aprender a sentir la universalidad de la Iglesia y la cercanía al Vicario de Cristo, la Congregación procura que al menos parte del tiempo de formación transcurra en Roma (cf. *CLC*, 206 § 2): ocasión de crecer en el amor al papa, en el *sensus Ecclesiae* y en el conocimiento de la universalidad de la Iglesia. Los formadores promueven el conocimiento de temas de actualidad eclesial, fomentando la *sollicitudo omnium ecclesiarum* de san Pablo (2Cor 11,28).
 
-[Contenido de esta sección...]
+#### D. La Virgen María, modelo y formadora de almas consagradas
 
-## B. El legionario, responsable de su propia formación→620
+María es «el molde humano en que se encarnó el Hijo de Dios» (cf. San Agustín, *Sermón* 208). Sigue siendo el instrumento del que se sirve el Espíritu Santo para reproducir a Cristo en los hombres, para hacerlos hijos en el Hijo; por eso los legionarios la saludamos y visitamos frecuentemente: su influencia virginal y maternal, su oración y su mirada pura nos ayudan a ser cada día mejores reflejos de Cristo. «Entre todas las personas consagradas a Dios, ella es la primera» (cf. *Redemptionis donum*, 17): toda su vida es imagen perfectísima de lo que significa consagrarse a Dios. Es la Virgen fecunda que forma corazones vírgenes fecundos y por eso mismo Madre, a título especialísimo, de las almas consagradas y de los sacerdotes. María es Madre de la Iglesia por dar a luz a la Cabeza y también por dar a luz una segunda vez, junto a la cruz, al Cuerpo de Cristo: en el primer parto tuvo junto a sí a san José, hombre casto; en el segundo, a san Juan, apóstol virgen y sacerdote; en cada legionario María ve el reflejo de estos dos varones, y los acoge en su Corazón Inmaculado. En los dos partos se dieron la mano el sufrimiento y el gozo de la vida nueva: en toda vida consagrada se presenta la cruz con la tentación de huir. Ella, la Madre Dolorosa, nos conduce junto a la cruz de Jesús, donde la renuncia a la paternidad, el sacrificio del eros y el peso de la soledad se transforman en plenitud de fecundidad espiritual, «en asombrosa multiplicación de la capacidad de amar y en experiencia de intimidad gozosa con el Señor».
 
-[Contenido de esta sección...]
+#### E. Los formadores
 
-## C. La Iglesia, Madre y Maestra
+El espíritu de Jesús resucitado se hace presente a través de un conjunto de mediaciones eclesiales; «toda la tradición religiosa de la Iglesia atestigua el carácter decisivo del papel de los educadores para el éxito de la labor de formación» (cf. *PoI*, 30). Dios ha puesto al lado de los que llama a algunos hermanos mayores como mediación humana, que les ofrezcan ejemplo, luz y apoyo (cf. *VC*, 66). Con la palabra «formadores» se comprenden tanto los que actúan en el ámbito de la conciencia (director espiritual, confesor) como los de fuero externo; todo superior es también un formador. Ser formador es un apostolado exigente y escondido, pero de envergadura incalculable.
 
-[Contenido de esta sección...]
+##### Perfil del formador
 
-## D. La Virgen María, modelo y formadora de almas consagradas
+Ser formador supone «un cierto “carisma”, que se manifiesta en dones naturales y de gracia y, por otro, en algunas cualidades y aptitudes que se han de adquirir» (cf. *Directrices sobre la preparación de los formadores*, 1993, 25), mediante preparación específica y constante actualización (cf. *DVP*, 49). Ha de contar con un conocimiento básico de psicología, ser capaz de distinguir los problemas que requieren ayuda profesional y, si tiene estudios psicológicos, evitar atender a la misma persona como formador y como terapeuta. Ha de ser ante todo un hombre alegre, maduro y pleno, en quien el joven pueda ver «la belleza del seguimiento del Señor y el valor del carisma» (cf. *VC*, 66); hombre de oración, con don de discernimiento, gran amor a su vocación, capacidad de acogida, humilde y ecuánime. Todo formador está él mismo en formación permanente: «no es un hombre sin defectos, sino uno que busca sinceramente a Cristo». Los legionarios llamados al ministerio de formadores reconozcan en él una vocación profundamente sacerdotal, en la que ejercen los *tria munera Christi*: *enseñar*, «pues deben ofrecer a los religiosos un sólido alimento doctrinal y práctico» (cf. *PoI*, 30); *gobernar* «como a hijos de Dios» (cf. *CLC*, 36, 2.º); *santificar*, con los sacramentos, la Palabra, la oración de intercesión y el sacrificio personal. Ser formador es una oportunidad que Dios regala para el propio crecimiento personal y espiritual.
 
-[Contenido de esta sección...]
+##### La tarea formativa y el acompañamiento personal
 
-## E. Los formadores
+La formación no consiste solo en transmisión de conocimientos, sino en arrastrar con la propia vida, *como el águila incita a su nidada* (Dt 32,11): forma toda la persona, compartiendo la vida cotidiana. El formador hace suyas las palabras de san Pablo: *Sed imitadores míos, como yo lo soy de Cristo* (1Cor 11,1). Como mediador, pone en el centro de la relación a Cristo, único Maestro, no a sí mismo; la oración de intercesión del formador (cf. *CLC*, 216, 1, 1.º) es indispensable, y pide para sí prudencia, fortaleza y caridad. Sigue de modo personalizado el proceso de cada legionario, valora sus esfuerzos, aconseja, orienta, corrige oportunamente y fomenta su participación; «trata de ayudar al legionario a asumir su formación sin sustituirlo y sin abdicar de la propia responsabilidad». El diálogo periódico es un medio fundamental para guiar la formación integral de cada uno. Los formadores conducen a la comunidad con un proyecto de formación integral que actúan fiel y creativamente. La tarea del formador puede describirse como «acompañamiento»: hacerse compañero de camino, mediante una relación interpersonal profunda y significativa, ayudando a integrar fe y vida diaria y a descubrir «el sentido sobrenatural de los hechos ordinarios». Para ello el conocimiento debe alcanzar la historia, el ambiente familiar y social del formando y todas las dimensiones de su persona (cf. *DVP*, 49).
 
-[Contenido de esta sección...]
+##### Cualidades de la relación formativa
 
-### 1. Los superiores mayores
+Un formador solo podrá guiar en la búsqueda de la voluntad de Dios si conoce al formando y se da a conocer a él: *Yo soy el Buen Pastor, que conozco a las mías y las mías me conocen* (Jn 10,14). «Conocer» conlleva «amar» y «dar la vida»; y «confiar» y «ponerse en manos de otro». La base es una relación humana creciente de confianza mutua, construida cada día con detalles, interés, gratitud, diálogo y perdón; más allá de la simpatía, no puede faltar la fe para ver detrás de la persona limitada del formador la mano de Dios. La Legión reconoce entre sus dones el espíritu de cercanía confiada que anima la relación entre formadores y formandos, con el sello de la gratitud, la afabilidad y el mutuo respeto; pocas actitudes serían tan nocivas como ver en el formador solo «una autoridad que supervisa». El formador es «hombre de Dios, maestro, padre, amigo y hermano que sabe acoger, escuchar, comprender y, sobre todo, salir al encuentro del alma atribulada» (cf. *CLC*, 216 § 2), fundamentado en el amor sincero de quien quiere dar la vida por el otro sin buscar nada a cambio: *yo doy mi vida por las ovejas* (Jn 10,15). «Las estructuras y los planes de formación dan sus mejores resultados cuando se establece una auténtica relación formativa […] aprendemos a amar cuando nos sentimos amados.»
 
-[Contenido de esta sección...]
+##### 1. Los superiores mayores
 
-### 2. Los rectores, los instructores de novicios y los asistentes en la casa de formación
+Responsables últimos de la formación son los superiores mayores, que nombran a superiores, rectores, directores espirituales y demás formadores, velan por el régimen de las casas de formación y de apostolado e impulsan la aplicación de esta *Ratio*. Son instancia última para aprobar la admisión a los votos y a las órdenes, apoyándose en los informes de quienes siguen directamente a los religiosos, con la distancia justa para el juicio imparcial; entrevistan personalmente cuando sea preciso. Se preocupan de «la preparación de formadores idóneos» (cf. *VC*, 66) previniendo un camino de preparación específica, y cuidan que los superiores locales no acumulen responsabilidades secundarias que impidan su labor esencial (cf. *CLC*, 216, 1, 4.º). El director general atiende la formación como prioridad (cf. *CLC*, 148 § 2, 1.º) y en sus visitas da especial atención a las casas de formación. Para el director territorial las casas de formación son «un tesoro»: realiza la visita canónica (cf. *CLC*, 186, 3.º), aprueba los programas anuales, convive con la comunidad y organiza actividades territoriales. Promueve iniciativas de formación permanente para los sacerdotes y vela por los más jóvenes y los religiosos en prácticas. Es su responsabilidad asegurar que el territorio cuente con un encargado de ambientes seguros para la capacitación periódica de todos (cf. *NC*, 15; *CCG2014*, 209-211).
 
-[Contenido de esta sección...]
+##### 2. Los rectores, los instructores de novicios y los asistentes en la casa de formación
 
-### 3. El superior de la casa de apostolado
+A los instructores y rectores se les confía el futuro de la Congregación: los jóvenes novicios y religiosos. Son los directos responsables de su formación y trabajan en equipo con sus asistentes, de modo que «bajo la guía del rector, establezcan una muy estrecha unión de espíritu y de acción y formen entre sí y con los alumnos una familia» que responda a la oración del Señor: *Que todos sean una sola cosa* (Jn 17,11) (cf. *OT*, 5). Su misión es formar religiosos sacerdotes, no en abstracto, sino como legionarios de Cristo: la responsable colaboración del discípulo solo puede ejercerse «en el interior de una tradición específica, la del instituto, cuyos testigos y agentes inmediatos son los responsables de la formación» (cf. *PoI*, 32). Se pide al equipo de formadores, y especialmente al instructor o rector, capacidad de liderazgo e iniciativa para crear y mantener un ambiente formativo excelente; los religiosos deben encontrar «una atmósfera espiritual, una austeridad de vida y un estímulo apostólico» (cf. *PoI*, 26). Se consideran parte del equipo de formadores el prefecto de estudios y los directores espirituales, que tutelan el secreto de lo confiado, aunque los formadores pueden manifestarles su visión del proceso formativo de cada religioso.
 
-[Contenido de esta sección...]
+a. **El instructor de novicios y sus asistentes.** Al comienzo del camino se encuentra el instructor de novicios, llamado a ejercer una especial paternidad espiritual, que aúna las funciones de los formadores de otras etapas en el fuero externo y en el fuero interno no sacramental. Le corresponde introducir sabiamente en la vida religiosa, construyendo sobre las bases reales de cada novicio: «la primera exigencia de esta formación es poder encontrar en la persona una base humana y cristiana» (cf. *PoI*, 33). Su labor consiste en introducir a los novicios en la vida interior, en el arte de la oración y en el espíritu de la Congregación, estimulándolos a conocer, amar e imitar a Cristo en la entrega absoluta a la voluntad del Padre. Todo el equipo ha de inspirar su trabajo en «la paciencia del labrador». El instructor conoce al novicio y lo ayuda a conocerse, verificando si podrá alcanzar los objetivos formativos, buscando medios para una formación personalizada y ofreciendo experiencias diferenciadas; al concluir el noviciado presenta al director territorial a los candidatos idóneos.
 
-### 4. Los profesores y el prefecto de estudios
+b. **El rector de la casa de formación.** A los rectores toca velar por la preparación integral de los religiosos, forjando el ambiente y programando las experiencias educativas, con el proyecto de formación integral como instrumento decisivo que elabora y evalúa con su equipo. Cuenta también con el diálogo de formación, los avisos comunitarios y las predicaciones. El rector de la casa del noviciado no debe interferir en las responsabilidades del instructor. Son los rectores quienes presentan a los religiosos para la renovación de votos temporales, la profesión perpetua, los ministerios y las órdenes; velan para que cada religioso tenga director espiritual (cf. *CLC*, 59 § 2); y es muy conveniente que mantengan contacto con los padres de los religiosos bajo su cuidado.
 
-[Contenido de esta sección...]
+c. **Los asistentes del rector.** Son sus colaboradores, a quienes encomienda guiar más de cerca la formación de un grupo de religiosos, en una colaboración basada en la comunicación franca y constante. El rector los considera corresponsables de su misión, confía en ellos y les delega las funciones necesarias, dentro de una visión formativa unitaria; pueden delegarles el diálogo de formación de forma regular y más constante, como medio indispensable de formación integral personalizada.
 
-### 5. El director espiritual→548-554
+##### 3. El superior de la casa de apostolado
 
-[Contenido de esta sección...]
+Los superiores en las comunidades son hermanos que durante un tiempo ejercen la función de padres: *obedecedlo siempre, que él será vuestro padre* (1Mac 2,65). Son «piedras fundamentales del edificio de la Congregación», pues promueven la unidad de una comunidad de apóstoles, apoyados por los superiores mayores y por el Consejo de la casa (cf. *CLC*, 219). Como padres, consideran misión propia edificar una «comunidad fraterna en Cristo en la cual, por encima de todo, se busque y se ame a Dios» (cf. *CIC*, c. 619), sirviéndose del proyecto comunitario; escuchan a la comunidad antes de tomar decisiones importantes. El superior es «hombre de Dios, maestro, padre, amigo y hermano» (cf. *CLC*, 216 § 2) para ayudar a cada legionario a madurar en santidad, comunión y apostolado; sigue con particular solicitud a los religiosos en prácticas apostólicas y a los sacerdotes que inician su ministerio. La mayoría de los miembros de una casa de apostolado se encuentran en la etapa de formación permanente; los retos del superior local no son menores que los de la formación inicial, por lo que él mismo debe seguir creciendo en su formación integral. Su labor es personal —atención y diálogo— y a la vez oculta y práctica, cuidando el ambiente de la comunidad y de la casa; «ocupa en su comunidad el lugar de san José en la Sagrada Familia». Los superiores han de ser acogidos como un don de Dios: «todos se adhieren en una obediencia de fe a la mediación particular ejercida por el superior» (cf. *PoI*, 26); la comunidad une a sus oraciones la petición de caridad, humildad y fortaleza para él.
 
-### 6. Los confesores
+##### 4. Los profesores y el prefecto de estudios
 
-[Contenido de esta sección...]
+«La formación intelectual no debe tender a la mera transmisión de los conocimientos, sino a una genuina formación interior de los alumnos» (cf. *OT*, 17). Los profesores, por el testimonio de su vida y el desempeño de su oficio, son verdaderos educadores; su influencia «con frecuencia es más decisiva que la de los otros educadores en el desarrollo de la personalidad presbiteral» (cf. *PDV*, 67). En su profundización en la filosofía, la teología y los problemas humanos, cada profesor es *como un padre de familia, que va sacando de su tesoro lo nuevo y lo antiguo* (Mt 13,52); está en la frontera del apostolado para la formación de sus hermanos y para la evangelización de la cultura, en cordial fidelidad al Magisterio. Reciban una adecuada preparación pedagógica y procure mantenerse actualizados. Han de dar continuidad y organicidad a la formación, construyendo los nuevos conocimientos sobre las bases precedentes. La enseñanza debe garantizar: ayudar a hacer emerger las cuestiones esenciales y despertar la sana inquietud del corazón; realizar una síntesis de la formación intelectual; garantizar una enseñanza clara y sólida, ordenada a conocer el misterio de Dios, las verdades de la fe y su jerarquía (cf. *CIC*, cc. 750, 752-754); promover el diálogo mediante argumentaciones informadas; y ofrecer una perspectiva histórica para expresar la fe en lenguaje adecuado a la propia época.
 
-## F. La comunidad
+**El prefecto de estudios en las casas de formación.** Colabora con el rector en la dimensión intelectual, con las cualidades necesarias y experiencia académica, integrando un verdadero equipo con los demás formadores. Acompaña a los religiosos en la experiencia del trabajo intelectual, fomenta la integración de la comunidad en torno a la misión de la formación intelectual, y tiene encuentros periódicos para orientarlos sobre el método de estudio y sobre los motivos que han de impulsarlos. Debe velar por que se ofrezcan nociones para comprender temas de actualidad (conferencias, cinefórums, lecturas). Su peso en la formación inicial es de gran importancia: enciende la curiosidad intelectual, orienta en las lecturas, fomenta grupos de interés y encamina a cada uno hacia los campos de desarrollo intelectual más acordes a sus dones, lo que marcará su futuro apostolado.
 
-[Contenido de esta sección...]
+##### 5. El director espiritual
 
-## G. El ambiente formativo de las casas
+En el área espiritual, corazón de toda la formación, existe el guía que es el director espiritual, quien ha de brillar por su piedad, sabiduría, prudencia y esmerada preparación doctrinal (cf. *CCE*, 2690): *He recorrido sus llanuras y montañas. Estoy familiarizado con todos los caminos. Iré con él* (Tob 5,10 y 17). A la escucha y la empatía ha de añadir una formación específica. Con él se ha de tener plena apertura de conciencia (cf. *CIC*, c. 246 § 4): es confidente de los pensamientos que agitan al religioso para identificar los que vienen de Dios y descubrir los ardides del demonio; ilumina el discernimiento de la voluntad de Dios; es maestro de oración; se esfuerza por entender el ritmo personalísimo del Espíritu; ayuda a formar rectamente la conciencia. Pero no es el motor de la vida interior ni debe sustituir la acción y responsabilidad de cada uno: busca que la persona adquiera autonomía; su acción ha sido comparada a la del ángel de la guarda. Ha de cultivar el arte de escuchar mucho, sin apresurarse a dar consejos, ayudando al dirigido a entenderse y a comprender por sí mismo lo que debe hacer; será claro para desvelar los engaños del mal espíritu y, a veces, llevará al alma a la «tristeza según Dios» que *produce arrepentimiento decisivo y saludable* (2Cor 7,10). No descuide el estudio de la vida espiritual, y su fidelidad a la voluntad de Dios le dará ese sexto sentido para descubrir la acción de la gracia en los corazones. Recomiende libros de provecho para cada persona. Guía hacia una vivencia motivada de la obediencia religiosa y tiene la responsabilidad de orientar con claridad cuando la persona no debe seguir el camino de la vida religiosa y sacerdotal. En el equipo de formadores ofrece gran aportación identificando dificultades comunes y tendencias generales. En las casas de formación, los religiosos deben poder elegir entre varios directores espirituales nombrados por los superiores mayores; al menos uno o dos se dedican a esta tarea como misión principal. Durante la vida sacerdotal, el director espiritual es un verdadero hermano que sostiene y corrige con afecto: ayudar a un hermano sacerdote es «entre las obras divinas, la más divina» (cf. Pío XII, 1956). Cuando el sacerdote recibe la dirección, su espiritualidad tiene como elemento central la «unidad de vida» basada en la caridad pastoral (cf. *PO*, 14; *SCDE*, 110).
 
-[Contenido de esta sección...]
+##### 6. Los confesores
+
+En el ámbito de la conciencia se encuentran también los confesores, hombres de piedad profunda, con sólida preparación teológica y moral, capacidad de escucha y prudencia, que sepan inducir a las almas al dolor de los pecados, al amor filial a Dios y a una confianza ilimitada en su bondad de Padre. «El confesor es pastor, padre, maestro, educador, juez espiritual y también médico que discierne y ofrece la cura» (cf. *SCDE*, 59). Su ministerio está fundado en la manifestación del Espíritu y en el amor de Cristo crucificado; mediante la escucha paciente, la palabra oportuna y la penitencia medicinal transmite esperanza y misericordia, curando las heridas del pecado. Para ejercerlo adecuadamente es preciso orar, estudiar y pedir consejo a sacerdotes más experimentados. «Un sacerdote que confiesa llega a ser en muchos casos, a partir de la confesión, un director de conciencia: ayuda a discernir los caminos del Señor» (cf. *FES*, 3); al aconsejar, el confesor sienta profundamente con la Iglesia.
+
+#### F. La comunidad
+
+El ambiente en el que se lleva a cabo la formación inicial y permanente es la comunidad, en la que el legionario ve reflejado el grupo de los apóstoles reunidos en torno a Cristo. «La formación depende en gran parte de la calidad de la comunidad» (cf. *PoI*, 26): la vida fraterna es camino común de santidad y ayuda mutua en el fervor; en ella ha de reinar la búsqueda común de la santidad, la caridad y el espíritu de familia (cf. *CLC*, 38 § 2). Este es el fin del proyecto comunitario, que orienta a todos los miembros en una misma dirección, «no solo en la dimensión del hacer, sino sobre todo en la del ser»; debe integrar armoniosamente la oración común, la caridad fraterna, el compromiso en la misión, la formación permanente, el descanso, el sostenimiento de la comunidad y el testimonio común de pobreza (cf. *CCG2014*, 75). Por ser la forma de vida que Cristo escogió para vivir con sus apóstoles, la comunidad tiene valor por sí misma y no puede verse exclusivamente en función de objetivos formativos: «antes de que uno se sirva de ella como medio de formación, merece ser amada y servida por lo que ella es». Es el ámbito de pertenencia del que Dios se sirve para labrar la santidad de los religiosos «mediante el olvido de sí mismos y el sacrificio en la entrega a los demás»; «la paz y el gozo pascuales de una comunidad son siempre el fruto de la muerte a sí mismo y de la acogida del don del Espíritu» (cf. *PoI*, 26). En las comunidades la genuina amistad brota como fruto de una paciente siembra: *los unos las cargas de los otros* (Gál 6,2), *todo para todos* (1Cor 9,22), perdonando *hasta setenta veces siete* (Mt 18,22). La comunidad se construye cada día: se deja juzgar y convertir por la Palabra, purificar por la penitencia, construir por la Eucaristía, vivificar por el año litúrgico (cf. *PoI*, 27). En cuanto a su tamaño, la Iglesia recomienda que los jóvenes residan en comunidades en las que no falte ninguna de las condiciones para una formación completa (cf. *PoI*, 26); «las comunidades pequeñas, más que ofrecer una forma de vida más fácil, se revelan por el contrario más exigentes para sus miembros» (cf. *ET*, 40).
+
+#### G. El ambiente formativo de las casas
+
+El ambiente de las casas legionarias ha de facilitar «el silencio, la unión con Dios, la práctica de las virtudes, el estudio y la vida común» (cf. *CLC*, 41). Es a la vez un medio de formación y una expresión de la vida religiosa y de la formación ya adquirida, que los legionarios están llamados a cuidar dando visibilidad en los detalles concretos a los principios recibidos. «Los edificios pasan; es el ambiente que crean sus miembros lo que hace de una casa un lugar entrañable.»
+
+##### La casa de formación
+
+La casa de formación, «antes que ser un lugar o un espacio material, debe ser un ambiente espiritual, un itinerario de vida, una atmósfera que favorezca y asegure un proceso formativo» (cf. *PDV*, 42); es una comunidad educativa en camino que ofrece «la posibilidad de revivir la experiencia formativa que Jesús dedicó a los Doce» (cf. *PDV*, 60). Está totalmente orientada a la formación humana, espiritual, intelectual y apostólica: todo en ella es formación. Todos han de contribuir a hacer de ella una verdadera familia espiritual, «sostenida por una profunda caridad y amistad», espacio para el conocimiento personal, el discernimiento vocacional y el acompañamiento espiritual. Los reglamentos de las casas de formación ordenan la vida comunitaria y precisan los instrumentos formativos; en el proyecto de formación integral se visualizan las metas comunitarias de modo progresivo.
+
+##### Silencio
+
+Los legionarios cultivan el silencio interior y exterior «como medio de unión con Dios, de vida interior, de paz y serenidad del alma, y de encuentro profundo consigo mismos» (cf. *CLC1994*, 235); «es una actitud profunda del alma que todo lo espera de Dios y que está del todo vuelta hacia Dios» (cf. *FES*, 1). En una sociedad agitada, la educación en el silencio es elemento pedagógico necesario para la oración, «atmósfera espiritual indispensable para percibir la presencia de Dios» (cf. *PDV*, 47). Los reglamentos pueden establecer tiempos y lugares de silencio (cf. *CLC*, 41). Especialmente en las casas de formación debe reinar un ambiente de silencio habitual, fuera de los momentos de convivencia: aquí se forman los hábitos del hombre interior, y «en un seminario donde el silencio exterior no exista, el silencio espiritual está ausente» (cf. *FES*, 1). En la Legión se vive la práctica del «gran silencio», que abarca el final del día, la noche y la oración que marca el comienzo de la nueva jornada; tiene un carácter «esponsal», de intimidad del alma con el Señor. «Sin esos momentos de renovación interior el alma se vacía imperceptiblemente, la oración se hace árida y se pierde el sentido de las realidades sobrenaturales.»
+
+##### Estilo de las casas
+
+Las casas legionarias tienen un estilo propio que intenta reflejar cómo desea la Legión que sea el alma de sus hombres: trazos nítidos, sin recovecos, con una belleza sobria que procede de su luminosidad. A la puerta están las Sagradas Escrituras, que se besan al entrar y salir; en el centro, la capilla con el Sagrario que custodia el Santísimo. Las imágenes frontales de las capillas son una sobria representación del Calvario: Cristo crucificado con el costado abierto, imagen del Sagrado Corazón, que ofrece su amor redentor (cf. *Directorio sobre la piedad popular y la liturgia*, 2002, 173); a un lado, María Santísima, la Virgen de los Dolores, de pie junto a la cruz; junto a Ella, como san Juan evangelista, el legionario tiene su lugar. Los jardines son forma de descanso para renovar el equilibrio interior en contacto con las obras de Dios, y en ellos no puede faltar una gruta de la Virgen. Las casas se han de caracterizar por el orden, el decoro y la limpieza, expresión del espíritu atento a los detalles; la decoración interior ha de ser distinguida, sencilla y acorde con la pobreza legionaria; en todos los objetos se expresa el equilibrio que busca la Legión para sus hombres, «marcado por la sencillez y el buen gusto».

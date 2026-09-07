@@ -12,31 +12,10 @@ tags: ["resumen", "habla señor que tu siervo escucha"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[centro_vocacional]] — ámbito donde se aplica el modelo formativo
+- [[discernimiento_vocacional]] — proceso que el modelo formativo guía en los alumnos
+- [[formación_legionaria]] — modelo formativo de la Legión para sus centros vocacionales
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `11_iii_el_modelo_formativo.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | III. El modelo formativo |
-
-
-## Secciones incluidas
-
+El modelo formativo del centro vocacional expone los principios generales que guían el proceso de formación y discernimiento vocacional de sus alumnos, así como los principales agentes y mediaciones que lo favorecen. Implica un modo de entender a la persona y la índole propia del discernimiento vocacional para el joven, y se inspira en un ideal evangélico que marcará luego los objetivos formativos, así como los medios más concretos que son necesarios para alcanzarlos. Es fundamental que los formadores conozcan y apliquen conscientemente este modelo formativo, para que la propuesta educativa del centro vocacional pueda ser realmente fructífera en la vida de los alumnos.

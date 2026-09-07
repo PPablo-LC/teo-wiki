@@ -12,31 +12,11 @@ tags: ["resumen", "ratio institutionis-christus vita vestra"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[ratio_institutionis]] — proyecto formativo del instituto recogido en el derecho propio
+- [[derecho_canónico]] — los documentos citados se indican con siglas según el índice de la fuente
+- [[carisma_legionario]] — espiritualidad del instituto a la que remiten las siglas del derecho propio
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `02_abreviaturas.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Abreviaturas |
-
-
-## Secciones incluidas
+Los documentos citados más de una vez se indican con notación abreviada según el índice de siglas que el texto ofrece. Al final de la fuente se incluye una bibliografía de los documentos citados. En cuanto a los documentos del derecho propio, las citas de documentos vigentes se indican en el texto con siglas, mientras que las citas de documentos históricos se señalan a pie de página.
 

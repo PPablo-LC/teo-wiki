@@ -12,31 +12,15 @@ tags: ["resumen", "ratio institutionis-christus vita vestra"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[formación_legionaria]] — la formación del legionario de Cristo como respuesta de amor
+- [[configuración_con_cristo]] — proceso de identificación con Cristo al que orienta la formación
+- [[carisma_legionario]] — carisma del instituto expresado en el proyecto formativo
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `04_parte_primera_la_formación_del_legionario_de_cristo_una_resp.md`
+### Parte primera. La formación del legionario de Cristo: una respuesta de amor
 
+*Encontré al amor de mi alma (Cant 3,4)*
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Parte primera. |
-
-
-## Secciones incluidas
+La primera parte de la *Ratio institutionis* presenta la formación del legionario de Cristo como una respuesta de amor a Dios. La cita del Cantar de los Cantares (*Encontré al amor de mi alma*, Cant 3,4) expresa el corazón de esta parte: la formación nace de un encuentro personal y amoroso con Cristo y se despliega como respuesta libre y total a su amor. En esta primera parte se desarrolla la visión sincrónica de la formación que la Legión ofrece a sus hombres.
 

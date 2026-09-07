@@ -12,49 +12,29 @@ tags: ["resumen", "habla señor que tu siervo escucha"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[seminario]] — el centro vocacional coincide en su identidad con la del seminario menor
+- [[comunidad_formativa]] — naturaleza del centro: comunidad en la que los adolescentes maduran vocacionalmente
+- [[vocación]] — llamada a decidirse a seguir a Cristo con generosidad y pureza de intención
+- [[vocación_religiosa]] — la vida religiosa y sacerdotal en la Legión como posible vocación del alumno
+- [[vida_religiosa]] — decisión de seguir a Cristo según el carisma legionario
+- [[carisma_legionario]] — modo de vivir el carisma de la familia espiritual legionaria
+- [[regnum_christi]] — Movimiento del que forma parte la familia espiritual legionaria
+- [[espiritualidad_legionaria]] — familia espiritual a la que los formadores acogen a los alumnos
+- [[nueva_evangelización]] — retos eclesiales que el centro asume como comunidad inserta en la Iglesia local
+- [[misión]] — compromiso de sumarse a la Iglesia misionera según el carisma del Regnum Christi
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `08_identidad_del_centro_vocacional.md`
+### Identidad del centro vocacional
 
+#### Seminario menor – Escuela Apostólica
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+7. La identidad de los centros vocacionales de la Legión de Cristo coincide con la del seminario menor: una comunidad formativa en la que «los adolescentes en un ambiente de armonía con su edad y de auténtica libertad interior, con la ayuda de probados y competentes formadores y el apoyo de su familia, puedan madurar vocacionalmente y, si la vida religiosa y sacerdotal en la Legión es su vocación, decidirse a seguir a Cristo en ella con generosidad y pureza de intención».
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Identidad del centro vocacional |
-| 3 | H3 | Seminario menor – Escuela Apostólica |
-| 7 | H3 | Los alumnos como parte dela familia espiritual legionaria y del Movimi |
-| 11 | H3 | Comunidad de vida cristiana segúnel carisma de la Legión de Cristo y d |
+#### Los alumnos como parte dela familia espiritual legionaria y del Movimiento
 
+8. Aunque los alumnos de los centros vocacionales no son ni pueden ser considerados miembros de la Congregación, las Constituciones piden a los formadores que los acojan como parte de la familia legionaria. De este modo entran en relación con una familia espiritual más grande, que es el Movimiento Regnum Christi, y viven su carisma según su propia edad.
 
-## Secciones incluidas
+#### Comunidad de vida cristiana segúnel carisma de la Legión de Cristo y del RegnumChristi
 
-# Identidad del centro vocacional
-
-[Contenido de esta sección...]
-
-## Seminario menor – Escuela Apostólica
-
-[Contenido de esta sección...]
-
-## Los alumnos como parte dela familia espiritual legionaria y del Movimiento
-
-[Contenido de esta sección...]
-
-## Comunidad de vida cristiana segúnel carisma de la Legión de Cristo y del RegnumChristi
-
-[Contenido de esta sección...]
+9. Como institución, el centro vocacional constituye una comunidad de vida cristiana en la que se forman jóvenes, algunos de los cuales serán en el futuro legionarios apóstoles y formadores de apóstoles. Como comunidad inserta en la Iglesia local, acoge los retos de la nueva Evangelización y asume el compromiso de sumarse a la Iglesia misionera según el carisma del Regnum Christi. Por esto corresponde a su esencia e identidad el ser una comunidad fuertemente irradiadora de esta vida cristiana.

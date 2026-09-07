@@ -12,25 +12,16 @@ tags: ["resumen", "christus vita vestra-2020"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[itinerario_formativo]] — proyecto de formación integral que guía la aplicación de la Ratio
+- [[ratio_institutionis]] — derecho propio: normas que organizan la formación
+- [[formación_integral]] — aplicación concreta y creativa de la Ratio en cada etapa
+- [[entrevista_vocacional]] — entrevista del director territorial a cada candidato
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `diferencias_2017_2020.md`
+### Párrafos nuevos en 2020
 
+- **§613** — Cada casa o etapa debe contar con «un proyecto de formación integral o itinerario formativo»: plan bienal, trienal o cuatrienal según la duración de la etapa, que guíe a los formadores y a la comunidad en la aplicación concreta y creativa de esta Ratio, propiciando que los objetivos formativos se afronten de modo orgánico y gradual.
+- **§621** — El director territorial, personalmente o a través de un delegado, entrevista a cada candidato para conocer mejor su personalidad, verificar la madurez acorde a su edad, su intención e inclinación a la vida en la Legión, y asegurarse de la ausencia de impedimentos.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-
-## Secciones incluidas
-
+La sección normativa de la edición de 2020 se reorganiza: la Ratio integra la exigencia de itinerarios formativos concretos y de verificación personalizada de los candidatos como parte del derecho propio de la Congregación.

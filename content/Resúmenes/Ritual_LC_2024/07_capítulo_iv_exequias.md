@@ -5,38 +5,24 @@ fuente: Ritual_LC_2024
 capítulo: 7
 timestamp: 2026-08-24
 description: "Resumen de 'CAPÍTULO IV EXEQUIAS' — Ritual_LC_2024"
-tags: ["resumen", "ritual lc 2024"]
+tags: ["resumen", "ritual lc 2024", "vida religiosa"]
 ---
 
 # CAPÍTULO IV EXEQUIAS
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[exequias]] — celebración de las exequias de los legionarios difuntos
+- [[adoración_eucarística]] — no se expone el Santísimo durante la vigilia (distinción con la intercesión por el difunto)
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `07_cap4_exequias.md`
+### CAPÍTULO IV EXEQUIAS
 
+«La Iglesia sigue prefiriendo la sepultura de los cuerpos, porque con ella se demuestra un mayor aprecio por los difuntos; sin embargo, la cremación no está prohibida, "a no ser que haya sido elegida por razones contrarias a la doctrina cristiana"» (cf. ARCh, 4; CIC, c. 1176 § 3; RE, 15).
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+En la medida de lo posible, se ha de procurar sepultar a los legionarios cerca de las comunidades legionarias, de manera que la visita de su tumba mantenga el recuerdo en la memoria de sus hermanos peregrinos, que oren por él y se muevan a la contemplación de las realidades eternas.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | CAPÍTULO IV EXEQUIAS |
+El cadáver se reviste solo con la sotana, señal de su consagración a Dios. Si el difunto está ordenado «in sacris», su ataúd se coloca con la cabeza en dirección al altar; si no, con los pies en dirección al altar, según la posición que tenía en la asamblea eucarística.
 
-
-## Secciones incluidas
-
+El cuerpo del difunto, cuando sea posible, se pondrá en la capilla de la casa legionaria. Es muy aconsejable celebrar una vigilia de oración por él antes de las exequias (cf. RE, 26). Antes y después de la vigilia, los legionarios presentes se van turnando para velar y orar por su hermano; en esta ocasión no se debe exponer el Santísimo Sacramento, ya que el objeto de la oración es la intercesión por el difunto, no la adoración al Santísimo. En cuanto a la celebración de las exequias, cuando sea posible, téngase también el rito correspondiente junto al sepulcro con la participación de toda la comunidad.

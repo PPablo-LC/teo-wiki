@@ -12,31 +12,16 @@ tags: ["resumen", "habla señor que tu siervo escucha"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[centro_vocacional]] — realidad formativa de la Legión de Cristo a la que se dedica el documento
+- [[formación_legionaria]] — plan general de formación de los centros vocacionales
+- [[discernimiento_vocacional]] — uno de los ejes del proceso formativo en los centros vocacionales
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `01_decreto_de_aprobación.md`
+### Decreto de aprobación
 
+El archivo recoge la portada del documento: publicado en Roma, 2018, con el título «Habla, Señor, que tu siervo escucha» y el subtítulo «Identidad y plan general de formación de los centros vocacionales en la Legión de Cristo». Se indica que es un volumen con derechos reservados de los Legionarios de Cristo, 2018, publicado por el Departamento de publicaciones institucionales.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+Sigue el índice general de la obra, que enumera: Decreto de aprobación, Siglas, Introducción, Naturaleza y fin de este documento, Destinatarios, Estructura, y los ocho capítulos: I. Identidad y fin del centro vocacional (identidad y finalidad); II. Espiritualidad del centro vocacional; III. El modelo formativo (presupuestos, principios del proceso formativo, agentes de la formación, mediaciones en la formación); IV. Dimensiones de la formación (humana, espiritual, intelectual, apostólica); V. Etapas de la formación (etapa previa a la admisión, admisión y permanencia, la vida en el centro vocacional, egreso del centro vocacional); VI. Algunos medios de formación y tradiciones del centro vocacional; VII. Ambientes seguros; VIII. Normas generales. Cierra con el índice analítico-temático.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 81 | H1 | Decreto de aprobación |
-
-
-## Secciones incluidas
-
+El archivo termina con el encabezado «Decreto de aprobación», aunque el texto del decreto no figura en este archivo.

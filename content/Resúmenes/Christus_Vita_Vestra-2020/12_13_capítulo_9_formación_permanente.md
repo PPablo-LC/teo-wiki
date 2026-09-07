@@ -12,25 +12,19 @@ tags: ["resumen", "christus vita vestra-2020"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[formación_permanente]] — formación continua del sacerdote y religioso
+- [[renovación_espiritual]] — dedicación intensa y medios para la renovación del sacerdote
+- [[vida_eucarística]] — unión constante con Cristo en los gestos ministeriales
+- [[legionarios_ancianos]] — presencia de los ancianos como factor formativo
+- [[vida_religiosa]] — aprecio y gratitud a los religiosos ancianos
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `diferencias_2017_2020.md`
+### Párrafos eliminados en 2020
 
+- **§2** — «2. La renovación espiritual 891»: el sacerdote necesita en algunos momentos del camino una dedicación más intensa y medios adecuados para la propia renovación espiritual: se trata de hacer una pausa para renovar la vida interior. Este contenido se integra o reubica en la nueva numeración.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+### Párrafos nuevos en 2020
 
-## Secciones incluidas
-
+- **§584** — La unión constante del sacerdote con Cristo «tiende, por su propia naturaleza, a hacerse lo más profunda posible, implicando la mente, los sentimientos, la vida, o sea, una serie de disposiciones morales y espirituales»: el sacerdote reitera en bien de los fieles los gestos ministeriales, que son gestos del mismo Señor.
+- **§599** — «Todos los religiosos traten con gran aprecio y gratitud a los legionarios ancianos»: la presencia de los ancianos en las comunidades y casas de apostolado es un factor formativo para todos, por su experiencia más amplia, la sabiduría de una vida religiosa perseverante y el testimonio de fidelidad.

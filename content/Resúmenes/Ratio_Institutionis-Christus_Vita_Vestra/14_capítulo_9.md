@@ -12,69 +12,67 @@ tags: ["resumen", "ratio institutionis-christus vita vestra"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[formación_permanente]] — la respuesta a la vocación como disposición continua a dejarse formar por la vida
+- [[formación_inicial]] — continuidad y discontinuidad con la formación permanente
+- [[conversión]] — la conversión continua como actitud del sacerdote
+- [[configuración_con_cristo]] — la identidad del sacerdote, continuación de la vida y acción de Cristo
+- [[dirección_espiritual]] — apoyo imprescindible en todas las etapas de la vida sacerdotal
+- [[vida_religiosa]] — el sacerdote legionario es además religioso
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `14_capítulo_9_la_formación_permanente.md`
+### Capítulo 9. La formación permanente
 
+*Sé fiel hasta la muerte y te daré la corona de la vida (Ap 2,10)*
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+#### A. Indicaciones generales sobre la formación permanente
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Capítulo 9. |
-| 6 | H3 | A. Indicaciones generales sobre la formación permanente→371-374 |
-| 54 | H3 | B. La ordenación y primeros años de sacerdocio |
-| 94 | H3 | C. El sacerdote en torno a los cuarenta años |
-| 96 | H4 | 1. Rasgos y retos esenciales |
-| 128 | H4 | 2. La renovación espiritual |
-| 142 | H3 | D. Años de madurez |
-| 166 | H3 | E. Años de ancianidad |
+*Cuídate de ti mismo* (1Tim 4,16): la entrega a los demás no debe ser excusa para descuidar el deber fundamental hacia sí mismo. «Cada sacerdote es el primer responsable en la Iglesia de la formación permanente», por el deber —derivado del sacramento del Orden— de ser fiel al don de Dios y al dinamismo de conversión diaria (cf. *PDV*, 79); el sacramento le asegura las gracias actuales necesarias para el ministerio (cf. *PDV*, 70).
 
+Existe una formación permanente porque la respuesta a la vocación no es algo del pasado: Dios continúa llamando cada día y es preciso no perder la capacidad de sorprenderse, de aprender y de ser dóciles, «cansurarse de estar empezando siempre», pues «el amor nunca se da por “concluido”» (cf. *DCE*, 17). *Mi Padre sigue actuando y yo también actúo* (Jn 5,17) se aplica en primer lugar respecto de nosotros: Él no deja de obrar para asemejarnos más a Él. La formación permanente es ante todo la disposición para dejarnos formar por la vida, la disponibilidad humilde de «dejarse tocar, educar, provocar, iluminar por la vida y por la historia» (cf. *VNON*, 35), de morir una y otra vez para resucitar con Cristo. Esta disponibilidad implica «una continua conversión del corazón, la capacidad de leer la vida y los acontecimientos a la luz de la fe y, sobre todo, la caridad pastoral» (cf. *DVP*, 56).
 
-## Secciones incluidas
+Hay continuidad y discontinuidad entre formación inicial y permanente: hay una «intrínseca relación» entre la formación que precede a la ordenación y la que le sigue, por lo que «desde el seminario es preciso preparar para la futura formación permanente»; esta, por otro lado, no es una repetición sino que «se desarrolla con contenidos y sobre todo a través de métodos relativamente nuevos» (cf. *PDV*, 71). Después de la ordenación el legionario busca de manera más personal los medios para seguir creciendo; la Legión le ofrece algunos medios, pero toca a cada uno dar continuidad y frescura constantes a su formación integral.
 
-# Capítulo 9.
+La formación permanente se desarrolla en todas las dimensiones de la persona consagrada (cf. *VC*, 71):
 
-[Contenido de esta sección...]
+- **La vida en el Espíritu.** Ante el legionario se abre un horizonte amplísimo de santidad: «la vocación sacerdotal es esencialmente una llamada a la santidad, que nace del sacramento del Orden» (cf. *PDV*, 33). Dios siempre es mayor: *¡Qué abismo de riqueza, de sabiduría y de conocimiento el de Dios!* (Rom 11,33); la oración es un camino apasionante en el que avanzar —«en la oración no se vive de rentas» (cf. *PDV*, 72)—. Puede vivirse la «conversión continua, en que la obediencia es fuente de verdadera libertad, la castidad manifiesta la tensión de un corazón insatisfecho de cualquier amor finito, la pobreza alimenta el hambre y la sed de justicia» (cf. *VC*, 36).
+- **La dimensión humana y fraterna.** Las amistades sacerdotales maduras son fuente de serenidad y alegría; «la fraternidad sacerdotal […] es para los presbíteros una memoria existencial de Cristo y un testimonio apostólico de comunión eclesial» (cf. Directorio para la vida y el ministerio de los presbíteros, 37). El sacerdote, que vive la soledad, se hace cada vez más sensible a las necesidades humanas; «una cierta forma de soledad es elemento necesario para la formación permanente» (cf. *PDV*, 74).
+- **La dimensión apostólica.** Frente a la dispersión de las crecientes actividades pastorales (cf. *PDV*, 3), la caridad pastoral unifica la vida, enciende el celo y anima la búsqueda de nuevas formas: «solamente la concentración de cada instante en torno a la opción fundamental de “dar la vida por la grey” puede garantizar esta unidad vital» (cf. *PDV*, 23).
+- **La dimensión intelectual y cultural.** El legionario trata de estar actualizado sobre el mundo y la Iglesia para detectar retos y tendencias y buscar el modo más eficaz de presentar la riqueza del mensaje cristiano: «tras los acontecimientos de la historia se esconde frecuentemente la llamada de Dios a trabajar según sus planes» (cf. *VC*, 73).
+- **La dimensión del carisma.** Al ahondar en la vocación mediante el conocimiento de la misión y espíritu de la Legión (cf. *CLC*, 114 § 2), la persona crece en unidad y da sentido armónico a su vida.
 
-## A. Indicaciones generales sobre la formación permanente→371-374
+Se pretende una auténtica «cultura de la formación continua», que requiere «itinerarios concretos, en el plano individual y comunitario» (cf. *VNON*, 35). La Legión ofrece medios institucionales: retiros y ejercicios espirituales, el encuentro comunitario semanal, semanas de estudio; cada comunidad y territorio fomentan el espíritu de crecimiento continuo, aprovechando también las actividades de otras instituciones eclesiales. Los medios institucionales no bastan: durante la formación permanente cada miembro asume plena responsabilidad. Los sacerdotes han de tener conciencia de la ayuda que recibe su perseverancia del constante cultivo de la formación intelectual; llamados al ministerio de la palabra, «han de leer y estudiar asiduamente la Escritura para no volverse “predicadores vacíos de la palabra”» (cf. *DV*, 25). Toda la vida se integra en la formación permanente: alegrías y progresos, crisis y dificultades son oportunidades de crecimiento para quien se deja ayudar. La descripción de estas etapas no sigue la estructura de la formación inicial: se resaltan rasgos, retos y recomendaciones concretas.
 
-[Contenido de esta sección...]
+#### B. La ordenación y primeros años de sacerdocio
 
-## B. La ordenación y primeros años de sacerdocio
+«La vida y el ministerio del sacerdote son continuación de la vida y de la acción del mismo Cristo. Esta es nuestra identidad, nuestra verdadera dignidad, la fuente de nuestra alegría» (cf. *PDV*, 18). Los comienzos del sacerdocio suelen estar marcados por el gozo, por la cercanía a las personas y los desafíos apostólicos; el sacerdocio permite entrar con más profundidad en el corazón humano, sobre todo a través de la confesión y la dirección espiritual. Acoger esta novedad ayuda a evitar la inercia al salir de un camino estructurado de formación. La Congregación acompaña al recién ordenado con un mentor: «los primeros años de plena inserción en la actividad apostólica representan una fase crítica, marcada por el paso de una vida guiada y tutelada a una situación de plena responsabilidad operativa» (cf. *VC*, 70).
 
-[Contenido de esta sección...]
+El reto es amalgamar la propia existencia con la identidad recibida: pensar, hablar, juzgar, mirar como sacerdote, serlo con toda la persona. El Espíritu Santo desarrolla la dimensión esponsal hacia la Iglesia —el sacerdocio no le pertenece; él, por el sacerdocio, pertenece al pueblo de Dios— y la misión del presbítero participa de «la misión universal y amplísima de salvación *hasta los confines de la tierra*» (cf. *PDV*, 32); desarrolla también la paternidad espiritual, que significa generar a otros en la fe. Actitudes que ayudan al joven sacerdote: pureza de intención y humildad para dejarse ayudar, aprecio por la vida de comunidad y recta jerarquía de valores. La intensa actividad puede esconder vanidad y deseo de protagonismo —somos solo instrumentos, y «Dios no fracasa porque halla siempre nuevos modos para llegar a los hombres»—; hay que acudir con sencillez a los hermanos de mayor edad, consciente de la necesidad de figuras de referencia.
 
-## C. El sacerdote en torno a los cuarenta años
+La comunidad debe ser el lugar de fraternidad, apoyo, amistad y diálogo: hay que darle el valor que merece, pues la sobrevaloración de la dimensión apostólica puede hacer minusvalorar «lo que es un don y un medio de santificación y perseverancia». No debemos olvidar que, además de sacerdotes, somos religiosos. El sacerdote forja su jerarquía de valores con un ritmo de vida que integre vida espiritual y fraterna, apostolado y descanso; sigue necesitando de la dirección espiritual, del diálogo con el superior, de la amistad de sus hermanos y de la confesión frecuente: «En un sacerdote que no se confesase o se confesase mal, su ser como sacerdote y su ministerio se resentirían muy pronto» (cf. *Reconciliatio et Paenitentia*, 31). Ha de evitar el riesgo de llenar su agenda perdiendo el gusto por los momentos de intimidad con Dios, la vida intelectual y la convivencia. Es importante el diálogo abierto con el superior y el director de apostolado para delimitar su misión y aprender a decir no a posibilidades que dificulten los encargos recibidos por obediencia: es el momento de experimentar el sentido profundo de la obediencia apostólica. En el trato con la mujer ha de aprender a ser padre y hermano, con corazón sacerdotal, sin ambigüedad ni ingenuidad y con transparencia ante el director espiritual y el superior, sin creerse invulnerable. Quienes continúan sus estudios inmediatamente después de ordenarse, vean esta etapa vinculada a su misión y futuro campo apostólico, con momentos fuertes de apostolado no académico.
 
-[Contenido de esta sección...]
+#### C. El sacerdote en torno a los cuarenta años
 
-### 1. Rasgos y retos esenciales
+##### 1. Rasgos y retos esenciales
 
-[Contenido de esta sección...]
+*No descuides el don que hay en ti* (1Tim 4,14): es preciso volver una y otra vez al don recibido; «considera lo que realizas» ayuda a no acostumbrarse a la gracia. Quien está configurado con Cristo reitera en bien de los fieles los gestos ministeriales, que son gestos del mismo Señor; esta unión «tiende, por su propia naturaleza, a hacerse lo más profunda posible, implicando la mente, los sentimientos, la vida» (cf. *PDV*, 25). El sacerdote cultiva un creciente amor a la Sagrada Escritura, acercándose a la Palabra «con un corazón dócil y orante, para que […] engendre dentro de sí una mentalidad nueva: *la mente de Cristo*» (cf. *PDV*, 26). Busca también su modo de crecer en la formación intelectual: cursos con titulación, cursos no presenciales, programas de lectura.
 
-### 2. La renovación espiritual
+La configuración con Cristo se presentará en ocasiones en forma de cruz: al llegar a un destino difícil, la circunstancia de la desilusión puede convertirse en ocasión de amor y confianza —«conforma tu vida con el misterio de la cruz del Señor»—. No debe extrañar que la cruz le llegue en forma de luchas por la fidelidad: «piénsese en los sacrificios que impone la fidelidad conyugal: ¿no los habría de exigir la fidelidad sacerdotal?» (cf. *FES*, 3), en la libertad interior de sacrificio y de disciplina personal. Hay quienes descubren el peso de experiencias nunca afrontadas, descritas por el papa Francisco en referencia a las familias: «a veces las personas necesitan realizar a los cuarenta años una maduración atrasada que debería haberse logrado al final de la adolescencia»; «hay que hacer un proceso de liberación que jamás se enfrentó… reconocer la necesidad de sanar, pedir con insistencia la gracia de perdonar y de perdonarse, aceptar ayuda, buscar motivaciones positivas y volver a intentarlo» (cf. *AL*, 239-240).
 
-[Contenido de esta sección...]
+En torno a los cuarenta años pueden desencadenarse ciertas crisis: ese edad marca un delicado periodo de transición vital. Ante la rutina puede nacer un tedio existencial y un replanteamiento de la vida; el sacerdote puede sentir desilusión por la escasez de resultados: crisis de identidad con manifestaciones que van del acomodamiento y la mediocridad a nuevas formas de activismo desequilibrado o, en casos extremos, una doble vida; un vacío interior que busca colmarse con compensaciones. Es el momento de mayor riesgo de defección (la Iglesia constata que el mayor número de defecciones sacerdotales se da en torno a los cuarenta años). Sin embargo, quien preserva la cercanía con el director espiritual y el superior y persevera en las prácticas de vida espiritual percibe que este momento conduce a una fuerte purificación de su entrega, «una segunda respuesta a Cristo», en la que se le termina de entregar todo —la vanidad, el orgullo, el afán de mejorar a otros—; lo que sigue es una vida marcada por la creciente libertad interior y una nueva experiencia de gratuidad y alegría, el don de la paternidad espiritual (cf. *VC*, 70).
 
-## D. Años de madurez
+##### 2. La renovación espiritual
 
-[Contenido de esta sección...]
+El sacerdote necesita en algunos momentos una dedicación más intensa para la renovación espiritual: una parada en la vida para dar prioridad a «estar con Dios en la oración, convivir con sus hermanos, crecer en su compromiso de almas consagradas y reponer fuerzas» (cf. *CLC*, 115). La renovación ayuda a descubrir los cambios humanos de la edad y la obra de Dios en la propia vida, integrando la experiencia vivida y propiciando la madurez integral. La principal forma que propone la Legión es un periodo dedicado exclusivamente a esta finalidad en una comunidad constituida para ello: una modalidad breve de alrededor de dos meses y otra más prolongada de alrededor de un semestre, que busca responder de modo más profundo a la transición de la media edad —«para poder seguir corriendo con constancia en la carrera que nos toca, fijos los ojos en el que inició y completa nuestra fe, Jesús» (cf. Heb 12,2)—. Pueden considerarse también modalidad de renovación los estudios de licencia o especialización en una comunidad orientada a este fin, y los ejercicios espirituales de mes (cf. *NC*, 42). Cada uno, ayudado por su director espiritual y su superior, debe escoger aquello que necesite para lograr una auténtica renovación; se recomienda una primera experiencia antes de cumplir diez años de sacerdocio y otra unos años más adelante.
 
-## E. Años de ancianidad
+#### D. Años de madurez
 
-[Contenido de esta sección...]
+La vocación a la vida religiosa en la Legión, «desde el inicio hasta el final», es una vocación al amor, que ensancha el corazón, desprende del egoísmo y lanza al apostolado confiando en Dios. Hay una juventud de espíritu que permanece en el tiempo, porque el individuo encuentra en cada ciclo vital un cometido diverso, un modo específico de ser, servir y amar (cf. *VC*, 70). Los años de madurez están caracterizados por la plenitud de la vida activa y del testimonio: realización de proyectos al servicio de la comunidad, de la misión del Regnum Christi y de la Iglesia, con concreción, sencillez y sabiduría, mediante la predicación de retiros y ejercicios, conferencias, escritos y publicaciones, que suscita alabanza a Dios.
+
+«Puede suceder, cualquiera que sea el punto en que se encuentre el alma y cualquiera que sea la perfección en las virtudes, que tenga caídas» (cf. Orígenes), las cuales nada disminuyen de la santidad de quien se arrepiente y busca a Dios. Las tentaciones pueden asumir muchos rostros: lutos, enfermedad, relaciones difíciles, enamoramiento o soledad, alguna caída moral, oscuridad en la oración... «La fe siempre conserva un aspecto de cruz, alguna oscuridad que no le quita la firmeza de su adhesión» (cf. *EG*, 42). Puede darse la insatisfacción apostólica: hay que «no confundir la totalidad de la entrega con la totalidad del resultado»; es la época de «la búsqueda de lo esencial» (cf. *VC*, 70). En torno a los cincuenta años, tentación frecuente es ir cediendo al individualismo o al acomodamiento, evitar que lo molesten o involucren: es difícil entonces proponer cambios. La mayor edad permite afrontar las dificultades desde una fuerte experiencia de Dios y de su fidelidad, de la maternidad de la Iglesia y de la Legión, para llegar a un nuevo y más profundo equilibrio. No se progresa en solitario: la dirección espiritual y el diálogo con el superior siguen siendo imprescindibles; las personas adultas prefieren la pedagogía de la vida a la teoría, por lo que es positivo motivar encuentros para sacerdotes de esta edad. Los legionarios de edad madura pueden realizar un buen servicio en puestos de responsabilidad, ocasión de crecer en la paternidad espiritual: mostrarse disponible es «una expresión concreta del espíritu de soldado raso».
+
+#### E. Años de ancianidad
+
+Este periodo, caracterizado por la disminución de las fuerzas, constituye la última experiencia del camino, que reproduce en nosotros el misterio del Reino de Dios y va mucho más allá en sus frutos de lo mucho o lo poco que se haya podido hacer, pues Dios supera toda expectativa humana. Se reviven los acontecimientos de la vida desde la fe, la esperanza y el amor, se confirma que «todo es gracia» y se testimonia que «Dios es fiel». Se requiere un atento discernimiento para evitar dos escollos: considerarse anciano y limitarse antes de tiempo, o no saber reconocer el momento de retirarse libremente de los encargos y seguir apoyando las obras solo mediante el Consejo. El reto es aceptar las propias limitaciones, uniéndose a Cristo crucificado de una manera nueva y llevando a término la propia maduración: «mediante el sufrimiento maduran para el reino de Dios los hombres» (cf. *Salvifici doloris*, 21).
+
+Este tiempo se presta a una especial serenidad y abandono en Dios, evitando el pesimismo y cultivando la capacidad de perdonar y reconciliarse con las heridas: estos años llegan a ser «un nuevo noviciado en preparación para la muerte» —el progresivo alejamiento de la actividad es «una experiencia que puede ser altamente formativa», oportunidad de dejarse plasmar por la experiencia pascual, conformándose a Cristo crucificado; «este es un nuevo modo de vivir la consagración» (cf. *VC*, 70)—. Gran aportación de los ancianos es la que tienen que ver con los hermanos más jóvenes: acoger cordialmente a quienes inician el ministerio, edificarlos con la fidelidad a las *Constituciones*, volcar sus consejos y experiencias, estimularlos con el ejemplo; «la misión apostólica, antes que en la acción, consiste en el testimonio de la propia entrega plena a la voluntad salvífica del Señor»: oración asidua, aceptación paciente de la propia condición, disponibilidad para la dirección espiritual, la confesión y la guía en la oración (cf. *VC*, 43). La virtud característica ha de ser la generosidad; mucho ayudará que sepan participar sencillamente su sabiduría. «Todos los religiosos traten con gran aprecio y gratitud a los legionarios ancianos» (cf. *CLC*, 117): su presencia es un factor formativo para todos, y también sus debilidades físicas y psíquicas «son realidades bajo el influjo de la providencia divina». Visitar a los enfermos es una obra de misericordia corporal y un gran acto de caridad: *conmigo lo hicisteis* (Mt 25,40). En la organización de actividades formativas deben tomarse en cuenta los deseos y necesidades de los ancianos. Ha de cuidarse de modo especial el momento de la «pascua» personal, culmen de la experiencia consagrada, en que se consuma el don de sí y el abandono en los brazos del Padre: «la persona consagrada sabe que el Padre está llevando a cumplimiento en ella el misterioso proceso de formación iniciado tiempo atrás. La muerte será entonces esperada y preparada como acto de amor supremo y de entrega total de sí mismo» (cf. *VC*, 70).

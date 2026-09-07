@@ -12,54 +12,28 @@ tags: ["resumen", "habla señor que tu siervo escucha"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[vocación_sacerdotal]] — inquietudes e indicios de vocación en los adolescentes y jóvenes
+- [[discernimiento_vocacional]] — discernimiento adecuado al concluir los estudios preuniversitarios
+- [[madurez_espiritual]] — grado de madurez humana y cristiana suficiente para ingresar
+- [[noviciado_lc]] — ingreso en la Legión al que se orienta la decisión vocacional
+- [[formación_integral]] — el joven íntegramente formado como perfil de egreso
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `09_finalidad_del_centro_vocacional.md`
+### Finalidad del centro vocacional
 
+#### Finalidad específica
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+10. La finalidad específica del centro vocacional es ayudar a los adolescentes y jóvenes con inquietudes e indicios de vocación sacerdotal a adquirir un grado de madurez humana y cristiana suficiente para que, al concluir los estudios preuniversitarios, hayan hecho un discernimiento vocacional adecuado y eventualmente puedan «tomar una decisión informada, firme, responsable y libre acerca de su ingreso en la Legión». Las características de esta «madurez humana y cristiana suficientes» para ingresar al noviciado están descritas en la Ratio institutionis de los Legionarios de Cristo, y se recogen en el ideal del perfil de egreso presentado en este capítulo.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H2 | Finalidad del centro vocacional |
-| 3 | H3 | Finalidad específica |
-| 7 | H3 | Características de la maduraciónen el centro vocacional: |
-| 11 | H3 | El discernimiento y la decisión vocacional en el centrovocacional |
-| 15 | H3 | Perfil de egreso del alumno del centro vocacional |
+#### Características de la maduraciónen el centro vocacional:
 
+11. Como expresa el Concilio Vaticano II en la [[optatam_totius]], la naturaleza germinal del llamado al sacerdocio para un adolescente en discernimiento exige del centro vocacional ciertas condiciones para que el llamado pueda madurar.
 
-## Secciones incluidas
+#### El discernimiento y la decisión vocacional en el centrovocacional
 
-# Finalidad del centro vocacional
+12. La decisión madura del joven que concluye su período de formación en el centro vocacional implica un proceso de discernimiento que tiene tres etapas o fases fundamentales.
 
-[Contenido de esta sección...]
+#### Perfil de egreso del alumno del centro vocacional
 
-## Finalidad específica
-
-[Contenido de esta sección...]
-
-## Características de la maduraciónen el centro vocacional:
-
-[Contenido de esta sección...]
-
-## El discernimiento y la decisión vocacional en el centrovocacional
-
-[Contenido de esta sección...]
-
-## Perfil de egreso del alumno del centro vocacional
-
-[Contenido de esta sección...]
+13. Al final de los años de formación en el centro vocacional, el joven que ha pasado en él los años de su adolescencia debería ser, de acuerdo con la madurez propia de esa edad: un joven íntegramente formado, un cristiano convencido, un discípulo fiel y un apóstol ardiente.

@@ -12,31 +12,42 @@ tags: ["resumen", "habla señor que tu siervo escucha"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+Documentos eclesiales y de derecho propio citados a lo largo de la obra:
 
+- [[catecismo_de_la_iglesia_católica]] — citado con la sigla CCE
+- [[código_de_derecho_canónico]] — CIC, de 25 de enero de 1983
+- [[optatam_totius]] — Decreto conciliar sobre la formación sacerdotal (OT)
+- [[pastores_dabo_vobis]] — Exhortación apostólica postsinodal de Juan Pablo II (PDV)
+- [[evangelii_gaudium]] — Exhortación apostólica postsinodal del papa Francisco (EG)
+- [[ratio_institutionis]] — Christus vita vestra, Ratio institutionis de los Legionarios de Cristo (CVV)
+- [[constituciones_lc]] — Constituciones de la Congregación de los Legionarios de Cristo, 2014 (CLC)
+- [[ecyd]] — Estatutos del ECYD (EECYD)
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `02_siglas.md`
+### Siglas
 
+El apartado recoge las siglas empleadas en el documento, distribuidas en dos grupos: documentos eclesiales y documentos del derecho propio.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+#### Documentos eclesiales
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Siglas |
+- **AL** — Francisco, Exhortación apostólica postsinodal *Amoris laetitia* (19 de marzo de 2016).
+- **Aparecida** — Celam, Documento final de Aparecida (2007).
+- **CCE** — Catecismo de la Iglesia Católica (1 de junio de 2001²).
+- **CCIC** — Compendio del Catecismo de la Iglesia Católica (28 de junio de 2005).
+- **CIC** — Código de Derecho Canónico, en latín *Codex Iuris Canonici* (25 de enero de 1983).
+- **DVP** — Congregación para el Clero, *El don de la vocación presbiteral*, Ratio fundamentalis institutionis sacerdotalis (8 de diciembre de 2016).
+- **EG** — Francisco, Exhortación apostólica postsinodal *Evangelii Gaudium* (24 de noviembre de 2013).
+- **Youcat** — *Youth Catecism per conoscere e vivere meglio la fede nella Chiesa*, Città Nuova Editrice, Roma 2011².
+- **OT** — Concilio Vaticano II, Decreto *Optatam totius* (28 de octubre de 1965).
+- **PDV** — Juan Pablo II, Exhortación apostólica postsinodal *Pastores dabo vobis* (25 de marzo de 1992).
+- **PFSM** — Conferencia Episcopal Española, Plan de formación para los Seminarios Menores (24 de abril de 1991).
+- **SCa** — Benedicto XVI, Exhortación apostólica postsinodal *Sacramentum caritatis* (22 de febrero de 2007).
 
+#### Documentos del derecho propio
 
-## Secciones incluidas
-
+- **CCG 2014** — Comunicado del Capítulo General de la Congregación de los Legionarios de Cristo (2014²).
+- **CLC** — Constituciones de la Congregación de los Legionarios de Cristo (2014).
+- **CVV** — *Christus vita vestra*. Ratio institutionis de la Congregación de los Legionarios de Cristo (2017).
+- **EECYD** — Estatutos del ECYD (2016).
+- **NC** — Normas complementarias de las Constituciones de la Congregación de los Legionarios de Cristo (2014).

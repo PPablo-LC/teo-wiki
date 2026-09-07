@@ -12,31 +12,20 @@ tags: ["resumen", "ratio institutionis-christus vita vestra"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[formación_inicial]] — el itinerario de las etapas y su marco institucional
+- [[formación_permanente]] — meta del camino de maduración integral
+- [[profesión_religiosa]] — la profesión perpetua como momento de opción definitiva
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `11_parte_segunda_las_etapas_del_camino_perseverar_en_el_amor.md`
+### Parte segunda. Las etapas del camino: perseverar en el amor
 
+*Lo abracé y no lo solté (Cant 3,4)*
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+La Escritura propone la imagen de la vida humana como un camino con Dios hacia su plena posesión en el cielo, en la travesía de los israelitas desde Egipto hasta la Tierra Prometida. Virtud esencial en ese recorrido es la confianza en Dios, que no falla, aunque permite las pruebas para hacer madurar la fe de sus hijos: *para afligirte, para probarte y conocer lo que hay en tu corazón: si observas sus preceptos o no* (Dt 8,2).
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Parte segunda. |
+La Legión de Cristo ofrece a sus miembros un itinerario formativo basado en la tradición pedagógica de la Iglesia y de la Congregación y adaptado a las necesidades de las personas y de los tiempos. Consta de diversas etapas y señala a grandes rasgos los ritmos y especificidades de cada una: ofrece el marco institucional imprescindible para la labor formativa, dejando a la vez espacio para la adaptación y flexibilidad que requiere cada persona. Las etapas del camino buscan armonizar e integrar el crecimiento personal del legionario en su vocación, religiosa y sacerdotal, mirando a los requisitos de la Iglesia y de la Congregación, mediante un acompañamiento continuo y gradual.
 
+La profesión perpetua marca un momento de opción definitiva en la vida del religioso y determina en cierto sentido los objetivos de las primeras etapas de la formación inicial. Por estar el legionario llamado al sacerdocio, la preparación para recibir las sagradas órdenes y para el ejercicio del ministerio está presente desde el inicio y se intensifica en la etapa de teología.
 
-## Secciones incluidas
-
+Los estudios constituyen un elemento importante en el itinerario de la formación inicial y marcan el sucederse natural de las etapas. Sin embargo, no son el único elemento del itinerario personal, pues la formación no se logra por el simple pasar del tiempo ni por el mero sucederse de los años o etapas: la ordenación es «la meta de un camino espiritual verdaderamente cumplido», que de modo gradual habrá llevado al seminarista a adquirir conciencia de la llamada y de su identidad presbiteral, alcanzando la necesaria madurez humana, cristiana y sacerdotal (cf. *DVP*, 58 y 118).
