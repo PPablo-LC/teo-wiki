@@ -3,7 +3,7 @@ type: Persona
 title: "G.K. Chesterton"
 description: "Ensayista y apologista católico inglés (1874-1936), maestro del paradojo y del humor como acto de fe; influencia decisiva en la apologética del siglo XX."
 tags: ["hagiografía", "apologética", "literatura_católica"]
-timestamp: 2026-09-05
+timestamp: 2026-09-07
 ---
 
 # G.K. Chesterton
@@ -54,16 +54,24 @@ Chesterton es invocado en el número dedicado a la conversión en tres registros
 - **La casa con cien puertas.** Barron cita a Chesterton en la entrevista *Spotlight*: «La Iglesia es una casa con cien puertas, y no hay dos hombres que entren por exactamente el mismo ángulo» — cada conversión es única porque cada persona es única, y la gracia nos alcanza por caminos diversos. También: «La Iglesia Católica es la única cosa que salva al hombre de la esclavitud degradante de ser un hijo de su época» [EAC-18, 18].
 - **La ligereza de los ángeles.** Barron recuerda en la misma entrevista: «Los ángeles pueden volar porque se toman a sí mismos a la ligera», en el contexto del despojo del ego en la conversión bautismal [EAC-18, 18].
 
+### Según Evangelization & Culture n.º 19 «Artificial Intelligence» (EAC-19)
+
+Chesterton es invocado en el número dedicado a la [[inteligencia_artificial]] en dos registros:
+
+- **El epígrafe del poema sobre las máquinas (09_poetry_chatgpt.md).** El poema «Machines», generado por ChatGPT, lleva como epígrafe la sentencia de Chesterton: «It is only when they go wrong that machines remind you how powerful they are» («Solo cuando las máquinas se estropean te recuerdan lo poderosas que son»). La cita enmarca irónicamente toda la reflexión del poema sobre las máquinas que aprenden: su poder se revela precisamente en el fallo.
+- **La función de límites y parámetros en el arte (13_art.md).** Daniel Granitto, pintor de *Just Before Dawn* (comisión de Word on Fire), explica su decisión de no usar IA en su proceso: «En cierto modo, las limitaciones y los parámetros realmente me inspiran. G.K. Chesterton tiene unas percepciones magníficas sobre la función propia de los parámetros y los límites». Por eso, aun teniendo «todo internet a mano», solo usa fotos propias como fuente de imagen: el límite inspira, no constriñe, la creatividad.
+
 ## Relevancia teológica
 
 Chesterton demuestra que el humor no es lo contrario de la seriedad dogmática sino su aliado: solo una fe segura puede permitirse reír. Su apologética del paradojo (el cristianismo como respuesta que abraza ambos cuernos de cada dilema falso) anticipa la crítica contemporánea al relativismo.
 
 ## Ver también
 
-[[humor]], [[sátira]], [[soberbia]], [[alegría_cristiana]], [[c_s_lewis]], [[evangelization_and_culture_issue_8_humor]], [[eucaristía]], [[presencia_real]], [[adoración_eucarística]]
+[[humor]], [[sátira]], [[soberbia]], [[alegría_cristiana]], [[c_s_lewis]], [[evangelization_and_culture_issue_8_humor]], [[eucaristía]], [[presencia_real]], [[adoración_eucarística]], [[inteligencia_artificial]]
 
 ## Referencias
 
 - EAC-8, archivos 02, 04, 13, 14, 16, 18, 20
 - Ahlquist, Dale. «The Eucharistic Spirituality of G.K. Chesterton», en *Evangelization & Culture* 13 (Autumn 2022).
 - EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (08_poetry_the_convert.md; 18_spotlight_barron_on_conversion.md).
+- EAC-19, *Evangelization & Culture, Issue 19 — Artificial Intelligence* (Word on Fire Institute), 09_poetry_chatgpt.md (epígrafe); 13_art.md (Daniel Granitto).

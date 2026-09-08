@@ -12,34 +12,56 @@ tags: ["resumen", "capitulos lc frg"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[Asamblea_General_del_Regnum_Christi]]
+- [[Regnum_Christi]]
+- [[Comunión]]
+- [[Reconciliación]]
+- [[Perdón]]
+- [[Comunión_eclesial]]
 
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
 📄 **Fuente original:** `20_mensaje_de_la_asamblea_general_extraordinaria_de_2018_a_los_.md`
 
+Mensaje de la primera sesión de la [[Asamblea_General_del_Regnum_Christi]] sobre comunión y reconciliación, emitido en Roma el 18 de abril de 2018 (Prot. DG-RC 164-2018).
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+El documento se estructura en 10 puntos:
+
+1. **La comunión como don**: La experiencia de las primeras comunidades cristianas (*Hch* 4,32) refleja la comunión que Dios ha dado al [[Regnum_Christi]].
+
+2. **Alegría y retos de la comunión**: Los miembros de las distintas ramas, reunidos por primera vez, experimentaron alegría de estar juntos pero también los retos de escuchar, confiar y abrirse.
+
+3. **Heridas de la historia**: Los últimos años han sido difíciles; se han hecho más conscientes de las heridas provocadas unas a otras, a nivel personal e institucional, generando desconfianza y actitudes defensivas.
+
+4. **Historia de misericordia**: La historia del [[Regnum_Christi]] es una historia de misericordia y perdón de Dios. Se reconoce la necesidad de pedir perdón y perdonar.
+
+5. **El perdón como don y camino**: El perdón es un don de Dios que pone en juego la libertad humana. Solo cuando la herida es reconocida puede curarse.
+
+6. **Raíz de las heridas**: Falta de aceptación de unos y otros, que genera expectativas y no reconoce al hermano como don. Se reconoce la falta de conocimiento y valoración de las otras ramas, y la carencia de caridad en algunos momentos.
+
+7. **Reconciliación como aceptación del otro**: Reconciliarse supone aceptar al otro como «sacramento» de la presencia de Dios.
+
+8. **Mensaje de reconciliación**: La Asamblea quiere llevar un mensaje de reconciliación, paz y concordia.
+
+9. **Propuesta concreta**: Que en territorios y localidades se analicen los focos de tensión y se sugieran acciones concretas.
+
+10. **Invitación**: Celebrar la solemnidad del Sagrado Corazón con este enfoque, pidiendo a María intercesión.
+
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
-| 1 | H2 | Mensaje de la Asamblea General extraordinaria de 2018 a los miembros d |
+| 1 | H2 | Mensaje de la Asamblea General extraordinaria de 2018 a los miembros |
 
 
 ## Secciones incluidas
 
-# Mensaje de la Asamblea General extraordinaria de 2018 a los miembros del Regnum Christi sobre comunión y reconciliación
-
-[Contenido de esta sección...]
+- La comunión como don de Dios en el Regnum Christi
+- Retos de la comunión: escucha, confianza, apertura
+- Heridas de la historia institucional y personal
+- El perdón como don de Dios y camino humano
+- Raíz de las heridas: falta de aceptación y de caridad
+- Reconciliación como aceptación del hermano
+- Propuesta de acciones concretas en territorios y localidades

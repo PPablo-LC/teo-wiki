@@ -2,14 +2,14 @@
 type: Persona
 title: John Henry Newman
 tags: ["personas", "teólogos", "santos"]
-
-timestamp: 2026-09-05
+timestamp: 2026-09-07
 description: "John Henry Newman (1801-1890), cardenal de la Santa Iglesia Romana, teólogo, poeta y Doctor de la Iglesia (canonizado en 2019)."
 ---
+
 # John Henry Newman
 
 > Área: Personas / Teólogos / Santos
-> Última actualización: 2026-09-05
+> Última actualización: 2026-09-07
 
 ## Contexto histórico
 
@@ -76,9 +76,19 @@ En suma, para Newman la Iglesia necesita a la universidad y la universidad neces
 
 En el número dedicado a la conversión, Barron presenta a Newman —junto a Agustín y Edith Stein— como ejemplo de [[conversión]] **intelectual**: se convirtió desde el anglo-catolicismo del Movimiento de Oxford, puramente por motivos intelectuales, tras años de estudio de los Padres de la Iglesia y de la historia de la Iglesia primitiva que lo condujeron casi inexorablemente a Roma. Barron subraya el punto newmaniano esencial: **no podemos ser indiferentes acerca de lo que creemos**. Newman se negó a reducir la religión a la ética —a «abandonar la doctrina y quedarse con la conducta moral»—; la conversión intelectual es la respuesta a la cuestión de la verdad [EAC-18, 18_spotlight_barron_on_conversion.md].
 
+### Según EAC-19 — Word on Fire Institute
+
+En *Evangelization & Culture, Issue 19* (Artificial Intelligence), Newman aparece en el registro de la conversión:
+
+**Newman y la conversión de Jason Paone (10_spotlight_ressourcement.md).** En la entrevista con Tod Worner sobre el nacimiento de *The New Ressourcement*, Jason Paone, editor académico de Word on Fire, narra su trayectoria de conversión del evangelicalismo sectario a la Iglesia católica en 2017. Paone describe que, tras descubrir por accidente *Mere Christianity* de C.S. Lewis, estudió teología en Duke Divinity School y allí, por medio de los Padres de la Iglesia, comprendió la catolicidad de la Iglesia desde sus orígenes. Dos influencias decisivas lo condujeron finalmente a Roma: **John Henry Newman** y el profesor Reinhard Hütter [EAC-19, 10_spotlight_ressourcement.md].
+
+> «Allí, mi estudio de los Padres Antiguos me ayudó a ver lo católica que era la Iglesia desde el principio. Dos otras influencias que me condujeron finalmente a la Iglesia fueron John Henry Newman y un extraordinario profesor católico llamado Reinhard Hütter» (Paone, *E&C* 19).
+
+Paone subraya que la herencia intelectual y cultural de la cristiandad —que su comunidad evangélica le había ocultado— se abrió ante él como «ver color por primera vez», y que Newman fue parte central de esa apertura. El propio *New Ressourcement* se presenta como un homenaje al movimiento ressourcement del posguerra y como un nuevo retorno a las fuentes que inspira la labor académica de Barron, Levering y Paone.
+
 ## Ver también
 
-[[erik_varden]], [[san_bernardo]], [[león_xiv]], [[ejercicios_espirituales_2026]], [[conversión]], [[metanoia]]
+[[erik_varden]], [[san_bernardo]], [[león_xiv]], [[ejercicios_espirituales_2026]], [[conversión]], [[metanoia]], [[ressourcement]], [[inteligencia_artificial]]
 
 ## Referencias
 
@@ -87,3 +97,4 @@ En el número dedicado a la conversión, Barron presenta a Newman —junto a Agu
 - EAC-16, *Evangelization & Culture, Issue 16 — Pope Benedict XVI* (Summer 2023), Word on Fire Institute (Rowland, Bradford).
 - EAC-17, *Evangelization & Culture, Issue 17 — Education* (Autumn 2023), Word on Fire Institute (Levering, 10_minds.md; Minnis, 19_special_feature_minnis.md; Barron, 02_from_the_desk.md).
 - EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (18_spotlight_barron_on_conversion.md).
+- EAC-19, *Evangelization & Culture, Issue 19 — Artificial Intelligence* (Spring 2024), Word on Fire Institute (10_spotlight_ressourcement.md).

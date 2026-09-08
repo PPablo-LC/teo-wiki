@@ -2,7 +2,7 @@
 type: Concepto Teológico
 title: "Poesía"
 description: "Lenguaje trascendente y arte paradigmático: conocimiento no analítico de lo real que nombra el misterio y conduce la mente al asombro ante Dios."
-timestamp: 2026-08-23
+timestamp: 2026-09-07
 tags:
   - teología_pastoral
   - belleza
@@ -13,7 +13,7 @@ tags:
 # Poesía
 
 > Área: Teología pastoral / Estética / Espiritualidad
-> Última actualización: 2026-08-23
+> Última actualización: 2026-09-07
 
 ## Definición
 
@@ -51,6 +51,12 @@ La tradición católica ha sido profundamente poética: la Biblia es en gran par
 
 Tom Zampino colaboró en EAC-8 con poesía humorística; la revista ya mostraba sensibilidad por el verso como vehículo de verdad. Véase [[humor]].
 
+### Según Evangelization & Culture (EAC-19)
+
+**La poesía no puede ser producida por IA (Worner).** Tod Worner, que llegó tarde a la poesía, recuerda versos profundamente humanos: el «Stopping by Woods on a Snowy Evening» de Robert Frost («Los bosques son hermosos, oscuros y profundos / pero tengo promesas que cumplir / y millas que recorrer antes de dormir»), el «Spring and Fall» de Gerard Manley Hopkins («Es el mal que el hombre lleva en su nacimiento, / es a Margaret a quien lloras»), el «For Whom the Bell Tolls» de John Donne («La muerte de cada hombre me disminuye, porque estoy involucrado en la humanidad… la campana dobla por ti») y el «Funeral Blues» de W.H. Auden («Ya no se quieren las estrellas; apagadlas todas, / guardad la luna y desmantelad el sol»). ¿Podría la IA componer estas muestras de verso? «Oh, supongo». Dado el procesamiento en nanosegundos de tema, metro y rima, «podría escupir una "obra maestra"». «Pero su "arte" no habrá brotado de la pluma de un poeta —un poeta que anheló, que sufrió, que meditó, que se dolió». La IA «no puede enseñarme a sentir; no puede discernir la fuente de mi anhelo, explicar mi desesperación o lidiar con la muerte: en esencia, la IA no puede explicar mi esencia». Solo su Creador, o sus hermanos y hermanas en la carne, pueden hacerlo: «la IA siempre será inteligente, pero siempre será artificial» [EAC-19, 04_midnight_oil.md, L59-85].
+
+**El poema «Machines» compuesto por IA (ChatGPT).** El fascículo incluyó un poema original sobre IA compuesto por la propia IA, precedido por un epígrafe de Chesterton: «Es solo cuando las máquinas se equivocan cuando te recuerdan lo poderosas que son» [EAC-19, 09_poetry_chatgpt.md, L3-5]. El poema «Machines» imita el lenguaje de la creación («En el reino donde los circuitos tejen sus sueños, / mentes artificiales en silenciosos arroyos, / una sinfonía de código y luz / despierta en las profundidades de la noche»; «invisibles semillas que aprenden y conocen»), habla de aprender de datos infinitos y vastos, de «imitar, razonar, atreverse a soñar» y de una danza «entre el cielo y el infierno». Su inclusión ilustra la naturaleza del notorio [[simulacro_de_personalidad]] que la [[inteligencia_artificial]] produce: la máquina compone verso, pero al hacerlo exhibe justo lo que el ensayo de Worner niega al arte mecánico —el poema imita el lenguaje de la creación sin ser creador, actuando como ejemplo de la simulación de lo humano que la IA produce [EAC-19, 09_poetry_chatgpt.md, L7-50].
+
 ## Distinciones importantes
 
 - **Poeta vs. místico (Raïssa Maritain):** «el poeta progresa hacia la Palabra, el místico tiende hacia el Silencio»; el acto poético permanece sometido a la necesidad de forma y «termina en la palabra». Exigir de la poesía la plenitud de conocimiento propio de las vías místicas prepara «amargas decepciones».
@@ -82,3 +88,4 @@ Tom Zampino colaboró en EAC-8 con poesía humorística; la revista ya mostraba 
 - *Evangelization & Culture*, No. 9 "Poetry" (Autumn 2021) — artículos de Barron, Zimmerer, Worner, Carl, Hren, Wilson, Cording, Holyoak, Petiprin, Becklo.
 - Maritain, Jacques. *Creative Intuition in Art and Poetry*. Cluny Media, 2018 [1953].
 - Wilson, James Matthew. *The Fortunes of Poetry in an Age of Unmaking*. Wiseblood Books, 2017.
+- *Evangelization & Culture*, No. 19 "Artificial Intelligence" (2026) — 04_midnight_oil.md, 09_poetry_chatgpt.md.

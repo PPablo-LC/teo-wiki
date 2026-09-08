@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Gratitud
 tags: ["moral"]
 
-timestamp: 2026-06-10
+timestamp: 2026-09-07
 description: "La gratitud es la virtud moral que inclina a reconocer y corresponder los beneficios recibidos, especialmente de Dios."
 ---
 # Gratitud
 
 > Área: Moral
-> Última actualización: 2026-06-10
+> Última actualización: 2026-09-07
 
 ## Definición
 
@@ -38,6 +38,14 @@ Las deudas se ordenan jerárquicamente: a Dios (religión), a los padres (piedad
 Royo Marín incluye la gratitud entre las virtudes derivadas de la justicia, como parte de la virtud de la religión (ofrecer a Dios acciones de gracias) y de la piedad filial. La bondad del corazón se manifiesta en ser profundamente agradecido, no olvidar los servicios recibidos. La gratitud a los padres y bienhechores es un deber grave de justicia y caridad.
 
 [TPCr, Tercera Parte, Libro II, Cap. 2 (virtud de la justicia)]
+
+### Según Evangelization & Culture (EAC-19)
+
+**Reverencia y gratitud frente a la tecnocracia (von Hildebrand).** Von Hildebrand sostiene que solo cumpliremos la gran tarea de restringir la tecnología a su dominio propio «si nuestro acercamiento al mundo y al ser es un acercamiento reverente»: «la virtud de la reverencia es la que se encuentra específicamente en peligro en nuestra época, o más bien, la que más falta hace en nuestros días». Esta reverencia renueva continuamente la conciencia de nuestro camino hacia Dios [EAC-19, 11_minds.md, L125]. Incluso los bienes que son meros instrumentos —las máquinas y herramientas— deben abordarse «como dones de Dios y agradecer de que se nos permita usarlos»: «en última instancia, nunca somos amos, sino siempre administradores»; todo debe acercarse «en la actitud de religión hacia Dios, en una conciencia de pertenecer a Dios y de ser sus siervos» [EAC-19, 11_minds.md, L91].
+
+**La renuencia a la gratitud en el siglo tecnológico (von Hildebrand).** Al examinar el pretendido progreso moral, von Hildebrand observa una dialéctica: «si hoy notamos un aumento del sentido de justicia social, podemos notar igualmente una deplorable renuencia a ser agradecidos por cualquier cosa»: «los hombres ya no quieren recibir nada como regalo; quieren reclamar todo como un derecho». El progreso en la percepción de unos valores va acompañado del declive en la percepción de otros, y así no puede hablarse de un progreso unívoco en la percepción de valores [EAC-19, 11_minds.md, L65-71].
+
+**Recordar los dones sencillos (Worner).** En las alegrías sin ambages del avance tecnológico, Tod Worner invita a no olvidar «las maravillas que ya poseemos. Simples. Trascendentes. Alegres maravillas. La mirada de los ojos inocentes de tu hijo. El crujir de las últimas hojas tenaces del otoño. La sensación de paz en una tarde de domingo adormecida. El cálido abrazo de un amigo largamente separado». Demasiado a menudo «pasamos como sonámbulos junto a estas bendiciones, bendiciones que brillantemente (pero sigilosamente) agracian cada uno de nuestros días»: damos por sentado lo que «fue generosamente concedido en primer lugar». Hay que abrazar el bien en la tecnología moderna, «como las abejas de san Basilio, que toman solo el néctar que necesitan y dejan el resto atrás», pero saboreando «la eterna "preciosísima frescura de las cosas profundas"» y glorificando la maravilla de cada bendición dada por Dios [EAC-19, 04_midnight_oil.md, L89-97].
 
 ## Distinciones importantes
 
@@ -68,3 +76,4 @@ León XIV presenta la gratitud como la actitud fundamental de la vida sacerdotal
 - [CEC §1418; §2215; §2220; §2637-2638]
 - [TPCr, Tercera Parte, Libro II, Cap. 2]
 - [L_XIV-ClerRom, 19.02.2026]
+- Evangelization & Culture, Issue 19 (EAC-19): 11_minds.md, 04_midnight_oil.md

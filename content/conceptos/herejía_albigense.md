@@ -30,7 +30,7 @@ La herejía albigense llegó a Francia desde Italia y los Balcanes, donde había
 - Albigenses = cátaros: dos nombres para la misma herejía
 - Dualismo radical: el Dios del Antiguo Testamento era considerado el dios malo
 - El *Consolamentum* era el único «sacramento»; el bautismo y la Eucaristía eran rechazados
-- La cruzada albigense fue la primera内战 de Francia, no solo una campaña militar
+- La cruzada albigense fue la primera guerra civil de Francia, no solo una campaña militar
 - La herejía se distingue del protestantismo: los albigenses negaban la materialidad de la creación
 
 ## Relaciones doctrinales

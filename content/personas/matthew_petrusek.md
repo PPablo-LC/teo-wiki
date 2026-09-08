@@ -2,14 +2,14 @@
 type: Persona
 title: "Matthew R. Petrusek"
 tags: ["teólogos", "ética", "autores_word_on_fire"]
-timestamp: 2026-09-05
+timestamp: 2026-09-07
 description: "Matthew R. Petrusek, PhD, director senior del Word on Fire Institute y profesor de ética católica; autor y conferencista."
 ---
 
 # Matthew R. Petrusek
 
 > Área: Personas / Teólogos
-> Última actualización: 2026-09-05
+> Última actualización: 2026-09-07
 
 ## Contexto histórico
 
@@ -32,10 +32,20 @@ Petrusek desarrolla la teología de la conversión en dos registros complementar
 
 En la sección *Ethics* («The Failure to Evangelize», 11_ethics.md), Petrusek es autor del artículo sobre la responsabilidad de evangelizar.
 
+### Según EAC-19 — Word on Fire Institute
+
+**Matthew R. Petrusek** («A Word from the Institute», 03_word_from_institute.md) aborda la cuestión de si la tecnología es moralmente neutra:
+
+- **¿Es neutral la tecnología?**: desde el griego clásico *techne* —«habilidad» o «oficio»—, parecería que sí: si se emplea para el bien, merece alabanza; para el mal, condena. Pero la IA *se siente* distinta: cuando las categorías se mezclan y la máquina parece mejor «siendo humana» que los humanos mismos, ¿estamos ante una tecnología categóricamente diferente? «Sí. Y no».
+- **Un salto cuántico en la historia de la tecnología**: la imprenta, la radio, la televisión, los reactores nucleares y el smartphone alteraron fundamentalmente la interacción humana con el mundo; la IA tomará su lugar en ese panteón de revolucionarios tecnológicos. Pero la pregunta esencial permanece: «No importa cuán avanzada se vuelva la IA — incluso si se integra en robots humanoides de silicona de aspecto autónomo que nos cautiven con su verosimilitud —, confundir la IA con la humanidad es y será siempre un error categórico».
+- **La razón primordial: el alma**: la IA no es ni será nunca un ser humano porque «no tiene alma, y nosotros sí. Es solo una máquina digital, y nosotros no». Todos somos **unidad de cuerpo y alma**, y las almas no pertenecen, por definición, al reino del tiempo y el espacio; por eso nada en el tiempo y el espacio —incluido el programa generativo más potente imaginable— puede crear o reemplazar el alma: «Esa prerrogativa pertenece al Creador y solo al Creador».
+- **Alterará todo y nada en absoluto**: como las innovaciones que cambiarán el paradigma que la precedieron, la IA planteará nuevas amenazas y nuevas posibilidades, pero «el problema esencial y la solución esencial permanecen sin cambios: somos cuerpos animados creados a imagen y semejanza de Dios; todos estamos caídos; sin embargo, todos estamos invitados a romper las cadenas del pecado y de la muerte entrando libremente en relación con el Señor crucificado y resucitado y con su Iglesia». Si la IA puede ser otra herramienta para difundir esta Buena Nueva, «alabado sea Dios y pase el algoritmo».
+
 ## Ver también
 
-[[conversión]], [[metanoia]], [[conversión_continua]], [[agustín_de_hipona]], [[matrimonio]], [[gracia]], [[providencia]], [[encarnación]]
+[[conversión]], [[metanoia]], [[conversión_continua]], [[agustín_de_hipona]], [[matrimonio]], [[gracia]], [[providencia]], [[encarnación]], [[inteligencia_artificial]], [[unidad_alma_cuerpo]], [[imagen_de_dios]]
 
 ## Referencias
 
 - EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (Matthew R. Petrusek, 03_a_word_from_the_institute__matthew_r_petrusek.md y 11_ethics.md).
+- EAC-19, *Evangelization & Culture, Issue 19 — Artificial Intelligence* (Spring 2024), Word on Fire Institute (Matthew R. Petrusek, 03_word_from_institute.md).

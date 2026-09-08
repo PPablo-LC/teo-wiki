@@ -4,7 +4,7 @@ title: "capítulo 9 los estudios en la congregación 97 nota cf poi 61"
 fuente: Constutuciones_de_los_Legionarios_de_Cristo-2020
 capítulo: 29
 timestamp: 2026-08-24
-description: "Resumen de 'capítulo 9 los estudios en la congregación 97 nota cf poi 61' — Constutuciones_de_los_Legionarios_de_Cristo-2020"
+description: "Resumen de 'capítulo 9 los estudios en la Congregación' — Constituciones de los Legionarios de Cristo (2020)"
 tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 ---
 
@@ -12,40 +12,70 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[estudios_religiosos]]
+- [[formación_intelectual]]
+- [[ciencias_sagradas]]
+- [[filosofía]]
+- [[teología]]
+- [[liturgia]]
+- [[pastoral]]
+- [[apostolado]]
+- [[sacerdocio]]
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `capítulo_9_los_estudios_en_la_congregación_97_nota_cf_poi_61.md`
+El capítulo 9 de las *Constituciones* de los Legionarios de Cristo (2020) trata sobre los [[estudios_religiosos]] en la Congregación como parte integral de la [[formación_intelectual]]. Se abre citando *Pastores Dabo Vobis* sobre la formación intelectual de los candidatos al sacerdocio como justificación específica del ministerio ordenado.
 
+### Metas generales
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+El legionario debe seguir madurando su respuesta a la vocación, profundizando en el espíritu de la Legión y progresando en las demás áreas de su formación integral. La misión exige una preparación intelectual sólida, profunda y selecta, asumiendo con responsabilidad la formación académica, siempre como apóstol de Cristo.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | **Capítulo 9. Los estudios en la Congregación** ^[97](nota: Cf. *PoI*  |
-| 5 | H5 | Metas generales |
-| 11 | H5 | Contenidos |
-| 25 | H5 | Ambiente |
-| 29 | H5 | Actitudes |
-| 33 | H5 | Enfoque apostólico |
-| 37 | H5 | Estudios de filosofía y teología |
+### Contenidos
 
+La [[formación_intelectual]] se centra en la adquisición de un amplio y sólido conocimiento de las [[ciencias_sagradas]], con cultura general adecuada a las necesidades de la Iglesia y la sociedad. Abarca: formación humanística y científica, formación filosófica, formación teológica, litúrgica y pastoral, y especialización y formación permanente. Se procura que el mayor número de religiosos obtenga grados académicos universitarios, especialmente en ciencias sagradas.
+
+### Ambiente
+
+Fomentar en la casa un ambiente adecuado de silencio, oración, estudio, disciplina y convivencia fraterna, que ayude a superar las dificultades del período de estudios y favorezca la preparación para las órdenes sagradas.
+
+### Actitudes
+
+Los religiosos acérquense al estudio de las ciencias sagradas con la razón iluminada por la fe, para que las verdades estudiadas aumenten el conocimiento de Cristo, sean alimento de la vida espiritual y principios de vida que ayuden a profundizar en la inserción en la Iglesia.
+
+### Enfoque apostólico
+
+Toda la formación del legionario ha de tener un enfoque [[apostolado|apostólico]], orientada a comunicar a Cristo y su mensaje.
+
+### Estudios de filosofía y teología
+
+Los religiosos realicen los estudios filosóficos y teológicos de acuerdo con las disposiciones de la Iglesia para la preparación académica de las [[sacramentos|órdenes sagradas]], con la exigencia y espíritu propio de los estudios universitarios. Se procure que los legionarios se especialicen en alguna ciencia eclesiástica o disciplina útil para su ministerio, obteniendo títulos universitarios eclesiásticos o civiles.
 
 ## Secciones incluidas
 
-## **Capítulo 9. Los estudios en la Congregación** ^[97](nota: Cf. *PoI* , 61 y 102-107.)^
+## Capítulo 9. Los estudios en la Congregación
 
-[Contenido de esta sección...]
+La formación intelectual como preparación específica para el ministerio ordenado, con enfoque apostólico.
+
+### Metas generales
+
+El estudio como parte de la maduración vocacional y progreso en la formación integral.
+
+### Contenidos
+
+Amplio espectro de formación: humanística, científica, filosófica, teológica, litúrgica, pastoral y especialización.
+
+### Ambiente
+
+Ambiente de silencio, oración, estudio, disciplina y convivencia fraterna en las casas de formación.
+
+### Actitudes
+
+Acercamiento al estudio con razón iluminada por la fe, aumentando el conocimiento de Cristo.
+
+### Enfoque apostólico
+
+La formación orientada siempre a comunicar a Cristo y su mensaje.
+
+### Estudios de filosofía y teología
+
+Estudios universitarios conforme a las disposiciones eclesiásticas, con especialización para el ministerio.

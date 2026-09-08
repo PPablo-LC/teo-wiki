@@ -2,14 +2,14 @@
 type: Persona
 title: Romano Guardini
 tags: ["personas", "teólogos", "siglo_xx"]
-
-timestamp: 2026-08-23
+timestamp: 2026-09-07
 description: "Romano Guardini (1885–1968), teólogo italo-alemán; su El Señor ilumina la obediencia de Cristo: la voluntad del Padre es el amor del Padre."
 ---
+
 # Romano Guardini
 
 > Área: Personas / Teólogos
-> Última actualización: 2026-08-23
+> Última actualización: 2026-09-07
 
 ## Contexto histórico
 
@@ -36,13 +36,26 @@ En *Evangelization & Culture, Issue 16* (verano de 2023), Roland Millare present
 - **Influencia en Ratzinger**: el cristocentrismo, el logos-hetero y el personalismo de Ratzinger proceden en gran parte de Guardini, junto a Buber, Scheler y la fenomenología. Ratzinger lo conocería también a través de la universidad de Múnich [EAC-16, 08, 15].
 - **Fe no aislada y testimonio**: «no puedo construir mi propia fe personal en un diálogo privado con Jesús»; la «mayor necesidad» de la historia presente es «gente que haga creíble a Dios en este mundo» [EAC-16, 08].
 
+### Según EAC-19 — Word on Fire Institute
+
+En *Evangelization & Culture, Issue 19* (Artificial Intelligence), Guardini es invocado en dos piezas:
+
+**Referencia de Andre Vlok para la gestión de conflictos con IA (06_stacks.md).** En «Hamlet's Mirror: A Reflection on Conflict and Artificial Intelligence», el especialista en resolución de conflictos Andre Vlok presenta su libro *Hamlet's Mirror* como un examen de los conflictos humanos que la inteligencia artificial añade o agrava (guerra, geopolítica, economía, lugar de trabajo y vida personal). Aunque no es un libro de fe, llega a muchas de las conclusiones de un libro católico sobre inteligencia artificial y, para ello, «hago un uso extenso de palabras e ideas de figuras como el Papa Francisco, Josef Pieper, Romano Guardini y Dietrich von Hildebrand». El libro reconoce así la [[dignidad_humana]] única y el papel especial del hombre en el plan cósmico de Dios como marco para un manejo moderno de los conflictos [EAC-19, 06_stacks.md].
+
+**Guardini y la contemplación de las tecnologías modernas (10_spotlight_ressourcement.md).** En la entrevista con Tod Worner sobre el nacimiento de *The New Ressourcement*, Jason Paone describe el proyecto del primer número de la revista, entre cuyos ensayos «Peter Casarella se apoya en Romano Guardini para contemplar el carácter de las tecnologías modernas». Junto a la propuesta de D.C. Schindler (una política metafísica) y las siete lecciones de Tracey Rowland, el ensayo de Casarella forma parte de las propuestas amplias sobre la forma de la teología católica del futuro [EAC-19, 10_spotlight_ressourcement.md].
+
 ## Ver también
 
 - [[evangelization_and_culture_issue_10_freedom]]
 - [[obediencia]]
+- [[ressourcement]]
+- [[inteligencia_artificial]]
+- [[josef_pieper]]
+- [[dignidad_humana]]
 
 ## Referencias
 
 - Todd, Sr. Mary Madeline OP. «Freedom in Obedience», en *Evangelization & Culture* 10 (Winter 2021).
 - Guardini, Romano. *The Lord*. Henry Regnery, 1954.
 - EAC-16, *Evangelization & Culture, Issue 16 — Pope Benedict XVI* (Summer 2023), Word on Fire Institute (Millare).
+- EAC-19, *Evangelization & Culture, Issue 19 — Artificial Intelligence* (Spring 2024), Word on Fire Institute (Vlok, 06_stacks.md; Paone, 10_spotlight_ressourcement.md).

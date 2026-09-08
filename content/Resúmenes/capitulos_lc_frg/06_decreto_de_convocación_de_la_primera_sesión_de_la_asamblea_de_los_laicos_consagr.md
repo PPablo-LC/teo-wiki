@@ -12,25 +12,24 @@ tags: ["resumen", "capitulos lc frg"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[Laicos_Consagrados_del_Regnum_Christi]]
+- [[Asamblea_General_del_Regnum_Christi]]
+- [[Regnum_Christi]]
 
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
 📄 **Fuente original:** `06_decreto_de_convocación_de_la_primera_sesión_de_la_asamblea_d.md`
 
+Decreto del responsable general de los [[Laicos_Consagrados_del_Regnum_Christi]], Dr. Jorge López González (Acto de gobierno LCRC 24-2017, Roma, 15 de septiembre de 2017), que convoca la primera sesión de la Asamblea General extraordinaria de los [[Laicos_Consagrados_del_Regnum_Christi]].
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+**Fecha y lugar**: del 27 de diciembre de 2017 al 3 de enero de 2018, en el Centro de retiros Santa María del Lago, Chapala, Jalisco, México.
+
+**Fundamento jurídico**: n. 61 § 2 de los *Estatutos de la Asociación Laicos Consagrados del Regnum Christi* y n. 153 3.º del *Reglamento de la Asociación*.
+
+El decreto fue firmado por el Dr. Jorge López González (responsable general) y Manuel Cordero Arjona (secretario general).
+
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
@@ -40,6 +39,5 @@ Instrucciones para el agente:
 
 ## Secciones incluidas
 
-# Decreto de convocación de la primera sesión de la Asamblea de los Laicos Consagrados del Regnum Christi
-
-[Contenido de esta sección...]
+- Decreto de convocatoria de la primera sesión de la Asamblea extraordinaria
+- Fecha, lugar y fundamento jurídico

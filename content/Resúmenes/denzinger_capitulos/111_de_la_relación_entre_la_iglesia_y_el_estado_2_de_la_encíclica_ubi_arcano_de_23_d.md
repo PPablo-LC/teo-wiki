@@ -12,94 +12,156 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[iglesia_y_estado]] — potestad civil y bienes superiores de la salvación eterna
+- [[tomismo]] — método, doctrina y principios del Doctor Angélico en la enseñanza
+- [[gracia]] — reviviscencia de los méritos y dones; auxilios de la gracia en la educación
+- [[realeza_de_cristo]] — derecho de naturaleza y de redención; triple poder de Cristo Rey
+- [[unión_hipostática]] — fundamento del imperio de Cristo sobre todas las criaturas
+- [[reinado_social_de_cristo]] — imperio sobre individuos y sociedades domésticas y civiles
+- [[laicismo]] — condena de la peste del laicismo y de las escuelas neutras
+- [[sagrada_escritura]] — autenticidad del Comma Iohanneum; interpretación y custodia por la Iglesia
+- [[ecumenismo]] — condena de las reuniones para la unidad de todos los cristianos
+- [[liturgia]] — nexo de la sagrada Liturgia con el dogma y la Iglesia
+- [[masturbación]] — ilicitud de la masturbación procurada directamente
+- [[educación_cristiana]] — fin, sujeto y métodos de la educación; derechos de la Iglesia, la familia y el Estado
+- [[familia]] — misión educativa de la familia y derecho anterior a la sociedad civil
+- [[estado]] — función de promover y proteger, sin absorber a la familia
+- [[matrimonio]] — institución divina, bienes de la prole, la fidelidad y el sacramento
+- [[castidad]] — educación integral y condena de la llamada educación sexual y de la coeducación
+- [[iglesia]] — columna y fundamento de la verdad; madre y educadora
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `0113_PIO_XI_1922-1939.md`
+### PIO XI 1922-1939
 
+## De la relación entre la Iglesia y el Estado (2) [De la Encíclica Ubi arcano, de 23 de diciembre de 1922]
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+- D-2190: La Iglesia mira como cosa vedada el inmiscuirse sin razón en el arreglo de los negocios terrenos y meramente políticos; pero con propio derecho se esfuerza para que el poder civil no tome de ahí pretexto para oponerse a los bienes más elevados en que se cifra la salvación eterna de los hombres, ni para intentar su daño con leyes y mandatos inicuos, ni para poner en peligro la constitución divina de la Iglesia, ni para conculcar los sagrados derechos de Dios mismo en la sociedad civil.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | PIO XI 1922-1939 |
-| 3 | H2 | De la relación entre la Iglesia y el Estado (2) [De la Encíclica Ubi a |
-| 9 | H2 | De la ley y modo de seguir la doctrina de Santo Tomás de Aquino (3) [D |
-| 27 | H2 | De la reviviscencia de los méritos y de los dones (3) [De la Bula del  |
-| 33 | H2 | De la realeza de Cristo.(1) [De la Encíclica Quas Primas, de 11 de dic |
-| 47 | H2 | Del laicismo (2) [De la misma Encíclica Quas primas, de 11 de diciembr |
-| 55 | H2 | Del «Comma Iohanneum» (4) [Del Decreto del Santo Oficio, de 13 de ener |
-| 61 | H2 | De las reuniones para procurar la unidad de todos los cristianos (1) [ |
-| 69 | H2 | Del nexo de la sagrada Liturgia con la Iglesia (3) ..[De la Constituci |
-| 75 | H2 | De la masturbación procurada directamente (1) [Del Decreto del Santo O |
-| 81 | H2 | De la educación cristiana de la juventud (2) [De la Encíclica Divini i |
-| 107 | H2 | El padre es principio de la generación, de la educación, de la discipl |
-| 159 | H2 | Del matrimonio cristiano (1) [De la Carta Encíclica Casti Connubii, de |
+## De la ley y modo de seguir la doctrina de Santo Tomás de Aquino (3) [De la Encíclica Studiorum Ducem, de 29 de junio de 1923]
 
+- D-2191: Pío XI quiere que todo cuanto sus predecesores —sobre todo León XIII (Aeterni Patris, 1879) y Pío X (Doctoris Angelici, 1914)— decretaron, y él mismo mandó el año pasado (Officiorum omnium, 1922), lo atiendan e inviolablemente lo guarden quienes en las escuelas de los clérigos desempeñan el magisterio de las disciplinas superiores; cumplirán con su deber si aman ardientemente al Doctor Aquinatense, revuelven día y noche sus escritos y comunican ese amor a sus alumnos.
+- D-2192: Se desea la honesta emulación dentro de la justa libertad, de donde procede el progreso de los estudios, pero no la detracción que rompe los lazos de la caridad. Sea cosa santa lo que manda el Código de Derecho Canónico (can. 1366 § 2): que los profesores traten la filosofía racional y la teología según el método, doctrina y principios del Doctor Angélico, y aténganse a esta norma de modo que puedan llamarle verdaderamente su maestro; pero no se exija unos a otros más de lo que exige la Iglesia, pues en las materias disputadas en las escuelas católicas a nadie se ha de prohibir seguir la sentencia más verosímil. (Nota: a esto se refieren las tesis [ASS 6 (1914) 383 ss] propuestas como «principios y enunciados mayores» sin imponer deber alguno de abrazarlas todas [Benedicto XV, Ench. Cleric. 929]; los argumentos de Santo Tomás en favor de la existencia de Dios son «aun hoy día... los más firmes de todos».)
+
+## De la reviviscencia de los méritos y de los dones (3) [De la Bula del jubileo Infinita Dei misericordia, de 2 de mayo de 1924]
+
+- D-2193: Lo que se daba entre los hebreos en el año sabático —recuperación de los bienes que habían pasado a otra propiedad, vuelta de los siervos a la familia primitiva y perdón de las deudas [Lev. 25, 10]— se cumple con más facilidad entre nosotros en el año de expiación: los que con espíritu de penitencia cumplen durante el magno jubileo los saludables mandatos de la Sede Apostólica reparan y recuperan íntegramente la abundancia de méritos y dones que pecando perdieron, se eximen del aspérrimo dominio de Satanás, adquieren nuevamente la libertad con que Cristo nos liberó [Gal. 4, 31] y quedan plenamente absueltos, en virtud de los méritos copiosísimos de Jesucristo, de la B. Virgen María y de los Santos, de todas las penas que habían de pagar por sus culpas.
+
+## De la realeza de Cristo.(1) [De la Encíclica Quas Primas, de 11 de diciembre de 1925]
+
+- D-2194: Con San Cirilo Alejandrino [In Ioh. 1, 12], el Señor obtiene la dominación sobre todas las criaturas no por haberla arrancado a la fuerza ni por otro medio adquirido, sino por su misma esencia y naturaleza; su realeza se funda en la maravillosa unión que llaman hipostática. Cristo no solo ha de ser adorado como Dios, sino que ángeles y hombres han de obedecer y estar sujetos a su imperio de hombre: aun por el solo título de la unión hipostática, Cristo tiene poder sobre todas las criaturas. Impera además por derecho adquirido, el de la redención: comprados no con oro o plata, sino con la sangre de Cristo [1 Petr. 1, 18-19], ya no somos nuestros, pues Cristo nos compró a alto precio [1 Cor. 6, 20].
+- D-2195: La fuerza y naturaleza de este principado se contiene en un triple poder: legislativo (ha de creerse con fe católica que Cristo Jesús fue dado a los hombres como Redentor y, al mismo tiempo, como legislador [Concilio de Trento, v. 831]; los Evangelios no tanto cuentan que dio leyes, cuanto lo presentan dándolas), judicial (el Padre todo juicio lo dio al Hijo [Ioh. 5, 22], comprendida la potestad de imponer por propio derecho premios y castigos), y ejecutivo (a su imperio es menester que obedezcan todos, unido a la promulgación de suplicios contra los contumaces). Este reino es principalmente espiritual y a lo espiritual pertenece, como muestran las palabras de la Biblia y el modo de obrar de Cristo.
+- D-2196: Torpemente erraría quien negara a Cristo hombre el imperio sobre cualesquiera cosas civiles, pues tiene de su Padre un derecho tan absoluto sobre todas las cosas creadas que todas están puestas bajo su arbitrio; pero mientras vivió en la tierra se abstuvo en absoluto de ejercer ese dominio. Con León XIII (Annum sacrum, 1899), su imperio comprende a todos los hombres, sin diferencia entre individuos y sociedades domésticas y civiles: en nadie hay salud fuera de él [Act. 4, 12] y es autor de la prosperidad y de la auténtica felicidad. (Nota: San Agustín, Ep. ad Macedonium: «No es el Estado feliz de otro modo que el hombre...».)
+
+## Del laicismo (2) [De la misma Encíclica Quas primas, de 11 de diciembre de 1925]
+
+- D-2197: Al mandar que se dé culto a Cristo Rey por la universidad del nombre católico, se atiende a la necesidad de los tiempos presentes y se pone un remedio principal a la peste que ha inficionado a la sociedad humana. (Nota: peste de nuestra edad es el que llaman laicismo con sus errores y criminales intentos: se empezó negando el imperio de Cristo sobre todas las naciones; se negó a la Iglesia el derecho de enseñar al género humano, de dar leyes y de regir a los pueblos; se igualó la religión de Cristo con las falsas religiones; se la sometió al poder civil; algunos pensaron que debía sustituirse por una religión natural, y no han faltado Estados que creyeron poder pasar sin Dios.)
+
+## Del «Comma Iohanneum» (4) [Del Decreto del Santo Oficio, de 13 de enero de 1897, y la Declaración del Santo Oficio, de 2 de junio de 1927]
+
+- D-2198: A la pregunta de si puede negarse con seguridad o, por lo menos, ponerse en duda que sea auténtico el texto de San Juan (1 Ioh. 5, 7): «Porque tres son los que dan testimonio en el cielo: El Padre, el Verbo y el Espíritu Santo, y estos tres son una sola cosa», se respondió el 13 de enero de 1897: negativamente. La declaración de 2 de junio de 1927 (publicada en EB 121) aclara que el decreto fue dado para reprimir la audacia de los doctores particulares que se arrogaban el derecho de rechazar totalmente o poner en duda la autenticidad del Comma Iohanneum, pero no quiso impedir que los escritores católicos investigaran más a fondo el asunto y, pesados los argumentos de una y otra parte con la moderación que requiere la gravedad de la cosa, se inclinaran a la sentencia contraria a la genuinidad, con tal que declaren estar dispuestos a atenerse al juicio de la Iglesia, a la que Jesucristo encomendó el cargo no solo de interpretar las Sagradas Letras, sino también el de custodiarlas fielmente.
+
+## De las reuniones para procurar la unidad de todos los cristianos (1) [Del Decreto del Santo Oficio, de 8 de julio de 1927]
+
+- D-2199: No es lícito a los católicos asistir o favorecer las reuniones, asociaciones, congresos o sociedades de acatólicos cuyo fin es que cuantos reclaman para sí de un modo u otro el nombre de cristianos se unan en una sola alianza religiosa; hay que atenerse totalmente al Decreto del Santo Oficio de 4 de julio de 1919 sobre la participación de los católicos en la sociedad «para procurar la unidad de la cristiandad» (cf. la Encíclica de Pío XI Mortalium animos, de 6 de enero de 1928).
+
+## Del nexo de la sagrada Liturgia con la Iglesia (3) ..[De la Constitución Apostólica Divini cultus, de 20 de diciembre de1928]
+
+- D-2200: Habiendo la Iglesia recibido de Cristo, su Fundador, el cargo de guardar la santidad del culto divino, a ella le toca —salva la sustancia del sacrificio y de los sacramentos— mandar ceremonias, ritos, fórmulas, preces y canto del augusto y público ministerio cuyo nombre peculiar es Liturgia. Es cosa sagrada: por ella nos levantamos a Dios y con Él nos unimos, atestiguamos nuestra fe y nos obligamos a Él por los beneficios recibidos. De ahí el íntimo parentesco entre la sagrada Liturgia y el dogma y entre el culto cristiano y la santificación del pueblo; por eso Celestino I: «La ley de creer ha de establecerla la ley de orar» [v. 139].
+
+## De la masturbación procurada directamente (1) [Del Decreto del Santo Oficio, de 2 de agosto de 1929]
+
+- D-2201: No es lícita la masturbación directamente procurada para obtener esperma con que se descubra y, en lo posible, se cure la enfermedad contagiosa de la blenorragia. Resp.: Negativamente.
+
+## De la educación cristiana de la juventud (2) [De la Encíclica Divini illius magistri, de 31 de diciembre de 1929]
+
+- D-2202: Como toda la razón de la educación se dirige a la formación que el hombre debe conseguir en esta vida mortal para alcanzar el fin supremo a que lo destinó su Creador, no puede darse educación plena y perfecta, en el presente orden de las cosas, sino la que se llama cristiana, después de que Dios se reveló en su Unigénito, único que es camino, verdad y vida [Ioh. 14, 6].
+- D-2203: La misión de educar pertenece necesariamente a la sociedad. Tres son las sociedades necesarias en que el hombre queda inscrito desde su nacimiento: la doméstica y la civil, de orden natural, y la Iglesia, de orden sobrenatural. La sociedad doméstica, instituida por Dios para la procreación y educación de los hijos, antecede por naturaleza a la civil, pero es sociedad imperfecta; la sociedad civil, por disponer de todo lo necesario para el bien común de la vida terrena, es perfecta y aventaja a la comunidad familiar; la Iglesia, sociedad sobrenatural que abraza a todo el género humano, es en sí misma perfecta y suprema en su orden. La educación pertenece a estas tres sociedades en medida proporcional y correspondiente al fin propio de cada una.
+- D-2204: La educación pertenece de manera eminente a la Iglesia, por doble título sobrenatural. La primera razón se funda en la suprema autoridad y misión del magisterio que el divino Fundador confió a la Iglesia [Mt. 28, 18-20], con la inmunidad de todo error y el mandato de enseñar su doctrina; por lo cual la Iglesia ha sido constituida columna y fundamento de la verdad, para enseñar la fe divina, guardar el depósito íntegro e inviolado y formar a los hombres a la honestidad de costumbres (Pío IX, Quum non sine). La segunda razón nace del sobrenatural oficio de madre: la Iglesia, esposa purísima de Cristo, reparte la vida de la gracia y la acrece con sus sacramentos y enseñanzas. «No tendrá a Dios por padre quien no quisiere tener a la Iglesia por madre» (San Agustín).
+- D-2205: La Iglesia promueve las letras, las ciencias y las artes en cuanto necesarias o útiles para la educación cristiana, aun fundando y sosteniendo escuelas e instituciones propias (CIC 1375); también la llamada educación física puede aprovechar o dañar a la cristiana. Esta acción cede en provecho de las familias y naciones y no trae inconveniente alguno a las ordenaciones civiles: la Iglesia no se opone a que sus escuelas se conformen a las legítimas disposiciones de los gobernantes y está dispuesta a ponerse de acuerdo con ellos. Tiene además el derecho, de que no puede abdicar, y el deber, que no puede abandonar, de vigilar toda la educación que a sus hijos se dé en cualquier institución pública o privada, no solo en la doctrina religiosa, sino en toda disciplina en cuanto relacionada con la religión y la moral (CIC 1381 y 1382).
+- D-2206: Con el derecho de la Iglesia concuerdan los derechos de la familia y del Estado y los derechos de cada ciudadano a la justa libertad de la ciencia: el orden sobrenatural, en que se fundan los derechos de la Iglesia, no destruye ni merma el orden natural, lo levanta y perfecciona, y cada uno de los dos órdenes presta al otro un auxilio y complemento proporcionado a su propia naturaleza y dignidad, pues ambos proceden de Dios, que no puede dejar de estar de acuerdo consigo mismo [Deut. 32, 4].
+
+## El padre es principio de la generación, de la educación, de la disciplina y de todo lo que atañe a la perfección de la vida humana» (1).
+
+- D-2207: Con la misión de la Iglesia concuerda maravillosamente la misión de la familia, pues ambas proceden de Dios de modo muy semejante: Dios, en el orden natural, comunica a la familia de modo inmediato su fecundidad —principio de vida y, por ende, de educación para la vida— juntamente con la autoridad, principio de orden. El Doctor Angélico: «El padre carnal participa particularmente de la razón de principio, que de modo universal se halla en Dios» [S. th. 2-2, q. 102, a. 1]. (Nota: tiene la familia inmediatamente del Creador la misión, y por ende el derecho, de educar a la prole, derecho que no puede renunciarse ni ser infringido por potestad alguna de la tierra.)
+- D-2208: De la misión educativa de la Iglesia y la familia dimanan máximas ventajas a la sociedad entera, sin daño a los verdaderos y propios derechos del Estado, concedidos por el autor mismo de la naturaleza no por título de paternidad, sino por la autoridad que tiene para promover el bien común en la tierra, que es su propio fin.
+- D-2209: La educación no pertenece de manera igual a la sociedad civil que a la Iglesia y a la familia, sino de otra manera que responda a su fin propio: el bien común en el orden temporal, que consiste en la paz y seguridad en el ejercicio de los derechos y en la máxima abundancia de las cosas espirituales y perecederas. Doble es la función de la autoridad civil: proteger y promover, pero en manera alguna absorber y suplantar a la familia y a los individuos. Es deber del Estado proteger con sus leyes el derecho anterior de la familia de educar cristianamente a la prole, secundar el derecho sobrenatural de la Iglesia y suplir la obra de los padres si faltara por negligencia, incapacidad o indignidad, siempre en conformidad con los derechos naturales de la prole y los sobrenaturales de la Iglesia; en ese caso excepcional el Estado no suplanta a la familia, sino que atiende a una necesidad.
+- D-2210: Es derecho y misión del Estado proteger la educación moral y religiosa de la juventud, promover de muchos modos la educación e instrucción (favoreciendo la acción de la Iglesia y las familias, complementándola, fundando escuelas e instituciones propias) y mandar que todos los ciudadanos reciban el grado de cultura que el bien común exige. Pero no es lícito que el Estado monopolice toda la educación, forzando a las familias contra sus deberes de conciencia a mandar sus hijos a las escuelas del Estado; sí puede instituir escuelas propias para la administración de la cosa pública o la defensa de la paz.
+- D-2211: A la sociedad civil y al Estado pertenece la educación cívica, en su parte positiva —proponer públicamente las cosas que inviten la voluntad hacia lo honesto— y en su parte negativa —precaver e impedir lo que se opone—; esta educación, como haya de conformarse a las leyes de la equidad, no puede oponerse a la doctrina de la Iglesia, divinamente constituida maestra de esas leyes.
+- D-2212: El sujeto de la educación cristiana es el hombre todo entero, compuesto de espíritu y cuerpo, redimido por Cristo y restituido a la sobrenatural dignidad de hijo adoptivo de Dios, sin aquellos privilegios preternaturales por los que su cuerpo era inmortal y su alma equilibrada e íntegra. Sobreviven en él las fealdades que fluyeron de la culpa de Adán, particularmente la debilidad de la voluntad y las desenfrenadas concupiscencias del alma [Prov. 22, 15]; por eso hay que reprimir las inclinaciones malas, fomentar las buenas, imbuir la mente con las doctrinas que de Dios vienen y fortalecer la voluntad con los auxilios de la gracia divina, sin los cuales ni podrá nadie moderar sus concupiscencias.
+- D-2213: Toda pedagogía que se contente con las meras fuerzas de la naturaleza y rechace o descuide lo que por institución divina contribuye a la formación de la vida cristiana es falsa y llena de error; también lo es todo método educativo que no tenga en cuenta la mancha transmitida por los primeros padres ni la gracia divina, como los sistemas que ponen el fundamento de la educación en que los niños se formen a sí mismos según su plena inclinación, repudiando los consejos de mayores y maestros. Si se reconociera la colaboración del adolescente en su propia educación y se rechazara solo la violencia y la aspereza (sin confundirlas con la justa corrección), la cosa sería verdadera, pero en modo alguno nueva, pues eso mismo ha enseñado la Iglesia.
+- D-2214: Mucho más perniciosas son las doctrinas sobre seguir absolutamente como guía a la naturaleza en lo que atañe a la integridad de las costumbres y a la castidad: yerran quienes defienden el método llamado educación sexual, estimando poder precaver a los jóvenes contra el placer de la lujuria por medios puramente naturales, iniciándolos e instruyéndolos sin distinción de sexo y aun públicamente y exponiéndolos prematuramente a las ocasiones. No reconocen la nativa fragilidad de la naturaleza humana ni la ley insita en nuestros miembros que combate contra la ley de la mente [Rom. 1, 23]; los jóvenes caen en los pecados torpes más por debilidad de la voluntad, expuesta a los halagos y desprovista de los auxilios divinos, que por falta de conocimiento. Si hubiera que dar a algún joven alguna instrucción, han de emplearse las cautelas y artes que no son desconocidas de los educadores cristianos.
+- D-2215: Es erróneo y pernicioso para la educación cristiana el método de formación llamado coeducación. Uno y otro sexo han sido constituidos por la sabiduría de Dios para que en la familia y en la sociedad se completen mutuamente y formen una conveniente unidad, justamente por su misma diferencia de cuerpo y alma, que debe mantenerse en la educación mediante la conveniente distinción y separación, adecuada a las edades y condiciones, no solo en las escuelas —señaladamente en los años de la adolescencia— sino también en los ejercicios de gimnasia y deporte, con la cristiana modestia de las niñas.
+- D-2216: Para procurar una perfecta educación es menester que el ambiente que rodea al niño corresponda al fin: la familia es el primer ambiente, destinado por Dios precisamente para esta misión. Es más constante y segura la educación recibida en la familia bien ordenada y morigerada, tanto más eficaz cuanto los padres y domésticos van con el ejemplo de virtud delante de los niños.
+- D-2217: A las débiles fuerzas de la naturaleza humana, decaída por la culpa originaria, atendió Dios con los auxilios abundantes de su gracia y con la copiosidad de medios de que dispone la Iglesia para purificar las almas y levantarlas a la santidad: la Iglesia, gran familia de Cristo, es la educadora que se adapta y une como ninguna con las familias particulares.
+- D-2218: Las nuevas generaciones debían instruirse en las artes y disciplinas por las que prospera la sociedad civil, y para ello no bastaba la familia: de ahí tuvieron principio los públicos institutos, primero por la acción mancomunada de la Iglesia y de la familia, y mucho después por la del Estado. Las instituciones literarias y las escuelas fueron por su naturaleza como un subsidio y casi complemento de la Iglesia y de la familia; las escuelas públicas no solo no pueden oponerse a una y otra, sino que deben estar de acuerdo con ellas, de suerte que escuela, familia e Iglesia formen como un santuario único de la educación cristiana.
+- D-2219: Las escuelas que llaman neutras o laicas socavan y trastornan todo fundamento de la educación cristiana, pues de ellas se excluye la religión; solo en apariencia son neutras, pues de hecho son o se convierten en enemigas declaradas de la religión. Se reiteran y confirman las protestas de Pío IX y León XIII y las prescripciones de los sagrados cánones que prohíben a los niños católicos frecuentar por ninguna causa las escuelas neutras o mixtas, a las que será lícito asistir solo según el prudente juicio del Ordinario en determinadas circunstancias y con las convenientes cautelas (CIC 1374); tampoco se tolera aquella escuela —y menos si es «única»— en que, si bien se da a los católicos la instrucción religiosa por separado, no son católicos los maestros que instruyen promiscuamente.
+- D-2220: No basta que en una escuela se dé instrucción religiosa para que satisfaga los derechos de la Iglesia y de la familia: es preciso que toda la educación y enseñanza —maestros, métodos, libros, en lo que atañe a cualquier disciplina— estén imbuidos y penetrados de espíritu cristiano bajo la dirección y maternal vigilancia de la Iglesia, de modo que la religión constituya no solo el fundamento, sino la cúspide de toda la educación, también en las disciplinas superiores. Con palabras de León XIII: no solo se ha de enseñar en determinadas horas la religión, sino que todo el resto de la formación debe respirar sentimientos de piedad (Militantis Ecclesiae, 1897).
+- D-2221: Todo cuanto hacen los fieles para promover y defender la escuela católica para sus hijos es obra de religión y misión principalísima de la Acción Católica. Al procurar los fieles la escuela católica no hacen obra de partido político, sino que cumplen un deber de religión que les exige su conciencia; no pretenden separar a sus hijos de la disciplina y espíritu del Estado, antes bien educarlos en él del modo más perfecto, pues el verdadero católico, formado en la doctrina católica, es por ello el mejor ciudadano y el mejor patriota.
+- D-2222: La saludable eficacia de las escuelas no ha de atribuirse tanto a las buenas leyes cuanto a los buenos maestros: preparados en su disciplina, dotados de las cualidades intelectuales y morales que su cargo reclama, ardientes en divina caridad para con los jóvenes. Bendice a los religiosos y religiosas dedicados a la enseñanza y a los maestros de ambos sexos unidos en congregaciones, que trabajan en «el arte de las artes y la ciencia de las ciencias» (San Gregorio Nacianceno), y ruega al Señor de la mies que envíe más operarios de la educación cristiana.
+- D-2223: Es menester dirigir y vigilar la educación del joven, que es «de cera para doblarse al vicio» (Horacio), en cualquier ambiente de vida en que se halle, apartándolo de las malas ocasiones y procurándole las buenas, porque corrompen las buenas costumbres las conversaciones malas [1 Cor. 15, 33]. (Nota: esta vigilancia no exige separar a los jóvenes de la sociedad humana, sino armarlos y fortalecerlos cristianamente contra los halagos y errores del mundo [1 Ioh. 2, 16], de modo que sean, con Tertuliano, «coposeedores del mundo, pero no del error».)
+- D-2224: Fin propio e inmediato de la educación cristiana es, con la cooperación de la gracia divina, hacer al hombre auténtico y perfecto cristiano: expresar y formar a Cristo mismo en los que renacieron por el bautismo [Gal. 4, 19; Col. 3, 4], de suerte que la vida de Jesús se manifieste en nuestra carne mortal [2 Cor. 4, 11]. El verdadero cristiano no es otro que el hombre sobrenatural que siente, juzga y obra de modo constante y congruente conforme a la recta razón, sobrenaturalmente ilustrada por los ejemplos y doctrina de Jesucristo, es decir, el hombre que se distingue por su auténtica firmeza de carácter; el hombre de sólido carácter es solo aquel que sigue las eternas razones de la justicia, dando a Dios lo que a Dios es debido. (Nota: el verdadero cristiano no abdica de la gestión de las cosas de la vida ni amengua sus facultades naturales, sino que las desarrolla y perfecciona armonizándolas con la vida sobrenatural.)
+
+## Del matrimonio cristiano (1) [De la Carta Encíclica Casti Connubii, de 31 de diciembre de 1930]
+
+- D-2225: Quede asentado, como fundamento inconmovible e inviolable, que el matrimonio no fue instituido ni establecido por obra de los hombres, sino por obra de Dios; que fue protegido, confirmado y elevado con leyes del autor y del restaurador de la naturaleza [Gen. 1, 27 s; 2, 22 s; Mt. 19, 3 ss; Eph. 5, 28 ss], leyes que no pueden estar sujetas al arbitrio de los hombres ni al acuerdo contrario de los mismos cónyuges. Esta es la doctrina de las Sagradas Letras, la constante tradición y la solemne definición del Concilio de Trento [v. 969 ss]. Aun siendo el matrimonio de institución divina, la voluntad humana tiene en él una parte nobilísima: cada matrimonio particular no se realiza sin el libre consentimiento de ambos esposos, acto tan necesario que no puede ser suplido por potestad humana alguna (CIC 1081); pero esta libertad solo tiene por fin que conste si los contrayentes quieren contraer matrimonio y con esta persona; la naturaleza del matrimonio está totalmente sustraída a la libertad del hombre: una vez contraído, está el hombre sujeto a sus leyes divinas y sus propiedades esenciales (Santo Tomás, Suppl. q. 49, a. 3: la fidelidad y la prole se originan en el matrimonio en virtud del mismo pacto conyugal). (Nota: por el matrimonio se unen y funden las almas antes y más estrechamente que los cuerpos, por determinación firme de las voluntades; de esa unión surge el vínculo sagrado e inviolable, que hace este contrato totalmente diverso de los ayuntamientos de las bestias y de las inconstantes uniones humanas.)
+- D-2226: La legítima autoridad tiene el derecho y está obligada por el deber de reprimir, impedir y castigar las uniones torpes que se oponen a la razón y a la naturaleza. Con León XIII (Rerum novarum): en la elección del género de vida está en la potestad y albedrío de cada uno tomar uno de los dos partidos, o seguir el consejo de Jesucristo sobre la virginidad o ligarse con el vínculo del matrimonio; ninguna ley humana puede privar al hombre del derecho natural y originario de casarse ni circunscribir la causa principal de las nupcias [Gen. 1, 28].
+- D-2227: Con San Agustín (De bono coniug.): «Tres son los bienes por los que las nupcias son buenas: la prole, la fidelidad y el sacramento». En la fidelidad se atiende a que fuera del vínculo conyugal no se unan con otro o con otra; en la prole, a que se reciba con amor, se críe con benignidad y se eduque religiosamente; en el sacramento, a que la unión no se rompa y el repudiado o repudiada no se una con otro. Es como la regla de las nupcias, por la que se embellece la fecundidad de la naturaleza o se reprime el desorden de la incontinencia.
+- D-2228: La prole ocupa el primer lugar entre los bienes del matrimonio. El Creador del género humano, que quiso valerse de los hombres como cooperadores en la propagación de la vida, lo enseñó en el paraíso al instituir el matrimonio: «Creced y multiplicaos y llenad la tierra» [Gen. 1, 28]. San Agustín lo deduce de las palabras del Apóstol a Timoteo: «Quiero que las que son jóvenes se casen... para que engendren hijos» [1 Tim. 5, 14].
+- D-2229: Los padres cristianos están destinados no solo a propagar y conservar el género humano, ni a producir cualesquiera adoradores del Dios verdadero, sino a dar descendencia a la Iglesia de Cristo, a procrear conciudadanos de los santos y domésticos de Dios [Eph. 2, 19]. Aunque los cónyuges cristianos no son capaces de transmitir la santificación a la prole (la generación natural se convirtió en camino de la muerte, por el que pasa el pecado original), les toca ofrecer su descendencia a la Iglesia, para que esta madre fecundísima la regenere por el bautismo y la haga miembro vivo de Cristo.
+- D-2230: Al bien de la procreación se añade la debida educación de la prole. A quienes dio potestad y derecho de engendrar, Dios les atribuyó el derecho y el deber de educar; la prole no puede bastarse a sí misma, ni en lo natural ni en lo sobrenatural, y por muchos años necesita del auxilio, instrucción y educación de los otros. Este derecho y deber pertenece ante todo a quienes por la generación empezaron la obra de la naturaleza, a quienes se les veda exponerla a ruina segura dejándola sin acabar; en el matrimonio, por estar los padres unidos con vínculo indisoluble, siempre está a mano la mutua ayuda. Todo honesto ejercicio de la facultad procreadora es derecho y privilegio del solo matrimonio y debe encerrarse dentro del santuario de la vida conyugal.
+- D-2231: El segundo bien del matrimonio es la fidelidad: la mutua lealtad de los cónyuges en el cumplimiento del contrato, de suerte que lo que se debe únicamente al otro cónyuge ni se le niegue ni a otro se le permita. Exige ante todo la absoluta unidad del matrimonio, preestablecida por el Creador en el matrimonio de los primeros padres; la Ley evangélica restableció íntegramente la prístina y perfecta unidad y derogó toda dispensación. Cristo no solo condenó la poligamia, la poliandria sucesiva o simultánea y cualquier acto externo deshonesto, sino también los mismos pensamientos y deseos voluntarios [Mt. 5, 28], palabras que ni con el consentimiento del otro cónyuge pueden anularse, pues expresan una ley de Dios y de la naturaleza que ninguna voluntad puede invalidar. (Nota: las mutuas relaciones familiares de los cónyuges deben distinguirse por la nota de la castidad, de modo que el bien de la fidelidad resplandezca con el decoro debido.)
 
 ## Secciones incluidas
 
 ## PIO XI 1922-1939
 
-[Contenido de esta sección...]
+Documentos de Pío XI (D-2190 a D-2231).
 
 # De la relación entre la Iglesia y el Estado (2) [De la Encíclica Ubi arcano, de 23 de diciembre de 1922]
 
-[Contenido de esta sección...]
+La Iglesia no se inmiscuye sin razón en los negocios terrenos, pero con propio derecho impide que el poder civil se oponga a la salvación eterna o a la constitución divina de la Iglesia (D-2190).
 
 # De la ley y modo de seguir la doctrina de Santo Tomás de Aquino (3) [De la Encíclica Studiorum Ducem, de 29 de junio de 1923]
 
-[Contenido de esta sección...]
+Obligación de enseñar la filosofía y la teología según el método, doctrina y principios del Doctor Angélico, dentro de la justa libertad en las cuestiones disputadas (D-2191 a D-2192).
 
 # De la reviviscencia de los méritos y de los dones (3) [De la Bula del jubileo Infinita Dei misericordia, de 2 de mayo de 1924]
 
-[Contenido de esta sección...]
+En el año de expiación del jubileo, los penitentes reparan y recuperan íntegramente los méritos y dones perdidos y quedan absueltos de todas las penas debidas (D-2193).
 
 # De la realeza de Cristo.(1) [De la Encíclica Quas Primas, de 11 de diciembre de 1925]
 
-[Contenido de esta sección...]
+La realeza de Cristo se funda en la unión hipostática y en la redención; su principado se contiene en un triple poder y es principalmente espiritual, con imperio sobre todas las cosas y sobre todos los hombres (D-2194 a D-2196).
 
 # Del laicismo (2) [De la misma Encíclica Quas primas, de 11 de diciembre de 1925]
 
-[Contenido de esta sección...]
+El laicismo, peste de la edad, recibe remedio con el culto a Cristo Rey (D-2197).
 
 # Del «Comma Iohanneum» (4) [Del Decreto del Santo Oficio, de 13 de enero de 1897, y la Declaración del Santo Oficio, de 2 de junio de 1927]
 
-[Contenido de esta sección...]
+La autenticidad de 1 Ioh. 5, 7 no puede negarse con seguridad ni ponerse en duda; no se impide a los escritores católicos investigar, ateniéndose al juicio de la Iglesia (D-2198).
 
 # De las reuniones para procurar la unidad de todos los cristianos (1) [Del Decreto del Santo Oficio, de 8 de julio de 1927]
 
-[Contenido de esta sección...]
+No es lícito a los católicos asistir o favorecer las reuniones acatólicas para la unidad religiosa (D-2199).
 
 # Del nexo de la sagrada Liturgia con la Iglesia (3) ..[De la Constitución Apostólica Divini cultus, de 20 de diciembre de1928]
 
-[Contenido de esta sección...]
+La Iglesia ordena la Liturgia, sagrada y unida al dogma; la ley de creer la establece la ley de orar (D-2200).
 
 # De la masturbación procurada directamente (1) [Del Decreto del Santo Oficio, de 2 de agosto de 1929]
 
-[Contenido de esta sección...]
+Ilícita la masturbación directamente procurada aun para obtener esperma con fines médicos (D-2201).
 
 # De la educación cristiana de la juventud (2) [De la Encíclica Divini illius magistri, de 31 de diciembre de 1929]
 
-[Contenido de esta sección...]
+La educación pertenece proporcionalmente a las tres sociedades: familia, Estado e Iglesia; la Iglesia, por su magisterio y su maternidad, tiene el derecho eminente de educar y de vigilar toda la educación de sus hijos (D-2202 a D-2206).
 
 # El padre es principio de la generación, de la educación, de la disciplina y de todo lo que atañe a la perfección de la vida humana» (1).
 
-[Contenido de esta sección...]
+Misión y derechos educativos de la familia; deber del Estado de proteger y promover sin absorber ni suplantar; condena de las escuelas neutras, de la educación sexual naturalista y de la coeducación; fin de la educación cristiana: formar a Cristo en el hombre (D-2207 a D-2224).
 
 # Del matrimonio cristiano (1) [De la Carta Encíclica Casti Connubii, de 31 de diciembre de 1930]
 
-[Contenido de esta sección...]
+El matrimonio, instituido por Dios, con libre consentimiento pero sustraído en su naturaleza al arbitrio humano; bienes de la prole, la fidelidad y el sacramento; condena de la poligamia y de las uniones torpes (D-2225 a D-2231).

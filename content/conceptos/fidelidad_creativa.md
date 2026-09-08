@@ -35,7 +35,7 @@ León XIV recoge implícitamente esta noción al afirmar que «el don, como sabe
 
 - Fidelidad creativa vs. tradicionalismo: el tradicionalismo repite fórmulas sin asimilarlas vitalmente; la fidelidad creativa las hace vivir de nuevo
 - Fidelidad creativa vs. progresismo: el progresismo rompe con la Tradición para innovar; la fidelidad creativa innova desde la Tradición
-- Res源泉ment vs. arqueologismo: el retorno a las fuentes no es una restauración del pasado sino una reactualización viva
+- Ressourcement vs. arqueologismo: el retorno a las fuentes no es una restauración del pasado sino una reactualización viva
 
 ## Relaciones doctrinales
 

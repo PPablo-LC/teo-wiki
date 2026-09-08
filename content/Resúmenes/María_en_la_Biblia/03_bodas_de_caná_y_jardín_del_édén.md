@@ -37,7 +37,7 @@ Este verso se usa a menudo para argumentar que Jesús rechaza a María. Sin emba
 
 ### María como nueva Eva en Caná
 
-En el Edén, la primera Eva劝说 a Adán a desobedecer a Dios. En Caná, la nueva Eva (María) lleva las necesidades de los invitados a su hijo y les dice a los servidores que obedezcan a Jesús. La primera Eva fue madre de todos los vivientes (Gn 3,20); la nueva Eva se convierte en madre de todos los que viven en Cristo.
+En el Edén, la primera Eva persuadió a Adán a desobedecer a Dios. En Caná, la nueva Eva (María) lleva las necesidades de los invitados a su hijo y les dice a los servidores que obedezcan a Jesús. La primera Eva fue madre de todos los vivientes (Gn 3,20); la nueva Eva se convierte en madre de todos los que viven en Cristo.
 
 ### Las bodas como imagen de la nueva alianza
 

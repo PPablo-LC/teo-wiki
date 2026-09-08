@@ -81,7 +81,7 @@ Los Concilios Ecuménicos reafirman la plenitud del cumplimiento mesiánico en C
 - El *sentido pleno* de la profecía se revela solo a la luz de su cumplimiento en Cristo, lo cual no anula sino que perfecciona el sentido literal.
 
 **Unidad de las profecías:**
-A pesar de su分散iedad temporal (más de un milenio entre los textos más antiguos y los más tardíos), las profecías mesiánicas presentan una notable coherencia interna en torno al perfil del Mesías, lo cual la teología católica interpreta como signo de la inspiración divina.
+A pesar de su dispersión temporal (más de un milenio entre los textos más antiguos y los más tardíos), las profecías mesiánicas presentan una notable coherencia interna en torno al perfil del Mesías, lo cual la teología católica interpreta como signo de la inspiración divina.
 
 ## Relaciones doctrinales
 

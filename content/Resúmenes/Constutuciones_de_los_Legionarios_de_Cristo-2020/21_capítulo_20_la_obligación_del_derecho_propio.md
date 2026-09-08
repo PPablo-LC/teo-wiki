@@ -12,25 +12,36 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[constituciones_legionarios_de_cristo]] — junto con los códigos secundarios, conforman el derecho propio de la Congregación.
+- [[normas_complementarias]] — códigos secundarios debidamente promulgados que integran el derecho propio.
+- [[profesión_religiosa_legionaria]] — compromiso por el que el legionario sigue el camino de perfección trazado por las *Constituciones*.
+- [[perfección_cristiana]] — camino de perfección evangélica en el seguimiento de Cristo que trazan las prescripciones disciplinares.
+- [[obediencia]] — responsabilidad de los superiores de fomentar con su testimonio la observancia de las *Constituciones*.
+- [[autoridad]] — facultad de los superiores de dispensar temporalmente de normas disciplinares del derecho propio.
+- [[derecho_canónico]] — marco del derecho universal en el que se inserta el derecho propio.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
 📄 **Fuente original:** `capítulo_20_la_obligación_del_derecho_propio.md`
 
+### Capítulo 20. La obligación del derecho propio
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+##### El derecho propio
+
+**234.** Las *Constituciones* y los códigos secundarios debidamente promulgados conforman el derecho propio de la Congregación, que todos están obligados a observar.
+
+##### Cómo obligan las Constituciones
+
+**235.** Las prescripciones disciplinares contenidas en las *Constituciones* y en otros códigos trazan un camino de perfección evangélica en el seguimiento de Cristo. Aunque de por sí no obligan bajo pecado, el legionario se ha comprometido a seguir este camino por medio de la profesión religiosa.
+
+##### Responsabilidad de los superiores
+
+**236.** Los superiores están obligados a fomentar con su testimonio de vida y su gobierno la observancia de las *Constituciones*. En casos particulares, por causa justa, el director general, los directores territoriales y los rectores o superiores pueden dispensar temporalmente a sus súbditos y a sus comunidades de la observancia de alguna norma disciplinar del derecho propio.
+
+##### Regla de vida
+
+**237.** Los legionarios han de conformar su vida con Cristo, regla suprema del religioso, según el Evangelio y estas *Constituciones*.
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
@@ -41,9 +52,22 @@ Instrucciones para el agente:
 | 11 | H5 | Responsabilidad de los superiores |
 | 17 | H5 | Regla de vida |
 
-
 ## Secciones incluidas
 
 ## Capítulo 20. La obligación del derecho propio
 
-[Contenido de esta sección...]
+##### El derecho propio
+
+Las *Constituciones* y los códigos secundarios debidamente promulgados conforman el derecho propio de la Congregación, de obligado cumplimiento (234).
+
+##### Cómo obligan las Constituciones
+
+Trazan un camino de perfección evangélica en el seguimiento de Cristo; no obligan de por sí bajo pecado, pero el legionario se compromete a seguirlo por la profesión religiosa (235).
+
+##### Responsabilidad de los superiores
+
+Obligados a fomentar la observancia con testimonio y gobierno, y facultados para dispensar temporalmente de normas disciplinares por causa justa (236).
+
+##### Regla de vida
+
+Conformar la vida con Cristo, regla suprema del religioso, según el Evangelio y estas *Constituciones* (237).

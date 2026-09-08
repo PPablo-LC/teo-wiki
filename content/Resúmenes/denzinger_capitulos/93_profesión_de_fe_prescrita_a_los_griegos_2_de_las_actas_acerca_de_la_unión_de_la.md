@@ -4,7 +4,7 @@ title: "Profesión de fe prescrita a los griegos (2) [De las actas acerca de la 
 fuente: denzinger_capitulos
 capítulo: 93
 timestamp: 2026-08-24
-description: "Resumen de 'Profesión de fe prescrita a los griegos (2) [De las actas acerca de la unión de la Iglesia grecorrusa, año 1575]' — denzinger_capitulos"
+description: "Resumen de 'Profesión de fe prescrita a los griegos (2) [De las actas acerca de la unión de la Iglesia grecorrusa]' — denzinger_capitulos"
 tags: ["resumen", "denzinger capitulos"]
 ---
 
@@ -12,39 +12,30 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[profesión_de_fe]] — profesión prescrita a los griegos
+- [[espíritu_santo]] — procedencia del Padre y del Hijo (Filioque)
+- [[símbolo_niceno-constantinopolitano]] — símbolo niceno-constantinopolitano
+- [[concilio_de_florencia]] — unión de las Iglesias occidental y oriental
+- [[concilio_de_trento]] — profesión tridentina
+- [[trinidad]] — procesión del Espíritu Santo
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `0094_CREGORIO_XIII_1572-1585.md`
+## CREGORIO XIII, 1572-1585
 
+## Profesión de fe prescrita a los griegos (2) [De las actas acerca de la unión de la Iglesia grecorrusa, año 1575]
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | CREGORIO XIII, 1572-1585 |
-| 3 | H2 | Profesión de fe prescrita a los griegos (2) [De las actas acerca de la |
+- D-1083: Profesión de fe con el símbolo de la santa Iglesia Romana (símbolo Niceno-Constantinopolitano).
+- D-1084: Se acepta y confiesa lo que el Concilio de Florencia definió sobre la unión de las Iglesias: el [[espíritu_santo]] procede eternamente del Padre y del Hijo, y del Padre juntamente y del Hijo como de un solo principio y única espiración; el Hijo lo tiene eternamente del Padre, de quien es engendrado; la añadidura del Filioque se hizo lícita y racionalmente para declarar la verdad.
+- D-1085: Se profesan y reciben las demás cosas decretadas por la Iglesia Romana según el Concilio de Trento, como la profesión tridentina de fe.
 
 
 ## Secciones incluidas
 
 ## CREGORIO XIII, 1572-1585
 
-[Contenido de esta sección...]
+Contexto del pontificado de Gregorio XIII.
 
 # Profesión de fe prescrita a los griegos (2) [De las actas acerca de la unión de la Iglesia grecorrusa, año 1575]
 
-[Contenido de esta sección...]
+Profesión de fe para los griegos sobre la unión (D-1083 a D-1085).

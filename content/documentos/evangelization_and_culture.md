@@ -1,8 +1,8 @@
 ---
 type: Documento
 title: Evangelization & Culture
-description: "Trimestral del Word on Fire Institute (Bishop Robert Barron) con números sobre Creatividad, Economía, Era Digital, Cine, Escritura, Esperanza, sensibilidad católica, Humor, Poesía, Libertad, Postrimerías, Infancia, Eucaristía, Alegría, Sufrimiento, Benedicto XVI, Educación y Conversión"
-timestamp: 2026-09-05
+description: "Trimestral del Word on Fire Institute (Bishop Robert Barron) con números sobre Creatividad, Economía, Era Digital, Cine, Escritura, Esperanza, sensibilidad católica, Humor, Poesía, Libertad, Postrimerías, Infancia, Eucaristía, Alegría, Sufrimiento, Benedicto XVI, Educación, Conversión e Inteligencia Artificial"
+timestamp: 2026-09-07
 tags:
   - evangelización
   - cultura
@@ -11,12 +11,13 @@ tags:
   - arte
   - esperanza
   - poesía
+  - inteligencia_artificial
 ---
 
 # Evangelization & Culture
 
 > Área: Teología pastoral / Evangelización
-> Última actualización: 2026-09-05
+> Última actualización: 2026-09-07
 
 ## Descripción
 
@@ -44,6 +45,7 @@ tags:
 | 16 | Issue 16 | Pope Benedict XVI | Summer 2023 | [[evangelization_and_culture_issue_16_benedict_xvi]] |
 | 17 | Issue 17 | Education | Autumn 2023 | [[evangelization_and_culture_issue_17_education]] |
 | 18 | Issue 18 | Conversion | Winter 2023 | [[evangelization_and_culture_issue_18_conversion]] |
+| 19 | Issue 19 | Artificial Intelligence | Spring 2024 | [[evangelization_and_culture_issue_19_artificial_intelligence]] |
 
 ## Temas centrales por número
 
@@ -548,13 +550,58 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - Fr. Richard T. Whittington (pastoral)
 - David Rinaldi (NET Ministries)
 
+### Issue 19: Artificial Intelligence (Spring 2024)
+
+Para el desarrollo completo de este número, véase [[evangelization_and_culture_issue_19_artificial_intelligence]].
+- La IA no puede ser persona: lo puramente material no puede tener los atributos de la persona (razón, libertad, abstracción, amor); «AI can never be an I—only an it»; el simulacro de personalidad (Barron)
+- La manipulación algorítmica y la idolatría: «no los usamos nosotros; ellos nos usan»; Sal 115,5.8; la providencia de Dios (Is 26,12) frente al control de la IA (Barron)
+- El *techne* y los saltos cuánticos tecnológicos: imprenta, radio, TV, reactores, smartphone; el error categorial: la IA no tiene alma y nosotros sí; la unidad cuerpo-alma (Petrusek)
+- Promesas y terrores de la IA: el hombre es más capaz de crear infiernos que utopías; el amor trasciende la lógica («no hay datos en el enamorarse»); Han Solo vs. C3PO; la poesía no puede ser producida por IA (Worner)
+- Benedicto XVI: «el desequilibrio entre posibilidades tecnológicas y energía moral»; la «ansiedad de IA»; Santa Dymphna, patrona de la ansiedad y la enfermedad mental (Jendro)
+- La IA como espejo de Hamlet: el conflicto humano como marco; cinco categorías de conflicto; la dignidad única en el plan cósmico de Dios (Vlok)
+- La filmografía de la IA: HAL 9000, Short Circuit, The Matrix, Génesis, Alita, The Creator; la bondad que gana apunta a la bondad mayor del Creador y Redentor (Schiffer)
+- El nuevo journal *The New Ressourcement*: la vuelta a las fuentes; la conversión de Paone desde el evangelicalismo sectario (C.S. Lewis, Newman, Hütter) (Paone)
+- La tecnocracia espiritual: el mesianismo terrestre; civilización vs. cultura; la condición de criatura; los antídotos —reverencia, contemplación, oración mental y liturgia (von Hildebrand)
+- La IA explicada: la máquina de Turing, GOFAI vs. redes neuronales, el test de Turing y la habitación china de Searle (sintaxis sin semántica); la prudencia ni luddita ni utópica (Kalan)
+- El arte auténtico en la era de la IA: la pintura como conexión intensa con la realidad; los límites inspiran (Chesterton); «somos creadores» a imitación de Dios — Sal 139,13-14 (Granitto)
+- La educación en la era de la IA: Hans Jonas y la proyección antropomórfica; el anillo de Giges de ChatGPT; Benedicto XVI (CUA 2008); *Ex Corde Ecclesiae*; enseñar «no solo cómo pensar sino qué amar» (Askonas & Litke)
+- La IA como desafío a la libertad humana: predicción y manipulación de elecciones; los jesuitas españoles y los 1.000 habitantes de Madrid; el paso reflexivo atrás (*veto right*); la virtud y la predecibilidad; el capitalismo de vigilancia (Ramelow OP)
+- La antropología católica: gnosticismo y reduccionismo frente a la unidad de cuerpo y alma (CEC 364-365); el alma creada directamente por Dios; la dignidad no depende del CI (Vukov)
+- La literatura gloriosamente humana: la hospitalidad del «puente de las palabras» (L'Engle); la subcreación de Tolkien; la IA no puede co-crear porque no tiene carne ni alma; la bola de hilo mágica (Stewart)
+- La ilusión de la IA: la falacia del mago; la simulación no es la realidad; la «singularidad» y la «superinteligencia» como conceptos engañosos (Feser)
+- *Princesses of Heaven*: «toda niña es una princesa»; la vocación universal a la santidad (Garza; Sta. Teresa de Lisieux)
+- El testimonio de Amy Baxt: conversión/reversión, el camino del perdón y el sufrimiento como vehículo de sanación (Baxt)
+- *The Gonkulator Modulator*: sátira distópica del «Restless Heart Syndrome» tratado por una IA; la inquietud constitutiva del alma humana (Steele)
+- Una breve historia del miedo: Platón y la escritura; la Iglesia abrazó la imprenta y la radio; AlphaZero y el peón; Suleyman y el problema del gorila; el faraón artificial (Éx 1,8-11); el miedo real: la soledad (Hoopes)
+
+- Bishop Robert Barron (director, Word on Fire)
+- Dr. Matthew R. Petrusek (filosofía, Word on Fire Institute)
+- Tod Worner (Managing Editor)
+- Angela M. Jendro (autora, «Lives: St. Dymphna»)
+- Andre Vlok (autor, «Stacks: Hamlet's Mirror»)
+- Kathy Schiffer (autora, filmografía de la IA)
+- Jason Paone (director de *The New Ressourcement*)
+- Dietrich von Hildebrand (filósofo, «Technology & Its Dangers»)
+- Justin Kalan (autor, «A Primer on AI»)
+- Daniel Granitto (artista)
+- Dr. Jonathan Askonas (ciencia política, CUA)
+- Dr. Justin Litke (teología política, CUA)
+- Fr. Anselm Ramelow OP (filosofía, Dominican School of Philosophy and Theology)
+- Dr. Joseph Vukov (filosofía, University of Scranton)
+- Haley Stewart (autora y editora, Word on Fire)
+- Dr. Edward Feser (filosofía, Pasadena City College)
+- Fabiola Garza (ilustradora, Word on Fire Votive)
+- Amy Baxt (testimonio)
+- Fr. Dan Steele (ficción)
+- Tom Hoopes (autor, «Peripheries»)
+
 ## Relación con otras fuentes
 
-Esta fuente complementa los artículos sobre [[evangelización]], [[evangelización_digital]], [[medios_de_comunicación_social]], [[belleza]], [[arte]], [[doctrina_social_de_la_iglesia]], [[nueva_evangelización]], [[cultura]], [[humor]], [[eutrapelia]], [[alegría_cristiana]], [[poesía]], [[fe_y_razón]], [[eclesiología_de_la_comunión]], [[dignidad_de_la_persona]], [[educación]], [[formación]], [[artes_liberales]], [[educación_católica]], [[conversión]], [[metanoia]], [[kerygma]], [[catecumenado]] y [[testimonio_cristiano]].
+Esta fuente complementa los artículos sobre [[evangelización]], [[evangelización_digital]], [[medios_de_comunicación_social]], [[belleza]], [[arte]], [[doctrina_social_de_la_iglesia]], [[nueva_evangelización]], [[cultura]], [[humor]], [[eutrapelia]], [[alegría_cristiana]], [[poesía]], [[fe_y_razón]], [[eclesiología_de_la_comunión]], [[dignidad_de_la_persona]], [[educación]], [[formación]], [[artes_liberales]], [[educación_católica]], [[conversión]], [[metanoia]], [[kerygma]], [[catecumenado]], [[testimonio_cristiano]], [[inteligencia_artificial]], [[unidad_alma_cuerpo]], [[persona]], [[libre_albedrío]], [[idolatría]], [[tecnología]] y [[tecnocracia_espiritual]].
 
 ## Ver también
 
-[[evangelización]], [[evangelización_digital]], [[belleza]], [[arte]], [[doctrina_social_de_la_iglesia]], [[nueva_evangelización]], [[humor]], [[eutrapelia]], [[poesía]], [[vía_pulchritudinis]], [[educación]], [[formación]], [[artes_liberales]]
+[[evangelización]], [[evangelización_digital]], [[belleza]], [[arte]], [[doctrina_social_de_la_iglesia]], [[nueva_evangelización]], [[humor]], [[eutrapelia]], [[poesía]], [[vía_pulchritudinis]], [[educación]], [[formación]], [[artes_liberales]], [[inteligencia_artificial]], [[unidad_alma_cuerpo]], [[persona]], [[libre_albedrío]], [[idolatría]], [[tecnología]], [[tecnocracia_espiritual]]
 
 ## Referencias
 
@@ -576,3 +623,4 @@ Esta fuente complementa los artículos sobre [[evangelización]], [[evangelizaci
 - Evangelization & Culture, Issue 16 (2023) — Pope Benedict XVI
 - Evangelization & Culture, Issue 17 (2023) — Education
 - Evangelization & Culture, Issue 18 (2023) — Conversion
+- Evangelization & Culture, Issue 19 (2024) — Artificial Intelligence

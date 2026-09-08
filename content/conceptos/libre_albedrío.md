@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Libre Albedrío
 tags: ["antropología"]
 
-timestamp: 2026-08-06
+timestamp: 2026-09-07
 description: "Facultad radical de la persona humana de elegir entre el bien y el mal, de autodeterminarse sin coacción externa ni necesidad interna."
 ---
 # Libre Albedrío
 
 > Área: Antropología
-> Última actualización: 2026-08-06
+> Última actualización: 2026-09-07
 
 ## Definición
 
@@ -72,6 +72,22 @@ Matthew Nelson («Is There a Science of Free Will?») defiende la compatibilidad
 - **La distinción de Swinburne:** confusión clave entre **explicación científica** (eventos explicados por causas previas) y **explicación personal** (agentes racionales como causas irreductibles); la primera no agota la segunda. Los experimentos de Libet no miden deliberación consciente sino movimientos arbitrarios; no refutan la libertad de las decisiones racionales.
 - **Fundamento tomista:** el libre albedrío como apetito racional siguiendo al juicio del intelecto sobre lo bueno (SmTh I q.83 a.1): la voluntad tiende al bien en cuanto conocido; por eso puede elegir entre bienes finitos sin ser necesitada por ninguno.
 - **Ciencia integradora:** una visión completa del hombre asume la racionalidad del agente en lugar de reducirla a mecanismos neuronales; la propia empresa científica presupone agentes capaces de seguir argumentos — es decir, libres.
+
+### Según Evangelization & Culture (EAC-19)
+
+Dietrich von Hildebrand («Minds: Technology & Its Dangers») y Fr. Anselm Ramelow, OP («AI as a Challenge to Human Freedom») aportan una reflexión filosófico-teológica sobre la libertad y el libre albedrío frente a la inteligencia artificial.
+
+**No somos víctimas de una evolución histórica (von Hildebrand):** Debemos darnos cuenta de que no somos «simplemente víctimas de una evolución histórica», sino seres dotados de libre albedrío, llamados a tomar posición libre ante las tendencias históricas. Ver la voluntad de Dios en todo desarrollo histórico es el mayor error posible; no debemos aceptar con fatalismo las tendencias tecnológicas o sociológicas dañinas, pues no son «una ley inevitable de la historia» al modo hegeliano [EAC-19, 11_minds.md, L7].
+
+**La esfera moral y la individualidad (von Hildebrand):** La esfera moral está «tan ligada al individuo y su libre albedrío que nunca podemos considerar el estándar moral de una persona individual como mero resultado de un desarrollo sociológico». No hay progreso unívoco en la percepción de valores: un avance en un ámbito se compensa con retrocesos en otro [EAC-19, 11_minds.md, L65-71].
+
+**Predicción y manipulación de elecciones (Ramelow):** Los algoritmos de IA pueden «leer nuestras mentes y predecir nuestras elecciones», incluso manipularlas — como funciona la publicidad en internet, donde el usuario se vende a sí mismo con cada clic. Si esta predicción y manipulación es posible, ¿qué dice eso sobre nuestra libertad humana? [EAC-19, 15_feature_ramelow.md, L3].
+
+**Estadística social y libertad (Ramelow):** Los algoritmos de aprendizaje automático se basan en estadística: identifican la probabilidad y tendencia de ciertas elecciones. Las discusiones más tempranas sobre libertad y estadística se encuentran en contexto teológico, con jesuitas españoles de los siglos XVI-XVII que intentaban explicar cómo Dios prevé nuestros actos libres. La distinción clave es entre sentido «colectivo» y «distributivo»: las leyes estadísticas aplican al nivel del grupo pero no permiten predicciones sobre individuos [EAC-19, 15_feature_ramelow.md, L7-13].
+
+**El paso reflexivo y el «veto» (Ramelow):** En cada caso podemos dar «un paso reflexivo atrás» y decir libremente «no» a lo que intenta confundirnos. Santo Tomás piensa que solo «personas muy sabias» son probables de dar ese paso; la mayoría caerá en el «cebo». El Aquinate defiende adamantinamente el libre albedrío, pero es «sorprendentemente pesimista» al valorar la probabilidad de que lo ejercitemos bien [EAC-19, 15_feature_ramelow.md, L21-29].
+
+**Virtud, predecibilidad y libertad (Ramelow):** Ejercitar el «veto» y crecer en virtud es lo que se necesita. Paradójicamente, la virtud nos hace más predecibles — «puedo predecir que la Madre Teresa no va a asesinarme» — pero eso no significa que haya perdido su libertad. La libertad «tiene que ver con la sabiduría, no con el capricho»; es racional y por eso predecible. La consistencia no priva de libertad sino que la incrementa [EAC-19, 15_feature_ramelow.md, L33-45].
 
 ## Distinciones importantes
 

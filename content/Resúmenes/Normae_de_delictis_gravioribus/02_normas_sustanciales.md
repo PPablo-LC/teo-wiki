@@ -67,4 +67,4 @@ El clérigo debe ser castigado según la gravedad, sin excluir dimisión o depos
 
 ### Art. 7 — Prescripción
 
-La acción criminal se extingue por prescripción en **20 años**. La prescripción inicia según can. 1362 §2 CIC y can. 1152 §3 CCEO. En el delito del art. 6 §1 n.1 (clérigo con menor), la prescripción comienza desde que el menor cumple 18 años. La CDF保留 el derecho de derogar la prescripción para casos singulares.
+La acción criminal se extingue por prescripción en **20 años**. La prescripción inicia según can. 1362 §2 CIC y can. 1152 §3 CCEO. En el delito del art. 6 §1 n.1 (clérigo con menor), la prescripción comienza desde que el menor cumple 18 años. La CDF se reserva el derecho de derogar la prescripción para casos singulares.

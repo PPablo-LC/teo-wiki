@@ -12,34 +12,33 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[noviciado]] — período formativo previo a la [[profesión_religiosa]]
+- [[oración]] — prácticas de vida espiritual del novicio
+- [[adoración_eucarística]] — adoración al Santísimo Sacramento
+- [[retiro_espiritual]] — retiro mensual de todo el día
+- [[formación]] — proceso integral de preparación del novicio
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
 📄 **Fuente original:** `normas_complementarias_al_capítulo_7_el_noviciado.md`
 
+### Normas complementarias al Capítulo 7. El noviciado
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+Las normas complementarias al Capítulo 7 desarrollan tres aspectos del [[noviciado]]:
+
+**Documentación requerida (norma 35, CLC 66):** Antes de su admisión en el noviciado, los candidatos deben presentar los certificados de bautismo y de confirmación, así como de su estado libre (cf. CIC, c. 645 § 1). Asimismo, han de presentar la documentación civil y académica requerida en cada país para acceder a los estudios universitarios.
+
+**Gastos del candidatado y noviciado (norma 36, CLC 75):** No debe exigirse nada por los gastos del candidatado o del noviciado. Los objetos que el candidato haya traído al noviciado y no hayan sido consumidos por el uso, se le devolverán si deja la Congregación antes de [[profesar]].
+
+**Prácticas de vida espiritual (norma 37, CLC 83, 2.º):** Además de las prácticas de vida espiritual mencionadas en las Constituciones y en estas Normas complementarias, los novicios realizan:
+
+1. Oración vespertina diaria durante media hora.
+2. Media hora de [[adoración_eucarística]] al Santísimo Sacramento solemnemente expuesto a lo largo del día.
+3. Hora eucarística a media noche la víspera de los viernes primeros de cada mes, que de ser posible, se prolongará por turnos durante toda la noche.
+4. [[retiro_espiritual]] mensual de todo el día.
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H3 | Normas complementarias al Capítulo 7. El noviciado |
-
-
-## Secciones incluidas
-
-## Normas complementarias al Capítulo 7. El noviciado
-
-[Contenido de esta sección...]

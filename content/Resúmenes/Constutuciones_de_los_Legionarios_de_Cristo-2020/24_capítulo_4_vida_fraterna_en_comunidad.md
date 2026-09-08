@@ -4,7 +4,7 @@ title: "capítulo 4 vida fraterna en comunidad"
 fuente: Constutuciones_de_los_Legionarios_de_Cristo-2020
 capítulo: 24
 timestamp: 2026-08-24
-description: "Resumen de 'capítulo 4 vida fraterna en comunidad' — Constutuciones_de_los_Legionarios_de_Cristo-2020"
+description: "Resumen de 'capítulo 4 vida fraterna en comunidad' — Constituciones de los Legionarios de Cristo (2020)"
 tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 ---
 
@@ -12,43 +12,98 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[vida_fraterna]]
+- [[comunión_trinitaria]]
+- [[comunión_eclesial]]
+- [[comunidad_religiosa]]
+- [[caridad_fraterna]]
+- [[disciplina_religiosa]]
+- [[clausura_religiosa]]
+- [[corrección_fraterna]]
+- [[hábito_religioso]]
+- [[medios_de_comunicación]]
+- [[vida_común]]
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `capítulo_4_vida_fraterna_en_comunidad.md`
+El capítulo 4 de las *Constituciones* de los Legionarios de Cristo (2020) desarrolla la dimensión de la [[vida_fraterna]] en comunidad como componente esencial de la [[vida_religiosa]]. Se abre citando al Regnum Christi sobre los religiosos como expertos en comunión, llamados a ser testigos del proyecto de comunión en la Iglesia y en el mundo.
 
+### Vida fraterna en comunidad
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+La [[vida_fraterna]] en comunidad, reflejo de la [[comunión_trinitaria]] y [[comunión_eclesial]], es una dimensión esencial de la vida religiosa. Los legionarios se inspiran en el testimonio de Jesucristo con sus Apóstoles y en la primitiva comunidad cristiana. Los religiosos deben residir en su propia casa religiosa, haciendo vida en común y no ausentándose sin licencia del superior.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | Capítulo 4. Vida fraterna en comunidad |
-| 5 | H5 | Vida fraterna en comunidad |
-| 13 | H5 | Ambiente comunitario |
-| 19 | H5 | Normas de vida religiosa |
-| 23 | H5 | Clausura y silencio |
-| 27 | H5 | Corrección fraterna |
-| 31 | H5 | Salidas de casa |
-| 35 | H5 | Hábito o distintivo clerical |
-| 41 | H5 | Trato con la familia |
-| 45 | H5 | Medios de comunicación |
+Se valora la vida fraterna como camino común de santidad y ayuda mutua para el fervor, pidiendo a todos que se sientan constructores y corresponsables para que reine la [[caridad_fraterna]] y el espíritu de familia, compartiendo alegrías y sufrimientos. Bajo la guía de los superiores, todos promuevan y evalúen juntos la buena marcha de la comunidad en: oración en común, cumplimiento de la misión apostólica, crecimiento en confianza y amistad, afecto y perdón mutuo, y descanso.
 
+### Ambiente comunitario
+
+Se pide cultivar un ambiente donde se armonicen intensa vida de oración, [[disciplina_religiosa]] enraizada en la fe y el amor a Cristo, y un apostolado comprometedor, cuidando tiempos para el estudio, descanso y convivencia fraterna. Se valora la misión de quienes ejercen la autoridad, y los superiores deben gobernar con verdad y caridad, fomentando la comunicación, el diálogo franco y la comunión de bienes espirituales.
+
+### Normas de vida religiosa
+
+Para dar testimonio de la consagración y fomentar la [[vida_fraterna]], se pide interiorizar las normas y vivirlas con fidelidad y madurez.
+
+### Clausura y silencio
+
+Observar la [[clausura_religiosa]] y fomentar en las casas un ambiente que facilite el silencio, la unión con Dios, la práctica de las virtudes, el estudio y la [[vida_común]].
+
+### Corrección fraterna
+
+La [[corrección_fraterna]] favorece la práctica de las virtudes, el progreso espiritual y la vida comunitaria. Quien corrija proceda con caridad y pureza de intención; quien sea corregido acepte con humildad y gratitud.
+
+### Salidas de casa
+
+Al salir de casa, aplicar medios necesarios para custodiar y dar testimonio de la propia fidelidad, reconociendo la debilidad propia y los peligros del mundo.
+
+### Hábito o distintivo clerical
+
+El [[hábito_religioso]] de los legionarios es la sotana con banda, de color negro. Deben usar el hábito u otro distintivo clerical conforme a la tradición de la vida religiosa y las normas de la Iglesia.
+
+### Trato con la familia
+
+Ser cercanos y agradecidos con la familia, especialmente padres y hermanos, viviendo el amor en el plano sobrenatural, encomiendándola en oraciones, con desprendimiento y sin perjuicio de la vida religiosa.
+
+### Medios de comunicación
+
+Valorar el potencial de los [[medios_de_comunicación]] para la evangelización, fomentando su uso como instrumentos de apostolado, pero siendo conscientes de que su uso indiscriminado constituye un serio obstáculo para la fidelidad religiosa. El superior regule su uso según las etapas de vida.
 
 ## Secciones incluidas
 
 ## Capítulo 4. Vida fraterna en comunidad
 
-[Contenido de esta sección...]
+Introducción sobre los religiosos como expertos en comunión, llamados a ser signo profético y signo de comunión fraterna.
+
+### Vida fraterna en comunidad
+
+La dimensión esencial de la vida religiosa como reflejo de la comunión trinitaria y eclesial, con la residencia obligatoria, el camino común de santidad y la corresponsabilidad.
+
+### Ambiente comunitario
+
+Armonización de oración, disciplina y apostolado, con el papel de la autoridad y la comunicación fraterna.
+
+### Normas de vida religiosa
+
+Interiorización de las normas de la vida religiosa con fidelidad y madurez.
+
+### Clausura y silencio
+
+Observancia de la clausura y fomento del silencio como medio de unión con Dios.
+
+### Corrección fraterna
+
+Práctica de la corrección evangélica como servicio de caridad para el crecimiento espiritual y comunitario.
+
+### Salidas de casa
+
+Medios para custodiar la fidelidad al salir de la comunidad.
+
+### Hábito o distintivo clerical
+
+Uso de la sotana negra con banda como hábito, y otros distintivos clericales según las normas eclesiásticas.
+
+### Trato con la familia
+
+Cercanía y gratitud con la familia, viviendo el amor en el plano sobrenatural con desprendimiento.
+
+### Medios de comunicación
+
+Valoración de los medios de comunicación para la evangelización, con regulación del uso para evitar obstáculos a la fidelidad.

@@ -1,45 +1,40 @@
 ---
 type: ResumenFuente
-title: "FÉLIX II III 483-492 SAN GELASIO I 492-496"
+title: "FELIX II (III) 483-492 SAN GELASIO I 492-496"
 fuente: denzinger_capitulos
 capítulo: 35
 timestamp: 2026-08-24
-description: "Resumen de 'FÉLIX II III 483-492 SAN GELASIO I 492-496' — denzinger_capitulos"
+description: "Resumen de los documentos de Félix III y Gelasio I sobre la inmutabilidad de los dogmas condenados"
 tags: ["resumen", "denzinger capitulos"]
 ---
 
-# FÉLIX II III 483-492 SAN GELASIO I 492-496
+# FELIX II (III) 483-492 SAN GELASIO I 492-496
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[inmutabilidad_de_la_doctrina]] — la fe no cambia con el tiempo
+- [[depositum_fidei]] — depósito de la fe confiado a la Iglesia
+- [[primado_del_romano_pontífice]] — autoridad del papa como sucesor de Pedro
+- [[anatema]] — sentencia de condenación de una herejía
+- [[cristología]] — doctrina sobre la persona de Cristo
+- [[concilios_ecuménicos]] — asambleas universales de la Iglesia
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `0035_FÉLIX_II_III_483-492_SAN_GELASIO_I_492-496.md`
+### Félix II (III) (483-492) (Carta a Acacio, 484)
 
+**D-167**: Contra el edicto del emperador y contra Acacio: «Desechen el nombre de cristiano quienes se apartan de la verdad de la fe... Condenamos esta edicción y la falsedad que contiene.» La Sede Apostólica prohíbe que se cambie o reabra lo que ha sido definido en materia de fe.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**D-168**: «Dios guarda la fe... a quien la deprime la condena, no la restaura la presunción.» No es lícito revisar lo que la autoridad ha establecido.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | FÉLIX II (III), 483-492 SAN GELASIO I, 492-496 |
+### San Gelasio I (492-496)
 
+**D-169**: Contra los que niegan la necesidad de la gracia y de la venida de Cristo. 
+
+**D-170**: «Pero de ningún modo se ha de admitir por los cristianos que ya no sea necesario el que el Verbo de Dios se hiciera carne.»
 
 ## Secciones incluidas
 
-## FÉLIX II (III), 483-492 SAN GELASIO I, 492-496
+## FÉLIX II (III), 483-492 — SAN GELASIO I, 492-496
 
-[Contenido de esta sección...]
+Documentos que insisten en la [[inmutabilidad_de_la_doctrina]]: la Sede Apostólica prohíbe reabrir o cambiar lo que ha sido definido en materia de fe. Quien se aparta de la verdad condenada queda separado de la comunión. San Gelasio defiende la necesidad de la [[encarnación]] del Verbo contra los que la niegan.

@@ -4,7 +4,7 @@ title: "SAN BONIFACIO I 418-422"
 fuente: denzinger_capitulos
 capítulo: 27
 timestamp: 2026-08-24
-description: "Resumen de 'SAN BONIFACIO I 418-422' — denzinger_capitulos"
+description: "Resumen de las cartas de San Bonifacio I sobre el primado del Romano Pontífice"
 tags: ["resumen", "denzinger capitulos"]
 ---
 
@@ -12,34 +12,25 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[primado_del_romano_pontífice]] — autoridad del papa como sucesor de Pedro
+- [[infalibilidad_pontificia]] — privilegio del papa en materia de fe y moral
+- [[sucesión_apostólica]] — transmisión del ministerio episcopal desde los Apóstoles
+- [[iglesia_católica]] — comunidad de fieles fundada por Cristo
+- [[llaves_de_pedro]] — potestad de atar y desatar
+- [[sedes_patriarcales]] — principales sedes episcopales (Roma, Alejandría, Antioquía)
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `0027_SAN_BONIFACIO_I_418-422.md`
+### San Bonifacio I (418-422)
 
+**D-109b** (Carta Manet beatum, 422): «Por disposición del Señor, es competencia del bienaventurado Apóstol Pedro la misión recibida de Aquél, de tener cuidado de la Iglesia Universal. Y en efecto, Pedro sabe, por testimonio del Evangelio [Mt. 16, 18], que la Iglesia ha sido fundada sobre él... A ti te daré las llaves del reino de los cielos [Mt. 16, 18]. No entrará allí nadie sin la gracia de quien tiene las llaves.»
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**D-109c** (misma Carta): Sobre el orden de las sedes: «Nunca fue lícito tratar nuevamente un asunto que haya sido una vez establecido por la Sede Apostólica.» Se describen las grandes Iglesias: la de Alejandría y la de Antioquía, cuyas dignidades están reconocidas por derecho eclesiástico. Ejemplos históricos: Atanasio y Pedro de Alejandría reclamaron el auxilio de esta Sede; la iglesia de Antioquía acudió a consultar a la Sede Apostólica bajo Melecio y Flaviano.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | SAN BONIFACIO I, 418-422 |
-
+**D-110** (Carta Retro maioribus tuis, 422): «Al Sínodo de Corinto hemos dirigido escritos por los que todos los hermanos han de entender que no puede apelarse de nuestro juicio. Nunca, en efecto, fue lícito tratar nuevamente un asunto que haya sido una vez establecido por la Sede Apostólica.»
 
 ## Secciones incluidas
 
 ## SAN BONIFACIO I, 418-422
 
-[Contenido de esta sección...]
+Cartas de San Bonifacio I que defienden el [[primado_del_romano_pontífice]] con argumentos evangélicos (Mt. 16, 18): la Iglesia fue fundada sobre Pedro, quien recibió las llaves del reino. Se afirma la autoridad suprema e indiscutible de la Sede Apostólica: nada de lo establecido por ella puede tratarse de nuevo, y de su juicio no puede apelarse. Se describen también las [[sedes_patriarcales]] (Roma, Alejandría y Antioquía) y su orden jerárquico.

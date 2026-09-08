@@ -2,7 +2,7 @@
 type: Concepto Teológico
 title: Ressourcement
 description: "Movimiento teológico del siglo XX que busca volver a las fuentes originales (Patrística, Escritura) para renovar la teología católica."
-timestamp: 2026-08-20
+timestamp: 2026-09-07
 tags:
   - teologia
   - patristica
@@ -13,7 +13,7 @@ tags:
 # Ressourcement
 
 > Área: Historia de la Teología / Teología Dogmática
-> Última actualización: 2026-08-20
+> Última actualización: 2026-09-07
 
 ## Definición
 
@@ -56,6 +56,14 @@ Sin embargo, Corbin critica la posición de Barron como «excesivamente personal
 
 - **Verbum Domini (2010):** Benedicto XVI reafirma la centralidad de la Escritura en la vida de la Iglesia y la necesidad de una hermenéutica que combine el sentido literal con el sentido espiritual.
 
+### Según Evangelization & Culture (EAC-19)
+
+**El movimiento ressourcement (Jason Paone).** En la entrevista «Broad and Deep: Why We Need the New Ressourcement», Jason Paone, editor de Word on Fire Academic, define el *ressourcement* como un movimiento de teólogos y filósofos europeos —«sobre todo franceses, como sugiere el término»— de la época de posguerra del siglo XX, «que buscaban renovar la vida intelectual católica y crear un nuevo diálogo con el mundo llamando una nueva atención académica a las Escrituras y a los Padres y Doctores antiguos y medievales de la Iglesia» [EAC-19, 10_spotlight_ressourcement, L39]. El movimiento se distingue de la neo-escolástica contra la que reaccionó: «entre otras cosas, el ressourcement representa un ensanchamiento y profundización de nuestro compromiso con nuestra tradición que busca un catolicismo más rico, más auténtico, que pueda, a su vez, brillar más en el mundo y entablar con él un diálogo más fecundo» [L39].
+
+**Una nueva «vuelta a las fuentes».** El nombre de la revista académica trimestral de Word on Fire, *The New Ressourcement*, es «un homenaje al movimiento ressourcement» de la posguerra. Con la revista, cuyo primer número procede de conferencias del otoño de 2023, se espera «proporcionar un cauce y una inspiración para un nuevo movimiento en el pensamiento católico —una nueva 'vuelta a las fuentes' que insufle nueva vida a la academia y la *intelligentsia* católicas y, a su vez, revitalice la cultura católica y su testimonio al mundo» [EAC-19, 10_spotlight_ressourcement, L37-41]. El primer número incluye un ensayo introductorio de Bishop Barron que «sondea numerosos desarrollos notables en la Iglesia posconciliar y ofrece principios generales»; un artículo de D.C. Schindler que «argumenta que el nuevo ressourcement necesita reafirmar una política metafísica que aclare la relación del mundo con la Iglesia»; y un ensayo de Tracey Rowland que explora «siete principios para combatir las religiosidades que odian a Dios, por un lado, y lo que ella llama cristianismo burgués, por otro» [L57].
+
+**La academia contemporánea indiferente a la fe.** Paone describe la consideración más generosa posible del mundo académico actual hacia el cristianismo y las cuestiones de fe con la palabra «indiferente» [EAC-19, 10_spotlight_ressourcement, L65]. En este punto el ressourcement de la posguerra fracasó en su aspiración de «intercalar el pensamiento católico en la corriente principal de la cultura intelectual moderna y posmoderna»; ahora bien, «tuvieron la aspiración correcta, y su ressourcement fue el modo correcto de perseguirla, aunque el movimiento no la alcanzara —o no todavía» [L65]. Lo que ha sido descuidado —y de hecho, en su mayor parte, excluido de la corriente principal de la educación superior— «a lo largo de los siglos XX y XXI es el pensamiento católico contemporáneo», y no cabe aceptar la situación ni contentarse con el lugar marginal en la tradición intelectual occidental, «una tradición de la que los católicos son en gran parte responsables» [L67].
+
 ## Distinciones importantes
 
 - **Ressourcement vs. arqueologismo:** No se trata de volver al pasado por el pasado, sino de recuperar las fuentes para iluminar el presente.
@@ -68,17 +76,17 @@ Sin embargo, Corbin critica la posición de Barron como «excesivamente personal
 
 ## Relaciones doctrinales
 
-- Se relaciona con la [[tradición_(teología)]] como transmisión viva de la fe
+- Se relaciona con la [[tradición]] como transmisión viva de la fe
 - Se conecta con la [[reinterpretación_tipológica]] como método interpretativo
-- Se articula con la [[filosofía_patrística]] como fundamento teológico
+- Se articula con la [[patrística]] como fundamento teológico
 - Se nutre de la tradición agustiniana y tomista
 - Se complementa con el tomismo narrativo en la teología de Barron
 
 ## Ver también
 
-- [[tradición_(teología)]]
+- [[tradición]]
 - [[reinterpretación_tipológica]]
-- [[filosofía_patrística]]
+- [[patrística]]
 
 ## Referencias
 

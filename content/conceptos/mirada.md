@@ -33,7 +33,7 @@ La pureza de corazón, en esta perspectiva, es la virtud que devuelve a la mirad
 
 ### Según la Teología del Cuerpo (TdC) — Catequesis 40-41
 
-La mirada es «en sí misma, un acto cognoscitivo. Cuando entra la concupiscencia, asume un carácter de "conocimiento deseoso"» (TdC, cateq. 40). El «acto puramente interior, escondido en el corazón y fijo en los umbrales de la mirada» (TdC, cateq. 41) es el territorio donde se libra la batalla moral decisiva: antes del acto exterior, ya la mirada ha decidido el方向向 del corazón.
+La mirada es «en sí misma, un acto cognoscitivo. Cuando entra la concupiscencia, asume un carácter de "conocimiento deseoso"» (TdC, cateq. 40). El «acto puramente interior, escondido en el corazón y fijo en los umbrales de la mirada» (TdC, cateq. 41) es el territorio donde se libra la batalla moral decisiva: antes del acto exterior, ya la mirada ha decidido el rumbo del corazón.
 
 ### Según la Teología del Cuerpo (TdC) — Catequesis 43
 

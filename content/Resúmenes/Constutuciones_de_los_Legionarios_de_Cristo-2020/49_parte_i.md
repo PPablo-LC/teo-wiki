@@ -12,34 +12,20 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[naturaleza_de_la_congregación]] — definición de la naturaleza de la Congregación
+- [[fin_de_la_congregación]] — fin propio de la Congregación
+- [[espíritu_de_la_congregación]] — espíritu y carisma de la Congregación
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
 📄 **Fuente original:** `parte_i_naturaleza_fin_y_espíritu_de_la_congregación.md`
 
+### Parte I
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+Título de la primera parte de las Constituciones: «Naturaleza, fin y espíritu de la Congregación». Este archivo es un titular de sección que introduce la parte estructural de las Constituciones dedicada a definir la [[naturaleza_de_la_congregación]], su [[fin_de_la_congregación|fin]] y su [[espíritu_de_la_congregación|espíritu]] propios. El contenido doctrinal específico de estos temas se desarrolla en los capítulos correspondientes (cap. 1, Naturaleza y fin; cap. 2, El espíritu de la Congregación).
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H2 | Parte I |
-
-
-## Secciones incluidas
-
-# Parte I
-
-[Contenido de esta sección...]

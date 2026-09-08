@@ -27,7 +27,7 @@ Incluso en un mundo secular, una historia que refleje un universo moral donde pr
 
 ### Frank Capra y la conversión
 
-Capra experimentó una crisis mental. Un visitante misterioso le dijo: «Los talentos que tienes no son tuyos, no son autoadquiridos. Dios te dio esos talentos; son Sus regalos para ti, para usarlos para Su propósito».从此, Capra dedicó su carrera a historias importantes sobre la condición humana. *It's a Wonderful Life*: oscuridad y debilidad humanas, celebrando fe, ángeles, amor cósmico, familia y comunidad. «La ley espiritual de Cristo puede ser la fuerza de sostenimiento más poderosa en la vida de cualquiera».
+Capra experimentó una crisis mental. Un visitante misterioso le dijo: «Los talentos que tienes no son tuyos, no son autoadquiridos. Dios te dio esos talentos; son Sus regalos para ti, para usarlos para Su propósito». Desde entonces, Capra dedicó su carrera a historias importantes sobre la condición humana. *It's a Wonderful Life*: oscuridad y debilidad humanas, celebrando fe, ángeles, amor cósmico, familia y comunidad. «La ley espiritual de Cristo puede ser la fuerza de sostenimiento más poderosa en la vida de cualquiera».
 
 ### Sacramentalidad en el cine
 

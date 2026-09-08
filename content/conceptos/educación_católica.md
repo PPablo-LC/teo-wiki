@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Educación católica
 tags: ["derecho_canónico"]
 
-timestamp: 2026-09-02
+timestamp: 2026-09-07
 description: "La educación católica es el conjunto de medios e instituciones mediante los cuales la Iglesia, en cumplimiento de su misión divina, ayuda a los hombres a alcanzar la plenitud de la vida cristiana."
 ---
 # Educación católica
 
 > Área: Derecho Canónico
-> Última actualización: 2026-09-02
+> Última actualización: 2026-09-07
 
 ## Definición
 
@@ -72,6 +72,20 @@ Tras la pandemia de COVID, las escuelas católicas vivieron un «renacimiento» 
 **Educación católica y ciencia (Christopher Barnard, 16_feature_bradford.md).** El genetista Jérôme Lejeune, «padre de la genética moderna», fue educado y trabajó dentro de una cosmovisión católica que le permitió ser «rigurosamente científico» y a la vez «profundamente fiel a las enseñanzas de su fe». Lejeune defendió la dignidad del no nacido apelando a la ciencia —no contra ella—: la vida humana comienza en la concepción, y la ciencia misma confirma la unicidad de cada persona humana. Su vida muestra que la educación católica no obstaculiza sino potencia la excelencia científica, y que la defensa de una [[cultura_de_la_vida]] es parte integral de la misión educativa católica.
 
 **La metamorfosis intelectual clásica (Andrew Youngblood, 20_spotlight_youngblood.md).** «La educación clásica existe para producir lo que los antiguos llamaban *metamorphosis intellectualis* —una transformación de la mente por la cual uno se vuelve más plenamente humano». La educación católica clásica crea «hombres y mujeres de mentalidad teológica» que aprenden a orar con la inteligencia y a pensar con el corazón, preparándolos para una vida de virtud, servicio público y evangelización.
+
+### Según Evangelization & Culture (EAC-19)
+
+**El propósito de la educación en cuestión (Jonathan Askonas y Justin Litke).** Askonas y Litke sostienen que la IA avanzada «pone en cuestión el sentido de la educación universitaria al hacer posible la finalización de los cursos sin un aumento correspondiente en las habilidades, el conocimiento o el carácter de los estudiantes» [EAC-19, 14_feature_askonas, L33]. Si la pedagogía sigue centrada en la producción de un artefacto —como un trabajo de investigación— «en lugar de la formación de santos y ciudadanos, entonces seremos superados por estos LLM y sistemas de IA. Pero si valoramos las partes de nuestro currículo orientadas a llegar a ser seres humanos verdaderamente excelentes, nunca seremos reemplazados» [L35].
+
+**El modelo educativo del siglo XX agotado.** Durante gran parte del siglo XX la educación superior «pudo tenerlo de ambos modos»: exaltó el valor inmanente de las humanidades (el bien, lo verdadero, lo bello) y, casi simultáneamente, aseguró a los padres que el mercado valoraba las habilidades —«pensamiento crítico», escritura, análisis— que impartían [L37]. «El auge de la inteligencia artificial demostrará ser la gota que colmó el vaso para este modelo educativo del siglo XX» [L39]. La IA hace patente, además, el error de fondo: lo que durante mucho tiempo ha pasado por educación liberal es «una búsqueda sin rumbo de la novedad que se presenta como la realización de la libertad» [L59].
+
+**Deseo rectamente ordenado.** Como el [[anillo_de_giges]] del que habla Platón en la *República*, que volvía invisible a su portador, las LLM pueden pensarse como «un anillo de Giges intelectual» que promete volver invisibles las deficiencias educativas de sus usuarios: pregunta y obtén una respuesta instantánea [L45-47]. Por eso, ahora que los artefactos que muestran las habilidades —escribir frases elegantes, descomponer argumentos, reunir evidencia— están baratos, «algo más se ha vuelto verdaderamente valioso, y sucede ser aquello que esta visión desarraigada de la educación hace escaso: el deseo rectamente ordenado» [L51].
+
+**Benedicto XVI y la dictadura del relativismo.** En su discurso de abril de 2008 a los educadores en la Universidad Católica de América —pronunciado antes del auge de la IA—, Benedicto XVI anticipó el asunto central: «cuando nada más allá del individuo es reconocido como definitivo, el criterio último del juicio se convierte en el yo y la satisfacción de los deseos inmediatos del individuo»; «dentro de un horizonte tan relativista los objetivos de la educación inevitablemente se ven recortados», y observamos «una timidez ante la categoría del bien y una búsqueda sin rumbo de la novedad que se presenta como la realización de la libertad» [EAC-19, 14_feature_askonas, L57]. Para Askonas y Litke, ante la «[[dictadura_del_relativismo]]», la facultad humana atacada no es el intelecto sino la voluntad: «la capacidad de entregarse a un sujeto mayor que uno mismo como puerta de entrada a la totalidad del conocimiento humano» [L59].
+
+**Ex Corde Ecclesiae y la universidad medieval.** La encíclica fundacional de las universidades católicas, *Ex Corde Ecclesiae*, «concibe una educación que coloca el desarrollo profesional en el contexto de la transformación espiritual» y «enfatiza el nutrir el espíritu humano para maravillarse, entender, juzgar y desarrollar un sentido moral» [EAC-19, 14_feature_askonas, L67-69]. A medida que la IA se vuelve más inteligente, «este tipo de educación se vuelve aún más valioso», pues una educación valiosa en el futuro será la que «forme propiamente a los estudiantes para entender para qué debieran usar estas (o cualesquiera) herramientas» [L71]. Este tipo de educación ya se ha hecho antes: «era el propósito original de la universidad medieval, que equilibraba la búsqueda del conocimiento con una formación monástica enraizada en las tradiciones ascéticas de la Iglesia» [L77]. El momento presente anuncia «no la abolición de las artes liberales sino su retorno al mismo centro de lo que significa ser una universidad», y las instituciones católicas deben «volver a sus raíces y ser fieles a su encargo original», comprometiéndose a enseñar a sus estudiantes «no solo cómo pensar sino qué amar» [L79-81].
+
+**El neutralismo educativo (Dietrich von Hildebrand).** Von Hildebrand denuncia en la educación «la infiltración de la tecnocracia en el sagrado reino de la persona» [EAC-19, 11_minds, L101]: por un lado «se propaga un neutralismo en la educación; se considera una violación de la libertad de la persona apelar a la mente de la persona, ofrecerle la verdad y revelarle los verdaderos valores»; por otro, «no se considera una violación de la libertad de la persona influirle cediendo al espíritu de la tecnocracia en la educación, en forma de tests, ajustes al entorno, conformismo y cosas así». «Mientras la primera influencia está, en realidad, en completa armonía con la libertad de la persona, la segunda es una violación real de su libertad» [L101]. La noción misma de *human engineering* es «el síntoma más típico de una tecnocracia maligna», contra la cual hay que «luchar con todas las armas espirituales», pues encierra un espíritu anticristiano [L103-105].
 
 ## Relaciones doctrinales
 

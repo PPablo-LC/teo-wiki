@@ -29,7 +29,7 @@ San Anselmo de Aosta (1033–1109), arzobispo de Canterbury, es considerado el �
 
 **Pedro Lombardo y las *Sentencias* — HI, Archivo 24:**
 
-Pedro Lombardo (m. 1160), obispo de París, compiló las *Sententiarum Libri IV* (c. 1150), que ordenaban系统aticamente las opiniones de los Padres de la Iglesia sobre los temas teológicos principales. Esta obra se convirtió en el texto fundamental de enseñanza teológica en todas las universidades medievales y sirvió de base para los comentarios de todos los escolásticos posteriores.
+Pedro Lombardo (m. 1160), obispo de París, compiló las *Sententiarum Libri IV* (c. 1150), que ordenaban sistemáticamente las opiniones de los Padres de la Iglesia sobre los temas teológicos principales. Esta obra se convirtió en el texto fundamental de enseñanza teológica en todas las universidades medievales y sirvió de base para los comentarios de todos los escolásticos posteriores.
 
 **Edad de oro (siglo XIII) — HI, Archivo 24, 26:**
 

@@ -4,7 +4,7 @@ title: "SIMBOLO APOSTOLICO 1"
 fuente: denzinger_capitulos
 capítulo: 2
 timestamp: 2026-08-24
-description: "Resumen de 'SIMBOLO APOSTOLICO 1' — denzinger_capitulos"
+description: "Resumen de las formas antiquísimas del Símbolo Apostólico"
 tags: ["resumen", "denzinger capitulos"]
 ---
 
@@ -12,34 +12,33 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[símbolo_apostólico]] — credo que resume la fe cristiana
+- [[trinidad]] — misterio de un solo Dios en tres Personas
+- [[encarnación]] — el Verbo se hizo hombre
+- [[regla_de_fe]] — fórmula de profesión de fe de la Iglesia primitiva
+- [[bautismo]] — sacramento de iniciación cristiana
+- [[gnosticismo]] —herejía que distingue entre Dios del NT y del AT
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `0002_SIMBOLO_APOSTOLICO_1.md`
+El Símbolo Apostólico se compone esencialmente de una parte trinitaria (tres artículos sobre las tres divinas Personas) y de una parte cristológica añadida al segundo artículo. Existen fórmulas más antiguas, casi acristológicas, que parecen preceder al Símbolo de los Padres.
 
+**Formas antiguas:**
+- Símbolo breve del *Testamentum in Galilaea* (~150-180 d.C.): Creo en el Padre omnipotente, en Jesucristo Salvador, en el Espíritu Santo Paráclito, en la Santa Iglesia y en el perdón de los pecados.
+- Papiro de Dér-Balyzeh (siglo VII-VIII): Creo en Dios Padre omnipotente, en su Hijo unigénito, en el Espíritu Santo, en la resurrección de la carne y en la Santa Iglesia Católica.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | SIMBOLO APOSTOLICO (1) |
-
+**Fuentes de la forma occidental más antigua (R):**
+Diversos autores y documentos presentan elementos de símbolo o regla de fe:
+- San Justino Mártir (+167): posible doble forma (occidental y oriental)
+- San Ireneo de Lyon (+202): presenta casi todos los elementos del Símbolo R como fe recibida de los Apóstoles
+- San Hipólito (+235): símbolo bautismal a modo de preguntas
+- Tertuliano (+después de 225): la Iglesia de Cartago recibió de Roma la regla de la fe
+- Orígenes (+254): regla de fe semejante al símbolo
+- Canones Hipolíticos: interrogaciones bautismales
+- Otras fuentes: Psalterium Aethelstani, Codex Laudianus, Codex Swainson, Marcelo de Ancira, Prisciliano, Rufo, San Agustín, San Pedro Crisológico, San Máximo de Turín, San Fulgencio de Ruspe, San Martín de Braga, Liturgia Mozárabica, entre otros.
 
 ## Secciones incluidas
 
 ## SIMBOLO APOSTOLICO (1)
 
-[Contenido de esta sección...]
+Sección que presenta las formas antiquísimas del [[símbolo_apostólico]], distinguiendo entre fórmulas acistológicas (sin la parte cristológica completa) y formas más desarrolladas. Incluye la enumeración exhaustiva de fuentes patrísticas y litúrgicas que atestiguan la existencia de una regla de fe común en la Iglesia primitiva, desde los escritos de los Padres Apostólicos hasta las liturgias hispánicas y galas del primer milenio.

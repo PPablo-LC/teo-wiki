@@ -13,7 +13,7 @@ description: "Los números en la Biblia no deben entenderse siempre según su va
 
 ## Definición
 
-Los números en la Biblia no deben entenderse siempre según su valor aritmético exacto. Junto a usos convencionales y aproximativos, tienen con frecuencia un significado simbólico que expresa realidades teológicas: plenitud, perfección, totalidad,周期 o juicio divino.
+Los números en la Biblia no deben entenderse siempre según su valor aritmético exacto. Junto a usos convencionales y aproximativos, tienen con frecuencia un significado simbólico que expresa realidades teológicas: plenitud, perfección, totalidad, ciclo o juicio divino.
 
 ## Desarrollo doctrinal
 

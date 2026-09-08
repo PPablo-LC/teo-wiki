@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Contemplación
 tags: ["mística"]
 
-timestamp: 2026-08-06
+timestamp: 2026-09-07
 description: "La contemplación infusa es una simple intuición de la verdad divina procedente de la fe ilustrada por los dones de entendimiento, sabiduría y ciencia en estado perfecto."
 ---
 # Contemplación
 
 > Área: Mística
-> Última actualización: 2026-08-06
+> Última actualización: 2026-09-07
 
 ## Definición
 
@@ -90,6 +90,18 @@ En el Cap. III, §4c se precisa que la contemplación consiste en tener la «mir
 **La filosofía como contemplación de la verdad (D.C. Schindler, 14_feature_schindler.md).** Los antiguos identificaron el acto humano más alto como la contemplación de la verdad; la tradición cristiana extendió esta actividad a la eternidad y a todo ser humano sin excepción: «estamos todos llamados a contemplar al Dios verdadero en asombro, en amor y en gozo extático, para siempre en el cielo». Para Schindler, la filosofía «tiene que ser 'sufrida'» (*mathein pathein*): exige presencia real, y por eso «la clase a distancia es positivamente antifilosófica». La contemplación de la verdad es lo que acerca más a la felicidad humana, el propósito de la educación como preparación para el eschaton: «aprendemos a amar a Dios en las cosas para poder amarlo a Él en sí mismo en el gozo de la vida eterna».
 
 **Educación instrumental vs. contemplación (James Matthew Wilson, 21_poetry_wilson.md).** En el poema *An Impasse*, Wilson contrasta la educación instrumental —«todo aprender tiene por fin hacer y trabajar máquinas», «y eso, a su vez, solo para ganar»— con los viejos filósofos cuyas «palabras eran inútiles y sus preguntas extrañas», que «nunca cesaron hasta su último aliento» y que «solo ellos caminan sin temor hacia la muerte»: la filosofía que se vive incluso ante la muerte es, en su raíz, contemplativa.
+
+### Según Evangelization & Culture (EAC-19)
+
+Dietrich von Hildebrand («Minds: Technology & Its Dangers») y Daniel Granitto («Art: Igniting Intimacy and Curiosity») presentan la contemplación como respuesta ante la depersonalización tecnológica.
+
+**La tecnología frustra la presencia plena (von Hildebrand):** La rapidez del ritmo de vida «frustra la experiencia de una presencia plena en todos los dominios». La omisión de la *statio* benedictina — «dejar al alma tiempo para ir a sus profundidades» — «frustra todo contacto profundo con otras personas así como con cualquier obra de arte o cualquier verdad profunda». Ya no tenemos tiempo de abrir nuestras almas para experimentar la plena realidad de la comunión con una persona amada [EAC-19, 11_minds.md, L85].
+
+**Énfasis en la contemplación contra la depersonalización (von Hildebrand):** Nuestra lucha contra la amenaza de despersonalización e instrumentalización «debe, sobre todo, implicar un mayor énfasis en la contemplación. Debemos contrarrestar conscientemente el ritmo de vida que el progreso tecnológico tiende a imponernos, emergiendo siempre de nuevo hacia la realidad sobrenatural última, para vencer esta tensión dirigida hacia el próximo objetivo». Además de estas «islas de recogimiento» que deben impregnar el día, debemos dedicar un tiempo a la oración mental: «hacerse completamente vacío ante Cristo, depositar todo lo demás en las manos de Cristo, callar y escuchar a Cristo. Esta oración mental es más importante ahora que nunca» [EAC-19, 11_minds.md, L115-121].
+
+**La liturgia como antídoto (von Hildebrand):** El espíritu de la Sagrada Liturgia es «el verdadero antítesis del activismo tecnocrático» y «el verdadero antídoto contra todo peligro de tecnocracia». En la Liturgia encontramos «la gran plenitud que hace justicia a la naturaleza específica de cada dominio, así como de cada valor. Aquí encontramos el gran baluarte contra los peligros de la mecanización» [EAC-19, 11_minds.md, L133-139].
+
+**La pintura como encuentro contemplativo con la realidad (Granitto):** «Pintar y dibujar te conectan directa e intensamente con la realidad». En una era de distracción implacable, «pintar y dibujar son obstinadamente lentos e inevitablemente conscientes». El proceso de dibujar y pintar «te mantiene intensa, a veces dolorosamente, presente». Frente a la velocidad y la inmediatez de la inteligencia artificial, la pintura — obra manual — es un acto contemplativo que exige presencia real [EAC-19, 13_art.md, L107].
 
 ## Distinciones importantes
 

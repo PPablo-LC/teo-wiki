@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Persona Humana
 tags: ["antropología_teológica"]
 
-timestamp: 2026-06-20
+timestamp: 2026-09-07
 description: "La persona humana es el individuo de la naturaleza racional, creado por Dios a su imagen y semejanza, compuesto de alma espiritual inmortal y cuerpo material."
 ---
 # Persona Humana
 
 > Área: Antropología teológica
-> Última actualización: 2026-06-20
+> Última actualización: 2026-09-07
 
 ## Definición
 
@@ -71,6 +71,16 @@ El alma humana, por ser espiritual, es inmortal. La unión del alma con el cuerp
 
 Tóth aplica el principio personalista a la pedagogía: «todo niño es una persona única e irrepetible y debe recibir una formación individualizada» [JvC-Rel, archivo 25]. «Dios no se repite en ninguno de los seres humanos. Los caminos de la gracia son variadísimos, y Él sabe hablar al alma de mil modos»; «cada alma es distinta; cada joven tiene su propia personalidad. No se puede aplicar el mismo patrón para todos» [archivo 08]. Por eso «no se puede conducir el joven hacia Dios si no se conoce su alma»: la dirección espiritual exige conocer el temperamento, inclinaciones y debilidades de cada uno, pues «cuanto mejor conozcamos el alma del joven mejor podremos aprovechar sus buenas inclinaciones naturales, para acrecentarlas, espiritualizarlas a la mayor gloria de Dios» [archivo 08]. La gracia no destruye sino que supone la naturaleza: el respeto a la singularidad de cada niño es exigencia teológica además de pedagógica (véase [[gracia_santificante]]).
 
+### Según Evangelization & Culture (EAC-19)
+
+**Lo puramente material no puede tener los atributos de la persona (Barron).** Todo lo puramente material —y «digas lo que digas de la IA, es todo lo que puede ser»— no puede tener, ni siquiera en principio, «las cualidades asociadas a la personalidad: la razón y la libertad, la abstracción y el amor». La IA puede reunir información o, a lo sumo, presentar un [[simulacro_de_personalidad]], imitando sus sonidos y gestos como Siri o la app de Waze, pero «no puede trascender su propia programación para convertirse en una persona: la IA nunca puede ser un *yo*—solo un *ello*» [EAC-19, 01_from_the_desk.md, L7-9].
+
+**El error categorial: la IA no es un ser humano (Petrusek).** Confundir la IA con la humanidad «es y siempre será un error categorial»: la IA no es ni será nunca un ser humano «por esta razón primordial: no tiene alma, y nosotros sí» [EAC-19, 03_word_from_institute.md, L15].
+
+**La inteligencia no es el criterio de la dignidad (Vukov).** Contra la suposición de que, al replicar la inteligencia en silicio, nos replicamos a nosotros mismos, la doctrina católica rechaza que el CI de un individuo confiera valor moral: «un ser humano tiene dignidad simplemente por el hecho de ser humano, y por haber sido creado por Dios» [EAC-19, 16_feature_vukov.md, L53-55]. Esta es la razón por la que la enseñanza moral católica defiende «la dignidad inalienable de los no nacidos y de quienes están al final de la vida, aunque estos individuos carezcan de muchas formas de inteligencia» [EAC-19, 16_feature_vukov.md, L53-55].
+
+**«No soy una persona»: la pregunta de Alfie (Schiffer).** En la película *The Creator*, Alfie, un robot con apariencia de niña, se pregunta: «No podemos ir al cielo, porque no eres bueno—y yo no soy una persona» [EAC-19, 07_film.md, L3-7]. La frase desafía al espectador a preguntarse por el cielo, por el significado de la «bondad» y por lo que significa ser una «persona», cuestiones que la antropología católica responde señalando el fundamento de la persona en la creación a imagen de Dios y en el alma espiritual.
+
 ## Distinciones importantes
 
 - **Persona** ≠ **individuo**: la persona es un individuo de naturaleza racional con dignidad intrínseca.
@@ -90,3 +100,4 @@ La persona humana es el sujeto de la [[gracia_santificante]], de las [[virtudes_
 - [CEC §1700-1715]
 - [TPCr, Parte II]
 - [RH §13-17, §21]
+- [EAC-19, 01_from_the_desk.md; 03_word_from_institute.md; 16_feature_vukov.md; 07_film.md]

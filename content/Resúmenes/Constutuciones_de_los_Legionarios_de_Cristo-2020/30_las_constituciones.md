@@ -4,7 +4,7 @@ title: "las constituciones"
 fuente: Constutuciones_de_los_Legionarios_de_Cristo-2020
 capítulo: 30
 timestamp: 2026-08-24
-description: "Resumen de 'las constituciones' — Constutuciones_de_los_Legionarios_de_Cristo-2020"
+description: "Resumen de 'Las Constituciones' — Introducción histórica al texto constitucional"
 tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 ---
 
@@ -12,34 +12,20 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[Constituciones_de_la_Congregación_de_los_Legionarios_de_Cristo]]
+- [[derecho_propio]]
+- [[aprobación_canónica]]
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `las_constituciones.md`
+### Las Constituciones
 
+El texto presenta una breve introducción histórica para ubicar y comprender mejor el texto actual de las *Constituciones de la Congregación de los Legionarios de Cristo*.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | Las Constituciones |
-
+Han existido seis versiones anteriores de las *Constituciones*, aprobadas por las autoridades eclesiales en 1948, 1965, 1970, 1983, 1994 y 2014. Con excepción de la primera (1948), la respectiva aprobación fue concedida por la Santa Sede, a través de la Sagrada Congregación de Religiosos e Institutos Seculares (más recientemente Congregación para los Institutos de Vida Consagrada y las Sociedades de Vida Apostólica — CIVCSVA).
 
 ## Secciones incluidas
 
 ## Las Constituciones
 
-[Contenido de esta sección...]
+Breve introducción histórica sobre las versiones anteriores de las Constituciones de la Congregación de los Legionarios de Cristo, aprobadas en 1948, 1965, 1970, 1983, 1994 y 2014, la mayoría por la Santa Sede a través de la Congregación para los Institutos de Vida Consagrada.

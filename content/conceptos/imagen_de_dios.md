@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Imagen de Dios
 tags: ["dogmática", "antropología_teológica"]
 
-timestamp: 2026-09-02
+timestamp: 2026-09-07
 description: "El hombre ha sido creado \"a imagen y semejanza de Dios\" (Gn 1,26)."
 ---
 # Imagen de Dios
 
 > Área: Dogmática / Antropología teológica
-> Última actualización: 2026-09-02
+> Última actualización: 2026-09-07
 
 ## Definición
 
@@ -134,6 +134,14 @@ Bobby Angel sitúa la comedia dentro del imago Dei: «En materia teológica, la 
 
 **El hombre, infinitamente creativo (Christopher Barnard, 24_peripheries_barnard.md).** Contra el anti-natalismo del activismo climático, que desvalora la dignidad humana y la reproducción, Barnard subraya que el hombre, hecho a imagen de Dios, es «infinitamente creativo» como su Creador. La ética del cuidado de la creación no degrada al hombre a mero problema, sino que lo confirma como administrador único y responsable de la creación en alianza con su Dios.
 
+### Según Evangelization & Culture (EAC-19)
+
+**La imago Dei frente a la caricatura del hombre (Vukov).** La tradición enseña que «somos creados a la *imago Dei*, no según una caricatura del hombre»: el alma humana es creada directamente por Dios, «no por un ingeniero del MIT», somos verdaderamente inmortales y nuestra existencia no se ve amenazada por un corte de luz o un servidor que falla [EAC-19, 16_feature_vukov.md, L51]. La inteligencia no es el criterio de la dignidad humana: si se usa el CI como vara de medir la humanidad, se cae en el error de que el coeficiente intelectual confiere valor moral. La doctrina católica lo rechaza inequívocamente: «un ser humano tiene dignidad simplemente por el hecho de ser humano, y por haber sido creado por Dios» [EAC-19, 16_feature_vukov.md, L53-55]. Por eso la Iglesia defiende la dignidad inalienable de los no nacidos y de quienes están al final de la vida, aunque carezcan de muchas formas de inteligencia [EAC-19, 16_feature_vukov.md, L53-55].
+
+**«Somos creadores» a imitación de Dios (Granitto).** Imbuidos por el conocimiento celestial de que «hemos sido amorosamente formados por nuestro eterno Padre, nosotros también queremos formar»: contamos historias, escribimos poemas, pintamos cuadros, esculpimos estatuas, diseñamos edificios y erigimos puentes. «En nuestros mejores momentos glorificamos a Dios; en nuestros peores, saciamos nuestras peores apetencias». Somos creadores «y, a no dudarlo, legítimamente»: como musita el Salmista, «Tú formaste mis entrañas, me tejiste en el seno de mi madre. Te alabo, porque soy una obra admirable; admirables son tus obras!» (Sal 139,13-14) [EAC-19, 13_art.md, L117-129]. La creación de la inteligencia artificial se sitúa así dentro de la vocación creadora del hombre hecho a imagen de Dios.
+
+**La subcreación: «hechos a imagen y semejanza de un Hacedor» (Stewart).** Siguiendo a Tolkien, la escritora Haley Stewart recuerda la relación vertical entre Dios Creador y el hombre, portador de su imagen, que actúa como [[subcreación]]: «Hacemos en nuestra medida y en nuestro modo derivado, porque fuimos hechos; y no solo hechos, sino hechos a imagen y semejanza de un Hacedor» [EAC-19, 17_feature_stewart.md, L25]. Usamos las herramientas que Dios nos da para crear a imitación suya; en su forma más pura, el arte es un acto de adoración, y el escritor da gloria a Dios mediante su subcreación.
+
 ## Distinciones importantes
 
 - Imagen natural: la inteligencia y voluntad libres que todo ser humano posee por naturaleza
@@ -174,3 +182,4 @@ Se relaciona con la [[creación]] del hombre, el [[pecado_original]] que la desf
 - [EAC-1, Issue 1 «Creativity»: archivos 10, 11, 19]
 - [EAC-16, 09_science.md]
 - EAC-17, *Evangelization & Culture, Issue 17 — Education* (Autumn 2023), Word on Fire Institute (Baglow, 11_science.md; Barnard, 24_peripheries_barnard.md)
+- [EAC-19, 13_art.md; 16_feature_vukov.md; 17_feature_stewart.md]

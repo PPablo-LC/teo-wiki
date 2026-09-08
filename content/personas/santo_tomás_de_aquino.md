@@ -3,13 +3,13 @@ type: Persona
 title: Santo Tomás de Aquino
 tags: ["persona"]
 
-timestamp: 2026-09-02
+timestamp: 2026-09-07
 description: "Tomás de Aquino (1225-1274), religioso dominico, Doctor Angélico y Doctor Común de la Iglesia."
 ---
 # Santo Tomás de Aquino
 
 > Área: Persona
-> Última actualización: 2026-09-02
+> Última actualización: 2026-09-07
 
 ## Contexto histórico
 Tomás de Aquino (1225-1274), religioso dominico, Doctor Angélico y Doctor Común de la Iglesia. Nacido en el castillo de Roccasecca (Italia), estudió en Montecasino, Nápoles, París y Colonia, donde fue discípulo de San Alberto Magno. Es la cumbre de la escolástica medieval y el teólogo más influyente de la historia de la Iglesia.
@@ -54,6 +54,18 @@ Tomás es la autoridad central en la reflexión de Robert Barron sobre el [[prob
 - **Dios como artista.** Una de las imágenes favoritas de Aquino para Dios es la del artista: cada criatura es objeto de su esfuerzo estético, pero el universo entero es «la principal y propia finalidad»; la creación es «una obra en curso» cuya coherencia solo se alcanzará en el *eschaton*. El Génesis expresa que Dios vio buenas las criaturas particulares pero «muy bueno» el conjunto.
 - **Dios no puede forzar el amor (archivo 16, Kaczor).** En la defensa tomista de la teodicea, [[libre_albedrío|la libertad]] es tal que ni siquiera Dios puede forzar un amor libre ni hacer lo imposible.
 
+## Antropología y libertad según Evangelization & Culture n.º 19 «Artificial Intelligence» (EAC-19)
+
+Fr. Anselm Ramelow OP («Artificial Intelligence as a Challenge to Human Freedom», 15_feature_ramelow.md) encuentra en Tomás la clave para responder al determinismo estadístico de los algoritmos de [[inteligencia_artificial]]:
+
+- **Sentido colectivo vs. distributivo.** Con Tomás, la imposibilidad de evitar todo pecado venial aun en estado de gracia —que requeriría una gracia especial como la de la Santísima Virgen o los Apóstoles tras Pentecostés— no suprime la responsabilidad: la imposibilidad vale en el plano *colectivo* (no es posible evitar *todos*), pero no en el *distributivo* (cada pecado venial tomado individualmente sí puede evitarse). Cada elección permanece libre aunque sea estadísticamente probable que algo falle.
+- **La propensión metafísica al error.** La razón de tales leyes estadísticas es, primero, el [[pecado_original]]: aun tras el Bautismo, el estrés, el cansancio, la multitarea y la sorpresa nos toman desprevenidos. Tomás añade que incluso sin la caída habría cierta propensión estadística al fallo: criaturas finitas sacadas de la nada, tendemos metafísicamente a la entropía — una especie de «ley de Murphy».
+- **El paso reflexivo atrás y el «veto right».** Mientras la mente pueda considerar racionalmente las opciones, podemos tomar distancia reflexiva ante la tentación inmediata o el *clickbait* (solo un daño cerebral, la sorpresa o una reacción meramente fisiológica dejan fuera al libre albedrío). Mínimamente, siempre podemos ejercer nuestro «derecho de veto» (veto right) y decir libremente «no» a lo que intenta confundirnos, esperando a que se asiente el polvo.
+- **Pesimismo realista sobre el ejercicio de la libertad.** Tomás defiende firmemente el [[libre_albedrío]], pero es «sorprendentemente pesimista» al evaluar la probabilidad de que lo ejercitemos bien: solo los muy sabios dan ese paso reflexivo; la mayoría cede al *clickbait*. La vida en internet agrava los factores (estrés, malas noticias, presión por responder rápido) que Tomás ya conocía.
+- **La virtud hace predecible sin quitar libertad.** La virtud y la sabiduría facilitan las elecciones libres y, paradójicamente, hacen más predecible a la persona (podría predecirse que la Madre Teresa no asesinaría a nadie), pero eso no le quita libertad: la libertad tiene que ver con la sabiduría, no con el capricho; ser predecible por virtud documenta nuestra liberación, no nuestra esclavitud.
+
+Además, el número lo recoge en su sección de meditación (23_parting_thoughts.md): «Santo Tomás de Aquino, sin embargo, cree que cada uno de nosotros puede dar un paso atrás y reflexionar sabiamente sobre la posible virtud o vicio de nuestro próximo acto. En una era de IA, ¿estamos dando ese paso reflexivo atrás? ¿O estamos sucumbiendo al deseo y la conveniencia irreflexivos?».
+
 ## Analizado para
 
 - [[fr_michael_luxbacher_life_in_abundance]]
@@ -62,7 +74,7 @@ Tomás es la autoridad central en la reflexión de Robert Barron sobre el [[prob
 - [[tim_barry_the_strength_of_meekness]]
 
 ## Ver también
-[[san_agustín]], [[pseudo-dionisio_areopagita]], [[antonio_royo_marín]], [[teología_ascética_y_mística]], [[eucaristía]], [[presencia_real]], [[transubstanciación]], [[persona_eucarística]]
+[[san_agustín]], [[pseudo-dionisio_areopagita]], [[antonio_royo_marín]], [[teología_ascética_y_mística]], [[eucaristía]], [[presencia_real]], [[transubstanciación]], [[persona_eucarística]], [[inteligencia_artificial]], [[libre_albedrío]]
 
 ## Referencias
 - [TPCr, Resumen histórico-bibliográfico n.11]
@@ -71,3 +83,4 @@ Tomás es la autoridad central en la reflexión de Robert Barron sobre el [[prob
 - Barron, Robert. «If It's a Symbol, to Hell with It», en *Evangelization & Culture* 13 (Autumn 2022); *Eucharist* (Word on Fire, 2021).
 - O'Malley, Timothy. «Eucharistic Personhood», en *Evangelization & Culture* 13 (Autumn 2022).
 - Barron, Robert. «The Holy Quest: Searching for Meaning in the Problem of Suffering»; Kaczor, Christopher. «Faith and the Defeat of Suffering», en *Evangelization & Culture* 15 (Spring 2023).
+- Ramelow, Anselm OP. «Artificial Intelligence as a Challenge to Human Freedom», en *Evangelization & Culture* 19 (Word on Fire Institute); «Meditatio & Contemplatio», 23_parting_thoughts.md.

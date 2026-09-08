@@ -12,34 +12,23 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[unción_de_enfermos]] — sacramento de la extremaunción recomendado por el Apóstol Santiago
+- [[remisión_de_los_pecados]] — por la extremaunción se perdonan los pecados si fielmente se pide
+- [[penitencia_pública]] — el enfermo sujeto a pública penitencia necesita reconciliación previa
+- [[eucaristía]] — comunión del cuerpo y la sangre de Cristo como condición para la extremaunción
 
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `0051_ESTEBAN_V_816-817_VALENTIN_827SAN_PASCUAL_I_817-824_GREGORIO.md`
+### ESTEBAN V, 816-817 VALENTIN, 827SAN PASCUAL I, 817-824 GREGORIO IV, 828-844EUGENIO II, 824-827 SERGIO II, 844-847 SAN LEON IV, 847 855
 
+**Del sacramento de la extremaunción:**
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | ESTEBAN V, 816-817 VALENTIN, 827SAN PASCUAL I, 817-824 GREGORIO IV, 82 |
+**D-315** También el saludable sacramento que recomienda el Apóstol Santiago —«Si alguno está enfermo... se le perdonará» (Sant. 5,14 s)— hay que darlo a conocer a los pueblos con cuidadosa predicación: grande y muy apetecible misterio por el que, si fielmente se pide, se perdonan los pecados y, consiguientemente, se restituye la salud corporal. Pero si el enfermo está sujeto a la [[penitencia_pública|pública penitencia]], no puede conseguir la medicina de este misterio a no ser que, obtenida primero la reconciliación, mereciere la [[eucaristía|comunión del cuerpo y de la sangre de Cristo]]: a quien le están prohibidos los restantes [[sacramentos]], en modo alguno se le permite usar de este sacramento.
 
 
 ## Secciones incluidas
 
 ## ESTEBAN V, 816-817 VALENTIN, 827SAN PASCUAL I, 817-824 GREGORIO IV, 828-844EUGENIO II, 824-827 SERGIO II, 844-847 SAN LEON IV, 847 855
 
-[Contenido de esta sección...]
+Doctrina sobre el sacramento de la [[unción_de_enfermos|extremaunción]]: su institución apostólica, sus efectos de perdón y salud, y el requisito de la reconciliación para los públicos penitentes (D-315).

@@ -22,7 +22,7 @@ Su conversión al catolicismo, aunque no ampliamente documentada en entrevistas 
 
 ### *The Thin Red Line* (1998)
 
-La adaptación de la novela de James Jones sobre la batalla de Guadalcanal durante la Segunda Guerra Mundial es, según多位 críticos, una de las películas más espirituales jamás realizadas sobre la guerra. Malick no muestra la guerra como un espectáculo de acción, sino como una meditación sobre la relación entre el mal y la belleza de la naturaleza. Los soliloquios de los personajes exploran la pregunta de cómo puede coexistir la violencia humana con la perfección de la creación, una tensión que remite directamente al problema del mal (*theodicy*).
+La adaptación de la novela de James Jones sobre la batalla de Guadalcanal durante la Segunda Guerra Mundial es, según múltiples críticos, una de las películas más espirituales jamás realizadas sobre la guerra. Malick no muestra la guerra como un espectáculo de acción, sino como una meditación sobre la relación entre el mal y la belleza de la naturaleza. Los soliloquios de los personajes exploran la pregunta de cómo puede coexistir la violencia humana con la perfección de la creación, una tensión que remite directamente al problema del mal (*theodicy*).
 
 ### *The New World* (2005)
 

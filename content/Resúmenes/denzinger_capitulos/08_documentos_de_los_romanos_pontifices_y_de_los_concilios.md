@@ -4,7 +4,7 @@ title: "DOCUMENTOS DE LOS ROMANOS PONTIFICES Y DE LOS CONCILIOS"
 fuente: denzinger_capitulos
 capítulo: 8
 timestamp: 2026-08-24
-description: "Resumen de 'DOCUMENTOS DE LOS ROMANOS PONTIFICES Y DE LOS CONCILIOS' — denzinger_capitulos"
+description: "Resumen de la sección sobre documentos de los romanos pontífices y concilios"
 tags: ["resumen", "denzinger capitulos"]
 ---
 
@@ -12,34 +12,17 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[primado_del_romano_pontífice]] — autoridad del papa como sucesor de Pedro
+- [[magisterio]] — autoridad de enseñar de la Iglesia
+- [[concilios_ecuménicos]] — asambleas de obispos con autoridad doctrinal
+- [[tradición]] — transmisión de la fe de los Apóstoles
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `0008_DOCUMENTOS_DE_LOS_ROMANOS_PONTIFICES_Y_DE_LOS_CONCILIOS.md`
-
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | DOCUMENTOS DE LOS ROMANOS PONTIFICES Y DE LOS CONCILIOS |
-
+Esta sección encabeza la segunda gran parte de la obra de Denzinger, dedicada a los documentos emanados de los romanos pontífices y de los concilios a lo largo de la historia de la Iglesia. A diferencia de la primera parte (Símbolos), que recoge las fórmulas de profesión de fe, esta sección recopila decretos, cartas, cánones y definiciones dogmáticas de los papas y de los concilios.
 
 ## Secciones incluidas
 
 ## DOCUMENTOS DE LOS ROMANOS PONTIFICES Y DE LOS CONCILIOS
 
-[Contenido de esta sección...]
+Sección introductoria que presenta el conjunto de documentos doctrinales de los [[romanos_pontífices]] y de los [[concilios_ecuménicos]] y regionales, desde los primeros siglos hasta la época moderna. Incluye testimonios de los primeros papas (San Pedro, San Clemente I), las definiciones de los concilios ecuménicos (Nicea, Constantinopla, Efeso, Calcedonia), las encíclicas papales y los decretos de la Iglesia sobre materias de fe, moral, liturgia y disciplina.

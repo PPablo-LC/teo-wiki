@@ -12,34 +12,22 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[confesión]] — reiterar la confesión de los pecados como parte de la penitencia
+- [[penitencia]] — la vergüenza es una parte grande de la penitencia
+- [[confesión_anual]] — exhortación de los frailes para confesarse por lo menos una vez al año con el propio sacerdote
 
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `0067_BENEDICTO_XI_1303_-1304.md`
+### BENEDICTO XI, 1303 -1304
 
+**De la reiteración de la confesión y del ministerio de los frailes** [Constitución *Inter cunctas sollicitudines*, 17 de febrero de 1304]:
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | BENEDICTO XI, 1303 -1304 |
+**D-470** Aunque no sea de necesidad confesar nuevamente los pecados, sin embargo, por la vergüenza que es una parte grande de la [[penitencia]], tenemos por cosa saludable que se reitere la [[confesión]] de los mismos pecados. Rigurosamente se manda que los frailes Predicadores y Menores atentamente avisen y exhorten en sus predicaciones a que los fieles se confiesen con sus sacerdotes por lo menos una vez al año, asegurándoles que ello indudablemente se refiere al provecho de las almas.
 
 
 ## Secciones incluidas
 
 ## BENEDICTO XI, 1303 -1304
 
-[Contenido de esta sección...]
+Constitución *Inter cunctas sollicitudines*: saludable reiteración de la confesión y exhortación de los frailes a la [[confesión_anual]] con el propio sacerdote (D-470).

@@ -17,7 +17,7 @@ La omnipresencia divina es el atributo por el cual Dios está presente en todas 
 
 ## Desarrollo doctrinal
 
-Dios está presente en todas las cosas como el agente está presente en aquello en lo que obra. Así como el fuego está presente en lo que calienta, Dios, que es la causa del ser de todas las cosas, está presente en todo lo que es, conservándolo en el ser. Esta presencia no es局部 (como la de los cuerpos) ni parcial, sino total e íntima: Dios está en lo más íntimo de cada cosa porque el ser es lo más íntimo de todo lo que existe. La omnipresencia divina se distingue en tres modos: por esencia (Dios está presente a todas las cosas como causa del ser), por presencia (Dios conoce y ve todas las cosas) y por potencia (Dios obra en todas las cosas).
+Dios está presente en todas las cosas como el agente está presente en aquello en lo que obra. Así como el fuego está presente en lo que calienta, Dios, que es la causa del ser de todas las cosas, está presente en todo lo que es, conservándolo en el ser. Esta presencia no es local (como la de los cuerpos) ni parcial, sino total e íntima: Dios está en lo más íntimo de cada cosa porque el ser es lo más íntimo de todo lo que existe. La omnipresencia divina se distingue en tres modos: por esencia (Dios está presente a todas las cosas como causa del ser), por presencia (Dios conoce y ve todas las cosas) y por potencia (Dios obra en todas las cosas).
 
 ## Perspectivas por fuente
 

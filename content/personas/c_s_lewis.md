@@ -3,7 +3,7 @@ type: Persona
 title: "C.S. Lewis"
 description: "Escritor y apologista británico (1898-1963), converso del ateísmo; autor de Las crónicas de Narnia, Mero cristianismo y Cartas de Screwtape."
 tags: ["apologética", "literatura_católica", "siglo_xx"]
-timestamp: 2026-09-05
+timestamp: 2026-09-07
 ---
 
 # C.S. Lewis
@@ -43,16 +43,21 @@ Lewis es citado en el número dedicado a la conversión como testigo y apologist
 - **La importancia infinita del cristianismo.** Worner (04_midnight_oil.md) recoge la máxima de Lewis a propósito de la Encarnación: el cristianismo «si es falso, no tiene importancia; si es verdadero, tiene una importancia infinita. Lo único que no puede ser es moderadamente importante».
 - **El lagarto de la lujuria.** Rozann Lee (05_lives.md) evoca *The Great Divorce* para la conversión de Santa María Magdalena: como el lagarto de la lujuria, debemos dejar que nuestra vieja vida sea quemada y muera, cooperando con la gracia para ser hechos nuevos.
 
+### Según Evangelization & Culture n.º 19 «Artificial Intelligence» (EAC-19)
+
+Jason Paone, editor de Word on Fire Academic y del nuevo journal teológico *The New Ressourcement*, relata en la entrevista *Spotlight* (10_spotlight_ressourcement.md) la conversión en la que *Mero cristianismo* fue decisiva. Crecido en un movimiento evangélico sectario que aislaba a sus miembros del mundo (incluida «la extraordinaria herencia intelectual y cultural de la Europa cristiana»), Paone descubrió a los veintitantos años el libro de Lewis: «descubrir el cristianismo "meramente" fue algo así como experimentar el color por primera vez — o, quizá, como ver el cielo nocturno por primera vez». Le mostró simultáneamente cuán empobrecido era su mundo evangélico sectario y le dio «un primer vistazo de la extraordinaria sabiduría y riqueza cultural que los cristianos habían producido en sus dos mil años de reflexión sobre el Evangelio». En el mismo diálogo, Paone declara que la meta que ha tenido en mente durante toda su formación de profesor y erudito ha sido contribuir al florecimiento de la cultura intelectual cristiana, así como lo hizo C.S. Lewis. *Mero cristianismo* funciona así como puente hacia la tradición cristiana total —la *ressourcement*—, modelo del diálogo cultural que la inteligencia artificial no puede sustituir.
+
 ## Relevancia teológica
 
 Lewis demuestra que la sátira, la fantasía y el humor pueden ser vehículos de ortodoxia. Aunque anglicano, su antropología (ley moral natural, deseo, razón) es plenamente armonizable con la tradición católica y ha sido recibida como tal.
 
 ## Ver también
 
-[[j_r_r_tolkien]], [[sátira]], [[humor]], [[g_k_chesterton]], [[verdad]]
+[[j_r_r_tolkien]], [[sátira]], [[humor]], [[g_k_chesterton]], [[verdad]], [[inteligencia_artificial]]
 
 ## Referencias
 
 - EAC-8, archivos 08, 15, 18, 20
 - EAC-15, archivo 11 (Ken May), *Suffering and the Limits of Medicine*
 - EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (12_art.md; 10_minds.md; 04_midnight_oil.md; 05_lives.md).
+- EAC-19, *Evangelization & Culture, Issue 19 — Artificial Intelligence* (Word on Fire Institute), 10_spotlight_ressourcement.md (Jason Paone, «Broad and Deep: Why We Need the New Ressourcement»).

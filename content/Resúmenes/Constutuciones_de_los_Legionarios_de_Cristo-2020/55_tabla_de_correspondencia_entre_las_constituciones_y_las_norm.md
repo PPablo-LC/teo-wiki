@@ -12,34 +12,21 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[derecho_canónico]] — correspondencia entre las constituciones y las normas complementarias del derecho propio
+- [[consejos_evangélicos]] — contenidos de la vida consagrada regulados en ambos cuerpos normativos
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
 📄 **Fuente original:** `tabla_de_correspondencia_entre_las_constituciones_y_las_norm.md`
 
+### **Tabla de correspondencia entre las** Constituciones **y las** Normas complementarias **de 2020**
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+Tabla de correspondencia entre dos columnas: en la columna de la izquierda, las Constituciones 2020; en la columna de la derecha, las Normas complementarias 2020.
+
+La tabla permite localizar, para cada número de las *Constituciones* de 2020, la norma o normas complementarias que lo desarrollan o especifican. No obstante, en el archivo fuente la tabla aparece únicamente como encabezado introductorio a esta correspondencia; el contenido tabular propiamente dicho (pares de números constitucionales y de normas complementarias) no se encuentra materializado en el archivo raw, que presenta solo el título y la descripción de las columnas.
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H3 | **Tabla de correspondencia entre las** Constituciones **y las** Normas |
-
-
-## Secciones incluidas
-
-## **Tabla de correspondencia entre las** Constituciones **y las** Normas complementarias **de 2020**
-
-[Contenido de esta sección...]

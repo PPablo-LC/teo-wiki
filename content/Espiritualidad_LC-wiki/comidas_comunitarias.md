@@ -36,15 +36,15 @@ Los Principios y Normas dedican los números 737 a 754 a las normas de comidas c
 
 - *Pan:* Se parte con las manos (no se muerde directamente). Se toma un trozo razonable, se desmenuza si es necesario, y se come sin ensuciar la mesa.
 - *Sopa:* Se toma con cuchara, sin inclinar excesivamente la cabeza hacia el plato. Se evita el ruido al sorber. El pan se sumerge en la sopa solo si la norma lo permite.
-- *Pasta:* Se enrolla con el tenedor (no se corta con cuchillo). Se come sin制造 ruido. Si es pasta larga (espaguetis), se enrolla en porciones pequeñas.
-- *Queso:* Se toma con el tenedor o con la mano (según la种类 de queso). Se come en porciones pequeñas, sin制造 ruido.
+- *Pasta:* Se enrolla con el tenedor (no se corta con cuchillo). Se come sin hacer ruido. Si es pasta larga (espaguetis), se enrolla en porciones pequeñas.
+- *Queso:* Se toma con el tenedor o con la mano (según el tipo de queso). Se come en porciones pequeñas, sin hacer ruido.
 - *Huevos:* Se pelan con cuidado, se comen con tenedor o cuchara (según la preparación). Se evita que la cáscara caiga en la mesa.
 - *Carne:* Se corta con cuchillo y tenedor, en porciones pequeñas. Se mastica bien antes de tragar. Se evita hablar con la boca llena.
 - *Pescado:* Se come con tenedor, cuidadosamente, para separar las espinas. Se mastica con cuidado para detectar eventuales espinas pequeñas.
 - *Pollo:* Se come con tenedor y cucharro. En porciones pequeñas. Se mastica bien.
-- *Verduras:* Se comen con tenedor (si son enteras) o con cuchara (si están en puré o salsa). Se evita制造 ruido.
-- *Fruta:* Se pela con cuidado, se come con las manos (si es fruta dura como manzana) o con tenedor (si es fruta blanda como melocotón). Se evita制造 ruido al masticar.
-- *Dulces y pastelería:* Se comen con tenedor o con las manos, según la种类. Se toman en porciones moderadas.
+- *Verduras:* Se comen con tenedor (si son enteras) o con cuchara (si están en puré o salsa). Se evita hacer ruido.
+- *Fruta:* Se pela con cuidado, se come con las manos (si es fruta dura como manzana) o con tenedor (si es fruta blanda como melocotón). Se evita hacer ruido al masticar.
+- *Dulces y pastelería:* Se comen con tenedor o con las manos, según el tipo. Se toman en porciones moderadas.
 
 ### Según las Normas de Urbanidad (NU)
 

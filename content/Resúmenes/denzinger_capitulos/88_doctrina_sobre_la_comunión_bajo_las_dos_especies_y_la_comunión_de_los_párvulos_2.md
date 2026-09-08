@@ -12,64 +12,69 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[eucaristía]] — comunión bajo una o dos especies
+- [[comunión]] — recepción del sacramento
+- [[presencia_real]] — bajo cualquiera de las especies se recibe a Cristo todo e íntegro
+- [[bautismo]] — regeneración por el lavatorio del bautismo
+- [[gracia]] — los párvulos no pueden perder la gracia recibida
+- [[concilio_de_trento]] — sesión XXI
+- [[sacramentos]] — potestad de la Iglesia en su administración
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `0089_MARCELO_II_1555_PAULO_IV_1555-1559_v_993_PIO_IV_1559-1565_Co.md`
+## MARCELO II, 1555 PAULO, IV, 1555-1559 (v. 993) PIO IV, 1559-1565 Concilio de Trento: Conclusión SESION XXI (16 de julio de 1562)
 
+## Doctrina sobre la comunión bajo las dos especies y la comunión de los párvulos (2)
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+- D-929a: El Concilio, ante los errores sobre el sacramento de la [[eucaristía]], expone la doctrina sobre la [[comunión]] bajo las dos especies y la de los párvulos, prohibiendo creer o predicar de otro modo.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | MARCELO II, 1555 PAULO, IV, 1555-1559 (v. 993) PIO IV, 1559-1565 Conci |
-| 3 | H2 | Doctrina sobre la comunión bajo las dos especies y la comunión de los  |
-| 9 | H2 | *Cap.* 1. Que los laicos y los clérigos que no celebran, no están obli |
-| 13 | H2 | *Cap.* 2. De la potestad de la Iglesia acerca de la administración del |
-| 17 | H2 | *Cap.* 3. Bajo cualquiera de las especies se recibe a Cristo, todo e í |
-| 21 | H2 | Cap. 4. Los párvulos no están obligados a la comunión sacramental |
-| 25 | H2 | Cánones acerca de la comunión bajo las dos especies y la comunión de l |
+## *Cap.* 1. Que los laicos y los clérigos que no celebran, no están obligados por derecho divino a la comunión bajo las dos especies
+
+- D-930: Por ningún precepto divino están obligados los laicos y los clérigos que no celebran a recibir la Eucaristía bajo las dos especies; les basta para la salvación la comunión bajo una sola. La institución por Cristo en la última cena y el capítulo sexto de Juan no significan que todos estén obligados a recibir ambas especies.
+
+## *Cap.* 2. De la potestad de la Iglesia acerca de la administración del sacramento de la Eucaristía
+
+- D-931: La Iglesia tuvo siempre poder para estatuir o mudar en la administración de los [[sacramentos]], salva la sustancia de ellos, lo que juzgara más conveniente. Aunque al principio no fue infrecuente el uso de las dos especies, cambiada la costumbre por graves y justas causas, la Iglesia aprobó la comunión bajo una sola especie y decretó que no es lícito rechazarla o cambiarla sin su autoridad.
+
+## *Cap.* 3. Bajo cualquiera de las especies se recibe a Cristo, todo e íntegro, y el verdadero sacramento
+
+- D-932: Bajo una sola de las especies se recibe a Cristo todo y entero y el verdadero sacramento; quienes reciben una sola especie no quedan defraudados de ninguna gracia necesaria para la salvación.
+
+## Cap. 4. Los párvulos no están obligados a la comunión sacramental
+
+- D-933: Los niños que carecen del uso de la razón por ninguna necesidad están obligados a la comunión sacramental de la Eucaristía, pues, regenerados por el bautismo e incorporados a Cristo, no pueden perder la gracia de hijos de Dios. No debe por ello condenarse la antigüedad que alguna vez guardó esa costumbre.
+
+## Cánones acerca de la comunión bajo las dos especies y la comunión de los párvulos (1)
+
+- D-934 a D-937 (can. 1-4): condenan a los que dicen que por mandato de Dios todos deben recibir ambas especies; a los que dicen que la Iglesia no fue movida por justas causas para la comunión bajo la sola especie o que erró; a los que niegan que bajo la sola especie se reciba a Cristo entero; y a los que dicen que la comunión es necesaria a los párvulos antes de los años de la discreción.
 
 
 ## Secciones incluidas
 
 ## MARCELO II, 1555 PAULO, IV, 1555-1559 (v. 993) PIO IV, 1559-1565 Concilio de Trento: Conclusión SESION XXI (16 de julio de 1562)
 
-[Contenido de esta sección...]
+Contexto de la sesión XXI de Trento.
 
 # Doctrina sobre la comunión bajo las dos especies y la comunión de los párvulos (2)
 
-[Contenido de esta sección...]
+Proemio de la doctrina (D-929a).
 
 # *Cap.* 1. Que los laicos y los clérigos que no celebran, no están obligados por derecho divino a la comunión bajo las dos especies
 
-[Contenido de esta sección...]
+No obligación por derecho divino a las dos especies (D-930).
 
 # *Cap.* 2. De la potestad de la Iglesia acerca de la administración del sacramento de la Eucaristía
 
-[Contenido de esta sección...]
+Potestad de la Iglesia en la administración del sacramento (D-931).
 
 # *Cap.* 3. Bajo cualquiera de las especies se recibe a Cristo, todo e íntegro, y el verdadero sacramento
 
-[Contenido de esta sección...]
+Cristo entero bajo una sola especie (D-932).
 
 # Cap. 4. Los párvulos no están obligados a la comunión sacramental
 
-[Contenido de esta sección...]
+Los párvulos no están obligados a la comunión (D-933).
 
 # Cánones acerca de la comunión bajo las dos especies y la comunión de los párvulos (1)
 
-[Contenido de esta sección...]
+Cánones sobre la comunión bajo las dos especies y los párvulos (D-934 a D-937).

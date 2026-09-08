@@ -36,6 +36,6 @@ La apertura radical propuesta por Lewis no es peligrosa si se tiene fe. «No tem
 
 ### Más allá de la pasividad: la audiencia como evangelizadora
 
-Susanka va más allá de Lewis: no solo comprender, sino transformar y convertir la obra. «Los猫licos están enviados en busca de aquellos artistas que presentan la realidad oscura, difícil, hermosa y redentora que nos rodea. Debemos ir a ellos, abrazarlos y traerlos de vuelta.» La capacidad católica de buscar y ver en la oscuridad sin ser cegados o consumidos por ella es una fortaleza para la evangelización.
+Susanka va más allá de Lewis: no solo comprender, sino transformar y convertir la obra. «Los católicos están enviados en busca de aquellos artistas que presentan la realidad oscura, difícil, hermosa y redentora que nos rodea. Debemos ir a ellos, abrazarlos y traerlos de vuelta.» La capacidad católica de buscar y ver en la oscuridad sin ser cegados o consumidos por ella es una fortaleza para la evangelización.
 
 > «Bautiza su sinceridad y santifícala, como solo los católicos podemos».

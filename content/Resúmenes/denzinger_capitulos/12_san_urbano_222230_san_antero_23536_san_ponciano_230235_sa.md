@@ -4,7 +4,7 @@ title: "SAN URBANO 222-230 SAN ANTERO 235-36 SAN PONCIANO 230-235 SA"
 fuente: denzinger_capitulos
 capítulo: 12
 timestamp: 2026-08-24
-description: "Resumen de 'SAN URBANO 222-230 SAN ANTERO 235-36 SAN PONCIANO 230-235 SA' — denzinger_capitulos"
+description: "Resumen de los documentos sobre la constitución monárquica y jerarquía eclesiástica"
 tags: ["resumen", "denzinger capitulos"]
 ---
 
@@ -12,34 +12,27 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[constitución_monárquica_de_la_iglesia]] — gobierno de la Iglesia por un solo obispo
+- [[primado_del_romano_pontífice]] — autoridad del papa como sucesor de Pedro
+- [[jerarquía_eclesiástica]] — ordenación de los ministerios en la Iglesia
+- [[cisma]] — división en la Iglesia
+- [[herejía]] — enseñanza contraria a la fe ortodoxa
+- [[obispo]] — sucesor de los Apóstoles
+- [[obispo_de_roma]] — título del papa en los primeros siglos
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `0012_SAN_URBANO_222-230_SAN_ANTERO_235-36_SAN_PONCIANO_230-235_SA.md`
+### San Urbano (222-230), San Antero (235-236), San Ponciano (230-235), San Fabiano (235-250)
 
+**D-44** De la constitución monárquica de la Iglesia (Carta de San Cipriano a San Cornelio, año 252):
+Profesión de fe de los cismáticos Máximo, Urbano, Sidonio y otros al papa Cornelio:
+«Nosotros sabemos que Cornelio ha sido elegido obispo de la Santísima Iglesia Católica por Dios omnipotente y por Cristo Señor nuestro; nosotros confesamos nuestro error. Hemos sido víctimas de una impostura; hemos sido cogidos por una perfidia y charlatanería capciosa. [...] No ignoramos que hay un solo Dios y un solo Jesucristo, un solo Espíritu Santo, y sólo debe haber un obispo en una Iglesia Católica.»
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | SAN URBANO 222-230 SAN ANTERO, 235-36 SAN PONCIANO, 230-235 SAN FABIAN |
-
+**D-45** De la jerarquía eclesiástica (Carta de San Cipriano a Fabio, obispo de Antioquía, año 251):
+Sobre el cisma de Novaciano: «El vindicador del Evangelio no sabía que en una iglesia católica sólo debe haber un obispo.» En Roma había: 46 presbíteros, 7 diáconos, 7 subdiáconos, 42 acólitos, 52 exorcistas, lectores y ostiarios, y más de 1500 viudas y pobres.
 
 ## Secciones incluidas
 
-## SAN URBANO 222-230 SAN ANTERO, 235-36 SAN PONCIANO, 230-235 SAN FABIANO, 235-250
+## SAN URBANO 222-230 — SAN FABIANO, 235-250
 
-[Contenido de esta sección...]
+Dos documentos de San Cipriano de Cartago: (1) D-44, la profesión de fe de los cismáticos al papa Cornelio, que reconoce la [[constitución_monárquica_de_la_iglesia]] y el [[primado_del_romano_pontífice]]; (2) D-45, la descripción de la jerarquía de la Iglesia de Roma bajo el papa Cornelio, que atestigua la estructura ministerial completa de la comunidad romana en el siglo III.

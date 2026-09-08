@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Unidad del alma y el cuerpo
 tags: ["antropología_teológica"]
 
-timestamp: 2026-06-19
+timestamp: 2026-09-07
 description: "El hombre ha sido creado por Dios como unidad de alma y cuerpo."
 ---
 # Unidad del alma y el cuerpo
 
 > Área: Antropología Teológica
-> Última actualización: 2026-06-19
+> Última actualización: 2026-09-07
 
 ## Definición
 
@@ -49,13 +49,19 @@ Gaudium et spes enseña que el hombre, creado a imagen de Dios, no puede encontr
 
 Santo Tomás enseña que el alma intelectiva es la forma del cuerpo, que da el ser al cuerpo y lo constituye como cuerpo humano (SmTh Iª q.76 a.1). El alma espiritual e inmortal subsiste por sí misma pero está naturalmente unida al cuerpo para constituir una única naturaleza (SmTh Iª q.75 a.2-4).
 
+### Según Evangelization & Culture (EAC-19)
+
+**El error categorial de confundir la IA con lo humano (Petrusek).** Por muy avanzada que llegue a estar la inteligencia artificial —incluso integrada en robots humanoides de apariencia autónoma—, «confundir la IA con la humanidad es y siempre será un error categorial»: la IA no es ni será nunca un ser humano «por esta razón primordial: no tiene alma, y nosotros sí. Es solo una máquina digital, y nosotros no» [EAC-19, 03_word_from_institute.md, L15]. Todos somos «una unidad de cuerpo y alma», y una de las propiedades del alma es que no pertenece —no puede, por definición— al reino del tiempo y del espacio. Por eso, nada en el tiempo y el espacio, incluyendo el programa generativo más poderosamente inteligente que podamos concebir ahora o en el futuro, puede crear o reemplazar el alma: esa prerrogativa pertenece al Creador y solo al Creador [EAC-19, 03_word_from_institute.md, L15].
+
+**Contra el gnosticismo y el reduccionismo (Vukov).** La antropología católica ha resistido siempre tanto el gnosticismo como el reduccionismo: contra los reduccionistas, afirma que el hombre es más que una máquina de computar; contra los gnósticos, que no es un espíritu puro. Somos «almas y cuerpos a la vez». Como dice el Catecismo, «El ser humano, creado a imagen de Dios, es un ser a la vez corpóreo y espiritual […]. El hombre, aunque esté hecho de cuerpo y alma, es una unidad» (CEC 364-365) [EAC-19, 16_feature_vukov.md, L47-49]. Esta visión resiste el reduccionismo al insistir en el lado inmaterial de la humanidad y rechaza la idea gnóstica de que somos plenamente inmateriales. Precisamente porque la humanidad es una unidad de alma y cuerpo, se hace imposible confundir a la IA con un ser humano: «ChatGPT, después de todo, no tiene alma. Y tampoco tiene cuerpo» —o, si lo tiene, es de un tipo muy distinto, alojado en servidores y distribuido en el espacio— [EAC-19, 16_feature_vukov.md, L47-49]. El alma humana, enseña la tradición, «es creada directamente por Dios, no por un ingeniero del MIT»; estamos creados a la *imago Dei*, «no según una caricatura del hombre», somos verdaderamente inmortales y nuestra existencia no se ve amenazada por un corte de luz o un servidor que falla [EAC-19, 16_feature_vukov.md, L51].
+
 ## Distinciones importantes
 
 La unidad de alma y cuerpo no debe entenderse como dos naturalezas yuxtapuestas, sino como una unión sustancial en la que el alma espiritual es la forma del cuerpo. Esto excluye tanto el dualismo platónico (que considera el cuerpo como prisión del alma) como el materialismo (que reduce el espíritu a epifenómeno de la materia). El cuerpo humano es persona en virtud del alma espiritual, no una realidad meramente biológica.
 
 ## Relaciones doctrinales
 
-Se relaciona con [[alma]], [[cuerpo]], [[persona_humana]], [[antropología_cristiana]], [[imagen_de_dios]], [[dignidad_humana]], [[resurrección]], [[corazón_humano]].
+Se relaciona con [[alma]], [[cuerpo]], [[persona_humana]], [[antropología_cristiana]], [[imagen_de_dios]], [[dignidad_humana]], [[resurrección]], [[corazón]].
 
 ## Analizado en contexto cultural
 
@@ -71,3 +77,4 @@ Se relaciona con [[alma]], [[cuerpo]], [[persona_humana]], [[antropología_crist
 - [CEC §363-366, §1703]
 - [ConcVatII, GS 14-15, GS 24]
 - [SmTh Iª q.75-76]
+- [EAC-19, 03_word_from_institute.md; 16_feature_vukov.md]

@@ -12,34 +12,23 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[vida_religiosa]] — renovación postconciliar de la vida religiosa
+- [[carisma]] — revisión que no introdujo variantes de importancia
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
 📄 **Fuente original:** `versión_del_año_1970.md`
 
+### Versión del año 1970
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+En cumplimiento de las disposiciones del motu proprio *Ecclesiae sanctae*, del 6 de agosto de 1966, acerca de la renovación postconciliar de la vida religiosa, la Legión de Cristo celebró un Capítulo General extraordinario que tuvo dos sesiones: una en Roma (1968) y otra en Dublín (1969).
+
+Según las indicaciones generales de la Santa Sede, una de las tareas asignadas a los capítulos generales extraordinarios de todos los institutos religiosos fue la revisión de las propias constituciones.
+
+Esta revisión no introdujo variantes de importancia. Cuenta con solo veinticinco nuevos números, algunos tomados directamente de los textos del Concilio. Contiene además pocas variantes menores a los números ya existentes. Este texto de las *Constituciones* estuvo vigente a partir de finales del año 1970.
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H3 | Versión del año 1970 |
-
-
-## Secciones incluidas
-
-## Versión del año 1970
-
-[Contenido de esta sección...]

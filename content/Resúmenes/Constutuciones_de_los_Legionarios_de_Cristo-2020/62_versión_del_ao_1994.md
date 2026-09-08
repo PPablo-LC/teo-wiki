@@ -12,34 +12,20 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[carisma]] — ajustes del texto constitucional según la voluntad del fundador
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
 📄 **Fuente original:** `versión_del_año_1994.md`
 
+### Versión del año 1994
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+Pocos años después, a saber, el 7 de mayo de 1989, el fundador escribió al Santo Padre, a través de la CIVCSVA, para pedir ulteriores modificaciones al texto constitucional. La CIVCSVA respondió el 2 de junio de 1989 que difería las consideraciones de tales cambios hasta una fecha posterior al siguiente Capítulo General.
+
+Los participantes en el Capítulo General celebrado en el otoño de 1992 pidieron a la Santa Sede el ajuste del texto de las *Constituciones*, según la voluntad del fundador. Se conserva copia de la carta firmada por todos ellos. La petición fue presentada el 16 de diciembre de 1993. La CIVCSVA concedió la aprobación del nuevo texto el 2 de marzo de 1994.
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H3 | Versión del año 1994 |
-
-
-## Secciones incluidas
-
-## Versión del año 1994
-
-[Contenido de esta sección...]

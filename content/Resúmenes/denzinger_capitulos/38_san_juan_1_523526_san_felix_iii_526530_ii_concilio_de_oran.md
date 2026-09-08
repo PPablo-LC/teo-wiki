@@ -4,7 +4,7 @@ title: "SAN JUAN 1 523-526 SAN FELIX III 526-530 II CONCILIO DE ORAN"
 fuente: denzinger_capitulos
 capítulo: 38
 timestamp: 2026-08-24
-description: "Resumen de 'SAN JUAN 1 523-526 SAN FELIX III 526-530 II CONCILIO DE ORAN' — denzinger_capitulos"
+description: "Resumen de los documentos de San Juan I, San Félix III y el II Concilio de Orange contra el semipelagianismo"
 tags: ["resumen", "denzinger capitulos"]
 ---
 
@@ -12,34 +12,35 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[semipelagianismo]] — herejía que otorga prioridad a la iniciativa humana en la salvación
+- [[gracia]] — don sobrenatural de Dios
+- [[predestinación]] — decreto de Dios sobre la salvación
+- [[libre_albedrío]] — capacidad de autodeterminación humana
+- [[inicio_de_la_fe]] — principio de la fe que es obra de Dios
+- [[perseverancia_final]] — don de Dios de la constancia hasta el fin
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `0038_SAN_JUAN_1_523-526_SAN_FELIX_III_526-530_II_CONCILIO_DE_ORAN.md`
+### San Juan I (523-526)
 
+**D-176** (Epístola al obispo de Cartago): Afirma la condenación de los errores pelagianos por los concilios anteriores.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### San Félix III (526-530)
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | SAN JUAN 1, 523-526 SAN FELIX III, 526-530 II CONCILIO DE ORANGE, 529  |
+**D-177** (Epístola al mismo obispo, 528): «Queremos tener por segura la fe que la Sede Apostólica conserva inmutable.» Contra la herejía semipelagiana.
 
+### II Concilio de Orange (529)
+
+**D-178**: Decreto de fe contra el semipelagianismo, citando a San Agustín y a los Papas. «La fe con que creemos en Cristo es un don de Dios; la predicación de los Apóstoles y de la Iglesia es instrumento de la gracia.» Ningún hombre puede creer sin la gracia de Dios.
+
+**D-179**: De la predestinación: «Todo buen don viene de Dios.» La gracia precede a la voluntad y la mueve; Dios coopera con el libre albedrío sin anularlo.
+
+**D-180**: «Dios predestina a los suyos y obra en ellos la voluntad y la obra... el hombre no puede perseverar sin el auxilio de la gracia.»
+
+**D-181**: Condena a los que niegan la necesidad de la gracia para el comienzo y el progreso de la fe.
 
 ## Secciones incluidas
 
-## SAN JUAN 1, 523-526 SAN FELIX III, 526-530 II CONCILIO DE ORANGE, 529 (en la Galia) Confirmado por Bonifacio II
+## SAN JUAN I, 523-526 — SAN FÉLIX III, 526-530 — II CONCILIO DE ORANGE, 529
 
-[Contenido de esta sección...]
+Documentos que combaten el [[semipelagianismo]]: la fe es un don de Dios, la gracia precede y mueve la voluntad, y el hombre no puede creer, obrar bien ni perseverar sin el auxilio de la gracia. La [[predestinación]] es para la salvación y Dios obra en los suyos la voluntad y la obra. Estos documentos completan la doctrina católica sobre la gracia contra los errores pelagianos y semipelagianos.

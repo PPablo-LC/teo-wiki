@@ -4,7 +4,7 @@ title: "normas complementarias al capítulo 10 las prácticas apostóli"
 fuente: Constutuciones_de_los_Legionarios_de_Cristo-2020
 capítulo: 34
 timestamp: 2026-08-24
-description: "Resumen de 'normas complementarias al capítulo 10 las prácticas apostóli' — Constutuciones_de_los_Legionarios_de_Cristo-2020"
+description: "Resumen de 'Normas complementarias al Capítulo 10. Las prácticas apostólicas'"
 tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 ---
 
@@ -12,34 +12,25 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[prácticas_apostólicas]]
+- [[formación_religiosa]]
+- [[apostolado]]
+- [[discernimiento_vocacional]]
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `normas_complementarias_al_capítulo_10_las_prácticas_apostóli.md`
+### Normas complementarias al Capítulo 10. Las prácticas apostólicas
 
+Considerando que las [[prácticas_apostólicas]] son una etapa de [[formación_religiosa]], estas normas establecen:
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+1. Los religiosos deben destinarse a lugares donde se garantice la debida atención y acompañamiento por parte de los superiores y directores de apostolado.
+2. Al asignarles encargos apostólicos, se considere ante todo que las prácticas tienen una finalidad formativa.
+3. En caso de necesidad, en diálogo con el religioso y por su bien, el superior mayor competente puede interrumpir las prácticas apostólicas.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | Normas complementarias al Capítulo 10. Las prácticas apostólicas |
-
+Además, el Director General, oído su consejo, puede excepcionalmente anticipar o postergar el período de prácticas apostólicas de algún religioso, además de reducirlo o prorrogarlo.
 
 ## Secciones incluidas
 
 ## Normas complementarias al Capítulo 10. Las prácticas apostólicas
 
-[Contenido de esta sección...]
+Normas sobre la asignación de lugares con atención y acompañamiento, la finalidad formativa de las prácticas, la posibilidad de interrumpirlas, y la facultad del Director General para modificar su calendario.

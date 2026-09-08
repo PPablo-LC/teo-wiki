@@ -3,13 +3,13 @@ type: Persona
 title: "Pío XI"
 description: "Papa (1922-1939). Definió la realeza de Cristo (Quas Primas, D‑2194–D‑2197), desarrolló la doctrina del matrimonio (Casti Connubii, D‑2225–D‑2226) y la educación cristiana (Divini illius Magistri, D‑2202–D‑2224), condenó el laicismo y promovió la Acción Católica."
 tags: ["teología_dogmática", "teología_moral", "doctrina_social", "historia_—_papado"]
-timestamp: 2026-06-28
+timestamp: 2026-09-07
 ---
 
 # Pío XI
 
 > Área: Teología dogmática / Teología moral / Educación
-> Última actualización: 2026-06-28
+> Última actualización: 2026-09-07
 
 **Pío XI** (Achille Ratti, 1857–1939), papa del 6 de febrero de 1922 al 10 de febrero de 1939. Su pontificado se caracterizó por la afirmación de la realeza de Cristo, la profundización de la doctrina sobre el matrimonio y la educación, y la denuncia de los totalitarismos (fascismo, nazismo, comunismo).
 
@@ -37,14 +37,21 @@ Le tocó gobernar la Iglesia durante el ascenso de los regímenes totalitarios. 
 
 9. **Decreto sobre el Comma Iohanneum** (1897/1927, D‑2198): Reafirmó la autenticidad del texto de 1 Jn 5,7, aunque permitió la investigación crítica moderada.
 
+## Perspectivas por fuente
+
+### Según EAC-19 — Word on Fire Institute
+
+**Tom Hoopes** («Peripheries: A Brief History of Fear», 22_peripheries.md) recuerda cómo la Iglesia abrazó la imprenta —la Biblia de Gutenberg de 1436 era la Vulgata católica— y luego la radio: «Guglielmo Marconi puso a Pío XI en la radio en 1931, presentando la transmisión con lo que podría ser la declaración de misión tecnológica de la Iglesia: "Con la ayuda de Dios, que pone tantas misteriosas fuerzas de la naturaleza a disposición del hombre, he podido preparar este instrumento que dará a los fieles del mundo entero la alegría de escuchar la voz del Santo Padre"». La Iglesia usó las misteriosas fuerzas tecnológicas del fonógrafo, el cine, la televisión, los CD e internet para dar al mundo esa alegría una y otra vez durante los cien años siguientes. Hoopes se presenta como «hombre de la Iglesia», que abraza las tecnologías —en contraste con los temerosos que se refugian en búnkeres— como precedente para una actitud no catastrofista ante la inteligencia artificial.
+
 ## Relaciones
 
 [[cristo_rey]], [[matrimonio]], [[educación_cristiana]], [[laicismo]], [[accion_católica]], [[cuadragésimo_anno]], [[casti_connubii]], [[pío_xii]]
 
 ## Ver también
 
-[[cristo_rey]], [[casti_connubii]], [[divini_illius_magistri]], [[quadragesimo_anno]], [[pío_xii]]
+[[cristo_rey]], [[casti_connubii]], [[divini_illius_magistri]], [[quadragesimo_anno]], [[pío_xii]], [[inteligencia_artificial]]
 
 ## Referencias
 
 - Denzinger D‑2190–D‑2226 (todo el magisterio de Pío XI)
+- EAC-19, *Evangelization & Culture, Issue 19 — Artificial Intelligence* (Spring 2024), Word on Fire Institute (Tom Hoopes, 22_peripheries.md).

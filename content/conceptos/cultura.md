@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Cultura
 tags: ["doctrina_social"]
 
-timestamp: 2026-05-26
+timestamp: 2026-09-07
 description: "Todo aquello con lo que el hombre afina y desarrolla sus innumerables cualidades espirituales y corporales; procura someter el orbe terrestre con su conocimiento y trabajo."
 ---
 # Cultura
 
 > Área: Doctrina Social
-> Última actualización: 2026-05-26
+> Última actualización: 2026-09-07
 
 ## Definición
 
@@ -58,6 +58,16 @@ La *Redemptor Hominis* sitúa la cultura en el contexto del progreso humano, adv
 La encíclica reconoce el valor de las diversas culturas como espacios de diálogo: la Iglesia se acerca a todas las culturas «con aquella estima, respeto y discernimiento que, desde los tiempos de los Apóstoles, distinguía la actitud misionera» [RH §12]. Al mismo tiempo, denuncia que una civilización con perfil puramente materialista «condena al hombre a tal esclavitud» [RH §16]. La verdadera cultura de los pueblos nace de las fuerzas más profundas del hombre, no de los instintos de dominio o interés [RH §16].
 
 Juan Pablo II afirma que la fe en Cristo revela al hombre su dignidad y el «sentido de su existencia» [RH §11]. Las religiones testimonian «la búsqueda de Dios y al mismo tiempo la búsqueda [...] del pleno sentido de la vida humana» [RH §11].
+
+### Según Evangelization & Culture (EAC-19)
+
+**Civilización vs. cultura (Dietrich von Hildebrand).** En su conferencia «Technology & Its Dangers», von Hildebrand distingue dos tipos principales de actividad creadora del hombre: la civilización y la cultura. La civilización «abarca todas las contribuciones de la inteligencia del hombre para alcanzar fines prácticos más fácilmente, más rápidamente, más eficientemente», ya sea en la vivienda, la alimentación, el viaje o la organización de la vida comunitaria [EAC-19, 11_minds, L33]. La cultura, por el contrario, «no apunta a alcanzar resultados prácticos más fácilmente, más rápida o más eficientemente. Es el resultado de una superabundancia espiritual del hombre. Dota a cada objeto de una nota espiritual, es decir, de belleza» [L35]. Es algo superfluo desde el punto de vista de cualquier fin práctico, pero que «dota al objeto de una nueva significación, elevándolo por encima de su función práctica» [L35].
+
+Von Hildebrand enumera las características que distinguen la cultura de la civilización: (1) la civilización tiene un carácter pragmático; «la cultura es esencialmente independiente de consideraciones utilitarias»; (2) «la civilización es artificial, reemplaza a la naturaleza. La cultura es congénita a la naturaleza: sigue el patrón de la *natura naturans*»; (3) la civilización conduce a una especialización siempre mayor; «la cultura, por el contrario, unifica; enlaza los niveles más bajos de la vida del hombre con los más altos, dirigiéndose a la persona entera»; (4) la civilización se rige por el principio de indispensabilidad respecto de un fin específico; «la cultura, por el contrario, se rige por la plenitud superabundante»; (5) la civilización procede inalterablemente, «la cultura, por el contrario, está gobernada por un misterioso ritmo de altibajos»; y (6) «la civilización tiene un carácter puramente racional; la cultura crece desde la misteriosa profundidad de la persona» [EAC-19, 11_minds, L39-49]. Ambas están profundamente interconectadas: un cierto grado de civilización es necesario para el desarrollo de la cultura, «pero una sobre-énfasis de la civilización puede tener efectos desastrosos sobre la cultura» [L51].
+
+**Progreso tecnológico y declive cultural.** El progreso inmanente de la tecnología «va de la mano del terrible declive de la cultura. En muchos aspectos el mundo ha perdido su belleza y espiritualidad» [EAC-19, 11_minds, L53]. La producción mecánica tornó el trabajo «incomparablemente más mecánico, aburrido y monótono» y los bienes producidos por máquinas, aunque «más exactos y perfectos desde el punto de vista de la utilidad», son «definitivamente inferiores desde un punto de vista cultural; llevan la marca de la mecanización y de la monótona uniformidad» [L13-15]. Solo un hombre desprovisto de sentido artístico podría hablar de un progreso automático en el arte: «El Partenón es artísticamente un clímax que nunca ha sido superado»; comparada con Giotto, Piero della Francesca, Giorgione, Leonardo da Vinci o Miguel Ángel, el arte moderno no representa «en absoluto progreso, sino un enorme declive»; y «la música de Bach, Mozart, Beethoven se eleva incomparablemente sobre la de Stravinski o Shostakóvich» [L57-59]. La conclusión es grave: «el triunfo de la tecnología ha mecanizado el mundo, privándolo de toda poesía» [L61]. Von Hildebrand sitúa esta reflexión como barrera contra la [[tecnocracia_espiritual]]: es preciso distinguir los bienes sobre los que el hombre debe tener dominio —meros instrumentos— de aquellos —la amistad, el amor esponsal, la vida del espíritu— a los que el espíritu de la tecnología «nunca debe aplicarse», pues hacerlo es «una grave forma de despersonalización e instrumentalización de la persona», un fruto de la negación de la propia condición de criatura [L91-99]. Esta distinción profunda entre civilización y cultura se sintetiza en el artículo [[civilización_y_cultura]].
+
+**Platón, la escritura y el temor a la tecnología (Tom Hoopes).** Tom Hoopes recuerda que ya Platón alzó la alarma sobre una tecnología clave: la palabra escrita. En el *Fedro*, Sócrates transmite esta advertencia: «Este descubrimiento tuyo creará el olvido en las almas de los aprendices. No usarán sus memorias; confiarán en los caracteres escritos externos y no recordarán de sí mismos» [EAC-19, 22_peripheries, L17]. Y de hecho ha sucedido: la palabra escrita se ha vuelto «una extensión del hombre», como dijo Marshall McLuhan, por lo que ya no podemos recitar la *Ilíada* ni la *Odisea* —«lo cual es una pérdida»—, pero también tenemos todavía la *Ilíada* y la *Odisea*: y «eso es un gran beneficio» [L17]. Cada tecnología tiene su pérdida y su ganancia; la Iglesia, de la imprenta al radio y al internet, ha abrazado las tecnologías para dar al mundo «la alegría de escuchar la voz del Santo Padre» [L21-23].
 
 ## Relaciones doctrinales
 

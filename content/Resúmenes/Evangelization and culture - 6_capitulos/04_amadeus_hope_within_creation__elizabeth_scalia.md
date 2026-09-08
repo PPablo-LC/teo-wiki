@@ -23,7 +23,7 @@ En la película *Amadeus*, el enfermo Mozart dicta su Requiem a Salieri. «¿Cre
 
 ### La envidia de Salieri
 
-Dios植入ó en Salieri un deseo profundo de componer gran música — «como una lujuria en mi cuerpo» — y luego le mostró que era una «mediocridad» capaz solo de reconocer la grandeza de otro. Su pecado mayor: «no haber reconocido (y de hecho haber renunciado activamente) los verdaderos dones que había recibido» — primero, la capacidad de reconocer el genio de otros; segundo, los medios para promoverlo.
+Dios implantó en Salieri un deseo profundo de componer gran música — «como una lujuria en mi cuerpo» — y luego le mostró que era una «mediocridad» capaz solo de reconocer la grandeza de otro. Su pecado mayor: «no haber reconocido (y de hecho haber renunciado activamente) los verdaderos dones que había recibido» — primero, la capacidad de reconocer el genio de otros; segundo, los medios para promoverlo.
 
 ### La cooperación con la creación
 

@@ -31,7 +31,7 @@ Dominico español, en un principio participante en el sistema de encomiendas, se
 
 - **Franciscanos:** Fueron los primeros en llegar (fray Pedro de Gante, fray Toribio de Mogrovejo — arzobispo de Lima). Se distinguieron por su pobreza, su aprendizaje de las lenguas nativas y su adaptación a las costumbres indígenas.
 - **Dominicos:** Bartolomé de las Casas es su figura más destacada. Promovieron la formación teológica de los indígenas y la predicación en lenguas nativas.
-- **Mercedarios:** Se dedicaron特别mente a la redención de cautivos y a la evangelización en zonas fronterizas.
+- **Mercedarios:** Se dedicaron particularmente a la redención de cautivos y a la evangelización en zonas fronterizas.
 - **Agustinos:** Establecieron misiones extensas en México y Perú, con un enfoque sistemático de catequesis y educación.
 - **Jesuitas:** Llegaron más tarde pero desplegaron el modelo misionero más integral. Las **Reducciones guaraníes** (Paraguay, Argentina, Brasil) constituyen su obra cumbre: comunidades autogobernadas donde se combinaba evangelización, educación, agricultura y artes.
 

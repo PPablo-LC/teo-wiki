@@ -13,7 +13,7 @@ tags: ["resumen", "evangelization_and_culture", "espiritualidad"]
 ## Conceptos básicos referenciados
 
 - [[humildad]] — la poda como camino hacia la santidad
-- [[vocación]] — el don de la vida consagrada y la不孕性
+- [[vocación]] — el don de la vida consagrada y la infecundidad
 
 ## Contenido
 
@@ -31,7 +31,7 @@ San Romualdo: «Debemos convertirnos en ángeles. Todo nuestro trabajo y oració
 
 ### El problema del privilegio
 
-La不孕性 (infecundidad) no es solo literal — muchos laicalizados sacerdotes y personas casadas «han despreciado y sacrificado a sus compañeros de viaje». Los bienes temporales son «tan necesarios como los espirituales». Un pobre que abandona a su familia para ser santo «en realidad es un cobarde. Un estafador».
+La infecundidad (infecundidad) no es solo literal — muchos laicalizados sacerdotes y personas casadas «han despreciado y sacrificado a sus compañeros de viaje». Los bienes temporales son «tan necesarios como los espirituales». Un pobre que abandona a su familia para ser santo «en realidad es un cobarde. Un estafador».
 
 ### La fraternidad y la oración
 

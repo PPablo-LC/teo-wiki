@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Trabajo humano
 tags: ["doctrina_social"]
 
-timestamp: 2026-08-24
+timestamp: 2026-09-07
 description: "Dimensión fundamental de la existencia humana mediante la cual el hombre participa en la obra de la creación y de la redención, sometiendo y dominando la tierra."
 ---
 # Trabajo humano
 
 > Área: Doctrina Social
-> Última actualización: 2026-08-24
+> Última actualización: 2026-09-07
 
 ## Definición
 
@@ -48,6 +48,14 @@ León XIV aborda la dignidad del trabajo en la transición digital en los §§14
 ### Según Juan Pablo II (VocExp)
 
 En *La vocación explicada* (§3a), Juan Pablo II afirma una fórmula sorprendente sobre la dimensión espiritual del trabajo laical: «No hay vocación más religiosa que el trabajo. Un laico católico, hombre o mujer, es alguien que toma el trabajo en serio. Sólo el cristianismo ha dado un sentido religioso al trabajo y reconoce el valor espiritual del progreso tecnológico». El trabajo es el lugar de la santificación del laico: su finalidad es «la santificación de la vida permaneciendo en el mundo, en el propio puesto de trabajo y de profesión: vivir el Evangelio en el mundo, viviendo verdaderamente inmersos en el mundo, pero para transformarlo y redimirlo con el propio amor de Cristo» [VocExp].
+
+### Según Evangelization & Culture (EAC-19)
+
+**La mecanización y el valor del trabajo (Dietrich von Hildebrand).** Von Hildebrand advierte que el progreso técnico solo puede llamarse «progreso» en un sentido restringido: el cambio de la obra del artesano a la producción mecánica, que es un progreso desde el punto de vista inmanente de la técnica, «hace el trabajo incomparablemente más mecánico, aburrido y monótono» [EAC-19, 11_minds, L13]. Mirado el conjunto de factores implicados, el balance cambia: «los bienes producidos por máquinas son en muchos aspectos inferiores a los hechos por los artesanos. Pueden ser más exactos y perfectos desde el punto de vista de la utilidad, pero son definitivamente inferiores desde un punto de vista cultural; llevan la marca de la mecanización y de la monótona uniformidad» [L15]. Además es dudoso que una tecnología que reduce el trabajo a un mínimo sea «una ventaja incontestable para muchos hombres», pues valiosas energías humanas «se estancan» [L15]. La única esfera en la que los dos sentidos de progreso coinciden —el immanente y el de mejora— es la medicina: en ella está en juego no la comodidad, «sino el alto valor de la vida y la salud del hombre» [L25-27]. Frente a la técnica, el cristiano debe además desconfiar del [[mesianismo_terrestre]]: la ilusión de un progreso ilimitado que promete cambiar el valle de lágrimas en un paraíso [L9].
+
+**La IA y la devaluación del trabajo (Andre Vlok).** En *Hamlet's Mirror*, Vlok examina «el deterioro y la marginalización del valor del trabajo, y cómo esto afecta los fundamentos de nuestra humanidad» [EAC-19, 06_stacks, L25-27]. Considera el cambio del rostro de la gestión y el liderazgo en el lugar de trabajo y el debate sobre el ingreso básico universal, y concluye que tales desafíos manifiestan en su conjunto la necesidad de «revisitar qué nos hace humanos, las consecuencias de la ulterior degradación de estos valores, y el recordatorio de que esos valores humanos únicos forman la base de nuestra mejor defensa en estos nuevos conflictos» [L31].
+
+**El trabajo artístico como trabajo santificante (Haley Stewart).** Haley Stewart teme que los atajos de la IA no degraden solo el producto final, sino «también nuestra experiencia de ser co-creadores, al disminuir el trabajo exigente requerido para hacer arte» [EAC-19, 17_feature_stewart, L33]. Lo ilustra con el cuento del muchacho que recibió una bola de hilo mágica: con cada tirón pasaban volando los minutos y las horas hasta que «toda su vida se había acabado»; el muchacho «no vio ningún significado en el trabajo (o el sufrimiento) que contribuye a una gran porción de nuestras vidas», y «no llegó a vivir la experiencia humana porque el trabajo duro de vivir le había sido robado» [L39-41]. El escritor que se apoya en la IA para generar sus frases en lugar de «pasar horas frustrantes luchando con nuestras palabras para reordenar, pulir y mejorar nuestra prosa» ha perdido «algo valioso: nuestro sudor y nuestras lágrimas, la ofrenda de nuestra labor. El trabajo que la creación artística requiere es un trabajo difícil, santificante, motivado por el amor —trabajo para el que los seres humanos están hechos. El robo de esa labor resulta no solo en arte sin alma sino en el robo de nuestra humanidad» [L43]. El arte, además, es un acto de culto: el escritor «da gloria a Dios a través de su [[subcreación]]», pues usamos las herramientas que Dios nos da «para crear a imitación de Dios. En su forma más pura, el arte es un acto de adoración» [L25].
 
 ## Relaciones doctrinales
 

@@ -206,7 +206,7 @@ Konner presenta el infierno como un invento terrorífico:
 La Iglesia reconoce que el infierno ha sido tergiversado a lo largo de la historia y que muchas representaciones artísticas son exageradas.
 
 **Tensiones o divergencias:**
-La doctrina católica enseña que el infierno es la **separación definitiva de Dios**, no un castigo arbitrario. El Catecismo enseña que «los que mueren en gracia de Dios y en amistad con Cristo, pero sin haberse purificado还不够, aunque estén seguros de su salvación eterna, sufren después de su muerte una purificación» (§1030).
+La doctrina católica enseña que el infierno es la **separación definitiva de Dios**, no un castigo arbitrario. El Catecismo enseña que «los que mueren en gracia de Dios y en amistad con Cristo, pero sin haberse purificado suficientemente, aunque estén seguros de su salvación eterna, sufren después de su muerte una purificación» (§1030).
 
 El infierno es la consecuencia natural de la **libertad humana**: quien rechaza definitivamente a Dios elige vivir sin Él para siempre. Como enseña el Concilio Vaticano I, «los que se empeñan en no conocer a Dios y en apartarse de la ley de Dios, se rebelan a sí mismos y a su propia naturaleza» (D-1792).
 

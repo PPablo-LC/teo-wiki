@@ -4,7 +4,7 @@ title: "normas complementarias al capítulo 12 enfermos ancianos y di"
 fuente: Constutuciones_de_los_Legionarios_de_Cristo-2020
 capítulo: 36
 timestamp: 2026-08-24
-description: "Resumen de 'normas complementarias al capítulo 12 enfermos ancianos y di' — Constutuciones_de_los_Legionarios_de_Cristo-2020"
+description: "Resumen de 'Normas complementarias al Capítulo 12. Enfermos, ancianos y difuntos'"
 tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 ---
 
@@ -12,34 +12,36 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[vida_fraterna]]
+- [[salud]]
+- [[difuntos]]
+- [[sufragios]]
+- [[sacramentos]]
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `normas_complementarias_al_capítulo_12_enfermos_ancianos_y_di.md`
+### Normas complementarias al Capítulo 12. Enfermos, ancianos y difuntos
 
+**Atención a enfermos:**
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+Toda la comunidad interésese de la salud de los miembros enfermos, asistiéndolos espiritual y materialmente con prudencia y discreción. En particular: si un miembro está enfermo, avise al superior de la casa quien facilite lo necesario para su restablecimiento; todos los miembros deben contar con seguro de gastos médicos; corresponde al superior local autorizar intervenciones quirúrgicas o tratamientos médicos (si se sobrepasa el presupuesto, acudir al director territorial); si un legionario necesita intervención o enferma gravemente, comuníquelo él mismo a su familia (si está imposibilitado, lo hace el instructor o superior).
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | Normas complementarias al Capítulo 12. Enfermos, ancianos y difuntos |
+Si los miembros llegan a no valerse por sí mismos o necesitan cuidados especiales, los superiores proporciónenles la ayuda que requieran, incluso con atención profesional.
 
+**Privilegios de los novicios:**
+
+Los novicios gozan de todos los privilegios y gracias espirituales concedidos a la Congregación, y si mueren antes de profesar, tienen derecho a los sufragios prescritos para los religiosos.
+
+**Fallecimiento de un miembro:**
+
+Cuando alguno muera, el rector o superior avise inmediatamente al director general, quien lo comunicará a los demás superiores y a la familia. El rector recoja ante dos testigos los manuscritos del religioso difunto sin leerlos; el director territorial designará un religioso para su revisión. Ordinariamente el cuerpo sea sepultado donde muera.
+
+**Misas por los difuntos:**
+
+Como expresión de gratitud y caridad fraterna: dentro de la octava del Sagrado Corazón, cada sacerdote celebra una misa por los difuntos de la Congregación; dentro de la octava de los Fieles Difuntos, una misa por familiares y bienhechores fallecidos; a la muerte del Papa, cada legionario ofrece tres misas; a la muerte del Obispo diocesano, una misa de cada sacerdote de la diócesis; con ocasión de la muerte de legionarios, misas conforme a normas vigentes; cuando muera un novicio o religioso en una casa, novenario de misas (los sacerdotes del territorio celebren una); por el director general o ex directores, cada sacerdote celebra tres misas.
 
 ## Secciones incluidas
 
 ## Normas complementarias al Capítulo 12. Enfermos, ancianos y difuntos
 
-[Contenido de esta sección...]
+Normas sobre la atención comunitaria a enfermos, seguros médicos, autorización de tratamientos, comunicación a la familia, atención a ancianos, privilegios de novicios, protocolo ante el fallecimiento de un miembro, y misas de sufragio por los difuntos.

@@ -93,7 +93,7 @@ Los ejercicios para robustecer la voluntad incluyen el dominio de los sentidos (
 
 ### Según Mons. Tihámer Tóth (JvC-Muj)
 
-La versión femenina insiste en la misma distinción entre querer y desear: «Hay una diferencia enorme entre el "quisiera" y el "quiero"» [JvC-Muj, Cap. III]. La voluntad se ejercita en lo pequeño: «Ejercítate todas las mañanas al salir de la cama. El primer vencimiento es el más importante: el de la tentación de quedarse un rato más en ella» [JvC-Muj, Cap. III]. JvC-Muj añade ejemplos femeninos: Clelia y las romanas que cruzaron el Tíber para luchar contra Porsenna, demostrando que la voluntad firme no conoce barreras [JvC-Muj, Cap. III]. La autora insiste en que «la joven voluntariosa» debe desarrollar la capacidad de observar, recordar y关联 los hechos, pues la voluntad se fortalece con el ejercicio constante del espíritu [JvC-Muj, Cap. III].
+La versión femenina insiste en la misma distinción entre querer y desear: «Hay una diferencia enorme entre el "quisiera" y el "quiero"» [JvC-Muj, Cap. III]. La voluntad se ejercita en lo pequeño: «Ejercítate todas las mañanas al salir de la cama. El primer vencimiento es el más importante: el de la tentación de quedarse un rato más en ella» [JvC-Muj, Cap. III]. JvC-Muj añade ejemplos femeninos: Clelia y las romanas que cruzaron el Tíber para luchar contra Porsenna, demostrando que la voluntad firme no conoce barreras [JvC-Muj, Cap. III]. La autora insiste en que «la joven voluntariosa» debe desarrollar la capacidad de observar, recordar y relacionar los hechos, pues la voluntad se fortalece con el ejercicio constante del espíritu [JvC-Muj, Cap. III].
 
 ### Según Royo Marín (TPCr)
 

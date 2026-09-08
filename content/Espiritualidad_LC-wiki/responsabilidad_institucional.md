@@ -17,7 +17,7 @@ La responsabilidad institucional es el compromiso de la Legión de Cristo de res
 
 ## Desarrollo doctrinal
 
-La responsabilidad institucional代表a un cambio de paradigma en la respuesta de la Iglesia a los abusos. Ya no basta con la responsabilidad individual del perpetrador; la institución asume responsabilidad por haber creado condiciones que permitieron los abusos, por no haberlos detectado y por no haber respondido adecuadamente.
+La responsabilidad institucional representa un cambio de paradigma en la respuesta de la Iglesia a los abusos. Ya no basta con la responsabilidad individual del perpetrador; la institución asume responsabilidad por haber creado condiciones que permitieron los abusos, por no haberlos detectado y por no haber respondido adecuadamente.
 
 El II Informe Anual (2022) describe la «accountability social y pública» como la rendición de cuentas de los pasos dados en favor de víctimas y ambientes seguros. La responsabilidad institucional incluye: transparencia en la comunicación, colaboración con autoridades civiles y eclesiásticas, reparación a víctimas y prevención de futuros abusos.
 

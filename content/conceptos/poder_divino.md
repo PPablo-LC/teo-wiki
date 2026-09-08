@@ -65,7 +65,7 @@ La omnipotencia se ejercita también en la redención, donde el poder de Dios se
 - **Omnipotencia vs. arbitrariedad**: Dios omnipotente no actúa caprichosamente, sino con sabiduría y bondad infinitas. Su poder está gobernado por su entendimiento y su voluntad.
 - **Lo que Dios puede vs. lo que Dios hace**: Dios puede todo lo que es absolutamente posible, pero no ejecuta todos los posibles, pues no todos convienen al orden del universo.
 - **Omnipotencia y libertad divina**: la omnipotencia es compatible con la libertad de Dios: Él elige libremente qué cosas hacer dentro de lo posible, y su elección es conforme a su sabiduría y bondad.
-- **Omnipotencia y creación**: la omnipotencia se manifiesta primordialmente en la creación *ex nihilo*, que es el efecto más propio del poder divino y que presupone solo la自由idad de Dios.
+- **Omnipotencia y creación**: la omnipotencia se manifiesta primordialmente en la creación *ex nihilo*, que es el efecto más propio del poder divino y que presupone solo la libertad de Dios.
 
 ## Relaciones doctrinales
 

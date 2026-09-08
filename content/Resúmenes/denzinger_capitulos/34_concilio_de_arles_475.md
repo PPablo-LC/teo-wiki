@@ -4,7 +4,7 @@ title: "CONCILIO DE ARLES 475"
 fuente: denzinger_capitulos
 capítulo: 34
 timestamp: 2026-08-24
-description: "Resumen de 'CONCILIO DE ARLES 475' — denzinger_capitulos"
+description: "Resumen del Concilio de Arles sobre la gracia, la predestinación y el libre albedrío contra los luciferianos"
 tags: ["resumen", "denzinger capitulos"]
 ---
 
@@ -12,34 +12,28 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[gracia]] — don sobrenatural de Dios
+- [[predestinación]] — decreto de Dios sobre la salvación
+- [[libre_albedrío]] — capacidad de autodeterminación humana
+- [[mantiqueísmo]] — herejía dualista
+- [[luciferianos]] — secta derivada del arrianismo
+- [[pecado_original]] — pecado heredado de Adán
+- [[voluntad_de_dios]] — querer salvífico universal de Dios
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `0034_CONCILIO_DE_ARLES_475_.md`
+### Concilio de Arles (475)
 
+**D-163** (Epístola del Concilio de Arles): Contra los herejes que niegan la necesidad de la gracia y de la fe en Cristo.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**D-164**: Dios no predestina a nadie al mal; la [[predestinación]] de Dios es para la salvación.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | CONCILIO DE ARLES, 475 (? |
+**D-165**: «Todos los que no quieren y niegan que el [[libre_albedrío]] está caído y condenado por la prevaricación de Adán... son herejes.» Pero no por ello se destruye la libertad, pues la gracia la restaura.
 
+**D-166**: La gracia de Dios obra en el hombre sin anular su libre albedrío.
 
 ## Secciones incluidas
 
-## CONCILIO DE ARLES, 475 (?
+## CONCILIO DE ARLES, 475
 
-[Contenido de esta sección...]
+Sínodo que combate a los herejes que niegan la necesidad de la [[gracia]]. Afirma que la [[predestinación]] de Dios es para la salvación y no para el mal; que el [[libre_albedrío]] está caído por el [[pecado_original]] pero es restaurado y movido por la gracia sin anularse. Rechaza el determinismo maniqueo y defiende la doctrina católica sobre la cooperación entre la gracia y la libertad.

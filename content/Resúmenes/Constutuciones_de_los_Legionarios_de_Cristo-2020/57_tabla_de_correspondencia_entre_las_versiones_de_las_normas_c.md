@@ -12,34 +12,20 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[derecho_canónico]] — evolución de las normas complementarias entre versiones
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
 📄 **Fuente original:** `tabla_de_correspondencia_entre_las_versiones_de_las_normas_c.md`
 
+### **Tabla de correspondencia entre las versiones de las** Normas complementarias **2017 y 2020**
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+Tabla de correspondencia entre dos columnas: en la columna de la izquierda, las Normas complementarias de 2017; en la columna de la derecha, las Normas complementarias de 2020.
+
+La tabla permite localizar, para cada norma complementaria de 2020, su número correspondiente en la versión de 2017. Se precisa además una regla de interpretación: los números de las Normas complementarias 2020 que llevan un guion largo al lado son nuevos y, por tanto, no tienen correspondencia con la versión del 2017. El archivo termina con el lema de la Congregación: «Por el Reino de Cristo a la Gloria de Dios». El contenido tabular en sí no se encuentra materializado en el archivo raw, que presenta solo el título, la descripción de columnas y dicha regla.
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H3 | **Tabla de correspondencia entre las versiones de las** Normas complem |
-
-
-## Secciones incluidas
-
-## **Tabla de correspondencia entre las versiones de las** Normas complementarias **2017 y 2020**
-
-[Contenido de esta sección...]

@@ -12,34 +12,19 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[gobierno_eclesiástico]] — estructura de gobierno de la Congregación
+- [[administración]] — administración de bienes en la Congregación
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
 📄 **Fuente original:** `parte_iii_el_gobierno_y_la_administración_de_la_congregación.md`
 
+### Parte III
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+Título de la tercera parte de las Constituciones: «El gobierno y la administración de la Congregación». Este archivo es un titular de sección que introduce la parte estructural dedicada al régimen de gobierno (capítulo general, gobierno general, territorial y local; caps. 14-18) y a la administración de la Congregación (cap. 19). El contenido específico se desarrolla en los capítulos correspondientes.
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H2 | Parte III |
-
-
-## Secciones incluidas
-
-# Parte III
-
-[Contenido de esta sección...]

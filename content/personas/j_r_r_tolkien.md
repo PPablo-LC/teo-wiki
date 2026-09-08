@@ -3,7 +3,7 @@ type: Persona
 title: "J.R.R. Tolkien"
 description: "Filólogo y escritor católico inglés (1892-1973), autor de El Señor de los Anillos; puente entre la cultura medieval y la moderna, creador de la eucatastrofa."
 tags: ["literatura_católica", "siglo_xx"]
-timestamp: 2026-09-05
+timestamp: 2026-09-07
 ---
 
 # J.R.R. Tolkien
@@ -46,15 +46,20 @@ La sección *Spotlight* entrevista a Holly Ordway sobre su libro *Tolkien's Mode
 
 El ensayo está adaptado de *Tolkien's Faith: A Spiritual Biography* (Word on Fire Academic, 2023), publicado el 2 de septiembre de 2023, quincuagésimo aniversario de la muerte de Tolkien.
 
+### Según Evangelization & Culture n.º 19 «Artificial Intelligence» (EAC-19)
+
+Haley Stewart («Gloriously Human: Flesh-and-Blood Writing in an Age of AI», 17_feature_stewart.md) apela a Tolkien para defender la humanidad del arte ante la [[inteligencia_artificial]]. En su ensayo «On Fairy-stories», Tolkien habla de la relación vertical entre Dios Creador y el hombre, portador de la imagen de Dios, que actúa como sub-creador: «"Hacemos en nuestra medida y en nuestro modo derivado, porque somos hechos: y no solo hechos, sino hechos a imagen y semejanza de un Hacedor"». Stewart subraya que «Dios es un artista» — pintor, escritor, cantor, creador— y que el acto de crear arte es siempre un reflejo de nuestro Creador: «En su forma más pura, el arte es un acto de adoración». El escritor da gloria a Dios a través de su [[subcreación]]. Frente a la IA, que no puede experimentar relación ni comunión, el arte humano es una actividad encarnacional: el artista es «un siervo que está dispuesto a ser engendrador», como María en el *fiat* de la Anunciación, dando carne a las ideas inspiradas.
+
 ## Relevancia teológica
 
 Tolkien demuestra la fecundidad de la [[inculturación]] intelectual: la fe no teme a la modernidad sino que la lee, la discierne y la transfigura. Su sentido del juego y del humor medieval (la risa de los hobbits, la eucatastrofa) lo emparenta con la teología del [[humor]].
 
 ## Ver también
 
-[[inculturación]], [[imaginación_creativa]], [[literatura_moderna]], [[c_s_lewis]], [[humor]]
+[[inculturación]], [[imaginación_creativa]], [[literatura_moderna]], [[c_s_lewis]], [[humor]], [[subcreación]], [[inteligencia_artificial]]
 
 ## Referencias
 
 - EAC-8, archivo 08
 - EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (Holly Ordway, 13_jrr_tolkiens_journey_of_faith.md).
+- EAC-19, *Evangelization & Culture, Issue 19 — Artificial Intelligence* (Word on Fire Institute), 17_feature_stewart.md (Haley Stewart, «Gloriously Human»).

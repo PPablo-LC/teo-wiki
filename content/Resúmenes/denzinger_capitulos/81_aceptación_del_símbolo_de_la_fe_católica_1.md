@@ -12,39 +12,26 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[símbolo_de_la_fe]] — el Símbolo Niceno-Constantinopolitano
+- [[concilio_de_trento]] — XIX ecuménico contra los innovadores del siglo XVI
+- [[iglesia]] — fundamento firme contra el cual no prevalecerán las puertas del infierno
+- [[fe]] — profesión de la fe de Cristo
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `0082_ADRIANO_VI_1522-1523_CLEMENTE_VII_1523-1534_PAULO_III_1534-1.md`
+## ADRIANO VI, 1522-1523 CLEMENTE. VII, 1523-1534 PAULO III, 1534-1549 CONCILIO DE TRENTO, 1545-1563 XIX ecuménico (contra los innovadores del siglo XVI) SESION III (4 de febrero de 1546)
 
+## Aceptación del Símbolo de la fe católica (1)
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | ADRIANO VI, 1522-1523 CLEMENTE. VII, 1523-1534 PAULO III, 1534-1549 CO |
-| 3 | H2 | Aceptación del Símbolo de la fe católica (1) |
+- D-782: El sacrosanto Concilio de Trento, celebrado principalmente para la extirpación de las herejías y la reforma de las costumbres, proclamó expresamente el [[símbolo_de_la_fe|Símbolo de la fe]] de la Santa Iglesia Romana — el Símbolo Niceno-Constantinopolitano — como el principio en que necesariamente convienen todos los que profesan la fe de Cristo, y como el firme y único fundamento contra el cual no prevalecerán las puertas del infierno, con las mismas palabras con que se lee en todas las Iglesias.
 
 
 ## Secciones incluidas
 
 ## ADRIANO VI, 1522-1523 CLEMENTE. VII, 1523-1534 PAULO III, 1534-1549 CONCILIO DE TRENTO, 1545-1563 XIX ecuménico (contra los innovadores del siglo XVI) SESION III (4 de febrero de 1546)
 
-[Contenido de esta sección...]
+Contexto del Concilio de Trento y su sesión III.
 
 # Aceptación del Símbolo de la fe católica (1)
 
-[Contenido de esta sección...]
+Proclamación del Símbolo Niceno-Constantinopolitano como fundamento de la fe (D-782).

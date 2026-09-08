@@ -4,7 +4,7 @@ title: "normas complementarias al capítulo 11 la ordenación y el min"
 fuente: Constutuciones_de_los_Legionarios_de_Cristo-2020
 capítulo: 35
 timestamp: 2026-08-24
-description: "Resumen de 'normas complementarias al capítulo 11 la ordenación y el min' — Constutuciones_de_los_Legionarios_de_Cristo-2020"
+description: "Resumen de 'Normas complementarias al Capítulo 11. La ordenación y el ministerio sacerdotal'"
 tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 ---
 
@@ -12,34 +12,29 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[renovación_sacerdotal]]
+- [[formación_permanente]]
+- [[ministerio_sacerdotal]]
+- [[ejercicios_espirituales]]
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `normas_complementarias_al_capítulo_11_la_ordenación_y_el_min.md`
+### Normas complementarias al Capítulo 11. La ordenación y el ministerio sacerdotal
 
+**Renovación sacerdotal:**
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+Las principales formas de [[renovación_sacerdotal]] son los períodos de renovación de un bimestre o de un semestre. También se consideran modalidades los períodos de estudios de licencia o especialización en una comunidad orientada a este fin, y la participación en [[ejercicios_espirituales]] de mes. Otras modalidades en casos particulares requieren aprobación formal del director general.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | Normas complementarias al Capítulo 11. La ordenación y el ministerio s |
+**Formación permanente:**
 
+Para el cultivo de la [[formación_permanente]], en cada comunidad de apostolado debe haber al menos una actividad formativa semanal de entre una hora o una hora y media de duración, en la que participen todos los miembros. Las modalidades de esta actividad son materia del proyecto comunitario.
+
+**Participación en renovación:**
+
+Corresponde al director general, con su consejo, aprobar la participación de un sacerdote en la modalidad de renovación en período de estudios. Corresponde a cada director territorial, en mutuo acuerdo con el director de la renovación sacerdotal, convocar a los sacerdotes participantes de su territorio a las diversas tandas.
 
 ## Secciones incluidas
 
 ## Normas complementarias al Capítulo 11. La ordenación y el ministerio sacerdotal
 
-[Contenido de esta sección...]
+Normas sobre las modalidades de renovación sacerdotal (bimestrales, semestrales, de estudios y ejercicios de mes), la actividad formativa semanal comunitaria, y la competencia para aprobar y convocar los períodos de renovación.

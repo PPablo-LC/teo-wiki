@@ -12,34 +12,23 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[carisma]] — conservación de los elementos esenciales de la primera versión
+- [[vida_religiosa]] — reformulación estructural del texto constitucional
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
 📄 **Fuente original:** `versión_del_año_1965.md`
 
+### Versión del año 1965
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+En el Archivo Histórico General de la Legión se conserva un ejemplar original del texto de las *Constituciones* de 1965. El volumen encuadernado contiene el *Decretum laudis* original, con firma autógrafa del cardenal Ildebrando Antoniutti, y el texto mecanografiado de las *Constituciones*, en papel oficial, con marca de agua de la Santa Sede.
+
+Este texto fue aprobado *ad septennium*, como consta en el mismo *Decretum laudis* que lleva la fecha del 1 de julio de 1965.
+
+Aunque esta versión conserva los elementos y contenidos esenciales del texto de 1948, hay una considerable reformulación de su estructura que termina siendo más lineal y sencilla. El texto sigue de cerca los cánones del *Código de Derecho Canónico* de 1917 y es parco en motivaciones espirituales. Estos desarrollos le dan unas características y tono propios que servirán de base para las siguientes versiones.
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H3 | Versión del año 1965 |
-
-
-## Secciones incluidas
-
-## Versión del año 1965
-
-[Contenido de esta sección...]

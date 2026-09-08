@@ -17,7 +17,7 @@ El sacrificio de la cruz es el acto supremo de amor obediente de Cristo al Padre
 
 ## Desarrollo doctrinal
 
-El sacrificio de la cruz es el中心 de la fe cristiana y el cumplimiento del plan salvífico de Dios. Cristo, inocente, se ofrece voluntariamente como víctima expiatoria por los pecados de todos (CEC §616). Su muerte es un sacrificio verdadero, ofrecido a Dios Padre, que reemplaza y consuma todos los sacrificios del Antiguo Testamento.
+El sacrificio de la cruz es el centro de la fe cristiana y el cumplimiento del plan salvífico de Dios. Cristo, inocente, se ofrece voluntariamente como víctima expiatoria por los pecados de todos (CEC §616). Su muerte es un sacrificio verdadero, ofrecido a Dios Padre, que reemplaza y consuma todos los sacrificios del Antiguo Testamento.
 
 ## Perspectivas por fuente
 

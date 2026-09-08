@@ -80,7 +80,7 @@ Se identifican dos defectos fundamentales: (a) la dispensa obtenida por el P. Ma
 
 #### Carisma colectivo del instituto
 
-El Papa pide «revisar el carisma», lo que presupone que existe. La cuestión está en el [[marcial_maciel]] como fundador: instrumento de Dios cuya vida inmoral no anula la autenticidad del don original. Santo Tomás explica que la *gratia gratis data* (como la profecía o el carisma de fundación) puede existir sin la *gratia gratum faciens* (la gracia santificante), como Caifás profetizó siendo sumo sacerdote尽管 ser persona inicua. El carisma colectivo de fundación es el del fundador enriquecido por el carisma del primer núcleo cofundador. Hay que individuar el «núcleo verdadero» exento del influjo negativo del gobierno personal del fundador.
+El Papa pide «revisar el carisma», lo que presupone que existe. La cuestión está en el [[marcial_maciel]] como fundador: instrumento de Dios cuya vida inmoral no anula la autenticidad del don original. Santo Tomás explica que la *gratia gratis data* (como la profecía o el carisma de fundación) puede existir sin la *gratia gratum faciens* (la gracia santificante), como Caifás profetizó siendo sumo sacerdotea pesar de ser persona inicua. El carisma colectivo de fundación es el del fundador enriquecido por el carisma del primer núcleo cofundador. Hay que individuar el «núcleo verdadero» exento del influjo negativo del gobierno personal del fundador.
 
 #### Revisión del carisma y discernimiento espiritual comunitario
 

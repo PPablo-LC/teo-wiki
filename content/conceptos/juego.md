@@ -17,7 +17,7 @@ El juego (*ludus* en la tradición escolástica) es la actividad humana realizad
 
 ## Desarrollo doctrinal
 
-La tradición cristiana ha reconocido siempre el valor del juego como expresión de la dignidad humana, sin caer ni en su negación puritana ni en su idolatría hedonista. La Summa Theologiae distingue el *ludus* como acto que busca la recreación del animo y la dilatación de la alegría,不同于 el *studium* (aplicación seria) y la *negotium* (ocupación necesaria). El juego, en cuanto acto de libertad, participa de la naturaleza creadora del hombre: quien juego crea, imagina y se trasciende a sí mismo.
+La tradición cristiana ha reconocido siempre el valor del juego como expresión de la dignidad humana, sin caer ni en su negación puritana ni en su idolatría hedonista. La Summa Theologiae distingue el *ludus* como acto que busca la recreación del animo y la dilatación de la alegría, a diferencia del *studium* (aplicación seria) y la *negotium* (ocupación necesaria). El juego, en cuanto acto de libertad, participa de la naturaleza creadora del hombre: quien juego crea, imagina y se trasciende a sí mismo.
 
 La teología moral distingue entre el juego virtuoso —que humaniza, descansa, fortalece los vínculos y es expresión de la generosidad— y el juego vicioso —que esclaviza, aísla, degrada la dignidad ajena o propia—. Los dones de la imperfección subrayan que cultivar el juego es signo de confianza en Dios y de humildad ante la propia fragilidad: el juego permite aceptar los límites sin caer en la desesperación.
 

@@ -4,7 +4,7 @@ title: "Texto Según el Orden romano"
 fuente: denzinger_capitulos
 capítulo: 5
 timestamp: 2026-08-24
-description: "Resumen de 'Texto Según el Orden romano' — denzinger_capitulos"
+description: "Resumen del Símbolo Apostólico según el Orden romano"
 tags: ["resumen", "denzinger capitulos"]
 ---
 
@@ -12,34 +12,26 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[símbolo_apostólico]] — credo que resume la fe cristiana
+- [[trinidad]] — misterio de un solo Dios en tres Personas
+- [[encarnación]] — el Verbo se hizo hombre
+- [[resurrección]] — victoria sobre la muerte
+- [[juicio_final]] — venida de Cristo a juzgar vivos y muertos
+- [[perdón_de_los_pecados]] — efecto del bautismo y la conversión
+- [[iglesia_católica]] — comunidad de fieles fundada por Cristo
+- [[comunión_de_los_santos]] — unión de todos los fieles en Cristo
+- [[vida_eterna]] — destino final del justo
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `0005_Texto_Según_el_Orden_romano.md`
+**D-7** Texto del Símbolo Apostólico según el Orden romano:
 
+> Creo en Dios Padre omnipotente, creador del cielo y de la tierra; y en Jesucristo, su único Hijo, nuestro Señor, que fue concebido por obra del Espíritu Santo y nació de María Virgen, padeció bajo Poncio Pilatos, fue crucificado, muerto y sepultado, descendió a los infiernos, al tercer día resucitó de entre los muertos, subió a los cielos, está sentado a la diestra de Dios Padre todopoderoso, desde allí ha de venir a juzgar a los vivos y a los muertos, creo en el Espíritu Santo, la Santa Iglesia Católica, la comunión de los Santos, el perdón de los pecados, la resurrección de la carne y la vida eterna.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | Texto [Según el Orden romano] |
-
+Esta es la forma completa y más conocida del [[símbolo_apostólico]], que incluye todas las adiciones respecto de las formas más antiguas: «creador del cielo y de la tierra», «descendió a los infiernos», «Santa Iglesia Católica», «comunión de los Santos» y «vida eterna». Es la versión que se utiliza en la liturgia romana.
 
 ## Secciones incluidas
 
-## Texto [Según el Orden romano]
+## Texto Según el Orden romano
 
-[Contenido de esta sección...]
+Transcripción completa del texto D-7 del [[símbolo_apostólico]] en su forma occidental más desarrollada, conocida como «texto recibido» o «forma del Orden romano». Esta versión incluye todos los artículos del credo que se recitan en la liturgia: la profesión de fe en Dios Padre creador, en Jesucristo Hijo unigénito encarnado, muerto, sepultado, resucitado y glorificado, en el [[Espíritu_Santo]], en la [[iglesia_católica]], la comunión de los Santos, el perdón de los pecados, la resurrección de la carne y la [[vida_eterna]]. Es la forma canónica que ha llegado hasta la liturgia actual.

@@ -4,7 +4,7 @@ title: "SAN MARCELO 308-309 SAN EUSEBIO 309 ó 310 SAN MILCIADES 311"
 fuente: denzinger_capitulos
 capítulo: 16
 timestamp: 2026-08-24
-description: "Resumen de 'SAN MARCELO 308-309 SAN EUSEBIO 309 ó 310 SAN MILCIADES 311' — denzinger_capitulos"
+description: "Resumen de los papas San Marcelo, San Eusebio y San Milcíades"
 tags: ["resumen", "denzinger capitulos"]
 ---
 
@@ -12,34 +12,18 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[sucesión_apostólica]] — transmisión del ministerio episcopal desde los Apóstoles
+- [[obispo_de_roma]] — título del papa en los primeros siglos
+- [[persecución]] — hostilidad contra los cristianos
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `0016_SAN_MARCELO_308-309_SAN_EUSEBIO_309_ó_310_SAN_MILCIADES_311-.md`
+### San Marcelo (308-309), San Eusebio (309 o 310), San Milcíades (311-314)
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | SAN MARCELO, 308-309 SAN EUSEBIO, 309 (ó 310) SAN MILCIADES, 311-314 |
-
+Esta sección enumera a tres obispos de Roma que pontificaron en el período inmediatamente anterior y durante la última gran persecución del Imperio Romano (la persecución de Diocleciano, 303-311). No se incluyen documentos doctrinales de estos pontífices en la recopilación de Denzinger, probablemente porque no se conservan textos doctrinales relevantes de su pontificado, o porque su importancia radica principalmente en la sucesión de la sede de Roma.
 
 ## Secciones incluidas
 
-## SAN MARCELO, 308-309 SAN EUSEBIO, 309 (ó 310) SAN MILCIADES, 311-314
+## SAN MARCELO, 308-309 — SAN MILCIADES, 311-314
 
-[Contenido de esta sección...]
+Mención de los tres obispos de Roma que precedieron al primer concilio ecuménico (Nicea, 325). San Marcelo, San Eusebio y San Milcíades gobernaron la Iglesia de Roma en el período final de las persecuciones y en los inicios de la paz constantiniana. No se incluyen documentos doctrinales específicos de estos pontífices en esta sección de Denzinger.

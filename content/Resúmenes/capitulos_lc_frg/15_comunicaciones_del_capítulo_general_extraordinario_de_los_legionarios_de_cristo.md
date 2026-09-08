@@ -12,25 +12,17 @@ tags: ["resumen", "capitulos lc frg"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[Capítulo_General_Extraordinario_de_los_Legionarios_de_Cristo]]
+- [[Regnum_Christi]]
 
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
 📄 **Fuente original:** `15_comunicaciones_del_capítulo_general_extraordinario_de_los_le.md`
 
+Sección de encabezado que agrupa las comunicaciones oficiales emanadas del [[Capítulo_General_Extraordinario_de_los_Legionarios_de_Cristo]] de 2018. El texto original es un título de sección sin contenido propio; las comunicaciones específicas figuran en los capítulos siguientes del volumen (primera sesión — Comunicación, y segunda sesión — Comunicado).
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
@@ -40,3 +32,4 @@ Instrucciones para el agente:
 
 ## Secciones incluidas
 
+- Título de sección introductoria (sin contenido adicional)

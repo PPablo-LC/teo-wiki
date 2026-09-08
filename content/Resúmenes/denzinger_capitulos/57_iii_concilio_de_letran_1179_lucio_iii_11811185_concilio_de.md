@@ -12,34 +12,26 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[eucaristía]] — sacramento del cuerpo y de la sangre de Cristo
+- [[bautismo]] — sacramento del bautismo
+- [[confesión_de_los_pecados]] — sacramento de la penitencia
+- [[matrimonio]] — sacramento del matrimonio
+- [[sacramentos]] — doctrina de los sacramentos de la Iglesia
+- [[herejía]] — juicio de herejía de la Iglesia Romana y de los obispos
+- [[anatema]] — vínculo de perpetuo anatema a los herejes
 
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `0057_III_CONCILIO_DE_LETRAN_1179_LUCIO_III_1181-1185_CONCILIO_DE_.md`
+### III CONCILIO DE LETRAN, 1179 LUCIO III, 1181-1185 CONCILIO DE VERONA, 1184
 
+**De los sacramentos (contra los albigenses)** [Del Decreto *Ad abolendum* contra los herejes]:
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | III CONCILIO DE LETRAN, 1179 LUCIO III, 1181-1185 CONCILIO DE VERONA,  |
+**D-402** A todos los que no temen sentir o enseñar de otro modo que como predica y observa la sacrosanta Iglesia Romana acerca del sacramento del cuerpo y de la sangre de nuestro Señor Jesucristo, del [[bautismo]], de la confesión de los pecados, del [[matrimonio]] o de los demás sacramentos de la Iglesia; y en general, a cuantos la misma Iglesia Romana o los obispos por sus diócesis con el consejo de sus clérigos, o los clérigos mismos, de estar vacante la sede, hubieren juzgado por herejes, se les liga con igual vínculo de perpetuo [[anatema]].
 
 
 ## Secciones incluidas
 
 ## III CONCILIO DE LETRAN, 1179 LUCIO III, 1181-1185 CONCILIO DE VERONA, 1184
 
-[Contenido de esta sección...]
+Decreto *Ad abolendum* (Concilio de Verona, 1184): anatema contra quienes sientan diversamente sobre la [[eucaristía]], el [[bautismo]], la confesión, el [[matrimonio]] y los demás [[sacramentos]], y contra los juzgados como herejes (D-402).

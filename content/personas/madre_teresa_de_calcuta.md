@@ -2,7 +2,7 @@
 type: Persona
 title: Madre Teresa de Calcuta
 description: "Agnes Gonxha Bojaxhiu (1910-1997), fundadora de las Misioneras de la Caridad, Premio Nobel de la Paz 1979"
-timestamp: 2026-09-02
+timestamp: 2026-09-07
 tags:
   - persona
   - caridad
@@ -11,7 +11,7 @@ tags:
 ---
 
 > Área: Persona
-> Última actualización: 2026-09-02
+> Última actualización: 2026-09-07
 
 ## Contexto histórico
 
@@ -41,6 +41,14 @@ Barron subraya que Madre Teresa, junto con otros santos modernos como Maximilian
 
 En «Lessons from Elijah» (Fr. Leonard Andrie, archivo 22), Madre Teresa es citada para condensar el sentido de la fidelidad en medio del sufrimiento y del desánimo ministerial: «Dios no nos ha llamado a tener éxito, sino a ser fieles» (*God has called us not to be successful, but to be faithful*). El autor la aplica a la prueba del profeta Elías, cuya misión «no era cambiar la nación sino cumplir su tarea dada por Dios», llena tanto de triunfos como de lucha y sensación de abrumo. La cita subraya la distinción entre resultados visibles y fidelidad a la vocación, clave para [[acompañamiento_pastoral|acompañar]] a quienes sufren el desánimo y la [[desolación_espiritual]] (ver [[vocación]], [[sufrimiento_cristiano]]).
 
+### Según EAC-19 — Word on Fire Institute
+
+En *Evangelization & Culture, Issue 19* (Artificial Intelligence), Fr. Anselm Ramelow OP la presenta en «Artificial Intelligence as a Challenge to Human Freedom» (15_feature_ramelow.md) como ejemplo de cómo la [[virtud]] hace predecible a la persona sin privarla de su [[libertad]]. Tras constatar que la inteligencia artificial predice y manipula nuestras elecciones, Ramelow argumenta que la sabiduría y la virtud, paradójicamente, nos hacen también más predecibles —pero esto no nos despoja de la libertad, a menos que identifiquemos la libertad con el comportamiento aleatorio:
+
+> «Si ella siguiera viva hoy, podría predecir que la Madre Teresa no va a asesinarme. Es demasiado virtuosa para eso. Pero, ¿acaso eso significa que la virtud la ha hecho perder su libertad? En absoluto, a menos que pensemos que el comportamiento aleatorio es la marca distintiva de la elección libre» (Ramelow, *E&C* 19).
+
+La libertad no tiene que ver con el capricho sino con la sabiduría: es racional y, por esa razón, predecible. La virtud consiste en seguir el bien moral conocido racionalmente de forma consistente, no caprichosa; esa consistencia no priva de libertad, sino que la aumenta. Los algoritmos que predicen nuestras elecciones se apoyan en estadísticas que no distinguen entre las regularidades que provienen de propensiones depravadas y las que son resultado de la sabiduría y la virtud — las primeras documentan nuestra esclavitud, las segundas nuestra libertad.
+
 ## Relaciones doctrinales
 
 - [[vocación_a_la_santidad]]: Madre Teresa es ejemplo paradigmático de la llamada universal a la santidad
@@ -58,6 +66,9 @@ En «Lessons from Elijah» (Fr. Leonard Andrie, archivo 22), Madre Teresa es cit
 - [[hora_santa]]
 - [[adoración_eucarística]]
 - [[ecumenismo]]
+- [[virtud]]
+- [[libertad]]
+- [[inteligencia_artificial]]
 
 ## Referencias
 
@@ -66,3 +77,4 @@ En «Lessons from Elijah» (Fr. Leonard Andrie, archivo 22), Madre Teresa es cit
 - Johnson, Fr. Josh. «Sit with Him Awhile» y «Adoration in the Midst of Ethnic Tensions», en *Evangelization & Culture* 13 (Autumn 2022).
 - Torres, Alicia. «The Sacred Heart of Home», en *Evangelization & Culture* 13 (Autumn 2022).
 - Andrie, Leonard. «Lessons from Elijah», en *Evangelization & Culture* 15 (Spring 2023).
+- Ramelow, Fr. Anselm OP. «Artificial Intelligence as a Challenge to Human Freedom», en *Evangelization & Culture* 19 (Spring 2024).

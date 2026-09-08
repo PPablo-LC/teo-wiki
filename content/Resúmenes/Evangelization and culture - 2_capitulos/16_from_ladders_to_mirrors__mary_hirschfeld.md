@@ -28,7 +28,7 @@ Jesús al joven rico: «Vende lo que tienes, dalo a los pobres y sígueme» (Mc 
 
 ### Paso 1: Ordenar los bienes
 
-La felicidad no es obtener lo que queremos, sino aprender a querer bien. Para Tomás de Aquino, la felicidad no viene de la prosperidad económica, sino de ser las mejores versiones de nosotros mismos. La riqueza es **instrumental**:有价值 solo en la medida en que sirve a bienes superiores. Si necesito $70.000 al año para vivir bien como profesora, no necesito más.
+La felicidad no es obtener lo que queremos, sino aprender a querer bien. Para Tomás de Aquino, la felicidad no viene de la prosperidad económica, sino de ser las mejores versiones de nosotros mismos. La riqueza es **instrumental**: valiosa solo en la medida en que sirve a bienes superiores. Si necesito $70.000 al año para vivir bien como profesora, no necesito más.
 
 ### Paso 2: Perfeccionar, no maximizar
 

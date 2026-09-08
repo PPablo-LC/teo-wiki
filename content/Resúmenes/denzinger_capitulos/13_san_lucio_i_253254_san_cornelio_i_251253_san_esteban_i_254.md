@@ -4,7 +4,7 @@ title: "SAN LUCIO I 253-254 SAN CORNELIO I 251-253 SAN ESTEBAN I 254"
 fuente: denzinger_capitulos
 capítulo: 13
 timestamp: 2026-08-24
-description: "Resumen de 'SAN LUCIO I 253-254 SAN CORNELIO I 251-253 SAN ESTEBAN I 254' — denzinger_capitulos"
+description: "Resumen de los documentos sobre el bautismo de los herejes"
 tags: ["resumen", "denzinger capitulos"]
 ---
 
@@ -12,34 +12,28 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[bautismo]] — sacramento de iniciación cristiana
+- [[bautismo_de_los_herejes]] — controversia sobre la validez del bautismo administrado por herejes
+- [[herejía]] — enseñanza contraria a la fe ortodoxa
+- [[rebatismo]] — administración del bautismo por segunda vez
+- [[tradición]] — transmisión de la fe de los Apóstoles
+- [[Espíritu_Santo]] — tercera Persona de la Trinidad
+- [[penitencia]] — sacramento de reconciliación
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `0013_SAN_LUCIO_I_253-254_SAN_CORNELIO_I_251-253_SAN_ESTEBAN_I_254.md`
+### San Lucio I (253-254), San Cornelio I (251-253), San Esteban I (254-257)
 
+**D-46** Sobre el bautismo de los herejes (fragmento de carta de San Esteban a San Cipriano):
+«Si alguno de cualquier herejía viniera a vosotros, no se innove nada, fuera de lo que es de tradición; impóngansele las manos para la penitencia, como quiera que los mismos herejes no bautizan según un rito particular a los que se pasan a ellos, sino que sólo los reciben en su comunión.»
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**D-47** Sobre la validez del bautismo de los herejes (fragmento de la carta de Firmiliano a San Cipriano):
+Esteban afirma que «quienquiera y donde quiera fuere bautizado en el nombre de Cristo, consiga al punto la gracia de Cristo». Firmiliano, por su parte, atestigua que «la remisión de los pecados y el segundo nacimiento puede darse en el bautismo de los herejes» y que «no creen haya de inquirirse quién sea el que haya bautizado, porque el que ha sido bautizado ha podido conseguir la gracia, invocada la Trinidad de los nombres del Padre y del Hijo y del Espíritu Santo».
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | SAN LUCIO I, 253-254 SAN CORNELIO I, 251-253 SAN ESTEBAN I, 254-257 |
-
+Esta controversia entre San Esteban y San Cipriano/Firmiliano es un debate fundamental sobre la [[validez_del_bautismo]] administrado fuera de la Iglesia católica.
 
 ## Secciones incluidas
 
-## SAN LUCIO I, 253-254 SAN CORNELIO I, 251-253 SAN ESTEBAN I, 254-257
+## SAN LUCIO I, 253-254 — SAN ESTEBAN I, 254-257
 
-[Contenido de esta sección...]
+Documentos sobre la controversia del bautismo de los herejes. San Esteban I defiende la validez del [[bautismo]] administrado por los herejes, mientras que San Cipriano y Firmiliano sostienen la necesidad del rebautismo. La posición de San Esteban prevaleció finalmente en la Iglesia: el bautismo válido administrado por los herejes no debe repetirse, basta la imposición de manos para la [[penitencia]].

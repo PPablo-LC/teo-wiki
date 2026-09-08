@@ -66,7 +66,7 @@ Se presentan ocho épocas de la Antigua Alianza, cada una con cronología detall
 - Se fundamenta en la Revelación divina y la Tradición
 - Se articula en torno a las Alianzas divinas
 - Culmina en Cristo y continúa en la Iglesia
-- Tiene dimensión escatológica (plenitud未来)
+- Tiene dimensión escatológica (plenitud futura)
 
 ## Ver también
 

@@ -4,7 +4,7 @@ title: "normas complementarias al capítulo 5 vida espiritual y camin"
 fuente: Constutuciones_de_los_Legionarios_de_Cristo-2020
 capítulo: 44
 timestamp: 2026-08-24
-description: "Resumen de 'normas complementarias al capítulo 5 vida espiritual y camin' — Constutuciones_de_los_Legionarios_de_Cristo-2020"
+description: "Resumen de 'Normas complementarias al Capítulo 5. Vida espiritual y camino de santificación'"
 tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 ---
 
@@ -12,34 +12,35 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[confesores]]
+- [[prácticas_de_vida_espiritual]]
+- [[ejercicios_espirituales]]
+- [[oración_mental]]
+- [[sacramento_de_la_penitencia]]
+- [[diálogo_personal_con_el_superior]]
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `normas_complementarias_al_capítulo_5_vida_espiritual_y_camin.md`
+### Normas complementarias al Capítulo 5. Vida espiritual y camino de santificación
 
+**Confesores (CLC 50):**
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+En los centros de formación, los rectores e instructores han de mostrarse solícitos para que los miembros dispongan de un número conveniente de confesores. Tras adecuada consulta, propongan al director territorial el nombramiento de los sacerdotes más idóneos. Los confesores ordinarios se muestren disponibles y diligentes. Además de los confesores ordinarios, los novicios y religiosos pueden acudir con libertad a cualquier otro sacerdote con facultad de oír confesiones. Los instructores y rectores inviten a confesores extraordinarios al menos cada dos meses.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | Normas complementarias al Capítulo 5. Vida espiritual y camino de sant |
+**Prácticas de vida espiritual (CLC 53):**
 
+En caso de necesidad, los superiores pueden adaptar las modalidades y horarios de las [[prácticas_de_vida_espiritual]] al régimen de formación o apostolado de la comunidad. En casas de apostolado, el proyecto comunitario establece los horarios del ofrecimiento de obras, la oración mental, la celebración eucarística y las oraciones de la noche. En casas de formación se sigue la *Ratio institutionis*.
+
+**Ejercicios espirituales (CLC 53 y 54):**
+
+Es competencia del director territorial nombrar directores de ejercicios, fijar lugar y fechas con antelación suficiente. La duración ordinaria de los [[ejercicios_espirituales]] es de ocho días; los ejercicios de mes duran treinta días. Los sacerdotes contarán con flexibilidad en la elección de tandas, modalidades, tiempos y lugares.
+
+**Diálogo personal con el superior (CLC 60):**
+
+El diálogo con el superior se tiene según la periodicidad: los religiosos durante el primer año de vida religiosa, cada quince días; los demás religiosos no sacerdotes, al menos cada mes; los sacerdotes, algunas veces al año con su superior y al menos una vez al año con el director territorial.
 
 ## Secciones incluidas
 
 ## Normas complementarias al Capítulo 5. Vida espiritual y camino de santificación
 
-[Contenido de esta sección...]
+Normas sobre la disposición de confesores, la adaptación de prácticas de vida espiritual, la organización de los ejercicios espirituales y la periodicidad del diálogo personal con el superior.

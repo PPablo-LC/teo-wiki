@@ -4,7 +4,7 @@ title: Profecías
 tags: ["dogmática"]
 
 timestamp: 2026-05-26
-description: "Las profecías mesiánicas son anuncios divinos contenidos en el [[antiguo_testamento]] que预figuran y prometen la venida del Mesías Redentor."
+description: "Las profecías mesiánicas son anuncios divinos contenidos en el [[antiguo_testamento]] que prefiguran y prometen la venida del Mesías Redentor."
 ---
 # Profecías
 
@@ -13,7 +13,7 @@ description: "Las profecías mesiánicas son anuncios divinos contenidos en el [
 
 ## Definición
 
-Las profecías mesiánicas son anuncios divinos contenidos en el [[antiguo_testamento]] que预figuran y prometen la venida del Mesías Redentor. Tienen a [[cristo]] como término y cumplimiento, constituyendo una preparación progresiva del [[pueblo_de_dios]] para la encarnación del Verbo.
+Las profecías mesiánicas son anuncios divinos contenidos en el [[antiguo_testamento]] que prefiguran y prometen la venida del Mesías Redentor. Tienen a [[cristo]] como término y cumplimiento, constituyendo una preparación progresiva del [[pueblo_de_dios]] para la encarnación del Verbo.
 
 ## Desarrollo doctrinal
 

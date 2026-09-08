@@ -12,34 +12,31 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[ratio_institutionis]] — desarrolla con mayor detalle los principios formativos contenidos en las *Constituciones*.
+- [[ratio_studiorum]] — desarrolla con mayor detalle los principios formativos, en su dimensión académica.
+- [[formación_legionaria]] — formación inicial y permanente de los legionarios, cuyas etapas estructura la Parte II.
+- [[capítulo_general]] — autoridad que aprueba la *Ratio institutionis* y la *Ratio studiorum*.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
 📄 **Fuente original:** `02_parte_ii_etapas_de_la_vida_en_la_congregación.md`
 
+### Parte II — Etapas de la vida en la Congregación
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+Encabezado divisorio de la Segunda Parte de las *Constituciones*, dedicada a las etapas de la vida en la Congregación: la formación inicial (etapas previas, noviciado, profesión religiosa, estudios), la vida espiritual y el camino de santificación, las prácticas apostólicas, la ordenación y el ministerio sacerdotal, y la atención a enfermos, ancianos y difuntos.
+
+El archivo añade el número 33 de las *Constituciones*: los principios formativos presentes en las *Constituciones* se encuentran desarrollados con mayor detalle en la *Ratio institutionis* y la *Ratio studiorum*, aprobados por el Capítulo General.
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H2 | Parte II |
 
-
 ## Secciones incluidas
 
 # Parte II
 
-[Contenido de esta sección...]
+Etapas de la vida en la Congregación
+
+La Parte II recorre las etapas de la vida en la Congregación —etapas previas, noviciado, profesión religiosa, estudios, vida espiritual y camino de santificación, prácticas apostólicas, ordenación y ministerio sacerdotal, y cuidado de enfermos, ancianos y difuntos— y precisa que los principios formativos de las *Constituciones* se desarrollan con más detalle en la *Ratio institutionis* y la *Ratio studiorum* aprobadas por el Capítulo General.

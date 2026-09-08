@@ -17,7 +17,7 @@ La teofanía (del griego *theophaneía*, «manifestación de Dios») es la apari
 
 ## Desarrollo doctrinal
 
-Las teofanías del Antiguo Testamento son manifestaciones condescendientes de Dios,适应as a la capacidad de comprensión del hombre. Entre las principales se encuentran: la zarza ardiente ante Moisés (Ex 3,1-6), la revelación en el Sinaí entre truenos y relámpagos (Ex 19-20), las visiones de los profetas (Is 6; Ez 1; Dan 7), y las teofanías en forma de nube, fuego o tormenta.
+Las teofanías del Antiguo Testamento son manifestaciones condescendientes de Dios, adaptadas a la capacidad de comprensión del hombre. Entre las principales se encuentran: la zarza ardiente ante Moisés (Ex 3,1-6), la revelación en el Sinaí entre truenos y relámpagos (Ex 19-20), las visiones de los profetas (Is 6; Ez 1; Dan 7), y las teofanías en forma de nube, fuego o tormenta.
 
 En el Nuevo Testamento, las teofanías alcanzan su plenitud en la persona de Jesucristo, que es la «epifanía» definitiva de Dios. Las principales teofanías neotestamentarias son: la Anunciación, el Bautismo en el Jordán (teofanía trinitaria con voz del Padre, descenso del Espíritu en forma de paloma y testimonio sobre el Hijo), la Transfiguración en el monte Tabor, y Pentecostés.
 

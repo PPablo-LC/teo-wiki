@@ -12,25 +12,25 @@ tags: ["resumen", "capitulos lc frg"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[Laicos_Consagrados_del_Regnum_Christi]]
+- [[Asamblea_General_del_Regnum_Christi]]
+- [[Regnum_Christi]]
 
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
 📄 **Fuente original:** `07_decreto_de_convocación_de_la_segunda_sesión_de_la_asamblea_d.md`
 
+Decreto de la Asamblea General extraordinaria de los [[Laicos_Consagrados_del_Regnum_Christi]] (Acto de gobierno LCRC-AGE 1-2018), aprobado en el Centro de retiros de Santa María del Lago, Chapala, Jalisco, del 27 de diciembre de 2017 al 3 de enero de 2018, que aprueba la composición de la segunda sesión de la Asamblea General extraordinaria a celebrarse a finales de 2018.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+**Participantes**:
+- Por oficio: el gobierno general.
+- Por elección: ocho participantes del primer momento de la Asamblea con votos definitivos (José Mateos Brito, Emilio Martínez Albesa, Javier Bendek Viera, Mario Armando Olivieri Sangiacomo Carrera, Luis Jacinto Salcido, Oscar Velasco Flores, Abraham Monroy Zermeño y Bernardo Rangel Sada).
+- Sustitutos: Diego de Robina Rabasa, Radoslaw Tadeusz Bieracki, Jaime Pérez Guajardo y Tomás Pablo Beuchat Beroíza.
+
+**Fundamento jurídico**: nn. 58 § 1, 60 y 61 § 2 de los *Estatutos de los Laicos Consagrados del Regnum Christi*.
+
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
@@ -40,6 +40,6 @@ Instrucciones para el agente:
 
 ## Secciones incluidas
 
-# Decreto de convocación de la segunda sesión de la Asamblea de los Laicos Consagrados del Regnum Christi
-
-[Contenido de esta sección...]
+- Composición de participantes por oficio y por elección para la segunda sesión
+- Sustitutos electos
+- Fundamento jurídico

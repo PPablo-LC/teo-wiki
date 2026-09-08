@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Verdad
 tags: ["filosofía", "doctrina_social", "moral"]
 
-timestamp: 2026-08-22
+timestamp: 2026-09-07
 description: "La verdad es uno de los valores fundamentales de la vida social, inherente a la dignidad de la persona humana."
 ---
 # Verdad
 
 > Área: Filosofía / Doctrina Social / Moral
-> Última actualización: 2026-08-22
+> Última actualización: 2026-09-07
 
 ## Definición
 
@@ -105,13 +105,19 @@ En *Jesús de Nazaret III*, Benedicto XVI aborda la verdad desde la pregunta de 
 
 ### Según EAC-16 — Word on Fire Institute
 
-**El rescate de la verdad frente al marxismo y el relativismo (Dr. Tracey Rowland).** Rowland sitúa la defensa de la verdad como uno de los dos grandes legados intelectuales de Ratzinger: mientras Marx revolucionó la comprensión de la verdad («la verdad se convirtió en algo que los humanos construyen para sus propios fines políticos»), Ratzinger rescató la verdad como valor objetivo frente al pragmatismo marxista [EAC-16, 15_feature_rowland.md]. «Lo que hace que Ratzinger/Benedict sea un héroe católico es su profundo conocimiento de los movimientos destructivos de esta cuarteta y su igualmente profundo conocimiento de la tradición intelectual católica como antídoto contra这些 ideological toxins».
+**El rescate de la verdad frente al marxismo y el relativismo (Dr. Tracey Rowland).** Rowland sitúa la defensa de la verdad como uno de los dos grandes legados intelectuales de Ratzinger: mientras Marx revolucionó la comprensión de la verdad («la verdad se convirtió en algo que los humanos construyen para sus propios fines políticos»), Ratzinger rescató la verdad como valor objetivo frente al pragmatismo marxista [EAC-16, 15_feature_rowland.md]. «Lo que hace que Ratzinger/Benedict sea un héroe católico es su profundo conocimiento de los movimientos destructivos de esta cuarteta y su igualmente profundo conocimiento de la tradición intelectual católica como antídoto contra estos ideological toxins».
 
 **Los «pareados de la verdad» (Dr. Tracey Rowland).** Rowland enumera los «pareados de la verdad» como clave para entender el legado intelectual de Benedicto XVI: verdad y conciencia, verdad y razón, verdad y libertad, verdad y amor, verdad y tolerancia, verdad y democracia, verdad y marxismo, verdad y ideología, verdad y pragmatismo [EAC-16, 15_feature_rowland.md]. Estos pareados articulan la respuesta católica a las crisis de la modernidad.
 
 **La verdad y la conciencia según Newman (Rowland / Ratzinger).** Ratzinger defendió la comprensión de la conciencia de San Juan Henry Newman frente a las múltiples variantes de conciencia que surgieron tras el Concilio. Para Newman, «el término medio que establece la conexión entre la autoridad y la subjetividad es la verdad» [EAC-16, 15_feature_rowland.md]. Ratzinger advirtió que si el juicio de conciencia fuese siempre infalible, «significaría que no hay verdad —al menos no en asuntos morales y religiosos, que constituyen los pilares mismos de nuestra existencia».
 
 **La verdad como fundamento de la unidad de los pueblos (Bishop Robert Barron).** Ratzinger afirmó, «en línea con la gran tradición católica, que ciertas verdades — morales, intelectuales y estéticas — pueden ser conocidas y que este conocimiento sirve de hecho para unir a los pueblos a través de las divisiones religiosas y culturales» [EAC-16, 01_from_the_desk.md]. La verdad no divide sino que une.
+
+### Según Evangelization & Culture (EAC-19)
+
+**La IA y la verdad (Andre Vlok, *Hamlet's Mirror*).** En su libro *Hamlet's Mirror: A Reflection on Conflict and Artificial Intelligence*, el mediador de conflictos Andre Vlok plantea la cuestión decisiva: «¿cómo afectará la IA a nuestra comprensión de conceptos como la verdad, la democracia y la naturaleza del trabajo?» [EAC-19, 06_stacks, L23]. Para Vlok, todos los temas relativos a la IA deben verse «como manifestaciones de ese favorito perenne: el conflicto humano», entendido como toda actividad o proceso que se opone real o potencialmente a nuestros mejores intereses [L15-17]. El libro subraya la urgencia de «revisitar qué nos hace humanos, las consecuencias de la ulterior degradación de estos valores, y el recordatorio de que esos valores humanos únicos forman la base de nuestra mejor defensa en estos nuevos conflictos» [L31].
+
+**La máquina no puede descubrir la verdad filosófica (Dietrich von Hildebrand).** Von Hildebrand insiste en que una computadora, «que puede realizar ciertas tareas de manera más fiable y rápida que el hombre, de ningún modo disminuye la diferencia esencial entre una máquina y el intelecto humano» [EAC-19, 11_minds, L113]. La máquina es fruto del intelecto humano, «pero sería absolutamente ridículo e idiota creer que una máquina pudiera alguna vez encontrar una verdad filosófica, tal como el descubrimiento del conocimiento a priori en el Menón de Platón, o una teoría científica como la de Einstein» [L113]. Debe captarse «el abismo que separa las realizaciones de las máquinas y un verdadero insight o descubrimiento intelectual» —y por eso mismo «sería un contrasentido esperar cualquier actividad artística de una máquina» [L113]. Solo captando «la incomparable superioridad de todas estas realizaciones, que por su naturaleza son inaccesibles a toda máquina», se puede proteger al hombre de hacer de la tecnología la *causa exemplaris* de la vida humana [L113].
 
 ## Relaciones doctrinales
 

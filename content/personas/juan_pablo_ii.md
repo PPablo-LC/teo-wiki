@@ -3,13 +3,13 @@ type: Persona
 title: Juan Pablo II
 tags: ["personajes_—_papas"]
 
-timestamp: 2026-06-14
+timestamp: 2026-09-07
 description: "Karol Józef Wojtyła (Wadowice, Polonia, 18 de mayo de 1920 — Ciudad del Vaticano, 2 de abril de 2005)."
 ---
 # Juan Pablo II
 
 > Área: Personajes — Papas
-> Última actualización: 2026-06-14
+> Última actualización: 2026-09-07
 
 ## Contexto histórico
 
@@ -43,9 +43,13 @@ Juan Pablo II narra en esta autobiografía sacerdotal los hitos de su vocación 
 
 Juan Pablo II promulgó la Carta Apostólica *Motu Proprio data* «Sacramentorum Sanctitatis Tutela» (30 abril 2001), por la que se promulgan las *Normae de gravioribus delictis* reservados a la Congregación para la Doctrina de la Fe. Fuente primaria del derecho penal canónico sustantivo y procesal sobre delitos contra la fe, la Eucaristía, la Penitencia, la moral y la atentada ordenación sagrada.
 
+### Según Evangelization & Culture n.º 19 «Artificial Intelligence» (EAC-19)
+
+En el artículo «Lives: Saint Dymphna's Aid for AI Anxieties» (05_lives.md), Angela M. Jendro cita al Papa Juan Pablo II para fundamentar la dignidad de quienes sufren enfermedad mental ante la ansiedad generada por la [[inteligencia_artificial]]. Recordando las palabras de Cristo «"Fui enfermo y me visitasteis"» (Mt 25, 36), el Papa afirma: «Cristo tomó sobre sí todo sufrimiento humano, incluso la enfermedad mental» ["Mentally Ill Are Also Made in God's Image", EWTN, 30 de noviembre de 1996]. La cita enmarca la respuesta cristiana a la ansiedad tecnológica: como Santa Dimfna —patrona de los enfermos mentales, cuya intercesión sostiene la comunidad de acogida familiar de Geel (Bélgica)— el santo ve los sufrimientos ajenos «con los ojos de Dios», que se compadece y alivia; la [[inteligencia_artificial]] no suple la compasión, que sigue siendo misión de la Iglesia.
+
 ## Ver también
 
-[[benedicto_xvi]], [[papa_francisco]], [[león_xiv]], [[papa]], [[catecismo_de_la_iglesia_católica]], [[nueva_evangelización]], [[movimientos_eclesiales]], [[regnum_christi]]
+[[benedicto_xvi]], [[papa_francisco]], [[león_xiv]], [[papa]], [[catecismo_de_la_iglesia_católica]], [[nueva_evangelización]], [[movimientos_eclesiales]], [[regnum_christi]], [[inteligencia_artificial]]
 
 ## Referencias
 
@@ -58,3 +62,4 @@ Juan Pablo II promulgó la Carta Apostólica *Motu Proprio data* «Sacramentorum
 - Juan Pablo II, Mensaje al Congreso Mundial de Movimientos Eclesiales (27 mayo 1998)
 - Juan Pablo II, Discurso a los participantes de Comunión y Liberación (12 septiembre 1985)
 - [RC-MovEcles-2014, A-D]
+- EAC-19, *Evangelization & Culture, Issue 19 — Artificial Intelligence* (Word on Fire Institute), 05_lives.md (Angela M. Jendro, «Saint Dymphna's Aid for AI Anxieties»); cita de Juan Pablo II, «Mentally Ill Are Also Made in God's Image», EWTN, 30 noviembre 1996.

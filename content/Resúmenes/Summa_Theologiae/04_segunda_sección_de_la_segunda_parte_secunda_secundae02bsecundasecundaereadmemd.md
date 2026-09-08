@@ -76,7 +76,7 @@ Después de considerar, en general, las [[virtudes]] y los vicios, con lo demás
 
 ### Carismas
 
-- **Q.171–178 — Los carismas**: La [[profecía]] es conocimiento infuso de cosas futuras o ocultas, comunicado por Dios; su causa puede ser divina, angélica o por disposición natural; se distingue por su modo, objetos y sujetos. El [[don_de_lenguas]] y la elocuencia son gracia gratis dada para enseñar. El [[don_de_milagros]] es poder realizar obras超iores a la naturaleza.
+- **Q.171–178 — Los carismas**: La [[profecía]] es conocimiento infuso de cosas futuras o ocultas, comunicado por Dios; su causa puede ser divina, angélica o por disposición natural; se distingue por su modo, objetos y sujetos. El [[don_de_lenguas]] y la elocuencia son gracia gratis dada para enseñar. El [[don_de_milagros]] es poder realizar obras superiores a la naturaleza.
 
 ### Estados de vida
 

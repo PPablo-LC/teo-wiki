@@ -12,34 +12,26 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[potestad_del_papa|potestad del Romano Pontífice]] — contra la potestad y autoridad del Pontífice y del episcopado
+- [[vida_religiosa]] — el saludable estado de los religiosos pobres o mendicantes
+- [[pobreza_evangélica]] — los que mendigan por Dios bajo estrechísima pobreza
+- [[religiosos_predicadores]] — los frailes Predicadores y los Menores
+- [[iglesia]] — defensa del estado religioso y de los estudios sagrados en la Iglesia
 
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `0064_ALEJANDRO_IV_1254-1261.md`
+### ALEJANDRO IV, 1254-1261
 
+**Errores de Guillermo del Santo Amor (sobre los mendicantes)** [Constitución *Romanus Pontifex*, 5 de octubre de 1256]:
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**D-458** Aparecieron algunos que, por excesivo ardor de su ánimo, prorrumpieron en extraviadas imaginaciones, componiendo temerariamente un libelo muy pernicioso y detestable. Examinado cuidadosamente, se halló que contiene cosas perversas y reprobables contra la [[potestad_del_papa|potestad y autoridad del Romano Pontífice]] y sus compañeros de episcopado, y algunas contra aquellos que mendigan por Dios bajo estrechísima [[pobreza_evangélica|pobreza]], y otras contra los que, animados de ardiente celo por la salvación de las almas y procurándola por los sagrados estudios, logran en la Iglesia de Dios muchos provechos espirituales y hacen allí mucho fruto.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | ALEJANDRO IV, 1254-1261 |
+**D-459** Otras cosas se contienen contra el saludable estado de los religiosos pobres o mendicantes, como son los frailes [[religiosos_predicadores|Predicadores]] y los Menores, los cuales, con vigor de espíritu, abandonado el siglo con sus riquezas, suspiran por la sola Patria celeste, y por el estilo otras muchas cosas inconvenientes dignas de eterna confutación. Dicho libelo era semillero de grande escándalo y dañaba las almas, pues retraía de la devoción acostumbrada, de la largueza en las limosnas y de la conversión e ingreso de los fieles en religión. Por autoridad apostólica, se juzga que dicho libro —«Breve tratado sobre los peligros de los últimos tiempos»— ha de ser reprobado y para siempre condenado por inicuo, criminal y execrable, y sus instituciones, por perversas, falsas e ilícitas; quienquiera que tuviere ese libro, después de ocho días de sabida la reprobación, procure absolutamente quemarlo y destruirlo enteramente.
 
 
 ## Secciones incluidas
 
 ## ALEJANDRO IV, 1254-1261
 
-[Contenido de esta sección...]
+Constitución *Romanus Pontifex*: condenación del libelo de Guillermo del Santo Amor contra la potestad del Romano Pontífice, del episcopado, de la [[pobreza_evangélica]] y de los religiosos mendicantes (D-458, D-459).

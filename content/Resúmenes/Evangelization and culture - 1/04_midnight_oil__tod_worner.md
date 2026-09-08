@@ -23,7 +23,7 @@ tags: ["resumen", "evangelización", "belleza", "lectura", "vida_espiritual"]
 
 El panorama de publicaciones católicas es vasto (Magnificat, Commonweal, America, etc.). Evangelization & Culture es extensión natural del trabajo de Word on Fire.
 
-**Tres grupos目标:**
+**Tres grupos objetivo:**
 1. Miembros del Word on Fire Institute
 2. Escépticos buscadores
 3. Fieles no formados

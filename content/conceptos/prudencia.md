@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Prudencia
 tags: ["moral"]
 
-timestamp: 2026-08-22
+timestamp: 2026-09-07
 description: "La prudencia es la primera y principal de las virtudes cardinales, virtud infusa que reside en la razón práctica."
 ---
 # Prudencia
 
 > Área: Moral
-> Última actualización: 2026-08-22
+> Última actualización: 2026-09-07
 
 ## Definición
 
@@ -39,6 +39,16 @@ El acto de la virtud es el que individua e impera el juicio de la razón, pero n
 ### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
 
 Bobby Angel aplica la prudencia al arte del chiste: cultivar prudencia y caridad al fijar «la línea» de la comedia — qué se dice, a quién, cuándo. Proverbio judío: «Quien puede retener un chiste es un héroe». George Bernard Shaw: «Si quieres decirle a alguien la verdad, mejor hazlo reír, o te matará»; pero el motivo debe ser «la diversión, no la maldad» (Rubin). «El timing lo es todo»: la oportunidad (kairós) es dimensión esencial del humor virtuoso.
+
+### Según Evangelization & Culture (EAC-19)
+
+Tod Worner («Midnight Oil»), Justin Kalan («Science: A Primer on AI») y Fr. Anselm Ramelow, OP («AI as a Challenge to Human Freedom») aportan reflexiones sobre la prudencia aplicada a la inteligencia artificial.
+
+**Los límites de la calculadora (Worner):** Para las decisiones matemáticas, Worner confía en su calculadora y su ordenador. Pero «para las decisiones más consecuentes de la vida», prefiere apoyarse en su esposa y su familia, su sacerdote y su médico. La prudencia no consiste en delegar el cálculo a la máquina, sino en discernir qué ámbito requiere juicio humano: «No hay datos en enamorarse»; el amor «trasciende la lógica» y la calculadora «queda muda» ante él [EAC-19, 04_midnight_oil.md, L55-57].
+
+**Camino prudente: ni luddismo ni utopismo (Kalan):** «En definitiva, como la mayoría de las tecnologías, la IA es abstractamente una cosa moralmente neutra que puede usarse para bien o para mal». El camino prudente «excluye tanto la fantasía ludita en la que la IA es destruida como el extremo opuesto en el que la IA conducirá a una riqueza material humana ilimitada y debe ser abrazada totalmente» [EAC-19, 12_science.md, L55].
+
+**El paso reflexivo y solo personas sabias (Ramelow):** Mientras podamos considerar racionalmente nuestras opciones, siempre podemos dar «un paso reflexivo atrás» de la tentación inmediata. Pero Santo Tomás piensa que solo «personas muy sabias» son probables de dar ese paso; «la mayoría elegirá el cebo». Ejercitar el «veto» y crecer en virtud es lo que aumenta la probabilidad de tomar ese paso reflexivo [EAC-19, 15_feature_ramelow.md, L21-29].
 
 ## Relaciones doctrinales
 

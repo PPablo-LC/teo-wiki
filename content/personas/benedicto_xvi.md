@@ -3,13 +3,13 @@ type: Persona
 title: Benedicto XVI
 tags: ["personajes", "teólogos"]
 
-timestamp: 2026-08-09
+timestamp: 2026-09-07
 description: "Joseph Aloisius Ratzinger (Marktl am Inn, Baviera, 16 de abril de 1927 — Ciudad del Vaticano, 31 de diciembre de 2022)."
 ---
 # Benedicto XVI
 
 > Área: Personajes / Teólogos
-> Última actualización: 2026-08-09
+> Última actualización: 2026-09-07
 
 ## Contexto histórico
 
@@ -61,13 +61,20 @@ El número especial *Evangelization & Culture, Issue 16 — Pope Benedict XVI* (
 - **Purificación de la Iglesia** — denunció la «suciedad» (*filth*) en la Iglesia, especialmente en el sacerdocio (Vía Crucis 2005), y su renuncia papal (2013) fue un acto de libertad y honestidad [EAC-16, 21].
 - **Legado escrito** — sus escritos y discursos son «un recurso inmenso para quienes buscan sentido»; su vida adulta, de humildad y humor, fue un testimonio de la verdad [EAC-16, 15, 21].
 
+### Según EAC-19 — Word on Fire Institute
+
+El número *Evangelization & Culture, Issue 19 — Artificial Intelligence* (primavera de 2024) recurre a Benedicto XVI como autoridad para pensar la relación entre tecnología y moral:
+
+- **El desequilibrio entre posibilidades tecnológicas y energía moral** — Angela Jendro cita *Christianity and the Crisis of Cultures* en su ensayo sobre la «ansiedad IA»: «el verdadero y más grave peligro del momento presente es precisamente este desequilibrio entre posibilidades tecnológicas y energía moral» (05_lives.md). La tecnología avanza más rápido que nuestra capacidad moral de manejarla; los temores en torno a la IA —pérdida de empleo, privacidad, desconexión social— hacen aún más necesario estar arraigados en Dios. La columna «Parting Thoughts» (23_parting_thoughts.md) vuelve a citar el mismo texto como pregunta de meditación: «¿Estáis de acuerdo?»
+- **La [[dictadura_del_relativismo]] y la formación del deseo** — Jonathan Askonas y Justin Litke citan su discurso de abril de 2008 a los educadores de la Catholic University of America, pronunciado antes del advenimiento de la IA pero que anticipa lo esencial: «cuando no se reconoce nada más que el individuo como definitivo, el criterio último de juicio se convierte en el yo y en la satisfacción de los deseos inmediatos del individuo». Dentro de tal horizonte relativista —la «dictadura del relativismo» que lo permite todo salvo creer que existe un horizonte absoluto de Verdad— «los objetivos de la educación quedan inevitablemente recortados. Lentamente, se produce un rebajamiento de los estándares. Observamos hoy una timidez ante la categoría del bien y una búsqueda sin objetivo de la novedad que se presenta como la realización de la libertad» (14_feature_askonas.md). Benedicto reconoció que el desafío de la educación es avivar el amor y el deseo que conduzcan a la transformación —en verdad y no solo en apariencia—: «una vez despertada su pasión por la plenitud y la unidad de la verdad, los jóvenes sin duda disfrutarán del descubrimiento de que la cuestión de lo que pueden conocer abre la vasta aventura de lo que deben hacer». Es la conexión vital y olvidada entre intelecto y voluntad, porque lo que está en juego en la era de la IA no es tanto el intelecto como la **voluntad**: la capacidad de entregarse a un objeto mayor que uno mismo. Frente al «anillo de Giges» intelectual que promete hacer invisibles las deficiencias educativas (los LLM como *El anillo de ChatGPT*), la educación católica debe volver a «enseñar a los estudiantes no solo cómo pensar, sino qué amar».
+
 ## Analizado para
 
 - [[auténtica_día_3_aporta_al_mundo_con_tus_talentos]] — convergencia en cita «Cada persona lleva consigo un proyecto de Dios» como expresión de la providencia divina
 
 ## Ver también
 
-[[papa]], [[dicasterio_para_la_doctrina_de_la_fe]], [[sacramentorum_sanctitatis_tutela]], [[normae_de_gravioribus_delictis]], [[delicta_graviora]], [[delitos_contra_el_sexto_mandamiento]], [[prescripción_de_la_acción_criminal]], [[pascite_gregem_dei]], [[león_xiv]]
+[[papa]], [[dicasterio_para_la_doctrina_de_la_fe]], [[sacramentorum_sanctitatis_tutela]], [[normae_de_gravioribus_delictis]], [[delicta_graviora]], [[delitos_contra_el_sexto_mandamiento]], [[prescripción_de_la_acción_criminal]], [[pascite_gregem_dei]], [[león_xiv]], [[dictadura_del_relativismo]], [[inteligencia_artificial]]
 
 ## Referencias
 
@@ -76,3 +83,4 @@ El número especial *Evangelization & Culture, Issue 16 — Pope Benedict XVI* (
 - Benedicto XVI, *Carta circular a los Obispos sobre los casos de abuso*, 2011.
 - [CIS, «La catedral interior del sacerdote», 2026]
 - EAC-16, *Evangelization & Culture, Issue 16 — Pope Benedict XVI* (Summer 2023), Word on Fire Institute.
+- EAC-19, *Evangelization & Culture, Issue 19 — Artificial Intelligence* (Spring 2024), Word on Fire Institute (Angela M. Jendro, 05_lives.md; Jonathan Askonas y Justin Litke, 14_feature_askonas.md; 23_parting_thoughts.md).

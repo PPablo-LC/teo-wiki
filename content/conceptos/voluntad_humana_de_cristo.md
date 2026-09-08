@@ -23,7 +23,7 @@ La cuestión de la voluntad humana de Cristo es crucial porque determina si Él 
 
 Cristo posee una voluntad divina (común con el Padre y el Espíritu Santo) y una voluntad humana, propia de su naturaleza asumida. La voluntad divina no anula la humana, ni la humana se opone a la divina. Santo Tomás explica que la voluntad humana de Cristo estaba sometida a la divina sin ser destruida; retenía sus operaciones propias, pero en perfecta armonía. Esta conformidad no era violenta ni forzada, sino natural: la voluntad humana de Cristo, no estando corrompida por el pecado, quería libremente lo que la divina quería.
 
-La armonía entre ambas voluntades se explica por la naturaleza de la voluntad humana en su estado原始: antes de la caída, la voluntad humana se inclinaba naturalmente hacia el bien que la razón le proponía. En Cristo, esta inclinación se da en plenitud, sin la turbación que introduce el pecado original.
+La armonía entre ambas voluntades se explica por la naturaleza de la voluntad humana en su estado original: antes de la caída, la voluntad humana se inclinaba naturalmente hacia el bien que la razón le proponía. En Cristo, esta inclinación se da en plenitud, sin la turbación que introduce el pecado original.
 
 ### Libertad de la voluntad humana
 

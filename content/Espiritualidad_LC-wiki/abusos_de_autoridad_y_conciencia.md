@@ -17,7 +17,7 @@ Los abusos de autoridad y conciencia son el reconocimiento institucional de que,
 
 ## Desarrollo doctrinal
 
-El reconocimiento de los abusos de autoridad y conciencia代表a un paso significativo en la autoevaluación institucional. El II Informe Anual (2022) documenta que 11 personas denunciaron abusos de poder y conciencia siendo mayores de edad. El Capítulo General 2020, en el decreto «Seréis mis testigos» 21, se comprometió a afrontar esta realidad compleja.
+El reconocimiento de los abusos de autoridad y conciencia representa un paso significativo en la autoevaluación institucional. El II Informe Anual (2022) documenta que 11 personas denunciaron abusos de poder y conciencia siendo mayores de edad. El Capítulo General 2020, en el decreto «Seréis mis testigos» 21, se comprometió a afrontar esta realidad compleja.
 
 Los abusos de autoridad y conciencia incluyen: manipulación en dirección espiritual, control de la vida privada, uso indebido del secreto confesional, sometimiento a reglas no canónicas, y ejercicio de autoridad sin límites. Estos abusos, aunque no son sexuales, pueden causar daños profundos a la libertad y dignidad de las personas.
 

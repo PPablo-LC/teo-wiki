@@ -21,7 +21,7 @@ tags: ["resumen", "evangelization_and_culture", "arte"]
 
 Un icono anónimo del siglo XVII de la Inmaculada Concepción, que formaba parte de una exposición de treinta y un iconos de Nuestra Señora. La Virgen aparece en un marco arquitectónico con ángeles sosteniendo las puertas de la ciudad amurallada y elementos de la Liturgia de San Juan Crisóstomo. «Ella es omnipresente aquí, y aparece en una variedad de formas, cada una bastante diferente de la otra».
 
-### La XII特别是 y la «Plegaria de la Fe»
+### La XII sección especial y la «Plegaria de la Fe»
 
 Una replica del icono, encargada por el Cardenal Dolan en 2013, visitó más de 100 iglesias en la Arquidiócesis de Nueva York durante el Año de la Fe. Los fieles recitaban la «Plegaria de la Fe»: «La Inmaculada Concepción es un misterio. Meditamos sobre un evento que tuvo lugar hace más de dos mil años... El icono... De ser solo de la humilde María de Nazaret».
 

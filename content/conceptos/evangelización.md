@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Evangelización
 tags: ["doctrina_social", "eclesiología"]
 
-timestamp: 2026-09-05
+timestamp: 2026-09-07
 description: "La evangelización es la misión fundamental de la Iglesia de anunciar y actualizar el Evangelio en todas las dimensiones de la vida humana, incluida la compleja red de las relaciones sociales."
 ---
 # Evangelización
 
 > Área: Doctrina Social / Eclesiología
-> Última actualización: 2026-09-05
+> Última actualización: 2026-09-07
 
 ## Definición
 
@@ -147,6 +147,14 @@ El fascículo vincula la conversión con la renovación de la vida moral: la res
 
 De ahí que el fascículo presente la familia, la comunidad y la vida ordinaria como ámbitos privilegiados de la nueva evangelización: la [[iglesia_doméstica]] y la parroquia son los lugares donde el mensaje se hace creíble y se propone a los alejados [EAC-18, 18, 22].
 
+### Según Evangelization & Culture (EAC-19)
+
+**La IA como herramienta, nunca como evangelizadora (Barron).** La inteligencia artificial no debe ser desechada: como herramienta para reunir y transmitir información «puede resultar muy útil». Pero los evangelizadores deben ser cuidadosos y «nunca cometer el error de pensar que la IA puede hacer el trabajo de la evangelización por nosotros». Evangelizar significa «hablar corazón a corazón, persona a persona, y compartir tu relación con el Señor»; es «una persona hambrienta que ha encontrado pan diciéndole a otra dónde está». Esto es algo que la IA, por avanzada que sea, no puede hacer [EAC-19, 01_from_the_desk.md, L17]. Barron contrapone además el tiempo ante la pantalla al tiempo de oración: al revisar cuántas horas de pantalla se dedicaron la semana pasada, hay que comparar cuánto tiempo se pasó suplicando a internet con cuánto tiempo se pasó rezando a Dios; las respuestas son, para la mayoría, perturbadoras [EAC-19, 01_from_the_desk.md, L15].
+
+**La historia de los cristianos abrazando las nuevas tecnologías (Vukov).** Desde el principio los cristianos han abrazado las nuevas tecnologías, reimaginándolas como nuevas avenidas para la evangelización: los primeros apóstoles y misioneros difundieron el Evangelio gracias a la relativa facilidad de viaje de su época —san Pablo, santo Tomás y san Patricio no habrían podido desplazarse por el mundo en eras anteriores—; las catedrales góticas se construyeron con diseño arquitectónico de vanguardia; y Word on Fire mismo se basa en la premisa de que las redes sociales y otras formas de nuevos medios son plataformas viables para la evangelización [EAC-19, 16_feature_vukov.md, L27]. No obstante, advierte contra la retórica de los futuristas que presentan las nuevas tecnologías como salvíficas [EAC-19, 16_feature_vukov.md, L25], y distingue el entusiasmo ingenuo (option «embrace wholeheartedly») como problemático [EAC-19, 16_feature_vukov.md, L29]. Por su capacidad de suscitar preguntas fundantes sobre la naturaleza y dignidad humanas que las antropologías rivales no pueden responder, la era de la IA es «una ocasión para la evangelización» que ofrece al mundo el don de la tradición católica [EAC-19, 16_feature_vukov.md, L35, L57].
+
+**La Iglesia acepta las nuevas tecnologías (Hoopes).** La Iglesia reaccionó a la imprenta «la manera en que hemos estado reaccionando a las nuevas tecnologías desde entonces: la abrazamos». La Biblia de Gutenberg (1436) fue la Vulgata católica; Marconi puso a Pío XI en la radio en 1931, introduciendo la transmisión con lo que podría ser la declaración de misión tecnológica de la Iglesia: «Con la ayuda de Dios, que pone tantas misteriosas fuerzas de la naturaleza a disposición del hombre, he podido preparar este instrumento que dará a los fieles de todo el mundo la alegría de escuchar la voz del Santo Padre». La Iglesia ha usado las fuerzas tecnológicas misteriosas del fonógrafo, el cine, la televisión, los CDs e internet para dar ese gozo al mundo [EAC-19, 22_peripheries.md, L21-23].
+
 ## Ver también
 [[misión_de_la_iglesia]], [[doctrina_social_de_la_iglesia]], [[promoción_humana]], [[caridad]], [[justicia]]
 
@@ -161,3 +169,4 @@ De ahí que el fascículo presente la familia, la comunidad y la vida ordinaria 
 - Evangelization & Culture, Issue 6 (EcC6): §§05, 10 (Petiprin, Zimmerer, Worner)
 - Evangelization & Culture, Issue 7 (EcC7): Cush, "Theology as an Eight-Part Symphony," pp. 325-333
 - Evangelization & Culture, Issue 14 (EAC-14 «Joy»): 01_from_the_desk.md, 09_spotlight_stewart.md, 17_feature_gadberry.md, 18_special_feature_britton.md, 19_spotlight_barron.md
+- Evangelization & Culture, Issue 19 (EAC-19): 01_from_the_desk.md, 16_feature_vukov.md, 22_peripheries.md

@@ -4,7 +4,7 @@ title: "SAN CEFERINO 198 -217 o bien SAN CALIXTO I 217-222"
 fuente: denzinger_capitulos
 capítulo: 11
 timestamp: 2026-08-24
-description: "Resumen de 'SAN CEFERINO 198 -217 o bien SAN CALIXTO I 217-222' — denzinger_capitulos"
+description: "Resumen de los documentos de San Ceferino y San Calixto I sobre la Trinidad y la absolución"
 tags: ["resumen", "denzinger capitulos"]
 ---
 
@@ -12,34 +12,29 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[trinidad]] — misterio de un solo Dios en tres Personas
+- [[monarquianismo]] — herejía que niega las distinciones personales en Dios
+- [[ditheísmo]] — error de afirmar dos dioses
+- [[absolución_de_los_pecados]] — poder de perdonar pecados
+- [[penitencia]] — sacramento de reconciliación
+- [[fornicación]] — pecado contra la castidad
+- [[adulterio]] — pecado contra la fidelidad conyugal
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `0011_SAN_CEFERINO_198_-217_o_bien_SAN_CALIXTO_I_217-222.md`
+### Sobre la Trinidad (D-42a)
 
+Fragmento de los *Philosophoumena* de San Hipólito (hacia 230), que relata la controversia entre Calixto y Ceferino. Calixto persuadía a Ceferino para que dijera públicamente: «Yo conozco a un solo Dios Jesucristo, y a ningún otro fuera de El, que sea nacido y pasible.» Esta fórmula, aunque ortodoxa en su intención, fue interpretada por los adversarios como ditheísmo (afirmar dos dioses).
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### Sobre la absolución de los pecados (D-43)
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | SAN CEFERINO, 198 (?)-217 o bien SAN CALIXTO I, 217-222 |
+Fragmento del *De Pudicitia* de Tertuliano (libro 1):
+«Digo también haber salido un edicto y, por cierto, perentorio. No menos que el Pontífice Máximo, es decir, el obispo de los obispos, proclama: 'Yo perdono los pecados de adulterio y fornicación a los que han hecho penitencia.'»
 
+Esta declaración, atribuida antiguamente a San Ceferino o San Calixto, suele escribirse ahora a Agripino, obispo de Cartago. Es un testimonio temprano del poder de [[absolución_de_los_pecados]] ejercido por el obispo.
 
 ## Secciones incluidas
 
 ## SAN CEFERINO, 198 (?)-217 o bien SAN CALIXTO I, 217-222
 
-[Contenido de esta sección...]
+Dos fragmentos de los primeros siglos: (1) Sobre la [[trinidad]] y la controversia con los monarquianos (D-42a), donde se relata la defensa de la distinción de Personas divinas por parte de Calixto; (2) Sobre la [[absolución_de_los_pecados]] (D-43), donde un obispo (probablemente Agripino de Cartago) ejerce el poder de perdonar pecados de adulterio y fornicación a quienes hacen penitencia, testimonio del poder de las llaves en la Iglesia primitiva.

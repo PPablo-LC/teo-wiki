@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Idolatría
 tags: ["moral"]
 
-timestamp: 2026-08-24
+timestamp: 2026-09-07
 description: "Pecado contra el primer mandamiento del Decálogo que consiste en tributar a una criatura —ídolo, persona, poder, riqueza o cualquier realidad creada— la adoración debida solo a Dios."
 ---
 # Idolatría
 
 > Área: Moral
-> Última actualización: 2026-08-24
+> Última actualización: 2026-09-07
 
 ## Definición
 
@@ -52,6 +52,14 @@ La sátira profética como arma contra la idolatría: Dios mismo se burla del le
 
 Kathryn Jean Lopez ofrece una confesión de «recuperada adicta a las noticias» que ilustra la forma contemporánea de esta idolatría: siendo editora de la web de National Review, perdió la Misa dominical del día en que Saddam Hussein fue capturado —la única vez en su vida fuera de enfermedad grave—. «Nunca me propuse hacer del trabajo una religión, y sin embargo ahí estaba… Por la manera en que vivía mi vida, había hecho un ídolo de mi trabajo. Me había tomado como una especie de salvadora». La idolatría no requiere apostasía declarada: se instala mediante pequeños hábitos que desplazan a Cristo del centro mientras la conciencia duerme. Su variante política corre el riesgo de convertirse en adicción colectiva: «muchos de nosotros somos adictos a la política nacional como el mejor reality show jamás emitido». El remedio es práctico y litúrgico: Lopez sustituyó el liveblogging de los comicios por la Liturgia de las Horas, y recuperó la prioridad absoluta de la Misa; el ídolo de las noticias solo cae cuando se le retira el sacrificio que le estaba tributando.
 
+### Según Evangelization & Culture (EAC-19)
+
+**La manipulación algorítmica como idolatría (Barron).** Los algoritmos de la IA nos manipulan «de innumerables maneras y en gran medida sin que lo sepamos», haciéndonos pensar y desear de tal modo que favorecen los intereses económicos y políticos de otros: «no los usamos nosotros; ellos nos usan», y su alcance es tan extendido que podríamos encontrarnos por completo bajo su dominio. Barron ve aquí «el gran peligro de la idolatría, de tratar algo que no es Dios como Dios», citando el Sal 115,5.8: «Tienen boca, pero no hablan; ojos, pero no ven… Semejantes a ellos serán los que los hacen». Dios, el Creador, nos guía con su providencia por amor; la IA, en cambio —nuestra propia creación— nos controla mediante una ingeniería detallada para la ganancia pragmática [EAC-19, 01_from_the_desk.md, L11-13].
+
+**Resistir la retórica salvífica de los futuristas (Vukov).** Los católicos «no deben dejarse deslumbrar por las nuevas tecnologías» y deben «resistir la retórica de los futuristas que presentan las nuevas tecnologías como salvíficas»: «nuestra esperanza está en Cristo, no en una placa de circuito» (*our hope is in Christ, not a motherboard*); «nuestra fe está en un Dios inmutable, no en los últimos desarrollos de Silicon Valley» [EAC-19, 16_feature_vukov.md, L23-25].
+
+**El faraón artificial (Hoopes).** El temor a la IA se presenta como «un descenso de vuelta a los amos de esclavos de Egipto», a los días en que «surgió un nuevo rey sobre Egipto, que no conocía a José» (Éx 1,8-11). Sería «la suprema ironía que todo nuestro ingenio, divorciado de Dios, no haya hecho sino construir un amo de esclavos nuevo y mayor». La IA podría ser «un faraón artificial que nos recluta en un vasto ejercicio de construcción de monumentos piramidales a Mamón, en un proyecto que no podemos vislumbrar porque su alcance es demasiado grande para que una mente humana lo abarque» [EAC-19, 22_peripheries.md, L67-69].
+
 ## Relaciones doctrinales
 
 La idolatría se opone a la [[adoración]] debida a Dios, viola el [[primer_mandamiento]] y vicia la virtud de la [[religión]]. Se distingue de la [[superstición]] (que da culto al verdadero Dios de modo indebido) y de la [[herejía]] (error intelectual sobre la fe).
@@ -70,3 +78,4 @@ La idolatría se opone a la [[adoración]] debida a Dios, viola el [[primer_mand
 - TPCr, tratado de la virtud de la religión
 - [EAC-8, Issue 8 «Humor», archivos 13, 18]
 - [EAC-3, Issue 3 «The Digital Age», archivo 14 (Lopez)]
+- Evangelization & Culture, Issue 19 (EAC-19): 01_from_the_desk.md, 16_feature_vukov.md, 22_peripheries.md

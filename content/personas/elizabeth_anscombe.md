@@ -28,7 +28,7 @@ Su obra más influyente, *Intention* (1957), es considerada «el tratamiento má
 
 ### «Modern Moral Philosophy» (1957)
 
-En este ensayo seminal, Anscombe acuñó el término «consecuencialismo» para describir las teorías morales que juzgan la bondad o maldad de una acción exclusivamente por sus consecuencias. Argumentó que la ética moral moderna, al abandonar los conceptos de virtud, ley natural y bien humano, se había quedado sin根基 filosófica y era incapaz de ofrecer razones últimas para sus juicios morales. Su critique incidió en que las éticas sin concepto de ley natural son incoherentes: sin un telos humano definido, la noción de «obligación» moral pierde sentido.
+En este ensayo seminal, Anscombe acuñó el término «consecuencialismo» para describir las teorías morales que juzgan la bondad o maldad de una acción exclusivamente por sus consecuencias. Argumentó que la ética moral moderna, al abandonar los conceptos de virtud, ley natural y bien humano, se había quedado sin fundamento filosófico y era incapaz de ofrecer razones últimas para sus juicios morales. Su critique incidió en que las éticas sin concepto de ley natural son incoherentes: sin un telos humano definido, la noción de «obligación» moral pierde sentido.
 
 ## Distinción intención/previsión
 

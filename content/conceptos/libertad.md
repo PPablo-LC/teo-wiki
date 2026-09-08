@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Libertad
 tags: ["moral_fundamental", "antropología_teológica"]
 
-timestamp: 2026-08-31
+timestamp: 2026-09-07
 description: "Facultad de la voluntad por la cual el hombre puede determinar sus propios actos hacia su fin último sin coacción externa ni necesidad interna. Pinckaers distingue dos concepciones antitéticas: libertad de indiferencia y libertad de calidad."
 ---
 # Libertad
 
 > Área: Moral Fundamental / Antropología Teológica
-> Última actualización: 2026-08-31
+> Última actualización: 2026-09-07
 
 ## Definición
 
@@ -94,6 +94,14 @@ Worner (04_midnight_oil.md) presenta las reglas no como límites sino como prote
 Esta libertad interior dispone a recibir la gracia: «La alegría es a menudo antagonizada por la ansiedad. No hay suficiente espacio en la sala para ambas». Desprenderse de las preocupaciones es condición para la alegría: «Disfrutar libremente de las gracias de Dios requiere disipar las preocupaciones díscolas y los temores infundados».
 
 [EAC-14, 04_midnight_oil.md]
+
+### Según Evangelization & Culture (EAC-19)
+
+Dietrich von Hildebrand («Minds: Technology & Its Dangers») y Fr. Anselm Ramelow, OP («AI as a Challenge to Human Freedom») abordan la libertad humana en el contexto de la inteligencia artificial.
+
+**Libertad como conformación a la voluntad de Dios (von Hildebrand):** El hombre tiene «una concepción errónea de la libertad. En vez de comprender la libertad como la gran capacidad de conformarse consciente y libremente con la voluntad de Dios, cree que la libertad implica una soberanía arbitraria en la que el hombre puede seguir sus caprichos». Esta actitud de soberanía arbitraria es fomentada por el progreso tecnológico, que nos lleva a creer que podemos controlar cada vez más esferas de la vida. Es «la vieja tentación de Satanás: *Eritis sicut Dei*» [EAC-19, 11_minds.md, L77-83].
+
+**La libertad y la sabiduría, no el capricho (Ramelow):** «La libertad tiene que ver con la sabiduría, no con el capricho; es racional y, por esa razón, predecible. La virtud es seguir el bien moral conocido racionalmente de manera consistente, no caprichosamente. Esta consistencia no nos priva de libertad; más bien, la incrementa». Los algoritmos que predicen nuestras elecciones no distinguen entre regularidades provenientes de inclinaciones depravadas y aquellas resultado de la sabiduría y la virtud; pero para nosotros, esa distinción es crucial [EAC-19, 15_feature_ramelow.md, L37-45].
 
 ## Relaciones doctrinales
 

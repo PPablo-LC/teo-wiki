@@ -4,7 +4,7 @@ title: "SAN CELESTINO I 422-432"
 fuente: denzinger_capitulos
 capítulo: 28
 timestamp: 2026-08-24
-description: "Resumen de 'SAN CELESTINO I 422-432' — denzinger_capitulos"
+description: "Resumen de la carta de San Celestino I sobre la penitencia a los moribundos"
 tags: ["resumen", "denzinger capitulos"]
 ---
 
@@ -12,34 +12,20 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[penitencia]] — sacramento de reconciliación
+- [[misericordia_divina]] — atributo de Dios que perdona
+- [[conversión]] — cambio de corazón hacia Dios
+- [[pecado]] — ofensa contra Dios
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `0028_SAN_CELESTINO_I_422-432.md`
+### San Celestino I (422-432)
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | SAN CELESTINO I, 422-432 |
-
+**D-111** (Carta Cuperemus quidem, a los obispos de las Iglesias Viennense y Narbonense, 428):
+«Hemos sabido que se niega la penitencia a los moribundos y no se corresponde a los deseos de quienes en la hora de su tránsito desean socorrer a su alma con este remedio. Confesamos que nos horroriza se halle nadie de tanta impiedad que desespere de la piedad de Dios, como si no pudiera socorrer a quien a El acude en cualquier tiempo... ¿Qué otra cosa es esto, decidme, sino añadir muerte al que muere y matar su alma con la crueldad de que no pueda ser absuelta? Cuando Dios, siempre muy dispuesto al socorro, invitando a penitencia, promete así: Al pecador, en cualquier día en que se convirtiera, no se le imputarán sus pecados [cf. Ez. 33, 16]... Como quiera, pues, que Dios es inspector del corazón, no ha de negarse la penitencia a quien la pida en el tiempo que fuere.»
 
 ## Secciones incluidas
 
 ## SAN CELESTINO I, 422-432
 
-[Contenido de esta sección...]
+Carta de San Celestino I que condena la negativa a conceder la [[penitencia]] a los moribundos. Afirma que la [[misericordia_divina]] está siempre disponible para quien se convierte en cualquier tiempo, y que negar el remedio de la penitencia al que la pide es «añadir muerte al que muere».

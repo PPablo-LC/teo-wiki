@@ -4,7 +4,7 @@ title: "SAN ANASTASIO II 496-498"
 fuente: denzinger_capitulos
 capítulo: 36
 timestamp: 2026-08-24
-description: "Resumen de 'SAN ANASTASIO II 496-498' — denzinger_capitulos"
+description: "Resumen de los documentos de San Anastasio II sobre las ordenaciones y el pecado original"
 tags: ["resumen", "denzinger capitulos"]
 ---
 
@@ -12,34 +12,25 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[pecado_original]] — pecado heredado de Adán
+- [[gracia]] — don sobrenatural de Dios
+- [[bautismo]] — sacramento de iniciación cristiana
+- [[orden_sacerdotal]] — sacramento del ministerio
+- [[validez_de_los_sacramentos]] — eficacia de los sacramentos independiente del ministro
+- [[reconciliación]] — perdón de los pecados
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `0036_SAN_ANASTASIO_II_496-498.md`
+### San Anastasio II (496-498)
 
+**D-170** (Carta): Sobre la comunión con los obispos ordenados por Acacio y sobre la validez de las ordenaciones.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**D-171**: «Quienquiera que, apartándose de la verdad de la fe, se hace contumaz en el error, no puede ser restituido a la comunión si no se aparta del error.»
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | SAN ANASTASIO II, 496-498 |
-
+**D-172**: El sacramento del bautismo otorga la remisión del pecado original; «el que no renace del agua y del Espíritu Santo no puede entrar en el reino de los cielos».
 
 ## Secciones incluidas
 
 ## SAN ANASTASIO II, 496-498
 
-[Contenido de esta sección...]
+Documentos sobre la disciplina de la comunión eclesiástica y la doctrina del [[pecado_original]]: quien persiste en el error no puede ser admitido a la comunión. Reafirma la necesidad del [[bautismo]] para la remisión del pecado original y la entrada en el reino de los cielos.

@@ -17,7 +17,7 @@ El superior legionario es el miembro de la Congregación de los Legionarios de C
 
 ## Desarrollo doctrinal
 
-La concepción del superior legionario hunde sus raíces en la visión fundacional de la Congregación, que concibe el gobierno como servicio y la autoridad como instrumento de formación. El superior no gobierna en el sentido de dominar sino que forma: su función principal es帮助 a cada miembro a descubrir y desarrollar su vocación, configurarse con Cristo y servir la misión con generosidad. Esta visión formativa del gobierno impone requisitos exigentes al perfil del superior, que debe ser ante todo un modelo de vida espiritual antes que un técnico de la administración.
+La concepción del superior legionario hunde sus raíces en la visión fundacional de la Congregación, que concibe el gobierno como servicio y la autoridad como instrumento de formación. El superior no gobierna en el sentido de dominar sino que forma: su función principal es ayudar a cada miembro a descubrir y desarrollar su vocación, configurarse con Cristo y servir la misión con generosidad. Esta visión formativa del gobierno impone requisitos exigentes al perfil del superior, que debe ser ante todo un modelo de vida espiritual antes que un técnico de la administración.
 
 Los documentos capitulares y constitucionales de la Congregación delinean un perfil del superior que combina cualidades humanas y sobrenaturales. La inteligencia y la voluntad son necesarias para el gobierno concreto; la vida interior y la identificación con el carisma son indispensables para la función formativa. La tensión entre estas dimensiones —actividad y contemplación, gobierno y oración, autoridad y humildad— es constitutiva del modelo legionario de superior.
 

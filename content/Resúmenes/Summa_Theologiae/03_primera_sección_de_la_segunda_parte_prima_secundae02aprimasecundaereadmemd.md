@@ -112,7 +112,7 @@ Cuando decimos que el [[hombre]] ha sido hecho a imagen de [[dios]], entendemos 
 
 - **Q.109 — Necesidad de la gracia** (10 a.): El [[hombre]] necesita la [[gracia_actual|gracia]] para conocer la verdad, obrar el bien y perseverar; sin ella no puede merecer.
 - **Q.110 — Esencia de la gracia** (4 a.): La [[gracia_santificante|gracia]] es cualidad sobrenatural del alma, participación de la naturaleza divina.
-- **Q.111 — División de la gracia** (5 a.): Se distingue [[gracia_actual|actual]] de [[gracia_santificante|sanante]]; gratificante de免费; previene y sigue.
+- **Q.111 — División de la gracia** (5 a.): Se distingue [[gracia_actual|actual]] de [[gracia_santificante|sanante]]; gratificante de gratis; previene y sigue.
 - **Q.112 — Causa de la gracia** (5 a.): Solo [[dios]] es causa eficiente de la gracia; los sacramentos son causa instrumental.
 - **Q.113 — Efectos de la gracia: justificación** (10 a.): El efecto principal es la [[justificación]] del pecador: remisión de pecados, santificación, renovación del hombre interior.
 

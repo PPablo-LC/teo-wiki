@@ -31,7 +31,7 @@ Dios juzga a Egipto en el Éxodo, en la época monárquica (Is 19,1-15; Ez 29-32
 
 ### Según Jesús de Nazaret III (Benedicto XVI)
 
-Benedicto XVI presenta la huida de la Sagrada Familia a Egipto como una recapitulación del Éxodo原始. Para el autor, la historia de Israel comienza de nuevo y de un modo nuevo con el retorno de Jesús de Egipto a la Tierra Santa:
+Benedicto XVI presenta la huida de la Sagrada Familia a Egipto como una recapitulación del Éxodo primordial. Para el autor, la historia de Israel comienza de nuevo y de un modo nuevo con el retorno de Jesús de Egipto a la Tierra Santa:
 
 > «Para el evangelista, la historia de Israel comienza otra vez y de un modo nuevo con el retorno de Jesús de Egipto a la Tierra Santa. Porque la primera llamada para volver del país de la esclavitud había ciertamente fracasado bajo muchos aspectos.» (JdN_III)
 

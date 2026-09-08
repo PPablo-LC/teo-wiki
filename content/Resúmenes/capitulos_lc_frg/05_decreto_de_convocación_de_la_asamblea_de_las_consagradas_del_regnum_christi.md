@@ -12,25 +12,32 @@ tags: ["resumen", "capitulos lc frg"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[Consagradas_del_Regnum_Christi]]
+- [[Asamblea_General_del_Regnum_Christi]]
+- [[Regnum_Christi]]
+- [[Vida_consagrada]]
 
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
 📄 **Fuente original:** `05_decreto_de_convocación_de_la_asamblea_de_las_consagradas_del.md`
 
+Carta de convocatoria de la [[Directora_General_de_las_Consagradas_del_Regnum_Christi]], Gloria Rodríguez, dirigida a las consagradas del [[Regnum_Christi]] (Prot. DG CRC 235/2018, Roma, 2 de febrero de 2018, Fiesta de la Presentación del Señor / Día de la [[Vida_consagrada]]).
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+**Participantes**: lista de delegadas por oficio (directora general, consejeras generales, ecónoma general y directoras territoriales) y por elección de cada territorio (Brasil, Chile, España, Europa Occidental y Central, Italia, México, Monterrey, Norteamérica y Venezuela), con suplentes. Dos representantes de consagradas de votos temporales participan con voz pero sin voto.
+
+**Fechas**: primera sesión del 26 de marzo al 7 de abril de 2018; segunda sesión del 19 al 24 de noviembre de 2018. La Asamblea será en español.
+
+**Fines de la Asamblea General extraordinaria** (según el n. 3 del *Reglamento de composición*):
+1. Aprobar la configuración jurídica de las Consagradas del [[Regnum_Christi]] para presentar a la Santa Sede.
+2. Revisar el *Borrador del Estatuto General del [[Regnum_Christi]]* y formular recomendaciones para la [[Asamblea_General_del_Regnum_Christi]].
+3. Definir la modalidad de ratificación del Estatuto General.
+4. Elegir delegadas para las dos sesiones de la [[Asamblea_General_del_Regnum_Christi]].
+5. Ofrecer recomendaciones a las demás ramas, si fuera oportuno.
+6. Ofrecer recomendaciones para códigos secundarios del [[Regnum_Christi]].
+7. Aprobar el Reglamento de composición de la Asamblea General ordinaria de 2020.
+
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
@@ -40,6 +47,7 @@ Instrucciones para el agente:
 
 ## Secciones incluidas
 
-# Decreto de convocación de la Asamblea de las Consagradas del Regnum Christi
-
-[Contenido de esta sección...]
+- Participantes por oficio, elección y suplentes
+- Representantes de consagradas de votos temporales
+- Fechas y lugar de las dos sesiones
+- Fines de la Asamblea General extraordinaria

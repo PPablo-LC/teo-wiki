@@ -13,7 +13,7 @@ description: "La reforma litúrgica es el conjunto de principios y normas establ
 
 ## Definición
 
-La reforma litúrgica es el conjunto de principios y normas establecidos por el Concilio Vaticano II para renovar la sagrada liturgia, conservando su sustancia divina e in可变 mientras se adaptan los elementos mudables a las necesidades pastorales del tiempo presente. Se funda en la naturaleza de la liturgia como ejercicio del sacerdocio de Jesucristo, cumbre y fuente de la vida eclesial.
+La reforma litúrgica es el conjunto de principios y normas establecidos por el Concilio Vaticano II para renovar la sagrada liturgia, conservando su sustancia divina e inmutable mientras se adaptan los elementos mudables a las necesidades pastorales del tiempo presente. Se funda en la naturaleza de la liturgia como ejercicio del sacerdocio de Jesucristo, cumbre y fuente de la vida eclesial.
 
 ## Desarrollo doctrinal
 

@@ -25,7 +25,7 @@ El Humanismo no fue un movimiento ateísta ni necesariamente anticlerical —muc
 
 **Redescubrimiento de la cultura grecolatina — HI, Archivo 32:**
 
-Los *studia humanitatis* incluían gramática, retórica, poesía, historia y filosofía moral, basadas en los autores clásicos griegos y latinos. El redescubrimiento se apoyó en la搜索 de manuscritos en monasterios y en la difusión impulsada por el humanismo bizantino tras la caída de Constantinopla (1453).
+Los *studia humanitatis* incluían gramática, retórica, poesía, historia y filosofía moral, basadas en los autores clásicos griegos y latinos. El redescubrimiento se apoyó en la búsqueda de manuscritos en monasterios y en la difusión impulsada por el humanismo bizantino tras la caída de Constantinopla (1453).
 
 **Grandes figuras — HI, Archivo 32:**
 

@@ -12,34 +12,29 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[jesucristo]] — mediador de Dios y de los hombres, obra lo divino mediante la humanidad
+- [[encarnación]] — unión natural e hipostática de la naturaleza humana al Verbo
+- [[unión_hipostática]] — permanecen las diferencias de ambas naturalezas
+- [[monotelismo]] — la cuestión de una o dos operaciones en Cristo
+- [[voluntad_de_cristo]] — Cristo no tuvo voluntad diversa o contraria a Dios
+- [[theotokos]] — Cristo nació de la Virgen madre de Dios sin contagio de la naturaleza viciada
 
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `0046_SABINIANO_604-606_SAN_BONIFACIO_IV_608-615_BONIFACIO_III_607.md`
+### SABINIANO, 604-606 SAN BONIFACIO IV, 608-615 BONIFACIO III, 607 SAN DEODATO, 615-618 BONIFACIO V, 619-625 HONORIO I, 625-638
 
+**[Carta 1 *Scripta fraternitatis vestrae* de Honorio I a Sergio, patriarca de Constantinopla, año 634]:**
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**D-251** Honorio I confiesa al Señor Jesucristo, mediador de Dios y de los hombres (1 Tim. 2,8), que obra lo divino mediante la humanidad, «naturalmente (hipostáticamente) unida al Verbo de Dios», y que obró lo humano por la carne asumida, quedando íntegra la divinidad de modo inseparable, inconfuso e inconvertible. Permanecen, de modo estupendo, las diferencias de ambas naturalezas: la carne pasible está unida a la divinidad. Cristo, concebido sin pecado por obra del Espíritu Santo, nació sin pecado de la [[theotokos|Virgen madre de Dios]], sin contagio de la naturaleza viciada; no tuvo ley diversa o contraria en sus miembros. Las Sagradas Letras muestran que el Señor Jesucristo es un solo operador de divinidad y de humanidad. Sobre si deben citarse una o dos operaciones, dice Honorio: es cuestión que no debe preocuparnos, pues las Escrituras no enseñan que obrara una sola operación o dos, sino que obró de modo multiforme.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | SABINIANO, 604-606 SAN BONIFACIO IV, 608-615 BONIFACIO III, 607 SAN DE |
+**[Carta 2 *Scripta dilectissimi filii*, al mismo Sergio]:**
+
+**D-252** Por razón de la sencillez de los hombres y para cortar los enredos de cuestiones inextricables, lo que debe mantenerse no es definir una o dos operaciones en el mediador, sino confesar que las dos naturalezas unidas en un solo Cristo por unidad natural operan con comunicación de la una a la otra: la naturaleza divina obra lo que es de Dios, y la humana lo que es de la carne, sin división, confusión ni conversión. En lugar de la «única operación» que algunos dicen, hay que confesar a un solo operador, Cristo Señor, en las dos naturalezas; y en lugar de las «dos operaciones», proclamar que las dos naturalezas obran en una sola persona, la del Unigénito de Dios Padre, inconfusa, indivisible e inconvertiblemente, lo que les es propio.
 
 
 ## Secciones incluidas
 
 ## SABINIANO, 604-606 SAN BONIFACIO IV, 608-615 BONIFACIO III, 607 SAN DEODATO, 615-618 BONIFACIO V, 619-625 HONORIO I, 625-638
 
-[Contenido de esta sección...]
+Dos cartas de Honorio I a Sergio de Constantinopla (634) sobre la [[encarnación]]: confesión del único operador divino y humano en Cristo, y rechazo a definir una o dos operaciones en el mediador, en el contexto de la polémica [[monotelismo|monotelita]] (D-251 a D-252).

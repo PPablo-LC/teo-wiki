@@ -49,7 +49,7 @@ Benedicto XVI dedica el capítulo 38 de *Jesús de Nazaret II* a la crucifixión
 
 **La Sepultura como parte del misterio pascual.** La sepultura no es un mero trámite funerario, sino que participa de la eficacia salvífica de la muerte de Cristo: «Cristo, que conoció la corrupción del sepulcro, no la experimentó en su cuerpo, porque éste no podía ver la corrupción» (Sal 15,10). El cuerpo de Cristo no experimentó corrupción alguna, conservado por el poder divino.
 
-**Piedra removida y mensaje del ángel.** La gran piedra que cierra el sepulcro no es滚动 (rodada) por los discípulos, sino por un ángel. Su remoción es signo de la victoria sobre la muerte: el sepulcro vacío es la respuesta de Dios a la muerte de Cristo. La guardia romana y el sellado de la piedra (Mt 27,62-66) atestiguan la imposibilidad del robo del cuerpo, confirmando indirectamente la realidad del sepulcro vacío.
+**Piedra removida y mensaje del ángel.** La gran piedra que cierra el sepulcro no es removida (rodada) por los discípulos, sino por un ángel. Su remoción es signo de la victoria sobre la muerte: el sepulcro vacío es la respuesta de Dios a la muerte de Cristo. La guardia romana y el sellado de la piedra (Mt 27,62-66) atestiguan la imposibilidad del robo del cuerpo, confirmando indirectamente la realidad del sepulcro vacío.
 
 ## Distinciones importantes
 

@@ -12,34 +12,26 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[constituciones_legionarios_de_cristo]] — obra cuyo aparato de siglas se abre con la sección de abreviaturas.
+- [[normas_complementarias]] — código secundario del derecho propio, citado junto a las *Constituciones* mediante siglas.
+- [[derecho_canónico]] — fuentes (CIC, documentos magisteriales) abreviadas en el aparato del texto.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
 📄 **Fuente original:** `abreviaturas.md`
 
+### Abreviaturas
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+Sección preliminar del volumen dedicada a las abreviaturas empleadas a lo largo del texto: siglas de los documentos del derecho propio (*Constituciones*, *Normas complementarias*, *Ratio institutionis*, *Ratio studiorum*), del Código de Derecho Canónico (*CIC*) y de los documentos del Magisterio y de la Santa Sede citados en las notas (*PC*, *PDV*, *VC*, *PoI*, *LG*, *SC*, etc.). El archivo fuente conserva únicamente el encabezado «Abreviaturas»; el listado detallado de siglas no se incluye en el snapshot extraído.
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H2 | Abreviaturas |
 
-
 ## Secciones incluidas
 
 # Abreviaturas
 
-[Contenido de esta sección...]
+La sección reúne las abreviaturas usadas en el volumen para referirse al derecho propio y a las fuentes citadas. En el archivo raw solo se conserva el título de la sección.

@@ -4,7 +4,7 @@ title: "Forma oriental del Símbolo Apostólico"
 fuente: denzinger_capitulos
 capítulo: 6
 timestamp: 2026-08-24
-description: "Resumen de 'Forma oriental del Símbolo Apostólico' — denzinger_capitulos"
+description: "Resumen de las fuentes de la forma oriental del Símbolo Apostólico"
 tags: ["resumen", "denzinger capitulos"]
 ---
 
@@ -12,34 +12,25 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[símbolo_apostólico]] — credo que resume la fe cristiana
+- [[trinidad]] — misterio de un solo Dios en tres Personas
+- [[concilio_de_nicea]] — primer concilio ecuménico (325)
+- [[catequesis]] — enseñanza doctrinal a los catecúmenos
+- [[regla_de_fe]] — fórmula de profesión de fe de la Iglesia primitiva
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `0006_Forma_oriental_del_Símbolo_Apostólico.md`
+Se presentan las fuentes de la forma oriental del [[símbolo_apostólico]], atestiguada por diversos autores y documentos:
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | Forma oriental del Símbolo Apostólico |
-
+- **San Justino Mártir** (+167): posible testimonio de la forma oriental
+- **Constituciones Apostólicas Coptas**: presentan la Paradosis de Hipólito, modificada en Oriente respecto del símbolo
+- **Eusebio de Cesarea** (+hacia 340): ofreció su símbolo al Concilio de Nicea en 325, que se sirvió de él para componer su fórmula
+- **San Cirilo de Jerusalén** (+386): sus catequesis (6-18), tenidas antes de 350, delatan un símbolo usado antes de 325. Su predecesor Macario parece haber usado el mismo símbolo
+- **San Epifanio** (+403): en su *Ancoratus* (hacia 374) contiene dos fórmulas, la más breve de las cuales es la más relevante
+- **Constituciones Apostólicas VII 41** (principios siglo V): el símbolo en su mayor parte es de Luciano Mártir (+312); ofrece la forma siropalestina
 
 ## Secciones incluidas
 
 ## Forma oriental del Símbolo Apostólico
 
-[Contenido de esta sección...]
+Enumeración de las fuentes que atestiguan la existencia de una forma oriental del [[símbolo_apostólico]], distinta de la occidental. Estas fuentes incluyen a los Padres Apostólicos y a los grandes Padres de la Iglesia de Oriente, desde San Justino hasta las Constituciones Apostólicas. La forma oriental se caracteriza por su conexión con las catequesis bautismales y su uso en las liturgias de Egipto, Siria y Palestina. El símbolo oriental influyó decisivamente en la composición del credo niceno.

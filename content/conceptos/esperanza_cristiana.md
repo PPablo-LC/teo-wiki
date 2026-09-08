@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Esperanza cristiana
 tags: ["teología_moral", "escatología"]
 
-timestamp: 2026-06-18
+timestamp: 2026-09-07
 description: "La esperanza cristiana es la virtud teologal por la que el cristiano espera la vida eterna y los medios para alcanzarla, confiando en la fidelidad de Dios a sus promesas."
 ---
 # Esperanza cristiana
 
 > Área: Teología moral / Escatología
-> Última actualización: 2026-06-18
+> Última actualización: 2026-09-07
 
 ## Definición
 
@@ -43,6 +43,16 @@ El cristianismo da sentido al sufrimiento. «El cristianismo, aunque no suprime 
 
 El título mismo de la obra —*Cruzando el umbral de la esperanza*— señala la esperanza como tema central. Juan Pablo II presenta la fe cristiana como una invitación a la alegría y a la esperanza. El Evangelio es fundamentalmente buena noticia de salvación. La palabra más repetida en el libro junto a «esperanza» es «alegría». El Papa concluye afirmando que vale la pena descubrir que tenemos un Padre que nos ama (UDE, Intro., Cap. III, Cap. XXXV).
 
+### Según Evangelization & Culture (EAC-19)
+
+**El hombre más capaz de crear infiernos que utopías (Worner).** Ante las promesas de una IA sin límites —ayuda a vivir para siempre o morir mañana—, Tod Worner afirma saber dos cosas: primero, «el hombre es más capaz de crear paisajes infernales que utopías» (*hellscapes* *than* *utopias*), por lo que hay que desconfiar de las interminables promesas de paz eterna y placer inextinguible; segundo, que «aunque la inteligencia artificial resultara ser "el Elegido", nuestra fe nos otorga un cielo en el que podemos reposar nuestras cansadas y preocupadas cabezas» [EAC-19, 04_midnight_oil.md, L9].
+
+**La esperanza que ofrece The Matrix (Schiffer).** En su filmografía sobre la IA, *The Matrix* —a diferencia de la mayoría de películas, en las que los robots se crean para el bien y luego se vuelven al mal— comienza cuando los robots ya han ganado. Stuart Heritage la clasificó entre las diez mejores películas sobre IA, escribiendo: «The Matrix ofrece esperanza. Podemos estar condenados a una vida sumergidos en cápsulas llenas de gelatina, pero mientras exista una figura voladora de Jesús ahí fuera, todavía podríamos ser salvados» [EAC-19, 08_movies_ai.md, L27].
+
+**El plan de Dios como misterio (Baxt).** Amy Baxt confiesa que «Dios responde a nuestras intenciones de oración más pesadas», y que «su plan es ingenioso y está más allá de nuestra comprensión del espacio y el tiempo»: «gran parte del plan de Dios para nosotros es un misterio». Hay que confiar en que «Dios permite que sucedan cosas malas para que sobrevenga el bien», y que mirando el bien se puede ver la bondad de Dios [EAC-19, 20_mission_baxt.md, L79-81].
+
+**Nuestra esperanza en Cristo, no en una placa de circuito (Vukov).** Frente a la retórica de los futuristas que presentan las nuevas tecnologías como salvíficas, «nuestra esperanza está en Cristo, no en una placa de circuito» (*Our hope is in Christ, not a motherboard*); «nuestra fe está en un Dios inmutable, no en los últimos desarrollos de Silicon Valley» [EAC-19, 16_feature_vukov.md, L23-25].
+
 ## Distinciones importantes
 
 - **Esperanza teologal** (virtud infusa) ≠ **optimismo natural** (actitud psicológica)
@@ -68,3 +78,4 @@ La muerte no es el fin: «Con su muerte, Jesús revela que al final de la vida e
 - [JPII, Redemptoris Mater §11, §41, §50]
 - Concilio Vaticano II, LG §68
 - CEC §1817-1821
+- Evangelization & Culture, Issue 19 (EAC-19): 04_midnight_oil.md, 08_movies_ai.md, 20_mission_baxt.md, 16_feature_vukov.md

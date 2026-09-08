@@ -2,13 +2,13 @@
 type: Persona
 title: Robert Barron
 tags: ["obispos", "teólogos", "comunicadores", "fundadores"]
-timestamp: 2026-09-05
+timestamp: 2026-09-07
 description: "Bishop Robert Barron (b. 1959), arzobispo católico estadounidense, fundador de Word on Fire y del Word on Fire Institute."
 ---
 # Robert Barron
 
 > Área: Obispos / Comunicadores
-> Última actualización: 2026-09-05
+> Última actualización: 2026-09-07
 
 ## Biografía
 
@@ -102,9 +102,20 @@ En el número dedicado a la conversión, Barron es el autor de la carta editoria
 - **La conversión y la Iglesia**: la [[rito_de_iniciación_cristiana_de_adultos|OCIA]] como cauce de las conversiones, y que la evangelización ha de ser con confianza y no a la defensiva; «la mejor forma de evangelizar es vivir tu propia vida como católico de forma vibrante, entusiasta y alegremente».
 - **Ecumenismo y secularismo**: la «nación de conversos» de más rápido crecimiento exige al converso una hospitalidad que sabe ver la imagen de Dios en todo hombre.
 
+### Según EAC-19 — Word on Fire Institute
+
+En el número dedicado a la inteligencia artificial, Barron es el autor de la carta editorial (01_from_the_desk.md), "From the Desk".
+
+**Carta editorial.** Tras reconocer que siempre se temió a las nuevas tecnologías (la electricidad, el cine, los teléfonos, los televisores, las computadoras), Barron sostiene que la IA es **cualitativamente distinta** por su pervasividad hasta en los rincones de la vida con internet. Sus tesis:
+
+- **La IA no puede ser persona**: «nada puramente material puede tener —ni en principio— los atributos de la persona: razón y libertad, abstracción y amor». Una máquina nunca será consciente ni persona; «la IA solo puede presentar un simulacro de personalidad» (Siri, Waze, los chatbots); «no puede trascender su programación». La expresión exacta: «AI can never be an *I*—only an *it*».
+- **La manipulación algorítmica y la idolatría**: los algoritmos manipulan nuestro pensar y nuestro desear para intereses económicos y políticos de otros; «no los usamos nosotros; ellos nos usan». El gran peligro de la IA es la idolatría —tratar algo que no es Dios como Dios—: Sal 115,5.8 («Tienen boca, y no hablan; ojos, y no ven… Semejantes a ellos serán los que los hacen»).
+- **Providencia vs. control**: Dios, el Creador, nos guía por amor (Is 26,12); la IA —producto nuestro— nos controla mediante ingeniería detallada para ganancia pragmática. Contrasta el tiempo ante la pantalla con el tiempo de oración.
+- **La IA no puede evangelizar**: es útil como herramienta de información, pero evangelizar es «hablar corazón a corazón, persona a persona», compartir la propia relación con el Señor; el evangelizador es «un hambriento que encontró pan, diciéndole a otro dónde está». Cierra con la doble tarea de educarse sobre la amenaza y sobre la promesa de la IA.
+
 ## Ver también
 
-[[evangelización]], [[nueva_evangelización]], [[evangelización_digital]], [[Word_on_Fire_Institute]], [[conversión]], [[metanoia]], [[verdadero_y_falso_yo]], [[conversión_continua]], [[cristificación]], [[deificación]], [[gracia]], [[cuerpo_místico]], [[rito_de_iniciación_cristiana_de_adultos]], [[catecumenado]]
+[[evangelización]], [[nueva_evangelización]], [[evangelización_digital]], [[word_on_fire_institute]], [[conversión]], [[metanoia]], [[verdadero_y_falso_yo]], [[conversión_continua]], [[cristificación]], [[deificación]], [[gracia]], [[cuerpo_místico]], [[rito_de_iniciación_cristiana_de_adultos]], [[catecumenado]], [[inteligencia_artificial]], [[idolatría]], [[simulacro_de_personalidad]], [[providencia_divina]]
 
 ## Referencias
 
@@ -115,5 +126,6 @@ En el número dedicado a la conversión, Barron es el autor de la carta editoria
 - EAC-13, 01_from_the_desk.md y 18_spotlight_barron.md
 - EAC-17, 02_from_the_desk.md (carta editorial sobre educación)
 - EAC-18, 01_from_the_desk.md y 18_spotlight_barron_on_conversion.md (entrevista de Tod Worner sobre la conversión)
+- EAC-19, 01_from_the_desk.md (carta editorial sobre inteligencia artificial)
 - Barron, Robert. *Eucharist* (Word on Fire Institute, 2021).
 - Word on Fire website

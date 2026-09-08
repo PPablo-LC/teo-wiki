@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Alma
 tags: ["antropología_teológica"]
 
-timestamp: 2026-06-04
+timestamp: 2026-09-07
 description: "El alma es el principio espiritual e inmortal en el hombre, creado directamente por Dios, que informa el cuerpo como su forma substancial y constituye con él una única naturaleza humana."
 ---
 # Alma
 
 > Área: Antropología teológica
-> Última actualización: 2026-06-04
+> Última actualización: 2026-09-07
 
 ## Definición
 
@@ -90,6 +90,14 @@ El **Concilio de Vienne** (1311-1312), bajo Clemente V, definió dogmáticamente
 
 El **V Concilio de Letrán** (1513), Bula *Apostolici regiminis* (Sesión VIII): Condenó y reprobó a todos los que afirman que el alma intelectiva es mortal o única en todos los hombres. Definió que el alma racional no solo es por sí y esencialmente forma del cuerpo humano (confirmando el Concilio de Vienne, D-481), sino también inmortal, multiplicable, y que se halla multiplicada y tiene que multiplicarse individualmente conforme a la muchedumbre de los cuerpos en que se infunde. Declaró como absolutamente falsa toda aserción contraria a la verdad de la fe iluminada, y prohibió dogmatizar en otro sentido, bajo pena de ser tratados como herejes o infieles (D-738). Esta definición fue una respuesta directa al averroísmo renacentista que sostenía la unicidad del intelecto agente (monopsiquismo).
 
+### Según Evangelization & Culture (EAC-19)
+
+**El error categorial explica por qué la IA no tiene alma (Petrusek).** La inteligencia artificial «no es ni nunca será un ser humano» por la razón primordial de que «no tiene alma, y nosotros sí»; es solo una máquina digital [EAC-19, 03_word_from_institute.md, L15]. El alma, por definición, no pertenece al reino del tiempo y del espacio, y nada en el tiempo y el espacio —incluido el programa generativo más inteligente concebible— puede crear o reemplazar el alma [EAC-19, 03_word_from_institute.md, L15].
+
+**El alma creada directamente por Dios (Vukov).** La tradición enseña que el alma humana «es creada directamente por Dios, no por un ingeniero del MIT». Estamos creados a la *imago Dei*, «no según una caricatura del hombre»; somos «inmortales—verdaderamente inmortales—» y nuestra existencia no se ve amenazada por un corte de luz o un servidor que falla [EAC-19, 16_feature_vukov.md, L51]. «ChatGPT, después de todo, no tiene alma», y entender la humanidad como unidad de alma y cuerpo hace imposible confundir a la IA con un ser humano [EAC-19, 16_feature_vukov.md, L47-49].
+
+**Los falsos profetas atacan el alma racional (Jendro).** Jesús advirtió que debemos «guardarnos de los falsos profetas, que vienen a nosotros disfrazados de ovejas, pero por dentro son lobos rapaces» (Mt 7,15). El discurso suave, la retórica persuasiva y las falsas aseveraciones «atacan el corazón mismo de nuestra humanidad—el alma racional—» [EAC-19, 05_lives.md, L7].
+
 ## Relaciones doctrinales
 
 [[alma_espiritual]], [[hombre]], [[cuerpo]], [[espíritu]], [[inmortalidad]], [[resurrección_de_la_carne]], [[imagen_de_dios]], [[inhabitación_trinitaria]], [[unión_alma-cuerpo]], [[entendimiento_agente]], [[conocimiento_intelectual]], [[abstracción]], [[especies_inteligibles]]
@@ -100,3 +108,4 @@ El **V Concilio de Letrán** (1513), Bula *Apostolici regiminis* (Sesión VIII):
 - TPCr, Primera Parte, Caps. I-III
 - [VocTeoBib, «Alma»]
 - SmTh Iª q.75 aa.1-7; q.76 aa.1-6; q.87 aa.1-4; q.88-89 aa.1-8; q.90 aa.1-4; q.118 aa.1-3
+- [EAC-19, 03_word_from_institute.md; 16_feature_vukov.md; 05_lives.md]

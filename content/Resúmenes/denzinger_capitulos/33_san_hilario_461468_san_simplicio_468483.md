@@ -4,7 +4,7 @@ title: "SAN HILARIO 461-468 SAN SIMPLICIO 468-483"
 fuente: denzinger_capitulos
 capítulo: 33
 timestamp: 2026-08-24
-description: "Resumen de 'SAN HILARIO 461-468 SAN SIMPLICIO 468-483' — denzinger_capitulos"
+description: "Resumen de los documentos de San Hilario y San Simplicio sobre la inmutabilidad de la doctrina"
 tags: ["resumen", "denzinger capitulos"]
 ---
 
@@ -12,34 +12,23 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[tradición_apostólica]] — doctrina transmitida por los Apóstoles
+- [[inmutabilidad_de_la_doctrina]] — la fe no cambia con el tiempo
+- [[depositum_fidei]] — depósito de la fe confiado a la Iglesia
+- [[primado_del_romano_pontífice]] — autoridad del papa como sucesor de Pedro
+- [[jerarquía_eclesiástica]] — orden de autoridad en la Iglesia
+- [[infalibilidad_pontificia]] — privilegio del papa en materia de fe y moral
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `0033_SAN_HILARIO_461-468_SAN_SIMPLICIO_468-483.md`
+### San Hilario (461-468) y San Simplicio (468-483)
 
+**D-161** (Carta de San Hilario, 465): «La fe que confesó la Sede Apostólica no cambia en el transcurso de los tiempos» — se afirma la inmutabilidad de la doctrina católica.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | SAN HILARIO, 461-468 SAN SIMPLICIO, 468-483 |
-
+**D-162**: Cualquiera que curse la frontera de la fe establecida por los Padres debe ser depuesto, pues la verdadera doctrina de la fe es una sola e inmutable.
 
 ## Secciones incluidas
 
-## SAN HILARIO, 461-468 SAN SIMPLICIO, 468-483
+## SAN HILARIO, 461-468 — SAN SIMPLICIO, 468-483
 
-[Contenido de esta sección...]
+Documentos que afirman la [[inmutabilidad_de_la_doctrina]]: la fe confesada por la Sede Apostólica no cambia con el tiempo. Quien se aparta de la frontera de la fe establecida por los Padres debe ser depuesto, pues la doctrina verdadera es una e inmutable, confiada a la Iglesia como [[depositum_fidei]].

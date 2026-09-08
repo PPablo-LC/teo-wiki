@@ -4,7 +4,7 @@ title: "SAN SILVESTRE I 314-335 PRIMER CONCILIO DE ARLES1 314 Plenar"
 fuente: denzinger_capitulos
 capítulo: 17
 timestamp: 2026-08-24
-description: "Resumen de 'SAN SILVESTRE I 314-335 PRIMER CONCILIO DE ARLES1 314 Plenar' — denzinger_capitulos"
+description: "Resumen del Concilio de Arles y el Símbolo Niceno"
 tags: ["resumen", "denzinger capitulos"]
 ---
 
@@ -12,34 +12,40 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[bautismo_de_los_herejes]] — controversia sobre la validez del bautismo administrado por herejes
+- [[donatismo]] — herejía que cuestionaba la validez de los sacramentos
+- [[símbolo_niceno]] — credo definido en el Primer Concilio de Nicea (325)
+- [[consustancial]] — igualdad de sustancia entre las Personas divinas
+- [[arrianismo]] — herejía que niega la consustancialidad del Hijo
+- [[viático]] — Eucaristía administrada al moribundo
+- [[bautismo]] — sacramento de iniciación cristiana
+- [[Novaciano]] — hereje que fundó un cisma
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `0017_SAN_SILVESTRE_I_314-335_PRIMER_CONCILIO_DE_ARLES1_314_Plenar.md`
+### San Silvestre I (314-335), Primer Concilio de Arles (314, plenario, contra los donatistas)
 
+**D-53** Can. 8: Acerca de los africanos que usan de su propia ley de rebautizar: si alguno pasare de la herejía a la Iglesia, se le pregunte el símbolo, y si vieren claramente que está bautizado en el Padre y en el Hijo y en el Espíritu Santo, impóngasele sólo la mano, a fin de que reciba el Espíritu Santo. Y si preguntado no diere razón de esta Trinidad, sea bautizado.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**D-53\*** Can. 15: Que los diáconos no ofrezcan.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | SAN SILVESTRE I, 314-335 PRIMER CONCILIO DE ARLES,(1) 314 Plenario (co |
+### Primer Concilio Ecuménico (contra los arrianos) — El Símbolo Niceno
 
+**D-54** Texto del Símbolo Niceno (versión sobre el texto griego):
+«Creemos en un solo Dios Padre omnipotente, creador de todas las cosas, de las visibles y de las invisibles; y en un solo Señor Jesucristo Hijo de Dios, nacido unigénito del Padre, es decir, de la sustancia del Padre, Dios de Dios, luz de luz, Dios verdadero de Dios verdadero, engendrado, no hecho, consustancial al Padre [...] Mas a los que afirman: Hubo un tiempo en que no fue [...] los anatematiza la Iglesia Católica.»
+
+Versión de Hilario de Poitiers: misma fórmula con la adición de la traducción latina de «homousion» como «de una sola sustancia con el Padre».
+
+### Del bautismo de los herejes y del viático de los moribundos
+
+**D-55** Can. 8: Sobre los novacianos que se acercan a la Iglesia: permanezcan en el clero si confiesen por escrito que aceptarán los decretos de la Iglesia.
+
+**D-56** Can. 19: Sobre los paulianistas: sean rebautizados de todo punto; si algunos en el tiempo pasado pertenecieron al clero, después de rebautizados, impónganseles las manos.
+
+**D-57** Can. 13: Del viático de los moribundos: que si alguno va a salir de este mundo, no se le prive del último y más necesario viático. Si pide participar de la [[Eucaristía]], el [[obispo]], después de examen, debe dársela.
 
 ## Secciones incluidas
 
-## SAN SILVESTRE I, 314-335 PRIMER CONCILIO DE ARLES,(1) 314 Plenario (contra los donatistas)
+## SAN SILVESTRE I, 314-335 — PRIMER CONCILIO DE ARLES, 314
 
-[Contenido de esta sección...]
+Dos documentos fundamentales: (1) Cánones del Concilio de Arles (314) contra los [[donatismo|donatistas]], sobre el [[bautismo_de_los_herejes]] y el [[viático]]; (2) El [[símbolo_niceno]] en sus dos versiones (griega y latina de Hilario de Poitiers), que define la [[consustancial]] del Hijo con el Padre y condena el [[arrianismo]].

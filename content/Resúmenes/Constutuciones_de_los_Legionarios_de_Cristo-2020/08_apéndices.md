@@ -12,31 +12,29 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[constituciones_legionarios_de_cristo]] — obra que cierra su texto con los apéndices.
+- [[normas_complementarias]] — código secundario del derecho propio que los apéndices acompañan.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
 📄 **Fuente original:** `apéndices.md`
 
+### Apéndices
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+Sección final del volumen de las *Constituciones* de los Legionarios de Cristo (2020), que agrupa los apéndices que completan el texto (Apéndice 1, Apéndice 2 y Apéndice 3). El archivo fuente conserva únicamente el encabezado «Apéndices»; el contenido específico de cada apéndice se encuentra en los archivos correspondientes de la fuente raw.
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H1 | Apéndices |
 
-
 ## Secciones incluidas
 
+Apéndice 1
+
+Apéndice 2
+
+Apéndice 3
+
+La sección de apéndices agrupa los apéndices del volumen; en el archivo raw solo se conserva el título general de la sección.

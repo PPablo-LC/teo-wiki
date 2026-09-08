@@ -45,7 +45,7 @@ El autor examina varios criterios de evaluación:
 
 ### The Principles of Good Design
 
-El autor presenta el enfoque alternativo del diseñador alemán Dieter Rams, quien identificó diez principios de buen diseño para productos materiales. Estos principios no pueden transferirse directamente a la liturgia, pero el método de buscar principios subyacentes comunes tiene mucho a推荐ar. Los principios funcionan como un conjunto de fines entrelazados, opuestos a un conjunto de mandamientos, y ayudan a ver si vamos en la dirección correcta. El libro se basa en la premisa de que la buena liturgia construye la [[fe]] y la mala la destruye, e intenta identificar diez principios de buena liturgia.
+El autor presenta el enfoque alternativo del diseñador alemán Dieter Rams, quien identificó diez principios de buen diseño para productos materiales. Estos principios no pueden transferirse directamente a la liturgia, pero el método de buscar principios subyacentes comunes tiene mucho a recomendar. Los principios funcionan como un conjunto de fines entrelazados, opuestos a un conjunto de mandamientos, y ayudan a ver si vamos en la dirección correcta. El libro se basa en la premisa de que la buena liturgia construye la [[fe]] y la mala la destruye, e intenta identificar diez principios de buena liturgia.
 
 ## Secciones incluidas
 

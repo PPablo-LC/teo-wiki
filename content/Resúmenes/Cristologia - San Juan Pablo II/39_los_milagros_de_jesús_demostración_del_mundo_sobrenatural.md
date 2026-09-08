@@ -32,7 +32,7 @@ tags: ["resumen", "cristologia", "catequesis", "juan_pablo_ii", "milagros", "mun
 - Milagros como signos del reino de Dios
 
 **No contraposición con naturaleza:**
-- Suspensión实验able, no anulación
+- Suspensión de las leyes de la naturaleza, no anulación
 - Potencialidad activada por intervención divina
 - No elimina causalidad comunicada en creación
 - Exalta capacidad de la naturaleza

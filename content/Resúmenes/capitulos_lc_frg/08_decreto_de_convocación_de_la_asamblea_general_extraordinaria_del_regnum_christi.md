@@ -12,25 +12,34 @@ tags: ["resumen", "capitulos lc frg"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[Asamblea_General_del_Regnum_Christi]]
+- [[Regnum_Christi]]
+- [[Federación_Regnum_Christi]]
+- [[Legionarios_de_Cristo]]
+- [[Consagradas_del_Regnum_Christi]]
+- [[Laicos_Consagrados_del_Regnum_Christi]]
 
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
 📄 **Fuente original:** `08_decreto_de_convocación_de_la_asamblea_general_extraordinaria.md`
 
+Decreto del director general del [[Regnum_Christi]], P. Eduardo Robles-Gil (Prot. DG-RC 792-2017, 2 de febrero de 2018, Fiesta de la Presentación del Señor), que convoca la [[Asamblea_General_del_Regnum_Christi]] en Roma en dos fases: del 9 al 18 de abril de 2018 y del 27 de noviembre al 5 de diciembre de 2018.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+**Composición de la Asamblea** (§ 2):
+- **Participantes por oficio**: director general, moderadores generales y primeros consejeros generales de las ramas consagradas, miembros del Comité Directivo General, administrador general, secretario general y directores territoriales.
+- **Proporción**: 33% participantes por oficio, 67% delegados elegidos; de éstos, 35% laicos y 65% consagrados.
+- Participación del P. Gianfranco Ghirlanda, S.J., como asistente pontificio.
+- Posibilidad de invitar expertos.
+- Elección de legionarios en el [[Capítulo_General_de_los_Legionarios_de_Cristo]]; de consagradas en su [[Asamblea_General_de_las_Consagradas_del_Regnum_Christi]].
+
+**Participantes por oficio** (§ 3): 29 miembros del gobierno general de las tres ramas consagradas, del Comité General y directores territoriales.
+
+**Participantes por elección** (§ 4): delegados laicos de cada territorio (Brasil, Chile, España, Europa Occidental y Central, Italia, México, Monterrey, Norteamérica y Venezuela), con sustitutos.
+
+**Disposiciones finales** (§§ 5-6): 21 legionarios serán elegidos en el [[Capítulo_General_Extraordinario_de_los_Legionarios_de_Cristo]]; 12 consagradas serán elegidas en su [[Asamblea_General_de_las_Consagradas_del_Regnum_Christi]].
+
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
@@ -40,6 +49,8 @@ Instrucciones para el agente:
 
 ## Secciones incluidas
 
-# Decreto de convocación de la Asamblea General extraordinaria del Regnum Christi y su composición
-
-[Contenido de esta sección...]
+- Fases y finalidades de la Asamblea
+- Normas de composición (proporción por oficio/elegidos, consagrados/laicos)
+- Participantes por oficio (gobierno general, Comité General, directores territoriales)
+- Participantes por elección (delegados laicos de cada territorio)
+- Disposiciones sobre elección de delegados en el Capítulo y las asambleas de rama

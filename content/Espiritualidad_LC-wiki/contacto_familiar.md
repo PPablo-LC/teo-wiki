@@ -20,7 +20,7 @@ La regulación del contacto familiar en la Legión de Cristo es uno de los aspec
 
 Jesucristo mismo estableció este principio cuando, ante su madre y sus parientes, declaró: «¿Quiénes son mi madre y mis hermanos?» (Mc 3,33-35) y afirmó que quien hace la voluntad del Padre es su hermano, su hermana y su madre. Las Constituciones de 1984 citan este pasaje para fundamentar la regulación del contacto familiar: el legionario deja temporalmente su familia carnal para unirse a la familia espiritual de la Congregación y, a través de ella, a la familia universal de la Iglesia.
 
-Sin embargo, la regulación no equivale a la supresión. Las Constituciones reconocen que los vínculos familiares son un don de Dios que puede ser fuente de gracia cuando están bien ordenados. La限制ación busca proteger al religioso de dos peligros opuestos: el apego desmesurado a la familia, que debilitaría su entrega a la misión; y el desapego absoluto, que empobrecería su vida afectiva y su capacidad de relación.
+Sin embargo, la regulación no equivale a la supresión. Las Constituciones reconocen que los vínculos familiares son un don de Dios que puede ser fuente de gracia cuando están bien ordenados. La limitación busca proteger al religioso de dos peligros opuestos: el apego desmesurado a la familia, que debilitaría su entrega a la misión; y el desapego absoluto, que empobrecería su vida afectiva y su capacidad de relación.
 
 ## Perspectivas por fuente
 

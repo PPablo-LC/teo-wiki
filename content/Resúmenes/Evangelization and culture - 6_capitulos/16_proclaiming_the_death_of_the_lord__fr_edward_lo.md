@@ -27,7 +27,7 @@ En 1 Cor 11:26, San Pablo: «Cada vez que comen este pan y beben de este cáliz,
 
 ### El pan y el cáliz
 
-«Cada vez que un sacerdote o un obispo levanta un cáliz vino, puede estar seguro de que el sufrimiento de Cristo se convierte en gloria para Dios». La制限 de Jesús en Getsemaní: «El sudor de Jesús se convierte en santo cáliz, en el cáliz de nuestra salvación».
+«Cada vez que un sacerdote o un obispo levanta un cáliz vino, puede estar seguro de que el sufrimiento de Cristo se convierte en gloria para Dios». La limitación de Jesús en Getsemaní: «El sudor de Jesús se convierte en santo cáliz, en el cáliz de nuestra salvación».
 
 ### La proclamación
 

@@ -102,7 +102,7 @@ Van Lommel se sitúa en la tradición de una "ciencia inclusiva" (siguiendo a Ab
 
 **Convergencias:** La crítica al reduccionismo materialista y la apertura a realidades trascendentes son consonantes con la tradición católica de armonía entre fe y razón (CEC §36-38). La invitación a "abandonar dogmas" y mantener la mente abierta resuena con el principio de que "la fe y la razón son las dos alas con las que el hombre se eleva hacia la contemplación de la verdad" (Fides et Ratio).
 
-**Tensiones:** Van Lommel opera desde un empirismo que, aunque más abierto que el materialismo, sigue siendo una epistemología limitada. No reconoce la revelación divina como fuente de conocimiento sobre la muerte y la eternidad. Su apelación a la "ciencia inclusiva" no incluye la teología como disciplina válida. La Iglesia enseña que la fe y la razón son complementarias, no que la razón科学 empírica deba "abrirse" a lo trascendente por sus propios medios. Hay una diferencia entre decir "la ciencia no puede explicarlo todo" (verdadero) y "la ciencia puede llegar a conclusiones teológicas por sí sola" (cuestionable).
+**Tensiones:** Van Lommel opera desde un empirismo que, aunque más abierto que el materialismo, sigue siendo una epistemología limitada. No reconoce la revelación divina como fuente de conocimiento sobre la muerte y la eternidad. Su apelación a la "ciencia inclusiva" no incluye la teología como disciplina válida. La Iglesia enseña que la fe y la razón son complementarias, no que la razón científica empírica deba "abrirse" a lo trascendente por sus propios medios. Hay una diferencia entre decir "la ciencia no puede explicarlo todo" (verdadero) y "la ciencia puede llegar a conclusiones teológicas por sí sola" (cuestionable).
 
 ## Valoración teológica
 

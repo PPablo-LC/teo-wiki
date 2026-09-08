@@ -12,31 +12,24 @@ tags: ["resumen", "capitulos lc frg"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[Asamblea_General_del_Regnum_Christi]]
+- [[Regnum_Christi]]
 
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
 📄 **Fuente original:** `18_comunicaciones_de_la_asamblea_general_extraordinaria_del_reg.md`
 
+Sección de encabezado que agrupa las comunicaciones oficiales emanadas de las asambleas extraordinarias del [[Regnum_Christi]] (Consagradas, Laicos Consagrados y Asamblea General) de 2018. El texto original es un título de sección sin contenido propio; las comunicaciones específicas figuran en los capítulos siguientes del volumen.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
-| 1 | H1 | Comunicaciones de la Asamblea General extraordinaria del Regnum Christ |
+| 1 | H1 | Comunicaciones de la Asamblea General extraordinaria del Regnum Christi |
 
 
 ## Secciones incluidas
 
+- Título de sección introductoria (sin contenido adicional)

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Liturgia
 tags: ["dogmática", "sacramental"]
 
-timestamp: 2026-06-28
+timestamp: 2026-09-07
 description: "La liturgia es la obra de la Santísima Trinidad en favor de la Iglesia: el Padre es reconocido y adorado como la fuente de todas las bendiciones."
 ---
 # Liturgia
 
 > Área: Dogmática / Sacramental
-> Última actualización: 2026-06-28
+> Última actualización: 2026-09-07
 
 ## Definición
 
@@ -77,6 +77,12 @@ La *Institutio Generalis Missalis Romani* (edición típica revisada del año 20
 
 **La inseparabilidad de liturgia y vida de oración.** Benedicto XVI, identificado como *homo liturgicus* — nacido y bautizado en la Vigilia Pascual, murió en la vigilia de María Madre de Dios —, encarna la inseparabilidad de teología, liturgia y espiritualidad [EAC-16, 07_spotlight_reader.md]. La lectio divina y la espiritualidad benedictina son el marco de referencia para su comprensión de la liturgia como revelación de Dios.
 
+### Según Evangelization & Culture (EAC-19)
+
+**La Liturgia como antítesis del activismo tecnocrático y del pasivismo fatalista (von Hildebrand).** Frente al peligro de la tecnocracia espiritual —extender el espíritu de la tecnología a todos los campos de la existencia humana—, von Hildebrand advierte que sería un malentendido reemplazar la actitud hiperactiva por una meramente pasiva: «no es un fatalismo pasivo lo que queremos defender en lugar de una actividad tecnocrática»; sería «echar al demonio con Beelzebub o caer de Escila en Caribdis». La actitud adecuada la encuentra en la Liturgia de la Santa Iglesia: «encontramos la actitud que es la verdadera antítesis tanto del activismo tecnocrático como del pasivismo fatalista». En *Liturgy and Personality* mostró cómo la Liturgia encarna todas las actitudes básicas que deben vivir en nuestra alma, pero subrayando que la Liturgia, en cuanto tal, «no es un medio para alcanzar estas actitudes, sino una alabanza debida a Dios»; dando esta respuesta justa a Dios y rezando con la Santa Iglesia, somos introducidos en la actitud justa y formados por el espíritu de la Liturgia [EAC-19, 11_minds.md, L133-139]. «El espíritu activado en la Santa Liturgia —el espíritu de reverencia, de vigilia, de respuesta al valor— es el antídoto real contra todo peligro de tecnocracia»; en la Liturgia no hay «sobreénfasis de un aspecto ni unilateralidad alguna, sino la plenitud que todo lo abarca», gran baluarte contra la mecanización y la negación de nuestra condición de criatura [EAC-19, 11_minds.md, L139]. Además, omitiendo la *statio* benedictina —dejar tiempo al alma para ir a sus profundidades— se frustra toda experiencia profunda, y von Hildebrand insiste en que la contemplación y la oración mental son armas fundamentales contra la despersonalización de la tecnocracia, pues la oración mental «es más importante que nunca», para volver a la receptividad «que es el gesto más profundo de la persona creada» [EAC-19, 11_minds.md, L85, L115].
+
+**La liturgia y las prácticas de oración en la vida ordinaria (Baxt).** Amy Baxt, tras su retiro silencioso, testimonia sus esfuerzos por labrar una vida de oración: «intento día a día hablar con Dios a través de mi Rosario, meditaciones escritas, la Liturgia de las Horas y mi Hora Santa». No practicó todas las formas de culto a Dios de una vez: «llegaron poco a poco. Algo es mejor que nada, y así se construye el fundamento» [EAC-19, 20_mission_baxt.md, L67].
+
 ## Ver también
 
 [[sacramentos]], [[eucaristía]], [[oración_litúrgica]], [[iglesia_cuerpo_místico]], [[sacramentales]]
@@ -88,3 +94,4 @@ La *Institutio Generalis Missalis Romani* (edición típica revisada del año 20
 - [CEC §1667-1690]
 - [SC, Sacrosanctum Concilium]
 - [EAC-16, 04_lives.md, 07_spotlight_reader.md, 08_minds.md]
+- Evangelization & Culture, Issue 19 (EAC-19): 11_minds.md, 20_mission_baxt.md

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Dignidad humana
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-08-22
+timestamp: 2026-09-07
 description: "La dignidad humana es el valor intrínseco e inalienable de la persona humana por el hecho de haber sido creada a imagen y semejanza de Dios."
 ---
 # Dignidad humana
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-08-22
+> Última actualización: 2026-09-07
 
 ## Definición
 
@@ -105,6 +105,16 @@ Juan Pablo II expone que la dignidad humana y los derechos están inscritos por 
 
 JPII desarrolla la relación entre la Encarnación y la dignidad humana en las catequesis 41-42. Cristo, «semejante a nosotros en todo excepto en el pecado», al compartir nuestra condición humana manifiesta la dignidad esencial de cada hombre (CrSJP 41). La Encarnación es una «revalorización» inefable del hombre y de la humanidad: Jesús comparte con cada hijo e hija del género humano la misma condición existencial, revelando así la dignidad esencial de todos (CrSJP 41). Citando GS 22, afirma que «Cristo, el nuevo Adán, manifiesta plenamente el hombre al propio hombre y le descubre la sublimidad de su vocación» (CrSJP 42). Puesto que el pecado no enriquece sino que disminuye al hombre, Cristo —que no conoció pecado— revela al hombre en su plenitud. La salvación del hombre caído es la respuesta fundamental al porqué de la Encarnación (CrSJP 42).
 
+### Según Evangelization & Culture (EAC-19)
+
+**La dignidad no depende del CI (Vukov).** Contra la suposición de que la inteligencia es lo más importante de nuestra humanidad —de modo que al replicar la inteligencia en silicio nos replicaríamos a nosotros mismos—, la doctrina moral católica rechaza inequívocamente que «el CI de un individuo confiera valor moral: mientras la especie humana pueda caracterizarse por la racionalidad, la inteligencia de un individuo concreto no es lo que confiere la dignidad. En cambio, un ser humano tiene dignidad simplemente por el hecho de ser humano, y por haber sido creado por Dios» [EAC-19, 16_feature_vukov.md, L53-55]. Por eso la enseñanza moral católica defiende «la dignidad inalienable de los no nacidos y de quienes están al final de la vida, aunque estos individuos carezcan de muchas formas de inteligencia» [EAC-19, 16_feature_vukov.md, L53-55].
+
+**El valor del trabajo y la dignidad única en el plan de Dios (Vlok).** El libro *Hamlet's Mirror* —«un libro decididamente católico»— advierte de la «deterioración y marginación del valor del trabajo» provocadas por la IA, que afectan «a los cimientos de nuestra humanidad» [EAC-19, 06_stacks.md, L25-27]. Frente a los conflictos de la era de la IA, la obra usa «nuestra comprensión de la dignidad única que poseemos y el papel especial que desempeñamos en el plan cósmico de Dios como marco para la gestión moderna de conflictos» [EAC-19, 06_stacks.md, L31].
+
+**Han Solo vs. C3PO: el juicio humano (Worner).** C3PO, el droid de *Star Wars*, «domina seis millones de lenguas», entiende usos y protocolos intergalácticos, tiene dominio de los datos y los cálculos estadísticos y sabe pilotar naves; sin embargo, «no estoy seguro de que haga juicios. Más bien parece que hace cálculos que conducen a una respuesta decisiva». Seres humanos como Han Solo son «desordenados. Seres de carne y hueso con emociones y puntos ciegos, creencias y prejuicios», que hacen juicios informados no solo por datos sino «por la experiencia y el instinto, el sentido común y la intuición» [EAC-19, 04_midnight_oil.md, L49-53]. La raíz profundamente humana del juicio hace confiar en el impulso genuinamente humano más que en uno artificialmente humano: «para las decisiones más consecuentes de la vida, prefiero confiar en mi esposa y mi familia, mi sacerdote y mi médico» [EAC-19, 04_midnight_oil.md, L55-57].
+
+**El robo de la plena humanidad de los artistas (Stewart).** La escritora Haley Stewart advierte que la apropiación por la IA de la propiedad intelectual humana para entrenar algoritmos y la sustitución del trabajo creativo por atajos generados por IA amenazan «el robo de la plena humanidad de los artistas» cuando el «trabajo creativo de adoración» queda disminuido por atajos de la IA [EAC-19, 17_feature_stewart.md, L45-47]. El trabajo que la creación artística exige es «difícil, santificante, motivado por el amor—trabajo para el que los seres humanos están diseñados»; el robo de esa labor produce «no solo arte sin alma sino el robo de nuestra humanidad» [EAC-19, 17_feature_stewart.md, L43].
+
 ## Distinciones importantes
 
 - **Dignidad natural**: la que posee todo ser humano por haber sido creado a imagen de Dios
@@ -144,3 +154,4 @@ Bobby Angel cita a Viktor Frankl (*Man's Search for Meaning*) al tratar la comed
 - Concilio Vaticano II, Gaudium et Spes 12-22
 - [EAC-8, Issue 8 «Humor», archivo 15]
 - [RH §8, §10, §13-17]
+- [EAC-19, 04_midnight_oil.md; 06_stacks.md; 16_feature_vukov.md; 17_feature_stewart.md]

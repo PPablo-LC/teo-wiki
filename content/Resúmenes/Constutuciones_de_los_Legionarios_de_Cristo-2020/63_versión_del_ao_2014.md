@@ -12,34 +12,18 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[carisma]] — revisión del texto constitucional propuesto por la Comisión Central
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
 📄 **Fuente original:** `versión_del_año_2014.md`
 
+### Versión del año 2014
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+El Capítulo General del 2014 revisó el texto propuesto por la Comisión Central, hizo las modificaciones que consideró necesarias y lo presentó a la Santa Sede para su aprobación. Esta versión de las *Constituciones* fue aprobada el 16 de octubre de 2014, con algunas excepciones relativas a la mención del Movimiento Regnum Christi, en espera de que fuese definida su naturaleza canónica y, más específicamente, su relación con la Legión de Cristo.
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H3 | Versión del año 2014 |
-
-
-## Secciones incluidas
-
-## Versión del año 2014
-
-[Contenido de esta sección...]

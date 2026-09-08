@@ -2,14 +2,14 @@
 type: Persona
 title: "Tod Worner"
 tags: ["editores", "autores_word_on_fire", "laicado"]
-timestamp: 2026-09-05
+timestamp: 2026-09-07
 description: "Tod Worner, médico internista, editor gerente de Evangelization & Culture y host del podcast de la revista."
 ---
 
 # Tod Worner
 
 > Área: Personas / Editores
-> Última actualización: 2026-09-05
+> Última actualización: 2026-09-07
 
 ## Contexto histórico
 
@@ -31,10 +31,23 @@ Worner es el editor del número dedicado a la conversión y autor de dos piezas 
 
 En la entrevista «Spotlight: Bishop Barron on Conversion» (18_spotlight_barron_on_conversion.md), Worner conversa con el obispo Barron sobre la conversión y la Iglesia católica, citando a Bonhoeffer («Cuando Cristo llama a un hombre, le pide venir y morir»), el *backsliding* de Pedro (Mt 16), el *fomes peccati* de Trento, la [[conversión_continua]] de Merton («No somos convertidos solo una vez en nuestras vidas, sino muchas veces») y la fórmula evangelizadora final de Barron: «Vive tu propia vida católica vibrante, entusiasta y alegremente».
 
+### Según EAC-19 — Word on Fire Institute
+
+**Tod Worner** («Midnight Oil: Musings Since We Last Met», 04_midnight_oil.md) abre el número dedicado a la inteligencia artificial con una reflexión sobre el alma humana irreductible a la computación:
+
+- **Las promesas y los terrores de la IA**: promete explosión de información y perfección de procesos, pero amenaza con el avance de armamento, desequilibrios de poder, desempleo masivo y nuevas formas de totalitarismo. Advierte: «el hombre es más capaz de crear escenarios infernales que utopías».
+- **La comparación aspiracional con los ordenadores**: durante años ha habido una tendencia a comparar al ser humano con las computadoras como un elogio —memoria prodigiosa, eficiencia ininterrumpida, precisión inquebrantable—. Pero el amor, «la cosa más importante del mundo y la razón de nuestra existencia», deja mudo a un ordenador: citando la canción «Frankie Fell in Love» de Bruce Springsteen (álbum *High Hopes*, 2014), «Shakespeare dijo: "Todo comienza con un beso". Einstein sigue calculando cifras en su servilleta. Shakespeare dijo: "Es simplemente uno más uno igual a tres. Ah, por eso es poesía"». No hay datos en el enamorarse: «El amor se recibe y se ofrece, no se fabrica y se distribuye. Es un don de Dios, puro y simple».
+- **Han Solo vs. C3PO**: los droides (encarnación de la IA en Star Wars) hacen cálculos que llevan a una respuesta decisiva, pero no juicios. Han Solo, frente a la probabilidad de C3PO de «3.720 a 1» en un campo de asteroides, responde: «¡Nunca me digas las probabilidades!». C3PO está programado con datos y algoritmos pero carece de emoción verdadera; Han Solo se guía por experiencia, instinto, sentido común e intuición. «Para las matemáticas, confío en mi calculadora y mi computadora. Pero para las decisiones más trascendentales de la vida, prefiero a mi esposa y mi familia, mi sacerdote y mi médico. Cuando llega el momento de la verdad, me quedo con Han Solo antes que con C3PO cualquier día de la semana».
+- **La poesía como testigo de lo humano**: Frost («The woods are lovely, dark and deep, / But I have promises to keep / And miles to go before I sleep»), Hopkins (*Spring and Fall*: «It is the blight man was born for, / It is Margaret you mourn for»), Donne («Each man's death diminishes me, / For I am involved in mankind») y Auden (*Funeral Blues*: «The stars are not wanted now; put out every one») testimonian un corazón que anheló, sufrió y meditó. La IA puede generar un «masterpiece», pero su «arte» no ha brotado de la pluma de un poeta: «La IA no puede enseñarme a sentir. No puede discernir el origen de mi anhelo, explicar mi desesperación o lidiar con la muerte. En esencia, la IA no puede explicar mi esencia. Solo mi Creador, o mis hermanos y hermanas en la carne, pueden hacerlo».
+- **Conclusión**: «la inteligencia artificial siempre será inteligente. Pero siempre será artificial». Hay que abrazar lo bueno de la tecnología —como las abejas de San Basilio, que toman solo el néctar que necesitan— y saborear la eterna «freshness más profunda de las cosas» (Hopkins) y las bendiciones de Dios, tanto visibles como invisibles.
+
+En la entrevista «Spotlight: Broad and Deep: Why We Need the New Ressourcement» (10_spotlight_ressourcement.md), Worner conversa como entrevistador con el Dr. [[jason_paone]], editor de Word on Fire Academic, sobre la nueva revista académica *The New Ressourcement*: su título como homenaje al movimiento *ressourcement* del siglo XX (renovación por la vuelta a la Escritura y a los Padres y Doctores de la Iglesia), la confianza en que «los cristianos somos un pueblo del libro» y el objetivo de devolver la cultura intelectual católica al centro de la vida académica occidental.
+
 ## Ver también
 
-[[robert_barron]], [[antonin_scalia]], [[conversión]], [[conversión_continua]], [[encarnación]], [[rito_de_iniciación_cristiana_de_adultos]], [[eucaristía]], [[rosario]]
+[[robert_barron]], [[antonin_scalia]], [[conversión]], [[conversión_continua]], [[encarnación]], [[rito_de_iniciación_cristiana_de_adultos]], [[eucaristía]], [[rosario]], [[inteligencia_artificial]], [[jason_paone]], [[ressourcement]], [[unidad_alma_cuerpo]]
 
 ## Referencias
 
 - EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (Tod Worner, 04_midnight_oil.md y 18_spotlight_barron_on_conversion.md).
+- EAC-19, *Evangelization & Culture, Issue 19 — Artificial Intelligence* (Spring 2024), Word on Fire Institute (Tod Worner, 04_midnight_oil.md y 10_spotlight_ressourcement.md).

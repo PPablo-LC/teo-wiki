@@ -12,34 +12,26 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[constituciones_legionarios_de_cristo]] — historia redaccional que presenta esta sección introductoria.
+- [[carisma_legionario]] — identidad espiritual de la Congregación cuya génesis contextualiza la introducción.
+- [[vida_consagrada]] — marco eclesial en el que se sitúa la fundación y desarrollo de la Legión de Cristo.
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
 📄 **Fuente original:** `breve_introducción_histórica.md`
 
+### Breve introducción histórica
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+Sección introductoria del volumen que sitúa históricamente las *Constituciones de los Legionarios de Cristo* dentro de la historia de la Congregación y de su derecho propio. El archivo fuente conserva únicamente el encabezado «Breve introducción histórica»; el relato histórico detallado (fundación, revisiones sucesivas de las Constituciones y de las Normas complementarias) no se encuentra extraído en el snapshot raw actual.
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H2 | Breve introducción histórica |
 
-
 ## Secciones incluidas
 
 # Breve introducción histórica
 
-[Contenido de esta sección...]
+La sección presenta el contexto histórico de las *Constituciones* de la Congregación. En el archivo raw solo se conserva el título de la sección.

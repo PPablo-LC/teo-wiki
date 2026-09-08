@@ -28,7 +28,7 @@ Dennard Koop y François-Xavier Legagneur: siempre es «un problema espiritual»
 
 ### La literatura como profecía
 
-C.S. Lewis, Tolkien, Longfellow, W.H. Auden, Dorothy L. Sayers: la verdadera batalla «es la existencia misma de toda la civilización y la cultura». El的小de Edmund Pevensie (Narnia): veintitrés centavos por traicionar a sus hermanos. «La obsesión de nuestra civilización moderna con el placer sexual, el éxito, el poder y la fama... son la fuerza impulsora del mal».
+C.S. Lewis, Tolkien, Longfellow, W.H. Auden, Dorothy L. Sayers: la verdadera batalla «es la existencia misma de toda la civilización y la cultura». El precio de Edmund Pevensie (Narnia): veintitrés centavos por traicionar a sus hermanos. «La obsesión de nuestra civilización moderna con el placer sexual, el éxito, el poder y la fama... son la fuerza impulsora del mal».
 
 ### La civilización del espectáculo
 

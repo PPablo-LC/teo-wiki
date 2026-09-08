@@ -12,34 +12,22 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[consejos_evangélicos]] — normas de vida consagrada que rigen la etapa vocacional
+- [[candidatura]] — etapa previa al [[noviciado]] para preparación vocacional
+- [[formación]] — proceso integral de preparación de los candidatos
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
 📄 **Fuente original:** `normas_complementarias_al_capítulo_6_etapas_previas.md`
 
+### Normas complementarias al Capítulo 6. Etapas previas
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+La única norma complementaria al Capítulo 6 establece que los estudios de los centros vocacionales deben organizarse de tal manera que los alumnos obtengan los títulos civiles y grados académicos preuniversitarios correspondientes (CLC 61, norma 34).
+
+Esta disposición busca asegurar que la [[formación]] vocacional incluya una preparación académica sólida, de modo que los candidatos puedan acceder a estudios universitarios mientras avanzan en su proceso de discernimiento vocacional previo al [[noviciado]].
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
 |-------|-------|---------|
 | 1 | H3 | Normas complementarias al Capítulo 6. Etapas previas |
-
-
-## Secciones incluidas
-
-## Normas complementarias al Capítulo 6. Etapas previas
-
-[Contenido de esta sección...]

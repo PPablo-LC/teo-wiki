@@ -4,7 +4,7 @@ title: "Errores de Dionisio Foullechat (sobre la perfección y la pobreza) (2) [
 fuente: denzinger_capitulos
 capítulo: 73
 timestamp: 2026-08-24
-description: "Resumen de 'Errores de Dionisio Foullechat (sobre la perfección y la pobreza) (2) [Condenada en la Constitución Ex supremas clementiae dono, de 28 de diciembre de 1368]' — denzinger_capit..."
+description: "Resumen de 'Errores de Dionisio Foullechat (sobre la perfección y la pobreza) (2) [Condenada en la Constitución Ex supremas clementiae dono, de 28 de diciembre de 1368]' — denzinger_capitulos"
 tags: ["resumen", "denzinger capitulos"]
 ---
 
@@ -12,39 +12,29 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[pobreza_evangélica]] — condena de las proposiciones extremistas sobre la abdicación de todo dominio
+- [[perfección_cristiana]] — la abdicación universal de la voluntad no hace el estado perfectísimo
+- [[ley_del_amor]] — la ley del amor no quita toda propiedad y dominio
+- [[pobreza_de_cristo]] — Cristo no abdicó su posesión y derecho sobre lo temporal según la Nueva Ley
 
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `0074_INOCENCIO_VI_1352-1362_URBANO_V_1352-1370.md`
+### INOCENCIO VI, 1352-1362 URBANO V, 1352-1370
 
+## Errores de Dionisio Foullechat (sobre la perfección y la pobreza) (2) [Condenada en la Constitución Ex supremas clementiae dono, de 28 de diciembre de 1368]
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+**D-575** (1) Proposición condenada como falsa, errónea y herética: «Esta bendita, es más, sobrebendita y dulcísima ley, es decir, la ley del amor, quita toda propiedad y dominio».
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | INOCENCIO VI, 1352-1362 URBANO V, 1352-1370 |
-| 3 | H2 | Errores de Dionisio Foullechat (sobre la perfección y la pobreza) (2)  |
+**D-576** (2) Proposición condenada: «La actual abdicación de la voluntad cordial y de la potestad temporal de dominio o autoridad muestra y hace el estado perfectísimo entendida de modo universal».
+
+**D-577** (3) Proposición condenada: «Que Cristo no abdicó esta posesión y derecho sobre lo temporal, no se tiene de la Nueva Ley, antes bien lo contrario».
 
 
 ## Secciones incluidas
 
 ## INOCENCIO VI, 1352-1362 URBANO V, 1352-1370
 
-[Contenido de esta sección...]
+## Errores de Dionisio Foullechat (sobre la perfección y la pobreza) (2) [Condenada en la Constitución Ex supremas clementiae dono, de 28 de diciembre de 1368]
 
-# Errores de Dionisio Foullechat (sobre la perfección y la pobreza) (2) [Condenada en la Constitución Ex supremas clementiae dono, de 28 de diciembre de 1368]
-
-[Contenido de esta sección...]
+Tres proposiciones condenadas sobre la [[ley_del_amor]], la abdicación universal del dominio y la [[pobreza_de_cristo]] (D-575 a D-577).

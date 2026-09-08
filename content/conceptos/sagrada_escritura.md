@@ -72,7 +72,7 @@ La sagrada Escritura es inspirada por Dios y ha sido confiada a la Iglesia, en l
 
 **Hare** propone que Scripture provides the context of intelligibility: sin la Escritura, los hechos de la historia de la salvación —la Encarnación, la Pasión, la Resurrección— carecerían de marco interpretativo. La Biblia no es solo fuente de datos sino el horizonte mismo que hace inteligible el plan de Dios.
 
-**Múltiples autores** coinciden en how Scripture transforms: la lectura asidua de la Palabra de Dios no es meramente informativa sino transformativa. La Escritura cambia al que la lee,因为 la Palabra de Dios es viva y eficaz (Heb 4,12), y penetrar en ella es dejarse penetrar por Dios mismo, que habita en su Palabra.
+**Múltiples autores** coinciden en how Scripture transforms: la lectura asidua de la Palabra de Dios no es meramente informativa sino transformativa. La Escritura cambia al que la lee, porque la Palabra de Dios es viva y eficaz (Heb 4,12), y penetrar en ella es dejarse penetrar por Dios mismo, que habita en su Palabra.
 
 ## Distinciones importantes
 

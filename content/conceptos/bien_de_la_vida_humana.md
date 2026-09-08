@@ -34,7 +34,7 @@ El autor presenta el bien de la vida humana como:
 - Conjunto de bienes que perfeccionan al hombre en todas sus dimensiones.
 - Se ordena al bien supremo que es Dios.
 - Incluye bienes corpóreos, espirituales, sociales y trascendentales.
-- La vida moral busca实现 este bien integral.
+- La vida moral busca realizar este bien integral.
 
 ## Distinciones importantes
 

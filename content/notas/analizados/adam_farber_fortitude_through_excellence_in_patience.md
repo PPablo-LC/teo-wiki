@@ -34,7 +34,7 @@ Conferencia del mismo Adam Farber en la Catholic Men's Conference 2022, centrada
 - **El experimento del malvavisco de Stanford (1972) como metáfora teologal**: la gratificación diferida, propia de la investigación de Walter Mischel, se presenta como imagen de la esperanza cristiana (renunciar a la recompensa inmediata por la eterna). Aportación pedagógica que no aparece en la base doctrinal y que podría enriquecer [[esperanza]] o [[perseverancia]].
 - **«Green Ponds» como antídoto contra la arrogancia**: la regla del comandante de escuadrón Navy —siempre «verde» (aprendiendo) y «estanque» (avanzando)— propone una disciplina de humildad intelectual operativa. Aporta un matiz a [[docilidad]] y a la distinción entre humildad y falsa modestia.
 - **Paciencia como «confianza activa», no pasividad**: Farber distingue entre no-microgestionar un proyecto o dejar que los hijos cometan sus errores, y la mera inacción. Esta precisión operativa podría añadirse a [[paciencia#distinciones-importantes]] (vs. resignación pasiva).
-- **Historia personal del piercing en la oreja**: ejemplo de的父母 que eligen la paciencia sobre el castigo, con resultado positivo. Sugiere que la paciencia de los padres es una forma de [[educación_de_los_hijos]] teologal.
+- **Historia personal del piercing en la oreja**: ejemplo de padres que eligen la paciencia sobre el castigo, con resultado positivo. Sugiere que la paciencia de los padres es una forma de [[educación_de_los_hijos]] teologal.
 - **Impaciencia como falta de fe**: la formulación «comerse el malvavisco ahora es no confiar en que el segundo es mejor» introduce una conexión explícita entre [[fe]], [[esperanza]] y paciencia, ausente como tal en la base doctrinal.
 
 ### Tensiones o divergencias

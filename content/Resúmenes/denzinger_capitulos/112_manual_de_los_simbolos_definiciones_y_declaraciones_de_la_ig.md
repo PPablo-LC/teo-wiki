@@ -12,34 +12,16 @@ tags: ["resumen", "denzinger capitulos"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[magisterio_de_la_iglesia]] — obra que recoge los símbolos, definiciones y declaraciones de la Iglesia en materia de fe y costumbres
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `0114_MANUAL_DE_LOS_SIMBOLOS_DEFINICIONES_Y_DECLARACIONES_DE_LA_IG.md`
+### MANUAL DE LOS SIMBOLOS, DEFINICIONES Y DECLARACIONES DE LA IGLESIA EN MATERIA DE FE Y COSTUMBRES
 
-
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
-
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H3 | MANUAL DE LOS SIMBOLOS, DEFINICIONES Y DECLARACIONES DE LA IGLESIA EN  |
-
+Portada editorial de la edición española de la obra (el Enchiridion de Denzinger): «Manual de los Símbolos, Definiciones y Declaraciones de la Iglesia en materia de fe y costumbres». «Versión directa de los textos originales», por Daniel Ruiz Bueno (Catedrático de Lengua Griega). Barcelona, Editorial Herder, 1963. Este capítulo no contiene propiamente doctrina: solo los datos de portada y edición de la obra fuente.
 
 ## Secciones incluidas
 
 ## MANUAL DE LOS SIMBOLOS, DEFINICIONES Y DECLARACIONES DE LA IGLESIA EN MATERIA DE FE Y COSTUMBRES
 
-[Contenido de esta sección...]
+Datos editoriales de la versión española de la obra (Ruiz Bueno, Herder, Barcelona, 1963); sin contenido doctrinal.

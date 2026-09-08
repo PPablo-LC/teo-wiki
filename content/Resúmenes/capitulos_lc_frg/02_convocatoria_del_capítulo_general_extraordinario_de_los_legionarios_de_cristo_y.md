@@ -12,25 +12,18 @@ tags: ["resumen", "capitulos lc frg"]
 
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
+- [[Capítulo_General_Extraordinario_de_los_Legionarios_de_Cristo]]
+- [[Asamblea_General_del_Regnum_Christi]]
+- [[Regnum_Christi]]
 
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
 📄 **Fuente original:** `02_convocatoria_del_capítulo_general_extraordinario_de_los_legi.md`
 
+Sección de encabezado que sirve como entrada maestra de la convocatoria conjunta del [[Capítulo_General_Extraordinario_de_los_Legionarios_de_Cristo]] y de las asambleas extraordinarias de las Consagradas y de los Laicos Consagrados del [[Regnum_Christi]], todos ellos celebrados en 2018. El texto es un título de sección sin contenido adicional, remitiendo a los decretos de convocación que figuran en los capítulos siguientes del volumen.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
+
 ## Mapa del archivo fuente
 
 | Línea | Nivel | Sección |
@@ -40,3 +33,4 @@ Instrucciones para el agente:
 
 ## Secciones incluidas
 
+- Título de sección de la convocatoria conjunta (sin contenido adicional)
