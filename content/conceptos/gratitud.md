@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Gratitud
 tags: ["moral"]
 
-timestamp: 2026-09-07
-description: "La gratitud es la virtud moral que inclina a reconocer y corresponder los beneficios recibidos, especialmente de Dios."
+timestamp: 2026-09-08
+description: "La gratitud es la virtud que reconoce y corresponde los beneficios recibidos de Dios, testimoniada en el deporte como transformación del sufrimiento en acción de gracias."
 ---
 # Gratitud
 
 > Área: Moral
-> Última actualización: 2026-09-07
+> Última actualización: 2026-09-08
 
 ## Definición
 
@@ -47,6 +47,12 @@ Royo Marín incluye la gratitud entre las virtudes derivadas de la justicia, com
 
 **Recordar los dones sencillos (Worner).** En las alegrías sin ambages del avance tecnológico, Tod Worner invita a no olvidar «las maravillas que ya poseemos. Simples. Trascendentes. Alegres maravillas. La mirada de los ojos inocentes de tu hijo. El crujir de las últimas hojas tenaces del otoño. La sensación de paz en una tarde de domingo adormecida. El cálido abrazo de un amigo largamente separado». Demasiado a menudo «pasamos como sonámbulos junto a estas bendiciones, bendiciones que brillantemente (pero sigilosamente) agracian cada uno de nuestros días»: damos por sentado lo que «fue generosamente concedido en primer lugar». Hay que abrazar el bien en la tecnología moderna, «como las abejas de san Basilio, que toman solo el néctar que necesitan y dejan el resto atrás», pero saboreando «la eterna "preciosísima frescura de las cosas profundas"» y glorificando la maravilla de cada bendición dada por Dios [EAC-19, 04_midnight_oil.md, L89-97].
 
+### Según Evangelization & Culture n.º 20 «Sport» (EAC-20)
+
+**La gratitud en el discurso de Gehrig (12_science.md):** Frente a la ELA terminal, Lou Gehrig pronunció: «Hoy me considero el hombre más afortunado sobre la faz de la tierra». Su gratitud no niega el sufrimiento —enumera sus bendiciones: esposa, padres, compañeros, la propia enfermedad que le enseñó a valorar lo esencial—. C.S. Lewis enseña que el dolor es megáfono de Dios; Gehrig responde con acción de gracias, transformando la cruz en ofrenda. La gratitud deportiva —agradecer el cuerpo, el juego, el equipo— es escuela de la gratitud teologal.
+
+**La gratitud como principio de coaching (24_peripheries.md):** Amy Hohenecker incluye la gratitud entre sus siete principios: «La fe católica ve la virtud de la gratitud como ver todo como un don y estar agradecido. Los dones del trabajo duro, la paciencia, la confianza y la fortaleza... son dones que recibo de mis atletas a diario. Estoy eternamente agradecida a ellos». El equipo reza abiertamente y «continúa dando gracias a Dios por todo lo que hace por nosotros», reconociendo cada capacidad física (dos pies, dos pulmones, dos brazos) como don divino. La gratitud del entrenador se vuelve dirección espiritual: formar atletas que viven «todo como don».
+
 ## Distinciones importantes
 
 - **Gratitud a Dios**: se expresa principalmente en la oración de acción de gracias y en la Santa Misa.
@@ -77,3 +83,4 @@ León XIV presenta la gratitud como la actitud fundamental de la vida sacerdotal
 - [TPCr, Tercera Parte, Libro II, Cap. 2]
 - [L_XIV-ClerRom, 19.02.2026]
 - Evangelization & Culture, Issue 19 (EAC-19): 11_minds.md, 04_midnight_oil.md
+- [EAC-20, 12_science.md (Gehrig/Lewis), 24_peripheries.md (Hohenecker)]

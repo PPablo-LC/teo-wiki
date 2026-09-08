@@ -1,15 +1,16 @@
 ---
 type: Persona
-title: Benedicto XVI
-tags: ["personajes", "teólogos"]
+title: "Benedicto XVI"
+tags: ["papas", "teólogos", "sacerdotes"]
 
-timestamp: 2026-09-07
-description: "Joseph Aloisius Ratzinger (Marktl am Inn, Baviera, 16 de abril de 1927 — Ciudad del Vaticano, 31 de diciembre de 2022)."
+timestamp: 2026-09-08
+description: "Joseph Ratzinger (1927-2022), Papa emérito; su enseñanza sobre sufrimiento, esperanza y educación se aplica al deporte y la tecnología."
 ---
+
 # Benedicto XVI
 
-> Área: Personajes / Teólogos
-> Última actualización: 2026-09-07
+> Área: Papas / Teólogos
+> Última actualización: 2026-09-08
 
 ## Contexto histórico
 
@@ -68,6 +69,12 @@ El número *Evangelization & Culture, Issue 19 — Artificial Intelligence* (pri
 - **El desequilibrio entre posibilidades tecnológicas y energía moral** — Angela Jendro cita *Christianity and the Crisis of Cultures* en su ensayo sobre la «ansiedad IA»: «el verdadero y más grave peligro del momento presente es precisamente este desequilibrio entre posibilidades tecnológicas y energía moral» (05_lives.md). La tecnología avanza más rápido que nuestra capacidad moral de manejarla; los temores en torno a la IA —pérdida de empleo, privacidad, desconexión social— hacen aún más necesario estar arraigados en Dios. La columna «Parting Thoughts» (23_parting_thoughts.md) vuelve a citar el mismo texto como pregunta de meditación: «¿Estáis de acuerdo?»
 - **La [[dictadura_del_relativismo]] y la formación del deseo** — Jonathan Askonas y Justin Litke citan su discurso de abril de 2008 a los educadores de la Catholic University of America, pronunciado antes del advenimiento de la IA pero que anticipa lo esencial: «cuando no se reconoce nada más que el individuo como definitivo, el criterio último de juicio se convierte en el yo y en la satisfacción de los deseos inmediatos del individuo». Dentro de tal horizonte relativista —la «dictadura del relativismo» que lo permite todo salvo creer que existe un horizonte absoluto de Verdad— «los objetivos de la educación quedan inevitablemente recortados. Lentamente, se produce un rebajamiento de los estándares. Observamos hoy una timidez ante la categoría del bien y una búsqueda sin objetivo de la novedad que se presenta como la realización de la libertad» (14_feature_askonas.md). Benedicto reconoció que el desafío de la educación es avivar el amor y el deseo que conduzcan a la transformación —en verdad y no solo en apariencia—: «una vez despertada su pasión por la plenitud y la unidad de la verdad, los jóvenes sin duda disfrutarán del descubrimiento de que la cuestión de lo que pueden conocer abre la vasta aventura de lo que deben hacer». Es la conexión vital y olvidada entre intelecto y voluntad, porque lo que está en juego en la era de la IA no es tanto el intelecto como la **voluntad**: la capacidad de entregarse a un objeto mayor que uno mismo. Frente al «anillo de Giges» intelectual que promete hacer invisibles las deficiencias educativas (los LLM como *El anillo de ChatGPT*), la educación católica debe volver a «enseñar a los estudiantes no solo cómo pensar, sino qué amar».
 
+### Según Evangelization & Culture n.º 20 «Sport» (EAC-20)
+
+**La esperanza cristiana en la ELA (12_science.md):** La enfermedad de Lou Gehrig, interpretada a la luz de C.S. Lewis (*El problema del dolor*), dialoga con el legado de Benedicto XVI sobre el sufrimiento. Benedicto enseñó que el dolor no es un «castigo» sino un llamado a la comunión en la cruz de Cristo; su homilía del Jubileo de los Deportistas (2000) concluía: «el sufrimiento bien comprendido y ofrecido es la vía más directa hacia la plenitud de la vida». La actitud de Gehrig —«el hombre más afortunado sobre la faz de la tierra»— encarna la esperanza benedictina de que «Dios es fiel a su propio amor» incluso en el sufrimiento terminal.
+
+**La gracia en el deporte (23_soul.md):** El Papa, en su homilía para el Jubileo de los Deportistas, afirmó que «el deporte puede enseñar mucho sobre la fe y la vida», y citó 2 Tim 4,7 como la conclusión de la carrera cristiana. Benedicto ve en las reglas, el entrenamiento y la disciplina deportiva una analogía viva de la vida espiritual: «el campeón no es el que nunca cae, sino el que siempre se levanta». El deporte como escuela de carácter y esperanza confirma el su sumensaje central: el sufrimiento redentor transforma.
+
 ## Analizado para
 
 - [[auténtica_día_3_aporta_al_mundo_con_tus_talentos]] — convergencia en cita «Cada persona lleva consigo un proyecto de Dios» como expresión de la providencia divina
@@ -84,3 +91,4 @@ El número *Evangelization & Culture, Issue 19 — Artificial Intelligence* (pri
 - [CIS, «La catedral interior del sacerdote», 2026]
 - EAC-16, *Evangelization & Culture, Issue 16 — Pope Benedict XVI* (Summer 2023), Word on Fire Institute.
 - EAC-19, *Evangelization & Culture, Issue 19 — Artificial Intelligence* (Spring 2024), Word on Fire Institute (Angela M. Jendro, 05_lives.md; Jonathan Askonas y Justin Litke, 14_feature_askonas.md; 23_parting_thoughts.md).
+- EAC-20, *Evangelization & Culture, Issue 20 — Sport* (Word on Fire Institute), 12_science.md (sobre sufrimiento y ELA) y 23_soul.md (homilía Jubileo de los Deportistas).

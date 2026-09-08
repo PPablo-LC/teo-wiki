@@ -9,7 +9,7 @@ description: "La ley, en sentido teológico."
 # Ley
 
 > Área: Dogmática / Moral
-> Última actualización: 2026-06-29
+> Última actualización: 2026-09-08
 
 ## Definición
 
@@ -67,6 +67,21 @@ Royo Marín sitúa la ley en el contexto del plan divino de salvación. La ley n
 
 La entrada «Ley» del VocTeoBib desarrolla la *torah* como enseñanza de Dios que reglamenta la conducta del hombre. Distingue tres etapas. La ley natural, inscrita por Dios en el corazón (Rom 2,14s), rige desde los orígenes (Gen 2,16s) y alcanza a las naciones. La Ley antigua o mosaica, dada en el Sinaí, es inseparable de la alianza y constituye una pedagogía para el pueblo elegido (Dt 4,5-8); el Decálogo es su centro (Ex 20,2-17). La Ley nueva o evangélica, inaugurada por Cristo (Jn 1,17), es la gracia del Espíritu Santo que actúa por la caridad (Rom 6,15; Gal 6,2), ley de amor y de libertad que perfecciona y cumple la Antigua.
 
+### Según Evangelization & Culture n.º 20 «Sport» (EAC-20)
+
+**Las reglas como amigos, no enemigos (03_word_from_institute.md):** Matthew Petrusek desarrolla una teología de las reglas deportivas que es convergente con la doctrina católica sobre la ley:
+
+- Las reglas no solo hacen posible la práctica del juego, sino la existencia del mismo juego.
+- Las reglas crean el ámbito mental y físico donde tiene lugar toda la acción.
+- Las reglas unen a todos en una búsqueda común.
+- Las reglas determinan al ganador justo.
+- Las reglas hacen posible detectar y castigar a los tramposos.
+- Las reglas hacen posible ser libres.
+
+Petrusek sostiene que la cultura secular, «obsesionada con la autonomía», ha oscurecido esta verdad: «las buenas reglas son nuestras amigas, no nuestras enemigas». La libertad sin reglas solo favorece a los tiranos — el tirano externo que controla mentes y cuerpos, y el tirano interno que se deleita en hacernos esclavos adictos al orgullo autodestructivo.
+
+**Las reglas y la vida espiritual (17_feature_rugby.md):** La Gregory the Great Academy muestra cómo las reglas —la Regla Benedictina, las reglas católicas, las leyes del rugby— son «elementos de arraigo» que evitan «volar demasiado alto o caer demasiado fuerte», como el mito de Ícaro. La libertad sin reglas es, desde Dostoievsky, «una señal de ateísmo».
+
 ## Distinciones importantes
 
 - **Ley eterna**: la razón divina que ordena todo hacia su fin en Dios
@@ -87,3 +102,4 @@ Se relaciona con la [[gracia]], la [[justificación]], la [[libertad]], la [[con
 - [CEC §1950–1986]
 - [SmTh Ia-IIae, q.90–108]
 - [TPCr, Primera Parte, Cap. I]
+- [EAC-20, 03_word_from_institute.md (Petrusek), 17_feature_rugby.md (GGA)]

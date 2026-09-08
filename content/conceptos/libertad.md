@@ -9,7 +9,7 @@ description: "Facultad de la voluntad por la cual el hombre puede determinar sus
 # Libertad
 
 > Área: Moral Fundamental / Antropología Teológica
-> Última actualización: 2026-09-07
+> Última actualización: 2026-09-08
 
 ## Definición
 
@@ -103,6 +103,22 @@ Dietrich von Hildebrand («Minds: Technology & Its Dangers») y Fr. Anselm Ramel
 
 **La libertad y la sabiduría, no el capricho (Ramelow):** «La libertad tiene que ver con la sabiduría, no con el capricho; es racional y, por esa razón, predecible. La virtud es seguir el bien moral conocido racionalmente de manera consistente, no caprichosamente. Esta consistencia no nos priva de libertad; más bien, la incrementa». Los algoritmos que predicen nuestras elecciones no distinguen entre regularidades provenientes de inclinaciones depravadas y aquellas resultado de la sabiduría y la virtud; pero para nosotros, esa distinción es crucial [EAC-19, 15_feature_ramelow.md, L37-45].
 
+### Según Evangelization & Culture n.º 20 «Sport» (EAC-20)
+
+**La libertad alcanzada mediante las reglas del juego (03_word_from_institute.md):** Matthew Petrusek articula una teología de la libertad deportiva convergente con la tradición católica:
+
+- Las reglas hacen posible la libertad: «las reglas no solo hacen posible la práctica del juego, sino la existencia del mismo juego».
+- «La libertad sin reglas solo favorece a los tiranos — el tirano externo que controla mentes y cuerpos y el tirano interno que se deleita en hacernos esclavos adictos al orgullo autodestructivo».
+- Ganar no es jugar con las propias reglas, sino «jugar según las reglas de forma única y por amor a la bondad del juego».
+
+Bishop Robert Barron (01_from_the_desk.md) completa esta visión: «somos libres en la fe en la medida en que internalizamos los objetivos que gobiernan el juego». La libertad no es ausencia de reglas, sino dominio de las reglas que han sido interiorizadas.
+
+**La libertad en las tres vías (23_soul.md):** Fr. Stephen Gadberry muestra que la libertad deportiva se desarrolla según las tres vías espirituales:
+
+- *Vía purgativa:* aprender las reglas del juego — «inicialmente, esto parece algo que nos esclaviza, cuando en realidad es lo que realmente nos libera. Cuando los límites están claramente definidos y aceptados, tenemos más libertad dentro del campo de juego».
+- *Vía iluminativa:* perfeccionar las habilidades con la práctica, pasando de evitar el mal a elegir el bien porque da vida.
+- *Vía unitiva:* jugar por el juego mismo — «la mayor libertad que un atleta o aficionado puede tener, cuando llega al punto de jugar el juego simplemente por el placer de jugar».
+
 ## Relaciones doctrinales
 
 La libertad se relaciona con el [[libre_albedrío]] (su fundamento ontológico), con el [[acto_humano]] (su ejercicio), con la [[gracia]] (su elevación), con la [[libertad_humana]] (su dimensión natural) y con la [[conciencia_moral]] (su regla próxima). Las reglas y la ley, lejos de coartarla, protegen y perfeccionan la [[libertad_cristiana]], en la línea de la [[ley_nueva_como_ley_de_libertad]].
@@ -121,3 +137,4 @@ La libertad se relaciona con el [[libre_albedrío]] (su fundamento ontológico),
 - TPCr, Tratado de la libertad
 - [EjEsp2026, cap. 4: «Llegar a ser Libre»]
 - [EAC-14, 04_midnight_oil.md]
+- [EAC-20, 03_word_from_institute.md (Petrusek), 01_from_the_desk.md (Barron), 23_soul.md (Gadberry)]

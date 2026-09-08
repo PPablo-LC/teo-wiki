@@ -9,7 +9,7 @@ description: "La eutrapelia es una virtud derivada de la [[virtud_de_la_templanz
 # Eutrapelia
 
 > Área: Moral
-> Última actualización: 2026-08-22
+> Última actualización: 2026-09-08
 
 ## Definición
 
@@ -52,6 +52,16 @@ Royo Marín desarrolla la eutrapelia siguiendo a Santo Tomás (n.472). La define
 
 [TPCr, Tercera Parte, Libro II, Cap. 2 (n.472)]
 
+### Según Evangelization & Culture n.º 20 «Sport» (EAC-20)
+
+Dr. Richard DeClue (18_feature_declue.md) recupera la genealogía tomista de la eutrapelia para fundamentar el valor del deporte como actividad virtuosa:
+
+**El deporte como especie de juego:** Siguiendo a Santo Tomás (*Comentario a la Ética a Nicómaco* y *SmTh* 2-2.168.2), DeClue afirma que «es propio de un hombre sabio y virtuoso jugar». El juego proporciona descanso al alma —la fatiga del alma se alivia con el descanso— y en los juegos competitivos, donde hay contienda y posibilidad de victoria, hay deleite máximo (*SmTh* 1-2.32.6 ad 3). El deporte es parte de una vida virtuosa y bien moderada; permitir que el alma y el cuerpo descansen a través del disfrute del deporte puede ser una actividad virtuosa.
+
+**La eutrapelia como virtud reguladora del deporte:** El Dicasterio para los Laicos, la Familia y la Vida (*Giving the Best of Yourself*, 2018) reconoce que los católicos laicos jugaban en fiestas y domingos en la época medieval, y que el deporte puede ser parte de una vida virtuosa cuando se practica con debida moderación y comportamiento apropiado. La eutrapelia asegura que el deporte se ejerza dentro del orden de la razón: en tiempos propios, con moderación y sin excluir los deberes de la vocación.
+
+Fr. Stephen Gadberry (23_soul.md) aplica la eutrapelia a las tres vías espirituales, mostrando que el juego deportivo puede ser camino de santidad: en la vía purgativa, aprender las reglas del juego y ordenar las pasiones; en la iluminativa, perfeccionar las habilidades con la práctica; en la unitiva, jugar por el juego mismo — la libertad del que conoce las reglas, ha perfeccionado su habilidad y se ha consagrado a la ejecución.
+
 ### Según Evangelization & Culture n.º 8 «Humor» (EAC-8)
 
 Jennifer Frey (*Stacks*) recupera la genealogía aristotélico-tomista del ingenio para leer el humor literario:
@@ -82,3 +92,4 @@ La eutrapelia es parte de la [[virtud_de_la_templanza]] a través de la [[modest
 - [TPCr, Tercera Parte, Libro II, Cap. 2 (n.472)]
 - [SmTh II-II, q.168 a.1-4]
 - [EAC-8, Issue 8 «Humor», archivo 06]
+- [EAC-20, Issue 20 «Sport», 18_feature_declue.md (DeClue), 23_soul.md (Gadberry)]

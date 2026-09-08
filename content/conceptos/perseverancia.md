@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Perseverancia
 tags: ["moral", "ascética"]
 
-timestamp: 2026-06-11
-description: "La perseverancia es la virtud que inclina a la continuación constante y prolongada en el bien, sin desfallecer ante las dificultades."
+timestamp: 2026-09-08
+description: "La perseverancia es la virtud que inclina a la continuación constante en el bien, testimoniada por atletas y entrenadores como escuela de fe y fidelidad a la gracia."
 ---
 # Perseverancia
 
 > Área: Moral / Ascética
-> Última actualización: 2026-06-11
+> Última actualización: 2026-09-08
 
 ## Definición
 
@@ -60,6 +60,18 @@ Los ejemplos de Dante (treinta años para la Divina Comedia), Newton (quince vec
 
 JvC-Muj presenta los mismos ejemplos de perseverancia: «El que no quiera ser vencido, tiene un medio seguro: no hay que desanimarse» [JvC-Muj, Cap. II]. La fábula del caracol y la liebre ilustra que la perseverancia vence al talento. Los ejemplos de Dante, Newton, Edison y Stephenson muestran que los grandes éxitos no se alcanzan «con momentáneos arranques, sino con diligente constancia durante años» [JvC-Muj, Cap. II]. La subida a la montaña del anciano de pasos reposados enseña que para llegar a las alturas no basta un arranque juvenil, sino que es necesario «una perseverancia reposada, siempre igual, constante» [JvC-Muj, Cap. II].
 
+### Según Evangelization & Culture n.º 20 «Sport» (EAC-20)
+
+El número sobre deporte testimonia la perseverancia como hilo conductor de vidas transformadas por la fe:
+
+**La perseverancia en la cancha y en la fe (10_spotlight_adams.md):** Michael Adams relata cómo el baloncesto le enseñó a «no rendirse»: «El deporte me dio la disciplina para seguir adelante cuando todo parecía perdido». Su regreso a la Iglesia tras años de alejamiento fue un proceso de perseverancia diaria: «cada día es una elección de volver a elegir a Dios».
+
+**El sacrificio como perseverancia (16_feature_garcia.md):** Brenda Lorena García, doble de riesgo de Hollywood, describe su camino: «el trabajo duro, la disciplina y el sacrificio» forjados en el gimnasio y en los sets de filmación. Su conversión radical requirió perseverar en la oración y la vida sacramental en un ambiente hostil a la fe: «mi Kolkata está aquí, en Hollywood», dice, aplicando la perseverancia misional de Madre Teresa a su vocación laical.
+
+**El discernimiento vocacional como perseverancia (21_spotlight_masters.md):** Fr. Burke Masters pasó de aspirante a gerente de Grandes Ligas a sacerdote. Su historia muestra la perseverancia en el discernimiento: años de Adoración, dirección espiritual y prueba de seminario. «La batalla continúa», dice, y cada día renueva el sí a la llamada.
+
+**La odisea providencial de Mike Piazza (20_special_feature_piazza.md):** Tod Worner narra la carrera de Piazza: draft en la ronda 62 (puesto 1390), convertido en el mejor receptor ofensivo de la historia. Su perseverancia no fue solo deportiva: «cada fracaso, cada lesión, cada duda fue usada por la Providencia». Piazza atribuye su resistencia a la Misa diaria y al Rosario: «la fe me dio la fuerza para seguir cuando el cuerpo quería rendirse».
+
 ## Distinciones importantes
 
 - **Perseverancia activa**: constancia en el ejercicio de las virtudes y medios de santificación
@@ -90,3 +102,4 @@ La perseverancia se relaciona con la [[fortaleza]] y el [[don_de_fortaleza]]. Su
 - [CEC §2849-2854]
 - [TPCr, Parte I; Parte III, Libro II, Cap. IV, n.613]
 - SmTh Ia-IIae q.109 a.10; q.114 a.9; IIª-IIae q.137 aa.1-3
+- [EAC-20, 10_spotlight_adams.md, 16_feature_garcia.md, 21_spotlight_masters.md, 20_special_feature_piazza.md]

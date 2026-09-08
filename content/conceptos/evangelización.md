@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Evangelización
 tags: ["doctrina_social", "eclesiología"]
 
-timestamp: 2026-09-07
-description: "La evangelización es la misión fundamental de la Iglesia de anunciar y actualizar el Evangelio en todas las dimensiones de la vida humana, incluida la compleja red de las relaciones sociales."
+timestamp: 2026-09-08
+description: "La evangelización es la misión de la Iglesia de anunciar el Evangelio en todas las dimensiones de la vida, incluido el deporte como vía de belleza y testimonio."
 ---
 # Evangelización
 
 > Área: Doctrina Social / Eclesiología
-> Última actualización: 2026-09-07
+> Última actualización: 2026-09-08
 
 ## Definición
 
@@ -155,6 +155,16 @@ De ahí que el fascículo presente la familia, la comunidad y la vida ordinaria 
 
 **La Iglesia acepta las nuevas tecnologías (Hoopes).** La Iglesia reaccionó a la imprenta «la manera en que hemos estado reaccionando a las nuevas tecnologías desde entonces: la abrazamos». La Biblia de Gutenberg (1436) fue la Vulgata católica; Marconi puso a Pío XI en la radio en 1931, introduciendo la transmisión con lo que podría ser la declaración de misión tecnológica de la Iglesia: «Con la ayuda de Dios, que pone tantas misteriosas fuerzas de la naturaleza a disposición del hombre, he podido preparar este instrumento que dará a los fieles de todo el mundo la alegría de escuchar la voz del Santo Padre». La Iglesia ha usado las fuerzas tecnológicas misteriosas del fonógrafo, el cine, la televisión, los CDs e internet para dar ese gozo al mundo [EAC-19, 22_peripheries.md, L21-23].
 
+### Según Evangelization & Culture n.º 20 «Sport» (EAC-20)
+
+**El béisbol como analogía de la evangelización (01_from_the_desk.md):** Robert Barron abre el número comparando el béisbol y la evangelización: ambos son «juegos de belleza» donde las reglas no esclavizan sino que liberan; la alegría del juego no es posesión sino participación. «La evangelización es la propuesta de un juego que vale la pena jugar: la vida en Cristo». La belleza del deporte —su gratuidad, sus reglas, su comunidad— es analogía viva del anuncio evangélico: no se impone, se invita.
+
+**El testimonio deportivo como evangelización (21_spotlight_masters.md):** Fr. Burke Masters pasó de aspirante a ejecutivo de Grandes Ligas a sacerdote. Su historia es evangelización por atracción: no predicó, vivió. La Adoración eucarística y el discernimiento vocacional lo configuraron como testigo. Hoy su ministerio sacerdotal usa el deporte como «puente»: «el juego abre el corazón al Evangelio». La evangelización en el deporte no es proselitismo; es «hablar corazón a corazón» en el lenguaje del atleta.
+
+**La belleza del juego como vía pulchritudinis (23_soul.md):** Fr. Stephen Gadberry muestra que el deporte bien jugado irradia belleza que atrae. Ver a un equipo jugar con virtud, humildad y alegría «prepara el terreno en el corazón para orientarlo hacia un Dios que ama». La evangelización por la belleza (EG 14, Barron en EAC-14) encuentra en el deporte un icono accesible: la perfección de una jugada, la gracia de un movimiento, la generosidad del pase.
+
+**La inclusión como evangelización (19_feature_bradford.md):** Los Juegos Especiales, fundados por Eunice Kennedy Shriver, son evangelización encarnada: el deporte como bálsamo para la discapacidad intelectual, rompiendo el aislamiento. «El deporte es un lenguaje universal que dice a cada persona: tú importas, tú perteneces». La evangelización de las periferias (EG 14) se hace concreta en la pista de atletismo.
+
 ## Ver también
 [[misión_de_la_iglesia]], [[doctrina_social_de_la_iglesia]], [[promoción_humana]], [[caridad]], [[justicia]]
 
@@ -170,3 +180,4 @@ De ahí que el fascículo presente la familia, la comunidad y la vida ordinaria 
 - Evangelization & Culture, Issue 7 (EcC7): Cush, "Theology as an Eight-Part Symphony," pp. 325-333
 - Evangelization & Culture, Issue 14 (EAC-14 «Joy»): 01_from_the_desk.md, 09_spotlight_stewart.md, 17_feature_gadberry.md, 18_special_feature_britton.md, 19_spotlight_barron.md
 - Evangelization & Culture, Issue 19 (EAC-19): 01_from_the_desk.md, 16_feature_vukov.md, 22_peripheries.md
+- [EAC-20, 01_from_the_desk.md (Barron), 21_spotlight_masters.md (Masters), 23_soul.md (Gadberry), 19_feature_bradford.md (Shriver)]

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Humildad
 tags: ["moral", "ascética"]
 
-timestamp: 2026-09-05
-description: "La humildad es una virtud derivada de la templanza —a través de la modestia— que inclina a cohibir el desordenado apetito de la propia excelencia."
+timestamp: 2026-09-08
+description: "La humildad es la virtud fundamental que cohibe el apetito desordenado de excelencia, testimoniada en el deporte como reconocimiento de límites y servicio al juego."
 ---
 # Humildad
 
 > Área: Moral / Ascética
-> Última actualización: 2026-09-05
+> Última actualización: 2026-09-08
 
 ## Definición
 
@@ -179,6 +179,12 @@ Elizabeth Worner subraya la humildad como rendición al amor: sorprende comproba
 
 La humildad aparece así como la virtud que hace posible la metanoia y la [[vía_purgativa]]: el alma despojada de sí puede ser reconfigurada por Cristo, pues solo el que se abaja es capaz de recibir el don de la fe [EAC-18, 04, 18].
 
+### Según Evangelization & Culture n.º 20 «Sport» (EAC-20)
+
+**La humildad en la vía purgativa deportiva (23_soul.md):** Fr. Stephen Gadberry sitúa la humildad como «de mayor importancia» en la vía purgativa: «entenderlo de forma más simple es darse cuenta de que tu vida no se trata de ti». Aprender las reglas del juego —que inicialmente «parece algo que nos esclaviza, cuando en realidad es lo que realmente nos libera»— exige la humildad de reconocer que uno no es el centro, que hay límites y leyes que trascienden el propio querer.
+
+**El narrador humilde (11_minds.md):** El tributo a Vin Scully destaca su humildad como narrador: «Scully nunca se ponía a sí mismo por delante de la historia. Su voz servía al juego, no a su ego». Su fe católica y su arte de contar historias se entrelazaban en una humildad que le permitía desaparecer detrás de la narración, dejando que el béisbol hablara por sí mismo. «Su grandeza estaba en su pequeñez: se hacía pequeño para que el juego fuera grande».
+
 ## Ver también
 [[soberbia]], [[don_de_temor]], [[mansedumbre]], [[virgen_maría]], [[perfección_cristiana]], [[virtud_de_la_religión]], [[modestia]], [[magnanimidad]], [[humor]], [[san_felipe_neri]], [[g_k_chesterton]]
 
@@ -195,3 +201,4 @@ La humildad aparece así como la virtud que hace posible la metanoia y la [[vía
 - [EAC-3, Issue 3 «The Digital Age», archivo 16 (Scalia)]
 - [SFrAs, RGl II.10 — Humildad en la vida religiosa]
 - [SFrAs, CFr. 25 — Humildad de Cristo en la Eucaristía]
+- [EAC-20, 23_soul.md (Gadberry), 11_minds.md (Scully)]

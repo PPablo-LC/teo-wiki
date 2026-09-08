@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Cruz
 tags: ["cristología", "soteriología"]
 
-timestamp: 2026-09-02
-description: "La cruz es el instrumento de la muerte redentora de Jesucristo y el símbolo central de la fe cristiana."
+timestamp: 2026-09-08
+description: "La cruz es el instrumento de la muerte redentora de Cristo y símbolo central de la fe, presente en el deporte como transfiguración del sufrimiento y límite del ídolo."
 ---
 # Cruz
 
 > Área: Cristología / Soteriología
-> Última actualización: 2026-09-02
+> Última actualización: 2026-09-08
 
 ## Definición
 
@@ -137,6 +137,14 @@ Jesús «decía a todos: Si alguno quiere venir detrás de mí, que se niegue a 
 
 **La cruz y el Siervo sufriente (Raniero Cantalamessa).** Cantalamessa presenta al crucificado como «el arquetipo y la encarnación de todos los rechazados, los desheredados, los desechados de la tierra». Jesús, nacido en un establo, sin dónde reclinar la cabeza, fue torturado por los soldados; es el símbolo de toda la humanidad vilipendiada. Pero la cruz no tiene solo un significado social sino «espiritual y místico»: «La muerte de Cristo redimió al mundo del pecado. Llevó el amor de Dios al lugar más distante y oscuro donde la humanidad había sido atrapada en su huida de Dios: a saber, la muerte». En la Pascua se produce una «reversión completa de papeles: la víctima se ha hecho vencedor; el condenado se ha hecho juez; "la piedra que los constructores rechazaron se ha convertido en piedra angular" (Hch 4,11)». La cruz es «el memorial y el símbolo de un acontecimiento» que restaura la dignidad de los desheredados y les da esperanza [EAC-15, 19].
 
+### Según Evangelization & Culture n.º 20 «Sport» (EAC-20)
+
+**La cruz en el icono deportivo (14_art_icons.md):** Cory Heimann reflexiona sobre el logo Jumpman (el salto de Jordan) y la imagen del atleta suspendido en el aire: la iconografía deportiva busca la trascendencia, pero solo el icono que apunta a la cruz es verdadero icono; el ídolo se detiene en la imagen. «El arte católico no termina en la belleza del atleta; termina en la cruz». La cruz es el icono que redime el deporte: «si el deporte es un idioma, la cruz es su puntuación final».
+
+**El sufrimiento como cruz en la ELA (12_science.md):** La enfermedad de Lou Gehrig, leída con C.S. Lewis, muestra la cruz como «martillo» divino: el cuerpo quebrantado se configura con Cristo crucificado. El discurso de Gehrig («el hombre más afortunado») es una participación en la cruz que se vuelve alabanza. La cruz no elimina el sufrimiento, lo transfigura.
+
+**Las tres vías y la cruz deportiva (23_soul.md):** Fr. Stephen Gadberry aplica la cruz a las tres vías: en la vía purgativa, la cruz son las reglas que ordenan las pasiones; en la iluminativa, la cruz es la práctica que perfecciona; en la unitiva, la cruz es jugar por el juego mismo —la libertad del que ha interiorizado la cruz y juega por amor—. «El mejor atleta encuentra indefensa su vida ante las preguntas fundamentales y necesita la luz de Cristo» (Juan Pablo II, Jubileo de los Deportistas 2000).
+
 ## Distinciones importantes
 
 - **Cruz material**: instrumento de la pasión.
@@ -174,3 +182,4 @@ La cruz es el acto consumativo de la [[redención]] y el sacrificio de la [[alia
 - [EAC-15, 01 — Barron: el crucificado es Dios]
 - [EAC-15, 09 — Barron: la cruz y el libro de Job]
 - [EAC-15, 19 — Cantalamessa: la cruz y el Siervo sufriente]
+- [EAC-20, 14_art_icons.md (Heimann), 12_science.md (Gehrig/Lewis), 23_soul.md (Gadberry)]

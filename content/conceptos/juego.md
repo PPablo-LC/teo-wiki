@@ -9,7 +9,7 @@ timestamp: 2026-09-03
 # Juego
 
 > Área: Antropología teológica / Moral
-> Última actualización: 2026-09-03
+> Última actualización: 2026-09-08
 
 ## Definición
 
@@ -34,6 +34,20 @@ Royo Marín sitúa el juego en el ámbito de las pasiones y las tendencias natur
 ### Según Evangelization & Culture n.º 17 «Education» (EAC-17)
 
 Stuart Brown, fundador del Instituto Nacional del Juego, presenta la investigación científica sobre la importancia del juego para el desarrollo humano: «lo contrario del juego no es el trabajo; lo contrario del juego es la depresión». El juego es «el núcleo de la creatividad y la innovación», y su ausencia genera patología. Esta visión convergente con la antropología cristiana confirma que el juego no es un lujo sino una necesidad constitutiva de la persona.
+
+### Según Evangelization & Culture n.º 20 «Sport» (EAC-20)
+
+El número sobre deporte de *Evangelization & Culture* ofrece una visión rica y polifacética del juego desde múltiples perspectivas:
+
+**El juego como retorno a la infancia (15_features_intro.md):** El deporte «nos recuerda lo que es volver a ser niño — un niño que simplemente ama un buen juego. Es un respiro, un paréntesis de tiempo en el que podemos sumergirnos en una alegría simple; una alegría que solo un Padre en el cielo puede entender plenamente — el exquisito gozo de jugar». Esta definición sitúa el juego en el corazón de la condición humana como expresión de la inocencia y la libertad originarias.
+
+**El juego y la virtud (18_feature_declue.md):** Dr. Richard DeClue recupera a Santo Tomás para mostrar que el juego —incluido el deporte competitivo— es parte de una vida virtuosa y bien moderada. «Es propio de un hombre sabio y virtuoso jugar» (*SmTh* 2-2.168.2). El juego proporciona descanso al alma, y en los juegos competitivos hay «deleite máximo». El deporte puede cultivar diligencia, templanza, coraje, humildad (buena deportividad) y trabajo en equipo.
+
+**El juego como liberación (03_word_from_institute.md):** Matthew Petrusek muestra que las reglas del juego no esclavizan sino que liberan: «las reglas no solo hacen posible la práctica del juego, sino la existencia del mismo juego. Las reglas crean el ámbito mental y físico donde tiene lugar toda la acción». Ganar no es jugar con las propias reglas, sino jugar según las reglas de forma única y por amor a la bondad del juego.
+
+**El juego como camino espiritual (23_soul.md):** Fr. Stephen Gadberry aplica las tres vías espirituales al juego deportivo. En la vía purgativa, aprender las reglas del juego — «inicialmente, esto parece algo que nos esclaviza, cuando en realidad es lo que realmente nos libera»; en la vía iluminativa, perfeccionar las habilidades con la práctica; en la unitiva, jugar por el juego mismo — la mayor libertad del atleta, cuando «llega al punto de jugar el juego simplemente por el placer de jugar».
+
+**La poesía del juego (08_poetry_ecchoing_green.md):** William Blake captura en *The Ecchoing Green* la inocencia del juego infantil: los niños juegan en el verde, los ancianos recuerdan sus propios juegos juveniles, el sol se pone y los juegos cesan. La fugacidad del tiempo y el descanso como imagen de la vida y del descanso en Dios.
 
 ### Según La joven de carácter (JvC)
 
@@ -69,5 +83,6 @@ La espiritualidad legionaria reconoce el juego como componente esencial de la vi
 - [SmTh, II-II, Q168, aa. 1-4 — Del *ludus* (juego/recreación)]
 - [TPCr, Parte III, Trat. VII — De la virtud de la eutrapelia]
 - [EAC-17, archivo 15 «Stuart Brown: The Importance of Play»]
+- [EAC-20, 15_features_intro.md, 18_feature_declue.md (DeClue), 03_word_from_institute.md (Petrusek), 23_soul.md (Gadberry), 08_poetry_ecchoing_green.md (Blake)]
 - [JvC, Cap. III — La formación del carácter]
 - [CVV-2020, Cap. 6 — Vida comunitaria y formación]

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Santidad
 tags: ["dogmática", "ascética"]
 
-timestamp: 2026-08-22
-description: "La santidad (del latín *sanctitas*) es la perfección de la caridad por la cual el hombre, elevado por la gracia, participa de la santidad misma de Dios."
+timestamp: 2026-09-08
+description: "La santidad es la perfección de la caridad, participada por la gracia; el deporte se revela como itinerario de santidad a través de las tres vías y el testimonio de atletas santos."
 ---
 # Santidad
 
 > Área: Dogmática / Ascética
-> Última actualización: 2026-08-22
+> Última actualización: 2026-09-08
 
 ## Definición
 
@@ -83,6 +83,14 @@ Juan Pablo II desarrolla la llamada universal a la santidad (cf. *Lumen Gentium*
 
 **El santo como persona de humor divino:** «Un santo puede definirse como alguien con divino sentido del humor, pues un santo nunca toma este mundo en serio como la Ciudad Permanente» (Fulton Sheen). El número documenta el humor de los santos: Felipe Neri con media barba rapada y su «Escuela de la Alegría Cristiana»; San Lorenzo desde la parrilla («¡Denme la vuelta!»); Teresa de Ávila («Hay tiempo de penitencia y tiempo de perdices»; «Si así tratas a tus amigos, no te extraña que tengas tan pocos»); Tomás Moro bromeando sobre su barba ante el verdugo; Santa Teresita imitada con humor en un convento carmelita. La santidad no anula la humanidad: los carmelitas que ahogan risas durante la liturgia muestran que «estas mujeres santas eran plenamente humanas» (Sor Gorman). El humor es fruto de la amistad con Cristo, que hace «brotar creatividad y humor», y testigo del gozo de una vida plenamente humana orientada al cielo.
 
+### Según Evangelization & Culture n.º 20 «Sport» (EAC-20)
+
+**San Sebastián, patrón de los atletas (05_lives.md):** Zelda Caldwell presenta a San Sebastián como modelo de santidad deportiva: mártir que «soportó el martirio con la fortaleza de un atleta». Su imagen —atada a un poste, flechada— se ha vuelto icono de la resistencia física unida a la fe. La devoción a San Sebastián entre deportistas muestra que la santidad no es ajena al cuerpo: el atleta que ofrece su cuerpo en el deporte puede ofrecerlo también en el martirio. «La flecha que hiere el cuerpo del santo se convierte en flecha que hiere el corazón de Dios por amor».
+
+**El deporte como camino a la santidad (23_soul.md):** Fr. Stephen Gadberry articula explícitamente el deporte como itinerario de santidad mediante las tres vías tradicionales: **vía purgativa** = aprender las reglas y ordenar las pasiones (humildad); **vía iluminativa** = perfeccionar las habilidades con práctica y docilidad (perfección virtuosa); **vía unitiva** = jugar por el juego mismo, libertad del que ama al Dador más que al don. «Rightly ordered and understood, sports can lead us to God. Play ball.» La santidad en el deporte no es un añadido piadoso, sino la plenitud de la actividad deportiva bien vivida.
+
+**Los «All Stars» de la santidad (varios):** El número presenta una galería de testigos: Michael Adams (baloncesto → conversión), Vin Scully (narración como vocación), Lou Gehrig (sufrimiento ofrecido), Mike Piazza (Misa diaria y Rosario), Fr. Burke Masters (discernimiento vocacional), Brenda Lorena García (Hollywood como Kolkata), Eunice Kennedy Shriver (Juegos Especiales como obra de misericordia). Cada uno muestra que la santidad se vive en la cancha, en el micrófono, en el banquillo, en la pista —donde el cuerpo, el talento y la gracia se encuentran.
+
 ## Distinciones importantes
 
 - **Santidad ontológica**: la gracia santificante en el alma (santidad de estado).
@@ -109,3 +117,4 @@ La santidad se funda en la [[gracia_santificante]], se expresa en las [[virtudes
 - [TPCr, Parte II, Cap. 2]
 - [JorSant-2026, 12.06.2026]
 - [EAC-8, Issue 8 «Humor», archivos 05, 16, 21]
+- [EAC-20, 05_lives.md (Caldwell), 23_soul.md (Gadberry), 10_spotlight_adams.md, 11_minds.md, 12_science.md, 20_special_feature_piazza.md, 21_spotlight_masters.md, 16_feature_garcia.md, 19_feature_bradford.md]

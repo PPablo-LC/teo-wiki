@@ -46,6 +46,7 @@ tags:
 | 17 | Issue 17 | Education | Autumn 2023 | [[evangelization_and_culture_issue_17_education]] |
 | 18 | Issue 18 | Conversion | Winter 2023 | [[evangelization_and_culture_issue_18_conversion]] |
 | 19 | Issue 19 | Artificial Intelligence | Spring 2024 | [[evangelization_and_culture_issue_19_artificial_intelligence]] |
+| 20 | Issue 20 | Sport | Summer 2024 | [[evangelization_and_culture_issue_20_sport]] |
 
 ## Temas centrales por número
 
@@ -595,13 +596,61 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - Fr. Dan Steele (ficción)
 - Tom Hoopes (autor, «Peripheries»)
 
+### Issue 20: Sport (Summer 2024)
+
+Para el desarrollo completo de este número, véase [[evangelization_and_culture_issue_20_sport]].
+- El deporte como escuela de evangelización: no empezar por las reglas (la *infield fly rule*) sino por la belleza y la emoción del juego; los católicos desconocen los fundamentos del cristianismo porque se les presentó principalmente como reglas; «somos libres en la fe en la medida en que internalizamos los objetivos que gobiernan el juego» (Barron)
+- Las reglas que liberan: las reglas hacen posible el juego; el estadio como espacio común; la libertad sin reglas favorece a los tiranos —externos e internos—; los «All Stars» en el campo y los santos fuera (Petrusek)
+- El deporte como narrativa: Updike y Ted Williams; la historia de heroísmo y villanía que recuerda nuestra alma hecha por Dios llevada en pies de barro; «watch the ball» —la voz del padre como guardián—; los que se quedan en la prensa sin jugar (Worner)
+- San Sebastián, patrono de los atletas: más que resistencia, modelo de ayudar a otros a perseverar en la fe; «no con armas de acero, sino con la invencible espada de la fe»; la perseverancia de los atletas como eco de la de Cristo camino a la Cruz (Caldwell)
+- La fe práctica de Bart Cummings: el entrenador que bendecía las monturas; la adversidad como escuela; «si ganar es la recompensa de Dios, perder es como nos enseña» (Fagan)
+- El boxeo como deporte católico: el valor redentor del sufrimiento físico; los clubes parroquiales y la CYO; James J. Braddock como modelo de virtud —familia, sacrificio, honestidad, humildad, justicia, fe—; 1 Cor 9,25-27 (Becklo)
+- El juego infantil y la fugacidad: «The Ecchoing Green» de William Blake; los ancianos que recuerdan sus juegos juveniles; el descanso en Dios (Blake)
+- La deportista estrella de Belén: identidad y vocación del atleta; compartimentación vs. integración de la fe; «integrar a Cristo en los deportes es un superpoder»; el deporte como ayuda al viaje a Dios (Adams)
+- Vin Scully: el deporte como narración de la condición humana; la voz como conducto humilde; el silencio en los momentos cumbre; el sufrimiento, la fe y la gratitud (McLaughlin)
+- Lou Gehrig y la gracia a través del sufrimiento: la ALS como «crucifixión fisiológica»; el dolor como megáfono de Dios (C.S. Lewis); la muerte a sí mismo y el modelo de Cristo (Flp 2,6-8); «el hombre más afortunado» (Goodwin)
+- Iconos, no ídolos: el Jumpman de Jordan como icono cultural; la Cruz como icono del hombre que cambió la historia (Gal 2,19-20); los héroes como iconos de los dones de Dios (Heimann)
+- Qué es el deporte: *frolic*, competencia, esfuerzo intelectual; el deporte nos recuerda la infancia; la alegría que solo un Padre celestial comprende plenamente (features intro)
+- Brenda Lorena García: el deporte como formación del carácter; JPII y el deporte como «signo de los tiempos»; la misión en Hollywood; la divinización; «la gloria de Dios es un ser humano plenamente vivo» (St. Ireneo); Sta. Teresa, St. Ignacio (García)
+- Gregory the Great Academy y el rugby: la pobreza gozosa; el término medio de la virtud; la regla como arraigo; la literatura épica (Ilíada, Beowulf); los Hail Marys en latín; la fe enraizada en el deporte (Culley, Fitzpatrick, van Beek)
+- La redención del deporte: «la actitud cristiana hacia el deporte no es de rechazo o fuga, sino de respeto, estima, corrigiendo y elevando: una actitud de redención» (JPII, 1984); la virtud del juego en Sto. Tomás (SmTh 2-2.168); virtudes y vicios; el deporte en domingo; el deporte como ídolo; la trampa como injusticia (DeClue)
+- Los Special Olympics: Eunice Kennedy Shriver; el deporte como pasión pura para personas con discapacidad intelectual; la compasión ante el sufrimiento; el deporte como antídoto contra la soledad (Bradford)
+- Mike Piazza: la formación en la fe de la madre; la disciplina como amor; la humildad en la adversidad; los mentores como «pequeños ángeles»; el béisbol como juego de fracaso y redención; la hermandad de los atletas; la esperanza (Worner y Piazza)
+- Fr. Burke Masters: la crisis de identidad del atleta; la providencia y la reorientación; el Cursillo y la confesión; la Misa diaria y la Eucaristía; la Adoración; el abandono a la voluntad de Dios; el llamado del sacerdocio (Masters)
+- Ann Gauger: la conversión y la búsqueda de verdad; la decisión de Puddleglum (C.S. Lewis); la Iglesia como roca; la iniciación cristiana; la ciencia y el diseño inteligente (Gauger)
+- El deporte como camino a Dios: «desbloquea algo sagrado en el alma humana»; las tres vías espirituales aplicadas al deporte —purgativa, iluminativa y unitiva—; el ser «all in» cristiano (2 Tim 4,7; Ap 3,16); el deporte como ídolo y el orden de los amores (Gadberry)
+- El coaching como escuela de virtud: las siete virtudes del entrenador —compasión, fe, paciencia, perseverancia, gratitud, respeto, integridad—; la pasión vs. el sentido de la proporción; «hacer lo correcto aunque nadie nos mire» (Hohenecker)
+- Preguntas de discusión: perseverancia y fe, Special Olympics, la adoración del deporte, la virtud de los entrenadores, la condición humana, la disciplina y la gratificación diferida, la evangelización a través del deporte, la identidad del atleta (meditatio/contemplatio)
+
+- Bishop Robert Barron (director, Word on Fire)
+- Dr. Matthew R. Petrusek (filosofía, Word on Fire Institute)
+- Tod Worner (Managing Editor)
+- Zelda Caldwell (autora, «Lives: St. Sebastian»)
+- Jane Fagan (autora, «Stacks: Bart Cummings»)
+- Matthew Becklo (cultura, Word on Fire)
+- William Blake (poeta)
+- Michael Adams (testimonio, «My Star of Bethlehem»)
+- Dan McLaughlin (autor, «Minds: Vin Scully»)
+- Dr. Jacob Goodwin (ciencia y medicina)
+- Jon Bishop (poeta)
+- Cory Heimann (arte y fe, Word on Fire)
+- Brenda Lorena García (stuntwoman de Hollywood)
+- Andrew Tolkmith (Word on Fire Publishing), Luke Culley, Sean Fitzpatrick y Garret van Beek (Gregory the Great Academy)
+- Dr. Richard G. DeClue Jr. (teología, Word on Fire)
+- Mark Bradford (Jerome Lejeune Fellow)
+- Mike Piazza (Salón de la Fama del béisbol)
+- Fr. Burke Masters (testimonio)
+- Ann Gauger (bióloga, Discovery Institute)
+- Fr. Stephen Gadberry (autor, «Soul»)
+- Amy Hohenecker (entrenadora, «Peripheries»)
+
 ## Relación con otras fuentes
 
-Esta fuente complementa los artículos sobre [[evangelización]], [[evangelización_digital]], [[medios_de_comunicación_social]], [[belleza]], [[arte]], [[doctrina_social_de_la_iglesia]], [[nueva_evangelización]], [[cultura]], [[humor]], [[eutrapelia]], [[alegría_cristiana]], [[poesía]], [[fe_y_razón]], [[eclesiología_de_la_comunión]], [[dignidad_de_la_persona]], [[educación]], [[formación]], [[artes_liberales]], [[educación_católica]], [[conversión]], [[metanoia]], [[kerygma]], [[catecumenado]], [[testimonio_cristiano]], [[inteligencia_artificial]], [[unidad_alma_cuerpo]], [[persona]], [[libre_albedrío]], [[idolatría]], [[tecnología]] y [[tecnocracia_espiritual]].
+Esta fuente complementa los artículos sobre [[evangelización]], [[evangelización_digital]], [[medios_de_comunicación_social]], [[belleza]], [[arte]], [[doctrina_social_de_la_iglesia]], [[nueva_evangelización]], [[cultura]], [[humor]], [[eutrapelia]], [[alegría_cristiana]], [[poesía]], [[fe_y_razón]], [[eclesiología_de_la_comunión]], [[dignidad_de_la_persona]], [[educación]], [[formación]], [[artes_liberales]], [[educación_católica]], [[conversión]], [[metanoia]], [[kerygma]], [[catecumenado]], [[testimonio_cristiano]], [[inteligencia_artificial]], [[unidad_alma_cuerpo]], [[persona]], [[libre_albedrío]], [[idolatría]], [[tecnología]] y [[tecnocracia_espiritual]]. El número dedicado al deporte (Issue 20) complementa además los artículos sobre [[deporte]], [[juego]], [[ocio]], [[ascesis]], [[disciplina_espiritual]], [[entrenamiento]], [[coaching]], [[vía_purgativa]], [[vía_iluminativa]], [[vía_unitiva]], [[perseverancia]], [[fortaleza]], [[sufrimiento]], [[cruz]], [[redención]], [[santidad]], [[dignidad_humana]], [[inclusión]], [[vocación]], [[gratitud]] y [[esperanza]].
 
 ## Ver también
 
-[[evangelización]], [[evangelización_digital]], [[belleza]], [[arte]], [[doctrina_social_de_la_iglesia]], [[nueva_evangelización]], [[humor]], [[eutrapelia]], [[poesía]], [[vía_pulchritudinis]], [[educación]], [[formación]], [[artes_liberales]], [[inteligencia_artificial]], [[unidad_alma_cuerpo]], [[persona]], [[libre_albedrío]], [[idolatría]], [[tecnología]], [[tecnocracia_espiritual]]
+[[evangelización]], [[evangelización_digital]], [[belleza]], [[arte]], [[doctrina_social_de_la_iglesia]], [[nueva_evangelización]], [[humor]], [[eutrapelia]], [[poesía]], [[vía_pulchritudinis]], [[educación]], [[formación]], [[artes_liberales]], [[inteligencia_artificial]], [[unidad_alma_cuerpo]], [[persona]], [[libre_albedrío]], [[idolatría]], [[tecnología]], [[tecnocracia_espiritual]], [[deporte]], [[juego]], [[ocio]], [[ascesis]], [[entrenamiento]], [[sufrimiento]], [[santidad]]
 
 ## Referencias
 
@@ -624,3 +673,4 @@ Esta fuente complementa los artículos sobre [[evangelización]], [[evangelizaci
 - Evangelization & Culture, Issue 17 (2023) — Education
 - Evangelization & Culture, Issue 18 (2023) — Conversion
 - Evangelization & Culture, Issue 19 (2024) — Artificial Intelligence
+- Evangelization & Culture, Issue 20 (2024) — Sport

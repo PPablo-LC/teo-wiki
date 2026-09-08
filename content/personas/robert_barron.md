@@ -2,13 +2,13 @@
 type: Persona
 title: Robert Barron
 tags: ["obispos", "teólogos", "comunicadores", "fundadores"]
-timestamp: 2026-09-07
-description: "Bishop Robert Barron (b. 1959), arzobispo católico estadounidense, fundador de Word on Fire y del Word on Fire Institute."
+timestamp: 2026-09-08
+description: "Arzobispo católico estadounidense, fundador de Word on Fire y del Word on Fire Institute, y editorial de Evangelization & Culture."
 ---
 # Robert Barron
 
 > Área: Obispos / Comunicadores
-> Última actualización: 2026-09-07
+> Última actualización: 2026-09-08
 
 ## Biografía
 
@@ -113,9 +113,15 @@ En el número dedicado a la inteligencia artificial, Barron es el autor de la ca
 - **Providencia vs. control**: Dios, el Creador, nos guía por amor (Is 26,12); la IA —producto nuestro— nos controla mediante ingeniería detallada para ganancia pragmática. Contrasta el tiempo ante la pantalla con el tiempo de oración.
 - **La IA no puede evangelizar**: es útil como herramienta de información, pero evangelizar es «hablar corazón a corazón, persona a persona», compartir la propia relación con el Señor; el evangelizador es «un hambriento que encontró pan, diciéndole a otro dónde está». Cierra con la doble tarea de educarse sobre la amenaza y sobre la promesa de la IA.
 
+### Según Evangelization & Culture n.º 20 «Sport» (EAC-20)
+
+**La belleza del juego como vía evangelizadora (01_from_the_desk.md):** Barron abre el número comparando el béisbol y la evangelización: ambos son «juegos de belleza» donde las reglas no esclavizan sino que liberan. «La evangelización es la propuesta de un juego que vale la pena jugar: la vida en Cristo». La alegría del juego —su gratuidad, sus reglas, su comunidad— es analogía viva del anuncio evangélico: no se impone, se invita. La belleza del deporte prepara el terreno del corazón para recibir el Evangelio.
+
+**El deporte como escolar de virtud (23_soul.md):** Barron comenta que «el juego es una escuela de virtud»: las reglas enseñan obediencia, la competencia enseña a perder con dignidad, la colaboración enseña la caridad. «Los atletas virtuosos son como santos laicos: su excelencia apunta más allá del campo de juego». El deporte revela las «virtudes cardo» del carácter.
+
 ## Ver también
 
-[[evangelización]], [[nueva_evangelización]], [[evangelización_digital]], [[word_on_fire_institute]], [[conversión]], [[metanoia]], [[verdadero_y_falso_yo]], [[conversión_continua]], [[cristificación]], [[deificación]], [[gracia]], [[cuerpo_místico]], [[rito_de_iniciación_cristiana_de_adultos]], [[catecumenado]], [[inteligencia_artificial]], [[idolatría]], [[simulacro_de_personalidad]], [[providencia_divina]]
+[[evangelización]], [[nueva_evangelización]], [[evangelización_digital]], [[word_on_fire_institute]], [[conversión]], [[metanoia]], [[verdadero_y_falso_yo]], [[conversión_continua]], [[cristificación]], [[deificación]], [[gracia]], [[cuerpo_místico]], [[rito_de_iniciación_cristiana_de_adultos]], [[catecumenado]], [[inteligencia_artificial]], [[idolatría]], [[simulacro_de_personalidad]], [[providencia_divina]], [[eutrapelia]], [[vía_purgativa]], [[vía_iluminativa]], [[vía_unitiva]]
 
 ## Referencias
 
@@ -127,5 +133,6 @@ En el número dedicado a la inteligencia artificial, Barron es el autor de la ca
 - EAC-17, 02_from_the_desk.md (carta editorial sobre educación)
 - EAC-18, 01_from_the_desk.md y 18_spotlight_barron_on_conversion.md (entrevista de Tod Worner sobre la conversión)
 - EAC-19, 01_from_the_desk.md (carta editorial sobre inteligencia artificial)
+- EAC-20, 01_from_the_desk.md (sobre belleza del juego y evangelización) y 23_soul.md (sobre deporte como escolar de virtud)
 - Barron, Robert. *Eucharist* (Word on Fire Institute, 2021).
 - Word on Fire website

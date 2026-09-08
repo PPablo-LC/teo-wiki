@@ -3,13 +3,13 @@ type: Persona
 title: San Pablo
 tags: ["hagiografía"]
 
-timestamp: 2026-06-03
-description: "San Pablo de Tarso (c. 5-67 d.C.), originalmente Saulo, fariseo de la tribu de Benjamín y ciudadano romano."
+timestamp: 2026-09-08
+description: "Apóstol de los gentiles; su metáfora de la carrera (2 Tim 4,7) inspira la espiritualidad del deporte y la perseverancia cristiana."
 ---
 # San Pablo
 
 > Área: Hagiografía
-> Última actualización: 2026-06-03
+> Última actualización: 2026-09-08
 
 ## Biografía
 
@@ -43,6 +43,10 @@ Illingworth destaca que Pablo predicó en Listra (Act 14), un hecho que revela s
 
 Iverson sostiene que la doctrina de la Resurrección constituye una convicción teológica necesaria para la lectura de la Biblia. Sin la resurrección, la Escritura pierde su centro y la fe cristiana se desmorona. Esta perspectiva subraya que la interpretación bíblica no puede separarse de la confesión pascual que anima todo el Nuevo Testamento.
 
+### Según Evangelization & Culture n.º 20 «Sport» (EAC-20)
+
+**La carrera como metáfora de la vida (23_soul.md):** En su carta a los Timios, San Pablo despliega la metáfora atlética de la carrera: «No he venido solamente a luchar contra las bestias… pero luchamos con espíritu y con corazón» (1 Tim 6,12) y la célebre conclusión de la lucha: «He luchado bien, he acabado la carrera, he guardado la fe» (2 Tim 4,7). Fr. Stephen Gadberry subraya que Pablo no usó una metáfora cualquiera: el atleta que corre una carrera —con reglas, competencia, entrenamiento disciplinado— es el arquetipo del cristiano que avanza hacia la meta celestial. La «carrera» implica (1) un **camino** (no un destino instantáneo), (2) **reglas** (la fe ordena la pasión), (3) **entrenamiento** (la disciplina espiritual), y (4) **un fin** (la vida eterna). El Papa Juan Pablo II profundizó esta metáfora en su homilía del Jubileo de los Deportistas (29-X-2000), afirmando que el deporte «puede enseñar mucho sobre la fe y la vida», y citando 2 Tim 4,7 como el himno de cierre del atleta espiritual.
+
 ## Ver también
 
 [[conversión]], [[justificación]], [[gracia]], [[redención]], [[cuerpo_místico]], [[virtudes_teologales]], [[nuevo_adán]], [[cruz]], [[evangelización]], [[apóstoles]]
@@ -53,3 +57,4 @@ Iverson sostiene que la doctrina de la Resurrección constituye una convicción 
 - [VocTeoBib, entradas «Pablo», «Pecado», «Justificación», «Fe», «Cuerpo de Cristo»]
 - [TPCr, Parte I, introducción: marco paulino de la perfección cristiana]
 - Christus Vita Vestra (2020), múltiples referencias
+- [EAC-20, 23_soul.md (Gadberry): 2 Tim 4,7 como himno de la carrera espiritual]

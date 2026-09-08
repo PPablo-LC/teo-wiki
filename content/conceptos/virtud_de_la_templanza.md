@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Virtud de la templanza
 tags: ["moral"]
 
-timestamp: 2026-06-23
-description: "La templanza es la cuarta de las [[virtudes_cardinales]], virtud infusa que modera la pasión del apetito concupiscible en los deleites de los sentidos."
+timestamp: 2026-09-08
+description: "La templanza es la virtud cardinal que modera los deleites sensibles, ilustrada en el deporte como moderación que evita la intemperancia y la idolatría del cuerpo."
 ---
 # Virtud de la templanza
 
 > Área: Moral
-> Última actualización: 2026-06-23
+> Última actualización: 2026-09-08
 
 ## Definición
 
@@ -123,6 +123,10 @@ JPII distingue la moral cristiana de la estoica: la sobriedad no exige hacerse i
 
 Finalmente, la templanza exige una «humildad específica» —la «humildad del cuerpo» y la «del corazón»— como condición imprescindible para la armonía interior y la belleza interior del hombre. «El hombre debe ser hermoso sobre todo interiormente. Sin esta belleza todos los esfuerzos encaminados al cuerpo no harán —ni de él, ni de ella— una persona verdaderamente hermosa.»
 
+### Según Evangelization & Culture n.º 20 «Sport» (EAC-20)
+
+**La templanza en el deporte (18_feature_declue.md):** Dr. Richard DeClue muestra cómo la virtud de la templanza regula el deporte para que no devenga en vicio. El deporte practicado sin moderación se vuelve intemperancia: exceso de entrenamiento, obsesión por la victoria, idolatría del cuerpo, descuido de los deberes de estado. La templanza asegura que el deporte se ejerza «en tiempos propios, con moderación y sin excluir los deberes de la vocación». El Dicasterio para los Laicos (*Giving the Best of Yourself*) reconoce que el deporte puede ser parte de una vida virtuosa cuando se practica con la debida moderación. La gula deportiva (exceso de suplementos, obsesión por el físico), la lujuria (explotación sexual en entornos deportivos), la ira (violencia en la grada y en el campo) y la soberbia (narcisismo del campeón) son manifestaciones de intemperancia que el deporte debe evitar. La eutrapelia, como virtud que regula el juego y la recreación, es expresión concreta de la templanza en el ámbito deportivo.
+
 ## Distinciones importantes
 
 - **Templanza vs. continencia**: la templanza es hábito que modera la pasión; la continencia es resistencia a la pasión cuando es vehemente
@@ -171,3 +175,4 @@ Finalmente, la templanza exige una «humildad específica» —la «humildad del
 - Concilio de Trento
 - [7_Lamps, JPII La templanza — Audiencia general, 22-XI-1978]
 - Santo Tomás, S.Th., II-II, q. 141-170
+- [EAC-20, 18_feature_declue.md (DeClue)]

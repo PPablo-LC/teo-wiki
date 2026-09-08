@@ -1,15 +1,17 @@
 ---
 type: Persona
 title: "C.S. Lewis"
-description: "Escritor y apologista británico (1898-1963), converso del ateísmo; autor de Las crónicas de Narnia, Mero cristianismo y Cartas de Screwtape."
 tags: ["apologética", "literatura_católica", "siglo_xx"]
-timestamp: 2026-09-07
----
 
+timestamp: 2026-09-08
+description: "Escritor y apologista británico (1898-1963), converso del ateísmo; su teoría del sufrimiento influye en la espiritualidad del deporte."
+---
 # C.S. Lewis
 
 > Nacimiento: 29 de noviembre de 1898, Belfast
 > Muerte: 22 de noviembre de 1963, Oxford
+> Área: Escritores / Apologistas
+> Última actualización: 2026-09-08
 > Conversión: 1930-1931 (teísmo, luego cristianismo, anglicano)
 > Nota: no fue católico romano, pero es fuente clásica de la apologética católica contemporánea
 
@@ -47,13 +49,19 @@ Lewis es citado en el número dedicado a la conversión como testigo y apologist
 
 Jason Paone, editor de Word on Fire Academic y del nuevo journal teológico *The New Ressourcement*, relata en la entrevista *Spotlight* (10_spotlight_ressourcement.md) la conversión en la que *Mero cristianismo* fue decisiva. Crecido en un movimiento evangélico sectario que aislaba a sus miembros del mundo (incluida «la extraordinaria herencia intelectual y cultural de la Europa cristiana»), Paone descubrió a los veintitantos años el libro de Lewis: «descubrir el cristianismo "meramente" fue algo así como experimentar el color por primera vez — o, quizá, como ver el cielo nocturno por primera vez». Le mostró simultáneamente cuán empobrecido era su mundo evangélico sectario y le dio «un primer vistazo de la extraordinaria sabiduría y riqueza cultural que los cristianos habían producido en sus dos mil años de reflexión sobre el Evangelio». En el mismo diálogo, Paone declara que la meta que ha tenido en mente durante toda su formación de profesor y erudito ha sido contribuir al florecimiento de la cultura intelectual cristiana, así como lo hizo C.S. Lewis. *Mero cristianismo* funciona así como puente hacia la tradición cristiana total —la *ressourcement*—, modelo del diálogo cultural que la inteligencia artificial no puede sustituir.
 
+### Según Evangelization & Culture n.º 20 «Sport» (EAC-20)
+
+**La esperanza como ancla del atleta (12_science.md):** La ELA de Lou Gehrig, interpretada con C.S. Lewis (*El problema del dolor*), sitúa a Lewis como el pensador que explica el sufrimiento como «megáfono de Dios para despertar a un mundo sordo». La esperanza de Gehrig —pronunciando «el hombre más afortunado sobre la faz de la tierra»— dialoga con el Lewis que enseña que la esperanza no es optimismo ingenuo, sino confianza en un Dios que «ha saturado el sufrimiento humano hasta las profundidades del infierno». Lewis ofrece el marco teórico que el deportista no solo soporta, sino que transforma su sufrimiento en testimonio de fe.
+
+**El amor como don irreductible (12_science.md):** En la reflexión sobre Gehrig, Lewis distingue que el amor —«la cosa más importante del mundo y la razón de nuestra existencia»— deja mudo a un ordenador: «El amor se recibe y se ofrece, no se fabrica y se distribuye. Es un don de Dios, puro y simple»». Esta enseñanza de Lewis, aplicada al deporte, muestra que el cariño de los fanáticos, la camaradería del equipo y la entrega a la causa trascienden el mero cálculo: el atleta virtuoso ama por encima de la victoria.
+
 ## Relevancia teológica
 
 Lewis demuestra que la sátira, la fantasía y el humor pueden ser vehículos de ortodoxia. Aunque anglicano, su antropología (ley moral natural, deseo, razón) es plenamente armonizable con la tradición católica y ha sido recibida como tal.
 
 ## Ver también
 
-[[j_r_r_tolkien]], [[sátira]], [[humor]], [[g_k_chesterton]], [[verdad]], [[inteligencia_artificial]]
+[[j_r_r_tolkien]], [[sátira]], [[humor]], [[g_k_chesterton]], [[verdad]], [[inteligencia_artificial]], [[sufrimiento]], [[esperanza]], [[amor]]
 
 ## Referencias
 
@@ -61,3 +69,4 @@ Lewis demuestra que la sátira, la fantasía y el humor pueden ser vehículos de
 - EAC-15, archivo 11 (Ken May), *Suffering and the Limits of Medicine*
 - EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (12_art.md; 10_minds.md; 04_midnight_oil.md; 05_lives.md).
 - EAC-19, *Evangelization & Culture, Issue 19 — Artificial Intelligence* (Word on Fire Institute), 10_spotlight_ressourcement.md (Jason Paone, «Broad and Deep: Why We Need the New Ressourcement»).
+- EAC-20, *Evangelization & Culture, Issue 20 — Sport* (Word on Fire Institute), 12_science.md (*The Problem of Pain* como marco del sufrimiento deportivo).

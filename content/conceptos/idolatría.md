@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Idolatría
 tags: ["moral"]
 
-timestamp: 2026-09-07
-description: "Pecado contra el primer mandamiento del Decálogo que consiste en tributar a una criatura —ídolo, persona, poder, riqueza o cualquier realidad creada— la adoración debida solo a Dios."
+timestamp: 2026-09-08
+description: "Pecado contra el primer mandamiento que tributa a una criatura la adoración debida a Dios; el deporte se vuelve ídolo cuando el apego al juego suplanta el amor divino."
 ---
 # Idolatría
 
 > Área: Moral
-> Última actualización: 2026-09-07
+> Última actualización: 2026-09-08
 
 ## Definición
 
@@ -60,6 +60,14 @@ Kathryn Jean Lopez ofrece una confesión de «recuperada adicta a las noticias»
 
 **El faraón artificial (Hoopes).** El temor a la IA se presenta como «un descenso de vuelta a los amos de esclavos de Egipto», a los días en que «surgió un nuevo rey sobre Egipto, que no conocía a José» (Éx 1,8-11). Sería «la suprema ironía que todo nuestro ingenio, divorciado de Dios, no haya hecho sino construir un amo de esclavos nuevo y mayor». La IA podría ser «un faraón artificial que nos recluta en un vasto ejercicio de construcción de monumentos piramidales a Mamón, en un proyecto que no podemos vislumbrar porque su alcance es demasiado grande para que una mente humana lo abarque» [EAC-19, 22_peripheries.md, L67-69].
 
+### Según Evangelization & Culture n.º 20 «Sport» (EAC-20)
+
+**El deporte como ídolo contemporáneo (18_feature_declue.md):** Dr. Richard DeClue advierte: «obsesionarse con el deporte podría convertirse en un ídolo». Si un cónyuge o padre gasta tiempo y energía exorbitantes en el deporte —jugando o mirando— y falla en los deberes de su vocación, hay que «reevaluar el papel que se le ha dado al deporte». El deporte, bueno en sí, se vuelve ídolo cuando el apego al placer del juego se prefiere al amor de Dios, llegando a ser pecado mortal (SmTh 2-2.168.3). La templanza y la eutrapelia son las virtudes que evitan esta deriva.
+
+**El icono vs. el ídolo (14_art_icons.md):** Cory Heimann usa el logo Jumpman (el salto de Jordan) como caso de estudio: la iconografía deportiva busca la trascendencia, pero «el arte católico no termina en la belleza del atleta; termina en la cruz». El ídolo se detiene en la imagen y la adora; el icono apunta más allá de sí mismo. El deporte sin la cruz es ídolo; con la cruz, es icono.
+
+**Las reglas contra la idolatría del yo (03_word_from_institute.md):** Matthew Petrusek muestra que las reglas del juego liberan de la tiranía del propio querer: «las reglas crean el ámbito mental y físico donde tiene lugar toda la acción». Ganar no es jugar con las propias reglas, sino jugar según las reglas por amor a la bondad del juego. La sumisión a reglas externas es antídoto contra la idolatría del yo autónomo.
+
 ## Relaciones doctrinales
 
 La idolatría se opone a la [[adoración]] debida a Dios, viola el [[primer_mandamiento]] y vicia la virtud de la [[religión]]. Se distingue de la [[superstición]] (que da culto al verdadero Dios de modo indebido) y de la [[herejía]] (error intelectual sobre la fe).
@@ -79,3 +87,4 @@ La idolatría se opone a la [[adoración]] debida a Dios, viola el [[primer_mand
 - [EAC-8, Issue 8 «Humor», archivos 13, 18]
 - [EAC-3, Issue 3 «The Digital Age», archivo 14 (Lopez)]
 - Evangelization & Culture, Issue 19 (EAC-19): 01_from_the_desk.md, 16_feature_vukov.md, 22_peripheries.md
+- [EAC-20, 18_feature_declue.md, 14_art_icons.md, 03_word_from_institute.md]

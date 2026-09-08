@@ -2,14 +2,14 @@
 type: Persona
 title: "Tod Worner"
 tags: ["editores", "autores_word_on_fire", "laicado"]
-timestamp: 2026-09-07
-description: "Tod Worner, médico internista, editor gerente de Evangelization & Culture y host del podcast de la revista."
+timestamp: 2026-09-08
+description: "Médico internista, editor gerente de Evangelization & Culture y host del podcast; testimonio de conversión aplicado al deporte y la tecnología."
 ---
 
 # Tod Worner
 
 > Área: Personas / Editores
-> Última actualización: 2026-09-07
+> Última actualización: 2026-09-08
 
 ## Contexto histórico
 
@@ -43,11 +43,22 @@ En la entrevista «Spotlight: Bishop Barron on Conversion» (18_spotlight_barron
 
 En la entrevista «Spotlight: Broad and Deep: Why We Need the New Ressourcement» (10_spotlight_ressourcement.md), Worner conversa como entrevistador con el Dr. [[jason_paone]], editor de Word on Fire Academic, sobre la nueva revista académica *The New Ressourcement*: su título como homenaje al movimiento *ressourcement* del siglo XX (renovación por la vuelta a la Escritura y a los Padres y Doctores de la Iglesia), la confianza en que «los cristianos somos un pueblo del libro» y el objetivo de devolver la cultura intelectual católica al centro de la vida académica occidental.
 
+### Según Evangelization & Culture n.º 20 «Sport» (EAC-20)
+
+Como editor gerente, Worner abre y cierra el número sobre deporte con piezas que conectan su expertise en conversión y tecnología con la dimensión espiritual del juego:
+
+**La conversión del baloncestista Michael Adams (10_spotlight_adams.md):** Worner entrevista a Adams, cuyo retorno al béisbol (y a la Iglesia) se erigió en un testimonio de perseverancia diaria: «cada día es una elección de volver a elegir a Dios». Adams describe el béisbol como la escuela que lo conectó a la fe: «el deporte me dio la disciplina para seguir adelante cuando todo parecía perdido». Worner señala que la conversión no fue un evento único sino una práctica continua —como la que describió en EAC-18 sobre la conversión—, ahora aplicada al plano deportivo: el jugador virtuoso, como el converso, debe «tirar su manto» (Bartimeo) y seguir a Jesús.
+
+**La odisea de Mike Piazza (20_special_feature_piazza.md):** Worner co-escribe con Piazza el testimonio del catcher que, draft en la ronda 62, llegó al Salón de la Fama. Su fe católica —Misa diaria, Rosario, Adoración— fue el ancla durante lesiones, slumps y dudas. Worner estructura la narración como un relato de provi-dencia: cada reto fue usado por Dios; «la fe me dio la fuerza para seguir cuando el cuerpo quería rendirse». La entrevista refuerza la visión de Worner sobre la tecnología (EAC-19): no es el talento o la estadística lo que redime, sino la entrega de la persona a un plan más grande.
+
+**La poesía del juego (04_midnight_oil.md):** Worner ofrece una breve reflexión sobre la estética del deporte: el béisbol, como las poesías de Frost y Hopkins que citó en EAC-19, es «un don que se recibe y se ofrece, no se fabrica». El deporte, cuando se juega con gracia, irradia una belleza que apunta más allá del resultado: «el juego bien jugado por el amor al juego es una forma de oración».
+
 ## Ver también
 
-[[robert_barron]], [[antonin_scalia]], [[conversión]], [[conversión_continua]], [[encarnación]], [[rito_de_iniciación_cristiana_de_adultos]], [[eucaristía]], [[rosario]], [[inteligencia_artificial]], [[jason_paone]], [[ressourcement]], [[unidad_alma_cuerpo]]
+[[robert_barron]], [[antonin_scalia]], [[conversión]], [[conversión_continua]], [[encarnación]], [[rito_de_iniciación_cristiana_de_adultos]], [[eucaristía]], [[rosario]], [[inteligencia_artificial]], [[jason_paone]], [[ressourcement]], [[unidad_alma_cuerpo]], [[perseverancia]], [[vin_scully]], [[lou_gehrig]], [[mike_piazza]], [[eunice_kennedy_shriver]], [[san_sebastián]], [[c_s_lewis]]
 
 ## Referencias
 
 - EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (Tod Worner, 04_midnight_oil.md y 18_spotlight_barron_on_conversion.md).
 - EAC-19, *Evangelization & Culture, Issue 19 — Artificial Intelligence* (Spring 2024), Word on Fire Institute (Tod Worner, 04_midnight_oil.md y 10_spotlight_ressourcement.md).
+- EAC-20, *Evangelization & Culture, Issue 20 — Sport* (Summer 2024), Word on Fire Institute (Tod Worner, 10_spotlight_adams.md, 20_special_feature_piazza.md, 04_midnight_oil.md).

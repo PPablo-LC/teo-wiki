@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Sufrimiento
 tags: ["dogmática", "moral"]
 
-timestamp: 2026-06-05
-description: "El sufrimiento es la experiencia del mal que afecta al hombre en su cuerpo y su espíritu."
+timestamp: 2026-09-08
+description: "El sufrimiento es la experiencia del mal en cuerpo y espíritu; en la cruz se revela valor redentor, testimoniado en el deporte como gracia a través del dolor."
 ---
 # Sufrimiento
 
 > Área: Dogmática / Moral
-> Última actualización: 2026-06-05
+> Última actualización: 2026-09-08
 
 ## Definición
 
@@ -50,6 +50,11 @@ De Lubac describe el sufrimiento como un arte del consentimiento: «El arte de s
 
 Fundamentalmente, «la agonía de Cristo continúa hasta el fin del mundo» [PoF, cap. 13]. Nuestro sufrimiento no es ajeno al de Cristo sino participación en él. El mal no es mera ausencia de bien (privación) sino una realidad terrible: «el mal es el No, una fuerza que se opone, que quiere la nada» —no solo carencia sino antagonismo activo [PoF, cap. 13]. El sufrimiento debe vivirse en el Presente de Dios, no en la mera sucesión temporal.
 
+### Según Evangelization & Culture n.º 20 «Sport» (EAC-20)
+
+**La gracia a través del sufrimiento (12_science.md):** La ELA de Lou Gehrig, leída a la luz de C.S. Lewis (*El problema del dolor*), muestra el sufrimiento como «martillo» de Dios que esculpe el alma. Lewis distingue entre el dolor como «megáfono de Dios para despertar a un mundo sordo» y el sufrimiento voluntariamente unido a la cruz. Gehrig, enfrentando una enfermedad terminal incurable, pronunció su famoso discurso («el hombre más afortunado sobre la faz de la tierra»), transformando su sufrimiento en testimonio de gratitud y esperanza. El sufrimiento deportivo —lesiones, derrotas, declive físico— se revela así como escuela de la cruz: el cuerpo que se quebranta puede ser ocasión de gracia.
+
+**El boxeo y el sufrimiento redentivo (07_film.md):** Matthew Becklo muestra cómo el boxeo encarnó una espiritualidad católica del sufrimiento: el atleta «castiga su cuerpo y lo pone en servidumbre» (1 Cor 9,25-27). James J. Braddock vivió el sufrimiento de la Gran Depresión —hambre, humillación, lesión— no como derrota sino como camino de providencia. La conexión entre católicos y boxeo es «un instinto por la convergencia de lo espiritual y lo físico en la misma historia de gracia dolorosa».
 
 ## Distinciones importantes
 
@@ -79,3 +84,4 @@ Se relaciona con [[cruz]], [[pasión_de_cristo]], [[redención]], [[dolor]], [[p
 
 - VocTeoBib, artículo «Sufrimiento», Xavier León-Dufour (ed.)
 - Job; Is 53; Mc 8,34; Rom 5,3-5; Col 1,24; 2 Cor 12,9-10; Ap 21,4
+- [EAC-20, 12_science.md (Gehrig/Lewis), 07_film.md (Becklo)]

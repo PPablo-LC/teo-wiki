@@ -1,15 +1,15 @@
 ---
 type: Persona
 title: Juan Pablo II
-tags: ["personajes_—_papas"]
+tags: ["papas", "moral", "espiritualidad", "teología_spiritual"]
 
-timestamp: 2026-09-07
-description: "Karol Józef Wojtyła (Wadowice, Polonia, 18 de mayo de 1920 — Ciudad del Vaticano, 2 de abril de 2005)."
+timestamp: 2026-09-08
+description: "Papa Juan Pablo II (1920-2008); su pensamiento en deporte, tecnología, espiritualidad y nueva evangelización, con fundamento en 2 Tim 4:7 y la teología de la caridad."
 ---
 # Juan Pablo II
 
-> Área: Personajes — Papas
-> Última actualización: 2026-09-07
+> Área: Papas / Espiritualidad / Nueva evangelización
+> Última actualización: 2026-09-08
 
 ## Contexto histórico
 
@@ -47,6 +47,12 @@ Juan Pablo II promulgó la Carta Apostólica *Motu Proprio data* «Sacramentorum
 
 En el artículo «Lives: Saint Dymphna's Aid for AI Anxieties» (05_lives.md), Angela M. Jendro cita al Papa Juan Pablo II para fundamentar la dignidad de quienes sufren enfermedad mental ante la ansiedad generada por la [[inteligencia_artificial]]. Recordando las palabras de Cristo «"Fui enfermo y me visitasteis"» (Mt 25, 36), el Papa afirma: «Cristo tomó sobre sí todo sufrimiento humano, incluso la enfermedad mental» ["Mentally Ill Are Also Made in God's Image", EWTN, 30 de noviembre de 1996]. La cita enmarca la respuesta cristiana a la ansiedad tecnológica: como Santa Dimfna —patrona de los enfermos mentales, cuya intercesión sostiene la comunidad de acogida familiar de Geel (Bélgica)— el santo ve los sufrimientos ajenos «con los ojos de Dios», que se compadece y alivia; la [[inteligencia_artificial]] no suple la compasión, que sigue siendo misión de la Iglesia.
 
+### Según Evangelization & Culture n.º 20 «Sport» (EAC-20)
+
+**El deporte como "atteggiamento di redenzione" (18_feature_declue.md):** En su homilía del Jubileo del Redentor en el Estadio Olímpico de Roma (12 de abril de 1984), el Papa desarrolla la analogía de San Pablo entre la vida cristiana y una carrera (1 Cor 9,24-27): «San Pablo estableció la actitud cristiana hacia el deporte… una actitud de respeto, estima, aun corrigiendo y elevando: en una palabra, una actitud de redención». No se trata de rechazar el deporte ni de huir del mundo, sino de «redimirlo» desde el cristianismo: el deporte sirve al desarrollo integral del ser humano cuando se practica con dignidad y virtud. El Papa distingue tres dimensiones: (1) el atleta como símbolo del esfuerzo por la excelencia; (2) la competencia como escuela de superación no egoísta; (3) la victoria como metáfora de la gracia santificante.
+
+**El deporte como camino espiritual (23_soul.md):** En su homilía del Jubileo de los Deportistas (29 de octubre de 2000), Juan Pablo II afirma: «el deporte puede enseñar mucho sobre la fe y la vida». Las reglas del juego, la disciplina del entrenamiento y la camaradería del equipo son «parábolas del camino espiritual». El Papa insta a los atletas a usar su plataforma para ser «luz del mundo»: «el que da lo mejor de sí, da gloria a Dios». Su mensaje central: el deporte, cuando se vive con fe, es una escuela de caridad, humildad y perseverancia —virtudes que el Papa conecta con su teología de la caridad redentora.
+
 ## Ver también
 
 [[benedicto_xvi]], [[papa_francisco]], [[león_xiv]], [[papa]], [[catecismo_de_la_iglesia_católica]], [[nueva_evangelización]], [[movimientos_eclesiales]], [[regnum_christi]], [[inteligencia_artificial]]
@@ -63,3 +69,4 @@ En el artículo «Lives: Saint Dymphna's Aid for AI Anxieties» (05_lives.md), A
 - Juan Pablo II, Discurso a los participantes de Comunión y Liberación (12 septiembre 1985)
 - [RC-MovEcles-2014, A-D]
 - EAC-19, *Evangelization & Culture, Issue 19 — Artificial Intelligence* (Word on Fire Institute), 05_lives.md (Angela M. Jendro, «Saint Dymphna's Aid for AI Anxieties»); cita de Juan Pablo II, «Mentally Ill Are Also Made in God's Image», EWTN, 30 noviembre 1996.
+- EAC-20, *Evangelization & Culture, Issue 20 — Sport* (Word on Fire Institute), 18_feature_declue.md (homilía Jubileo del Redentor, 12 abril 1984) y 23_soul.md (homilía Jubileo de los Deportistas, 29 octubre 2000)

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Esperanza
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-08-22
-description: "La esperanza es la segunda de las virtudes teologales, virtud infusa sobrenatural por la que deseamos y esperamos de Dios la vida eterna y los medios necesarios para alcanzarla."
+timestamp: 2026-09-08
+description: "La esperanza es la virtud teologal que espera de Dios la vida eterna, testimoniada en el deporte como ancla en el sufrimiento y confianza en la providencia más allá del resultado."
 ---
 # Esperanza
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-08-22
+> Última actualización: 2026-09-08
 
 ## Definición
 
@@ -164,6 +164,14 @@ El número 6 de *Evangelization & Culture* está enteramente dedicado a la esper
 - **Contra la falsa esperanza política** (D.C. Schindler sobre Hegel; Whittington sobre Voegelin): toda [[imanentización_del_escatón]] — hacer el cielo con medios políticos — es una falsificación de la esperanza teologal; termina en hastío (Kojève) o terror. Véase [[imanentización_del_escatón]].
 - **«¡Ven, Señor Jesús!»** (Barron; Petiprin): Ap 22,20 como síntesis de la actitud escatológica cristiana frente a la certeza de la muerte y del fin.
 
+### Según Evangelization & Culture n.º 20 «Sport» (EAC-20)
+
+**La esperanza en la ELA de Gehrig (12_science.md):** La enfermedad terminal de Lou Gehrig, interpretada con C.S. Lewis, muestra la esperanza que trasciende el diagnóstico: su famoso discurso («el hombre más afortunado») no nace de la negación, sino de la virtud teologal que ve más allá del sufrimiento presente. Lewis enseña que el dolor es el «megáfono de Dios para despertar a un mundo sordo»; Gehrig responde con gratitud y esperanza, no con desesperación. La esperanza deportiva —la creencia de que el próximo juego puede ser diferente— se convierte en icono de la esperanza cristiana: la certeza de que la cruz no tiene la última palabra.
+
+**La fe como ancla de esperanza de Mike Piazza (20_special_feature_piazza.md):** Tod Worner narra cómo la Misa diaria y el Rosario fueron la «ancla de esperanza» de Piazza durante lesiones, slumps y dudas. La esperanza no era optimismo deportivo («vamos a ganar»), sino confianza teologal: «la fe me dio la fuerza para seguir cuando el cuerpo quería rendirse». La carrera de Piazza —draft en la ronda 62, convertido en leyenda— es parábola de la esperanza cristiana: Dios escribe recto con líneas torcidas.
+
+**La esperanza como entrega vocacional (21_spotlight_masters.md):** Fr. Burke Masters describe su transición de aspirante a ejecutivo de Grandes Ligas a sacerdote como un acto de esperanza: «la batalla continúa». La Adoración eucarística fue el espacio donde la esperanza se hizo concreta: no saber el futuro, pero confiar en quien lo tiene. El deporte enseña que «no ha terminado hasta que termina» (Yogi Berra), y la esperanza cristiana lleva esa verdad a la eternidad.
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[virtud_de_la_esperanza]]
@@ -189,3 +197,4 @@ Ver artículo principal: [[virtud_de_la_esperanza]]
 - Denzinger D-1331–D-1332, D-1337 (Inocencio XII, *Cum alias*)
 - Evangelization & Culture, Issue 6 — Hope (EcC6): §§01-17 (Worner, Becklo, Maher, Scalia, Petiprin, Morson, Havlicek, Zimmerer, Stewart, Seewald, Hooten Wilson, Garrett)
 - Evangelization & Culture 11 (Spring 2022): DeClue «Last Things First»; Millare «It's the End of the World as Ratzinger Knows It».
+- [EAC-20, 12_science.md (Gehrig/Lewis), 20_special_feature_piazza.md (Worner), 21_spotlight_masters.md]
