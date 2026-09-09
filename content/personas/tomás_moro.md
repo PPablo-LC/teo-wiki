@@ -53,6 +53,20 @@ El análisis destaca que la fortaleza cristiana frente al poder injusto no es un
 
 La reflexión subraya también la relevancia contemporánea del testimonio de Moro: en una época en que la presión cultural y política sobre los creyentes se ejerce de manera más sutil pero no menos efectiva que en el siglo XVI, el ejemplo de Moro muestra que la fidelidad a la conciencia formada por la fe puede tener un costo enorme, pero que ese costo es asumible cuando se tiene la certeza de que «se está hecho para otro mundo».
 
+### Word on Fire Institute (EAC-21)
+
+Angela Jendro, en «Lives: St. Thomas More, the Model of Integrity and Allegiance» (05_lives.md), presenta a Tomás Moro como paradigma de integridad y lealtad en la vida pública, con especial énfasis en su declaración como patrono de los estadistas y políticos por San Juan Pablo II.
+
+**San Juan Pablo II y el motu proprio del 2000.** Jendro cita el motu proprio de Juan Pablo II *Proclaiming Saint Thomas More Patron of Statesman and Politicians* (31 de octubre de 2000), en el que el Papa declara a Moro patrono de los estadistas y políticos porque encarna la armonía entre lo natural y lo sobrenatural: «Esta armonía entre lo natural y lo sobrenatural es quizás el elemento que más que cualquier otro define la personalidad de este gran estadista inglés: vivió su intensa vida pública con una humildad sencilla marcada por buen humor, incluso en el momento de su ejecución».
+
+**La formación de Moro.** Jendro detalla la trayectoria formativa de Moro: nacido el 7 de febrero de 1478 en Londres, su padre —un juez prominente— guió su formación hacia la carrera jurídica. Estudió en la prestigiosa St. Anthony's School, luego fue paje de John Morton, Arzobispo de Canterbury y Lord Canciller, quien lo envió a Oxford para estudiar latín, griego, francés, lógica formal, matemáticas, historia y música. More no limitó sus estudios al derecho: asistió a los ejercicios espirituales de un monasterio cartujo, estudió las Escrituras y los Padres de la Iglesia con sus habilidades lingüísticas, y impartió conferencias sobre *La Ciudad de Dios* de San Agustín.
+
+**Las Bienaventuranzas como regla de vida.** Jendro sostiene que Moro vivía fielmente las Bienaventuranzas (Mt 5,2-12), el corazón de la Nueva Ley, de las que «el aroma de Cristo» perfumaba su trabajo y su vida política. Su pobreza de espíritu y sed de justicia lo llevaron a priorizar la confianza en Dios sobre la dependencia del poder secular. Como juez, fue conocido por su eficiencia y equidad, y por su preocupación por los pobres. Al inicio de su carrera, enojó al Rey Enrique VII al bloquear exitosamente un intento de cobrar impuestos injustamente elevados.
+
+**La resistencia ante Enrique VIII.** Cuando Enrique VIII buscó la anulación de su matrimonio con Catalina de Aragón, Moro fue fiel a su deber pero solo pudo concluir que el matrimonio era válido. La solución propuesta por Ana Bolena y otros fue separarse de Roma y convertir al rey en cabeza de la Iglesia en Inglaterra. Moro se negó: «Toda la gente sabía que Enrique VII estaba equivocado, pero nadie se atrevió a decir nada, excepto More». Renunció al cargo de Lord Canciller y se preparó para la pobreza y probablemente la muerte.
+
+**El martirio y las últimas palabras.** Durante su encarcelamiento en la Torre de Londres, su juicio y ejecución, Moro exudó la bienaventuranza de la mansedumbre. Ante el cadalso, bromeó con su verdugo pidiéndole que lo ayudara a subir, pero que para bajar lo haría solo. Sus últimas palabras ante la multitud fueron: «Muero el buen siervo del rey, pero primero de Dios» (*I die the king's good servant and God's first*).
+
 ## Relaciones doctrinales
 
 La vida y el martirio de Tomás Moro conectan con múltiples temas teológicos y éticos:
@@ -67,11 +81,13 @@ La vida y el martirio de Tomás Moro conectan con múltiples temas teológicos y
 
 ## Ver también
 
-[[martirio]], [[conciencia_moral]], [[libertad_religiosa]], [[theo-drama]], [[cine]], [[ley_natural]], [[acta_de_supremacía]], [[enrique_viii]], [[utmófia]]
+[[martirio]], [[conciencia_moral]], [[libertad_religiosa]], [[theo-drama]], [[cine]], [[ley_natural]], [[acta_de_supremacía]], [[enrique_viii]], [[utopía]]
 
 ## Referencias
 
 - WoF-4, análisis de *A Man for All Seasons* como theo-drama (Leah Susanka).
+- EAC-21, 05_lives.md (Angela Jendro), «Lives: St. Thomas More, the Model of Integrity and Allegiance»
+- John Paul II, *Proclaiming Saint Thomas More Patron of Statesman and Politicians*, motu proprio, 31 de octubre de 2000
 - Bolt, Robert, *A Man for All Seasons* (1960).
 - More, Thomas, *Utopia* (1516).
 - Ackroyd, Peter, *The Life of Thomas More* (1998).

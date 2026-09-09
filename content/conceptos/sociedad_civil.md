@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Sociedad civil
 tags: ["doctrina_social"]
 
-timestamp: 2026-05-25
+timestamp: 2026-09-09
 description: "Conjunto de relaciones y de recursos culturales y asociativos relativamente autónomos del ámbito político y del económico."
 ---
 # Sociedad civil
 
 > Área: Doctrina Social
-> Última actualización: 2026-05-25
+> Última actualización: 2026-09-09
 
 ## Definición
 
@@ -28,6 +28,12 @@ La comunidad política se constituye para servir a la sociedad civil, de la cual
 La sociedad civil es un conjunto de relaciones y de recursos, culturales y asociativos, relativamente autónomos del ámbito político y del económico [CompDS §417]. La comunidad política y la sociedad civil no son iguales en la jerarquía de los fines: la sociedad civil tiene la preeminencia, ya que es precisamente ella la que justifica la existencia de la comunidad política [CompDS §418].
 
 La comunidad política debe regular sus relaciones con la sociedad civil según el principio de subsidiariedad [CompDS §419]. Las actividades de la sociedad civil —voluntariado y cooperación en el ámbito privado-social— constituyen las modalidades más adecuadas para desarrollar la dimensión social de la persona [CompDS §419].
+
+### Según Word on Fire Institute (EAC-21)
+
+**Asociaciones, religión y la fuerza de la sociedad civil.** Paul Krause, glosando a Tocqueville, señala que el genius de la democracia americana radicaba en la combinación del espíritu de religión con el espíritu de libertad. En las primeras colonias, la iglesia era el centro de la vida comunal; los colonos se reunían como congregación para gobernar tanto lo espiritual como lo temporal. Este modelo de asociaciones voluntarias, enraizado en la fe cristiana, constituyó la columna vertebral de la sociedad civil. Tocqueville reconoció que el catolicismo florecía en la república democrática americana precisamente por la énfasis católica en la igualdad humana: «En los puntos doctrinales la fe católica coloca todas las capacidades humanas sobre el mismo nivel» [EAC-21, 07]. Krause advierte que la pérdida de la religión destruiría la unidad invisible de los ciudadanos y llevaría al despotismo mayoritario, por definición tiránico aunque «democrático».
+
+**Dignidad, subsidiariedad y equilibrio democrático.** La sociedad civil funciona como espacio intermedio entre el individuo y el Estado, sostenido por las virtudes y la moderación de los ciudadanos. Bishop Barron señala que la democracia no solo implica regla del pueblo, sino también la existencia de instituciones intermedias —prensa libre, organizaciones religiosas y civiles— que actúan como contrapeso al poder estatal. Un gobierno limitado presupone una sociedad civil robusta capaz de suplir las necesidades que el Estado no debe ni puede suplir, en línea con el principio de subsidiariedad [EAC-21, 09].
 
 ## Relaciones doctrinales
 

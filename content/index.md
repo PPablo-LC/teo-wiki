@@ -3,7 +3,7 @@ tags:
   - meta
   - index
 title: Wiki Index
-updated: '2026-09-08'
+updated: '2026-09-09'
 note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts/regenerar-indice.py'
 ---
 
@@ -437,6 +437,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[cisma_fociano]]
 - [[ciudad_de_dios]]
 - [[ciudadanía]]
+- [[ciudadanía_celestial]]
 - [[civilización_del_amor]]
 - [[civilización_y_cultura]]
 - [[claridad]]
@@ -681,6 +682,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[crisis_de_la_teología_moral]]
 - [[crisis_modernista]]
 - [[crisma]]
+- [[cristianismo_y_política]]
 - [[cristiano_virtuoso_y_participación_plena]]
 - [[cristianos_laicos]]
 - [[cristificación]]
@@ -802,6 +804,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[derechos_de_los_fieles]]
 - [[derechos_de_los_trabajadores]]
 - [[derechos_humanos]]
+- [[derechos_inalienables]]
 - [[derechos_y_deberes_de_los_fieles]]
 - [[desaliento]]
 - [[desapego]]
@@ -1341,6 +1344,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[gobierno_del_mundo]]
 - [[gobierno_divino]]
 - [[gobierno_religioso]]
+- [[gobierno_representativo]]
 - [[golpe_de_estado]]
 - [[gozo]]
 - [[gozo_espiritual]]
@@ -1737,6 +1741,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[libertad_religiosa]]
 - [[libertad_trascendental]]
 - [[libertad_y_amor]]
+- [[libido_dominandi]]
 - [[libre_albedrío]]
 - [[libro]]
 - [[libro_de_job]]
@@ -2895,6 +2900,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[sintaxis_vs_semántica]]
 - [[sión]]
 - [[soberanía]]
+- [[soberanía_popular]]
 - [[soberbia]]
 - [[soberbia_intelectual]]
 - [[sobrenatural]]
@@ -2989,6 +2995,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[teología_natural]]
 - [[teología_negativa]]
 - [[teología_nupcial]]
+- [[teología_política]]
 - [[teología_trinitaria]]
 - [[teólogo]]
 - [[tercer_mandamiento]]
@@ -3117,6 +3124,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[valdenses]]
 - [[valía_personal]]
 - [[validez_canónica]]
+- [[valores_predemocráticos]]
 - [[vanagloria]]
 - [[vanidad]]
 - [[varón_y_mujer]]
@@ -3299,6 +3307,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 ### A (Personas)
 
 - [[abraham]]
+- [[abraham_lincoln]]
 - [[abraham_simple]]
 - [[acacio_constantinopla]]
 - [[adán]]
@@ -3312,6 +3321,8 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[alejandro_iii]]
 - [[alejandro_vii]]
 - [[alejandro_viii]]
+- [[aleksandr_solzhenitsyn]]
+- [[alexis_de_tocqueville]]
 - [[alfred_delp]]
 - [[alfred_hitchcock]]
 - [[alvaro_corcuera]]
@@ -3333,6 +3344,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[bart_cummings]]
 - [[bart_ehrman]]
 - [[bartolomé_de_las_casas]]
+- [[bashar_matta_warda]]
 - [[beata_edith_stein]]
 - [[beato_carlo_acutis]]
 - [[beato_stanley_rother]]
@@ -3402,9 +3414,11 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[dióscoro]]
 - [[dorothy_day]]
 - [[duns_escoto]]
+- [[dwight_eisenhower]]
 
 ### E (Personas)
 
+- [[edmund_burke]]
 - [[eduardo_robles_gil]]
 - [[edward_feser]]
 - [[elías]]
@@ -3612,6 +3626,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[pío_viii]]
 - [[pío_xi]]
 - [[pío_xii]]
+- [[platón]]
 - [[prisciliano]]
 - [[próspero_de_aquitania]]
 - [[pseudo-dionisio_areopagita]]
@@ -3743,6 +3758,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[teresa_neumann]]
 - [[terrence_malick]]
 - [[thomas_clemmons]]
+- [[thomas_jefferson]]
 - [[thomas_merton]]
 - [[thomas_o'loughlin]]
 - [[tihámer_tóth]]
@@ -3842,6 +3858,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[evangelization_and_culture_issue_19_artificial_intelligence]]
 - [[evangelization_and_culture_issue_1_creativity]]
 - [[evangelization_and_culture_issue_20_sport]]
+- [[evangelization_and_culture_issue_21_democracy]]
 - [[evangelization_and_culture_issue_2_economics]]
 - [[evangelization_and_culture_issue_3_digital_age]]
 - [[evangelization_and_culture_issue_4_cinema]]

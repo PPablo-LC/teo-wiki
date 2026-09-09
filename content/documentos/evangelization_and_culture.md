@@ -47,6 +47,7 @@ tags:
 | 18 | Issue 18 | Conversion | Winter 2023 | [[evangelization_and_culture_issue_18_conversion]] |
 | 19 | Issue 19 | Artificial Intelligence | Spring 2024 | [[evangelization_and_culture_issue_19_artificial_intelligence]] |
 | 20 | Issue 20 | Sport | Summer 2024 | [[evangelization_and_culture_issue_20_sport]] |
+| 21 | Issue 21 | Democracy | Fall 2024 | [[evangelization_and_culture_issue_21_democracy]] |
 
 ## Temas centrales por número
 
@@ -644,9 +645,52 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - Fr. Stephen Gadberry (autor, «Soul»)
 - Amy Hohenecker (entrenadora, «Peripheries»)
 
+### Issue 21: Democracy (Fall 2024)
+
+Para el desarrollo completo de este número, véase [[evangelization_and_culture_issue_21_democracy]].
+- La democracia americana y los derechos inalienables: la Declaración de Independencia de Jefferson —«todos los hombres son creados iguales»— y la crítica a la filosofía política clásica (Platón, Aristóteles, Cicerón) que veía la democracia con escepticismo (Barron)
+- Los valores predemocráticos: la democracia presupone valores (dignidad humana, libertad, igualdad, verdad) que ella misma no puede producir; el gobierno de la mayoría no es idéntico a la justicia; la democracia necesita un fundamento moral (Petrusek)
+- La degradación de la democracia en totalitarismo: la República de Weimar y el Holocausto; el testimonio de Gerda Weissmann Klein; la fragilidad de la democracia cuando pierde sus fundamentos morales (Worner)
+- Santo Tomás Moro, patrono de estadistas y políticos: modelo de integridad y lealtad a la conciencia frente al poder; declarado patrono por Juan Pablo II (2000) (Lives)
+- Tocqueville y la religión como fundamento de la libertad: «Democracy in America»; el «espíritu de religión» y el «espíritu de libertad»; el debate sobre el Christian Nationalism (Krause)
+- Mr. Smith Goes to Washington (Capra 1939): el idealismo cívico frente a la corrupción; la libertad del ciudadano que defiende la verdad mediante el discurso legítimo (Paolelli)
+- Lincoln y el Discurso de Gettysburg; los fundamentos morales y religiosos de la democracia; la libertad auténtica se funda en la verdad (Barron)
+- La República de Platón y la naturaleza de la justicia: la justicia del alma y de la ciudad; la crítica platónica a la democracia (Kaczor)
+- «Is Democracy Ethical?»: la experiencia en Capitol Hill; el gobierno representativo y la deliberación; Buckley, Reagan y Juan Pablo II sobre la democracia —no es un valor absoluto; requiere fundamentos morales— (Hoopes)
+- El Día D y la Orden del Día de Eisenhower: el sacrificio heroico en defensa de la libertad; el arte como memoria (Worner)
+- Los orígenes cristianos de la política americana: la conferencia de Ratzinger (1992) sobre la verdad y la política; las Lawes Divine de Jamestown; Tocqueville (Cooper)
+- ¿Hay una teología de América?: la Declaración de Independencia como causa final y la Constitución como causa formal; Jefferson; los Federalist Papers; la providencia en la fundación (Arnn)
+- La democracia ateniense (c. 508–322 a.C.): la asamblea y la participación; la ekklesia; la democracia directa; sus límites y su legado (Bakewell)
+- Solzhenitsyn en Harvard (1978): la crítica al materialismo y la decadencia espiritual de Occidente; la valentía moral frente a la tiranía (Morson)
+- La Ciudad de Dios de Agustín (Hanby): la teología de la historia; las dos ciudades; el libido dominandi; la crítica a la teología política; la providencia en la historia
+- Chesterton y The Everlasting Man: refutación del materialismo de H.G. Wells; el hombre distinto de la bestia; la Encarnación como centro de la historia; la Iglesia como mensajera
+- La primacía de Cristo y la ciudadanía celestial: Daniel en el exilio; 1 Pe 2,11 (forasteros y peregrinos); Filipos «pequeña Roma»; nuestra ciudadanía está en el cielo (Fil 3,20) (Andrie)
+- Los católicos iraquíes: Arzobispo Bashar Matta Warda; la persecución; los cristianos de Oriente Medio (20% → <4%); las raíces apostólicas (Tomás, Addai, Mari) (Thompson)
+- Poesía: «At the Tomb of Napoleon» (Alan Seeger) y la vanidad del poder; epígrafe de Edmund Burke; «Immigrants» (Angela Alaimo O'Donnell) y Emma Lazarus
+- La misión de Manny Marquez en Tulsa: la Misa Tradicional Latina y el apostolado laical (Mission)
+- Meditatio & Contemplatio: 8 preguntas de reflexión sobre ciudadanía, verdad e integridad; epígrafe de Tocqueville
+
+- Bishop Robert Barron (director, Word on Fire)
+- Dr. Matthew R. Petrusek (filosofía, Word on Fire Institute)
+- Tod Worner (Managing Editor)
+- Gary Saul Morson (feature, Solzhenitsyn)
+- Larry P. Arnn (Presidente, Hillsdale College)
+- Dr. Michael Hanby (feature, Agustín)
+- Dr. Christopher Kaczor (filosofía, «Minds»)
+- Tom Hoopes (autor, «Ethics»)
+- Sarah Bakewell (autora, «Athenian Democracy»)
+- James M. Cooper (feature, los orígenes cristianos de la política americana)
+- Dr. Paul Krause (autor, «Stacks: Tocqueville»)
+- Matthew Paolelli (autor, «Film»)
+- Zelda Caldwell (autora, «Lives: St. Thomas More»)
+- Fr. Leonard Andrie (autor, «Soul»)
+- Brenden Thompson (autor, «Peripheries»)
+- Manny Marquez (testimonio, «Mission»)
+- Angela Alaimo O'Donnell (poeta, «Immigrants»)
+
 ## Relación con otras fuentes
 
-Esta fuente complementa los artículos sobre [[evangelización]], [[evangelización_digital]], [[medios_de_comunicación_social]], [[belleza]], [[arte]], [[doctrina_social_de_la_iglesia]], [[nueva_evangelización]], [[cultura]], [[humor]], [[eutrapelia]], [[alegría_cristiana]], [[poesía]], [[fe_y_razón]], [[eclesiología_de_la_comunión]], [[dignidad_de_la_persona]], [[educación]], [[formación]], [[artes_liberales]], [[educación_católica]], [[conversión]], [[metanoia]], [[kerygma]], [[catecumenado]], [[testimonio_cristiano]], [[inteligencia_artificial]], [[unidad_alma_cuerpo]], [[persona]], [[libre_albedrío]], [[idolatría]], [[tecnología]] y [[tecnocracia_espiritual]]. El número dedicado al deporte (Issue 20) complementa además los artículos sobre [[deporte]], [[juego]], [[ocio]], [[ascesis]], [[disciplina_espiritual]], [[entrenamiento]], [[coaching]], [[vía_purgativa]], [[vía_iluminativa]], [[vía_unitiva]], [[perseverancia]], [[fortaleza]], [[sufrimiento]], [[cruz]], [[redención]], [[santidad]], [[dignidad_humana]], [[inclusión]], [[vocación]], [[gratitud]] y [[esperanza]].
+Esta fuente complementa los artículos sobre [[evangelización]], [[evangelización_digital]], [[medios_de_comunicación_social]], [[belleza]], [[arte]], [[doctrina_social_de_la_iglesia]], [[nueva_evangelización]], [[cultura]], [[humor]], [[eutrapelia]], [[alegría_cristiana]], [[poesía]], [[fe_y_razón]], [[eclesiología_de_la_comunión]], [[dignidad_de_la_persona]], [[educación]], [[formación]], [[artes_liberales]], [[educación_católica]], [[conversión]], [[metanoia]], [[kerygma]], [[catecumenado]], [[testimonio_cristiano]], [[inteligencia_artificial]], [[unidad_alma_cuerpo]], [[persona]], [[libre_albedrío]], [[idolatría]], [[tecnología]] y [[tecnocracia_espiritual]]. El número dedicado al deporte (Issue 20) complementa además los artículos sobre [[deporte]], [[juego]], [[ocio]], [[ascesis]], [[disciplina_espiritual]], [[entrenamiento]], [[coaching]], [[vía_purgativa]], [[vía_iluminativa]], [[vía_unitiva]], [[perseverancia]], [[fortaleza]], [[sufrimiento]], [[cruz]], [[redención]], [[santidad]], [[dignidad_humana]], [[inclusión]], [[vocación]], [[gratitud]] y [[esperanza]]. El número dedicado a la democracia (Issue 21) complementa además los artículos sobre [[democracia]], [[gobierno_representativo]], [[soberanía_popular]], [[derechos_inalienables]], [[bien_común]], [[justicia]], [[sociedad_civil]], [[ciudadanía]], [[libertad_religiosa]], [[laicidad]], [[secularismo]], [[cristianismo_y_política]], [[teología_política]], [[ciudad_de_dios]], [[teología_de_la_historia]], [[providencia_divina]] y [[primacía_de_cristo]].
 
 ## Ver también
 
@@ -674,3 +718,4 @@ Esta fuente complementa los artículos sobre [[evangelización]], [[evangelizaci
 - Evangelization & Culture, Issue 18 (2023) — Conversion
 - Evangelization & Culture, Issue 19 (2024) — Artificial Intelligence
 - Evangelization & Culture, Issue 20 (2024) — Sport
+- Evangelization & Culture, Issue 21 (2024) — Democracy

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Justicia
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-06-09
+timestamp: 2026-09-09
 description: "La justicia es la segunda de las virtudes cardinales, virtud infusa que reside en la voluntad, por la que se da a cada uno lo suyo con voluntad constante y perpetua."
 ---
 # Justicia
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-06-09
+> Última actualización: 2026-09-09
 
 ## Definición
 
@@ -47,6 +47,14 @@ León XIV trató la justicia en su discurso ante el Parlamento español como fun
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 [VocTeoBib, «Justicia»] En el AT la justicia designa tanto la virtud moral de observar la ley como la fidelidad de Dios a su alianza. Dios se muestra justo liberando a los oprimidos (Sal 103,6) y castigando el pecado (Dt 32,4). En el NT, Jesús llama a una justicia superior a la de los fariseos (Mt 5,20). San Pablo desarrolla la justicia de Dios como don gratuito que se recibe por la fe en Cristo (Rom 3,21-26), distinta de la justicia por las obras de la ley (Gal 2,16). Así la justicia divina coincide en última instancia con la misericordia: Dios justifica al pecador por pura gracia.
+
+### Según Word on Fire Institute (EAC-21)
+
+**La justicia en la República de Platón.** Christopher Kaczor recuerda que la pregunta fundamental de la República de Platón es sobre la naturaleza de la justicia. La mayoría no es idéntica a la justicia: las mayorías pueden votar leyes que perpetúen la injusticia. La República puede leerse como una advertencia contra el utopismo —el intento de hacer el cielo en la tierra—, pues Sócrates propone requisitos cada vez más absurdos para lograr una sociedad perfectamente justa, revelando la imposibilidad y el peligro de tal empresa. La palabra que describe ese control absoluto de arriba abajo es «totalitarismo» [EAC-21, 10].
+
+**El mal daña al que lo comete.** Kaczor recuerda el argumento socrático de que el mal daña siempre al malhechor, especialmente en la parte más importante de su ser —el alma—. Así, aunque alguien pudiera hacer lo que quisiera sin consecuencias, le es desventajoso cometer injusticia. Este argumento socrático se repite en San Pablo («No hagamos el mal para que venga el bien», Rm 3,8), en Newman y en Elizabeth Anscombe: «hay ciertas cosas prohibidas cualquiera que sean las consecuencias». La justicia no es mera convención; el daño moral es mayor que el daño físico porque el alma es más importante que el cuerpo [EAC-21, 10].
+
+**Justicia, orden del alma y subsidiariedad.** La lección de Platón para hoy es resistir la tentación del totalitarismo, que surge de la certeza de que nuestras concepciones de justicia son infalibles y deben realizarse por todos los medios posibles. Kaczor conecta esto con el principio católico de subsidiariedad: las decisiones locales deben tomarse a nivel local, y el poder federal solo debe usarse si el nivel inferior no puede lograr lo que necesita. La dignidad humana y la justicia exigen que no se imponga una visión única de la felicidad desde el poder central [EAC-21, 10].
 
 ## Relaciones doctrinales
 

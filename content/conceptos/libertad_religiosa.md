@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Libertad religiosa
 tags: ["doctrina_social", "moral"]
 
-timestamp: 2026-06-20
+timestamp: 2026-09-09
 description: "Derecho fundamental de la persona y de las comunidades a la libertad social y civil en materia religiosa, que consiste en la inmunidad frente a cualquier coacción en el campo religioso."
 ---
 # Libertad religiosa
 
 > Área: Doctrina Social / Moral
-> Última actualización: 2026-06-20
+> Última actualización: 2026-09-09
 
 ## Definición
 
@@ -72,6 +72,14 @@ Robert P. George («On Liberty and Conscience») aporta el fundamento filosófic
 - **Papel social:** la religión sana es institución clave de la sociedad civil: colchón entre individuo y Estado, servicios de salud, educación y bienestar, y capacidad de resistencia profética — como la Iglesia católica ante la tiranía comunista en Polonia.
 - **Límites:** la presunción a favor del respeto es poderosa y amplia, pero no ilimitada: ni sacrificios humanos ni coerción religiosa pueden tolerarse en nombre de la libertad religiosa; el test jurídico (RFRA) exige interés estatal imperativo y medio menos restrictivo.
 - Sheila Liaugminas añade desde *Inter Mirifica* 5 el derecho a la información con responsabilidad moral de veracidad, amenazado hoy por la manipulación del lenguaje editorial.
+
+### Según Word on Fire Institute (EAC-21)
+
+**El espíritu de religión como garantía de libertad.** Paul Krause, glosando a Tocqueville, señala que el «espíritu de religión» y el «espíritu de libertad» estaban indisolublemente unidos en la América fundacional. Los filósofos de la Ilustración sostenían que la fe religiosa decrecería con la difusión de la libertad y el conocimiento, pero Tocqueville demostró lo contrario: en Estados Unidos, la educación, la ilustración y la política estaban íntimamente entrelazadas con el sentido del deber religioso. La religión era «la compañera de la libertad en todas sus batallas y triunfos; la cuna de su infancia y la fuente divina de sus reclamos» [EAC-21, 07].
+
+**Los orígenes cristianos de la libertad religiosa americana.** Kody Cooper recuerda que la enseñanza de la libertad religiosa como derecho natural se remonta a los Padres de la Iglesia, como Tertuliano, y fue revitalizada en la tradición anabaptista por pensadores como Roger Williams. Por tanto, tanto la separación Iglesia-Estado como la libertad religiosa son en sí mismas doctrinas cristianas, derivadas de las enseñanzas de Cristo (Jn 18,36; Mt 22,21). La Primera Enmienda puede verse como producto de ideas cristianas. Ratzinger, en 1992, elogiando a Tocqueville, subrayó que la religión cristiana era «la condición esencial de la libertad» en Estados Unidos y que una «convicción moral fundamental» arraigada en el «cristianismo protestante» sostenía la libertad republicana [EAC-21, 14].
+
+**La religión como límite al poder estatal.** Cooper explica que la existencia de la ley divina es un principio limitador del gobierno humano: solo Dios puede ver en el corazón de los hombres, juzgar infaliblemente todas las acciones y transformar el corazón por la gracia. Cuando los gobiernos civiles intentan arrogarse estas prerrogativas divinas, se revelan como tiránicos. John Adams advirtió que un pueblo irreligioso cuya avaricia, ambición y venganza no esté contenida sería inconstitucional «como una ballena a través de una red»: serían necesarias instituciones de tiranía para mantenerlo en orden. Ratzinger advirtió que, si el nihilismo continúa metastatizándose, el experimento americano de libertad ordenada se vuelve cada vez más precario [EAC-21, 14].
 
 ## Relaciones doctrinales
 

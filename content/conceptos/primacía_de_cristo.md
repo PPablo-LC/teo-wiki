@@ -31,6 +31,12 @@ El que promete a quien lo deja todo «recibir el ciento por uno y heredar la vid
 
 Jesús exige un amor mayor que el debido a los padres y a la propia vida. Solo Dios, en virtud de la exigencia de amor radical y total, puede llamar al hombre para que lo siga sin reservas, sin limitaciones, de forma indivisible. Solo Dios «es bueno» en sentido absoluto (Mc 10,18). Solo Él «es amor» por esencia y por definición (1 Jn 4,16) (CrSJP 34 §2).
 
+### Según Evangelization & Culture n.º 21 «Democracy» (EAC-21)
+
+Andrie (22_soul.md) presenta la primacía de Cristo como el principio que relativiza todo poder político temporal. Parte de Daniel como modelo de fidelidad en el exilio —fiel a Dios mientras servía al rey pagano—, y recorre el Nuevo Testamento: Pedro llama a los cristianos «forasteros y peregrinos» (1 Pe 2,11); Pablo recuerda a los ciudadanos romanos de Filipí que su «ciudadanía está en los cielos» (Flp 3,20), y que no es César sino Cristo el «Señor» y «Salvador».
+
+Andrie subraya que «el campo de batalla más significativo no es el panorama político o legislativo, sino que comienza dentro del alma humana individual — el centro de batalla entre el reino de Dios y el del maligno». Los cristianos saben que «los candidatos políticos y la política se relativizan a la luz de Cristo y su reino eterno. No son la trama principal, sino más bien notas al pie en la gran historia cósmica de Dios de la historia de la salvación». La primacía de Cristo implica que «no es la caja de ballot electoral la que nos salvará a nosotros y a nuestro país, sino el amor divino — un amor derramado en la cruz, renovado en la Resurrección y dado a la Iglesia para ser compartido con el mundo».
+
 ### Según Evangelization & Culture n.º 14 «Joy» (EAC-14)
 
 Thomas M. Ward presenta la primacía de Cristo en sentido escotista como «el motivo de toda la creación»: Dios creó el mundo por amor, y de todas las criaturas posibles amó sobre todo la naturaleza humana de Cristo (EAC-14, 10_minds.md).

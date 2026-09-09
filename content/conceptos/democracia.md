@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Democracia
 tags: ["doctrina_social"]
 
-timestamp: 2026-05-25
+timestamp: 2026-09-09
 description: "Sistema político que asegura la participación de los ciudadanos en las opciones políticas y garantiza la posibilidad de elegir."
 ---
 # Democracia
 
 > Área: Doctrina Social
-> Última actualización: 2026-05-25
+> Última actualización: 2026-09-09
 
 ## Definición
 
@@ -48,6 +48,24 @@ El atentado contra la democracia más grave fue la «Ermächtigungsgesetz» que 
 En la Introducción del libro, Vittorio Messori —planteando el enfoque que luego el Papa desarrollaría— sitúa la democracia y sus fundamentos morales en el contexto de los desafíos contemporáneos. Messori afirma que lo que interesa del Papa no es verlo «reducido a presidente de una especie de agencia mundial para la ética o para la paz o para el medio ambiente», sino descubrir «si todavía son firmes los fundamentos de la fe». La cuestión democrática aparece así subordinada a la cuestión de la verdad: antes que los problemas políticos y morales particulares está la fe en Jesucristo Resucitado.
 
 El Papa mismo responde en diversos capítulos sobre la necesidad de fundamentar la convivencia social en la verdad moral objetiva. Señala que los parlamentos democráticos pueden condenar a muerte al hombre aún no nacido mediante leyes emitidas regularmente, estableciendo un paralelo con los tribunales que condenaron a Cristo: la sentencia no se basa en la verdad sino «en la prepotencia, en una engañosa conjura» (UDE, Cap. XI). La democracia sin verdad moral se convierte en instrumento de opresión (UDE, Intro., Cap. XI, XXVII).
+
+### Según Word on Fire Institute (EAC-21)
+
+**Fundamentos cristianos de la democracia americana.** Bishop Robert Barron señala que la Declaración de Independencia afirma que «todos los hombres son creados iguales» y dotados por su Creador de derechos inalienables —vida, libertad y búsqueda de la felicidad—. Sin Dios y la creación, la igualdad de los hombres no sería autoevidente; en la filosofía política anterior al cristianismo (Platón, Aristóteles, Cicerón) no existían afirmaciones firmes sobre la igualdad y los derechos humanos [EAC-21, 01]. Los derechos no son concedidos por ninguna institución humana, sino por el Creador, y por tanto ningún gobierno puede revocarlos.
+
+**Valores pre-democráticos de la democracia.** Matthew Petrusek observa que la democracia se define como «poder del pueblo», pero la mayoría no es idéntica a la justicia: las mayorías pueden votar leyes injustas (como la esclavitud o el aborto). Para que la democracia tenga validez moral, debe apoyarse en valores *previos* a ella misma: la dignidad humana, la igualdad y el bien común. Ni la democracia misma ni la autonomía del Ilustrado, ni el comunitarismo por sí solos, pueden garantizar estos tres valores a la vez; solo el pensamiento social católico los integra plenamente [EAC-21, 03].
+
+**La democracia y los fundamentos morales y religiosos.** Paul Krause, glosando a Tocqueville, recuerda que el «espíritu de religión» y el «espíritu de libertad» estaban entrelazados en la América fundacional. Tocqueville refutó a los filósofos de la Ilustración que veían en la religión un obstáculo para la libertad: en Estados Unidos, la educación y la política estaban íntimamente vinculadas al sentido del deber religioso. Los peregrinos puritanos «trajeron al Nuevo Mundo una forma de cristianismo que puedo describir mejor llamándolo una religión democrática y republicana». La iglesia era el centro de la vida comunal; los colonos se reunían como congregación no solo para lo espiritual sino también para lo temporal [EAC-21, 07]. Tocqueville advirtió que la pérdida de la religión traería la decadencia de la política democrática y abriría paso a la tiranía demagógica, como ocurrió en la Revolución Francesa.
+
+**Definición de Lincoln en Gettysburg.** En el discurso de Gettysburg, Abraham Lincoln definió la democracia como «gobierno del pueblo, por el pueblo, para el pueblo». Barron subraya que la frase decisiva es «por el pueblo»: la autoridad dimana del pueblo, no de arriba. Pero la democracia no es solo mayoritarismo; también implica el reconocimiento de derechos dados por Dios —«dotados por su Creador»—, la dignidad, la libertad y la igualdad del individuo, y un gobierno limitado [EAC-21, 09]. La Iglesia, a su vez, no debe inmiscuirse en los asuntos prácticos del gobierno, pero sí debe articular el marco moral de toda actividad política y alzar su voz profética cuando la política contradiga los derechos del individuo.
+
+**El riesgo de degradación totalitaria.** Tod Worner, contando la historia de Gerda Weissmann Klein —sobreviviente del Holocausto—, ilustra lo que sucede cuando una democracia moderna degenera en totalitarismo: la dignidad humana es sacrificada en nombre de la utilidad y la ideología. La democracia es «solo tan buena, solo tan segura, como las virtudes y la moderación de los ciudadanos». Sin autocontrol cívico, las ideologías totalitarias surgen no solo por la ambición de los intrigantes, sino porque la masa se deja controlar si renuncia a controlarse a sí misma [EAC-21, 04]. La Constitución, como advirtió John Adams, «fue hecha solo para un pueblo moral y religioso».
+
+**Democracia y valores absolutos.** Tom Hoopes recuerda que Juan Pablo II advirtió que la democracia puede «someter la verdad a los deseos de los más vocales» y que, si el escepticismo cuestiona los principios fundamentales de la ley moral, «el propio sistema democrático se verá sacudido en sus cimientos». El Papa señaló que Estados Unidos posee una salvaguarda en sus documentos fundacionales —la Declaración de Independencia, la Constitución, la Carta de Derechos—, basados en principios permanentes de la ley natural cuya verdad puede conocerse por la razón, pues es «la ley escrita por Dios en los corazones de los hombres» [EAC-21, 11].
+
+**Crítica de la Ciudad de Dios a las teologías políticas imperiales, liberales e integristas.** Michael Hanby, desde Agustín de Hipona, advierte que tratar la Ciudad de Dios como un mero tratado de filosofía política o un plano para el «orden correcto» es reducir una obra que trasciende todo género. La Ciudad de Dios es ante todo una teología de la historia: la historia tiene un argumento, un punto central en la Encarnación, un telos en el Juicio Final, y todo se despliega bajo la mirada de la eternidad. La ciudad terrena, definida por el *amor sui* y la *libido dominandi*, busca su bien último en un objeto que no da descanso; la ciudad celestial reconoce a Dios como el verdadero bien común. Hanby descarta tanto la interpretación liberal (que ve en Agustín un respaldo al secularismo pluralista) como la integrista (que busca imponer la «religión verdadera» para el «orden correcto»), afirmando que, si Agustín tiene razón, «no existe realmente una esfera secular en este sentido —solo dioses en competencia» [EAC-21, 18].
+
+**La ciudadanía celestial relativiza la política terrena.** Fr. Leonard Andrie recuerda que la primera Carta de Pedro exhorta a los cristianos como «extranjeros y peregrinos» (1 P 2,11), y que Pablo advirtió a los filipenses que «nuestra ciudadanía está en los cielos» (Fil 3,20). Los cristianos tienen el deber de participar en la vida política, pero su lealtad última es para con Cristo. La política es importante, pero no lo es todo; los candidatos y los sistemas políticos quedan relativizados a la luz del reino eterno de Dios. El campo de batalla principal no es el legislativo sino «el alma humana individual», el centro de la lucha entre el reino de Dios y el del maligno [EAC-21, 22].
 
 ## Relaciones doctrinales
 

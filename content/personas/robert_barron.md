@@ -113,6 +113,22 @@ En el número dedicado a la inteligencia artificial, Barron es el autor de la ca
 - **Providencia vs. control**: Dios, el Creador, nos guía por amor (Is 26,12); la IA —producto nuestro— nos controla mediante ingeniería detallada para ganancia pragmática. Contrasta el tiempo ante la pantalla con el tiempo de oración.
 - **La IA no puede evangelizar**: es útil como herramienta de información, pero evangelizar es «hablar corazón a corazón, persona a persona», compartir la propia relación con el Señor; el evangelizador es «un hambriento que encontró pan, diciéndole a otro dónde está». Cierra con la doble tarea de educarse sobre la amenaza y sobre la promesa de la IA.
 
+### Según Evangelization & Culture n.º 21 «Democracy» (EAC-21)
+
+Barron es entrevistado por Tod Worner en la sección central del número dedicado a la democracia, «What Is Democracy?» (09_spotlight_barron.md), donde despliega su pensamiento sobre la naturaleza, virtudes y peligros de la democracia.
+
+**Definición de democracia.** Barron define la democracia como gobierno del *demos*, el pueblo, pero añade que no se reduce al mayoritarismo: incluye el reconocimiento de derechos humanos dados no por el gobierno sino por Dios —«dotados por su Creador»—, la libertad, la dignidad y la igualdad del individuo, y el gobierno limitado. La frase decisiva de Lincoln en Gettysburg es «por el pueblo» (*by the people*), que señala que «el pueblo mismo es la fuente de autoridad».
+
+**El «cuasi-milagro» de los Fundadores.** Barron cita a su mentor Robert Sokolowski: «Es un cuasi-milagro que estos imposiblemente talentosos personas se reunieran al mismo tiempo y en el mismo lugar». Adams, Jefferson, Franklin, Hamilton, Madison, John Jay: «¿Dónde más en el mundo ha habido una reunión tan extraordinaria de mentes muy finas?» Crearon un sistema que ha perdurado.
+
+**El gobierno mixto de Tomás de Aquino.** Barron conecta la estructura constitucional con la teoría del gobierno mixto de Aquino, que a su vez bebe de Aristóteles: el presidente como monarquía, el Senado como aristocracia, la Cámara de Representantes como componente democrático. La separación de poderes es «un reflejo de una visión bíblica profundamente arraigada del ser humano como imperfecto, caído e inclinado a ser injusto». Los Fundadores fueron «ambiguamente bíblicos y religiosos en distintos grados, pero era el aire que respiraban; era la cultura que asimilaron».
+
+**Platón y el totalitarismo.** Siguiendo a Karl Popper (*The Open Society and Its Enemies*), Barron critica la tentación totalitaria que se remonta a Platón: el filósofo que «ha descubierto la manera de hacerlo» e impone «esta visión absolutamente sobre todos, gobernando cada aspecto de la vida». La democracia se opone a esa tentación al dar «un amplio margen a la libertad de las personas, con el gobierno interviniendo solo cuando es absolutamente necesario».
+
+**El lado oscuro de la democracia.** Barron reconoce, con Churchill y Lincoln, que la democracia «tiene un lado oscuro». La crítica clásica —Platón y Aristóteles consideraban que el gobierno de la multitud era una mala idea— sigue siendo pertinente. La democracia como la describimos «les parecería una muy mala idea» a muchos pueblos antiguos y modernos. La democracia es «un negocio precario que debe ser atendido todo el tiempo».
+
+**La democracia protectora vs. directiva.** Barron critica que la democracia liberal estadounidense es «protectora más que directiva». La tradición clásica y medieval veía el propósito del gobierno como dirigir la sociedad hacia fines morales; los Fundadores, escépticos por el pluralismo, dejaron esa tarea a la religión y otras instituciones intermedias. «Ahora, cuando las religiones están tan debilitadas y comprometidas, ¿quién proporciona esa visión del bien?» La respuesta actual es: «cada adolescente en América: "Yo lo invento. Yo decido cuál es el bien. No me digas"».
+
 ### Según Evangelization & Culture n.º 20 «Sport» (EAC-20)
 
 **La belleza del juego como vía evangelizadora (01_from_the_desk.md):** Barron abre el número comparando el béisbol y la evangelización: ambos son «juegos de belleza» donde las reglas no esclavizan sino que liberan. «La evangelización es la propuesta de un juego que vale la pena jugar: la vida en Cristo». La alegría del juego —su gratuidad, sus reglas, su comunidad— es analogía viva del anuncio evangélico: no se impone, se invita. La belleza del deporte prepara el terreno del corazón para recibir el Evangelio.
@@ -121,7 +137,7 @@ En el número dedicado a la inteligencia artificial, Barron es el autor de la ca
 
 ## Ver también
 
-[[evangelización]], [[nueva_evangelización]], [[evangelización_digital]], [[word_on_fire_institute]], [[conversión]], [[metanoia]], [[verdadero_y_falso_yo]], [[conversión_continua]], [[cristificación]], [[deificación]], [[gracia]], [[cuerpo_místico]], [[rito_de_iniciación_cristiana_de_adultos]], [[catecumenado]], [[inteligencia_artificial]], [[idolatría]], [[simulacro_de_personalidad]], [[providencia_divina]], [[eutrapelia]], [[vía_purgativa]], [[vía_iluminativa]], [[vía_unitiva]]
+[[evangelización]], [[nueva_evangelización]], [[evangelización_digital]], [[word_on_fire_institute]], [[conversión]], [[metanoia]], [[verdadero_y_falso_yo]], [[conversión_continua]], [[cristificación]], [[divinización]], [[gracia]], [[cuerpo_místico]], [[rito_de_iniciación_cristiana_de_adultos]], [[catecumenado]], [[inteligencia_artificial]], [[idolatría]], [[simulacro_de_personalidad]], [[providencia_divina]], [[eutrapelia]], [[vía_purgativa]], [[vía_iluminativa]], [[vía_unitiva]]
 
 ## Referencias
 
@@ -134,5 +150,6 @@ En el número dedicado a la inteligencia artificial, Barron es el autor de la ca
 - EAC-18, 01_from_the_desk.md y 18_spotlight_barron_on_conversion.md (entrevista de Tod Worner sobre la conversión)
 - EAC-19, 01_from_the_desk.md (carta editorial sobre inteligencia artificial)
 - EAC-20, 01_from_the_desk.md (sobre belleza del juego y evangelización) y 23_soul.md (sobre deporte como escolar de virtud)
+- EAC-21, 09_spotlight_barron.md (conversación de Bishop Robert Barron con Tod Worner sobre democracia)
 - Barron, Robert. *Eucharist* (Word on Fire Institute, 2021).
 - Word on Fire website

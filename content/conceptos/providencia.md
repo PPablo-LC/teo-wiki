@@ -2,14 +2,14 @@
 type: Concepto Teológico
 title: Providencia
 tags: ["dogmática"]
-timestamp: 2026-09-05
+timestamp: 2026-09-09
 description: "La divina providencia es la disposición con que Dios conduce todas las criaturas hacia su fin último."
 ---
 
 # Providencia
 
 > Área: Dogmática
-> Última actualización: 2026-09-05
+> Última actualización: 2026-09-09
 
 ## Definición
 
@@ -68,6 +68,12 @@ En *Quo Vadis*, la providencia acompaña a Pedro hasta el martirio: la promesa d
 J.R.R. Tolkien, por su parte, confesó haber «salido de Egipto» por la providencia: tras la muerte de su madre Mabel, la acogida del padre Francis Morgan y el don de la fe fueron los hilos visibles de un designio mayor que lo condujo a una vida plena [EAC-18, 13_feature_tolkien.md].
 
 Fernanda Psihas confirma la misma convicción desde la misión: no hay casualidades; los rechazos y fracasos aparentes estaban ordenados al bien, de modo que la confianza en la providencia sostiene la perseverancia y disuelve la [[soberbia]] [EAC-18, 20_mission_psihas.md].
+
+### Según Word on Fire Institute (EAC-21)
+
+**La providencia en la fundación de América.** Larry Arnn señala que la Declaración de Independencia atribuye a Dios los poderes de legislador (creador de la «ley natural»), juez («Juez Supremo del mundo»), ejecutivo («Providencia Divina») y Creador. La constitución americana fue escrita con plena conciencia de Dios, respeto de su perfección y awareness de la imperfección humana. En un pasaje memorable, Arnn recuerda que Dios «puede improperly detener todos los poderes del gobierno terrenal en sus manos» —los poderes de gobierno, en Dios, no están separados—, mientras que entre los hombres la separación de poderes es esencial [EAC-21, 15].
+
+**La providencia en la historia: Agustín y Romanos 8,28.** Michael Hanby, desde la Ciudad de Dios, muestra cómo Agustín interpretó la caída de Roma a los bárbaros (410 d.C.) como un acontecimiento gobernado por la providencia. Agustín afirma: «Observe si ha ocurrido alguna desgracia a los fieles y religiosos que no haya resultado para su bien, a menos que supongamos que no hay sentido en la declaración del Apóstol: “Sabemos que Dios hace que todas las cosas cooperen para el bien de los que le aman”» (Rm 8,28). Los cristianos que lo perdieron todo no perdieron la fe ni las riquezas del hombre interior, que es «rico a los ojos de Dios». La pregunta que Agustín plantea a los cristianos de todo tiempo —y especialmente a los de hoy— es si todavía creemos verdaderamente en esto [EAC-21, 18].
 
 ## Distinciones importantes
 
