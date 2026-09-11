@@ -54,6 +54,20 @@ La Veritatis Splendor (§43) enseña que la sabiduría de Dios es providencia, a
 - **Tiempo dado por Dios:** Jeremy McLellan narra cómo un show planeado para otra fecha terminó sirviendo a la comunidad musulmana por los rohingyas: «tiempo que no debía existir, tiempo dado por Dios». La existencia misma es regalo recibido con gratitud.
 - **Providencia en las vocaciones:** Doug Cummins, sobre su paso de la arquitectura a la técnica audiovisual para Word on Fire: «veo providencia actuando: fui formado para esta carrera toda mi vida»; «Doug fue enviado por Dios».
 
+### Evangelization & Culture, Issue 23 — Prayer (EAC-23)
+
+El número 23 de *Evangelization & Culture*, dedicado a la oración, ofrece varias perspectivas sobre la providencia divina y su relación con la oración.
+
+**La confianza radical en la providencia — entrustment (04_midnight_oil.md):** Tod Worner, tras una temporada de sufrimientos acumulados (lesión grave de su hija, muerte de su suegra, de su madre y de su cuñado en la misma semana), describe ante su asesor espiritual la necesidad de orar por «paciencia —paciencia que te conformes al corazón del Buen Pastor—, prudencia —prudencia para elegir sabiamente cuando las decisiones sean necesarias— y *entrustment*». Worner define el *entrustment* como «no simplemente confiar, sino volcarse entero y entregar todas las preocupaciones a Dios. *Entrustment* es confianza al máximo —una confianza radical». Reconoce que, aunque está llamado a actuar con la mayor prudencia posible, «si, en efecto, Dios es quien dice ser, él hará su parte. No sé exactamente cómo lo hace, cuándo sucederá, ni la naturaleza de sus diseños superiores, pero ahí es donde entra la confianza».
+
+**Newman: «Él sabe lo que hace» (04_midnight_oil.md):** Worner cita a San John Henry Newman: «Así que confiaré en Él. Sea cual sea mi estado, nunca seré arrojado. Si estoy en enfermedad, mi enfermedad puede servirle; en perplejidad, mi perplejidad puede servirle; si estoy en tristeza, mi tristeza puede servirle. Mi enfermedad, o perplejidad, o tristeza pueden ser causas necesarias de algún gran fin. Él nada hace en vano; puede prolongar mi vida, puede acortarla; Él sabe lo que hace» (Newman, *Meditations and Devotions*). Esta confianza es presentada como fruto de la oración perseverante: en la oración, «mi Dios está conmigo. En la oración, mi Dios me ayudará. En la oración, nunca estaré solo».
+
+**El *inner ballast* de Steiner (04_midnight_oil.md):** George Steiner describe el «lastre interior» (*inner ballast*) como la estabilidad que se lleva dentro cuando todo va mal: «Cuidado. Cuando las cosas empiezan a ir mal —salud, soledad, las cosas más naturales—, lo que llevas dentro, no te lo pueden quitar… Pon equipaje dentro —esa es la única manera que puedo expresarlo— para que cuando el viento empiece a soplar fuerte, tengas lastre». La oración y la confianza en la providencia constituyen ese lastre interior que sostiene en la adversidad.
+
+**«HELP!» — Dios siempre responde (13_features_intro.md):** Tod Worner presenta la sección de artículos principales con la anécdota de la oración colectiva de los alumnos: «En el nombre del Padre, y del Hijo, y del Espíritu Santo. Amén. —¡AYUDA! —En el nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.» Worner concluye: «A través de una oración sincera y regular, Dios nos escucha, nos aconseja y nos conduce a la plenitud de la vida. "¡AYUDA!" clamamos. Y Dios responde. Cada vez.» La oración es presentada como la respuesta siempre adecuada a cualquier situación, porque Dios nunca deja de escuchar.
+
+**Entregarse a la providencia en la oración (24_parting_thoughts.md):** Una de las ocho preguntas de reflexión que cierran el número plantea: «En una época de eficiencia y autoafirmación, ¿cuán completamente te entregas a la providencia de Dios en tu oración?» La pregunta vincula directamente la oración con la disposición de abandono filial ante el designio divino.
+
 ## Analizado para
 
 - [[kevin_mulaney_prudence_decisions]]
@@ -74,3 +88,4 @@ La Veritatis Splendor (§43) enseña que la sabiduría de Dios es providencia, a
 - SmTh Iª q.104, sobre los efectos del gobierno divino en especial
 - SmTh Iª q.105, sobre la mutación de las criaturas por Dios
 - [EAC-8, Issue 8 «Humor», archivos 04, 11, 19]
+- [EAC-23, 04_midnight_oil.md — Worner, entrustment y confianza en la providencia; 13_features_intro.md — God responds; 24_parting_thoughts.md]

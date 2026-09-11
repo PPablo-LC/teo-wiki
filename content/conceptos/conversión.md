@@ -64,6 +64,24 @@ La conversión en San Francisco es un camino experiencial y radical de transform
 
 Hahn presenta la conversión como «el mayor tesoro que podemos poseer», subrayando que es un proceso «profundamente intelectual, filosófico y teológico» que involucra la totalidad de la persona. La oración precede a la fe, preparando el corazón para recibir la verdad. El Padre Solanus Casey enseña que «en la quietud de la mente todos pueden escuchar la voz de Dios», invocando la apertura interior como condición para el encuentro. G.K. Chesterton, convertido del agnosticismo, lo expresó con la fórmula «cero o una»: la conversión no es un compromiso intermedio sino la renovación constante del ser. Bulman completa esta visión señalando que las estrategias, las destrezas y la diplomacia no son necesarias para el Espíritu: la conversión es obra de la gracia que supera los cálculos humanos.
 
+### Evangelization & Culture, Issue 23 — Prayer (EAC-23)
+
+En el bloque «Spotlight» de EAC-23 [19_spotlight_redemption.md], Robbie Ocampo describe la Redemption Community de Word on Fire, nacida a partir de la conversión del actor Shia LaBeouf.
+
+**La conversión de Shia LaBeouf:** Durante la preparación para interpretar a San Pío de Pietrelcina en la película *Padre Pio*, LaBeouf fue formado y acompañado por los Frailes Capuchinos. Asistía diariamente a la Misa, se sumergió en el estudio intenso de los Evangelios y conoció la vida, el régimen y las oraciones del carisma franciscano. El surgimiento de la alegría como fruto de esa preparación desembocó en una conversión magnífica, que llevó a Shia a ser recibido en la plenitud de la Iglesia católica, celebrada y conferida por el obispo Barron. LaBeouf propuso a Barron y al P. Grunow la formación de un grupo de acompañamiento masculino para quienes están al borde de la desesperación, buscando libertad frente a las tentaciones que asedian el corazón del hombre.
+
+**Fundación de la Redemption Community:** Antes incluso de su bautismo, LaBeouf ya había propuesto la comunidad. En colaboración con los Frailes Capuchinos y bajo la dirección del P. Grunow y el Dr. Petrusek, se concretó el programa. El proceso de selección del grupo piloto recibió 125 solicitudes en diez días; once participantes fueron elegidos, de entre veinticinco y sesenta y cinco años.
+
+**La pobreza de espíritu como carisma franciscano:** Ocampo señala que «son los pobres de espíritu quienes reconocen su necesidad de Cristo. La plenitud de vida que esperamos no puede ser generada por nuestro propio hacer. Nos es dada mediante el don de nuestro Bautismo y el compañerismo de la Iglesia. Los franciscanos nos educan en esta profunda humildad para abrazar la postura del mendigo».
+
+**Las heridas como ocasión de Cristo:** Cita a San Agustín: «En mi herida más profunda vi tu gloria, y me deslumbró». La comunidad subraya que las heridas pueden ser una ocasión para Cristo, que nuestras aflicciones más profundas pueden ser el nexo de una vida nueva.
+
+**Identidad en Cristo:** Los participantes «no están definidos por su adicción sino por Cristo que vive en nosotros —y ese es el lugar de nuestra libertad». Ocampo cita al cardenal Francis George: «No puedes evangelizar lo que no amas».
+
+**Tres objetivos de la comunidad:** (1) Ver de un modo más verdadero (una nueva visión de la vida); (2) Vivir una vida más plena y hermosa (santos que muestren la vida en relación con el *summum bonum*); (3) Bendecir a otros con el bien recibido (las Bienaventuranzas como patrón de discipulado).
+
+**Consistencia en la oración:** Teresa de Calcuta cierra el artículo: «Mi secreto es muy simple: rezar» [EAC-23, 19_spotlight_redemption.md].
+
 ## Distinciones importantes
 
 - Conversión primera (Bautismo) vs. segunda conversión (penitencia continua)
@@ -196,3 +214,4 @@ Andrew Allen presenta el camino del [[catecumenado]] y de los [[rito_de_iniciaci
 - [SFrAs, Test. 1-3, 15 — Conversión experiencial y pobreza]
 - [SFrAs, CFi. 19, 25, 27, 29, 35, 47-49 — Conversión universal]
 - [SFrAs, Adm. 2 — Conversión y renuncia a la propia voluntad]
+- [EAC-23, 19_spotlight_redemption.md — Redemption Community, conversión de Shia LaBeouf]

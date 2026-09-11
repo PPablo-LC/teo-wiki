@@ -78,6 +78,24 @@ Frente a quienes —como [[Nietzsche]]— tildan la esperanza de «virtud de los
 
 El Papa evoca el episodio de una mujer pecadora arrepentida a quien aconsejó, citando a [[San_Francisco_de_Sales]], que considerara sus faltas como «nuestras queridas imperfecciones»: «Dios detesta las faltas, porque son faltas. Pero, por otra parte, ama, en cierto sentido, las faltas en cuanto le dan ocasión a Él de mostrar su misericordia y a nosotros de permanecer humildes» [7_Lamps].
 
+### Evangelization & Culture, Issue 23 — Prayer (EAC-23)
+
+Fr. Jacques Philippe, en su artículo especial «Prayer as an Act of Hope» [EAC-23, 18_special_feature_philippe.md], presenta la oración como un acto fundamental de las virtudes teologales —fe, esperanza y amor— y vincula la perseverancia en la oración con la virtud de la esperanza, tema del Año Jubilar 2025 («Peregrinos de Esperanza»).
+
+**Oración y esperanza como vínculo inseparable:** Philippe enseña que toda oración es esencialmente un acto de esperanza: «nos apoyamos en Dios y esperamos con confianza algo de él: la felicidad eterna en el Reino, pero también el sostén que necesitamos en esta vida». La práctica de la esperanza es necesaria porque «en toda vida de oración hay cierta experiencia de pobreza», y todos los santos la han vivido.
+
+**La oración no es técnica:** A diferencia de las técnicas mundanas, en la oración no hay método que garantice el éxito: «No se puede manipular a Dios, no se puede obligar a que se manifieste». Permanecemos dependientes de su libertad: a veces se hace presente, a veces calla. Esta dependencia es precisamente lo que la oración de esperanza abraza.
+
+**La luz divina revela la pobreza espiritual:** Cuanto más entramos en la luz de Dios, más vemos nuestra miseria. Philippe usa la imagen de una casa bajo un sol brillante con un pequeño orificio: la luz intensa revela el polvo que normalmente no vemos. «A veces sentimos que retrocedemos, pero no es que vayamos hacia atrás; es que vemos más claramente en la luz de Dios lo que realmente somos».
+
+**La oración del pobre:** Philippe cita el Salmo 34,6: «Este pobre clamó, y el Señor lo escuchó». La oración de los pobres, hecha de humildad y esperanza, «atraviesa los cielos y toca el corazón de Dios». Invita a orar como Bernadette de Lourdes: «Tú querrías orar como un santo, pero yo te invito a orar como un pobre».
+
+**La parábola del publicano y el fariseo (Lc 18,9-14):** El fariseo se presenta ante Dios con autoconfianza; el publicano, de lejos, golpeándose el pecho, dice: «Dios mío, ten piedad de este pecador». Jesús enseña que fue el último quien fue escuchado. Philippe comenta: «Jesús nos invita a hacer de nuestra oración verdaderamente la oración de los pobres, los que no confían en sus propios méritos sino que ponen toda su esperanza en la misericordia de Dios».
+
+**Santa Teresa de Lisieux y la sequedad:** Desde su ingreso en el Carmelo, la oración de Teresa estuvo marcada por gran sequedad, que aceptó con fe. Cada día se dormía durante la oración mental y las gracias después de la Comunión —no por pereza, sino por las noches cortas del Carmelo—. Teresa escribió: «Debería estar desolada por haber dormido durante mis horas de oración; bien, no estoy desolada. Recuerdo que los niños pequeños son tan agradables para sus padres cuando están dormidos como cuando están despiertos». Philippe comenta: «Teresa no se centra en sí misma (preocupada por hacer una oración bonita que la satisfaga), sino que es receptiva a Dios. Orar es dejarse amar en nuestra pobreza, en la esperanza de que Dios convierta esa pobreza en riquezas».
+
+**Dios siempre responde:** «Los momentos de gran pobreza en la oración son momentos de gracia porque son momentos de verdad e invitaciones a poner toda nuestra esperanza en Dios. Él sabrá visitarnos, darnos su paz, su consuelo y su misericordia. ¡La esperanza no defrauda!» Philippe cita Hebreos 10,23: «Mantengámonos firmes en la confesión de nuestra esperanza sin vacilar, porque el que prometió es fiel».
+
 ## Distinciones importantes
 
 - **Esperanza vs. fe**: la fe cree las verdades reveladas; la esperanza desea y confía en alcanzar el bien prometido
@@ -113,3 +131,4 @@ El Papa evoca el episodio de una mujer pecadora arrepentida a quien aconsejó, c
 - Concilio de Trento
 - Santo Tomás, S.Th., II-II, q. 17-22
 - [7_Lamps, JPI La esperanza — Audiencia general, 20-IX-1978]
+- [EAC-23, 18_special_feature_philippe.md — Fr. Jacques Philippe, «Prayer as an Act of Hope»]

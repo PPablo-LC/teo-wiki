@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Pureza de Corazón
 tags: ["ascética", "moral"]
 
-timestamp: 2026-08-29
+timestamp: 2026-09-11
 description: "La sexta bienaventuranza: \"Bienaventurados los limpios de corazón, porque ellos verán a Dios\" (Mt 5,8). Designa a los que han ajustado su inteligencia y su voluntad a las exigencias de la santidad ..."
 ---
 # Pureza de Corazón
 
 > Área: Ascética / Moral
-> Última actualización: 2026-08-29
+> Última actualización: 2026-09-11
 
 ## Definición
 
@@ -53,6 +53,22 @@ La lección del artículo es que «a veces los niños saben más»: los adultos 
 
 Petiprin extiende el argumento incluso a las películas sobre niños profundamente problemáticos — *Los 400 golpes* (Truffaut, 1959) y *El niño de la bicicleta* (hermanos Dardenne, 2011) — donde encontramos «la inconfundible sinceridad del corazón de un niño». Las historias perturbadoras, quizá más que las de final feliz, recuerdan a los adultos «los dones preciosos que se nos han confiado»: el amor de los niños —propios y ajenos— imparte la bendición del Señor como ninguna otra cosa, y puede difundir el amor de Cristo por toda la comunidad. La conclusión de la «Carta a los niños» («este amor debe extenderse a toda vuestra comunidad, incluso al mundo entero, precisamente a través de vosotros, queridos niños») invita a tomar a Jesús por su palabra y hacerse «como ellos» ||8|| [EAC-12, 08].
 
+### Según Evangelization & Culture, Issue 23 — Prayer (EAC-23)
+
+El artículo de Fr. Billy Swan sobre los Padres del Desierto (10_minds.md) presenta la pureza de corazón como la meta del camino espiritual de los eremitas: «Para los Padres del Desierto, la meta de la vida espiritual era la pureza de corazón como respuesta directa a la enseñanza de Jesús en las Bienaventuranzas: “Bienaventurados los limpios de corazón, porque ellos verán a Dios” (Mt 5,8)» [EAC-23, 10_minds].
+
+**El corazón como centro de la persona.** «En la tradición bíblica, y para los Padres del Desierto, el corazón significaba el centro de la persona, el lugar de la voluntad, las emociones y el intelecto». Por eso, cuando Jesús pide amar a Dios «con todo [el] corazón» (Mt 22,37), «nos está llamando a amar con nuestro yo total y unido» [EAC-23, 10_minds].
+
+**Pureza de corazón en Casiano.** «Para [[casiano]] (c. 360–435) y otros Padres del Desierto, la pureza de corazón era el estado de una búsqueda de Dios de una sola mente». Según las *Conferencias* de Casiano, «el ayuno, las oraciones y las prácticas ascéticas sirven a la finalidad de ayudarnos a lograr esta pureza de corazón y la unidad del yo que se necesita para amar totalmente» [EAC-23, 10_minds].
+
+**La oración brota de un corazón dividido.** Los Padres «hicieron el diagnóstico temprano de que nuestra oración surge de un corazón dividido y que la oración genuina sucede cuando somos conscientes de ello». Las impurezas del corazón —«del corazón salen las intenciones malas, homicidios, adulterios, fornicaciones, hurtos, falsos testimonios, calumnias» (Mt 15,19; Mc 7,21-23)— deben purgarse para alcanzar la visión de Dios [EAC-23, 10_minds].
+
+**La atención según Evagrio.** En este combate interior, la atención es esencial: «Para Evagrio Póntico (345–400), estar atento a la dinámica del corazón es importante: “Nada es más esencial para la oración que la atención”» [EAC-23, 10_minds].
+
+**La purgación del corazón y la unión con Dios.** Swan cita la encíclica *Dilexit Nos* del Papa Francisco (nn. 5-6): el corazón es «el lugar de la sinceridad, donde el engaño y el disfraz no tienen cabida… es la base de cualquier proyecto de vida sana; nada que valga la pena puede emprenderse fuera del corazón». Con esta sabiduría anticipada por los Padres: «La purgación del corazón que ellos buscaban sirve a la finalidad última de una unión más íntima con Dios. Cuanto más desapegados nos volvemos de nuestro falso yo, más fuerte es nuestra comunión con Dios. Por eso la pureza de corazón es tan importante y es el fundamento de la santidad» [EAC-23, 10_minds].
+
+**La confesión como sonda del corazón.** Su director espiritual trapense, al oír su confesión, «siempre indaga los motivos dentro del corazón que dieron origen a [los pecados]… esta era la sabiduría de los Padres del Desierto que seguimos aprovechando hoy» [EAC-23, 10_minds].
+
 ## Distinciones importantes
 
 - Pureza de corazón no es solo pureza sexual, aunque la incluye
@@ -76,3 +92,5 @@ Petiprin extiende el argumento incluso a las películas sobre niños profundamen
 - [TdC 23.04.1980]
 - [TdC 30.04.1980]
 - [TdC 03.12.1980]
+- [EAC-23, 10_minds.md]
+- [EAC-12, 08]

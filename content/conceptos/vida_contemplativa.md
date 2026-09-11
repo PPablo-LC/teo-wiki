@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Vida contemplativa
 tags: ["ascética", "mística"]
 
-timestamp: 2026-07-20
+timestamp: 2026-09-11
 description: "Estado de vida consagrada total y permanentemente a la oración, la alabanza divina y la penitencia, en clausura, separado del mundo, como anticipación del gozo eterno."
 ---
 # Vida contemplativa
 
 > Área: Ascética / Mística
-> Última actualización: 2026-07-20
+> Última actualización: 2026-09-11
 
 ## Definición
 
@@ -89,6 +89,22 @@ La vida contemplativa en San Francisco se vive en equilibrio con la vida activa:
 
 **Oración continua:** En las Alabanzas, la alabanza es continua: «Santo, Santo, Santo, Señor Dios del universo» (Laud. 33). Las Horas canónicas son el marco de la vida contemplativa.
 
+### Según Evangelization & Culture, Issue 23 — Prayer (EAC-23)
+
+**La vida contemplativa dominicana (Fr. Paul Murray, OP).** Murray presenta la tradición contemplativa dominicana — Tauler, Catalina de Siena, Enrique Suso y Meister Eckhart, con Santo Tomás de Aquino reconocido también como maestro espiritual — como una contemplación que integra la visión de Cristo, del mundo y del prójimo. El anónimo dominicano de París (s. XIII) enseña que entre las cosas que el hombre debe ver en la contemplación «están las necesidades de su prójimo»: «Primero ver, luego escribir, luego enviar... Lo que se necesita primero es estudio, luego reflexión en el corazón, y luego predicación». El predicador debe hablar primero con Dios (*cum Deo*) antes de hablar de Dios (*de Deo*) a los demás; la gracia de la predicación presupone la gracia de la oración o contemplación real. Las formas concretas de la dimensión contemplativa de la Orden — coro común, estudio, observancia regular, seguimiento de la Regla de San Agustín y la disciplina del silencio — son parte vital del camino evangélico de Domingo (17_feature_murray.md).
+
+**La contemplación como libertad de espíritu (Aquino).** Murray recuerda la Suma: «La vida contemplativa consiste en una cierta libertad de espíritu. Así, Gregorio dice que la vida contemplativa produce una cierta libertad de mente, porque considera las cosas eternas». Esta «libertad de mente» no está reservada a los contemplativos de clausura: los predicadores la necesitan más que nadie, porque sin ella «corren el riesgo de convertirse en prisioneros del espíritu y las modas de la época» (17_feature_murray.md).
+
+**La vida contemplativa como servicio eclesial (Catalina de Siena).** La mística de Catalina de Siena — como la de Domingo — es «una mística eclesial; una mística de servicio, no un misticismo de entusiasmo psicológico». De la contemplación brota la visión del prójimo: «Abre el ojo de la mente y verás la dignidad y la belleza de mi criatura razonable» (*Diálogo*); «me muero y no puedo morir» por la renovación de la santa Iglesia. Eckhart, en la misma línea: «Si un hombre estuviera en éxtasis, como San Pablo, y supiera que algún enfermo necesitaba que le diera una sopa, yo pensaría que sería mejor abandonar tu éxtasis por amor» (17_feature_murray.md).
+
+**La oración como gracia: el dominico Juan de la Cruz.** El dominico Juan de la Cruz (s. XVI) — distinto del carmelita homónimo — combate en su *Diálogo* la concepción de la contemplación como logro humano elitista: la oración es una gracia, «un don que nos eleva más allá de cualquier cosa que pudiéramos alcanzar por práctica ascética o técnica meditativa»; la comunión con Dios, la amistad real con Dios en la oración, «aunque imposible incluso para los fuertes, es algo que Dios mismo puede concedernos en un instante» (17_feature_murray.md).
+
+**La oración como morada: el templo del corazón.** Murray recoge la carta de Jordán de Sajonia a las monjas dominicas: «El templo de Dios es santo y vosotros sois ese templo; no hay ninguna duda de que el Señor está en su santo templo, morando dentro de vosotros». De Nicolás Cabasilas: «Entre todas las criaturas visibles, solo la naturaleza humana puede ser verdaderamente altar» — «todo cristiano tiene derecho al nombre de "santo" y al título de "templo"» (Congar). La vida contemplativa se vive en el templo de Dios que es el cristiano (17_feature_murray.md). Barron añade que la oración es «desperdiciar tiempo con Dios»: una amistad que se profundiza tomando tiempo, hablando con honestidad, escuchando con atención y entrando en silencio (09_spotlight_intro_prayer.md).
+
+**Santo Domingo: «el día a sus prójimos, la noche a Dios».** La tradición dominicana resume la vida de Santo Domingo con la frase «daba el día a sus prójimos, y la noche a Dios». Incluso de noche, su reverencia por los altares se relaciona íntimamente con su cuidado de los hermanos dormidos: «visitaría cada altar por turno... hasta la medianoche», y después «iría muy silenciosamente a visitar a los hermanos dormidos; y, si era necesario, los arroparía». La vida contemplativa y el amor al prójimo se entrelazan (17_feature_murray.md).
+
+**La liturgia divina como culminación de la vida contemplativa.** Benedicto XVI (citado por DeClue) presenta la liturgia divina como la forma suprema de la oración: es *opus Dei*, «el trabajo de Dios» — «lo primero y principal es que Dios actúa en ella» (Aidan Nichols); es a la vez la re-presentación del sacrificio de Cristo y «la anticipación — la participación espiritual aquí y ahora — de la liturgia celestial» (cf. Is 25,6-9; Ap 19,7-9). El banquete eucarístico es «un anticipo real del banquete final» (*Sacramentum Caritatis* 31). La liturgia divina aparece como la forma más alta de la vida contemplativa en la tierra (15_feature_declue.md).
+
 ## Distinciones importantes
 
 - Vida contemplativa (clausura, oración como fin principal) vs. [[vida_activa]] (ministerio apostólico exterior)
@@ -116,3 +132,4 @@ Se relaciona con la [[contemplación]], la [[vida_activa]], la [[vida_consagrada
 - SmTh II-II, q.180, a.1-8
 - SmTh II-II, q.182, a.1-4
 - Denzinger D-1328, D-1341–D-1343 (Inocencio XII, *Cum alias*)
+- EAC-23, *Evangelization & Culture, Issue 23 — Prayer* (Spring 2025), Word on Fire Institute (Murray, 17_feature_murray.md; Barron, 09_spotlight_intro_prayer.md; DeClue, 15_feature_declue.md)

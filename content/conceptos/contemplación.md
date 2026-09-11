@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Contemplación
 tags: ["mística"]
 
-timestamp: 2026-09-07
+timestamp: 2026-09-11
 description: "La contemplación infusa es una simple intuición de la verdad divina procedente de la fe ilustrada por los dones de entendimiento, sabiduría y ciencia en estado perfecto."
 ---
 # Contemplación
 
 > Área: Mística
-> Última actualización: 2026-09-07
+> Última actualización: 2026-09-11
 
 ## Definición
 
@@ -103,6 +103,30 @@ Dietrich von Hildebrand («Minds: Technology & Its Dangers») y Daniel Granitto 
 
 **La pintura como encuentro contemplativo con la realidad (Granitto):** «Pintar y dibujar te conectan directa e intensamente con la realidad». En una era de distracción implacable, «pintar y dibujar son obstinadamente lentos e inevitablemente conscientes». El proceso de dibujar y pintar «te mantiene intensa, a veces dolorosamente, presente». Frente a la velocidad y la inmediatez de la inteligencia artificial, la pintura — obra manual — es un acto contemplativo que exige presencia real [EAC-19, 13_art.md, L107].
 
+### Según Evangelization & Culture, Issue 23 — Prayer (EAC-23)
+
+**La oración como encuentro de dos anhelos.** Robert Barron describe la oración como el «encuentro místico de estos dos anhelos — nuestro anhelo por Dios y el anhelo de Dios por nosotros» (09_spotlight_intro_prayer.md). La Sainte-Chapelle de París, con la luz atravesando su vidrio policromado, produce «una especie de vibración en el aire, una carga eléctrica»: es «la representación artística del encuentro eléctrico de dos espíritus, el humano y el divino»; así se ve el corazón humano elevado a y por Dios — transfigurado, luminoso, radiante. Barron cita a Herbert McCabe: «todo lo que hay de bueno, verdadero y bello en nuestra oración es Dios ya orando, por así decirlo, en nosotros»; Karl Rahner la define como la auto-comunicación de Dios dada en la gracia y aceptada en libertad. Un comentarista contemporáneo de San Juan de la Cruz ofrece la imagen del helicóptero: Dios es como un helicóptero que espera aterrizar en el corazón, y la oración consiste en «despejar el terreno» — los apegos, preocupaciones y adicciones que impiden su aterrizaje (09_spotlight_intro_prayer.md).
+
+**La oración como diálogo de amigos.** Barron ofrece cuatro notas de la amistad con Dios: tomar tiempo (Merton: «Take the time»; «desperdiciar tiempo con Dios»); hablar con honestidad — incluso la ira, como el salmista, Abraham, Moisés, Jeremías y Job; escuchar con atención — Dios habla indirectamente, a través de la Escritura, los consuelos y desolaciones, un recuerdo; y entrar en silencio — «El fruto del silencio es la oración» (Madre Teresa), como Elías en el «silbo de la brisa suave» (1 Re 19,12) (09_spotlight_intro_prayer.md).
+
+**Dimensión trinitaria de la oración.** Los cristianos oramos al Padre, con el Hijo, en el Espíritu Santo. Barron explica que «el Padre envió al Hijo... Así, cuando oramos, el Hijo está a nuestro lado... ayudándonos a orar al Padre en el Espíritu Santo». La co-inherencia de Charles Williams — existir en y para el otro — se refleja en la oración por los demás y en el sacrificio vicario de Cristo (09_spotlight_intro_prayer.md). «Escuchar atentamente al Padre y al Hijo hablar de uno» es la peculiaridad de la oración cristiana, que se «ora en Dios y no solo a Dios» (09_spotlight_intro_prayer.md).
+
+**Los Padres del Desierto y la oración con el corazón.** Fr. Billy Swan recupera la sabiduría de los Padres del Desierto (s. III-IV): San Ambrosio afirma que «nunca estamos menos solos que cuando estamos solos»; la soledad «no es un lugar terapéutico privado, sino un lugar de conversión» (Nouwen). Evagrio de Pontos enseña que «nada es más esencial a la oración que la atención» (*prosoché*). Para los Padres, la pureza de corazón — «dichosos los puros de corazón, porque verán a Dios» (Mt 5,8) — es el fin de la vida espiritual; la oración surge de un corazón dividido que necesita ser purificado. Abba Arsenius escucha: «Arsenius, huye, calla, ora siempre, pues estas son las fuentes de la impureza del pecado» (10_minds.md). El Abba José aconseja a Abba Lot: «Si lo deseas, puedes volverte todo llama» (10_minds.md).
+
+**El Ángelus como oración de la Encarnación.** Nicolas Fredrickson analiza *El Ángelus* de Jean-François Millet (1857–1859): dos campesinos detienen su trabajo para recitar el Ángelus, oración que medita sobre la Encarnación tres veces al día. La capilla al fondo sugiere que al sonar la campana, los fieles suspendían sus labores para fijar su corazón en Dios. En la cacofonía del mundo actual, el cuadro recuerda la necesidad de «simplemente estar quietos y ser suyos» (12_art.md).
+
+**La Adoración del Cordero Místico y la contemplación de la liturgia celestial.** El célebre políptico de los hermanos van Eyck (1432) representa la visión del Apocalipsis: un «Cordero que estaba de pie como si hubiese sido inmolado» (Ap 5,6) recibiendo la adoración de «todas las naciones que hiciste» (Sal 86,9). Murray contempla esta obra como imagen de la contemplación de la liturgia celestial: el creyente contempla la adoración eterna del Cordero pascual, «nuestro cordero pascual, Cristo, ha sido inmolado; celebremos, pues, la fiesta» (1 Cor 5,7-8). La misa reproduce esta realidad: cuando el sacerdote eleva la hostia consagrada, se alinea con la figura del cordero, comunicando que el sacrificio pascual se hace presente (12_art.md).
+
+**Contemplación y predicación: la tradición dominicana.** Fr. Paul Murray, OP, presenta la tradición contemplativa dominicana como integración de visión de Cristo, del mundo y del prójimo. El predicador debe primero hablar con Dios (*cum Deo*) antes de hablar de Dios (*de Deo*) a los demás. El anónimo dominicano del s. XIII escribe: «Entre las cosas que un hombre debe ver en contemplación... están las necesidades de su prójimo»; «Primero ver, luego escribir, luego enviar... Lo que se necesita primero es estudio, luego reflexión en el corazón, y luego predicación» (17_feature_murray.md). La *contemplata aliis tradere* — transmitir a los demás lo contemplado — es la misión dominicana: la gracia de la predicación presupone la gracia de la contemplación (17_feature_murray.md).
+
+**El dominico Juan de la Cruz y la oración como gracia.** Murray distingue al dominico Juan de la Cruz (s. XVI) del carmelita homónimo. En su *Diálogo*, desenmascara como exagerada la pretensión de que la oración sea una actividad técnica y elitista: «Si efectivamente solo los contemplativos, en el sentido estricto, pueden alcanzar el cielo... "toma tu escalera y sube al cielo por tus propios medios si puedes"... ¡porque el resto de nosotros somos pecadores!» (17_feature_murray.md). La oración es gracia, no logro humano. William Peraldus, OP, declara: «¡La oración es un trabajo fácil!» (09_spotlight_intro_prayer.md), pues fue hecha para ello, como respirar.
+
+**Mística eclesial de servicio.** La visión de Santa Catalina de Siena revela a San Domingo emergiendo del Padre junto al Hijo — «así como este Hijo mío por naturaleza... habló ante el mundo... así también Domingo, hijo mío por adopción». La contemplación dominicana no es misticismo psicológico sino servicio eclesial; «la paloma del Espíritu Santo» reposa sobre Domingo mientras su pasión por el mundo y sus necesidades — en la «arca de su compasión» — lo impulsa a la acción. Eckhart afirma: «Si un hombre estuviera en éxtasis, como San Pablo, y supiera que algún enfermo necesitaba que le diera una sopa, yo pensaría que sería mejor abandonar tu éxtasis por amor» (17_feature_murray.md).
+
+**La liturgia divina como suprema contemplación.** Según Benedicto XVI (citado por DeClue), la liturgia es *opus Dei*, la obra de Dios: «Lo primero y principal es que Dios actúa en ella» (Aidan Nichols). La Eucaristía es anticipación de la liturgia celestial (cf. Is 25,6-9; Ap 19,7-9). La *logiké latreía* — «culto espiritual» (Rom 12,1) — significa que la Eucaristía, al abarcar la existencia concreta del creyente, «hace posible, día a día, la transformación progresiva de todos aquellos llamados por la gracia a reflejar la imagen del Hijo de Dios» (cf. Rom 8,29) (Benedicto XVI, *Sacramentum Caritatis* 70-71; 15_feature_declue.md).
+
+**La oración conducente a la misión.** Barron subraya que el fruto de la oración en la tradición bíblica es siempre «acción en favor del mundo»: somos «esencialmente una religión misionera». Incluso los momentos más altos de la unión mística están destinados a «conducir a hacer la obra de Dios en el mundo». Bernard, Juan de la Cruz, Teresa de Ávila, Meister Eckhart, Thomas Merton — todos vieron «este vínculo esencial entre la oración y la acción» (09_spotlight_intro_prayer.md).
+
 ## Distinciones importantes
 
 - Contemplación natural (sensible, imaginativa, intelectual) vs. sobrenatural o infusa.
@@ -129,3 +153,4 @@ Se relaciona con los [[grados_de_oración]], la [[meditación]] (como preparaci�
 - Ele_Xto_Stos, Cap. II, §4b
 - Ele_Xto_Stos, Cap. III, §4c
 - EAC-17, *Evangelization & Culture, Issue 17 — Education* (Autumn 2023), Word on Fire Institute (Del Noce, 06_stacks.md; Schindler, 14_feature_schindler.md; Wilson, 21_poetry_wilson.md)
+- EAC-23, *Evangelization & Culture, Issue 23 — Prayer* (Spring 2025), Word on Fire Institute (Barron, 09_spotlight_intro_prayer.md; Swan, 10_minds.md; Fredrickson, 12_art.md; DeClue, 15_feature_declue.md; Murray, 17_feature_murray.md)

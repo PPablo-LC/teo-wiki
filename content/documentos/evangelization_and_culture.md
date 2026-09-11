@@ -1,8 +1,8 @@
 ---
 type: Documento
 title: Evangelization & Culture
-description: "Trimestral del Word on Fire Institute (Bishop Robert Barron) con números sobre Creatividad, Economía, Era Digital, Cine, Escritura, Esperanza, sensibilidad católica, Humor, Poesía, Libertad, Postrimerías, Infancia, Eucaristía, Alegría, Sufrimiento, Benedicto XVI, Educación, Conversión, Inteligencia Artificial, Deporte, Democracia y Coraje"
-timestamp: 2026-09-10
+description: "Trimestral del Word on Fire Institute (Bishop Robert Barron) con números sobre Creatividad, Economía, Era Digital, Cine, Escritura, Esperanza, sensibilidad católica, Humor, Poesía, Libertad, Postrimerías, Infancia, Eucaristía, Alegría, Sufrimiento, Benedicto XVI, Educación, Conversión, Inteligencia Artificial, Deporte, Democracia, Coraje y Oración"
+timestamp: 2026-09-11
 tags:
   - evangelización
   - cultura
@@ -16,12 +16,15 @@ tags:
   - fortaleza
   - virtudes_cardinales
   - martirio
+  - oración
+  - contemplación
+  - mística
 ---
 
 # Evangelization & Culture
 
 > Área: Teología pastoral / Evangelización
-> Última actualización: 2026-09-10
+> Última actualización: 2026-09-11
 
 ## Descripción
 
@@ -53,6 +56,7 @@ tags:
 | 20 | Issue 20 | Sport | Summer 2024 | [[evangelization_and_culture_issue_20_sport]] |
 | 21 | Issue 21 | Democracy | Fall 2024 | [[evangelization_and_culture_issue_21_democracy]] |
 | 22 | Issue 22 | Courage | Winter 2024 | [[evangelization_and_culture_issue_22_courage]] |
+| 23 | Issue 23 | Prayer | Spring 2025 | [[evangelization_and_culture_issue_23_prayer]] |
 
 ## Temas centrales por número
 
@@ -739,13 +743,60 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - Fr. Billy Swan (autor, «Soul»)
 - Dr. Jason C. Paone (autor, «Peripheries: ressourcement»)
 
+### Issue 23: Prayer (Spring 2025)
+
+Para el desarrollo completo de este número, véase [[evangelization_and_culture_issue_23_prayer]].
+- La oración como elevación de la mente y el corazón a Dios: de Merton a la tradición mística; la oración como petición (lección de espacio de Juan Pablo II); la oración une en el amor (Barron)
+- «Pray because it's true»: la oración como verdad independiente de los deseos; la conversión por el rosario y la Coronilla; del «Lord, where are you?» al «Lord, here I am» (Petrusek)
+- Orar en el sufrimiento: los salmos como oración, la intercesión de los santos (CEC 2683), la oración y el ayuno contra el Maligno (Mc 9,29), la guerra espiritual (Worner)
+- Santa Mónica: la oración perseverante por la conversión de la familia; el fiat laical; la experiencia mística de Ostia (*Confesiones* 10.10) (O'Leary)
+- La oración del dudador: «The Doubter's Prayer» de Anne Brontë y la petición de fe
+- Leer los Evangelios cada día: la lectura orante (lectio divina), la sanación de la ansiedad, «orad siempre» (Lc 18,1) (Wething)
+- *Gravity* (2013): la oración como «gravedad» que ancla en la tragedia; el silencio para oír a Dios; *The Light of the World* de Hunt; «la oración unida al sacrificio es la fuerza más poderosa de la historia humana» (Paolelli)
+- ¿Qué es la oración?: la definición de Juan de Damasco y Sta. Teresita; el encuentro de dos anhelos; los dos movimientos de la voluntad (Aquino); la oración trinitaria; el silencio (1 Re 19,12; Madre Teresa); la oración disorientante (Iris Murdoch; fariseo y publicano, Lc 18,9-14); oración y transfiguración (Lc 9,28-36); de la oración a la misión (Barron)
+- Los Padres del Desierto: San Antonio (251-356), el silencio y la soledad (Sal 46,10; S. Ambrosio; Nouwen), la pureza de corazón (Mt 5,8; Casiano), la atención (Evagrio), «ser todo llama» (Swan)
+- ¿Ha refutado la ciencia el poder de la oración?: los ensayos ciegos no concluyentes; la libertad de Dios (Aquino, *Summa contra Gentiles* 88 y 73); la oración como relación filial; Getsemaní y la alegría perfecta de S. Francisco; CEC 2559; los cuatro tipos de oración (Adoración, acción de gracias, contrición, petición) (Kaczor)
+- El arte de la oración: *El Ángelus* (Millet), *Pantocrátor* del Sinaí, *Adoración del Cordero Místico* (van Eyck; Ap 5,6) y *Agonía en el huerto* (Perugino; Mt 26,39) (Fredrickson)
+- La oración «HELP!»: las muchas formas de oración; pedir, buscar y llamar (Mt 7,7; Mc 11,24; Mt 11,28) (features intro)
+- Cuatro caminos bíblicos para conocer a Jesús: el sufrimiento sacrificial (Jn 15,12-14; Mt 16,24-25), las obras de misericordia (Mt 25,35-40; Mt 28,19-20), la oración (Jn 14,12-14; 15,7; Rom 8,26; Mc 14,36; Lc 9,29) y el culto eucarístico (Lc 24,30-31; 1 Cor 10,17; 12,27) (Levering)
+- Benedicto XVI sobre la oración: el *homo orans* y el *homo religiosus* (CEC 27); la gracia presupone la naturaleza; la crítica a la meditación impersonal (TM); *Abba* solo con Cristo; el Espíritu Santo que intercede (1 Cor 12,3; Rom 8,26); la CDF 1989 sobre la contemplación; la liturgia divina como oración suprema (*Sacramentum Caritatis* 31, 70, 71); la *logiké latreía* (Rom 12,1); la liturgia como *opus Dei* (DeClue)
+- El diario de oración de Flannery O'Connor: desarrollo vs. deconstrucción de la fe; el «habit of being»; el sexo como acto religioso y la castidad (Ference)
+- Orar y predicar: la tradición contemplativa dominicana; «primero ver, luego escribir, luego enviar»; *contemplata aliis tradere*; Juan de la Cruz; «la oración es un trabajo fácil» (Peraldo); Catalina de Siena; Las Casas; «solo la naturaleza humana puede ser altar» (Cabasilas); las *Nueve Maneras de Orar* de Santo Domingo (Murray)
+- La oración como acto de esperanza: fe seca y esperanza pobre; el Jubileo 2025; la oración no es una técnica; la oración del publicano; Dios me ama primero (1 Jn 4,10); la sequedad de Sta. Teresita (Philippe)
+- La Redemption Community: «no puedes evangelizar lo que no amas»; la conversión de Shia LaBeouf y el carisma capuchino; «en mi herida más profunda vi tu gloria» (S. Agustín); las bienaventuranzas; Sta. Teresa de Calcuta («mi secreto es simple: rezo») (Ocampo)
+- La misión de Michele Cohen: del ashram al cristianismo; la esperanza sobrenatural (Haggerty); la Hora Santa y el Magníficat (Cohen)
+- La formación a la oración en la secundaria: el corazón inquieto de Agustín (*Confesiones* 1,1,1; CEC 30); sacramentos vs. superstición (S.Th. 3,61,1); la castidad y la amistad (S.Th. 2-2,23,1); «¿quién está en el altar de mi corazón?» (Hueller)
+- Las periferias: los balbuceos de los «niños» (Sal 8); el «conócete a ti mismo» de Delfos frente a GS 22 (el misterio del hombre en el Verbo encarnado); la elección de lo débil (1 Cor 1,28-29); el Magníficat (Lc 1,52); Mt 25,40; los santos con discapacidad (Margarita de Castello, José de Cupertino, Bernadette, Brendan Kelly, Chloe Kondrich); el ángel de la guarda (Bradford)
+- Meditatio & Contemplatio: 8 preguntas de reflexión sobre la oración, los santos, la Escritura y la providencia
+
+- Bishop Robert Barron (director, Word on Fire)
+- Dr. Matthew R. Petrusek (filosofía, Word on Fire Institute)
+- Tod Worner (Managing Editor)
+- Nell O'Leary (autora, «Lives: St. Monica»)
+- Anne Brontë (poeta)
+- Rob Wething (autor, «Stacks»)
+- Matt Paolelli (autor, «Film: Gravity»)
+- Fr. Billy Swan (autor, «Minds: Padres del Desierto»)
+- Dr. Chris Kaczor (filosofía, Loyola Marymount University)
+- Nicolas Fredrickson (autor, «Art»)
+- Dr. Matthew Levering (teología, Mundelein Seminary)
+- Dr. Richard G. DeClue Jr. (teología, Word on Fire)
+- Fr. Damian Ference (autor, «Feature: O'Connor»)
+- Fr. Paul Murray OP (predicador dominicano, Angelicum)
+- Fr. Jacques Philippe (Comunidad de las Bienaventuranzas «Laudem»)
+- Robbie Ocampo (director, Redemption Community)
+- Ryan Wilson (poeta)
+- Michele Cohen (testimonio, «Mission»)
+- Sr. Amelia Hueller OP (autora, «Soul»)
+- Mark Bradford (Jérôme Lejeune Fellow)
+
 ## Relación con otras fuentes
 
-Esta fuente complementa los artículos sobre [[evangelización]], [[evangelización_digital]], [[medios_de_comunicación_social]], [[belleza]], [[arte]], [[doctrina_social_de_la_iglesia]], [[nueva_evangelización]], [[cultura]], [[humor]], [[eutrapelia]], [[alegría_cristiana]], [[poesía]], [[fe_y_razón]], [[eclesiología_de_la_comunión]], [[dignidad_de_la_persona]], [[educación]], [[formación]], [[artes_liberales]], [[educación_católica]], [[conversión]], [[metanoia]], [[kerygma]], [[catecumenado]], [[testimonio_cristiano]], [[inteligencia_artificial]], [[unidad_alma_cuerpo]], [[persona]], [[libre_albedrío]], [[idolatría]], [[tecnología]] y [[tecnocracia_espiritual]]. El número dedicado al deporte (Issue 20) complementa además los artículos sobre [[deporte]], [[juego]], [[ocio]], [[ascesis]], [[disciplina_espiritual]], [[entrenamiento]], [[coaching]], [[vía_purgativa]], [[vía_iluminativa]], [[vía_unitiva]], [[perseverancia]], [[fortaleza]], [[sufrimiento]], [[cruz]], [[redención]], [[santidad]], [[dignidad_humana]], [[inclusión]], [[vocación]], [[gratitud]] y [[esperanza]]. El número dedicado a la democracia (Issue 21) complementa además los artículos sobre [[democracia]], [[gobierno_representativo]], [[soberanía_popular]], [[derechos_inalienables]], [[bien_común]], [[justicia]], [[sociedad_civil]], [[ciudadanía]], [[libertad_religiosa]], [[laicidad]], [[secularismo]], [[cristianismo_y_política]], [[teología_política]], [[ciudad_de_dios]], [[teología_de_la_historia]], [[providencia_divina]] y [[primacía_de_cristo]]. El número dedicado al coraje (Issue 22) complementa además los artículos sobre [[fortaleza]], [[coraje]], [[virtud_de_la_fortaleza]], [[virtudes_cardinales]], [[virtud]], [[miedo]], [[temor_de_dios]], [[don_de_fortaleza]], [[espíritu_santo]], [[martirio]], [[mártir]], [[gracia_santificante]], [[virtudes_infusas]], [[consejos_evangélicos]], [[pobreza]], [[castidad]], [[obediencia]], [[laicado]], [[apostolado_de_los_laicos]], [[eucaristía]], [[presencia_real]], [[cristificación]], [[humildad]] y [[santidad]].
+Esta fuente complementa los artículos sobre [[evangelización]], [[evangelización_digital]], [[medios_de_comunicación_social]], [[belleza]], [[arte]], [[doctrina_social_de_la_iglesia]], [[nueva_evangelización]], [[cultura]], [[humor]], [[eutrapelia]], [[alegría_cristiana]], [[poesía]], [[fe_y_razón]], [[eclesiología_de_la_comunión]], [[dignidad_de_la_persona]], [[educación]], [[formación]], [[artes_liberales]], [[educación_católica]], [[conversión]], [[metanoia]], [[kerygma]], [[catecumenado]], [[testimonio_cristiano]], [[inteligencia_artificial]], [[unidad_alma_cuerpo]], [[persona]], [[libre_albedrío]], [[idolatría]], [[tecnología]] y [[tecnocracia_espiritual]]. El número dedicado al deporte (Issue 20) complementa además los artículos sobre [[deporte]], [[juego]], [[ocio]], [[ascesis]], [[disciplina_espiritual]], [[entrenamiento]], [[coaching]], [[vía_purgativa]], [[vía_iluminativa]], [[vía_unitiva]], [[perseverancia]], [[fortaleza]], [[sufrimiento]], [[cruz]], [[redención]], [[santidad]], [[dignidad_humana]], [[inclusión]], [[vocación]], [[gratitud]] y [[esperanza]]. El número dedicado a la democracia (Issue 21) complementa además los artículos sobre [[democracia]], [[gobierno_representativo]], [[soberanía_popular]], [[derechos_inalienables]], [[bien_común]], [[justicia]], [[sociedad_civil]], [[ciudadanía]], [[libertad_religiosa]], [[laicidad]], [[secularismo]], [[cristianismo_y_política]], [[teología_política]], [[ciudad_de_dios]], [[teología_de_la_historia]], [[providencia_divina]] y [[primacía_de_cristo]]. El número dedicado al coraje (Issue 22) complementa además los artículos sobre [[fortaleza]], [[coraje]], [[virtud_de_la_fortaleza]], [[virtudes_cardinales]], [[virtud]], [[miedo]], [[temor_de_dios]], [[don_de_fortaleza]], [[espíritu_santo]], [[martirio]], [[mártir]], [[gracia_santificante]], [[virtudes_infusas]], [[consejos_evangélicos]], [[pobreza]], [[castidad]], [[obediencia]], [[laicado]], [[apostolado_de_los_laicos]], [[eucaristía]], [[presencia_real]], [[cristificación]], [[humildad]] y [[santidad]]. El número dedicado a la oración (Issue 23) complementa además los artículos sobre [[oración]], [[oración_de_petición]], [[oración_vocal]], [[oración_mental]], [[oración_contemplativa]], [[oración_cristiana]], [[contemplación]], [[vida_contemplativa]], [[vida_de_oración]], [[silencio]], [[silencio_interior]], [[soledad]], [[desierto]], [[padres_del_desierto]], [[pureza_de_corazón]], [[comunión_de_los_santos]], [[intercesión_de_los_santos]], [[liturgia]], [[eucaristía]], [[adoración_eucarística]], [[liturgia_de_las_horas]], [[hora_santa]], [[mística_cristiana]], [[mística]], [[virtud_de_la_fe]], [[virtud_de_la_esperanza]], [[virtud_de_la_caridad]], [[providencia_divina]], [[abandono_en_la_providencia_divina]], [[transfiguración]], [[getsemaní]], [[conversión]], [[pobreza_de_espíritu]], [[castidad]], [[dignidad_humana]], [[evangelización]], [[milagro]] y [[lectio_divina]].
 
 ## Ver también
 
-[[evangelización]], [[evangelización_digital]], [[belleza]], [[arte]], [[doctrina_social_de_la_iglesia]], [[nueva_evangelización]], [[humor]], [[eutrapelia]], [[poesía]], [[vía_pulchritudinis]], [[educación]], [[formación]], [[artes_liberales]], [[inteligencia_artificial]], [[unidad_alma_cuerpo]], [[persona]], [[libre_albedrío]], [[idolatría]], [[tecnología]], [[tecnocracia_espiritual]], [[deporte]], [[juego]], [[ocio]], [[ascesis]], [[entrenamiento]], [[sufrimiento]], [[santidad]]
+[[evangelización]], [[evangelización_digital]], [[belleza]], [[arte]], [[doctrina_social_de_la_iglesia]], [[nueva_evangelización]], [[humor]], [[eutrapelia]], [[poesía]], [[vía_pulchritudinis]], [[educación]], [[formación]], [[artes_liberales]], [[inteligencia_artificial]], [[unidad_alma_cuerpo]], [[persona]], [[libre_albedrío]], [[idolatría]], [[tecnología]], [[tecnocracia_espiritual]], [[deporte]], [[juego]], [[ocio]], [[ascesis]], [[entrenamiento]], [[sufrimiento]], [[santidad]], [[oración]], [[contemplación]], [[silencio]], [[comunión_de_los_santos]], [[transfiguración]], [[mística_cristiana]], [[padres_del_desierto]], [[pureza_de_corazón]]
 
 ## Referencias
 
@@ -771,3 +822,4 @@ Esta fuente complementa los artículos sobre [[evangelización]], [[evangelizaci
 - Evangelization & Culture, Issue 20 (2024) — Sport
 - Evangelization & Culture, Issue 21 (2024) — Democracy
 - Evangelization & Culture, Issue 22 (2024) — Courage
+- Evangelization & Culture, Issue 23 (2025) — Prayer

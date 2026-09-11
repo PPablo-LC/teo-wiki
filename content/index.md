@@ -3,7 +3,7 @@ tags:
   - meta
   - index
 title: Wiki Index
-updated: '2026-09-10'
+updated: '2026-09-11'
 note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts/regenerar-indice.py'
 ---
 
@@ -3335,6 +3335,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[andrew_allen]]
 - [[angela_m_jendro]]
 - [[ann_gauger]]
+- [[anne_brontë]]
 - [[anselm_ramelow]]
 - [[antonin_scalia]]
 - [[antonio_royo_marín]]
@@ -3359,6 +3360,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[benito_xv]]
 - [[bernadette_soubirous]]
 - [[bernhard_häring]]
+- [[billy_swan]]
 - [[blaise_pascal]]
 - [[bob_dylan]]
 - [[boecio]]
@@ -3437,6 +3439,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[eusebio_de_cesárea]]
 - [[eutiques]]
 - [[eva]]
+- [[evagrio_póntico]]
 
 ### F (Personas)
 
@@ -3513,6 +3516,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[j_r_r_tolkien]]
 - [[jack_kerouac]]
 - [[jacques_maritain]]
+- [[jacques_philippe]]
 - [[james_dunn]]
 - [[james_j_braddock]]
 - [[jane_austen]]
@@ -3586,6 +3590,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[martin_lutero]]
 - [[martin_v]]
 - [[mateo]]
+- [[matthew_levering]]
 - [[matthew_petrusek]]
 - [[michael_casey]]
 - [[michael_stevens]]
@@ -3614,6 +3619,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[papa_francisco]]
 - [[papías_de_hierápolis]]
 - [[pascasio_quesnel]]
+- [[paul_murray]]
 - [[paulo_iii]]
 - [[paulo_iv]]
 - [[paulo_v]]
@@ -3648,6 +3654,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[raymond_brown]]
 - [[réginald_garrigou-lagrange]]
 - [[ricardo_blázquez]]
+- [[richard_declue]]
 - [[richard_whittington]]
 - [[robert_barron]]
 - [[robert_cording]]
@@ -3656,6 +3663,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[roger_scruton]]
 - [[romano_guardini]]
 - [[rozann_lee]]
+- [[ryan_wilson]]
 
 ### S (Personas)
 
@@ -3674,6 +3682,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[san_cipriano]]
 - [[san_cirilo_y_san_metodio]]
 - [[san_cromacio_de_aquilea]]
+- [[san_domingo_de_guzmán]]
 - [[san_efrén]]
 - [[san_estanislao_de_kostka]]
 - [[san_fausto_de_riez]]
@@ -3751,6 +3760,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[serapion_abad]]
 - [[sereno_abad]]
 - [[servais_pinckaers]]
+- [[shia_labeouf]]
 - [[símaco_papa]]
 - [[simeon]]
 - [[simplicio_papa]]
@@ -3875,6 +3885,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[evangelization_and_culture_issue_20_sport]]
 - [[evangelization_and_culture_issue_21_democracy]]
 - [[evangelization_and_culture_issue_22_courage]]
+- [[evangelization_and_culture_issue_23_prayer]]
 - [[evangelization_and_culture_issue_2_economics]]
 - [[evangelization_and_culture_issue_3_digital_age]]
 - [[evangelization_and_culture_issue_4_cinema]]

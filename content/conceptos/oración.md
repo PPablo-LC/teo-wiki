@@ -146,6 +146,34 @@ Su método progresivo va de la oración vocal bien hecha —recitada despacio, c
 
 **La sanación de los sacerdotes a través de la oración (Tod Worner).** Worner relata que el arzobispo, al abordar sacerdotes con problemas en su ministerio, comenzaba por la pregunta: «¿Cuándo dejaste de orar?» [EAC-16, 03_midnight_oil.md]. Las narrativas de vidas de oración que habían dejado de florecer eran el punto central de partida; la reinvigoración de la vida de oración estaba en el centro de la sanación.
 
+### Según Evangelization & Culture, Issue 23 — Prayer (EAC-23)
+
+El número 23 de *Evangelization & Culture* está dedicado íntegramente a la oración y enriquece este artículo con múltiples perspectivas.
+
+**Definición y naturaleza.** Bishop Robert Barron recoge la definición de San Juan Damasco —«la elevación de la mente y el corazón a Dios»— y la de Santa Teresa de Lisieux —«un impulso del corazón, una simple mirada hacia el cielo, un grito de reconocimiento y de amor»— para definir la oración como el encuentro de dos anhelos: nuestro anhelo por Dios y el anhelo de Dios por nosotros. La oración no nace de la iniciativa humana sino de la iniciativa divina: «lo bueno de nuestra oración es Dios ya orando en nosotros» (Barron, citando a McCabe y Rahner) [EAC-23, 09_spotlight_intro_prayer].
+
+**Oración y amistad con Dios.** Juan de la Cruz presenta la oración como «despejar la pista» para que Cristo, como un helicóptero que aterriza en el corazón, pueda aterrizar en nosotros. La limpieza de apegos es la condición para la presencia de Dios [EAC-23, 09_spotlight_intro_prayer]. Fr. Jacques Philippe enseña que la oración es «un acto de fe, esperanza y amor»: fe en la existencia y bondad de Dios, esperanza de que Él nos escuchará, y amor como acogida de su amor [EAC-23, 18_special_feature_philippe].
+
+**Tipos de oración.** Dr. Chris Kaczor enumera los cuatro tipos de oración (adoración, acción de gracias, contrición, petición) y enseña que la oración es una relación filial, no una manipulación mecánica: «Dios elige responder a la oración porque quiere animarnos a entrar en relación con él, a ser un tipo diferente de persona» [EAC-23, 11_science.md]. La oración «HELP!» es la forma más básica y universal de oración: un grito desde la necesidad [EAC-23, 13_features_intro].
+
+**La oración como acto de esperanza.** Fr. Jacques Philippe vincula la oración con la virtud de la esperanza, especialmente en el Año Jubilar 2025. «La oración es una veces un tiempo de felicidad y acción de gracias, pero a veces también la oración de los pobres que clamamos a Dios» (Sal 34,6). La sequedad en la oración no debe desanimar: «incluso una fe muy pobre, si bien determinada, es suficiente para ponerse en contacto con Dios y permitirle actuar en nosotros» [EAC-23, 18_special_feature_philippe].
+
+**La oración en la Escritura.** Matthew Levering identifica cuatro caminos bíblicos para conocer a Jesús como amigo: el sufrimiento sacrificial (Jn 15,12-14), las obras de misericordia (Mt 25,35-40), la oración (Jn 14,12-14; 15,7; Rom 8,26) y el culto eucarístico (Lc 24,30-31). La oración bíblica incluye Getsemaní («no como yo quiero, sino como quieres tú», Mt 26,39), la Transfiguración (Lc 9,28-36) y la oración del Espíritu que «intercede con gemidos indecibles» (Rom 8,26) [EAC-23, 14_feature_levering].
+
+**La oración y la ciencia.** Dr. Chris Kaczor analiza los ensayos clínicos de oración (estudios doble ciego) y concluye que «los resultados no son concluyentes» porque el diseño experimental no puede controlar quién ora, cuánto ni por quién. La oración «siempre obra en su nivel más profundo», aunque no siempre cure [EAC-23, 11_science.md]. La libertad de Dios (SCG 88, 73) significa que la oración no obliga a Dios mecánicamente.
+
+**Silencio y soledad.** Fr. Billy Swan presenta la oración de los Padres del Desierto: el silencio como condición para encontrar a Dios; San Antonio (251-356) como modelo; la pureza de corazón (Mt 5,8) como visión de Dios; la atención (Evagrio) como principio de la oración; Abba Arsenio —«huye, calla, reza siempre»— [EAC-23, 10_minds.md]. Barron enseña que «el fruto del silencio es la oración» (Madre Teresa) y que en el silencio Dios habla indirectamente [EAC-23, 09_spotlight_intro_prayer].
+
+**Oración y sufrimiento.** Tod Worner describe la oración como el camino en las «estaciones de sufrimiento»: los salmos como oración de súplica (Sals 5, 70, 79, 86), la intercesión de los santos (CEC 2683), y la oración y el ayuno como defensa contra el demonio (Mc 9,29) [EAC-23, 04_midnight_oil].
+
+**Oración y predicación.** Fr. Paul Murray OP explora la tradición contemplativa dominicana: la oración como «gracia» y no como técnica; Peraldus —«la oración es una tarea fácil»—; la contemplación que conduce a la predicación (contemplata aliis tradere); las Nueve Maneras de Orar de Santo Domingo como modelo de oración sencilla y eclesial [EAC-23, 17_feature_murray].
+
+**Oración y arte.** Nicolas Fredrickson reflexiona sobre cuatro obras maestras como iconos de la oración: *El Ángelus* (Millet) como oración de la Encarnación; el *Pantocrátor* del Sinaí como la unión hipostática; la *Adoración del Cordero Místico* (van Eyck; Ap 5,6) como la Misa como banquete; la *Agonía en el huerto* (Perugino; Mt 26,39) como la oración de abandono [EAC-23, 12_art.md].
+
+**Oración y formación.** Sr. Amelia Hueller OP ofrece tres consejos para la oración en jóvenes: la sensibilidad a los sentimientos (Hopkins, «Pied Beauty»), los sacramentos frente a la superstición (S.Th. 3,61,1), y la pureza del corazón como interioridad [EAC-23, 22_soul.md].
+
+**Oración y dignidad humana.** Mark Bradford medita sobre los «balbuceos de los niños» (Sal 8,3) como la oración de los débiles: Dios elige lo despreciado y débil (1 Cor 1,28-29); la amistad con los pequeños es amistad con Cristo (Mt 25,40); los santos con discapacidad como intercesoras privilegiadas [EAC-23, 23_peripheries].
+
 ## Distinciones importantes
 
 - Oración en sentido amplio: cualquier movimiento del alma hacia Dios por cualquier virtud infusa.

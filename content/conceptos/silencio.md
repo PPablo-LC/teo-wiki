@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Silencio
 tags: ["ascética", "moral", "mística"]
 
-timestamp: 2026-08-23
+timestamp: 2026-09-11
 description: "El silencio, en la vida espiritual, es la abstención voluntaria de hablar o la suspensión del ruido exterior e interior para disponer el alma a la escucha de Dios y el cultivo de la presencia divina."
 ---
 # Silencio
 
 > Área: Ascética / Moral / Mística
-> Última actualización: 2026-08-23
+> Última actualización: 2026-09-11
 
 ## Definición
 
@@ -91,7 +91,21 @@ Kathryn Jean Lopez recuerda que el ruido de las redes sociales y las pantallas n
 
 **Otro silencio: la carencia (Gioia).** «The Silence of the Poets»: biblioteca polvorienta donde nadie viene ya a leer «o sabría cómo»; los poetas alienados de su función cultural originaria = sordera ensordecedora: «una ciudad desprovista de profecía y testimonio». Almas hambrientas por falta de versos capaces de llevarnos «al umbral de la grande y silente presencia de Dios».
 
-## Distinciones importantes
+### Según Evangelization & Culture, Issue 23 — Prayer (EAC-23)
+
+El número 23 de *Evangelization & Culture*, dedicado a la oración, presenta el silencio como condición del encuentro transformador con Dios.
+
+**El silencio como condición de la escucha.** Bishop Robert Barron dedicó una sección de su introducción a la oración al silencio: «El fruto del silencio es la oración; el fruto de la oración es la fe; el fruto de la fe es el amor; el fruto del amor es el servicio; el fruto del servicio es la paz» (Madre Teresa). «Tenemos una cultura muy ruidosa; nos estimulamos constantemente con palabras e ideas, hablando y escuchándonos sin parar. ¿Nos sentamos en silencio, permitiendo que Dios hable en ese espacio?» [EAC-23, 09_spotlight_intro_prayer].
+
+Barron remite al profeta Elías en el Horeb, que no oye a Dios en el viento, el terremoto o el fuego, sino en «un susurro de brisa suave» o «el sonido de un silencio absoluto» (1 Re 19,12): «Cuando los ruidos se aplacan, la Voz puede ser oída» [EAC-23, 09_spotlight_intro_prayer]. Recuerda cómo muchas órdenes religiosas —la orden cartujana fundada por San Bruno— «se basan en esta disciplina»; «la mayoría de nosotros no podemos ser cartujos, pero podemos aprender mucho de su actitud de devoción radical al silencio» [EAC-23, 09_spotlight_intro_prayer]. Santo Tomás habla de los dos movimientos básicos de la voluntad: buscar el bien ausente y saborear el bien presente; «cuando tienes el bien de Dios, un saboreo silencioso de ese bien es clave; eso también es parte de la oración» [EAC-23, 09_spotlight_intro_prayer].
+
+**Silencio y soledad en la tradición de los Padres del Desierto.** Fr. Billy Swan presenta la oración de los Padres del Desierto como enseñanza del valor del «silencio y la soledad como condiciones para un encuentro transformador con Dios». Vivimos en «un mundo ruidoso y frenético»; «la mayoría de nosotros nos sentimos incómodos con el silencio. ¿Por qué? Porque solo el silencio nos permite oír lo que realmente sucede en nuestros corazones inquietos»: «Estad quietos, y sabed que yo soy Dios» (Sal 46,10). Lo que los Padres del Desierto anticiparon es «nuestra incapacidad para enfrentarnos a nosotros mismos —nuestras heridas, nuestras carencias, nuestra imperfección, nuestras limitaciones, nuestras pérdidas y nuestra necesidad de amor»—: «No enfrentarnos a nosotros mismos y nunca tomarnos el tiempo de orar nuestras realidades vulnerables ante Dios resulta en una vida de tristeza e insatisfacción» [EAC-23, 10_minds].
+
+Swan distingue soledad y aislamiento: «La soledad es un estado de desconexión, de nosotros mismos, de Dios y de los demás. El recogimiento solitario purifica nuestra capacidad de conectar y relacionarnos mejor». Cita a San Ambrosio: «nunca estamos menos solos que cuando estamos solos»: «para el creyente, nunca estamos completamente solos, pues Dios está más íntimamente presente a nosotros como amante y amigo que nosotros a nosotros mismos» [EAC-23, 10_minds]. Cita a [[henri_nouwen]] («*The Way of the Heart*») sobre la soledad como «lugar de conversión —el lugar donde el yo viejo muere y el yo nuevo nace—». Concluye: «No tengas miedo de estar solo, pues el que tiene a Cristo nunca está solo» [EAC-23, 10_minds].
+
+**El consejo de Abba Arsenio.** En respuesta a su oración «Señor, guíame por el camino de la salvación», Arsenio oyó una voz que le dijo: «Arsenio, huye, calla, reza siempre, pues estas son las fuentes de la santidad» (inocencia) [EAC-23, 10_minds].
+
+**Silencio en la contemplación (interno/externo).** El subagente de este artículo ya trató el silencio en relación con la oración contemplativa y la liturgia; EAC-23 añade la dimensión de vaciamiento del ruido exterior como condición para la escucha interior. Las recomendaciones prácticas de Swan recuerdan que no siempre necesitamos música o radio en el coche, ni hablar «solo por hablar»: «Tómate el tiempo de dejar a un lado tu smartphone, apaga tu portátil, y apaga ese ruido. Escucha con tu corazón cuando permaneces en el silencio de una hora santa ante el Santísimo Sacramento» [EAC-23, 10_minds].
 
 - Silencio espiritual (ascético) ≠ silencio cómplice (moral): el primero es virtud, el segundo es vicio.
 - Secreto de oficio (obligación de discreción profesional) ≠ imposición de silencio sobre hechos delictivos: el primero es lícito y necesario; la segunda está prohibida.
@@ -116,3 +130,5 @@ Se relaciona con [[oración_contemplativa]], [[recogimiento_interior]], [[guardi
 - SC 30
 - Marion, Jean-Luc. *God Without Being*. University of Chicago Press, 1991.
 - Hren, Joshua. "Feature: The Silence of the Poets." *Evangelization & Culture*, No. 9, Autumn 2021.
+- [EAC-23, 09_spotlight_intro_prayer.md]
+- [EAC-23, 10_minds.md]
