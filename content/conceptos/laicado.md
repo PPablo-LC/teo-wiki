@@ -2,14 +2,14 @@
 type: Concepto Teológico
 title: Laicado
 tags: ["eclesiología", "teología_del_laicado"]
-
-timestamp: 2026-06-19
-description: "El laicado designa al conjunto de los fieles cristianos que, incorporados a Cristo por el bautismo, integrados al Pueblo de Dios y hechos partícipes a su modo de la función sacerdotal."
+timestamp: 2026-09-10
+description: "El laicado designa al conjunto de los fieles cristianos que, incorporados a Cristo por el bautismo, integrados al Pueblo de Dios y hechos partícipes a su modo de la función sacerdotal, profética y real; su misión en el mundo es forma de coraje cotidiano."
 ---
+
 # Laicado
 
 > Área: Eclesiología / Teología del laicado
-> Última actualización: 2026-06-19
+> Última actualización: 2026-09-10
 
 ## Definición
 
@@ -24,6 +24,15 @@ La connotación esencial de los fieles laicos es la índole secular de su seguim
 ### Según el Compendio (CompDS)
 
 [§541-544]: «La connotación esencial de los fieles laicos que trabajan en la viña del Señor ... es la índole secular de su seguimiento de Cristo, que se realiza precisamente en el mundo» [§541]. «Con el nombre de laicos se designan aquí todos los fieles cristianos, a excepción de los miembros del orden sagrado y los del estado religioso aprobado por la Iglesia» [§541]. La identidad del fiel laico nace y se alimenta del Bautismo, la Confirmación y la Eucaristía [§542]. De este don divino nace el triple «munus» que cualifica al laico como profeta, sacerdote y rey, según su índole secular [§542]. «Es tarea propia del fiel laico anunciar el Evangelio con el testimonio de una vida ejemplar, enraizada en Cristo y vivida en las realidades temporales» [§543]. «Todas las realidades humanas seculares, personales y sociales, ambientes y situaciones históricas, estructuras e instituciones, son el lugar propio del vivir y actuar de los cristianos laicos» [§543].
+
+### Según Evangelization & Culture n.º 22 «Courage» (EAC-22)
+
+En el *Spotlight* sobre el Congreso Eucarístico Nacional 2024 (09_spotlight_barron.md), Barron despliega la teología del laicado del Vaticano II:
+
+- **Sal de la tierra y luz del mundo** (Mt 5,13-16): el cristianismo «no es para uno mismo»; la Iglesia que sale de sí siguiendo la indicación de Francisco y de *Lumen Gentium*: llevar la luz a las gentes.
+- **Derechos y obligaciones del laicado**: el Vaticano II —en la estela de la gran tradición de los laicos católicos en el mundo— confía al laico la misión de dar «cuerpo dado y sangre derramada» en el *seculum*; el laico hace presente a Cristo en la vida ordinaria (cf. [[índole_secular]]).
+- **La ciudad toda templo** (Ap 21): si la Jerusalén celestial no tendrá templo porque toda la ciudad será templo, la misión del laico es llevar la luz a las gentes y convertir la ciudad entera en templo.
+- **El coraje del laico**: la vida laical, asumida con la radicalidad de los [[consejos_evangélicos]], exige el coraje cotidiano de ser sal y luz en medio de un «mundo que no es para uno mismo»; la vocación laical es así una forma del [[coraje]].
 
 ## Distinciones importantes
 

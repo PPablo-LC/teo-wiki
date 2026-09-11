@@ -17,7 +17,7 @@ V Capítulo General ordinario de la [[legión_de_cristo]], celebrado en 2020. Co
 
 ## Ver también
 
-[[capítulo_general_extraordinario_2014_legionarios_de_cristo]], [[constituciones_lc]], [[conversión_y_reparación]]
+[[capítulo_general_extraordinario_2014]], [[constituciones_lc]], [[conversión_y_reparación]]
 
 ## Referencias
 

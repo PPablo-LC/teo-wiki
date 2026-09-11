@@ -2,14 +2,14 @@
 type: Persona
 title: Henri de Lubac
 tags: ["personas", "teólogos", "jesuitas", "cardenales", "siglo_XX"]
-
-timestamp: 2026-08-30
-description: "Henri de Lubac SJ (1896-1991), cardenal y teólogo jesuita; Catholicism, Surnaturel; lectura de Orígenes sobre la espera escatológica como comunión mística."
+timestamp: 2026-09-10
+description: "Henri de Lubac SJ (1896-1991), cardenal y teólogo jesuita; Catholicism, Surnaturel; lectura de Orígenes sobre la espera escatológica como comunión mística; alma del ressourcement y modelo de coraje intelectual."
 ---
+
 # Henri de Lubac
 
 > Área: Personas / Teólogos del siglo XX
-> Última actualización: 2026-08-30
+> Última actualización: 2026-09-10
 
 ## Contexto histórico
 
@@ -29,6 +29,10 @@ Richard De Clue («The Genius of Henri de Lubac») destaca la aportación eucar�
 
 En el número dedicado a Benedicto XVI (verano de 2023), de Lubac aparece como uno de los **mentores intelectuales de Joseph Ratzinger** y fuente de su eclesiología. Rowland resume que en el núcleo del vasto legado de Ratzinger hay «una eclesiología agustiniana fuertemente influida por Henri de Lubac y Hans Urs von Balthasar» [EAC-16, 15]. Fessio lo nombra entre los maestros de Ratzinger junto a Balthasar [EAC-16, 12]. A través de la noción de la Iglesia como «proceso dinámico de unificación vertical y horizontal» y de la [[eclesiología_de_la_comunión]], Ratzinger prolonga la intuición de de Lubac sobre la naturaleza esencialmente social y eucarística de la salvación y de la Iglesia. Véase [[eclesiología_de_la_comunión]] y [[iglesia_cuerpo_místico]].
 
+### Según Evangelization & Culture n.º 22 «Courage» (EAC-22)
+
+En *Peripheries* (23_peripheries_paone.md), Jason C. Paone presenta a de Lubac como el alma del *ressourcement* y su coraje intelectual: resistente en la Segunda Guerra Mundial, formado en el clima anti-modernista posterior a *Pascendi* (1907), dedicado a «traer de vuelta» a los Padres (ediciones críticas de *Sources Chrétiennes*), privado de enseñar por censura disciplinaria —verdadero «destierro»— y finalmente vindicado por el Vaticano II, al que fue perito (Lumen Gentium, Dei Verbum). Su apertura al mundo moderno y a la tradición —sin el poder del *ancien régime*, como subraya Paone— es presentada como modelo de valentía intelectual en los «tiempos de prueba» de la Iglesia.
+
 ## Relaciones doctrinales
 
 [[visión_beatífica]], [[comunión_de_los_santos]], [[cuerpo_místico_de_cristo]], [[theosis]], [[novísimos]], [[orígenes_de_alejandría]]
@@ -45,5 +49,6 @@ En el número dedicado a Benedicto XVI (verano de 2023), de Lubac aparece como u
 - Healy Jr., Nicholas J. «The Eucharist and the Beatific Vision», en *Evangelization & Culture* 11 (Spring 2022).
 - De Clue, Richard. «The Genius of Henri de Lubac», en *Evangelization & Culture* 13 (Autumn 2022).
 - EAC-16, *Evangelization & Culture, Issue 16 — Pope Benedict XVI* (Summer 2023), Word on Fire Institute (Rowland, Fessio).
+- EAC-22, *Evangelization & Culture, Issue 22 — Courage* (Winter 2024), Word on Fire Institute (23_peripheries_paone.md).
 - de Lubac, Henri. *Catholicism: Christ and the Common Destiny of Man*. Ignatius Press, 1988.
 - de Lubac, Henri. *The Drama of Atheist Humanism*. Ignatius Press, 1995.

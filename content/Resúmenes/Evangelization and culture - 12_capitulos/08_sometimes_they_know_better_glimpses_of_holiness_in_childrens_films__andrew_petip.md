@@ -4,7 +4,7 @@ title: '"Sometimes They Know Better": Glimpses of Holiness in Children''s Films 
 fuente: Evangelization and culture - 12_capitulos
 capítulo: 8
 timestamp: 2026-09-03
-description: 'Análisis de películas infantiles (E.T., The Goonies, Stand by Me, Mi vecino Totoro) como muestra de la pureza de corazón infantil que a menudo supera la miopía espiritual adulta, con referencias a Juan Pablo II, Luigi Giussani y Newman.'
+description: "Análisis de películas infantiles (E.T., The Goonies, Stand by Me, Mi vecino Totoro) como muestra de la pureza de corazón infantil que a menudo supera la miopía espiritual adulta, con referencias a Juan Pablo II, Luigi Giussani y Newman."
 tags: ["resumen", "evangelization_and_culture_12", "cine_infantil", "pureza_de_corazon", "e_t", "the_goonies", "stand_by_me", "mi_vecino_totoro", "luigi_giussani", "john_henry_newman"]
 ---
 

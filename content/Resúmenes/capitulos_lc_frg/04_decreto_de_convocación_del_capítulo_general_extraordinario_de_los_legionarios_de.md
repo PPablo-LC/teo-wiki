@@ -12,16 +12,16 @@ tags: ["resumen", "capitulos lc frg"]
 
 ## Conceptos básicos referenciados
 
-- [[Capítulo_General_Extraordinario_de_los_Legionarios_de_Cristo]]
-- [[Constituciones_de_los_Legionarios_de_Cristo]]
-- [[Dirección_General_de_los_Legionarios_de_Cristo]]
+- [[capítulo_general]]
+- [[constituciones_legionarios_de_cristo]]
+- [[gobierno_congregacional]]
 
 
 ## Contenido
 
 📄 **Fuente original:** `04_decreto_de_convocación_del_capítulo_general_extraordinario_d.md`
 
-Decreto de la [[Dirección_General_de_los_Legionarios_de_Cristo]] (Prot. DG-LC 405-2018, 2 de febrero de 2018, Fiesta de la Presentación del Señor), firmado por el P. Eduardo Robles-Gil y el P. Jaime Rodríguez, que convoca oficialmente al [[Capítulo_General_Extraordinario_de_los_Legionarios_de_Cristo]].
+Decreto de la [[gobierno_congregacional]] (Prot. DG-LC 405-2018, 2 de febrero de 2018, Fiesta de la Presentación del Señor), firmado por el P. Eduardo Robles-Gil y el P. Jaime Rodríguez, que convoca oficialmente al [[capítulo_general]].
 
 **Fechas del Capítulo**: dos fases — del 26 de marzo al 7 de abril de 2018, y del 19 al 24 de noviembre de 2018, ambas en la Sede de la Dirección General en Roma.
 

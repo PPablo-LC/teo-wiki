@@ -2,14 +2,14 @@
 type: Concepto Teológico
 title: Miedo
 tags: ["moral", "ascética"]
-
-timestamp: 2026-06-03
-description: "Pasión del apetito irascible que huye de un mal futuro percibido como difícil de evitar. En sí mismo indiferente, el miedo se vuelve virtuoso o vicioso según su objeto, intensidad y modo."
+timestamp: 2026-09-10
+description: "Pasión del apetito irascible que huye de un mal futuro percibido como difícil de evitar. En sí mismo indiferente, el miedo se vuelve virtuoso o vicioso según su objeto, intensidad y modo; la confianza en Dios lo vence sin suprimirlo."
 ---
+
 # Miedo
 
 > Área: Moral / Ascética
-> Última actualización: 2026-06-03
+> Última actualización: 2026-09-10
 
 ## Definición
 
@@ -34,6 +34,22 @@ El impávido (que no teme nada) peca por defecto, pues el temor moderado es nece
 > **Nota**: Estas son fuentes complementarias de carácter testimonial y pastoral, no magisterial. Se incluyen por su valor edificante y por su convergencia con la doctrina católica.
 
 Ali Ghaffari identifica tres miedos universales: fracaso, humillación y no ser amado. Define el coraje como «respuesta apropiada al miedo», distinguiéndolo de la temeridad y la cobardía. Joey Stevens propone el modelo de «burbujas» (Comodidad → Miedo → Aprendizaje → Crecimiento) y señala que el miedo se supera con apoyo comunitario. Sean Glass destaca el miedo a la inadequación como el mayor obstáculo para la fortaleza.
+
+### Según Evangelization & Culture n.º 22 «Courage» (EAC-22)
+
+El número sobre el coraje aborda el miedo como pasión que la fortaleza debe moderar y como ámbito donde la confianza en Dios vence al temor:
+
+**El miedo que impide la virtud (01_from_the_desk.md):** Barron observa que la fortaleza permite cumplir el acto moralmente recto pese a la amenaza (pérdida de empleo, crítica, muerte). El miedo natural es la prueba que el coraje transfigurado por la gracia vence.
+
+**El coraje como dominio del miedo (13_features_intro.md):** Twain: «*Courage is resistance to fear, mastery of fear—not absence of fear*» (el valor es resistencia al miedo, dominio del miedo, no ausencia de miedo). Pedro que niega por miedo se convierte en Pedro que afirma a Cristo: el miedo no desaparece, se domina.
+
+**La ansiedad y el coraje en lo cotidiano (04_midnight_oil.md):** Worner ofrece ocho consejos para el miedo-ansiedad: orar; leer la Escritura y los santos; «salir de la cabeza»; confiar y actuar (Oración de la Serenidad de Niebuhr); distinguir sentimientos de hechos; aceptar la incertidumbre; «esto también pasará» (Dante/Virgilio); dejar de llegar a ser y simplemente ser (Frost, *Stopping by Woods*). La confianza en la providencia —no la impavidez— es la vía cristiana ante la incertidumbre.
+
+**El coraje que avanza en medio del miedo (16_feature_bulman.md):** El coraje no exige ausencia de miedo sino avanzar a pesar de él. S. Agustín: «La esperanza tiene dos hijas: la ira y el coraje». Criar hijos en una era sin coraje es un ejercicio continuo de esta virtud.
+
+**El miedo tras el pecado original (18_feature_casey.md):** El coraje bíblico responde al miedo que el pecado introdujo: Adán se esconde (Gn 3,10) y Dios lo viste neutralizando el miedo paralizante (Gn 3,21). Frente a la *andreia* griega, el AT exhorta a un coraje corporativo (*andrizesthai*) fundado en la confianza en el Dios de la alianza; la ansiedad (*merimna*) es vencida por la *parrhesía* del Espíritu (Mc 13,9; Hch 5,41).
+
+**Amor y temor, las dos potencias (22_soul_swan.md):** Swan, basado en 1 Jn 4,18 —«el amor perfecto expulsa el temor»—, explica que Jesús vino a invertir el poder del temor sobre el amor. El temor filial es el que fortalece el vínculo de amor (S. Tomás); el temor de Dios es principio de sabiduría (Sal 111,10). La serie de «No temas» atraviesa la Escritura y los papas: Benedicto XVI en el inicio de su pontificado: «no tengáis miedo de Cristo, que no quita nada y da todo»; Francisco (*Gaudete et Exsultate* 133) advierte de la «paralización por el miedo». El único temor que permanece ante la muerte —donde se recibe la unción y se comienda el espíritu al Padre— es el temor del Señor.
 
 ## Distinciones importantes
 

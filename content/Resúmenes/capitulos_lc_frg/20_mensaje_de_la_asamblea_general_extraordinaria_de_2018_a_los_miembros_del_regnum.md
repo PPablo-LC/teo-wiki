@@ -12,7 +12,7 @@ tags: ["resumen", "capitulos lc frg"]
 
 ## Conceptos básicos referenciados
 
-- [[Asamblea_General_del_Regnum_Christi]]
+- [[asamblea_general_regnum_christi]]
 - [[Regnum_Christi]]
 - [[Comunión]]
 - [[Reconciliación]]
@@ -24,7 +24,7 @@ tags: ["resumen", "capitulos lc frg"]
 
 📄 **Fuente original:** `20_mensaje_de_la_asamblea_general_extraordinaria_de_2018_a_los_.md`
 
-Mensaje de la primera sesión de la [[Asamblea_General_del_Regnum_Christi]] sobre comunión y reconciliación, emitido en Roma el 18 de abril de 2018 (Prot. DG-RC 164-2018).
+Mensaje de la primera sesión de la [[asamblea_general_regnum_christi]] sobre comunión y reconciliación, emitido en Roma el 18 de abril de 2018 (Prot. DG-RC 164-2018).
 
 El documento se estructura en 10 puntos:
 

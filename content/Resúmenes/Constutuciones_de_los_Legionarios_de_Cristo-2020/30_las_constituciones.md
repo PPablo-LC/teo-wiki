@@ -12,7 +12,7 @@ tags: ["resumen", "constutuciones de los legionarios de cristo-2020"]
 
 ## Conceptos básicos referenciados
 
-- [[Constituciones_de_la_Congregación_de_los_Legionarios_de_Cristo]]
+- [[constituciones_legionarios_de_cristo]]
 - [[derecho_propio]]
 - [[aprobación_canónica]]
 

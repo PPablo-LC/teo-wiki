@@ -12,13 +12,13 @@ tags: ["resumen", "capitulos lc frg"]
 
 ## Conceptos básicos referenciados
 
-- [[Capítulo_General_Extraordinario_de_los_Legionarios_de_Cristo]]
+- [[capítulo_general]]
 - [[Legionarios_de_Cristo]]
 - [[Regnum_Christi]]
 - [[Federación_Regnum_Christi]]
 - [[Consagradas_del_Regnum_Christi]]
 - [[Laicos_Consagrados_del_Regnum_Christi]]
-- [[Constituciones_de_los_Legionarios_de_Cristo]]
+- [[constituciones_legionarios_de_cristo]]
 - [[Código_de_Derecho_Canónico]]
 
 
@@ -26,7 +26,7 @@ tags: ["resumen", "capitulos lc frg"]
 
 📄 **Fuente original:** `16_primera_sesión_comunicación_del_capítulo_general_extraordina.md`
 
-Comunicación del [[Capítulo_General_Extraordinario_de_los_Legionarios_de_Cristo]] al término de su primera sesión, emitida en Roma el 8 de abril de 2018 (Domingo de la Divina Misericordia).
+Comunicación del [[capítulo_general]] al término de su primera sesión, emitida en Roma el 8 de abril de 2018 (Domingo de la Divina Misericordia).
 
 ### Introducción
 

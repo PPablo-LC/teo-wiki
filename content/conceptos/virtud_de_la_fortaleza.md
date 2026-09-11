@@ -2,14 +2,14 @@
 type: Concepto Teológico
 title: Virtud de la fortaleza
 tags: ["moral"]
-
-timestamp: 2026-06-23
-description: "La fortaleza es la tercera de las [[virtudes_cardinales]], virtud infusa que modera la pasión del ánimo en los ataques del mal y en las dificultades del bien."
+timestamp: 2026-09-10
+description: "La fortaleza es la tercera de las [[virtudes_cardinales]], virtud infusa que modera la pasión del ánimo en los ataques del mal y en las dificultades del bien; el coraje natural asumido por la gracia llega a su plenitud sobrenatural."
 ---
+
 # Virtud de la fortaleza
 
 > Área: Moral
-> Última actualización: 2026-06-23
+> Última actualización: 2026-09-10
 
 ## Definición
 
@@ -132,6 +132,18 @@ Define la virtud siguiendo a Santo Tomás: el fuerte es quien está dispuesto a 
 Pone como ejemplo a **San Estanislao de Kostka**, joven de complexión frágil que, movido por la fortaleza, eligió la pobreza siguiendo a Cristo contra la oposición de su familia, caminó de Viena a Roma para ingresar en los jesuitas, y vivió su lema «*Ad maiora natus sum*: He nacido para cosas más grandes».
 
 Finalmente, recuerda que cuando al hombre le faltan fuerzas para superarse por valores superiores, es necesario el **don de fortaleza**, el «don de lo alto» que hace de cada uno un hombre fuerte y le dice en lo íntimo: «¡Ánimo!».
+
+### Según Evangelization & Culture n.º 22 «Courage» (EAC-22)
+
+El número 22 de EAC confirma y desarrolla la doctrina tomista de la fortaleza desde la perspectiva pastoral del coraje:
+
+**La fortaleza clásica (01):** Barron recupera la *fortitudo* aristotélico-tomista: virtud que permite resistir los miedos que impedirían cumplir las exigencias de la razón. Su acto propio es perseverar en el bien pese a la amenaza (pérdida de empleo, crítica, muerte), es decir, la «resistencia» que Santo Tomás considera el acto principal de la fortaleza (STh II-II q.123 a.2).
+
+**Fortaleza natural y sobrenatural (01, 08):** La distinción tomista entre fortaleza adquirida y fortaleza infusa (STh II-II q.123 a.4) reaparece: la virtud natural de Edith Stein es transfigurada por la gracia (motivación y forma sobrenaturales). El don de fortaleza (Luis M. Martínez, *The Sanctifier*) da la «audacia por la justicia a la manera de Dios», en el fuego del Espíritu (08).
+
+**La conexión de las virtudes (03, 04, 14):** Sin fortaleza las demás virtudes no se ejercitan: justicia sin coraje no se cumple, prudencia acobardada no decide, caridad sin riesgo no actúa (03). El coraje debe estar purificado por prudencia, justicia y templanza —Chesterton: las virtudes aisladas enloquecen— (04). Lewis: el coraje es «la forma de toda virtud en el punto de prueba» (14).
+
+**Las partes de la fortaleza en acción:** La magnanimidad y la perseverancia aparecen en los ejemplos de los «hombres fuertes» del número: Churchill («never give in»), Juana de Arco (fidelidad a la misión), Kolbe (martirio de caridad), Sam Gamgee (fortaleza cotidiana), Edith Stein (coraje intelectual) y los teólogos del ressourcement (coraje intelectual bajo censura).
 
 ## Distinciones importantes
 

@@ -16,7 +16,7 @@ tags: ["resumen", "antologia_delegado_pontificio", "espiritualidad_lc"]
 - [[visita_apostolica]] — proceso de inspección por la Santa Sede
 - [[marcial_maciel]] — fundador de la Legión de Cristo
 - [[constituciones_de_la_legion_de_cristo]] — texto fundamental de la Congregación
-- [[carisma_de_la_legion_de_cristo]] — don del Espíritu a preservar y purificar
+- [[carisma_legionario]] — don del Espíritu a preservar y purificar
 - [[comision_central_para_la_revision_de_las_constituciones]] — organismo para la revisión constitucional
 - [[comision_de_acercamiento]] — para atender a personas afectadas por los hechos del fundador
 - [[comision_para_estudiar_los_asuntos_economicos]] — revisión de la gestión económica
@@ -43,7 +43,7 @@ El Secretario de Estado transmite la solidaridad y plegaria de Benedicto XVI a l
 
 ### Comunicado de la Santa Sede sobre la Visita Apostólica (1 de mayo de 2010)
 
-Síntesis de las conclusiones de la Visita: entrevistas a más de mil legionarios, examen de cientos de testimonios. Se reconoce la presencia de «un gran número de religiosos ejemplares», pero también que la conducta del [[marcial_maciel]] causó consecuencias serias. Se enumeran tres necesidades: redefinir el [[carisma_de_la_legion_de_cristo]] preservando la *militia Christi*, revisar el ejercicio de la autoridad y preservar el entusiasmo de la fe de los jóvenes. El Papa asegura que la Iglesia acompañará a la Congregación y que enviará un visitador a los miembros consagrados del [[regnum_christi]].
+Síntesis de las conclusiones de la Visita: entrevistas a más de mil legionarios, examen de cientos de testimonios. Se reconoce la presencia de «un gran número de religiosos ejemplares», pero también que la conducta del [[marcial_maciel]] causó consecuencias serias. Se enumeran tres necesidades: redefinir el [[carisma_legionario]] preservando la *militia Christi*, revisar el ejercicio de la autoridad y preservar el entusiasmo de la fe de los jóvenes. El Papa asegura que la Iglesia acompañará a la Congregación y que enviará un visitador a los miembros consagrados del [[regnum_christi]].
 
 ### Carta de nombramiento del delegado pontificio (16 de junio de 2010)
 
@@ -63,7 +63,7 @@ Aclara la vigencia de las Constituciones durante la revisión y recuerda que los
 
 ### Carta del delegado (19 de octubre de 2010)
 
-Tras tres meses de trabajo, ofrece un cuadro de acompañamiento: los superiores actuales siguen en sus cargos, los cuatro consejeros personales han sido nombrados, se ha iniciado la Visita Apostólica al RC y se ha abierto una nueva fase que «ya no consiste en el de un visitador o comisario, sino en el de acompañar el camino de renovación». Reflexiona sobre los hechos del fundador, la responsabilidad de los superiores, el [[carisma_de_la_legion_de_cristo]] y la renovación postconciliar.
+Tras tres meses de trabajo, ofrece un cuadro de acompañamiento: los superiores actuales siguen en sus cargos, los cuatro consejeros personales han sido nombrados, se ha iniciado la Visita Apostólica al RC y se ha abierto una nueva fase que «ya no consiste en el de un visitador o comisario, sino en el de acompañar el camino de renovación». Reflexiona sobre los hechos del fundador, la responsabilidad de los superiores, el [[carisma_legionario]] y la renovación postconciliar.
 
 ### Carta del delegado (5 de diciembre de 2010)
 

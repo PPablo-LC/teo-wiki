@@ -14,7 +14,7 @@ tags: ["resumen", "informe_1941_2019", "comisión_de_casos", "origen", "víctima
 
 - [[informe_1941_2019]] — Informe sobre el fenómeno del abuso sexual de menores en la Congregación
 - [[comisión_de_casos]] — Comisión de casos de abuso de menores del pasado y atención a las personas implicadas
-- [[capítulo_general_2014]] — Capítulo General que subrayó la salida al encuentro de las víctimas
+- [[capítulo_general_extraordinario_2014]] — Capítulo General que subrayó la salida al encuentro de las víctimas
 - [[ambientes_seguros]] — Política de protección implementada a partir de 2015
 - [[reconciliación]] — Finalidad de la comisión con los afectados
 - [[eduardo_robles_gil]] — Superior general que creó la comisión

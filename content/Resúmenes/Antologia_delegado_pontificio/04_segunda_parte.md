@@ -18,7 +18,7 @@ tags: ["resumen", "antologia_delegado_pontificio", "espiritualidad_lc"]
 - [[consejos_evangelicos]] — pobreza, castidad y obediencia como forma de vida
 - [[vida_consagrada]] — «memoria viviente» de Cristo, la forma más elevada de vivir el Evangelio
 - [[regnum_christi]] — Movimiento en proceso de configuración canónica
-- [[carisma_de_la_legion_de_cristo]] — don del Espíritu referido a la realeza de Cristo
+- [[carisma_legionario]] — don del Espíritu referido a la realeza de Cristo
 - [[nueva_evangelizacion]] — urgencia de anunciar el Evangelio en el mundo secularizado
 - [[secularizacion]] — pérdida del sentido de lo sagrado y de la trascendencia
 - [[realeza_de_cristo]] — misterio central del carisma del Regnum Christi
@@ -67,11 +67,11 @@ Fiesta de la Asunción. Reflexión sobre la [[vida_consagrada]] como «memoria v
 
 ### Encuentro con directores territoriales — Roma, 17 de septiembre de 2012
 
-El delegado aborda varios temas: la renovación es espiritual (no solo estructural), el [[carisma_de_la_legion_de_cristo]] existe y debe ser revisado, la espiritualidad del RC se fundamenta en la realeza de Cristo, la naturaleza del Movimiento requiere encontrar una configuración canónica que garantice unidad e identidad de las partes. El P. Ghirlanda explica la distinción entre «vida espiritual» y «espiritualidad», y la importancia de ir al carisma como raíz. El delegado insiste en no poner frenos al Espíritu, en proceder por análisis antes que por síntesis, y en que «los sujetos son distintos y entran en comunión». Se aborda la cuestión de si los consagrados son laicos o laicos consagrados, la misión apostólica, la formación, y la perseverancia en el camino de renovación.
+El delegado aborda varios temas: la renovación es espiritual (no solo estructural), el [[carisma_legionario]] existe y debe ser revisado, la espiritualidad del RC se fundamenta en la realeza de Cristo, la naturaleza del Movimiento requiere encontrar una configuración canónica que garantice unidad e identidad de las partes. El P. Ghirlanda explica la distinción entre «vida espiritual» y «espiritualidad», y la importancia de ir al carisma como raíz. El delegado insiste en no poner frenos al Espíritu, en proceder por análisis antes que por síntesis, y en que «los sujetos son distintos y entran en comunión». Se aborda la cuestión de si los consagrados son laicos o laicos consagrados, la misión apostólica, la formación, y la perseverancia en el camino de renovación.
 
 ### Reflexión sobre el carisma del RC — Roma, 21 de septiembre de 2012
 
-Documento del card. De Paolis que presenta la reflexión personal sobre la realeza de Cristo como hilo conductor del [[carisma_de_la_legion_de_cristo]]. El RC se inspira en el misterio de Cristo Rey que anuncia y realiza el Reino de Dios. Los miembros participan del carisma según su vocación propia: Legionarios (instituto religioso), consagrados (asociación laical) y laicos (primer y segundo grado). La espiritualidad se centra en la conformación a Cristo, camino de pobreza, obediencia y entrega total hasta la cruz, para llegar a la resurrección. Se describen las fuentes de la espiritualidad: la Palabra de Dios, la Eucaristía, la Liturgia de las Horas, el rezo del Rosario y los ejercicios espirituales.
+Documento del card. De Paolis que presenta la reflexión personal sobre la realeza de Cristo como hilo conductor del [[carisma_legionario]]. El RC se inspira en el misterio de Cristo Rey que anuncia y realiza el Reino de Dios. Los miembros participan del carisma según su vocación propia: Legionarios (instituto religioso), consagrados (asociación laical) y laicos (primer y segundo grado). La espiritualidad se centra en la conformación a Cristo, camino de pobreza, obediencia y entrega total hasta la cruz, para llegar a la resurrección. Se describen las fuentes de la espiritualidad: la Palabra de Dios, la Eucaristía, la Liturgia de las Horas, el rezo del Rosario y los ejercicios espirituales.
 
 ## Secciones incluidas
 

@@ -12,7 +12,7 @@ tags: ["resumen", "capitulos lc frg"]
 
 ## Conceptos básicos referenciados
 
-- [[Asamblea_General_del_Regnum_Christi]]
+- [[asamblea_general_regnum_christi]]
 - [[Regnum_Christi]]
 
 
@@ -20,7 +20,7 @@ tags: ["resumen", "capitulos lc frg"]
 
 📄 **Fuente original:** `09_intervenciones_durante_la_asamblea_general_del_regnum_christ.md`
 
-Sección de encabezado que agrupa las intervenciones pronunciadas durante las sesiones de la [[Asamblea_General_del_Regnum_Christi]] de 2018. El texto original es un título de sección sin contenido propio; las intervenciones específicas aparecen en los capítulos siguientes (introducción del asistente pontificio, introducción del director general, etc.).
+Sección de encabezado que agrupa las intervenciones pronunciadas durante las sesiones de la [[asamblea_general_regnum_christi]] de 2018. El texto original es un título de sección sin contenido propio; las intervenciones específicas aparecen en los capítulos siguientes (introducción del asistente pontificio, introducción del director general, etc.).
 
 
 ## Mapa del archivo fuente

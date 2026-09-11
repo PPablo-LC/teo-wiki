@@ -19,7 +19,7 @@ No se tratan conceptos teológicos en este apartado. Se trata de una tabla de ab
 
 📄 **Fuente original:** `01_abreviaturas.md`
 
-Documento introductorio que recopila las abreviaturas empleadas a lo largo de todo el volumen de documentos del [[Capítulo_General_Extraordinario_de_los_Legionarios_de_Cristo_y_las_Asambleas_del_Regnum_Christi_2018]]. El apartado contiene únicamente la lista de abreviaturas, sin contenido doctrinal. Incluye los derechos reservados de la [[Federación_Regnum_Christi]], los Legionarios de Cristo, las Consagradas del Regnum Christi y los Laicos Consagrados del Regnum Christi, así como la mención del Departamento de Publicaciones Institucionales de Roma.
+Documento introductorio que recopila las abreviaturas empleadas a lo largo de todo el volumen de documentos del [[asambleas_generales_regnum_christi_2018]]. El apartado contiene únicamente la lista de abreviaturas, sin contenido doctrinal. Incluye los derechos reservados de la [[Federación_Regnum_Christi]], los Legionarios de Cristo, las Consagradas del Regnum Christi y los Laicos Consagrados del Regnum Christi, así como la mención del Departamento de Publicaciones Institucionales de Roma.
 
 
 ## Mapa del archivo fuente

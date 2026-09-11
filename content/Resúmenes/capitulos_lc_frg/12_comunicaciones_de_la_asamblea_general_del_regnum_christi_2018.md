@@ -12,7 +12,7 @@ tags: ["resumen", "capitulos lc frg"]
 
 ## Conceptos básicos referenciados
 
-- [[Asamblea_General_del_Regnum_Christi]]
+- [[asamblea_general_regnum_christi]]
 - [[Regnum_Christi]]
 
 
@@ -20,7 +20,7 @@ tags: ["resumen", "capitulos lc frg"]
 
 📄 **Fuente original:** `12_comunicaciones_de_la_asamblea_general_del_regnum_christi_201.md`
 
-Sección de encabezado que agrupa las comunicaciones oficiales emanadas de la [[Asamblea_General_del_Regnum_Christi]] de 2018. El texto original es un título de sección sin contenido propio; las comunicaciones específicas figuran en los capítulos siguientes del volumen (mensaje final, comunicados de los delegados laicos, comunicaciones del Capítulo General, etc.).
+Sección de encabezado que agrupa las comunicaciones oficiales emanadas de la [[asamblea_general_regnum_christi]] de 2018. El texto original es un título de sección sin contenido propio; las comunicaciones específicas figuran en los capítulos siguientes del volumen (mensaje final, comunicados de los delegados laicos, comunicaciones del Capítulo General, etc.).
 
 
 ## Mapa del archivo fuente

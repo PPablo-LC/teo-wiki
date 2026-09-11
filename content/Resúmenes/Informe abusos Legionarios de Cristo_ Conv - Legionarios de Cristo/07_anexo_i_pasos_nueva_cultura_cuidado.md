@@ -12,7 +12,7 @@ tags: ["resumen", "espiritualidad_legionaria", "anexo_i", "política_ambientes_s
 
 ## Conceptos básicos referenciados
 
-- [[capítulo_general_2014]] — Mandata esfuerzos ambientes seguros, procedimientos/criterios acción, cumplimiento territorios en 6 años
+- [[capítulo_general_extraordinario_2014]] — Mandata esfuerzos ambientes seguros, procedimientos/criterios acción, cumplimiento territorios en 6 años
 - [[estándares_acreditación_ambientes_seguros]] — Dic 2014: prevención, respuesta, supervisión; adaptación territorios obligatoria
 - [[praesidium]] — Agencia EE.UU. certificadora (contratada 2017); España 2º país acreditado (sept 2018) tras EE.UU.
 - [[certificación_praesidium]] — Proceso: territories inician certificación; encuentro coordinadores 2017 (Chile, Brasil, Colombia-Venezuela, México, Monterrey, Italia, Roma) con formación Praesidium

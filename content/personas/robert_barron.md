@@ -2,14 +2,14 @@
 type: Persona
 title: Robert Barron
 tags: ["obispos", "teólogos", "comunicadores", "fundadores"]
-timestamp: 2026-09-08
+timestamp: 2026-09-10
 description: "Arzobispo católico estadounidense, fundador de Word on Fire y del Word on Fire Institute, y editorial de Evangelization & Culture."
 ---
+
 # Robert Barron
 
 > Área: Obispos / Comunicadores
-> Última actualización: 2026-09-08
-
+> Última actualización: 2026-09-10
 ## Biografía
 
 Robert Lawrence Barron (b. 1959) es arzobispo católico y obispo auxiliar de Los Ángeles en jubilación. Nacido en St. Louis, Missouri, fue ordenado sacerdote en 1986. Obtuvo un doctorado en teología en la Universidad Ruhr de Bochum, Alemania.
@@ -135,6 +135,20 @@ Barron es entrevistado por Tod Worner en la sección central del número dedicad
 
 **El deporte como escolar de virtud (23_soul.md):** Barron comenta que «el juego es una escuela de virtud»: las reglas enseñan obediencia, la competencia enseña a perder con dignidad, la colaboración enseña la caridad. «Los atletas virtuosos son como santos laicos: su excelencia apunta más allá del campo de juego». El deporte revela las «virtudes cardo» del carácter.
 
+### Según Evangelization & Culture n.º 22 «Courage» (EAC-22)
+
+Barron es el autor de la carta editorial del número dedicado al coraje (01_from_the_desk.md) y del *Spotlight* del Congreso Eucarístico Nacional 2024 (09_spotlight_barron.md).
+
+**Carta editorial (From the Desk).** Recupera la *fortitudo* clásica de Aristóteles y Aquino: la fortaleza es «la virtud que permite resistir los miedos que impedirían cumplir las exigencias de la razón». Distingue el coraje natural (virtud adquirida) y su transfiguración por la gracia: la motivación se vuelve sobrenatural (el amor a Cristo) y la forma misma, el amor infuso. El soldado virtuoso del orden natural se torna «soldado de Cristo»; el modelo supremo es el [[martirio]], ejemplificado en los santos del número: María, Juana de Arco, Maximiliano Kolbe y Teresa Benedicta de la Cruz (Edith Stein), cuya virtud natural impresionante —antes del bautismo— fue elevada y reorientada a un nuevo *telos* por la gracia. Cierra con el coraje veterotestamentario que Michael Casey desarrolla para «tiempos inciertos».
+
+**Spotlight: Congreso Eucarístico Nacional 2024 (09_spotlight_barron.md).** Barron despliega su teología de la [[eucaristía]] y del laicado:
+- **Eucaristía como mandato obedecido**: la única orden de Cristo cumplida es «hagan esto en memoria mía» (Knox).
+- **Cristificación**: lo que se hace presente es el cuerpo «dado y derramado»; «comemos lo que somos» (Feuerbach, invertido): el cristiano es *cristificado* por la Eucaristía.
+- **No para uno mismo**: sal de la tierra y luz del mundo (Mt 5,13-16); la Iglesia que sale de sí.
+- **Laicado**: el Vaticano II (Lumen Gentium) llamó a grandes laicos católicos; el laico da «cuerpo dado y sangre derramada» en el *seculum*.
+- **Consejos evangélicos**: sosteniendo la crítica de Dorothy Day a la espiritualidad de dos niveles, todo bautizado está llamado a la santidad heroica; los consejos (pobreza y desapego —Rerum Novarum 22—; castidad —Humanae Vitae 17; «amar es querer el bien del otro»—; obediencia que «escucha» la voz de Dios frente a la cultura de la autoinvención) se ofrecen a todos.
+- **Teo-drama vs. ego-drama** (Balthasar): Dios escribe la obra y ofrece un papel; la ciudad entera deviene templo (Ap 21).
+
 ## Ver también
 
 [[evangelización]], [[nueva_evangelización]], [[evangelización_digital]], [[word_on_fire_institute]], [[conversión]], [[metanoia]], [[verdadero_y_falso_yo]], [[conversión_continua]], [[cristificación]], [[divinización]], [[gracia]], [[cuerpo_místico]], [[rito_de_iniciación_cristiana_de_adultos]], [[catecumenado]], [[inteligencia_artificial]], [[idolatría]], [[simulacro_de_personalidad]], [[providencia_divina]], [[eutrapelia]], [[vía_purgativa]], [[vía_iluminativa]], [[vía_unitiva]]
@@ -151,5 +165,6 @@ Barron es entrevistado por Tod Worner en la sección central del número dedicad
 - EAC-19, 01_from_the_desk.md (carta editorial sobre inteligencia artificial)
 - EAC-20, 01_from_the_desk.md (sobre belleza del juego y evangelización) y 23_soul.md (sobre deporte como escolar de virtud)
 - EAC-21, 09_spotlight_barron.md (conversación de Bishop Robert Barron con Tod Worner sobre democracia)
+- EAC-22, 01_from_the_desk.md y 09_spotlight_barron.md (sobre el coraje y el Congreso Eucarístico Nacional 2024)
 - Barron, Robert. *Eucharist* (Word on Fire Institute, 2021).
 - Word on Fire website

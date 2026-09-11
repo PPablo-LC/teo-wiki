@@ -26,7 +26,7 @@ tags: ["resumen", "capitulos lc frg"]
 
 📄 **Fuente original:** `22_comunicado_de_la_primera_sesión_de_la_asamblea_general_extra.md`
 
-Comunicado de la primera sesión de la [[Asamblea_General_de_las_Consagradas_del_Regnum_Christi]] (del 26 de marzo al 7 de abril de 2018), emitido en Castel di Guido, Roma, el 8 de abril de 2018 (Prot. DG CRC 538/2018). Bajo el lema *«Reaviva el don de Dios que hay en ti»* (*2 Tm* 1,6).
+Comunicado de la primera sesión de la [[consagradas_del_regnum_christi]] (del 26 de marzo al 7 de abril de 2018), emitido en Castel di Guido, Roma, el 8 de abril de 2018 (Prot. DG CRC 538/2018). Bajo el lema *«Reaviva el don de Dios que hay en ti»* (*2 Tm* 1,6).
 
 ### Configuración jurídica
 

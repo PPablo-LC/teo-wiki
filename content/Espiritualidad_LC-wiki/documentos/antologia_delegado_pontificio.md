@@ -179,7 +179,7 @@ Los principios teológico-canónicos vertebradores de la Antología son los que 
 
 - [[visita_apostolica_2009_2010]]
 - [[delegado_pontificio]]
-- [[capítulo_general_extraordinario]]
+- [[capítulo_general]]
 - [[comisión_central_para_la_revisión_de_las_constituciones]]
 - [[constituciones_legionarios_de_cristo]]
 - [[federación_regnum_christi]]

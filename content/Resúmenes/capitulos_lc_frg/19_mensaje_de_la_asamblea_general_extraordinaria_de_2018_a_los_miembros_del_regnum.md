@@ -12,7 +12,7 @@ tags: ["resumen", "capitulos lc frg"]
 
 ## Conceptos básicos referenciados
 
-- [[Asamblea_General_del_Regnum_Christi]]
+- [[asamblea_general_regnum_christi]]
 - [[Regnum_Christi]]
 - [[Federación_Regnum_Christi]]
 - [[Legionarios_de_Cristo]]
@@ -26,7 +26,7 @@ tags: ["resumen", "capitulos lc frg"]
 
 📄 **Fuente original:** `19_mensaje_de_la_asamblea_general_extraordinaria_de_2018_a_los_.md`
 
-Mensaje de la primera sesión de la [[Asamblea_General_del_Regnum_Christi]] (del 9 al 18 de abril de 2018), emitido en Roma el 18 de abril de 2018 (Prot. DG-RC 152-2018), bajo el lema *reaviva el don de Dios que hay en ti* (*2 Tm* 1,6).
+Mensaje de la primera sesión de la [[asamblea_general_regnum_christi]] (del 9 al 18 de abril de 2018), emitido en Roma el 18 de abril de 2018 (Prot. DG-RC 152-2018), bajo el lema *reaviva el don de Dios que hay en ti* (*2 Tm* 1,6).
 
 ### Preparación y contexto
 

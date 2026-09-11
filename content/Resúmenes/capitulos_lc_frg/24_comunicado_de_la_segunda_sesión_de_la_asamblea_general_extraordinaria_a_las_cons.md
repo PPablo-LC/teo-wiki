@@ -18,8 +18,8 @@ tags: ["resumen", "capitulos lc frg"]
 - [[Federación_Regnum_Christi]]
 - [[Legionarios_de_Cristo]]
 - [[Laicos_Consagrados_del_Regnum_Christi]]
-- [[Estatutos_de_la_Federación_Regnum_Christi]]
-- [[Constituciones_de_las_Consagradas_del_Regnum_Christi]]
+- [[estatutos_federación_regnum_christi]]
+- [[consagradas_del_regnum_christi]]
 - [[Vida_consagrada]]
 
 
@@ -27,7 +27,7 @@ tags: ["resumen", "capitulos lc frg"]
 
 📄 **Fuente original:** `24_comunicado_de_la_segunda_sesión_de_la_asamblea_general_extra.md`
 
-Comunicado de la segunda sesión de la [[Asamblea_General_de_las_Consagradas_del_Regnum_Christi]] (19-24 de noviembre y 6-7 de diciembre de 2018), emitido el 8 de diciembre de 2018, solemnidad de la Inmaculada Concepción y 49.º aniversario de las primeras consagraciones (Prot. DG CRC 1989/2018).
+Comunicado de la segunda sesión de la [[consagradas_del_regnum_christi]] (19-24 de noviembre y 6-7 de diciembre de 2018), emitido el 8 de diciembre de 2018, solemnidad de la Inmaculada Concepción y 49.º aniversario de las primeras consagraciones (Prot. DG CRC 1989/2018).
 
 ### Decreto de erección canónica
 

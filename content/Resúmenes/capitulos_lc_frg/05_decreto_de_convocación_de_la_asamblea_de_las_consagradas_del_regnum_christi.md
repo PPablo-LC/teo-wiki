@@ -13,7 +13,7 @@ tags: ["resumen", "capitulos lc frg"]
 ## Conceptos básicos referenciados
 
 - [[Consagradas_del_Regnum_Christi]]
-- [[Asamblea_General_del_Regnum_Christi]]
+- [[asamblea_general_regnum_christi]]
 - [[Regnum_Christi]]
 - [[Vida_consagrada]]
 
@@ -22,7 +22,7 @@ tags: ["resumen", "capitulos lc frg"]
 
 📄 **Fuente original:** `05_decreto_de_convocación_de_la_asamblea_de_las_consagradas_del.md`
 
-Carta de convocatoria de la [[Directora_General_de_las_Consagradas_del_Regnum_Christi]], Gloria Rodríguez, dirigida a las consagradas del [[Regnum_Christi]] (Prot. DG CRC 235/2018, Roma, 2 de febrero de 2018, Fiesta de la Presentación del Señor / Día de la [[Vida_consagrada]]).
+Carta de convocatoria de la [[consagradas_del_regnum_christi]], Gloria Rodríguez, dirigida a las consagradas del [[Regnum_Christi]] (Prot. DG CRC 235/2018, Roma, 2 de febrero de 2018, Fiesta de la Presentación del Señor / Día de la [[Vida_consagrada]]).
 
 **Participantes**: lista de delegadas por oficio (directora general, consejeras generales, ecónoma general y directoras territoriales) y por elección de cada territorio (Brasil, Chile, España, Europa Occidental y Central, Italia, México, Monterrey, Norteamérica y Venezuela), con suplentes. Dos representantes de consagradas de votos temporales participan con voz pero sin voto.
 
@@ -30,9 +30,9 @@ Carta de convocatoria de la [[Directora_General_de_las_Consagradas_del_Regnum_Ch
 
 **Fines de la Asamblea General extraordinaria** (según el n. 3 del *Reglamento de composición*):
 1. Aprobar la configuración jurídica de las Consagradas del [[Regnum_Christi]] para presentar a la Santa Sede.
-2. Revisar el *Borrador del Estatuto General del [[Regnum_Christi]]* y formular recomendaciones para la [[Asamblea_General_del_Regnum_Christi]].
+2. Revisar el *Borrador del Estatuto General del [[Regnum_Christi]]* y formular recomendaciones para la [[asamblea_general_regnum_christi]].
 3. Definir la modalidad de ratificación del Estatuto General.
-4. Elegir delegadas para las dos sesiones de la [[Asamblea_General_del_Regnum_Christi]].
+4. Elegir delegadas para las dos sesiones de la [[asamblea_general_regnum_christi]].
 5. Ofrecer recomendaciones a las demás ramas, si fuera oportuno.
 6. Ofrecer recomendaciones para códigos secundarios del [[Regnum_Christi]].
 7. Aprobar el Reglamento de composición de la Asamblea General ordinaria de 2020.

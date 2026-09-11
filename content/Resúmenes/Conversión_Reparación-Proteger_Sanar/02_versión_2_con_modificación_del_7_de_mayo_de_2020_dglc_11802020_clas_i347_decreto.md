@@ -16,7 +16,7 @@ tags: ["resumen", "conversión_reparación-proteger_sanar"]
 - [[proteger_y_sanar]] — documento capitular con principios, protocolos y normas para protección de menores
 - [[estandares_de_ambientes_seguros]] — normativa vigente de prevención y respuesta ante abusos
 - [[codigo_de_derecho_canonico]] — legislación universal de la Iglesia aplicable a los institutos de vida consagrada
-- [[capitulo_general_2020]] — autoridad suprema que aprobó el documento "Proteger y sanar"
+- [[capítulo_general_2020_legionarios_de_cristo]] — autoridad suprema que aprobó el documento "Proteger y sanar"
 - [[legionarios_de_cristo]] — Congregación destinataria del decreto
 
 ## Contenido

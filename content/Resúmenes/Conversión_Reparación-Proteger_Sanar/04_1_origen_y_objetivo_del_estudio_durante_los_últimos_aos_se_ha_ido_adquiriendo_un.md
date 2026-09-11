@@ -13,7 +13,7 @@ tags: ["resumen", "conversión_reparación-proteger_sanar"]
 ## Conceptos básicos referenciados
 
 - [[abusos_sexuales_en_la_iglesia]] — fenómeno de abuso sexual de menores por parte del clero, reconocido como plaga universal
-- [[capitulo_general_2020]] — asamblea suprema de la Congregación para la que se elaboró el informe
+- [[capítulo_general_2020_legionarios_de_cristo]] — asamblea suprema de la Congregación para la que se elaboró el informe
 - [[comision_de_abusos_del_pasado]] — comisión interna creada en junio de 2019 para investigar el pasado
 - [[politica_de_ambientes_seguros]] — normativa implementada desde 2015 para prevención de abusos
 - [[visita_apostolica_2009-2010]] — intervención de la Santa Sede que inició la renovación institucional

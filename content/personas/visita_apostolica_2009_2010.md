@@ -37,7 +37,7 @@ Se relaciona con la [[purificación_de_la_memoria]], la [[obediencia_religiosa]]
 
 ## Ver también
 
-[[marcial_maciel]], [[velasio_de_paolis]], [[alvaro_corcuera]], [[legión_de_cristo]], [[capítulo_general_extraordinario]], [[purificación_de_la_memoria]]
+[[marcial_maciel]], [[velasio_de_paolis]], [[alvaro_corcuera]], [[legión_de_cristo]], [[capítulo_general]], [[purificación_de_la_memoria]]
 
 ## Referencias
 

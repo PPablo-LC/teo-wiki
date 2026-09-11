@@ -1,15 +1,15 @@
 ---
 type: Concepto Teológico
 title: Cristificación
-description: "Transformación del cristiano por la Eucaristía en Cristo mismo: la comunión con el Cuerpo y Sangre de Cristo lo configura, cristifica y, en los Padres, lo eterniza."
+description: "Transformación del cristiano por la Eucaristía en Cristo mismo: la comunión con el Cuerpo y Sangre de Cristo lo configura, cristifica y, en los Padres, lo eterniza; raíz del coraje cristiano."
 tags: ["eucaristía", "espiritualidad", "ascética"]
-timestamp: 2026-08-30
+timestamp: 2026-09-10
 ---
 
 # Cristificación
 
 > Área: Sacramental / Espiritualidad
-> Última actualización: 2026-08-30
+> Última actualización: 2026-09-10
 
 ## Definición
 
@@ -31,6 +31,14 @@ La Eucaristía es el alimento que, a diferencia del pan común que se asimila al
 - **Advertencia**: «puesto que son el poder y la presencia de Dios, cambiarán al que los consume»; «cuando el comulgante dice 'Amén' y recibe la hostia y el cáliz ofrecidos, más le vale estar preparado para vivir una vida eterna».
 
 Según **Gabriel Axel / la parábola de *Babette's Feast*** (mediante Andrew Petiprin), la entrega total del don —Babette vacía sus ahorros para un banquete que anticipa la eternidad— funciona como figura de la transformación eucarística: «Babette pagó un precio, vaciándose por completo... para permitir que fluyera la gracia» (Barron). «En la Santa Eucaristía, inescrutables notas de discordia nacidas de un dolor pasado entran en armonía alrededor de la mesa de Babette.»
+
+### Según Evangelization & Culture n.º 22 «Courage» (EAC-22)
+
+**Bishop Robert Barron retoma la cristificación eucarística** en el *Spotlight* sobre el Congreso Eucarístico Nacional 2024 (09_spotlight_barron.md):
+
+- **Cuerpo dado y sangre derramada**: lo que se hace presente en el altar no es el cuerpo «objetivo» sino el cuerpo entregado; el cristiano «come lo que es» y, alimentado de Cristo, llega a ser lo que come.
+- **El mandato obedecido**: «hagan esto en memoria mía» es, según Ronald Knox, la única orden de Jesús que la Iglesia ha cumplido ininterrumpidamente.
+- **Cristificación y coraje**: la transformación eucarística —cristificación— es raíz del coraje cristiano: el comulgante, cristificado y eternizado, puede dar «cuerpo dado y sangre derramada» en su propia vida, como el laico en el *seculum* (cf. [[laicado]]) y como los mártires del número ([[martirio]]).
 
 ## Distinciones importantes
 

@@ -12,15 +12,15 @@ tags: ["resumen", "capitulos lc frg"]
 
 ## Conceptos básicos referenciados
 
-- [[Capítulo_General_Extraordinario_de_los_Legionarios_de_Cristo]]
+- [[capítulo_general]]
 - [[Legionarios_de_Cristo]]
 - [[Regnum_Christi]]
 - [[Federación_Regnum_Christi]]
-- [[Estatutos_de_la_Federación_Regnum_Christi]]
+- [[estatutos_federación_regnum_christi]]
 - [[Consagradas_del_Regnum_Christi]]
 - [[Laicos_Consagrados_del_Regnum_Christi]]
 - [[Sociedad_de_Vida_Apostólica]]
-- [[Constituciones_de_los_Legionarios_de_Cristo]]
+- [[constituciones_legionarios_de_cristo]]
 - [[Reglamento_de_los_Fieles_Asociados_a_la_Federación_Regnum_Christi]]
 - [[ECYD]]
 
@@ -29,11 +29,11 @@ tags: ["resumen", "capitulos lc frg"]
 
 📄 **Fuente original:** `17_segunda_sesión_comunicado_del_capítulo_general_extraordinari.md`
 
-Comunicado final del [[Capítulo_General_Extraordinario_de_los_Legionarios_de_Cristo]] al término de su segunda sesión, emitido en Roma el 6 de diciembre de 2018. Es el documento más extenso del volumen, con 50 números.
+Comunicado final del [[capítulo_general]] al término de su segunda sesión, emitido en Roma el 6 de diciembre de 2018. Es el documento más extenso del volumen, con 50 números.
 
 ### Introducción y agradecimientos
 
-Los padres capitulares comparten los resultados del Capítulo y de la [[Asamblea_General_del_Regnum_Christi]]. Agradecen a Dios, a los papas Benedicto XVI y Francisco, al cardenal De Paolis, al P. Ghirlanda, al P. Robles-Gil y a todos los miembros del [[Regnum_Christi]]. Celebran la erección canónica de las dos [[Sociedad_de_Vida_Apostólica]].
+Los padres capitulares comparten los resultados del Capítulo y de la [[asamblea_general_regnum_christi]]. Agradecen a Dios, a los papas Benedicto XVI y Francisco, al cardenal De Paolis, al P. Ghirlanda, al P. Robles-Gil y a todos los miembros del [[Regnum_Christi]]. Celebran la erección canónica de las dos [[Sociedad_de_Vida_Apostólica]].
 
 ### A. Breve reseña del camino recorrido
 

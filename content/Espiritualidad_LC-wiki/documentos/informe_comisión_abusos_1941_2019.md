@@ -72,7 +72,7 @@ Los resúmenes estructurados están en `wiki/Resúmenes/informe-comision-abusos-
 
 ## Ver también
 
-[[informe_1941_2019]], [[marco_del_informe]], [[informe_anual_2020]], [[conversión_reparación_proteger_y_sanar]], [[proteger_y_sanar]], [[ambientes_seguros]], [[eshmá]], [[justicia_restaurativa]], [[reparación_integral]], [[capítulo_general_extraordinario_2018]], [[capítulo_general_2020]]
+[[informe_1941_2019]], [[marco_del_informe]], [[informe_anual_2020]], [[conversión_reparación_proteger_y_sanar]], [[proteger_y_sanar]], [[ambientes_seguros]], [[eshmá]], [[justicia_restaurativa]], [[reparación_integral]], [[capítulo_general_extraordinario_2018]], [[capítulo_general_2020_legionarios_de_cristo]]
 
 ## Referencias
 

@@ -1,15 +1,15 @@
 ---
 type: Concepto Teológico
 title: "Coraje"
-description: "Disposición de decir con el corazón lo que se siente y es; en Brené Brown, «coraje ordinario» de la vida cotidiana que pone en juego la vulnerabilidad, afín a la virtud de la fortaleza pero sin su dimensión sobrenatural."
+description: "Disposición de decir con el corazón lo que se siente y es; en Brené Brown, «coraje ordinario» de la vida cotidiana que pone en juego la vulnerabilidad. La fe lo transfigura: coraje natural asumido y purificado por la gracia y la fortaleza sobrenatural."
 tags: [moral, virtudes, análisis_cultural]
-timestamp: 2026-08-23
+timestamp: 2026-09-10
 ---
 
 # Coraje
 
 > Área: Moral / Virtudes / Análisis cultural
-> Última actualización: 2026-08-23
+> Última actualización: 2026-09-10
 
 ## Definición
 
@@ -36,6 +36,20 @@ Brown define el coraje a partir de *cor*: «decir lo que pensamos expresando tod
 **Convergencias**: la expresión del corazón evoca la integridad entre fe y vida; la práctica repetida del coraje coincide con la adquisición hábito-de-la-virtud; el coraje cotidiano resuena con la enseñanza de que la [[fortaleza]] se ejercita en las pruebas pequeñas antes que en las grandes (cf. TPCr).
 
 **Tensiones**: Brown no distingue entre coraje humano y fortaleza sobrenatural (don de fortaleza); ignora el martirio y la confesión de fe; su criterio último —expresar lo que el corazón siente— carece de la ordenación al bien objetivo que caracteriza a la fortaleza como virtud cardinal.
+
+### Según Evangelization & Culture n.º 22 «Courage» (EAC-22)
+
+El número 22 de EAC —dedicado íntegramente al coraje— aporta una visión teológica completa que complementa la perspectiva browniana:
+
+**Del coraje natural a la transfiguración por la gracia (01, 03):** Barron y Petrusek distinguen el coraje natural (virtud adquirida, «break-glass», útil para emergencias e idéntico a la [[fortaleza]]) y su elevación sobrenatural por la gracia. En la editorial, el coraje natural de Edith Stein (pre-bautismal) es transfigurado: la motivación se torna amor a Cristo y la forma actúa por el amor infuso. En «A Word from the Institute», sin coraje ninguna virtud se cumple —justicia sin coraje no se ejecuta, caridad sin riesgo no actúa—; la vida cristiana y evangelizadora es intrínsecamente peligrosa.
+
+**Coraje cotidiano que vence la ansiedad (04):** Worner, a partir de Churchill («never give in», «el coraje garantiza todas las demás cualidades») y de ocho prácticas contra la ansiedad (orar, leer la Escritura y los santos, distinguir sentimientos de hechos, aceptar la incertidumbre…), muestra que el coraje es la respuesta diaria —no solo del campo de batalla— a la prueba y a la incertidumbre.
+
+**El coraje como forma de toda virtud (14):** DeSanctis repite la fórmula de C.S. Lewis: «el coraje no es simplemente una de las virtudes, sino la forma de toda virtud en el punto de prueba». El coraje es virtud cotidiana (diligencia, amabilidad, humildad), rendición humilde a la realidad, y no es la temeridad o la provocación («martirio cultural») que el mundo llama valentía.
+
+**El coraje como confianza en Dios, no ausencia de miedo (13, 16, 18):** Twain: el coraje es «resistencia al miedo, dominio del miedo —no ausencia de miedo» (13). Bulman: el coraje avanza en medio del miedo; la esperanza tiene dos hijas, la ira y el coraje (S. Agustín) (16). Casey: el coraje bíblico es fiarse del Dios de la alianza: Dios es escudo y guerrero; la *parrhesía* del Espíritu vence la *merimna* (18).
+
+**Convergencias con la doctrina católica:** La distinción coraje natural/sobrenatural coincide con la de virtud adquirida e infusa ([[virtudes_infusas]]); la necesidad de que el coraje esté purificado por las otras virtudes cardinales (Chesterton: las virtudes aisladas «enloquecen») coincide con la doctrina tomista de la conexión de las virtudes (STh I-II q.65); el «coraje cotidiano» coincide con la enseñanza de que la fortaleza se ejercita en lo pequeño antes que en lo grande (TPCr); el coraje como confianza en Dios coincide con la [[confianza_en_dios]] y la [[providencia_divina]] bíblicas.
 
 ## Analizado en contexto cultural
 

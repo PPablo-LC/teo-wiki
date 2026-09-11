@@ -2,14 +2,14 @@
 type: Concepto Teológico
 title: Consejos evangélicos
 tags: ["moral", "ascética"]
-
-timestamp: 2026-08-09
-description: "Los consejos evangélicos son las invitaciones que Cristo dirige en el Evangelio a una vida de mayor perfección, más allá de lo estrictamente mandado."
+timestamp: 2026-09-10
+description: "Los consejos evangélicos son las invitaciones que Cristo dirige en el Evangelio a una vida de mayor perfección, más allá de lo estrictamente mandado, y están ofrecidos a todos los discípulos."
 ---
+
 # Consejos evangélicos
 
 > Área: Moral / Ascética
-> Última actualización: 2026-08-09
+> Última actualización: 2026-09-10
 
 ## Definición
 
@@ -60,6 +60,18 @@ Juan Pablo II aborda los [[consejos_evangélicos]] especialmente en el [[celibat
 ### Según la conferencia «La catedral interior del sacerdote» (CIS)
 
 Mons. Munilla sitúa los consejos evangélicos en el umbral de la catedral (elemento segundo de la carta de León XIV). El umbral marca «una separación necesaria»: el sacerdocio se vive «estando en el mundo, pero sin ser del mundo» (cf. Jn 17,14). En este cruce se sitúan el celibato, la pobreza y la obediencia, «no como negación de la vida sino como la forma concreta que permite al sacerdote pertenecer enteramente a Dios sin dejar de caminar entre los hombres». Los tres suponen un despojamiento del yo: la obediencia despoja de la voluntad propia, la pobreza de las seguridades materiales y el celibato purifica los afectos «para que sean plenamente esponsales en Cristo». «Ser de Dios requiere desposeerse de uno mismo.» El umbral es así una «pedagogía»: se trata de la progresiva desmundanización necesaria para entrar al encuentro con Dios [CIS, 2026].
+
+### Según Evangelization & Culture n.º 22 «Courage» (EAC-22)
+
+En el *Spotlight* sobre el Congreso Eucarístico Nacional 2024 (09_spotlight_barron.md), Robert Barron presenta los tres consejos evangélicos como camino de santidad para todos los bautizados:
+
+- **Crítica de la espiritualidad de dos niveles**: recogiendo la crítica de [[dorothy_day]] —a quien cita como «la voz de la conciencia católica»—, rechaza la separación entre una santidad «de élite» reservada a los religiosos y una vida cristiana «mediocre» para el resto. Todos los bautizados están llamados a la [[vocación_universal_a_la_santidad|santidad heroica]].
+- **Pobreza y desapego (primer consejo)**: «rodear la rueda de la fortuna» —identificarse con los bienes externos— es fuente de ansiedad y adicción; el centro es Cristo; todo lo superfluo pertenece a los pobres (Rerum Novarum §22, León XIII).
+- **Castidad (segundo consejo)**: la sexualidad bajo el yugo del amor: «amar es querer el bien del otro» (Santo Tomás); contra la instrumentalización de la persona (Humanae Vitae §17, Pablo VI; Juan Pablo II: nunca tratar a la persona como medio).
+- **Obediencia (tercer consejo)**: *obedire* = escuchar; los cuatro sustitutos de Dios (riqueza, placer, poder, honor) frente a la voz de Dios; la obediencia es la salida de la [[cultura_de_la_autoinvención]] moderna.
+- **Teo-drama vs. ego-drama** (Hans Urs von Balthasar): Dios escribe la obra y ofrece un papel; aceptar el papel es el primer acto de obediencia valiente.
+
+**Convergencia**: coincide con el CEC §915 (los consejos «están propuestos en su multiplicidad a todos los discípulos») y con la tradición tomista que Pinckaers recupera (los consejos no son exclusivos de los religiosos).
 
 ## Distinciones importantes
 

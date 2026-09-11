@@ -13,7 +13,7 @@ tags: ["resumen", "capitulos lc frg"]
 ## Conceptos básicos referenciados
 
 - [[Consagradas_del_Regnum_Christi]]
-- [[Asamblea_General_del_Regnum_Christi]]
+- [[asamblea_general_regnum_christi]]
 - [[Regnum_Christi]]
 
 
@@ -21,7 +21,7 @@ tags: ["resumen", "capitulos lc frg"]
 
 📄 **Fuente original:** `21_comunicados_de_la_asamblea_general_extraordinaria_de_las_con.md`
 
-Sección de encabezado que agrupa los comunicados oficiales emanados de la [[Asamblea_General_de_las_Consagradas_del_Regnum_Christi]] extraordinaria de 2018. El texto original es un título de sección sin contenido propio; los comunicados específicos figuran en los capítulos siguientes del volumen.
+Sección de encabezado que agrupa los comunicados oficiales emanados de la [[consagradas_del_regnum_christi]] extraordinaria de 2018. El texto original es un título de sección sin contenido propio; los comunicados específicos figuran en los capítulos siguientes del volumen.
 
 
 ## Mapa del archivo fuente

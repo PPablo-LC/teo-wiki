@@ -1,8 +1,8 @@
 ---
 type: Documento
 title: Evangelization & Culture
-description: "Trimestral del Word on Fire Institute (Bishop Robert Barron) con números sobre Creatividad, Economía, Era Digital, Cine, Escritura, Esperanza, sensibilidad católica, Humor, Poesía, Libertad, Postrimerías, Infancia, Eucaristía, Alegría, Sufrimiento, Benedicto XVI, Educación, Conversión e Inteligencia Artificial"
-timestamp: 2026-09-07
+description: "Trimestral del Word on Fire Institute (Bishop Robert Barron) con números sobre Creatividad, Economía, Era Digital, Cine, Escritura, Esperanza, sensibilidad católica, Humor, Poesía, Libertad, Postrimerías, Infancia, Eucaristía, Alegría, Sufrimiento, Benedicto XVI, Educación, Conversión, Inteligencia Artificial, Deporte, Democracia y Coraje"
+timestamp: 2026-09-10
 tags:
   - evangelización
   - cultura
@@ -12,12 +12,16 @@ tags:
   - esperanza
   - poesía
   - inteligencia_artificial
+  - coraje
+  - fortaleza
+  - virtudes_cardinales
+  - martirio
 ---
 
 # Evangelization & Culture
 
 > Área: Teología pastoral / Evangelización
-> Última actualización: 2026-09-07
+> Última actualización: 2026-09-10
 
 ## Descripción
 
@@ -48,6 +52,7 @@ tags:
 | 19 | Issue 19 | Artificial Intelligence | Spring 2024 | [[evangelization_and_culture_issue_19_artificial_intelligence]] |
 | 20 | Issue 20 | Sport | Summer 2024 | [[evangelization_and_culture_issue_20_sport]] |
 | 21 | Issue 21 | Democracy | Fall 2024 | [[evangelization_and_culture_issue_21_democracy]] |
+| 22 | Issue 22 | Courage | Winter 2024 | [[evangelization_and_culture_issue_22_courage]] |
 
 ## Temas centrales por número
 
@@ -688,9 +693,55 @@ Para el desarrollo completo de este número, véase [[evangelization_and_culture
 - Manny Marquez (testimonio, «Mission»)
 - Angela Alaimo O'Donnell (poeta, «Immigrants»)
 
+### Issue 22: Courage (Winter 2024)
+
+Para el desarrollo completo de este número, véase [[evangelization_and_culture_issue_22_courage]].
+- La fortaleza como virtud clásica: la fortitudo de Aristóteles y Aquino; el coraje como virtud que vence el miedo —cumplir el acto moralmente recto pese a la amenaza—; la transfiguración del coraje natural por la gracia (motivación y forma sobrenaturales); el mártir como soldado de Cristo; Edith Stein como ejemplo de virtud natural elevada (Barron; Nguyen)
+- El coraje como base del fundamento moral y espiritual: «esas ocasiones surgen todo el tiempo»; coraje cotidiano vs. espectacular; las virtudes sin coraje no se cumplen; la vida cristiana y evangelizadora como empresa intrínsecamente peligrosa (Petrusek)
+- Churchill y el coraje contra la ansiedad: «never give in»; los ocho consejos (oración, Escritura, confianza, Oración de la Serenidad de Niebuhr); «esto también pasará» (Dante/Virgilio); San Juan Bautista, mártir de la verdad; Enrique V en Agincourt y la fraternidad del sacrificio; Chesterton y las virtudes aisladas que enloquecen; «If–» de Kipling (Worner)
+- Santa Juana de Arco: la vocación divina y las voces (San Miguel, Santa Margarita, Santa Catalina); el fiat y la entrega total a Jesús; el coraje como rendición a Dios; «la única fuerza absoluta de la criatura es entregarse a Dios» (von Le Fort) (Foreman)
+- La fortaleza en CEC 1808: firmeza en las dificultades y constancia en la búsqueda del bien; Samwise Gamgee como modelo de coraje cotidiano y fidelidad a Frodo (Ordway)
+- 12 Angry Men: la virtud en el crisol de la presión social; la mansedumbre como fortaleza; la justicia demanda fortaleza; el don de fortaleza y la cuarta bienaventuranza (Luis M. Martínez, *The Sanctifier*); «el carácter del trabajo dirige el carácter del alma» (Tolkmith)
+- La Eucaristía y los consejos evangélicos: el Congreso Eucarístico Nacional 2024; presencia real; «eres lo que comes» (cristificación); laicado como sal y luz; crítica de Dorothy Day a la espiritualidad de dos niveles; pobreza (Rerum Novarum 22), castidad (Humanae Vitae 17) y obediencia (*obedire* = escuchar); ego-drama vs. theo-drama (Balthasar); la ciudad toda templo (Ap 21) (Barron)
+- San Maximiliano Kolbe: la fortaleza como condición de toda virtud (Aquino); Jn 15,13; las dos coronas; la Militia Immaculatae; la total consagración a la Inmaculada como raíz del coraje; «el odio no es creativo; solo el amor crea»; mártir de la caridad y patrón del siglo difícil (Wick)
+- Escribir libros en la era digital: el oficio del editor como prudencia; la edición que corrige la «herejía accidental»; el libro como medio de tiempo, estructura y permanencia; McLuhan («el medio es el mensaje») (Becklo)
+- El arte de los mártires: la paz serena en el rostro de los mártires (Bartolomé, Ágata, Pedro de Verona, Lorenzo, Lucía); el coraje del mártir como don recibido del amor de Cristo, no conquistado por la voluntad; «no temas» (Lee)
+- Qué es el coraje: la cobardía (Paris, Willoughby, el León Cobarde) frente al valor (Horacio, Frodo); «el coraje es resistencia al miedo, dominio del miedo —no ausencia de miedo—» (Twain); Pedro que niega y Pedro que afirma (features intro)
+- La virtud silenciosa del coraje: crítica al «martirio cultural»; el coraje como humilde rendición a la realidad; el fiat de María y el Magníficat; Frodo; «el coraje es la forma de toda virtud en el punto de prueba» (C.S. Lewis); el «minuto heroico» de San Josemaría; la mujer con flujo de sangre (Mc 5) (DeSanctis)
+- Graham Greene y los santos impíos: el hacer antes del oír (Ex 24,7; Lc 8,21; 11,28); Sarah Miles (el coraje que precede a la fe) frente a Scobie (el sacrificio sin confianza que se consume); «la sangre corre solo en una dirección» (DeLorenzo)
+- Criar hijos en una era sin coraje: la paternidad como camino de santidad; Fil 2,12; los hijos como espejo de las propias heridas; «la esperanza tiene dos hijas: la ira y el coraje» (Agustín); «como vaya la familia, irá la nación y el mundo» (JPII, Perth 1986) (Bulman)
+- Edith Stein: Sócrates y el morir bien (Fedón); Buen Pastor (Jn 10,11-16); Heidegger frente a la muerte comunitaria (Gemeinschaftserlebnis); la teología simbólica del Pseudo-Dionisio; «en el conocimiento de que el ser me sostiene, descanso segura» (Nguyen)
+- El coraje del Antiguo Testamento como confianza en Dios: Adán y el miedo tras el pecado (Gn 3,10-21); Dios como escudo y guerrero (Sal 18; 91; 121); Job 13,15; la desolación y el grito; el secularismo como adversario; la parrhesía (Hch 5,41; Mc 13,9) contra la merimna (Casey)
+- Los estoicos y Boecio: la filosofía como terapia del alma; los dos olvidos del hombre moderno —quién se es (bienes externos) y qué se es (animal racional)—; crítica del cientismo y del individualismo auto-inventado; la esperanza recta vs. la falsa (Ward)
+- Dirección espiritual para los temerosos: Pedro sobre el agua (Mt 14,22-33); «os llamo amigos» (Jn 15,15); «el amor perfecto expulsa el temor» (1 Jn 4,18); temor filial (Aquino; Sal 111,10); «no temáis» de Juan Pablo II, Benedicto XVI y Francisco (Gaudete et Exsultate 133); la unción de los enfermos (Swan)
+- El coraje del ressourcement: Congar, de Lubac, Chenu y Daniélou tras la guerra; el clima anti-modernista post-Pascendi (Pío X, 1907); la vuelta a las fuentes; Sources Chrétiennes; la censura y el Vaticano II (Lumen Gentium, Dei Verbum) como vindicación (Paone)
+- Testimonio de Rob Abney: la fe que se apoya en el conocimiento; Sto. Tomás y Frank Sheed (*Theology and Sanity*); la resurrección como acontecimiento histórico; la Eucaristía; los cuatro pilares dominicos; la Misa Tradicional Latina (Mission)
+- Poesía: «Come In» de Robert Frost (elegir las estrellas sobre la oscuridad); «Signs of Contradiction» de Joshua Hren (epígrafe de Bernanos; Adán; Jos 24,15)
+- Meditatio & Contemplatio: 8 preguntas de reflexión sobre el coraje personal y eclesial
+
+- Bishop Robert Barron (director, Word on Fire)
+- Dr. Matthew R. Petrusek (filosofía, Word on Fire Institute)
+- Tod Worner (Managing Editor)
+- Caroline Foreman (autora, «Lives: St. Joan of Arc»)
+- Dr. Holly Ordway (literatura, Word on Fire Academic)
+- Andrew Tolkmith (autor, «Film: 12 Angry Men»)
+- Michael D. Wick (autor, «Minds: St. Maximilian Kolbe»)
+- Matthew Becklo (cultura, Word on Fire)
+- Rozann Lee (diseño creativo, Word on Fire)
+- Alexandra DeSanctis (autora, «Feature: de la virtud silenciosa»)
+- Leonard J. DeLorenzo (teología, University of Notre Dame)
+- Rachel Bulman (autora, «Feature: crianza»)
+- Fr. Peter A. Nguyen SJ (autor, «Feature: Edith Stein»)
+- Fr. Michael Casey OCSO (autor, «Special Feature»)
+- Dr. Thomas M. Ward (filosofía, Baylor; autora, «Spotlight: estoicos y Boecio»)
+- Joshua Hren (poeta, fundador de Wiseblood Books)
+- Rob Abney (testimonio, «Mission»)
+- Fr. Billy Swan (autor, «Soul»)
+- Dr. Jason C. Paone (autor, «Peripheries: ressourcement»)
+
 ## Relación con otras fuentes
 
-Esta fuente complementa los artículos sobre [[evangelización]], [[evangelización_digital]], [[medios_de_comunicación_social]], [[belleza]], [[arte]], [[doctrina_social_de_la_iglesia]], [[nueva_evangelización]], [[cultura]], [[humor]], [[eutrapelia]], [[alegría_cristiana]], [[poesía]], [[fe_y_razón]], [[eclesiología_de_la_comunión]], [[dignidad_de_la_persona]], [[educación]], [[formación]], [[artes_liberales]], [[educación_católica]], [[conversión]], [[metanoia]], [[kerygma]], [[catecumenado]], [[testimonio_cristiano]], [[inteligencia_artificial]], [[unidad_alma_cuerpo]], [[persona]], [[libre_albedrío]], [[idolatría]], [[tecnología]] y [[tecnocracia_espiritual]]. El número dedicado al deporte (Issue 20) complementa además los artículos sobre [[deporte]], [[juego]], [[ocio]], [[ascesis]], [[disciplina_espiritual]], [[entrenamiento]], [[coaching]], [[vía_purgativa]], [[vía_iluminativa]], [[vía_unitiva]], [[perseverancia]], [[fortaleza]], [[sufrimiento]], [[cruz]], [[redención]], [[santidad]], [[dignidad_humana]], [[inclusión]], [[vocación]], [[gratitud]] y [[esperanza]]. El número dedicado a la democracia (Issue 21) complementa además los artículos sobre [[democracia]], [[gobierno_representativo]], [[soberanía_popular]], [[derechos_inalienables]], [[bien_común]], [[justicia]], [[sociedad_civil]], [[ciudadanía]], [[libertad_religiosa]], [[laicidad]], [[secularismo]], [[cristianismo_y_política]], [[teología_política]], [[ciudad_de_dios]], [[teología_de_la_historia]], [[providencia_divina]] y [[primacía_de_cristo]].
+Esta fuente complementa los artículos sobre [[evangelización]], [[evangelización_digital]], [[medios_de_comunicación_social]], [[belleza]], [[arte]], [[doctrina_social_de_la_iglesia]], [[nueva_evangelización]], [[cultura]], [[humor]], [[eutrapelia]], [[alegría_cristiana]], [[poesía]], [[fe_y_razón]], [[eclesiología_de_la_comunión]], [[dignidad_de_la_persona]], [[educación]], [[formación]], [[artes_liberales]], [[educación_católica]], [[conversión]], [[metanoia]], [[kerygma]], [[catecumenado]], [[testimonio_cristiano]], [[inteligencia_artificial]], [[unidad_alma_cuerpo]], [[persona]], [[libre_albedrío]], [[idolatría]], [[tecnología]] y [[tecnocracia_espiritual]]. El número dedicado al deporte (Issue 20) complementa además los artículos sobre [[deporte]], [[juego]], [[ocio]], [[ascesis]], [[disciplina_espiritual]], [[entrenamiento]], [[coaching]], [[vía_purgativa]], [[vía_iluminativa]], [[vía_unitiva]], [[perseverancia]], [[fortaleza]], [[sufrimiento]], [[cruz]], [[redención]], [[santidad]], [[dignidad_humana]], [[inclusión]], [[vocación]], [[gratitud]] y [[esperanza]]. El número dedicado a la democracia (Issue 21) complementa además los artículos sobre [[democracia]], [[gobierno_representativo]], [[soberanía_popular]], [[derechos_inalienables]], [[bien_común]], [[justicia]], [[sociedad_civil]], [[ciudadanía]], [[libertad_religiosa]], [[laicidad]], [[secularismo]], [[cristianismo_y_política]], [[teología_política]], [[ciudad_de_dios]], [[teología_de_la_historia]], [[providencia_divina]] y [[primacía_de_cristo]]. El número dedicado al coraje (Issue 22) complementa además los artículos sobre [[fortaleza]], [[coraje]], [[virtud_de_la_fortaleza]], [[virtudes_cardinales]], [[virtud]], [[miedo]], [[temor_de_dios]], [[don_de_fortaleza]], [[espíritu_santo]], [[martirio]], [[mártir]], [[gracia_santificante]], [[virtudes_infusas]], [[consejos_evangélicos]], [[pobreza]], [[castidad]], [[obediencia]], [[laicado]], [[apostolado_de_los_laicos]], [[eucaristía]], [[presencia_real]], [[cristificación]], [[humildad]] y [[santidad]].
 
 ## Ver también
 
@@ -719,3 +770,4 @@ Esta fuente complementa los artículos sobre [[evangelización]], [[evangelizaci
 - Evangelization & Culture, Issue 19 (2024) — Artificial Intelligence
 - Evangelization & Culture, Issue 20 (2024) — Sport
 - Evangelization & Culture, Issue 21 (2024) — Democracy
+- Evangelization & Culture, Issue 22 (2024) — Courage

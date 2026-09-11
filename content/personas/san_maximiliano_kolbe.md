@@ -2,14 +2,14 @@
 type: Persona
 title: San Maximiliano Kolbe
 tags: ["hagiografía"]
-
-timestamp: 2026-09-02
-description: "San Maximiliano María Kolbe (1894-1941), franciscano conventual polaco, fundador de la Milicia de la Inmaculada (*Militia Immaculatae*)."
+timestamp: 2026-09-10
+description: "San Maximiliano María Kolbe (1894-1941), franciscano conventual polaco, fundador de la Milicia de la Inmaculada (*Militia Immaculatae*), «mártir de la caridad» y patrón del siglo difícil."
 ---
+
 # San Maximiliano Kolbe
 
 > Área: Hagiografía
-> Última actualización: 2026-09-02
+> Última actualización: 2026-09-10
 
 ## Biografía
 
@@ -32,6 +32,12 @@ San Maximiliano Kolbe es presentado como el modelo supremo de liderazgo sacrific
 **El silencio y la gracia (archivo 22).** En «Lessons from Elijah» (Fr. Leonard Andrie), Kolbe es citado para explicar cómo Dios se revela en la quietud: «El silencio es necesario, e incluso absolutamente necesario; si falta el silencio, falta la gracia». El autor lo aplica a la experiencia de Elías en el Horeb, donde el Señor se manifiesta en la voz mansa y suave distinta del viento, el terremoto y el fuego (1 Re 19,12); es el silencio el que dispone el alma a recibir la gracia en medio de la [[desolación_espiritual|desolación]] y el desánimo (ver [[silencio]]).
 
 **El testigo de Auschwitz (archivo 13).** En la introducción a los ensayos (*What Is Suffering?*), la imagen de Kolbe en el bunker de hambre de Auschwitz —sacerdote famélico que «muriendo por pulgadas» reza y canta himnos junto a los cadáveres de los presos que lo precedieron— figura como uno de los rostros arquetípicos del sufrimiento humano, junto a la madre bajo el decreto de Herodes, Job y el enfermo terminal; la respuesta al sufrimiento se contempla a la luz de la cruz, donde Dios sufre «con nosotros, y por nosotros» [13_features_intro].
+
+### Según Evangelization & Culture n.º 22 «Courage» (EAC-22)
+
+**La fortaleza y el martirio de caridad (10_minds.md).** Michael D. Wick desarrolla el coraje de Kolbe como «mártir de la caridad»: cumulo la condición de toda virtud —la fortaleza— en el acto supremo del amor. Jn 15,13 —«nadie tiene mayor amor que el que da la vida por sus amigos»— está en la base de su entrega voluntaria para ocupar el lugar de Francisco Gajowniczek. La raíz de su coraje es la devoción mariana: las dos coronas de la Virgen (blanca de pureza, roja de martirio) y la fundación de la *Militia Immaculatae* (1917), con el Rosario como espada. En el búnker de la inanición, el sacrificio eucarístico se hace vida: «Pro Amore Usque ad Victimam» (por amor hasta la víctima). JPII lo canonizó en 1982 y lo proclamó «patrón del siglo difícil» y «profeta de la civilización del amor».
+
+**El coraje de los santos (01_from_the_desk.md).** Barron cita a Kolbe entre los modelos de coraje transfigurado por la gracia (con María, Juana de Arco y Teresa Benedicta de la Cruz).
 
 ## Ver también
 

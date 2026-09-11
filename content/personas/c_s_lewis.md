@@ -3,15 +3,15 @@ type: Persona
 title: "C.S. Lewis"
 tags: ["apologética", "literatura_católica", "siglo_xx"]
 
-timestamp: 2026-09-08
-description: "Escritor y apologista británico (1898-1963), converso del ateísmo; su teoría del sufrimiento influye en la espiritualidad del deporte."
+timestamp: 2026-09-10
+description: "Escritor y apologista británico (1898-1963), converso del ateísmo; el coraje como forma de toda virtud y la esperanza recta frente a la auto-invención."
 ---
 # C.S. Lewis
 
 > Nacimiento: 29 de noviembre de 1898, Belfast
 > Muerte: 22 de noviembre de 1963, Oxford
 > Área: Escritores / Apologistas
-> Última actualización: 2026-09-08
+> Última actualización: 2026-09-10
 > Conversión: 1930-1931 (teísmo, luego cristianismo, anglicano)
 > Nota: no fue católico romano, pero es fuente clásica de la apologética católica contemporánea
 
@@ -55,6 +55,12 @@ Jason Paone, editor de Word on Fire Academic y del nuevo journal teológico *The
 
 **El amor como don irreductible (12_science.md):** En la reflexión sobre Gehrig, Lewis distingue que el amor —«la cosa más importante del mundo y la razón de nuestra existencia»— deja mudo a un ordenador: «El amor se recibe y se ofrece, no se fabrica y se distribuye. Es un don de Dios, puro y simple»». Esta enseñanza de Lewis, aplicada al deporte, muestra que el cariño de los fanáticos, la camaradería del equipo y la entrega a la causa trascienden el mero cálculo: el atleta virtuoso ama por encima de la victoria.
 
+### Según Evangelization & Culture n.º 22 «Courage» (EAC-22)
+
+**El coraje como forma de toda virtud (14_feature_desanctis.md).** DeSanctis cita a Lewis (*The Screwtape Letters*) para definir el coraje: «el coraje no es simplemente una de las virtudes, sino la forma de toda virtud en el punto de prueba». La fórmula subraya que ninguna virtud se mantiene sin fortaleza.
+
+**La esperanza recta y la crítica al individualismo (19_spotlight_ward.md).** Thomas M. Ward recurre a *Till We Have Faces* y *The Pilgrim's Regress* —además de a Epicteto, Marco Aurelio y Boecio— para ilustrar la «filosofía como terapia»: recordar quién se es y qué se es; la esperanza bien fundada frente a la auto-invención. El hombre está hecho para más que el mero cuerpo; su verdadero rostro no se inventa sino que se encuentra (cf. *Hasta que tengamos rostro*).
+
 ## Relevancia teológica
 
 Lewis demuestra que la sátira, la fantasía y el humor pueden ser vehículos de ortodoxia. Aunque anglicano, su antropología (ley moral natural, deseo, razón) es plenamente armonizable con la tradición católica y ha sido recibida como tal.
@@ -70,3 +76,4 @@ Lewis demuestra que la sátira, la fantasía y el humor pueden ser vehículos de
 - EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (12_art.md; 10_minds.md; 04_midnight_oil.md; 05_lives.md).
 - EAC-19, *Evangelization & Culture, Issue 19 — Artificial Intelligence* (Word on Fire Institute), 10_spotlight_ressourcement.md (Jason Paone, «Broad and Deep: Why We Need the New Ressourcement»).
 - EAC-20, *Evangelization & Culture, Issue 20 — Sport* (Word on Fire Institute), 12_science.md (*The Problem of Pain* como marco del sufrimiento deportivo).
+- EAC-22, *Evangelization & Culture, Issue 22 — Courage* (Winter 2024), Word on Fire Institute (14_feature_desanctis.md; 19_spotlight_ward.md).

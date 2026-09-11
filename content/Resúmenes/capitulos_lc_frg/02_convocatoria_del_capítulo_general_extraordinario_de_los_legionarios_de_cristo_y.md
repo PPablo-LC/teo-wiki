@@ -12,8 +12,8 @@ tags: ["resumen", "capitulos lc frg"]
 
 ## Conceptos básicos referenciados
 
-- [[Capítulo_General_Extraordinario_de_los_Legionarios_de_Cristo]]
-- [[Asamblea_General_del_Regnum_Christi]]
+- [[capítulo_general]]
+- [[asamblea_general_regnum_christi]]
 - [[Regnum_Christi]]
 
 
@@ -21,7 +21,7 @@ tags: ["resumen", "capitulos lc frg"]
 
 📄 **Fuente original:** `02_convocatoria_del_capítulo_general_extraordinario_de_los_legi.md`
 
-Sección de encabezado que sirve como entrada maestra de la convocatoria conjunta del [[Capítulo_General_Extraordinario_de_los_Legionarios_de_Cristo]] y de las asambleas extraordinarias de las Consagradas y de los Laicos Consagrados del [[Regnum_Christi]], todos ellos celebrados en 2018. El texto es un título de sección sin contenido adicional, remitiendo a los decretos de convocación que figuran en los capítulos siguientes del volumen.
+Sección de encabezado que sirve como entrada maestra de la convocatoria conjunta del [[capítulo_general]] y de las asambleas extraordinarias de las Consagradas y de los Laicos Consagrados del [[Regnum_Christi]], todos ellos celebrados en 2018. El texto es un título de sección sin contenido adicional, remitiendo a los decretos de convocación que figuran en los capítulos siguientes del volumen.
 
 
 ## Mapa del archivo fuente

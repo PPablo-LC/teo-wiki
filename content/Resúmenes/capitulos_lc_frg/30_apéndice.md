@@ -16,9 +16,9 @@ tags: ["resumen", "capitulos lc frg"]
 - [[Legionarios_de_Cristo]]
 - [[Consagradas_del_Regnum_Christi]]
 - [[Laicos_Consagrados_del_Regnum_Christi]]
-- [[Estatutos_de_la_Federación_Regnum_Christi]]
-- [[Constituciones_de_los_Legionarios_de_Cristo]]
-- [[Constituciones_de_las_Consagradas_del_Regnum_Christi]]
+- [[estatutos_federación_regnum_christi]]
+- [[constituciones_legionarios_de_cristo]]
+- [[consagradas_del_regnum_christi]]
 - [[Vida_consagrada]]
 - [[Congregación_para_los_Institutos_de_Vida_Consagrada_y_las_Sociedades_de_Vida_Apostólica]]
 
@@ -31,7 +31,7 @@ El apéndice documenta los eventos posteriores a la aprobación de los documento
 
 ### Respuesta de la Santa Sede
 
-Mons. Juan Carlos Rodríguez Carballo, subsecretario de la [[Congregación_para_los_Institutos_de_Vida_Consagrada_y_las_Sociedades_de_Vida_Apostólica]], escribió a los padres capitulares de la Legión de Cristo con fecha 11 de diciembre de 2018. La Congregación había tomado conocimiento de la aprobación por la [[Asamblea_General_del_Regnum_Christi]] de los documentos (constituciones, estatutos y reglamento de los fieles asociados). La Congregación no competente en todo lo que afecta a los miembros laicos del [[Regnum_Christi]].
+Mons. Juan Carlos Rodríguez Carballo, subsecretario de la [[Congregación_para_los_Institutos_de_Vida_Consagrada_y_las_Sociedades_de_Vida_Apostólica]], escribió a los padres capitulares de la Legión de Cristo con fecha 11 de diciembre de 2018. La Congregación había tomado conocimiento de la aprobación por la [[asamblea_general_regnum_christi]] de los documentos (constituciones, estatutos y reglamento de los fieles asociados). La Congregación no competente en todo lo que afecta a los miembros laicos del [[Regnum_Christi]].
 
 ### Aprobación "ad experimentum"
 

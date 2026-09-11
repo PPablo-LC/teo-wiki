@@ -2,14 +2,14 @@
 type: Concepto Teológico
 title: Parresía
 tags: ["teología_bíblica", "espiritualidad"]
-timestamp: 2026-06-30
-description: "Término griego del NT que designa la libertad, confianza y valentía para hablar y actuar en nombre de Dios, característica del anuncio apostólico y de la oración cristiana."
+timestamp: 2026-09-10
+description: "Término griego del NT que designa la libertad, confianza y valentía para hablar y actuar en nombre de Dios, característica del anuncio apostólico y de la oración cristiana; cumbre del coraje bíblico."
 ---
 
 # Parresía
 
 > Área: Teología Bíblica — Espiritualidad
-> Última actualización: 2026-06-30
+> Última actualización: 2026-09-10
 
 ## Definición
 
@@ -37,6 +37,10 @@ Artículo «parresía»: En el AT no aparece el término, pero la confianza en D
 
 II-II, q.129, a.1–7: La magnanimidad es la virtud que incluye la confianza para acometer grandes empresas. La parresía se relaciona con la fortaleza.
 
+### Según Evangelization & Culture n.º 22 «Courage» (EAC-22)
+
+En la *Special Feature* de Michael Casey, OCSO (18_feature_casey.md) sobre el coraje como confianza en Dios, la parresía neotestamentaria aparece como cumbre del coraje bíblico: **el Espíritu Santo da la audacia (*parrhesía*) para anunciar y morir por el Evangelio** (Mc 13,9; Hch 5,41), como contrapunto de la *merimna* (la ansiedad). La parresía del NT es el cumplimiento de la confianza veterotestamentaria en el Dios de la alianza: quien se fía de Dios —su «escudo y guerrero» (Salmos 35, 18, 91, 121)— habla con libertad y valentía ante los hombres. Es, en el fondo, la forma concreta del [[coraje]] cristiano: la audacia que no nace de las propias fuerzas sino del Espíritu.
+
 ## Relaciones doctrinales
 
 Se relaciona con la [[fortaleza]], la [[confianza_en_dios]], la [[oración_cristiana]], la [[predicación]], el [[testimonio_cristiano]], el [[martirio]] y la [[libertad_cristiana]].
@@ -50,3 +54,4 @@ Se relaciona con la [[fortaleza]], la [[confianza_en_dios]], la [[oración_crist
 - CEC §2611, §2778
 - VocTeoBib: parresía
 - SmTh II-II, q.129
+- EAC-22, *Evangelization & Culture, Issue 22 — Courage* (Winter 2024), 18_feature_casey.md

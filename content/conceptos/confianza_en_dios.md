@@ -2,14 +2,14 @@
 type: Concepto Teológico
 title: Confianza en Dios
 tags: ["ascética", "moral"]
-
-timestamp: 2026-06-23
-description: "La confianza en Dios es la disposición del alma que, fundada en la fe en la [[providencia_divina]] y en la [[filiación_divina]], se abandona filialmente en las manos de Dios."
+timestamp: 2026-09-10
+description: "La confianza en Dios es la disposición del alma que, fundada en la fe en la [[providencia_divina]] y en la [[filiación_divina]] y en el Dios de la alianza, se abandona filialmente en las manos de Dios."
 ---
+
 # Confianza en Dios
 
 > Área: Ascética / Moral
-> Última actualización: 2026-06-23
+> Última actualización: 2026-09-10
 
 ## Definición
 
@@ -48,6 +48,16 @@ Juan Pablo I describe la [[virtud_de_la_esperanza]] como un «clima de confianza
 El modelo de esta confianza es [[Abraham]], «que creyó esperando contra toda esperanza» (Rom 4,18). Aun en la adversidad —cuando el justo puede sentirse tentado a preguntar «¿Por qué duermes, Señor?»— la confianza permanece, porque Dios no abandona a quien espera en Él [7_Lamps].
 
 La confianza filial se extiende incluso al pecador arrepentido. A una mujer desalentada por su pasado, el Papa le aconsejó, citando a [[San_Francisco_de_Sales]], que viera sus faltas como «nuestras queridas imperfecciones»: «Dios detesta las faltas, porque son faltas. Pero, por otra parte, ama, en cierto sentido, las faltas en cuanto le dan ocasión a Él de mostrar su misericordia y a nosotros de permanecer humildes» [7_Lamps].
+
+### Según Evangelization & Culture n.º 22 «Courage» (EAC-22)
+
+El coraje como confianza en Dios es el tema de la *Special Feature* de Michael Casey, OCSO (18_feature_casey.md), que recibe también el color de la editorial de Barron y del artículo de Nguyen sobre Edith Stein:
+
+- **El coraje bíblico es fiarse del Dios de la alianza** (a diferencia de la *andreia* griega): Dios es «escudo y guerrero» que interpone su poder entre nosotros y el enemigo (Salmos 35, 18, 91, 121); la confianza es el motor —no la pasividad— del valor.
+- **Después del pecado (Gn 3)**: Adán se esconde por miedo (Gn 3,10); Dios lo viste y neutraliza el miedo paralizante (Gn 3,21). La ansiedad (*merimna*) se vence con la audacia del Espíritu (*parrhesía*).
+- **En el exilio y la desolación**: el coraje de los que esperan (Sal 137); el lamento ante Dios como acto de fe (Job 13,15: «aunque me mate, en Él esperaré»).
+- **Confianza y providencia**: la entrega confiada al Dios que sostiene, como el niño en brazos de la madre que describe Edith Stein —«En el conocimiento de que el ser me sostiene, descanso segura» (17_feature_nguyen.md).
+- **La providencia en los santos**: Juana de Arco —«lo que hago, lo hago por mandamiento» (05_lives.md)— y Kolbe —todo sufrimiento querido por amor es parte del plan de Dios (10_minds.md)— son modelos de abandono confiado, en la línea de la Oración de la Serenidad (Niebuhr) que Worner glosa para la ansiedad (04_midnight_oil.md).
 
 ## Distinciones importantes
 

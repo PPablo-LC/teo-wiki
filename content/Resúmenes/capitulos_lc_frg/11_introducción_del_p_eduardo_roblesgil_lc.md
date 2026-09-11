@@ -15,10 +15,10 @@ tags: ["resumen", "capitulos lc frg"]
 - [[Regnum_Christi]]
 - [[Federación_Regnum_Christi]]
 - [[Legionarios_de_Cristo]]
-- [[Capítulo_General_Extraordinario_de_los_Legionarios_de_Cristo]]
+- [[capítulo_general]]
 - [[Consagradas_del_Regnum_Christi]]
 - [[Laicos_Consagrados_del_Regnum_Christi]]
-- [[Estatutos_de_la_Federación_Regnum_Christi]]
+- [[estatutos_federación_regnum_christi]]
 - [[Discernimiento]]
 
 
@@ -26,7 +26,7 @@ tags: ["resumen", "capitulos lc frg"]
 
 📄 **Fuente original:** `11_introducción_del_p_eduardo_robles_gil_l_c.md`
 
-Transcripción autorizada de la intervención del P. Eduardo Robles-Gil, L.C., director general de la Legión de Cristo y del [[Regnum_Christi]], pronunciada el 27 de noviembre de 2018 al inicio de la segunda fase de la [[Asamblea_General_del_Regnum_Christi]] (Prot. DG-RC 413-2018).
+Transcripción autorizada de la intervención del P. Eduardo Robles-Gil, L.C., director general de la Legión de Cristo y del [[Regnum_Christi]], pronunciada el 27 de noviembre de 2018 al inicio de la segunda fase de la [[asamblea_general_regnum_christi]] (Prot. DG-RC 413-2018).
 
 ### El momento actual y los pasos seguidos en este año
 
@@ -34,11 +34,11 @@ Robles-Gil recuerda los momentos clave del proceso: la decisión de la Congregac
 
 ### La segunda etapa del Capítulo General
 
-El [[Capítulo_General_Extraordinario_de_los_Legionarios_de_Cristo]] ha acogido la noticia de la inminente erección de las dos [[Sociedad_de_Vida_Apostólica]] con fe y esperanza. Los legionarios se comprometen a respetar la autonomía de las dos sociedades y reconocen que la unidad del [[Regnum_Christi]] no puede pensarse como en el pasado. La [[Federación_Regnum_Christi]] es la mejor configuración canónica disponible. El Capítulo confirma una federación principalmente de coordinación.
+El [[capítulo_general]] ha acogido la noticia de la inminente erección de las dos [[Sociedad_de_Vida_Apostólica]] con fe y esperanza. Los legionarios se comprometen a respetar la autonomía de las dos sociedades y reconocen que la unidad del [[Regnum_Christi]] no puede pensarse como en el pasado. La [[Federación_Regnum_Christi]] es la mejor configuración canónica disponible. El Capítulo confirma una federación principalmente de coordinación.
 
 ### Qué esperar de los Estatutos
 
-Cita la idea de que el fin del Movimiento no puede ser el Movimiento mismo, sino la misión para la cual se fundó: la formación de apóstoles. Los [[Estatutos_de_la_Federación_Regnum_Christi]] deben estar al servicio de las personas, no al revés. La renovación del Movimiento requiere un renovado compromiso con el mundo desde la comunión.
+Cita la idea de que el fin del Movimiento no puede ser el Movimiento mismo, sino la misión para la cual se fundó: la formación de apóstoles. Los [[estatutos_federación_regnum_christi]] deben estar al servicio de las personas, no al revés. La renovación del Movimiento requiere un renovado compromiso con el mundo desde la comunión.
 
 ### Algunas actitudes para esta segunda etapa
 

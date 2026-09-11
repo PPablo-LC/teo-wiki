@@ -2,13 +2,13 @@
 type: Persona
 title: "San Juan Bautista"
 tags: ["personas_—_santos", "cristología", "mariología"]
-timestamp: 2026-07-15
-description: "Precursor del Mesías, hijo de Zacarías e Isabel, lleno del Espíritu Santo desde el seno materno; anuncia la llegada del Cordero de Dios y prepara el camino al Señor."
+timestamp: 2026-09-10
+description: "Precursor del Mesías, hijo de Zacarías e Isabel, lleno del Espíritu Santo desde el seno materno; anuncia la llegada del Cordero de Dios, prepara el camino al Señor y encarna el coraje profético."
 ---
 # San Juan Bautista
 
 > Área: Personas / Santos
-> Última actualización: 2026-07-15
+> Última actualización: 2026-09-10
 
 ## Definición
 
@@ -32,6 +32,10 @@ Benedicto XVI presenta a Juan Bautista como la figura que concentra en sí misma
 
 [JdN_III, cap. II]
 
+### Según Evangelization & Culture n.º 22 «Courage» (EAC-22)
+
+En *Midnight Oil* (04_midnight_oil.md), Tod Worner presenta a San Juan Bautista como el modelo del «coraje salvaje»: integridad profética que no negocia la verdad, vida ascética («no beberá vino ni licor», Lc 1,15), denuncia directa de los poderosos —Herodes— y martirio por la verdad. En el marco del número sobre el coraje, Juan encarna la firmeza de quien dice la verdad aun a costa de la vida: el coraje profético que se opone a la cobardía acomodaticia y que purifica la conciencia del poder. Su figura resume la unión entre [[integridad]] y [[martirio]] que el número propone como forma suprema de fortaleza.
+
 ## Distinciones importantes
 
 - **No es Elías redivivo:** Juan viene «con el espíritu y la pujanza» de Elías, pero no es Elías regresado (cf. Jn 1,21).
@@ -51,3 +55,4 @@ Juan Bautista es el precursor que anuncia la llegada del [[reino_de_dios]] y se�
 - [Mt 3; 14,1-12]
 - [Jn 1,19-37]
 - [JdN_III, cap. II]
+- EAC-22, 04_midnight_oil.md (Worner, el coraje salvaje de San Juan Bautista)

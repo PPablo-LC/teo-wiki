@@ -27,7 +27,7 @@ tags: ["resumen", "capitulos lc frg"]
 
 📄 **Fuente original:** `23_comunicado_de_la_primera_sesión_de_la_asamblea_general_extra.md`
 
-Comunicado de la [[Asamblea_General_de_las_Consagradas_del_Regnum_Christi]] dirigido a todos los miembros del [[Regnum_Christi]], emitido en Castel di Guido, Roma, el 8 de abril de 2018 (Prot. DG CRC 539/2018).
+Comunicado de la [[consagradas_del_regnum_christi]] dirigido a todos los miembros del [[Regnum_Christi]], emitido en Castel di Guido, Roma, el 8 de abril de 2018 (Prot. DG CRC 539/2018).
 
 ### Configuración jurídica
 

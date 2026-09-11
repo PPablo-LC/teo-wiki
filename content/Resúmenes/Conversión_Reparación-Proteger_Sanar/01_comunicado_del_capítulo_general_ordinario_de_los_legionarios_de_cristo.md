@@ -20,7 +20,7 @@ tags: ["resumen", "conversión_reparación-proteger_sanar"]
 - [[visita_apostolica_2009-2010]] — intervención de la Santa Sede para renovación de la Congregación
 - [[prescripcion_de_delitos_canonicos]] — solicitud de levantamiento de prescripción para juzgar abusos del pasado
 - [[justicia_restaurativa]] — procesos de escucha, encuentro restaurativo y sanación con las víctimas
-- [[capitulo_general_2020]] — máxima autoridad de gobierno que aprobó el documento "Proteger y sanar"
+- [[capítulo_general_2020_legionarios_de_cristo]] — máxima autoridad de gobierno que aprobó el documento "Proteger y sanar"
 - [[legionarios_de_cristo]] — Congregación de la que proviene este documento capitular
 
 ## Contenido

@@ -18,7 +18,7 @@ tags: ["resumen", "capitulos lc frg"]
 - [[Regnum_Christi]]
 - [[Federación_Regnum_Christi]]
 - [[Reglamento_de_los_Fieles_Asociados_a_la_Federación_Regnum_Christi]]
-- [[Estatutos_de_la_Federación_Regnum_Christi]]
+- [[estatutos_federación_regnum_christi]]
 - [[Vida_consagrada]]
 - [[Laicado]]
 
@@ -27,7 +27,7 @@ tags: ["resumen", "capitulos lc frg"]
 
 📄 **Fuente original:** `14_comunicado_de_los_delegados_laicos_a_los_legionarios_de_cris.md`
 
-Comunicado de los delegados laicos que participaron en la [[Asamblea_General_del_Regnum_Christi]], emitido en Roma el 6 de diciembre de 2018 (Prot. DG-RC 429-2018).
+Comunicado de los delegados laicos que participaron en la [[asamblea_general_regnum_christi]], emitido en Roma el 6 de diciembre de 2018 (Prot. DG-RC 429-2018).
 
 ### Introducción
 

@@ -1,9 +1,9 @@
 ---
 type: Persona
 title: "J.R.R. Tolkien"
-description: "Filólogo y escritor católico inglés (1892-1973), autor de El Señor de los Anillos; puente entre la cultura medieval y la moderna, creador de la eucatastrofa."
+description: "Filólogo y escritor católico inglés (1892-1973), autor de El Señor de los Anillos; puente entre la cultura medieval y la moderna, creador de la eucatastrofa y modelo del coraje humilde en Sam y Frodo."
 tags: ["literatura_católica", "siglo_xx"]
-timestamp: 2026-09-07
+timestamp: 2026-09-10
 ---
 
 # J.R.R. Tolkien
@@ -50,6 +50,16 @@ El ensayo está adaptado de *Tolkien's Faith: A Spiritual Biography* (Word on Fi
 
 Haley Stewart («Gloriously Human: Flesh-and-Blood Writing in an Age of AI», 17_feature_stewart.md) apela a Tolkien para defender la humanidad del arte ante la [[inteligencia_artificial]]. En su ensayo «On Fairy-stories», Tolkien habla de la relación vertical entre Dios Creador y el hombre, portador de la imagen de Dios, que actúa como sub-creador: «"Hacemos en nuestra medida y en nuestro modo derivado, porque somos hechos: y no solo hechos, sino hechos a imagen y semejanza de un Hacedor"». Stewart subraya que «Dios es un artista» — pintor, escritor, cantor, creador— y que el acto de crear arte es siempre un reflejo de nuestro Creador: «En su forma más pura, el arte es un acto de adoración». El escritor da gloria a Dios a través de su [[subcreación]]. Frente a la IA, que no puede experimentar relación ni comunión, el arte humano es una actividad encarnacional: el artista es «un siervo que está dispuesto a ser engendrador», como María en el *fiat* de la Anunciación, dando carne a las ideas inspiradas.
 
+### Según Evangelization & Culture n.º 22 «Courage» (EAC-22)
+
+El número dedicado al coraje recurre a Tolkien para ilustrar la fortaleza en lo cotidiano y en lo literario:
+
+**Samwise Gamgee como modelo de coraje cotidiano (07_stacks.md):** Holly Ordway, tras citar el CEC 1808 —«la fortaleza es la virtud moral que asegura la firmeza en las dificultades y la constancia en la búsqueda del bien»—, propone a Sam como su personificación: firmeza y constancia en el bien; decide ir hasta el final con Frodo «aunque la esperanza muriera»; su valentía es para otro, no para sí mismo; héroe «principal» pudiendo ser imperfecto, modelo de [[santidad]] cotidiana y de [[humildad]].
+
+**Frodo y la aceptación humilde de la misión (14_feature_desanctis.md):** DeSanctis presenta a Frodo como coraje humilde: elegido sin mérito, acepta la misión —«*I will take the Ring, though I do not know the way*»—, en contraste con el falso coraje de la provocación; su valentía es una rendición a la realidad (cf. la cita de Ordway: «*courage is found in unlikely places*», con la que se abre el poema *Come In* de Frost).
+
+**El coraje que resiste al miedo (13_features_intro.md):** Frodo en la posada del Poney aparece entre los ejemplos del coraje como resistencia y dominio del miedo (Twain).
+
 ## Relevancia teológica
 
 Tolkien demuestra la fecundidad de la [[inculturación]] intelectual: la fe no teme a la modernidad sino que la lee, la discierne y la transfigura. Su sentido del juego y del humor medieval (la risa de los hobbits, la eucatastrofa) lo emparenta con la teología del [[humor]].
@@ -63,3 +73,4 @@ Tolkien demuestra la fecundidad de la [[inculturación]] intelectual: la fe no t
 - EAC-8, archivo 08
 - EAC-18, *Evangelization & Culture, Issue 18 — Conversion* (Winter 2023), Word on Fire Institute (Holly Ordway, 13_jrr_tolkiens_journey_of_faith.md).
 - EAC-19, *Evangelization & Culture, Issue 19 — Artificial Intelligence* (Word on Fire Institute), 17_feature_stewart.md (Haley Stewart, «Gloriously Human»).
+- EAC-22, *Evangelization & Culture, Issue 22 — Courage* (Winter 2024), Word on Fire Institute (07_stacks.md; 13_features_intro.md; 14_feature_desanctis.md).

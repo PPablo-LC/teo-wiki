@@ -12,8 +12,8 @@ tags: ["resumen", "capitulos lc frg"]
 
 ## Conceptos básicos referenciados
 
-- [[Capítulo_General_Extraordinario_de_los_Legionarios_de_Cristo]]
-- [[Constituciones_de_los_Legionarios_de_Cristo]]
+- [[capítulo_general]]
+- [[constituciones_legionarios_de_cristo]]
 - [[Código_de_Derecho_Canónico]]
 - [[Regnum_Christi]]
 
@@ -22,13 +22,13 @@ tags: ["resumen", "capitulos lc frg"]
 
 📄 **Fuente original:** `03_decreto_de_anuncio_del_capítulo_general_extraordinario_de_lo.md`
 
-Decreto de la [[Dirección_General_de_los_Legionarios_de_Cristo]] (Prot. DG-LC 5623-2017, 16 de octubre de 2017), firmado por el P. Eduardo Robles-Gil y el P. Jaime Rodríguez, que anuncia la celebración de un [[Capítulo_General_Extraordinario_de_los_Legionarios_de_Cristo]] a iniciar el 26 de marzo de 2018 en la Sede de la Dirección General en Roma.
+Decreto de la [[gobierno_congregacional]] (Prot. DG-LC 5623-2017, 16 de octubre de 2017), firmado por el P. Eduardo Robles-Gil y el P. Jaime Rodríguez, que anuncia la celebración de un [[capítulo_general]] a iniciar el 26 de marzo de 2018 en la Sede de la Dirección General en Roma.
 
 **Finalidades del Capítulo** (§ 1):
 
-1. Revisar el *Borrador del Estatuto General del [[Regnum_Christi]]* y formular recomendaciones para la [[Asamblea_General_del_Regnum_Christi]].
-2. Definir la modalidad de ratificación del Estatuto General aprobado por la [[Asamblea_General_del_Regnum_Christi]] de 2018 por parte del [[Capítulo_General_de_los_Legionarios_de_Cristo]].
-3. Elegir a los delegados de la Legión de Cristo que participarán como miembros elegidos en la [[Asamblea_General_del_Regnum_Christi]].
+1. Revisar el *Borrador del Estatuto General del [[Regnum_Christi]]* y formular recomendaciones para la [[asamblea_general_regnum_christi]].
+2. Definir la modalidad de ratificación del Estatuto General aprobado por la [[asamblea_general_regnum_christi]] de 2018 por parte del [[capítulo_general]].
+3. Elegir a los delegados de la Legión de Cristo que participarán como miembros elegidos en la [[asamblea_general_regnum_christi]].
 
 **Normas para la elección de delegados** (§ 2):
 

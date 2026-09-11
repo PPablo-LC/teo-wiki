@@ -16,7 +16,7 @@ tags: ["resumen", "espiritualidad_legionaria", "informe_anual", "vjys_ii", "lín
 - [[capítulo_general_extraordinario_2014]] — Perdón víctimas, reconocimiento P. Maciel, mandatos a superiores
 - [[informe_1941_2019]] — Investigación histórica, análisis fenómeno, centralidad víctima, difusión
 - [[conversión_reparación_proteger_y_sanar]] — Documentos capitulares CG 2020
-- [[capítulo_general_2020]] — Órgano supremo gobierno (can. 631 CIC)
+- [[capítulo_general_2020_legionarios_de_cristo]] — Órgano supremo gobierno (can. 631 CIC)
 - [[ambientes_seguros]] — Política internacional, auditoría externa, acreditación Praesidium
 - [[rendición_de_cuentas]] — I y II Informes Anuales (2021, 2022)
 

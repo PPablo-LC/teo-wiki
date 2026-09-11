@@ -15,12 +15,12 @@ tags: ["resumen", "antologia_delegado_pontificio", "espiritualidad_lc"]
 - [[visita_apostolica]] — inspección de la Congregación por cinco obispos visitadores (2009-2010)
 - [[delegado_pontificio]] — card. Velasio De Paolis, nombrado por Benedicto XVI el 16 de junio de 2010
 - [[marcial_maciel]] — fundador de la Legión de Cristo cuya conducta causó consecuencias graves
-- [[capitulo_general_extraordinario]] — capítulo de 2014 para aprobar nuevas Constituciones
+- [[capítulo_general]] — capítulo de 2014 para aprobar nuevas Constituciones
 - [[comision_central_para_la_revision_de_las_constituciones]] — organismo encargado de la revisión constitucional
 - [[comision_de_acercamiento]] — creada para atender a personas afectadas por los hechos del fundador
 - [[comision_para_estudiar_los_asuntos_economicos]] — encargada de revisar la situación económica
 - [[constituciones_de_la_legion_de_cristo]] — texto fundamental a revisar
-- [[carisma_de_la_legion_de_cristo]] — don del Espíritu a revisar y purificar
+- [[carisma_legionario]] — don del Espíritu a revisar y purificar
 - [[regnum_christi]] — Movimiento vinculado a la Legión de Cristo
 - [[vida_consagrada]] — estado de los miembros consagrados del Regnum Christi
 - [[obediencia]] — voto que vincula a los religiosos con sus superiores
@@ -32,15 +32,15 @@ tags: ["resumen", "antologia_delegado_pontificio", "espiritualidad_lc"]
 
 ### Introducción
 
-La Introducción, redactada por el P. Jaime Rodríguez, L.C., presenta un recorrido cronológico por los hitos principales del camino de purificación y renovación de la Legión de Cristo entre marzo de 2009 (anuncio de la [[visita_apostolica]]) y febrero de 2014 (conclusión del [[capitulo_general_extraordinario]]). Los documentos de la antología se ordenan en tres partes: decretos y cartas oficiales (primera parte), homilías y conferencias del delegado pontificio (segunda parte), y conferencias del P. Ghirlanda sobre eclesiología de la vida consagrada (tercera parte).
+La Introducción, redactada por el P. Jaime Rodríguez, L.C., presenta un recorrido cronológico por los hitos principales del camino de purificación y renovación de la Legión de Cristo entre marzo de 2009 (anuncio de la [[visita_apostolica]]) y febrero de 2014 (conclusión del [[capítulo_general]]). Los documentos de la antología se ordenan en tres partes: decretos y cartas oficiales (primera parte), homilías y conferencias del delegado pontificio (segunda parte), y conferencias del P. Ghirlanda sobre eclesiología de la vida consagrada (tercera parte).
 
 ### A. La Visita Apostólica
 
-Entre junio de 2009 y marzo de 2010, los visitadores (Mons. Blázquez, Mons. Chaput, Mons. Ezzati, Mons. Versaldi y Mons. Watty) entrevistaron a más de mil legionarios, examinaron cientos de testimonios escritos y visitaron casi todas las casas de la Congregación. Concluyeron la presencia de «un gran número de religiosos ejemplares» pero también que la conducta del [[marcial_maciel]] causó consecuencias serias que requerían un camino de profunda revisión. La Santa Sede impartió la consigna de redefinir el [[carisma_de_la_legion_de_cristo]] preservando el núcleo de la *militia Christi*, revisar el ejercicio de la autoridad y preservar el entusiasmo de la fe de los jóvenes.
+Entre junio de 2009 y marzo de 2010, los visitadores (Mons. Blázquez, Mons. Chaput, Mons. Ezzati, Mons. Versaldi y Mons. Watty) entrevistaron a más de mil legionarios, examinaron cientos de testimonios escritos y visitaron casi todas las casas de la Congregación. Concluyeron la presencia de «un gran número de religiosos ejemplares» pero también que la conducta del [[marcial_maciel]] causó consecuencias serias que requerían un camino de profunda revisión. La Santa Sede impartió la consigna de redefinir el [[carisma_legionario]] preservando el núcleo de la *militia Christi*, revisar el ejercicio de la autoridad y preservar el entusiasmo de la fe de los jóvenes.
 
 ### B. El nombramiento del delegado pontificio
 
-El 16 de junio de 2010, Benedicto XVI nombró delegado pontificio al card. [[velasio_de_paolis_c_s]], con la misión de gobernar la Congregación y acompañar la revisión hasta el [[capitulo_general_extraordinario]]. El 9 de julio, la Secretaría de Estado precisó las modalidades de su oficio. El 1 de octubre se anunciaron los cuatro consejeros personales: Mons. Brian Farrell, Mons. Mario Marchesi, P. Gianfranco Ghirlanda y P. Agostino Montan. Tras la renuncia de Benedicto XVI, el Papa Francisco ratificó al delegado pontificio el 19 de junio de 2013.
+El 16 de junio de 2010, Benedicto XVI nombró delegado pontificio al card. [[velasio_de_paolis_c_s]], con la misión de gobernar la Congregación y acompañar la revisión hasta el [[capítulo_general]]. El 9 de julio, la Secretaría de Estado precisó las modalidades de su oficio. El 1 de octubre se anunciaron los cuatro consejeros personales: Mons. Brian Farrell, Mons. Mario Marchesi, P. Gianfranco Ghirlanda y P. Agostino Montan. Tras la renuncia de Benedicto XVI, el Papa Francisco ratificó al delegado pontificio el 19 de junio de 2013.
 
 ### C. La ampliación del consejo general
 

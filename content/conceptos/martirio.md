@@ -2,14 +2,14 @@
 type: Concepto Teológico
 title: Martirio
 tags: ["moral", "ascética"]
-
-timestamp: 2026-06-11
-description: "El martirio (del griego *martyria*, «testimonio») es la muerte voluntariamente aceptada por dar testimonio de la fe cristiana o de una verdad moral inseparable de ella."
+timestamp: 2026-09-10
+description: "El martirio (del griego *martyria*, «testimonio») es la muerte voluntariamente aceptada por dar testimonio de la fe cristiana o de una verdad moral inseparable de ella; el coraje del mártir es don recibido del amor de Cristo."
 ---
+
 # Martirio
 
 > Área: Moral / Ascética
-> Última actualización: 2026-06-11
+> Última actualización: 2026-09-10
 
 ## Definición
 
@@ -64,6 +64,24 @@ La Veritatis Splendor (§90-94) presenta el martirio como el testimonio más ele
 ### Perspectivas por fuente — WoF-4
 
 Bulman identifica tres tipos de testigos paradigmáticos del martirio: Egeria, la mujer peregrina cuyas memorias constituyen uno de los testimonios más preciados sobre la Iglesia primitiva; Genesio, el actor que se convirtió durante una representación burlona de los sacramentos y fue martirizado; y Antonino de Apamea, el filósofo cuyo testimonio de fe unitiva selló su vida con el sello del martirio. La catequesis tardía tendió a antepasar los martirios más antiguos a las necesidades catequéticas actuales, subrayando su valor ejemplar y pastoral. Desde la perspectiva del teo-drama, la vida del mártir se convierte en representación: la existencia entera del creyente es escena donde se manifiesta la gracia de Dios. Barron, por su parte, afirma que «la gracia puede usar incluso la blasfemia como instrumento de conversión», recordando que el testimonio mártir puede despertar la fe incluso en quien la rechaza con violencia.
+
+### Según Evangelization & Culture n.º 22 «Courage» (EAC-22)
+
+El número sobre el coraje presenta el martirio como la culminación de la fortaleza y modelo de coraje supuestamente inaccesible:
+
+**El mártir como soldado de Cristo (01_from_the_desk.md):** Barron contrapone al soldado del mundo el soldado de Cristo: el mártir acepta la muerte antes que negar al Señor. El coraje natural —Edith Stein, María, Juana de Arco, Maximiliano Kolbe— se convierte en coraje sobrenatural por la gracia.
+
+**El coraje de los mártires como don (12_art.md):** Rozann Lee observa la paz en el rostro de los mártires (Bartolomé, Ágata, Pedro de Verona, Lorenzo, Lucía) en contraposición a nuestra comodidad. San Pedro Mártir escribió el Credo con su propia sangre. El coraje del mártir **no se construye, se recibe**: no es acto de la voluntad ni resiliencia, sino respuesta al amor de Cristo; el Espíritu Santo da la fuerza en el momento en que es necesaria («No temas»).
+
+**Juana de Arco (05_lives.md):** La doncella de Orleans consuma la entrega total (confianza, obediencia, cuerpo) clamando «Jesús». La máxima «la única fuerza absoluta de la criatura es entregarse a Dios» (Gertrud von Le Fort) resume su martirio y su coraje.
+
+**Maximiliano Kolbe, mártir de la caridad (10_minds.md):** Wick desarrolla el martirio de caridad a partir de Jn 15,13: nadie tiene mayor amor que dar la vida por los amigos. La familia de virtudes que Kolbe perfecciona es la fortaleza; su raíz, la total consagración a la Inmaculada. JPII lo canonizó en 1982 como «mártir de la caridad», «patrón del siglo difícil» y «profeta de la civilización del amor».
+
+**Edith Stein, martirio intelectual y comunitario (17_feature_nguyen.md):** Stein «profesa morir» a la manera de los filósofos (Platón, *Fedón*): la muerte como *Gemeinschaftserlebnis* —experiencia comunitaria— frente al aislamiento de la muerte heideggeriana; en Westerbork pastoralos niños de las madres aterrorizadas; hacia Auschwitz, *In via ad orientem*, en el Misterio Pascual. Su hermana Rosa, cercana a ella, es modelo del mártir anónimo.
+
+**Parrhesía y marturio (18_feature_casey.md):** El Espíritu da audacia (*parrhesía*) para anunciar y morir por el Evangelio (Mc 13,9; Hch 5,41); el martirio es el testimonio final de la confianza en el Dios de la alianza.
+
+**La adversidad del «viejo dios» (20_poetry_signs_contradiction.md):** El poema de Hren recuerda que el signo de contradicción es duro para los ojos heridos: el mundo mutila la justicia para que no pida misericordia; el mártir muere por el Dios que escribió la verdad en la arena.
 
 ## Distinciones importantes
 

@@ -14,7 +14,7 @@ tags: ["resumen", "evangelization_and_culture", "cine", "evangelización"]
 
 - [[cine]] — los fragmentos de la visión católica en el arte
 - [[evangelización]] — leer películas con ojos bíblicos
-- [[teo-drama]] — la historia de la salvación como drama fundamental
+- [[theo-drama]] — la historia de la salvación como drama fundamental
 
 ## Contenido
 

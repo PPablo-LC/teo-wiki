@@ -23,7 +23,7 @@ tags: ["resumen", "evangelization and culture - 14"]
 - [[liturgia_de_las_horas]] — oración oficial de la Iglesia en comunidad
 - [[santo_domingo_de_guzmán]] — fundador de la Orden de Predicadores, promotor del Rosario
 - [[rosario]] — oración mariana que medita los misterios de la vida de Cristo con María
-- [[teodramática_de_hans_urs_von_balthasar]] — visión teológica de la historia como drama divino-humano
+- [[theo-drama]] — visión teológica de Balthasar de la historia como drama divino-humano
 - [[sacramento_del_matrimonio]] — unión de varón y mujer que refleja la alianza de Cristo con la Iglesia
 - [[sentido_de_la_vida]] — pregunta sobre el propósito existencial que Dios pone en el corazón humano
 - [[dedicación_a_san_josé]] — consagración espiritual a San José como modelo de obediencia

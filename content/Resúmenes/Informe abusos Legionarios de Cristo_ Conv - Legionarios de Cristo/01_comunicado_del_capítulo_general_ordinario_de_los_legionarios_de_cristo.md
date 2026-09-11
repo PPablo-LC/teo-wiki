@@ -12,7 +12,7 @@ tags: ["resumen", "espiritualidad_legionaria", "capítulo_general_2020", "comuni
 
 ## Conceptos básicos referenciados
 
-- [[capítulo_general_2020]] — Capítulo General ordinario LC (26 feb 2020), máximo órgano gobierno (can. 631 CIC)
+- [[capítulo_general_2020_legionarios_de_cristo]] — Capítulo General ordinario LC (26 feb 2020), máximo órgano gobierno (can. 631 CIC)
 - [[informe_1941_2019]] — Informe histórico base del comunicado
 - [[proteger_y_sanar]] — Documento normativo con 10 medidas concretas (PS)
 - [[conversión_reparación_proteger_y_sanar]] — Documento gemelo "Conversión y reparación"

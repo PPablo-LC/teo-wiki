@@ -12,7 +12,7 @@ tags: ["resumen", "capitulos lc frg"]
 
 ## Conceptos básicos referenciados
 
-- [[Capítulo_General_Extraordinario_de_los_Legionarios_de_Cristo]]
+- [[capítulo_general]]
 - [[Regnum_Christi]]
 
 
@@ -20,7 +20,7 @@ tags: ["resumen", "capitulos lc frg"]
 
 📄 **Fuente original:** `15_comunicaciones_del_capítulo_general_extraordinario_de_los_le.md`
 
-Sección de encabezado que agrupa las comunicaciones oficiales emanadas del [[Capítulo_General_Extraordinario_de_los_Legionarios_de_Cristo]] de 2018. El texto original es un título de sección sin contenido propio; las comunicaciones específicas figuran en los capítulos siguientes del volumen (primera sesión — Comunicación, y segunda sesión — Comunicado).
+Sección de encabezado que agrupa las comunicaciones oficiales emanadas del [[capítulo_general]] de 2018. El texto original es un título de sección sin contenido propio; las comunicaciones específicas figuran en los capítulos siguientes del volumen (primera sesión — Comunicación, y segunda sesión — Comunicado).
 
 
 ## Mapa del archivo fuente

@@ -33,7 +33,7 @@ Como sucesor del fundador [[Marcial_Maciel]] y primer Director General, el cargo
 
 ## Ver también
 
-[[legión_de_cristo]], [[delegado_pontificio]], [[gobierno_religioso]], [[superior_mayor]], [[capítulo_general]], [[constituciones_legionarios]]
+[[legión_de_cristo]], [[delegado_pontificio]], [[gobierno_religioso]], [[superior_mayor]], [[capítulo_general]], [[constituciones_legionarios_de_cristo]]
 
 ## Referencias
 

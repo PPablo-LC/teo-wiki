@@ -28,7 +28,7 @@ tags: ["resumen", "capitulos lc frg"]
 
 📄 **Fuente original:** `10_introducción_del_asistente_pontificio_p_gianfranco_ghirlanda.md`
 
-Intervención del P. Gianfranco Ghirlanda, S.J., asistente pontificio, pronunciada el 27 de noviembre de 2018 al inicio de la segunda fase de la [[Asamblea_General_del_Regnum_Christi]] (Prot. DG-RC 412-2018).
+Intervención del P. Gianfranco Ghirlanda, S.J., asistente pontificio, pronunciada el 27 de noviembre de 2018 al inicio de la segunda fase de la [[asamblea_general_regnum_christi]] (Prot. DG-RC 412-2018).
 
 **1. Conclusiones del camino recorrido**: Ghirlanda recuerda que el proceso ha durado al menos seis años y ha servido para aclarar el carisma de los legionarios, las consagradas, los consagrados y los laicos. Subraya que la vida misma irá aclarando lo incierto y que la estrecha colaboración entre las ramas ya existe. Recomienda la oración ante la desolación, citando san Ignacio de Loyola (*Ejercicios Espirituales* nn. 317-326), y la conversación con el confesor para superar visiones parciales.
 

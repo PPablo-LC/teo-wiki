@@ -12,10 +12,10 @@ tags: ["resumen", "capitulos lc frg"]
 
 ## Conceptos básicos referenciados
 
-- [[Asamblea_General_del_Regnum_Christi]]
+- [[asamblea_general_regnum_christi]]
 - [[Regnum_Christi]]
 - [[Federación_Regnum_Christi]]
-- [[Estatutos_de_la_Federación_Regnum_Christi]]
+- [[estatutos_federación_regnum_christi]]
 - [[Legionarios_de_Cristo]]
 - [[Consagradas_del_Regnum_Christi]]
 - [[Laicos_Consagrados_del_Regnum_Christi]]
@@ -27,7 +27,7 @@ tags: ["resumen", "capitulos lc frg"]
 
 📄 **Fuente original:** `13_mensaje_final_de_la_asamblea_general_del_regnum_christi.md`
 
-Mensaje oficial de la [[Asamblea_General_del_Regnum_Christi]] al término de su segunda fase, emitido en Roma el 5 de diciembre de 2018 (Prot. DG-RC 444-2018).
+Mensaje oficial de la [[asamblea_general_regnum_christi]] al término de su segunda fase, emitido en Roma el 5 de diciembre de 2018 (Prot. DG-RC 444-2018).
 
 ### Introducción
 
