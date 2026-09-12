@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Abstracción
 tags: ["antropología"]
 
-timestamp: 2026-06-04
+timestamp: 2026-09-12
 description: "La abstracción es la operación propia del entendimiento agente por la que las esencias o formas inteligibles de las cosas materiales son separadas intelectualmente de las condiciones materiales..."
 ---
 # Abstracción
 
 > Área: Antropología
-> Última actualización: 2026-06-04
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -42,6 +42,16 @@ La abstracción no es una falsificación de la realidad, sino el modo propio del
 ### Según Royo Marín (TPCr)
 
 En Royo Marín, la abstracción se presupone como mecanismo natural del conocimiento humano para entender la elevación sobrenatural del intelecto. La fe eleva el entendimiento no suprimiendo el proceso abstractivo, sino añadiendo una luz superior que permite asentir a verdades que exceden la capacidad natural del entendimiento. Los dones del Espíritu Santo (entendimiento, ciencia, sabiduría) perfeccionan el entendimiento en su operación abstractiva y judicativa.
+
+### Según Il senso religioso (SR)
+
+**La persona no es una abstracción (cap. IV).** Giussani advierte que «partir de sí mismo» no puede significar partir de una imagen o prejuicio abstracto de sí: no existe un «yo» o una persona abstraída de la acción que realiza, salvo en el sueño. El punto de partida realista es la propia persona sorprendida dentro de la experiencia cotidiana, en concreto (SR, `11_capitolo_quarto.md`, §11-25).
+
+**El alma se hace todas las cosas (cap. IV).** La estructura espiritual del conocer —«anima est quodammodo omnia» (STh I q.14 a.1; Aristóteles, De anima III)— realiza la abstracción: el alma acoge lo universal de lo real sin perder su referencia a lo concreto (SR, `11_capitolo_quarto.md`, §41-55).
+
+**El ser como presencia, no como entidad abstracta (cap. X).** La reacción originaria del hombre ante lo real es el estupor ante las cosas como «presencia»: el ser no es una entidad abstracta sino una presencia que no fabricamos y que se nos impone (SR, `17_capitolo_decimo.md`, §10-20).
+
+**La abstracción deshumanizadora (cap. VII).** La posición del Iluminismo (Diderot, la Enciclopedia) es una «astrattezza disumana»: reduce a la persona y a su acción a esquemas sociopolíticos, negando la idea cristiana de mérito, según la cual la acción humana «mueve» el mundo si es ofrecida a Dios (SR, `14_capitolo_settimo.md`, §31-45).
 
 ## Distinciones importantes
 

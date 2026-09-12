@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Justicia
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-09-09
-description: "La justicia es la segunda de las virtudes cardinales, virtud infusa que reside en la voluntad, por la que se da a cada uno lo suyo con voluntad constante y perpetua."
+timestamp: 2026-09-12
+description: "La justicia es la segunda de las virtudes cardinales, virtud infusa que reside en la voluntad, por la que se da a cada uno lo suyo; exigencia que remite más allá de la historia según Giussani."
 ---
 # Justicia
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-09-09
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -55,6 +55,12 @@ León XIV trató la justicia en su discurso ante el Parlamento español como fun
 **El mal daña al que lo comete.** Kaczor recuerda el argumento socrático de que el mal daña siempre al malhechor, especialmente en la parte más importante de su ser —el alma—. Así, aunque alguien pudiera hacer lo que quisiera sin consecuencias, le es desventajoso cometer injusticia. Este argumento socrático se repite en San Pablo («No hagamos el mal para que venga el bien», Rm 3,8), en Newman y en Elizabeth Anscombe: «hay ciertas cosas prohibidas cualquiera que sean las consecuencias». La justicia no es mera convención; el daño moral es mayor que el daño físico porque el alma es más importante que el cuerpo [EAC-21, 10].
 
 **Justicia, orden del alma y subsidiariedad.** La lección de Platón para hoy es resistir la tentación del totalitarismo, que surge de la certeza de que nuestras concepciones de justicia son infalibles y deben realizarse por todos los medios posibles. Kaczor conecta esto con el principio católico de subsidiariedad: las decisiones locales deben tomarse a nivel local, y el poder federal solo debe usarse si el nivel inferior no puede lograr lo que necesita. La dignidad humana y la justicia exigen que no se imponga una visión única de la felicidad desde el poder central [EAC-21, 10].
+
+### Según Il senso religioso (SR)
+
+**La exigencia de justicia (cap. XI).** La justicia es una de las exigencias radicales del «carácter esigerencial» de la vida: el hombre tiene inscrita la exigencia de que la justicia se cumpla. Giussani señala que esta exigencia no halla satisfacción plena dentro de la historia: exige un más allá de ella, en que el inocente sea justificado. La imposibilidad de una justicia perfecta en esta vida es un signo que remite a otra realidad (SR, `18_capitolo_undicesimo.md`, §61-78).
+
+**El deseo de justicia y la esperanza.** La exigencia de justicia se inserta en la trama de exigencias últimas (verdad, justicia, felicidad y amor) que constituyen la estructura del sentido religioso; reducirlas a dimensiones puramente inmanentes es uno de los «apaños» irracionales que vacían la pregunta de fondo y a la larga la anarquía y la arbitrariedad (SR, `18_capitolo_undicesimo.md`, §25-45; `14_capitolo_settimo.md`, §73-88).
 
 ## Relaciones doctrinales
 

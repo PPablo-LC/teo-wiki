@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Humildad
 tags: ["moral", "ascética"]
 
-timestamp: 2026-09-08
-description: "La humildad es la virtud fundamental que cohibe el apetito desordenado de excelencia, testimoniada en el deporte como reconocimiento de límites y servicio al juego."
+timestamp: 2026-09-12
+description: "La humildad es la virtud fundamental que cohibe el apetito desordenado de excelencia; hacerse como niños ante la realidad y ante el Misterio según Giussani."
 ---
 # Humildad
 
 > Área: Moral / Ascética
-> Última actualización: 2026-09-08
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -184,6 +184,12 @@ La humildad aparece así como la virtud que hace posible la metanoia y la [[vía
 **La humildad en la vía purgativa deportiva (23_soul.md):** Fr. Stephen Gadberry sitúa la humildad como «de mayor importancia» en la vía purgativa: «entenderlo de forma más simple es darse cuenta de que tu vida no se trata de ti». Aprender las reglas del juego —que inicialmente «parece algo que nos esclaviza, cuando en realidad es lo que realmente nos libera»— exige la humildad de reconocer que uno no es el centro, que hay límites y leyes que trascienden el propio querer.
 
 **El narrador humilde (11_minds.md):** El tributo a Vin Scully destaca su humildad como narrador: «Scully nunca se ponía a sí mismo por delante de la historia. Su voz servía al juego, no a su ego». Su fe católica y su arte de contar historias se entrelazaban en una humildad que le permitía desaparecer detrás de la narración, dejando que el béisbol hablara por sí mismo. «Su grandeza estaba en su pequeñez: se hacía pequeño para que el juego fuera grande».
+
+### Según Il senso religioso (SR)
+
+**Hacerse como niños (cap. III).** Giussani lee «si no os hacéis como niños» (Mt 18,3) como condición del conocer: la humildad es la apertura de quien acepta dejarse enseñar por la realidad, frente a quien cree poseerla ya. El ejemplo de la niña y otras figuras muestran que la conciencia de los propios límites dispone a la mirada verdadera (SR, `10_capitolo_terzo.md`, §45-55).
+
+**La humildad ante el Misterio (cap. XIV).** La posición del hombre ante el Misterio es «vertiginosa»: postrado como esclavo a la mirada del Señor (Sal 123,2). Reconocer la propia pequeñez —frente a los *idólatras* que pretenden capturar a Dios— es la raíz de la sabiduría (SR, `21_capitolo_quattordicesimo.md`, §46-58, 101-115).
 
 ## Ver también
 [[soberbia]], [[don_de_temor]], [[mansedumbre]], [[virgen_maría]], [[perfección_cristiana]], [[virtud_de_la_religión]], [[modestia]], [[magnanimidad]], [[humor]], [[san_felipe_neri]], [[g_k_chesterton]]

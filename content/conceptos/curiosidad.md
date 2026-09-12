@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Curiosidad
 tags: ["moral", "ascética"]
 
-timestamp: 2026-06-11
-description: "La curiosidad es, en teología moral, el vicio opuesto a la virtud de la estudiosidad."
+timestamp: 2026-09-12
+description: "La curiosidad es, en teología moral, el vicio opuesto a la virtud de la estudiosidad; actitud de domanda y apertura al ser según Giussani."
 ---
 # Curiosidad
 
 > Área: Moral / Ascética
-> Última actualización: 2026-06-11
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -44,6 +44,13 @@ El presenciar espectáculos viciosos hace propenso a la lascivia o la crueldad. 
 
 La curiosidad es pecado venial por su género, pero puede llegar a ser mortal por la materia o por el fin.
 
+### Según Il senso religioso (SR)
+
+**La «attitudine di domanda» (cap. XIII).** Giussani presenta la curiosidad —la «simpatía con el ser»— como actitud original del conocer: «la posición original es la attesa come domanda». El sentido religioso es una curiosidad que no encuentra reposo hasta la respuesta última; reducirlo o negarlo es traicionar esta estructura del conocimiento (SR, `20_capitolo_tredicesimo.md`, §31-40).
+
+**Contra el prejuicio que mata la curiosidad (cap. IX).** La ideología y el prejuicio matan la curiosidad al reducir la realidad a esquema impuesto: el hombre que «cree que ya sabe» no pregunta, y quien no pregunta no conoce. La curiosidad genuina es la humilde apertura al ser (SR, `16_capitolo_nono.md`, §13-38).
+
+**El positivismo como antítesis de la curiosidad (cap. VI).** La mentalidad positivista «bloquea lo humano»: al limitar el conocimiento a lo verificable, sofoca la pregunta por el Misterio que define al hombre —la curiosidad última no puede ser cancelada sin mutilar la razón (SR, `13_capitolo_sesto.md`, §81-100).
 
 ## Distinciones importantes
 

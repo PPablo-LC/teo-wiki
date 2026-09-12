@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Corazón
 tags: ["dogmática", "ascética", "mística"]
 
-timestamp: 2026-06-10
-description: "El corazón es el centro de la persona humana, el lugar de las decisiones, de la verdad, del encuentro y de la Alianza, que solo puede ser sondeado y conocido por el Espíritu de Dios."
+timestamp: 2026-09-12
+description: "El corazón es el centro de la persona humana, el lugar de las decisiones, de la verdad, del encuentro y de la Alianza, que solo puede ser sondeado y conocido por el Espíritu de Dios; centro de las exigencias elementales según Giussani."
 ---
 # Corazón
 
 > Área: Dogmática / Ascética / Mística
-> Última actualización: 2026-06-10
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -44,6 +44,14 @@ El Corazón del Verbo encarnado es signo y símbolo del triple amor con que ama 
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 El corazón en la Biblia no se limita a los afectos: designa lo más íntimo del hombre, donde residen pensamientos, recuerdos, proyectos y la conciencia misma [VocTeoBib, «Corazón»]. Dios mira al corazón, no a las apariencias (1Sa 16,7), y desenmascara la doblez del culto meramente exterior (Is 29,13). Israel comprendió que debía «buscar a Dios con todo el corazón» (Dt 4,29), pero su historia demostró su impotencia radical —corazón rebelde, incircunciso, de doblez— hasta que Dios prometió «dar un corazón nuevo» y «escribir su ley en el corazón» (Jer 31,33; Ez 36,26s). Esta promesa se cumple en Jesucristo, que confiere la pureza de corazón (Mt 5,8) y, resucitado, hace arder el corazón de los discípulos (Lc 24,32). Por la fe habita Cristo en los corazones (Ef 3,17), y el Espíritu del Hijo clama «Abba, Padre» (Gal 4,6).
+
+### Según Il senso religioso (SR)
+
+**El corazón bíblico (cap. I).** Giussani fundamenta la primera premisa (realismo) en la noción bíblica de corazón: el corazón es el centro de toda la corporalidad y espiritualidad del hombre, el lugar de la unidad del yo donde las exigencias elementales —verdad, justicia, felicidad— emergen como la «estructura» de la persona. Quien atiende al corazón no impone esquemas, sino que se deja interpelar por lo que el real despierta en él (SR, `08_capitolo_primo.md`, §25-33, 34-41).
+
+**Las exigencias del corazón como medida.** Las exigencias del corazón son universales y definen al hombre: son la medida de todo juicio, el "último tribunal" del que no se puede escapar — aunque su absolutización sin referencia a Dios es el riesgo de la anarquía (SR, `08_capitolo_primo.md`, §34-41).
+
+**Limpieza de corazón y conocimiento.** La disposición moral es condición del conocer: la limpieza de corazón (Mt 5,8) dispone a la verdad; el desorden afectivo la oscurece. El corazón limpio es la condición para que la razón reconozca la verdad (SR, `08_capitolo_primo.md`, §64-75; `10_capitolo_terzo.md`, §23-44).
 
 ## Distinciones importantes
 

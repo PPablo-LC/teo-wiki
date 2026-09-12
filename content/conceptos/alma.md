@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Alma
 tags: ["antropología_teológica"]
 
-timestamp: 2026-09-07
-description: "El alma es el principio espiritual e inmortal en el hombre, creado directamente por Dios, que informa el cuerpo como su forma substancial y constituye con él una única naturaleza humana."
+timestamp: 2026-09-12
+description: "El alma es el principio espiritual e inmortal en el hombre, creado directamente por Dios, que informa el cuerpo como su forma substancial y constituye con él una única naturaleza humana; 'anima est quodammodo omnia' según Giussani."
 ---
 # Alma
 
 > Área: Antropología teológica
-> Última actualización: 2026-09-07
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -97,6 +97,14 @@ El **V Concilio de Letrán** (1513), Bula *Apostolici regiminis* (Sesión VIII):
 **El alma creada directamente por Dios (Vukov).** La tradición enseña que el alma humana «es creada directamente por Dios, no por un ingeniero del MIT». Estamos creados a la *imago Dei*, «no según una caricatura del hombre»; somos «inmortales—verdaderamente inmortales—» y nuestra existencia no se ve amenazada por un corte de luz o un servidor que falla [EAC-19, 16_feature_vukov.md, L51]. «ChatGPT, después de todo, no tiene alma», y entender la humanidad como unidad de alma y cuerpo hace imposible confundir a la IA con un ser humano [EAC-19, 16_feature_vukov.md, L47-49].
 
 **Los falsos profetas atacan el alma racional (Jendro).** Jesús advirtió que debemos «guardarnos de los falsos profetas, que vienen a nosotros disfrazados de ovejas, pero por dentro son lobos rapaces» (Mt 7,15). El discurso suave, la retórica persuasiva y las falsas aseveraciones «atacan el corazón mismo de nuestra humanidad—el alma racional—» [EAC-19, 05_lives.md, L7].
+
+### Según Il senso religioso (SR)
+
+**«Anima est quodammodo omnia» (cap. IV).** Giussani fundamenta la apertura del alma en la tradición aristotélico-tomista: el alma es «en cierto modo todas las cosas» (STh I q.14 a.1; Aristóteles, *De anima* III). Esta tesis expresa la estructura espiritual del conocer: el hombre, en cuanto espíritu, es capaz de abrirse a la totalidad de lo real. El alma no es una parte cerrada sino apertura al ser: por eso el significado de la existencia excede la materia (SR, `11_capitolo_quarto.md`, §41-55).
+
+**Materia y espíritu (cap. IV).** El problema del significado de la vida no se resuelve en términos materiales: el hombre, por su alma espiritual, es «toda la piedra, toda la vida, toda la conciencia», y la reducción al dato material no explica la conciencia. La inmortalidad es intuida por la conciencia como exigencia de indiscutibilidad, apoyada en el Sal 16,9-10: «por eso está alegre mi corazón… mi carne descansará segura» (SR, `11_capitolo_quarto.md`, §56-85).
+
+**La creación inmediata del alma (cap. VIII).** Frente a los «atteggiamenti irragionevoli» que reducen la pregunta de fondo, Giussani recuerda la doctrina de la creación inmediata del alma por Dios (Catecismo de san Pío X; Pío XII, *Humani generis*, 1950): el fundamento de la dignidad y de la libertad religiosa es que el hombre no se fabrica a sí mismo, sino que es sostenido por Otro (SR, `15_capitolo_ottavo.md`, §89-100).
 
 ## Relaciones doctrinales
 

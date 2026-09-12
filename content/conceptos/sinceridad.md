@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Sinceridad
 tags: ["moral"]
 
-timestamp: 2026-05-26
-description: "La sinceridad es la virtud moral que dispone a manifestar exteriormente lo que se piensa y siente interiormente, sin engaño ni ficción."
+timestamp: 2026-09-12
+description: "La sinceridad es la virtud moral que dispone a manifestar exteriormente lo que se piensa y siente interiormente; condición del conocer según Giussani."
 ---
 # Sinceridad
 
 > Área: Moral
-> Última actualización: 2026-05-26
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -30,6 +30,14 @@ La sinceridad es la virtud aneja a la verdad, que incluye la veracidad en el hab
 ### Según Mons. Tihámer Tóth (JvC)
 
 Sé sincero no solo con los demás, sino contigo mismo. «Habla reiteradamente contigo mismo en el silencio para que así llegues a conocerte cada vez mejor. Y, sobre todo, sé sincero con Dios. Dios es la verdad eterna y todo lo ve. No puedes engañarle» [JvC, Cap. III]. JvC advierte contra el autoengaño: no se trata de excusar la propia pereza o cobardía con pretextos, sino de reconocer con honestidad los propios motivos.
+
+### Según Il senso religioso (SR)
+
+**La sinceridad como condición del conocer (cap. III).** Giussani fundamenta la sinceridad como premisa moral del conocimiento: «sea vuestro lenguaje: sí sí, no no» (Mt 5,37). La doblez y la mentira interior corrompen la capacidad de conocer la verdad, pues el que no es sincero consigo mismo no puede ser veraz con la realidad (SR, `10_capitolo_terzo.md`, §56-69).
+
+**Sinceridad y prejuicio (cap. I, III).** La sinceridad es el opuesto del prejuicio: quien no quiere abandonar sus juicios previos ni examinar los motivos de sus convicciones no puede verificar nada. La verificación exige una actitud sinceramente dispuesta a aceptar la realidad tal como se presenta (SR, `08_capitolo_primo.md`, §64-75; `10_capitolo_terzo.md`, §70-80).
+
+**La sinceridad en la relación con Dios (cap. II).** La fe razonable se apoya en la sinceridad: creer en otro con motivos adecuados exige no engañarse acerca del motivo. En el orden religioso, la sinceridad del corazón dispone al hombre a reconocer la llamada divina («abbi guadagnato il mondo, perdi la tua anima», Mt 16,26) (SR, `09_capitolo_secondo.md`, §27-35, 36-44).
 
 ## Relaciones doctrinales
 

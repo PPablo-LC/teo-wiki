@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Encarnación
 tags: ["cristología"]
 
-timestamp: 2026-09-02
+timestamp: 2026-09-12
 description: "La Encarnación es el misterio de la admirable unión de la naturaleza divina y de la naturaleza humana en la única Persona del Verbo (CEC §483)."
 ---
 # Encarnación
 
 > Área: Cristología
-> Última actualización: 2026-09-02
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -176,6 +176,12 @@ Robert Mixa, reseñando *On the Internet* de Hubert Dreyfus, muestra que la crí
 **El intercambio inaudito en la cruz (Julia Hejduk, 17_feature_hejduk.md).** Como los Padres, Hejduk subraya el «intercambio inaudito» de la Encarnación: «Dios entró en la carne», asumiendo lo creado para elevarlo. La cruz, «la obra maestra consumada del drama de la redención», vence «incluso al mal más atroz». La Encarnación y la Redención son la raíz de la catolicidad: el cristiano está llamado a reconciliar todo —los clásicos, la sexualidad, la cultura— con Dios mediante esta lógica encarnacional.
 
 **La Encarnación y la unidad de la verdad (Andrew Youngblood, 20_spotlight_youngblood.md).** Toda la realidad, porque fue creada en Cristo y tiende a Él, comparte la unidad de la verdad, la bondad y la belleza. La educación clásica católica se apoya en este principio encarnacional: aprender a pensar con la mente de Cristo, que se encarnó para asumir y elevar todo lo humano, es el núcleo de la *metamorphosis intellectualis* cristiana.
+
+### Según Il senso religioso (SR)
+
+**La Encarnación como hipótesis que se verifica (cap. XV).** Giussani aborda la Encarnación dentro de la «hipótesis de la revelación»: la fe propone que Dios entra en la historia «como un amigo». El misterio se hace cercano en la Persona de Cristo —sin dejar de ser misterio— cumpliendo las condiciones de aceptabilidad de la revelación (SR, `22_capitolo_quindicesimo.md`, §31-40, 51-77).
+
+**De la razón al acontecimiento (cap. XIV).** La «energía de la razón» hacia el ignoto culmina en la posibilidad de la Encarnación: frente a los ídolos fabricados por el hombre (becerro de oro, Es 32), el Misterio inocente divino se ofrece como hipótesis razonable y comprensible (SR, `21_capitolo_quattordicesimo.md`, §59-70, 101-115).
 
 ## Distinciones importantes
 

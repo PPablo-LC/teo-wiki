@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Misterio
 tags: ["teología_bíblica", "dogmática"]
 
-timestamp: 2026-06-19
-description: "El término «misterio» (*mysterion*) designa en la Escritura el secreto designio de salvación que Dios realiza en la historia."
+timestamp: 2026-09-12
+description: "El término «misterio» (*mysterion*) designa en la Escritura el secreto designio de salvación que Dios realiza en la historia; vértice de la razón y apertura infinita según Giussani."
 ---
 # Misterio
 
 > Área: Teología Bíblica / Dogmática
-> Última actualización: 2026-06-19
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -28,6 +28,16 @@ El VocTeoBib expone el misterio en tres secciones. La **enseñanza de Jesús** s
 La **enseñanza de San Pablo** profundiza el misterio como el Evangelio mismo: la realización de la salvación por la muerte y resurrección de Cristo. En las primeras epístolas, el misterio de Dios es Jesús crucificado (1Cor 2,1-2), sabiduría divina oculta (1Cor 2,7-8), revelada por el Espíritu (1Cor 2,10-15). Pablo es «dispensador de los misterios de Dios» (1Cor 4,1). El misterio se despliega en lucha con el «misterio de iniquidad» (2Tes 2,7); el endurecimiento de Israel es parte del misterio (Rom 11,25). Al final, Cristo triunfa (1Cor 15,51ss). En las epístolas de la cautividad, el «misterio de Cristo» (Col 4,3; Ef 3,4) consiste en reducir todas las cosas bajo Cristo (Ef 1,9s), incorporando a judíos y gentiles en un mismo cuerpo (Ef 3,6). El matrimonio es símbolo de este misterio (Ef 5,32). Cristo es el primogénito de toda criatura (Col 1,15ss); en Él todo es reconciliado (Col 1,20).
 
 El **Apocalipsis de San Juan** presenta el misterio de iniquidad en Babilonia (Ap 17,5). Con la trompeta del séptimo ángel «se consumará el misterio de Dios» (Ap 10,7; 1Cor 15,20-28). La Iglesia vive entre los poderes divinos y diabólicos, esperando el día en que solo subsista el misterio de Dios en un universo renovado (Ap 21; 1Cor 15,28).
+
+### Según Il senso religioso (SR)
+
+Giussani identifica el misterio como «el descubrimiento más grande al que la razón puede llegar», no como límite sino como apertura de la razón (SR, caps. XI, XIV). El itinerario del sentido religioso conduce necesariamente a un «quid» último e incomprensible, estructura del real; negarlo es negar la razón misma (SR, `09_capitolo_secondo.md`, §64-77; `12_capitolo_quinto.md`, §96-111).
+
+**El misterio no es límite sino apertura.** Con Gabriel Marcel, Giussani afirma que «el misterio es clarificador de la razón», no un bloqueo: es apertura infinita e inexhaustible, término negativo al que la razón accede con palabras de negación (in-finito, in-menso, in-effabile, ignoto), porque todo término afirmativo sería definición del Todo — pretensión idolátrica (SR, `18_capitulo_undicesimo.md`, §131-211).
+
+**Misterio y salvación (cap. XII, XIV).** El misterio es el significado último de la existencia; sin él todo sentido colapsa: «Si Dios no existe, ¿soy todavía capitán?» (Dostoevskij, *Los demonios*) (SR, `18_capitulo_undicesimo.md`, §159-180). La salvación no puede ser producida por la propia energía — «sería como gritar para ser escuchado»— y solo puede venir de quien es fuente de la vida (SR, `22_capitulo_quindicesimo.md`).
+
+**Razón, moralidad y misterio.** La apertura al misterio exige disposición moral: sin limpieza de corazón no se reconoce la verdad que el misterio deja entrever. El orden afectivo desordenado es raíz del prejuicio que cierra la razón al misterio (SR, caps. I, III).
 
 ## Distinciones importantes
 

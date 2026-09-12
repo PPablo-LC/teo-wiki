@@ -3,7 +3,7 @@ type: Concepto Teológico
 title: Razón
 tags: ["dogmática", "filosofía"]
 
-timestamp: 2026-06-20
+timestamp: 2026-09-12
 description: "La razón (del latín *ratio*) es la facultad del hombre por la que conoce lo verdadero, discierne el bien del mal, y se eleva al conocimiento de Dios y de las realidades sobrenaturales."
 ---
 # Razón
@@ -71,6 +71,18 @@ La razón es participante de la ley eterna en cuanto puede ordenar los actos hac
 **La influencia de Guardini en Ratzinger (Millare).** Millare identifica paralelismos notables entre Guardini y Benedicto XVI: ambos escribieron una tesis doctoral sobre san Buenaventura, ambos escribieron libros sobre la liturgia con el mismo título, ambos escribieron textos de eclesiología centrados en la comunión y reflexiones teológicas sobre Jesús [EAC-16, 08_minds.md]. La primacía del logos — la razón como fundamento del obrar — es «una clave importante para desbloquear la sinfonía teológica de Benedicto».
 
 **Fe no aislada y testimonio de los santos.** Ratzinger, siguiendo a Guardini, afirma que la fe no es un acto aislado: «No puedo construir mi propia fe personal en un diálogo privado con Jesús» [EAC-16, 08_minds.md]. «Nuestra mayor necesidad en el momento histórico presente es gente que haga creíble a Dios en este mundo mediante la fe iluminada que vive». La razón iluminada por la fe se encarna en el testimonio de los santos.
+
+### Según Il senso religioso (SR)
+
+Giussani parte de una crítica de la mentalidad moderna: «la mentalidad moderna reduce la razón a una serie de categorías en las que la realidad es forzada a entrar: lo que no entra en estas categorías es definido como irracional». La razón, al contrario, «es como un ojo abierto de par en par sobre la realidad», que lo recibe todo y capta «los nudos y las implicaciones»; la razón es lo que nos define como personas (SR, `05_prefazione.md`).
+
+**Razón y totalidad de los factores.** La razón es, ante todo, «la capacidad de darse cuenta de la realidad según la totalidad de sus factores». Razonable es lo que se adecúa al objeto atendiendo a todos sus factores, no a uno solo (SR, cap. II).
+
+**El vértice de la razón: el misterio.** La razón es exigencia de comprender la existencia, de explicación total. Por su propia naturaleza, constatada la insuficiencia de la experiencia, la razón se ve forzada a admitir la existencia de un incomprensible: «el misterio no es un límite de la razón, sino el descubrimiento más grande al que la razón puede llegar: la existencia de algo inconmensurable consigo misma». El misterio es «un varco sul reale»: la razón no es el ámbito del real sino un paso abierto al real, que por naturaleza desborda (SR, caps. XI, XIV).
+
+**La impaciencia de la razón y la ideología.** Existencialmente, la razón «no aguanta» su apertura al misterio y cae: pretende definir el significado total, elevando un particular a la totalidad («pretender la totalidad para un particular»). Pretender definir el significado de todo «equivale a pretender ser Dios». Esta es la raíz de la idolatría y de la ideología (SR, cap. XIV).
+
+**Razón y salvación.** Concluye citando la STh I q.1 a.1: la verdad sobre Dios investigada con la sola razón llega a pocos, tras largo tiempo y con mezcla de error; de ahí la necesidad de la revelación, a la que la razón queda abierta (SR, cap. XIV).
 
 ## Relaciones doctrinales
 

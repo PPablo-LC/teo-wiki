@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Esperanza
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-09-08
-description: "La esperanza es la virtud teologal que espera de Dios la vida eterna, testimoniada en el deporte como ancla en el sufrimiento y confianza en la providencia más allá del resultado."
+timestamp: 2026-09-12
+description: "La esperanza es la virtud teologal que espera de Dios la vida eterna; la vida como promesa que remite al Misterio según Giussani."
 ---
 # Esperanza
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-09-08
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -171,6 +171,14 @@ El número 6 de *Evangelization & Culture* está enteramente dedicado a la esper
 **La fe como ancla de esperanza de Mike Piazza (20_special_feature_piazza.md):** Tod Worner narra cómo la Misa diaria y el Rosario fueron la «ancla de esperanza» de Piazza durante lesiones, slumps y dudas. La esperanza no era optimismo deportivo («vamos a ganar»), sino confianza teologal: «la fe me dio la fuerza para seguir cuando el cuerpo quería rendirse». La carrera de Piazza —draft en la ronda 62, convertido en leyenda— es parábola de la esperanza cristiana: Dios escribe recto con líneas torcidas.
 
 **La esperanza como entrega vocacional (21_spotlight_masters.md):** Fr. Burke Masters describe su transición de aspirante a ejecutivo de Grandes Ligas a sacerdote como un acto de esperanza: «la batalla continúa». La Adoración eucarística fue el espacio donde la esperanza se hizo concreta: no saber el futuro, pero confiar en quien lo tiene. El deporte enseña que «no ha terminado hasta que termina» (Yogi Berra), y la esperanza cristiana lleva esa verdad a la eternidad.
+
+### Según Il senso religioso (SR)
+
+**La vida como promesa (cap. V).** Giussani, recogiendo la expresión de Cesare Pavese —«la vita promette»—, describe la esperanza como la estructura profunda de la conciencia: la vida se presenta como promesa de plenitud. Esperar es la postura de quien se fía de esa promesa inscrita en la realidad (SR, `12_capitolo_quinto.md`, §81-95).
+
+**Esperanza impotente y desesperación (cap. VII).** La «esperanza sin fundamento» es una de las reducciones irracionales de la pregunta: esperar solo de las propias fuerzas o de la historia sin referencia al Misterio queda impotente. La esperanza auténtica, en cambio, se fundamenta en la coincidencia entre la exigencia del corazón y el Misterio que la sostiene (SR, `14_capitolo_settimo.md`, §61-72).
+
+**Esperanza y signo (cap. XI).** El carácter «esigerencial» de la vida —la exigencia de justicia, de felicidad y de amor— es la esperanza elemental del hombre: no puede prescindir de la respuesta última sin traicionar su propia naturaleza (SR, `18_capitolo_undicesimo.md`, §25-45).
 
 ## Relaciones doctrinales
 

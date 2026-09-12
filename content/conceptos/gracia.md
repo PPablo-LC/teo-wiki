@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Gracia
 tags: ["dogmática"]
 
-timestamp: 2026-09-05
-description: "Don gratuito que Dios nos da para responder a su llamada: llegar a ser hijos de Dios, partícipes de la naturaleza divina y de la vida eterna."
+timestamp: 2026-09-12
+description: "Don gratuito que Dios nos da para responder a su llamada: llegar a ser hijos de Dios, partícipes de la naturaleza divina y de la vida eterna; el creer mismo es ya obra de la gracia."
 ---
 # Gracia
 
 > Área: Dogmática
-> Última actualización: 2026-09-05
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -130,6 +130,12 @@ La historia de María Magdalena ilustra la doctrina central del fascículo: la [
 Francis Beckwith confirma el primado de la gracia desde su experiencia de [[reversión]]: «la gracia te traerá de regreso» — Dios no abandona al pecador, sino que lo busca y obra en él aun cuando este se ha alejado [EAC-18, 15_feature_beckwith.md].
 
 Robert Barron subraya que la gracia es causa de la vida nueva y no su consecuencia: precede al [[bautismo]], a la fe y a toda obra buena, y su recepción exige la humildad que desarma al [[verdadero_y_falso_yo]] [EAC-18, 18_spotlight_barron.md]. Cuando la gracia es acogida, el hombre entra en la [[divinización]] y en la unión transformante con Dios; cuando es rechazada por la [[soberbia]], se cierra el paso a la salvación [EAC-18, 18, 21].
+
+### Según Il senso religioso (SR)
+
+**La gracia y el creer (cap. II).** Giussani recuerda la doctrina del Concilio de Orange (529, can. 5-7, Denzinger nn. 375-378): creer es ya obra de la gracia. El asentimiento de fe, aun siendo razonable, no es fruto de las solas fuerzas: «la fe como acto razonable» se da bajo la moción divina, que precede e ilumina el conocimiento (SR, `09_capitolo_secondo.md`, §36-44).
+
+**La gracia en el camino de la verificación (cap. I).** En el método «deja de lado prejuicios y verifica», la gracia acompaña el esfuerzo de sinceridad: el amor a la verdad y la limpieza del corazón —sostenidos por la gracia— son condición de un conocer trasparente (SR, `08_capitolo_primo.md`, §53-75).
 
 ## Distinciones importantes
 

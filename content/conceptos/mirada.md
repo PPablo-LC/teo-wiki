@@ -1,15 +1,15 @@
 ---
 type: Concepto Teológico
 title: "Mirada"
-description: "La mirada como umbral de la verdad interior en la Teología del Cuerpo: el acto cognoscitivo fijado en la mirada revela el corazón del hombre y se convierte en ámbito de lucha entre la concupiscencia y la pureza."
-tags: ["teología_del_cuerpo", "moral"]
-timestamp: 2026-09-03
+description: "La mirada como umbral de la verdad interior: el acto cognoscitivo fijado en la mirada revela el corazón del hombre; el estupor ante la presencia según Giussani."
+tags: ["teología_del_cuerpo", "moral", "teología_fundamental"]
+timestamp: 2026-09-12
 ---
 
 # Mirada
 
 > Área: Teología del cuerpo / Moral
-> Última actualización: 2026-09-03
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -46,6 +46,14 @@ Veritatis Splendor amplía la dimensión de la mirada a la relación con Dios: a
 ### Según la Teología de la Perfección Cristiana (TPCr)
 
 Royo Marín distingue las «miradas peligrosas» (que provocan la tentación) de las «miradas pecaminosas» (que consentidas constituyen pecado venial o mortal según la intensidad y el objeto). La dirección espiritual aconseja la vigilancia de la mirada como medio ascético fundamental, sin caer en el escrúpulo.
+
+### Según Il senso religioso (SR)
+
+**La mirada como condición del conocer (cap. III).** Giussani sitúa el modo de mirar en el origen del conocimiento: el mismo objeto se ve según la disposición interior del sujeto. La pasión previa o la indiferencia deforman la visión; la limpieza de corazón dispone a la verdad. El «cristalino del yo» —la afectividad ordenada— es la condición de una mirada transparente (SR, `10_capitolo_terzo.md`, §11-35).
+
+**La mirada y la moralidad en la razón (cap. I, IV).** «El sentimiento es el cristalino del yo»: si el yo está desordenado, la mirada intelectual se oscurece. Giussani conecta así la mirada con la ascesis del conocimiento: hacerse transparentes a la realidad y mirarla con atención plena (SR, `08_capitolo_primo.md`, §109-141; `11_capitolo_quarto.md`, §1-25).
+
+**El estupor ante la presencia (cap. X).** La mirada asombrada ante lo real —el estupor— es el punto de partida del itinerario religioso: ver la presencia como dato y como don es la mirada que conduce a la pregunta última (SR, `17_capitolo_decimo.md`, §1-20, 21-32).
 
 ## Distinciones importantes
 

@@ -3,14 +3,14 @@ type: Concepto Teológico
 title: Oración
 tags: ["ascética", "mística"]
 
-timestamp: 2026-07-13
-description: "La oración es la elevación de la mente a Dios para alabarle y pedirle cosas convenientes a la eterna salvación (Santo Tomás, recogiendo las definiciones de San Juan Damasceno)."
+timestamp: 2026-09-12
+description: "La oración es la elevación de la mente a Dios para alabarle y pedirle cosas convenientes a la eterna salvación (Santo Tomás, recogiendo las definiciones de San Juan Damasceno); conciencia de sí hasta el fondo que se topa con un Otro según Giussani."
 ---
 
 # Oración
 
 > Área: Ascética / Mística
-> Última actualización: 2026-07-13
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -220,6 +220,14 @@ El *Salterio de mis Días* (manual de oración del Regnum Christi) describe la o
 La evangelización digital exige una vida interior sólida. «El mayor peligro para los evangelizadores online es el cinismo» —los que se desaniman ante la falta de respuestas o los ataques de los críticos. La solución es desarrollar una «profunda vida de oración afectiva que anude constantemente la voluntad a la de Cristo» y mantenerse ligado a la identidad de «hijo amado de Dios», de modo que la resistencia no desvíe de la misión [EAC-3, 15_vogt_media_evangelist].
 
 James K. Lee propone tres sugerencias augustinas para la era digital: (1) orar tanto o más de lo que se pasa en redes sociales; (2) ser social y comunitario de manera concreta; (3) participar frecuentemente en la vida sacramental [EAC-3, 17_lee_self_love]. Oliver Jeges, en su testimonio de conversión, destaca que la oración —aunque sea infantil— es buena para el alma y que las respuestas llegan de maneras inesperadas [EAC-3, 19_mission_oliver_jeges].
+
+### Según Il senso religioso (SR)
+
+**La oración como educación de la libertad (cap. VIII).** Frente a los «atteggiamenti irragionevoli» que reducen la pregunta de fondo, Giussani presenta la oración no como alienación sino como ejercicio de la libertad ante el Misterio: la adhesión de la libertad al fundamento del real es el gesto en que el hombre se realiza como fin último (SR, `15_capitolo_ottavo.md`, §76-88).
+
+**La oración como conciencia de sí (cap. X).** «La oración es la conciencia de sí hasta el fondo que se topa con un Otro»: para Giussani, la oración expresa la conciencia del yo dependiente —el yo que no se hace a sí mismo— y la referencia a quien presencia y sostiene el real (SR, `17_capitolo_decimo.md`, §86-95).
+
+**La oración como espera atenta (cap. XIV).** Citando el Sal 123,2 («como los ojos de la sierva en las manos de su señora, así nuestros ojos en el Señor nuestro Dios»), describe la vida del hombre que ora como suspección al cenno del Señor: la posición de quien espera la palabra del Otro, en sintonía con la impaciencia de la razón que busca el significado último (SR, `21_capitolo_quattordicesimo.md`, §46-58).
 
 ## Referencias
 

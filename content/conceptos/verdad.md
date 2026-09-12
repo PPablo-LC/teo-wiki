@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Verdad
 tags: ["filosofía", "doctrina_social", "moral"]
 
-timestamp: 2026-09-07
-description: "La verdad es uno de los valores fundamentales de la vida social, inherente a la dignidad de la persona humana."
+timestamp: 2026-09-12
+description: "La verdad es uno de los valores fundamentales de la vida social, inherente a la dignidad de la persona humana; exigencia última del corazón y adecuación del entendimiento según Giussani."
 ---
 # Verdad
 
 > Área: Filosofía / Doctrina Social / Moral
-> Última actualización: 2026-09-07
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -119,9 +119,19 @@ En *Jesús de Nazaret III*, Benedicto XVI aborda la verdad desde la pregunta de 
 
 **La máquina no puede descubrir la verdad filosófica (Dietrich von Hildebrand).** Von Hildebrand insiste en que una computadora, «que puede realizar ciertas tareas de manera más fiable y rápida que el hombre, de ningún modo disminuye la diferencia esencial entre una máquina y el intelecto humano» [EAC-19, 11_minds, L113]. La máquina es fruto del intelecto humano, «pero sería absolutamente ridículo e idiota creer que una máquina pudiera alguna vez encontrar una verdad filosófica, tal como el descubrimiento del conocimiento a priori en el Menón de Platón, o una teoría científica como la de Einstein» [L113]. Debe captarse «el abismo que separa las realizaciones de las máquinas y un verdadero insight o descubrimiento intelectual» —y por eso mismo «sería un contrasentido esperar cualquier actividad artística de una máquina» [L113]. Solo captando «la incomparable superioridad de todas estas realizaciones, que por su naturaleza son inaccesibles a toda máquina», se puede proteger al hombre de hacer de la tecnología la *causa exemplaris* de la vida humana [L113].
 
+### Según Il senso religioso (SR)
+
+Giussani parte de la definición clásica: «*veritas consistit in adaequatione intellectus et rei*» (Santo Tomás, STh I q.21 a.2) —la verdad es la adecuación del entendimiento con la cosa—, subrayando que el conocimiento de la realidad tiene un valor objetivamente estable y que el punto de partida no es una teoría abstracta sino el «yo» en acto (SR, `11_capitolo_quarto.md`, §1-10).
+
+**La exigencia de verdad.** La verdad es una exigencia última del hombre: «*Quid enim fortius desiderat anima quam veritatem?*» (san Agustín, *In Io.* 26,5). El deseo de verdad es la estructura de la vida humana; reducirlo o relativizarlo es uno de los «apaños» irracionales que vacían la pregunta de fondo (SR, `18_capitolo_undicesimo.md`, §46-60). La verdad, como exigencia, se inserta en el «carácter esigenziale» de la vida: verdad, justicia, felicidad y amor son las exigencias que constituyen al hombre.
+
+**La verdad os hará libres.** Citando Gv 8,32, Giussani distingue entre la libertad como capacidad del fin último —que se adhiere a la verdad del Misterio— y la libertad degradada a pura satisfacción, consecuencia de la reducción de la pregunta de fondo. La verdad es condición de la verdadera libertad: «la libertad verdadera = capacidad del compimento último» (SR, `15_capitolo_ottavo.md`, §46-60).
+
+**Verdad y moralidad del conocer.** La verdad se reconoce solo con una disposición moral correcta: el desorden afectivo y el prejuicio oscurecen el conocimiento, mientras la limpieza de corazón y la pobreza de espíritu (Mt 5,3) disponen a la verdad (SR, caps. I, III).
+
 ## Relaciones doctrinales
 
-Se relaciona con [[libertad_humana]], [[justicia]], [[caridad]], [[conciencia_moral]], [[ley_natural]]
+Se relaciona con [[libertad_humana]], [[justicia]], [[caridad]], [[conciencia_moral]], [[ley_natural]], [[libertad]], [[entendimiento]] y la exigencia de verdad como estructura de la vida humana en SR.
 
 ### Según Evangelization ### Según Evangelization & Culture (EAC-3) Culture n.º 3 «The Digital Age» (EAC-3)
 

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Soledad
 tags: ["ascética", "mística"]
 
-timestamp: 2026-08-24
-description: "La soledad es la condición de quien permanece apartado de la compañía humana."
+timestamp: 2026-09-12
+description: "La soledad es la condición de quien permanece apartado de la compañía humana; lugar de la pregunta por el sentido y apertura al Tú absoluto según Giussani."
 ---
 # Soledad
 
 > Área: Ascética / Mística
-> Última actualización: 2026-08-24
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -42,6 +42,14 @@ La soledad es condición necesaria para el trato íntimo con Dios. En la vía un
 ### Según Evangelization & Culture n.º 3 «The Digital Age» (EAC-3)
 
 Fr. Blake Britton describe una epidemia de soledad en la era digital: aunque cada generación anhela comunidad, «el anhelo es particularmente fuerte entre los millennials», y por una razón simple: la tecnología. El 22 % de los millennials estadounidenses dice no tener amigos y el 30 % reporta soledad constante o frecuente; el uso creciente del smartphone ha producido torpeza e incomodidad en los encuentros sociales reales. La soledad digital tiene además una raíz espiritual que Elizabeth Scalia precisa: quien busca en los «me gusta» un sustituto del amor descubre, cuando ese flujo se corta, que se sentía amado solo químicamente: «no solo me sentí atacada, o rodeada de lobos sedientos de sangre: me sentí no amada. Y cuando nos sentimos no amados, nos sentimos invisibles, no sostenidos, no aceptados y cortados. No solo de los demás, sino de Dios, quien es todo Amor y su misma Fuente y Ser». Esa experiencia, «aunque el sentimiento sea ilusorio, como suele serlo», revela que la soledad contemporánea no se cura con más conexión sino reencontrando al Amor en su fuente.
+
+### Según Il senso religioso (SR)
+
+**La soledad ante el misterio (cap. V).** Giussani recoge la intuición de Whitehead: la religión es «lo que el hombre hace con su soledad»; el sentido religioso se despierta en la conciencia solitaria del individuo enfrentado a la pregunta última. La soledad es el lugar natural de la pregunta por el sentido (SR, `12_capitolo_quinto.md`, §96-110).
+
+**La soledad como incomunicabilidad (cap. VIII).** La eliminación de la pregunta de fondo aísla al hombre: sin la referencia al Misterio, la soledad se vuelve incomunicabilidad (Solženicyn, Pavese) y la libertad pierde su capacidad de compimento. La soledad verdadera no es la ruptura sino la apertura al Tú absoluto (SR, `15_capitolo_ottavo.md`, §16-30).
+
+**La soledad del yo ante la fe (cap. II).** La adhesión razonable a la fe —como la del niño a sus padres— se adquiere también en la soledad del juicio personal: nadie puede creer por otro, y cada hombre debe alcanzar por sí mismo los motivos de credibilidad (SR, `09_capitolo_secondo.md`, §45-63).
 
 ## Distinciones importantes
 

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Educación
 tags: ["doctrina_social", "moral"]
 
-timestamp: 2026-09-02
-description: "Proceso de formación integral de la persona humana que desarrolla armónicamente sus dotes físicas, morales e intelectuales, capacitándola para conocer la verdad."
+timestamp: 2026-09-12
+description: "Proceso de formación integral de la persona humana que desarrolla armónicamente sus dotes físicas, morales e intelectuales; adecuación del hombre a la realidad según Giussani."
 ---
 # Educación
 
 > Área: Doctrina Social / Moral
-> Última actualización: 2026-09-02
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -74,6 +74,12 @@ Tóth enseña que la [[educación]] religiosa no puede ser meramente intelectual
 **La fascinación y la pedagogía del deseo (D.C. Schindler, 14_feature_schindler.md).** La educación auténtica cultiva la fascinación y el deseo, moviendo al estudiante del asombro inicial hacia la inteligencia teológica. La verdadera vida intelectual exige sobreponerse al olvido y al extravío del deseo: el maestro debe hacer presente la belleza de la verdad para despertar la búsqueda (fasis→filosofía) y ordenar el asombro hacia Dios.
 
 **Libertad ordenada y fin (Matthew Minnis, 19_special_feature_minnis.md).** La educación en la era moderna se ha desvinculado de su fin: la libertad se ha confundido con la elección autodeterminada (fin propio del sujeto) y se ha desvinculado de la naturaleza y de la verdad. La educación cristiana sitúa el fin en la libertad ordenada a Dios, no en el capricho del individuo.
+
+### Según Il senso religioso (SR)
+
+**La educación como adecuación a la realidad (cap. I).** Giussani define la educación —«che cosa è l'educazione»— como la adecuación del hombre a la realidad: educar los sentimientos y la mirada para que el yo sea trasparente a lo real, condición previa de todo conocer verdadero (SR, `08_capitolo_primo.md`, §94-108).
+
+**Educación de la libertad como responsabilidad (cap. XIII).** La libertad se educa como capacidad de «responder» (*respondeo*): la atención a la totalidad de los factores y la aceptación de la propuesta en su integridad son condiciones del conocimiento adulto. La educación del carácter comienza con la «attegliamento di domanda» y la curiosidad como simpatía con el ser (SR, `20_capitolo_tredicesimo.md`, §1-40). La comunidad educa a la libertad del individuo (SR, `20_capitolo_tredicesimo.md`, §81-93).
 
 ## Relaciones doctrinales
 

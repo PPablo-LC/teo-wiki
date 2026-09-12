@@ -6,11 +6,11 @@ tags:
   - teología_moral
   - beatitud
   - antropología
-timestamp: 2026-08-24
+timestamp: 2026-09-12
 ---
 
 > Área: Conceptos
-> Última actualización: 2026-08-24
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -43,6 +43,14 @@ El autor presenta la felicidad como:
 ### Según Evangelization & Culture n.º 3 «The Digital Age» (EAC-3)
 
 Matt Nelson toma el caso del youtuber PewDiePie (Kjellberg) —que borró su cuenta de Twitter por ser una «cloaca de opinión» donde hasta las mentiras son premiadas— para exponer la doctrina clásica sobre la felicidad. Kjellberg acierta en el diagnóstico: todos buscan la felicidad siempre y en todas partes, pero «la aprobación nos llega pasivamente, mientras que la felicidad verdadera solo puede obtenerse activamente —mediante la virtud». Aristóteles lo formula como *eudaimonía*: no un mero estado emocional placentero sino el florecimiento (*flourishing*) de todo el hombre, cuerpo y alma compuestos: «florecer es sobresalir en ser lo que uno es», y cada cosa florece actuando conforme a su naturaleza y su *telos*. Santo Tomás asume esta teoría pero no se detiene ahí: une la felicidad aristotélica con la teología católica. El hombre está hecho a imagen de Dios, hecho por Dios para Dios; su bien último —hacia el que tienden todas las virtudes— es Dios mismo, y «la comunión completa, perfecta e inmediata con Dios no puede alcanzarse en esta vida: esta vida es solo la antesala de la bienaventuranza eterna». El hecho de que nadie repose jamás en satisfacción total es señal de que fuimos hechos para otro mundo.
+
+### Según Il senso religioso (SR)
+
+**La exigencia de felicidad (cap. XI).** La felicidad es una exigencia constitutiva del corazón: la pregunta «¿qué da satisfacción al alma?» (*quid animo satis?*, san Francisco) define al hombre como tensión hacia un *compimento* y una *perfección* que no se agotan en lo visible; la vida es «una trama de exigencias» —verdad, justicia, felicidad (y amor)— abiertas a lo inagotable (SR, `18_capitolo_undicesimo.md`, §25-45, 79-95).
+
+**La exigencia implica una respuesta (cap. V).** «De lo que quiero, en el universo hay»: la exigencia de felicidad, siendo real, implica que la realidad contiene la respuesta; de lo contrario la exigencia sería una ilusión (SR, `12_capitolo_quinto.md`, §161-171).
+
+**La reducción del deseo de felicidad (cap. VII).** Reducir la felicidad a bienestar o a cuestión social/técnica es alienación: se vacía el deseo que constituye al hombre en lugar de asumirlo hacia su plenitud (SR, `14_capitolo_settimo.md`, §31-45).
 
 ## Distinciones importantes
 

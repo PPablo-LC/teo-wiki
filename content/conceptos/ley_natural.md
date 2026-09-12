@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Ley natural
 tags: ["moral"]
 
-timestamp: 2026-06-29
-description: "La ley natural es la participación de la sabiduría y bondad del Creador en el hombre, formado a imagen de Dios."
+timestamp: 2026-09-12
+description: "La ley natural es la participación de la sabiduría y bondad del Creador en el hombre, formado a imagen de Dios; ley escrita en el corazón según Giussani (Rm 2,14-15; Antígona)."
 ---
 # Ley natural
 
 > Área: Moral
-> Última actualización: 2026-06-28
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -111,6 +111,12 @@ El Catecismo enseña que «la ley natural expresa el sentido moral original que 
 El Catecismo y la encíclica Veritatis splendor, sin entrar en cuestiones de escuela, han favorecido un notable esclarecimiento de la doctrina de la ley natural, inclinándose en sustancia por el enfoque de Santo Tomás, como ya había hecho León XIII. Mientras la definición catequística del CEC presenta la ley natural como el sentido moral original discernible por la razón, la Veritatis splendor la presenta además como participación activa del hombre en la ley eterna en la criatura racional y como presencia natural de la ley eterna en la luz de la razón humana. (Ele_Xto_Stos, Cap. VIII, §2a)
 
 Siguiendo a Santo Tomás, se distinguen tres categorías de preceptos de la ley moral natural según su evidencia o su proximidad o lejanía de los principios evidentes. Los principios primeros y comunes gozan de la máxima evidencia para todos y se extienden a diversos ámbitos del actuar («no se debe hacer daño a nadie», la regla de oro); responden a los fines virtuosos considerados en su máxima generalidad y no han sido promulgados en el decálogo, pues su evidencia hacía superflua la promulgación. Los preceptos secundarios próximos se refieren a ámbitos específicos del actuar y pueden ser conocidos con razonamientos asequibles a la capacidad de todos; a este grupo pertenecen los preceptos del decálogo. Los preceptos de la tercera categoría derivan de la segunda a través de razonamientos más complicados, solo accesibles a los sabios: «estos preceptos llegan al pueblo mediante la enseñanza de los doctos»; no están explícitamente contenidos en el decálogo, aunque encuentran en él las premisas de las que proceden. En el plano reflexivo, lo decisivo para establecer si un principio moral pertenece a la ley natural no es la índole inmediata o mediata de la evidencia, sino que tenga una conexión necesaria con los primeros principios o con las virtudes. (Ele_Xto_Stos, Cap. VIII, §2c)
+
+### Según Il senso religioso (SR)
+
+**La ley escrita en el corazón (cap. X).** En el itinerario del sentido religioso, Giussani señala que la conciencia descubre la ley moral escrita en el corazón: «cuando los gentiles, que no tienen ley, cumplen naturalmente lo que la ley dispone, ellos mismos son ley para sí» (Rm 2,14-15). Esta ley universal, anterior a cualquier precepto positivo, es uno de los caminos por los que la razón se abre al Misterio: el «cielo estrellado sobre mí y la ley moral en mí» (Kant, citado literalmente) son dos presencias que no podemos evitar (SR, `17_capitolo_decimo.md`, §59-70, 86-95).
+
+**El drama de Antígona.** La ley del corazón puede entrar en conflicto con la ley positiva: el ejemplo de Antígona de Sófocles y la reflexión de Pascoli ilustran que la razón última de la conciencia remite a una instancia más alta que cualquier legislación humana (SR, `17_capitolo_decimo.md`, §86-95).
 
 ## Ver también
 

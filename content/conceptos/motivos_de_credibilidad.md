@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Motivos de credibilidad
 tags: ["teología_fundamental"]
 
-timestamp: 2026-05-26
+timestamp: 2026-09-12
 description: "Signos externos e internos que acompañan a la [[revelación]] divina y la hacen digna de ser aceptada como verdadera por la razón humana."
 ---
 # Motivos de credibilidad
 
 > Área: Teología fundamental
-> Última actualización: 2026-05-26
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -28,6 +28,11 @@ Royo Marín explica que los motivos de credibilidad son «argumentos externos qu
 
 Loring, desde una perspectiva apologética, ofrece múltiples motivos de credibilidad. El orden del cosmos y la precisión matemática de los astros demuestran la existencia de un Creador inteligente [PS §1]. Las maravillas de la naturaleza —el ojo humano, la célula, el instinto de los animales— no pueden explicarse por el azar [PS §1,11-1,15]. La historicidad de los Evangelios, confirmada por historiadores paganos (Tácito, Plinio, Flavio Josefo) y por el cumplimiento de profecías [PS §32,1-32,3], es un motivo sólido. Los milagros documentados —Lourdes, Calanda— son «prueba a favor de la Iglesia Católica» [PS §37,13]. También la santidad y la multitud de conversiones al catolicismo de personas cultas que estudiaron a fondo la religión [PS §37,14]. Todo ello muestra que la fe cristiana es razonable [PS §1].
 
+### Según Il senso religioso (SR)
+
+**La vida de los santos como prueba de la razonabilidad (cap. II).** Giussani añade un motivo de credibilidad decisivo: «Todos los grandes santos han sido así» — hombres razonables que, coherentes con los motivos adecuados, adhieren a la fe. La razonabilidad del creyente es la coherencia vivida entre el hombre y la totalidad de los factores de la realidad (SR, `09_capitolo_secondo.md`, §54-63).
+
+**El riesgo de la fe no es un gesto sin razones (cap. XIII).** La interpretación de la vida —«travesía» a lo desconocido en hipótesis— se apoya en signos y motivos adecuados; solo así la fe es acto razonable, «no un gesto sin razones adecuadas» (SR, `20_capitolo_tredicesimo.md`, §53-65).
 
 ## Distinciones importantes
 

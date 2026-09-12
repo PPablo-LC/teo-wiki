@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Voluntad
 tags: ["antropología"]
 
-timestamp: 2026-08-06
-description: "La voluntad es una facultad espiritual del alma humana, propia del entendimiento intelectivo, que inclina al hombre hacia el bien conocido por el entendimiento."
+timestamp: 2026-09-12
+description: "La voluntad es una facultad espiritual del alma humana, apetito racional que inclina al bien conocido; hiato con la razón y educación en la libertad según Giussani."
 ---
 # Voluntad
 
 > Área: Antropología
-> Última actualización: 2026-08-06
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -106,6 +106,14 @@ La voluntad no es una tendencia más, sino una instancia superior de control. Au
 Muchas temáticas de la voluntad proceden «materialmente» de las tendencias, pero la distinción subsiste porque la voluntad aparece como una toma de posición personal acerca de lo que sugieren las tendencias: acepta, rechaza, favorece, elabora, modifica o reprime. La autonomía del querer se basa en una dinámica específica, la aspiración que sigue a la inteligencia (*voluntas ut natura*): el deseo del bien captado como tal por la inteligencia. La voluntad es también deseo, y tiene una temática específica, al menos formal: incluso las temáticas de las tendencias son evaluadas en relación con el bienestar global de la persona (Ele_Xto_Stos, Cap. V, §2d).
 
 La voluntad no es solo deseo: para no reducirla a deseo es necesario asumir un [[concepto_hiperteleológico_de_voluntad|concepto hiperteleológico de voluntad]], característico de la antropología cristiana. Para el pensamiento griego la voluntad era una facultad básicamente tendencial y desiderativa; solo el conocimiento era considerado la operación inmanente que posee su propio fin. Por eso Santo Tomás dice que más o menos todos los filósofos vislumbraron que Dios es Logos, pero que Dios es amor no lo vislumbró ninguno. El cristianismo sabe que Dios es Amor: el amor —que consiste en darse— es una actuación específica de la voluntad. En el don de sí se reúnen y purifican los elementos procedentes de las tendencias, en particular los de las [[tendencias_transitivas]] (Ele_Xto_Stos, Cap. V, §2d).
+
+### Según Il senso religioso (SR)
+
+**El hiato entre razón y voluntad (cap. XIII).** Giussani describe el "iato" entre razón y voluntad: conocer la totalidad de los factores no basta para adherirse; la voluntad debe decidir la adherencia al ser. La coherencia de vida inicia la unificación del hombre (SR, `20_capitolo_tredicesimo.md`, §66-80).
+
+**La libertad como educación de la voluntad (cap. XIII).** La educación de la libertad —que capacita la voluntad para elegir el bien y asumir la responsabilidad (*respondeo*)— es condición de la interpretación del signo y de la adhesión al Misterio (SR, `20_capitolo_tredicesimo.md`, §1-21).
+
+**La voluntad y el asentimiento de fe (cap. XI).** La fe no es solo movimiento del entendimiento: la voluntad, movida por la gracia, interviene para adherir al signo y sostener la certeza en medio de la oscuridad. El hombre que quiere ver encuentra; el que no quiere ver se encierra (SR, `18_capitolo_undicesimo.md`, §131-158; `21_capitolo_quattordicesimo.md`, §59-70).
 
 ## Distinciones importantes
 

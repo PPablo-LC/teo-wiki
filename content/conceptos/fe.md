@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Fe
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-09-05
-description: "La fe es la primera de las virtudes teologales, virtud infusa sobrenatural por la que creemos firmemente todas las verdades que Dios ha revelado y la Iglesia nos propone para creer."
+timestamp: 2026-09-12
+description: "La fe es la primera de las virtudes teologales, virtud infusa sobrenatural por la que creemos firmemente todas las verdades que Dios ha revelado; acto razonable de adhesión a una persona según Giussani."
 ---
 # Fe
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-09-05
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -139,6 +139,16 @@ Elizabeth Worner presenta la fe como respuesta de confianza a la [[gracia_divina
 El fascículo vincula la fe con la renovación de la vida moral: la verdadera conversión no es un cambio superficial, sino la reorientación del corazón que reordena la conducta entera según el Evangelio; la fe obra por la caridad [EAC-18, 11].
 
 Fernanda Psihas confirma, desde la misión, que la fe se vive y se transmite en medio de las contradicciones: el testimonio fiel, aun en los rechazos de la [[era_secular]], manifiesta que la fe es un don que sostiene y que se ofrece [EAC-18, 20_mission_psihas.md].
+
+### Según Il senso religioso (SR)
+
+**La fe como acto razonable (cap. II).** Giussani muestra que la vida humana se apoya en la fe dada a los demás: la fe en la palabra de otro es razonable cuando el otro tiene autoridad sobre la materia. La fe religiosa no es un salto irracional sino la adhesión a una persona con un motivo adecuado — como la fe que el niño deposita en sus padres o el discípulo en su maestro (SR, `09_capitolo_secondo.md`, §27-35, 54-63).
+
+**La fe en el prójimo y la autoridad (cap. I).** La experiencia cotidiana de querer a alguien —la fe en otro— es el «extremo razonable de la experiencia de la vida»: creer en la palabra de quien nos precede es la estructura básica del conocimiento humano (SR, `08_capitolo_primo.md`, §76-93).
+
+**El riesgo de la fe (cap. XIII).** La fe implica riesgo: «el riesgo no es un gesto sin razones adecuadas». La aventura de la interpretación es una travesía en la que la libertad adhiere a la evidencia de los signos, empezando por una hipótesis positiva (SR, `20_capitolo_tredicesimo.md`, §41-52, 53-65). Cita a Jacobo luchando con Dios en el oscuro (Gn 32,23-33): la fe es la estatura del hombre frente al Misterio (SR, `21_capitolo_quattordicesimo.md`, §29-45).
+
+**La fe y el sentido religioso (cap. IX).** El sentido religioso es «la razón en plenitud», no un salto ciego; la fe racional es la adhesión vital a un Misterio en que la razón se apoya en motivos adecuados. Negarla como «irracional» es reducir la razón a esquema (SR, `16_capitolo_nono.md`, §39-50).
 
 ## Analizado para
 

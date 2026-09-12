@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Educación católica
 tags: ["derecho_canónico"]
 
-timestamp: 2026-09-07
+timestamp: 2026-09-12
 description: "La educación católica es el conjunto de medios e instituciones mediante los cuales la Iglesia, en cumplimiento de su misión divina, ayuda a los hombres a alcanzar la plenitud de la vida cristiana."
 ---
 # Educación católica
 
 > Área: Derecho Canónico
-> Última actualización: 2026-09-07
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -86,6 +86,12 @@ Tras la pandemia de COVID, las escuelas católicas vivieron un «renacimiento» 
 **Ex Corde Ecclesiae y la universidad medieval.** La encíclica fundacional de las universidades católicas, *Ex Corde Ecclesiae*, «concibe una educación que coloca el desarrollo profesional en el contexto de la transformación espiritual» y «enfatiza el nutrir el espíritu humano para maravillarse, entender, juzgar y desarrollar un sentido moral» [EAC-19, 14_feature_askonas, L67-69]. A medida que la IA se vuelve más inteligente, «este tipo de educación se vuelve aún más valioso», pues una educación valiosa en el futuro será la que «forme propiamente a los estudiantes para entender para qué debieran usar estas (o cualesquiera) herramientas» [L71]. Este tipo de educación ya se ha hecho antes: «era el propósito original de la universidad medieval, que equilibraba la búsqueda del conocimiento con una formación monástica enraizada en las tradiciones ascéticas de la Iglesia» [L77]. El momento presente anuncia «no la abolición de las artes liberales sino su retorno al mismo centro de lo que significa ser una universidad», y las instituciones católicas deben «volver a sus raíces y ser fieles a su encargo original», comprometiéndose a enseñar a sus estudiantes «no solo cómo pensar sino qué amar» [L79-81].
 
 **El neutralismo educativo (Dietrich von Hildebrand).** Von Hildebrand denuncia en la educación «la infiltración de la tecnocracia en el sagrado reino de la persona» [EAC-19, 11_minds, L101]: por un lado «se propaga un neutralismo en la educación; se considera una violación de la libertad de la persona apelar a la mente de la persona, ofrecerle la verdad y revelarle los verdaderos valores»; por otro, «no se considera una violación de la libertad de la persona influirle cediendo al espíritu de la tecnocracia en la educación, en forma de tests, ajustes al entorno, conformismo y cosas así». «Mientras la primera influencia está, en realidad, en completa armonía con la libertad de la persona, la segunda es una violación real de su libertad» [L101]. La noción misma de *human engineering* es «el síntoma más típico de una tecnocracia maligna», contra la cual hay que «luchar con todas las armas espirituales», pues encierra un espíritu anticristiano [L103-105].
+
+### Según Il senso religioso (SR)
+
+**La educación como adecuación a la realidad (cap. II).** Giussani define la educación como adecuación del hombre a la realidad en su totalidad: educarse es aprender a mirar los factores reales —incluido el propio yo— sin reducir la pregunta de fondo. Toda educación que suprima la pregunta última deforma al hombre (SR, `09_capitolo_secondo.md`, §94-108).
+
+**Educación de la libertad como responsabilidad (cap. XIII).** La educación verdadera educa la libertad (*respondeo*): el hombre madura cuando aprende a responder, ante la realidad y ante su destino, con la totalidad de la persona —coherencia entre razón y voluntad; la comunidad es condición del crecimiento de la libertad del individuo (SR, `20_capitolo_tredicesimo.md`, §1-9, 66-93).
 
 ## Relaciones doctrinales
 

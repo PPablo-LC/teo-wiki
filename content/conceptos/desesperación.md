@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Desesperación
 tags: ["moral"]
 
-timestamp: 2026-06-08
-description: "La desesperación es el pecado contra la [[virtud_de_la_esperanza]] por el cual el hombre deja de esperar de Dios su salvación personal, el auxilio para llegar a ella o el perdón de sus pecados."
+timestamp: 2026-09-12
+description: "La desesperación es el pecado contra la virtud de la esperanza por el cual el hombre deja de esperar de Dios su salvación personal; negación desesperada de la pregunta según Giussani."
 ---
 # Desesperación
 
 > Área: Moral
-> Última actualización: 2026-06-08
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -64,6 +64,14 @@ La desesperación no mira al mal bajo razón de mal, sino que mira al bien que s
 «A la esperanza se oponen dos vicios: uno, por defecto, la desesperación, que considera imposible la salvación eterna, y proviene principalmente de la acidia (pereza espiritual) y de la lujuria; y otro por exceso, la presunción» (TPCr, Tercera Parte, Libro II, Cap. II).
 
 Los remedios contra la desesperación: «la misericordia de Dios es incansable en perdonar al pecador arrepentido, que la violencia de nuestros enemigos jamás podrá superar al auxilio omnipotente de Dios y que, si es cierto que por nosotros mismos nada podemos, con la gracia de Dios seremos capaces de todo» (TPCr, Tercera Parte, Libro II, Cap. II).
+
+### Según Il senso religioso (SR)
+
+**Muerte y desesperación (cap. V).** Giussani presenta la muerte como origen de la pregunta filosófica: la desesperación surge cuando el hombre se enfrenta a la desproporción entre su deseo de infinito y los límites de su vida. La figura de Dostoevskij —y la «acedia desolada» de la desesperanza lúcida— ilustra cómo el hombre que se reconoce destinado a más no tolera una respuesta menor (SR, `12_capitolo_quinto.md`, §61-80).
+
+**La negación desesperada (cap. VII).** La desesperación es uno de los «atteggiamenti irragionevoli» que reducen la pregunta: la «negación desesperada» (Adorno, Kerouac, Montale, Pavese, Leopardi) intenta eludir el interrogante último apelando a la propia lucidez. Para Giussani, esta reducción no resuelve nada: la pregunta permanece y la libertad queda sin su compimento (SR, `14_capitolo_settimo.md`, §16-30).
+
+**Esperanza y desesperación en la encrucijada (cap. V).** La vida se presenta como *promesa* (Pavese: «la vita promette»): esperar contra la desesperación es la postura de la plenitud —como el pastor de Leopardi y el deseo insatisfecho. La desesperación es el rechazo de la promesa; la esperanza es la adhesión a la promesa que la conciencia testimonia (SR, `12_capitolo_quinto.md`, §81-95).
 
 
 ## Distinciones importantes

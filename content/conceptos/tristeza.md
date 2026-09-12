@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Tristeza
 tags: ["moral", "ascética"]
 
-timestamp: 2026-06-12
+timestamp: 2026-09-12
 description: "La tristeza espiritual —y particularmente la [[acedia]]— es una aflicción del alma que nace de la percepción del mal presente o de la ausencia del bien, especialmente del bien espiritual."
 ---
 # Tristeza
 
 > Área: Moral / Ascética
-> Última actualización: 2026-06-12
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -56,6 +56,11 @@ Cristo tuvo verdadera tristeza en el apetito sensitivo, distinta del dolor sensi
 
 TPCr trata la tristeza como uno de los pecados capitales. La acedia es el pecado capital que entristece por el bien espiritual y es causa de muchos otros pecados: malicia, rencor, pusilanimidad, desesperación. Se combate con la [[alegría]] espiritual, la [[esperanza]] y la [[perseverancia]].
 
+### Según Il senso religioso (SR)
+
+**La tristeza, carácter de la vida consciente (cap. V).** Giussani describe la tristeza como «carácter fundamental de la vida consciente de sí»: «deseo de un bien ausente», dice san Tomás. Nace de la «diferencia de potencial» entre la destinación ideal y la incompletud histórica —la desproporción del hombre, más grande que su vida (Leopardi, el pastor errante)—; su opuesto lógico es la desesperación, que aplana esa diferencia (SR, `12_capitolo_quinto.md`, §46-60).
+
+**La tristeza que no renuncia a la esperanza (cap. VII).** Adorno en los *Minima moralia* describe la «ambivalencia de la mestizia»: la verdad de la elección nihilista no es separable de la «obsesión» —la experiencia elemental— de que de las apariencias emerja la salvación; y en el énfasis del *Senza* de la esperanza impotente, la falta es la esencia de la esperanza (conocida como «esperanza impotente») que permite respirar, es decir, vivir (SR, `14_capitolo_settimo.md`, §16-30).
 
 ## Relaciones doctrinales
 

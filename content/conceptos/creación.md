@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Creación
 tags: ["dogmática"]
 
-timestamp: 2026-09-02
-description: "La creación es la obra por la cual Dios, en su libérrima voluntad, saca de la nada todo lo que existe (cielo y tierra, lo visible y lo invisible) por su Palabra y su Espíritu."
+timestamp: 2026-09-12
+description: "La creación es la obra por la cual Dios, en su libérrima voluntad, saca de la nada todo lo que existe (cielo y tierra, lo visible y lo invisible) por su Palabra y su Espíritu; el mundo como dato y como don según Giussani."
 ---
 # Creación
 
 > Área: Dogmática
-> Última actualización: 2026-09-02
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -76,6 +76,14 @@ El Dios de la creación se revela también como Dios de la redención, fiel a su
 **La creación y el hombre (Ratzinger/11_science.md).** Dios solo delibera al crear a los seres humanos, lo que simboliza la unicidad de lo humano como imagen de su propia Razón. Dios no declara la bondad del hombre simplemente por su existencia, como hace con las demás criaturas, sino que le da una misión: la bondad humana no está solo en manos de Dios, sino de Dios y del hombre — una cooperación.
 
 **La custodia de la creación *creation care* (Christopher Barnard, 24_peripheries_barnard.md).** La ética ambiental cristiana se fundamenta en que Dios creó el mundo y dio al hombre la responsabilidad exclusiva de administrarlo. En Génesis 1,26 Dios ordena ejercer custodia sobre toda la creación. Contra el anti-natalismo del activismo climático, el mandato de «sed fecundos y multiplicaos» (Gn 1,28) ofrece una relación armoniosa —no explotadora— con la naturaleza. El Nuevo Testamento subraya la reconciliación de toda la creación con Dios (Col 1,19-20). Juan Pablo II (*Evangelium Vitae* 42) y Francisco (*Laudato Si'*) llaman al cuidado de la creación: «debemos proteger el medio ambiente para proteger la vida y permitir que la humanidad florezca».
+
+### Según Il senso religioso (SR)
+
+**La creación como don (cap. X).** En el itinerario del sentido religioso, Giussani describe el mundo como *dato* y como *don*: la percepción del real como dado —que nos precede y no nos pertenece— abre a la referencia a Otro. El orden del cosmos remite al Creador: cita Sab 13,1-5 (reconocer al Creador por las criaturas), Rm 1,19-21 («lo invisible de Dios se deja ver en las criaturas»), At 14,15-17 (Dios «no se dejó sin testimonio») y Job 38 (Dios interpela desde la naturaleza) (SR, `17_capitolo_decimo.md`, §11-20, 46-58).
+
+**La contingencia del creado (cap. X).** El yo dependiente constata: «no me hago a mí mismo». La creaturalidad —la conciencia de ser contingente y sostenido— es el fundamento de la religión natural y de la afirmación de un Tú providente, *tam pater nemo* (SR, `17_capitolo_decimo.md`, §33-45, 71-85).
+
+**Geografía del sentido religioso (cap. V).** La universalidad del sentido religioso en la historia humana —y la madurez que Malraux intuye en la pregunta por el Misterio— testimonia que la creación entera está orientada a su Creador y que el hombre la experimenta como «presencia» que lo interpela (SR, `12_capitolo_quinto.md`, §141-160).
 
 ## Distinciones importantes
 

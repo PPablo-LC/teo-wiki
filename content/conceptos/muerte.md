@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Muerte
 tags: ["escatología", "moral"]
 
-timestamp: 2026-08-23
-description: "La muerte es la separación del alma y el cuerpo, fin de la vida terrena del hombre."
+timestamp: 2026-09-12
+description: "La muerte es la separación del alma y el cuerpo, fin de la vida terrena; origen de la pregunta y de la promesa según Giussani."
 ---
 # Muerte
 
 > Área: Escatología / Moral
-> Última actualización: 2026-08-23
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -53,6 +53,14 @@ El número dedicado a las postrimerías aporta una pedagogía cultural de la mue
 - **Muerte cotidiana benedictina** (Fr. Eric Hollas OSB): «mantener la muerte diariamente ante nuestros ojos» (RB) como invitación a vivir con intensidad, no a la depresión.
 - **Tolkien y la aceptación de la mortalidad** (Holly Ordway): «los niños deben crecer y morir, no convertirse en Peter Pans»; la vida larguísima como tentación (Númenor); la muerte como parte del orden creado, no enemiga absoluta.
 - **Muerte en el cine apocalíptico** (Andrew Petiprin): contemplar el fin del mundo puede volver la mirada hacia el Creador — McCarthy (*The Road*): «quizá en la destrucción del mundo sería posible por fin ver cómo fue hecho».
+
+### Según Il senso religioso (SR)
+
+**La muerte como origen de la pregunta (cap. V).** Giussani presenta la muerte como el origen mismo de la pregunta filosófica y religiosa: el hombre, «desproporcionado» respecto de su propia vida, experimenta la tensión entre la promesa de plenitud y el fin. La desesperación (Dostoevskij) es la acedia desolada de quien no tolera esa desproporción (SR, `12_capitolo_quinto.md`, §61-80).
+
+**La muerte y el deseo del Tú absoluto (cap. V).** Ante la muerte, el hombre intuye que sus exigencias de verdad, justicia y amor no pueden agotarse en esta vida: la catástrofe de la despedida remite a la categoría de la posibilidad y a la hipótesis de Dios como respuesta (SR, `12_capitolo_quinto.md`, §81-95, 111-125).
+
+**La vida como promesa frente a la muerte (cap. V).** La expresión de Pavese —«la vita promette»— sintetiza la postura del hombre ante la muerte: la vida entera se ofrece como promesa que solo puede cumplirse más allá de la muerte; negarla es la negación desesperada (SR, `12_capitolo_quinto.md`, §81-95; `14_capitolo_settimo.md`, §16-30).
 
 ## Distinciones importantes
 

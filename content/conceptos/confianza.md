@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Confianza
 tags: ["teología_bíblica", "moral"]
 
-timestamp: 2026-06-19
-description: "La confianza es una actitud fundamental del creyente que, reconociendo la omnipotencia y misericordia de Dios, se abandona en Él con fe humilde y certeza filial."
+timestamp: 2026-09-12
+description: "La confianza es una actitud fundamental del creyente que se abandona en Dios; fe en el prójimo y confianza en la hipótesis según Giussani."
 ---
 # Confianza
 
 > Área: Teología Bíblica / Moral
-> Última actualización: 2026-06-19
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -30,6 +30,14 @@ El VocTeoBib desarrolla la confianza en tres movimientos. Primero, la **confianz
 Segundo, la **confianza y oración humilde**: la confianza es inseparable de la humildad. Judit (Jdt 8,11-17), Susana (Dan 13,35) y los salmos (Sal 40,18; 13,6; 131) expresan esta humilde confianza. Jesús enseña que la oración al Padre está segura de obtener todo (Lc 11,9-13) y que por ella el pecador obtiene la justificación (Lc 7,50; 18,13s). Jesús mismo pasó por la prueba de la confianza en la cruz (Mt 27,43; Lc 23,46).
 
 Tercero, la **confianza y gozosa seguridad**: por su acto de amor confiado, Jesús vence al mal (Jn 12,31s; 16,33). El discípulo confiado se convierte en testigo fiel (Act 20,32; 2Tes 3,3s; Flp 1,6). La confianza da *parresía* para anunciar la palabra (1Tes 2,2; Act 28,31; 4,24-31). Es condición de la fidelidad (Heb 3,14) y da acceso al trono de la gracia (Heb 4,16; 10,19). Nada separa del amor de Dios (Rom 8,38s). El amor perfecto destierra el temor (1Jn 4,16ss) y la confianza se convierte en gozo pleno (Jn 16,20ss; 17,13).
+
+### Según Il senso religioso (SR)
+
+**La fe en el prójimo como confianza razonable (cap. II).** Giussani funda la confianza en la estructura de la vida humana: el hombre se apoya en la palabra y el testimonio de otros con autoridad (padres, maestros). Creer en otra persona con motivos adecuados es la forma natural de la certidumbre (SR, `09_capitolo_secondo.md`, §27-44).
+
+**La confianza en la hipótesis (cap. XIII).** La búsqueda de sentido parte de una «hipótesis positiva»: se confía en que la realidad posee una respuesta, incluso antes de haberla encontrado. La confianza es la apertura que permite la verificación (SR, `20_capitolo_tredicesimo.md`, §41-52).
+
+**La confianza y la oración (cap. X).** La oración es presentada como «conciencia de sí» que se topa con un Otro: confiar en Él —como el esclavo a la espera del gesto del señor (Sal 123,2)— es el acto de abandono que constituye la postura religiosa del hombre (SR, `17_capitolo_decimo.md`, §86-95).
 
 ## Distinciones importantes
 

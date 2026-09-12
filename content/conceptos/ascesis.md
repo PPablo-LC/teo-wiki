@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: "Ascesis"
 description: "Ejercicio espiritual que busca el dominio de las pasiones y la purificación del alma para alcanzar la unión con Dios."
 tags: ["ascética", "espiritualidad", "moral"]
-timestamp: 2026-07-01
+timestamp: 2026-09-12
 ---
 
 # Ascesis
 
 > Área: Ascética / Teología Espiritual
-> Última actualización: 2026-09-08
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -32,6 +32,14 @@ La ascesis es entendida por JvC como «elaboración final», según el sentido o
 - *Vía unitiva:* jugar por el juego mismo — la libertad del que «ha aprendido las reglas, ha perfeccionado su habilidad y se ha consagrado a la ejecución». La indiferencia a las emociones pasajeras y el amor al Dador más que a los dones.
 
 **La formación a través del deporte (16_feature_garcia.md):** Brenda Lorena García testifica: «Estos deportes me enseñaron sobre el trabajo duro, la disciplina y el sacrificio. Mi formación atlética desarrolló valores y carácter». Juan Pablo II observó que el deporte «puede animar a los jóvenes a desarrollar valores como lealtad, perseverancia, amistad, compartir y solidaridad», y que «sin sacrificios no se obtienen resultados importantes».
+
+### Según Il senso religioso (SR)
+
+**La ascesis como verificación (cap. I).** Giussani propone la prueba de la vida cristiana —negarse a sí mismo para verificar (metanoia)— como método de conocimiento: la ascesis es la verificación personal de la coherencia de la fe con la realidad (SR, `08_capitolo_primo.md`, §53-63).
+
+**La limpieza del corazón como ascesis (cap. III).** La purificación de la afectividad y de la mirada es la condición de un conocimiento verdadero: sin esa ascesis interior, el prejuicio y el desorden afectivo impiden la atención a la realidad (SR, `10_capitolo_terzo.md`, §81-93, 70-80).
+
+**La ascética del «hacerse niños» (cap. III).** La ascesis cristiana es también vuelta a la simplicidad: dejarse enseñar como niños (Mt 18,3) y practicar la sinceridad («sí sí, no no») son ejercicios que ordenan el alma a la verdad (SR, `10_capitolo_terzo.md`, §45-69).
 
 ## Relaciones
 

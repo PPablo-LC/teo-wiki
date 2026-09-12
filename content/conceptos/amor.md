@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Amor
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-06-06
-description: "El amor es la inclinación de la voluntad hacia el bien. En sentido teológico, el amor tiene como fuente a Dios mismo, que es amor (1 Jn 4,8)."
+timestamp: 2026-09-12
+description: "El amor es la inclinación de la voluntad hacia el bien; exigencia última del corazón que remite al Tú absoluto según Giussani."
 ---
 # Amor
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-06-06
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -50,6 +50,13 @@ Santo Tomás trata el amor divino en SmTh Iª q.20. En Dios hay amor (a.1), pues
 
 La caridad es la más excelente de las virtudes, alma y forma de todas las demás. Une al alma con Dios por amistad sobrenatural y la dispone para la unión transformante. La perfección cristiana consiste esencialmente en la caridad (TPCr, Tercera Parte, Libro I, Cap. IV). Sin caridad, las demás virtudes no merecen el nombre de virtudes cristianas.
 
+### Según Il senso religioso (SR)
+
+**La exigencia de amor (cap. XI).** El amor figura entre las exigencias últimas de la vida (verdad, justicia, felicidad y amor). El amor no se agota en lo visible: Romeo y Julieta y la experiencia de Marcel muestran que el amor a una persona no tiene límite en sus exigencias y apunta a una plenitud inalcanzable en esta tierra (SR, `18_capitolo_undicesimo.md`, §96-110).
+
+**El otro como signo superior (cap. XI).** La persona amada es «signo»: el otro es «otro» inagotable, cuya consistencia remite a un Tú absoluto. El amor despierta la conciencia de que el Misterio es presencia y llamada; la amistad se abre así a la pregunta religiosa (SR, `18_capitolo_undicesimo.md`, §111-130).
+
+**El amor y la iniciativa divina (cap. XV).** La revelación se presenta como la entrada de Dios en la historia «come un amico». El amor —exigencia estructural del corazón humano— encuentra en esa iniciativa su cumplimiento (SR, `22_capitolo_quindicesimo.md`, §31-40).
 
 ## Relaciones doctrinales
 

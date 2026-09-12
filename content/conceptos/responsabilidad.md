@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Responsabilidad
 tags: ["moral", "antropología"]
 
-timestamp: 2026-06-18
-description: "La responsabilidad es la obligación moral de responder por los propios actos libres y conscientes ante Dios, ante el prójimo y ante la sociedad."
+timestamp: 2026-09-12
+description: "La responsabilidad es la obligación moral de responder por los propios actos libres; la libertad como «respondeo» según Giussani."
 ---
 # Responsabilidad
 
 > Área: Moral / Antropología
-> Última actualización: 2026-06-18
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -32,6 +32,14 @@ Juan Pablo II sitúa la responsabilidad en el contexto del uso de la libertad tr
 La responsabilidad ética se vincula con la distinción entre el *bonum honestum* (el bien honesto, que se identifica con la esencia misma del objeto de la acción), el *bonum utile* (el bien útil, el provecho personal) y el *bonum delectabile* (el bien deleitable, el placer). El peligro de la época actual «consiste en que, en el uso de la libertad, se pretende prescindir de la dimensión ética, de la consideración del bien y el mal moral» [MI, cap. 7].
 
 La responsabilidad se ejerce cuando el sujeto opta por el *bonum honestum*, identificando su fin con «la esencia misma del objeto de su acción» [MI, cap. 7]. El utilitarismo descarta esta dimensión fundamental, reduciendo la moralidad al cálculo de placeres y beneficios.
+
+### Según Il senso religioso (SR)
+
+**La libertad como responsabilidad (cap. XIII).** Giussani define la educación de la libertad como «respondeo»: la libertad se realiza responsabilizándose de la interpretación del signo y de la propia existencia. Ser libre es ser capaz de responder coherentemente a la realidad (SR, `20_capitolo_tredicesimo.md`, §1-21).
+
+**La responsabilidad del conocer (cap. I, III).** El conocimiento implica responsabilidad moral: negarse a verificar la propia fe o los propios prejuicios es una huida culpable. El hombre es responsable de la limpieza de su corazón (Mt 5,8) y de la sinceridad de su búsqueda de la verdad (SR, `08_capitolo_primo.md`, §64-75; `10_capitolo_terzo.md`, §23-44).
+
+**La responsabilidad ante el prójimo (cap. XIII).** La dimensión comunitaria de la libertad: la comunidad educa y llama al individuo a la responsabilidad; hacia ella se orienta la coherencia de vida que da razón de la fe (SR, `20_capitolo_tredicesimo.md`, §81-93).
 
 ## Distinciones importantes
 

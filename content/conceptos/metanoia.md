@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: "Metanoia"
 description: "La metanoia es la conversión del corazón: la transformación radical que inicia la vida cristiana y se renueva continuamente por la gracia."
 tags: ["moral_católica", "teología_moral"]
-timestamp: 2026-09-05
+timestamp: 2026-09-12
 ---
 
 # Metanoia
 
 > Área: Moral / Espiritualidad
-> Última actualización: 2026-09-05
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -42,6 +42,14 @@ Robert Barron parte del «cambio radical de mente y corazón» con que Jesús in
 Matthew Petrusek profundiza en la diferencia entre la *conversio* como acontecimiento puntual y la *metanoia* como transformación permanente: el cristiano no solo se convierte, sino que permanece en [[conversión_continua]], reordenando progresivamente su existencia en torno a Cristo [EAC-18, 03_a_word_from_the_institute.md].
 
 La metanoia así entendida es el movimiento interior que acompaña toda la vida cristiana: se abre con el encuentro con Cristo, se alimenta de los sacramentos y culmina en el amor, pues la caridad es la forma de la vida nueva.
+
+### Según Il senso religioso (SR)
+
+**La metanoia como método de verificación (cap. I).** Giussani propone «la prueba» de la vida cristiana como método de conocimiento: «negarte a ti mismo» (Lc 9,23) y actuar según la fe es el camino asético que permite verificar su verdad. La metanoia —cambio de mente y de vida— es la condición de la verificación racional (SR, `08_capitolo_primo.md`, §53-63).
+
+**La limpieza del corazón y la conversión del conocer (cap. III).** La moralidad del conocer implica una conversión interior: el prejuicio y el desorden afectivo exigen ser superados mediante la ascesis y la sinceridad, pues sin esa metanoia previa la razón no ve la realidad tal cual es (SR, `10_capitolo_terzo.md`, §23-44, 70-93).
+
+**El «hacerse niños» como conversión permanente (cap. III).** «Si no os hacéis como niños» (Mt 18,3) describe la metanoia continua: volver a la apertura de quien acepta ser enseñado por la realidad y por la autoridad, sin endurecer el corazón (SR, `10_capitolo_terzo.md`, §45-55, 56-69).
 
 ## Distinciones importantes
 

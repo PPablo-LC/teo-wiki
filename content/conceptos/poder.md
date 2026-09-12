@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Poder
 tags: ["moral_(doctrina_social)"]
 
-timestamp: 2026-05-29
+timestamp: 2026-09-12
 description: "El poder o autoridad legítima es la cualidad en virtud de la cual personas o instituciones dan leyes y órdenes a los hombres y esperan la correspondiente obediencia."
 ---
 # Poder
 
 > Área: Moral (Doctrina Social)
-> Última actualización: 2026-05-29
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -32,6 +32,12 @@ El poder político debe ejercerse dentro del orden moral y garantizar las condic
 ### Según el Vocabulario de Teología Bíblica (VocTeoBib)
 
 La entrada «Poder» del VocTeoBib se centra en el poder de Dios, no en la autoridad humana. Yahveh se revela como el Todopoderoso que creó el mundo (Gen 1,1) y liberó a Israel con mano fuerte (Ex 3,19; Dt 4,34). El poder de Yahveh se pone al servicio de su amor; es la fuerza del débil que confía en él (Sal 59,17s). El hombre, creado a imagen de Dios (Gen 1,26ss), participa de su poder para dominar la tierra, pero el pecado desvía este poder hacia la violencia (Gen 4,8; 11,4ss) y la opresión del débil (Is 10,1s). Cristo manifiesta el poder divino en la debilidad de la cruz (1Cor 1,18; 2Cor 12,9s), inaugurando un poder que sirve, no que domina.
+
+### Según Il senso religioso (SR)
+
+**El poder totalitario (cap. VIII).** Giussani describe el totalitarismo —Lenin, Stalin, Hitler— como la consecuencia de haber reducido o eliminado la pregunta de fondo: el Estado se convierte en ídolo que suprime la libertad religiosa y comunitaria. El poder absoluto es la negación del carácter «esigerencial» de la persona (SR, `15_capitolo_ottavo.md`, §101-119).
+
+**El poder como pretensión de ser Dios (cap. XIV).** La raíz del poder idolátrico es la pretensión edénica de «ser como dioses» (Gen 3,1-7): quien quiere determinar por sí el bien y el mal termina ejerciendo la violencia y la guerra contra el prójimo (SR, `21_capitolo_quattordicesimo.md`, §89-115, 116-130).
 
 ## Distinciones importantes
 

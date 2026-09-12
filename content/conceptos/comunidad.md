@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Comunidad
 tags: ["eclesiología"]
 
-timestamp: 2026-08-24
-description: "Realidad eclesial fundada por Cristo en la cual los fieles, unidos por el vínculo de la caridad y los sacramentos, forman un solo Cuerpo cuya cabeza es Cristo."
+timestamp: 2026-09-12
+description: "Realidad eclesial fundada por Cristo en la cual los fieles, unidos por el vínculo de la caridad y los sacramentos, forman un solo Cuerpo cuya cabeza es Cristo; condición del crecimiento de la libertad según Giussani."
 ---
 # Comunidad
 
 > Área: Eclesiología
-> Última actualización: 2026-08-24
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -58,6 +58,14 @@ León XIV aplica la noción de comunidad al presbiterio y a la colaboración pas
 ### Según Thomas O'Loughlin (Rites_wrongs-Liturgia)
 
 Thomas O'Loughlin (2017, cap. 5, Principio III) hace de la dimensión comunitaria de la liturgia una clave pastoral. Subraya que la liturgia cristiana, como todo ritual humano, expresa la identidad del grupo (analogía del *loyal toast* de la Royal Navy, que se bebe sentado). Pero a diferencia de otras tradiciones cristianas — la uniformidad católica romana post-tridentina, el localismo de las iglesias de la Reforma, la *oikoumene* ortodoxa — la liturgia actual debe construir *communitas* (en el sentido de V. Turner) sin absolutizar las identidades culturales. En una sociedad multicultural (lo que O'Loughlin llama «WEIRD»: *western, educated, industrial, rich, democratic*), la asamblea no es naturalmente una «comunidad» sino un agregado de individuos con distintas visiones teológicas, étnicas y culturales. La tarea del presidente de la celebración es construir esa comunión en el acto mismo de la celebración: «lo que se persigue es que al salir de la reunión tengan la sensación —a veces con palabras, a veces sin ellas— de que "esta ha sido nuestra liturgia"» (Rites_wrongs-Liturgia, cap. 5). Esto implica recuperar la dimensión de la mesa compartida [[comensalidad]] (no un altar aislado) y poner en práctica la hospitalidad divina [[hospitalidad_divina]].
+
+### Según Il senso religioso (SR)
+
+Giussani afirma que la comunidad es condición del crecimiento de la libertad y de la fe del individuo: «donde dos o tres están reunidos en mi nombre, allí estoy yo en medio de ellos» (Mt 18,20) es la promesa que funda la dimensión comunitaria del seguimiento (SR, `20_capitulo_tredicesimo.md`, §81-93).
+
+**Comunidad y razonabilidad (cap. II).** La coherencia de vida de la comunidad creyente es una prueba de la razonabilidad de la fe: la unidad de vida de los que adhieren al misterio es un motivo adecuado para la adhesión. «Todos los grandes santos han sido así»: el testimonio comunitario es factor de credibilidad (SR, `09_capitolo_secondo.md`, §54-63, 78-100).
+
+**La dimensión comunitaria de la libertad (cap. XIII).** La libertad del individuo no crece en el aislamiento: la comunidad que vive la aventura de la interpretación sostiene y educa la libertad personal. La atención, la aceptación y la hipótesis positiva se ejercen en el seno de una comunidad que acompaña el riesgo de la interpretación (SR, `20_capitolo_tredicesimo.md`, §10-30, 81-93).
 
 ## Referencias
 

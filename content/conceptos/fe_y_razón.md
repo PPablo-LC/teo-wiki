@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Fe y Razón
 tags: ["dogmática"]
 
-timestamp: 2026-09-02
-description: "La relación entre la fe y la razón designa la armonía y mutua colaboración entre el conocimiento sobrenatural (fe) y el conocimiento natural (razón)."
+timestamp: 2026-09-12
+description: "La relación entre la fe y la razón designa la armonía y mutua colaboración entre el conocimiento sobrenatural (fe) y el conocimiento natural (razón); la fe como acto razonable según Giussani."
 ---
 # Fe y Razón
 
 > Área: Dogmática
-> Última actualización: 2026-09-02
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -94,6 +94,14 @@ El Apéndice I (P. Manuel Carreira S.J.) desarrolla esta armonía en clave cient
 **Fe y razón ante el secularismo moderno (Matthew Minnis, 19_special_feature_minnis.md).** La educación ha perdido el vínculo entre la libertad y la verdad que la tradición ([[john_henry_newman]]) había establecido. La universidad moderna, «desechando los atributos del cristianismo», sacrificó la fe en beneficio de la razón y, a la larga, también la razón misma: sin referencia a la verdad trascendente, la libertad se vuelve autodeterminación y la razón puro instrumento técnico. Solo el redescubrimiento de la armonía fe-razón devuelve a la educación su fin y su unidad.
 
 **La unidad del saber como preparación del diálogo fe-razón (Andrew Youngblood, 20_spotlight_youngblood.md).** La educación clásica católica forma «hombres y mujeres de mentalidad teológica», munidos de una cosmovisión metafísica en la que todo saber se integra «a la luz de la unidad de la verdad». Esta formación prepara para dar razón de la fe y para el encuentro con quienes han basado su ateísmo en la supuesta quiebra entre fe y razón.
+
+### Según Il senso religioso (SR)
+
+James Francis Stafford, en el prefacio, sintetiza la tesis del PerCorso: «la fe tiene necesidad de que el hombre sea razonable para reconocer el *Avvenimento* gracioso del Dios con nosotros» — la fe presupone la razonabilidad previa del hombre (SR, `05_prefazione.md`, §15).
+
+**La fe como acto razonable (cap. II).** Giussani sostiene que la fe en la palabra de otro es un acto plenamente razonable cuando el otro tiene autoridad sobre la materia: la vida humana se apoya en la fe que damos a otros. La fe religiosa es análoga: adhesión a una persona con motivo adecuado, no salto irracional (SR, `09_capitolo_secondo.md`, §27-35).
+
+**La síntesis: adhesión vital a un Misterio.** La fe es «adhesión vital a un Misterio en que la razón se apoya en motivos adecuados». Razonabilidad y fe no se oponen: el sentido religioso es «la razón en plenitud», no un salto ciego; negarlo como «irracional» es reducir la razón a esquema (SR, `09_capitolo_secondo.md`, §101-121; `16_capitolo_nono.md`, §39-50, 79-89).
 
 ## Distinciones importantes
 

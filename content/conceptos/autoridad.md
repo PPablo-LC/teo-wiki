@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Autoridad
 tags: ["doctrina_social", "moral"]
 
-timestamp: 2026-06-05
+timestamp: 2026-09-12
 description: "La autoridad política es el principio de coordinación y dirección de la sociedad hacia el bien común, necesario en toda sociedad humana porque Dios ha creado a los hombres sociales por naturaleza."
 ---
 # Autoridad
 
 > Área: Doctrina Social / Moral
-> Última actualización: 2026-06-05
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -52,6 +52,13 @@ El Capítulo General 2026 de los Legionarios de Cristo dedicó un documento tem�
 
 **Marco normativo**: el ejercicio de la autoridad se inscribe en un ordenamiento jurídico jerarquizado: (1) ley divina, (2) Derecho Canónico universal, (3) Constituciones, (4) normas secundarias, (5) mandatos particulares del superior. Un mandato solo es legítimo si es conforme a todas las normas de rango superior [CapGral-2026, documento temático n. 28].
 
+### Según Il senso religioso (SR)
+
+**La autoridad como condición razonable de la fe (cap. II).** La fe en la palabra de otro —el recurso a la autoridad— es admisible si el otro tiene autoridad sobre la materia de que se trata: es el «extremo razonable» con que el hombre participa de la experiencia ajena sin renunciar a su razón (SR, `09_capitolo_secondo.md`, §76-93).
+
+**El riesgo del autoritarismo como idealización (cap. XIII).** La autoridad educadora se ejerce sin idealizaciones: creer que se puede partir de sí sin la mediación humilde de otros es ilusión; el acceso a la realidad pasa por la confianza en quien ya la ha comprendido (SR, `20_capitolo_tredicesimo.md`, §41-52).
+
+**La autoridad pervertida en ídolo (cap. VIII).** Cuando el Estado o el poder absoluto se erige como única medida, la autoridad legítima se corrompe en totalitarismo: se suprime la libertad y la comunidad para imponer una descripción humana de lo real (SR, `15_capitolo_ottavo.md`, §101-119).
 
 ## Relaciones doctrinales
 

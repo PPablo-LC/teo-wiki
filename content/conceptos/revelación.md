@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Revelación
 tags: ["dogmática", "teología_fundamental"]
 
-timestamp: 2026-08-06
-description: "La revelación es la comunicación que Dios hace de sí mismo y de su designio salvífico a los hombres."
+timestamp: 2026-09-12
+description: "La revelación es la comunicación que Dios hace de sí mismo y de su designio salvífico a los hombres; hipótesis razonable según Giussani, posible, conveniente y comprensible sin reducir el misterio."
 ---
 # Revelación
 
 > Área: Dogmática / Teología fundamental
-> Última actualización: 2026-08-06
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -56,6 +56,14 @@ El Concilio de Trento (Sesión IV, D-785-D-786) declaró la Vulgata como edició
 ### Según Elegidos en Cristo para ser santos (Ele_Xto_Stos)
 
 El análisis puramente filosófico considera la vida moral como un proyecto con el que el hombre pretende realizar, a través de sus acciones, el bien completo y definitivo de la propia vida. A la luz de la Revelación comprendemos que el bien humano completo es asumido, purificado, elevado e integrado —mas no alterado— por la llamada a la santidad que se actúa en la configuración con Cristo. La natural capacidad práctica de la razón humana es enriquecida por el horizonte de sentido y por las concretas enseñanzas morales de la Revelación, y las demás facultades operativas son sanadas y elevadas por las virtudes cristianas. La vida moral cristiana significa la activa búsqueda de la santidad, sostenida por la gracia del Espíritu Santo; toda la existencia moral puede entenderse como la respuesta del hombre al don divino que lo ha elevado a la dignidad de hijo de Dios en Cristo por medio del Espíritu Santo. El cristiano sabe que es destinatario de enseñanzas morales precisas que ilustran los modos fundamentales de su respuesta a la llamada divina [Ele_Xto_Stos, Cap. III, §1].
+
+### Según Il senso religioso (SR)
+
+Giussani desarrolla la hipótesis de la revelación como «una novedad no previsible según los criterios humanos, que acontece dentro de la experiencia» (SR, `22_cl_capitulo_xv.md`). La revelación es razonablemente posible porque el misterio, al no ser en sí mismo contradictorio, puede comunicarse; es conveniente (thelo conveniente) porque el hombre desea conocer el significado de la existencia, y es comprensible que el Dios fuente de la vida quiera darse a conocer (SR, cap. XV).
+
+**La exigencia del corazón y la historicidad de la revelación.** El hombre que vive la [[experiencia_elemental]] constata que la salvación no puede ser producida por la propia energía («sería como gritar para ser escuchado»), de modo que solo puede venir de quien es fuente de la vida. Allí donde ese hecho acontece, el hombre debe ser «respetuosamente curioso», sin reducir el misterio a la propia medida (SR, cap. XV). La revelación propone la figura de un Padre: «Que un hombre diga "Padre" dirigiéndose a la fuente última del universo es una frase increíble; que lo diga el Hijo del hombre es una frase increíble» — de ahí *tam pater nemo* (SR, cap. XV).
+
+**Revelación y razón.** La revelación no contradice la razón: el hombre es tal que «no puede alcanzar la totalidad», y la revelación se ofrece para responder a esa apertura estructural. Citando la STh I q.1 a.1, Giussani señala que la salvación no habría llegado sino por la revelación divina (SR, `21_capitulo_xiv.md`).
 
 ## Distinciones importantes
 

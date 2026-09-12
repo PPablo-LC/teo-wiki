@@ -3,17 +3,25 @@ type: Concepto Teológico
 title: Guerra
 tags: ["moral"]
 
-timestamp: 2026-06-08
+timestamp: 2026-09-12
 description: "La guerra es un conflicto armado entre comunidades políticas. No toda guerra es pecado: la guerra justa requiere tres condiciones: autoridad legítima del príncipe, causa justa y recta intención."
 ---
 # Guerra
 
 > Área: Moral
-> Última actualización: 2026-06-08
+> Última actualización: 2026-09-12
 
 ## Definición
 
 La guerra es un conflicto armado entre comunidades políticas. No toda guerra es pecado: la guerra justa requiere tres condiciones: autoridad legítima del príncipe, causa justa y recta intención. Fuera de estas condiciones, la guerra es ilícita.
+
+## Perspectivas por fuente
+
+### Según Il senso religioso (SR)
+
+**La guerra como resultado de la idolatría (cap. XIV).** En el capítulo sobre la energía de la razón, Giussani describe la guerra como consecuencia de la idolatría y de la pretensión de ejercer el poder absoluto: «la violencia y la guerra» son el fruto del ídolo (Lenin, Stalin, Hitler) — cuando el hombre se hace dios, aplasta al prójimo (Gen 3,1-7; Rm 1,22-31) (SR, `21_capitolo_quattordicesimo.md`, §101-115, 116-130).
+
+**La violencia del poder totalitario (cap. VIII).** La eliminación de la pregunta de fondo lleva al poder totalitario, que suprime la libertad y la conciencia; en esa lógica la guerra es el instrumento del Estado-ídolo (SR, `15_capitolo_ottavo.md`, §101-119).
 
 ## Desarrollo doctrinal
 

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Mérito
 tags: ["dogmática", "moral"]
 
-timestamp: 2026-08-06
-description: "El mérito es la retribución debida por parte de una comunidad o sociedad a la acción de uno de sus miembros, considerada como obra buena, digna de recompensa."
+timestamp: 2026-09-12
+description: "El mérito es la retribución debida por parte de una comunidad a la acción de uno de sus miembros; el premio de la vida no se agota en el mundo según Giussani."
 ---
 # Mérito
 
 > Área: Dogmática / Moral
-> Última actualización: 2026-08-06
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -92,6 +92,12 @@ El término mérito indica la retribución debida a una acción o conducta. La S
 En el Nuevo Testamento es omnipresente la idea de la retribución, que tiene lugar ya en este mundo pero sobre todo en la vida eterna: «No hay nadie que haya dejado casa, hermanos o hermanas, madre o padre, o hijos o campos por mí y por el Evangelio, que no reciba en este mundo cien veces más [...]; y en el siglo venidero, la vida eterna» (Mc 10, 29-30). La remuneración será dada «a cada uno según su conducta» (Mt 16, 27), pero «somos unos siervos inútiles» (Lc 17, 10): el premio depende de lo que Dios ha preparado, pues la obra de la salvación es un don gratuito del amor del Padre (Ele_Xto_Stos, Cap. VI, §7).
 
 San Pablo recuerda que el hombre no puede gloriarse de sus obras, porque es Dios quien llama, justifica y glorifica; pero la libertad humana es real y puede aceptar o rechazar el don divino. El significado de la noción bíblica de mérito excede la idea humana de recompensa, porque Dios mismo, con sus dones gratuitos, nos hace idóneos para las buenas obras: el Señor «es tan bueno hacia todos los hombres, que quiere que sus dones se conviertan en méritos de los hombres» (San Juan Damasceno) (Ele_Xto_Stos, Cap. VI, §7).
+
+### Según Il senso religioso (SR)
+
+**«¿De qué le sirve al hombre ganar el mundo?» (cap. V).** Giussani, con la pregunta evangélica (Mt 16,26), interpela la noción de mérito: el sentido de la vida no se agota en la acumulación de logros y bienes. La experiencia de la desproporción —las exigencias del corazón superan toda respuesta humana— sugiere que el «premio» proporcionado al hombre solo puede venir de Dios (SR, `12_capitulo_quinto.md`, §29-60).
+
+**El riesgo de la reducción progresista (cap. VII).** La «alienación por el progreso» —cambiar la salvación por el desarrollo técnico— esconde una concepción meritoria sin trascendencia: se espera del esfuerzo humano lo que solo la gracia puede dar. La respuesta cristiana, en cambio, asume la pregunta y la remite a su compimento divino (SR, `14_capitolo_settimo.md`, §31-60).
 
 ## Distinciones importantes
 

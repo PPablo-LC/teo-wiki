@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Libertad
 tags: ["moral_fundamental", "antropología_teológica"]
 
-timestamp: 2026-09-07
-description: "Facultad de la voluntad por la cual el hombre puede determinar sus propios actos hacia su fin último sin coacción externa ni necesidad interna. Pinckaers distingue dos concepciones antitéticas: libertad de indiferencia y libertad de calidad."
+timestamp: 2026-09-12
+description: "Facultad de la voluntad por la cual el hombre puede determinar sus propios actos hacia su fin último sin coacción externa ni necesidad interna. Pinckaers distingue dos concepciones antitéticas: libertad de indiferencia y libertad de calidad; Giussani la presenta como capacidad del fin último."
 ---
 # Libertad
 
 > Área: Moral Fundamental / Antropología Teológica
-> Última actualización: 2026-09-08
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -118,6 +118,14 @@ Bishop Robert Barron (01_from_the_desk.md) completa esta visión: «somos libres
 - *Vía purgativa:* aprender las reglas del juego — «inicialmente, esto parece algo que nos esclaviza, cuando en realidad es lo que realmente nos libera. Cuando los límites están claramente definidos y aceptados, tenemos más libertad dentro del campo de juego».
 - *Vía iluminativa:* perfeccionar las habilidades con la práctica, pasando de evitar el mal a elegir el bien porque da vida.
 - *Vía unitiva:* jugar por el juego mismo — «la mayor libertad que un atleta o aficionado puede tener, cuando llega al punto de jugar el juego simplemente por el placer de jugar».
+
+### Según Il senso religioso (SR)
+
+**El fracaso de la libertad sin pregunta de fondo (cap. VIII).** Giussani muestra que la reducción de la pregunta última «elimina la libertad»: sin referencia al significado, la libertad se degrada a pura satisfacción. En cambio, «la verdad os hará libres» (Gv 8,32): la libertad verdadera es capacidad del fin último (*compimento*), adhesión a lo que satisface la exigencia del corazón. La libertad se realiza adhiriéndose al Misterio; la fe es un gesto de libertad, no su negación (SR, `15_capitolo_ottavo.md`, §31-75).
+
+**La opción de fondo (cap. XII).** La libertad se juega en la «aventura de la interpretación»: ante el enigma de lo real, el hombre elige obrar «pane al pane, vino al vino» (reducir la realidad a lo utilizable) o abrirse a la totalidad. Se llega a Dios también con la libertad: la elección de fondo no es un presupuesto sino el primer uso responsable de la libertad (SR, `19_capitolo_dodicesimo.md`, §10-30).
+
+**Educación a la libertad (cap. XIII).** La libertad se educa como responsabilidad: la libertad se juega como interpretación del signo, y educarla es educar la atención, la aceptación y la hipótesis positiva. Cita a Newman (*Apologia pro vita sua*): el yo y Dios son los dos seres evidentes; la libertad crece en la medida en que el hombre adhiere al ser y a su significado (SR, `20_capitolo_tredicesimo.md`, §1-9, 66-93).
 
 ## Relaciones doctrinales
 

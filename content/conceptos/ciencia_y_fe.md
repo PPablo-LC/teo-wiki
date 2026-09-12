@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Ciencia y fe
 tags: ["teología_fundamental", "moral_social"]
 
-timestamp: 2026-06-19
+timestamp: 2026-09-12
 description: "La relación entre ciencia y fe se funda en la convicción cristiana de que el progreso científico y técnico, cuando está al servicio del hombre y orientado por la ley moral."
 ---
 # Ciencia y fe
 
 > Área: Teología fundamental / Moral social
-> Última actualización: 2026-06-19
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -38,6 +38,14 @@ El Concilio Vaticano II afirma que el hombre, participante de la luz de la intel
 **El hombre hecho para la adoración.** La progresión del relato de la creación hacia el sábado indica que «la creación está diseñada de tal manera que está orientada hacia la adoración» [EAC-16, 09_science.md]. El hombre, corona de la creación, solo encuentra su plenitud cuando entra en la «pura relación de amor, que es lo que la adoración debe ser». El hombre moderno, que ha sucumbido a verse como producto casual de un proceso material, queda reducido a «exaltarse como medida absoluta de todo o degradarse hasta la desesperación» (GS 12).
 
 **La dignidad de la persona frente al cientificismo reductivo.** Kuebler, biólogo de Franciscan University, enfatiza que «la comprensión católica del ser humano yace más allá de los estrechos confines del método científico» [EAC-16, 09_science.md]. El pensamiento de Dios sobre la creación incluye el proyecto amoroso de llevar a la existencia la criatura con la que pretendía estar en relación eterna: «lo que Dios pretendía desde toda la eternidad».
+
+### Según Il senso religioso (SR)
+
+**Galileo y el conflicto metodológico (cap. II).** Giussani trata explícitamente el caso Galileo: la ciencia y la fe no se contradicen porque ambas buscan la verdad —«la verdad no puede contradecir a la verdad». El error real es metodológico: confundir los ámbitos del saber o elevar una hipótesis científica a negación del Misterio (SR, `09_capitolo_secondo.md`, §45-53).
+
+**El positivismo como bloqueo (cap. VI).** La ciencia legítima no agota lo real: «el positivismo es el bloqueo total de lo humano». Reducir el conocimiento a lo empíricamente verificable elimina la pregunta última y la capacidad de la razón de alcanzar el Misterio (SR, `13_capitolo_sesto.md`, §81-100).
+
+**El misterio, vértice de la razón (cap. XII).** La más alta función de la razón científica es reconocer sus propios límites: Einstein —«la más bella emoción que podemos probar es el sentido del misterio»— y la anécdota de la estudiante y la piedra muestran que el sentido del misterio es la culminación de la ciencia, no su negación (SR, `19_capitolo_dodicesimo.md`, §41-55, 56-70).
 
 ## Distinciones importantes
 

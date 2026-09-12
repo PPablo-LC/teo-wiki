@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Idolatría
 tags: ["moral"]
 
-timestamp: 2026-09-08
-description: "Pecado contra el primer mandamiento que tributa a una criatura la adoración debida a Dios; el deporte se vuelve ídolo cuando el apego al juego suplanta el amor divino."
+timestamp: 2026-09-12
+description: "Pecado contra el primer mandamiento que tributa a una criatura la adoración debida a Dios; la reducción de lo divino a los propios términos según Giussani; el deporte se vuelve ídolo cuando el apego al juego suplanta el amor divino."
 ---
 # Idolatría
 
 > Área: Moral
-> Última actualización: 2026-09-08
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -67,6 +67,14 @@ Kathryn Jean Lopez ofrece una confesión de «recuperada adicta a las noticias»
 **El icono vs. el ídolo (14_art_icons.md):** Cory Heimann usa el logo Jumpman (el salto de Jordan) como caso de estudio: la iconografía deportiva busca la trascendencia, pero «el arte católico no termina en la belleza del atleta; termina en la cruz». El ídolo se detiene en la imagen y la adora; el icono apunta más allá de sí mismo. El deporte sin la cruz es ídolo; con la cruz, es icono.
 
 **Las reglas contra la idolatría del yo (03_word_from_institute.md):** Matthew Petrusek muestra que las reglas del juego liberan de la tiranía del propio querer: «las reglas crean el ámbito mental y físico donde tiene lugar toda la acción». Ganar no es jugar con las propias reglas, sino jugar según las reglas por amor a la bondad del juego. La sumisión a reglas externas es antídoto contra la idolatría del yo autónomo.
+
+### Según Il senso religioso (SR)
+
+Giussani describe el apaño idolátrico como la «reducción de lo divino a los propios términos», un gesto con el que el hombre pretende dominar el significado más allá de lo que puede (SR, `03_capitolo_i.md`, «La estructura del vivir humano»). La idolatría nace de la necesidad humana de certeza: el hombre intenta «arrancar del misterio una certeza» (SR, `03_capitolo_i.md`), refiriéndose a sí mismo, y por eso «se hace un dios, se fabrica un ídolo». Citando la STh I q.1 a.1, señala el riesgo de los «idólatras» que razonan mal sobre Dios (SR, `21_capitulo_xiv.md`).
+
+**La definición de la totalidad propia.** Pretender definir el significado de todo «equivale a pretender ser Dios»: quien lo hace convierte la propia concepción en ídolo. Toda expresión de la totalidad del real que no parta de un dato —es decir, de una presencia que nos alcanza, no que nosotros producimos— «es una pretensión, una "opinión", un ídolo, una reducción idolátrica» (SR, `21_capitulo_xiv.md`).
+
+**La idolatría como apaño.** La reducción de Dios a los propios términos es una de las tres formas en que el hombre intenta librarse del misterio apelando a su propia autonomía; las otras son la negación (el reduccionismo de la razón) y la exaltación (la absolutización del propio yo). En todas ellas la certeza buscada degenera en ídolo (SR, `03_capitolo_i.md`, `21_capitulo_xiv.md`).
 
 ## Relaciones doctrinales
 

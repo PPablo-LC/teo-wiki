@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Ateísmo
 tags: ["dogmática", "moral"]
 
-timestamp: 2026-05-26
-description: "Fenómeno que designa realidades muy diversas."
+timestamp: 2026-09-12
+description: "Fenómeno que designa realidades muy diversas; negación o vaciamiento irracional de la pregunta última según Giussani."
 ---
 # Ateísmo
 
 > Área: Dogmática / Moral
-> Última actualización: 2026-05-26
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -38,6 +38,13 @@ La *Redemptor Hominis* describe el ateísmo como un fenómeno característico de
 
 La encíclica subraya que el fenómeno de la incredulidad, la arreligiosidad y el ateísmo «se comprende solamente en relación con el fenómeno de la religión y de la fe» [RH §17]. La limitación de la libertad religiosa ofende «a la dignidad misma del hombre, independientemente de la religión profesada o de la concepción que ellas tengan del mundo» [RH §17].
 
+### Según Il senso religioso (SR)
+
+**El ateísmo como vaciamiento de la pregunta (cap. VI).** Giussani describe las posiciones frente a la pregunta última en términos de «atteggiamenti irragionevoli»: negar o vaciar la pregunta de fondo es irreal. El ateísmo —negación teórica (Sapegno, Garin, Dewey), negación práctica (Falstaff, Hemingway) o bienestarismo (Thomas Mann)— intenta eliminar el interrogante, pero la pregunta permanece: es la «lucha contra lo evidente» (SR, `13_capitolo_sesto.md`, §13-38, 53-65).
+
+**Ateísmo y positivismo (cap. VI).** El positivismo es «el bloqueo total de lo humano»: la reducción de la realidad a lo verificable empíricamente es la forma científica del vaciamiento de la pregunta y una de las bases del ateísmo moderno (SR, `13_capitolo_sesto.md`, §81-100).
+
+**El ateísmo como idolatría (cap. XIV).** La negación de Dios no es neutral: el hombre que «pretende ser Dios» (Gn 3) termina cayendo en la idolatría —cambiar la verdad de Dios por la mentira (Rm 1,22-31)—. El ateísmo absoluto se convierte en fabricación de ídolos (idea, estado, placer), origen de violencia y guerra (SR, `21_capitolo_quattordicesimo.md`, §89-115).
 
 ## Distinciones importantes
 

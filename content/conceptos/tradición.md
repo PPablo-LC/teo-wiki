@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Tradición
 tags: ["dogmática", "teología_fundamental"]
 
-timestamp: 2026-06-02
-description: "La Tradición (con mayúscula) es la transmisión viva del Evangelio realizada por la Iglesia bajo la asistencia del [[espíritu_santo]]."
+timestamp: 2026-09-12
+description: "La Tradición (con mayúscula) es la transmisión viva del Evangelio realizada por la Iglesia bajo la asistencia del [[espíritu_santo]]; hipótesis razonable a verificar según Giussani."
 ---
 # Tradición
 
 > Área: Dogmática / Teología Fundamental
-> Última actualización: 2026-06-02
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -52,6 +52,12 @@ Cristo prometió al Espíritu Santo: «Él "será quien os lo enseñe todo y os 
 ### Según la Veritatis Splendor (VS)
 
 La Veritatis Splendor (§27) reafirma la Tradición viva como el medio por el cual la Iglesia conserva y transmite a todas las edades lo que es y lo que cree. En la Tradición, la Iglesia acoge la Escritura, confiesa la verdad con los Padres y doctores, practica los preceptos en la vida de los santos, celebra la esperanza en la liturgia. Mediante la Tradición los cristianos reciben «la voz viva del Evangelio». El Magisterio, dentro de la Tradición y con la asistencia del Espíritu Santo, realiza la interpretación auténtica de la ley del Señor.
+
+### Según Il senso religioso (SR)
+
+**La tradición como hipótesis razonable (cap. IV).** Giussani entiende la tradición no como un peso muerto sino como punto de partida del conocimiento: «lo que otros han comprendido» —los contenidos transmitidos por la experiencia de quienes nos precedieron— es una hipótesis razonable que el «yo» debe verificar en su propia experiencia. La tradición ofrecida por la vida humana es un dato del que partir, no un prejuicio del que escapar; negarla de raíz es amputar la propia humanidad (SR, `11_capitolo_quarto.md`, §26-40).
+
+**La ruptura con el pasado (cap. VIII).** La negación de la pregunta de fondo —con su reducción de la realidad— rompe la continuidad de la experiencia: el hombre que niega la tradición heredada se queda sin las claves que otros ya comprendieron, vaciando la pregunta y condenándose a la soledad y la incomunicabilidad. La fidelidad a la tradición, en cambio, mantiene viva la experiencia acumulada del sentido (SR, `15_capitolo_ottavo.md`, §1-15, 16-30).
 
 ## Ver también
 

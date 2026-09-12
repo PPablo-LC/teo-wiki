@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Pecado original
 tags: ["dogmática"]
 
-timestamp: 2026-09-02
-description: "El pecado original es el pecado cometido por nuestros primeros padres (Adán y Eva) en el origen de la humanidad."
+timestamp: 2026-09-12
+description: "El pecado original es el pecado cometido por nuestros primeros padres en el origen de la humanidad; pretensión de «ser como dioses» según Giussani."
 ---
 # Pecado original
 
 > Área: Dogmática
-> Última actualización: 2026-09-02
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -192,6 +192,12 @@ El texto subraya la importancia del estudio del pecado original para comprender 
 **En un mundo caído, sufrimiento y amor están misteriosamente unidos (Edyta McNichol, sobre santa Faustina).** Faustina comprendió que «en un mundo caído, el sufrimiento y el amor están misteriosa pero inextricablemente unidos»: «por el sufrimiento el alma se vuelve semejante al Salvador»; «cuanto mayor es el sufrimiento, más puro el amor». El sufrimiento, arraigado en la condición caída, es el camino por el que se aprende a amar a Dios y a amar como Dios: «no hay camino al cielo excepto el camino de la cruz» [EAC-15, 05].
 
 **La condición caída y la necesidad de redención (Gary Saul Morson).** En la reflexión de Dostoievski sobre la literatura rusa, la doctrina del pecado original expresa que la capacidad del mal es esencial al ser humano —pero también lo es la capacidad del bien: los hombres aman a Sodoma y a la Madona; están sumidos en la pecaminosidad pero también han sido hechos a imagen de Dios [EAC-15, 17].
+
+### Según Il senso religioso (SR)
+
+**El «seréis como dioses» (cap. XIV).** Giussani describe la génesis del pecado como el intento de reducir el Misterio a la propia medida: la sugerencia de la serpiente «seréis como dioses» (Gn 3,1-7) — el hombre que quiere determinar por sí mismo el bien y el mal y eliminar la distancia con el Absoluto (SR, `21_capitolo_quattordicesimo.md`, §89-100).
+
+**La impaciencia que fabrica ídolos (cap. XIV).** La «impaciencia de la razón» (Es 32,1-4: el becerro de oro) y la idolatría —cambiar la verdad de Dios por la mentira (Rm 1,22-31)— prolongan la pretensión edénica; de esa pretensión nacen la violencia y la guerra (SR, `21_capitolo_quattordicesimo.md`, §59-70, 101-130).
 
 ## Distinciones importantes
 

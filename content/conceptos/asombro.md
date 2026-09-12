@@ -2,13 +2,13 @@
 type: Concepto Teológico
 title: Asombro
 tags: ["filosofía", "contemplación"]
-timestamp: 2026-09-02
-description: "El asombro (pathē) como principio (archē) de la filosofía según Platón y Aristóteles; disposición que prepara y acompaña la contemplación de la verdad."
+timestamp: 2026-09-12
+description: "El asombro (pathē) como principio (archē) de la filosofía según Platón y Aristóteles; estupor de la presencia según Giussani (Kant, Burke, Heschel); disposición que prepara y acompaña la contemplación de la verdad."
 ---
 # Asombro
 
 > Área: Filosofía
-> Última actualización: 2026-09-02
+> Última actualización: 2026-09-12
 
 ## Definición
 
@@ -25,6 +25,18 @@ Para la tradición clásica, la filosofía comienza con el asombro: «empieza co
 **D.C. Schindler (14_feature_schindler.md).** Platón y Aristóteles, «los dos grandes pensadores de la antigüedad que guardan, por así decirlo, la puerta de la tradición filosófica clásica», señalaron la experiencia —mejor, la «pasión» (*pathē*)— del asombro como el principio esencial u origen (*archē*) del filosofar. Sus afirmaciones no son meras «teorías» que puedan compararse indiferentemente con otras, sino que tienen algo genuinamente autoritativo, porque pueden mostrar algo esencial sobre la naturaleza de la filosofía. La demostración se logra pidiendo a los estudiantes que entren en su propia experiencia de asombro, que «vean cómo es», no disecándolo como un cadáver sino pensándolo desde dentro, distinguiéndolo de la admiración, la duda o el temor reverente. El maestro «alterna» entre los textos de los filósofos clásicos y la experiencia de los estudiantes, dejando que los primeros guíen e iluminen a la segunda, y que esta dé vida a aquellos. Hay «intuiciones de la tradición que no pueden captarse sin asombro», como la trascendencia irreductible de la forma inteligible. Si se entra a la filosofía por la puerta correcta, se adquiere «un sentido de misterio que no compite con el conocimiento… sino que crece y se profundiza a la par». Cuanto más sabemos, más misteriosas se vuelven las cosas; cuanto más atendemos inteligentemente al misterio, mejor comprendemos.
 
 **Andrew Youngblood (20_spotlight_youngblood.md).** La educación clásica católica, tal como la expone Youngblood, despierta el asombro. En su definición, inmerge a los estudiantes en la unidad de la verdad y los transforma mediante una cosmovisión metafísica: toda la realidad es permeada por la verdad, la bondad y la belleza. El asombro aparece ligado al deseo de conocer y a la salvación del alma en la lectura de la gran literatura y las artes, enseñando al alumno a maravillarse ante lo verdadero, bueno y bello.
+
+### Según Il senso religioso (SR)
+
+Giussani sitúa el asombro como el punto de partida del itinerario del sentido religioso: la «presencia» de la realidad provoca y despierta la pregunta última (SR, `17_capitulo_decimo.md`).
+
+**El estupor y lo sublime (cap. V).** Apoyándose en Kant y Burke, describe cómo lo sublime despierta el estupor ante la «presencia» del ser: la experiencia de la desproporción entre el hombre y su destino nos abre a la pregunta por el sentido. El estupor es la actitud radical ante lo real que precede y acompaña al conocimiento: asombrarse ante el hecho de que las cosas existan (SR, `12_capitulo_quinto.md`, §126-140).
+
+**Asombro y presencia (cap. X).** Citando a Abraham Heschel, presenta el «asombro absoluto» como actitud radical ante el misterio de lo existente: la realidad no es un dato neutro, sino algo que nos alcanza y nos interpela. La estupor de la presencia es el comienzo de la vía que conduce a la pregunta por el origen y el sentido (SR, `17_capitulo_decimo.md`, §1-10, 21-32).
+
+**La provocación del signo (cap. XI).** El asombro es la apertura por la que la realidad «provoca» hacia otro: la percepción de lo real como signo de algo más nos sostiene en la atención sin reducir el misterio. Sin esa apertura, la duda sistemática del positivismo impide el conocimiento (SR, `18_capitulo_undicesimo.md`, §1-10; `19_capitulo_dodicesimo.md`).
+
+El asombro, así, no es un conocimiento acabado sino la disposición que hace posible el preguntar: cuanto más se conoce, más se profundiza el misterio y el asombro (SR, `18_capitulo_undicesimo.md`, §131-158).
 
 ## Distinciones importantes
 
