@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Templo
 tags: ["liturgia"]
 
-timestamp: 2026-06-02
+timestamp: 2026-09-13
 description: "Edificio destinado al culto divino, casa de Dios y casa de oración."
 ---
 # Templo
 
 > Área: Liturgia
-> Última actualización: 2026-06-02
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -49,6 +49,12 @@ Benedicto XVI dedica los capítulos 2 y 3 de *Jesús de Nazaret II* a la purific
 
 **El «tiempo de los paganos» (cap. 3).** Entre la primera y la segunda venida se abre un plazo histórico —«el tiempo de los paganos» (Lc 21,24)— en el que la Iglesia es el nuevo Templo, el lugar de la presencia de Dios en el mundo. La destrucción del 70 d.C. marca el fin del culto judío y la consolidación de la Iglesia como el nuevo pueblo de Dios.
 
+### Giussani — Affezione e dimora (AED)
+
+En la Tischrede 175 (AED, 26, 99-117), el templo es el punto de intersección del tiempo y del espacio donde el Mistero se hace presencia: «Un luogo è un punto o una zona d'intersezione del tempo e dello spazio» (AED, 26, 99). El Mistero se identifica con su signo (AED, 26, 97), y por eso el primer templo no fue el cosmos sino un hombre: «Il primo tempio, perciò, fu dove nacque quell'uomo, il seno della donna in cui nacque quell'uomo; e la dilatazione del tempio fu la casa dove quell'uomo visse, si sviluppò; e poi, la realtà umana che lo riconobbe» (AED, 26, 117).
+
+La realidad entera queda ante la alternativa: «La realtà: o tempio o abisso senza senso» (AED, 26, 125). En la conversación de Riva del Garda (AED, 05, 13), la santidad acontece «dentro il tempio di cui ci ha reso parte (costruttori, edificatori del tempio)», el templo de la compañía donde Dios habita.
+
 ## Distinciones importantes
 
 - Templo edificio material vs. Templo espiritual (Cristo, la Iglesia, el cristiano)
@@ -65,3 +71,5 @@ Benedicto XVI dedica los capítulos 2 y 3 de *Jesús de Nazaret II* a la purific
 - CEC §583-586, §1179-1186, §1197-1198, §1265, §1269
 - CEC §1180-1184
 - Jn 2,19-21; 1 Co 3,16; 1 Co 6,19; 1 Pe 2,4-5
+- AED, 26 (§97-99, 117, 125) — Tischrede 175: *Un luogo* — el templo como punto de intersección del tiempo y del espacio; la realidad o templo o abismo sin sentido.
+- AED, 05 (§13) — Retiro de Cuaresma, Riva del Garda, 1996: el creyente como parte y edificador del templo.

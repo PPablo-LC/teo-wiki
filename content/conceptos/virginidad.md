@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Virginidad
 tags: ["moral", "ascética"]
 
-timestamp: 2026-06-14
+timestamp: 2026-09-13
 description: "Estado de vida de quienes renuncian voluntariamente al matrimonio y a la actividad sexual para consagrarse más libremente a Dios y al servicio del Reino."
 ---
 # Virginidad
 
 > Área: Moral / Ascética
-> Última actualización: 2026-06-14
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -76,6 +76,14 @@ La superioridad de la virginidad como vocación excepcional no significa infrava
 
 «El célibe se cuida de las cosas del Señor, de cómo agradar al Señor» (1 Cor 7,32). «Agradar a Dios» es síntesis teológica de la santidad (TdC 05.05.1982).
 
+### Giussani — Affezione e dimora (AED)
+
+En la Tischrede 184 (AED, 20, 21), la profesión inaugura la experiencia de la virginidad: «la professione è un giudizio e un impegno con questo giudizio, un'affettività che si lega a questo giudizio: è il "Sì, ti amo" di san Pietro» (cf. Gv 21,15). La virginidad se revela en la permanencia: «l'impegno della verginità, che hai accettata nella professione, è per sua natura permanenza, ed è nella permanenza che la verginità rivela se stessa» (AED, 20, 61).
+
+En la Tischrede 186 (AED, 34, 45-47), la virginidad es el signo más inmediato del ideal por el que vale la pena dar la vida: «il miracolo più grande, cioè la cosa più immediatamente dimostrativa dell'ideale per cui sarebbe giusto dare la vita, è la verginità». Por eso es testimonio, no fuga.
+
+En la Tischrede 102 (AED, 22, 119-121), la virginidad es la virtud ideal de toda relación: «la verginità è un possesso con un distacco dentro»; sin ese desapego, «scivoli». Y en la Tischrede 147 (AED, 07, 77), la vocación a la virginidad o es «consapevole esercizio» de lo que se proclama, o «corrompe il senso del suo tempo»: sin conciencia, la renuncia se vuelve traición de la propia vocación.
+
 ## Distinciones importantes
 
 - Virginidad ≠ castidad: la castidad es virtud para todos; la virginidad es estado de vida
@@ -97,3 +105,7 @@ La superioridad de la virginidad como vocación excepcional no significa infrava
 - [TdC 07.04.1982]
 - [TdC 28.04.1982]
 - [TdC 05.05.1982]
+- AED, 20 (§21, 61) — Tischrede 184: *Situazione temporalesca* — la profesión como inicio de la virginidad; la permanencia.
+- AED, 34 (§45-47) — Tischrede 186: *Un altro mondo* — la virginidad como signo del ideal por el que dar la vida.
+- AED, 22 (§119-121) — Tischrede 102: *L'adorazione possibile* — la virginidad como posesión con un desapego dentro.
+- AED, 07 (§77) — Tischrede 147: *Incollamenti e strappi* — la vocación virginal como ejercicio consciente.

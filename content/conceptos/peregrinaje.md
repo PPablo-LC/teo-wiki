@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Peregrinaje
-tags: ["espiritualidad", "antropología_teatológica"]
+tags: ["espiritualidad", "antropología_teológica"]
 
 timestamp: 2026-08-19
 description: "El peregrinaje como experiencia soteriológica y camino espiritual; el cristiano como peregrino hacia la patria eterna."

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Fidelidad
 tags: ["moral"]
 
-timestamp: 2026-08-09
+timestamp: 2026-09-13
 description: "La fidelidad es la virtud moral que inclina la voluntad a cumplir lo prometido, conformando la promesa con los hechos. Está íntimamente relacionada con la veracidad y la simplicidad."
 ---
 # Fidelidad
 
 > Área: Moral
-> Última actualización: 2026-08-09
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -68,6 +68,12 @@ La fidelidad de Cristo alcanza en la Cruz su máxima expresión, por lo que «se
 
 La fachada de la catedral enseña que la diversidad de estilos sacerdotales es una riqueza «siempre y cuando se mantenga un doble compromiso de fidelidad: de fidelidad al Dios que se nos ha revelado y fidelidad a los hombres que buscan a Dios». En las columnas, León XIV pide fidelidad doctrinal: «la caridad sin la verdad es un engaño que, con frecuencia, esconde la búsqueda de reconocimiento o también la mundanización». Munilla subraya que «tú tenías que estar afianzado en la revelación de la Iglesia, que tú no respondías desde ti mismo»: el sacerdote que deja de hablar desde Cristo «pierde el fundamento» y acaba contagiándose de las dudas de los demás (como el sacerdote secularizado de Milán, que citaba entre sus razones «dudas doctrinales por preguntas de los jóvenes»). La fidelidad es la condición de las columnas: «sin columnas, la bóveda se cae» [CIS, 2026].
 
+### Giussani — Affezione e dimora (AED)
+
+En la Tischrede 41 (AED, 12, 85), la fidelidad es correspondencia a la alianza: «Come Dio è fedele alla sua alleanza, così noi siamo fedeli all'alleanza che Cristo ha avuto con noi: ci stiamo». La primera cosa es «essere fedeli alla strada», sostenida por «la fedeltà alla compagnia, perché rende facile, visibile e sensibile quello che non è visibile e sensibile sempre»; como de Cristo se dice —«il suo non è un sì o un no: il suo è un sì» (cf. 2Cor 1,19)—, así el fiel «ci sta».
+
+En la Tischrede 49 (AED, 33, 85), «la fedeltà è il nesso tra l'amore, come si percepisce, e la totalità. La fedeltà è la moralità dell'amore»; y en la Tischrede 45 (AED, 17, 269), es «l'obbedienza nel suo dinamismo attuantesi». En la Tischrede 180 (AED, 28, 127-131), su fundamento es ontológico: «vi rende ognuna membro dell'altra; sì, come parte di un corpo il cui io è Cristo» (cf. Rm 12, 5; 1 Cor 12), y «non c'è, per sé, nessuna possibilità di bello o di cattivo che lo possa contestare».
+
 ## Distinciones importantes
 
 - **Fidelidad a la gracia**: respuesta generosa a las mociones e inspiraciones divinas
@@ -91,3 +97,7 @@ La fidelidad se relaciona con la [[veracidad]] y la [[justicia]]. La [[fidelidad
 - [UFGF, 22.12.2025]
 - [VocExp, §Perseverancia y fidelidad]
 - [CIS, «La catedral interior del sacerdote», 2026]
+- AED, 12 (§85) — Tischrede 41: *La preferenza per Cristo* — la fidelidad a la alianza y a la strada.
+- AED, 33 (§85) — Tischrede 49: *La discrezione* — la fidelidad como moralidad del amor.
+- AED, 17 (§269) — Tischrede 45: *L'affermazione amorosa* — la fidelidad como dinamismo actuante de la obediencia.
+- AED, 28 (§127-131) — Tischrede 180: *Il legame più forte* — el vínculo que hace membra unos de otros.

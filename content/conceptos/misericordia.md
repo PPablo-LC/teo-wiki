@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Misericordia
 tags: ["dogmática"]
 
-timestamp: 2026-08-29
+timestamp: 2026-09-13
 description: "La misericordia es el atributo divino por el cual Dios, movido por su infinita bondad, se compadece de la miseria humana."
 ---
 # Misericordia
 
 > Área: Dogmática
-> Última actualización: 2026-08-29
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -142,6 +142,12 @@ La parábola del Buen Samaritano presupone «una geografía moral muy específic
 
 DeLorenzo conecta esta geografía de la misericordia con la evangelización de los jóvenes: la «sensibilidad al sufrimiento» es, junto con la atención, una de las dos condiciones naturales que deben restaurarse para que el Evangelio arraigue.
 
+### Giussani — Affezione e dimora (AED)
+
+En la Tischrede 184 (AED, 20, 27-29), la certeza de ser «guardata con misericordia» es la experiencia que cambia la vida: «Con amore. Perché la scelta è il sintomo più sintetico ed essenziale dell'essere amati».
+
+En la Tischrede 179 (AED, 24, 209), la misericordia escapa a la lógica de la justicia: «Non ti perdona perché conclude un'equazione, ma ti abbraccia e redime perché è misericordia». La nota a ese pasaje la define como «il Mistero da cui tutto in noi s'origina, a cui tutto in noi è diretto, di cui tutto è fatto» (AED, 24, nota 21), y la imagen del padre la ilustra: «quando allarga le braccia, non abbraccia il figlio, abbraccia tutte le porcherie che ha fatto» (AED, 24, nota 22; Tischrede 168). La misericordia culmina en la certeza: «Chi ha vissuto quell'istante, Dio non lo può più misconoscere: questa è la misericordia» (AED, 24, 221).
+
 ## Distinciones importantes
 
 - **Misericordia** ≠ **justicia**: la misericordia no se opone a la justicia, sino que la perfecciona y la trasciende.
@@ -182,3 +188,5 @@ La misericordia se relaciona con la [[justicia_divina]], la [[penitencia]], el [
 - [SFrAs, SalV. 1-9 — Misericordia como caridad]
 - [CIS, «La catedral interior del sacerdote», 2026]
 - Evangelization & Culture, Issue 6 (EcC6): §§04, 07, 10, 12 (Scalia, Worner, Zimmerer, Seewald)
+- AED, 20 (§27-29) — Tischrede 184: *Situazione temporalesca* — la certeza de ser mirados con misericordia y la elección como síntoma del ser amado.
+- AED, 24 (§209, 221) — Tischrede 179: *Preferenza e segno* — la misericordia que no concluye una ecuación y la certeza de la gracia vivida.

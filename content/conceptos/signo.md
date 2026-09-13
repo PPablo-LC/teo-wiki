@@ -3,11 +3,11 @@ type: Concepto Teológico
 title: "Signo"
 description: "Realidad experimentable que remite a otra: modalidad demostrativa con que la naturaleza y la historia convocan al hombre a buscar el significado último."
 tags: ["teología_fundamental", "epistemología", "signo", "revelación_natural"]
-timestamp: 2026-09-12
+timestamp: 2026-09-13
 ---
 
 > Área: Teología fundamental / Filosofía
-> Última actualización: 2026-09-12
+> Última actualización: 2026-09-13
 
 # Signo
 
@@ -27,6 +27,12 @@ Toda realidad, en su impacto con la conciencia, provoca una apertura: no se agot
 - Capítulo XII — el mundo como parábola (Mt 13,10ss): el signo «svela y vela»; la interpretación como «técnica del juego» donde se juega la libertad
 - Capítulo X — el *analogía*: el mundo es como un *logos* que renvía «más allá» (*anà* en griego); la estructura dinámica del impacto del hombre con la realidad
 - Capítulo XIV — conclusión: «el mundo es un signo; la realidad llama a Otro»
+
+### Giussani — Affezione e dimora (AED)
+
+En *Affezione e dimora*, Giussani retoma el signo como «una cosa cuyo significado es EL OTRO»: «A es signo de B porque, cuanto más vives y amas A por lo que es, tanto más esperas B»; «aquello de lo que una cosa es signo está más presente en la cosa de cuanto la cosa esté presente» — así la cruz de madera, si no fuera signo de Cristo, se tiraría al fuego (AED, 08, 205-211). El valor de las cosas está en ser signo del Misterio: «toda cosa es signo del Misterio», y Jesús «se detenía a mirar la florecilla del campo con maravilla, pensando en el Padre» (AED, 24, 41). «El Misterio coincide con el signo»: el Misterio se identifica con su signo hasta el punto de que «el primer signo del Misterio es el universo» (AED, 28, 167-169; AED, 26, 97-101).
+
+El opuesto del signo es el poseer: quien posee detiene la relación que la cosa abre; el signo, en cambio, se adora — se «deja atraer tanto por la apariencia que se llega a la intimidad de la apariencia», hasta desembocar en el Tú que la habita (AED, 09, 23; AED, 29, 107-109). La madurez consiste precisamente en esto: penetrar la apariencia sin quedarse en ella, porque «si no, no es verdad que amas la apariencia: quieres poseerla, pero no la amas» (AED, 29, 107).
 
 ## Distinciones importantes
 

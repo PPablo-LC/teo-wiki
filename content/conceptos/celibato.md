@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Celibato
 tags: ["moral_—_eclesiología"]
 
-timestamp: 2026-06-14
+timestamp: 2026-09-13
 description: "Estado de vida de quienes, por motivos sobrenaturales, renuncian voluntariamente al matrimonio para consagrarse más libremente al servicio de Dios y del Reino."
 ---
 # Celibato
 
 > Área: Moral — Eclesiología
-> Última actualización: 2026-06-14
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -59,6 +59,12 @@ El celibato confirma el significado esponsalicio del cuerpo: «ese 'para', prese
 
 La renuncia al matrimonio es «una particular forma de afirmación del valor del significado nupcial del cuerpo» que sirve para confirmarlo «en toda su verdad y belleza personal» (TdC 05.05.1982).
 
+### Giussani — Affezione e dimora (AED)
+
+Giussani recoge la anécdota de un grupo de sacerdotes brasileños que envió a Pío XII la petición formal de poder casarse —«porque también san Pablo dice: "Si uno arde, que se case"» (1 Cor 7,9)— y la respuesta del Papa fue: «*Urantur*, que se quemen». Es decir, «hay un criterio más importante que el que aplicáis vosotros»: la fuerza de todo vínculo verdadero —también del celibato por el Reino— no la da la comodidad de las evidencias intermedias, sino el designio de Dios (AED, 07, 69).
+
+La vocación a la virginidad «o es ejercicio consciente de todo lo que decimos… o corrompe el sentido de su tiempo» (AED, 07, 77). Quien se instala en el punto al que Dios lo llamaba ve disolverse «el sentimiento de malestar o de rabia por haber tenido que abandonar ciertas evidencias» (AED, 07, 75); en cambio, quien traiciona su vocación «no será jamás gozoso, jamás» (AED, 07, 79). Y quien busca vivir ese fin, desgarrándose continuamente de los incollamenti, «llegará a la alegría. No en el otro mundo, sino en este mundo, porque la alegría es la profecía de la felicidad, la alegría es el anticipo de lo eterno» (AED, 07, 81).
+
 ## Distinciones importantes
 
 - **Celibato vs. castidad**: la castidad es virtud para todos; el celibato es un estado de vida que implica continencia perpetua
@@ -86,3 +92,6 @@ El celibato se relaciona con la [[castidad]], la [[virginidad]], el [[estado_rel
 - [TdC 21.04.1982]
 - [TdC 28.04.1982]
 - [TdC 05.05.1982]
+- AED — Giussani, *Affezione e dimora* (*Afección y morada*), BUR Rizzoli, 2007.
+- AED, 07, 69 — Tischrede 147: *Incollamenti e strappi* — *Urantur*: criterio del designio divino.
+- AED, 07, 75-81 — Tischrede 147: *Incollamenti e strappi* — la vocación a la virginidad y la alegría anticipo de lo eterno.

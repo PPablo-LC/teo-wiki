@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Fe
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-09-12
+timestamp: 2026-09-13
 description: "La fe es la primera de las virtudes teologales, virtud infusa sobrenatural por la que creemos firmemente todas las verdades que Dios ha revelado; acto razonable de adhesión a una persona según Giussani."
 ---
 # Fe
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-09-12
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -149,6 +149,12 @@ Fernanda Psihas confirma, desde la misión, que la fe se vive y se transmite en 
 **El riesgo de la fe (cap. XIII).** La fe implica riesgo: «el riesgo no es un gesto sin razones adecuadas». La aventura de la interpretación es una travesía en la que la libertad adhiere a la evidencia de los signos, empezando por una hipótesis positiva (SR, `20_capitolo_tredicesimo.md`, §41-52, 53-65). Cita a Jacobo luchando con Dios en el oscuro (Gn 32,23-33): la fe es la estatura del hombre frente al Misterio (SR, `21_capitolo_quattordicesimo.md`, §29-45).
 
 **La fe y el sentido religioso (cap. IX).** El sentido religioso es «la razón en plenitud», no un salto ciego; la fe racional es la adhesión vital a un Misterio en que la razón se apoya en motivos adecuados. Negarla como «irracional» es reducir la razón a esquema (SR, `16_capitolo_nono.md`, §39-50).
+
+### Giussani — Affezione e dimora (AED)
+
+En *Affezione e dimora*, la fe es la adhesión a una Presencia que «se presenta» en lo real: «la fe, para llegar a ser realidad, debe tener que ver con la realidad», porque «la fe tiene que ver con la realidad cuando cambia el yo en su movimiento dentro de la realidad»; «en este sentido la fe se llama memoria» (AED, 11, 19-25). Lejos de ser una evasión, «la fe hace entusiastas de la realidad» (AED, 11, 89). Su aventura es la del que «descubre una presencia por la que el corazón es herido y reclamado», y por eso todo se conmueve y se pone en acción (AED, 27, 225).
+
+La fe culmina ante la presencia de Cristo: «hay solamente o Cristo o la nada, porque solo Cristo afirma la realidad por lo que ella es» (AED, 24, 117-119). Por eso el acto de fe se ordena al sacrificio — «el sacrificio de la pretensión» y de «preferir la afirmación de una presencia a la afirmación de uno mismo» (AED, 18, 219-229) — y nace de una opción de amor: «primero que el sacrificio está el amor a una Presencia»; de ahí el «estote parati» (Mt 24,44), la vigilia de quien vive de su presencia (AED, 19, 123). La razón misma toca su vértice afirmando la fe (AED, 29, 61-63).
 
 ## Analizado para
 

@@ -12,7 +12,7 @@ timestamp: 2026-09-12
 ---
 
 > Área: Personas / Teología fundamental
-> Última actualización: 2026-09-12
+> Última actualización: 2026-09-13
 
 # Luigi Giussani
 
@@ -30,11 +30,16 @@ Giussani propone que la verdadera esencia de la racionalidad y la raíz de la co
 ### Il senso religioso (SR)
 En el archivo `01_biografia.md` se resume su itinerario biográfico e intelectual. En la `05_prefazione.md`, el cardenal James Francis Stafford presenta el PerCorso como una serie de reflexiones que nacen de la preocupación educativa de comunicar la razonabilidad del «hecho cristiano» a través de la experiencia de la propia humanidad. Según Giussani, la mentalidad moderna reduce la razón a una serie de «categorías en las que la realidad es forzada a entrar: lo que no entra en estas categorías se define como irracional». La razón, al contrario, «es como un ojo abierto de par en par sobre la realidad», que lo recibe todo y se esfuerza por abrazarlo; por eso es preciso tener una verdadera pasión por la razonabilidad.
 
+### Affezione e dimora (AED)
+Quinto volumen del PerCorso (serie «Quasi Tischreden»), fruto de más de doscientos encuentros semanales con jóvenes de los *Memores Domini* desde 1990. En el archivo `00_frontespizio.md` se lee la tesis que atraviesa todo el volumen: el mundo descarta nuestra capacidad afectiva, reduciéndola a instintividad; sobre ella, sin embargo, Dios construye amistad, casa, dimora, sociedad y una época nueva. En `03_nota_per_la_lettura.md`, la nota editorial explica el método: los primeros 22 encuentros son apuntes y desde el 22-5-1991, transcripciones fieles. El volumen muestra a Giussani en su tarea de educador de la afección: hace de la presencia de Cristo una preferencia humana (Tischrede 41, `12_la_preferenza_per_cristo.md`), desarrolla el sentido del sacrificio como condición (Parte III) y presenta la casa y la compañía como método de la fe (`Magister adest`, Tischrede 114, `31_la_radice_della_compagnia.md`).
+
 ## Ver también
 
-- [[comunión_y_liberación]] [[il_senso_religioso]] [[sentido_religioso]] [[razón]] [[fe_y_razón]] [[hecho_cristiano]]
+- [[comunión_y_liberación]] [[il_senso_religioso]] [[sentido_religioso]] [[razón]] [[fe_y_razón]] [[hecho_cristiano]] [[affezione_e_dimora]] [[afección]] [[capacidad_afectiva]] [[preferencia_por_cristo]] [[morada]] [[compañía]]
 
 ## Referencias
 
 - SR, archivo `01_biografia.md` — biografía
 - SR, archivo `05_prefazione.md` — prefacio de James Francis Stafford
+- AED, archivo `00_frontespizio.md` — texto de portada y tesis del volumen
+- AED, archivo `03_nota_per_la_lettura.md` — nota editorial de la serie

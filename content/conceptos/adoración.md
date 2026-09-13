@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Adoración
 tags: ["moral_—_dogmática"]
 
-timestamp: 2026-08-06
+timestamp: 2026-09-13
 description: "Acto primero de la virtud de la religión por el cual el hombre reconoce a Dios como su Creador y Señor supremo, rindiéndole el honor y la sumisión total que le son debidos como a su fin último."
 ---
 # Adoración
 
 > Área: Moral — Dogmática
-> Última actualización: 2026-08-06
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -70,6 +70,10 @@ El amor y la unión con el Señor, que conllevan el cumplimiento de su voluntad,
 
 **Sreyro** presenta la adoración como la más profunda *metamorphosis*: transforma lo que haces en aquello que adoras. La adoración re-ordena la vida entera, estableciendo un ritmo continuo de la vida divina — no como acto aislado sino como disposition permanente que configura cada dimensión de la existencia. Adorar a Dios es permitir que Él se convierta en el centro de todo lo que se es y se hace, de modo que la vida misma se convierte en un acto de culto.
 
+### Giussani — Affezione e dimora (AED)
+
+En la Tischrede 102 (AED, 22, 57-65), Giussani presenta la adoración como la forma más alta del amor: «Il dar su di giri massimo dell'amore sta nella adorazione dell'altro». Adorar es reconocer en lo amado el signo del Mistero, su consistencia en Cristo, y desear su revelación: «Adorazione che implica: riconoscere che Cristo è consistenza della presenza, e struggimento perché si riveli in questa presenza» (AED, 22, 65). De ahí el «metro de distancia» respetuoso del amor humano —«l'uomo non può adorare la donna che ama, se non da un metro di distanza» (AED, 22, 59)— y la paradoja de la posesión verdadera: «se non si adora un oggetto, non lo si possiede bene» (AED, 22, 65). La adoración es la manera de estar en la realidad sin poseerla de manera desordenada.
+
 ## Distinciones importantes
 
 - **Adoración (latría) vs. veneración (dulía)**: la adoración se debe solo a Dios; a los santos y ángeles se les da culto de dulía
@@ -92,3 +96,4 @@ La adoración pertenece a la [[virtud_de_la_religión]], que es parte de la [[ju
 - SmTh IIIª q.25 a.1-6
 - [VocTeoBib, «Adoración»]
 - Ele_Xto_Stos, Cap. III, §4a
+- AED, 22 (§59, 65) — Tischrede 102: *L'adorazione possibile* — la adoración como vértice del amor; el «metro de distancia» y la posesión verdadera.

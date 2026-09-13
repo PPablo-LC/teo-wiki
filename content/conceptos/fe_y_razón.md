@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Fe y Razón
 tags: ["dogmática"]
 
-timestamp: 2026-09-12
+timestamp: 2026-09-13
 description: "La relación entre la fe y la razón designa la armonía y mutua colaboración entre el conocimiento sobrenatural (fe) y el conocimiento natural (razón); la fe como acto razonable según Giussani."
 ---
 # Fe y Razón
 
 > Área: Dogmática
-> Última actualización: 2026-09-12
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -103,6 +103,12 @@ James Francis Stafford, en el prefacio, sintetiza la tesis del PerCorso: «la fe
 
 **La síntesis: adhesión vital a un Misterio.** La fe es «adhesión vital a un Misterio en que la razón se apoya en motivos adecuados». Razonabilidad y fe no se oponen: el sentido religioso es «la razón en plenitud», no un salto ciego; negarlo como «irracional» es reducir la razón a esquema (SR, `09_capitolo_secondo.md`, §101-121; `16_capitolo_nono.md`, §39-50, 79-89).
 
+### Giussani — Affezione e dimora (AED)
+
+Giussani profundiza esta armonía afirmando que la fe «afirma un factor de la realidad que completa el análisis de la realidad»: un factor que no se mide en tiempo ni en espacio, que no es totalmente tangible, pero que «es tangible y experimentable en su signo». Por eso creer no es oponerse a la razón sino llevarla a su culmen: «vosotros sois racionales si afirmáis ese algo más»; ese algo más «es Cristo» (AED, 29, 55-61).
+
+La razón es «el faro que ilumina todo» hasta el límite de lo que puede alcanzar; pero no es «el último muro de contención: hay algo más». Tener «la sencillez y el coraje de afirmar ese algo más» es lo que hace razonable al hombre (AED, 29, 63-67). La afirmación de la fe no contradice la razón porque la realidad en su plenitud es signo de una Presencia que la supera (AED, 17, 225).
+
 ## Distinciones importantes
 
 - **Preámbulos de la fe**: verdades racionales que preparan para la fe (existencia de Dios, inmortalidad del alma).
@@ -137,3 +143,7 @@ La relación entre fe y razón es fundamental para la [[teología_fundamental]],
 - [EAC-15, 03, 14, 16, 21]
 - [EAC-16, 01_from_the_desk.md, 02_word_from_institute.md, 05_stacks.md, 15_feature_rowland.md]
 - EAC-17, *Evangelization & Culture, Issue 17 — Education* (Autumn 2023), Word on Fire Institute (Petrusek, 05_lives.md; Minnis, 19_special_feature_minnis.md; Youngblood, 20_spotlight_youngblood.md)
+- AED — Giussani, *Affezione e dimora* (*Afección y morada*), BUR Rizzoli, 2007.
+- AED, 29, 55-61 — Tischrede 103: *Al cuore dell'apparenza* — la fe afirma un factor de la realidad que completa su análisis.
+- AED, 29, 63-67 — Tischrede 103: *Al cuore dell'apparenza* — la razón como faro que se abre a un algo más.
+- AED, 17, 225 — Tischrede 45: *L'affermazione amorosa* — la realidad en plenitud es signo de una Presencia.

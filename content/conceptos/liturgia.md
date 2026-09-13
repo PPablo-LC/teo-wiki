@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Liturgia
 tags: ["dogmática", "sacramental"]
 
-timestamp: 2026-09-07
+timestamp: 2026-09-13
 description: "La liturgia es la obra de la Santísima Trinidad en favor de la Iglesia: el Padre es reconocido y adorado como la fuente de todas las bendiciones."
 ---
 # Liturgia
 
 > Área: Dogmática / Sacramental
-> Última actualización: 2026-09-07
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -83,6 +83,12 @@ La *Institutio Generalis Missalis Romani* (edición típica revisada del año 20
 
 **La liturgia y las prácticas de oración en la vida ordinaria (Baxt).** Amy Baxt, tras su retiro silencioso, testimonia sus esfuerzos por labrar una vida de oración: «intento día a día hablar con Dios a través de mi Rosario, meditaciones escritas, la Liturgia de las Horas y mi Hora Santa». No practicó todas las formas de culto a Dios de una vez: «llegaron poco a poco. Algo es mejor que nada, y así se construye el fundamento» [EAC-19, 20_mission_baxt.md, L67].
 
+### Giussani — Affezione e dimora (AED)
+
+Para Giussani, la liturgia es el lugar donde «el Misterio coincide con el signo»: en la Eucaristía, «el Misterio se hizo signo, y el signo era aquel hombre nacido del vientre de la Virgen» (AED, 28, 167). La liturgia es, así, «el símbolo del trabajo»: toda auténtica actividad humana —cada gesto realizado en función del Misterio— se convierte en «un signo con el que el Misterio coincide», y a ese signo lo llama Giussani *mérito* (AED, 28, 173). La liturgia reúne los signos de todo el quehacer humano y los dispone ante la Presencia que los sostiene (AED, 28, 167-175).
+
+Esta coincidencia del Misterio con lo humano es precisamente lo que la fe anuncia y lo que escandaliza a la mentalidad moderna: «la fidelidad a la liturgia es el anuncio de que el Misterio, que es el sentido de todo, se ha hecho un hombre» (AED, 28, 183). La liturgia no es un culto inventado por los hombres sino la acción en la que la Presencia de Cristo, que coincide con el signo, se ofrece a todos los hombres (AED, 28, 183).
+
 ## Ver también
 
 [[sacramentos]], [[eucaristía]], [[oración_litúrgica]], [[iglesia_cuerpo_místico]], [[sacramentales]]
@@ -95,3 +101,6 @@ La *Institutio Generalis Missalis Romani* (edición típica revisada del año 20
 - [SC, Sacrosanctum Concilium]
 - [EAC-16, 04_lives.md, 07_spotlight_reader.md, 08_minds.md]
 - Evangelization & Culture, Issue 19 (EAC-19): 11_minds.md, 20_mission_baxt.md
+- AED — Giussani, *Affezione e dimora* (*Afección y morada*), BUR Rizzoli, 2007.
+- AED, 28, 167-175 — Tischrede 178: *Il legame più forte* — el Misterio coincide con el signo; la liturgia, símbolo del trabajo.
+- AED, 28, 183 — Tischrede 178: *Il legame più forte* — la fe anuncia que el Misterio se ha hecho hombre.

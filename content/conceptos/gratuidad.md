@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Gratuidad
 tags: ["moral", "teología_espiritual"]
 
-timestamp: 2026-06-14
+timestamp: 2026-09-13
 description: "La gratuidad es la cualidad del amor que se da sin esperar retribución, reflejo del amor mismo de Dios que crea, salva y santifica por pura iniciativa de amor."
 ---
 # Gratuidad
 
 > Área: Moral / Teología espiritual
-> Última actualización: 2026-06-14
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -39,6 +39,12 @@ El discurso desarrolló la gratuidad como antídoto a la «cultura del descarte�
 
 El gesto profético de la visita al CEDIA 24 Horas (6 de junio) concretó esta enseñanza: una obra de caridad que acoge sin condiciones a quien llama a la puerta, donde cada encuentro con el necesitado es un *kairós*.
 
+### Giussani — Affezione e dimora (AED)
+
+En la Tischrede 12 (AED, 13, 91-97), la gratuidad nace del «sí» de Cristo: «Cristo non ha tentennato tra il sì e il no, ma ha detto "sì"... e noi dobbiamo dire "Amen", partecipando alla coscienza con cui Cristo affermava le cose come il Padre le voleva» (cf. 2Cor 1,19).
+
+Junto a la moralidad existe «qualcosa d'altro»: «L'impeto della gratuità non è una legge morale descrivibile. È da questo impeto che la fatica fiorisce in letizia ed è capace di sostenere il peso di se stessa» (AED, 13, 95). En la intervención a la Compagnia delle Opere, citada en la nota, «l'amore, lo sappiamo bene, non ha confini. Ci deve essere, allora, in ciò che facciamo qualcosa che non ha i confini di ciò che facciamo» (AED, 13, nota 15). La síntesis es la memoria: «Vivere la memoria: riconoscere Cristo presente in tutto ciò che si fa» (AED, 13, 97).
+
 ## Distinciones importantes
 
 - **Gratuidad vs. mérito**: La gratuidad divina no excluye el mérito humano, sino que lo funda; el mérito cristiano procede de la gracia, que es gratuita.
@@ -58,3 +64,4 @@ Se relaciona con [[caridad]], [[gracia]], [[justicia_social]], [[solidaridad]], 
 - [CompDS §25-27]
 - [SmTh II-II, q.106]
 - [L_XIV-ViajeEspaña-2026, 09 — Encuentro con Voluntarios (IFEMA)]
+- AED, 13 (§91, 95, 97) — Tischrede 12: *Non è un pretesto* — el «sí» de Cristo y el ímpetu de la gratuidad.

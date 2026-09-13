@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Libido dominandi
-tags: ["antropología_teatológica", "agustín", "pecado"]
+tags: ["antropología_teológica", "agustín", "pecado"]
 
 timestamp: 2026-09-09
 description: "La ‘lujuria de dominación’ agustiniana: impulso de la Ciudad Terrenal a dominar a otros en lugar de servir al bien común."

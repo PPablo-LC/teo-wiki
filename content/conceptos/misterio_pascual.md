@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Misterio Pascual
 tags: ["dogmática", "soteriología"]
 
-timestamp: 2026-05-26
+timestamp: 2026-09-13
 description: "El Misterio Pascual es el acontecimiento central de la economía de la salvación."
 ---
 # Misterio Pascual
 
 > Área: Dogmática / Soteriología
-> Última actualización: 2026-09-02
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -71,6 +71,12 @@ La Resurrección pone de relieve que «sólo la medida del bien instaurado por D
 
 **La cruz, árbol de vida (Matthew Becklo, sobre *The Tree of Life*).** Cristo, Amor encarnado, sufre con nosotros y abre un camino de sufrimiento más fuerte que la muerte; la cruz cambia el sentido de la vida humana y es «nuestra respuesta última al sufrimiento, nuestra única esperanza, nuestro árbol de vida» [EAC-15, 08].
 
+### Giussani — Affezione e dimora (AED)
+
+Para Giussani, el misterio pascual es la victoria definitiva de la afirmación amorosa del ser sobre la nada. La única imagen dramática de la vida es la cristiana: la alternativa radical entre «la victoria de la afirmación de una Presencia» —afirmación del ser, de la que proceden la luz y la vida— y «la afirmación de la nada», contradicción en los términos (AED, 17, 141-147). Hay, en el origen, una afirmación amorosa o una hostilidad al ser; quien es hostil parece positivo cuando sugiere «come de todo, no hagas ningún sacrificio», pero su desenlace es la muerte. La afirmación amorosa del ser, en cambio, ordena toda la existencia como diseño de amor (AED, 17, 149).
+
+La cruz es precisamente el abrazo del presente cuyo horizonte no es medible por la propia razón: «Mis caminos no son vuestros caminos, ni vuestros pensamientos los míos» (Is 55,8). «Abrazar esto es la cruz. Y abrazar esto, que es la cruz, es el origen de la resurrección: la vida resurge, se vuelve grande»; así la *letizia* brota como fuente en el corazón (AED, 17, 227). Jesús y María abrazaban el momento: nada acontece en vano, porque «todo depende del misterio del ser, y el misterio del ser es positividad»; el misterio pascual revela, además, que la resurrección comenzó en el instante mismo de la muerte (AED, 17, 241-243).
+
 ## Distinciones importantes
 
 - **Misterio Pascual vs. solo Pasión**: el Misterio Pascual incluye también la Resurrección y Ascensión, no solo el sufrimiento y muerte
@@ -98,3 +104,8 @@ El Misterio Pascual es el núcleo de la [[redención]] y se relaciona con la [[p
 [[pasión_de_cristo]], [[redención]], [[resurrección_de_cristo]], [[ascensión]], [[eucaristía]], [[triduo_pascual]], [[sacerdocio_de_cristo]], [[nuevo_adán]]
 
 ## Referencias
+
+- AED — Giussani, *Affezione e dimora* (*Afección y morada*), BUR Rizzoli, 2007.
+- AED, 17, 141-149 — Tischrede 45: *L'affermazione amorosa* — la gran alternativa entre la afirmación del ser y la nada.
+- AED, 17, 227 — Tischrede 45: *L'affermazione amorosa* — abrazar el presente es la cruz, origen de la resurrección.
+- AED, 17, 241-243 — Tischrede 45: *L'affermazione amorosa* — la positividad del misterio del ser.

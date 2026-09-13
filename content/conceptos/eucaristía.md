@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Eucaristía
 tags: ["sacramental"]
 
-timestamp: 2026-09-05
+timestamp: 2026-09-13
 description: "La eucaristía es el sacramento y sacrificio del Cuerpo y Sangre de Nuestro Señor Jesucristo, realmente, verdadera y sustancialmente presente bajo las especies de pan y vino."
 ---
 # Eucaristía
 
 > Área: Sacramental
-> Última actualización: 2026-09-05
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -301,6 +301,12 @@ Tóth presenta la comunión como «el centro de la vida cristiana» y complement
 
 Los efectos mayores de la comunión es hacernos semejantes a Jesucristo, «que ya no seamos nosotros quienes actuemos sino Cristo en nosotros»; en ella «percibimos el amor inmenso que Jesucristo nos tiene», fuente que elimina «el desaliento ni la baja autoestima» [archivo 17]. Tóth propone una pedagogía concreta: acción de gracias fervorosa tras comulgar, conversación con el Divino Huésped («El Señor está conmigo… ¡No hay cosa más hermosa que poder tener al Señor en la propia alma permanentemente!»), ofrecer la comunión por intenciones apostólicas (los padres, los enfermos, los misioneros), lo cual despierta «el espíritu apostólico»; y unir pequeñas mortificaciones a la preparación [archivo 17]. La comunión frecuente purifica de los defectos cotidianos, refrena las malas inclinaciones y fortalece para no pecar; sus únicos requisitos son «vivir en estado de gracia y hacerlo con buena intención» (véase [[estado_de_gracia]], [[comunión_frecuente]]) [archivo 17]. Aparecida confirma esta centralidad: «La Eucaristía es el lugar privilegiado del encuentro del discípulo con Jesucristo… fuente inagotable de la vocación cristiana e inextinguible del impulso misionero», que da forma eucarística a toda la existencia [archivo 38].
 
+### Giussani — Affezione e dimora (AED)
+
+En la Tischrede 114 (AED, 31, 59-65), la comunión diaria es la vía de familiaridad con Cristo: «hai fatto la Comunione tutti i giorni; dopo due o tre anni di questo atteggiamento, la fisionomia della realtà da cui dipendi, la fisionomia di Cristo è come se acquistasse una forma nei tuoi occhi e nella tua immaginazione» (AED, 31, 59).
+
+Hacer la comunión es estar en la posición de la Madalena —«adorare vuol dire stringere le ginocchia» (AED, 31, 63)—, y la Confesión «è realmente, letteralmente questa posizione, è il ripetersi di questa posizione» (AED, 31, 63). Por eso «far la Comunione vuol dire realmente – non immaginativamente, realmente! – essere così, molto più di così» (AED, 31, 65): quien la vive no se siente «più estranea a Cristo».
+
 ## Distinciones importantes
 
 - **Transubstanciación**: cambio de sustancia, permaneciendo los accidentes
@@ -468,3 +474,4 @@ De este modo, el fascículo conecta directamente el camino de la conversión con
 - Ele_Xto_Stos, Cap. III, §4b
 - Healy Jr., Nicholas J.; Millare, Roland. Artículos en *Evangelization & Culture* 11 (Spring 2022).
 - Barron, Robert; Salkeld, Brett; O'Malley, Timothy P.; Worner, Tod; Becklo, Matthew; Johnson, Fr. Josh; Torres, Sr. Alicia; Whittington, Fr. Richard T.; Granados, José; De Clue, Richard; Nelson, Dr. Matt; Bulman, Rachel; Petiprin, Andrew. Artículos en *Evangelization & Culture* 13 (Autumn 2022).
+- AED, 31 (§59-65) — Tischrede 114: *La radice della compagnia* — la comunión diaria y la fisonomía de Cristo; adorar como posición de la Magdalena.

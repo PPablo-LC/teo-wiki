@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Alianza
 tags: ["dogmática"]
 
-timestamp: 2026-06-02
+timestamp: 2026-09-13
 description: "Pacto solemne establecido por Dios con los hombres, por el cual se compromete a ser su Dios y a derramar sobre ellos sus bendiciones a cambio de su fidelidad y obediencia."
 ---
 # Alianza
 
 > Área: Dogmática
-> Última actualización: 2026-06-02
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -62,6 +62,12 @@ El PdB ofrece una tabla cronológica ininterrumpida (Cro-8) que sitúa cada alia
 
 [PdB, Panorama de las alianzas, Cro-8]
 
+### Giussani — Affezione e dimora (AED)
+
+Para Giussani, la alianza es ante todo fidelidad a la elección gratuita de Dios. La gracia de la vocación se pide de rodillas: «Debes ponerte de rodillas y decir: "Ayúdame, sé fiel, oh Señor, a Tu alianza, a la alianza que has establecido conmigo"» (AED, 19, 77). Ser fiel a la propia vocación es ser fiel a la alianza: «como Dios es fiel a su alianza, nosotros somos fieles a la alianza que Cristo ha establecido con nosotros: estamos [en ella]». La primera exigencia es la fidelidad al camino emprendido (AED, 12, 83-85).
+
+La alianza no se mide por los pecados: «Esta es la alianza, porque la alianza no se mide por los pecados o por los no pecados: es siempre un caída moralista la que deprime la grandeza de la relación que Dios ha venido a establecer como hombre cerca de mí». «Estamos aquí porque está el Señor» (AED, 22, 131-133). El fundamento de la vida del creyente es la certeza en la fidelidad de Dios: «La certeza en la fidelidad de Dios es el fundamento, es la alianza» (AED, 22, 145).
+
 ## Distinciones importantes
 
 - **Antigua Alianza vs. Nueva Alianza**: la primera fue preparatoria y figura de la segunda; la Nueva es eterna y perfecta
@@ -81,3 +87,8 @@ La alianza se relaciona con [[antigua_alianza]], [[nueva_alianza]], [[decálogo]
 - [CEC §56-62, §2060, §2077, §1612-1617]
 - [TPCr, Parte III, Libro II, Cap. I, Art. 5; Cap. III]
 - [VocTeoBib, «Alianza»]
+- AED — Giussani, *Affezione e dimora* (*Afección y morada*), BUR Rizzoli, 2007.
+- AED, 19, 77 — Tischrede 83: *Per rendere vero (2)* — la fidelidad a la alianza se pide de rodillas.
+- AED, 12, 83-85 — Tischrede 41: *La preferenza per Cristo* — ser fieles a la alianza es estar en ella.
+- AED, 22, 131-133 — Tischrede 102: *L'adorazione possibile* — la alianza no se mide por los pecados.
+- AED, 22, 145 — Tischrede 102: *L'adorazione possibile* — la certeza en la fidelidad de Dios es el fundamento.

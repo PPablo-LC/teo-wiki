@@ -3,7 +3,7 @@ tags:
   - meta
   - index
 title: Wiki Index
-updated: '2026-09-12'
+updated: '2026-09-13'
 note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts/regenerar-indice.py'
 ---
 
@@ -110,6 +110,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[advocaciones_marianas]]
 - [[afabilidad]]
 - [[afán_vindicativo]]
+- [[afección]]
 - [[afectividad]]
 - [[afinidad]]
 - [[agapē]]
@@ -148,6 +149,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[amistad_cristiana]]
 - [[amonestación_canónica]]
 - [[amor]]
+- [[amor_a_cristo]]
 - [[amor_a_dios]]
 - [[amor_a_los_enemigos]]
 - [[amor_al_enemigo]]
@@ -159,6 +161,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[amor_preferencial_por_los_pobres]]
 - [[amor_propio]]
 - [[amor_puro]]
+- [[amor_servil]]
 - [[análisis_moral_del_fin_último]]
 - [[analogía]]
 - [[analogía_de_la_fe]]
@@ -347,6 +350,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[canonización]]
 - [[cántico_evangélico]]
 - [[canto_gregoriano]]
+- [[capacidad_afectiva]]
 - [[capg]]
 - [[capilla]]
 - [[capital]]
@@ -472,6 +476,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[como_una_madre_amorosa]]
 - [[compasión]]
 - [[compasión_de_maría]]
+- [[compañía]]
 - [[compañía_de_jesús]]
 - [[competencia_del_magisterio_en_campo_moral]]
 - [[competencia_judicial]]
@@ -1104,6 +1109,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[especies_inteligibles]]
 - [[especies_sacramentales]]
 - [[especificidad_de_la_moral_cristiana]]
+- [[espera]]
 - [[esperanza]]
 - [[esperanza_cristiana]]
 - [[esperanza_de_la_resurrección]]
@@ -1120,6 +1126,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[espiritualidad_sacerdotal]]
 - [[espiritualidad_seglar]]
 - [[espiritualización]]
+- [[esponsalidad]]
 - [[esposa]]
 - [[esposo]]
 - [[estabilidad_religiosa]]
@@ -1506,6 +1513,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[imperfección]]
 - [[imperio]]
 - [[impío]]
+- [[implicación_afectiva]]
 - [[imposición_de_manos]]
 - [[impotencia]]
 - [[imprimatur]]
@@ -1950,6 +1958,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[misterios_del_rosario]]
 - [[mística]]
 - [[mística_cristiana]]
+- [[mística_de_la_vida_cotidiana]]
 - [[modalismo]]
 - [[moderación]]
 - [[moderacion]]
@@ -1970,6 +1979,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[monte_de_los_olivos]]
 - [[monte_sión]]
 - [[montes_de_piedad]]
+- [[morada]]
 - [[moral]]
 - [[moral_autónoma]]
 - [[moral_católica]]
@@ -1988,6 +1998,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[moralidad]]
 - [[moralidad_de_los_actos]]
 - [[moralidad_secular]]
+- [[moralismo]]
 - [[mortificación]]
 - [[motivos_de_credibilidad]]
 - [[motu_proprio]]
@@ -2404,7 +2415,9 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[pontifical_romano]]
 - [[pornografía]]
 - [[port-royal]]
+- [[posesión]]
 - [[posesión_diabólica]]
+- [[positividad]]
 - [[positivismo]]
 - [[posthumanismo]]
 - [[postulación]]
@@ -2435,6 +2448,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[predicar]]
 - [[preexistencia_de_las_almas]]
 - [[preexistencia_del_verbo]]
+- [[preferencia_por_cristo]]
 - [[prefiguraciones_de_cristo]]
 - [[prejuicio]]
 - [[prelatura_personal]]
@@ -2448,6 +2462,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[presciencia_divina]]
 - [[prescripción_canónica]]
 - [[prescripción_de_la_acción_criminal]]
+- [[presencia_de_cristo]]
 - [[presencia_de_dios]]
 - [[presencia_real]]
 - [[presentación]]
@@ -2606,6 +2621,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[recompensa_celestial]]
 - [[reconciliación]]
 - [[reconciliatio_et_poenitentia]]
+- [[reconocimiento]]
 - [[reconquista]]
 - [[recta_ratio_factibilium]]
 - [[recta_razón]]
@@ -3020,6 +3036,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[tercer_mandamiento]]
 - [[tercer_milenio_cristiano]]
 - [[término_medio_relativo_a_nosotros]]
+- [[ternura_de_cristo]]
 - [[tesoro_de_la_iglesia]]
 - [[test-file]]
 - [[test_de_turing]]
@@ -3845,6 +3862,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 ### A (Documentos)
 
 - [[a_qué_jesús_seguimos]]
+- [[affezione_e_dimora]]
 - [[avisos_espirituales]]
 
 ### C (Documentos)

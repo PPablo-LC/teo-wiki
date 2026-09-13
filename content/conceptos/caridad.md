@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Caridad
 description: "La caridad es la más excelente de las virtudes teologales, virtud infusa sobrenatural por la que amamos a Dios sobre todas las cosas por Sí mismo."
 tags: ["moral", "dogmática"]
-timestamp: 2026-09-05
+timestamp: 2026-09-13
 ---
 
 # Caridad
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-09-05
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -212,6 +212,12 @@ El análisis de *The Mission* ofrece la clave del fascículo: la [[caridad]] es 
 Mary Cording afirma que convertirse es «aprender a amar»: la vida cristiana no es primeramente un conjunto de deberes, sino la respuesta al amor primero de Dios, que hace del corazón un amante; de ahí que el amor sea la forma de toda virtud y de toda misión [EAC-18, 17_special_feature_cording.md].
 
 Robert Barron integra la caridad en la predicación: la fe obra por el amor (Ga 5,6), y la evangelización auténtica comunica el amor de Dios que precede y transforma [EAC-18, 18_spotlight_barron.md].
+
+### Giussani — Affezione e dimora (AED)
+
+Para Giussani, la caridad es la forma del obrar cristiano: «"hacer por Cristo" quiere decir que el amor a Cristo determina la forma de tu actuar, como el que trabaja con el patrón que lo mira»; «uno pertenece a Cristo en la acción que hace cuando la acción es petición de que Cristo se realice en ella» (AED, 13, 73-77). No es cuestión de persuasión sino de amor: «no es cuestión de estar persuadidos, es cuestión de amar, es decir, de aceptar, abrazar algo distinto de sí»; «la vida de un hombre es grande en la medida en que sirve a la obra de un Otro» (AED, 17, 213-223).
+
+La caridad ama «según la perspectiva última»: la compañía educa a conocer a Cristo y a mirar a cada persona en el destino que Dios le ha dado; el egoísmo, en cambio, es el camino de los Finzi-Contini, «todos "conectados" sobre sí mismos y para ellos el mundo no existía» (AED, 29, 111-119). Amar a la propia familia o al propio amigo desde esta perspectiva es la caridad que transforma el mundo (AED, 29, 111).
 
 ## Analizado para
 

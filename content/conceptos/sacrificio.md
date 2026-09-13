@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Sacrificio
 tags: ["dogmática", "sacramental"]
 
-timestamp: 2026-06-02
+timestamp: 2026-09-13
 description: "El sacrificio es la ofrenda hecha a Dios en señal de adoración, gratitud, súplica y comunión."
 ---
 # Sacrificio
 
 > Área: Dogmática / Sacramental
-> Última actualización: 2026-06-02
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -48,7 +48,11 @@ Todo sacrificio visible es signo del sacrificio invisible del corazón, por el c
 
 [SmTh IIa-IIae q.85]
 
-## Distinciones importantes
+### Giussani — Affezione e dimora (AED)
+
+Para Giussani, el sacrificio no es una negación, sino la condición para amar verdaderamente la realidad. «La perfección de un afecto… coincide o depende de la tensión al sacrificio que le es inherente»: «sin sacrificio no es verdadero el afecto», porque lo hace entrar en el orden de la creación, en el designio de Dios (AED, 18, 125-127). Por eso «uno se separa de aquella cosa no para perderla, sino para tenerla por la vida eterna»: «lo que uno ama real y justamente, lo ama para siempre» (AED, 26, 157). El sacrificio salva la realidad: «"vale la pena" es lo que queda después del sacrificio; si no haces el sacrificio, nada te hace valer la pena vivir» (AED, 16, 97-99).
+
+El sacrificio es el signo de que se reconoce una Presencia que viene antes que uno: es «no pegarse» a lo inmediato para adherirse al designio de Dios (AED, 07, 179). En su plenitud, «el sacrificio es reconocer una Presencia» (AED, 07, 195). Como «solos se tiene miedo del sacrificio», la compañía hace del sacrificio poder: «no es verdad que uno más uno hace dos: hace mil veces uno» (AED, 08, 273-277). La resistencia al sacrificio es resistencia a la belleza, «la confusión inmensa del pecado original, que se llama mentira» (AED, 09, 139-149). La fe sugiere este sacrificio: ante el rostro de una persona o de un acontecimiento, el sacrificio se disuelve en súplica — «¡perdóname! ¡ayúdame a ser como Tú!» (AED, 11, 43; AED, 19, 63).
 
 - El sacrificio exterior debe nacer del sacrificio interior del corazón
 - El único sacrificio perfecto es el de Cristo en la cruz

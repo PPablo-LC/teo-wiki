@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Bautismo
 tags: ["sacramental"]
 
-timestamp: 2026-09-05
+timestamp: 2026-09-13
 description: "El bautismo es el primer sacramento de la Nueva Ley, instituido por Nuestro Señor Jesucristo, que purifica al hombre del pecado original y de todos los pecados actuales."
 ---
 # Bautismo
 
 > Área: Sacramental
-> Última actualización: 2026-09-05
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -250,6 +250,12 @@ Robert Barron insiste en que la gracia precede y obra el [[bautismo]]: el bautiz
 
 El fascículo presenta así el bautismo como la puerta de la vida nueva: por él el cristiano es miembro del [[cuerpo_místico]], recibe el don del Espíritu y es enviado a la misión [EAC-18, 18_spotlight_barron.md].
 
+### Giussani — Affezione e dimora (AED)
+
+Giussani subraya el carácter dinámico y comunitario del bautismo: «el Bautismo, en cuanto constituye esta compañía, es una energía continua, que continúa toda la vida, es un acontecimiento que continúa toda la vida; y es a través de la compañía vocacional que actúa» (AED, 32, 41). Las «santas aguas» que «disuelven las culpas y anulan las penas» obran en la realidad concreta de la vida en común: «la vida en común disuelve las culpas, prosigue el gesto del Bautismo», de modo que «es en la compañía vocacional donde son perdonadas las culpas y anuladas las penas» (AED, 32, 51).
+
+Esta compañía es «un viviente aspecto del sacramento», del Bautismo: «Vosotros que habéis sido bautizados, os habéis immedesimado con Cristo» (Gal 3,27-28), hasta el punto de ser «una sola cosa, más aún, un solo ser» (AED, 32, 53). La gracia bautismal se vuelve así presencia operante en la unidad fraterna que ella misma genera (AED, 32, 51-53).
+
 ## Distinciones importantes
 
 - **Bautismo de agua vs. bautismo de deseo vs. bautismo de sangre**
@@ -292,3 +298,5 @@ El fascículo presenta así el bautismo como la puerta de la vida nueva: por él
 - [VJ, Cap. VIII]
 - [JdN_I, cap. 4]
 - [CIS, «La catedral interior del sacerdote», 2026]
+- AED — Giussani, *Affezione e dimora* (*Afección y morada*), BUR Rizzoli, 2007.
+- AED, 32, 41-53 — Tischrede 23: *La lotta di Tersite* — el Bautismo como energía continua a través de la compañía vocacional.

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Cruz
 tags: ["cristología", "soteriología"]
 
-timestamp: 2026-09-08
+timestamp: 2026-09-13
 description: "La cruz es el instrumento de la muerte redentora de Cristo y símbolo central de la fe, presente en el deporte como transfiguración del sufrimiento y límite del ídolo."
 ---
 # Cruz
 
 > Área: Cristología / Soteriología
-> Última actualización: 2026-09-08
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -145,6 +145,12 @@ Jesús «decía a todos: Si alguno quiere venir detrás de mí, que se niegue a 
 
 **Las tres vías y la cruz deportiva (23_soul.md):** Fr. Stephen Gadberry aplica la cruz a las tres vías: en la vía purgativa, la cruz son las reglas que ordenan las pasiones; en la iluminativa, la cruz es la práctica que perfecciona; en la unitiva, la cruz es jugar por el juego mismo —la libertad del que ha interiorizado la cruz y juega por amor—. «El mejor atleta encuentra indefensa su vida ante las preguntas fundamentales y necesita la luz de Cristo» (Juan Pablo II, Jubileo de los Deportistas 2000).
 
+### Giussani — Affezione e dimora (AED)
+
+Para Giussani, la cruz de Cristo es la liberación del fascino de lo efímero. «Cristo fue a la cruz para liberar a la humanidad de la mentira, del afán de poseer lo que es perecedero»; lo efímero es siempre hermoso —«las cosas son bellas»—, y solo se vuelve engañoso cuando es usado contra su armonía, porque «lo que queda es lo verdadero» (AED, 16, 191-199). La raíz del mal está en juzgar como absolutamente verdadera una cosa que no lo es; de ahí la invitación de Cristo a la conversión radical: «la voz de su presencia en el mundo es *metanoìte*» (AED, 16, 199-205).
+
+La cruz es también el signo de que la medida de la realidad no está en el hombre: «Mis caminos no son vuestros caminos» (Is 55,8). «Abrazar esto es la cruz. Y abrazar esto, que es la cruz, es el origen de la resurrección: la vida surge, se vuelve grande» (AED, 17, 227). Quien se desprende de una cosa por amor a Cristo «no la pierde, la tiene para la vida eterna» (AED, 07, 177): la cruz no es la negación del deseo del corazón, sino su cumplimiento en el designio total de Dios.
+
 ## Distinciones importantes
 
 - **Cruz material**: instrumento de la pasión.
@@ -183,3 +189,7 @@ La cruz es el acto consumativo de la [[redención]] y el sacrificio de la [[alia
 - [EAC-15, 09 — Barron: la cruz y el libro de Job]
 - [EAC-15, 19 — Cantalamessa: la cruz y el Siervo sufriente]
 - [EAC-20, 14_art_icons.md (Heimann), 12_science.md (Gehrig/Lewis), 23_soul.md (Gadberry)]
+- AED — Giussani, *Affezione e dimora* (*Afección y morada*), BUR Rizzoli, 2007.
+- AED, 16, 191-205 — Tischrede 44: *Secondo l'armonia generale* — la cruz y el fascino de lo efímero.
+- AED, 17, 227 — Tischrede 45: *L'affermazione amorosa* — abrazar la cruz como origen de la resurrección.
+- AED, 07, 177 — Tischrede 147: *Incollamenti e strappi* — quien se desprende por Cristo guarda la cosa para la vida eterna.

@@ -1,7 +1,7 @@
 ---
 type: Concepto Teológico
 title: Transcendencia
-tags: ["metafísica", "antropología_teatológica"]
+tags: ["metafísica", "antropología_teológica"]
 
 timestamp: 2026-08-19
 description: "La trascendencia como apertura del ser humano a lo que lo trasciende; el peregrino como antídoto contra el postmodernismo inmanentista."

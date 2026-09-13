@@ -2,14 +2,14 @@
 type: Concepto Teológico
 title: "Amistad cristiana"
 tags: ["ascética", "ética_cristiana"]
-timestamp: 2026-07-13
+timestamp: 2026-09-13
 description: "Vínculo espiritual indisoluble fundado en la semejanza de virtudes y la caridad mutua, propio de la vida monástica según la enseñanza del abad José."
 ---
 
 # Amistad cristiana
 
 > Área: Ascética / Ética cristiana
-> Última actualización: 2026-07-13
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -41,6 +41,12 @@ José expone también la caridad bien ordenada: «No aborrece a nadie, pero ama 
 ### Según la Summa Theologiae (SmTh)
 
 Santo Tomás trata la amistad (*amicitia*) en la IIa-IIae q.23-26. La caridad es amistad del hombre con Dios (q.23 a.1). La amistad con los santos es participación en la amistad divina. El orden de la caridad determina la intensidad del amor (q.26).
+
+### Giussani — Affezione e dimora (AED)
+
+Para Giussani, la amistad cristiana no niega la afectividad sino que la lleva a su cumplimiento: quien vive un afecto «atraviesa el interés que tiene por esta persona hasta llegar a Cristo»; la amistad consiste en «mirar a esa persona en su perspectiva última, según el destino» que Dios le ha dado (AED, 12, 193-199). Así la amistad se hace «consciente correspondencia al otro en el deseo que él tiene de tu destino»: comienza en el mundo como signo de una compañía nueva, que construye «una relación entre el hombre y la mujer, una casa, una convivencia, una sociedad, una época» diversas (AED, 34, 105-111; AED, 00, 7).
+
+La amistad dura en la medida en que se sostiene en Dios: «es un vínculo más fuerte que el atractivo de la simpatía, el de la pasión o el del interés egoísta», hecho para «atravesar el periodo de la tempestad y volver a la luz del sol»; el vínculo es «el resultado, la obra de la libertad», no su contradicción (AED, 28, 73-77). Su raíz es la fe en Cristo presente en la compañía — como el método de estos diálogos, que «se presentan en toma directa» como testimonio de una amistad que investiga lo verdadero (AED, 03, 19).
 
 ## Distinciones importantes
 

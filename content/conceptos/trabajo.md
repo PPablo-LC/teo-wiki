@@ -2,14 +2,14 @@
 type: Concepto Teológico
 title: Trabajo
 tags: ["moral", "doctrina_social"]
-timestamp: 2026-06-17
+timestamp: 2026-09-13
 description: "El trabajo es la actividad del hombre que transforma la creación, cooperando con la obra creadora de Dios."
 ---
 
 # Trabajo
 
 > Área: Moral / Doctrina Social
-> Última actualización: 2026-06-17
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -78,6 +78,12 @@ La RSB integra el trabajo manual como eje de la vida cenobítica, bajo el princi
 **Trabajo en viaje (cap. 50-51):** Los que trabajan lejos del oratorio realizan la Obra de Dios en el lugar mismo del trabajo; los viajeros rezan sus horas sin negligencia y comen de su propia ración.
 
 **Oficios rotativos (cap. 35, 46):** Los hermanos se sirven mutuamente en cocina y taller: quien comete falta manifiesta al abad; la falta oculta se comunica a los ancianos espirituales. Los artesanos ejercen su arte con humildad; la presunción lleva a la remoción.
+
+### Giussani — Affezione e dimora (AED)
+
+Para Giussani, el trabajo es «el lugar donde se verifica de modo más evidente la eficacia de la compañía vivida»: sin la conciencia de Cristo presente, el trabajo «sería lo más laico y lo más ateo que exista» (AED, 12, 139-151). Quien sigue la regla «se hace protagonista de un trabajo… diverso»: «lo que más impresiona a los otros… es cómo nos ven vivir el trabajo» (AED, 12, 141-151). La profesión, además, «expresa los ideales de la juventud»: «Señor, no olvidéis jamás los ideales de vuestra juventud» (Don Carlo de Schiller) (AED, 20, 9-13).
+
+El trabajo es la forma de la libertad humana puesta en tensión por el Misterio: «la pobreza es un trabajo y la obediencia es un trabajo: la obra de un Otro»; «se llama trabajo la pertinencia de la libertad a la posibilidad que el Ser hace vislumbrar» (AED, 23, 199). Su raíz y su figura más alta es la liturgia: «la liturgia es el símbolo del trabajo»; todo gesto realizado en función del Misterio «es un signo con el que el Misterio coincide: se llama mérito» (AED, 28, 173-175).
 
 ## Distinciones importantes
 

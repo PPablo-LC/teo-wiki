@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Pentecostés
 tags: ["dogmática"]
 
-timestamp: 2026-08-22
+timestamp: 2026-09-13
 description: "Fiesta cristiana que conmemora la venida del Espíritu Santo sobre los Apóstoles y la Virgen María, reunidos en el Cenáculo, y la manifestación pública de la Iglesia."
 ---
 # Pentecostés
 
 > Área: Dogmática
-> Última actualización: 2026-08-22
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -54,6 +54,12 @@ El PdB presenta Pentecostés como punto de arranque del libro de los Hechos: tra
 
 Rachel Bulman relata el Pentecostés personal de San Felipe Neri: orando en las catacumbas de San Sebastián en vísperas de Pentecostés (1544), vio una bola de fuego que entró por su boca y descendió a su corazón, produciéndole calor físico, temblor y «un sentido extraordinario de gozo»; tras su muerte se hallaron costillas rotas o desplazadas sobre el corazón. El gozo pentecostal quedó sellado en su cuerpo y definió su apostolado: el Espíritu que desciende produce alegría contagiosa — Felipe Neri fue declarado patrono del humor y del gozo.
 
+### Giussani — Affezione e dimora (AED)
+
+Giussani vincula Pentecostés con la Ascensión y con la victoria de Cristo sobre la muerte: estar «immedesimados» con Cristo significa estarlo «con un hombre que es asesinado y que, mientras es asesinado, comienza a poseer desde lo profundo (*ab inferis*) las cosas». «La Ascensión proclama esto, y en Pentecostés esto comienza a verse»; cuando todos lo vean, será el instante del fin del mundo (AED, 32, 53).
+
+«En Pentecostés la posesión que Cristo tiene de la vida —hasta el punto de que de doce personas hace una sola cosa— comienza a mostrarse»: Pentecostés es «el momento en que el fruto de la victoria de Cristo, que en la historia se llama Iglesia, comienza a existir, a mostrarse». Y la Iglesia es «un modo de verse entre hombres, de concebirse, de concebir las relaciones, de entender qué es el otro —el valor del otro—, de querer bien al otro, de quererse bien; en suma, una compañía vocacional, una compañía de gente en camino hacia la explosión de su destino» (AED, 32, 57-61).
+
 ## Distinciones importantes
 
 - Pentecostés culmina el tiempo pascual (50 días después de Pascua)
@@ -78,3 +84,5 @@ Rachel Bulman relata el Pentecostés personal de San Felipe Neri: orando en las 
 - [VocTeoBib, «Pentecostés»]
 - [EAC-8, Issue 8 «Humor», archivo 05]
 - [VJ, Cap. VIII]
+- AED — Giussani, *Affezione e dimora* (*Afección y morada*), BUR Rizzoli, 2007.
+- AED, 32, 53-61 — Tischrede 23: *La lotta di Tersite* — Pentecostés como comienzo de la manifestación de la Iglesia.

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Memoria
 tags: ["antropología"]
 
-timestamp: 2026-05-22
+timestamp: 2026-09-13
 description: "Potencia del alma humana que tiene la capacidad de retener y evocar experiencias pasadas."
 ---
 # Memoria
 
 > Área: Antropología
-> Última actualización: 2026-05-22
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -33,7 +33,11 @@ San Juan de la Cruz puso la virtud de la esperanza en la memoria para hablar de 
 
 [VocTeoBib, «Memoria»] En la Biblia, la memoria es una categoría de la alianza: Dios «recuerda» su promesa y salva (Ex 2,24); el hombre debe «recordar» las maravillas de Dios (Dt 8,2) y no olvidar la ley (Sal 119). El memorial litúrgico (Pascua, Ex 12) actualiza la salvación pasada en el presente. En el NT, Cristo es el cumplimiento del recuerdo de las promesas (Lc 1,54.72); el Espíritu Santo «recuerda» su enseñanza (Jn 14,26). La Eucaristía es el memorial de Cristo (Lc 22,19; 1Cor 11,24ss). La memoria cristiana se expresa en la obediencia al mandamiento del amor (Jn 13,34; 15,10ss).
 
-## Distinciones importantes
+### Giussani — Affezione e dimora (AED)
+
+Para Giussani, la memoria es el contenido de la fe vivida: «la síntesis del comportamiento humano es la palabra memoria: la conciencia de Cristo que me perdona, que muere y resucita por mí y en mí» (AED, 13, 97-99). La memoria no es un recuerdo del pasado, sino «una cosa vista que dura»: «cuando viene la memoria, tú vives el hecho entero como en el momento en que lo viste por primera vez», pero de modo permanente (AED, 20, 95-97). Por eso la memoria alegra: «la memoria entretiene», porque te señala una a una todas las cosas que acercas en el orden de Dios, «donde nadie es inútil»; «la única cosa que hay que pedir es la memoria, porque ella incluye todo» (AED, 34, 161).
+
+La memoria se alimenta de todo lo que te la evoca, «en primer lugar la casa»: la oración y la compañía son el modo concreto de mantener viva la conciencia de Cristo presente (AED, 12, 107-109). Así, «vivir la memoria» significa reconocer a Cristo presente en todo lo que se hace; si se hace memoria, «el reconocimiento verdadero de las cosas florece en alegría» (AED, 13, 103-105).
 
 - Memoria sensitiva (retención de imágenes sensibles) vs. memoria intelectual o reminiscencia
 - La memoria es potencia del alma sensitiva, pero en el hombre está informada por el espíritu

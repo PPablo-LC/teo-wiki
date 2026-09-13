@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Misterio
 tags: ["teología_bíblica", "dogmática"]
 
-timestamp: 2026-09-12
+timestamp: 2026-09-13
 description: "El término «misterio» (*mysterion*) designa en la Escritura el secreto designio de salvación que Dios realiza en la historia; vértice de la razón y apertura infinita según Giussani."
 ---
 # Misterio
 
 > Área: Teología Bíblica / Dogmática
-> Última actualización: 2026-09-12
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -38,6 +38,12 @@ Giussani identifica el misterio como «el descubrimiento más grande al que la r
 **Misterio y salvación (cap. XII, XIV).** El misterio es el significado último de la existencia; sin él todo sentido colapsa: «Si Dios no existe, ¿soy todavía capitán?» (Dostoevskij, *Los demonios*) (SR, `18_capitulo_undicesimo.md`, §159-180). La salvación no puede ser producida por la propia energía — «sería como gritar para ser escuchado»— y solo puede venir de quien es fuente de la vida (SR, `22_capitulo_quindicesimo.md`).
 
 **Razón, moralidad y misterio.** La apertura al misterio exige disposición moral: sin limpieza de corazón no se reconoce la verdad que el misterio deja entrever. El orden afectivo desordenado es raíz del prejuicio que cierra la razón al misterio (SR, caps. I, III).
+
+### Giussani — Affezione e dimora (AED)
+
+En *Affezione e dimora*, el misterio se presenta como el Mistero con mayúscula: «Dios es inconmensurable con el hombre» (AED, 26, 59-61). Por eso «no es un movimiento del hombre lo que puede hacer encontrar a Dios, si es misterio»: solo Él puede darse a encontrar, y puede «asumir la forma que el Misterio elige» — hasta «identificarse con su signo» (AED, 26, 75-101; AED, 28, 167-169). El Misterio se ha desvelado al hombre con una forma precisa: «un hombre, con su vida que nace, se desarrolla, obra y muere» (AED, 26, 113). «El Misterio lo puedes entender únicamente si habla, si te habla de sí» (AED, 23, 215).
+
+La actitud justa ante el Misterio es la de Job: «Aunque me matara, esperaré en Él» — «ante el Misterio nadie puede medir, porque nadie conoce el designio de Dios» (AED, 27, 35). El Misterio es el «factor último» de la realidad, que la persona madura descubre y vive; de Él brota también el respeto: «solo el sentido del Misterio que hay en la otra te la hace respetar» (AED, 29, 89; AED, 24, 173). Finalmente, «la conexión entre nosotros y el misterio del Ser es misterio… es la libertad» (AED, 16, 135).
 
 ## Distinciones importantes
 

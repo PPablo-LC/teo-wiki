@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Perdón de las ofensas
 tags: ["moral", "espiritualidad"]
 
-timestamp: 2026-06-23
+timestamp: 2026-09-13
 description: "Deber del cristiano de remitir el resentimiento y la exigencia de venganza hacia quien le ha causado un daño, como expresión concreta y exigente del amor al prójimo."
 ---
 # Perdón de las ofensas
 
 > Área: Moral / Espiritualidad
-> Última actualización: 2026-06-23
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -37,6 +37,12 @@ En la parábola del hijo pródigo, la misericordia del padre revela que «aquel 
 
 El perdón es cumbre de la oración cristiana (CEC §2844). El perdón de los enemigos es condición fundamental de la reconciliación (CEC §2844-2845). El perdón mutuo es condición para recibir el perdón de Dios (CEC §2638). Cristo vinculó el perdón de los pecados a la fe en el Espíritu Santo y en la Iglesia (CEC §976).
 
+### Giussani — Affezione e dimora (AED)
+
+Giussani sitúa el perdón como el primer caso extremo del abandono a Cristo: cuando «uno te ofende gravemente, te hace mucho mal», «ya no te descompones, sientes pena por él». Con Mounier: «El dolor más grande no es ser asesinado, sino asesinar». El perdón es así «la cosa inconcebible que se vuelve verdaderamente posible», «la cosa más sutil que en la madurez debe ser verdaderamente aplicada, que debe comenzar al levantarse por la mañana» (AED, 13, 53).
+
+Junto a la ofensa está el segundo caso extremo —ver sufrir o morir a la persona amada—, ante el cual «se requiere verdaderamente santidad para aceptar, para abrazar con una vibración de letizia dentro, que una persona querida sea mala o que una persona querida muera» (AED, 13, 59). «"Hágase tu voluntad" —¿qué significa, sino fiarse de lo que está sucediendo, fuera incluso una bomba sobre la cabeza?» (Mt 6,10) (AED, 13, 61). Los primeros mártires, mirados por las fieras, afrontaban la muerte «con qué corajuda letizia»: el perdón nace del abandono que ya ejercían (AED, 13, 63).
+
 ## Distinciones importantes
 
 - **Perdón interior** (remisión del resentimiento en el corazón) vs. **perdón exterior** (reconciliación efectiva con el hermano)
@@ -56,3 +62,6 @@ Se relaciona con [[perdón]], [[caridad]], [[amor_al_prójimo]], [[misericordia]
 - [7_Lamps, JPI La caridad — Audiencia general, 27-IX-1978]
 - [DM §14]
 - [CEC §2844-2845]
+- AED — Giussani, *Affezione e dimora* (*Afección y morada*), BUR Rizzoli, 2007.
+- AED, 13, 53 — Tischrede 12: *Non è un pretesto* — el perdón como abandono a Cristo ante la ofensa grave.
+- AED, 13, 59-63 — Tischrede 12: *Non è un pretesto* — santidad para aceptar y la letizia de los mártires.

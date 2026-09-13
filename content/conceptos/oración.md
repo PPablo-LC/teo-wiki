@@ -3,14 +3,14 @@ type: Concepto Teológico
 title: Oración
 tags: ["ascética", "mística"]
 
-timestamp: 2026-09-12
+timestamp: 2026-09-13
 description: "La oración es la elevación de la mente a Dios para alabarle y pedirle cosas convenientes a la eterna salvación (Santo Tomás, recogiendo las definiciones de San Juan Damasceno); conciencia de sí hasta el fondo que se topa con un Otro según Giussani."
 ---
 
 # Oración
 
 > Área: Ascética / Mística
-> Última actualización: 2026-09-12
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -173,6 +173,12 @@ El número 23 de *Evangelization & Culture* está dedicado íntegramente a la or
 **Oración y formación.** Sr. Amelia Hueller OP ofrece tres consejos para la oración en jóvenes: la sensibilidad a los sentimientos (Hopkins, «Pied Beauty»), los sacramentos frente a la superstición (S.Th. 3,61,1), y la pureza del corazón como interioridad [EAC-23, 22_soul.md].
 
 **Oración y dignidad humana.** Mark Bradford medita sobre los «balbuceos de los niños» (Sal 8,3) como la oración de los débiles: Dios elige lo despreciado y débil (1 Cor 1,28-29); la amistad con los pequeños es amistad con Cristo (Mt 25,40); los santos con discapacidad como intercesoras privilegiadas [EAC-23, 23_peripheries].
+
+### Giussani — Affezione e dimora (AED)
+
+Para Giussani, «el valor de la oración está en que pide explícitamente aquello que desea»: pedir es el modo de educar el deseo y de reconocer la dependencia (AED, 12, 107-111). La oración se alimenta de todo lo que la recuerda: «este es el valor de la preghiera… el valor de todo lo que te recuerda, en primer lugar la casa» — la casa favorece la disponibilidad precisamente porque te recuerda a Cristo (AED, 12, 109). De ahí la unión entre oración y regla: «en lugar de oración y compañía deberíamos usar una única palabra… Regla», porque «la regla es el camino al destino» (AED, 12, 111).
+
+La oración encuentra su forma concreta en la compañía: su «milagro» es que se convierte en «la autoridad de nuestra vida» — no un poder externo, sino la carne viva de la memoria de Cristo que sostiene el pedir diario (AED, 12, 113-115).
 
 ## Distinciones importantes
 

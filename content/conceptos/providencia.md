@@ -2,14 +2,14 @@
 type: Concepto Teológico
 title: Providencia
 tags: ["dogmática"]
-timestamp: 2026-09-12
+timestamp: 2026-09-13
 description: "La divina providencia es la disposición con que Dios conduce todas las criaturas hacia su fin último; el cosmos y la vida como don de un Tú que nos hace según Giussani."
 ---
 
 # Providencia
 
 > Área: Dogmática
-> Última actualización: 2026-09-12
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -85,6 +85,12 @@ Fernanda Psihas confirma la misma convicción desde la misión: no hay casualida
 
 **La promesa (cap. V) y la confianza.** La vida se presenta como promesa (*la vita promette*): la conciencia de la propia desproporción y la espera de un cumplimiento fundan la disposición de confianza filial en la providencia (SR, `12_capitolo_quinto.md`, §81-95).
 
+### Giussani — Affezione e dimora (AED)
+
+Giussani profundiza la providencia identificándola con el «Tú que me hace»: «no hay ningún *tú* que pueda lograr esta reunificación, salvo aquel *Tú* que unifica el universo; el Ser es un *Tú*» (AED, 23, 87-95). Por eso «es inconcebible tutear a Dios»: el *tú* es «como un viento que te tira dentro del seno de otro» (AED, 23, 103). La providencia no es una ley impersonal sino una Presencia personal que sostiene cada instante.
+
+Todo lo creado está ordenado al descubrimiento de ese Tú: «como no hay nada inútil en el mundo y Dios ha creado todo para el ser, el deseo de posesión, la voluntad de posesión se convierte en el punto de partida para emprender el largo camino hacia el *Tú*» (AED, 23, 99-103). El impulso más espontáneo —el deseo de poseer— es en realidad el inicio del itinerario por el cual la criatura reconoce su referencia constitutiva a Dios: nada es casual, todo remite a la providencia de quien es el fundamento y el fin (AED, 23, 99-109).
+
 ## Distinciones importantes
 
 - **Providencia (razón del orden) vs. gobierno (ejecución del orden)**: la primera es eterna; la segunda, temporal.
@@ -114,3 +120,6 @@ Se relaciona con la [[predestinación]] (q.23, que es la providencia respecto al
 - TPCr, Parte II, Libro I, Cap. 12-13, providencia y abandono
 - SmTh Iª q.22 (La providencia de Dios); q.23 (La predestinación)
 - [EAC-15, 01, 09, 15, 20, 22]
+- AED — Giussani, *Affezione e dimora* (*Afección y morada*), BUR Rizzoli, 2007.
+- AED, 23, 87-103 — Tischrede 100: *La distanza è esser dentro* — el Ser es un Tú que unifica el universo.
+- AED, 23, 99-109 — Tischrede 100: *La distanza è esser dentro* — el deseo de posesión como camino hacia el Tú.

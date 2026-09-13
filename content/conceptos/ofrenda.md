@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Ofrenda
 tags: ["liturgia", "ascética"]
 
-timestamp: 2026-05-29
+timestamp: 2026-09-13
 description: "La ofrenda es el acto de ofrecer algo a Dios en señal de adoración, acción de gracias o súplica."
 ---
 # Ofrenda
 
 > Área: Liturgia / Ascética
-> Última actualización: 2026-05-29
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -38,6 +38,12 @@ Royo Marín, al tratar la virtud de la religión, distingue las ofrendas u oblac
 
 La vida espiritual, según Royo Marín, implica la oblación continua de sí mismo a Dios por la caridad. La mejor manera de dar gracias consiste en identificarse por el amor con Cristo y ofrecerle al Padre con todas sus infinitas riquezas (TPCr, Tercera Parte, Libro II, Cap. I, n.322). El sacerdote, al celebrar la [[misa]], debe ofrecerse a sí mismo juntamente con Cristo, pidiendo al Padre que lo convierta en «pan para ser comido por sus hermanos» (TPCr, Tercera Parte, Libro II, Cap. I, n.322).
 
+### Giussani — Affezione e dimora (AED)
+
+En la Tischrede 102 (AED, 22, 29-45), Giussani presenta la ofrenda como «la parola más importante»: «La parola "offerta" è la parola più importante fra tutte. Infatti, se la preghiera è domanda, l'offerta costituisce la forma di domanda più acuta»; «l'offerta domina tutte le cime delle altre domande». Su contenido es doble: reconocer que la realidad está hecha de Cristo —«l'offerta è, innanzitutto, riconoscere che ciò di cui la realtà è fatta, è Cristo» (AED, 22, 31)— y desear su revelación: «In Te consiste ogni cosa; perciò vieni!»: «un atto di riconoscimento o di fede... e un atto di amore ("Vieni!"), di affermazione» (AED, 22, 37).
+
+Por eso la ofrenda es «già l'esperienza di un possesso completo» (AED, 22, 43): lo que se devuelve a Dios no se pierde, porque está hecho de Él. «L'offerta non è qualcosa che fai: è qualcosa che riconosci, che adori» (AED, 22, 107), un «struggimento di rivelazione» que se cumple también en los gestos cotidianos.
+
 
 ## Distinciones importantes
 
@@ -62,3 +68,4 @@ La ofrenda se relaciona con la [[oblación]] como expresión concreta del acto d
 - TPCr, Tercera Parte, Libro II, Cap. II, n.398 (ofrendas u oblaciones)
 - TPCr, Tercera Parte, Libro II, Cap. I, n.322 (oblación personal en la Misa)
 - CIC cc. 945-958 (ofrendas de Misas)
+- AED, 22 (§29-45, 107) — Tischrede 102: *L'adorazione possibile* — la ofrenda como forma más aguda de la pregunta y experiencia de posesión completa.

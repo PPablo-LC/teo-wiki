@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Piedad
 tags: ["ascética", "moral"]
 
-timestamp: 2026-06-10
+timestamp: 2026-09-13
 description: "Virtud que inclina a tributar a Dios el culto debido y a honrar a los padres y a la patria (piedad filial)."
 ---
 # Piedad
 
 > Área: Ascética / Moral
-> Última actualización: 2026-06-10
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -39,6 +39,12 @@ La piedad (q.101) es una virtud especial, parte potencial de la justicia, por la
 
 La entrada «Piedad» del VocTeoBib muestra que la piedad bíblica (*hesed*) designa la adhesión mutua que une a parientes, amigos y aliados (Gen 47,29; 1Sa 20,8); se manifiesta en actos de amor fiel y compasivo. Dios muestra su *hesed* a Israel (Ex 34,6; Jer 31,3), y el hombre debe responder con adhesión filial traducida en obediencia y culto (Dt 10,12s). El Mesías estará dotado de piedad (Is 11,2). Cristo es el «piadoso» por excelencia (Act 2,27; Sal 16,10); su piedad filial le lleva a cumplir la voluntad del Padre (Jn 8,29). El misterio de Cristo se llama «el misterio de la piedad» (1Tim 3,16). La piedad cristiana se opone a las prácticas vanas de una piedad falsa (Col 2,16-23).
 
+### Giussani — Affezione e dimora (AED)
+
+En la Tischrede 23 (AED, 32, 99), tener piedad es aceptar la realidad: «Aver pietà vuol dire accettare le cose come sono; accettare se stessi... accettare una persona secondo la modalità con cui essa sta camminando verso il suo destino».
+
+La piedad es ante todo misericordia hacia uno mismo: quien se descubre con antipatía hacia otro debe «avere pietà di se stesso», lo cual le hace capaz de acoger también a la persona antipática (AED, 32, 95). Su fuente es Cristo: «Cristo ha avuto pietà di noi, che eravamo pieni di bestemmia e di dimenticanza di Lui» — Él tuvo piedad «quando eravamo nemici e lontani» (AED, 32, 103; cf. Rm 5, 6-10).
+
 ## Distinciones importantes
 
 - Piedad como virtud moral vs. don del Espíritu Santo
@@ -56,3 +62,4 @@ La entrada «Piedad» del VocTeoBib muestra que la piedad bíblica (*hesed*) des
 - CEC §463, §958, §971
 - TPCr, Tercera Parte, Libro II, cap. II (don de piedad)
 - TPCr, Primera Parte (piedad filial mariana)
+- AED, 32 (§95, 99, 103) — Tischrede 23: *La lotta di Tersite* — tener piedad como aceptación de la realidad y del otro según su destino.

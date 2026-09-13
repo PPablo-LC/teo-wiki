@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Libertad
 tags: ["moral_fundamental", "antropología_teológica"]
 
-timestamp: 2026-09-12
+timestamp: 2026-09-13
 description: "Facultad de la voluntad por la cual el hombre puede determinar sus propios actos hacia su fin último sin coacción externa ni necesidad interna. Pinckaers distingue dos concepciones antitéticas: libertad de indiferencia y libertad de calidad; Giussani la presenta como capacidad del fin último."
 ---
 # Libertad
 
 > Área: Moral Fundamental / Antropología Teológica
-> Última actualización: 2026-09-12
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -126,6 +126,12 @@ Bishop Robert Barron (01_from_the_desk.md) completa esta visión: «somos libres
 **La opción de fondo (cap. XII).** La libertad se juega en la «aventura de la interpretación»: ante el enigma de lo real, el hombre elige obrar «pane al pane, vino al vino» (reducir la realidad a lo utilizable) o abrirse a la totalidad. Se llega a Dios también con la libertad: la elección de fondo no es un presupuesto sino el primer uso responsable de la libertad (SR, `19_capitolo_dodicesimo.md`, §10-30).
 
 **Educación a la libertad (cap. XIII).** La libertad se educa como responsabilidad: la libertad se juega como interpretación del signo, y educarla es educar la atención, la aceptación y la hipótesis positiva. Cita a Newman (*Apologia pro vita sua*): el yo y Dios son los dos seres evidentes; la libertad crece en la medida en que el hombre adhiere al ser y a su significado (SR, `20_capitolo_tredicesimo.md`, §1-9, 66-93).
+
+### Giussani — Affezione e dimora (AED)
+
+En *Affezione e dimora*, la libertad se juega ante el Misterio. El pecado original es la posibilidad de decir «no» que permanece inerente a cada relación: «la libertad es la sfida del Essere a la libertad» — el positivo es «el Misterio que se presenta a la libertad», y la tentación es querer sistemas tan perfectos que «sería inútil ser buenos» (AED, 23, 181). La libertad, sin embargo, está hecha para la adhesión: «la libertad debe favorecer la implicación afectiva total»; el mal es «nuestra libertad fallida», porque «la libertad es reconocer y recibir al otro» (AED, 09, 121; AED, 12, 167).
+
+El fruto maduro de la libertad es el vínculo: «el vínculo es el resultado, la obra de la libertad» — no su negación, como cree «la conciencia religiosa enfadada» (AED, 28, 73-75). Quien vive la raíz de la compañía «es libre»: «libre no de lo que los otros son, sino de lo que los otros hacen, del modo de actuar de los otros» (AED, 31, 209). La libertad se ejerce, en fin, en el sacrificio: «el sacrificio quiere decir usar las cosas según la armonía general… es para la libertad»; la medida de todo es la gloria de Dios (AED, 16, 125).
 
 ## Relaciones doctrinales
 

@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Imagen de Dios
 tags: ["dogmática", "antropología_teológica"]
 
-timestamp: 2026-09-07
+timestamp: 2026-09-13
 description: "El hombre ha sido creado \"a imagen y semejanza de Dios\" (Gn 1,26)."
 ---
 # Imagen de Dios
 
 > Área: Dogmática / Antropología teológica
-> Última actualización: 2026-09-07
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -142,6 +142,12 @@ Bobby Angel sitúa la comedia dentro del imago Dei: «En materia teológica, la 
 
 **La subcreación: «hechos a imagen y semejanza de un Hacedor» (Stewart).** Siguiendo a Tolkien, la escritora Haley Stewart recuerda la relación vertical entre Dios Creador y el hombre, portador de su imagen, que actúa como [[subcreación]]: «Hacemos en nuestra medida y en nuestro modo derivado, porque fuimos hechos; y no solo hechos, sino hechos a imagen y semejanza de un Hacedor» [EAC-19, 17_feature_stewart.md, L25]. Usamos las herramientas que Dios nos da para crear a imitación suya; en su forma más pura, el arte es un acto de adoración, y el escritor da gloria a Dios mediante su subcreación.
 
+### Giussani — Affezione e dimora (AED)
+
+Giussani capta el nervio de la imagen de Dios en la capacidad de sentir: «¡Es hermoso que el hombre sea tan capaz de sentir — casi como Dios!»; «está llamado a sentir a Dios» (AED, 15, 187-189). Por eso la semejanza con Dios se mide por la intensidad con que todo atrae: «cuanto más te asemejas a Dios —es decir, cuanto más todo te atrae—, tanto más el corazón de tu existencia coincide con el dolor». Y quien «se asemeja» más a Dios es Jesús: «¿cuál es el corazón de su existencia? La cruz». Pero la cruz no es la negación de nada: «Padre, perdona a estos hombres, porque no saben lo que hacen» (AED, 15, 205).
+
+Esta semejanza se ejerce como libertad y sacrificio: «la libertad suprema es el mendigar, no es hacer tú alguna cosa», porque únicamente el que reconoce su indigencia radical ante Dios se asemeja a quien se dio ciegamente (AED, 15, 197). «Se habla del sacrificio y se toca el corazón de la cuestión»: el corazón de la cuestión humana se toca con la palabra *sacrificio* (AED, 15, 203), que es la forma suprema de la semejanza con el Crucificado. «Si se parte afirmativamente, todo se vuelve más simple, aunque más doloroso»: «todo lo puedo en Aquel que me conforta» (Flp 4,13) (AED, 15, 185).
+
 ## Distinciones importantes
 
 - Imagen natural: la inteligencia y voluntad libres que todo ser humano posee por naturaleza
@@ -183,3 +189,6 @@ Se relaciona con la [[creación]] del hombre, el [[pecado_original]] que la desf
 - [EAC-16, 09_science.md]
 - EAC-17, *Evangelization & Culture, Issue 17 — Education* (Autumn 2023), Word on Fire Institute (Baglow, 11_science.md; Barnard, 24_peripheries_barnard.md)
 - [EAC-19, 13_art.md; 16_feature_vukov.md; 17_feature_stewart.md]
+- AED — Giussani, *Affezione e dimora* (*Afección y morada*), BUR Rizzoli, 2007.
+- AED, 15, 185-189 — Tischrede 129: *Il cuore della questione* — la imagen de Dios como capacidad de sentir y el primado del sí.
+- AED, 15, 197-205 — Tischrede 129: *Il cuore della questione* — semejanza con Dios, libertad que mendiga y sacrificio.

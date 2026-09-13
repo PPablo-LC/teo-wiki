@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Obediencia
 tags: ["moral", "ascética"]
 
-timestamp: 2026-07-20
+timestamp: 2026-09-13
 description: "La obediencia es la virtud moral que inclina la voluntad a cumplir los mandatos de la autoridad legítima por consideración a Dios."
 ---
 # Obediencia
 
 > Área: Moral / Ascética
-> Última actualización: 2026-07-20
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -94,6 +94,12 @@ La obediencia de San Francisco es total, radical y alegre, basada en la renuncia
 
 **Obediencia en la Salutación de las Virtudes:** La obediencia es una de las seis virtudes hermanas que «confunde todos los deseos corporales y carnales y mantiene el cuerpo mortificado a la obediencia del espíritu y a la obediencia de un hermano» (SalV. 1-9).
 
+### Giussani — Affezione e dimora (AED)
+
+En la Tischrede 44 (AED, 16, 241-249), la obediencia es la traducción existencial de la vigilancia cristiana: «la veglia traduce il suo contenuto: – nell'obbedienza, cioè affermare altro. Affermare altro in quello che vorresti fare... è un sacrificio – e nella regola, che è data dalla compagnia». La obediencia no es sumisión ciega: «l'obbedienza stabilisce come si deve agire», mientras la regla define el camino «già col presentimento, con un gusto iniziale» (AED, 16, 249).
+
+En la Tischrede 45 (AED, 17, 265-269), la obediencia es camino de realización personal: «È dentro l'obbedienza che uno diventa se stesso». Y su dinamismo actuante es la fidelidad: «La parola fedeltà è ancora più giusta, perché è l'obbedienza nel suo dinamismo attuantesi, nel dinamismo con cui si attua» (AED, 17, 269).
+
 ## Distinciones importantes
 
 - Obediencia a Dios (absoluta) vs. obediencia a los hombres (relativa, limitada por la ley de Dios).
@@ -152,3 +158,5 @@ Se relaciona con [[obediencia_de_la_fe]], [[consejos_evangélicos]], [[voto_de_o
 - [SFrAs, Test. 21-22 — Obediencia al ministro general]
 - [SFrAs, CMin. 5-7, 13 — Obediencia como sufrimiento y misericordia]
 - [SFrAs, SalV. 1-9 — Obediencia como virtud]
+- AED, 16 (§241-249) — Tischrede 44: *Secondo l'armonia generale* — obediencia y regla como traducción de la vigilia.
+- AED, 17 (§265-269) — Tischrede 45: *L'affermazione amorosa* — la obediencia como dinamismo en que uno se vuelve sí mismo.

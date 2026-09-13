@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Vocación
 tags: ["dogmática", "moral", "ascética"]
 
-timestamp: 2026-08-24
+timestamp: 2026-09-13
 description: "La vocación es la llamada de Dios al hombre para que, en libertad, responda al designio divino sobre su vida."
 ---
 # Vocación
 
 > Área: Dogmática / Moral / Ascética
-> Última actualización: 2026-08-24
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -66,6 +66,12 @@ En *La vocación explicada*, Juan Pablo II presenta la vocación como un misteri
 El Papa describe el **proceso vocacional** en tres momentos humanos: el descubrimiento («encontrar la perla de gran valor»), el diálogo en la oración entre Jesús y el llamado, y la respuesta como «Sí lleno de fe». La llamada se percibe como «suave soplo a través del toque esclarecedor de la gracia; un soplo del Espíritu Santo» que enciende una luz nueva e infunde fuerza extraordinaria. Ante las reservas que la razón opone, «Dios aporta el poder de su gracia», y ciertas experiencias de entusiasmo religioso son solo gracias iniciales y pasajeras que empujan hacia la conversión. La vocación puede ser incluso «el resultado de una batalla con Él».
 
 La medida del éxito de la vida es la generosidad: encontrar la vida entregándola, «perdiéndola», compartiéndola (Jn 12,25). Los medios para ver claro el camino son la oración, los sacramentos —singularmente la Penitencia como medio eficaz de crecimiento espiritual— y la dirección espiritual, que «ayuda a superar el peligro de la arbitrariedad a la hora de conocer y decidir la propia vocación a la luz de Dios». La vocación es siempre apostólica: Dios quiere llamar a través de otras personas (Andrés condujo a Pedro; Felipe a Natanael), y exige perseverancia: «solo puede llamarse fidelidad a una coherencia que dure toda la vida» [VocExp].
+
+### Giussani — Affezione e dimora (AED)
+
+Para Giussani, la vocación es la promesa que espera a quien obedece a la regla: «lo que te espera al día siguiente… es una relación más profunda con el Misterio de tu vida, es decir, con Cristo, con el hombre que han encontrado Juan y Andrés, que es tu destino» (AED, 09, 47-49). El motivo de la vocación no es el sacrificio sino el amor: «la vocación no puede ser por un sacrificio, porque es solo por un amor; de otro modo es lo contrario de la vida»; de ahí la necesidad de «una partida humana, es decir, desde la realidad» (AED, 11, 205).
+
+El designio de Dios «se te aparece como propuesta», no como imposición: «la creatura incluye la posibilidad del no» — por eso la vocación se acoge en libertad (AED, 33, 123-125). El llamado último es Cristo, que se hace presente a través de la compañía que te anuncia: «el ángel que te trae el anuncio es la compañía»; la obra nueva de la humanidad «se edifica sobre la fragilidad de tu sí», como el sí de la Virgen al anuncio (AED, 35, 97-101).
 
 ## Distinciones importantes
 

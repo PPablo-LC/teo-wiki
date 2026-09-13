@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Pobreza evangélica
 tags: ["ascética"]
 
-timestamp: 2026-07-20
+timestamp: 2026-09-13
 description: "La pobreza evangélica es el desprendimiento voluntario de los bienes temporales por amor a Cristo y al Evangelio."
 ---
 # Pobreza evangélica
 
 > Área: Ascética
-> Última actualización: 2026-07-20
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -97,6 +97,12 @@ San Francisco de Asís encarna la pobreza evangélica en su forma más radical y
 
 **Pobreza y reino:** Las Alabanzas definen el reino como «la clara visión de Ti, el perfecto amor de Ti, la bendita compañía de Ti» (Laud. 23-25). La pobreza evangélica es el camino para alcanzar este reino.
 
+### Giussani — Affezione e dimora (AED)
+
+Giussani presenta al pobre por espíritu como quien ofrece: «la ofrenda es, ante todo, reconocer que aquello de lo que la realidad está hecha es Cristo»; quien descubre que Cristo es la consistencia de todas las cosas alcanza «la experiencia de una posesión completa» — «lo que tienes entre las manos, el rostro que tienes entre las manos morirá o está por morir, pero, estando hecho de Cristo, ya no lo pierdes» (AED, 22, 31-43).
+
+Este es el sentido del desapego evangélico: «hay todo el problema del desapego inherente para ser experiencia de posesión completa» (AED, 22, 47). Como el aeroplano que, antes de despegar, hace subir el motor al máximo hasta que toda la estructura vibra, el amor que se detiene a un metro del objeto querido posee más que quien lo agarra con ambas manos: «en aquel momento quieres a la persona cien mil veces más que si la agarraras con las dos manos» (AED, 22, 47-51). La pobreza es así la adoración que reconoce en toda criatura el signo de Cristo y que, por eso, «nada en el mundo la puede cancelar» (AED, 22, 57).
+
 ## Distinciones importantes
 
 - Pobreza evangélica (virtud) vs. [[pobreza]] (concepto amplio que incluye también lo socioeconómico)
@@ -124,3 +130,6 @@ San Francisco de Asís encarna la pobreza evangélica en su forma más radical y
 - SFrAs, Adm. 1-2
 - SFrAs, SalV. 1-6
 - SFrAs, Laud. 11-13, 23-25
+- AED — Giussani, *Affezione e dimora* (*Afección y morada*), BUR Rizzoli, 2007.
+- AED, 22, 31-43 — Tischrede 102: *L'adorazione possibile* — la ofrenda como reconocimiento de que la realidad es Cristo.
+- AED, 22, 47-57 — Tischrede 102: *L'adorazione possibile* — el desapego evangélico y la adoración como posesión completa.

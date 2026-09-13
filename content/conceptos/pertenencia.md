@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: "Pertenencia"
 description: "Necesidad humana innata de formar parte de algo mayor que uno mismo (Brown); en Juan Pablo II, la pertenencia recíproca del hombre y la mujer («mío… mía») se entiende por analogía personal, no como propiedad."
 tags: [antropología, análisis_cultural, matrimonio]
-timestamp: 2026-08-23
+timestamp: 2026-09-13
 ---
 
 # Pertenencia
 
 > Área: Antropología / Análisis cultural / Matrimonio
-> Última actualización: 2026-08-23
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -43,6 +43,12 @@ En la catequesis sobre la donación mutua (TdC 33):
 
 **Lectura doctrinal**: ambas fuentes convergen en que la pertenencia auténtica exige ser acogido como persona y no consumido como objeto; la fe fundamenta esa exigencia en la dignidad de la persona creada por amor y llamada a la comunión con Dios y entre los hombres.
 
+### Giussani — Affezione e dimora (AED)
+
+En la Tischrede 129 (AED, 15, 145), la pertenencia define el amor cristiano: «Amare Cristo vuol dire coscienza di appartenere. Infatti, amare vuol dire coscienza di appartenere». Seguir a Cristo es «riconoscere di appartenere» (AED, 15, 145): la conciencia de pertenencia es la sustancia misma del seguimiento.
+
+La pertenencia es condición de la preferencia: «Se tu non incominci a far parte, come fai a giungere alla preferenza? Non giungerai mai» (AED, 15, 39). Por eso la invocación al Espíritu: «Fammi accettare il miracolo della compagnia» (AED, 15, 33). Coincide con el análisis bíblico-teológico expuesto: la pertenencia auténtica es don recíproco y comunión, no posesión.
+
 ## Analizado en contexto cultural
 
 - [[los_dones_de_la_imperfeccion_brene_brown]] — la pertenencia junto al amor como experiencia esencial humana; convergencia con la vocación a la comunión; tensión por horizonte inmanente.
@@ -66,3 +72,4 @@ Se relaciona con [[amor]], [[amor_propio]], [[valía_personal]], [[autenticidad]
 - Brown, B. (2010). *Los dones de la imperfección*, cap. 5
 - Juan Pablo II, Catequesis sobre la Teología del Cuerpo, n. 33 (la donación mutua del hombre y la mujer en el matrimonio)
 - Resúmenes: `wiki/Resúmenes/Los_dones_de_la_imperfeccion_capitulos/`, `wiki/Resúmenes/Teologia del Cuerpo - Juan Pablo II/76_33…`
+- AED, 15 (§33, 39, 145) — Tischrede 129: *Il cuore della questione* — amar como conciencia de pertenecer; la pertenencia como camino a la preferencia.

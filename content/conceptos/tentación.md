@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Tentación
 tags: ["ascética_y_moral"]
 
-timestamp: 2026-08-07
+timestamp: 2026-09-13
 description: "La tentación es toda incitación al mal, ya proceda del demonio, del mundo o de la propia concupiscencia."
 ---
 # Tentación
 
 > Área: Ascética y Moral
-> Última actualización: 2026-08-07
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -81,6 +81,12 @@ Las tentaciones, si no se buscan y se aprovechan como motivo de esfuerzo moral, 
 
 Tradicionalmente se ha dicho que las tentaciones proceden de tres fuentes. 1) **El mundo**: no el mundo en cuanto criatura de Dios, que es bueno, sino el mundo pervertido por el pecado, que se comporta como enemigo de Dios e incita a los hombres a separarse de Él; las consecuencias del pecado original y de todos los pecados personales confieren al mundo en su conjunto una condición pecadora, que puede designarse con la expresión de San Juan «el pecado del mundo» (Jn 1, 29). 2) **El demonio**: es el tentador por antonomasia; su tarea es instigar al hombre a ofender a Dios por odio contra Él: «No es nuestra lucha —enseña San Pablo— contra la sangre o la carne, sino contra los principados, las potestades, las dominaciones de este mundo de tinieblas, y contra los espíritus malignos que están en los aires» (Ef 6, 12). 3) **La carne**: la palabra carne significa el hombre viejo marcado por el pecado; se llama también concupiscencia, no como apetito sensitivo, sino como inclinación interior al mal, es decir, el desorden de las fuerzas del alma como resultado de los pecados, original y actuales (*fomes peccati*). (Ele_Xto_Stos, Cap. XI, §6c)
 
+### Giussani — Affezione e dimora (AED)
+
+En la Tischrede 59 (AED, 08, 155), la tentación es la insinuación del equívoco: «La tentazione è l'insinuarsi dell'equivoco, è l'equivoco che tenta di insinuarsi. Si dice: "Ti voglio bene" e invece è: "Ti voglio prendere"». En la Tischrede 45 (AED, 17, 149-151), es lo hostil al ser que se presenta como bien: satanás parece positivo —«Mangia di tutto, non fare nessun sacrificio»— «e l'esito è la morte».
+
+En la Tischrede 184 (AED, 20, 45), la tentación «per sua natura tende a durare» (como el verbo iterativo latino *temptare*: continuamente ser arrancado); Giussani remite al CEC §1857 para distinguir el pecado grave de las turbulencias momentáneas. La responsabilidad más grave está en la connivencia con el recuerdo que insiste (AED, 20, 55; cf. Lewis, *Cartas del diablo a su sobrino*). Se supera «non quando la si è cacciata, la si è estirpata, ma quando sembra sopravvivere mentre non ha più le radici» (AED, 20, 111-113).
+
 ## Distinciones importantes
 
 Dios no tienta al mal (St 1,13); permite la tentación para mayor bien del alma. La tentación diabólica suele ser repentina, violenta y tenaz. La resistencia indirecta (distraer la mente) es especialmente recomendada en tentaciones contra la fe o la castidad.
@@ -105,3 +111,6 @@ Dios no tienta al mal (St 1,13); permite la tentación para mayor bien del alma.
 - SmTh IIIª q.41, sobre la tentación de Cristo
 - [EjEsp2026, cap. 1, 5, 8]
 - Ele_Xto_Stos, *Elegidos en Cristo para ser santos*, Cap. XI, §6c
+- AED, 08 (§155) — Tischrede 59: *Perché mi è data questa umanità* — la tentación como insinuación del equívoco.
+- AED, 17 (§149-151) — Tischrede 45: *L'affermazione amorosa* — la tentación como hostilidad al ser que parece positiva.
+- AED, 20 (§45, 111-113) — Tischrede 184: *Situazione temporalesca* — la tentación que tiende a durar; cuándo se vence.

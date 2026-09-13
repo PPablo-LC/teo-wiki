@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Matrimonio
 tags: ["sacramental"]
 
-timestamp: 2026-08-09
+timestamp: 2026-09-13
 description: "El matrimonio es el sacramento instituido por Nuestro Señor Jesucristo que santifica la unión legítima entre un varón y una mujer."
 ---
 # Matrimonio
 
 > Área: Sacramental
-> Última actualización: 2026-08-09
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -231,6 +231,12 @@ La familia es una **comunión de personas** (*communio personarum*) que implica 
 
 El matrimonio es además vocación y camino de santidad: «el matrimonio comporta siempre una elección bien meditada, el mutuo compromiso ante Dios, y la constante petición de su ayuda en la oración»; «la formación en el amor verdadero es la mejor preparación para la vocación al matrimonio» [archivo 22]. Los padres viven su castidad conyugal como «el mejor presupuesto para educar a los hijos en el amor casto» (véase [[educación_a_la_castidad]]). En clave apologetica-pedagógica, Tóth recuerda que la Iglesia «siempre ha estado a favor de la emancipación de la mujer», frente a la reducción luterana de su vocación al matrimonio [archivo 15], y que Aparecida presenta la familia fundada en el sacramento como imagen del Dios-Trinidad: «la familia es imagen de Dios que, en su misterio más íntimo no es una soledad, sino una familia» [archivo 42].
 
+### Giussani — Affezione e dimora (AED)
+
+Giussani interpreta el capítulo 19 de Mateo a la luz de la vocación: la relación hombre-mujer en su estabilidad «tiene como su razón de ser, es decir, como su fin, el reino de los cielos». Sin esta referencia, la unión «está cerrada en sí misma, sorda», incapaz de abrir la boca y los oídos del encuentro humano (AED, 33, 61-63).
+
+La indisolubilidad —«la eternidad dentro de una relación humana»— es imposible al hombre «si no tiene delante a Dios» (AED, 33, 65). El reino de los cielos «hace resultar la belleza, la certeza, la permanencia y la libertad de esa relación» vista en su fin último (AED, 33, 75). De ahí la fórmula que resume la moralidad del amor: «que el amor haga fácil la fidelidad, para que la fidelidad haga cierto el amor»; la fidelidad es «el lazo entre el amor y la totalidad», la moralidad del amor (AED, 33, 83-85).
+
 ## Distinciones importantes
 
 - **Matrimonio como contrato natural vs. como sacramento**: entre bautizados, el contrato válido es ipso facto sacramento
@@ -283,3 +289,7 @@ El matrimonio es además vocación y camino de santidad: «el matrimonio comport
 - [TdC 13.08.1980]
 - [TdC 20.08.1980]
 - [TdC 27.08.1980]
+- AED — Giussani, *Affezione e dimora* (*Afección y morada*), BUR Rizzoli, 2007.
+- AED, 33, 61-65 — Tischrede 49: *La discrezione* — la relación hombre-mujer, ordenada al reino de los cielos.
+- AED, 33, 75 — Tischrede 49: *La discrezione* — el reino hace resultar la belleza y la permanencia del amor.
+- AED, 33, 83-85 — Tischrede 49: *La discrezione* — la fidelidad como moralidad del amor.

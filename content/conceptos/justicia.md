@@ -3,13 +3,13 @@ type: Concepto Teológico
 title: Justicia
 tags: ["moral", "dogmática"]
 
-timestamp: 2026-09-12
+timestamp: 2026-09-13
 description: "La justicia es la segunda de las virtudes cardinales, virtud infusa que reside en la voluntad, por la que se da a cada uno lo suyo; exigencia que remite más allá de la historia según Giussani."
 ---
 # Justicia
 
 > Área: Moral / Dogmática
-> Última actualización: 2026-09-12
+> Última actualización: 2026-09-13
 
 ## Definición
 
@@ -62,6 +62,12 @@ León XIV trató la justicia en su discurso ante el Parlamento español como fun
 
 **El deseo de justicia y la esperanza.** La exigencia de justicia se inserta en la trama de exigencias últimas (verdad, justicia, felicidad y amor) que constituyen la estructura del sentido religioso; reducirlas a dimensiones puramente inmanentes es uno de los «apaños» irracionales que vacían la pregunta de fondo y a la larga la anarquía y la arbitrariedad (SR, `18_capitolo_undicesimo.md`, §25-45; `14_capitolo_settimo.md`, §73-88).
 
+### Giussani — Affezione e dimora (AED)
+
+Para Giussani, la justicia se hunde en la fe: «Es verdaderamente cierto que la justicia es la fe. La fe es el acto por el que reconoces una Presencia» (AED, 22, 137). La justicia entre los hombres solo es auténtica si parte del reconocimiento de que la realidad es don y no conquista: «Estamos aquí porque está el Señor» (AED, 22, 133). La alianza —que no se mide por los pecados— es el fundamento de toda convivencia justa, pues la certeza en la fidelidad de Dios precede y sostiene cualquier orden social (AED, 22, 131-145).
+
+El signo que Dios ha elegido en el mundo es «lo muy débil, lo muy pequeño» (AED, 22, 143), lo que desarma toda pretensión de imponer la justicia por la fuerza. La oración —«venga Tu Reino, hágase Tu voluntad»— es el acto de justicia por excelencia, porque sitúa al hombre en su lugar verdadero: el de la criatura que depende de su Creador (AED, 22, 141, 147).
+
 ## Relaciones doctrinales
 
 Ver artículo principal: [[virtud_de_la_justicia]]
@@ -84,3 +90,6 @@ Ver artículo principal: [[virtud_de_la_justicia]]
 - SmTh IIa-IIae q.58 (la justicia)
 - SmTh IIa-IIae q.61 (distributiva y conmutativa)
 - TPCr, Tercera Parte, Libro I, Cap. VI
+- AED — Giussani, *Affezione e dimora* (*Afección y morada*), BUR Rizzoli, 2007.
+- AED, 22, 131-147 — Tischrede 102: *L'adorazione possibile* — la justicia como fe en una Presencia.
+- AED, 22, 143 — Tischrede 102: *L'adorazione possibile* — el signo de Dios es lo muy débil.
