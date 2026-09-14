@@ -91,6 +91,17 @@ Juan Pablo II desarrolla la llamada universal a la santidad (cf. *Lumen Gentium*
 
 **Los «All Stars» de la santidad (varios):** El número presenta una galería de testigos: Michael Adams (baloncesto → conversión), Vin Scully (narración como vocación), Lou Gehrig (sufrimiento ofrecido), Mike Piazza (Misa diaria y Rosario), Fr. Burke Masters (discernimiento vocacional), Brenda Lorena García (Hollywood como Kolkata), Eunice Kennedy Shriver (Juegos Especiales como obra de misericordia). Cada uno muestra que la santidad se vive en la cancha, en el micrófono, en el banquillo, en la pista —donde el cuerpo, el talento y la gracia se encuentran.
 
+### Según Ritratti di santi (RdS)
+
+La meditación «La santità del cristiano» (cap. 10) sintetiza la doctrina en cuatro tesis que cada retrato del libro ilustra en vivo:
+
+1. **Santidad como vocación universal**: «Non ideo vocati quia sancti, sed ideo sancti quia vocati» (Agustín). La llamada no es la separación de un pueblo santo entre pueblos impuros (como en el AT) sino «vocazione universale»: Dios ha abierto «una 'casa di santità' dove tutti possono essere ospitati» (cf. LG 40; Mt 5,48). «Tutti i cristiani hanno la vocazione di essere santi e tutti gli altri uomini hanno la vocazione di diventare cristiani» (parafraseando Péguy).
+2. **Santidad como don-avvenimiento**: nueva creación, regeneración, nueva nacimiento, inabitación del Espíritu (2 Cor 5,17; 1 P 1,3); los «dieci privilegi» del bautismo según Juan Crisóstomo. Contra el «virus pelagiano» que recurre en cada época: «che pretendiate di far consistere la grazia di Cristo nel suo esempio e non nel suo dono» (Agustín, *C. Iulianum*). «La santità non consiste nel fatto che l'uomo dà tutto, ma nel fatto che Dio prende tutto» (Adrienne von Speyr). Y también el peligro opuesto: el protestantismo erró «non perché ha affermato la salvezza per la 'sola fede', ma perché ha trascurato d'affermare con pari vigore che con la fede ci si abbandona a Cristo in modo da produrre necessariamente ancor più opere» — como Teresa de Ávila: el matrimonio espiritual tiende «a produrre opere e opere».
+3. **Santidad como compito (tarea)**: «Ogni dono affida un compito», sintetizado por la tradición como «diventa quello che sei». Hay «un volto comune» (Col 3,10-15: misericordia, bondad, humildad, dulzura, paciencia, caridad como «vincolo della perfezione») y una impronta personal «proprio quodam modo»: santidad «per me» es «fare la volontà che Dio ha su di me», no un modelo abstracto. Claudel: «Santità non è baciare sulla bocca un lebbroso... ma fare la volontà di Dio, prontamente, si tratti di stare al proprio posto o di salire più in alto». Santa Teresita: la santidad sin modelos possibles hasta hallar «il suo posto, datole da Dio».
+4. **Santidad eclesial**: «Non c'è santo la cui santità non si identifichi con un ministero che serve all'edificazione dell'intero corpo»; ninguna santidad aislada: la vocación está «inscritta dentro un perimetro ecclesiale». El gesto pleno de la santidad es «farsi eucarestia, nel distribuire la propria esistenza come cibo» (Ef 5,25-26; Rm 12,1; 1 Tes 5,18: «fate eucarestia di tutte le cose»).
+
+Los retratos muestran además la santidad sin orgullosa separación: «Fu il più santo fra i santi, e tra i peccatori uno di loro» (Vita prima, de S. Francisco); y la santidad nacida en la pobreza: «dobbiamo rispettare la forza e la libertà della Grazia di Dio, e non credere mai che essa debba arrestarsi davanti alla povertà umana» (cap. 11, S. María Goretti). La pregunta de fondo la plantea Camus por boca de Tarrou (*La peste*): «Se si può essere un santo senza Dio è il solo problema concreto che oggi io conosca» — sin Dios solo queda «la presenza d'un amore in qualche modo trascendente, 'mariano', come un lontano abbozzo di grazia».
+
 ## Distinciones importantes
 
 - **Santidad ontológica**: la gracia santificante en el alma (santidad de estado).
@@ -118,3 +129,4 @@ La santidad se funda en la [[gracia_santificante]], se expresa en las [[virtudes
 - [JorSant-2026, 12.06.2026]
 - [EAC-8, Issue 8 «Humor», archivos 05, 16, 21]
 - [EAC-20, 05_lives.md (Caldwell), 23_soul.md (Gadberry), 10_spotlight_adams.md, 11_minds.md, 12_science.md, 20_special_feature_piazza.md, 21_spotlight_masters.md, 16_feature_garcia.md, 19_feature_bradford.md]
+- [RdS, cap. 10 «La santità del cristiano»]

@@ -86,6 +86,12 @@ El documento subraya que la evangelización tiene como centro el **kerigma** —
 
 [Ele_Xto_Stos, Cap. III, §6] El apostolado cristiano es siempre evangelización y santificación: se dirige «a manifestar al mundo el mensaje de Cristo con palabras y obras y a comunicar su gracia» (Apostolicam actuositatem, n. 6). Toda la actividad de la Iglesia ordenada a «hacer partícipes a todos los hombres de la redención salvadora, y, por medio de estos hombres, ordenar realmente todo el mundo hacia Cristo» se llama «apostolado» (AA, n. 2). La llamada radical al apostolado deriva no de un ministerio o de particulares circunstancias, sino de la unión con Cristo Cabeza (AA, n. 3). El apostolado cristiano comporta también «el anuncio y la propuesta moral» (Veritatis splendor, n. 107).
 
+### Según Ritratti di santi (RdS)
+
+- **La evangelización por los medios de Kolbe** (cap. 12): el ideal de «inondare la terra con un diluvio di stampa cristiana e mariana, in ogni lingua, in ogni luogo, per affogare nei gorghi della verità ogni manifestazione di errore»: «fasciare il mondo di carta scritta con parole di vita per ridare al mondo la gioia di vivere». La Milicia dell'Immacolata (800.000 inscritos en 1939) aspira a estar presente en educación, opinión pública, artes y ciencias: «la Milizia impregni tutto». Niepokalanow (762 religiosos, 8 revistas, «Il cavaliere dell'immacolata» con un millón de copias) y el «giardino dell'immacolata» en Japón: la evangelización como conquista «con ardito attacco, non badando affatto a se stessi».
+- **La evangelización por la educación de don Bosco** (cap. 7): el oratorio como «parrocchia dei ragazzi che non hanno parrocchia»; Rosmini «paragonava la nostra opera alle missioni che si aprono in terra straniera»: la primera industrialización de Turín como tierra de misión. Millones de italianos formados en 125 años de oratorios salesianos — «semplicemente vedeva il bisogno e interveniva... su uomini concreti, quelli che la storia la fanno tutti i giorni».
+- **La evangelización del sufrimiento** (caps. 3 y 5): Benedetta Bianchi Porro escribe incluso en los periódicos (celebérrima su carta a *Epoca*) «per dare conforto a giovani come lei sofferenti ma disperati»; Edith Stein muere diciendo «Vieni, andiamo per il nostro popolo»: el testimonio mismo como evangelización.
+
 ## Relaciones doctrinales
 
 Se relaciona con [[doctrina_social_de_la_iglesia]], [[misión_de_la_iglesia]], [[nueva_evangelización]], [[promoción_humana]], [[justicia_social]], [[reino_de_dios]]

@@ -103,6 +103,13 @@ Mons. Munilla desarrolla la imagen de la catedral propuesta por León XIV (DC-Co
 
 Conclusión: «el sacerdote no es el arquitecto, no es la luz, no es el centro. Es parte de una obra que Dios construye, y su mayor dignidad consiste en permitir que Cristo sea el templo».
 
+### Según Ritratti di santi (RdS)
+
+Dos retratos del sacerdocio en clave teologal:
+
+- **El Curato d'Ars** (cap. 8): su carisma fue «scomparire talmente dietro al suo ministero... che la sua persona si mescolerà, si confonderà interamente col dono del sacerdozio». Vive el drama de la indignidad: «Il prete lo si capirà soltanto in cielo. Se lo comprendessimo sulla terra ne moriremmo, non di paura, ma d'amore... Dopo Dio il prete è tutto» — y a la vez: «Come è spaventoso essere prete! Come è da compiangere un prete quando dice Messa come una cosa ordinaria!». Pide a Dios conocer su miseria y pide la gracia de olvidarla: «Sono stato così spaventato nel conoscere la mia miseria...». Su «martirio del confessionale» (15-17 horas diarias durante veinte años) es el sacerdocio consumándose en el perdón: «Tutto quello che io so del peccato l'ho imparato da loro».
+- **La reverencia de Francisco al sacerdote indigno** (cap. 6): «se tu sei peccatore io non lo so, ma so che le tue mani possono toccare il Verbo di Dio». En su Testamento: «dell'Altissimo Figlio di Dio null'altro io vedo corporalmente in questo mondo se non il santissimo Corpo e Sangue suo che essi soli consacrano ed essi soli amministrano»; temerá, amará y honrará a los sacerdotes «come miei signori... perché in essi io vedo il Figlio di Dio». Sacerdocio y Eucaristía como «due amori assoluti e congiunti».
+
 ## Distinciones importantes
 - El sacerdocio común de los fieles se recibe en el Bautismo; el sacerdocio ministerial se recibe en el Orden.
 - Solo el sacerdocio ministerial puede celebrar la Eucaristía y perdonar los pecados.

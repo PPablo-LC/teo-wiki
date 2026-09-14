@@ -81,6 +81,14 @@ Robert P. George («On Liberty and Conscience») aporta el fundamento filosófic
 
 **La religión como límite al poder estatal.** Cooper explica que la existencia de la ley divina es un principio limitador del gobierno humano: solo Dios puede ver en el corazón de los hombres, juzgar infaliblemente todas las acciones y transformar el corazón por la gracia. Cuando los gobiernos civiles intentan arrogarse estas prerrogativas divinas, se revelan como tiránicos. John Adams advirtió que un pueblo irreligioso cuya avaricia, ambición y venganza no esté contenida sería inconstitucional «como una ballena a través de una red»: serían necesarias instituciones de tiranía para mantenerlo en orden. Ratzinger advirtió que, si el nihilismo continúa metastatizándose, el experimento americano de libertad ordenada se vuelve cada vez más precario [EAC-21, 14].
 
+### Según Ritratti di santi (RdS)
+
+El capítulo 13 (Tomás Moro) muestra la libertad religiosa como libertad de conciencia frente al poder temporal:
+
+- **Respeto de la conciencia ajena**: Moro, aunque convencido en conciencia del primado de Roma tras «dieci años de investigaciones en los Padres y en los Concilios», no juzga a nadie: «non attacco né condanno l'attitudine degli altri... non mi impiccio per nulla della coscienza di quelli che pensano o dicono che pensano diversamente da me. Non condanno nessuno, ma la mia coscienza su questo punto è tale, che ne va della mia salvezza». No quiso ni imponer su opinión a su hija ni ligarse a «chi trên, fosse anche il più santo dei nostri giorni».
+- **Contra la obediencia ciega al Estado**: en su discurso tras la condena, niega el valor de que «tutti i vescovi, tutte le Università e tutti i dotti del regno» hayan suscrito el Acto: «io non vedo affatto... per quale ragione questo debba portare qualche cambiamento nella mia coscienza»; y apela al Concilio general de la cristiandad frente al «concilio de un solo regno». La conciencia no se pliega a la mayoría ni a la autoridad civil que invade lo espiritual.
+- **El costo documentado**: antes de construir «questa fortezza per la salvaguardia della mia anima», Moro «ho fatto i conti... per molte notti d'insonnia e d'angoscia»: la libertad de conciencia es una decisión calculada, no un impulso.
+
 ## Relaciones doctrinales
 
 Se relaciona con [[iglesia_y_estado]], [[conciencia_moral]], [[dignidad_humana]], [[derechos_humanos]], [[laicidad_positiva]], [[estado]]

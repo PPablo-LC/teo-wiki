@@ -54,6 +54,19 @@ En *Evangelization & Culture, Issue 19* (Artificial Intelligence), Teresa de Lis
 
 A continuación presenta a Teresa de Lisieux como una de esas «princesas del cielo» —la obra toma el título de esta imagen—, y concluye invitando a las hijas, nietas y ahijadas con la pregunta: «Princesa, ¿cuál es tu camino al cielo?». La presentación subraya la [[infancia_espiritual]] y la sencillez de su piedad como camino de santidad accesible a los niños (ver [[vocación_universal_a_la_santidad]]).
 
+### Según Il Volto dei Santi vol. III (VdS)
+
+Capítulo 03 (Santa Teresa di Gesù Bambino — patrona de todas las misiones), centrado en su **vocación misionera**:
+
+- **«Assetata di anime»**: el episodio fundacional de 1887 (Ms A 45v): la sangre que cae de la mano del Crucifijo; el grito «Ho sete!» enciende en ella la sed de las almas; la conversión de Pranzini («il mio primo figlio») como respuesta experimental a su oración.
+- **«Apostola degli apostoli»**: el Carmelo como vocación misionera por la oración y el sacrificio; «Ho ottenuto da mio padre il permesso di farmi apostola al Carmelo» (LT 247).
+- **«Conservare il sale destinato alle anime»**: el descubrimiento romano de la fragilidad de los sacerdotes: «credevo che le anime dei sacerdoti fossero più pure del cristallo»; la vocación carmelitana como maternidad espiritual de los presbíteros.
+- **Todas las vocaciones en una** (Ms B): «Sento in me la vocazione di Guerriero, di Sacerdote, di Apostolo, di Dottore, di Martire»; la solución unificante: «La Carità mi diede la chiave della mia vocazione... nel Cuore della Chiesa, mia Madre, sarò l'Amore!». Sicari subraya que Teresa no se identifica con el corazón de la Iglesia, sino que lo contempla: el Amor que allí late es el Espíritu Santo.
+- **Los dos «fratelli missionari»** (don Bellière y padre Roulland): corresponsabilidad espiritual y afectiva; «Io non muoio, io entro nella vita» (LT 244); hasta ofrecer sus paseos agonizantes: «cammino per un missionario».
+- **La noche oscura misionera**: el último año como participación en el abandono de Cristo por los pecadores e incrédulos; los ateos también tienen derecho a los misioneros (cfr. GS 19).
+- **La misión desde el cielo**: «Non posso riposarmi finché ci saranno anime da salvare»; «voglio passare il mio Cielo a fare del bene sulla terra».
+- **«Attirami, noi correremo»** (Ct 1,3): la clave misionera final — la misión por atracción, no proselitismo; la apropiación al femenino de la oración sacerdotal de Jn 17.
+
 ## Ver también
 
 [[infancia_espiritual]], [[pequeña_vía]], [[confianza_en_dios]], [[oracion_de_abandono]], [[perfeccion_cristiana]], [[san_juan_de_la_cruz]], [[hora_santa]], [[adoración_eucarística]], [[sanación]], [[vocación_universal_a_la_santidad]]
@@ -65,3 +78,4 @@ A continuación presenta a Teresa de Lisieux como una de esas «princesas del ci
 - Torres, Alicia. «The Sacred Heart of Home», en *Evangelization & Culture* 13 (Autumn 2022).
 - *Evangelization & Culture* 13, «The Case for the Holy Hour» (Autumn 2022).
 - EAC-19, *Evangelization & Culture, Issue 19 — Artificial Intelligence* (Spring 2024), Word on Fire Institute (19_spotlight_princesses.md).
+- A. M. Sicari, *Il Volto dei Santi*, vol. III, cap. 3: «Santa Teresa di Gesù Bambino» (Edizioni OCD, Roma 2025).

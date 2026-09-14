@@ -51,6 +51,14 @@ La pureza tiene una función positiva: aliada con el don de la piedad (donum pie
 
 La entrada «Puro» del VocTeoBib traza el desarrollo bíblico de la pureza desde lo cultual a lo moral. En el AT, la pureza legal (Lev 11-16) era la disposición requerida para el culto. Los profetas exigieron una purificación interior (Is 1,15ss; Os 6,6). Jesús proclamó que la única pureza es la interior (Mc 7,14-23): de dentro del corazón proceden los malos deseos. La pureza radical viene por la palabra de Cristo (Jn 15,3) y el bautismo (Ef 5,26). San Pablo enseña que «todo es puro para los puros» (Tit 1,15) y que la caridad brota de un corazón puro (1Tim 1,5). La pureza culmina en la santidad (1Tes 4,7s).
 
+### Según Ritratti di santi (RdS)
+
+El capítulo 11 (S. María Goretti) defiende la pureza del martirio contra dos reducciones:
+
+- **Contra la «smascheración» laicista**: quien reduce a la santa a «povera santa» — «un povero ranocchio dalla intelligenza revocata», víctima de represiones y de la «miseria e della ignoranza» — no ha entendido nada: «dedurre dalla povertà fisica e intellettuale... una sua 'necessaria' povertà morale significa non saper nulla dell'amore infinito che Dio ha per tutte le sue creature, né della forza invincibile con cui Egli può attrarle a sé». María Goretti «non aveva molte idee filosofiche sulla persona e sul corpo. Non avendole, si fidava delle idee di Dio».
+- **El cuerpo como lugar donde el yo se comunica**: las ciencias humanas han llegado a decir que no se trata solo de «avere un corpo» sino «di 'essere un corpo', perché il corpo è il luogo in cui l'io si comunica e si realizza» — «è esattamente ciò che la Chiesa ha sempre inteso insegnare quando ha parlato della 'santità' e della 'purezza' del corpo umano». Todo intervención que lacere, manipule o «priva di storia» ese rapporto humilla la persona — «anche se è la persona stessa che lo vuole».
+- **La progenie del ejemplo**: el ataque laicista citaba ironizando a Pierina Morosini; Juan Pablo II la beatificó junto con Antonia Mesina (4-X-1987): dos «vergini e martiri» del mismo cuadro, presentadas a la sociedad actual como «sentiero luminoso per quanti avvertono il fascino delle sfide evangeliche».
+
 ## Distinciones importantes
 
 - **Pureza del cuerpo vs. pureza del espíritu**: la primera se refiere a la castidad externa; la segunda, a la rectitud de los pensamientos y deseos internos.

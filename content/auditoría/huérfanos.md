@@ -3997,3 +3997,94 @@ Notas:
 - Los wikilinks a los resúmenes (`[[01_introduction]]`…`[[15_list_of_sources]]`)
   resuelven contra `wiki/Resúmenes/god_is_near_us_capitulos/` y no se
   registran como huérfanos.
+
+## Sembrados y resueltos por el procesamiento de Il Volto dei Santi vol. III (VdS) (2026-09-14)
+
+El procesamiento de VdS (A. M. Sicari, 12 archivos, ~2.055 líneas) resolvió
+los siguientes huérfanos creando artículos nuevos:
+
+| Wikilink | Resuelto con |
+|----------|--------------|
+| `[[beato_angelo_paoli]]` | wiki/personas/beato_angelo_paoli.md |
+| `[[venerable_francesco_paolo_gravina]]` | wiki/personas/venerable_francesco_paolo_gravina.md |
+| `[[san_charbel_makhlouf]]` | wiki/personas/san_charbel_makhlouf.md |
+| `[[beato_giovanni_fausti]]` | wiki/personas/beato_giovanni_fausti.md |
+| `[[beato_paolo_manna]]` | wiki/personas/beato_paolo_manna.md |
+| `[[paolo_takashi_nagai]]` | wiki/personas/paolo_takashi_nagai.md |
+| `[[beato_stefan_wyszyński]]` | wiki/personas/beato_stefan_wyszyński.md |
+| `[[beata_sandra_sabattini]]` | wiki/personas/beata_sandra_sabattini.md |
+| `[[il_volto_dei_santi]]` | wiki/documentos/il_volto_dei_santi.md |
+
+Huérfanos sembrados intencionalmente por VdS (forward references,
+conceptos cubiertos por la fuente aún sin artículo):
+
+| Wikilink | Referencias | Contenido actual / artículo futuro |
+|----------|-------------|-------------------------------------|
+| `[[carmelo]]` | 1 | la Orden del Carmelo y su fecundidad «mistica y caritativa» (Merton, Balthasar; Paoli, VdS 1) |
+| `[[conformidad_con_cristo]]` | 2 | «essere un altro Cristo... una sola strada: quella del Calvario» (Charbel, VdS 4); «Come Gesù» de Daher; complementa a [[conformación_a_cristo]] si existe |
+| `[[cuerpo_y_resurrección]]` | 1 | el cuerpo «proprietà sacra di Dio... deve ritornare in vita come corpo glorioso» (Nagai, VdS 7); complementa a [[resurrección_de_la_carne]] |
+| `[[libertad_de_la_iglesia]]` | 1 | el «Non possumus!» de Wyszyński: «Non possiamo immolare le cose di Dio sugli altari di Cesare» (VdS 8) |
+| `[[nostra_aetate]]` | 1 | Fausti como precursor del diálogo islamo-cristiano que la declaración conciliar oficializa (VdS 5) |
+| `[[vía_crucis]]` | 1 | la instituida por Paoli en el Coliseo (VdS 1); ya existe [[vía_sacra]]/[[viacrucis]] como variante a verificar |
+| `[[resumen_vds_*]]` (12) | 12 | resúmenes pendientes de la fase 9 del flujo; se resolverán con los resúmenes por capítulo |
+
+Notas:
+- `[[santa_teresa_de_lisieux]]` y `[[beato_carlo_acutis]]` resuelven contra
+  artículos existentes en wiki/personas/ (enriquecidos con VdS en esta sesión).
+- `[[san_carlo_acutis]]` no se ha sembrado aún: el artículo existente lleva
+  el título «beato» (anterior a la canonización de 7-IX-2025); renombrado
+  pendiente, registrado en `progreso/VdS_progress.md`.
+
+## Resueltos por el procesamiento de Ritratti di santi (RdS) (2026-09-14)
+
+El procesamiento de RdS (13 capítulos, ~2.621 líneas) resolvió los
+siguientes huérfanos creando artículos nuevos:
+
+| Wikilink | Resuelto con |
+|----------|--------------|
+| `[[benedetta_bianchi_porro]]` | wiki/personas/benedetta_bianchi_porro.md |
+| `[[san_camillo_de_lellis]]` | wiki/personas/san_camillo_de_lellis.md |
+| `[[san_giuseppe_benedetto_cottolengo]]` | wiki/personas/san_giuseppe_benedetto_cottolengo.md |
+| `[[santa_maría_goretti]]` | wiki/personas/santa_maría_goretti.md |
+| `[[ritratti_di_santi]]` | wiki/documentos/ritratti_di_santi.md |
+| `[[devoción_mariana]]` | wiki/conceptos/devoción_mariana.md |
+| `[[muerte_cristiana]]` | wiki/conceptos/muerte_cristiana.md |
+| `[[cultura_de_la_muerte]]` | wiki/conceptos/cultura_de_la_muerte.md |
+| `[[humanismo_cristiano]]` | wiki/conceptos/humanismo_cristiano.md |
+| `[[dignidad_de_la_persona_enferma]]` | wiki/conceptos/dignidad_de_la_persona_enferma.md |
+| `[[obras_de_caridad]]` | wiki/conceptos/obras_de_caridad.md |
+| `[[sistema_preventivo]]` | wiki/conceptos/sistema_preventivo.md |
+| `[[amorevolezza]]` | wiki/conceptos/amorevolezza.md |
+| `[[fidelidad_al_papa]]` | wiki/conceptos/fidelidad_al_papa.md |
+
+Huérfanos sembrados intencionalmente por RdS (forward references,
+conceptos cubiertos por la fuente aún sin artículo):
+
+| Wikilink | Referencias | Contenido actual / artículo futuro |
+|----------|-------------|-------------------------------------|
+| `[[cristo_en_nosotros]]` | 1 | Gal 2,20 vivido: «Non sono io che vivo, è Cristo che vive in me» como experiencia (Benedetta Bianchi Porro, RdS 3); complementa a [[cristo_en_los_pequeños]] |
+| `[[cristo_en_los_pequeños]]` | 1 | el pobre/enfermo como Cristo mismo: «I poveri infermi sono pupilla et cuore di Dio» (Camillo, RdS 4); «I poveri sono Gesù, non una sua immagine» (Cottolengo, RdS 9); Mt 25,40 |
+| `[[muerte_a_sí_mismo]]` | 1 | vivere = «morire a se stessi per vivere a Gesù Cristo crocifisso nei malati» (Camillo, RdS 4); complementa [[muerte_a_si_mismo]]/
+      muertos al pecado (Rm 6) |
+| `[[sacrificio_expiatorio]]` | 1 | la ofrenda de Edith Stein como «vittima espiatrice per la vera pace» y «piccola Ester» (RdS 5) |
+| `[[beata_pierina_morosini]]` | 1 | **RESUELTO (2026-09-14)**: wiki/personas/beata_pierina_morosini.md — obrera bergamasca (Gandino), martirizada 1947, beatificada por JPII 4-X-1987 junto a Antonia Mesina (RdS 11) |
+| `[[beata_antonia_mesina]]` | 1 | **RESUELTO (2026-09-14)**: wiki/personas/beata_antonia_mesina.md — joven de Orgosolo, martirizada 1935, beatificada por JPII 4-X-1987 (RdS 11) |
+| `[[santa_agnes_de_roma]]` | 1 | la «Santa Agnese del secolo XX» es María Goretti: paralelo agiográfico (RdS 11) |
+| `[[san_juan_de_dios]]` | 1 | antecedente hospitalario de Camillo de Lellis (Ver también, RdS 4) |
+| `[[san_vicente_de_paul]]` | 1 | modelo caritativo que Cottolengo lee en su crisis vocacional (RdS 9); también S. Vincenzo de Paoli paralelo a don Bosco (RdS 7) |
+| `[[educación_cristiana]]` | — | RESUELTO: el artículo existente fue completado con secciones RdS (Mamma Margherita, Goretti, Moro, Bosco) |
+| `[[domenico_savio]]` | 1 | discípulo de don Bosco: «qui facciamo consistere la santità nello stare molto allegri» (RdS 7) |
+| `[[maría_auxiliadora]]` | 1 | ya existía como artículo; verificado (RdS 7: Santuario de Maria Ausiliatrice) — no huérfano |
+
+Notas:
+- `[[santa_maria]]` (16 referencias previas) sigue siendo la forma canónica
+  para la Virgen; `[[santa_maría_goretti]]` es un filename distinto (persona)
+  y no colisiona.
+- `[[giussani]]` y `[[GS]]` (movimiento juvenil de Acción Católica italiana,
+  contexto de Benedetta, RdS 3) no se sembraron: el índice de la fuente los
+  registra como contexto biográfico; a la espera de artículos sobre
+  Luigi Giussani (ya referenciado en AED/SR) y GS.
+- Los wikilinks `[[beata_edith_stein]]`, `[[san_francisco_de_asís]]`,
+  `[[san_juan_bosco]]`, `[[san_juan_maría_vianney]]`, `[[san_maximiliano_kolbe]]`,
+  `[[tomás_moro]]`, `[[santa_teresa_de_lisieux]]` resuelven contra artículos
+  existentes en wiki/personas/ (enriquecidos con RdS en esta sesión).

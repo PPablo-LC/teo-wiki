@@ -219,6 +219,15 @@ Para Giussani, la caridad es la forma del obrar cristiano: «"hacer por Cristo" 
 
 La caridad ama «según la perspectiva última»: la compañía educa a conocer a Cristo y a mirar a cada persona en el destino que Dios le ha dado; el egoísmo, en cambio, es el camino de los Finzi-Contini, «todos "conectados" sobre sí mismos y para ellos el mundo no existía» (AED, 29, 111-119). Amar a la propia familia o al propio amigo desde esta perspectiva es la caridad que transforma el mundo (AED, 29, 111).
 
+### Según Ritratti di santi (RdS)
+
+La colección muestra la caridad en tres formas estructurales que van del gesto a la institución:
+
+- **La tenerezza de Camillo** (cap. 4): su programa fundacional — servir a los enfermos «non per mercede, ma volontariamente e per amore d'iddio», con «quell'amorevolezza che sogliono fare le madri verso i propri figli infermi» — sustituye a los mercenarios de los hospitales del '600. Su certeza: «I poveri infermi sono pupilla et cuore di Dio et... quello che facevano alli detti poverelli era fatto allo stesso Dio». La caridad no distingue material y espiritual: «per Camillo qualunque cosa riguarda anche lontanamente i suoi poverelli è sacra». Y su fórmula existencial: vivire significava «morire a se stessi per vivere a Gesù Cristo crocifisso nei malati».
+- **La carità nella fede del Cottolengo** (cap. 9): tesis central: «Di una carità anonima o senza fede i Santi avrebbero riso» — no porque el no creyente no pueda ser generoso, sino porque la caridad verdadera «va incontro al Mistero bruciante che c'è nel cuore dell'uomo», afirmando al otro «in tutta la sua realtà, nella totalità dei suoi bisogni e del suo destino»; por eso construye «opere non effimere che segnano la storia, che fanno cultura, che impongono uno stile sociale, che cambiano l'uomo». «I poveri sono Gesù, non sono una sua immagine. Sono Gesù in persona». La fe se verifica haciendo: «chi vuol far crescere la sua fede... deve farla bruciare subito in gesti veri di carità».
+- **La caridad educativa de don Bosco** (cap. 7): «C'è chi è chiamato a battersi contro le cause dell'ingiustizia e chi è chiamato a battersi subito contro i suoi effetti» — «Noi andiamo diritti ai poveri», porque «i poveri non possono attendere le grandi analisi e i grandi progetti». Y la *amorevolezza*: «Che i giovani non solo siano amati, ma che essi stessi sappiano di essere amati».
+- **La caridad hacia los «poveri più vergognosi» de Moro** (cap. 13): el Lord Canciller recorre la noche los barrios bajos y alquila una casa (*Casa della Provvidenza*) para «vecchi e bambini infermi»: caridad discreta hacia quienes no piden.
+
 ## Analizado para
 
 [[pascasio_quesnel]], [[unigenitus]]

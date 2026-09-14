@@ -85,6 +85,16 @@ Tóth fundamenta pedagógicamente la doctrina de la gracia. La moral católica �
 
 De aquí deriva su pedagogía del doble cimiento: «para poder ser cristianos hemos de ser hombres en el pleno sentido de la palabra»; «el roble de las virtudes sobrenaturales no podrá resistir en pie ante cualquier vendaval, si no se asienta sobre la tierra firme de las virtudes naturales» [archivo 02]. En clave educativa: «la gracia no sólo no destruye la naturaleza, sino que la supone»; «la gracia no modifica de buenas a primeras ni el temperamento ni los hábitos, si la persona no se decide a cambiarlos mediante la ayuda de la misma gracia y merced a un esforzado trabajo» [archivo 10]. La vida de la gracia es «la mayor fuerza que tiene el joven para vivir honradamente y ser feliz», y los sacramentos y la oración son «los canales por donde recibimos la gracia divina» [archivos 08, 02]. La confesión frecuente confiere además una gracia sanativa que «cura y robustece la debilidad que nos causó el pecado» [archivo 16] (véase [[confesión_frecuente]]).
 
+### Según Ritratti di santi (RdS)
+
+El capítulo 10 («La santità del cristiano») da a la gracia santificante su formulación más densa:
+
+- **La gracia como don-avvenimiento**: la Parola describe lo que acontece en el bautizado como «nuova creazione» (2 Cor 5,17), «rigenerazione», «nuova nascita», «adozione», «filiazione», «inabitazione dello Spirito Santo», «vita eterna». Juan Crisóstomo enumera «dieci privilegi» del bautismo — libres, santos, justos, hijos, herederos, miembros, templo del Espíritu — contra quienes reducen la gracia a la remisión de los pecados.
+- **El «virus pelagiano»**: la herejía «più grave e ricorrente» en la historia de la Iglesia: «che pretendiate di far consistere la grazia di Cristo nel suo esempio e non nel suo dono» (Agustín a los pelagianos). La «perdita di Memoria» que olvida que «all'origine della (possibile) santità umana sta solo un gesto di pura misericordia». «La santità non consiste nel fatto che l'uomo dà tutto, ma nel fatto che Dio prende tutto» (Adrienne von Speyr): «e Dio dona esattamente il gesto con cui prende».
+- **Gracia y obras**: el peligro opuesto (sola fide sin obras) confirma la regla: la fe que se abandona a Cristo «produrre necessariamente e severamente ancor più opere buone che se si confidasse nella propria stessa operosità». Teresa de Ávila: el matrimonio espiritual tiende «a produrre opere e opere».
+- **La gracia y la pobreza humana** (cap. 11): «dobbiamo rispettare la forza e la libertà della Grazia di Dio, e non credere mai che essa debba arrestarsi davanti alla povertà umana» (a propósito de María Goretti).
+- **La gracia experimentada** (cap. 3, Benedetta): «Ho capito che mi è stato ripagato quello che mi è stato tolto poiché possiedo la ricchezza dello Spirito»; «Ormai con me c'è Dio e sto bene».
+
 ## Distinciones importantes
 
 - **Gracia increada**: Dios mismo, que se comunica al alma inhabitante.

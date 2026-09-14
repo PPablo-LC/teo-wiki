@@ -137,6 +137,15 @@ El número dedicado al humor presenta la risa de uno mismo como ejercicio privil
 
 Elizabeth Scalia narra su propia caída y restauración en Twitter como lección de humildad digital. La complacencia espiritual la había adormecido —«quizás un poco orgullosa: ¡mira qué buena era al no ser mala!»— cuando publicó un tuit mal pensado y especulativo en plena noticia de última hora; «la retribución fue rápida y, hasta cierto punto, justa»: acusaciones de sacrilege y maldad, peticiones de cancelación de su carrera, un «Calendario de Adviento de Malos Católicos». Su balance: «tener que pedir perdón me hizo bien, tanto porque una buena dosis de humildad suele llegar justo cuando la necesitamos». La experiencia le enseñó además el mecanismo inverso: la plataforma inflaba antes su ego con cada «me gusta» (como a Podhoretz, cuya voz se volvió «beligerante, reactiva y despectiva»), y su retirada repentina dejó al descubierto cuánto dependía del afecto químico de la aprobación. El antídoto propuesto es doblemente público, a imagen de Matthew Schmitz, que dedicó la semana de Navidad a pedir disculpas públicas a quienes había menospreciado injustamente: admitir el error —en un medio donde pocos se atreven— y perdonar públicamente, mostrando que «extender una mano en perdón es muestra de fortaleza, antes que de debilidad».
 
+### Según Ritratti di santi (RdS)
+
+Tres registros de humildad:
+
+- **El rechazo de los cumplidos (Benedetta Bianchi Porro, cap. 3)**: la única carta dura de sus 147 va dirigida a quien la elogiaba por sufrir bien: «non mi è piaciuto il tono della tua lettera... 'Poiché non sono più io che vivo ma è Cristo che vive in me'. Tu non hai imparato nulla da me». La humildad como teología: los méritos son de Cristo presente.
+- **La «misericordia conoscita» del Curato d'Ars (cap. 8)**: pide a Dios conocer su miseria y queda sobrecogido: «Se Dio non mi avesse sostenuto, sarei allora immediatamente caduto nella disperazione»; pide la gracia de olvidarla, conservando «abbastanza lucidità... da farmi comprendere che io non sono buono a nulla». Es la «mistica notte» de «Dio tutto, io nulla» (Agustín, Francisco, Catalina de Siena). Su humildad no es complejo psíquico sino verdad vivida: intenta tres veces fugarse de Ars por juzgarse indigno, y al ser retenido: «ho fatto il bambino!».
+- **La piedad del miedo de Tomás Moro (cap. 13)**: no se cree digno del martirio y no lo provoca: «non mi faccio avanti ma mi traggo indietro. Ma se sarà Dio stesso a portarmici, confido che... non mancherà di darmi grazia e forza». La humildad de quien conoce su debilidad («un buffetto mi fa quasi traballare») y no por eso capitoló jamás.
+- **La humildad que recibe todo (Benedetta, cap. 3)**: «Ho capito che mi è stato ripagato quello che mi è stato tolto poiché possiedo la ricchezza dello Spirito»; «non ho che poche briciole di pane» — la pobreza radical que confía que el poco se convierte en oro.
+
 ## Distinciones importantes
 
 - **Humildad vs. magnanimidad**: no son opuestas sino complementarias; una inclina hacia abajo (conteniendo el apetito desordenado), la otra hacia arriba (empujando a empresas grandes por Dios)

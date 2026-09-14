@@ -56,6 +56,14 @@ Fundamentalmente, «la agonía de Cristo continúa hasta el fin del mundo» [PoF
 
 **El boxeo y el sufrimiento redentivo (07_film.md):** Matthew Becklo muestra cómo el boxeo encarnó una espiritualidad católica del sufrimiento: el atleta «castiga su cuerpo y lo pone en servidumbre» (1 Cor 9,25-27). James J. Braddock vivió el sufrimiento de la Gran Depresión —hambre, humillación, lesión— no como derrota sino como camino de providencia. La conexión entre católicos y boxeo es «un instinto por la convergencia de lo espiritual y lo físico en la misma historia de gracia dolorosa».
 
+### Según Ritratti di santi (RdS)
+
+El capítulo 3 (Benedetta Bianchi Porro) presenta el sufrimiento como la apuesta del libro de Job reactualizada en nuestro tiempo: Satanás desafia que el hombre ama a Dios sin interés (Job 2,5-6), y hoy la maldición ya no se dirige a Dios sino a la vida misma — «vita degna» vs. «vita indegna» a eliminar (eutanasia, culto del bienestar). Contra esa cultura: «Dio si dedica a scrivere nuovamente l'antico libro di Giobbe... perché Egli vuole essere benedetto nel mistero della sofferenza».
+
+La experiencia de Benedetta define el modo cristiano de sufrir con una fórmula precisa — «sono in due» —: «Benedetta soffre e Cristo è lì che l'accarezza, la consola, la rende felice. Non: Benedetta soffre e una presenza spirituale le fa dimenticare di soffrire, come se fosse una suggestione, una droga. No: Benedetta soffre interamente col suo povero corpo e la sua povera anima feriti, ma Lui c'è». Cristo no es «narcótico espiritual» (como no lo fue en la Pasión de Cristo misma): la pasión de Benedetta «restò intatta e terribile», y por eso el autor pide que en el proceso de beatificación no se «expliquen ni corrijan» sus expresiones casi desesperadas, «come voler correggere il Vangelo quando Gesù chiede al Padre di far passare il suo calice».
+
+En el mismo registro, Mounier ante su hija convertida en «un piccolo vegetale»: «Non dobbiamo pensare al dolore come a qualcosa che ci viene strappato, ma come a qualcosa che noi doniamo... Chi sa se non ci è domandato di custodire e adorare un'ostia in mezzo a noi» (cap. 9). Y Camillo: «io sto mangiando pane di dolore, per vedere patire questi membri di Giesù Christo» (cap. 4).
+
 ## Distinciones importantes
 
 - Sufrimiento como castigo vs. sufrimiento como prueba

@@ -91,6 +91,14 @@ Giussani profundiza la providencia identificándola con el «Tú que me hace»: 
 
 Todo lo creado está ordenado al descubrimiento de ese Tú: «como no hay nada inútil en el mundo y Dios ha creado todo para el ser, el deseo de posesión, la voluntad de posesión se convierte en el punto de partida para emprender el largo camino hacia el *Tú*» (AED, 23, 99-103). El impulso más espontáneo —el deseo de poseer— es en realidad el inicio del itinerario por el cual la criatura reconoce su referencia constitutiva a Dios: nada es casual, todo remite a la providencia de quien es el fundamento y el fin (AED, 23, 99-109).
 
+### Según Ritratti di santi (RdS)
+
+La fuente muestra la providencia en tres modos:
+
+- **La providencia «seguida», no interrogada** (cap. 9, Cottolengo): «Io non interrogo la Provvidenza, preferisco seguirla... La Divina Provvidenza però sa certamente ciò che vuole. A me tocca solo assecondarla». Y ante el ministro de Carlo Alberto: «Se poi fossero necessari miracoli, essa è capace di farli... La banca della Divina Provvidenza non fallirà mai! Io sono più certo della Divina Provvidenza che se esista la città di Torino». Su confianza se prueba en la crisis: el «abandono de Dios» se explica por la falta de fe — «Ho mancato di fiducia!» — y se remedia llenando de pobres las cámaras vacías.
+- **La providencia como «coincidencias significativas»** (cap. 5, Edith Stein): su vida está tejida de intrecci providenciales: nace el día del Kippur (festa della Espiazione); su madre muere en la Exaltación de la Santa Cruz mientras ella renueva los votos; nace en el tercer centenario de la muerte de San Juan de la Cruz y muere en el cuarto centenario de su nacimiento, interrumpiendo la *Scientia Crucis* justo donde narra la muerte del Santo — porque debe «sperimentare di persona». Las coincidencias «fa intuire che cosa significhi che tutta la nostra storia è intessuta secondo un provvidenziale disegno di Dio».
+- **La providencia en la misión** (cap. 7, don Bosco): ante la pregunta por el «milagro» de tantas casas fundadas: «Ho potuto fare più di quello che speravo, ma il come non lo so neppure io. La Santa Vergine, che sa i bisogni dei nostri tempi, ci aiuta... Ho pregato e ho confidato nella Madonna». Y la protección concreta: la promesa del cólera de 1854 («Se voi vi mettete tutti in grazia di Dio... nessuno di voi sarà colpito dalla peste») cumplida entre 2500 enfermos y 1400 muertos.
+
 ## Distinciones importantes
 
 - **Providencia (razón del orden) vs. gobierno (ejecución del orden)**: la primera es eterna; la segunda, temporal.

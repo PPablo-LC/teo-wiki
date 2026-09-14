@@ -82,6 +82,15 @@ En el bloque «Spotlight» de EAC-23 [19_spotlight_redemption.md], Robbie Ocampo
 
 **Consistencia en la oración:** Teresa de Calcuta cierra el artículo: «Mi secreto es muy simple: rezar» [EAC-23, 19_spotlight_redemption.md].
 
+### Según Ritratti di santi (RdS)
+
+La colección documenta tres conversiones icónicas del II milenio:
+
+- **Camillo de Lellis** (cap. 4): del soldado jugador al «incurable» convertido en fundador de los Ministros de los Enfermos. El punto de giro: la palabra del fraile del Gargano — «Dio è tutto. Il resto è nulla. Bisogna salvare l'anima che non muore» — y la caída de la cabalgadura: «Signore, ho peccato. Perdona a questo gran peccatore!».
+- **Edith Stein** (cap. 5): conversión filosófica e interior: de la «sete di verità» («la mia unica preghiera era la sete di verità») al «primo incontro con la Croce» en la casa de la viuda Reinach («il giudaismo impallidì ai miei occhi, mentre si levava nel mio cuore la luce di Cristo»), y a la lectura nocturna de Teresa de Ávila: «Questa è la verità!». La conversión «segnò una profonda lacerazione» con su madre — «nel rapporto tra madre e figlia, tutta la passione e le sofferenze che uniscono e separano ebraismo e cristianesimo».
+- **Cottolengo** (cap. 9): la conversión como «nascita di un altro uomo» tras 41 años de inquietud: el 2 de septiembre de 1827, ante la muerte de la parturiente en la cuadra de una posada, cae de rodillas ante el Santísimo: «Mio Dio, perché? Cosa vuoi da me? Bisogna fare qualcosa!». Y la conclusión: «La grazia è fatta! La grazia è fatta!».
+- **Francisco** (cap. 6): la conversión datada por el propio Testamento en el encuentro con los leprosos: «quello che mi sembrava amaro mi fu cambiato in dolcezza di anima e di corpo»; el bacio al leproso como conquista de la propia repugnancia.
+
 ## Distinciones importantes
 
 - Conversión primera (Bautismo) vs. segunda conversión (penitencia continua)

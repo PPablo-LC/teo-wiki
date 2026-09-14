@@ -47,6 +47,13 @@ La noche del sentido es común y necesaria para todos los que han de pasar de pr
 
 **Confianza final.** «That Nature is a Heraclitean Fire…» (1888, menos de un año antes de su muerte): «Este Jack, burla, pobre tiesto… diamante inmortal, / Es diamante inmortal»; confianza en Dios pase lo que pase, como [[santa_teresa_de_lisieux]] o [[madre_teresa_de_calcuta]], que atravesaron la noche con confianza.
 
+### Según Ritratti di santi (RdS)
+
+Dos testimonios del siglo XX enriquecen el tema:
+
+- **Benedetta Bianchi Porro** (cap. 3): la noche alternada con la presencia: «Il mio buio mi pesa, ma lo preferisco, se questo è il prezzo per camminare con più luce dentro al cuore»; «Sono povera... Allora lo chiamo con amore... e Lui dolcemente mi fa posare la testa sul suo grembo». También la noche del espíritu: «La mia mente a volte vacilla: è un deserto mortale. Ho paura... Sono in certi istanti sbalestrata senza sostegno, come in una scala traballante senza appoggio». Y la noche del temor de perder a Dios: «com'è terribile aver solo paura di perdere Dio. E questo mi è accaduto, solo paura. Ho indagato dentro... non ho trovato peccati mortali. Allora... è tornato il sereno, la pace, la bonaccia».
+- **El Curato d'Ars** (cap. 8): la «mistica notte» como conocimiento de la propia miseria: «non chiedete a Dio la conoscenza completa della vostra miseria. Io l'ho domandata... Se Dio non mi avesse sostenuto, sarei allora immediatamente caduto nella disperazione!» — la misma experiencia de Agustín, Francisco y Catalina de Siena: «Dio tutto, io nulla».
+
 ## Distinciones importantes
 
 - Noche del sentido: afecta a la parte sensitiva; tránsito a la [[vía_iluminativa]]

@@ -75,6 +75,14 @@ Ratzinger desarrolla la educación de la conciencia en relación con la Eucarist
 
 **Misa y conciencia (archivo 07):** En la homilía y en la presencia de Cristo en el Sacramento, el domingo se convierte en «educación de nuestra conciencia»: «Dios está cerca. Dios nos conoce. Dios nos espera en Jesucristo en el Santísimo Sacramento» (GINU, archivo 07). La cercanía de Dios es la raíz de la ley moral: la obediencia nace del encuentro, no de un conjunto abstracto de normas.
 
+### Según Ritratti di santi (RdS)
+
+El capítulo 13 (San Tommaso Moro) es el paradigma de la conciencia no dividida:
+
+- **Una sola conciencia, que pertenece a Dios**: ante una sociedad entera que proclama lícita la ley que su conciencia juzga contraria al «diritto» di Dio — y con todos los expertos, incluidos clero y obispos, diciéndole que puede jurar — Moro «non ritenne di poter dividere in due la sua coscienza: perché ne aveva una sola e quella sola apparteneva a Dio». Fue mártir, «cioè testimone di Cristo».
+- **Contra la «coscienza sociale»**: el capítulo diagnostica la contradicción moderna: se defiende la inviolabilidad de la conciencia personal pero se pliega la propia a una «coscienza di maggioranza»; y los responsables públicos «dividono in due la coscienza»: como privados juzgan injusta una ley, como públicos la «amministrano». «Se la coscienza sociale vuole adorare il vitello d'oro noi le costruiamo il vitello d'oro e chiamiamo questo tolleranza, rispetto della coscienza altrui, fedeltà al proprio dovere pubblico».
+- **Conciencia formada con esfuerzo**: Moro no tenía certeza «teológica» absoluta (creía incluso que el Concilio era superior al Papa y que la cuestión no estaba del todo definida), pero «dieci anni di ricerche sugli scritti dei Padri e sui Concili lo avevano convinto in coscienza». Su regla: «Non attacco né condanno l'attitudine degli altri... ma la mia coscienza su questo punto è tale, che ne va della mia salvezza. Di ciò, Meg, sono convinto come dell'esistenza di Dio». Y los «conti de la torre»: «prima di mettermi a costruire questa fortezza per la salvaguardia della mia anima... ho fatto i conti... per molte notti d'insonnia».
+
 ## Distinciones importantes
 
 - **Consciencia y sentimiento:** La consciencia no es un sentimiento subjetivo, sino un juicio de la razón iluminada por la fe.

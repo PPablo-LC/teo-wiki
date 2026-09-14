@@ -82,6 +82,17 @@ Francis Beckwith, desde su propia [[reversión]], subraya que el arrepentimiento
 
 Robert Barron integra la penitencia en la [[vía_purgativa]]: el alma, purificada por la gracia y el combate contra el [[fomes_peccati]], aprende a rendir su [[verdadero_y_falso_yo]] y a abrirse al amor [EAC-18, 18_spotlight_barron.md].
 
+### Según Ritratti di santi (RdS)
+
+El capítulo 8 (Curato d'Ars) presenta la penitencia en sus dos caras — la penitencia por los otros y el sacramento del perdón:
+
+- **Penitencia vicaria**: las ascesis del santo (dormir en tablas, ayunos, vigílias, la flagelación hasta desmayarse) tienen una lógica pastoral precisa: «tocca a lui chiedere perdono per i peccati dei suoi figli; perché confessa molto, e tocca a lui fare quella penitenza che per i peccatori sarebbe troppo pesante». Su plegaria: «Mio Dio, concedetemi la conversione della mia parrocchia. Io sono disposto a soffrire tutto quello che Voi vorrete... purché si convertano».
+- **El «martirio del confessionale»**: desde 1827, hasta 100.000 peregrinos al año; 15-17 horas diarias durante veinte años, empezando a la una o dos de la madrugada. La venta de billetes especiales Lyon-Ars de ocho días — «dato che ci voleva in media una settimana per riuscire a confessarsi» — documenta el fenómeno.
+- **La experiencia del pecado**: «Tutto quello che io so del peccato l'ho imparato da loro»; lloraba a menudo en el confesionario ante los pecadores poco conscientes: «come se per un istante tu potessi intravedere la pena di Dio per il tuo male, incarnata nel volto del sacerdote».
+- **La actualización de JPII en Ars** (octubre 1986): la desafección al Sacramento del Perdono como «mancanza di fede, una mancanza del senso del peccato, del senso della mediazione di Cristo e della Chiesa»; y la síntesis: «Cristo si è veramente fermato ad Ars».
+
+También Camillo (cap. 4) enseña la pedagogía penitencial inversa: mientras daba de comer a los enfermos les contaba sus propios pecados, «perché è convinto di raccontarli direttamente al Signore».
+
 ## Distinciones importantes
 
 - **Penitencia (virtud y acto) vs. sacramento de la reconciliación**: la penitencia en sentido estricto es la reparación con sacrificio; el sacramento (también llamado de la penitencia) es el medio instituido por Cristo para el perdón de los pecados. La penitencia dispone al sacramento y lo prolonga en obras de satisfacción.

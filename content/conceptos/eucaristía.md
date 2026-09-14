@@ -307,6 +307,15 @@ En la Tischrede 114 (AED, 31, 59-65), la comunión diaria es la vía de familiar
 
 Hacer la comunión es estar en la posición de la Madalena —«adorare vuol dire stringere le ginocchia» (AED, 31, 63)—, y la Confesión «è realmente, letteralmente questa posizione, è il ripetersi di questa posizione» (AED, 31, 63). Por eso «far la Comunione vuol dire realmente – non immaginativamente, realmente! – essere così, molto più di così» (AED, 31, 65): quien la vive no se siente «più estranea a Cristo».
 
+### Según Ritratti di santi (RdS)
+
+El capítulo 6 (S. Francisco de Asís) muestra la Eucaristía como uno de los «punti di riferimento esclusivi» que legan concreta y perpetuamente Cristo a la Iglesia, junto con la Escritura:
+
+- **«Tanta fede nelle Chiese»**: del Testamento franciscano: «Ti adoriamo, Signore Gesù, in tutte le tue chiese che sono nel mondo intero»; quiso ir él mismo a Francia «perché l'Eucarestia era particolarmente onorata» allí, y aconsejó a todos los gobernantes «di posporre ogni altra cura... e di ricevere di buon grado il Santissimo Corpo e Sangue di Gesù Cristo». Hubiera querido que sus frates viajaran con cálices y copones preciosos para los lugares donde el Sacramento era conservado con poco honor.
+- **La Eucaristía funda la reverencia al sacerdote**: «dell'Altissimo Figlio di Dio null'altro io vedo corporalmente in questo mondo se non il santissimo Corpo e Sangue suo che essi soli consacrano»: por eso besa las manos del prete concubinario — «le tue mani possono toccare il Verbo di Dio» — y corrige la veneración debida a las palabras divinas escritas incluso en papeles caídos («tutte le lettere possono comporre quel Nome santissimo»).
+- **La Eucaristía como referencia de la vida mística** (cap. 3, Benedetta Bianchi Porro): pierde la vista durante la elevación de la Misa — y precisamente entonces confiesa: «Padre, sono serena e ho tanta luce in me». Su vida interior se alimenta del Señor cercano: «Con Lui mi pare d'essere in una cella chiusa, ma in cammino».
+- **El hospital como extensión del culto** (cap. 4): en S. Spirito, quien entra por la mañana a escuchar la Misa puede después «servire quel Gesù che ha adorato nella Eucarestia, nel corpo malato dei suoi fratelli»: la adoración eucarística desemboca en la caridad hacia los enfermos.
+
 ## Distinciones importantes
 
 - **Transubstanciación**: cambio de sustancia, permaneciendo los accidentes

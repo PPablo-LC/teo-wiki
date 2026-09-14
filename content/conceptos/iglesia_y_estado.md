@@ -45,6 +45,11 @@ GS 76: «La comunidad política y la Iglesia son independientes y autónomas cad
 
 GS 75: La Iglesia aprecia el sistema de la separación de poderes y la protección de los derechos de la persona frente al Estado.
 
+### Según Ritratti di santi (RdS)
+
+- **Don Bosco, mediador entre Estado y Iglesia** (cap. 7): en la Italia de la ley de supresión de los conventos (1855), fue el hombre al que «Chiesa e Stato, re e pontefice, ministri e cardinali, sapevano di potersi servire quando bisognava assolutamente trovare un accordo». El ministro Rattazzi — anticlerical convencido — le explicó personalmente cómo fundar una congregación legal: «società religiosa che davanti allo Stato fosse una società civile»; las diócesis vacantes tras la unificación se resolvieron con don Bosco como intermediario. Su fórmula personal: «la politica del Pater noster» y la fidelidad al Papa («attaccato al pontefice più che il polipo allo scoglio») sin politización de la obra: «Noi andiamo diritti ai poveri».
+- **Tomás Moro, el límite de la potestad civil** (cap. 13): en su discurso tras la condena declara «l'illegittimità dell'Atto di supremazia»: «nessun principe temporale, mediante nessuna legge, può arrogarsi il supremo governo o una qualche parte di governo che appartiene legittimamente alla sede di Roma, a causa della preminenza spirituale accordata... unicamente a san Pietro e ai suoi successori». Ni las Universidades ni los obispos que firmaron el Acto podían obligar su conciencia: la esfera espiritual no está disponible para el poder temporal.
+
 ## Relaciones doctrinales
 
 Se relaciona con [[libertad_religiosa]], [[estado]], [[comunidad_política]], [[laicidad_positiva]], [[dignidad_humana]], [[bien_común]]
