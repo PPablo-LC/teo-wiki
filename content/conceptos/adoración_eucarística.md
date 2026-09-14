@@ -87,6 +87,26 @@ El testimonio de quien encuentra en la Eucaristía diaria el pan que sostiene la
 
 De la adoración brota la misión: el que ha contemplado a Cristo no puede callar, sino que lo comunica con la vida y la palabra, haciendo de la Eucaristía la fuente y la cumbre de la vida cristiana [EAC-18, 09].
 
+### Según God Is Near Us — Joseph Ratzinger (GINU)
+
+Ratzinger dedica extensas reflexiones a la adoración eucarística en los archivos 05, 06 y 08:
+
+**La adoración como condición de la celebración (archivo 06):** La concentración en la celebración eucarística había causado que la fe y el sacramento perdieran su lugar en muchas iglesias: «El lugar de la adoración se escondía en algún rincón, como un resto del pasado. Lo más profundo era que la Eucaristía se encogía al espacio de media hora, de modo que ya no podía dar vida al edificio» (GINU, archivo 06). La adoración no compite con la celebración comunitaria sino que es su condición indispensable.
+
+**Dimensión vertical y sacerdocio común (archivo 06):** La adoración eucarística es «la dimensión vertical en la que el sacerdocio universal y el ministerial coinciden»: todos pueden solo estar ante Él y adorar. «La comunión y la adoración no están una al lado de la otra, ni en oposición, sino que son indivisiblemente una»: comunicar significa entrar en comunión; amar o ser amigo siempre conlleva reverencia. «La adoración es simplemente el aspecto personal de la Comunión» (GINU, archivo 06).
+
+**Educación en la conciencia (archivo 06):** «Cristo entra en el corazón de nuestros hermanos y visita su conciencia. Cuando la conciencia se embota, entra la violencia que asola el mundo. Quien mira el rostro del Señor verá en él el espejo de nuestra violencia, y su conciencia se purificará» (GINU, archivo 06).
+
+**La adoración como educación en el amor al prójimo (archivo 06):** «La adoración eucarística es una educación en el amor activo al prójimo. No es solo a Dios a quien veneramos en la adoración eucarística: la adoración eucarística no es tanto culto de la trascendencia inaccesible como culto de la condescendencia divina» (GINU, archivo 06).
+
+**Sin adoración no hay transformación del mundo (archivo 05):** «Sin adoración no hay transformación del mundo» (*Without adoración, there is no transformation of the world*). La adoración es el requisito previo para que la Eucaristía sea real en la vida del creyente (GINU, archivo 05).
+
+**Proximidad eucarística permanente (archivo 07):** «Dios está cerca. Dios nos conoce. Dios nos espera en Jesucristo en el Santísimo Sacramento. ¡No lo dejemos esperando en vano! Nuestras iglesias no deben ser casas muertas durante el día, vacías y aparentemente inútiles. La invitación de Jesucristo siempre se les ofrece desde ellas» (GINU, archivo 07).
+
+**Adoración y culto corporal (archivo 05):** El Señor se da en forma corporal, y la respuesta debe ser también corporal: cantar, hablar, guardar silencio; estar de pie, sentado, de rodillas. «La rodilla se arrodilla como expresión corporal de la adoración»; Jesús oró de rodillas (Lc 22,41), Esteban (Hch 7,60), Pedro (Hch 9,40), Pablo (Hch 20,36); el himno de Flp 2,6-11 enseña que «ante el nombre de Jesús toda rodilla se doble» (GINU, archivo 05).
+
+**Adoración y modo de la presencia (archivo 05):** Los monjes de Cluny se descalzaban antes de comulgar: «Sabían que el arbusto ardiente estaba aquí, el misterio que arde» (GINU, archivo 05, §31). Agustín: «Nadie puede comulgar sin antes adorar». Teodoro de Mopsuestia: cada comulgante pronunciaba una palabra de adoración antes del don sagrado.
+
 ### Evangelization & Culture, Issue 23 — Prayer (EAC-23)
 
 **Barron: la adoración como respuesta a la oración (09_spotlight_intro_prayer.md):** En su *Introduction to Prayer*, Barron presenta la adoración eucarística como un espacio privilegiado para la amistad con Dios. Recomienda «desperdiciar tiempo con Dios» —tomar tiempo sustancial e intencional—, incluyendo «una hora o incluso media hora ante el Santísimo Sacramento». La oración ante el Sagrario es la que mejor encarna las cuatro dimensiones de la amistad con Dios: tomarse el tiempo, hablar con honestidad, escuchar con atención y entrar en el silencio.

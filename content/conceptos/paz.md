@@ -78,6 +78,12 @@ Juan Pablo II vincula la paz con la superación de los regímenes totalitarios q
 
 Juan Pablo II dedicó el Mensaje para la Jornada Mundial de la Paz de 1995 al tema «La mujer, educadora para la paz». En él, la paz se fundamenta en el reconocimiento de la dignidad de la persona humana, según el principio de la *Pacem in terris*: «todo ser humano es persona, esto es, naturaleza dotada de inteligencia y de libre albedrío» [Muj 03 §1]. La mujer es llamada de modo especial a ser educadora para la paz en la familia, la cultura, la sociedad y la política, especialmente en situaciones de conflicto y guerra [Muj 03–05]. La paz interior viene del saberse amados por Dios y de la voluntad de corresponder a su amor [Muj 06 §5]. La familia es «la primera y fundamental escuela de paz» [Muj 06 §7]. María, Reina de la Paz, es presentada como modelo de esta vocación femenina a la paz [Muj 08].
 
+### Según God Is Near Us — Joseph Ratzinger (GINU)
+
+Ratzinger formula en el archivo 10 (*The Way of Peace* / una homilía de Navidad citada) la paz como camino de humildad: «El camino de la paz no es un camino de espinas ni de poder, sino de humildad. The way of peace is not a way of thorns... humility is the way that cuts through to the heart». La noche de Navidad inaugura el camino de la humildad de Dios, que es el camino de la paz para el mundo.
+
+En el archivo 06, la violencia queda ligada al embotamiento de la conciencia y la adoración eucarística aparece como su antídoto: «Cristo entra en el corazón de nuestros hermanos y visita su conciencia. Cuando la conciencia se embota, entra la violencia que asola el mundo. Quien mira el rostro del Señor verá en él el espejo de nuestra violencia, y su conciencia se purificará» (GINU, archivo 06). La adoración, la justicia y la paz convergen: quien contempla a Cristo aprende la medida de la verdadera paz, «que la ira y la violencia asolan».
+
 ## Distinciones importantes
 
 - La paz cristiana no es pasividad o indiferencia, sino fruto de la victoria sobre el pecado.

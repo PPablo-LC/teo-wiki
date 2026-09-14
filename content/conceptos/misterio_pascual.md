@@ -71,6 +71,20 @@ La Resurrección pone de relieve que «sólo la medida del bien instaurado por D
 
 **La cruz, árbol de vida (Matthew Becklo, sobre *The Tree of Life*).** Cristo, Amor encarnado, sufre con nosotros y abre un camino de sufrimiento más fuerte que la muerte; la cruz cambia el sentido de la vida humana y es «nuestra respuesta última al sufrimiento, nuestra única esperanza, nuestro árbol de vida» [EAC-15, 08].
 
+### Según God Is Near Us — Joseph Ratzinger (GINU)
+
+Ratzinger lee el misterio pascual a la luz de la Eucaristía, que lo hace presente y lo prolonga sacramentalmente (archivos 02 y 03):
+
+**Pascua litúrgica pascual (archivo 02):** La Pascua judía es el paradigma: la casa era un símbolo del mundo, la sangre del cordero mapeaba la realidad trágica del mundo sin esperanza. Cuando Jesús transformó el pan y el vino en su Cuerpo y Sangre «desencadenó la redención del mundo»: el accidente passover (venida de la muerte) se transformó en experiencia permanente de la revelación de Cristo. «No fue el paso del ángel el que trajo la redención, sino la muerte de Cristo... Cristo habla de sí mismo en la Última Cena: derramada por muchos, hecha una vez en la cruz, pero eternamente disponible».
+
+**Los tres «yes» de la Cena (archivo 02):** Las palabras de la institución son «una anticipación de su muerte; es la experiencia de una muerte espiritual... en estas palabras Jesús transforma la muerte en el acto espiritual de la afirmación, en el acto del amor que se entrega; en el acto de adoración que se ofrece a Dios, y desde Dios se hace disponible a los hombres». Palabras y muerte se necesitan: «palabras sin ejecución serían una palabra sin respuesta... moneda sin respaldo; pero una ejecución sin palabra sería una realización sin sentido».
+
+**El sacrificio de Cristo supera el lenguaje sacrificial del AT (archivo 02):** «Esto es mi Cuerpo, esta es mi Sangre» son «expresiones del lenguaje sacrificial de Israel» que designaban los dones ofrecidos al Dios del Templo. Jesús se designa a sí mismo como «el verdadero y último sacrificio», en quien se cumplen las aspiraciones de los sacrificios del AT: «Dios no desea el sacrificio de animales; todo le pertenece... Dios desea el amor, que transforma al hombre». En las palabras de la Cena se funde la teología del Templo con la del Siervo sufriente (Is 53).
+
+**Muerte transformada en oración (archivo 03):** «Cristo transformó su muerte en forma verbal — en una oración — y, al hacerlo, cambió el mundo». El Canon eucarístico, descendiente de la Haggadá pascual, hace del sacrificio un *rationabile obsequium*, una ofrenda en forma verbal.
+
+**Divina iniciativa (archivo 03):** «La iniciativa en el sacrificio de Jesucristo viene de Dios. En primer lugar es Él mismo quien desciende hasta nosotros: "Tanto amó Dios al mundo que dio a su Hijo único" (Jn 3,16)». El misterio pascual no es ante todo un don *nuestro* a un Dios airado, sino la condescendencia del amor misericordioso que ha recorrido el camino de Mt 5,23s.
+
 ### Giussani — Affezione e dimora (AED)
 
 Para Giussani, el misterio pascual es la victoria definitiva de la afirmación amorosa del ser sobre la nada. La única imagen dramática de la vida es la cristiana: la alternativa radical entre «la victoria de la afirmación de una Presencia» —afirmación del ser, de la que proceden la luz y la vida— y «la afirmación de la nada», contradicción en los términos (AED, 17, 141-147). Hay, en el origen, una afirmación amorosa o una hostilidad al ser; quien es hostil parece positivo cuando sugiere «come de todo, no hagas ningún sacrificio», pero su desenlace es la muerte. La afirmación amorosa del ser, en cambio, ordena toda la existencia como diseño de amor (AED, 17, 149).

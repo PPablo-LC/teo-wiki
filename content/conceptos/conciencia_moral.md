@@ -65,6 +65,16 @@ Robert P. George («On Liberty and Conscience») contrasta a Newman con Mill y e
 - **Ventaja cristiana sobre Mill:** Newman cree en la caída (pecado original), así que no comparte el optimismo progresista ni el utilitarismo; sabe que la libertad necesita restricciones «para que los hombres no desciendan al vicio», y a la vez que las libertades centrales son condiciones del florecimiento integral de criaturas racionales hechas a imagen de Dios.
 - **Límites:** ni siquiera la conciencia religiosa justifica males graves (sacrificios humanos aztecas, coerción religiosa): la presunción a favor de respetar la libertad es poderosa y amplia pero no ilimitada.
 
+### Según God Is Near Us — Joseph Ratzinger (GINU)
+
+Ratzinger desarrolla la educación de la conciencia en relación con la Eucaristía y la adoración (archivos 06 y 07):
+
+**La conciencia como lugar del encuentro con Cristo (archivo 06):** «Cristo entra en el corazón de nuestros hermanos y visita su conciencia. Cuando la conciencia se embota, entra la violencia que asola el mundo. Quien mira el rostro del Señor verá en él el espejo de nuestra violencia, y su conciencia se purificará» (GINU, archivo 06).
+
+**Adoración y conciencia (archivo 06):** La adoración eucarística es «una educación en la conciencia»: el tiempo ante el Señor en el Santísimo Sacramento purifica el juicio moral porque pone al hombre delante de la propia medida del amor. «Educación en la conciencia» y «educación en el amor al prójimo» se unen: ambos dependen del rostro de Cristo contemplado en la Eucaristía.
+
+**Misa y conciencia (archivo 07):** En la homilía y en la presencia de Cristo en el Sacramento, el domingo se convierte en «educación de nuestra conciencia»: «Dios está cerca. Dios nos conoce. Dios nos espera en Jesucristo en el Santísimo Sacramento» (GINU, archivo 07). La cercanía de Dios es la raíz de la ley moral: la obediencia nace del encuentro, no de un conjunto abstracto de normas.
+
 ## Distinciones importantes
 
 - **Consciencia y sentimiento:** La consciencia no es un sentimiento subjetivo, sino un juicio de la razón iluminada por la fe.

@@ -31,6 +31,20 @@ La Iglesia es esencialmente comunión (CEC §787-795). La comunión de los santo
 
 El documento «Los carismas y las nuevas realidades eclesiales» sitúa explícitamente a los movimientos en el marco de la eclesiología de la comunión. El Concilio Vaticano II retoma la concepción de la Iglesia como misterio de comunión, y «los movimientos enraízan su propia esencia en la eclesiología de la comunión: sólo en ésta se entienden, desarrollan y nacen estas nuevas realidades asociativas» [RC-MovEcles-2014, A]. La cita de LG 12 sobre los carismas es el fundamento conciliar de esta comprensión.
 
+### Según God Is Near Us — Joseph Ratzinger (GINU)
+
+La eclesiología eucarística de Ratzinger recorre toda la obra *God Is Near Us*. En la introducción (archivo 00) se formula su núcleo: «La Iglesia nace y tiene su existencia continua en el hecho de que el Señor se comunica a los hombres, entra en comunión con ellos y así los lleva a la comunión entre sí. La Iglesia es la comunión del Señor con nosotros, que al mismo tiempo produce la verdadera comunicación de los hombres entre sí». Como epígrafe de su tesis doctoral (*People of God and House of God in Augustine's Doctrine of the Church*), Ratzinger eligió: *Unus panis unum corpus sumus multi* — «Los muchos somos un solo Cuerpo, pues todos participamos del único pan».
+
+En el archivo 09 (*We Who Are Many Are One Body, One Bread*, 1 Cor 10,17), Ratzinger cita a Agustín y deduce las consecuencias:
+
+- **La Eucaristía construye el Cuerpo de Cristo:** «En esta sola frase del apóstol está todo el misterio de lo que reciben... La Eucaristía es instrumental en el proceso por el cual Cristo se construye un Cuerpo y nos hace un solo pan, un solo Cuerpo».
+- **Perspectiva eclesiológica dinámica:** la Eucaristía «es el proceso vivo por el cual tiene lugar, una y otra vez, la actividad de la Iglesia de llegar a ser Iglesia» (GINU, archivo 09).
+- **La Iglesia como red de comuniones eucarísticas:** «La Iglesia es comunión eucarística. No es solo un pueblo: de los muchos pueblos de los que consta está surgiendo *un* pueblo, a través de la *única* mesa que el Señor ha preparado para todos. La Iglesia es, por así decirlo, una red de comuniones eucarísticas, y está unida, una y otra vez, a través del *único* Cuerpo que todos recibimos» (GINU, archivo 09).
+
+En el archivo 11 (*Una Iglesia de todos los tiempos y lugares*, sobre la comunión con el Papa): «La Eucaristía tiene que ver, en el plano más profundo, solo con Cristo... Precisamente porque es el Cristo entero, el Cristo indiviso e indivisible, el que se da en la Eucaristía, por esa misma razón la Eucaristía solo puede celebrarse rectamente si se celebra con toda la Iglesia. Tenemos a Cristo solo si lo tenemos junto con otros... Por eso el Papa pertenece a la Oración Eucarística, a la celebración eucarística. La comunión con él es la comunión con el todo, sin la cual no hay comunión con Cristo» (GINU, archivo 11).
+
+En el archivo 03 (*La fuente de la vida del costado del Señor*), la dimensión de unidad se completa con la *Communicantes*: «Solo hay *un* Cristo. Dondequiera que se celebre la Eucaristía, él está total y plenamente presente... no podemos comulgar con el Señor si no estamos en comunión los unos con los otros» (GINU, archivo 03).
+
 ### Según EAC-16 — Word on Fire Institute
 
 En *Evangelization & Culture, Issue 16* (verano de 2023), Dr. Richard DeClue identifica la **comunión** como el *leitmotiv* unificador de toda la teología de [[benedicto_xvi|Joseph Ratzinger / Benedicto XVI]]. Sus tesis:

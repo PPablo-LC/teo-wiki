@@ -63,6 +63,14 @@ En la [[era_secular]], el hombre contemporáneo busca pertenencia y sentido; la 
 
 La conversión inaugura así una vida en la Iglesia, familia de familias y comunidad de discípulos, que culmina en la participación eucarística y en el envío misionero a las periferias [EAC-18, 21_soul.md].
 
+### Según God Is Near Us — Joseph Ratzinger (GINU)
+
+La eclesiología eucarística de Ratzinger convierte el cuerpo místico en el corazón de *God Is Near Us*. En la introducción (archivo 00): «La Iglesia es la comunión del Señor con nosotros, que al mismo tiempo produce la verdadera comunicación de los hombres entre sí». Su tesis doctoral sobre la eclesiología de Agustín llevó como epígrafe: *Unus panis unum corpus sumus multi* — «Los muchos somos un solo Cuerpo, pues todos participamos del único pan» (1 Cor 10,17).
+
+En el archivo 09, Ratzinger deduce de esa frase apostólica el misterio de la Eucaristía como construcción del Cuerpo de Cristo: «La Eucaristía es instrumental en el proceso por el cual Cristo se construye un Cuerpo y nos hace un solo pan, un solo Cuerpo». La Eucaristía «es el proceso vivo por el cual tiene lugar, una y otra vez, la actividad de la Iglesia de llegar a ser Iglesia».
+
+Tras la Resurrección, Cristo es *caput et corpus* (archivo 03): «La magnitud del logro de Cristo consiste precisamente en que no permanece otro, frente a nosotros... él nos acepta y nos toma, de modo que nosotros mismos nos convertimos en activos con su apoyo; nosotros mismos cooperamos y nos unimos al sacrificio con él». El alma encuentra su seguridad en el Cuerpo de Cristo (archivo 13): «Si nos hemos convertido en miembros del Cuerpo de Cristo, nuestras almas están a salvo dentro de este cuerpo».
+
 ## Distinciones importantes
 
 - Cuerpo "místico" no es "irreal" sino misterioso y sobrenatural

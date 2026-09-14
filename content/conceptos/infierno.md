@@ -69,6 +69,16 @@ Tod Worner («Midnight Oil») propone una lectura escatológica del infierno cen
 - **Realismo sobre el demonio**: Benedicto XVI: «el diablo... es una presencia personal real, no meramente simbólica... una libertad sobrehumana nefanda dirigida contra la libertad de Dios»; lobo voraz empeñado en separar las ovejas del Verdadero Pastor — pero «más que nada», menos de lo que parece: «horriblemente mucho menos».
 - **Contraste pastoral**: frente al diablo infantil de la infancia del autor (tridentes y trajes rojos), la imagen dantesca enseña que lo infernal es la clausura en sí mismo; su antídoto escatológico es la comunión (Chesterton: «todos en la misma barca»; Donne: «cada muerte de un hombre me disminuye»).
 
+### Según God Is Near Us — Joseph Ratzinger (GINU)
+
+En el archivo 13 (*Mi alegría es estar en tu presencia*) Ratzinger trata el infierno mediante la analogía del juicio como encuentro con Cristo:
+
+**El juicio es Cristo mismo (GINU, archivo 13, §4):** «Cristo mismo es el juicio, él que es la verdad y el amor personificados». La urgencia escatológica no se diluye en benignidad: frente a la norma que es Cristo, «todo lo bajo, torcido y pecaminoso de nuestra existencia será expuesto por esta norma». La misericordia de Dios es real pero no anula la seriedad de la libertad humana: quien finalmente rechaza entrar en el amor queda apartado.
+
+**La cercanía de Dios como juicio y como llamamiento:** La conciencia embotada hace violenta la vida (GINU, archivo 06); «Dios está cerca. Dios nos conoce. Dios nos espera en Jesucristo en el Santísimo Sacramento» (GINU, archivo 07). Esa cercanía es a la vez esperanza y exigencia de conversión: el infierno no es un dato lejano sino la posibilidad siempre presente de la separación definitiva, que el encuentro eucarístico con Cristo convierte en llamamiento apremiante a vivir de cara al amor.
+
+**La esperanza cristiana frente al infierno:** Ratzinger denuncia en el mismo archivo 13 cómo la fe en la vida eterna se marchita «simplemente, como el reverso del marchitamiento de la fe en el Dios vivo» (GINU, archivo 13, §1). Negar el juicio y el infierno no es señal de madurez de la fe sino de su debilitamiento; la respuesta cristiana es el compromiso presente: «trabajar con compromiso total para fortalecer los factores que mantienen a raya el mal en el presente» (GINU, archivo 13, §3).
+
 ## Distinciones importantes
 
 - Infierno de los condenados: estado eterno de separación de Dios

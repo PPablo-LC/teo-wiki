@@ -47,6 +47,22 @@ Santo Tomás desarrolla la dimensión sacrificial de la eucaristía en las cuest
 
 **Inmolación de Cristo en la misa (Q83 a.1):** En la misa, Cristo es inmolado de modo incruento. Aunque murió una sola vez en la cruz, en cada misa se actualiza sacramentalmente su muerte. La inmolación consiste en la consagración separada del Cuerpo y de la Sangre, que representa la muerte del Señor.
 
+### Según God Is Near Us — Joseph Ratzinger (GINU)
+
+Ratzinger desarrolla el aspecto sacrificial de la Eucaristía en los archivos 02, 03 y 11:
+
+**Los tres «yes» (archivo 02):** La institución del sacrificio eucarístico nace del misterio pascual: las palabras de la Última Cena son «una anticipación de su muerte; es la experiencia de una muerte espiritual... en estas palabras Jesús transforma la muerte en el acto espiritual de la afirmación, en el acto del amor que se entrega; en el acto de adoración, que se ofrece a Dios, y desde Dios se hace disponible a los hombres». Palabras y muerte se necesitan mutuamente: las palabras sin la muerte serían «moneda sin respaldo»; la muerte sin palabras sería «una mera ejecución sin sentido» (GINU, archivo 02).
+
+**El sacrificio de Cristo supera el lenguaje sacrificial del AT (archivo 02):** «Esto es mi Cuerpo, esta es mi Sangre» son expresiones del lenguaje sacrificial israelita que designaban los dones ofrecidos al Dios del Templo. Jesús se designa a sí mismo como «el verdadero y último sacrificio», en quien se cumplen las aspiraciones de los sacrificios del AT: «Dios no desea el sacrificio de animales; todo le pertenece... Dios desea el amor, que transforma al hombre». En las palabras de la Cena se funde la teología del Templo con la del Siervo sufriente (Is 53).
+
+**Sacrificio como divina iniciativa (archivo 03):** «La iniciativa en el sacrificio de Jesucristo viene de Dios. En primer lugar es Él mismo quien desciende hasta nosotros: "Tanto amó Dios al mundo que dio a su Hijo único" (Jn 3,16)». Cristo no es ante todo un don *nuestro* a un Dios airado, sino la condescendencia del amor misericordioso. Dios en Cristo ha recorrido el camino del Mt 5,23s: reconcíliate primero con tu hermano. La Eucaristía responde así a la pregunta: «¿Son todos nosotros deudores de Dios, ofensores contra Él?».
+
+**Canon y Haggadá pascual — el sacrificio como oración (archivo 03):** El Canon romano es «la continuación directa» y «descendiente directo» de la Haggadá pascual de Israel, la oración de acción de gracias. Jesús tejó sus palabras en esa plegaria y la transformó: «Cristo transformó su muerte en forma verbal — en una oración — y, al hacerlo, cambió el mundo». Como *eucharistía* (transformación de la existencia en acción de gracias), el Canon es el corazón de la misa, «el *rationabile obsequium*, una ofrenda en forma verbal».
+
+**Cooperación de toda la Iglesia (archivo 03):** Tras la Resurrección, Cristo es *caput et corpus*: cabeza y cuerpo. No hay que temer con Lutero que la misa como sacrificio disminuya la gloria de Cristo: «La magnitud del logro de Cristo consiste precisamente en que no permanece otro, frente a nosotros... se identifica con nosotros hasta el punto de que nuestros pecados le pertenecen a él y su ser a nosotros; él nos acepta y nos toma, de modo que nosotros mismos nos convertimos en activos con su apoyo... nosotros mismos cooperamos y nos unimos al sacrificio con él».
+
+**Cristo, dador y don (archivo 11):** «La Eucaristía es *un sacrificio*: ser entregados a Dios en Jesucristo y, al mismo tiempo, recibir el don de su amor; pues Cristo es a la vez el dador y el don» (GINU, archivo 11). En la Eucaristía, el corazón de nuestra vida «no solo se expresa sino que se realiza día tras día» (GINU, archivo 11).
+
 ### Según Evangelization & Culture n.º 13 «The Eucharist» (EAC-13)
 
 **Timothy O'Malley («Eucharistic Personhood»)** presenta, siguiendo a Ratzinger (*Spirit of the Liturgy*), el sacrificio eucarístico como **divinización**, no destrucción: el mundo deviene «espacio definido por el don de amor». Esta lectura concuerda con la transubstanciación tomista, que no aniquila el pan y el vino sino que los incorpora al Cuerpo de Cristo («Dios no destruye y reemplaza; Dios redime y glorifica»).

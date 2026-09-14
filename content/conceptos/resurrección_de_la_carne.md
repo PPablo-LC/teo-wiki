@@ -45,6 +45,16 @@ Pablo contrapone Adán (hombre terreno) y Cristo (hombre celestial): «Como llev
 
 Juan Pablo II enseña que la Resurrección de Cristo es la garantía y la primicia de la resurrección de todos los hombres. Cristo es «las primicias de los que durmieron» (1 Cor 15,20-22): así como en Adán todos mueren, así en Cristo todos serán vivificados. El cuerpo resucitado es un cuerpo glorificado, espiritual y celestial (1 Cor 15,47-49), distinto del cuerpo terrenal. La Resurrección de Cristo no es un retorno a la vida mortal, sino el paso a la vida gloriosa. «Cristo vive en mí» (Gal 2,20): la vida cristiana en el Resucitado es ya participación en su victoria sobre la muerte y anticipo de la resurrección futura. La esperanza de la resurrección de la carne se funda en la Resurrección de Cristo: «El que cree en mí, aunque muera, vivirá» (Jn 6,54) (CJeS, cuarta parte: la Resurrección).
 
+### Según God Is Near Us — Joseph Ratzinger (GINU)
+
+Ratzinger aborda la resurrección de la carne en el archivo 13 (*Mi alegría es estar en tu presencia*), dentro de su reflexión sobre la fe en la vida eterna:
+
+**El Cuerpo de Cristo como «nuevo cielo» (archivo 13, §4):** «Es algo verdaderamente nuevo. No podemos imaginarlo, porque ignoramos tanto las posibilidades de la materia como las capacidades del Creador». Dios quiere salvar toda su creación: la esperanza cristiana no es la huida del cuerpo sino su plena realización.
+
+**«El problema del alma desencarnada ya no existe» (archivo 13, §4):** Desde la Ascensión, el cuerpo glorioso de Cristo —que permanece real y corporalmente presente en la Eucaristía— es el lugar donde el espíritu y la materia se reúnen. «El Cuerpo de Cristo es el nuevo cielo, que ya no está cerrado. Si nos hemos convertido en miembros del Cuerpo de Cristo, nuestras almas están a salvo dentro de este cuerpo». La resurrección de la carne se presenta así como prolongación de la Encarnación y de la presencia eucarística.
+
+**La resurrección hace comunicable el cuerpo (archivo 05):** «Cuerpo» en lenguaje bíblico significa la persona entera existente corporalmente. La Resurrección significa comunicabilidad: el cuerpo deja de ser límite y su capacidad de comunión permanece. Por eso el Cuerpo eucarístico de Cristo puede darse «por vosotros» en todos los lugares y tiempos (GINU, archivo 05).
+
 ## Distinciones importantes
 
 - No es solo inmortalidad del alma (creencia pagana)

@@ -65,6 +65,24 @@ La *Redemptor Hominis* enseña que la Eucaristía es «al mismo tiempo Sacrament
 
 Juan Pablo II, citando a Pablo VI, recuerda que la Eucaristía contiene al mismo Cristo realmente presente, razón por la cual exige un culto de latría y la observancia rigurosa de las normas litúrgicas [RH §20].
 
+### Según God Is Near Us — Joseph Ratzinger (GINU)
+
+Ratzinger dedica el archivo 05 (*La presencia del Señor en el sacramento*) — la pieza más extensa de la obra — a la presencia real, abordando tres objeciones fundamentales:
+
+**¿Lo dice la Biblia?** Las palabras de la institución y el discurso del pan de vida (Jn 6,48-59) son inequívocas: «Mi carne es verdadera comida». Cuando los judíos murmuraron, Jesús no mitigó su afirmación: «a menos que comáis la carne del Hijo del hombre y bebáis su sangre, no tenéis vida en vosotros» (Jn 6,53). La comparación de Pablo con la unión física entre hombre y mujer (1 Cor 6,16) subraya el realismo de la comunión.
+
+**¿Puede un cuerpo compartirse en todos los lugares?** En el lenguaje bíblico, «cuerpo» (*soma*) significa la persona entera existente corporalmente — no se opone al espíritu. «Esto es mi Cuerpo» significa: esta es mi persona entera, existente corporalmente, «entregada por vosotros». La Resurrección significa comunicabilidad: el cuerpo deja de ser límite y su capacidad de comunión permanece. Los Padres llaman a la Eucaristía «medicina de inmortalidad».
+
+**¿La ciencia refuta la transubstanciación?** La palabra «sustancia» fue elegida precisamente para evitar la ingenuidad de lo medible. En el s. XII se descartaron tanto el realismo físico («comer carne como caníbales») como el simbolismo. «La realidad no es solo lo que podemos medir; no son solo *quanta*, entidades cuantificables, las que son reales» (GINU, archivo 05). La transformación afecta a la sustancia profunda del ser, no a la superficie cuantificable.
+
+Ratzinger descarta la «transignificación» (cambio de uso/significado) como insuficiente: el ejemplo de la bandera nacional que se hace sagrada es inadecuado. «La Eucaristía es más real que las cosas con las que tratamos a diario. Aquí está la realidad genuina» (GINU, archivo 05). La transformación implica que Cristo «toma posesión del pan y del vino, los eleva a un orden nuevo».
+
+Donde Cristo ha estado, «no puede volver a ser como si nada hubiera pasado»: la presencia eucarística transforma al receptor y es signo de que el mundo mismo puede ser transformado (GINU, archivo 05, §b).
+
+La presencia permanente justifica la adoración del Señor en la Hostia: la Iglesia reservó siempre las especies sagradas para los enfermos, señal de que la presencia perdura. «El Señor siempre está allí. La iglesia no es solo un espacio en el que algo sucede temprano por la mañana, mientras el resto del día está vacío» (GINU, archivo 05).
+
+En el archivo 13 (*Mi alegría estar en tu presencia*), Ratzinger añade: «Esta es la vida eterna: que te conozcan» (Jn 17,3); la presencia real es el lugar privilegiado del encuentro con Dios que ya anticipa la vida eterna.
+
 ### Según Evangelization & Culture n.º 13 «The Eucharist» (EAC-13)
 
 Brett Salkeld («What is the Catholic Teaching on Christ's Eucharistic Presence?») ofrece una historia y un marco ecuménico de la presencia real:

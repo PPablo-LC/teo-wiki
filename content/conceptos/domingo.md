@@ -31,6 +31,18 @@ El c. 1246 §1 establece que el domingo es el día festivo primordial, que debe 
 
 **Laicidad y función social del domingo:** Constantino, en su reforma jurídica de inspiración cristiana, asoció al domingo algunas libertades para los esclavos e introdujo en el sistema legal basado en principios cristianos el día del Señor como el día de la libertad y el descanso. Benedicto XVI califica de «sumamente preocupante» que los modernos liturgistas quieran dejar de nuevo a un lado esta función social del domingo, considerándola «una desviación de Constantino». Aquí se plantea el problema de las relaciones entre fe y orden social.
 
+### Según God Is Near Us — Joseph Ratzinger (GINU)
+
+Ratzinger desarrolla el domingo y la medida dominical en los archivos 04 y 07:
+
+**El domingo como medida del trabajo humano (archivo 04):** «Dios nos ha dado el domingo como medida de nuestro trabajo. Nada debe volverse tan absoluto como para no admitir límites. La medida de nuestro trabajo nos es dada por adelantado: el trabajo tiene su límite». En la visión de Ratzinger, el domingo protege al hombre de ser absorbido por la producción y reafirma que el trabajo humano —trabajo intelectual y manual por igual— constituye el hombre pero no lo agota. Cita a Romano Guardini: el cosmos del hombre moderno, saturado de nuestras propias construcciones («prueba mordaz del hombre moderno es el mundo que él mismo ha construido»), necesita de la medida de Dios.
+
+**El descanso, espacio para la comunión (archivo 04):** El recurso de Dios, según el poeta Paul Claudel, consiste en dejar «una rendija, un respaldo contra el cual... nosotros, sus criaturas, podemos vivir; dentro de esta palabra tan a menudo repetida y tan cuidadosamente ignorada: el *sabbath*, la palabra *vacación*». El descanso es el espacio donde el hombre encuentra a Dios y a los hermanos.
+
+**«Primer desayuno conmigo» (archivo 07):** Ratzinger abre la homilía de la Misa de la cena del Señor preguntándose «¿Por qué voy a la Misa dominical?». La respuesta: por aquel desayuno junto al lago (Jn 21,12), «el primer desayuno conmigo», que Jesús preparó para los suyos al amanecer de la resurrección. Las apariciones de Cristo son «la norma y la raíz» de la celebración dominical: la Misa del domingo reúne a la comunidad porque «Dios está cerca. Dios nos conoce. Dios nos espera en Jesucristo en el Santísimo Sacramento. ¡No lo dejemos esperando en vano!» (GINU, archivo 07).
+
+**Domingo, Eucaristía y vida cotidiana (archivo 07):** «La iglesia no es solo un espacio en el que algo sucede temprano por la mañana, mientras el resto del día está vacío». El domingo vuelve central la presencia permanente de Cristo: «¡Qué hermoso es, después de la Misa... dejar un tiempo para la adoración eucarística!». La presencia del Señor en el tabernáculo extiende el domingo a toda la semana (GINU, archivo 07).
+
 ## Relaciones doctrinales
 
 El domingo se fundamenta en la [[resurrección_de_cristo]] y se relaciona con la [[eucaristía]], la [[liturgia]], el [[año_litúrgico]] y el [[descanso_festivo]]. Es la concreción semanal del misterio pascual. Guarda paralelismo con el sábado judío como día del Señor, cumplido y superado en la Nueva Alianza.

@@ -3,7 +3,7 @@ tags:
   - meta
   - index
 title: Wiki Index
-updated: '2026-09-13'
+updated: '2026-09-14'
 note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts/regenerar-indice.py'
 ---
 
@@ -16,7 +16,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[#Personas|Personas]]
   [[#A (Personas)|A]] · [[#B (Personas)|B]] · [[#C (Personas)|C]] · [[#D (Personas)|D]] · [[#E (Personas)|E]] · [[#F (Personas)|F]] · [[#G (Personas)|G]] · [[#H (Personas)|H]] · [[#I (Personas)|I]] · [[#J (Personas)|J]] · [[#K (Personas)|K]] · [[#L (Personas)|L]] · [[#M (Personas)|M]] · [[#N (Personas)|N]] · [[#O (Personas)|O]] · [[#P (Personas)|P]] · [[#Q (Personas)|Q]] · [[#R (Personas)|R]] · [[#S (Personas)|S]] · [[#T (Personas)|T]] · [[#U (Personas)|U]] · [[#V (Personas)|V]] · [[#W (Personas)|W]] · [[#Y (Personas)|Y]] · [[#Z (Personas)|Z]]
 - [[#Documentos|Documentos]]
-  [[#A (Documentos)|A]] · [[#C (Documentos)|C]] · [[#D (Documentos)|D]] · [[#E (Documentos)|E]] · [[#F (Documentos)|F]] · [[#H (Documentos)|H]] · [[#I (Documentos)|I]] · [[#J (Documentos)|J]] · [[#L (Documentos)|L]] · [[#M (Documentos)|M]] · [[#N (Documentos)|N]] · [[#P (Documentos)|P]] · [[#Q (Documentos)|Q]] · [[#R (Documentos)|R]] · [[#S (Documentos)|S]] · [[#T (Documentos)|T]] · [[#U (Documentos)|U]] · [[#V (Documentos)|V]] · [[#Y (Documentos)|Y]]
+  [[#A (Documentos)|A]] · [[#C (Documentos)|C]] · [[#D (Documentos)|D]] · [[#E (Documentos)|E]] · [[#F (Documentos)|F]] · [[#G (Documentos)|G]] · [[#H (Documentos)|H]] · [[#I (Documentos)|I]] · [[#J (Documentos)|J]] · [[#L (Documentos)|L]] · [[#M (Documentos)|M]] · [[#N (Documentos)|N]] · [[#P (Documentos)|P]] · [[#Q (Documentos)|Q]] · [[#R (Documentos)|R]] · [[#S (Documentos)|S]] · [[#T (Documentos)|T]] · [[#U (Documentos)|U]] · [[#V (Documentos)|V]] · [[#Y (Documentos)|Y]]
 - [[#Espiritualidad Legionaria|Espiritualidad Legionaria (conceptos y documentos LC)]]
   [[#A (Conceptos LC)|A]] · [[#B (Conceptos LC)|B]] · [[#C (Conceptos LC)|C]] · [[#D (Conceptos LC)|D]] · [[#E (Conceptos LC)|E]] · [[#F (Conceptos LC)|F]] · [[#G (Conceptos LC)|G]] · [[#H (Conceptos LC)|H]] · [[#I (Conceptos LC)|I]] · [[#J (Conceptos LC)|J]] · [[#L (Conceptos LC)|L]] · [[#M (Conceptos LC)|M]] · [[#N (Conceptos LC)|N]] · [[#O (Conceptos LC)|O]] · [[#P (Conceptos LC)|P]] · [[#R (Conceptos LC)|R]] · [[#S (Conceptos LC)|S]] · [[#T (Conceptos LC)|T]] · [[#U (Conceptos LC)|U]] · [[#V (Conceptos LC)|V]] · [[#0 (Conceptos LC)|0]]
 - [[#Notas de análisis|Notas de análisis]]
@@ -1597,6 +1597,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[intercesión]]
 - [[intercesión_de_los_santos]]
 - [[intercesión_de_maría]]
+- [[intercomunión]]
 - [[interconexión_y_jerarquía_vital]]
 - [[interioridad]]
 - [[interpretación_bíblica]]
@@ -3857,7 +3858,7 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 ---
 ## Documentos
 
-[[#A (Documentos)|A]] · [[#C (Documentos)|C]] · [[#D (Documentos)|D]] · [[#E (Documentos)|E]] · [[#F (Documentos)|F]] · [[#H (Documentos)|H]] · [[#I (Documentos)|I]] · [[#J (Documentos)|J]] · [[#L (Documentos)|L]] · [[#M (Documentos)|M]] · [[#N (Documentos)|N]] · [[#P (Documentos)|P]] · [[#Q (Documentos)|Q]] · [[#R (Documentos)|R]] · [[#S (Documentos)|S]] · [[#T (Documentos)|T]] · [[#U (Documentos)|U]] · [[#V (Documentos)|V]] · [[#Y (Documentos)|Y]]
+[[#A (Documentos)|A]] · [[#C (Documentos)|C]] · [[#D (Documentos)|D]] · [[#E (Documentos)|E]] · [[#F (Documentos)|F]] · [[#G (Documentos)|G]] · [[#H (Documentos)|H]] · [[#I (Documentos)|I]] · [[#J (Documentos)|J]] · [[#L (Documentos)|L]] · [[#M (Documentos)|M]] · [[#N (Documentos)|N]] · [[#P (Documentos)|P]] · [[#Q (Documentos)|Q]] · [[#R (Documentos)|R]] · [[#S (Documentos)|S]] · [[#T (Documentos)|T]] · [[#U (Documentos)|U]] · [[#V (Documentos)|V]] · [[#Y (Documentos)|Y]]
 
 ### A (Documentos)
 
@@ -3937,6 +3938,10 @@ note: 'Wiki index — regenerado automáticamente. Ejecutar con: python3 scripts
 - [[fides_et_ratio]]
 - [[FMC-las-fuentes-de-la-moral-cristiana]]
 - [[formación_religiosa_de_jóvenes]]
+
+### G (Documentos)
+
+- [[god_is_near_us]]
 
 ### H (Documentos)
 

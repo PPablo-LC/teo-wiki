@@ -60,6 +60,14 @@ La sección «Lives» (Bert Ghezzi / Nicholas Healy Jr.) presenta a [[san_nicol�
 - **Contexto escatológico general del número**: el purgatorio figura entre los novísimos como respuesta a la sed de justicia (Barron): muchos mueren buenos sin recompensa suficiente — ni malvados sin pagar; el purgatorio completa esa justicia misericordiosa para los salvados.
 
 
+### Según God Is Near Us — Joseph Ratzinger (GINU)
+
+Ratzinger ofrece en el archivo 13 (*Mi alegría es estar en tu presencia*) la imagen teológicamente más potente de la obra sobre el purgatorio: **el purgatorio como Cristo mismo**:
+
+> «En última instancia, el lugar de la purificación es el mismo Cristo. Cuando lo encontramos sin disfraz, entonces, como es natural, todo lo miserable y culpable de nuestra vida, que en su mayor parte hemos mantenido cuidadosamente oculto, en ese momento de la verdad se presentará ante nuestra alma como en llamas. El efecto de la presencia del Señor sobre todo lo que en nosotros está entretejido de injusticia, odio y mentira será como una llama ardiente. Así la idea del purgatorio ni siquiera necesita estar limitada al tiempo de la vida del alma, la cual yace entre la muerte y la resurrección general... Cuando todo lo nuestro se hace transparente a la presencia del Señor, y lo bueno y lo malo de nuestra vida aparece a la luz desnuda, esa experiencia es el purgatorio, una purificación en llamas» (GINU, archivo 13, §4).
+
+Esta imagen — que desarrolla la audiencia de Benedicto XVI citada en EAC-11 («no es un fuego exterior sino interior») — integra el purgatorio en la cristología: el fuego purificador es el encuentro transformante con Cristo, «que es la verdad y el amor personificados». Compatible con la enseñanza de Florencia y Trento: es un estado («condición de existencia», Juan Pablo II), no necesariamente un lugar ni un tiempo.
+
 ## Distinciones importantes
 
 - No es un "segundo juicio" ni un estado intermedio sin esperanza
