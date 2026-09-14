@@ -4062,14 +4062,14 @@ conceptos cubiertos por la fuente aún sin artículo):
 
 | Wikilink | Referencias | Contenido actual / artículo futuro |
 |----------|-------------|-------------------------------------|
-| `[[cristo_en_nosotros]]` | 1 | Gal 2,20 vivido: «Non sono io che vivo, è Cristo che vive in me» como experiencia (Benedetta Bianchi Porro, RdS 3); complementa a [[cristo_en_los_pequeños]] |
-| `[[cristo_en_los_pequeños]]` | 1 | el pobre/enfermo como Cristo mismo: «I poveri infermi sono pupilla et cuore di Dio» (Camillo, RdS 4); «I poveri sono Gesù, non una sua immagine» (Cottolengo, RdS 9); Mt 25,40 |
+| `[[cristo_en_nosotros]]` | 1 | **RESUELTO (2026-09-14, sesión VdS)**: wiki/conceptos/cristo_en_nosotros.md — Gal 2,20 vivido como experiencia (Benedetta Bianchi Porro, RdS 3); contra el «narcótico espiritual»; pareja con cristo_en_los_pequeños |
+| `[[cristo_en_los_pequeños]]` | 1 | **RESUELTO (2026-09-14, sesión VdS)**: wiki/conceptos/cristo_en_los_pequeños.md — «I poveri infermi sono pupilla et cuore di Dio» (Camillo, RdS 4); «I poveri sono Gesù, non una sua immagine» (Cottolengo, RdS 9); Mt 25,40; distinción presencia real ≠ metáfora devota |
 | `[[muerte_a_sí_mismo]]` | 1 | vivere = «morire a se stessi per vivere a Gesù Cristo crocifisso nei malati» (Camillo, RdS 4); complementa [[muerte_a_si_mismo]]/
       muertos al pecado (Rm 6) |
 | `[[sacrificio_expiatorio]]` | 1 | la ofrenda de Edith Stein como «vittima espiatrice per la vera pace» y «piccola Ester» (RdS 5) |
 | `[[beata_pierina_morosini]]` | 1 | **RESUELTO (2026-09-14)**: wiki/personas/beata_pierina_morosini.md — obrera bergamasca (Gandino), martirizada 1947, beatificada por JPII 4-X-1987 junto a Antonia Mesina (RdS 11) |
 | `[[beata_antonia_mesina]]` | 1 | **RESUELTO (2026-09-14)**: wiki/personas/beata_antonia_mesina.md — joven de Orgosolo, martirizada 1935, beatificada por JPII 4-X-1987 (RdS 11) |
-| `[[santa_agnes_de_roma]]` | 1 | la «Santa Agnese del secolo XX» es María Goretti: paralelo agiográfico (RdS 11) |
+| `[[santa_agnes_de_roma]]` | 1 | **RESUELTO (2026-09-14)**: wiki/personas/santa_agnes_de_roma.md — arquetipo hagiográfico de la virgen mártir (c. 304) del que María Goretti es la «Santa Agnese del secolo XX» (RdS 11); también memoria particular de la Legión (GLit-2024 n. 31) |
 | `[[san_juan_de_dios]]` | 1 | antecedente hospitalario de Camillo de Lellis (Ver también, RdS 4) |
 | `[[san_vicente_de_paul]]` | 1 | modelo caritativo que Cottolengo lee en su crisis vocacional (RdS 9); también S. Vincenzo de Paoli paralelo a don Bosco (RdS 7) |
 | `[[educación_cristiana]]` | — | RESUELTO: el artículo existente fue completado con secciones RdS (Mamma Margherita, Goretti, Moro, Bosco) |
