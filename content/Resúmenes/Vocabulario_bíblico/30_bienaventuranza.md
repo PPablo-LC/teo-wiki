@@ -3,99 +3,86 @@ type: ResumenFuente
 title: "Bienaventuranza"
 fuente: Vocabulario_bíblico
 capítulo: 30
-timestamp: 2026-08-24
-description: "Resumen de 'Bienaventuranza' — Vocabulario_bíblico"
+timestamp: 2026-09-15
+description: "La bienaventuranza en la Biblia: de la felicidad terrena a la celestial, Dios como fuente de bienaventuranza, las Bienaventuranzas de Jesús y la inversión de los valores."
 tags: ["resumen", "vocabulario bíblico"]
 ---
 
 # Bienaventuranza
 
+> 📄 **Fuente original:** `bienaventuranza.md`
+
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[vida]] — la vida como bienaventuranza
+- [[paz]] — la paz como bienaventuranza
+- [[gozo]] — el gozo como bienaventuranza
+- [[reposo]] — el reposo como bienaventuranza
+- [[bendicion]] — la bendición como bienaventuranza
+- [[salvacion]] — la salvación como bienaventuranza
+- [[maldicion]] — la maldición como desgracia
+- [[gloria]] — la bienaventuranza como participación de la gloria de Dios
+- [[gracia]] — la bienaventuranza como derivo de la gracia divina
+- [[camino]] — los caminos de la verdadera felicidad
+- [[retribucion]] — la retribución como horizonte de la bienaventuranza
+- [[confianza]] — la confianza sin límites en Dios
+- [[deseo]] — la depuración lenta del deseo hacia Dios
+- [[justificacion]] — el justo dichoso esperando la dimensión de la vida eterna
+- [[pobres]] — los pobres de Yahveh proclamando el bien absoluto en la confianza en Dios
+- [[cumplir]] — Jesús como el que cumple y realiza la aspiración a la felicidad
+- [[reino_de_dios]] — el reino de los cielos presente en Jesús
+- [[pobres]] — la pobreza como bienaventuranza mayor
+- [[obras]] — las obras de justicia como cortejo de la pobreza
+- [[humildad]] — la humildad como bienaventuranza
+- [[mansedumbre]] — la mansedumbre como bienaventuranza
+- [[puro]] — la pureza como bienaventuranza
+- [[misericordia]] — la misericordia como bienaventuranza
+- [[persecucion]] — la persecución por amor de Cristo como bienaventuranza
+- [[testimonio]] — el testimonio como camino de bienaventuranza
+- [[ver]] — creer sin haber visto como bienaventuranza
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `bienaventuranza.md`
+### AT
 
+El hombre quiere la felicidad, a la que llama vida, paz, gozo, reposo, bendición, salvación. Cuando el «sabio» proclama las bienaventuranzas, exhorta en nombre de su experiencia de felicidad a seguir los caminos que conducen a ella.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+#### I. Dios y la bienaventuranza
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Bienaventuranza |
-| 5 | H2 | AT |
-| 8 | H2 | I. DIOS Y LA BIENAVENTURANZA |
-| 10 | H3 | Felicidad y gloria en Dios. |
-| 13 | H3 | La bienaventuranza es Dios mismo. |
-| 17 | H2 | II. DE LA FELICIDAD TERRENA A LA CELESTIAL |
-| 20 | H3 | La bienaventuranza terrena. |
-| 23 | H3 | Hacia la bienaventuranza celestial. |
-| 26 | H2 | NT |
-| 29 | H2 | I. LA BIENAVENTURANZA Y CRISTO |
-| 32 | H3 | 1. Las «Bienaventuranzas», situadas en el |
-| 42 | H3 | 2. Todas las demás proclamaciones evangélicas tienden igualmente a |
-| 52 | H2 | II. LOS VALORES DE CRISTO |
+##### Felicidad y gloria en Dios
 
+A diferencia de los dioses griegos, la Biblia no se detiene en la felicidad de Dios. Dios es un Dios de gloria, que se inclina con solicitud hacia todos los hombres. La bienaventuranza del hombre deriva de la gracia divina, es participación de su gloria.
 
-## Secciones incluidas
+##### La bienaventuranza es Dios mismo
 
-# AT
+El lector de la Biblia descubre que la verdadera felicidad consiste en seguir los caminos divinos, caminar en la ley, escuchar la sabiduría. Pero el israelita teme a Dios, observa su ley, porque espera la felicidad como recompensa; en definitiva, espera a Dios en persona.
 
-[Contenido de esta sección...]
+#### II. De la felicidad terrena a la celestial
 
-# I. DIOS Y LA BIENAVENTURANZA
+##### La bienaventuranza terrena
 
-[Contenido de esta sección...]
+La felicidad es la vida, una vida que durante mucho tiempo se identificó con la vida terrena. Las bienaventuranzas detallan estos bienes: tener un rey digno, una esposa sensata, gran fortuna, ser prudente, no pecar con la lengua, tener compasión de los desgraciados.
 
-## Felicidad y gloria en Dios.
+##### Hacia la bienaventuranza celestial
 
-[Contenido de esta sección...]
+A este retrato del justo dichoso le falta la dimensión de la vida eterna. Los valores se modifican al ser ilustrados por ésta. La virtud aventaja al gozo de tener posteridad. Los sabios coinciden con los salmos de los pobres al ver el bien absoluto en la confianza en Yahveh.
 
-## La bienaventuranza es Dios mismo.
+### NT
 
-[Contenido de esta sección...]
+Con la venida de Cristo se dan virtualmente todos los bienes, puesto que en él halla finalmente la bienaventuranza su realización; y por él se dará el Espíritu Santo, suma de todos los bienes.
 
-# II. DE LA FELICIDAD TERRENA A LA CELESTIAL
+#### I. La bienaventuranza y Cristo
 
-[Contenido de esta sección...]
+Jesús no es sencillamente un sabio de gran experiencia, sino uno que vive plenamente la bienaventuranza que propone.
 
-## La bienaventuranza terrena.
+##### Las «Bienaventuranzas»
 
-[Contenido de esta sección...]
+Las Bienaventuranzas, situadas en el frontispicio del sermón inaugural de Jesús, ofrecen el programa de la felicidad cristiana. Jesús viene de parte de Dios a decir un sí solemne a las promesas del AT. Las bienaventuranzas son un sí pronunciado por Dios en Jesús. Jesús quiso «encarnar» las bienaventuranzas viviéndolas perfectamente, mostrándose «manso y humilde de corazón».
 
-## Hacia la bienaventuranza celestial.
+##### Todas las proclamaciones evangélicas
 
-[Contenido de esta sección...]
+Se «beatifica» a María por haber dado a luz al Salvador y por haber creído. ¡Ay de los fariseos, de Judas, de las ciudades incrédulas! ¡Dichosos los ojos que han visto a Jesús! ¡Dichosos los discípulos que serán fieles y vigilantes!
 
-# NT
+#### II. Los valores de Cristo
 
-[Contenido de esta sección...]
-
-# I. LA BIENAVENTURANZA Y CRISTO
-
-[Contenido de esta sección...]
-
-## 1. Las «Bienaventuranzas», situadas en el
-
-[Contenido de esta sección...]
-
-## 2. Todas las demás proclamaciones evangélicas tienden igualmente a
-
-[Contenido de esta sección...]
-
-# II. LOS VALORES DE CRISTO
-
-[Contenido de esta sección...]
+Mientras que el AT se esforzaba por añadir a los valores terrenos el valor de la justicia en la pobreza, Jesús adopta la posición contraria. Desde ahora los dichosos son los que tienen hambre, lloran, son pobres y perseguidos. Dos bienaventuranzas mayores comprenden todas las otras: la pobreza con su cortejo de obras de justicia, y la persecución por amor de Cristo. Estos valores no son nada sin Jesús que les da todo su sentido. Dichoso el que escucha las bienaventuranzas del Apocalipsis, que se mantiene vigilante. Incluso si debe dar su vida en testimonio: «¡Bienaventurados los muertos que mueren en el Señor!»

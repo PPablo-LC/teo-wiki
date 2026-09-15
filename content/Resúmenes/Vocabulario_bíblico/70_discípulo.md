@@ -3,74 +3,71 @@ type: ResumenFuente
 title: "Discípulo"
 fuente: Vocabulario_bíblico
 capítulo: 70
-timestamp: 2026-08-24
-description: "Resumen de 'Discípulo' — Vocabulario_bíblico"
+timestamp: 2026-09-15
+description: "El discípulo en la Biblia: de los discípulos de profetas y sabios al discípulo de Dios y la vocación, adhesión y dignidad de los discípulos de Jesús."
 tags: ["resumen", "vocabulario bíblico"]
 ---
 
 # Discípulo
 
+> 📄 **Fuente original:** `discipulo.md`
+
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[ensenar]] — la enseñanza de los sabios y de los profetas
+- [[palabra_de_dios]] — la palabra de Dios, fuente de toda sabiduría
+- [[sabiduria]] — la sabiduría divina personificada
+- [[escuchar]] — escuchar las lecciones de la sabiduría
+- [[ley]] — la ley, objeto primero de la enseñanza
+- [[tradicion]] — la tradición recibida de los maestros
+- [[mision]] — la misión de los discípulos enviados por Jesús
+- [[seguir]] — seguir a Jesús, adhesión a su persona
+- [[reposo]] — el reposo de las almas prometido por Jesús
+- [[profeta]] — los discípulos de los profetas
+- [[dios]] — ser discípulo de Dios mismo
+- [[jesus]] — los discípulos de Jesús
+- [[mesias]] — reconocer a Jesús por su maestro
+- [[cruz]] — el discípulo que lleva su cruz
+- [[reino]] — recibir de Jesús el reino
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `discipulo.md`
+El que se pone voluntariamente bajo la dirección de un maestro y comparte sus ideas, es un discípulo. Esta palabra, casi ausente del AT, se emplea corrientemente en el judaísmo tardío (heb. *talmid*), que lleva al término una tradición bíblica; se lo halla igualmente en el NT (gr. *machetes*), pero con el sentido original que le da Jesús.
 
+### AT
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### Discípulos de los profetas y de los sabios.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Discípulo |
-| 5 | H2 | AT |
-| 7 | H3 | Discípulos de los profetas y de los sabios. |
-| 10 | H3 | Discípulos de Dios. |
-| 13 | H3 | Maestros y discípulos en el judaísmo. |
-| 16 | H2 | NT |
-| 18 | H3 | Discípulos de Jesús. |
-| 25 | H3 | Discípulos de Jesús y discípulos de Dios. |
+De tiempo en tiempo se indica que un Eliseo se une a Elías *1Re 19,19ss* o que un grupo de fervientes discípulos rodea a Isaías, recibiendo en depósito su testimonio y su revelación *Is 8,16*. Más habitualmente los sabios tienen discípulos, a los que llaman sus «hijos» *Prov 1,8.10* *2,1* *3,1* y a los que inculcan sus enseñanzas tradicionales. Pero ni los profetas ni los sabios hubieran osado suplantar con su [[ensenar|enseñanza]] la [[palabra_de_dios|palabra]] de Dios. En efecto, en ésta, y no en las tradiciones de maestro a discípulo, está fundada la alianza.
 
+### Discípulos de Dios.
 
-## Secciones incluidas
+Puesto que la [[palabra_de_dios|palabra]] divina es la fuente de toda sabiduría, el ideal no es, por tanto, adherirse a un maestro humano, sino ser discípulo de Dios mismo. La [[sabiduria|sabiduría]] divina personificada llama así a los hombres a [[escuchar|escucharla]] y a seguir sus lecciones *Prov 1,20ss* *8,4ss.32s*. Finalmente, los oráculos escatológicos anuncian que en los últimos tiempos Dios mismo será el maestro de los corazones: no tendrán ya necesidad de maestros terrenales *Jer 31,31-34*, sino que todos serán «discípulos de Yahveh» *Is 54,13*. Al mismo siervo de Yahveh, si bien encargado de enseñar las prescripciones divinas *Is 42,1.4*, se le despiertan los oídos cada mañana y se le da una lengua de discípulo *Is 50,4*. El salmista, fiel a esta profecía, suplicará, pues, infatigablemente: «Señor, ¡enséñame!» *Sal 119,12.26s.33s* *25,4-9.*.
 
-# AT
+### Maestros y discípulos en el judaísmo.
 
-[Contenido de esta sección...]
+Al retorno del exilio, habiendo venido a ser la [[ley]] objeto primero de la enseñanza, los maestros encargados de esta institución fundamental son llamados «doctores de la ley». Ahora bien, la autoridad de la palabra de Dios que comentan se añade poco a poco a su autoridad personal *Mt 23,2.16-22*, sobre todo cuando transmiten la [[tradicion|tradición]] que ellos mismos habían recibido de sus maestros. El judaísmo postbíblico se organizará sobre la base de este talmud («enseñanza»). En la época del NT recuerda Pablo que él mismo había sido discípulo de Gamaliel *Act 22,3*.
 
-## Discípulos de los profetas y de los sabios.
+### NT
 
-[Contenido de esta sección...]
+### Discípulos de Jesús.
 
-## Discípulos de Dios.
+Aparte algunas menciones de los discípulos de Moisés *Jn 9,28*, del Bautista (p.e., *Mc 2,18* *Jn 1,35* *Act 19,1ss*) o de los fariseos (p.e., *Mt 22,16*), el NT reserva el nombre de discípulo a los que reconocen a Jesús por su maestro. Así en los evangelios se designa en primer lugar a los doce *Mt 10,1* *12,1.* y, más allá de este círculo íntimo, al grupo que sigue a Jesús *Mt 8,21* y particularmente a los setenta y dos discípulos que envía Jesús en [[mision|misión]] *Lc 10,1*. Estos discípulos fueron sin duda numerosos *Lc 6,17* *19,37* *Jn 6,60*, pero muchos se retiraron *Jn 6,66*. Nadie puede pretender hacerse maestro: si debe «hacer discípulos» *Mt 28,19* *Act 14,21s*, no ha de ser por su cuenta, sino sólo para Cristo. Así, poco a poco, a partir del cap. 6 del libro de los Hechos, la denominación de «discípulo» sin más se refiere a todo creyente, haya o no conocido a Jesús durante su vida terrena *Act 6,1s* *9,10-26.*; los fieles son, pues, desde este punto de vista, asimilados a los mismos doce *Jn 2,11* *8,31* *20,29*.
 
-[Contenido de esta sección...]
+Jesús, aunque aparentemente idéntico a los doctores judíos de su tiempo, tenía para con sus discípulos exigencias únicas.
 
-## Maestros y discípulos en el judaísmo.
+#### Vocación.
 
-[Contenido de esta sección...]
+Lo que cuenta para venir a ser su discípulo no son las aptitudes intelectuales y ni siquiera morales; es un llamamiento, cuya iniciativa corresponde a Jesús *Mc 1,17-20* *Jn 1,38-50*, y a través de él al Padre, que «da» a Jesús sus discípulos *Jn 6,39* *10,29* *17,6.12*.
 
-# NT
+#### Adhesión personal a Cristo.
 
-[Contenido de esta sección...]
+Para ser discípulo de Jesús no se requiere ser un hombre superior; en efecto, la relación que une al discípulo y al maestro no es exclusivamente y ni siquiera en primer lugar, de orden intelectual. Él le dice: «¡Sígueme!» En los evangelios, el verbo [[seguir]] expresa siempre la adhesión a la persona de Jesús (p.e., *Mt 8,19*). Seguir a Jesús es romper con el pasado, con una ruptura total si se trata de discípulos privilegiados. Seguir a Jesús es calcar la propia conducta en la suya, escuchar sus lecciones y conformar la propia vida con la del Salvador *Mc 8,34s* *10,21 p.42-45* *Jn 12,26*. A diferencia de los discípulos de los doctores judíos, que una vez instruidos en la ley podían separarse de su maestro y enseñar a su vez, el discípulo de Jesús se ha ligado no a una doctrina, sino a una persona: no puede abandonar al que en adelante es para él más que padre y que madre *Mt 10,37* *Lc 14,25s*.
 
-## Discípulos de Jesús.
+#### Destino y dignidad.
 
-[Contenido de esta sección...]
+El discípulo de Jesús es, por tanto, llamado a compartir el destino mismo del maestro: llevar su [[cruz]] *Mc 8,34 p*, beber su cáliz *Mc 10,38s*, finalmente recibir de él el [[reino]] *Mt 19,28s* *Lc 22,28ss* *Jn 14,3*. Así, desde ahora, quienquiera que dé sencillamente un vaso de agua en calidad de discípulo, no perderá su recompensa *Mt 10,42 p*; por el contrario, ¡qué gran falta es «escandalizar a uno solo de estos pequeñuelos!» *Mc 9,42 p*.
 
-## Discípulos de Jesús y discípulos de Dios.
+### Discípulos de Jesús y discípulos de Dios.
 
-[Contenido de esta sección...]
+Si a los discípulos de Jesús se los distingue así de los discípulos de los doctores judíos, es que Dios mismo habla a los hombres a través de su Hijo. Los doctores no transmitían sino tradiciones humanas, que a veces «anulaban la palabra de Dios» *Mc 7,1ss*; Jesús es la sabiduría divina encarnada, que promete a sus discípulos el [[reposo]] de sus almas *Mt 11,29*. Cuando habla Jesús, se cumple la profecía del AT: se oye a Dios mismo, y así todos pueden ser «discípulos de Dios» *Jn 6,45*.

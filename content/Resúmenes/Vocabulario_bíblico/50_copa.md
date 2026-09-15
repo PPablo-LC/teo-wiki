@@ -3,54 +3,45 @@ type: ResumenFuente
 title: "Copa"
 fuente: Vocabulario_bíblico
 capítulo: 50
-timestamp: 2026-08-24
-description: "Resumen de 'Copa' — Vocabulario_bíblico"
+timestamp: 2026-09-15
+description: "La copa en la Biblia: copa de comunión, copa de ira para los impíos y cáliz de salvación de Cristo en su sacrificio y en la Eucaristía."
 tags: ["resumen", "vocabulario bíblico"]
 ---
 
 # Copa
 
+> 📄 **Fuente original:** `copa.md`
+
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[comida]] — la copa que circula durante las comidas
+- [[comunion]] — la copa como símbolo de comunión
+- [[impio]] — los impíos que prefieren la copa de los demonios
+- [[ira]] — la ira de Dios
+- [[vino]] — el vino que regocija el corazón
+- [[embriaguez]] — la embriaguez vergonzosa
+- [[castigos]] — el castigo reservado a los impíos
+- [[penitencia_conversion]] — la conversión que esquiva la ira
+- [[expiacion]] — los sacrificios de expiación
+- [[sangre]] — la sangre de las víctimas y la de Cristo
+- [[figura]] — los ritos que figuraban el sacrificio de Cristo
+- [[sacrificio]] — el sacrificio de expiación perfecta
+- [[obediencia]] — la obediencia filial de Jesús
+- [[eucaristia]] — el cáliz eucarístico
+- [[reino]] — beber a la mesa del Hijo en el reino
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `copa.md`
+### Copa de comunión
 
+El uso oriental de hacer circular durante las comidas una copa, en la que beben todos, hace de ella un símbolo de comunión. En los banquetes sacrificiales es invitado el hombre a la mesa de Dios; la copa que se le ofrece, rebosante, es el símbolo de la comunión con el Dios de la alianza, que es la parte de sus fieles. Pero los impíos prefieren al culto de Dios y a la copa que les ofrece, la copa de los demonios, con los que comulgan en un culto idolátrico.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+### Copa de ira
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Copa |
-| 3 | H3 | Copa de comunión. |
-| 6 | H3 | Copa de ira. |
-| 9 | H3 | Cáliz de salvación. |
+Esta impiedad atrae la ira de Dios; para expresar sus efectos vuelven los profetas al símbolo de la copa: ésta vierte un vino que regocija el corazón del hombre, pero cuyo abuso conduce a una vergonzosa embriaguez. Tal embriaguez es el castigo reservado por Dios a los impíos. Su parte de copa, brebaje de muerte que deben beber aunque les pese, es el vino de la ira de Dios.
 
+### Cáliz de salvación
 
-## Secciones incluidas
+La ira de Dios está reservada a los endurecidos. Gracias a la conversión se la puede esquivar. Ya en el AT los sacrificios de expiación expresan el arrepentimiento del convertido; la sangre de las víctimas, recogida en las copas de aspersión, se derramaba sobre el altar y sobre el pueblo; así se renovaba la alianza entre el pueblo purificado y Dios. Tales ritos figuraban el sacrificio en que la ofrenda de la sangre de Cristo debía realizar la expiación perfecta y la alianza eterna con Dios. Este sacrificio es la copa que el Padre da a beber a su hijo Jesús; éste, con obediencia filial, la acepta para salvar a los hombres y la bebe dando gracias a su Padre en nombre de todos a los que salva.
 
-## Copa de comunión.
-
-[Contenido de esta sección...]
-
-## Copa de ira.
-
-[Contenido de esta sección...]
-
-## Cáliz de salvación.
-
-[Contenido de esta sección...]
+Ahora ya esta copa es el cáliz de la salvación, ofrecido a todos los hombres para que comulguen en la sangre de Cristo hasta que él vuelva, y bendiga para siempre al Padre que les concederá beber a la mesa de su Hijo en el reino.

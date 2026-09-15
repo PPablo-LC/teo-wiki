@@ -3,114 +3,86 @@ type: ResumenFuente
 title: "Autoridad"
 fuente: Vocabulario_bíblico
 capítulo: 23
-timestamp: 2026-08-24
-description: "Resumen de 'Autoridad' — Vocabulario_bíblico"
+timestamp: 2026-09-15
+description: "La autoridad en la Biblia: su origen divino en el AT, los dos poderes en el pueblo de Dios, Jesús como depositario de autoridad y las relaciones de la Iglesia con las autoridades humanas."
 tags: ["resumen", "vocabulario bíblico"]
 ---
 
 # Autoridad
 
+> 📄 **Fuente original:** `autoridad.md`
+
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[ley]] — la ley que modera el ejercicio de la autoridad
+- [[esclavo]] — los derechos de los esclavos precisados por la ley
+- [[educacion]] — la autoridad del padre con por fin la buena educación
+- [[poder]] — el poder que embriaga a los que mandan
+- [[bestia_bestias]] — las bestias satánicas como símbolo de la autoridad pervertida
+- [[juicio]] — el juicio divino sobre la autoridad pervertida
+- [[salvacion]] — el designio de salvación que da nuevo sentido a la autoridad
+- [[mision]] — la misión de los enviados religiosos
+- [[moises]] — Moisés como depositario del poder espiritual
+- [[profeta]] — los profetas como depositarios del poder espiritual
+- [[sacerdocio]] — los sacerdotes como depositarios del poder espiritual
+- [[rey]] — los reyes en la autoridad del pueblo de Dios
+- [[venganza]] — el llamamiento a la venganza divina contra el imperio pagano
+- [[servir]] — Jesús que ha venido para servir
+- [[discipulo]] — los discípulos como depositarios de la autoridad de Jesús
+- [[satán]] — el poder que Jesús negó a tener de Satán
+- [[hijo]] — el Hijo del hombre, base de la autoridad de Jesús
+- [[rodilla]] — toda rodilla que se doblará ante Cristo
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `autoridad.md`
+### AT
 
+#### I. «Toda autoridad viene de Dios»
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+Este principio se supone constantemente en el AT: el ejercicio de la autoridad aparece sometido a las exigencias de la voluntad divina.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Autoridad |
-| 3 | H2 | AT |
-| 5 | H2 | I. «TODA AUTORIDAD VIENE DE DIOS» |
-| 8 | H3 | Aspectos de la autoridad terrenal. |
-| 11 | H3 | Condiciones del ejercicio de la autoridad. |
-| 14 | H2 | II. LA AUTORIDAD EN EL PUEBLO DE DIOS |
-| 17 | H3 | Los dos poderes. |
-| 21 | H3 | Frente a los imperios paganos. |
-| 24 | H2 | NT |
-| 26 | H2 | I. JESÚS |
-| 28 | H3 | Jesús, depositario de la autoridad. |
-| 31 | H3 | Jesús delante de las autoridades terrenas. |
-| 34 | H2 | II. LOS APÓSTOLES |
-| 36 | H3 | Los depositarios de la autoridad de Jesús. |
-| 39 | H3 | El ejercicio de la autoridad humana. |
-| 42 | H3 | Las relaciones de la Iglesia con las autoridades humanas. |
+##### Aspectos de la autoridad terrenal
 
+En la creación todo poder procede de Dios: el del hombre sobre la naturaleza, el del marido sobre la mujer, el de los padres sobre los hijos. Todos los que mandan tienen de Dios la responsabilidad del bien común: Yahveh ordena a Hagar la obediencia, confiere a Hazael el gobierno de Damasco y a Nabucodonosor el de todo el Oriente.
 
-## Secciones incluidas
+##### Condiciones del ejercicio de la autoridad
 
-# AT
+La autoridad confiada por Dios no es absoluta; está limitada por las obligaciones morales. La ley viene a moderar su ejercicio, precisando incluso los derechos de los esclavos. En materia de autoridad política es donde el hombre propende más a traspasar los límites de su poder. Cuando la autoridad se diviniza y se alza contra el Señor soberano, se asemeja a las bestias satánicas que Daniel veía surgir del mar. Pero una autoridad pervertida se condena por sí misma al juicio divino.
 
-[Contenido de esta sección...]
+#### II. La autoridad en el pueblo de Dios
 
-# I. «TODA AUTORIDAD VIENE DE DIOS»
+Para restaurar el orden de la creación, inaugura Dios en la historia de su pueblo un designio de salvación, en el que la autoridad terrenal adquirirá nuevo sentido.
 
-[Contenido de esta sección...]
+##### Los dos poderes
 
-## Aspectos de la autoridad terrenal.
+A la cabeza de su pueblo establece Dios apoderados que no son en primer lugar personajes políticos, sino enviados religiosos: Moisés, los profetas, los sacerdotes. Sin embargo, Israel es también una comunidad nacional dotada de organización política teocrática. La doctrina de la alianza supone una estrecha asociación de los dos poderes, y la subordinación del político al espiritual.
 
-[Contenido de esta sección...]
+##### Frente a los imperios paganos
 
-## Condiciones del ejercicio de la autoridad.
+Cuando el judaísmo se reconstruye después del exilio, la distinción del poder espiritual y del poder político se afirma tanto mejor cuanto que este último está en manos de los imperios extranjeros. El pueblo de Dios adopta dos actitudes: franca aceptación cuando el imperio favorece la restauración del culto, o llamamiento a la venganza divina y rebelión cuando se convierte en perseguidor.
 
-[Contenido de esta sección...]
+### NT
 
-# II. LA AUTORIDAD EN EL PUEBLO DE DIOS
+#### I. Jesús
 
-[Contenido de esta sección...]
+##### Jesús, depositario de la autoridad
 
-## Los dos poderes.
+Durante su vida pública aparece Jesús como depositario de una autoridad singular: predica con autoridad, tiene poder para perdonar los pecados, es señor del sábado. Su autoridad se extiende hasta las cosas políticas; pero no se prevale de este poder entre los hombres. Mientras que los jefes de este mundo muestran el suyo ejerciendo su dominio, él se comporta como quien sirve. Y precisamente porque adopta la condición de esclavo, toda rodilla se doblará finalmente delante de él.
 
-[Contenido de esta sección...]
+##### Jesús delante de las autoridades terrenas
 
-## Frente a los imperios paganos.
+Ante las autoridades judías reivindica su calidad de Hijo del hombre. Reconoce la competencia propia del césar; pero destaca la iniquidad de la que es víctima. Consagra la distinción neta entre lo espiritual y lo temporal. Los dos poderes se confundían en la teocracia israelita; en la Iglesia no sucederá ya lo mismo.
 
-[Contenido de esta sección...]
+#### II. Los apóstoles
 
-# NT
+##### Los depositarios de la autoridad de Jesús
 
-[Contenido de esta sección...]
+Jesús delegó a sus discípulos su propia autoridad y les confió sus poderes. Pero les enseñó que el ejercicio de aquellos poderes era en realidad un servicio. Si bien se ejerce esta autoridad en forma visible, no por eso deja de ser de orden espiritual: concierne exclusivamente al gobierno de la Iglesia. Se mantiene efectiva la distinción entre lo espiritual y lo político.
 
-# I. JESÚS
+##### El ejercicio de la autoridad humana
 
-[Contenido de esta sección...]
+Los escritos apostólicos confirman la doctrina del AT, pero dándole una nueva base. La mujer debe estar sometida a su marido, pero éste debe amarla como Cristo amó a su Iglesia. Los esclavos deben obedecer a sus amos; pero los amos deben acordarse de que también ellos tienen un señor en el cielo. Esta moral social le da por base y por ideal el servicio de los otros realizado en la caridad.
 
-## Jesús, depositario de la autoridad.
+##### Las relaciones de la Iglesia con las autoridades humanas
 
-[Contenido de esta sección...]
-
-## Jesús delante de las autoridades terrenas.
-
-[Contenido de esta sección...]
-
-# II. LOS APÓSTOLES
-
-[Contenido de esta sección...]
-
-## Los depositarios de la autoridad de Jesús.
-
-[Contenido de esta sección...]
-
-## El ejercicio de la autoridad humana.
-
-[Contenido de esta sección...]
-
-## Las relaciones de la Iglesia con las autoridades humanas.
-
-[Contenido de esta sección...]
+Frente a las autoridades judías, los apóstoles las tratan con respeto en tanto no es manifiesta su oposición a Cristo. Pero al oponerse a la predicación del Evangelio, los apóstoles pasan por encima de sus prohibiciones: hay que obedecer a Dios antes que a los hombres. Frente al imperio romano, Pablo profesa perfecta lealtad y proclama que toda autoridad viene de Dios. Pero si la autoridad política se eleva contra Dios y contra su Cristo, la profecía cristiana anuncia su juicio y su caída.

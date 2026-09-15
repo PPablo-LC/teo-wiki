@@ -3,54 +3,49 @@ type: ResumenFuente
 title: "Diluvio"
 fuente: Vocabulario_bíblico
 capítulo: 68
-timestamp: 2026-08-24
-description: "Resumen de 'Diluvio' — Vocabulario_bíblico"
+timestamp: 2026-09-15
+description: "El diluvio en la Biblia: juicio y misericordia de Dios, figura del bautismo y de la Iglesia, y su plenitud escatológica en el orden nuevo."
 tags: ["resumen", "vocabulario bíblico"]
 ---
 
 # Diluvio
 
+> 📄 **Fuente original:** `diluvio.md`
+
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[juicio]] — el juicio divino que hiere al pecador
+- [[arca]] — el arca liberadora
+- [[adan]] — Noé, justo como Adán, representa a los suyos
+- [[eleccion]] — la elección gratuita del resto
+- [[resto]] — el pequeño resto que será el tronco de un pueblo nuevo
+- [[misericordia]] — la misericordia que se opone al castigo vindicativo
+- [[penitencia_conversion]] — la vía abierta a la conversión
+- [[agua]] — el juicio por las aguas
+- [[alianza]] — la alianza que asegura la fidelidad de Dios
+- [[exodo]] — el tipo de los juicios salvíficos
+- [[figura]] — Noé, figura de Jesucristo
+- [[creacion]] — la nueva creación
+- [[muerte]] — las aguas de la muerte
+- [[bautismo]] — el agua del bautismo
+- [[iglesia]] — el arca, figura de la Iglesia
+- [[cielo]] — los nuevos cielos
+- [[tierra]] — la nueva tierra
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `diluvio.md`
+### El antiguo diluvio.
 
+El recuerdo de una inundación catastrófica, que se remonta a un pasado muy lejano, fue conservado y agrandado por leyendas sumero-babilónicas de fechas diversas. A la luz de la fe monoteísta, la tradición bíblica hizo una selección de los materiales de esta herencia popular y los cargó de enseñanza moral y religiosa. Lo que se atribuía al capricho de los dioses celosos, aparece ya como obra justa del Dios único; la idea de desastre cede el puesto a la de depuración con miras a una [[salvacion|salvación]], representada por el [[arca]] liberadora; más allá de las fuerzas irresponsables resalta un [[juicio]] divino que hiere al pecador y hace del justo la simiente de una humanidad nueva. La aventura de Noé cesa así de ser un episodio accidental; resume y simboliza toda la historia de Israel y la historia misma de la humanidad.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+Sólo a Noé se llama justo *Gen 7,1*, pero, como [[adan|Adán]], representa a todos los suyos y los salva juntos con él *Gen 7,1.7.13*. Con esta [[eleccion|elección]] gratuita se reserva Dios un pequeño [[resto]], los que salen indemnes, que serán el tronco de un pueblo nuevo. Si el corazón del hombre que ha sido salvado es todavía proclive al pecado, Dios, no obstante, se declara desde ahora paciente: su [[misericordia]] se opone al castigo puramente vindicativo y abre la vía a la [[penitencia_conversion|conversión]] *Gen 8,15-22*. El juicio por las [[agua|aguas]] aboca así a una [[alianza]] que asegura la fidelidad de Dios a la humanidad entera al mismo tiempo que a la familia de Noé *Gen 9,1-17*.
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Diluvio |
-| 3 | H3 | El antiguo diluvio. |
-| 7 | H3 | Figura del futuro. |
-| 10 | H3 | El diluvio de los tiempos nuevos. |
+### Figura del futuro.
 
+La teología profética reconoció en el diluvio, como en la liberación por las aguas del mar Rojo en el momento del [[exodo|éxodo]], el tipo mismo de los juicios salvíficos de Dios. La vuelta del exilio, del resto, que será la simiente de un pueblo nuevo, aparece no sólo como un nuevo éxodo, sino como la reiteración de la obra de Noé al salir del arca: «En un amor eterno me apiadé de ti, dice Yahveh, tu redentor. Será como al tiempo de Noé, en que juré que nunca más las aguas de Noé sumergirían a la tierra» *Is 54,7ss*. Los sabios evocan la idea de un juicio saludable: «Noé fue hallado enteramente justo y en el tiempo de la cólera fue retoño. Por él se conservó un resto en la tierra cuando ocurrió el diluvio; alianzas eternas hizo Dios con él» *Eclo 44,17s* *Sab 10,4s* *14,6*. Las imágenes mesiánicas del retoño y del resto hacen ya a Noé [[figura]] de Jesucristo, que será un día el principio de una nueva [[creacion|creación]].
 
-## Secciones incluidas
+### El diluvio de los tiempos nuevos.
 
-## El antiguo diluvio.
+Para anunciar el juicio escatológico evoca Jesús el diluvio *Mt 24,37ss*. Por lo demás, este juicio se anticipa ya acá en la tierra. En efecto, Cristo, como un nuevo Noé, penetró en las grandes [[agua|aguas]] de la [[muerte]] y salió de ellas vencedor con una multitud de gentes salidas indemnes. Los que se sumergen en el agua del [[bautismo]], salen de ella salvos y configurados con Cristo resucitado *1Pe 3,18-21*. Si, pues, el diluvio prefigura el bautismo, el arca liberadora puede aparecer a los ojos de los padres como la figura de la [[iglesia|Iglesia]] que flota sobre las aguas de un mundo pecador y que recoge a todos los que «quieren salvarse de esta generación perversa» *Act 2,40*.
 
-[Contenido de esta sección...]
-
-## Figura del futuro.
-
-[Contenido de esta sección...]
-
-## El diluvio de los tiempos nuevos.
-
-[Contenido de esta sección...]
+Sin embargo, todavía no ha venido el juicio final que amenaza a los impíos. Como en los días del diluvio, esta dilación manifiesta la paciente misericordia de Dios; el juicio escatológico está suspendido en espera de que la comunidad mesiánica realice su plenitud *2Pe 2,5.9* *3,8s*. El autor de la segunda epístola de Pedro distingue, a través de las imágenes apocalípticas de su tiempo, tres etapas en la historia de la salvación: el mundo antiguo que fue juzgado por el agua, el mundo presente que perecerá por el fuego y el mundo futuro con sus nuevos [[cielo|cielos]] y su nueva [[tierra]] *2Pe 3,5ss.11ss*. La antigua alianza con Noé se realizará así plenamente en un orden nuevo, en el que la obra creadora de Dios logre hacer vivir en armonía al hombre y al universo purificados.

@@ -3,69 +3,60 @@ type: ResumenFuente
 title: "Apóstoles"
 fuente: Vocabulario_bíblico
 capítulo: 18
-timestamp: 2026-08-24
-description: "Resumen de 'Apóstoles' — Vocabulario_bíblico"
+timestamp: 2026-09-15
+description: "El apostolado en el NT: los doce como fundamento de la Iglesia, la misión ampliada a otros discípulos, y Pablo como apóstol de los gentiles."
 tags: ["resumen", "vocabulario bíblico"]
 ---
 
 # Apóstoles
 
+> 📄 **Fuente original:** `apostoles.md`
+
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[naciones]] — Pablo como apóstol de las naciones paganas
+- [[profeta]] — los profetas con misiones del mismo orden que el apostolado
+- [[mision]] — la misión apostólica como representación del resucitado
+- [[testimonio]] — los apóstoles como testigos de Cristo resucitado
+- [[israel]] — los doce como fundamentos del nuevo Israel
+- [[numeros]] — el número 12 del colegio apostólico como símbolo
+- [[autoridad]] — la autoridad apostólica en doctrina, ministerio y jurisdicción
+- [[evangelio]] — la predicación del Evangelio como tarea apostólica
+- [[imposicion_de_manos]] — Pablo ordena a Timoteo imponiéndole las manos
+- [[comunion]] — mantener la comunión como fin de la jurisdicción apostólica
+- [[pastor_y_rebano]] — el apóstol como pastor que sirve a los fieles
+- [[ejemplo]] — el apóstol como modelo de fe
+- [[carisma]] — el carisma del apostolado y la inteligencia espiritual
+- [[conocer]] — el conocimiento particular del misterio de Cristo
+- [[misterio]] — «Cristo entre las naciones» como misterio de Pablo
+- [[pedro]] — Pedro como jefe de los doce
+- [[discipulo]] — el apostolado como cosa de todo discípulo de Cristo
+- [[vocacion]] — la vocación particular de Pablo como apóstol
+- [[gloria]] — el ministerio de la gloria escatológica
+- [[Eclesiologia]] — la Iglesia como «apóstólica»
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `apostoles.md`
+### I. Los doce y el apostolado
 
+El apostolado, antes de dar derecho a un título, fue una función. Sólo al cabo de una lenta evolución, el círculo restringido de los doce heredó en forma privilegiada el título de apóstoles. El sustantivo *apostolos* expresa el contenido de «enviado»; el apóstol no es en primer lugar un misionero, sino un emisario, un delegado, un plenipotenciario, un embajador.
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+#### Los doce apóstoles
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Apóstoles |
-| 7 | H2 | I. LOS DOCE Y EL APOSTOLADO |
-| 10 | H3 | Los doce apóstoles. |
-| 13 | H3 | El apostolado de la Iglesia naciente. |
-| 16 | H2 | II. PABLO, APÓSTOL DE LOS GENTILES |
-| 19 | H3 | Embajador de Cristo. |
-| 23 | H3 | El caso único de Pablo. |
+Jesús quiso multiplicar su presencia por medio de hombres que fueran como él. Llama a los cuatro primeros discípulos para que sean pescadores de hombres; escoge a doce para que estén «con él» y anuncien el evangelio; los envía en misión revestidos de su autoridad. Constituyen los fundamentos del nuevo Israel, cuyos jueces serán el último día. El número 12 del colegio apostólico simboliza las doce tribus. Deben ser testigos de Cristo: atestiguar que el Cristo resucitado es el mismo Jesús con el que habían vivido. Los doce son para siempre el fundamento de la Iglesia.
 
+#### El apostolado de la Iglesia naciente
 
-## Secciones incluidas
+Si los doce son los apóstoles por excelencia, el apostolado no se limita a su acción. Así como Jesús, «apóstol de Dios», quiso constituir un colegio privilegiado, los doce comunican a otros el ejercicio de su misión. Ya en el AT Moisés había transmitido a Josué la plenitud de sus poderes. Jesús designó todavía a otros setenta y dos discípulos y los envió. El apostolado queda para siempre fundado sobre el colegio apostólico, pero se extiende a la Iglesia entera.
 
-# I. LOS DOCE Y EL APOSTOLADO
+### II. Pablo, apóstol de los gentiles
 
-[Contenido de esta sección...]
+La existencia de Pablo confirma lo que Jesús había insinuado enviando a los setenta y dos, además de los doce.
 
-## Los doce apóstoles.
+#### Embajador de Cristo
 
-[Contenido de esta sección...]
+Pablo ha sido «llamado» como apóstol en una visión apocalíptica del resucitado; el origen de su misión dependió de una vocación particular. Como apóstol, es un «enviado» personalmente de Jesús. «Somos embajadores de Cristo, como si Dios os exhortase por medio de nosotros». La autoridad apostólica se ejerce sobre la doctrina, del ministerio y de la jurisdicción. Esta autoridad no es tiránica, es un servicio, el de un pastor que sabe renunciar a sus derechos.
 
-## El apostolado de la Iglesia naciente.
+#### El caso único de Pablo
 
-[Contenido de esta sección...]
-
-# II. PABLO, APÓSTOL DE LOS GENTILES
-
-[Contenido de esta sección...]
-
-## Embajador de Cristo.
-
-[Contenido de esta sección...]
-
-## El caso único de Pablo.
-
-[Contenido de esta sección...]
+Pablo se atribuía un puesto aparte: es el apóstol de las naciones paganas, tiene una inteligencia especial del misterio de Cristo, que pertenece al orden carismático y no se puede transmitir. Dios quiso que al nacimiento de su Iglesia un apóstol estuviera más especialmente encargado de la evangelización de los gentiles. Pablo tiene por la gracia de Dios un conocimiento particular del misterio de Cristo entre las naciones. El apostolado de los fieles, aun siendo por excelencia función de los doce y de Pablo, se ejerció desde los principios por la Iglesia entera. En sentido amplio, el apostolado es cosa de todo discípulo de Cristo.

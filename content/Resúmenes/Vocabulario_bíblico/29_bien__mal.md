@@ -3,109 +3,108 @@ type: ResumenFuente
 title: "Bien - Mal"
 fuente: Vocabulario_bíblico
 capítulo: 29
-timestamp: 2026-08-24
-description: "Resumen de 'Bien - Mal' — Vocabulario_bíblico"
+timestamp: 2026-09-15
+description: "El bien y el mal en la Biblia: la bondad de la creación, la entrada del mal por el pecado, sólo Dios es bueno y la victoria definitiva del bien en Cristo."
 tags: ["resumen", "vocabulario bíblico"]
 ---
 
 # Bien - Mal
 
+> 📄 **Fuente original:** `bien_y_mal.md`
+
 ## Conceptos básicos referenciados
 
-[Lista de conceptos teológicos tratados aquí.]
-
+- [[vida]] — la vida como bien y la muerte como mal
+- [[enfermedad_curacion]] — la enfermedad como forma de mal
+- [[sufrimiento]] — el sufrimiento en todas sus formas
+- [[muerte]] — la muerte como mal por excelencia
+- [[creacion]] — la bondad objetiva de las criaturas en relación con Dios creador
+- [[conocer]] — el árbol del conocimiento del bien y del mal
+- [[prueba_tentacion]] — la prueba decisiva de la libertad
+- [[liberacion_libertad]] — la libertad como capacidad de elección
+- [[ley]] — la ley de Dios como camino del bien
+- [[voluntad_de_dios]] — conformarse con la voluntad de Dios
+- [[pecado]] — el pecado como elección del mal fuera de la voluntad de Dios
+- [[corazon]] — el mal que sale del propio corazón del hombre
+- [[guerra]] — la guerra incesante entre Dios y el mal
+- [[libertador]] — Dios como libertador que arranca de la muerte
+- [[tierra]] — la tierra prometida como «buen país»
+- [[leche]] — la tierra donde fluyen leche y miel
+- [[alianza]] — la alianza como condición de la bienaventuranza
+- [[bendicion]] — la bendición y la maldición ante las que se sitúa Israel
+- [[maldicion]] — la maldición como alternativa a la bendición
+- [[desierto]] — la tierra que se convertirá en desierto por la infidelidad
+- [[impio]] — la felicidad aparente de los impíos
+- [[justificacion]] — los justos que sufren
+- [[servir]] — el servidor de Yahveh perseguido
+- [[profeta]] — los profetas entregados a muerte
+- [[pobres]] — los pobres de Yahveh aprendiendo a despegarse de los bienes terrenos
+- [[fe]] — la fe heroica de los pobres de Yahveh
+- [[esperanza]] — la esperanza heroica de los pobres de Yahveh
+- [[victoria]] — la victoria sobre el mal
+- [[mundo]] — el príncipe de este mundo
+- [[adan]] — Jesús como nuevo Adán sin pecado
+- [[cruz]] — la obediencia hasta la muerte de cruz
+- [[maldicion]] — Cristo hecho maldición por nosotros
+- [[gracia]] — el hombre transformado por la gracia capaz de hacer el bien
+- [[obras]] — las buenas obras como fruto de la gracia
+- [[paciencia]] — la paciencia adquirida con las tribulaciones
+- [[gloria]] — la gloria futura que supera los sufrimientos
+- [[riquezas]] — las riquezas incorruptibles de la fe
+- [[mediador]] — Cristo como mediador de los bienes venideros
+- [[patria]] — la patria mejor
+- [[ver]] — creer no es ver
 
 ## Contenido
 
-[ESTA ES UNA PLANTILLA VACÍA.
-Debe ser completada por el agente de IA con un resumen fiel del texto original.
-📄 **Fuente original:** `bien_y_mal.md`
+### I. El bien y el mal en el mundo
 
+«Vio Dios cuanto había hecho, y era muy bueno». Sin embargo, Cristo nos invita a pedir: «Líbranos del mal».
 
-Instrucciones para el agente:
-1. Usar el mapa del archivo fuente (abajo) para conocer la estructura completa.
-2. Leer TODAS las secciones del mapa secuencialmente (por orden de líneas), sin saltarse ninguna. No confiar en conocimiento general.
-3. Verificar que cada sección del mapa fue leída antes de redactar.
-4. Preservar enunciados y títulos originales.
-5. Redactar resumen conciso pero completo.
-6. Incluir wikilinks [[concepto]] para términos teológicos.
-7. Mantener jerarquía de encabezados del original.
-]
-## Mapa del archivo fuente
+#### Sentido subjetivo del bien y del mal
 
-| Línea | Nivel | Sección |
-|-------|-------|---------|
-| 1 | H1 | Bien - Mal |
-| 5 | H2 | I. EL BIEN Y EL MAL EN EL MUNDO |
-| 7 | H3 | 1. Para el que las ve o las experimenta, |
-| 20 | H3 | 2.  ¿Se puede también hablar de una bondad objetiva de las criaturas |
-| 37 | H3 | 3. La bondad del hombre constituye un caso |
-| 48 | H3 | 4. Ahora bien, desde los orígenes, el hombre, seducido por el maligno  |
-| 63 | H2 | II. SÓLO DIOS ES BUENO |
-| 65 | H3 | La bondad de Dios es una revelación capital del AT. |
-| 68 | H3 | Dios pone una condición a sus dones. |
-| 71 | H3 | La felicidad de los impíos y la desgracia de los justos. |
-| 74 | H2 | III. DIOS TRIUNFA DEL MAL |
-| 76 | H3 | De la ley al llamamiento de la gracia. |
-| 79 | H3 | Sólo «Jesucristo Nuestro Señor». |
-| 82 | H3 | Los bienes otorgados. |
-| 85 | H3 | La victoria del bien sobre el mal. |
+La palabra hebrea *tób* designa primitivamente a las personas o los objetos que provocan sensaciones agradables: todo lo que procura la felicidad o facilita la vida. Por el contrario, todo lo que conduce a la enfermedad, al sufrimiento y a la muerte es malo.
 
+#### Bondad objetiva de las criaturas
 
-## Secciones incluidas
+Cuando la Biblia atribuye bondad real a las cosas, no lo entiende en función de un bien abstracto, sino en relación con el Dios creador, único que da a las cosas su bondad.
 
-# I. EL BIEN Y EL MAL EN EL MUNDO
+#### La bondad del hombre
 
-[Contenido de esta sección...]
+La bondad del hombre depende en parte de él mismo. Dios lo situó ante «el árbol del conocimiento del bien y del mal», dejándole la posibilidad de obedecer o de desobedecer. Su elección determinará su calificación moral y su destino.
 
-## 1. Para el que las ve o las experimenta,
+#### La entrada del mal en el mundo
 
-[Contenido de esta sección...]
+Desde los orígenes, el hombre, seducido por el maligno, escogió el mal. Buscó su bien en las criaturas pero fuera de la voluntad de Dios. A consecuencia de su pecado se introdujo el mal en el mundo. El mal no es una mera ausencia de bien, sino una fuerza positiva que esclaviza al hombre y corrompe el universo. Comienza una guerra incesante.
 
-## 2.  ¿Se puede también hablar de una bondad objetiva de las criaturas
+### II. Sólo Dios es bueno
 
-[Contenido de esta sección...]
+#### La bondad de Dios es una revelación capital del AT
 
-## 3. La bondad del hombre constituye un caso
+Habiendo conocido el mal durante la servidumbre de Egipto, Israel descubre el bien en Yahveh su libertador. Dios lo arranca a la muerte, lo conduce a la tierra prometida.
 
-[Contenido de esta sección...]
+#### Dios pone una condición a sus dones
 
-## 4. Ahora bien, desde los orígenes, el hombre, seducido por el maligno (Satán), escogió el mal.
+Israel se ve situado frente a una elección. Dios pone ante él la bendición y la maldición. Si Israel rompe la alianza, sería privado de los bienes terrenales y enviado en servidumbre.
 
-[Contenido de esta sección...]
+#### La felicidad de los impíos y la desgracia de los justos
 
-# II. SÓLO DIOS ES BUENO
+Parece fallar la doctrina: ¿no favorece Dios a los impíos? Los justos sufren. Pero por esta experiencia aprenden los pobres de Yahveh a despegarse de los bienes de este mundo para hallar su fuerza y su vida en Dios. Dios «sólo es bueno».
 
-[Contenido de esta sección...]
+### III. Dios triunfa del mal
 
-## La bondad de Dios es una revelación capital del AT.
+#### De la ley al llamamiento de la gracia
 
-[Contenido de esta sección...]
+La ley era buena, pero era ineficaz, en tanto no cambiara el corazón del hombre. La concupiscencia le arrastra; la ley redunda finalmente en su mal. ¿Quién lo libertará?
 
-## Dios pone una condición a sus dones.
+#### Sólo «Jesucristo Nuestro Señor»
 
-[Contenido de esta sección...]
+Cristo puede atacar al mal en la raíz, triunfando de él en el corazón mismo del hombre. Es el nuevo Adán, sin pecado. Se hizo maldición por nosotros para que recibiéramos el Espíritu prometido.
 
-## La felicidad de los impíos y la desgracia de los justos.
+#### Los bienes otorgados
 
-[Contenido de esta sección...]
+Renunciando Cristo a los bienes terrenales y enviándonos el Espíritu Santo, nos procuró los frutos del Espíritu. El hombre transformado por la gracia puede «hacer el bien» y «vencer el mal por el bien».
 
-# III. DIOS TRIUNFA DEL MAL
+#### La victoria del bien sobre el mal
 
-[Contenido de esta sección...]
-
-## De la ley al llamamiento de la gracia.
-
-[Contenido de esta sección...]
-
-## Sólo «Jesucristo Nuestro Señor».
-
-[Contenido de esta sección...]
-
-## Los bienes otorgados.
-
-[Contenido de esta sección...]
-
-## La victoria del bien sobre el mal.
-
-[Contenido de esta sección...]
+El cristiano se desolidariza de la opción de Adán. El mal moral queda verdaderamente vencido en él. Los sufrimientos del tiempo presente no se pueden comparar con la gloria futura. El creyente está en posesión de las riquezas incorruptibles, de la patria mejor, del mundo nuevo que Dios creará para sus elegidos.
