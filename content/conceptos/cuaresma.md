@@ -33,6 +33,14 @@ Los cc. 1249-1251 establecen los días de penitencia obligatoria: todos los vier
 
 La Constitución Sacrosanctum Concilium §109-110 prescribe que la Cuaresma debe tener un carácter bautismal y penitencial: se prepare a los fieles con la escucha más frecuente de la Palabra de Dios y con la oración.
 
+### Según Ritratti di santi (RdS)
+
+La fuente nace de un itinerario cuaresmal concreto y muestra la Cuaresma como tiempo de experiencia cristiana compartida:
+
+- **El «itinerario quaresimale»**: en 1986 el Centro Culturale «La Via» de Brescia organizó un encuentro por cada una de las cinco semanas de Cuaresma, dedicado a la «contemplazione del volto dei santi»: media hora de meditación durante una liturgia eucarística (RdS 02). La Cuaresma se aprovecha así como espacio litúrgico privilegiado para un camino formativo de la comunidad.
+- **Cuaresma, sacramento de la comparación**: recorrer las biografías de los santos durante la Cuaresma para «andare alla scoperta del proprio volto umano: quello che Dio vuole e ama» — el tiempo penitencial orientado a la conversión mediante la mirada sobre la santidad.
+- **El lugar del Coliseo**: el beato Angelo Paoli llevaba a sus novicios al Coliseo restaurado «specie in quaresima, perché imparassero a meditare sulla fede e sul martirio» (RdS 01) — la pedagogía cuaresmal de la meditación sobre la pasión.
+
 ### Según León XIV (L_XIV-ClerRom)
 
 León XIV se dirige al clero romano «al inicio de este camino cuaresmal», subrayando que la Cuaresma «no es un acto de penitencia: es, al menos para mí, una gran alegría». La Cuaresma es presentada como tiempo para «reavivar el don de Dios» (2 Tim 1,6), donde el fuego de la fe necesita ser alimentado ante el cansancio, la rutina y la indiferencia. El Papa concluye su discurso deseando «un buen camino cuaresmal, que es tiempo de conversión y de alegría para todos», vinculando la Cuaresma no solo a la penitencia sino también al gozo de la renovación espiritual y de la fraternidad presbiteral [L_XIV-ClerRom, 19.02.2026].
@@ -56,7 +64,7 @@ La Cuaresma es camino hacia el [[triduo_pascual]] y culmina en la celebración d
 - [[tim_barry_mortification_maketh_man]]
 
 ## Ver también
-[[triduo_pascual]], [[misterio_pascual]], [[penitencia]], [[ayuno]], [[pascua]], [[miércoles_de_ceniza]], [[conversión]]
+[[triduo_pascual]], [[misterio_pascual]], [[penitencia]], [[ayuno]], [[pascua]], [[miércoles_de_ceniza]], [[conversión]], [[experiencia_cristiana]], [[santidad]]
 
 ## Referencias
 

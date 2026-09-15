@@ -86,13 +86,21 @@ GS 66: «Hay que promover el desarrollo económico con todas las energías, pero
 
 GS 71: Denuncia el lucro excesivo, la usura, la evasión de impuestos, la especulación, la propiedad desviada del destino universal de los bienes — todo ello como violaciones de la justicia social.
 
+### Según Ritratti di santi (RdS)
+
+El capítulo 7 (S. Giovanni Bosco) muestra la justicia social antes de que existiera la expresión, como respuesta caritativa a la primera industrialización:
+
+- **Los niños sin protección de Turín**: «La città è invasa da bande di ragazzi che si offrono per tutti i lavori possibili (ambulanti, lustrascarpe, fiammiferai, spazzacamini, mozzi di stalla, garzoni...) e non sono protetti da nessuno»; decenas de miles de inmigrados, muchachos que se dan al robo y acaban en la cárcel — el diagnóstico social que precede a la obra de don Bosco (RdS 07, l. 159).
+- **La respuesta estructural**: el oratorio diario (no solo festivo), con «una compromissione totale del prete»: escuela, talleres y vida cristiana para los sin protección. Frente a quienes politizaban a los jóvenes («preti patriotti» que llevaron a doscientos muchachos a la batalla de Novara, «una disfatta in tutti i sensi»), don Bosco se concentra en la educación integral: la justicia social realizada como educación, no como agitación.
+- **El principito caritativo siciliano**: el capítulo 2 (Gravina) documenta la versión «desde arriba»: el noble que convierte su fortuna en salario justo, educación, vivienda y obra preventiva contra la mendicidad — «elevare i mendicanti a dignità di uomini» —, mostrando que la justicia social es inseparable de la caridad organizada (ver [[obras_de_caridad]]).
+
 ## Relaciones doctrinales
 
 La justicia social se fundamenta en la [[justicia]] cardinal y se relaciona con el [[bien_común]]. Se distingue de la [[caridad]] aunque ambas se complementan. Se aplica en la [[doctrina_social_de_la_iglesia]] y en los principios de [[solidaridad]] y [[subsidiariedad]].
 
 ## Ver también
 
-[[justicia]], [[bien_común]], [[caridad]], [[doctrina_social_de_la_iglesia]], [[solidaridad]], [[dignidad_humana]]
+[[justicia]], [[bien_común]], [[caridad]], [[doctrina_social_de_la_iglesia]], [[solidaridad]], [[dignidad_humana]], [[obras_de_caridad]], [[san_juan_bosco]], [[venerable_francesco_paolo_gravina]]
 
 ## Referencias
 
